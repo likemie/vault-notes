@@ -7613,6 +7613,15 @@
     ]
   },
   {
+    "title": "Australian Council for Educational Research",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Council for Educational Research.md",
+    "aliases": [
+      "澳大利亚教育研究委员会",
+      "ACER"
+    ]
+  },
+  {
     "title": "Australian Curriculum",
     "type": "fact",
     "path": "wiki/facts/australia/Australian Curriculum.md",
@@ -7636,6 +7645,15 @@
     "aliases": [
       "澳大利亚独立研究中心",
       "CIS"
+    ]
+  },
+  {
+    "title": "Educational Services Australia",
+    "type": "fact",
+    "path": "wiki/facts/australia/Educational Services Australia.md",
+    "aliases": [
+      "澳大利亚教育服务公司",
+      "ESA"
     ]
   },
   {

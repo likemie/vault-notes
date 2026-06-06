@@ -19,6 +19,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[TEMAG]]"
+  - "[[Australian Council for Educational Research]]"
 related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
@@ -35,7 +36,7 @@ updated: 2026-06-06
 ## 背景
 
 > [!info]
-> 初始教师教育学生读写和算术测试（Literacy and Numeracy Test for Initial Teacher Education, LANTITE）是2015年[[TEMAG|教师教育专家咨询小组]]（TEMAG）报告《行动立即开始》（Action Now: Classroom Ready Teachers）引入的主要改革措施之一。该测试由澳大利亚教育研究委员会（Australian Council for Educational Research, ACER）管理。
+> 初始教师教育学生读写和算术测试（Literacy and Numeracy Test for Initial Teacher Education, LANTITE）是2015年[[TEMAG|教师教育专家咨询小组]]（TEMAG）报告《行动立即开始》（Action Now: Classroom Ready Teachers）引入的主要改革措施之一。该测试由[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER）管理。
 
 ---
 
@@ -58,14 +59,14 @@ updated: 2026-06-06
 ## 效果与评价
 
 > [!info]- 核心数据
-> LANTITE 为ACER带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。这一收入来源使得测试的存废与ACER的财务利益直接相关。
+> LANTITE 为[[Australian Council for Educational Research|ACER]]带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。这一收入来源使得测试的存废与ACER的财务利益直接相关。
 
 ---
 
 ## 争议与评论
 
 > [!warning]
-> - 作为中介组织的ACER从ITE政策改革中获得了直接经济利益，形成了制度性的利益关联
+> - 作为中介组织的[[Australian Council for Educational Research|ACER]]从ITE政策改革中获得了直接经济利益，形成了制度性的利益关联
 > - LANTITE 是ITE改革中不断增加的标准化测试和问责机制的一部分，反映了"[[What Works Movement|什么有效运动]]"的惩罚性问责逻辑
 
 ---

@@ -7,13 +7,13 @@ extracted_to:
   - "[[Effect Size]]"
   - "[[Australian Curriculum]]"
   - "[[Gonski Reforms]]"
-  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Dietrich Benner]]"
   - "[[Radical Constructivism]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 processed_date: 2026-05-05
 ---
 

@@ -15,9 +15,9 @@ extracted_to:
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
   - "[[Evidence-Based Education]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 processed_date: 2026-05-03
 ---
 

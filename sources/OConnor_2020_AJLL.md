@@ -7,7 +7,6 @@ extracted_to:
   - "[[Whole Language]]"
   - "[[Simple View of Reading]]"
   - "[[Effect Size]]"
-  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Rose Report]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Meta-analysis]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Ken Goodman]]"
   - "[[Critiques of Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
 processed_date: 2026-05-03
 ---
 

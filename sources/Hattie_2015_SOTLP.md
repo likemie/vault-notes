@@ -13,8 +13,8 @@ extracted_to:
   - "[[Carl Bereiter]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 processed_date: 2026-05-04
 ---
 

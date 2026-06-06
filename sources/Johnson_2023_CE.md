@@ -14,8 +14,8 @@ extracted_to:
   - "[[Meta-meta-analysis]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Cognition Education]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 processed_date: 2026-05-04
 ---
 

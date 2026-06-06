@@ -16,8 +16,8 @@ extracted_to:
   - "[[Policy Entrepreneur]]"
   - "[[Teach First New Zealand]]"
   - "[[Cognition Education]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 processed_date: 2026-05-04
 ---
 

@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
-  - "[[Graduate Attributes]]"
   - "[[School Leadership]]"
   - "[[Causality]]"
 related_theories:
@@ -35,7 +34,9 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[LANTITE]]"
+  - "[[Australian Council for Educational Research]]"
   - "[[Australian Curriculum]]"
+  - "[[Educational Services Australia]]"
 related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
@@ -54,7 +55,7 @@ updated: 2026-06-06
 > [!question] 核心关切与政策谜题
 > 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查（Louden, 2008, p. 357），被Mockler（2023）称为"检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤"（p. 115）。2023年联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，在延续2015年《行动立即开始》（[[TEMAG|Teacher Education Ministerial Advisory Group]], TEMAG）和2022年《优质初始教师教育》审查逻辑的基础上，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为ITE的必修核心内容，代表了一个重要的政策转折点。这一改革的深层逻辑是什么？
 >
-> 更具体地说，一场因教师严重短缺而发起的政策审查，为何最终将问题界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为价值中立的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）等证据中介组织和[[Centre for Independent Studies|澳大利亚独立研究中心]]（Centre for Independent Studies, CIS）等保守智库的私人利益？
+> 更具体地说，一场因教师严重短缺而发起的政策审查，为何最终将问题界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为价值中立的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）等证据中介组织和[[Centre for Independent Studies|澳大利亚独立研究中心]]（CIS）等保守智库的私人利益？
 
 ---
 
@@ -104,7 +105,7 @@ updated: 2026-06-06
 
 《强劲开端》报告因严重的教师短缺问题而发起。澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）成员国所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
 
-2022年[[Graduate Outcomes Survey|毕业生结果调查]]（[[Graduate Outcomes Survey|毕业生结果调查]]（[[Graduate Attributes|graduate outcomes]] Survey, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持教师培训质量低下的判断。
+2022年[[Graduate Outcomes Survey]]（毕业生结果调查, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持教师培训质量低下的判断。
 
 然而，报告引用了一项调查数据作为推动改革的核心证据。32%的受访者认为需要更好更相关的课程内容，31%认为需要更多实践经验，25%认为需要更多实践知识（p.23）。
 
@@ -156,7 +157,7 @@ AERO的CEO Jenny Donovan是专家小组成员，她曾任教育统计与评估�
 AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre for Evidence and Implementation, CEI）进行什么有效的桌面审查（Abdo et al., 2021）。CEI自我定位为全球性非营利证据中介（p.2），审查所咨询的专家大部分来自CEI自身和什么有效机构（p.15）。AERO并非自己开展审查，而是委托外部机构在有限的澳大利亚证据基础上完成（p.41）。
 
 > [!note] AERO的机构定位
-> AERO明确将自身定位为[[What Works Movement|什么有效运动]]的一部分（Abdo et al., 2021, p.5）。其组织蓝图与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, [[Education Endowment Foundation|EEF]]）保持紧密联系。EEF创始人Sir Kevan Collins在AERO专家委员会任职（AERO, 2022），AERO被建议以EEF为蓝本建立（Productivity Commission, 2016, p.20）。EEF的"建设全球教学证据生态"五年项目（2018年启动）由必和必拓基金会（BHP Foundation）资助，旨在合作国家建立"EEF式组织"以推动[[Knowledge Production|知识生产]]（EEF, 2024）。此前EEF还资助了澳大利亚的"Evidence for Learning"（Social Ventures Australia的子公司）。
+> AERO明确将自身定位为[[What Works Movement|什么有效运动]]的一部分（Abdo et al., 2021, p.5）。其组织蓝图与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）保持紧密联系。EEF创始人Sir Kevan Collins在AERO专家委员会任职（AERO, 2022），AERO被建议以EEF为蓝本建立（Productivity Commission, 2016, p.20）。EEF的"建设全球教学证据生态"五年项目（2018年启动）由必和必拓基金会（BHP Foundation）资助，旨在合作国家建立"EEF式组织"以推动[[Knowledge Production|知识生产]]（EEF, 2024）。此前EEF还资助了澳大利亚的"Evidence for Learning"（Social Ventures Australia的子公司）。
 
 > [!warning] AERO董事会与专家组的分歧
 > 《强劲开端》报告暗示了专家小组成员之间的分歧。AERO董事会"强调倾向于对核心内容进行权威性的全国阐述"，认为"任何低于此的措施都不足以支撑认证小组和ITE项目开发者对这些实践的一致理解"，但专家组并不同意，认为"不需要对认证标准和程序进行全面审查来实施核心内容"（pp.31）。AERO董事会推动的更具权威性（authoritative）的政策立场，包括取消ITE项目认证或实施惩罚性资金分配（p.9）。
@@ -176,7 +177,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 > Jennifer Buckingham是[[Centre for Independent Studies|CIS]]的资深研究员和董事会成员（CIS, 2024），同时担任[[Australian Institute for Teaching and School Leadership|AITSL]]的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在证据生产端（CIS资助研究）和政策采纳端（AITSL董事会）拥有影响力时，循证决策的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似，多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
 
 > [!note] 中介组织的制度性利益
-> 利益关联不限于个体层面。[[LANTITE]]（Literacy and Numeracy Test for Initial Teacher Education）为澳大利亚教育研究委员会（Australian Council for Educational Research, ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、[[Australian Curriculum|澳大利亚课程]]评估与报告局（Australian Curriculum, Assessment and Reporting Authority, ACARA）和AERO均由注册慈善机构澳大利亚教育服务公司（Educational Services Australia, ESA）支撑（p.10注释5），形成了制度性的利益共同体。
+> 利益关联不限于个体层面。[[LANTITE]]（Literacy and Numeracy Test for Initial Teacher Education）为[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、[[Australian Curriculum|澳大利亚课程]]评估与报告局（ACARA）和AERO均由注册慈善机构[[Educational Services Australia|澳大利亚教育服务公司]]（ESA）支撑（p.10注释5），形成了制度性的利益共同体。
 
 > [!warning] 私人利益的隐身术
 > 报告将这些参考文献呈现为科学共识或最佳证据，而非特定意识形态立场的产物。ITE学生在学习这些内容时，很可能不会意识到自己正在接受的是由保守智库策展的知识体系。私人利益在循证话语的掩护下完成了隐身。

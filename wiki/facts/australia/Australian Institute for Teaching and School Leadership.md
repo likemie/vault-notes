@@ -19,6 +19,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
+  - "[[Educational Services Australia]]"
   - "[[TEMAG]]"
   - "[[Centre for Independent Studies]]"
 related_arguments: []
@@ -37,7 +38,7 @@ updated: 2026-06-06
 ## 背景
 
 > [!info]
-> 澳大利亚教学与[[School Leadership|学校领导力]]协会（Australian Institute for Teaching and School Leadership, AITSL）于2011年受托制定《澳大利亚教师专业标准》（Australian Professional Standards for Teachers），由此成为"改革ITE项目的关键参与者"（Barnes & Cross, 2021, p.460）。AITSL、ACARA和[[Australian Education Research Organisation|AERO]]均由注册慈善机构澳大利亚教育服务公司（Educational Services Australia, ESA）支撑。
+> 澳大利亚教学与[[School Leadership|学校领导力]]协会（Australian Institute for Teaching and School Leadership, AITSL）于2011年受托制定《澳大利亚教师专业标准》（Australian Professional Standards for Teachers），由此成为"改革ITE项目的关键参与者"（Barnes & Cross, 2021, p.460）。AITSL、ACARA和[[Australian Education Research Organisation|AERO]]均由注册慈善机构[[Educational Services Australia|澳大利亚教育服务公司]]（Educational Services Australia, ESA）支撑。
 
 ---
 

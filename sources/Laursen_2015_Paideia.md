@@ -13,8 +13,8 @@ extracted_to:
   - "[[Hilbert Meyer]]"
   - "[[Geert Hofstede]]"
   - "[[Hofstede's Cultural Dimensions]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 processed_date: 2026-05-05
 ---
 

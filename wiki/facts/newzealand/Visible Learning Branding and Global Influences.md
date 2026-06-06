@@ -49,13 +49,16 @@ related_persons:
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Cognition Education]]"
+  - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[New Zealand National Standards]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[ResearchED]]"
+  - "[[Australian Council for Educational Research]]"
   - "[[Australian Curriculum]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Hattie på dansk]]"
   - "[[Visible Learning in Sweden]]"
   - "[[Russian Translation of Visible Learning]]"
@@ -183,7 +186,7 @@ updated: '2026-05-18'
 >
 > Hattie 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发的教师反馈工具——教师自我录制课堂音频，由大学"专家"基于 VL 研究量规进行反馈，按服务收费（O'Neill et al., 2016, pp.49–50）：
 >
-> - **原始试点**（8 所学校）：由英国 EEF 资助 GBP 360,000
+> - **原始试点**（8 所学校）：由英国 [[Education Endowment Foundation|EEF]] 资助 GBP 360,000
 > - **扩展试验**：EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模效能试验
 > - **2015 年 1 月**：进入美国市场
 > - **2015 年 5 月**：墨尔本大学与 Ai-Media 签署五年全球协议
@@ -248,13 +251,13 @@ updated: '2026-05-18'
 >
 > **政策采纳路径**（Sarbiewska, 2019, p.126–128）：
 > - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
-> - [[ResearchED]] Australia（ACER, 2017）为从业者提供分享平台
+> - [[ResearchED]] Australia（[[Australian Council for Educational Research|ACER]], 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习
 > - 2017 年 VL 获维多利亚州教育部官方背书（Department of Education and Training, 2017）
 > - 2017 年被澳大利亚广播公司（ABC）电视系列片 *Revolution School* 描绘为公共教育的拯救者
 >
-> **AITSL 制度嵌入**：Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
+> **[[Australian Institute for Teaching and School Leadership|AITSL]] 制度嵌入**：Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
 >
 > **绩效薪酬的制度基础**：VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾（Terhart, 2011, pp.434–435）。
 >
