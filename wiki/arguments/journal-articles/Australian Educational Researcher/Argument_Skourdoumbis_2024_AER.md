@@ -103,7 +103,7 @@ updated: 2026-06-06
 
 《强劲开端》报告因严重的教师短缺问题而发起。澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）成员国所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
 
-2022年毕业生结果调查（[[Graduate Attributes|graduate outcomes]] Survey, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持"教师培训质量低下"的判断。
+2022年毕业生结果调查（[[Graduate Attributes|graduate outcomes]] Survey, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持教师培训质量低下的判断。
 
 然而，报告引用了一项调查数据作为推动改革的核心证据。32%的受访者认为需要更好更相关的课程内容，31%认为需要更多实践经验，25%认为需要更多实践知识（p.23）。
 
@@ -114,7 +114,7 @@ updated: 2026-06-06
 
 ---
 
-### 第二步：神经科学作为"价值中立"科学知识的预设
+### 第二步：神经科学作为价值中立科学知识的预设
 
 报告将大脑与学习定位为客观、价值中立的科学知识，作为解决教育问题的权威方案。核心内容围绕三个焦点展开，分别是新手学习者与专家学习者的对比、大脑如何学习和保持信息、大脑如何掌握知识（p.95）。明确区分新手大脑（novice brain）与专家大脑（expert brain），要求ITE学生学习生物初级知识与生物次级知识获取的特征（characteristics of biologically primary and biologically secondary knowledge acquisition），并明确反对自主学习（self-directed learning）和探究式学习（inquiry-based learning）（pp.6-7）。
 
@@ -126,7 +126,7 @@ updated: 2026-06-06
 Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说者缺乏认知神经科学方面的正式训练（p.35），倾向于代表各种议程和商业利益，将脑科学视为通过营销现成解决方案来获利的工具（p.35）。
 
 > [!warning] 简化主义的现实后果
-> 试想一位ITE学生在课堂上学到"新手大脑不适应探究式学习"。这一判断如果被当作"科学事实"接受，那么所有以学生主动探索为核心的教学法，如项目式学习、问题导向学习、合作探究，都将被贴上"不符合脑科学"的标签而遭到系统性排斥。教育实践中丰富多样的教学策略被压缩为一条单一的认知规则。
+> 试想一位ITE学生在课堂上学到新手大脑不适应探究式学习。这一判断如果被当作科学事实接受，那么所有以学生主动探索为核心的教学法，如项目式学习、问题导向学习、合作探究，都将被贴上"不符合脑科学"的标签而遭到系统性排斥。教育实践中丰富多样的教学策略被压缩为一条单一的认知规则。
 
 ---
 
@@ -146,7 +146,7 @@ Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说�
 
 ---
 
-### 第四步："问题"表征的生产者，AERO与证据中介网络
+### 第四步：问题表征的生产者，AERO与证据中介网络
 
 WPR方法追问的第六个问题，这种问题表征如何被生产、传播和捍卫？在《强劲开端》中，[[Australian Education Research Organisation|AERO]]发挥了关键的塑造作用。
 
@@ -161,7 +161,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 > 《强劲开端》报告暗示了专家小组成员之间的分歧。AERO董事会"强调倾向于对核心内容进行权威性的全国阐述"，认为"任何低于此的措施都不足以支撑认证小组和ITE项目开发者对这些实践的一致理解"，但专家组并不同意，认为"不需要对认证标准和程序进行全面审查来实施核心内容"（pp.31）。AERO董事会推动的更具权威性（authoritative）的政策立场，包括取消ITE项目认证或实施惩罚性资金分配（p.9）。
 
 > [!abstract] 证据中介的权力逻辑
-> 证据中介组织（evidence [[Boundary Spanner|intermediary]] organizations）的运作逻辑可以这样理解：它们不直接生产研究，而是筛选、综合和"翻译"研究，决定哪些证据"有效"、哪些"无效"。当这种筛选权与认证权和资金权结合时，证据中介就不再是中性的信息传递者，而成为了政策权力的关键节点。AERO同时掌握证据审查权和政策建议权，形成了"自己出题、自己答题、自己判卷"的闭环。
+> 证据中介组织（evidence [[Boundary Spanner|intermediary]] organizations）的运作逻辑可以这样理解：它们不直接生产研究，而是筛选、综合和翻译研究，决定哪些证据有效、哪些无效。当这种筛选权与认证权和资金权结合时，证据中介就不再是中性的信息传递者，而成为了政策权力的关键节点。AERO同时掌握证据审查权和政策建议权，形成了"自己出题、自己答题、自己判卷"的闭环。
 
 ---
 
@@ -172,7 +172,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 [[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和[[Education Endowment Foundation|EEF]]推广（EEF, 2023），其理论被呈现为ITE教师必须掌握的"科学基础"。特别值得注意的是，指定参考文献中包括Sweller（2021）由CIS资助出版的《为什么探究式学习有害学生学习》（Why inquiry-based approaches harm students' learning, Analysis Paper 24），这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
 
 > [!example] 政策行动者的多重关联
-> Jennifer Buckingham是[[Centre for Independent Studies|CIS]]的资深研究员和董事会成员（CIS, 2024），同时担任[[Australian Institute for Teaching and School Leadership|AITSL]]的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似，多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
+> Jennifer Buckingham是[[Centre for Independent Studies|CIS]]的资深研究员和董事会成员（CIS, 2024），同时担任[[Australian Institute for Teaching and School Leadership|AITSL]]的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在证据生产端（CIS资助研究）和政策采纳端（AITSL董事会）拥有影响力时，循证决策的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似，多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
 
 > [!note] 中介组织的制度性利益
 > 利益关联不限于个体层面。[[LANTITE]]（Literacy and Numeracy Test for Initial Teacher Education）为澳大利亚教育研究委员会（Australian Council for Educational Research, ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、[[Australian Curriculum|澳大利亚课程]]评估与报告局（Australian Curriculum, Assessment and Reporting Authority, ACARA）和AERO均由注册慈善机构澳大利亚教育服务公司（Educational Services Australia, ESA）支撑（p.10注释5），形成了制度性的利益共同体。
