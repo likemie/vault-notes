@@ -10,7 +10,6 @@ tags:
 - region/new-zealand
 - region/global
 related_concepts:
-  - "[[Sci-Tech Achievement Transformation]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []

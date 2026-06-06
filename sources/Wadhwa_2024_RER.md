@@ -2,6 +2,8 @@
 citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
 extracted_to:
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Best Evidence Encyclopedia]]"
@@ -10,6 +12,7 @@ extracted_to:
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
+  - "[[Communities in Schools]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[National Dropout Prevention Center]]"
   - "[[Open Court Reading]]"
@@ -22,12 +25,9 @@ extracted_to:
   - "[[What Works Clearinghouse]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Communities in Schools]]"
 processed_date: 2026-05-05
 ---
 

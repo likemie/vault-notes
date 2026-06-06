@@ -21,17 +21,17 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
-  - "[[Variable]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Return on Investment]]"
 related_theories:
   - "[[Triple Helix]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_facts:
   - "[[DARPA]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
+  - "[[Semiconductor Research Corporation]]"
 sources:
   - "[[Ch12_Ramming_2025]]"
 status: draft

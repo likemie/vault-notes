@@ -48,7 +48,6 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Global Universities Rankings]]"
   - "[[Hegemony]]"
-  - "[[STEM Education]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"

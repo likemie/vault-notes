@@ -25,6 +25,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"
   - "[[Theoretical Perspective]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Health System]]"
 related_theories:
@@ -45,6 +46,7 @@ sources:
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
   - "[[Ch10_Swick_Jones_2025]]"
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
+  - "[[Ch12_Ramming_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26

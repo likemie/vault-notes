@@ -11,17 +11,12 @@ tags:
   - region/us
   - subject/science
   - subject/technology
-related_concepts:
-  - "[[Innovation Ecosystem]]"
-  - "[[Technology Transfer]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[National Science Foundation]]"
-  - "[[DARPA]]"
-related_arguments:
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+related_facts: []
+related_arguments: []
 sources:
   - "[[Cheng_2026_KeJiChuangXin]]"
 confidence: medium

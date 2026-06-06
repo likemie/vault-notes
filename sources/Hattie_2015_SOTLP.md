@@ -9,12 +9,12 @@ extracted_to:
   - "[[Problem-Based Learning]]"
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Biggs]]"
   - "[[Carl Bereiter]]"
   - "[[Thomas Aastrup Rømer]]"
-  - "[[Popper's Three Worlds Theory]]"
   - "[[John Hattie]]"
-  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Popper's Three Worlds Theory]]"
 processed_date: 2026-05-04
 ---
 

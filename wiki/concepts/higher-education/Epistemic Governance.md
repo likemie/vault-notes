@@ -28,7 +28,6 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
-  - "[[Comprehensive School Reform Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 sources:

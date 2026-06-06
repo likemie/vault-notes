@@ -10,14 +10,13 @@ tags:
   - economics/productivity
   - region/china
   - policy/innovation
-related_concepts: []
+related_concepts:
+  - "[[Buen Vivir]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[China S&T Innovation Policy Evolution]]"
-related_arguments:
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+related_facts: []
+related_arguments: []
 sources:
   - "[[Cheng_2026_KeJiChuangXin]]"
 confidence: medium

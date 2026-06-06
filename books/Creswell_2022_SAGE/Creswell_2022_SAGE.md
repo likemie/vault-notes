@@ -1,6 +1,7 @@
 ---
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 extracted_to:
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Locus of Control]]"
   - "[[Self-control]]"
   - "[[APA Style]]"
@@ -34,6 +35,8 @@ extracted_to:
   - "[[Gatekeepers]]"
   - "[[Hook and Eye Technique]]"
   - "[[Hypothesis]]"
+  - "[[Informed Consent]]"
+  - "[[Institutional Review Board]]"
   - "[[Integration Statement]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Inter-Rater Reliability]]"
@@ -45,6 +48,7 @@ extracted_to:
   - "[[Manipulation Check]]"
   - "[[Memos]]"
   - "[[Metainferences]]"
+  - "[[Mixed Methods Question]]"
   - "[[Multimethod Research]]"
   - "[[Narrative Hook]]"
   - "[[Narrative Thought Types]]"
@@ -61,6 +65,7 @@ extracted_to:
   - "[[Qualitative Reliability]]"
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
+  - "[[Research Ethics]]"
   - "[[Research Introduction]]"
   - "[[Research Problem]]"
   - "[[Research Question]]"
@@ -95,6 +100,7 @@ extracted_to:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Descriptive Methods]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Interview Protocol]]"
@@ -137,12 +143,6 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
-  - "[[Institutional Review Board]]"
-  - "[[Mixed Methods Question]]"
-  - "[[Research Ethics]]"
-  - "[[Informed Consent]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Descriptive Methods]]"
 processed_date: 2026-05-30
 ---
 

@@ -9,14 +9,15 @@ tags:
   - theory/cognitive-science
   - theory/instructional-design
   - learning-science
-related_concepts:
-  - "[[Working Memory]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources: []
+related_arguments:
+  - "[[Argument_Skourdoumbis_2024_AER]]"
+sources:
+  - "[[Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06

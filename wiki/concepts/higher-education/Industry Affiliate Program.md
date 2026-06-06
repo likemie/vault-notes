@@ -18,7 +18,6 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Sci-Tech Achievement Transformation]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Foreground IP]]"
 related_theories: []

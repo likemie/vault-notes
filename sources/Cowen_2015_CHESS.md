@@ -3,6 +3,7 @@ citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). 
 extracted_to:
   - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Class Size]]"
+  - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -11,7 +12,6 @@ extracted_to:
   - "[[Nancy Cartwright]]"
   - "[[Nick Cowen]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01
 ---
 

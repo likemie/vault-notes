@@ -17,6 +17,19 @@ tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
   - "policy/economic-development"
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Innovation Hub]]"
+  - "[[Public-Private Partnership in Research]]"
+  - "[[Technology Transfer]]"
+  - "[[Innovation Park]]"
+related_facts:
+  - "[[National Science Foundation]]"
+  - "[[Semiconductor Research Corporation]]"
+  - "[[Universal Parallel Computing Research Centers]]"
+sources:
+  - "[[Ch7_Byrne_2025]]"
+  - "[[Ch12_Ramming_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28

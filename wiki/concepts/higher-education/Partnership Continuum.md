@@ -18,6 +18,8 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Academic Health System]]"
   - "[[Academic Medical Center]]"
+  - "[[Clinical Trial]]"
+  - "[[Return on Investment]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []

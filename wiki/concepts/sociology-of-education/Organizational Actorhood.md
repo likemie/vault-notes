@@ -27,7 +27,6 @@ related_facts:
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
   - "[[Academic Ranking of World Universities]]"
-  - "[[Comprehensive School Reform Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 sources:

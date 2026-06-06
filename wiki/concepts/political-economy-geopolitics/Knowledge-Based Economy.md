@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[STEM Education]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Internationalization of Higher Education]]"

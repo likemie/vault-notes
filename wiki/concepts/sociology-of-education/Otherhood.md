@@ -19,7 +19,6 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Comprehensive School Reform Program]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[THE Impact Ranking]]"
 related_arguments: []

@@ -21,9 +21,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Sponsored Research Agreement]]"
-  - "[[Entrepreneur in Residence]]"
-  - "[[Further Education]]"
+  - "[[Multi-Faceted Relationships in University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
 related_persons: []

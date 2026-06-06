@@ -20,6 +20,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Innovation Ecosystem]]"
   - "[[Return on Investment]]"
+  - "[[Joint Faculty Appointments]]"
   - "[[Trade Mission]]"
 related_theories: []
 related_methods:
@@ -38,6 +39,7 @@ sources:
   - "[[Ch10_Swick_Jones_2025]]"
   - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Ch12_Ramming_2025]]"
   - "[[UIDP_2012_PartnershipContinuum]]"
 confidence: medium
 status: draft

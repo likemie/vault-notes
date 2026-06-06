@@ -10,13 +10,18 @@ tags:
   - theme/university-industry-collaboration
   - level/higher-education
   - theme/partnership-framework
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Partnership Continuum]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Strategic Partnership]]"
+related_theories:
+  - "[[Triple Helix]]"
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[UIDP_2012_PartnershipContinuum]]"
 confidence: medium
 status: draft
 created: 2026-06-05

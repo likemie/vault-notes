@@ -7,13 +7,13 @@ extracted_to:
   - "[[Freedom to Operate]]"
   - "[[Joint Ownership of IP]]"
   - "[[Pre-negotiated IP Rights]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer Office]]"
+  - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Bayh-Dole Act of 1980]]"
   - "[[MN-IP Create]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Bayh-Dole Act of 1980]]"
-  - "[[Sponsored Research Agreement]]"
-  - "[[University-Industry Collaboration]]"
-  - "[[Technology Transfer]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

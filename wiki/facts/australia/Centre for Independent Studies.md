@@ -14,16 +14,13 @@ tags:
   - evidence-based-reform
   - think-tank
 related_concepts: []
-related_theories:
-  - "[[Cognitive Load Theory]]"
+related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Strong Beginnings Report]]"
-  - "[[Australian Education Research Organisation]]"
-related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
-sources: []
+related_facts: []
+related_arguments: []
+sources:
+  - "[[Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
