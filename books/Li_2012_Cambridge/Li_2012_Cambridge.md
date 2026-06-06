@@ -80,7 +80,6 @@ extracted_to:
   - "[[Jean-Jacques Rousseau]]"
   - "[[René Descartes]]"
   - "[[Immanuel Kant]]"
-  - "[[Plato]]"
   - "[[Socrates]]"
   - "[[Bertrand Russell]]"
   - "[[George Berkeley]]"
@@ -91,6 +90,7 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
+  - "[[Plato]]"
 processed_date: 2026-05-25
 ---
 

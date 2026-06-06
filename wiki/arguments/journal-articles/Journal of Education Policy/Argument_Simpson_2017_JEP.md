@@ -31,6 +31,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
   - "[[Simpson_2017_JEP]]"
@@ -60,7 +61,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：概念分析与技术论证（conceptual analysis + technical demonstration）
 > - **论证工具**：一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
-> - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（Marzano 1998; [[John Hattie|Hattie]] 2009; Higgins et al. 2013/EEF Toolkit），以及纳入这些综合的原始研究
+> - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（Marzano 1998; [[John Hattie|Hattie]] 2009; Higgins et al. 2013/[[Education Endowment Foundation|EEF]] Toolkit），以及纳入这些综合的原始研究
 
 ## 核心论证
 
@@ -120,7 +121,7 @@ updated: '2026-05-18'
 > **教育中的表现**（Simpson, 2017, p.12）：
 > - 同一元分析（Higgins et al., 2005）包含使用与干预内容完全相同的测试题的研究、使用来自广泛数据库的测试题的研究、以及使用标准化测试（Iowa Test of Basic Skills）的研究
 > - Abrami et al. (2008) 在批判性思维元分析中发现：标准化测试的平均效应量为 0.24，非标准化（通常是研究者自编的）测试为 0.53
-> - 在 EEF Toolkit 的 14 项明确报告测量设计调节分析的元分析中，非标准化测试平均效应量比标准化测试高约 40%
+> - 在 [[Education Endowment Foundation|EEF]] Toolkit 的 14 项明确报告测量设计调节分析的元分析中，非标准化测试平均效应量比标准化测试高约 40%
 >
 > **精确度——思想实验**：两位农民进行完全相同的肥料试验。第一位每株随机选择 5 颗豆子测量，第二位选 10 颗。第二位报告的效应量可高达第一位的 140%——因为更多测量减少了株内方差，缩小了标准差（Simpson, 2017, pp.12–13）。
 >
@@ -174,7 +175,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 论文自身承认论证聚焦于标准化均值差（Cohen's d 及其变体）——使用原始（非标准化）[[Effect Size|效应量]]可以解决部分但非全部问题（Simpson, 2017, p.4）
-> - 论文引用的教育研究案例主要来自英美语境（EEF Toolkit、[[John Hattie|Hattie]] VL），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
+> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、[[John Hattie|Hattie]] VL），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
 > - 论文是技术论证而非实证研究——未提供定量估计每个偏差来源对排名影响幅度的元分析
 
 ## 来源

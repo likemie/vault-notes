@@ -31,6 +31,7 @@ related_methods:
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Andreas Kazamias]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -144,7 +145,7 @@ updated: 2026-06-06
 > | 土耳其凯末尔改革 | 1920 年代 | 教育作为世俗化和西方化的载体 |
 > | 中国多次转型 | 孙中山、毛泽东时期 | 教育反复被纳入政治重建 |
 >
-> 所有这些教育愿景不仅把科学作为现代科目纳入课程，还在微妙的变化中（如日本的神道和中国的儒学）拥抱了进步、技术的意义和用理性消除迷信或挑战制度化宗教的权力（Kazamias 1966; Chen 1974; Skocpol 1979）。
+> 所有这些教育愿景不仅把科学作为现代科目纳入课程，还在微妙的变化中（如日本的神道和中国的儒学）拥抱了进步、技术的意义和用理性消除迷信或挑战制度化宗教的权力（[[Andreas Kazamias|Kazamias]] 1966; Chen 1974; Skocpol 1979）。
 
 ---
 

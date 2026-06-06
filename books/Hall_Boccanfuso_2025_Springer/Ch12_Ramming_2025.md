@@ -9,12 +9,12 @@ extracted_to:
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Translation]]"
   - "[[Sponsored Research Agreement]]"
-  - "[[University-Industry Collaboration]]"
   - "[[CHIPS and Science Act]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

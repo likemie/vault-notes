@@ -30,7 +30,8 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[King-Persily Model]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Edmund King]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
@@ -67,7 +68,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[Team Science|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。诺贝尔生理学或医学奖趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才（pp.178–179）。
 > - [[Partnership Continuum|伙伴关系连续体]] — [[University Industry Demonstration Partnership|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP, 2012）的合作分类框架，从交易型（共享策略）到协作型（共享想法）再到联盟型（共享愿景）。AHS 可以在所有三个级别上与同一伙伴同时维持多个合作关系（p.188）。
 > - [[Triple Helix|三重螺旋模型]] — Etzkowitz 与 Leydesdorff（1995）的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时（p.188）。
-> - [[King-Persily Model|King-Persily 模型]] — King 与 Persily（2019）提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任（pp.188–189）。
+> - [[King-Persily Model|King-Persily 模型]] — [[Edmund King|King]] 与 Persily（2019）提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任（pp.188–189）。
 > - [[Values Alignment Model|价值对齐模型]] — 核心框架：以 AHS 为促进者，通过患者中心的透镜重新对齐大学、产业、医院和医师各方的优先差异，找出共享价值并尊重不共享的价值（pp.190–191, Fig. 10.5）。
 
 ---
@@ -189,7 +190,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
 
 > [!note] 框架三：[[King-Persily Model|King-Persily 模型]] — 数据治理与患者信托责任
-> King 和 Persily（2019）提出以独立第三方委员会解耦研究者对产业数据的完全访问。在生物医学场景中需要两项调整：AHS 保留发表权但给产业审阅窗口，以及所有患者数据必须去标识化（pp.188–189）。详见 [[King-Persily Model]]。
+> [[Edmund King|King]] 和 Persily（2019）提出以独立第三方委员会解耦研究者对产业数据的完全访问。在生物医学场景中需要两项调整：AHS 保留发表权但给产业审阅窗口，以及所有患者数据必须去标识化（pp.188–189）。详见 [[King-Persily Model]]。
 
 > [!warning] 患者数据的深层伦理困境
 > 患者数据是 AHS 在产学合作中的核心价值之一，但既不能简单地"给出去"（即使已去标识化），也不应仅为财务收益而被货币化。不懂得如何正确解释数据的人可能得出错误结论，而错误结论可能导致生命代价。AHS 被患者信托，有责任以审慎、符合伦理、并与知情同意一致的方式使用这些信息（p.189）。
@@ -308,7 +309,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[Academic Health System|AHS]] 是一种与 [[Academic Medical Center|AMC]] 在组织结构、优先事项和能力上存在实质差异的独特组织形态。其混合学术、临床和产业三种逻辑的结构性特征（"中心辐射"网络、双向学术管线、多元化伙伴组合）使其成为 [[Applied Medical Innovation|AMI]] 类[[University-Industry Collaboration|产学合作]]的理想促进者（pp.179–182）。
 > - [[Physician-Scientist|医师科学家]]是 AMI 的关键催化者，但面临严重的时间挤压（研究可用时间中 44.3% 花在行政任务上）和超亚专业化带来的跨学科沟通障碍。AHS 通过专门基础设施（如 Houston Methodist Bookout Center、快速装置转化中心）来减轻这些负担（pp.176–177, 185–187, 195）。
 > - 七重结构性挑战（创新成本、监管负担、数据管理、问题复杂性与技术变革速度、超亚专业化、医师科学家时间挤压、合作光谱定位）共同构成了单一组织无法独立完成医用创新的论证。产学合作不是众多选项之一，而是穿越这些障碍的唯一路径（pp.182–187）。
-> - 既有产学合作框架（[[Partnership Continuum|伙伴关系连续体]]、[[Triple Helix]]、[[King-Persily Model|King-Persily 模型]]）在 AHS 语境中各有适用价值，但都需要从 AHS 视角进行修正：伙伴关系连续体只描述深度、不回答对齐问题；Triple Helix 中的政府角色在 AHS 视角下更多是监管者而非合作伙伴；King-Persily 模型在医疗场景中必须额外处理患者数据去标识化和信托责任的伦理要求（pp.188–189）。
+> - 既有产学合作框架（[[Partnership Continuum|伙伴关系连续体]]、[[Triple Helix]]、[[King-Persily Model|King-Persily 模型]]）在 AHS 语境中各有适用价值，但都需要从 AHS 视角进行修正：伙伴关系连续体只描述深度、不回答对齐问题；Triple Helix 中的政府角色在 AHS 视角下更多是监管者而非合作伙伴；[[Edmund King|King]]-Persily 模型在医疗场景中必须额外处理患者数据去标识化和信托责任的伦理要求（pp.188–189）。
 > - COVID-19 经验表明，目标对齐和紧迫感可以急剧加速 AMI 的产学合作，疫苗学在 1–2 年内取得了需要数十年才能实现的进展。但 NCDs 因进展缓慢而缺乏同等的紧迫感，尽管对患者而言处境同样严峻。AHS 持续感知到标准疗法终将对 NCD 患者失效这一事实，因此能够维持持续的创新动力（pp.189–190）。
 > - [[Values Alignment Model|价值对齐模型]]提供了一个以患者为中心的合作框架：AHS 作为促进者，帮助各方围绕共享价值对齐，同时尊重不共享的价值。关键不在于消除优先差异，而在于通过患者中心的透镜重新审视各方 [[Return on Investment|ROI]]，产业的利润依赖于产品的安全有效性，大学的发表价值依赖于转化为患者受益（pp.190–192）。
 > - TAVR 案例是价值对齐模型的完整实证展示：通过四轮递进式[[Clinical Trial|临床试验]]（按风险等级从极端到低），TAVR 从高风险不可手术者的最后选择发展为全风险谱系的标准疗法，30 天死亡率从 7.2% 降至 2.5%，并催生了 BEV 和 SEV 的持续技术创新。任何单一伙伴独立行动都无法取得这一成果（pp.192–195）。

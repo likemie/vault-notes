@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
   - "[[Multi-Faceted Relationships in University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-05
 ---
 

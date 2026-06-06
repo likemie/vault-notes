@@ -4,13 +4,15 @@ extracted_to:
   - "[[Educated Identity]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Robert Cowen]]"
-  - "[[Argument_Cowen_2023_CE]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Deductive Rationality]]"
-  - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Outcomes in Comparative Education]]"
+  - "[[Argument_Cowen_2023_CE]]"
+  - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Readings of the Global]]"
+  - "[[Andreas Kazamias]]"
+  - "[[Edmund King]]"
 processed_date: 2026-06-07
 ---
 

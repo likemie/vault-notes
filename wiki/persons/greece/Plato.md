@@ -24,6 +24,7 @@ related_methods: []
 related_persons:
   - "[[Socrates]]"
   - "[[Bertrand Russell]]"
+  - "[[Edmund King]]"
   - "[[René Descartes]]"
   - "[[Immanuel Kant]]"
 related_facts: []
@@ -95,7 +96,7 @@ updated: 2026-05-22
 ### 教育选拔与哲学家王
 
 > [!tip]
-> 柏拉图在《理想国》中提出了以能力差异为基础的递进式教育选拔体系——筛选最有天赋的人接受最高的哲学教育，最终成为统治者（哲学家王，Philosopher King）。Li 将此视为 [[Western Learner|西方学习者]]第一特征——"个体从开始就存在差异"、"区分最有能力的学习者和普通学习者"——的文化根源（Li, 2012, p.35）。
+> 柏拉图在《理想国》中提出了以能力差异为基础的递进式教育选拔体系——筛选最有天赋的人接受最高的哲学教育，最终成为统治者（哲学家王，Philosopher [[Edmund King|King]]）。Li 将此视为 [[Western Learner|西方学习者]]第一特征——"个体从开始就存在差异"、"区分最有能力的学习者和普通学习者"——的文化根源（Li, 2012, p.35）。
 
 ### 灵魂三分
 

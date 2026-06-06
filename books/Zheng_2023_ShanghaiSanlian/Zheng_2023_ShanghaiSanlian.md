@@ -5,7 +5,6 @@ extracted_to:
   - "[[Academic Engagement]]"
   - "[[Academic and Social Integration]]"
   - "[[Economy of Experience]]"
-  - "[[Self-Authorship]]"
   - "[[Social Engagement]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
@@ -36,11 +35,12 @@ extracted_to:
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
-  - "[[Marcia Baxter Magolda]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory]]"
   - "[[Employability]]"
+  - "[[Self-Authorship]]"
+  - "[[Marcia Baxter Magolda]]"
 processed_date: 2026-05-09
 ---
 

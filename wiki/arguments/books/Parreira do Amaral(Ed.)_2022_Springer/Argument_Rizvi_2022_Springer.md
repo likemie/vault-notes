@@ -37,6 +37,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Frantz Fanon]]"
+  - "[[Edmund King]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[Australia in the Asian Century White Paper]]"
@@ -339,7 +340,7 @@ Rizvi 指出：疫情确实为创新创造了空间，但这个空间"没有被�
 
 **暴露的矛盾四：跨国合作中的权力不对称**
 
-虽然大学推动与亚洲的跨国研究合作，但"这种合作要么剥削非西方传统，要么再生产不对称的权力模式"（Rizvi, 2022, p.101）。同时，新兴经济体之间的学术合作正在增长——挑战了英美对[[Internationalization of Higher Education|高等教育国际化]]的霸权理解。但在这些新兴系统内部，新的权力不对称也在出现——"中国，例如，将高等教育用作全球影响力的工具"（King, 2013, cited in Rizvi, 2022, p.102）。
+虽然大学推动与亚洲的跨国研究合作，但"这种合作要么剥削非西方传统，要么再生产不对称的权力模式"（Rizvi, 2022, p.101）。同时，新兴经济体之间的学术合作正在增长——挑战了英美对[[Internationalization of Higher Education|高等教育国际化]]的霸权理解。但在这些新兴系统内部，新的权力不对称也在出现——"中国，例如，将高等教育用作全球影响力的工具"（[[Edmund King|King]], 2013, cited in Rizvi, 2022, p.102）。
 
 ### 第七步：结论——后疫情时代需要什么样的国际化？（§6.6, pp.101–102）
 

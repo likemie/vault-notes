@@ -20,6 +20,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
+  - "[[Andreas Kazamias]]"
+  - "[[Edmund King]]"
 related_facts:
   - "[[PISA]]"
 related_arguments: []
@@ -52,7 +54,7 @@ updated: 2026-06-06
 ### 第一种：求同存异
 
 > [!info]
-> 在社会和教育系统中寻找相似与差异，并以历史或情境来解释。代码词是历史（history）和情境（contexts），代表人物包括 Isaac Kandel、Andreas Kazamias、Nicholas Hans，以及英格兰比较教育传统。
+> 在社会和教育系统中寻找相似与差异，并以历史或情境来解释。代码词是历史（history）和情境（contexts），代表人物包括 Isaac Kandel、[[Andreas Kazamias]]、Nicholas Hans，以及英格兰比较教育传统。
 >
 > 政治上相对中性，但这也是其缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等政治现象，因为它拒绝从国家（State）概念出发（Cowen, 2023, pp.332–333）。
 
@@ -76,7 +78,7 @@ updated: 2026-06-06
 ### 第三种：[[Policy Science in Comparative Education|政策科学]]
 
 > [!info]
-> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典本体论争论中非常可见，代表人物包括 Brian Holmes 和 Edmund King，也出现在 2010 年后的世界教育年鉴中（Cowen, 2023, p.333）。
+> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典本体论争论中非常可见，代表人物包括 Brian Holmes 和 [[Edmund King]]，也出现在 2010 年后的世界教育年鉴中（Cowen, 2023, p.333）。
 >
 > 政治上并非中性。它是与权力的联盟，即与自由民主国家中所谓民主权力的联盟，这些国家应该在关键决策时刻寻求比较教育学者的建议（Cowen, 2023, p.333）。
 

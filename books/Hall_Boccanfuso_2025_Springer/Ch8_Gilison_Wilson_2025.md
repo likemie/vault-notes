@@ -14,14 +14,14 @@ extracted_to:
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
   - "[[University Spin-Out]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Alliance for Southern California Innovation]]"
   - "[[First Look SoCal]]"
-  - "[[Kendall Square]]"
   - "[[NSF I-Corps]]"
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"
   - "[[UCSD Innovation and Commercialization Office]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Kendall Square]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
