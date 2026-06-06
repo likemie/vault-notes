@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
+                "file": "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Cheng_2026_KeJiChuangXin"
+              "title": "Creswell_2022_SAGE"
             }
           }
         ]
@@ -189,12 +189,21 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "b91b74bd55d1e84e",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
+    "wiki/arguments/journal-articles/Australian Educational Researcher",
+    "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md",
+    "wiki/facts/uk/Education Endowment Foundation.md",
+    "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
+    "wiki/arguments/reports-policy-documents/Argument_Cowen_2015_CHESS.md",
+    "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
+    "wiki/facts/australia/Australian Education Research Organisation.md",
+    "wiki/facts/australia/Strong Beginnings Report.md",
+    "wiki/concepts/educational-policy-reform/What Works Movement.md",
     "raw/A critique of ‘Strong Beginnings’ initial teacher education reforms mandating neuroscience as core curriculum within the ‘what works’ movement.pdf",
     "scripts/__pycache__/vault_lint.cpython-313.pyc",
     "wiki/facts/china/China S&T Innovation Policy Evolution.md",
-    "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
     "raw/第十一章.txt.sb-2cd5ff2e-ZwywyM",
     "raw/第十一章.txt",
     "raw/Cheng_2026_KeJiChuangXin.txt",
@@ -217,15 +226,6 @@
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md.tmp.85086.6004dc5967ec",
     "wiki/concepts/higher-education/Innovation Ecosystem.md",
     "wiki/concepts/higher-education/Innovation Hub.md",
-    "wiki/facts/germany/German High-Tech Strategy and Cluster Policy.md",
-    "raw/第五章.txt.sb-2cd5ff2e-tyMUYx",
-    "raw/第五章.txt",
-    "wiki/concepts/higher-education/Hidden Champions.md",
-    "wiki/concepts/higher-education/Pilot Scale Platform.md",
-    "wiki/concepts/educational-policy-reform/STEM Education.md",
-    "wiki/facts/germany/German Dual Education System.md",
-    "wiki/concepts/economics/New Quality Productive Forces.md",
-    "wiki/concepts/higher-education/International Education.md",
-    "wiki/concepts/higher-education/Innovation Park.md"
+    "wiki/facts/germany/German High-Tech Strategy and Cluster Policy.md"
   ]
 }
