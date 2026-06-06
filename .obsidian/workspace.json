@@ -191,11 +191,13 @@
   },
   "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
-    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
     "sources/Skourdoumbis_2024_AER.md",
+    "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
+    "raw/A critique of ‘Strong Beginnings’ initial teacher education reforms mandating neuroscience as core curriculum within the ‘what works’ movement.txt",
+    "wiki/concepts/educational-policy-reform/What Works Movement.md",
+    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
     "sources/Skourdoumbis_2024_AER.pdf",
     "raw/Skourdoumbis_2024_AER.pdf",
-    "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
     "wiki/arguments/journal-articles/Australian Educational Researcher",
     "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md",
     "wiki/facts/uk/Education Endowment Foundation.md",
@@ -204,7 +206,6 @@
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
     "wiki/facts/australia/Australian Education Research Organisation.md",
     "wiki/facts/australia/Strong Beginnings Report.md",
-    "wiki/concepts/educational-policy-reform/What Works Movement.md",
     "raw/A critique of ‘Strong Beginnings’ initial teacher education reforms mandating neuroscience as core curriculum within the ‘what works’ movement.pdf",
     "scripts/__pycache__/vault_lint.cpython-313.pyc",
     "wiki/facts/china/China S&T Innovation Policy Evolution.md",
@@ -215,7 +216,6 @@
     "wiki/facts/multi/Swiss Innovation Policy System.md",
     "wiki/facts/china/Jiebang Guashuai.md",
     "wiki/facts/germany/German Innovation Policy System.md.tmp.85086.0834058e6d88",
-    "wiki/facts/japan/Japan Innovation Policy System.md.tmp.85086.aba66ad4564a",
     "wiki/facts/multi/Korea Innovation Policy System.md",
     "wiki/facts/china/Shenzhen Four 90 Percent Innovation Pattern.md",
     "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
@@ -225,7 +225,6 @@
     "wiki/facts/us/US Innovation Policy System.md",
     "wiki/facts/us/SBIR and STTR Programs.md",
     "wiki/facts/germany/German Innovation Policy System.md",
-    "wiki/facts/germany/Fraunhofer Society Model.md",
-    "wiki/concepts/higher-education/Innovation Ecosystem.md"
+    "wiki/facts/germany/Fraunhofer Society Model.md"
   ]
 }
