@@ -9,7 +9,6 @@ extracted_to:
   - "[[Evidence-Informed Practice]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Professional Judgment]]"
   - "[[Technology Infusion]]"
   - "[[Effect Size]]"
   - "[[Logic Model]]"
@@ -19,6 +18,7 @@ extracted_to:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Formative Program Evaluation]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Professional Judgment]]"
 processed_date: 2026-05-23
 ---
 

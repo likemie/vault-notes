@@ -11,12 +11,14 @@ tags:
 - region/global
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Outcomes in Comparative Education]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Stephen Ball]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Cognition Education]]"
   - "[[Teach First New Zealand]]"
 related_arguments: []
@@ -38,14 +40,14 @@ updated: '2026-05-18'
 > [!abstract] 核心特征
 > - **跨领域运作能力**：政策创业者可能在公共福利（public-good）、非营利（not-for-profit）和营利（for-profit）动机之间无缝切换，根据情境灵活呈现不同身份（O'Neill et al., 2016, p.viii）
 > - **网络构建能力**：通过建立个人和组织关系网络来聚合影响力（O'Neill et al., 2016, p.47）
-> - **知识产权的包装与商业化**：将学术[[Sci-Tech Achievement Transformation|成果转化]]为品牌化商业产品和服务（O'Neill et al., 2016, pp.viii–ix）
+> - **知识产权的包装与商业化**：将学术成果转化为品牌化商业产品和服务（O'Neill et al., 2016, pp.viii–ix）
 
 ## 典型案例：John Hattie
 
 > [!example] 典型案例：[[John Hattie]]
 > John Hattie 被 O'Neill 等描述为新西兰自 1990 年代末以来"最精湛的公立学校政策行动者"。其轨迹呈现为公共福利/非营利/营利创业的无缝融合：
 >
-> - **公共部门**：受教育部合同开发 asTTle 国家课程测试系统（1999/2000），担任 AITSL 董事会主席（2014）（O'Neill et al., 2016, pp.47–50）
+> - **公共部门**：受教育部合同开发 asTTle 国家课程测试系统（1999/2000），担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席（2014）（O'Neill et al., 2016, pp.47–50）
 > - **非营利**：任 [[Cognition Education|Multi Serve Education Trust]] / Cognition Education Trust 董事和学术顾问（O'Neill et al., 2016, p.48）
 > - **营利**：通过 Cognition Education 将 [[Visible Learning]] 品牌商业化——16 个工作坊系列、学校认证、全球交付伙伴网络（Osiris UK, Corwin Australia/North America, Bazalt Netherlands, JN Partnership Scandinavia）；Visible Classroom App 通过墨尔本大学与 Ai-Media 合作实现商业化和全球推广（O'Neill et al., 2016, pp.48–51）
 >
@@ -59,7 +61,7 @@ updated: '2026-05-18'
 1. **影响语境**（Context of influence）：利益群体争夺政策问题的定义和论述
 2. **政策文本生产语境**（Context of policy text production）：政策文件和相关文本被制作出来
 3. **实践语境**（Context of practice）：政策在学校、课堂中被解读和执行
-4. **结果语境**（Context of outcomes）：政策的实际效应和影响
+4. **结果语境**（Context of [[Outcomes in Comparative Education|outcomes]]）：政策的实际效应和影响
 5. **政治策略语境**（Context of political strategy）：政策所服务/推进的更广泛政治议程
 
 O'Neill 等的报告主要聚焦第一和第二语境——识别和分析"谁"对公立学校教育政策发展和交付产生了影响，以及这种影响是如何运作的。

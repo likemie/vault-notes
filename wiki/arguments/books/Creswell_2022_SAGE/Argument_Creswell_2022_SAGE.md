@@ -174,7 +174,7 @@ updated: 2026-06-01
 
 #### 概览
 
-全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
+全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]与假设，以及数据收集、分析和解释的方法程序。
 
 > [!quote]
 > “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
@@ -1611,7 +1611,7 @@ Creswell & Creswell (2022) 提出混合方法研究的六个定义性特征，�
 > |---|---|---|---|
 > | **聚敛式设计** | Compare, Match, Corroborate/Validate, Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding | Merge（合并） | 量化与质性两者 |
 > | **解释性序列设计** | Expand, Explain | Connect（连接）：量化结果连接到质性数据收集 | 量化与质性两者 |
-> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性结果导向量化评估设计并检验 | 量化与质性两者 |
+> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性[[Outcomes in Comparative Education\|结果导向]]量化评估设计并检验 | 量化与质性两者 |
 > | **复杂混合方法设计** | Augment（optimize, ascertain needs, monitor） | Add into a process/framework（加入过程/框架） | 量化、质性或两者 |
 
 设计选择的首要依据是意图和程序（表 10.5）。两张决策流程图（图10.7 基于意图、图10.8 基于程序）见 [[Integration Statement]] 条目。次要依据包括学科倾向、研究者规模、导师推荐。Creswell 明确反对将时间安排和数据优先级作为设计选择标准，主张量化和质性数据应享有同等合法性（p.251）。

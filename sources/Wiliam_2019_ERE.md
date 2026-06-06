@@ -5,7 +5,6 @@ extracted_to:
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
   - "[[California Class Size Reduction 1996]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Adrian Simpson]]"
   - "[[Dylan Wiliam]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
+  - "[[Programme Fidelity vs Adaptation]]"
 processed_date: 2026-05-01
 ---
 

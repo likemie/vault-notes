@@ -11,6 +11,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Translational Research]]"
   - "[[Academic Freedom]]"
   - "[[Industry Affiliate Program]]"
@@ -56,7 +57,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]]（2010）提出，将 IBM 的产学投资按功能分为七个领域（pp.88–89, 97）：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度
 >
-> 六 R 框架为每个领域提供了可量化的度量指标，使"动态校准"从模糊的管理直觉变成可操作的系统行为。Research 看联合出版物和合作协议数量；Readiness 看参加培训认证的学生和教师数；Recruiting 看年度实习和全职招聘的长期趋势；Revenue 看对大学的硬件、软件和服务销售；Responsibility 看员工担任客座教师、顾问委员会和行业导师的人数；Regions 看公私合作伙伴关系数量。Refresh，作为第七个 R，看新项目启动数、现有项目成功排名和旧项目终止数，以此反映组织对市场变化的响应速度和决断力（pp.96–97）。
+> 六 R 框架为每个领域提供了可量化的度量指标，使"动态校准"从模糊的管理直觉变成可操作的系统行为。Research 看联合出版物和合作协议数量；Readiness 看参加培训认证的学生和教师数；Recruiting 看年度实习和全职招聘的长期趋势；Revenue 看对大学的硬件、软件和服务销售；Responsibility 看员工担任客座教师、顾问委员会和行业导师的人数；Regions 看[[Public-Private Partnership in Research|公私合作伙伴关系]]数量。Refresh，作为第七个 R，看新项目启动数、现有项目成功排名和旧项目终止数，以此反映组织对市场变化的响应速度和决断力（pp.96–97）。
 >
 > 六 R 框架的具体活动形式取决于企业可投入的资源规模和合作的时间尺度。Table 5.1（p.88）将产学合作的可选项目按资源大小和时间长短两个维度做了矩阵式排列：
 >

@@ -12,6 +12,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[Policy Entrepreneur]]"
   - "[[Network Governance]]"
   - "[[Political Arithmetic]]"
@@ -48,7 +49,7 @@ Ball（1994）提出五重语境框架分析教育政策制定（O'Neill et al.,
 1. 影响语境（Context of influence）
 2. 政策文本生产语境（Context of policy text production）
 3. 实践语境（Context of practice）
-4. 结果语境（Context of outcomes）
+4. 结果语境（Context of [[Outcomes in Comparative Education|outcomes]]）
 5. 政治策略语境（Context of political strategy）
 
 ### 跨国政策创业（Ball, 2012）

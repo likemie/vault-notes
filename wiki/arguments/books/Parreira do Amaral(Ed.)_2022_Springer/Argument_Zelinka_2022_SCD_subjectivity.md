@@ -14,6 +14,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
 related_theories: []
@@ -98,7 +99,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 这一步同时生产了其反面——不愿主体被标记为失业者、可弃置个体（Oksala, 2015），成为终身学习话语的政策干预对象（Parreira do Amaral & Zelinka, 2019, p.409）。
 
-**张力二：结果导向素养 vs 品质本位素养**
+**张力二：[[Outcomes in Comparative Education|结果导向]]素养 vs 品质本位素养**
 
 从七个框架中提取的最突出技能几乎都是结果导向的（outcome-oriented，以蓝色标示）——获取它们旨在提高就业力。这些技能高度主观、难以测量、其长期有效性不确定（Zelinka, 2022, pp.261-262）。
 
@@ -123,7 +124,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 ## 主要发现
 
 > [!success]
-> - 21 世纪 [[Single-Case Design|SCD]] 生产的（新）[[Geopolitics of Knowledge|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**结果导向技能**为首要焦点以增强[[Employability|就业力]]和[[Self-Entrepreneur|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合（Zelinka, 2022, p.263）。
+> - 21 世纪 [[Single-Case Design|SCD]] 生产的（新）[[Geopolitics of Knowledge|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**[[Outcomes in Comparative Education|结果导向]]技能**为首要焦点以增强[[Employability|就业力]]和[[Self-Entrepreneur|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合（Zelinka, 2022, p.263）。
 > - 新自由主义对教育的工具化和对社会的深层原子化共同构成了正在发生的更大范围的范式转型（Zelinka, 2022, p.265）。
 > - 对（新）知识地缘政治的抵抗起点在于质疑其根本前提——即将主体定义为"知识承载者"（knowledge-bearers）（Zelinka, 2022, p.265）。
 

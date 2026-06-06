@@ -5,12 +5,12 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
-  - "[[Causal Modeling]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Covariate Adjustment]]"
   - "[[Matching]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Causal Modeling]]"
   - "[[Potential Outcomes Framework]]"
 processed_date: 2026-05-03
 ---

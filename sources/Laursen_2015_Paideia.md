@@ -8,13 +8,13 @@ extracted_to:
   - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[SFI Report]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[Jill Mehlbye]]"
   - "[[Andreas Helmke]]"
   - "[[Hilbert Meyer]]"
   - "[[Geert Hofstede]]"
-  - "[[John Hattie]]"
   - "[[Hofstede's Cultural Dimensions]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---
 

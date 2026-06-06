@@ -323,12 +323,31 @@
     ]
   },
   {
+    "title": "Convergence Theory in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Convergence Theory in Comparative Education.md",
+    "aliases": [
+      "趋同理论",
+      "convergence theory",
+      "趋同论"
+    ]
+  },
+  {
     "title": "Cross-National Attraction",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
     "aliases": [
       "跨国吸引",
       "跨国吸引力"
+    ]
+  },
+  {
+    "title": "Deductive Rationality",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Deductive Rationality.md",
+    "aliases": [
+      "演绎理性",
+      "deductive rationalities"
     ]
   },
   {
@@ -394,6 +413,17 @@
     ]
   },
   {
+    "title": "Outcomes in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Outcomes in Comparative Education.md",
+    "aliases": [
+      "结果导向教育",
+      "结果导向",
+      "outcomes",
+      "outcomes-based education"
+    ]
+  },
+  {
     "title": "Paradox of the Chinese Learner",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
@@ -409,6 +439,16 @@
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
     "aliases": [
       "政策借用"
+    ]
+  },
+  {
+    "title": "Policy Science in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Policy Science in Comparative Education.md",
+    "aliases": [
+      "政策科学",
+      "policy science",
+      "比较教育政策科学"
     ]
   },
   {
@@ -430,6 +470,15 @@
     "aliases": [
       "前转移能动性",
       "pre-transfer agency"
+    ]
+  },
+  {
+    "title": "Readings of the Global",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Readings of the Global.md",
+    "aliases": [
+      "全球解读",
+      "readings of the global"
     ]
   },
   {
@@ -4379,8 +4428,7 @@
     "path": "wiki/concepts/research-methodology/Research Question.md",
     "aliases": [
       "研究问题",
-      "research questions",
-      "研究问题与假设"
+      "research questions"
     ]
   },
   {

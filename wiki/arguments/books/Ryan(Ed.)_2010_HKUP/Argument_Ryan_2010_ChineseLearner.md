@@ -25,6 +25,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[Refined Mastery]]"
   - "[[Quality Education]]"
 related_theories:
@@ -116,7 +117,7 @@ Ballard 和 Clanchy 是澳大利亚[[International Education|国际教育]]研�
 
 **第二步：那 Ballard 和 Clanchy 的书里有没有警告不要刻板化？有——但没人划线。**
 
-Ballard 和 Clanchy 在自己的书中**明确警告过**不要对国际学生做整体化判断，建议读者"基于实际事件和结果来做判断"（base their judgments on actual events and outcomes, Ryan, 2010, p.41）。然而，Ryan 发现：这些警告的段落几乎**没有被标注、没有折角、没有被划线**。
+Ballard 和 Clanchy 在自己的书中**明确警告过**不要对国际学生做整体化判断，建议读者"基于实际事件和结果来做判断"（base their judgments on actual events and [[Outcomes in Comparative Education|outcomes]], Ryan, 2010, p.41）。然而，Ryan 发现：这些警告的段落几乎**没有被标注、没有折角、没有被划线**。
 
 **第三步：这说明了什么？**
 

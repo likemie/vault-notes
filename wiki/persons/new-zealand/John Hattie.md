@@ -50,6 +50,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[Structural Coupling]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -119,6 +120,8 @@ sources:
   - "[[Bainbridge_2022_ROE]]"
   - "[[Johnson_2023_CE]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Cognition Education]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -134,9 +137,9 @@ updated: '2026-05-21'
 ## 简介
 
 > [!info] 简介
-> John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。他以 2009 年出版的 *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement* 闻名全球，该书将 800 余项[[Meta-analysis|元分析]]综合为一份教学干预[[Effect Size|效应量]]排名，成为全球教育畅销书。Hattie 自我定位为"我是测量人员，我是统计学家，我不是理论家"（Knudsen, 2017, p.254, 259）。英国教育部在 Coldwell et al.（2017）报告中将 Hattie 的 Visible Learning 列为官方认可的"approved"证据来源之一（与 EEF 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。
+> John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。他以 2009 年出版的 *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement* 闻名全球，该书将 800 余项[[Meta-analysis|元分析]]综合为一份教学干预[[Effect Size|效应量]]排名，成为全球教育畅销书。Hattie 自我定位为"我是测量人员，我是统计学家，我不是理论家"（Knudsen, 2017, p.254, 259）。英国教育部在 Coldwell et al.（2017）报告中将 Hattie 的 Visible Learning 列为官方认可的"approved"证据来源之一（与 [[Education Endowment Foundation|EEF]] 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。
 >
-> Visible Learning 已在至少 23 个国家被采用（Knudsen, 2017），Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者（McKnight & Whitburn, 2020, p.32）。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（AITSL）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系（Eacott, 2017, p.421）。
+> Visible Learning 已在至少 23 个国家被采用（Knudsen, 2017），Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者（McKnight & Whitburn, 2020, p.32）。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系（Eacott, 2017, p.421）。
 >
 > Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和反馈（Terhart, 2011, p.426）。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈（Terhart, 2011, p.426）。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"（Terhart, 2011, p.426）。
 >
@@ -159,8 +162,8 @@ updated: '2026-05-21'
 > - **2011–2012** Cognition Education Trust 在新西兰及国际上注册 Visible Learningplus 商标（O'Neill et al., 2016, p.48）
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任（O'Neill et al., 2016, p.49）
 > - **2013 年** 成为 AUUSD 16M 科学学习研究中心（Science of Learning Research Centre）"促进学习"[[Research Topic|研究主题]]负责人和副主任（O'Neill et al., 2016, p.49）
-> - **2014 年 7 月** 被任命为 AITSL 董事会主席（O'Neill et al., 2016, p.50）
-> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 VL 研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 EEF 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
+> - **2014 年 7 月** 被任命为 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席（O'Neill et al., 2016, p.50）
+> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 VL 研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 [[Education Endowment Foundation|EEF]] 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
 > - **2015 年 1 月** Visible Classroom 工具进入美国市场（O'Neill et al., 2016, p.50）
 > - **2015 年 5 月** 墨尔本大学与 Ai-Media 签署五年全球协议进一步开发 Visible Classroom 产品（O'Neill et al., 2016, p.50）
 > - **2015 年 6 月** Pearson 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 VLplus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 VL 商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
@@ -322,7 +325,7 @@ updated: '2026-05-21'
 > #### 立场演变与距离感
 >
 > - **Hattie & Donoghue (2016) 放弃排名**：在试图完成另一个排名元分析时，因发现策略内部变异太大而放弃排名，转而开发三输入（技能/意愿/激情）三阶段（表层/深层/迁移）学习模型。该模型承认对 [[Problem-Based Learning|PBL]] 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段（Blass, 2020, pp.95–96）
-> - 已在某种程度上与 VL 的被运用方式保持距离，表示若重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017）
+> - 已在某种程度上与 VL 的被运用方式保持距离，表示若重新来过会避免"结果的暴政"（tyranny of [[Outcomes in Comparative Education|outcomes]]）（Hattie, in Knudsen, 2017）
 > - Qvortrup（2019）以引介者身份为 Hattie 辩护：三线论证——批评者形成了意识形态解释社群而非学术反驳；定量/定性对立源于认识论/本体论混淆；教学与学习之间不是[[Causality|因果关系]]而是[[Structural Coupling|结构耦合]]，VL 的目的是提供"智能问题解决的假设"而非"食谱"，[[Professional Judgment|专业判断]]是缺失环节（Qvortrup, 2019, p.3-7）
 > - **2020 年 Lessons from Lockdown 会议演讲**：Hattie 的立场进一步演变——谈到"课程差异不大"（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认"失败是学习者最好的朋友但仅低风险时"、指出"通过失败学习是 PBL 的一部分、通过探究式学习恢复"。Blass（2020, p.96）指出 Hattie 现在倡导的学习模型最适合 PBL 和探究式教学法——但他的早期排名仍被用于为直接教学模式辩护
 >

@@ -13,6 +13,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -73,7 +74,7 @@ updated: '2026-05-23'
 
 > [!info] 理论基础
 > - [[Bounded Rationality]] — Simon (1969/1996) 的有限理性理论：专业任务的复杂性大于专业人员的实践能力，因此需要在理性赤字的条件下运作（Qvortrup, 2019, p.6）
-> - 技术赤字（Technology Deficit） — Luhmann & Schorr (1982a) 的概念：所有教师都在技术赤字的条件下工作，即结果导向的努力的效果永远无法完全预测（Qvortrup, 2019, p.6-7）
+> - 技术赤字（Technology Deficit） — Luhmann & Schorr (1982a) 的概念：所有教师都在技术赤字的条件下工作，即[[Outcomes in Comparative Education|结果导向]]的努力的效果永远无法完全预测（Qvortrup, 2019, p.6-7）
 
 ## 争议与批评
 
