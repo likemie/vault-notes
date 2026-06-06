@@ -56,7 +56,7 @@ updated: 2026-06-06
 ## 理论框架
 
 > [!abstract]
-> 在前人工作基础上提出转移—[[Transfer Translation Transformation|转译]]—转化（3T）框架和 [[Shape-Shifting|形变]]问题意识，同时引入 [[Transitology|转型学]]的概念来描述教育移动最密集的语境，即帝国崩溃、战争结束和政治边界重组。
+> 在前人工作基础上提出转移、转译、转化（Transfer, Translation, Transformation，简称 3T）框架和 [[Shape-Shifting|形变]]问题意识，同时引入 [[Transitology|转型学]]的概念来描述教育移动最密集的语境，即帝国崩溃、战争结束和政治边界重组。
 >
 > 此前的相关理论工作包括 Schriewer（1990, 2000）对借用与转移的分析，Phillips（1993, 2004）和 Phillips & Ochs（2003, 2004）对[[Policy Borrowing|政策借用]]的阶段模型，Popkewitz（1998, 2005）对政治空间与国际权力的讨论，Steiner-Khamsi（2000, 2002, 2004）对转移政治的分析，以及 Beech（2006a, 2006b）对可见性话语的讨论（p.316）。
 
