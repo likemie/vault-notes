@@ -13,7 +13,6 @@ extracted_to:
   - "[[Global Education Industry]]"
   - "[[Mondialisation]]"
   - "[[New Public Management]]"
-  - "[[Transitology]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
   - "[[Francisco Varela]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Knowledge-Based Economy]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Robert Cowen]]"
+  - "[[Transitology]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

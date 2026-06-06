@@ -6,6 +6,7 @@ extracted_to:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Shape-Shifting]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Transitology]]"
 processed_date: 2026-06-06
 ---
 
