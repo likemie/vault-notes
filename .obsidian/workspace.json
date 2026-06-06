@@ -191,6 +191,8 @@
   },
   "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
+    "wiki/concepts/educational-philosophy/Educational Neuroscience.md",
+    "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
     "wiki/facts/australia/Educational Services Australia.md",
     "wiki/facts/australia/Australian Council for Educational Research.md",
     "wiki/facts/australia/Australian Education Research Organisation.md",
@@ -224,8 +226,6 @@
     "scripts/__pycache__/vault_lint.cpython-313.pyc",
     "wiki/facts/china/China S&T Innovation Policy Evolution.md",
     "wiki/facts/china/Open Competition Mechanism.md",
-    "wiki/facts/multi/Swiss Innovation Policy System.md",
-    "wiki/facts/china/Jiebang Guashuai.md",
-    "wiki/facts/multi/Korea Innovation Policy System.md"
+    "wiki/facts/multi/Swiss Innovation Policy System.md"
   ]
 }

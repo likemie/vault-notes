@@ -19,9 +19,11 @@ tags:
 related_concepts:
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
+  - "[[Educational Neuroscience]]"
   - "[[School Leadership]]"
   - "[[Causality]]"
 related_theories:
+  - "[[Bacchi's WPR Approach]]"
   - "[[Cognitive Load Theory]]"
 related_methods: []
 related_persons: []
@@ -63,7 +65,7 @@ updated: 2026-06-06
 
 > [!abstract] 理论工具
 > - **批判政策社会学（Critical Policy Sociology）** — 质疑权力、[[Knowledge Production|知识生产]]和政策流动（Ozga, 2021），分析政策改革如何在权力网络中被动员，而非作为中性技术方案自然传导（p.3）
-> - **Bacchi的WPR方法（What's the problem represented to be?）** — 通过六个递进问题审视政策文本（Bacchi, 2009, p.2；引自 p.3）：
+> - **Bacchi的[[Bacchi's WPR Approach|WPR方法]]**（What's the problem represented to be?） — 通过六个递进问题审视政策文本（Bacchi, 2009, p.2；引自 p.3）：
 >   1. 政策将"问题"表征为什么？
 >   2. 这种表征基于什么预设或假设？
 >   3. 这种表征是如何形成的？
@@ -78,7 +80,7 @@ updated: 2026-06-06
 ## 研究方法
 
 > [!info] 分析设计
-> - **方法**：政策文本分析（policy text analysis），运用Bacchi的WPR框架对《强劲开端》报告进行批判性解读
+> - **方法**：政策文本分析（policy text analysis），运用Bacchi的[[Bacchi's WPR Approach|WPR]]框架对《强劲开端》报告进行批判性解读
 > - **核心数据来源**：澳大利亚政府（2023）《强劲开端：教师教育专家小组报告》及其附录D（ITE项目核心内容）
 > - **辅助数据来源**：OECD相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和[[Centre for Independent Studies|CIS]]出版物
 > - **分析重点**：优先改革1中"大脑与学习"内容的指定参考文献、核心内容规范，以及政策行动者之间的关联网络
@@ -99,7 +101,7 @@ updated: 2026-06-06
 ## 论证结构
 
 > [!example] 核心论证逻辑链
-> 整体论证沿"问题表征 → 预设揭示 → 历史沉默 → 生产者追溯 → 利益嵌入 → 权力强化"六步展开。每一步均对应WPR方法的一个核心问题，最终揭示出神经科学强制入课并非中性的循证决策，而是一套服务于特定机构利益的权力运作。
+> 整体论证沿"问题表征 → 预设揭示 → 历史沉默 → 生产者追溯 → 利益嵌入 → 权力强化"六步展开。每一步均对应[[Bacchi's WPR Approach|WPR方法]]的一个核心问题，最终揭示出神经科学强制入课并非中性的循证决策，而是一套服务于特定机构利益的权力运作。
 
 ### 第一步：教师短缺危机中的问题置换
 
@@ -123,7 +125,7 @@ updated: 2026-06-06
 > [!note] 核心内容的简化逻辑链
 > 新手大脑 ≠ 专家大脑 → 教学必须按照大脑的认知规律设计 → 自主学习和探究式学习不符合新手大脑的特征 → 因此必须被排除。这一链条将教育决策的依据从多元的教学研究转向了单一的脑科学叙事。
 
-但这种脑科学方法将学习简化为大脑内部的信息处理活动，忽视了维果茨基社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose（1976）所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"（p.121）。OECD（2007）也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法（p.7）。更早的OECD（2002）报告则警告，神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"（p.17）。OECD（2007）进一步指出，神经科学可以被滥用。曾率先倡导"基于脑的教育"的Bruer后来成为了这一概念最强烈的批评者之一（p.132）。
+但这种脑科学方法将学习简化为大脑内部的信息处理活动，忽视了维果茨基社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose（1976）所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"（p.121）。OECD（2007）也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法（p.7）。更早的OECD（2002）报告则警告，神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"（p.17）。OECD（2007）进一步指出，神经科学可以被滥用。曾率先倡导"[[Educational Neuroscience|基于脑的教育]]"的Bruer后来成为了这一概念最强烈的批评者之一（p.132）。
 
 Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说者缺乏认知神经科学方面的正式训练（p.35），倾向于代表各种议程和商业利益，将脑科学视为通过营销现成解决方案来获利的工具（p.35）。
 

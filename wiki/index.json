@@ -612,6 +612,20 @@
     ]
   },
   {
+    "title": "Educational Neuroscience",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Educational Neuroscience.md",
+    "aliases": [
+      "教育神经科学",
+      "brain-based education",
+      "脑科学教育",
+      "brain-based approaches",
+      "基于脑的教育",
+      "neuroscience in education",
+      "brain science"
+    ]
+  },
+  {
     "title": "Epistemology of Resistance",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
@@ -5509,6 +5523,18 @@
     "path": "wiki/theories/research-methodology/Sociology of Measurement.md",
     "aliases": [
       "测量社会学"
+    ]
+  },
+  {
+    "title": "Bacchi's WPR Approach",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
+    "aliases": [
+      "WPR方法",
+      "What's the problem represented to be",
+      "问题表征方法",
+      "Bacchi WPR",
+      "WPR"
     ]
   },
   {
