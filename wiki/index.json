@@ -340,6 +340,15 @@
     ]
   },
   {
+    "title": "Geometries of Insertion",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Geometries of Insertion.md",
+    "aliases": [
+      "嵌入几何学",
+      "insertion geometries"
+    ]
+  },
+  {
     "title": "International Schools",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Schools.md",
@@ -412,6 +421,16 @@
     "aliases": [
       "再脉络化",
       "recontextualization"
+    ]
+  },
+  {
+    "title": "Shape-Shifting",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Shape-Shifting.md",
+    "aliases": [
+      "形变",
+      "教育形变",
+      "shape shifting"
     ]
   },
   {
@@ -10012,6 +10031,11 @@
     "title": "Argument_Bulag_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
+  },
+  {
+    "title": "Argument_Cowen_2009_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md"
   },
   {
     "title": "Argument_Teng_2025_CE",
