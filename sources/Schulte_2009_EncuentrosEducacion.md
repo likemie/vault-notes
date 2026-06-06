@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Pragmatism in China]]"
   - "[[Recontextualization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Scientism]]"
   - "[[Examination-Oriented Education]]"
   - "[[Quality Education]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
   - "[[John Dewey]]"
+  - "[[Transfer Translation Transformation]]"
 processed_date: 2026-05-26
 ---
 

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Transitology]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Shape-Shifting]]"
   - "[[Vergegenkunft]]"
   - "[[International Education]]"
   - "[[Knowledge Transfer]]"
@@ -53,7 +54,7 @@ updated: 2026-06-06
 > - 长期任职于伦敦大学学院教育学院（UCL Institute of Education），从事比较教育研究与教学。
 > - **1990 年代** — 发表比较教育现代性与后现代性的系列论文，提出现代／晚期现代教育的双轴比较模型（Cowen 1996）。
 > - **2000** — 在 *Comparative Education* 发表 "Comparing futures or comparing pasts"，正式给出 [[Transitology]] 的定义（Cowen 2000, p.338）。
-> - **2009** — 在 *Comparative Education* 发表 [[Transfer Translation Transformation|3T 框架]]的标志性论文 "The Transfer, Translation, and Transformation of Educational Processes: And Their Shape-Shifting?"（Cowen 2009）。
+> - **2009** — 在 *Comparative Education* 发表 [[Transfer Translation Transformation|3T 框架]]的标志性论文 "The Transfer, Translation, and Transformation of Educational Processes: And Their [[Shape-Shifting]]?"（Cowen 2009）。
 > - **2010 年代至今** — transitology 和 3T 框架被比较教育研究者和跨国教育史研究者广泛引用，成为分析教育知识跨国流动的重要理论工具（Zhou & Westberg, 2024, p.611; Amos, 2022, pp.53–58）。
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-06-06
 
 - Cowen, R. (2000). Comparing futures or comparing pasts. *Comparative Education*, 36(3), 333–342. — 正式定义 [[Transitology]]，将教育定位为社会转型中"破坏过去、重新定义未来"的象征性和重构性力量（Cowen 2000, p.338）。
 
-- Cowen, R. (2009). The transfer, translation, and transformation of educational processes: And their shape-shifting? *Comparative Education*, 45(3), 315–327. — 提出 [[Transfer Translation Transformation|3T 框架]]，用于分析教育现象在跨国语境中经历"形变"（shape-shifting）的三阶段过程（Zhou & Westberg, 2024, p.611）。
+- Cowen, R. (2009). The transfer, translation, and transformation of educational processes: And their [[Shape-Shifting]]? *Comparative Education*, 45(3), 315–327. — 提出 [[Transfer Translation Transformation|3T 框架]]，用于分析教育现象在跨国语境中经历"形变"（shape-shifting）的三阶段过程（Zhou & Westberg, 2024, p.611）。
 
 ---
 

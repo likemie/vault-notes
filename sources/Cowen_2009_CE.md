@@ -1,6 +1,11 @@
 ---
 citation: "Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Geometries of Insertion]]"
+  - "[[Shape-Shifting]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Robert Cowen]]"
 processed_date: 2026-06-06
 ---
 

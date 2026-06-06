@@ -23,27 +23,12 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[John Dewey]]"
 related_facts: []
-related_concepts:
-  - "[[Policy Borrowing]]"
-  - "[[Cross-National Attraction]]"
-  - "[[Recontextualization]]"
-  - "[[Scientific Attitude]]"
-  - "[[Shape-Shifting]]"
-  - "[[Geometries of Insertion]]"
-related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[Robert Cowen]]"
-  - "[[John Dewey]]"
-related_facts: []
 related_arguments:
-  - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 sources:
   - "[[Cowen_2009_CE]]"
-  - "[[Zhou_2024_CE]]"
   - "[[Schulte_2009_EncuentrosEducacion]]"
+  - "[[Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -12,16 +12,15 @@ tags:
   - theory/transfer-frameworks
 related_concepts:
   - "[[Transfer Translation Transformation]]"
-  - "[[Geometries of Insertion]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Literature Review]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
-related_arguments:
-  - "[[Argument_Cowen_2009_CE]]"
+related_arguments: []
 sources:
   - "[[Cowen_2009_CE]]"
 confidence: medium
@@ -67,7 +66,7 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example]
-> - **英格兰大学的形变**：英格兰大学在二十年间经历了从自治学术机构到管理主义机构的形变。外部关系上，国家通过质量评估和量化指标对大学实施控制；内部关系上，"学术管理者"对教员实施"生产线管理"；教学关系官僚化，博士论文被要求包含文献综述且不超过八万字；研究关系从学术承诺转向合同化和"影响力"导向（pp.320–322）。
+> - **英格兰大学的形变**：英格兰大学在二十年间经历了从自治学术机构到管理主义机构的形变。外部关系上，国家通过质量评估和量化指标对大学实施控制；内部关系上，"学术管理者"对教员实施"生产线管理"；教学关系官僚化，博士论文被要求包含[[Literature Review|文献综述]]且不超过八万字；研究关系从学术承诺转向合同化和"影响力"导向（pp.320–322）。
 > - **Shibata (2005) 的战后比较**：美国占领期间向德国和日本转移教育思想，两个接受语境中的形变路径截然不同——日本保留了名义上的 6-3-3 学制但通过入学考试将其拉长，西德则保留了欧洲式三轨中学制度。同一个转移在不同语境中产生了不同的形变（p.257）。
 
 ---
