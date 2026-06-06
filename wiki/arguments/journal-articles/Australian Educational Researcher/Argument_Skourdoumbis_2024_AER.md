@@ -20,7 +20,6 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
   - "[[Graduate Attributes]]"
-  - "[[Boundary Spanner]]"
   - "[[School Leadership]]"
   - "[[Causality]]"
 related_theories:
@@ -29,8 +28,10 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Strong Beginnings Report]]"
+  - "[[TEMAG]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Centre for Independent Studies]]"
+  - "[[Graduate Outcomes Survey]]"
   - "[[Education Endowment Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[LANTITE]]"
@@ -51,7 +52,7 @@ updated: 2026-06-06
 ## 研究问题
 
 > [!question] 核心关切与政策谜题
-> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查（Louden, 2008, p. 357），被Mockler（2023）称为"检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤"（p. 115）。2023年联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，在延续2015年《行动立即开始》（Teacher Education Ministerial Advisory Group, TEMAG）和2022年《优质初始教师教育》审查逻辑的基础上，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为ITE的必修核心内容，代表了一个重要的政策转折点。这一改革的深层逻辑是什么？
+> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查（Louden, 2008, p. 357），被Mockler（2023）称为"检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤"（p. 115）。2023年联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，在延续2015年《行动立即开始》（[[TEMAG|Teacher Education Ministerial Advisory Group]], TEMAG）和2022年《优质初始教师教育》审查逻辑的基础上，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为ITE的必修核心内容，代表了一个重要的政策转折点。这一改革的深层逻辑是什么？
 >
 > 更具体地说，一场因教师严重短缺而发起的政策审查，为何最终将问题界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为价值中立的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）等证据中介组织和[[Centre for Independent Studies|澳大利亚独立研究中心]]（Centre for Independent Studies, CIS）等保守智库的私人利益？
 
@@ -103,7 +104,7 @@ updated: 2026-06-06
 
 《强劲开端》报告因严重的教师短缺问题而发起。澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）成员国所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
 
-2022年毕业生结果调查（[[Graduate Attributes|graduate outcomes]] Survey, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持教师培训质量低下的判断。
+2022年[[Graduate Outcomes Survey|毕业生结果调查]]（[[Graduate Outcomes Survey|毕业生结果调查]]（[[Graduate Attributes|graduate outcomes]] Survey, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持教师培训质量低下的判断。
 
 然而，报告引用了一项调查数据作为推动改革的核心证据。32%的受访者认为需要更好更相关的课程内容，31%认为需要更多实践经验，25%认为需要更多实践知识（p.23）。
 
@@ -200,7 +201,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 
 > [!success] 核心结论
 > - 《强劲开端》报告首次在澳大利亚全国范围内将神经科学强制纳入ITE核心课程，代表了一个重要的政策转折点（p.2）
-> - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将问题重新界定为教师质量和课堂准备度不足（pp.4-5）。2022年毕业生结果调查的满意度数据（75%）并不支持"教师培训质量低下"的判断
+> - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将问题重新界定为教师质量和课堂准备度不足（pp.4-5）。2022年[[Graduate Outcomes Survey|毕业生结果调查]]的满意度数据（75%）并不支持"教师培训质量低下"的判断
 > - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（pp.6-7）。OECD（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
 > - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的未发表研究综合设计（pp.8-9）。AERO董事会与专家组之间存在分歧，前者推动更具权威性的惩罚性立场
 > - 指定参考文献中包含[[Centre for Independent Studies|CIS]]资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物（pp.9-10）。Jennifer Buckingham同时在CIS和[[Australian Institute for Teaching and School Leadership|AITSL]]拥有影响力

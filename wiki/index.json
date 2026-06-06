@@ -1309,7 +1309,6 @@
       "边界跨越者",
       "innovation support officer",
       "创新支持官",
-      "intermediary",
       "中介者",
       "产学中间人",
       "boundary spanning",
@@ -7648,6 +7647,15 @@
     ]
   },
   {
+    "title": "Graduate Outcomes Survey",
+    "type": "fact",
+    "path": "wiki/facts/australia/Graduate Outcomes Survey.md",
+    "aliases": [
+      "毕业生结果调查",
+      "GOS"
+    ]
+  },
+  {
     "title": "Independent Public Schools Western Australia",
     "type": "fact",
     "path": "wiki/facts/australia/Independent Public Schools Western Australia.md",
@@ -7700,6 +7708,17 @@
       "Strong Beginnings",
       "强劲开端报告",
       "Strong Beginnings: Report of the Teacher Education Expert Panel"
+    ]
+  },
+  {
+    "title": "TEMAG",
+    "type": "fact",
+    "path": "wiki/facts/australia/TEMAG.md",
+    "aliases": [
+      "教师教育专家咨询小组",
+      "Teacher Education Ministerial Advisory Group",
+      "Action Now",
+      "Classroom Ready Teachers"
     ]
   },
   {
