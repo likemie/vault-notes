@@ -17,10 +17,10 @@ extracted_to:
   - "[[EPPI-Centre]]"
   - "[[Evidence-Based Teachers Network]]"
   - "[[Institute for Effective Education]]"
-  - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 processed_date: 2026-05-23
 ---

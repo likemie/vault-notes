@@ -14,8 +14,8 @@ extracted_to:
   - "[[Adrian Simpson]]"
   - "[[Dylan Wiliam]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
-  - "[[Evidence-Based Education]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01
 ---
 

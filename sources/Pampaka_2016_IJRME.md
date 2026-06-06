@@ -8,8 +8,8 @@ extracted_to:
   - "[[Julian Williams]]"
   - "[[Maria Pampaka]]"
   - "[[Matt Homer]]"
-  - "[[Evidence-Based Education]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-02
 ---
 

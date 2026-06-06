@@ -14,10 +14,10 @@ extracted_to:
   - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
-  - "[[Evidence-Based Education]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-03
 ---
 

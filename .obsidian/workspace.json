@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
+                "file": "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Creswell_2022_SAGE"
+              "title": "Argument_Skourdoumbis_2024_AER"
             }
           }
         ]
@@ -189,8 +189,12 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "1938c14344215b35",
+  "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
+    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
+    "sources/Skourdoumbis_2024_AER.md",
+    "sources/Skourdoumbis_2024_AER.pdf",
+    "raw/Skourdoumbis_2024_AER.pdf",
     "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
     "wiki/arguments/journal-articles/Australian Educational Researcher",
     "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md",
@@ -213,7 +217,6 @@
     "wiki/facts/germany/German Innovation Policy System.md.tmp.85086.0834058e6d88",
     "wiki/facts/japan/Japan Innovation Policy System.md.tmp.85086.aba66ad4564a",
     "wiki/facts/multi/Korea Innovation Policy System.md",
-    "wiki/facts/multi/Korea Innovation Policy System.md.tmp.85086.3ba6f7b6ec8d",
     "wiki/facts/china/Shenzhen Four 90 Percent Innovation Pattern.md",
     "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
     "wiki/facts/japan/Japan Innovation Policy System.md",
@@ -223,9 +226,6 @@
     "wiki/facts/us/SBIR and STTR Programs.md",
     "wiki/facts/germany/German Innovation Policy System.md",
     "wiki/facts/germany/Fraunhofer Society Model.md",
-    "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md.tmp.85086.6004dc5967ec",
-    "wiki/concepts/higher-education/Innovation Ecosystem.md",
-    "wiki/concepts/higher-education/Innovation Hub.md",
-    "wiki/facts/germany/German High-Tech Strategy and Cluster Policy.md"
+    "wiki/concepts/higher-education/Innovation Ecosystem.md"
   ]
 }

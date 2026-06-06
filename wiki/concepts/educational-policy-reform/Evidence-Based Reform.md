@@ -14,6 +14,7 @@ tags:
 - region/us
 - region/uk
 related_concepts:
+  - "[[What Works Movement]]"
   - "[[School Leadership]]"
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
@@ -46,6 +47,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Success for All]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Investing in Innovation Program]]"
@@ -83,7 +85,7 @@ updated: '2026-05-24'
 
 Slavin et al. (2021, p.9) 将证据本位改革定义为四项核心活动：
 
-1. **找出什么最有效**（Finding out what works best）：在各学科、各年级使用严格的实验方法评估创新项目
+1. **找出什么最有效**（Finding out [[What Works Movement|what works]] best）：在各学科、各年级使用严格的实验方法评估创新项目
 2. **传播已知的有效项目**（Making educators aware of proven programs）：让教育者、教育领导者和政策制定者了解经过验证的项目，需由可信的政府或非政府专家解释技术报告并以清晰方式描述项目和证据基础
 3. **提供资源和激励**（Providing resources and incentives）：使[[School Leadership|学校领导]]能够实施经过验证的项目——"知道哪些项目最有效很少足以使教育领导者接受它们，教育创新通常有初始成本（材料、硬件、软件和专业发展），教育者希望确信采用创新得到领导者的鼓励"（Slavin et al., 2021, p.21）
 4. **持续增加有效实践的知识**（Creating policies to continually add to knowledge）：创建政策和系统以持续进行创新→评估→推广的循环——"教育研究不应被视为寻找适用于所有学校的单一最佳方法，而应被视为一个持续的创新和评估过程，以逐步增加关于有效实践和政策的知识"（Slavin et al., 2021, p.22）
@@ -102,7 +104,7 @@ Cheung & Xie (2021) 的特刊汇集了来自亚洲、北美、欧洲七个国家
 
 这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Methods Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定（Pellegrini & Vivanet, 2021, p.26）。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用（Pellegrini & Vivanet, 2021, p.36）。
 
-Edovald & Nevill (2020) 总结了英国 Education Endowment Foundation (EEF) 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准（Cheung & Xie, 2021, p.2）。
+Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Education Endowment Foundation (EEF)]] 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准（Cheung & Xie, 2021, p.2）。
 
 ## 与 Evidence-Based Education 的区别
 
@@ -287,7 +289,7 @@ Slavin et al. (2021, p.15-17) 首次在英文文献中系统翻译和呈现了�
 
 ### 法语比利时案例：证据层级的语境化妥协
 
-法语比利时[[Pact for Educational Excellence|教育卓越公约]]显示，证据本位改革进入非英美语境时，常常不能直接复制 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 式的证据等级。2017 年工作组列出 425 个教学工具/项目，其中只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若严格套用实验优先的证据层级，几乎 97% 的候选工具会被排除（Dachet & Baye, 2021, p.175）。
+法语比利时[[Pact for Educational Excellence|教育卓越公约]]显示，证据本位改革进入非英美语境时，常常不能直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 式的证据等级。2017 年工作组列出 425 个教学工具/项目，其中只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若严格套用实验优先的证据层级，几乎 97% 的候选工具会被排除（Dachet & Baye, 2021, p.175）。
 
 因此，改革团队建立了一个包容性验证类型学，把专家验证、案例研究、横断研究、相关或纵向研究、实验与准[[Experimental Research|实验研究]]纳入同一框架，并为不同方法设置最低质量标准。这个选择不是否定实验研究，而是在本地证据库薄弱、学科教学专家参与教师培养且政治上需要协作的条件下，把实验方法作为逐步提高标准的方向，而不是一开始就作为排除性门槛（Dachet & Baye, 2021, pp.175-180）。
 
@@ -337,7 +339,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 ### Toolkit 和 Hattie 的方法论批评
 
-Wrigley (2018) 和 Simpson (2017) 对 EEF Toolkit 提出系统性技术批评：
+Wrigley (2018) 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
 
 - **混合苹果和橙子**：不同性质的研究以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项研究使用不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
 - **效应量失真**：三个系统性偏差来源——(1) 控制组性质不明（一切照旧 vs 零条件）；(2) 研究人口范围受限自动放大效应量（SD在分母中缩小）；(3) 窄化成果测量比一般测量产生更大效应量

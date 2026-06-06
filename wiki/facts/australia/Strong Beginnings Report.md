@@ -4,7 +4,7 @@ aliases:
   - "Strong Beginnings"
   - "强劲开端报告"
   - "Strong Beginnings: Report of the Teacher Education Expert Panel"
-summary: "澳大利亚政府2023年发布的教师教育专家小组报告，提出14项建议，首次将神经科学和'大脑与学习'作为初始教师教育的核心内容强制纳入国家认证标准。"
+summary: "澳大利亚政府2023年发布的教师教育专家小组报告，提出14项建议，首次将神经科学和大脑与学习作为初始教师教育的核心内容强制纳入国家认证标准。"
 type: fact
 subtype: policy
 region: australia
@@ -15,17 +15,17 @@ tags:
   - theme/evidence-based
   - theme/neuroscience
 related_concepts:
+  - "[[Effective Teaching]]"
+  - "[[Classroom Management]]"
+  - "[[School Leadership]]"
   - "[[What Works Movement]]"
   - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Australian Education Research Organisation]]"
-  - "[[Education Endowment Foundation]]"
-related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Communities in Schools]]"
+related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
 confidence: medium
@@ -45,7 +45,7 @@ updated: 2026-06-06
 
 > [!abstract]
 > 报告提出四项优先改革（共14条建议）：
-> - **优先改革1**：加强ITE项目，确立核心内容并强制纳入国家认证。核心内容包括四类：大脑与学习、有效教学实践、课堂管理、回应性教学。ITE提供商须在2025年底前将核心内容嵌入所有ITE项目（Skourdoumbis & Rowe, 2024, pp.5-6）。
+> - **优先改革1**：加强ITE项目，确立核心内容并强制纳入国家认证。核心内容包括四类：大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学。ITE提供商须在2025年底前将核心内容嵌入所有ITE项目（Skourdoumbis & Rowe, 2024, pp.5-6）。
 > - **优先改革2**：加强ITE项目绩效与资金的关联
 > - **优先改革3**：提高教学实习质量
 > - **优先改革4**：改进研究生ITE项目以吸引更多职业转换者
@@ -68,7 +68,7 @@ updated: 2026-06-06
 
 > [!example]
 > - 核心内容将与毕业生教师标准（1.1和1.2）挂钩，毕业生须证明在核心内容方面具备能力
-> - 澳大利亚教学与学校领导力研究所（AITSL）将负责将核心内容添加到认证标准中
+> - 澳大利亚教学与[[School Leadership|学校领导力]]研究所（AITSL）将负责将核心内容添加到认证标准中
 > - 报告中的"证据"一词出现200次，"认证"出现197次，"评估"出现90次
 
 ---
@@ -77,7 +77,7 @@ updated: 2026-06-06
 
 > [!warning]
 > - 报告虽因教师短缺问题而发起，但几乎未涉及教师流失的主要原因（工作量过大）
-> - 指定的参考文献中包括保守智库CIS资助的研究，引发私人利益干预教育的担忧
+> - 指定的参考文献中包括保守智库[[Communities in Schools|CIS]]资助的研究，引发私人利益干预教育的担忧
 > - 报告未讨论神经科学的任何局限性，尽管OECD（2002, 2007）报告明确指出了这些局限
 > - 神经科学在教育中的应用历史上与优生学有关联，报告对此未作任何说明
 

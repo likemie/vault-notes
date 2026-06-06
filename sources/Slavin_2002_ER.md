@@ -5,9 +5,9 @@ extracted_to:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Grover Whitehurst]]"
   - "[[Argument_Slavin_2002_ER]]"
+  - "[[Robert Slavin]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Robert Slavin]]"
 processed_date: 2026-05-01
 ---
 

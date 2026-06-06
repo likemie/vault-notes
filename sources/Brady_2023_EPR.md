@@ -9,8 +9,8 @@ extracted_to:
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Evidence-Based Education]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-05
 ---
 

@@ -3,7 +3,7 @@ title: Argument_Skourdoumbis_2024_AER
 authors:
   - "Skourdoumbis, A."
   - "Rowe, E."
-summary: "运用Bacchi的WPR方法批判澳大利亚'强劲开端'报告，指出将神经科学强制纳入教师教育课程是简化主义做法，且服务于证据中介组织和保守智库的私人利益。"
+summary: "运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出将神经科学强制纳入教师教育课程是简化主义做法，且服务于证据中介组织和保守智库的私人利益。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -18,16 +18,14 @@ tags:
   - australia
 related_concepts:
   - "[[What Works Movement]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
+  - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Strong Beginnings Report]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Education Endowment Foundation]]"
-  - "[[What Works Clearinghouse]]"
+  - "[[Communities in Schools]]"
 related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
@@ -40,14 +38,14 @@ updated: 2026-06-06
 ## 研究问题
 
 > [!question]
-> 澳大利亚2023年《强劲开端》报告将神经科学和"大脑与学习"强制纳入初始教师教育核心课程，这一改革的深层逻辑是什么？它如何通过"what works"话语获得合法性，又如何强化了证据中介组织和私人机构的权力？
+> 澳大利亚2023年《强劲开端》报告将神经科学和"大脑与学习"强制纳入初始教师教育核心课程，这一改革的深层逻辑是什么？它如何通过"[[What Works Movement|what works]]"话语获得合法性，又如何强化了证据中介组织和私人机构的权力？
 
 ---
 
 ## 理论框架
 
 > [!abstract]
-> - **批判政策社会学（Critical Policy Sociology）** — 质疑权力、知识生产和政策流动（Ozga, 2021），分析政策改革如何在权力网络中被动员
+> - **批判政策社会学（Critical Policy Sociology）** — 质疑权力、[[Knowledge Production|知识生产]]和政策流动（Ozga, 2021），分析政策改革如何在权力网络中被动员
 > - **Bacchi的WPR方法（What's the problem represented to be?）** — 通过六个问题审视政策：(1)政策将"问题"表征为什么？(2)这种表征基于什么预设？(3)这种表征如何形成？(4)沉默在哪里？(5)这种表征产生什么效果？(6)这种表征如何被生产、传播和捍卫？（Bacchi, 2009, p.2）
 
 ---
@@ -79,12 +77,12 @@ updated: 2026-06-06
 >
 > ---
 >
-> 4. **"问题"表征的生产者：AERO与证据中介网络**
-> AERO在《强劲开端》中发挥了关键影响：其CEO是专家小组成员，AERO被委托审查和综合证据。Mockler（2023）指出，核心内容是基于AERO为审查准备的"未发表研究综合"设计的。AERO明确将自身定位为"what works"运动的一部分，与英国EEF保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职，AERO被建议以EEF为蓝本建立。AERO董事会曾推动更"权威的"（惩罚性的）政策立场，如取消认证或惩罚性资金（Skourdoumbis & Rowe, 2024, pp.8-9）。
+> 4. **"问题"表征的生产者：[[Australian Education Research Organisation|AERO]]与证据中介网络**
+> AERO在《强劲开端》中发挥了关键影响：其CEO是专家小组成员，AERO被委托审查和综合证据。Mockler（2023）指出，核心内容是基于AERO为审查准备的"未发表研究综合"设计的。AERO明确将自身定位为"[[What Works Movement|what works]]"运动的一部分，与英国[[Education Endowment Foundation|EEF]]保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职，AERO被建议以EEF为蓝本建立。AERO董事会曾推动更"权威的"（惩罚性的）政策立场，如取消认证或惩罚性资金（Skourdoumbis & Rowe, 2024, pp.8-9）。
 >
 > ---
 >
-> 5. **私人利益的嵌入：CIS与指定参考文献**
+> 5. **私人利益的嵌入：[[Communities in Schools|CIS]]与指定参考文献**
 > 报告的核心内容包含指定的参考文献和文本，其中包括保守智库CIS（Centre for Independent Studies）资助的研究。认知负荷理论（John Sweller）构成指定参考文献的主要部分，而Sweller的工作同时被CIS和EEF推广。这意味着ITE教师将被强制纳入由保守智库开发和资助的出版物。Jennifer Buckingham（CIS高级研究员兼AITSL非执行董事）广泛推广了这些改革，体现了政策行动者之间的多重关联（Skourdoumbis & Rowe, 2024, pp.9-10）。
 >
 > ---
@@ -100,9 +98,9 @@ updated: 2026-06-06
 > - 《强劲开端》报告首次在澳大利亚全国范围内将神经科学强制纳入初始教师教育，代表了一个重要的政策转折点
 > - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将"问题"重新界定为教师质量和课堂准备度不足
 > - 脑科学方法将学习简化为大脑活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（如与优生学的关联）
-> - AERO在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的"未发表研究综合"设计
-> - 指定参考文献中包含CIS资助的研究，ITE教师将被强制纳入由保守智库开发的出版物
-> - 改革将扩大AITSL的职权范围和认证权力，反映了"what works"运动的惩罚性问责逻辑
+> - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的"未发表研究综合"设计
+> - 指定参考文献中包含[[Communities in Schools|CIS]]资助的研究，ITE教师将被强制纳入由保守智库开发的出版物
+> - 改革将扩大AITSL的职权范围和认证权力，反映了"[[What Works Movement|what works]]"运动的惩罚性问责逻辑
 
 ---
 

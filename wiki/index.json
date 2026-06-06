@@ -1109,6 +1109,16 @@
     ]
   },
   {
+    "title": "What Works Movement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/What Works Movement.md",
+    "aliases": [
+      "what works",
+      "什么有效运动",
+      "循证改革运动"
+    ]
+  },
+  {
     "title": "Data Behaviorism",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Data Behaviorism.md",
@@ -7587,6 +7597,15 @@
     ]
   },
   {
+    "title": "Australian Education Research Organisation",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Education Research Organisation.md",
+    "aliases": [
+      "AERO",
+      "澳大利亚教育研究组织"
+    ]
+  },
+  {
     "title": "Australian Curriculum",
     "type": "fact",
     "path": "wiki/facts/australia/Australian Curriculum.md",
@@ -7636,6 +7655,16 @@
     "aliases": [
       "My School",
       "我的学校网站"
+    ]
+  },
+  {
+    "title": "Strong Beginnings Report",
+    "type": "fact",
+    "path": "wiki/facts/australia/Strong Beginnings Report.md",
+    "aliases": [
+      "Strong Beginnings",
+      "强劲开端报告",
+      "Strong Beginnings: Report of the Teacher Education Expert Panel"
     ]
   },
   {
@@ -8805,6 +8834,16 @@
     ]
   },
   {
+    "title": "Education Endowment Foundation",
+    "type": "fact",
+    "path": "wiki/facts/uk/Education Endowment Foundation.md",
+    "aliases": [
+      "EEF",
+      "教育捐赠基金会",
+      "Education Endowment Foundation (EEF)"
+    ]
+  },
+  {
     "title": "Hargreaves 1996 TTA Lecture",
     "type": "fact",
     "path": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
@@ -9851,6 +9890,11 @@
     "title": "Argument_SpronkenSmith_2024_AEHE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Assessment & Evaluation in Higher Education/Argument_SpronkenSmith_2024_AEHE.md"
+  },
+  {
+    "title": "Argument_Skourdoumbis_2024_AER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md"
   },
   {
     "title": "Argument_OConnor_2020_AJLL",

@@ -16,8 +16,8 @@ extracted_to:
   - "[[Gert Biesta]]"
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
-  - "[[Evidence-Based Education]]"
   - "[[John Hattie]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-07
 ---
 

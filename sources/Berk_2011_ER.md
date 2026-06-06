@@ -10,8 +10,8 @@ extracted_to:
   - "[[Matching]]"
   - "[[Meta-analysis]]"
   - "[[Potential Outcomes Framework]]"
-  - "[[Evidence-Based Education]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-03
 ---
 

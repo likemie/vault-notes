@@ -15,8 +15,8 @@ extracted_to:
   - "[[Sean McCusker]]"
   - "[[Terry Wrigley]]"
   - "[[Critical Realism]]"
-  - "[[Evidence-Based Education]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01
 ---
 

@@ -4,10 +4,10 @@ extracted_to:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[Investing in Innovation Program]]"
-  - "[[Evidence-Based Education]]"
   - "[[Argument_Slavin_2019_EP]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Robert Slavin]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
 processed_date: 2026-05-01
 ---
 
