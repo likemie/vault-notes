@@ -27,8 +27,8 @@ extracted_to:
   - "[[Educational Technology Industry]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Sputnik Shock 1957]]"
-  - "[[Robert Cowen]]"
   - "[[Transitology]]"
+  - "[[Robert Cowen]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

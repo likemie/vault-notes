@@ -1,0 +1,426 @@
+ISSN: 0305-0068 (Print) 1360-0486 (Online) Journal homepage: www.tandfonline.com/journals/cced20
+
+Comparative Education
+
+Comparative education: and now?
+
+Robert Cowen
+
+To cite this article: Robert Cowen (2023) Comparative education: and now?, Comparative Education, 59:3, 326-340, DOI: 10.1080/03050068.2023.2240207 To link to this article: https://doi.org/10.1080/03050068.2023.2240207
+
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+
+Published online: 02 Aug 2023.
+
+Submit your article to this journal
+
+Article views: 5865
+
+View related articles
+
+Citing articles: 10 View citing articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=cced20
+
+COMPARATIVE EDUCATION 2023, VOL. 59, NO. 3, 326–340 https://doi.org/10.1080/03050068.2023.2240207
+
+Comparative education: and now?
+
+Robert Cowen
+
+EPS, UCL Institute of Education, UK
+
+ABSTRACT
+
+This article suggests that, as a ﬁeld of study, we have accumulated too many routinised ways to legitimate our academic identity; that it is time to step away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent. However, while it is easy to illustrate the banalities we use to deﬁne our academic identity, it is diﬃcult to turn the metaphor of ‘the future is now’ into a coherent perspective for seeing ‘futures’ for comparative education. Thus the second part of the article sketches choices which stabilise such a discussion and help to avoid vague visions of grand projects. The Conclusion emphasises our classic ﬂaw – failure to notice the political framing of many of our epistemic choices, agendas of attention and action, and institutional identities – before permitting itself to be a little bit excited about ‘the future’.
+
+KEYWORDS
+
+epistemic choices; agendas of attention and action; ethics; educated identity; transfer; Banalities; legitimations; futures; forms of understanding of comparative education
+
+Introduction: prophets, progress, and sin
+
+There are various ways to approach the future of comparative education. One way is nervously, like driving through thick fog on a dark night, hoping to avoid disasters and wanting the journey to end happily. Another way is to be boisterous like a bad politician: assert what the future should be, repeat the assertions loudly and often, and stress that we will all be healthy, wealthy, and free tomorrow; or soon afterwards. A third way into the future is quiet, almost unintentional. It is also a sharp shock: the sudden perception that the future is now and cannot be put oﬀ much longer.
+
+The question ‘is the future now?’ was triggered by a mysterious moment in Cyprus, during the 2018 Conference of the Comparative Education Society of Europe (CESE). The Conference itself was ﬁne: it had the excellent theme of ‘identities in education’ (Klerides and Carney 2021), a brilliant opening Plenary lecture by António Nóvoa (2021), and the usual happy-family feeling you get in CESE with its week-long Working Groups. However, there was an oddity. It occurred during a session of special lectures (European Education 2018) that celebrated the work of a Cypriot, Andreas Kazamias, an Honorary Member of CESE. The oddity was the impromptu, spontaneous, remarks which the speakers were oﬀering to the audience. Kazamias was being happily interpreted, en passant, as a
+
+CONTACT Terri Kim
+
+† Deceased.
+
+terri.kim@ucl.ac.uk
+
+This article has been corrected with minor changes. These changes do not impact the academic content of the article.
+
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+COMPARATIVE EDUCATION
+
+327
+
+much-needed prophet who had correctly anticipated the future – that is, our current times and problems. He was being interpreted as having a Message: we should now re-balance ourselves with Hellenistic Humanism and a concern for paideia, the ‘education of the soul’.
+
+Andreas Kazamias is a philosopher-prophet? That would indeed be a dizzying redeﬁnition of identity. Andreas has, often, advocated history and humanism as the perspective within which to construct what he has the bad habit of calling a gradualist-modernist-melioristic-Promethean-comparative-education (Kazamias 2009a, 2009b). However, even amid such word-storms, he has never called himself a prophet. The dissonances of the morning began to nag. Is ‘Hellenistic Humanism’ now a mantra to be pronounced in a voice full of awe? The world had turned backwards, returning to where Kazamias was about 50 years ago: an historical perspective is the best way to do academic comparative education? Therefore the last ﬁfty years of work have been a strategic error?
+
+That would be another startling judgment. In those ﬁfty years, comparative education has changed. It was an esoteric specialism studied in a few well-known places. Now it is taught in university departments of education on all continents. Currently, comparative education oﬀers a range of academic qualiﬁcations from diplomas to PhDs, as well as post-doctoral opportunities. After the 1960s and 1970s, there was a major growth in its professional academic societies which typically become members of a World Council of such Societies. In our journals, we have ﬁnally created a conversation of some seriousness. We also compete well in domestic and international markets for funded research and consultancies.
+
+Therefore we are established, successful, and rich. Why would we be anxious and praise prophets?
+
+Perhaps because we have collected too many banalities and we rarely get rid of any of them. We invoke Michael Sadler (1900 (1964)) as we attempt to learn things ‘of practical value’ from the study of educational policies. That aspiration is over one hundred years old. Astonishingly, it is still routinely used to justify comparative education as a university ﬁeld of study. We invoke Jullien (Fraser 1964) to claim we are ‘a science’ (or just about to become a science). However, that aspiration, made explicit by Jullien in Paris in 1817, is two hundred years old and we are still not sure whether ‘science’ means knowing the causes of things or being able to predict accurately. We also echo J. S. Mill when we reduce comparative education to ﬁnding ‘similarities and diﬀerences’ among education systems in foreign societies. These versions of comparative education – as an advanced form of emergency social plumbing (weakly legitimated by the name of Sadler), as a positive science (weakly legitimated by the name of Jullien de Paris) and as a sophisticated vision of how to contrast apples and oranges (weakly legitimated by the name of J. S. Mill) – are part of our historic baggage as well as, for many scholars, part of their daily pedagogic and professional perspective. Yes: it is time to be very anxious and to think about how to move forward.
+
+We also keep dithering about our epistemic boundaries. Even if we ignore the anguished little debate at the end of the last century about whether we were or are ‘a discipline’ in the myopic meaning of that word at that time and even if we ignore the fashionable contemporary vacuity of labelling ourselves ‘interdisciplinary’ without bothering to deﬁne that concept, we have invented a new and dangerous form of (professional) Russian roulette: deﬁning ourselves by deducing ourselves. Less cryptically: we invoke a theoretician – Bourdieu or Foucault, Habermas or Luhmann, Derrida, or Deleuze
+
+328
+
+R. COWEN
+
+and Guatarri – and construe comparative education within that theoretical frame. The other extreme is also remarkable: we scatter comparative education, breaking it down into a number of social sciences or social science concepts and deduce a comparative education from each (Jules, Shields, and Thomas 2021). The obvious danger is that we will fracture our theory work into epistemic strands that have less cumulative coherence than wave-marks in the sand as the tide goes out. Even our names for ourselves are starting to whirl and warp: comparative education; comparative and international education; and, more contemporaneously, international comparative education and the rather imaginative ‘beyond comparative education’. Yes: it is time to be anxious and to invent one or two theories of our very own.
+
+It is also clear that each generation of comparative educationists makes mistakes and thinks of them as victories, as theoretical breakthroughs – which of course they are. It was indeed a break with tradition to suggest: ‘a comparative study is essentially an attempt as far as possible to replace the names of systems (countries) by the names of concepts (variables)’. [italics in the original] (Noah 1973, 114). However, such ‘breakthroughs’ are often – as that one was – moments of energetic egoism and high hubris, invitations to epistemic rigor mortis. Thus instead of thinking we have been a success because in the last ﬁfty years we have become institutionally established, well networked through our professional societies and internationally visible through journals, we might be anxious that each generation of comparative educationists makes mistakes. So, what are our mistakes? Do we need a doomsayer, a warning about over-conﬁdence? Probably.
+
+Fortunately, some of the doom-saying is easy, like identifying serious sin. As illustrations, four sins will suﬃce. The ﬁrst is the assumption of progress. This error is well illustrated by the teleological ‘history’ of Noah and Eckstein (1969) which argues that we made several earlier errors until ﬁnally we matured, and accepted the idea of becoming a comparative social science. That history also included the second sin of academic comparative education: parochialism, the assumption that the mid-Atlantic is the world’s axis which deﬁnes the politics, optics, and directions of comparative education. The third sin is an addiction to borrowing – speciﬁcally, importing big concepts (such as ‘globalisation’) which in much of our literature are then taken to be self-evident, are used without nuance and, sometimes, without even a qualifying adjective – such as economic, or political or cultural. With a fast citation or two, such borrowed invocations – like ‘pattern variables’, the ‘Third World’, multicultural societies, Confucianism – safeguard us from complexity. The fourth sin, the permanent albatross of comparative education which has already been with us for at least ﬁfty years, is the assumption that there is a condition called ‘science’ which is self-explanatory. The opposite would be more accurate. ‘Science’ has been one of our most volatile and confused concepts, variously meaning: (i) the embracement of the models and concepts of econometrics (Noah 1973); (ii) being able, as in physics for example, to predict accurately (Holmes 1984); (iii) or, as Roger Bacon hoped and as some historians might insist has been done, knowing ‘the causes of things’; and more recently and fashionably (iv) having access to lots of hard data.
+
+Thus, while academic comparative education can be claimed to be successful, it needs some urgent re-thinking because – at an historic moment marked by a world-wide pandemic, a world climate-crisis, a not-yet-nuclear war in the Ukraine, and a classic majorpower struggle in the Paciﬁc – we are still conﬁrming our identity using old assumptions. Some are political: we aspire to advise Ministers of Education (or their equivalent); the
+
+COMPARATIVE EDUCATION
+
+329
+
+international agencies are benign and do ‘good’ work; the political fulcrum of our work is the improvement of educational policy. Other assumptions are epistemic: notably, if we keep at it, we will ﬁnally achieve – take your pick – ‘powerful knowledge’, interdisciplinarity, the status of a science. It is certainly time for some re-thinking.
+
+Deviants and disciples, apple carts and futures
+
+However, the suggestion that we should re-assess our academic agenda is not without potential harm. Let us call it in a phrasing (but not the precise meaning) borrowed from Epstein and Carroll (2005): ‘abusing ancestors’. The epistemic melodrama (the socalled methodology debate) of the early 1970s led to such a moment; a moment which could be termed ‘the fracturing’ (Cowen 2023). The collateral damage which followed that fracturing was remarkable. As the ﬁeld of study tried to redeﬁne itself and cope with new ways of thinking, deviants were identiﬁed. There was a tangible sense of irritation marring conferences and at least one very public conﬁrmation – Edmund King’s ex-cathedra eﬀort to discipline Margaret Scotford Archer (King 1979; King and Archer 1980) – that the comparative educationists of that generation in England had no empathy with or sympathy for sociology (historical or otherwise).
+
+In contrast, our contemporary debates so far seem sensible and straightforward. In England, currently, academics such as Stephen Ball, Roger Dale, Martin Lawn, Gemma Moss, Jenny Ozga and Susan Robertson who use perspectives from sociology and historical sociology make major contributions to thinking comparatively, and a critical international conversation also exists. The re-thinking oﬀered by Ninnes and Burnett (2003), the revisionist interpretations of American education by Larsen and Mehta (2008), or the critique of one version of neo-institutionalism oﬀered by Carney, Rappleye, and Silova (2012), and fresh ways to think about multiple mobilities and teacher professionalism (Seddon and Levin 2013) have become small but classic additions to the theoretical literature. Similarly, as we move into ‘the future’, current propositions about colonialism and de-colonisation are producing a long overdue discussion – even though there are clear diﬀerences in interpretations (Takayama, Sriprakash, and Connell 2017; Vickers 2020). This discussion – which needs careful and precise caveats about non-Western colonisation (Indonesia and West Papua; India and Kashmir; Iraq and the Kurds; Japan and Korea; Myanmar and the Rohingya; China and Tibet and Xinjiang) – may, with a little bit of luck, improve our sense of the complexity of what is now a very hot topic rather than descend into abusive terminology such as ‘deviants’ or (perhaps even worse) ‘disciples’.
+
+However, there are some themes and topics which probably do not (in terms of ‘the future’) need much sustained discussion. Which themes need more discussion and which do not? To put the point with rather more zest, if we wish to be deliberately divergent or dangerously delinquent – if the ﬁeld of study is to move forward we must run the risk of abusing some ancestors – on what explicit principles is it possible to decide which ancestral apple carts should be upset and which left alone or ignored? There are at least ﬁve ways to construe that problem and oﬀer an answer to the question.
+
+The ﬁrst and core point is to conﬁrm continuities: certain themes already ﬂow into the future. That future is with us, now. An example would be ‘normal-puzzle’ topics: preschool education, ﬁrst-level education, examinations, secondary education, curriculum,
+
+330
+
+R. COWEN
+
+teacher education, vocational-technical education, measuring ‘the quality’ of schools, universities (and measuring their ‘quality’), and new technologies for teaching. These normalpuzzle topics are our routine business because comparative education has typically oﬀered analyses of educational ‘systems’ and their parts, and how they work and have been or could be reformed.
+
+Secondly, there are ‘hot’ topics and – because that work has been voluminous and interest has been intense – such topics are with us already and must stay with us: race and gender for example. The education of girls was the theme of the previous Special Issue of this journal (Unterhalter 2023). New theory work is also very visible and continuous in the themes of the ‘posts’: post-socialist, post-modern, post-humanist and in interpretative perspectives such as assemblages (Ninnes and Mehta 2004; Epstein 2019; Sobe and Kowalczyk 2018; Salajan and Jules 2022).
+
+Thirdly, recent break-through themes include governance and modes of control (Grek 2013; Grek and Lawn 2009; Lawn and Grek 2012; Lewis 2020; Lewis and Lingard 2023; Nóvoa and Lawn 2002; Nóvoa and Yariv-Mashal 2003; Ozga, Seddon, and Popkewitz 2006); data (Gorur, Sellar, and Steiner-Khams 2019; Lawn 2013); post-colonialism and the Global South (Takayama 2018; Takayama, Sriprakash, and Connell 2017; Unterhalter 2009; Vickers 2020); PISA (Auld, Li, and Morris 2022; Auld, Rappleye, and Morris 2019; Meyer and Benavot 2013; Pereyra, Kotthoﬀ, and Cowen 2011); and the rescue of the concept of ‘nationalism’ from within the maw of globalisation (Cowen 2023; Tröhler 2023a; Tröhler, Piattoeva, and Pinar 2022). At the time of writing, major attention is being given to the theme of ‘artiﬁcial intelligence’ on which the literature is growing with extreme rapidity and some alarm (e.g. over chatbot ChatGPT). Those are all breakthrough themes not merely in the sense they have been suddenly made visible but they also break through into the future.
+
+In contrast, there are, fourthly, certain ‘cold’ topics about which for so long we have said so very little. They include war, revolution, Empires (Cowen 2014a) and, these days, religion (Cowen 2019; Sivasubramaniam and Hayhoe 2018). These are not topics ready to be ‘rescued’ in a short article. They are major silences. They have not entered our past very much, never mind our future. They now need very full statements of why and how they are important, within a comparative education that is not aimed at policy advice.
+
+So – given these continuities and discontinuities – the proper way to think about ‘some futures’ of comparative education is to draw on a personal sense of opportunities missed? Not quite. Accounts of comparative education can indeed be assembled by using a simple motif: e.g. (as indicated earlier) by insisting that we have ‘progressed’ or by tracing the professional lives of major scholars. It is also possible to look at a time period (Fraser and Brickman 1968; Hausmann and Brewer 1967) or to use the World Yearbooks of Education as an indicator of what was seen as a ‘hot’ or important topic (Cowen 2022). However, there are also complex ways to think about comparative education, as was recently illustrated with the concept of ‘narratives’ by Wolhuter, Espinoza, and McGinn (2022).
+
+Another – the ﬁfth way – is to ask about and highlight some futures is to assess ‘which world’ comparative education was, is, and might soon be reading (Cowen 2000; Palomba and Cappa 2018; Tröhler 2013).
+
+COMPARATIVE EDUCATION
+
+331
+
+Comparative education’s earliest ‘readings of the global’ were readings of the secular, loosely linked to the politics of revolution at the end of the eighteenth century, State formation, new nationalisms, and their educational implications. It is partly these motifs which frame the work of the nineteenth century administrators of education (such as Torrey Harris, Kay-Shuttleworth, Horace Mann, Egerton Ryerson) who sought, by looking overseas, to invent institutions ﬁt to transmit ‘elementary education’ and train teachers for that task. By the late nineteenth century, the attention of comparative education had turned to the long-term consequences of the Industrial Revolution, international economic competition, and the redeﬁnition of educational systems to meet these challenges and to sustain imperialism. In this period before WW1, it is also clear how strongly interest in ‘foreign’ educational systems was linked to becoming modern (or staying authentically Slav or Japanese).
+
+In comparative education, there was some – but remarkably little – specialist work on the interwar politics of fascism and communism. However, the post-war literature has patterns. First, there was an eﬀort after 1945, especially in Europe, to understand and act upon the world in terms of reconstruction and improvements in equality of educational opportunity. Second, by the 1950s this theme took tighter focus: the liberal democracies were understood as being in competition with state-socialist democracies, not least in education. The challenge during the Cold War included knowing the outcomes of educational systems: major eﬀort was put into the measurement of educational success via international tests. Third, this competition began to include what came to be called the ‘development’ of le tiers monde. Fourth, after the Cold War, the ‘reading of the global’ led to the large literature on globalisation with its grand narrative and clumsy subordinate vocabularies.
+
+It is in counterpoint to these ‘readings of the global’ and our contemporary moment (which politics and economics of the world are we currently reading?) that this Special Issue oﬀers some assessment of the ‘posts’ we have passed and of the future, with a caveat. The caveat is to note that the articles in this Special Issue should not be taken as a deﬁnition of ‘the’ future of the ﬁeld of study. Nor should it be assumed that the purpose of this Special Issue and its articles is to make the complex task of creating ‘the future’ of comparative education simple, like a ﬁrst-rate cook-book explaining – in great detail and successfully – how to soft-boil an egg. Overall, this Special Issue oﬀers no dictats nor does it suggest, by implication, that there is ‘a solution’ in a magic method such as ‘most similar systems design’ and ‘most diﬀerent systems design’ (MSSD and MDSD) or a mono-thematic theoretical territory which ﬁxes the future. The only mildly aggressive assertion that is oﬀered here is that the future ought not to be deduced from what has become an academic cliché, almost a monosyllable: ‘postCOVID’. The themes of this Special Issue are less dramatic and more easily thought about in relation to our various and earlier ‘readings of the global’ – as well as crucial to our ‘futures’.
+
+Futures, politics, and understanding comparative education
+
+This article opened with a sketch of some of our clichés, within the academic universitybased ﬁeld of study known as comparative education. The broad argument was and is that the ﬁeld of study has become bloated (Cowen 2018): puﬀed up with too many
+
+332
+
+R. COWEN
+
+scattered ideas, a metaphorical Tower of Babel invoking too many saviour-saints, and in danger of being trivialised by what could be called academic agriculture – digging to ﬁnd empirical ‘results’ in fallow foreign ﬁelds – with reports of the ‘results’ then oﬀered to the journals as if they were comparative education articles. We also have achieved a sense of considerable self-importance through agendas of action which involve us giving lots of advice to people in faraway lands.
+
+There is an irony here, hidden in our agendas of action undertaken in the name of comparative education – action such as consultancies, funded-research projects, and expanding an easily-sold text-book literature. Our university-based comparative education as ‘action-on-the world’ sustains our analytical academic and theoretical comparative education. Our ‘applied’ academic comparative education (in the sense of consultancies and funded research and the teaching of large numbers of ‘international’ students) helps to keep the ﬁeld of study of comparative education relatively free to pursue critical, incoherent or coherent, academic agendas. However, the price is high.
+
+These patterns are framed by a range of national and university micro-politics of ‘eﬃciency’ and ‘management’ (whether in Denmark, France or Ireland, or the Gulf States or Brazil) and are sustained by ideologies in academic-management discourses. Academic-management discourses have become ‘deductive rationalities’ (Cowen 2005) which are compressed policy-words, words of control. They bring with them sociologies of performance, including corrosive measures of performance in many university (and school) systems, from which it is diﬃcult to escape. One example is the expectation of certain kinds of more or less instant ‘impact’ from academic work. (An explicit statement of intended impact now needs to be made prior to the Abstract in PhD theses in some English universities!) Another example is what is basically an injunction: (become) ‘a world-class university’. Both injunctions (have impact, be a world-class university) involve detailed managerialist measurement systems oriented to achieve targets and both injunctions have become corrosive. They redeﬁne ‘the university’ and what is taken to be good knowledge; they focus tightly the role of ‘professors’ and teachers; they insert the university into the economy and make universities into businesses (Ball 2016; Cowen 2012a; 2012b; 2013). The challenges are more subtle but over time may become almost as dangerous and destructive of originality and new theoretical ideas as Mao’s deductive rationality, the injunction to ‘learn from the workers, soldiers, and peasants’.
+
+Thus one of the suggestions in this article is that we need, right now, to think hard about our agendas of alliance and action, as well as our agendas of academic attention, our silences, and our deﬁnitions of what is ‘good’ academic comparative education. All of those agendas and silences are politics-sensitive. Academic comparative education itself in its geo-political locations such as Japan in 1870 and England in 1900 as well as in its ‘readings of the global’ – takes up diﬀerent agendas of attention and styles of understanding which are aﬀected by both international and domestic politics, as well as the politics of the academy.
+
+And that is the main closing argument of this article: in the ‘academy’, we have retained – for a remarkable length of time – simultaneous but deeply contradictory forms of understanding in comparative education.
+
+One such form is ﬁnding similarities and diﬀerences in societies and educational systems and explaining these in terms of history or ‘contexts’; sometimes both. The
+
+COMPARATIVE EDUCATION
+
+333
+
+trajectory (with hints in Michael Sadler) goes back at the very least to Isaac Kandel, and can be traced later in the writings of Andreas Kazamias and Nicholas Hans and in English comparative education. Its code words include ‘history’ as a way of accessing cultures and thus providing a frame of explanation. Its code words also include ‘contexts’ where causes-of-diﬀerence have their existence. Politically, this form of understanding is relatively neutral and that is one of its ﬂaws: it tended to ignore politics such as fascism or messianic states or ‘state socialism’, partly because it refused to start from the concept of the ‘State’, ideal or actual.
+
+Another long-lasting form of understanding in comparative education is convergence theory. This was visible early in the aspirations carried by the concept of ‘science’ in the title of UNESCO – the notion that scientists worked from evidence and thus their debates were based on the voices of reason – the ‘demos’ of science could overcome political prejudice (Lauwerys 1957). The theme takes up a second life in the ideas of Pedro Rossello at the International Bureau of Education in Geneva: the idea of identifying ‘trends’ in education on a world-wide basis – an idea which dragged on at least into the 1980s (Cowen 1981; 1983). A third moment was the technological convergence theories of the 1960s (well displayed in the ﬁrst part of Halsey, Floud, and Anderson 1965): because industrial nations are developing similar and complex (industrial) production systems, they will grow increasingly alike. Another variant of convergence theory was a range of ‘modernity’ theories (illustrated for example, in one early theoretical formulation, by Alex Inkeles’ pattern variables). The theme takes contemporary form within some interpretations of the world covered by the term ‘neo-institutionalist’. Its code words, such as isomorphisms and gentle verbs (such as ‘emerge’, ‘happen’, ‘take shape’, with unclear agents of action) usually overlap with and cover a sociology and social psychology of convergence. Politically, the theory position seems at ﬁrst glance to be relatively neutral: new isomorphisms occur, they grow, as if almost all new isomorphisms are natural and normal and benign.
+
+A third long-lasting form of understanding in comparative education is the assumption that it could be (and should be, and is already almost) a policy science. The proposition is a statement about what comparative education is – is, in a quintessential sense. It is (it has struggled to be, now is, and will get better at being) a policy science: which is its proper epistemic form and function. This aspiration goes in and out of focus. It is very visible, for example in the mid-1960s classic ontological struggles, in the proposals of Brian Holmes and Edmund King but it surfaces also from time to time in the World Yearbooks of Education in their post-2010 identity. Politically, it is not neutral. It is an alliance with power: here, ‘democratic’ power in liberal democratic states which should (and will?) seek advice from comparative educationists at what Edmund King called critical points of decision.
+
+A fourth form of understanding is ‘outcomes’. This form of understanding was binary. Initially, in the hands of Joseph Lauwerys (1965), it was a form of Verstehen of ideal models of ‘educated identity’, especially those of France, England, the USA, and the USSR (which were inﬂuential as world-models). Later, ‘outcomes’ became an understanding of educational eﬃciency via international test results from the IEA studies and ﬁnally PISA. Thinking about ‘outcomes’ has moved away from an academic eﬀort to understand cultures. ‘Outcomes’ in its current forms of understanding ﬁts within a political struggle to create neo-liberal economic deﬁnitions of the world. Politically, such international testing has become a solutions-comparative-education rather than a comparative
+
+334
+
+R. COWEN
+
+education which wants to understand transfer (Cowen 2014b). The irony is that on this model of understanding in comparative education – measuring the results of schooling – comparative education is emptied of all forms of academic understanding and of all complexities except those of the technicalities of measurement: it becomes an adjunct to eﬃciency movements, a social thermometer indicating one measure of health while in practice reinforcing the politics of one deﬁnition of a proper world-order.
+
+Thus, the problem of thinking about some futures of comparative education is not merely a matter of grumbling about ‘bloat’ and ‘banalities’ or grumbling about the way the usual ‘history’we oﬀer our students has tended to become a fast legitimation, rather than a serious analysis (Manzon 2011; 2019; Epstein 2020; Phillips 2020), of ourselves and of our identities. Tactically, we need some revisionist essays which address the peculiarities of our current epistemic assumptions and agendas of academic attention. In the articles which follow, all the authors write about one or more of our academic confusions. They all address a ‘reading of the global’ – some of which have a long past or could have a long future. Sometimes both. All the authors, by critique, illuminate some possibilities for re-thinking theory work in comparative education for the next decade or so.
+
+Each paper can be read: (i) as narrative – as a story; (ii) as an analysis of the contradictions which are created when episteme meets politics and (iii) as a potentially signiﬁcant Cassandra statement (Cowen 2010): a warning about the future coupled with the possibility that the warnings might be true. Sometimes the Cassandra voice is the work of a full Conclusion as it is in the articles of Eleftherios Klerides and Terri Seddon; occasionally the core point is carried in a very ominous last sentence, as in the article by Daniel Tröhler.
+
+Will Brehm (2023) tells a story about American comparative education, particularly in its Chicago pattern at a particular time, but the theoretical analysis is precisely on the point of ‘when episteme meets politics’ and the Cassandra voice hints at how world politics is likely to change and, thus and also, comparative education. Maren Elfert’s ‘story’ (2023) is nominally simple – a sense of the historical commitments of UNESCO and OECD but the theme of the politics of knowledge is very sharp. How far are both international agencies now separating themselves from the traditional commitments of academic comparative education to humanism and democracy? The Cassandra voice is non-strident but clear: both UNESCO and OECD will need analysis and assessment by academic comparative educationists. Eleftherios Klerides’ (2023) article begins with a story about a treasure rediscovered: the break-through text of Martin Wight which snapped into theoretical focus a complete ﬁeld of study – international political relations. Klerides’ analysis uses Wight to oﬀer a fresh interpretation of theoretical work in comparative education. Robert Cowen and Terri Kim (2023) look at the disentanglements, overlapping and potential dynamic in the future between comparative education and intercultural education - which is almost certain going also to become a heated topic, in the sense of a strenuously argued one - a Cassandra motif which they oﬀer in the conclusion. Terri Seddon (2023) tells several stories (sometimes literally so, including a charming story about a subtle but strong act of decolonisation of Kazakhstan) but her core analytical points are that comparative education is not alert to planetary concerns, its vision has become too rigidly ‘scientiﬁc’, and it is failing to see (and hear) human beings in their full complexities. Her Cassandra voice is clear: the need to rethink and re-see ‘our’ world. Daniel Tröhler (2023b), writing as an historian, tells what seems to be a ‘story’
+
+COMPARATIVE EDUCATION
+
+335
+
+about comparative education in Japan and China, but then snaps his three-layered narrative into a focus which exactly pins the argument captured in the title of his article: Comparative Education (and) epistemological power games for world domination. Euan Auld and Paul Morris (2023) provide a theological and philosophical lens to analyse the inﬂuence of Michael Barber, the founder of ‘Deliverology’ and a key ﬁgure in the promotion globally of transformational education reforms based on comparative metrics. They portray him as a ‘political theologian’ who positioned himself as oﬀering salvation from an apocalyptic future. Min Ji Kim (2023) – who ideally will help create the future of comparative education – was invited to take the articles within the Special Issue and, with them as occasional counterpoint, to think about her own ways of seeing some futures of comparative education. In practice, she oﬀers an elegant and interesting invitation to all of us to continue reﬂecting and to assess where we agree and disagree. None of us can really write ‘conclusions’ in the sense of: ‘we can conﬁdently conclude’. Quite the reverse. This ending is also a beginning.
+
+Conclusions
+
+Strategically, we need to return to our basics and re-think. The puzzle of our professional ethics has not disappeared in the last ﬁfty years (Cowen 1973). As counterpoint, is our ﬁeld of study ﬁrmly and properly rooted, intellectually and morally, in the two ideas of ‘transfer’ and ‘educated identity’(Cowen 2021)? That is, does the theme of international ‘transfer’ oﬀer a suﬃcient intellectual challenge with its riddle ‘as it moves, it morphs’? ‘It’ might be a model of teacher education, a pedagogic style, or aspirations for the education of girls, a concept of the university. The puzzle is the morphology: the complexity of the changes at the intersection of international power and domestic politics and economics and cultures. That is the challenge. Does that problematique give us a suﬃcient and serious intellectual agenda? If we also ask as an ethical, political, and academic question, what is an ‘educated identity’ – does that give us enough moral clarity and certitude to bear witness about what we do to the children of the world in the name of ‘education’?
+
+Those questions are relatively abstract, but there are some sharp, urgent, almost practical questions, such as the question of ‘education’ in extreme political circumstances. That question could be (carelessly) dismissed as a theme for ‘historians’ – the southern States of the United States at the end of the nineteenth century, or schooling in Nazi Germany, or in apartheid South Africa. But this is also a contemporary question about what is happening in Afghanistan or Hong Kong after the introduction of the National Security Law (Vickers and Morris 2022) or contemporary Iran or the Occupied Ukraine (and the children there). Both the ‘historical’ and contemporary examples overlap very rapidly with a brutal question about the future of ‘comparative education’: when do extremist politics and forms of state repression prevent the possibility of doing ‘comparative education’? The apparently duller but almost equally corrosive question is when does the routine politics of educational eﬃciency make work in comparative education too sharply focused on practical reform.
+
+History and progress being what they are, these questions need to be asked at a time when we also need to stay alert to the probability that much of what we study – schooling systems and university systems – which are organised in what is basically a nineteenth
+
+336
+
+R. COWEN
+
+century pattern have begun to disintegrate in the twenty-ﬁrst century. There is now clearly an international ‘market’ for proﬁt-making educational services but as yet we have only a weak sense of the ways in which ‘education’ and schooling will change in what has been called, in Shoshana Zuboﬀ’s phrase, ‘an age of surveillance capitalism’, and an age which will also see more powerful forms of AI pedagogy. We need to anticipate the need for new concepts and vocabularies. Ways to think comparatively about such themes are certainly not within our conﬁdent grasp at the moment. The best hint, so far, is in the remarkably original thinking of Basil Bernstein (2001). Bernstein turned what sounds like an alarmist bit of journalism – a ‘totally pedagogised society’ – into a coherent theoretical concept by thinking (in a Durkheimian way) about ‘the social base’ which systematically creates patterns of pedagogic relations outside of the institutions of nineteenth and twentieth century schooling.
+
+In addition, it seems almost certain that we will continue to think about the Global South, de-colonisation, diasporas including large scale diasporas, and what has recently been called ‘racialisation’. Perhaps we will begin to reﬂect on the themes of war and revolution and, once again, on religion. However, it is also possible that we have not, in comparative education, thought with enough subtlety about our concepts of the heroic, the strange, and the barbaric. We may need to shock our professional relativisms into alertness by trying to apply those adjectives to schooling systems (Cowen 2011) and to ‘totally pedagogised societies’. We have also forgotten to keep asking ourselves about our ‘voice’ – in the original and subtle sense in which Antônio Nóvoa (2021) uses that expression. The articles in this volume are a step towards reclaiming or redeﬁning ‘our’ voice. The articles individually and collectively remind us we need one.
+
+Disclosure statement
+
+No potential conﬂict of interest was reported by the author.
+
+Notes on contributor
+
+Robert Cowen † is Emeritus Professor of Education in the University College London Institute of Education. He is an Honorary Member of the Comparative Education Society in Europe, and serves on the Editorial Board of Comparative Education.
+
+References
+
+Auld, E., X. Li, and P. Morris. 2022. “Piloting PISA for Development to Success: An Analysis of its Findings, Framework and Recommendations.” Compare: A Journal of Comparative and International Education 52 (7): 1145–1169. https://doi.org/10.1080/03057925.2020.1852914. Auld, E., and P. Morris. 2023. “Global Salvation Inc: Science, Deliverance & Sir Michael Barber’s Education for the Apocalypse.” Comparative Education 59 (3). https://doi.org/10.1080/ 03050068.2023.2241006.
+
+Auld, E., J. Rappleye, and P. Morris. 2019. “PISA for Development: How the OECD and World Bank Shaped Education Governance Post-2015.” Comparative Education 55 (2): 197–219. https://doi. org/10.1080/03050068.2018.1538635.
+
+Ball, S. J. 2016. “Neoliberal Education? Confronting the Slouching Beast.” Policy Futures in Education 14 (8): 1046–1059. https://doi.org/10.1177/1478210316664259.
+
+COMPARATIVE EDUCATION
+
+337
+
+Bernstein, B. 2001. “From Pedagogies to Knowledges.” In Towards A Sociology of Pedagogy: The Contribution of Basil Bernstein to Research, edited by A. Morais, I. Neves, B. Davies, and H. Daniels, 363–384. New York, NY: Peter Lang.
+
+Brehm, W. 2023. “Comparative Education as a Political Project.” Comparative Education, https://doi.
+
+org/10.1080/03050068.2023.2193807.
+
+Carney, S., J. Rappleye, and I. Silova. 2012. “Between Faith and Science:World Culture Theory and Comparative Education.” Comparative Education Review 56 (3): 366–393. https://doi.org/10. 1086/665708.
+
+Cowen, R. 1973. “A Query Concerning Developments Within and the Responsibilities of Comparative Education.” Canadian and International Education 1 (2): 15–29.
+
+Cowen, R. 1981. International Yearbook of Education 1981, Vol. XXXIII: Educational Trends. Paris: IBE/ UNESCO.
+
+Cowen, R. 1983. International Yearbook of Education 1982, Vol. XXXIV: Educational Structures. Paris:
+
+IBE/UNESCO.
+
+Cowen, R. 2000. “Comparing Futures or Comparing Pasts?” Comparative Education 36 (3): 333–342.
+
+https://doi.org/10.1080/713656619.
+
+Cowen, R. 2005. “Extreme Political Systems, Deductive Rationalities, and Comparative Education:
+
+Education as Politics.” In Educational Commonplaces: Essays to Honour Denis Lawton, edited by
+
+D. Halpin and P. Walsh, 177–194. London: Institute of Education, University of London.
+
+Cowen, R. 2010. “Ancestral Voices, Policy Superglue, and Cassandra: An Optimistic Note About Comparative Education.” Comparative and International Education Review 10: 31–45.
+
+Cowen, R. 2011. “Edging Closer to the Hero, the Barbarian, and the Stranger.” In Education Systems in Historical, Cultural, and Sociological Perspectives, edited by D. Tröhler and R. Barbu, 21–36. Rotterdam: Sense Publishers.
+
+Cowen, R. 2012a. “Robustly Researching the Relevant: A Note on Creation Myths in Comparative Education.” In Enlightenment, Creativity and Education: Polities, Politics, Performances, edited by
+
+L. Wikander, C. Gustaﬀson, and U. Riis, 3–26. Rotterdam: Sense Publishers & CESE.
+
+Cowen, R. 2012b. “Doctoring the Doctorate: Case-Notes on the English Patient.” In Doctoral Studies in Europe, edited by D. Palomba and C. Cappa, 49–74. Roma: Aracne.
+
+Cowen, R. 2013. “Changing Principles and Goals of Universities: Questioning Trajectories.” Sisyphus:
+
+Journal of Education 1 (2): 38–53. https://doi.org/10.25749/sis.3627.
+
+Cowen, R. 2014a. “Comparative education: Stones, Silences, and Siren Songs.” Comparative Education 50 (1): 3–14. https://doi.org/10.1080/03050068.2013.871834.
+
+Cowen, R. 2014b. “Ways of Knowing, Outcomes and ‘Comparative Education’: Be Careful What you Pray for.” Comparative Education 50 (3): 282. https://doi.org/10.1080/03050068.2014.921370. Cowen, R. 2018. “Reﬂections on Comparative Education: Telling Tales in Honor of Andreas Kazamias.” European Education 50: 201–215. https://doi.org/10.1080/10564934.2018.1455057. Cowen, R. 2019. “Re-thinking Comparative Education and Religion: Temptations, Traditions, and Politics.” Revista Española de Educación Comparada 3: 28–45. https://doi.org/10.5944/reec.33. 2019.22229.
+
+Cowen, R. 2021. “Educated Identity: Concepts, Mobilities, and Imperium.” In Identities and Education:
+
+Comparative Perspectives in Times of Crisis, edited by Eleftherios Klerides and Stephen Carney, 27–
+
+46. London: Bloomsbury Academic.
+
+Cowen, R. 2022. “Nations in the World: Interpreting the World Yearbooks.” In World Yearbook of Education 2022: Education, Schooling and the Global Universalization of Nationalism, edited by
+
+D. Tröhler, N. Piattoeva, and W. F. Pinar, 267–283. Oxon: Routledge.
+
+Cowen, R. 2023. “Comparative Education: Then, Now, and Next.” In International Encyclopaedia of Education, edited by R. J. Tierney, F. Rizvi, and K. Ercikan. 4th ed., 11–18. Oxford: Elsevier. Cowen, R., and T. Kim. 2023. “Comparative Education and Intercultural Education: Relations and
+
+Revisions.” Comparative Education, https://doi.org/10.1080/03050068.2023.2234690.
+
+Elfert, M. 2023. “Humanism and Democracy in Comparative Education.” Comparative Education,
+
+https://doi.org/10.1080/03050068.2023.2185432.
+
+Epstein, I. 2019. Aﬀect Theory and Comparative Education Discourse: Essays on Fear and Loathing in
+
+Response to Global Educational Policy and Practice. London: Bloomsbury Academic.
+
+338
+
+R. COWEN
+
+Epstein, E., ed. 2020. North American Scholars of Comparative Education: Examining the Work and Inﬂuence of Notable 20th Century Comparativists. London: Taylor and Francis.
+
+Epstein, E., and K. T. Carroll. 2005. “Abusing Ancestors: Historical Functionalism and the Postmodern Deviation in Comparative Education.” Comparative Education Review 49 (1): 62–88. https://doi. org/10.1086/426161.
+
+European Education. 2018. 50 (2) [Special Issue of]. Festschrift for Andreas Kazamias: Comparative Historian, Humanist Intellectual and Socratic ‘gadﬂy’.
+
+Fraser, S. 1964. Jullien’s Plan for Comparative Education 1816–1817. New York, NY: Teachers College, Columbia University, Bureau of Publication.
+
+Fraser, S., and W. W. Brickman. 1968. A History of International and Comparative Education:
+
+Nineteenth-Century Documents. Glenview, IL: Scott Foresman.
+
+Gorur, R., S. Sellar, and G. Steiner-Khams, eds. 2019. Comparative Methodology in the Era of Big Data and Global Networks, World Yearbook of Education 2019. London: Routledge.
+
+Grek, S. 2013. “Expert Moves: International Comparative Testing and the Rise of Expertocracy.”
+
+Journal of Education Policy 28 (5): 695–709. https://doi.org/10.1080/02680939.2012.758825. Grek, S., and M. Lawn. 2009. “A Short History of Europeanizing Education.” European Education 41 (1):
+
+32–54. https://doi.org/10.2753/EUE1056-4934410102.
+
+Halsey, A. H., J. Floud, and C. A. Anderson, eds. 1965. Education, Economy and Society: A Reader in the Sociology of Education. Paperback ed. London: Collier-Macmillan Ltd.
+
+Hausmann, G., and W. Brewer. 1967. “A Century of Comparative Education, 1785–1885.”
+
+Comparative Education Review 11 (February): 1–21. https://doi.org/10.1086/445271.
+
+Holmes, B. 1984. “Paradigm Shifts in Comparative Education.” Comparative Education Review 28 (4):
+
+584–604. https://doi.org/10.1086/446469.
+
+Jules, T. D., R. Shields, and M. A. Thomas, eds. 2021. The Bloomsbury handbook of theory in comparative and international education. London: Bloomsbury Academic.
+
+Kazamias, A. M. 2009a. “Forgotten Men, Forgotten Themes: The Historical-Philosophical-Cultural and Liberal Humanist Motif in Comparative Education.” In International Handbook of Comparative Education, edited by R. Cowen and A. M. Kazamias, 37–58. Dordrecht: Springer. Kazamias, A. M. 2009b. “Reclaiming a Lost Legacy: The Historical Humanist Vision in Comparative Education.” In International Handbook of Comparative Education, edited by R. Cowen and A. M. Kazamias, 1267–1276. Dordrecht: Springer.
+
+Kim, Min Ji. 2023. “Time-worn Pebbles or Unpolished Gemstones? (Un)Usable Pasts and Possible Futures of Comparative Education.” Comparative Education 59 (3). https://doi.org/10.1080/ 03050068.2023.2240208.
+
+King, E. 1979. “Review of Social Origins of Educational Systems by Margaret S, Archer.” Comparative Education 15 (3): 350–352. https://doi.org/10.1080/0305006790150312.
+
+King, E., and M. Archer. 1980. “Macro-Sociology and Comparative Education: Two Points of View.”
+
+Comparative Education 16 (2): 179–195. https://doi.org/10.1080/0305006800160209.
+
+Klerides, E. 2023. “Comparative education and international relations.” Comparative Education, https://doi.org/10.1080/03050068.2023.2216045.
+
+Klerides, E., and S. Carney, eds. 2021. Identities and Education: Comparative Perspectives in Times of Crisis. London: Bloomsbury Academic.
+
+Larsen, M., and S. Mehta, eds. 2008. “Insecurity, Desire and Comparative Education: North American Perspectives.” Comparative Education [Special Issue of] 44 (3).
+
+Lauwerys, J. A. 1957. “Scientiﬁc Humanism.” In Education and the Philosophic Mind, edited by A. V.
+
+Judges, 142–166. London: Harrap.
+
+Lauwerys, J. A. 1965. “General Education in a Changing World.” International Review of Education 11 (4): 385–403. https://doi.org/10.1007/BF01416768.
+
+Lawn, M., ed. 2013. The Rise of Data in Education Systems: Collection, Visualization and Use.. Didcot:
+
+Symposium Books.
+
+Lawn, M., and S. Grek. 2012. Europeanising Education: Governing a new Policy Space. Oxford:
+
+Symposium.
+
+Lewis, S. 2020. PISA, Policy and the OECD: Respatialising Global Educational Governance through PISA for Schools. Singapore: Springer Nature.
+
+COMPARATIVE EDUCATION
+
+339
+
+Lewis, S., and B. Lingard. 2023. “Platforms, Proﬁts and PISA for Schools: New Actors, by-Passes and Topological Spaces in Global Educational Governance.” Comparative Education 59 (1): 99–117. https://doi.org/10.1080/03050068.2022.2145006.
+
+Manzon, M. 2011. Comparative Education: The Construction of a Field. CERC Studies in Comparative Education 29. Dordrecht: Springer and The University of Hong Kong.
+
+Manzon, M.2019. Origins and Traditions in Comparative Education. Abingdon: Routledge, Taylor and Francis.
+
+Meyer, H.-D., and A. Benavot, eds. 2013. PISA, Power, and Policy: The Emergence of Global Educational Governance. Oxford: Symposium.
+
+Ninnes, P., and G. Burnett. 2003. “Comparative Education Research: Poststructuralist Possibilities [1].”
+
+Comparative Education 39 (3): 279–297. https://doi.org/10.1080/0305006032000134355. Ninnes, P., and S. Mehta, eds. 2004. Re-imagining Comparative Education: Postfoundational Ideas and Applications for Critical Times. New York, NY: Routledge.
+
+Noah, H. 1973. “Deﬁning Comparative Education: Some Conceptions.” In Relevant Methods in Comparative Education; Report of a Meeting of International Experts, edited by R. Edwards, B. Holmes, and John Van de Graaﬀ, 109–118. Hamburg: UNESCO Institute for Education.
+
+Noah, H. J., and M. A. Eckstein. 1969. Toward a Science of Comparative Education. New York, NY:
+
+Macmillan.
+
+Nóvoa, A. 2021. “The Return of the Comparativist: Estrangement, Intercession and Profanation.” In Identities and Education: Comparative Perspectives in Times of Crisis, edited by E. Kleridesand S. Carney, 245–260. London: Bloomsbury Academic.
+
+Nóvoa, A., and M. Lawn, eds. 2002. Fabricating Europe: The Formation of an Education Space.
+
+Dordrecht: Kluwer Academic Publishers.
+
+Nóvoa, A., and T. Yariv-Mashal. 2003. “Comparative Research in Education: A Mode of Governance or a Historical Journey?” Comparative Education 39 (4): 423–438. https://doi.org/10.1080/ 0305006032000162002.
+
+Ozga, J., T. Seddon, and T. Popkewitz, eds. 2006. Education Research and Policy: Steering the Knowledge-Based Economy, World Yearbook of Education 2006. London: Routledge.
+
+Palomba, D., and C. Cappa2, eds. 2018. “Comparative Studies in Education in Southern Europe.”
+
+Comparative Education [Special Issue of] 54 (4).
+
+Pereyra, M., H-G. Kotthoﬀ, and R. Cowen, eds. 2011. PISA Under Examination: Changing Knowledge, Changing Tests, and Changing Schools. Rotterdam: Sense Publishers.
+
+Phillips, D., ed. 2020. British Scholars of Comparative Education: Examining the Work and Inﬂuence of Notable 19th and 20th Century Comparativists. London: Taylor and Francis.
+
+Sadler, M. 1900 (1964). “How Far Can We Learn Anything of Practical Value from the Study of Foreign Systems of Education?” Comparative Education Review 7 (3): 307–314. https://doi.org/10.1086/ 445012.
+
+Salajan, F., and T. Jules, eds. 2022. Comparative and International Education (Re)Assembled: Examining a Scholarly Field through an Assemblage Theory Lens. London: Bloomsbury Academic.
+
+Seddon, T. 2023. “Comparative Education Concepts, Methods and Practices in the Emerging Anthropocene Educational Space: From ‘Measuring the Other’ to ‘Supporting the Other’?” Comparative Education. https://doi.org/10.1080/03050068.2023.2215643.
+
+Seddon, T., and J. Levin. 2013. Educators, Professionalism and Politics, World Yearbook of Education 2013. London: Routledge.
+
+Sivasubramaniam, M., and R. Hayhoe, eds. 2018. Religion and Education from a Comparative and International Perspective: Issues, Tensions and Possibilities. Oxford: Symposium.
+
+Sobe, N., and J. Kowalczyk. 2018. “Context, Entanglement and Assemblage As Matters Of Concern in Comparative Education Research.” In Uneven Space-Times in Education: Historical Sociologies of Methods and Practices, World Yearbook of Education 2018, edited by J. McLeod, N. W. Sobe, and T. Seddon, 197–204. London: Routledge.
+
+Takayama, K. 2018. “Beyond Comforting Histories: The Colonial/Imperial Entanglements of the International Institute, Paul Monroe, and Isaac L. Kandel at Teachers College, Columbia University.” Comparative Education Review 62 (4): 459–481. https://doi.org/10.1086/699924.
+
+340
+
+R. COWEN
+
+Takayama, K., A. Sriprakash, and R. Connell. 2017. “Toward a Postcolonial Comparative and International Education.” Comparative Education Review 61 (1): S1–S24. https://doi.org/10.1086/ 690455.
+
+Tröhler, D. 2013. “The OECD and Cold War Culture: Thinking Historically about PISA.” In PISA, Power, and Policy: The Emergence of Global Educational Governance, edited by H.-D. Meyer and A. Benavot, 141–161. Oxford: Symposium.
+
+Tröhler, D.2023a. Education, Curriculum and Nation-Building: Contributions of Comparative Education to the Understanding of Nations and Nationalism. London: Routledge.
+
+Tröhler, D. 2023b. “Comparative Education or Epistemological Power Games for World Domination.”
+
+Comparative Education, https://doi.org/10.1080/03050068.2023.2185358.
+
+Tröhler, D., N. Piattoeva, and W. Pinar, eds. 2022. World Yearbook of Education 2022: Education, Schooling and the Global Universalization of Nationalism. London: Routledge, Taylor and Francis. Unterhalter, E. 2009. “Postcolonialism.” In International Handbook of Comparative Education, edited by R. Cowen and A. M. Kazamias, 653–800. Dordrecht: Springer.
+
+Unterhalter, E. 2023. “An Answer to Everything? Four Framings of Girls’ Schooling and Gender Equality in Education.” Comparative Education 59 (2): 145–168. https://doi.org/10.1080/ 03050068.2023.2202374.
+
+Vickers, E. 2020. “Critiquing Coloniality, ‘Epistemic Violence’ and Western Hegemony in Comparative Education – The Dangers of Ahistoricism and Positionality.” Comparative Education 56 (2): 165189. https://doi.org/10.1080/03050068.2019.1665268.
+
+Vickers, E., and P. Morris. 2022. “Accelerating Hong Kong’s Reeducation: ‘Mainlandisation’, Securitisation and the 2020 National Security Law.” Comparative Education 58 (2): 187–205. https://doi.org/10.1080/03050068.2022.2046878.
+
+Wolhuter, C. C., O. Espinoza, and N. McGinn. 2022. “Narratives as a Way of Conceptualising the Field of Comparative Education.” Compare: a Journal of Comparative and International Education, https://doi.org/10.1080/03057925.2022.2093160.
+

@@ -12,11 +12,11 @@ tags:
   - theme/comparative-education
   - theory/transfer-frameworks
 related_concepts:
+  - "[[Shape-Shifting]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
   - "[[Recontextualization]]"
   - "[[Transitology]]"
-  - "[[Shape-Shifting]]"
   - "[[Geometries of Insertion]]"
   - "[[Scientific Attitude]]"
 related_theories: []
@@ -45,26 +45,37 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T）框架由 [[Robert Cowen]]（Cowen 2009）提出，是一个用于分析教育现象在跨国语境中移动、变形和再嵌入的三阶段概念工具。三个阶段依次是：
+> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T）框架由 [[Robert Cowen]]（Cowen 2009）提出，是一个用于分析教育现象在跨国语境中移动、变形和再嵌入的三阶段概念工具。
 
-- **转移（Transfer）**：教育思想、制度或实践从原始语境跨空间移动，到达接受国的初始状态。
-- **转译（Translation）**：接受国的行动者根据自己的需求、语言和文化框架对外来教育现象进行初步重释和制度化。
-- **转化（Transformation）**：社会、经济和政治语境进一步塑造转译产物，使其发生变形或本土化（indigenisation），这个阶段的产物可能与原始转移内容已经有了质的不同。
+---
 
-> [!quote]
-> Cowen (2009) 对三个阶段的原初定义：
+> [!abstract] 转移（Transfer）
+> 教育思想、制度或实践从原始语境跨空间移动，到达接受国的初始状态。这个阶段回答谁将什么知识通过什么渠道带到何处（Cowen, 2009, p.255）。
 >
-> - "(a) transfer is the movement of an educational idea or practice in supra-national or transnational or inter-national space: the 'space-gate' moment"（p.255）
+> > [!quote]
+> > "(a) transfer is the movement of an educational idea or practice in supra-national or transnational or inter-national space: the 'space-gate' moment"（p.255）
+> >
+> > 转移是教育思想或实践在超国家、跨国或国际空间中的移动，即太空门时刻。
+
+---
+
+> [!abstract] 转译（Translation）
+> 接受国的行动者根据自己的需求、语言和文化框架对外来教育现象进行初步重释和制度化。这个阶段回答外来思想如何被接受国的法律、制度和课程语言重新[[Coding in Qualitative Research|编码]]。转译通常伴随空间转移而自动发生，被比喻为变色龙过程（chameleon process）（Cowen, 2009, p.255）。
 >
-> 转移是教育思想或实践在超国家、跨国或国际空间中的移动，即太空门时刻。
+> > [!quote]
+> > "(b) translation is the [[Shape-Shifting]] of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'"（p.255）
+> >
+> > 转译是教育制度的形变或教育思想的重释，通常伴随空间转移而发生，即变色龙过程。
+
+---
+
+> [!abstract] 转化（Transformation）
+> 社会、经济和政治语境进一步塑造转译产物，使其发生变形或本土化（indigenisation）。这个阶段回答社会矛盾、经济压力和政治转型如何迫使转译产物进一步变形。转化涵盖从本土化到灭绝（extinction）的连续范围，产物可能与原始转移内容已经有了质的不同（Cowen, 2009, p.255）。
 >
-> - "(b) translation is the shape-shifting of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'"（p.255）
->
-> 转译是教育制度的形变或教育思想的重释，通常伴随空间转移而发生，即变色龙过程。
->
-> - "(c) transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form"（p.255）
->
-> 转化是新语境中社会经济权力的压缩对初始转译产物施加的变形，即一个涵盖本土化和灭绝的变形范围。
+> > [!quote]
+> > "(c) transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form"（p.255）
+> >
+> > 转化是新语境中社会经济权力的压缩对初始转译产物施加的变形，即一个涵盖本土化和灭绝的变形范围。
 
 ---
 
@@ -94,16 +105,6 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> 三个阶段各自的关注重点：
->
-> - **Transfer** 关注跨境行动和传播渠道，思想的出口与入口，以及谁将什么知识带到何处。这一时刻被比喻为太空门时刻（space-gate moment）（Cowen, 2009, p.255）。
-> - **Translation** 关注机构化的重组，外来思想如何被接受国的法律、制度和课程语言重新[[Coding in Qualitative Research|编码]]。这一过程被比喻为变色龙过程（chameleon process），因为外来思想在新语境中会自动改变颜色（Cowen, 2009, p.255）。
-> - **Transformation** 关注不可翻译的语境力量，社会矛盾、经济压力、政治转型等如何迫使转译产物进一步变形，直至与原始输入产生质的差异。转化涵盖从本土化（indigenisation）到灭绝（extinction）的连续范围（Cowen, 2009, p.255）。
-
----
-
-> [!abstract] 3T 与相关概念的关系
->
 > 3T 框架是 Cowen 对 [[Shape-Shifting|形变]]问题的回答。形变描述教育现象在移动中发生的形态变化，3T 将这一变化过程分解为三个可分析的阶段。在此基础上，Cowen 进一步追问，如果完整把握了转移、转译、转化和形变的机制，比较教育就能获得一种 [[Geometries of Insertion|嵌入几何学]]（geometry of insertion），即关于在一处创造的思想和实践如何能够被嵌入另一处的理论。但这种能力的政治和伦理后果仍需反思（Cowen, 2009, pp.287–289）。
 
 ---

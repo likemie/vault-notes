@@ -29,7 +29,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[John Locke]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -183,8 +182,6 @@ updated: 2026-06-06
 
 > [!info] 转化（Transformation）
 > 新语境中社会经济权力的压缩对初始转译产物施加的进一步变形。转化涵盖一个连续的范围，从本土化（indigenisation）到灭绝（extinction）。在这个阶段，转译产物可能被新语境的社会矛盾、经济压力、政治转型进一步塑造，直到与原始输入产生质的差异（p.255）。
-
----
 
 Shibata (2005) 对战后美国占领下德国和日本教育转移的比较，为 3T 框架提供了最有力的实证例证。这是一个政治上极端的转移时刻，即军事占领下的教育改革。同一个转移在两个语境中经历了截然不同的形变路径（p.257）。
 
