@@ -19,13 +19,17 @@ tags:
 related_concepts:
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
+  - "[[Graduate Attributes]]"
+  - "[[Boundary Spanner]]"
+  - "[[School Leadership]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Strong Beginnings Report]]"
   - "[[Australian Education Research Organisation]]"
-  - "[[Education Endowment Foundation]]"
   - "[[Communities in Schools]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
@@ -42,7 +46,7 @@ updated: 2026-06-06
 ## 研究问题
 
 > [!question] 核心关切与政策谜题
-> 2023年澳大利亚联邦政府发布《强劲开端》（Strong Beginnings）报告，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为初始教师教育（Initial Teacher Education, ITE）的必修核心内容。这一改革的深层逻辑是什么？
+> 2023年澳大利亚联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为初始教师教育（Initial Teacher Education, ITE）的必修核心内容。这一改革的深层逻辑是什么？
 >
 > 更具体地说：一场因教师严重短缺而发起的政策审查，为何最终将"问题"界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为"价值中立"的科学知识，从而获得不可质疑的合法性？[[What Works Movement|what works]]运动的话语策略如何服务于[[Australian Education Research Organisation|AERO]]等证据中介组织和[[Communities in Schools|CIS]]等保守智库的私人利益？
 
@@ -63,7 +67,7 @@ updated: 2026-06-06
 > [!info] 分析设计
 > - **方法**：政策文本分析（policy text analysis），运用Bacchi的WPR框架对《强劲开端》报告进行批判性解读
 > - **核心数据来源**：澳大利亚政府（2023）《强劲开端：教师教育专家小组报告》及其附录D（ITE项目核心内容）
-> - **辅助数据来源**：OECD相关政策报告、同行评审文献、AERO公开文件和CIS出版物
+> - **辅助数据来源**：OECD相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和[[Communities in Schools|CIS]]出版物
 > - **分析重点**：优先改革1中"大脑与学习"内容的指定参考文献、核心内容规范，以及政策行动者之间的关联网络
 
 ---
@@ -75,7 +79,7 @@ updated: 2026-06-06
 
 ### 第一步：教师短缺危机中的问题置换
 
-《强劲开端》报告因严重的教师短缺问题而发起，但报告几乎未讨论教师流失的主要原因。2022年毕业生结果调查（Graduate Outcomes Survey）显示，教师教育的整体满意度为75%，就业结果和起薪也表现良好（p.4）。这些数据本身并不支持"教师培训质量低下"的判断。
+《强劲开端》报告因严重的教师短缺问题而发起，但报告几乎未讨论教师流失的主要原因。2022年毕业生结果调查（[[Graduate Attributes|graduate outcomes]] Survey）显示，教师教育的整体满意度为75%，就业结果和起薪也表现良好（p.4）。这些数据本身并不支持"教师培训质量低下"的判断。
 
 然而，报告引用了一项调查数据——32%的受访者认为需要"更好更相关的课程内容"（better and more relevant course content）——作为推动改革的核心证据（p.5）。
 
@@ -124,7 +128,7 @@ AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8
 > AERO明确将自身定位为[[What Works Movement|what works]]运动的一部分。其组织蓝图与英国[[Education Endowment Foundation|EEF]]保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职，AERO被建议以EEF为蓝本建立（p.8）。AERO董事会曾推动更"权威的"（authoritative）政策立场，包括取消ITE项目认证或实施惩罚性资金分配（p.9）。
 
 > [!abstract] 证据中介的权力逻辑
-> 证据中介组织（evidence intermediary organizations）的运作逻辑可以这样理解：它们不直接生产研究，而是筛选、综合和"翻译"研究，决定哪些证据"有效"、哪些"无效"。当这种筛选权与认证权和资金权结合时，证据中介就不再是中性的信息传递者，而成为了政策权力的关键节点。AERO同时掌握证据审查权和政策建议权，形成了"自己出题、自己答题、自己判卷"的闭环。
+> 证据中介组织（evidence [[Boundary Spanner|intermediary]] organizations）的运作逻辑可以这样理解：它们不直接生产研究，而是筛选、综合和"翻译"研究，决定哪些证据"有效"、哪些"无效"。当这种筛选权与认证权和资金权结合时，证据中介就不再是中性的信息传递者，而成为了政策权力的关键节点。AERO同时掌握证据审查权和政策建议权，形成了"自己出题、自己答题、自己判卷"的闭环。
 
 ---
 
@@ -135,7 +139,7 @@ AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8
 认知负荷理论（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和EEF推广，其理论被呈现为ITE教师必须掌握的"科学基础"。这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
 
 > [!example] 政策行动者的多重关联
-> Jennifer Buckingham是CIS的高级研究员，同时担任澳大利亚教学与学校领导力协会（AITSL）的非执行董事。她广泛推广了这些改革，在保守智库和政策制定机构之间架起了直接通道（p.10）。这种多重身份关联揭示了一个关键问题：当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。
+> Jennifer Buckingham是CIS的高级研究员，同时担任澳大利亚教学与[[School Leadership|学校领导力]]协会（AITSL）的非执行董事。她广泛推广了这些改革，在保守智库和政策制定机构之间架起了直接通道（p.10）。这种多重身份关联揭示了一个关键问题：当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。
 
 > [!warning] 私人利益的隐身术
 > 报告将这些参考文献呈现为"科学共识"或"最佳证据"，而非特定意识形态立场的产物。ITE学生在学习这些内容时，很可能不会意识到自己正在接受的是由保守智库策展的知识体系。私人利益在"循证"话语的掩护下完成了隐身。
