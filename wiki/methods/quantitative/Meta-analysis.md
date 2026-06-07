@@ -140,6 +140,8 @@ updated: '2026-05-21'
 > - Qvortrup (2019, p.5) 从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行（von Foerster, 1984），元分析透镜产生的图像与定性[[Observational and Correlational Research|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
 > - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。如果仅通过统计显著性计数或叙事综述来审查一个领域，可能会误判证据的说服力。Cooper 和 Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据（Higgins, 2016, p.32）。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与样本量直接相关的统计显著性（Higgins, 2016, p.32）
 
+---
+
 ## 局限性
 
 > [!warning] 输入质量与纳入标准问题
@@ -165,7 +167,33 @@ updated: '2026-05-21'
 >
 > 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均效应量。[[Gene Glass]]——元分析的创始人——本人警告："元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in Wrigley & McCusker, 2019, p. 119）。
 >
-> Hattie (2015) 对这一问题的回应不是否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问 moderator（调节变量）。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用“反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
+> Hattie (2015) 对这一问题的回应不是否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问调节变量。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用”反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
+
+> [!warning] 可比性问题的具体案例
+> **家庭作业的分类困境**（Higgins, 2016, pp.37–38）
+>
+> 教育中使用的许多一般术语看似明确，实则模糊。以”家庭作业”为例，以下是否都是同一回事？
+> - 五岁儿童带书回家与父母共读
+> - 在家背单词
+> - 在”作业俱乐部”中做作业（实际在学校而非家中）
+> - 为课堂做预习阅读
+> - 为考试背乘法表
+> - 在家完成考试课程作业
+>
+> 如果合并所有这些研究得出”作业有效”，这并不意味着作业总是有效的。它表明当人们试验作业是否有效时，大体答案是肯定的。要做出实践判断，还需要知道包含的是哪类作业研究、学生年龄、频率和规律性等信息。
+>
+> **三种效果量不可混为一谈**（Higgins, 2016, p.44）
+>
+> 干预效果（相对于比较组的改善）应区别于成熟差异（单组设计）。相关效果（如作业与学业表现之间的关系）与干预效果（有作业与无作业的比较）本质不同。这些研究中教育成就的底部分布可能不同，使比较失去意义。
+
+> [!warning] 嵌套数据结构与样本量偏差
+> **聚类效应**（Higgins, 2016, p.40）
+>
+> 学校中学生的嵌套或聚类结构常未被考虑。学生在班级中，班级在学校中，两者都可能影响不同方法的效果。不考虑这一点可能导致效果被高估（Campbell et al., 2012; Raudenbush, 1997）。
+>
+> **样本量与效应量的系统性相关**（Higgins, 2016, p.48）
+>
+> 较大型研究报告较小的效果，样本量与效应量之间的相关系数为 –0.28（Cheung & Slavin, 2015; Slavin & Smith, 2009）。这种变异究竟来自[[Publication Bias|发表偏差]]、试验类型和阶段的影响（试点研究往往报告更高的效应量），还是超级实现偏差（Cronbach et al., 1980）的其他方面，尚不清楚。
 >
 > **源研究选择的纯技术标准**
 >
@@ -279,10 +307,14 @@ updated: '2026-05-21'
 >
 > > "If the answers to all of these questions is 'yes', or at least if the meta-analysis at least examines these issues, for example, by including these issues as moderators of effect, then the meta-analysis may be worth taking seriously. If, however, the answers to any of these questions is no, then it is unlikely that the meta-analysis has much relevance to real educational settings." (Wiliam, 2019, p.11)
 
+---
+
 ## 相关理论
 
 > [!info] 相关理论
 > - [[Critical Realism]] — 为元分析的经验主义假设提供了系统的哲学批判：因果机制而非[[Effect Size|效应量]]平均值才是科学知识的真正对象
+
+---
 
 ## 使用此方法的研究
 
@@ -292,20 +324,24 @@ updated: '2026-05-21'
 > - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
 
+---
+
 ## 替代方案
 
 
 Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），基于理论和相关性而非纯技术标准选择源研究，并以揭示效应变异性的分散图景（而非单一平均值）为输出形式（Wrigley & McCusker, 2019, pp. 119, 123）。
 
+---
+
 ## 来源
 
-- [[Higgins_2016_RE]]
-- [[Simpson_2017_JEP]]
 - [[Terhart_2011_JCS]]
 - [[Berk_2011_ER]]
 - [[Hattie_2015_Paideia]]
 - [[Allerup_2015_Paideia]]
+- [[Higgins_2016_RE]]
 - [[Wecker_2016_ZfE]]
+- [[Simpson_2017_JEP]]
 - [[Qvortrup_2019_NordSTEP]]
 - [[Wiliam_2019_ERE]]
 - [[Wrigley_2019_ERE]]
