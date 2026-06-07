@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
+                "file": "wiki/methods/quantitative/Meta-analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Higgins_2016_RE"
+              "title": "Meta-analysis"
             }
           }
         ]
@@ -191,9 +191,11 @@
   },
   "active": "7f55059d7e98a216",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
+    "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
+    "wiki/methods/quantitative/Meta-meta-analysis.md",
     "wiki/methods/quantitative/Meta-analysis.md",
+    "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
     "wiki/methods/qualitative/Umbrella Review.md",
     "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
     "wiki/concepts/research-methodology/Forest Plot.md",
@@ -221,11 +223,9 @@
     "wiki/facts/hongkong/2009 Hong Kong NSS Curriculum Reform.md",
     "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
     "sources/Sandrone_2025_MEO.md",
-    "sources/Yu_2024_CE.md",
     "sources/Yu_2024_CE.pdf",
     "sources/Sandrone_2025_MEO.pdf",
     "raw/Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees.pdf",
-    "Sandrone_2025_MEO.md",
     "raw/The life and death of Liberal Studies  explaining curriculum change in post-handover Hong Kong.txt"
   ]
 }
