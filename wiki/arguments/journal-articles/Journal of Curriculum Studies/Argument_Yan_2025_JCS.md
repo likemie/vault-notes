@@ -45,145 +45,236 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-05-18
+updated: 2026-06-07
 ---
+
+# Argument_Yan_2025_JCS
+
+---
+
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 1. 通识教育科为何以及如何成为香港高中必修科目？
-> 2. 通识教育科为何在 2021 年被"[[Citizenship and Social Development|公民与社会发展科]]"取代？
+> [!question] 课程变革的政治逻辑
+> [[Liberal Studies|通识教育科]]（LS）是香港高中一门没有学科基础、与高等教育和就业无直接关联的跨学科必修科目。它于 2009 年引入，2021 年被[[Citizenship and Social Development|公民与社会发展科]]（CSD）取代。同一门科目在短短十二年内经历了从创立到废除的完整生命周期，其背后的驱动力是什么？
 >
-> > “为了理解这种课程变革，我们解决两个问题：通识教育（[[Liberal Studies|LS]]）为何以及如何成为一门必修课；以及为什么它在 2021 年被 CSD（公民与社会发展科）所取代？”
-> ("To make sense of this curriculum change, we address two questions: Why and how did [[Liberal Studies|LS]] emerge as a compulsory school subject; and why was it replaced by CSD in 2021?") (p. 480)
->
-> 论文强调将创立与废除两阶段并置分析，此前的研究仅各自关注其一。
+> 此前的研究分别关注 LS 的创立（Deng, 2009）或废除（Vickers & Morris, 2022），但从未将两者并置分析。并置的意义在于：创立阶段与废除阶段的政治气候截然不同，对比两个阶段可以揭示课程变革中哪些因素是持续的、哪些是突变的，以及全球化论述在其中扮演的角色到底是动因还是修辞。
+
+---
 
 ## 理论框架
 
-> [!abstract] 理论框架
-> - [[Cuban's Curriculum Change Theory]] — 作为分析起点。课程变革的三个外部因素：[[Progressive Education|进步教育]]运动、冷战/国防、立法法律决定。论文将此框架扩展到香港语境，检验其解释力与局限
-> - [[World Society Theory]] — 全球学校模式趋同假设。[[Liberal Studies|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
-> - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"[[Externalization|外化]]"改革需求，以全球化论述合法化国内议程
-> - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
-> - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
+> [!abstract] 三层分析框架
+> 论文以 [[Cuban's Curriculum Change Theory|Cuban 课程变革理论]] 为分析起点，辅以 [[World Society Theory|世界文化理论]] 和 [[Policy Borrowing|政策借用]] 框架，并引入 Tröhler（2023）的国家利益驱动论作为废除阶段的核心解释。
 >
-> 论文的方法论立场：来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
+> **Cuban（1992）的三因素模型**。Cuban 在分析美国课程变革史时识别出三个外部驱动力：[[Progressive Education|进步教育]]运动、冷战与国防、立法与法律决定。论文将此框架搬到香港语境中检验，发现三个因素的权重在 LS 的诞生与废除两个阶段发生了戏剧性变化。Cuban 还强调课程变革本质上是政治过程，涉及权力、控制、联盟、讨价还价和妥协（p. 224）。
+>
+> **[[World Society Theory|世界文化理论]]**（Meyer et al., 1997）。该理论主张全球学校模式正在趋同，各国课程日益相似。LS 的诞生表面上支撑了这一假设，因为港府在推行改革时大量引用全球趋势和海外课程模式。但论文认为这些引用是修辞手段而非变革动因。
+>
+> **[[Policy Borrowing|政策借用]]**（Steiner-Khamsi, 2012）。与世界文化理论关注扩散模式不同，政策借用框架聚焦国内政治条件如何催生借用行为，以及决策者如何借用全球话语来合法化国内议程。论文用此框架解释港府为何引用终身学习和知识经济等全球论述。
+>
+> **Tröhler（2023）国家利益驱动论**。课程变革从根本上受国家利益引导。这一视角在废除阶段尤为重要，因为 LS 的废除直接服务于中共的[[Zhonghua Minzu|中华民族]] nation building 项目。
+>
+> 论文的方法论立场来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角，将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
+
+---
 
 ## 研究方法
 
-> [!info] 研究方法
-> - **方法**：[[Historical Document Analysis of Curriculum]] — 对课程文件、政府出版物、媒体报道、既有文献的系统分析
-> - **数据来源**：课程指引、政府政策文件、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》）、地方媒体、学术文献
-> - **分析范围**：官方／意图课程（intended curriculum）层面，不涉及实施或习得课程
-> - **时间跨度**：2009–2021，覆盖 [[Liberal Studies|LS]] 从创立到废除的全周期
+> [!info] 历史文献分析
+> - **方法**：[[Historical Document Analysis of Curriculum|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术文献进行系统分析
+> - **数据来源**：《通识教育科课程及评估指引》（2007）、《公民与社会发展科课程及评估指引》（2021）、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 LS 的学术文献
+> - **分析范围**：限定在"意图课程"（intended curriculum）层面，即国家定义的官方课程，不涉及课堂实施或学生学习成果
+> - **时间跨度**：1997 年回归至 2021 年 CSD 实施，覆盖 LS 从酝酿到废除的全周期
 
-## 核心论证
+---
 
-> [!example] 核心论证
-> ### 前提
+## 论证结构
+
+> [!example] 核心论证逻辑
+> 论文将 LS 的历史分为诞生（2009）与死亡（2021）两个阶段，逐一对比 Cuban 框架中各因素在两个阶段的表现。核心发现是：创立阶段以全球化论述为修辞、以国内问题为实质，公民社会广泛参与；废除阶段以国家安全为旗帜、以直接国家干预为手段，公民社会完全缺席。
+
+### 第一阶段：LS 的诞生（2009）
+
+**学制改革创造课程空间**
+
+香港回归后面临学制与内地不一致的问题。殖民地时期的英式 3+2+2+3 学制（三年初中、两年高中、两年大学预科、三年大学）需要转为与内地对齐的 3+3+4 学制（三年初中、三年高中、四年大学）。旧学制下存在两套大学入学考试，中文大学接受中六毕业生的高等程度会考，香港大学和其他院校则要求中七毕业生的高级程度会考，制度碎片化严重。
+
+2005 年教统局发布《新学制行动计划》，确立 3+3+4 学制，所有学生接受六年中学教育，统一参加香港中学文凭考试（HKDSE）。这一结构改革为 LS 的引入创造了课程空间，LS 被设计为新高中课程的核心必修科（pp. 484–485）。
+
+---
+
+**解决"过剩教师"的实际问题**
+
+学制改革带来了严重的"过剩教师"问题。原来的大学预科选修科目在新学制下被取消或重组，导致一批教授这些科目的教师面临失业风险。这些教师不具备教授语言、数学、科学等高地位学科的资格，其工作保障受到威胁。香港教育专业人员协会（教协）对此高度关注。
+
+LS 的设计恰好可以吸收这批教师。由于 LS 没有单一学科基础、不需要学科专业训练、也没有官方教科书，教育当局决定通过短期工作坊和研讨会培训 LS 教师。LS 的模块化课程结构也允许从被取消的选修科中抽取内容。六个学习单元（个人成长与人际关系、今日香港、现代中国、全球化、公共卫生、能源科技与环境）直接吸收了经济及公共事务、政府与公共行政、社会教育、综合人文、科学与技术等被取消的人文学科的内容。许多原本教授这些选修科的教师通过转教 LS 保留了职位（Yan, 2021, 引自 pp. 485）。
+
+---
+
+**回应教育体制的长期弊病**
+
+LS 也被定位为解决香港教育体制长期痼疾的改革措施。教育委员会多年来在多份报告中反复指出的问题包括：过度学术化、以教师为中心的灌输式教学、过度依赖教科书和死记硬背（Morris & Adamson, 2010, 引自 p. 485）。
+
+LS 的课程设计直接回应了这些批评。《通识教育科课程及评估指引》明确表述了建构主义知识观：
+
+> "Knowledge is contextualised, multi-disciplinary and personally and socially constructed. Learners acquire knowledge through activities such as listening to instruction, reading and modelling. They also construct knowledge through personal reflection and experiential learning, as well as through interaction, collaboration and dialogue with other people."（CDC & HKEAA, 2007, p. 83, emphasis original）
+
+学习目标要求学生能够"present arguments clearly and demonstrate respect for evidence, open-mindedness and tolerance towards the views and values held by other people"（p. 6, point e），以及"identify the values underlying different views and judgements on personal and social issues, and apply critical thinking skills... in making decisions and judgements"（p. 6, point d）。这些设计旨在用议题为本的探究式学习取代传统的教科书依赖和死记硬背（pp. 485–486）。
+
+---
+
+**港府合法性的下降与教育改革的政治功能**
+
+1997 年回归后不久，香港经济即遭受 1998 年亚洲金融风暴重创，这恰好与第一届特区政府任期（1997–2002）重叠。公众对港府的治理能力和领导回归后香港的合法性产生了怀疑。在此背景下，港府将教育改革定位为重建信心的起点。
+
+港府采取了"外部化"策略，将国内教育问题表述为回应全球趋势的必要改革。2000 年《施政报告》写道："The Asian Financial Crisis highlighted the structural weakness in our economy that needed to be corrected. Reforms have been put in place to enhance our competitiveness, to tap the enormous opportunities brought about by globalisation and the knowledge-based economy"（Tung, 2000, p. 5）。2001 年课程发展议会发布的《学会学习》文件同样写道："The world is undergoing unprecedented changes, and Hong Kong is no exception. We are seeing substantial changes in the economic structure and the knowledge-based economy is here to stay"（CDC, 2001, p. 3）。
+
+这种修辞策略的本质是：国内问题被重新包装为对全球趋势的回应，从而赋予改革不可质疑的正当性。正如 Steiner-Khamsi（2012, p. 7）所说，"local problems are sometimes created in line with packaged global solutions, rather than the other way round"（引自 p. 482）。
+
+---
+
+**IBDP 课程参照与国际背书**
+
+LS 的课程设计大量参照了国际文凭大学预科课程（IBDP）。Forestier et al.（2016）识别出三个主要参照领域。第一，LS 的"其他学习经历"与 IBDP 的"创造、行动与服务"（CAS）高度相似，都强调学生对社区的参与。第二，LS 所依据的自由教育和建构主义学习理念，与 IBDP 的"知识理论"（Theory of Knowledge）相似，后者引导学生理解知识的本质并发展批判性思维。第三，LS 的独立专题探究（IES）与 IBDP 的延伸论文（extended essay）相似。IES 被设计为"A self-directed learning experience in which the student takes up the major responsibility for learning... they themselves choose their title, the scope, the methods of their investigative study"（CDC & HKEAA, 2007, pp. 57–58）。
+
+港府还邀请海外学者为 LS 提供国际背书。剑桥大学教育学教授 Mary James 于 2007 至 2009 年担任课程发展议会海外委员。她评价 LS "has been to broaden the knowledge base of all students and enhance their social, national and global awareness as well as developing their ability to examine a wide range of issues from multiple perspectives"（James, 2017, pp. 9–10）。
+
+这些参照和背书的功能并非说明 LS 真的是全球趋同的产物，而是为港府提供了将 LS 包装为"体现全球进步教育趋势"的修辞资源，使其能够以全球化的名义推行本质上是解决国内问题的改革（pp. 486–487）。
+
+---
+
+**公众咨询与多方协商**
+
+LS 的创立过程是一个漫长的协商过程，港府试图通过充分的公众咨询来减少来自关键利益相关者的阻力。2009 年立法会召开了专题会议，讨论 LS 引入的相关问题，包括班级规模、课程的广度与深度、以及评估的公平性与可靠性。会议邀请了教育界各政治光谱的代表：民主派包括香港教育专业人员协会和香港通识教育教师协会，亲中团体包括香港协进会和香港教育工作者联合会，无明显政治倾向的包括家校合作委员会。媒体对讨论进行了广泛报道（p. 481）。
+
+这一过程体现了 Cuban 所说的"bargaining, coalitions, and compromise amongst and between groups"在课程变革中的核心作用。
+
+---
+
+### 第二阶段：LS 的死亡（2021）
+
+**LS 持续被建构为社会运动的成因**
+
+LS 自 2009 年引入以来，一直被本地亲中政治力量质疑为年轻人参与社会运动的原因。2012 年德育及国民教育科争议（Morris & Vickers, 2015）、2014 年雨伞运动（Fung & Su, 2016）、2016 年旺角骚乱（Fung & Liang, 2018）中，LS 都被指为"罪魁祸首"。但这些批评在当时主要来自本地政治力量，尚未形成全国性的协调攻势（p. 488）。
+
+---
+
+**2019 年官媒的协调攻击**
+
+2019 年夏天，形势发生了质变。中国内地官媒对 LS 发起了突然的、明显协调的集中攻击。从 7 月到 9 月，《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》等官方媒体密集发表文章，将 LS 描绘为年轻人参与 2019 年抗议活动的主要原因。
+
+各官媒的攻击角度各有侧重但互相配合。《人民日报》（2019）声称 LS 教科书在"夹带私货"。《北京日报》（2019）将 LS 教科书称为"教唆书"（subversion manuals）。《中国青年报》（2019）称 LS 是"香港问题的病根"（diseased roots）。《光明日报》（2019）宣称 LS "亟须改革"。攻击的核心论点是 LS 没有官方教科书、教学材料缺乏监管，使得"某些势力"得以通过自编教材腐蚀年轻人的心智（pp. 488–489）。
+
+> [!warning] 攻击的叙事结构
+> 官媒构建了一个将 LS 与年轻人社会运动参与和"西方恶意干涉"联系起来的叙事链。具体而言，这一叙事包含三个环节。
 >
-> [[Liberal Studies|香港通识教育科]]是一个没有清晰学科基础、与高等教育和就业无直接关联的学校科目。这使其成为纯粹的政治建构，适合分析课程变革的政治驱动力。
+> 第一，2012 年 MNE 争议导致"国民教育"缺位，LS 因此"只有一条腿走路"，只推动批判性思维却没有"中国坐标"。学生被剥夺了系统了解内地中国的机会。
 >
-> ### 论证结构
+> 第二，政治活动人士被描绘为"西方恶意干涉"的"傀儡"，利用 LS 传播"激进思想"。《中国日报》（2019）批评戴耀廷（Benny Tai）曾在"今日香港"模块教科书中担任顾问，引入了"公民抗命"和"非制度化社会政治参与"的概念，声称这些概念向学生传递了可以非法抗议的错误信息。
 >
-> 论文分两阶段展开对比论证：
->
-> **第一阶段：诞生（2009）**
-> 1. 学制改革（英式 3+2+2+3 → 内地 3+3+4）创造了课程空间
-> 2. 处理"过剩教师"问题 —— 教协关注的核心议题，LS 无需学科专业背景
-> 3. 回应香港教育长期弊病（应试导向、教师中心、教科书依赖）
-> 4. 1998 年亚洲金融风暴后港府合法性下降，教育改革被定位为重建信心的起点
-> 5. 以"终身学习""[[Knowledge-Based Economy|知识经济]]"等全球化论述[[Externalization|外化]]改革需求
-> 6. 参照 IBDP 的课程结构（知识理论 → 批判思维、延伸论文 → IES、CAS → 其他学习经历）
-> 7. 聘请海外学者（剑桥 Mary James）背书
-> 8. 长期的公众咨询与持份者协商 —— 立法会、教协、亲中团体均参与
->
-> **第二阶段：死亡（2021）**
-> 1. LS 自引入后持续被亲中政治力量质疑为年轻人参与社运的原因
-> 2. 2019 年 7-9 月：中国官媒集中攻击 LS（"教唆书""颠覆手册""病根"）
-> 3. 官媒构建"国家安全危机"叙事，将 LS 描绘为"西方干涉"渠道
-> 4. 2020 年 6 月 《[[National Security Law|香港国安法]]》颁布，提供了法律基础
-> 5. 尽管 2020 年 9 月课程检讨报告建议保留 LS，港府直接宣布废除
-> 6. 废除过程无公众咨询、无持份者协商 — 教协已被关闭，批评媒体被压制
-> 7. 替换为 [[Citizenship and Social Development|CSD]]，核心目标转向爱国主义和国家认同
->
-> ### 结论
->
-> LS 的诞生和死亡都深植于香港的政治变迁，但运作逻辑截然不同：
->
-> > “LS（通识教育）的出现与回归后教育体系的重组、对教育改革的追求相关，并受到参考全球趋势和海外模式过程的推动。它的消亡是 2020 年引入国家安全法后，国家直接干预的结果。”
-> ("The emergence of LS was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models. Its demise was the result of direct state intervention following the introduction of the National Security Law in 2020.") (p. 480)
+> 第三，由此生成一种"危机感"，即香港正在被" destabilised"，2019 年抗议是"国家安全"问题，需要中央政府直接介入（p. 489）。
+
+---
+
+**"一国两制"解释框架的转变**
+
+官媒攻击的同时伴随着对"一国两制"原则的重新诠释。此前的主流解释强调"港人治港"和"高度自治"。但《中国青年报》（2019）明确表示：
+
+> "'一国两制'是指在一个国家内容忍两种制度。关键政策不容争辩。前提是'一国'。由此可见，推行国民教育......是基本要求。历史告诉我们，现代国家的复兴必须控制教育事务，同时对其物理边界行使主权。"
+
+这一引述将"一国"重新定位为"两制"的前提和基础，而非此前强调的香港独特性。它揭示了中共通过教育统一国家认同的意图，暗示对香港学校课程的小幅调整已不足够，LS 需要被一门与国民教育对齐的科目取代（p. 489）。
+
+---
+
+**教科书审查与政治施压**
+
+官媒攻击促使港府采取行动。2019 年 12 月，教育局宣布对 LS 教科书进行一次性的"专业咨询服务"，组建由学者、政府人员和前线教师组成的审查小组，移除官媒认为有争议和敏感的内容。
+
+LS 的"教科书"与传统学校科目的教科书有本质区别。LS 课程鼓励教师发挥专业自主性，使用报纸、专题文章和新闻文件作为教学材料。这意味着 LS 没有官方教科书。本地出版商可以依据课程指引编制 LS "教科书"作为补充材料，但这些"教科书"豁免于教育局的教科书评审制度。这一设计原本是 LS 课程灵活性的核心特征，在 2019 年后却被重新定义为"漏洞"。
+
+2020 年教科书审查完成后，亲中政治人物对 LS 发起了第二波批评。特首林郑月娥在接受《大公报》采访时表示，香港教育不能再是"不设防的鸡笼"，她将在年内对 LS 进行"管理"。前特首、时任全国政协副主席董建华声称，LS 在其任内引入是"失败"，LS 已经"偏离"了其原始目的（pp. 489–490）。
+
+---
+
+**课程检讨报告被直接绕过**
+
+2017 年港府委托成立的课程检讨专责小组于 2020 年 9 月发布了最终报告。报告建议 LS 保留为必修科，仅对课程内容进行小幅调整。这一建议与此前媒体关于 LS 将被废除的猜测相反。
+
+然而，港府直接无视了专责小组的建议。2020 年 11 月，港府突然宣布取消 LS，从 2021/22 学年起生效。2021 年 2 月，教育局确认 LS 将被 CSD 取代。这一时序揭示了一个关键事实：LS 的废除并非教育专业评估的结果，而是"国家安全"政治逻辑对教育逻辑的直接替代。当政治意志确定后，教育检讨的程序和结论可以在一夜之间被绕过（pp. 489–490）。
+
+---
+
+**无协商的直接废除**
+
+CSD 的建立过程与 LS 的创立过程形成了鲜明对比。LS 从 2004 年酝酿到 2009 年实施，历时五年，经历了公众咨询、立法会讨论和多轮修订。CSD 从 2020 年 11 月宣布到 2021 年 9 月实施，仅十个月，期间无任何公众咨询。教协已被关闭，批评性媒体被压制，Cuban 框架中"讨价还价、联盟和妥协"的因素完全消失。
+
+CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个主题取代："一国两制下的香港"、"改革开放以来的国家"、"当代世界的互联与相互依存"。独立专题探究（IES）被内地考察团取代。教科书被纳入教育局的评审制度。评估方式从分级考试降级为仅"通过/不通过"（pp. 490）。
+
+---
+
+### 综合对比：Cuban 框架中各因素的权重变化
+
+| Cuban 因素 | LS 创立阶段（2009） | LS 废除阶段（2021） |
+|---|---|---|
+| **进步教育运动** | 核心角色。建构主义、议题为本探究、批判性思维是课程设计的理论基础 | 完全消失。CSD 不再以进步教育为设计原则 |
+| **冷战/国防** | 不适用。当时无直接的国家安全叙事 | 核心角色。2019 年抗议被定性为"国家安全"威胁，"新冷战"框架取代了旧冷战 |
+| **立法/法律决定** | 长期协商后立法。公众咨询、立法会讨论、多方参与 | 直接行政命令。《国安法》颁布后十个月内完成废除与替换，无公众咨询 |
+| **公民社会参与** | 广泛参与。教协、教师专业团体、媒体、立法会各派均参与讨论 | 完全缺席。教协被关闭，媒体被压制，专责小组建议被无视 |
+| **外部参照** | 大量引用。IBDP、全球趋势、海外学者背书 | 不适用。废除不以全球参照为理由，而以国家安全为旗帜 |
+| **全球化论述** | 核心修辞。终身学习、知识经济被用作改革的合法化话语 | 被替换为国家主义论述。"国家安全"和"中华民族伟大复兴"成为新的合法化话语 |
+
+---
 
 ## 主要发现
 
-> [!success] 主要发现
-> 1. **全球化论述的工具性使用**：如果仅关注 [[Liberal Studies|LS]] 诞生，似乎验证了[[World Society Theory|世界文化理论]]的趋同假设。但研究发现港府引用全球论述是为了"[[Externalization|外化]]"国内问题——这更符合[[Policy Borrowing|政策借用]]逻辑。（p. 491）
+> [!success] 核心发现
+> 1. **全球化论述的工具性使用**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory|世界文化理论]] 的趋同假设。但研究发现港府引用全球论述是为了"外部化"国内问题，这更符合 [[Policy Borrowing|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因（p. 491）。
 >
-> 2. **内外部因素的角色逆转**：诞生期是公民社会（教协、媒体、立法会多方协商）推动；废除期是直接的国家干预，内部利益相关者完全缺席。这与 Cuban 对美国情境的分析形成对比。（p. 481）
+> 2. **Cuban 框架中各因素的权重发生了戏剧性变化**。创立阶段，进步教育运动和立法协商是核心；废除阶段，"冷战/国防"以"新冷战"和"国家安全"的形式回归，成为压倒其他所有因素的决定性力量（pp. 488–489）。
 >
-> 3. **"[[One Country, Two Systems|一国两制]]"解释的转变**：从强调"港人治港、高度自治"转向强调"一国"是"两制"的前提。教育成为统一国家认同的强制性工具。（p. 489）
+> 3. **公民社会参与的消失**。创立期是公民社会（教协、媒体、立法会多方协商）推动的政策过程；废除期是直接的国家干预，内部利益相关者完全缺席。这与 Cuban 对美国情境的分析形成对比，在美国，教师工会、家长和学生始终是课程变革中的活跃力量（p. 481）。
 >
-> 4. **国家安全作为课程变革的新动因**：Cuban 提出的"冷战/国防"因素在当代香港以"新冷战"和"国家安全"的形式重现，成为压倒其他所有课程因素的决定性力量。（p. 488-489）
+> 4. **"一国两制"解释框架的转变**。从强调"港人治港、高度自治"转向强调"一国"是"两制"的前提。教育从服务本地需要转变为统一国家认同的强制性工具（p. 489）。
 >
-> 5. **边疆地区的平行逻辑**：论文将香港与内蒙古（Bulag, 2024）、新疆（Tobin, 2024）、西藏（Leibold & Dorjee, 2024）并置，指出中共在边疆地区通过教育推行统一的"[[Zhonghua Minzu|中华民族]]"认同，消除地方文化特殊性。（p. 490）
+> 5. **边疆地区的平行逻辑**。论文将香港与内蒙古（Bulag, 2024）、新疆（Tobin, 2024）、西藏（Leibold & Dorjee, 2024）并置，揭示中共在边疆地区通过教育推行统一的"中华民族"认同、消除地方文化特殊性的共同模式。这些地区的教育政策都服务于 Xi Jinping 的 nation building 项目（pp. 490–491）。
+
+> [!info] 关键数据
+> - LS 从引入（2009）到废除（2021）历时 12 年
+> - LS 创立的公众咨询与协商过程历时约 5 年（2004–2009）
+> - CSD 从宣布到实施仅 10 个月（2020 年 11 月 → 2021 年 9 月），期间无公众咨询
+> - 2019 年 7–9 月间，五家中国内地官媒集中发表了攻击 LS 的系列文章
+> - 2020 年 9 月课程检讨报告建议保留 LS，两个月后港府直接宣布废除
+
+---
 
 ## 关键引用
 
-> [!quote] 关键引用
-> > “所有预期的课程变革，其核心都是政治性的。”
-> ("All intended curriculum changes are at their core political.") — Cuban (1992, p. 224)，被论文引用为分析出发点 (p. 480)
->
-> > “有时，本地问题是根据打包好的全球解决方案而被创造出来的，而不是相反。”
-> ("Local problems are sometimes created in line with packaged global solutions, rather than the other way round.") — Steiner-Khamsi (2012, p. 7)，论文以此解释 [[Liberal Studies|LS]] 创立中全球化论述的角色 (p. 482)
->
-> > “将一个充斥着阶级、居住地、文化和种族深刻分歧的社会维系在一起的重任，很大程度上落在了学校教育和宣传上，并辅以压制性的暴力。”
-> ("The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence.") — Vickers & Morris (2022, p. 47)，为废除阶段提供解释框架 (p. 482-483)
->
-> > “如果有意要‘扼杀’通识科（LS），直接废除该科目会更直截了当。”
-> ("If there were an intention to 'kill' LS, it would be more straightforward to abolish the subject.") — 教育局新闻稿 (EDB, 2021b)，论文将其作为官方修辞策略的证据 (p. 489)
+> [!quote] Cuban 论课程变革的政治性
+> "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools."（Cuban, 1992, p. 224, 引自 p. 480）
 
-## 局限性与批评
+> [!quote] Steiner-Khamsi 论全球论述的工具性
+> "Local problems are sometimes created in line with packaged global solutions, rather than the other way round."（Steiner-Khamsi, 2012, p. 7, 引自 p. 482）
 
-> [!warning] 局限性与批评
-> ### 官方课程层面：意图课程 vs. 实施课程
->
-> **批评内容**：Yan & Morris (2025) 明确将分析限定在"意图课程"（intended curriculum）层面——课程指引、政府政策文件、官方论述——未涉及 [[Liberal Studies|LS]] 在课堂中的实际实施（implemented curriculum）和学生实际学习成果（attained curriculum）。
->
-> **影响**：
-> - 论文揭示的是政策制定层面的政治动力和修辞策略，而非 LS 在 400+ 所香港中学的实际教学效果
-> - 一个重要的未回答问题：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？或者说，LS 的"批判性"是否更多存在于政策文本中？
-> - [[Citizenship and Social Development|CSD]] 自 2021 年实施以来的课堂实践仍是一片研究空白——"pass/fail"评估在课堂中产生了什么实际教学行为？
->
-> **目前状态**：此局限为后续研究提供了明确方向——需要课堂观察、教师访谈和学生成果分析来补充政策层面的发现。但在《国安法》框架下，此类研究的数据获取面临显著障碍。
->
-> ### 媒体来源偏向：官方叙事主导废除阶段的分析
->
-> **批评内容**：论文对 LS 废除阶段的分析主要依赖中国内地官媒（《人民日报》、《北京日报》、《中国青年报》、《光明日报》）和亲中政治人物的言论。支持 LS 一方的系统性声音——教师工会（教协已于 2021 年解散）、学生组织、独立媒体——在废除阶段的分析中相对缺失。
->
-> **Yan & Morris 的隐性回应**：这一"偏向"本身反映了该时期香港言论空间的急剧收窄。论文指出，"2012 年中学生可以发动占领政府总部和绝食抗议来反对 MNE，但 2020 年后同一空间已不复存在"（pp. 491–492）。支持 LS 一方的声音缺失不是论文的选择性偏见，而是《国安法》下公民社会空间消失的经验事实。
->
-> **目前状态**：此局限既是方法论问题（如何分析被压制的声音？），也是政治现实问题（在研究条件下如何获取这些声音？）。Arnot & Reay (2007) 的"课程的社会学"可能提供分析被压制的替代话语的方法论资源。
->
-> ### 边疆比较的深度有限
->
-> **批评内容**：论文将香港与内蒙古（Bulag, 2024）、新疆（Tobin, 2024）、西藏（Leibold & Dorjee, 2024）并置，论证中共在边疆地区推行统一的"[[Zhonghua Minzu|中华民族]]"认同——但这一比较仅为框架性并置（pp. 489–490），未进行深入的比较案例分析。
->
-> **未展开的关键问题**：
-> - 香港作为"[[One Country, Two Systems|一国两制]]"下的特别行政区，与新疆、西藏在行政结构和法律框架上存在根本差异——"华化"（[[Sinicisation]]）的实施机制是否也因此不同？
-> - 论文提到的"香港的华化被更谨慎地执行"（p. 490）是重要洞察，但未展开比较分析——谨慎到什么程度？以什么方式谨慎？与新疆的"普通话化"（Tobin, 2024）有何机制差异？
->
-> **目前状态**：此方向为未来跨国比较研究提供了明确路径。但 Yuen (2024) 指出此类比较在中国大陆内部被视为政治敏感，可能限制后续研究的可能性。
->
-> ### 未充分探讨教师能动性
->
-> **批评内容**：论文将 LS 的分析聚焦于政策制定者和政治力量的博弈，教师群体仅在"内部利益相关者"框架下被短暂提及（教协在创立阶段的参与、在废除阶段的被关闭）。教师在 LS 实施中的实际教学实践——他们如何解读和转化官方课程？是否在课堂中进行了"隐性抵抗"或"创造性调整"？——以及废除后的适应策略，未被纳入分析。
->
-> **重要性**：
-> - Ball et al. (2012) 的"政策制定"（policy enactment）框架指出，教师在政策实施中不是被动的执行者，而是积极的解释者和转化者
-> - LS 的教学高度依赖教师的课程设计和材料选择——教师能动性在 LS 中可能比在传统科目中更大
-> - CSD 取代 LS 后，原 LS 教师的适应策略（接受再培训？调整教学内容？离开教职？）是一个重要但未研究的问题
->
-> **目前状态**：此局限为后续研究提供了明确的扩展方向——需要在 Yan & Morris 的政策层面分析基础上，补充教师层面的实施研究。但在香港当前政治条件下，此类研究的可行性和[[Research Ethics|研究伦理]]均面临挑战。
+> [!quote] Vickers & Morris 论教育作为国家控制工具
+> "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence. Far from taking shared identity for granted, schools incessantly preach the imperative of absolute loyalty to the Communist Party regime as the sole legitimate representative of the Chinese nation."（Vickers & Morris, 2022, p. 47, 引自 pp. 482–483）
+
+> [!quote] 教育局的修辞策略
+> "If there were an intention to 'kill' LS, it would be more straightforward to abolish the subject. The purpose of revising the LS curriculum and renaming the subject is to rectify the problem of deviations in teaching and put the subject back on the right track."（EDB, 2021b, 引自 p. 489）
+
+---
+
+## 自述局限
+
+> [!warning] 意图课程的分析边界
+> 论文明确将分析限定在"意图课程"层面，即课程指引、政府政策文件和官方论述，不涉及 LS 在 400 多所香港中学的实际课堂教学和学生学习成果。一个未回答的关键问题是：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？CSD 自 2021 年实施以来的课堂实践同样是一片研究空白（pp. 490–491）。
+
+> [!warning] 媒体来源的结构性偏向
+> 论文对废除阶段的分析主要依赖中国内地官媒和亲中政治人物的言论。支持 LS 一方的系统性声音（教协、学生组织、独立媒体）在分析中相对缺失。但论文隐含地回应了这一问题：声音的缺失不是研究者的选择性偏见，而是《国安法》下公民社会空间消失的经验事实（pp. 491–492）。
+
+> [!warning] 边疆比较的深度有限
+> 论文将香港与内蒙古、新疆、西藏并置，论证中共在边疆地区推行统一认同的共同模式，但这一比较仅为框架性并置，未进行深入的比较案例分析。香港作为"一国两制"下的特别行政区，与新疆、西藏在行政结构和法律框架上存在根本差异，"华化"的实施机制是否也因此不同，未被展开讨论（pp. 490–491）。
+
+---
 
 ## 来源
 
