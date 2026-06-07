@@ -85,7 +85,7 @@ Bächle（2016, p.188）用身份证（identity document）的类比来说明数
 
 - 数字自我的建构使得先发制人的分类和标签化成为可能——例如"即将失败的学生"（soon-to-be-failing-student）标签——在问题实际发生之前就以推定和风险来标记个体（Bächle, 2016, p.188）
 - 这种操作支持着[[Societies of Control|控制社会]]的构成性特征——数据监控（dataveillance）——通过持续的追踪和分类来实现永不停息的调制
-- Deleuze 关于主体化通过调制实现的论断在此得到体现：学习平台和 [[Online Self-Assessment|OSA]] 收集并自动分析学生的兴趣、期望、动机和认知技能数据，将它们组装成特定的"画像"（picture）——这就是调制在主体层面的运作（Thompson et al., 2022, p.226）
+- Deleuze 关于主体化通过调制实现的论断在此得到体现：学习平台和 [[Online Self-Assessment|OSA]] 收集并自动分析学生的兴趣、期望、动机和认知技能数据，将它们[[Assemblage|组装]]成特定的"画像"（picture）——这就是调制在主体层面的运作（Thompson et al., 2022, p.226）
 
 ## 争议与批评
 

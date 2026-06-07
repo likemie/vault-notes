@@ -104,7 +104,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > ### 论文自身承认的局限（Gorur, 2014, p.5）
-> - 论文的叙事是"拼凑物"（assemblage），主要依赖于 Bottani 的出版物——这意味着 story 经过了 Bottani 视角的过滤
+> - 论文的叙事是"拼凑物"（[[Assemblage]]），主要依赖于 Bottani 的出版物——这意味着 story 经过了 Bottani 视角的过滤
 > - 原始数据来源有限：主要依赖已出版物和一次 OECD 官员访谈
 > - 故事"缩写"（abbreviated history）——许多细节可能被省略
 >

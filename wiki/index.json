@@ -311,6 +311,15 @@
     ]
   },
   {
+    "title": "Assemblage",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Assemblage.md",
+    "aliases": [
+      "组装",
+      "assemblage"
+    ]
+  },
+  {
     "title": "Circular Transfer",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Circular Transfer.md",
@@ -409,7 +418,8 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Government to Governance Shift.md",
     "aliases": [
-      "从政府到治理的转变",
+      "从统治到治理的转变",
+      "从管理到治理",
       "government to governance",
       "shift from government to governance"
     ]
