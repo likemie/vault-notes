@@ -7,6 +7,7 @@ extracted_to:
   - "[[Multi-University]]"
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
   - "[[APLU Innovation and Economic Prosperity Program]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[California Master Plan for Higher Education]]"
@@ -18,7 +19,6 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

@@ -12,13 +12,13 @@ tags:
   - paradigm/neoliberalism
   - critique/curriculum
 related_concepts:
-  - "[[Curriculum Design Coherence Model]]"
   - "[[Powerful Knowledge]]"
   - "[[Educated Identity]]"
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-related_theories: []
+related_theories:
+  - "[[Curriculum Design Coherence Model]]"
 related_methods: []
 related_persons: []
 related_facts:

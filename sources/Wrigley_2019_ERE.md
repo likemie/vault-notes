@@ -5,18 +5,18 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Playing for Success]]"
   - "[[ResearchED]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Gert Biesta]]"
   - "[[Adrian Simpson]]"
   - "[[Gary Thomas]]"
   - "[[Ray Pawson]]"
   - "[[Roy Bhaskar]]"
   - "[[Sean McCusker]]"
-  - "[[Critical Realism]]"
-  - "[[Gert Biesta]]"
   - "[[Terry Wrigley]]"
-  - "[[Playing for Success]]"
+  - "[[Critical Realism]]"
 processed_date: 2026-05-01
 ---
 

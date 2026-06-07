@@ -10,14 +10,12 @@ tags:
   - theory/actor-network-theory
   - theme/comparative-education
 related_concepts:
-  - "[[Actor-Network Theory]]"
-  - "[[Relational Space]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Global-Local Binary]]"
-related_theories: []
+  - "[[Relational Space]]"
+related_theories:
+  - "[[Actor-Network Theory]]"
 related_methods: []
-related_persons:
-  - "[[Bruno Latour]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -35,7 +33,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 组装（Assemblage）是[[Actor-Network Theory|行动者网络理论]]的[[Big Ideas|核心概念]]，指人类和非人类行动者通过[[Transfer Translation Transformation|转译]]过程聚合形成的网络。组装具有一定的稳定性，但也有缺口，总是受到行动者（人类和非人类）如何被聚合的变化的影响（Fenwick & Edwards, 2010, 引自 Beech & Artopoulos, 2015）。
+> 组装（Assemblage）是[[Actor-Network Theory|行动者网络理论]]的核心概念，指人类和非人类行动者通过[[Transfer Translation Transformation|转译]]过程聚合形成的网络。组装具有一定的稳定性，但也有缺口，总是受到行动者（人类和非人类）如何被聚合的变化的影响（Fenwick & Edwards, 2010, 引自 Beech & Artopoulos, 2015）。
 
 ---
 
@@ -56,7 +54,7 @@ updated: 2026-06-07
 ## 概念辨析
 
 > [!example]
-> - vs [[Actor-Network Theory|行动者网络理论]] — ANT 是更广泛的理论框架，组装是 ANT 中描述网络形态的[[Big Ideas|核心概念]]。
+> - vs [[Actor-Network Theory|行动者网络理论]] — ANT 是更广泛的理论框架，组装是 ANT 中描述网络形态的核心概念。
 > - vs [[Transfer Translation Transformation|转译]] — 转译是行动者加入网络的过程，组装是转译的结果。
 > - vs [[Relational Space|关系性空间]] — 关系性空间概念强调空间是关系的效果。组装是这些关系的具体形态。
 

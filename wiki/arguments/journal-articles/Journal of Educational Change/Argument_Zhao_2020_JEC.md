@@ -21,7 +21,8 @@ related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
   - "[[Rasch Measurement]]"
-related_persons: []
+related_persons:
+  - "[[Yong Zhao]]"
 related_facts:
   - "[[PISA]]"
   - "[[Baby PISA]]"

@@ -12,6 +12,7 @@ tags:
   - theory/actor-network-theory
 related_concepts:
   - "[[Posthumanism]]"
+  - "[[Assemblage]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []

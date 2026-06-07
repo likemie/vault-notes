@@ -60,7 +60,6 @@ related_concepts:
   - "[[Theoretical End Point]]"
   - "[[Naturalistic Generalization]]"
   - "[[Self-control]]"
-  - "[[Mentorship Recognition]]"
   - "[[Narrative Thought Types]]"
   - "[[Self-Efficacy]]"
   - "[[Alternative Hypothesis]]"

@@ -13,14 +13,13 @@ tags:
   - level/higher-ed
   - region/china
 related_concepts:
-  - "[[Big Ideas]]"
-  - "[[Curriculum Design Coherence Model]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Western Learner]]"
   - "[[Problem-Based Learning]]"
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
 related_theories:
+  - "[[Curriculum Design Coherence Model]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
@@ -48,7 +47,7 @@ updated: '2026-06-06'
 ## 定义
 
 > [!info]
-> 表层学习（surface learning）与深层学习（deep learning）是教育研究中区分学习质量的两个[[Big Ideas|核心概念]]。表层学习涉及知晓事实、想法和内容，深层学习涉及知晓想法之间的关系和连接、并将这些想法扩展到其他情境（[[John Hattie|Hattie]], 2015, p.80）。表层学习是实现深层学习的必要第一步（Hattie, 2015, p.84）。
+> 表层学习（surface learning）与深层学习（deep learning）是教育研究中区分学习质量的两个核心概念。表层学习涉及知晓事实、想法和内容，深层学习涉及知晓想法之间的关系和连接、并将这些想法扩展到其他情境（[[John Hattie|Hattie]], 2015, p.80）。表层学习是实现深层学习的必要第一步（Hattie, 2015, p.84）。
 >
 > 在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，深层学习被定义为看到学科认识论部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括（McPhail et al., 2023）。
 

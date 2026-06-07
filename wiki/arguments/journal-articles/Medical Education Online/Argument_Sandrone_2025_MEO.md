@@ -16,10 +16,9 @@ tags:
 related_concepts:
   - "[[Mentorship]]"
   - "[[Mentorship Recognition]]"
-  - "[[Cumulative Advantage]]"
+  - "[[Research Topic]]"
 related_theories: []
-related_methods:
-  - "[[Content Analysis]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -39,7 +38,7 @@ updated: 2026-06-07
 ## 研究问题
 
 > [!question]
-> [[Mentorship|导师制]]是科学和医学中的[[Big Ideas|核心概念]]，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」（Anderson & Shannon, 1988）。导师制是科学家最重要的合作关系之一，导师在启动被指导者的累积优势过程中起着关键作用。
+> [[Mentorship|导师制]]是科学和医学中的核心概念，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」（Anderson & Shannon, 1988）。导师制是科学家最重要的合作关系之一，导师在启动被指导者的累积优势过程中起着关键作用。
 >
 > [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]是世界上最令人向往的科学奖项之一。获奖者受邀到斯德哥尔摩发表诺贝尔演讲，通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事。
 >

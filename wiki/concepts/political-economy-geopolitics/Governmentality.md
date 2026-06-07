@@ -20,6 +20,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Assemblage]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
   - "[[Self-Entrepreneur]]"

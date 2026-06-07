@@ -5,7 +5,7 @@ aliases:
   - regulative discourse
   - instructional discourse
   - 规约性话语
-summary: 伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
+summary: "伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中"
 type: concept
 tags:
   - theme/curriculum
@@ -13,12 +13,18 @@ tags:
   - sociology-of-education
 related_concepts:
   - "[[Recontextualization]]"
-  - "[[Curriculum Design Coherence Model]]"
   - "[[Champ]]"
-related_theories: []
+  - "[[Mātauranga Māori]]"
+  - "[[Causality]]"
+  - "[[Global Citizenship]]"
+  - "[[Epistemic Ascent]]"
+related_theories:
+  - "[[Curriculum Design Coherence Model]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Basil Bernstein]]"
+related_facts:
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
@@ -35,7 +41,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 规约性话语和教学性话语是 伯恩斯坦 (2000) 识别的课程构建的两个机制或原则。规约性话语是道德话语，创造秩序、关系和身份。教学性话语包含所选知识，通过选择、顺序、节奏和评估来组织。教学性话语嵌入更强的规约性话语之中（Bernstein, 2000, p.32, 引自 McPhail et al., 2023）。
+> 规约性话语和教学性话语是 [[Basil Bernstein|伯恩斯坦]] (2000) 识别的课程构建的两个机制或原则。规约性话语是道德话语，创造秩序、关系和身份。教学性话语包含所选知识，通过选择、顺序、节奏和评估来组织。教学性话语嵌入更强的规约性话语之中（Bernstein, 2000, p.32, 引自 McPhail et al., 2023）。
 
 > [!quote]
 > "An instructional discourse comprises the selected knowledge, its organization through selection, sequence, pacing, and evaluation. The instructional discourse is embedded in a stronger regulative discourse, 'the moral discourse which creates order, relations and identity'."（Bernstein, 2000, p.32, 引自 McPhail et al., 2023）
@@ -64,13 +70,13 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example] [[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中的规约性话语
-> McPhail et al. (2023) 分析发现，[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的规约性话语主要通过三种再脉络化原则运作：
+> McPhail et al. (2023) 分析发现，[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的规约性话语主要通过三种[[Recontextualization|再脉络化]]原则运作：
 >
 > - **双文化主义**。[[Mātauranga Māori|毛利知识体系]]贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力。课程文件声称要落实怀唐伊条约的承诺，给予毛利知识体系和毛利语言突出地位。Siteine (2018) 理论化了一个强烈的身份指令，认为学业成就与民族身份认可之间存在[[Causality|因果关系]]，这一指令在课程改革中进一步强化。
 > - **地方化**。强调「与当地社区共同设计和审查学校课程」，通过「与当地人民和社区的关系来学习」。让学校与社区之间的边界更具渗透性，作为规约性理想可以产生积极成果，但如果地方化原则影响了课程内容的大部分，凌驾于教学理想之上，就可能产生张力。
-> - **道德原则**。义务论伦理指导课程内容的选择（如所有学习者有权通过高质量学习体验获得归属和繁荣），美德伦理则描绘了理想学生的画像（如学习者成长为有所贡献的本地和全球公民）。
+> - **道德原则**。义务论伦理指导课程内容的选择（如所有学习者有权通过高质量学习体验获得归属和繁荣），美德伦理则描绘了理想学生的画像（如学习者成长为有所贡献的本地和[[Global Citizenship|全球公民]]）。
 >
-> 这三种原则之间存在潜在的本体论和认识论张力。规约性话语优先于教学性话语，学科概念知识和认识论上升在规约性话语中缺席。
+> 这三种原则之间存在潜在的本体论和认识论张力。规约性话语优先于教学性话语，学科概念知识和[[Epistemic Ascent|认识论上升]]在规约性话语中缺席。
 
 ---
 

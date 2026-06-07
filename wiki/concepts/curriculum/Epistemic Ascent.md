@@ -12,14 +12,16 @@ tags:
   - epistemology
   - theory/social-realism
 related_concepts:
-  - "[[Curriculum Design Coherence Model]]"
   - "[[Big Ideas]]"
   - "[[Surface and Deep Learning]]"
   - "[[Knowledge-that and Know-how-to]]"
-related_theories: []
+  - "[[Regulative and Instructional Discourse]]"
+related_theories:
+  - "[[Curriculum Design Coherence Model]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
@@ -62,7 +64,7 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example] [[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中的认识论上升
-> McPhail et al. (2023) 指出，[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]在认识论上升方面有了更明确的承认，新的进度成果也增加了概念标记。然而，规约性话语优先于教学性话语，学科概念知识和认识论上升在规约性话语中缺席。UKD 结构在认识论上是混乱的，大概念往往是宽泛的元陈述，没有与学科的认识论结构充分对接，无法为连贯的课程设计提供清晰的概念标记。
+> McPhail et al. (2023) 指出，[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]在认识论上升方面有了更明确的承认，新的进度成果也增加了概念标记。然而，[[Regulative and Instructional Discourse|规约性话语]]优先于教学性话语，学科概念知识和认识论上升在规约性话语中缺席。UKD 结构在认识论上是混乱的，[[Big Ideas|大概念]]往往是宽泛的元陈述，没有与学科的认识论结构充分对接，无法为连贯的课程设计提供清晰的概念标记。
 
 ---
 

@@ -16,31 +16,32 @@ tags:
   - theory/social-realism
   - critique/curriculum
 related_concepts:
-  - "[[Outcomes-based Education]]"
   - "[[Surface and Deep Learning]]"
   - "[[Social Realism]]"
   - "[[Recontextualization]]"
+  - "[[Regulative and Instructional Discourse]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Outcomes-based Education]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Postpositivism]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Powerful Knowledge]]"
   - "[[Mātauranga Māori]]"
   - "[[Causality]]"
   - "[[Global Citizenship]]"
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
-  - "[[Regulative and Instructional Discourse]]"
-  - "[[Powerful Knowledge]]"
-  - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
-  - "[[Lev Vygotsky]]"
   - "[[Basil Bernstein]]"
+  - "[[Lev Vygotsky]]"
+  - "[[Gilbert Ryle]]"
   - "[[Michael Young]]"
   - "[[Johan Muller]]"
-  - "[[Gilbert Ryle]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[The New Zealand Curriculum]]"
@@ -85,7 +86,7 @@ updated: 2026-06-06
 ---
 
 > [!info] [[Basil Bernstein|伯恩斯坦]]的知识结构与再脉络化
-> [[Basil Bernstein|伯恩斯坦]]区分了[[Regulative and Instructional Discourse|规约性话语和教学性话语]]。规约性话语是创造秩序、关系和身份的道德话语，教学性话语包含所选知识及其组织。教学性话语嵌入更强的规约性话语之中，这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场。
+> [[Basil Bernstein|伯恩斯坦]]区分了[[Regulative and Instructional Discourse|规约性话语]]和教学性话语。规约性话语是创造秩序、关系和身份的道德话语，教学性话语包含所选知识及其组织。教学性话语嵌入更强的规约性话语之中，这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场。
 >
 > 再脉络化是知识从生产场所（如大学）到课程和学校的转化过程。在这个过程中，原始意义可能被误解或改变，也可能受到意识形态的影响。
 
@@ -128,7 +129,7 @@ updated: 2026-06-06
 ## 论证结构
 
 > [!example]
-> 从课程改革的背景出发，经由规约性话语分析和知识结构分析，到达课程改革主要关注规约性话语而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的认识论混乱，最后指出 UKD 框架的逻辑问题。
+> 从课程改革的背景出发，经由[[Regulative and Instructional Discourse|规约性话语]]分析和知识结构分析，到达课程改革主要关注规约性话语而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的认识论混乱，最后指出 UKD 框架的逻辑问题。
 
 ### 第一步：学科知识为何重要
 
@@ -136,7 +137,7 @@ updated: 2026-06-06
 
 **「严格折衷主义」的传统**：
 - Clark (2004) 在 2007 年课程发布前就对教育部的方法提出担忧，认为其缺乏「基本的总体中心哲学」
-- Kelly 称之为「严格折衷主义」（rigorous eclecticism）（引自 Clark, 2004, p.130）：课程借鉴了认识论差异很大的多种方法（后实证主义实在论、工具理性主义、后现代主义、进步主义、建构主义），这些方法之间存在潜在矛盾
+- Kelly 称之为「严格折衷主义」（rigorous eclecticism）（引自 Clark, 2004, p.130）：课程借鉴了认识论差异很大的多种方法（[[Postpositivism|后实证主义]]实在论、工具理性主义、后现代主义、进步主义、建构主义），这些方法之间存在潜在矛盾
 - 二十年后，课程改革仍在延续这种折衷方法
 
 **新自由主义和建构主义对知识理解的改变**（Lourie, 2020）：
@@ -310,7 +311,7 @@ updated: 2026-06-06
 ## 主要发现
 
 > [!success]
-> - **规约性话语主导**。课程改革主要关注创建规约性话语，即道德和政治义务的话语，而非学科知识的识别和组织。
+> - **[[Regulative and Instructional Discourse|规约性话语]]主导**。课程改革主要关注创建规约性话语，即道德和政治义务的话语，而非学科知识的识别和组织。
 > - **[[Recontextualization|再脉络化]]原则的张力**。双文化主义、地方化和道德原则三种再脉络化原则之间存在潜在的本体论和认识论张力。
 > - **[[Big Ideas|大概念]]的不一致**。[[Big Ideas|大概念]]在不同学科中的构想不同，有些捕捉知识，有些论证学科价值。
 > - **概念识别不足**。概念很少被明确标记，其重要性可能被忽视。
@@ -352,7 +353,7 @@ updated: 2026-06-06
 
 > [!warning]
 > - **部分完成**。课程改革在分析时仍在进行中，许多学科尚未开发。但已有足够证据判断课程文件是否展示了向学科知识的更强转向。分析以十年级末（中学第二年）为例，这一阶段代表了学生在课程中进展的关键节点。
-> - **分析范围**。并非对[[Recontextualization|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将认识论、理论和思想差异很大的各种取向整合在一起。例如，毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的本体论和认识论张力，教师如何处理这种张力仍有待观察。
+> - **分析范围**。并非对[[Recontextualization|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将认识论、理论和思想差异很大的各种取向整合在一起。例如，[[Mātauranga Māori|毛利知识体系]]的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的本体论和认识论张力，教师如何处理这种张力仍有待观察。
 > - **方法论说明**。分析使用了基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。
 > - **未来分析**。未来的分析可以进一步追问：
 >   - 课程改革是否真正以公认的知识理论为基础（如 [[Johan Muller]], 2009; [[Gilbert Ryle]], 1946; Winch, 2013）？

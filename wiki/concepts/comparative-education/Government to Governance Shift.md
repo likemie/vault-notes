@@ -15,15 +15,10 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Global-Local Binary]]"
   - "[[Policy Borrowing]]"
-  - "[[Relational Space]]"
-  - "[[Assemblage]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []
-related_persons:
-  - "[[Stephen Ball]]"
-  - "[[Bob Lingard]]"
-  - "[[Fazal Rizvi]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:

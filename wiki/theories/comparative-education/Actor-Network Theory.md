@@ -12,6 +12,7 @@ tags:
   - theme/educational-transfer
 related_concepts:
   - "[[Transfer Translation Transformation]]"
+  - "[[Assemblage]]"
   - "[[Posthumanism]]"
   - "[[Policy Borrowing]]"
   - "[[Methodological Nationalism]]"

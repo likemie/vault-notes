@@ -12,6 +12,7 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Literature Review]]"
+  - "[[Assemblage]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"

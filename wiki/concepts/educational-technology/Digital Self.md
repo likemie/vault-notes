@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Digital Optimum]]"
+  - "[[Assemblage]]"
   - "[[Learning Analytics]]"
 related_theories:
   - "[[Societies of Control]]"

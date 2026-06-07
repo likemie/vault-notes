@@ -16,11 +16,13 @@ tags:
 related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Powerful Knowledge]]"
+  - "[[Big Ideas]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
@@ -67,7 +69,7 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning] 边界模糊问题
-> 在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，知其然和知其所用的边界在某些学科中模糊。例如，数学学科的「知道」部分有两个列，名为「我知道」和「我知道如何」。命题适当地出现在「我知道」列中，但「我知道如何」的陈述并非命题形式。知其然时而以命题形式出现，时而以其他形式出现，这种不一致反映出学科知识不同形式之间界限的模糊。更值得注意的是，「知道」部分本应识别用于阐释大概念的丰富语境，但却混入了「知其所用」（应用知识），这属于认识论上的类别错误（McPhail et al., 2023）。
+> 在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，知其然和知其所用的边界在某些学科中模糊。例如，数学学科的「知道」部分有两个列，名为「我知道」和「我知道如何」。命题适当地出现在「我知道」列中，但「我知道如何」的陈述并非命题形式。知其然时而以命题形式出现，时而以其他形式出现，这种不一致反映出学科知识不同形式之间界限的模糊。更值得注意的是，「知道」部分本应识别用于阐释[[Big Ideas|大概念]]的丰富语境，但却混入了「知其所用」（应用知识），这属于认识论上的类别错误（McPhail et al., 2023）。
 
 ---
 

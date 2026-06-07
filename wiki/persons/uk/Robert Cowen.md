@@ -20,6 +20,7 @@ related_concepts:
   - "[[Vergegenkunft]]"
   - "[[International Education]]"
   - "[[Knowledge Transfer]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -125,7 +126,7 @@ updated: 2026-06-06
 ## 影响
 
 > [!success]
-> - **[[Transitology]]** 已成为比较教育中分析教育与社会转型关系的[[Big Ideas|核心概念]]之一（Amos, 2022, pp.53–58）。
+> - **[[Transitology]]** 已成为比较教育中分析教育与社会转型关系的核心概念之一（Amos, 2022, pp.53–58）。
 > - **[[Transfer Translation Transformation|3T 框架]]** 为比较教育中的[[Knowledge Transfer|知识转移]]研究提供了一种超越忠实或滥用（faithfulness or abuse）二元评价的分析路径，将关注点从转移是否准确转向转移过程中意义如何变化（Zhou & Westberg, 2024, p.611）。
 > - **应用案例**。Zhou & Westberg (2024) 以 3T 框架分析了[[John Dewey|杜威]]思想在民国中国的跨文化旅程，发现杜威在民国中国被碎片化（fragmented），当接收语境本身是分裂的，Translation 和 Transformation 就不仅是本土化的过程，也是思想被不同阵营各自切割和重新[[Assemblage|组装]]的过程（Zhou & Westberg, 2024, pp.611, 622–623）。
 

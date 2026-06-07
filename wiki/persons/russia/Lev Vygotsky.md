@@ -13,8 +13,8 @@ tags:
   - theory/social-cultural-theory
 related_concepts:
   - "[[Social Realism]]"
+related_theories:
   - "[[Curriculum Design Coherence Model]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

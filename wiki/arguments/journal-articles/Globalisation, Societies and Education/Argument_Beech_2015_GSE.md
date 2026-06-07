@@ -20,19 +20,28 @@ related_concepts:
   - "[[Global-Local Binary]]"
   - "[[Relational Space]]"
   - "[[Recontextualization]]"
+  - "[[Circular Transfer]]"
   - "[[Normal School]]"
   - "[[Grammar of Schooling]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
-  - "[[Assemblage]]"
   - "[[Posthumanism]]"
+  - "[[Assemblage]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Ethnography]]"
-related_persons: []
+related_persons:
+  - "[[Gita Steiner-Khamsi]]"
+  - "[[Doreen Massey]]"
+  - "[[Stephen Ball]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
+  - "[[Jason Beech]]"
+  - "[[Alejandro Artopoulos]]"
+  - "[[Bruno Latour]]"
 related_facts:
   - "[[PISA]]"
   - "[[Conectar Igualdad]]"

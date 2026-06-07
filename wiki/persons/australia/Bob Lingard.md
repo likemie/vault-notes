@@ -12,7 +12,6 @@ tags:
   - theory/globalization
 related_concepts:
   - "[[Network Governance]]"
-  - "[[Government to Governance Shift]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -10,6 +10,7 @@ tags:
   - theme/comparative-education
   - epistemology
 related_concepts:
+  - "[[Assemblage]]"
   - "[[Methodological Nationalism]]"
   - "[[Global-Local Binary]]"
 related_theories:

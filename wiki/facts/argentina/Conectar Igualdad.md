@@ -12,14 +12,11 @@ tags:
   - policy/technology
   - theme/educational-technology
 related_concepts:
-  - "[[Relational Space]]"
+  - "[[Analytic Framework]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-related_methods:
-  - "[[Ethnography]]"
-related_persons:
-  - "[[Jason Beech]]"
-  - "[[Alejandro Artopoulos]]"
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:

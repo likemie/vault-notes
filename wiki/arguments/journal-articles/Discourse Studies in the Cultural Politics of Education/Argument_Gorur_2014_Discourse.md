@@ -23,6 +23,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
   - "[[Performance Indicators]]"
+  - "[[Assemblage]]"
 related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Luhmann's Systems Theory]]"

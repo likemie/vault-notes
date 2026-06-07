@@ -6,8 +6,10 @@ extracted_to:
   - "[[Innovation Hub]]"
   - "[[Innovation Park]]"
   - "[[Placemaking]]"
+  - "[[University-Industry Collaboration]]"
   - "[[CHIPS and Science Act]]"
   - "[[Central Florida Research Park]]"
+  - "[[Kendall Square]]"
   - "[[National Science Foundation]]"
   - "[[Purdue Discovery Park]]"
   - "[[Research Triangle Park]]"
@@ -15,8 +17,6 @@ extracted_to:
   - "[[Tech Square at Georgia Tech]]"
   - "[[University City Science Center]]"
   - "[[University of Illinois Research Park]]"
-  - "[[University-Industry Collaboration]]"
-  - "[[Kendall Square]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

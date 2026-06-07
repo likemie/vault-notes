@@ -11,6 +11,7 @@ tags:
   - theme/comparative-education
   - theme/educational-transfer
 related_concepts:
+  - "[[Assemblage]]"
   - "[[Analytic Framework]]"
   - "[[Relational Space]]"
   - "[[Global-Local Binary]]"

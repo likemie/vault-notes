@@ -7,6 +7,7 @@ extracted_to:
   - "[[Technology Transfer]]"
   - "[[Transnational Research Collaboration]]"
   - "[[University-Industry Co-location]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[African Orphan Crops Consortium]]"
   - "[[Nagoya Protocol]]"
@@ -15,7 +16,6 @@ extracted_to:
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---
