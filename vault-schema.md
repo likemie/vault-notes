@@ -214,6 +214,7 @@ OECD_2018_GlobalCompetence
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
 - Person 的 `aliases` 主要写中文全称；只有非常著名或中文文献中常用简称的人物才写简称，如 `杜威`、`皮亚杰`、`布迪厄`、`阿普尔`、`哈蒂`。
+- 对容易误链的短称、姓氏、缩写或泛化词，正文首次提及时必须使用完整正式名的 wikilink，如 `[[Michael Young]]`；后文若使用 `Young` 等简称，保持普通文本，除非该简称已是精确 alias。
 - 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
 - 若 title 与缩写已经分别覆盖，不再写 `Full Name (ABBR)` 形式的 alias。
@@ -291,6 +292,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 ### Wikilink and Relation Rules
 
 - wikilink 由 `wiki_linker.py` 自动维护，依据是 `title` 和 `aliases`。
+- 容易误链的短称、姓氏、缩写或泛化词，首次出现必须写完整正式名的 wikilink；不要为了后文简称添加过宽 alias。
 - `## 来源` / `## Sources` 章节只放 source wikilink。
 - wiki 条目的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
 - source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从所有 wiki 条目的 `## 来源` 章节反向同步。
