@@ -77,7 +77,7 @@ Total entries: **1164**
 > - [[Official Knowledge]] — Apple 提出的概念，指学校课程中由支配群体界定为合法、值得传授的知识，反映并再生产社会中的文化权力关系
 > - [[Phenomenon-Based Learning]] — 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。
 > - [[Powerful Knowledge]] — Young & Muller 提出的概念，指来自学科的、独立于知者的、具有独特禀赋的知识，能够使学生超越直接经验进行概括和理解
-> - [[Regulative and Instructional Discourse]] — Bernstein 提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
+> - [[Regulative and Instructional Discourse]] — 伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
 > - [[Science and Technology Studies]] — 跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。
 > - [[Social Museology]] — 将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。
 
@@ -1520,7 +1520,7 @@ Total entries: **1164**
 > - [[Argument_Hitchcock_2015_JBE]] — 澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议捕获推广性信息，描述 5-3-20 证据充分性阈值
 
 > [!summary]- Journal of Curriculum Studies (3)
-> - [[Argument_McPhail_2023_JCS]] — 使用社会实在论和 Bernstein 理论分析新西兰课程改革，发现理解-知道-做（Understand, Know, Do）结构存在认识论混乱，规约性话语优先于教学性话语
+> - [[Argument_McPhail_2023_JCS]] — 使用社会实在论和伯恩斯坦理论分析新西兰课程改革，发现理解-知道-做结构存在认识论混乱，规约性话语优先于教学性话语
 > - [[Argument_Terhart_2011_JCS]] — VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境
 > - [[Argument_Yan_2025_JCS]] — 以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入
 

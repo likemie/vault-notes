@@ -73,7 +73,7 @@ Total entries: **523**
 > - [[Official Knowledge]] — Apple 提出的概念，指学校课程中由支配群体界定为合法、值得传授的知识，反映并再生产社会中的文化权力关系
 > - [[Phenomenon-Based Learning]] — 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。
 > - [[Powerful Knowledge]] — Young & Muller 提出的概念，指来自学科的、独立于知者的、具有独特禀赋的知识，能够使学生超越直接经验进行概括和理解
-> - [[Regulative and Instructional Discourse]] — Bernstein 提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
+> - [[Regulative and Instructional Discourse]] — 伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
 > - [[Science and Technology Studies]] — 跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。
 > - [[Social Museology]] — 将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。
 
