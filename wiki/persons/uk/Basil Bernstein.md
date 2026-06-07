@@ -2,7 +2,8 @@
 title: Basil Bernstein
 aliases:
   - 巴兹尔·伯恩斯坦
-summary: "英国教育社会学传统中的关键理论家，以横向知识结构、教育知识分类与框架、教育话语理论影响教育社会学。"
+  - 伯恩斯坦
+summary: 英国教育社会学传统中的关键理论家，以横向知识结构、教育知识分类与框架、教育话语理论影响教育社会学。
 type: person
 nationality: uk
 tags:
@@ -12,11 +13,15 @@ tags:
 related_concepts:
   - "[[Horizontal Knowledge Structure]]"
   - "[[New Sociology of Education]]"
+  - "[[Recontextualization]]"
+  - "[[Regulative and Instructional Discourse]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_arguments: []
+related_facts:
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 sources:
   - "[[Ball_2008_SR]]"
   - "[[McPhail_2023_JCS]]"
@@ -43,6 +48,9 @@ updated: 2026-05-23
 
 > [!tip] 教育话语理论
 > Bernstein 的独特性体现在其理论生产力上：他的教育研究持续使用 Durkheim 式社会学思想，并吸收语言理论、Foucault 和若干新马克思主义资源；其理论挑战在于建立关于教育话语建构、分配规则、再语境化规则、评价规则及其社会基础的经验性理论（Ball, 2008, p.661）。
+
+> [!tip] [[Recontextualization|再脉络化]]与[[Regulative and Instructional Discourse|规约性话语和教学性话语]]
+> Bernstein (2000) 提出了再脉络化概念，指特定话语从原始生产场所被选择性挪用、重新定位并与其他话语关联以构成自身秩序的过程。他同时理论化了规约性话语（创造秩序、关系和身份的道德话语）和教学性话语（包含所选知识及其组织），教学性话语嵌入更强的规约性话语之中。这些概念被 McPhail et al. (2023) 用于分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]，发现规约性话语优先于教学性话语，学科概念知识在规约性话语中缺席。
 
 ## 影响
 

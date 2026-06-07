@@ -4,7 +4,8 @@ aliases:
   - 规约性话语与教学性话语
   - regulative discourse
   - instructional discourse
-summary: "伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中"
+  - 规约性话语
+summary: 伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
 type: concept
 tags:
   - theme/curriculum

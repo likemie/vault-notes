@@ -28,12 +28,14 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
+  - "[[Regulative and Instructional Discourse]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Lev Vygotsky]]"
+  - "[[Basil Bernstein]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[The New Zealand Curriculum]]"
@@ -68,7 +70,7 @@ updated: 2026-06-06
 ## 理论框架
 
 > [!abstract]
-> 分析依托三个相互关联的理论资源：[[Social Realism|社会实在论]]的认识论立场、伯恩斯坦关于知识结构和[[Recontextualization|再脉络化]]的理论，以及 [[Curriculum Design Coherence Model|课程设计连贯性模型]]（CDCM）。
+> 分析依托三个相互关联的理论资源：[[Social Realism|社会实在论]]的认识论立场、[[Basil Bernstein|伯恩斯坦]]关于知识结构和[[Recontextualization|再脉络化]]的理论，以及 [[Curriculum Design Coherence Model|课程设计连贯性模型]]（CDCM）。
 
 ---
 
@@ -77,15 +79,15 @@ updated: 2026-06-06
 
 ---
 
-> [!info] 伯恩斯坦的知识结构与再脉络化
-> 伯恩斯坦区分了规约性话语和教学性话语。规约性话语是创造秩序、关系和身份的道德话语，教学性话语包含所选知识及其组织。教学性话语嵌入更强的规约性话语之中，这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场。
+> [!info] [[Basil Bernstein|伯恩斯坦]]的知识结构与再脉络化
+> [[Basil Bernstein|伯恩斯坦]]区分了[[Regulative and Instructional Discourse|规约性话语和教学性话语]]。规约性话语是创造秩序、关系和身份的道德话语，教学性话语包含所选知识及其组织。教学性话语嵌入更强的规约性话语之中，这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场。
 >
 > 再脉络化是知识从生产场所（如大学）到课程和学校的转化过程。在这个过程中，原始意义可能被误解或改变，也可能受到意识形态的影响。
 
 ---
 
 > [!info] 课程设计连贯性模型（CDCM）
-> CDCM 是伯恩斯坦理论框架的演绎模型，将课程设计中概念知识与应用知识的区分及其必要关联具体化。模型的核心前提是，学科知识的结构为结构化学习和促进人类认知发展提供了独特优势，这些优势通过将两种知识形式结合起来实现。
+> CDCM 是[[Basil Bernstein|伯恩斯坦]]理论框架的演绎模型，将课程设计中概念知识与应用知识的区分及其必要关联具体化。模型的核心前提是，学科知识的结构为结构化学习和促进人类认知发展提供了独特优势，这些优势通过将两种知识形式结合起来实现。
 >
 > 两种知识形式的区分来自[[Lev Vygotsky|维果茨基]]的科学概念和自发概念：
 >
@@ -150,10 +152,10 @@ updated: 2026-06-06
 
 ### 第二步：规约性话语的主导
 
-课程改革的规约性话语借助[[Mātauranga Māori]]（毛利知识体系）形成了强烈的双文化凝聚力。课程文件声称 [[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的设计意在落实怀唐伊条约（Te Tiriti o Waitangi，新西兰的建国文件，旨在建立毛利人与英国王室之间的伙伴关系）的承诺，突出毛利知识体系和毛利语言的地位，以改变毛利人的教育不平等。
+课程改革的[[Regulative and Instructional Discourse|规约性话语]]借助[[Mātauranga Māori]]（毛利知识体系）形成了强烈的双文化凝聚力。课程文件声称 [[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的设计意在落实怀唐伊条约（Te Tiriti o Waitangi，新西兰的建国文件，旨在建立毛利人与英国王室之间的伙伴关系）的承诺，突出毛利知识体系和毛利语言的地位，以改变毛利人的教育不平等。
 
 > [!warning] 规约性话语的三个组成部分
-> 伯恩斯坦 (2000) 理论化了规约性话语，即创造秩序、关系和身份的道德话语。教学性话语（教什么和怎么教）嵌入更强的规约性话语之中。在课程改革中，规约性话语通过以下方式运作：
+> [[Basil Bernstein|伯恩斯坦]] (2000) 理论化了[[Regulative and Instructional Discourse|规约性话语]]，即创造秩序、关系和身份的道德话语。教学性话语（教什么和怎么教）嵌入更强的规约性话语之中。在课程改革中，规约性话语通过以下方式运作：
 >
 > **双文化主义**。毛利知识体系贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力：
 > - 课程文件声称 Te Mātaiaho 旨在落实怀唐伊条约的承诺，「旨在转变毛利人的教育不平等，给予毛利知识体系和毛利语言突出地位」（March 2023d, p.12）
