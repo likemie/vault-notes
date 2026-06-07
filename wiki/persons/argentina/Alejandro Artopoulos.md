@@ -12,6 +12,8 @@ tags:
   - theme/educational-transfer
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Relational Space]]"
+  - "[[Global-Local Binary]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -42,7 +44,10 @@ updated: 2026-06-07
 ## 核心思想
 
 > [!tip] [[Actor-Network Theory|ANT]] 在教育研究中的应用
-> Artopoulos 与 Beech 一起探索了[[Actor-Network Theory|行动者网络理论]]在教育研究中的应用，特别是如何通过重建课堂的社会-物质组装来揭示传统[[Analytic Framework|分析框架]]难以察觉的权力关系。他们的工作展示了非人类行动者（如电脑、软件、电池、充电器）如何在教育空间中施加权力（Beech & Artopoulos, 2015）。
+> Artopoulos 与 Beech 一起探索了[[Actor-Network Theory|行动者网络理论]]在教育研究中的应用。他们的工作展示了如何通过重建课堂的社会-物质组装来揭示传统[[Analytic Framework|分析框架]]难以察觉的权力关系。在 [[Conectar Igualdad|PCI]] 的分析中，非人类行动者（如电脑、软件、电池、充电器、电源插座）被纳入网络分析，展示了这些物体如何在教育空间中施加权力（Beech & Artopoulos, 2015）。
+
+> [!tip] [[Relational Space|关系性空间]]与教育转移
+> Artopoulos 与 Beech 一起提出了关系性空间视角来理解教育话语的跨空间流通，超越了传统的静态转移解释和[[Global-Local Binary|全球/地方二元对立]]（Beech & Artopoulos, 2015）。
 
 ---
 
