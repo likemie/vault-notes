@@ -37,7 +37,6 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Promising Student]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
@@ -200,7 +199,7 @@ Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型
 Zelinka（2022, pp.251-265）的 Ch15 将 GPK 的分析从治理工具（OSA）进一步延伸至治理话语（[[Single-Case Design|SCD]]），展示了 GPK 如何通过 21 世纪技能与素养话语（SCD）在全球尺度上生产特定类型的主体性。其核心贡献在于揭示了 GPK 的**话语-主体性**传导链条：
 
 - **SCD 作为 GPK 的话语装置**：SCD 不受限于任何特定机构或政府，但占据并再生产新自由主义知识型社会的 地缘政治空间——通过排名、影响因子和国际合作标准等隐性成功标准保障霸权地位（Zelinka, 2022, p.259）
-- **主体性生产的三组张力**：SCD 通过愿意／不愿主体、[[Outcomes in Comparative Education|结果导向]]／品质本位素养、经济增长／社会包容三组张力对，将 GPK 的竞争逻辑转化为个体的自我引导模式。详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]
+- **主体性生产的三组张力**：SCD 通过愿意／不愿主体、结果导向／品质本位素养、经济增长／社会包容三组张力对，将 GPK 的竞争逻辑转化为个体的自我引导模式。详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]
 - **[[Self-Entrepreneur|自我企业家]]作为 GPK 的全球主体形态**：SCD 所生产的 [[Self-Entrepreneur|自我企业家]]——以[[Employability|就业力]]和市场为导向、以意愿和激情为生产要素的主体性——正在全球范围内成为"心灵景观"（Moisio & Kangas, 2016, p.275, cit. by Zelinka, 2022, p.260）
 - **远距治理的微观运作**：SCD 框架通过界定"未来所需的关键技能"进行远距治理——不依赖直接命令，而是通过创造可欲的自我引导形式使各国和个体"自愿"采纳。详见 [[Governmentality#远距治理]]（Zelinka, 2022, pp.264-265）
 

@@ -38,7 +38,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Neuroplasticity]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
   - "[[Reflexivity]]"
@@ -695,7 +694,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 
 **批评二：大脑-身体-社会复杂性不可还原为简单测量。** Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"（Larsen, 2019, p.5）。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"（Larsen, 2019, p.5）。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活（Larsen, 2019, p.6）。
 
-**批评三：教师[[Visible Learning|可见学习]] ≠ 学生有意识/无意识学习。** Larsen 区分了三个"世界"：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning [[Outcomes in Comparative Education|outcomes]]）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同（Larsen, 2019, p.4）。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话（Larsen, 2019, p.7）。"他肯定不是在作为概念史家或现象学家工作"（Larsen, 2019, p.2）。
+**批评三：教师[[Visible Learning|可见学习]] ≠ 学生有意识/无意识学习。** Larsen 区分了三个"世界"：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同（Larsen, 2019, p.4）。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话（Larsen, 2019, p.7）。"他肯定不是在作为概念史家或现象学家工作"（Larsen, 2019, p.2）。
 
 **批评四：学习不是价值中立的概念——Bildung 要求更多。** Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：1960–70 年代'læring'（学习）最初是批判性、解放性的术语 → 1990 年代起被资本主义逻辑吸收 → 当代学习已成为不可逃避、无所不在的状态和"自然"要求（Larsen, 2019, p.8-9）。Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念——"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."（Larsen, 2019, p.9）。作为 VL 的替代方案，Larsen 提出了 具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动（Larsen, 2019, p.8-10）。
 
@@ -865,7 +864,7 @@ McKnight & Whitburn（2020）从文化政治视角提出七点系统批评：
 - Springer（2016）的新自由主义分析四问被应用于 VL：什么在 VL 周围凝结？VL 的暴力是什么？资本如何流动？抵抗在哪里？（McKnight & Whitburn, 2020, p.34）
 
 **2. Visible Learning 模拟色情片逻辑**
-- VL 被一位单一的、上帝般的男性权威主导（Hattie），痴迷于"射精式的结果"（ejaculatory [[Outcomes in Comparative Education|outcomes]]），否认对此类新自由主义痴迷的批评（Connell, 2013; Eisner, 2017; Grumet, 1988）
+- VL 被一位单一的、上帝般的男性权威主导（Hattie），痴迷于"射精式的结果"（ejaculatory outcomes），否认对此类新自由主义痴迷的批评（Connell, 2013; Eisner, 2017; Grumet, 1988）
 - 在以女性为主的职业中，教师服从于异性恋规范、性别歧视和能力主义的建构（Apple, 1986/2013）
 - 看与被看历史上是男性的领域（Berger, 1972），女性被定位为男性凝视的对象（Mulvey, 1975）
 - 教育的色情化通过为决定性的男性化凝视生产可见证据而实现——痴迷于在短时间内可被看见和知晓的东西（McKnight & Whitburn, 2020, p.35）

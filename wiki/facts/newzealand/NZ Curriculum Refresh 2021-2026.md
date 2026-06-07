@@ -13,7 +13,8 @@ tags:
   - policy/curriculum
   - theme/curriculum
 related_concepts:
-  - "[[Outcomes in Comparative Education]]"
+  - "[[Outcomes-based Education]]"
+  - "[[Big Ideas]]"
   - "[[Recontextualization]]"
 related_theories: []
 related_methods: []
@@ -36,7 +37,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> [[The New Zealand Curriculum|新西兰课程]]改革（NZ Curriculum Refresh）是新西兰教育部于 2021 年启动的课程修订过程，计划于 2026 年完成。改革的核心转向是从[[Outcomes in Comparative Education|结果导向]]课程转向进步导向课程（progression-focused curriculum），通过使用理解-知道-做（Understand, Know, Do，UKD）框架来组织课程内容。改革的原型是 2022 年发布的新西兰历史课程（McPhail et al., 2023）。
+> [[The New Zealand Curriculum|新西兰课程]]改革（NZ Curriculum Refresh）是新西兰教育部于 2021 年启动的课程修订过程，计划于 2026 年完成。改革的核心转向是从[[Outcomes-based Education|结果导向课程]]转向进步导向课程（progression-focused curriculum），通过使用理解-知道-做（Understand, Know, Do，UKD）框架来组织课程内容。改革的原型是 2022 年发布的新西兰历史课程（McPhail et al., 2023）。
 
 ---
 
@@ -51,11 +52,11 @@ updated: 2026-06-06
 
 ## 核心变化
 
-> [!abstract] 从[[Outcomes in Comparative Education|结果导向]]到进步导向
+> [!abstract] 从结果导向到进步导向
 >
 > **2007 年课程的特点**。2007 年[[The New Zealand Curriculum|新西兰课程]]是简洁的课程，让学校和教师选择与广泛陈述的成就目标相关的内容。该课程以结果为导向，强调通用能力和 21 世纪学习（McPhail et al., 2023）。
 >
-> **改革的方向**。教育部声明课程改革涉及从结果导向课程转向进步导向课程，通过使用 UKD 框架。新模型旨在提供比之前课程水平更多的细节和指导，关于学生在课程各个阶段需要理解、知道和做什么（McPhail et al., 2023）。
+> **改革的方向**。教育部声明课程改革涉及从[[Outcomes-based Education|结果导向课程]]转向进步导向课程，通过使用 UKD 框架。新模型旨在提供比之前课程水平更多的细节和指导，关于学生在课程各个阶段需要理解、知道和做什么（McPhail et al., 2023）。
 
 ---
 

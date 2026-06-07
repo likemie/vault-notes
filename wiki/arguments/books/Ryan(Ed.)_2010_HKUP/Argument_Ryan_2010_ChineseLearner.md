@@ -25,9 +25,9 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[Refined Mastery]]"
   - "[[Quality Education]]"
+  - "[[Big Ideas]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
@@ -117,7 +117,7 @@ Ballard 和 Clanchy 是澳大利亚[[International Education|国际教育]]研�
 
 **第二步：那 Ballard 和 Clanchy 的书里有没有警告不要刻板化？有——但没人划线。**
 
-Ballard 和 Clanchy 在自己的书中**明确警告过**不要对国际学生做整体化判断，建议读者"基于实际事件和结果来做判断"（base their judgments on actual events and [[Outcomes in Comparative Education|outcomes]], Ryan, 2010, p.41）。然而，Ryan 发现：这些警告的段落几乎**没有被标注、没有折角、没有被划线**。
+Ballard 和 Clanchy 在自己的书中**明确警告过**不要对国际学生做整体化判断，建议读者"基于实际事件和结果来做判断"（base their judgments on actual events and outcomes, Ryan, 2010, p.41）。然而，Ryan 发现：这些警告的段落几乎**没有被标注、没有折角、没有被划线**。
 
 **第三步：这说明了什么？**
 
@@ -313,7 +313,7 @@ Ryan（2010, p.57）以 Hayhoe & Pan（2001, p.21）的"真正的对话——在
 > - 即便是所谓的"优势型"理论（如中国学习者勤奋、合作），同样构成本质化，对不符合该模型的学生造成压力；其根源可追溯至美国内战后移民时期的"模范少数族裔"建构（Murphy, 2005, 转引自 p.45）
 > - Shi (2006) 对上海 400 名中学生 ESL 学习者的研究发现，他们"与西方同龄人差异很小——都是主动学习者，偏好与教师更互动的关系"（p.44）
 > - 中国学习者经常内化这些刻板描述，甚至为自己在课堂上过于"被动"而道歉（Ryan & Louie, 2007, 转引自 p.44）
-> - 对"批判性思维"这一核心概念，即使在西方学术界也缺乏共识——Hang (2005) 发现一所大型澳大利亚大学的商学院学者无法定义该术语，但声称"看到就知道"（p.43）
+> - 对"批判性思维"这一[[Big Ideas|核心概念]]，即使在西方学术界也缺乏共识——Hang (2005) 发现一所大型澳大利亚大学的商学院学者无法定义该术语，但声称"看到就知道"（p.43）
 > - 中国 2001 年课程改革标志着从"双基"（知识和技能）向"[[Quality Education|素质教育]]"和学生中心教学的转型（pp.54–55）；2007 年内蒙古东胜召开的首届"学习与发展共同体年会"有来自 8 个省的 600 名教师和大学学者参加，展示了这一改革的实际进展（p.55）
 > - 中国学者也主动发声纠正刻板印象，积极参与课程改革实验，不断研究、发表、反思和寻求对其教学信念与实践的反馈（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 pp.53–54）
 

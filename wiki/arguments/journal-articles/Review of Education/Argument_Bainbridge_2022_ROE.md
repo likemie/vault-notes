@@ -21,7 +21,6 @@ related_concepts:
   - "[[Justified Warrants]]"
   - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"
-  - "[[Outcomes in Comparative Education]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
@@ -153,7 +152,7 @@ updated: '2026-05-18'
 - 例：Siobhain McDonagh MP (Labour) 以证据回应 Justine Greening 的证据——"currently only 3% of kids on free school meals go to grammar schools"
 
 **模式 2：证据被回避**（6 次）
-- 当被直接要求提供证据时（"give us one piece of evidence that suggests that grammar schools would improve educational [[Outcomes in Comparative Education|outcomes]]"），Greening 以"We know that…"开头回避，代之以 Ofsted 评级话语——"1.4 million more children are being taught in schools that are good or outstanding than in 2010"
+- 当被直接要求提供证据时（"give us one piece of evidence that suggests that grammar schools would improve educational outcomes"），Greening 以"We know that…"开头回避，代之以 Ofsted 评级话语——"1.4 million more children are being taught in schools that are good or outstanding than in 2010"
 
 **模式 3：转向攻击对方党派**（4 次）
 - 例：Greening 回应 Labour 的证据挑战时称对方"spending their entire time focusing on areas where they do not agree"

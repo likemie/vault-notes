@@ -33,7 +33,6 @@ related_concepts:
   - "[[Lost Mode]]"
   - "[[Evidence-Based Education]]"
   - "[[Effective Teaching]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[Cult of the Guru]]"
   - "[[Material Fallacies]]"
   - "[[Surface and Deep Learning]]"
@@ -300,7 +299,7 @@ updated: '2026-05-18'
 >
 > **出版过程的双重标准**：Hattie（2017）对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"（Eacott, 2019, p.777）。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（Eacott, 2019, p.778）。
 >
-> **Hattie 本人的距离感**：Hattie 已在某种程度上与 VL 的被运用方式保持距离，表示如果重新来过会避免"结果的暴政"（tyranny of [[Outcomes in Comparative Education|outcomes]]）（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35）。然而，McKnight & Whitburn（2020, p.35）指出 VL"作为一种与更广泛社会和政治力量纠缠的现象"已不完全受 Hattie 个人控制。
+> **Hattie 本人的距离感**：Hattie 已在某种程度上与 VL 的被运用方式保持距离，表示如果重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35）。然而，McKnight & Whitburn（2020, p.35）指出 VL"作为一种与更广泛社会和政治力量纠缠的现象"已不完全受 Hattie 个人控制。
 >
 > **一线反弹**：Eacott（2019, p.776）报告其 2017 年 [[Cult of the Guru]] 论文发表后下载超过 1000 次，持续收到来自学校一线教育者的邮件分享"大师崇拜对其工作的影响"故事——表明 VL 品牌的霸权性存在已引发广泛的一线反弹，但反弹主要以私人邮件而非公开辩论的形式表达。
 >

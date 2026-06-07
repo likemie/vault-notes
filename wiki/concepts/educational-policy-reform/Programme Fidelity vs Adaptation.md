@@ -12,7 +12,6 @@ tags:
 - adaptation
 - level/k12
 related_concepts:
-  - "[[Outcomes in Comparative Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
@@ -43,7 +42,7 @@ updated: '2026-05-18'
 >
 > > "Fidelity matters because when programmes are modified to suit site-specific preferences or circumstances, in essence a different programme results, a programme that no longer benefits from the evidence available."（Cowen et al., 2015, p.17）
 > >
-> > 同时："Departing in just the right ways can be just what is needed to produce successful [[Outcomes in Comparative Education|outcomes]]."（Cowen et al., 2015, p.18）
+> > 同时："Departing in just the right ways can be just what is needed to produce successful outcomes."（Cowen et al., 2015, p.18）
 
 ## 历史沿革
 

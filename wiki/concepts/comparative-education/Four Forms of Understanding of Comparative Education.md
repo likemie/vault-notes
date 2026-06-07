@@ -14,7 +14,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[Educated Identity]]"
 related_theories: []
 related_methods: []
@@ -84,7 +83,7 @@ updated: 2026-06-06
 
 ---
 
-### 第四种：[[Outcomes in Comparative Education|结果导向]]
+### 第四种：结果导向
 
 > [!info]
 > 关注教育结果的测量。这一理解形式经历了从文化理解到效率测量的转变（Cowen, 2023, pp.333–334）：
@@ -99,7 +98,7 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning]
-> - **政治预设的隐蔽性**。四种理解形式都带有政治预设，但学科长期忽视这一点。求同存异的形式中性掩盖了对政治现象的忽视，[[Convergence Theory in Comparative Education|趋同理论]]的中性掩盖了对权力关系的忽视，[[Policy Science in Comparative Education|政策科学]]明确认同权力，[[Outcomes in Comparative Education|结果导向]]服务于新自由主义定义（Cowen, 2023, pp.332–334）。
+> - **政治预设的隐蔽性**。四种理解形式都带有政治预设，但学科长期忽视这一点。求同存异的形式中性掩盖了对政治现象的忽视，[[Convergence Theory in Comparative Education|趋同理论]]的中性掩盖了对权力关系的忽视，[[Policy Science in Comparative Education|政策科学]]明确认同权力，结果导向服务于新自由主义定义（Cowen, 2023, pp.332–334）。
 > - **共存而非替代**。这四种形式不是历史替代关系，而是同时并存的。学科从未认真审视它们之间的矛盾，也从未选择其中一种作为主导范式（Cowen, 2023, p.332）。
 
 ---

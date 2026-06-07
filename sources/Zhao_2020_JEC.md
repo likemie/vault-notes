@@ -1,7 +1,6 @@
 ---
 citation: "Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against PISA. Journal of Educational Change, 21(1), 13-24."
 extracted_to:
-  - "[[PISA Distorted View of Education]]"
   - "[[PISA Glorifying Authoritarian Education]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Monolithic View of Education]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[PISA]]"
   - "[[Rasch Measurement]]"
   - "[[Yong Zhao]]"
+  - "[[PISA Distorted View of Education]]"
 processed_date: 2026-06-07
 ---
 

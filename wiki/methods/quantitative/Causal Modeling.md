@@ -16,7 +16,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Outcomes in Comparative Education]]"
+  - "[[Big Ideas]]"
   - "[[Effect Size]]"
   - "[[Recommendations for Practice]]"
 related_theories:
@@ -102,7 +102,7 @@ updated: '2026-05-31'
 
 
 > [!warning] 观察数据中的因果语言风险
-> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""[[Outcomes in Comparative Education|outcomes]]" 的因果化命名。Brady et al. (2023) 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
+> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
 
 ## 适用场景
 
@@ -116,7 +116,7 @@ updated: '2026-05-31'
 
 ## 相关概念
 
-- [[Causality]] — 因果性是因果建模所操作化的核心概念；时间顺序（temporal order）是构建因果模型的基本前提——[[Variable|变量]]之间存在从左到右的时间排序（Punch, 2014; Creswell & Creswell, 2022, p.57）
+- [[Causality]] — 因果性是因果建模所操作化的[[Big Ideas|核心概念]]；时间顺序（temporal order）是构建因果模型的基本前提——[[Variable|变量]]之间存在从左到右的时间排序（Punch, 2014; Creswell & Creswell, 2022, p.57）
 - [[Variable]] — 因果模型中的基本分析单位，包括自变量、因变量、中介变量和调节变量
 
 ## 相关方法

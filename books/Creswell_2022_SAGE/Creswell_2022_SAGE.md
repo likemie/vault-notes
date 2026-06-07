@@ -36,7 +36,6 @@ extracted_to:
   - "[[Informed Consent]]"
   - "[[Institutional Review Board]]"
   - "[[Integration Statement]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
@@ -141,8 +140,9 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Construct]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Integration in Mixed Methods]]"
 processed_date: 2026-05-30
 ---
 

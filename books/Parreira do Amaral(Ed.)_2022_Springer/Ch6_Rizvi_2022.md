@@ -15,8 +15,8 @@ extracted_to:
   - "[[Fazal Rizvi]]"
   - "[[Network Society]]"
   - "[[Critical Geopolitics]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Geopolitics of Knowledge]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

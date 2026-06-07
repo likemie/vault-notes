@@ -17,12 +17,12 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[International Education]]"
   - "[[Sage]]"
+  - "[[Big Ideas]]"
   - "[[Doxa]]"
   - "[[Variable]]"
   - "[[Readings of the Global]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[Deductive Rationality]]"
   - "[[Research Question]]"
   - "[[Totally Pedagogised Society]]"
@@ -100,7 +100,7 @@ updated: 2026-06-06
 >
 > **地方主义**。假设大西洋中部是定义比较教育政治、视角和方向的世界轴心（p.328）。
 >
-> **借用成瘾**。进口大概念（如全球化），在文献中被视为[[Doxa|不言自明]]、不加限定地使用。快速引用几个来源，这类借用就能保护我们免于复杂性。模式[[Variable|变量]]、第三世界、多元文化社会、儒学等都是如此（p.328）。
+> **借用成瘾**。进口[[Big Ideas|大概念]]（如全球化），在文献中被视为[[Doxa|不言自明]]、不加限定地使用。快速引用几个来源，这类借用就能保护我们免于复杂性。模式[[Variable|变量]]、第三世界、多元文化社会、儒学等都是如此（p.328）。
 >
 > **科学混乱**。科学是学科最不稳定、最混乱的概念之一。它分别意味着计量经济学模型的采用（Noah 1973）、像物理学一样准确预测（Holmes 1984）、认识事物的原因（如 Roger Bacon 所希望的）、以及拥有大量硬数据（p.328）。
 
@@ -161,7 +161,7 @@ updated: 2026-06-06
 
 ---
 
-> [!info] 第四种：[[Outcomes in Comparative Education|结果导向]]
+> [!info] 第四种：结果导向
 > 关注教育结果的测量。这一理解形式经历了从文化理解到效率测量的转变。
 >
 > Joseph Lauwerys (1965) 最初以理解（Verstehen）的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界范式具有影响力。后来，结果变成了通过 IEA 研究和最终 PISA 衡量教育效率。
@@ -217,7 +217,7 @@ updated: 2026-06-06
 > [!success]
 > - **学科诊断**。比较教育积累了过多惯例化的自我合法化方式，需要摆脱 Sadler、Jullien、Mill 等人的陈词滥调（p.327）。
 > - **四种罪过**。进步假设、地方主义、借用成瘾和科学混乱是学科的四种罪过（p.328）。
-> - **四种理解形式**。求同存异、[[Convergence Theory in Comparative Education|趋同理论]]、[[Policy Science in Comparative Education|政策科学]]和[[Outcomes in Comparative Education|结果导向]]长期并存但深刻矛盾，每一种都带有不同的政治预设（pp.332–334）。
+> - **四种理解形式**。求同存异、[[Convergence Theory in Comparative Education|趋同理论]]、[[Policy Science in Comparative Education|政策科学]]和结果导向长期并存但深刻矛盾，每一种都带有不同的政治预设（pp.332–334）。
 > - **政治敏感性**。学科的关注议程、沉默和理解风格都受国际和国内政治以及学院政治的影响（p.332）。
 > - **两个核心问题**。转移（移动即变形）和[[Educated Identity|受教育身份]]是学科未来发展的两个核心问题，一个是学术挑战，一个是道德挑战（pp.335–336）。
 

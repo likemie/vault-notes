@@ -10,10 +10,10 @@ extracted_to:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Jacob Cohen]]"
+  - "[[Rasch Measurement]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Causal Modeling]]"
   - "[[John Hattie]]"
-  - "[[Rasch Measurement]]"
 processed_date: 2026-05-05
 ---
 

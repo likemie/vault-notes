@@ -23,7 +23,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Reflexivity]]"
   - "[[Self-Entrepreneur]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[Statistical Significance]]"
   - "[[Causality]]"
 related_theories: []
@@ -177,7 +176,7 @@ SCD 将关注点从结构变革转向个体技能和素养的发展，使主体�
 
 ### 结果导向素养 vs 品质本位素养
 
-Zelinka（2022, pp.261–263）提出了一组分析性区分：各框架中突出强调的技能主要是**[[Outcomes in Comparative Education|结果导向]]的**（outcome-oriented）——获取它们应能提高个体的就业力。
+Zelinka（2022, pp.261–263）提出了一组分析性区分：各框架中突出强调的技能主要是**结果导向的**（outcome-oriented）——获取它们应能提高个体的就业力。
 
 结果导向素养面临若干可行性问题：瞄准这些素养是否真的能让主体变得更有能力和更具就业力，这一点尚不明确；这些素养难以融入学校课程和项目（Chalkiadaki, 2018）；创造力、批判性思维或创新如何教学？谁能为此颁发证书？谁能保证这些技能在不同劳动市场和行业中被同等重视？雇主是否真的将这些视为潜在雇员所需的关键素养？（Zelinka, 2022, pp.261–262）
 

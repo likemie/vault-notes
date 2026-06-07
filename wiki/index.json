@@ -413,17 +413,6 @@
     ]
   },
   {
-    "title": "Outcomes in Comparative Education",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Outcomes in Comparative Education.md",
-    "aliases": [
-      "结果导向教育",
-      "结果导向",
-      "outcomes",
-      "outcomes-based education"
-    ]
-  },
-  {
     "title": "Paradox of the Chinese Learner",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
@@ -568,6 +557,17 @@
     ]
   },
   {
+    "title": "Epistemic Ascent",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Epistemic Ascent.md",
+    "aliases": [
+      "认识论上升",
+      "概念进阶",
+      "conceptual progression",
+      "epistemic ascent"
+    ]
+  },
+  {
     "title": "Epochal Key Problems",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Epochal Key Problems.md",
@@ -604,6 +604,17 @@
     "path": "wiki/concepts/curriculum/Official Knowledge.md",
     "aliases": [
       "官方知识"
+    ]
+  },
+  {
+    "title": "Outcomes-based Education",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Outcomes-based Education.md",
+    "aliases": [
+      "结果导向教育",
+      "结果导向课程",
+      "outcomes-based education",
+      "OBE"
     ]
   },
   {

@@ -6,14 +6,16 @@ extracted_to:
   - "[[Horizontal Knowledge Structure]]"
   - "[[Basil Bernstein]]"
   - "[[Mātauranga Māori]]"
-  - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Curriculum Design Coherence Model]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Powerful Knowledge]]"
   - "[[Social Realism]]"
   - "[[Lev Vygotsky]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Outcomes-based Education]]"
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 processed_date: 2026-06-07
 ---
 

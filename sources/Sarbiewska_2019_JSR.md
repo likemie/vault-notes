@@ -11,9 +11,9 @@ extracted_to:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Dietrich Benner]]"
   - "[[Radical Constructivism]]"
+  - "[[The New Zealand Curriculum]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
-  - "[[The New Zealand Curriculum]]"
 processed_date: 2026-05-05
 ---
 

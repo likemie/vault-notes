@@ -6,13 +6,14 @@ extracted_to:
   - "[[Robert Cowen]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Deductive Rationality]]"
-  - "[[Outcomes in Comparative Education]]"
-  - "[[Four Forms of Understanding of Comparative Education]]"
-  - "[[Policy Science in Comparative Education]]"
   - "[[Readings of the Global]]"
   - "[[Andreas Kazamias]]"
   - "[[Edmund King]]"
+  - "[[Outcomes in Comparative Education]]"
   - "[[Argument_Cowen_2023_CE]]"
+  - "[[Four Forms of Understanding of Comparative Education]]"
+  - "[[Policy Science in Comparative Education]]"
+  - "[[Outcomes-based Education]]"
 processed_date: 2026-06-07
 ---
 

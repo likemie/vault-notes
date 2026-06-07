@@ -19,7 +19,6 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Social Engagement]]"
   - "[[Self-Entrepreneur]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Academic Engagement]]"
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 
 SCD 的运作机制是将就业力技能呈现为[[Self-Entrepreneur|自我企业家]]（[[Self-Entrepreneur]]）需持续获取的生产要素。Hampson 和 Junor（2009）将"素养"（competency）视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约（Zelinka, 2022, p.259）。在此逻辑中，获得一项素养意味着"做好某件事"，但成功标准不由个体自己设定，而是由外部期望、规范和价值观所决定，使个体长期处于竞争和自我实现模式之中。
 
-SCD 中突出强调的技能主要是**[[Outcomes in Comparative Education|结果导向]]的**（outcome-oriented）——获取它们旨在提高就业力（Zelinka, 2022, p.261）。这种将就业力窄化为可市场化技能集合的倾向，详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]。
+SCD 中突出强调的技能主要是**结果导向的**（outcome-oriented）——获取它们旨在提高就业力（Zelinka, 2022, p.261）。这种将就业力窄化为可市场化技能集合的倾向，详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]。
 
 ---
 

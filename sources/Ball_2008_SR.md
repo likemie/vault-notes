@@ -7,9 +7,9 @@ extracted_to:
   - "[[New Sociology of Education]]"
   - "[[Political Arithmetic]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
-  - "[[Stephen Ball]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Basil Bernstein]]"
+  - "[[Stephen Ball]]"
 processed_date: 2026-05-23
 ---
 

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Education]]"
-  - "[[Outcomes in Comparative Education]]"
   - "[[Learning Analytics]]"
   - "[[Effect Size]]"
   - "[[Conflict of Interest in Research]]"
@@ -62,7 +61,7 @@ updated: '2026-05-18'
 > Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本**（evidence-based, 非 evidence-informed）：教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
 > > “该定义并非仅仅指传播关于有效实践的一般原则的信息，通常发现这种做法对实践或结果并不能产生多大影响。”
-> ("This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or [[Outcomes in Comparative Education|outcomes]].") (p. 3)
+> ("This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes.") (p. 3)
 >
 > 论文性质：不是实证研究，而是**职业生涯回顾 + 政策倡导**——Thorndike Career Achievement Award 演讲。
 

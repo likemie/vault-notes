@@ -10,8 +10,8 @@ tags:
 - subject/research-methodology
 - paradigm/positivist
 related_concepts:
-  - "[[Outcomes in Comparative Education]]"
   - "[[Causality]]"
+  - "[[Big Ideas]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 潜在结果框架（Potential [[Outcomes in Comparative Education|outcomes]] Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑（Berk, 2011, p.193）。
+> 潜在结果框架（Potential outcomes Framework）是[[Causality|因果推断]]的[[Big Ideas|核心概念]]框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑（Berk, 2011, p.193）。
 >
 > > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed." (Berk, 2011, p.193)
 >
@@ -54,7 +54,7 @@ updated: '2026-05-18'
 > [!abstract] 因果效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的（Berk, 2011, p.193）。
 >
-> > "The potential [[Outcomes in Comparative Education|outcomes]] formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result." (Berk, 2011, p.193)
+> > "The potential outcomes formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result." (Berk, 2011, p.193)
 
 
 > [!abstract] 五种平均处理效应（Imbens, 2004）

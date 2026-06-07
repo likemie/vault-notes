@@ -10,8 +10,7 @@ tags:
   - theme/comparative-education
   - theory/comparative-education
   - paradigm/positivism
-related_concepts:
-  - "[[Outcomes in Comparative Education]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons:
@@ -42,7 +41,7 @@ updated: 2026-06-06
 
 > [!example]
 > - vs 求同存异 — 求同存异关注相似与差异的解释，政治上相对中性。政策科学明确认同权力，是与自由民主国家的联盟。
-> - vs [[Outcomes in Comparative Education|结果导向]] — 结果导向关注教育结果的测量，从文化理解转向效率测量。政策科学关注比较教育作为学科的本质定位，主张其应该是政策科学。
+> - vs 结果导向 — 结果导向关注教育结果的测量，从文化理解转向效率测量。政策科学关注比较教育作为学科的本质定位，主张其应该是政策科学。
 
 ---
 

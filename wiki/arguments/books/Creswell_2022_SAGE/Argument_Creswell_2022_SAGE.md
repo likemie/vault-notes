@@ -1096,7 +1096,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 
 > [!abstract] 调查方法计划组件一览
 >
-> | 组件 | 关键决策 | 核心概念 | 详见 |
+> | 组件 | 关键决策 | [[Big Ideas\|核心概念]] | 详见 |
 > |---|---|---|---|
 > | 调查设计 | 目的声明 → 选择理由 → 横截面/纵向 → 数据收集形式 | 设计类型选择、不可行性辩护 | [[Survey Research]] |
 > | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → 样本量确定 | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
@@ -1611,7 +1611,7 @@ Creswell & Creswell (2022) 提出混合方法研究的六个定义性特征，�
 > |---|---|---|---|
 > | **聚敛式设计** | Compare, Match, Corroborate/Validate, Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding | Merge（合并） | 量化与质性两者 |
 > | **解释性序列设计** | Expand, Explain | Connect（连接）：量化结果连接到质性数据收集 | 量化与质性两者 |
-> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性[[Outcomes in Comparative Education\|结果导向]]量化评估设计并检验 | 量化与质性两者 |
+> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性[[Outcomes-based Education\|结果导向]]量化评估设计并检验 | 量化与质性两者 |
 > | **复杂混合方法设计** | Augment（optimize, ascertain needs, monitor） | Add into a process/framework（加入过程/框架） | 量化、质性或两者 |
 
 设计选择的首要依据是意图和程序（表 10.5）。两张决策流程图（图10.7 基于意图、图10.8 基于程序）见 [[Integration Statement]] 条目。次要依据包括学科倾向、研究者规模、导师推荐。Creswell 明确反对将时间安排和数据优先级作为设计选择标准，主张量化和质性数据应享有同等合法性（p.251）。
