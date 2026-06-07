@@ -41,7 +41,7 @@ updated: 2026-06-07
 > [!question]
 > [[Mentorship|导师制]]是科学和医学中的[[Big Ideas|核心概念]]，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」（Anderson & Shannon, 1988）。导师制是科学家最重要的合作关系之一，导师在启动被指导者的累积优势过程中起着关键作用。
 >
-> [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]是世界上最令人向往的科学奖项之一。获奖者受邀到斯德哥尔摩发表诺贝尔演讲，通常包括对其发现的历史和科学概述， often enriched by anecdotes from their personal and professional lives。
+> [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]是世界上最令人向往的科学奖项之一。获奖者受邀到斯德哥尔摩发表诺贝尔演讲，通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事。
 >
 > 核心问题是，新晋诺贝尔奖获得者在发表诺贝尔演讲时是否、如何以及明确提到了谁作为他们的导师？
 
@@ -84,7 +84,7 @@ updated: 2026-06-07
 >
 > **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功（Liénard et al., 2018）。
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好。导师制 also associated with an increased probability for mentees to become pioneers in their research fields（Ma et al., 2020）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好。导师制也与被指导者成为其研究领域先驱的概率增加相关（Ma et al., 2020）。
 
 ---
 
@@ -98,7 +98,7 @@ updated: 2026-06-07
 >
 > **Giuseppe Levi 的学生**。Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006）。
 >
-> **诺贝尔奖的社会维度**。获得诺贝尔奖 not happen simply by making a great achievement and passively waiting for it to be rewarded，而是 characterized by a robust social dimension（Hansson & Schlich, 2024; Friedman, 2001）。
+> **诺贝尔奖的社会维度**。获得诺贝尔奖不仅仅是取得伟大成就并被动等待奖励，而是具有显著的社会维度（Hansson & Schlich, 2024; Friedman, 2001）。
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-06-07
 >
 > **被提及的导师类型**。最常被提及的导师是 former PhD 导师或博士后导师。在 20 次引用中，有 12 次被提及的导师是 fellow 诺贝尔奖获得者（Sandrone, 2025）。
 >
-> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者。她们 often cited their postdoctoral advisors as mentors（Sandrone, 2025）。
+> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者。她们常常将博士后导师列为导师（Sandrone, 2025）。
 >
 > **同期获奖者的相互影响**。20 次引用中有 6 次是由同一 year 获奖的两位科学家做出的（1998、2002、2014）。尽管获奖者提前准备演讲，但可能通过 last-minute 的 reactive adjustments 相互影响，因为诺贝尔演讲是在同一天上午一个接一个进行的（Sandrone, 2025）。
 
@@ -126,7 +126,7 @@ updated: 2026-06-07
 >
 > **2002 年 H. Robert Horvitz**。「Foremost, I want to thank my two mentors, Van R. Potter and George E. Palade」（首先，我要感谢我的两位导师 Van R. Potter 和 George E. Palade）
 >
-> **2006 年 Craig Mello**。「I owe a tremendous amount of thanks to Dan Stinchcomb, for teaching me molecular biology and really being a fantastic mentor during my initial years in graduate school」（我欠 Dan Stinchcomb 巨大的感谢，感谢他教我分子生物学，在我研究生院的最初几年里 truly 是一位出色的导师）
+> **2006 年 Craig Mello**。「I owe a tremendous amount of thanks to Dan Stinchcomb, for teaching me molecular biology and really being a fantastic mentor during my initial years in graduate school」（我非常感谢 Dan Stinchcomb，感谢他教我分子生物学，在我研究生院的最初几年里确实是一位出色的导师）
 >
 > **2018 年 James P. Allison**。「In 1984, after much encouragement by Marion 'Bunny' Koshland, who was the leader of Immunology at Berkeley, and who also became a close friend and mentor, I decided to accept the offer and moved to Berkeley」（1984 年，在 Marion 'Bunny' Koshland 的大力鼓励下，她是伯克利免疫学的领导者，后来也成为了一位亲密的朋友和导师，我决定接受 offer 搬到伯克利）
 >
@@ -146,9 +146,9 @@ updated: 2026-06-07
 >
 > 奥斯卡获奖感言比诺贝尔演讲更频繁地提到导师。在 1961-2022 年间，有 22 次提到导师。奥斯卡奖比诺贝尔奖晚 28 年（1929 年首次颁奖），获奖感言通常只有约 45 秒（vs 诺贝尔演讲的 30 分钟）。
 >
-> 关键差异：诺贝尔奖获得者提前被告知获奖，而奥斯卡获奖者通常直到颁奖之夜才被披露。这导致奥斯卡演讲 often being either improvised or partially prepared in advance（往往是即兴的或提前部分准备的）。诺贝尔演讲通常有约两个月的准备时间。一个世纪前，这个时间窗口 even wider， ranging from several months to nearly a year（更宽，从几个月到近一年不等）。
+> 关键差异：诺贝尔奖获得者提前被告知获奖，而奥斯卡获奖者通常直到颁奖之夜才被披露。这导致奥斯卡演讲往往是即兴的或提前部分准备的。诺贝尔演讲通常有约两个月的准备时间。一个世纪前，这个时间窗口更宽，从几个月到近一年不等。
 >
-> 这意味着不是缺乏时间准备或演讲时长阻止了诺贝尔奖获得者明确承认导师。Therefore, such a lack of explicit mentor recognition might be a voluntary choice（因此，这种缺乏明确导师认可的现象可能是一种自愿选择）（Sandrone, 2025）。
+> 这意味着不是缺乏时间准备或演讲时长阻止了诺贝尔奖获得者明确承认导师。因此，这种缺乏明确导师认可的现象可能是一种自愿选择（Sandrone, 2025）。
 
 ---
 
@@ -156,11 +156,11 @@ updated: 2026-06-07
 
 > [!warning]
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变 leads to groundbreaking research（导致开创性研究），在诺贝尔奖获得者中 often found（经常被发现）（Ma et al., 2020, 引自 Sandrone, 2025）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变往往带来开创性研究，在诺贝尔奖获得者中尤为常见（Ma et al., 2020, 引自 Sandrone, 2025）。
 >
 > **时间因素**。诺贝尔奖获得者平均比其他奖项获得者年龄更大。与导师合作的时间可能更久远，可能导致个人或职业联系较弱（Sandrone, 2025）。
 >
-> **概念并非新事物**。导师制不是新概念。mentor 一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000）。mentoring 一词可能在 1778 年左右首次出现在美国。在 18-19 世纪的出版物中可以找到 mentor 一词，well before the first Nobel Prize was awarded（远在第一个诺贝尔奖颁发之前）（Sandrone, 2025）。
+> **概念并非新事物**。导师制不是新概念。mentor 一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000）。mentoring 一词可能在 1778 年左右首次出现在美国。在 18-19 世纪的出版物中可以找到 mentor 一词，远在第一个诺贝尔奖颁发之前（Sandrone, 2025）。
 
 ---
 
@@ -168,13 +168,13 @@ updated: 2026-06-07
 
 > [!success]
 >
-> **[[Mentorship Recognition|导师认可]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师认可]]的缺失是令人意外的，especially considering the crucial role of [[Mentorship]] in science, its broad societal value and the non-random patterns of Nobel mentoring relationships（尤其是考虑到导师制在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式）（Sandrone, 2025）。
+> **[[Mentorship Recognition|导师认可]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师认可]]的缺失是令人意外的，尤其是考虑到[[Mentorship|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式（Sandrone, 2025）。
 >
-> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这 aligns with research showing that postdoctoral mentors are more instrumental to trainees' success than graduate mentors（与研究表明博士后导师比研究生导师对受训者的成功更有影响相一致）（Sandrone, 2025）。
+> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这与研究表明博士后导师比研究生导师对受训者的成功更有影响相一致（Sandrone, 2025）。
 >
-> **与其他奖项的对比**。拉斯克奖和奥斯卡奖的获奖感言比诺贝尔演讲更频繁地提到导师，尽管这些奖项的演讲时间更短。这 highlights an unexpected gap in the explicit acknowledgment of mentors in the context of the Nobel Prize（凸显了诺贝尔奖背景下导师明确承认的一个意外缺失）（Sandrone, 2025）。
+> **与其他奖项的对比**。拉斯克奖和奥斯卡奖的获奖感言比诺贝尔演讲更频繁地提到导师，尽管这些奖项的演讲时间更短。这凸显了诺贝尔奖背景下导师明确承认的一个意外缺失（Sandrone, 2025）。
 >
-> **多样性问题**。诺贝尔奖中的性别和种族差距仍然存在。[[Mentorship|导师制]] often suggested as a key intervention to address gender inequalities（常被认为是解决性别不平等的关键干预措施），成功的导师制对于 retaining underrepresented minorities in the pipeline and fostering diversity（留住管道中的代表性不足少数群体并促进多样性）至关重要（Sandrone, 2025）。
+> **多样性问题**。诺贝尔奖中的性别和种族差距仍然存在。[[Mentorship|导师制]]常被认为是解决性别不平等的关键干预措施，成功的导师制对于留住管道中的代表性不足少数群体并促进多样性至关重要（Sandrone, 2025）。
 
 ---
 
@@ -201,11 +201,11 @@ updated: 2026-06-07
 
 > [!warning]
 >
-> **方法论 simplicity**。方法论 approach straightforward, effective and free from bias, relying solely on counting the frequency of the word [[Mentorship|mentor]] within a given text（Sandrone, 2025）。
+> **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship|mentor]] 一词的频率（Sandrone, 2025）。
 >
-> **未分析其他诺贝尔奖项**。Future research can apply this methodology to Nobel Lectures in Physics, Chemistry, Literature, and Economics to determine whether this lack of overt [[Mentorship Recognition]] is unique to Physiology and Medicine or reflects a broader trend across disciplines（Sandrone, 2025）。
+> **未分析其他诺贝尔奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition|导师认可]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势（Sandrone, 2025）。
 >
-> **未探索 gratitude 的其他形式**。While a detailed exploration of gratitude in the history of the Nobel Prize could be the focus of future studies, the lack of explicit recognition remains particularly surprising（Sandrone, 2025）。
+> **未探索感恩的其他形式**。虽然对诺贝尔奖历史中感恩表达的详细探索可以成为未来研究的焦点，但缺乏明确承认仍然特别令人惊讶（Sandrone, 2025）。
 
 ---
 
