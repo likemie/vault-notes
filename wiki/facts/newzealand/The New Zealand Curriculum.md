@@ -21,6 +21,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:
   - "[[Sarbiewska_2019_JSR]]"
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 ## 相关概念／理论
 
 > [!example] 相关概念／理论
-> - [[Visible Learning]] — VL 为新西兰课程改革提供证据基础
+> - [[Visible Learning]] — VL 为[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]提供证据基础
 > - [[Evidence-Based Education]] — 新西兰教育部及下属机构"成功运用证据并将这一理念向下传递"（Sarbiewska, 2019, p.125）
 
 ## 来源

@@ -231,7 +231,7 @@ Total entries: **225**
 > - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 > [!summary]- Unknown (1)
-> - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用 Understand, Know, Do 框架，计划 2026 年完成
+> - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成
 
 ## Russia
 

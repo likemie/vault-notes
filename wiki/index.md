@@ -71,7 +71,7 @@ Total entries: **1163**
 > - [[Didaktik]] — 德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。
 > - [[Ecomuseology]] — 将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。
 > - [[Epochal Key Problems]] — Klafki 提出的课程组织概念，以环境危机、社会不平等和战争等时代问题连接学科深度与跨学科广度。
-> - [[Knowledge-that and Know-how-to]] — Ryle 提出的知识区分，知识-that 是命题性知识，知道如何做是应用性知识，两者的连接是深层学习的先决条件
+> - [[Knowledge-that and Know-how-to]] — Ryle 提出的知识区分，知识-that（知其然）是命题性知识，知道如何做（知其所以）是应用性知识，两者的连接是深层学习的先决条件
 > - [[Mātauranga Māori]] — 毛利知识体系，在新西兰课程改革中被用作规约性话语的核心原则，旨在实现双文化主义和 Te Tiriti o Waitangi 的承诺
 > - [[Official Knowledge]] — Apple 提出的概念，指学校课程中由支配群体界定为合法、值得传授的知识，反映并再生产社会中的文化权力关系
 > - [[Phenomenon-Based Learning]] — 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。
@@ -1219,7 +1219,7 @@ Total entries: **1163**
 > - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 > [!summary]- Unknown (1)
-> - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用 Understand, Know, Do 框架，计划 2026 年完成
+> - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成
 
 ### Russia
 
@@ -1519,7 +1519,7 @@ Total entries: **1163**
 > - [[Argument_Hitchcock_2015_JBE]] — 澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议捕获推广性信息，描述 5-3-20 证据充分性阈值
 
 > [!summary]- Journal of Curriculum Studies (3)
-> - [[Argument_McPhail_2023_JCS]] — 使用社会实在论和 Bernstein 理论分析新西兰课程改革，发现 Understand Know Do 结构存在认识论混乱，规约性话语优先于教学性话语
+> - [[Argument_McPhail_2023_JCS]] — 使用社会实在论和 Bernstein 理论分析新西兰课程改革，发现理解-知道-做（Understand, Know, Do）结构存在认识论混乱，规约性话语优先于教学性话语
 > - [[Argument_Terhart_2011_JCS]] — VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境
 > - [[Argument_Yan_2025_JCS]] — 以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入
 

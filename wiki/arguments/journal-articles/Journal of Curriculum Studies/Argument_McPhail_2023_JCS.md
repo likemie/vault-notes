@@ -4,7 +4,7 @@ authors:
   - "McPhail, G."
   - "Ormond, B."
   - "Siteine, A."
-summary: "使用社会实在论和 Bernstein 理论分析新西兰课程改革，发现 Understand Know Do 结构存在认识论混乱，规约性话语优先于教学性话语"
+summary: "使用社会实在论和 Bernstein 理论分析新西兰课程改革，发现理解-知道-做（Understand, Know, Do）结构存在认识论混乱，规约性话语优先于教学性话语"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[The New Zealand Curriculum]]"
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
@@ -47,9 +48,9 @@ updated: 2026-06-06
 ## 研究问题
 
 > [!question]
-> 近年来，多个国家的课程发展出现了对学科知识的新强调，如挪威、瑞典、英格兰和南非。OECD 2030 学习指南也包含了关于知识的讨论，与之前倡导通用技能和能力的报告形成鲜明对比。在新西兰，[[NZ Curriculum Refresh 2021-2026|课程改革]]从[[Outcomes in Comparative Education|结果导向]]课程转向进步导向课程，使用 Understand, Know, Do 框架。
+> 近年来，多个国家的课程发展出现了对学科知识的新强调，如挪威、瑞典、英格兰和南非。OECD 2030 学习指南也包含了关于知识的讨论，与之前倡导通用技能和能力的报告形成鲜明对比。在新西兰，课程改革从[[Outcomes in Comparative Education|结果导向]]课程转向进步导向课程，使用理解-知道-做（Understand, Know, Do，UKD）框架。
 >
-> 核心问题是，在新西兰当前的课程改革中，学科知识的转向程度如何？新的 Understand, Know, Do 结构是否有潜力促进连贯的教学设计和[[Surface and Deep Learning|深层学习]]？
+> 核心问题是，在新西兰当前的课程改革中，学科知识的转向程度如何？新的 UKD 结构是否有潜力促进连贯的教学设计和[[Surface and Deep Learning|深层学习]]？
 
 ---
 
@@ -65,16 +66,16 @@ updated: 2026-06-06
 ## 研究方法
 
 > [!info]
-> 使用 [[Curriculum Design Coherence Model|课程设计连贯性模型]]的翻译装置（translation device）或分析量规（analytic rubric），基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的量规。使用该量规，分析[[The New Zealand Curriculum|新西兰课程]]改革文件（Te Mātaiaho）的目的声明、整体结构（学习进步和 Understand, Know, Do 结构）以及社会科学、英语、数学和统计、以及新西兰历史的进度成果。
+> 使用 [[Curriculum Design Coherence Model|课程设计连贯性模型]]的翻译装置（translation device）或分析量规（analytic rubric），基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的量规。使用该量规，分析[[The New Zealand Curriculum|新西兰课程]]改革文件（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）的目的声明、整体结构（学习进步和 UKD 结构）以及社会科学、英语、数学和统计、以及新西兰历史的进度成果。
 >
-> 翻译装置将知识形式分为三类。知识-that 包括命题（提出主要主张的陈述）和学科概念（通过词语或短语表达的抽象思想）。内容是概念的物质体现，可包括事实、情境、意识形态等。知道如何做是通过使用与学科相关的技能或实践来应用知识（McPhail et al., 2023）。
+> 翻译装置将知识形式分为三类。知其然（知识-that）包括命题（提出主要主张的陈述）和学科概念（通过词语或短语表达的抽象思想）。内容是概念的物质体现，可包括事实、情境、意识形态等。知其所以（知道如何做）是通过使用与学科相关的技能或实践来应用知识（McPhail et al., 2023）。
 
 ---
 
 ## 论证结构
 
 > [!example]
-> 从课程改革的背景出发，经由规约性话语分析和知识结构分析，到达课程改革主要关注规约性话语而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的认识论混乱，最后指出 Understand, Know, Do 框架的逻辑问题。
+> 从课程改革的背景出发，经由规约性话语分析和知识结构分析，到达课程改革主要关注规约性话语而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的认识论混乱，最后指出 UKD 框架的逻辑问题。
 
 ### 第一步：学科知识为何重要
 
@@ -89,7 +90,7 @@ updated: 2026-06-06
 
 ### 第二步：规约性话语的主导
 
-课程改革的规约性话语通过[[Mātauranga Māori]]（毛利知识体系）创造了强烈的双文化凝聚力。课程文件声称 Te Mātaiaho 的设计旨在实现 Te Tiriti o Waitangi 的承诺，给予毛利知识体系和毛利语言突出地位，旨在转变毛利人的教育不平等。
+课程改革的规约性话语通过[[Mātauranga Māori]]（毛利知识体系）创造了强烈的双文化凝聚力。课程文件声称 [[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的设计旨在实现 Te Tiriti o Waitangi 的承诺，给予毛利知识体系和毛利语言突出地位，旨在转变毛利人的教育不平等。
 
 > [!warning] 规约性话语的三个组成部分
 > Bernstein (2000) 理论化了规约性话语，即创造秩序、关系和身份的道德话语。教学性话语（教什么和怎么教）嵌入更强的规约性话语之中。在课程改革中，规约性话语通过以下方式运作：
@@ -114,7 +115,7 @@ updated: 2026-06-06
 ### 第三步：知识结构分析
 
 > [!info] Big Ideas 的不一致
-> Understand, Know, Do 结构中，Understand 部分的 Big Ideas 在不同学科中的构想不同。
+> UKD 结构中，Understand 部分的 Big Ideas 在不同学科中的构想不同。
 >
 > **历史学科**。Big Ideas 捕捉了应学习的知识。例如，新西兰历史的 Big Ideas 声称新西兰历史的进程被权力的使用所塑造。个人、团体和组织以改善人民和社区生活的方式施加和争夺权力，也以导致排斥、不公正和冲突的方式行事。这个 Big Ideas 识别了关键学科概念权力、不公正和冲突，然后可以通过学生将概念应用于具体例子来理解。
 >
@@ -140,10 +141,10 @@ updated: 2026-06-06
 
 ---
 
-### 第四步：Understand, Know, Do 的逻辑问题
+### 第四步：UKD 的逻辑问题
 
 > [!warning] 顺序混乱
-> 课程文件声称 Understand, Know, Do 这些元素不是分开的，也不是按顺序的，应该被编织在一起。但从课程设计和学习的角度来看，Know, Do, Understand 是比 Understand, Know, Do 更合乎逻辑的概念框架。
+> 课程文件声称 UKD 这些元素不是分开的，也不是按顺序的，应该被编织在一起。但从课程设计和学习的角度来看，Know, Do, Understand 是比 UKD 更合乎逻辑的概念框架。
 >
 > 在设计阶段，教师首先需要清楚要学习什么（Know），然后这些知识以某种方式与学生一起工作（Do），然后当知识-that（Know）和知道如何做（Do）结合在一起展示所理解的内容时，学习得到证明（Understand）。
 >
@@ -156,7 +157,7 @@ updated: 2026-06-06
 > [!success] 结论
 > 课程改革提供了更多对概念进步和认识论上升的明确承认，以及通过新的进度成果增加的概念标记。但从[[Outcomes in Comparative Education|结果导向]]课程的转向是有限的。
 >
-> 规约性话语优先于教学性话语。Te Mātaiaho 主要是一个关注创建规约性话语的文件，即道德和政治义务的话语，而非传统课程中可能期望的内容。在这一 regard，没有向学科知识的转向。然而，新的知识进步结构和 Understand, Know, Do 代表了增加新课程中知识标记的尝试，是远离结果导向的转向。
+> 规约性话语优先于教学性话语。Te Mātaiaho 主要是一个关注创建规约性话语的文件，即道德和政治义务的话语，而非传统课程中可能期望的内容。在这一 regard，没有向学科知识的转向。然而，新的知识进步结构和 UKD 代表了增加新课程中知识标记的尝试，是远离结果导向的转向。
 >
 > 课程文件中几乎完全缺席对学习实际如何发生的承认，例如来自广泛的认知科学文献的知识，以及认知发展知识与接触认识论结构化知识的禀赋之间的关系。这涉及如 Young (2020) 所建议的，学生发展与知识的关系，通过成为学科作为探究社区的成员，最初是非常初级的成员，在其中他们与教师和高年级学生作为更有知识的成员一起参与（McPhail et al., 2023）。
 
@@ -171,7 +172,7 @@ updated: 2026-06-06
 > - **概念识别不足**。概念很少被明确标记，其重要性可能被忽视。
 > - **知识边界模糊**。知识-That 和知道如何做的边界在某些学科中模糊。
 > - **内容特异性不足**。不同学科写作小组对内容特异性的决定不一致。
-> - **Understand, Know, Do 的逻辑混乱**。该结构在认识论上是混乱的，Know, Do, Understand 是更合乎逻辑的框架。
+> - **UKD 的逻辑混乱**。该结构在认识论上是混乱的，Know, Do, Understand 是更合乎逻辑的框架。
 
 ---
 

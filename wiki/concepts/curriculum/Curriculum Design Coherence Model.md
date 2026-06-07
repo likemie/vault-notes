@@ -21,6 +21,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[The New Zealand Curriculum]]"
+  - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
@@ -57,9 +58,9 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **知识区分**。模型基于 知识-that 和知道如何做 的区分，将课程设计元素分为三类：概念知识（propositions、subject concepts）、内容知识（content/contexts）、应用知识（skills/competencies/disciplinary practices）（McPhail, 2023）。
+> - **知识区分**。模型基于知其然（知识-that）和知其所以（知道如何做）的区分，将课程设计元素分为三类：概念知识（propositions、subject concepts）、内容知识（content/contexts）、应用知识（skills/competencies/disciplinary practices）（McPhail, 2023）。
 > - **设计连贯性**。复杂的关系（知识类型和形式之间、概念、内容和技能之间）需要在教学开始之前的课程设计阶段被处理，以实现连贯的概念设计和[[Surface and Deep Learning|深层学习]]（McPhail, 2023）。
-> - **深层学习条件**。知识-that（概念和内容）和 知道如何做（应用知识）的连接是深层学习的先决条件。深层学习被定义为看到学科认识论部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括（McPhail, 2023）。
+> - **深层学习条件**。知其然（概念和内容）和知其所以（应用知识）的连接是深层学习的先决条件。深层学习被定义为看到学科认识论部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括（McPhail, 2023）。
 > - **翻译装置**。模型提供了一个翻译装置（translation device）或分析量规（analytic rubric），用于分析课程文件中的知识元素（McPhail, 2023）。
 
 ---
@@ -67,11 +68,11 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example]
-> McPhail et al. (2023) 使用 CDCM 的翻译装置分析[[The New Zealand Curriculum|新西兰课程]]改革（Te Mātaiaho），发现：
+> McPhail et al. (2023) 使用 CDCM 的翻译装置分析[[The New Zealand Curriculum|新西兰课程]]改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]），发现：
 >
 > - **Big Ideas** 在不同学科中的构想不同。历史学科的 Big Ideas 捕捉了应学习的知识（如权力、不公正、冲突），而数学学科的 Big Ideas 更多表达的是社会文化概念而非应学习的内容。
 > - **概念识别** 不一致。有些陈述包含关键概念（如殖民化），有些则不包含。
-> - **知识-That 和知道如何做** 的边界模糊。数学学科的 Know 部分包含了本应属于 Do 部分的陈述。
+> - **知其然和知其所以的边界模糊**。数学学科的 Know 部分包含了本应属于 Do 部分的陈述。
 
 ---
 

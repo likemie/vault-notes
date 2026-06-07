@@ -1,17 +1,18 @@
 ---
 citation: "McPhail, G., Ormond, B., & Siteine, A. (2023). Knowledge and the New Zealand curriculum refresh. Journal of Curriculum Studies, 55(5), 509-526."
 extracted_to:
-  - "[[Argument_McPhail_2023_JCS]]"
   - "[[Recontextualization]]"
-  - "[[Curriculum Design Coherence Model]]"
-  - "[[Knowledge-that and Know-how-to]]"
-  - "[[Mātauranga Māori]]"
   - "[[Powerful Knowledge]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Social Realism]]"
   - "[[Horizontal Knowledge Structure]]"
-  - "[[The New Zealand Curriculum]]"
   - "[[Basil Bernstein]]"
+  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Curriculum Design Coherence Model]]"
+  - "[[Knowledge-that and Know-how-to]]"
+  - "[[Mātauranga Māori]]"
+  - "[[NZ Curriculum Refresh 2021-2026]]"
+  - "[[The New Zealand Curriculum]]"
 processed_date: 2026-06-07
 ---
 
