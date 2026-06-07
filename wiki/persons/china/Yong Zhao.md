@@ -47,11 +47,13 @@ updated: '2026-05-19'
 > - 识别教育中缺乏副作用研究的四个系统性后果：无休止的"战争"、政策在不知风险的情况下被推广、钟摆效应、对"最好"教育体系的幻灭
 > - 提出 6 项行动建议，主张建立类似 FDA 药物审批的教育干预副作用评估和监测机制
 > - 对 [[PISA]]/TIMSS 跨国比较的副作用分析：东亚教育体系在考试成绩上世界第一，但学生自信心和学科态度世界最低
+> - 系统梳理近二十年对 [[PISA]] 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷（Zhao, 2020）
 
 ## 主要著作
 
 > [!abstract] 主要著作
 > - Zhao, Y. (2017). What works may hurt: [[Side Effects]]. *Journal of Educational Change*. — 提出教育副作用框架，以[[Direct Instruction|直接教学]]、东亚教育体系、[[No Child Left Behind Act 2001|NCLB]] 三个案例论证效果与副作用的不可分离性
+> - Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against [[PISA]]. *Journal of Educational Change*. — 系统梳理近二十年对 [[PISA]] 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷
 
 ## 来源
 

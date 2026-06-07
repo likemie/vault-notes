@@ -1076,6 +1076,55 @@
     ]
   },
   {
+    "title": "PISA Distorted View of Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/PISA Distorted View of Education.md",
+    "aliases": [
+      "PISA 扭曲的教育观",
+      "PISA distorted view",
+      "PISA 经济化教育"
+    ]
+  },
+  {
+    "title": "PISA Glorifying Authoritarian Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/PISA Glorifying Authoritarian Education.md",
+    "aliases": [
+      "PISA 美化威权教育",
+      "PISA glorifying authoritarian education",
+      "PISA 威权教育美化"
+    ]
+  },
+  {
+    "title": "PISA Made-up Claim",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/PISA Made-up Claim.md",
+    "aliases": [
+      "PISA 捏造的主张",
+      "PISA made-up claim"
+    ]
+  },
+  {
+    "title": "PISA Monolithic View of Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/PISA Monolithic View of Education.md",
+    "aliases": [
+      "PISA 单一教育观",
+      "PISA monolithic view",
+      "PISA 西方中心主义"
+    ]
+  },
+  {
+    "title": "PISA Score Negative Correlation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/PISA Score Negative Correlation.md",
+    "aliases": [
+      "PISA 分数负相关",
+      "PISA score negative correlation",
+      "PISA 高分低能"
+    ]
+  },
+  {
     "title": "Policy Entrepreneur",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy Entrepreneur.md",
@@ -10365,6 +10414,11 @@
     "title": "Argument_Zhao_2017_JEC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2017_JEC.md"
+  },
+  {
+    "title": "Argument_Zhao_2020_JEC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md"
   },
   {
     "title": "Argument_Wolf_2020_JREE",

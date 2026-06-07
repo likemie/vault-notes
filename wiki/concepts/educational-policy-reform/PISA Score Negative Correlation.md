@@ -10,18 +10,13 @@ tags:
   - theme/educational-policy-reform
   - theory/critical-theory
   - critique/pisa
-related_concepts:
-  - "[[PISA]]"
-  - "[[PISA Distorted View of Education]]"
-  - "[[PISA Glorifying Authoritarian Education]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Yong Zhao]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
-related_arguments:
-  - "[[Argument_Zhao_2020_JEC]]"
+related_arguments: []
 sources:
   - "[[Zhao_2020_JEC]]"
 confidence: medium
@@ -37,14 +32,14 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> PISA 分数负相关（PISA Score Negative Correlation）指多项研究发现的 PISA 高分国家学生在多个重要人类属性上表现更差的持续模式，包括更低的学科兴趣和态度、更低的幸福感、更低的创业信心和能力，以及更威权的教育取向（Zhao, 2020）。
+> [[PISA]] 分数负相关（PISA Score Negative Correlation）指多项研究发现的 PISA 高分国家学生在多个重要人类属性上表现更差的持续模式，包括更低的学科兴趣和态度、更低的幸福感、更低的创业信心和能力，以及更威权的教育取向（Zhao, 2020）。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> - **兴趣和态度负相关**。许多研究者发现，PISA 高分国家的学生似乎对被测学科的兴趣更低、态度更不积极（Bybee and McCrae 2011; Zhao 2012, 2014, 2016b）。例如，PISA 科学分数与未来科学取向和未来科学工作有显著负相关（Kjærnsli and Lie 2011）。
+> - **兴趣和态度负相关**。许多研究者发现，[[PISA]] 高分国家的学生似乎对被测学科的兴趣更低、态度更不积极（Bybee and McCrae 2011; Zhao 2012, 2014, 2016b）。例如，PISA 科学分数与未来科学取向和未来科学工作有显著负相关（Kjærnsli and Lie 2011）。
 > - **创业信心负相关**。更高的 PISA 分数还被发现与更低的创业信心和能力相关（Campbell 2013; Zhao 2012）。
 > - **威权取向**。PISA 高分的教育系统似乎有更威权的取向（Shirley 2017; Zhao 2014, 2016b）。
 > - **幸福感负相关**。PISA 分数被发现与学生幸福感有负相关（Shirley 2017; Zhao 2014, 2016b），这一发现最终在 2017 年的 PISA 报告中被公开承认（OECD 2017）。
