@@ -520,6 +520,16 @@
     ]
   },
   {
+    "title": "Big Ideas",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Big Ideas.md",
+    "aliases": [
+      "大概念",
+      "big ideas",
+      "核心概念"
+    ]
+  },
+  {
     "title": "Constructive Alignment",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Constructive Alignment.md",

@@ -38,7 +38,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 Bernstein 理论框架的演绎模型，由 McPhail (2023) 提出，基于[[Social Realism|社会实在论]]（[[Social Realism]]）的首要原则，将课程设计中概念知识（conceptual knowledge）和应用知识（[[Knowledge-that and Know-how-to|applied knowledge]]）的区分及必要连接操作化。模型的目标是通过使课程设计与知识的认识论结构（其层次性相互关联的抽象和可概括概念）对齐，实现深层设计连贯性（McPhail, 2023）。
+> 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 [[Basil Bernstein|伯恩斯坦]]理论框架的演绎模型，由 McPhail (2023) 提出，基于[[Social Realism|社会实在论]]的首要原则，将课程设计中概念知识和应用知识的区分及必要连接操作化。模型的目标是通过使课程设计与知识的认识论结构（其层次性相互关联的抽象和可概括概念）对齐，实现深层设计连贯性（McPhail, 2023）。
 
 > [!quote]
 > "The Curriculum Design Coherence Model... operationalizes the differentiation and subsequent necessary connection between conceptual and applied knowledge for curriculum design."（McPhail, 2023）
@@ -68,11 +68,11 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example]
-> McPhail et al. (2023) 使用 CDCM 的翻译装置分析[[The New Zealand Curriculum|新西兰课程]]改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]），发现：
+McPhail 等人 (2023) 使用 CDCM 的翻译装置分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]，发现：
 >
-> - **Big Ideas** 在不同学科中的构想不同。历史学科的 Big Ideas 捕捉了应学习的知识（如权力、不公正、冲突），而数学学科的 Big Ideas 更多表达的是社会文化概念而非应学习的内容。
+> - **[[Big Ideas|大概念]]** 在不同学科中的构想不同。历史学科的大概念捕捉了应学习的知识（如权力、不公正、冲突），而数学学科的大概念更多表达的是社会文化概念而非应学习的内容。
 > - **概念识别** 不一致。有些陈述包含关键概念（如殖民化），有些则不包含。
-> - **[[Knowledge-that and Know-how-to|知其然]]和知其所用的边界模糊**。数学学科的 Know 部分包含了本应属于 Do 部分的陈述。
+> - **[[Knowledge-that and Know-how-to|知其然]]和知其所用的边界模糊**。数学学科的知道部分包含了本应属于做部分的陈述。
 
 ---
 

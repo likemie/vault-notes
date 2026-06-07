@@ -4,7 +4,7 @@ aliases:
   - 规约性话语与教学性话语
   - regulative discourse
   - instructional discourse
-summary: "Bernstein 提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中"
+summary: "伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中"
 type: concept
 tags:
   - theme/curriculum
@@ -35,7 +35,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 规约性话语（Regulative Discourse）和教学性话语（Instructional Discourse）是 [[Basil Bernstein]] (2000) 识别的课程构建的两个机制或原则。规约性话语是道德话语，创造秩序、关系和身份。教学性话语包含所选知识，通过选择、顺序、节奏和评估来组织。教学性话语嵌入更强的规约性话语之中（Bernstein, 2000, p.32, 引自 McPhail et al., 2023）。
+> 规约性话语和教学性话语是 [[Basil Bernstein|伯恩斯坦]] (2000) 识别的课程构建的两个机制或原则。规约性话语是道德话语，创造秩序、关系和身份。教学性话语包含所选知识，通过选择、顺序、节奏和评估来组织。教学性话语嵌入更强的规约性话语之中（Bernstein, 2000, p.32, 引自 McPhail et al., 2023）。
 
 > [!quote]
 > "An instructional discourse comprises the selected knowledge, its organization through selection, sequence, pacing, and evaluation. The instructional discourse is embedded in a stronger regulative discourse, 'the moral discourse which creates order, relations and identity'."（Bernstein, 2000, p.32, 引自 McPhail et al., 2023）
