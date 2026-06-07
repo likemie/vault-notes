@@ -15,7 +15,6 @@ extracted_to:
   - "[[Central Question]]"
   - "[[Coherence in Writing]]"
   - "[[Construct Validity in Quantitative Measurement]]"
-  - "[[Constructivist Paradigm]]"
   - "[[Cover Story]]"
   - "[[Crotty's Four Levels of Research Design]]"
   - "[[Data Transformation in Mixed Methods]]"
@@ -143,6 +142,7 @@ extracted_to:
   - "[[Construct]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Integration in Mixed Methods]]"
+  - "[[Constructivist Paradigm]]"
 processed_date: 2026-05-30
 ---
 

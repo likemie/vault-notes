@@ -527,16 +527,6 @@
     ]
   },
   {
-    "title": "Curriculum Design Coherence Model",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum/Curriculum Design Coherence Model.md",
-    "aliases": [
-      "课程设计连贯性模型",
-      "CDCM",
-      "Curriculum Design Coherence Model"
-    ]
-  },
-  {
     "title": "Didaktik",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Didaktik.md",
@@ -5347,6 +5337,16 @@
     "path": "wiki/theories/curriculum/Cuban's Curriculum Change Theory.md",
     "aliases": [
       "库班课程变革理论"
+    ]
+  },
+  {
+    "title": "Curriculum Design Coherence Model",
+    "type": "theory",
+    "path": "wiki/theories/curriculum/Curriculum Design Coherence Model.md",
+    "aliases": [
+      "课程设计连贯性模型",
+      "CDCM",
+      "Curriculum Design Coherence Model"
     ]
   },
   {

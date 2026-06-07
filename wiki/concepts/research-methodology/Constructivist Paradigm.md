@@ -19,6 +19,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Postpositivism]]"
   - "[[Transformative Paradigm]]"
+  - "[[International Education]]"
+  - "[[Outcomes-based Education]]"
+  - "[[Social Realism]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -32,7 +35,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-06
 ---
 
 # Constructivist Paradigm
@@ -61,6 +64,23 @@ updated: 2026-05-30
 > [!example]
 > - vs [[Postpositivism]] — 后实证主义从既有理论出发进行演绎检验，追求客观性和可推广性；建构主义从参与者的主观经验出发进行归纳，关注多元视角和具体情境。
 > - vs [[Transformative Paradigm]] — 建构主义专注于理解参与者的意义建构，变革主义则认为仅理解是不够的，研究还应包含推动社会变革的行动议程。
+
+---
+
+## 课程政策中的建构主义
+
+> [!warning]
+> 建构主义不仅是一种研究哲学立场，也是塑造过去三十年[[International Education|国际教育]]话语的重要力量。McPhail et al. (2023) 指出，建构主义和新自由主义两种话语现在被认为共同位于 21 世纪学习的更广泛叙事中，尽管两者之间存在一些紧张关系。
+>
+> 建构主义对课程政策的影响体现在以下方面：
+>
+> - **知识的边缘化**。因为知识更新迅速，我们不再需要教授它；通用技能如学会学习被认为比我们学什么更重要；我们期望学生自己建构知识（McPhail et al., 2023）。
+> - **学生选择的强调**。课程应该 enable 高水平的选择，使学习被认为是有相关性的（McPhail et al., 2023）。
+> - **知识与技能的平衡偏移**。在过去三十年中，新西兰和许多国际管辖区的课程呈现出从明确的知识识别转向[[Outcomes-based Education|结果导向课程]]、通用能力和 21 世纪学习的趋势。知识被边缘化或被视为理所当然，被等同于过时的教育方法（McPhail et al., 2023）。
+>
+> 从[[Social Realism|社会实在论]]的视角看，建构主义对课程的影响导致了知识作为概念性意义系统的维度被忽视。建构主义往往将知识等同于事实和信息，而忽略了知识作为概念性意义系统的维度（McPhail et al., 2023）。
+
+---
 
 ## 来源
 

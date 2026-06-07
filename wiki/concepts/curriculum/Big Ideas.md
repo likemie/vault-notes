@@ -10,18 +10,13 @@ tags:
   - theme/curriculum
   - method/curriculum-design
 related_concepts:
-  - "[[Curriculum Design Coherence Model]]"
   - "[[Powerful Knowledge]]"
-  - "[[Knowledge-that and Know-how-to]]"
-  - "[[Surface and Deep Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[The New Zealand Curriculum]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
-related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
 confidence: medium
@@ -37,7 +32,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 大概念（Big Ideas）是课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解。在新西兰课程改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）中，大概念被定义为每个学习领域中心的一组独特的大持久思想，所有学习者都能联系和接触（McPhail et al., 2023）。
+> 大概念（Big Ideas）是课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解。在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）中，大概念被定义为每个学习领域中心的一组独特的大持久思想，所有学习者都能联系和接触（McPhail et al., 2023）。
 
 > [!quote]
 > "At the heart of each learning area is a unique set of big enduring ideas that all ākonga [students] can relate to and access."（Ministry of Education, March 2023d, p.23, 引自 McPhail et al., 2023）

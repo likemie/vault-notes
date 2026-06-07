@@ -5,22 +5,22 @@ aliases:
   - CDCM
   - Curriculum Design Coherence Model
 summary: "McPhail 提出的课程设计模型，基于社会实在论，将概念、内容和技能区分为不同类型的知识并要求在设计阶段明确其连接，以实现深层学习"
-type: concept
+type: theory
 tags:
   - theme/curriculum
   - theory/social-realism
   - method/curriculum-design
 related_concepts:
   - "[[Social Realism]]"
-  - "[[Knowledge-that and Know-how-to]]"
   - "[[Powerful Knowledge]]"
   - "[[Recontextualization]]"
+  - "[[Knowledge-that and Know-how-to]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Big Ideas]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[The New Zealand Curriculum]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
 sources:

@@ -2,7 +2,6 @@
 citation: "Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33."
 extracted_to:
   - "[[Visible Learning]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
   - "[[Carl Bereiter]]"
   - "[[Lars Qvortrup]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[John Biggs]]"
   - "[[John Hattie]]"
+  - "[[Surface and Deep Learning]]"
 processed_date: 2026-05-05
 ---
 
