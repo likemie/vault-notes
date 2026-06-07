@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
+                "file": "wiki/facts/italy/Azione LIM.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Sandrone_2025_MEO"
+              "title": "Azione LIM"
             }
           }
         ]
@@ -191,8 +191,10 @@
   },
   "active": "c430a1faf7fce6cc",
   "lastOpenFiles": [
-    "wiki/concepts/curriculum/Big Ideas.md",
+    "sources/Allerup_2015_Paideia.md",
+    "templater/template-argument.md",
     "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
+    "wiki/concepts/curriculum/Big Ideas.md",
     "information/Journal of the Learning Sciences.md",
     "information/合并文献_20260607_1509.md",
     "wiki/concepts/higher-education/Mentorship Recognition.md",
@@ -224,8 +226,6 @@
     "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md",
     "wiki/arguments/journal-articles/Globalisation, Societies and Education",
     "wiki/persons/australia/Bob Lingard.md",
-    "wiki/concepts/comparative-education/Grammar of Schooling.md",
-    "wiki/concepts/comparative-education/Relational Space.md",
     "raw/Interpreting the circulation of educational discourse across space searching for new vocabularies.txt"
   ]
 }
