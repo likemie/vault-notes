@@ -26,10 +26,10 @@ extracted_to:
   - "[[Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Pierre Bourdieu]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Pierre Bourdieu]]"
 processed_date: 2026-06-01
 ---
 

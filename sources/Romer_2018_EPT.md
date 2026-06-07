@@ -7,12 +7,12 @@ extracted_to:
   - "[[Carl Bereiter]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Ernst von Glasersfeld]]"
-  - "[[Gert Biesta]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Critiques of Visible Learning]]"
   - "[[John Biggs]]"
   - "[[John Hattie]]"
+  - "[[Gert Biesta]]"
 processed_date: 2026-05-03
 ---
 

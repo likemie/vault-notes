@@ -9,14 +9,14 @@ extracted_to:
   - "[[ResearchED]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Gert Biesta]]"
   - "[[Adrian Simpson]]"
   - "[[Gary Thomas]]"
   - "[[Ray Pawson]]"
   - "[[Roy Bhaskar]]"
   - "[[Sean McCusker]]"
-  - "[[Terry Wrigley]]"
   - "[[Critical Realism]]"
+  - "[[Gert Biesta]]"
+  - "[[Terry Wrigley]]"
 processed_date: 2026-05-01
 ---
 

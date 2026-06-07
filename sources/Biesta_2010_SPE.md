@@ -6,8 +6,8 @@ extracted_to:
   - "[[Value-Based Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Philosophical Analysis in Education]]"
-  - "[[Gert Biesta]]"
   - "[[Transactional Epistemology]]"
+  - "[[Gert Biesta]]"
 processed_date: 2026-05-01
 ---
 

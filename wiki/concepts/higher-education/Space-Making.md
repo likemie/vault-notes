@@ -11,6 +11,8 @@ tags:
 - region/global
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Relational Space]]"
+  - "[[Big Ideas]]"
   - "[[Reflexivity]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Global Universities Rankings]]"
@@ -36,7 +38,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 [[Doreen Massey]]（2005）的基础上提出的[[Analytic Framework|分析框架]]。社会空间不是预先存在的容器，而是由人类行动者通过持续努力构建的、不断运动的关系性产物。Marginson 将高等教育中的关系性空间制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会实践（Marginson, 2025, pp. 3–4）。
+> 高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 [[Doreen Massey]]（2005）的基础上提出的[[Analytic Framework|分析框架]]。社会空间不是预先存在的容器，而是由人类行动者通过持续努力构建的、不断运动的关系性产物。Marginson 将高等教育中的[[Relational Space|关系性空间]]制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会实践（Marginson, 2025, pp. 3–4）。
 
 > [!quote]
 > "Social space is the outcome of prolonged and often strenuous past and present human effort."（Marginson, 2025, p. 3）
@@ -48,7 +50,7 @@ updated: '2026-05-18'
 > [!note]
 > 空间制造框架有三个直接理论来源（Marginson, 2025, pp. 3–4）：
 > - **Lefebvre（1991）** — *The Production of Space* 提出空间是社会产物，将空间分析从物理地理学中解放出来
-> - **[[Doreen Massey]]（2005）** — *For Space* 提供了关系性空间和开放本体论的核心概念，是 Marginson 框架最主要的理论基础
+> - **[[Doreen Massey]]（2005）** — *For Space* 提供了[[Relational Space|关系性空间]]和开放本体论的[[Big Ideas|核心概念]]，是 Marginson 框架最主要的理论基础
 > - **Marginson（2022d）** — 在 *Global Public Good in Higher Education* 论文中首次提出三维空间制造框架，本文（2025）进一步完善并应用于地缘政治分析
 >
 > Marginson 的原创贡献在于将 Lefebvre-Massey 的空间理论系统地适配到高等教育领域，并通过三维框架使其具备可操作的实证分析能力。
@@ -70,7 +72,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — Massey 的开放本体论和关系性空间理论是本框架的直接基础，尤其是其"空间作为互动展开"和"总是有松散的末端"两个核心命题（Marginson, 2025, p. 3）
+> - [[Doreen Massey]] — Massey 的开放本体论和[[Relational Space|关系性空间]]理论是本框架的直接基础，尤其是其"空间作为互动展开"和"总是有松散的末端"两个核心命题（Marginson, 2025, p. 3）
 > - Lefebvre（1991） — 空间生产理论，强调空间既是社会产物又反过来塑造社会关系。Marginson 借用了 Lefebvre 的三元空间辩证法，但以 Massey 的关系性空间修正了 Lefebvre 的某些封闭倾向
 > - Archer（1995, 2003） — [[Reflexivity|反思性]]对话理论，为理解空间制造中"想象"维度的内在机制提供了微观基础（Marginson, 2025, p. 4）
 

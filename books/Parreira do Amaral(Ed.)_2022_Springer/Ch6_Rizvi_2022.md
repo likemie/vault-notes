@@ -5,7 +5,6 @@ extracted_to:
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
-  - "[[Classical Geopolitics]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[New Public Management]]"
@@ -14,9 +13,10 @@ extracted_to:
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
   - "[[Network Society]]"
-  - "[[Critical Geopolitics]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Critical Geopolitics]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

@@ -13,11 +13,11 @@ extracted_to:
   - "[[Ofsted]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Carnivalesque Analysis]]"
-  - "[[Gert Biesta]]"
-  - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[John Hattie]]"
+  - "[[Gert Biesta]]"
+  - "[[Terry Wrigley]]"
 processed_date: 2026-05-07
 ---
 

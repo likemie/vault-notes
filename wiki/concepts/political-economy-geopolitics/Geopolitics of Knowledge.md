@@ -16,6 +16,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
   - "[[Classical Geopolitics]]"
+  - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
@@ -97,7 +98,7 @@ updated: 2026-05-20
 ## 概念辨析
 
 > [!example]
-> - vs [[Classical Geopolitics|古典地缘政治]]：古典地缘政治关注领土扩张和自然资源与人口的控制，以民族国家为中心；知识地缘政治则关注关系性空间构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度（Thompson & Parreira do Amaral, 2022, pp.9–11）。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]
+> - vs [[Classical Geopolitics|古典地缘政治]]：古典地缘政治关注领土扩张和自然资源与人口的控制，以民族国家为中心；知识地缘政治则关注[[Relational Space|关系性空间]]构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度（Thompson & Parreira do Amaral, 2022, pp.9–11）。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]
 > - vs 地缘经济学（geoeconomics）：地缘经济学强调贸易、投资和市场逻辑在国际关系中的作用，与知识地缘政治共享对经济竞争的关注但较少关注[[Knowledge Production|知识生产]]的政治和文化维度（Thompson & Parreira do Amaral, 2022, p.11）
 
 ---
@@ -166,7 +167,7 @@ Parreira do Amaral (2022) 将上述两条脉络整合为一"新知识地缘政�
 > - [[Knowledge-Based Economization]] — Moisio (2018) 为该概念提供了关键的分析工具，将注意力从[[Knowledge-Based Economy|知识经济]]的话语层面转向物质过程和实践
 > - [[Global Regionalisms]] — Robertson et al. (2016) 揭示了高等教育如何通过区域整合项目成为地缘政治想象的核心支柱
 > - [[Global Education Industry]] — 经济化、商品化、私有化等概念为知识地缘政治提供了"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
-> - [[Critical Geopolitics]] — 批判地缘政治学脉络提供关系性空间分析和话语建构分析工具
+> - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space|关系性空间]]分析和话语建构分析工具
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示了当前知识经济化在认识论层面的殖民性延续后果
 - [[Doreen Massey]] — Massey（2005）的关系性空间理论为理解高等教育地缘政治提供了核心本体论基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定。"总是在松动末端"意味着单一的同质化全球秩序是不可能的（Marginson, 2025, pp. 5–7）
 - [[Space-Making]] — Marginson（2025）基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践），将地缘政治分析落实为可操作的经验研究工具
@@ -251,7 +252,7 @@ Rizvi (2022) 从亚洲经济和政治崛起的视角拓展了 GPK 的分析。�
 
 ### 空间制造框架与地缘政治的双重性
 
-Marginson（2025）基于 Massey（2005）的关系性空间理论，提出理解高等教育地缘政治的一个关键区分：地缘政治关系同时包含合作与竞争、水平性与等级性、双赢与零和。高等教育中的地缘政治关系——尤其在科学领域——比国家间的政治、经济和军事关系更具合作性，尽管高等教育可能在地缘政治上更加等级化和不平等（Marginson, 2025, p. 11）。
+Marginson（2025）基于 Massey（2005）的[[Relational Space|关系性空间]]理论，提出理解高等教育地缘政治的一个关键区分：地缘政治关系同时包含合作与竞争、水平性与等级性、双赢与零和。高等教育中的地缘政治关系——尤其在科学领域——比国家间的政治、经济和军事关系更具合作性，尽管高等教育可能在地缘政治上更加等级化和不平等（Marginson, 2025, p. 11）。
 
 Moscovitz & Sabzalieva（2023）提出的"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures framework）为 GPK 的实证研究提供了启发式工具，帮助研究者识别特定情境中起作用的多种力量（Marginson, 2025, p. 14）。
 

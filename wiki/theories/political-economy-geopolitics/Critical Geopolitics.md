@@ -13,6 +13,7 @@ tags:
 - political-geography
 - region/global
 related_concepts:
+  - "[[Relational Space]]"
   - "[[Classical Geopolitics]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge-Based Economization]]"
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 >
 > > "Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation."（Moisio, 2018, p.7, cited in Parreira do Amaral, 2022, pp.37–38）
 
-该理论的突破在于：将地缘政治从以民族国家领土控制为中心的古典理解，扩展至涵盖关系性空间构型和话语—符号维度（Parreira do Amaral, 2022, pp.37–38）。
+该理论的突破在于：将地缘政治从以民族国家领土控制为中心的古典理解，扩展至涵盖[[Relational Space|关系性空间]]构型和话语—符号维度（Parreira do Amaral, 2022, pp.37–38）。
 
 ---
 
@@ -84,7 +85,7 @@ updated: '2026-05-18'
 
 ### 空间是关系性建构的
 
-空间不是天然实体，而是通过社会空间关系网络被持续建构——"空间性不限于领土性"（Kuus, 2017, p.5）。古典地缘政治的"领土偏见"——预设人口天然地位于并附着于特定空间——被关系性空间理解所取代（Thompson & Parreira do Amaral, 2022, p.10）。
+空间不是天然实体，而是通过社会空间关系网络被持续建构——"空间性不限于领土性"（Kuus, 2017, p.5）。古典地缘政治的"领土偏见"——预设人口天然地位于并附着于特定空间——被[[Relational Space|关系性空间]]理解所取代（Thompson & Parreira do Amaral, 2022, p.10）。
 
 ### 政治想象具有履行性力量
 

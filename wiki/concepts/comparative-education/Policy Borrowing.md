@@ -12,6 +12,7 @@ tags:
 - education-policy
 - region/global
 related_concepts:
+  - "[[Big Ideas]]"
   - "[[Transitology]]"
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
@@ -24,9 +25,11 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
   - "[[Learner-Centred Education]]"
+  - "[[Relational Space]]"
   - "[[School Autonomy]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Historical Document Analysis of Curriculum]]"
@@ -57,7 +60,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 政策借用（Policy Borrowing）是教育政策转移研究的核心概念，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）假设"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
+> 政策借用（Policy Borrowing）是教育政策转移研究的[[Big Ideas|核心概念]]，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）假设"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
 >
 > > "Policy makers are seen to harness well-travelled global discourses to legitimate and promote domestic agendas which are controversial." (Steiner-Khamsi, 2012，引自 Yan & Morris, 2025, p. 482)
 >
@@ -200,7 +203,7 @@ Rappleye (2006) 在 Phillips & Ochs 第一阶段的基础上，将跨国吸引�
 
 **争议背景**：Beech & Artopoulos (2015) 指出，政策借用概念倾向于只关注国家政策（通常是书面政策文本），但如果我们只将注意力集中在国家政策上，就会错过教育话语权力扩散的大部分机制。在从政府到治理的转变中，权力的流通方式发生了变化：有些直接与国家政策相关，有些松散相关，有些则绕过国家政策。此外，「借用」一词在语言上暗示了暂时性（Phillips, 2000），不如「复制」准确。
 
-**目前状态**：Beech & Artopoulos (2015) 建议使用关系性空间概念和行动者网络理论来扩展经验视野，超越国家政策的局限。
+**目前状态**：Beech & Artopoulos (2015) 建议使用[[Relational Space|关系性空间]]概念和[[Actor-Network Theory|行动者网络理论]]来扩展经验视野，超越国家政策的局限。
 
 ### 适用范围有限：高压政治语境下的分析失效
 

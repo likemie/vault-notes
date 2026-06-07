@@ -12,7 +12,9 @@ tags:
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Space-Making]]"
+  - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
+  - "[[Big Ideas]]"
   - "[[Sage]]"
   - "[[Power-Geometries]]"
   - "[[Classical Geopolitics]]"
@@ -48,10 +50,10 @@ updated: '2026-05-19'
 > - 1982 任开放大学地理学教授，直至 2009 年退休
 > - 1994 获英国皇家地理学会 Victoria Medal
 > - 1999 当选英国国家学术院（British Academy）院士
-> - 2005 出版 *For Space*，系统阐述其关系性空间理论，代表其最成熟的理论综合
+> - 2005 出版 *For Space*，系统阐述其[[Relational Space|关系性空间]]理论，代表其最成熟的理论综合
 > - 2016 逝世，享年 72 岁
 >
-> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和后结构主义的影响。Marginson（2025）特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具（Marginson, 2025, pp. 3–11）。
+> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和后结构主义的影响。Marginson（2025）特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism|方法论民族主义]]、理解高等教育的全球地缘政治提供了[[Big Ideas|核心概念]]工具（Marginson, 2025, pp. 3–11）。
 
 ---
 
@@ -60,7 +62,7 @@ updated: '2026-05-19'
 ### 2005 — *For Space*
 
 - APA：Massey, D. (2005). *For Space*. [[Sage]].
-- 核心内容：系统阐述关系性空间理论，提出空间作为[[Multiplicity|多重性]]、开放本体论、[[Power-Geometries|权力几何学]]（power-geometries）和轨迹交汇等核心概念。
+- 核心内容：系统阐述[[Relational Space|关系性空间]]理论，提出空间作为[[Multiplicity|多重性]]、开放本体论、[[Power-Geometries|权力几何学]]（power-geometries）和轨迹交汇等[[Big Ideas|核心概念]]。
 - 思想位置：Massey 空间理论的成熟综合，代表其最系统的理论表达。
 
 ---
@@ -98,9 +100,9 @@ Massey 反复论证全球空间不是预先给定的、"在外面的"、外在�
 ## 影响
 
 > [!success]
-> - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的关系性空间理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放本体论为基础（Marginson, 2025, pp. 3–4）
+> - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space|关系性空间]]理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放本体论为基础（Marginson, 2025, pp. 3–4）
 > - [[Multiplicity]] — 多重性概念直接来自 Massey 的理论，Marginson 以此挑战高等教育研究中[[Methodological Nationalism|方法论民族主义]]和[[World-Systems Theory|世界体系理论]]的封闭空间假设
-> - [[Geopolitics of Knowledge]] — Massey 的空间理论为理解高等教育地缘政治中的权力关系（"区域和全球尺度上制度化的权力关系"）提供了核心概念工具（Marginson, 2025, p. 11）
+> - [[Geopolitics of Knowledge]] — Massey 的空间理论为理解高等教育地缘政治中的权力关系（"区域和全球尺度上制度化的权力关系"）提供了[[Big Ideas|核心概念]]工具（Marginson, 2025, p. 11）
 > - **全球化理论** — Massey 引 Stuart Hall（1996）认为全球化是"一个重大的、扩展性的、断裂性的世界历史事件"，它去中心化了欧洲和殖民性，使全球南方不再是欧洲的次要副产品（Marginson, 2025, p. 9）
 > - **人文地理学** — Massey 是 20 世纪末至 21 世纪初英语世界最具影响力的地理学家之一，其 *For Space*（2005）被广泛视为关系性空间理论的经典文本
 

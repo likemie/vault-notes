@@ -11,7 +11,7 @@ tags:
   - theory/social-theory
   - theory/actor-network-theory
 related_concepts:
-  - "[[Relational Space]]"
+  - "[[Posthumanism]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []
@@ -33,7 +33,7 @@ updated: 2026-06-07
 ## 简介
 
 > [!info] 简介
-> Bruno Latour (1947–2022) 是法国社会学家和哲学家，[[Actor-Network Theory|行动者网络理论]]的创始人之一。他与 Woolgar (1979) 合著的《实验室生活》（Laboratory Life）奠定了 ANT 的基础。Latour 的工作旨在克服社会理论的二元论，提出了一种后人类主义的社会观（Beech & Artopoulos, 2015）。
+> Bruno Latour (1947–2022) 是法国社会学家和哲学家，[[Actor-Network Theory|行动者网络理论]]的创始人之一。他与 Woolgar (1979) 合著的《实验室生活》（Laboratory Life）奠定了 ANT 的基础。Latour 的工作旨在克服社会理论的二元论，提出了一种[[Posthumanism|后人类主义]]的社会观（Beech & Artopoulos, 2015）。
 
 ---
 
@@ -55,7 +55,7 @@ updated: 2026-06-07
 > [!note]
 > - Latour, B., & Woolgar, S. (1979). *Laboratory Life: The Construction of Scientific Facts*. Princeton University Press.
 > - Latour, B. (1987). *Science in Action*. Open University Press.
-> - Latour, B. (2005). *Reassembling the Social: An Introduction to Actor-Network Theory*. Oxford University Press.
+> - Latour, B. (2005). *Reassembling the Social: An Introduction to [[Actor-Network Theory]]*. Oxford University Press.
 
 ---
 

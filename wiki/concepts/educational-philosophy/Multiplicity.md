@@ -9,8 +9,10 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Relational Space]]"
   - "[[Conflict of Interest in Research]]"
   - "[[International Education]]"
+  - "[[Big Ideas]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Space-Making]]"
 related_theories: []
@@ -43,7 +45,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs 层级（hierarchy） — 层级只是多样性的一种形式（如 大学排名 中的等级差异），多重性还包括质的差异和外部关系对内部现象的分化效应。例如，各国大学系统因与全球活动的不同连接方式而走向差异化，而非趋同——这一现象被 Marginson 概括为"全球化-分化悖论"（Marginson, 2025, p. 6）
-> - vs 多样性（diversity） — "多样性"通常指类别内既有的差异，"多重性"则强调差异是关系性空间中不断生成和再生成的动态过程，包含不可控的新差异（Marginson, 2025, p. 7）
+> - vs 多样性（diversity） — "多样性"通常指类别内既有的差异，"多重性"则强调差异是[[Relational Space|关系性空间]]中不断生成和再生成的动态过程，包含不可控的新差异（Marginson, 2025, p. 7）
 
 ---
 
@@ -67,7 +69,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放本体论之上，详见 Massey > 核心思想
+> - [[Doreen Massey]] — 多重性是 Massey 空间理论的[[Big Ideas|核心概念]]，建立在其开放本体论之上，详见 Massey > 核心思想
 > - Lefebvre（1991）空间生产理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的开放性和未完成性
 
 ---

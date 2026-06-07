@@ -31,7 +31,6 @@ extracted_to:
   - "[[Qualitative Interview]]"
   - "[[Yajun Zheng]]"
   - "[[Didier Eribon]]"
-  - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Culture as Toolkit]]"
@@ -41,6 +40,7 @@ extracted_to:
   - "[[Marcia Baxter Magolda]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Employability]]"
+  - "[[Pierre Bourdieu]]"
 processed_date: 2026-05-09
 ---
 

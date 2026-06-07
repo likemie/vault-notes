@@ -29,6 +29,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Sean McCusker]]"
+  - "[[Bob Lingard]]"
   - "[[John Hattie]]"
   - "[[Yrjö Engeström]]"
 related_arguments:
@@ -38,6 +39,7 @@ sources:
   - "[[Wrigley_2019_ERE]]"
   - "[[Bainbridge_2022_ROE]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[ResearchED]]"
 confidence: high
@@ -57,13 +59,13 @@ updated: '2026-05-19'
 > - 曾任教于利兹大学（University of Leeds）和爱丁堡大学（University of Edinburgh）
 > - 后任职于诺桑比亚大学（Northumbria University）健康、社区与教育研究学院
 > - 学术活跃期覆盖 2003–2019 年，研究重心从学校改进（*Schools of Hope*, 2003）逐步转向 [[Evidence-Based Education|EBE]] 方法论批判（2018, 2019）
-> - 与 [[Sean McCusker]] 合作进行 EEF Toolkit 的深度案例追踪研究（2019）
+> - 与 [[Sean McCusker]] 合作进行 [[Education Endowment Foundation|EEF]] Toolkit 的深度案例追踪研究（2019）
 
 ## 主要著作
 
 > [!abstract] 主要著作
 > - Wrigley, T. (2003). *Schools of hope: A new agenda for school improvement.* Stoke-on-Trent: Trentham Books.
-> - Wrigley, T., Thomson, P., & Lingard, B. (Eds.) (2012). *Changing schools: Alternative ways to make a world of difference.* London: Routledge.
+> - Wrigley, T., Thomson, P., & [[Bob Lingard|Lingard, B.]] (Eds.) (2012). *Changing schools: Alternative ways to make a world of difference.* London: Routledge.
 > - Wrigley, T. (2016). *Learning in a new key: Engaging with the real.* Bristol: Policy Press.
 > - Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? *British Educational Research Journal*, 44(3), 359–376. — 从[[Critical Realism|批判实在论]]视角系统解构 [[Evidence-Based Education|EBE]] 的方法论三层缺陷
 > - Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126. — 从科学哲学角度解构 EBT 的科学宣称，通过 [[EEF Teaching and Learning Toolkit]] 体育参与案例追踪揭示[[Meta-meta-analysis|元-元分析]]的三级失真
@@ -73,7 +75,7 @@ updated: '2026-05-19'
 > [!info] 核心思想
 > Wrigley 的学术贡献集中在**对 [[Evidence-Based Education|EBE]] 方法论的多层次解构**：
 >
-> 1. **三层批判框架**：Wrigley 独特之处在于不只在 [[Randomised Controlled Trials|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（[[John Hattie|Hattie]] / EEF Toolkit）中进一步失真。
+> 1. **三层批判框架**：Wrigley 独特之处在于不只在 [[Randomised Controlled Trials|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（[[John Hattie|Hattie]] / [[Education Endowment Foundation|EEF]] Toolkit）中进一步失真。
 >
 > 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层本体论（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
@@ -90,7 +92,7 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - [[Evidence-Based Education]] — 补充 Biesta 的哲学批判（三重缺陷）和 Cowen 的制度批判（官僚功能），提供**方法论内部的三层级技术解构**（2018）和**科学哲学层面的"简单科学观"批判**（2019）
 > - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 [[John Hattie|Hattie]] [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford 教学助理被误用、体育参与案例等）
-> - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 EEF Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
+> - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
 > - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
 > - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 [[Yrjö Engeström|Engeström]] 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的本体论框架
 > - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
@@ -103,7 +105,7 @@ updated: '2026-05-19'
 > | Biesta (2010) | 哲学前提（认识论/存在论/实践论） | [[John Dewey\|Dewey]] [[Pragmatism in China\|实用主义]]、Latour 科学社会学 |
 > | Cowen (2019) | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
 > | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials\|RCT]]→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元元分析]]的三级失真）** | **[[Critical Realism\|批判实在论]]（Bhaskar/Sayer/Pawson）** |
-> | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + EEF Toolkit 深度案例追踪** |
+> | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + [[Education Endowment Foundation\|EEF]] Toolkit 深度案例追踪** |
 >
 > 三人从不同角度围攻 EBE：Biesta 说它**在哲学上是错的**，Cowen 说它**在制度上被选择并非因为对**，Wrigley (2018) 说它**在方法论上逐级失真**，Wrigley & McCusker (2019) 补充说它**对科学本身的理解就是片面的**。
 

@@ -12,6 +12,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Multiplicity]]"
   - "[[Champ]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Geopolitics of Knowledge]]：古典地缘政治以领土控制、自然资源和军事战略为中心，源自十九至二十世纪工业时代的政治特征——"领土和自然资源的控制是国家间竞争的关键维度和国民财富与地位的根本构成要素"（Moisio, 2022, p.26）。知识地缘政治则关注关系性空间构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度，不限于领土性框架
+> - vs [[Geopolitics of Knowledge]]：古典地缘政治以领土控制、自然资源和军事战略为中心，源自十九至二十世纪工业时代的政治特征——"领土和自然资源的控制是国家间竞争的关键维度和国民财富与地位的根本构成要素"（Moisio, 2022, p.26）。知识地缘政治则关注[[Relational Space|关系性空间]]构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度，不限于领土性框架
 > - vs 关系性地缘政治（Relational Geopolitics）：古典地缘政治视空间为天然预设的领土容器；关系性地缘政治则将空间理解为通过社会空间关系网络构成的——"空间性不限于领土性"（Kuus, 2017, p.5）——资金、人才和思想的流动通过政治行动被持续再领土化（Moisio, 2022, pp.26–27）
 - vs Massey 的[[Multiplicity|多重性]]地缘政治：Marginson（2025）以 Massey（2005）的关系性空间理论重新定义地缘政治为"区域和全球尺度上制度化的权力关系"，强调地缘政治不仅包含竞争与等级，也包含合作与水平性——可以是双赢也可以是零和。高等教育中的地缘政治关系，尤其在科学领域，比政治、经济和军事关系更具合作性（Marginson, 2025, p. 11）
 > - vs [[Critical Geopolitics]]：古典地缘政治是批判地缘政治学的批判对象——后者揭示前者的"领土偏见"及其与殖民主义、民族主义暴力的历史纠缠。详见 [[Critical Geopolitics#发展脉络]]
@@ -121,7 +122,7 @@ Rizvi (2022) 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治�
 > [!warning]
 > - [[Critical Geopolitics|批判地缘政治学]]者论证古典地缘政治的"领土偏见"不仅在分析上有缺陷，而且在历史上与殖民主义和民族主义暴力深度纠缠（Thompson & Parreira do Amaral, 2022, p.10）。详见 [[Critical Geopolitics#核心命题]]
 > - Rizvi (2022) 指出，在分析当代高等教育的地缘政治动态时，古典地缘政治视角无法捕捉跨国社会想象、中产阶级的教育消费选择，以及国际化市场中意识形态与文化的维度（Rizvi, 2022, pp.90–91）
-> - 在知识密集型资本主义时代，古典地缘政治的[[Analytic Framework|分析框架]]不足以捕捉资金、人才和思想流动的关系性空间动态——但这并不意味着领土权力逻辑已经消失（Moisio, 2022, pp.25–27）
+> - 在知识密集型资本主义时代，古典地缘政治的[[Analytic Framework|分析框架]]不足以捕捉资金、人才和思想流动的[[Relational Space|关系性空间]]动态——但这并不意味着领土权力逻辑已经消失（Moisio, 2022, pp.25–27）
 
 ---
 

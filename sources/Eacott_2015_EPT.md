@@ -8,8 +8,8 @@ extracted_to:
   - "[[Theory Movement in Educational Administration]]"
   - "[[Scott Eacott]]"
   - "[[Thomas Barr Greenfield]]"
-  - "[[Pierre Bourdieu]]"
   - "[[Helen Gunter]]"
+  - "[[Pierre Bourdieu]]"
 processed_date: 2026-05-02
 ---
 

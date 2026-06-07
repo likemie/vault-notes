@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Classical Geopolitics]]"
+  - "[[Relational Space]]"
   - "[[Multiplicity]]"
   - "[[Analytic Framework]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> 方法论民族主义概念由 Wimmer 和 Schiller（2003）在移民研究中系统提出，后由 Beck（2007）扩展至全球化理论。在高等教育研究中，Marginson 和 Rhoades（2002）的"全球-国家-地方能动性"（glonacal agency）框架和 Dale（2005）的"全球教育政策"研究较早挑战了这一预设。Marginson（2025）进一步论证，Massey 的关系性空间理论为超越方法论民族主义提供了最深层的本体论基础（Marginson, 2025, pp. 8–9）。
+> 方法论民族主义概念由 Wimmer 和 Schiller（2003）在移民研究中系统提出，后由 Beck（2007）扩展至全球化理论。在高等教育研究中，Marginson 和 Rhoades（2002）的"全球-国家-地方能动性"（glonacal agency）框架和 Dale（2005）的"全球教育政策"研究较早挑战了这一预设。Marginson（2025）进一步论证，Massey 的[[Relational Space|关系性空间]]理论为超越方法论民族主义提供了最深层的本体论基础（Marginson, 2025, pp. 8–9）。
 
 ---
 

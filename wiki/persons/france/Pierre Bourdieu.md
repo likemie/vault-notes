@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
   - "[[School Leadership]]"
+  - "[[Relational Space]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Disembedding]]"
@@ -33,6 +34,7 @@ related_methods:
   - "[[Ethnography]]"
 related_persons:
   - "[[Yajun Zheng]]"
+  - "[[Bruno Latour]]"
 related_arguments: []
 sources:
   - "[[Eacott_2011_JEAH]]"
@@ -191,7 +193,7 @@ Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）�
 
 ### 社会空间与区分
 
-*La Distinction* 将社会空间理解为由资本总量和资本结构组织的关系性空间。生活风格、品味和文化判断并非纯粹个人偏好，而是社会位置的符号表达。由此，文化不只是“软性”背景，而是参与阶层边界生产的核心机制。
+*La Distinction* 将社会空间理解为由资本总量和资本结构组织的[[Relational Space|关系性空间]]。生活风格、品味和文化判断并非纯粹个人偏好，而是社会位置的符号表达。由此，文化不只是“软性”背景，而是参与阶层边界生产的核心机制。
 
 ---
 
@@ -294,7 +296,7 @@ Schulze-Cleven et al.（2017）在分析高等教育的新政治经济学时，�
 
 - **Luc Boltanski**（前合作者）：脱离批判社会学，转向强调行动者批判能力的"[[Pragmatic Paradigm|实用主义]]社会学"（与 Laurent Thévenot 合作），后尝试在批判方法与[[Pragmatic Paradigm|实用主义]]方法之间建立连接
 - **Jacques Rancière**：在 *Le philosophe et ses pauvres* 中质疑 Bourdieu 的批判社会学存在无限续写支配的风险，忽视了解放的前景
-- **Bruno Latour**：批评 Bourdieu 采取的俯视姿态——将社会行动者视为缺乏[[Reflexivity|反思性]]的单纯信息提供者，而研究者以"上帝视角"占据"无所不在的观察点"
+- **[[Bruno Latour]]**：批评 Bourdieu 采取的俯视姿态——将社会行动者视为缺乏[[Reflexivity|反思性]]的单纯信息提供者，而研究者以"上帝视角"占据"无所不在的观察点"
 - **Marcel Gauchet**：激进否定 Bourdieu 思想，称之为"知识灾难"——"一种机械论和决定论思想的精巧包装，根本不能让人理解一个社会如何运作"
 
 ---

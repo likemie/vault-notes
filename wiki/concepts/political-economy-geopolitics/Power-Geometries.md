@@ -11,8 +11,10 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Big Ideas]]"
   - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
+  - "[[Relational Space]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
@@ -37,7 +39,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 权力几何学（power-geometries）是 [[Doreen Massey]]（2005）空间理论的核心概念，指空间中的开放、封闭和互联不是中立的或自然的地理事实，而是通过社会关系被不平等地建构和分配的。Massey 的论证核心是：问题不在于抽象的空间形式本身，而在于"空间-时间的不断变化的权力几何学"——即谁控制着空间的开放与封闭，谁从跨境流动中获益，谁被固定在原地（Massey, 2005, pp. 93, 166, 171; Marginson, 2025, p. 12）。
+> 权力几何学（power-geometries）是 [[Doreen Massey]]（2005）空间理论的[[Big Ideas|核心概念]]，指空间中的开放、封闭和互联不是中立的或自然的地理事实，而是通过社会关系被不平等地建构和分配的。Massey 的论证核心是：问题不在于抽象的空间形式本身，而在于"空间-时间的不断变化的权力几何学"——即谁控制着空间的开放与封闭，谁从跨境流动中获益，谁被固定在原地（Massey, 2005, pp. 93, 166, 171; Marginson, 2025, p. 12）。
 
 > [!quote]
 > "the constantly changing power-geometries of space-time"（Massey, 2005, pp. 93, 166, 171）
@@ -48,7 +50,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Multiplicity|多重性]] — 多重性强��空间中差异的共存和不可预测性，权力几何学则聚焦于这种差异共存中的不对称权力关系：多重性描述空间"是什么"，权力几何学追问空间"为谁而开放、对谁而封闭"
-> - vs [[Classical Geopolitics|古典地缘政治]] — 古典地缘政治关注领土和军事硬实力，权力几何学关注的是关系性空间中的流动控制权——谁能够自由移动、谁被固定在地方、谁的叙事定义了"中心"和"边缘"
+> - vs [[Classical Geopolitics|古典地缘政治]] — 古典地缘政治关注领土和军事硬实力，权力几何学关注的是[[Relational Space|关系性空间]]中的流动控制权——谁能够自由移动、谁被固定在地方、谁的叙事定义了"中心"和"边缘"
 > - vs 依赖性（dependency） — 依赖性（如依附理论）假定中心对边缘的单向剥削关系，权力几何学则容纳更复杂的不对称——例如，澳大利亚既是英语中心体系中的受益者（靠英语优势和签证政策吸引亚洲学生），又是英美中心体系中的半边缘者（在全球排名话语中没有定义权）
 
 ---
@@ -73,7 +75,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的核心概念，建立在其开放本体论和[[Multiplicity|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
+> - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的[[Big Ideas|核心概念]]，建立在其开放本体论和[[Multiplicity|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
 > - [[Geopolitics of Knowledge]] — 知识地缘政治中的权力关系分析直接使用权力几何学作为分析工具，揭示[[Knowledge Production|知识生产]]和流动中的不对称控制
 
 ---

@@ -12,11 +12,9 @@ tags:
   - theory/globalization
 related_concepts:
   - "[[Network Governance]]"
-  - "[[Relational Space]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Fazal Rizvi]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -34,7 +32,7 @@ updated: 2026-06-07
 ## 简介
 
 > [!info] 简介
-> Bob Lingard 是澳大利亚教育政策学者，与 [[Fazal Rizvi|Rizvi]] 合著了《全球化教育政策》（Globalizing Education Policy, 2010）。他们的工作关注全球化背景下教育政策的网络治理和跨国力量，主张需要新的理论和方法论工具来理解日益网络化的世界（引自 Beech & Artopoulos, 2015）。
+> Bob Lingard 是澳大利亚教育政策学者，与 Rizvi 合著了《全球化教育政策》（Globalizing Education Policy, 2010）。他们的工作关注全球化背景下教育政策的[[Network Governance|网络治理]]和跨国力量，主张需要新的理论和方法论工具来理解日益网络化的世界（引自 Beech & Artopoulos, 2015）。
 
 ---
 

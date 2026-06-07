@@ -10,8 +10,8 @@ tags:
   - theory/institutional-theory
   - level/k12
 related_concepts:
+  - "[[Recontextualization]]"
   - "[[Relational Space]]"
-  - "[[Methodological Nationalism]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods: []
@@ -40,7 +40,7 @@ updated: 2026-06-07
 ## 概念辨析
 
 > [!example]
-> - vs [[World Society Theory|世界社会理论]] — 世界社会理论认为这些共同制度模式从西方扩散到世界其他地方，产生趋同和同构。学校的语法是这一扩散的具体内容之一。但其他理论质疑这些观点，强调本土化或再脉络化的过程（Beech & Artopoulos, 2015）。
+> - vs [[World Society Theory|世界社会理论]] — 世界社会理论认为这些共同制度模式从西方扩散到世界其他地方，产生趋同和同构。学校的语法是这一扩散的具体内容之一。但其他理论质疑这些观点，强调本土化或[[Recontextualization|再脉络化]]的过程（Beech & Artopoulos, 2015）。
 > - vs [[Relational Space|关系性空间]] — 从关系性空间视角来看，学校的语法不是在某个地点生产然后被转移到另一个地点的，而是在不同地点之间的流通过程中被建构的（Beech & Artopoulos, 2015）。
 
 ---

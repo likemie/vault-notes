@@ -17,6 +17,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Research Problem]]"
   - "[[Progressive Neoliberalism]]"
+  - "[[Big Ideas]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Cultural Political Economy]]"
@@ -57,7 +59,7 @@ updated: '2026-05-18'
 
 > [!question]
 
-当代知识密集型资本主义在什么意义上是一种地缘政治经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、人力资本、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的关系性空间过程（Moisio, 2022, p.21）。
+当代知识密集型资本主义在什么意义上是一种地缘政治经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、人力资本、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程（Moisio, 2022, p.21）。
 
 
 ## 理论框架
@@ -189,7 +191,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 - 国家在知识经济化过程中扮演关键角色——通过选择性空间政策（spatial [[Selectivity]]）、创业型城市化（entrepreneurial urbanisation）和[[Geopolitical Subject|地缘政治主体]]生产（crafting of geopolitical subjects）来中介空间分选过程（Moisio, 2022, pp.28–32）
 - [[Progressive Neoliberalism|进步新自由主义]]（progressive neoliberalism）作为一种主要的"硅谷世界观"——强调无国界世界——推动了过去三十年的知识经济化。但这一意识形态政治形态可能正在消退，替代性的地缘政治世界观正在浮现（Moisio, 2022, pp.31–32）
 
-> [!info] 核心概念框架
+> [!info] [[Big Ideas|核心概念]]框架
 > 知识经济化中的"知识"有四种含义：(1) 思想和创新在创造价值中的作用；(2) 专家对知识密集型资本主义本身的[[Knowledge Production|知识生产]]（履行性知识）；(3) 对政治社区作为知识经济体的表现和发展数据的持续收集；(4) 社会的普遍数据化——数据成为关于人类行为、需求和欲望的有价值信息池（Moisio, 2022, p.25）
 
 

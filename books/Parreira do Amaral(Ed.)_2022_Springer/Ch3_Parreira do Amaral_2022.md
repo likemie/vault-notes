@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Global Regionalisms]]"
   - "[[International Education Hubs]]"
-  - "[[Classical Geopolitics]]"
   - "[[Global Education Industry]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Horizon 2020 SSH Integration]]"
@@ -14,9 +13,10 @@ extracted_to:
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Jane Knight]]"
   - "[[Christiane Thompson]]"
-  - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Critical Geopolitics]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---
