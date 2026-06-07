@@ -20,9 +20,12 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 sources:
   - "[[Zhao_2017_JEC]]"
+  - "[[Zhao_2020_JEC]]"
 related_facts:
   - "[[PISA]]"
   - "[[No Child Left Behind Act 2001]]"

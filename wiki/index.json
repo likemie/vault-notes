@@ -6533,8 +6533,8 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Rasch Measurement.md",
     "aliases": [
-      "拉施测量",
-      "Rasch"
+      "Rasch模型",
+      "Rasch 模型"
     ]
   },
   {
@@ -8684,6 +8684,17 @@
       "SDGs",
       "2030 Agenda",
       "可持续发展目标"
+    ]
+  },
+  {
+    "title": "Baby PISA",
+    "type": "fact",
+    "path": "wiki/facts/global/Baby PISA.md",
+    "aliases": [
+      "婴儿 PISA",
+      "Baby PISA",
+      "International Early Learning and Child Wellbeing Study",
+      "国际早期学习和儿童福祉研究"
     ]
   },
   {

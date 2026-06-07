@@ -15,7 +15,6 @@ extracted_to:
   - "[[Central Question]]"
   - "[[Coherence in Writing]]"
   - "[[Construct Validity in Quantitative Measurement]]"
-  - "[[Construct]]"
   - "[[Constructivist Paradigm]]"
   - "[[Cover Story]]"
   - "[[Crotty's Four Levels of Research Design]]"
@@ -143,6 +142,7 @@ extracted_to:
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Construct]]"
 processed_date: 2026-05-30
 ---
 
