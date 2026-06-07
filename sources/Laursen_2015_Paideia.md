@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Effective Teaching]]"
   - "[[Feedback]]"
-  - "[[Individualised Instruction]]"
   - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[SFI Report]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[Geert Hofstede]]"
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Individualised Instruction]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Visible Learning]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[John Hattie]]"
   - "[[Effect Size]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

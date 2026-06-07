@@ -7,10 +7,10 @@ extracted_to:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
-  - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Intervention Research]]"
 processed_date: 2026-05-05
 ---
 

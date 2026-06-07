@@ -16,8 +16,8 @@ extracted_to:
   - "[[Bounded Rationality]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[John Hattie]]"
   - "[[Meta-analysis]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

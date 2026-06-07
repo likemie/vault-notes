@@ -3,7 +3,6 @@ citation: "O'Connor, P. (2020). Visible Learning and whole language: revisiting 
 extracted_to:
   - "[[Language Experience Approach]]"
   - "[[Visible Learning]]"
-  - "[[Whole Language]]"
   - "[[Simple View of Reading]]"
   - "[[Rose Report]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -11,10 +10,11 @@ extracted_to:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[John Hattie]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Whole Language]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

@@ -3,13 +3,13 @@ citation: "Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant 
 extracted_to:
   - "[[Visible Learning]]"
   - "[[Confidence Interval]]"
-  - "[[Publication Bias]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[John Hattie]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Publication Bias]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

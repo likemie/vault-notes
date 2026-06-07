@@ -19,6 +19,7 @@ related_concepts:
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
+  - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
@@ -28,8 +29,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
-related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+related_arguments: []
 sources:
   - "[[Higgins_2016_RE]]"
   - "[[Wolf_2020_JREE]]"
@@ -58,6 +58,9 @@ updated: '2026-05-18'
 >
 > > 例：假设一个教育科技公司委托评估其阅读项目。如果结果显示[[Effect Size|效应量]]接近零，公司可能选择不发布该报告；与此同时，一个显示正面结果的独立研究即使效应量很小也更可能被期刊接受。长期来看，文献中该项目的平均效应量将被人为抬高。
 
+> [!warning] 文件抽屉问题的最早案例
+> 1940 年，Pratt 和 Rhine 在杜克大学发表了对 145 项超感知觉实验的[[Systematic Review|系统性综述]]。为了证明分析的稳健性，他们估计了未发表论文对总体汇总效果的影响，这是今天所说的文件抽屉问题最早的系统性检测。然而他们基于汇总证据得出结论认为超感知觉确实存在，后世对此持怀疑态度，最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按照当时标准进行严格分析也可能无法发现（Higgins, 2016, p.35）。
+
 
 > [!abstract] Vevea-Hedges 权重函数模型
 > Wolf et al. (2020, p. 438) 使用 Vevea & Hedges (1995) 权重函数模型估计经发表偏倚校正后的平均效应量。该模型的逻辑是：根据效应量的 p 值区间赋予不同权重，模拟不同显著水平下的发表概率差异，然后通过似然比检验（likelihood ratio test）判断校正模型是否比原始模型更好地拟合数据。
@@ -83,17 +86,22 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1995** — Sterling, Rosenbaum & Weinkam 系统记录"文件抽屉效应"
+> - **1940** — Pratt 和 Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中，首次估计了未发表论文对总体汇总效果的影响，这是文件抽屉问题最早的系统性检测尝试（Higgins, 2016, p.35）
+> - **1995** — Sterling, Rosenbaum & Weinkam 系统记录文件抽屉效应
 > - **1995** — Vevea & Hedges 提出权重函数模型用于[[Meta-analysis|元分析]]中发表偏倚的统计校正
 > - **2016** — Polanin, Tanner-Smith & Hennessy 发表关于已发表与未发表[[Effect Size|效应量]]差异的元综述（meta-review）
 > - **2020** — Wolf et al. 首次将 Vevea-Hedges 校正应用于开发者 vs. 独立研究的效应量比较
 > - **2023** — Kraft 在教育 [[Randomised Controlled Trials|RCT]] 效应量经验分布讨论中指出，发表偏倚意味着教育干预"失败"（效应量接近零）的比例可能高于已发表文献显示的 36%（Kraft, 2023, pp.183, 186）
+
+---
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
 > - **vs [[Developer Effect]]** — 发表偏倚是开发者效应的一个子机制，估计贡献约 66%，但不是全部解释
 > - **vs [[Researcher Degrees of Freedom]]** — 研究者自由度关注数据分析阶段的选择性决策，发表偏倚关注发表阶段的选择性传播；两者可以同时存在并叠加
+
+---
 
 ## 争议与批评
 
@@ -113,14 +121,19 @@ updated: '2026-05-18'
 >
 > 这一提案的独特之处在于它将发表偏倚的解决方案定位于**基础设施层面**（集中式开放数据库），而非仅依赖[[Preregistration|预注册]]或期刊政策等程序性改革。Stanat（2012）的 DFG 备忘录也呼吁在教育研究中提供和使用[[Quantitative Research|定量研究]]数据。
 
+---
+
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
 > - [[Creation of REES]] — [[Preregistration|预注册]]制度被设计用于减少发表偏倚和选择性报告
 > - [[ESSA 2015 Evidence Standards]] — ESSA 要求采用有证据支持的项目，间接增加了开发者的发表偏倚激励
 
+---
+
 ## 来源
 
+- [[Higgins_2016_RE]]
 - [[Wolf_2020_JREE]]
 - [[Wecker_2016_ZfE]]
 - [[Kraft_2023_ER]]

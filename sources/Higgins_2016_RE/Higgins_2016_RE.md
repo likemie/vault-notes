@@ -6,6 +6,11 @@ extracted_to:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Individualised Instruction]]"
+  - "[[Whole Language]]"
+  - "[[Publication Bias]]"
+  - "[[Intervention Research]]"
+  - "[[John Hattie]]"
 processed_date: 2026-06-08
 ---
 
