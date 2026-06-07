@@ -571,12 +571,9 @@
     "path": "wiki/concepts/curriculum/Knowledge-that and Know-how-to.md",
     "aliases": [
       "知其然",
-      "知其所以",
       "知其所用",
-      "知识-that 与知道如何做",
       "knowledge-that",
       "know-how-to",
-      "know-with",
       "propositional knowledge",
       "applied knowledge"
     ]
@@ -584,7 +581,7 @@
   {
     "title": "Mātauranga Māori",
     "type": "concept",
-    "path": "wiki/concepts/curriculum/Mātauranga Māori.md",
+    "path": "wiki/concepts/curriculum/Mātauranga Māori.md",
     "aliases": [
       "毛利知识体系",
       "matauranga Maori",

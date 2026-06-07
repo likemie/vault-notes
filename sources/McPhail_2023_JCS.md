@@ -7,12 +7,12 @@ extracted_to:
   - "[[Social Realism]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Basil Bernstein]]"
-  - "[[Argument_McPhail_2023_JCS]]"
-  - "[[Curriculum Design Coherence Model]]"
-  - "[[Knowledge-that and Know-how-to]]"
   - "[[Mātauranga Māori]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[The New Zealand Curriculum]]"
+  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Curriculum Design Coherence Model]]"
+  - "[[Knowledge-that and Know-how-to]]"
 processed_date: 2026-06-07
 ---
 

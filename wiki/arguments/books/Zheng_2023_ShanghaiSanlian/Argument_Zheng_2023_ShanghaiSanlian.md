@@ -46,6 +46,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Constructivist Paradigm]]"
   - "[[Internal Validity]]"
+  - "[[Knowledge-that and Know-how-to]]"
   - "[[Self-Authorship]]"
   - "[[Quality Education]]"
   - "[[The Shock of the Elite]]"
@@ -694,7 +695,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 从上表可归纳出郑雅君（2023）研究工具设计中四条贯穿性的操作化策略：
 
-1. **量化锚点 + 质性展开**：问卷先锁定关键指标的位置（归属感值、朋友数、目标排序），访谈再追问"为什么是这个值""这意味着什么"——实现从"知其然"到"知其所以然"的跨越。
+1. **量化锚点 + 质性展开**：问卷先锁定关键指标的位置（归属感值、朋友数、目标排序），访谈再追问"为什么是这个值""这意味着什么"——实现从"[[Knowledge-that and Know-how-to|知其然]]"到"知其所以然"的跨越。
 
 2. **多指标三角互证**：同一理论概念（如社交融入）同时通过问卷量化指标（交友数量五档、师生交流频率五档）和访谈质性评价（对师生的情感描述）测量——二者交叉对照，保障内部效度。
 
