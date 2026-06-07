@@ -8,8 +8,8 @@ extracted_to:
   - "[[New Zealand National Standards]]"
   - "[[Class Size]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-06
 ---
 

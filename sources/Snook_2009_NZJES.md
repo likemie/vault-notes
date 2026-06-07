@@ -9,9 +9,9 @@ extracted_to:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Class Size]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-03
 ---
 

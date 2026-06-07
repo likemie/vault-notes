@@ -8,8 +8,8 @@ extracted_to:
   - "[[Class Size]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-06
 ---
 

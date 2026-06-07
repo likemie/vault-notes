@@ -6,10 +6,10 @@ extracted_to:
   - "[[Publication Bias]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-03
 ---
 

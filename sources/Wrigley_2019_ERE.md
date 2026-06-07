@@ -14,9 +14,9 @@ extracted_to:
   - "[[Critical Realism]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Adrian Simpson]]"
-  - "[[Effect Size]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-01
 ---
 

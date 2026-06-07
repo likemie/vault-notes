@@ -11,10 +11,10 @@ extracted_to:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-03
 ---
 

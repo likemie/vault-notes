@@ -5,6 +5,7 @@ extracted_to:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-06-08
 ---
 

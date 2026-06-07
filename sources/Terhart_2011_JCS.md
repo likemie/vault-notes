@@ -7,10 +7,10 @@ extracted_to:
   - "[[Jacob Cohen]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-03
 ---
 

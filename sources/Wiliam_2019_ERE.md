@@ -14,8 +14,8 @@ extracted_to:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
   - "[[Class Size]]"
   - "[[Adrian Simpson]]"
-  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-01
 ---
 

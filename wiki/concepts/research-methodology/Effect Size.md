@@ -63,12 +63,13 @@ related_arguments:
 sources:
   - "[[Snook_2009_NZJES]]"
   - "[[Hattie_2010_NZJES]]"
-  - "[[Hattie_2015_Paideia]]"
   - "[[Terhart_2011_JCS]]"
   - "[[ONeill_2012_NZJES]]"
+  - "[[Hattie_2015_Paideia]]"
   - "[[Allerup_2015_Paideia]]"
   - "[[Qvortrup_2015_Paideia]]"
   - "[[Pampaka_2016_IJRME]]"
+  - "[[Higgins_2016_RE]]"
   - "[[Wecker_2016_ZfE]]"
   - "[[Bergeron_2017_MJE]]"
   - "[[Simpson_2017_JEP]]"
@@ -78,9 +79,9 @@ sources:
   - "[[Wrigley_2019_ERE]]"
   - "[[OConnor_2020_AJLL]]"
   - "[[Wolf_2020_JREE]]"
+  - "[[Ross_Morrison_2021_ROE]]"
   - "[[Kraft_2023_ER]]"
   - "[[Wadhwa_2024_RER]]"
-  - "[[Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -90,9 +91,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 效应量（Effect Size, ES）是[[Evidence-Based Education|证据本位教育]]研究中用于量化干预措施效果的标准化统计指标。它的计算方式是干预组与对照组之间结果差异除以标准差（standard deviation），旨在使来自不同研究、使用不同测量工具的结果可相互比较。在 [[EEF Teaching and Learning Toolkit]] 中，效应量被进一步转换为"额外学习月数"（additional months of progress）。
->
-> > "Effect size (ES) is assumed to be a measure of how much more effective the treatment or intervention is than the control group's experience."（Wrigley & McCusker, 2019, p. 118）
+> 效应量是[[Evidence-Based Education|证据本位教育]]研究中用于量化干预措施效果的标准化统计指标。它的计算方式是干预组与对照组之间结果差异除以标准差，旨在使来自不同研究、使用不同测量工具的结果可相互比较。在[[EEF Teaching and Learning Toolkit]]中，效应量被进一步转换为"额外学习月数"（Wrigley & McCusker, 2019, p. 118）。
 >
 > 效应量是[[Meta-analysis|元分析]]的核心分析单位。[[Gene Glass]] 于 1976 年提出元分析概念时，将效应量作为跨研究比较的标准化工具。[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名 150+ 教学干预，使这一统计概念进入全球教育政策和实践话语。
 >
@@ -108,6 +107,8 @@ updated: '2026-05-23'
 > 4. 效应量为什么在聚合、排名和政策使用中容易出问题。
 > 5. 如何更谨慎地使用效应量，而不是把它当作教育价值的单一排名。
 
+---
+
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
@@ -116,6 +117,8 @@ updated: '2026-05-23'
 > - **vs 原始分数差异（Raw Score Difference）** — 原始分数差异保留了原始测量单位，效应量通过除以标准差消除了单位——这使跨研究比较成为可能，但也抹除了效果的实际教育意义。
 > - **vs [[Intent-to-Treat Analysis|ITT]] 效应** — ITT 按原始[[Random Assignment|随机分配]]分析（无论实际接受与否），反映干预可获得性而非实际接受效果；效应量本身不区分这两种估计，但所基于的研究设计决定了其政策含义（Pampaka et al., 2016, p.233）。
 > - **vs MDES** — 效应量是事后度量（干预实际产生了多大效果），MDES 是事前设计参数（研究能够检测到多大效果），详见[[#最小可检测效应量（MDES）]]。
+
+---
 
 ## 技术含义与解释框架
 
@@ -216,6 +219,8 @@ Pampaka et al.（2016, p.233）介绍了与效应量密切相关的另一个概�
 - MDES 越小，研究精度越高；精度提高意味着可检测到更小的干预效果
 - 与标准效应量的区别：效应量衡量干预"实际产生了多大的效果"（事后），MDES 描述研究"能够检测到多大的效果"（事前设计参数）
 
+---
+
 ## 效应量为何会变化
 
 > [!success] 设计与测量因素
@@ -267,6 +272,14 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 
 Wolf et al.（2020）发现由项目开发者委托或实施的研究平均效应量比独立评估高 0.141 SD（全样本），或约为独立研究的 1.8 倍。详见 [[Developer Effect]]。
 
+### 干预定义的模糊性
+
+同一术语在不同研究中可能涵盖实质不同的干预，使效应量的聚合失去意义。Higgins（2016, pp.37–38）以"家庭作业"为例说明这一问题：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业（实际在学校）、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业，这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的，而是表明当人们试验作业是否有效时大体答案是肯定的。要做出实践判断，还需要知道包含的是哪类作业研究、学生年龄、频率和规律性等信息。
+
+这一问题与"苹果和橙子"批评直接相关：元分析聚合的不是同一种干预，而是同一标签下的不同实践。
+
+---
+
 ## 经验分布与数据库发现
 
 > [!success] 经验发现
@@ -279,6 +292,8 @@ Wolf et al.（2020）发现由项目开发者委托或实施的研究平均效�
 > - Kraft（2023）的扩展样本显示，教育 RCT 效应量分布的中位数约为 0.10；美国教育部委托且要求提交报告的研究子样本中位数仅为 0.03，说明发表文献中的效应量分布可能因[[Publication Bias|发表偏倚]]和大规模政府资助试验特征而偏向较大正值（Kraft, 2023, p.186）
 > - 141 项大型教育 RCT 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零；这说明即使在严格研究中，教育干预对标准化成就结果的平均影响也常很小（Ross & Morrison, 2021, p.112）。
 > - 95% 的效应量为正——"几乎所有被纳入的因素似乎都有正面效应，只是程度不同"（Terhart, 2011, p.427）
+
+---
 
 ## 争议与批评
 
@@ -485,6 +500,8 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 
 **实践者决策信息不足**：这里的问题不是效应量计算错误，而是效应量作为消费信息不完整。[[School Leadership|学校领导]]在采购项目时需要知道成本、实施要求、教师和学生使用体验、研究情境是否相似，以及对照组质量如何；单独看到一个效应量或显著性结论，仍不足以判断项目是否适合本地学校（Ross & Morrison, 2021, pp.120-121）。
 
+---
+
 ## 谨慎使用原则
 
 
@@ -511,18 +528,25 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 
 **Kraft（2023）的经验分布替代方案**：以教育 [[Randomised Controlled Trials|RCT]] 效应量的经验分布（而非 Cohen 的 0.2/0.5/0.8 通用锚点）作为解释参照系，同时以 36% 的效应量 < 0.05 这一"失败频率"作为最重要的解释基准。详见上方[[#Kraft 的教育 RCT 经验基准]]。
 
+---
+
 ## 概念演变
 
 > [!note-] 时间线
 > 时间线只作为辅助背景：效应量先是统计综合工具，后来进入教育干预排名和政策传播，随后围绕解释边界、聚合方式和政策用途产生系统争议。
+> - **1964** — Benjamin Bloom 在 Stability and Change in Human Characteristics 中呈现了相关系数的聚合图表，其"两个标准差问题"（寻找与一对一辅导同样有效的小组教学方法）以标准差单位表述，为效应量在教育研究中的使用提供了早期范例（Higgins, 2016, p.37）。
+> - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。[[Gene Glass|Glass]] 本人承认 Rosenthal 发展了效应量的基础度量（Higgins, 2016, p.37）。
 > - **1969** — [[Jacob Cohen]] 出版 *[[Power Analysis|statistical power analysis]] for the Behavioral Sciences* 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
-> - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具。
+> - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具（Higgins, 2016, pp.36–37）。
+> - **1980** — Cooper 和 Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据（Higgins, 2016, p.32）。
 > - **1988** — Cohen 出版 *Statistical Power Analysis* 第 2 版，以身高类比等直观方式解释效应量的实质含义（Terhart, 2011, p.427）。
 > - **2009** — [[John Hattie]] 出版 *[[Visible Learning]]*，综合 800+ 元分析和 50,000+ 研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践话语。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以效应量转换为“额外学习月数”的格式传播教育干预证据。
 > - **2017-2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（Simpson, 2017, 2018）。
 > - **2019** — Simpson 用“教一个匈牙利单词”思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单（Simpson, 2019, pp.100-106; Wrigley & McCusker, 2019, pp.118-123; Wiliam, 2019, p.11）。
 > - **2020-2023** — Kraft 以教育 [[Randomised Controlled Trials|RCT]] 中标准化学业成绩结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一“失败频率”应成为解释政策相关性的核心参照（Kraft, 2023, pp.183-184）。
+
+---
 
 ## 相关案例／政策
 
@@ -543,16 +567,19 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 
 - [[Argument_Ross_Morrison_2021_ROE]] — 集中说明效应量和[[Statistical Significance|统计显著性]]为什么必须与成本、实施、用户体验和地方语境一起解释（Ross & Morrison, 2021, pp.120-121）。
 
+---
+
 ## 来源
 
 - [[Snook_2009_NZJES]]
 - [[Hattie_2010_NZJES]]
-- [[Hattie_2015_Paideia]]
 - [[Terhart_2011_JCS]]
 - [[ONeill_2012_NZJES]]
+- [[Hattie_2015_Paideia]]
 - [[Allerup_2015_Paideia]]
 - [[Qvortrup_2015_Paideia]]
 - [[Pampaka_2016_IJRME]]
+- [[Higgins_2016_RE]]
 - [[Wecker_2016_ZfE]]
 - [[Bergeron_2017_MJE]]
 - [[Simpson_2017_JEP]]
@@ -562,6 +589,6 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 - [[Wrigley_2019_ERE]]
 - [[OConnor_2020_AJLL]]
 - [[Wolf_2020_JREE]]
+- [[Ross_Morrison_2021_ROE]]
 - [[Kraft_2023_ER]]
 - [[Wadhwa_2024_RER]]
-- [[Ross_Morrison_2021_ROE]]
