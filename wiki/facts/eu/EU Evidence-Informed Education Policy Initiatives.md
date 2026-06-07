@@ -30,6 +30,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EPPI-Centre]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Campbell Collaboration]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Institute for Effective Education]]"
@@ -82,7 +83,7 @@ updated: 2026-05-23
 > [!example] 实施情况
 > 欧洲层面的实施主要表现为网络、报告和知识中介机制，而不是统一的欧盟教育项目清单。EIPPEE 调查显示，各国尝试改善研究证据在政策场景中的使用，活动水平较高、路径多样，但跨欧洲层面的协作和协调仍较少（Pellegrini & Vivanet, 2021, p.30）。
 
-在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 [[EPPI-Centre]] 等研究中心；EEF 则以政府资助的独立慈善组织身份生成和转化学校证据（Pellegrini & Vivanet, 2021, p.31）。
+在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 [[EPPI-Centre]] 等研究中心；[[Education Endowment Foundation|EEF]] 则以政府资助的独立慈善组织身份生成和转化学校证据（Pellegrini & Vivanet, 2021, p.31）。
 
 相关证据机构分工写在各自条目中：[[Campbell Collaboration]]、[[Danish Clearinghouse for Educational Research]]、[[Institute for Effective Education]]、[[Swedish Institute for Educational Research]] 和 [[Top Institute for Evidence-Based Education Research]] 偏向证据生成、评价或综述；[[Centre for the Use of Research and Evidence in Education]] 与 [[Evidence-Based Teachers Network]] 偏向证据传播、教师网络和实践者培训（Pellegrini & Vivanet, 2021, pp.32-34）。
 

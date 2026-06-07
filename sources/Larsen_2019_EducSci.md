@@ -5,7 +5,6 @@ extracted_to:
   - "[[Bildung]]"
   - "[[Blind Spot in Observation]]"
   - "[[Incarnation-Extension Dialectics]]"
-  - "[[Learnification]]"
   - "[[Structural Coupling]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Niklas Luhmann]]"
   - "[[John Hattie]]"
   - "[[Luhmann's Systems Theory]]"
+  - "[[Learnification]]"
 processed_date: 2026-05-04
 ---
 

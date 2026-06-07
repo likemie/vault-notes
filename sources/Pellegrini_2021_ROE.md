@@ -1,7 +1,6 @@
 ---
 citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25-45. https://doi.org/10.1177/2096531120924670"
 extracted_to:
-  - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Class Size]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
@@ -10,8 +9,6 @@ extracted_to:
   - "[[Reusability Paradox]]"
   - "[[Technology Infusion]]"
   - "[[Danish Clearinghouse for Educational Research]]"
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[EU Key Competences for Lifelong Learning]]"
   - "[[French Class Size Reduction]]"
   - "[[Campbell Collaboration]]"
   - "[[Azione LIM]]"
@@ -22,6 +19,9 @@ extracted_to:
   - "[[EPPI-Centre]]"
   - "[[Evidence-Based Teachers Network]]"
   - "[[Institute for Effective Education]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[EU Key Competences for Lifelong Learning]]"
 processed_date: 2026-05-23
 ---
 

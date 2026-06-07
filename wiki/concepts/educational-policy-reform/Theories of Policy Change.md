@@ -14,6 +14,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Innovation Ecosystem]]"
   - "[[Network Governance]]"
+  - "[[Lifelong Learning]]"
   - "[[Selectivity]]"
 related_theories: []
 related_methods: []
@@ -103,7 +104,7 @@ updated: 2026-05-18
 
 ### 官方变革理论的简化与窄化
 
-在南欧和东欧，终身学习专业人员将欧盟的变革理论简化为"帮助青年尽快找到工作"的就业工具。这一"就业优先"（employment-first）理解与欧盟官方变革理论中"充分就业"的目标部分一致，但完全失去了其中个人发展和公民参与的维度（Rambla, 2022, p.174）。
+在南欧和东欧，[[Lifelong Learning|终身学习]]专业人员将欧盟的变革理论简化为"帮助青年尽快找到工作"的就业工具。这一"就业优先"（employment-first）理解与欧盟官方变革理论中"充分就业"的目标部分一致，但完全失去了其中个人发展和公民参与的维度（Rambla, 2022, p.174）。
 
 ### 自下而上的替代变革理论
 

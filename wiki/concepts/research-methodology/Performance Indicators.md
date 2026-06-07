@@ -21,6 +21,7 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Causality]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Lifelong Learning]]"
 related_theories:
   - "[[Sociology of Measurement]]"
 related_methods: []
@@ -143,7 +144,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 - 意大利和西班牙的第二机会学校展示了自下而上的创新路径：非营利组织从"补救性"转向"教育性"变革理论，在加泰罗尼亚形成了"先创建模式→再申请公共支持"的新型政治关系（p.173）
 
 > [!info]- 核心数据
-> - YOUNG_ADULLLT 项目覆盖 16 个欧盟地区，访谈 168 名终身学习政策专家（Rambla, 2022, p.172）
+> - YOUNG_ADULLLT 项目覆盖 16 个欧盟地区，访谈 168 名[[Lifelong Learning|终身学习]]政策专家（Rambla, 2022, p.172）
 > - 区域创新记分牌显示北欧、德语区和西大西洋区域为"创新领导者"，南欧和东欧为"一般创新者"或"温和创新者"（Hollanders & Es-Sadki, 2017; Rambla, 2022, p.174）
 
 ## 争议与批评
@@ -156,7 +157,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 ### 线性简化与窄化效应
 
-绩效指标倾向于将复杂的政策现实简化为若干可量化指标（如研发支出、专利数量）。这种简化不仅忽视区域在创新类型和制度背景上的差异，还通过"定义什么算作创新"来排斥无法被量化的创新形式。在终身学习领域，指标系统性地优先就业匹配指标，边缘化个人发展和公民参与维度（Rambla, 2022, p.174）。
+绩效指标倾向于将复杂的政策现实简化为若干可量化指标（如研发支出、专利数量）。这种简化不仅忽视区域在创新类型和制度背景上的差异，还通过"定义什么算作创新"来排斥无法被量化的创新形式。在[[Lifelong Learning|终身学习]]领域，指标系统性地优先就业匹配指标，边缘化个人发展和公民参与维度（Rambla, 2022, p.174）。
 
 ### 同质化效应与区域不平等的固化
 
@@ -171,7 +172,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 > [!example]
 > - [[Innovation Union]] — 以区域创新记分牌为绩效指标监测工具的 EU 旗舰政策
 > - [[Europe 2020 Strategy]] — 以绩效指标驱动的基准管理为核心治理机制的 EU 十年战略
-> - [[EU Skills Agenda]] — 以终身学习相关绩效指标为监测工具的 EU 技能政策
+> - [[EU Skills Agenda]] — 以[[Lifelong Learning|终身学习]]相关绩效指标为监测工具的 EU 技能政策
 > - [[Youth Guarantee Scheme]] — 以"4 个月内就业/教育/培训/学徒"为绩效指标的 EU 青年政策
 > - [[Education at a Glance]] — OECD 年度旗舰指标出版物
 > - [[International Indicators of Education Systems]] — OECD [[International Education|国际教育]]指标开发项目

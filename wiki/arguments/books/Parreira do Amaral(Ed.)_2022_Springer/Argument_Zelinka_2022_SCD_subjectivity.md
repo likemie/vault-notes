@@ -15,6 +15,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
+  - "[[Lifelong Learning]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
 related_theories: []
@@ -97,7 +98,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 关键推论在这一步：在这种"生产文化"中，被生产的不是技能和素养本身，而是基于受期望能力的**主体性**——即自我引导模式——成为生产的来源（Reed, 2009, p.33）。主体的"意愿"和"激情"成为新的生产要素。主体只有在展现对增长的激情和加速意愿时才不被弃置（Vostal, 2016）。
 
-这一步同时生产了其反面——不愿主体被标记为失业者、可弃置个体（Oksala, 2015），成为终身学习话语的政策干预对象（Parreira do Amaral & Zelinka, 2019, p.409）。
+这一步同时生产了其反面——不愿主体被标记为失业者、可弃置个体（Oksala, 2015），成为[[Lifelong Learning|终身学习]]话语的政策干预对象（Parreira do Amaral & Zelinka, 2019, p.409）。
 
 **张力二：结果导向素养 vs 品质本位素养**
 

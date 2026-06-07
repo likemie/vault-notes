@@ -9,7 +9,6 @@ extracted_to:
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Capitalism]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[New Public Management]]"
   - "[[Orientalism]]"
   - "[[Australia in the Asian Century White Paper]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Fazal Rizvi]]"
   - "[[Network Society]]"
   - "[[Critical Geopolitics]]"
+  - "[[Knowledge-Based Economy]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

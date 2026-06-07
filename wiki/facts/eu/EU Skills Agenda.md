@@ -20,6 +20,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
+  - "[[Lifelong Learning]]"
   - "[[Neocorporatism]]"
   - "[[Selectivity]]"
 related_theories: []
@@ -88,7 +89,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（n=168，16 个欧盟地区）揭示了 Skills Agenda 在地方层面的差异化接受（Rambla, 2022, p.172–173）：
 
-- **奥地利和德国**：地方专业人员以"学徒制系统"的变革理论来理解和实施终身学习政策。政策网络包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
+- **奥地利和德国**：地方专业人员以"学徒制系统"的变革理论来理解和实施[[Lifelong Learning|终身学习]]政策。政策网络包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
 - **芬兰**：以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被视为对所有人开放的人类发展服务，而非仅针对失业青年的就业工具（p.173）
 - **苏格兰**：采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
 
@@ -104,13 +105,13 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方变革理论内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
 > [!info]- 核心数据
-> - [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名终身学习政策专家访谈（Rambla, 2022, p.172）
+> - [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名[[Lifelong Learning|终身学习]]政策专家访谈（Rambla, 2022, p.172）
 > - 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（p.174）
 
 ## 争议与评论
 
 > [!warning]
-> - **就业优先偏向**：除芬兰外，大多数欧盟成员国的终身学习专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励（Rambla, 2022, p.174）
+> - **就业优先偏向**：除芬兰外，大多数欧盟成员国的[[Lifelong Learning|终身学习]]专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励（Rambla, 2022, p.174）
 > - **绩效指标的窄化效应**：EUROSTAT 的教育培训指标只能捕捉各年龄段人群的"在学状态"，无法反映非正式学习、公民教育和整个生命历程中学习的丰富性。指标在定义"教育培训体系"的同时也窄化了终身学习的内涵（Rambla, 2022, p.170, 174–175）。详见 [[Performance Indicators]]
 > - **治理协调挑战**：Skills Agenda 与 [[Innovation Union]] 通过模糊此前分离的政策领域边界，为代表布鲁塞尔、国家和次国家政府的行动者带来了大量协调问题——这些在政策设计层面可能未被充分预见（Rambla, 2022, p.169）
 
@@ -118,7 +119,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 > [!tip]
 > - [[Performance Indicators]] — EUROSTAT 区域教育指标是 Skills Agenda 的核心治理工具
-> - [[Selectivity]] — Skills Agenda 在终身学习中系统性地优先就业维度
+> - [[Selectivity]] — Skills Agenda 在[[Lifelong Learning|终身学习]]中系统性地优先就业维度
 > - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事
 > - [[Network Governance]] — Skills Agenda 在地方层面的实施呈现官僚制与网络治理的混合模式
 > - [[Youth Guarantee Scheme]] — 将教育与就业衔接制度化的配套政策

@@ -8,11 +8,11 @@ extracted_to:
   - "[[Psychologisation]]"
   - "[[Schmittian Sovereignty]]"
   - "[[Citizenship and Social Development]]"
-  - "[[Liberal Studies]]"
   - "[[My Pledge to Act]]"
-  - "[[National Education]]"
   - "[[National Security Law]]"
   - "[[Youth Development Blueprint]]"
+  - "[[Liberal Studies]]"
+  - "[[National Education]]"
 processed_date: 2026-05-25
 ---
 

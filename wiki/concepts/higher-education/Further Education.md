@@ -12,6 +12,7 @@ tags:
 - region/global
 - subject/comparative-education
 related_concepts:
+  - "[[Lifelong Learning]]"
   - "[[Corporate Education]]"
   - "[[Externalization]]"
 related_theories: []
@@ -36,14 +37,14 @@ updated: '2026-05-18'
 > [!info]
 > 继续教育（further education）是一种非正规（non-formal）的中学后教育形式，主要发生在学校和大学等结构化教育系统之外。它通常与非学位证书（non-degree credentials）相关联，是近年来微证书（micro credentials）蓬勃发展的主要推动力（Hartmann, 2022, p.179）。
 
-在后福特经济的"永久创新经济"（perpetual innovation economy）中，知识生命周期的缩短和人口结构变化使终身学习需求稳步增加，继续教育与高等教育的重要性同步上升（Hartmann, 2022, p.179）。
+在后福特经济的"永久创新经济"（perpetual innovation economy）中，知识生命周期的缩短和人口结构变化使[[Lifelong Learning|终身学习]]需求稳步增加，继续教育与高等教育的重要性同步上升（Hartmann, 2022, p.179）。
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> - **vs Higher Education（高等教育）**：高等教育是正规的、授予学位的中学后教育（大学、学院），继续教育则发生在结构化教育系统之外，以非学位证书为主。两者共同构成后福特经济中终身学习的两大支柱（Hartmann, 2022, p.179）
+> - **vs Higher Education（高等教育）**：高等教育是正规的、授予学位的中学后教育（大学、学院），继续教育则发生在结构化教育系统之外，以非学位证书为主。两者共同构成后福特经济中[[Lifelong Learning|终身学习]]的两大支柱（Hartmann, 2022, p.179）
 > - **vs [[Corporate Education]]**：继续教育是更广泛的上位范畴，涵盖雇主提供、外部购买、专业协会提供等多种形式；企业教育是继续教育的一个子集——由企业为其雇员提供或资助的部分。2016 年欧盟约三分之一由雇主直接提供，其余由外部机构提供（Hartmann, 2022, pp.180, 190）
 > - **vs Lifelong Learning（终身学习）**：终身学习是最宽泛的概念，涵盖从早期教育到退休后的一切学习活动；继续教育特指成年人在完成初始教育后参与的非正规、有组织培训
 

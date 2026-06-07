@@ -12,7 +12,6 @@ tags:
 - education-policy
 - region/global
 related_concepts:
-  - "[[Big Ideas]]"
   - "[[Transitology]]"
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
@@ -25,6 +24,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
   - "[[Learner-Centred Education]]"
+  - "[[Lifelong Learning]]"
   - "[[Relational Space]]"
   - "[[School Autonomy]]"
 related_theories:
@@ -60,7 +60,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 政策借用（Policy Borrowing）是教育政策转移研究的[[Big Ideas|核心概念]]，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）假设"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
+> 政策借用（Policy Borrowing）是教育政策转移研究的核心概念，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）假设"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
 >
 > > "Policy makers are seen to harness well-travelled global discourses to legitimate and promote domestic agendas which are controversial." (Steiner-Khamsi, 2012，引自 Yan & Morris, 2025, p. 482)
 >
@@ -182,7 +182,7 @@ Rappleye (2006) 在 Phillips & Ochs 第一阶段的基础上，将跨国吸引�
 ## 实证发现
 
 > [!success] 实证发现
-> - **香港 [[Liberal Studies|LS]] 创立与废除（最完整案例）**：Yan & Morris (2025) 追踪了 LS 从创立到废除的完整生命周期。创立阶段（2009）：港府以"终身学习""[[Knowledge-Based Economy|知识经济]]"和 IBDP 话语论证改革的必要性，但这些全球论述被用来解决本地政治问题——政府合法性下降、过剩教师就业缺口、学制调整需求。废除阶段（2021）：全球论述完全消失，《国安法》后的"国家安全"成为唯一逻辑，政策借用框架失去分析对象。（Yan & Morris, 2025, pp. 486–491）
+> - **香港 [[Liberal Studies|LS]] 创立与废除（最完整案例）**：Yan & Morris (2025) 追踪了 LS 从创立到废除的完整生命周期。创立阶段（2009）：港府以"[[Lifelong Learning|终身学习]]""[[Knowledge-Based Economy|知识经济]]"和 IBDP 话语论证改革的必要性，但这些全球论述被用来解决本地政治问题——政府合法性下降、过剩教师就业缺口、学制调整需求。废除阶段（2021）：全球论述完全消失，《国安法》后的"国家安全"成为唯一逻辑，政策借用框架失去分析对象。（Yan & Morris, 2025, pp. 486–491）
 > - **VL 在俄罗斯的借用与拒绝**：[[John Hattie|Hattie]] 的 VL 于 2017 年在俄罗斯翻译出版后受到学界热烈欢迎，Borisenko（2018）称其为"主要出版事件"，Sokolova（2017）将 VL 与 FSES 标准联系起来。然而 Golovchin（2019）基于三重理由——方法论缺陷（变差系数 Vσ=56.87% 远超 33% 同质性阈值）、文化不匹配（教师"去专业化"风险）、官僚化威胁（RANEPA 2018 年全俄监测 79% 教师报告报表工作量显著增加）——建议俄教育政策不予采用。该案例展示了政策借用框架的完整分析逻辑：全球论述被引入 → 本地支持者以"科学合法性"论证必要性 → 本地批评者基于方法论、文化、制度匹配度分析建议拒绝。（Golovchin, 2019, pp. 229–241）
 > - **芬兰 [[PISA]] 借用**：英国、新加坡等全球教育体系大量借用芬兰模式的话语，但实际转化有限，说明"借用话语"与"实施实践"之间存在显著鸿沟。（You & Morris, 2016）
 > - **中国晚清对日本教育的借用（历史案例）**：Rappleye (2006) 记录了中国在甲午战争后大规模借用日本教育体系的案例——改革派视日本为现代化成功典范，保守派视日本为保存儒家秩序的范例，这种"不可能联盟"使借用得以大规模推进（Abe, 1987; Hayhoe, 1992，引自 Rappleye, 2006, p. 233–234）。该案例表明，当对立阵营出于不同理由都同意外国范例是好模型时，吸引力最有可能转化为实际借用。

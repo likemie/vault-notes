@@ -15,6 +15,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
+  - "[[Lifelong Learning]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
@@ -116,7 +117,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 > - 相比之下，欧裔美国学习概念地图的最大集群是"主动学习"（active learning），占 203 个术语的 48%（70 个术语），其核心是思考、探究、沟通和认知技能——与道德自我完善完全无关（Li, 2012, p.94）
 
 > [!info]- 核心数据
-> 中文学习词汇前 5 项：活到老学到老、博览群书、刻苦学习、看书、勤奋（学习）。英文前 5 项：study、thinking、teaching、school、education。中文词表多项涉及勤奋和终身学习，英文词表完全没有；英文词表 30% 涉及思考和心智过程（61/203），中文词表仅 6%（14/225，且排名靠后）（Li, 2012, pp.89-91）。
+> 中文学习词汇前 5 项：活到老学到老、博览群书、刻苦学习、看书、勤奋（学习）。英文前 5 项：study、thinking、teaching、school、education。中文词表多项涉及勤奋和[[Lifelong Learning|终身学习]]，英文词表完全没有；英文词表 30% 涉及思考和心智过程（61/203），中文词表仅 6%（14/225，且排名靠后）（Li, 2012, pp.89-91）。
 
 ---
 

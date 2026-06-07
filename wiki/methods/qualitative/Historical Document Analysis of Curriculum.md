@@ -13,6 +13,7 @@ tags:
 - paradigm/critical
 - paradigm/interpretivist
 related_concepts:
+  - "[[Lifelong Learning]]"
   - "[[Causality]]"
   - "[[Externalization]]"
   - "[[Analytic Framework]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 > 2. **收集文件** — 系统收集官方课程文件、政府政策声明、媒体报道、既有学术文献
 > 3. **时间线重建** — 按时间顺序排列关键事件和决定（参见 Yan & Morris 的 Table 1）
 > 4. **来源[[Triangulation|三角验证]]** — 交叉比对不同来源的叙述差异（如政府文件 vs. 官媒 vs. 学术文献）
-> 5. **叙事分析** — 识别政府如何"框架"问题以合法化特定政策（如"终身学习"论述 vs."国家安全"论述）
+> 5. **叙事分析** — 识别政府如何"框架"问题以合法化特定政策（如"[[Lifelong Learning|终身学习]]"论述 vs."国家安全"论述）
 > 6. **对比分析** — 比较不同历史阶段中同一课程因素的角色变化（如 LS 创立期 vs. 废除期）
 > 7. **理论框架对话** — 将案例分析结果与既有课程理论（如 Cuban）进行对话，识别理论的解释力与局限
 

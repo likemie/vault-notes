@@ -19,6 +19,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Benevolence]]"
   - "[[Junzi]]"
+  - "[[Lifelong Learning]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
   - "[[Recontextualization]]"
@@ -82,7 +83,7 @@ updated: 2026-05-22
 
 3. **修身的最高目标是仁**：[[Benevolence]]（仁）在《论语》中出现 105 次，代表一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界（Li, 2012, p.41）
 
-4. **[[Junzi|君子]]理想**：[[Junzi]]（君子）在《论语》中出现 91 次，是孔子讨论和品味最多的概念——一个通过终身学习与修身达到仁的人（Li, 2012, p.41）
+4. **[[Junzi|君子]]理想**：[[Junzi]]（君子）在《论语》中出现 91 次，是孔子讨论和品味最多的概念——一个通过[[Lifelong Learning|终身学习]]与修身达到仁的人（Li, 2012, p.41）
 
 5. **[[Action Better Than Words|行勝於言]]**：孔子对巧言令色抱持极大的怀疑，"古人之所以不轻易说话，是因为他们以自己做不到所说的话为耻"、"君子欲讷于言而敏于行"（Li, 2012, pp.52-53）
 

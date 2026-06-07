@@ -909,6 +909,15 @@
     ]
   },
   {
+    "title": "Lifelong Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Lifelong Learning.md",
+    "aliases": [
+      "终身学习",
+      "lifelong learning"
+    ]
+  },
+  {
     "title": "Mind and Its Wonders",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
@@ -9020,6 +9029,17 @@
     "aliases": [
       "Symposium on International Teaching 2007",
       "国际教学研讨会2007"
+    ]
+  },
+  {
+    "title": "2009 Hong Kong NSS Curriculum Reform",
+    "type": "fact",
+    "path": "wiki/facts/hongkong/2009 Hong Kong NSS Curriculum Reform.md",
+    "aliases": [
+      "香港新高中课程改革",
+      "3+3+4 学制改革",
+      "Hong Kong NSS Reform",
+      "New Senior Secondary Curriculum"
     ]
   },
   {

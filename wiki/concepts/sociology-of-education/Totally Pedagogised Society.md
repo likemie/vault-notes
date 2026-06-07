@@ -10,7 +10,8 @@ tags:
   - theme/sociology-of-education
   - theory/bernstein
   - theme/comparative-education
-related_concepts: []
+related_concepts:
+  - "[[Lifelong Learning]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -45,7 +46,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs 终身学习（Lifelong Learning） — 终身学习是政策话语，强调个人持续学习的必要性。全盘教育化社会是社会学分析概念，描述教育关系从学校扩展到整个社会的结构性变迁，关注的是社会基础而非个人选择。
+> - vs [[Lifelong Learning|终身学习]]（Lifelong Learning） — 终身学习是政策话语，强调个人持续学习的必要性。全盘教育化社会是社会学分析概念，描述教育关系从学校扩展到整个社会的结构性变迁，关注的是社会基础而非个人选择。
 > - vs 教育化（Pedagogization） — 教育化是更宽泛的过程描述，指越来越多的社会领域被纳入教育逻辑。全盘教育化社会是这一过程的极端形态，强调社会整体被教育关系所渗透。
 
 ---

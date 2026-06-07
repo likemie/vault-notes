@@ -6,7 +6,6 @@ extracted_to:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Visible Learning]]"
-  - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
   - "[[Cognition Education]]"
   - "[[Contestable School Support Services]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
   - "[[Stephen Ball]]"
+  - "[[Network Governance]]"
 processed_date: 2026-05-04
 ---
 

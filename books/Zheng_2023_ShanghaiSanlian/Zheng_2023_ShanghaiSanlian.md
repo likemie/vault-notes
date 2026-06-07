@@ -5,7 +5,6 @@ extracted_to:
   - "[[Academic Engagement]]"
   - "[[Academic and Social Integration]]"
   - "[[Economy of Experience]]"
-  - "[[Employability]]"
   - "[[Self-Authorship]]"
   - "[[Social Engagement]]"
   - "[[Student Engagement]]"
@@ -41,6 +40,7 @@ extracted_to:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory]]"
+  - "[[Employability]]"
 processed_date: 2026-05-09
 ---
 

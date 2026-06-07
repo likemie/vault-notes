@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Membership-Creating Function of Education]]"
+  - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
@@ -84,7 +85,7 @@ updated: '2026-05-25'
 > [!note-] 历史沿革
 > - **1997 年前** — 殖民地时期，教育体系刻意淡化中国国家认同，避免与中国建立文化政治纽带
 > - **1997 年回归** — 江泽民在特区成立庆典上强调"血浓于水"的亲情叙事，将回归描绘为"回归祖国怀抱"
-> - **1998-2000** — 首任特首董建华的《施政报告》逐步提出国民教育方向，但以"终身学习"和"[[Knowledge-Based Economy|知识经济]]"等中性话语包装
+> - **1998-2000** — 首任特首董建华的《施政报告》逐步提出国民教育方向，但以"[[Lifelong Learning|终身学习]]"和"[[Knowledge-Based Economy|知识经济]]"等中性话语包装
 > - **2009** — [[Liberal Studies|LS]] 成为必修科，"现代中国"单元纳入课程，但内容不强调对中共的忠诚（反映了本地课程设计者对公民社会反弹的预判）
 > - **2012** — 港府试图将"德育及国民教育科"（MNE）设为必修，引发大规模学生抗议，最终撤回并改为选修。这是国民教育议程的首次重大挫折
 > - **2019 [[2019 Hong Kong Protests|反修例运动]]后** — 中国官媒指摘 LS"缺乏中国坐标"，将年轻人参与抗议归咎于国民教育的缺位

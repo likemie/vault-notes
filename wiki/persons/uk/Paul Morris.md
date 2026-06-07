@@ -14,6 +14,7 @@ tags:
 - region/china
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Schools]]"
   - "[[Analytic Framework]]"
@@ -45,7 +46,7 @@ updated: '2026-05-19'
 > [!info] 核心思想
 > Morris 的核心学术关切是**全球化论述如何在教育政策中被工具化**，以及**国家权力如何通过课程变革施加控制**。他的研究贯穿两个相互关联的主题：
 >
-> 1. **[[Policy Borrowing|政策借用]]中的修辞性参照**：国家引用全球教育趋势（如 [[PISA]]、终身学习、[[Knowledge-Based Economy|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
+> 1. **[[Policy Borrowing|政策借用]]中的修辞性参照**：国家引用全球教育趋势（如 [[PISA]]、[[Lifelong Learning|终身学习]]、[[Knowledge-Based Economy|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
 >
 > 2. **威权国家主义与教育的国安化**：在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris 与 Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
 >

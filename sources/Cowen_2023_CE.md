@@ -8,11 +8,11 @@ extracted_to:
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Readings of the Global]]"
-  - "[[Totally Pedagogised Society]]"
   - "[[Andreas Kazamias]]"
   - "[[Edmund King]]"
   - "[[Outcomes-based Education]]"
   - "[[Robert Cowen]]"
+  - "[[Totally Pedagogised Society]]"
 processed_date: 2026-06-07
 ---
 

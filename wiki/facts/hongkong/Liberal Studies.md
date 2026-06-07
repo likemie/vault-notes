@@ -13,6 +13,7 @@ tags:
 - region/china
 - level/k12
 related_concepts:
+  - "[[Lifelong Learning]]"
   - "[[Examination-Oriented Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Construct]]"
@@ -41,7 +42,7 @@ updated: '2026-05-25'
 ## 定义
 
 > [!info] 定义
-> 通识教育科（Liberal Studies, LS）是 2009–2021 年间香港高中（中四至中六）的必修科目。它是一门没有单一学科基础的跨学科科目，采用议题为本的探究式学习，旨在培养学生的批判性思维、沟通能力和终身学习技能。
+> 通识教育科（Liberal Studies, LS）是 2009–2021 年间香港高中（中四至中六）的必修科目。它是一门没有单一学科基础的跨学科科目，采用议题为本的探究式学习，旨在培养学生的批判性思维、沟通能力和[[Lifelong Learning|终身学习]]技能。
 >
 > > "LS was positioned as a reform that would address both longstanding and contemporary educational problems in Hong Kong." (Yan & Morris, 2025, p. 485)
 
@@ -116,7 +117,7 @@ updated: '2026-05-25'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **2000** — 董建华《施政报告》提出以"终身学习"和"[[Knowledge-Based Economy|知识经济]]"为核心的教育改革方向
+> - **2000** — 董建华《施政报告》提出以"[[Lifelong Learning|终身学习]]"和"[[Knowledge-Based Economy|知识经济]]"为核心的教育改革方向
 > - **2001** — 课程发展议会发布《学会学习：终身学习与全人发展》
 > - **2005** — 教统局发布《新学制行动计划》，确立 3+3+4 学制，LS 被设计为新高中课程的核心必修科
 > - **2007** — 课程发展议会与香港考试及评核局联合发布《通识教育科课程及评估指引》

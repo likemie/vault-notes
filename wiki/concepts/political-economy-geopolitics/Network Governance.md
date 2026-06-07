@@ -12,6 +12,8 @@ tags:
 - region/eu
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Public-Private Partnership in Research]]"
+  - "[[Lifelong Learning]]"
   - "[[Neocorporatism]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
@@ -55,7 +57,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **行动者多元化**：政策行动者可以个人、团体或组织身份运作，通过协作与网络化来实质性影响公立学校教育政策发展与服务交付（O'Neill et al., 2016, p.viii）
-> - **公私合作伙伴关系（PPP）**：在采购学校建筑时强制考虑 PPP 替代传统采购（O'Neill et al., 2016, p.vi）
+> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）**：在采购学校建筑时强制考虑 PPP 替代传统采购（O'Neill et al., 2016, p.vi）
 > - **私营部门赞助**：批准私营部门赞助者运营多所 Partnership School Kura Hourua（O'Neill et al., 2016, p.vi）
 > - **合同外包**：政府将公立学校服务合同外包给私营企业、NGO 和慈善部门的偏好日益增强（O'Neill et al., 2016, pp.vi–vii）
 > - **跨国商业合作**：本地非营利 EMOs 与离岸营利性教育服务"品牌"之间形成战术性商业伙伴关系，在新西兰及海外交付学校产品和服务（O'Neill et al., 2016, p.vi）
@@ -91,7 +93,7 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 **vi. Partnership Schools Kura Hourua (PSKH)**：为兑现 2011 年 12 月国家党与 ACT 党供需信任协议，成立 PSKH 授权委员会，就私营实体（营利或非营利）运营公费私立学校提出建议。目前有 9 所运营，1 所合同终止。2016 年 5 月宣布设立 E Tipu E Rea 支持实体（2015 年 12 月注册为慈善机构）以支持新旧及未来赞助者，获政府有条件资助 USD 500,000，旨在通过慈善资助维持——E Tipu E Rea 是唯一受邀提交提案的机构（O'Neill et al., 2016, pp.11–12）
 
-**vii. PPP 学校合同**：2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, ASC Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校（O'Neill et al., 2016, pp.12–13）
+**vii. [[Public-Private Partnership in Research|PPP]] 学校合同**：2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, ASC Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校（O'Neill et al., 2016, pp.12–13）
 
 **viii. KickStart Breakfast**：2013 年作为对儿童贫困报告回应，总理宣布通过 MSD 资助扩大 KickStart Breakfast 计划（Sanitarium Weetbix + Fonterra 牛奶）——该计划自 2009 年以来作为两家新西兰私营食品公司的企业社会责任计划运营。政府同意与两家公司共同出资扩大规模，并额外资助儿童慈善机构 Kidscan（提供衣物等基本物品）（O'Neill et al., 2016, p.12）
 
@@ -106,7 +108,7 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 ## 在欧盟的表现
 
 > [!success]
-> Rambla（2022）基于 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]对 16 个欧盟地区 168 名终身学习政策专家的访谈，提供了网络治理在欧盟教育与培训政策中运作的实证证据（Rambla, 2022, p.172–173）。
+> Rambla（2022）基于 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]对 16 个欧盟地区 168 名[[Lifelong Learning|终身学习]]政策专家的访谈，提供了网络治理在欧盟教育与培训政策中运作的实证证据（Rambla, 2022, p.172–173）。
 
 ### 官僚制与网络治理的混合模式
 
@@ -140,7 +142,7 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 > [!warning]
 > - 网络治理模式将比例上更多重点放在私营部门网络化与合同上，比例上更少关注社会民主式、参与式的公共政策制定方法（O'Neill et al., 2016, p.xvi）
 > - 私营部门参与带来了决策权和财产权的期望——从对产品和服务的商业/社会[[Return on Investment|投资回报]]，到在共同利益上决定政策的角色（O'Neill et al., 2016, p.xv）
-> - 这些较新的公立学校关系——PPP、合同外包、[[Venture Philanthropy|风险慈善]]和慈善——需要在私营部门行动者追求的政治策略和战术方面得到更深入的理解（O'Neill et al., 2016, p.xvi）
+> - 这些较新的公立学校关系——[[Public-Private Partnership in Research|PPP]]、合同外包、[[Venture Philanthropy|风险慈善]]和慈善——需要在私营部门行动者追求的政治策略和战术方面得到更深入的理解（O'Neill et al., 2016, p.xvi）
 
 ## 来源
 

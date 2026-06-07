@@ -14,6 +14,7 @@ tags:
 - policy/employment
 - research-project
 related_concepts:
+  - "[[Lifelong Learning]]"
   - "[[Theories of Policy Change]]"
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> YOUNG_ADULLLT 是欧盟 Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的终身学习（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]（Rambla, 2022, p.172）。
+> YOUNG_ADULLLT 是欧盟 Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning|终身学习]]（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]（Rambla, 2022, p.172）。
 >
 > 项目的政策背景是 [[Europe 2020 Strategy]] 及其旗舰倡议 [[EU Skills Agenda]] 和 [[Youth Guarantee Scheme]] 的实施期——这一时期欧盟通过 [[Performance Indicators]] 和区域排名体系推动成员国和区域的教育培训改革，而 YOUNG_ADULLLT 正为理解这些政策在地方层面的实际接受与转化提供了系统的经验证据（p.172–174）。
 
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 >
 > - **资助框架**：Horizon 2020（Grant No 693167）
 > - **研究方法**：半结构式访谈（semi-structured interviews）
-> - **样本规模**：168 名终身学习政策专家
+> - **样本规模**：168 名[[Lifelong Learning|终身学习]]政策专家
 > - **覆盖范围**：9 个欧盟成员国的 16 个 NUTS2 区域
 >   - 奥地利（2 区）、保加利亚（2 区）、德国（2 区）、西班牙（2 区）
 >   - 芬兰（2 区）、克罗地亚（2 区）、意大利（2 区）、葡萄牙（2 区）、英国（2 区）
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 
 ### 治理模式的差异化格局
 
-在欧盟各地，终身学习政策主要通过官僚治理和 [[Network Governance]] 的混合模式实施，纯粹的市场治理（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著。但网络治理的具体形态因国家制度传统不同而呈现显著差异（Rambla, 2022, p.172–173）。
+在欧盟各地，[[Lifelong Learning|终身学习]]政策主要通过官僚治理和 [[Network Governance]] 的混合模式实施，纯粹的市场治理（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著。但网络治理的具体形态因国家制度传统不同而呈现显著差异（Rambla, 2022, p.172–173）。
 
 ### 制度传统较强的国家
 
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 ## 相关概念／理论
 
 > [!tip]
-> - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是终身学习政策的官僚—网络混合治理模式
+> - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是[[Lifelong Learning|终身学习]]政策的官僚—网络混合治理模式
 > - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构变革理论
 > - [[Selectivity]] — 项目数据为[[Performance Indicators|绩效指标]]体系的选择性效应提供了直接的经验证据
 > - [[Neocorporatism]] — 德国及邻国的新社团主义传统构成了网络治理的重要制度基础

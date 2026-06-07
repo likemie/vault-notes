@@ -13,6 +13,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Lifelong Learning]]"
   - "[[Innovation Ecosystem]]"
   - "[[Spatial Sortings]]"
   - "[[Neocorporatism]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 > [!note]
 > - **Jessop（2007）**：在 State Power: A Strategic-Relational Approach 中提出选择性概念，论证国家权力通过"策略选择性"（strategic selectivity）使某些策略比其他策略更有可能成功
 > - **Le Galès（2016）**：将选择性概念纳入政策工具理论，论证政策工具的技术成分和权力成分相互关联，选择性正是通过技术—权力双重性得以运作（Rambla, 2022, p.165–166）
-> - **Rambla（2022）**：将选择性概念应用于欧盟[[Performance Indicators|绩效指标]]体系分析，识别其在创新政策和终身学习政策中的三种具体表现（p.174–175）
+> - **Rambla（2022）**：将选择性概念应用于欧盟[[Performance Indicators|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning|终身学习]]政策中的三种具体表现（p.174–175）
 
 ## 核心要素
 
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 
 ### 就业维度优先于赋权维度
 
-在终身学习领域，选择性表现为就业维度系统性地优先于个人发展和公民参与维度。[[YOUNG_ADULLLT]] 项目发现，除芬兰外，大多数欧盟成员国的终身学习专业人员将政策理解为就业优先（employment-first）工具——即在短期内帮助青年获得工作，而非支持整个生命历程中的学习与成长（Rambla, 2022, p.174–175）。
+在[[Lifelong Learning|终身学习]]领域，选择性表现为就业维度系统性地优先于个人发展和公民参与维度。[[YOUNG_ADULLLT]] 项目发现，除芬兰外，大多数欧盟成员国的终身学习专业人员将政策理解为就业优先（employment-first）工具——即在短期内帮助青年获得工作，而非支持整个生命历程中的学习与成长（Rambla, 2022, p.174–175）。
 
 > 例：一个青年花 1 年时间参与社区环保项目并获得组织技能（指标：失业 12 个月），与一个在 3 个月内找到超市收银工作的青年（指标：成功就业）——[[Performance Indicators|绩效指标]]体系天然地奖励后者。问题不在于就业不值得肯定，而在于指标体系使前者的发展路径在政策视野中变得不可见。
 
@@ -107,7 +108,7 @@ updated: '2026-05-18'
 
 > [!info]- 核心数据
 > - [[YOUNG_ADULLLT]] 项目覆盖 16 个欧盟地区，168 名专家访谈（p.172）
-> - 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（p.174）
+> - 除芬兰外，所有受访国家的[[Lifelong Learning|终身学习]]专业人员将政策首要目标理解为就业安置（p.174）
 
 ## 争议与批评
 
@@ -119,7 +120,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Innovation Union]] — [[Performance Indicators|绩效指标]]对创新的界定向研发密集型模式倾斜，排斥社会创新
-> - [[EU Skills Agenda]] — 终身学习政策中就业优先于个人发展和公民参与维度的选择性
+> - [[EU Skills Agenda]] — [[Lifelong Learning|终身学习]]政策中就业优先于个人发展和公民参与维度的选择性
 > - [[Europe 2020 Strategy]] — 战略框架隐含的自由主义经济秩序预设本身就是一种结构性选择
 > - [[Performance Indicators]] — 选择性是绩效指标的四个构成维度之一
 

@@ -13,7 +13,7 @@ tags:
 - higher-ed
 - region/global
 related_concepts:
-  - "[[STEM Education]]"
+  - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note-] 概念演变
-> Amos 将 EdTech 产业的兴起定位在从国家中心到市场中心教育的更广阔转型之中。"知识"作为生产要素的讨论自 1950s 末即已开始，OECD 在 [[Sputnik Shock 1957|Sputnik Shock]] 后关注 [[STEM Education|STEM]] 教育是早期的制度信号。但 EdTech 作为一个独立产业的爆发式增长则是近二十年——尤其是数字化和算法化——的产物（Amos, 2022, pp.56–57）。
+> Amos 将 EdTech 产业的兴起定位在从国家中心到市场中心教育的更广阔转型之中。"知识"作为生产要素的讨论自 1950s 末即已开始，OECD 在 [[Sputnik Shock 1957|Sputnik Shock]] 后关注 STEM 教育是早期的制度信号。但 EdTech 作为一个独立产业的爆发式增长则是近二十年——尤其是数字化和算法化——的产物（Amos, 2022, pp.56–57）。
 >
 
 ## 核心要素
@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 利润（Profit）
-> EdTech 是股票市场增长最快的板块之一。ICT 巨头——Google、Apple、Microsoft——均设有大型教育部门，涵盖 K-12 到高等教育的全链条。K-12 领域的提供商包括 Sylvan Learning Systems 等；高等教育领域出现了 Udacity、Coursera 等虚拟大学，通常与终身学习叙事绑定。
+> EdTech 是股票市场增长最快的板块之一。ICT 巨头——Google、Apple、Microsoft——均设有大型教育部门，涵盖 K-12 到高等教育的全链条。K-12 领域的提供商包括 Sylvan Learning Systems 等；高等教育领域出现了 Udacity、Coursera 等虚拟大学，通常与[[Lifelong Learning|终身学习]]叙事绑定。
 >
 > > 例：Google 的 Jaime Casap 被称为"教育布道者"（education evangelist）——在全球平台上推广 Google 教育工具。当 Google Classroom 被免费提供给学校，Google 获得的不是直接收入，而是下一代用户的习惯和数据。"免费"是 EdTech 商业模式中最有效的获客策略（Amos, 2022, p.57）。
 

@@ -22,13 +22,12 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
+  - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Zhonghua Minzu]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Construct]]"
   - "[[Externalization]]"
-  - "[[Competitiveness]]"
   - "[[Class Size]]"
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
@@ -41,7 +40,9 @@ related_persons:
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
+  - "[[2009 Hong Kong NSS Curriculum Reform]]"
   - "[[International Baccalaureate]]"
+  - "[[National Education]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
@@ -73,7 +74,7 @@ updated: 2026-06-07
 >
 > **[[World Society Theory|世界文化理论]]**（Meyer et al., 1997）。全球学校模式正在趋同，各国课程日益相似。LS 的诞生表面上支撑了这一假设，因为港府在推行改革时大量引用全球趋势和海外课程模式。但这些引用更可能是修辞手段而非变革动因。
 >
-> **[[Policy Borrowing|政策借用]]**（Steiner-Khamsi, 2012）。与世界文化理论关注扩散模式不同，政策借用框架聚焦国内政治条件如何催生借用行为，以及决策者如何借用全球话语来合法化国内议程。港府引用终身学习和[[Knowledge-Based Economy|知识经济]]等全球论述的动机，正可以用此框架解释。
+> **[[Policy Borrowing|政策借用]]**（Steiner-Khamsi, 2012）。与世界文化理论关注扩散模式不同，政策借用框架聚焦国内政治条件如何催生借用行为，以及决策者如何借用全球话语来合法化国内议程。港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy|知识经济]]等全球论述的动机，正可以用此框架解释。
 >
 > **Tröhler（2023）国家利益驱动论**。课程变革从根本上受国家利益引导。这一视角在废除阶段尤为重要，因为 LS 的废除直接服务于中共以[[Zhonghua Minzu|中华民族]]为核心的国族建构项目。
 >
@@ -105,7 +106,7 @@ updated: 2026-06-07
 > [!note]- 旧学制的碎片化
 > 旧学制下存在两套大学入学考试。中文大学接受中六毕业生的高等程度会考，香港大学和其他院校则要求中七毕业生的高级程度会考。两套考试、两种学制长度、两个学位年限，制度碎片化严重。
 
-2005 年教统局发布《新学制行动计划》，确立 3+3+4 学制，所有学生接受六年中学教育，统一参加香港中学文凭考试（Hong Kong Diploma of Secondary Education, HKDSE）。这一结构改革为 LS 的引入创造了课程空间，LS 被设计为新高中课程的核心必修科（pp. 484–485）。
+2005 年教统局发布《新学制行动计划》，确立 3+3+4 学制，所有学生接受六年中学教育，统一参加香港中学文凭考试（Hong Kong Diploma of Secondary Education, HKDSE）。这一[[2009 Hong Kong NSS Curriculum Reform|香港新高中课程改革]]为 LS 的引入创造了课程空间，LS 被设计为新高中课程的核心必修科（pp. 484–485）。
 
 ---
 
@@ -153,7 +154,7 @@ LS 的课程设计直接回应了这些批评。《通识教育科课程及评�
 >
 > 2001 年课程发展议会发布的《学会学习》文件指出，世界正经历前所未有的变化，香港也不例外，经济结构正在发生重大转变，知识经济已经到来（CDC, 2001, p. 3）。
 >
-> 1998 年《施政报告》指出，香港要成为信息时代的知识经济体，就必须不断创新和变革，因此必须拥抱"终身学习"（Tung, 1998, p. 20）。
+> 1998 年《施政报告》指出，香港要成为信息时代的知识经济体，就必须不断创新和变革，因此必须拥抱"[[Lifelong Learning|终身学习]]"（Tung, 1998, p. 20）。
 
 这种修辞策略的本质是：国内问题被重新包装为对全球趋势的回应，从而赋予改革不可质疑的正当性。正如 Steiner-Khamsi（2012, p. 7）所说，"本地问题有时是配合现成的全球解决方案而被制造出来的，而非相反"（引自 p. 482）。
 
@@ -271,7 +272,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 | **立法/法律决定** | 长期协商后立法。公众咨询、立法会讨论、多方参与 | 直接行政命令。《国安法》颁布后十个月内完成废除与替换，无公众咨询 |
 | **公民社会参与** | 广泛参与。教协、教师专业团体、媒体、立法会各派均参与讨论 | 完全缺席。教协被关闭，媒体被压制，专责小组建议被无视 |
 | **外部参照** | 大量引用。国际文凭课程、全球趋势、海外学者背书 | 不适用。废除不以全球参照为理由，而以国家安全为旗帜 |
-| **全球化论述** | 核心修辞。终身学习、知识经济被用作改革的合法化话语 | 被替换为国家主义论述。"国家安全"和"[[Zhonghua Minzu\|中华民族]]伟大复兴"成为新的合法化话语 |
+| **全球化论述** | 核心修辞。[[Lifelong Learning\|终身学习]]、[[Knowledge-Based Economy\|知识经济]]被用作改革的合法化话语 | 被替换为国家主义论述。"国家安全"和"[[Zhonghua Minzu\|中华民族]]伟大复兴"成为新的合法化话语 |
 
 ---
 

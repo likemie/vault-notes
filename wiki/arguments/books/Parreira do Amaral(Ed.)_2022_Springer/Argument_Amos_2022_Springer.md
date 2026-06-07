@@ -25,10 +25,10 @@ related_concepts:
   - "[[Sympoiesis]]"
   - "[[International Education]]"
   - "[[School Autonomy]]"
-  - "[[STEM Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
+  - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
@@ -126,7 +126,7 @@ updated: 2026-05-18
 >
 > > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。（Cowen, 1996, pp.160–162；Amos, 2022, p.55）
 >
-> Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，OECD 立即将注意力转向 [[STEM Education|STEM]] 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年（Amos, 2022, p.56）。
+> Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，OECD 立即将注意力转向 STEM 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年（Amos, 2022, p.56）。
 >
 > > 例：Sputnik Shock 是理解"教育和地缘政治如何始终纠缠"的经典案例。1957 年苏联先于美国把卫星送上太空，美国举国震惊。反应是什么？不是增加军费（那是后来的事），而是大规模改革科学教育和数学课程——因为决策者相信，苏联的"知识优势"来自更好的教育。这就是 Amos 所说的"早在市场话语流行之前，经济与知识的关联已被锻造"。（Amos, 2022, p.56）
 >
@@ -138,7 +138,7 @@ updated: 2026-05-18
 >
 > Amos 拆解了数字化被推动的三重动机，只有理解了这三重动机的同时运作，才能理解为什么数字化是"不可逆"的（Amos, 2022, pp.56–57）：
 >
-> **(1) 利润（Profit）**：EdTech 是门大生意，股票市场份额持续增长。Google、Apple、Microsoft 都设有庞大的教育部门。K-12 领域有 Sylvan Learning Systems 等提供商；高等教育领域有 Udacity、Coursera 等虚拟大学，通常绑定终身学习（lifelong learning）叙事。
+> **(1) 利润（Profit）**：EdTech 是门大生意，股票市场份额持续增长。Google、Apple、Microsoft 都设有庞大的教育部门。K-12 领域有 Sylvan Learning Systems 等提供商；高等教育领域有 Udacity、Coursera 等虚拟大学，通常绑定[[Lifelong Learning|终身学习]]（lifelong learning）叙事。
 >
 > > 例：Google 的 Jaime Casap 被称为"教育布道者"（education evangelist），在全球平台上推广 Google 教育工具。他不仅仅是"卖产品"——他是在塑造一种信念：技术是教育问题的解决之道。当 Google Classroom 被免费提供给学校，谷歌获得的不是直接收入，而是下一代用户的数据和习惯——这就是"利润"逻辑的深层运作方式。（Amos, 2022, p.57）
 >
@@ -259,7 +259,7 @@ updated: 2026-05-18
 >
 > ### 知识市场化的时间深度
 >
-> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957|Sputnik Shock]]（1957）后 OECD 对 [[STEM Education|STEM]] 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语（Amos, 2022, p.56）。
+> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957|Sputnik Shock]]（1957）后 OECD 对 STEM 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语（Amos, 2022, p.56）。
 >
 > ### 数字化的三重不可逆驱动力
 >

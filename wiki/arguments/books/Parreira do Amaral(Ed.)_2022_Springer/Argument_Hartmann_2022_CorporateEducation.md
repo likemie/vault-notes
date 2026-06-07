@@ -17,6 +17,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Corporate University]]"
   - "[[Further Education]]"
+  - "[[Lifelong Learning]]"
   - "[[Varieties of Capitalism]]"
 related_theories: []
 related_methods:
@@ -221,7 +222,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 
 **关于[[Corporate Education|企业教育]]的规模和重要性：**
 - 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与教育培训，且此后在所有高收入国家持续增长。企业教育是[[Further Education|继续教育]]中规模最大、但被研究最少的组成部分（Hartmann, 2022, p.179）
-- 继续教育以非学位证书和微证书为主，与高等教育一起构成了后福特经济中"终身学习"的两大支柱（Hartmann, 2022, p.179）
+- 继续教育以非学位证书和微证书为主，与高等教育一起构成了后福特经济中"[[Lifelong Learning|终身学习]]"的两大支柱（Hartmann, 2022, p.179）
 
 **关于企业教育的国际化能力：**
 - 初始职业教育（IVET）高度依赖国家层面的非市场制度安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均遇到系统性困难（Hartmann, 2022, pp.184–185）
@@ -270,7 +271,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 > - **专业协会的地缘政治分析不足**：作者承认关于专业协会的国际化程度和地缘政治角色"需要更多研究才能得出结论"（Hartmann, 2022, pp.189, 190）
 > - **对教育内容本身的忽视**：论文专注于[[Corporate Education|企业教育]]的规范扩散和权威建构机制，但未讨论企业教育的内容（课程设计、教学法、评估方式）如何再现或挑战全球不平等
 > - **[[Varieties of Capitalism]] 框架使用较表面**：论文使用 CME vs LME 的二分法来解释美国和德国 MNCs 的差异，但未探讨中国、印度等不属于这两种类别的经济体中 MNCs 的企业教育策略
-> - **"Lifelong Learning"作为独立概念**在论文中有出现但未被独立条目化——未来可从其他论文补充建立
+> - **"[[Lifelong Learning]]"作为独立概念**在论文中有出现但未被独立条目化——未来可从其他论文补充建立
 
 
 ## 来源

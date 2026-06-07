@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Reflexivity]]"
   - "[[Self-Entrepreneur]]"
+  - "[[Lifelong Learning]]"
   - "[[Statistical Significance]]"
   - "[[Causality]]"
 related_theories: []
@@ -170,7 +171,7 @@ SCD 将关注点从结构变革转向个体技能和素养的发展，使主体�
 
 在这一生产文化中，生产来源不再是主体获取的技能和素养，而是基于受期望能力的主体性——即自我引导的模式（Reed, 2009, p.33）。主体只有在承认并强化其自我企业家精神、展现对增长的激情和加速意愿时才有价值（Vostal, 2016）。主体的意愿和激情——即他们将努力获取新技能和素养的承诺，无论其实际用途如何——成为新的生产要素（Zelinka, 2022, p.261）。
 
-与此同时，愿意主体的逻辑共同创造了其反面——不愿主体（unwilling subject），被标记为失业者、无证者或可弃置的个体（disposable individual, Oksala, 2015）。不愿主体成为终身学习话语的干预对象，通过各种政策以预防、补偿、激活或赋权的逻辑加以治理（Parreira do Amaral & Zelinka, 2019, p.409）。
+与此同时，愿意主体的逻辑共同创造了其反面——不愿主体（unwilling subject），被标记为失业者、无证者或可弃置的个体（disposable individual, Oksala, 2015）。不愿主体成为[[Lifelong Learning|终身学习]]话语的干预对象，通过各种政策以预防、补偿、激活或赋权的逻辑加以治理（Parreira do Amaral & Zelinka, 2019, p.409）。
 
 博士培养中的一个具体例子：Spronken-Smith et al.（2024）发现 136 名博士毕业生中仅 2 人创建了个人发展计划（p.96），职业发展完全被个体化——从没有人讨论过任何其他可能性（Veronica, USU1, p.96）。这意味着博士培养不仅将职业发展的责任完全归于个体，还通过院系文化暗示只有学术路径值得追求，从而使选择非学术路径的毕业生在某种意义上成为不愿主体。
 
@@ -244,7 +245,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 > [!example]
 > - P21 框架（2009）——美国 21 世纪技能伙伴组织发布，是 4C 概念最具影响力的推广者，被多国课程改革引用
 > - OECD Learning Compass 2030（2019）——将 21 世纪技能从能力列表转向学习框架，强调学生能动性和转化性能力
-> - European Commission Key Competences for Lifelong Learning（2019）——欧盟八项关键素养框架，对成员国课程改革具有政策约束力
+> - European Commission Key Competences for [[Lifelong Learning]]（2019）——欧盟八项关键素养框架，对成员国课程改革具有政策约束力
 > - Vitae 研究员发展框架（RDF, UK）——博士层次最全面的技能参照框架，覆盖知识、个人效能、研究治理与组织、参与影响四个领域（Spronken-Smith et al., 2024, p.87）
 > - NZU 博士毕业生 profile —— 在研究技能之外明确列出 13 项可转移技能，包括全球视野、文化理解和环境素养三项[[Global Citizenship|全球公民]]属性（Spronken-Smith et al., 2024, p.88）
 

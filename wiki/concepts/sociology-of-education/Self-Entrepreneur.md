@@ -7,6 +7,7 @@ tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
   - "[[Governmentality]]"
   - "[[Employability]]"
+  - "[[Lifelong Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -44,7 +45,7 @@ updated: 2026-05-20
 
 > [!example]
 > - vs **[[Employability]]** — 就业力是自我企业家主体性的外在表现和目标维度；自我企业家则描述了支撑就业力的主体性结构。
-> - vs **终身学习者** — 自我企业家是主动拥抱技能获取竞赛的"愿意主体"；而不愿主体则成为终身学习话语的干预对象（Zelinka, 2022, p.261）。
+> - vs **[[Lifelong Learning|终身学习]]者** — 自我企业家是主动拥抱技能获取竞赛的"愿意主体"；而不愿主体则成为终身学习话语的干预对象（Zelinka, 2022, p.261）。
 
 ## 来源
 

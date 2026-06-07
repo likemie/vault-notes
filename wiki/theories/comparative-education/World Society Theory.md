@@ -17,6 +17,7 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Borrowing]]"
   - "[[Geopolitics of Knowledge]]"
@@ -126,7 +127,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 ### 表面趋同 vs 功能差异
 
-理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用终身学习和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同假设；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌（Yan & Morris, 2025, pp.491–492）。
+理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同假设；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌（Yan & Morris, 2025, pp.491–492）。
 
 ### 国家权力与国内政治的忽视
 

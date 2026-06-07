@@ -8,7 +8,6 @@ extracted_to:
   - "[[Geopolitics of Knowledge]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge Capitalism]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Spatial Sortings]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Michael Porter]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
+  - "[[Knowledge-Based Economy]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---
