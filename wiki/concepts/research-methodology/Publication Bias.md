@@ -28,8 +28,10 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Higgins_2016_RE]]"
 sources:
+  - "[[Higgins_2016_RE]]"
   - "[[Wolf_2020_JREE]]"
   - "[[Wecker_2016_ZfE]]"
   - "[[Kraft_2023_ER]]"
