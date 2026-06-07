@@ -29,6 +29,8 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
   - "[[Regulative and Instructional Discourse]]"
+  - "[[Powerful Knowledge]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods:
@@ -36,6 +38,9 @@ related_methods:
 related_persons:
   - "[[Lev Vygotsky]]"
   - "[[Basil Bernstein]]"
+  - "[[Michael Young]]"
+  - "[[Johan Muller]]"
+  - "[[Gilbert Ryle]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[The New Zealand Curriculum]]"
@@ -135,14 +140,14 @@ updated: 2026-06-06
 - 二十年后，课程改革仍在延续这种折衷方法
 
 **新自由主义和建构主义对知识理解的改变**（Lourie, 2020）：
-- 对技能和能力的日益强调是以牺牲知识为代价的，这是对知识经济话语的回应，该话语「倾向于以功能主义的方式框定教育」（p.124）
+- 对技能和能力的日益强调是以牺牲知识为代价的，这是对[[Knowledge-Based Economy|知识经济]]话语的回应，该话语「倾向于以功能主义的方式框定教育」（p.124）
 - 具体表现：知识更新太快所以不再需要教授（De Bruychere et al., 2015）；通用技能如「学会学习」被认为比学什么更重要（Claxton, 2013）；期望学生自己建构知识（McPhail, 2017）
 
 > [!info] [[Social Realism|社会实在论]]的立场
 > [[Social Realism|社会实在论]]强调学科知识的重要性：
 > - 学科知识（如历史、生物、艺术等）是经过[[Recontextualization|再脉络化]]后用于教育目的的知识
 > - 主张所有学生都有权接触学科以概念为核心的认知方式，同时承认知识是社会建构的且会变化
-> - 学科知识对年轻人的认知和社会发展具有独特价值，获得这种知识是公平的基础
+> - 学科知识对年轻人的认知和社会发展具有独特价值，获得这种[[Powerful Knowledge|有力知识]]是公平的基础
 >
 > 从波普尔的实在论视角出发：
 > - 学科知识是实在的，独立于知者存在，并在世界中产生效果
@@ -266,7 +271,7 @@ updated: 2026-06-06
 >
 > **更合乎逻辑的框架：知道→做→理解**：
 > - 设计阶段：教师首先明确要学什么（「知道」），然后设计活动让学生运用这些知识（「做」），最后当知其然和知其所用结合时，学生的理解才能得到验证（「理解」）
-> - Ryle (1946)：「真正掌握一项知其然，意味着知道如何在需要时运用该知识来解决其他理论或实际问题」（p.16）
+> - [[Gilbert Ryle|Ryle]] (1946)：「真正掌握一项知其然，意味着知道如何在需要时运用该知识来解决其他理论或实际问题」（p.16）
 > - CDCM 中的「明智地知其所用」和「知其所以然」，发生在学生能够展示和阐述两种知识形式之间的联系时
 > - 这些联系标志着[[Surface and Deep Learning|深层学习]]，而非表面学习（如背诵事实或机械展示技能）
 >
@@ -290,7 +295,7 @@ updated: 2026-06-06
 > **对学习如何发生的忽视**：
 > - 课程文件几乎完全忽略了认知科学文献的大量成果（如 Sweller, 2021）
 > - 忽略了认知发展与接触结构化学科知识之间的关系（Geary & Berch, 2016）
-> - Young (2020) 建议：学生应当通过成为学科「探究社区」（communities of enquiry）的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究（p.16）
+> - [[Michael Young|Young]] (2020) 建议：学生应当通过成为学科「探究社区」（communities of enquiry）的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究（p.16）
 > - 我们本期望在 21 世纪的课程中，这些关于知识的认识能够在再脉络化原则以及规约性和教学性话语中得到更明确的体现
 >
 > **新自由主义的延续与转向**：
@@ -298,7 +303,7 @@ updated: 2026-06-06
 > - 然而，新自由主义和工具主义的机制（结果导向课程、通用技能和能力的优先化、对相关性和学生选择的强调）在新西兰的教育结构中仍主要作为规范性教育维度发挥着作用
 > - 规约性话语——双文化主义、义务论伦理和美德伦理——主导了课程改革，学科概念知识和[[Epistemic Ascent|认识论上升]]却在规约性话语中缺席
 > - 从社会实在论的视角来看，知识本身才是学校角色的核心，也是学校教育区别于其他社会机构的关键所在
-> - 课程应当阐明学生有权接触什么知识；这种对「应教什么」的模糊认识是教育系统中持续存在的学业成就不足问题的一部分（Muller & Hoadley, 2019）
+> - 课程应当阐明学生有权接触什么知识；这种对「应教什么」的模糊认识是教育系统中持续存在的学业成就不足问题的一部分（[[Johan Muller|Muller]] & Hoadley, 2019）
 
 ---
 
@@ -337,7 +342,7 @@ updated: 2026-06-06
 > 作为一个国家，我们究竟期望学生在学校知道什么、做什么、理解什么——这个首要问题在课程中似乎仍然居于次要地位。
 
 > [!quote]
-> "Students develop 'a relationship to knowledge' by 'becoming members, initially very junior members, of a range of subjects as "communities of enquiry" within which they engage with teachers and senior students as more knowledgeable members'."（Young, 2020, p.16，引自 McPhail et al., 2023, p.523）
+> "Students develop 'a relationship to knowledge' by 'becoming members, initially very junior members, of a range of subjects as "communities of enquiry" within which they engage with teachers and senior students as more knowledgeable members'."（[[Michael Young|Young]], 2020, p.16，引自 McPhail et al., 2023, p.523）
 >
 > 学生通过成为一系列学科「探究社区」的成员——最初是非常初级的成员，在其中与教师和高年级学生作为更有知识的成员一起参与探究——来发展与知识的关系。
 
@@ -350,7 +355,7 @@ updated: 2026-06-06
 > - **分析范围**。并非对[[Recontextualization|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将认识论、理论和思想差异很大的各种取向整合在一起。例如，毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的本体论和认识论张力，教师如何处理这种张力仍有待观察。
 > - **方法论说明**。分析使用了基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。
 > - **未来分析**。未来的分析可以进一步追问：
->   - 课程改革是否真正以公认的知识理论为基础（如 Muller, 2009; Ryle, 1946; Winch, 2013）？
+>   - 课程改革是否真正以公认的知识理论为基础（如 [[Johan Muller|Muller]], 2009; [[Gilbert Ryle|Ryle]], 1946; Winch, 2013）？
 >   - 市场新自由主义和工具主义的影响是否已被显著削弱？
 >   - 在课程的实际制定中，地方化与国家化孰占主导？
 
