@@ -1,0 +1,51 @@
+---
+title: Alejandro Artopoulos
+aliases:
+  - 亚历杭德罗·阿尔托普洛斯
+  - Artopoulos, A.
+summary: "阿根廷圣安德烈斯大学教育学者，与 Beech 合著关于教育话语跨空间流通的论文，使用行动者网络理论分析阿根廷 Conectar Igualdad 项目"
+type: person
+nationality: argentina
+tags:
+  - region/argentina
+  - theme/comparative-education
+  - theme/educational-transfer
+related_concepts:
+  - "[[Analytic Framework]]"
+related_theories:
+  - "[[Actor-Network Theory]]"
+related_methods:
+  - "[[Ethnography]]"
+related_persons: []
+related_facts:
+  - "[[Conectar Igualdad]]"
+related_arguments: []
+sources:
+  - "[[Beech_2015_GSE]]"
+confidence: medium
+status: draft
+created: 2026-06-07
+updated: 2026-06-07
+---
+
+# Alejandro Artopoulos
+
+---
+
+## 简介
+
+> [!info] 简介
+> Alejandro Artopoulos 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，与 Beech 合著了关于教育话语跨空间流通的论文。他参与了阿根廷「[[Conectar Igualdad|平等连接]]」项目（Conectar Igualdad）的三年期[[Ethnography|民族志研究]]，使用[[Actor-Network Theory|行动者网络理论]]分析课堂中的社会-物质组装（Beech & Artopoulos, 2015）。
+
+---
+
+## 核心思想
+
+> [!tip] [[Actor-Network Theory|ANT]] 在教育研究中的应用
+> Artopoulos 与 Beech 一起探索了[[Actor-Network Theory|行动者网络理论]]在教育研究中的应用，特别是如何通过重建课堂的社会-物质组装来揭示传统[[Analytic Framework|分析框架]]难以察觉的权力关系。他们的工作展示了非人类行动者（如电脑、软件、电池、充电器）如何在教育空间中施加权力（Beech & Artopoulos, 2015）。
+
+---
+
+## 来源
+
+- [[Beech_2015_GSE]]

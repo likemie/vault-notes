@@ -12,6 +12,7 @@ tags:
   - theory/globalization
 related_concepts:
   - "[[Network Governance]]"
+  - "[[Government to Governance Shift]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,7 +42,7 @@ updated: 2026-06-07
 > [!tip] 全球化教育政策
 > Rizvi & Lingard (2010) 认为，一些较早的理论和方法论资源已不再足够，需要新的工具，在一个日益网络化、由一系列跨国力量和联系塑造的世界中，需要一种新的全球想象力（引自 Beech & Artopoulos, 2015）。
 
-> [!tip] 从政府到治理的转变
+> [!tip] [[Government to Governance Shift|从政府到治理的转变]]
 > Rizvi & Lingard (2010) 分析了国家性质和运作方式的一系列变化，包括教育治理在国家组织、民族国家、次国家和全球、区域、国家和地方层面的非政府机构之间的分工（引自 Beech & Artopoulos, 2015）。
 
 ---

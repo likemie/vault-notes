@@ -23,7 +23,8 @@ related_methods:
   - "[[Ethnography]]"
 related_persons:
   - "[[Max Weber]]"
-related_facts: []
+related_facts:
+  - "[[Conectar Igualdad]]"
 related_arguments: []
 sources:
   - "[[Beech_2015_GSE]]"
@@ -68,7 +69,7 @@ updated: 2026-06-07
 > [!example]
 > - **课堂的物质建构**。McGregor (2004) 追踪科学实验室中不同物体（如实验室准备材料）如何塑造教学实践。Fenwick (1998) 展示了房间钥匙如何成为公立学校教师日常生活中的权力来源。Nespor (1994) 研究了大学物理和商业课程中通过不同时空组织方式创造的权力和知识网络（引自 Beech & Artopoulos, 2015）。
 > - **教育改革分析**。Resnik (2006–2012) 使用 ANT 在新[[Max Weber|韦伯]]主义视角下研究以色列和法国的教育改革，追踪影响和参与改革的政策行动者网络。她探索使用 ANT 构建「多尺度视野」，整合宏观、中观和微观层面的分析（引自 Beech & Artopoulos, 2015）。
-> - **阿根廷 Conectar Igualdad 项目**。Beech & Artopoulos (2015) 使用 ANT 分析阿根廷「平等连接」项目（每台电脑分配给一名中学生），展示了如何通过重建课堂的社会-物质组装来揭示传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
+> - **阿根廷 [[Conectar Igualdad]] 项目**。Beech & Artopoulos (2015) 使用 ANT 分析阿根廷「平等连接」项目（每台电脑分配给一名中学生），展示了如何通过重建课堂的社会-物质组装来揭示传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
 
 ---
 

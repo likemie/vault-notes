@@ -311,6 +311,15 @@
     ]
   },
   {
+    "title": "Circular Transfer",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Circular Transfer.md",
+    "aliases": [
+      "循环转移",
+      "circular transfer"
+    ]
+  },
+  {
     "title": "Confucian Heritage Cultures",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
@@ -396,6 +405,16 @@
     ]
   },
   {
+    "title": "Government to Governance Shift",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Government to Governance Shift.md",
+    "aliases": [
+      "从政府到治理的转变",
+      "government to governance",
+      "shift from government to governance"
+    ]
+  },
+  {
     "title": "Grammar of Schooling",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Grammar of Schooling.md",
@@ -429,6 +448,16 @@
     "path": "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
     "aliases": [
       "元文化敏感度"
+    ]
+  },
+  {
+    "title": "Normal School",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Normal School.md",
+    "aliases": [
+      "师范学校",
+      "normal school",
+      "师范院校"
     ]
   },
   {
@@ -6725,6 +6754,24 @@
     ]
   },
   {
+    "title": "Alejandro Artopoulos",
+    "type": "person",
+    "path": "wiki/persons/argentina/Alejandro Artopoulos.md",
+    "aliases": [
+      "亚历杭德罗·阿尔托普洛斯",
+      "Artopoulos, A."
+    ]
+  },
+  {
+    "title": "Jason Beech",
+    "type": "person",
+    "path": "wiki/persons/argentina/Jason Beech.md",
+    "aliases": [
+      "贾森·比奇",
+      "Beech, J."
+    ]
+  },
+  {
     "title": "Walter Mignolo",
     "type": "person",
     "path": "wiki/persons/argentina/Walter Mignolo.md",
@@ -7967,6 +8014,16 @@
     "aliases": [
       "伊冯娜·林肯",
       "Lincoln"
+    ]
+  },
+  {
+    "title": "Conectar Igualdad",
+    "type": "fact",
+    "path": "wiki/facts/argentina/Conectar Igualdad.md",
+    "aliases": [
+      "平等连接",
+      "Conectar Igualdad Program",
+      "PCI"
     ]
   },
   {

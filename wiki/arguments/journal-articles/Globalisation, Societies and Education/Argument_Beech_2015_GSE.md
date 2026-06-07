@@ -20,21 +20,21 @@ related_concepts:
   - "[[Global-Local Binary]]"
   - "[[Relational Space]]"
   - "[[Recontextualization]]"
+  - "[[Normal School]]"
   - "[[Grammar of Schooling]]"
+  - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
+  - "[[Posthumanism]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Analytic Framework]]"
+  - "[[Effective Teaching]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-related_methods: []
-related_persons:
-  - "[[Bruno Latour]]"
-  - "[[Bob Lingard]]"
-  - "[[Fazal Rizvi]]"
-  - "[[Stephen Ball]]"
-  - "[[Gita Steiner-Khamsi]]"
-  - "[[Doreen Massey]]"
-related_facts: []
+related_methods:
+  - "[[Ethnography]]"
+related_persons: []
+related_facts:
+  - "[[PISA]]"
+  - "[[Conectar Igualdad]]"
 related_arguments: []
 sources:
   - "[[Beech_2015_GSE]]"
@@ -73,9 +73,9 @@ updated: 2026-06-07
 
 ### 转移概念的静态空间假设
 
-大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。在这种空间概念下，教育转移被解释为某些教育思想或制度存在于某个语境（通常是民族国家），然后通过不同机制被转移到另一个语境。这种「静态的转移解释」认为思想在某个地点被生产，然后在另一个地点被接收。一些文化主义视角强调外国教育思想的本地适应和[[Recontextualization|再脉络化]]过程（Steiner-Khamsi, 2000; Schriewer, 2000），但这些解释同样基于地缘政治和领土性的空间定义。
+大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。在这种空间概念下，教育转移被解释为某些教育思想或制度存在于某个语境（通常是民族国家），然后通过不同机制被转移到另一个语境。这种「静态的转移解释」认为思想在某个地点被生产，然后在另一个地点被接收。一些文化主义视角强调外国教育思想的本地适应和[[Recontextualization|再脉络化]]过程（Steiner-Khamsi, 2000; Schriewer, 2000），还有学者提出[[Circular Transfer|循环转移]]概念，指教育思想在出借者和借用者之间来回移动。但这些解释同样基于地缘政治和领土性的空间定义。
 
-> [!example] 师范学校的流通轨迹
+> [!example] [[Normal School|师范学校]]的流通轨迹
 > 师范学校作为培训小学教师的机构，18 世纪起源于欧洲。「师范」（normal）一词最早在普鲁士使用，后传入瑞士和法国（Larsen, 2011）。师范学校对旅行者和改革者极具吸引力，他们前往这些国家寻找可模仿的模型。由此，师范学校被「转移」到加拿大、美国、墨西哥、阿根廷、哥伦比亚、智利、巴西、芬兰、日本、中国、台湾、菲律宾、新西兰等地。
 >
 > 以阿根廷为例，通常认为阿根廷复制（或转移）了法国师范学校作为教师培训模型（Alliaud, 1993）。然而实际过程远为复杂。萨米恩托（Sarmiento）是阿根廷政治家和知识分子，被视为阿根廷教育体系的奠基人。1842 年流亡期间，他在智利创立并主持了该国第一所师范学校。三年后受智利政府派遣考察欧美教育体系，深受马萨诸塞州霍勒斯·曼（Horace Mann）的工作吸引，与之建立了密切关系（Velleman, 2001）。1869 年萨米恩托担任阿根廷总统后，在巴拉那市（Paraná）以波士顿模型为基础创立了阿根廷第一所师范学校。
@@ -121,7 +121,7 @@ updated: 2026-06-07
 [[Policy Borrowing|政策借用]]概念存在两个问题。第一，Phillips (2000) 指出「借用」一词在语言上暗示了暂时性。他列举了其他曾被使用的术语，包括复制、挪用和进口，但最终回到了借用一词。第二，也是更重要的问题，[[Policy Borrowing|政策借用]]倾向于只关注国家政策，通常是书面政策文本。
 
 > [!warning] 只关注国家政策的局限
-> 如果只将注意力集中在国家政策上，就会错过教育话语权力扩散的大部分机制。在从政府到治理的转变中，权力的流通方式发生了变化。
+> 如果只将注意力集中在国家政策上，就会错过教育话语权力扩散的大部分机制。在[[Government to Governance Shift|从政府到治理的转变]]中，权力的流通方式发生了变化。
 >
 > [[Network Governance|网络治理]]描述了国家性质和运作方式的一系列变化。这并不一定意味着国家的削弱，但涉及教育治理在国家组织、民族国家、次国家和非政府机构之间的分工（Dale, 2005）。国家适应并转变为「网络国家」，由国际、跨国、国家、区域、地方和非政府政治机构之间的复杂权力共享和协商决策网络构成（Castells, 2000）。
 >
@@ -138,7 +138,7 @@ updated: 2026-06-07
 ### 关系性空间与 ANT 的替代方案
 
 > [!success] [[Relational Space|关系性空间]]
-> 关系性空间概念意味着将空间理解为由社会行动者之间的关系所构成。网络不被包含在空间中，网络生产和塑造空间。空间是效果，不是容器。这一视角有助于超越全球/地方、宏观/微观等固定二元对立（Beech & Artopoulos, 2015, 引自 Larsen & Beech, 2014）。
+> 关系性空间概念意味着将空间理解为由社会行动者之间的关系所构成。网络不被包含在空间中，网络生产和塑造空间。空间是效果，不是容器。这一视角有助于超越全球/地方、宏观/微观等固定二元对立（[[Jason Beech|Beech]] & [[Alejandro Artopoulos|Artopoulos]], 2015, 引自 Larsen & Beech, 2014）。
 
 > [!success] [[Actor-Network Theory|行动者网络理论]]的核心原则
 >
@@ -155,7 +155,7 @@ updated: 2026-06-07
 
 ### 经验分析，阿根廷 Conectar Igualdad 项目
 
-使用 ANT 分析阿根廷「平等连接」项目（Conectar Igualdad, PCI），一个旨在向全国所有中学生每人分配一台电脑的项目。经验数据来自一个为期三年的项目，通过[[Ethnography|民族志]]方法访谈了国家和省级官员、校长、教师和学生，并观察了课堂和学校活动。
+使用 ANT 分析阿根廷「[[Conectar Igualdad|平等连接]]」项目（Conectar Igualdad, PCI），一个旨在向全国所有中学生每人分配一台电脑的项目。经验数据来自一个为期三年的项目，通过[[Ethnography|民族志]]方法访谈了国家和省级官员、校长、教师和学生，并观察了课堂和学校活动。
 
 > [!example] 传统分析视角下的 PCI
 > 如果从传统的静态转移视角分析 PCI，叙事会从 Negroponte 在 2005 年达沃斯世界经济论坛上展示「每童一电脑」项目开始。几年后乌拉圭启动了 Plan Ceibal，阿根廷政府在评估后决定创建类似计划但使用英特尔技术。2010 年 PCI 成为世界上最大的学生笔记本电脑分配项目，到 2014 年 3 月已部署 380 万台电脑。在联邦制国家中，实施涉及从国家到省、到学校、再到课堂的「下放」。

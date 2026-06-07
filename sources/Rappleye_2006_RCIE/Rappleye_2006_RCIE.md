@@ -5,7 +5,6 @@ extracted_to:
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
   - "[[Pre-Transfer Agency]]"
-  - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Jurgen Schriewer]]"
   - "[[David Phillips]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Kimberly Ochs]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Policy Borrowing]]"
+  - "[[Late Qing Borrowing of Japanese Education]]"
 processed_date: 2026-05-06
 ---
 
