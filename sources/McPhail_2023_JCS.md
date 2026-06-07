@@ -11,9 +11,9 @@ extracted_to:
   - "[[Curriculum Design Coherence Model]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Powerful Knowledge]]"
-  - "[[Argument_McPhail_2023_JCS]]"
   - "[[Social Realism]]"
   - "[[Lev Vygotsky]]"
+  - "[[Argument_McPhail_2023_JCS]]"
 processed_date: 2026-06-07
 ---
 
