@@ -927,7 +927,12 @@ def argument_body_links() -> set[str]:
 
 def check_new_entries_mentioned_in_arguments(paths: List[Path], issues: List[Issue]) -> None:
     new_entries: list[tuple[Path, str, str]] = []
+    seen_paths: set[Path] = set()
     for path in paths:
+        resolved = path.resolve()
+        if resolved in seen_paths:
+            continue
+        seen_paths.add(resolved)
         if not is_wiki_entry_path(path):
             continue
         if git_path_exists_at_head(path):
@@ -1033,7 +1038,14 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> L
     for p in unique_files:
         lint_file(p, by_title, path_to_title, issues)
 
-    check_new_entries_mentioned_in_arguments(unique_files, issues)
+    argument_check_files = list(unique_files)
+    # Even when lint is path-scoped, new extracted entries are a vault-level
+    # invariant: they must be introduced from an Argument page. Include git
+    # changed files so a new Person/Concept/etc. is not missed when the user
+    # linted only the current Argument page.
+    if paths:
+        argument_check_files.extend(git_changed_md_files())
+    check_new_entries_mentioned_in_arguments(argument_check_files, issues)
 
     return issues
 
