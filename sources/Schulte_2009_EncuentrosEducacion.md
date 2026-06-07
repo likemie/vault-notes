@@ -13,8 +13,8 @@ extracted_to:
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
   - "[[John Dewey]]"
-  - "[[Recontextualization]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Recontextualization]]"
 processed_date: 2026-05-26
 ---
 

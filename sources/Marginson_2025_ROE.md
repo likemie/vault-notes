@@ -13,8 +13,8 @@ extracted_to:
   - "[[Scale in Higher Education]]"
   - "[[Space-Making]]"
   - "[[Power-Geometries]]"
-  - "[[Methodological Nationalism]]"
   - "[[Doreen Massey]]"
+  - "[[Methodological Nationalism]]"
 processed_date: 2026-05-12
 ---
 

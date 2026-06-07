@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Transhumanism]]"
   - "[[Humosity]]"
+  - "[[Big Ideas]]"
   - "[[Sympoiesis]]"
   - "[[Response-ability]]"
   - "[[SF (Haraway)]]"
@@ -23,12 +24,14 @@ related_concepts:
 related_theories:
   - "[[Transition Design]]"
   - "[[Autopoiesis]]"
+  - "[[Actor-Network Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
+  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -57,7 +60,7 @@ updated: '2026-05-18'
 > [!note-] 概念演变
 > Amos 追溯了两条后人类主义的当代思想脉络（Amos, 2022, pp.60–63）：
 >
-> - **Haraway 脉络（2016）**：以 *Staying with the Trouble* 为代表，核心概念为 [[Sympoiesis]]（共同制造）、[[Response-ability]]（[[Response-ability|回应能力]]）、SF（线绳图案／[[SF (Haraway)|推测性编造]]／科幻／迄今）。立场是"后救赎、后乐观"——彻底关注当下，"可能没有未来，但一定有一个丰富的此时此地"
+> - **Haraway 脉络（2016）**：以 *Staying with the Trouble* 为代表，[[Big Ideas|核心概念]]为 [[Sympoiesis]]（共同制造）、[[Response-ability]]（[[Response-ability|回应能力]]）、SF（线绳图案／[[SF (Haraway)|推测性编造]]／科幻／迄今）。立场是"后救赎、后乐观"——彻底关注当下，"可能没有未来，但一定有一个丰富的此时此地"
 > - **Escobar 脉络（2018）**：以 *Designs for the Pluriverse* 为代表，核心概念为 pluriverse（多元世界）和 [[Transition Design]]（[[Transition Design|转型设计]]）。语气比 Haraway 更充满希望——相信通过结社和连接，地方方案可以在更大尺度上起作用
 > - **Weil/Supiot 脉络（2019）**：Simone Weil 的 [[Mondialisation]]（世界化），恢复"全球化"一词在 Decroly (1929) 那里的原初含义——作为一种把握整体现实的认知功能，而非市场、劳动力灵活化和文化同质化的同义词
 >
@@ -72,6 +75,7 @@ updated: '2026-05-18'
 > - **[[Sympoiesis]] > [[Autopoiesis]]**：Haraway 以"共同制造"取代 Maturana & Varela 的"自我制造"，认为后者过度强调自我指涉性而忽视相互依存（Amos, 2022, pp.62–63）
 > - **世界制造（world making）**：世界不是给定的，而是通过叙事、设计和实践被持续制造——Haraway 通过 [[SF (Haraway)]]（讲故事），Escobar 通过设计
 > - **自我的非固化（non-solidity of the self）**：Escobar 援引 Varela (1999) 的伦理诀窍——自我不是固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这一点，产生一种根本性的关爱心态（Amos, 2022, p.63）
+> - **非人类行动者的能动性**：[[Actor-Network Theory|行动者网络理论]]基于后人类主义的对称性原则，假定非人类物体具有能动性（agency），不应与人类区别对待。Latour (2004) 提出「没有非人类，人类连一分钟都撑不过」。物体施加力量、产生吸引或排斥，与其他物体和人类结合并在过程中发生变化。在教育研究中，教科书、电脑、软件等非人类行动者被纳入分析，展示它们如何在课堂中施加权力（Beech & Artopoulos, 2015）
 >
 
 ## 理论基础
@@ -98,3 +102,4 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Ch4_Amos_2022]]
+- [[Beech_2015_GSE]]

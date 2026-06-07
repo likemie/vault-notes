@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Buen Vivir]]"
   - "[[Humosity]]"
-  - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[SF (Haraway)]]"
   - "[[Sympoiesis]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"
   - "[[Robert Cowen]]"
+  - "[[Posthumanism]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

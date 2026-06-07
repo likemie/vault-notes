@@ -25,7 +25,6 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
   - "[[Learner-Centred Education]]"
-  - "[[Government to Governance Shift]]"
   - "[[Relational Space]]"
   - "[[School Autonomy]]"
 related_theories:

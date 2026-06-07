@@ -11,7 +11,6 @@ extracted_to:
   - "[[Outcomes in Comparative Education]]"
   - "[[Outcomes-based Education]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
-  - "[[Recontextualization]]"
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
   - "[[Regulative and Instructional Discourse]]"
@@ -19,6 +18,7 @@ extracted_to:
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Curriculum Design Coherence Model]]"
+  - "[[Recontextualization]]"
 processed_date: 2026-06-07
 ---
 

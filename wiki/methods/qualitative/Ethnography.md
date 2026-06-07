@@ -16,6 +16,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -23,10 +24,12 @@ related_methods:
   - "[[Case Study]]"
   - "[[Grounded Theory]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Conectar Igualdad]]"
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
+  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -68,8 +71,9 @@ updated: 2026-05-30
 
 > [!success]
 > - 需要理解某一群体的文化、行为模式和意义体系时。
-> - 适合探索课堂文化、学校文化、专业社群文化等教育情境。
+> - 适合探索课堂文化、学校教育技术、专业社群文化等教育情境。
 > - 适合需要长时间观察才能揭示的隐性社会规范和互动模式。
+> - 适合研究教育政策的实施过程，如 Beech & Artopoulos (2015) 使用民族志方法研究阿根廷 [[Conectar Igualdad]] 项目，通过三年的田野工作（访谈国家和省级官员、校长、教师和学生，观察课堂和学校活动）揭示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
 
 ## 局限性
 
@@ -88,3 +92,4 @@ updated: 2026-05-30
 ## 来源
 
 - [[Creswell_2022_SAGE]]
+- [[Beech_2015_GSE]]

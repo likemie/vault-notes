@@ -97,7 +97,6 @@ extracted_to:
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Descriptive Methods]]"
-  - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Interview Protocol]]"
   - "[[Member Checking]]"
@@ -143,6 +142,7 @@ extracted_to:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Ethnography]]"
 processed_date: 2026-05-30
 ---
 

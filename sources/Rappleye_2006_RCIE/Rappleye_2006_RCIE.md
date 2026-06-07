@@ -11,8 +11,8 @@ extracted_to:
   - "[[Jeremy Rappleye]]"
   - "[[Kimberly Ochs]]"
   - "[[Gita Steiner-Khamsi]]"
-  - "[[Policy Borrowing]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
+  - "[[Policy Borrowing]]"
 processed_date: 2026-05-06
 ---
 

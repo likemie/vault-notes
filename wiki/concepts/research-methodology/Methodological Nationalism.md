@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Classical Geopolitics]]"
+  - "[[Recontextualization]]"
   - "[[Relational Space]]"
   - "[[Multiplicity]]"
   - "[[Analytic Framework]]"
@@ -20,6 +21,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
+  - "[[Beech_2015_GSE]]"
   - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
@@ -54,7 +56,7 @@ updated: '2026-05-18'
 > - **遮蔽全球现象** — 方法论民族主义透镜阻挡了对生态、科学（就其认识论自主性而言）等全球性现象的观察（Marginson, 2025, p. 8）
 > - **与规范性民族主义的共生** — 二者相互倚靠，Massey（2005）称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试（Marginson, 2025, p. 8）
 > - **在高等教育中的具体表现** — 比较教育研究中以国家为唯一比较单位；大学排名将"国家表现"作为关键指标；政策研究将跨境流动视为国家政策的附属物（Marginson, 2025, pp. 8–9）
-> - **在比较教育中的具体表现** — 大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。Beech & Artopoulos (2015) 指出，这种「静态的转移解释」将教育思想的生产地和接收地视为固定的国家领土，忽视了知识在流通过程中被建构的关系性维度。
+> - **在比较教育中的具体表现** — 大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。Beech & Artopoulos (2015) 指出，这种「静态的转移解释」将教育思想的生产地和接收地视为固定的国家领土，忽视了知识在流通过程中被建构的关系性维度。从 Jullien 以来，比较教育的主流传统都在寻找「在一个语境中有效」的制度、思想或实践，然后试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应和[[Recontextualization|再脉络化]]过程，仍然基于地缘政治和领土性的空间定义。
 
 ---
 
@@ -84,4 +86,5 @@ updated: '2026-05-18'
 
 ## 来源
 
+- [[Beech_2015_GSE]]
 - [[Marginson_2025_ROE]]

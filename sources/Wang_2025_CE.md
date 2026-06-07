@@ -9,8 +9,8 @@ extracted_to:
   - "[[Learner-Centred Education]]"
   - "[[Yrjö Engeström]]"
   - "[[Third Generation Activity Theory]]"
-  - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
+  - "[[Recontextualization]]"
 processed_date: 2026-05-26
 ---
 
