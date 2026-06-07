@@ -3,9 +3,9 @@ citation: "Simpson, A. (2019). Separating arguments from conclusions: The mistak
 extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Argument_Simpson_2019]]"
+  - "[[Adrian Simpson]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Adrian Simpson]]"
 processed_date: 2026-05-03
 ---
 

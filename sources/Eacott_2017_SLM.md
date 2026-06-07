@@ -5,8 +5,8 @@ extracted_to:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Visible Learning]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---

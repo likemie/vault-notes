@@ -14,8 +14,8 @@ extracted_to:
   - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[Meta-analysis]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-03

@@ -4166,6 +4166,14 @@
     ]
   },
   {
+    "title": "Forest Plot",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Forest Plot.md",
+    "aliases": [
+      "森林图"
+    ]
+  },
+  {
     "title": "Gatekeepers",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Gatekeepers.md",
@@ -5762,6 +5770,15 @@
     ]
   },
   {
+    "title": "Walberg's Educational Productivity Model",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Walberg's Educational Productivity Model.md",
+    "aliases": [
+      "教育生产力模型",
+      "Walberg九因素模型"
+    ]
+  },
+  {
     "title": "Concealment-Exposure Framework",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Concealment-Exposure Framework.md",
@@ -6382,6 +6399,15 @@
     ]
   },
   {
+    "title": "Systematic Review",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Systematic Review.md",
+    "aliases": [
+      "系统综述",
+      "系统性综述"
+    ]
+  },
+  {
     "title": "Triangulation",
     "type": "method",
     "path": "wiki/methods/qualitative/Triangulation.md",
@@ -6390,6 +6416,15 @@
       "三角互证",
       "triangulate",
       "data triangulation"
+    ]
+  },
+  {
+    "title": "Umbrella Review",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Umbrella Review.md",
+    "aliases": [
+      "伞状综述",
+      "概括性综述"
     ]
   },
   {
@@ -6533,6 +6568,17 @@
     ]
   },
   {
+    "title": "Fixed-Effect and Random-Effects Models",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
+    "aliases": [
+      "固定效应模型",
+      "随机效应模型",
+      "Fixed-Effect Model",
+      "Random-Effects Model"
+    ]
+  },
+  {
     "title": "Functional Magnetic Resonance Imaging",
     "type": "method",
     "path": "wiki/methods/quantitative/Functional Magnetic Resonance Imaging.md",
@@ -6595,6 +6641,15 @@
       "元综合",
       "super-analysis",
       "super-synthesis"
+    ]
+  },
+  {
+    "title": "Moderator Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Moderator Analysis.md",
+    "aliases": [
+      "调节变量分析",
+      "调节效应分析"
     ]
   },
   {

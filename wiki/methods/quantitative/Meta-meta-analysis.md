@@ -34,10 +34,13 @@ related_concepts:
   - "[[Cargo Cult Science]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Walberg's Educational Productivity Model]]"
   - "[[Critical Realism]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Moderator Analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
 related_persons:
   - "[[John Hattie]]"
@@ -102,7 +105,7 @@ updated: '2026-05-21'
 > [!note] 历史发展
 > **Fraser, Walberg & [[John Hattie|Hattie]]（1987）——首次大规模元综合**
 >
-> [[Gene Glass|Glass]] 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项元分析，以检验 Walberg 的教育生产力模型。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及（Higgins, 2016, pp.41–42）。
+> [[Gene Glass|Glass]] 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及（Higgins, 2016, pp.41–42）。
 >
 > **[[John Hattie|Hattie]]（1992）——"通用连续体"**
 >
@@ -110,7 +113,7 @@ updated: '2026-05-21'
 >
 > **Sipe & Curlette（1997）——系统性方法论推进**
 >
-> Sipe & Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行调节变量分析。他们估计其纳入的元分析与 Fraser et al.（1987）和 Hattie（1992）的重叠不到 10%（Higgins, 2016, p.43）。
+> Sipe & Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.（1987）和 Hattie（1992）的重叠不到 10%（Higgins, 2016, p.43）。
 >
 > **[[Robert Marzano|Marzano]]（1998）——理论驱动的元综合**
 >
@@ -143,7 +146,7 @@ updated: '2026-05-21'
 > 5. **排名**：将所有 138 个因素按效应量从高到低排名
 
 
-> [!example] 固定效应模型的数学基础与方法论要求
+> [!example] [[Fixed-Effect and Random-Effects Models|固定效应模型]]的数学基础与方法论要求
 > Wecker, Vogel & Hetmanek（2016, pp.24–26, 37–38）从固定效应模型（Fixed-Effect Model）的数学基础出发，系统推导了二级元分析必须满足的方法论要求，并提供了完整的数学等价性证明。详见 [[Argument_Wecker_2016_ZfE]]。
 >
 > #### 数学模型
@@ -248,7 +251,7 @@ updated: '2026-05-21'
 >
 > 元-元分析中的单一边际效应量可能把第三[[Variable|变量]]误读为干预影响。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约为 0.15；加入学生社会经济背景作为协变量后，控制效应量降至 0.08 且不再显著（Allerup, 2015, pp.49–51）。这说明排名表不仅受一级元分析质量影响，也受每项研究是否采用边际分析或多变量模型影响。
 >
-> **Wecker et al.（2016）——6 项方法论要求的系统性违背。** Wecker, Vogel & Hetmanek（2016）以固定效应模型为数学基准，推导了二级元分析必须满足的 6 项方法论要求（详见上方[[#6 项方法论要求]]），并证明 Hattie 的 *[[Visible Learning]]* 在所有六个分析步骤中均存在方法论不足（Wecker et al., 2016, pp.26–30）。关键发现：
+> **Wecker et al.（2016）——6 项方法论要求的系统性违背。** Wecker, Vogel & Hetmanek（2016）以[[Fixed-Effect and Random-Effects Models|固定效应模型]]为数学基准，推导了二级元分析必须满足的 6 项方法论要求（详见上方[[#6 项方法论要求]]），并证明 Hattie 的 *[[Visible Learning]]* 在所有六个分析步骤中均存在方法论不足（Wecker et al., 2016, pp.26–30）。关键发现：
 >
 > - **[[School Effectiveness|SE]]/SD 混淆**：在个别一级元分析的主要研究中，标准误被错误地当作标准差使用——例如 Eisenstaedt 等人（1990）中控制组 SE=2.74 被当作 SD 处理，导致效应量从约 −0.80 变为 −8.29（Wecker et al., 2016, pp.26–27）
 > - **效应量测度混合使用不做转换**：Hattie 交替使用 Cohen's d、Hedges' g、[[Gene Glass|Glass]]' Δ 和 Fisher's z，但二级汇总时直接合并而不做相互转换——"如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的"（Wecker et al., 2016, p.27）
@@ -338,7 +341,7 @@ updated: '2026-05-21'
 > [!example] 使用此方法的研究
 > - [[Visible Learning]] — [[John Hattie|Hattie]] (2009) 的 800+ [[Meta-analysis|元分析]]综合，该方法的标志性应用（Terhart, 2011）
 > - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 以[[Effect Size|效应量]]排名 30+ 类教育干预的联盟表工具（Wrigley & McCusker, 2019）
-> - [[Argument_Wecker_2016_ZfE]] — 从固定效应模型数学基础对 Hattie VL 进行系统性的内部+外部方法论批判（Wecker et al., 2016）
+> - [[Argument_Wecker_2016_ZfE]] — 从[[Fixed-Effect and Random-Effects Models|固定效应模型]]数学基础对 Hattie VL 进行系统性的内部+外部方法论批判（Wecker et al., 2016）
 > - [[Argument_Simpson_2017_JEP]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名（Simpson, 2017）
 > - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作（Simpson, 2019）
 > - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真（Wrigley & McCusker, 2019）

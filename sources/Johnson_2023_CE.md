@@ -12,8 +12,8 @@ extracted_to:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Class Size]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-04

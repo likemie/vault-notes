@@ -63,9 +63,11 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[John Dewey]]"
@@ -228,7 +230,7 @@ Wecker, Vogel & Hetmanek（2016), ZfE）发表了迄今为止对 Hattie 二级�
 
 #### 逐步检查方法论：6 项要求的来源
 
-Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确声明"应用了固定效应模型"（Hattie, 2009, p.12），他从方法论上承诺了该模型的所有数学约束。Wecker 等人从固定效应模型的数学基础（Hedges & Olkin, 1985; Borenstein et al., 2009）推导出二级元分析必须满足的 6 项要求（详见 [[Meta-meta-analysis]]），然后逐一对照 Hattie 的实际执行情况。
+Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确声明"应用了[[Fixed-Effect and Random-Effects Models|固定效应模型]]"（Hattie, 2009, p.12），他从方法论上承诺了该模型的所有数学约束。Wecker 等人从固定效应模型的数学基础（Hedges & Olkin, 1985; Borenstein et al., 2009）推导出二级元分析必须满足的 6 项要求（详见 [[Meta-meta-analysis]]），然后逐一对照 Hattie 的实际执行情况。
 
 **检查程序**：对每个要求：
 (a) 陈述该要求的数学基础（来自公式 1-6）
@@ -835,7 +837,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 | McKnight & Whitburn (2020) | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
 | **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
 
-此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/系统综述提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 批判理论出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
+此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 批判理论出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 
 ## 可见性的政治：Foucault 视角与文化政治批评
 

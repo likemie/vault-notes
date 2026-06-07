@@ -5,8 +5,8 @@ extracted_to:
   - "[[Visible Learning]]"
   - "[[Russian Translation of Visible Learning]]"
   - "[[Policy Borrowing]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-02
 ---

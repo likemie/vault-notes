@@ -13,10 +13,10 @@ extracted_to:
   - "[[Terry Wrigley]]"
   - "[[Critical Realism]]"
   - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Effect Size]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Meta-analysis]]"
   - "[[Adrian Simpson]]"
+  - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-01
 ---
 

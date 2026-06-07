@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Forest Plot]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
@@ -32,6 +33,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Analysis of Variance]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Observational and Correlational Research]]"
   - "[[Random Assignment]]"
 related_persons:
@@ -76,7 +78,7 @@ updated: '2026-05-21'
 > [!note] 历史发展
 > **思想先驱：[[Karl Pearson|Pearson]]（1904）**
 >
-> [[Karl Pearson|Karl Pearson]] 在 1904 年《英国医学杂志》上发表了最早的跨研究合并分析——合并英国军队在印度和南非的伤寒疫苗接种数据。他同时追求两个目标：合并多项小研究的发现以获得更可靠结论，以及探索研究间效果变异的原因（如志愿者自我选择偏差）。这两个目标构成了[[Meta-analysis|元分析]]的核心概念。他将每项研究结果以独立行呈现并给出平均相关系数的呈现方式，预示了后来森林图（forest plot）的标准形式（Higgins, 2016, p.33）。
+> [[Karl Pearson|Karl Pearson]] 在 1904 年《英国医学杂志》上发表了最早的跨研究合并分析——合并英国军队在印度和南非的伤寒疫苗接种数据。他同时追求两个目标：合并多项小研究的发现以获得更可靠结论，以及探索研究间效果变异的原因（如志愿者自我选择偏差）。这两个目标构成了[[Meta-analysis|元分析]]的核心概念。他将每项研究结果以独立行呈现并给出平均相关系数的呈现方式，预示了后来[[Forest Plot|森林图]]（forest plot）的标准形式（Higgins, 2016, p.33）。
 >
 > **Fisher 的统计基础（1930s–1950s）**
 >
@@ -88,7 +90,7 @@ updated: '2026-05-21'
 >
 > **医学领域的发展（1970s–1980s）**
 >
-> Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了[[Meta-analysis|元分析]]在医学证据综合中的力量。Richard Peto 推广了固定效应模型（按精度加权）。Larry Hedges（1983）倡导随机效应模型，DerSimonian & Laird（1986）提供了简化的计算公式（Higgins, 2016, pp.38–39）。
+> Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了[[Meta-analysis|元分析]]在医学证据综合中的力量。Richard Peto 推广了[[Fixed-Effect and Random-Effects Models|固定效应模型]]（按精度加权）。Larry Hedges（1983）倡导随机效应模型，DerSimonian & Laird（1986）提供了简化的计算公式（Higgins, 2016, pp.38–39）。
 >
 > **"苹果和橙子"争论（1980s）**
 >
@@ -109,7 +111,7 @@ updated: '2026-05-21'
 > 3. **加权与平均**：对效应量进行加权（通常按样本量），计算平均效应量
 > 4. **报告**：以平均效应量（有时转换为更直观的单位，如 [[Education Endowment Foundation|EEF]] Toolkit 的"额外学习月数"）呈现结果
 >
-> [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）是在元分析基础上进一步聚合——综合多个元分析的效应量产生更高层次的排名或估计。Wecker, Vogel & Hetmanek（2016）从固定效应模型推导了该方法必须满足的 6 项方法论要求（包括公式 1-9 的完整数学推导和等价性证明），并论证 [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 在六个分析步骤中均存在方法论不足。完整技术细节见 [[Meta-meta-analysis]]。
+> [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）是在元分析基础上进一步聚合——综合多个元分析的效应量产生更高层次的排名或估计。Wecker, Vogel & Hetmanek（2016）从[[Fixed-Effect and Random-Effects Models|固定效应模型]]推导了该方法必须满足的 6 项方法论要求（包括公式 1-9 的完整数学推导和等价性证明），并论证 [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 在六个分析步骤中均存在方法论不足。完整技术细节见 [[Meta-meta-analysis]]。
 
 ## 适用场景
 

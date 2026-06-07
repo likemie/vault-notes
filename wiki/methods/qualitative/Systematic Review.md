@@ -13,19 +13,21 @@ tags:
 - methodology
 - literature-review
 related_concepts:
-  - "[[Publication Bias]]"
   - "[[Effect Size]]"
-  - "[[Heterogeneity]]"
+  - "[[Research Question]]"
+  - "[[Publication Bias]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Umbrella Review]]"
-  - "[[Literature Review]]"
-related_persons: []
-related_arguments:
+related_persons:
+  - "[[Gene Glass]]"
+related_arguments: []
+sources:
   - "[[Argument_Higgins_2016_RE]]"
-sources: []
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -44,13 +46,13 @@ updated: '2026-06-08'
 ## 核心程序
 
 > [!example] 核心程序
-> **1. 制定研究问题和纳入标准**
+> **1. 制定[[Research Question|研究问题]]和纳入标准**
 >
-> 明确界定要回答的问题，并预先确定哪些研究符合纳入条件。纳入标准通常涉及研究设计（如是否为随机对照试验）、参与者特征（如学龄儿童）、干预类型（如语音教学）和结果测量（如阅读理解测试分数）（Higgins, 2016, p.32）。
+> 明确界定要回答的问题，并预先确定哪些研究符合纳入条件。纳入标准通常涉及研究设计（如是否为[[Randomised Controlled Trials|随机对照试验]]）、参与者特征（如学龄儿童）、干预类型（如语音教学）和结果测量（如阅读理解测试分数）（Higgins, 2016, p.32）。
 >
 > **2. 系统搜索**
 >
-> 使用多种数据库和搜索策略尽可能全面地识别符合条件的研究。搜索策略需要透明记录，以便他人重复。Sipe 和 Curlette（1997）的元综合就是一个例子，他们从 427 项研究中通过严格纳入标准筛选出 103 项（Higgins, 2016, p.43）。
+> 使用多种数据库和搜索策略尽可能全面地识别符合条件的研究。搜索策略需要透明记录，以便他人重复。Sipe 和 Curlette（1997）的[[Meta-meta-analysis|元综合]]就是一个例子，他们从 427 项研究中通过严格纳入标准筛选出 103 项（Higgins, 2016, p.43）。
 >
 > **3. 筛选与质量评估**
 >
@@ -76,7 +78,7 @@ updated: '2026-06-08'
 
 > [!warning] 局限性
 > - 搜索策略的完整性直接影响结论的可靠性。即使系统搜索也可能遗漏未发表的研究，导致[[Publication Bias|发表偏差]]（Higgins, 2016, p.35）
-> - 纳入标准的设定涉及主观判断。标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 Glass 的回应反映了这一两难（Higgins, 2016, p.38）
+> - 纳入标准的设定涉及主观判断。标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 [[Gene Glass|Glass]] 的回应反映了这一两难（Higgins, 2016, p.38）
 > - 系统综述的质量取决于底层研究的质量。即使搜索和筛选过程完全透明，如果原始研究本身存在设计缺陷或报告偏差，综述结论仍可能误导（Higgins, 2016, p.35）
 
 ---

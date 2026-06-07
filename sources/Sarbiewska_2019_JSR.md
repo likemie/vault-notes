@@ -10,9 +10,9 @@ extracted_to:
   - "[[Radical Constructivism]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Effect Size]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Effect Size]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

@@ -26,8 +26,8 @@ extracted_to:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Effect Size]]"
   - "[[Single-Case Design]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-05
 ---
 

@@ -13,11 +13,14 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Forest Plot]]"
   - "[[Variable]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Moderator Analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Karl Pearson]]"
@@ -46,15 +49,15 @@ updated: '2026-06-08'
 > 异质性的判断和处理是[[Meta-analysis|元分析]]的核心步骤：
 >
 > **1. 检测异质性**
-> - 通过统计检验（如 Q 检验）和可视化（如森林图）判断研究间变异是否超出抽样误差
+> - 通过统计检验（如 Q 检验）和可视化（如[[Forest Plot|森林图]]）判断研究间变异是否超出抽样误差
 > - I² 统计量描述异质性占总变异的比例
 >
 > **2. 探索异质性来源**
-> - 调节[[Variable|变量]]分析（moderator analysis）：识别与更大或更小效应相关的研究特征，如学生年龄、干预时长、教师培训程度、特定资源的使用等（Higgins, 2016, p.32）
+> - 调节[[Variable|变量]]分析（[[Moderator Analysis]]）：识别与更大或更小效应相关的研究特征，如学生年龄、干预时长、教师培训程度、特定资源的使用等（Higgins, 2016, p.32）
 > - 这一功能对教育研究尤其重要——理解"什么条件下效果更好"往往比"平均效果多大"更有实践价值
 >
 > **3. 选择统计模型**
-> - **固定效应模型（Fixed-Effect Model）**：假设所有研究估计同一个真实[[Effect Size|效应量]]，观察到的差异仅来自抽样误差。按精度（方差倒数）加权——标准误小的研究贡献更大（Higgins, 2016, p.39）
+> - **[[Fixed-Effect and Random-Effects Models|固定效应模型]]（Fixed-Effect Model）**：假设所有研究估计同一个真实[[Effect Size|效应量]]，观察到的差异仅来自抽样误差。按精度（方差倒数）加权——标准误小的研究贡献更大（Higgins, 2016, p.39）
 > - **随机效应模型（Random-Effects Model）**：假设每项研究有自己的随机变异，同时考虑研究内和研究间变异。由 Larry Hedges（1983）倡导，DerSimonian & Laird（1986）向医学研究者推广（Higgins, 2016, p.39）
 > - 两种模型的选择直接影响汇总估计和推论
 

@@ -41,6 +41,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
   - "[[Power Analysis]]"
 related_persons:
@@ -373,7 +374,7 @@ Wecker, Vogel & Hetmanek（2016）在审查 Hattie 的二级元分析时，记�
 
 - **标准误与标准差的混淆**：在个别一级元分析的主要研究中，标准误被错误地当作标准差使用（Wecker et al., 2016, pp.26–27）。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的 [[School Effectiveness|SE]]=2.74 被当作 SD 来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
 - **效应量测度混合使用**：Hattie 交替使用 Cohen's d、Hedges' g、[[Gene Glass|Glass]]' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
-- **固定效应模型的错误加权**：Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
+- **[[Fixed-Effect and Random-Effects Models|固定效应模型]]的错误加权**：Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
 
 #### O'Connor（2020）：不加权平均与选择性修正
 
