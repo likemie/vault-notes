@@ -2135,6 +2135,29 @@
     ]
   },
   {
+    "title": "Mentorship",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Mentorship.md",
+    "aliases": [
+      "导师制",
+      "导师关系",
+      "mentoring",
+      "mentorship",
+      "mentor"
+    ]
+  },
+  {
+    "title": "Mentorship Recognition",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Mentorship Recognition.md",
+    "aliases": [
+      "导师认可",
+      "导师致谢",
+      "mentor recognition",
+      "mentor acknowledgement"
+    ]
+  },
+  {
     "title": "Mode 2 Knowledge Production",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Mode 2 Knowledge Production.md",
@@ -8943,6 +8966,16 @@
     ]
   },
   {
+    "title": "Nobel Prize in Physiology or Medicine",
+    "type": "fact",
+    "path": "wiki/facts/global/Nobel Prize in Physiology or Medicine.md",
+    "aliases": [
+      "诺贝尔生理学或医学奖",
+      "Nobel Prize in Medicine",
+      "Nobel Prize Physiology or Medicine"
+    ]
+  },
+  {
     "title": "2012 Moral and National Education Controversy",
     "type": "fact",
     "path": "wiki/facts/hongkong/2012 Moral and National Education Controversy.md",
@@ -10716,6 +10749,11 @@
     "title": "Argument_Bergeron_2017_MJE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
+  },
+  {
+    "title": "Argument_Sandrone_2025_MEO",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md"
   },
   {
     "title": "Argument_Grace_2010_NZJES",

@@ -1,0 +1,330 @@
+ISSN: 1087-2981 (Online) Journal homepage: www.tandfonline.com/journals/zmeo20
+
+Medical Education Online
+
+Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees
+
+Stefano Sandrone
+
+To cite this article: Stefano Sandrone (2025) Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees, Medical Education Online, 30:1, 2509554, DOI: 10.1080/10872981.2025.2509554
+
+To link to this article: https://doi.org/10.1080/10872981.2025.2509554
+
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+
+Published online: 25 May 2025.
+
+Submit your article to this journal
+
+Article views: 863
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=zmeo20
+
+MEDICAL EDUCATION ONLINE 2025, VOL. 30, 2509554 https://doi.org/10.1080/10872981.2025.2509554
+
+RESEARCH ARTICLE
+
+Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees
+
+Stefano Sandrone
+
+Department of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK
+
+ABSTRACT
+
+The Nobel Prize is one of the most coveted awards in the world. The Nobel winners, also called Laureates, are invited to Stockholm to deliver their Nobel Lecture. Typically, this includes a historical and scientific overview of their discoveries, often enriched by anecdotes from their personal and professional lives. In this study, we explored more than two hundred Nobel Lectures to examine whether, how and whom newly crowned Nobel Prize winners explicitly mentioned as their mentors. We conducted an exploratory analysis of 208 Nobel Lectures in Physiology or Medicine delivered between 1901 and 2023 by using the search function to look for the keyword mentor. Only twenty Nobel Laureates have explicitly acknowledged their mentors in their Nobel Lectures. This recognition, which first occurred 73 years after the award’s establishment, is more common among women, who are disproportionately underrepresented among awardees and often cited their postdoctoral advisors as mentors. The lack of overt recognition is surprising, especially considering the crucial role of mentorship in science, its broad societal value and the non-random patterns of Nobel mentoring relationships, where winners tend to have more Laureate ancestors, descendants and mentees. The word mentor appears more frequently in the Lasker Awards, although these were launched only in 1945 and feature brief ‘Acceptance Remarks’. Even Oscar speeches, introduced nearly 30 years after the Nobel Prize and typically lasting less than a minute, mention mentors more frequently than Nobel Lectures do. This highlights an unexpected gap in the explicit acknowledgment of mentors in the context of the Nobel Prize, which we report and discuss for the first time.
+
+Introduction
+
+ARTICLE HISTORY
+
+Received 9 May 2024 Revised 24 February 2025 Accepted 16 May 2025
+
+KEYWORDS
+
+Nobel Prize; Medicine; Physiology; mentors; mentoring; mentorship; Education; Award
+
+Mentorship is a central concept in science and medicine. It has been defined as ‘a nurturing process in which a more skilled or more experienced person, serving as a role model, teaches, sponsors, encourages, counsels and befriends a less skilled or less experienced person for the purpose of promoting the latter’s professional and/or personal development’ [1]. It is one of the scientists’ most significant collaborative relationships [2] and mentors have a crucial role in initiating a cumulative advantage process for the mentee [3]. In STEM, successful mentors tend to train successful students [4], and both mentors and mentees benefit from such relationships [5].
+
+The Nobel Prize is one of the world’s most coveted awards. It was established on the 29th of June, 1900 and has been defined as ‘the supreme reward for scientific achievement’ [6], ‘the most prestigious of all prizes for intellectual eminence’ [7] and ‘benchmark of scientific excellence and intellectual achievement’ [8]. Named after the Swedish inventor and businessman Alfred Nobel, it is surrounded by ‘towering prestige’ [9]. Securing this award guarantees
+
+a place in history, a sum of Swedish krona, a medal and a diploma.
+
+The origins of the Nobel Prize trace back to the day Alfred read in the newspaper about his death, after a journalist mistook the death of his brother for his own and labelled him the ‘merchant of death’ [10,11]. After reading that, Alfred Nobel decided to establish an award where the discoveries or inventions made ‘for the sake of mankind’ could be recognised [10,11]. Following his will, an annual award can be assigned for Physiology or Medicine, Physics, Chemistry, Literature and Peace [12]. Since 1968, a prize in Economic Sciences (nominally the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel) has been added [10].
+
+The prize for Physiology or Medicine is assigned by the Nobel Assembly at the Karolinska Institute in Stockholm [13]. Up to three people can receive this award annually, although the importance of going beyond the numeric limitation to acknowledge the collaborative and cooperative nature of research has been advocated [14]. The Nobel winners, also called Laureates, are invited to Stockholm to deliver their
+
+CONTACT Stefano Sandrone London, UK
+
+sandrone.stefano@gmail.com
+
+Department of Brain Sciences, Faculty of Medicine, Imperial College London,
+
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/by-nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+2
+
+S. SANDRONE
+
+Nobel Lecture. Typically, this includes a historical and scientific overview of their discoveries, often enriched by anecdotes from their personal and professional lives [15]. In this work, for the first time, we analysed over 200 Nobel Lectures to determine whether and how newly crowned Nobel Prize winners explicitly mentioned their mentors when they took the lectern to address the audience.
+
+Methods
+
+Nobel Lectures are freely accessible as PDF files or transcribed as plain text on the Nobel Prize website (https://www.nobelprize.org/prizes/medicine/). First, we downloaded all the available PDF files and the transcriptions for the category ‘Physiology or Medicine’. Then, we performed an exploratory analysis of the keyword mentor by using the ‘search’ function of the PDF reader and of the plain text reader software to count how many times this word appeared within the Nobel Lectures. As the Prize can be awarded to up to three people annually (from 1901 to 2023), the total number of lectures exceeds the number of years. In this work, we analysed 208 Nobel Lectures, namely all of them except where only the slides, but not the lecture transcript, were uploaded (i.e., Young in 2017 and the winners in 2022 and 2023); and when only a video recording, but not a lecture or its transcription, was available (i.e., 2020 and 2021). The Prize was not assigned in 1915–1918, 1921, 1925; hence, no Nobel Lecture was available for those years. In 1903, Niels Ryberg Finsen did not give a lecture; the 2010 symposium in honour of Robert G. Edwards was excluded from the analysis too as the 2011 lecture in honour of Ralph M. Steinman (who passed away just days before the announcement of the award, and the lecture was given by Michel C. Nussenzweig). No Nobel Lecture was found for Jules A. Hoffmann, the recipient of the Nobel Prize in 2011. We then used the same procedure to count how many times the word mentor was cited in the ‘Acceptance Remarks’ of the Lasker Award between 2014 and 2023 (they are available online in their written form at https://laskerfounda tion.org from 1976 onwards, but not for every year). Finally, we applied the same procedure to the ‘Acceptance Speeches’ of the Academy Awards (available online at https://aaspeechesdb.oscars.org/) between 1961 and 2022.
+
+Results
+
+The words mentor or mentorship appears in twenty of the 208 Nobel Lectures analysed (Table 1), representing 9.6% of the total. To date, only thirtheen women have been awarded the Nobel Prize in Physiology or Medicine so far, six before 2000 and seven since the
+
+turn of the millennium. Despite being underrepresented (less than 6% of Nobelists for Physiology or Medicine are female awardees), two of the twenty citations came from female winners. For twelve times, the mentor who has been cited was a fellow Nobel Laureate. The first citation occurred only in 1974, namely 73 years after the award was launched. When exploring who the cited mentors are, the most commonly mentioned individuals are former PhD supervisors or postdoctoral supervisors. Six of the twenty citations were made by two different scientists who received the Nobel Prize as co-winners in the same years (1998, 2002, 2014).
+
+Discussion
+
+Only twenty Nobel Laureates have acknowledged their mentors in their Nobel Lectures between 1901 and 2023. This lack of recognition is unexpected as the pattern of Nobel Laureate mentoring relationships is non-random. This was demonstrated by a network analysis of doctoral student-dissertation advisor relationships: Nobel Laureates tend to have many Nobel Laureate ancestors, descendants and mentees, with subnetworks entirely made of Nobel Prize-winning extending across four generations [16]. 696 of the 727 winners of the scientific Nobel Prizes belong to a single academic family tree [17]. Giuseppe Levi had three Nobel Laureates in Physiology or Medicine among his students: Rita Levi-Montalcini, Salvador Luria and Renato Dulbecco [18,19].
+
+Our methodological approach is straightforward, effective and free from bias, relying solely on counting the frequency of the word mentor within a given text. A similar lack of overt acknowledgement is absent in another prestigious scientific award. The Lasker Foundation Award, for example, is often regarded as a prologue to winning the Nobel Prize [20,21]. There are key differences between the Nobel and the Lasker Awards, with the latter established only in 1945 and not limited to three recipients per year. The Lasker acceptance speeches, officially called ‘Acceptance Remarks’, are available online in written form only from 1976 onwards (and not for every year). The Lasker Awards have slightly different categories: while the Nobel Prize is given for Physiology or Medicine tout court, there are, among the others, an ‘Albert Lasker Basic Medical Research Award’ and a ‘Lasker – DeBakey Clinical Medical Research Award’ (besides one for ‘Public Service Award’ and the ‘Lasker – Koshland Special Achievement Award in Medical Science’, which is only awarded occasionally). Still, by analysing the last ten years of ‘Acceptance Remarks’, which are briefer than the Nobel Lecture (about 3–4 minutes vs 30–40 minutes), seven winners cited their mentors between 2014 and 2023, and some of them did so more than once in their speeches. In fact, James
+
+MEDICAL EDUCATION ONLINE
+
+3
+
+Table 1: Text from Nobel Lectures containing the words ‘mentor’ or ‘mentorship’.
+
+Year
+
+Nobel Prize winner
+
+Text from the Nobel Lecture
+
+1974
+
+1976
+
+1989
+
+1994
+
+1996
+
+1998
+
+1998
+
+1999
+
+2000
+
+2002
+
+2002
+
+2006
+
+2012
+
+2013
+
+2013
+
+2014
+
+2014
+
+2017
+
+2018
+
+2018
+
+Christian de Duve
+
+Baruch Blumberg J. Michael Bishop
+
+Alfred G. Gilman
+
+Rolf M. Zinkernagel Louis Ignarro
+
+Ferid Murad
+
+Günter Blobel Arvid Carlsson
+
+H. Robert Horvitz
+
+John E. Sulston
+
+Craig Mello
+
+Shinya Yamanaka
+
+Randy W. Schekman
+
+Thomas C. Südhof
+
+Edward Moser
+
+May-Britt Moser
+
+Jeffrey C. Hall
+
+James P. Allison
+
+Tu Youyou
+
+My debt goes also to my early mentors in science: Joseph Bouckaert, Joseph Maisin, Hugo Theorell, Carl and Gerty Cori, Earl Sutherland. Four of them have preceded me on this podium Oliver Smithies (who had been a graduate student of A. G. Ogston, my mentor at Oxford) I began my second novitiate by entering the Research Associates Program at the National Institutes of Health in Bethesda, Maryland, where my mentor was Leon Levintow There are many who have earned my most profound gratitude.
+
+My father encouraged a love of science by example, and it was carefully nurtured by my doctoral and postdoctoral mentors – Theodore W. Rall, who perhaps should have won a Nobel Prize, and Marshall W. Nirenberg, who did not I thank my families, my mentors, and my collaborators for all these years Many individuals have been responsible for my development as a scientist and to whom I am grateful. My mentors Fred Shideman and Elwood Titus taught me the meaning of concepts like the experimental approach, the establishment and testing of the hypothesis, the critical evaluation of experiments that not only work but also do not work as expected, and the importance of thinking At times it can be difficult to keep up with just the titles, authors and laboratories and remain current. This will undoubtedly test the mentorship of many of us as we train students and fellows who need exciting and novel publications and the priorities required to find positions in our competitive research society and remain funded Foremost, I want to thank my two mentors, Van R. Potter and George E. Palade In this regard I and my collaborators, like my mentor Steve Brodie, simply had the advantage of being ignorant and not so much burdened by dogma First, I thank Sydney Brenner and John Sulston, who are my ex-colleagues, my mentors and my good friends, and with whom I have had the enormous pleasure of sharing the 2002 Nobel Prize in Physiology or Medicine Among the first of my many mentors was my PhD supervisor, Colin Reese, who was developing non-aqueous methods for oligonucleotide synthesis I owe a tremendous amount of thanks to Dan Stinchcomb, for teaching me molecular biology and really being a fantastic mentor during my initial years in graduate school . . . and then Jim Priess, who taught me genetics, and was a tremendous mentor and a great friend out in Seattle where I conducted my postdoctoral research at the Fred Hutchinson Cancer Research Center The encouragement from my mentors, including Drs. Yamamoto, Miura, Innerarity and Mahley was essential for me to continue my work as a scientist. I am grateful to my two types of teachers, these mentors and nature itself . . . .My direct mentor at the graduate school was Dr. Katsuyuki Miura. In my first few months as a Ph.D. student, Dr. Miura told me to read as many manuscripts as possible and propose new projects. I felt like I was given a blank canvas and told that I could draw whatever I wanted. This mentorship was very different from what I had experienced during my residency. . ..As noted above, I very was fortunate to have two types of great teachers in my early days as a scientist. First, my mentors, including Dr. Miura, Dr. Innerarity and Dr. Mahley, encouraged me to continue my projects despite the fact that the results contradicted their hypotheses.
+
+They served as models of good mentors for me to follow Singer enjoyed the warm support of my mentors at Stanford so I set off with my bride Nancy, whom I had met through my friendship with Bill Wickner, to join Singer’s lab as a postdoctoral fellow in the fall of 1974 I thank my life-long mentors in science M.S. Brown, V.P. Whittaker, and J.L. Goldstein for continuous advice The wish to brin physiology to psychology was a wish that we shared with many of our forerunners (. . .), and it was the beginning of a long journey for the two of us, a journey that was aided tremendously, at different stages, by many mentors and collaborators, particularly our Ph.D. supervisor Per Andersen After lectures by my former mentor John O’Keefe and my close colleague of more than 30 years, Edvard Moser, the audience was still completely engaged, wonderful and responsive My grad student supervisor was Larry Sandler (LS), who like Ives was a superb mentor.
+
+Examples: (1) I learned from LS how well-regarded a geneticist was Ives. (2) Sandler taught his mentees about the deep history of Drosophila genetics, involving and specifically invoking the noun ‘lore’, both in terms of genic variants and chromosome-level ones. (3) For the latter genotypes, we were informed about not only the properties of chromosome aberrations, but also how they were designed, constructed, and analyzed. . ..Back before he became a generic science publicizer (popularizer?) in his native Canada, he began his bio-career at a small level, doing a bit of Drosophila genetics at Amherst College in Amherst, Massachusetts, under the aforementioned Phil Ives (à la Hall, who was mentored by Ives later on) In 1984, after much encouragement by Marion ‘Bunny’ Koshland, who was the leader of Immunology at Berkeley, and who also became a close friend and mentor, I decided to accept the offer and moved to Berkeley Figure 15 shows a photo taken soon after I joined the Institute of Chinese Materia Medica. Professor Lou Zhicen (left), a famous pharmacognosist, was mentoring me on how to differentiate herbs
+
+Fujimoto cited his mentors in 2023, Max Cooper, H. Michael Shepard (twice) and Dennis Salmon in 2019, William Kaelin (twice) in 2016 and Kazutoshi Mori and Alim Louis Benabid in 2014. This finding makes the absence of explicit mentor recognition in the Nobel Lectures even more surprising.
+
+To make a parallelism with another iconic global prize, the Academy Awards, the word mentor has
+
+been cited during the acceptance speech in Hollywood more often than in the entire Nobel History for Physiology or Medicine in Stockholm: 22 mentions, all between 1961 and 2022. The Academy Awards are 28 years younger than the Nobel Prize, as their first ceremony took place in 1929. Still, it is fair to recognise that more Oscars are assigned annually (at the first edition of the Oscar
+
+4
+
+S. SANDRONE
+
+Academy Awards ceremony there were 12 categories, whereas today there are 24) than Nobel Prizes for Physiology or Medicine. Timeline-wise, there is a sharp contrast between how Nobel Laureates and Academy Award winners are notified: Nobel Laureates are informed in advance, whereas Oscar winners are usually not disclosed until the night of the ceremony. This leads to the Oscar speeches often being either improvised or partially prepared in advance, creating a last-second thrill that makes the entire situation unpredictable. In contrast, the Nobel Lecture is usually prepared with about two months’ notice, namely the time between the prize announcements in early October and the Lectures held in Stockholm in December. A century ago, this time window was even wider, ranging from several months to nearly a year: at the beginning of 1900, it was not unusual for a winner to deliver the lecture the following year. Also, the Nobel Lecture is longer than the Academy Award acceptance speech (i.e., about 30 minutes vs 45 seconds for the modern standard). In other words, it is not the lack of time preparation-wise or the duration of the Nobel Lecture itself that prevents Nobelists from explicitly acknowledging their mentors. Therefore, such a lack of explicit mentor recognition might be a voluntary choice. It is also fair to say that Nobel Prize awardees are, on average, older than recipients of other prizes. The extended time since their collaboration with mentors may contribute to weaker personal or professional connections.
+
+Although one might suggest that the lack of recognition is due to mentorship being a relatively new concept, this explanation seems unlikely. The concept of mentorship has evolved over time, but it is neither specific to science nor recent. Etymologically, it derives from the Greek name Mentōr, the adviser of Telemachus in Homer’s Odyssey, which was written around 750–650 BCE. The word mentor probably did not enter the English language until around 1750 [22], after an educational book entitled Les Aventures de Telemaque was written by Fénelon and published in 1699, then translated and published in England in 1760 [23–25]. The word mentoring may have first appeared in America less than two decades after it did in England, around 1778 [26]. We can find the word mentor within the title of several publications between the eighteenth and the nineteenth centuries, such as The Immortal Mentor by Reverend Weems (published in 1796), a periodical called The Mentor and Youth’s Instructive Companion (printed in New York in 1830) and a monthly magazine called The Mentor and Fireside Review by John S. Taylor and edited by Reverend E.G. Smith that saw the light in 1839 [26]. In 1884, the teacher-student relationships were discussed in The Journal of Education [26]. Moreover, several publications used the word mentor
+
+in the context of education (and medical teaching and learning) well before the first Nobel Prize was awarded (i.e [27–30].
+
+Six of the twenty Nobel citations were made by two scientists awarded as co-winners in the same years (in 1998, 2002, 2014). Although the winners prepared their lectures in advance, it is possible that the awardees influenced one another through last-minute, reactive adjustments: in fact, the Nobel Lectures are oral presentations delivered in Stockholm one after another, on the same morning, and attended by fellow Laureates from the same year and previous years. In two cases out of twenty, the Nobel Laureate also added a photo of their mentor in the presentation. In one, there was a reference to mentorship as a general concept that the Nobel Laureate should pay attention to.
+
+When exploring who the mentors cited are, we found that the most common ones were former PhD supervisors or postdoc supervisors. Previously published academic studies demonstrated that, in the scientific context, the mentor’s influence starts with collaboration, hailed as ‘the single most important factor affecting the student’s predoctoral productivity’ [3]. The effects of eminence and performance further enhance the student’s predoctoral productivity when the mentor and mentees continue to collaborate. In that case, the mentor’s performance increases the students’ later publications and citations, but even for those who do not collaborate, the mentor’s eminence significantly affects later productivity, albeit smaller [3]. In our work, overtly recognising a mentor was more common among women than men, despite women being disproportionately underrepresented among awardees. Also, they often cited their postdoctoral advisors as mentors. This aligns well with an analysis of an open-access database of 18,856 researchers across biomedical sciences showing that postdoctoral mentors are more instrumental to trainees’ success than graduate mentors, and that scientists were more likely to succeed if they trained under mentors with disparate expertise and integrated that expertise into their own work [4]. Moreover, data on about 40,000 scientists who published 1,167,518 papers in STEM over the last 60 years revealed that mentorship is a strong predictor of mentees’ success [2]. Still, mentees achieve their highest impact when displaying intellectual independence from their mentors and ‘do their best work when they break from their mentor’s research topics and coauthor only a small fraction of their overall research with their mentors’ [2]. The lack of overt acknowledgement or recognition may stem from this shift in research topics, which leads to groundbreaking research and is often found in Nobel
+
+MEDICAL EDUCATION ONLINE
+
+5
+
+Laureates, as mentorship is also associated with an increased probability for mentees to become pioneers in their research fields [2].
+
+Another key aspect to discuss is the unfortunate and massive gender gap in prestigious research awards [31]. A report investigating gender disparities in the 141 most prestigious international research awards found that, during the first two decades of the new millennium, there were 2,011 male winners compared to 262 female winners [31]. As mentioned above, women are also strongly under-represented among Nobel Laureates, having won only 3% of the science prizes [13]. Yet gender bias is just one of many biases, with others including affiliation, sexuality and nationality [32]. It is alarming to observe the disparity that emerges when examining the underrepresentation of black scientists among Nobel Laureates: there is a noticeable lack of winners from gender and racial minority groups [8]. Recognising all deserving candidates can enhance research and, ultimately, benefit society [31].
+
+Previous works highlighted that ‘being awarded a Nobel Prize does not happen simply by making a great achievement and passively waiting for it to be rewarded’ but is characterised by a robust social dimension [33,34]. On the one hand, expanding the pool of nominators, as recently done by the Academy Awards, can be a strategy to improve diversity [8]. On the other hand, more attention needs to be given to mentoring, a simple label for a multifaceted and complex series of relationships between and among individuals, which can take different shapes [35; 36]. Mentoring is often suggested as a key intervention to address gender inequalities [37]: successful mentoring is fundamental to retaining underrepresented minorities in the pipeline and fostering diversity [38]. Attracting and retaining underrepresented groups into scientific disciplines is essential, yet underrepresentation makes it challenging to match mentors and mentees with similar backgrounds [39]. Therefore, we need more studies on mentoring frameworks, lived experiences and contexts [37]. We must create effective mentoring environments that go beyond traditional definitions of mentors [38] and improve the retention rates of underrepresented mentees within the scientific community [40].
+
+In conclusion, the analysis of over 200 Nobel Lectures in Physiology or Medicine spanning a century reveals a lack of explicit recognition of mentors by the awardees. This absence of acknowledgement does not mean that advisors or key influences are entirely overlooked. While a detailed exploration of gratitude in the history of the Nobel Prize could be the focus of future studies, the lack of explicit recognition remains particularly surprising given the importance of mentorship in science and medicine. Future research can also
+
+apply this methodology to Nobel Lectures in Physics, Chemistry, Literature, and Economics to determine whether this lack of overt mentorship recognition is unique to Physiology and Medicine or reflects a broader trend across disciplines.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the author(s).
+
+Funding
+
+The author(s) reported there is no funding associated with the work featured in this article.
+
+References
+
+[1] Anderson EM, Shannon AL. Toward a conceptualization of mentoring. J Teach Educ. 1988 Jan;39(1):38–42. doi: 10.1177/002248718803900109
+
+[2] Ma Y, Mukherjee S, Uzzi B. Mentorship and protégé success in STEM fields. Proc Natl Acad Sci USA. 2020 Jun 23;117(25):14077–14083. doi: 10.1073/pnas. 1915516117
+
+[3] Long JS, McGinnis R. The effects of the mentor on the academic career. Scientometrics. 1985 Mar;7(3–-
+
+6):255–280. doi: 10.1007/BF02017149
+
+[4] Liénard JF, Achakulvisut T, Acuna DE, et al. Intellectual synthesis in mentorship determines success in academic careers. Nat Commun. 2018 Nov 27;9(1):4840. doi: 10.1038/s41467-018-07034-y
+
+[5] Malmgren RD, Ottino JM, Nunes Amaral LA. The role of mentorship in protégé performance. Nature. 2010 Jun 3;465(7298):622–626. doi: 10.1038/ nature09040
+
+[6] Crawford E. Nobel: always the winners, never the losers. Science. 1998 Nov 13;282(5392):1256–1257. doi: 10.1126/science.282.5392.1256
+
+[7] Kragh H. The politics of excellence: behind the Nobel Prize in science. Phys Today. 2002 Mar 1;55(3):63. doi: 10.1063/1.1472395
+
+[8] Neikirk K, Vue Z, Vue N, et al. Disparities in funding for Nobel Prize awards in medicine and physiology across nationalities, races, and gender. J Cell Physiol. 2024 Jan 15;239(7). doi: 10.1002/jcp.31157
+
+[9] Sebastian Y, Chen C, Tang Y. The boundary-spanning mechanisms of Nobel Prize winning papers. PLoS One. 2021 Aug 11;16(8):e0254744. doi: 10.1371/jour nal.pone.0254744
+
+[10] Feldman B. The Nobel Prize: a history of genius, controversy, and prestige. New York, NY, USA: Arcade Publishing; 2000.
+
+[11] Levinovitz AW, Ringertz N. The Nobel Prize: the first 100 years. London, United Kingdom: World Scientific; 2001.
+
+[12] Hargittai I. The road to Stockholm: Nobel Prizes, science, and scientists. Chemical Heritage Foundation. New York, USA: Oxford University Press; 2002.
+
+[13] Gibney E. What the Nobels are — and aren’t — doing to encourage diversity. Nature. 2018 Oct 4;562 (7725):19. doi: 10.1038/d41586-018-06879-z
+
+6
+
+S. SANDRONE
+
+[14] Casadevall A, Fang FC. Is the Nobel Prize good for science? FASEB J. 2013 Nov;27(12):4682–4690. doi:
+
+the Insane—President’s Address. Am J Psychiatry. 1883 Jul;40(1):1–32. doi: 10.1176/ajp.40.1.1
+
+10.1096/fj.13-238758
+
+[15] Sandrone S. Nobel Life: conversations with 24 Nobel laureates on their life stories, advice for future generations and what remains to be discovered. Cambridge, United Kingdom: Cambridge University Press; 2021 Jun 17.
+
+[16] Chariker JH, Zhang Y, Pani JR, et al. Identification of successful mentoring communities using networkbased analysis of mentor–mentee relationships across Nobel laureates. Scientometrics. 2017 Jun;111
+
+(3):1733–1749. doi: 10.1007/s11192-017-2364-4
+
+[17] Tol RS. The Nobel Family. Scientometrics. 2024 Jan;23:1–8.
+
+[18] Bentivoglio M, Vercelli A, Filogamo G. Giuseppe Levi: mentor of three Nobel laureates. J Hist Neurosci. 2006 Dec 1;15(4):358–368. doi: 10.1080/09647040600888974
+
+[19] Sandrone S, Lorusso L. The birth of modern neuroscience in Turin. New York, NY, USA: Oxford University Press; 2021 Dec 29.
+
+[20] Marks LE. Lasker Award often prologue to Nobel Prize. JAMA. 1989 Oct 6;262(13):1742. doi: 10.1001/ jama.1989.03430130010004
+
+[21] Naylor CD, Bell JI. On the recognition of global excellence in medical research. JAMA. 2015 Sep 15;314(11):1125–1126. doi: 10.1001/jama.2015.10696
+
+[22] Roberts A. Mentoring revisited: a phenomenological reading of the literature. Mentor and Tutoring. 2000;8
+
+[29] Herbart JF. The science of education, its general principles deduced from its aim. Boston, MA, USA: DC Heath Company; 1896.
+
+[30] Pillsbury B. Preliminary medical education. Med Rec (1866–1922). 1876 Aug 12;11(33):529.
+
+[31] Meho LI. The gender gap in highly prestigious international research awards, 2001–2020. Quant Sci Stud. 2021 Nov 5;2(3):976–989. doi: 10.1162/qss_a_00148
+
+[32] Lunnemann P, Jensen MH, Jauffred L. Gender bias in Nobel Prizes. Palgrave Commun. 2019 Dec;5(1). doi:
+
+10.1057/s41599-019-0256-3
+
+[33] Hansson N, Schlich T. Performing excellence: Nobel Prize nomination networks in North America. Notes Rec. 2024 May 1;78(2):283–298. doi: 10.1098/rsnr. 2021.0052
+
+[34] Friedman RM. The politics of excellence: behind the Nobel Prize in science. New York, NY, USA: WH Freeman; 2001.
+
+[35] Mullen CA, Klimaitis CC. Defining mentoring: a literature review of issues, types, and applications. Ann N Y Acad Sci. 2021 Jan;1483(1):19–35. doi: 10. 1111/nyas.14176
+
+[36] Farheen AS, George IC, Singhal D, et al. Current status and future strategies for mentoring women in neurology. Neurology. 2021 Jul 6;97(1):30–37. doi: 10. 1212/WNL.0000000000012242
+
+(2):145–170. doi: 10.1080/713685524
+
+[23] Garvey B. Mentoring origins and evolution. Logan, UT, USA: Utah State University; 2023.
+
+[24] Introduction authority and influence in eighteenth-century british literary mentoring. In: Lee AW, editor. Mentoring in eighteenth-century British literature and culture. London, UK: Ashgate Publishing Company; 2010. p. 1–17.
+
+[25] de Fénelon F. In: Riely P, editor. Fenelon: Telemachus.
+
+Cambridge, UK: Cambridge University Press; 1994.
+
+[26] Irby B, Boswell J. Historical print context of the term, “mentoring”. Mentor and Tutoring. 2016;24(1):1–7. doi: 10.1080/13611267.2016.1170556
+
+[27] Beale LS. Our morality and the moral question: chiefly from the medical side. London, UK: J. & A. Churchill; 1893.
+
+[28] Callender JH. History and work of the Association of Medical Superintendents of American Institutions for
+
+[37] House A, Dracup N, Burkinshaw P, et al. Mentoring as an intervention to promote gender equality in academic medicine: a systematic review. BMJ Open. 2021 Jan 1;11(1):e040355. doi: 10.1136/bmjopen-2020040355
+
+[38] Murray SA, Shuler H, Spencer EC, et al. Mentoring future science leaders to thrive. Trends Pharmacol Sci. 2022 Jun 1;43(6):457–460. doi: 10.1016/j.tips.2022.03. 012
+
+[39] Martin WJ, Haar JM. Mentorship as a mechanism to mobilize inclusion. Nat Immunol. 2021 Aug;22
+
+(8):932–933. doi: 10.1038/s41590-021-00976-4
+
+[40] Shuler H, Cazares V, Marshall A, et al. Intentional mentoring: maximizing the impact of underrepresented future scientists in the 21st century. Pathog Dis. 2021 Aug;79(6):ftab038. doi: 10.1093/femspd/ ftab038
+

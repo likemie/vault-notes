@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e93b650377292b60",
+        "id": "4639c15e806cf72d",
         "type": "tabs",
         "children": [
           {
-            "id": "b91b74bd55d1e84e",
+            "id": "c430a1faf7fce6cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Argument_Beech_2015_GSE"
+              "title": "新标签页"
             }
           }
         ]
@@ -189,12 +184,19 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "b91b74bd55d1e84e",
+  "active": "c430a1faf7fce6cc",
   "lastOpenFiles": [
-    "wiki/persons/france/Bruno Latour.md",
-    "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
-    "wiki/persons/uk/Doreen Massey.md",
+    "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
+    "wiki/arguments/journal-articles/Medical Education Online",
+    "wiki/facts/global/Nobel Prize in Physiology or Medicine.md",
+    "wiki/concepts/higher-education/Mentorship Recognition.md",
+    "wiki/concepts/higher-education/Mentorship.md",
+    "raw/Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees.txt",
+    "raw/Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees.pdf",
     "wiki/arguments/journal-articles/Evaluation Review/Argument_Berk_2011_ER.md",
+    "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
+    "wiki/persons/france/Bruno Latour.md",
+    "wiki/persons/uk/Doreen Massey.md",
     "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md",
     "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md.tmp.12304.b6d3a81052d3",
     "wiki/concepts/comparative-education/Government to Governance Shift.md",
@@ -219,13 +221,6 @@
     "wiki/persons/uk/Gilbert Ryle.md",
     "wiki/persons/uk/Johan Muller.md",
     "wiki/persons/uk/Michael Young.md",
-    "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
-    "wiki/persons/uk/Basil Bernstein.md",
-    "raw/Knowledge and the New Zealand curriculum  refresh .txt",
-    "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md.tmp.91200.7f0aee584434",
-    "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md.tmp.91200.ddd0658c857f",
-    "wiki/theories/curriculum/Curriculum Design Coherence Model.md",
-    "wiki/concepts/research-methodology/Constructivist Paradigm.md.tmp.91200.c1346f494f16",
-    "wiki/concepts/curriculum/Curriculum Design Coherence Model.md"
+    "raw/Knowledge and the New Zealand curriculum  refresh .txt"
   ]
 }
