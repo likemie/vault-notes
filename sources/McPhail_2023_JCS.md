@@ -9,15 +9,15 @@ extracted_to:
   - "[[Social Realism]]"
   - "[[Lev Vygotsky]]"
   - "[[Outcomes in Comparative Education]]"
-  - "[[Argument_McPhail_2023_JCS]]"
   - "[[Outcomes-based Education]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[Recontextualization]]"
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
-  - "[[Knowledge-that and Know-how-to]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Knowledge-that and Know-how-to]]"
   - "[[Curriculum Design Coherence Model]]"
 processed_date: 2026-06-07
 ---

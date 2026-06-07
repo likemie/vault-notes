@@ -14,10 +14,10 @@ tags:
   - epistemology
   - theory/social-realism
 related_concepts:
-  - "[[Curriculum Design Coherence Model]]"
   - "[[Surface and Deep Learning]]"
   - "[[Powerful Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Curriculum Design Coherence Model]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -59,7 +59,7 @@ updated: 2026-06-06
 > [!abstract]
 > - **知其然的内容**。在 [[Curriculum Design Coherence Model|课程设计连贯性模型]]中，知其然包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的物质体现，可包括事实、情境、意识形态等）（McPhail et al., 2023）。
 > - **知其所用的内容**。知其所用包括技能、能力和学科实践，即通过使用与学科相关的技能或实践来应用知识（McPhail et al., 2023）。
-> - **连接的重要性**。在 [[Curriculum Design Coherence Model|课程设计连贯性模型]]中，当学生能够将所学知识灵活运用并清楚阐述两种知识形式之间的联系时，就实现了智能知其所用。这种联系是[[Surface and Deep Learning|深层学习]]的标志，而非表层学习（McPhail et al., 2023）。
+> - **连接的重要性**。在 [[Curriculum Design Coherence Model|课程设计连贯性模型]]中，当学生能够将所学知识灵活运用并清楚阐述两种知识形式之间的联系时，[[Surface and Deep Learning|深层学习]]才真正发生。这种联系是深层学习的标志，而非表层学习（McPhail et al., 2023）。
 
 ---
 
