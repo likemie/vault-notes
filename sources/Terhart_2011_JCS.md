@@ -8,9 +8,9 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Meta-analysis]]"
   - "[[John Hattie]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

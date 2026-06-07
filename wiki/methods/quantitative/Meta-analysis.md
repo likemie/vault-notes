@@ -16,13 +16,13 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Forest Plot]]"
   - "[[Visible Learning]]"
+  - "[[Statistical Significance]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Feedback]]"
-  - "[[Statistical Significance]]"
   - "[[Purpose Statement]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Literature Review]]"
@@ -31,9 +31,11 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Moderator Analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Analysis of Variance]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Systematic Review]]"
   - "[[Observational and Correlational Research]]"
   - "[[Random Assignment]]"
 related_persons:
@@ -47,18 +49,19 @@ related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 sources:
-  - "[[Higgins_2016_RE]]"
-  - "[[Simpson_2017_JEP]]"
   - "[[Terhart_2011_JCS]]"
   - "[[Berk_2011_ER]]"
   - "[[Hattie_2015_Paideia]]"
   - "[[Allerup_2015_Paideia]]"
+  - "[[Higgins_2016_RE]]"
   - "[[Wecker_2016_ZfE]]"
+  - "[[Simpson_2017_JEP]]"
   - "[[Qvortrup_2019_NordSTEP]]"
   - "[[Wiliam_2019_ERE]]"
   - "[[Wrigley_2019_ERE]]"
   - "[[OConnor_2020_AJLL]]"
 related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
 confidence: medium
 status: draft
@@ -69,22 +72,11 @@ updated: '2026-05-21'
 ## 定义
 
 > [!info] 定义
-> 元分析（Meta-analysis）是一种统计方法，通过计算多项原始研究的平均[[Effect Size|效应量]]来综合研究证据。它由 [[Gene Glass]] 于 1976 年提出，最初旨在系统性地总结某一主题的研究发现。在[[Evidence-Based Education|证据本位教育]]中，元分析被用作综合 [[Randomised Controlled Trials|RCT]] 证据的核心工具，其结论（平均效应量）被视为"什么有效"的主要证据来源（Wrigley & McCusker, 2019, p. 118）。
+> 元分析是一种统计方法，通过计算多项原始研究的平均[[Effect Size|效应量]]来综合研究证据。它由 [[Gene Glass]] 于 1976 年提出，最初旨在系统性地总结某一主题的研究发现。在[[Evidence-Based Education|证据本位教育]]中，元分析被用作综合[[Randomised Controlled Trials|随机对照试验]]证据的核心工具，其结论（平均效应量）被视为"什么有效"的主要证据来源（Wrigley & McCusker, 2019, p. 118）。
 >
 > 元分析有两个核心目标：判断某一干预或方法总体上是否有效，以及通过[[Moderator Analysis|调节变量分析]]解释研究间效果的变异（Higgins, 2016, p.32）。
 >
 > Wiliam (2019, p.11) 在定义上增加了关键的层级区分：元分析综合原始研究的效应量；而[[Meta-meta-analysis|元-元分析]]是通过效应量的加权合并综合多个元分析的结果，是另一回事。Wiliam 断言后者在教育政策制定中绝对没有任何角色。
-
-> [!example] 语音教学的三项元分析
-> 以语音教学（phonics）是否有效为例，多项元分析得出了不同的汇总[[Effect Size|效应量]]（Higgins, 2016, p.32）：
->
-> | 元分析 | 汇总效应量 | 主要结论差异 |
-> |--------|-----------|------------|
-> | Ehri et al. (2001) | 0.41 | 较早开始语音教学更有价值 |
-> | Jeynes (2008) | 0.27 | 发现在不同质量的研究中具有稳健性 |
-> | Torgerson et al. (2006) | 0.30 | 没有证据表明综合语音优于分析语音 |
->
-> 汇总效应量的差异来自研究问题、纳入标准和元分析程序的细节差异。每一项元分析还对调节变量（如起始年龄、语音类型、研究质量）得出了不同结论。
 
 ## 历史发展
 
@@ -95,11 +87,11 @@ updated: '2026-05-21'
 >
 > **Fisher 的统计基础（1930s–1950s）**
 >
-> Ronald Fisher 在[[Analysis of Variance|方差分析]]（ANOVA）等技术上的发展为跨研究比较奠定了统计基础。Fisher 鼓励研究者清晰严格地报告发现，使跨研究的比较和聚合变得更容易（Higgins, 2016, p.34）。
+> Ronald Fisher 在[[Analysis of Variance|方差分析]]等技术上的发展为跨研究比较奠定了统计基础。Fisher 鼓励研究者清晰严格地报告发现，使跨研究的比较和聚合变得更容易（Higgins, 2016, p.34）。
 >
 > **命名与确立：[[Gene Glass|Glass]]（1976）**
 >
-> [[Gene Glass|Gene Glass]] 于 1976 年在 AERA 主席演说中首次提出"meta-analysis"一词。他与 Mary Lee Smith 合作的心理治疗效果元分析（Smith & Glass, 1977）发现平均[[Effect Size|效应量]]为 0.6 SD，直接挑战了 Eysenck 的"心理治疗无效"共识。Glass 将[[Effect Size|效应量]]（标准差单位）确立为跨研究比较的通用尺度，并承认 Robert Rosenthal 发展了效应量的基础度量（Higgins, 2016, pp.36–37）。
+> [[Gene Glass|Gene Glass]] 于 1976 年在美国教育研究协会主席演说中首次提出"元分析"一词。他与 Mary Lee Smith 合作的心理治疗效果元分析（Smith & Glass, 1977）发现平均[[Effect Size|效应量]]为 0.6 个标准差，直接挑战了 Eysenck 的"心理治疗无效"共识。Glass 将[[Effect Size|效应量]]（标准差单位）确立为跨研究比较的通用尺度，并承认 Robert Rosenthal 发展了效应量的基础度量（Higgins, 2016, pp.36–37）。
 >
 > **医学领域的发展（1970s–1980s）**
 >
@@ -107,7 +99,15 @@ updated: '2026-05-21'
 >
 > **"苹果和橙子"争论（1980s）**
 >
-> Eysenck 称[[Meta-analysis|元分析]]为"超级愚蠢"（mega-silliness），批评其将不可比的研究混为一谈。Slavin（1984）同样提出"苹果和橙子"问题。[[Gene Glass|Glass]] 的回应是："当然它混合苹果和橙子；在研究水果时没有别的合理做法"——任何推论都直接取决于元分析所包含的内容（Higgins, 2016, p.37）。
+> Eysenck 称元分析为"超级愚蠢"，批评其将不可比的研究混为一谈。Slavin（1984）同样提出"苹果和橙子"问题。[[Gene Glass|Glass]] 的回应是："当然它混合苹果和橙子；在研究水果时没有别的合理做法"——任何推论都直接取决于元分析所包含的内容（Higgins, 2016, p.37）。
+>
+> **[[Systematic Review|系统综述]]的制度化（1990s–2000s）**
+>
+> 1993 年 Cochrane 协作网成立，将系统综述和元分析制度化为医学证据综合的标准方法。Chalmers 和 Altman（1995）主张"元分析"一词应仅用于定量综合。2009 年，PRISMA（系统综述和元分析优先报告条目）声明发布，为系统综述的透明报告提供了标准化框架（Moher et al., 2009, cited in Higgins, 2016, p.38）。
+>
+> **在教育领域的扩展（1990s–2010s）**
+>
+> 元分析在教育研究中的应用从 1990 年代起迅速扩展。[[John Hattie|Hattie]]（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，样本量与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in Higgins, 2016, p.48）。
 
 ---
 
@@ -130,22 +130,24 @@ updated: '2026-05-21'
 
 ## 适用场景
 
-> [!success] 适用场景
+> [!success] 作为效果总体估计的工具
 > - 当有大量使用可比较设计和结果测量的研究时，元分析可以提供效果的总体估计
 > - 在医学领域（其起源领域），元分析在已有充分理论理解治疗机制的前提下可以补充回答"效果平均多大"
+> - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。Cooper 和 Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与样本量直接相关的统计显著性（Higgins, 2016, p.32）
 > - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导（Wrigley & McCusker, 2019, pp. 110–111）
-> - [[John Hattie|Hattie]]（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10-11, 14-15）。
-> - Qvortrup (2015, pp.25–27) 从支持者立场认为，教育元分析不需要等待所有研究使用完全相同的学习结果定义才可比较；[[Effect Size|效应量]]提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习（Qvortrup, 2015, p.27）。
-> - Wiliam (2019, p.11) 的谨慎立场：如果（且仅当）满足 11 项条件，元分析"可能值得严肃对待"
-> - Qvortrup (2019, p.5) 从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行（von Foerster, 1984），元分析透镜产生的图像与定性[[Observational and Correlational Research|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
-> - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。如果仅通过统计显著性计数或叙事综述来审查一个领域，可能会误判证据的说服力。Cooper 和 Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据（Higgins, 2016, p.32）。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与样本量直接相关的统计显著性（Higgins, 2016, p.32）
+
+> [!success] 作为追问变异和调节[[Variable|变量]]的工具
+> - [[John Hattie|Hattie]]（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）
+> - Qvortrup（2015, pp.25–27）从支持者立场认为，教育元分析不需要等待所有研究使用完全相同的学习结果定义才可比较；[[Effect Size|效应量]]提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习（Qvortrup, 2015, p.27）
+> - Qvortrup（2019, p.5）从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行，元分析透镜产生的图像与定性[[Observational and Correlational Research|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
+> - Wiliam（2019, p.11）的谨慎立场：如果且仅当满足 11 项条件，元分析才可能值得严肃对待
 
 ---
 
 ## 局限性
 
 > [!warning] 输入质量与纳入标准问题
-> **Eysenck (1978) — "垃圾进，垃圾出"（Garbage In, Garbage Out）**
+> **Eysenck (1978) — 垃圾进，垃圾出**
 >
 > Eysenck（1978, p.517）对元分析提出了著名的早期批评，指出元分析的不加区分性质——每个与选定领域相关的研究都被用于计算[[Effect Size|效应量]]，而不论不同研究的质量或严谨性：
 >
@@ -155,7 +157,7 @@ updated: '2026-05-21'
 >
 > **Snook et al. (2009) — 元分析在教育领域的五项方法论问题**
 >
-> Snook et al.（2009, p.96–98）在 VL 出版同年识别了元分析在教育中应用的五项特有局限：
+> Snook et al.（2009, pp.96–98）在《可见的学习》出版同年识别了元分析在教育中应用的五项特有局限：
 >
 > 1. **偏差不受控**：设计不良研究的元分析（无论设计多好）不可避免地导致不可靠结论（p.96–97）
 > 2. **[[Publication Bias|发表偏差]]**：支持有利结论的研究更可能被发表——在药物公司资助的研究和利润丰厚的教育时尚（如学习风格）中尤其严重（p.97）
@@ -168,6 +170,17 @@ updated: '2026-05-21'
 > 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均效应量。[[Gene Glass]]——元分析的创始人——本人警告："元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in Wrigley & McCusker, 2019, p. 119）。
 >
 > Hattie (2015) 对这一问题的回应不是否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问调节变量。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用”反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
+
+> [!warning] 看似客观的数字背后
+> 元分析产出一个精确的效应量数字，给人以客观的印象。但同一主题的不同元分析可能得出不同的汇总效应量，差异来自研究者在研究问题、纳入标准和分析程序上的选择。以语音教学为例（Higgins, 2016, p.32）：
+>
+> | 元分析 | 汇总效应量 | 各自的调节变量结论 |
+> |--------|-----------|------------------|
+> | Ehri et al. (2001) | 0.41 | 较早开始语音教学更有价值 |
+> | Jeynes (2008) | 0.27 | 发现在不同质量的研究中具有稳健性 |
+> | Torgerson et al. (2006) | 0.30 | 没有证据表明综合语音优于分析语音 |
+>
+> 三项元分析研究的是同一个干预，但汇总效应量从 0.27 到 0.41 不等，对调节变量的结论也各不相同。差异不是来自随机误差，而是来自研究者对”什么算语音教学””纳入哪些研究””如何处理质量差异”等问题的不同判断。元分析的数字看起来比叙事综述更客观，但数字背后仍然嵌入了研究者的分类选择和纳入决定。
 
 > [!warning] 可比性问题的具体案例
 > **家庭作业的分类困境**（Higgins, 2016, pp.37–38）
@@ -209,11 +222,11 @@ updated: '2026-05-21'
 >
 > **Snook et al. (2010) — 元分析从医学到教育的移植问题**
 >
-> Snook et al.（2010, p.96）在回应 Hattie (2010) 时，提出了一个常被忽略的更深层问题：元分析技术起源于医学科学——医学有经过仔细界定的概念和严谨的（通常为实验性）研究设计。然而在教育领域，"被研究的变量往往概念化差，研究也经常不够严格"：
+> Snook et al.（2010, p.96）在回应 Hattie（2010）时，提出了一个常被忽略的更深层问题：元分析技术起源于医学科学——医学有经过仔细界定的概念和严谨的（通常为实验性）研究设计。然而在教育领域，"被研究的变量往往概念化差，研究也经常不够严格"：
 >
 > > "如何为[[Purpose Statement|研究目的]]清晰区分一个'以教师为中心'和一个'以学生为中心'的课堂？在比较它们时，如何在一个嘈杂繁忙、可能有 30 多个参与者的课堂中控制所有变量？"（Snook et al., 2010, p.96）
 >
-> 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"（Snook et al., 2010, p.97）。Snook et al. 以 Nuthall 的 *The Hidden Lives of Learners*（基于数十年新西兰课堂研究）与 Hattie 的 *[[Visible Learning]]*（基于国际元分析）的书名对比，暗示两者在认识论取向上存在本质差异（Snook et al., 2010, p.97）。
+> 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"（Snook et al., 2010, p.97）。Snook et al. 以 Nuthall 的 The Hidden Lives of Learners（基于数十年新西兰课堂研究）与 Hattie 的《可见的学习》（基于国际元分析）的书名对比，暗示两者在认识论取向上存在本质差异（Snook et al., 2010, p.97）。
 >
 > 这一批评的核心在于：元分析在医学中成功运作的条件（概念清晰、设计标准化、机制可分离）在教育领域经常不成立——这不是方法论执行缺陷的问题，而是方法本身与研究对象之间的基础性不匹配。
 
@@ -223,11 +236,11 @@ updated: '2026-05-21'
 >
 > Wiliam（2019, pp.10–11）以 Kluger & DeNisi（1996）的反馈元分析为例展示平均效应量的误导性：
 >
-> - 131 项研究、607 个效应量，平均效应量约 0.4 SD——这使 Hattie（1999）提出"改善教育的最简单处方必须是大量的反馈"
+> - 131 项研究、607 个效应量，平均效应量约 0.4 个标准差——这使 Hattie（1999）提出"改善教育的最简单处方必须是大量的反馈"
 > - 然而效应量的标准差约为 **1**（即效应量分布极为分散），约 **38% 的效应量为负**——在超过三分之一的案例中，给予反馈反而比不给予反馈更差
-> - Wiliam 指出：不了解干预如何产生效果，在特定情境中应用干预可能产生持续负效果——对 [[Evidence-Based Education|EBE]] 倡导者而言"反馈可能适得其反"不是相关的替代状态；对教师而言高度相关
+> - Wiliam 指出：不了解干预如何产生效果，在特定情境中应用干预可能产生持续负效果——对[[Evidence-Based Education|证据本位教育]]倡导者而言"反馈可能适得其反"不是相关的替代状态；对教师而言高度相关
 >
-> > "In over one third of the cases they examined, it would have been better simply not to give the feedback." (Wiliam, 2019, p.10)
+> > "在他们考察的案例中，超过三分之一的情况下，不给予反馈反而更好。"（Wiliam, 2019, p.10）
 >
 > **Pawson (2006) — 因果信息的系统性消除**
 >
@@ -253,7 +266,7 @@ updated: '2026-05-21'
 >
 > 在缺乏[[Random Assignment|随机分配]]的情况下，元分析的统计推断"变得非常难以辩护"（Berk, 2007）。必须假设被合并的研究是"所有可能（或已完成）研究的一个概率样本，且研究之间彼此独立实现"（Berk, 2011, p.199）。Berk 指出："随便做一下项目[[Sociology of Valuation and Evaluation|评估社会学]]就会发现，综述的研究不是任何真实事物的概率样本。而独立性的通常要求意味着研究者不阅读彼此的工作、不在学术会议上讨论这些工作、从不合作、也不雇佣彼此的学生"（Berk, 2011, p.199）。
 >
-> > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better. At the very least, readers will not be swayed by statistical malpractice disguised as statistical razzle-dazzle." (Berk, 2011, p.199)
+> > "简言之，元分析在因果效应估计中的重要性被严重高估了。传统的[[Literature Review|文献综述]]往往做得更好。至少，读者不会被伪装成统计花招的统计不当操作所迷惑。"（Berk, 2011, p.199）
 >
 > **Simpson (2017) — 元分析两项核心假设的系统性违背**
 >
@@ -267,7 +280,7 @@ updated: '2026-05-21'
 > - **范围限制**：选择窄化样本减小方差→放大效应量，10,000 次模拟显示中等能力组效应量膨胀 40%（Simpson, 2017, pp.8–9）；Elbaum et al. (2000) 故意选择阅读失败风险学生的元分析在 EEF Toolkit 中与未限制范围的元分析合并且未调整
 > - **测量设计（聚焦度+精确度）**：研究者自编测试效应量比标准化测试平均高约 40%（Simpson, 2017, p.12）；测试长度翻倍可膨胀效应量 ~20%–100%+（Figure 3）——Kluger & DeNisi (1996) 中测试从 6 任务到 300 算术题，未调整
 >
-> **关键洞察**：这些偏差不是随机噪声——"good experimenters legitimately manipulate d to enhance the sensitivity of their experiments, but their freedom to do so varies between educational contexts"（Simpson, 2017, p.5）。偏差随研究领域系统性变化：反馈研究容易使用无反馈比较、限制样本范围、设计聚焦测试；而延长学校日或校服研究无法做到这些。**元分析合并效应量时，实际合并的是不同领域中不同程度的研究设计操纵自由度**（Simpson, 2017, pp.5–14）。详见 [[Effect Size]]、[[Argument_Simpson_2017_JEP]]。
+> **关键洞察**：这些偏差不是随机噪声。偏差随研究领域系统性变化：反馈研究容易使用无反馈比较、限制样本范围、设计聚焦测试；而延长学校日或校服研究无法做到这些。元分析合并效应量时，实际合并的是不同领域中不同程度的研究设计操纵自由度（Simpson, 2017, pp.5–14）。详见 [[Effect Size]]、[[Argument_Simpson_2017_JEP]]。
 
 
 > [!warning] [[Meta-meta-analysis|元-元分析]]（二级聚合）的特有局限
@@ -285,7 +298,7 @@ updated: '2026-05-21'
 >
 > **O'Neill (2012) — 跨教育阶段混合综合与排名扭曲**
 >
-> O'Neill（2012, pp.155-156）识别了 VL 元-元分析的一个具体方法论问题：Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均效应量和排名位置。典型例证是 VL 中"教学质量"（quality of teaching）的元分析证据全部来自大学生评教研究，却被用于论证增加中小学[[Class Size|班级规模]]的政策合理性——暴露了跨阶段混合综合在政策应用中可能产生的具体误导。
+> O'Neill（2012, pp.155–156）识别了《可见的学习》元-元分析的一个具体方法论问题：Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均效应量和排名位置。典型例证是"教学质量"的元分析证据全部来自大学生评教研究，却被用于论证增加中小学[[Class Size|班级规模]]的政策合理性——暴露了跨阶段混合综合在政策应用中可能产生的具体误导。
 
 
 > [!warning] 评估清单
@@ -305,7 +318,7 @@ updated: '2026-05-21'
 > 10. 使用的**结果测量**对被调查的处理是否**同等敏感**？
 > 11. 研究参与者在被调查的处理上是否具有**同等的资质（aptitude）**？
 >
-> > "If the answers to all of these questions is 'yes', or at least if the meta-analysis at least examines these issues, for example, by including these issues as moderators of effect, then the meta-analysis may be worth taking seriously. If, however, the answers to any of these questions is no, then it is unlikely that the meta-analysis has much relevance to real educational settings." (Wiliam, 2019, p.11)
+> > "如果所有这些问题的答案都是肯定的，或者至少元分析检验了这些问题（例如将这些问题作为效应的调节变量），那么元分析可能值得认真对待。然而，如果任何一个问题的答案是否定的，那么元分析不太可能与真实的教育情境有多大关联。"（Wiliam, 2019, p.11）
 
 ---
 
@@ -319,8 +332,8 @@ updated: '2026-05-21'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Hattie_2015_Paideia]] — [[John Hattie|Hattie]] 回应 VL 批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
-> - [[Argument_Hattie_2015_SOTLP]] — Hattie 将 1200 项元分析（65,000+ 研究）综合应用于高等教育，提出六项关键发现、DIE 模型和八项思维框架
+> - [[Argument_Hattie_2015_Paideia]] — [[John Hattie|Hattie]] 回应《可见的学习》批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
+> - [[Argument_Hattie_2015_SOTLP]] — Hattie 将 1200 项元分析（65,000 多项研究）综合应用于高等教育，提出六项关键发现和八项思维框架
 > - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
 

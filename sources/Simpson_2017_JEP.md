@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Adrian Simpson]]"
   - "[[Effect Size]]"
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-04
 ---
 

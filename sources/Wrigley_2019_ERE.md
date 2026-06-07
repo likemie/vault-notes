@@ -15,8 +15,8 @@ extracted_to:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Adrian Simpson]]"
   - "[[Effect Size]]"
-  - "[[Meta-analysis]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-01
 ---
 
