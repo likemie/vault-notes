@@ -1,0 +1,412 @@
+ISSN: 0022-0272 (Print) 1366-5839 (Online) Journal homepage: www.tandfonline.com/journals/tcus20
+
+Journal of Curriculum Studies
+
+The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong
+
+Kin Cheung Adrian Yan & Paul Morris
+
+To cite this article: Kin Cheung Adrian Yan & Paul Morris (2025) The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong, Journal of Curriculum Studies, 57:4, 480-494, DOI: 10.1080/00220272.2024.2425638
+
+To link to this article: https://doi.org/10.1080/00220272.2024.2425638
+
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+
+Published online: 20 Nov 2024.
+
+View supplementary material
+
+Submit your article to this journal
+
+Article views: 1597
+
+View related articles
+
+Citing articles: 4 View citing articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=tcus20
+
+JOURNAL OF CURRICULUM STUDIES 2025, VOL. 57, NO. 4, 480–494 https://doi.org/10.1080/00220272.2024.2425638
+
+The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong
+
+Kin Cheung Adrian Yan
+
+a,b
+
+and Paul Morris
+
+b
+
+a Research and Development Office, The Education University of Hong Kong, Hong Kong, China; b Department of Education, Practice and Society, Institute of Education, University College London’s Faculty of Education and Society, London, UK
+
+ABSTRACT
+
+This article analyses the history of a secondary school subject in Hong Kong called ‘Liberal Studies’ which was introduced as a compulsory school subject in 2009 and replaced by ‘Citizenship and Social Development’ in 2021. Through an analysis of curriculum guidelines, government publications, media articles, and the extant literature we explain both why it was created and replaced. What emerges is that the subject was both a product and victim of the shifting political climate in post-handover Hong Kong. Its emergence was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models. Its demise was the result of direct state intervention following the introduction of the National Security Law in 2020. The subject was seen to encourage anti-government protests, have failed to educate patriotic citizens and its replacement justified by reference to the need for national security and nation building. We discuss the relevance of LS with regards to models of curriculum change.
+
+Introduction
+
+ARTICLE HISTORY
+
+Received 20 August 2024 Accepted 28 October 2024
+
+KEYWORDS
+
+Curriculum change; Hong Kong; national education; National Security Law; liberal studies
+
+This article traces the history of a secondary school subject in Hong Kong called Liberal Studies (LS) which was introduced as a compulsory subject in 2009 by the Hong Kong Special Administrative Region (HKSAR) Government. It was intended to promote lifelong learning skills alongside other progressive pedagogies, such as cross-curricular teaching, constructivist learning, and issue-based enquiry (Fung & Yip, 2010). In early 2021, LS was replaced by Citizenship and Social Development (CSD) (Education Bureau [EDB], 2021a). To make sense of this curriculum change, we address two questions: Why and how did LS emerge as a compulsory school subject; and why was it replaced by CSD in 2021? In contrast to earlier studies which have focused on either the subject’s creation/ emergence (e.g. Deng, 2009) or its cancellation (e.g. Vickers & Morris, 2022) we focus on both. This allows us to compare and analyse the nature of the forces which operated across both phases and demonstrate how the initial rationale for introducing the subject shifted from claims related to global education reforms towards concern for national security and patriotism to justify its cancellation and replacement.
+
+As a former British colony, Hong Kong’s socio-political development has been profoundly influenced by colonial rule (1842–1997) and the handover to Chinese sovereignty in 1997 (Morris
+
+CONTACT Paul Morris paul.morris@ucl.ac.uk Department of Education, Practice and Society, Institute of Education, University College London’s Faculty of Education and Society, 20 Bedford Way, London WC1H 0AL, UK This article has been republished with minor changes. These changes do not impact the academic content of the article.
+
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http:// creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+JOURNAL OF CURRICULUM STUDIES
+
+481
+
+& Adamson, 2010). Prior to the handover, the British and Chinese governments began a series of negotiations in the late 1970s and early 1980s to discuss the future of Hong Kong. Subsequently, the Sino-British Joint Declaration was signed by the two governments in 1984, stating that, under the principle of ‘One Country, Two Systems’, Hong Kong, in its entirety, would become a Special Administrative Region under the People’s Republic of China (PRC) from 1 July 1997. The principle also states that, except for national defence and diplomatic matters, Hong Kong enjoys a high degree of autonomy in formulating its own policies. The expectation was therefore that Hong Kong’s socio-political systems, not least its education system, and its capitalist way of life would be decided within Hong Kong.
+
+Our analysis is located in a critical perspective (Apple, Bourdieu, and Kliebard) which sees school subjects as ‘the most quintessential of social and political constructions’ (Goodson & Marsh, 1996, p. 1). That perspective is especially pertinent to LS as it was a subject with no clear disciplinary foundations (Deng & Luke, 2008), links to higher education nor to employment and, as we will demonstrate, was a construction (and deconstruction) of the prevailing political context. We draw initially on the classic historical analyses of curriculum change in the USA by Cuban which provides a framework to understand the enduring factors which have the potential to explain the case of LS. Subsequently, we review that literature which has specifically focused on LS in Hong Kong. From the outset, our focus is on the ‘intended or official curriculum’ which is largely defined by the state. Whilst the HKSAR Government formally makes decisions about schools and curricula it became increasingly subject to the policies of the PRC, controlled by the Chinese Communist Party (CCP). Cuban (1992) claims, that all intended curriculum changes are at their core political. He elaborates with reference to the USA:
+
+Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools. (p. 224)
+
+As we will demonstrate, the role of bargaining, coalitions, and compromise amongst and between groups was of declining relevance especially after 2019, and the increasingly politicized role of LS in Hong Kong’s domestic politics. The subject emerged in the period when civil society (especially teacher unions and the news media) played an active role in seeking to influence education policy and there was extensive public consultation over the reforms. For example, the Legislative Council (2009) held an educational session to deliberate issues associated with the introduction of LS, such as class size, breadth and depth of the subject curriculum, and fairness and reliability of the assessment component. The session invited representatives of several interest groups in the education sector across the political spectrum. For example, pro-democracy groups included the Hong Kong Professional Teachers’ Union and the Hong Kong Liberal Studies Teachers’ Association; pro-Beijing groups included Hong Kong Convergence and the Hong Kong Federation of Education Workers; groups with no particular political leanings included the Committee on Home-School Cooperation. The issues raised and their continuing discussions were extensively covered by the news media. However, after 2019 the main teacher union and much of the critical media were closed but the mainland media played a key role. Consequently, the internal forces which Cuban identified as influencing curriculum change such as teacher unions, teacher professional subject associations, parents and students played a role in the subject’s emergence but were wholly absent in the demise and replacement of LS. This is in marked contrast to the factors which influenced changes to school subjects in the 1970s in Hong Kong, especially Chinese History (Kan et al., 2007) and Social Studies (Morris et al., 1997), where the teacher subject associations played a significant role in ensuring that Chinese History remained a separate subject and was not integrated into Social Studies.
+
+Writing with reference to the USA in 1992 Cuban identified the main external sources of curriculum change as: the progressive educational movement, the Cold War and national defence, legislative and legal decisions, influential groups (e.g. publishers and philanthropies) and key individuals (e.g. John Dewey, Edward L. Thorndike, and Ralph W. Tyler). It is the contemporary
+
+482
+
+K. C. A. YAN AND P. MORRIS
+
+variants of the first three factors within Hong Kong which primarily feature in the story of LS as influential groups and individuals, other than political actors, did not play a significant role.
+
+The progressive educational movement with its focus on pupil engagement and constructivist views of learning has travelled the globe and has been extensively promoted as central to reforms of national curricula. The promotion globally of aspects of progressivism in the intended curricula is central to the tenets of world culture theory (Meyer et al., 1997; Ramirez & Meyer, 1980; Silova & Brehm, 2015) which argues that a single global model of schooling has spread around the world as part of the diffusion of a more general cultural (western) model of the modern nation-state and consequently schools and curricula are becoming more similar over time. The resulting standardization of curricula is facilitated by the process of policy borrowing or referencing (Forestier & Crossley, 2015; Schriewer, 2003; Steiner-Khamsi, 2012) whereby nations seek to import best educational practices from those perceived as high performers, often based on pupils’ scores on comparative international tests (Auld & Morris, 2016).
+
+World culture theorists cite evidence such as the global spread from the USA of school subjects such as Social Studies (e.g. Hamilton, 1973) and Humanities (e.g. Stenhouse, 1968). In contrast, those who focus on the process of policy borrowing stress the influence of domestic considerations to explain why borrowing and referencing occurs and analyse how transferred reforms are translated and modified in local contexts. From this perspective, policy makers are seen to harness well-travelled global discourses to legitimate and promote domestic agendas which are controversial (Steiner-Khamsi, 2012; You & Morris, 2016) and as Cowen (2009) comments reforms ‘morph as they move’ (p. 135). As Steiner-Khamsi (2012) states, ‘local problems are sometimes created in line with packaged global solutions, rather than the other way round’ (p. 7). This implies that the analytical focus of the policy borrowing approach is on the legitimation of the need for reform rather than the converging patterns of diffusion of ‘world culture’. It involves exploring how policy makers frame a particular educational ‘problem’, which then justifies its corresponding ‘solution’. Thus, the policy borrowing approach underscores the domestic socio-political conditions that make reform possible and the selective nature of borrowing.
+
+In prima facie terms the second external source of curriculum change identified by Cuban namely, the Cold War and national defence, which framed the politics of the USA when he was writing does not initially seem relevant to the case of LS given the cold war had ended in the previous century. However, the rising tensions between the PRC and the West since around 2012 has been portrayed by the PRC as a ‘new cold war’ (Brands & Gaddis, 2021) initiated by the West. Wang Wenbin, then spokesman for the Ministry of Foreign Affairs of the PRC, claimed that:
+
+‘A particular country’ [alluding to the USA] intended to wage a new cold war in Asia, forcing regional countries [such as Indonesia and Singapore] to take sides (i.e., either China or the USA). Maintaining strategic autonomy, stability and development have always been the consensus of the countries within the Asian region. (China News [中国新闻网], 2023, emphasis added)
+
+As we will see, the young protesters in Hong Kong in 2019–2020 were described by the government as violent, colluding with foreign actors, and threatening national security. This portrayal of a new cold war has increasingly framed the broader politics of Hong Kong as the tensions between the state and many Hong Kongers over the governance of the HKSAR and the identity of its citizens has intensified. As we will demonstrate, policy makers became increasingly concerned that schools were not adequately contributing to the process of nation building, by educating Hongkongers as loyal citizens of the PRC, and LS specifically was portrayed as encouraging sedition. Those concerns intensified with the protests of 2019–20 and culminated in the introduction of a National Security Law in 2020. This focus on the role of domestic political agendas within nation-states as driving political change is in marked contrast to the focus on the impact of globalization which is central to world culture theorists. Tröhler (2023) argues that curriculum changes are fundamentally guided by national interests. In the case of mainland China, since Xi Jinping’s rise to power in 2012, the CCP has promoted both the Belt and Road initiative and the rejuvenation of the Chinese
+
+JOURNAL OF CURRICULUM STUDIES
+
+483
+
+nation. To these ends, education has played a central role in spreading the national language, Putonghua, across the nation. In parallel, from the late 2010s, Vickers and Morris (2022) argues the CCP has increasingly harnessed education to secure loyalty and compliance in Hong Kong, Xinjiang, and Mongolia. He argues:
+
+The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence. Far from taking shared identity for granted, schools incessantly preach the imperative of absolute loyalty to the Communist Party regime as the sole legitimate representative of the Chinese nation. This imperative is reinforced by a victimhood narrative designed to impress upon every citizen the grave peril of disunity and weakness, and the consequent necessity to subordinate individual aspiration to national demands. (p. 47)
+
+The third source of curriculum change identified by Cuban, namely legislative and legal decisions are central to the case of LS. The highly centralized nature of the education system in Hong Kong requires schools to follow curricula, textbooks and assessments mandated by the state through laws and regulations. These instruments often emerge after a range of actions which states employ in the policy making process to signal their intentions, such as press releases, speeches, consultative documents, white papers, reports, working parties, and commissions. The decisions to introduce LS, make it a compulsory subject, cancel it and replace it with CSD were all preceded by such actions before they were eventually mandated via laws and regulations. However, the introduction of LS emerged after a long process involving consultative documents, reports, and media releases as the Government sought to minimize opposition from key stakeholders, especially teacher unions.
+
+Prior to our analysis of the subject’s rise and fall we provide in Table 1 below a timeline which summarizes the key events and decisions related to LS. In 2007, the Curriculum Development Council (CDC) and the Hong Kong Examinations and Assessment Authority (HKEAA) jointly published the LS Curriculum and Assessment Guide (hereinafter the LS C&A Guide); subsequently, LS was officially introduced as a compulsory subject under the New Senior Secondary (NSS) Curriculum in 2009. After the subject’s introduction, the government attempted to introduce a new compulsory subject titled Moral and National Education (MNE), but it backed down and made it an optional subject
+
+Table 1. The rise and fall of liberal studies: key events and decisions.
+
+Year (Month)
+
+2007
+
+2009 (September) 2010 2012
+
+2017
+
+2019 (March)
+
+2019 (May)
+
+2019 (June) 2019 (July to September) 2019 (December)
+
+2020 (May) 2020 (June)
+
+2020 (August) 2020 (September)
+
+2020 (November) 2021 (February)
+
+Events/Incidents
+
+Publication of the LS C&A Guide by Curriculum Development Council and the Hong Kong Examinations and Assessment Authority Introduction of LS as a compulsory subject HKSAR Government proposed the introduction of MNE as a compulsory subject HKSAR Government decided to shelve MNE in face of large-scale protests against the introduction of the
+
+subject Appointment of a task force commissioned by the HKSAR Government to conduct a comprehensive
+
+review of the school curriculum from 2018 to 2019 Preliminary findings of the report: LS would remain a compulsory subject, contrary to media
+
+speculations Proposed Extradition Law Amendment Bill by the HKSAR Government in the light of the homicidal case
+
+committed by a Hong Kong resident in Taiwan Outbreak of a series of protests against the China Extradition Law Amendment Bill Publication of a series of articles from the Beijing state media, including China Daily, Beijing Daily, and
+
+People’s Daily, that depicted LS as the major cause of young people participating in the 2019 protests Announcement from the EDB of a one-off professional consultancy service for LS ‘textbooks’ by a review
+
+panel comprising academics, government personnel, and frontline teachers Chief Executive of the HKSAR: LS would be ‘managed’ later this year Tung Chee-hwa (former Chief Executive of the HKSAR): Introduction of LS during his tenure as Chief
+
+Executive was a ‘failure’ Completion of the one-off professional consultancy service for LS ‘textbooks’ Final report of the school curriculum review published by the task force: LS recommended to remain as a
+
+compulsory subject with minor adjustments to subject curriculum Cancellation of LS from 2021-22 school year onwards LS replaced by CSD
+
+484
+
+K. C. A. YAN AND P. MORRIS
+
+following widespread public protests, led by secondary school students, who viewed the subject as designed to indoctrinate pupils (Morris & Vickers, 2015).
+
+In 2017, the HKSAR Government commissioned a task force to conduct a comprehensive review of the school curriculum from 2018 to 2019; the task force was expected to publish its report in 2019, marking the first decade of implementing the NSS curriculum. In March 2019, the task force released the report’s preliminary findings which proposed that LS would remain a compulsory subject, this was contrary to the media speculations that LS would be expunged from the NSS curriculum amidst the protests against the China Extradition Law Amendment Bill in the same year. Nevertheless, LS was subjected to a wave of sudden, apparently coordinated attack from the Chinese state media in summer 2019. This prompted the HKSAR Government to launch a one-off ‘professional consultancy service’ for LS ‘textbooks’, which involved the formation of a review panel comprising academics, government personnel, and frontline teachers to remove contents that the Chinese state media deemed controversial and sensitive. The LS ‘textbooks’ were distinct from those in conventional school subjects in the sense that the LS curriculum encouraged teachers to exercise agency and draw on media resources, such as newspapers, feature articles, and news documents, as teaching materials. The reliance on media resources meant that there was no official textbook for LS teaching. However, local publishers could produce LS ‘textbooks’ in accordance with the LS C&A Guide as supplementary materials to support teachers. LS ‘textbooks’ were therefore exempted from the EDB’s textbook inspection scheme (CDC and HKEAA, 2007). When the review of ‘textbooks’ was completed in mid-2020, LS was subjected to another wave of critical commentary from pro-China politicians who claimed that the subject was a ‘failure’. Subsequently, despite the final report of the school curriculum review recommending that LS remains as a compulsory subject with minor changes to the curriculum content, the HKSAR Government announced abruptly in late 2020 that LS would be abolished from the 2021/22 school year onwards; in early 2021, LS was replaced by CSD, a subject which was reoriented towards instruction in patriotism, national development and lawfulness (Chan & Magramo, 2021).
+
+Emergence of liberal studies
+
+The emergence of LS thus needs to be understood with reference to the factors which framed Hong Kong’s politics in this period, namely Hong Kong’s handover from British to Chinese sovereignty in 1997 and the subject’s capacity to be portrayed by the HKSAR Government as a solution to a wide assemblage of policy issues and problems. These included: (i) replacing the old English structure of secondary and tertiary education with a ‘3 + 3 + 4’ structure aligned with that used in mainland China and creating a standardized structure (Education and Manpower Bureau [EMB], 2005); (ii) resolving the ‘surplus teacher’ problem (Yan, 2021); (iii) addressing longstanding weaknesses of the schooling system, especially its focus on tests, teacher-centred instruction and textbooks (Deng, 2009); (iv) enhancing the Government’s declining legitimacy following the Asian Financial Crisis in 1998; and (v) promoting young people’s understanding of contemporary China and its culture through curriculum reform (Tse, 2007). Despite the domestic nature of these issues, the overall reform of education of which LS was part was publicly promoted with reference to global reforms, notably the adoption of the discourses of lifelong learning and knowledge economy.
+
+Resolving the policy issues and problems through structural reforms of schooling
+
+One of the important structural reforms of the schooling system was the transition from a British model of secondary and tertiary education—commonly referred to as a ‘3 + 2 + 2 + 3’ system—to a ‘3 + 3 + 4’ system which was practised in mainland China. Within the ‘3 + 2 + 2 + 3’ system, students were required to complete three years of junior secondary education (secondary one to three), two years of senior secondary education (secondary four and five), and a minority of pupils went on for two years of Advanced Levels for university matriculation (secondary six and seven), and three years
+
+JOURNAL OF CURRICULUM STUDIES
+
+485
+
+of tertiary education. However, the Hong Kong system was fragmented with two matriculation examinations, namely the one-year Hong Kong Higher Level Examination which allowed students to enter the Chinese University of Hong Kong (CUHK) (which ran four-year degrees), after secondary six and the Hong Kong Advanced Level Examination (HKALE) taken after secondary seven which was required to access the University of Hong Kong (HKU) and other institutions (which ran three-year degrees). The introduction of the ‘3 + 3 + 4’ system, meant there would only be one matriculation examination—the Hong Kong Diploma of Secondary Education (HKDSE) Examination, all pupils would receive six years of secondary schooling, and the schooling system would both align with that in mainland China and many other nations and remove the fragmented nature of the system
+
+LS was portrayed as helping to resolve practical problems that arose during the structural reforms of the schooling system, especially the issue of ‘surplus teachers’ (Yan, 2021) which was a major concern of the Hong Kong Professional Teachers’ Union, the main teacher union, and to facilitate the alignment with other policies, notably the extension from nine to twelve years of free compulsory education (Tsang, 2008). As Yan (2021) pointed out, ‘surplus teachers’ resulted from a sharp decrease of teaching workload because the elective subjects they used to teach at the Advanced Levels were restructured. Since these teachers were not qualified to teach other high-status subjects, such as language, mathematics, and science, their job security was threatened. As LS was not buttressed in a single disciplinary tradition, did not have official textbooks and it did not require subject-specialist teaching; the educational authorities decided that LS teachers could be trained through workshops and seminars. Meanwhile, LS’s modular curricular structure allowed the curricular contents to be drawn from the elective school subjects in the previous school curriculum. The six LS modules were: ‘Personal Development and Interpersonal Relationships’, ‘Hong Kong Today’, ‘Modern China’, ‘Globalisation’, ‘Public Health’, and ‘Energy Technology and the Environment’ (CDC and HKEAA, 2007). Many of the humanities elective subjects, including Economic and Public Affairs, Government and Public Administration, Social Studies, Integrated Humanities, and Science and Technology, which were cancelled in the NSS Curriculum but many of teachers who taught those subjects kept their jobs by teaching LS modules.
+
+Aside from its practical functions, LS was also positioned as a reform that would address both longstanding and contemporary educational problems in Hong Kong. Deng (2009) explores the curriculum making process of LS and suggests that the nature of the curriculum content and its curriculum reflect the policy makers’ intention to address the system’s long-standing shortcomings, notably an overly academic, didactic and decontextualized school curriculum, which had been identified in a range of official reports, especially those of the Education Commission, over many decades (Morris & Adamson, 2010). To this end, the nature and design of LS referenced several longstanding issues. Regarding the nature of the subject, the LS C&A Guide (2007) stipulated that the subject aimed to cultivate students’ ability to think effectively and to communicate effectively. This corresponds to the subject’s learning objectives, which were that students were able to ‘present arguments clearly and demonstrate respect for evidence, open-mindedness and tolerance towards the views and values held by other people’ (p. 6, point e), and ‘identify the values underlying different views and judgements on personal and social issues, and apply critical thinking skills . . . in making decisions and judgements on issues and problems at both personal and social levels’ (p. 6, point d). Also, the LS C&A Guide stated that LS was in line with ‘contemporary views of knowledge and of how people learn’ (CDC and HKEAA, 2007, p. 2). In a later section of the same document elaborated:
+
+Knowledge is contextualised, multi-disciplinary and personally and socially constructed. Learners acquire knowledge through activities such as listening to instruction, reading and modelling. They also construct knowledge through personal reflection and experiential learning, as well as through interaction, collaboration and dialogue with other people. (CDC and HKEAA, 2007, p. 83, emphasis original)
+
+These quotations reflected the policymakers’ intention that the distinct design of LS served to address the issues of over reliance on textbooks and rote learning (Morris & Adamson, 2010).
+
+486
+
+K. C. A. YAN AND P. MORRIS
+
+As for the design of LS, Forestier et al. (2016) identify that some of the elements of the revamped school curriculum in Hong Kong are referenced to external models especially the International Baccalaureate Diploma Programme (IBDP), a two-year programme offered to students aged 16 to 19. Three major areas were referenced. First, the component of LS titled ‘Other Learning Experiences’ had strong parallels with the ‘creativity, action, and service’ elements of the IBDP that emphasizes students’ engagement with the community. Second, the educational discourses that have informed the nature of LS, including the key tenets of liberal education and constructivist learning, resembled the Theory of Knowledge in the IBDP, which guides students to understand the nature of knowledge and develop critical thinking skills. Third, LS’s research component—the Independent Enquiry Study (IES)—resembled IBDP’s extended essay. According to the International Baccalaureate Organization (2022), the extended essay aims to development students’ capacity to ‘analyse, synthesise, and evaluate knowledge’ through ‘formulating an appropriate research question, engaging in a personal exploration of the topic, communicating ideas, and development an argument’ (n. p.). Similarly, the IES reflected a strong emphasis on developing students’ research skills. According to Curriculum Development Council and Hong Kong Examinations and Assessment Authority (CDC and HKEAA), 2007), the IES was:
+
+A self-directed learning experience in which the student takes up the major responsibility for learning . . . they themselves choose their title, the scope, the methods of their investigative study, and the ways of presenting the findings and products of the study. They take the initiative in raising questions, finding answers, and evaluating the enquiry process, and they are responsible for their plans and decisions. (p. 57–58)
+
+These references to external curriculum models ensured that LS was portrayed by the HKSAR Government as the embodiment of progressive pedagogies, signifying a new teaching and learning paradigm which reflected global trends and contrasted with that of education during the colonial period.
+
+The HKSAR Government invited overseas scholars to evaluate and endorse the LS. For example, CDC—an advisory body of the EDB—invited Mary James, then Professor of Education at the University of Cambridge, to serve as an overseas member of the CDC from 2007 to 2009 to facilitate the implementation of the NSS Curriculum. With regards to LS, James praised its design for its emphasis on critical thinking and research skills. She (2017) remarked:
+
+In line with the overall aims and goals of the educational reforms, the explicit aim of LS has been to broaden the knowledge base of all students and enhance their social, national and global awareness as well as developing their ability to examine a wide range of issues from multiple perspectives. Special attention has been paid to developing creative and critical thinking skills, demonstrated primarily through an independent enquiry study’. (p. 9–10)
+
+Enhancing the declining legitimacy of the HKSAR government after the handover
+
+Despite the domestic nature of these educational issues, the public promotion of education reform through the use of global educational discourses and the reference to external curriculum models helped to enhance the declining legitimacy of the HKSAR Government after the Asian Financial Crisis in 1998. Shortly after the handover, the Hong Kong economy was hit hard by the Asian Financial Crisis in 1998 and this coincided with the commencement of the first term of the HKSAR Government (i.e. from 1997 to 2002). This prompted concerns from the public about the Government’s legitimacy and ability to lead Hong Kong in the post-handover period. In the light of this declining legitimacy, the Government promoted a major education reform as a starting point to restore people’s confidence. To this end, the Government first externalized the need for education reform to global economic trends, notably globalization and the emergence of a knowledge-based economy. The Policy Address (Tung, 2000) stated that:
+
+The Asian Financial Crisis highlighted the structural weakness in our economy that needed to be corrected. Reforms have been put in place to enhance our competitiveness, to tap the enormous opportunities brought about by globalisation and the knowledge-based economy, and to promote the long-term development of Hong Kong. (p. 5, emphasis added)
+
+JOURNAL OF CURRICULUM STUDIES
+
+487
+
+Later in the same document, Government underscored the need for the education system to catch up with recent global developments:
+
+The education system of old can no longer meet the challenges of the new age. Embracing the knowledge-based new economy requires a large pool of talent equipped with the right skills and creativity [. . .] Therefore, without sweeping reforms of our education system, the quality of our education would not be able to meet the requirements for social development and the community’s expectations. (p. 23, emphasis added)
+
+Subsequently, similar sentiments also appeared in the policy document Learning for Life, Learning through Life: Reform Proposals for the Education System in Hong Kong (Education Commission, 2000), which stipulated the rationale behind education reform:
+
+The world is undergoing unprecedented changes, and Hong Kong is no exception. We are seeing substantial changes in the economic structure and the knowledge-based economy is here to stay. Hong Kong is also facing tremendous challenges posed by a globalised economy. (p. 3, para. 2.1, emphasis added)
+
+These three quotations reflected the Government’s strategy of moving beyond the domestic context and externalizing the need for education reform by reference to globalization, particularly the emergence of the ‘knowledge-based economy’ (Schriewer, 2003).
+
+In the light of this, the Government posited ‘lifelong learning’, which was, along with the ‘knowledge economy’, then the prevailing goals of global education reform movements (Elfert, 2015), as the essential direction of education reform:
+
+If Hong Kong wishes to become a knowledge-based economy in the information age, we must continue to innovate and change. This is why we must embrace ‘lifelong learning’. School education should aim at fostering in students an interest and an ability in learning so that they are able to acquire knowledge through their lives and respond effectively to changing circumstances. (Tung, 1998, p. 20, emphasis added)
+
+Similar iterations of lifelong learning were incorporated into the overall aims of the school curriculum. The policy document Learning to Learn: Life-long Learning and Whole Personal Development (Curriculum Development Council [CDC], 2001) stated:
+
+The school curriculum should provide all students with essential lifelong learning experiences for whole-personal development in the domains of ethics, intellect, physical development, social skills and aesthetics, according to individual potential, so that all students can become active, responsible and contributing members of the society, the nation and the world. (p. v, para. 7, emphasis added)
+
+In parallel, LS specifically was portrayed by the Government as a means to promote lifelong learning. The LS C&A Guide (CDC and HKEAA, 2007) stipulated that the subject aimed:
+
+To develop in students a range of skills for lifelong learning, including critical thinking skills, creativity, problem-solving skills, communication skills and information technology skills. (p. 5, emphasis added)
+
+Within the broad scheme of education reform, the HKSAR Government also recognized the need to promote national education through curriculum reform. This curricular objective pertained to the Central People’s Government’s intention to rekindle the cultural and political ties between the Mainland and Hong Kong after the handover. In so doing, the political transition was largely framed by the Chinese regime and the HKSAR Government in familial terms: the relationship between Hong Kong and mainland China was described as akin to a ‘mother’ and ‘son’, and that the handover was portrayed as a ‘reunification with the motherland’ (Tung, 1999, p. 13). At the Ceremony of the Establishment of the HKSAR on 1 July 1997, the late Jiang Zemin, then Chairman of the PRC, emphasized that China had never given up on resuming its sovereignty over Hong Kong. In the opening speech, he said:
+
+Although Hong Kong has been truncated from the Mainland for a long period of time, the ‘blood ties’ of the Chinese nation are never severed. China and its people never recognise any unequal treaties; we never forget the shame of conceding Hong Kong; we never stop fighting for the unity of national sovereignty. (Liaison Office of the Central People’s Government in the Hong Kong Special Administrative Region, 2015)
+
+488
+
+K. C. A. YAN AND P. MORRIS
+
+Jiang’s remarks served to invoke nationalist sentiments that the ‘bond’ between the ‘son’ and ‘Motherland’ was always there. Hong Kong and mainland China were also intimately connected.
+
+The HKSAR Government recognized the capacity of LS as a means to promote young people’s understanding of and loyalty to contemporary China. This was evident in the inclusion of ‘Modern China’ as one of the modules in the LS curriculum. According to Curriculum Development Council and Hong Kong Examinations and Assessment Authority (CDC and HKEAA, 2007), the module comprised two subsidiary themes—‘Theme 1: Reform and Opening Up’ and ‘Theme 2: Chinese Culture and Modern Life’. Theme 1 covered:
+
+Major historical periods and events of the country in the last 100 years; a brief understanding of the domestic policies and foreign relations of the PRC; the importance of the Constitution of the PRC. (p. 33–34)
+
+Theme 2 covered:
+
+The origins of Chinese culture and its major characteristics; similarities and differences in customs and practices of people within the same or from different geographical, cultural, religious and ethnic backgrounds; how cultures have adapted to their changing environments; the preservation and conservation of culture and heritage, etc. (p. 34)
+
+Such curriculum configurations encouraged students to keep abreast of current affairs and to acquire knowledge about China without the need to acquire the disciplinary knowledge of Chinese History. Further, and significantly, the coverage of China in LS did not seek to cultivate a strong sense of national identity and loyalty to the CCP; this probably reflected the local curriculum designers’ awareness that to do so would have engendered a strong reaction from within Hong Kong’s active civil society. Later, in 2012 this is what happened to the attempt to introduce MNE as a compulsory subject.
+
+The demise of liberal studies
+
+The demise of LS has to be understood in the context of China’s nation building project across its peripheral regions under Xi Jinping (Vickers, 2023), the changing relations between Hong Kong and mainland China and the increasingly direct role of the CCP in the governance of Hong Kong. as it sought to ensure that students cultivate their sense of belonging to the nation (Tröhler, 2023). For Hong Kong, the CCP found its intervention point amidst the 2019 riots. This was achieved by framing the 2019 riots as a matter of ‘national security’ and LS as the chief vehicle for fomenting subversion and sedition. The subsequent enactment of the National Security Law in 2020 legitimated a new agenda for education, which essentially entailed the replacement of LS by CSD so as to introduce national education into the school curriculum, thus fulfilling the Government’s two controversial agendas, namely: the removal of vestiges of British colonialism in the education system and the strengthening of the national identity and patriotism of young people.
+
+Liberal studies: encouraging sedition amidst the 2019 riots
+
+Since its introduction in 2009, LS had been increasingly implicated by the local pro-Beijing politicians as one of the causes of young people participating in social movements in the 2010s, including the Moral and National Education (MNE) controversy in 2012 (Morris & Vickers, 2015), the Umbrella Movement in 2014 (Fung & Su, 2016), and the Mongkok Riots in 2016 (Fung & Liang, 2018). What distinguished the 2019 riots from the other social movements was the sudden and coordinated attack by the Chinese state media and their local editions in Hong Kong during the summer of 2019. From July to September 2019, The Chinese state media published a series of articles portraying LS as the major cause of young people participating in those riots. In particular, they criticized LS for its lack of official textbooks and the lack of regulation of teaching materials, which enabled ‘some actors’ to corrupt young people’s minds. For instance, People’s Daily [人民日报] (2019) asserted that
+
+JOURNAL OF CURRICULUM STUDIES
+
+489
+
+LS ‘textbooks’ were ‘trafficking contraband’; Beijing Daily [北京日報] (2019) and China Youth Daily [中 国青年報] (2019) dubbed LS ‘textbooks’ as ‘subversion manuals’ and the ‘diseased roots’ of the ‘Hong Kong problem’, respectively. Hence, Guangming Daily [光明日报] (2019) claimed that LS ‘must be urgently reformed’.
+
+Through analysing the archives of the mainland media, it was evident they fashioned a narrative that linked LS to the increasing participation of young people in social movements in the 2010s as well as ‘malign Western interference’. People’s Daily [人民日报] (2019) opined that the shelving of the MNE in 2012 resulted in a lack of ‘national education’; LS was thus ‘walking on one leg’, promoting critical thinking without ‘Chinese coordinates’. Consequently, they argued that students were denied the opportunity to learn about mainland China in a coherent and holistic manner. Second, the Chinese state media dubbed political activists such as Jimmy Lai (a newspaper publisher) and Benny Tai as ‘puppets’ of ‘malign foreign interference’ who used education to spread ‘radical ideas’ through LS. For example, China Daily [中国日報] (2019) criticized Benny Tai, who had served as a consultant of the ‘Hong Kong Today’ module ‘textbooks’, for introducing the concept of ‘civil disobedience’ and ‘non-institutionalised socio-political participation’ under the topic ‘Rule of law and socio-political participation’. China Daily [中国日報] (2019) held that these two concepts sent a misleading message to students that they could engage in illegal protests if they deemed the existing government as unjust. Hence, LS served as ‘subversion manuals’ to instruct young people to disobey the law and to engage in violent protests. This narrative served to generate a sense of ‘crisis’ that Hong Kong was being ‘destablised’ and that the 2019 riots were a matter of ‘national security’ that warranted direct control from the Chinese Government.
+
+Through framing the 2019 riots as a matter of ‘national security’ and portraying LS as the major vehicle of sedition, the Chinese state media asserted that the riots were a blatant challenge to the principle of ‘One Country, Two Systems’, and thus required ‘clarification’. China Youth Daily [中国青 年報] (2019) elaborated:
+
+‘One Country, Two Systems’ refers to the tolerance of two systems within a country. It is a key policy proposed to fulfil the goal of a peaceful reunification of the country. Key policies are indisputable. The premise is ‘One Country’. This follows that the introduction of national education [. . .] is a basic requirement. History has taught us that the rejuvenation of countries in the modern era necessitates the control of educational matters, alongside the exercise of sovereignty over its physical borders. In particular, education plays a crucial role in unifying a country’s common language and cultural traditions.
+
+This quotation was telling because it highlighted the importance of ‘One Country’ as the prerequisite of ‘Two Systems’; this contrasted with previous interpretations that celebrate Hong Kong’s distinctiveness from mainland China, such as the emphasis on ‘Hong Kong people administering Hong Kong’ and ‘high degree of autonomy’ (Hong Kong Free Press, 2021). Also, it revealed the CCP’s ambition to use education as a means to unify the country’s sense of belonging (Calhoun, 2007), often at the expense of local cultures. This suggested that minor adjustments to the Hong Kong school curriculum would not suffice; LS needed to be replaced with a subject that was aligned with national education.
+
+The intention to replace LS was evident in the second wave of commentary by the mainland media on LS in the latter half of 2020, notably during the period prior to the National Security Law introduction in July 2020. This began with the remarks of Carrie Lam, then Chief Executive of the HKSAR, during an interview with a local pro-China newspaper, Ta Kung Pao. Lam stated that education in Hong Kong could no longer be ‘an unguarded henhouse’ and that she was planning to ‘manage’ LS later that year (The Standard, 2020). A few months later, Tung Chee-hwa, former Chief Executive of the HKSAR and then vice-chairman of the Chinese People’s Political Consultative Conference, claimed that the introduction of LS, as part of the large-scale education reform during his tenure from 1997 to 2005, was a ‘failure’ (Hong Kong Free Press, 2021). He stated that LS had been ‘alienated’ from its original purpose in the light of young people’s increased participation in social movements. Eventually, in November 2020, the HKSAR Government announced the following
+
+490
+
+K. C. A. YAN AND P. MORRIS
+
+changes to LS from the 2021/22 school year onwards: first, the six interrelated modules would be replaced by three themes, namely: ‘Theme 1: Hong Kong under “One Country, Two Systems”’, ‘Theme 2: Our Country since Reform and Opening Up’, and ‘Theme 3: Interconnected and Interdependence of the Contemporary World’ (CDC and HKEAA, 2021; EDB, 2021a); third, the textbooks of the revamped subject would be included in the EDB’s textbook inspection scheme; fourth, the research component—IES—would be replaced by mandatory field trips to mainland China to learn about the development of the country. In February 2021, the EDB confirmed that LS will be replaced by CSD (EDB, 2021a).
+
+Addressing the criticisms
+
+The Government’s decision to replace LS with CSD raised criticisms from the public, since a school review report (Task Force on Review of School Curriculum, 2020) recommended that LS should retain its compulsory and exam-oriented subject status with minor curriculum adjustments. To address these criticisms, the EDB insisted that such curriculum changes were part of the ‘optimalisation’ of the NSS Curriculum (EDB, 2021a). In a ‘clear the air’ press release, the EDB emphasized that the school curriculum was in need of urgent reforms due to the ‘serious deviations’ that emerged in implementing LS. After summarizing the major criticisms of LS, the Education Bureau, (EDB, 2021b) responded:
+
+The EDB cannot disregard the long-standing deviations in the implementation of LS. Speculating on the EDB’s motive for launching a reform of LS and opposing the continuous development of the curriculum of the subject not only disregards the learning interests of students, but also ignores the professional considerations about the bureau’s optimalisation of the subject.
+
+The EDB (2021b) continued:
+
+If there were an intention to ‘kill’ LS, it would be more straightforward to abolish the subject. The purpose of revising the LS curriculum and renaming the subject is to rectify the problem of deviations in teaching and put the subject back on the right track, thereby facilitating its stable and long-term development. As the subject remains a senior secondary core subject, it is clear that the claim of ‘killing LS’ is not valid.
+
+These quotations reflected the EDB’s intention to silence speculation about the rationale behind the replacement of LS by CSD and to protect the legitimacy of the large-scale education reform since 2000. Nevertheless, the CSD curriculum was of an entirely different nature to LS; the subject was designed to officially introduce national education as a core component of the school curriculum, something that the Government had failed to achieve since the city’s handover in 1997.
+
+The processes identified above which contributed to the replacement of LS by CSD in Hong Kong largely corroborates the existing literature that documents the tightening of control over the school curriculum in Hong Kong as well as other peripheral regions of China. While earlier literature on citizenship education in China (e.g. Law, 2013) suggests that the CCP seeks to modernize its citizenry by striking a balance between preserving its party doctrines and accommodating the forces of globalization, the more recent studies contend that China’s nation building project has oriented towards projecting nationalism within its sovereign boundaries (e.g. Vickers & Morris, 2022). This agenda has been less tolerant of regional variations. For Hong Kong, Vickers and Morris (2022) highlight that the abolition of LS needs to the be understood with reference to the CCP’s agenda of bringing the entirety of the Chinese society under more comprehensive centralized control through education reforms. They argue that this agenda is fundamentally driven by Xi Jinping’s nation building project: the ‘Chinese Dream’ for the ‘Great Revival of the Chinese Nation’, which attempts to assert the CCP’s authentic claim to both cultural distinctiveness and political sovereignty over the rest of China (Vickers, 2023). More recently, Vickers’s (2024) analysis of CSD textbooks shows that the revamped school subject is designed to promote a national identity and places much more emphasis on the hierarchical relationship between mainland China and Hong Kong, often at the expense of topics related to Hong Kong’s distinct local identity.
+
+JOURNAL OF CURRICULUM STUDIES
+
+491
+
+Similar nation building policies have been identified in the peripheral regions of China. Bulag (2024) argues that ethnic minorities in Inner Mongolia have been subjected to more intense suppression from the CCP in the late 2010s. This is evident in the announcement in August 2020 that the use of the Mongolian language to teach Chinese Language, Moral and Politics, and Historythree core modules of the school curriculum—would be phased out in all local Mongolian schools over the next three years. Tobin (2024) makes similar observations regarding Xinjiang. Non-governmental organizations, such as Human Rights Watch and Amnesty International, denounced China in 2017 for sending over a million Uyghurs and other minority groups to ‘re-education’ camps to indoctrinate them with patriotism and ‘de-radicalise’ them by forcing them to abandon their religion and learn Mandarin Chinese at the expense of their own languages. Meanwhile, Leibold and Dorjee (2024) investigate boarding schools on the Tibetan Plateau and highlight that the majority of the Tibetan and other minorities children are coerced to first ‘unlearn’ their vernacular cultures that were deemed by the regime as ‘backward’ and ‘uncivilised’. Then, these children were socialized with CCPsanctioned cultural norms and language, i.e. Han-centric vision of the Chinese nation, and Putonghua, respectively. Consequently, the authors argue that these boarding schools are contributing to the production of ‘a more docile and homogenous “Chinese” self under CCP guardianship’ (p. 120). Bulag (2024) and Tobin (2024), and Leibold and Dorjee (2024) argue that these changes are fundamentally driven by the party-state’s intention to construct an ethnically monolithic state (i. e. the Chinese nation, zhonghua minzu), which must be built on the principle of national sovereignty and national citizenship. This follows that, in the name of preserving the peace and prosperity of the Chinese nation, ethnic minorities are no longer regarded by the party-state as distinct collectivities; instead, they need to be incorporated as part of the Chinese national culture.
+
+Conclusion
+
+What emerges from this analysis is that the history of LS was defined by the prevailing and shifting political context within HK. Its emergence in 2009 was intended to address a wide range of domestic issues but the rationale for reform generally drew heavily on references to global trends, specifically lifelong learning and the knowledge economy. In parallel, the LS curriculum also drew heavily on overseas models, especially the IBDP, and was evaluated and endorsed by overseas scholars. This process of externalizing the need for change by framing it with reference to globalization, overseas curricula, and foreign educational scholars’ opinions, effectively allowed the reform to minimize the domestic tensions which surrounded education in Hong Kong. The reform process was extended and deliberative as it sought to give ample time for the key stakeholders of the education sector to accommodate the structural changes, and thus to minimize opposition from an active civil society.
+
+Meanwhile, the demise of LS took place under very different socio-political circumstances in Hong Kong in the 2010s, notably the escalating tensions between Hong Kong and mainland China, the earlier failure to introduce MNE as a compulsory subject, Xi Jinping’s nation-building project since his ascension to power in 2012 and the riots of 2019 which were portrayed as an attempt to promote independence. Through framing the 2019 riots as a matter of ‘national security’, LS’s distinct nontraditional features, including the absence of a single disciplinary tradition and official textbooks, and the stipulated issue-based enquiry approach, were portrayed by the state media as ‘loopholes’ that were portrayed as spreading ‘poison’ to young people. This legitimated the need for sweeping curriculum changes that better reflect the importance of national education at the expense of LS’s original progressive features. Although the language associated with lifelong learning remained in the CSD curriculum, it was largely subsumed under the banner of ‘national security’ and CCPsanctioned interpretations of Hong Kong-China relations. Thus, the justification for the cancellation of LS and its replacement by CSD was framed through a discourse of nationalism which stresses the need to defend national security and educate patriotic citizens. It remains to be seen how topics pertinent to the wellbeing of society and human civilization within the CSD curriculum, such as
+
+492
+
+K. C. A. YAN AND P. MORRIS
+
+global citizenship education, climate change, and sustainable development, will be affected by global geo-politics and the National Security Law.
+
+LS thus provides a case which can, if one was to focus solely on its introduction, be used to demonstrate the power of globalization and the validity of world culture theory given the reliance on global trends and influences as the rationale for reform. However, such an interpretation would require an assumption that those factors were the motive for reform, rather than, as we have suggested, an exercise in using external references to address domestic problems. LS thus provides a powerful case which illustrates the need to recognize that at its core curriculum change is, as Cuban argued, a social and political construction. The role of politics was complex and not explicit in the subject’s emergence given the veneer provided by references to the global in policy documents. In contrast, the role of politics and the pursuit of nation building was explicit in both the cancellation of LS and the introduction of CSD. The National Security Law served to ensure that there were no alternatives.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the author(s).
+
+ORCID
+
+Kin Cheung Adrian Yan http://orcid.org/0000-0001-8747-0213 Paul Morris http://orcid.org/0000-0002-7448-0727
+
+References
+
+Auld, E., & Morris, P. (2016). PISA, policy and persuasion: Translating complexconditions into education ‘best practice’.
+
+Comparative Education, 52(2), 202–229. https://doi.org/10.1080/03050068.2016.1143278 Beijing Daily [北京日報]. (2019). “香港“通识教材”夹带哪些“私货”？网友教科书？教唆书！”[What Kind of Contraband Are Hong Kong’s ‘Liberal Studies Textbooks’ Trafficking? Netizens: Textbooks? Subversion Manuals!]. Retrieved August 24, 2021, from https://baijiahao.baidu.com/s?id=1642994891881620400&wfr=spider&for=pc Brands, H., & Gaddis, J. L. (2021). The new cold war: America, China, and the echoes of history. Foreign Affairs, 100(6), 1021.
+
+Bulag, U. E. (2024). The wheel of history and minorities’ ‘self-sacrifice’ for the Chinese nation. Comparative Education, 60 (1), 96–117. https://doi.org/10.1080/03050068.2023.2271781 Calhoun, C. (2007). National matters. Culture, history, and the cosmopolitan dream. Routledge.
+
+Chan, H. H., & Magramo, K. (2021). Hong Kong’s liberal studies to be renamed ‘citizenship and social development’ as part of massive overhaul. South China Morning Post. Retrieved July 28, 2024, from: www.scmp.com/news/hong-kong/ education/article/3127778/hong-kongs-liberal-studies-expected-be-renamed-citizenship China Daily [中国日報]. (2019). 看完香港学生的通识教材, 吓出一身冷汗!” [Having read through HK students’ liberal studies texts, I came out all over in a cold Sweat!]. Aug 23. Retrieved Sept 30, 2019, from http://oppo.yidianzixun. com/article/0N1QCOaS?appid=oppobrowser&s=mibrowser//oppo.yidianzixun.com/article/0N1QCOaS?appid=oppo browser&s=mibrowser China News [中国新闻网]. (2023). 汪文斌: 个别国家意图在亚洲发动“新冷战”, 引起地区国家坚决反对 [Wang Wenbin:
+
+A particular country intends to wage a ‘new cold war’ in Asia, prompting strong objection from countries in the region]. 5th June. Retrieved, Aug 5, 2024, from https://www.chinanews.com.cn/gn/2023/06-05/10019508.shtml China Youth Daily [中国青年報]. (2019). 香港问题的教材“病根”’ [Textbooks the ‘diseased Roots’ of the Hong Kong problem] 26 th August. Retrieved, on September 30, 2020, from https://baijiahao.baidu.com/s?id= 1642877940808338415&wfr=spider&for=pc Cowen, R. (2009). The transfer, translation and transformation of educational processes: And their shape‐shifting?
+
+Comparative Education, 45(3), 315–327. https://doi.org/10.1080/03050060903184916 Cuban, L. (1992). Curriculum stability and change. In P. Jackson (Ed.), Handbook of research on curriculum: A project on the american educational research association (pp. 216–247). Macmillan.
+
+Curriculum Development Council. (2001). Learning to learn: Life-long learning and whole-person development. Printing Department.
+
+Curriculum Development Council and Hong Kong Examinations and Assessment Authority. (2007). Liberal Studies Curriculum and Assessment Guide (Secondary 4–6). Government Logistics Department.
+
+JOURNAL OF CURRICULUM STUDIES
+
+493
+
+Curriculum Development Council and Hong Kong Examinations and Assessment Authority. (2021). Citizenship and Social Development Curriculum and Assessment Guide (Secondary 4–6). Government Logistics Department.
+
+Deng, Z. (2009). The formation of a school subject and the nature of curriculum content: An analysis of liberal studies in Hong Kong. Journal of Curriculum Studies, 41(5), 585–604. https://doi.org/10.1080/00220270902767311 Deng, Z., & Luke, A. (2008). Subject matter: Defining and theorizing school subjects. In F. M. Connelly, M. F. He, & J.
+
+Phillion (Eds.), The SAGE handbook of curriculum of instruction (pp. 66–87). SAGE.
+
+Education and Manpower Bureau. (2005). The new academic structure for senior secondary education and higher education – action plan for investing in the future of Hong Kong. Government Printer.
+
+Education Bureau. (2021a , February 2). Optimising the four senior secondary school subjects to create space for students and cater for learning diversity: School questionnaire survey and school briefing Sessions. Education Bureau Circular Memorandum. No 20/2021 Education Bureau. (2021b, February, 9). Reform of Liberal Studies (Part 1). Education Bureau Press Release.
+
+Education Commission. (2000). Education blueprint for 21st century: Learning for life, learning through life – reform proposals for the education system in Hong Kong.
+
+Elfert, M. (2015). UNESCO, the faure report, the delors report, and the political utopia of lifelong learning. European Journal of Education, 50(1), 88–100. https://doi.org/10.1111/ejed.12104 Forestier, K., Adamson, B., Han, C., & Morris, P. (2016). Referencing and borrowing from other systems: The Hong Kong education reforms. Educational Research, 58(2), 149–165. https://doi.org/10.1080/00131881.2016.1165411 Forestier, K., & Crossley, M. (2015). International education policy transfer–borrowing both ways: The Hong Kong and England experience. Compare: A Journal of Comparative and International Education, 45(5), 664–685. https://doi.org/ 10.1080/03057925.2014.928508 Fung, C. L., & Yip, W. Y. (2010). The policies of reintroducing liberal studies into Hong Kong secondary schools.
+
+Educational Research for Policy and Practice, 9(1), 17–40. https://doi.org/10.1007/s10671-009-9076-3 Fung, D., & Liang, T. (2018). The legitimacy of curriculum development in post-colonial Hong Kong: Insights from the case of liberal studies. Oxford Review of Education, 44(2), 171–189. https://doi.org/10.1080/03054985.2017.1379382 Fung, D., & Su, A. (2016). The influence of liberal studies on students’ participation in socio-political activities: The case of the umbrella movement in Hong Kong. Oxford Review of Education, 42(1), 89–107. https://doi.org/10.1080/03054985. 2016.1140635 Goodson, I. F., & Marsh, C. J. (1996). Studying school subjects: A guide. Routledge.
+
+Guangming Daily [光明日报]. (2019). ‘香港“通识教育”亟得改革.’ [Hong Kong’s liberal studies must Be urgently Reformed!] Article shared by the Central Committee of the Communist Youth League (中央共青团). 22nd September. Retrieved, on September 24, 2021, from https://zhuanlan.zhihu.com/p/83545131 Hamilton, D. (1973). The integration of knowledge: Practice and problems. Journal of Curriculum Studies, 5(2), 146–155.
+
+https://doi.org/10.1080/0022027730050205 Hong Kong Free Press. (2021, March. ‘One country, two systems’ and other key Hong Kong phrases disappear from Beijing’s two sessions report 4th. https://hongkongfp.com/2021/03/04/one-country-two-systems-and-other-key-hong-kongphrases-disappear-from-beijings-two-sessions-report/ International Baccalaureate Organization. (2022). Extended essay. Retrieved, on 10 th March, from: https://www.ibo.org/ programmes/diploma-programme/curriculum/extended-essay/ James, M. (2017). Upper secondary education in Hong Kong: A case study. Royal Society.
+
+Kan, F., Vickers, E., & Morris, P. (2007). Keepers of the sacred flame: Patriotism, politics and the Chinese history subject community in Hong Kong. Cambridge Journal of Education, 37(2), 229–247. https://doi.org/10.1080/ 03057640701372525 Law, W. W. (2013). Globalisation, national identity, and citizenship education: China’s search for modernisation and a Modern Chinese citizenry. Frontiers of Education in China, 8(4), 596–627. https://doi.org/10.1007/BF03396993 Legislative Council. (2009). Panel on education: Minutes of special meeting held on Saturday, 11 July 2009, at 9: 30 am in the chamber of the legislative council building. LC Paper No. CB(2)2537/08-09.
+
+Leibold, J., & Dorjee, T. (2024). Learning to be Chinese: Colonial-style boarding schools on the Tibetan plateau.
+
+Comparative Education, 60(1), 118–137. https://doi.org/10.1080/03050068.2023.2250969 Liaison Office of the Central People’s Government in the Hong Kong Special Administrative Region. (2015). 在中华人民 共和国香港特别行政区成立庆典上的讲话 [Ceremonial speech on the establishment of the Hong Kong Special Administrative Region]. Speech delivered on 1 stJuly 1997. http://locpg.hk/2015-03/18/c_127503476.htm Meyer, J. W., Boli, J., Thomas, G. M., & Ramirez, F. O. (1997). World society and the nation-state. The American Journal of Sociology, 103(1), 144–181. https://doi.org/10.1086/231174 Morris, P., & Adamson, B. (2010). Curriculum, schooling and society in Hong Kong. Hong Kong University Press.
+
+Morris, P., McClelland, G., & Wong, P. M. (1997). Explaining curriculum change: Social studies in Hong Kong. Comparative Education Review, 41(1), 27–43. https://doi.org/10.1086/447414 Morris, P., & Vickers, E. (2015). Schooling, politics and the construction of identity in Hong Kong: The 2012 ‘moral and national education’ crisis in historical context. Comparative Education, 51(3), 305–326. https://doi.org/10.1080/ 03050068.2015.1033169
+
+494
+
+K. C. A. YAN AND P. MORRIS
+
+People’s Daily [人民日报]. (2019). 香港“通识教材”里, 夹了这些私货!’ [Hong Kong’s ‘liberal studies textbooks’ are trafficking this Contraband!]. 22nd August. Retrieved, on August 24, 2021 from: https://wap.peopleapp.com/article/4509747/ 4386746 Ramirez, F. O., & Meyer, J. (1980). Comparative education: The social construction of the modern world system. Annual
+
+Review of Sociology, 6(1), 369–197. https://doi.org/10.1146/annurev.so.06.080180.002101 Schriewer, J. (2003). Globalisation in education: Process and discourse. Policy Futures in Education, 1(2), 271–283. https://
+
+doi.org/10.2304/pfie.2003.1.2.6 Silova, I., & Brehm, W. C. (2015). From myths to models: The (re) production of world culture in comparative education.
+
+Globalisation, Societies & Education, 13(1), 8–33. https://doi.org/10.1080/14767724.2014.967483 The Standard. (2020). Carrie Lam says will reveal plans to manage liberal studies. The standard. https://www.thestandard.
+
+com.hk/breaking-news/section/4/147009/Carrie-Lam-says-will-reveal-plans-to-manage-liberal-studies Steiner-Khamsi, G. (2012). Understanding policy borrowing and lending: Building comparative policy studies. In G.
+
+Steiner-Khamsi & F. Waldow (Eds.), World yearbook of education 2012 (pp. 3–17). Routledge.
+
+Stenhouse, L. (1968). The humanities curriculum project. Journal of Curriculum Studies, 1(1), 26–33. https://doi.org/10.
+
+1080/0022027680010103 Task Force on Review of School Curriculum. (2020). Optimise the curriculum for the future, foster whole-person develop-
+
+ment and diverse talents. Hong Kong Special Administrative Region Government.
+
+Tobin, D. (2024). Visualising insecurity: The globalisation of China’s racist ‘counter-terror’ education. Comparative
+
+Education, 60(1), 195–215. https://doi.org/10.1080/03050068.2023.2298130 Tröhler, D. (2023). Magical enchantments and the nation’s silencing: Educational research agendas under the spell of
+
+globalisation. In D. Tröhler, P. Nelli, & F. P. William (Eds.), World yearbook of education 2022 (pp. 7–25). Routledge. Tsang, Y. K. (2008). Policy address of the Hong Kong Special Administrative Region Government. The Government Printer. Tse, T. K. C. (2007). Remaking Chinese identity: Hegemonic struggles over national education in post‐colonial Hong
+
+Kong. International Studies in Sociology of Education, 17(3), 231–248. https://doi.org/10.1080/09620210701543908 Tung, C. H. (1998). Policy address of the Hong Kong Special Administrative Region Government. The Government Printer. Tung, C. H. (1999). Policy address of the Hong Kong Special Administrative Region Government. The Government Printer. Tung, C. H. (2000). Policy address of the Hong Kong Special Administrative Region Government. The Government Printer. Vickers, E. (2023). Towards national socialism with chinese characteristics?: Schooling and nationalism in contemporary
+
+China. In D. Tröhler, P. Nelli, & F. P. William (Eds.), World yearbook of education 2022 (pp. 46–65). Routledge. Vickers, E. (2024). The motherland’s suffocating embrace: Schooling and public discourse on Hong Kong identity under
+
+the national security law. Comparative Education, 60(1), 138–158. https://doi.org/10.1080/03050068.2023.2212351 Vickers, E., & Morris, P. (2022). Accelerating Hong Kong’s reeducation: ‘mainlandisation’, securitisation and the 2020
+
+national security law. Comparative Education, 58(2), 187–205. https://doi.org/10.1080/03050068.2022.2046878 Yan, K. C. A. (2021). Understanding civic education in Hong Kong: A Bernsteinian approach. Discourse: Studies in the
+
+Cultural Politics of Education, 42(4), 615–627. https://doi.org/10.1080/01596306.2020.1722613 You, Y., & Morris, P. (2016). Imagining school autonomy in high-performing education systems: East Asia as a source of
+
+policy referencing in England. Compare: A Journal of Comparative and International Education, 46(6), 882–905. (Word
+
+count: 9,809)https://doi.org/10.1080/03057925.2015.1080115
+
