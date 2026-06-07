@@ -11,9 +11,9 @@ extracted_to:
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-05
 ---
 

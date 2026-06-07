@@ -4,9 +4,9 @@ extracted_to:
   - "[[Argument_Nielsen_2021]]"
   - "[[Technical Rationality]]"
   - "[[Klaus Nielsen]]"
+  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

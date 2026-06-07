@@ -12,10 +12,10 @@ extracted_to:
   - "[[Class Size]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Argument_Johnson_2023_CE]]"
+  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Meta-meta-analysis]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

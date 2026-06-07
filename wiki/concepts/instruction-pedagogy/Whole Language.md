@@ -3,7 +3,7 @@ title: Whole Language
 aliases:
   - 全语言
   - 整体语言教学
-summary: 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。
+summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 tags:
   - whole-language
@@ -98,7 +98,7 @@ updated: 2026-05-18
 ## 实证发现
 
 > [!success] 实证发现
-> - [[John Hattie|Hattie]]（2009）在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，远低于其 d=0.40 的"铰链点"阈值。但 O'Connor（2020）的审查发现这一结论基于方法论上有缺陷的[[Meta-analysis|元分析]]聚合：
+> - [[John Hattie|Hattie]]（2009）在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，远低于其 d=0.40 的"关节点"阈值。但 O'Connor（2020）的审查发现这一结论基于方法论上有缺陷的[[Meta-analysis|元分析]]聚合：
 >   - 四项元分析的效应量分别为 0.09、0.15、0.65 和 -0.65，Hattie 对其进行简单算术平均得出 0.06（O'Connor, 2020, p.145）
 >   - 其中一项"全语言"元分析（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]而非全语言（O'Connor, 2020, p.144）
 >   - 唯一报告正面效应量（d=0.65）的元分析（Gee, 1995）被 Hattie 通过选择性删除三项研究将其效应量修正为零——这是 *Visible Learning* 800+ 元分析中唯一被 Hattie 如此处理的案例（O'Connor, 2020, p.148）

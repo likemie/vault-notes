@@ -7,9 +7,9 @@ extracted_to:
   - "[[Parallel Monologues]]"
   - "[[Scott Eacott]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

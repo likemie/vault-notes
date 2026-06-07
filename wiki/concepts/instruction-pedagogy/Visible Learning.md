@@ -28,12 +28,15 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[New Public Management]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Individualised Instruction]]"
   - "[[Class Size]]"
   - "[[Educational Management Organisation]]"
   - "[[School Leadership]]"
   - "[[Sage]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
+  - "[[Heterogeneity]]"
+  - "[[Research Question]]"
   - "[[Didaktik]]"
   - "[[Pure Evaluation]]"
   - "[[Performativity of Measurement]]"
@@ -45,6 +48,7 @@ related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
+  - "[[Walberg's Educational Productivity Model]]"
   - "[[Appraisal Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -54,15 +58,16 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
+  - "[[Robert Marzano]]"
   - "[[Jill Mehlbye]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Cognition Education]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Visible Learning in Sweden]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Contestable School Support Services]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform]]"
   - "[[Hattie på dansk]]"
   - "[[SFI Report]]"
@@ -136,16 +141,16 @@ updated: '2026-05-21'
 > - **实施层**：通过培训、忠实实施、反馈文化和学校协作，把证据逻辑嵌入学校改进流程。
 
 > [!tip] 快速阅读路径
-> 如果只想先抓主线，可以先读：`教与学的可见性 → 效应量排名与铰链点 → Know thy impact → 作为评价性[[Professional Judgment|专业判断]]而非方法清单 → 忠实实施`
+> 如果只想先抓主线，可以先读：`教与学的可见性 → 效应量排名与关节点 → Know thy impact → 作为评价性[[Professional Judgment|专业判断]]而非方法清单 → 忠实实施`
 
 
 ### 教与学的可见性
 
 教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（[[John Hattie|Hattie]], 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"（Knudsen, 2017, p.257）。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%（Knudsen, 2017, pp.257–258）。
 
-### 效应量排名与铰链点（d=0.40）
+### 效应量排名与关节点（d=0.40）
 
-以 d=0.40 为"铰链点"（hinge point），区分有效与无效干预，排名 150+ 项教学因素（McKnight & Whitburn, 2020, p.32）。四级划分：负面效应区（d<0）、发展效应区（d=0-0.15）、低中效应区（d=0.15-0.4）、期望效应区（d>0.4）。
+以 d=0.40 为"关节点"（hinge point），区分有效与无效干预，排名 150+ 项教学因素（McKnight & Whitburn, 2020, p.32）。四级划分：负面效应区（d<0）、发展效应区（d=0-0.15）、低中效应区（d=0.15-0.4）、期望效应区（d>0.4）。
 
 ### "Know thy impact"
 
@@ -359,13 +364,29 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 > - **制度化阶段**：进入各国政策与学校改进语境后，VL 开始承担的不只是研究说明功能，也承担合法化、管理和品牌传播功能。
 
 
+### 前史：Hattie 的元综合积累（1987–1992）
+
+> [!note] 前史
+> 《可见的学习》并非凭空出现。[[John Hattie|Hattie]] 在 1987 年参与了 Fraser、Walberg 团队的首次大规模[[Meta-meta-analysis|元综合]]，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（Higgins, 2016, pp.41–42）。
+>
+> 1992 年，Hattie 首次独立进行元综合：134 项元分析、22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生。他引入通用连续体（universal continuum）概念，以标准差单位为尺度将结果置于同一量表上。平均效应量为 0.40（标准差 0.13）（Higgins, 2016, p.42）。
+>
+> **1992 年的关键发现：**
+> - 反馈是最强大的单一影响（强化 1.13，补救与反馈 0.65，掌握学习 0.50）
+> - 最不成功的创新是[[Individualised Instruction|个别化教学]]（0.14）和程序化教学（0.18）
+> - 创新作为改善学习的有意识尝试，是大多数效果背后的共同主题
+>
+> 这些发现与 2009 年《可见的学习》的核心结论高度一致。平均效应量 0.40 自 1992 年至 2008 年保持稳定，Hattie 将此作为关节点（hinge point）（Higgins, 2016, pp.43–44）。
+
+---
+
 ### 新西兰起源与早期发展（2006–2011）
 
 VL 的技术前身 asTTle/e-asTTle（1999/2000 年 [[John Hattie|Hattie]] 受教育部委托开发的国家课程测试系统）和早期商标注册（2006 年 Auckland Uniservices 注册 VL 商标、创建 VL Labs），详见 [[Visible Learning Branding and Global Influences]]。
 
 2009 年 Hattie 出版 *Visible Learning*，迅速成为全球教育畅销书。2009 年 1 月 *Sunday STAR Times* 头版报道后引发媒体风暴，Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。详见 [[Visible Learning Branding and Global Influences]]。
 
-**Hattie 对早期批评的回应**：Hattie (2010, pp.88–91) 系统性回应了 Snook et al. (2009) 等批评：（1）研究质量——凡已知研究质量有影响之处均已标注，[[Meta-analysis|元分析]]方法本身处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明控制偏差是元分析核心关切；（3）d=0.40 铰链点——"或许武断但绝非任意"，基于 800+ 元分析经验平均值；（4）新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]，既然平均 0.20 必然存在大负面效应才能达到均值。
+**Hattie 对早期批评的回应**：Hattie (2010, pp.88–91) 系统性回应了 Snook et al. (2009) 等批评：（1）研究质量——凡已知研究质量有影响之处均已标注，[[Meta-analysis|元分析]]方法本身处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明控制偏差是元分析核心关切；（3）d=0.40 关节点——"或许武断但绝非任意"，基于 800+ 元分析经验平均值；（4）新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]，既然平均 0.20 必然存在大负面效应才能达到均值。
 
 ---
 
@@ -378,6 +399,15 @@ Cognition 随后没有在各国自建重型组织，而是通过 Macmillan、Jam
 ### 传播网络与品牌衍生
 
 VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cognition Education、奥克兰大学 Visible Learning 实验室和墨尔本大学之间的多层商业伙伴关系网络。ACEL–Corwin 2015 年合作伙伴关系形成了自我强化的推广循环。"Visible Learning"已扩展为品牌家族（Visible Learning for Literacy / Mathematics / Wellbeing 等），部分学校自我标识为"Hattie 学校"。Visible Classroom App 将 VL 逻辑延伸至教师劳动的实时监控。完整传播网络分析、品牌衍生清单和 Visible Classroom 详情，详见 [[Visible Learning Branding and Global Influences]]。
+
+---
+
+### 对政策工具的影响
+
+> [!note] 对政策工具的影响
+> [[EEF Teaching and Learning Toolkit]] 的设计部分受到 Hattie（1992/2008）工作的启发，特别是他将多元研究发现置于同一量表上的比较性研究地图思路。Toolkit 还借鉴了 Sipe 和 Curlette（1996）的共同纳入标准和系统搜索策略，以及[[Robert Marzano|Marzano]]（1998）的实用目标（Higgins, 2016, p.47）。
+
+---
 
 ### 各国政策采纳
 
@@ -404,9 +434,12 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 > - Laursen (2015) 比较国际研究综合与丹麦 SFI 证据后发现，Hattie 强调的若干核心[[Effective Teaching|有效教学]]质量在丹麦研究中得到支持：清晰一致的[[Classroom Management|课堂管理]]、清晰目标、高要求和良好社会环境均与更好学生结果相关；弱社会背景学生尤其依赖教师明确领导和清晰目标（Laursen, 2015, pp.37–38）。
 
 > [!info]- 核心数据
-> - 2009 年初版 *Visible Learning* 综合 800+ 项[[Meta-analysis|元分析]]、50,000+ 原始研究，形成 150+ 教学影响因素的证据地图（Hattie, 2009；Terhart, 2011, pp.427–428）。
-> - 在 Hattie 的学校改进语言中，d=0.40 被当作平均参考点，而不是一条脱离情境的硬性分界线；其解释必须结合学段、结果类型和比较对象（Hattie_2015_Paideia, p.11；[[Effect Size]]）。
-> - Hattie 在高等教育语境下概括的六项高影响条件包括教师自评影响、教师协作、把握学生先前学习、明确成功标准、平衡表层与[[Surface and Deep Learning|深层学习]]、设置适当挑战（[[Argument_Hattie_2015_SOTLP]], pp.80–81）。
+> - 2009 年初版综合 800 多项[[Meta-analysis|元分析]]、50,000 多项原始研究，形成 150 多种教学影响因素的证据地图（Hattie, 2009；Terhart, 2011, pp.427–428）
+> - 关节点 $d = 0.40$ 自 1992 年至 2008 年保持稳定，Hattie 将此作为所有可见教育影响的平均值，而非脱离情境的硬性分界线（Higgins, 2016, pp.43–44）
+> - Hattie 在高等教育语境下概括的六项高影响条件包括教师自评影响、教师协作、把握学生先前学习、明确成功标准、平衡表层与[[Surface and Deep Learning|深层学习]]、设置适当挑战（[[Argument_Hattie_2015_SOTLP]], pp.80–81）
+
+> [!note] 对[[Heterogeneity|异质性]]的回应
+> Hattie 不否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]。例如反馈的平均效应很强，但反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用"反馈有效"替代对具体机制的判断（Hattie, 2015, p.11；Higgins, 2016, p.45）。
 >
 
 > [!tip] 这一节的边界

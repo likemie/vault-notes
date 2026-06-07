@@ -4,10 +4,10 @@ extracted_to:
   - "[[Klaus Nielsen]]"
   - "[[Class Size]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Feedback]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-04
 ---
 

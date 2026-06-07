@@ -12,9 +12,9 @@ extracted_to:
   - "[[Niklas Luhmann]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Learnification]]"
+  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

@@ -5,13 +5,13 @@ extracted_to:
   - "[[The Scott Report]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Class Size]]"
-  - "[[Whole Language]]"
   - "[[Argument_Snook_2009]]"
+  - "[[Effect Size]]"
+  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
+  - "[[Whole Language]]"
   - "[[Meta-meta-analysis]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

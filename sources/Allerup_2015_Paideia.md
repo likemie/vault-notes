@@ -8,12 +8,12 @@ extracted_to:
   - "[[Covariate Adjustment]]"
   - "[[Rasch Measurement]]"
   - "[[Jacob Cohen]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
+  - "[[Meta-meta-analysis]]"
 processed_date: 2026-05-05
 ---
 

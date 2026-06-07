@@ -10,9 +10,9 @@ extracted_to:
   - "[[Gert Biesta]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Radical Constructivism]]"
+  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

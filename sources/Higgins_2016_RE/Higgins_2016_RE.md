@@ -3,16 +3,16 @@ citation: "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of ed
 extracted_to:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Individualised Instruction]]"
-  - "[[Whole Language]]"
   - "[[Publication Bias]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Homework]]"
   - "[[Effect Size]]"
   - "[[Intervention Research]]"
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[John Hattie]]"
+  - "[[Whole Language]]"
+  - "[[Meta-meta-analysis]]"
 processed_date: 2026-06-08
 ---
 

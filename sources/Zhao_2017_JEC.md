@@ -7,9 +7,9 @@ extracted_to:
   - "[[Direct Instruction]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Yong Zhao]]"
-  - "[[Visible Learning]]"
   - "[[Randomised Controlled Trials]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-04
 ---
 

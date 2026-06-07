@@ -8,13 +8,13 @@ extracted_to:
   - "[[Ken Goodman]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[Whole Language]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
+  - "[[Whole Language]]"
+  - "[[Meta-meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

@@ -7,8 +7,8 @@ extracted_to:
   - "[[Critic and Conscience of Society]]"
   - "[[Scott Eacott]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-07
 ---
 

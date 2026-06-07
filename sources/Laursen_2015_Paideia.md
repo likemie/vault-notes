@@ -13,8 +13,8 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Individualised Instruction]]"
   - "[[Feedback]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-05
 ---
 

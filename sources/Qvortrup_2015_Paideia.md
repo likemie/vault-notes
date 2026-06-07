@@ -9,9 +9,9 @@ extracted_to:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Surface and Deep Learning]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-05
 ---
 

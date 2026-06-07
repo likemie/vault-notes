@@ -7,8 +7,8 @@ extracted_to:
   - "[[Working Memory]]"
   - "[[Surface and Deep Learning]]"
   - "[[Feedback]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-05
 ---
 

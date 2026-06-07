@@ -16,8 +16,8 @@ extracted_to:
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-07
 ---
 

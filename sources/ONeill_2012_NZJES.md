@@ -6,10 +6,10 @@ extracted_to:
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[Class Size]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-06
 ---
 

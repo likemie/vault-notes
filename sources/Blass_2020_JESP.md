@@ -6,8 +6,8 @@ extracted_to:
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
+  - "[[Visible Learning]]"
 processed_date: 2026-05-05
 ---
 
