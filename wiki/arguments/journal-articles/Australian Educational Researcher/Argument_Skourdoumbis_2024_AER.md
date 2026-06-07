@@ -26,7 +26,8 @@ related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Cognitive Load Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Lev Vygotsky]]"
 related_facts:
   - "[[Strong Beginnings Report]]"
   - "[[TEMAG]]"
@@ -125,7 +126,7 @@ updated: 2026-06-06
 > [!note] 核心内容的简化逻辑链
 > 新手大脑 ≠ 专家大脑 → 教学必须按照大脑的认知规律设计 → 自主学习和探究式学习不符合新手大脑的特征 → 因此必须被排除。这一链条将教育决策的依据从多元的教学研究转向了单一的脑科学叙事。
 
-但这种脑科学方法将学习简化为大脑内部的信息处理活动，忽视了维果茨基社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose（1976）所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"（p.121）。OECD（2007）也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法（p.7）。更早的OECD（2002）报告则警告，神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"（p.17）。OECD（2007）进一步指出，神经科学可以被滥用。曾率先倡导"[[Educational Neuroscience|基于脑的教育]]"的Bruer后来成为了这一概念最强烈的批评者之一（p.132）。
+但这种脑科学方法将学习简化为大脑内部的信息处理活动，忽视了[[Lev Vygotsky|维果茨基]]社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose（1976）所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"（p.121）。OECD（2007）也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法（p.7）。更早的OECD（2002）报告则警告，神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"（p.17）。OECD（2007）进一步指出，神经科学可以被滥用。曾率先倡导"[[Educational Neuroscience|基于脑的教育]]"的Bruer后来成为了这一概念最强烈的批评者之一（p.132）。
 
 Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说者缺乏认知神经科学方面的正式训练（p.35），倾向于代表各种议程和商业利益，将脑科学视为通过营销现成解决方案来获利的工具（p.35）。
 

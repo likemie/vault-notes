@@ -30,6 +30,7 @@ related_concepts:
   - "[[Confucian Tutoring Style]]"
   - "[[Enculturation]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Big Ideas]]"
   - "[[Humility in Learning]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
@@ -114,10 +115,10 @@ related_facts:
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
+  - "[[Lev Vygotsky]]"
   - "[[Xunzi]]"
   - "[[Bertrand Russell]]"
   - "[[Plato]]"
-  - "[[John Locke]]"
   - "[[Immanuel Kant]]"
   - "[[Socrates]]"
   - "[[René Descartes]]"
@@ -167,7 +168,7 @@ updated: 2026-05-24
 - **[[Prototype Methods|原型方法]]**（Ch3）：自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → 内容分析提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
 - **跨文化[[Survey Research|调查研究]]**（Ch3, Ch5, Ch6）：归因问卷、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据**（Ch3）：TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
-- **[[Mother-Child Conversation|MCC]] 方法**（Ch7）：母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ 话语分析（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
+- **[[Mother-Child Conversation|MCC]] 方法**（Ch7）：母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ 话语分析（[[Lev Vygotsky|Vygotsky]] 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
 - **语用学比较**（Ch8）：Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的问题解决表现与皮质醇变化）
 - **移民儿童学校适应比较**（Ch9）：Li et al.（2010）中国移民学前儿童 vs 欧裔美国同龄人的成就比较；Yamamoto & Li（2012）两种学校情境（亚裔为主 vs 欧裔为主）中安静的不同命运
 - **个人经验作为分析工具**（Ch1, Ch9）：Li 的德国学习经历、中国教师工作坊——不作为权威证据，而作为生成分析性洞察的起点
@@ -200,7 +201,7 @@ updated: 2026-05-24
 
 ### 前言（Preface）
 
-前言不是学术章节，但承载了全书论证的**两个起点**：一个[[Heart and Mind for Wanting to Learn|好學心]]概念的诞生故事，以及对"研究者如何理解他者文化"的方法论反思。这两点虽以个人叙事呈现，但它们为后续各章提供了核心概念工具和认识论立场。
+前言不是学术章节，但承载了全书论证的**两个起点**：一个[[Heart and Mind for Wanting to Learn|好學心]]概念的诞生故事，以及对"研究者如何理解他者文化"的方法论反思。这两点虽以个人叙事呈现，但它们为后续各章提供了[[Big Ideas|核心概念]]工具和认识论立场。
 
 ---
 
@@ -494,7 +495,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > - **中世纪**：阿奎那用亚里士多德的"不动之动者"论证上帝的存在
 > - **17 世纪科学革命**：哥白尼、开普勒、伽利略、莱布尼茨、牛顿——他们的全部成就都依赖于数学、逻辑和推理
 > - **培根的归纳法**：虽然批评了中世纪科学，但并没有挑战"寻求真知"这一目标本身——他只是提供了一种更可行的研究方法
-> - **[[John Locke|洛克]]**：即使提出所有知识来自经验，仍然坚持"理性的人应该对自己的意见保持一定的怀疑"，甚至宗教启示也必须由理性来评判——"因此，理性在他看来仍然至高无上"（Li, 2012, p.36）
+> - **洛克**：即使提出所有知识来自经验，仍然坚持"理性的人应该对自己的意见保持一定的怀疑"，甚至宗教启示也必须由理性来评判——"因此，理性在他看来仍然至高无上"（Li, 2012, p.36）
 > - **[[Immanuel Kant|康德]]**：《纯粹理性批判》试图区分先天知识与后天知识，提出"心灵范畴"（量、质、关系、模态）——人类总是通过这些范畴来"过滤"经验，就像"永久戴着玫瑰色眼镜看世界"（Li, 2012, p.36）
 
 > [!note] 现代转变：从绝对真理到概率性知识

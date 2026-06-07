@@ -28,6 +28,7 @@ related_methods:
   - "[[Mother-Child Conversation]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
+  - "[[Lev Vygotsky]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
@@ -46,7 +47,7 @@ updated: 2026-05-24
 > [!info]
 > 本条目记录 Li（2012）第 7 章中 母子对话（[[Mother-Child Conversation|MCC]]） 研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行话语分析。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
 
-话语分析的理论锚点是 Vygotsky 学派的认知支架（cognitive scaffolding）概念，[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础是 Frijda 的[[Appraisal Theory|评估理论]]和 Gottman 的元情感哲学（Li, 2012）。
+话语分析的理论锚点是 [[Lev Vygotsky|Vygotsky]] 学派的认知支架（cognitive scaffolding）概念，[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础是 Frijda 的[[Appraisal Theory|评估理论]]和 Gottman 的元情感哲学（Li, 2012）。
 
 ---
 

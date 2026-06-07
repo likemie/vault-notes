@@ -24,6 +24,7 @@ related_methods:
   - "[[Ethnography]]"
 related_persons:
   - "[[Yrjö Engeström]]"
+  - "[[Lev Vygotsky]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
@@ -53,7 +54,7 @@ updated: 2026-05-26
 
 ### 第一代：Vygotsky 的中介三角模型
 
-Vygotsky（1978）提出认知发展源于个体（主体，Subject）与外部影响之间的互动。在这一原始模型中，个体追求发展目标（客体，Object）的过程由社会文化工具（中介工具，Mediating artefacts）——如语言、符号、概念——所中介（Wang & McLaughlin, 2025, p.590）。
+[[Lev Vygotsky|Vygotsky]]（1978）提出认知发展源于个体（主体，Subject）与外部影响之间的互动。在这一原始模型中，个体追求发展目标（客体，Object）的过程由社会文化工具（中介工具，Mediating artefacts）——如语言、符号、概念——所中介（Wang & McLaughlin, 2025, p.590）。
 
 > 举例：一个学生学习数学（主体追求客体），所使用的教科书、教师语言和课堂符号系统就是中介工具——这些工具不仅传递知识，也塑造学生如何理解数学。
 
@@ -84,7 +85,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 ## 发展脉络
 
 > [!note]
-> - **Vygotsky（1978）** — 提出第一代中介三角模型：主体—中介工具—客体。认知发展源于人通过文化工具与外部世界的互动
+> - **[[Lev Vygotsky|Vygotsky]]（1978）** — 提出第一代中介三角模型：主体—中介工具—客体。认知发展源于人通过文化工具与外部世界的互动
 > - **[[Yrjö Engeström|Engeström]]（1987）** — 发展为第二代活动理论，增加共同体、规则和劳动分工三个社会维度，将活动概念化为集体性、对象导向的文化形构。著作 Learning by Expanding
 > - **Engeström（2001）** — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越。提出"扩展性学习"（expansive learning）和"扩展性改造"概念，认为矛盾可以是变革的来源
 

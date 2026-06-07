@@ -10,9 +10,10 @@ extracted_to:
   - "[[The New Zealand Curriculum]]"
   - "[[Curriculum Design Coherence Model]]"
   - "[[Knowledge-that and Know-how-to]]"
-  - "[[Argument_McPhail_2023_JCS]]"
   - "[[Powerful Knowledge]]"
+  - "[[Argument_McPhail_2023_JCS]]"
   - "[[Social Realism]]"
+  - "[[Lev Vygotsky]]"
 processed_date: 2026-06-07
 ---
 

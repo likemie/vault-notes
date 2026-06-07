@@ -6,11 +6,11 @@ extracted_to:
   - "[[Examination-Oriented Education]]"
   - "[[Quality Education]]"
   - "[[Test-Based Accountability]]"
-  - "[[Learner-Centred Education]]"
   - "[[Civil Service Examination]]"
+  - "[[Recontextualization]]"
+  - "[[Learner-Centred Education]]"
   - "[[Yrjö Engeström]]"
   - "[[Third Generation Activity Theory]]"
-  - "[[Recontextualization]]"
 processed_date: 2026-05-26
 ---
 
