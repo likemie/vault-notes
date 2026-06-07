@@ -22,6 +22,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"
+  - "[[Mentorship]]"
   - "[[Professional Judgment]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
@@ -193,7 +194,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ---
 
-15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"（p.146）。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业导师制帮助教授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"（p.146）。
+15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"（p.146）。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业[[Mentorship|导师制]]帮助教授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"（p.146）。
 
 > [!quote]
 > “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
@@ -361,7 +362,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!abstract]
 > **有效的大学-产业合作模式**
-> - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K，数月到一年周期）与产业导师制结合，帮助衍生企业在投入大量资源之前获得关键的市场验证，做出"去"或"留"的明智决策（pp.148-149）
+> - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K，数月到一年周期）与产业[[Mentorship|导师制]]结合，帮助衍生企业在投入大量资源之前获得关键的市场验证，做出"去"或"留"的明智决策（pp.148-149）
 > - [[Entrepreneur in Residence|驻校企业家]]（EIR）制度，以全职或兼职团队支持多个衍生企业，是帮助衍生企业"跨越从实验室到市场鸿沟"的有效策略（pp.147-148）
 > - 联盟与会员制模型（如 UCSB SSLEEC）通过在制度设计中保留 IP 归大学所有、企业获得优先许可权（非独占）、研究人员保留独立创业权利，巧妙地绕过了 IP 毒丸问题（pp.150-151）
 > - 大学通过"人才杠杆"（企业需要招聘熟练劳动力）来协商产业对创业项目的参与（p.148）

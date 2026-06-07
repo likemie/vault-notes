@@ -3,7 +3,6 @@ citation: "Schulze-Cleven, T., Reitz, T., Maesse, J., & Angermuller, J. (2017). 
 extracted_to:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Academic Oligarchy]]"
-  - "[[Entrepreneurial University]]"
   - "[[Field Images]]"
   - "[[Global Universities Rankings]]"
   - "[[Matthew Effect in Academia]]"
@@ -30,6 +29,7 @@ extracted_to:
   - "[[Neo-feudalism in Higher Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Entrepreneurial University]]"
 processed_date: 2026-06-01
 ---
 

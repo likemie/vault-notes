@@ -139,10 +139,10 @@ extracted_to:
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
   - "[[Construct]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Constructivist Paradigm]]"
   - "[[Ethnography]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 

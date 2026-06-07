@@ -13,9 +13,9 @@ tags:
   - theme/science-education
 related_concepts:
   - "[[Mentorship]]"
+  - "[[Research Topic]]"
 related_theories: []
-related_methods:
-  - "[[Content Analysis]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -35,7 +35,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 导师认可（Mentorship Recognition）指在学术场合中对导师的公开致谢和承认。Sandrone (2025) 首次系统分析了诺贝尔演讲中的导师认可情况，发现了一个令人意外的缺失。
+> 导师认可（[[Mentorship]] Recognition）指在学术场合中对导师的公开致谢和承认。Sandrone (2025) 首次系统分析了诺贝尔演讲中的导师认可情况，发现了一个令人意外的缺失。
 
 ---
 
@@ -43,7 +43,7 @@ updated: 2026-06-07
 
 > [!abstract]
 >
-> **诺贝尔演讲中的缺失**。在 208 篇诺贝尔生理学或医学奖演讲中，只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后（Sandrone, 2025）。
+> **诺贝尔演讲中的缺失**。在 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后（Sandrone, 2025）。
 >
 > **被提及的导师类型**。最常被提及的导师是 former PhD 导师或博士后导师。在 20 次引用中，有 12 次被提及的导师是 fellow 诺贝尔奖获得者（Sandrone, 2025）。
 >
@@ -67,11 +67,11 @@ updated: 2026-06-07
 
 > [!warning]
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变 leads to groundbreaking research，在诺贝尔奖获得者中 often found（Ma et al., 2020, 引自 Sandrone, 2025）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于[[Research Topic|研究主题]]的转变，这种转变 leads to groundbreaking research，在诺贝尔奖获得者中 often found（Ma et al., 2020, 引自 Sandrone, 2025）。
 >
 > **时间因素**。诺贝尔奖获得者平均比其他奖项获得者年龄更大。与导师合作的时间可能更久远，可能导致个人或 professional 联系较弱（Sandrone, 2025）。
 >
-> **概念并非新事物**。导师制不是新概念。mentor 一词源自荷马《奥德赛》，写于约公元前 750-650 年。该词可能直到 1750 年左右才进入英语。在 18-19 世纪的出版物中可以找到 mentor 一词， well before the first Nobel Prize was awarded（Sandrone, 2025）。
+> **概念并非新事物**。[[Mentorship|导师制]]不是新概念。mentor 一词源自荷马《奥德赛》，写于约公元前 750-650 年。该词可能直到 1750 年左右才进入英语。在 18-19 世纪的出版物中可以找到 mentor 一词， well before the first Nobel Prize was awarded（Sandrone, 2025）。
 
 ---
 

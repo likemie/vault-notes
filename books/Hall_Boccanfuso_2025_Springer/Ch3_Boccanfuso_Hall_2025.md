@@ -5,7 +5,6 @@ extracted_to:
   - "[[Academic Engagement]]"
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
-  - "[[Entrepreneurial University]]"
   - "[[Industry Affiliate Program]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Integration Community]]"
@@ -20,6 +19,7 @@ extracted_to:
   - "[[Website Content Analysis]]"
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Entrepreneurial University]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

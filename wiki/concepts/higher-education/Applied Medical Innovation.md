@@ -22,7 +22,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments: []
 sources:
   - "[[Ch10_Swick_Jones_2025]]"
@@ -55,7 +56,7 @@ AMI 通过一个闭环反馈回路实现从需求到解决方案的转化（pp.1
 
 ### 团队科学（Team Science）
 
-AMI 所解决的医学问题复杂性已超出单个机构或单一学科类型的能力。诺贝尔生理学或医学奖的趋势表明：获奖者越来越多地代表数百人规模的大型跨学科团队；自 1990 年以来，每两个获奖中就至少有一个包含医师或医师科学家（pp.178–179）。[[Team Science|团队科学]]的必然性来自三个来源：问题复杂性需要跨学科团队、科学合作的增长使两三位主要研究者共同做出发现、领域竞争可能导致多人几乎同时到达同一结论（p.179）。
+AMI 所解决的医学问题复杂性已超出单个机构或单一学科类型的能力。[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]的趋势表明：获奖者越来越多地代表数百人规模的大型跨学科团队；自 1990 年以来，每两个获奖中就至少有一个包含医师或医师科学家（pp.178–179）。[[Team Science|团队科学]]的必然性来自三个来源：问题复杂性需要跨学科团队、科学合作的增长使两三位主要研究者共同做出发现、领域竞争可能导致多人几乎同时到达同一结论（p.179）。
 
 ### 创新文化
 

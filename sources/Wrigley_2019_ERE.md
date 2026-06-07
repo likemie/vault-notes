@@ -5,7 +5,6 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Playing for Success]]"
   - "[[ResearchED]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Critical Realism]]"
   - "[[Gert Biesta]]"
   - "[[Terry Wrigley]]"
+  - "[[Playing for Success]]"
 processed_date: 2026-05-01
 ---
 

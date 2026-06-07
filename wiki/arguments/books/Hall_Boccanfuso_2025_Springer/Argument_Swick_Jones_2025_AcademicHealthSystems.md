@@ -16,6 +16,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Academic Medical Center]]"
   - "[[Academic Health System]]"
+  - "[[Big Ideas]]"
   - "[[Physician-Scientist]]"
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
@@ -33,6 +34,7 @@ related_methods: []
 related_persons:
   - "[[Edmund King]]"
 related_facts:
+  - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
@@ -60,12 +62,12 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 理论框架
 
 > [!abstract]
-> - [[Academic Health System|学术健康系统]] — 核心概念。区别于传统[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC），指在优先患者诊疗之后同时追求学术研究和产业创新、兼具科研基础设施和区域性临床网络的独立组织实体（pp.179–181）。
+> - [[Academic Health System|学术健康系统]] — [[Big Ideas|核心概念]]。区别于传统[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC），指在优先患者诊疗之后同时追求学术研究和产业创新、兼具科研基础设施和区域性临床网络的独立组织实体（pp.179–181）。
 > - **[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）** — 定义为"整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新"（p.175）。AHS 正是 AMI 类[[University-Industry Collaboration|产学合作]]的理想促进者。
 > - [[Physician-Scientist|医师科学家]] — AMI 的关键催化者，同时具备医学博士（Doctor of Medicine, MD）和哲学博士（Doctor of Philosophy, PhD）学位，在临床前线识别问题、与基础科学家合作翻译发现、并在学界和产业之间充当联络者（pp.176–177）。
 > - **医学翻译循环（Cycle of Medical Translation）** — 驱动 AMI 的闭环反馈回路：从临床需求识别→发现研究→发明→应用研究→产品开发→临床前验证→[[Clinical Trial|临床试验]]→试点与教育→质量评估→规模化部署→回到新的临床需求（pp.176–178, Fig. 10.1）。
 > - T 型技能 — 医师科学家所需的双重能力结构：纵向深度（|）用于识别专业领域的临床问题，横向广度（—）用于与不同学科的合作伙伴有效沟通。在超亚专业化时代，两个维度缺一不可（pp.185–186）。
-> - [[Team Science|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。诺贝尔生理学或医学奖趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才（pp.178–179）。
+> - [[Team Science|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才（pp.178–179）。
 > - [[Partnership Continuum|伙伴关系连续体]] — [[University Industry Demonstration Partnership|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP, 2012）的合作分类框架，从交易型（共享策略）到协作型（共享想法）再到联盟型（共享愿景）。AHS 可以在所有三个级别上与同一伙伴同时维持多个合作关系（p.188）。
 > - [[Triple Helix|三重螺旋模型]] — Etzkowitz 与 Leydesdorff（1995）的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时（p.188）。
 > - [[King-Persily Model|King-Persily 模型]] — [[Edmund King|King]] 与 Persily（2019）提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任（pp.188–189）。
@@ -98,7 +100,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
 
 > [!info] [[Team Science|团队科学]]：诺贝尔奖趋势揭示的必然性
-> 当代科学问题的复杂性已超越单一机构或单一学科类型的解决能力。诺贝尔生理学或医学奖的趋势表明，获奖者越来越多地代表大型跨学科团队，自 1990 年以来每两个获奖中就至少有一个包含医师或医师科学家（pp.178–179）。详见 [[Team Science]]。
+> 当代科学问题的复杂性已超越单一机构或单一学科类型的解决能力。[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]的趋势表明，获奖者越来越多地代表大型跨学科团队，自 1990 年以来每两个获奖中就至少有一个包含医师或医师科学家（pp.178–179）。详见 [[Team Science]]。
 >
 > 论证含义是：AM cycle 之所以必须依赖产学合作，根源在于没有任何单一机构能独立解决当代医学问题——团队科学不是选择，而是必然。
 
@@ -317,7 +319,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!info]- 核心数据
 > - 2023 年医院利润率范围为 −6.8% 到 12.2%，许多医院处于亏损或微利状态（Ashley & Condon, 2024, 转引自 p.184）
 > - 医师科学家研究可用时间中 44.3% 花在行政与合规任务上（Schneider, 2020, 转引自 pp.186–187）
-> - 自 1990 年以来，每两个诺贝尔生理学或医学奖中至少有一个包含医师或医师科学家获奖者（p.179）
+> - 自 1990 年以来，每两个[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]中至少有一个包含医师或医师科学家获奖者（p.179）
 > - 计算能力在深度学习时代每 6 个月翻一番，对比摩尔定律的每 2 年（Sevilla et al., 2022, 转引自 p.186）
 > - 2019 年 TAVR 年手术量首次超过 SAVR（p.194）
 > - TAVR 30 天死亡率从 7.2% 降至 2.5%，中风风险从 2.75% 降至 2.3%（Carroll et al., 2021; Zaid et al., 2023, 转引自 p.194）

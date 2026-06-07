@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Translational Research]]"
   - "[[Non-dilutive Funding]]"
+  - "[[Mentorship]]"
   - "[[Didaktik]]"
 related_theories: []
 related_methods: []
@@ -37,7 +38,7 @@ updated: 2026-05-29
 ## 定义
 
 > [!info]
-> 概念验证项目（Proof of Concept Programs, 也称 Proof of Product Programs, PoPs）是大学资助的[[Translational Research|转化研究]]孵化项目，通过[[Non-dilutive Funding|非稀释性拨款]]（non-dilutive grants）与产业导师制相结合，帮助研究团队验证其技术的技术可行性和市场可行性（pp.148-149）。资助金额通常在 $10,000 至 $100,000 之间，项目周期为几个月到一年，目标是推进转化研究达到一个明确的里程碑，以揭示关于项目技术或市场前景的关键信息（pp.148-149）。
+> 概念验证项目（Proof of Concept Programs, 也称 Proof of Product Programs, PoPs）是大学资助的[[Translational Research|转化研究]]孵化项目，通过[[Non-dilutive Funding|非稀释性拨款]]（non-dilutive grants）与产业[[Mentorship|导师制]]相结合，帮助研究团队验证其技术的技术可行性和市场可行性（pp.148-149）。资助金额通常在 $10,000 至 $100,000 之间，项目周期为几个月到一年，目标是推进转化研究达到一个明确的里程碑，以揭示关于项目技术或市场前景的关键信息（pp.148-149）。
 
 ## 运作机制
 

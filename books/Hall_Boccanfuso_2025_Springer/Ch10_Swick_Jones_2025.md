@@ -3,18 +3,18 @@ citation: "Swick, M. C., & Jones, E. A. (2025). The unique role of academic heal
 extracted_to:
   - "[[Academic Health System]]"
   - "[[Academic Medical Center]]"
-  - "[[Applied Medical Innovation]]"
   - "[[Partnership Continuum]]"
-  - "[[Physician-Scientist]]"
   - "[[Return on Investment]]"
   - "[[T-Shaped Skills]]"
   - "[[Team Science]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[Values Alignment Model]]"
-  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[University-Industry Collaboration]]"
   - "[[King-Persily Model]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
+  - "[[Applied Medical Innovation]]"
+  - "[[Physician-Scientist]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

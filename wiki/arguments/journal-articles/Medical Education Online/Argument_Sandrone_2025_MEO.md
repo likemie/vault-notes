@@ -15,11 +15,11 @@ tags:
   - method/content-analysis
 related_concepts:
   - "[[Mentorship]]"
+  - "[[Big Ideas]]"
   - "[[Mentorship Recognition]]"
-  - "[[Cumulative Advantage]]"
+  - "[[Research Topic]]"
 related_theories: []
-related_methods:
-  - "[[Content Analysis]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -39,7 +39,7 @@ updated: 2026-06-07
 ## 研究问题
 
 > [!question]
-> [[Mentorship|导师制]]是科学和医学中的核心概念，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」。诺贝尔奖是世界上最令人向往的奖项之一，获奖者受邀到斯德哥尔摩发表诺贝尔演讲。
+> [[Mentorship|导师制]]是科学和医学中的[[Big Ideas|核心概念]]，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」。诺贝尔奖是世界上最令人向往的奖项之一，获奖者受邀到斯德哥尔摩发表诺贝尔演讲。
 >
 > 核心问题是，新晋诺贝尔奖获得者在发表诺贝尔演讲时是否、如何以及明确提到了谁作为他们的导师？
 
@@ -60,7 +60,7 @@ updated: 2026-06-07
 ## 研究方法
 
 > [!info]
-> 使用[[Content Analysis|内容分析]]方法，对 208 篇诺贝尔生理学或医学奖演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 mentor 一词在演讲中出现的次数。同时分析了 2014-2023 年拉斯克奖的获奖感言和 1961-2022 年奥斯卡奖的获奖感言作为对比。
+> 使用内容分析方法，对 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship|mentor]] 一词在演讲中出现的次数。同时分析了 2014-2023 年拉斯克奖的获奖感言和 1961-2022 年奥斯卡奖的获奖感言作为对比。
 
 ---
 
@@ -72,7 +72,7 @@ updated: 2026-06-07
 
 对约 40,000 名在过去 60 年中发表了 1,167,518 篇 STEM 论文的科学家的数据分析显示，导师制是被指导者成功的强预测因子（Ma et al., 2020）。博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功（Liénard et al., 2018）。
 
-然而，被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的研究主题中分离出来并与导师只合著一小部分总体研究时，表现最好（Ma et al., 2020）。
+然而，被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好（Ma et al., 2020）。
 
 ---
 
@@ -80,7 +80,7 @@ updated: 2026-06-07
 
 诺贝尔奖得主的导师关系模式并非随机。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024）。
 
-Giuseppe Levi 的学生中有三位诺贝尔生理学或医学奖获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006）。
+Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006）。
 
 ---
 
@@ -124,7 +124,7 @@ Giuseppe Levi 的学生中有三位诺贝尔生理学或医学奖获得者：Rit
 
 > [!success]
 >
-> **导师认可的缺失**。在诺贝尔生理学或医学奖演讲中，[[Mentorship Recognition|导师认可]]的缺失是令人意外的， especially considering the crucial role of mentorship in science, its broad societal value and the non-random patterns of Nobel mentoring relationships（Sandrone, 2025）。
+> **[[Mentorship Recognition|导师认可]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师认可]]的缺失是令人意外的， especially considering the crucial role of [[Mentorship]] in science, its broad societal value and the non-random patterns of Nobel mentoring relationships（Sandrone, 2025）。
 >
 > **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这 aligns with research showing that postdoctoral mentors are more instrumental to trainees' success than graduate mentors（Sandrone, 2025）。
 >
@@ -152,9 +152,9 @@ Giuseppe Levi 的学生中有三位诺贝尔生理学或医学奖获得者：Rit
 
 > [!warning]
 >
-> **方法论 simplicity**。方法论 approach straightforward, effective and free from bias, relying solely on counting the frequency of the word mentor within a given text（Sandrone, 2025）。
+> **方法论 simplicity**。方法论 approach straightforward, effective and free from bias, relying solely on counting the frequency of the word [[Mentorship|mentor]] within a given text（Sandrone, 2025）。
 >
-> **未分析其他诺贝尔奖项**。Future research can apply this methodology to Nobel Lectures in Physics, Chemistry, Literature, and Economics to determine whether this lack of overt mentorship recognition is unique to Physiology and Medicine or reflects a broader trend across disciplines（Sandrone, 2025）。
+> **未分析其他诺贝尔奖项**。Future research can apply this methodology to Nobel Lectures in Physics, Chemistry, Literature, and Economics to determine whether this lack of overt [[Mentorship Recognition]] is unique to Physiology and Medicine or reflects a broader trend across disciplines（Sandrone, 2025）。
 >
 > **未探索 gratitude 的其他形式**。While a detailed exploration of gratitude in the history of the Nobel Prize could be the focus of future studies, the lack of explicit recognition remains particularly surprising（Sandrone, 2025）。
 

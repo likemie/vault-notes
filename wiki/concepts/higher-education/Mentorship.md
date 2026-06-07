@@ -13,8 +13,8 @@ tags:
   - theme/medical-education
   - theme/science-education
 related_concepts:
+  - "[[Research Topic]]"
   - "[[Mentorship Recognition]]"
-  - "[[Cumulative Advantage]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -52,7 +52,7 @@ updated: 2026-06-07
 >
 > **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功（Liénard et al., 2018, 引自 Sandrone, 2025）。
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的研究主题中分离出来并与导师只合著一小部分总体研究时，表现最好（Ma et al., 2020, 引自 Sandrone, 2025）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好（Ma et al., 2020, 引自 Sandrone, 2025）。
 
 ---
 
@@ -61,7 +61,7 @@ updated: 2026-06-07
 > [!example]
 > 诺贝尔奖得主的导师关系模式并非随机。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017, 引自 Sandrone, 2025）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024, 引自 Sandrone, 2025）。
 >
-> Giuseppe Levi 的学生中有三位诺贝尔生理学或医学奖获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006, 引自 Sandrone, 2025）。
+> Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006, 引自 Sandrone, 2025）。
 
 ---
 
@@ -69,7 +69,7 @@ updated: 2026-06-07
 
 > [!warning]
 >
-> **诺贝尔演讲中的导师认可缺失**。Sandrone (2025) 分析了 208 篇诺贝尔生理学或医学奖演讲，发现只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
+> **诺贝尔演讲中的[[Mentorship Recognition|导师认可]]缺失**。Sandrone (2025) 分析了 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲，发现只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
 >
 > **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者（Sandrone, 2025）。
 >

@@ -20,8 +20,9 @@ tags:
 related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Partnership Continuum]]"
+  - "[[Big Ideas]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Multi-Faceted Relationships in University-Industry Collaboration]]"
+  - "[[Further Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -54,7 +55,7 @@ updated: 2026-06-05
 ## 理论框架
 
 > [!abstract]
-> 报告的核心概念框架建立在两个轴上：
+> 报告的[[Big Ideas|核心概念]]框架建立在两个轴上：
 
 - **五个合作领域**（categories）：学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展——覆盖了大学与企业互动的全部主要维度
 - **三个参与层级**（levels of engagement）：交易（Transaction）→ 协作（Collaboration）→ 联盟（Alliance）——按合作深度和双方承诺程度递进
@@ -107,7 +108,7 @@ updated: 2026-06-05
 | 专业中心与学院参与 | 机构层面的深度合作 | 学院、跨学科研究中心 | 企业战略部门、CTO 办公室 |
 | 经济发展 | 区域创新与产业政策 | [[Technology Transfer\|技术转移]]办公室、政府关系 | 企业公共事务、战略部门 |
 
-当合作双方在五个领域都建立了深度关系时，就形成了报告中所谓的[[Multi-Faceted Relationships in University-Industry Collaboration|多面关系]]（Multi-Faceted Relationships）——这是[[University-Industry Collaboration|产学合作]]的最高形态，意味着双方的合作已经超越了任何单一维度的交易，成为一种制度化的、全方位的战略联盟（p.5）。
+当合作双方在五个领域都建立了深度关系时，就形成了报告中所谓的多面关系（Multi-Faceted Relationships）——这是[[University-Industry Collaboration|产学合作]]的最高形态，意味着双方的合作已经超越了任何单一维度的交易，成为一种制度化的、全方位的战略联盟（p.5）。
 
 > [!example]- 图2：大学与产业的多面关系
 > ![](https://img.mylikemie.icu/sources/UIDP_2012_PartnershipContinuum/figures/UIDP_2012_PartnershipContinuum_Fig2_Multi_Faceted_Relationships.jpg)
@@ -138,7 +139,7 @@ updated: 2026-06-05
 
 #### 领域一：学生导向参与 —— 从招聘会到联合培养
 
-学生就业是产学互动中最古老也最普遍的领域。报告指出："大学承担着教育和为学生的有酬就业做准备的使命。就业中心专门致力于吸引产业招聘者到校园，通过多种方式面试和雇佣他们的毕业生。产业需要招聘高质量毕业生来推进其使命和开发创新技术"（p.9）。这一共生关系对双方都有利，且在 Partnership Continuum 框架中呈现出从 Level 1 到 Level 3 的完整光谱。
+学生就业是产学互动中最古老也最普遍的领域。报告指出："大学承担着教育和为学生的有酬就业做准备的使命。就业中心专门致力于吸引产业招聘者到校园，通过多种方式面试和雇佣他们的毕业生。产业需要招聘高质量毕业生来推进其使命和开发创新技术"（p.9）。这一共生关系对双方都有利，且在 [[Partnership Continuum]] 框架中呈现出从 Level 1 到 Level 3 的完整光谱。
 
 > [!abstract] 核心观察
 > 学生导向参与的光谱展示了合作升级的典型路径：Level 1 的招聘会提供了"看见"学生的窗口；Level 2 的课程参与和实习让企业"塑造"学生的能力；Level 3 的定制化培养则将企业深度嵌入大学的人才生产流程。许多企业停留在 Level 1 不是因为 Level 3 不适合，而是因为根本不知道从 Level 1 到 Level 3 之间存在连续的光谱。
@@ -184,7 +185,7 @@ updated: 2026-06-05
 > | | 客座演讲/讲座 | 研究人员在产学双方展示工作，免费或最低成本 |
 > | | 招聘协助 | 协助产业招聘特定人才 |
 > | | 工作坊/研讨会 | 为产业研究者提供目标领域培训 |
-> | **Level 2: Collaboration** | 赞助研究（Sponsored Research） | 为学术实验室提供学科特定研究资助，通常项目导向 |
+> | **Level 2: Collaboration** | 赞助研究（[[Sponsored Research Agreement\|sponsored research]]） | 为学术实验室提供学科特定研究资助，通常项目导向 |
 > | | 赞助[[Clinical Trial\|临床试验]] | 支持学术研究者开展在研化合物的临床试验 |
 > | | 学术休假（Sabbaticals） | 产学研究人员在对方环境短期工作，学习新技术 |
 > | | 非终身教职任命 | 产业人员通过兼职教学或研究职位与学术同行互动 |
@@ -283,7 +284,7 @@ updated: 2026-06-05
 #### 跨越五个领域的终极形态：多面关系
 
 > [!note]
-> 当大学与企业的合作跨越了上述全部五个领域——而非仅集中在其中一两个——并且每个领域的互动都达到了相当的深度（通常为 Level 2 或 Level 3），合作关系就达到了报告所描述的终极形态：[[Multi-Faceted Relationships in University-Industry Collaboration|多面关系]]（Multi-Faceted Relationships）。
+> 当大学与企业的合作跨越了上述全部五个领域——而非仅集中在其中一两个——并且每个领域的互动都达到了相当的深度（通常为 Level 2 或 Level 3），合作关系就达到了报告所描述的终极形态：多面关系（Multi-Faceted Relationships）。
 
 多面关系的独特之处不在于合作规模——单个领域的 Level 3 合作（如一座冠名研究大楼）在金额上可能远超五个领域的组合——而在于**风险分散和相互增强**。当合作关系仅依赖于单一领域（例如唯一的赞助研究协议），一旦该领域出现波动（项目结束、研究人员离职、预算削减），整个合作关系就面临断裂。而当合作关系分布在五个领域时，一个领域的暂时困难可以由其他领域的关系维系——学生招聘仍在继续、设备共享仍在运作、咨询委员会仍在开会——合作关系的"韧性"远高于任何单一维度的合作。
 
@@ -299,7 +300,7 @@ updated: 2026-06-05
 > | 重大捐赠（冠名教席、建筑、原型基金） | 为专业发展、人员招聘、基础设施或优先项目提供重大资源 |
 > | 联合合作（合资企业、发明优先权） | 产学双方共担风险，共享专业和资源支持研究和技术开发 |
 > | 联合传播与营销 | 共同制定策略宣传共享项目和优先事项 |
-> | 对国家组织的支持（如 UIDP、GUIRR） | 通过产学联合体组织加强合作和政策发展 |
+> | 对国家组织的支持（如 [[University Industry Demonstration Partnership\|UIDP]]、GUIRR） | 通过产学联合体组织加强合作和政策发展 |
 > | 员工校友匹配项目与校友团体组织 | 公司激励员工向母校捐赠，或组织员工校友团体 |
 > | 大学-产业-政府三方互动 | 产学合作参与与双方利益一致的政府项目 |
 
@@ -316,7 +317,7 @@ updated: 2026-06-05
 
 2. **不要假设所有合作都必须从 Level 1 开始**：根据双方已有的信任基础、战略优先级和可用资源，可以直接在 Level 2 或 Level 3 启动合作。
 
-3. **跨部门协调合作策略**：让就业中心、技术转移办公室、学院院长和继续教育部门共享合作全景信息，避免各自为政导致的盲区。一个企业伙伴可能在某部门看来只是"招聘方"，但在另一部门看来具备成为战略研究伙伴的潜力。
+3. **跨部门协调合作策略**：让就业中心、技术转移办公室、学院院长和[[Further Education|继续教育]]部门共享合作全景信息，避免各自为政导致的盲区。一个企业伙伴可能在某部门看来只是"招聘方"，但在另一部门看来具备成为战略研究伙伴的潜力。
 
 4. **将政府纳入视野**：尤其在经济发展领域，大学-企业-政府三方合作往往能撬动单一双边关系无法获取的资源和政策支持。
 

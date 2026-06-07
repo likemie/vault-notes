@@ -21,7 +21,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments: []
 sources:
   - "[[Ch10_Swick_Jones_2025]]"
@@ -57,7 +58,7 @@ updated: 2026-06-02
 ## 概念演变
 
 > [!note]
-> 诺贝尔生理学或医学奖的历史趋势反映了医师科学家日益增长的重要性：自 1990 年以来，每两个诺贝尔奖中至少有一个包含医师或医师科学家获奖者。训练有素的医师科学家是临床挑战的前线探测器，其贡献对于将研究发现转化为对患者诊疗的实质性影响至关重要（pp.178–179）。
+> [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]的历史趋势反映了医师科学家日益增长的重要性：自 1990 年以来，每两个诺贝尔奖中至少有一个包含医师或医师科学家获奖者。训练有素的医师科学家是临床挑战的前线探测器，其贡献对于将研究发现转化为对患者诊疗的实质性影响至关重要（pp.178–179）。
 
 ## 面临的挑战
 
