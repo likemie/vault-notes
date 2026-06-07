@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
-                "mode": "source",
+                "file": "wiki/methods/quantitative/Meta-analysis.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "EEF Teaching and Learning Toolkit"
+              "title": "Meta-analysis"
             }
           }
         ]
@@ -191,9 +191,9 @@
   },
   "active": "7f55059d7e98a216",
   "lastOpenFiles": [
+    "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
     "wiki/methods/quantitative/Meta-analysis.md",
-    "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
     "wiki/methods/quantitative/Meta-meta-analysis.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
     "wiki/methods/qualitative/Umbrella Review.md",

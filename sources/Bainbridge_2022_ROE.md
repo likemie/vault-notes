@@ -16,8 +16,8 @@ extracted_to:
   - "[[Gert Biesta]]"
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[John Hattie]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 processed_date: 2026-05-07
 ---
 
