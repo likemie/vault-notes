@@ -26,9 +26,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Progressive Education]]"
+  - "[[International Education]]"
   - "[[Individualised Instruction]]"
-  - "[[Refined Mastery]]"
-  - "[[Self-Efficacy]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Transfer Translation Transformation]]"
@@ -62,8 +62,8 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Comparative Meta-synthesis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
 related_persons:
@@ -162,21 +162,21 @@ updated: '2026-05-21'
 > - **2006 年 4 月** Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），并创建 Visible Learning Labs，Hattie 任主任，为 e-asTTle 使用提供支持和专业发展（O'Neill et al., 2016, p.47）
 > - **2006 年** 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事（O'Neill et al., 2016, p.48）
 > - **2008 年** 成为重组后的 Cognition Education 董事（O'Neill et al., 2016, p.48）
-> - **2009 年** Cognition Education 开始在澳大利亚提供 Visible Learningplus 专业发展工作坊（O'Neill et al., 2016, p.48）
+> - **2009 年** Cognition Education 开始在澳大利亚提供 《可见的学习》plus 专业发展工作坊（O'Neill et al., 2016, p.48）
 > - **2009–2010** 新西兰国家党联合政府推行 国家标准（National Standards）政策。Hattie 被邀加入技术顾问组（两次会议均因出国未出席），其领导的 新西兰评估学院 受教育部邀请对标准的技术层面提供评论（部分但非全部建议被采纳）。总理 John Key 在标准发布时公开感谢 Hattie 的推动——媒体因此将 Hattie 描绘为标准政策的核心推手（Hattie, 2010, pp.91–92）。Hattie 随后加入部长顾问组，独立于教育部直接向部长提供关于标准的技术和教育层面建议（Hattie, 2010, p.93）
-> - **2010–2014 年** 从 Cognition Education 获得第三方付款：2010: USD 10,000; 2011: USD 93,322; 2012: USD 272,133; 2013: USD 270,559; 2014: USD 223,439（O'Neill et al., 2016, p.49）
+> - **2010–2014 年** 从 Cognition Education 获得第三方付款：2010: 1 万美元；2011 年 9.3 万美元；2012 年 27.2 万美元；2013 年 27 万美元；2014 年 22.3 万美元（O'Neill et al., 2016, p.49）
 
 
 > [!note-] 澳大利亚与全球扩张 (2011–2015)
-> - **2011–2012** Cognition Education Trust 在新西兰及国际上注册 Visible Learningplus 商标（O'Neill et al., 2016, p.48）
+> - **2011–2012** Cognition Education Trust 在新西兰及国际上注册《可见的学习》plus 商标（O'Neill et al., 2016, p.48）
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任（O'Neill et al., 2016, p.49）
-> - **2013 年** 成为 AUUSD 16M 科学学习研究中心（Science of Learning Research Centre）"促进学习"[[Research Topic|研究主题]]负责人和副主任（O'Neill et al., 2016, p.49）
+> - **2013 年** 成为 1600 万澳元科学学习研究中心（Science of Learning Research Centre）"促进学习"[[Research Topic|研究主题]]负责人和副主任（O'Neill et al., 2016, p.49）
 > - **2014 年 7 月** 被任命为 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席（O'Neill et al., 2016, p.50）
-> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 《可见的学习》研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 [[Education Endowment Foundation|EEF]] 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
+> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 《可见的学习》研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 [[Education Endowment Foundation|EEF]] 资助 36 万英镑；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
 > - **2015 年 1 月** Visible Classroom 工具进入美国市场（O'Neill et al., 2016, p.50）
 > - **2015 年 5 月** 墨尔本大学与 Ai-Media 签署五年全球协议进一步开发 Visible Classroom 产品（O'Neill et al., 2016, p.50）
-> - **2015 年 6 月** [[Karl Pearson|Pearson]] 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 VLplus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 《可见的学习》商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
-> - **2015 年 6 月**（同月）Hattie 接受 RNZ *Nine to Noon* 节目 Catherine Ryan 采访，宣传这两篇 Pearson 文章——O'Neill 等将此描述为"教育思想领导力现在是一种商业产品，需要市场推广活动"的例证（O'Neill et al., 2016, p.51）
+> - **2015 年 6 月** [[Karl Pearson|Pearson]] 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 《可见的学习》plus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 《可见的学习》商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
+> - **2015 年 6 月**（同月）Hattie 接受新西兰广播电台 *Nine to Noon* 节目 Catherine Ryan 采访，宣传这两篇 Pearson 文章——O'Neill 等将此描述为"教育思想领导力现在是一种商业产品，需要市场推广活动"的例证（O'Neill et al., 2016, p.51）
 > - **2015 年 12 月** 两篇文章被 ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用（O'Neill et al., 2016, p.51）
 >
 > O'Neill et al.（2016, pp.viii–ix） 总结："Hattie's now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy."
@@ -184,17 +184,65 @@ updated: '2026-05-21'
 
 ---
 
-## 主要著作
+## 主要著作与思想发展
 
-> [!abstract] 主要著作
-> - Hattie, J. (2009). *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. — 奠基性著作，以[[Effect Size|效应量]]排名 150+ 教学干预
-> - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. [丹麦语译本：*Synlig læring og læringens anatomi*, Dafolo, 2014.] — 与认知科学家 Yates 合作，从脑科学和认知心理学角度阐述九条学习原则
-> - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9-21. — 回顾 [[Visible Learning]] 的形成过程并回应效应量、研究质量和学习概念等批评，强调“Know thy impact”不是教学法清单而是评价性[[Professional Judgment|专业判断]]
-> - Hattie, J. (2015). The applicability of Visible Learning to higher education. *Scholarship of Teaching and Learning in Psychology, 1*(1), 79–91. — 将 VL 框架应用于高等教育，提出六项关键发现、DIE 模型和八项教师思维框架
-> - Fisher, D., Frey, N., & Hattie, J. (2016). *Visible learning for literacy: Implementing the practices that work best to accelerate student learning*. Corwin Press. — 将 VL 框架扩展至读写教学
-> - Hattie, J., Masters, D., & Birch, K. (2016). *Visible learning into action: International case studies of impact*. Routledge. — 汇编 Visible Learning 实施案例，展示"影响"的证据
-> - Hattie, J. (2017). *Vidimoe obuchenie* [Visible Learning]. Moscow: Natsional'noe obrazovanie. 496 p. — 俄文译本，引发俄教育界广泛讨论（Golovchin, 2019, p.232）
+### 1987 — 参与首次大规模元综合
+
+> [!abstract] Fraser, B.J., Walberg, H.J., Welch, W.W. & Hattie, J.A. (1987). Syntheses of educational productivity research. *International Journal of Educational Research*, 11(2), 147–252.
+
+> [!note] 思想发展
+> Hattie 与 Fraser 和 Walberg 合作，综合了 226 项[[Meta-analysis|元分析]]，以检验[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究发表为 100 页专著，涵盖数千项原始研究。这是教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]之一（Higgins, 2016, pp.41–42）。
+
+---
+
+### 1992 — 首次独立元综合与通用连续体
+
+> [!abstract] Hattie, J. (1992). Measuring the effects of schooling. *Australian Journal of Education*, 36(1), 5–13.
+
+> [!note] 思想发展
+> Hattie 综合了 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生（Higgins, 2016, p.42）。
 >
+> 他引入通用连续体（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。
+>
+> **关键发现：**
+> - 反馈是最强大的单一影响（强化 1.13，补救与反馈 0.65，掌握学习 0.50）
+> - 最不成功的创新是[[Individualised Instruction|个别化教学]]（0.14）和程序化教学（0.18）
+> - 创新作为改善学习的有意识尝试，是大多数效果背后的共同主题
+
+---
+
+### 1996 — 学习技能干预
+
+> [!abstract] Hattie, J., Biggs, J. & Purdie, N. (1996). Effects of learning skills interventions on student learning. *Review of Educational Research*, 66(2), 99–136.
+
+---
+
+### 2009 — 《可见的学习》
+
+> [!abstract] Hattie, J. (2009). *Visible Learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge.
+
+> [!note] 思想发展
+> Hattie 综合 800 多项元分析，发现平均效应量仍约为 0.40。他将此作为关节点（hinge point），高于此值的方法值得优先考虑（Higgins, 2016, pp.43–44）。
+>
+> 他将教师角色分为激活者（平均 $d = 0.60$）和促进者（平均 $d = 0.17$），由此得出结论：”[[Constructivist Paradigm|建构主义]]是一种知识形式，但不是一种教学形式”（Hattie, 2009, p.243）。
+>
+> **”Know thy impact”**：教师须以可见证据评估自身教学对学生成绩的影响，这成为《可见的学习》的标志性口号（Hattie, Masters, & Birch, 2016, p.3）。
+
+---
+
+### 2014 至 2016 — 扩展与应用
+
+> [!abstract] 扩展著作
+> - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. — 与认知科学家合作，从脑科学角度阐述学习原则
+> - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9–21. — 回顾形成过程并回应批评
+> - Hattie, J. (2015). The applicability of Visible Learning to higher education. *Scholarship of Teaching and Learning in Psychology*, 1*(1), 79–91. — 将框架应用于高等教育
+> - Fisher, D., Frey, N., & Hattie, J. (2016). *Visible learning for literacy*. Corwin Press. — 扩展至读写教学
+> - Hattie, J., Masters, D., & Birch, K. (2016). *Visible learning into action*. Routledge. — 汇编实施案例
+
+> [!note] 思想发展
+> Hattie 把 $d = 0.40$ 解释为所有可见教育影响的平均值，而不是脱离情境的硬边界。他指出，澳大利亚数据中学生一年平均增长约 $d = 0.40$，但小学约 $d = 0.55$，中学约 $d = 0.25$，因此同一个 $d$ 值必须结合学段、结果类型和同类研究背景解释（Hattie, 2015, p.11；Higgins, 2016, p.44）。
+>
+> 他对[[Heterogeneity|异质性]]的回应不是否认，而是要求把异质性转化为[[Research Question|研究问题]]（Higgins, 2016, p.45）。
 
 ---
 
@@ -228,36 +276,10 @@ updated: '2026-05-21'
 > - **翻译的单向概念**：Hattie 将翻译理解为”我说什么，测试教师是否按我的意思理解了，如果没理解就是我们错了”。这种单向模型与教育研究中强调双向对话的翻译概念形成对比（Knudsen, 2017, pp.254–255）
 > - 主张学习必须是被学习者分享、承诺和理解的，以[[Progressive Education|进步教育]]哲学的语言包装实证主义议程（McKnight & Whitburn, 2020, p.34）
 
----
-
-## 主要贡献
-
-### 元综合方法论
-
-> [!success] [[Meta-meta-analysis|元综合]]方法论
-> - **参与 Fraser et al.（1987）首次大规模元综合**：与 Fraser 和 Walberg 合作，综合 226 项[[Meta-analysis|元分析]]检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]，这是教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]之一（Higgins, 2016, pp.41–42）
-> - **1992 年首次独立元综合**：综合 134 项元分析、22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生。引入通用连续体概念，以标准差单位为尺度将结果置于同一量表上。平均效应量 0.40。三个总体发现：创新可以改善学习；反馈是最强大的单一影响；最不成功的创新是[[Individualised Instruction|个别化教学]]（Higgins, 2016, p.42）
-> - **2008 年《可见的学习》**：综合 800 多项元分析，平均效应量仍约为 0.40。他将此作为关节点，高于此值的方法值得优先考虑（Higgins, 2016, pp.43–44）
 
 ---
 
-### 教学干预排名
-
-> [!success] 教学干预排名
-> - [[Visible Learning]] — 2009 年提出、基于 800 多项[[Meta-analysis|元分析]]的教学干预效应量综合排名，后有系列扩展
-> - 将效应量方法推广为教师和学校层面的操作性工具，推动了全球"什么有效"运动的课堂落地
-> - 将[[Meta-meta-analysis|元-元分析]]技术大规模应用于教育研究证据综合
-
----
-
-### 专家教师研究
-
-> [!success] 专家教师研究
-> - **专家教师的 16 项原型属性**：Hattie 识别了区分专家教师与经验教师和新手教师的关键特征（Sarbiewska, 2019, p.126）：专家教师对其工作采取问题解决立场；[[Refined Mastery|精通]]创造最优课堂学习氛围；对课堂情境有多维度复杂感知；更善于监控学生问题和评估其理解与进步水平；提供更相关、有用的反馈；对学生有高度尊重；对教学充满热情；让学生参与学习并帮助发展其自我调节、学习技能、[[Self-Efficacy|自我效能]]和自尊（Hattie, 2003, cited in Sarbiewska, 2019, p.126）
-
----
-
-## 思想发展与影响
+## 全球影响
 
 > [!note-] 全球传播与各国反响
 > 对全球"[[Evidence-Based Education|证据本位教育]]"运动（参见 [[Evidence-Based Education]]、[[Evidence-Based Reform]]）产生深远影响，同时也成为该运动文化政治批评和方法论批评的焦点。
@@ -268,15 +290,15 @@ updated: '2026-05-21'
 >
 > **2009 年新西兰媒体风暴**：Hattie (2010, pp.86–87) 自述 2009 年 1 月 *Sunday STAR Times* 头版报道《可见的学习》后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
 >
-> **丹麦**：2014 年学校改革明确引用《可见的学习》后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。Fredens (2015) 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；Qvortrup (2015) 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；Laursen (2015) 认为 VL 核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *[[Hattie på dansk]]* (2017) 汇集多篇批评；Qvortrup (2019) 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
+> **丹麦**：2014 年学校改革明确引用《可见的学习》后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。Fredens (2015) 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；Qvortrup (2015) 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；Laursen (2015) 认为 《可见的学习》核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *[[Hattie på dansk]]* (2017) 汇集多篇批评；Qvortrup (2019) 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
 >
-> **俄罗斯**：2017 年 《可见的学习》俄文版出版后在俄罗斯学界获得热烈反响：Borisenko（2018）称其为"翻译教育文献出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将 VL 与俄罗斯 FSES 标准联系起来（Golovchin, 2019, p.237）。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用 VL（详见 [[Argument_Golovchin_2019_ESC]]）。
+> **俄罗斯**：2017 年 《可见的学习》俄文版出版后在俄罗斯学界获得热烈反响：Borisenko（2018）称其为"翻译教育文献出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将《可见的学习》与俄罗斯联邦国家教育标准联系起来（Golovchin, 2019, p.237）。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用《可见的学习》（详见 [[Argument_Golovchin_2019_ESC]]）。
 
 
-> [!note-] VL 品牌扩张与商业化
+> [!note-] 《可见的学习》品牌扩张与商业化
 > 从新西兰奥克兰大学起步，之后转到墨尔本大学，Visible Learning 从一本学术著作演变为覆盖出版、教师培训、学校认证、政策标准制定和衍生品牌的全球性商业—政策复合体（详见 [[Visible Learning Branding and Global Influences]]）。
 >
-> Hattie 本人已在某种程度上与其研究的某些运用方式保持距离，表示如果重新来过会避免"结果的暴政"（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35），但 VL 作为一种与更广泛社会和政治力量纠缠的现象已不完全受其控制。
+> Hattie 本人已在某种程度上与其研究的某些运用方式保持距离，表示如果重新来过会避免"结果的暴政"（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35），但 《可见的学习》作为一种与更广泛社会和政治力量纠缠的现象已不完全受其控制。
 >
 
 ---
@@ -288,7 +310,7 @@ updated: '2026-05-21'
 >
 > **第一回合：Snook et al. (2009) — Invisible Learnings?**
 >
-> Snook, O'Neill, Clark, O'Neill, & Openshaw (2009) 发表 *Invisible Learnings? A Commentary on John Hattie's book: Visible Learning*（详见 Argument_Snook_2009_NZJES），从七个维度系统质疑 VL 的方法论和政策外推：
+> Snook, O'Neill, Clark, O'Neill, & Openshaw (2009) 发表 *Invisible Learnings? A Commentary on John Hattie's book: Visible Learning*（详见 Argument_Snook_2009_NZJES），从七个维度系统质疑《可见的学习》的方法论和政策外推：
 > - [[Meta-analysis|元分析]]综合未评估纳入研究质量——"垃圾进垃圾出"（Eysenck）
 > - d=0.40 截断值武断；小效应在大规模随机研究中可有重大意义
 > - [[Effect Size|效应量]]暗示[[Causality|因果性]]但常不可辩护
@@ -331,21 +353,21 @@ updated: '2026-05-21'
 > - **学术领域的批评者**：在学科内部对研究质量和方法进行技术性批判——这属于正常学术工作范畴。Hattie 在 *Visible Learning* 中批评评估、教学和学习领域的现有研究质量，正属于这一角色
 > - **社会的批评者与良知**：必须将非学校因素纳入所有教育成就差异的分析——因为这些因素"代表社会"
 >
-> Grace 指出，Hattie 明确将非学校因素排除在 VL 的分析范围之外（Hattie, 2009, pp.viii–ix），这与他声称的"critic and conscience of society"角色存在根本矛盾。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash 的 *Social Class and Education in New Zealand*（2003）为例，说明真正的"critic and conscience of society"应将非学校因素置于分析的核心（Grace, 2010, p.91）。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己履行了该角色（Grace, 2010, p.91）。
+> Grace 指出，Hattie 明确将非学校因素排除在 《可见的学习》的分析范围之外（Hattie, 2009, pp.viii–ix），这与他声称的"critic and conscience of society"角色存在根本矛盾。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash 的 *Social Class and Education in New Zealand*（2003）为例，说明真正的"critic and conscience of society"应将非学校因素置于分析的核心（Grace, 2010, p.91）。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己履行了该角色（Grace, 2010, p.91）。
 
 
 > [!warning] 方法论批评
-> - **Terhart (2011)** — VL 最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（Popper 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
+> - **Terhart (2011)** — 《可见的学习》最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（Popper 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
 > - **Allerup (2015)** — 从统计学角度批评 Hattie 用效应量给教学干预排序：d=0.40 与显著性的关系依赖样本量，排名未系统报告[[Confidence Interval|置信区间]]、标准误或相邻 d 值的显著性检验，且 TIMSS 2011 例子显示边际效应量在[[Societies of Control|控制社会]]经济背景后可明显下降（详见 [[Effect Size#基本公式与构成逻辑]]、[[Meta-meta-analysis#技术方法论缺陷]]）
 > - **Wecker et al. (2016)** — 迄今最系统的技术评估：构建三层[[Analytic Framework|分析框架]]，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示[[Fixed-Effect and Random-Effects Models|固定效应模型]]不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
 > - **Bergeron & Rivard (2017)** — 统计学家视角定性为伪科学：CLE 计算错误（负概率）、基线比较任意性、三种效应量公式产生矛盾排名、r→d 转换危险、聚合任意性。结论："任何人都不应该复制这种方法论"（详见 [[Argument_Bergeron_2017_MJE]]、[[Visible Learning#Bergeron & Rivard (2017)]])
 > - **Golovchin (2019)** — 变差系数检验：Vσ=56.87%，数据集"极端不均匀"；[[Systematic Review|系统综述]] 10+ 位批评者论点；建议俄罗斯教育政策不采用 VL（详见 [[Argument_Golovchin_2019_ESC]]、[[Visible Learning#Golovchin (2019)]])
-> - **O'Connor (2020)** — [[Whole Language|全语言]]案例审查：分类错误（[[Language Experience Approach|语言经验法]]≠全语言）、不对称审查（接受 d=-0.65/修正 d=+0.65）、选择性修正（VL 唯一被修正的元分析）、不加权平均、次级文献系统性忽略。论证先验偏见驱动数据选择（详见 [[Argument_OConnor_2020_AJLL]]、[[Visible Learning#O'Connor (2020)]])
-> - **Johnson & Janzen (2023)** — 从 [[Cargo Cult Science]] 角度批评 VL 方法论不透明：仅用一段话解释方法、未提供计算公式和加权方式，将 VL 定性为"outside the spirit of scientific inquiry"（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
+> - **O'Connor (2020)** — [[Whole Language|全语言]]案例审查：分类错误（[[Language Experience Approach|语言经验法]]≠全语言）、不对称审查（接受 d=-0.65/修正 d=+0.65）、选择性修正（VL 唯一被修正的元分析），不加权平均、次级文献系统性忽略。论证先验偏见驱动数据选择（详见 [[Argument_OConnor_2020_AJLL]]、[[Visible Learning#O'Connor (2020)]])
+> - **Johnson & Janzen (2023)** — 从 [[Cargo Cult Science]] 角度批评 《可见的学习》方法论不透明：仅用一段话解释方法、未提供计算公式和加权方式，将《可见的学习》定性为"科学探究精神之外"（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
 
 
 > [!warning] 文化与政治批评
-> - **O'Neill (2012)** — 以 NZ Treasury 2011 年简报为案例，揭示了 Hattie 的 VL 证据在政策论述中被脱离语境援引的具体机制。Treasury 援引"教学质量"证据论证可增加生师比，但 Hattie 本人明确反对、且该证据全部来自大学生评教研究对学校教育无相关性（详见 [[Argument_ONeill_2012_NZJES]]、[[Treasury Briefing on Student-Teacher Ratios]]）
+> - **O'Neill (2012)** — 以 新西兰财政部 2011 年简报为案例，揭示了 Hattie 的《可见的学习》证据在政策论述中被脱离语境援引的具体机制。Treasury 援引"教学质量"证据论证可增加生师比，但 Hattie 本人明确反对、且该证据全部来自大学生评教研究对学校教育无相关性（详见 [[Argument_ONeill_2012_NZJES]]、[[Treasury Briefing on Student-Teacher Ratios]]）
 > - **O'Neill et al. (2016)** — 以"政策创业"框架系统追踪 Hattie 从 asTTle 到 Visible Classroom 的商业化轨迹，记录 2010–2014 年从 [[Cognition Education|Cognition Education]] 获得第三方付款（USD 10K → USD 223K），定性为公共福利、非营利和营利创业的"无缝融合"（详见 [[Argument_ONeill_2016_Report]]、[[Visible Learning Branding and Global Influences]]）
 > - **Eacott (2017)** — 以 Callahan (1962) 为历史框架论证澳大利亚[[School Leadership|学校领导力]]已屈服于"Hattie [[Cult of the Guru|大师崇拜]]"，定性 VL 为 [[Neo-Taylorism]]：将教学拆解为最小可测量单元，"与 100 多年前 Taylor 的工作相差不远"（详见 [[Argument_Eacott_2017_SLM]]、[[Visible Learning#大师崇拜]]）
 > - **Eacott (2019)** — 以自身经历记录 Hattie 回应过程中的学术对话质量问题：Hattie 回应两天内被接收 vs 原论文"数月和多轮评审"；Eacott 被拒绝发表再回应（详见 [[Argument_Eacott_2019_IJLE]]、[[Visible Learning#Eacott (2019)]])
@@ -355,10 +377,10 @@ updated: '2026-05-21'
 
 > [!warning] 教育哲学批评
 > - **Rømer (2018)** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
-> - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"VL 在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
+> - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"《可见的学习》在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **Zhao (2017)** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
-> - **Nielsen & Klitmøller (2021, IRTP)** — 以 Habermas 合法化危机理论解释 VL 全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
-> - **Nielsen & Klitmøller (2021, NordPsych)** — 论证 Hattie 是教育理论家而非纯统计学家：追溯行为主义理论谱系（Skinner→Glaser→Hattie, 1987），对 VL 反馈效应（d=0.73）的 5 项最重元分析逐项审查，发现 4/5 未研究 Hattie 所定义的反馈（详见 [[Argument_Nielsen_2021_NordPsych]]）
+> - **Nielsen & Klitmøller (2021, IRTP)** — 以 Habermas 合法化危机理论解释 《可见的学习》全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
+> - **Nielsen & Klitmøller (2021, NordPsych)** — 论证 Hattie 是教育理论家而非纯统计学家：追溯行为主义理论谱系（Skinner→Glaser→Hattie, 1987），对 《可见的学习》反馈效应（d=0.73）的 5 项最重元分析逐项审查，发现 4/5 未研究 Hattie 所定义的反馈（详见 [[Argument_Nielsen_2021_NordPsych]]）
 
 
 > [!warning] Hattie 的回应与立场演变
@@ -367,14 +389,14 @@ updated: '2026-05-21'
 > - Hattie (2010) 以新西兰《教育法》赋予学者的"critic and conscience of society"法定角色为其公共参与的伦理基础，并制定三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身的阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业（详见 [[Argument_Hattie_2010_NZJES]]）
 > - 承认"很少有人对其提出质疑"（Hattie, Masters, & Birch, 2016，引自 McKnight & Whitburn, 2020, p.33）
 > - 针对 Eacott (2017)，Hattie（2017）发表回应"Educators are not uncritical believers of a cult figure"，援引 Popper 和 Said 为学术批评传统，逐条反驳 Eacott 的三项主张（详见 [[Argument_Hattie_2017_SLM]]、[[Cult of the Guru#争议与批评]]）
-> - 声称 VL 由持续的元分析过程支撑以识别潜在的可证伪性（McKnight & Whitburn, 2020, p.41）
-> - 在回应方法论批评时承认"错误"但坚持"它们均未减少支撑 VL 信息的故事的影响"（Hattie, n.d.，引自 O'Connor, 2020, p.141-142）
+> - 声称《可见的学习》由持续的元分析过程支撑以识别潜在的可证伪性（McKnight & Whitburn, 2020, p.41）
+> - 在回应方法论批评时承认"错误"但坚持"它们均未减少支撑《可见的学习》信息的故事的影响"（Hattie, n.d.，引自 O'Connor, 2020, p.141-142）
 >
 > #### 立场演变与距离感
 >
 > - **Hattie & Donoghue (2016) 放弃排名**：在试图完成另一个排名元分析时，因发现策略内部变异太大而放弃排名，转而开发三输入（技能/意愿/激情）三阶段（表层/深层/迁移）学习模型。该模型承认对 [[Problem-Based Learning|PBL]] 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段（Blass, 2020, pp.95–96）
-> - 已在某种程度上与 VL 的被运用方式保持距离，表示若重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017）
-> - Qvortrup（2019）以引介者身份为 Hattie 辩护：三线论证——批评者形成了意识形态解释社群而非学术反驳；定量/定性对立源于认识论/本体论混淆；教学与学习之间不是[[Causality|因果关系]]而是[[Structural Coupling|结构耦合]]，VL 的目的是提供"智能问题解决的假设"而非"食谱"，[[Professional Judgment|专业判断]]是缺失环节（Qvortrup, 2019, p.3-7）
+> - 已在某种程度上与 《可见的学习》的被运用方式保持距离，表示若重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017）
+> - Qvortrup（2019）以引介者身份为 Hattie 辩护：三线论证——批评者形成了意识形态解释社群而非学术反驳；定量/定性对立源于认识论/本体论混淆；教学与学习之间不是[[Causality|因果关系]]而是[[Structural Coupling|结构耦合]]，《可见的学习》的目的是提供"智能问题解决的假设"而非"食谱"，[[Professional Judgment|专业判断]]是缺失环节（Qvortrup, 2019, p.3-7）
 > - **2020 年 Lessons from Lockdown 会议演讲**：Hattie 的立场进一步演变——谈到"课程差异不大"（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认"失败是学习者最好的朋友但仅低风险时"、指出"通过失败学习是 PBL 的一部分、通过探究式学习恢复"。Blass（2020, p.96）指出 Hattie 现在倡导的学习模型最适合 PBL 和探究式教学法——但他的早期排名仍被用于为直接教学模式辩护
 >
 > Larsen 与 Hattie 于 2018 年在哥本哈根进行了关于"教育的目的"的公开对话（Hattie & Larsen, 2019, unpublished; 引自 Larsen, 2019, Ref.10）。
