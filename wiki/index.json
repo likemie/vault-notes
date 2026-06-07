@@ -386,6 +386,25 @@
     ]
   },
   {
+    "title": "Global-Local Binary",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global-Local Binary.md",
+    "aliases": [
+      "全球/地方二元对立",
+      "global/local binary",
+      "global-local binary"
+    ]
+  },
+  {
+    "title": "Grammar of Schooling",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Grammar of Schooling.md",
+    "aliases": [
+      "学校的语法",
+      "grammar of schooling"
+    ]
+  },
+  {
     "title": "International Schools",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Schools.md",
@@ -477,6 +496,15 @@
     "aliases": [
       "再脉络化",
       "recontextualization"
+    ]
+  },
+  {
+    "title": "Relational Space",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Relational Space.md",
+    "aliases": [
+      "关系性空间",
+      "relational notions of space"
     ]
   },
   {
@@ -5281,6 +5309,16 @@
     ]
   },
   {
+    "title": "Actor-Network Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Actor-Network Theory.md",
+    "aliases": [
+      "行动者网络理论",
+      "ANT",
+      "actor-network theory"
+    ]
+  },
+  {
     "title": "Hofstede's Cultural Dimensions",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md",
@@ -6695,6 +6733,15 @@
     ]
   },
   {
+    "title": "Bob Lingard",
+    "type": "person",
+    "path": "wiki/persons/australia/Bob Lingard.md",
+    "aliases": [
+      "鲍勃·林加德",
+      "Lingard, B."
+    ]
+  },
+  {
     "title": "David Watkins",
     "type": "person",
     "path": "wiki/persons/australia/David Watkins.md",
@@ -7104,6 +7151,15 @@
     "aliases": [
       "于尔约·恩格斯特罗姆",
       "Engeström"
+    ]
+  },
+  {
+    "title": "Bruno Latour",
+    "type": "person",
+    "path": "wiki/persons/france/Bruno Latour.md",
+    "aliases": [
+      "布鲁诺·拉图尔",
+      "Latour, B."
     ]
   },
   {
@@ -10483,6 +10539,11 @@
     "title": "Argument_Berk_2011_ER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Evaluation Review/Argument_Berk_2011_ER.md"
+  },
+  {
+    "title": "Argument_Beech_2015_GSE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md"
   },
   {
     "title": "Argument_Schulze-Cleven_2017_HighEduc",
