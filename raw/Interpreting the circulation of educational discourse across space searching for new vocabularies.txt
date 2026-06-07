@@ -1,0 +1,608 @@
+ISSN: 1476-7724 (Print) 1476-7732 (Online) Journal homepage: http://www.tandfonline.com/loi/cgse20
+
+Globalisation, Societies and Education
+
+Interpreting the circulation of educational discourse across space: searching for new vocabularies
+
+Jason Beech & Alejandro Artopoulos
+
+To cite this article: Jason Beech & Alejandro Artopoulos (2015): Interpreting the circulation of educational discourse across space: searching for new vocabularies, Globalisation, Societies and Education, DOI: 10.1080/14767724.2015.1025713
+
+To link to this article: http://dx.doi.org/10.1080/14767724.2015.1025713
+
+Published online: 24 Jun 2015.
+
+Submit your article to this journal
+
+Article views: 105
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at http://www.tandfonline.com/action/journalInformation?journalCode=cgse20
+
+Download by: [RMIT University]
+
+Date: 01 March 2016, At: 02:40
+
+Globalisation, Societies and Education, 2015 http://dx.doi.org/10.1080/14767724.2015.1025713
+
+Interpreting the circulation of educational discourse across space: searching for new vocabularies
+
+Jason Beech*
+
+and Alejandro Artopoulos
+
+Escuela de Educación, Universidad de San Andrés, Victoria, Argentina (Received 21 July 2014; accepted 26 February 2015)
+
+This article argues that certain established vocabularies that are used to interpret the circulation of educational discourse and its transformation in different settings have significant limitations to capture the complexity inherent to new geographies of power/knowledge in education and that, consequently, we need to develop new concepts to analyse the movement of educational discourses across space. After a critique of concepts such as ‘transfer’ and ‘policy borrowing’, we offer an alternative kind of approach by using Actor-Network Theory (ANT) to briefly analyse Conectar Igualdad, a program in Argentina that distributes one computer per student in secondary schools. It will be shown how the use ANT can make certain connections visible that would not be so noticeable using the established vocabularies discussed above.
+
+Keywords: comparative education; policy borrowing; globalisation and education; Actor-Network Theory
+
+This article aims at contributing to the discussion regarding the methods and conceptual apparatuses for researching the circulation of educational discourse and its transformation in different settings. The argument is that certain established vocabularies that are used to interpret these processes – such as the concepts of ‘transfer’, ‘globalisation’ and ‘policy borrowing’ – have significant limitations to capture the complexity inherent to new geographies of power/knowledge in education and that, consequently, we need to develop new concepts and ways of analysing the movement of educational discourses and power across space.
+
+We start with a discussion of the concept of transfer, suggesting that most research in comparative education is based on territorial and geopolitical definitions of space, mainly centred on the nation state and on what we label static definitions of transfer. In the second section we note that one of the ways in which complexities in space have been addressed in the field is through the concept of globalisation. We offer a critique of over simplified binary
+
+*Corresponding author. Email: jbeech@udesa.edu.ar
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+© 2015 Taylor & Francis
+
+2
+
+J. Beech and A. Artopoulos
+
+distinctions between ‘the global’ and ‘the local’ that, we argue, have contributed to avoiding complexity. In the third part we examine the use of the concept of policy borrowing and its tendency to focus only on state (mostly written) policies. On the contrary, we suggest that some of the mechanisms through which power is deployed in the current educational field can be directly linked to state policies, others are loosely linked, while others bypass state policies. We then move on to suggest some alternative vocabularies and theoretical and methodological perspectives. We briefly introduce the notion of relational concepts of space in which space is understood not only in its concrete form, but also as sets of relations between individuals and groups, and finally we offer an example of the type of approach that is suggested by using Actor-Network Theory (ANT) to analyse some aspects of Conectar Igualdad, a programme in Argentina that distributes one computer per student in secondary schools. It will be shown how the use ANT can make certain spatial connections visible that would not be so noticeable using the established vocabularies discussed above. To be clear, we do not aim in this article to promote ANT per se as a theoreticalmethodological panacea. We explore ANT (quite superficially, given the nature and aim of the paper) as an illustration of how relational approaches to understanding space can contribute to overcome certain limitations of traditional conceptual frameworks used in comparative education to analyse the circulation of educational discourse and power across space.
+
+The notion of transfer in comparative education The movement of educational ideas, technologies and institutions across international borders has been addressed from very different perspectives in comparative education. Since Jullien, in the eighteenth century, a whole strand of work in the field has been involved in melioristic efforts to find practical solutions to the needs of education, by finding institutions, ideas or practices that ‘worked’ in one context and trying to transfer these proven social technologies to new contexts. This practice-oriented approach – that is continued today by many international organisations, national governments and corporations such as McKinsey – was complemented by more academic perspectives aimed at trying to interpret and understand the processes through which educational ideas are transferred from one context to another (Beech 2006). Some within the field of comparative education see transfer as an unproblematic process and consequently they construe a world of growing educational convergence in which Western modern values and institutions define a model that is followed by all nation states (Baker and Le Tendre 2005). Others, from more culturalist perspectives, problematise the process of transfer of these models and ideas and emphasise local adaptations and processes of recontextualisation and indigenisation of foreign ideas about education (Steiner-Khamsi 2000; Schriewer 2000; Rappleye 2012; Silova 2012).
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+3
+
+Nevertheless, what is common to most of the work done within these different approaches is that they are based (implicitly or explicitly) on territorial and geopolitical definitions of space, with most – although not all – of the focus on the nation state as unit of analysis. Starting from this conception of space, educational transfer is interpreted as a process in which certain educational ideas or institutions exist in a given context (generally a nation state), and they are transferred through different mechanisms to another context. Depending on the perspective that is chosen this interpretation includes or not an analysis of the process of translation and transformation of the ideas or institutions that are being transferred in the context of reception.
+
+For the sake of argument we shall call the above a static interpretation of transfer, since it understands that ideas are produced in one site and then received in another context. On the contrary, we suggest that it is important to grasp the relational dimension of processes of knowledge construction (Roldan 2011; Zimmermann 2009), understanding that it is in the communicative process that ideas about education are constructed and that the ways and channels through which these ideas are conveyed contribute to shaping educational knowledge. The point of departure for such an approach is what is known in the literature as relational notions of space (Larsen and Beech 2014). But before elaborating on this concept and its implications in understanding the circulation of educational knowledge we will offer an empirical example to illustrate the limitations of static interpretations of educational transfer: the circulation of the normal school.
+
+From a static perspective, the normal school, as an institution with the role of training elementary schoolteachers had its origins in Europe in the early eighteenth century. The use of the term ‘normal’ was first adopted in Prussia and then in Switzerland and France (Larsen 2011). Normal schools became very attractive for travellers and reformers that visited these countries in the search of models to imitate in the construction of their own educational systems in other parts of the world. Thus, normal schools were ‘transferred’ to Canada, USA, Mexico, Argentina, Colombia, Chile, Brazil, Finland, Japan, China, Taiwan, the Philippines and New Zealand, among other places. In these places, normal schools became the main institutional form to train teachers. In the course of institutional implementation normal schools were transformed differently in each of these settings given culture-specific patterns.
+
+So, for example, the notion that Argentina copied (or transferred) the French normal school as its model for teacher training is quite common (Alliaud 1993; Beech 2011). However, the process was much more complex. Sarmiento was an Argentine politician and intellectual that is considered to be the founding father of the educational system in Argentina. In 1842, exiled from Argentina, he founded and became the Director of the first normal school in Chile. Three years later he was sent by the Chilean Government on a trip in which he visited many countries in Europe and America to study their
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+4
+
+J. Beech and A. Artopoulos
+
+educational systems, and was strongly attracted by the work of Horace Mann in Massachusetts, with whom he established a close relationship (Velleman 2001). His educational ideas and, later, his blueprint for the Argentine educational system were mostly influenced by what he saw in Massachusetts. In 1869, when he was President of Argentina, he founded the first normal school in the City of Paraná, based on the Boston model.
+
+The Normal School of Paraná was a school of Boston transplanted to the solitude of South America … our School was North American because of its directors, its regents, its furniture and equipment, its books translated from English, its military uniforms and school tactics and its procedures and doctrines. (cited in Alliaud 1993)
+
+The Normal School of Paraná became the model for all other Normal Schools in Argentina. Furthermore, between 1869 and 1898 the National State hired a group of 65 teachers from the USA to collaborate with teacher education. Most of them became Directors of normal schools all over the country (Pineau 2001).
+
+However, as the educational system expanded, it gradually moved away from Sarmiento’s blueprint based on the Massachusetts model and started following the French model (Oría and Gvirtz 2004). France’s strong cultural influence on South America and the political appeal of the highly centralised organisation of the educational system with the aim of homogenising the population as a way of creating the nation and legitimising the power of the new central state partly account for the shift. Similarly complex trajectories of foreign educational influences could be traced in the creation of Normal Schools in Canada and the USA (Larsen 2011), and probably in many other parts of the world.
+
+So, how could we account for such intricate trajectories of foreign educational ideas? From a static interpretation of transfer it could be said that idea of a normal school moved from Prussia and France to Massachusetts, from Massachusetts to Chile and, later, to Argentina. And that these ideas were later influenced by the original French model?
+
+Even if we accept that normal schools in different parts of the world have their particularities, there are certain common characteristics to normal schools (Larsen 2011). Similarly, the notion of a ‘grammar of schooling’ (Tyack and Cuban 1995) – denoting the way in which schools divide time and space, classify students into grades and into specific classrooms, school knowledge is divided into subjects, etc. – suggests that there are certain common institutional patterns in modern schools and educational systems in many parts of the world.
+
+From the perspective of world culture theories, educational institutions (such as the grammar of schooling or normal schools) have been diffused from the West to the rest of the world, generating convergence and isomorphism. Other theories question these ideas, stressing processes of indigenisation or
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+5
+
+recontextualisation, and others have even analysed complex trajectories of educational ideas. Steiner-Khamsi (2000) coined the concept of ‘circular transfer’ to refer to the processes through which certain educational ideas or practices move back and forth between lender and borrower. This was the case when dependent states were used as laboratories for contested educational reforms, such as the introduction of English literature and culture as one single ‘discipline’ in India before it was established in Britain (Steiner-Khamsi 2000).
+
+Nevertheless, all of these interpretations are based on geopolitical and territorial definitions of space and on static interpretations of transfer. Thus, in many cases, these types of interpretations fall under the problems associated with methodological nationalism, assuming that ‘nation states’ are the logical unit to use when classifying and dividing social space (Wimmer and Glick Schiller 2002; Dale and Robertson 2009). We suggest another point of view to understand the circulation of educational discourse. From this perspective the grammar of schooling and the notion of the normal school were constructed in the process of circulation, in-between different locations. In order to test this suggestion empirically it is necessary to use methodological approaches that place the communicative process in the centre of inquiry, as unit of analysis. This implies rethinking concepts of space.
+
+Avoiding complexity through the global/local binary?
+
+One of the ways in which comparative education has addressed the need to reconceptualise space has been through the use of the concept of globalisation. However, we suggest in this section that the concept of globalisation in education has trapped the field (or rather part of the field) into making binary distinctions between the global and the local that are misleading and contribute to the construction of globalisation as a grand narrative of domination (of the global) and resistance (of the local). In these views globalisation is presented as an abstract force that is out of control and affects (generally in a negative way) local places that are in the best scenario capable of some kind of heroic resistance (Bayly et al. 2006).
+
+Distinctions between concepts of space and place in mainstream sociology have overall been translated into over simple binary definitions of the global and the local. 1 In this perspective, place/the local is associated with territorial contiguity, that which is fixed, static and authentic, the source of experience and stability (Tuan 1974, 1977; Cresswell 2004). At the same time, space/the global is defined as something abstract, without any limits, that is out there, representing the future, and movement; a sort of movement that, since it is abstract and cannot be grasped, is out of human control (Harvey 1989; Held and McGrew 1999; Escobar 2001;Waters 2001).
+
+Following this logic, research on the globalisation of education has tended to emphasise the analysis of global hegemonic forces that are imposed upon national or local contexts that are construed as victims or, in some cases,
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+6
+
+J. Beech and A. Artopoulos
+
+resistors. Local places are also assumed to be pure and untouched prior to contact with these new global forces. Some (or maybe most) analyses of what is often called ‘neoliberal’ philosophies or approaches to education are examples of these types of binary distinctions between the global and the local, and the construction of globalisation as a grand narrative of domination and resistance.
+
+The first assumption is that market-oriented approaches are purely global. As Massey (2009) suggests, what we consider to be the global is not just some space out there, it has a material basis and was constructed in local settings. And there is hardly any place that in some way does not participate of the construction of ‘the global’ (Massey 2009; Sassen 2000). Furthermore, if we consider the case of so-called ‘neoliberal policies’, yes, of course that the World Bank and the OECD promote them. But individuals that produce and reproduce those ideas in these settings come from specific local places and, in general, if the ideas are somehow enacted in education policy in a particular place it is because some of the so-called ‘local’ experts or officials have endorsed them. So, it is in some way a ‘global imposition’, but there are also ‘local’ forces acting in the process, and some others that cannot be easily classified into the binary.
+
+The second type of assumptions that we want to highlight in the global/local binary is the notion that the local place was pure and untouched prior to whatever global influence is examined. As has been previously discussed, educational systems themselves are a social technology that has been constructed in the process of moving from one context to another, and no educational system (or no culture) has been isolated from ‘outer’ influences. So, to what extent is the, say, Australian educational system that is now being changed under global neoliberal pressures a ‘local’ system? Also, in many cases, features of what is now labelled as ‘global neoliberal forms of governance’ were already in place before the arrival of the ‘global epidemic’ (for example, state subsidies to privately run schools in places like Argentina, since the 1950s).
+
+Finally, the third type of assumptions are linked to the effects of alleged global influences. Using again the example of neoliberal ideologies, the notion that the global diffusion of these views promotes restructuring of education policies in a way that creates negative effects such as inequities and the dismantling of state-centred educational systems is quite widespread in the literature (Torres 2008; Apple 2010; Litz 2011). Even though this might be true for some places, it is based on the assumption that what existed previous to the arrival of these ideologies was a kind of ideal, equitable system that was open to social mobility for all. However, the situation in most places was quite different to that ideal, and market reforms overlapped with state-centred systems that were in many ways unable to provide for the basic educational needs of the population. So, some disadvantaged groups in some places were affected negatively by market-oriented reforms, but at the same time other similarly disadvantaged groups benefited from, for example, the creation of
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+7
+
+charter style schools in their communities. To be sure, we are not discussing whether these markets-oriented ideologies overall promoted more or less educational equity. What we are trying to argue is that as researchers when we use the concept of globalisation loosely to judge the effects of the global diffusion of educational discourses we are making huge assumptions and usually fall into parochialism by imposing the analysis of effects in a few places to the whole globe.
+
+On the contrary, ‘global reforms’ can have incoherent and contradictory effects, liberating and oppressing at the same time (Carney 2009). For example, in many ways the global diffusion of North American and European feminist struggles has contributed to the liberation of women in many parts of the world. However, the diffusion of notions of justice from a Western tradition dismisses alternative visions and assumes that ‘no other culture has a history of rights upon which to condemn violence and oppression’ (Bayly et al. 2006, 1459). The comment of Lila Abu-Lughod about the relationship between Western feminists and non-Western women is quite illustrative of these contradictions:
+
+we may want justice for women, but can we accept that there might be different ideas about justice and that different women might want or choose different futures from what we envision as best? We must consider that they might be called to personhood, so to speak, in a different language. (cited in Bayly et al. 2006, 1459)
+
+Similarly, the expansion of modern Western mass schooling to most of the world has empowered many communities while at the same time repressing the cultures and epistemes of many indigenous groups.
+
+What we intend to argue with the partial discussion offered above is that the concept of globalisation has lost much of its edge as a sociological and methodological tool, and it can sometimes become an obstacle more than an aid to understand new geographies of power/knowledge in contemporary education. We are not suggesting that the concept needs to be completely discarded, but if used, it should be sharpened to be able to cut into the social and educational process it is supposed to open up an illuminate. Or as Paul Tarc (2012) argues, if we aim to ground and engage our scholarship in:
+
+real-world phenomena, then it is fundamentally important that the scholarly uses of the construct ‘globalization’ avoid reducing the term to another reified or statically-conceived category that interferes in the difficult work of careful observation and nuanced thinking on the objects of our inquiry.
+
+This implies, defining carefully what we mean by globalisation, where are its limits and who are the actors and agents that exert these allegedly global forces, and thinking about how much the use of the signifier ‘globalisation’ helps us to dissect the social phenomena we are trying to interpret and how
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+8
+
+J. Beech and A. Artopoulos
+
+much it has become a comfortable way of avoiding complexity. In the next section we will discuss another issue related to addressing the complexity of current power relations in education: the need to look beyond state policies.
+
+Opening up the empirical gaze: policy borrowing and its limitations The concept of ‘policy borrowing’ has some of the problems mentioned in previous sections. In addition Phillips (2000) notes that the term ‘borrowing’ which is habitually employed in the literature is ‘linguistically infelicitous, since it clearly implies temporariness’. He then presents a list of other terms that have been used: ‘reproduction’, ‘appropriation’ and ‘importing’. Although he does not settle for any of these terms, and goes back to the use of ‘borrowing’, in that article he emphasises ‘Copying [which] would be a more accurate description of the process of utilising models and approaches observed in other contexts’.
+
+The other problem with the concept of policy borrowing is that it tends to focus exclusively on state policies. However, we suggest that if we centre our attention only on state policies (and usually on those expressed in policy texts) we are missing a big part of the mechanisms through which discursive power is diffused in education. Of course that state policies are still very important in studying the diffusion of educational discourses, and there are certain specific processes that can be studied with the concept of ‘policy borrowing’, but we also need to develop other approaches that can amplify our gaze to include mechanisms of diffusion of educational discourses that are not necessarily expressed in state policies, but have a significant influence on the ways in which education is defined and practiced in many parts of the world.
+
+One of the most important issues to consider when understanding the circulation of discourse and power relations at the global level in education is what is known in the literature as the shift from government to governance. This shift describes a series of changes in the nature of the state and the way it works (Rizvi and Lingard 2010; Ball and Junemann 2012). This does not necessarily entail a weakening of the state, but among other changes, it involves a division of labour of educational governance between national organisations, nation states, sub-national states and non-governmental institutions at the global, regional, national and local level (Dale 2005). In order to retain or regain legitimacy, the state adapts and transforms itself into a ‘network state’, made out of ‘a complex web of power-sharing, and negotiated decision-making between international, multinational, national, regional, local, and non-governmental, political institutions’ (Castells 2000, 10).
+
+Ball and Junemann (2012) have used the concept of ‘network governance’ to analyse changes in education policy, policy networks and governance in England, particularly looking at the increasing participation of philanthropy and business in education policy and service delivery. They show how ‘boundaries between state, economy and civil society are being blurred’ (Ball and Junemann
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+9
+
+2012), bringing new sources of authority in the definition of educational principles, what it means to be educated, and the means through which educational practices should be managed. In their analysis they find that ‘the boundaries and spatial horizons and flows of influence and engagement around education are being stretched, dispersed and reconfigured in a whole variety of ways’ (142). Nevertheless, they alert the reader that their analysis is centred on what has changed or is in the process of changing, but that some bureaucratic forms of government are still present and have remained unchanged, existing side by side with the new forms of intervention and influence.
+
+These changes in the means through which power circulates in education call for new conceptual and methodological approaches that can contribute in amplifying our empirical attention. As Rizvi and Lingard (2010) suggest:
+
+Some of the older theoretical and methodological resources are no longer sufficient … new tools are needed … in a world that is increasingly networked and shaped by a range of transnational forces and connections demanding a new global imagination. (3)
+
+Thus, in order to grasp the complexities of processes of diffusion of educational discourse and understand how it is transformed in different contexts we have to develop new methodological tools and vocabularies that can include different type of actors that participate in educational space, such as international agencies, universities, corporations, consultants, development agencies, regional blocks and NGOs. As we previously argued, these actors are not easily classifiable into the global/local binary, and their discursive power is not always deployed through state policies. Some of these influences are directly linked to state policies, others are loosely linked, and others bypass state policies and can even contradict them. So, the use of the concept of policy borrowing should be carefully assessed. It might be useful to shed light into some specific cases, but given the changes in processes of educational governance, we need vocabularies that can help to extend our empirical gaze in such a way that we can still include state policies and bureaucratic forms of government, but also other forms of deploying power in education that contribute to define what it means to be educated, and how education processes should be organised, financed and evaluated.
+
+Searching for alternatives: relational notions of space and ANT In this section we suggest a possible way to move forward by using what is known in the literature as relational notions of space (Larsen and Beech 2014). After providing a brief overview of this type of approaches, we will offer a sketch of how the use of ANT can be used as a theoretical and methodological device that (at least partly) overcomes some of the problems discussed in previous section. This sketch will be based, empirically, on an analysis of the
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+10
+
+J. Beech and A. Artopoulos
+
+Program Conectar Igualdad (PCI) in Argentina, a programme that is aimed at distributing one computer for every child in all secondary schools in the country. Empirical evidence was obtained throughout a three-year project in which we interviewed national and provincial officials, principals, teachers, students and we observed classes and overall school activities through an ethnographic approach.
+
+If we approached the analysis of PCI from a traditional and static interpretation of educational transfer, we could start the narrative of PCI with Nicholas Negroponte, former Director of MIT’s Media Lab, presenting the One Laptop per Child Project (OLPC) at the World Economic Forum in Davos in January 2005. 2 A few years later, in 2007, Plan Ceibal started in Uruguay, with the aim of providing one OLPC computer to every primary student in the country. The programme in Uruguay was very visible in the media in Argentina, putting some pressure on the Argentine Government, that after evaluating the OLPC option decided to create a similar plan, but using the technology developed by Intel. In 2010, Conectar Igualdad becomes the biggest programme of netbook distribution to students in the world. It was aimed at giving a computer to every student and every teacher in state secondary schools, to provide connectivity to these schools and teacher training. 3 According to official data it deployed 3,800,000 computers by March 2014. In a federal country were each of the 24 provinces manages its own educational system, the ‘implementation’ involved a ‘scaling down’ from the national state that was the owner of the programme, to the provinces, to schools and finally to the classroom where it was supposed to influence teaching and learning practices. From a traditional perspective it would be possible to analyse how the global vision of Negroponte was transformed at the national level in Argentina, it would be possible to look at how regional forces (mainly the similar programme in Uruguay and other Latin American countries) contributed to shape the programme in Argentina, and how the national framework was transformed as it moved into the provincial level, then into the school level and, finally, into classrooms. However, the problem with such an approach is that, as has been discussed, it involves establishing clear and static borders between what could be called a global realm, a regional, national, provincial, etc., and in this way it domesticates and at the same time hides some of the complexities involved in social/educational processes.
+
+Instead we decided to approach our project through a relational notion of space and, more specifically, through the use of ANT. We will not develop here a full explanation of both approaches, but rather introduce some basic concepts to illustrate how the use of these perspectives can illuminate some power relations that would not be so clearly visible if we would have followed the approach suggested in the previous paragraph.
+
+Relational notions of space imply understanding space as constituted by a series of relations between social actors. A key concept in this perspective is
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+11
+
+the notion of networks as a form of social organisation and as a methodological concept to understand and map social relations and space. Networks are not contained within space, networks produce and shape space. Thus, from a relational perspective there is no such thing as an absolute space, rather different networks coexist, making different spaces. The study of space is no longer based on the classical analysis of topographical maps, it is rather aimed at the analysis of processes of network configuration in which different kind of actors are assembled in such a way that it allows the network to perform certain functions (Murdoch 2006). Space is seen as an effect, not a container of social processes.
+
+One way to analyse space as relational and to follow networks that construct space is through the use of ANT. According to Corcuff (2013) ANT originated from the stream of pragmatic sociology in the late 1970s in France with the publication of ‘Life in the laboratory: the construction of scientific facts’, by Latour and Woolgar (1979). Along with Boltanski, Latour proposed an anti-essentialist research agenda aimed at overcoming the dualism of social theory: micro–macro, individual–collective, subject–object, social–natural, material–cultural, human–non-human, technical–social, among others. From this perspective, when analysing social action these binaries should be interpreted as being two sides of the same coin; not as essential oppositions, but rather as effects of networks (Latour 1990, 1999, 2005).
+
+After two decades of growing in the field of science and technology, giving light to sociotechnical thought, ANT has spread its hybrid seed in fertile new fields such as post-structuralist geography, complexity theory, development studies and in educational research. Most of the empirical work of ANT in educational research is related to two sets of issues: (1) the analysis of the socio-material construction of classrooms in science education, and of the ensembles that sustain old and new learning technologies in different educational settings and (2) the hybrid nature of power relations in education institutions. These two issues are in many cases combined. So, for example, McGregor (2004) traces how different objects in a school science lab (e.g., laboratory preparation materials) shape teaching practices. Fenwick (1998) shows how keys to rooms are a source of power in the everyday life of teachers in a public school. Nespor (1994) studied the networks of power and knowledge that are created through the different ways in which space and time are organised in physics and business courses in university.
+
+Resnik (2006, 2007a, 2007b, 2008, 2011, 2012) has used ANT in the NeoWeberian perspective she developed to study educational reforms in Israel and France, tracing the networks of policy actors that influenced and participated in these reforms. In her work, the use of ANT contributes to an analysis of education policies from outside the global/local binary. In her recent research on the International Baccalaureate, she is also exploring the use of ANT to construct a ‘multiscale vision which integrates analysis at the macro, mezzo
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+12
+
+J. Beech and A. Artopoulos
+
+and micro level’. It is curious that there are, as far as we know, no other empirical studies based on ANT that deal with the macro–micro and the global–local duality in education research. The effort to overcome these binaries has been a point of departure in innovation studies based on ANT, such as the classical study of Callon about the electric car (Callon 1986), and is at the centre of the latest research developments by Latour and his colleagues in the Medialab at Science Po. 4 The Medea Project, for example, is aimed at mapping the controversies in the global debate about climate change (Venturini et al. 2014), and makes a strong case for forgetting the ontological distinction between a micro/individual/local level and a macro/global/collective one.
+
+It is this kind of work that has inspired us to think that the use of ANT and other relational approaches to the conceptualisation of space and the analysis of social relations can contribute to address some of the problems associated with traditional vocabularies that we have pointed to in the first parts of this article.
+
+It might be useful to clarify, as a starting point, that the ‘socio-material’ concepts of ANT are observational tools for the visualisation of networks ties, making visible both social and material relations in a seamless web (Hughes 1986; Callon 1986; Latour 1987, 1988). ANT’s key contribution is to provide analytic methods that do not pretend to crystallise practice. It is a theoretical approach that ‘honour[s] the mess, disorder and ambivalences that order phenomena, including education.’ (Fenwick and Edwards 2010). ANT construes practices as moving targets that can be traced along the way of their disturbances.
+
+One of the aims of ANT is to contribute to open up the black box of innovation and make visible the processes through which social change takes place. For the socio-material school, social reproduction is impossible, because the so-called ‘social’ is always in a process of disturbance. The notion of ‘social reproduction’ is comfortable for social scientists, partly because it is a veil that covers a great deal of social change. It provides a false sense of stability that obscures some of the messiness of the socio-material world. On the contrary, following ANT we suggest that the social sciences have to reveal innovation as a permanent and contingent process of construction and reconstruction; or, in ANT’s langue, processes of assemblage and reassemblage (Latour 2005).
+
+Distinctions, such as those between the social and natural, between the material and cultural, between the technical and social and between the global and the local are taken to be effects rather than foundational assumptions. In particular, they are taken to be network effects. The social is an assemblage with an infinite scale of interconnections that support, through their relations, the meaning of our world.
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+13
+
+A fundamental principle in ANT is the concept of symmetry. ANT is based on a post-humanist radical conception of society when it assumes that nonhuman objects have agency and should not be treated any different from humans, because ‘without the nonhuman, the humans would not last for a minute’ (Latour 2004, 91). Thus, from this perspective objects are not neutral, they exert force, they seduce, they repel, they can join with other things and with humans and change in the process (Fenwick and Edwards 2010). In this way they form networks that can have certain stability but also have gaps and are always subject to change in terms of how actors (human and non-human) are assembled. Fenwick and Edwards (2010) illustrate this point with the case of a textbook that connects policy-makers, experts, publishers, teachers, students, parents, contents and theories, conceptions of how people learn, a curriculum, etc. Through the textbook all of these actors are exerting power on the classroom, and contributing to define what should be learnt and how. If the textbook is replaced by another textbook a new network comes into play. In ANT these networks of humans and non-humans are called assemblages. Translation is the process through which actors join a network and assemblages are brought together (Callon 1986). In this process both human and non-human entities act upon and change each other, and in this way they become part of a coordinated actor-network that performs certain goals. When the process of translation is successful, the network can become stable, taken for granted and black-boxed. Yet, translations can also be partial producing weak connections, and unstable networks. (Fenwick and Edwards 2010). In that sense the concept of translation in ANT focuses on micro connections that generate ordering effects such as devices or organisations (Law 1992), and is based on the notion that these are always dynamic and open to negotiation, resistance, seduction and change.
+
+The stability of assemblages is generally taken for granted and, in this way, the power relations that constitute the network are ‘black-boxed’. But any given day a connection in the assemblage is broken, and the nude body of the assemblage, just like the body of the emperor, is revealed. This innovation could be the result of a conscious decision of a human actor, or not. Most of the time we point our finger to human actors, as if they were the only capable of having agency. Reforms fail because of lack of teacher commitment; computers are not used in the classroom because principals are far from the knowledge economy. Non-human actors are ignored and made invisible until something is broken, or is missing, or fails. Our purpose here is, like Latour (2005) said, to reassemble the interaction between social actors and material objects as a construct that provides dynamism to educational policies at a global scale.
+
+In order to present an empirical example of how these theoretical framework could be used, we will present some vignettes from our own research on the PCI in Argentina. Instead of starting from Negroponte, the MIT and the influence of
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+14
+
+J. Beech and A. Artopoulos
+
+‘global forces’ we will start from an apparently small localised incident that we repeatedly noted in almost every lesson that we observed: classes started systematically 15–20 minutes late. Delays were the result of the long setting up required to have a computer per students and to connect all of the computers in the room to an internal network through software called E-Learning Class. Many students did not bring their computers since they saw the artefact as a personal entertainment tool not so strongly associated with schooling. Other students had computers but flat batteries. They did not have the charger, or the room did not have enough plugs to plug in all of the chargers. But even once the teachers were able to get replacement computers and/or students working in pairs or groups, a long time was spent trying to connect all computers through the internal network.
+
+This can be seen as a strongly localised event. However, by using ANT and reconstructing the assemblage of (human and non-human) actors that construct the space of the classroom it is possible to shed light on a much more complex set of issues and actors that contributed to these delays. A fundamental component of the original design of PCI was to provide connectivity to schools. However, the programme that was very efficient in distributing the computers was quite unsuccessful in this aspect: a small percentage of schools have connectivity and when they have it the bandwidth is not enough to cope with hundreds of computers connected at the same time. So, faced with this situation, PCI defined an alternative strategy in which software and digital learning environments were uploaded to school servers and could be accessed by students and teachers through an internal digital network. These internal networks were based on the installation of access points (hardware similar to a router) and software called E-Learning Class that connects all computers in a classroom, giving teachers the possibility of seeing in their screen what students can see in their own, of operating on students’ computers, and of sharing files with students. In this way E-Learning Class became an emerging actor with a huge influence on the effects of PCI. Teacher education strategies, both national and provincial emphasised the use of the software as a way of managing the classroom, and teachers were keen on using it because it helped them retain control over students. Interestingly the name of the software was translated in Spanish as programa maestro – teacher programme or master programme. In addition, since projectors were not part of the hardware distributed by the programme, the use of the internal network was the only way that teachers had to share, for example, a video with their students. This software and the internal network became central actors in the strategy of the programme to translate a traditional ‘chalk and backboard’ class into a class with digital technology.
+
+How can these delays be interpreted? Some of the problems were created at the national level, in which the bidding process for access points omitted some specifications that were necessary for this artefact to work with the available
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+15
+
+computers. The lack of Internet connection and problems with teacher training strategies are shared responsibilities between the national and provincial governments. The problems in software can be attributed to the Chinese company that created it, hired by a multinational corporation (Intel). And the software was included in the computers by small and big companies that sold the netbooks to the Argentine state. Teachers also play a role, when they insist on connecting all of the computers before starting the class, and students when they do not bring their computers with full batteries from home. Schools did not have the proper electrical configuration.
+
+So, what we can see is a multifaceted, multi-layered incident that makes visible the interaction between actors that are global, national, provincial, local and others that are not easily classifiable in that logic. In other words, what we visualise, by using ANT, is the construction of a network of social and material interactions between students, teachers, students’ computers, schools, classrooms, software, batteries, chargers, electrical plugs, replacement computers, connectivity, the Internet, digital files, digital videos, digital learning environments, school servers, access points, internal networks, teacher education strategies, Intel, a Chinese software company, other software companies, companies who sell the computers, the Argentine national state and provincial and municipal states. This network has power effects in defining what it means to teach and study in an Argentine secondary school. These power effects are not purely global, nor local, nor are they simply the recontextualisation of global forces by local agents.
+
+Furthermore, by reconstructing the assemblages that shape the classroom as a networked space it is possible to make some connections visible that would have been difficult to grasp from a methodological perspective that favoured the analysis of PCI as a state policy, centring the empirical gaze on official discourse and the way it is enacted in practice. For example, the Law of National Education in Argentina establishes that ‘the National State will not sign bilateral or multilateral free trade agreements that imply conceiving education as a lucrative service or promote any form of commodification of public education’ (Art. 10; Argentina 2006). This is one of many signs that point towards a resistance of the Argentine official education sector to market forces and the involvement of for profit corporations in educational settings (Beech and Barrenechea 2011). However, as has been shown, corporations such as the Chinese software company that produced E-Learning Class, Intel, Microsoft (computers are handed out with a version of Office) and other private corporations are deploying their power in Argentine classrooms through projects such as PCI. So, this small example serves to illustrate the point that power in education is not always and necessarily visible in state policies, and that as researchers we need to be alert to different forms and mechanisms of influence. It is the reconstruction of the assemblage of the classroom through a relational approach such as ANT and the analytical inclusion of non-human actors in the network that contribute to making these power relations visible.
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+16
+
+J. Beech and A. Artopoulos
+
+These two incidents are only vignettes to illustrate two points that we are trying to make. In the first place, that through relational conceptions of space and, in this case, through the use of ANT it is possible to trace the construction of networked space as an effect of social processes and power relations and not only as a container of social phenomena. This type of approach helps to go beyond fixed and static binaries such as global/local and macro/micro (among others) and contributes to the visibility of a more complex map of power relations. The second point we wanted to illustrate is related to the call to amplify our empirical gaze beyond state policies. The concept of delegation in ANT refers to the capacity to act at a distance through objects. In the case we analysed, as computers and a whole new socio-material assemblage reconfigured the spatial conditions of the classroom, actors such as private enterprises and many others became part of that space and have a new type of influence in redefining forms of teacher–student relations, what it means to teach and to learn, and what type of knowledge is valid.
+
+Some final remarks Throughout this paper we offered some thoughts on how comparative research on the circulation of educational discourse and power across space could be enhanced by using new theoretical and methodological tools. We started by noting some of the weaknesses of established vocabularies, such as the concepts of transfer, globalisation and policy borrowing. Overall, our main criticisms were related to how the concept of space is defined (explicitly or implicitly) in some of the uses of these concepts. So, maybe the most important point we want to make is that when analysing the circulation of educational knowledge and power in the educational field, we are inevitably leading with the concept of space. Thus, we need to reflect upon and make explicit how we construe space and how we are using the concept. As an example we used relational notions of space and, in particular ANT, to show the kind of power relations that can be made visible with this kind of approaches. Maybe a word of caution is necessary.
+
+It is not our aim to suggest that concepts of transfer, globalisation or policy borrowing have to be discarded. What we need is to assess to what extent they are useful to open up the complexities within the social processes under analysis, and to what extent they are used as a comfortable way of avoiding complexity. Nor are we preaching the use of ANT as a grand theoretical and methodological panacea. There are many other interesting and inspiring approaches such as the notion of global ethnography (Burawoy et al. 2000; Epstein, Fahey, and Kenway 2013), the concept of policyscapes (Carney 2009) and Ball and Junemann’s (2012) idea of network ethnography. What all of these approaches have in common is the idea that the globalisation of education can be studied through a quasi-ethnographic approach in which networked space is reconstructed and mapped from the empirical observation
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+Globalisation, Societies and Education
+
+17
+
+of particular events, but also considering structural historical issues in the analysis. Not only do we need to ask new types of questions, but also look for answer in different places, as Stephen Ball (2012) suggests, when he even argues that education policy researchers should become regular readers of the Financial Times and the Wall Street Journal.
+
+The phenomena we are analysing is not stable, it is always changing, becoming and in the move. Being aware of this situation, and the speed in which change is happening, especially when looking at ‘the globalization of education’, poses a huge challenge to our methodological certainties and our sociological imagination. Hopefully, through the discussion that has been offered we have provided some inspiration to face those challenges.
+
+Disclosure statement
+
+No potential conflict of interest was reported by the authors.
+
+Notes
+
+1. For an extended discussion see Larsen and Beech (2014).
+
+2. http://www.laptop.org/en/vision/project/index.shtml (Accessed March 28, 2014).
+
+3. The programme has other aspects, such as the distribution of computers to teacher training institutions and special schools, but it is not the intention here to provide a general description or evaluation of the programme.
+
+4. http://www.medialab.sciences-po.fr/about/ (Accessed January 28, 2015).
+
+ORCID Jason Beech http://orcid.org/0000-0002-4971-7665 Alejandro Artopoulos http://orcid.org/0000-0003-4554-2412
+
+References
+
+Alliaud, A. 1993. Los maestros y su historia: los orígenes del magisterio argentino [Teachers and Their History: The Origins of Argentine Teachers]. Buenos Aires: Biblioteca Polìtica Argentina Apple, M. 2010. Globalization, Social Justice, and Education. New York, NY:
+
+Routledge.
+
+Argentina. 2006. Ley de Educación Nacional [National Law of Education]. Approved December 14th 2006.
+
+Baker, D. P., and G. K. Le Tendre. 2005. National Differences, Global Similarities:
+
+World Culture and the Future of Schooling. Stanford: Stanford University Press. Ball, S. J. 2012. Global Education Inc.: New Policy Networks and the Neo-liberal Imaginary. London: Routledge.
+
+Ball, S. J., and C. Junemann. 2012. Networks, New Governance and Education.
+
+Chicago, IL: The Policy Press.
+
+Bayly, C. A., Sven Beckert, Mathew Connelly, Isabel Hofmeyr, Wendy Kozol, and Patricia Seed. 2006. “AHR Conversation: On Transnational History”. The American Historical Review 111 (5): 1441–1464. doi:10.1086/ahr.111.5.1441.
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+18 J. Beech and A. Artopoulos Beech, Jason. 2006. “The Theme of Educational Transfer in Comparative Education:
+
+A View over Time.” Research in Comparative and International Education 1 (1): 2–13. doi:10.2304/rcie.2006.1.1.2.
+
+Beech, Jason. 2011. Global Panaceas, Local Realities: International Agencies and the Future of Education. Frankfurt: Peter Lang.
+
+Beech, Jason, and Ignacio Barrenechea. 2011. “Pro-market Educational Governance:
+
+Is Argentina a Black Swan?” Critical Studies in Education 52 (3): 279–293. doi:10.1080/17508487.2011.604077.
+
+Burawoy, Michael, J. A. Blum, Sheba George, Zsuzsa Gille, Teresa Gowan, Lynne Haney, Maren Klawiter, S. H. López, Sean O. Riain, and Millie Thayer. 2000. Global Ethnography: Forces, Connections and Imaginations. Berkeley: University of California Press.
+
+Callon, Michel. 1986. “The Sociology of an Actor-network: The Case of the Electric Vehicle.” In Mapping the Dynamics of Science and Technology, edited by M. Callon, John Law, and Arie Rip, 19–34. Basingstoke: Macmillan.
+
+Carney, Stephen. 2009. “Negotiating Policy in an Age of Globalization: Exploring Educational ‘Policyscapes’ in Denmark, Nepal, and China.” Comparative Education Review 53 (1): 63–88. doi:10.1086/593152.
+
+Castells, Manuel. 2000. “Materials for an Exploratory Theory of the Network Society.”
+
+British Journal of Sociology 51 (1): 5–24. doi:10.1080/000713100358408. Corcuff, Philippe. 2013. Las nuevas sociologías. Principales corrientes y debates, 1980–2010. Buenos Aires: Siglo XXI Ediciones.
+
+Cresswell, Tim. 2004. Place: A Short Introduction. Oxford: Blackwell.
+
+Dale, Roger. 2005. “Globalisation, Knowledge Economy and Comparative Education.” Comparative Education 41 (2): 117–149. doi:10.1080/03050060500150906. Dale, Roger, and Susan Robertson. 2009. “Beyond Methodological ‘isms’ in Comparative Education in an Era of Globalisation.” In International Handbook of Comparative Education, edited by Robert Cowen and A. M. Kazamias, 11131127. Dordrecht: Springer.
+
+Epstein, Debbie, Johannah Fahey, and Jane Kenway. 2013 “Multi-sited Global Ethnography and Travel: Gendered Journeys in Three Registers.” International Journal of Qualitative Studies in Education 26 (4): 470–488. doi:10.1080/09518 398.2013.765613.
+
+Escobar, Arturo. 2001. “Culture Sits in Places: Reflections on Globalism and Subaltern Strategies of Localization.” Political Geography 20 (2): 139–174. doi:10.1016/ S0962-6298(00)00064-0.
+
+Fenwick, Tara. 1998. “Managing Space, Energy, and Self: Beyond Classroom Management with Junior High School Teachers.” Teachers and Teacher Education, an International Journal of Research and Studies 14 (6): 619–631. Fenwick, Tara, and Richard Edwards. 2010. Actor-network Theory in Education.
+
+London: Routledge.
+
+Harvey, David. 1989. The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change. Oxford: Basil Blackwell.
+
+Held, David, and Anthony McGrew. 1999. Global Transformations: Politics, Economics and Culture. Stanford: Stanford University Press.
+
+Hughes, T. P. 1986. “The Seamless Web: Technology, Science, Etcetera, Etcetera.”
+
+Social Studies of Science 16 (2): 281– 292. doi:10.1177/0306312786016002004. Larsen, Marianne. 2011. The Making and Shaping of the Victorian Teacher: A Comparative, New Cultural History. London: Palgrave McMillan.
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+19 Larsen, Marianne and Jason Beech. 2014. “Spatial Theorizing in Comparative and International Education Research.” Comparative Education Review 58 (2): 191–214. doi:10.1086/675499.
+
+Globalisation, Societies and Education
+
+Latour, Bruno. 1987. Science in Action. Milton Keynes: Open University Press. Latour, Bruno. 1988. “The Prince for Machines as Well as for Machinations.” In Technology and Social Process, edited by B. A. Elliot, 20–43. Edinburgh: Edinburgh University Press.
+
+Latour, Bruno. 1990. “Technology is Society Made Durable.” The Sociological Review 38 (S1): 103–131. doi:10.1111/j.1467-954X.1990.tb03350.x.
+
+Latour, Bruno. 1999. “On Recalling ANT.” The Sociological Review 47 (S1): 15–25.
+
+doi:10.1111/j.1467-954X.1999.tb03480.x.
+
+Latour, Bruno. 2004. “Why has Critique Run Out of Steam? From Matters of Fact to Matters of Concern.” Critical Inquiry 30 (2): 225–248. doi:10.1086/421123. Latour, Bruno. 2005. Reassembling the Social: An Introduction to Actor–network Theory. New York: Oxford University Press.
+
+Latour, Bruno, and Steve Woolgar. 1979. Laboratory Life: The Construction of Scientific Facts. Princeton, NJ: Princeton University Press.
+
+Law, John. 1992. “Notes on the Theory of the Actor-network: Ordering, Strategy, and Heterogeneity.” Systems Practice 5 (4): 379–393. doi:10.1007/BF01059830. Litz, David. 2011. “Globalization and the Changing Face of Educational Leadership:
+
+Current Trends & Emerging Dilemmas.” International Education Studies 4 (3): 47–61. doi:10.5539/ies.v4n3p47.
+
+Massey, Doreen. 2009. “The Possibilities of a Politics of Place Beyond Place? A Conversation with Doreen Massey.” Scottish Geographical Journal 125 (December): 401–420.
+
+McGregor, Jane. 2004. “Spatiality and the Place of the Material in Schools.” Pedagogy, Culture and Society 12 (3): 347–372. doi:10.1080/14681360400200207.
+
+Murdoch, Jonathan. 2006. Post-structuralist Geography: A Guide to Relational Space.
+
+London: Sage.
+
+Nespor, Jan. 1994. Knowledge in Motion. London: Falmer.
+
+Oría, Angela, and Silvina Gvirtz. 2004. “El Gobierno de la Educación: Revisando el concepto de ‘centralización programática y descentralización financiera [The Governing of Education: Revising the Concepts of Programatic Centralization and Financial Decentralization].’” In Modernidade e Escola: saberes, praticas e Institui ç oes, edited by Malu Almeida, 57–83. Sao Paulo: Alínea Editora. Phillips, David. 2000. “Learning from Elsewhere in Education: Some Perennial Problems Revisited with Reference to British Interest in Germany.” Comparative Education 36 (3): 297–307. doi:10.1080/713656617.
+
+Pineau, Pablo. 2001. “Docentes Indecentes: Las Maestras Fundadoras y El Respeto a Los Valores [Indecent Teachers: The Founding Teachers and the Respect for Values].” In La escuela mas allá del bien y el mal: ensayos sobre la transformación de los valores educativos, edited by Estanislao Antelo, 89–103. Santa Fe, NM: AMSAFE.
+
+Rappleye, Jeremy. 2012. “Reimagining Attraction and ‘Borrowing’ in Education:
+
+Introducing a Political Production Model.” In World Yearbook of Education 2012: Policy Borrowing and Lending in Education, edited by Gita Steiner-Khamsi and Florian Waldow, 121–147. New York: Routledge.
+
+Resnik, Julia. 2006. “International Organizations, the ‘Education–economic Growth’ Black Box, and the Development of World Education Culture.” Comparative Education Review 50 (2): 173–195. doi:10.1086/500692.
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+20 J. Beech and A. Artopoulos Resnik, Julia. 2007a. “Discourse Structuration in Israel, Democratization of Education and the Impact of the Global Network.” Journal of Education Policy 22 (2): 147–171.
+
+Resnik, Julia. 2007b. “Democratization of Education in France After World War II: A Neo-Weberian Glocal Analysis of Education Reform.” British Journal of Educational Studies 55 (2): 215–240.
+
+Resnik, Julia. 2008. “Introducing a Neo-Weberian Perspective in the Study of Globalization and Education: Structural Reforms of the Education Systems in France and Israel After WWII.” Oxford Review of Education 34 (4): 385–402. doi:10.1080/03054980701677546.
+
+Resnik, Julia. 2011. “The Construction of the Managerial Education Discourse and the Involvement of Philanthropic Entrepreneurs: The Case of Israel.” (in special issue ‘Global Education Policy: Networks and Flows’, edited by Sonia Exley, Annette Braun, and Stephen Ball) Critical Studies in Education 52 (3): 251–266. Resnik, Julia. 2012. “The Transformation of Education Policy in Israel.” In World Yearbook of Education 2012: Policy Borrowing and Lending in Education, edited by Gita Steiner-Khamsi and Florian Waldow, 264–290. London: Routledge. Rizvi, Fazal, and Bob Lingard. 2010. Globalizing Education Policy. New York:
+
+Routledge.
+
+Roldan, V. E. 2011. “Internacionalización pedagógica y comunicación en perspectiva histórica: la introducción del método de enseñanza mutua en Hispanoamérica independiente [Pedagogic Internationalization in Historical Perspective: The Introduction of the Lancasterian System of Instruction in Independent Hispanic America].” In Internacionalización. Políticas educativas y reflexión pedagógica en un medio global, edited by Marcelo Caruso and H. E. Tenorth. Buenos, 297343. Aires: Granica.
+
+Sassen, Saskia. 2000. “Spatialities and Temporalities of the Global: Elements for a Theorization.” Public Culture 12 (1): 215– 232. doi:10.1215/08992363-12-1-215. Schriewer, Jurgen. 2000. “Comparative Education Methodology in Transition:
+
+Towards a Science of Complexity?” In Discourse Formation in Comparative Education, edited by Jurgen Schriewer, 3–53. Frankfurt am Main: Peter Lang. Silova, Iveta. 2012. “Contested Meanings of Educational Borrowing.” In World Yearbook of Education 2012: Policy Borrowing and Lending in Education, edited by Gita Steiner-Khamsi and Florian Waldow, 229–245. New York: Routledge. Steiner-Khamsi, Gita. 2000. “Transferring Education, Displacing Reforms.” In Discourse Formation in Comparative Education, edited by Jurgen Schriewer, 155–187. Frankfurt am Main: Peter Lang.
+
+Tarc, Paul. 2012. “The Uses of Globalization in the (Shifting) Landscape of Educational Studies.” Canadian Journal of Education 35 (3): 4–29.
+
+Torres, C. A. 2008. Education and Neoliberal Globalization. New York: Routledge. Tuan, Y.-F. 1974. “American Space, Chinese Place.” Harper’s Magazine July 8. Tuan, Y.-F. 1977. Space and Place: The Perspective of Experience. Minneapolis:
+
+University of Minnesota Press.
+
+Tyack, David, and Larry Cuban. 1995. Tinkering toward Utopia: A Century of Public School Reform. Cambridge, MA: Harvard University Press.
+
+Velleman, B. L. 2001. “My Dear Sir”, Mary Mann’s Letters to Sarmiento (1865–1881).
+
+Buenos Aires: I.C.A.N.A.
+
+Venturini, T., Baya Laffite, N., Cointet, J.-P., Gray, I., Zabban, V., and De Pryck, K.
+
+2014. “Three Maps and Three Misunderstandings: A Digital Mapping of Climate Diplomacy.” Big Data & Society 1 (2): 1–19. doi:10.1177/2053951714543804. Waters, Malcom. 2001. Globalization. 2nd ed. London: Routledge.
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
+21 Wimmer, Andreas, and Nina Glick Schiller. 2002. “Methodological Nationalism and beyond: Nation State Formation, Migration and the Social Sciences.” Global Networks: A Journal of Transnational Affairs 2 (4): 301–334. doi:10.1111/14710374.00043. Zimmermann, Eduardo. 2009. “Global Intellectual Elites.” In The Palgrave Dictionary of Transnational History, edited by Akira Iriye and P. I. Saunier. London: Palgrave/Macmillan.
+
+Globalisation, Societies and Education
+
+Downloaded by
+
+[RMIT University]
+
+at 02:40
+
+01 March
+
+2016
+
