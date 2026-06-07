@@ -5,7 +5,7 @@ aliases:
   - 结果导向
   - outcomes
   - outcomes-based education
-summary: "比较教育的四种理解形式之一，从 Lauwerys 的受教育身份文化理解转向 IEA 和 PISA 的效率测量，成为新自由主义经济定义下的效率运动附属品"
+summary: 比较教育的四种理解形式之一，从 Lauwerys 的受教育身份文化理解转向 IEA 和 PISA 的效率测量，成为新自由主义经济定义下的效率运动附属品
 type: concept
 tags:
   - theme/comparative-education
