@@ -7,10 +7,10 @@ extracted_to:
   - "[[Regulatory Regionalism]]"
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
-  - "[[Minerva University]]"
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Christiane Thompson]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Minerva University]]"
 processed_date: 2026-05-07
 ---
 

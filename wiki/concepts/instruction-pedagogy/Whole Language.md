@@ -2,14 +2,15 @@
 title: Whole Language
 aliases:
   - 全语言
-summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
+  - 整体语言教学
+summary: 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。
 type: concept
 tags:
-- whole-language
-- literacy
-- subject/curriculum
-- level/k12
-- paradigm/constructivist
+  - whole-language
+  - literacy
+  - subject/curriculum
+  - level/k12
+  - paradigm/constructivist
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -35,8 +36,8 @@ sources:
   - "[[Snook_2009_NZJES]]"
 confidence: medium
 status: draft
-created: '2026-05-03'
-updated: '2026-05-18'
+created: 2026-05-03
+updated: 2026-05-18
 ---
 
 ## 定义

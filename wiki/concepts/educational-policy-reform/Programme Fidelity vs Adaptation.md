@@ -12,6 +12,7 @@ tags:
 - adaptation
 - level/k12
 related_concepts:
+  - "[[Homework]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 > - 当方案无法完全复制时，理解你偏离了什么以及为什么偏离，比盲目追求忠实更重要（Cowen et al., 2015, p.30）
 > - 经济学家 Angus Deaton 的论证：一个与你更相似的邻近学校的经验（即使其修改了方案），可能比一个"完美"[[Randomised Controlled Trials|RCT]] 的均值结果更具预测价值（Cowen et al., 2015, p.18-19）
 >
-> > 例：一个家庭作业方案要求学生在家完成作业，但在某些学校学生缺乏合适的学习空间。替代方案——开设课后作业俱乐部——起到了相同的功能（提供安静的学习环境），但形式上不同于原始方案（Cartwright and Cowen, 2014; 引自 Cowen et al., 2015, p.18）
+> > 例：一个[[Homework|家庭作业]]方案要求学生在家完成作业，但在某些学校学生缺乏合适的学习空间。替代方案——开设课后作业俱乐部——起到了相同的功能（提供安静的学习环境），但形式上不同于原始方案（Cartwright and Cowen, 2014; 引自 Cowen et al., 2015, p.18）
 
 
 > [!abstract] Tennessee STAR 与加州班级缩减：Fidelity vs Adaptation 的经典案例（Wiliam, 2019）

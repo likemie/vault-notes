@@ -4,8 +4,8 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Argument_Simpson_2019]]"
   - "[[Adrian Simpson]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

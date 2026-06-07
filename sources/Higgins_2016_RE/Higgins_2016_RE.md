@@ -1,15 +1,17 @@
 ---
 citation: "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53."
 extracted_to:
-  - "[[Argument_Higgins_2016_RE]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Effect Size]]"
   - "[[Individualised Instruction]]"
   - "[[Whole Language]]"
   - "[[Publication Bias]]"
+  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Homework]]"
+  - "[[Effect Size]]"
   - "[[Intervention Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[John Hattie]]"
 processed_date: 2026-06-08
 ---

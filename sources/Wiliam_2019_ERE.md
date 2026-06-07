@@ -4,18 +4,18 @@ extracted_to:
   - "[[Argument_Wiliam_2019]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Validity as Inferences]]"
   - "[[California Class Size Reduction 1996]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Dylan Wiliam]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
   - "[[Class Size]]"
   - "[[Adrian Simpson]]"
-  - "[[Meta-analysis]]"
+  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-01
 ---
 

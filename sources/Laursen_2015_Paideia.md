@@ -3,8 +3,6 @@ citation: "Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (
 extracted_to:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Effective Teaching]]"
-  - "[[Feedback]]"
-  - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[SFI Report]]"
   - "[[Jill Mehlbye]]"
@@ -14,6 +12,8 @@ extracted_to:
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Individualised Instruction]]"
+  - "[[Feedback]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
+  - "[[Homework]]"
   - "[[Entity vs Incremental Intelligence]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -68,7 +69,7 @@ Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了�
 
 ### 学校组织差异
 - 美国儿童在校天数更少，每日在校时间更短
-- 亚洲教师布置更多作业
+- 亚洲教师布置更多[[Homework|作业]]
 - 亚洲家长对子女成就表达了不满——即使成就已经很高
 
 ### 对错误和公开评价的态度差异

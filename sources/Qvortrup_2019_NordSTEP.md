@@ -6,7 +6,6 @@ extracted_to:
   - "[[Structural Coupling]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
-  - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[Hattie på dansk]]"
   - "[[Lars Qvortrup]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Bounded Rationality]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
   - "[[Meta-analysis]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-03

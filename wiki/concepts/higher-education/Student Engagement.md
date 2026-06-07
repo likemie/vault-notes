@@ -10,6 +10,7 @@ tags:
 - higher-education
 - level/higher-ed
 related_concepts:
+  - "[[Homework]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
   - "[[Student Involvement]]"
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 > [!quote]
 > 学生的专注或投入（engagement）——往学校里的"教育性实践"活动中投入的时间和精力——越多，越可能产出积极的教育结果（[[Yajun Zheng|郑雅君]]，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 
-"教育性实践活动"涵盖课内外：既包括学业相关活动（上课、完成作业、与教师讨论），也包括课外活动（学生组织、社团、实习、志愿服务、同伴交往）。Kuh 的核心假设是：投入是连接学生在校经历与教育产出的关键中介[[Variable|变量]]——学校提供机会，学生决定在多大程度上利用这些机会（[[Yajun Zheng|郑雅君]]，2023）。
+"教育性实践活动"涵盖课内外：既包括学业相关活动（上课、完成[[Homework|作业]]、与教师讨论），也包括课外活动（学生组织、社团、实习、志愿服务、同伴交往）。Kuh 的核心假设是：投入是连接学生在校经历与教育产出的关键中介[[Variable|变量]]——学校提供机会，学生决定在多大程度上利用这些机会（[[Yajun Zheng|郑雅君]]，2023）。
 
 [[Yajun Zheng|郑雅君]]（2023）将该概念作为"大学过程"三层嵌套[[Analytic Framework|分析框架]]中"投入过程"的理论基础之一。
 

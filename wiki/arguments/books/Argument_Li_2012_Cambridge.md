@@ -53,6 +53,7 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Establishing One's Will]]"
+  - "[[Homework]]"
   - "[[Examination Hell]]"
   - "[[Rote Learning]]"
   - "[[Research Topic]]"
@@ -985,7 +986,7 @@ Li 在章首就亮出了本章要回答的问题："Do these respective learning
 
 > [!example] 奶奶是如何传递学习信念的？
 > 一位中国奶奶不会对孙子说"孔夫子曰学习要刻苦"。但她会做以下事情：
-> - 每天问"作业做完了吗？"
+> - 每天问"[[Homework|作业]]做完了吗？"
 > - 看到孙子玩时说"先写完作业再玩"
 > - 孙子考了 95 分时，她说"那 5 分丢在哪了？下次要更仔细"
 > - 孙子说"我不喜欢数学"时，她说"不喜欢也要学，把不喜欢的事做好才是真本事"

@@ -3,10 +3,10 @@ citation: "Nelson, J. & Campbell, C. (2017). Evidence-informed practice in educa
 extracted_to:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Evidence-Based Education]]"
-  - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Carol Campbell]]"
   - "[[Julie Nelson]]"
+  - "[[Evidence-Informed Practice]]"
 processed_date: 2026-05-01
 ---
 

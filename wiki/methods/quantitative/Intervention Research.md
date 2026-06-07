@@ -14,6 +14,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
+  - "[[Homework]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 >
 > - **干预效果**：相对于比较组或控制组的改善，其设计考虑了前后测之间的增长
 > - **成熟差异**：单组设计，只考虑了随时间的增长
-> - **相关效果**：如作业与学业表现之间的关系，与干预效果（有作业与无作业的比较）本质不同
+> - **相关效果**：如[[Homework|作业]]与学业表现之间的关系，与干预效果（有作业与无作业的比较）本质不同
 >
 > 这些研究中教育成就的底部分布可能不同，使比较失去意义。
 

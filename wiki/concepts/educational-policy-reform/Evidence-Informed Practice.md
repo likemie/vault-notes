@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Formative Assessment]]"
+  - "[[Homework]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -67,7 +68,7 @@ Nelson & Campbell (2017, p.129) 把 EIP 概括成四类资源的整合：
 
 1. **[[Professional Judgment|专业判断]]**：教育者基于经验、价值观和情境理解作出的判断
 2. **系统层面数据**：学校、学区、州/省或国家的管理与评估数据
-3. **课堂数据**：[[Formative Assessment|形成性评估]]、观察、学生作业等现场信息
+3. **课堂数据**：[[Formative Assessment|形成性评估]]、观察、学生[[Homework|作业]]等现场信息
 4. **研究证据**：来自学术研究的发现，包括但不限于[[Experimental Research|实验研究]]
 
 > [!example]

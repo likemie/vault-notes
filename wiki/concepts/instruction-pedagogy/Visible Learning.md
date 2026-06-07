@@ -13,6 +13,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Professional Judgment]]"
+  - "[[Homework]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Surface and Deep Learning]]"
@@ -55,6 +56,7 @@ related_persons:
   - "[[Dietrich Benner]]"
   - "[[Jill Mehlbye]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Cognition Education]]"
   - "[[Visible Learning in Sweden]]"
@@ -112,7 +114,7 @@ updated: '2026-05-21'
 ## 定义
 
 > [!info] 定义
-> Visible Learning 是 [[John Hattie]] 于 2009 年出版的 *Visible Learning: A synthesis of over 800 meta-analyses relating to achievement* 中提出的教育证据综合项目，将 800 余项[[Meta-analysis|元分析]]（涵盖数万项原始研究）汇总为一份"什么有效"的排名清单，以[[Effect Size|效应量]]（effect size）为标准对 150+ 项教学干预进行排序（McKnight & Whitburn, 2020, p.32）。英国教育部在 Coldwell et al.（2017）报告中将 Visible Learning 列为官方认可的"approved"证据来源之一（与 EEF 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。
+> Visible Learning 是 [[John Hattie]] 于 2009 年出版的 *Visible Learning: A synthesis of over 800 meta-analyses relating to achievement* 中提出的教育证据综合项目，将 800 余项[[Meta-analysis|元分析]]（涵盖数万项原始研究）汇总为一份"什么有效"的排名清单，以[[Effect Size|效应量]]（effect size）为标准对 150+ 项教学干预进行排序（McKnight & Whitburn, 2020, p.32）。英国教育部在 Coldwell et al.（2017）报告中将 Visible Learning 列为官方认可的"approved"证据来源之一（与 [[Education Endowment Foundation|EEF]] 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。
 >
 > 该项目后来扩展为一系列书籍、专业发展培训项目和学校改进方案，Hattie 本人将其描述为"scripted. To the word"（Hattie, in Knudsen, 2017, p.254），强调对方案的忠实执行。
 >
@@ -161,7 +163,7 @@ Hattie (2015) 对 VL 的自我解释把重点从“选择排名最高的教学�
 这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要追问提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
 
 > [!example]
-> 一个学校若只是把“高效应量策略”列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生作业、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是“Know thy impact”的实践含义（Hattie, 2015, pp.12-13）。
+> 一个学校若只是把“高效应量策略”列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是“Know thy impact”的实践含义（Hattie, 2015, pp.12-13）。
 
 ### 忠实实施（Fidelity）
 
@@ -426,7 +428,7 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 > [!example] 相关研究与案例
 > - [[Tomorrow's Schools Reforms]] — 创造了私营 [[Educational Management Organisation|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education|Cognition Education]] 直接起源于此改革
 > - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education 和 CORE Education 均为竞标者
-> - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
+> - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
 > - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 [[John Hattie|Hattie]] 从"教育英雄"转变为"教育敌人"
 > - [[Hattie på dansk]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评
 > - [[SFI Report]] — 检验 VL 及相关[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据

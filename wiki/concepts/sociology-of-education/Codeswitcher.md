@@ -15,6 +15,7 @@ tags:
   - theme/self-presentation
 related_concepts:
   - "[[Nerd]]"
+  - "[[Homework]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
@@ -56,7 +57,7 @@ updated: 2026-05-24
 - 附和"努力没什么用"的同伴话语
 
 **私下行为（backstage）**：在家庭和独处时——
-- 按部就班地完成作业和复习
+- 按部就班地完成[[Homework|作业]]和复习
 - 投入大量时间学习但不在学校提及
 - 维持或追求高学业成就
 

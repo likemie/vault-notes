@@ -9,9 +9,9 @@ extracted_to:
   - "[[Cluster Randomized Trials]]"
   - "[[Covariate Adjustment]]"
   - "[[Matching]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Potential Outcomes Framework]]"
   - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-03
 ---
 

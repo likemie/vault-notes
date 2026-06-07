@@ -5,9 +5,9 @@ extracted_to:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"
-  - "[[Visible Learning]]"
   - "[[Scott Eacott]]"
   - "[[Popper's Three Worlds Theory]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-07
 ---

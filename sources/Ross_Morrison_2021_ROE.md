@@ -4,11 +4,9 @@ extracted_to:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Absorptive Capacity]]"
   - "[[Evidence-Based Education]]"
-  - "[[Evidence-Informed Practice]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
-  - "[[Technology Infusion]]"
   - "[[Logic Model]]"
   - "[[Statistical Significance]]"
   - "[[ESSA 2015 Evidence Standards]]"
@@ -18,6 +16,8 @@ extracted_to:
   - "[[Quasi-Experimental Designs]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Technology Infusion]]"
   - "[[Effect Size]]"
 processed_date: 2026-05-23
 ---

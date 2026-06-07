@@ -14,6 +14,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Homework]]"
   - "[[Global Citizenship]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
@@ -62,7 +63,7 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 
 ### 教学法：完全主动学习
 
-Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座被定性为"教学上有害"。替代方案是"彻底翻转课堂"（fully flipped classroom）：所有讲座内容和作业在课前通过在线平台在家完成，课堂时间全部用于互动讨论。教授被要求每次发言不超过几分钟，主要角色是引导讨论而非讲授知识（Thompson & Parreira do Amaral, 2022, p.3）。
+Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座被定性为"教学上有害"。替代方案是"彻底翻转课堂"（fully flipped classroom）：所有讲座内容和[[Homework|作业]]在课前通过在线平台在家完成，课堂时间全部用于互动讨论。教授被要求每次发言不超过几分钟，主要角色是引导讨论而非讲授知识（Thompson & Parreira do Amaral, 2022, p.3）。
 
 这一模式声称基于"学习科学"（learning science）的发现：被动听讲的学习效果远低于主动参与。课堂以研讨会形式进行，每班不超过 20 名学生，以保证每个学生的充分参与（Parreira do Amaral, 2022, pp.46–47）。
 

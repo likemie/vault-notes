@@ -14,6 +14,7 @@ tags:
   - field/comparative-education
   - field/instruction-pedagogy
 related_concepts:
+  - "[[Homework]]"
   - "[[Revoicing]]"
   - "[[Action Better Than Words]]"
   - "[[Student Engagement]]"
@@ -52,7 +53,7 @@ updated: 2026-05-24
 
 **2. 沉默参与（Silent Participation）**
 
-Inagaki、Hatano 和 Morita 对日本课堂的研究发现，尽管口头表达很少，学生的日记和书面作业中充满了问题、困惑，甚至与那些在课堂上发言了的同伴的争论。这种形式被他们称为"silent participation"（Li, 2012, p.116-117）。
+Inagaki、Hatano 和 Morita 对日本课堂的研究发现，尽管口头表达很少，学生的日记和书面[[Homework|作业]]中充满了问题、困惑，甚至与那些在课堂上发言了的同伴的争论。这种形式被他们称为"silent participation"（Li, 2012, p.116-117）。
 
 **3. 倾听是主动的认知工作**
 
@@ -82,7 +83,7 @@ Inagaki、Hatano 和 Morita 对日本课堂的研究发现，尽管口头表达�
 > - Li 总结："对欧裔美国人，说话增强思考；对东亚人，说话干扰思考"
 
 **课堂观察**（Li, 2012, pp.116-117）：
-> - 日本学生"口头表达很少，但日记和书面作业中充满问题、困惑和争论"
+> - 日本学生"口头表达很少，但日记和书面[[Homework|作业]]中充满问题、困惑和争论"
 > - 中国学生被反复观察到"对教师表现出全神贯注的注意，即使从外部视角看教学并不那么引人入胜"
 > - 当被点到时，学生被期望**准备好回答并回答得好**——这种"准备就绪"被视为[[Student Engagement|学生投入]]和良好学习态度的标志
 

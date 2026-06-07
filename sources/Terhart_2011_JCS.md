@@ -2,14 +2,14 @@
 citation: "Terhart, E. (2011). Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning. Journal of Curriculum Studies, 43(3), 425–438."
 extracted_to:
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
   - "[[Jacob Cohen]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Research Question]]"
   - "[[Tracking]]"
+  - "[[Publication Bias]]"
   - "[[External Validity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -32,6 +33,8 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
@@ -41,13 +44,14 @@ related_methods:
   - "[[Black Box RCTs]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
-related_persons: []
+related_persons:
+  - "[[Karl Pearson]]"
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Wadhwa_2024_RER]]"
 sources:
+  - "[[Higgins_2016_RE]]"
   - "[[Berk_2011_ER]]"
   - "[[Pampaka_2016_IJRME]]"
   - "[[Peterson_2016_IJRME]]"
@@ -60,6 +64,7 @@ sources:
   - "[[Wadhwa_2024_RER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Tennessee STAR Project 1985-1989]]"
 confidence: medium
@@ -71,7 +76,14 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 随机对照试验（Randomised Controlled Trial, RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组来评估干预措施的效果。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的"黄金标准"——最严格、最科学的研究方法。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（Wrigley & McCusker, 2019, pp. 110, 114）。
+> 随机对照试验是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组来评估干预措施的效果。在[[Evidence-Based Education|证据本位教育]]中，随机对照试验被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（Wrigley & McCusker, 2019, pp. 110, 114）。
+
+> [!note] 历史背景
+> [[Karl Pearson|Karl Pearson]] 在 1904 年的伤寒疫苗分析中就提出了"每隔一位志愿者接种"的随机化试验方案，预见了随机对照试验的发展方向——尽管这一方法在 60 年后才被正式确立（Higgins, 2016, p.33）。
+>
+> 医学中随机对照试验的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量。Richard Peto 推广了[[Fixed-Effect and Random-Effects Models|固定效应模型]]，Larry Hedges（1983）倡导随机效应模型（Higgins, 2016, pp.38–39）。
+
+---
 
 ## 认识论立场
 
@@ -79,6 +91,8 @@ updated: '2026-05-18'
 > RCT 隐含经验主义和实证主义认识论：假设通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的因果过程（Wrigley & McCusker, 2019, pp. 112–115）。
 >
 > Wiliam (2019, p.9) 从效度理论角度补充了此批判：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性。这意味着即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。
+
+---
 
 ## 操作步骤
 
@@ -89,12 +103,16 @@ updated: '2026-05-18'
 > 4. **后测**：干预后测量两组的结果
 > 5. **分析**：计算标准化[[Effect Size|效应量]]（均值差除以标准差）
 
+---
+
 ## 适用场景
 
 > [!success] 适用场景
 > - 在医学领域（来源领域），RCT 适合在已有充分理论理解治疗机制的前提下评估特定治疗方案的效果
 > - 在教育领域，当[[Research Question|研究问题]]是关于可被离散定义的"干预"、且情境相对可控时，RCT 可能提供有用的比较信息
 > - 即使批判者也承认 RCT "可以挑战既有的专业习惯"和"突出替代方案"（Wrigley & McCusker, 2019, p. 123）
+
+---
 
 ## 局限性
 
@@ -183,13 +201,16 @@ updated: '2026-05-18'
 >
 > 这意味着在[[Tracking|能力分组]] RCT 中，如果最有效教师被分配给高成就学生——这在能力分组学校中极可能——观察到的"能力分组效应"可能完全是"教师分配效应"。**由于教师质量的效应量很可能远大于分组实践的任何差异，未测量教师质量的 RCT"难以看出这样的研究能对该问题提供什么洞见"**。（Wiliam, 2019, p.9）
 >
-> EEF 当前关于能力分组的 RCT（EEF, 2019）印证了这些问题：由于无法获得学校同意而**未使用随机分配**，且**没有教师质量的直接测量**——因此不可能确定任何学生成就效应是由分组方式还是由教师质量引起。（Wiliam, 2019, pp.8–9）
+> [[Education Endowment Foundation|EEF]] 当前关于能力分组的 RCT（EEF, 2019）印证了这些问题：由于无法获得学校同意而**未使用随机分配**，且**没有教师质量的直接测量**——因此不可能确定任何学生成就效应是由分组方式还是由教师质量引起。（Wiliam, 2019, pp.8–9）
 >
 > #### 成功率基准：大量教育干预 RCT 未能在标准化学业成就测验上产生可见改进
 >
 > Kraft（2023）在 3,426 个教育干预 RCT 效应量的扩展样本中发现，若结果限定为标准化学业成就测验，36% 的效应量小于 0.05，整体中位数约为 0.10。这一发现把 RCT 的政策解释问题从"某个正效应是否足够大"转向"教育干预经常失败"：在美国等高收入、K-12 体系已高度制度化的情境中，社会不平等、政治系统、制度结构和行动者都会强力塑造干预设计与实施，使教育改进本身极为困难（Kraft, 2023, p.183）。
 >
 > Kraft 同时强调，多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比。他引用 Fryer（2017）综述中的[[Coding in Qualitative Research|编码]]结果指出，94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计；因此在典型政策语境中，效应方向可以解释为"干预是否相对当前实践提高了学生结果"（Kraft, 2023, p.185）。
+
+> [!warning] 反事实条件随时间变化
+> 早期 RCT 的结果可能随时间推移而变得不再适用。Higgins（2016）指出，同伴辅导的早期研究往往有更大的效应量，但这究竟是评估质量较低、[[Publication Bias|发表偏差]]、分配偏差、研究者偏差的结果，还是真实反映了反事实条件的变化使得更大效果更难实现，目前尚不清楚（Higgins, 2016, p.44；参见 Lemons et al., 2014）。这意味着教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
 
 
 > [!warning] 效度、推断与外部批判
@@ -290,11 +311,15 @@ updated: '2026-05-18'
 >
 > Peterson 的提案并不主张用机制实验完全替代黑箱 RCT，而是重新设计政策评估使其同时测试核心机制（p. 304），以在保持随机化优势的同时提高研究产出的实用性和可用性。
 
+---
+
 ## 相关理论
 
 > [!info] 相关理论
 > - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、涌现性、三层本体论
 > - [[Validity as Inferences]] — Wiliam (2019) 运用 Cronbach/Messick 的效度理论论证：即使 RCT 设计良好，其推论的效度也永远是临时且局部的
+
+---
 
 ## 相关方法
 
@@ -303,16 +328,21 @@ updated: '2026-05-18'
 - [[Non-intervention Research]] — 非干预研究不操纵自变量；Brady et al. (2023) 以 RCT/[[Experimental Research|实验研究]]作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（Brady et al., 2023, pp.3-4, 9）。
 - [[Observational and Correlational Research]] — 观察/相关研究可生成干预假设，但没有随机分配和变量操纵；Brady et al. (2023) 的趋势数据表明，此类研究中的 RFP 比例持续上升（Brady et al., 2023, pp.6-7）。
 
+---
+
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[EEF Teaching and Learning Toolkit]] — EEF 委托大量新 RCT 并综合 RCT 证据进入 Toolkit 的[[Meta-analysis|元分析]]
+> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的随机对照试验，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]（Higgins, 2016, p.49）
 > - [[Argument_Brady_2023_EPR]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其比例从 2010 年的 23% 降至 2020 年的 20%（Brady et al., 2023, pp.6-7）
 > - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育清算中心如何为 RCT、[[Quasi-Experimental Designs|QED]]、RDD 和 ITS 设定证据标准；研究发现所有清算中心都偏好 RCT，但对随机分配层级、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验和集群随机化的处理并不一致（Wadhwa et al., 2024, pp.9–11）
 > - [[Tennessee STAR Project 1985-1989]] — 被 Mosteller 称为"有史以来最重要的教育调查之一"，但 Wiliam (2019) 揭示了其 RCT 外推的三重失败
 
+---
+
 ## 来源
 
+- [[Higgins_2016_RE]]
 - [[Berk_2011_ER]]
 - [[Pampaka_2016_IJRME]]
 - [[Peterson_2016_IJRME]]

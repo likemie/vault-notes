@@ -3,7 +3,6 @@ citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promi
 extracted_to:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Digital Optimum]]"
-  - "[[Learning Analytics]]"
   - "[[Competitiveness]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[Societies of Control]]"
   - "[[Digital Self]]"
   - "[[Governmentality]]"
+  - "[[Learning Analytics]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

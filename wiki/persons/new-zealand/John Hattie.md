@@ -19,23 +19,22 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Further Education]]"
   - "[[Formative Assessment]]"
-  - "[[Research Topic]]"
-  - "[[Professional Judgment]]"
-  - "[[Direct Instruction]]"
-  - "[[Whole Language]]"
-  - "[[Heterogeneity]]"
-  - "[[Research Question]]"
-  - "[[Progressive Education]]"
-  - "[[International Education]]"
   - "[[Individualised Instruction]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Heterogeneity]]"
+  - "[[Research Question]]"
+  - "[[Direct Instruction]]"
+  - "[[Whole Language]]"
+  - "[[Progressive Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Causality]]"
+  - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
@@ -67,7 +66,6 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
 related_persons:
-  - "[[Karl Pearson]]"
   - "[[John Dewey]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
@@ -155,31 +153,37 @@ updated: '2026-05-21'
 
 ## 生平与职涯
 
-> [!note-] 新西兰时期 (1998–2010)
+### 学术起步（1998 至 2005）
+
+> [!note] 学术起步
 > - **1998** 年从美国返回新西兰，任奥克兰大学教育学教授兼教育学院院长（O'Neill et al., 2016, p.47）
-> - **1999/2000** 年通过 Auckland Uniservices Ltd 受教育部合同领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的教师管理型国家课程测试系统，用于[[Formative Assessment|形成性评估]]，任项目主任（O'Neill et al., 2016, p.47）
-> - **2000 年代中期** 教育部合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）
-> - **2006 年 4 月** Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），并创建 Visible Learning Labs，Hattie 任主任，为 e-asTTle 使用提供支持和专业发展（O'Neill et al., 2016, p.47）
-> - **2006 年** 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事（O'Neill et al., 2016, p.48）
-> - **2008 年** 成为重组后的 Cognition Education 董事（O'Neill et al., 2016, p.48）
-> - **2009 年** Cognition Education 开始在澳大利亚提供 《可见的学习》plus 专业发展工作坊（O'Neill et al., 2016, p.48）
-> - **2009–2010** 新西兰国家党联合政府推行 国家标准（National Standards）政策。Hattie 被邀加入技术顾问组（两次会议均因出国未出席），其领导的 新西兰评估学院 受教育部邀请对标准的技术层面提供评论（部分但非全部建议被采纳）。总理 John Key 在标准发布时公开感谢 Hattie 的推动——媒体因此将 Hattie 描绘为标准政策的核心推手（Hattie, 2010, pp.91–92）。Hattie 随后加入部长顾问组，独立于教育部直接向部长提供关于标准的技术和教育层面建议（Hattie, 2010, p.93）
-> - **2010–2014 年** 从 Cognition Education 获得第三方付款：2010: 1 万美元；2011 年 9.3 万美元；2012 年 27.2 万美元；2013 年 27 万美元；2014 年 22.3 万美元（O'Neill et al., 2016, p.49）
+> - **1999 至 2000** 年通过奥克兰大学受教育部合同领导开发 asTTle（教学与学习评估工具），基于光盘的教师管理型国家课程测试系统，用于[[Formative Assessment|形成性评估]]，任项目主任（O'Neill et al., 2016, p.47）
+> - **2000 年代中期** 教育部合同开发升级版在线系统（O'Neill et al., 2016, p.47）
 
+---
 
-> [!note-] 澳大利亚与全球扩张 (2011–2015)
-> - **2011–2012** Cognition Education Trust 在新西兰及国际上注册《可见的学习》plus 商标（O'Neill et al., 2016, p.48）
+### 商业化与政策参与（2006 至 2010）
+
+> [!note] 商业化与政策参与
+> - **2006 年** 注册《可见的学习》商标并创建实验室，为评估工具使用提供支持和专业发展（O'Neill et al., 2016, p.47）
+> - **2006 年** 成为 [[Cognition Education]] 董事（O'Neill et al., 2016, p.48）
+> - **2009 年** Cognition Education 开始在澳大利亚提供《可见的学习》plus 专业发展工作坊（O'Neill et al., 2016, p.48）
+> - **2009 至 2010 年** 新西兰推行国家标准政策。Hattie 被邀加入技术顾问组，其领导的新西兰评估学院受教育部邀请对标准技术层面提供评论。总理在标准发布时公开感谢 Hattie 的推动，媒体因此将其描绘为标准政策的核心推手（Hattie, 2010, pp.91–92）
+> - **2010 至 2014 年** 从 Cognition Education 获得第三方付款累计约 87 万美元（O'Neill et al., 2016, p.49）
+
+---
+
+### 全球扩张（2011 至 2015）
+
+> [!note] 全球扩张
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任（O'Neill et al., 2016, p.49）
-> - **2013 年** 成为 1600 万澳元科学学习研究中心（Science of Learning Research Centre）"促进学习"[[Research Topic|研究主题]]负责人和副主任（O'Neill et al., 2016, p.49）
-> - **2014 年 7 月** 被任命为 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席（O'Neill et al., 2016, p.50）
-> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 《可见的学习》研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 [[Education Endowment Foundation|EEF]] 资助 36 万英镑；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
-> - **2015 年 1 月** Visible Classroom 工具进入美国市场（O'Neill et al., 2016, p.50）
-> - **2015 年 5 月** 墨尔本大学与 Ai-Media 签署五年全球协议进一步开发 Visible Classroom 产品（O'Neill et al., 2016, p.50）
-> - **2015 年 6 月** [[Karl Pearson|Pearson]] 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 《可见的学习》plus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 《可见的学习》商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
-> - **2015 年 6 月**（同月）Hattie 接受新西兰广播电台 *Nine to Noon* 节目 Catherine Ryan 采访，宣传这两篇 Pearson 文章——O'Neill 等将此描述为"教育思想领导力现在是一种商业产品，需要市场推广活动"的例证（O'Neill et al., 2016, p.51）
-> - **2015 年 12 月** 两篇文章被 ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用（O'Neill et al., 2016, p.51）
->
-> O'Neill et al.（2016, pp.viii–ix） 总结："Hattie's now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy."
+> - **2013 年** 成为 1600 万澳元科学学习研究中心副主任（O'Neill et al., 2016, p.49）
+> - **2014 年** 被任命为澳大利亚教学与[[School Leadership|学校领导力]]研究院董事会主席（O'Neill et al., 2016, p.50）
+> - **2015 年** 开发 Visible Classroom 应用，原始试点由英国[[Education Endowment Foundation|教育捐赠基金会]]资助 36 万英镑（O'Neill et al., 2016, pp.49–50）
+> - **2015 年** 培生集团在其网站发布 Hattie 的两篇思想领导力文章，致谢名单揭示了横跨学术界、全球教育商业和《可见的学习》商业运营的政策网络连接（O'Neill et al., 2016, pp.50–51）
+
+> [!quote] O'Neill 等人的评价
+> "Hattie 如今的全球社交网络方式可以被合理地描述为公共福利、非营利和营利性政策创业与倡导的无缝融合。"（O'Neill et al., 2016, pp.viii–ix）
 >
 
 ---
@@ -202,7 +206,7 @@ updated: '2026-05-21'
 > [!note] 思想发展
 > Hattie 综合了 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生（Higgins, 2016, p.42）。
 >
-> 他引入通用连续体（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。
+> 他引入通用连续体（universal continuum）概念，以标准差单位为尺度将[[Meta-meta-analysis|元综合]]结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。
 >
 > **关键发现：**
 > - 反馈是最强大的单一影响（强化 1.13，补救与反馈 0.65，掌握学习 0.50）
@@ -219,7 +223,7 @@ updated: '2026-05-21'
 
 ### 2009 — 《可见的学习》
 
-> [!abstract] Hattie, J. (2009). *Visible Learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge.
+> [!abstract] Hattie, J. (2009). *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*. Routledge.
 
 > [!note] 思想发展
 > Hattie 综合 800 多项元分析，发现平均效应量仍约为 0.40。他将此作为关节点（hinge point），高于此值的方法值得优先考虑（Higgins, 2016, pp.43–44）。
@@ -314,7 +318,7 @@ updated: '2026-05-21'
 > - [[Meta-analysis|元分析]]综合未评估纳入研究质量——"垃圾进垃圾出"（Eysenck）
 > - d=0.40 截断值武断；小效应在大规模随机研究中可有重大意义
 > - [[Effect Size|效应量]]暗示[[Causality|因果性]]但常不可辩护
-> - 平均化掩盖复杂性（如家庭作业总体 d=0.29，小学仅 0.15、中学 0.64）
+> - 平均化掩盖复杂性（如[[Homework|家庭作业]]总体 d=0.29，小学仅 0.15、中学 0.64）
 > - 社会背景被选择性排除，但这些因素解释 70–80% 校间差异
 > - [[Class Size|班级规模]]（d=0.2 被政策解读为"无效果"）和[[Performance Pay|绩效工资]]存在被误用的严重风险
 > - 大多数研究来自英语发达国家，可推广性有限

@@ -4,9 +4,7 @@ extracted_to:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Constructive Alignment]]"
   - "[[Direct Instruction]]"
-  - "[[Feedback]]"
   - "[[Problem-Based Learning]]"
-  - "[[Visible Learning]]"
   - "[[John Biggs]]"
   - "[[Carl Bereiter]]"
   - "[[Thomas Aastrup Rømer]]"
@@ -14,6 +12,8 @@ extracted_to:
   - "[[Surface and Deep Learning]]"
   - "[[Class Size]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Feedback]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---

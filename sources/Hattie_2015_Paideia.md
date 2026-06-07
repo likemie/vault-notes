@@ -4,9 +4,9 @@ extracted_to:
   - "[[Argument_Hattie_2015_Paideia]]"
   - "[[Feedback]]"
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-21
 ---

@@ -4,7 +4,6 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Playing for Success]]"
   - "[[ResearchED]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Gert Biesta]]"
   - "[[Gary Thomas]]"
   - "[[Ray Pawson]]"
@@ -15,8 +14,9 @@ extracted_to:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Adrian Simpson]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-01
 ---
 

@@ -10,7 +10,6 @@ extracted_to:
   - "[[Transhumanism]]"
   - "[[Ubuntu]]"
   - "[[Vergegenkunft]]"
-  - "[[Learning Analytics]]"
   - "[[Global Education Industry]]"
   - "[[Mondialisation]]"
   - "[[New Public Management]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Educational Technology Industry]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Learning Analytics]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

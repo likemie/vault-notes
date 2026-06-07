@@ -2,7 +2,6 @@
 citation: "Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51."
 extracted_to:
   - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Visible Learning]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Causal Modeling]]"
@@ -10,9 +9,10 @@ extracted_to:
   - "[[Rasch Measurement]]"
   - "[[Jacob Cohen]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Effect Size]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

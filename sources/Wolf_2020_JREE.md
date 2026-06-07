@@ -8,8 +8,8 @@ extracted_to:
   - "[[What Works Clearinghouse]]"
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Developer Effect]]"
-  - "[[Effect Size]]"
   - "[[Publication Bias]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-02
 ---
 

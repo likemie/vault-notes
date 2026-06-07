@@ -4,10 +4,10 @@ extracted_to:
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Cognitive Task Analysis]]"
   - "[[Direct Instruction]]"
-  - "[[Feedback]]"
-  - "[[Visible Learning]]"
   - "[[Working Memory]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Feedback]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

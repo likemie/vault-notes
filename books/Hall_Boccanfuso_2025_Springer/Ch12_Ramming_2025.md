@@ -3,7 +3,6 @@ citation: "Ramming, C. (2025). Gaining Support Within Companies for Collaboratio
 extracted_to:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Academic Engagement Team]]"
-  - "[[Academic Engagement]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Precompetitive Research]]"
   - "[[Public-Private Partnership in Research]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
+  - "[[Academic Engagement]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

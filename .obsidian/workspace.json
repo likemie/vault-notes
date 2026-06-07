@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/new-zealand/John Hattie.md",
+                "file": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "John Hattie"
+              "title": "Argument_Higgins_2016_RE"
             }
           }
         ]
@@ -191,10 +191,14 @@
   },
   "active": "7f55059d7e98a216",
   "lastOpenFiles": [
+    "wiki/concepts/instruction-pedagogy/Whole Language.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
-    "wiki/persons/new-zealand/John Hattie.md.tmp.9943.9b0e79eaa599",
+    "wiki/methods/quantitative/Randomised Controlled Trials.md",
+    "wiki/concepts/instruction-pedagogy/Homework.md",
+    "wiki/methods/quantitative/Meta-meta-analysis.md",
     "wiki/persons/new-zealand/John Hattie.md",
+    "wiki/persons/new-zealand/John Hattie.md.tmp.9943.9b0e79eaa599",
     "wiki/persons/new-zealand/John Hattie.md.tmp.9943.39b3a1a1dc43",
     "wiki/methods/qualitative/Comparative Meta-synthesis.md",
     "wiki/concepts/instruction-pedagogy/Individualised Instruction.md",
@@ -211,7 +215,6 @@
     "wiki/methods/quantitative/Pearson Product-Moment Correlation.md",
     "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
     "wiki/methods/quantitative/Meta-analysis.md",
-    "wiki/methods/quantitative/Meta-meta-analysis.md",
     "wiki/methods/qualitative/Umbrella Review.md",
     "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
     "wiki/concepts/research-methodology/Forest Plot.md",
@@ -223,8 +226,6 @@
     "sources/Higgins_2016_RE/Higgins_2016_RE.md",
     "sources/Higgins_2016_RE.md",
     "wiki/concepts/research-methodology/Heterogeneity.md",
-    "wiki/persons/usa/Robert Marzano.md",
-    "wiki/persons/usa/Gene Glass.md",
-    "wiki/persons/uk/Karl Pearson.md"
+    "wiki/persons/usa/Robert Marzano.md"
   ]
 }

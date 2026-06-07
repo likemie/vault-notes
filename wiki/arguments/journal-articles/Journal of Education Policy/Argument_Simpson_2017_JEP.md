@@ -20,12 +20,14 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
   - "[[Null Hypothesis]]"
+  - "[[Homework]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Moderator Analysis]]"
   - "[[Random Sampling]]"
 related_persons:
   - "[[John Hattie]]"
@@ -89,11 +91,11 @@ updated: '2026-05-18'
 > **思想实验**：两位农民测试肥料对豆子长度的影响。第一位比较肥料 vs 无肥料（d=1.0），第二位比较肥料 vs 粪肥（d=0.5）。结论不可能是第一位农民的肥料效果更大——他们使用了不同的比较基线。两人的效应量也不能被有意义地合并（Simpson, 2017, pp.5–6）。
 >
 > **教育中的表现**（Simpson, 2017, pp.6–7）：
-> - 同一元分析（Paschal, Weinstein, & Walberg, 1984）合并了比较家庭作业 vs 无家庭作业、丰富家庭作业 vs 普通家庭作业、全部批改的家庭作业 vs 随机批改一半的家庭作业的研究
+> - 同一元分析（Paschal, Weinstein, & Walberg, 1984）合并了比较[[Homework|家庭作业]] vs 无家庭作业、丰富家庭作业 vs 普通家庭作业、全部批改的家庭作业 vs 随机批改一半的家庭作业的研究
 > - 同一元分析（Graham, Hebert, & Harris, 2015）合并了比较图形反馈 vs 长度反馈、同伴反馈 vs 教师拼写反馈、课程本位评估 vs 标准目标设定的研究
 > - "照常教学"（business as usual）比较——未指定的比较组——在不同研究中的含义完全不同
 > - 某些元分析的实验条件在另一些元分析中是对照条件——"一个分析的实验组是另一个分析的控制组"（Simpson, 2017, p.7）
-> - 调节分析（moderator analysis）揭示：比较"无干预"的效应量是"替代处理"的 3 倍以上（Camilli et al., 2010），但元-元分析未对此进行调整
+> - 调节分析（[[Moderator Analysis]]）揭示：比较"无干预"的效应量是"替代处理"的 3 倍以上（Camilli et al., 2010），但元-元分析未对此进行调整
 >
 > **系统性含义**：反馈研究可以合乎伦理地使用"无反馈"比较（实验室环境），但行为[[Intervention Research|干预研究]]只能比较"更密集 vs 现有"方案（学校环境）。结果是，在其他条件相同的情况下，我们可以预期反馈研究的效应量系统性地高于行为干预研究——不是因为反馈更有效，而是因为可用的研究设计选择不同（Simpson, 2017, p.7）。
 >

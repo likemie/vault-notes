@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Causality]]"
+  - "[[Homework]]"
   - "[[Bildung]]"
   - "[[Benevolence]]"
   - "[[Learning Virtues]]"
@@ -165,7 +166,7 @@ updated: 2026-05-24
 > 4. C: Is you need to –
 >    子：是你需要——
 >
-> 5. M: When I ask you, say it's time to do your reading homework or it's
+> 5. M: When I ask you, say it's time to do your reading [[Homework]] or it's
 >       time to –
 >    母：当我叫你，说是时候做阅读作业了，或是时候——
 >
@@ -965,7 +966,7 @@ updated: 2026-05-24
 >    母：他说（用搞笑的声音）"你怎么没让我参与这个，我可是科学家！"
 >        记得吗？他嫉妒了，对吧？
 >
-> 6. C: [Giggles] I did it just to get through with my homework.
+> 6. C: [Giggles] I did it just to get through with my [[Homework]].
 >    子：（咯咯笑）我只是为了完成作业才做的。
 >
 > 7. M: But... so what do you enjoy about science?

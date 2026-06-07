@@ -9,7 +9,6 @@ extracted_to:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
-  - "[[Minerva University]]"
   - "[[Walter Mignolo]]"
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Jane Knight]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Minerva University]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

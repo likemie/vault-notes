@@ -5,7 +5,6 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Moral Sidestep]]"
   - "[[Selective Education]]"
-  - "[[Visible Learning]]"
   - "[[Justified Warrants]]"
   - "[[Education and Inspections Act 2006]]"
   - "[[Eleven-plus Exam]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-07
 ---

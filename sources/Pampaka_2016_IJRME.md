@@ -5,11 +5,11 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Julian Williams]]"
   - "[[Maria Pampaka]]"
   - "[[Matt Homer]]"
   - "[[Effect Size]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-02
 ---
 

@@ -9,8 +9,8 @@ extracted_to:
   - "[[Causal Modeling]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Intervention Research]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-05
 ---
 

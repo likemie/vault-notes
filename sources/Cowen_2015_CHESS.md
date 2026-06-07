@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Programme Fidelity vs Adaptation]]"
   - "[[What Works Network]]"
   - "[[California Class Size Reduction 1996]]"
   - "[[Nancy Cartwright]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Class Size]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Programme Fidelity vs Adaptation]]"
 processed_date: 2026-05-01
 ---
 

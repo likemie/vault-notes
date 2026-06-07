@@ -13,6 +13,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Homework]]"
   - "[[Feedback]]"
   - "[[Variable]]"
   - "[[School Norm Adaptation]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - 成功动机：学生追求学业达成与进步的目标取向（Lekhal_2015_Paideia）。
 > - 课堂投入：课堂任务中的注意力、参与度与坚持度（Lekhal_2015_Paideia）。
-> - 作业努力：课后学习中的持续性投入与任务完成质量（Lekhal_2015_Paideia）。
+> - [[Homework|作业]]努力：课后学习中的持续性投入与任务完成质量（Lekhal_2015_Paideia）。
 
 ## 与相关概念的区别
 

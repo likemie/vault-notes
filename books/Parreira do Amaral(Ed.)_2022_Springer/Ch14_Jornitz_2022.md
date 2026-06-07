@@ -6,10 +6,10 @@ extracted_to:
   - "[[Bildung]]"
   - "[[Data Behaviorism]]"
   - "[[Gamification]]"
-  - "[[Learning Analytics]]"
-  - "[[Feedback]]"
   - "[[Global Education Industry]]"
   - "[[Teaching Theory of Gruschka]]"
+  - "[[Learning Analytics]]"
+  - "[[Feedback]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---
