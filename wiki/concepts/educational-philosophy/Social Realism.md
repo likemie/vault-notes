@@ -10,18 +10,13 @@ tags:
   - theory/social-realism
   - theme/curriculum
 related_concepts:
+  - "[[Constructivist Paradigm]]"
   - "[[Powerful Knowledge]]"
-  - "[[Curriculum Design Coherence Model]]"
-  - "[[Knowledge-that and Know-how-to]]"
-  - "[[Recontextualization]]"
-related_theories:
-  - "[[Bernstein's Pedagogic Theory]]"
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Basil Bernstein]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
 confidence: medium
@@ -49,7 +44,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs 社会建构主义（Social Constructivism） — 社会建构主义强调知识是社会建构的，但可能忽视知识的独立存在和效果。社会实在论承认知识是社会建构的，但坚持知识独立于知者存在且具有在世界中的效果。
+> - vs [[Constructivist Paradigm|社会建构主义]]（Social Constructivism） — 社会建构主义强调知识是社会建构的，但可能忽视知识的独立存在和效果。社会实在论承认知识是社会建构的，但坚持知识独立于知者存在且具有在世界中的效果。
 > - vs [[Powerful Knowledge|有力知识]] — 有力知识是社会实在论框架中的一个核心概念，描述来自学科的、具有独特禀赋的知识。社会实在论是更广泛的认识论框架，有力知识是其在课程研究中的具体应用。
 
 ---

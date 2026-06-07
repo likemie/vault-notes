@@ -10,17 +10,13 @@ tags:
   - theory/social-realism
   - epistemology
 related_concepts:
-  - "[[Curriculum Design Coherence Model]]"
-  - "[[Social Realism]]"
-  - "[[Knowledge-that and Know-how-to]]"
   - "[[Recontextualization]]"
+  - "[[Curriculum Design Coherence Model]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[The New Zealand Curriculum]]"
-related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+related_facts: []
+related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
 confidence: medium
@@ -36,7 +32,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 有力知识（Powerful Knowledge）是 Young & Muller (2010) 提出的概念，指来自学科（如历史、生物、艺术等）的、经过再脉络化（[[Recontextualization]]）用于教育目的的知识。这种知识独立于知者存在，具有独特的禀赋，能够使学生超越直接经验进行概括和理解（McPhail, 2023）。
+> 有力知识（Powerful Knowledge）是 Young & Muller (2010) 提出的概念，指来自学科（如历史、生物、艺术等）的、经过[[Recontextualization|再脉络化]]（[[Recontextualization]]）用于教育目的的知识。这种知识独立于知者存在，具有独特的禀赋，能够使学生超越直接经验进行概括和理解（McPhail, 2023）。
 
 > [!quote]
 > "By disciplinary knowledge, we mean knowledge that is derived from the disciplines, such as History, Biology, Art etc., that is recontextualized for educational purposes."（McPhail et al., 2023）
@@ -56,7 +52,7 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **学科来源**。有力知识来自学科（如历史、生物、艺术等），这些学科是知识的生产场所。学校课程中的知识是这些学科知识经过再脉络化后的产物（McPhail, 2023）。
+> - **学科来源**。有力知识来自学科（如历史、生物、艺术等），这些学科是知识的生产场所。学校课程中的知识是这些学科知识经过[[Recontextualization|再脉络化]]后的产物（McPhail, 2023）。
 > - **独立于知者**。有力知识是实在的，独立于知者存在，具有在世界中的效果。这一立场来自 Popper (1978) 的实在论视角（McPhail, 2023）。
 > - **可概括性**。有力知识的独特禀赋在于它能够使学生超越直接经验进行概括。通过掌握学科的概念性知识，学生能够将抽象概念应用于一系列情境，包括社会文化世界（McPhail, 2023）。
 > - **认知和社会发展**。有力知识的禀赋对年轻人的认知和社会发展至关重要。获得这种知识是公平的基础（McPhail, 2023）。

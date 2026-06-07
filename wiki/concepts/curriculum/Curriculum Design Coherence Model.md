@@ -11,20 +11,17 @@ tags:
   - theory/social-realism
   - method/curriculum-design
 related_concepts:
-  - "[[Powerful Knowledge]]"
-  - "[[Knowledge-that and Know-how-to]]"
   - "[[Social Realism]]"
-  - "[[Surface and Deep Learning]]"
+  - "[[Knowledge-that and Know-how-to]]"
+  - "[[Powerful Knowledge]]"
   - "[[Recontextualization]]"
-related_theories:
-  - "[[Bernstein's Pedagogic Theory]]"
+  - "[[Surface and Deep Learning]]"
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Basil Bernstein]]"
+related_persons: []
 related_facts:
   - "[[The New Zealand Curriculum]]"
-related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
 confidence: medium
@@ -40,7 +37,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 [[Basil Bernstein|Bernstein]] 理论框架的演绎模型，由 McPhail (2023) 提出，基于社会实在论（[[Social Realism]]）的首要原则，将课程设计中概念知识（conceptual knowledge）和应用知识（applied knowledge）的区分及必要连接操作化。模型的目标是通过使课程设计与知识的认识论结构（其层次性相互关联的抽象和可概括概念）对齐，实现深层设计连贯性（McPhail, 2023）。
+> 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 Bernstein 理论框架的演绎模型，由 McPhail (2023) 提出，基于[[Social Realism|社会实在论]]（[[Social Realism]]）的首要原则，将课程设计中概念知识（conceptual knowledge）和应用知识（[[Knowledge-that and Know-how-to|applied knowledge]]）的区分及必要连接操作化。模型的目标是通过使课程设计与知识的认识论结构（其层次性相互关联的抽象和可概括概念）对齐，实现深层设计连贯性（McPhail, 2023）。
 
 > [!quote]
 > "The Curriculum Design Coherence Model... operationalizes the differentiation and subsequent necessary connection between conceptual and applied knowledge for curriculum design."（McPhail, 2023）
@@ -60,9 +57,9 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **知识区分**。模型基于 [[Knowledge-that and Know-how-to|知识-that 和知道如何做]] 的区分，将课程设计元素分为三类：概念知识（propositions、subject concepts）、内容知识（content/contexts）、应用知识（skills/competencies/disciplinary practices）（McPhail, 2023）。
-> - **设计连贯性**。复杂的关系（知识类型和形式之间、概念、内容和技能之间）需要在教学开始之前的课程设计阶段被处理，以实现连贯的概念设计和深层学习（McPhail, 2023）。
-> - **深层学习条件**。[[Knowledge-that and Know-how-to|知识-that]]（概念和内容）和 [[Knowledge-that and Know-how-to|知道如何做]]（应用知识）的连接是深层学习的先决条件。深层学习被定义为看到学科认识论部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括（McPhail, 2023）。
+> - **知识区分**。模型基于 知识-that 和知道如何做 的区分，将课程设计元素分为三类：概念知识（propositions、subject concepts）、内容知识（content/contexts）、应用知识（skills/competencies/disciplinary practices）（McPhail, 2023）。
+> - **设计连贯性**。复杂的关系（知识类型和形式之间、概念、内容和技能之间）需要在教学开始之前的课程设计阶段被处理，以实现连贯的概念设计和[[Surface and Deep Learning|深层学习]]（McPhail, 2023）。
+> - **深层学习条件**。知识-that（概念和内容）和 知道如何做（应用知识）的连接是深层学习的先决条件。深层学习被定义为看到学科认识论部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括（McPhail, 2023）。
 > - **翻译装置**。模型提供了一个翻译装置（translation device）或分析量规（analytic rubric），用于分析课程文件中的知识元素（McPhail, 2023）。
 
 ---
@@ -70,7 +67,7 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example]
-> McPhail et al. (2023) 使用 CDCM 的翻译装置分析新西兰课程改革（Te Mātaiaho），发现：
+> McPhail et al. (2023) 使用 CDCM 的翻译装置分析[[The New Zealand Curriculum|新西兰课程]]改革（Te Mātaiaho），发现：
 >
 > - **Big Ideas** 在不同学科中的构想不同。历史学科的 Big Ideas 捕捉了应学习的知识（如权力、不公正、冲突），而数学学科的 Big Ideas 更多表达的是社会文化概念而非应学习的内容。
 > - **概念识别** 不一致。有些陈述包含关键概念（如殖民化），有些则不包含。

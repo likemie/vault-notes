@@ -8,12 +8,12 @@ extracted_to:
   - "[[Australian Curriculum]]"
   - "[[Gonski Reforms]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[The New Zealand Curriculum]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Dietrich Benner]]"
   - "[[Radical Constructivism]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
+  - "[[The New Zealand Curriculum]]"
 processed_date: 2026-05-05
 ---
 

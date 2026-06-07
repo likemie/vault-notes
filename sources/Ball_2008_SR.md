@@ -4,12 +4,12 @@ extracted_to:
   - "[[Argument_Ball_2008_SR]]"
   - "[[School Effectiveness]]"
   - "[[Governmentality]]"
-  - "[[Horizontal Knowledge Structure]]"
   - "[[New Sociology of Education]]"
   - "[[Political Arithmetic]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
-  - "[[Basil Bernstein]]"
   - "[[Stephen Ball]]"
+  - "[[Horizontal Knowledge Structure]]"
+  - "[[Basil Bernstein]]"
 processed_date: 2026-05-23
 ---
 

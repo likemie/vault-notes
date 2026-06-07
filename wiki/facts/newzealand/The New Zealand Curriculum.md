@@ -24,6 +24,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Sarbiewska_2019_JSR]]"
+  - "[[McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -69,3 +70,4 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Sarbiewska_2019_JSR]]
+- [[McPhail_2023_JCS]]

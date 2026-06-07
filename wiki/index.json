@@ -528,6 +528,16 @@
     ]
   },
   {
+    "title": "Curriculum Design Coherence Model",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curriculum Design Coherence Model.md",
+    "aliases": [
+      "课程设计连贯性模型",
+      "CDCM",
+      "Curriculum Design Coherence Model"
+    ]
+  },
+  {
     "title": "Didaktik",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Didaktik.md",
@@ -556,6 +566,28 @@
     ]
   },
   {
+    "title": "Knowledge-that and Know-how-to",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Knowledge-that and Know-how-to.md",
+    "aliases": [
+      "知识-that 与知道如何做",
+      "knowledge-that",
+      "know-how-to",
+      "propositional knowledge",
+      "applied knowledge"
+    ]
+  },
+  {
+    "title": "Mātauranga Māori",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Mātauranga Māori.md",
+    "aliases": [
+      "毛利知识体系",
+      "matauranga Maori",
+      "Maori knowledge"
+    ]
+  },
+  {
     "title": "Official Knowledge",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Official Knowledge.md",
@@ -570,6 +602,25 @@
     "aliases": [
       "现象本位学习",
       "PhBL"
+    ]
+  },
+  {
+    "title": "Powerful Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Powerful Knowledge.md",
+    "aliases": [
+      "有力知识",
+      "powerful knowledge"
+    ]
+  },
+  {
+    "title": "Regulative and Instructional Discourse",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
+    "aliases": [
+      "规约性话语与教学性话语",
+      "regulative discourse",
+      "instructional discourse"
     ]
   },
   {
@@ -847,6 +898,15 @@
     "aliases": [
       "哈拉维的SF",
       "推测性编造"
+    ]
+  },
+  {
+    "title": "Social Realism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Social Realism.md",
+    "aliases": [
+      "社会实在论",
+      "social realism"
     ]
   },
   {
@@ -9036,6 +9096,17 @@
     ]
   },
   {
+    "title": "NZ Curriculum Refresh 2021-2026",
+    "type": "fact",
+    "path": "wiki/facts/newzealand/NZ Curriculum Refresh 2021-2026.md",
+    "aliases": [
+      "新西兰课程改革",
+      "NZ curriculum refresh",
+      "Te Mātaiaho",
+      "新西兰课程刷新"
+    ]
+  },
+  {
     "title": "Russian Translation of Visible Learning",
     "type": "fact",
     "path": "wiki/facts/russia/Russian Translation of Visible Learning.md",
@@ -10390,6 +10461,11 @@
     "title": "Argument_Hitchcock_2015_JBE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Behavioral Education/Argument_Hitchcock_2015_JBE.md"
+  },
+  {
+    "title": "Argument_McPhail_2023_JCS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md"
   },
   {
     "title": "Argument_Terhart_2011_JCS",

@@ -3,7 +3,6 @@ citation: "Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education
 extracted_to:
   - "[[Argument_Wang_2025_CE]]"
   - "[[Policy Borrowing]]"
-  - "[[Recontextualization]]"
   - "[[Examination-Oriented Education]]"
   - "[[Quality Education]]"
   - "[[Test-Based Accountability]]"
@@ -11,6 +10,7 @@ extracted_to:
   - "[[Civil Service Examination]]"
   - "[[Yrjö Engeström]]"
   - "[[Third Generation Activity Theory]]"
+  - "[[Recontextualization]]"
 processed_date: 2026-05-26
 ---
 

@@ -12,16 +12,14 @@ tags:
   - sociology-of-education
 related_concepts:
   - "[[Recontextualization]]"
-  - "[[Powerful Knowledge]]"
   - "[[Curriculum Design Coherence Model]]"
-related_theories:
-  - "[[Bernstein's Pedagogic Theory]]"
+  - "[[Champ]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"
 related_facts: []
-related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+related_arguments: []
 sources:
   - "[[McPhail_2023_JCS]]"
 confidence: medium
@@ -57,7 +55,7 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **规约性话语的功能**。规约性话语在意识形态上运作，控制官方再脉络化场域的主导者的主导原则包含在课程的规约性话语中。它告诉我们什么应该被重视，并投射未来的想象（Bernstein, 2000, 引自 McPhail et al., 2023）。
+> - **规约性话语的功能**。规约性话语在意识形态上运作，控制官方[[Recontextualization|再脉络化]][[Champ|场域]]的主导者的主导原则包含在课程的规约性话语中。它告诉我们什么应该被重视，并投射未来的想象（Bernstein, 2000, 引自 McPhail et al., 2023）。
 > - **教学性话语的嵌入性**。教学性话语（教什么和怎么教）嵌入更强的规约性话语之中。这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场（Bernstein, 2000, 引自 McPhail et al., 2023）。
 > - **再脉络化原则**。再脉络化原则再生产并再脉络化一个社会在特定时期的主导话语和意识形态（Bernstein, 2000, 引自 McPhail et al., 2023）。
 
