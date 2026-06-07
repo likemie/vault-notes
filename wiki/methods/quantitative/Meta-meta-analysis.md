@@ -24,6 +24,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
+  - "[[Direct Instruction]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
@@ -41,6 +42,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Comparative Meta-synthesis]]"
   - "[[Intervention Research]]"
 related_persons:
   - "[[John Hattie]]"
@@ -52,11 +54,11 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Wrigley_2019_ERE]]"
 sources:
-  - "[[Higgins_2016_RE]]"
   - "[[Snook_2009_NZJES]]"
   - "[[Terhart_2011_JCS]]"
   - "[[Hattie_2015_Paideia]]"
   - "[[Allerup_2015_Paideia]]"
+  - "[[Higgins_2016_RE]]"
   - "[[Wecker_2016_ZfE]]"
   - "[[Simpson_2017_JEP]]"
   - "[[Simpson_2019_ERE]]"
@@ -122,7 +124,7 @@ updated: '2026-05-21'
 > > [!warning] "品牌名"聚合的具体案例
 > > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.（1987），其中"现代数学"这个品牌名下包含多种不同成分：
 > > - 使用操作教具，[[Effect Size|效应量]] 0.51
-> > - 直接教学概念和原理，效应量 0.35
+> > - [[Direct Instruction|直接教学]]概念和原理，效应量 0.35
 > > - 使用探究方法，效应量 0.04
 > >
 > > 将这些聚合为单一品牌，掩盖了关于教学有效性的关键发现。更细粒度的类别才能为教师的课堂实践提供足够具体的指导（Higgins, 2016, p.43）。
@@ -227,12 +229,21 @@ updated: '2026-05-21'
 >
 > **固定效应模型的根本性限制**：即使所有 6 项要求都被满足，固定效应模型的假设——所有研究估计同一恒定真实效应——在教育研究中几乎从不成立。"鉴于通常不同的教学主题、不同实现的方法——在初级研究之间从一开始就比假设一个共同常数更合理"（Wecker et al., 2016, p.32）。随机效应模型在方法论上更适当，但 Hattie 的数据基础（每个因素平均仅 ~63 项一级元分析）不足以估计 τ²（Wecker et al., 2016, pp.32–33）。
 
+---
+
 ## 适用场景
 
 > [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，再做新的元分析只是"more of the same"时，元-元分析提供了更高层次的综合视角（Terhart, 2011, p.436）
 > - 适合为政策制定者和实践者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
-> - 在 [[John Hattie|Hattie]] 的自我解释中，二级综合还承担一种“生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
+> - 在 [[John Hattie|Hattie]] 的自我解释中，二级综合还承担一种”生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
+
+> [!note] 推论层级的约束
+> Higgins（2016）区分了两种不同的跨元分析比较。**比较性元分析**是在单一元分析中纳入多种干预以识别哪种更有效，回答的是”X 是否比 Y 更有效”。**[[Comparative Meta-synthesis|比较性元综合]]**是通过跨元分析比较来得出推论。两者都面临”苹果和橙子”批评的升级版（Higgins, 2016, pp.40–41）。
+>
+> 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授转录技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论（Higgins, 2016, p.41）。
+
+---
 
 ## 局限性
 
@@ -338,11 +349,15 @@ updated: '2026-05-21'
 >
 > **Hattie 自己的话**："当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）O'Connor 指出这与元分析创始人 Gene Glass（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
 
+---
+
 ## 相关理论
 
 > [!info] 相关理论
 > - [[Evidence-Based Education|证据本位教育]]的认识论假设 — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了 EBE 的根本问题（Wrigley & McCusker, 2019）
 > - [[Critical Realism|批判实在论]] — 从三层本体论角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的因果机制（Wrigley & McCusker, 2019, pp.116–117）
+
+---
 
 ## 使用此方法的研究
 
@@ -355,6 +370,8 @@ updated: '2026-05-21'
 > - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真（Wrigley & McCusker, 2019）
 > - [[Argument_OConnor_2020_AJLL]] — 以 VL [[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除（O'Connor, 2020）
 
+---
+
 ## 替代方案
 
 
@@ -362,13 +379,15 @@ updated: '2026-05-21'
 - **Wecker et al.（2016, p.35）提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 [[John Hattie|Hattie]] 这样的项目"
 - **Pawson（2006）提出实在论综合（Realist Synthesis）**：基于因果理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出（Wrigley & McCusker, 2019, pp.119, 123）
 
+---
+
 ## 来源
 
-- [[Higgins_2016_RE]]
 - [[Snook_2009_NZJES]]
 - [[Terhart_2011_JCS]]
 - [[Hattie_2015_Paideia]]
 - [[Allerup_2015_Paideia]]
+- [[Higgins_2016_RE]]
 - [[Wecker_2016_ZfE]]
 - [[Simpson_2017_JEP]]
 - [[Simpson_2019_ERE]]

@@ -6,8 +6,8 @@ extracted_to:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Meta-meta-analysis]]"
 processed_date: 2026-05-21
 ---
 

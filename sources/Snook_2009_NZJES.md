@@ -10,8 +10,8 @@ extracted_to:
   - "[[Class Size]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Meta-meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

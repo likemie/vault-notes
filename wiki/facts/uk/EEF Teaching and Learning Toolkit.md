@@ -48,14 +48,14 @@ related_facts:
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
 sources:
-  - "[[Higgins_2016_RE]]"
   - "[[Cowen_2015_CHESS]]"
+  - "[[Wrigley_2018_BERJ]]"
   - "[[Cowen_2019_ERE]]"
   - "[[Slavin_2019_EP]]"
-  - "[[Wrigley_2018_BERJ]]"
   - "[[Wrigley_2019_ERE]]"
-  - "[[Bainbridge_2022_ROE]]"
+  - "[[Higgins_2016_RE]]"
   - "[[Pellegrini_2021_ROE]]"
+  - "[[Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -72,10 +72,12 @@ updated: '2026-06-08'
 >
 > 与 Sutton Trust 的进一步合作使得一系列研究摘要得以开发，帮助学校决定如何分配新宣布的学生津贴资金。学生津贴是英国政府为经济弱势学生拨付的额外经费，学校可自主决定其用途（Higgins, 2016, p.46）。
 >
-> 在[[Education Endowment Foundation|EEF]]成立后，这些摘要被进一步发展为整合的系列工具。英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外（Bainbridge et al., 2022, p.4, 27）。
+> 在 EEF 成立后，这些摘要被进一步发展为整合的系列工具。
 
-> [!note] 欧洲证据基础设施中的定位
-> Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 Research Schools Network 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（Pellegrini & Vivanet, 2021, pp.32-33）。
+> [!note] 官方认可与欧洲定位
+> 英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外（Bainbridge et al., 2022, p.4, 27）。
+>
+> Pellegrini & Vivanet（2021）将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 Research Schools Network 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（pp.32–33）。
 
 ---
 
@@ -143,11 +145,11 @@ updated: '2026-06-08'
 
 ### 创造性重新诠释
 
-一所特殊学校将[[Education Endowment Foundation|EEF]]关于"反馈"的证据应用于教师反馈系统（而非学生反馈），结合 CCTV 录像观察教师课堂表现，这远远超出了证据直接支持的范畴（Cowen et al., 2015, p.24）。Cowen 认为，如果接受"证据的角色是激发审议而非直接指导实践"，这种创造性使用是可以被正面看待的（p.41）。
+一所特殊学校将 EEF 关于"反馈"的证据应用于教师反馈系统（而非学生反馈），结合 CCTV 录像观察教师课堂表现，这远远超出了证据直接支持的范畴（Cowen et al., 2015, p.24）。Cowen 认为，如果接受"证据的角色是激发审议而非直接指导实践"，这种创造性使用是可以被正面看待的（p.41）。
 
 ### 误读与简化
 
-EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"，这完全误读了 Toolkit 关于教学助理的微妙信息。一位教师批评，"他们就这样把它扔给学校了，所有东西都被误解了，没时间去理解其中的各种附加条件"（Cowen et al., 2015, p.40）。
+Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"，这完全误读了 Toolkit 关于教学助理的微妙信息。一位教师批评，"他们就这样把它扔给学校了，所有东西都被误解了，没时间去理解其中的各种附加条件"（Cowen et al., 2015, p.40）。
 
 ### 使用障碍
 
@@ -155,112 +157,106 @@ EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助�
 
 ---
 
-## 效果与评价
+## 评价
 
-> [!success] 效果与评价
+### 实践价值
 
-### 优点
-
-- Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效，如学习风格被排除（Cowen et al., 2015, p.40）
-- 呈现方式有吸引力且色彩丰富（Cowen et al., 2015, p.19）
-- 对教师理解哪些干预主动有害（如[[Tracking|能力分组]]）提供了有力参考（Cowen et al., 2015, p.23）
-- 一位新教师形容为通往高质量证据的捷径（Cowen et al., 2015, p.40）
-- Toolkit 的详细文件对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调（Cowen et al., 2015, pp.21–22）
-
-### 本地情境信息的缺乏
-
-Toolkit 在以下维度上的信息有限（Cowen et al., 2015, pp.20–21）：
-
-- 学生特征：仅限于年龄和相对劣势程度，缺乏性别、族裔、语言等信息
-- 学校环境：缺乏城市、郊区、农村的区别
-- 研究来源地：仅粗略标注主要来自美国，但这可能对英国学校的适用性产生重大影响
-- 效应的变异性：仅报告平均[[Effect Size|效应量]]，未充分展示效应在各个研究之间、各个亚群体之间的变异幅度
-
-> 例：一位教师指出，如果一项干预是在"与我校类似的学校，类似的生源、类似的课程"中测试的，那么该研究对该校的相关性远高于"许多不同学校的平均值"（Cowen et al., 2015, pp.29–30）
-
-### 平均效应量的误导潜力
-
-- 小正向效应（如两个月进步）与零效应之间的区分在统计上可能不可靠（Cowen et al., 2015, p.20）
-- 学术发表中对[[Statistical Significance|统计显著性]]的偏好可能筛选掉了效应量可观但统计不显著的结果（Cowen et al., 2015, p.20）
-- 某些正面效应在长期可能难以维持，但联盟表格式的呈现可能掩盖这一事实
-
-### 非学业结果的忽视
-
-Toolkit 以学生学业成就为唯一结果指标，但教师指出（Cowen et al., 2015, pp.21–22）：
-
-- 教学助理的价值可能在于改善课堂环境、减轻教师压力、提高教师留任率，这些不直接产生可衡量的学业进步，但长期可能通过保留有经验的教师而改善学生结果
-- 学生成就不是每个干预措施的唯一切实目的，即使它是整体政策战略的最终目标
-
-### 实施指导的空白
-
-- 虽然 EEF 提供了大量关于在学校开展试验的实践指导，但专门针对实施现有证据本位方案的文献相对较少（Cowen et al., 2015, pp.21–22, 45）
-- 缺乏关于如何将研究证据与本地知识、关于底层机制的假设相结合的实用指导
-- Cowen et al. 将此定位为国际证据本位实践文献中的共同空白
+> [!success] 实践价值
+> - Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效，如学习风格被排除（Cowen et al., 2015, p.40）
+> - 呈现方式有吸引力且色彩丰富（Cowen et al., 2015, p.19）
+> - 对教师理解哪些干预主动有害（如[[Tracking|能力分组]]）提供了有力参考（Cowen et al., 2015, p.23）
+> - 一位新教师形容为通往高质量证据的捷径（Cowen et al., 2015, p.40）
+> - Toolkit 的详细文件对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调（Cowen et al., 2015, pp.21–22）
 
 ---
 
-## 争议与评论
+### 方法论局限
 
-> [!warning] 争议与评论
+> [!warning] 三种系统性偏差
+> Simpson（2017）识别了 Toolkit [[Effect Size|效应量]]计算中的三类系统性偏差（Bainbridge et al., 2022, p.4 引用）：
+>
+> 1. **比较组效应**：控制组的性质系统性影响测量效应量
+> 2. **范围限制**：研究仅使用窄化人口时，标准差在分母中缩小而自动放大效应量
+> 3. **测量设计**：窄化的、与干预密切结合的结果测试产生比一般标准化测试更大的效应量
 
-### Simpson 的三类系统性偏差
+> [!warning] 苹果和橙子问题
+> Wrigley（2018）指出 Toolkit 的"反馈"类别混合了大量使用完全不同定义、不同学科、不同年龄层和不同结果测量工具的研究，其中有些呈现正向效应、有些负向效应，然后计算一个平均效应量。
 
-Simpson（2017）识别了 Toolkit [[Effect Size|效应量]]计算中的三类系统性偏差（Bainbridge et al., 2022, p.4 引用）：
+> [!warning] 体育参与案例：三级聚合失真
+> Wrigley & McCusker（2019, pp. 120–123）通过对 Toolkit 中"体育参与"条目的深度追踪，展示了[[Meta-meta-analysis|元-元分析]]如何在统计聚合中系统性消除因果解释信息：
+>
+> **Toolkit 呈现**：体育参与 = +2 个月进步（低效果、中等成本），效应量 0.17。
+>
+> **追踪至[[Meta-analysis|元分析]]层**：该 0.17 是对四个效应量（来自三个元分析）的加权平均：
+> - Lewis（2004）：0.10（美国博士论文，比较各种课外活动，体育加啦啦队的平均效应量，作者警告自我选择偏差）
+> - Shulruf（2010）：0.15（覆盖所有课外活动而非仅体育，主要结论是没有稳健的因果证据）
+> - Newman et al.（2010）：0.19（学业）+ 0.80（数学）
+>
+> **追踪至原始研究层**：0.80 的数学效应量来自[[Playing for Success]]，一个在著名足球场设立的高度资源密集型项目（一对一辅导、专用 ICT 套件、个性化课程、足球明星见面会），与普通"体育参与"几乎不可比。同一元分析中五项源研究有三项有问题或无关：一项样本仅 15 人；两项比较武术与传统体育（而非体育与非体育）；一项关于按摩和瑜伽（参见[[Playing for Success]]）。
+>
+> **关键问题**：当详细的项目评估报告被逐级简化为一个效应量数字时，所有解释 Playing for Success 为什么成功的因果信息（情境化课程、地位提升、一对一辅导、20 小时密集投入）都消失了。
+>
+> > "At every stage of the meta-analytic review, simplifications are made. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged."（Pawson, 2006, pp. 42–43, cited in Wrigley & McCusker, 2019, p. 122）
 
-1. **比较组效应**：控制组的性质系统性影响测量效应量
-2. **范围限制**：研究仅使用窄化人口时，标准差在分母中缩小而自动放大效应量
-3. **测量设计**：窄化的、与干预密切结合的结果测试产生比一般标准化测试更大的效应量
+> [!warning] 程序不透明性
+> 体育参与案例同时揭示了 Toolkit 的程序不透明性（Wrigley & McCusker, 2019, p. 120）：
+> - 从 Newman et al.（2010）多个效应量中选择"学业成果"和"数学"两个的标准未说明
+> - 加权方法不明确（未加权平均为 0.31，Toolkit 报告值为 0.17）
+> - "只有最有决心的忙碌校长才会下载原始研究综述"，而大多数教师无法做到这一点
 
-### 苹果和橙子问题
+---
 
-Wrigley（2018）指出 Toolkit 的"反馈"类别混合了大量使用完全不同定义、不同学科、不同年龄层和不同结果测量工具的研究，其中有些呈现正向效应、有些负向效应，然后计算一个平均效应量。
+### 信息与范围局限
 
-### Blatchford 教学助理案例
+> [!warning] 本地情境信息的缺乏
+> Toolkit 在以下维度上的信息有限（Cowen et al., 2015, pp.20–21）：
+>
+> - 学生特征：仅限于年龄和相对劣势程度，缺乏性别、族裔、语言等信息
+> - 学校环境：缺乏城市、郊区、农村的区别
+> - 研究来源地：仅粗略标注主要来自美国，但这可能对英国学校的适用性产生重大影响
+> - 效应的变异性：仅报告平均[[Effect Size|效应量]]，未充分展示效应在各个研究之间、各个亚群体之间的变异幅度
+>
+> > 例：一位教师指出，如果一项干预是在"与我校类似的学校，类似的生源、类似的课程"中测试的，那么该研究对该校的相关性远高于"许多不同学校的平均值"（Cowen et al., 2015, pp.29–30）
 
-Toolkit 将"教学助理"排入联盟表低位，但底层研究实际揭示的是结构性使用不当。研究建议的是改善教学助理使用方式，而非放弃教学助理。Toolkit 的简化排名可能在预算削减时为错误的人事决策提供依据。
+> [!warning] 平均效应量的误导潜力
+> - 小正向效应（如两个月进步）与零效应之间的区分在统计上可能不可靠（Cowen et al., 2015, p.20）
+> - 学术发表中对[[Statistical Significance|统计显著性]]的偏好可能筛选掉了效应量可观但统计不显著的结果（Cowen et al., 2015, p.20）
+> - 某些正面效应在长期可能难以维持，但联盟表格式的呈现可能掩盖这一事实
 
-> "Placing classroom assistants near the bottom of the Toolkit's league table could result in schools and academy chains terminating their employment, especially in times of budget cuts."（Wrigley, 2018, p. 12）
+> [!warning] 非学业结果的忽视
+> Toolkit 以学生学业成就为唯一结果指标，但教师指出（Cowen et al., 2015, pp.21–22）：
+> - 教学助理的价值可能在于改善课堂环境、减轻教师压力、提高教师留任率，这些不直接产生可衡量的学业进步，但长期可能通过保留有经验的教师而改善学生结果
+> - 学生成就不是每个干预措施的唯一切实目的，即使它是整体政策战略的最终目标
 
-Cowen et al.（2015, pp.23–24）的访谈为这一批评提供了实践验证：有[[School Leadership|学校领导]]确实使用 Toolkit 来改变教学助理的使用方式（重新训练而非裁员），但也有教师反映 Toolkit 发布后"首先听到的是太好了，让我们裁掉教学助理"的简化误读（p.40）。
+> [!warning] 实施指导的空白
+> - 虽然 EEF 提供了大量关于在学校开展试验的实践指导，但专门针对实施现有证据本位方案的文献相对较少（Cowen et al., 2015, pp.21–22, 45）
+> - 缺乏关于如何将研究证据与本地知识、关于底层机制的假设相结合的实用指导
+> - Cowen et al. 将此定位为国际证据本位实践文献中的共同空白
 
-### 体育参与案例：三级聚合失真
+---
 
-Wrigley & McCusker（2019, pp. 120–123）通过对 Toolkit 中"体育参与"条目的深度追踪，展示了[[Meta-meta-analysis|元-元分析]]如何在统计聚合中系统性消除因果解释信息：
+### 简化排名导致的实践风险
 
-**Toolkit 呈现**：体育参与 = +2 个月进步（低效果、中等成本），效应量 0.17。
+> [!warning] Blatchford 教学助理案例
+> Toolkit 将"教学助理"排入联盟表低位，但底层研究实际揭示的是结构性使用不当。研究建议的是改善教学助理使用方式，而非放弃教学助理。Toolkit 的简化排名可能在预算削减时为错误的人事决策提供依据（Wrigley, 2018, p. 12）。
+>
+> Cowen et al.（2015, pp.23–24）的访谈为这一批评提供了实践验证：有[[School Leadership|学校领导]]确实使用 Toolkit 来改变教学助理的使用方式（重新训练而非裁员），但也有教师反映 Toolkit 发布后"首先听到的是太好了，让我们裁掉教学助理"的简化误读（p.40）。
 
-**追踪至[[Meta-analysis|元分析]]层**：该 0.17 是对四个效应量（来自三个元分析）的加权平均：
-- Lewis（2004）：0.10（美国博士论文，比较各种课外活动，体育加啦啦队的平均效应量，作者警告自我选择偏差）
-- Shulruf（2010）：0.15（覆盖所有课外活动而非仅体育，主要结论是没有稳健的因果证据）
-- Newman et al.（2010）：0.19（学业）+ 0.80（数学）
+---
 
-**追踪至原始研究层**：0.80 的数学效应量来自[[Playing for Success]]，一个在著名足球场设立的高度资源密集型项目（一对一辅导、专用 ICT 套件、个性化课程、足球明星见面会），与普通"体育参与"几乎不可比。同一元分析中五项源研究有三项有问题或无关：一项样本仅 15 人；两项比较武术与传统体育（而非体育与非体育）；一项关于按摩和瑜伽（参见[[Playing for Success]]）。
+### 制度功能
 
-**关键问题**：当详细的项目评估报告被逐级简化为一个效应量数字时，所有解释 Playing for Success 为什么成功的因果信息（情境化课程、地位提升、一对一辅导、20 小时密集投入）都消失了。
-
-> "At every stage of the meta-analytic review, simplifications are made. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged."（Pawson, 2006, pp. 42–43, cited in Wrigley & McCusker, 2019, p. 122）
-
-### 程序不透明性
-
-体育参与案例同时揭示了 Toolkit 的程序不透明性：
-- 从 Newman et al.（2010）多个效应量中选择"学业成果"和"数学"两个的标准未说明
-- 加权方法不明确（未加权平均为 0.31，Toolkit 报告值为 0.17）
-- "只有最有决心的忙碌校长才会下载原始研究综述"，而大多数教师无法做到这一点（Wrigley & McCusker, 2019, p. 120）
-
-### Cowen 的官僚功能解释
-
-Cowen（2019）从制度视角指出，Toolkit 的真正功能不是为教学实践提供可靠指导，而是为主权者的问责需求提供依据。
-
-> "The Toolkit is 'useful' insofar as it provides a series of legitimised approaches that school leaders can try to implement with the resources dedicated to disadvantaged students."（Cowen, 2019, p. 11）
-
-在 Bainbridge et al.（2022）的分析中，这一制度批判获得了经验支持：EEF Toolkit 虽被政府正式认可为证据来源，但在 SSEF 政策制定中，政府回避了符合定义的证据（包括 Toolkit 所代表的元分析研究），转而使用不符合证据定义的[[Ofsted]]评级（Bainbridge et al., 2022, pp.4, 27）。
+> [!note] Cowen 的官僚功能解释
+> Cowen（2019）从制度视角指出，Toolkit 的真正功能不是为教学实践提供可靠指导，而是为主权者的问责需求提供依据（p.11）。
+>
+> Bainbridge et al.（2022）的分析为这一制度批判提供了经验支持：EEF Toolkit 虽被政府正式认可为证据来源，但在 SSEF 政策制定中，政府回避了符合定义的证据（包括 Toolkit 所代表的元分析研究），转而使用不符合证据定义的[[Ofsted]]评级（pp.4, 27）。
 
 ---
 
 ## 持续改进
 
 > [!note] 后续研究计划
-> [[Education Endowment Foundation|EEF]] 正在使用 Toolkit 作为指导进一步研究的依据，在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的[[Randomised Controlled Trials|随机对照试验]]。这些证据将既检验 Toolkit 的发现，又反馈到其证据基础中以增加稳健性。这种方法可能创建一个发现数据库，使跨情境和结果的更大可比性有助于更精确地识别研究发现中变异的原因（Higgins, 2016, p.49）。
+> EEF 正在使用 Toolkit 作为指导进一步研究的依据，在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的[[Randomised Controlled Trials|随机对照试验]]。这些证据将既检验 Toolkit 的发现，又反馈到其证据基础中以增加稳健性。这种方法可能创建一个发现数据库，使跨情境和结果的更大可比性有助于更精确地识别研究发现中变异的原因（Higgins, 2016, p.49）。
 
 ---
 
@@ -281,11 +277,11 @@ Cowen（2019）从制度视角指出，Toolkit 的真正功能不是为教学实
 
 ## 来源
 
-- [[Higgins_2016_RE]]
 - [[Cowen_2015_CHESS]]
+- [[Wrigley_2018_BERJ]]
 - [[Cowen_2019_ERE]]
 - [[Slavin_2019_EP]]
-- [[Wrigley_2018_BERJ]]
 - [[Wrigley_2019_ERE]]
-- [[Bainbridge_2022_ROE]]
+- [[Higgins_2016_RE]]
 - [[Pellegrini_2021_ROE]]
+- [[Bainbridge_2022_ROE]]
