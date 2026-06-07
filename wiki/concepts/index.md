@@ -237,7 +237,7 @@ Total entries: **532**
 > - [[Matthew Effect in Academia]] — Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环
 > - [[Membership-based Research Consortium]] — 多家企业作为会员共同出资支持大学研究、IP 归大学所有、会员获得优先许可权的制度安排，以 UCSB SSLEEC 为典型案例，通过非独占性 IP 设计绕过产业赞助研究中的 IP 毒丸问题
 > - [[Mentorship]] — 更有经验的人通过指导、支持和示范促进 less experienced 者专业和个人发展的过程，是科学和医学教育中的核心关系
-> - [[Mentorship Recognition]] — 学术场合中对导师的公开致谢，研究发现诺贝尔演讲中导师认可的缺失与导师制在科学中的重要性形成鲜明对比
+> - [[Mentorship Recognition]] — 学术场合中对导师的公开致谢，研究发现诺贝尔演讲中导师致谢的缺失与导师制在科学中的重要性形成鲜明对比
 > - [[Mode 2 Knowledge Production]] — Gibbons et al.（1994）提出的跨学科知识生产模式，以应用导向和多利益相关者协商为特征，区别于学科中心、学术驱动的 Mode 1，是产学研发合作的理论基础之一
 > - [[Multi-Faceted Relationships in University-Industry Collaboration]] — UIDP（2012）描述的产学合作最高形态，合作双方在学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域同时建立深度联盟，跨越单一维度成为制度化的全方位战略伙伴关系
 > - [[Multi-University]] — Clark Kerr（1963/2001）对美国现代综合性大学的描述，以研究、教学和公共服务三重使命同时服务多元利益相关者，其运转高度依赖财务资源和正向声誉的良性循环

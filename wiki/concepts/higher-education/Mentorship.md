@@ -69,7 +69,7 @@ updated: 2026-06-07
 
 > [!warning]
 >
-> **诺贝尔演讲中的[[Mentorship Recognition|导师认可]]缺失**。Sandrone (2025) 分析了 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲，发现只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
+> **诺贝尔演讲中的[[Mentorship Recognition|导师致谢]]缺失**。Sandrone (2025) 分析了 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲，发现只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
 >
 > **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者（Sandrone, 2025）。
 >

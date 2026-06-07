@@ -202,7 +202,7 @@ Total entries: **136**
 > - [[Argument_Bergeron_2017_MJE]] — 从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险
 
 > [!summary]- Medical Education Online (1)
-> - [[Argument_Sandrone_2025_MEO]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师认可的意外缺失
+> - [[Argument_Sandrone_2025_MEO]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师致谢的意外缺失
 
 > [!summary]- New Zealand Journal of Educational Studies (5)
 > - [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾

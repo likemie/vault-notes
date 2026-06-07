@@ -241,7 +241,7 @@ Total entries: **1187**
 > - [[Matthew Effect in Academia]] — Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环
 > - [[Membership-based Research Consortium]] — 多家企业作为会员共同出资支持大学研究、IP 归大学所有、会员获得优先许可权的制度安排，以 UCSB SSLEEC 为典型案例，通过非独占性 IP 设计绕过产业赞助研究中的 IP 毒丸问题
 > - [[Mentorship]] — 更有经验的人通过指导、支持和示范促进 less experienced 者专业和个人发展的过程，是科学和医学教育中的核心关系
-> - [[Mentorship Recognition]] — 学术场合中对导师的公开致谢，研究发现诺贝尔演讲中导师认可的缺失与导师制在科学中的重要性形成鲜明对比
+> - [[Mentorship Recognition]] — 学术场合中对导师的公开致谢，研究发现诺贝尔演讲中导师致谢的缺失与导师制在科学中的重要性形成鲜明对比
 > - [[Mode 2 Knowledge Production]] — Gibbons et al.（1994）提出的跨学科知识生产模式，以应用导向和多利益相关者协商为特征，区别于学科中心、学术驱动的 Mode 1，是产学研发合作的理论基础之一
 > - [[Multi-Faceted Relationships in University-Industry Collaboration]] — UIDP（2012）描述的产学合作最高形态，合作双方在学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域同时建立深度联盟，跨越单一维度成为制度化的全方位战略伙伴关系
 > - [[Multi-University]] — Clark Kerr（1963/2001）对美国现代综合性大学的描述，以研究、教学和公共服务三重使命同时服务多元利益相关者，其运转高度依赖财务资源和正向声誉的良性循环
@@ -1579,7 +1579,7 @@ Total entries: **1187**
 > - [[Argument_Bergeron_2017_MJE]] — 从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险
 
 > [!summary]- Medical Education Online (1)
-> - [[Argument_Sandrone_2025_MEO]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师认可的意外缺失
+> - [[Argument_Sandrone_2025_MEO]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师致谢的意外缺失
 
 > [!summary]- New Zealand Journal of Educational Studies (5)
 > - [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾

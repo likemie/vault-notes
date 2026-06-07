@@ -2,7 +2,7 @@
 title: Argument_Sandrone_2025_MEO
 authors:
   - "Sandrone, S."
-summary: "分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师认可的意外缺失"
+summary: "分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师致谢的意外缺失"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -54,7 +54,7 @@ updated: 2026-06-07
 >
 > - [[Mentorship|导师制]]在科学中的核心地位及其对被指导者成功的影响
 > - 诺贝尔奖得主的导师关系网络的非随机性
-> - [[Mentorship Recognition|导师认可]]在学术场合中的重要性
+> - [[Mentorship Recognition|导师致谢]]在学术场合中的重要性
 > - 性别和种族多样性在科学奖项中的差距
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-06-07
 
 ---
 
-### 诺贝尔演讲中导师认可的缺失
+### 诺贝尔演讲中导师致谢的缺失
 
 > [!warning] 核心发现
 >
@@ -140,7 +140,7 @@ updated: 2026-06-07
 >
 > 拉斯克奖常被视为获得诺贝尔奖的前奏（Marks, 1989; Naylor & Bell, 2015）。拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。
 >
-> 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori 和 Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师认可]]的现象更加令人惊讶（Sandrone, 2025）。
+> 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori 和 Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师致谢]]的现象更加令人惊讶（Sandrone, 2025）。
 
 > [!example] 奥斯卡奖的对比
 >
@@ -148,7 +148,7 @@ updated: 2026-06-07
 >
 > 关键差异：诺贝尔奖获得者提前被告知获奖，而奥斯卡获奖者通常直到颁奖之夜才被披露。这导致奥斯卡演讲往往是即兴的或提前部分准备的。诺贝尔演讲通常有约两个月的准备时间。一个世纪前，这个时间窗口更宽，从几个月到近一年不等。
 >
-> 这意味着不是缺乏时间准备或演讲时长阻止了诺贝尔奖获得者明确承认导师。因此，这种缺乏明确导师认可的现象可能是一种自愿选择（Sandrone, 2025）。
+> 这意味着不是缺乏时间准备或演讲时长阻止了诺贝尔奖获得者明确承认导师。因此，这种缺乏明确导师致谢的现象可能是一种自愿选择（Sandrone, 2025）。
 
 ---
 
@@ -168,7 +168,7 @@ updated: 2026-06-07
 
 > [!success]
 >
-> **[[Mentorship Recognition|导师认可]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师认可]]的缺失是令人意外的，尤其是考虑到[[Mentorship|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式（Sandrone, 2025）。
+> **[[Mentorship Recognition|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式（Sandrone, 2025）。
 >
 > **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这与研究表明博士后导师比研究生导师对受训者的成功更有影响相一致（Sandrone, 2025）。
 >
@@ -203,7 +203,7 @@ updated: 2026-06-07
 >
 > **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship|mentor]] 一词的频率（Sandrone, 2025）。
 >
-> **未分析其他诺贝尔奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition|导师认可]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势（Sandrone, 2025）。
+> **未分析其他诺贝尔奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition|导师致谢]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势（Sandrone, 2025）。
 >
 > **未探索感恩的其他形式**。虽然对诺贝尔奖历史中感恩表达的详细探索可以成为未来研究的焦点，但缺乏明确承认仍然特别令人惊讶（Sandrone, 2025）。
 

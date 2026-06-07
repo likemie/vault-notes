@@ -32,7 +32,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 诺贝尔生理学或医学奖由诺贝尔大会在卡罗林斯卡学院（Karolinska Institute）在斯德哥尔摩颁发。每年最多可授予三人。获奖者受邀到斯德哥尔摩发表诺贝尔演讲（Nobel Lecture），通常包括对其发现的历史和科学概述， often enriched by anecdotes from their personal and professional lives（Sandrone, 2025）。
+> 诺贝尔生理学或医学奖由诺贝尔大会在卡罗林斯卡学院（Karolinska Institute）在斯德哥尔摩颁发。每年最多可授予三人。获奖者受邀到斯德哥尔摩发表诺贝尔演讲（Nobel Lecture），通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事（Sandrone, 2025）。
 
 ---
 
