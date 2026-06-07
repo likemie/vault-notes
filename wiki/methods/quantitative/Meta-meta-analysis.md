@@ -111,7 +111,7 @@ updated: '2026-05-21'
 >
 > **[[John Hattie|Hattie]]（1992）——"通用连续体"**
 >
-> Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500–1500 万学生。他引入"通用连续体"（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40（SD=0.13）。最大效应量来自反馈相关干预（强化 1.13、补救与反馈 0.65、掌握学习 0.50），最低来自[[Individualised Instruction|个别化教学]]（0.14）。Hattie 得出三个结论：创新可以改善学习；反馈是最强大的单一影响；最不成功的创新是试图个别化教学的尝试（Higgins, 2016, p.42）。
+> Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500–1500 万学生。他引入"通用连续体"（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。最大效应量来自反馈相关干预（强化 1.13、补救与反馈 0.65、掌握学习 0.50），最低来自[[Individualised Instruction|个别化教学]]（0.14）。Hattie 得出三个结论：创新可以改善学习；反馈是最强大的单一影响；最不成功的创新是试图个别化教学的尝试（Higgins, 2016, p.42）。
 >
 > **Sipe & Curlette（1997）——系统性方法论推进**
 >
@@ -283,14 +283,14 @@ updated: '2026-05-21'
 >
 > **Johnson & Janzen（2023）——方法论不透明与读者无法验证。** Johnson & Janzen（2023）对 Hattie 的元-元分析进行了直接的透明度批判，其独特贡献在于**从读者视角**展示了方法论的不透明性如何使普通教育者无法验证其主张：
 >
-> - **Homework 效应量的逐步重构**：Hattie 声称综合了 5 项元分析（161 项研究、100,000+ 学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29——但指出 5、161、100,000 这些数字实际上"do not contribute to d=0.29, an average of unstated values"（Johnson & Janzen, 2023, p.25–26）
-> - **不透明与伪科学的关联**：伪科学工作的特征——"tends to both amplify its mathematical sophistication and obfuscate its nature"——而 VL 的 methodology section 篇幅极短却声称找到了教育的"圣杯"（Johnson & Janzen, 2023, p.26）
-> - **普通教育者无法验证**："The average K-12 educator would be unlikely to have the time, skill set, or access to challenge Hattie's claims"（Johnson & Janzen, 2023, p.26）
-> - **Glass & Smith (1979) 效应量提取不透明**：详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。VL 从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值（Johnson & Janzen, 2023, p.32–33）
+> - **家庭作业效应量的逐步重构**：Hattie 声称综合了 5 项元分析（161 项研究、10 万多名学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29，但指出 5、161、100,000 这些数字实际上并不构成 d=0.29 的计算基础，后者只是未声明数值的平均（Johnson & Janzen, 2023, pp.25–26）
+> - **不透明与伪科学的关联**：伪科学工作的特征是既放大其数学 sophistication 又模糊其本质，而《可见的学习》的方法论章节篇幅极短却声称找到了教育的"圣杯"（Johnson & Janzen, 2023, p.26）
+> - **普通教育者无法验证**：一般的中小学教育者不太可能有时间、技能或渠道来挑战 Hattie 的主张（Johnson & Janzen, 2023, p.26）
+> - **Glass & Smith (1979) 效应量提取不透明**：详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。《可见的学习》从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值（Johnson & Janzen, 2023, p.32–33）
 
 
 > [!warning] 信息损失与数据库质量
-> **Snook et al.（2009）——"质量就是一切"。** Snook et al.（2009, p.94）在 VL 出版同年就指出：Hattie 声称不关心 800 项研究中包含的研究质量——"但是，质量就是一切"。任何未排除低质量或不当研究的元分析都是误导性的，如果导致不明智的政策发展则可能具有破坏性。
+> **Snook et al.（2009）——"质量就是一切"。** Snook et al.（2009, p.94）在《可见的学习》出版同年就指出：Hattie 声称不关心 800 项研究中包含的研究质量——"但是，质量就是一切"。任何未排除低质量或不当研究的元分析都是误导性的，如果导致不明智的政策发展则可能具有破坏性。
 >
 > **Terhart（2011）——信息损失与失真。** Terhart（2011, p.436）识别了元-元分析最根本的局限——**通过反复累积，原始的详细经验信息系统性消失**。具体表现为：原始研究的情境细节被元分析消除；元分析的调节变量信息在二级聚合中进一步消失；不同质量的研究在各级聚合中被等同对待。
 >
@@ -300,9 +300,9 @@ updated: '2026-05-21'
 
 
 > [!warning] 认识论困境与角色争议
-> **Terhart（2011）——稳定性与变异性的双重困境。** Terhart（2011, p.436）提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在 VL 出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"（Terhart, 2011, p.436）。
+> **Terhart（2011）——稳定性与变异性的双重困境。** Terhart（2011, p.436）提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在《可见的学习》出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"（Terhart, 2011, p.436）。
 >
-> **Wiliam（2019）——元-元分析在教育政策中绝对没有任何角色。** Wiliam（2019, p.11）做出了 [[Evidence-Based Education|EBE]] 批判文献中对元-元分析最彻底的否定：
+> **Wiliam（2019）——元-元分析在教育政策中绝对没有任何角色。** Wiliam（2019, p.11）做出了[[Evidence-Based Education|证据本位教育]]批判文献中对元-元分析最彻底的否定：
 >
 > > "将多个元分析的结果通过效应量的某种加权合并——即所谓的元-元分析——在教育政策制定中绝对没有任何角色。"
 >
@@ -314,7 +314,7 @@ updated: '2026-05-21'
 >
 > **起点：四个数字，一次简单平均**
 >
-> VL 纳入的四项"全语言"元分析及其效应量：
+> 《可见的学习》纳入的四项"全语言"元分析及其效应量：
 >
 > | 元分析 | Hattie 使用的 d |
 > |--------|----------------|
@@ -325,9 +325,9 @@ updated: '2026-05-21'
 >
 > Hattie 将它们相加除以 4 → d = 0.06，据此宣布全语言"对学习阅读的影响可忽略不计"——未对元分析的研究数量、质量或规模进行任何加权（O'Connor, 2020, p.145）。
 >
-> **第一项元分析：研究的是另一回事。** Stahl & Miller（1989）的标题明确包含"Whole language **and language experience** approaches"。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl 本人在五年后承认将[[Language Experience Approach|语言经验法]]等同于全语言是"时代错误的"（anachronistic），并明确排除了纯粹涉及语言经验法的研究。Hattie 在 VL 中对此只字不提（O'Connor, 2020, pp.144–145）。
+> **第一项元分析：研究的是另一回事。** Stahl & Miller（1989）的标题明确包含"Whole language **and language experience** approaches"。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl 本人在五年后承认将[[Language Experience Approach|语言经验法]]等同于全语言是"时代错误的"（anachronistic），并明确排除了纯粹涉及语言经验法的研究。Hattie 在《可见的学习》中对此只字不提（O'Connor, 2020, pp.144–145）。
 >
-> **第二项元分析：Jeynes & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell（2000）的 d=−0.65 是 VL 800+ 元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查（O'Connor, 2020, p.146）。
+> **第二项元分析：Jeynes & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell（2000）的 d=−0.65 是《可见的学习》800 多项元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查（O'Connor, 2020, p.146）。
 >
 > *被掩盖的正面发现*：Jeynes & Littell 自己区分了四类全语言研究，其中被定义为"全语言热衷者会同意"的 2 项"纯粹"全语言研究效应量为 d=0.83。Hattie 只报告了四类汇总的总体负值（O'Connor, 2020, p.146）。
 >
@@ -339,13 +339,13 @@ updated: '2026-05-21'
 > | Lamb (1972) | −0.75 | +0.44 |
 > | Harris & Serwer (1966) | −0.51 | +0.18 |
 >
-> Krashen 的结论与 Jeynes & Littell "几乎完全相反"。该批评发表于 2002 年，比 VL 早 7 年，Hattie 未提及。
+> Krashen 的结论与 Jeynes & Littell "几乎完全相反"。该批评发表于 2002 年，比《可见的学习》早 7 年，Hattie 未提及。
 >
 > *作者背景*：William H. Jeynes 是福音派牧师、God's Love Ministries 创始人，与共和党关系密切，曾进入 Trump 教育部长候选名单。Jeynes 的 −0.65 不仅是一个统计异常值——它嵌入了特定的政治议程（O'Connor, 2020, pp.147–148）。
 >
 > **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee（1995）报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践（O'Connor, 2020, p.148）。
 >
-> **关键的对比**：在 VL 的 800+ 元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
+> **关键的对比**：在《可见的学习》800 多项元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
 >
 > **Hattie 自己的话**："当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）O'Connor 指出这与元分析创始人 Gene Glass（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
 
@@ -354,7 +354,7 @@ updated: '2026-05-21'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education|证据本位教育]]的认识论假设 — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了 EBE 的根本问题（Wrigley & McCusker, 2019）
+> - [[Evidence-Based Education|证据本位教育]]的认识论假设 — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了证据本位教育的根本问题（Wrigley & McCusker, 2019）
 > - [[Critical Realism|批判实在论]] — 从三层本体论角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的因果机制（Wrigley & McCusker, 2019, pp.116–117）
 
 ---
@@ -362,13 +362,13 @@ updated: '2026-05-21'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Visible Learning]] — [[John Hattie|Hattie]] (2009) 的 800+ [[Meta-analysis|元分析]]综合，该方法的标志性应用（Terhart, 2011）
+> - [[Visible Learning]] — [[John Hattie|Hattie]]（2009）的 800 多项[[Meta-analysis|元分析]]综合，该方法的标志性应用（Terhart, 2011）
 > - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 以[[Effect Size|效应量]]排名 30+ 类教育干预的联盟表工具（Wrigley & McCusker, 2019）
-> - [[Argument_Wecker_2016_ZfE]] — 从[[Fixed-Effect and Random-Effects Models|固定效应模型]]数学基础对 Hattie VL 进行系统性的内部+外部方法论批判（Wecker et al., 2016）
+> - [[Argument_Wecker_2016_ZfE]] — 从[[Fixed-Effect and Random-Effects Models|固定效应模型]]数学基础对 Hattie 的《可见的学习》进行系统性的内部和外部方法论批判（Wecker et al., 2016）
 > - [[Argument_Simpson_2017_JEP]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名（Simpson, 2017）
 > - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作（Simpson, 2019）
 > - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真（Wrigley & McCusker, 2019）
-> - [[Argument_OConnor_2020_AJLL]] — 以 VL [[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除（O'Connor, 2020）
+> - [[Argument_OConnor_2020_AJLL]] — 以《可见的学习》[[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除（O'Connor, 2020）
 
 ---
 
