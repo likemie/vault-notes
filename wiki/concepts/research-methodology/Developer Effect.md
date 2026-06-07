@@ -18,6 +18,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Implementation Fidelity]]"
+  - "[[Heterogeneity]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 > 5. **[[Implementation Fidelity|实施忠实度]]（Treatment Fidelity）**：开发者可能在委托研究中确保更高的实施质量，但 [[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验
 
 
-> [!abstract] 异质性
+> [!abstract] [[Heterogeneity|异质性]]
 > 开发者效应的背后存在大量异质性。控制协变量后，独立研究的 95% 预测区间为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929)（Wolf et al., 2020, p. 441）。这意味着并非所有开发者研究的效应量都大——而是分布整体向右偏移。
 
 ## 历史沿革

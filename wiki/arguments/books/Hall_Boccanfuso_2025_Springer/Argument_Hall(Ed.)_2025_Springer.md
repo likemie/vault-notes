@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Heterogeneity]]"
   - "[[Partnership Continuum]]"
   - "[[Theoretical Perspective]]"
   - "[[Innovation Ecosystem]]"
@@ -162,7 +163,7 @@ updated: 2026-06-04
 
 面对这些结构性张力，全书从两个层面给出了回应：
 
-1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]]（1914）的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth 和 Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的异质性和思想的多样性"，这些正是美国体系的特征（pp.11–12）。
+1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]]（1914）的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth 和 Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征（pp.11–12）。
 
 2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics 等项目代表了从合同细节到战略联盟的系统性解决方案（pp.16–20）。
 

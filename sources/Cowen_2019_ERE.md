@@ -3,9 +3,9 @@ citation: "Cowen, N. (2019). For whom does 'what works' work? The political econ
 extracted_to:
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Evidence-Based Education]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Nick Cowen]]"
   - "[[Tullock's Bureaucracy Theory]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 processed_date: 2026-05-01
 ---
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
   - "[[Variable]]"
+  - "[[Heterogeneity]]"
   - "[[Causality]]"
   - "[[Implementation Fidelity]]"
 related_theories: []
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - **全样本**：控制协[[Variable|变量]]后，独立研究 ES = +0.168，开发者研究 ES = +0.309，差异 = 0.141 SD（Wolf et al., 2020, p. 441）
 > - **同一干预子样本**：控制协变量和干预固定效应后，独立研究 ES = +0.194，开发者研究 ES = +0.324，差异 = 0.130 SD（Wolf et al., 2020, p. 439）
-> - **[[Effect Size|效应量]]分布异质性**：独立研究 95% 预测区间 (−0.452, +0.788)；开发者研究 (−0.311, +0.929)（Wolf et al., 2020, p. 441）
+> - **[[Effect Size|效应量]]分布[[Heterogeneity|异质性]]**：独立研究 95% 预测区间 (−0.452, +0.788)；开发者研究 (−0.311, +0.929)（Wolf et al., 2020, p. 441）
 > - **[[Publication Bias|发表偏倚]]**：Vevea-Hedges 校正后开发者-独立研究差异从 0.115 降至 0.076，约 66% 的差异可归因于发表偏倚（Wolf et al., 2020, p. 442）
 > - **描述性差异**：开发者研究更倾向[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、自编测量（29% vs. 8%）、更小样本量（均值 392 vs. 659），控制后效应仍在（Wolf et al., 2020, pp. 434–436）
 > - **敏感性分析**：移除研究生研究、仅实验设计、仅准实验设计——[[Developer Effect|开发者效应]]均持续存在且大小相似（Wolf et al., 2020, p. 441）

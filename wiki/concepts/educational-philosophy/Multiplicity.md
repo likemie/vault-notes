@@ -9,10 +9,10 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Heterogeneity]]"
   - "[[Relational Space]]"
   - "[[Conflict of Interest in Research]]"
   - "[[International Education]]"
-  - "[[Big Ideas]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Space-Making]]"
 related_theories: []
@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 多重性（multiplicity）是 [[Doreen Massey]]（2005）空间理论中最重要的概念，指空间中"差异的共存"（the co-existence of difference）。空间是"共存异质性"（co-existing heterogeneity）的领域，不同行动者的轨迹在此交汇，空间因此必然包含复数性。多重性是 Massey 开放本体论的直接推论：如果空间不是预先给定的容器而是关系性产物，那么它必然包含不可化约的复数性（Marginson, 2025, pp. 5–6）。
+> 多重性（multiplicity）是 [[Doreen Massey]]（2005）空间理论中最重要的概念，指空间中"差异的共存"（the co-existence of difference）。空间是"共存[[Heterogeneity|异质性]]"（co-existing heterogeneity）的领域，不同行动者的轨迹在此交汇，空间因此必然包含复数性。多重性是 Massey 开放本体论的直接推论：如果空间不是预先给定的容器而是关系性产物，那么它必然包含不可化约的复数性（Marginson, 2025, pp. 5–6）。
 
 > [!quote]
 > "Conceptualizing space as open, multiple and relational, unfinished and always becoming, is a prerequisite for history to be open and thus … for the possibility of politics"（Massey, 2005, p. 59）
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — 多重性是 Massey 空间理论的[[Big Ideas|核心概念]]，建立在其开放本体论之上，详见 Massey > 核心思想
+> - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放本体论之上，详见 Massey > 核心思想
 > - Lefebvre（1991）空间生产理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的开放性和未完成性
 
 ---

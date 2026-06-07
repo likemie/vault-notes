@@ -41,6 +41,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[ResearchED]]"
 related_arguments: []
 sources:
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 > - **Pawson (2006) 的现实主义[[Appraisal Theory|评估理论]]** — 社会项目通过人的推理（而非物理因果）产生效果；呼吁"实在论综合"取代统计平均
 > - **新自由主义批判框架（Ball, 2013; Sears, 2003）** — [[Evidence-Based Education|EBE]] 定位于审计文化（Power, 1997）和市场化的效率要求中
 >
-> 方法：概念分析 + 方法论解构 + 实证案例拆解（Fresh Start [[Randomised Controlled Trials|RCT]]、EEF Toolkit、[[John Hattie|Hattie]] [[Visible Learning]]）
+> 方法：概念分析 + 方法论解构 + 实证案例拆解（Fresh Start [[Randomised Controlled Trials|RCT]]、[[Education Endowment Foundation|EEF]] Toolkit、[[John Hattie|Hattie]] [[Visible Learning]]）
 
 ## 核心论证
 
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 > - **开放系统困境**：教育是开放、递归、符号系统（直接引用 Biesta 2010），无法被实验封闭
 >
 > **Fresh Start 案例解构**：
-> - EEF 行政摘要声称效应量 +0.24SD（相当于 3 个月额外进步）
+> - [[Education Endowment Foundation|EEF]] 行政摘要声称效应量 +0.24SD（相当于 3 个月额外进步）
 > - 细读发现：[[Random Assignment|随机分配]]严重失真（治疗组前测远低于控制组前测）
 > - 匹配子集分析显示：治疗组和控制组的低分学生进步几乎完全相同
 > - **"三个月的额外进步"是随机化失败的幻象**
@@ -149,7 +150,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > 1. **统计聚合逐级失真**：[[Randomised Controlled Trials|RCT]] 的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（[[John Hattie|Hattie]]/Toolkit）中进一步被隐藏——"越聚合越空洞化"
 >
-> 2. **Fresh Start 案例显示"政治压力下的方法论妥协"**：EEF 作为政府资助方可能为迎合教育部长的偏好而突显统计上不存在的结果
+> 2. **Fresh Start 案例显示"政治压力下的方法论妥协"**：[[Education Endowment Foundation|EEF]] 作为政府资助方可能为迎合教育部长的偏好而突显统计上不存在的结果
 >
 > 3. **Toolkit 的[[Effect Size|效应量]]排名可能产生反效果**：将教学助理（因结构性使用不当而非方法无效）标签为"低影响"可在预算削减中被用于错误的人事决策
 >
@@ -179,7 +180,7 @@ updated: '2026-05-18'
 >
 > **批评内容**：Wrigley 推崇 Pawson (2006) 的"实在论综合"（realist synthesis）作为统计[[Meta-analysis|元分析]]的替代方案——但这比"计算平均[[Effect Size|效应量]]并放入排名表"复杂得多。实在论综合要求逐项理解每次干预的"受试者"特征、因果理论、结果质量、测量充分性和过程障碍——这对研究综述者是可操作的要求，但对于时间有限的一线教师和[[School Leadership|学校领导]]，如何将这种复杂性转化为可用的决策支持工具？
 >
-> **Wrigley 可能的回应**：Wrigley 会回应说，教师不需要自己进行实在论综合——这应该是研究者的工作。问题是研究者的产出（如 EEF Toolkit 的效应量排名表）对教师"易用"但"误导"——实在论综合的目标是提供更准确（虽然更复杂）的综述。但这一回应的确承认了"可及性"与"准确性"之间的固有张力。
+> **Wrigley 可能的回应**：Wrigley 会回应说，教师不需要自己进行实在论综合——这应该是研究者的工作。问题是研究者的产出（如 [[Education Endowment Foundation|EEF]] Toolkit 的效应量排名表）对教师"易用"但"误导"——实在论综合的目标是提供更准确（虽然更复杂）的综述。但这一回应的确承认了"可及性"与"准确性"之间的固有张力。
 >
 > **目前状态**：实在论综合在方法论学者中获得认可（Pawson, 2006; Pawson & Tilley, 1997），但其在政策审议中的实际影响力远不及 Toolkit/[[John Hattie|Hattie]] 的效应量排名——后者之所以流行恰恰因为其简单性（参见 Cowen, 2019 对"对主权者透明"的分析）。
 >

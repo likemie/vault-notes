@@ -35,7 +35,9 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Gene Glass]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[Playing for Success]]"
 related_arguments: []
 sources:
@@ -63,7 +65,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
-> - 案例研究：以 EEF Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
+> - 案例研究：以 [[Education Endowment Foundation|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
 > - 文献批判性综述：综合 Bhaskar、Pawson、Thomas、Simpson、Biesta 等学者的批判资源
 
 ## 核心论证
@@ -109,7 +111,7 @@ updated: '2026-05-18'
 > ### 7. 统计综合的三级失真
 >
 > - **[[Meta-analysis|元分析]]层面**：Simpson (2017, 2018) 论证效应量是"试验设计得如何使效应可见"的指标，而非干预有效性的指标（Wrigley & McCusker, 2019, p. 118）
-> - **[[Meta-meta-analysis|元-元分析]]层面**：[[John Hattie|Hattie]] 的 [[Visible Learning]] 和 EEF Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。Gene Glass（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）（Wrigley & McCusker, 2019, p. 119）
+> - **[[Meta-meta-analysis|元-元分析]]层面**：[[John Hattie|Hattie]] 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。[[Gene Glass]]（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）（Wrigley & McCusker, 2019, p. 119）
 >
 > ### 8. 体育参与案例研究（EEF Toolkit 深度追踪）
 >
@@ -162,7 +164,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 论文自身承认其论证可能被误读为"研究对教师无实际益处"——作者澄清研究（包括 [[Randomised Controlled Trials|RCT]]）可以挑战既有专业习惯和提供替代方案，但许多其他形式的研究比 RCT 和[[Meta-analysis|元分析]]更擅长这一点（p. 123）
-> - 体育参与案例只是 EEF Toolkit 35 个条目之一，单一案例的泛化能力有限——不过作者论证这说明了系统性问题而非孤立失误
+> - 体育参与案例只是 [[Education Endowment Foundation|EEF]] Toolkit 35 个条目之一，单一案例的泛化能力有限——不过作者论证这说明了系统性问题而非孤立失误
 > - 对 RCT 的批判可能导致"反科学"的指控——作者明确否认这一立场，强调意图是"更认真对待科学探究"（p. 123）
 
 ## 来源

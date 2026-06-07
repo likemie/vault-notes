@@ -19,6 +19,7 @@ related_concepts:
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
+  - "[[Heterogeneity]]"
   - "[[External Validity]]"
   - "[[Theories of Policy Change]]"
 related_theories:
@@ -120,7 +121,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 > - **个体或小群体干预评估**：当研究聚焦于个体行为变化而非群体平均效应时（Hitchcock et al., 2015, p.460）
 > - **特殊教育领域**：SCD 在特殊教育中被广泛用于识别循证实践（Horner et al., 2005）
 > - **行为[[Intervention Research|干预研究]]**：适用于需要密集、纵向测量的行为改变研究
-> - **难以进行大规模 [[Randomised Controlled Trials|RCT]] 的情境**：当目标人群较小或异质性较高时
+> - **难以进行大规模 [[Randomised Controlled Trials|RCT]] 的情境**：当目标人群较小或[[Heterogeneity|异质性]]较高时
 > - **证据清算中心审查**：[[What Works Clearinghouse]] 的主题特定综述协议把 SCD 列为可纳入的影响研究设计之一；[[Home Visiting Evidence of Effectiveness]] 也为 single case designs 设置单独标准（Wadhwa et al., 2024, pp.8–11）。
 
 ## 内部效度与外部效度的关系

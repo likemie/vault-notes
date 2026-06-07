@@ -32,6 +32,7 @@ related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Qualitative Research]]"
+  - "[[Meta-meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -156,7 +157,7 @@ updated: 2026-06-02
 ## 7. 使用此方法的研究
 
 > [!example]
-> - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research|质性研究]]进行元综合，将两组结果合并比较以制定老年驾驶员安全促进模型（Creswell & Creswell, 2022, p.137）。
+> - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research|质性研究]]进行[[Meta-meta-analysis|元综合]]，将两组结果合并比较以制定老年驾驶员安全促进模型（Creswell & Creswell, 2022, p.137）。
 
 ---
 

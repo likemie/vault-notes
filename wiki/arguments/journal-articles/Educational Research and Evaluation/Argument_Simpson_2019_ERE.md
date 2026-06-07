@@ -19,6 +19,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
+  - "[[Heterogeneity]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
   - "[[Feedback]]"
@@ -27,7 +28,8 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
   - "[[Simpson_2019_ERE]]"
@@ -39,7 +41,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[Effect Size|效应量]]（effect size）被广泛假定为测量教育干预有效性的指标，并以此为基础驱动全球教育政策（[[John Hattie|Hattie]] 的 [[Visible Learning]]、EEF Toolkit 等）。本文试图回答：**效应量是否真正测量教育的有效性或影响力？如果不是，它对教育政策应该扮演什么角色？**
+> [[Effect Size|效应量]]（effect size）被广泛假定为测量教育干预有效性的指标，并以此为基础驱动全球教育政策（[[John Hattie|Hattie]] 的 [[Visible Learning]]、[[Education Endowment Foundation|EEF]] Toolkit 等）。本文试图回答：**效应量是否真正测量教育的有效性或影响力？如果不是，它对教育政策应该扮演什么角色？**
 
 ## 理论框架
 
@@ -51,7 +53,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - 方法：思想实验 + 概念分析 + 现实案例验证
 > - 核心策略：构造一个简单可控的教学干预（教一个匈牙利单词），展示仅改变测量方式即可使同一干预的[[Effect Size|效应量]]在 0 到无穷大之间变化
-> - 现实案例：引用 Merrell & Kasim (2015)、Sibieta (2016)、Sibieta et al. (2016) 等 EEF 资助的评估报告，验证同一干预在不同测量上产生截然不同的效应量
+> - 现实案例：引用 Merrell & Kasim (2015)、Sibieta (2016)、Sibieta et al. (2016) 等 [[Education Endowment Foundation|EEF]] 资助的评估报告，验证同一干预在不同测量上产生截然不同的效应量
 
 ## 核心论证
 
@@ -60,7 +62,7 @@ updated: '2026-05-18'
 >
 > 假设随机抽取英语使用者，随机分为两组。实验组被告知匈牙利语单词 *oktatás* 的英文翻译是 "education"，对照组无任何信息。两组立即参加包含 10 个匈牙利语单词的翻译测试（其中一个是 *oktatás*）。
 >
-> - **基准情况**（测试包含 *oktatás*，开放式作答）：实验组平均得 1 分（几乎全对 *oktatás*），对照组平均得 0 分。标准差接近零 → **[[Effect Size|效应量]]趋向无穷大**。按 [[John Hattie|Hattie]] 的标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预；按 EEF 的"月数进步"指标，这相当于"几十年的额外学校进步"（p.100-101）。
+> - **基准情况**（测试包含 *oktatás*，开放式作答）：实验组平均得 1 分（几乎全对 *oktatás*），对照组平均得 0 分。标准差接近零 → **[[Effect Size|效应量]]趋向无穷大**。按 [[John Hattie|Hattie]] 的标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预；按 [[Education Endowment Foundation|EEF]] 的"月数进步"指标，这相当于"几十年的额外学校进步"（p.100-101）。
 >
 > 仅改变测试设计（不改变干预内容、样本、控制组活动）：
 >
@@ -106,7 +108,7 @@ updated: '2026-05-18'
 >
 > ### 5. 效应量的合法技术角色
 >
-> 效应量在**研究设计**中有合法用途：它可以告诉未来的研究者，在类似的测试（以及样本和控制活动）下，他们可以预期的噪声水平，从而调整样本量、减少样本异质性、选择和修改测量工具、增强与控制组的对比度等（p.104）。
+> 效应量在**研究设计**中有合法用途：它可以告诉未来的研究者，在类似的测试（以及样本和控制活动）下，他们可以预期的噪声水平，从而调整样本量、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具、增强与控制组的对比度等（p.104）。
 >
 > 合并效应量仅在极端条件下有意义："当且仅当同一干预在多项研究中使用相同的样本、与相同的控制活动比较、在相同的测量上（并使用相同的研究设计和统计分析方法）进行评估时，才能合并这些研究的效应量"（p.106）。"当然，在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"（p.106）。
 

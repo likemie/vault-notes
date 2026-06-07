@@ -31,6 +31,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Gene Glass]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 >
 > | 分析步骤 | 方法要求（固定效应模型） | Hattie 实际执行的缺陷 |
 > |---------|---------------------|-------------------|
-> | (1) 主要研究效应量计算 | 完整的主要研究表（d, v, n_E, n_C）；统一效应量测度 | 主要研究信息缺失；交替使用 Cohen's d / Hedges' g / Glass' Δ 而不转换；有时无主要研究表 |
+> | (1) 主要研究效应量计算 | 完整的主要研究表（d, v, n_E, n_C）；统一效应量测度 | 主要研究信息缺失；交替使用 Cohen's d / Hedges' g / [[Gene Glass\|Glass]]' Δ 而不转换；有时无主要研究表 |
 > | (2) 一级元分析效应量确定 | Fisher's z 转换后平均（若合并 r）；精度加权平均（若合并 d） | 直接计算 r 的算术平均而非通过 Fisher z；效应量测度错误归因 |
 > | (3) 方差/标准误确定 | 基于 n_E, n_C 和 d 计算 v_dⱼ；或从元分析报告的 [[School Effectiveness\|SE]]/[[Confidence Interval\|CI]] 计算 | 从效应量 SD 而非样本量计算 SE；一级元分析提供了 CI 也不计算 SE；武断使用 0.05 为 SE 下限 |
 > | (4) 重复数据中和 | 若主要研究出现在多个元分析，减去协方差或使用非重叠子集 | "完全忽略了重复的问题"——即使重叠率达 93% |
@@ -90,7 +91,7 @@ updated: '2026-05-18'
 >
 > **步骤 1: 数据基础的检查**（p.26-27）
 >
-> 发现 (a) 主要研究表系统性缺失——许多一级[[Meta-analysis|元分析]]缺乏完整的主要研究表，即使存在也经常缺乏样本量信息（n_E, n_C）；(b) [[Effect Size|效应量]]测度交替混淆——[[John Hattie|Hattie]] 在不同元分析间交替使用 Cohen's d / Hedges' g / Glass' Δ / Fisher's z 而不做转换，这些测度在数学上不等价，不能直接汇总。
+> 发现 (a) 主要研究表系统性缺失——许多一级[[Meta-analysis|元分析]]缺乏完整的主要研究表，即使存在也经常缺乏样本量信息（n_E, n_C）；(b) [[Effect Size|效应量]]测度交替混淆——[[John Hattie|Hattie]] 在不同元分析间交替使用 Cohen's d / Hedges' g / [[Gene Glass|Glass]]' Δ / Fisher's z 而不做转换，这些测度在数学上不等价，不能直接汇总。
 >
 > **步骤 2: 效应量确定方式的检查**（p.28）
 >

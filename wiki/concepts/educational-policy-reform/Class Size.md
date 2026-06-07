@@ -16,6 +16,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
   - "[[Constructive Alignment]]"
+  - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
 related_theories: []
@@ -26,6 +27,7 @@ related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Gene Glass]]"
 related_facts:
   - "[[French Class Size Reduction]]"
   - "[[Campbell Collaboration]]"
@@ -96,7 +98,7 @@ updated: '2026-05-23'
 
 ### 成就效果
 
-[[John Hattie|Hattie]] 综合[[Meta-analysis|元分析]]得出的班级规模[[Effect Size|效应量]]约为 0.2，并将其归为较小效应。Snook 等人则指出，这个平均值容易遮蔽高质量研究中的较大效果：STAR 项目采用随机实验设计，小班 13–17 人，大班 22–25 人，两年后标准化测试效应量达 0.62–0.66；Smith 与 Glass 采用更严格标准后发现阅读 d = 0.30、数学 d = 0.32（Snook et al., 2009, pp.100-101）。
+[[John Hattie|Hattie]] 综合[[Meta-analysis|元分析]]得出的班级规模[[Effect Size|效应量]]约为 0.2，并将其归为较小效应。Snook 等人则指出，这个平均值容易遮蔽高质量研究中的较大效果：STAR 项目采用随机实验设计，小班 13–17 人，大班 22–25 人，两年后标准化测试效应量达 0.62–0.66；Smith 与 [[Gene Glass|Glass]] 采用更严格标准后发现阅读 d = 0.30、数学 d = 0.32（Snook et al., 2009, pp.100-101）。
 
 伦敦班级规模研究覆盖 199 所学校、330 个班级、7,142 名学生，发现 Reception 年在读写和算术上有明显班级规模效应，尤其对低能力儿童更重要；但效果在 Year 1 之后不再明显（Snook et al., 2009, p.101）。这说明班级规模可能具有年龄段和学生群体差异。
 
@@ -150,7 +152,7 @@ Hattie 指出，大学也常争论班级规模，尤其是讲座形式；但高�
 
 ### Hattie 立场与批评方立场
 
-[[John Hattie|Hattie]] 认为班级规模平均效应约为 d = 0.20，虽为正但小于其常用参照值 d = 0.40，因此相对于高成本不一定值得。Snook 等批评者反驳说，d = 0.20 并非可忽略，而且高质量研究如 STAR 与 Smith & Glass 的结果明显更大，平均效应可能掩盖研究质量和情境差异（Snook et al., 2009, pp.99-101; Hattie, 2010, p.90）。
+[[John Hattie|Hattie]] 认为班级规模平均效应约为 d = 0.20，虽为正但小于其常用参照值 d = 0.40，因此相对于高成本不一定值得。Snook 等批评者反驳说，d = 0.20 并非可忽略，而且高质量研究如 STAR 与 Smith & [[Gene Glass|Glass]] 的结果明显更大，平均效应可能掩盖研究质量和情境差异（Snook et al., 2009, pp.99-101; Hattie, 2010, p.90）。
 
 > [!note]- Hattie 的澄清
 > Hattie 并不是说缩小班级规模完全无效。他的澄清是：缩小班额的平均效应为正，约 d = 0.20，但相对于他所设定的 d = 0.40 参照线和高昂财政成本，这项政策未必是最优投资。Hattie 同时指出，如果平均效应约为 0.20，而 STAR 等研究显示大正效应，那么[[Meta-analysis|元分析]]中也必然存在低效或负效应研究，平均值的意义正在于调节极端发现（Hattie, 2010, p.90）。
@@ -160,7 +162,7 @@ Hattie 指出，大学也常争论班级规模，尤其是讲座形式；但高�
 
 ### 分析单元问题
 
-Berger 认为班级规模本身不能作为充分分析单元，必须结合学生能力、社会背景、班级异质性、教师能力和资源来理解。许多学生一天中在不同班级和小组之间流动，学校也可能策略性地把小班用于低龄或学业困难学生，因此“班级规模效应”很容易混合其他政策安排（Nielsen & Klitmøller, 2021, pp.4-5）。
+Berger 认为班级规模本身不能作为充分分析单元，必须结合学生能力、社会背景、班级[[Heterogeneity|异质性]]、教师能力和资源来理解。许多学生一天中在不同班级和小组之间流动，学校也可能策略性地把小班用于低龄或学业困难学生，因此“班级规模效应”很容易混合其他政策安排（Nielsen & Klitmøller, 2021, pp.4-5）。
 
 Hattie 本人也承认，大班教学可能需要更熟练的教师、更高度结构化的教学和更侧重基本技能的过度学习；这意味着不同班级规模中的“教学”本身可能不同。Nielsen 与 Klitmøller 指出，若这些条件没有进入分析，单一班级规模[[Effect Size|效应量]]就必须被视为有问题（Nielsen & Klitmøller, 2021, p.5）。
 

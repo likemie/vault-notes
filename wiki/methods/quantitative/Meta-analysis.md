@@ -18,6 +18,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
+  - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
@@ -30,9 +31,12 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Analysis of Variance]]"
   - "[[Observational and Correlational Research]]"
   - "[[Random Assignment]]"
 related_persons:
+  - "[[Gene Glass]]"
+  - "[[Karl Pearson]]"
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
@@ -41,6 +45,7 @@ related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 sources:
+  - "[[Higgins_2016_RE]]"
   - "[[Simpson_2017_JEP]]"
   - "[[Terhart_2011_JCS]]"
   - "[[Berk_2011_ER]]"
@@ -51,6 +56,8 @@ sources:
   - "[[Wiliam_2019_ERE]]"
   - "[[Wrigley_2019_ERE]]"
   - "[[OConnor_2020_AJLL]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -60,9 +67,34 @@ updated: '2026-05-21'
 ## 定义
 
 > [!info] 定义
-> 元分析（Meta-analysis）是一种统计方法，通过计算多项原始研究的平均[[Effect Size|效应量]]来综合研究证据。它由 Gene Glass 于 1976 年提出，最初旨在系统性地总结某一主题的研究发现。在[[Evidence-Based Education|证据本位教育]]中，元分析被用作综合 [[Randomised Controlled Trials|RCT]] 证据的核心工具，其结论（平均效应量）被视为"什么有效"的主要证据来源（Wrigley & McCusker, 2019, p. 118）。
+> 元分析（Meta-analysis）是一种统计方法，通过计算多项原始研究的平均[[Effect Size|效应量]]来综合研究证据。它由 [[Gene Glass]] 于 1976 年提出，最初旨在系统性地总结某一主题的研究发现。在[[Evidence-Based Education|证据本位教育]]中，元分析被用作综合 [[Randomised Controlled Trials|RCT]] 证据的核心工具，其结论（平均效应量）被视为"什么有效"的主要证据来源（Wrigley & McCusker, 2019, p. 118）。
 >
 > Wiliam (2019, p.11) 在定义上增加了关键的**层级区分**：元分析综合原始研究的效应量；而**[[Meta-meta-analysis|元-元分析]]**——即通过效应量的加权合并综合多个元分析的结果——是另一回事。Wiliam 断言后者"在教育政策制定中绝对没有任何角色"。
+
+## 历史发展
+
+> [!note] 历史发展
+> **思想先驱：[[Karl Pearson|Pearson]]（1904）**
+>
+> [[Karl Pearson|Karl Pearson]] 在 1904 年《英国医学杂志》上发表了最早的跨研究合并分析——合并英国军队在印度和南非的伤寒疫苗接种数据。他同时追求两个目标：合并多项小研究的发现以获得更可靠结论，以及探索研究间效果变异的原因（如志愿者自我选择偏差）。这两个目标构成了[[Meta-analysis|元分析]]的核心概念。他将每项研究结果以独立行呈现并给出平均相关系数的呈现方式，预示了后来森林图（forest plot）的标准形式（Higgins, 2016, p.33）。
+>
+> **Fisher 的统计基础（1930s–1950s）**
+>
+> Ronald Fisher 在[[Analysis of Variance|方差分析]]（ANOVA）等技术上的发展为跨研究比较奠定了统计基础。Fisher 鼓励研究者清晰严格地报告发现，使跨研究的比较和聚合变得更容易（Higgins, 2016, p.34）。
+>
+> **命名与确立：[[Gene Glass|Glass]]（1976）**
+>
+> [[Gene Glass|Gene Glass]] 于 1976 年在 AERA 主席演说中首次提出"meta-analysis"一词。他与 Mary Lee Smith 合作的心理治疗效果元分析（Smith & Glass, 1977）发现平均[[Effect Size|效应量]]为 0.6 SD，直接挑战了 Eysenck 的"心理治疗无效"共识。Glass 将[[Effect Size|效应量]]（标准差单位）确立为跨研究比较的通用尺度，并承认 Robert Rosenthal 发展了效应量的基础度量（Higgins, 2016, pp.36–37）。
+>
+> **医学领域的发展（1970s–1980s）**
+>
+> Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了[[Meta-analysis|元分析]]在医学证据综合中的力量。Richard Peto 推广了固定效应模型（按精度加权）。Larry Hedges（1983）倡导随机效应模型，DerSimonian & Laird（1986）提供了简化的计算公式（Higgins, 2016, pp.38–39）。
+>
+> **"苹果和橙子"争论（1980s）**
+>
+> Eysenck 称[[Meta-analysis|元分析]]为"超级愚蠢"（mega-silliness），批评其将不可比的研究混为一谈。Slavin（1984）同样提出"苹果和橙子"问题。[[Gene Glass|Glass]] 的回应是："当然它混合苹果和橙子；在研究水果时没有别的合理做法"——任何推论都直接取决于元分析所包含的内容（Higgins, 2016, p.37）。
+
+---
 
 ## 认识论立场
 
@@ -75,7 +107,7 @@ updated: '2026-05-21'
 > 1. **选择源研究**：基于技术标准（如是否为 [[Randomised Controlled Trials|RCT]]）筛选相关研究
 > 2. **提取[[Effect Size|效应量]]**：从每项源研究中提取或计算标准化效应量
 > 3. **加权与平均**：对效应量进行加权（通常按样本量），计算平均效应量
-> 4. **报告**：以平均效应量（有时转换为更直观的单位，如 EEF Toolkit 的"额外学习月数"）呈现结果
+> 4. **报告**：以平均效应量（有时转换为更直观的单位，如 [[Education Endowment Foundation|EEF]] Toolkit 的"额外学习月数"）呈现结果
 >
 > [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）是在元分析基础上进一步聚合——综合多个元分析的效应量产生更高层次的排名或估计。Wecker, Vogel & Hetmanek（2016）从固定效应模型推导了该方法必须满足的 6 项方法论要求（包括公式 1-9 的完整数学推导和等价性证明），并论证 [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 在六个分析步骤中均存在方法论不足。完整技术细节见 [[Meta-meta-analysis]]。
 
@@ -113,9 +145,9 @@ updated: '2026-05-21'
 >
 > **"苹果和橙子"问题（1980s–）**
 >
-> 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均效应量。Gene Glass——元分析的创始人——本人警告："元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in Wrigley & McCusker, 2019, p. 119）。
+> 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均效应量。[[Gene Glass]]——元分析的创始人——本人警告："元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in Wrigley & McCusker, 2019, p. 119）。
 >
-> Hattie (2015) 对这一问题的回应不是否认异质性，而是要求把异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问 moderator（调节变量）。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用“反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
+> Hattie (2015) 对这一问题的回应不是否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问 moderator（调节变量）。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用“反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
 >
 > **源研究选择的纯技术标准**
 >
@@ -127,7 +159,7 @@ updated: '2026-05-21'
 >
 > **源研究不充分问题**
 >
-> EEF Toolkit 的体育参与条目仅基于三个元分析中的四个效应量（Wrigley & McCusker, 2019, pp. 121–122）。
+> [[Education Endowment Foundation|EEF]] Toolkit 的体育参与条目仅基于三个元分析中的四个效应量（Wrigley & McCusker, 2019, pp. 121–122）。
 >
 > **Snook et al. (2010) — 元分析从医学到教育的移植问题**
 >
@@ -239,7 +271,7 @@ updated: '2026-05-21'
 > [!example] 使用此方法的研究
 > - [[Argument_Hattie_2015_Paideia]] — [[John Hattie|Hattie]] 回应 VL 批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
 > - [[Argument_Hattie_2015_SOTLP]] — Hattie 将 1200 项元分析（65,000+ 研究）综合应用于高等教育，提出六项关键发现、DIE 模型和八项思维框架
-> - [[Argument_Wrigley_2019_ERE]] — 通过 EEF Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
+> - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
 
 ## 替代方案
@@ -249,6 +281,7 @@ Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研
 
 ## 来源
 
+- [[Higgins_2016_RE]]
 - [[Simpson_2017_JEP]]
 - [[Terhart_2011_JCS]]
 - [[Berk_2011_ER]]

@@ -14,6 +14,7 @@ related_concepts:
   - "[[Naturalistic Generalization]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Heterogeneity]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
 related_theories:
@@ -109,7 +110,7 @@ updated: 2026-06-01
 
 
 > [!example] 代表性策略：类别系列分解
-> 郑雅君（2023）将个案的背景特征（家庭背景、性别、学科大类、学段、就业去向）进行类别系列分解，使个案在各类别均有比较均匀的分布，以"兼顾大学生群体内部的异质性和提升结论的可外推性"（郑雅君，2023，引王宁, 2002）。
+> 郑雅君（2023）将个案的背景特征（家庭背景、性别、学科大类、学段、就业去向）进行类别系列分解，使个案在各类别均有比较均匀的分布，以"兼顾大学生群体内部的[[Heterogeneity|异质性]]和提升结论的可外推性"（郑雅君，2023，引王宁, 2002）。
 
 
 > [!example] 个案规模

@@ -15,6 +15,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Multiplicity]]"
+  - "[[Heterogeneity]]"
   - "[[Power-Geometries]]"
   - "[[Analytic Framework]]"
   - "[[Methodological Globalism]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 [[Doreen Massey]]（2005）的 *For Space* 提供了三个关键理论工具：
 
 - **开放本体论（open ontology）**：现实不是固定完成的，而是持续涌现的（ever-emerging）。大学、国家、知识、世界都处于"永远在成为"（always becoming）的状态。这一定位意味着：任何地缘政治秩序都不是永久的，变化是常态而非例外
-- **空间作为[[Multiplicity|多重性]]（multiplicity）**：空间是"共存异质性"的领域——不同行动者的生命轨迹在空间中交汇。因为轨迹众多且各自有其因果链，交汇的结果是不可预测的。"多重性产生不确定性"（Massey, 2005, p. 113）
+- **空间作为[[Multiplicity|多重性]]（multiplicity）**：空间是"共存[[Heterogeneity|异质性]]"的领域——不同行动者的生命轨迹在空间中交汇。因为轨迹众多且各自有其因果链，交汇的结果是不可预测的。"多重性产生不确定性"（Massey, 2005, p. 113）
 - **[[Power-Geometries|权力几何学]]（power-geometries）**：空间中的开放与封闭不是抽象的空间形式问题，而是通过社会关系被建构的。关键在于"互联关系的权力地图"（the map of power of openness）（Massey, 2005, pp. 93, 166, 171）
 
 > 例：Massey 将每个人的生命比作一条穿越时间的轨迹。当一名中国留学生在 2015 年决定去加州大学攻读博士，她的轨迹与美国签证官、导师、硅谷招聘者等多条轨迹在特定空间中交汇——这个交汇的结果（她是否留在美国？是否回国创业？）受制于大国地缘政治（中美关系、签证政策）、经济结构（硅谷就业市场）和她个人的能动性（学术能力、职业规划），任何一个因素都无法单独决定结果。这就是 Massey 说的"多重轨迹交汇的不可预测性"。

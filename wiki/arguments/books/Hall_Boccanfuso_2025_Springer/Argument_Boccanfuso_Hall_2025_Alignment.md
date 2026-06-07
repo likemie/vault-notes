@@ -22,6 +22,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Clinical Trial]]"
+  - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[Partnership Continuum]]"
@@ -208,7 +209,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 - **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]**：在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
 - **1920 年前**：美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及作为制度价值的学术自由与客观性——已基本确立。
 
-与欧洲国家不同，美国从未采用国立大学体系，公共大学由各州负责，独立私立大学同时繁荣发展。Hollingsworth 和 Hollingsworth（2011, p.27）指出："现代社会中持续高水平的激进创新需要组织形式的多样性、组织结构的异质性和思想的多样性"——这些正是美国体系的特征（p.12）。
+与欧洲国家不同，美国从未采用国立大学体系，公共大学由各州负责，独立私立大学同时繁荣发展。Hollingsworth 和 Hollingsworth（2011, p.27）指出："现代社会中持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"——这些正是美国体系的特征（p.12）。
 
 ---
 

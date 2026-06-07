@@ -46,6 +46,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Bertrand Russell]]"
+  - "[[Karl Pearson]]"
+  - "[[Robert Marzano]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Cognition Education]]"
@@ -239,7 +241,7 @@ updated: '2026-05-18'
 > - ERO 阐明有效教师的特征，强调灵活回应和差异化教学（ERO, cited in Sarbiewska, 2019, p.127）
 > - 新西兰教育部认可"分享权力和学习责任"（*Leading Innovative Learning in New Zealand Schools*, 2018, cited in Sarbiewska, 2019, p.125）
 > - 实施 [[The New Zealand Curriculum]]（2010），包含八项原则，各校设计独特学习项目；ERO 定期评估课程原则在课堂中的落实情况
-> - **2015 年 6 月**：Hattie 接受 RNZ *Nine to Noon* 采访，宣传 Pearson 发布的两篇思想领导力文章
+> - **2015 年 6 月**：Hattie 接受 RNZ *Nine to Noon* 采访，宣传 [[Karl Pearson|Pearson]] 发布的两篇思想领导力文章
 > - **2015 年 12 月**：ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用了这两篇文章（O'Neill et al., 2016, p.51）
 > - Cognition Education 的 VLplus 工作坊和学校认证在新西兰本土市场持续运营，与教育部合同形成协同（O'Neill et al., 2016, pp.67–68）
 >
@@ -250,7 +252,7 @@ updated: '2026-05-18'
 > PISA 2001 同样揭示澳大利亚成绩差异主要在校内，政策重点从外部因素转向师生互动质量（Sarbiewska, 2019, p.123–125）。
 >
 > **政策采纳路径**（Sarbiewska, 2019, p.126–128）：
-> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
+> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 [[Robert Marzano|Marzano]] 的研究，每项均以 VL 为首要参考文献
 > - [[ResearchED]] Australia（[[Australian Council for Educational Research|ACER]], 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习

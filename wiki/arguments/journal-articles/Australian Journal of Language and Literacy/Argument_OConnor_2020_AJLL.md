@@ -31,6 +31,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Gene Glass]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 >
 > > "关键是要认识到，是解释和故事（INTERPRETATION and STORY）帮助解释发现，这才是有用理论的竞争者；不是数据。"（Hattie & Hamilton, 2018, p.46，引自 O'Connor, 2020, p.142）
 >
-> O'Connor 指出，这与元分析诞生的承诺——Gene Glass（1976, p.3）提出的"对研究'叙述性讨论'的严谨替代方案"——直接矛盾（O'Connor, 2020, p.142）。
+> O'Connor 指出，这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）提出的"对研究'叙述性讨论'的严谨替代方案"——直接矛盾（O'Connor, 2020, p.142）。
 
 ## 主要发现
 

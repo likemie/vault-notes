@@ -16,8 +16,8 @@ related_concepts:
   - "[[Classroom Management]]"
 related_theories: []
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
@@ -33,7 +33,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info] 定义
-> 比较性元综合（comparative meta-synthesis）是一种研究综述的再综合方法。它不把多项研究转换为统一[[Effect Size|效应量]]，而是把不同研究综述当作案例，通过文本“翻译”、比较和推论链重建，识别研究领域中的关键因素、分歧线和共同模式（Håkansson, 2015, pp.588-589）。
+> 比较性[[Meta-meta-analysis|元综合]]（comparative meta-synthesis）是一种研究综述的再综合方法。它不把多项研究转换为统一[[Effect Size|效应量]]，而是把不同研究综述当作案例，通过文本“翻译”、比较和推论链重建，识别研究领域中的关键因素、分歧线和共同模式（Håkansson, 2015, pp.588-589）。
 
 ## 认识论立场
 
@@ -53,7 +53,7 @@ updated: 2026-05-22
 ## 适用场景
 
 > [!success] 适用场景
-> 比较性元综合适合研究材料已经高度综述化、但结论分散且概念不统一的领域。例如教学与学习研究中，研究者可能需要同时处理国际综述、本土综述、定量证据、质性证据和政策问题；此时该方法可以帮助识别共同因素和争议边界，而不是急于给出单一平均结论（Håkansson, 2015, pp.588-590）。
+> 比较性[[Meta-meta-analysis|元综合]]适合研究材料已经高度综述化、但结论分散且概念不统一的领域。例如教学与学习研究中，研究者可能需要同时处理国际综述、本土综述、定量证据、质性证据和政策问题；此时该方法可以帮助识别共同因素和争议边界，而不是急于给出单一平均结论（Håkansson, 2015, pp.588-590）。
 
 ## 局限性
 
@@ -65,7 +65,7 @@ updated: 2026-05-22
 ## 相关理论
 
 > [!tip] 相关理论
-> - [[Meta-analysis]] — 元分析用[[Effect Size|效应量]]进行统计综合；比较性元综合则以解释性翻译和推论链为主，不追求统一平均效应（Håkansson, 2015, pp.588-589）。
+> - [[Meta-analysis]] — 元分析用[[Effect Size|效应量]]进行统计综合；比较性[[Meta-meta-analysis|元综合]]则以解释性翻译和推论链为主，不追求统一平均效应（Håkansson, 2015, pp.588-589）。
 > - [[Meta-meta-analysis]] — 二者都在综合既有综合研究，但元-元分析通常处理已聚合的效应量，比较性元综合可以同时处理定量、质性和叙事型综述（Håkansson, 2015, pp.588-589）。
 
 ## 使用此方法的研究

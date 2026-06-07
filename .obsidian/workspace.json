@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md",
+                "file": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Slavin_2019_EP"
+              "title": "Argument_Higgins_2016_RE"
             }
           }
         ]
@@ -191,6 +191,19 @@
   },
   "active": "7f55059d7e98a216",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
+    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md",
+    "sources/Higgins_2016_RE/figures",
+    "sources/Higgins_2016_RE/Higgins_2016_RE.pdf",
+    "sources/Higgins_2016_RE/Higgins_2016_RE.md",
+    "sources/Higgins_2016_RE",
+    "sources/Higgins_2016_RE.md",
+    "sources/Higgins_2016_RE.pdf",
+    "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
+    "wiki/concepts/research-methodology/Heterogeneity.md",
+    "wiki/persons/usa/Robert Marzano.md",
+    "wiki/persons/usa/Gene Glass.md",
+    "wiki/persons/uk/Karl Pearson.md",
     "raw/higgins2016.txt",
     "raw/higgins2016.pdf",
     "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
@@ -208,24 +221,11 @@
     "Sandrone_2025_MEO.md",
     "wiki/facts/italy/Azione LIM.md",
     "raw/The life and death of Liberal Studies  explaining curriculum change in post-handover Hong Kong.txt",
-    "raw/The life and death of Liberal Studies  explaining curriculum change in post-handover Hong Kong.pdf",
     "information/Journal of Education Policy.md",
     "information/合并文献_20260607_2233.md",
     "information/Globalisation Societies and Education.md",
     "sources/Allerup_2015_Paideia.md",
     "templater/template-argument.md",
-    "wiki/concepts/curriculum/Big Ideas.md",
-    "information/Journal of the Learning Sciences.md",
-    "information/合并文献_20260607_1509.md",
-    "wiki/concepts/higher-education/Mentorship Recognition.md",
-    "wiki/facts/global/Nobel Prize in Physiology or Medicine.md",
-    "wiki/concepts/higher-education/Mentorship.md",
-    "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md.tmp.12304.3437d785c05e",
-    "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md.tmp.12304.7e34c5d4a54b",
-    "wiki/arguments/journal-articles/Medical Education Online",
-    "raw/Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees.txt",
-    "wiki/arguments/journal-articles/Evaluation Review/Argument_Berk_2011_ER.md",
-    "wiki/persons/france/Bruno Latour.md",
-    "wiki/persons/uk/Doreen Massey.md"
+    "wiki/concepts/curriculum/Big Ideas.md"
   ]
 }

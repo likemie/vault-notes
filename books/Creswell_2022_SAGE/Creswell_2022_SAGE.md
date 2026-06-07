@@ -97,7 +97,6 @@ extracted_to:
   - "[[Mixed Methods Participatory-Social Justice Design]]"
   - "[[Mixed Methods Research]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
-  - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Descriptive Methods]]"
   - "[[Ethnography]]"
@@ -117,11 +116,8 @@ extracted_to:
   - "[[Analysis of Covariance]]"
   - "[[Analysis of Variance]]"
   - "[[Between-Subjects and Within-Subjects Designs]]"
-  - "[[Chi-Squared Test]]"
   - "[[Experimental Research]]"
   - "[[Factorial Design]]"
-  - "[[Multiple Regression]]"
-  - "[[Pearson Product-Moment Correlation]]"
   - "[[Pilot Testing]]"
   - "[[Power Analysis]]"
   - "[[Pre-Experimental Designs]]"
@@ -143,6 +139,10 @@ extracted_to:
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Case Study]]"
+  - "[[Chi-Squared Test]]"
+  - "[[Multiple Regression]]"
+  - "[[Pearson Product-Moment Correlation]]"
 processed_date: 2026-05-30
 ---
 

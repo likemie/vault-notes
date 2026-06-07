@@ -45,6 +45,7 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[Research Question]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Heterogeneity]]"
   - "[[Internal Validity]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Self-Authorship]]"
@@ -517,7 +518,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 累计 62 位被访者，每人均为跟踪式个案——保持联系直至最终确定毕业去向。
 
-**代表性策略**：将类别进行系列分解——"在家庭背景、性别、学科大类、学段和就业去向各类别均有比较均匀的分布"，以兼顾大学生群体内部的异质性和提升结论的可外推性（郑雅君，2023，引王宁, 2002）
+**代表性策略**：将类别进行系列分解——"在家庭背景、性别、学科大类、学段和就业去向各类别均有比较均匀的分布"，以兼顾大学生群体内部的[[Heterogeneity|异质性]]和提升结论的可外推性（郑雅君，2023，引王宁, 2002）
 
 | 特征 | 南方大学 N = 44 | 北方大学 N = 18 |
 |---|---:|---:|

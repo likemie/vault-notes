@@ -24,6 +24,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
+  - "[[Heterogeneity]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Class Size]]"
   - "[[Global Universities Rankings]]"
@@ -43,12 +44,14 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Power Analysis]]"
 related_persons:
+  - "[[Gene Glass]]"
   - "[[John Hattie]]"
   - "[[Lars Qvortrup]]"
   - "[[Adrian Simpson]]"
   - "[[Jacob Cohen]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Promising Practices Network]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[What Works Clearinghouse]]"
@@ -90,11 +93,11 @@ updated: '2026-05-23'
 >
 > > "Effect size (ES) is assumed to be a measure of how much more effective the treatment or intervention is than the control group's experience."（Wrigley & McCusker, 2019, p. 118）
 >
-> 效应量是[[Meta-analysis|元分析]]的核心分析单位。Gene Glass 于 1976 年提出元分析概念时，将效应量作为跨研究比较的标准化工具。[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名 150+ 教学干预，使这一统计概念进入全球教育政策和实践话语。
+> 效应量是[[Meta-analysis|元分析]]的核心分析单位。[[Gene Glass]] 于 1976 年提出元分析概念时，将效应量作为跨研究比较的标准化工具。[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名 150+ 教学干预，使这一统计概念进入全球教育政策和实践话语。
 >
 > [[Lars Qvortrup]]（2015）从支持者立场强调效应量的"相对效果"功能：即使不同研究没有共享同一个学习结果定义，研究者仍可比较干预组与控制组之间或干预前后之间的相对变化（Qvortrup, 2015, p.27）。但这一比较也会把学习结果抽象化：效应量能说明"有多大相对效果"，却不直接说明效果发生在表层知识、深层理解、社会能力还是概念性学习上（Qvortrup, 2015, p.27；参见 [[Dynamic Knowledge and Learning Model]]）。
 >
-> [[Adrian Simpson]]（2017, 2018, 2019）论证效应量实际测量的是**试验清晰度**（experimental clarity / how well a trial is designed to make an effect visible），即干预组与对照组之间差异在统计上的清晰程度，而非干预有效性。这一区分通过思想实验（教一个匈牙利单词）和现实案例（EEF 评估报告）得到了系统证明（Simpson, 2019, pp. 100–106；详见下方 [[#Simpson 的概念批判：效应量作为试验清晰度]]）。
+> [[Adrian Simpson]]（2017, 2018, 2019）论证效应量实际测量的是**试验清晰度**（experimental clarity / how well a trial is designed to make an effect visible），即干预组与对照组之间差异在统计上的清晰程度，而非干预有效性。这一区分通过思想实验（教一个匈牙利单词）和现实案例（[[Education Endowment Foundation|EEF]] 评估报告）得到了系统证明（Simpson, 2019, pp. 100–106；详见下方 [[#Simpson 的概念批判：效应量作为试验清晰度]]）。
 
 > [!abstract] 阅读地图
 > 这个条目按问题而不是按论文顺序组织：
@@ -270,7 +273,7 @@ Wolf et al.（2020）发现由项目开发者委托或实施的研究平均效�
 > - 控制协[[Variable|变量]]后，独立研究效应量为 +0.168，开发者研究为 +0.309（Wolf et al., 2020, p. 441）
 > - 同一干预子样本中，独立研究为 +0.194，开发者研究为 +0.324（Wolf et al., 2020, p. 439）
 > - 开发者研究更可能使用自编测量（29% vs. 8%）和[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）（Wolf et al., 2020, p. 434）
-> - 独立研究的 95% 预测区间为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929），显示大量异质性（Wolf et al., 2020, p. 441）
+> - 独立研究的 95% 预测区间为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929），显示大量[[Heterogeneity|异质性]]（Wolf et al., 2020, p. 441）
 > - Kraft（2023）扩展样本中 36% 的教育干预 [[Randomised Controlled Trials|RCT]] 标准化学业成就效应量小于 0.05；他认为这比"小/中/大"标签更应成为解释政策相关性的核心基准，因为大量教育干预 RCT 未能在标准化学业成就测验上产生可见改进（Kraft, 2023, p.183）
 > - Kraft（2023）的扩展样本显示，教育 RCT 效应量分布的中位数约为 0.10；美国教育部委托且要求提交报告的研究子样本中位数仅为 0.03，说明发表文献中的效应量分布可能因[[Publication Bias|发表偏倚]]和大规模政府资助试验特征而偏向较大正值（Kraft, 2023, p.186）
 > - 141 项大型教育 RCT 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零；这说明即使在严格研究中，教育干预对标准化成就结果的平均影响也常很小（Ross & Morrison, 2021, p.112）。
@@ -369,7 +372,7 @@ Bergeron & Rivard（2017, p.241）提出了效应量批判中一个此前未被�
 Wecker, Vogel & Hetmanek（2016）在审查 Hattie 的二级元分析时，记录了效应量计算和聚合中的具体技术错误：
 
 - **标准误与标准差的混淆**：在个别一级元分析的主要研究中，标准误被错误地当作标准差使用（Wecker et al., 2016, pp.26–27）。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的 [[School Effectiveness|SE]]=2.74 被当作 SD 来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
-- **效应量测度混合使用**：Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
+- **效应量测度混合使用**：Hattie 交替使用 Cohen's d、Hedges' g、[[Gene Glass|Glass]]' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
 - **固定效应模型的错误加权**：Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
 
 #### O'Connor（2020）：不加权平均与选择性修正
@@ -408,7 +411,7 @@ Wrigley & McCusker（2019, pp. 118–123）追踪了效应量从原始研究到�
 
 **偏差二：范围限制。** 豆子植株选择思想实验——第一位农民选择豆子长度均匀的植株（限制范围），第二位从所有植株中随机选择。相同肥料、相同方案，第一位效应量远大于第二位——限制范围减小方差（分母），不是肥料更有效（Simpson, 2017, pp.7–8）。模拟证据：全年级 d=0.5 的干预在最高/最低能力组 d≈0.65（+30%），中等组 d≈0.7（+40%）；英国 14 岁数学与 16 岁 GCSE r≈0.85 ——按此分班后研究效应量膨胀 50–75%（Figures 1–2）。系统性含义：反馈和元认知研究容易限制样本范围（前测失败者），延长学校日或校服研究无法限制——反馈效应量系统性地更高（Simpson, 2017, p.11）。
 
-**偏差三：测量设计——聚焦度与精确度。** 聚焦度思想实验——假设肥料仅对阳光下的豆子有效，第一位农民测量容易够到的豆子（多在阳光下），第二位整株随机选。第一位效应量更大——测量更聚焦于受影响的豆子，不是肥料更好（Simpson, 2017, pp.11–12）。教育证据：Higgins et al.（2005）元分析使用与干预完全相同的测试题、来自广泛数据库的题、标准化测试（Iowa）——效应量差异不可比；Abrami et al.（2008）批判性思维教学中标准化测试 d=0.24 vs 非标准化 d=0.53（高出约 120%）；EEF Toolkit 14 项元分析中非标准化测试平均比标准化高约 40%。精确度思想实验——两位农民选 5 颗 vs 10 颗豆子测量，相同肥料，后者效应量可达前者的 140%（Simpson, 2017, pp.12–13）。模拟证据：对 α=0.75 的测试，20 题使效应量翻倍以上；Kluger & DeNisi（1996）反馈元分析中测试从 6 任务到 300 道算术题——后者可能超前者两倍。教育证据：反馈元分析中仅 9/68 效应量用标准化测试，早期干预元分析中 37/39 个——反馈效应量系统性更高，不是因为反馈更有效（Simpson, 2017, pp.13–14）。
+**偏差三：测量设计——聚焦度与精确度。** 聚焦度思想实验——假设肥料仅对阳光下的豆子有效，第一位农民测量容易够到的豆子（多在阳光下），第二位整株随机选。第一位效应量更大——测量更聚焦于受影响的豆子，不是肥料更好（Simpson, 2017, pp.11–12）。教育证据：Higgins et al.（2005）元分析使用与干预完全相同的测试题、来自广泛数据库的题、标准化测试（Iowa）——效应量差异不可比；Abrami et al.（2008）批判性思维教学中标准化测试 d=0.24 vs 非标准化 d=0.53（高出约 120%）；[[Education Endowment Foundation|EEF]] Toolkit 14 项元分析中非标准化测试平均比标准化高约 40%。精确度思想实验——两位农民选 5 颗 vs 10 颗豆子测量，相同肥料，后者效应量可达前者的 140%（Simpson, 2017, pp.12–13）。模拟证据：对 α=0.75 的测试，20 题使效应量翻倍以上；Kluger & DeNisi（1996）反馈元分析中测试从 6 任务到 300 道算术题——后者可能超前者两倍。教育证据：反馈元分析中仅 9/68 效应量用标准化测试，早期干预元分析中 37/39 个——反馈效应量系统性更高，不是因为反馈更有效（Simpson, 2017, pp.13–14）。
 
 **效应量应更名为"效应清晰度"**：Simpson（2017, p.14）提出效应量"名字起得不好"——应称为**效应清晰度**（effect clarity）。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——如 Lipsey & Hurley（2009）推荐的"最小化组内变异以使处理差异更突出"——这是良好实验设计，但与干预的教育价值无关。
 
@@ -485,7 +488,7 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 
 
 **Simpson（2019）——效应量的合法用途**：Simpson（2019, p. 104）小心地区分了效应量的技术用途和政策用途：
-- **合法用途**：告知未来研究者在类似测试（以及样本和控制活动）下可以预期的噪声水平，以便调整样本量、减少样本异质性、选择和修改测量工具等
+- **合法用途**：告知未来研究者在类似测试（以及样本和控制活动）下可以预期的噪声水平，以便调整样本量、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具等
 - **非法用途**：在误将更大效应量与更高教育有效性关联后，政策制定者在干预措施之间进行选择
 - 效应量有意义的合并仅在极端条件下：**同一干预在多项研究中使用相同样本、相同控制活动、相同测量、相同研究设计和相同统计分析**——"当然，在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"（p. 106）
 
@@ -512,12 +515,12 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 > [!note-] 时间线
 > 时间线只作为辅助背景：效应量先是统计综合工具，后来进入教育干预排名和政策传播，随后围绕解释边界、聚合方式和政策用途产生系统争议。
 > - **1969** — [[Jacob Cohen]] 出版 *[[Power Analysis|statistical power analysis]] for the Behavioral Sciences* 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
-> - **1976** — Gene Glass 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具。
+> - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具。
 > - **1988** — Cohen 出版 *Statistical Power Analysis* 第 2 版，以身高类比等直观方式解释效应量的实质含义（Terhart, 2011, p.427）。
 > - **2009** — [[John Hattie]] 出版 *[[Visible Learning]]*，综合 800+ 元分析和 50,000+ 研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践话语。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以效应量转换为“额外学习月数”的格式传播教育干预证据。
 > - **2017-2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（Simpson, 2017, 2018）。
-> - **2019** — Simpson 用“教一个匈牙利单词”思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 EEF Toolkit 体育参与案例展示[[Meta-meta-analysis|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单（Simpson, 2019, pp.100-106; Wrigley & McCusker, 2019, pp.118-123; Wiliam, 2019, p.11）。
+> - **2019** — Simpson 用“教一个匈牙利单词”思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单（Simpson, 2019, pp.100-106; Wrigley & McCusker, 2019, pp.118-123; Wiliam, 2019, p.11）。
 > - **2020-2023** — Kraft 以教育 [[Randomised Controlled Trials|RCT]] 中标准化学业成绩结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一“失败频率”应成为解释政策相关性的核心参照（Kraft, 2023, pp.183-184）。
 
 ## 相关案例／政策
@@ -532,7 +535,7 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 
 ### 政策误用与来源追踪
 
-- [[Playing for Success]] — EEF 体育参与效应量 0.80 的来源案例，与普通“体育参与”几乎不可比（Wrigley & McCusker, 2019, pp.120-123）。
+- [[Playing for Success]] — [[Education Endowment Foundation|EEF]] 体育参与效应量 0.80 的来源案例，与普通“体育参与”几乎不可比（Wrigley & McCusker, 2019, pp.120-123）。
 - [[Treasury Briefing on Student-Teacher Ratios]] — 政策行动者从效应量排名直接选取方案的典型案例（O'Neill, 2012, pp.6-8）。
 
 ### 实践者解释

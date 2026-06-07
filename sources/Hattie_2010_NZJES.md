@@ -3,12 +3,12 @@ citation: "Hattie, J. (2010). On being a 'critic and conscience of society': The
 extracted_to:
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2009]]"
-  - "[[Class Size]]"
   - "[[Performance Pay]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[New Zealand National Standards]]"
+  - "[[Class Size]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-06
 ---

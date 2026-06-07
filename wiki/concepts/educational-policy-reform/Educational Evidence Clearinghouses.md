@@ -26,6 +26,7 @@ related_concepts:
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
+  - "[[Heterogeneity]]"
   - "[[Transfer Translation Transformation]]"
   - "[[5-3-20 Rule]]"
   - "[[Internal Validity]]"
@@ -46,6 +47,7 @@ related_facts:
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Campbell Collaboration]]"
@@ -134,7 +136,7 @@ updated: '2026-05-24'
 > - vs [[Evidence-Based Education]] — EBE 是教育实践和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施（Wadhwa et al., 2024, p.4）。
 > - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致（Wadhwa et al., 2024, pp.16-17）。
 > - vs 系统综述/[[Meta-analysis|元分析]] — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式（Wadhwa et al., 2024, pp.4–5）。
-> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地[[Experimental Research|实验研究]]和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
+> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地[[Experimental Research|实验研究]]和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
 
 ## 理论基础
 
@@ -165,7 +167,7 @@ updated: '2026-05-24'
 > 对学校采购者而言，正式证据来源若只突出[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，仍可能缺少实施要求、成本、用户满意度和情境限制等信息。更清楚地报告研究语境、限制、实施需求和使用者经验，可以减少实践者只能依赖同伴推荐和本地试点的压力（Ross & Morrison, 2021, p.121）。
 
 
-> [!warning] 标准化与异质性的两难
+> [!warning] 标准化与[[Heterogeneity|异质性]]的两难
 > 清算中心生态不能简单通过宣布某个机构标准“最佳”来解决。更合理的问题是：哪些异质性源于尚无科学共识而应被保留，哪些异质性已可通过共识标准减少；可能的改进方向包括对复制要求、效应量阈值、持续效果时长等因果条件进行部分标准化（Wadhwa et al., 2024, pp.29-30）。
 
 ## 相关案例／政策
@@ -177,7 +179,7 @@ updated: '2026-05-24'
 
 - [[What Works Clearinghouse]] — 教育领域 public 清算中心，评价项目、政策、实践和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度（Wadhwa et al., 2024, pp.7, 16, 28）。
 - [[Best Evidence Encyclopedia]] — 教育领域清算中心，目标人群为学生，评级对象为项目，在比较样本中贡献 124 个教育项目（Wadhwa et al., 2024, pp.7, 16）。
-- [[EEF Teaching and Learning Toolkit]] — 英国 EEF 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
+- [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
 - [[Campbell Collaboration]] — 系统综述型证据组织，2007 年将国际总部迁至挪威。
 - [[Danish Clearinghouse for Educational Research]] — 丹麦国家语境中的系统综述型教育证据中心。
 - [[EPPI-Centre]] — 英国系统综述和研究使用指导中心。

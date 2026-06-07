@@ -14,7 +14,6 @@ tags:
 - region/us
 - region/uk
 related_concepts:
-  - "[[What Works Movement]]"
   - "[[School Leadership]]"
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
@@ -85,7 +84,7 @@ updated: '2026-05-24'
 
 Slavin et al. (2021, p.9) 将证据本位改革定义为四项核心活动：
 
-1. **找出什么最有效**（Finding out [[What Works Movement|what works]] best）：在各学科、各年级使用严格的实验方法评估创新项目
+1. **找出什么最有效**（Finding out what works best）：在各学科、各年级使用严格的实验方法评估创新项目
 2. **传播已知的有效项目**（Making educators aware of proven programs）：让教育者、教育领导者和政策制定者了解经过验证的项目，需由可信的政府或非政府专家解释技术报告并以清晰方式描述项目和证据基础
 3. **提供资源和激励**（Providing resources and incentives）：使[[School Leadership|学校领导]]能够实施经过验证的项目——"知道哪些项目最有效很少足以使教育领导者接受它们，教育创新通常有初始成本（材料、硬件、软件和专业发展），教育者希望确信采用创新得到领导者的鼓励"（Slavin et al., 2021, p.21）
 4. **持续增加有效实践的知识**（Creating policies to continually add to knowledge）：创建政策和系统以持续进行创新→评估→推广的循环——"教育研究不应被视为寻找适用于所有学校的单一最佳方法，而应被视为一个持续的创新和评估过程，以逐步增加关于有效实践和政策的知识"（Slavin et al., 2021, p.22）

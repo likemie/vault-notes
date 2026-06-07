@@ -5,7 +5,6 @@ extracted_to:
   - "[[Classical Geopolitics]]"
   - "[[Economic Patriotism]]"
   - "[[Geopolitical Subject]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge Capitalism]]"
   - "[[National Competitive Advantage]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Geopolitics of Knowledge]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

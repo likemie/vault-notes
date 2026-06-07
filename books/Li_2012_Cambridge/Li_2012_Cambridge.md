@@ -88,9 +88,9 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
-  - "[[Argument_Li_2012_Cambridge]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Confucius]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 processed_date: 2026-05-25
 ---
 

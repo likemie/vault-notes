@@ -34,6 +34,7 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Space-Making]]"
   - "[[Multiplicity]]"
+  - "[[Heterogeneity]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -171,7 +172,7 @@ Parreira do Amaral (2022) 将上述两条脉络整合为一"新知识地缘政�
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示了当前知识经济化在认识论层面的殖民性延续后果
 - [[Doreen Massey]] — Massey（2005）的关系性空间理论为理解高等教育地缘政治提供了核心本体论基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定。"总是在松动末端"意味着单一的同质化全球秩序是不可能的（Marginson, 2025, pp. 5–7）
 - [[Space-Making]] — Marginson（2025）基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践），将地缘政治分析落实为可操作的经验研究工具
-- [[Multiplicity]] — Massey 的多重性概念预测并解释了全球化意外促进异质性而非同质化的趋势，为理解 1990 年后从英美单极到全球多极的转变提供了理论基础
+- [[Multiplicity]] — Massey 的多重性概念预测并解释了全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势，为理解 1990 年后从英美单极到全球多极的转变提供了理论基础
 
 ---
 

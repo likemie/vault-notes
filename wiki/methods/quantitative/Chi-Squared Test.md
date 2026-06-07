@@ -21,7 +21,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
-related_persons: []
+related_persons:
+  - "[[Karl Pearson]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -58,7 +59,7 @@ updated: 2026-05-31
 > - **卡方独立性检验（Chi-Squared Test of Independence）**：检验两个类别[[Variable|变量]]是否独立——本章 Table 8.3 描述的就是这一形式。
 > - **卡方拟合优度检验（Chi-Squared Goodness-of-Fit Test）**：检验单一类别变量的观测分布是否符合某一理论分布。
 > - vs t 检验 — t 检验比较两组在一个连续变量上的均值（如男性和女性的平均成绩），卡方检验考察两个类别变量的关联模式（如性别与是否通过考试的交叉表）。
-> - vs Pearson 相关 — Pearson 相关要求两个连续变量；卡方检验是两个类别变量关联的首选方法。
+> - vs [[Karl Pearson|Pearson]] 相关 — Pearson 相关要求两个连续变量；卡方检验是两个类别变量关联的首选方法。
 
 ## 适用场景
 

@@ -3,13 +3,13 @@ citation: "Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'wh
 extracted_to:
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Evidence-Based Education]]"
-  - "[[Effect Size]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Julian Williams]]"
   - "[[Maria Pampaka]]"
   - "[[Matt Homer]]"
+  - "[[Effect Size]]"
 processed_date: 2026-05-02
 ---
 

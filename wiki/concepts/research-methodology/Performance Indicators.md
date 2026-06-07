@@ -22,6 +22,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Innovation Ecosystem]]"
   - "[[Lifelong Learning]]"
+  - "[[Heterogeneity]]"
 related_theories:
   - "[[Sociology of Measurement]]"
 related_methods: []
@@ -161,7 +162,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 ### 同质化效应与区域不平等的固化
 
-尽管 EU 各区域在创新能力和教育水平上差异巨大，绩效指标的通用框架将所有异质性纳入同一种"[[Innovation Ecosystem|创新生态]]体系"论述，忽视了区域特定的结构性条件。区域创新记分牌的分类（"创新领导者""一般创新者"）在年复一年的发布中从描述性标签演变为自我实现的预言——"创新领导者"更易吸引投资，"一般创新者"陷入资源劣势的累积循环（Rambla, 2022, p.174）。
+尽管 EU 各区域在创新能力和教育水平上差异巨大，绩效指标的通用框架将所有[[Heterogeneity|异质性]]纳入同一种"[[Innovation Ecosystem|创新生态]]体系"论述，忽视了区域特定的结构性条件。区域创新记分牌的分类（"创新领导者""一般创新者"）在年复一年的发布中从描述性标签演变为自我实现的预言——"创新领导者"更易吸引投资，"一般创新者"陷入资源劣势的累积循环（Rambla, 2022, p.174）。
 
 ### 去政治化风险
 

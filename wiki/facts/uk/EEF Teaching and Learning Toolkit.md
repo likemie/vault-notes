@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Heterogeneity]]"
   - "[[Moral Sidestep]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -36,11 +37,13 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"
   - "[[Playing for Success]]"
   - "[[What Works Network]]"
 related_arguments: []
 sources:
+  - "[[Higgins_2016_RE]]"
   - "[[Cowen_2015_CHESS]]"
   - "[[Cowen_2019_ERE]]"
   - "[[Slavin_2019_EP]]"
@@ -56,7 +59,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> The **Teaching and Learning Toolkit** 是由英国**教育捐赠基金会（Education Endowment Foundation, EEF）**生产并维护的一个面向[[School Leadership|学校领导]]者的在线工具。它以联盟表（league table）格式汇总和比较各教育干预的证据基础，按**成本、有效性（以"额外学习月数"表示）和证据确定性**三个维度排列。Toolkit 总结了超过 5,500 项教育研究（Cowen et al., 2015, p.19）。
+> The **Teaching and Learning Toolkit** 是由英国**[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）**生产并维护的一个面向[[School Leadership|学校领导]]者的在线工具。它以联盟表（league table）格式汇总和比较各教育干预的证据基础，按**成本、有效性（以"额外学习月数"表示）和证据确定性**三个维度排列。Toolkit 总结了超过 5,500 项教育研究（Cowen et al., 2015, p.19）。
 >
 > > It summarises and compares various approaches along the dimensions of cost, effectiveness, and certainty of evidence. (Cowen, 2019, p. 4)
 >
@@ -93,7 +96,7 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 >
 > ### 创造性重新诠释
 >
-> 一所特殊学校将 EEF 关于"反馈"的证据应用于教师反馈系统（而非学生反馈），结合 CCTV 录像观察教师课堂表现——这远远超出了证据直接支持的范畴（Cowen et al., 2015, p.24）。Cowen 认为，如果接受"证据的角色是激发审议而非直接指导实践"，这种创造性使用是可以被正面看待的（p.41）。
+> 一所特殊学校将 [[Education Endowment Foundation|EEF]] 关于"反馈"的证据应用于教师反馈系统（而非学生反馈），结合 CCTV 录像观察教师课堂表现——这远远超出了证据直接支持的范畴（Cowen et al., 2015, p.24）。Cowen 认为，如果接受"证据的角色是激发审议而非直接指导实践"，这种创造性使用是可以被正面看待的（p.41）。
 >
 > ### 误读与简化
 >
@@ -141,7 +144,7 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 >
 > ### 实施指导的空白
 >
-> - 虽然 EEF 提供了大量关于在学校开展试验的实践指导，但"专门针对实施现有证据本位方案的文献相对较少"（Cowen et al., 2015, pp.21–22, 45）
+> - 虽然 [[Education Endowment Foundation|EEF]] 提供了大量关于在学校开展试验的实践指导，但"专门针对实施现有证据本位方案的文献相对较少"（Cowen et al., 2015, pp.21–22, 45）
 > - 缺乏关于"如何将'什么有效'的研究证据与本地知识、关于底层机制的假设、关于是否预期这些机制在本地起作用、关于什么构成'充分相似'的环境"的实用指导
 > - Cowen et al. 将此定位为国际 EBP 文献中的共同空白
 >
@@ -199,7 +202,7 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 >
 > > "The Toolkit is 'useful' insofar as it provides a series of legitimised approaches that school leaders can try to implement with the resources dedicated to disadvantaged students."（Cowen, 2019, p. 11）
 >
-> 在 Bainbridge et al.（2022）的分析中，这一制度批判获得了经验支持：EEF Toolkit 虽被政府正式认可为"approved"证据来源，但在 SSEF 政策制定中，政府回避了符合定义的证据（包括 Toolkit 所代表的元分析研究），转而使用不符合证据定义的 [[Ofsted]] 评级（Bainbridge et al., 2022, p.4, 27）。
+> 在 Bainbridge et al.（2022）的分析中，这一制度批判获得了经验支持：[[Education Endowment Foundation|EEF]] Toolkit 虽被政府正式认可为"approved"证据来源，但在 SSEF 政策制定中，政府回避了符合定义的证据（包括 Toolkit 所代表的元分析研究），转而使用不符合证据定义的 [[Ofsted]] 评级（Bainbridge et al., 2022, p.4, 27）。
 >
 
 ## 相关概念／理论
@@ -210,7 +213,7 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 > - [[Local Knowledge in Evidence-Based Policy]] — 教师访谈反复表明，本地知识是正确解读 Toolkit 信息的必要前提
 > - [[What Works Network]] — Toolkit 是 What Works Network 教育领域的旗舰产品
 > - [[Effect Size]] — Toolkit 以效应量作为基本分析单位，其方法论批评的核心概念
-> - [[Playing for Success]] — Toolkit 体育参与条目背后被聚合的极端案例，揭示[[Meta-meta-analysis|元-元分析]]如何掩盖底层研究的巨大异质性
+> - [[Playing for Success]] — Toolkit 体育参与条目背后被聚合的极端案例，揭示[[Meta-meta-analysis|元-元分析]]如何掩盖底层研究的巨大[[Heterogeneity|异质性]]
 > - [[Moral Sidestep]] — Bainbridge et al. 发现政府在实际政策中回避 Toolkit 代表的学术证据，转而使用 [[Ofsted]] 评级进行建构型道德侧步
 > - [[Ofsted]] — 被政府混同为"证据"的非同行评议评级，取代了 Toolkit 等符合政府自身证据定义的来源
 > - [[Van Leeuwen's Legitimation Theory]] — 解释了为何 Toolkit 代表的学术证据在政策中不被合法化而 Ofsted 评级却被接受
@@ -218,6 +221,7 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 
 ## 来源
 
+- [[Higgins_2016_RE]]
 - [[Cowen_2015_CHESS]]
 - [[Cowen_2019_ERE]]
 - [[Slavin_2019_EP]]

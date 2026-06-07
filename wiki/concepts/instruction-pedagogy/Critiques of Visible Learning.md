@@ -28,6 +28,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
+  - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Language Experience Approach]]"
   - "[[Constructivist Paradigm]]"
@@ -68,6 +69,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[John Dewey]]"
+  - "[[Gene Glass]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[John Locke]]"
   - "[[Gerald Grace]]"
@@ -261,7 +263,7 @@ Wecker 等人的发现（p.26-27）：
 Hattie 在不同元分析之间交替使用多种效应量测度而不做转换（p.26-27, Table 1）：
 - **Cohen's d** $= \frac{M_E - M_C}{SD_{pooled}}$
 - **Hedges' g** $\approx d \times \left[1 - \frac{3}{4N-9}\right]$，对 d 的小样本偏差校正
-- **Glass' Δ** $= \frac{M_E - M_C}{SD_{control}}$（仅用控制组标准差）
+- **[[Gene Glass|Glass]]' Δ** $= \frac{M_E - M_C}{SD_{control}}$（仅用控制组标准差）
 - **Fisher's z** $= \frac{1}{2}\ln\left(\frac{1+r}{1-r}\right)$，用于相关系数的正态化转换
 
 这些测度在数学上不等价，不能直接汇总。Wecker 等人指出："这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）。
@@ -449,7 +451,7 @@ Wecker 等人（p.26, Table 1）以表格形式系统记录了每个分析步骤
 
 **（3）138 个影响因素的不可比性**（p.33-34）
 
-Wecker 等人识别了一个常常被忽略的深层问题：Hattie 的排名暗示 138 个因素是**可替代的行动方案**——教师可以从中选择"最有效的"。但因素的异质性使这种比较无意义：
+Wecker 等人识别了一个常常被忽略的深层问题：Hattie 的排名暗示 138 个因素是**可替代的行动方案**——教师可以从中选择"最有效的"。但因素的[[Heterogeneity|异质性]]使这种比较无意义：
 
 | 因素类型 | 例 | 比较基线 | 排名的含义 |
 |---------|---|---------|----------|
@@ -639,7 +641,7 @@ Rømer (2018, p.2-5) 论证 VL 不是一个学习理论甚至不是一个[[Didak
 **四个子论证**：
 
 1. **评价支配了教育过程**：VL 的教育目标是学习者成为"自我监控、自我评价、自我评估、自我学习"——评价不是教育之后的事，教育直接被定义为评价本身（Rømer, 2018, p.2）
-2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、Bildung、民主、权威、纪律等概念无处可寻（Rømer, 2018, p.2-3）
+2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, [[Gene Glass|Glass]], Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、Bildung、民主、权威、纪律等概念无处可寻（Rømer, 2018, p.2-3）
 3. **"Know thy impact" 作为评价座右铭**：教师成为"自身效果的学徒"，教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果"（Rømer, 2018, p.3）
 4. **元评价的全球形式**：Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构（Rømer, 2018, p.3）
 
@@ -954,7 +956,7 @@ Johnson & Janzen 对 [[John Hattie|Hattie]] 的[[Meta-meta-analysis|元-元分�
 
 - **Homework 效应的逐步解构**：Hattie 仅用一段话解释方法——综合 5 项[[Meta-analysis|元分析]]（161 项研究、100K+ 学生）→ d=0.29。通过手动搜索附录 A，Johnson & Janzen 找到 5 个被隐藏的 d 值（0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29——但指出这在方法论上是无加权、无质量评估的简单平均（Johnson & Janzen, 2023, p.25-26）
 - **Homework 内部的极端变异性**：d=0.29 掩盖了小学 d=0.15 vs 高中 d=0.64 的巨大差异——高中作业若单独排名可达 17/138（p.26-27）
-- **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 d=0.09 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（p.32-33）
+- **[[Gene Glass|Glass]] & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 d=0.09 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（p.32-33）
 - **方法论不透明定性**："We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
 
 #### 角度二：新泰勒主义——教师监视与去专业化

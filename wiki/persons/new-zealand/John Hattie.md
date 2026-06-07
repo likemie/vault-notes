@@ -61,6 +61,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Karl Pearson]]"
   - "[[John Dewey]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
@@ -165,7 +166,7 @@ updated: '2026-05-21'
 > - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 VL 研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 [[Education Endowment Foundation|EEF]] 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
 > - **2015 年 1 月** Visible Classroom 工具进入美国市场（O'Neill et al., 2016, p.50）
 > - **2015 年 5 月** 墨尔本大学与 Ai-Media 签署五年全球协议进一步开发 Visible Classroom 产品（O'Neill et al., 2016, p.50）
-> - **2015 年 6 月** Pearson 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 VLplus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 VL 商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
+> - **2015 年 6 月** [[Karl Pearson|Pearson]] 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 VLplus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 VL 商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
 > - **2015 年 6 月**（同月）Hattie 接受 RNZ *Nine to Noon* 节目 Catherine Ryan 采访，宣传这两篇 Pearson 文章——O'Neill 等将此描述为"教育思想领导力现在是一种商业产品，需要市场推广活动"的例证（O'Neill et al., 2016, p.51）
 > - **2015 年 12 月** 两篇文章被 ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用（O'Neill et al., 2016, p.51）
 >

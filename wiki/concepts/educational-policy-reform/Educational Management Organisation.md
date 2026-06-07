@@ -11,12 +11,14 @@ tags:
 - region/new-zealand
 - region/global
 related_concepts:
+  - "[[Public-Private Partnership in Research]]"
   - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Karl Pearson]]"
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Cognition Education]]"
@@ -63,7 +65,7 @@ updated: '2026-05-18'
 
 Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织或设立营利性子机构的非营利组织，只要盈余专用于慈善目的。然而，除了这些营利性慈善子机构外，新西兰公立学校领域还出现了专门为投资者和所有者产生私人利润的新兴政策创业者（O'Neill et al., 2016, pp.21–22）：
 
-- **Future Schools Partners (FSP)**（前 Learning Infrastructure Partners）：2012 年获首个 PPP 合同，在 Hobsonville Point 建设和维护中小学 25 年，由 Westpac 贷款和 Public Infrastructure Partners Fund（PIP Fund，基石投资者为新西兰超级基金）提供股权融资（O'Neill et al., 2016, pp.22–23）
+- **Future Schools Partners (FSP)**（前 Learning Infrastructure Partners）：2012 年获首个 [[Public-Private Partnership in Research|PPP]] 合同，在 Hobsonville Point 建设和维护中小学 25 年，由 Westpac 贷款和 Public Infrastructure Partners Fund（PIP Fund，基石投资者为新西兰超级基金）提供股权融资（O'Neill et al., 2016, pp.22–23）
 - **New Pedagogies for Deep Learning (NPDL)**：结构化为产生私人利润的实体，社会网络跨公共和私营部门多组织（O'Neill et al., 2016, p.22）
 
 ## 影子教育与家庭支出
@@ -81,7 +83,7 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 > [!example] 主要案例
 > - **[[Cognition Education|Cognition Education]]**（新西兰最大 EMO）— 起源于 Multi Serve Education Trust (1989)，2010 年收入达 USD 69M，2015 年降至 USD 28M；以商业运作 [[John Hattie]] 的 Visible Learningplus 为核心品牌（O'Neill et al., 2016, pp.65–75）
 > - **CORE Education**（新西兰第二大 EMO）— 专注于学习技术和数字环境，约 85% 年收入来自教育部合同（2014–2015），收入从 2010 年 USD 7.8M 增长至 2015 年 USD 22.7M（O'Neill et al., 2016, pp.76–85）
-> - **Pearson** — 全球最大教育组织，40,000 名员工遍布 70+ 国家，2015 年销售额约 £4.5B，以教育服务、思想领导力和风险投资品牌运营（O'Neill et al., 2016, pp.59–64）
+> - **[[Karl Pearson|Pearson]]** — 全球最大教育组织，40,000 名员工遍布 70+ 国家，2015 年销售额约 £4.5B，以教育服务、思想领导力和风险投资品牌运营（O'Neill et al., 2016, pp.59–64）
 
 ## 与相关概念的区别
 

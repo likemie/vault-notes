@@ -4177,6 +4177,15 @@
     ]
   },
   {
+    "title": "Heterogeneity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Heterogeneity.md",
+    "aliases": [
+      "异质性",
+      "研究间异质性"
+    ]
+  },
+  {
     "title": "Hook and Eye Technique",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hook and Eye Technique.md",
@@ -6581,7 +6590,11 @@
     "aliases": [
       "元-元分析",
       "元元分析",
-      "mega-analysis"
+      "mega-analysis",
+      "meta-synthesis",
+      "元综合",
+      "super-analysis",
+      "super-synthesis"
     ]
   },
   {
@@ -7704,6 +7717,15 @@
     ]
   },
   {
+    "title": "Karl Pearson",
+    "type": "person",
+    "path": "wiki/persons/uk/Karl Pearson.md",
+    "aliases": [
+      "卡尔·皮尔逊",
+      "Pearson"
+    ]
+  },
+  {
     "title": "Kimberly Ochs",
     "type": "person",
     "path": "wiki/persons/uk/Kimberly Ochs.md",
@@ -7995,6 +8017,15 @@
     ]
   },
   {
+    "title": "Gene Glass",
+    "type": "person",
+    "path": "wiki/persons/usa/Gene Glass.md",
+    "aliases": [
+      "吉恩·格拉斯",
+      "Glass"
+    ]
+  },
+  {
     "title": "Herbert Blalock",
     "type": "person",
     "path": "wiki/persons/usa/Herbert Blalock.md",
@@ -8045,6 +8076,15 @@
     "path": "wiki/persons/usa/Robert E. Stake.md",
     "aliases": [
       "罗伯特·斯塔克"
+    ]
+  },
+  {
+    "title": "Robert Marzano",
+    "type": "person",
+    "path": "wiki/persons/usa/Robert Marzano.md",
+    "aliases": [
+      "罗伯特·马扎诺",
+      "Marzano"
     ]
   },
   {
@@ -10867,6 +10907,11 @@
     "title": "Argument_Bainbridge_2022_ROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md"
+  },
+  {
+    "title": "Argument_Higgins_2016_RE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md"
   },
   {
     "title": "Argument_Wadhwa_2024_RER",

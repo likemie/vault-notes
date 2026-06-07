@@ -29,6 +29,7 @@ related_methods:
   - "[[Random Sampling]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Robert Marzano]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：概念分析与技术论证（conceptual analysis + technical demonstration）
 > - **论证工具**：一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
-> - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（Marzano 1998; [[John Hattie|Hattie]] 2009; Higgins et al. 2013/[[Education Endowment Foundation|EEF]] Toolkit），以及纳入这些综合的原始研究
+> - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（[[Robert Marzano|Marzano]] 1998; [[John Hattie|Hattie]] 2009; Higgins et al. 2013/[[Education Endowment Foundation|EEF]] Toolkit），以及纳入这些综合的原始研究
 
 ## 核心论证
 
@@ -133,7 +134,7 @@ updated: '2026-05-18'
 >
 > ### 4. 核心结论：联盟表不是有效性排名
 >
-> > “在 Marzano (1998)、[[John Hattie|Hattie]] (2009) 和 Higgins et al. (2013) 中排名较高的领域，是那些研究者能够设计出更敏感的实验的领域。”
+> > “在 [[Robert Marzano|Marzano]] (1998)、[[John Hattie|Hattie]] (2009) 和 Higgins et al. (2013) 中排名较高的领域，是那些研究者能够设计出更敏感的实验的领域。”
 > ("Areas which rank highly in Marzano (1998), [[John Hattie|Hattie]] (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments.") (Simpson, 2017, p.2)
 >
 > 效应量排名较高的领域（反馈、元认知）仅说明研究者更容易在这些领域设计低噪声试验，而非这些干预更具教育影响力。以这些排名驱动教育政策是"misdirection"——误导（Simpson, 2017, p.14）。
