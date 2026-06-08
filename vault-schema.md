@@ -8,13 +8,12 @@
 
 - 只读取当前任务需要的文件，避免扫描无关文件夹。
 - 先根据材料判断需要建立或更新哪些知识对象，再读 `wiki/index.json` 检索候选条目是否已存在。
-- `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。
+- `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。不手动维护生成字段：`related_*`、Argument YAML `sources`、source record 的 `extracted_to`。Source 记录与阅读页面由 `scripts/source_record.py` 生成。
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
-- 新建 Concept / Theory / Method / Fact / Person 条目时，必须在同一任务的 Argument 页中至少用一句话提及并链接该条目；新增条目必须出现在当前 Argument 的正文论证中，不只出现在 frontmatter、`related_*` 或 `## 来源`。不要创建与 Argument 页脱节的孤立条目。
-- 所有来源性陈述都必须标注页码。非 Argument 条目通过 APA 短引用链接到对应 Argument；Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。
-- 不使用来源以外的知识；不确定时宁可不写。
-- AI 不手动维护生成字段：`related_*`、Argument YAML `sources`、source record 的 `extracted_to`。
-- Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
+- 新建 Concept / Theory / Method / Fact / Person 条目时，必须在同一任务的 Argument 页中至少用一句话提及该条目。
+- Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。其他条目需按照APA格式严格引用
+- 不使用来源以外的知识；
+
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
 - 新建、移动、删除、重命名条目后，只自动运行基础索引：`wiki_index.py` 与 `citation_index.py`；是否继续运行 citation 补链、普通 wiki 补链、关系同步与 lint，由用户确认。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
@@ -54,15 +53,15 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 | 用户说明「论文集」/「编著」 | `schema/schema-edited-volume.md` |
 | 用户说明「教材」/「教科书」/「课程用书」/「入门读本」 | `schema/schema-textbook.md` |
 
-书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材不改变文件夹结构，仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。
+书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。
 
 ### Figure 和 Table 处理
 
 适用于普通论文、报告、专著、论文集和教材。
 
-- Figure 指图、模型图、流程图、照片、示意图等非表格图像。figure 不复刻，写图片占位。
+- Figure 指图、模型图、流程图、照片、示意图等非表格图像。figure 写图片占位。
 - Table 指作者标为 table 的材料，也包括截图表格和扫描表格。table 只要可读，就必须复刻为 Markdown 表格；只有完全无法读取时才写图片占位。
-- 占位跟随正文叙述放在最相关段落之后，不堆在开头；使用 Markdown 嵌入 `![](...jpg)`，不要包在任何注释中；可见标题使用图号和图名，不写“图片占位”这类重复标题。
+- 占位跟随正文叙述放在最相关段落之后，不堆在开头；使用 Markdown 嵌入 `![](...jpg)`，不要包在任何注释中；可见标题使用图号和图名。
 - Figure 或无法读取的 table 主要服务于文献整体论证时，放在当前 Argument 的对应位置；主要服务于具体 Concept / Theory / Method / Fact / Person 时，放在对应条目中，并在 Argument 页简要提及或链接该条目。
 - 普通论文／报告若需要图片占位或后续补图，最终 source record 和 PDF 应放入 `sources/<论文命名>/`，并创建 `sources/<论文命名>/figures/`；无图时仍可保持 `sources/<论文命名>.md` 和 `sources/<论文命名>.pdf` 的扁平结构。
 
@@ -158,10 +157,10 @@ wiki/
 - `title` 是知识对象的正式名称；文件名通常等于 `title`。
 - 文件名和 `title` 不使用 tag 风格 slug。
 - 标题表达归属关系时，优先使用自然英文结构，如 `Van Leeuwen's Legitimation Theory`、`Teaching Theory of Gruschka`。
-- Concept / Theory / Method / Fact 的标题和文件名默认不得带括号、冒号、引号；来源、人名、年份、地区、缩写放入 `aliases` 或正文说明。
+- Concept / Theory / Method / Fact 的标题和文件名默认不得带括号、冒号、引号；缩写放入 `aliases` 或正文说明。
 - Person 命名细则按 `template-person.md` 执行。
-- Argument 文件名和 `title` 使用稳定技术命名，通常保持一致；APA 短引用写入 citation 字段和正文 wikilink 显示文本，不写入 `title` 或 `aliases`。
-- 缩写、中文译名、常见变体放入 `aliases`，不要为了缩写改变标题。
+- Argument 文件名和 `title` 通常保持一致。
+- 缩写、中文译名、常见变体放入 `aliases`。
 
 
 ### Source Record Names
@@ -186,8 +185,7 @@ OECD_2018_GlobalCompetence
 - 期刊论文优先使用 `Author_Year_JournalAbbrev`。
 - 报告、政策文件、白皮书可使用 `Organization_Year_ShortTitle` 或 `Organization_Year_PublisherAbbrev`。
 - source record 文件名和 PDF 文件名保持一致。
-- 普通论文 / 报告不使用临时 `record-name`；`record-name` 使用最终 `<论文命名>`，并与 Argument 文件名去掉 `Argument_` 前缀后的部分保持一致。
-- AI 不从 PDF 文件名或 DOI 直接猜最终命名；最终命名以 Argument 页路径和文件名为准。
+- 与 Argument 文件名去掉 `Argument_` 前缀后的部分保持一致。
 
 ### aliases
 
