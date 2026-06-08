@@ -20,7 +20,8 @@ related_concepts:
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Joseph Lauwerys]]"
 related_facts:
   - "[[PISA]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
@@ -62,7 +63,7 @@ updated: 2026-06-06
 ## 概念演变
 
 > [!note]
-> **Lauwerys 时期（1965）**。Joseph Lauwerys 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界范式具有影响力。此时结果导向是学术性的文化理解努力（Cowen, 2023, p.333）。
+> **[[Joseph Lauwerys|Lauwerys]] 时期（1965）**。Joseph Lauwerys 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界范式具有影响力。此时结果导向是学术性的文化理解努力（Cowen, 2023, p.333）。
 >
 > **IEA 研究时期**。结果变成了通过[[International Education|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向（Cowen, 2023, p.333）。
 >

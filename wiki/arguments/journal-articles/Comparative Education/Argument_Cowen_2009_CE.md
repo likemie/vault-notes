@@ -30,6 +30,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
+  - "[[Michael Sadler]]"
   - "[[Pierre Bourdieu]]"
   - "[[Andreas Kazamias]]"
 related_facts: []
@@ -78,7 +79,7 @@ updated: 2026-06-06
 
 ### 第一步：学科史诊断，转移主题为何失焦
 
-比较教育的学科起源与流动性（mobilities）密切相关。从 Jullien 开始，学科的核心关切就是教育的国际比较与学习，Sadler (1900) 提出的经典问题也正是如何从外国教育系统中获取实际价值（p.316）。
+比较教育的学科起源与流动性（mobilities）密切相关。从 Jullien 开始，学科的核心关切就是教育的国际比较与学习，[[Michael Sadler|Sadler]] (1900) 提出的经典问题也正是如何从外国教育系统中获取实际价值（p.316）。
 
 然而，学科在发展过程中被三个惯例分散了注意力，使得转移这一经典主题逐渐退居幕后。
 

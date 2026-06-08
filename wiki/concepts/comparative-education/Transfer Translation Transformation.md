@@ -21,11 +21,13 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Geometries of Insertion]]"
   - "[[Scientific Attitude]]"
-related_theories: []
+related_theories:
+  - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
+  - "[[Michael Sadler]]"
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
@@ -95,7 +97,7 @@ updated: 2026-06-06
 ## 概念演变
 
 > [!note]
-> 转移（transfer）是比较教育的经典关切。从 Jullien 开始，学科的核心关切就是教育的国际比较与学习。Sadler (1900) 提出的经典问题是如何从外国教育系统中获取实际价值（Cowen, 2009, p.316）。
+> 转移（transfer）是比较教育的经典关切。从 Jullien 开始，学科的核心关切就是教育的国际比较与学习。[[Michael Sadler|Sadler]] (1900) 提出的经典问题是如何从外国教育系统中获取实际价值（Cowen, 2009, p.316）。
 >
 > 然而，学科在发展过程中被三个惯例分散了注意力：方法论执迷（1950 年代末至 1970 年代）、形式定义（国家对比的写法被当作学科定义）、以及情境描述（掌握外国背景成为比较教育身份的核心符号）。转移作为一个整体性的理论问题逐渐退居幕后（Cowen, 2009, pp.316–317）。
 >
@@ -103,7 +105,7 @@ updated: 2026-06-06
 >
 > Cowen (2009) 在此基础上提出 3T 框架，将转移主题从[[Policy Borrowing|政策借用]]的二元评价升级为一个关注意义与形态变化链的三阶段过程模型。
 >
-> Klerides（2023）从国际关系理论角度进一步指出，转移的研究形态受到对国际社会性质的理解的深层塑造。在现实主义视角下，转移被理解为由国家和国际权力等级塑造的跨国移动——如 Humboldt 大学模式从德国向日本和美国的转移，或冷战时期技术官僚教育观从美国向西欧再向南欧和拉美的扩散。在理性主义视角下，转移被[[Revoicing|重铸]]为复杂的、多元行动者的过程，涉及区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司，"输入—输出"和"借用—出借"的二元框架受到质疑，新概念如"旅行政策"（travelling policies）和"流动话语"（flowing discourses）被提出以捕捉转移的非线性特征。在革命主义视角下，转移不仅是支配的工具，更是反支配和阶级斗争的工具——如第三世界革命政府借用苏联的"工人学院"模式以培养"社会主义知识分子"（Klerides, 2023, pp.422–423, 425–426, 427）。
+> Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度进一步指出，转移的研究形态受到对国际社会性质的理解的深层塑造。在现实主义视角下，转移被理解为由国家和国际权力等级塑造的跨国移动——如 Humboldt 大学模式从德国向日本和美国的转移，或冷战时期技术官僚教育观从美国向西欧再向南欧和拉美的扩散。在理性主义视角下，转移被[[Revoicing|重铸]]为复杂的、多元行动者的过程，涉及区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司，"输入—输出"和"借用—出借"的二元框架受到质疑，新概念如"旅行政策"（travelling policies）和"流动话语"（flowing discourses）被提出以捕捉转移的非线性特征。在革命主义视角下，转移不仅是支配的工具，更是反支配和阶级斗争的工具——如第三世界革命政府借用苏联的"工人学院"模式以培养"社会主义知识分子"（Klerides, 2023, pp.422–423, 425–426, 427）。
 
 ---
 

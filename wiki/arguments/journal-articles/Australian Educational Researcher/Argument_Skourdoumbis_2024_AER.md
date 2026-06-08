@@ -34,6 +34,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Centre for Independent Studies]]"
   - "[[Graduate Outcomes Survey]]"
+  - "[[CESE]]"
   - "[[Education Endowment Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[LANTITE]]"
@@ -155,7 +156,7 @@ Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说�
 
 WPR方法追问的第六个问题，这种问题表征如何被生产、传播和捍卫？在《强劲开端》中，[[Australian Education Research Organisation|AERO]]发挥了关键的塑造作用。
 
-AERO的CEO Jenny Donovan是专家小组成员，她曾任教育统计与评估中心（Centre for Education Statistics and Evaluation, CESE）执行主任（Lewis & Hogan, 2019讨论了CESE的角色）。AERO被委托审查和综合教育中的循证实践（p.27），并按照其证据标准对这些实践进行评级。Mockler（2023）指出，核心内容是基于AERO为审查准备的未发表研究综合（unpublished research synthesis）设计的（p.128）。这意味着决定ITE课程内容的关键证据从未经过同行评审或公开检验。
+AERO的CEO Jenny Donovan是专家小组成员，她曾任教育统计与评估中心（Centre for Education Statistics and Evaluation, [[CESE]]）执行主任（Lewis & Hogan, 2019讨论了CESE的角色）。AERO被委托审查和综合教育中的循证实践（p.27），并按照其证据标准对这些实践进行评级。Mockler（2023）指出，核心内容是基于AERO为审查准备的未发表研究综合（unpublished research synthesis）设计的（p.128）。这意味着决定ITE课程内容的关键证据从未经过同行评审或公开检验。
 
 AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre for Evidence and Implementation, CEI）进行什么有效的桌面审查（Abdo et al., 2021）。CEI自我定位为全球性非营利证据中介（p.2），审查所咨询的专家大部分来自CEI自身和什么有效机构（p.15）。AERO并非自己开展审查，而是委托外部机构在有限的澳大利亚证据基础上完成（p.41）。
 

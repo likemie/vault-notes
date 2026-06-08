@@ -12,7 +12,6 @@ extracted_to:
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Epistemic Ascent]]"
   - "[[Knowledge-that and Know-how-to]]"
-  - "[[Outcomes-based Education]]"
   - "[[Powerful Knowledge]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Rote Learning]]"
@@ -22,6 +21,7 @@ extracted_to:
   - "[[Lev Vygotsky]]"
   - "[[Johan Muller]]"
   - "[[Michael Young]]"
+  - "[[Outcomes-based Education]]"
 processed_date: 2026-06-07
 ---
 
