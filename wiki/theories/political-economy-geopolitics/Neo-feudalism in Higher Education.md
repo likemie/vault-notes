@@ -28,8 +28,6 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -45,7 +43,7 @@ updated: 2026-06-01
 
 这一概念借用了 Habermas（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注（Neckel, 2013; Zinn, 2015; Schulze-Cleven et al., 2017, p.799）。
 > [!quote]
-> "the ongoing restructuring of academic dependencies and loyalties (as pictured by [[Pierre Bourdieu|Bourdieu]], 1984) appears to have generated not just free-market dynamics but also a system of neo-feudal power relations"（Schulze-Cleven et al., 2017, pp.798–799）
+> "the ongoing restructuring of academic dependencies and loyalties (as pictured by Bourdieu, 1984) appears to have generated not just free-market dynamics but also a system of neo-feudal power relations"（Schulze-Cleven et al., 2017, pp.798–799）
 > 
 > 当前正在进行的学术依附和忠诚关系的重新结构化（如 Bourdieu, 1984 所描绘），似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统。
 
@@ -88,7 +86,7 @@ updated: 2026-06-01
 
 > [!note]
 > - **1962 年**：Habermas 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
-> - **1984 年**：[[Pierre Bourdieu|Bourdieu]] 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系（Bourdieu, 1984; Schulze-Cleven et al., 2017, p.799）
+> - **1984 年**：Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系（Bourdieu, 1984; Schulze-Cleven et al., 2017, p.799）
 ... Applied fuzzy match at line 48-112.
 > - **2013 年**：Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
 > - **2015 年**：Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究（Schulze-Cleven et al., 2017, p.799）
@@ -97,7 +95,7 @@ updated: 2026-06-01
 ## 与相关理论的关系
 
 > [!tip]
-> - **[[Pierre Bourdieu|Bourdieu]] 的学术[[Champ|场域]]**：[[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略（Schulze-Cleven et al., 2017, p.799）
+> - **Bourdieu 的学术[[Champ|场域]]**：[[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略（Schulze-Cleven et al., 2017, p.799）
 > - **新 Weber 式权力分析**：探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式（Clark, 1983; Gumport, 2007; Schulze-Cleven et al., 2017, p.799）
 > - **马克思主义[[Knowledge Capitalism|知识资本主义]]分析**：将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; Schulze-Cleven et al., 2017, p.805）
 
@@ -106,7 +104,7 @@ updated: 2026-06-01
 > [!warning]
 > - 新封建主义的概念是否过度延伸了封建类比？现代学术等级依赖的是制度化的评价体系（同行评审、排名）而非个人化的封君-封臣关系，两者在权力性质上存在根本差异
 > - 各篇文章对新封建主义的理解并不统一——Jessop 将其置于政治资本主义分析中，Reitz 强调评估机制的功能必要性，Wieczorek et al. 则将其操作化为 Weber 式理想类型——概念的一致性尚待建立
-> - 新封建主义的批判力量在于揭示市场话语（"卓越"、"竞争"）掩盖下的权力关系，但作为[[Analytic Framework|分析框架]]，其与 [[Pierre Bourdieu|Bourdieu]] 的[[Champ|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
+> - 新封建主义的批判力量在于揭示市场话语（"卓越"、"竞争"）掩盖下的权力关系，但作为[[Analytic Framework|分析框架]]，其与 Bourdieu 的[[Champ|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
 
 ## 相关研究
 
@@ -116,6 +114,3 @@ updated: 2026-06-01
 > - Wieczorek, Beyer & Münch— 提出封地封建主义与俸禄封建主义的类型学
 > - Reitz— 论证学术评估和等级对资本主义[[Knowledge-Based Economy|知识经济]]的功能必要性
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

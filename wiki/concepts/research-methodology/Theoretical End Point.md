@@ -17,13 +17,9 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Quantitative Research]]"
-related_persons:
-  - "[[Yvonna S. Lincoln]]"
-  - "[[Egon G. Guba]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -57,7 +53,7 @@ updated: 2026-05-31
 
 - **案例研究**：Stake (1995) 在命题性概括（研究者的解释和主张总结）之外，还加入了研究者的个人经验，称为"[[Naturalistic Generalization|自然主义概括]]"（naturalistic generalizations, p.86）。
 - **[[Grounded Theory|扎根理论]]**：研究者计划从参与者信息中发现并推进一个植根于数据的理论（Strauss & Corbin, 1998）。
-- **模式理论（pattern theories）**：[[Yvonna S. Lincoln|Lincoln]] & [[Egon G. Guba|Guba]] (1985) 将自然主义或[[Qualitative Research|质性研究]]中发展的解释称为"模式理论"。与[[Quantitative Research|量化研究]]中的演绎形式不同，这些模式理论或概括代表相互关联的思想或部分连接为整体。
+- **模式理论（pattern theories）**：Lincoln & Guba (1985) 将自然主义或[[Qualitative Research|质性研究]]中发展的解释称为"模式理论"。与[[Quantitative Research|量化研究]]中的演绎形式不同，这些模式理论或概括代表相互关联的思想或部分连接为整体。
 
 > [!example]
 > Creswell & Brown (1992) 使用 33 次与学术部门主任的访谈数据，发展了关于系主任对学术绩效影响的扎根理论。理论部分作为文章的最后一节出现，其中呈现了归纳发展出的视觉模型和方向性假设，并将参与者结果与其他研究及文献中的理论讨论进行了比较。
@@ -76,6 +72,3 @@ updated: 2026-05-31
 - [[Grounded Theory]] — 扎根理论是理论终点最典型的实现形式
 - [[Qualitative Research]] — 质性研究的归纳逻辑是理论终点的认识论基础
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

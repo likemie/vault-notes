@@ -18,14 +18,11 @@ related_concepts:
   - "[[New Public Management]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Bertrand Russell]]"
+related_persons: []
 related_facts:
   - "[[Karmel Report]]"
   - "[[Local Schools Local Decisions]]"
 related_arguments: []
-sources:
-  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -65,7 +62,7 @@ updated: '2026-05-18'
 >
 > - **招生排斥**：一些 IP 学校认为"他们有权改变招生流程"以排斥特定学生（如原住民学生、难民、残疾学生），尽管这违反了"州立学校接受出现在校门口的学生的基本法定要求"（Lucas, teacher union, Qld, p.9）
 > - **竞争与残余化**：竞争机制制造了"吸取系统生命的等级秩序"，加剧了公立系统内的分层和残余化
-> - **规模经济差距**：有 3,000 名学生"你绝对大赚特赚"，只有 400 名则"你必须重组"（[[Bertrand Russell|Russell]], union, WA, p.440/10）
+> - **规模经济差距**：有 3,000 名学生"你绝对大赚特赚"，只有 400 名则"你必须重组"（Russell, union, WA, p.440/10）
 > - **正面潜力**：当资源充足且有适当支持时，更大的灵活性在理论上可以使学校更好地满足社区需求
 
 ## 争议与评论
@@ -83,6 +80,3 @@ updated: '2026-05-18'
 > - [[New Public Management]] — IPS 体现了 NPM 的市场逻辑在学校治理层面的操作化
 > - [[Local Schools Local Decisions]] — NSW 版的学校自主权政策，可作比较
 
-## 来源
-
-- [[Keddie_2020_IJLE]]

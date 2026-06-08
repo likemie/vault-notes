@@ -28,10 +28,9 @@ related_persons:
   - "[[Lars Qvortrup]]"
   - "[[John Hattie]]"
   - "[[Jean Piaget]]"
+  - "[[Gilbert Ryle]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Qvortrup_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Surface and Deep Learning]] — 表层/深层学习通常区分学习质量层次；动态知识与学习模型则把知识形式扩展为一阶到四阶，并强调知识形式之间的递归和相互刺激（Qvortrup, 2015, pp.29–32）。
-> - vs [[Popper's Three Worlds Theory]] — [[John Hattie|Hattie]] 借 Popper 区分表层、深层和概念性知识；Qvortrup 认为这种映射与 Bloom 修订版、SOLO 模型之间关系不清，因此改采 Bateson 式动态模型（Qvortrup, 2015, p.30）。
+> - vs [[Popper's Three Worlds Theory]] — Hattie 借 Popper 区分表层、深层和概念性知识；Qvortrup 认为这种映射与 Bloom 修订版、SOLO 模型之间关系不清，因此改采 Bateson 式动态模型（Qvortrup, 2015, p.30）。
 > - vs [[Scientism]] — 动态模型并不否定[[Quantitative Research|量化研究]]，而是反对把学习结果简化为单一可测指标；它要求在证据比较前先澄清"被测量的究竟是哪一类知识"。
 
 ## 理论基础
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 > [!info] 理论基础
 > - Gregory Bateson 的学习与沟通理论 — 一阶到四阶学习，以及通过自我反思实现学习阶次转换，是 Qvortrup 模型的直接来源（Qvortrup, 2015, p.31）。
 > - [[Jean Piaget]] 的同化／顺应区分 — Qvortrup 用 Piaget 说明不同知识与学习形式会相互影响，新知识的获得依赖已有认知图式，因此不能只使用静态分类法（Qvortrup, 2015, p.29）。
-> - Gilbert Ryle 的 knowing-that / knowing-how 区分 — Qvortrup 用它说明一阶知识与二阶知识的差异（Qvortrup, 2015, p.31）。
+> - [[Gilbert Ryle]] 的 knowing-that / knowing-how 区分 — Qvortrup 用它说明一阶知识与二阶知识的差异（Qvortrup, 2015, p.31）。
 
 ## 实证发现
 
@@ -103,7 +102,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Visible Learning]] — 该模型直接回应 [[John Hattie|Hattie]] 的学习结果概念，尤其是表层、深层和概念性知识在[[Meta-analysis|元分析]]中如何被测量的问题。
+> - [[Visible Learning]] — 该模型直接回应 Hattie 的学习结果概念，尤其是表层、深层和概念性知识在[[Meta-analysis|元分析]]中如何被测量的问题。
 > - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — Qvortrup (2015) 将动态模型定位为未来元分析发展的概念条件：如果研究者只比较抽象[[Effect Size|效应量]]，就难以说明不同教学干预究竟影响哪一种知识或学习形式（Qvortrup, 2015, pp.27, 32–33）。
 > - [[Evidence-Based Education]] — 为 EBE 提供"结果分类层"的补充：在"什么有效"之前，先区分"对哪种知识有效"。
 
@@ -114,6 +113,3 @@ updated: '2026-05-18'
 > - **VL 内部修正链**：[[Visible Learning]] → [[Popper's Three Worlds Theory]] → [[Dynamic Knowledge and Learning Model]]
 > - **政策批判链**：[[Evidence-Based Education]] → [[Scientism]] → [[Cargo Cult Science]]
 
-## 来源
-
-- [[Qvortrup_2015_Paideia]]

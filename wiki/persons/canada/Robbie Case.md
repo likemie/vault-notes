@@ -16,7 +16,6 @@ related_theories:
   - "[[Neo-Piagetian Theories]]"
 related_methods: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Jean Piaget]]"
   - "[[Juan Pascual-Leone]]"
   - "[[Kurt Fischer]]"
@@ -33,12 +32,12 @@ citation_name: Case
 ## 简介
 
 > [!info] 简介
-> [[Neo-Piagetian Theories|新皮亚杰理论]]家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型（Bolton & [[John Hattie|Hattie]], 2017, p.3）。
+> [[Neo-Piagetian Theories|新皮亚杰理论]]家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型（Bolton & Hattie, 2017, p.3）。
 
 ## 核心思想
 
 > [!info] 核心思想
-> Case 在 Pascual-Leone 模型的基础上提出（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
+> Case 在 Pascual-Leone 模型的基础上提出（Bolton & Hattie, 2017, p.3）：
 >
 > - **四子域（Four Sub-domains）** — 每个认知领域有不同的组织方式和发展路径
 > - **子阶段递进** — 儿童须先经过其全部四个子阶段后，才进入下一个主要发展阶段
@@ -46,7 +45,7 @@ citation_name: Case
 
 ## 测量方法
 
-Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内和阶段间的发展差异（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
+Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内和阶段间的发展差异（Bolton & Hattie, 2017, p.3）：
 
 - 0–4 个月：仅用眼睛和头部跟随移动的横梁
 - 18 个月：能与物体互动到足以区分推和拉的效果
@@ -56,7 +55,7 @@ Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内�
 
 > [!success] 主要贡献
 > - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 四子域发展模型，细化了[[Jean Piaget|皮亚杰]]阶段内部的子阶段结构
-> - 其 Inter-relational → Dimensional 阶段转变（约 4–5 岁）被 Bolton & [[John Hattie|Hattie]] (2017) 作为新皮亚杰阶段与 [[Executive Function|EF]] 变化铰链点吻合的证据（Bolton & Hattie, 2017, p.10）
+> - 其 Inter-relational → Dimensional 阶段转变（约 4–5 岁）被 Bolton & Hattie (2017) 作为新皮亚杰阶段与 [[Executive Function|EF]] 变化铰链点吻合的证据（Bolton & Hattie, 2017, p.10）
 
 ## 思想发展与影响
 

@@ -51,13 +51,13 @@ citation_name: Qvortrup
 > [!note-] 生平与职涯
 > - 任职于奥胡斯大学丹麦教育学院，国家学校研究中心教授
 > - 2015 年在 *Paideia* 发表讨论论文，回应 [[Visible Learning]] 的方法论争议，并提出以 Bateson 为基础的[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]（Qvortrup, 2015, pp.22–33）
-> - 与 Niels Egelund 共同撰写 [[John Hattie|Hattie]] *Visible Learning for Teachers* 丹麦语译本导言
+> - 与 Niels Egelund 共同撰写 Hattie *Visible Learning for Teachers* 丹麦语译本导言
 > - 2019 年在 NordSTEP 发表讨论论文，回应丹麦 Hattie 争议并构建 VL 的理论辩护
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Qvortrup, L. (2015). Baggrund for og diskussioner af [[Visible Learning]] med særligt henblik på lærings- og vidensbegrebet. *Paideia*, 9, 22–33. — VL 支持者立场讨论论文：回应意识形态、方法论和情境三类批评，并指出 [[John Hattie|Hattie]] 的"学习结果"概念需要更动态的知识模型
+> - Qvortrup, L. (2015). Baggrund for og diskussioner af [[Visible Learning]] med særligt henblik på lærings- og vidensbegrebet. *Paideia*, 9, 22–33. — VL 支持者立场讨论论文：回应意识形态、方法论和情境三类批评，并指出 Hattie 的"学习结果"概念需要更动态的知识模型
 > - Qvortrup, L. (2019). Visible learning and its enemies – the missing link. *Nordic Journal of Studies in Educational Policy*, 5(1), 3–7. — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和[[Structural Coupling|结构耦合]]三线论证为 Hattie 辩护
 > - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & [[Didaktik]]* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代行为主义学习理论的系统阐述
 
@@ -66,7 +66,7 @@ citation_name: Qvortrup
 > [!info] 核心思想
 > Qvortrup 的学术立场是从 VL 支持者角度为其提供理论辩护：
 >
-> > "The aim of [[Visible Learning]] is to support teachers' professional judgement. (...) The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' ([[John Hattie|Hattie]], 2009, p. 247)."（Qvortrup, 2019, p.7）
+> > "The aim of [[Visible Learning]] is to support teachers' professional judgement. (...) The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247)."（Qvortrup, 2019, p.7）
 >
 > 他的核心贡献包括：
 >

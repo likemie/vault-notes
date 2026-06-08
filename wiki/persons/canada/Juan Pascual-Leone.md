@@ -16,7 +16,6 @@ related_theories:
   - "[[Neo-Piagetian Theories]]"
 related_methods: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Jean Piaget]]"
   - "[[Robbie Case]]"
 related_arguments: []
@@ -32,12 +31,12 @@ citation_name: Pascual-Leone
 ## 简介
 
 > [!info] 简介
-> 首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]]整合的[[Neo-Piagetian Theories|新皮亚杰理论]]家（1970 年），提出心智能力（Mental Power / M-power）概念（Bolton & [[John Hattie|Hattie]], 2017, p.3）。
+> 首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]]整合的[[Neo-Piagetian Theories|新皮亚杰理论]]家（1970 年），提出心智能力（Mental Power / M-power）概念（Bolton & Hattie, 2017, p.3）。
 
 ## 核心思想
 
 > [!info] 核心思想
-> Pascual-Leone 提出人类思维存在于两个层面（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
+> Pascual-Leone 提出人类思维存在于两个层面（Bolton & Hattie, 2017, p.3）：
 >
 > - **沉默算子（Silent Operators）** — 总体的认知硬件，心智能力的基础设施
 > - **主观算子（Subjective Operators）** — [[Jean Piaget|皮亚杰]]所描述的支配思维的结构和图式
@@ -48,10 +47,10 @@ citation_name: Pascual-Leone
 
 > [!success] 主要贡献
 > - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 首位[[Neo-Piagetian Theories|新皮亚杰理论]]家，提出信息加工与[[Jean Piaget|皮亚杰]]理论的整合框架
-> - 开发了测量儿童心智能力的方法：让儿童保持并重复一系列与相关刺激相链接的动作，以准确重复的序列数量衡量心智能力（Bolton & [[John Hattie|Hattie]], 2017, p.3）
+> - 开发了测量儿童心智能力的方法：让儿童保持并重复一系列与相关刺激相链接的动作，以准确重复的序列数量衡量心智能力（Bolton & Hattie, 2017, p.3）
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 其双因素模型被 [[Robbie Case]] (1985, 1992) 进一步发展为四子域发展模型（Bolton & [[John Hattie|Hattie]], 2017, p.3）
+> - 其双因素模型被 [[Robbie Case]] (1985, 1992) 进一步发展为四子域发展模型（Bolton & Hattie, 2017, p.3）
 > - Bolton & Hattie (2017) 将其作为[[Neo-Piagetian Theories|新皮亚杰理论]]谱系的起点（Bolton & Hattie, 2017, p.3）

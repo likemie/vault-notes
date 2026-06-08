@@ -4,16 +4,8 @@ extracted_to:
   - "[[Bildung]]"
   - "[[Australian Curriculum]]"
   - "[[Gonski Reforms]]"
-  - "[[Tomorrow's Schools Reforms]]"
-  - "[[Dietrich Benner]]"
-  - "[[Radical Constructivism]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Effect Size]]"
-  - "[[John Hattie]]"
-  - "[[Visible Learning]]"
 processed_date: 2026-05-05
 ---
 

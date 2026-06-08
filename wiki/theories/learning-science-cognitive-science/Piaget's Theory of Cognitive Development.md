@@ -26,12 +26,9 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Jean Piaget]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
-sources:
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -41,14 +38,14 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> [[Jean Piaget|皮亚杰]]的认知发展理论基于四个年龄依赖的阶段，儿童在不同生命阶段以不同方式思维和推理（Bolton & [[John Hattie|Hattie]], 2017, p.2）。皮亚杰是第一位系统研究认知发展的心理学家，提出[[Constructivist Paradigm|建构主义]]理论，开创了考察学习的新方法（Bolton & Hattie, 2017, p.1）。
+> [[Jean Piaget|皮亚杰]]的认知发展理论基于四个年龄依赖的阶段，儿童在不同生命阶段以不同方式思维和推理（Bolton & Hattie, 2017, p.2）。皮亚杰是第一位系统研究认知发展的心理学家，提出[[Constructivist Paradigm|建构主义]]理论，开创了考察学习的新方法（Bolton & Hattie, 2017, p.1）。
 >
 > > "Piaget was the first psychologist to systematically investigate cognitive development by proposing the theory of constructivism and thereby creating a new approach to examine learning. He stated that children think and reason differently at distinct periods in their lives."（Bolton & Hattie, 2017, p.1）
 
 ## 理论内部结构
 
 > [!abstract] 理论内部结构
-> [[Jean Piaget|皮亚杰]]提出四个认知发展阶段（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）：
+> [[Jean Piaget|皮亚杰]]提出四个认知发展阶段（Bolton & Hattie, 2017, p.2–3）：
 >
 > - **感觉运动阶段（Sensorimotor Stage, 0–2 岁）** — 儿童表现出完全自我中心的世界观，无法将思想与行动分离，无法识别物体视角随观察者位置不同而变化。后期开始发展客体永久性（object permanence）（Bolton & Hattie, 2017, p.2）
 > - **前运算阶段（Pre-Operational Stage, 2–7 岁）** — 客体永久性牢固建立，符号思维发展。皮亚杰注意到 3–4 岁之前儿童无法通过液体守恒测试，但 5 岁时多数能完成（Bolton & Hattie, 2017, p.2–3, 10）
@@ -58,14 +55,14 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - 1953 年 Piaget & Cook 系统阐述四阶段论（Bolton & [[John Hattie|Hattie]], 2017, p.2）
+> - 1953 年 Piaget & Cook 系统阐述四阶段论（Bolton & Hattie, 2017, p.2）
 > - 1970 年代起[[Neo-Piagetian Theories|新皮亚杰理论]]家（Pascual-Leone, Case, Fischer 等）开始修正和扩展模型（Bolton & Hattie, 2017, p.3）
 > - Bolton & Hattie (2017) 提出[[Jean Piaget|皮亚杰]]阶段与 [[Prefrontal Cortex|PFC]] 解剖生理发育在时间上平行对应（Bolton & Hattie, 2017, p.1, 8–9）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> 论文列出[[Jean Piaget|皮亚杰]]理论的多项弱点（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
+> 论文列出[[Jean Piaget|皮亚杰]]理论的多项弱点（Bolton & Hattie, 2017, p.3）：
 >
 > - **[无法区分记忆与逻辑]** — Bryant & Trabasso (1971) 的研究对此提出质疑
 > - **[儿童同时仅存在于一个阶段的假设]** — Case (1992) 和 Flavell (1982) 指出儿童可能同时处于多个阶段
@@ -75,13 +72,10 @@ updated: '2026-05-18'
 
 ## 与脑发育的关联
 
-Bolton & [[John Hattie|Hattie]] (2017) 论证[[Jean Piaget|皮亚杰]]的四个阶段与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的解剖生理发育轨迹在时间上对应（Bolton & Hattie, 2017, p.8–9）。[[Executive Function|执行功能]]的年龄相关发展（抑制→转换→[[Updating and Monitoring|更新与监控]]）与 PFC 的逐步成熟平行，特别是在[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程方面（Bolton & Hattie, 2017, p.12–13）。
+Bolton & Hattie (2017) 论证[[Jean Piaget|皮亚杰]]的四个阶段与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的解剖生理发育轨迹在时间上对应（Bolton & Hattie, 2017, p.8–9）。[[Executive Function|执行功能]]的年龄相关发展（抑制→转换→[[Updating and Monitoring|更新与监控]]）与 PFC 的逐步成熟平行，特别是在[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程方面（Bolton & Hattie, 2017, p.12–13）。
 
 ## 相关研究
 
 > [!example] 相关研究
 > - [[Argument_Bolton_2017_ArchPsych]] — 将[[Jean Piaget|皮亚杰]]/新皮亚杰阶段与 [[Prefrontal Cortex|PFC]] 发育和 [[Executive Function|EF]] 发展进行对齐的[[Literature Review|文献综述]]
 
-## 来源
-
-- [[Bolton_2017_ArchPsych]]

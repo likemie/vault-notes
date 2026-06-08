@@ -15,8 +15,7 @@ related_concepts:
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments: []
 related_facts:
   - "[[SFI Report]]"
@@ -38,7 +37,7 @@ citation_name: Mehlbye
 
 > [!info] 核心思想
 > - 高要求、高期待、学业表现取向和明确[[Classroom Management|课堂管理]]是丹麦高绩效学校的重要特征；这些发现与 SFI 报告及国际[[Effective Teaching|有效教学]]综合形成相互印证（Laursen, 2015, pp.37–38）。
-> - 频繁测试在丹麦研究中可能具有正向学习作用，且 Mehlbye 发现测试受丹麦学生欢迎；这构成丹麦证据与 [[John Hattie|Hattie]] 国际综合之间少数明显偏差之一（Laursen, 2015, pp.38–39）。
+> - 频繁测试在丹麦研究中可能具有正向学习作用，且 Mehlbye 发现测试受丹麦学生欢迎；这构成丹麦证据与 Hattie 国际综合之间少数明显偏差之一（Laursen, 2015, pp.38–39）。
 > - Mehlbye 的 2004 年和 2010 年研究提供了学校层面的丹麦本土证据：SFI 报告中出现的高要求、学业表现取向和明确课堂管理，并非孤立结果，而是在丹麦高绩效学校研究中重复出现（Laursen, 2015, pp.37–38）。
 
 ## 主要贡献

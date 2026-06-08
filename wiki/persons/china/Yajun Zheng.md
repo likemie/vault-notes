@@ -76,7 +76,7 @@ citation_name: Zheng
 ## 主要著作
 
 > [!abstract]
-> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[Qualitative Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[Qualitative Interview|深度访谈]]，运用 Bourdieu 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
@@ -116,7 +116,7 @@ citation_name: Zheng
 ### 2014–2017 研究起点与首轮田野
 
 - **核心问题**：中国一流大学中，社会出身如何影响学生的毕业出路？
-- **思想发展**：2014 年夏以 [[Pierre Bourdieu|Bourdieu]] 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
+- **思想发展**：2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
 
 ### 2017–2018 补充田野与理论深化
 
@@ -136,7 +136,7 @@ citation_name: Zheng
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
 > - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
-> - [[Cultural Barrier]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
+> - [[Cultural Barrier]] 概念将 Bourdieu 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 
 ---

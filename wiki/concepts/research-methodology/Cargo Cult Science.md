@@ -13,16 +13,14 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
+  - "[[Homework]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -53,16 +51,12 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> - Johnson & Janzen (2023) 论证 [[John Hattie|Hattie]] 的 [[Visible Learning]] 是教育领域 cargo cult science 的典型案例：
+> - Johnson & Janzen (2023) 论证 Hattie 的 [[Visible Learning]] 是教育领域 cargo cult science 的典型案例：
 >   - VL 使用专有的、未经同行评议的方法论（[[Meta-meta-analysis]]），直接商业出版而非学术发表（p.35）
->   - 方法论解释极其简略——仅一段话说明了 homework 效应的计算方式，未提供计算公式（p.25-26）
+>   - 方法论解释极其简略——仅一段话说明了 [[Homework]] 效应的计算方式，未提供计算公式（p.25-26）
 >   - Hattie 声称其理论无人反驳，但 VL 实际上并未提出可被实验证伪的理论（p.35）
 >   - VL 的 Metax 数据库呈现为典型科学数据集，但未阐明其数字的来源、包含的偏差和被掩盖的细微差别（p.35-36）
 > - Bergeron & Rivard (2017) 指出伪科学工作的特征："倾向于既放大其数学复杂程度又模糊其本质"（Johnson & Janzen, 2023, p.26）
-
-## 来源
-
-- [[Johnson_2023_CE]]
 
 ## 交叉阅读
 

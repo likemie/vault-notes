@@ -29,8 +29,6 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -53,7 +51,7 @@ updated: 2026-05-18
 ## 概念辨析
 
 > [!example]
-> - vs **社会空间（Espace social）** — 社会空间是 [[Pierre Bourdieu|Bourdieu]] 对社会世界整体结构的多维描述（以资本总量和资本结构为两轴），场域则是社会空间内部随分化而形成的相对自主的子空间。社会空间是全景，场域是其中的竞技场。
+> - vs **社会空间（Espace social）** — 社会空间是 Bourdieu 对社会世界整体结构的多维描述（以资本总量和资本结构为两轴），场域则是社会空间内部随分化而形成的相对自主的子空间。社会空间是全景，场域是其中的竞技场。
 > - vs **illusio** — illusio 是行动者进入场域参与"游戏"的前提条件——对社会游戏的"值得玩"的信念。场域是结构，illusio 是使该结构得以运作的主观投入。没有 illusio，场域只是无意义的客观位置集合。
 > - vs **系统（System）** — Bourdieu 刻意使用场域而非系统，强调场域边界的模糊性、内部斗争的持续性和规则的未完成性。系统暗示封闭和稳定，场域强调开放和动态。
 
@@ -62,7 +60,7 @@ updated: 2026-05-18
 ## 概念演变
 
 > [!note]
-> 场域概念从 [[Pierre Bourdieu|Bourdieu]] 早期[[Ethnography|民族志]]田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
+> 场域概念从 Bourdieu 早期[[Ethnography|民族志]]田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
 
 - **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，Bourdieu 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
 - **Weber 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
@@ -114,7 +112,7 @@ Eacott（2011）引用 Blackmore（2010）的诊断：当[[School Leadership|学
 ## 争议与批评
 
 > [!warning]
-> - **决定论指控**：批评者认为场域概念过于强调结构的约束力，低估了行动者改变场域规则的可能性。但 [[Pierre Bourdieu|Bourdieu]] 的支持者指出，场域概念本身即包含斗争和变革的空间——支配者与新人（newcomers）之间的结构性对立正是场域变化的动力
+> - **决定论指控**：批评者认为场域概念过于强调结构的约束力，低估了行动者改变场域规则的可能性。但 Bourdieu 的支持者指出，场域概念本身即包含斗争和变革的空间——支配者与新人（newcomers）之间的结构性对立正是场域变化的动力
 > - **经验操作化困难**：如何在具体研究中界定场域的边界？[[Yajun Zheng|郑雅君]]（2023）将中国精英大学概念化为场域的做法提供了可操作的范例，但不同研究对场域边界的划定标准仍缺乏共识
 > - **法国中心主义**：场域概念主要基于法国社会的经验发展，其在非欧洲情境中的适用性需要谨慎检验
 
@@ -128,7 +126,3 @@ Eacott（2011）引用 Blackmore（2010）的诊断：当[[School Leadership|学
 
 ---
 
-## 来源
-
-- Eacott, S. (2011). New look leaders or a new look at leadership? *Journal of Educational Administration and History*, 43(1).
-- [[Zheng_2023_ShanghaiSanlian]]

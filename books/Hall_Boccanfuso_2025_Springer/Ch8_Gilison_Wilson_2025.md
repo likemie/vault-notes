@@ -17,7 +17,6 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[Alliance for Southern California Innovation]]"
   - "[[First Look SoCal]]"
-  - "[[Kendall Square]]"
   - "[[NSF I-Corps]]"
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"

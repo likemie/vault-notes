@@ -20,7 +20,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[George Berkeley]]"
-  - "[[Immanuel Kant]]"
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
 related_arguments: []
@@ -59,7 +58,7 @@ citation_name: Glasersfeld
 >
 > > "Learning must in the last instance be done by the individual himself—solipsistic!"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）
 >
-> Glasersfeld 的理论受 [[George Berkeley]]（唯我论哲学）、[[Immanuel Kant|Kant]]（剔除审美和规范性维度的选择性阅读）和 Piaget（认知发展）的共同影响（Rømer, 2018, p.7）。
+> Glasersfeld 的理论受 [[George Berkeley]]（唯我论哲学）、Kant（剔除审美和规范性维度的选择性阅读）和 Piaget（认知发展）的共同影响（Rømer, 2018, p.7）。
 
 ## 主要贡献
 
@@ -74,4 +73,4 @@ citation_name: Glasersfeld
 > [!warning] 争议与批评
 > - **规范性缺失**：[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础（Rømer, 2018, p.6-7）
 > - **外部世界的消解**：Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
-> - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的精确对立面，[[John Hattie|Hattie]] 试图桥接两者的努力因此注定失败（Rømer, 2018, p.10-11）
+> - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败（Rømer, 2018, p.10-11）

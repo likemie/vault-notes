@@ -23,7 +23,8 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Gary Thomas]]"
 related_arguments: []
 confidence: medium
 status: draft
@@ -63,7 +64,7 @@ citation_name: Meyer
 
 ### 1997 — "World Society and the Nation-State"（与 Boli, Thomas & Ramirez 合著）
 
-- APA：Meyer, J. W., Boli, J., Thomas, G. M., & Ramirez, F. O. (1997). World society and the nation-state. *American Journal of Sociology*, 103(1), 144–181.
+- APA：Meyer, J. W., Boli, J., [[Gary Thomas|Thomas, G]]. M., & Ramirez, F. O. (1997). World society and the nation-state. *American Journal of Sociology*, 103(1), 144–181.
 - 核心内容：系统阐述世界社会理论——论证民族国家的制度形式在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释，而是全球[[Cultural Models|文化模型]]扩散的结果（Zapp, 2022, p.145）。
 - 思想位置：世界社会理论的系统阐述之作，标志着该理论的成熟（Zapp, 2022, p.145）。
 - 相关概念／理论：[[World Society Theory]]、[[Otherhood]]

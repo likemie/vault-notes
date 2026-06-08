@@ -40,13 +40,13 @@ citation_name: Lincoln
 
 ## 主要著作
 
-- Lincoln, Y. S., & [[Egon G. Guba|Guba]], E. G. (1985). *Naturalistic Inquiry*. [[Sage]]. — 系统建立自然主义探究范式，提出可信性四标准。
+- Lincoln, Y. S., & [[Egon G. Guba|Guba, E. G]]. (1985). *Naturalistic Inquiry*. [[Sage]]. — 系统建立自然主义探究范式，提出可信性四标准。
 - Lincoln, Y. S., & Guba, E. G. (2000). Paradigmatic controversies, contradictions, and emerging confluences. In N. K. Denzin & Y. S. Lincoln (Eds.), *Handbook of [[Qualitative Research]]* (2nd ed.). SAGE. — 对研究范式的系统梳理。
 
 ## 核心思想
 
 > [!tip]
-> Lincoln 与 [[Egon G. Guba|Guba]] 的核心贡献在于为[[Qualitative Research|质性研究]]建立独立于量化传统的可信度标准体系。在理论运用方面，他们提出模式理论（pattern theories）——自然主义研究中发展的解释不同于[[Quantitative Research|量化研究]]的演绎形式，表现为相互关联的思想或部分连接为整体的模式（Creswell & Creswell, 2022, p.67）。
+> Lincoln 与 Guba 的核心贡献在于为[[Qualitative Research|质性研究]]建立独立于量化传统的可信度标准体系。在理论运用方面，他们提出模式理论（pattern theories）——自然主义研究中发展的解释不同于[[Quantitative Research|量化研究]]的演绎形式，表现为相互关联的思想或部分连接为整体的模式（Creswell & Creswell, 2022, p.67）。
 
 > [!quote]
 > "Lincoln and Guba (1985) referred to 'pattern theories' as explanations developing during naturalistic or qualitative research."（引自 Creswell & Creswell, 2022, p.67）
@@ -58,4 +58,4 @@ citation_name: Lincoln
 > [!success]
 > - *Naturalistic Inquiry*（1985）确立了[[Qualitative Research|质性研究]]作为独立合法范式的方法论地位
 > - 与 Norman K. Denzin 共同主编的 *Handbook of Qualitative Research*（[[Sage]], 多版次）已成为质性研究方法领域的标准参考书，汇集各范式代表性学者的方法论论述
-> - 与 [[Egon G. Guba|Guba]] 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎假设检验的理论生成逻辑
+> - 与 Guba 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎假设检验的理论生成逻辑

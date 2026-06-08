@@ -23,8 +23,6 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Golovchin_2019_ESC]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -38,7 +36,7 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]- 经过
-> - **2017 年** — [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 由"Natsional'noe obrazovanie"（国民教育）出版社翻译出版，该出版社隶属于 Prosveshchenie（教育出版社）集团（Golovchin, 2019, p.232）
+> - **2017 年** — Hattie 的 *[[Visible Learning]]* 由"Natsional'noe obrazovanie"（国民教育）出版社翻译出版，该出版社隶属于 Prosveshchenie（教育出版社）集团（Golovchin, 2019, p.232）
 > - 该书出版后在俄罗斯教育界引起广泛关注和讨论，包括教师网络研讨会（webinars）层面的积极传播
 > - **2018 年** — N.A. Borisenko 在 *Voprosy obrazovaniya*（Educational Studies）发表书评，称 VL 的出版是"近年来翻译教育文献出版领域的主要事件之一"，并指出该书是"迄今为止唯一对影响学童教育成就的最重要因素进行评估的科学著作"（Golovchin, 2019, p.237, citing Borisenko, 2018）
 > - I.V. Vachkov 和 S.N. Vachkova（2018）基于对 Hattie 理念的分析，得出结论认为有必要使用[[Meta-analysis|元分析]]来"检验教学创新的生产力"（Golovchin, 2019, p.237）
@@ -47,7 +45,7 @@ updated: '2026-05-18'
 ## 关键文件／声明
 
 > [!quote] 关键文件／声明
-> - [[John Hattie|Hattie]], J. (2017). *Vidimoe obuchenie* [[Visible Learning]]. Moscow: Natsional'noe obrazovanie. 496 p. — 俄文译本
+> - Hattie, J. (2017). *Vidimoe obuchenie* [[Visible Learning]]. Moscow: Natsional'noe obrazovanie. 496 p. — 俄文译本
 > - Borisenko, N.A. (2018). "Barometers" of influence, or factors which have the greatest impact on learning. *Voprosy obrazovaniya=Educational Studies*, no. 1, pp. 257–265. — 正面书评
 
 ## 影响与后果
@@ -58,7 +56,7 @@ updated: '2026-05-18'
 > - 但同时，Golovchin（2019）指出"由于某些原因，批评者的论点在俄语文献中未被提及"（p.229），造成俄罗斯学界对 VL 的认知偏向正面
 >
 > **政策风险**：
-> - Golovchin（2019, p.240-241）基于方法论检验（变差系数 Vσ=56.87% > 33% 同质性阈值）和文化匹配度分析，明确建议俄罗斯教育政策**不应采用** [[John Hattie|Hattie]] 方法
+> - Golovchin（2019, p.240-241）基于方法论检验（变差系数 Vσ=56.87% > 33% 同质性阈值）和文化匹配度分析，明确建议俄罗斯教育政策**不应采用** Hattie 方法
 > - 主要风险：(1) 增加教师官僚负担——RANEPA 2018 年全俄监测显示 79% 教师报告报表工作量显著增加；(2) "去专业化"效应——Hattie 的"教师作为调节者"模型与俄罗斯 2016 年《教师》职业标准修正案（允许无师范教育背景者从教）形成危险共振；(3) 澳大利亚的负面经验——Eacott (2017) 描述的"持续数据生产"政策导致"澳大利亚教育领导力的悲剧"
 
 ## 争议与评论
@@ -75,6 +73,3 @@ updated: '2026-05-18'
 > - [[Policy Borrowing]] — VL 俄语版构成教育政策借用的典型案例：全球论述被引入本地，但面临文化传统和制度条件的"翻译"挑战
 > - [[Evidence-Based Education]] — VL 作为 EBE 旗舰项目在俄罗斯的传播
 
-## 来源
-
-- [[Golovchin_2019_ESC]]

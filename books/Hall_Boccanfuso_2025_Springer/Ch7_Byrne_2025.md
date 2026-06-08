@@ -9,7 +9,6 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[CHIPS and Science Act]]"
   - "[[Central Florida Research Park]]"
-  - "[[Kendall Square]]"
   - "[[National Science Foundation]]"
   - "[[Purdue Discovery Park]]"
   - "[[Research Triangle Park]]"

@@ -15,6 +15,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons:
   - "[[Julian Williams]]"
+  - "[[Matt Homer]]"
 related_arguments: []
 confidence: low
 status: draft
@@ -44,7 +45,7 @@ citation_name: Pampaka
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Pampaka, M., Williams, J., & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3). — 编辑导言识别实践与政策之间知识需求分歧，指出双方均忽视学习者能动性
+> - Pampaka, M., [[Julian Williams|Williams, J]]., & [[Matt Homer|Homer, M]]. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3). — 编辑导言识别实践与政策之间知识需求分歧，指出双方均忽视学习者能动性
 > - Pampaka, M., Williams, J. S., Hutchenson, G., Black, L., Davis, P., Hernandez-Martines, P., & Wake, G. (2013). Measuring alternative learning outcomes: Dispositions to study in higher education. *Journal of Applied Measurement*, 14(2), 197–218.
 
 ## 思想发展与影响

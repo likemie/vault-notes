@@ -3,10 +3,6 @@ citation: "Blass, E. (2020). Debunking Hattie: Evaluating the contribution of ac
 extracted_to:
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Problem-Based Learning]]"
-  - "[[Surface and Deep Learning]]"
-  - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
-  - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-05
 ---

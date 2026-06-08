@@ -8,8 +8,6 @@ extracted_to:
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
   - "[[Critical Geopolitics]]"
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Orientalism]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[International Education Hubs]]"

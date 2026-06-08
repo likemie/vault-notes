@@ -29,7 +29,6 @@ related_methods: []
 related_persons:
   - "[[Plato]]"
   - "[[René Descartes]]"
-  - "[[John Locke]]"
   - "[[George Berkeley]]"
   - "[[Socrates]]"
 related_facts: []
@@ -90,7 +89,7 @@ citation_name: Kant
 ### 调和先天论与经验论
 
 > [!tip]
-> 在西方 2,500 年的心智辩论中，康德占据了独特的调和位置：他既不同意[[Plato|柏拉图]]—[[René Descartes|笛卡尔]]的纯粹先天论（先天知识独立于一切经验），也不同意 [[John Locke|Locke]]—Berkeley—Hume 的纯粹经验论（一切知识来自经验）。他的方案是：知识**始于**经验，但不**完全源于**经验——经验提供感觉材料，心智提供加工这些材料的先天范畴。"没有内容的思想是空洞的，没有概念的直观是盲目的"（待核原文出处）。Li 将这一调和立场置于洛克、[[George Berkeley|贝克莱]]和休谟的经验论挑战之后，视为对"保留人类先天能力"的努力（Li, 2012, p.30）。
+> 在西方 2,500 年的心智辩论中，康德占据了独特的调和位置：他既不同意[[Plato|柏拉图]]—[[René Descartes|笛卡尔]]的纯粹先天论（先天知识独立于一切经验），也不同意 Locke—Berkeley—Hume 的纯粹经验论（一切知识来自经验）。他的方案是：知识**始于**经验，但不**完全源于**经验——经验提供感觉材料，心智提供加工这些材料的先天范畴。"没有内容的思想是空洞的，没有概念的直观是盲目的"（待核原文出处）。Li 将这一调和立场置于洛克、[[George Berkeley|贝克莱]]和休谟的经验论挑战之后，视为对"保留人类先天能力"的努力（Li, 2012, p.30）。
 
 ### 定言律令
 
@@ -117,7 +116,7 @@ citation_name: Kant
 ## 国际关系理论中的康德
 
 > [!info]
-> 在 Martin Wight 的[[Wight's Three Traditions of International Theory|国际关系三大传统]]中，康德是[[Revolutionism|革命主义]]（revolutionism）传统的代表人物。Wight（1992）在 1950 年代末至 1960 年代的系列讲座中，将革命主义定义为"[[Immanuel Kant|Kant]] 的传统"，与现实主义（Machiavelli）和理性主义（Grotius）并列，构成英国学派国际理论的基础（Klerides, 2023, p.418）。
+> 在 Martin Wight 的[[Wight's Three Traditions of International Theory|国际关系三大传统]]中，康德是[[Revolutionism|革命主义]]（revolutionism）传统的代表人物。Wight（1992）在 1950 年代末至 1960 年代的系列讲座中，将革命主义定义为"Kant 的传统"，与现实主义（Machiavelli）和理性主义（Grotius）并列，构成英国学派国际理论的基础（Klerides, 2023, p.418）。
 
 > [!abstract] 革命主义传统的核心
 > 在 Wight 的框架中，革命主义的康德将政治的终极现实理解为个体与群体之间的关系，而非国家间关系。终极现实是一个普遍的人类共同体（universal human community），其表达可能要求人类"将国际社会硬化、定义和构建为一个世界国家，一个超国家"（Wight, 1992, p.41, cited in Klerides, 2023, p.418）。

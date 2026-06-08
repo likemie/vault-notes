@@ -29,9 +29,6 @@ related_facts:
   - "[[ResearchED]]"
   - "[[Australian Council for Educational Research]]"
 related_arguments: []
-sources:
-  - "[[OConnor_2020_AJLL]]"
-  - "[[Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -49,7 +46,7 @@ updated: '2026-05-18'
 >
 > ### 1. High Impact Teaching Strategies (HITS)
 >
-> *High Impact Teaching Strategies: Excellence in Teaching and Learning*（高影响力教学策略：卓越教与学）列出了 10 项教学策略，**每项均以 [[John Hattie|Hattie]] 的 Visible Learning 为首要参考文献**（Department of Education and Training Victoria, 2017a，引自 O'Connor, 2020, p.141）。这 10 项教学实践源自 John Hattie 和 [[Robert Marzano]] 等国际研究者的发现，旨在让"教师和[[School Leadership|学校领导]]者有机会嵌入和分享成功教学实践的使用"（DET Victoria, cited in Sarbiewska, 2019, p.126）。
+> *High Impact Teaching Strategies: Excellence in Teaching and Learning*（高影响力教学策略：卓越教与学）列出了 10 项教学策略，**每项均以 Hattie 的 Visible Learning 为首要参考文献**（Department of Education and Training Victoria, 2017a，引自 O'Connor, 2020, p.141）。这 10 项教学实践源自 [[John Hattie]] 和 [[Robert Marzano]] 等国际研究者的发现，旨在让"教师和[[School Leadership|学校领导]]者有机会嵌入和分享成功教学实践的使用"（DET Victoria, cited in Sarbiewska, 2019, p.126）。
 >
 > 澳大利亚 [[ResearchED]]（Australian College of Educators, 2017）在 [[Australian Council for Educational Research|ACER]] 卓越专业实践会议上启动，为从业者提供平台发布发现、分享思维方式，帮助"好的实践成为普遍实践"（Deeble & Vaughan, 2018, cited in Sarbiewska, 2019, p.126）。
 >
@@ -66,13 +63,13 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> O'Connor 以维多利亚州公立学校教师的内部视角描述：公立教育系统内的教师"被建议实施 10 项'高影响力教学策略'"，并使用新的读写工具包——两者均以 [[John Hattie|Hattie]] 的研究为首要证据基础（O'Connor, 2020, p.141）。
+> O'Connor 以维多利亚州公立学校教师的内部视角描述：公立教育系统内的教师"被建议实施 10 项'高影响力教学策略'"，并使用新的读写工具包——两者均以 Hattie 的研究为首要证据基础（O'Connor, 2020, p.141）。
 
 ## 争议与评论
 
 > [!warning] 争议与评论
 > - O'Connor（2020）的批评有一部分正是从这一政策现实出发的：如果 [[Visible Learning]] 对[[Whole Language|全语言]]等领域的评估存在方法论缺陷和先验偏见，则基于 VL 的官方政策建议可能引导教师做出不适当的教学选择
-> - 该案例说明了 [[John Hattie|Hattie]] 的研究如何从学术出版物转化为具有约束力的州级教育政策，进而影响教师的日常实践决策
+> - 该案例说明了 Hattie 的研究如何从学术出版物转化为具有约束力的州级教育政策，进而影响教师的日常实践决策
 
 ## 相关概念／政策
 
@@ -80,7 +77,3 @@ updated: '2026-05-18'
 > - [[Visible Learning]] — HITS 和 Literacy Toolkit 引用的主要证据基础
 > - [[Evidence-Based Education]] — 该政策所属的更广泛的政策运动
 
-## 来源
-
-- [[OConnor_2020_AJLL]]
-- [[Sarbiewska_2019_JSR]]

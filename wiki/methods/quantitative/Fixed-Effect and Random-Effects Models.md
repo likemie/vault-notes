@@ -23,11 +23,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -88,7 +85,7 @@ updated: '2026-06-08'
 >
 > **随机效应模型的数据需求**
 >
-> 随机效应模型需要估计研究间方差 τ²，这要求有一定数量的纳入研究。当研究数量较少时，τ² 的估计可能不稳定。[[John Hattie|Hattie]] 的数据基础（每个因素平均约 63 项一级[[Meta-analysis|元分析]]）可能不足以支持可靠的随机效应估计（Wecker et al., 2016）。
+> 随机效应模型需要估计研究间方差 τ²，这要求有一定数量的纳入研究。当研究数量较少时，τ² 的估计可能不稳定。Hattie 的数据基础（每个因素平均约 63 项一级[[Meta-analysis|元分析]]）可能不足以支持可靠的随机效应估计（Wecker et al., 2016）。
 >
 > **Wecker et al.（2016）的方法论审查**
 >
@@ -96,6 +93,3 @@ updated: '2026-06-08'
 
 ---
 
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

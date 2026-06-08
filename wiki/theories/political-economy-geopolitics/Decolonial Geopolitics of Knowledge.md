@@ -18,7 +18,6 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Knowledge Transfer]]"
   - "[[Hub and Flow Imaginaries]]"
-  - "[[STEM Education]]"
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Critical Geopolitics]]"
@@ -27,13 +26,11 @@ related_methods:
 related_persons:
   - "[[Arturo Escobar]]"
   - "[[Walter Mignolo]]"
-  - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
+  - "[[Frantz Fanon]]"
 related_facts:
   - "[[Horizon 2020 SSH Integration]]"
 related_arguments: []
-sources:
-  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -83,7 +80,7 @@ updated: '2026-05-18'
 
 ### Partaken (2022) 的内部批判
 
-Partaken (2022) 在此脉络中回溯了从 [[Frantz Fanon|Fanon]] 到 [[Chen Kuan-Hsing]] 的思想谱系。[[Frantz Fanon]] 的 *Black Skin White Masks* (1952) 触发了 1960 年代的去殖民化运动，其核心洞察是：殖民暴力制造了一种具有种族和文化等级结构的特定新型知识——"殖民地主体"（colonial subject），而去殖民化不仅是暴力和革命的，更是对被殖民者的集体疗愈过程（Partaken, 2022, p.72）。[[Chen Kuan-Hsing]] (2010) 将这一传统推进到当代亚洲语境：他论证知识本身是"帝国主义运作和行使权力的主要场所之一"（Chen, 2010, p.211），提出"亚洲作为方法"（Asia as Method）——将亚洲从分析对象转变为转变[[Knowledge Production|知识生产]]的手段，并呼吁"去帝国化、去殖民化和去冷战"的三重任务（Partaken, 2022, pp.73–74）。
+Partaken (2022) 在此脉络中回溯了从 Fanon 到 [[Chen Kuan-Hsing]] 的思想谱系。[[Frantz Fanon]] 的 *Black Skin White Masks* (1952) 触发了 1960 年代的去殖民化运动，其核心洞察是：殖民暴力制造了一种具有种族和文化等级结构的特定新型知识——"殖民地主体"（colonial subject），而去殖民化不仅是暴力和革命的，更是对被殖民者的集体疗愈过程（Partaken, 2022, p.72）。[[Chen Kuan-Hsing]] (2010) 将这一传统推进到当代亚洲语境：他论证知识本身是"帝国主义运作和行使权力的主要场所之一"（Chen, 2010, p.211），提出"亚洲作为方法"（Asia as Method）——将亚洲从分析对象转变为转变[[Knowledge Production|知识生产]]的手段，并呼吁"去帝国化、去殖民化和去冷战"的三重任务（Partaken, 2022, pp.73–74）。
 
 然而 Partaken 对此传统提出了一个关键批评：后殖民 [[Geopolitics of Knowledge|GPK]] 传统将知识生产作为核心分析维度——即关注谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程。Partaken 主张 GPK 的真正核心是[[Knowledge Transfer|知识转移]]（[[Knowledge Transfer]]）而非知识生产：从殖民时代至今，知识在运动中的挪用、传授、窃取、审查和破坏，才是解码当代新自由全球化中新殖民动力的关键（Partaken, 2022, pp.74–75）。
 
@@ -127,12 +124,9 @@ Partaken (2022) 在此脉络中回溯了从 [[Frantz Fanon|Fanon]] 到 [[Chen Ku
 > [!success]
 > Parreira do Amaral (2022) 将这一脉络与[[Critical Geopolitics|批判地缘政治学]]并列，作为理解当代高等教育[[Geopolitics of Knowledge|知识地缘政治]]转型的两大分析支柱之一。具体应用层面：
 >
-> - **揭示"创新"话语的认识论暴力**：当前全球高等教育政策中，创新被视为所有问题的万能解药——"创新是热情拥抱为所有社会和经济问题的万能解药"（Parreira do Amaral, 2022, p.35）。从去殖民视角看，这一"创新"话语并非认识论中立——它预设了一个特定的知识价值等级：能够产生专利、推动经济增长、可商业化的知识（通常来自 [[STEM Education|STEM]] 学科和实证主义方法论）被赋予最高价值，而批判性、阐释性、非工具性的知识（通常来自人文学科和质性社会科学）被系统性地边缘化
+> - **揭示"创新"话语的认识论暴力**：当前全球高等教育政策中，创新被视为所有问题的万能解药——"创新是热情拥抱为所有社会和经济问题的万能解药"（Parreira do Amaral, 2022, p.35）。从去殖民视角看，这一"创新"话语并非认识论中立——它预设了一个特定的知识价值等级：能够产生专利、推动经济增长、可商业化的知识（通常来自 STEM 学科和实证主义方法论）被赋予最高价值，而批判性、阐释性、非工具性的知识（通常来自人文学科和质性社会科学）被系统性地边缘化
 > - **诊断 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合的殖民性后果**：欧盟研究资助框架取消 SSH 独立渠道并要求其"直接为政策证据基础做贡献"——Parreira do Amaral (2019) 论证这实质上是将 SSH 研究的价值缩减为其对"技术科学创新和应对社会挑战的工具性/实践性贡献的潜力"（Parreira do Amaral, 2022, p.42）。这一制度安排的深层逻辑可从去殖民视角理解：它再生产了西方认识论的等级秩序——自然科学作为"真正的知识"，SSH 只有在辅助和加速自然科学的创新目标时才有存在价值。例：在 Horizon 2020 框架下，一项关于欧盟移民政策的人类学研究必须将其提案框定为对"社会凝聚力"或"劳动力市场效率"的贡献才能获得资助——研究的认识论自主性在制度层面被消解
 > - **分析与抵抗"别无选择"的话语**：当前[[Knowledge-Based Economization|知识经济化]]话语弥漫着"无可替代"（there-is-no-alternative）的修辞——将知识密集型资本主义呈现为唯一可行的未来。从去殖民视角，这种"别无选择"的话语本身就是殖民性的当代表现——它封闭了对可能的替代性未来的想象空间（Parreira do Amaral, 2022, p.40）
 
 ---
 
-## 来源
-
-- [[Ch3_Parreira do Amaral_2022]]

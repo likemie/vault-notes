@@ -22,15 +22,13 @@ related_theories: []
 related_methods:
   - "[[Carnivalesque Analysis]]"
 related_persons:
-  - "[[John Dewey]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
-sources:
-  - "[[Bainbridge_2022_ROE]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -46,7 +44,7 @@ updated: '2026-05-18'
 >
 > 合法化不是一个纯粹的认识论过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
 >
-> Bainbridge et al.（2022）将合法化理论与 [[John Dewey|Dewey]] 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
+> Bainbridge et al.（2022）将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
 >
 
 ## 核心命题：四个合法化层次
@@ -66,7 +64,7 @@ updated: '2026-05-18'
 >
 > **3. 理性合法化（Rational Legitimation）**
 > - 观点或行动需要与**"真理"或理性论证**建立关系
-> - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 EEF、[[John Hattie]]、Sutton Trust 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
+> - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation|EEF]]、[[John Hattie]]、Sutton Trust 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
 > - 但 Bainbridge et al. 发现政府在实践中违反了自身定义——[[Ofsted]] 评级被当作"证据"使用，而符合定义的学术研究证据被回避（p.27）
 >
 > **4. 奖励叙事合法化（Mythopoesis / Reward Narrative Legitimation）**
@@ -114,6 +112,3 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介[[Variable|变量]]
 >
 
-## 来源
-
-- [[Bainbridge_2022_ROE]]

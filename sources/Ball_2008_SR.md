@@ -7,8 +7,6 @@ extracted_to:
   - "[[New Sociology of Education]]"
   - "[[Political Arithmetic]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
-  - "[[Basil Bernstein]]"
-  - "[[Stephen Ball]]"
   - "[[Governmentality]]"
 processed_date: 2026-05-23
 ---

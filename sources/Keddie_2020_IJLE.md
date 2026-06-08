@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Keddie_2020_IJLE]]"
   - "[[School Autonomy]]"
   - "[[Gonski Reforms]]"
-  - "[[Independent Public Schools Western Australia]]"
   - "[[Karmel Report]]"
   - "[[Local Schools Local Decisions]]"
   - "[[My School Website]]"

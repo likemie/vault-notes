@@ -64,7 +64,7 @@ citation_name: Beech
 > [!note]
 > - Beech, J. (2006). The theme of educational transfer in comparative education: A view over time. *Research in Comparative and [[International Education]]*, 1(1), 2–13.
 > - Beech, J. (2011). *Global Panaceas, Local Realities: International Agencies and the Future of Education*. Peter Lang.
-> - Beech, J., & [[Alejandro Artopoulos|Artopoulos, A.]] (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. *Globalisation, Societies and Education*, 14(1), 1–18.
+> - Beech, J., & [[Alejandro Artopoulos|Artopoulos, A]]. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. *Globalisation, Societies and Education*, 14(1), 1–18.
 > - Beech, J., & Barrenechea, I. (2011). Pro-market educational governance: Is Argentina a black swan? *Critical Studies in Education*, 52(3), 279–293.
 
 ---

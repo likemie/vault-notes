@@ -35,13 +35,13 @@ citation_name: Ryle
 ## 简介
 
 > [!info] 简介
-> Gilbert Ryle (1900–1976) 是英国哲学家，以其 1946 年的会长演讲「Knowing How and Knowing That」闻名。该演讲提出了[[Knowledge-that and Know-how-to|知其然与知其所用]]的经典区分，对认识论和教育哲学产生了深远影响（Ryle, 1946, 引自 McPhail et al., 2023）。
+> Gilbert Ryle (1900–1976) 是英国哲学家，以其 1946 年的会长演讲「Knowing How and Knowing That」闻名。该演讲提出了[[Knowledge-that and Know-how-to|知其然]]与知其所用的经典区分，对认识论和教育哲学产生了深远影响（Ryle, 1946, 引自 McPhail et al., 2023）。
 
 ---
 
 ## 核心思想
 
-> [!tip] [[Knowledge-that and Know-how-to|知其然与知其所用的区分]]
+> [!tip] [[Knowledge-that and Know-how-to|知其然]]与知其所用的区分
 > Ryle (1946) 区分了两种知识形式：知其然（knowledge-that）是关于某事是什么的命题性知识，知其所用（know-how-to）是关于如何做某事的应用性知识。这一区分成为[[Curriculum Design Coherence Model|课程设计连贯性模型]]的理论基础之一（引自 McPhail et al., 2023）。
 
 > [!tip] 知其然与知其所用的连接
@@ -55,7 +55,7 @@ citation_name: Ryle
 ## 对教育研究的影响
 
 > [!example]
-> Ryle 的知其然/知其所用区分被 [[Curriculum Design Coherence Model|课程设计连贯性模型]]采纳为核心理论框架：
+> Ryle 的[[Knowledge-that and Know-how-to|知其然]]/知其所用区分被 [[Curriculum Design Coherence Model|课程设计连贯性模型]]采纳为核心理论框架：
 > - 知其然包括命题、学科概念和内容
 > - 知其所用包括技能、能力和学科实践
 > - 两者的连接是[[Surface and Deep Learning|深层学习]]的先决条件

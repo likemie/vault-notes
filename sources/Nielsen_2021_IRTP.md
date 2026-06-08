@@ -3,10 +3,7 @@ citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational 
 extracted_to:
   - "[[Argument_Nielsen_2021]]"
   - "[[Technical Rationality]]"
-  - "[[Klaus Nielsen]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
 processed_date: 2026-05-03
 ---
 

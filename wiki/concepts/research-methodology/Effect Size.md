@@ -58,28 +58,6 @@ related_facts:
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
-sources:
-  - "[[Snook_2009_NZJES]]"
-  - "[[Hattie_2010_NZJES]]"
-  - "[[Terhart_2011_JCS]]"
-  - "[[ONeill_2012_NZJES]]"
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[Pampaka_2016_IJRME]]"
-  - "[[Higgins_2016_RE]]"
-  - "[[Wecker_2016_ZfE]]"
-  - "[[Bergeron_2017_MJE]]"
-  - "[[Simpson_2017_JEP]]"
-  - "[[Sarbiewska_2019_JSR]]"
-  - "[[Simpson_2019_ERE]]"
-  - "[[Wiliam_2019_ERE]]"
-  - "[[Wrigley_2019_ERE]]"
-  - "[[OConnor_2020_AJLL]]"
-  - "[[Wolf_2020_JREE]]"
-  - "[[Ross_Morrison_2021_ROE]]"
-  - "[[Kraft_2023_ER]]"
-  - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -111,7 +89,7 @@ updated: '2026-05-23'
 
 > [!example] 与相关概念的区别
 > - **vs [[Statistical Significance]]** — 效应量测量效果的大小，统计显著性测量效果是否可能仅由随机因素产生。统计显著性依赖于效应量和样本量的乘积：$t = d\sqrt{n}$（Allerup, 2015, p.45）。在 n=25 的双侧检验中，临界 $t=2.060$ 对应 $d \approx 0.412$，刚好接近《可见的学习》的 0.40 阈值，这意味着 0.40 在特定样本量下才与 p≈0.05 相连，并非脱离样本量的普遍边界。
-> - **vs [[Confidence Interval]]** — 效应量给出点估计，置信区间呈现该估计的误差范围。没有置信区间或标准误时，相邻效应量排名无法判断是否真的不同（Allerup, 2015, pp.47–48）。[[John Hattie|Hattie]] 的效应量排名仅给 d 的点估计，未系统报告置信区间或标准误，也未进行相邻排名之间的显著性检验。
+> - **vs [[Confidence Interval]]** — 效应量给出点估计，置信区间呈现该估计的误差范围。没有置信区间或标准误时，相邻效应量排名无法判断是否真的不同（Allerup, 2015, pp.47–48）。Hattie 的效应量排名仅给 d 的点估计，未系统报告置信区间或标准误，也未进行相邻排名之间的显著性检验。
 > - **vs 原始分数差异（Raw Score Difference）** — 原始分数差异保留了原始测量单位，效应量通过除以标准差消除了单位——这使跨研究比较成为可能，但也抹除了效果的实际教育意义。
 > - **vs 意向处理分析效应** — 意向处理分析按原始[[Random Assignment|随机分配]]分析（无论实际接受与否），反映干预可获得性而非实际接受效果；效应量本身不区分这两种估计，但所基于的研究设计决定了其政策含义（Pampaka et al., 2016, p.233）。
 > - **vs 最小可检测效应量** — 效应量是事后度量（干预实际产生了多大效果），最小可检测效应量是事前设计参数（研究能够检测到多大效果），详见下方[[#最小可检测效应量]]。
@@ -123,7 +101,7 @@ updated: '2026-05-23'
 > [!note-] 时间线
 > 效应量先是统计综合工具，后来进入教育干预排名和政策传播，随后围绕解释边界、聚合方式和政策用途产生系统争议。
 > - **1964** — Benjamin Bloom 在 Stability and Change in Human Characteristics 中呈现了相关系数的聚合图表，其"两个标准差问题"（寻找与一对一辅导同样有效的小组教学方法）以标准差单位表述，为效应量在教育研究中的使用提供了早期范例（Higgins, 2016, p.37）。
-> - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。[[Gene Glass|Glass]] 本人承认 Rosenthal 发展了效应量的基础度量（Higgins, 2016, p.37）。
+> - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。Glass 本人承认 Rosenthal 发展了效应量的基础度量（Higgins, 2016, p.37）。
 > - **1969** — [[Jacob Cohen]] 出版 [[Power Analysis|statistical power analysis]] for the Behavioral Sciences 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
 > - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具（Higgins, 2016, pp.36–37）。
 > - **1980** — Cooper 和 Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据（Higgins, 2016, p.32）。
@@ -172,8 +150,8 @@ $d$ 的直观解释隐含若干统计前提：前后分布应近似对称且接�
 
 ### Hattie 的关节点与影响气压计
 
-> [!abstract] [[John Hattie|Hattie]] 的影响气压计
-> [[John Hattie|Hattie]]（2009）将 $d = 0.40$ 设定为教学有效性的基准或关节点（hinge point），认为它"设定了一个水平，创新的效果在此增强成绩的方式使我们能注意到真实世界的差异"（Hattie, 2009, p.17，引自 O'Connor, 2020, p.142）。他将影响气压计分为四个区域（Terhart, 2011, pp.427–428; Sarbiewska, 2019, p.121）：
+> [!abstract] Hattie 的影响气压计
+> Hattie（2009）将 $d = 0.40$ 设定为教学有效性的基准或关节点（hinge point），认为它"设定了一个水平，创新的效果在此增强成绩的方式使我们能注意到真实世界的差异"（Hattie, 2009, p.17，引自 O'Connor, 2020, p.142）。他将影响气压计分为四个区域（Terhart, 2011, pp.427–428; Sarbiewska, 2019, p.121）：
 >
 > - **期望效应区**（$d > 0.40$）：对学生学习有最强正面影响的因素。例如：教师清晰度 $d = 0.75$、自我报告成绩 $d = 1.44$
 > - **教师效应区**（$d = 0.15$ 至 $0.40$）：效应量与教师在一学年中通常达到的效果相当。例如：[[Homework|家庭作业]] $d = 0.29$、个性 $d = 0.19$
@@ -368,7 +346,7 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 
 **Qvortrup（2015）的"相对效果"论证**：[[Lars Qvortrup]]（2015, pp.25–27）从支持者立场认为，教育[[Meta-analysis|元分析]]不需要等待所有研究使用完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。他同时承认这种比较的代价是学习结果变得抽象，因此提出[[Dynamic Knowledge and Learning Model]]来区分不同知识形式（Qvortrup, 2015, p.27）。
 
-**[[John Hattie|Hattie]]（2009）的关节点论证**：Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和实践者能够在一个统一的标尺上比较不同教育干预的相对效果，从而为政策制定和课堂实践提供"什么最有效"的实证指引。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果（Terhart, 2011, pp.427–428）。
+**Hattie（2009）的关节点论证**：Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和实践者能够在一个统一的标尺上比较不同教育干预的相对效果，从而为政策制定和课堂实践提供"什么最有效"的实证指引。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果（Terhart, 2011, pp.427–428）。
 
 **Kraft（2020/2023）的经验基准论证**：Kraft 主张，尽管跨研究效应量由于设计、测量和样本差异而充满噪声，但完全禁止比较会削弱证据本位政策。只要承认噪声和限制，仍可从大量因果研究中获得有用的粗略参照（Kraft, 2023, p.184）。详见上方[[#Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验基准]]。
 
@@ -427,7 +405,7 @@ Bergeron & Rivard（2017, pp.243–244）构造了一个受控数值示例，证
 
 **对《可见的学习》方法论的致命含义**：
 
-1. [[John Hattie|Hattie]] 在他的[[Meta-meta-analysis|元-元分析]]中不加区分地混合使用了这三种方法。800 多项元分析中的效应量来自不同的原始研究，各自使用不同的计算公式——它们回答不同的问题、使用不同的分母、产生不可比的数值。
+1. Hattie 在他的[[Meta-meta-analysis|元-元分析]]中不加区分地混合使用了这三种方法。800 多项元分析中的效应量来自不同的原始研究，各自使用不同的计算公式——它们回答不同的问题、使用不同的分母、产生不可比的数值。
 2. Hattie 对这些公式之间的不可比性"完全不知"（Bergeron & Rivard, 2017, p.241）。他相信"因为 Cohen's d 是无单位的测量，所以可以比较"——忽略了每个 d 值携带的隐含基线比较和分母含义取决于产生它的公式。
 3. 即使在同一项元分析内部，纳入的原始研究也可能使用了不同的效应量公式——而 Hattie 的合成过程未对此做任何校正。
 
@@ -470,7 +448,7 @@ Bergeron & Rivard（2017, p.241）提出了效应量批判中一个此前未被�
 Wecker, Vogel & Hetmanek（2016）在审查 Hattie 的二级元分析时，记录了效应量计算和聚合中的具体技术错误：
 
 - **标准误与标准差的混淆**：在个别一级元分析的主要研究中，标准误被错误地当作标准差使用（Wecker et al., 2016, pp.26–27）。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的标准误=2.74 被当作标准差来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
-- **效应量测度混合使用**：Hattie 交替使用 Cohen's d、Hedges' g、[[Gene Glass|Glass]]' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
+- **效应量测度混合使用**：Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
 - **[[Fixed-Effect and Random-Effects Models|固定效应模型]]的错误加权**：Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
 
 ---
@@ -593,7 +571,7 @@ Simpson（2019, pp. 102–103）引用 EEF 资助的评估报告，验证同一�
 > [!warning] 从平均值到政策排名
 > 当效应量被转化为排名表和政策建议时，平均值背后的变异性、苹果和橙子问题、以及未经检验的假设会被看似中立的数字掩盖。
 
-**Gene Glass 的警告**：[[Meta-analysis|元分析]]创始人 Gene Glass 本人对平均效应量的使用提出了明确警告：
+**[[Gene Glass]] 的警告**：[[Meta-analysis|元分析]]创始人 Gene Glass 本人对平均效应量的使用提出了明确警告：
 
 > [!quote] Glass 的警告
 > "我们最大的挑战是驯服我们发现中的变异，不是通过颁布这样或那样的标准协议，而是通过描述和解释我们发现中的变异性。元分析的结果永远不应该是平均值；它应该是一张图。"（Glass, cited in Robinson, 2004; cited in Wrigley & McCusker, 2019, p. 119）
@@ -658,7 +636,7 @@ Simpson（2019, pp. 102–103）引用 EEF 资助的评估报告，验证同一�
 ### 排名工具
 
 - [[EEF Teaching and Learning Toolkit]] — 以效应量转换的“额外学习月数”为核心排名格式（Wrigley & McCusker, 2019, pp.120-123）。
-- [[Visible Learning]] — 以效应量排名为核心方法论的全球教育影响项目（[[John Hattie|Hattie]], 2015, p.82）。
+- [[Visible Learning]] — 以效应量排名为核心方法论的全球教育影响项目（Hattie, 2015, p.82）。
 
 ### 政策误用与来源追踪
 
@@ -671,26 +649,3 @@ Simpson（2019, pp. 102–103）引用 EEF 资助的评估报告，验证同一�
 
 ---
 
-## 来源
-
-- [[Snook_2009_NZJES]]
-- [[Hattie_2010_NZJES]]
-- [[Terhart_2011_JCS]]
-- [[ONeill_2012_NZJES]]
-- [[Hattie_2015_Paideia]]
-- [[Allerup_2015_Paideia]]
-- [[Qvortrup_2015_Paideia]]
-- [[Pampaka_2016_IJRME]]
-- [[Higgins_2016_RE]]
-- [[Wecker_2016_ZfE]]
-- [[Bergeron_2017_MJE]]
-- [[Simpson_2017_JEP]]
-- [[Sarbiewska_2019_JSR]]
-- [[Simpson_2019_ERE]]
-- [[Wiliam_2019_ERE]]
-- [[Wrigley_2019_ERE]]
-- [[OConnor_2020_AJLL]]
-- [[Wolf_2020_JREE]]
-- [[Ross_Morrison_2021_ROE]]
-- [[Kraft_2023_ER]]
-- [[Wadhwa_2024_RER]]

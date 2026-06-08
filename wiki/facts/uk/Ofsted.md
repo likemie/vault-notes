@@ -24,10 +24,9 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Grammar School]]"
+  - "[[Education Endowment Foundation]]"
   - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
-sources:
-  - "[[Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -38,7 +37,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > Ofsted（Office for Standards in Education, Children's Services and Skills）是英国教育、儿童服务和技能标准办公室，一个**非内阁政府部门（non-ministerial department）**，直接向议会报告。其主要职能是对英格兰的学校进行定期检查和评级。
 >
-> Ofsted 评级在教育政策辩论中占据核心位置——Bainbridge et al.（2022）发现，在议会关于[[Grammar School|文法学校]]的辩论中，Ofsted 评级被系统性混同为研究证据使用，尽管它不符合政府自身对"证据"的定义（Coldwell et al., 2017）。英国教育部在 Coldwell et al.（2017）报告中将 EEF、Sutton Trust 和 [[John Hattie]] 列为官方认可的"approved"证据来源——**Ofsted 未被列入其中**（Bainbridge et al., 2022, p.4）。
+> Ofsted 评级在教育政策辩论中占据核心位置——Bainbridge et al.（2022）发现，在议会关于[[Grammar School|文法学校]]的辩论中，Ofsted 评级被系统性混同为研究证据使用，尽管它不符合政府自身对"证据"的定义（Coldwell et al., 2017）。英国教育部在 Coldwell et al.（2017）报告中将 [[Education Endowment Foundation|EEF]]、Sutton Trust 和 [[John Hattie]] 列为官方认可的"approved"证据来源——**Ofsted 未被列入其中**（Bainbridge et al., 2022, p.4）。
 >
 > > 英国教育部对"证据"的定义明确排除了 Ofsted："The ultimate test would be whether teachers could explain their choices and practice by referring to a robust evidence base and using logical argument and reasoning, rather than saying that they do it because Ofsted or the department has told them to."（Coldwell et al., 2017, pp.9–10，引自 Bainbridge et al., 2022, p.4–5）
 >
@@ -113,6 +112,3 @@ updated: '2026-05-18'
 > - [[Justified Warrants]] — Ofsted 评级不符合学术界的正当理由标准
 >
 
-## 来源
-
-- [[Bainbridge_2022_ROE]]

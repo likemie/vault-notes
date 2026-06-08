@@ -21,13 +21,9 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -52,7 +48,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 突触可塑性的细胞机制
-> 脑可塑性在细胞层面主要通过两个过程影响细胞间通信的效能（Bolton & [[John Hattie|Hattie]], 2017, p.6）：
+> 脑可塑性在细胞层面主要通过两个过程影响细胞间通信的效能（Bolton & Hattie, 2017, p.6）：
 >
 > - **[[Synaptogenesis|突触发生]]（Synaptogenesis）** — 中枢神经系统中神经元之间新突触（连接）的创建。该过程涉及神经元和连接的过度生产，贯穿整个儿童期发育，在性成熟年龄左右开始减少（Bolton & Hattie, 2017, p.6）。出生至 2 岁期间大脑形成最大数量的新连接，7–12 个月发生剧烈突触发生，时间上与 [[Executive Function|EF]] 任务测量的转换和抑制的改善一致（Bolton & Hattie, 2017, p.9）
 > - **[[Synaptic Pruning|突触修剪]]（Synaptic Pruning）** — 突触消除的过程，即神经元之间连接的程序性丧失。基于 Hebb 原则：经常使用的神经通路被加强，不常用的被移除（Bolton & Hattie, 2017, p.6）。儿童大脑中兴奋性突触数量是成人的 2–3 倍；在 [[Prefrontal Cortex|PFC]] 中，突触连接密度从 2 岁时比成人高 55% 降至 7 岁时仅比成人高 10%（Bolton & Hattie, 2017, p.6, 12）
@@ -88,7 +84,3 @@ updated: '2026-05-18'
 > - 当前时代对神经科学寄予极高期望，但"大部分神经炒作催生了神经迷思"。大脑不是我们可以控制和决定它应该学什么的对象（Larsen, 2019, p.5）
 > - 在知识政治层面，我们正站在"不可辨别性的区域"——人文社会科学的"神经生物化"与神经科学的"社会学化"之间的双向景观（Larsen, 2019, p.6，引用 Werner Vogd）
 
-## 来源
-
-- [[Larsen_2019_EducSci]]
-- [[Bolton_2017_ArchPsych]]

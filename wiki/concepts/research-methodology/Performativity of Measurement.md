@@ -29,7 +29,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
-  - "[[John Locke]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education at a Glance]]"
@@ -37,11 +36,6 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Gorur_2014_Discourse]]"
-  - "[[Møller_2017_EERJ]]"
-  - "[[McKnight_2020_Discourse]]"
-  - "[[Johnson_2023_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -147,7 +141,7 @@ updated: '2026-05-18'
 > **测量如何制造服从**：
 >
 > - 教师被保持在"本体论上不安全"的状态（Ball, 2003, p.220，引自 McKnight & Whitburn, 2020, p.34），从而被去政治化
-> - 在这种情况下，"专业主义变成了服从的表演"（McKnight, 2016，引自 McKnight & Whitburn, 2020, p.34），而非基于专业知识、自主和利他的经典民主专业主义（Sachs, 2003; [[John Locke|Locke]], 2015）
+> - 在这种情况下，"专业主义变成了服从的表演"（McKnight, 2016，引自 McKnight & Whitburn, 2020, p.34），而非基于专业知识、自主和利他的经典民主专业主义（Sachs, 2003; Locke, 2015）
 > - McKnight & Whitburn（2020, p.39）进一步论证 VL"殖民教师的表演性教学想象"（colonises the performative pedagogical imagination），使教师"看见"自己以特定方式教学——这是测量施行性的一个微观案例：测量框架（[[Effect Size|效应量]]排名、"什么有效"清单）不仅描述教学，更是重塑教师如何想象自己的教学实践
 >
 > **对批判实践的意义**：
@@ -196,9 +190,3 @@ updated: '2026-05-18'
 > - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体
 
-## 来源
-
-- [[Gorur_2014_Discourse]]
-- [[Møller_2017_EERJ]]
-- [[McKnight_2020_Discourse]]
-- [[Johnson_2023_CE]]

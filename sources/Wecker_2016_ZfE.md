@@ -1,15 +1,8 @@
 ---
 citation: "Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0"
 extracted_to:
-  - "[[Confidence Interval]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Publication Bias]]"
-  - "[[Effect Size]]"
-  - "[[Meta-analysis]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
-  - "[[Meta-meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

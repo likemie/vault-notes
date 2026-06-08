@@ -21,19 +21,14 @@ related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods: []
 related_persons:
-  - "[[Paulo Freire]]"
   - "[[Plato]]"
   - "[[Confucius]]"
-  - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
-  - "[[Jean-François Lyotard]]"
 related_facts:
   - "[[Kokutai no Hongi]]"
   - "[[Great Firewall of China]]"
   - "[[China Social Credit System]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -53,7 +48,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > Partaken 通过三个案例说明强制[[Knowledge Transfer|知识转移]]的运作（Partaken, 2022, p.75–76）：
-> - **[[Paulo Freire|Freire]] 的被压迫者教育学模型**：在"银行概念"（banking concept）中，"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）；教授与被教授者之间的权力梯度决定了知识流动的方向——从压迫者的客观性向下流向被压迫者的主体性（Partaken, 2022, p.75–76）
+> - **Freire 的被压迫者教育学模型**：在"银行概念"（banking concept）中，"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）；教授与被教授者之间的权力梯度决定了知识流动的方向——从压迫者的客观性向下流向被压迫者的主体性（Partaken, 2022, p.75–76）
 > - **Herbart 的五段教学法**：准备—呈现—联想—概括—应用，可以被识别为强制知识转移的一种形式化步骤（Partaken, 2022, p.76）
 > - **《[[Kokutai no Hongi|国体之本义]]》**：日本文部省思想局直接监督编写，将昭和天皇神化，大规模印刷并在日本帝国亚洲殖民地强制阅读——"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"（Partaken, 2022, p.76）
 
@@ -79,10 +74,10 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!abstract]
-> - **[[Paulo Freire|Freire]] 的被压迫者教育学**：Freire 的"银行概念"（banking concept）——"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）——揭示了强制[[Knowledge Transfer|知识转移]]中不可化约的权力梯度：教授者（压迫者）→ 被教授者（被压迫者）。Partaken 将此模型从巴西扫盲教育的具体语境提升为 [[Geopolitics of Knowledge|GPK]] 的一般分析工具（Partaken, 2022, p.75–76）
+> - **Freire 的被压迫者教育学**：Freire 的"银行概念"（banking concept）——"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）——揭示了强制[[Knowledge Transfer|知识转移]]中不可化约的权力梯度：教授者（压迫者）→ 被教授者（被压迫者）。Partaken 将此模型从巴西扫盲教育的具体语境提升为 [[Geopolitics of Knowledge|GPK]] 的一般分析工具（Partaken, 2022, p.75–76）
 > - **Foucault 的规训权力**：Foucault 论证现代权力通过规训技术运作——不是自上而下的压制，而是通过制度（学校、监狱、医院）对主体进行规范化生产。强制知识转移在此视角下不仅是"教什么"的问题，更是通过知识灌输"制造主体"的过程（Partaken, 2022, p.75–76, 81）
-> - **后殖民 GPK 传统**：[[Frantz Fanon|Fanon]]（1952/1963）揭示殖民暴力如何通过语言和文化等级结构制造"殖民地主体"——一种通过特定知识架构建构的新人类类型。[[Chen Kuan-Hsing]]（2010）将此传统推进到当代亚洲，论证知识本身是"帝国主义运作和行使权力的主要场所之一"（Partaken, 2022, p.72–74）
-> - **[[Jean-François Lyotard|Lyotard]] 的知识[[Van Leeuwen's Legitimation Theory|合法化理论]]**：[[Jean-François Lyotard|Lyotard]]（1979/1984）论证后现代知识通过"表演性"（performativity）和权力进行合法化——这一逻辑同样适用于强制知识转移：国家权力不仅规定什么知识被转移，还通过教育体系合法化这种规定本身（Partaken, 2022, p.84）
+> - **后殖民 GPK 传统**：Fanon（1952/1963）揭示殖民暴力如何通过语言和文化等级结构制造"殖民地主体"——一种通过特定知识架构建构的新人类类型。[[Chen Kuan-Hsing]]（2010）将此传统推进到当代亚洲，论证知识本身是"帝国主义运作和行使权力的主要场所之一"（Partaken, 2022, p.72–74）
+> - **Lyotard 的知识[[Van Leeuwen's Legitimation Theory|合法化理论]]**：Lyotard（1979/1984）论证后现代知识通过"表演性"（performativity）和权力进行合法化——这一逻辑同样适用于强制知识转移：国家权力不仅规定什么知识被转移，还通过教育体系合法化这种规定本身（Partaken, 2022, p.84）
 
 ## 实证发现
 
@@ -101,6 +96,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Ch5_Partaken_2022]]

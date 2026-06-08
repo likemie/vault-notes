@@ -18,18 +18,12 @@ related_concepts:
   - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Cognition Education]]"
   - "[[Contestable School Support Services]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
-sources:
-  - "[[ONeill_2016_Report]]"
-  - "[[Sarbiewska_2019_JSR]]"
-  - "[[Johnson_2023_CE]]"
-  - "[[Bates_2017_CognitionEducationTrust]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -80,7 +74,7 @@ updated: '2026-05-22'
 >
 > - 原 Auckland 学校董事会的**交通和工资部门**被改制为一家 ESC，名为 **Multiserve**，后更名为 **Cognition Education**（Bates, 2017; O'Neill et al., 2016）
 > - 受利润驱动，ESCs 多元化其服务产品。Cognition Education 成为一家**由慈善信托 Cognition Education Trust 全资拥有的营利性公司**
-> - [[John Hattie|Hattie]] 与 Cognition 的关系追溯至商业化之前：2006 年成为 Multi Serve Education Trust Board 董事，2008 年成为 Cognition Education 董事（O'Neill et al., 2016）（Johnson & Janzen, 2023, p.30）
+> - Hattie 与 Cognition 的关系追溯至商业化之前：2006 年成为 Multi Serve Education Trust Board 董事，2008 年成为 Cognition Education 董事（O'Neill et al., 2016）（Johnson & Janzen, 2023, p.30）
 > - 这一转化链为 2010 年的 [[Visible Learning Branding and Global Influences]] 提供了制度基础
 
 ## 相关概念
@@ -90,9 +84,3 @@ updated: '2026-05-22'
 > - [[Network Governance]]
 > - [[School Autonomy]]
 
-## 来源
-
-- [[ONeill_2016_Report]]
-- [[Sarbiewska_2019_JSR]]
-- [[Johnson_2023_CE]]
-- [[Bates_2017_CognitionEducationTrust]]

@@ -42,25 +42,12 @@ related_methods:
 related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
-  - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Hattie_2015_Paideia]]"
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-sources:
-  - "[[Terhart_2011_JCS]]"
-  - "[[Berk_2011_ER]]"
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Higgins_2016_RE]]"
-  - "[[Wecker_2016_ZfE]]"
-  - "[[Simpson_2017_JEP]]"
-  - "[[Qvortrup_2019_NordSTEP]]"
-  - "[[Wiliam_2019_ERE]]"
-  - "[[Wrigley_2019_ERE]]"
-  - "[[OConnor_2020_AJLL]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
@@ -82,7 +69,7 @@ updated: '2026-05-21'
 ## 历史发展
 
 > [!note] 历史发展
-> **思想先驱：[[Karl Pearson|Pearson]]（1904）**
+> **思想先驱：Pearson（1904）**
 >
 > [[Karl Pearson|Karl Pearson]] 在 1904 年《英国医学杂志》上发表了最早的跨研究合并分析——合并英国军队在印度和南非的伤寒疫苗接种数据。他同时追求两个目标：合并多项小研究的发现以获得更可靠结论，以及探索研究间效果变异的原因（如志愿者自我选择偏差）。这两个目标构成了[[Meta-analysis|元分析]]的核心概念。他将每项研究结果以独立行呈现并给出平均相关系数的呈现方式，预示了后来[[Forest Plot|森林图]]（forest plot）的标准形式（Higgins, 2016, p.33）。
 >
@@ -90,7 +77,7 @@ updated: '2026-05-21'
 >
 > Ronald Fisher 在[[Analysis of Variance|方差分析]]等技术上的发展为跨研究比较奠定了统计基础。Fisher 鼓励研究者清晰严格地报告发现，使跨研究的比较和聚合变得更容易（Higgins, 2016, p.34）。
 >
-> **命名与确立：[[Gene Glass|Glass]]（1976）**
+> **命名与确立：Glass（1976）**
 >
 > [[Gene Glass|Gene Glass]] 于 1976 年在美国教育研究协会主席演说中首次提出"元分析"一词。他与 Mary Lee Smith 合作的心理治疗效果元分析（Smith & Glass, 1977）发现平均[[Effect Size|效应量]]为 0.6 个标准差，直接挑战了 Eysenck 的"心理治疗无效"共识。Glass 将[[Effect Size|效应量]]（标准差单位）确立为跨研究比较的通用尺度，并承认 Robert Rosenthal 发展了效应量的基础度量（Higgins, 2016, pp.36–37）。
 >
@@ -100,7 +87,7 @@ updated: '2026-05-21'
 >
 > **"苹果和橙子"争论（1980s）**
 >
-> Eysenck 称元分析为"超级愚蠢"，批评其将不可比的研究混为一谈。Slavin（1984）同样提出"苹果和橙子"问题。[[Gene Glass|Glass]] 的回应是："当然它混合苹果和橙子；在研究水果时没有别的合理做法"——任何推论都直接取决于元分析所包含的内容（Higgins, 2016, p.37）。
+> Eysenck 称元分析为"超级愚蠢"，批评其将不可比的研究混为一谈。Slavin（1984）同样提出"苹果和橙子"问题。Glass 的回应是："当然它混合苹果和橙子；在研究水果时没有别的合理做法"——任何推论都直接取决于元分析所包含的内容（Higgins, 2016, p.37）。
 >
 > **[[Systematic Review|系统综述]]的制度化（1990s–2000s）**
 >
@@ -108,7 +95,7 @@ updated: '2026-05-21'
 >
 > **在教育领域的扩展（1990s–2010s）**
 >
-> 元分析在教育研究中的应用从 1990 年代起迅速扩展。[[John Hattie|Hattie]]（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，样本量与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in Higgins, 2016, p.48）。
+> 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，样本量与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in Higgins, 2016, p.48）。
 
 ---
 
@@ -125,7 +112,7 @@ updated: '2026-05-21'
 > 3. **加权与平均**：对效应量进行加权（通常按样本量），计算平均效应量
 > 4. **报告**：以平均效应量（有时转换为更直观的单位，如 [[Education Endowment Foundation|EEF]] Toolkit 的"额外学习月数"）呈现结果
 >
-> [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）是在元分析基础上进一步聚合——综合多个元分析的效应量产生更高层次的排名或估计。Wecker, Vogel & Hetmanek（2016）从[[Fixed-Effect and Random-Effects Models|固定效应模型]]推导了该方法必须满足的 6 项方法论要求（包括公式 1-9 的完整数学推导和等价性证明），并论证 [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 在六个分析步骤中均存在方法论不足。完整技术细节见 [[Meta-meta-analysis]]。
+> [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）是在元分析基础上进一步聚合——综合多个元分析的效应量产生更高层次的排名或估计。Wecker, Vogel & Hetmanek（2016）从[[Fixed-Effect and Random-Effects Models|固定效应模型]]推导了该方法必须满足的 6 项方法论要求（包括公式 1-9 的完整数学推导和等价性证明），并论证 Hattie 的 *[[Visible Learning]]* 在六个分析步骤中均存在方法论不足。完整技术细节见 [[Meta-meta-analysis]]。
 
 ---
 
@@ -138,7 +125,7 @@ updated: '2026-05-21'
 > - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导（Wrigley & McCusker, 2019, pp. 110–111）
 
 > [!success] 作为追问变异和调节[[Variable|变量]]的工具
-> - [[John Hattie|Hattie]]（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）
+> - Hattie（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）
 > - Qvortrup（2015, pp.25–27）从支持者立场认为，教育元分析不需要等待所有研究使用完全相同的学习结果定义才可比较；[[Effect Size|效应量]]提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习（Qvortrup, 2015, p.27）
 > - Qvortrup（2019, p.5）从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行，元分析透镜产生的图像与定性[[Observational and Correlational Research|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
 > - Wiliam（2019, p.11）的谨慎立场：如果且仅当满足 11 项条件，元分析才可能值得严肃对待
@@ -162,7 +149,7 @@ updated: '2026-05-21'
 >
 > 1. **偏差不受控**：设计不良研究的元分析（无论设计多好）不可避免地导致不可靠结论（p.96–97）
 > 2. **[[Publication Bias|发表偏差]]**：支持有利结论的研究更可能被发表——在药物公司资助的研究和利润丰厚的教育时尚（如学习风格）中尤其严重（p.97）
-> 3. **教育[[Variable|变量]]难以清晰界定**：与医学中"药物 A vs 药物 B"不同，"以儿童为中心 vs 以教师为中心"等教育变量通常处于连续谱上，主观判断不可或缺。[[John Hattie|Hattie]] 本人承认[[Whole Language|全语言]]的两项元分析因分类差异导致结论矛盾（p.97）
+> 3. **教育[[Variable|变量]]难以清晰界定**：与医学中"药物 A vs 药物 B"不同，"以儿童为中心 vs 以教师为中心"等教育变量通常处于连续谱上，主观判断不可或缺。Hattie 本人承认[[Whole Language|全语言]]的两项元分析因分类差异导致结论矛盾（p.97）
 > 4. **平均化消除复杂性**：以[[Homework|家庭作业]]为例，总体 d=0.29 掩盖了小学 d=0.15、中学 d=0.64 以及数学、科学、社会研究之间的巨大差异（p.97）
 > 5. **可推广性有限**：大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家——在发展中国家学校效应（相对于教师效应）远更大（p.97–98）
 >
@@ -295,7 +282,7 @@ updated: '2026-05-21'
 >
 > **O'Connor (2020) — 全语言案例的方法论审查**
 >
-> O'Connor（2020）通过 [[John Hattie|Hattie]] 对全语言效应量（d=0.06）处理的详细案例审查，揭示了元-元分析中分类错误、不对称审查（接受 -0.65 / 修正 +0.65）、选择性修正和不加权平均等具体问题。详见 [[Meta-meta-analysis]]。
+> O'Connor（2020）通过 Hattie 对全语言效应量（d=0.06）处理的详细案例审查，揭示了元-元分析中分类错误、不对称审查（接受 -0.65 / 修正 +0.65）、选择性修正和不加权平均等具体问题。详见 [[Meta-meta-analysis]]。
 >
 > **O'Neill (2012) — 跨教育阶段混合综合与排名扭曲**
 >
@@ -333,7 +320,7 @@ updated: '2026-05-21'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Hattie_2015_Paideia]] — [[John Hattie|Hattie]] 回应《可见的学习》批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
+> - [[Argument_Hattie_2015_Paideia]] — Hattie 回应《可见的学习》批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
 > - [[Argument_Hattie_2015_SOTLP]] — Hattie 将 1200 项元分析（65,000 多项研究）综合应用于高等教育，提出六项关键发现和八项思维框架
 > - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
@@ -347,16 +334,3 @@ Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研
 
 ---
 
-## 来源
-
-- [[Terhart_2011_JCS]]
-- [[Berk_2011_ER]]
-- [[Hattie_2015_Paideia]]
-- [[Allerup_2015_Paideia]]
-- [[Higgins_2016_RE]]
-- [[Wecker_2016_ZfE]]
-- [[Simpson_2017_JEP]]
-- [[Qvortrup_2019_NordSTEP]]
-- [[Wiliam_2019_ERE]]
-- [[Wrigley_2019_ERE]]
-- [[OConnor_2020_AJLL]]

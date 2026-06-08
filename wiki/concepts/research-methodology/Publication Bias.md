@@ -23,18 +23,12 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
-sources:
-  - "[[Higgins_2016_RE]]"
-  - "[[Wolf_2020_JREE]]"
-  - "[[Wecker_2016_ZfE]]"
-  - "[[Kraft_2023_ER]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -111,7 +105,7 @@ updated: '2026-05-18'
 
 
 > [!warning] Wecker 等人（2016）的中央证据数据库提案
-> Wecker, Vogel & Hetmanek（2016）在对 [[John Hattie|Hattie]] *[[Visible Learning]]* 的方法论批判中，提出了建立**中央证据数据库**的方案作为系统性缓解发表偏倚的路径（Wecker et al., 2016, p.34-36）：
+> Wecker, Vogel & Hetmanek（2016）在对 Hattie *[[Visible Learning]]* 的方法论批判中，提出了建立**中央证据数据库**的方案作为系统性缓解发表偏倚的路径（Wecker et al., 2016, p.34-36）：
 >
 > - **不分发表状态的全量归档**："收集实证研究的方法和结果——无论期刊出版物如何——并以标准化和[[Meta-analysis|元分析]]可用的格式在中央数据库中提供"
 > - **减少选择性发表扭曲**："可以显著减少由选择性发表研究结果引起的扭曲，并且对个别发现的元分析总结变得更加容易"
@@ -131,9 +125,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Higgins_2016_RE]]
-- [[Wolf_2020_JREE]]
-- [[Wecker_2016_ZfE]]
-- [[Kraft_2023_ER]]

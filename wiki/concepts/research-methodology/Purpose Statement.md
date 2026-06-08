@@ -33,12 +33,9 @@ related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Case Study]]"
   - "[[Exploratory Sequential Design]]"
-related_persons:
-  - "[[John Locke]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -50,7 +47,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么（[[John Locke|Locke]] et al., 2014; Creswell & Creswell, 2022, p.123）。在健康科学领域，更常用的术语是"研究目标"（study aim）。
+> 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么（Locke et al., 2014; Creswell & Creswell, 2022, p.123）。在健康科学领域，更常用的术语是"研究目标"（study aim）。
 
 目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。Creswell & Creswell (2022, p.123) 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
 
@@ -198,6 +195,3 @@ updated: 2026-05-31
 > [!info] 复杂混合方法设计的目的陈述
 > 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类[[Mixed Methods Research|复杂混合方法设计]]详见 Creswell & Plano Clark (2018)。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

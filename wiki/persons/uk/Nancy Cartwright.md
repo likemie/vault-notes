@@ -22,7 +22,6 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Nick Cowen]]"
-  - "[[John Dewey]]"
   - "[[Gert Biesta]]"
 related_arguments: []
 related_facts:
@@ -63,12 +62,12 @@ citation_name: Cartwright
 > [!abstract] 主要著作
 > - Cartwright, N., & Hardie, J. (2012). *Evidence-Based Policy: A Practical Guide to Doing It Better.* Oxford University Press. — 系统阐述证据外推的哲学挑战和实用策略
 > - Cartwright, N., & Munro, E. (2010). The limitations of randomized controlled trials in predicting effectiveness. *Journal of Evaluation in Clinical Practice*, 16(2), 260–266. — 提出 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段框架
-> - Cartwright, N., & Cowen, N. (2014). *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now.* CHESS Working Paper. — 为教育从业者提供证据实施的实用指南
+> - Cartwright, N., & [[Nick Cowen|Cowen, N]]. (2014). *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now.* CHESS Working Paper. — 为教育从业者提供证据实施的实用指南
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 受 [[John Dewey|Dewey]] [[Pragmatic Paradigm|实用主义]]认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
+> - 受 Dewey [[Pragmatic Paradigm|实用主义]]认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
 > - 与 [[Nick Cowen]] 合作，将科学[[Philosophical Analysis in Education|哲学分析]]应用于教育政策的政治经济学分析
 > - 影响了英国 [[What Works Network]] 的证据呈现和实施指导方向
 > - 在教育领域，她的工作为批判纯 [[Randomised Controlled Trials|RCT]] 中心的证据观提供了哲学基础，补充了 [[Gert Biesta]] 从教育哲学角度的批判

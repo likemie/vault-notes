@@ -16,14 +16,11 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
   - "[[Argument_Laursen_2015_Paideia]]"
-sources:
-  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -67,14 +64,11 @@ updated: '2026-05-18'
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Laursen_2015_Paideia]] — 用 Hofstede 国家文化维度提出并检验"国际[[Effective Teaching|有效教学]]综合是否适用于丹麦"的问题；结论认为国家文化并未显著改变 [[John Hattie|Hattie]]、Helmke 和 Meyer 所概括的核心有效教学质量（Laursen, 2015, pp.36–40）。
+> - [[Argument_Laursen_2015_Paideia]] — 用 Hofstede 国家文化维度提出并检验"国际[[Effective Teaching|有效教学]]综合是否适用于丹麦"的问题；结论认为国家文化并未显著改变 Hattie、Helmke 和 Meyer 所概括的核心有效教学质量（Laursen, 2015, pp.36–40）。
 
 ## 应用领域
 
 > [!success] 应用领域
 > - [[Effective Teaching]] — 用于分析有效教学质量是否会因国家文化语境不同而产生不同效果。
-> - [[Visible Learning]] — 用于讨论以英语国家研究为主的 [[John Hattie|Hattie]] 综合是否可被移植到丹麦和其他北欧国家。
+> - [[Visible Learning]] — 用于讨论以英语国家研究为主的 Hattie 综合是否可被移植到丹麦和其他北欧国家。
 
-## 来源
-
-- [[Laursen_2015_Paideia]]

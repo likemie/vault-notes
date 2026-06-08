@@ -7,8 +7,6 @@ extracted_to:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
   - "[[Civil Service Examination]]"
-  - "[[Yrjö Engeström]]"
-  - "[[Third Generation Activity Theory]]"
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
 processed_date: 2026-05-26

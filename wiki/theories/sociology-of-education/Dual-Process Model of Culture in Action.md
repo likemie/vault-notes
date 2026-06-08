@@ -27,8 +27,6 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -59,7 +57,7 @@ updated: 2026-06-02
 
 ### 争论的诊断：意识层次的混淆
 
-Vaisey 指出，工具箱范式的问题在于假定了文化与行动的关联**必然在意识层面进行**。援引 Giddens 和[[Pierre Bourdieu|Bourdieu]]——动机或[[Habitus|习性]]完全可能是无意识的——工具箱范式所假设的文化运用者形象（灵活熟练、审时度势）只在有意识的、深思熟虑的认知层面成立（[[Yajun Zheng|郑雅君]]，2023，引 Vaisey, 2009）。
+Vaisey 指出，工具箱范式的问题在于假定了文化与行动的关联**必然在意识层面进行**。援引 Giddens 和Bourdieu——动机或[[Habitus|习性]]完全可能是无意识的——工具箱范式所假设的文化运用者形象（灵活熟练、审时度势）只在有意识的、深思熟虑的认知层面成立（[[Yajun Zheng|郑雅君]]，2023，引 Vaisey, 2009）。
 
 ### 双过程认知机制
 
@@ -99,7 +97,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 ## 认识论立场
 
 > [!info]
-> - **本体论**：文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的实践意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容[[Pierre Bourdieu|Bourdieu]]的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Yajun Zheng|郑雅君]]，2023，引 Vaisey, 2009）。
+> - **本体论**：文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的实践意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Yajun Zheng|郑雅君]]，2023，引 Vaisey, 2009）。
 > - **方法论**：Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和话语分析获取（郑雅君，2023）。
 
 ---
@@ -130,6 +128,3 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 ---
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

@@ -45,13 +45,9 @@ related_methods:
   - "[[Descriptive Methods]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Interview]]"
-related_persons:
-  - "[[John Locke]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
-sources:
-  - "[[Creswell_2022_SAGE]]"
-  - "[[Brady_2023_EPR]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -176,7 +172,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 >
 > **一、质性研究范式的声明**
 >
-> Miller 首先用一段概述质性研究范式的学科根源（文化人类学和美国社会学）、在教育研究中的采纳时间以及核心意图——"理解一个特定的社会情境、事件、角色、群体或互动"（[[John Locke|Locke]] et al., 1987）。接着引用 Marshall & Rossman（1989）强调质性研究需要"沉浸在被研究场所的日常生活中；研究者进入参与者的世界，通过持续的互动寻求参与者的视角和意义"。
+> Miller 首先用一段概述质性研究范式的学科根源（文化人类学和美国社会学）、在教育研究中的采纳时间以及核心意图——"理解一个特定的社会情境、事件、角色、群体或互动"（Locke et al., 1987）。接着引用 Marshall & Rossman（1989）强调质性研究需要"沉浸在被研究场所的日常生活中；研究者进入参与者的世界，通过持续的互动寻求参与者的视角和意义"。
 >
 > 随后列出九条质性研究的独特特征，与教材前文讨论的九大核心特征一一对应：
 >
@@ -278,7 +274,3 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > 研究结果将以描述性叙事形式呈现，而非科学报告格式。Lofland（1974）指出虽然数据收集和分析策略在各质性方法中相似，但报告发现的方式各不相同。Miles & Huberman（1984）强调叙事文本是质性数据最常见的展示形式。Miller 的目标是"让读者能够代入性地体验他遇到的挑战，并提供一个透镜，通过它读者可以窥见被研究主体的世界"。
 
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Brady_2023_EPR]]

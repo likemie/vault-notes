@@ -21,11 +21,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[Gene Glass]]"
+related_persons: []
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
@@ -78,11 +75,8 @@ updated: '2026-06-08'
 
 > [!warning] 局限性
 > - 搜索策略的完整性直接影响结论的可靠性。即使系统搜索也可能遗漏未发表的研究，导致[[Publication Bias|发表偏差]]（Higgins, 2016, p.35）
-> - 纳入标准的设定涉及主观判断。标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 [[Gene Glass|Glass]] 的回应反映了这一两难（Higgins, 2016, p.38）
+> - 纳入标准的设定涉及主观判断。标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 Glass 的回应反映了这一两难（Higgins, 2016, p.38）
 > - 系统综述的质量取决于底层研究的质量。即使搜索和筛选过程完全透明，如果原始研究本身存在设计缺陷或报告偏差，综述结论仍可能误导（Higgins, 2016, p.35）
 
 ---
 
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

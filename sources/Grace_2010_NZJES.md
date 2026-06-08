@@ -5,9 +5,7 @@ extracted_to:
   - "[[Critic and Conscience of Society]]"
   - "[[Learning for Life Report]]"
   - "[[Gerald Grace]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
 processed_date: 2026-05-07
 ---
 

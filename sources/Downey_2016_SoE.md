@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Downey_2016_SoE]]"
   - "[[Coleman Report 1966]]"
   - "[[Seasonal Comparison]]"
-  - "[[Refraction Framework]]"
 processed_date: 2026-05-04
 ---
 

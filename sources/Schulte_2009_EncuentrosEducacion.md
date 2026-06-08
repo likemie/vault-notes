@@ -11,7 +11,6 @@ extracted_to:
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
-  - "[[John Dewey]]"
   - "[[Confucius]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Recontextualization]]"

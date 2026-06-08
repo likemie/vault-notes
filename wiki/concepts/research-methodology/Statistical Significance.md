@@ -23,16 +23,10 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
-sources:
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Terhart_2011_JCS]]"
-  - "[[Wadhwa_2024_RER]]"
-  - "[[Ross_Morrison_2021_ROE]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -47,7 +41,7 @@ updated: '2026-05-23'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - 2011 Terhart 在解释 [[John Hattie|Hattie]] 的 [[Effect Size]] 时区分了统计显著性和效应大小：统计显著性只说明结果不太可能由随机因素造成，却不说明效应有多大或实践意义是什么（Terhart, 2011, p.427）。
+> - 2011 Terhart 在解释 Hattie 的 [[Effect Size]] 时区分了统计显著性和效应大小：统计显著性只说明结果不太可能由随机因素造成，却不说明效应有多大或实践意义是什么（Terhart, 2011, p.427）。
 > - 效应量与显著性检验可以在给定样本量时发生数学联系：标准化均值差 d 可通过 `t=d√n` 转换为 t 检验统计量；以 n=25 为例，d≈0.412 对应双侧检验 p≈0.05 的临界点（Allerup, 2015, p.45）。
 > - 2024 Wadhwa et al. 发现，不同[[Educational Evidence Clearinghouses|教育证据清算中心]]对统计显著性和效应量阈值的要求并不一致：有的清算中心要求统计显著正向效果，有的还额外要求最低效应量（Wadhwa et al., 2024, pp.12–15）。
 
@@ -91,11 +85,5 @@ updated: '2026-05-23'
 > [!example] 相关案例／政策
 > - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低[[Effect Size|效应量]]阈值组合成项目评级规则（Wadhwa et al., 2024, pp.12–15）。
 > - [[ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]] 和相关研究与项目有效性标准连接起来，统计显著正向效果成为正式证据判断的重要条件之一（Ross & Morrison, 2021, p.109）。
-> - [[Visible Learning]] — [[John Hattie|Hattie]] 将 d=0.40 作为实践阈值，但该值与显著性的关系依赖样本量；统计推断细节集中写在 [[Effect Size]] 条目中（Allerup, 2015, p.45）。
+> - [[Visible Learning]] — Hattie 将 d=0.40 作为实践阈值，但该值与显著性的关系依赖样本量；统计推断细节集中写在 [[Effect Size]] 条目中（Allerup, 2015, p.45）。
 
-## 来源
-
-- [[Allerup_2015_Paideia]]
-- [[Terhart_2011_JCS]]
-- [[Wadhwa_2024_RER]]
-- [[Ross_Morrison_2021_ROE]]

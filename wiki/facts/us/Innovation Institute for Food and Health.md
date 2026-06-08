@@ -18,13 +18,10 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Locke]]"
+related_persons: []
 related_facts:
   - "[[African Orphan Crops Consortium]]"
 related_arguments: []
-sources:
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -53,13 +50,10 @@ updated: 2026-06-02
 
 > [!success]
 > - **天然青色色素发现**（pp.322–323）：利用计算模拟和大阵列光谱技术，从红甘蓝花青素中发现了此前未被表征的天然青色色素（cyan blue）。研究团队运用合成生物学和计算蛋白质设计工具，开发了将红甘蓝花青素酶转化为目标色素的工艺。成果包括：一篇同行评审论文（Denish et al., 2021, Science Advances）、两项专利申请、联合创立初创公司 Peak B 以继续扩大生产和获取安全数据
-> - **周期性食物表倡议**（Periodic Table of Food Initiative, PTFI）：2022 年启动的全球项目，由[[John Locke|洛克]]菲勒基金会参与发起，旨在标准化食品分析以理解食品对人类健康、农业和营养的影响。每个大洲设立"卓越中心"（Centre of Excellence），由大学和公共卫生机构主导食品质量研究、能力建设和科学影响转化（p.322）
+> - **周期性食物表倡议**（Periodic Table of Food Initiative, PTFI）：2022 年启动的全球项目，由洛克菲勒基金会参与发起，旨在标准化食品分析以理解食品对人类健康、农业和营养的影响。每个大洲设立"卓越中心"（Centre of Excellence），由大学和公共卫生机构主导食品质量研究、能力建设和科学影响转化（p.322）
 
 ## 制度意义
 
 > [!note]
 > IIFH 在[[University-Industry Collaboration|产学合作]]演化路径中的独特位置在于：它不再是一个问题驱动的项目（如水稻干湿交替灌溉 AWD）或使命驱动的网络（如 [[African Orphan Crops Consortium|AOCC]]），而是一个能够持续产生和孵化新项目的制度化平台。平台的价值不取决于任何一个具体产出，取决于它降低了未来每个新合作项目的启动成本。已有的法律框架、信任关系、共享设施和学生培养管道使新合作可以更快启动（pp.321–323）。
 
-## 来源
-
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

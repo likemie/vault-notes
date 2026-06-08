@@ -22,12 +22,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-related_persons:
-  - "[[John Dewey]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -39,7 +36,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 实用主义（[[Pragmatism in China|pragmatism]]）作为一种研究世界观，起源于 Peirce、James、Mead 和 [[John Dewey|Dewey]] 的著作（Cherryholmes, 1992）。它不执着于任何单一哲学或现实体系，关注的是行动、情境和后果，区别于关注先在条件的[[Postpositivism|后实证主义]]。实用主义的核心关切是"什么有效"，研究者以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（Rossman & Wilson, 1985）。它是[[Mixed Methods Research|混合方法研究]]的主要哲学基础。
+> 实用主义（[[Pragmatism in China|pragmatism]]）作为一种研究世界观，起源于 Peirce、James、Mead 和 Dewey 的著作（Cherryholmes, 1992）。它不执着于任何单一哲学或现实体系，关注的是行动、情境和后果，区别于关注先在条件的[[Postpositivism|后实证主义]]。实用主义的核心关切是"什么有效"，研究者以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（Rossman & Wilson, 1985）。它是[[Mixed Methods Research|混合方法研究]]的主要哲学基础。
 
 ## 核心要素
 
@@ -60,10 +57,7 @@ updated: 2026-05-30
 ## 概念辨析
 
 > [!example]
-> - vs [[Pragmatism in China]] — Pragmatism in China 讨论的是实用主义哲学（尤其是 [[John Dewey|Dewey]] 的实用主义）在中国的传播与接受史，属比较教育领域；本条目聚焦于实用主义作为研究哲学立场在方法论层面的应用。
+> - vs [[Pragmatism in China]] — Pragmatism in China 讨论的是实用主义哲学（尤其是 Dewey 的实用主义）在中国的传播与接受史，属比较教育领域；本条目聚焦于实用主义作为研究哲学立场在方法论层面的应用。
 > - vs [[Postpositivism]] — 后实证主义以理论检验和因果识别为核心，实用主义以[[Research Question|研究问题]]为中心、以方法多元为手段，不以单一本体论为皈依。
 > - vs [[Constructivist Paradigm]] — 建构主义专注于参与者的主观意义，实用主义则关注行动的实际后果和问题的有效解决。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

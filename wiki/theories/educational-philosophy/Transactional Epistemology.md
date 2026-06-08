@@ -28,8 +28,6 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
-sources:
-  - "[[Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -66,12 +64,12 @@ updated: '2026-05-18'
 >
 > > 例：Biesta (2010, p. 499) 指出，研究证据表明家庭环境对学业成就具有显著影响——但这一知识并不"命令"我们将孩子从家庭中带走以提高其成绩。即使我们知道某种干预"在过去有效"，是否采用它仍取决于复杂的价值判断（对孩子与父母分离的潜在伤害 vs. 学业提升的潜在收益）。知识使决策"更明智"，但不替代决策。
 >
-> > "Knowledge about what has worked in the past is, of course, tremendously important... it can provide us with hypotheses for problem solving in the present. It can make, in [[John Dewey|Dewey]]'s words, our action and problem solving more intelligent. But what evidence generated through experimentation cannot do... is provide us with rules for action and even less with dictates for action." (Biesta, 2010, p. 495)
+> > "Knowledge about what has worked in the past is, of course, tremendously important... it can provide us with hypotheses for problem solving in the present. It can make, in Dewey's words, our action and problem solving more intelligent. But what evidence generated through experimentation cannot do... is provide us with rules for action and even less with dictates for action." (Biesta, 2010, p. 495)
 
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1929** — [[John Dewey|Dewey]] 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
+> - **1929** — Dewey 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
 > - **1983** — Bernstein 在 *Beyond Objectivism and Relativism* 中重新阐释 Dewey 的认识论，挑战客观主义/相对主义的二元对立
 > - **2003** — Biesta & Burbules 在 *[[Pragmatism in China|pragmatism]] and Educational Research* 中系统阐述交易认识论对教育研究的意义
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次将交易认识论应用于对[[Evidence-Based Education|证据本位教育]]的批判
@@ -89,7 +87,7 @@ updated: '2026-05-18'
 > 如果知识只是"行动-后果关系的记录"（Biesta, 2010, p. 495），那么是否任何知识都没有比其他知识更"真"？交易认识论是否削弱了区分"好证据"和"坏证据"的基础？
 >
 > - **批评立场**：若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observational and Correlational Research|观察研究]]"同样有效"的等同处理——Slavin (2019) 会认为这放弃了因果推论的核心要求。
-> - **[[John Dewey|Dewey]]/Biesta 的回应**：交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。（Biesta, 2010, pp. 494–495）
+> - **Dewey/Biesta 的回应**：交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。（Biesta, 2010, pp. 494–495）
 >
 > **目前状态**：此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]]文献中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
 
@@ -117,6 +115,3 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — 交易认识论是挑战证据本位教育的主要哲学武器之一
 > - [[Value-Based Education]] — 交易认识论证明证据只能提供可能性，因此价值判断变得不可或缺
 
-## 来源
-
-- [[Biesta_2010_SPE]]

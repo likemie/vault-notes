@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Science and Technology Studies]]"
   - "[[Performance Indicators]]"
-  - "[[Performativity of Measurement]]"
   - "[[Education at a Glance]]"
   - "[[INES Lugano General Assembly 1991]]"
   - "[[International Indicators of Education Systems]]"

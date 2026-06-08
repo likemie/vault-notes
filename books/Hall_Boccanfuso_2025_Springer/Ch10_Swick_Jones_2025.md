@@ -12,7 +12,6 @@ extracted_to:
   - "[[Team Science]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[King-Persily Model]]"
   - "[[Triple Helix]]"
   - "[[Values Alignment Model]]"
 processed_date: 2026-06-02

@@ -19,6 +19,7 @@ related_methods:
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Chen Xie]]"
+  - "[[Tengteng Zhuang]]"
 related_arguments: []
 related_facts:
   - "[[Best Evidence in Brief]]"
@@ -52,8 +53,8 @@ citation_name: Cheung
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国学者质疑立场文献的系统梳理与分析
-> - Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. — 特刊导言，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，按四项核心活动框架组织全刊
+> - [[Robert Slavin|Slavin, R]]. E., Cheung, A. C. K., & [[Tengteng Zhuang|Zhuang, T]]. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国学者质疑立场文献的系统梳理与分析
+> - Cheung, A. C. K., & [[Chen Xie|Xie, C]]. (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. — 特刊导言，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，按四项核心活动框架组织全刊
 > - Slavin, R., & Cheung, A. C. K. (2017). Lessons learned from large-scale randomized experiments. *Journal of Education for Students Placed at Risk*, 22(4), 253–259.
 
 ## 思想发展与影响

@@ -14,7 +14,9 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Robert Slavin]]"
+  - "[[Alan C. K. Cheung]]"
 related_arguments: []
 confidence: low
 status: draft
@@ -44,7 +46,7 @@ citation_name: Zhuang
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国[[Evidence-Based Education|证据本位教育]]改革文献与数据梳理
+> - [[Robert Slavin|Slavin, R]]. E., [[Alan C. K. Cheung|Cheung, A. C. K]]., & Zhuang, T. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国[[Evidence-Based Education|证据本位教育]]改革文献与数据梳理
 
 ## 思想发展与影响
 

@@ -24,14 +24,10 @@ related_theories:
   - "[[Transactional Epistemology]]"
   - "[[Phenomenology]]"
 related_methods: []
-related_persons:
-  - "[[John Dewey]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
-sources:
-  - "[[Biesta_2010_SPE]]"
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -84,7 +80,7 @@ updated: '2026-05-18'
 
 > [!info] 相关理论
 > - [[Transactional Epistemology]] — Biesta 分析的认识论核心工具（表象认识论 vs. 交易认识论）
-> - **[[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]** — 本方法的哲学根基
+> - **Dewey 的[[Pragmatic Paradigm|实用主义]]** — 本方法的哲学根基
 
 ## 使用此方法的研究
 
@@ -93,7 +89,3 @@ updated: '2026-05-18'
 > - [[Argument_Schaffar_2024_CogentEdu]] — 通过概念史、[[Phenomenology|现象学]]、[[Bildung]]/[[Didaktik]] 传统和政策话语批判，澄清芬兰 [[Phenomenon-Based Learning|PhBL]] 的哲学根源
 > - Biesta (2007a) — "民主缺陷"的哲学论证
 
-## 来源
-
-- [[Biesta_2010_SPE]]
-- [[Schaffar_2024_CogentEdu]]

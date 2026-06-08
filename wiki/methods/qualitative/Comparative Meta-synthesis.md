@@ -15,7 +15,8 @@ tags:
   - subject/methodology
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Heterogeneity]]"
+  - "[[Variable]]"
+  - "[[Individualised Instruction]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
@@ -24,17 +25,13 @@ related_theories:
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Systematic Review]]"
-  - "[[Umbrella Review]]"
-related_persons:
-  - "[[John Hattie]]"
-  - "[[Robert Marzano]]"
+  - "[[Moderator Analysis]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_Higgins_2016_RE]]"
-sources:
-  - "[[Håkansson_2015_TT]]"
-  - "[[Higgins_2016_RE]]"
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -44,7 +41,7 @@ updated: 2026-06-08
 ## 定义
 
 > [!info] 定义
-> 比较性元综合是通过跨[[Meta-analysis|元分析]]比较来得出推论的综合方法。它旨在回答"X 是否比 Y 更有效"而非更具体的"X 是否有效"。Higgins（2016）区分了两种不同的跨元分析比较：**比较性元分析**是在单一元分析中纳入多种干预以识别哪种更有效；**比较性元综合**是通过跨元分析比较来得出推论。两者都面临苹果和橙子批评的升级版（Higgins, 2016, pp.40–41）。
+> 比较性[[Meta-meta-analysis|元综合]]是通过跨[[Meta-analysis|元分析]]比较来得出推论的综合方法。它旨在回答"X 是否比 Y 更有效"而非更具体的"X 是否有效"。Higgins（2016）区分了两种不同的跨元分析比较：**比较性元分析**是在单一元分析中纳入多种干预以识别哪种更有效；**比较性元综合**是通过跨元分析比较来得出推论。两者都面临苹果和橙子批评的升级版（Higgins, 2016, pp.40–41）。
 
 > [!note] 与质性比较性元综合的区别
 > Håkansson（2015）提出了一种质性版本的比较性元综合：不把多项研究转换为统一[[Effect Size|效应量]]，而是把不同研究综述当作案例，通过文本翻译、比较和推论链重建，识别研究领域中的关键因素、分歧线和共同模式（pp.588–589）。本文条目涵盖这两种用法。
@@ -56,17 +53,17 @@ updated: 2026-06-08
 > [!note] 历史发展
 > **Fraser, Walberg 与 Hattie（1987）——首次大规模综合**
 >
-> [[Gene Glass|Glass]] 创造元分析术语 10 年后，Fraser、Walberg 和 [[John Hattie|Hattie]] 团队综合了 226 项[[Meta-analysis|元分析]]，以检验 [[Walberg's Educational Productivity Model|Walberg 的教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的禀赋性、教学性和环境性变量。这是教育领域最早的系统性比较性元综合之一（Higgins, 2016, pp.41–42）。
+> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项[[Meta-analysis|元分析]]，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的禀赋性、教学性和环境性[[Variable|变量]]。这是教育领域最早的系统性比较性[[Meta-meta-analysis|元综合]]之一（Higgins, 2016, pp.41–42）。
 >
 > **Hattie（1992）——通用连续体**
 >
-> Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500 至 1500 万学生。他引入通用连续体概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40。最大效应量来自反馈相关干预（强化 1.13），最低来自个别化教学（0.14）（Higgins, 2016, p.42）。
+> Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500 至 1500 万学生。他引入通用连续体概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40。最大效应量来自反馈相关干预（强化 1.13），最低来自[[Individualised Instruction|个别化教学]]（0.14）（Higgins, 2016, p.42）。
 >
 > **Sipe 与 Curlette（1997）——系统性方法论推进**
 >
-> Sipe 和 Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行调节变量分析。他们估计其纳入的元分析与 Fraser et al.（1987）和 Hattie（1992）的重叠不到 10%（Higgins, 2016, p.43）。
+> Sipe 和 Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.（1987）和 Hattie（1992）的重叠不到 10%（Higgins, 2016, p.43）。
 >
-> **[[Robert Marzano|Marzano]]（1998）——理论驱动的元综合**
+> **Marzano（1998）——理论驱动的元综合**
 >
 > Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验组和控制组比较。其关键贡献是批评品牌名聚合做法，用宽泛标签代表包含多种活性成分的复杂干预，并按四层学习系统分类教学策略，追求课堂实践的可操作性（Higgins, 2016, p.43）。
 >
@@ -79,7 +76,7 @@ updated: 2026-06-08
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 比较性元综合面临的核心认识论问题是：将已聚合的结果再次聚合在原则上是否合理。Higgins（2016）指出，任何推论都直接取决于元综合所包含的内容。在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉）。同样，跨元分析比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论（p.41）。
+> 比较性[[Meta-meta-analysis|元综合]]面临的核心认识论问题是：将已聚合的结果再次聚合在原则上是否合理。Higgins（2016）指出，任何推论都直接取决于元综合所包含的内容。在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉）。同样，跨[[Meta-analysis|元分析]]比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论（p.41）。
 
 > [!note] 推论层级的约束
 > 比较性元综合的推论只能在聚合层级上成立。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授转录技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的（Higgins, 2016, p.41）。
@@ -88,7 +85,7 @@ updated: 2026-06-08
 
 ## 研究程序
 
-> [!example] Håkansson 的质性比较性元综合程序
+> [!example] Håkansson 的质性比较性[[Meta-meta-analysis|元综合]]程序
 > - 确定综述兴趣、研究焦点和边界（Håkansson, 2015, pp.588–589）
 > - 制定纳入、排除和相关性标准，例如要求综述能处理教师、学生和情境因素（p.589）
 > - 选择国际和本土研究综述，并记录材料差异（p.589）
@@ -110,7 +107,7 @@ updated: 2026-06-08
 ## 局限性
 
 > [!warning] 苹果和橙子问题
-> 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均[[Effect Size|效应量]]。[[Gene Glass|Glass]] 本人警告，元分析的结果永远不应该是平均值，它应该是一张图（Higgins, 2016, p.45）。
+> 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均[[Effect Size|效应量]]。Glass 本人警告，[[Meta-analysis|元分析]]的结果永远不应该是平均值，它应该是一张图（Higgins, 2016, p.45）。
 
 > [!warning] 推论层级的约束
 > 跨元分析比较面临的根本问题是缺乏基准。如果有两个叙事综述，一个论证家长参与有效，另一个论证数字技术有效，两者都引用了统计显著的研究，很难在两者之间选择。[[Meta-analysis|元分析]]至少可以帮助识别哪些研究过的方法平均而言产生了最大的效应量差异。这种比较信息应被谨慎对待，但应被认真考虑（Higgins, 2016, pp.45–46）。
@@ -126,7 +123,7 @@ updated: 2026-06-08
 
 > [!info] 相关理论
 > - [[Walberg's Educational Productivity Model]] — Fraser et al.（1987）和 Sipe & Curlette（1997）都以此为检验框架
-> - [[Meta-analysis]] — 元分析用[[Effect Size|效应量]]进行统计综合；比较性元综合则以跨元分析比较为主
+> - [[Meta-analysis]] — 元分析用[[Effect Size|效应量]]进行统计综合；比较性[[Meta-meta-analysis|元综合]]则以跨元分析比较为主
 > - [[Meta-meta-analysis]] — 二者都在综合既有综合研究，但元-元分析通常处理已聚合的效应量，比较性元综合可以同时处理定量、质性和叙事型综述
 
 ---
@@ -135,11 +132,7 @@ updated: 2026-06-08
 
 > [!example] 使用此方法的研究
 > - [[Argument_Håkansson_2015_TT]] — 使用 16 项国际研究综述和 27 项瑞典研究综述，分析[[Structured Teaching|结构化教学]]、[[Classroom Management|课堂管理]]与瑞典学校成绩下降讨论之间的关系
-> - [[Argument_Higgins_2016_RE]] — 追溯元分析从 1904 年到元综合的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
+> - [[Argument_Higgins_2016_RE]] — 追溯[[Meta-analysis|元分析]]从 1904 年到[[Meta-meta-analysis|元综合]]的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
 
 ---
 
-## 来源
-
-- [[Håkansson_2015_TT]]
-- [[Higgins_2016_RE]]

@@ -52,7 +52,7 @@ citation_name: Creswell
 ## 主要著作
 
 > [!abstract]
-> - Creswell, J. W., & Creswell, J. D. (2022). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (6th ed.). [[Sage]] Publications. — 与 [[John W. Creswell]] 合著，系统比较三种研究路径的研究设计教材。
+> - [[John W. Creswell|Creswell, J. W]]., & Creswell, J. D. (2022). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (6th ed.). [[Sage]] Publications. — 与 [[John W. Creswell]] 合著，系统比较三种研究路径的研究设计教材。
 > - Creswell, J. D. (Ed.). (2015). *Handbook of Mindfulness*. Guilford Press. — 联合主编，正念研究的学术手册。
 
 ## 核心思想

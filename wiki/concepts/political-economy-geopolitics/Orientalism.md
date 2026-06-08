@@ -24,17 +24,12 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
 related_methods: []
-related_persons:
-  - "[[Frantz Fanon]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[National Education]]"
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-sources:
-  - "[[Ch6_Rizvi_2022]]"
-  - "[[Klerides_2023_CE]]"
-  - "[[Vickers_2024_CE]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -46,7 +41,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和话语实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明教化的他者，从而为殖民统治提供了文化和认识论的合法性（Rizvi, 2022, pp.91–92）。
 >
-> > 在 Rizvi (2022) 的理论框架中，东方主义是后殖民理论的三大核心资源之一，与 [[Frantz Fanon|Fanon]] (1967) 的去殖民化理论和 Escobar (1995) 的发展主义批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
+> > 在 Rizvi (2022) 的理论框架中，东方主义是后殖民理论的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的发展主义批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
 
 
 > [!info] 在[[Chinese Learner|中国学习者]]刻板印象中的应用
@@ -114,8 +109,3 @@ updated: '2026-05-18'
 > **学术困境**：由此形成了一个双重约束（double bind）：学者被要求在批判殖民性的同时，也批判以"反殖民"名义运作的新型威权主义。两者之间的平衡极为困难——批判前者可能被指控为"东方主义"，批判后者可能被指控为"恐华"。香港由此成为"去殖民思维如何因迷恋思想谱系而忽视本地人能动性"的警示案例（Vickers, 2024, pp.154–155）。
 >
 
-## 来源
-
-- [[Ch6_Rizvi_2022]]
-- [[Klerides_2023_CE]]
-- [[Vickers_2024_CE]]

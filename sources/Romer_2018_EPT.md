@@ -3,16 +3,7 @@ citation: "Rømer, T. A. (2018). A critique of John Hattie's theory of Visible L
 extracted_to:
   - "[[Argument_Rømer_2018]]"
   - "[[Pure Evaluation]]"
-  - "[[John Biggs]]"
-  - "[[Carl Bereiter]]"
-  - "[[Thomas Aastrup Rømer]]"
-  - "[[Ernst von Glasersfeld]]"
-  - "[[Gert Biesta]]"
-  - "[[Popper's Three Worlds Theory]]"
-  - "[[Radical Constructivism]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
 processed_date: 2026-05-03
 ---
 

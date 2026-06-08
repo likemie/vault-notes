@@ -3,8 +3,6 @@ citation: "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evide
 extracted_to:
   - "[[Argument_Slavin_2021_ROE]]"
   - "[[Best Evidence in Brief]]"
-  - "[[Alan C. K. Cheung]]"
-  - "[[Tengteng Zhuang]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-02

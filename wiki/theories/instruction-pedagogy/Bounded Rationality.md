@@ -18,11 +18,8 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Herbert A. Simon]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -68,8 +65,5 @@ updated: '2026-05-18'
 
 > [!success] 应用领域
 > - [[Professional Judgment]] — Qvortrup (2019) 将有限理性作为专业判断的核心理论基础
-> - [[Visible Learning]] — Qvortrup 运用有限理性解释为何 [[John Hattie|Hattie]] 的[[Effect Size|效应量]]提供的是概率信息而非因果食谱
+> - [[Visible Learning]] — Qvortrup 运用有限理性解释为何 Hattie 的[[Effect Size|效应量]]提供的是概率信息而非因果食谱
 
-## 来源
-
-- [[Qvortrup_2019_NordSTEP]]

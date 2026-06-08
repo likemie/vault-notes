@@ -15,13 +15,10 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Rose Report]]"
 related_arguments: []
-sources:
-  - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -56,7 +53,7 @@ updated: 2026-05-18
 > [!success] 政策影响
 > - **英国 [[Rose Report]]（2006）**：简单阅读观被英国政府的 Rose Report 显著推广，该报告直接导致了英国强制合成语音教学政策的实施（Rose, 2006，引自 O'Connor, 2020, p.149）
 > - Harrison（2010, p.207）指出简单阅读观已"与'先、快且唯一'（first, fast and only）的语音模型以及技术主义的阅读教学观联系在一起"（O'Connor, 2020, p.149）
-> - O'Connor（2020, p.148-149）暗示 [[John Hattie|Hattie]] 在 *[[Visible Learning]]* 中对[[Whole Language|全语言]]的负面评估可能受到简单阅读观的隐性影响——例如 Hattie 未经解释地将"理解"与"阅读"区分为不同的计算机教学类别，以及断言"语音教学通常先于理解"
+> - O'Connor（2020, p.148-149）暗示 Hattie 在 *[[Visible Learning]]* 中对[[Whole Language|全语言]]的负面评估可能受到简单阅读观的隐性影响——例如 Hattie 未经解释地将"理解"与"阅读"区分为不同的计算机教学类别，以及断言"语音教学通常先于理解"
 
 ## 争议与批评
 
@@ -71,6 +68,3 @@ updated: 2026-05-18
 > - [[Whole Language]] — 简单阅读观主要针对的理论对手
 > - Synthetic Phonics — 与简单阅读观紧密关联的教学方法
 
-## 来源
-
-- [[OConnor_2020_AJLL]]

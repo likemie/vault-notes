@@ -67,5 +67,5 @@ citation_name: Benner
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 [[John Dewey|Dewey]] 的民主教育思想进行对话
+> - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的民主教育思想进行对话
 > - 修正版教学三角 — 为理解[[Evidence-Based Education|证据本位教育]]改革提供了理论框架，Sarbiewska (2019) 以此解释新西兰和澳大利亚从传统教育模型向证据本位模型的转变（详见 [[Argument_Sarbiewska_2019_JSR]]）

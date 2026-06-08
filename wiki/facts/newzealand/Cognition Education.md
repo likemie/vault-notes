@@ -23,17 +23,12 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Jerudong International School Establishment]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
-sources:
-  - "[[Bates_2017_CognitionEducationTrust]]"
-  - "[[ONeill_2016_Report]]"
-  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -91,7 +86,7 @@ updated: '2026-05-23'
 ## Visible Learning 的商业化角色
 
 > [!success]
-> 2010 年末，[[John Hattie|Hattie]] 在奥克兰大学不再继续支持 VL 商业平台后，把这项工作带到 Cognition。双方将 VL 转写成面向教师和[[School Leadership|学校领导]]的模块化专业学习课程（professional learning curriculum），并约定 Hattie 取得所有 VL 相关收入的版税。（Bates, 2017, p.59；Johnson & Janzen, 2023, p.30）
+> 2010 年末，Hattie 在奥克兰大学不再继续支持 VL 商业平台后，把这项工作带到 Cognition。双方将 VL 转写成面向教师和[[School Leadership|学校领导]]的模块化专业学习课程（professional learning curriculum），并约定 Hattie 取得所有 VL 相关收入的版税。（Bates, 2017, p.59；Johnson & Janzen, 2023, p.30）
 >
 > 这一新事业部门（division）在 2011 年第一年收入已接近 200 万，次年接近 270 万，且利润率高于公司此前长期依赖的工资业务（payroll），因此很快被视为可以替代旧收入锚点的高利润知识产品。（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）
 >
@@ -101,7 +96,7 @@ updated: '2026-05-23'
 
 > [!warning]
 > - O'Neill 等指出，Cognition 同时具有慈善信托和营利公司结构，但 2015 年 Trust 的慈善捐赠仅约 251,000，只占当年 Cognition Group 总收入的 0.9%。与此同时，2012 至 2014 年公司向 Trust 的大额捐赠又使 Limited 连续报亏、无税负，这使其慈善地位（charitable status）与公共利益（public benefit）之间的关系受到质疑。（O'Neill et al., 2016, pp.71-73）
-> - [[John Hattie|Hattie]] 在 Cognition Trust 董事会任职，同时又通过 VL 商业化获得版税。Johnson & Janzen 认为，即便这未必构成正式[[Conflict of Interest in Research|利益冲突]]，这种安排在观感上也至少是模糊的。（Johnson & Janzen, 2023, p.31）
+> - Hattie 在 Cognition Trust 董事会任职，同时又通过 VL 商业化获得版税。Johnson & Janzen 认为，即便这未必构成正式[[Conflict of Interest in Research|利益冲突]]，这种安排在观感上也至少是模糊的。（Johnson & Janzen, 2023, p.31）
 > - 从 Johnson & Janzen 的批判视角看，Cognition 不只是承接了一本畅销书的培训业务，而是把新西兰市场化教育环境中已成形的 edu-business 平台，与 VL 的证据话语、品牌扩张和专业发展市场连接起来。（Johnson & Janzen, 2023, p.30-31）
 
 ## 相关概念／政策
@@ -111,8 +106,3 @@ updated: '2026-05-23'
 > - [[Tomorrow's Schools Reforms]]
 > - [[Visible Learning Branding and Global Influences]]
 
-## 来源
-
-- [[Bates_2017_CognitionEducationTrust]]
-- [[ONeill_2016_Report]]
-- [[Johnson_2023_CE]]

@@ -21,8 +21,7 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments: []
 confidence: medium
 status: draft
@@ -36,7 +35,7 @@ citation_name: Marzano
 ## 简介
 
 > [!info]
-> Robert J. Marzano（1940s–）是美国教育研究者，以教学策略的综合研究闻名。1998年，他为美国中大陆地区教育实验室（McREL）发表了一项理论驱动的[[Meta-meta-analysis|元综合]]（meta-synthesis），综合了100多项[[Meta-analysis|元分析]]和4000多个实验-控制组比较。与 [[John Hattie|Hattie]] 的排名表方式不同，Marzano 强调按教学功能对策略进行理论分类，追求课堂实践的可操作性（Higgins, 2016, p.43）。
+> Robert J. Marzano（1940s–）是美国教育研究者，以教学策略的综合研究闻名。1998年，他为美国中大陆地区教育实验室（McREL）发表了一项理论驱动的[[Meta-meta-analysis|元综合]]（meta-synthesis），综合了100多项[[Meta-analysis|元分析]]和4000多个实验-控制组比较。与 Hattie 的排名表方式不同，Marzano 强调按教学功能对策略进行理论分类，追求课堂实践的可操作性（Higgins, 2016, p.43）。
 
 ---
 
@@ -65,7 +64,7 @@ citation_name: Marzano
 >
 > **反对"品牌名"聚合**：Marzano 批评[[Meta-meta-analysis|元-元分析]]中常见的"品牌名"做法——用宽泛的教育方式标签（如"现代数学"）代表包含多种"活性成分"的复杂干预。他以 Athappilly et al.（1983）的"现代数学"[[Meta-analysis|元分析]]为例：其中"使用操作教具"的[[Effect Size|效应量]]为 0.51，"[[Direct Instruction|直接教学]]概念和原理"为 0.35，而"使用探究方法"仅为 0.04。将这些聚合为单一"品牌"会掩盖教学有效性的关键差异（Higgins, 2016, p.43）。
 >
-> Marzano 的目标是比 [[John Hattie|Hattie]] 的排名表更具体、更可操作——为教师提供课堂层面的指导，而不是抽象的效应量排名。
+> Marzano 的目标是比 Hattie 的排名表更具体、更可操作——为教师提供课堂层面的指导，而不是抽象的效应量排名。
 
 ---
 

@@ -22,12 +22,8 @@ related_methods:
   - "[[Moderator Analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[Karl Pearson]]"
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -39,7 +35,7 @@ updated: '2026-06-08'
 > [!info] 定义
 > 异质性（Heterogeneity）是[[Meta-analysis|元分析]]中的核心概念，指各研究的[[Effect Size|效应量]]之间超出抽样误差预期的变异。当研究间的效果差异大于仅由样本差异所能解释的程度时，就存在异质性。它表明不同研究可能在干预实施、参与者特征、结果测量或研究设计等方面存在系统性差异（Higgins, 2016, p.32）。
 >
-> 异质性的存在不一定是问题——它恰恰是[[Meta-analysis|元分析]]区别于简单合并数据的关键特征。[[Karl Pearson|Pearson]]（1904）在最早的跨研究合并分析中就同时关注两个问题：合并数据能否给出更可靠的答案，以及效果变异的原因是什么（Higgins, 2016, p.33）。
+> 异质性的存在不一定是问题——它恰恰是[[Meta-analysis|元分析]]区别于简单合并数据的关键特征。Pearson（1904）在最早的跨研究合并分析中就同时关注两个问题：合并数据能否给出更可靠的答案，以及效果变异的原因是什么（Higgins, 2016, p.33）。
 
 ---
 
@@ -68,7 +64,7 @@ updated: '2026-06-08'
 > [!success] 在教育研究中的意义
 > - 异质性是[[Meta-analysis|元分析]]中"苹果和橙子"问题的统计体现——当研究间存在实质性异质性时，汇总的平均[[Effect Size|效应量]]可能掩盖重要差异
 > - 教育干预的效果高度依赖情境：不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型都会产生系统性差异（Higgins, 2016, p.37）
-> - [[John Hattie|Hattie]]（2015）对异质性的回应不是否认它，而是要求将异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问调节[[Variable|变量]]（moderator）
+> - Hattie（2015）对异质性的回应不是否认它，而是要求将异质性转化为[[Research Question|研究问题]]：平均效应必须继续追问调节[[Variable|变量]]（moderator）
 > - 在[[Meta-meta-analysis|元-元分析]]层面，异质性问题被进一步放大——不同元分析使用不同的纳入标准、结果测量和研究设计，使跨元分析比较面临更深层的可比性挑战
 
 ---
@@ -82,6 +78,3 @@ updated: '2026-06-08'
 
 ---
 
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

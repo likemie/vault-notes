@@ -68,7 +68,7 @@ citation_name: Nielsen
 ## 核心思想
 
 > [!info] VL 的合法化危机解释（2021, IRTP）
-> Nielsen & Klitmøller (2021, IRTP) 的核心论证是：VL 的全球流行不能仅从方法论维度（数据质量/统计方法）理解，而需要从**合法化危机的理论功能**维度理解。在 [[PISA]] 冲击后各国教育系统面临严重合法性赤字时，[[John Hattie|Hattie]] 的 VL 提供了一个"统一的[[Didaktik|教学理论]]"，使政策制定者和学校能够向公众证明教育系统在"有效运作"（Nielsen & Klitmøller, 2021, pp. 86-88）。
+> Nielsen & Klitmøller (2021, IRTP) 的核心论证是：VL 的全球流行不能仅从方法论维度（数据质量/统计方法）理解，而需要从**合法化危机的理论功能**维度理解。在 [[PISA]] 冲击后各国教育系统面临严重合法性赤字时，Hattie 的 VL 提供了一个"统一的[[Didaktik|教学理论]]"，使政策制定者和学校能够向公众证明教育系统在"有效运作"（Nielsen & Klitmøller, 2021, pp. 86-88）。
 >
 > 详见 Argument_Nielsen_2021_IRTP。
 
@@ -102,7 +102,7 @@ citation_name: Nielsen
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Technical Rationality]] — 识别技术理性作为 VL/[[Evidence-Based Education|EBE]] 的深层理论内核，建立 Skinner→Glaser→[[John Hattie|Hattie]] 的理论传承链
+> - [[Technical Rationality]] — 识别技术理性作为 VL/[[Evidence-Based Education|EBE]] 的深层理论内核，建立 Skinner→Glaser→Hattie 的理论传承链
 > - [[Visible Learning]] — 提供 Habermas 框架下的合法化危机解释，补充方法论（Wrigley/Simpson）、制度（Cowen）、分析认识论（Wiliam）和文化政治（McKnight & Whitburn）批评
 > - [[Feedback]] — 对 Hattie 反馈[[Effect Size|效应量]]（d=0.73）的 5 项最重[[Meta-analysis|元分析]]进行逐项细读审查，发现 4/5 未研究同一现象
 > - Argument_Nielsen_2021_IRTP — 以 Habermas 合法化危机理论解释 Hattie VL 全球流行的理论分析
@@ -115,7 +115,7 @@ citation_name: Nielsen
 >
 > - **2017** — 与 Klitmøller 以丹麦语发表早期批判，聚焦 VL 的理论和经验基础问题
 > - **2019** — 转向 VL 量化方法论的质量审查（丹麦语）
-> - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas 合法化危机理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality|技术理性]]为[[Analytic Framework|分析框架]]，系统追溯 [[John Hattie|Hattie]] 的行为主义理论谱系并对反馈[[Meta-analysis|元分析]]进行细读审查（NordPsych）
+> - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas 合法化危机理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality|技术理性]]为[[Analytic Framework|分析框架]]，系统追溯 Hattie 的行为主义理论谱系并对反馈[[Meta-analysis|元分析]]进行细读审查（NordPsych）
 >
 > 其核心贡献在于从**理论功能**（而非方法论质量）角度解释 VL 的全球流行，与 Rømer (2018, 2019) 的哲学批判、Wrigley & McCusker (2019) 的方法论批判、Cowen (2019) 的制度批判、Wiliam (2019) 的分析认识论批判和 McKnight & Whitburn (2020) 的文化政治批判形成互补。
 
@@ -123,4 +123,4 @@ citation_name: Nielsen
 
 > [!warning] 争议与批评
 > - **与 Rømer (2019) 的理论定位分歧**：Rømer 将 VL 的理论基础解读为[[Radical Constructivism|激进建构主义]]（radical constructivism），而 Nielsen & Klitmøller 论证 VL 的内核是[[Technical Rationality|技术理性]]——两者虽然从不同理论基础出发，但对 VL 的批评形成互补
-> - **反馈审查的稳健性**：Nielsen & Klitmøller 对反馈[[Meta-analysis|元分析]]的细读审查聚焦于概念匹配（[[John Hattie|Hattie]] 定义的反馈 vs 元分析实际研究的内容）而非统计技术——支持者可能质疑"概念匹配"标准本身，但这一方法论选择反映了他们"Hattie 是教育理论家"的核心论证方向
+> - **反馈审查的稳健性**：Nielsen & Klitmøller 对反馈[[Meta-analysis|元分析]]的细读审查聚焦于概念匹配（Hattie 定义的反馈 vs 元分析实际研究的内容）而非统计技术——支持者可能质疑"概念匹配"标准本身，但这一方法论选择反映了他们"Hattie 是教育理论家"的核心论证方向

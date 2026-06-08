@@ -23,11 +23,11 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
-  - "[[Immanuel Kant]]"
   - "[[Gert Biesta]]"
 related_arguments: []
 confidence: medium
@@ -56,10 +56,10 @@ citation_name: Larsen
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the [[Visible Learning]] Paradigm in Education. *Education Sciences*, 9(1), 47. — 从 [[Bildung]]、[[Neuroplasticity|神经可塑性]]、[[Phenomenology|现象学]]自由和概念史四维度对 [[John Hattie|Hattie]] VL 范式的系统哲学批判
+> - Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the [[Visible Learning]] Paradigm in Education. *Education Sciences*, 9(1), 47. — 从 [[Bildung]]、[[Neuroplasticity|神经可塑性]]、[[Phenomenology|现象学]]自由和概念史四维度对 Hattie VL 范式的系统哲学批判
 > - Larsen, S. N. (2018). A critical essay on the exercise of critique: On the impossibility of reconciling ontology and epistemology. *Danish Yearbook of Philosophy*, 51, 119–141. — 探讨本体论与认识论不可调和性
 > - Larsen, S. N. (2016). *At Ville Noget Med Nogen. Filosofiske og Samtidskritiske Fragmenter om Dannelse og Pædagogik* [想要对某人做什么：关于 Bildung 与教育学的哲学与当代批判片段]. Turbine. — 关于 Bildung 与教育学的丹麦语哲学著作
-> - Larsen, S. N. (2015). Blind Spots in John Hattie's Evidence Credo. *Journal of Academic Perspectives*, 1. — 对 Hattie 证据信条的系统盲点分析
+> - Larsen, S. N. (2015). Blind Spots in [[John Hattie]]'s Evidence Credo. *Journal of Academic Perspectives*, 1. — 对 Hattie 证据信条的系统盲点分析
 > - Larsen, S. N. (2014). Compulsory Creativity—A Critique of Contemporary Cognitive Capitalism. *Culture Unbound*, 6. — 对当代认知资本主义的批判
 > - Hattie, J. & Larsen, S. N. (2019). The Purpose of Education—A conversation between John Hattie and Steen Nepper Larsen. Unpublished. — 与 Hattie 的公开对话
 
@@ -90,11 +90,11 @@ citation_name: Larsen
 > [!note-] 思想发展与影响
 > - 深受 [[Niklas Luhmann]] 社会[[Luhmann's Systems Theory|系统理论]]影响，尤其是盲点、[[Structural Coupling|结构耦合]]和社会系统/心理系统区分等概念
 > - 借鉴 Thomas Fuchs 的身体[[Phenomenology|现象学]]和大脑生态学视角
-> - 继承德国 [[Bildung]] 传统（Humboldt, Herder, [[Immanuel Kant|Kant]], Hegel, Nietzsche 至批判理论和概念史）
+> - 继承德国 [[Bildung]] 传统（Humboldt, Herder, Kant, Hegel, Nietzsche 至批判理论和概念史）
 > - 与 [[Gert Biesta]] 共享对 [[Learnification]] 的批判立场，但 Larsen 更侧重将 Bildung 作为建构性替代方案和具身化维度
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Larsen 的哲学论文明确承认其为"个人化论文"（personal essay），其论证不依赖对 [[John Hattie|Hattie]] 的其他批评的系统综述，这既是其原创性的来源，也可能被视为选择性的（Larsen, 2019, p.2-3）
+> - Larsen 的哲学论文明确承认其为"个人化论文"（personal essay），其论证不依赖对 Hattie 的其他批评的[[Systematic Review|系统综述]]，这既是其原创性的来源，也可能被视为选择性的（Larsen, 2019, p.2-3）
 > - 其 [[Bildung]] 替代方案被自己描述为"从侧翼"的尝试，且承认需要进一步加强和固化（Larsen, 2019, p.10）

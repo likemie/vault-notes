@@ -12,7 +12,6 @@ extracted_to:
   - "[[Michael Porter]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"

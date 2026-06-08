@@ -22,7 +22,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Edmund King]]"
   - "[[Pierre Bourdieu]]"
 related_arguments: []
 confidence: low
@@ -37,13 +36,13 @@ citation_name: Magolda
 ## 简介
 
 > [!info] 简介
-> Marcia Baxter Magolda 是美国教育心理学家，迈阿密大学（Miami University）教育领导力系教授。她以[[Self-Authorship|自我主导性]]（self-authorship）理论闻名，该理论已成为当代大学生发展研究的重要框架之一（[[Yajun Zheng|郑雅君]]，2023，引 Baxter Magolda & [[Edmund King|King]], 2012）。
+> Marcia Baxter Magolda 是美国教育心理学家，迈阿密大学（Miami University）教育领导力系教授。她以[[Self-Authorship|自我主导性]]（self-authorship）理论闻名，该理论已成为当代大学生发展研究的重要框架之一（[[Yajun Zheng|郑雅君]]，2023，引 Baxter Magolda & King, 2012）。
 >
 
 ## 核心思想
 
 > [!info] [[Self-Authorship|自我主导性]]理论
-> Baxter Magolda 的自我主导性理论描述个体从依赖外部权威到依据内在声音主导自身发展的成熟过程。达到自我主导性的个体具备三个维度的整合能力（[[Yajun Zheng|郑雅君]]，2023，引 Baxter Magolda & [[Edmund King|King]], 2012）：
+> Baxter Magolda 的自我主导性理论描述个体从依赖外部权威到依据内在声音主导自身发展的成熟过程。达到自我主导性的个体具备三个维度的整合能力（[[Yajun Zheng|郑雅君]]，2023，引 Baxter Magolda & King, 2012）：
 >
 > - **认知维度（Cognitive/Epistemological）**：基于自我选择的信念体系做出判断，而非单纯依赖外部权威——"我如何看待知识和我所知"
 > - **自我认同维度（Intrapersonal）**：形成内在整合的自我感，而非被外部期望所定义——"我如何看待自己"
@@ -56,7 +55,7 @@ citation_name: Magolda
 
 > [!abstract] 主要著作
 > - Baxter Magolda, M. B. (2001). *Making Their Own Way: Narratives for Transforming Higher Education to Promote Self-Development*. Stylus. — 提出[[Self-Authorship|自我主导性]]的发展阶段模型
-> - Baxter Magolda, M. B. & [[Edmund King|King]], P. M. (2012). *Assessing Meaning Making and Self-Authorship: Theory, Research, and Application*. — 系统阐述自我主导性的评估方法与应用（[[Yajun Zheng|郑雅君]]，2023）
+> - Baxter Magolda, M. B. & King, P. M. (2012). *Assessing Meaning Making and Self-Authorship: Theory, Research, and Application*. — 系统阐述自我主导性的评估方法与应用（[[Yajun Zheng|郑雅君]]，2023）
 >
 
 ## 思想发展与影响
@@ -70,5 +69,5 @@ citation_name: Magolda
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Yajun Zheng|郑雅君]]（2023）指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 [[Pierre Bourdieu|Bourdieu]] 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
+> - [[Yajun Zheng|郑雅君]]（2023）指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 Bourdieu 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
 >

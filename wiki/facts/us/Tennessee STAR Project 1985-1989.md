@@ -25,14 +25,10 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[California Class Size Reduction 1996]]"
 related_arguments: []
-sources:
-  - "[[Wiliam_2019_ERE]]"
-  - "[[Snook_2009_NZJES]]"
 confidence: medium
 status: draft
 created: 2026-05-01
@@ -65,7 +61,7 @@ updated: 2026-06-02
 > - 田纳西州 STAR 项目的显著成功促使其他州（如加利福尼亚）推出类似的[[Class Size|班级规模]]缩减计划，但这些州的实施效果普遍远不如田纳西（Wiliam, 2019, p.6）
 > - Wiliam (2019) 将 STAR 项目作为 [[Randomised Controlled Trials|RCT]] 外推失败的关键案例：揭示了即使在设计良好的 RCT 中，也存在的三重外推障碍
 >
-> ### Snook et al. (2009) 以 STAR 反驳 [[John Hattie|Hattie]] 的班级规模结论
+> ### Snook et al. (2009) 以 STAR 反驳 Hattie 的班级规模结论
 >
 > Snook et al.（2009, p.100–101）在 VL 最早的学术批判中详细引用 STAR 研究以反驳 Hattie 班级规模[[Effect Size|效应量]]仅 0.2 不重要这一结论。STAR 采用严格随机化设计——将学生和教师均[[Random Assignment|随机分配]]至小班（13–17 人）和大班（22–25 人），两年后效应量达 0.62–0.66（Finn & Achilles, 1990）——远超 Hattie 的 d=0.40 阈值。Snook et al. 指出，Hattie 报告的较低效应量与 STAR 原始研究的结果不一致，且 Hattie 的[[Meta-analysis|元分析]]因距离原始研究较远而难以有效纳入 STAR 的设计质量差异。
 
@@ -96,14 +92,10 @@ updated: 2026-06-02
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Class Size]] — STAR 是该概念的核心实证基础，Snook et al. (2009) 以 STAR 为关键反例质疑 [[John Hattie|Hattie]] 的班级规模[[Effect Size|效应量]]评级
+> - [[Class Size]] — STAR 是该概念的核心实证基础，Snook et al. (2009) 以 STAR 为关键反例质疑 Hattie 的班级规模[[Effect Size|效应量]]评级
 > - [[Programme Fidelity vs Adaptation]] — STAR 与加州班级缩减的对比是该辩论的经典案例
 > - [[California Class Size Reduction 1996]] — 试图复制 STAR 成功但系统性失败
 > - [[Evidence-Based Education]] — 揭示 [[Randomised Controlled Trials|RCT]] 证据外推中什么有效逻辑的结构性局限
 > - [[Visible Learning]] — Snook et al. (2009) 以 STAR 质疑 Hattie 的效应量综合方法
 > - [[Effect Size]] — STAR 效应量 (0.62–0.66) vs Hattie 综合效应量 (约 0.2) 的差异是效应量方法论争议的关键案例
 
-## 来源
-
-- [[Wiliam_2019_ERE]]
-- [[Snook_2009_NZJES]]

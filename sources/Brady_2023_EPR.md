@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Recommendations for Practice]]"
   - "[[Mixed Methods Research]]"
-  - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"

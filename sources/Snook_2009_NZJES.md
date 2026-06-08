@@ -3,14 +3,8 @@ citation: "Snook, I., O'Neill, J., Clark, J., O'Neill, A. M., & Openshaw, R. (20
 extracted_to:
   - "[[Performance Pay]]"
   - "[[The Scott Report]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Argument_Snook_2009]]"
-  - "[[Effect Size]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
-  - "[[Whole Language]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Class Size]]"
 processed_date: 2026-05-03
 ---

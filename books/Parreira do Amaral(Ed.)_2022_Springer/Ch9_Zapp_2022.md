@@ -9,7 +9,6 @@ extracted_to:
   - "[[THE Impact Ranking]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Jane Knight]]"
-  - "[[John W. Meyer]]"
   - "[[World Society Theory]]"
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Epistemic Governance]]"

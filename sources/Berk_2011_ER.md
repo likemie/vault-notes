@@ -9,7 +9,6 @@ extracted_to:
   - "[[Covariate Adjustment]]"
   - "[[Matching]]"
   - "[[Potential Outcomes Framework]]"
-  - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-03

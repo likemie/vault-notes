@@ -39,22 +39,12 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Robert Marzano]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"
   - "[[Playing for Success]]"
   - "[[What Works Network]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
-  - "[[Wrigley_2018_BERJ]]"
-  - "[[Cowen_2019_ERE]]"
-  - "[[Slavin_2019_EP]]"
-  - "[[Wrigley_2019_ERE]]"
-  - "[[Higgins_2016_RE]]"
-  - "[[Pellegrini_2021_ROE]]"
-  - "[[Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -88,9 +78,9 @@ updated: '2026-06-08'
 > [!note] 设计灵感来源
 > Toolkit 的设计融合了多位研究者的方法论贡献（Higgins, 2016, p.47）：
 >
-> - [[John Hattie|Hattie]]（1992/2008）的比较性研究地图，将多元研究发现置于同一量表上
+> - Hattie（1992/2008）的比较性研究地图，将多元研究发现置于同一量表上
 > - Sipe 和 Curlette（1996）的共同纳入标准（聚焦于学龄儿童、尽可能依赖有因果推论依据的[[Intervention Research|干预研究]]）和系统性透明的搜索策略
-> - [[Robert Marzano|Marzano]]（1998）的实用目标，追求课堂层面的可操作性
+> - Marzano（1998）的实用目标，追求课堂层面的可操作性
 
 > [!abstract] 三层信息结构
 > Toolkit 采用逐层深入的信息架构，兼顾可及性与准确性（Higgins, 2016, pp.46–47）：
@@ -268,13 +258,3 @@ Cowen et al.（2015）通过对 22 位英国教师的[[Qualitative Interview|深
 
 ---
 
-## 来源
-
-- [[Cowen_2015_CHESS]]
-- [[Wrigley_2018_BERJ]]
-- [[Cowen_2019_ERE]]
-- [[Slavin_2019_EP]]
-- [[Wrigley_2019_ERE]]
-- [[Higgins_2016_RE]]
-- [[Pellegrini_2021_ROE]]
-- [[Bainbridge_2022_ROE]]

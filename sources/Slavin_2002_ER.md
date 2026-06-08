@@ -5,7 +5,6 @@ extracted_to:
   - "[[Comprehensive School Reform Program]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Grover Whitehurst]]"
-  - "[[Robert Slavin]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01

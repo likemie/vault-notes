@@ -30,8 +30,6 @@ related_methods:
 related_persons:
   - "[[John Dewey]]"
   - "[[Bruno Latour]]"
-  - "[[John Hattie]]"
-  - "[[Immanuel Kant]]"
 related_arguments: []
 confidence: high
 status: draft
@@ -54,7 +52,7 @@ citation_name: Biesta
 > - 曾任教于英国斯特灵大学（The Stirling Institute of Education）
 > - 后任卢森堡大学（University of Luxembourg）教授
 > - 现任爱丁堡大学（University of Edinburgh）教育和体育学院教授，兼任荷兰人文研究大学（University of Humanistic Studies）教育学教授
-> - 2003 年与 Burbules 合作出版 *[[Pragmatism in China|pragmatism]] and Educational Research*，奠定其 [[John Dewey|Dewey]] 式[[Pragmatic Paradigm|实用主义]]教育哲学基础
+> - 2003 年与 Burbules 合作出版 *[[Pragmatism in China|pragmatism]] and Educational Research*，奠定其 Dewey 式[[Pragmatic Paradigm|实用主义]]教育哲学基础
 > - 2007–2010 年发表对[[Evidence-Based Education|证据本位教育]]的系列批判（2007a, 2010），确立其作为 EBE 最主要哲学批评者的地位
 > - 2010 年代后期关注教育中的"美"、被动性与教学的重塑（2017, 2022）
 
@@ -84,7 +82,7 @@ citation_name: Biesta
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 [[John Dewey|Dewey]] 的交易认识论对教育研究的意涵
+> - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 Dewey 的交易认识论对教育研究的意涵
 > - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和实践论维度的三重缺陷
 > - [[Value-Based Education]] — 提出价值而非证据应构成教育实践的基础
 > - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象（Larsen, 2019, p.2 引用）
@@ -101,7 +99,7 @@ citation_name: Biesta
 
 
 > [!note-] 在 [[Evidence-Based Education|EBE]] 批判中的影响
-> - Rømer (2018, p.8) 将 Biesta 的被动性概念用作对抗 [[John Hattie|Hattie]] [[Visible Learning]] 的理论资源：在 Hattie 的世界中，被动性被完全排除（"passive was not a word in the vocabulary of these accomplished teachers", Hattie, 2009, pp.28–29），而这构成了一种与整个西方教育传统的断裂——从 Dewey 到 [[Immanuel Kant|Kant]] 到 Arendt，想象力和判断力（及其被动面）是教育行动的核心
+> - Rømer (2018, p.8) 将 Biesta 的被动性概念用作对抗 Hattie [[Visible Learning]] 的理论资源：在 Hattie 的世界中，被动性被完全排除（"passive was not a word in the vocabulary of these accomplished teachers", Hattie, 2009, pp.28–29），而这构成了一种与整个西方教育传统的断裂——从 Dewey 到 Kant 到 Arendt，想象力和判断力（及其被动面）是教育行动的核心
 > - Wrigley & McCusker (2019) 和 Wrigley (2018) 在方法论批判中广泛援引 Biesta 的开放/递归/符号[[Luhmann's Systems Theory|系统理论]]——标志着 Biesta 的哲学框架从独立的[[Philosophical Analysis in Education|哲学分析]]进入经验导向的方法论批判
 > - Cowen (2019) 的制度批判与 Biesta 的哲学批判形成互补：Biesta 论证 EBE 在哲学上是错的，Cowen 论证它在制度上被选择并非因为对
 > - Bainbridge et al.（2022）在分析英国议会选择性教育政策辩论时，援引了 Biesta（2007a, 2010）对 EBE 的哲学批判作为理论基础，讨论证据在教育政策制定中的实际角色（Bainbridge et al., 2022, p.3, 7）——将 Biesta 的批判引入道德侧步的经验研究

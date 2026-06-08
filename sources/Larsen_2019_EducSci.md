@@ -6,15 +6,10 @@ extracted_to:
   - "[[Blind Spot in Observation]]"
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Structural Coupling]]"
-  - "[[Neuroplasticity]]"
-  - "[[Danish Public School Reform]]"
-  - "[[Steen Nepper Larsen]]"
   - "[[Niklas Luhmann]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Learnification]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
 processed_date: 2026-05-04
 ---
 

@@ -18,12 +18,9 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[Yvonna S. Lincoln]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -78,7 +75,7 @@ updated: 2026-05-31
 > | | 提供伦理合规证明与无[[Conflict of Interest in Research\|利益冲突]]声明 | 披露研究资助方和获益方 |
 > | | 明确数据所有权 | 将所有权归于研究者、参与者和导师 |
 >
-> 来源：改编自 APA (2020); Creswell & Poth (2018); [[Yvonna S. Lincoln|Lincoln]] (2009); Mertens & Ginsberg (2009); Salmons (2010)。
+> 来源：改编自 APA (2020); Creswell & Poth (2018); Lincoln (2009); Mertens & Ginsberg (2009); Salmons (2010)。
 
 ### 研究开始之前
 
@@ -163,6 +160,3 @@ Creswell & Creswell (2022, 第4章) 提供了三个研究者在实际研究中�
 
 3. **未经 [[Institutional Review Board|IRB]] 批准即收集数据**：一名学生在完成四次家庭访谈后，才告知研究者项目尚未获得 IRB 批准。IRB 审批必须在数据收集之前完成，事后获批不能补救已发生的违规。这一困境突出了在研究启动前获得 IRB 批准的绝对必要性。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

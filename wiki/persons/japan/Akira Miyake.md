@@ -18,7 +18,6 @@ related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Jean Piaget]]"
 related_arguments: []
 confidence: low
@@ -33,12 +32,12 @@ citation_name: Miyake
 ## 简介
 
 > [!info] 简介
-> 认知心理学家，[[Executive Function|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
+> 认知心理学家，[[Executive Function|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一（Bolton & Hattie, 2017, p.4）。
 
 ## 核心思想
 
 > [!info] 核心思想
-> Miyake et al. (2000) 创建了[[Executive Function|执行功能]]的统一性与多样性框架，识别出三个基本但相互关联的 EF 成分（Bolton & [[John Hattie|Hattie]], 2017, p.4）：
+> Miyake et al. (2000) 创建了[[Executive Function|执行功能]]的统一性与多样性框架，识别出三个基本但相互关联的 EF 成分（Bolton & Hattie, 2017, p.4）：
 >
 > - 抑制主导性或优势反应
 > - [[Working Memory|工作记忆]]表征的[[Updating and Monitoring|更新与监控]]
@@ -50,7 +49,7 @@ citation_name: Miyake
 
 > [!success] 主要贡献
 > - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — [[Executive Function|EF]] 的三成分统一性与多样性模型，成为执行功能研究的基础框架
-> - 该框架被 Bolton & [[John Hattie|Hattie]] (2017) 用作将 EF 发展轨迹与[[Jean Piaget|皮亚杰]]阶段对齐的核心理论工具（Bolton & Hattie, 2017, p.4, 8–9）
+> - 该框架被 Bolton & Hattie (2017) 用作将 EF 发展轨迹与[[Jean Piaget|皮亚杰]]阶段对齐的核心理论工具（Bolton & Hattie, 2017, p.4, 8–9）
 
 ## 思想发展与影响
 

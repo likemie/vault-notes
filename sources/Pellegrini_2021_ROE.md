@@ -16,7 +16,6 @@ extracted_to:
   - "[[EU Key Competences for Lifelong Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Technology Infusion]]"
   - "[[Argument_Pellegrini_2021_ROE]]"

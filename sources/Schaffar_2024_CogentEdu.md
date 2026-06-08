@@ -6,7 +6,6 @@ extracted_to:
   - "[[Bildung]]"
   - "[[Problem-Based Learning]]"
   - "[[SveaSus Project]]"
-  - "[[Philosophical Analysis in Education]]"
   - "[[Wolfgang Klafki]]"
   - "[[Phenomenology]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"

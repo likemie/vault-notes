@@ -28,14 +28,10 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
-  - "[[John Dewey]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -60,7 +56,7 @@ updated: 2026-05-24
 
 ### 1. 拥有好的心智并善加使用（Good Mind and Use It Well）
 
-"首要且最重要的"特征。个体心智最初被认为来自神圣来源（Comenius），后来被重新铸造为人类的自然倾向（[[Jean-Jacques Rousseau|Rousseau]], Froebel），最终演变为"需要充分发展的个人先天潜能"——至今仍是主流观点。
+"首要且最重要的"特征。个体心智最初被认为来自神圣来源（Comenius），后来被重新铸造为人类的自然倾向（Rousseau, Froebel），最终演变为"需要充分发展的个人先天潜能"——至今仍是主流观点。
 
 关键信念贯穿古今："个体从一开始就存在差异。有些人拥有更大的潜能，而其他人可能只具备普通的智力。**区分最有能力的学习者和普通学习者**在西方学习传统中一直非常重要"（Li, 2012, p.35）。
 
@@ -111,7 +107,7 @@ updated: 2026-05-24
 > **3. 课外活动项目**：公立和私立学校提供各种"做中学"的活动——绘画、雕塑、演奏乐器、制作书籍、制作首饰、舞蹈、运动。暑假期间还有各种营地和旅行，许多有强烈的"做中学"成分（Li, 2012, p.109）。
 
 > [!tip] 西方学前教育的典范
-> Li 特别指出 Montessori 学校、受 [[John Dewey|Dewey]] 哲学启发的学校（如 Shady Hill School 和 Putney School）、以及 Reggio Emilia 学前教育——这些学校对"儿童作为主动学习者的本质"的强调，令非西方（甚至西方）访客感到震撼。儿童"用他们的感官、好奇心、经验和对周围世界的问题"来学习——雨后踩进水坑引出对水和镜子如何反射事物的研究；研究超市这样的现代人造环境，收集信息、采访经理和顾客、提出改进建议（Li, 2012, pp.109-110）。
+> Li 特别指出 Montessori 学校、受 Dewey 哲学启发的学校（如 Shady Hill School 和 Putney School）、以及 Reggio Emilia 学前教育——这些学校对"儿童作为主动学习者的本质"的强调，令非西方（甚至西方）访客感到震撼。儿童"用他们的感官、好奇心、经验和对周围世界的问题"来学习——雨后踩进水坑引出对水和镜子如何反射事物的研究；研究超市这样的现代人造环境，收集信息、采访经理和顾客、提出改进建议（Li, 2012, pp.109-110）。
 
 ### 2. 探索与探究（Exploration and Inquiry）
 
@@ -224,6 +220,3 @@ O'Connor 和 Michaels（1993）的研究揭示了西方课堂如何通过 [[Revo
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

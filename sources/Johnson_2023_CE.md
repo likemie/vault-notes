@@ -5,17 +5,9 @@ extracted_to:
   - "[[Neo-Taylorism]]"
   - "[[Scientism]]"
   - "[[Global Education Reform Movement]]"
-  - "[[Cargo Cult Science]]"
-  - "[[Cognition Education]]"
-  - "[[Tomorrow's Schools Reforms]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[Argument_Johnson_2023_CE]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Class Size]]"
-  - "[[Performativity of Measurement]]"
 processed_date: 2026-05-04
 ---
 

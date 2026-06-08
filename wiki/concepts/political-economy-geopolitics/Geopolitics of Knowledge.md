@@ -59,7 +59,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Sami Moisio]]"
-  - "[[Jean-François Lyotard]]"
   - "[[Doreen Massey]]"
 related_facts:
   - "[[Minerva University]]"
@@ -75,12 +74,6 @@ related_facts:
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-sources:
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
-  - "[[Ch2_Moisio_2022]]"
-  - "[[Ch3_Parreira do Amaral_2022]]"
-  - "[[Ch5_Partaken_2022]]"
-  - "[[Ch6_Rizvi_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -158,7 +151,7 @@ Parreira do Amaral (2022) 将上述两条脉络整合为一"新知识地缘政�
 > - **认识论治理**：知识地缘政治渗透到认识论治理层面——研究资助的分配机制通过制度设计将特定的认识论范式固化为唯一合理的选择。例如 Horizon 2020 的 SSH 整合将实证主义和经验主义认识论制度化为默认框架（Parreira do Amaral, 2022, pp.39–49）
 > - **治理理性转换**：[[International Education Hubs|国际教育枢纽]]等项目指示了高等教育治理理性的根本转换——从社会/教育范畴（可及性、公平、质量、开放研究）转向经济范畴（收入创造、可专利的非开放研究、经济竞争力）（Parreira do Amaral, 2022, pp.44–45）
 > - **知识生产与[[Knowledge Transfer|知识转移]]的双面**：Partaken (2022) 将 GPK 区分为[[Knowledge Production|知识生产]]与[[Knowledge Transfer|知识转移]]两面。当前国际关系默认以自上而下模态运作——从强制转移、间谍、监视、审查到破坏。详见 [[Knowledge Transfer#核心要素]]（Partaken, 2022, pp.75–84）
-> - **[[Narrative Knowledge|叙事知识]]的衰退**：[[Jean-François Lyotard|Lyotard]] (1979/1984) 区分的叙事知识在全球 GPK 中处于急剧衰退——具有商业价值的科学知识得到国家和产业的有力赞助。详见 [[Narrative Knowledge]]（Partaken, 2022, pp.74–75）
+> - **[[Narrative Knowledge|叙事知识]]的衰退**：Lyotard (1979/1984) 区分的叙事知识在全球 GPK 中处于急剧衰退——具有商业价值的科学知识得到国家和产业的有力赞助。详见 [[Narrative Knowledge]]（Partaken, 2022, pp.74–75）
 
 ---
 
@@ -310,10 +303,3 @@ Marginson（2025）将当代高等教育 GPK 的历史演变分为两个主要�
 
 ---
 
-## 来源
-
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch2_Moisio_2022]]
-- [[Ch3_Parreira do Amaral_2022]]
-- [[Ch5_Partaken_2022]]
-- [[Ch6_Rizvi_2022]]

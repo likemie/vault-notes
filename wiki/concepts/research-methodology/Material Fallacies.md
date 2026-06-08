@@ -15,12 +15,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[ONeill_2012_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-06'
@@ -39,7 +36,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 口号化
-> Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策话语中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, [[John Hattie|Hattie]], 2009a）等术语虽然在最初源自对研究文献的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
+> Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策话语中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）等术语虽然在最初源自对研究文献的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
 
 
 > [!abstract] 代理概念
@@ -60,7 +57,7 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，识别出三类实质谬误表现：
 > - 术语模糊且使用不一致（"教学质量"定义与学校教育无关）（ONeill, 2012, pp.154-155）
-> - 研究证据的局限性被政策行动者系统性忽略（[[John Hattie|Hattie]] 本人的多处警示未被 Treasury 纳入考量）（ONeill, 2012, pp.155-157）
+> - 研究证据的局限性被政策行动者系统性忽略（Hattie 本人的多处警示未被 Treasury 纳入考量）（ONeill, 2012, pp.155-157）
 > - 由此得出的政策结论无效，且与所援引证据的原始结论矛盾（Treasury 建议增加生师比，但 Hattie 明确写道增加[[Class Size|班级规模]]是糟糕的政策）（ONeill, 2012, pp.157-158）
 
 ## 争议与批评
@@ -68,6 +65,3 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - 仅分析政策建议文本的缺陷（术语不清、证据不完整、论证无效）在方法论上有限——要充分理解教育政策的运作，还需关注政策行动者的主体定位、制度利益和话语权力关系（ONeill, 2012, p.159）
 
-## 来源
-
-- [[ONeill_2012_NZJES]]

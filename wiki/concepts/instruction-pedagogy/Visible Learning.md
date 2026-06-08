@@ -58,7 +58,6 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
-  - "[[Robert Marzano]]"
   - "[[Jill Mehlbye]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -77,39 +76,6 @@ related_facts:
   - "[[Gonski Reforms]]"
 related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
-sources:
-  - "[[Hattie_2010_NZJES]]"
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Hattie_2017_SLM]]"
-  - "[[Fredens_2015_Paideia]]"
-  - "[[Laursen_2015_Paideia]]"
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[Sarbiewska_2019_JSR]]"
-  - "[[Blass_2020_JESP]]"
-  - "[[Bainbridge_2022_ROE]]"
-  - "[[ONeill_2012_NZJES]]"
-  - "[[ONeill_2016_Report]]"
-  - "[[Knudsen_2017_NordSTEP]]"
-  - "[[Zhao_2017_JEC]]"
-  - "[[Snook_2009_NZJES]]"
-  - "[[Grace_2010_NZJES]]"
-  - "[[Snook_2010_NZJES]]"
-  - "[[Terhart_2011_JCS]]"
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Wecker_2016_ZfE]]"
-  - "[[Bergeron_2017_MJE]]"
-  - "[[Eacott_2017_SLM]]"
-  - "[[Romer_2018_EPT]]"
-  - "[[Eacott_2019_IJLE]]"
-  - "[[Golovchin_2019_ESC]]"
-  - "[[Larsen_2019_EducSci]]"
-  - "[[Qvortrup_2019_NordSTEP]]"
-  - "[[McKnight_2020_Discourse]]"
-  - "[[OConnor_2020_AJLL]]"
-  - "[[Nielsen_2021_IRTP]]"
-  - "[[Nielsen_2021_NordPsych]]"
-  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -146,7 +112,7 @@ updated: '2026-05-21'
 
 ### 教与学的可见性
 
-教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（[[John Hattie|Hattie]], 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"（Knudsen, 2017, p.257）。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%（Knudsen, 2017, pp.257–258）。
+教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"（Knudsen, 2017, p.257）。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%（Knudsen, 2017, pp.257–258）。
 
 ### 效应量排名与关节点（d=0.40）
 
@@ -311,7 +277,7 @@ Hattie (2015) 将 VL 框架应用于高等教育，聚焦多个具体领域的�
 
 ### 元-元分析操作步骤
 
-Golovchin（2019), p.232-234）详细描述了 [[John Hattie|Hattie]] 元-元分析（mega-analysis）的操作步骤：
+Golovchin（2019), p.232-234）详细描述了 Hattie 元-元分析（mega-analysis）的操作步骤：
 
 1. **确定 6 个影响源**（sources of influence）：家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
@@ -348,7 +314,7 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 
 > [!info] 理论基础
 > - 实证主义／行为主义学习理论：假设所有教与学可以被量化、被知晓、被打包为投入与产出（McKnight & Whitburn, 2020, p.36）
-> - Nielsen & Klitmøller (2021, NordPsych) 追溯了 [[John Hattie|Hattie]] 的行为主义理论谱系：Hattie (1987) 明确借鉴了 Glaser 的学习理论——称其为"独特贡献"，关注"初始状态与能力状态之间的转化过程"——而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名（Nielsen & Klitmøller, 2021, p.3）。这建立了 Skinner→Glaser→Hattie 的理论传承链，揭示 VL 的理论根基不仅是广义的[[Technical Rationality|技术理性]]，更具体地根植于 Skinner 的激进行为主义传统
+> - Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 的行为主义理论谱系：Hattie (1987) 明确借鉴了 Glaser 的学习理论——称其为"独特贡献"，关注"初始状态与能力状态之间的转化过程"——而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名（Nielsen & Klitmøller, 2021, p.3）。这建立了 Skinner→Glaser→Hattie 的理论传承链，揭示 VL 的理论根基不仅是广义的[[Technical Rationality|技术理性]]，更具体地根植于 Skinner 的激进行为主义传统
 > - [[New Public Management]] — Visible Learning 被描述为"新管理全景监狱主义"的完美工具（Ball, 2003, p.219），使每个人都可以监视其他所有人
 > - 与更进步的教育哲学语言结合（如"学习必须被学习者分享、承诺和理解"），使其难以抵制（Hattie, 2009, p.23，引自 McKnight & Whitburn, 2020, p.34）
 > - [[Radical Constructivism]] — Rømer (2018) 论证 VL 的学习理论根基是 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]（唯我论前提），Hattie 完全接受建构主义学习观但试图在其上添加"教师中心的教学"，导致教学概念的双重瓦解（Rømer, 2018, p.7-8）
@@ -367,7 +333,7 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 ### 前史：Hattie 的元综合积累（1987–1992）
 
 > [!note] 前史
-> 《可见的学习》并非凭空出现。[[John Hattie|Hattie]] 在 1987 年参与了 Fraser、Walberg 团队的首次大规模[[Meta-meta-analysis|元综合]]，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（Higgins, 2016, pp.41–42）。
+> 《可见的学习》并非凭空出现。Hattie 在 1987 年参与了 Fraser、Walberg 团队的首次大规模[[Meta-meta-analysis|元综合]]，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（Higgins, 2016, pp.41–42）。
 >
 > 1992 年，Hattie 首次独立进行元综合：134 项元分析、22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生。他引入通用连续体（universal continuum）概念，以标准差单位为尺度将结果置于同一量表上。平均效应量为 0.40（标准差 0.13）（Higgins, 2016, p.42）。
 >
@@ -382,7 +348,7 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 
 ### 新西兰起源与早期发展（2006–2011）
 
-VL 的技术前身 asTTle/e-asTTle（1999/2000 年 [[John Hattie|Hattie]] 受教育部委托开发的国家课程测试系统）和早期商标注册（2006 年 Auckland Uniservices 注册 VL 商标、创建 VL Labs），详见 [[Visible Learning Branding and Global Influences]]。
+VL 的技术前身 asTTle/e-asTTle（1999/2000 年 Hattie 受教育部委托开发的国家课程测试系统）和早期商标注册（2006 年 Auckland Uniservices 注册 VL 商标、创建 VL Labs），详见 [[Visible Learning Branding and Global Influences]]。
 
 2009 年 Hattie 出版 *Visible Learning*，迅速成为全球教育畅销书。2009 年 1 月 *Sunday STAR Times* 头版报道后引发媒体风暴，Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。详见 [[Visible Learning Branding and Global Influences]]。
 
@@ -405,7 +371,7 @@ VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cog
 ### 对政策工具的影响
 
 > [!note] 对政策工具的影响
-> [[EEF Teaching and Learning Toolkit]] 的设计部分受到 Hattie（1992/2008）工作的启发，特别是他将多元研究发现置于同一量表上的比较性研究地图思路。Toolkit 还借鉴了 Sipe 和 Curlette（1996）的共同纳入标准和系统搜索策略，以及[[Robert Marzano|Marzano]]（1998）的实用目标（Higgins, 2016, p.47）。
+> [[EEF Teaching and Learning Toolkit]] 的设计部分受到 Hattie（1992/2008）工作的启发，特别是他将多元研究发现置于同一量表上的比较性研究地图思路。Toolkit 还借鉴了 Sipe 和 Curlette（1996）的共同纳入标准和系统搜索策略，以及Marzano（1998）的实用目标（Higgins, 2016, p.47）。
 
 ---
 
@@ -430,7 +396,7 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 ## 实证发现
 
 > [!success] 实证发现
-> - [[John Hattie|Hattie]] 声称教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应（Hattie, 2009, p.271）
+> - Hattie 声称教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应（Hattie, 2009, p.271）
 > - Laursen (2015) 比较国际研究综合与丹麦 SFI 证据后发现，Hattie 强调的若干核心[[Effective Teaching|有效教学]]质量在丹麦研究中得到支持：清晰一致的[[Classroom Management|课堂管理]]、清晰目标、高要求和良好社会环境均与更好学生结果相关；弱社会背景学生尤其依赖教师明确领导和清晰目标（Laursen, 2015, pp.37–38）。
 
 > [!info]- 核心数据
@@ -462,7 +428,7 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 > - [[Tomorrow's Schools Reforms]] — 创造了私营 [[Educational Management Organisation|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education|Cognition Education]] 直接起源于此改革
 > - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education 和 CORE Education 均为竞标者
 > - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
-> - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 [[John Hattie|Hattie]] 从"教育英雄"转变为"教育敌人"
+> - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 Hattie 从"教育英雄"转变为"教育敌人"
 > - [[Hattie på dansk]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评
 > - [[SFI Report]] — 检验 VL 及相关[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据
 > - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、学业表现取向和[[Classroom Management|课堂管理]]的补充证据
@@ -472,45 +438,3 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 > - [[Gonski Reforms]] — Gonski 2.0（2018）以个体进步衡量成功学习，呼应 VL 的可见学习成果理念
 >
 
-## 来源
-
-### 核心来源
-
-- [[Hattie_2010_NZJES]]
-- [[Hattie_2015_Paideia]]
-- [[Hattie_2015_SOTLP]]
-- [[Hattie_2017_SLM]]
-- [[Fredens_2015_Paideia]]
-- [[Laursen_2015_Paideia]]
-- [[Qvortrup_2015_Paideia]]
-- [[Sarbiewska_2019_JSR]]
-- [[Blass_2020_JESP]]
-- [[Bainbridge_2022_ROE]]
-
-### 历史与传播来源
-
-- [[ONeill_2012_NZJES]]
-- [[ONeill_2016_Report]]
-- [[Knudsen_2017_NordSTEP]]
-- [[Zhao_2017_JEC]]
-
-### 争议导引来源
-
-- [[Snook_2009_NZJES]]
-- [[Grace_2010_NZJES]]
-- [[Snook_2010_NZJES]]
-- [[Terhart_2011_JCS]]
-- [[Allerup_2015_Paideia]]
-- [[Wecker_2016_ZfE]]
-- [[Bergeron_2017_MJE]]
-- [[Eacott_2017_SLM]]
-- [[Romer_2018_EPT]]
-- [[Eacott_2019_IJLE]]
-- [[Golovchin_2019_ESC]]
-- [[Larsen_2019_EducSci]]
-- [[Qvortrup_2019_NordSTEP]]
-- [[McKnight_2020_Discourse]]
-- [[OConnor_2020_AJLL]]
-- [[Nielsen_2021_IRTP]]
-- [[Nielsen_2021_NordPsych]]
-- [[Johnson_2023_CE]]

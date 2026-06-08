@@ -20,11 +20,8 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -66,7 +63,7 @@ updated: '2026-06-08'
 > [!success] 适用场景
 > - 当[[Meta-analysis|元分析]]发现研究间存在实质性[[Heterogeneity|异质性]]，需要理解变异来源时
 > - 当实践者需要知道"什么条件下效果更好"而非仅知道"平均效果多大"时
-> - [[John Hattie|Hattie]]（2015）主张元分析的价值不在于给出平均效应当作最终答案，而在于迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果（Higgins, 2016, p.42）
+> - Hattie（2015）主张元分析的价值不在于给出平均效应当作最终答案，而在于迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果（Higgins, 2016, p.42）
 > - 语音教学（phonics）的三项元分析得出不同的汇总[[Effect Size|效应量]]（0.41、0.27、0.30），部分原因就在于各元分析对调节变量的不同结论（如是否应在更年轻时开始语音教学、综合语音与分析语音孰优）（Higgins, 2016, p.32）
 
 ---
@@ -81,6 +78,3 @@ updated: '2026-06-08'
 
 ---
 
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

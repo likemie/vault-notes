@@ -17,14 +17,11 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
-related_persons:
-  - "[[Jean-François Lyotard]]"
+related_persons: []
 related_facts:
   - "[[China Social Credit System]]"
   - "[[Great Firewall of China]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -80,11 +77,8 @@ updated: '2026-05-18'
 ... Applied fuzzy match at line 42-100.
 > - 隐藏（concealment）是有意使某些知识不可获取的行为；暴露（exposure）是在便利时刻披露特定知识以削弱对手（Partaken, 2022, p.80）
 > - 在个人层面，"我们揭示什么和不揭示什么之间的边界，以及对这一边界的某种控制，是我们人性最重要的属性之一"（Nagel, 1998, p.4; 引自 Partaken, 2022, p.80）
-> - 在国家层面，隐藏和暴露的组合运用构成了[[Geopolitics of Knowledge|GPK]]的核心工具——通过监视、审查和破坏的交替使用运作。[[Jean-François Lyotard|Lyotard]]的合法化通过权力理论在此同样适用：国家不仅决定隐藏什么和暴露什么，还通过权力将这种选择合法化（Partaken, 2022, p.80, 84）
+> - 在国家层面，隐藏和暴露的组合运用构成了[[Geopolitics of Knowledge|GPK]]的核心工具——通过监视、审查和破坏的交替使用运作。Lyotard的合法化通过权力理论在此同样适用：国家不仅决定隐藏什么和暴露什么，还通过权力将这种选择合法化（Partaken, 2022, p.80, 84）
 > - 在中美 GPK 紧张中，知识破坏构成[[Knowledge Transfer|知识转移]]六模态谱系的最极端一端——从强制教学到间谍（偷取）到监视（监控）到审查（阻断）到破坏（摧毁），权力不对等和合法性丧失逐级加剧（Partaken, 2022, p.75–84）
 
 ---
 
-## 来源
-
-- [[Ch5_Partaken_2022]]

@@ -31,8 +31,6 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -71,7 +69,7 @@ updated: 2026-06-01
 > [!tip]
 > - **制度变迁理论**（institutional change）：用于解释学术资本主义在不同国家和福利体制中的差异性表现——不同政治经济体在市场化进程中展现出强路径依赖（Schulze-Cleven et al., 2017, pp.803–804）
 > - **马克思主义政治经济学**：将学术资本主义置于[[Knowledge Capitalism|知识资本主义]]的更广泛系统动力中理解，关注剥削、利润导向和阶级斗争在[[Knowledge-Based Economy|知识经济]]中的形态（Jessop, 2007; Schulze-Cleven et al., 2017, pp.804–805）
-> - **[[Pierre Bourdieu|Bourdieu]] [[Champ|场域]]理论**：[[Pierre Bourdieu]] 的"学术阶级分数"（fractions of the academic class）概念被重新用于分析教授和学术官员的不同再生产模式及与统治阶级的关系（Möller, 2015; Graf, 2015; Schulze-Cleven et al., 2017, p.799）
+> - **Bourdieu [[Champ|场域]]理论**：[[Pierre Bourdieu]] 的"学术阶级分数"（fractions of the academic class）概念被重新用于分析教授和学术官员的不同再生产模式及与统治阶级的关系（Möller, 2015; Graf, 2015; Schulze-Cleven et al., 2017, p.799）
 
 ## 学术资本主义的多样性
 
@@ -91,6 +89,3 @@ updated: 2026-06-01
 > - 学术资本主义概念过于侧重经济维度，忽略了高等教育的公共功能——如提供可及的知识基础设施和高质量教育（Rhoten & Calhoun, 2011; Schulze-Cleven et al., 2017, p.797）
 > - 将大学转型简单归因于市场力量，可能低估了国家政策、[[Academic Oligarchy|专业寡头]]和话语实践在塑造高等教育秩序中的独立作用（Schulze-Cleven et al., 2017, pp.797–799）
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

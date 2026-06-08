@@ -22,14 +22,10 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
-related_persons:
-  - "[[Yrjö Engeström]]"
-  - "[[Lev Vygotsky]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
-sources:
-  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -44,7 +40,7 @@ updated: 2026-05-26
 > [!info]
 > 活动理论（activity theory）从社会文化视角理解人类行为与社会历史转型。其核心主张是：人类认知发展源于心理表征与外部影响之间的互动，且人类行为应作为集体活动来理解，而非个体行为的简单加总。第三代活动理论进一步主张：不同活动系统之间的互动与边界跨越是变革的来源——当系统之间的矛盾被识别和解决时，原有系统可能经历"扩展性改造"（expansive transformation）。
 
-> "活动理论将人类实践概念化为集体活动，'活动'——定义为'一个有对象导向和文化形塑的结构'——成为分析单元"（[[Yrjö Engeström|Engeström]], 1999, p.21，引自 Wang & McLaughlin, 2025, p.590）
+> "活动理论将人类实践概念化为集体活动，'活动'——定义为'一个有对象导向和文化形塑的结构'——成为分析单元"（Engeström, 1999, p.21，引自 Wang & McLaughlin, 2025, p.590）
 
 ---
 
@@ -54,13 +50,13 @@ updated: 2026-05-26
 
 ### 第一代：Vygotsky 的中介三角模型
 
-[[Lev Vygotsky|Vygotsky]]（1978）提出认知发展源于个体（主体，Subject）与外部影响之间的互动。在这一原始模型中，个体追求发展目标（客体，Object）的过程由社会文化工具（中介工具，Mediating artefacts）——如语言、符号、概念——所中介（Wang & McLaughlin, 2025, p.590）。
+Vygotsky（1978）提出认知发展源于个体（主体，Subject）与外部影响之间的互动。在这一原始模型中，个体追求发展目标（客体，Object）的过程由社会文化工具（中介工具，Mediating artefacts）——如语言、符号、概念——所中介（Wang & McLaughlin, 2025, p.590）。
 
 > 举例：一个学生学习数学（主体追求客体），所使用的教科书、教师语言和课堂符号系统就是中介工具——这些工具不仅传递知识，也塑造学生如何理解数学。
 
 ### 第二代：Engeström 的集体活动系统
 
-[[Yrjö Engeström|Engeström]]（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 模型基础上增加了三个社会维度，将分析单元扩展为集体活动系统（Wang & McLaughlin, 2025, p.590）：
+Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 模型基础上增加了三个社会维度，将分析单元扩展为集体活动系统（Wang & McLaughlin, 2025, p.590）：
 
 - **主体（Subject）**：参与活动的个体或群体
 - **客体（Object）**：活动的目标
@@ -85,8 +81,8 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 ## 发展脉络
 
 > [!note]
-> - **[[Lev Vygotsky|Vygotsky]]（1978）** — 提出第一代中介三角模型：主体—中介工具—客体。认知发展源于人通过文化工具与外部世界的互动
-> - **[[Yrjö Engeström|Engeström]]（1987）** — 发展为第二代活动理论，增加共同体、规则和劳动分工三个社会维度，将活动概念化为集体性、对象导向的文化形构。著作 Learning by Expanding
+> - **Vygotsky（1978）** — 提出第一代中介三角模型：主体—中介工具—客体。认知发展源于人通过文化工具与外部世界的互动
+> - **Engeström（1987）** — 发展为第二代活动理论，增加共同体、规则和劳动分工三个社会维度，将活动概念化为集体性、对象导向的文化形构。著作 Learning by Expanding
 > - **Engeström（2001）** — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越。提出"扩展性学习"（expansive learning）和"扩展性改造"概念，认为矛盾可以是变革的来源
 
 ---
@@ -111,11 +107,8 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 
 > [!success]
 > - **教育改革分析**：用于理解不同教育目标系统之间的张力与可能的协同——如[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 的关系（Wang & McLaughlin, 2025）
-> - **组织学习与变革**：[[Yrjö Engeström|Engeström]] 最初将活动理论应用于工作场所的学习和创新，分析不同专业团队之间的边界跨越
+> - **组织学习与变革**：Engeström 最初将活动理论应用于工作场所的学习和创新，分析不同专业团队之间的边界跨越
 > - **教师专业发展**：分析教师学习如何在个人信念、学校制度和外部改革压力之间的互动中发生
 
 ---
 
-## 来源
-
-- [[Wang_2025_CE]]

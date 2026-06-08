@@ -21,12 +21,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
-related_persons:
-  - "[[John Locke]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -52,7 +49,7 @@ updated: 2026-05-30
 ## 理论基础
 
 > [!tip]
-> 后实证主义传统可追溯至 19 世纪的 Comte、Mill、Durkheim、Newton 和 [[John Locke|Locke]]（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键假设。
+> 后实证主义传统可追溯至 19 世纪的 Comte、Mill、Durkheim、Newton 和 Locke（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键假设。
 > - 知识是推测性的（反基础主义的），绝对真理永远无法被找到。因此，研究者不"证明"假设，只指出未能拒绝假设。
 > - 研究是提出主张、然后完善或放弃一些主张以换取更有力证据支持的主张的过程。
 > - 数据、证据和理性考量塑造知识。
@@ -65,6 +62,3 @@ updated: 2026-05-30
 > - vs [[Constructivist Paradigm]] — 后实证主义从既有理论出发进行演绎检验，建构主义从数据出发进行归纳生成。前者追求客观性和可推广性，后者注重参与者的主观意义和情境理解。
 > - vs [[Pragmatic Paradigm]] — 实用主义不以任何单一哲学体系为皈依，关注问题的实际解决，不追求理论的真伪检验。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

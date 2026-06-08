@@ -9,12 +9,8 @@ extracted_to:
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
   - "[[Walter Mignolo]]"
-  - "[[Marcelo Parreira do Amaral]]"
   - "[[Jane Knight]]"
-  - "[[Christiane Thompson]]"
   - "[[Critical Geopolitics]]"
-  - "[[Decolonial Geopolitics of Knowledge]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Minerva University]]"
   - "[[International Education Hubs]]"
 processed_date: 2026-05-07

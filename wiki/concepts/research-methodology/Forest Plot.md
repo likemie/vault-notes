@@ -19,10 +19,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Karl Pearson]]"
-  - "[[Gene Glass]]"
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
@@ -67,7 +64,7 @@ updated: '2026-06-08'
 ## 历史
 
 > [!note] 历史
-> [[Karl Pearson|Karl Pearson]] 在 1904 年的伤寒疫苗分析中，将每项研究结果以独立行呈现，列出效果测量值和研究内不确定性，最后一行给出平均相关系数。Higgins（2016）指出这种呈现方式"预示了后来森林图的标准形式"（p.33）。现代森林图作为[[Meta-analysis|元分析]]的标准可视化工具，在 [[Gene Glass|Glass]] 命名元分析之后逐渐成为研究报告的标配。
+> [[Karl Pearson|Karl Pearson]] 在 1904 年的伤寒疫苗分析中，将每项研究结果以独立行呈现，列出效果测量值和研究内不确定性，最后一行给出平均相关系数。Higgins（2016）指出这种呈现方式"预示了后来森林图的标准形式"（p.33）。现代森林图作为[[Meta-analysis|元分析]]的标准可视化工具，在 Glass 命名元分析之后逐渐成为研究报告的标配。
 
 ---
 
@@ -80,6 +77,3 @@ updated: '2026-06-08'
 
 ---
 
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

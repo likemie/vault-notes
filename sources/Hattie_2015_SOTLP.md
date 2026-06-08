@@ -5,15 +5,7 @@ extracted_to:
   - "[[Constructive Alignment]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
-  - "[[John Biggs]]"
-  - "[[Carl Bereiter]]"
-  - "[[Thomas Aastrup Rømer]]"
-  - "[[Popper's Three Worlds Theory]]"
-  - "[[Surface and Deep Learning]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[Feedback]]"
-  - "[[John Hattie]]"
-  - "[[Visible Learning]]"
   - "[[Class Size]]"
 processed_date: 2026-05-04
 ---

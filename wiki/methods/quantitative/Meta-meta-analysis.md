@@ -46,25 +46,12 @@ related_methods:
   - "[[Comparative Meta-synthesis]]"
   - "[[Intervention Research]]"
 related_persons:
-  - "[[John Hattie]]"
-  - "[[Robert Marzano]]"
   - "[[Gene Glass]]"
 related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Wrigley_2019_ERE]]"
-sources:
-  - "[[Snook_2009_NZJES]]"
-  - "[[Terhart_2011_JCS]]"
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Higgins_2016_RE]]"
-  - "[[Wecker_2016_ZfE]]"
-  - "[[Simpson_2017_JEP]]"
-  - "[[Simpson_2019_ERE]]"
-  - "[[OConnor_2020_AJLL]]"
-  - "[[Johnson_2023_CE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[PISA]]"
@@ -80,7 +67,7 @@ updated: '2026-05-21'
 > [!info] 定义
 > 元-[[Meta-analysis|元分析]]（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"（Terhart, 2011, p.436）。与普通[[Meta-analysis|元分析]]综合原始研究不同，元-元分析综合的是已聚合的[[Effect Size|效应量]]，从而大幅扩大参照范围（Terhart, 2011, p.436）。
 >
-> > 例：[[John Hattie|Hattie]] (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用（Terhart, 2011, pp.427–428）。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将效应量转换为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
+> > 例：Hattie (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用（Terhart, 2011, pp.427–428）。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将效应量转换为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
 >
 > Hattie 本人坚持其工作不是"元分析的元分析"，而是"综合"（synthesis）——但 Snook et al.（2009, p.94）指出，根据 Evidence Informed Policy Network 的定义，"研究综合"必须包含协议制定、系统和明确方法的使用、数据收集、分析、解释和结果报告，而 Hattie 声称不关心纳入研究的质量，这与综合的方法论要求直接矛盾。
 >
@@ -99,18 +86,18 @@ updated: '2026-05-21'
 > | super-synthesis | Sipe & Curlette (1996) | 强调综合过程 |
 > | meta-synthesis | Sipe & Curlette (1996); Higgins (2016) | 当前较通用的术语 |
 >
-> Higgins（2016）区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 [[John Hattie|Hattie]], 1992; [[Robert Marzano|Marzano]], 1998）。后者面临更深层的可比性挑战。
+> Higgins（2016）区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 Hattie, 1992; Marzano, 1998）。后者面临更深层的可比性挑战。
 
 ---
 
 ## 历史发展
 
 > [!note] 历史发展
-> **Fraser, Walberg & [[John Hattie|Hattie]]（1987）——首次大规模元综合**
+> **Fraser, Walberg & Hattie（1987）——首次大规模元综合**
 >
-> [[Gene Glass|Glass]] 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及（Higgins, 2016, pp.41–42）。
+> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及（Higgins, 2016, pp.41–42）。
 >
-> **[[John Hattie|Hattie]]（1992）——"通用连续体"**
+> **Hattie（1992）——"通用连续体"**
 >
 > Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500–1500 万学生。他引入"通用连续体"（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。最大效应量来自反馈相关干预（强化 1.13、补救与反馈 0.65、掌握学习 0.50），最低来自[[Individualised Instruction|个别化教学]]（0.14）。Hattie 得出三个结论：创新可以改善学习；反馈是最强大的单一影响；最不成功的创新是试图个别化教学的尝试（Higgins, 2016, p.42）。
 >
@@ -118,9 +105,9 @@ updated: '2026-05-21'
 >
 > Sipe & Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.（1987）和 Hattie（1992）的重叠不到 10%（Higgins, 2016, p.43）。
 >
-> **[[Robert Marzano|Marzano]]（1998）——理论驱动的元综合**
+> **Marzano（1998）——理论驱动的元综合**
 >
-> [[Robert Marzano|Marzano]] 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、元认知、自我系统）分类教学策略，追求课堂实践的可操作性（Higgins, 2016, p.43）。
+> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、元认知、自我系统）分类教学策略，追求课堂实践的可操作性（Higgins, 2016, p.43）。
 >
 > > [!warning] "品牌名"聚合的具体案例
 > > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.（1987），其中"现代数学"这个品牌名下包含多种不同成分：
@@ -130,7 +117,7 @@ updated: '2026-05-21'
 > >
 > > 将这些聚合为单一品牌，掩盖了关于教学有效性的关键发现。更细粒度的类别才能为教师的课堂实践提供足够具体的指导（Higgins, 2016, p.43）。
 >
-> **[[John Hattie|Hattie]]（2008）——[[Visible Learning]]**
+> **Hattie（2008）——[[Visible Learning]]**
 >
 > Hattie 综合 800 多项元分析，发现平均效应量仍约为 0.4——他将此作为判断"什么有效"的关节点（hinge point）。这一稳定性本身引发讨论：它既可能代表教育干预的典型效果，也可能反映元分析方法的系统性特征（Higgins, 2016, pp.43–44）。
 
@@ -147,7 +134,7 @@ updated: '2026-05-21'
 
 ## 操作步骤
 
-> [!example] [[John Hattie|Hattie]] 的元-[[Meta-analysis|元分析]]程序
+> [!example] Hattie 的元-[[Meta-analysis|元分析]]程序
 > Terhart（2011, pp.426–428）描述了 Hattie 的操作步骤：
 >
 > 1. **确定影响因素分组**：将影响因素分为 6 组——学生、家庭、学校、教师、课程、教学方法（各组平均[[Effect Size|效应量]]分别为 0.40, 0.31, 0.23, 0.49, 0.45, 0.42，见表 1, p.428）
@@ -237,7 +224,7 @@ updated: '2026-05-21'
 > [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，再做新的元分析只是"more of the same"时，元-元分析提供了更高层次的综合视角（Terhart, 2011, p.436）
 > - 适合为政策制定者和实践者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
-> - 在 [[John Hattie|Hattie]] 的自我解释中，二级综合还承担一种”生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
+> - 在 Hattie 的自我解释中，二级综合还承担一种”生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
 
 > [!note] 推论层级的约束
 > Higgins（2016）区分了两种不同的跨元分析比较。**[[Comparative Meta-synthesis|比较性元分析]]**是在单一元分析中纳入多种干预以识别哪种更有效，回答的是”X 是否比 Y 更有效”。**[[Comparative Meta-synthesis|比较性元综合]]**是通过跨元分析比较来得出推论。两者都面临”苹果和橙子”批评的升级版（Higgins, 2016, pp.40–41）。
@@ -255,7 +242,7 @@ updated: '2026-05-21'
 > [!warning] 概念基础：被聚合对象不测量有效性
 > **Simpson（2017）——联盟表是"研究设计操纵开放程度"的排名。** Simpson（2017, pp.5, 14–15）论证：三个系统性偏差（比较组不对等、范围限制、测量设计）随研究领域系统性变化——反馈和元认知研究容易使用无反馈比较、限制样本、设计聚焦测试；延长学校日或校服研究无法如此。因此，[[Effect Size|效应量]]排名高的领域仅说明研究者**更容易设计低噪声试验**，而非干预更具教育影响力。
 >
-> > "Areas which rank highly in [[Robert Marzano|Marzano]] (1998), [[John Hattie|Hattie]] (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments." (Simpson, 2017, p.2)
+> > "Areas which rank highly in Marzano (1998), Hattie (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments." (Simpson, 2017, p.2)
 >
 > > 例：反馈研究的效应量系统性高于早期[[Intervention Research|干预研究]]——不是因为反馈更有效，而是因为反馈研究者可以轻松设计高度聚焦的测试（仅 9/68 个效应量使用标准化测试），而早期干预研究者几乎必须使用标准化测量（37/39 个效应量）（Simpson, 2017, pp.13–14）。
 >
@@ -274,7 +261,7 @@ updated: '2026-05-21'
 > **Wecker et al.（2016）——6 项方法论要求的系统性违背。** Wecker, Vogel & Hetmanek（2016）以[[Fixed-Effect and Random-Effects Models|固定效应模型]]为数学基准，推导了二级元分析必须满足的 6 项方法论要求（详见上方[[#6 项方法论要求]]），并证明 Hattie 的 *[[Visible Learning]]* 在所有六个分析步骤中均存在方法论不足（Wecker et al., 2016, pp.26–30）。关键发现：
 >
 > - **[[School Effectiveness|SE]]/SD 混淆**：在个别一级元分析的主要研究中，标准误被错误地当作标准差使用——例如 Eisenstaedt 等人（1990）中控制组 SE=2.74 被当作 SD 处理，导致效应量从约 −0.80 变为 −8.29（Wecker et al., 2016, pp.26–27）
-> - **效应量测度混合使用不做转换**：Hattie 交替使用 Cohen's d、Hedges' g、[[Gene Glass|Glass]]' Δ 和 Fisher's z，但二级汇总时直接合并而不做相互转换——"如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的"（Wecker et al., 2016, p.27）
+> - **效应量测度混合使用不做转换**：Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但二级汇总时直接合并而不做相互转换——"如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的"（Wecker et al., 2016, p.27）
 > - **声称固定效应模型但实际使用未加权平均**：正确加权后效应量从 0.59 变为 0.23，排名从 #26 跌至 #98（Wecker et al., 2016, pp.29–30）
 > - **误差传播**：一级中的偏差在二级汇总时作为"输入"，即使二级本身执行正确也无法纠正一级的偏差（Wecker et al., 2016, p.33）
 >
@@ -348,7 +335,7 @@ updated: '2026-05-21'
 >
 > **关键的对比**：在《可见的学习》800 多项元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
 >
-> **Hattie 自己的话**："当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）O'Connor 指出这与元分析创始人 Gene Glass（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
+> **Hattie 自己的话**："当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）O'Connor 指出这与元分析创始人 [[Gene Glass]]（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
 
 ---
 
@@ -363,7 +350,7 @@ updated: '2026-05-21'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Visible Learning]] — [[John Hattie|Hattie]]（2009）的 800 多项[[Meta-analysis|元分析]]综合，该方法的标志性应用（Terhart, 2011）
+> - [[Visible Learning]] — Hattie（2009）的 800 多项[[Meta-analysis|元分析]]综合，该方法的标志性应用（Terhart, 2011）
 > - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 以[[Effect Size|效应量]]排名 30+ 类教育干预的联盟表工具（Wrigley & McCusker, 2019）
 > - [[Argument_Wecker_2016_ZfE]] — 从[[Fixed-Effect and Random-Effects Models|固定效应模型]]数学基础对 Hattie 的《可见的学习》进行系统性的内部和外部方法论批判（Wecker et al., 2016）
 > - [[Argument_Simpson_2017_JEP]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名（Simpson, 2017）
@@ -377,20 +364,8 @@ updated: '2026-05-21'
 
 
 - **Terhart（2011）暗示的方向**：(1) 更严格的质量控制和纳入标准透明度；(2) 承认元-[[Meta-analysis|元分析]]结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）（Terhart, 2011, p.436）
-- **Wecker et al.（2016, p.35）提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 [[John Hattie|Hattie]] 这样的项目"
+- **Wecker et al.（2016, p.35）提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目"
 - **Pawson（2006）提出实在论综合（Realist Synthesis）**：基于因果理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出（Wrigley & McCusker, 2019, pp.119, 123）
 
 ---
 
-## 来源
-
-- [[Snook_2009_NZJES]]
-- [[Terhart_2011_JCS]]
-- [[Hattie_2015_Paideia]]
-- [[Allerup_2015_Paideia]]
-- [[Higgins_2016_RE]]
-- [[Wecker_2016_ZfE]]
-- [[Simpson_2017_JEP]]
-- [[Simpson_2019_ERE]]
-- [[OConnor_2020_AJLL]]
-- [[Johnson_2023_CE]]

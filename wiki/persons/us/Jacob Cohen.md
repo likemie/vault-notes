@@ -19,8 +19,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments: []
 confidence: low
 status: draft
@@ -56,13 +55,13 @@ citation_name: Cohen
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effect Size]] — Cohen 引入并推广了标准化均值差的解释框架，后来教育研究中的 Cohen's d 成为[[Meta-analysis|元分析]]和 [[John Hattie|Hattie]] VL 排名的核心统计语言（Allerup, 2015, p.43）。
+> - [[Effect Size]] — Cohen 引入并推广了标准化均值差的解释框架，后来教育研究中的 Cohen's d 成为[[Meta-analysis|元分析]]和 Hattie VL 排名的核心统计语言（Allerup, 2015, p.43）。
 > - [[Statistical Significance]] — Cohen 的效应量框架与显著性检验不同：效应量描述差异大小，显著性检验判断观察到的差异是否足以拒绝"无差异"假设；二者只有在给定样本量时才发生联系，例如 `t=d√n`（Allerup, 2015, p.45）。
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> Cohen 的阈值经 [[John Hattie|Hattie]] 的 [[Visible Learning]] 被重新包装为面向教育实践的排序工具。Hattie 将 d=0.40 设为"期望效应"边界，但从统计检验角度看，这一数值与 p 值的关系依赖样本量；以 n=25 为例，d≈0.412 才对应双侧 t 检验的 p≈0.05 临界值（Allerup, 2015, p.45）。因此，Cohen 原本带有谨慎条件的参照框架，在教育政策传播中容易被误读为跨情境的行动阈值。
+> Cohen 的阈值经 Hattie 的 [[Visible Learning]] 被重新包装为面向教育实践的排序工具。Hattie 将 d=0.40 设为"期望效应"边界，但从统计检验角度看，这一数值与 p 值的关系依赖样本量；以 n=25 为例，d≈0.412 才对应双侧 t 检验的 p≈0.05 临界值（Allerup, 2015, p.45）。因此，Cohen 原本带有谨慎条件的参照框架，在教育政策传播中容易被误读为跨情境的行动阈值。
 
 ## 争议与批评
 

@@ -20,6 +20,8 @@ related_methods:
 related_persons:
   - "[[Terry Wrigley]]"
 related_arguments: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 confidence: low
 status: draft
 created: '2026-05-01'
@@ -42,9 +44,9 @@ citation_name: McCusker
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Evidence-Based Education]] — 与 Wrigley 合作，通过 EEF Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
+> - [[Evidence-Based Education]] — 与 Wrigley 合作，通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126.
+> - [[Terry Wrigley|Wrigley, T]]., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126.

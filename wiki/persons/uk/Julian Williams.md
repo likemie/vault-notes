@@ -12,7 +12,9 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Maria Pampaka]]"
+  - "[[Matt Homer]]"
 related_arguments: []
 confidence: low
 status: draft
@@ -43,7 +45,7 @@ citation_name: Williams
 
 > [!abstract] 主要著作
 > - Williams, J. & Ryan, J. (2013). Research, policy, and professional development: Designing hybrid activities in third spaces. In V. Farnsworth & Y. Solomon (Eds.), *Reframing educational research: Resisting the 'what works' agenda* (pp. 200–212). Routledge.
-> - Pampaka, M., Williams, J., & Homer, M. (Eds.) (2016). [Special issue]. *International Journal of Research & Method in Education*, 39(3).
+> - [[Maria Pampaka|Pampaka, M]]., Williams, J., & [[Matt Homer|Homer, M]]. (Eds.) (2016). [Special issue]. *International Journal of Research & Method in Education*, 39(3).
 
 ## 思想发展与影响
 

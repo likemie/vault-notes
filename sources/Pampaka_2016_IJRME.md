@@ -4,10 +4,6 @@ extracted_to:
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Julian Williams]]"
-  - "[[Maria Pampaka]]"
-  - "[[Matt Homer]]"
-  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-02

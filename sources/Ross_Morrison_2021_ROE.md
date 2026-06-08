@@ -7,7 +7,6 @@ extracted_to:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
-  - "[[Statistical Significance]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -17,7 +16,6 @@ extracted_to:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Technology Infusion]]"
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-23
 ---

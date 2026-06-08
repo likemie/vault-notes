@@ -22,14 +22,10 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Rasch Measurement]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Wecker_2016_ZfE]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -70,7 +66,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 只给点估计的[[Effect Size|效应量]]表不像带有横向误差范围的排名那样呈现估计精度，因此无法知道 d=0.71 与 d=0.72 这类相邻值是否有统计上可区分的差异（Allerup, 2015, p.47）。
-> - [[John Hattie|Hattie]] 的二级综合通常不进行显著性检验或不给出效应量估计的置信区间；对于效应量较小的因素，是否存在效应因此并不清楚（Wecker et al., 2016, p.30）。
+> - Hattie 的二级综合通常不进行显著性检验或不给出效应量估计的置信区间；对于效应量较小的因素，是否存在效应因此并不清楚（Wecker et al., 2016, p.30）。
 
 ## 报告实践问题
 
@@ -81,10 +77,6 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Visible Learning]] — [[John Hattie|Hattie]] 排名仅列出 d 值，未系统报告各干预的 CI/[[School Effectiveness|SE]]，成为 Allerup 和 Wecker et al. 方法论批评的共同焦点。
+> - [[Visible Learning]] — Hattie 排名仅列出 d 值，未系统报告各干预的 CI/[[School Effectiveness|SE]]，成为 Allerup 和 Wecker et al. 方法论批评的共同焦点。
 > - [[Rasch Measurement]] — [[PISA]] 等国际评估中的 Rasch 分数排名通常伴随误差区间，能帮助读者避免过度解释相邻排名（Allerup, 2015, pp.47–48）。
 
-## 来源
-
-- [[Allerup_2015_Paideia]]
-- [[Wecker_2016_ZfE]]

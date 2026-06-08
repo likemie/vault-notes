@@ -45,9 +45,6 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Bertrand Russell]]"
-  - "[[Karl Pearson]]"
-  - "[[Robert Marzano]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Cognition Education]]"
@@ -67,23 +64,6 @@ related_facts:
   - "[[Danish Public School Reform]]"
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-sources:
-  - "[[ONeill_2016_Report]]"
-  - "[[Johnson_2023_CE]]"
-  - "[[Rightness]]"
-  - "[[Sarbiewska_2019_JSR]]"
-  - "[[Laursen_2015_Paideia]]"
-  - "[[Effective Teaching]]"
-  - "[[Qvortrup_2019_NordSTEP]]"
-  - "[[Golovchin_2019_ESC]]"
-  - "[[Eacott_2017_SLM]]"
-  - "[[Cult of the Guru]]"
-  - "[[Eacott_2019_IJLE]]"
-  - "[[Terhart_2011_JCS]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[McKnight_2020_Discourse]]"
-  - "[[ONeill_2012_NZJES]]"
-  - "[[Blass_2020_JESP]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -103,7 +83,7 @@ updated: '2026-05-18'
 >
 > #### asTTle / e-asTTle：数据与技术前身
 >
-> 1999/2000 年，[[John Hattie|Hattie]] 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
+> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"（O'Neill et al., 2016, p.47）。
 >
@@ -119,7 +99,7 @@ updated: '2026-05-18'
 >
 > Cognition Education 前 CEO Terry Bates 描述了 VL 商业化的启动：
 >
-> > "John Hattie, then an academic at the University of Auckland and also a member of the Cognition board, had approached the company looking for a new home for the nascent commercial platform that had been developed out of his landmark [[Meta-analysis]] of impactful teacher practice, Visible Learning (VL), published two years earlier"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
+> > "[[John Hattie]], then an academic at the University of Auckland and also a member of the Cognition board, had approached the company looking for a new home for the nascent commercial platform that had been developed out of his landmark [[Meta-analysis]] of impactful teacher practice, Visible Learning (VL), published two years earlier"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
 >
 > > "The key focus was converting the critical principles of the VL research to a graduated professional learning curriculum (targeted at teachers and school leaders) that could be modularised and sold as such. In return Hattie received a royalty on all VL-related income"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
 >
@@ -148,7 +128,7 @@ updated: '2026-05-18'
 > - **Collaborative Impact 系列**：学校整体改进工作坊
 > - **学校认证**：学校可申请被评估认证为 Visible Learning Impact Certified School
 >
-> Cognition Education 同时运营 VLplus 在线"社区"（Newsfeeds、视频、博客）。姊妹产品 Culture Countsplus 与 [[Bertrand Russell|Russell]] Bishop 教授合作开发（O'Neill et al., 2016, p.67）。
+> Cognition Education 同时运营 VLplus 在线"社区"（Newsfeeds、视频、博客）。姊妹产品 Culture Countsplus 与 Russell Bishop 教授合作开发（O'Neill et al., 2016, p.67）。
 >
 > #### 产品体系（Corwin 收购后，2018–）
 >
@@ -241,7 +221,7 @@ updated: '2026-05-18'
 > - ERO 阐明有效教师的特征，强调灵活回应和差异化教学（ERO, cited in Sarbiewska, 2019, p.127）
 > - 新西兰教育部认可"分享权力和学习责任"（*Leading Innovative Learning in New Zealand Schools*, 2018, cited in Sarbiewska, 2019, p.125）
 > - 实施 [[The New Zealand Curriculum]]（2010），包含八项原则，各校设计独特学习项目；ERO 定期评估课程原则在课堂中的落实情况
-> - **2015 年 6 月**：Hattie 接受 RNZ *Nine to Noon* 采访，宣传 [[Karl Pearson|Pearson]] 发布的两篇思想领导力文章
+> - **2015 年 6 月**：Hattie 接受 RNZ *Nine to Noon* 采访，宣传 Pearson 发布的两篇思想领导力文章
 > - **2015 年 12 月**：ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用了这两篇文章（O'Neill et al., 2016, p.51）
 > - Cognition Education 的 VLplus 工作坊和学校认证在新西兰本土市场持续运营，与教育部合同形成协同（O'Neill et al., 2016, pp.67–68）
 >
@@ -252,7 +232,7 @@ updated: '2026-05-18'
 > PISA 2001 同样揭示澳大利亚成绩差异主要在校内，政策重点从外部因素转向师生互动质量（Sarbiewska, 2019, p.123–125）。
 >
 > **政策采纳路径**（Sarbiewska, 2019, p.126–128）：
-> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 [[Robert Marzano|Marzano]] 的研究，每项均以 VL 为首要参考文献
+> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
 > - [[ResearchED]] Australia（[[Australian Council for Educational Research|ACER]], 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习
@@ -297,7 +277,7 @@ updated: '2026-05-18'
 > [!success] 影响与后果
 > ### 品牌对批评的免疫
 >
-> VL 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、Terhart (2011)、Bergeron & Rivard (2017) 等实质性方法论批评，[[John Hattie|Hattie]] 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"（Eacott, 2019, p.777）。
+> VL 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、Terhart (2011)、Bergeron & Rivard (2017) 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"（Eacott, 2019, p.777）。
 >
 > **出版过程的双重标准**：Hattie（2017）对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"（Eacott, 2019, p.777）。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（Eacott, 2019, p.778）。
 >
@@ -359,7 +339,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - Johnson & Janzen（2023）质疑全球有多少公共资金被转移到 VL 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
-> - 品牌对学术批评的免疫力——[[John Hattie|Hattie]] 的回应被期刊两天内接收发表，批评者原论文经历数月多轮评审（Eacott, 2019, p.777）
+> - 品牌对学术批评的免疫力——Hattie 的回应被期刊两天内接收发表，批评者原论文经历数月多轮评审（Eacott, 2019, p.777）
 > - Eacott 被编辑拒绝发表对 Hattie 回应的再回应，揭示了学术出版中对话和辩论的低优先级（Eacott, 2019, p.778）
 > - [[Cognition Education|Cognition Education Trust]] 的慈善捐赠仅占集团总收入的 0.9%（2015 年），引发对其慈善信托地位的质疑（O'Neill et al., 2016, pp.71–73）
 > - 一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满（Eacott, 2019, p.776）
@@ -368,7 +348,7 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - **1999/2000** — [[John Hattie|Hattie]] 受教育部委托开发 asTTle（VL 的数据与技术前身）
+> - **1999/2000** — Hattie 受教育部委托开发 asTTle（VL 的数据与技术前身）
 > - **2006** — Hattie 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事；Auckland Uniservices Ltd 注册 [[Visible Learning]] 商标（2008 年"放弃"），同时创建 Visible Learning Labs
 > - **2007** — Multi Serve Education Trust 注册全资子机构 Multi Serve Limited
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事
@@ -391,7 +371,7 @@ updated: '2026-05-18'
 > - [[Educational Management Organisation]] — [[Cognition Education|Cognition Education]] 作为 EMO 的角色
 > - [[Performativity of Measurement]] — VL 商业产品中的测量施行性
 > - [[Cult of the Guru]] — 大师地位对商业品牌的加持
-> - [[Policy Entrepreneur]] — [[John Hattie|Hattie]] 作为政策创业者的角色
+> - [[Policy Entrepreneur]] — Hattie 作为政策创业者的角色
 > - [[Neo-Taylorism]] — VL 作为"新时代的泰勒主义"
 > - [[New Zealand National Standards]] — Hattie 参与技术顾问的新西兰国家教育标准
 > - [[Treasury Briefing on Student-Teacher Ratios]] — NZ Treasury 援引 VL 证据建议增加生师比
@@ -399,25 +379,3 @@ updated: '2026-05-18'
 > - [[Russian Translation of Visible Learning]] — VL 俄文版及其在俄学界的反响
 > - [[Victorian HITS and Literacy Toolkit]] — VL 在维州官方的制度化
 
-## 来源
-
-品牌起源与商业化：
-- [[ONeill_2016_Report]] — VL 品牌化的最全面研究，覆盖商标、财务、治理和利益冲突
-- [[Johnson_2023_CE]] — 四角度批判，新自由主[[Rightness|义]]商业化与利益冲突分析
-
-各国政策采纳：
-- [[Sarbiewska_2019_JSR]] — 新西兰和澳大利亚两国政策采纳比较
-- [[Laursen_2015_Paideia]] — VL 等国际[[Effective Teaching|有效教学]]综合在丹麦的适用性检验
-- [[Qvortrup_2019_NordSTEP]] — 为 VL 在丹麦的应用辩护，提出解释社群分析
-- [[Golovchin_2019_ESC]] — 建议俄罗斯教育政策不应采用 VL
-
-传播网络与品牌化：
-- [[Eacott_2017_SLM]] — VL 品牌衍生、ACEL 网络和[[Cult of the Guru|大师崇拜]]批判
-- [[Eacott_2019_IJLE]] — 学术出版对批评的免疫，VL 的霸权性存在
-- [[Terhart_2011_JCS]] — 早期记录 VL 在新西兰的争议与政策语境
-- [[Hattie_2015_SOTLP]] — 将 VL 综合方法应用于高等教育，提出 DIE 模型和八项思维框架
-- [[McKnight_2020_Discourse]] — VL 作为话语现象的全球传播分析
-
-政策误用与批评：
-- [[ONeill_2012_NZJES]] — 新西兰 Treasury 政策误用与术语口号化的经典案例
-- [[Blass_2020_JESP]] — 澳大利亚国家层面批评，VL 作为"不改变的好借口"

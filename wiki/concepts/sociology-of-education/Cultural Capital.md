@@ -34,8 +34,6 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -80,7 +78,7 @@ updated: 2026-05-18
 
 > [!abstract]
 
-[[Pierre Bourdieu|Bourdieu]] 区分文化资本的三种存在形态：
+Bourdieu 区分文化资本的三种存在形态：
 
 - **具身化文化资本（Embodied Cultural Capital）**：内化于个体身体和心智中的持久倾向——如语言能力、审美品味、行为举止、思考方式。它需要时间投入来累积，且无法像金钱那样即时传递。[[Yajun Zheng|郑雅君]]（2023）第三章的核心关注正是家庭背景如何转化为这种"具身化的文化资本"——它表现为学生在大学中对[[Champ|场域]]规则的直觉性理解或不理解
 - **客体化文化资本（Objectified Cultural Capital）**：以物质对象形式存在的文化产品——如书籍、艺术品、工具等。拥有这些物品需要经济资本，但真正"占有"其文化意义则需要具身化文化资本
@@ -145,7 +143,3 @@ updated: 2026-05-18
 
 ---
 
-## 来源
-
-- Eacott, S. (2011). New look leaders or a new look at leadership? *Journal of Educational Administration and History*, 43(1).
-- [[Zheng_2023_ShanghaiSanlian]]

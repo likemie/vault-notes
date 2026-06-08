@@ -24,8 +24,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2019_ERE]]"
@@ -72,7 +71,7 @@ citation_name: Simpson
 
 
 > [!info] 三大系统性偏差：效应量是试验灵敏度而非有效性（2017）
-> Simpson（2017）的核心论证是：效应量不是干预有效性的测量，而是"试验设计得如何使效应可见"的指标。这一区分对EBT方法论基础构成根本性挑战——如果效应量测量的是研究设计特征而非干预效果，那么基于效应量比较的整个证据等级体系（[[John Hattie|Hattie]] 的 [[Visible Learning]]、[[EEF Teaching and Learning Toolkit]]）就失去了有效性基础（Simpson, 2017, pp.5, 14–15）。
+> Simpson（2017）的核心论证是：效应量不是干预有效性的测量，而是"试验设计得如何使效应可见"的指标。这一区分对EBT方法论基础构成根本性挑战——如果效应量测量的是研究设计特征而非干预效果，那么基于效应量比较的整个证据等级体系（Hattie 的 [[Visible Learning]]、[[EEF Teaching and Learning Toolkit]]）就失去了有效性基础（Simpson, 2017, pp.5, 14–15）。
 >
 > > "Good experimenters legitimately manipulate d (as they might manipulate sample size) to enhance the sensitivity of their experiments to the impact of the interventions, but their freedom to do so varies between educational contexts." (Simpson, 2017, p.5)
 >
@@ -126,7 +125,7 @@ citation_name: Simpson
 > - [[Meta-analysis]] — 论证元分析的两项核心假设（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机（Simpson, 2017, pp.4–5）
 > - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"（Simpson, 2017, p.15）
 > - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本分析单位，而效应量本身已被证明不可靠（Simpson, 2017）
-> - [[Visible Learning]] — 论证 [[John Hattie|Hattie]] 的"影响气压计"排名反映的是各领域研究者设计敏感试验的难易程度（Simpson, 2017, p.2）
+> - [[Visible Learning]] — 论证 Hattie 的"影响气压计"排名反映的是各领域研究者设计敏感试验的难易程度（Simpson, 2017, p.2）
 
 ## 思想发展与影响
 

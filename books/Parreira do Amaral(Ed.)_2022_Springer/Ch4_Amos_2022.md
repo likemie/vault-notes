@@ -14,8 +14,6 @@ extracted_to:
   - "[[Transitology]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
-  - "[[Francisco Varela]]"
-  - "[[Humberto Maturana]]"
   - "[[Arturo Escobar]]"
   - "[[Julian Huxley]]"
   - "[[Donna Haraway]]"

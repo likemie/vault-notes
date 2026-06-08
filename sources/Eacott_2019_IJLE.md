@@ -5,11 +5,7 @@ extracted_to:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Parallel Monologues]]"
-  - "[[Scott Eacott]]"
-  - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
 processed_date: 2026-05-03
 ---
 

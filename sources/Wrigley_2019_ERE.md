@@ -3,18 +3,11 @@ citation: "Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple
 extracted_to:
   - "[[Playing for Success]]"
   - "[[ResearchED]]"
-  - "[[Gert Biesta]]"
   - "[[Gary Thomas]]"
   - "[[Ray Pawson]]"
   - "[[Roy Bhaskar]]"
-  - "[[Sean McCusker]]"
-  - "[[Terry Wrigley]]"
   - "[[Critical Realism]]"
   - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Adrian Simpson]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Effect Size]]"
-  - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01

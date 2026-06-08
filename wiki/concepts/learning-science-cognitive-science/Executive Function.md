@@ -18,12 +18,9 @@ related_concepts:
 related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -33,7 +30,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 执行功能（Executive Function, EF）是一个涵盖性术语（umbrella term），指一组高阶、通用目的的控制过程，用于调节多种认知功能（如思维和行为）以实现特定目标（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
+> 执行功能（Executive Function, EF）是一个涵盖性术语（umbrella term），指一组高阶、通用目的的控制过程，用于调节多种认知功能（如思维和行为）以实现特定目标（Bolton & Hattie, 2017, p.4）。
 >
 > > "Executive function (EF) is an umbrella term for a set of higher order, general purpose control processes that regulate a number of different cognitive functions (such as thought and behavior) for the attainment of a specific goal."（Bolton & Hattie, 2017, p.4）
 >
@@ -44,14 +41,14 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > EF 由三个基本但相互关联的成分构成（[[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]]）：
 >
-> - **抑制（[[Cognitive Inhibition|inhibition]]）** — 在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & [[John Hattie|Hattie]], 2017, p.4）
+> - **抑制（[[Cognitive Inhibition|inhibition]]）** — 在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & Hattie, 2017, p.4）
 > - **转换（Shifting）** — 亦称[[Cognitive Shifting|认知灵活性]]或任务切换，指在多个不同任务、操作或心理集之间来回切换的能力（Bolton & Hattie, 2017, p.5）
 > - **[[Updating and Monitoring|更新与监控]]（Updating and Monitoring）** — 动态操纵[[Working Memory|工作记忆]]所保持内容的能力（Bolton & Hattie, 2017, p.5）
 
 ## 发展轨迹
 
 > [!note-] 发展轨迹
-> EF 在学龄期间持续改善，从约 16 岁到 30 岁出头改善速率逐渐下降（Bolton & [[John Hattie|Hattie]], 2017, p.5）。三种 EF 成分的发展轨迹略有不同：
+> EF 在学龄期间持续改善，从约 16 岁到 30 岁出头改善速率逐渐下降（Bolton & Hattie, 2017, p.5）。三种 EF 成分的发展轨迹略有不同：
 >
 > - 抑制最早发展，略早于转换和更新（Bolton & Hattie, 2017, p.10）
 > - 三种成分均在 3–5 岁出现大幅年龄相关变化或"铰链点"（Bolton & Hattie, 2017, p.10）
@@ -60,17 +57,14 @@ updated: '2026-05-18'
 ## 与学业成就的关系
 
 > [!info] 与学业成就的关系
-> 大量证据表明 EF 的发展是学业表现的主要预测因素。多项纵向研究表明 EF 对学业成就有贡献，而非反之（Bolton & [[John Hattie|Hattie]], 2017, p.4）。时间因素在认知发展中尤为重要，往往是比智力和 IQ 更准确的学业成就变异预测指标（Bolton & Hattie, 2017, p.5）。
+> 大量证据表明 EF 的发展是学业表现的主要预测因素。多项纵向研究表明 EF 对学业成就有贡献，而非反之（Bolton & Hattie, 2017, p.4）。时间因素在认知发展中尤为重要，往往是比智力和 IQ 更准确的学业成就变异预测指标（Bolton & Hattie, 2017, p.5）。
 
 ## 与情绪和社会发展的关联
 
-EF 还与儿童的情绪成长和发展相关，包括但不限于道德和沟通行为以及社会认知（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
+EF 还与儿童的情绪成长和发展相关，包括但不限于道德和沟通行为以及社会认知（Bolton & Hattie, 2017, p.4）。
 
 ## 理论基础
 
 > [!info] 理论基础
 > - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — EF 的三成分统一性与多样性模型
 
-## 来源
-
-- [[Bolton_2017_ArchPsych]]

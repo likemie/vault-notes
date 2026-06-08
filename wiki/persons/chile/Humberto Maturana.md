@@ -51,7 +51,7 @@ Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Fran
 
 > [!abstract]
 
-- Maturana, H. R., & Varela, F. J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
+- Maturana, H. R., & [[Francisco Varela|Varela, F]]. J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
 
 ---
 

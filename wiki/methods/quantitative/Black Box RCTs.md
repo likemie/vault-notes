@@ -21,14 +21,12 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Mechanism Experiments]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources:
-  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -48,7 +46,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1994** — Scriven 提出"黑箱 [[Randomised Controlled Trials|RCT]]"的概念，区分评估（evaluation）和解释（explanation）
-> - **医学起源**："什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse|WWC]] 和 EEF Toolkit 明确采用了相同的认证取向——假设教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"（Peterson, 2016, p. 301）
+> - **医学起源**："什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse|WWC]] 和 [[Education Endowment Foundation|EEF]] Toolkit 明确采用了相同的认证取向——假设教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"（Peterson, 2016, p. 301）
 > - **Cook (2002)** 的分析：考虑到 RCT 在教育中的可行性限制，Cook 建议聚焦于"治疗更短、需要很少或不需要教师培训……且学生是分配单位而非整个班级或学校"的干预——实际上将 RCT 限制于可直接交付给学生的商品化干预
 > - **2016** — Peterson 正式提出[[Mechanism Experiments|机制实验]]作为黑箱 RCT 的替代，主张"什么有效 2.0"
 
@@ -59,7 +57,7 @@ updated: '2026-05-18'
 >
 > **1. 与教师主导干预的不匹配**
 >
-> 提高学生成就依赖于教师和校长的有效活动（[[John Hattie|Hattie]] & Anderman, 2013）。黑箱 RCT 几乎不提供信息来指导这些从业者的日常活动。在黑箱方法中，教师是向学生受试者成功交付项目设计的**管道**——极少数 RCT 设计考虑到实施者的经验（Peterson, 2016, p. 301）。
+> 提高学生成就依赖于教师和校长的有效活动（Hattie & Anderman, 2013）。黑箱 RCT 几乎不提供信息来指导这些从业者的日常活动。在黑箱方法中，教师是向学生受试者成功交付项目设计的**管道**——极少数 RCT 设计考虑到实施者的经验（Peterson, 2016, p. 301）。
 >
 > 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育实践可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有教师支持时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。(Peterson, 2016, p. 301)
 >
@@ -67,7 +65,7 @@ updated: '2026-05-18'
 >
 > 在美国，超过 90% 的教育干预有效性试验未显示影响（C4E, 2013）——约为医学二期[[Clinical Trial|临床试验]]成功率的一半（Kane, 2015）。这指示零效果的关键来源是：**当干预被移出初始情境时，实施不完整或不准确**（Peterson, 2016, pp. 301–302）。
 >
-> 虽然 EEF 和 IES 正在开发改进的实施过程评估（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的必要条件通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。(Peterson, 2016, p. 302)
+> 虽然 [[Education Endowment Foundation|EEF]] 和 IES 正在开发改进的实施过程评估（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的必要条件通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。(Peterson, 2016, p. 302)
 >
 > **3. 低采纳率**
 >
@@ -100,7 +98,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 美国教育有效性试验超 90% 未显示影响（C4E, 2013）（Peterson, 2016, pp. 301–302）
-> - EEF 有效性试验中仅一项显示明确效应（Peterson, 2016, p. 301）
+> - [[Education Endowment Foundation|EEF]] 有效性试验中仅一项显示明确效应（Peterson, 2016, p. 301）
 > - 仅约 20.8% 的美国 CSR 拨款流向强证据项目（Slavin, 2002, p. 15）
 
 ## 争议与批评
@@ -113,9 +111,6 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[EEF Teaching and Learning Toolkit]] — EEF 的试验资助和 Toolkit 聚合主要采用黑箱取向
+> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 的试验资助和 Toolkit 聚合主要采用黑箱取向
 > - [[What Works Clearinghouse]] — WWC 的认证模式直接复制了医学药物认证的黑箱逻辑（Peterson, 2016, pp. 300–301）
 
-## 来源
-
-- [[Peterson_2016_IJRME]]

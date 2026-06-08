@@ -13,7 +13,9 @@ related_concepts: []
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Maria Pampaka]]"
+  - "[[Julian Williams]]"
 related_arguments: []
 confidence: low
 status: draft
@@ -42,7 +44,7 @@ citation_name: Homer
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Pampaka, M., Williams, J., & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3).
+> - [[Maria Pampaka|Pampaka, M]]., [[Julian Williams|Williams, J]]., & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3).
 
 ## 思想发展与影响
 

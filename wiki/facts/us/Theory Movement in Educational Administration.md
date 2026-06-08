@@ -21,12 +21,10 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Herbert A. Simon]]"
   - "[[Thomas Barr Greenfield]]"
-  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -46,7 +44,7 @@ updated: 2026-05-18
 > [!note]- 经过
 > **起点：Denver, Colorado, August 1954**
 >
-> 理论运动的起源可追溯到 1954 年 8 月在丹佛举行的全国教育行政教授会议（National Conference for Professors of Educational Administration）年会。这一以美国为中心的学派，主要代表人物是 **Andrew Halpin** 和 **Daniel Griffiths**，其许多基本原则归功于 Herbert Simon（1945）的 *Administrative Behavior*（Eacott, 2015, p.315）。
+> 理论运动的起源可追溯到 1954 年 8 月在丹佛举行的全国教育行政教授会议（National Conference for Professors of Educational Administration）年会。这一以美国为中心的学派，主要代表人物是 **Andrew Halpin** 和 **Daniel Griffiths**，其许多基本原则归功于 [[Herbert A. Simon|Herbert Simon]]（1945）的 *Administrative Behavior*（Eacott, 2015, p.315）。
 >
 > **理论主张**
 >
@@ -100,9 +98,6 @@ updated: 2026-05-18
 ## 相关概念／理论
 
 > [!example] 相关概念／理论
-> - [[Epistemological Break]] — Eacott 以此 [[Pierre Bourdieu|Bourdieu]] 概念论证教育行政需重新进行认识论断裂
+> - [[Epistemological Break]] — Eacott 以此 Bourdieu 概念论证教育行政需重新进行认识论断裂
 > - [[Epistemological Vigilance]] — Bourdieu 的警觉概念在理论运动及其挑战之后的当代意义
 
-## 来源
-
-- [[Eacott_2015_EPT]]

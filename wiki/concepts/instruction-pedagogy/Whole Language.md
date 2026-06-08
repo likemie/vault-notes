@@ -25,15 +25,10 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Ken Goodman]]"
-  - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Rose Report]]"
 related_arguments: []
-sources:
-  - "[[Higgins_2016_RE]]"
-  - "[[OConnor_2020_AJLL]]"
-  - "[[Snook_2009_NZJES]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -60,7 +55,7 @@ updated: 2026-05-18
 > - **1970s** — 全语言运动在美国兴起，其产生不仅是读写理论和研究发展的产物，也与更广泛的政治发展相关，包括民权运动和其他社会运动（Y. Goodman, 1989; Ryan & Goodman, 2016，引自 O'Connor, 2020, p.150）
 > - **1980s–1990s** — 全语言在英语国家广泛传播，同时引发"阅读战争"（Reading Wars）——全语言倡导者与系统合成语音（systematic synthetic phonics）支持者之间的激烈公开辩论
 > - **1990s** — 美国福音派基督教团体和共和党右翼发起对全语言的强烈反弹，最终导致 Bush 政府 2001 年 [[No Child Left Behind Act 2001|NCLB]] 法案禁止联邦资助不支持合成语音项目的学区（Weaver & Brinkley, 1998，引自 O'Connor, 2020, p.147）
-> - **2009** — [[John Hattie|Hattie]] 在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，称其"对学习阅读的影响可忽略不计"，引发争议（O'Connor, 2020, p.142）
+> - **2009** — Hattie 在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，称其"对学习阅读的影响可忽略不计"，引发争议（O'Connor, 2020, p.142）
 > - **2020** — O'Connor 发表详细审查，论证 Hattie 对全语言的评估存在方法论缺陷和先验偏见（O'Connor, 2020）
 
 ---
@@ -82,7 +77,7 @@ updated: 2026-05-18
 > - vs **[[Language Experience Approach]]** — 语言经验法是全语言的重要前身（1960 年代出现），公式为"我能想的就能说，我能说的就能写，我能写的就能读"（Allen, 1964）。Stahl, McKenna & Pagnucco（1994）承认将两者等同是"时代错误的"（anachronistic）（O'Connor, 2020, p.144-145）
 > - vs **[[Simple View of Reading]]** — 简单阅读观认为"学会解码等于学会阅读"（Gough & Tunmer, 1986, p.6），从一开始就明确针对全语言理论。全语言坚持阅读即理解（Cambourne, 1988），拒绝将解码与理解分离（O'Connor, 2020, p.149）
 > - vs **Synthetic Phonics**（合成语音） — 合成语音强调系统的、显性的字母-声音关系教学，被描述为符合"新保守主义的传统知识观和课程观"，同时"满足新自由主义对自上而下交付的中央控制模式的理性化议程"（Soler, 2016, p.431，引自 O'Connor, 2020, p.150）
-> - vs **[[Direct Instruction]]** — 全语言与直接教学代表教学连续体上的两个对立端：DI 强调教师主导的结构化讲解和明确技能序列，全语言强调在真实完整语境中学习。[[John Hattie|Hattie]] (2009) 将全语言评为 d=0.06 而 DI 评为 d=0.59，但 Zhao (2017) 的副作用框架指出两者各有"效果+副作用"组合——选择取决于教育消费者对风险和收益的权衡
+> - vs **[[Direct Instruction]]** — 全语言与直接教学代表教学连续体上的两个对立端：DI 强调教师主导的结构化讲解和明确技能序列，全语言强调在真实完整语境中学习。Hattie (2009) 将全语言评为 d=0.06 而 DI 评为 d=0.59，但 Zhao (2017) 的副作用框架指出两者各有"效果+副作用"组合——选择取决于教育消费者对风险和收益的权衡
 
 ---
 
@@ -98,7 +93,7 @@ updated: 2026-05-18
 ## 实证发现
 
 > [!success] 实证发现
-> - [[John Hattie|Hattie]]（2009）在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，远低于其 d=0.40 的"关节点"阈值。但 O'Connor（2020）的审查发现这一结论基于方法论上有缺陷的[[Meta-analysis|元分析]]聚合：
+> - Hattie（2009）在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，远低于其 d=0.40 的"关节点"阈值。但 O'Connor（2020）的审查发现这一结论基于方法论上有缺陷的[[Meta-analysis|元分析]]聚合：
 >   - 四项元分析的效应量分别为 0.09、0.15、0.65 和 -0.65，Hattie 对其进行简单算术平均得出 0.06（O'Connor, 2020, p.145）
 >   - 其中一项"全语言"元分析（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]而非全语言（O'Connor, 2020, p.144）
 >   - 唯一报告正面效应量（d=0.65）的元分析（Gee, 1995）被 Hattie 通过选择性删除三项研究将其效应量修正为零——这是 *Visible Learning* 800+ 元分析中唯一被 Hattie 如此处理的案例（O'Connor, 2020, p.148）
@@ -109,7 +104,7 @@ updated: 2026-05-18
 ## 争议与批评
 
 > [!warning] [[Visible Learning]] 对全语言的评估争议
-> O'Connor（2020）对 [[John Hattie|Hattie]] 评估全语言的详细审查揭示了系统性偏见：
+> O'Connor（2020）对 Hattie 评估全语言的详细审查揭示了系统性偏见：
 >
 > - **将[[Language Experience Approach|语言经验法]]等同于全语言**：Stahl & Miller（1989）的[[Meta-analysis|元分析]]包含 1960 年代早期和中期的多项研究——在全语言运动 1970 年代首次出现之前。Stahl 本人后来承认这种等同是"时代错误的"（Stahl, McKenna, & Pagnucco, 1994），但 Hattie 仍不加解释地将其纳入（O'Connor, 2020, p.144-145）
 > - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告 d=-0.65（极端异常值）时，Hattie 未对其方法或潜在作者偏见进行任何审查。Krashen（2002）后来指出多项[[Effect Size|效应量]]计算错误，认为自己的分析得出的结论"几乎完全相反"（O'Connor, 2020, p.147）
@@ -129,12 +124,7 @@ updated: 2026-05-18
 > [!example] 相关案例／政策
 > - [[No Child Left Behind Act 2001]] — 禁止联邦资助不支持合成语音项目的学区
 > - [[Rose Report]] — 英国政府报告，推广"[[Simple View of Reading|简单阅读观]]"并促成强制合成语音教学
-> - [[Visible Learning]] — [[John Hattie|Hattie]] 对全语言的争议性评估
+> - [[Visible Learning]] — Hattie 对全语言的争议性评估
 
 ---
 
-## 来源
-
-- [[Higgins_2016_RE]]
-- [[OConnor_2020_AJLL]]
-- [[Snook_2009_NZJES]]

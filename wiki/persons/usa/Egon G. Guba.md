@@ -42,13 +42,13 @@ citation_name: Guba
 
 ## 主要著作
 
-- Guba, E. G., & [[Yvonna S. Lincoln|Lincoln]], Y. S. (1989). *Fourth Generation Evaluation*. [[Sage]]. — 将[[Constructivist Paradigm|建构主义范式]]扩展至项目评价领域，提出第四代评价模型，强调利益相关者参与和协商。
+- Guba, E. G., & [[Yvonna S. Lincoln|Lincoln, Y. S]]. (1989). *Fourth Generation Evaluation*. [[Sage]]. — 将[[Constructivist Paradigm|建构主义范式]]扩展至项目评价领域，提出第四代评价模型，强调利益相关者参与和协商。
 - Lincoln, Y. S., & Guba, E. G. (1985). *Naturalistic Inquiry*. SAGE. — 系统建立自然主义探究范式，提出可信性四标准以替代传统量化信效度。
 
 ## 核心思想
 
 > [!tip]
-> Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面， he 提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 [[Yvonna S. Lincoln|Lincoln]] 共同建立了自然主义探究的认识论和操作体系，其中包括对模式理论的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎假设检验（Creswell & Creswell, 2022, p.67）。
+> Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面， he 提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 Lincoln 共同建立了自然主义探究的认识论和操作体系，其中包括对模式理论的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎假设检验（Creswell & Creswell, 2022, p.67）。
 
 > [!quote]
 > "We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' (Guba, 1990, p. 17)."（引自 Creswell & Creswell, 2022, p.7）

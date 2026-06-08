@@ -14,7 +14,8 @@ related_concepts:
   - "[[Network Governance]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Fazal Rizvi]]"
 related_facts: []
 related_arguments: []
 confidence: medium
@@ -50,6 +51,6 @@ citation_name: Lingard
 ## 主要著作
 
 > [!note]
-> - Rizvi, F., & Lingard, B. (2010). *Globalizing Education Policy*. Routledge.
+> - [[Fazal Rizvi|Rizvi, F]]., & Lingard, B. (2010). *Globalizing Education Policy*. Routledge.
 
 ---

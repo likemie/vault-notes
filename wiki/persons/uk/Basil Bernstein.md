@@ -19,6 +19,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Michael Young]]"
   - "[[Pierre Bourdieu]]"
 related_arguments: []
 related_facts:
@@ -45,12 +46,12 @@ citation_name: Bernstein
 > Bernstein 将社会学和教育社会学理解为 [[Horizontal Knowledge Structure|横向知识结构]]：它们由多个专门语言组成，缺乏统一整合原则，知识发展常常表现为新语言、新问题和新说话者的出现，而不是更高层次的综合（Ball, 2008, p.651）。
 
 > [!tip] 教育知识的分类与框架
-> Bernstein 关于教育知识“分类与框架”的论文在 1970 年 BSA Durham 会议上作为闭幕发言提出，并在 1971 年 Michael Young 编辑的 Knowledge and Control 中首次发表。该论文与 [[New Sociology of Education]] 的形成时刻相邻，但 Bernstein 并不等同于 NSE 的代表人物（Ball, 2008, p.658）。
+> Bernstein 关于教育知识“分类与框架”的论文在 1970 年 BSA Durham 会议上作为闭幕发言提出，并在 1971 年 [[Michael Young]] 编辑的 Knowledge and Control 中首次发表。该论文与 [[New Sociology of Education]] 的形成时刻相邻，但 Bernstein 并不等同于 NSE 的代表人物（Ball, 2008, p.658）。
 
 > [!tip] 教育话语理论
 > Bernstein 的独特性体现在其理论生产力上：他的教育研究持续使用 Durkheim 式社会学思想，并吸收语言理论、Foucault 和若干新马克思主义资源；其理论挑战在于建立关于教育话语建构、分配规则、再语境化规则、评价规则及其社会基础的经验性理论（Ball, 2008, p.661）。
 
-> [!tip] [[Recontextualization|再脉络化]]与[[Regulative and Instructional Discourse|规约性话语和教学性话语]]
+> [!tip] [[Recontextualization|再脉络化]]与[[Regulative and Instructional Discourse|规约性话语]]和教学性话语
 > Bernstein (2000) 提出了再脉络化概念，指特定话语从原始生产场所被选择性挪用、重新定位并与其他话语关联以构成自身秩序的过程。他同时理论化了规约性话语（创造秩序、关系和身份的道德话语）和教学性话语（包含所选知识及其组织），教学性话语嵌入更强的规约性话语之中。这些概念被 McPhail et al. (2023) 用于分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]，发现规约性话语优先于教学性话语，学科概念知识在规约性话语中缺席。
 
 ## 影响

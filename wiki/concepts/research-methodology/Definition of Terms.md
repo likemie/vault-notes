@@ -14,12 +14,9 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
-related_persons:
-  - "[[John Locke]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -42,7 +39,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ## 一般指南
 
-综合 [[John Locke|Locke]] et al. (2014) 和 Wilkinson (1991) 的建议，Creswell & Creswell (2022) 提出以下原则：
+综合 Locke et al. (2014) 和 Wilkinson (1991) 的建议，Creswell & Creswell (2022) 提出以下原则：
 
 1. **首次出现即定义**：术语在文中第一次出现时就应给出定义，使读者从一开始就清楚其含义。
 2. **使用操作化定义**：定义应写在一个具体的、操作化或应用层面，而非抽象的概念层面。操作化定义使用具体语言，精确说明研究者在研究中如何使用该术语。
@@ -71,7 +68,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ### 量化研究
 
-在演绎模式下，[[Quantitative Research|量化研究]]在开头即提供广泛的术语定义，通常放在独立的"Definition of Terms"章节中（通常不超过两到三页）。研究者力求全面定义所有相关术语，并采用文献中已有的约定定义。术语被赋予不变的含义（[[John Locke|Locke]] et al., 2014）。
+在演绎模式下，[[Quantitative Research|量化研究]]在开头即提供广泛的术语定义，通常放在独立的"Definition of Terms"章节中（通常不超过两到三页）。研究者力求全面定义所有相关术语，并采用文献中已有的约定定义。术语被赋予不变的含义（Locke et al., 2014）。
 
 ### 质性研究
 
@@ -90,6 +87,3 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

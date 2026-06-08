@@ -27,11 +27,6 @@ related_persons:
   - "[[Plato]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Pierre Bourdieu]]"
-  - "[[Eacott_2011_JEAH]]"
-  - "[[Eacott_2015_EPT]]"
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-09
@@ -81,7 +76,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 **vs [[Habitus]]**。习性是内化于个体身心的倾向系统，doxa 是外在于个体的[[Champ|场域]]层面的共识结构。但习性与 doxa 相互生产：习性使人倾向于将 doxa 体验为自然，doxa 反过来强化特定的习性结构。简言之：习性在身体里，doxa 在空气中。
 
-**vs 意识形态（ideology）**。意识形态是需要被言说、辩护和传播的信念体系——它知道自己有对手。Doxa 则处于"不被言说"的层面——它不是被捍卫的正统，而是从未被质疑的前提。这一区分引出 [[Pierre Bourdieu|Bourdieu]] 的 doxa-orthodoxy-heterodoxy 光谱（见[[#概念演变|概念演变]]）。
+**vs 意识形态（ideology）**。意识形态是需要被言说、辩护和传播的信念体系——它知道自己有对手。Doxa 则处于"不被言说"的层面——它不是被捍卫的正统，而是从未被质疑的前提。这一区分引出 Bourdieu 的 doxa-orthodoxy-heterodoxy 光谱（见[[#概念演变|概念演变]]）。
 
 **doxa-orthodoxy-heterodoxy 光谱**。Bourdieu 区分了场域中话语斗争的三个层次：
 - **Doxa**：不被言说、不被感知为可争辩的共识——"事情本就如此"的领域
@@ -119,14 +114,14 @@ NPM 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域
 
 ### 认识论断裂与 doxa
 
-[[Pierre Bourdieu|Bourdieu]] 的认识论将 doxa 视为科学研究必须决裂的首要对象——"将使得对世界的 doxic 体验成为可能的一切事物提交给科学审查——不仅包括社会的前科学表征，还包括构成这些意象的认知图式"（Bourdieu & Wacquant, 1992, p.248，引自 Eacott, 2015, p.320）。这意味着研究者必须首先识别自身所在场域的 doxa，才能开始真正的科学建构。参见 [[Epistemological Break]]。
+Bourdieu 的认识论将 doxa 视为科学研究必须决裂的首要对象——"将使得对世界的 doxic 体验成为可能的一切事物提交给科学审查——不仅包括社会的前科学表征，还包括构成这些意象的认知图式"（Bourdieu & Wacquant, 1992, p.248，引自 Eacott, 2015, p.320）。这意味着研究者必须首先识别自身所在场域的 doxa，才能开始真正的科学建构。参见 [[Epistemological Break]]。
 
 ---
 
 ## 概念演变
 
 > [!note]
-> Doxa 经历了从古希腊认识论范畴到 [[Pierre Bourdieu|Bourdieu]] 社会分析工具的漫长演变。
+> Doxa 经历了从古希腊认识论范畴到 Bourdieu 社会分析工具的漫长演变。
 
 **古希腊哲学（[[Plato|柏拉图]]／亚里士多德）**。*doxa* 原指"意见"或"信念"，与 *epistēmē*（知识）相对——是介于无知与真知之间的认知状态。柏拉图视 doxa 为不可靠的感知世界产物，亚里士多德则部分恢复其认识论地位。在这一阶段，doxa 是**个体认知**层面的概念。
 
@@ -139,16 +134,10 @@ NPM 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域
 ## 争议与批评
 
 > [!warning]
-> - **概念边界模糊**：doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易操作化——批评者认为 [[Pierre Bourdieu|Bourdieu]] 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
+> - **概念边界模糊**：doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易操作化——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
 > - **经验研究的困难**：如何经验地识别和测量 doxa 是主要挑战——研究者自身也嵌入了特定[[Champ|场域]]，如何区分研究者的分析范畴与被研究者体验为自然的 doxa？（Eacott, 2015）
 > - **变革可能性被低估**：如果 doxa 如此不言自明且被结构性地再生产，行动者如何可能挑战它？批评者指出 Bourdieu 对 doxa 的变革路径阐述不足
 > - **决定论的张力**：Bourdieu 的框架倾向于强调结构的再生产力量，这与他的实践理论中对能动性的承认存在内在张力
 
 ---
 
-## 来源
-
-- [[Pierre Bourdieu]] — Wikipédia
-- [[Eacott_2011_JEAH]]
-- [[Eacott_2015_EPT]]
-- [[Li_2012_Cambridge]]

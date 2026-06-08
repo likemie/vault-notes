@@ -21,12 +21,9 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
   - "[[Survey Research]]"
-related_persons:
-  - "[[Karl Pearson]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -38,7 +35,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 多元回归（Multiple Regression）是将 [[Karl Pearson|Pearson]] 相关扩展到两个或以上预测[[Variable|变量]]（predictor variables）的推断统计方法。它用于评估多个预测变量（自变量）与一个结果变量（因变量）之间的关系，提供整体模型拟合指标（R² 和 F 统计量）以及每个预测变量的相对贡献（b 系数和 t 统计量）。多元回归揭示了众多变量中哪一个变量对结果的相对预测力最强（Creswell & Creswell, 2022, Ch8）。
+> 多元回归（Multiple Regression）是将 Pearson 相关扩展到两个或以上预测[[Variable|变量]]（predictor variables）的推断统计方法。它用于评估多个预测变量（自变量）与一个结果变量（因变量）之间的关系，提供整体模型拟合指标（R² 和 F 统计量）以及每个预测变量的相对贡献（b 系数和 t 统计量）。多元回归揭示了众多变量中哪一个变量对结果的相对预测力最强（Creswell & Creswell, 2022, Ch8）。
 
 ## 研究程序
 
@@ -63,7 +60,7 @@ updated: 2026-05-31
 > [!tip]
 > - **层级回归（Hierarchical Regression）**：按理论驱动的顺序逐步加入预测[[Variable|变量]]块，考察每块变量对 R² 的增量贡献。
 > - **逐步回归（Stepwise Regression）**：由统计程序自动选择进入或退出模型的变量——但因其结果依赖样本特征且缺乏理论驱动，Creswell 未推荐此方法。
-> - vs [[Karl Pearson|Pearson]] 相关 — Pearson 相关是双变量分析（一次两个变量）；多元回归是多变量分析（多个预测变量同时进入模型）。
+> - vs Pearson 相关 — Pearson 相关是双变量分析（一次两个变量）；多元回归是多变量分析（多个预测变量同时进入模型）。
 > - vs [[Analysis of Variance|ANOVA]]／[[Analysis of Covariance|ANCOVA]] — ANOVA 比较组间均值，通常使用类别预测变量；多元回归使用连续预测变量。ANCOVA 可视为 ANOVA 和回归的混合形式——组间比较中加入连续协变量。
 
 ## 适用场景
@@ -77,10 +74,7 @@ updated: 2026-05-31
 
 > [!warning]
 > - 多重共线性（multicollinearity）——当预测[[Variable|变量]]之间高度相关时，回归系数估计不稳定，难以区分各变量的独立贡献。
-> - 与 [[Karl Pearson|Pearson]] 相关一样，回归揭示的是关联而非因果——即使控制了多个变量，未测量的混淆变量仍可能驱动结果。
+> - 与 Pearson 相关一样，回归揭示的是关联而非因果——即使控制了多个变量，未测量的混淆变量仍可能驱动结果。
 > - 对异常值、非线性关系和方差[[Heterogeneity|异质性]]（heteroscedasticity）敏感。
 > - 预测变量数量大而样本量小会导致过拟合（overfitting）——R² 被夸大且模型在新样本中表现差。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

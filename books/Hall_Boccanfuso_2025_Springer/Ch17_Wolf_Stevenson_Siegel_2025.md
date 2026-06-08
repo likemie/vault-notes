@@ -12,7 +12,6 @@ extracted_to:
   - "[[African Orphan Crops Consortium]]"
   - "[[Nagoya Protocol]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Innovation Institute for Food and Health]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Triple Helix]]"

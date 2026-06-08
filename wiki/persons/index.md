@@ -45,11 +45,6 @@ Total entries: **153**
 > - [[Robbie Case]] — 加拿大发展心理学家和新皮亚杰理论家，四子域发展模型提出者，为教育研究细化认知发展阶段与学习差异提供模型。
 > - [[Thomas Barr Greenfield]] — 加拿大教育行政学者，主观主义教育行政研究代表人物，为教育研究挑战实证主义组织理论并重申意义与经验的重要性提供主观主义转向。
 
-## Canada Usa
-
-> [!summary]- canada-usa (1)
-> - [[Albert Bandura]] — 加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响
-
 ## Chile
 
 > [!summary]- chile (2)
@@ -245,6 +240,9 @@ Total entries: **153**
 > - [[Stevenson and Stigler]] — 美国比较教育心理学家，通过 The Learning Gap 等跨国比较研究，实证验证了东亚学生在数学成就上持续超越美国学生的现象及其文化根源
 
 ## Usa
+
+> [!summary]- canada-usa (1)
+> - [[Albert Bandura]] — 加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响
 
 > [!summary]- usa (10)
 > - [[Egon G. Guba]] — 美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic Inquiry 开创自然主义探究范式，此前在项目评价领域提出第四代评价模型
