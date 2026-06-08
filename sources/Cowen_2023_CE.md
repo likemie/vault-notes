@@ -7,7 +7,6 @@ extracted_to:
   - "[[Robert Cowen]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Convergence Theory in Comparative Education]]"
-  - "[[Educated Identity]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Outcomes-based Education]]"
   - "[[Andreas Kazamias]]"

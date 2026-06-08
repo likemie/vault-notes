@@ -424,6 +424,15 @@
     ]
   },
   {
+    "title": "Global Policy Space",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global Policy Space.md",
+    "aliases": [
+      "全球政策空间",
+      "global policy spaces"
+    ]
+  },
+  {
     "title": "Global-Local Binary",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global-Local Binary.md",
@@ -596,6 +605,18 @@
       "形变",
       "教育形变",
       "shape shifting"
+    ]
+  },
+  {
+    "title": "Space of Flows and Space of Places",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Space of Flows and Space of Places.md",
+    "aliases": [
+      "流动空间与地方空间",
+      "space of flows",
+      "space of places",
+      "流动空间",
+      "地方空间"
     ]
   },
   {
@@ -10863,6 +10884,11 @@
     "title": "Argument_Schaffar_2024_CogentEdu",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md"
+  },
+  {
+    "title": "Argument_Beech_2009_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md"
   },
   {
     "title": "Argument_Bulag_2024_CE",

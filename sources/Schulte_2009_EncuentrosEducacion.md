@@ -12,7 +12,6 @@ extracted_to:
   - "[[Tao Xingzhi]]"
   - "[[Confucius]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Recontextualization]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 processed_date: 2026-05-26
 ---

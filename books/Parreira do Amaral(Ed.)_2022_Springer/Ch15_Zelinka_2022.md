@@ -5,7 +5,6 @@ extracted_to:
   - "[[Discursive Opportunity Structures]]"
   - "[[Governmentality]]"
   - "[[Self-Entrepreneur]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Critical Companion]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 processed_date: 2026-05-20

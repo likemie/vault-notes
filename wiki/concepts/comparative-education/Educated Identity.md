@@ -9,7 +9,10 @@ tags:
   - theme/comparative-education
   - theme/educated-identity
   - theme/knowledge-transfer
-related_concepts: []
+related_concepts:
+  - "[[Global Policy Space]]"
+  - "[[Space of Flows and Space of Places]]"
+  - "[[Lifelong Learning]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -18,8 +21,6 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -67,9 +68,7 @@ updated: 2026-06-06
 > - **文化理解维度**。受教育身份最初是比较教育以 Verstehen 方式把握各国教育理想的努力。法国、英格兰、美国和苏联的受教育身份模型曾经是具有世界影响力的文化范式（Cowen, 2023, p.333）。
 > - **测量效率维度**。当代国际测试将受教育身份从文化理解转为可量化的学习结果，使比较教育从理解转向测量，成为效率运动的附属品（Cowen, 2023, pp.333–334）。
 > - **伦理追问维度**。受教育身份不仅是学术问题，更是伦理和政治问题。追问什么是受教育身份，就是追问我们以教育之名对世界上的孩子们做了什么（Cowen, 2023, p.336）。
+> - **[[Global Policy Space|全球政策空间]]中的建构维度**。当代受教育身份的定义越来越多地在[[Global Policy Space|全球政策空间]]（[[Space of Flows and Space of Places|流动空间]]）中被生产，而非在附着于领土的教育系统中形成。Beech（2009）指出，全球政策空间为"信息时代"界定了一套受教育身份的核心要素：学生需要具备创造力、创新性、适应力、[[Lifelong Learning|终身学习]]能力，以及沟通、协作、问题解决等通用能力。这些要素被表述为抽象的、可塑的口号——如"能力发展"和"尊重多样性"——其具体含义被剥离了时间和地点，成为可以根据接收语境被不同解读的"漂浮能指"（Beech, 2009, pp.353–355）。
 
 ---
 
-## 来源
-
-- [[Cowen_2023_CE]]

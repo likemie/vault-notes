@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T11:21:04.830020+00:00",
-  "count": 138,
+  "generated_at": "2026-06-08T11:50:34.797893+00:00",
+  "count": 139,
   "items": {
     "Bates_2017": {
       "citation_key": "Bates_2017",
@@ -883,6 +883,24 @@
       "journal": "Cogent Education",
       "book_title": ""
     },
+    "Beech_2009": {
+      "citation_key": "Beech_2009",
+      "citation_stem": "Beech|2009",
+      "citation_suffix": "",
+      "citation_short": "Beech, 2009",
+      "year": "2009",
+      "authors": [
+        "[[Jason Beech]]"
+      ],
+      "title": "Argument_Beech_2009_CE",
+      "doi": "10.1080/03050060903184932",
+      "citation": "Beech, J. (2009). Policy spaces, mobile discourses, and the definition of educated identities. *Comparative Education*, *45*(3), 347–364. https://doi.org/10.1080/03050060903184932",
+      "argument_path": "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
+      "subtype": "journal-article",
+      "publication_type": "journal-article",
+      "journal": "Comparative Education",
+      "book_title": ""
+    },
     "Bulag_2024": {
       "citation_key": "Bulag_2024",
       "citation_stem": "Bulag|2024",
@@ -1466,10 +1484,10 @@
       "citation_short": "Slavin, 2002",
       "year": "2002",
       "authors": [
-        "Slavin, R. E"
+        "[[Robert Slavin|Slavin, R. E.]]"
       ],
       "title": "Argument_Slavin_2002_ER",
-      "doi": "",
+      "doi": "10.3102/0013189X031007015",
       "citation": "Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. Educational Researcher, 31(7), 15–21.",
       "argument_path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md",
       "subtype": "journal-article",
@@ -2711,6 +2729,26 @@
         "publication_type": "book",
         "journal": "",
         "book_title": "Darwin's Finch: A Short History of Cognition"
+      }
+    ],
+    "Beech|2009": [
+      {
+        "citation_key": "Beech_2009",
+        "citation_stem": "Beech|2009",
+        "citation_suffix": "",
+        "citation_short": "Beech, 2009",
+        "year": "2009",
+        "authors": [
+          "[[Jason Beech]]"
+        ],
+        "title": "Argument_Beech_2009_CE",
+        "doi": "10.1080/03050060903184932",
+        "citation": "Beech, J. (2009). Policy spaces, mobile discourses, and the definition of educated identities. *Comparative Education*, *45*(3), 347–364. https://doi.org/10.1080/03050060903184932",
+        "argument_path": "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
+        "subtype": "journal-article",
+        "publication_type": "journal-article",
+        "journal": "Comparative Education",
+        "book_title": ""
       }
     ],
     "Beech|2015": [
@@ -4769,10 +4807,10 @@
         "citation_short": "Slavin, 2002",
         "year": "2002",
         "authors": [
-          "Slavin, R. E"
+          "[[Robert Slavin|Slavin, R. E.]]"
         ],
         "title": "Argument_Slavin_2002_ER",
-        "doi": "",
+        "doi": "10.3102/0013189X031007015",
         "citation": "Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. Educational Researcher, 31(7), 15–21.",
         "argument_path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md",
         "subtype": "journal-article",
