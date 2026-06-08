@@ -152,18 +152,17 @@ wiki/
 `wiki/` 条目的文件名应尽量与 frontmatter `title` 一致，使用可读英文标题，不使用全小写 slug 作为条目文件名。
 
 - 正确：`Piaget's Theory of Cognitive Development.md`
-- 避免：`piagets-theory-of-cognitive-development.md`
 
 命名规则：
 
 - `title` 是知识对象的正式名称；文件名通常等于 `title`。
 - 文件名和 `title` 不使用 tag 风格 slug。
 - 标题表达归属关系时，优先使用自然英文结构，如 `Van Leeuwen's Legitimation Theory`、`Teaching Theory of Gruschka`。
-- Concept / Theory / Method / Fact 的标题和文件名默认不得带括号；来源、人名、年份、地区、缩写放入 `aliases` 或正文说明。只有括号属于固定名称本身时才例外，如 `SF (Haraway)`。
+- Concept / Theory / Method / Fact 的标题和文件名默认不得带括号、冒号、引号；来源、人名、年份、地区、缩写放入 `aliases` 或正文说明。
 - Person 命名细则按 `template-person.md` 执行。
 - Argument 文件名和 `title` 使用稳定技术命名，通常保持一致；APA 短引用写入 citation 字段和正文 wikilink 显示文本，不写入 `title` 或 `aliases`。
 - 缩写、中文译名、常见变体放入 `aliases`，不要为了缩写改变标题。
-- 如果正式英文标题含冒号，frontmatter `title` 可保留；文件名需要规避 `:` 时用空格或短横，不用 `_`。
+
 
 ### Source Record Names
 
@@ -214,7 +213,7 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、`citation_aliases` 与完整 `citation`；不再维护 `citation_stem`、`citation_suffix`、`citation_key`、`citation_short`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors` 和 `year` 自动生成，只保留 `Author, Year` 与 `Author (Year)` 两种基本形式。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors` 和 `year` 自动生成，只保留 `Author, Year` 与 `Author (Year)` 两种基本形式。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
 
 `citation/` 索引文件由 `scripts/citation_index.py` 生成：
 
