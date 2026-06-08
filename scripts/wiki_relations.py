@@ -509,6 +509,7 @@ def process_wiki_file(
     if entry_type == "argument":
         sources = infer_sources(source_section, index, source_title_lookup)
         updates["sources"] = sources
+        new_body = body
         sync_keys = WIKI_SYNC_KEYS
         new_yaml = update_yaml_lists(
             yaml_text,
@@ -517,7 +518,10 @@ def process_wiki_file(
             add_missing=add_missing,
         )
     else:
+        # Non-Argument wiki entries use related_arguments as their evidence trail.
+        # Remove both YAML sources and the dedicated source section if present.
         sources = []
+        new_body = body_without_sources
         new_yaml = update_yaml_lists(
             yaml_text,
             updates,
@@ -525,7 +529,7 @@ def process_wiki_file(
             add_missing=add_missing,
         )
         new_yaml = remove_yaml_keys(new_yaml, ["sources"])
-    new_text = f"---\n{new_yaml}---\n{body}"
+    new_text = f"---\n{new_yaml}---\n{new_body}"
 
     changed = new_text != original
     if changed:

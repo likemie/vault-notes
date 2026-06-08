@@ -198,6 +198,36 @@ RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&-]+,\s*(?:19|20)\
 EMBED_FILE_EXISTS_CACHE: Dict[str, bool] = {}
 
 
+def is_stable_person_title(value: str) -> bool:
+    """Person titles use `Family, Initials` without a final period.
+
+    Internal periods in initials are allowed, e.g. `Ball, S. J`; the final
+    character should not be a period to keep file names stable.
+    """
+    value = value.strip()
+    if not value or "," not in value:
+        return False
+    if value.endswith("."):
+        return False
+    family, initials = value.split(",", 1)
+    family = family.strip()
+    initials = initials.strip()
+    if not family or not initials:
+        return False
+    return bool(re.match(r"^[A-Z][A-Za-z .'-]+$", family)) and bool(re.match(r"^[A-Z](?:\.?(?:\s+[A-Z]\.?)*?)$", initials))
+
+
+def alias_is_single_english_family(alias: str, family_name: str = "") -> bool:
+    alias = alias.strip()
+    if not alias or " " in alias or "·" in alias:
+        return False
+    if not re.match(r"^[A-Z][A-Za-z'-]+$", alias):
+        return False
+    if family_name and alias.lower() != family_name.strip().lower():
+        return False
+    return True
+
+
 # -----------------------------
 # Data model
 # -----------------------------
@@ -667,6 +697,17 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         for field in ["family_name", "given_names", "initials", "citation_name"]:
             if field not in data:
                 issues.append(Issue("WARN", rel(path), f"person entry should include {field} field", code=f"PERSON_{field.upper()}_MISSING"))
+        if isinstance(title, str) and "<%" not in title:
+            if not is_stable_person_title(title):
+                issues.append(Issue("WARN", rel(path), "person title should use stable `Family, Initials` without a final period, e.g. `Ball, S. J`", line=frontmatter_line_number(fm, "title"), code="PERSON_TITLE_STABLE_FORMAT"))
+            if path.stem != title:
+                issues.append(Issue("WARN", rel(path), "person filename stem should match title exactly", line=frontmatter_line_number(fm, "title"), code="PERSON_TITLE_FILENAME_MISMATCH"))
+        aliases = data.get("aliases")
+        family_name = str(data.get("family_name") or "").strip()
+        if isinstance(aliases, list):
+            for alias in aliases:
+                if isinstance(alias, str) and alias_is_single_english_family(alias, family_name):
+                    issues.append(Issue("WARN", rel(path), f"person alias should not be a single English family name: {alias!r}", line=frontmatter_line_number(fm, "aliases"), code="PERSON_ALIAS_SINGLE_FAMILY"))
 
     if is_citation_eligible_argument(data):
         for field in ["year", "citation_stem", "citation_key", "citation_short"]:

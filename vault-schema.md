@@ -160,7 +160,7 @@ wiki/
 - 文件名和 `title` 不使用 tag 风格 slug。
 - 标题表达归属关系时，优先使用自然英文结构，如 `Van Leeuwen's Legitimation Theory`、`Teaching Theory of Gruschka`。
 - Concept / Theory / Method / Fact 的标题和文件名默认不得带括号；来源、人名、年份、地区、缩写放入 `aliases` 或正文说明。只有括号属于固定名称本身时才例外，如 `SF (Haraway)`。
-- Person 命名细则按 `template-person.md` 执行。
+- Person 文件名和 `title` 使用稳定作者规范，写成 `Family, Initials`，末尾不加句点，如 `Ball, S. J`；具体字段与 aliases 规则按 `template-person.md` 执行。
 - Argument 文件名和 `title` 使用稳定技术命名，通常保持一致；APA 短引用写入 citation 字段和正文 wikilink 显示文本，不写入 `title` 或 `aliases`。
 - 缩写、中文译名、常见变体放入 `aliases`，不要为了缩写改变标题。
 - 如果正式英文标题含冒号，frontmatter `title` 可保留；文件名需要规避 `:` 时用空格或短横，不用 `_`。
@@ -196,7 +196,7 @@ OECD_2018_GlobalCompetence
 
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
-- Person 的 `aliases` 按 `template-person.md` 执行。
+- Person 的 `aliases` 按 `template-person.md` 执行；不写单独英文姓氏作为 alias。
 - 页面中人名第一次出现时使用全名，采用中文名（英文名）格式；后续不作规定。
 - 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
