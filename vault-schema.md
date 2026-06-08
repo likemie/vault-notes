@@ -16,7 +16,7 @@
 - AI 不手动维护生成字段：`related_*`、Argument YAML `sources`、source record 的 `extracted_to`。
 - Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
-- 新建、移动、删除、重命名条目后，只自动运行基础索引：`wiki_index.py` 与 `citation_index.py`；是否继续运行补链、关系同步与 lint，由用户确认。
+- 新建、移动、删除、重命名条目后，只自动运行基础索引：`wiki_index.py` 与 `citation_index.py`；是否继续运行 citation 补链、普通 wiki 补链、关系同步与 lint，由用户确认。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
@@ -214,7 +214,14 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按对应 Argument 模板执行。`citation_stem` 使用第一作者、机构作者或整本书作者的简称与年份，格式为 `Family|Year` 或 `Organization|Year`。同一 `citation_stem` 有多篇可引用文献时，`citation_suffix` 使用 `a`、`b`、`c`。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、`citation_aliases` 与完整 `citation`；不再维护 `citation_stem`、`citation_suffix`、`citation_key`、`citation_short`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors` 和 `year` 自动生成，只保留 `Author, Year` 与 `Author (Year)` 两种基本形式。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+
+`citation/` 索引文件由 `scripts/citation_index.py` 生成：
+
+- `citation_full.json`：所有 `citation_aliases` 到 Argument 的查询索引。
+- `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。
+
+正文 citation 补链由 `scripts/citation_linker.py` 完成，只读取 `citation_full.json` 与 `citation_ambiguous.json`，不扫描或修改 Argument frontmatter。
 
 正文引用当前 Argument 之外的已处理文献时，统一使用 APA 短引用：
 
@@ -232,7 +239,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`citation_index.py` 先生成文献引用索引，`wiki_linker.py` 再维护普通知识链接，`vault_lint.py` 统一检查 Markdown、frontmatter、关系字段和 citation 规则。日常使用增量模式，非必要不使用 `--full`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full`。
 
 ### Automatic Step
 
@@ -254,6 +261,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/wiki_index.py
 .venv/bin/python3 scripts/citation_index.py
+.venv/bin/python3 scripts/citation_linker.py
 .venv/bin/python3 scripts/wiki_linker.py sync
 .venv/bin/python3 scripts/wiki_relations.py sync
 .venv/bin/python3 scripts/wiki_index.py
@@ -264,7 +272,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 非必要不要运行 full。只有在以下情况才全量同步与检查：
 
-- 批量修改 `title`、`aliases`、Person citation 辅助字段或 Argument citation 字段。
+- 批量修改 `title`、`aliases`、Person APA aliases 或 Argument citation 字段。
 - 批量移动、删除、重命名 wiki 条目。
 - 使用 `source_record.py finalize --rename` 批量重命名 source record 和 PDF 后。
 - 怀疑 wikilink、`related_*`、YAML `sources` 或 source record 的 `extracted_to` 状态不同步。
@@ -277,6 +285,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/wiki_index.py
 .venv/bin/python3 scripts/citation_index.py
+.venv/bin/python3 scripts/citation_linker.py --full
 .venv/bin/python3 scripts/wiki_linker.py sync --full
 .venv/bin/python3 scripts/wiki_relations.py sync --full
 .venv/bin/python3 scripts/wiki_index.py

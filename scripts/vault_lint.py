@@ -137,6 +137,9 @@ PROTECTED_FIELDS = [
     "subtype",
     "tags",
     "citation",
+    "citation_aliases",
+    "year",
+    "doi",
     "journal",
     "book_title",
     "authors",
@@ -207,6 +210,50 @@ def alias_is_single_english_family(alias: str, family_name: str = "") -> bool:
     if family_name and alias.lower() != family_name.strip().lower():
         return False
     return True
+
+
+def is_citation_eligible_argument(data: Optional[Dict[str, Any]]) -> bool:
+    if not data or data.get("type") != "argument":
+        return False
+    if data.get("subtype") == "edited-volume-overview":
+        return False
+    authors = data.get("authors")
+    has_authors = bool(authors) if isinstance(authors, list) else bool(str(authors or "").strip())
+    return bool(has_authors and str(data.get("year") or "").strip())
+
+
+def author_label(author: str) -> str:
+    author = str(author).strip()
+    m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", author)
+    if m:
+        author = (m.group(2) or m.group(1)).strip()
+    if "," in author:
+        return author.split(",", 1)[0].strip()
+    return re.sub(r"\s+", " ", author).strip()
+
+
+def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") -> List[str]:
+    raw_authors = data.get("authors") or []
+    authors = raw_authors if isinstance(raw_authors, list) else [raw_authors]
+    labels = [author_label(str(a)) for a in authors if author_label(str(a))]
+    year = f"{str(data.get('year') or '').strip()}{suffix}"
+    if not labels or not year:
+        return []
+    if len(labels) == 1:
+        author = labels[0]
+    elif len(labels) == 2:
+        author = f"{labels[0]} & {labels[1]}"
+    else:
+        author = f"{labels[0]} et al."
+    return [f"{author}, {year}", f"{author} ({year})"]
+
+
+def citation_display_text(text: str) -> bool:
+    text = text.strip()
+    return bool(
+        re.match(r"^\(?[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .&-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*[^)]+)?\)?$", text)
+        or re.match(r"^[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .&-]+\s*\((?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*[^)]+)?\)$", text)
+    )
 
 
 # -----------------------------
@@ -568,6 +615,7 @@ def check_required_files(issues: List[Issue]) -> None:
         WIKI_DIR / "index.md",
         ROOT / "scripts" / "wiki_index.py",
         ROOT / "scripts" / "citation_index.py",
+        ROOT / "scripts" / "citation_linker.py",
         CITATION_DIR,
         CITATION_FULL_JSON,
         CITATION_AMBIGUOUS_JSON,
@@ -675,38 +723,34 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         issues.append(Issue("WARN", rel(path), "Argument entries should include sources field for source record links", code="ARGUMENT_SOURCES_MISSING"))
 
     if typ == "person":
-        # Person title and filename use the common English full name. APA author
-        # form is stored in aliases, while these fields support citation checks.
         for field in ["family_name", "given_names", "initials", "citation_name"]:
-            if field not in data:
-                issues.append(Issue("WARN", rel(path), f"person entry should include {field} field", code=f"PERSON_{field.upper()}_MISSING"))
+            if field in data:
+                issues.append(Issue("WARN", rel(path), f"person entry should not include legacy citation helper field {field}", line=frontmatter_line_number(fm, field), code=f"PERSON_{field.upper()}_LEGACY"))
         if isinstance(title, str) and "<%" not in title and path.stem != title:
             issues.append(Issue("WARN", rel(path), "person filename stem should match title exactly", line=frontmatter_line_number(fm, "title"), code="PERSON_TITLE_FILENAME_MISMATCH"))
         aliases = data.get("aliases")
-        family_name = str(data.get("family_name") or "").strip()
-        initials = str(data.get("initials") or "").strip()
         if isinstance(aliases, list):
             for alias in aliases:
-                if isinstance(alias, str) and alias_is_single_english_family(alias, family_name):
+                if isinstance(alias, str) and alias_is_single_english_family(alias):
                     issues.append(Issue("WARN", rel(path), f"person alias should not be a single English family name: {alias!r}", line=frontmatter_line_number(fm, "aliases"), code="PERSON_ALIAS_SINGLE_FAMILY"))
-            if family_name and initials:
-                apa_alias = f"{family_name}, {initials}"
-                if apa_alias not in [str(a).strip() for a in aliases]:
-                    issues.append(Issue("WARN", rel(path), f"person aliases should include APA author form: {apa_alias!r}", line=frontmatter_line_number(fm, "aliases"), code="PERSON_APA_ALIAS_MISSING"))
 
     if is_citation_eligible_argument(data):
-        for field in ["year", "citation_stem", "citation_key", "citation_short"]:
-            if field not in data or data.get(field) in (None, ""):
+        for field in ["year", "citation_aliases"]:
+            if field not in data or data.get(field) in (None, "", []):
                 issues.append(Issue("WARN", rel(path), f"citation-eligible Argument missing {field}", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_MISSING"))
+        for field in ["citation_stem", "citation_suffix", "citation_key", "citation_short"]:
+            if field in data and data.get(field) not in (None, "", []):
+                issues.append(Issue("WARN", rel(path), f"Argument should not include legacy citation field {field}; run citation_index.py", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_LEGACY"))
         year = data.get("year")
         if year not in (None, "") and not re.match(r"^(19|20)\d{2}$", str(year)):
             issues.append(Issue("ERROR", rel(path), f"year should be four digits: {year!r}", line=frontmatter_line_number(fm, "year"), code="CITATION_YEAR_FORMAT"))
-        stem = str(data.get("citation_stem") or "")
-        if stem and "|" not in stem:
-            issues.append(Issue("ERROR", rel(path), "citation_stem should use Family|Year or Organization|Year", line=frontmatter_line_number(fm, "citation_stem"), code="CITATION_STEM_FORMAT"))
-        suffix = data.get("citation_suffix")
-        if suffix not in (None, "") and not re.match(r"^[a-z]$", str(suffix)):
-            issues.append(Issue("ERROR", rel(path), "citation_suffix should be empty or a single lowercase letter", line=frontmatter_line_number(fm, "citation_suffix"), code="CITATION_SUFFIX_FORMAT"))
+        aliases = data.get("citation_aliases") or []
+        if aliases and not isinstance(aliases, list):
+            issues.append(Issue("ERROR", rel(path), "citation_aliases must be a YAML list", line=frontmatter_line_number(fm, "citation_aliases"), code="CITATION_ALIASES_TYPE"))
+        elif isinstance(aliases, list):
+            expected_base = expected_citation_aliases_from_meta(data)
+            if aliases and expected_base and aliases != expected_base and not all(re.match(r"^.+(?:19|20)\d{2}[a-z]\)?$", str(a)) for a in aliases):
+                issues.append(Issue("WARN", rel(path), f"citation_aliases differ from authors + year base form; run citation_index.py: {aliases!r}", line=frontmatter_line_number(fm, "citation_aliases"), code="CITATION_ALIASES_MISMATCH"))
 
     # summary checks
     if "summary" in data:
@@ -901,8 +945,13 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
     if typ == "argument":
         if "aliases" in data:
             issues.append(Issue("WARN", rel(path), "argument template should not include aliases", code="TEMPLATE_ARGUMENT_ALIASES"))
+        for field in ["citation_stem", "citation_suffix", "citation_key", "citation_short"]:
+            if field in data:
+                issues.append(Issue("WARN", rel(path), f"argument template should not include legacy citation field: {field}", code="TEMPLATE_ARGUMENT_CITATION_LEGACY"))
         if "authors" not in data:
             issues.append(Issue("WARN", rel(path), "argument template should include authors field", code="TEMPLATE_ARGUMENT_AUTHORS_MISSING"))
+        if data.get("subtype") != "edited-volume-overview" and "citation_aliases" not in data:
+            issues.append(Issue("WARN", rel(path), "citation-eligible argument template should include citation_aliases field", code="TEMPLATE_ARGUMENT_CITATION_ALIASES_MISSING"))
         if "sources" not in data:
             issues.append(Issue("WARN", rel(path), "argument template should include sources field", code="TEMPLATE_ARGUMENT_SOURCES_MISSING"))
         if "## 来源" not in body and "## Sources" not in body:
@@ -1081,32 +1130,30 @@ def load_citation_full(issues: List[Issue]) -> Dict[str, Dict[str, Any]]:
         issues.append(Issue("ERROR", rel(CITATION_FULL_JSON), f"cannot parse citation_full.json: {e}", code="CITATION_FULL_PARSE"))
         return result
 
-    items: list[Any]
+    items: dict[str, Any]
     if isinstance(data, dict):
-        if isinstance(data.get("items"), list):
+        if isinstance(data.get("items"), dict):
             items = data["items"]
-        elif isinstance(data.get("entries"), list):
+        elif isinstance(data.get("entries"), dict):
             items = data["entries"]
         else:
-            items = list(data.values())
-    elif isinstance(data, list):
-        items = data
+            items = {k: v for k, v in data.items() if isinstance(v, dict)}
     else:
         issues.append(Issue("ERROR", rel(CITATION_FULL_JSON), "citation_full.json must be a list or object", code="CITATION_FULL_TYPE"))
         return result
 
-    for item in items:
+    for key, item in items.items():
         if not isinstance(item, dict):
             continue
-        key = str(item.get("citation_key") or "").strip()
-        short = str(item.get("citation_short") or "").strip()
-        path = str(item.get("argument_path") or item.get("path") or "").strip()
-        if key:
-            result[key] = item
-        if short:
-            result[short] = item
+        result[str(key)] = item
+        path = str(item.get("path") or item.get("argument_path") or "").strip()
+        target = str(item.get("argument") or item.get("argument_target") or "").strip()
         if path:
             result[path] = item
+        if target:
+            result[target] = item
+        for alias in item.get("aliases") or []:
+            result[str(alias)] = item
     return result
 
 
@@ -1123,35 +1170,21 @@ def build_argument_citation_maps(paths: List[Path], issues: List[Issue]) -> tupl
         data = entry_metadata(path)
         if not is_citation_eligible_argument(data):
             continue
-        key = str(data.get("citation_key") or "").strip()
-        short = str(data.get("citation_short") or "").strip()
-        stem = str(data.get("citation_stem") or "").strip()
-        if not key or not short or not stem:
+        aliases = data.get("citation_aliases") or []
+        if not isinstance(aliases, list) or not aliases:
             continue
+        base_aliases = expected_citation_aliases_from_meta(data)
+        stem = base_aliases[0] if base_aliases else str(aliases[0])
         item = {
             "path": rel(path),
             "target": path.stem,
-            "citation_key": key,
-            "citation_short": short,
+            "aliases": [str(a) for a in aliases],
+            "citation_short": str(aliases[0]),
             "citation_stem": stem,
-            "citation_suffix": str(data.get("citation_suffix") or "").strip(),
             "year": str(data.get("year") or "").strip(),
         }
         by_target[path.stem] = item
         by_stem.setdefault(stem, []).append(item)
-
-    for stem, items in by_stem.items():
-        if len(items) > 1:
-            suffixes = [it["citation_suffix"] for it in items]
-            if any(not sfx for sfx in suffixes):
-                for it in items:
-                    issues.append(Issue("ERROR", it["path"], f"ambiguous citation_stem {stem!r} requires citation_suffix on all entries", code="CITATION_SUFFIX_REQUIRED"))
-            if len(set(suffixes)) != len(suffixes):
-                for it in items:
-                    issues.append(Issue("ERROR", it["path"], f"duplicate citation_suffix within {stem!r}", code="CITATION_SUFFIX_DUPLICATE"))
-        else:
-            if items[0]["citation_suffix"]:
-                issues.append(Issue("WARN", items[0]["path"], f"single entry for citation_stem {stem!r} has citation_suffix; check whether suffix is necessary", code="CITATION_SUFFIX_SINGLE"))
     return by_target, by_stem
 
 
@@ -1163,19 +1196,11 @@ def check_citation_json_consistency(argument_citations: Dict[str, Dict[str, Any]
     except Exception:
         return
 
-    json_items: list[Dict[str, Any]] = []
-    if isinstance(data, dict):
-        if isinstance(data.get("items"), list):
-            json_items = [x for x in data["items"] if isinstance(x, dict)]
-        elif isinstance(data.get("entries"), list):
-            json_items = [x for x in data["entries"] if isinstance(x, dict)]
-        else:
-            json_items = [x for x in data.values() if isinstance(x, dict)]
-    elif isinstance(data, list):
-        json_items = [x for x in data if isinstance(x, dict)]
+    raw_items = data.get("items", data) if isinstance(data, dict) else {}
+    json_items = [x for x in raw_items.values() if isinstance(x, dict)] if isinstance(raw_items, dict) else []
 
     json_by_target = {
-        str(item.get("argument_target") or Path(str(item.get("argument_path") or item.get("path") or "")).stem): item
+        str(item.get("argument") or item.get("argument_target") or Path(str(item.get("argument_path") or item.get("path") or "")).stem): item
         for item in json_items
         if (item.get("argument_target") or item.get("argument_path") or item.get("path"))
     }
@@ -1185,14 +1210,25 @@ def check_citation_json_consistency(argument_citations: Dict[str, Dict[str, Any]
         if not item:
             issues.append(Issue("WARN", fm_item["path"], "citation_full.json missing this Argument; run citation_index.py", code="CITATION_INDEX_STALE"))
             continue
-        if str(item.get("citation_key") or "") != fm_item["citation_key"]:
-            issues.append(Issue("WARN", fm_item["path"], "citation_full.json citation_key differs from frontmatter; run citation_index.py", code="CITATION_INDEX_KEY_MISMATCH"))
-        if str(item.get("citation_short") or "") != fm_item["citation_short"]:
-            issues.append(Issue("WARN", fm_item["path"], "citation_full.json citation_short differs from frontmatter; run citation_index.py", code="CITATION_INDEX_SHORT_MISMATCH"))
+        if [str(a) for a in item.get("aliases", [])] != fm_item["aliases"]:
+            issues.append(Issue("WARN", fm_item["path"], "citation_full.json aliases differ from frontmatter; run citation_index.py", code="CITATION_INDEX_ALIAS_MISMATCH"))
 
 
 def expected_citation_prefix(short: str) -> str:
     return short.strip()
+
+
+def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
+    display = display.strip()
+    for alias in aliases:
+        alias = str(alias).strip()
+        if not alias:
+            continue
+        if display == alias or display.startswith(alias + ","):
+            return True
+        if alias.endswith(")") and display.startswith(alias[:-1] + ","):
+            return True
+    return False
 
 
 def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
@@ -1217,9 +1253,9 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             continue
         display = raw.split("|", 1)[1].strip() if "|" in raw else ""
         if display and citation_display_text(display):
-            short = argument_citations[target]["citation_short"]
-            if short not in display:
-                issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_short {short!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
+            aliases = argument_citations[target]["aliases"]
+            if not citation_display_matches_aliases(display, aliases):
+                issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_aliases {aliases!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
 
     # Warn about raw, unlinked APA short citations.
     without_links = strip_existing_wikilinks(scan)

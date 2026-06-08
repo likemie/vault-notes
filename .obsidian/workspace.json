@@ -191,6 +191,9 @@
   },
   "active": "b83018ce7efe26fb",
   "lastOpenFiles": [
+    "scripts/__pycache__/citation_linker.cpython-313.pyc",
+    "scripts/__pycache__/citation_index.cpython-313.pyc",
+    "scripts/citation_linker.py",
     "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
     "wiki/persons/netherlands/Geert Hofstede.md",
     "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
@@ -218,14 +221,11 @@
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Delambre_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
     "wiki/persons/canada-usa",
     "citation/citation_ambiguous.json",
     "citation/citation_full.json",
     "scripts/wiki_linker.py",
     "scripts/wiki_linker-citation.py",
-    "scripts/citation_index.py",
-    "citation",
-    "未命名文件夹"
+    "scripts/citation_index.py"
   ]
 }

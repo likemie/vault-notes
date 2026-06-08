@@ -3,6 +3,9 @@ title: <% tp.file.title %>
 authors:
   - "Author One"
   - "Author Two"
+year:
+doi: ""
+citation_aliases: []
 summary: ""
 type: argument
 subtype: journal-article

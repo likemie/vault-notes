@@ -3,6 +3,8 @@ title: <% tp.file.title %>
 authors:
   - "Author One"
   - "Author Two"
+year:
+doi: ""
 summary: ""
 type: argument
 subtype: edited-volume
