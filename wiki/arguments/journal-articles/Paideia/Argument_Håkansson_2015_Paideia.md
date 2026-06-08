@@ -32,10 +32,9 @@ created: '2026-05-20'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Håkansson|2015"
-citation_suffix: "a"
-citation_key: "Håkansson_2015a"
-citation_short: "Håkansson, 2015a"
+citation_aliases:
+  - "Håkansson, 2015b"
+  - "Håkansson (2015b)"
 ---
 ## 研究问题
 

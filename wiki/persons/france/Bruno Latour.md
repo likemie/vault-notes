@@ -23,10 +23,6 @@ confidence: medium
 status: draft
 created: 2026-06-07
 updated: '2026-06-08'
-family_name: Latour
-given_names: Bruno
-initials: B.
-citation_name: Latour
 ---
 # Bruno Latour
 

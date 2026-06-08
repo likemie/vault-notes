@@ -25,10 +25,6 @@ confidence: medium
 status: draft
 created: 2026-05-25
 updated: '2026-06-08'
-family_name: Fei
-given_names: Xiaotong
-initials: X.
-citation_name: Fei
 ---
 # Fei Xiaotong
 

@@ -146,10 +146,9 @@ created: 2026-05-30
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Creswell|2022"
-citation_suffix: ""
-citation_key: "Creswell_2022"
-citation_short: "Creswell, 2022"
+citation_aliases:
+  - "John W. Creswell & J. David Creswell, 2022"
+  - "John W. Creswell & J. David Creswell (2022)"
 ---
 # Argument_Creswell_2022_SAGE
 

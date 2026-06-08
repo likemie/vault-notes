@@ -24,15 +24,12 @@ related_methods: []
 related_persons:
   - "[[Chen Kuan-Hsing]]"
   - "[[Walter Mignolo]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-10'
 updated: '2026-06-08'
-family_name: Fanon
-given_names: Frantz
-initials: F.
-citation_name: Fanon
 ---
 # Frantz Fanon
 

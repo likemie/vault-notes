@@ -36,10 +36,9 @@ created: 2026-06-05
 updated: '2026-06-08'
 year: 2012
 doi: ""
-citation_stem: "Southerton|2012"
-citation_suffix: ""
-citation_key: "Southerton_2012"
-citation_short: "Southerton, 2012"
+citation_aliases:
+  - "Southerton et al., 2012"
+  - "Southerton et al. (2012)"
 ---
 # Argument_UIDP_2012_PartnershipContinuum
 

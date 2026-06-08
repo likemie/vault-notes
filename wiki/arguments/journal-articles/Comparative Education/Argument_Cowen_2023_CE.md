@@ -48,10 +48,9 @@ created: 2026-06-06
 updated: '2026-06-08'
 year: 2023
 doi: ""
-citation_stem: "Cowen|2023"
-citation_suffix: ""
-citation_key: "Cowen_2023"
-citation_short: "Cowen, 2023"
+citation_aliases:
+  - "Robert Cowen, 2023"
+  - "Robert Cowen (2023)"
 ---
 # Argument_Cowen_2023_CE
 

@@ -19,15 +19,12 @@ related_theories:
   - "[[Capability Approach]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-11'
 updated: '2026-06-08'
-family_name: Boyadjieva
-given_names: Pepka
-initials: P.
-citation_name: Boyadjieva
 ---
 # Pepka Boyadjieva
 

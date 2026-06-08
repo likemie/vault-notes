@@ -27,10 +27,6 @@ confidence: medium
 status: draft
 created: 2026-06-07
 updated: '2026-06-08'
-family_name: Artopoulos
-given_names: Alejandro
-initials: A.
-citation_name: Artopoulos
 ---
 # Alejandro Artopoulos
 

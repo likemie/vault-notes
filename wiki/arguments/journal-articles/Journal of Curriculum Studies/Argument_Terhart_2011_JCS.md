@@ -41,10 +41,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2011
 doi: ""
-citation_stem: "Terhart|2011"
-citation_suffix: ""
-citation_key: "Terhart_2011"
-citation_short: "Terhart, 2011"
+citation_aliases:
+  - "Terhart, 2011"
+  - "Terhart (2011)"
 ---
 ## 研究问题
 

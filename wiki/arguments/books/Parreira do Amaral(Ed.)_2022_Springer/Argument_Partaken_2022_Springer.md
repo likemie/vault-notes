@@ -52,10 +52,9 @@ created: '2026-05-10'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Partaken|2022"
-citation_suffix: ""
-citation_key: "Partaken_2022"
-citation_short: "Partaken, 2022"
+citation_aliases:
+  - "Partaken, 2022"
+  - "Partaken (2022)"
 ---
 # Argument_Partaken_2022_Springer
 

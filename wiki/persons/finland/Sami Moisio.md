@@ -41,10 +41,6 @@ confidence: medium
 status: draft
 created: '2026-05-07'
 updated: '2026-06-08'
-family_name: Moisio
-given_names: Sami
-initials: S.
-citation_name: Moisio
 ---
 ## 简介
 

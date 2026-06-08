@@ -22,15 +22,12 @@ related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
 updated: '2026-06-08'
-family_name: Porter
-given_names: Michael
-initials: M.
-citation_name: Porter
 ---
 ## 简介
 

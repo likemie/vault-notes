@@ -26,10 +26,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Lincoln
-given_names: Yvonna S.
-initials: Y. S.
-citation_name: Lincoln
 ---
 # Yvonna S. Lincoln
 

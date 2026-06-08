@@ -19,15 +19,12 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Juan Pascual-Leone]]"
   - "[[Kurt Fischer]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Case
-given_names: Robbie
-initials: R.
-citation_name: Case
 ---
 ## 简介
 

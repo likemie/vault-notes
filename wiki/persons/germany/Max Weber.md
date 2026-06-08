@@ -26,16 +26,13 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: medium
 status: draft
 created: 2026-05-08
 updated: '2026-06-08'
-family_name: Weber
-given_names: Max
-initials: M.
-citation_name: Weber
 ---
 # Max Weber
 

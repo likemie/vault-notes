@@ -40,10 +40,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Bergeron|2017"
-citation_suffix: ""
-citation_key: "Bergeron_2017"
-citation_short: "Bergeron, 2017"
+citation_aliases:
+  - "Bergeron et al., 2017"
+  - "Bergeron et al. (2017)"
 ---
 ## 研究问题
 

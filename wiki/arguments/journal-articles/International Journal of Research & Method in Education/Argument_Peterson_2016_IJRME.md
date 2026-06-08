@@ -43,10 +43,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2016
 doi: ""
-citation_stem: "Peterson|2016"
-citation_suffix: ""
-citation_key: "Peterson_2016"
-citation_short: "Peterson, 2016"
+citation_aliases:
+  - "Amelia Peterson, 2016"
+  - "Amelia Peterson (2016)"
 ---
 ## 研究问题
 

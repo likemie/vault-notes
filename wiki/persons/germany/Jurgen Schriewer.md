@@ -21,15 +21,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Niklas Luhmann]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
 updated: '2026-06-08'
-family_name: Schriewer
-given_names: Jurgen
-initials: J.
-citation_name: Schriewer
 ---
 ## 简介
 

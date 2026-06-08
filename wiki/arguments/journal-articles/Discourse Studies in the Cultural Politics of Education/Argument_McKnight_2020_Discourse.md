@@ -37,10 +37,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2020
 doi: ""
-citation_stem: "McKnight|2020"
-citation_suffix: ""
-citation_key: "McKnight_2020"
-citation_short: "McKnight, 2020"
+citation_aliases:
+  - "McKnight & Whitburn, 2020"
+  - "McKnight & Whitburn (2020)"
 ---
 ## 研究问题
 

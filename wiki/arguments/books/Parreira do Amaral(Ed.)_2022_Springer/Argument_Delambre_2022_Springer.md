@@ -42,10 +42,9 @@ created: '2026-05-11'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Delambre|2022"
-citation_suffix: ""
-citation_key: "Delambre_2022"
-citation_short: "Delambre, 2022"
+citation_aliases:
+  - "Dell Delambre, 2022"
+  - "Dell Delambre (2022)"
 ---
 # Argument_Delambre_2022_Springer
 

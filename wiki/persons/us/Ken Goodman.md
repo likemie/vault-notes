@@ -20,15 +20,12 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Goodman
-given_names: Ken
-initials: K.
-citation_name: Goodman
 ---
 ## 简介
 

@@ -33,10 +33,6 @@ confidence: medium
 status: draft
 created: '2026-05-07'
 updated: '2026-06-08'
-family_name: Jessop
-given_names: Bob
-initials: B.
-citation_name: Jessop
 ---
 ## 简介
 

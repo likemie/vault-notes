@@ -33,10 +33,6 @@ confidence: medium
 status: draft
 created: 2026-06-07
 updated: '2026-06-08'
-family_name: Beech
-given_names: Jason
-initials: J.
-citation_name: Beech
 ---
 # Jason Beech
 

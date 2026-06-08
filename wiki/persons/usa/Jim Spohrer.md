@@ -23,10 +23,6 @@ confidence: medium
 status: draft
 created: 2026-05-28
 updated: '2026-06-08'
-family_name: Spohrer
-given_names: Jim
-initials: J.
-citation_name: Spohrer
 ---
 ## 简介
 

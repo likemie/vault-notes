@@ -23,10 +23,6 @@ confidence: medium
 status: draft
 created: 2026-05-26
 updated: '2026-06-08'
-family_name: Lunacharsky
-given_names: Anatoly
-initials: A.
-citation_name: Lunacharsky
 ---
 # Anatoly Lunacharsky
 

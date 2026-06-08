@@ -47,10 +47,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2020
 doi: ""
-citation_stem: "Wolf|2020"
-citation_suffix: ""
-citation_key: "Wolf_2020"
-citation_short: "Wolf, 2020"
+citation_aliases:
+  - "Wolf et al., 2020"
+  - "Wolf et al. (2020)"
 ---
 ## 研究问题
 

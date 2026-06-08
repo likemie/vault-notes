@@ -38,10 +38,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Møller|2017"
-citation_suffix: ""
-citation_key: "Møller_2017"
-citation_short: "Møller, 2017"
+citation_aliases:
+  - "Jorunn Møller, 2017"
+  - "Jorunn Møller (2017)"
 ---
 ## 研究问题
 

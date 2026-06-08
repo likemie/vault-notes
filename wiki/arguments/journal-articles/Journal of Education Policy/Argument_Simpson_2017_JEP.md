@@ -42,10 +42,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Simpson|2017"
-citation_suffix: ""
-citation_key: "Simpson_2017"
-citation_short: "Simpson, 2017"
+citation_aliases:
+  - "Adrian Simpson, 2017"
+  - "Adrian Simpson (2017)"
 ---
 ## 研究问题
 

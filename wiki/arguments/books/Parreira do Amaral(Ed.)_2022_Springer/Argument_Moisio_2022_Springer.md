@@ -55,10 +55,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Moisio|2022"
-citation_suffix: ""
-citation_key: "Moisio_2022"
-citation_short: "Moisio, 2022"
+citation_aliases:
+  - "Sami Moisio, 2022"
+  - "Sami Moisio (2022)"
 ---
 ## 研究问题
 

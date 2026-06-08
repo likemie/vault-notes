@@ -62,10 +62,9 @@ created: '2026-06-08'
 updated: '2026-06-08'
 year: 2016
 doi: ""
-citation_stem: "Higgins|2016"
-citation_suffix: ""
-citation_key: "Higgins_2016"
-citation_short: "Higgins, 2016"
+citation_aliases:
+  - "Higgins, 2016"
+  - "Higgins (2016)"
 ---
 ## 研究问题
 

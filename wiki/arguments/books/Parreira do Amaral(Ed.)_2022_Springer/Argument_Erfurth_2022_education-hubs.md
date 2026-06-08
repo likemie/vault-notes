@@ -45,10 +45,9 @@ journal: ""
 issuing_organization: ""
 year: 2022
 doi: ""
-citation_stem: "Erfurth|2022"
-citation_suffix: ""
-citation_key: "Erfurth_2022"
-citation_short: "Erfurth, 2022"
+citation_aliases:
+  - "Erfurth, 2022"
+  - "Erfurth (2022)"
 ---
 # Argument_Erfurth_2022_education-hubs
 

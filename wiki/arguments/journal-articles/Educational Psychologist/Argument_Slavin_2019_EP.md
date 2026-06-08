@@ -48,10 +48,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Slavin|2019"
-citation_suffix: ""
-citation_key: "Slavin_2019"
-citation_short: "Slavin, 2019"
+citation_aliases:
+  - "Slavin, 2019"
+  - "Slavin (2019)"
 ---
 ## 研究问题
 

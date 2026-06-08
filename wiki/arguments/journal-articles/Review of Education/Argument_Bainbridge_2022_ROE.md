@@ -41,10 +41,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Bainbridge|2022"
-citation_suffix: ""
-citation_key: "Bainbridge_2022"
-citation_short: "Bainbridge, 2022"
+citation_aliases:
+  - "Bainbridge et al., 2022"
+  - "Bainbridge et al. (2022)"
 ---
 ## 研究问题
 

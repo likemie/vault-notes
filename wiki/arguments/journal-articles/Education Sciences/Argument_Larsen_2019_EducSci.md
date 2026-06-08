@@ -39,10 +39,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Larsen|2019"
-citation_suffix: ""
-citation_key: "Larsen_2019"
-citation_short: "Larsen, 2019"
+citation_aliases:
+  - "Steen Nepper Larsen, 2019"
+  - "Steen Nepper Larsen (2019)"
 ---
 ## 研究问题
 

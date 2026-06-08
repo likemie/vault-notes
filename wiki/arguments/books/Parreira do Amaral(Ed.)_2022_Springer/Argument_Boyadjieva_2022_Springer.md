@@ -44,10 +44,9 @@ created: 2026-05-11
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Boyadjieva|2022"
-citation_suffix: ""
-citation_key: "Boyadjieva_2022"
-citation_short: "Boyadjieva, 2022"
+citation_aliases:
+  - "Pepka Boyadjieva, 2022"
+  - "Pepka Boyadjieva (2022)"
 ---
 # Argument_Boyadjieva_2022_Springer
 

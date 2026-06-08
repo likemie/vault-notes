@@ -53,10 +53,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2009
 doi: ""
-citation_stem: "Snook|2009"
-citation_suffix: ""
-citation_key: "Snook_2009"
-citation_short: "Snook, 2009"
+citation_aliases:
+  - "Snook et al., 2009"
+  - "Snook et al. (2009)"
 ---
 ## 研究问题
 

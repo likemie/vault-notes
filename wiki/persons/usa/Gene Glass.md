@@ -27,10 +27,6 @@ confidence: medium
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
-family_name: Glass
-given_names: Gene
-initials: G.
-citation_name: Glass
 ---
 ## 简介
 

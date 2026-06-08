@@ -35,10 +35,9 @@ created: 2026-05-02
 updated: '2026-06-08'
 year: 2011
 doi: ""
-citation_stem: "Eacott|2011"
-citation_suffix: ""
-citation_key: "Eacott_2011"
-citation_short: "Eacott, 2011"
+citation_aliases:
+  - "Scott Eacott, 2011"
+  - "Scott Eacott (2011)"
 ---
 # Argument_Eacott_2011_JEAH
 

@@ -23,15 +23,12 @@ related_theories:
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Luhmann
-given_names: Niklas
-initials: N.
-citation_name: Luhmann
 ---
 ## 简介
 

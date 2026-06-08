@@ -25,15 +25,12 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Pawson
-given_names: Ray
-initials: R.
-citation_name: Pawson
 ---
 ## 简介
 

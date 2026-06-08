@@ -43,10 +43,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Cowen|2015"
-citation_suffix: ""
-citation_key: "Cowen_2015"
-citation_short: "Cowen, 2015"
+citation_aliases:
+  - "Nick Cowen et al., 2015"
+  - "Nick Cowen et al. (2015)"
 ---
 ## 研究问题
 

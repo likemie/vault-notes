@@ -21,10 +21,6 @@ confidence: medium
 status: draft
 created: 2026-06-08
 updated: '2026-06-08'
-family_name: Sadler
-given_names: Michael
-initials: M.
-citation_name: Sadler
 ---
 # Michael Sadler
 

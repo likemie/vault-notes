@@ -65,10 +65,9 @@ created: 2026-06-01
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Schulze-Cleven|2017"
-citation_suffix: ""
-citation_key: "Schulze-Cleven_2017"
-citation_short: "Schulze-Cleven, 2017"
+citation_aliases:
+  - "Schulze-Cleven et al., 2017"
+  - "Schulze-Cleven et al. (2017)"
 ---
 # Argument_Schulze-Cleven_2017_HighEduc
 

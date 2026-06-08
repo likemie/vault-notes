@@ -23,10 +23,6 @@ confidence: medium
 status: draft
 created: 2026-05-25
 updated: '2026-06-08'
-family_name: Stevenson & Stigler
-given_names: Harold & James W.
-initials: H. & J. W.
-citation_name: Stevenson & Stigler
 ---
 # Stevenson and Stigler
 

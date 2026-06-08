@@ -38,10 +38,9 @@ created: '2026-05-17'
 updated: '2026-06-08'
 year: 2010
 doi: ""
-citation_stem: "Slethaug|2010"
-citation_suffix: ""
-citation_key: "Slethaug_2010"
-citation_short: "Slethaug, 2010"
+citation_aliases:
+  - "Slethaug, 2010"
+  - "Slethaug (2010)"
 ---
 # Argument_Slethaug_2010_InternationalEducation
 

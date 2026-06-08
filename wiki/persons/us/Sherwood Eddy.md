@@ -23,10 +23,6 @@ confidence: low
 status: draft
 created: 2026-05-26
 updated: '2026-06-08'
-family_name: Eddy
-given_names: Sherwood
-initials: S.
-citation_name: Eddy
 ---
 # Sherwood Eddy
 

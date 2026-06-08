@@ -23,10 +23,6 @@ confidence: medium
 status: draft
 created: 2026-06-07
 updated: '2026-06-08'
-family_name: Ryle
-given_names: Gilbert
-initials: G.
-citation_name: Ryle
 ---
 # Gilbert Ryle
 

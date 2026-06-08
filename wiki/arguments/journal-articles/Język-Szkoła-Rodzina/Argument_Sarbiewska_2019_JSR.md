@@ -41,10 +41,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Sarbiewska|2019"
-citation_suffix: ""
-citation_key: "Sarbiewska_2019"
-citation_short: "Sarbiewska, 2019"
+citation_aliases:
+  - "Sarbiewska, 2019"
+  - "Sarbiewska (2019)"
 ---
 ## 研究问题
 

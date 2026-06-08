@@ -27,10 +27,6 @@ confidence: medium
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Campbell
-given_names: Carol
-initials: C.
-citation_name: Campbell
 ---
 ## 简介
 

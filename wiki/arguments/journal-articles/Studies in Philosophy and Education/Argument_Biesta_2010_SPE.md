@@ -42,10 +42,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2010
 doi: ""
-citation_stem: "Biesta|2010"
-citation_suffix: ""
-citation_key: "Biesta_2010"
-citation_short: "Biesta, 2010"
+citation_aliases:
+  - "Biesta, 2010"
+  - "Biesta (2010)"
 ---
 ## 研究问题
 

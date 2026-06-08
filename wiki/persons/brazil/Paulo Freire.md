@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: '2026-05-10'
 updated: '2026-06-08'
-family_name: Freire
-given_names: Paulo
-initials: P.
-citation_name: Freire
 ---
 # Paulo Freire
 

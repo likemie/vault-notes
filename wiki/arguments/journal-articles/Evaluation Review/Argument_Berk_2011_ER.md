@@ -43,10 +43,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2011
 doi: ""
-citation_stem: "Berk|2011"
-citation_suffix: ""
-citation_key: "Berk_2011"
-citation_short: "Berk, 2011"
+citation_aliases:
+  - "Berk, 2011"
+  - "Berk (2011)"
 ---
 ## 研究问题
 

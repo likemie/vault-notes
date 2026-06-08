@@ -37,10 +37,9 @@ publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
-citation_stem: "Lerner-Lam|2025"
-citation_suffix: ""
-citation_key: "Lerner-Lam_2025"
-citation_short: "Lerner-Lam, 2025"
+citation_aliases:
+  - "Lerner-Lam et al., 2025"
+  - "Lerner-Lam et al. (2025)"
 ---
 # Argument_LernerLam_2025_TransdisciplinaryExecutiveEd
 

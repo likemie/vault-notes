@@ -43,10 +43,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2021
 doi: ""
-citation_stem: "Nielsen|2021"
-citation_suffix: "b"
-citation_key: "Nielsen_2021b"
-citation_short: "Nielsen, 2021b"
+citation_aliases:
+  - "Klaus Nielsen & Klitmøller, 2021a"
+  - "Klaus Nielsen & Klitmøller (2021a)"
 ---
 ## 研究问题
 

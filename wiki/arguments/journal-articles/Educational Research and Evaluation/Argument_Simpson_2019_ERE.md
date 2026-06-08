@@ -38,10 +38,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Simpson|2019"
-citation_suffix: ""
-citation_key: "Simpson_2019"
-citation_short: "Simpson, 2019"
+citation_aliases:
+  - "Adrian Simpson, 2019"
+  - "Adrian Simpson (2019)"
 ---
 ## 研究问题
 

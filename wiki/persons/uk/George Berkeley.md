@@ -33,10 +33,6 @@ confidence: medium
 status: draft
 created: 2026-05-22
 updated: '2026-06-08'
-family_name: Berkeley
-given_names: George
-initials: G.
-citation_name: Berkeley
 ---
 # George Berkeley
 

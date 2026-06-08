@@ -21,15 +21,12 @@ related_theories:
   - "[[Neo-Piagetian Theories]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Piaget
-given_names: Jean
-initials: J.
-citation_name: Piaget
 ---
 ## 简介
 

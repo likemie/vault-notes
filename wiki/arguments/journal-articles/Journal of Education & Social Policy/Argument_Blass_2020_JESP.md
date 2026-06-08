@@ -40,10 +40,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2020
 doi: ""
-citation_stem: "Blass|2020"
-citation_suffix: ""
-citation_key: "Blass_2020"
-citation_short: "Blass, 2020"
+citation_aliases:
+  - "Blass, 2020"
+  - "Blass (2020)"
 ---
 ## 研究问题
 

@@ -43,10 +43,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2014
 doi: ""
-citation_stem: "Gorur|2014"
-citation_suffix: ""
-citation_key: "Gorur_2014"
-citation_short: "Gorur, 2014"
+citation_aliases:
+  - "Gorur, 2014"
+  - "Gorur (2014)"
 ---
 ## 研究问题
 

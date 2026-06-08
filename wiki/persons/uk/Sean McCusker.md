@@ -26,10 +26,6 @@ confidence: low
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: McCusker
-given_names: Sean
-initials: S.
-citation_name: McCusker
 ---
 ## 简介
 

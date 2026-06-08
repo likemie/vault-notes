@@ -58,10 +58,9 @@ created: '2026-05-13'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Rambla|2022"
-citation_suffix: ""
-citation_key: "Rambla_2022"
-citation_short: "Rambla, 2022"
+citation_aliases:
+  - "Rambla, 2022"
+  - "Rambla (2022)"
 ---
 # Argument_Rambla_2022_Springer
 

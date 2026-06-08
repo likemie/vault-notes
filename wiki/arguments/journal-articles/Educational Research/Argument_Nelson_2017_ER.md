@@ -40,10 +40,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Nelson|2017"
-citation_suffix: ""
-citation_key: "Nelson_2017"
-citation_short: "Nelson, 2017"
+citation_aliases:
+  - "Julie Nelson & Carol Campbell, 2017"
+  - "Julie Nelson & Carol Campbell (2017)"
 ---
 ## 研究问题
 

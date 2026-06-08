@@ -20,15 +20,12 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Simon
-given_names: Herbert A.
-initials: H. A.
-citation_name: Simon
 ---
 ## 简介
 

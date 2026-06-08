@@ -33,10 +33,6 @@ confidence: high
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Morris
-given_names: Paul
-initials: P.
-citation_name: Morris
 ---
 ## 简介
 

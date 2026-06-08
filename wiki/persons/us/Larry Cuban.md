@@ -25,10 +25,6 @@ confidence: medium
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Cuban
-given_names: Larry
-initials: L.
-citation_name: Cuban
 ---
 ## 简介
 

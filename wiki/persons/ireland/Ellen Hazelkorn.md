@@ -19,15 +19,12 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-11'
 updated: '2026-06-08'
-family_name: Hazelkorn
-given_names: Ellen
-initials: E.
-citation_name: Hazelkorn
 ---
 # Ellen Hazelkorn
 

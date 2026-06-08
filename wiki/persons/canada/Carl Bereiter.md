@@ -15,15 +15,12 @@ related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Bereiter
-given_names: Carl
-initials: C.
-citation_name: Bereiter
 ---
 ## 简介
 

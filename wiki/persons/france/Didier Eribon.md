@@ -18,15 +18,12 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-09'
 updated: '2026-06-08'
-family_name: Eribon
-given_names: Didier
-initials: D.
-citation_name: Eribon
 ---
 ## 简介
 

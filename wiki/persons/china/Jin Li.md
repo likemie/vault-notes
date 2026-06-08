@@ -53,10 +53,6 @@ confidence: medium
 status: draft
 created: '2026-05-21'
 updated: '2026-06-08'
-family_name: Li
-given_names: Jin
-initials: J.
-citation_name: Li
 ---
 # Jin Li
 

@@ -25,15 +25,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Gary Thomas]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-11'
 updated: '2026-06-08'
-family_name: Meyer
-given_names: John W.
-initials: J. W.
-citation_name: Meyer
 ---
 # John W. Meyer
 

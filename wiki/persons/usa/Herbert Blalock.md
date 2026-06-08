@@ -24,10 +24,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Blalock
-given_names: Herbert
-initials: H.
-citation_name: Blalock
 ---
 # Herbert Blalock
 

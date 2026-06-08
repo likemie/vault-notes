@@ -45,10 +45,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Bolton|2017"
-citation_suffix: ""
-citation_key: "Bolton_2017"
-citation_short: "Bolton, 2017"
+citation_aliases:
+  - "Bolton & John Hattie, 2017"
+  - "Bolton & John Hattie (2017)"
 ---
 ## 研究问题
 

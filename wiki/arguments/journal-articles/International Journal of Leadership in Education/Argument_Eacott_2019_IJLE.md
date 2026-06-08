@@ -37,10 +37,9 @@ created: 2026-05-03
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Eacott|2019"
-citation_suffix: ""
-citation_key: "Eacott_2019"
-citation_short: "Eacott, 2019"
+citation_aliases:
+  - "Scott Eacott, 2019"
+  - "Scott Eacott (2019)"
 ---
 ## 研究问题
 

@@ -51,10 +51,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2018
 doi: ""
-citation_stem: "Wrigley|2018"
-citation_suffix: ""
-citation_key: "Wrigley_2018"
-citation_short: "Wrigley, 2018"
+citation_aliases:
+  - "Terry Wrigley, 2018"
+  - "Terry Wrigley (2018)"
 ---
 ## 研究问题
 

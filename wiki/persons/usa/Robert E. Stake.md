@@ -26,10 +26,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Stake
-given_names: Robert E.
-initials: R. E.
-citation_name: Stake
 ---
 # Robert E. Stake
 

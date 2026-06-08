@@ -43,10 +43,6 @@ confidence: high
 status: draft
 created: 2026-05-02
 updated: '2026-06-08'
-family_name: Bourdieu
-given_names: Pierre
-initials: P.
-citation_name: Bourdieu
 ---
 # Pierre Bourdieu
 

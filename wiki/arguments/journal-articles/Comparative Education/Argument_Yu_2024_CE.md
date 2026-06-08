@@ -47,10 +47,9 @@ created: 2026-05-21
 updated: '2026-06-08'
 year: 2024
 doi: ""
-citation_stem: "Yu|2024"
-citation_suffix: ""
-citation_key: "Yu_2024"
-citation_short: "Yu, 2024"
+citation_aliases:
+  - "Yu & Zhao, 2024"
+  - "Yu & Zhao (2024)"
 ---
 # Argument_Yu_2024_CE
 

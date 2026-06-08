@@ -50,10 +50,9 @@ created: 2026-05-26
 updated: '2026-06-08'
 year: 2009
 doi: ""
-citation_stem: "Schulte|2009"
-citation_suffix: ""
-citation_key: "Schulte_2009"
-citation_short: "Schulte, 2009"
+citation_aliases:
+  - "Schulte, 2009"
+  - "Schulte (2009)"
 ---
 # Argument_Schulte_2009_EncuentrosEducacion
 

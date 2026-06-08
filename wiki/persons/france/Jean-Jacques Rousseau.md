@@ -33,10 +33,6 @@ confidence: medium
 status: draft
 created: 2026-05-22
 updated: '2026-06-08'
-family_name: Rousseau
-given_names: Jean-Jacques
-initials: J. J.
-citation_name: Rousseau
 ---
 # Jean-Jacques Rousseau
 

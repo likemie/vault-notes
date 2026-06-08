@@ -40,10 +40,6 @@ confidence: medium
 status: draft
 created: 2026-05-26
 updated: '2026-06-08'
-family_name: Dewey
-given_names: John
-initials: J.
-citation_name: Dewey
 ---
 # John Dewey
 

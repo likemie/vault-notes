@@ -37,10 +37,9 @@ created: 2026-05-02
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Eacott|2015"
-citation_suffix: ""
-citation_key: "Eacott_2015"
-citation_short: "Eacott, 2015"
+citation_aliases:
+  - "Scott Eacott, 2015"
+  - "Scott Eacott (2015)"
 ---
 ## 研究问题
 

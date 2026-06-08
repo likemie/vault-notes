@@ -17,16 +17,13 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Dewey]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: low
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Benner
-given_names: Dietrich
-initials: D.
-citation_name: Benner
 ---
 ## 简介
 

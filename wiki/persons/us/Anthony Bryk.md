@@ -17,15 +17,12 @@ related_theories: []
 related_methods:
   - "[[Improvement Science]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Bryk
-given_names: Anthony
-initials: A.
-citation_name: Bryk
 ---
 ## 简介
 

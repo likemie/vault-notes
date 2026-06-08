@@ -23,10 +23,6 @@ confidence: low
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Mehlbye
-given_names: Jill
-initials: J.
-citation_name: Mehlbye
 ---
 ## 简介
 

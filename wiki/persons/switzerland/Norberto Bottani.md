@@ -32,10 +32,6 @@ confidence: high
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Bottani
-given_names: Norberto
-initials: N.
-citation_name: Bottani
 ---
 ## 简介
 

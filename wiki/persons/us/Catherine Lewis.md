@@ -16,15 +16,12 @@ related_theories: []
 related_methods:
   - "[[Improvement Science]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Lewis
-given_names: Catherine
-initials: C.
-citation_name: Lewis
 ---
 ## 简介
 

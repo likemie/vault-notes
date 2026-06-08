@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: '2026-05-06'
 updated: '2026-06-08'
-family_name: Klafki
-given_names: Wolfgang
-initials: W.
-citation_name: Klafki
 ---
 ## 简介
 

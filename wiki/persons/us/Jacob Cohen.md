@@ -20,15 +20,12 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Cohen
-given_names: Jacob
-initials: J.
-citation_name: Cohen
 ---
 ## 简介
 

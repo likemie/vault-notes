@@ -61,10 +61,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Parreira do Amaral|2022"
-citation_suffix: "b"
-citation_key: "Parreira do Amaral_2022b"
-citation_short: "Parreira do Amaral, 2022b"
+citation_aliases:
+  - "Parreira do Amaral & Christiane Thompson, 2022"
+  - "Parreira do Amaral & Christiane Thompson (2022)"
 ---
 ## 编者论点
 

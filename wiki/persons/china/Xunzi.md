@@ -24,10 +24,6 @@ confidence: medium
 status: draft
 created: 2026-05-25
 updated: '2026-06-08'
-family_name: Xunzi
-given_names: 
-initials: 
-citation_name: Xunzi
 ---
 # Xunzi
 

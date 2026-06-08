@@ -38,10 +38,6 @@ confidence: high
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Cowen
-given_names: Nick
-initials: N.
-citation_name: Cowen
 ---
 ## 简介
 

@@ -57,10 +57,9 @@ created: 2026-05-23
 updated: '2026-06-08'
 year: 2021
 doi: ""
-citation_stem: "Pellegrini|2021"
-citation_suffix: ""
-citation_key: "Pellegrini_2021"
-citation_short: "Pellegrini, 2021"
+citation_aliases:
+  - "Pellegrini & Vivanet, 2021"
+  - "Pellegrini & Vivanet (2021)"
 ---
 # Argument_Pellegrini_2021_ROE
 

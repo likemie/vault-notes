@@ -15,15 +15,12 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Meyer
-given_names: Hilbert
-initials: H.
-citation_name: Meyer
 ---
 ## 简介
 

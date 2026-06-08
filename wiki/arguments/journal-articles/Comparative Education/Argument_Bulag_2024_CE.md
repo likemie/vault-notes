@@ -42,10 +42,9 @@ book_title: ""
 issuing_organization: ""
 year: 2024
 doi: ""
-citation_stem: "Bulag|2024"
-citation_suffix: ""
-citation_key: "Bulag_2024"
-citation_short: "Bulag, 2024"
+citation_aliases:
+  - "Bulag, 2024"
+  - "Bulag (2024)"
 ---
 # Argument_Bulag_2024_CE
 

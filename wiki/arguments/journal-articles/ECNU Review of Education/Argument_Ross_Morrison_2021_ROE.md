@@ -55,10 +55,9 @@ created: 2026-05-23
 updated: '2026-06-08'
 year: 2021
 doi: ""
-citation_stem: "Ross|2021"
-citation_suffix: ""
-citation_key: "Ross_2021"
-citation_short: "Ross, 2021"
+citation_aliases:
+  - "Ross & Morrison, 2021"
+  - "Ross & Morrison (2021)"
 ---
 # Argument_Ross_Morrison_2021_ROE
 

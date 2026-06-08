@@ -46,10 +46,9 @@ publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
-citation_stem: "Swick|2025"
-citation_suffix: ""
-citation_key: "Swick_2025"
-citation_short: "Swick, 2025"
+citation_aliases:
+  - "Swick & Jones, 2025"
+  - "Swick & Jones (2025)"
 ---
 # Argument_Swick_Jones_2025_AcademicHealthSystems
 

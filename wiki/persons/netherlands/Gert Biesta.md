@@ -30,15 +30,12 @@ related_methods:
 related_persons:
   - "[[John Dewey]]"
   - "[[Bruno Latour]]"
+related_facts: []
 related_arguments: []
 confidence: high
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Biesta
-given_names: Gert
-initials: G.
-citation_name: Biesta
 ---
 ## 简介
 

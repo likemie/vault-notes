@@ -67,10 +67,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2024
 doi: ""
-citation_stem: "Wadhwa|2024"
-citation_suffix: ""
-citation_key: "Wadhwa_2024"
-citation_short: "Wadhwa, 2024"
+citation_aliases:
+  - "Wadhwa et al., 2024"
+  - "Wadhwa et al. (2024)"
 ---
 ## 研究问题
 

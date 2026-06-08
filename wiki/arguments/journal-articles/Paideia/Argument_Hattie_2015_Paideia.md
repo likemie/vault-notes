@@ -41,10 +41,9 @@ created: 2026-05-21
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Hattie|2015"
-citation_suffix: "a"
-citation_key: "Hattie_2015a"
-citation_short: "Hattie, 2015a"
+citation_aliases:
+  - "John Hattie, 2015a"
+  - "John Hattie (2015a)"
 ---
 # Argument_Hattie_2015_Paideia
 

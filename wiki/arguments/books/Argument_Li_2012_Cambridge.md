@@ -139,10 +139,9 @@ created: 2026-05-21
 updated: '2026-06-08'
 year: 2012
 doi: ""
-citation_stem: "Li|2012"
-citation_suffix: ""
-citation_key: "Li_2012"
-citation_short: "Li, 2012"
+citation_aliases:
+  - "Jin Li, 2012"
+  - "Jin Li (2012)"
 ---
 # Argument_Li_2012_Cambridge
 

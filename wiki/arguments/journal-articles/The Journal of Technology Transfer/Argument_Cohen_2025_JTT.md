@@ -47,10 +47,9 @@ created: 2026-06-05
 updated: '2026-06-08'
 year: 2025
 doi: ""
-citation_stem: "Cohen|2025"
-citation_suffix: ""
-citation_key: "Cohen_2025"
-citation_short: "Cohen, 2025"
+citation_aliases:
+  - "Cohen et al., 2025"
+  - "Cohen et al. (2025)"
 ---
 # Argument_Cohen_2025_JTT
 

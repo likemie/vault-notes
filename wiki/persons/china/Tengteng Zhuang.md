@@ -17,15 +17,12 @@ related_methods: []
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Alan C. K. Cheung]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Zhuang
-given_names: Tengteng
-initials: T.
-citation_name: Zhuang
 ---
 ## 简介
 

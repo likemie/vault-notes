@@ -42,10 +42,9 @@ created: '2026-05-06'
 updated: '2026-06-08'
 year: 2010
 doi: ""
-citation_stem: "Hattie|2010"
-citation_suffix: ""
-citation_key: "Hattie_2010"
-citation_short: "Hattie, 2010"
+citation_aliases:
+  - "John Hattie, 2010"
+  - "John Hattie (2010)"
 ---
 ## 研究问题
 

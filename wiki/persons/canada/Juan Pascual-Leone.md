@@ -18,15 +18,12 @@ related_methods: []
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Robbie Case]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Pascual-Leone
-given_names: Juan
-initials: J.
-citation_name: Pascual-Leone
 ---
 ## 简介
 

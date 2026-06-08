@@ -21,15 +21,12 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Ball
-given_names: Stephen
-initials: S.
-citation_name: Ball
 ---
 ## 简介
 

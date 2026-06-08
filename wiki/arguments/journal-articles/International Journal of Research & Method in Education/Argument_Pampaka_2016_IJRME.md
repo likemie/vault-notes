@@ -38,10 +38,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2016
 doi: ""
-citation_stem: "Pampaka|2016"
-citation_suffix: ""
-citation_key: "Pampaka_2016"
-citation_short: "Pampaka, 2016"
+citation_aliases:
+  - "Maria Pampaka et al., 2016"
+  - "Maria Pampaka et al. (2016)"
 ---
 ## 研究问题
 

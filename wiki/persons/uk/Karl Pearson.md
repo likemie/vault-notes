@@ -21,15 +21,12 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
-family_name: Pearson
-given_names: Karl
-initials: K.
-citation_name: Pearson
 ---
 ## 简介
 

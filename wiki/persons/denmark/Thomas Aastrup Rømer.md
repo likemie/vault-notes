@@ -32,10 +32,6 @@ confidence: medium
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Rømer
-given_names: Thomas Aastrup
-initials: T. A.
-citation_name: Rømer
 ---
 ## 简介
 

@@ -29,6 +29,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Steen Nepper Larsen]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
@@ -36,10 +37,6 @@ confidence: low
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Qvortrup
-given_names: Lars
-initials: L.
-citation_name: Qvortrup
 ---
 ## 简介
 

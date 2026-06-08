@@ -32,10 +32,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2010
 doi: ""
-citation_stem: "Grace|2010"
-citation_suffix: ""
-citation_key: "Grace_2010"
-citation_short: "Grace, 2010"
+citation_aliases:
+  - "Gerald Grace, 2010"
+  - "Gerald Grace (2010)"
 ---
 ## 研究问题
 

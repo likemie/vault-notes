@@ -50,10 +50,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Cowen|2019"
-citation_suffix: ""
-citation_key: "Cowen_2019"
-citation_short: "Cowen, 2019"
+citation_aliases:
+  - "Nick Cowen, 2019"
+  - "Nick Cowen (2019)"
 ---
 ## 研究问题
 

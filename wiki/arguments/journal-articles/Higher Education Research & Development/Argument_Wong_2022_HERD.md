@@ -37,10 +37,9 @@ created: '2026-05-06'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Wong|2022"
-citation_suffix: ""
-citation_key: "Wong_2022"
-citation_short: "Wong, 2022"
+citation_aliases:
+  - "Wong et al., 2022"
+  - "Wong et al. (2022)"
 ---
 ## 研究问题
 

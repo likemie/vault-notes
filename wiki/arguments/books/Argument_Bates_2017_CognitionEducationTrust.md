@@ -30,10 +30,9 @@ created: 2026-05-22
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Bates|2017"
-citation_suffix: ""
-citation_key: "Bates_2017"
-citation_short: "Bates, 2017"
+citation_aliases:
+  - "Terry Bates, 2017"
+  - "Terry Bates (2017)"
 ---
 # Argument_Bates_2017_CognitionEducationTrust
 

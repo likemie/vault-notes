@@ -27,6 +27,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Eacott_2011_JEAH]]"
@@ -35,10 +36,6 @@ confidence: medium
 status: draft
 created: 2026-05-03
 updated: '2026-06-08'
-family_name: Eacott
-given_names: Scott
-initials: S.
-citation_name: Eacott
 ---
 ## 简介
 

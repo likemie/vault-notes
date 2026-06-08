@@ -35,10 +35,6 @@ confidence: medium
 status: draft
 created: 2026-05-22
 updated: '2026-06-08'
-family_name: Locke
-given_names: John
-initials: J.
-citation_name: Locke
 ---
 # John Locke
 

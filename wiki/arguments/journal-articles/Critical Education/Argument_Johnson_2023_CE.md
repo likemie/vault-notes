@@ -43,10 +43,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2023
 doi: ""
-citation_stem: "Johnson|2023"
-citation_suffix: ""
-citation_key: "Johnson_2023"
-citation_short: "Johnson, 2023"
+citation_aliases:
+  - "Johnson & Janzen, 2023"
+  - "Johnson & Janzen (2023)"
 ---
 ## 研究问题
 

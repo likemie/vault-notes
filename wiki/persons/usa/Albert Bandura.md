@@ -25,10 +25,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Bandura
-given_names: Albert
-initials: A.
-citation_name: Bandura
 ---
 # Albert Bandura
 

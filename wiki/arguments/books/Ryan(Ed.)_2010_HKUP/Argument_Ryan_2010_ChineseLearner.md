@@ -43,10 +43,9 @@ created: '2026-05-17'
 updated: '2026-06-08'
 year: 2010
 doi: ""
-citation_stem: "Ryan|2010"
-citation_suffix: "a"
-citation_key: "Ryan_2010a"
-citation_short: "Ryan, 2010a"
+citation_aliases:
+  - "Ryan, 2010"
+  - "Ryan (2010)"
 ---
 # Argument_Ryan_2010_ChineseLearner
 

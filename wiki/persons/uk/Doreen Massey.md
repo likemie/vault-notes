@@ -25,15 +25,12 @@ related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-12'
 updated: '2026-06-08'
-family_name: Massey
-given_names: Doreen
-initials: D.
-citation_name: Massey
 ---
 # Doreen Massey
 

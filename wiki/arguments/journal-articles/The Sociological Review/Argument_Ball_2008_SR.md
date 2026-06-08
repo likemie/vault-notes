@@ -41,10 +41,9 @@ book_title: ""
 issuing_organization: ""
 year: 2008
 doi: ""
-citation_stem: "Ball|2008"
-citation_suffix: ""
-citation_key: "Ball_2008"
-citation_short: "Ball, 2008"
+citation_aliases:
+  - "Ball, 2008"
+  - "Ball (2008)"
 ---
 # Argument_Ball_2008_SR
 

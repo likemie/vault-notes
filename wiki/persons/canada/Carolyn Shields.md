@@ -24,10 +24,6 @@ confidence: medium
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Shields
-given_names: Carolyn
-initials: C.
-citation_name: Shields
 ---
 ## 简介
 

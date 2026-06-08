@@ -43,10 +43,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2021
 doi: ""
-citation_stem: "Slavin|2021"
-citation_suffix: ""
-citation_key: "Slavin_2021"
-citation_short: "Slavin, 2021"
+citation_aliases:
+  - "Slavin et al., 2021"
+  - "Slavin et al. (2021)"
 ---
 ## 研究问题
 

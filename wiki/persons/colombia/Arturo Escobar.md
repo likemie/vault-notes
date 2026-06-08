@@ -23,15 +23,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Donna Haraway]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-08'
 updated: '2026-06-08'
-family_name: Escobar
-given_names: Arturo
-initials: A.
-citation_name: Escobar
 ---
 ## 简介
 

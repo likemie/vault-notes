@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Rotter
-given_names: Julian B.
-initials: J. B.
-citation_name: Rotter
 ---
 # Julian B. Rotter
 

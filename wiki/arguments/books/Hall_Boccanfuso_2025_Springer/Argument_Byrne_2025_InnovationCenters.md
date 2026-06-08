@@ -52,10 +52,9 @@ publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
-citation_stem: "Byrne|2025"
-citation_suffix: ""
-citation_key: "Byrne_2025"
-citation_short: "Byrne, 2025"
+citation_aliases:
+  - "Byrne & Clements, 2025"
+  - "Byrne & Clements (2025)"
 ---
 # Argument_Byrne_2025_InnovationCenters
 

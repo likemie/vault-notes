@@ -7,10 +7,9 @@ authors:
 citation: "Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. Educational Researcher, 31(7), 15–21."
 year: 2002
 doi: "10.3102/0013189X031007015"
-citation_stem: "Slavin|2002"
-citation_suffix: ""
-citation_key: "Slavin_2002"
-citation_short: "Slavin, 2002"
+citation_aliases:
+  - "Slavin, 2002"
+  - "Slavin (2002)"
 tags:
   - evidence-based-education
   - evidence-based-reform
@@ -45,7 +44,6 @@ journal: "Educational Researcher"
 book_title: ""
 issuing_organization: ""
 ---
-
 # Argument_Slavin_2002_ER
 
 ## 研究问题

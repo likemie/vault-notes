@@ -16,15 +16,12 @@ related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Hofstede
-given_names: Geert
-initials: G.
-citation_name: Hofstede
 ---
 ## 简介
 

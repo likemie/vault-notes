@@ -47,10 +47,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Parreira do Amaral|2022"
-citation_suffix: "a"
-citation_key: "Parreira do Amaral_2022a"
-citation_short: "Parreira do Amaral, 2022a"
+citation_aliases:
+  - "Parreira do Amaral, 2022"
+  - "Parreira do Amaral (2022)"
 ---
 ## 研究问题
 

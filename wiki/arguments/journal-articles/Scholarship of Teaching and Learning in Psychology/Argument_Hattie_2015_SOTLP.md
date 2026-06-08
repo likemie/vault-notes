@@ -34,10 +34,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Hattie|2015"
-citation_suffix: "b"
-citation_key: "Hattie_2015b"
-citation_short: "Hattie, 2015b"
+citation_aliases:
+  - "John Hattie, 2015b"
+  - "John Hattie (2015b)"
 ---
 ## 研究问题
 

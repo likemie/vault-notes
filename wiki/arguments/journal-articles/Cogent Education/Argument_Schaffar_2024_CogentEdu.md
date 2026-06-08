@@ -43,10 +43,9 @@ created: '2026-05-06'
 updated: '2026-06-08'
 year: 2024
 doi: ""
-citation_stem: "Schaffar|2024"
-citation_suffix: ""
-citation_key: "Schaffar_2024"
-citation_short: "Schaffar, 2024"
+citation_aliases:
+  - "Schaffar et al., 2024"
+  - "Schaffar et al. (2024)"
 ---
 ## 研究问题
 

@@ -55,10 +55,9 @@ created: 2026-06-06
 updated: '2026-06-08'
 year: 2023
 doi: ""
-citation_stem: "McPhail|2023"
-citation_suffix: ""
-citation_key: "McPhail_2023"
-citation_short: "McPhail, 2023"
+citation_aliases:
+  - "McPhail et al., 2023"
+  - "McPhail et al. (2023)"
 ---
 # Argument_McPhail_2023_JCS
 

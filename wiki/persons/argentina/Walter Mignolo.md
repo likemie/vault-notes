@@ -33,15 +33,12 @@ related_persons:
   - "[[Dell Delambre]]"
   - "[[Arturo Escobar]]"
   - "[[Chen Kuan-Hsing]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-07
 updated: '2026-06-08'
-family_name: Mignolo
-given_names: Walter
-initials: W.
-citation_name: Mignolo
 ---
 # Walter Mignolo
 

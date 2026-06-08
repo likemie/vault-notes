@@ -33,10 +33,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2023
 doi: ""
-citation_stem: "Kraft|2023"
-citation_suffix: ""
-citation_key: "Kraft_2023"
-citation_short: "Kraft, 2023"
+citation_aliases:
+  - "Kraft, 2023"
+  - "Kraft (2023)"
 ---
 ## 研究问题
 

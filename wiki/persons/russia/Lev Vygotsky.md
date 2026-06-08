@@ -23,10 +23,6 @@ confidence: low
 status: draft
 created: 2026-06-06
 updated: '2026-06-08'
-family_name: Vygotsky
-given_names: Lev
-initials: L.
-citation_name: Vygotsky
 ---
 # Lev Vygotsky
 

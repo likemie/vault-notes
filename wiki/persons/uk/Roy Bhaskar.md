@@ -21,15 +21,12 @@ related_methods: []
 related_persons:
   - "[[Ray Pawson]]"
   - "[[Terry Wrigley]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Bhaskar
-given_names: Roy
-initials: R.
-citation_name: Bhaskar
 ---
 ## 简介
 

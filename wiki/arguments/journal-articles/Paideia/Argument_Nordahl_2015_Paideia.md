@@ -41,10 +41,9 @@ created: '2026-05-21'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Nordahl|2015"
-citation_suffix: ""
-citation_key: "Nordahl_2015"
-citation_short: "Nordahl, 2015"
+citation_aliases:
+  - "Thomas Nordahl, 2015"
+  - "Thomas Nordahl (2015)"
 ---
 ## 研究问题
 

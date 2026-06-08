@@ -19,15 +19,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Jean Piaget]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Miyake
-given_names: Akira
-initials: A.
-citation_name: Miyake
 ---
 ## 简介
 

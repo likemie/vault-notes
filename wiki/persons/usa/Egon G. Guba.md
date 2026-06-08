@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Guba
-given_names: Egon G.
-initials: E. G.
-citation_name: Guba
 ---
 # Egon G. Guba
 

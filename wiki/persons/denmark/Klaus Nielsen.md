@@ -37,10 +37,6 @@ confidence: medium
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Nielsen
-given_names: Klaus
-initials: K.
-citation_name: Nielsen
 ---
 ## 简介
 

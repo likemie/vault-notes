@@ -40,15 +40,12 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Didier Eribon]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-08
 updated: '2026-06-08'
-family_name: Zheng
-given_names: Yajun
-initials: Y.
-citation_name: Zheng
 ---
 # Yajun Zheng
 

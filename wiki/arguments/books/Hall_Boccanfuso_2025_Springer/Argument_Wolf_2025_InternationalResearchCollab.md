@@ -47,10 +47,9 @@ journal: ""
 issuing_organization: ""
 year: 2025
 doi: ""
-citation_stem: "Bethany|2025"
-citation_suffix: ""
-citation_key: "Bethany_2025"
-citation_short: "Bethany, 2025"
+citation_aliases:
+  - "Bethany J. Wolf et al., 2025"
+  - "Bethany J. Wolf et al. (2025)"
 ---
 # Argument_Wolf_2025_InternationalResearchCollab
 

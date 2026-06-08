@@ -45,10 +45,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Wiliam|2019"
-citation_suffix: ""
-citation_key: "Wiliam_2019"
-citation_short: "Wiliam, 2019"
+citation_aliases:
+  - "Dylan Wiliam, 2019"
+  - "Dylan Wiliam (2019)"
 ---
 ## 研究问题
 

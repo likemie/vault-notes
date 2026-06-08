@@ -23,15 +23,12 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: 2026-05-08
 updated: '2026-06-08'
-family_name: Magolda
-given_names: Marcia Baxter
-initials: M. B.
-citation_name: Magolda
 ---
 ## 简介
 

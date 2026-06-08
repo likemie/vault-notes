@@ -39,10 +39,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Knudsen|2017"
-citation_suffix: ""
-citation_key: "Knudsen_2017"
-citation_short: "Knudsen, 2017"
+citation_aliases:
+  - "Knudsen, 2017"
+  - "Knudsen (2017)"
 ---
 ## 研究问题
 

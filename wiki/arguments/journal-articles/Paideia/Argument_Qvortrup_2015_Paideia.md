@@ -41,10 +41,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Qvortrup|2015"
-citation_suffix: ""
-citation_key: "Qvortrup_2015"
-citation_short: "Qvortrup, 2015"
+citation_aliases:
+  - "Lars Qvortrup, 2015"
+  - "Lars Qvortrup (2015)"
 ---
 ## 研究问题
 

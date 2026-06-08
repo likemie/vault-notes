@@ -33,10 +33,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2016
 doi: ""
-citation_stem: "O'Neill|2016"
-citation_suffix: ""
-citation_key: "O'Neill_2016"
-citation_short: "O'Neill, 2016"
+citation_aliases:
+  - "O'Neill et al., 2016"
+  - "O'Neill et al. (2016)"
 ---
 ## 研究问题
 

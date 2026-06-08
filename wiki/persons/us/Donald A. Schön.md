@@ -22,15 +22,12 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Schön
-given_names: Donald A.
-initials: D. A.
-citation_name: Schön
 ---
 ## 简介
 

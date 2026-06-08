@@ -20,15 +20,12 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[David Phillips]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
 updated: '2026-06-08'
-family_name: Ochs
-given_names: Kimberly
-initials: K.
-citation_name: Ochs
 ---
 ## 简介
 

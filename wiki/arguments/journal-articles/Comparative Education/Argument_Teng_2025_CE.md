@@ -43,10 +43,9 @@ created: 2026-05-26
 updated: '2026-06-08'
 year: 2025
 doi: ""
-citation_stem: "Teng|2025"
-citation_suffix: ""
-citation_key: "Teng_2025"
-citation_short: "Teng, 2025"
+citation_aliases:
+  - "Teng & Wang, 2025"
+  - "Teng & Wang (2025)"
 ---
 # Argument_Teng_2025_CE
 

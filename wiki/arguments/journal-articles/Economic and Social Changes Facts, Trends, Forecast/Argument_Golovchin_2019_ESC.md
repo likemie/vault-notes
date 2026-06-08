@@ -42,10 +42,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Golovchin|2019"
-citation_suffix: ""
-citation_key: "Golovchin_2019"
-citation_short: "Golovchin, 2019"
+citation_aliases:
+  - "Golovchin M.A, 2019"
+  - "Golovchin M.A (2019)"
 ---
 ## 研究问题
 

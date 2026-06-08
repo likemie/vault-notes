@@ -27,10 +27,6 @@ confidence: medium
 status: draft
 created: 2026-05-31
 updated: '2026-06-08'
-family_name: Kerlinger
-given_names: Fred N.
-initials: F. N.
-citation_name: Kerlinger
 ---
 # Fred N. Kerlinger
 

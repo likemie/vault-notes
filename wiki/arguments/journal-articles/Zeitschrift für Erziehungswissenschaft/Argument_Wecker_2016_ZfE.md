@@ -42,10 +42,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2016
 doi: ""
-citation_stem: "Wecker|2016"
-citation_suffix: ""
-citation_key: "Wecker_2016"
-citation_short: "Wecker, 2016"
+citation_aliases:
+  - "Wecker et al., 2016"
+  - "Wecker et al. (2016)"
 ---
 ## 研究问题
 

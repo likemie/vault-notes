@@ -26,10 +26,6 @@ confidence: medium
 status: draft
 created: 2026-05-26
 updated: '2026-06-08'
-family_name: Shatskii
-given_names: Stanislav
-initials: S.
-citation_name: Shatskii
 ---
 # Stanislav Shatskii
 

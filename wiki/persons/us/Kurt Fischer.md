@@ -17,15 +17,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Jean Piaget]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Fischer
-given_names: Kurt
-initials: K.
-citation_name: Fischer
 ---
 ## 简介
 

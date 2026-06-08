@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: 2026-05-23
 updated: '2026-06-08'
-family_name: Bernstein
-given_names: Basil
-initials: B.
-citation_name: Bernstein
 ---
 # Basil Bernstein
 

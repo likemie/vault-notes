@@ -21,15 +21,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: 2026-05-08
 updated: '2026-06-08'
-family_name: Swidler
-given_names: Ann
-initials: A.
-citation_name: Swidler
 ---
 ## 简介
 

@@ -20,15 +20,12 @@ related_methods: []
 related_persons:
   - "[[Jorunn Møller]]"
   - "[[Carolyn Shields]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-02
 updated: '2026-06-08'
-family_name: Gunter
-given_names: Helen
-initials: H.
-citation_name: Gunter
 ---
 ## 简介
 

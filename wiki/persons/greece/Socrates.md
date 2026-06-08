@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: 2026-05-22
 updated: '2026-06-08'
-family_name: Socrates
-given_names: 
-initials: 
-citation_name: Socrates
 ---
 # Socrates
 

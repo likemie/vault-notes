@@ -26,6 +26,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Hansen_2015_Paideia]]"
@@ -33,10 +34,6 @@ confidence: low
 status: draft
 created: '2026-05-21'
 updated: '2026-06-08'
-family_name: Nordahl
-given_names: Thomas
-initials: T.
-citation_name: Nordahl
 ---
 ## 简介
 

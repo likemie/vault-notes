@@ -222,6 +222,14 @@ def is_citation_eligible_argument(data: Optional[Dict[str, Any]]) -> bool:
     return bool(has_authors and str(data.get("year") or "").strip())
 
 
+def is_argument_entry(data: Optional[Dict[str, Any]]) -> bool:
+    return bool(data and data.get("type") == "argument")
+
+
+def is_non_argument_semantic_entry(data: Optional[Dict[str, Any]]) -> bool:
+    return bool(data and data.get("type") in {"concept", "theory", "method", "person", "fact"})
+
+
 def author_label(author: str) -> str:
     author = str(author).strip()
     m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", author)
@@ -498,6 +506,16 @@ def strip_code_blocks(text: str) -> str:
 
 def line_of_pos(text: str, pos: int, offset: int = 1) -> int:
     return text[:pos].count("\n") + offset
+
+
+def has_h2_section(body: str, heading_names: Iterable[str]) -> bool:
+    names = set(heading_names)
+    for line in body.splitlines():
+        if line.startswith("## "):
+            h = line[3:].strip()
+            if h in names:
+                return True
+    return False
 
 
 def section_text(body: str, heading_names: Iterable[str]) -> str:
@@ -1230,6 +1248,14 @@ def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
         if alias.endswith(")") and display.startswith(alias[:-1] + ","):
             return True
     return False
+
+
+def strip_existing_wikilinks(text: str) -> str:
+    def repl(m: re.Match) -> str:
+        return " " * len(m.group(0))
+    text = WIKILINK_RE.sub(repl, text)
+    text = EMBED_RE.sub(repl, text)
+    return text
 
 
 def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:

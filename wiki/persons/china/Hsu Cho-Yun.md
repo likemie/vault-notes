@@ -25,10 +25,6 @@ confidence: medium
 status: draft
 created: 2026-05-26
 updated: '2026-06-08'
-family_name: Hsu
-given_names: Cho-Yun
-initials: C.-Y.
-citation_name: Hsu
 ---
 # Hsu Cho-Yun
 

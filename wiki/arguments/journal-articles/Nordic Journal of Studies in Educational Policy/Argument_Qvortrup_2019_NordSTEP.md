@@ -39,10 +39,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Qvortrup|2019"
-citation_suffix: ""
-citation_key: "Qvortrup_2019"
-citation_short: "Qvortrup, 2019"
+citation_aliases:
+  - "Lars Qvortrup, 2019"
+  - "Lars Qvortrup (2019)"
 ---
 ## 研究问题
 

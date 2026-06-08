@@ -27,10 +27,6 @@ confidence: low
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Cheung
-given_names: Alan C. K.
-initials: A. C. K.
-citation_name: Cheung
 ---
 ## 简介
 

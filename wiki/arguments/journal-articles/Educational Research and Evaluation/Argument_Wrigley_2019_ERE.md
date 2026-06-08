@@ -47,10 +47,9 @@ created: '2026-05-01'
 updated: '2026-06-08'
 year: 2019
 doi: ""
-citation_stem: "Wrigley|2019"
-citation_suffix: ""
-citation_key: "Wrigley_2019"
-citation_short: "Wrigley, 2019"
+citation_aliases:
+  - "Terry Wrigley & Sean McCusker, 2019"
+  - "Terry Wrigley & Sean McCusker (2019)"
 ---
 ## 研究问题
 

@@ -19,15 +19,12 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-10'
 updated: '2026-06-08'
-family_name: Chen
-given_names: Kuan-Hsing
-initials: K.-H.
-citation_name: Chen
 ---
 # Chen Kuan-Hsing
 

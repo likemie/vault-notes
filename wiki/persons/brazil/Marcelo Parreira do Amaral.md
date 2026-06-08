@@ -28,15 +28,12 @@ related_methods: []
 related_persons:
   - "[[Christiane Thompson]]"
   - "[[Gita Steiner-Khamsi]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-07'
 updated: '2026-06-08'
-family_name: Amaral
-given_names: Marcelo Parreira do
-initials: M. P. D.
-citation_name: Amaral
 ---
 ## 简介
 

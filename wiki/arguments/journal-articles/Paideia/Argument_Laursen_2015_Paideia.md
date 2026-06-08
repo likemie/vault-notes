@@ -38,10 +38,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Laursen|2015"
-citation_suffix: ""
-citation_key: "Laursen_2015"
-citation_short: "Laursen, 2015"
+citation_aliases:
+  - "Laursen, 2015"
+  - "Laursen (2015)"
 ---
 ## 研究问题
 

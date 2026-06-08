@@ -34,10 +34,6 @@ confidence: low
 status: draft
 created: '2026-05-07'
 updated: '2026-06-08'
-family_name: Thompson
-given_names: Christiane
-initials: C.
-citation_name: Thompson
 ---
 ## 简介
 

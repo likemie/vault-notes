@@ -16,15 +16,12 @@ related_methods:
 related_persons:
   - "[[Maria Pampaka]]"
   - "[[Julian Williams]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Homer
-given_names: Matt
-initials: M.
-citation_name: Homer
 ---
 ## 简介
 

@@ -21,15 +21,12 @@ related_persons:
   - "[[Dell Delambre]]"
   - "[[Richard Castelo Branco]]"
   - "[[Walter Mignolo]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-11'
 updated: '2026-06-08'
-family_name: Amado
-given_names: Camilla de Hollanda
-initials: C. D. H.
-citation_name: Amado
 ---
 # Camilla de Hollanda Amado
 

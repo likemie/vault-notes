@@ -49,10 +49,9 @@ created: '2026-05-10'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Rizvi|2022"
-citation_suffix: ""
-citation_key: "Rizvi_2022"
-citation_short: "Rizvi, 2022"
+citation_aliases:
+  - "Fazal Rizvi, 2022"
+  - "Fazal Rizvi (2022)"
 ---
 # Argument_Rizvi_2022_Springer
 

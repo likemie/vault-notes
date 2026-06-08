@@ -43,10 +43,9 @@ created: 2026-05-20
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Jornitz|2022"
-citation_suffix: ""
-citation_key: "Jornitz_2022"
-citation_short: "Jornitz, 2022"
+citation_aliases:
+  - "Jornitz & Klinge, 2022"
+  - "Jornitz & Klinge (2022)"
 ---
 # Argument_Jornitz_2022_Bildung_algorithmic
 

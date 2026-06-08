@@ -19,15 +19,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Francisco Varela]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-08'
 updated: '2026-06-08'
-family_name: Maturana
-given_names: Humberto
-initials: H.
-citation_name: Maturana
 ---
 ## 简介
 

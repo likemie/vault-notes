@@ -35,10 +35,9 @@ created: '2026-05-07'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Hattie|2017"
-citation_suffix: ""
-citation_key: "Hattie_2017"
-citation_short: "Hattie, 2017"
+citation_aliases:
+  - "John Hattie, 2017"
+  - "John Hattie (2017)"
 ---
 ## 研究问题
 

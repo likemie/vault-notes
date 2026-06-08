@@ -51,10 +51,9 @@ created: 2026-06-06
 updated: '2026-06-08'
 year: 2024
 doi: ""
-citation_stem: "Skourdoumbis|2024"
-citation_suffix: ""
-citation_key: "Skourdoumbis_2024"
-citation_short: "Skourdoumbis, 2024"
+citation_aliases:
+  - "Skourdoumbis & Rowe, 2024"
+  - "Skourdoumbis & Rowe (2024)"
 ---
 # Argument_Skourdoumbis_2024_AER
 

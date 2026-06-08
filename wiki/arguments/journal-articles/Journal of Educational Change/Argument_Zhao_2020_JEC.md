@@ -37,10 +37,9 @@ created: 2026-06-06
 updated: '2026-06-08'
 year: 2020
 doi: ""
-citation_stem: "Zhao|2020"
-citation_suffix: ""
-citation_key: "Zhao_2020"
-citation_short: "Zhao, 2020"
+citation_aliases:
+  - "Yong Zhao, 2020"
+  - "Yong Zhao (2020)"
 ---
 # Argument_Zhao_2020_JEC
 

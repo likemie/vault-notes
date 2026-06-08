@@ -47,10 +47,9 @@ created: 2026-05-19
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Thompson|2022"
-citation_suffix: ""
-citation_key: "Thompson_2022"
-citation_short: "Thompson, 2022"
+citation_aliases:
+  - "Christiane Thompson et al., 2022"
+  - "Christiane Thompson et al. (2022)"
 ---
 # Argument_Thompson_2022_Promising_Student
 

@@ -55,10 +55,9 @@ created: 2026-06-07
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Beech|2015"
-citation_suffix: ""
-citation_key: "Beech_2015"
-citation_short: "Beech, 2015"
+citation_aliases:
+  - "Jason Beech & Alejandro Artopoulos, 2015"
+  - "Jason Beech & Alejandro Artopoulos (2015)"
 ---
 # Argument_Beech_2015_GSE
 

@@ -27,10 +27,6 @@ confidence: high
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Møller
-given_names: Jorunn
-initials: J.
-citation_name: Møller
 ---
 ## 简介
 

@@ -46,10 +46,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2018
 doi: ""
-citation_stem: "Rømer|2018"
-citation_suffix: ""
-citation_key: "Rømer_2018"
-citation_short: "Rømer, 2018"
+citation_aliases:
+  - "Thomas Aastrup Rømer, 2018"
+  - "Thomas Aastrup Rømer (2018)"
 ---
 ## 研究问题
 

@@ -20,15 +20,12 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-01'
 updated: '2026-06-08'
-family_name: Thomas
-given_names: Gary
-initials: G.
-citation_name: Thomas
 ---
 ## 简介
 

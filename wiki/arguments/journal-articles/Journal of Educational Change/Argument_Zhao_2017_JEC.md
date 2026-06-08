@@ -39,10 +39,9 @@ created: '2026-05-04'
 updated: '2026-06-08'
 year: 2017
 doi: ""
-citation_stem: "Zhao|2017"
-citation_suffix: ""
-citation_key: "Zhao_2017"
-citation_short: "Zhao, 2017"
+citation_aliases:
+  - "Yong Zhao, 2017"
+  - "Yong Zhao (2017)"
 ---
 ## 研究问题
 

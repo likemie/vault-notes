@@ -43,10 +43,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2020
 doi: ""
-citation_stem: "O''Connor|2020"
-citation_suffix: ""
-citation_key: "O''Connor_2020"
-citation_short: "O''Connor, 2020"
+citation_aliases:
+  - "O'Connor, 2020"
+  - "O'Connor (2020)"
 ---
 ## 研究问题
 

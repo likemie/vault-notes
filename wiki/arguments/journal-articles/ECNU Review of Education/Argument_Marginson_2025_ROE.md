@@ -48,10 +48,9 @@ created: '2026-05-12'
 updated: '2026-06-08'
 year: 2025
 doi: ""
-citation_stem: "Marginson|2025"
-citation_suffix: ""
-citation_key: "Marginson_2025"
-citation_short: "Marginson, 2025"
+citation_aliases:
+  - "Marginson, 2025"
+  - "Marginson (2025)"
 ---
 # Argument_Marginson_2025_ROE
 

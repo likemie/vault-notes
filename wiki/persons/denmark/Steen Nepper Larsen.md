@@ -29,15 +29,12 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
   - "[[Gert Biesta]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-04'
 updated: '2026-06-08'
-family_name: Larsen
-given_names: Steen Nepper
-initials: S. N.
-citation_name: Larsen
 ---
 ## 简介
 

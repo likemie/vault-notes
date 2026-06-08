@@ -20,15 +20,12 @@ related_methods:
   - "[[Experimental Research]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Xie
-given_names: Chen
-initials: C.
-citation_name: Xie
 ---
 ## 简介
 

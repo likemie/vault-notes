@@ -36,10 +36,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Fredens|2015"
-citation_suffix: ""
-citation_key: "Fredens_2015"
-citation_short: "Fredens, 2015"
+citation_aliases:
+  - "Fredens, 2015"
+  - "Fredens (2015)"
 ---
 ## 研究问题
 

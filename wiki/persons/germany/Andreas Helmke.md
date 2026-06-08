@@ -17,15 +17,12 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-05'
 updated: '2026-06-08'
-family_name: Helmke
-given_names: Andreas
-initials: A.
-citation_name: Helmke
 ---
 ## 简介
 

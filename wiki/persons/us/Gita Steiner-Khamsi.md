@@ -28,10 +28,6 @@ confidence: medium
 status: draft
 created: '2026-05-06'
 updated: '2026-06-08'
-family_name: Steiner-Khamsi
-given_names: Gita
-initials: G.
-citation_name: Steiner-Khamsi
 ---
 ## 简介
 

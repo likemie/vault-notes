@@ -18,15 +18,12 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods: []
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-02
 updated: '2026-06-08'
-family_name: Greenfield
-given_names: Thomas Barr
-initials: T. B.
-citation_name: Greenfield
 ---
 ## 简介
 

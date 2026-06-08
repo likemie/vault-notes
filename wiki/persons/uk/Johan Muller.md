@@ -25,10 +25,6 @@ confidence: medium
 status: draft
 created: 2026-06-07
 updated: '2026-06-08'
-family_name: Muller
-given_names: Johan
-initials: J.
-citation_name: Muller
 ---
 # Johan Muller
 

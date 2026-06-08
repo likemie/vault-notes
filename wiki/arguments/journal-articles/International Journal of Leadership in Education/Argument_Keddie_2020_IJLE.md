@@ -40,10 +40,9 @@ created: '2026-05-03'
 updated: '2026-06-08'
 year: 2020
 doi: ""
-citation_stem: "Keddie|2020"
-citation_suffix: "a"
-citation_key: "Keddie_2020a"
-citation_short: "Keddie, 2020a"
+citation_aliases:
+  - "Keddie et al., 2020b"
+  - "Keddie et al. (2020b)"
 ---
 ## 研究问题
 

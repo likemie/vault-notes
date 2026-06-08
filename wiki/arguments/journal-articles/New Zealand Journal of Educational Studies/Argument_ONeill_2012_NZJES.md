@@ -38,10 +38,9 @@ created: '2026-05-06'
 updated: '2026-06-08'
 year: 2012
 doi: ""
-citation_stem: "O'Neill|2012"
-citation_suffix: ""
-citation_key: "O'Neill_2012"
-citation_short: "O'Neill, 2012"
+citation_aliases:
+  - "O'Neill, 2012"
+  - "O'Neill (2012)"
 ---
 ## 研究问题
 

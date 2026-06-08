@@ -40,10 +40,9 @@ created: 2026-05-26
 updated: '2026-06-08'
 year: 2024
 doi: ""
-citation_stem: "Ryabyy|2024"
-citation_suffix: ""
-citation_key: "Ryabyy_2024"
-citation_short: "Ryabyy, 2024"
+citation_aliases:
+  - "Ryabyy, 2024"
+  - "Ryabyy (2024)"
 ---
 # Argument_Ryabyy_2024_Maneto
 

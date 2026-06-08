@@ -41,10 +41,9 @@ created: 2026-05-22
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Håkansson|2015"
-citation_suffix: "b"
-citation_key: "Håkansson_2015b"
-citation_short: "Håkansson, 2015b"
+citation_aliases:
+  - "Håkansson, 2015a"
+  - "Håkansson (2015a)"
 ---
 # Argument_Håkansson_2015_TT
 

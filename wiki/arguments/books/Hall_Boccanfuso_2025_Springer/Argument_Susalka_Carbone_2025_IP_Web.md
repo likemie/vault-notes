@@ -37,10 +37,9 @@ publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
-citation_stem: "Susalka|2025"
-citation_suffix: ""
-citation_key: "Susalka_2025"
-citation_short: "Susalka, 2025"
+citation_aliases:
+  - "Susalka & Carbone, 2025"
+  - "Susalka & Carbone (2025)"
 ---
 # Argument_Susalka_Carbone_2025_IP_Web
 

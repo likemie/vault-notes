@@ -47,10 +47,9 @@ created: '2026-05-26'
 updated: '2026-06-08'
 year: 2024
 doi: ""
-citation_stem: "Spronken-Smith|2024"
-citation_suffix: ""
-citation_key: "Spronken-Smith_2024"
-citation_short: "Spronken-Smith, 2024"
+citation_aliases:
+  - "Spronken-Smith et al., 2024"
+  - "Spronken-Smith et al. (2024)"
 ---
 ## 研究问题
 

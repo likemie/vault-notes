@@ -23,15 +23,12 @@ related_methods: []
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Camilla de Hollanda Amado]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-11'
 updated: '2026-06-08'
-family_name: Branco
-given_names: Richard Castelo
-initials: R. C.
-citation_name: Branco
 ---
 # Richard Castelo Branco
 

@@ -51,10 +51,9 @@ created: 2026-05-01
 updated: '2026-06-08'
 year: 2025
 doi: ""
-citation_stem: "Yan|2025"
-citation_suffix: ""
-citation_key: "Yan_2025"
-citation_short: "Yan, 2025"
+citation_aliases:
+  - "Yan & Paul Morris, 2025"
+  - "Yan & Paul Morris (2025)"
 ---
 # Argument_Yan_2025_JCS
 

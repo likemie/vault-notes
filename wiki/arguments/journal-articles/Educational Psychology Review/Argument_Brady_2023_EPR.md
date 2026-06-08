@@ -45,10 +45,9 @@ created: '2026-05-05'
 updated: '2026-06-08'
 year: 2023
 doi: ""
-citation_stem: "Brady|2023"
-citation_suffix: ""
-citation_key: "Brady_2023"
-citation_short: "Brady, 2023"
+citation_aliases:
+  - "Brady et al., 2023"
+  - "Brady et al. (2023)"
 ---
 ## 研究问题
 

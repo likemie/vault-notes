@@ -27,10 +27,6 @@ confidence: medium
 status: draft
 created: 2026-05-30
 updated: '2026-06-08'
-family_name: Creswell
-given_names: J. David
-initials: J. D.
-citation_name: Creswell
 ---
 # J. David Creswell
 

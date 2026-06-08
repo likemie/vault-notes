@@ -37,10 +37,9 @@ publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
-citation_stem: "Brock|2025"
-citation_suffix: ""
-citation_key: "Brock_2025"
-citation_short: "Brock, 2025"
+citation_aliases:
+  - "Elaine L. Brock, 2025"
+  - "Elaine L. Brock (2025)"
 ---
 # Argument_Brock_2025_DataAccessGenerationUse
 

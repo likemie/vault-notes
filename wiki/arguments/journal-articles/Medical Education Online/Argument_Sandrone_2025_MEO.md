@@ -31,10 +31,9 @@ created: 2026-06-07
 updated: '2026-06-08'
 year: 2025
 doi: ""
-citation_stem: "Sandrone|2025"
-citation_suffix: ""
-citation_key: "Sandrone_2025"
-citation_short: "Sandrone, 2025"
+citation_aliases:
+  - "Sandrone, 2025"
+  - "Sandrone (2025)"
 ---
 # Argument_Sandrone_2025_MEO
 

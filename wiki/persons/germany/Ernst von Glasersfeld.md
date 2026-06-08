@@ -22,15 +22,12 @@ related_persons:
   - "[[George Berkeley]]"
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Glasersfeld
-given_names: Ernst von
-initials: E. V.
-citation_name: Glasersfeld
 ---
 ## 简介
 

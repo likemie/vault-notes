@@ -48,10 +48,9 @@ created: '2026-05-06'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Lekhal|2015"
-citation_suffix: ""
-citation_key: "Lekhal_2015"
-citation_short: "Lekhal, 2015"
+citation_aliases:
+  - "Lekhal et al., 2015"
+  - "Lekhal et al. (2015)"
 ---
 ## 研究问题
 

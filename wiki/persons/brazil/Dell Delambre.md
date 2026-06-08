@@ -25,15 +25,12 @@ related_methods: []
 related_persons:
   - "[[Walter Mignolo]]"
   - "[[Camilla de Hollanda Amado]]"
+related_facts: []
 related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-11'
 updated: '2026-06-08'
-family_name: Delambre
-given_names: Dell
-initials: D.
-citation_name: Delambre
 ---
 # Dell Delambre
 

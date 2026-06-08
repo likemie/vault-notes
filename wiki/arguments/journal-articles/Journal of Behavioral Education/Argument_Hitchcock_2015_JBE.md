@@ -44,10 +44,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Hitchcock|2015"
-citation_suffix: ""
-citation_key: "Hitchcock_2015"
-citation_short: "Hitchcock, 2015"
+citation_aliases:
+  - "Hitchcock et al., 2015"
+  - "Hitchcock et al. (2015)"
 ---
 ## 研究问题
 

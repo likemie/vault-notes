@@ -43,10 +43,9 @@ created: '2026-05-06'
 updated: '2026-06-08'
 year: 2006
 doi: ""
-citation_stem: "Rappleye|2006"
-citation_suffix: ""
-citation_key: "Rappleye_2006"
-citation_short: "Rappleye, 2006"
+citation_aliases:
+  - "Jeremy Rappleye, 2006"
+  - "Jeremy Rappleye (2006)"
 ---
 ## 研究问题
 

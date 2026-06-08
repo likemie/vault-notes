@@ -24,15 +24,12 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[David Watkins]]"
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
 updated: '2026-06-08'
-family_name: Biggs
-given_names: John
-initials: J.
-citation_name: Biggs
 ---
 ## 简介
 

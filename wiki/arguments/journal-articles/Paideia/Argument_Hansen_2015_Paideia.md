@@ -40,10 +40,9 @@ created: '2026-05-20'
 updated: '2026-06-08'
 year: 2015
 doi: ""
-citation_stem: "Hansen|2015"
-citation_suffix: ""
-citation_key: "Hansen_2015"
-citation_short: "Hansen, 2015"
+citation_aliases:
+  - "Hansen et al., 2015"
+  - "Hansen et al. (2015)"
 ---
 ## 研究问题
 

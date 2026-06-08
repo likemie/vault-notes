@@ -40,10 +40,9 @@ created: 2026-06-06
 updated: '2026-06-08'
 year: 2009
 doi: ""
-citation_stem: "Cowen|2009"
-citation_suffix: ""
-citation_key: "Cowen_2009"
-citation_short: "Cowen, 2009"
+citation_aliases:
+  - "Robert Cowen, 2009"
+  - "Robert Cowen (2009)"
 ---
 # Argument_Cowen_2009_CE
 

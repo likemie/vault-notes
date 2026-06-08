@@ -22,15 +22,12 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
 related_persons: []
+related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
-family_name: Marzano
-given_names: Robert
-initials: R.
-citation_name: Marzano
 ---
 ## 简介
 

@@ -53,10 +53,9 @@ created: '2026-05-11'
 updated: '2026-06-08'
 year: 2022
 doi: ""
-citation_stem: "Zapp|2022"
-citation_suffix: ""
-citation_key: "Zapp_2022"
-citation_short: "Zapp, 2022"
+citation_aliases:
+  - "Zapp, 2022"
+  - "Zapp (2022)"
 ---
 # Argument_Zapp_2022_Springer
 

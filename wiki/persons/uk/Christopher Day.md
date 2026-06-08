@@ -23,10 +23,6 @@ confidence: medium
 status: draft
 created: '2026-05-02'
 updated: '2026-06-08'
-family_name: Day
-given_names: Christopher
-initials: C.
-citation_name: Day
 ---
 ## 简介
 

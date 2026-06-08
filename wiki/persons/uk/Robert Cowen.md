@@ -33,10 +33,6 @@ confidence: medium
 status: draft
 created: 2026-05-08
 updated: '2026-06-08'
-family_name: Cowen
-given_names: Robert
-initials: R.
-citation_name: Cowen
 ---
 # Robert Cowen
 

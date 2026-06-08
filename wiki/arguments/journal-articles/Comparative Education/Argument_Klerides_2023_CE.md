@@ -63,10 +63,9 @@ created: 2026-06-08
 updated: '2026-06-08'
 year: 2023
 doi: ""
-citation_stem: "Klerides|2023"
-citation_suffix: ""
-citation_key: "Klerides_2023"
-citation_short: "Klerides, 2023"
+citation_aliases:
+  - "Klerides, 2023"
+  - "Klerides (2023)"
 ---
 # Argument_Klerides_2023_CE
 

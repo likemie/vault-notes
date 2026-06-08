@@ -42,10 +42,9 @@ created: '2026-05-02'
 updated: '2026-06-08'
 year: 2021
 doi: ""
-citation_stem: "Cheung|2021"
-citation_suffix: ""
-citation_key: "Cheung_2021"
-citation_short: "Cheung, 2021"
+citation_aliases:
+  - "Alan C. K. Cheung & Chen Xie, 2021"
+  - "Alan C. K. Cheung & Chen Xie (2021)"
 ---
 ## 研究问题
 

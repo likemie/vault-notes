@@ -39,10 +39,9 @@ created: 2026-05-04
 updated: '2026-06-08'
 year: 2016
 doi: ""
-citation_stem: "Downey|2016"
-citation_suffix: ""
-citation_key: "Downey_2016"
-citation_short: "Downey, 2016"
+citation_aliases:
+  - "Downey & Condron, 2016"
+  - "Downey & Condron (2016)"
 ---
 ## 研究问题
 

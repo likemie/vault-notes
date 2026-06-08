@@ -42,10 +42,9 @@ publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
-citation_stem: "Randolph|2025"
-citation_suffix: ""
-citation_key: "Randolph_2025"
-citation_short: "Randolph, 2025"
+citation_aliases:
+  - "Randolph Hall, 2025"
+  - "Randolph Hall (2025)"
 ---
 # Argument_Hall_2025_EthicalLegalFrameworks
 
