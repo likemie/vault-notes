@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "601b43ae5c1c56a2",
+        "id": "a495521b1d33a8e7",
         "type": "tabs",
         "children": [
           {
-            "id": "0db264aa186db11b",
+            "id": "ae9b2b64335da3db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/persons/new-zealand/John Hattie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "John Hattie"
+              "title": "新标签页"
             }
           }
         ]
@@ -189,8 +184,12 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "0db264aa186db11b",
+  "active": "ae9b2b64335da3db",
   "lastOpenFiles": [
+    "wiki/templates/template-person.md",
+    "wiki/persons/index.md",
+    "wiki/persons/usa/Fred N. Kerlinger.md",
+    "wiki/persons/new-zealand/John Hattie.md",
     "wiki/persons/japan/Akira Miyake.md",
     "wiki/persons/chile/Humberto Maturana.md",
     "wiki/persons/chile/Francisco Varela.md",
@@ -216,12 +215,8 @@
     "sources/Klerides_2023_CE.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
-    "wiki/persons/uk/Michael Sadler.md",
-    "wiki/persons/uk/Stephen Ball.md",
-    "sources/Ball_2008_SR.md",
     "citation",
     "未命名文件夹",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
     "sources/Klerides_2023_CE.pdf",
     "raw/Comparative education and international relations.pdf",
     "wiki/concepts/instruction-pedagogy/Visible Learning.md.tmp.9943.7d83ccbf6263",
