@@ -12,8 +12,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -59,6 +57,3 @@ updated: 2026-05-25
 
 Li（2012）以个人经历说明这一对比：她的母亲、大学同学和她本人阅读歌德的《浮士德》时，难以理解为什么追求知识要被看作一种罪过——因为在中国语境中，"无知正是中国人所遭受的痛苦"，追求知识与学问从来不是什么需要以灵魂为代价的禁忌（Li, 2012, pp.5-6）。
 
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

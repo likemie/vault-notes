@@ -19,17 +19,12 @@ related_concepts:
   - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Pierre Bourdieu]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[OECD Improving School Leadership Project]]"
   - "[[ISSPP Project]]"
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
-  - "[[Keddie_2020_JEAH]]"
-  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -194,8 +189,3 @@ Smyth（2011）提出的三个政治激进主义命题被 Keddie et al.（2020, 
 > - [[ISSPP Project]] — 迄今为止最全面的跨国学校领导力研究
 > - [[School Autonomy]] — 市场驱动的学校自主权改革对校长工作条件和工作性质产生深远影响
 
-## 来源
-
-- [[Møller_2017_EERJ]]
-- [[Keddie_2020_JEAH]]
-- [[Keddie_2020_IJLE]]

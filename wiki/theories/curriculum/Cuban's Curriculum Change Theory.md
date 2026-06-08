@@ -25,8 +25,6 @@ related_facts:
   - "[[National Security Law]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
-sources:
-  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -130,6 +128,3 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 > - [[Liberal Studies]] — Cuban 框架是分析该科目兴衰的核心理论工具
 > - 课程政治研究 —— 任何涉及权力、协商 and 利益团体的课程变革分析
 
-## 来源
-
-- [[Yan_2025_JCS]]

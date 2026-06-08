@@ -27,8 +27,6 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -86,6 +84,3 @@ updated: '2026-05-18'
 > - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Yajun Zheng|郑雅君]]（2023）以[[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[Qualitative Interview|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的核心类型化发现
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

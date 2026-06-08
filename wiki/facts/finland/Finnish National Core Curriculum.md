@@ -31,8 +31,6 @@ related_facts:
   - "[[OECD]]"
   - "[[SveaSus Project]]"
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -103,6 +101,3 @@ updated: '2026-05-18'
 > - [[Phenomenology]]
 > - [[SveaSus Project]]
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

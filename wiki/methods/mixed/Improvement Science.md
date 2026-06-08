@@ -27,8 +27,6 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network]]"
 related_arguments: []
-sources:
-  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -132,6 +130,3 @@ updated: '2026-05-18'
 > - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 Toolkit 的未来迭代从排名项目转向编目机制（"活性成分"）
 > - [[What Works Network]] — 建议 What Works 中心承担跨领域学习召集人和网络协调人的新角色
 
-## 来源
-
-- [[Peterson_2016_IJRME]]

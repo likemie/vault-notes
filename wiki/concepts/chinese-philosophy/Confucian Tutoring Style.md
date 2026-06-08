@@ -26,8 +26,6 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -124,6 +122,3 @@ updated: 2026-05-24
 > **儒家式辅导 vs 学校教学**：这是一种**家庭日常对话**中的社会化实践，不是正式教学。母亲通常不意识到自己在"辅导"——她们只是在履行身为家长的道德责任（在中国文化中，不引导子女学习被视为**家长的道德失败**）。
 
 ---
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -20,8 +20,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -51,6 +49,3 @@ KIC 的一个关键制度设计是：每个 KIC 设有一名经理（manager）�
 - vs [[Technology Transfer Office|技术转移办公室]]（[[Technology Transfer]] Office）— 技术转移办公室聚焦于知识产权保护和许可交易；KIC 是更广泛的知识整合机制，不仅涉及技术转移，还包括教育合作、联合研究和公共政策参与
 - vs [[University-Industry Collaboration]] 的一般合作项目 — 一般产学合作项目可能是双边、单维度的（如一家企业赞助一个实验室）；KIC 是多边、多维度的联盟，在组织架构上赋予知识整合功能独立和平等的地位
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]

@@ -23,8 +23,6 @@ related_methods:
   - "[[Triangulation]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -129,6 +127,3 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

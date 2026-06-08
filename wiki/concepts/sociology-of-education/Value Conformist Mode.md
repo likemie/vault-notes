@@ -29,8 +29,6 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-09
@@ -100,6 +98,3 @@ updated: 2026-05-18
 > 价值归顺者虽然获得了体制内的赞助性出路，但其选择在一定程度上是受学校主流意识形态单方面塑造的结果，而非像[[Self-Driven Mode|自主驱动者]]那样经过了多元观念来源中的自主反思和选择。他们"顺服"于大学价值和体制路径，这在多大程度上是一种自主选择，在多大程度上是弱工具箱条件下的次优策略，值得进一步讨论（[[Yajun Zheng|郑雅君]]，2023）。
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

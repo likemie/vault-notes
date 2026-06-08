@@ -22,9 +22,6 @@ related_persons: []
 related_facts:
   - "[[Karmel Report]]"
 related_arguments: []
-sources:
-  - "[[Keddie_2020_IJLE]]"
-  - "[[Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -85,7 +82,3 @@ updated: '2026-05-18'
 > - [[Karmel Report]] — Gonski 改革试图回归 Karmel 的需求本位拨款原则
 > - [[New Public Management]] — NPM 的市场逻辑与新自由主义拨款模式的关系
 
-## 来源
-
-- [[Keddie_2020_IJLE]]
-- [[Sarbiewska_2019_JSR]]

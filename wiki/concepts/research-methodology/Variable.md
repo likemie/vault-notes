@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -103,6 +101,3 @@ updated: 2026-05-31
 - [[Causal Modeling]] — 通过统计模型表示变量之间因果路径并同时估计多重关系的量化方法
 - [[Quantitative Research]] — 量化研究以检验变量间关系或群体间比较为核心
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

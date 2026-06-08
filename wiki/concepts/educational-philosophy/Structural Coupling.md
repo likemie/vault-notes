@@ -20,12 +20,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Qvortrup_2019_NordSTEP]]"
-  - "[[Larsen_2019_EducSci]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -76,7 +72,3 @@ updated: '2026-05-18'
 >
 > 这与 Qvortrup 的用法形成有趣对比：Qvortrup 以结构耦合同样从 Luhmann 出发，但论证 VL 作为概率信息可以支持教师的[[Professional Judgment|专业判断]]；Larsen 则论证结构耦合的根本性意味着 VL 的可见性宣称在原则上不可能实现——两者共享 Luhmann 的理论资源，但从中得出了相反的规范性结论。
 
-## 来源
-
-- [[Qvortrup_2019_NordSTEP]]
-- [[Larsen_2019_EducSci]]

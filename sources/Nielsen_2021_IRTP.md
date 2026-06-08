@@ -1,7 +1,6 @@
 ---
 citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92."
 extracted_to:
-  - "[[Technical Rationality]]"
   - "[[Argument_Nielsen_2021]]"
 processed_date: 2026-05-03
 ---

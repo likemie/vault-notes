@@ -19,12 +19,9 @@ related_methods: []
 related_persons:
   - "[[Marcia Baxter Magolda]]"
   - "[[Yajun Zheng]]"
-  - "[[Edmund King]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -59,6 +56,3 @@ updated: 2026-05-18
 > [[Yajun Zheng|郑雅君]]（2023）对 Baxter Magolda 理论的借助同时也包含了对其理论局限的反思：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 Bourdieu 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场。
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

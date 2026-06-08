@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -79,7 +77,3 @@ updated: 2026-05-30
 > [!tip]
 > - Mixed Method and [[Multimethod Research|multi-method research]]，联合展示是[[Mixed Methods Research|混合方法研究]]中实现数据整合的具体分析工具，服务于混合方法设计的整合环节。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Creswell_2022_SAGE]]

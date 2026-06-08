@@ -31,7 +31,8 @@ related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Slavin_2002_ER]]"
 part_of: ""

@@ -30,8 +30,6 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -87,6 +85,3 @@ updated: 2026-05-25
 > - 欧美母亲对好学习的因果链以心智理解力为核心环节——母亲用自己的心智帮助孩子"figure out"问题（Li, 2012, p.256–258）。
 > - 台湾母亲对好学习的因果链以持续练习为核心环节——"你练习了又练习，然后越来越好"（Li, 2012, p.260–261）。
 
-## 来源
-
-- [[Li_2012_Cambridge]]

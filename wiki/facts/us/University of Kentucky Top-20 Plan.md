@@ -20,8 +20,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch8_Boyadjieva_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -70,6 +68,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Ch8_Boyadjieva_2022]]

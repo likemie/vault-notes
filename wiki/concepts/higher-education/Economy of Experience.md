@@ -23,11 +23,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -110,6 +107,3 @@ updated: 2026-05-18
 
 ---
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

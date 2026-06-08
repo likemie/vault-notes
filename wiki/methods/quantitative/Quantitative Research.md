@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -79,6 +77,3 @@ updated: 2026-05-30
 > - [[Experimental Research]] — 通过操纵处理条件、控制组和[[Random Assignment|随机分配]]来检验[[Causality|因果关系]]的量化设计。
 > - [[Quasi-Experimental Designs]] — 使用非随机化分组或仅使用单组的准实验设计。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

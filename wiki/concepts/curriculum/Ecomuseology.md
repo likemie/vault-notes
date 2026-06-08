@@ -26,8 +26,6 @@ related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -92,6 +90,3 @@ updated: '2026-05-18'
 > - **Mário Chagas 的生态博物馆理论与实践** — Chagas (2001) 以"记忆与权力"（Memória e Poder）为框架，系统阐述了生态博物馆如何服务于地方记忆保护和社区赋权，是巴西生态博物馆学运动的核心理论资源（Delambre, 2022, p.110）
 > - **[[Social Museology]]** — 在巴西，生态博物馆学与社会博物馆学高度交叉，常见于同一项目中并存（Delambre, 2022, p.110）
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

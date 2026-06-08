@@ -23,8 +23,6 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -105,6 +103,3 @@ Li 对学龄前儿童的研究也发现：中国儿童更多地表达出学习�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

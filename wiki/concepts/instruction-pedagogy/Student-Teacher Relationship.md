@@ -19,8 +19,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -55,6 +53,3 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - 与 [[Feedback]] 相比，它关注关系氛围；与 [[School Norm Adaptation]] 相比，它是关系条件而非行为结果。
 
-## 来源
-
-- [[Lekhal_2015_Paideia]]

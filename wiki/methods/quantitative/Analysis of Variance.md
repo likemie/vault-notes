@@ -27,8 +27,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -82,6 +80,3 @@ updated: 2026-05-31
 > [!example]
 > - [[Argument_Creswell_2022_SAGE]] — 说明 ANOVA、[[Analysis of Covariance|ANCOVA]] 和 MANOVA 是[[Experimental Research|实验研究]]中比较组间差异最常使用的推断统计方法。（Ch8）
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

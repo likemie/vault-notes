@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -66,6 +64,3 @@ updated: 2026-06-01
 > - 当研究者修改工具或组合多个工具时，原有的重测信度证据不再适用于新工具——需重新评估（Creswell & Creswell, 2022, Ch8）。
 > - 某些构念本身就不应该具有高重测信度——例如"当前情绪状态"量表应在短期内波​​动，高重测信度反而说明量表不够灵敏。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

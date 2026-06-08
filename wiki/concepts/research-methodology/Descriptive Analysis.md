@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -74,6 +72,3 @@ updated: 2026-06-01
 > - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和标准误。
 > - 仅报告均值而不报告变异指标（如标准差或标准误）可能导致对数据分布特征的误读。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

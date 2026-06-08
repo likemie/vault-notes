@@ -21,8 +21,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -58,6 +56,3 @@ updated: 2026-06-02
 > - 校友开发了 62 门研究生级别植物育种课程，建立了非洲植物育种者协会（APBA）
 > - 该倡议已获非洲联盟大会非洲国家元首批准，是非洲大陆最全面、最综合的作物改良计划（p.321）
 
-## 来源
-
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

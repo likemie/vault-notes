@@ -14,9 +14,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch5_Narayan_Spohrer_2025]]"
-  - "[[Ch10_Swick_Jones_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -69,7 +66,3 @@ Narayan 与 Spohrer 指出这一需求不仅落在四年制学位项目上，也
 
 > 当代专家的超亚专业化（super-sub-specialization）加剧了对 T 型技能的需求："需要一个近视的镜片来找到问题，但随后需要一个广角的镜片来看清全局，并看到合作伙伴。"（p.186）
 
-## 来源
-
-- [[Ch5_Narayan_Spohrer_2025]]
-- [[Ch10_Swick_Jones_2025]]

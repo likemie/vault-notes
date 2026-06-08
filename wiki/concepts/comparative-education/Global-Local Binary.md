@@ -22,8 +22,6 @@ related_facts:
   - "[[OECD]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments: []
-sources:
-  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -65,6 +63,3 @@ updated: 2026-06-07
 
 ---
 
-## 来源
-
-- [[Beech_2015_GSE]]

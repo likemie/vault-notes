@@ -10,8 +10,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -71,6 +69,3 @@ Boice (1990, pp.77–78) 建立良好写作习惯的九项策略（Creswell & Cr
 - **周末写作者**：只在周末处理研究工作，认为平日的工作更重要。但研究工作需要的是每日的持续投入，包括思考、阅读和回顾，而不仅仅是落笔写作
 - **暴饮暴食式写作**：一次写很长时间但间隔很久。这种模式导致每次重启时都需要重新进入状态，效率反而不如每日少量但持续的写作
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

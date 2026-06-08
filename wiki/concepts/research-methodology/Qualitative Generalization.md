@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -45,6 +43,3 @@ updated: 2026-06-01
 > - vs 量化推广 — [[Quantitative Research|量化研究]]的推广建立在[[Random Sampling|随机抽样]]和统计推断基础上，从样本推广到总体；[[Qualitative Research|质性研究]]的推广是分析性推广（analytic generalization），从案例推广到理论。
 > - vs [[Naturalistic Generalization|自然主义概括]] — Stake（1995）提出的自然主义概括强调读者基于自身经验对研究发现进行自我投射和迁移，而非研究者主动声称推广。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

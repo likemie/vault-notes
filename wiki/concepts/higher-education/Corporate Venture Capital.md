@@ -22,8 +22,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -67,6 +65,3 @@ updated: 2026-05-29
 
 > 这一模式在其他行业——科学突破与终端产品距离很近的领域——具有可复制性。但在科学突破位于产品上游较远处的领域（如基础材料科学或教育技术），企业孵化器的适用性较低，因为从实验室到可嵌入企业产品线的距离太长，企业缺乏持续投入的商业理由（p.146）。
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

@@ -20,8 +20,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch10_Swick_Jones_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -74,6 +72,3 @@ updated: 2026-06-02
 > - **[[Applied Medical Innovation|医用创新]]的[[University-Industry Collaboration|产学合作]]**：价值对齐模型专为医用创新（Applied Medical Innovation）场景设计，用于帮助医院、大学和产业伙伴在合作谈判和执行过程中对齐目标、管理分歧。
 > - **TAVR 案例**：Houston Methodist 与 Medtronic 合作开发经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的过程展示了价值对齐如何在实际合作中运作——[[Academic Health System|AHS]] 保持了以患者安全和临床效果为核心，同时产业伙伴获得了可市场化的产品，大学和研究机构获得了前沿研究和发展机会（pp.192–194）。
 
-## 来源
-
-- [[Ch10_Swick_Jones_2025]]

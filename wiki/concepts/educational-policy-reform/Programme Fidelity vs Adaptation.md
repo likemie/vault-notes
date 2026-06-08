@@ -27,9 +27,6 @@ related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
-  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -131,7 +128,3 @@ updated: '2026-05-18'
 > - [[Tennessee STAR Project 1985-1989]] — Wiliam (2019) 详细分析的 [[Randomised Controlled Trials|RCT]] 外推失败经典案例
 > - [[EEF Teaching and Learning Toolkit]] — 提供平均[[Effect Size|效应量]]但关于情境变异的信息有限
 
-## 来源
-
-- [[Cowen_2015_CHESS]]
-- [[Wiliam_2019_ERE]]

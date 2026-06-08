@@ -22,8 +22,6 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[2019 Hong Kong Protests]]"
 related_arguments: []
-sources:
-  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -53,6 +51,3 @@ updated: '2026-05-18'
 > [!success] 后续影响
 > MNE 争议是 2012–2021 年间 [[Liberal Studies|LS]] 逐步被政治化为"国家安全威胁"的起点。此后每次重大社会运动（2014 年雨伞运动、2016 年旺角骚乱、2019 年[[2019 Hong Kong Protests|反修例运动]]）亲中力量均将 LS 定性为年轻人参与抗议的驱动因素，最终在 2019 年后直接导致 LS 被废除。
 
-## 来源
-
-- [[Yan_2025_JCS]]

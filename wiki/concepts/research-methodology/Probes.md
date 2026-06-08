@@ -18,8 +18,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -46,6 +44,3 @@ updated: 2026-06-01
 
 追问的使用是初学[[Qualitative Research|质性研究]]者应对"只有少量问题、访谈时间可能很短"这一焦虑的有效方式。即使只有五到十个问题，通过使用追问，研究者可以延长访谈时间并获取有价值的信息。最后可以追问一个收网问题，如"我还应该联系谁以了解更多？"或"还有没有我们没有覆盖到的、你想补充的信息？"（Creswell & Creswell, 2022, Ch9）
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -28,8 +28,6 @@ related_persons:
   - "[[Camilla de Hollanda Amado]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -102,6 +100,3 @@ updated: '2026-05-18'
 > - **人际关系张力**：面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、真实、谎言等基本概念（Delambre, 2022, p.115–116）
 > - **大学内部张力**：学科新旧内容之争、正式知识 vs 社会新兴知识、大学回应社会变化的速度远落后于变化本身的速度（Delambre, 2022, p.114–115, 118–119）
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

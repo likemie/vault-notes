@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -108,6 +106,3 @@ Group B  X2 ———————————————— O
 > - [[Quasi-Experimental Designs]] — 准实验设计增加了对照组和时间序列观测，[[Internal Validity|内部效度]]高于前实验设计。
 > - [[Experimental Research]] — 真实验通过[[Random Assignment|随机分配]]获得最高的内部效度。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

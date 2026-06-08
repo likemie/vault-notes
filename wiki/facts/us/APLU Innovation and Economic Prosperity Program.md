@@ -21,8 +21,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -46,6 +44,3 @@ updated: 2026-05-26
 - [[Innovation Ecosystem]] — 大学作为区域创新生态系统锚点的制度化体现
 - [[University-Industry Collaboration]] — IEP 认证直接衡量大学生产学合作中区域经济参与的表现
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]

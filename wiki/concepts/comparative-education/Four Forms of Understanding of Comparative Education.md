@@ -20,13 +20,10 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
-  - "[[Joseph Lauwerys]]"
   - "[[Edmund King]]"
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -104,6 +101,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Cowen_2023_CE]]

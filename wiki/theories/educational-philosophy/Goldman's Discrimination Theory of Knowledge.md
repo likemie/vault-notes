@@ -22,8 +22,6 @@ related_persons:
   - "[[Dylan Wiliam]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -90,6 +88,3 @@ updated: '2026-05-18'
 > [!success] 应用领域
 > - [[Evidence-Based Education]] — Wiliam 运用此理论论证 EBE 的"什么有效"项目在原则上无法成功，因为教育知识永远是局部且临时的
 
-## 来源
-
-- [[Wiliam_2019_ERE]]

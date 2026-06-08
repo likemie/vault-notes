@@ -21,8 +21,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -59,6 +57,3 @@ updated: 2026-06-03
 > - FTO 不等于拥有 IP——即使拥有核心技术专利，仍可能因制造过程中需使用他人的工艺专利而缺乏 FTO
 > - 在[[University-Industry Collaboration|产学合作]]中，产业方的 FTO 诉求驱动了对大学[[Background IP|BIP]]的访问需求，但 BIP 条款的过度扩张可能导致大学 IP 的过度负担
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]

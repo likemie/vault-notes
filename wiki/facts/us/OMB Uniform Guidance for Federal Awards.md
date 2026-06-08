@@ -23,8 +23,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch14_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -65,6 +63,3 @@ updated: 2026-06-04
 > [!note]
 > 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value|公平市场价值]]"（Fair Market Value）确定（p.264）。
 
-## 来源
-
-- [[Ch14_Hall_2025]]

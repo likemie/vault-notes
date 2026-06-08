@@ -19,7 +19,8 @@ related_concepts:
   - "[[Big Ideas]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Basil Bernstein]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:

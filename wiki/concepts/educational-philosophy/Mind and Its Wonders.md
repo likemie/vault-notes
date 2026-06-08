@@ -24,13 +24,10 @@ related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
   - "[[René Descartes]]"
-  - "[[John Locke]]"
   - "[[George Berkeley]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -101,6 +98,3 @@ Li 的核心判断是：无论西方思想家在心智的具体性质上有多�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

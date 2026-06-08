@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -76,6 +74,3 @@ updated: 2026-05-31
 - [[Theoretical End Point]] — 与研究终点的理论生成相对
 - [[Transformative Paradigm]] — 变革主义世界观是许多理论立场的哲学基础
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

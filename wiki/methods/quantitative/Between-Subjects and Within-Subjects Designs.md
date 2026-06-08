@@ -27,8 +27,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -81,6 +79,3 @@ updated: 2026-05-31
 > [!example]
 > - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 混合设计为例，价值肯定条件为受试者间[[Variable|变量]]（价值肯定 vs 控制），时间（基线、压力后 20、30、45 分钟）为受试者内变量。（Ch8, Example 8.5）
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -20,8 +20,6 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Cowen_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -64,6 +62,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Cowen_2009_CE]]

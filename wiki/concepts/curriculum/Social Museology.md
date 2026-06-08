@@ -27,8 +27,6 @@ related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -95,6 +93,3 @@ updated: '2026-05-18'
 > - **Rocinha 贫民窟剧场项目** — 虽非严格意义上的博物馆项目，但与社会博物馆学共享"居民作为主角"和"口述性作为[[Knowledge Production|知识生产]]方式"的核心原则。剧场团体"Bando Cultural Favelados da Rocinha"通过表演讲述暴力创伤故事，详见 [[Epistemology of Resistance]]（Delambre, 2022, p.109–110）
 > - **Mário Chagas 的生态博物馆实践** — Chagas (2001) 以"记忆与权力"（Memória e Poder）为框架阐述了生态博物馆如何服务于地方记忆保护和社区赋权（Delambre, 2022, p.110）
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

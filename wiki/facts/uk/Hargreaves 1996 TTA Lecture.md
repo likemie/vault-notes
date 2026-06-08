@@ -20,7 +20,6 @@ related_persons: []
 related_facts:
   - "[[Ofsted]]"
 related_arguments: []
-sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'

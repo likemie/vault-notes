@@ -26,8 +26,6 @@ related_persons: []
 related_facts:
   - "[[Finnish National Core Curriculum]]"
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -73,6 +71,3 @@ updated: '2026-05-18'
 > - [[Atomisation of Knowledge and Skills]] — SveaSus 的真实场域、身体经验、艺术和多语方法可作为抵抗单纯技能化学习理解的实践例子。
 > - [[Phenomenology]] — 项目强调世界遗产地、具身学习和真实场域，体现了学习与生活世界、身体经验和意义生成的关系。
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

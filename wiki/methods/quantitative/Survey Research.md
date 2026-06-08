@@ -39,8 +39,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -179,6 +177,3 @@ updated: 2026-05-31
 > - 自我报告数据可能受社会期望偏差影响。
 > - 横截面设计难以建立[[Causality|因果关系]]。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

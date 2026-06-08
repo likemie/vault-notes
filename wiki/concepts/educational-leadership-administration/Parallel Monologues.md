@@ -18,11 +18,8 @@ related_methods: []
 related_persons:
   - "[[Scott Eacott]]"
   - "[[Pierre Bourdieu]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Eacott_2019_IJLE]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -79,6 +76,3 @@ updated: 2026-05-18
 > - Bush（2017）发表了针对 Eacott Parallel Monologues 论断的反驳（rebuttal），但 Eacott 认为这并非对核心论点的驳斥（refutation）（Eacott, 2019, p.775）
 > - Hattie（2017, p.428）主张学术界应遵循 thesis-antithesis-synthesis 且"每个范式或猜想的集合都应被测试到毁灭"——Eacott 在原则上同意但对 Hattie 的实际执行提出批评（Eacott, 2019, p.779）
 
-## 来源
-
-- [[Eacott_2019_IJLE]]

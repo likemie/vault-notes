@@ -72,7 +72,7 @@ updated: 2026-05-18
 > | 再生产理论（Reproduction） | 学校传递已有的不平等 | [[Pierre Bourdieu\|Bourdieu]] (1977); Bowles & Gintis (1976) |
 > | 加剧理论（Exacerbation） | 学校不仅再生产且放大不平等 | Kozol (1992); 教师质量差异文献 |
 > | Coleman 报告立场 | 学校对成就差距作用很小 | Coleman et al. (1966); Jencks (1972) |
-> | 折射框架（Refraction） | 学校沿不同维度以不同方式塑造不平等 | [[Argument_Downey_2016_SoE|Downey & Condron (2016)]] |
+> | 折射框架（Refraction） | 学校沿不同维度以不同方式塑造不平等 | [[Argument_Downey_2016_SoE\|Downey & Condron (2016)]] |
 >
 > 折射框架的优势在于：(1) 将补偿性可能性提升到与加剧性和中性视角平等的地位；(2) 强调不平等在学校入学前已有显著轨迹，突出早期童年经历的重要性([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.5]])。
 

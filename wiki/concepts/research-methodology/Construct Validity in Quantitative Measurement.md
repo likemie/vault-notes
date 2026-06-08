@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -62,6 +60,3 @@ updated: 2026-06-01
 > - [[Construct|构念]]效度不是一个"有或无"的二元属性，而是一个程度的连续体——一个工具可能对某些构念有高效度而对相近构念效度较低。研究者在选择工具时需要具体评估其对当前研究构念的适用性，而非仅仅引用原始开发者的效度声明。
 > - 当研究者修改已有工具或将其与不同工具组合时，原有效度证据不再直接适用。重新建立效度需要专门的验证研究设计（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

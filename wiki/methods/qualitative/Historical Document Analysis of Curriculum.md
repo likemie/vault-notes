@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
-sources:
-  - "[[Yan_2025_JCS]]"
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
@@ -89,6 +87,3 @@ updated: '2026-05-18'
 > [!example] 使用此方法的研究
 > - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于香港 [[Liberal Studies|LS]] 的历史分析，是此方法的示范性应用
 
-## 来源
-
-- [[Yan_2025_JCS]]

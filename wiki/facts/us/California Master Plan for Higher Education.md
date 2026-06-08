@@ -22,8 +22,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -53,6 +51,3 @@ updated: 2026-05-26
 - [[Innovation Ecosystem]] — 多层次高等教育体系是基于地点的创新生态系统的关键制度支撑
 - [[Multi-University]] — 加州大学系统是全球最具影响力的公立研究型大学网络，是多元大学的典型代表
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]

@@ -19,8 +19,6 @@ related_methods:
   - "[[Prototype Methods]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -103,6 +101,3 @@ Li 的研究设计体现了一种**文化模型 → 实证验证 → 文化模�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

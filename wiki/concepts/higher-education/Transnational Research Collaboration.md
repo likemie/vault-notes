@@ -33,9 +33,6 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[African Orphan Crops Consortium]]"
 related_arguments: []
-sources:
-  - "[[Ch6_Rizvi_2022]]"
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -105,7 +102,3 @@ updated: '2026-05-18'
 > - [[University-Industry Co-location|产学共同选址]] — 国际[[University-Industry Collaboration|产学合作]]的空间策略，如联合利华 Hive（WUR）、Mars MARI（UC Davis）（Wolf et al., 2025, pp.317–318）
 > - Mars 与 UC Davis [[African Orphan Crops Consortium|非洲孤儿作物联盟]]（AOCC）— 多国政府、大学和企业联合改良 101 种传统非洲粮食作物的跨国合作项目，已培训超过 172 名非洲科学家（Wolf et al., 2025, pp.320–321）
 
-## 来源
-
-- [[Ch6_Rizvi_2022]]
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

@@ -21,9 +21,6 @@ related_persons: []
 related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -42,7 +39,3 @@ Smith Lever Act 于 1914 年通过，在 [[Morrill Land-Grant Act of 1862|Morril
 > [!note]
 Smith Lever Act 是 [[Morrill Land-Grant Act of 1862|Morrill Act]] 约五十年后的制度延伸。如果说 Morrill Act 建立了面向工业阶层的实践教育大学，Smith Lever Act 则更进一步——在机构内部建立直接面向产业的应用研究、教育和培训体系。这可以看作[[University-Industry Collaboration|产学合作]]中"bridging research and practical application"（桥接研究与实际应用）的早期制度模型（p.11）。
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]

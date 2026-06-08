@@ -16,8 +16,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -43,6 +41,3 @@ updated: 2026-06-01
 - 信息如何不将参与者（或研究者）置于风险之中
 - 多种效度策略（[[Triangulation\|三角验证]]、[[Member Checking\|成员核查]]等）如何证明信息的准确性
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

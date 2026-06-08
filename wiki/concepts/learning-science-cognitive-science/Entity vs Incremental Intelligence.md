@@ -24,8 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -87,6 +85,3 @@ Dweck 的研究揭示了儿童智力信念的一个显著变化：西方幼儿�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -22,9 +22,6 @@ related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
-  - "[[Ch14_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -106,7 +103,3 @@ updated: 2026-06-04
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Ch14_Hall_2025]]

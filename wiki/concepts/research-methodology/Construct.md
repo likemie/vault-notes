@@ -23,9 +23,6 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
-  - "[[Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -96,7 +93,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Zhao_2020_JEC]]

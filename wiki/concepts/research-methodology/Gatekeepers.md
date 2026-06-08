@@ -18,8 +18,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -45,6 +43,3 @@ Bogdan & Biklen（1992）提出了守门人审查方案时应回答的问题框�
 
 这些问题既是对研究者的伦理要求，也是研究者与守门人建立信任和合作关系的基础。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

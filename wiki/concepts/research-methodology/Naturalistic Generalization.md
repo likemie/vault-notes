@@ -19,8 +19,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -54,6 +52,3 @@ updated: 2026-05-31
 - [[Theoretical End Point]] — 理论终点是[[Qualitative Research|质性研究]]中理论作为研究结局的总体框架
 - [[Case Study]] — 案例研究是自然主义概括最主要的使用语境
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

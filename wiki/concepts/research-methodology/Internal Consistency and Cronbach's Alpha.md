@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -71,6 +69,3 @@ updated: 2026-05-31
 > - 当研究者修改现有工具或组合多个工具时，原有量表的信度值不再适用于新工具。此时重新建立内部一致性应成为数据分析计划的组成部分（Creswell & Creswell, 2022, Ch8）。
 > - α > .9 虽然看似理想，但可能意味着部分条目在测量几乎相同的内容（条目冗余），而非提供独特的增量信息。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

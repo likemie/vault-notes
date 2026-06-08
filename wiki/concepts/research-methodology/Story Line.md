@@ -18,8 +18,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -42,6 +40,3 @@ updated: 2026-06-01
 - 呈现一个群体或组织内事件的编年史
 - 呈现多个主题之间的[[Causality|因果关系]]或演变关系
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

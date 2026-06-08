@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -58,6 +56,3 @@ updated: 2026-06-01
 > - 三角验证假设存在一个可以通过多种方法逼近的"真实"现象，这一立场与严格的[[Constructivist Paradigm|建构主义]]认识论之间存在张力。
 > - 不同来源证据之间的"不一致"本身可能具有重要的理论意义，而不应简单地被视为效度不足的表现。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

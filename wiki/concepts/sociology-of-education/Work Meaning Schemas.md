@@ -24,8 +24,6 @@ related_persons:
   - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-09
@@ -128,6 +126,3 @@ updated: 2026-05-18
 > - [[Max Weber|韦伯]]著名的"扳道夫"假设："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（郑雅君，2023，引 Weber, 2005[1956]）
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

@@ -24,9 +24,6 @@ related_persons: []
 related_facts:
   - "[[Clinical Trials Transformation Initiative]]"
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
-  - "[[Ch11_Bang_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -112,7 +109,3 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Ch11_Bang_2025]]

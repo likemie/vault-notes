@@ -21,8 +21,6 @@ related_persons:
 related_facts:
   - "[[UN Sustainable Development Goals]]"
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -80,6 +78,3 @@ updated: '2026-05-18'
 > - Whole Sustainability 的概念边界与 [[Life Power]] 高度重叠——两者都被定义为"局部社区代表存在意义的一切"，区分度有限
 > - 论文未提供 Whole Sustainability 在可持续发展政策或实践中的具体应用案例，概念仍停留在原则声明层面（Delambre, 2022, p.109 脚注）
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

@@ -12,12 +12,9 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -54,6 +51,3 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - Qvortrup 的解释社群分析本身来自 VL 辩护者的立场——批评者可能反驳说，对 Hattie 的批评是基于方法论实质问题而非意识形态驱动的误解
 
-## 来源
-
-- [[Qvortrup_2019_NordSTEP]]

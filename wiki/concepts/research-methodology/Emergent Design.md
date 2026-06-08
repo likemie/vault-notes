@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -51,6 +49,3 @@ updated: 2026-06-01
 
 这些转变的共同前提是：研究者正在深入理解参与者对研究现象的经验和意义，并根据这些理解调整研究的方向和工具。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

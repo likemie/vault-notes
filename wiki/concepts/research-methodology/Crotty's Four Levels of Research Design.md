@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -64,6 +62,3 @@ Creswell & Creswell (2022, p.71) 使用 Crotty 的四层框架来区分世界观
 > [!example]
 > **Crotty 的四层 vs 理论与世界观的区别**。Crotty 的框架将世界观和理论放在同一个层级系统中，前者比后者更抽象。世界观可以隐含在研究中，理论则通常来自文献并被明确陈述。二者不是对立关系，而是上下位关系。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

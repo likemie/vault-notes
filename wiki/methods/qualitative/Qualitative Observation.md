@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -73,6 +71,3 @@ updated: 2026-06-01
 > [!example] 使用此方法的研究
 > - Miller（1992）在一项关于四年制学院新校长第一年经历的[[Ethnography|民族志研究]]中，对行政内阁会议和校长日常活动分别进行了每两月一次、每次两小时的观察，持续四个月（2–5 月）。观察由研究者以参与者身份在现场进行，辅以田野日志记录时间分配、田野笔记本记录观察细节、田野日记记录研究者的思考与感受。该研究同时结合了访谈和文件分析作为[[Triangulation|三角验证]]来源（Creswell & Creswell, 2022, Ch9）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

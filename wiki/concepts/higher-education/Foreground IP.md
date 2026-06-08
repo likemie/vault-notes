@@ -22,8 +22,6 @@ related_facts:
   - "[[MN-IP Create]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -92,6 +90,3 @@ updated: 2026-06-03
 > - [[Bayh-Dole Act of 1980]] — 美国大学能够保留联邦资助发明的所有权并以此为基础向产业方许可 FIP 的法律基础
 > - [[MN-IP Create]] 项目（明尼苏达大学）— 菜单式 FIP 定价的实务范例
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]

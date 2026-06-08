@@ -24,8 +24,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -70,6 +68,3 @@ updated: 2026-05-31
 > [!warning]
 > 外部效度与[[Internal Validity|内部效度]]之间存在经典的权衡关系。严格控制实验室条件有助于保障内部效度，但可能降低外部效度。研究者需要在设计阶段明确说明结论的推广范围——具体可以推广到哪些人群、哪些情境和哪些时间段，而不是抽象地声称"研究结果具有普遍性"（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

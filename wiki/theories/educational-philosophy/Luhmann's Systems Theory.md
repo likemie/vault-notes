@@ -24,8 +24,6 @@ related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -82,6 +80,3 @@ updated: '2026-05-18'
 > - 教育治理分析 — 社会系统与心理系统的不可通约性解释了为何教育政策（社会沟通）与课堂实际学习（心理过程）之间总是存在鸿沟
 > - [[Knowledge-Based Economization]] — Moisio (2018) 的概念与系统理论共享对知识密集型资本主义的话语建构与物质实践双重关注，可用于分析经济想象如何通过沟通系统被客观化
 
-## 来源
-
-- [[Larsen_2019_EducSci]]

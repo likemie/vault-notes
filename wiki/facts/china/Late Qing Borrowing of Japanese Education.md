@@ -29,8 +29,6 @@ related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -112,6 +110,3 @@ updated: '2026-05-28'
 
 ---
 
-## 来源
-
-- [[Rappleye_2006_RCIE]]

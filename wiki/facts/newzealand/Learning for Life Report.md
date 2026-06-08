@@ -20,8 +20,6 @@ related_persons:
   - "[[Gerald Grace]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Grace_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -46,6 +44,3 @@ updated: '2026-05-18'
 >
 > Grace（2010, p.90）对此表达满意："这确认了我对新西兰将保持其引以为傲的智识和民主独立传统的判断，无论世界其他地方在做什么。"
 
-## 来源
-
-- [[Grace_2010_NZJES]]

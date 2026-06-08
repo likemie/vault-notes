@@ -22,8 +22,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -87,6 +85,3 @@ updated: 2026-06-02
 - [[Locus of Control]] — 社会学习理论的核心[[Construct|构念]]，Rotter (1966) 提出
 - [[Self-control]] — 社会学习理论强调自我调节过程
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

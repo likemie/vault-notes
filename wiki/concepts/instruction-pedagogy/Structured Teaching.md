@@ -18,7 +18,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -76,6 +75,3 @@ updated: 2026-05-22
 > [!example] 瑞典 2011 教育条例与教育法语境
 > 文章同时指出，教师主导教学的要求并不只出现在课程文件中，也出现在 2011 年教育条例改革与更早的教育法定义里。正因为瑞典教育法已经把 teaching 界定为教师领导下的目标导向过程，structured teaching 才显得有些“同义反复”。Håkansson 因而把它解释成一次政策性再强调：面对成绩下降与课堂工作形式变化，国家重新把教师领导与课堂组织推回改革中心（Håkansson, 2015, pp.584-585, 590, 596）。
 
-## 来源
-
-- Håkansson_2015_TT

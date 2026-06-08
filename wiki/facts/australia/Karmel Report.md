@@ -23,8 +23,6 @@ related_facts:
   - "[[Independent Public Schools Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
-sources:
-  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -71,6 +69,3 @@ updated: '2026-05-18'
 > - [[Gonski Reforms]] — 试图回归 Karmel 的需求本位拨款原则
 > - [[New Public Management]] — 当代学校自主权改革的市场逻辑与 Karmel 的民主逻辑形成对比
 
-## 来源
-
-- [[Keddie_2020_IJLE]]

@@ -24,8 +24,6 @@ related_facts:
   - "[[Independent Public Schools Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
-sources:
-  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -84,6 +82,3 @@ updated: '2026-05-18'
 > - [[New Public Management]] — LSLD 体现了 NPM 经济效率话语在学校治理中的操作化
 > - [[Gonski Reforms]] — Gonski 改革与 LSLD 下的公平资金分配直接相关
 
-## 来源
-
-- [[Keddie_2020_IJLE]]

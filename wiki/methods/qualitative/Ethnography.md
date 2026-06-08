@@ -27,9 +27,6 @@ related_persons: []
 related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
-  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -89,7 +86,3 @@ updated: 2026-05-30
 > - vs [[Case Study]] — 案例研究聚焦于一个边界明确的个案（可以是个人、项目或事件），民族志则聚焦于整个文化群体的共享模式。但两者在方法上有重叠，尤其在使用观察和访谈时。
 > - vs [[Grounded Theory]] — 扎根理论聚焦于生成关于某一过程的理论，民族志则聚焦于描述群体的文化。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Beech_2015_GSE]]

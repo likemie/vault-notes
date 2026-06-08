@@ -24,8 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -85,6 +83,3 @@ updated: '2026-05-18'
 > - [[National Competitive Advantage]] — Porter 理论为经济爱国主义提供的理论合法性基础
 >
 
-## 来源
-
-- [[Ch2_Moisio_2022]]

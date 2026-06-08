@@ -32,8 +32,6 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Delambre_2022_Springer]]"
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -100,6 +98,3 @@ updated: '2026-05-18'
 > - 可持续发展 — 通过"[[Whole Sustainability|整体可持续性]]"（Whole Sustainability）概念应用于可持续发展实践。Whole Sustainability 将张力理论应用于可持续性科学和实践，质疑从属于霸权发展模式认识论的可持续性概念。其"整体性"在于纳入局部社区的一切生命力量要素及内外部威胁（Delambre, 2022, p.109 脚注）
 > - 个体与组织发展 — WTS Coaching 项目将张力理论应用于个体 coaching、商业发展和制度变革（Delambre, 2022, p.107）
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

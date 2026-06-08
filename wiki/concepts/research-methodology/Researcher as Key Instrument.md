@@ -17,8 +17,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -38,6 +36,3 @@ updated: 2026-06-01
 > - vs [[Quantitative Research|量化研究]]中的工具使用 — 量化研究依赖标准化工具（问卷、量表、测试），工具的设计者与施测者可以分离；[[Qualitative Research|质性研究]]中，研究者本人就是"工具"——数据的质量和深度取决于研究者的观察力、访谈技巧和解释能力。
 > - vs [[Reflexivity\|反身性]] — 研究者作为关键工具意味着研究者的个人特质直接影响数据质量，因此反身性（反思自身背景如何塑造解释）才成为质性研究的另一个核心特征——两者互为因果。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

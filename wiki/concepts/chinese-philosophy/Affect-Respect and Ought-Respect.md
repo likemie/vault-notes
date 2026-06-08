@@ -20,8 +20,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -78,6 +76,3 @@ Hsueh 等人对中美中小学生尊重教师原因的研究发现：
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

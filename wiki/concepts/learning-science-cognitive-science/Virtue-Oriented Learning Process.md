@@ -40,7 +40,6 @@ related_persons:
   - "[[Mencius]]"
 related_facts: []
 related_arguments: []
-sources: []
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -233,4 +232,3 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 
 ---
 
-## 来源

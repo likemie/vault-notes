@@ -28,8 +28,6 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[Citizenship and Social Development]]"
 related_arguments: []
-sources:
-  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-06-07'
@@ -89,6 +87,3 @@ updated: '2026-06-07'
 
 ---
 
-## 来源
-
-- [[Yan_2025_JCS]]

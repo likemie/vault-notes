@@ -13,8 +13,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -63,6 +61,3 @@ updated: 2026-05-31
 > [!example] 联邦基金申请中的注意力思想
 > 好的基金申请书是注意力思想的典范使用场景。申请书中，写作者会在叙事中不时暂停，提供对即将呈现内容的清晰预览。评审者需要在短时间内理解复杂的研究方案，良好的注意力思想设计直接关系到申请的成功率。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

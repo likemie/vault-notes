@@ -24,8 +24,6 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
-sources:
-  - "[[Ch14_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -62,6 +60,3 @@ updated: 2026-06-04
 > - [[University-Industry Collaboration]]
 > - [[Bayh-Dole Act of 1980]]
 
-## 来源
-
-- [[Ch14_Hall_2025]]

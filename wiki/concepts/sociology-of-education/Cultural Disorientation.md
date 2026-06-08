@@ -30,8 +30,6 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-09
@@ -89,6 +87,3 @@ updated: 2026-05-18
 > - vs [[Lost Mode]] — 迷失无从者是文化迷失在毕业出路产生机制中的极端表现：既缺乏策略性工具，也未能内化一套自洽的价值信念，在四类中处于最不利地位（郑雅君，2023）
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

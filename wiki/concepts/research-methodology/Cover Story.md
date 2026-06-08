@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -63,6 +61,3 @@ updated: 2026-05-31
 > - 封面故事中若包含欺骗，必须经过机构 [[Institutional Review Board|IRB]] 的审查和批准。研究者需要在方法计划中明确说明为何欺骗是必要的、欺骗的性质和程度、以及解除欺骗的具体程序。
 > - 所有实验程序和材料——包括封面故事的措辞——都必须在数据收集前获得 IRB 批准（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

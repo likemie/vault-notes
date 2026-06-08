@@ -19,8 +19,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -49,6 +47,3 @@ updated: 2026-06-02
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

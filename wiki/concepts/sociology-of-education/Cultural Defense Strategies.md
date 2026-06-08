@@ -20,8 +20,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -131,6 +129,3 @@ Li 特别指出，防御策略本身也通过濡化传递给儿童——"这些�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

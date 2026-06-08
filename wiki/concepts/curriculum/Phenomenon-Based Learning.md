@@ -26,15 +26,12 @@ related_theories:
 related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
-  - "[[John Dewey]]"
   - "[[Wolfgang Klafki]]"
 related_facts:
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
   - "[[OECD]]"
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -104,6 +101,3 @@ updated: '2026-05-18'
 > - [[Finnish National Core Curriculum]] — 将跨学科与现象本位学习纳入芬兰基础教育课程框架。
 > - [[SveaSus Project]] — 以 Suomenlinna 世界遗产地为学习环境，围绕可持续性开展 PhBL 的高等教育/教师教育实践。
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

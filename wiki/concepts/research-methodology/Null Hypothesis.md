@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -72,6 +70,3 @@ updated: 2026-05-31
 > [!warning]
 > 在实际研究写作中，大多数[[Quantitative Research|量化研究]]更关注提出[[Alternative Hypothesis|备择假设]]而非零假设。特别是方向性备择假设（directional alternative [[Hypothesis]]）被视为更优的写作实践，因为它明确预测了关系的方向——例如"预测身高与体重之间存在正向关系，即身高越高的人体重越重"或"关系技能越高，领导潜质越高"（Creswell & Creswell, 2022, Ch7）。零假设虽然在统计检验中扮演关键角色，但在研究方案的假设陈述段落中通常不会直接写出。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -12,8 +12,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -48,6 +46,3 @@ updated: 2026-05-25
 > - Emic 视角在研究文化原生概念及行为底层信念方面具有更高的效度，优于单纯依赖外部范畴的 etic 路径（Li, 2012, p.77-78）。
 > - Li（2012）运用 emic 路径，让中英文母语大学生自由联想"学习"（xuexi / learn/learning）相关词汇，分别获得 225 个中文核心词汇和 203 个英文核心词汇。聚类分析生成了欧美与中国两种文化层面的学习模型，揭示了二者在学习目的、能动过程、情感维度和成就标准上的系统性差异（Li, 2012, p.79-85）。
 
-## 来源
-
-- [[Li_2012_Cambridge]]

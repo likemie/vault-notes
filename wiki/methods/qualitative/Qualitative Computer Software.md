@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -64,6 +62,3 @@ Creswell & Creswell（2022, Ch9）列举了以下常用软件：
 > [!warning]
 > 软件程序不会分析数据；分析的进行是研究者的责任。软件是工具，不是替代品（Creswell & Creswell, 2022, Ch9）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -14,8 +14,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -99,6 +97,3 @@ Creswell & Bàez (2020) 列举了六种为已有文献提供新视角的方式�
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

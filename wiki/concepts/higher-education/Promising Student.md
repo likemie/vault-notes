@@ -28,8 +28,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch13_Thompson_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-19'
@@ -92,6 +90,3 @@ updated: 2026-05-20
 - **教育开放性的丧失**：当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的成长——被压缩为数据相关性（Thompson et al., 2022, p.227）
 - **批判的消解**：高等教育不只是知识和技能的获取，也包括对所呈现的知识采取批判性立场。当每个人都只关注自己的优化轨迹时，公共的学术交流空间和批判实践可能萎缩（Thompson et al., 2022, p.227）
 
-## 来源
-
-- [[Ch13_Thompson_2022]]

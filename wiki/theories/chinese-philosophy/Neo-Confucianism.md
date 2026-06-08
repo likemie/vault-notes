@@ -32,8 +32,6 @@ related_facts:
   - "[[Confucian Revival in China]]"
   - "[[Civil Service Examination]]"
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -96,6 +94,3 @@ updated: 2026-05-25
 - 奠定了中国、日本、韩国、越南等地学习者重视勤勉、[[Humility in Learning|谦逊]]、尊重师长的文化基础
 - [[Civil Service Examination|科举制度]]以程朱理学为考试内容，持续十三个世纪，深刻影响东亚教育价值观
 
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

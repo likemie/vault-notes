@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -75,6 +73,3 @@ Group D  R ———————————————— O    (无前测 + �
 > - vs 仅后测对照组设计（Posttest-Only Control-Group Design） — 仅后测设计通过取消前测来控制前测的混淆效应，但不评估前测效应本身；Solomon 四组设计则同时评估前测的主效应和交互效应。
 > - vs [[Factorial Design|因子设计]] — Solomon 四组是 2 × 2 因子设计的特例，但因子设计通常不涉及"是否有前测"作为一个因子——前测作为因子是 Solomon 四组设计的独特之处。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

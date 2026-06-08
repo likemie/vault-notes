@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -86,6 +84,3 @@ updated: 2026-05-31
 > [!warning]
 > 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，Creswell & Creswell (2022) 的立场是：非方向性语言主要适用于[[Purpose Statement|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

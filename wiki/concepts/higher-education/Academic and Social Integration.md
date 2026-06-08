@@ -29,8 +29,6 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -135,6 +133,3 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 
 ---
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

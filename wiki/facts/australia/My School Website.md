@@ -24,9 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Keddie_2020_JEAH]]"
-  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -93,7 +90,3 @@ updated: '2026-05-18'
 > - [[New Public Management]] — My School 体现了 NPM 的"产出控制"和"管理问责"特征
 > - [[Performativity of Measurement]] — My School 的排名使 NAPLAN 分数从测量工具变为学校身份的定义者
 
-## 来源
-
-- [[Keddie_2020_JEAH]]
-- [[Keddie_2020_IJLE]]

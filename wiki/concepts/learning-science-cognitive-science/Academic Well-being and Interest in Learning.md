@@ -19,8 +19,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -55,6 +53,3 @@ updated: '2026-05-18'
 
 - 后续可补充跨学段变化轨迹与自评-课堂观察一致性证据。
 
-## 来源
-
-- [[Lekhal_2015_Paideia]]

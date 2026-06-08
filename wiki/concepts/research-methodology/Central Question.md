@@ -29,8 +29,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -122,6 +120,3 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

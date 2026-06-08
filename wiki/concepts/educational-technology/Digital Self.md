@@ -27,8 +27,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch13_Thompson_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-20'
@@ -102,6 +100,3 @@ Bächle（2016, p.188）用身份证（identity document）的类比来说明数
 > - [[Online Self-Assessment]] — OSA 是数字自我建构的典型场景：潜在学生在入学前完成数字化问卷和测试，获得一个以数字形式呈现的"自我"，并被引导与[[Digital Optimum|数字最优]]进行比较和优化
 > - [[Learning Analytics]] — 学习分析技术是数字自我建构的核心基础设施：通过收集和分析数字痕迹，持续更新和调制数字自我
 
-## 来源
-
-- [[Ch13_Thompson_2022]]

@@ -28,7 +28,6 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources: []
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -163,6 +162,4 @@ updated: 2026-05-25
 > - [[Western Learner]] — 西方学习者模型，心智导向学习过程是该模型在过程层面的展开
 
 ---
-
-## 来源
 

@@ -19,8 +19,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -55,6 +53,3 @@ updated: '2026-05-18'
 
 - 后续可补充不同课堂结构下的差异表现及其与成绩关系的非线性证据。
 
-## 来源
-
-- [[Lekhal_2015_Paideia]]

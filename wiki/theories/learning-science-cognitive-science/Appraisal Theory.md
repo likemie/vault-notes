@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -68,6 +66,3 @@ Mesquita 和 Frijda 进一步论证：文化参与情绪过程的**所有七个�
 ... Applied fuzzy match at line 42-80.
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

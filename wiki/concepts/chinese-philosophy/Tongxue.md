@@ -23,8 +23,6 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -112,6 +110,3 @@ Heyman 等人比较了中美学童向同伴披露成绩的行为：欧裔美国�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

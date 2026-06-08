@@ -24,8 +24,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -73,6 +71,3 @@ updated: 2026-06-01
 > - 协变量应在处理之前测量——若协变量本身可能受到处理的影响，则使用 ANCOVA 是不适当的（因为控制处理效应的中介变量会人为削弱处理效应）。
 > - 与其他[[Analysis of Variance|方差分析]]方法一样，对正态分布和方差同质性假设敏感。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

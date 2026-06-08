@@ -23,8 +23,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -79,6 +77,3 @@ updated: 2026-05-25
 > [!example]
 > - [[Peer-Supported Learning|Peer-Supported Learning]] — Family Social Model 为东亚学校中的同伴互助学习提供了文化合法性和操作框架
 
-## 来源
-
-- [[Li_2012_Cambridge]]

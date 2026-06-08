@@ -14,12 +14,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Romer_2018_EPT]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -55,6 +52,3 @@ updated: '2026-05-18'
 > - Rømer (2018) 以 Hattie 的 VL 为 Pure Evaluation 的典型案例：138 个[[Variable|变量]]被原子化、去情境化，在[[Meta-meta-analysis|元-元分析]]中汇总为一个全球性的 d>0.4 基准
 > - 批评的实质：评价从"评估教育"变为"定义教育"，教育对象在评价语言游戏中消失（Rømer, 2018, p.3-5）
 
-## 来源
-
-- [[Romer_2018_EPT]]

@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -72,6 +70,3 @@ Creswell & Creswell (2022, pp.62–63) 提供了一个实用的[[Research Writin
 > [!example]
 > **理论视角 vs [[Literature Review|文献综述]]**。文献综述系统检索、评估和总结已有研究整体。理论视角聚焦于一个或两个具体理论，深入阐述其命题和与当前研究的关系。两者在[[Quantitative Research|量化研究]]计划中可以分开设置，也可以将理论视角作为文献综述的一部分。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

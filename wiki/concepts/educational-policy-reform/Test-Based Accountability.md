@@ -24,8 +24,6 @@ related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
-sources:
-  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -87,6 +85,3 @@ updated: 2026-05-26
 
 ---
 
-## 来源
-
-- [[Wang_2025_CE]]

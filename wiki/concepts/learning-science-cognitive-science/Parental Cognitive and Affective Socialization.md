@@ -28,8 +28,6 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -105,6 +103,3 @@ updated: 2026-05-25
 > - 认知社会化中的共性：两组母亲都设置了认知框架将孩子引入话题，孩子都经常反驳和协商，母亲都通过劝说和推理使孩子最终认同（Li, 2012, p.238–248）。
 > - 情感社会化中的共性：两组母亲都积极塑造孩子的学习情感体验；差异在于塑造什么情感——欧美母亲塑造兴趣/乐趣/[[Pride in Learning|骄傲]]，台湾母亲塑造勇气/坚持/吃苦（Li, 2012, p.266–280）。
 
-## 来源
-
-- [[Li_2012_Cambridge]]

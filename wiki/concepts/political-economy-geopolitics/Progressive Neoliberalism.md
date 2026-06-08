@@ -19,8 +19,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -81,6 +79,3 @@ updated: '2026-05-18'
 > - [[Knowledge-Based Economization]] — 进步新自由主义是其过去三十年的主导政治推力
 >
 
-## 来源
-
-- [[Ch2_Moisio_2022]]

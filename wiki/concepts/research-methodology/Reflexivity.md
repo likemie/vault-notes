@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -59,6 +57,3 @@ updated: 2026-06-01
 
 反身性与"研究者角色"（Researcher's Role）有关联但有所区别。研究者角色涉及研究者与参与者或研究场所之间可能不适当影响研究者解释的联系。"[[Backyard Research|后院研究]]"（Backyard research, Glesne & Peshkin, 1992）指研究研究者自己的组织、朋友或直接工作环境，这往往导致研究者在信息披露能力上的妥协，并引发研究者与参与者之间权力不平衡的问题（Creswell & Creswell, 2022, Ch9）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -158,6 +156,3 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

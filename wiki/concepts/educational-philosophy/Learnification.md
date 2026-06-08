@@ -19,11 +19,8 @@ related_persons:
   - "[[Gert Biesta]]"
   - "[[John Dewey]]"
   - "[[Wolfgang Klafki]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -67,6 +64,3 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - Learnification 作为批判性概念，其立场本身是规范性的——它预设教育的目的是超越学习结果测量的，这可能被 [[Evidence-Based Education|EBE]]/ VL 支持者视为对教育问责和透明性的拒绝
 
-## 来源
-
-- [[Larsen_2019_EducSci]]

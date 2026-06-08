@@ -22,8 +22,6 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -77,6 +75,3 @@ updated: 2026-05-18
 > - wiki-[[Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的[[Pragmatic Paradigm|实用主义]]性质同时揭示其受结构性条件制约
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

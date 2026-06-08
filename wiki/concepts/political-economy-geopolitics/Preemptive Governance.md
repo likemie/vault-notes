@@ -31,8 +31,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch13_Thompson_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -99,6 +97,3 @@ updated: 2026-05-20
 > - **结构性不平等的遮蔽**：先发制人治理将学业失败的风险归因于个体特征的缺失（"外语经历不足"、"数学基础薄弱"），而非教育资源分配的结构性不平等。入学前的"起点差异"在自我评估框架中被转化为"个人需要弥补的不足"（Thompson et al., 2022, p.227）
 > - **教育开放性的丧失**：当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——成长、转变、不可预测的发展——被系统性地排除在治理视野之外（Thompson et al., 2022, p.227）
 
-## 来源
-
-- [[Ch13_Thompson_2022]]

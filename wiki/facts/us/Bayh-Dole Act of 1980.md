@@ -31,13 +31,6 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch15_Susalka_Carbone_2025]]"
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -113,11 +106,3 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 > [!note]
 > Bayh-Dole Act 通过后，大学研究资助的来源结构发生了显著变化。联邦资助占大学研究支出的比例从 1991 年的约 70% 下降到 2021 年的不足 60%（AUTM, 2024, cited in Susalka & Carbone, 2025, p.273）。与此同时，产业资金成为重要的替代来源——2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（p.273）。在这一背景下，Bayh-Dole Act 赋予大学的知识产权所有权愈发展现其战略价值：它使大学能够将联邦资助产生的研究成果转化为可向产业许可的资产，从而在联邦资金相对缩水的情况下维持研究体系的运转。
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch15_Susalka_Carbone_2025]]
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]

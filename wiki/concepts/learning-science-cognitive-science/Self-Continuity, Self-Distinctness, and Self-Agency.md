@@ -24,8 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -94,6 +92,3 @@ Li（2012, pp.337-340）将这三个维度用于解释文化学习模型在全�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

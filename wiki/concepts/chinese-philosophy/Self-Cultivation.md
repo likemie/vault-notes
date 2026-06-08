@@ -40,8 +40,6 @@ related_persons:
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -157,6 +155,3 @@ Li 甚至提出了一个反直觉的推测：女性从家庭走向学校和职�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -24,8 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -101,6 +99,3 @@ Li 从中文学习词汇研究中收集到以下典型表达（Li, 2012, pp.126-
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

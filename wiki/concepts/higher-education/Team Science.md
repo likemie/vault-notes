@@ -19,8 +19,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch10_Swick_Jones_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -54,6 +52,3 @@ updated: 2026-06-02
 > [!example]
 > 在[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）的语境中，[[Physician-Scientist|医师科学家]]、基础科学家、工程师、产业研发人员和监管专家必须组成跨学科团队，才能在医学翻译循环（Cycle of Medical Translation）中推动一项创新从临床需求识别到产品开发和临床部署的全过程。每个阶段的成功都依赖于不同专业知识和不同机构类型（大学、研究机构、产业伙伴、医院）之间的有效协作（pp.176–179）。
 
-## 来源
-
-- [[Ch10_Swick_Jones_2025]]

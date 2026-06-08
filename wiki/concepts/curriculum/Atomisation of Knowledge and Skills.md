@@ -28,8 +28,6 @@ related_facts:
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -84,6 +82,3 @@ updated: '2026-05-18'
 > - [[Finnish National Core Curriculum]] — 同时承载整体 [[Phenomenon-Based Learning|PhBL]] 理想与横向能力/问责政策话语，体现知识原子化与整体教育之间的张力。
 > - [[SveaSus Project]] — 以真实[[Champ|场域]]、身体经验、艺术和多语方法抵抗单纯技能化的学习理解。
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

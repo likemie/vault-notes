@@ -26,8 +26,6 @@ related_persons:
   - "[[Marcia Baxter Magolda]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-09
@@ -84,6 +82,3 @@ updated: 2026-05-18
 > - [[Culture as Toolkit]] — 自主驱动者同时具备深层内化的价值图式（价值观驱动维度）和灵活使用文化工具达成目标的能力（工具箱维度）（郑雅君，2023）
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

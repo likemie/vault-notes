@@ -44,10 +44,6 @@ related_arguments:
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
-sources:
-  - "[[Creswell_2022_SAGE]]"
-  - "[[Zheng_2023_ShanghaiSanlian]]"
-  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -206,8 +202,3 @@ updated: 2026-06-02
 >
 > 详见 [[Argument_Wang_2025_CE]]。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]
-- [[Zheng_2023_ShanghaiSanlian]]
-- [[Yu_2024_CE]]

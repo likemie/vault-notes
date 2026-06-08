@@ -21,8 +21,6 @@ related_concepts:
   - "[[Academic Engagement Team]]"
 related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
-sources:
-  - "[[Ch12_Ramming_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -89,6 +87,3 @@ updated: 2026-06-03
 
 ---
 
-## 来源
-
-- [[Ch12_Ramming_2025]]

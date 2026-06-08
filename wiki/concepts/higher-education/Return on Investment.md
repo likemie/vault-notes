@@ -19,9 +19,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch10_Swick_Jones_2025]]"
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -69,7 +66,3 @@ updated: 2026-06-02
 
 > 这一发现与 Swick 和 Jones（2025）的核心主张形成互补：ROI 差异是结构性存在的，关键在于通过透明沟通将其从障碍转化为驱动力。在国际情境中，沟通的额外成本（语言、时区、文化差异）使得这一转化更加困难，但也更加必要。
 
-## 来源
-
-- [[Ch10_Swick_Jones_2025]]
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

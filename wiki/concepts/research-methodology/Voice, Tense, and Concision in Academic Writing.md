@@ -14,8 +14,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -113,6 +111,3 @@ Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养�
 > - [[Sage]] Handbook of Mixed Methods in Social and Behavioral Research (Tashakkori & Teddlie, 2010)
 > - The Mixed Methods Reader (Plano Clark & Creswell, 2008)
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

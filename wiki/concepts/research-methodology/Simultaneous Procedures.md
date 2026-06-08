@@ -18,8 +18,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -43,6 +41,3 @@ updated: 2026-06-01
 > - vs [[Quantitative Research|量化研究]]的线性流程 — 量化研究遵循"数据收集→数据分析→报告撰写"的固定线性顺序，三个阶段在时间上先后分离；[[Qualitative Research|质性研究]]的三个阶段同步迭代进行，早期分析可反向指导后续数据收集的方向（Creswell & Creswell, 2022, Ch9, p.206）。
 > - vs [[Emergent Design|涌现式设计]] — 同时性是涌现式设计的操作基础：只有分析、收集和写作同步进行，研究设计才能在过程中根据新发现进行调整。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

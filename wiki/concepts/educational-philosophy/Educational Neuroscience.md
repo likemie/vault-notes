@@ -25,8 +25,6 @@ related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -88,6 +86,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

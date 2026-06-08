@@ -27,8 +27,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch6_Rizvi_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -80,6 +78,3 @@ updated: '2026-05-18'
 > - [[Internationalization of Higher Education]] — GATS 是推动国际化从发展主义理性转向市场理性的关键制度机制
 > - [[Geopolitics of Knowledge]] — GATS 体现了知识地缘政治中教育商品化的制度维度
 
-## 来源
-
-- [[Ch6_Rizvi_2022]]

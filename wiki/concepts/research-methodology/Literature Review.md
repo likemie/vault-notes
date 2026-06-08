@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -137,6 +135,3 @@ Creswell 介绍了主要学术数据库及其特征（Creswell & Creswell, 2022�
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

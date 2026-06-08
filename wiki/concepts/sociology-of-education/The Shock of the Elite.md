@@ -28,8 +28,6 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -77,6 +75,3 @@ updated: 2026-05-18
 > 郑雅君（2023）第六章在此基础上进一步区分了精英休克所引发的两重[[Cultural Barrier|文化障碍]]——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的全面疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。精英休克可被理解为两重障碍在入学初期的集中爆发。
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

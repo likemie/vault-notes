@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -73,6 +71,3 @@ updated: 2026-05-31
 > - 只能比较两组；多组比较使用独立 t 检验会增加第一类错误。
 > - 对异常值敏感。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -28,8 +28,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -78,6 +76,3 @@ updated: 2026-05-31
 > [!example]
 > - [[Argument_Creswell_2022_SAGE]] — 在第 8 章调查方法计划和实验方法计划的检查清单中均将试点测试列为核心组成部分。（Ch8）
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

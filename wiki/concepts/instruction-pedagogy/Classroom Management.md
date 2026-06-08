@@ -21,7 +21,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
-sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -79,6 +78,3 @@ updated: 2026-05-22
 > - [[Argument_Håkansson_2015_TT]] — 用[[Comparative Meta-synthesis|比较性元综合]]说明课堂管理为何成为瑞典[[Structured Teaching|结构化教学]]讨论中的关键课堂维度（Håkansson, 2015, pp.590-592）。
 > - [[Structured Teaching]] — 瑞典 2011 年课程与教育条例强调教师领导下的结构化教学，使课堂管理在政策解释中获得更高可见度（Håkansson, 2015, pp.584-585, 590-592）。
 
-## 来源
-
-- Håkansson_2015_TT

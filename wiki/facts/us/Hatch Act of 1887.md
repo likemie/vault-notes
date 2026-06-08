@@ -23,8 +23,6 @@ related_facts:
   - "[[Smith Lever Act of 1914]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -51,6 +49,3 @@ Hatch Act 的意义在于：它比 [[Morrill Land-Grant Act of 1862|Morrill Act]
 
 这一序列展示了美国高等教育从一开始就将产业服务（最初是农业）嵌入大学使命的制度传统——这一传统在二十世纪后期通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 扩展到所有技术领域。
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]

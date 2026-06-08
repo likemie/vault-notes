@@ -22,8 +22,6 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments: []
-sources:
-  - "[[Cheng_2026_KeJiChuangXin]]"
 confidence: medium
 status: draft
 created: 2026-06-05
@@ -108,6 +106,3 @@ updated: 2026-06-05
 
 ---
 
-## 来源
-
-- [[Cheng_2026_KeJiChuangXin]]

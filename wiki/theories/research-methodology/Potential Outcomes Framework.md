@@ -11,7 +11,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
-  - "[[Big Ideas]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -33,7 +32,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 潜在结果框架（Potential outcomes Framework）是[[Causality|因果推断]]的[[Big Ideas|核心概念]]框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
+> 潜在结果框架（Potential outcomes Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
 >
 > > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed." ([[Argument_Berk_2011_ER|Berk, 2011, p.193]])
 >

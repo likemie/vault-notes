@@ -27,8 +27,6 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -101,6 +99,3 @@ updated: 2026-05-27
 > [!example]
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的[[University-Industry Collaboration|产学参与]]中心网页进行系统内容分析，按组织模式分类并评估各办公室在八项产学活动中的权限等级，以研究大学如何组织其产学参与（Boccanfuso & Hall, 2025, pp.56–63）。
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]

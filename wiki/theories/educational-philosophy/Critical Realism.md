@@ -26,12 +26,11 @@ related_persons:
   - "[[Roy Bhaskar]]"
   - "[[Ray Pawson]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[Playing for Success]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-sources:
-  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -109,6 +108,3 @@ updated: '2026-05-18'
 > [!success] 应用领域
 > - [[Evidence-Based Education]] — 批判实在论为 EBE 方法论批判提供了认识论和本体论基础
 
-## 来源
-
-- [[Wrigley_2019_ERE]]

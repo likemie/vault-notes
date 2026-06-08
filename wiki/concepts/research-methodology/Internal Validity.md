@@ -22,8 +22,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -98,6 +96,3 @@ updated: 2026-05-31
 > [!warning]
 > 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。[[Experimental Research|实验研究]]者需要在设计阶段明确识别潜在的内部效度威胁，并采取相应的应对措施（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

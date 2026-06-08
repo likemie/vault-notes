@@ -20,12 +20,12 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
 related_persons:
-  - "[[John Hattie]]"
-related_facts: []
+  - "[[Donald A. Schön]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
-sources:
-  - "[[Nielsen_2021_IRTP]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -103,6 +103,3 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — 技术理性是 EBE 运动的深层理论内核；Biesta 的"什么有效不会有效"论证与此直接相关
 > - 现代教育治理改革 — NPM、问责制度、标准化测试等技术理性工具在全球教育系统中的广泛采纳
 
-## 来源
-
-- [[Nielsen_2021_IRTP]]

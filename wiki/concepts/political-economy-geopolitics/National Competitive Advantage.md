@@ -26,8 +26,6 @@ related_persons:
   - "[[Michael Porter]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -98,6 +96,3 @@ updated: '2026-05-18'
 > - [[Spatial Sortings]] — 国家竞争优势的空间极化后果：被选为"冠军"的城市与枢纽之外地区之间分化加剧
 >
 
-## 来源
-
-- [[Ch2_Moisio_2022]]

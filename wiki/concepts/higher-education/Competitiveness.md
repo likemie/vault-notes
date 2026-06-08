@@ -31,8 +31,6 @@ related_facts:
   - "[[Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
 related_arguments: []
-sources:
-  - "[[Ch13_Thompson_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-19'
@@ -93,6 +91,3 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 - **教学竞争力的悖论性**：当大学竞争的是学生"潜在的未来努力"时，竞争的基础是不稳定的——它依赖的是尚未发生的行为。这意味着大学必须通过提前的管理技术（如 [[Online Self-Assessment|OSA]]）将不确定性转化为可治理的对象（Thompson et al., 2022, p.220）
 - **[[Stakeholder University|利益相关者大学]]的兴起**：Wæraas 和 Solbakk（2009, p.450）指出，现代大学正从"学术共同体"转变为"利益相关者大学"（stakeholder university）——学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性，将大学转化为地缘政治的机会节点，这可能在根本上改变大学作为学术共同体的本质（Thompson et al., 2022, pp.221–222）
 
-## 来源
-
-- [[Ch13_Thompson_2022]]

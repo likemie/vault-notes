@@ -18,8 +18,6 @@ related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -61,6 +59,3 @@ updated: '2026-05-18'
 > [!warning]
 > - "张力社会"作为诊断性概念，其边界和判别标准不够明确——什么时候社会处于"张力"中、什么时候不是？该概念缺乏与其他社会诊断概念（如 Beck 的风险社会、Bauman 的液态现代性、Han 的倦怠社会）的系统比较
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

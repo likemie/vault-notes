@@ -24,8 +24,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -129,6 +127,3 @@ updated: 2026-05-22
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

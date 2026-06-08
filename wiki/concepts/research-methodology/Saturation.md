@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -56,6 +54,3 @@ updated: 2026-06-01
 > - 饱和是一个"事后"概念：研究者无法在研究开始前知道何时会达到饱和，这对研究计划撰写（如博士论文开题报告或资助申请）造成了操作上的困难。
 > - "没有新信息出现"的标准本身存在模糊性：研究者可能因为[[Coding in Qualitative Research|编码]]框架的限制而未能"看到"新信息，而非真的没有新信息。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

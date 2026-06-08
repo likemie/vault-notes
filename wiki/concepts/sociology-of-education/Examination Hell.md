@@ -22,8 +22,6 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -121,6 +119,3 @@ Li 以自己的教学观察回应：她所在大学的华裔／东亚裔学生�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

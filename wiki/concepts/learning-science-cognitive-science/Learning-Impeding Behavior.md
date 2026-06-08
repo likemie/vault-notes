@@ -21,8 +21,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -57,6 +55,3 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - 与 [[School Norm Adaptation]] 相比，它强调负向行为外显；与 [[Motivation and Work Effort]] 相比，它强调行为问题而非积极投入。
 
-## 来源
-
-- [[Lekhal_2015_Paideia]]

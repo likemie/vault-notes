@@ -19,8 +19,6 @@ related_persons:
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -69,6 +67,3 @@ updated: 2026-05-25
 > [!success]
 > 现代心理学研究为[[Mencius|孟子]]关于先天道德感的论断提供了支持。研究发现，非常年幼的婴儿就能对其他处于痛苦中的婴儿表现出共情（empathy）反应，这支持了人类具有先天性道德感知能力的观点（Li, 2012, p.61，引自Wilson, 1993）。
 
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

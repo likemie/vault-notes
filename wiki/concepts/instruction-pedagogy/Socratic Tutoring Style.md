@@ -25,8 +25,6 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -107,6 +105,3 @@ updated: 2026-05-24
 > **[[Socrates|苏格拉底]]式辅导 vs [[Confucian Tutoring Style|儒家式辅导]]**：两者都是高效的家庭学习辅导方式，但核心取向截然不同。苏格拉底式辅导围绕**心智**展开——引导儿童发现自我的伟大；儒家式辅导围绕**[[Learning Virtues|学习美德]]**展开——引导儿童认识自我改进的永无止境。前者以"你知道自己有多聪明吗"为基调，后者以"你还可以怎样做得更好"为基调（Li, 2012）。
 
 ---
-## 来源
-
-- [[Li_2012_Cambridge]]

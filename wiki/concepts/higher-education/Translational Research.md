@@ -25,9 +25,6 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Narayan_Spohrer_2025]]"
-  - "[[Ch11_Bang_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -89,7 +86,3 @@ IBM 自身的经验揭示了转化研究的挑战：尽管在 1990–2020 年间
 
 ---
 
-## 来源
-
-- [[Ch5_Narayan_Spohrer_2025]]
-- [[Ch11_Bang_2025]]

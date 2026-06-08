@@ -18,8 +18,6 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -60,6 +58,3 @@ updated: 2026-05-27
 >
 > 这两项在[[University-Industry Collaboration|产学参与]]策略中的采用率仅次于孵化器提供（89%），属于最普遍的产学参与实践之一。
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]

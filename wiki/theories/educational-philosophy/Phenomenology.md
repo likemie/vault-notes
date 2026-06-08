@@ -25,8 +25,6 @@ related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -86,6 +84,3 @@ updated: '2026-05-18'
 > - [[Phenomenon-Based Learning]] — 现象学为 PhBL 提供"现象""生活世界""具身性"和"主体间性"的哲学基础。
 > - [[Bildung]] — 两者共同强调教育不能被还原为外部目标的工具，而应包含人的自我形成和世界关系。
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

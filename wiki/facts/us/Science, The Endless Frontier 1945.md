@@ -27,8 +27,6 @@ related_facts:
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -64,6 +62,3 @@ updated: 2026-05-26
 - [[National Science Foundation]]（NSF）
 - [[Bayh-Dole Act of 1980]] — 在 NSF 等联邦资助基础上，Bayh-Dole Act 进一步规定了大学对联邦资助发明的所有权
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]

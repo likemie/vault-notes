@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -65,6 +63,3 @@ updated: 2026-05-31
 > - 操纵检查本身可能影响受试者对后续测量的反应——受试者在完成操纵检查后可能意识到研究的真实目的（需求特征，demand characteristics），从而改变其在因[[Variable|变量]]上的行为或回答。
 > - 因此操纵检查通常在时间上靠近操纵但尽可能不影响主要结果测量的位置施测。有些研究者将操纵检查放在所有因变量测量之后，以避免干扰，但这又可能引入操纵效应随时间衰减的问题（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

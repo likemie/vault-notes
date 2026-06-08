@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -132,6 +130,3 @@ Creswell & Creswell (2022, Ch7)：
 >
 > 脚本同时也发挥着方法论教育功能：填空过程强迫研究者思考"我的研究路径是什么""我的[[Central Phenomenon|核心现象]]是什么""我的[[Variable|变量]]之间是什么关系"等基本问题。在某种意义上，使用脚本的过程本身就是研究设计的深化过程。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

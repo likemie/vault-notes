@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -65,6 +63,3 @@ updated: 2026-05-31
 > - 波次分析的有效性依赖于"最后回应者≈非回应者"的假设，这一假设在某些调查情境中可能不成立。
 > - 回应率低不一定意味着回应偏差高——关键在于非回应者与回应者是否在关键[[Variable|变量]]上存在系统性差异，而非回应的绝对数量（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

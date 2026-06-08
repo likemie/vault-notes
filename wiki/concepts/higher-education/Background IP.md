@@ -21,8 +21,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -66,6 +64,3 @@ updated: 2026-06-03
 > - vs [[Foreground IP|FIP]]：FIP 是合作的产出，BIP 是合作的输入；FIP 的定义通常争议较小，BIP 是更激烈的谈判焦点
 > - 产业方对大学 BIP 的需求本质上是对[[Freedom to Operate|FTO]]的保障，而非对 BIP 本身的所有权
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]

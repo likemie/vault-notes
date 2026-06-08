@@ -27,8 +27,6 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
 confidence: high
 status: draft
 created: '2026-05-02'
@@ -88,6 +86,3 @@ updated: '2026-05-18'
 > - [[New Public Management]] — ISL 的矛盾在于同时推崇专业共同体和 NPM 控制两个方向
 > - [[Evidence-Based Education]] — ISL 项目紧密关联 [[OECD]] 的基准测试和效率研究
 
-## 来源
-
-- [[Møller_2017_EERJ]]

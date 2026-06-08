@@ -24,8 +24,6 @@ related_persons: []
 related_facts:
   - "[[A Nation at Risk 1983]]"
 related_arguments: []
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-28'
@@ -103,6 +101,3 @@ updated: '2026-05-28'
 
 ---
 
-## 来源
-
-- [[Rappleye_2006_RCIE]]

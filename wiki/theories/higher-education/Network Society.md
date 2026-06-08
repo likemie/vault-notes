@@ -14,15 +14,16 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Space of Flows and Space of Places]]"
+  - "[[Global Policy Space]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments: []
-sources:
-  - "[[Ch6_Rizvi_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -107,6 +108,3 @@ updated: '2026-05-18'
 > - **对高等教育研究的启示**：分析高等教育的全球转型时，不应以国家或机构为天然的分析单位，而应追踪知识、人才、资金和想象的**跨国流动网络**及其节点配置
 >
 
-## 来源
-
-- [[Ch6_Rizvi_2022]]

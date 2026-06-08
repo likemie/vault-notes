@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -77,6 +75,3 @@ updated: 2026-06-01
 > - 总体名单（抽样框）可能不完整或过时——如邮寄名单可能不包括无家可归者或近期搬迁者，导致覆盖误差（coverage error）。
 > - 即使从完整抽样框中[[Random Sampling|随机抽样]]，低回应率也可能使最终样本在关键特征上不再代表总体（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

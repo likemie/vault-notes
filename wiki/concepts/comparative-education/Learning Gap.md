@@ -30,8 +30,6 @@ related_persons:
   - "[[Stevenson and Stigler]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-22'
@@ -118,6 +116,3 @@ Hess 和 Azuma 发现美国教师偏好高效、快节奏的教学风格，而�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

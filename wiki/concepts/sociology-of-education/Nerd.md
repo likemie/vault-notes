@@ -24,8 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -131,6 +129,3 @@ Way 及其同事在纽约的研究发现：华裔移民青少年经历了来自�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -50,8 +50,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -200,6 +198,3 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - 部分教育[[Research Question|研究问题]]不适合[[Random Assignment|随机分配]]或处理操纵。
 > - 伦理约束可能限制处理条件的设置。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

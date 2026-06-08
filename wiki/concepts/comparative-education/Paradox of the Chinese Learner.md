@@ -32,8 +32,6 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-22'
@@ -134,6 +132,3 @@ Li（2012, pp.136-139）在自身研究的基础上，进一步指出了"死记�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

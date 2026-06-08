@@ -18,8 +18,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -55,6 +53,3 @@ updated: 2026-06-01
 - 在特定学科中流行
 - 具有哲学基础
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -25,8 +25,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cowen_2015_CHESS]]"
-sources:
-  - "[[Cowen_2015_CHESS]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -99,6 +97,3 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — 该框架被用于批判纯 [[Randomised Controlled Trials|RCT]] 中心的证据观，论证本地知识和[[Professional Judgment|专业判断]]在教育证据实施中的不可替代性
 > - [[Programme Fidelity vs Adaptation]] — 该框架为"何时忠实执行、何时本地调整"提供了判断依据：取决于支持因素是否在本地具备
 
-## 来源
-
-- [[Cowen_2015_CHESS]]

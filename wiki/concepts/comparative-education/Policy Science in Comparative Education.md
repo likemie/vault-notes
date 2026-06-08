@@ -18,8 +18,6 @@ related_persons:
   - "[[Edmund King]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Cowen_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -73,6 +71,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Cowen_2023_CE]]

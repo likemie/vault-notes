@@ -26,9 +26,6 @@ related_persons: []
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
-  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -97,7 +94,3 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — 揭示了 EBE"证据推广"模型在实践中的核心挑战
 > - [[Tennessee STAR Project 1985-1989]] — 加州试图复制但系统性失败的原始 [[Randomised Controlled Trials|RCT]]
 
-## 来源
-
-- [[Cowen_2015_CHESS]]
-- [[Wiliam_2019_ERE]]

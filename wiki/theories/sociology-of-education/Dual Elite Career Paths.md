@@ -24,8 +24,6 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources:
-  - "[[Yajun Zheng]]"
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -75,6 +73,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Yajun Zheng|郑雅君]]（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店

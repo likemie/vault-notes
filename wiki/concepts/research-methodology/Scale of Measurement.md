@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -74,6 +72,3 @@ updated: 2026-05-31
 - [[Variable]] — 变量通过测量尺度被操作化和量化
 - [[Quantitative Research]] — 量化研究依赖测量尺度将[[Construct|理论构念]]转化为可分析数据
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

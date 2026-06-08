@@ -15,8 +15,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -108,6 +106,3 @@ Creswell & Creswell（2022, 第5章）提供了以下操作建议：
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

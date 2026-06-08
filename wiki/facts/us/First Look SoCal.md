@@ -27,8 +27,6 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -59,6 +57,3 @@ updated: 2026-05-29
 > [!abstract]
 > 这一观察成为本章论证"风投偏好与衍生企业风险特征之间存在系统性不匹配"这一观点的核心实证基础。如果连经过层层筛选的 24 家南加州最佳衍生企业都无法获得早期 VC 或 CVC 融资，那么普通衍生企业的融资困境只会更加严峻（pp.145-146）。
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

@@ -27,8 +27,6 @@ related_persons: []
 related_facts:
   - "[[Three Excellences]]"
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -80,6 +78,3 @@ updated: 2026-05-25
 > - vs [[Nerd]] (School Peer Culture) — 在西方学校中，对学业感兴趣并努力学习的学生被污名化为"书呆子"并遭受同伴骚扰；在东亚学校中，同样特征的学生则受到尊重、被视为榜样
 > - vs [[Zero-Sum Competition]] (School) — 西方学生将竞争视为零和博弈（一人赢意味着他人输）；Peer-Supported Learning 中的互助模式使得合作与竞争并存，所有参与者共同提高
 
-## 来源
-
-- [[Li_2012_Cambridge]]

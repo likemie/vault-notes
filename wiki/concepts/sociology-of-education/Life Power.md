@@ -19,8 +19,6 @@ related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -68,6 +66,3 @@ updated: '2026-05-18'
 > - 概念的定义较为诗意化和哲学化（如"幸福建立在每个人内在的力量之中"），缺乏可操作化的测量或评估标准
 > - 如何在局部社区中区分"真实的"生命力量与被外部力量或霸权认识论同化的表达，论文未提供明确标准
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

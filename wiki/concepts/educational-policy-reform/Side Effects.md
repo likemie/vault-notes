@@ -20,8 +20,6 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Zhao_2017_JEC]]"
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -88,6 +86,3 @@ updated: '2026-05-18'
 > - 借鉴医学研究（FDA 药物审批和上市后监测制度）作为制度模型
 > - Campbell's Law (Campbell, 1976)："任何定量社会指标越被用于社会决策，就越容易受到腐败压力，越可能扭曲和腐化其旨在监测的社会过程"
 
-## 来源
-
-- [[Zhao_2017_JEC]]

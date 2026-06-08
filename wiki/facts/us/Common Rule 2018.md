@@ -27,8 +27,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch14_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -70,6 +68,3 @@ updated: 2026-06-04
 > - [[Informed Consent]]
 > - [[Research Ethics]]
 
-## 来源
-
-- [[Ch14_Hall_2025]]

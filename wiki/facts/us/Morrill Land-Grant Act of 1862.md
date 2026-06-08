@@ -23,9 +23,6 @@ related_persons: []
 related_facts:
   - "[[Smith Lever Act of 1914]]"
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -59,7 +56,3 @@ Morrill Act 带来了三个关键转变（p.11）：
 
 Boccanfuso 和 Hall（2025）认为，Morrill Act 建立的模式"为大学如何与产业互动提供了框架，直到今天"（p.11）。1920 年前，美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及[[Academic Freedom|学术自由]]与客观性的制度价值——已基本确立。这一独特的制度遗产被多位学者（Bok, 2013; Cole, 2009; Rhodes, 2001; Kerr, 2001）视为美国过去一个世纪经济进步的重要原因（p.12）。
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]

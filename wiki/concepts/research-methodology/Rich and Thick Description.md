@@ -21,8 +21,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -43,6 +41,3 @@ updated: 2026-06-01
 > [!success]
 > 在[[Ethnography|民族志]]和案例研究中尤为关键。Stake（1995）强调案例研究中的丰富描述为读者提供了进行[[Naturalistic Generalization|自然主义概括]]的基础——即读者基于自身经验判断研究发现与自身情境的相似性。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

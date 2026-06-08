@@ -16,13 +16,10 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Gerald Grace]]"
-  - "[[John Hattie]]"
   - "[[Basil Bernstein]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Grace_2010_NZJES]]"
-  - "[[Hattie_2017_SLM]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -65,7 +62,3 @@ updated: '2026-05-18'
 > [!success] Hattie (2017) 在回应 Eacott 时再度援引该概念
 > 在回应 Eacott（2017）的 [[Cult of the Guru]] 批评时，Hattie（2017, p.427）再度援引 Said（1993）的公共知识分子概念和新西兰《教育法》的"critic and conscience of society"条款，将学术批评（包括对他的 VL 的批评）定位为这一法定角色的核心实践——"学者躲在学术期刊中互相交谈、回避其专业领域内的公共辩论，不应有任何安慰"。Hattie 声称他将 Snook et al.（2009）的批评用作自身课程的教学文本，以此论证自己欢迎批评并履行该角色（Hattie, 2017, p.428）。这一援引延续了 Hattie（2010）对该概念的用法——将其理解为学术领域内的正常批评活动，而非 Grace 原初概念所要求的将非学校因素纳入分析核心。
 
-## 来源
-
-- [[Grace_2010_NZJES]]
-- [[Hattie_2017_SLM]]

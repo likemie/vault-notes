@@ -25,8 +25,6 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -131,6 +129,3 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -29,8 +29,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -100,6 +98,3 @@ updated: 2026-05-31
 > - 族裔认同——一位中国移民学生在加拿大中学课程中家庭与学校叙事的交织（Chan, 2010; Creswell & Creswell, 2022, p.128）
 > - 身体活动与生活方式的整合——活跃的非洲裔美国女性的行为过程（Harley et al., 2007; Creswell & Creswell, 2022, pp.129–130）
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

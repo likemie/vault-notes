@@ -22,8 +22,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -56,6 +54,3 @@ updated: 2026-05-26
 - [[University-Industry Collaboration]] — 该书是产学合作研究中最具影响力的批判性声音
 - [[Knowledge Production]] — 市场化模式对知识生产独立性的影响
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]

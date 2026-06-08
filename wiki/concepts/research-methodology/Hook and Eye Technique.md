@@ -15,8 +15,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -63,6 +61,3 @@ updated: 2026-05-31
 
 Creswell & Creswell (2022, 第4章) 在教学中首先让学生自行分析段落的钩眼，再展示标注过的版本，以此训练学生对连贯性的敏感度。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

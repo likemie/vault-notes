@@ -25,10 +25,9 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education Endowment Foundation]]"
   - "[[What Works Network]]"
 related_arguments: []
-sources:
-  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -129,6 +128,3 @@ updated: '2026-05-18'
 > - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 [[Education Endowment Foundation|EEF]] 角色从聚合项目效果转向编目"活性成分"机制
 > - [[What Works Network]] — 建议汇集跨中心经费建立机制识别专家小组
 
-## 来源
-
-- [[Peterson_2016_IJRME]]

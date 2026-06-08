@@ -15,11 +15,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Biggs]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Hattie_2015_SOTLP]]"
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -65,6 +62,3 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - vs [[Surface and Deep Learning]] — 建构性对齐是关于课程设计的程序性原则，表层/深层区分是关于学习质量的描述性维度。建构性对齐要求课程设计者明确决定表层和深层学习的适当比例，并确保评估反映这一比例
 
-## 来源
-
-- [[Hattie_2015_SOTLP]]

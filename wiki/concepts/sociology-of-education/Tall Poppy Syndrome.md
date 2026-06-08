@@ -22,8 +22,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -75,6 +73,3 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

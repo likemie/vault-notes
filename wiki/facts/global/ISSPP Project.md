@@ -21,8 +21,6 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
 confidence: high
 status: draft
 created: '2026-05-02'
@@ -86,6 +84,3 @@ updated: '2026-05-18'
 > - [[School Leadership]] — ISSPP 是该领域最全面的跨国实证研究
 > - [[Transformative Leadership]] — Møller 建议未来的领导力研究以此框架补充 ISSPP 类型研究的局限
 
-## 来源
-
-- [[Møller_2017_EERJ]]

@@ -23,12 +23,12 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
   - "[[Experimental Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -81,13 +81,13 @@ updated: '2026-05-18'
 
 Cowen (2019) 将 Tullock 模型应用于[[Evidence-Based Education|证据本位教育]]（EBE），论证 EBE 的吸引力不在于认识论优越性，而在于**官僚便利性**（bureaucratic convenience）：
 
-- [[Randomised Controlled Trials|RCT]] 和系统综述要求事先确定标准（假设、结果指标、检索协议），对主权者**透明**
+- [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]要求事先确定标准（假设、结果指标、检索协议），对主权者**透明**
 - 主权者无需评估专家资质、理解研究细节或判断特定干预 —— 只需要求"什么有效"（what works）
 - EBE 同时应对了两个主权急需：(a) 指导一线专业人员；(b) 评估学术研究者的证据
 
 但这以**牺牲一线关联性**为代价：对主权者"透明"的简化结果漏掉了理论背景，而理论背景是教师成功解读和实施干预所必需的。
 
-> 例：Cowen (2019, p. 8) 以英国 EEF 的 Teaching and Learning Toolkit 为例说明这一张力。Toolkit 以"额外进步月数"（+X months）的单一指标汇总每类干预的效果，使教育部长可以一目了然地看到"哪些方法有效"——这是对主权者透明的完美工具。但一线教师面对"元认知 +7 个月"的汇总数字时，既不知道这一效果在何种条件下产生（科目？年级？实施方式？），也不知道为什么元认知有效（理论背景）。没有这些信息，教师无法判断该方法是否适用于自己的课堂情境——对主权者"透明"的形式恰恰对一线实践者"不透明"。
+> 例：Cowen (2019, p. 8) 以英国 [[Education Endowment Foundation|EEF]] 的 Teaching and Learning Toolkit 为例说明这一张力。Toolkit 以"额外进步月数"（+X months）的单一指标汇总每类干预的效果，使教育部长可以一目了然地看到"哪些方法有效"——这是对主权者透明的完美工具。但一线教师面对"元认知 +7 个月"的汇总数字时，既不知道这一效果在何种条件下产生（科目？年级？实施方式？），也不知道为什么元认知有效（理论背景）。没有这些信息，教师无法判断该方法是否适用于自己的课堂情境——对主权者"透明"的形式恰恰对一线实践者"不透明"。
 
 > "EBE offers a way of filtering a complex range of research to produce a determinate result that is transparent to policymakers. However, this impression of research transparency is misleading as it omits theoretical background critical for successfully interpreting the results." (Cowen, 2019, p. 2)
 
@@ -128,7 +128,7 @@ Cowen (2019) 将 Tullock 模型应用于[[Evidence-Based Education|证据本位�
 >
 > **各方立场**：
 > - **批评立场**：Dunleavy (1991) 的官僚 career-driven 模型提供了反例——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性地向上级呈现有利数据）。单纯的知识问题模型无法解释这种策略性信息操纵。
-> - **Cowen (2019) 的认可**：Cowen 并未声称 Tullock 模型是完整的——他将其定位为对 Niskanen 自利模型的补充而非替代。知识问题和激励问题在经验上交织，但分析上区分有助于理解 [[Evidence-Based Education|EBE]] 的吸引力：即使决策者真诚追求教育改善，他们仍会选择 [[Randomised Controlled Trials|RCT]]/系统综述作为透明的过滤机制。（基于 Cowen, 2019, pp. 5–8）
+> - **Cowen (2019) 的认可**：Cowen 并未声称 Tullock 模型是完整的——他将其定位为对 Niskanen 自利模型的补充而非替代。知识问题和激励问题在经验上交织，但分析上区分有助于理解 [[Evidence-Based Education|EBE]] 的吸引力：即使决策者真诚追求教育改善，他们仍会选择 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为透明的过滤机制。（基于 Cowen, 2019, pp. 5–8）
 >
 > **目前状态**：此张力在公共选择文献中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
 
@@ -149,6 +149,3 @@ Cowen (2019) 将 Tullock 模型应用于[[Evidence-Based Education|证据本位�
 > - 教育问责制设计
 > - 公共部门改革的政治经济学分析
 
-## 来源
-
-- [[Cowen_2019_ERE]]

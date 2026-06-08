@@ -23,9 +23,6 @@ related_persons:
 related_facts:
   - "[[Finnish National Core Curriculum]]"
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
-  - "[[Ch14_Jornitz_2022]]"
 confidence: low
 status: draft
 created: '2026-05-06'
@@ -73,7 +70,3 @@ updated: '2026-05-18'
 > [!example] 相关案例／政策
 > - [[Finnish National Core Curriculum]] — 芬兰课程改革把 [[Phenomenon-Based Learning|PhBL]] 纳入课程框架；这一做法可从 Didaktik 与 [[Bildung]] 传统中找到思想条件（Schaffar & Wolff, 2024, p.7）。
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]
-- [[Ch14_Jornitz_2022]]

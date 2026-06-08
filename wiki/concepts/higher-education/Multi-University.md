@@ -22,9 +22,6 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -79,7 +76,3 @@ updated: 2026-05-26
 
 ---
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]

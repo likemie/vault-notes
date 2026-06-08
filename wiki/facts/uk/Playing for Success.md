@@ -29,8 +29,6 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources:
-  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -96,6 +94,3 @@ updated: '2026-05-18'
 > - [[EEF Teaching and Learning Toolkit]] — Playing for Success 被卷入的[[Meta-meta-analysis|元-元分析]]工具
 > - [[Effect Size]] — Playing for Success 展示了效应量从原始研究到元-[[Meta-analysis|元分析]]的三级聚合失真过程
 
-## 来源
-
-- [[Wrigley_2019_ERE]]

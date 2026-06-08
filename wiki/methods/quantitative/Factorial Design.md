@@ -27,8 +27,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -78,6 +76,3 @@ updated: 2026-05-31
 > [!example]
 > - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 混合因子设计为例，价值肯定条件（受试者间：肯定 vs 控制）和时间（受试者内：基线、20、30、45 分钟后测）各为因子，检验两者对压力荷尔蒙皮质醇响应的影响。（Ch8, Example 8.5）
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

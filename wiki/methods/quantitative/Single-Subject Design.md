@@ -27,8 +27,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -75,6 +73,3 @@ updated: 2026-05-31
 > - [[Experimental Research]] — 单受试者设计是实验研究的一种特殊形式，区别在于不使用大样本组间比较。
 > - [[Quasi-Experimental Designs]] — 准实验设计通常使用非[[Random Assignment|随机分组]]的大样本比较，单受试者设计聚焦于个体的时间序列变化。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

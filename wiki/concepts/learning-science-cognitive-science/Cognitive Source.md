@@ -26,8 +26,6 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -107,6 +105,3 @@ EA 母亲几乎完全从**心智**的角度来概念化儿童的学习。她们�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

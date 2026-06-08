@@ -19,8 +19,6 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments: []
-sources:
-  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -61,6 +59,3 @@ updated: '2026-05-18'
 > - **vs [[Improvement Science]]** — 探究螺旋是改进科学原则的具体操作模型；改进科学是更广泛的方法论框架
 > - **vs [[Evidence-Informed Practice]]** — EIP 关注教师在决策中如何整合证据；探究螺旋提供具体的循环过程结构
 
-## 来源
-
-- [[Peterson_2016_IJRME]]

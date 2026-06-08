@@ -25,9 +25,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -76,7 +73,3 @@ updated: 2026-05-27
 >
 > Boccanfuso 和 Hall（2025, p.68）的企业调查中，一位企业受访者描述了边界跨越者的理想特征："University Partnership Managers who can make the process of understanding the universities research capabilities easier. University Partnership Managers specialized in my industry, to know what they need to know about working with us."——即**懂行业**（而非仅仅懂学科）的大学伙伴关系经理。
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch6_Hoffman_Radasch_Thorsell_2025]]

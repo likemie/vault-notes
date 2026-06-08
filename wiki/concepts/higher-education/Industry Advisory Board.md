@@ -16,8 +16,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -61,6 +59,3 @@ updated: 2026-05-28
 
 ---
 
-## 来源
-
-- [[Ch6_Hoffman_Radasch_Thorsell_2025]]

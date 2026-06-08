@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -80,6 +78,3 @@ updated: 2026-05-30
 > - 研究者需避免将预设的理论框架强加于数据，保持对数据的敏感性。
 > - 理论抽样要求研究者根据分析进展调整数据收集策略，灵活性较高但也增加了设计的不确定性。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

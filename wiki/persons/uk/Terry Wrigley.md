@@ -33,7 +33,6 @@ related_persons:
   - "[[Bob Lingard]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Biesta_2010_SPE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"

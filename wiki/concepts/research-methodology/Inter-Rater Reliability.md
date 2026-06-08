@@ -28,8 +28,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -74,6 +72,3 @@ updated: 2026-06-01
 > - 评分者间信度的评估指标选择取决于数据类型（类别 vs 连续）——使用不适合数据类型的指标可能导致误导性结论。
 > - 评分者间信度的计算需要足够数量的评分者和/或评定对象才能产生稳定的估计值（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

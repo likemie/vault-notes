@@ -23,8 +23,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Lekhal_2015_Paideia]]"
-sources:
-  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -79,6 +77,3 @@ updated: '2026-05-18'
 > [!example] 相关案例／政策
 > - [[Argument_Lekhal_2015_Paideia]]
 
-## 来源
-
-- [[Lekhal_2015_Paideia]]

@@ -24,8 +24,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch11_Bang_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -72,6 +70,3 @@ updated: 2026-06-03
 
 ---
 
-## 来源
-
-- [[Ch11_Bang_2025]]

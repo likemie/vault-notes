@@ -22,8 +22,6 @@ related_persons: []
 related_facts:
   - "[[LANTITE]]"
 related_arguments: []
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -72,6 +70,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

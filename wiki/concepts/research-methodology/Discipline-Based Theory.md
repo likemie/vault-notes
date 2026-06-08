@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -73,6 +71,3 @@ updated: 2026-05-31
 > [!tip]
 > [[Mixed Methods Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取[[Construct|构念]]（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始[[Coding in Qualitative Research|编码]]和主题"以及量化数据分析的假设关系；理论贡献了有用的发现类型学（Creswell & Creswell, 2022, pp.71–72）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

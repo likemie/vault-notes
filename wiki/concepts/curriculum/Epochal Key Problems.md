@@ -24,8 +24,6 @@ related_facts:
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -76,6 +74,3 @@ updated: '2026-05-18'
 > - [[Finnish National Core Curriculum]] — 将 [[Phenomenon-Based Learning|PhBL]] 纳入课程框架，可被理解为用复杂现象回应时代关键问题的一种制度化尝试。
 > - [[SveaSus Project]] — 以可持续性和世界遗产地为学习[[Champ|场域]]，展示时代关键问题如何进入具体学习环境。
 
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

@@ -22,8 +22,6 @@ related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -64,6 +62,3 @@ updated: '2026-05-18'
 > - [[Luhmann's Systems Theory]] — 盲点概念是 Luhmann 系统理论的核心构成要素
 > - [[Structural Coupling]] — Luhmann 的结构耦合概念，描述封闭、自我指涉系统之间的非因果链接，与盲点概念共同构成 Larsen 的批判工具
 
-## 来源
-
-- [[Larsen_2019_EducSci]]

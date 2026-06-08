@@ -25,8 +25,6 @@ related_facts:
   - "[[NSF I-Corps]]"
   - "[[National Science Foundation]]"
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -62,6 +60,3 @@ updated: 2026-05-29
 > [!example]
 > [[NSF I-Corps]] 项目是政府主导的概念验证与创业培训的典型代表。该项目自 2011 年启动以来已孵化了超过 1,000 家初创企业，累计获得超过 $760 million 的后续融资（[[National Science Foundation|NSF]], 2024，转引自 p.149）。其核心是[[Didaktik|教授学]]者创业思维，而非仅仅提供推进科学的资金。NSF 主任 Sethuraman Panchanathan 表示："成功不总是以是否创建了创业企业来衡量，也以如何将创业思维应用于你生活中所做的所有事情来衡量"（p.149）。
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

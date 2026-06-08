@@ -23,8 +23,6 @@ related_persons:
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -70,6 +68,3 @@ updated: 2026-05-25
 > - 明代[[Wang Yangming|王阳明]]对程朱的格物路径提出修正，强调"致良知"（扩展内在道德知觉），而非必须先探究外物（Li, 2012, pp.44-45）。
 > - "八条目"的框架至今仍深刻影响东亚教育文化，尤其是"[[Self-Cultivation|修身]]"优先于"探究世界"的价值排序，可见于众多东亚大学的[[University Motto|校训]]之中（Li, 2012, pp.53-55）。
 
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

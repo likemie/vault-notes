@@ -27,8 +27,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch13_Thompson_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -80,6 +78,3 @@ updated: 2026-05-20
 > - **期望的隐蔽规范性**：数字最优表面上由"数据驱动"，实则隐含特定的规范性预设——什么样的学生是"好学生"？这些预设被算法黑箱化，失去了公共讨论和审议的空间（Thompson et al., 2022, p.226）
 > - **完美起点的幻象**：预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和成长可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来（Thompson et al., 2022, p.227）
 
-## 来源
-
-- [[Ch13_Thompson_2022]]

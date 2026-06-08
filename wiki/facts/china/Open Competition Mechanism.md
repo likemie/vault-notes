@@ -17,8 +17,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Cheng_2026_KeJiChuangXin]]"
 confidence: high
 status: draft
 created: 2026-06-03
@@ -55,6 +53,3 @@ updated: 2026-06-03
 
 ---
 
-## 来源
-
-- [[Cheng_2026_KeJiChuangXin]]

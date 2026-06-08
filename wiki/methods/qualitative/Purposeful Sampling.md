@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -93,6 +91,3 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

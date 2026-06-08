@@ -17,8 +17,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Bertrand Russell]]"
+related_persons: []
 related_facts:
   - "[[My School Website]]"
   - "[[Karmel Report]]"
@@ -26,9 +25,6 @@ related_facts:
   - "[[Independent Public Schools Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
-sources:
-  - "[[Keddie_2020_JEAH]]"
-  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -151,7 +147,3 @@ updated: '2026-05-18'
 > - [[Local Schools Local Decisions]] — NSW州权力下放政策
 > - [[School Leadership]] — 学校领导力是自主权效果的最重要中介
 
-## 来源
-
-- [[Keddie_2020_JEAH]]
-- [[Keddie_2020_IJLE]]

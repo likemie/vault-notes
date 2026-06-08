@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -50,6 +48,3 @@ updated: 2026-06-01
 > [!success]
 > 适用于所有[[Qualitative Research|质性研究]]设计，特别是在研究者对数据的解释可能存在个人偏见或"盲点"的情况下。在学位论文研究中，同行审议可以通过同学或同一研究小组的成员来实施。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

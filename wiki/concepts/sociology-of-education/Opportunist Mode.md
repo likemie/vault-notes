@@ -23,8 +23,6 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: '2026-05-09'
@@ -102,6 +100,3 @@ updated: '2026-05-18'
 > - [[Culture as Toolkit]] — 机会主义者是纯粹工具箱范式的典型：他们灵活熟练地使用文化工具达成预先确立的目的，但工具本身不具备深层驱动力——他们的目的主要是工具性利益而非价值信念（[[Yajun Zheng|郑雅君]]，2023）
 >
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

@@ -28,8 +28,6 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -90,6 +88,3 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

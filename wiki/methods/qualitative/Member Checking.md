@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -62,6 +60,3 @@ updated: 2026-06-01
 > - 参与者对自身经验的解释未必是"正确"的或唯一的——研究者的分析可能揭示参与者自身未意识到的模式。
 > - 在实际操作中，重新联系参与者、组织核查会议需要额外的时间和资源。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

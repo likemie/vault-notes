@@ -19,8 +19,6 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -56,6 +54,3 @@ updated: '2026-05-18'
 > - **vs [[Bildung]]** — Larsen 将该辩证法定位为复兴 Bildung 概念的一种尝试——"从侧翼"更新被广泛滥用、极其不清晰且语义上几乎被耗尽的"学习"概念（Larsen, 2019, p.10）
 > - **vs 认知学习理论** — 传统认知理论将学习定位于心智内部；具身化-扩展辩证法将学习重新定位于身体存在和生命经验的整体中
 
-## 来源
-
-- [[Larsen_2019_EducSci]]

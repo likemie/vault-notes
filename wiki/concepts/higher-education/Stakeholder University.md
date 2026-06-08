@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch13_Thompson_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -84,6 +82,3 @@ updated: 2026-05-20
 > - **自动化代理的治理角色**：[[Learning Analytics|学习分析]]系统和 [[Online Self-Assessment|OSA]] 算法作为"利益相关者"参与大学治理，引发对非人行动者决策权的担忧——算法在何种意义上可以成为"利益相关者"？其利益由谁定义？（Thompson et al., 2022, pp.224–226）
 > - **概念适用性**：Wæraas 和 Solbakk 的研究主要基于挪威大学案例，概念在非西方语境中的适用性有待验证
 
-## 来源
-
-- [[Ch13_Thompson_2022]]

@@ -26,8 +26,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -72,6 +70,3 @@ updated: 2026-06-01
 > - 即使抽样设计是随机的，低回应率仍可能导致最终样本不等同于随机样本——因为拒绝参与的人可能与同意参与的人存在系统性差异（[[Response Bias|回应偏差]]）。
 > - 在教育研究中，研究者通常只能接触到特定学校或班级的学生，便利抽样是最常见的选择——这意味着需要诚实地讨论样本对总体的代表性局限（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

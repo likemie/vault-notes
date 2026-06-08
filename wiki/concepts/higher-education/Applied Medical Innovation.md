@@ -25,8 +25,6 @@ related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments: []
-sources:
-  - "[[Ch10_Swick_Jones_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -87,6 +85,3 @@ AMI 的文化条件是组织层面同时容纳学术、临床和产业三种逻�
 > - 麻醉（anesthesia）和抗菌术（antisepsis）的引入改变了一切——这些新概念必须先经过手术室中的探索、测试和应用，才使更复杂、侵入性和精确的手术操作成为可能
 > - 心血管外科的快速发展：从 1948 年首例二尖瓣狭窄开胸瓣膜成形术，到 1980–90 年代导管主动脉瓣植入术，再到机器人手术——每一次跃进都是 AMI 的典型循环
 
-## 来源
-
-- [[Ch10_Swick_Jones_2025]]

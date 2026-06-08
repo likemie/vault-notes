@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -47,6 +45,3 @@ Miles & Huberman（1994）建议，编码一致性至少应达到 80% 才算良�
 
 为了在只有一个研究者的研究中也能实施这一程序，Creswell & Creswell（2022, Ch9）建议单独研究者寻找另一个人来交叉检验他们的编码。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

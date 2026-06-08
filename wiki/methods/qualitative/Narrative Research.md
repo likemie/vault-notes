@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -67,6 +65,3 @@ updated: 2026-05-30
 > - vs [[Case Study]] — 案例研究可以包含叙事作为数据来源之一，但案例研究的[[Analytic Framework|分析框架]]更注重情境和时间边界，而叙事研究以故事本身的时序和意义结构为核心。
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于多个个体对同一现象的共同本质体验，叙事研究则聚焦于个体生活故事的独特性和时间进程。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

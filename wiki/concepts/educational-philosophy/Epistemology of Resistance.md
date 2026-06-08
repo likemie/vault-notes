@@ -22,15 +22,11 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons:
-  - "[[Frantz Fanon]]"
-  - "[[Paulo Freire]]"
   - "[[Richard Castelo Branco]]"
   - "[[Dell Delambre]]"
   - "[[Camilla de Hollanda Amado]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -98,6 +94,3 @@ updated: '2026-05-18'
 > - **"Bora Bora em Bando" 项目** — [[Dell Delambre]] 与 [[Camilla de Hollanda Amado]]（巴西著名女演员，1941–2021）共同创立，旨在为 Rocinha 剧场团体争取社会可见度和文化认可（Delambre, 2022, p.110）
 > - **巴西[[Social Museology|社会博物馆学]]** — 与剧场实践并行构成抵抗认识论的另一个实践[[Champ|场域]]：居民通过自主策展和讲述地方历史，在博物馆制度内部抵抗专家权威对"什么值得展示"的垄断（Delambre, 2022, p.110）
 
-## 来源
-
-- [[Ch7_Delambre_2022]]

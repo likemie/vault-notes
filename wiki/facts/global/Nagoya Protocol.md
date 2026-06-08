@@ -23,8 +23,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -56,6 +54,3 @@ updated: 2026-06-02
 > [!note]
 > 对于开展国际[[University-Industry Collaboration|产学合作]]的大学和企业而言，在涉及遗传资源的研究项目启动前，了解名古屋议定书及相关国际法律政策至关重要。建议咨询具有国际研究政策经验的法律专家（p.315）。
 
-## 来源
-
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

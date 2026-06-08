@@ -27,8 +27,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -147,6 +145,3 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 > - 该理论主要基于西方资本主义的历史经验（特别是十九世纪英国和二十世纪美国的工业化与去工业化历程），在非西方政治经济语境中的适用性有待检验
 >
 
-## 来源
-
-- [[Ch2_Moisio_2022]]

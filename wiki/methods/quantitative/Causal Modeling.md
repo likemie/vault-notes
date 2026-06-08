@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Big Ideas]]"
   - "[[Effect Size]]"
   - "[[Recommendations for Practice]]"
 related_theories:

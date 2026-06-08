@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -78,6 +76,3 @@ updated: 2026-05-31
 - [[Theoretical Standpoint]] — [[Qualitative Research|质性研究]]中的类似视角
 - [[Transformative Paradigm]] — 社会正义理论的哲学世界观基础
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

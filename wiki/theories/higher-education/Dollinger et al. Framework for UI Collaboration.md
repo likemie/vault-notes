@@ -22,8 +22,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -62,6 +60,3 @@ updated: 2026-06-02
 > - vs [[Triple Helix]]：Triple Helix 关注大学-产业-政府三个制度领域之间的宏观互动关系；Dollinger 框架侧重具体合作项目的操作层面因素
 > - vs Rossoni et al.（2023）：Rossoni 等从三重螺旋、关系社会资本和[[Technology Transfer|技术转移]]三个[[Theoretical Perspective|理论视角]]评估合作障碍（p.316）；Dollinger 框架提供了更具操作性的评估维度
 
-## 来源
-
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

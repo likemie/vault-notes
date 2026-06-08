@@ -25,8 +25,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -101,6 +99,3 @@ Inagaki、Hatano 和 Morita 对日本课堂的研究发现，尽管口头表达�
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

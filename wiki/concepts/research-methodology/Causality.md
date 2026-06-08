@@ -24,8 +24,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -71,6 +69,3 @@ updated: 2026-05-31
 - [[Quantitative Research]] — 量化研究以检验[[Variable|变量]]间因果关系为核心目标之一
 - [[Experimental Research]] — 真实验是检验因果主张的最强设计
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

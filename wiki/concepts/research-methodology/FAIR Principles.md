@@ -18,8 +18,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch16_Brock_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -60,6 +58,3 @@ updated: 2026-06-04
 
 ---
 
-## 来源
-
-- [[Ch16_Brock_2025]]

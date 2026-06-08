@@ -24,8 +24,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -77,6 +75,3 @@ updated: 2026-05-31
 > [!example] 质性研究中的术语一致
 > 如果一项质性研究的[[Central Phenomenon|核心现象]]被命名为"teacher resilience"，那么整个研究计划中都应使用这一术语，而非在引言中用"teacher resilience"、在方法部分换成"teacher perseverance"、在讨论中又改用"teacher grit"。每次术语变动都要求读者自行判断这些词是否指代同一现象，这直接损害文本的可信度。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

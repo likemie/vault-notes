@@ -21,8 +21,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -69,6 +67,3 @@ updated: 2026-06-02
 > - vs [[Use-Inspired Basic Research]]：Use-Inspired Basic Research 是巴斯德象限的具体内容；Stokes 象限模型是容纳这一概念以及玻尔象限和爱迪生象限的完整理论框架
 > - vs 传统线性模型：传统模型认为从基础研究到应用是一条线性路径（基础→应用→开发）；Stokes 模型指出二者是独立维度，可以共存
 
-## 来源
-
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

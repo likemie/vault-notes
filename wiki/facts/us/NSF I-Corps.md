@@ -22,8 +22,6 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -48,6 +46,3 @@ updated: 2026-05-29
 > - 自 2011 年启动以来已孵化了超过 1,000 家初创企业（[[National Science Foundation|NSF]], 2024，转引自 p.149）
 > - 这些初创企业累计获得超过 $760 million 的后续融资（p.149）
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

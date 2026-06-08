@@ -27,8 +27,6 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -86,6 +84,3 @@ updated: 2026-05-29
 > - **[[Entrepreneur in Residence|驻校企业家]]（EIR）**：全职支持多个衍生企业的驻校高管，或具有多元经验的兼职 EIR 团队，这种人才投资似乎是帮助衍生企业"跨越从实验室到市场的鸿沟"的有效策略（pp.147-148）
 > - **产业参与渠道**：大学通过赞助研究合作、人才招聘项目和慈善支持等其他产学互动渠道接触产业成员，并利用人才库作为杠杆来协商产业参与创业项目（p.148）
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

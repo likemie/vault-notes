@@ -30,8 +30,6 @@ related_facts:
   - "[[SBIR and STTR Programs]]"
   - "[[NSF I-Corps]]"
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -69,6 +67,3 @@ updated: 2026-05-29
 > [!warning]
 > 非稀释性资助的局限同样明显：金额通常较小（大学内部拨款通常在 $10K-$100K 范围），不足以支持大规模产品开发或市场推广；政府资助的申请周期长、竞争激烈；且非稀释性资助不能替代最终需要的股权融资——它只是延长了衍生企业在寻找 VC 之前的"跑道"（runway），而非消除了对 VC 的需要（pp.148-149）。
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

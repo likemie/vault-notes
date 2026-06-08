@@ -27,8 +27,6 @@ related_persons: []
 related_facts:
   - "[[NSF I-Corps]]"
 related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -53,6 +51,3 @@ updated: 2026-05-29
 > [!note]
 > 大学衍生企业常常在获得私人风险投资之前先获得 SBIR/STTR 资助，作为非稀释性资金（non-dilutive funding）的关键来源。许多通过 [[NSF I-Corps]] 培训的团队也同时申请 SBIR/STTR 资助来推进技术开发（pp.144, 149）。
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

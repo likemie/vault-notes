@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -73,6 +71,3 @@ updated: 2026-06-01
 > - [[Solomon Four-Group Design]] — 运用该符号系统图示的最复杂的真实验设计之一。
 > - [[Campbellian Validity Framework]] — 以 Campbell 命名的效度框架，是符号系统的理论延伸。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

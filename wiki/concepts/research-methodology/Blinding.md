@@ -20,8 +20,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -62,6 +60,3 @@ updated: 2026-05-31
 > - 在某些实验操纵中，完全盲法在操作上难以实现——例如比较计算机辅助教学与传统面授时，受试者和教师不可能不知道自己使用的是计算机还是面对面授课。
 > - 当盲法不可行时，研究者应在方法部分诚实说明，并在讨论部分将其作为研究局限之一。替代策略包括使用客观的结果测量（如标准化测试而非教师主观评分）来降低偏差风险（Creswell & Creswell, 2022, Ch8）。
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -28,8 +28,6 @@ related_persons:
 related_facts:
   - "[[China College Graduate Employment Reform]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -105,6 +103,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

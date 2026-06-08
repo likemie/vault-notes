@@ -23,8 +23,6 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -86,6 +84,3 @@ updated: 2026-05-22
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]
