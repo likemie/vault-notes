@@ -3,18 +3,19 @@ title: Sputnik Shock 1957
 aliases:
   - Sputnik Shock
   - 斯普特尼克冲击
-summary: "1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接"
+  - Sputnik
+summary: 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
 type: fact
 subtype: event
 region: us
 tags:
-- sputnik-shock
-- cold-war
-- stem-education
-- oecd
-- region/us
-- level/k12
-- level/higher-ed
+  - sputnik-shock
+  - cold-war
+  - stem-education
+  - oecd
+  - region/us
+  - level/k12
+  - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Analytic Framework]]"
@@ -32,8 +33,8 @@ sources:
   - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 ## 概述
 
