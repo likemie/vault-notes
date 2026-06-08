@@ -34,6 +34,7 @@ MD_LINK_RE = re.compile(r"!?\[[^\]]*\]\([^)]*\)")
 URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
+YAML_AUTHOR_LINK_KEYS = {"authors", "editors"}
 
 CALLOUT_MARKER_RE = re.compile(r"^(?:>\s*)+\[![^\]\s]+(?:\]\])?\]")
 TABLE_SEPARATOR_RE = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(?:\|\s*:?-{3,}:?\s*)+\|?\s*$")
@@ -717,6 +718,182 @@ def link_text(display: str, target: str, table_safe: bool = False) -> str:
     return f"[[{target}|{display}]]"
 
 
+def normalize_author_scalar(value: str) -> str:
+    value = value.strip().strip("'\"").strip()
+    value = re.sub(r"\s+", " ", value)
+    # APA initials are sometimes written with a final period (S. J.) and
+    # sometimes without (S. J). Treat those as the same for exact author-field
+    # matching, but preserve the original display text when writing the link.
+    value = value.rstrip(".").strip()
+    return value.casefold()
+
+
+def make_yaml_author_term_map(entries: list[Entry]) -> dict[str, str]:
+    """Return normalized author/editor names to Person targets.
+
+    This is intentionally Person-only. It lets frontmatter fields such as
+    `authors:` and `editors:` link APA aliases like `Ball, S. J` to the
+    Person page `Stephen Ball`, without allowing ordinary concept aliases or
+    citation strings to be linked inside YAML.
+    """
+    mapping: dict[str, str] = {}
+    for entry in entries:
+        if entry.type != "person":
+            continue
+        for raw in (entry.title, *entry.aliases):
+            key = normalize_author_scalar(raw)
+            if key:
+                mapping.setdefault(key, entry.title)
+    return mapping
+
+
+def split_inline_yaml_list(value: str) -> list[str] | None:
+    stripped = value.strip()
+    if not (stripped.startswith("[") and stripped.endswith("]")):
+        return None
+    inner = stripped[1:-1].strip()
+    if not inner:
+        return []
+    # YAML flow lists that contain APA names should quote values because the
+    # comma is part of the scalar. This lightweight splitter supports quoted
+    # values and simple unquoted values; ambiguous malformed lists are left as-is.
+    items: list[str] = []
+    current: list[str] = []
+    quote = ""
+    escape = False
+    for ch in inner:
+        if escape:
+            current.append(ch)
+            escape = False
+            continue
+        if ch == "\\" and quote:
+            current.append(ch)
+            escape = True
+            continue
+        if ch in {"'", '"'}:
+            if not quote:
+                quote = ch
+            elif quote == ch:
+                quote = ""
+            current.append(ch)
+            continue
+        if ch == "," and not quote:
+            items.append("".join(current).strip())
+            current = []
+            continue
+        current.append(ch)
+    if quote:
+        return None
+    tail = "".join(current).strip()
+    if tail:
+        items.append(tail)
+    return items
+
+
+def yaml_quote(value: str) -> str:
+    return '"' + value.replace('"', '\\"') + '"'
+
+
+def strip_yaml_scalar(value: str) -> str:
+    return value.strip().strip("'\"").strip()
+
+
+def link_yaml_author_value(value: str, author_map: dict[str, str]) -> tuple[str, bool]:
+    raw = value.strip()
+    if not raw or raw in {"[]", "null", "~"}:
+        return value, False
+    if "[[" in raw and "]]" in raw:
+        return value, False
+    # Keep inline comments or complex YAML untouched; this field should be a
+    # clean scalar in generated templates.
+    if " #" in raw or raw.startswith("{"):
+        return value, False
+    display = strip_yaml_scalar(raw)
+    target = author_map.get(normalize_author_scalar(display))
+    if not target:
+        return value, False
+    linked = link_text(display, target)
+    return yaml_quote(linked), True
+
+
+def link_yaml_author_fields(fm: str, author_map: dict[str, str]) -> tuple[str, int]:
+    """Link Person names in YAML `authors` / `editors` fields only.
+
+    The ordinary body linker deliberately skips frontmatter. This function adds
+    a narrow frontmatter pass so Argument author metadata can be normalized from
+    APA aliases to Person wikilinks, for example:
+
+      - "Ball, S. J"  ->  - "[[Stephen Ball|Ball, S. J]]"
+
+    It does not touch citation fields, title, aliases, or arbitrary YAML values.
+    """
+    if not fm or not author_map:
+        return fm, 0
+
+    lines = fm.splitlines(keepends=True)
+    out: list[str] = []
+    additions = 0
+    in_key: str | None = None
+    list_indent = ""
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        line_no_nl = line.rstrip("\r\n")
+        newline = line[len(line_no_nl):]
+
+        key_match = re.match(r"^(\s*)([A-Za-z_][A-Za-z0-9_-]*):(.*)$", line_no_nl)
+        if key_match and key_match.group(2) in YAML_AUTHOR_LINK_KEYS:
+            indent, key, rest = key_match.groups()
+            value = rest.strip()
+            in_key = key
+            list_indent = indent
+            if not value:
+                out.append(line)
+                i += 1
+                continue
+
+            inline_items = split_inline_yaml_list(value)
+            if inline_items is not None:
+                if not inline_items:
+                    out.append(line)
+                else:
+                    out.append(f"{indent}{key}:" + newline)
+                    for item in inline_items:
+                        linked, changed = link_yaml_author_value(item, author_map)
+                        out.append(f"{indent}  - {linked}" + newline)
+                        additions += int(changed)
+                in_key = None
+                i += 1
+                continue
+
+            linked, changed = link_yaml_author_value(value, author_map)
+            out.append(f"{indent}{key}: {linked}" + newline)
+            additions += int(changed)
+            in_key = None
+            i += 1
+            continue
+
+        if in_key and line_no_nl.startswith(list_indent + " "):
+            item_match = re.match(r"^(\s*-\s+)(.*)$", line_no_nl)
+            if item_match:
+                prefix, value = item_match.groups()
+                linked, changed = link_yaml_author_value(value, author_map)
+                out.append(prefix + linked + newline)
+                additions += int(changed)
+                i += 1
+                continue
+            out.append(line)
+            i += 1
+            continue
+
+        in_key = None
+        out.append(line)
+        i += 1
+
+    return "".join(out), additions
+
+
 def link_plain_text(
     chunk: str,
     terms: list[Term],
@@ -933,24 +1110,27 @@ def sync_file(
     source_pattern: re.Pattern[str] | None,
     entries_by_title: dict[str, Entry],
     path_to_title: dict[str, str],
+    author_map: dict[str, str],
     dry_run: bool,
     tables_only: bool = False,
 ) -> tuple[bool, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
     fm, body = split_frontmatter(original)
     current_title = current_file_title(path, path_to_title)
+    linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
 
     if tables_only:
         linked_body = escape_table_wikilink_pipes_in_text(body)
-        added = 0
+        added = yaml_added
         removed = 0
     else:
         cleaned_body, removed = clean_invalid_links(body, entries_by_title)
-        linked_body, added = link_body(cleaned_body, terms, source_pattern, current_title)
+        linked_body, body_added = link_body(cleaned_body, terms, source_pattern, current_title)
+        added = yaml_added + body_added
         # Final guard: regardless of which chunks were protected or linked,
         # never write table rows with raw wikilink alias pipes.
         linked_body = escape_table_wikilink_pipes_in_text(linked_body)
-    updated = fm + linked_body
+    updated = linked_fm + linked_body
 
     changed = updated != original
     if changed and not dry_run:
@@ -973,6 +1153,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     entries = load_entries()
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
+    author_map = make_yaml_author_term_map(entries)
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
     source_pattern = make_source_pattern({source.title for source in source_entries})
@@ -980,7 +1161,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
     stats = LinkStats()
     for path in files:
-        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, dry_run, tables_only=tables_only)
+        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, author_map, dry_run, tables_only=tables_only)
         if changed:
             stats.files_changed += 1
             stats.links_added += added
@@ -997,7 +1178,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Synchronize ordinary Obsidian wikilinks from wiki/index.json. Argument citation links are preserved."
+        description="Synchronize ordinary Obsidian wikilinks from wiki/index.json. Argument citation links are preserved; authors/editors YAML fields are linked to Person pages."
     )
     sub = parser.add_subparsers(dest="command")
 
