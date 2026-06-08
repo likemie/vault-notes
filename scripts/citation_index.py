@@ -43,6 +43,7 @@ class ArgumentCitation:
     authors: list[str]
     year: str
     doi: str
+    isbn: str
     citation: str
     base_aliases: list[str]
     aliases: list[str]
@@ -66,6 +67,7 @@ class ArgumentCitation:
             "aliases": self.aliases,
             "year": self.year,
             "doi": self.doi,
+            "isbn": self.isbn,
             "authors": self.authors,
             "citation": self.citation,
             "title": self.title,
@@ -171,11 +173,56 @@ def author_part(authors: list[str]) -> str:
     return f"{labels[0]} et al."
 
 
-def aliases_for(authors: list[str], year: str) -> list[str]:
-    part = author_part(authors)
+def has_cjk(text: str) -> bool:
+    return bool(re.search(r"[\u3400-\u9fff]", text))
+
+
+def dedupe(items: list[str]) -> list[str]:
+    seen: set[str] = set()
+    result: list[str] = []
+    for item in items:
+        if item and item not in seen:
+            result.append(item)
+            seen.add(item)
+    return result
+
+
+def chinese_author_part(citation: str, year: str) -> str:
+    if not has_cjk(citation) or not year:
+        return ""
+    m = re.match(rf"^\s*(?P<authors>.+?)\s*(?:[.。]\s*)?[（(]\s*{re.escape(year)}\s*[）)]", citation)
+    if not m:
+        return ""
+    raw = m.group("authors").strip(" ,，.。")
+    if not has_cjk(raw):
+        return ""
+    parts = [p.strip() for p in re.split(r"[、，,；;]\s*", raw) if p.strip()]
+    cjk_parts = [p for p in parts if has_cjk(p)]
+    if not cjk_parts:
+        return ""
+    if len(cjk_parts) == 1:
+        return cjk_parts[0]
+    if len(cjk_parts) == 2:
+        return f"{cjk_parts[0]}与{cjk_parts[1]}"
+    return f"{cjk_parts[0]}等"
+
+
+def aliases_for_parts(parts: list[str], year: str) -> list[str]:
     if not part or not year:
         return []
-    return [f"{part}, {year}", f"{part} ({year})"]
+    aliases: list[str] = []
+    for part in parts:
+        aliases.extend([f"{part}, {year}", f"{part} ({year})"])
+    return dedupe(aliases)
+
+
+def aliases_for(authors: list[str], year: str, citation: str = "") -> list[str]:
+    parts = [author_part(authors)]
+    chinese_part = chinese_author_part(citation, re.sub(r"[a-z]$", "", year))
+    if chinese_part:
+        parts.append(chinese_part)
+    parts = [p for p in dedupe(parts) if p]
+    return aliases_for_parts(parts, year)
 
 
 def is_citation_eligible(meta: dict[str, Any], path: Path) -> bool:
@@ -199,7 +246,7 @@ def load_arguments() -> list[ArgumentCitation]:
             continue
         authors = list_value(meta.get("authors"))
         year = str(meta.get("year") or "").strip()
-        base = aliases_for(authors, year)
+        base = aliases_for(authors, year, str(meta.get("citation") or "").strip())
         if not base:
             continue
         items.append(ArgumentCitation(
@@ -208,6 +255,7 @@ def load_arguments() -> list[ArgumentCitation]:
             authors=authors,
             year=year,
             doi=str(meta.get("doi") or "").strip(),
+            isbn=str(meta.get("isbn") or "").strip(),
             citation=str(meta.get("citation") or "").strip(),
             base_aliases=base,
             aliases=base,
@@ -227,7 +275,7 @@ def assign_suffixes(items: list[ArgumentCitation]) -> None:
         for idx, item in enumerate(ordered):
             suffix = chr(ord("a") + idx)
             year = f"{item.year}{suffix}"
-            item.aliases = aliases_for(item.authors, year)
+            item.aliases = aliases_for(item.authors, year, item.citation)
 
 
 def yaml_quote(value: str) -> str:
