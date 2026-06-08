@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Australian Journal of Language and Literacy
-citation: 'O''Connor, P. (2020). Visible Learning and whole language: revisiting the ''garbage in, garbage out'' problem. Australian Journal of Language and Literacy, 43(2), 141–151.'
+citation: "O'Connor, P. (2020). Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem. Australian Journal of Language and Literacy, 43(2), 141–151."
 tags:
 - visible-learning
 - whole-language
@@ -30,7 +30,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Gene Glass]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
@@ -41,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2020
+doi: ""
+citation_stem: "O''Connor|2020"
+citation_suffix: ""
+citation_key: "O''Connor_2020"
+citation_short: "O''Connor, 2020"
 ---
 ## 研究问题
 

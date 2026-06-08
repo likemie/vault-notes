@@ -1,14 +1,14 @@
 ---
 title: Argument_Wrigley_2019_ERE
 authors:
-  - "Wrigley, T."
-  - "McCusker, S."
+  - "[[Terry Wrigley]]"
+  - "[[Sean McCusker]]"
 summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Research and Evaluation
-citation: 'Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of ''science''. Educational Research and Evaluation, 25(1–2), 110–126.'
+citation: "Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. Educational Research and Evaluation, 25(1–2), 110–126."
 tags:
 - evidence-based-teaching
 - science
@@ -34,7 +34,6 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Gene Glass]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -45,7 +44,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Wrigley|2019"
+citation_suffix: ""
+citation_key: "Wrigley_2019"
+citation_short: "Wrigley, 2019"
 ---
 ## 研究问题
 

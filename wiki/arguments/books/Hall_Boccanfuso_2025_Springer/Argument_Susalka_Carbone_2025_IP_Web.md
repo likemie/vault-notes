@@ -3,8 +3,8 @@ title: Argument_Susalka_Carbone_2025_IP_Web
 summary: "产学合作中知识产权问题的实践指南，分析大学与产业因组织使命差异导致的 IP 利益冲突，提出通过明确界定前景 IP 与背景 IP、合理设计权利转让条款来化解冲突的策略框架"
 type: argument
 authors:
-  - Susalka, Stephen J.
-  - Carbone, Hannah Dvorak
+  - "Susalka, Stephen J."
+  - "Carbone, Hannah Dvorak"
 citation: "Susalka, S. J., & Carbone, H. D. (2025). Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 271–287). Springer."
 tags:
   - theme/intellectual-property
@@ -31,10 +31,16 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
+year: 2025
+doi: ""
+citation_stem: "Susalka|2025"
+citation_suffix: ""
+citation_key: "Susalka_2025"
+citation_short: "Susalka, 2025"
 ---
 # Argument_Susalka_Carbone_2025_IP_Web
 

@@ -1,8 +1,8 @@
 ---
 title: Argument_Cowen_2015_CHESS
 authors:
-  - "Cowen, N."
-  - "Cartwright, N."
+  - "[[Nick Cowen]]"
+  - "[[Nancy Cartwright]]"
   - "Virk, B."
   - "Mascarenhas-Keyes, S."
 summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架"
@@ -10,7 +10,7 @@ type: argument
 subtype: report
 publication_type: report
 issuing_organization: Durham University
-citation: 'Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University.'
+citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University."
 tags:
 - evidence-based-education
 - policy-implementation
@@ -31,6 +31,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[What Works Network]]"
   - "[[Ofsted]]"
 related_arguments: []
@@ -39,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Cowen|2015"
+citation_suffix: ""
+citation_key: "Cowen_2015"
+citation_short: "Cowen, 2015"
 ---
 ## 研究问题
 

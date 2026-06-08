@@ -12,10 +12,10 @@ extracted_to:
   - "[[Michael Porter]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
-  - "[[Argument_Moisio_2022_Springer]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Sami Moisio]]"
+  - "[[Argument_Moisio_2022_Springer]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

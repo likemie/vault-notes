@@ -12,7 +12,7 @@ editors:
   - Ryan, J.
   - Slethaug, G.
 publisher: Hong Kong University Press
-citation: Ryan, J. & Slethaug, G. (Eds.). (2010). International Education and the Chinese Learner. Hong Kong University Press.
+citation: "Ryan, J. & Slethaug, G. (Eds.). (2010). International Education and the Chinese Learner. Hong Kong University Press."
 tags:
   - region/global
   - region/china
@@ -41,9 +41,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-16
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2010
+doi: ""
+citation_stem: "Ryan|2010"
+citation_suffix: "b"
+citation_key: "Ryan_2010b"
+citation_short: "Ryan, 2010b"
 ---
-
 # Argument_Ryan_2010_HKUP
 
 ## 研究问题

@@ -9,10 +9,10 @@ extracted_to:
   - "[[YOUNG_ADULLLT]]"
   - "[[Youth Guarantee Scheme]]"
   - "[[Europe 2020 Strategy]]"
-  - "[[Argument_Rambla_2022_Springer]]"
   - "[[Theories of Policy Change]]"
   - "[[Regulatory Regionalism]]"
   - "[[Performance Indicators]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 processed_date: 2026-05-13
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

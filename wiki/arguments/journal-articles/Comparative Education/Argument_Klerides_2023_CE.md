@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Comparative Education
-citation: 'Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435.'
+citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
 tags:
   - subject/comparative-education
   - theory/international-relations
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Government to Governance Shift]]"
   - "[[Methodological Nationalism]]"
+  - "[[International Mind]]"
   - "[[Lifelong Learning]]"
   - "[[Global Citizenship]]"
   - "[[Policy Entrepreneur]]"
@@ -43,7 +44,6 @@ related_theories:
   - "[[Dependency Theory]]"
 related_methods: []
 related_persons:
-  - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
   - "[[Joseph Lauwerys]]"
 related_facts:
@@ -60,9 +60,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: '2026-06-08'
+year: 2023
+doi: ""
+citation_stem: "Klerides|2023"
+citation_suffix: ""
+citation_key: "Klerides_2023"
+citation_short: "Klerides, 2023"
 ---
-
 # Argument_Klerides_2023_CE
 
 ---

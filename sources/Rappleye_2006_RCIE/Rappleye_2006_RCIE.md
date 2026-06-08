@@ -9,8 +9,8 @@ extracted_to:
   - "[[Jeremy Rappleye]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Cross-National Attraction]]"
-  - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Policy Borrowing]]"
+  - "[[Argument_Rappleye_2006_RCIE]]"
 processed_date: 2026-05-06
 ---
 

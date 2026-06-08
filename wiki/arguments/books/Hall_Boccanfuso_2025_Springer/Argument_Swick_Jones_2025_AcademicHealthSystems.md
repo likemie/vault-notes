@@ -16,7 +16,6 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Academic Medical Center]]"
   - "[[Academic Health System]]"
-  - "[[Big Ideas]]"
   - "[[Physician-Scientist]]"
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
@@ -31,8 +30,7 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[King-Persily Model]]"
 related_methods: []
-related_persons:
-  - "[[Edmund King]]"
+related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -42,12 +40,17 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
+year: 2025
+doi: ""
+citation_stem: "Swick|2025"
+citation_suffix: ""
+citation_key: "Swick_2025"
+citation_short: "Swick, 2025"
 ---
-
 # Argument_Swick_Jones_2025_AcademicHealthSystems
 
 ## 研究问题

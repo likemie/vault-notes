@@ -8,10 +8,10 @@ extracted_to:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Teach First New Zealand]]"
   - "[[Network Governance]]"
-  - "[[Argument_ONeill_2016_Report]]"
   - "[[Policy Entrepreneur]]"
   - "[[Educational Management Organisation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Argument_ONeill_2016_Report]]"
 processed_date: 2026-05-04
 ---
 

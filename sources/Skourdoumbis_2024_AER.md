@@ -12,10 +12,10 @@ extracted_to:
   - "[[TEMAG]]"
   - "[[Education Endowment Foundation]]"
   - "[[Bacchi's WPR Approach]]"
-  - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Educational Neuroscience]]"
   - "[[Strong Beginnings Report]]"
   - "[[Cognitive Load Theory]]"
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 processed_date: 2026-06-06
 ---
 

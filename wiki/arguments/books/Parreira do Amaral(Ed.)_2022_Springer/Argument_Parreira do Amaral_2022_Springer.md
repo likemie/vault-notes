@@ -2,7 +2,7 @@
 title: Argument_Parreira do Amaral_2022_Springer
 authors:
   - "Parreira do Amaral, M."
-  - "Thompson, C."
+  - "[[Christiane Thompson]]"
 summary: "论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开"
 type: argument
 subtype: edited-volume
@@ -12,7 +12,7 @@ editors:
 - Parreira do Amaral, M.,
 - Thompson, C.
 publisher: Springer
-citation: 'Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer.'
+citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer."
 tags:
 - geopolitics-of-knowledge
 - higher-education
@@ -58,9 +58,14 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Parreira do Amaral|2022"
+citation_suffix: "b"
+citation_key: "Parreira do Amaral_2022b"
+citation_short: "Parreira do Amaral, 2022b"
 ---
-
 ## 编者论点
 
 > [!question]

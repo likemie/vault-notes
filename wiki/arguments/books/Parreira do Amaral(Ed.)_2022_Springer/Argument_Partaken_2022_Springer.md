@@ -7,7 +7,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 book_title: Geopolitical Transformations in Higher Education
-citation: Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Springer.
+citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Springer."
 tags:
 - region/global
 - knowledge-transfer
@@ -28,17 +28,13 @@ related_concepts:
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
   - "[[Knowledge Sabotage]]"
-  - "[[STEM Education]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods: []
 related_persons:
-  - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
-  - "[[Jean-François Lyotard]]"
-  - "[[Paulo Freire]]"
   - "[[Plato]]"
   - "[[Confucius]]"
 related_facts:
@@ -53,9 +49,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Partaken|2022"
+citation_suffix: ""
+citation_key: "Partaken_2022"
+citation_short: "Partaken, 2022"
 ---
-
 # Argument_Partaken_2022_Springer
 
 ## 研究问题

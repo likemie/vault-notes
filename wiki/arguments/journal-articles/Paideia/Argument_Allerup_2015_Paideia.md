@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51.
+citation: "Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51."
 tags:
 - visible-learning
 - effect-size
@@ -40,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Allerup|2015"
+citation_suffix: ""
+citation_key: "Allerup_2015"
+citation_short: "Allerup, 2015"
 ---
 ## 研究问题
 

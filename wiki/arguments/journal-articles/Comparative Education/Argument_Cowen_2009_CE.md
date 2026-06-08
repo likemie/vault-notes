@@ -1,13 +1,13 @@
 ---
 title: Argument_Cowen_2009_CE
 authors:
-  - "Cowen, R."
+  - "[[Robert Cowen]]"
 summary: "比较教育以方法论、形式和情境三个惯例转移了对教育转移的注意力，提出转移—转译—转化三阶段框架和形变问题意识，指出学科缺乏描述教育制度形状的概念词汇"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Comparative Education
-citation: 'Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327.'
+citation: "Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327."
 tags:
   - theme/comparative-education
   - theme/knowledge-transfer
@@ -30,9 +30,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
-  - "[[Michael Sadler]]"
-  - "[[Pierre Bourdieu]]"
-  - "[[Andreas Kazamias]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -40,9 +37,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: '2026-06-08'
+year: 2009
+doi: ""
+citation_stem: "Cowen|2009"
+citation_suffix: ""
+citation_key: "Cowen_2009"
+citation_short: "Cowen, 2009"
 ---
-
 # Argument_Cowen_2009_CE
 
 ---

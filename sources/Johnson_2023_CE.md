@@ -5,9 +5,9 @@ extracted_to:
   - "[[Neo-Taylorism]]"
   - "[[Scientism]]"
   - "[[Global Education Reform Movement]]"
-  - "[[Argument_Johnson_2023_CE]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Class Size]]"
+  - "[[Argument_Johnson_2023_CE]]"
 processed_date: 2026-05-04
 ---
 

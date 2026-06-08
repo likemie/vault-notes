@@ -2,7 +2,7 @@
 title: Argument_Yan_2025_JCS
 authors:
   - "Yan, K. C. A."
-  - "Morris, P."
+  - "[[Paul Morris]]"
 summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入"
 type: argument
 subtype: journal-article
@@ -35,8 +35,7 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
-related_persons:
-  - "[[Pierre Bourdieu]]"
+related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
@@ -49,9 +48,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-06-07
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Yan|2025"
+citation_suffix: ""
+citation_key: "Yan_2025"
+citation_short: "Yan, 2025"
 ---
-
 # Argument_Yan_2025_JCS
 
 ---

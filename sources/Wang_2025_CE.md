@@ -1,7 +1,6 @@
 ---
 citation: "Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme. Comparative Education, 61(4), 586-605."
 extracted_to:
-  - "[[Argument_Wang_2025_CE]]"
   - "[[Examination-Oriented Education]]"
   - "[[Quality Education]]"
   - "[[Test-Based Accountability]]"
@@ -9,6 +8,7 @@ extracted_to:
   - "[[Civil Service Examination]]"
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
+  - "[[Argument_Wang_2025_CE]]"
 processed_date: 2026-05-26
 ---
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/norway/Thomas Nordahl.md",
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Thomas Nordahl"
+              "title": "Argument_Wolf_2025_InternationalResearchCollab"
             }
           }
         ]
@@ -191,8 +191,17 @@
   },
   "active": "b83018ce7efe26fb",
   "lastOpenFiles": [
-    "wiki/persons/norway/Jorunn Møller.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_LernerLam_2025_TransdisciplinaryExecutiveEd.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Brock_2025_DataAccessGenerationUse.md",
     "wiki/persons/norway/Thomas Nordahl.md",
+    "wiki/persons/norway/Jorunn Møller.md",
     "wiki/persons/canada-usa/Albert Bandura.md",
     "wiki/persons/canada-usa",
     "wiki/persons/netherlands/Gert Biesta.md",
@@ -211,18 +220,9 @@
     "wiki/persons/chile/Humberto Maturana.md",
     "wiki/persons/chile/Francisco Varela.md",
     "wiki/persons/argentina/Alejandro Artopoulos.md",
-    "wiki/persons/argentina/Jason Beech.md",
-    "CLAUDE.md",
-    "GEMINI.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
     "scripts/wiki_linker.py",
     "scripts/wiki_linker-citation.py",
     "scripts/citation_index.py",
-    "wiki/facts/global/OECD.md",
-    "wiki/concepts/comparative-education/International Mind.md",
-    "wiki/concepts/political-economy-geopolitics/Re-Westernisation.md",
-    "wiki/facts/us/Comparative Education Center at Chicago 1958.md",
-    "wiki/facts/us/Economics of Education Movement.md",
     "citation",
     "未命名文件夹",
     "sources/Klerides_2023_CE.pdf",

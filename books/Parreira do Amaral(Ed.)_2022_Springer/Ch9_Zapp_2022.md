@@ -10,8 +10,8 @@ extracted_to:
   - "[[UN Sustainable Development Goals]]"
   - "[[Jane Knight]]"
   - "[[World Society Theory]]"
-  - "[[Argument_Zapp_2022_Springer]]"
   - "[[Epistemic Governance]]"
+  - "[[Argument_Zapp_2022_Springer]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

@@ -1,14 +1,14 @@
 ---
 title: Argument_Beech_2015_GSE
 authors:
-  - "Beech, J."
-  - "Artopoulos, A."
+  - "[[Jason Beech]]"
+  - "[[Alejandro Artopoulos]]"
 summary: "批评比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用关系性空间概念和行动者网络理论分析教育话语的跨空间流通"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Globalisation, Societies and Education
-citation: 'Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18.'
+citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18."
 tags:
   - theme/educational-transfer
   - theme/comparative-education
@@ -52,9 +52,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Beech|2015"
+citation_suffix: ""
+citation_key: "Beech_2015"
+citation_short: "Beech, 2015"
 ---
-
 # Argument_Beech_2015_GSE
 
 ---

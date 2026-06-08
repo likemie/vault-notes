@@ -7,7 +7,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 book_title: International Education and the Chinese Learner
-citation: 'Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press.'
+citation: "Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press."
 tags:
 - region/global
 - region/china
@@ -35,9 +35,14 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2010
+doi: ""
+citation_stem: "Slethaug|2010"
+citation_suffix: ""
+citation_key: "Slethaug_2010"
+citation_short: "Slethaug, 2010"
 ---
-
 # Argument_Slethaug_2010_InternationalEducation
 
 ## 研究问题

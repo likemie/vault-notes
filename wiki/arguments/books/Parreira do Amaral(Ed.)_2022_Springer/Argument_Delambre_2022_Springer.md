@@ -1,13 +1,13 @@
 ---
 title: Argument_Delambre_2022_Springer
 authors:
-  - "Delambre, D"
+  - "[[Dell Delambre]]"
 summary: "Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例"
 type: argument
 subtype: book-chapter
 publication_type: book
 book_title: Geopolitical Transformations in Higher Education
-citation: Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Springer.
+citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Springer."
 tags:
 - region/brazil
 - region/global
@@ -39,9 +39,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Delambre|2022"
+citation_suffix: ""
+citation_key: "Delambre_2022"
+citation_short: "Delambre, 2022"
 ---
-
 # Argument_Delambre_2022_Springer
 
 ## 研究问题

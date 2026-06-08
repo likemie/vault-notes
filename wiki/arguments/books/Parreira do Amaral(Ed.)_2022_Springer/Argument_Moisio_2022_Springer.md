@@ -1,13 +1,13 @@
 ---
 title: Argument_Moisio_2022_Springer
 authors:
-  - "Moisio, S"
+  - "[[Sami Moisio]]"
 summary: "Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架"
 type: argument
 subtype: book-chapter
 publication_type: book
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: 'Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 21–33). Springer.'
+citation: "Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 21–33). Springer."
 tags:
 - geopolitics
 - knowledge-based-economization
@@ -52,9 +52,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Moisio|2022"
+citation_suffix: ""
+citation_key: "Moisio_2022"
+citation_short: "Moisio, 2022"
 ---
-
 ## 研究问题
 
 > [!question]

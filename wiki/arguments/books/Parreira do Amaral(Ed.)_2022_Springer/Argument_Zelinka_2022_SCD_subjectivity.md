@@ -31,12 +31,17 @@ sources:
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-05-20
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabricating and Contesting Innovation"
+year: 2022
+doi: ""
+citation_stem: "Zelinka|2022"
+citation_suffix: ""
+citation_key: "Zelinka_2022"
+citation_short: "Zelinka, 2022"
 ---
-
 # Argument_Zelinka_2022_SCD_subjectivity
 
 ## 研究问题

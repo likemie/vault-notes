@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Review of Educational Research
-citation: Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262
+citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
 tags:
 - educational-evidence-clearinghouses
 - evidence-based-education
@@ -64,7 +64,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2024
+doi: ""
+citation_stem: "Wadhwa|2024"
+citation_suffix: ""
+citation_key: "Wadhwa_2024"
+citation_short: "Wadhwa, 2024"
 ---
 ## 研究问题
 

@@ -1,13 +1,13 @@
 ---
 title: Argument_Hattie_2010_NZJES
 authors:
-  - "Hattie, J"
+  - "[[John Hattie]]"
 summary: "Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
-citation: 'Hattie, J. (2010). On being a ''critic and conscience of society'': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96.'
+citation: "Hattie, J. (2010). On being a 'critic and conscience of society': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96."
 tags:
 - visible-learning
 - evidence-based-education
@@ -28,7 +28,6 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Gerald Grace]]"
 related_facts:
   - "[[New Zealand National Standards]]"
@@ -40,7 +39,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2010
+doi: ""
+citation_stem: "Hattie|2010"
+citation_suffix: ""
+citation_key: "Hattie_2010"
+citation_short: "Hattie, 2010"
 ---
 ## 研究问题
 

@@ -8,10 +8,10 @@ extracted_to:
   - "[[SveaSus Project]]"
   - "[[Wolfgang Klafki]]"
   - "[[Phenomenology]]"
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Finnish National Core Curriculum]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 processed_date: 2026-05-06
 ---
 

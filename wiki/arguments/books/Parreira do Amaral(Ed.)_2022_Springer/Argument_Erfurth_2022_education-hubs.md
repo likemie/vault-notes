@@ -37,14 +37,19 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-05-19
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "Geopolitical Transformations in Higher Education"
 journal: ""
 issuing_organization: ""
+year: 2022
+doi: ""
+citation_stem: "Erfurth|2022"
+citation_suffix: ""
+citation_key: "Erfurth_2022"
+citation_short: "Erfurth, 2022"
 ---
-
 # Argument_Erfurth_2022_education-hubs
 
 ## 研究问题

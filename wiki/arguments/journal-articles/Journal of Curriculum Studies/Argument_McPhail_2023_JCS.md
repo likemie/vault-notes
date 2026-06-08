@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Curriculum Studies
-citation: 'McPhail, G., Ormond, B., & Siteine, A. (2023). Knowledge and the New Zealand curriculum refresh. Journal of Curriculum Studies, 55(5), 509-526.'
+citation: "McPhail, G., Ormond, B., & Siteine, A. (2023). Knowledge and the New Zealand curriculum refresh. Journal of Curriculum Studies, 55(5), 509-526."
 tags:
   - theme/curriculum
   - region/new-zealand
@@ -52,9 +52,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: '2026-06-08'
+year: 2023
+doi: ""
+citation_stem: "McPhail|2023"
+citation_suffix: ""
+citation_key: "McPhail_2023"
+citation_short: "McPhail, 2023"
 ---
-
 # Argument_McPhail_2023_JCS
 
 ---

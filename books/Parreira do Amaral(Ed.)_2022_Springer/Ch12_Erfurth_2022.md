@@ -10,9 +10,9 @@ extracted_to:
   - "[[Jane Knight]]"
   - "[[Bob Jessop]]"
   - "[[Cultural Political Economy]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[International Education Hubs]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 processed_date: 2026-05-19
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

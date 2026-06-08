@@ -1,14 +1,14 @@
 ---
 title: Argument_Nielsen_2021
 authors:
-  - "Nielsen, K."
+  - "[[Klaus Nielsen]]"
   - "Klitmøller, J."
 summary: "以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性内核满足了教育系统的合法化需求，而非其科学质量"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: International Review of Theoretical Psychologies
-citation: Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92.
+citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92."
 tags:
 - visible-learning
 - legitimation-crisis
@@ -29,8 +29,7 @@ related_concepts:
   - "[[Doxa]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments: []
@@ -39,7 +38,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2021
+doi: ""
+citation_stem: "Nielsen|2021"
+citation_suffix: "a"
+citation_key: "Nielsen_2021a"
+citation_short: "Nielsen, 2021a"
 ---
 ## 研究问题
 

@@ -10,7 +10,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Higher Education Research & Development
-citation: 'Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M. (2022). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355.'
+citation: "Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M. (2022). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355."
 tags:
 - graduate-attributes
 - ideal-graduate
@@ -34,7 +34,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Wong|2022"
+citation_suffix: ""
+citation_key: "Wong_2022"
+citation_short: "Wong, 2022"
 ---
 ## 研究问题
 

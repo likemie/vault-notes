@@ -44,9 +44,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-05-24
+updated: '2026-06-08'
+year: 2021
+doi: ""
+citation_stem: "Dachet|2021"
+citation_suffix: ""
+citation_key: "Dachet_2021"
+citation_short: "Dachet, 2021"
 ---
-
 # Argument_Dachet_2021_ROE
 
 ## 研究问题

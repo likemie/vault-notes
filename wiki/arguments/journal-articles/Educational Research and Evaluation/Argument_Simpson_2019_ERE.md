@@ -1,13 +1,13 @@
 ---
 title: Argument_Simpson_2019
 authors:
-  - "Simpson, A"
+  - "[[Adrian Simpson]]"
 summary: "以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Research and Evaluation
-citation: 'Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1-2), 99-109.'
+citation: "Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1-2), 99-109."
 tags:
 - effect-size
 - evidence-based-education
@@ -26,8 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments: []
@@ -36,7 +35,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Simpson|2019"
+citation_suffix: ""
+citation_key: "Simpson_2019"
+citation_short: "Simpson, 2019"
 ---
 ## 研究问题
 

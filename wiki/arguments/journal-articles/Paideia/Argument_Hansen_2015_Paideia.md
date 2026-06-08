@@ -3,16 +3,16 @@ title: Argument_Hansen_2015_Paideia
 authors:
   - "Hansen, O."
   - "Lekhal, R."
-  - "Nordahl, T."
+  - "[[Thomas Nordahl]]"
   - "Norlund, A."
   - "Persson, B."
-  - "Qvortrup, L."
+  - "[[Lars Qvortrup]]"
 summary: "作为 Paideia 可见学习主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Hansen, O., Lekhal, R., Nordahl, T., Norlund, A., Persson, B., & Qvortrup, L. (2015). Leder Temanummer om synlig læring. Paideia, 9, 4–8.
+citation: "Hansen, O., Lekhal, R., Nordahl, T., Norlund, A., Persson, B., & Qvortrup, L. (2015). Leder Temanummer om synlig læring. Paideia, 9, 4–8."
 tags:
 - visible-learning
 - editorial
@@ -37,7 +37,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-20'
-updated: '2026-05-20'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Hansen|2015"
+citation_suffix: ""
+citation_key: "Hansen_2015"
+citation_short: "Hansen, 2015"
 ---
 ## 研究问题
 

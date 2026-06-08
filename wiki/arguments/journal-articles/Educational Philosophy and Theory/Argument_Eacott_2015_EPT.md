@@ -1,13 +1,13 @@
 ---
 title: Argument_Eacott_2015_EPT
 authors:
-  - "Eacott, S"
+  - "[[Scott Eacott]]"
 summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Philosophy and Theory
-citation: Eacott, S. (2015). Problematising the intellectual gaze of the educational administration scholar. Educational Philosophy and Theory, 47(4), 312–329.
+citation: "Eacott, S. (2015). Problematising the intellectual gaze of the educational administration scholar. Educational Philosophy and Theory, 47(4), 312–329."
 tags:
   - educational-administration
   - epistemology
@@ -34,7 +34,13 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Eacott|2015"
+citation_suffix: ""
+citation_key: "Eacott_2015"
+citation_short: "Eacott, 2015"
 ---
 ## 研究问题
 

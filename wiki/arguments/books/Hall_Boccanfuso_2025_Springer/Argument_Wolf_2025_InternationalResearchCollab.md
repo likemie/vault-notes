@@ -3,9 +3,9 @@ title: Argument_Wolf_2025_InternationalResearchCollab
 summary: "以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链"
 type: argument
 authors:
-  - Bethany J. Wolf
-  - Abigail E. Stevenson
-  - Justin B. Siegel
+  - "Bethany J. Wolf"
+  - "Abigail E. Stevenson"
+  - "Justin B. Siegel"
 citation: "Wolf, B. J., Stevenson, A. E., & Siegel, J. B. (2025). International research collaborations between universities and industry. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 309-326). Springer."
 tags:
   - theme/university-industry-collaboration
@@ -39,14 +39,19 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 journal: ""
 issuing_organization: ""
+year: 2025
+doi: ""
+citation_stem: "Bethany|2025"
+citation_suffix: ""
+citation_key: "Bethany_2025"
+citation_short: "Bethany, 2025"
 ---
-
 # Argument_Wolf_2025_InternationalResearchCollab
 
 ## 研究问题

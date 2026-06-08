@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: 'Håkansson, J. (2015). Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet. Paideia, 9, 52–60.'
+citation: "Håkansson, J. (2015). Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet. Paideia, 9, 52–60."
 tags:
 - visible-learning
 - school-improvement
@@ -22,15 +22,20 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources: []
 part_of: ''
 status: draft
 created: '2026-05-20'
-updated: '2026-05-20'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Håkansson|2015"
+citation_suffix: "a"
+citation_key: "Håkansson_2015a"
+citation_short: "Håkansson, 2015a"
 ---
 ## 研究问题
 

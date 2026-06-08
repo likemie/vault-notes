@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: 'Discourse: Studies in the Cultural Politics of Education'
-citation: 'Gorur, R. (2014). Producing calculable worlds: education at a glance. *Discourse: Studies in the Cultural Politics of Education*, 36(4), 578–595. doi: 10.1080/01596306.2015.974942'
+citation: "Gorur, R. (2014). Producing calculable worlds: education at a glance. *Discourse: Studies in the Cultural Politics of Education*, 36(4), 578–595. doi: 10.1080/01596306.2015.974942"
 tags:
 - oecd
 - education-indicators
@@ -40,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2014
+doi: ""
+citation_stem: "Gorur|2014"
+citation_suffix: ""
+citation_key: "Gorur_2014"
+citation_short: "Gorur, 2014"
 ---
 ## 研究问题
 

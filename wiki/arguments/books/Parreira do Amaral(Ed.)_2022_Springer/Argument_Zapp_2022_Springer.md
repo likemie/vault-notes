@@ -7,7 +7,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 book_title: Geopolitical Transformations in Higher Education
-citation: Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer.
+citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer."
 tags:
 - region/global
 - level/higher-ed
@@ -50,9 +50,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Zapp|2022"
+citation_suffix: ""
+citation_key: "Zapp_2022"
+citation_short: "Zapp, 2022"
 ---
-
 # Argument_Zapp_2022_Springer
 
 ## 研究问题

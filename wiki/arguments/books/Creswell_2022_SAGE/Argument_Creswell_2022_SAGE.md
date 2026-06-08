@@ -5,7 +5,9 @@ type: argument
 subtype: textbook
 publication_type: book
 book_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
-authors: ["John W. Creswell", "J. David Creswell"]
+authors:
+  - "[[John W. Creswell]]"
+  - "[[J. David Creswell]]"
 publisher: "SAGE Publications"
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 tags: [source/textbook]
@@ -132,10 +134,6 @@ related_methods:
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
-  - "[[Egon G. Guba]]"
-  - "[[John Locke]]"
-  - "[[Yvonna S. Lincoln]]"
-  - "[[John Dewey]]"
   - "[[Herbert Blalock]]"
 related_facts:
   - "[[Mixed Methods International Research Association]]"
@@ -145,9 +143,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-06-01
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Creswell|2022"
+citation_suffix: ""
+citation_key: "Creswell_2022"
+citation_short: "Creswell, 2022"
 ---
-
 # Argument_Creswell_2022_SAGE
 
 ## 章节结构

@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: "Encuentros sobre Educación"
-citation: 'Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101.'
+citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101."
 tags:
   - theme/educational-transfer
   - theme/reception-history
@@ -47,9 +47,14 @@ sources:
   - "[[Schulte_2009_EncuentrosEducacion]]"
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+year: 2009
+doi: ""
+citation_stem: "Schulte|2009"
+citation_suffix: ""
+citation_key: "Schulte_2009"
+citation_short: "Schulte, 2009"
 ---
-
 # Argument_Schulte_2009_EncuentrosEducacion
 
 ## 研究问题

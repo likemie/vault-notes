@@ -1,13 +1,13 @@
 ---
 title: Argument_Grace_2010_NZJES
 authors:
-  - "Grace, G"
+  - "[[Gerald Grace]]"
 summary: "以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
-citation: Grace, G. (2010). Reflection on the University and the Academic as 'Critic and Conscience of Society'. New Zealand Journal of Educational Studies, 45(2), 89–92.
+citation: "Grace, G. (2010). Reflection on the University and the Academic as 'Critic and Conscience of Society'. New Zealand Journal of Educational Studies, 45(2), 89–92."
 tags:
 - visible-learning
 - evidence-based-education
@@ -21,7 +21,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
@@ -30,7 +29,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2010
+doi: ""
+citation_stem: "Grace|2010"
+citation_suffix: ""
+citation_key: "Grace_2010"
+citation_short: "Grace, 2010"
 ---
 ## 研究问题
 

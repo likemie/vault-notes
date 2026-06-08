@@ -6,9 +6,9 @@ subtype: monograph
 publication_type: book
 book_title: 'Cultural Foundations of Learning: East and West'
 authors:
-- Jin Li
+  - "[[Jin Li]]"
 publisher: Cambridge University Press
-citation: 'Li, J. (2012). Cultural Foundations of Learning: East and West. Cambridge
+citation: "Li, J. (2012). Cultural Foundations of Learning: East and West. Cambridge University Press."
   University Press.'
 tags:
 - region/east-asia
@@ -117,7 +117,6 @@ related_facts:
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
-  - "[[Lev Vygotsky]]"
   - "[[Xunzi]]"
   - "[[Bertrand Russell]]"
   - "[[Plato]]"
@@ -130,19 +129,21 @@ related_persons:
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
   - "[[Catherine Lewis]]"
-  - "[[John Dewey]]"
   - "[[Zhuangzi]]"
-  - "[[Pierre Bourdieu]]"
 related_arguments: []
 sources:
   - "[[Li_2012_Cambridge]]"
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-05-24
+updated: '2026-06-08'
+year: 2012
+doi: ""
+citation_stem: "Li|2012"
+citation_suffix: ""
+citation_key: "Li_2012"
+citation_short: "Li, 2012"
 ---
-
-
 # Argument_Li_2012_Cambridge
 
 ## 研究问题

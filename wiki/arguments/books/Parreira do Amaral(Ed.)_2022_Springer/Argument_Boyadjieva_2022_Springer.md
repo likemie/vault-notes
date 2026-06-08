@@ -1,7 +1,7 @@
 ---
 title: Argument_Boyadjieva_2022_Springer
 authors:
-  - "Boyadjieva, P"
+  - "[[Pepka Boyadjieva]]"
 summary: "Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性"
 type: argument
 subtype: book-chapter
@@ -41,9 +41,14 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-11
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Boyadjieva|2022"
+citation_suffix: ""
+citation_key: "Boyadjieva_2022"
+citation_short: "Boyadjieva, 2022"
 ---
-
 # Argument_Boyadjieva_2022_Springer
 
 ## 研究问题

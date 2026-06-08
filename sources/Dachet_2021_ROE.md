@@ -4,9 +4,9 @@ extracted_to:
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Grade Retention in French-Speaking Belgium]]"
-  - "[[Argument_Dachet_2021_ROE]]"
   - "[[French-Speaking Belgium Education System]]"
   - "[[Pact for Educational Excellence]]"
+  - "[[Argument_Dachet_2021_ROE]]"
 processed_date: 2026-05-23
 ---
 

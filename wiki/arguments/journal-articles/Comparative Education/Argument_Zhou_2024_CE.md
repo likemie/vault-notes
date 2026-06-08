@@ -42,9 +42,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+year: 2024
+doi: ""
+citation_stem: "Zhou|2024"
+citation_suffix: ""
+citation_key: "Zhou_2024"
+citation_short: "Zhou, 2024"
 ---
-
 # Argument_Zhou_2024_CE
 
 ---

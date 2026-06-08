@@ -41,9 +41,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-06-02
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Dean|2025"
+citation_suffix: ""
+citation_key: "Dean_2025"
+citation_short: "Dean, 2025"
 ---
-
 # Argument_Dean_2025_UICollaborationSupport
 
 ## 研究问题

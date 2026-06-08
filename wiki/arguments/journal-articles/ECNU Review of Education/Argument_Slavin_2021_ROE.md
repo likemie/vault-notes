@@ -2,14 +2,14 @@
 title: Argument_Slavin_2021_ROE
 authors:
   - "Slavin, R. E."
-  - "Cheung, A. C. K."
-  - "Zhuang, T."
+  - "[[Alan C. K. Cheung]]"
+  - "[[Tengteng Zhuang]]"
 summary: "首个中美英证据本位改革国际比较：记录中国教育实证研究的制度化发展（ECNU 论坛、华东师大宣言、BEiB），呈现中国学者五类内部质疑，以四项核心活动框架分析中国情境"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: ECNU Review of Education
-citation: Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24.
+citation: "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24."
 tags:
 - evidence-based-reform
 - evidence-based-education
@@ -30,6 +30,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Investing in Innovation Program]]"
+  - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Best Evidence in Brief]]"
@@ -39,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2021
+doi: ""
+citation_stem: "Slavin|2021"
+citation_suffix: ""
+citation_key: "Slavin_2021"
+citation_short: "Slavin, 2021"
 ---
 ## 研究问题
 

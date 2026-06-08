@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41.
+citation: "Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41."
 tags:
 - visible-learning
 - effective-teaching
@@ -35,7 +35,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Laursen|2015"
+citation_suffix: ""
+citation_key: "Laursen_2015"
+citation_short: "Laursen, 2015"
 ---
 ## 研究问题
 

@@ -4,12 +4,12 @@ extracted_to:
   - "[[Transformative Leadership]]"
   - "[[ISSPP Project]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Argument_Møller_2017]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[OECD Improving School Leadership Project]]"
   - "[[Carolyn Shields]]"
   - "[[Christopher Day]]"
+  - "[[Argument_Møller_2017]]"
 processed_date: 2026-05-02
 ---
 

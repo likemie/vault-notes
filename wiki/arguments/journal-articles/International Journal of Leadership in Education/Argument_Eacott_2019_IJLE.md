@@ -1,7 +1,7 @@
 ---
 title: Argument_Eacott_2019_IJLE
 authors:
-  - "Eacott, S"
+  - "[[Scott Eacott]]"
 summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑"
 type: argument
 subtype: journal-article
@@ -27,7 +27,6 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -35,7 +34,13 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Eacott|2019"
+citation_suffix: ""
+citation_key: "Eacott_2019"
+citation_short: "Eacott, 2019"
 ---
 ## 研究问题
 

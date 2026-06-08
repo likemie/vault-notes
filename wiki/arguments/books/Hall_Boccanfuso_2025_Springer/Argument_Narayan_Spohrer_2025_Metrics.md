@@ -2,7 +2,7 @@
 title: Argument_Narayan_Spohrer_2025_Metrics
 authors:
   - "Narayan, S."
-  - "Spohrer, J."
+  - "[[Jim Spohrer]]"
 summary: "以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑"
 type: argument
 citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and Culture for Impact. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 85–99). Springer."
@@ -34,10 +34,16 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
+year: 2025
+doi: ""
+citation_stem: "Narayan|2025"
+citation_suffix: ""
+citation_key: "Narayan_2025"
+citation_short: "Narayan, 2025"
 ---
 ## 研究问题
 

@@ -1,13 +1,13 @@
 ---
 title: Argument_Nordahl_2015_Paideia
 authors:
-  - "Nordahl, T"
+  - "[[Thomas Nordahl]]"
 summary: "把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61-69.
+citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61-69."
 tags:
 - visible-learning
 - evidence-based-education
@@ -28,7 +28,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Gert Biesta]]"
 related_facts:
   - "[[PISA]]"
@@ -39,9 +38,14 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-21'
-updated: '2026-05-21'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Nordahl|2015"
+citation_suffix: ""
+citation_key: "Nordahl_2015"
+citation_short: "Nordahl, 2015"
 ---
-
 ## 研究问题
 
 > [!question]

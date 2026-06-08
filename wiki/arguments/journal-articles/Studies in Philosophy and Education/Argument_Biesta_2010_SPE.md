@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Studies in Philosophy and Education
-citation: 'Biesta, G. J. J. (2010). Why ''What Works'' Still Won''t Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503.'
+citation: "Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503."
 tags:
 - evidence-based-education
 - value-based-education
@@ -31,8 +31,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
-related_persons:
-  - "[[John Dewey]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -40,7 +39,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2010
+doi: ""
+citation_stem: "Biesta|2010"
+citation_suffix: ""
+citation_key: "Biesta_2010"
+citation_short: "Biesta, 2010"
 ---
 ## 研究问题
 

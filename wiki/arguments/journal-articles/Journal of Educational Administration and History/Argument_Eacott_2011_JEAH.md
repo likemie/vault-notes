@@ -1,7 +1,7 @@
 ---
 title: Argument_Eacott_2011_JEAH
 authors:
-  - "Eacott, S"
+  - "[[Scott Eacott]]"
 summary: "以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为“国家改革的交付者“，提出基于“教育问题提出与争辩“的替代性领导习性"
 type: argument
 subtype: journal-article
@@ -32,9 +32,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2011
+doi: ""
+citation_stem: "Eacott|2011"
+citation_suffix: ""
+citation_key: "Eacott_2011"
+citation_short: "Eacott, 2011"
 ---
-
 # Argument_Eacott_2011_JEAH
 
 

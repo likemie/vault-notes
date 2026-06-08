@@ -14,8 +14,8 @@ extracted_to:
   - "[[Swiss Innovation Policy System]]"
   - "[[DARPA]]"
   - "[[US Innovation Policy System]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Korea Innovation Policy System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
 processed_date: 2026-06-03
 ---
 

@@ -5,13 +5,13 @@ extracted_to:
   - "[[PISA Made-up Claim]]"
   - "[[Construct]]"
   - "[[Rasch Measurement]]"
-  - "[[Argument_Zhao_2020_JEC]]"
   - "[[PISA Glorifying Authoritarian Education]]"
   - "[[PISA Monolithic View of Education]]"
   - "[[PISA Score Negative Correlation]]"
   - "[[Baby PISA]]"
   - "[[PISA]]"
   - "[[Yong Zhao]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 processed_date: 2026-06-07
 ---
 

@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Curriculum Studies
-citation: Terhart, E. (2011). Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning. Journal of Curriculum Studies, 43(3), 425–438.
+citation: "Terhart, E. (2011). Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning. Journal of Curriculum Studies, 43(3), 425–438."
 tags:
 - visible-learning
 - evidence-based-education
@@ -38,7 +38,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2011
+doi: ""
+citation_stem: "Terhart|2011"
+citation_suffix: ""
+citation_key: "Terhart_2011"
+citation_short: "Terhart, 2011"
 ---
 ## 研究问题
 

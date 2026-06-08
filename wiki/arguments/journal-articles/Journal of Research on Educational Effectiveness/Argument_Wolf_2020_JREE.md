@@ -4,14 +4,14 @@ authors:
   - "Wolf, R."
   - "Morrison, J."
   - "Inns, A."
-  - "Slavin, R."
+  - "[[Robert Slavin]]"
   - "Risman, K."
 summary: "以多元元回归分析 WWC 数据库 755 个效应量，发现开发者研究效应量平均比独立评估高 0.141 SD（约 1.8 倍），识别发表偏倚、选择性报告和研究者自由度为可能解释机制"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Research on Educational Effectiveness
-citation: Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447.
+citation: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447."
 tags:
 - developer-effect
 - program-evaluation
@@ -44,7 +44,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2020
+doi: ""
+citation_stem: "Wolf|2020"
+citation_suffix: ""
+citation_key: "Wolf_2020"
+citation_short: "Wolf, 2020"
 ---
 ## 研究问题
 

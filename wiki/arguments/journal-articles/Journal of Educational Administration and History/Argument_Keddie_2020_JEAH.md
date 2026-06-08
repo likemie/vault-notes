@@ -4,7 +4,7 @@ authors:
   - "Keddie, A."
   - "MacDonald, K. C."
   - "Blackmore, J."
-  - "Eacott, S."
+  - "[[Scott Eacott]]"
   - "Gobby, B."
   - "Mahoney, C."
   - "Niesche, R."
@@ -14,7 +14,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Educational Administration and History
-citation: 'Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J. (2020). School autonomy, marketisation and social justice: the plight of principals and schools. *Journal of Educational Administration and History*, 52(4), 432–447.'
+citation: "Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J. (2020). School autonomy, marketisation and social justice: the plight of principals and schools. *Journal of Educational Administration and History*, 52(4), 432–447."
 tags:
 - school-autonomy
 - marketisation
@@ -39,7 +39,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2020
+doi: ""
+citation_stem: "Keddie|2020"
+citation_suffix: "b"
+citation_key: "Keddie_2020b"
+citation_short: "Keddie, 2020b"
 ---
 ## 研究问题
 

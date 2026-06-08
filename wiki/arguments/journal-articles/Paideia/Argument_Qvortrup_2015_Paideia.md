@@ -1,13 +1,13 @@
 ---
 title: Argument_Qvortrup_2015_Paideia
 authors:
-  - "Qvortrup, L"
+  - "[[Lars Qvortrup]]"
 summary: "VL 支持者立场讨论论文：回应三类批评，并指出学习结果概念需通过动态知识与学习模型加以重建"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33.
+citation: "Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33."
 tags:
 - visible-learning
 - meta-analysis
@@ -29,7 +29,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Gene Glass]]"
 related_facts:
   - "[[PISA]]"
@@ -39,7 +38,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Qvortrup|2015"
+citation_suffix: ""
+citation_key: "Qvortrup_2015"
+citation_short: "Qvortrup, 2015"
 ---
 ## 研究问题
 

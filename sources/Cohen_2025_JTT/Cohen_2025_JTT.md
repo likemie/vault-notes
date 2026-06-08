@@ -1,10 +1,10 @@
 ---
 citation: "Cohen, M., Fernandes, G., & Godinho, P. (2025). Measuring the impacts of university-industry R&D collaborations: a systematic literature review. The Journal of Technology Transfer, 50, 345–374."
 extracted_to:
-  - "[[Argument_Cohen_2025_JTT]]"
   - "[[Absorptive Capacity]]"
   - "[[Mode 2 Knowledge Production]]"
   - "[[UIC Impact Measurement]]"
+  - "[[Argument_Cohen_2025_JTT]]"
 processed_date: 2026-06-05
 ---
 

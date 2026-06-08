@@ -1,7 +1,7 @@
 ---
 title: Argument_Eacott_2017_SLM
 authors:
-  - "Eacott, S"
+  - "[[Scott Eacott]]"
 summary: "以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为“澳大利亚学校领导力的悲剧"
 type: argument
 subtype: journal-article
@@ -33,6 +33,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
 sources:
@@ -40,7 +41,13 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Eacott|2017"
+citation_suffix: ""
+citation_key: "Eacott_2017"
+citation_short: "Eacott, 2017"
 ---
 ## 研究问题
 

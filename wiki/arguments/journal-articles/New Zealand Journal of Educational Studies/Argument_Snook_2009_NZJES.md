@@ -11,7 +11,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
-citation: 'Snook, I., O''Neill, J., Clark, J., O''Neill, A. M., & Openshaw, R. (2009). Invisible Learnings? A Commentary on John Hattie''s book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of Educational Studies, 44(1), 93–106.'
+citation: "Snook, I., O'Neill, J., Clark, J., O'Neill, A. M., & Openshaw, R. (2009). Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of Educational Studies, 44(1), 93–106."
 tags:
 - visible-learning
 - effect-size
@@ -40,7 +40,6 @@ related_methods:
   - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[John Dewey]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
@@ -51,7 +50,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2009
+doi: ""
+citation_stem: "Snook|2009"
+citation_suffix: ""
+citation_key: "Snook_2009"
+citation_short: "Snook, 2009"
 ---
 ## 研究问题
 

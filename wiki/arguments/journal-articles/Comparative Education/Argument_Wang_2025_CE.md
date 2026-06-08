@@ -8,7 +8,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Comparative Education
-citation: 'Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme. Comparative Education, 61(4), 586-605.'
+citation: "Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme. Comparative Education, 61(4), 586-605."
 tags:
   - region/china
   - theme/learner-centred-education
@@ -33,7 +33,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
 related_persons:
-  - "[[Yrjö Engeström]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
@@ -42,9 +41,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Wang|2025"
+citation_suffix: ""
+citation_key: "Wang_2025"
+citation_short: "Wang, 2025"
 ---
-
 # Argument_Wang_2025_CE
 
 

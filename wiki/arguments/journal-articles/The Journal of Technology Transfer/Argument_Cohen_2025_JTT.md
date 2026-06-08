@@ -35,6 +35,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Matching]]"
+  - "[[Systematic Review]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -43,9 +44,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-05
-updated: 2026-06-05
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Cohen|2025"
+citation_suffix: ""
+citation_key: "Cohen_2025"
+citation_short: "Cohen, 2025"
 ---
-
 # Argument_Cohen_2025_JTT
 
 ## 研究问题
@@ -426,7 +432,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 ## 自述局限
 
 > [!warning]
-> - 系统性综述不可能穷尽所有相关文献，关键词选择、检索字符串和检索范围的限制可能导致部分文献被遗漏（Xia et al., 2018）（pp.367–368）。
+> - [[Systematic Review|系统性综述]]不可能穷尽所有相关文献，关键词选择、检索字符串和检索范围的限制可能导致部分文献被遗漏（Xia et al., 2018）（pp.367–368）。
 > - 自反性主题分析中研究者的认知偏见无法完全消除，因此所得发现和框架不构成唯一的理解方式，其他研究者可能提出不同的分类和解释（pp.367–368）。
 > - 未深入分析测量 UIC 影响的具体方法类型（如计量模型、结构方程模型等），为未来研究留下了空间（p.350）。
 > - 综述的范围限定在英文论文、2000–2022 年，非英语文献和该时间窗口之外的贡献未被纳入（pp.351–352）。

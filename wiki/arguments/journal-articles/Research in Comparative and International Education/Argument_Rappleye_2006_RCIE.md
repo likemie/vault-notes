@@ -1,13 +1,13 @@
 ---
 title: Argument_Rappleye_2006_RCIE
 authors:
-  - "Rappleye, J"
+  - "[[Jeremy Rappleye]]"
 summary: "提出跨国吸引力情境概念地图，拆解情境为结构层与人的层面的双层互动，区分推力与阻力两侧各四种结构因素与多元行动者，以危机化/合法化/审慎/美化四种火花分类吸引力动机，回应全球化对前转移能动性、行动者激增和话语转移的三项分析新要求"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Research in Comparative and International Education
-citation: 'Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240.'
+citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
 tags:
 - policy-borrowing
 - educational-transfer
@@ -25,8 +25,7 @@ related_concepts:
   - "[[Externalization]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Michael Sadler]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -41,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-05-28'
+updated: '2026-06-08'
+year: 2006
+doi: ""
+citation_stem: "Rappleye|2006"
+citation_suffix: ""
+citation_key: "Rappleye_2006"
+citation_short: "Rappleye, 2006"
 ---
 ## 研究问题
 

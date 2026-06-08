@@ -21,12 +21,12 @@ extracted_to:
   - "[[Transition Design]]"
   - "[[Robert Cowen]]"
   - "[[Learning Analytics]]"
-  - "[[Argument_Amos_2022_Springer]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
   - "[[Knowledge-Based Economy]]"
   - "[[New Public Management]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Argument_Amos_2022_Springer]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

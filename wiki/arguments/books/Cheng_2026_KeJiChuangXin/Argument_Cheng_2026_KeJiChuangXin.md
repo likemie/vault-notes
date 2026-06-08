@@ -57,12 +57,17 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-06-05
+updated: '2026-06-08'
 
 
 # Argument_Cheng_2026_KeJiChuangXin
+year: 2026
+doi: ""
+citation_stem: "程|2026"
+citation_suffix: ""
+citation_key: "程_2026"
+citation_short: "程, 2026"
 ---
-
 ## 研究问题
 
 > [!question]

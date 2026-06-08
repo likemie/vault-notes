@@ -8,7 +8,6 @@ extracted_to:
   - "[[Larry Cuban]]"
   - "[[Nation Building through Education]]"
   - "[[Cuban's Curriculum Change Theory]]"
-  - "[[Argument_Yan_2025_JCS]]"
   - "[[Lifelong Learning]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
   - "[[Liberal Studies]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Paul Morris]]"
   - "[[Policy Borrowing]]"
+  - "[[Argument_Yan_2025_JCS]]"
 processed_date: 2026-05-01
 ---
 

@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Nordic Journal of Studies in Educational Policy
-citation: 'Knudsen, H. (2017). John Hattie: I''m a statistician, I''m not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261.'
+citation: "Knudsen, H. (2017). John Hattie: I'm a statistician, I'm not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261."
 tags:
 - visible-learning
 - john-hattie
@@ -29,13 +29,20 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Cognition Education]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments: []
 sources:
   - "[[Knudsen_2017_NordSTEP]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Knudsen|2017"
+citation_suffix: ""
+citation_key: "Knudsen_2017"
+citation_short: "Knudsen, 2017"
 ---
 ## 研究问题
 

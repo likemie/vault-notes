@@ -8,13 +8,13 @@ extracted_to:
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
   - "[[Critical Geopolitics]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[International Education Hubs]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[New Public Management]]"
   - "[[Network Society]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

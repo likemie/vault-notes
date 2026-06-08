@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Evaluation Review
-citation: 'Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191-203.'
+citation: "Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191-203."
 tags:
 - evaluation-research
 - evidence-based-policy
@@ -30,6 +30,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
   - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
 related_persons: []
 related_facts:
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
@@ -39,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2011
+doi: ""
+citation_stem: "Berk|2011"
+citation_suffix: ""
+citation_key: "Berk_2011"
+citation_short: "Berk, 2011"
 ---
 ## 研究问题
 
@@ -134,7 +141,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 作为编辑反思而非系统综述，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
+> - 作为编辑反思而非[[Systematic Review|系统综述]]，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
 > - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止统计错误"）与批判（"集群随机化中的 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
 > - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚知识问题和制度激励问题
 > - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如双重差分、合成控制、断点回归设计）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评

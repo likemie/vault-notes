@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Zeitschrift für Erziehungswissenschaft
-citation: Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0
+citation: "Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0"
 tags:
 - visible-learning
 - meta-analysis
@@ -32,7 +32,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Gene Glass]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -40,7 +39,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2016
+doi: ""
+citation_stem: "Wecker|2016"
+citation_suffix: ""
+citation_key: "Wecker_2016"
+citation_short: "Wecker, 2016"
 ---
 ## 研究问题
 

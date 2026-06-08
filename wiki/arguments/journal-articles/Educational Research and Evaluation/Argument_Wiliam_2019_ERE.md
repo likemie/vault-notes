@@ -1,13 +1,13 @@
 ---
 title: Argument_Wiliam_2019
 authors:
-  - "Wiliam, D"
+  - "[[Dylan Wiliam]]"
 summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Research and Evaluation
-citation: Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993
+citation: "Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993"
 tags:
 - evidence-based-education
 - rct
@@ -29,6 +29,7 @@ related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Random Assignment]]"
   - "[[Meta-analysis]]"
@@ -41,7 +42,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Wiliam|2019"
+citation_suffix: ""
+citation_key: "Wiliam_2019"
+citation_short: "Wiliam, 2019"
 ---
 ## 研究问题
 

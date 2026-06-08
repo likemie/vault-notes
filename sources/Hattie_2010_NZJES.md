@@ -1,11 +1,11 @@
 ---
 citation: "Hattie, J. (2010). On being a 'critic and conscience of society': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96."
 extracted_to:
-  - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Performance Pay]]"
-  - "[[Argument_Snook_2009]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Class Size]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Snook_2009]]"
 processed_date: 2026-05-06
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Argument_Møller_2017
 authors:
-  - "Møller, J"
+  - "[[Jorunn Møller]]"
 summary: "以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: European Educational Research Journal
-citation: Møller, J. (2017). Leading education beyond what works. European Educational Research Journal, 16(4), 375–385.
+citation: "Møller, J. (2017). Leading education beyond what works. European Educational Research Journal, 16(4), 375–385."
 tags:
 - school-leadership
 - evidence-based-education
@@ -35,7 +35,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Møller|2017"
+citation_suffix: ""
+citation_key: "Møller_2017"
+citation_short: "Møller, 2017"
 ---
 ## 研究问题
 

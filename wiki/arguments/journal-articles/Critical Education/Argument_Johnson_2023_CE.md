@@ -8,7 +8,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Critical Education
-citation: 'Johnson, G. R., & Janzen, M. D. (2023). Leading the blind: A critical look at Visible Learning. Critical Education, 14(4), 23–41.'
+citation: "Johnson, G. R., & Janzen, M. D. (2023). Leading the blind: A critical look at Visible Learning. Critical Education, 14(4), 23–41."
 tags:
 - visible-learning
 - neo-taylorism
@@ -31,9 +31,7 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
-  - "[[Gene Glass]]"
+related_persons: []
 related_facts:
   - "[[Cognition Education]]"
 related_arguments: []
@@ -42,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2023
+doi: ""
+citation_stem: "Johnson|2023"
+citation_suffix: ""
+citation_key: "Johnson_2023"
+citation_short: "Johnson, 2023"
 ---
 ## 研究问题
 

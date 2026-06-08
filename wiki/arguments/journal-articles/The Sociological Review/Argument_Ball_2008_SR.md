@@ -24,8 +24,7 @@ related_concepts:
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Pierre Bourdieu]]"
+related_persons: []
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []
@@ -34,14 +33,19 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: '2026-06-08'
 subtype: journal-article
 publication_type: journal-article
 journal: The Sociological Review
 book_title: ""
 issuing_organization: ""
+year: 2008
+doi: ""
+citation_stem: "Ball|2008"
+citation_suffix: ""
+citation_key: "Ball_2008"
+citation_short: "Ball, 2008"
 ---
-
 # Argument_Ball_2008_SR
 
 ## 研究问题

@@ -31,9 +31,14 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-18
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Hartmann|2022"
+citation_suffix: ""
+citation_key: "Hartmann_2022"
+citation_short: "Hartmann, 2022"
 ---
-
 # Argument_Hartmann_2022_CorporateEducation
 
 

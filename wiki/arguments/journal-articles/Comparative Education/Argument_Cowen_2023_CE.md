@@ -1,13 +1,13 @@
 ---
 title: Argument_Cowen_2023_CE
 authors:
-  - "Cowen, R."
+  - "[[Robert Cowen]]"
 summary: "诊断比较教育学科积累了过多惯例化的自我合法化方式，指出四种并存但矛盾的理解形式及其政治预设，主张以转移和受教育身份两个核心问题重新出发"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Comparative Education
-citation: 'Cowen, R. (2023). Comparative education: and now? Comparative Education, 59(3), 326-340.'
+citation: "Cowen, R. (2023). Comparative education: and now? Comparative Education, 59(3), 326-340."
 tags:
   - theme/comparative-education
   - theory/comparative-education
@@ -29,10 +29,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Michael Sadler]]"
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
-  - "[[Pierre Bourdieu]]"
   - "[[Edmund King]]"
   - "[[Stephen Ball]]"
   - "[[Joseph Lauwerys]]"
@@ -47,9 +45,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: '2026-06-08'
+year: 2023
+doi: ""
+citation_stem: "Cowen|2023"
+citation_suffix: ""
+citation_key: "Cowen_2023"
+citation_short: "Cowen, 2023"
 ---
-
 # Argument_Cowen_2023_CE
 
 ---

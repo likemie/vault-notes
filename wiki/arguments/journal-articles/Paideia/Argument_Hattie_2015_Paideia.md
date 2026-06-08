@@ -1,7 +1,7 @@
 ---
 title: Argument_Hattie_2015_Paideia
 authors:
-  - "Hattie, J"
+  - "[[John Hattie]]"
 summary: "以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释"
 type: argument
 subtype: journal-article
@@ -30,8 +30,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -39,9 +38,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Hattie|2015"
+citation_suffix: "a"
+citation_key: "Hattie_2015a"
+citation_short: "Hattie, 2015a"
 ---
-
 # Argument_Hattie_2015_Paideia
 
 ## 研究问题

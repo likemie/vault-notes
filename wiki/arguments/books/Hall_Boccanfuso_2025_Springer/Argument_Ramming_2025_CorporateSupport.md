@@ -36,9 +36,14 @@ sources:
   - "[[Ch12_Ramming_2025]]"
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Ramming|2025"
+citation_suffix: ""
+citation_key: "Ramming_2025"
+citation_short: "Ramming, 2025"
 ---
-
 # Argument_Ramming_2025_CorporateSupport
 
 ---

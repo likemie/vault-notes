@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Psychologist
-citation: 'Slavin, R. E. (2019). How Evidence-Based Reform Will Transform Research and Practice in Education. Educational Psychologist, 55(1), 1–13. DOI: 10.1080/00461520.2019.1611432'
+citation: "Slavin, R. E. (2019). How Evidence-Based Reform Will Transform Research and Practice in Education. Educational Psychologist, 55(1), 1–13. DOI: 10.1080/00461520.2019.1611432"
 tags:
 - evidence-based-education
 - evidence-based-reform
@@ -29,9 +29,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Investing in Innovation Program]]"
@@ -45,7 +45,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Slavin|2019"
+citation_suffix: ""
+citation_key: "Slavin_2019"
+citation_short: "Slavin, 2019"
 ---
 ## 研究问题
 

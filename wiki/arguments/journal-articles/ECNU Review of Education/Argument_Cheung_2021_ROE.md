@@ -1,14 +1,14 @@
 ---
 title: Argument_Cheung_2021_ROE
 authors:
-  - "Cheung, A. C. K."
-  - "Xie, C."
+  - "[[Alan C. K. Cheung]]"
+  - "[[Chen Xie]]"
 summary: "ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT，汇集七国八篇文章，按四项核心活动框架呈现证据本位改革全球全景"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: ECNU Review of Education
-citation: 'Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6.'
+citation: "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6."
 tags:
 - evidence-based-reform
 - region/global
@@ -30,6 +30,7 @@ related_methods:
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Success for All]]"
 related_arguments: []
@@ -38,7 +39,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2021
+doi: ""
+citation_stem: "Cheung|2021"
+citation_suffix: ""
+citation_key: "Cheung_2021"
+citation_short: "Cheung, 2021"
 ---
 ## 研究问题
 

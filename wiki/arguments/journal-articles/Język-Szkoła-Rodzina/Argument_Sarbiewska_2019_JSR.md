@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Język-Szkoła-Rodzina
-citation: Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129.
+citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129."
 tags:
 - visible-learning
 - evidence-based-education
@@ -25,9 +25,7 @@ related_theories:
   - "[[Radical Constructivism]]"
 related_methods: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
-  - "[[Robert Marzano]]"
 related_facts:
   - "[[PISA]]"
   - "[[Tomorrow's Schools Reforms]]"
@@ -40,7 +38,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Sarbiewska|2019"
+citation_suffix: ""
+citation_key: "Sarbiewska_2019"
+citation_short: "Sarbiewska, 2019"
 ---
 ## 研究问题
 

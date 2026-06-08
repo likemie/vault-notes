@@ -11,7 +11,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Psychology Review
-citation: Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H. (2023). How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies. Educational Psychology Review, 35, Article 37. https://doi.org/10.1007/s10648-023-09759-9
+citation: "Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H. (2023). How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies. Educational Psychology Review, 35, Article 37. https://doi.org/10.1007/s10648-023-09759-9"
 tags:
 - educational-psychology
 - research-methodology
@@ -42,7 +42,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2023
+doi: ""
+citation_stem: "Brady|2023"
+citation_suffix: ""
+citation_key: "Brady_2023"
+citation_short: "Brady, 2023"
 ---
 ## 研究问题
 

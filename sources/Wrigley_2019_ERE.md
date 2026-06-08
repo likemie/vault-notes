@@ -7,9 +7,9 @@ extracted_to:
   - "[[Ray Pawson]]"
   - "[[Roy Bhaskar]]"
   - "[[Critical Realism]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Evidence-Based Education]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
 processed_date: 2026-05-01
 ---
 

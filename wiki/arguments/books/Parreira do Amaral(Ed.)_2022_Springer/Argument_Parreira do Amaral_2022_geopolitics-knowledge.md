@@ -7,7 +7,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: 'Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Springer.'
+citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Springer."
 tags:
 - geopolitics-of-knowledge
 - higher-education
@@ -44,9 +44,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Parreira do Amaral|2022"
+citation_suffix: "a"
+citation_key: "Parreira do Amaral_2022a"
+citation_short: "Parreira do Amaral, 2022a"
 ---
-
 ## 研究问题
 
 > [!question]

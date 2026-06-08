@@ -1,13 +1,13 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
 authors:
-  - "Qvortrup, L"
+  - "[[Lars Qvortrup]]"
 summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Nordic Journal of Studies in Educational Policy
-citation: Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7.
+citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7."
 tags:
 - visible-learning
 - evidence-based-education
@@ -28,7 +28,6 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods: []
 related_persons:
-  - "[[John Hattie]]"
   - "[[Herbert A. Simon]]"
 related_facts: []
 related_arguments: []
@@ -37,7 +36,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Qvortrup|2019"
+citation_suffix: ""
+citation_key: "Qvortrup_2019"
+citation_short: "Qvortrup, 2019"
 ---
 ## 研究问题
 

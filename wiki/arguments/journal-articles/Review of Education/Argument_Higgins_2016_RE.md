@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Review of Education
-citation: 'Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53.'
+citation: "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53."
 tags:
 - meta-analysis
 - meta-synthesis
@@ -60,8 +60,13 @@ part_of: ''
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
+year: 2016
+doi: ""
+citation_stem: "Higgins|2016"
+citation_suffix: ""
+citation_key: "Higgins_2016"
+citation_short: "Higgins, 2016"
 ---
-
 ## 研究问题
 
 > [!question]

@@ -7,7 +7,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: 'Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer.'
+citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer."
 tags:
 - region/eu
 - region/global
@@ -55,9 +55,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Rambla|2022"
+citation_suffix: ""
+citation_key: "Rambla_2022"
+citation_short: "Rambla, 2022"
 ---
-
 # Argument_Rambla_2022_Springer
 
 > [!question]- [[Research Question|研究问题]]

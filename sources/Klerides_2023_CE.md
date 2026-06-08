@@ -15,7 +15,6 @@ extracted_to:
   - "[[International Institute for Educational Planning]]"
   - "[[OECD]]"
   - "[[Dependency Theory]]"
-  - "[[Argument_Klerides_2023_CE]]"
   - "[[Agendas of Attention]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[International Mind]]"
@@ -23,6 +22,7 @@ extracted_to:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Economics of Education Movement]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Argument_Klerides_2023_CE]]"
 processed_date: 2026-06-08
 ---
 

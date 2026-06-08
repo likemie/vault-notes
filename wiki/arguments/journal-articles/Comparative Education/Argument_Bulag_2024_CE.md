@@ -34,14 +34,19 @@ sources:
 part_of:
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: '2026-06-08'
 subtype: journal-article
 publication_type: journal-article
 journal: Comparative Education
 book_title: ""
 issuing_organization: ""
+year: 2024
+doi: ""
+citation_stem: "Bulag|2024"
+citation_suffix: ""
+citation_key: "Bulag_2024"
+citation_short: "Bulag, 2024"
 ---
-
 # Argument_Bulag_2024_CE
 
 

@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75.
+citation: "Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75."
 tags:
 - visible-learning
 - feedback
@@ -33,7 +33,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Fredens|2015"
+citation_suffix: ""
+citation_key: "Fredens_2015"
+citation_short: "Fredens, 2015"
 ---
 ## 研究问题
 

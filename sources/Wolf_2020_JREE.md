@@ -6,8 +6,8 @@ extracted_to:
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Argument_Wolf_2020_JREE]]"
   - "[[Developer Effect]]"
+  - "[[Argument_Wolf_2020_JREE]]"
 processed_date: 2026-05-02
 ---
 

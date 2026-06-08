@@ -1,13 +1,13 @@
 ---
 title: Argument_Rømer_2018
 authors:
-  - "Rømer, T. A"
+  - "[[Thomas Aastrup Rømer]]"
 summary: "以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Philosophy and Theory
-citation: Rømer, T. A. (2018). A critique of John Hattie's theory of Visible Learning. Educational Philosophy and Theory. https://doi.org/10.1080/00131857.2018.1488216
+citation: "Rømer, T. A. (2018). A critique of John Hattie's theory of Visible Learning. Educational Philosophy and Theory. https://doi.org/10.1080/00131857.2018.1488216"
 tags:
 - visible-learning
 - radical-constructivism
@@ -35,8 +35,6 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[John Dewey]]"
-  - "[[Immanuel Kant]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
@@ -45,7 +43,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2018
+doi: ""
+citation_stem: "Rømer|2018"
+citation_suffix: ""
+citation_key: "Rømer_2018"
+citation_short: "Rømer, 2018"
 ---
 ## 研究问题
 

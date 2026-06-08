@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Partnership Continuum]]"
-  - "[[Big Ideas]]"
   - "[[University-Industry Collaboration]]"
   - "[[Further Education]]"
 related_theories: []
@@ -34,9 +33,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-05
-updated: 2026-06-05
+updated: '2026-06-08'
+year: 2012
+doi: ""
+citation_stem: "Southerton|2012"
+citation_suffix: ""
+citation_key: "Southerton_2012"
+citation_short: "Southerton, 2012"
 ---
-
 # Argument_UIDP_2012_PartnershipContinuum
 
 ---
@@ -55,7 +59,7 @@ updated: 2026-06-05
 ## 理论框架
 
 > [!abstract]
-> 报告的[[Big Ideas|核心概念]]框架建立在两个轴上：
+> 报告的核心概念框架建立在两个轴上：
 
 - **五个合作领域**（categories）：学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展——覆盖了大学与企业互动的全部主要维度
 - **三个参与层级**（levels of engagement）：交易（Transaction）→ 协作（Collaboration）→ 联盟（Alliance）——按合作深度和双方承诺程度递进

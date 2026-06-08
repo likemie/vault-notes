@@ -1,13 +1,13 @@
 ---
 title: Argument_Wrigley_2018_BERJ
 authors:
-  - "Wrigley, T"
+  - "[[Terry Wrigley]]"
 summary: "以批判实在论对 EBE 方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（Hattie/Toolkit）的失真，定位 EBE 于新自由主义框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: British Educational Research Journal
-citation: 'Wrigley, T. (2018). The power of ''evidence'': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338'
+citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338"
 tags:
 - evidence-based-education
 - evidence-based-teaching
@@ -38,8 +38,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Quantitative Research]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[ResearchED]]"
@@ -49,7 +48,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2018
+doi: ""
+citation_stem: "Wrigley|2018"
+citation_suffix: ""
+citation_key: "Wrigley_2018"
+citation_short: "Wrigley, 2018"
 ---
 ## 研究问题
 

@@ -7,8 +7,8 @@ extracted_to:
   - "[[Max Weber]]"
   - "[[Institutional Isomorphism]]"
   - "[[Further Education]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Corporate Education]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 processed_date: 2026-05-18
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

@@ -1,14 +1,14 @@
 ---
 title: Argument_Nelson_2017_ER
 authors:
-  - "Nelson, J."
-  - "Campbell, C."
+  - "[[Julie Nelson]]"
+  - "[[Carol Campbell]]"
 summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Research
-citation: 'Nelson, J. & Campbell, C. (2017). Evidence-informed practice in education: meanings and applications. Educational Research, 59(2), 127–135.'
+citation: "Nelson, J. & Campbell, C. (2017). Evidence-informed practice in education: meanings and applications. Educational Research, 59(2), 127–135."
 tags:
 - evidence-informed-practice
 - evidence-based-education
@@ -37,7 +37,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Nelson|2017"
+citation_suffix: ""
+citation_key: "Nelson_2017"
+citation_short: "Nelson, 2017"
 ---
 ## 研究问题
 

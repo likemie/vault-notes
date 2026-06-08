@@ -49,9 +49,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-05-27
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Ulrichsen|2025"
+citation_suffix: ""
+citation_key: "Ulrichsen_2025"
+citation_short: "Ulrichsen, 2025"
 ---
-
 # Argument_Ulrichsen_2025_UIR_Evolution
 
 ## 研究问题

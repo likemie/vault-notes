@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Education & Social Policy
-citation: 'Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97.'
+citation: "Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97."
 tags:
 - visible-learning
 - evidence-based-education
@@ -37,7 +37,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2020
+doi: ""
+citation_stem: "Blass|2020"
+citation_suffix: ""
+citation_key: "Blass_2020"
+citation_short: "Blass, 2020"
 ---
 ## 研究问题
 

@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Behavioral Education
-citation: Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C. (2015). What Works Clearinghouse standards and generalization of single-case design evidence. Journal of Behavioral Education, 24(4), 459–469.
+citation: "Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C. (2015). What Works Clearinghouse standards and generalization of single-case design evidence. Journal of Behavioral Education, 24(4), 459–469."
 tags:
 - single-case-design
 - what-works-clearinghouse
@@ -41,7 +41,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Hitchcock|2015"
+citation_suffix: ""
+citation_key: "Hitchcock_2015"
+citation_short: "Hitchcock, 2015"
 ---
 ## 研究问题
 

@@ -2,13 +2,13 @@
 title: Argument_Bolton_2017_ArchPsych
 authors:
   - "Bolton, S."
-  - "Hattie, J."
+  - "[[John Hattie]]"
 summary: "将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Archives of Psychology
-citation: 'Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3).'
+citation: "Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3)."
 tags:
 - cognitive-development
 - executive-function
@@ -35,7 +35,6 @@ related_methods:
   - "[[Electroencephalography]]"
 related_persons:
   - "[[Jean Piaget]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -43,7 +42,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Bolton|2017"
+citation_suffix: ""
+citation_key: "Bolton_2017"
+citation_short: "Bolton, 2017"
 ---
 ## 研究问题
 

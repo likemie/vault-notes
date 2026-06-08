@@ -11,10 +11,10 @@ extracted_to:
   - "[[Methodological Globalism]]"
   - "[[Methodological Nationalism]]"
   - "[[World-Systems Theory]]"
-  - "[[Argument_Marginson_2025_ROE]]"
   - "[[Multiplicity]]"
   - "[[Doreen Massey]]"
   - "[[Sovereign Internationalism]]"
+  - "[[Argument_Marginson_2025_ROE]]"
 processed_date: 2026-05-12
 ---
 

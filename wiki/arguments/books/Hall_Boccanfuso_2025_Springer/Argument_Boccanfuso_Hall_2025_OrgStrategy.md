@@ -53,12 +53,17 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-05-27
+updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
+year: 2025
+doi: ""
+citation_stem: "Boccanfuso|2025"
+citation_suffix: "b"
+citation_key: "Boccanfuso_2025b"
+citation_short: "Boccanfuso, 2025b"
 ---
-
 # Argument_Boccanfuso_Hall_2025_OrgStrategy
 
 ## 研究问题

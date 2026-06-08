@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: "Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal"
-citation: 'Ryabyy, V. (2024). A horse derby, a missed connection, and hiking through the Alps: John Dewey''s 1928 visit to the Soviet Union. Maneto: The Temple University Multi-Disciplinary Undergraduate Research Journal, 1.1, 102–112.'
+citation: "Ryabyy, V. (2024). A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union. Maneto: The Temple University Multi-Disciplinary Undergraduate Research Journal, 1.1, 102–112."
 tags:
   - theme/progressive-education
   - theme/cultural-diplomacy
@@ -37,9 +37,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+year: 2024
+doi: ""
+citation_stem: "Ryabyy|2024"
+citation_suffix: ""
+citation_key: "Ryabyy_2024"
+citation_short: "Ryabyy, 2024"
 ---
-
 # Argument_Ryabyy_2024_Maneto
 
 

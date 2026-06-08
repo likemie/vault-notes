@@ -9,7 +9,7 @@ type: argument
 subtype: report
 publication_type: report
 issuing_organization: Massey University
-citation: O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University.
+citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
 tags:
 - privatisation
 - philanthropy
@@ -21,7 +21,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Karl Pearson]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Cognition Education]]"
@@ -31,7 +30,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2016
+doi: ""
+citation_stem: "O'Neill|2016"
+citation_suffix: ""
+citation_key: "O'Neill_2016"
+citation_short: "O'Neill, 2016"
 ---
 ## 研究问题
 

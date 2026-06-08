@@ -1,13 +1,13 @@
 ---
 title: Argument_Rizvi_2022_Springer
 authors:
-  - "Rizvi, F"
+  - "[[Fazal Rizvi]]"
 summary: "Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构"
 type: argument
 subtype: book-chapter
 publication_type: book
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: 'Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Springer.'
+citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Springer."
 tags:
 - region/asia
 - region/global
@@ -35,9 +35,7 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[Frantz Fanon]]"
-  - "[[Edmund King]]"
+related_persons: []
 related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[Australia in the Asian Century White Paper]]"
@@ -48,9 +46,14 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Rizvi|2022"
+citation_suffix: ""
+citation_key: "Rizvi_2022"
+citation_short: "Rizvi, 2022"
 ---
-
 # Argument_Rizvi_2022_Springer
 
 ## 研究问题

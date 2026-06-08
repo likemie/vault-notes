@@ -1,13 +1,13 @@
 ---
 title: Argument_Peterson_2016_IJRME
 authors:
-  - "Peterson, A"
+  - "[[Amelia Peterson]]"
 summary: "以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的“什么有效 2.0“整合框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: International Journal of Research & Method in Education
-citation: 'Peterson, A. (2016). Getting ''What Works'' working: building blocks for the integration of experimental and improvement science. International Journal of Research & Method in Education, 39(3), 299–313.'
+citation: "Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and improvement science. International Journal of Research & Method in Education, 39(3), 299–313."
 tags:
 - evidence-based-education
 - mechanism-experiments
@@ -32,6 +32,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Investing in Innovation Program]]"
+  - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
@@ -39,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2016
+doi: ""
+citation_stem: "Peterson|2016"
+citation_suffix: ""
+citation_key: "Peterson_2016"
+citation_short: "Peterson, 2016"
 ---
 ## 研究问题
 

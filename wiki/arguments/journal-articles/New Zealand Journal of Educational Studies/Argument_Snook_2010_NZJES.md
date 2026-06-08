@@ -11,7 +11,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
-citation: 'Snook, I., Clark, J., Harker, R., O''Neill, A. M., & O''Neill, J. (2010). Critic and conscience of society: A reply to John Hattie. New Zealand Journal of Educational Studies, 45(2), 93–98.'
+citation: "Snook, I., Clark, J., Harker, R., O'Neill, A. M., & O'Neill, J. (2010). Critic and conscience of society: A reply to John Hattie. New Zealand Journal of Educational Studies, 45(2), 93–98."
 tags:
 - visible-learning
 - effect-size
@@ -33,9 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
-  - "[[John Dewey]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -43,7 +41,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2010
+doi: ""
+citation_stem: "Snook|2010"
+citation_suffix: ""
+citation_key: "Snook_2010"
+citation_short: "Snook, 2010"
 ---
 ## 研究问题
 

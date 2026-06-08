@@ -1,13 +1,13 @@
 ---
 title: Argument_Hattie_2015_SOTLP
 authors:
-  - "Hattie, J"
+  - "[[John Hattie]]"
 summary: "将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Scholarship of Teaching and Learning in Psychology
-citation: Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91.
+citation: "Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91."
 tags:
 - visible-learning
 - higher-education
@@ -23,8 +23,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -32,7 +31,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Hattie|2015"
+citation_suffix: "b"
+citation_key: "Hattie_2015b"
+citation_short: "Hattie, 2015b"
 ---
 ## 研究问题
 

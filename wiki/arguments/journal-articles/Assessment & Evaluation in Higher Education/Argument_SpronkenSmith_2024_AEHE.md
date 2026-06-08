@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: "Assessment & Evaluation in Higher Education"
-citation: 'Spronken-Smith, R., Brown, K., & Cameron, C. (2024). Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities. Assessment & Evaluation in Higher Education, 49(1), 86–101.'
+citation: "Spronken-Smith, R., Brown, K., & Cameron, C. (2024). Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities. Assessment & Evaluation in Higher Education, 49(1), 86–101."
 tags:
 - global-citizenship
 - graduate-attributes
@@ -30,6 +30,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
 related_theories: []
 related_methods:
+  - "[[Systematic Review]]"
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
   - "[[Mixed Methods Research]]"
@@ -43,9 +44,14 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-26'
-updated: '2026-05-26'
+updated: '2026-06-08'
+year: 2024
+doi: ""
+citation_stem: "Spronken-Smith|2024"
+citation_suffix: ""
+citation_key: "Spronken-Smith_2024"
+citation_short: "Spronken-Smith, 2024"
 ---
-
 ## 研究问题
 
 > [!question] [[Research Question|研究问题]]
@@ -64,7 +70,7 @@ updated: '2026-05-26'
 >
 > **第一层：毕业生特质的定义。** 采用 Bowden et al.（2000）的经典定义——毕业生特质是"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（p.86）。这一定义的关键在于：毕业生特质不仅是"技能"，还包括品质（qualities）和公民维度。
 >
-> **第二层：博士层次的毕业生特质分类。** Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的系统综述将博士毕业生特质整合为十个领域——知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness、积极公民身份——并指出 Vitae 研究员发展框架（RDF）与这些领域的匹配度最高，但在学术声誉和个人资源fulness 方面仍有缺口（p.87）。这一分类为本文提供了博士特质的最新参照系。
+> **第二层：博士层次的毕业生特质分类。** Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的[[Systematic Review|系统综述]]将博士毕业生特质整合为十个领域——知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness、积极公民身份——并指出 Vitae 研究员发展框架（RDF）与这些领域的匹配度最高，但在学术声誉和个人资源fulness 方面仍有缺口（p.87）。这一分类为本文提供了博士特质的最新参照系。
 >
 > **第三层：[[Global Citizenship|全球公民]]素养的操作化。** 本文特别引入两个补充框架：O'Brien（2011）将全球公民素养分解为数字素养（digital literacy，跨媒介与技术沟通）、文化素养（cultural literacy，以同理心和开放性理解多元视角）和社会沟通素养（socio-communicative literacy，跨文化立场协商）；Spronken-Smith（2018）补充了环境素养（environmental literacy，可持续性与环境意识）（p.87）。研究将这四类素养转化为调查问卷的三个 Likert 评分项——环境素养、文化理解、全球视野——纳入 20 项特质清单中。
 

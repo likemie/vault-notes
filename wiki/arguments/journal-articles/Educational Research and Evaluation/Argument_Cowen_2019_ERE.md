@@ -1,13 +1,13 @@
 ---
 title: Argument_Cowen_2019_ERE
 authors:
-  - "Cowen, N"
+  - "[[Nick Cowen]]"
 summary: "以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Educational Research and Evaluation
-citation: 'Cowen, N. (2019). For whom does ''what works'' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. DOI: 10.1080/13803611.2019.1617991'
+citation: "Cowen, N. (2019). For whom does 'what works' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. DOI: 10.1080/13803611.2019.1617991"
 tags:
 - evidence-based-education
 - political-economy
@@ -33,11 +33,13 @@ related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Random Sampling]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[Grammar School]]"
 related_arguments: []
 sources:
@@ -45,7 +47,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2019
+doi: ""
+citation_stem: "Cowen|2019"
+citation_suffix: ""
+citation_key: "Cowen_2019"
+citation_short: "Cowen, 2019"
 ---
 ## 研究问题
 

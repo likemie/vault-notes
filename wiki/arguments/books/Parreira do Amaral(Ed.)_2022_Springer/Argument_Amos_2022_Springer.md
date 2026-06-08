@@ -52,7 +52,6 @@ related_persons:
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
   - "[[John Dewey]]"
-  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"
@@ -64,7 +63,13 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
-updated: 2026-05-18
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Amos|2022"
+citation_suffix: ""
+citation_key: "Amos_2022"
+citation_short: "Amos, 2022"
 ---
 ## 研究问题
 

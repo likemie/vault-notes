@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Review of Education
-citation: 'Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335.'
+citation: "Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335."
 tags:
 - evidence-based-policy
 - selective-education
@@ -27,8 +27,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Carnivalesque Analysis]]"
   - "[[Coding in Qualitative Research]]"
-related_persons:
-  - "[[John Dewey]]"
+related_persons: []
 related_facts:
   - "[[Selective Schools Expansion Fund]]"
   - "[[Grammar School]]"
@@ -39,9 +38,14 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2022
+doi: ""
+citation_stem: "Bainbridge|2022"
+citation_suffix: ""
+citation_key: "Bainbridge_2022"
+citation_short: "Bainbridge, 2022"
 ---
-
 ## 研究问题
 
 英国议会议员在制定选择性教育政策（以 [[Selective Schools Expansion Fund]] 为案例）时如何接触和使用研究证据？为什么关于选择性教育的压倒性研究证据被反复忽视？（Bainbridge et al., 2022, p.2–3）

@@ -1,13 +1,13 @@
 ---
 title: Argument_Hattie_2017_SLM
 authors:
-  - "Hattie, J"
+  - "[[John Hattie]]"
 summary: "Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: School Leadership & Management
-citation: Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430.
+citation: "Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430."
 tags:
 - visible-learning
 - cult-of-the-guru
@@ -24,8 +24,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -33,7 +32,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Hattie|2017"
+citation_suffix: ""
+citation_key: "Hattie_2017"
+citation_short: "Hattie, 2017"
 ---
 ## 研究问题
 

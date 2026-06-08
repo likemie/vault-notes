@@ -7,14 +7,14 @@ authors:
   - "Wilkinson, J."
   - "Gobby, B."
   - "Niesche, R."
-  - "Eacott, S."
+  - "[[Scott Eacott]]"
   - "Mahoney, C."
 summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: International Journal of Leadership in Education
-citation: 'Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C. (2020). The constitution of school autonomy in Australian public education: areas of paradox for social justice. *International Journal of Leadership in Education*. https://doi.org/10.1080/13603124.2020.1781934'
+citation: "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C. (2020). The constitution of school autonomy in Australian public education: areas of paradox for social justice. *International Journal of Leadership in Education*. https://doi.org/10.1080/13603124.2020.1781934"
 tags:
 - school-autonomy
 - social-justice
@@ -37,7 +37,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2020
+doi: ""
+citation_stem: "Keddie|2020"
+citation_suffix: "a"
+citation_key: "Keddie_2020a"
+citation_short: "Keddie, 2020a"
 ---
 ## 研究问题
 

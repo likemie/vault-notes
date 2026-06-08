@@ -1,13 +1,13 @@
 ---
 title: Argument_Simpson_2017_JEP
 authors:
-  - "Simpson, A"
+  - "[[Adrian Simpson]]"
 summary: "以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Education Policy
-citation: 'Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466.'
+citation: "Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466."
 tags:
 - effect-size
 - meta-analysis
@@ -29,9 +29,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Random Sampling]]"
-related_persons:
-  - "[[John Hattie]]"
-  - "[[Robert Marzano]]"
+related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
@@ -41,7 +39,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Simpson|2017"
+citation_suffix: ""
+citation_key: "Simpson_2017"
+citation_short: "Simpson, 2017"
 ---
 ## 研究问题
 

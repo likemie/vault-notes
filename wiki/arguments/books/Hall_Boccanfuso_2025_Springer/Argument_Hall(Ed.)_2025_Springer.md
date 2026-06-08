@@ -108,9 +108,14 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-06-04
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Hall|2025"
+citation_suffix: ""
+citation_key: "Hall_2025"
+citation_short: "Hall, 2025"
 ---
-
 # Argument_Hall(Ed.)_2025_Springer
 
 ## 全书论点

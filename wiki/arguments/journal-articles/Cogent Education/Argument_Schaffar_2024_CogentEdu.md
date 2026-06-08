@@ -9,7 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Cogent Education
-citation: 'Schaffar, B., & Wolff, L.-A. (2024). Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots. Cogent Education, 11(1), 2309733. https://doi.org/10.1080/2331186X.2024.2309733'
+citation: "Schaffar, B., & Wolff, L.-A. (2024). Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots. Cogent Education, 11(1), 2309733. https://doi.org/10.1080/2331186X.2024.2309733"
 tags:
 - phenomenon-based-learning
 - bildung
@@ -31,7 +31,6 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Wolfgang Klafki]]"
-  - "[[John Dewey]]"
 related_facts:
   - "[[SveaSus Project]]"
   - "[[OECD]]"
@@ -41,7 +40,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2024
+doi: ""
+citation_stem: "Schaffar|2024"
+citation_suffix: ""
+citation_key: "Schaffar_2024"
+citation_short: "Schaffar, 2024"
 ---
 ## 研究问题
 

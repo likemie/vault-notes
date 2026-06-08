@@ -2,7 +2,7 @@
 title: Argument_Lekhal_2015_Paideia
 authors:
   - "Lekhal, R."
-  - "Nordahl, T."
+  - "[[Thomas Nordahl]]"
   - "Aasen, A. M."
   - "Drugli, M. B."
 summary: "挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成"
@@ -10,7 +10,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Paideia
-citation: Lekhal, R., Nordahl, T., Aasen, A. M., & Drugli, M. B. (2015). Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold. Paideia, 9, 76-86.
+citation: "Lekhal, R., Nordahl, T., Aasen, A. M., & Drugli, M. B. (2015). Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold. Paideia, 9, 76-86."
 tags:
 - gender
 - academic-achievement
@@ -45,7 +45,13 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-08'
+year: 2015
+doi: ""
+citation_stem: "Lekhal|2015"
+citation_suffix: ""
+citation_key: "Lekhal_2015"
+citation_short: "Lekhal, 2015"
 ---
 ## 研究问题
 

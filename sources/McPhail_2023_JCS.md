@@ -16,9 +16,9 @@ extracted_to:
   - "[[Johan Muller]]"
   - "[[Michael Young]]"
   - "[[Outcomes-based Education]]"
-  - "[[Argument_McPhail_2023_JCS]]"
   - "[[Recontextualization]]"
   - "[[Social Realism]]"
+  - "[[Argument_McPhail_2023_JCS]]"
 processed_date: 2026-06-07
 ---
 

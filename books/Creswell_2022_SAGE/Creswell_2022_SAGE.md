@@ -123,8 +123,8 @@ extracted_to:
   - "[[Julian B. Rotter]]"
   - "[[Robert E. Stake]]"
   - "[[Social Learning Theory]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Case Study]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 

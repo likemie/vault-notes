@@ -48,9 +48,7 @@ related_theories:
   - "[[Neo-feudalism in Higher Education]]"
 related_methods:
   - "[[Qualitative Interview]]"
-related_persons:
-  - "[[Pierre Bourdieu]]"
-  - "[[Bertrand Russell]]"
+related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Academic Ranking of World Universities]]"
@@ -64,9 +62,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: '2026-06-08'
+year: 2017
+doi: ""
+citation_stem: "Schulze-Cleven|2017"
+citation_suffix: ""
+citation_key: "Schulze-Cleven_2017"
+citation_short: "Schulze-Cleven, 2017"
 ---
-
 # Argument_Schulze-Cleven_2017_HighEduc
 
 ---

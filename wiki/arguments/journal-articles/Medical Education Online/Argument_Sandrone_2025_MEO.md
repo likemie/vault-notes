@@ -7,7 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Medical Education Online
-citation: 'Sandrone, S. (2025). Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees. Medical Education Online, 30(1), 2509554.'
+citation: "Sandrone, S. (2025). Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees. Medical Education Online, 30(1), 2509554."
 tags:
   - theme/medical-education
   - theme/science-education
@@ -28,9 +28,14 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+year: 2025
+doi: ""
+citation_stem: "Sandrone|2025"
+citation_suffix: ""
+citation_key: "Sandrone_2025"
+citation_short: "Sandrone, 2025"
 ---
-
 # Argument_Sandrone_2025_MEO
 
 ---

@@ -18,9 +18,9 @@ extracted_to:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Technology Infusion]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
 processed_date: 2026-05-23
 ---
 
