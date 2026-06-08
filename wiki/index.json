@@ -569,6 +569,17 @@
     ]
   },
   {
+    "title": "Revolutionism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Revolutionism.md",
+    "aliases": [
+      "革命主义",
+      "revolutionist tradition",
+      "Kantian tradition",
+      "康德传统"
+    ]
+  },
+  {
     "title": "Shape-Shifting",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Shape-Shifting.md",
@@ -3666,6 +3677,17 @@
     ]
   },
   {
+    "title": "Re-Westernisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Re-Westernisation.md",
+    "aliases": [
+      "再西方化",
+      "rewesternisation",
+      "dewesternisation",
+      "去西方化"
+    ]
+  },
+  {
     "title": "Regulatory Regionalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md",
@@ -5434,7 +5456,8 @@
     "aliases": [
       "行动者网络理论",
       "ANT",
-      "actor-network theory"
+      "actor-network theory",
+      "多行动者分析"
     ]
   },
   {
@@ -9914,6 +9937,16 @@
     ]
   },
   {
+    "title": "Comparative Education Center at Chicago 1958",
+    "type": "fact",
+    "path": "wiki/facts/us/Comparative Education Center at Chicago 1958.md",
+    "aliases": [
+      "芝加哥大学比较教育中心",
+      "Comparative Education Center",
+      "Chicago Comparative Education Center"
+    ]
+  },
+  {
     "title": "Creation of REES",
     "type": "fact",
     "path": "wiki/facts/us/Creation of REES.md",
@@ -9930,6 +9963,15 @@
       "Daubert v Merrell Dow Pharmaceuticals",
       "道伯特诉默雷尔道制药案",
       "Daubert案"
+    ]
+  },
+  {
+    "title": "Economics of Education Movement",
+    "type": "fact",
+    "path": "wiki/facts/us/Economics of Education Movement.md",
+    "aliases": [
+      "教育经济学运动",
+      "economics of education"
     ]
   },
   {
@@ -10176,7 +10218,8 @@
     "path": "wiki/facts/us/Sputnik Shock 1957.md",
     "aliases": [
       "Sputnik Shock",
-      "斯普特尼克冲击"
+      "斯普特尼克冲击",
+      "Sputnik"
     ]
   },
   {

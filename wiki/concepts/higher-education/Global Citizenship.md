@@ -19,7 +19,8 @@ related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Reflexivity]]"
   - "[[Student-Teacher Relationship]]"
-related_theories: []
+related_theories:
+  - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
   - "[[Systematic Review]]"
 related_persons: []
@@ -132,7 +133,7 @@ Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球�
 - Porter（2021）提出通过与外部合作伙伴的高影响力培训机会来培养全球公民属性，但坦承这需要资源配置和"导师文化的转变"（引自 Spronken-Smith et al., 2024, p.97）
 
 ### 比较教育中的概念争议
-Klerides（2023）从国际关系理论角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象（Klerides, 2023, pp.425–426）。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
+Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象（Klerides, 2023, pp.425–426）。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
 
 在革命主义视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念（Klerides, 2023, p.429）。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的再西方化（re-Westernisation）。
 
