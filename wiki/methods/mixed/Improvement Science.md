@@ -21,6 +21,7 @@ related_methods:
   - "[[Mechanism Experiments]]"
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -96,7 +97,7 @@ updated: '2026-05-18'
 >
 > > "When teachers are involved in ongoing inquiry work, they are more likely to find out about new evidence and to incorporate into their practice in an ongoing way." (Peterson, 2016, p. 306)
 >
-> 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）。OECD (2015) 特别强调探究螺旋支持新学习和教学方法规模化实施的能力。
+> 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）。[[OECD]] (2015) 特别强调探究螺旋支持新学习和教学方法规模化实施的能力。
 
 ## 与相关概念的区别
 
@@ -109,7 +110,7 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > - 在美国，改进科学在教育中的系统性应用仍处于早期阶段，主要通过 Carnegie Foundation 推进（Peterson, 2016, p. 306）
 > - [[Spirals of Inquiry|探究螺旋]]模型已通过新西兰和加拿大不列颠哥伦比亚省的实证研究获得支持（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
-> - OECD (2015) 在 *Schooling Redesigned* 报告中正式推广探究螺旋作为支持创新学习系统规模化的方法
+> - [[OECD]] (2015) 在 *Schooling Redesigned* 报告中正式推广探究螺旋作为支持创新学习系统规模化的方法
 > - Peterson (2016) 的论证主要是**概念性和方法论性的**——改进科学与实验科学的整合效果尚未经过大规模实证检验
 
 ## 争议与批评

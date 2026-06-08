@@ -26,6 +26,7 @@ related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
+  - "[[OECD]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
@@ -41,14 +42,14 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> INES（International Indicators of Education Systems / Project for International Indicators of Education Systems）是 OECD 于 1988 年从 CERI（Centre for Educational Research and Innovation）中独立出来的项目，旨在开发一套严谨的[[International Education|国际教育]]指标体系，供成员国使用。由 [[Norberto Bottani]] 自创立至 1997 年领导了近十年（Gorur, 2014, p.5, 8）。
+> INES（International Indicators of Education Systems / Project for International Indicators of Education Systems）是 [[OECD]] 于 1988 年从 CERI（Centre for Educational Research and Innovation）中独立出来的项目，旨在开发一套严谨的[[International Education|国际教育]]指标体系，供成员国使用。由 [[Norberto Bottani]] 自创立至 1997 年领导了近十年（Gorur, 2014, p.5, 8）。
 >
 > > "to gather, process, improve, and report statistics and indicators on education and related fields"（Bottani, 1996, p.279; Gorur, 2014, p.8）
 
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1970s**：OECD 首次尝试开发[[Performance Indicators|教育指标]]，1973 年发布 *A System of Education Indicators to Guide Public Policy Decisions*，但因概念难题（内部因素与外部因素无法分解）而失败，专家工作组放弃了理论模型，转向以可用性为导向的经验方法，但指标从未被实际计算（Gorur, 2014, p.10）
+> - **1970s**：[[OECD]] 首次尝试开发[[Performance Indicators|教育指标]]，1973 年发布 *A System of Education Indicators to Guide Public Policy Decisions*，但因概念难题（内部因素与外部因素无法分解）而失败，专家工作组放弃了理论模型，转向以可用性为导向的经验方法，但指标从未被实际计算（Gorur, 2014, p.10）
 > - **1983**：*[[A Nation at Risk 1983|A Nation at Risk]]* 引发教育质量恐慌，重新点燃对国际指标的兴趣（Gorur, 2014, p.8, 10）
 > - **1987**：华盛顿会议（22 成员国 + 专家），明确国际基准比较已成为"提升教育质量的组成部分"（Bottani & Walberg, 1992, p.7; Gorur, 2014, p.8）
 > - **1988**：INES 正式启动（Gorur, 2014, p.8）
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 组织架构
-> - 由 CERI 扩展而来，隶属于 OECD（Gorur, 2014, p.8）
+> - 由 CERI 扩展而来，隶属于 [[OECD]]（Gorur, 2014, p.8）
 > - 包含多个志愿网络（Networks），分别承担不同任务（Gorur, 2014, p.9）
 > - 网络运作类似"俱乐部"——定期会面形成群体认同，提高效率但可能导致决策忽视更广泛利益（Bottani, 1998, p.73; Gorur, 2014, p.16）
 
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs **[[Education at a Glance]]** — INES 是开发指标的项目/组织，EAG 是 INES 的年度出版物/产品
-> - vs **[[PISA]]** — 两者同属 OECD [[Performance Indicators|教育指标]]体系，但 PISA 是学生成绩测试项目，INES 更早且覆盖更全面的教育系统层面指标；PISA 继承了 INES 在心理测量学的关注（Gorur, 2014, p.5）
+> - vs **[[PISA]]** — 两者同属 [[OECD]] [[Performance Indicators|教育指标]]体系，但 PISA 是学生成绩测试项目，INES 更早且覆盖更全面的教育系统层面指标；PISA 继承了 INES 在心理测量学的关注（Gorur, 2014, p.5）
 > - vs **CERI** — CERI 是 OECD 教育研究与[[Innovation Hub|创新中心]]（1968 年创立），INES 从 CERI 中生长出来但具有独立的指标开发使命（Gorur, 2014, p.8）
 
 ## 理论基础

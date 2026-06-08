@@ -28,6 +28,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[SveaSus Project]]"
 related_arguments: []
 sources:
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 芬兰基础教育国家核心课程 2014 将跨学科教育和 [[Phenomenon-Based Learning]] 纳入课程框架。这一改革处在两条历史脉络交汇处：一方面，芬兰教育长期受 [[Bildung]]、[[Didaktik]]、[[Phenomenology]] 与 [[Radical Constructivism]] 影响；另一方面，1990 年代以后，OECD、EU、21 世纪技能、横向能力和经济竞争话语逐步进入芬兰课程政策（Schaffar & Wolff, 2024, pp.2, 8-9）。
+> 芬兰基础教育国家核心课程 2014 将跨学科教育和 [[Phenomenon-Based Learning]] 纳入课程框架。这一改革处在两条历史脉络交汇处：一方面，芬兰教育长期受 [[Bildung]]、[[Didaktik]]、[[Phenomenology]] 与 [[Radical Constructivism]] 影响；另一方面，1990 年代以后，[[OECD]]、EU、21 世纪技能、横向能力和经济竞争话语逐步进入芬兰课程政策（Schaffar & Wolff, 2024, pp.2, 8-9）。
 >
 > 芬兰教育政策原本嵌入北欧福利国家传统，强调民主、团结、平等，以及全民基础教育、医疗、养老金、失业保障和高等教育支持等共享制度。1990 年代苏联解体后，芬兰经历严重经济衰退，政策话语开始把国家未来描绘为"信息社会"，并积极吸收 OECD 关于劳动力市场变化和教育现代化的政策语言（Schaffar & Wolff, 2024, p.8）。
 >
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 > [[Phenomenon-Based Learning]] 在课程中的政策功能主要有三层：
 > - **连接学生经验**：学习主题应与学生的邻近环境和生活经验相连，以释放学生能动性（Schaffar & Wolff, 2024, p.2）。
 > - **回应复杂问题**：跨学科取向被视为面对不平等、气候变化、污染、疫情、不安全、暴力和营养不良等纠缠性问题的教育回应，这与 [[Epochal Key Problems]] 的课程组织思路相通（Schaffar & Wolff, 2024, pp.1, 6-7）。
-> - **服务横向能力话语**：PhBL 与 OECD 的 21 世纪技能、transversal knowledge 以及 EU 教育经济政策相呼应（Schaffar & Wolff, 2024, p.9）。
+> - **服务横向能力话语**：PhBL 与 [[OECD]] 的 21 世纪技能、transversal knowledge 以及 EU 教育经济政策相呼应（Schaffar & Wolff, 2024, p.9）。
 
 ## 时间线
 

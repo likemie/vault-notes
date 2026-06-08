@@ -43,6 +43,7 @@ related_persons:
   - "[[Michael Young]]"
   - "[[Johan Muller]]"
 related_facts:
+  - "[[OECD]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
   - "[[The New Zealand Curriculum]]"
 related_arguments: []
@@ -61,7 +62,7 @@ updated: 2026-06-06
 ## 研究问题
 
 > [!question]
-> **国际背景**：多个国家的课程发展出现了对学科知识的新强调，如挪威（Bratland & El Ghami, 2022）、瑞典（Adolfsson, 2018）、英格兰（Spielman, 2018）和南非（Hoadley, 2018）。OECD 2030 学习指南也包含了关于知识的讨论，与之前倡导通用技能和能力的报告形成鲜明对比。OECD 文件指出：「学科知识……继续是理解的基本基础……获得学科知识的机会也是公平的基础」（OECD, 2019）。
+> **国际背景**：多个国家的课程发展出现了对学科知识的新强调，如挪威（Bratland & El Ghami, 2022）、瑞典（Adolfsson, 2018）、英格兰（Spielman, 2018）和南非（Hoadley, 2018）。[[OECD]] 2030 学习指南也包含了关于知识的讨论，与之前倡导通用技能和能力的报告形成鲜明对比。OECD 文件指出：「学科知识……继续是理解的基本基础……获得学科知识的机会也是公平的基础」（OECD, 2019）。
 >
 > **新西兰契机**：
 > - 2019 年新西兰历史教师协会向政府递交「给我历史！」（Give me my History!）请愿书，时任总理阿德恩表示支持

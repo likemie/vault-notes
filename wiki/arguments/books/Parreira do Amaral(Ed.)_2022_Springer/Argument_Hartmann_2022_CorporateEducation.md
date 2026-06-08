@@ -23,7 +23,8 @@ related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Ch11_Hartmann_2022]]"
@@ -241,7 +242,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 > [!info]- 核心数据
 > - 2016 年 EU 25–64 岁教育培训参与率 > 40%（Eurostat, cited in Hartmann, 2022, p.179）
 > - 全球前 100 大 MNCs 雇佣超过 1700 万员工（2015），较 2014 年增长 9.4%（UNCTAD, 2016, cited in Hartmann, 2022, p.181）
-> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（OECD, 2018, cited in Hartmann, 2022, p.181）
+> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（[[OECD]], 2018, cited in Hartmann, 2022, p.181）
 > - EU 三分之一至三分之二的企业培训使用外部提供商（Eurostat, cited in Hartmann, 2022, p.190）
 > - Skillsoft：500,000+ 课程，2017 年月访问量 1.3 亿+，覆盖 160 国、29 种语言（p.190）
 > - 全球前十大公开上市高科技公司中八家位于美国，无一家位于欧洲（Foroohar, 2021, cited in Hartmann, 2022, p.193）

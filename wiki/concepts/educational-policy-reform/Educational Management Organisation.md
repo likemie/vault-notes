@@ -21,6 +21,7 @@ related_persons:
   - "[[Karl Pearson]]"
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
+  - "[[OECD]]"
   - "[[Cognition Education]]"
 related_arguments: []
 sources:
@@ -73,7 +74,7 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 
 新西兰在国际比较中呈现"高公共支出 + 高私人支出"的双重特征（O'Neill et al., 2016, pp.20–21）：
 
-- 公共支出：OECD 排名第五，占 GDP 4.2%（小学至非高等教育）；占总公共支出比例排名第二（13.2%）
+- 公共支出：[[OECD]] 排名第五，占 GDP 4.2%（小学至非高等教育）；占总公共支出比例排名第二（13.2%）
 - 私人支出：与智利并列 OECD 最高，占 GDP 0.8%（小学至非高等教育）
 - 私人补习或"影子教育"（Bray 2007）在全球蓬勃发展，被声称显著解释教育结果不平等的差异
 - 新西兰的私营补习公司和加盟连锁（如 Kip McGrath Education Centres、NumberWorks'nWords、MathZwize、InspirationEducation）正迅速增长，不接受政府直接补贴（O'Neill et al., 2016, p.21）

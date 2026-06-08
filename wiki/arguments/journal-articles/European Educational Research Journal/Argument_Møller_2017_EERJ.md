@@ -26,6 +26,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[PISA]]"
   - "[[Education at a Glance]]"
 related_arguments: []
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：基于作者参与 ISSPP（自 2002 年）和 OECD ISL 项目的**亲历者反思**（participant-observer reflection），结合[[Literature Review|文献综述]]和批判性分析
+> - **方法**：基于作者参与 ISSPP（自 2002 年）和 [[OECD]] ISL 项目的**亲历者反思**（participant-observer reflection），结合[[Literature Review|文献综述]]和批判性分析
 > - **数据来源**：ISSPP 在 20+ 个国家的案例研究、OECD ISL 项目报告、LE@DS 研究网络发现
 > - **性质**：定位为 ECER Keynote 论文（在 2016 年欧洲教育研究会议上发表），兼具综述、方法论反思和研究议程提案功能
 
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > Møller 的论证分三步推进（Møller, 2017）：
 >
-> **1. 诊断：OECD 主导的研究议程存在去政治化问题**
+> **1. 诊断：[[OECD]] 主导的研究议程存在去政治化问题**
 >
 > OECD 的 ISL 项目将[[School Leadership|学校领导力]]呈现为去政治化的"最佳实践"，但：
 > - 表面上政治中立的模型仍然是政治化的（p.377）
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **OECD 的两面性**：OECD 同时推广分布式领导的"专业共同体"话语和[[New Public Management|新公共管理]]的"外部控制"话语，二者并行运作构成悖论（p.377）
+> 1. **[[OECD]] 的两面性**：OECD 同时推广分布式领导的"专业共同体"话语和[[New Public Management|新公共管理]]的"外部控制"话语，二者并行运作构成悖论（p.377）
 >
 > 2. **ISSPP 的共同主题**：跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺（p.380）。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"（p.380）
 >
@@ -124,7 +125,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文主要基于作者个人参与 ISSPP 和 OECD ISL 项目的反思，依赖单一研究者视角
+> - 论文主要基于作者个人参与 ISSPP 和 [[OECD]] ISL 项目的反思，依赖单一研究者视角
 > - 对 ISSPP 方法论的批判虽然有力，但未提出具体的替代性研究设计方案
 > - "[[Transformative Leadership|变革型领导力]]"框架本身的操作化仍不清晰
 > - 论文定位为 Keynote 演讲性质，论证的展开深度有限（全文约 10 页）

@@ -31,6 +31,7 @@ related_persons:
 related_facts:
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Schaffar_2024_CogentEdu]]"
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 
 > [!warning] 整体教育理想与可测量政策逻辑的冲突
 > - **整体教育立场**：PhBL 的哲学根源要求教育面向开放未来、生活世界、具身经验、共同责任和难以预先规定的意义生成（Schaffar & Wolff, 2024, pp.3, 11）。
-> - **政策治理压力**：芬兰课程改革同时受到 OECD、EU、21 世纪技能和横向能力话语影响；这些全球政策逻辑强化可测量结果、问责和经济竞争，反而可能造成 [[Atomisation of Knowledge and Skills]]（Schaffar & Wolff, 2024, pp.8-10）。
+> - **政策治理压力**：芬兰课程改革同时受到 [[OECD]]、EU、21 世纪技能和横向能力话语影响；这些全球政策逻辑强化可测量结果、问责和经济竞争，反而可能造成 [[Atomisation of Knowledge and Skills]]（Schaffar & Wolff, 2024, pp.8-10）。
 >
 > PhBL 既不是救世方案，也不是可快速移植的方法；它更适合作为一种教学工具和反思入口，帮助学校重新追问当代教育的意义（Schaffar & Wolff, 2024, p.11）。
 

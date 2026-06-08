@@ -19,6 +19,8 @@ related_persons:
 related_arguments: []
 sources:
   - "[[Møller_2017_EERJ]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -35,7 +37,7 @@ updated: '2026-05-19'
 > [!info] 核心思想
 > Shields 的[[Transformative Leadership|变革型领导力]]框架的核心是**以权力为调查的起点**（power is a starting point for the investigation），而非将领导力视为去政治化的组织管理技术（Møller, 2017, p.381）。
 >
-> Shields 对当前教育政策中的平等（equality）与公平（equity）区分提出警告：OECD 式的政策允许教育者"专注于平等和统一性，而排斥差异性、公平和社会正义"（Møller, 2017, p.377, citing Shields, 2015）。
+> Shields 对当前教育政策中的平等（equality）与公平（equity）区分提出警告：[[OECD]] 式的政策允许教育者"专注于平等和统一性，而排斥差异性、公平和社会正义"（Møller, 2017, p.377, citing Shields, 2015）。
 >
 > 她还批评[[School Leadership|学校领导力]]研究中基本领导实践（如设定方向、改进组织）的定义模糊——虽然人们容易同意每种实践都是必要的，但"这在日常实践中意味着什么并不总是一目了然"（Møller, 2017, p.380, citing Shields, 2015）。
 

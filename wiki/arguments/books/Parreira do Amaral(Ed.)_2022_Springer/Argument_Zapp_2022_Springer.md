@@ -39,6 +39,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Research Excellence Framework]]"
@@ -87,7 +88,7 @@ updated: '2026-05-18'
 
 Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全球[[Knowledge-Based Economy|知识经济]]"（global knowledge economy）话语无处不在——媒体、政策制定者、国际组织都在说：知识是二十一世纪经济的核心驱动力，而大学是生产知识的"超级工厂"（p.143）。但 Zapp 指出，**这个经济叙事有一个盲区：它只看到大学为经济服务（培养人力资本、产生专利、驱动创新），却没有看到大学同时也在经历一场政治性的身份转型**——大学正在悄悄地变成全球治理的行动者（p.143）。
 
-> 例：想象一个典型的政策讨论场景：政府投资建设"大学科技园"、经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）发布"[[Education at a Glance|教育概览]]"比较各国高教投入、世界银行说"知识投资比物理投资更重要"。在这些讨论里，大学被框定为"经济引擎"。但 Zapp 追问：大学除了帮国家赚钱，还在帮谁做事？他的答案是——大学正在帮"全世界"解决没有国界的问题：气候变化、传染病、贫困、不平等。
+> 例：想象一个典型的政策讨论场景：政府投资建设"大学科技园"、[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）发布"[[Education at a Glance|教育概览]]"比较各国高教投入、世界银行说"知识投资比物理投资更重要"。在这些讨论里，大学被框定为"经济引擎"。但 Zapp 追问：大学除了帮国家赚钱，还在帮谁做事？他的答案是——大学正在帮"全世界"解决没有国界的问题：气候变化、传染病、贫困、不平等。
 
 ### 第二步：全球治理研究的知识转向
 

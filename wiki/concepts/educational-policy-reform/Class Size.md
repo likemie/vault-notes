@@ -34,6 +34,7 @@ related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Snook_2009_NZJES]]"
@@ -179,7 +180,7 @@ Johnson & Janzen 指出，Hattie 在不同文本中使用的班级规模[[Meta-a
 
 ### 政策误用
 
-[[Treasury Briefing on Student-Teacher Ratios]] 显示，班级规模证据容易在财政紧缩语境中被选择性使用。O'Neill 指出，Treasury 用“教学质量是最大校内影响因素”的说法支持提高生师比，却忽略 Hattie 原文关于增加班级规模是糟糕政策的警告，也忽略新西兰中小学生师比已高于 OECD 均值（O'Neill, 2012, pp.153, 157-159）。
+[[Treasury Briefing on Student-Teacher Ratios]] 显示，班级规模证据容易在财政紧缩语境中被选择性使用。O'Neill 指出，Treasury 用“教学质量是最大校内影响因素”的说法支持提高生师比，却忽略 Hattie 原文关于增加班级规模是糟糕政策的警告，也忽略新西兰中小学生师比已高于 [[OECD]] 均值（O'Neill, 2012, pp.153, 157-159）。
 
 > [!note]- Treasury 案例中的三类[[Material Fallacies|实质谬误]]
 > - 术语模糊：简报中的“教学质量”没有对应到 Hattie 证据中适用于中小学政策的清晰定义（O'Neill, 2012, pp.153-155）。

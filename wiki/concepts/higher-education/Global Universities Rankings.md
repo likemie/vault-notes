@@ -36,6 +36,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Research Excellence Framework]]"
   - "[[OECD AHELO Project]]"
+  - "[[OECD]]"
   - "[[University of Kentucky Top-20 Plan]]"
 related_arguments: []
 sources:
@@ -230,7 +231,7 @@ Amsler & Bolsmann（2012, p.286）将排名定义为"一个强大的象征性和
 
 > [!example]
 > - [[Academic Ranking of World Universities]] — 2003 年首个全球大学排名
-> - [[OECD AHELO Project]] — OECD 试图建立全球 HE 学习成果统一测量的失败尝试
+> - [[OECD AHELO Project]] — [[OECD]] 试图建立全球 HE 学习成果统一测量的失败尝试
 > - [[University of Kentucky Top-20 Plan]] — 排名驱动型大学战略转型的美国案例
 
 ---

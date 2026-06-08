@@ -31,6 +31,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[John Locke]]"
 related_facts:
+  - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 > - Knorr Cetina (1999) 提出[[Knowledge Production|知识生产]]的"生产性"（productive）特征（Gorur, 2014, p.7）
 > - Mitchell (2002) 提出"赋予可计算性的特征"（investing a character of calculability）本身改变世界（Gorur, 2014, p.17）
 > - Law (2009a) 进一步将 performativity 发展为 [[Science and Technology Studies|STS]] 的核心分析概念（Gorur, 2014, p.7）
-> - Gorur (2014) 将 performativity 概念系统应用于 OECD [[International Education|国际教育]]指标分析（Gorur, 2014）
+> - Gorur (2014) 将 performativity 概念系统应用于 [[OECD]] [[International Education|国际教育]]指标分析（Gorur, 2014）
 
 ## 核心要素
 
@@ -102,7 +103,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> OECD 指标的 performativity 表现在多个层面（Gorur, 2014）：
+> [[OECD]] 指标的 performativity 表现在多个层面（Gorur, 2014）：
 > - 指标成为政策制定者、媒体、公众理解教育的默认框架
 > - 各国基于比较排名调整政策，即使排名基于充满妥协的数据
 > - 指标删除遭遇强烈抵制（"它就像圣经"——OECD 官员访谈，Gorur, 2014, p.17）
@@ -191,7 +192,7 @@ updated: '2026-05-18'
 > - [[Visible Learning]] — McKnight & Whitburn (2020) 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 performativity 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
-> - [[Education at a Glance]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界
+> - [[Education at a Glance]] — Gorur (2014) 的核心案例，[[OECD]] 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体
 

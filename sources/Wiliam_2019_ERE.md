@@ -9,12 +9,12 @@ extracted_to:
   - "[[What Works Clearinghouse]]"
   - "[[Dylan Wiliam]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
-  - "[[Class Size]]"
   - "[[Adrian Simpson]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01
 ---

@@ -6,16 +6,16 @@ extracted_to:
   - "[[Scientism]]"
   - "[[Global Education Reform Movement]]"
   - "[[Cargo Cult Science]]"
-  - "[[Performativity of Measurement]]"
   - "[[Cognition Education]]"
   - "[[Tomorrow's Schools Reforms]]"
-  - "[[Class Size]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Class Size]]"
+  - "[[Performativity of Measurement]]"
 processed_date: 2026-05-04
 ---
 

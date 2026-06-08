@@ -11,10 +11,10 @@ extracted_to:
   - "[[Use-Inspired Basic Research]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[Knowledge-Based Economization]]"
   - "[[Transformative Change]]"
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
+  - "[[Knowledge-Based Economization]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

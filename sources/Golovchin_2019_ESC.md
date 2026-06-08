@@ -3,11 +3,11 @@ citation: "Golovchin M.A. (2019). What kind of teacher does the 'school of the f
 extracted_to:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Russian Translation of Visible Learning]]"
-  - "[[Policy Borrowing]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
+  - "[[Policy Borrowing]]"
 processed_date: 2026-05-02
 ---
 

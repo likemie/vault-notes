@@ -18,6 +18,8 @@ related_persons: []
 related_arguments: []
 sources:
   - "[[Møller_2017_EERJ]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -59,7 +61,7 @@ updated: '2026-05-19'
 
 > [!note-] 思想发展与影响
 > - ISSPP 项目持续扩展到新国家，形成了迄今为止最全面的跨国[[School Leadership|学校领导力]]研究网络
-> - 影响了 OECD 将学校领导力列为教育政策优先议程的方向
+> - 影响了 [[OECD]] 将学校领导力列为教育政策优先议程的方向
 > - Møller（2017）在肯定 ISSPP 贡献的同时也提出方法论反思，指出其对社会权力结构分析的不足
 
 ## 来源

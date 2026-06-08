@@ -28,6 +28,7 @@ related_methods:
   - "[[Qualitative Documents]]"
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
 related_arguments: []
@@ -90,7 +91,7 @@ issuing_organization: ""
 - **海湾君主国**（沙特、卡塔尔、阿联酋）：依靠自然资源财富进行市场自由化和基础设施扩张，而非政治制度建设（Hvidt, 2011）
 - **新加坡**：不追求更具包容性的社会政治制度，而是集中发展"知识制度"（大学、公共研究机构、企业实验室），并创造了"教育枢纽"这一术语来描述自身路径（Koh, 2006, p.144）
 
-由此建立核心悖论：教育枢纽路径**绕开**国际组织推广的制度建设路径，却获得同一发展界的背书——British Council、OECD 等将实施教育枢纽的国家评为"经济和社会进步"国家（British Council, 2013; OECD IMHE, 2014）（p.200）。
+由此建立核心悖论：教育枢纽路径**绕开**国际组织推广的制度建设路径，却获得同一发展界的背书——British Council、[[OECD]] 等将实施教育枢纽的国家评为"经济和社会进步"国家（British Council, 2013; OECD IMHE, 2014）（p.200）。
 
 ### 步骤一：现有研究的肯定性框架与视角局限
 

@@ -12,12 +12,12 @@ extracted_to:
   - "[[Stephen Ball]]"
   - "[[Network Governance]]"
   - "[[Argument_ONeill_2016_Report]]"
-  - "[[Educational Management Organisation]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
   - "[[Visible Learning]]"
+  - "[[Educational Management Organisation]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
 processed_date: 2026-05-04
 ---
 

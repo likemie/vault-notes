@@ -8,13 +8,13 @@ extracted_to:
   - "[[Hegemony]]"
   - "[[Power-Geometries]]"
   - "[[Radical Liberal Internationalism]]"
-  - "[[Sovereign Internationalism]]"
   - "[[Methodological Globalism]]"
   - "[[Methodological Nationalism]]"
   - "[[World-Systems Theory]]"
   - "[[Argument_Marginson_2025_ROE]]"
   - "[[Multiplicity]]"
   - "[[Doreen Massey]]"
+  - "[[Sovereign Internationalism]]"
 processed_date: 2026-05-12
 ---
 

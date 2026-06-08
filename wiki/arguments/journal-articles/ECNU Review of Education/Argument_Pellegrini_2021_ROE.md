@@ -46,6 +46,7 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
+  - "[[OECD]]"
   - "[[EU Key Competences for Lifelong Learning]]"
 related_arguments: []
 sources:
@@ -112,7 +113,7 @@ updated: 2026-05-23
 
 ### 第四步：经费问题不是总量不足，而是分配和目标需要重排
 
-10. 欧洲教育公共支出总体接近 OECD 平均，但成员国内部差异很大。EU-22 从小学到高等教育平均每生年支出 USD 10,555，成员国之间从希腊 USD 5,470 到卢森堡 USD 22,430 差距明显（Pellegrini & Vivanet, 2021, p.37）。
+10. 欧洲教育公共支出总体接近 [[OECD]] 平均，但成员国内部差异很大。EU-22 从小学到高等教育平均每生年支出 USD 10,555，成员国之间从希腊 USD 5,470 到卢森堡 USD 22,430 差距明显（Pellegrini & Vivanet, 2021, p.37）。
 11. 因此，文章并不把主要建议写成“总体大幅增加教育开支”，而是强调在成员国之间再平衡资源，并把投资更明确地投向严谨教育研究、校长和教师专业发展、指导材料、有效项目和评估工具（Pellegrini & Vivanet, 2021, pp.37-39）。
 
 ### 第五步：关键能力改革放大了证据本位政策的难度
@@ -128,7 +129,7 @@ updated: 2026-05-23
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线（Pellegrini & Vivanet, 2021, p.26）。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF 和 TLIF 等机制体现了研究生成、知识中介和政策资助之间的连接（Pellegrini & Vivanet, 2021, pp.31-33）。
 > 4. 欧洲证据使用面临[[External Validity|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响（Pellegrini & Vivanet, 2021, p.36）。
-> 5. 欧洲教育支出总体接近 OECD 和美国平均水平，关键不是单纯提高总支出，而是面向成员国差异再平衡资源，并把投资导向研究、专业发展和支持工具（Pellegrini & Vivanet, 2021, pp.37-39）。
+> 5. 欧洲教育支出总体接近 [[OECD]] 和美国平均水平，关键不是单纯提高总支出，而是面向成员国差异再平衡资源，并把投资导向研究、专业发展和支持工具（Pellegrini & Vivanet, 2021, pp.37-39）。
 > 6. [[21st Century Skills and Competencies Discourse|关键能力]]课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现（Pellegrini & Vivanet, 2021, pp.39-41）。
 
 > [!info]- 核心数据

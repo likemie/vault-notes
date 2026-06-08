@@ -25,6 +25,7 @@ related_persons:
   - "[[Max Weber]]"
 related_facts:
   - "[[German Dual Education System]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources:
@@ -97,7 +98,7 @@ updated: 2026-05-18
 
 > [!info]- 核心数据
 > - 2015 年全球前 100 大 MNCs 雇佣超过 1700 万员工，较 2014 年增长 9.4%（UNCTAD, 2016, cited in Hartmann, 2022, p.181）
-> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（OECD, 2018, cited in Hartmann, 2022, p.181）
+> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（[[OECD]], 2018, cited in Hartmann, 2022, p.181）
 > - 企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工正式资格越高、职位越高，获得培训的可能性越大（Brandon Hall Group, 2016, cited in Hartmann, 2022, p.185）
 
 ---

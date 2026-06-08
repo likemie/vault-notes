@@ -33,6 +33,7 @@ related_facts:
   - "[[TEMAG]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Centre for Independent Studies]]"
+  - "[[OECD]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[Education Endowment Foundation]]"
@@ -84,7 +85,7 @@ updated: 2026-06-06
 > [!info] 分析设计
 > - **方法**：政策文本分析（policy text analysis），运用Bacchi的[[Bacchi's WPR Approach|WPR]]框架对《强劲开端》报告进行批判性解读
 > - **核心数据来源**：澳大利亚政府（2023）《强劲开端：教师教育专家小组报告》及其附录D（ITE项目核心内容）
-> - **辅助数据来源**：OECD相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和[[Centre for Independent Studies|CIS]]出版物
+> - **辅助数据来源**：[[OECD]]相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和[[Centre for Independent Studies|CIS]]出版物
 > - **分析重点**：优先改革1中"大脑与学习"内容的指定参考文献、核心内容规范，以及政策行动者之间的关联网络
 
 报告提出四项优先改革（共14条建议），本文聚焦优先改革1（pp.17–21）。
@@ -107,7 +108,7 @@ updated: 2026-06-06
 
 ### 第一步：教师短缺危机中的问题置换
 
-《强劲开端》报告因严重的教师短缺问题而发起。澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）成员国所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
+《强劲开端》报告因严重的教师短缺问题而发起。澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）成员国所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
 
 2022年[[Graduate Outcomes Survey]]（毕业生结果调查, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持教师培训质量低下的判断。
 
@@ -207,7 +208,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 > [!success] 核心结论
 > - 《强劲开端》报告首次在澳大利亚全国范围内将神经科学强制纳入ITE核心课程，代表了一个重要的政策转折点（p.2）
 > - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将问题重新界定为教师质量和课堂准备度不足（pp.4-5）。2022年[[Graduate Outcomes Survey|毕业生结果调查]]的满意度数据（75%）并不支持"教师培训质量低下"的判断
-> - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（pp.6-7）。OECD（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
+> - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（pp.6-7）。[[OECD]]（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
 > - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的未发表研究综合设计（pp.8-9）。AERO董事会与专家组之间存在分歧，前者推动更具权威性的惩罚性立场
 > - 指定参考文献中包含[[Centre for Independent Studies|CIS]]资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物（pp.9-10）。Jennifer Buckingham同时在CIS和[[Australian Institute for Teaching and School Leadership|AITSL]]拥有影响力
 > - 改革将扩大AITSL的职权范围和认证权力，反映了[[What Works Movement|什么有效运动]]的惩罚性问责逻辑（p.10）。标准化核心内容与"回应性教学"之间存在智识上的不一致

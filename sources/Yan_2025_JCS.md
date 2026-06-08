@@ -9,13 +9,13 @@ extracted_to:
   - "[[Nation Building through Education]]"
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[Argument_Yan_2025_JCS]]"
-  - "[[Policy Borrowing]]"
   - "[[Lifelong Learning]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
   - "[[Liberal Studies]]"
   - "[[National Education]]"
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Paul Morris]]"
+  - "[[Policy Borrowing]]"
 processed_date: 2026-05-01
 ---
 

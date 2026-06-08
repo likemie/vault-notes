@@ -41,6 +41,7 @@ related_persons:
 related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[Australia in the Asian Century White Paper]]"
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Ch6_Rizvi_2022]]"
@@ -314,7 +315,7 @@ Rizvi 用澳大利亚作为具体案例来展示这些抽象分析如何落地�
 
 **网络化转型的理论表述**：
 
-Rizvi 援引 Benkler (2006) 和 Castells (1996) 为这些变化提供理论表述——社会组织的主要模式正从国家代表的相对稳定的等级制转向更为流动的网络形式。早期网络如 Universitas 21 和 Global Universities Network (GUN) 已经失去吸引力，被新的、不那么正式的合作模态所取代。与此同时，超国家机构（OECD 研究协作体、欧盟 European Research Area、ASEM、EURAXESS-ASEAN）在协调和推动跨国研究合作中扮演越来越重要的角色。
+Rizvi 援引 Benkler (2006) 和 Castells (1996) 为这些变化提供理论表述——社会组织的主要模式正从国家代表的相对稳定的等级制转向更为流动的网络形式。早期网络如 Universitas 21 和 Global Universities Network (GUN) 已经失去吸引力，被新的、不那么正式的合作模态所取代。与此同时，超国家机构（[[OECD]] 研究协作体、欧盟 European Research Area、ASEM、EURAXESS-ASEAN）在协调和推动跨国研究合作中扮演越来越重要的角色。
 
 ### 第六步：当代转折——COVID-19 暴露了什么？（§6.6, pp.100–102）
 

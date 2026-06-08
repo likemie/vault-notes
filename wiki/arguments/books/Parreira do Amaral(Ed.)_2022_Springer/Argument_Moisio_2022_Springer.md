@@ -44,7 +44,8 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Ch2_Moisio_2022]]"
@@ -101,7 +102,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 3. **内生增长理论的经济学授权**：Romer（1986）等新增长理论家"提出创新、学习、人力资本、创业和技术是'内生增长'的根本"，知识和人力资本投资被视为不受有限限制的增长资产，为 KBE 提供了经济学合法性基础（Moisio, 2022, p.23）。
 
-4. **政策话语化**：1990 年代以来，原本用于学术解释的概念成为 OECD 世界政策制定者的核心术语。世界银行（1991, pp.33–35）论断"无形投资于知识积累——而非物理资本投资——是决定性的"（Moisio, 2022, p.23）。
+4. **政策话语化**：1990 年代以来，原本用于学术解释的概念成为 [[OECD]] 世界政策制定者的核心术语。世界银行（1991, pp.33–35）论断"无形投资于知识积累——而非物理资本投资——是决定性的"（Moisio, 2022, p.23）。
 
 5. **Jessop 的元治理定位**：KBE 被 Jessop（2005）定位为"霸权的元治理对象"（hegemonic meta-object of governance），是 Atlantic Fordism 资本积累体制危机的回应。关键洞察：KBE 的治理力量部分源于"众多行动者被征召其背后"，且 KBE 作为成功的经济治理依赖经济形式与额外经济形式（科学、教育、法律、社会制度、传统）的"共在"（co-presence）（Moisio, 2022, p.23）。
 

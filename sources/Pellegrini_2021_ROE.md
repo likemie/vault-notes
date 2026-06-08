@@ -14,13 +14,13 @@ extracted_to:
   - "[[Institute for Effective Education]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[EU Key Competences for Lifelong Learning]]"
-  - "[[Class Size]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Technology Infusion]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-23
 ---

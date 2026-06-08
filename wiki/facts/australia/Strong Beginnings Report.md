@@ -26,6 +26,7 @@ related_persons: []
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Centre for Independent Studies]]"
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
@@ -79,7 +80,7 @@ updated: 2026-06-06
 > [!warning]
 > - 报告虽因教师短缺问题而发起，但几乎未涉及教师流失的主要原因（工作量过大）
 > - 指定的参考文献中包括保守智库[[Centre for Independent Studies|CIS]]资助的研究，引发私人利益干预教育的担忧
-> - 报告未讨论神经科学的任何局限性，尽管OECD（2002, 2007）报告明确指出了这些局限
+> - 报告未讨论神经科学的任何局限性，尽管[[OECD]]（2002, 2007）报告明确指出了这些局限
 > - 神经科学在教育中的应用历史上与优生学有关联，报告对此未作任何说明
 
 ---

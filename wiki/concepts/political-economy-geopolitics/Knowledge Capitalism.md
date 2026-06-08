@@ -21,7 +21,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 >
 > - **1950s–1960s**：Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱（Moisio, 2022, p.22）。详见 [[Knowledge-Based Economy|知识经济]] > 学术脉络
 > - **1986**：Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和人力资本投资被视为不受有限限制的增长关键资产（Moisio, 2022, p.23）
-> - **1990s–2000s**：OECD、世界银行等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
+> - **1990s–2000s**：[[OECD]]、世界银行等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
 > - **2013**：Peters 系统阐述知识资本主义作为理解高等教育全球转型的分析框架
 >
 

@@ -454,6 +454,15 @@
     ]
   },
   {
+    "title": "International Mind",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/International Mind.md",
+    "aliases": [
+      "国际心智",
+      "international mind"
+    ]
+  },
+  {
     "title": "International Schools",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Schools.md",

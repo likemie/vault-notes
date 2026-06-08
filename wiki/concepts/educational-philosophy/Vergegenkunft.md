@@ -15,6 +15,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
 related_arguments: []
 sources:
@@ -32,7 +33,7 @@ updated: '2026-05-18'
 >
 > Amos (2022, p.56) 借用这个概念来说明 Cowen 在 [[Transitology]] 中的核心观察：教育转型中的过去、现在和未来比严格的线性时间顺序更为交织。你不能把"现在的市场化"和"过去的国家中心"截然分开，也不能假设"未来"会干净地取代"现在"。
 >
-> > 例：今天 EdTech 产业的繁荣看似是"未来"，但它的根扎在 1950s 末——那时经济理论已开始将知识作为生产要素讨论，OECD 在 [[Sputnik Shock 1957|Sputnik Shock]] 后转向 STEM 教育。今天硅谷教育科技创业者的话语（"颠覆传统教育""个性化学习革命"）听起来是全新的，但它们重复的正是更早时期已经出现的"知识=竞争力"逻辑，只是在新的技术条件下重新表达。用 Vergegenkunft 的视角来看，EdTech 的"未来"中充满了"过去"的回声。（Amos, 2022, p.56）
+> > 例：今天 EdTech 产业的繁荣看似是"未来"，但它的根扎在 1950s 末——那时经济理论已开始将知识作为生产要素讨论，[[OECD]] 在 [[Sputnik Shock 1957|Sputnik Shock]] 后转向 STEM 教育。今天硅谷教育科技创业者的话语（"颠覆传统教育""个性化学习革命"）听起来是全新的，但它们重复的正是更早时期已经出现的"知识=竞争力"逻辑，只是在新的技术条件下重新表达。用 Vergegenkunft 的视角来看，EdTech 的"未来"中充满了"过去"的回声。（Amos, 2022, p.56）
 >
 
 ## 概念辨析

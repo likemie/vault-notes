@@ -18,6 +18,7 @@ related_persons:
   - "[[Lev Vygotsky]]"
 related_facts:
   - "[[Centre for Independent Studies]]"
+  - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -70,7 +71,7 @@ updated: 2026-06-06
 > [!warning]
 > - **简化主义风险**：CLT 将学习还原为大脑内部的信息处理活动，忽视了社会互动和情境因素。[[Lev Vygotsky|维果茨基]]社会文化理论强调学习是社会过程，社会互动在学习中发挥关键作用（Skourdoumbis & Rowe, 2024, p.7）
 > - **政策工具化**：CLT 被保守智库和"[[What Works Movement|什么有效运动]]"推广为教学设计的"科学基础"，用于论证排除探究式学习和自主学习，其理论主张被简化为政策指令（Skourdoumbis & Rowe, 2024, pp.6-7）
-> - **跨学科不足**：OECD（2007）指出，神经科学"绝非万能药"，需要真正的跨学科方法，而非单一的认知科学叙事
+> - **跨学科不足**：[[OECD]]（2007）指出，神经科学"绝非万能药"，需要真正的跨学科方法，而非单一的认知科学叙事
 
 ---
 

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Government to Governance Shift]]"
   - "[[Methodological Nationalism]]"
   - "[[Lifelong Learning]]"
   - "[[Global Citizenship]]"
@@ -47,9 +48,9 @@ related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[OECD]]"
   - "[[PISA]]"
   - "[[International Institute for Educational Planning]]"
-  - "[[OECD]]"
   - "[[Economics of Education Movement]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
@@ -164,7 +165,7 @@ updated: 2026-06-08
 > [!example] 案例四：[[Sputnik Shock 1957|Sputnik]] 冲击与美国的双重转向
 > 1957 年苏联发射 Sputnik 卫星，对美国造成类似冲击。这一事件挑战了美国自认为在二战后已在科学、技术和教育领域取得全球领先的信念。为了恢复领先地位，美国采取了双重转向。在中学和大学层面，美国拥抱苏联对科学、数学和语言的重视以振兴高中和大学教育（Tröhler, 2013）。被解读为整体教育失败的冲击还使美国转向英国的儿童中心教学法以振兴小学教育（Ravitch, 1983）。
 >
-> 这个案例的深层意义在于：Sputnik 冲击建立的"教育质量推动科技能力推动国家竞争力"政策逻辑链，后来被 OECD 的国际学生评估项目（Programme for International Student Assessment，[[PISA]]）等国际比较评估制度化。今天的 PISA 排名引发各国"教育危机"讨论（"我们的数学排名又掉了！"），其逻辑原型就是 Sputnik 冲击。Sputnik 冲击是教育地缘政治焦虑的原始模板。
+> 这个案例的深层意义在于：Sputnik 冲击建立的"教育质量推动科技能力推动国家竞争力"政策逻辑链，后来被 [[OECD]] 的[[PISA|国际学生评估项目]]（Programme for International Student Assessment，[[PISA]]）等国际比较评估制度化。今天的 PISA 排名引发各国"教育危机"讨论（"我们的数学排名又掉了！"），其逻辑原型就是 Sputnik 冲击。Sputnik 冲击是教育地缘政治焦虑的原始模板。
 
 > [!example] 案例五：冷战德国的对立比较
 > 国际无政府状态还使对他者的负面描绘成为验证自身国际位置的手段。最鲜明的例证来自两个德国及其代表的两个对抗集团。在冷战的核心地带，西德创建了法兰克福的"德国[[International Education|国际教育]]研究所"和波鸿大学的"比较教育研究单元"。在 Wolfgang Mitter（法兰克福）和 Oskar Anweiler（波鸿）的领导下，两个中心将研究议程与西德的反共策略对齐，比较西德和东德的教育，目的是识别差异、保持两个系统之间的距离（Waterkamp, 2008）。
@@ -220,7 +221,7 @@ updated: 2026-06-08
 
 ### 第三步：理性主义如何塑造比较教育
 
-**7. 从管理到治理**
+**7. [[Government to Governance Shift|从管理到治理]]**
 
 > [!abstract] 时代终结的宣告
 > 从理性主义视角来看，现实主义基于国家的理解框架——包括比较教育的跨国借入借出想象、对教育情境的国家化理解以及受教育者身份的国家化定义——都成为有问题的。随着全球制度和治理机制的兴起，21 世纪初比较教育内部出现了一种信念：比较教育正"处于一个时代的终结"（Carney, 2010）。
@@ -244,7 +245,7 @@ updated: 2026-06-08
 > [!example] 两次世界大战之间的和平事业
 > 理性主义还使比较教育深度参与和平政治和国际合作事业。比较教育内部有一条清晰的历史线索：比较教育被整合进全球（如 UNESCO）和区域（如欧洲委员会）组织的工作中，成为减少教育系统中民族中心主义、促进国际理解的工具。这种认识追溯到更早：不仅追溯到"被遗忘的 UNESCO"——国际联盟的国际知识合作组织（Renoliet, 1999），还追溯到 Föreningarna Norden 和美洲国家国际会议等区域组织。
 >
-> 这些组织在两次世界大战之间确立了比较作为消除历史教科书中遗漏、歪曲和刻板印象的方式，并建构了主体间客观的学校知识。这种知识服务于[[International Mind|国际心智]]（international mind）的愿景。国际知识合作研究所首任副主任 Alfred Zimmern 将国际心智定义为"世界各国人民中间一种比民族主义心态更适合合作的普遍心态"（Klerides, 2018, p.227）。
+> 这些组织在两次世界大战之间确立了比较作为消除历史教科书中遗漏、歪曲和刻板印象的方式，并建构了主体间客观的学校知识。这种知识服务于国际心智（international mind）的愿景。国际知识合作研究所首任副主任 Alfred Zimmern 将国际心智定义为"世界各国人民中间一种比民族主义心态更适合合作的普遍心态"（Klerides, 2018, p.227）。
 
 > [!example] 二战后：[[Joseph Lauwerys|Lauwerys]] 与比较教育的制度化
 > 二战后，比较教育对通过教育实现社会民主化和改善人类生活的改革承诺，促进了它进一步整合进 UNESCO 等组织。UNESCO 早期将"[[Lifelong Learning|终身学习]]"作为核心关注，拥抱了这些教育目标（Elfert, 2023）。

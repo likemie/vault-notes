@@ -29,6 +29,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Education at a Glance]]"
+  - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs **Statistics（统计）**：统计是原始数据收集，指标是经过目的性加工、面向政策的派生量。Sauvageot 指出决策者需要"更加分析性的、以用户友好方式呈现的相关信息"（Gorur, 2014, p.7）
-> - vs **[[Education at a Glance]]**：EAG 是 OECD 生产的具体指标集合（产品），绩效指标是广义概念和分析范畴
+> - vs **[[Education at a Glance]]**：EAG 是 [[OECD]] 生产的具体指标集合（产品），绩效指标是广义概念和分析范畴
 > - vs **Assessment（评估）**：Bottani 强调指标的功能是"提醒"（alert），评估的功能是"评判"（judge），两者不应混淆。但 OECD 后来混淆了这一边界——EAG 逐渐将自己呈现为对教育系统的评估（Gorur, 2014, p.14）
 > - vs **[[Regulatory Regionalism]]**：监管区域主义描述超国家组织通过指标和排名对区域内教育进行间接治理的宏观模式；绩效指标分析则聚焦于这一治理模式中具体工具的操作机制（四个维度）（Rambla, 2022, p.165–166）
 
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 > [!note]
 > - **1850s**：教育开始被认可为统计调查的领域，早期数据收集限于学校数量、学生入学人数、教师人数等（Gorur, 2014, p.7）
 > - **1970s–1980s**：Sauvageot（1997）指出早期统计信息"不太有用"——数据不准确、不及时、不一致，太多细节而没有分析（Gorur, 2014, p.7）
-> - **1988 年**：OECD 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标（Gorur, 2014, p.8）
+> - **1988 年**：[[OECD]] 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标（Gorur, 2014, p.8）
 > - **1992 年**：首版 [[Education at a Glance]] 出版，标志着教育指标的常规化年度生产（Gorur, 2014, p.11）
 > - **2000s**：Bottani 称之为"对绩效指标的痴迷和心理测量比较的胜利"的十年（Gorur, 2014, p.13）
 > - **2001 年**：里斯本议程后，欧盟开始以十年战略规划（如 [[Europe 2020 Strategy]]）驱动绩效指标治理模式
@@ -109,7 +110,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 **通过区域指标展示可测量成果**：绩效指标将复杂的政策现实转化为可视化、可比较的量化排名。在 EU，EUROSTAT 绘制一系列地图，根据区域创新能力和教育培训系统绩效对 NUTS2 区域进行分类（Rambla, 2022, p.169–170）。
 
-**传播共同的变革理论**：绩效指标承载特定的因果叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。OECD 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用（Rambla, 2022, p.165–166）。
+**传播共同的变革理论**：绩效指标承载特定的因果叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。[[OECD]] 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用（Rambla, 2022, p.165–166）。
 
 **嵌入政治关系并实施选择性**：绩效指标间接重塑政府与公民社会之间的关系。通过指标，政府试图说服所有利益相关方同时竞争和合作，而非通过具有约束力的立法固定各方角色（Le Galès, 2016; Rambla, 2022, p.166）。同时，指标实施 [[Selectivity]]——筛选政策议题的优先次序，系统性地优先某些替代方案，同时使其他议题被边缘化（Jessop, 2007; Rambla, 2022, p.174–175）。
 
@@ -125,7 +126,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 ## 实证发现
 
 > [!success]
-> 以下发现来自 OECD 指标体系的历史分析（Gorur, 2014）和欧盟政策文件与 [[YOUNG_ADULLLT]] 定性数据的综合分析（Rambla, 2022）。
+> 以下发现来自 [[OECD]] 指标体系的历史分析（Gorur, 2014）和欧盟政策文件与 [[YOUNG_ADULLLT]] 定性数据的综合分析（Rambla, 2022）。
 
 ### OECD 层面的指标运作
 
@@ -175,7 +176,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 > - [[Europe 2020 Strategy]] — 以绩效指标驱动的基准管理为核心治理机制的 EU 十年战略
 > - [[EU Skills Agenda]] — 以[[Lifelong Learning|终身学习]]相关绩效指标为监测工具的 EU 技能政策
 > - [[Youth Guarantee Scheme]] — 以"4 个月内就业/教育/培训/学徒"为绩效指标的 EU 青年政策
-> - [[Education at a Glance]] — OECD 年度旗舰指标出版物
+> - [[Education at a Glance]] — [[OECD]] 年度旗舰指标出版物
 > - [[International Indicators of Education Systems]] — OECD [[International Education|国际教育]]指标开发项目
 
 ## 来源

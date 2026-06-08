@@ -77,6 +77,7 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"
+  - "[[OECD]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Comprehensive School Reform Program]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -165,7 +166,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 ### 起源：从循证医学到教育政策信号（1992–1996）
 
 - **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定范式
-- **1995** — OECD 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题（Møller, 2017, p.377）
+- **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题（Møller, 2017, p.377）
 - **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（Wiliam, 2019, pp.3–4; 参见 [[Hargreaves 1996 TTA Lecture]]）
 - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系。Davies 以牛津大学循证健康照护硕士项目为例说明核心特征：学生通过尝试解决自己带入课程的临床和人口问题来学习——"这种学习和教学方法明确基于问题解决、自我指导的成人教育模式"（Davies, 1999, p.110, cited in Sarbiewska, 2019, p.120–121）。Davies 强调：就像医生除了学术研究证据外还需收集患者病史、设置额外控制测试一样，教育者也需使用多种形式和来源的证据
 

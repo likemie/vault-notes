@@ -20,6 +20,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[PISA]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[International Baccalaureate]]"
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - 教育传统上绑定于地方和国家——中小学由地方税收资助、课程反映本地选民的价值观（Slethaug, 2010, pp.3–5）
-> - 2000 年 OECD 启动 [[PISA]]，标志着各国不再生活在教育"茧"中——数十万 15 岁学生接受相同评估，结果跨国可比较（Slethaug, 2010, pp.6–8）
+> - 2000 年 [[OECD]] 启动 [[PISA]]，标志着各国不再生活在教育"茧"中——数十万 15 岁学生接受相同评估，结果跨国可比较（Slethaug, 2010, pp.6–8）
 > - 2003 年上海交通大学发布 [[Academic Ranking of World Universities|ARWU]]，大学排名从国家层面向全球层面跨越；此后 Times Higher Education（2004）、QS 等多个排名系统相继建立（Slethaug, 2010, pp.10–11）
 > - 详见 [[Global Universities Rankings]]
 
@@ -115,7 +116,7 @@ updated: '2026-05-18'
 > - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，学生构成从全英侨转向 40%–50% 本地华人
 > - [[Education City Doha]] — 多所美国大学在卡塔尔集中设立分校的案例
 > - [[Transnationalism and America Project SYSU]] — 中山大学的跨文化团队教学项目
-> - [[PISA]] — OECD 的国际学生评估，教育全球化的关键测量工具
+> - [[PISA]] — [[OECD]] 的国际学生评估，教育全球化的关键测量工具
 > - [[International Schools]] — 国际教育在 K-12 层面的核心载体
 > - [[International Baccalaureate]] — 去国家化的国际课程方案
 > - [[International Education Hubs]] — 国家将自身定位为国际教育活动中心的地缘政治概念

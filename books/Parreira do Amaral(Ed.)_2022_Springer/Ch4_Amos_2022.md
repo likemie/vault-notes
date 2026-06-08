@@ -22,11 +22,11 @@ extracted_to:
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"
   - "[[Robert Cowen]]"
+  - "[[Learning Analytics]]"
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Learning Analytics]]"
-  - "[[Vergegenkunft]]"
   - "[[New Public Management]]"
   - "[[Sputnik Shock 1957]]"
 processed_date: 2026-05-08

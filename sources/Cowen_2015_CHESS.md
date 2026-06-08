@@ -8,9 +8,9 @@ extracted_to:
   - "[[Nancy Cartwright]]"
   - "[[Nick Cowen]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-  - "[[Class Size]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
 processed_date: 2026-05-01
 ---

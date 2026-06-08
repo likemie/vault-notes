@@ -36,6 +36,8 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources:
   - "[[Ch2_Moisio_2022]]"
+related_facts:
+  - "[[OECD]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -93,7 +95,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 
 ### 知识经济与地缘政治分析
 
-- [[Knowledge-Based Economy]] — 系统梳理知识经济的概念谱系，从 Friedrich List（1841）经 Drucker（1959）、Bell（1973）、Romer（1986）到 OECD/World Bank 的政策化，并将 KBE 定位为"实际存在的经济形态"（Moisio, 2022, pp.22–24）
+- [[Knowledge-Based Economy]] — 系统梳理知识经济的概念谱系，从 Friedrich List（1841）经 Drucker（1959）、Bell（1973）、Romer（1986）到 [[OECD]]/World Bank 的政策化，并将 KBE 定位为"实际存在的经济形态"（Moisio, 2022, pp.22–24）
 - [[Knowledge-Based Economization]] — 提出这一核心概念，将注意力从知识经济的话语层面转向经济化的物质过程和实践，以 Polanyi（1982）和 Çalişkan & Callon（2009）为分析资源（Moisio, 2022, pp.24–25）
 - [[Geopolitics of Knowledge]] — 系统论证知识密集型资本主义的地缘政治维度，将其定位为"历史偶然的地缘政治星座"。在 Zapp (2022) 的分析中，Moisio (2018) 关于教育枢纽和知识村的论述被援引以论证大学的地缘政治再领土化悖论（Zapp, 2022, pp.155–156）
 

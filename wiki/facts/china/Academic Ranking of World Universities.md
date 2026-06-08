@@ -23,6 +23,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD AHELO Project]]"
+  - "[[OECD]]"
   - "[[PISA]]"
 related_arguments: []
 sources:
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Global Universities Rankings]] — ARWU 是首个全球排名，开启了排名重塑高等教育的时代
-> - [[OECD AHELO Project]] — OECD 试图以类似 [[PISA]] 的方式测量高等教育学习成果，部分回应了排名对教学质量测量的缺失
+> - [[OECD AHELO Project]] — [[OECD]] 试图以类似 [[PISA]] 的方式测量高等教育学习成果，部分回应了排名对教学质量测量的缺失
 
 ---
 

@@ -25,6 +25,7 @@ related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
 related_facts:
+  - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
@@ -37,7 +38,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Norberto Bottani 是[[International Education|国际教育]]指标开发史上的关键人物。拥有瑞士弗里堡大学（University of Fribourg）哲学系教育硕士学位，自 1976 年起在 OECD 以多种职务任职（Gorur, 2014, p.5）。
+> Norberto Bottani 是[[International Education|国际教育]]指标开发史上的关键人物。拥有瑞士弗里堡大学（University of Fribourg）哲学系教育硕士学位，自 1976 年起在 [[OECD]] 以多种职务任职（Gorur, 2014, p.5）。
 
 ## 核心思想
 
@@ -52,7 +53,7 @@ updated: '2026-05-19'
 
 
 > [!info] 后期幻灭（2008）
-> 2008 年，离开 OECD 后的 Bottani 发表 *The oil level, the engine and the car*，系统表达了对指标的幻灭——不仅对指标本身，更是对它们如何被"误解和误用"（Gorur, 2014, p.5）。
+> 2008 年，离开 [[OECD]] 后的 Bottani 发表 *The oil level, the engine and the car*，系统表达了对指标的幻灭——不仅对指标本身，更是对它们如何被"误解和误用"（Gorur, 2014, p.5）。
 >
 > 后期核心论点（Gorur, 2014, p.14, 18）：
 > - **指标与评估的混淆**：OECD 从提供"提醒"性指标滑向呈现"评估"性结论，将变化中的系统、教育供给、个体成绩和系统效率混合在单一框架中
@@ -63,20 +64,20 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - **[[International Indicators of Education Systems]]** — 自 1988 年创立至 1997 年担任 INES 项目负责人近十年，从项目几乎不可能的阶段带领至首版 [[Education at a Glance|EAG]] 出版（Gorur, 2014, p.5, 8）
-> - **[[Education at a Glance]]** — INES 的最终产品，成为 OECD 旗舰出版物
+> - **[[Education at a Glance]]** — INES 的最终产品，成为 [[OECD]] 旗舰出版物
 > - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的实践和理论反思深刻影响了[[International Education|国际教育]]指标的认识论讨论
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Bottani, N. (1994). The OECD [[International Education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述（Gorur, 2014, p.19）
+> - Bottani, N. (1994). The [[OECD]] [[International Education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述（Gorur, 2014, p.19）
 > - Bottani, N. (1996). OECD [[Internationalization of Higher Education|international education]] indicators. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战（Gorur, 2014, p.19）
 > - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应（Gorur, 2014, p.19）
 > - Bottani, N. (2008). The oil level, the engine and the car: The stakes involved in assessing the quality of education on the basis of indicators. *Éducation et Société*, 18(2), 11–23. — 幻灭之作，系统批判[[Performance Indicators|绩效指标]]霸权和对指标的误用（Gorur, 2014, p.19）
 
 ## 思想发展与影响
 
-> [!note-] OECD 职业历程（Gorur, 2014, p.5）
+> [!note-] [[OECD]] 职业历程（Gorur, 2014, p.5）
 > - **1976–1983**：OECD 早期工作，专注早期儿童教育
 > - **1983–1987**：领导 OECD 的教育、文化与语言多元主义项目（Education, Cultural and Linguistic Pluralism）
 > - **1984–1987**（原文为 1994–1987，疑似笔误）：担任 OECD 教育统计与指标处处长

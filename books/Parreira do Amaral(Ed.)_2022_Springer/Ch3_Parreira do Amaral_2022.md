@@ -3,7 +3,6 @@ citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher educ
 extracted_to:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Global Regionalisms]]"
-  - "[[International Education Hubs]]"
   - "[[Classical Geopolitics]]"
   - "[[Global Education Industry]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Minerva University]]"
+  - "[[International Education Hubs]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

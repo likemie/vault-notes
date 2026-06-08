@@ -24,6 +24,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments: []
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1990 年代以后**：芬兰教育政策受到 OECD、EU 和全球教育治理话语影响，课程改革越来越强调横向能力、21 世纪技能、可测量结果和经济竞争；这一变化与 [[Performance Indicators]] 所塑造的国际比较环境相连（Schaffar & Wolff, 2024, pp.8-9）。
+> - **1990 年代以后**：芬兰教育政策受到 [[OECD]]、EU 和全球教育治理话语影响，课程改革越来越强调横向能力、21 世纪技能、可测量结果和经济竞争；这一变化与 [[Performance Indicators]] 所塑造的国际比较环境相连（Schaffar & Wolff, 2024, pp.8-9）。
 > - **2010 年代**：[[Phenomenon-Based Learning]] 被纳入 [[Finnish National Core Curriculum]] 时，一方面承载整体学习和复杂问题取向，另一方面也被放入横向能力和可测量政策话语中，形成内在张力（Schaffar & Wolff, 2024, pp.9-10）。
 
 ## 核心要素

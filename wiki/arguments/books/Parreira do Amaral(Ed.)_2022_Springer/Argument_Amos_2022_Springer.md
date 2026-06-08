@@ -56,6 +56,7 @@ related_persons:
 related_facts:
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[OECD]]"
   - "[[Regional University Alliances]]"
 related_arguments: []
 sources:
@@ -126,7 +127,7 @@ updated: 2026-05-18
 >
 > > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。（Cowen, 1996, pp.160–162；Amos, 2022, p.55）
 >
-> Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，OECD 立即将注意力转向 STEM 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年（Amos, 2022, p.56）。
+> Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，[[OECD]] 立即将注意力转向 STEM 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年（Amos, 2022, p.56）。
 >
 > > 例：Sputnik Shock 是理解"教育和地缘政治如何始终纠缠"的经典案例。1957 年苏联先于美国把卫星送上太空，美国举国震惊。反应是什么？不是增加军费（那是后来的事），而是大规模改革科学教育和数学课程——因为决策者相信，苏联的"知识优势"来自更好的教育。这就是 Amos 所说的"早在市场话语流行之前，经济与知识的关联已被锻造"。（Amos, 2022, p.56）
 >
@@ -259,7 +260,7 @@ updated: 2026-05-18
 >
 > ### 知识市场化的时间深度
 >
-> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957|Sputnik Shock]]（1957）后 OECD 对 STEM 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语（Amos, 2022, p.56）。
+> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957|Sputnik Shock]]（1957）后 [[OECD]] 对 STEM 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语（Amos, 2022, p.56）。
 >
 > ### 数字化的三重不可逆驱动力
 >

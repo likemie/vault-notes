@@ -27,6 +27,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[Research Excellence Framework]]"
   - "[[OECD Improving School Leadership Project]]"
@@ -60,7 +61,7 @@ updated: 2026-05-20
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs 专业实践共同体话语：Møller 指出了一个悖论——OECD 同时推崇两个表面上矛盾的话语（Møller, 2017, p.377）：(1) 将学校从科层制转变为专业实践共同体的分布式领导建议（社区隐喻）；(2) NPM 的外部控制话语（市场隐喻）。两者并非互相替代，而是**并行运作**
+> - vs 专业实践共同体话语：Møller 指出了一个悖论——[[OECD]] 同时推崇两个表面上矛盾的话语（Møller, 2017, p.377）：(1) 将学校从科层制转变为专业实践共同体的分布式领导建议（社区隐喻）；(2) NPM 的外部控制话语（市场隐喻）。两者并非互相替代，而是**并行运作**
 > - → [[Performativity of Measurement]] — NPM 是绩效文化的制度根源，绩效测量是 NPM 的技术手段
 > - → [[Evidence-Based Education]] — "什么有效"议程在 NPM 框架下获得额外的制度驱动力
 > - vs 内生私有化 — NPM 是内生私有化的核心操作机制（将企业管理逻辑引入公共部门内部），但内生私有化的范畴更广（涵盖私营部门思维进入公共系统的所有方式）。详见 [[Endogenous and Exogenous Privatisation#与 NPM 的关系]]
@@ -76,7 +77,7 @@ updated: 2026-05-20
 >
 > - **1950s** — 经济学理论开始将知识作为生产要素讨论，知识的经济化逻辑初步形成（Amos, 2022, p.56）
 > - **1980s–1990s** — NPM 从公共行政领域扩展至教育系统，西方各国推动[[School Autonomy|学校自主权]]、问责制和市场化改革（Møller, 2017, p.381）
-> - **2006** — OECD 发布 "Improving [[School Leadership]]" 报告，同时推动 NPM 问责话语和分布式领导话语——两个表面上矛盾的话语开始并行运作（Møller, 2017, p.377）
+> - **2006** — [[OECD]] 发布 "Improving [[School Leadership]]" 报告，同时推动 NPM 问责话语和分布式领导话语——两个表面上矛盾的话语开始并行运作（Møller, 2017, p.377）
 > - **2011** — Eacott 论证 NSW 校长培养方案是"当代国家对公共部门管理主义干预的一部分"（Eacott, 2011, p.45）
 
 
@@ -166,7 +167,7 @@ updated: 2026-05-20
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[OECD Improving School Leadership Project]] — OECD 同时推动 NPM 问责话语和分布式领导话语，体现矛盾的并行运作
+> - [[OECD Improving School Leadership Project]] — [[OECD]] 同时推动 NPM 问责话语和分布式领导话语，体现矛盾的并行运作
 > - [[My School Website]] — NPM 产出控制和公共问责的典型工具，以市场逻辑驱动学校间竞争
 > - [[School Autonomy]] — 澳大利亚学校自主权改革集中体现 NPM 的市场逻辑。Keddie et al. (2020) 记录其导致的竞争性残余化、家长筹资不平等和人员配置分层
 > - 《[[Australia in the Asian Century White Paper]]》和《[[International Education|国际教育]]国家战略 2025》——高等教育领域 NPM 逻辑的国家政策表达：将大学国际化定位为出口产业战略（Rizvi, 2022, pp.99–100）

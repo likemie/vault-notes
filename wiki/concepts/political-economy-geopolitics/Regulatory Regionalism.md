@@ -23,6 +23,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Europe 2020 Strategy]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs **政府间主义（Intergovernmentalism）**：政府间主义强调成员国对政策的主导控制，决策通过国家间谈判达成；监管区域主义则强调超国家机构通过监管框架获得相对自主的影响力——这种影响力不依赖于正式的立法权力，而是通过指标、排名和基准的规范性压力运作（Thompson & Parreira do Amaral, 2022, p.11）
-> - vs **全球教育治理（Global Education Governance）**：全球教育治理涵盖更广的全球层面（如 OECD、UNESCO 的治理活动）；监管区域主义聚焦于区域层面（EU、ASEAN 等）的制度性监管机制，强调"区域"作为治理的空间单元
+> - vs **全球教育治理（Global Education Governance）**：全球教育治理涵盖更广的全球层面（如 [[OECD]]、UNESCO 的治理活动）；监管区域主义聚焦于区域层面（EU、ASEAN 等）的制度性监管机制，强调"区域"作为治理的空间单元
 > - vs **[[Performance Indicators]]**：监管区域主义是宏观治理模式，绩效指标是这一模式中具体政策工具的运作机制。两者是分析层级的关系：监管区域主义描述"超国家组织如何治理"的模式，绩效指标分析则说明"具体通过什么工具和机制来治理"
 
 ## 概念演变

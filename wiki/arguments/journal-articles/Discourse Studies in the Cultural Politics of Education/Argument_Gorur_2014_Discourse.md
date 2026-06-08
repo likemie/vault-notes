@@ -31,6 +31,7 @@ related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
+  - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[International Indicators of Education Systems]]"
 related_arguments: []
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
+> [[OECD]] 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
 
 ## 理论框架
 
@@ -57,12 +58,12 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - **方法**：追踪"科学在行动"的实践（Latour, 1987, 1999）；文献档案分析
-> - **数据来源**：[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 OECD 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录（Gorur, 2014, p.5）
+> - **数据来源**：[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录（Gorur, 2014, p.5）
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提/观察**：OECD 的[[International Education|国际教育]]指标（[[Education at a Glance|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识（Gorur, 2014, p.4, 8）
+> 1. **前提/观察**：[[OECD]] 的[[International Education|国际教育]]指标（[[Education at a Glance|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识（Gorur, 2014, p.4, 8）
 >
 > 2. **论证步骤**：
 >
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 > - [[Education at a Glance|EAG]] 从 1992 年的 150 页增长至约 550 页（Gorur, 2014, p.14）
 > - [[Performance Indicators|绩效指标]]从 EAG 最后一节（1990s）移至第一节（2002–），反映了关注焦点的根本转变（Gorur, 2014, p.13–14）
 > - INES 网络运作如"俱乐部"——有效但可能产生封闭性决策（Bottani, 1998, p.73; Gorur, 2014, p.16）
-> - 指标一旦制度化就极难删除——即使 OECD 团队想删除，用户抵制（"有人称它为圣经"）（OECD 官员访谈; Gorur, 2014, p.17）
+> - 指标一旦制度化就极难删除——即使 [[OECD]] 团队想删除，用户抵制（"有人称它为圣经"）（OECD 官员访谈; Gorur, 2014, p.17）
 > - EAG 团队承认必须对媒体说"不正确的简化"，因为复杂真相无法被传播（OECD 官员访谈; Gorur, 2014, p.15）
 
 ## 关键引用
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > ### 论文自身承认的局限（Gorur, 2014, p.5）
 > - 论文的叙事是"拼凑物"（[[Assemblage]]），主要依赖于 Bottani 的出版物——这意味着 story 经过了 Bottani 视角的过滤
-> - 原始数据来源有限：主要依赖已出版物和一次 OECD 官员访谈
+> - 原始数据来源有限：主要依赖已出版物和一次 [[OECD]] 官员访谈
 > - 故事"缩写"（abbreviated history）——许多细节可能被省略
 >
 > ### 潜在批评

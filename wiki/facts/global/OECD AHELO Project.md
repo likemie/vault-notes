@@ -22,6 +22,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"
+  - "[[OECD]]"
   - "[[PISA]]"
 related_arguments: []
 sources:
@@ -37,14 +38,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> [[Global Universities Rankings|全球大学排名]]几乎全部以研究产出指标为核心，没有任何全球排名使用直接反映教育结果质量的指标（唯一的例外是 [[Academic Ranking of World Universities|ARWU]] 中以诺贝尔奖和菲尔兹奖校友数量作为指标）。为弥补这一空白，经济合作与发展组织（OECD）启动了"高等教育学习成果评估"（AHELO）项目，试图建立类似 [[PISA]]（国际学生评估项目）的高等教育阶段学习成果统一测量工具（Boyadjieva, 2022, pp.135–136）。
+> [[Global Universities Rankings|全球大学排名]]几乎全部以研究产出指标为核心，没有任何全球排名使用直接反映教育结果质量的指标（唯一的例外是 [[Academic Ranking of World Universities|ARWU]] 中以诺贝尔奖和菲尔兹奖校友数量作为指标）。为弥补这一空白，[[OECD|经济合作与发展组织]]（OECD）启动了"高等教育学习成果评估"（AHELO）项目，试图建立类似 [[PISA]]（国际学生评估项目）的高等教育阶段学习成果统一测量工具（Boyadjieva, 2022, pp.135–136）。
 
 ---
 
 ## 经过
 
 > [!note]-
-> - OECD 启动 AHELO 可行性研究，试图开发跨国可比的高等教育学习成果评估工具（Tremblay, Lalancette & Roseveare, 2012, cited in Boyadjieva, 2022, p.136）
+> - [[OECD]] 启动 AHELO 可行性研究，试图开发跨国可比的高等教育学习成果评估工具（Tremblay, Lalancette & Roseveare, 2012, cited in Boyadjieva, 2022, p.136）
 > - 可行性研究获得的评估结果相当矛盾，未能证明该项目的技术可行性和国际可比性
 > - 项目遭到学术界的强烈反对——Philip Altbach（2015）批评"由于各国课程差异显著，AHELO 将是在测试苹果和橙子，更不用说猕猴桃和西兰花了"（Boyadjieva, 2022, p.136）
 > - 美国和加拿大顶尖大学的校长联合声明指出"AHELO 根本性地误解了学习成果评估的目的——学习成果应当是让各机构自行确定和定义他们期望学生达成的成就，并衡量他们是否成功实现了这些目标"（Husbands, 2015, cited in Boyadjieva, 2022, p.136）

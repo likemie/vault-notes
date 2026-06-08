@@ -27,6 +27,7 @@ related_persons: []
 related_facts:
   - "[[French-Speaking Belgium Education System]]"
   - "[[PISA]]"
+  - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
@@ -44,7 +45,7 @@ updated: 2026-05-24
 ## 背景
 
 > [!info]
-> [[French-Speaking Belgium Education System|法语比利时教育系统]]在 1988 年第三次国家改革后拥有较高教育自治权，但仍受部分联邦规则约束，例如义务教育免费以及 6 至 18 岁义务教育要求（Dachet & Baye, 2021, p.169）。[[PISA]] 2015/2018 显示，该系统在科学和阅读上低于 OECD 平均水平，数学接近平均水平，同时社会出身对成绩的影响很强且有加剧趋势（Dachet & Baye, 2021, p.170）。
+> [[French-Speaking Belgium Education System|法语比利时教育系统]]在 1988 年第三次国家改革后拥有较高教育自治权，但仍受部分联邦规则约束，例如义务教育免费以及 6 至 18 岁义务教育要求（Dachet & Baye, 2021, p.169）。[[PISA]] 2015/2018 显示，该系统在科学和阅读上低于 [[OECD]] 平均水平，数学接近平均水平，同时社会出身对成绩的影响很强且有加剧趋势（Dachet & Baye, 2021, p.170）。
 
 改革前的[[French-Speaking Belgium Education System|法语比利时教育系统]]问题包括：学前教育虽有 97% 的 3 至 5 岁儿童就读，但并非义务教育且缺少明确教育标准；学生在 12 岁和 14 岁前后较早进入不同轨道；[[Grade Retention|留级]]被频繁用于处理学习困难，详见法语比利时案例；7 至 14 岁学生课堂时间接近 7,700 小时，高于 OECD 平均 6,732 小时，暑假长达两个月且假期分布不均（Dachet & Baye, 2021, pp.169-170）。
 

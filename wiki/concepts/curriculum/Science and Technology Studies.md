@@ -23,6 +23,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
 related_arguments: []
@@ -47,7 +48,7 @@ updated: 2026-05-18
 > **共同生产（Co-production）**（Jasanoff, 2004）
 > 科学与国家相互构成：知识嵌入治理实践，治理实践影响知识的生产和使用。知识"结晶"为特定的存在论状态——组织的、物质的、具身的——成为独立的研究对象（Jasanoff, 2004, p.3; Gorur, 2014, p.6）。
 >
-> > 例：OECD [[Performance Indicators|教育指标]]既是科学知识的产物（依赖统计方法论、分类框架），也是治理工具（用于比较国家表现、影响政策决策）——这两方面无法分离
+> > 例：[[OECD]] [[Performance Indicators|教育指标]]既是科学知识的产物（依赖统计方法论、分类框架），也是治理工具（用于比较国家表现、影响政策决策）——这两方面无法分离
 >
 > **科学在行动（Science in Action）**（Latour, 1987, 1999）
 > 关注科学实践（science in the making）而非科学成品（ready-made science）。Gorur 将 OECD 指标开发视为"正在制造中的科学"，就像 Latour 研究实验室中的科学家一样（Gorur, 2014, p.6）。

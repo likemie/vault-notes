@@ -28,6 +28,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Zhao_2020_JEC]]"
@@ -90,7 +91,7 @@ updated: 2026-06-06
 >
 > **捏造的主张**（[[PISA Made-up Claim]]）。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 TIMSS 等其他国际评估高度相关。
 >
-> **单一教育观**（[[PISA Monolithic View of Education]]）。PISA 将 OECD 成员国的西方假设强加于全球近 200 个国家。
+> **单一教育观**（[[PISA Monolithic View of Education]]）。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家。
 >
 > **扭曲的教育观**（[[PISA Distorted View of Education]]）。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
 >

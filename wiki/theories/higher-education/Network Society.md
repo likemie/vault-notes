@@ -18,7 +18,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments: []
 sources:
   - "[[Ch6_Rizvi_2022]]"
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 
 
 > [!success] 超国家机构的网络化协调
-> Rizvi 进一步指出，超国家机构在协调和推动跨国研究合作中扮演越来越重要的角色：OECD 的研究协作体、欧盟的 European Research Area、ASEM（亚欧会议）以及 EURAXESS-ASEAN 等机制，构成了一个**多层次的网络化治理架构**。这些机构不是传统的等级制官僚组织——它们更像网络的"枢纽"（hubs），连接不同国家和机构的研究者进入更大规模的跨国流动中（Rizvi, 2022, pp.98–99）。这一描述与 [[Hub and Flow Imaginaries]] 对国家作为"枢纽"的定位相呼应。
+> Rizvi 进一步指出，超国家机构在协调和推动跨国研究合作中扮演越来越重要的角色：[[OECD]] 的研究协作体、欧盟的 European Research Area、ASEM（亚欧会议）以及 EURAXESS-ASEAN 等机制，构成了一个**多层次的网络化治理架构**。这些机构不是传统的等级制官僚组织——它们更像网络的"枢纽"（hubs），连接不同国家和机构的研究者进入更大规模的跨国流动中（Rizvi, 2022, pp.98–99）。这一描述与 [[Hub and Flow Imaginaries]] 对国家作为"枢纽"的定位相呼应。
 
 
 > [!success] 多重理性的网络化融合

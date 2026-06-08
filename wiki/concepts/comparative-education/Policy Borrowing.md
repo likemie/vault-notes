@@ -39,6 +39,7 @@ related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[Liberal Studies]]"
+  - "[[OECD]]"
   - "[[International Baccalaureate]]"
   - "[[PISA]]"
   - "[[Citizenship and Social Development]]"
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 
 1. **[[Externalization|外化]]**：[[Externalization]] 概念，由 Schriewer (2003) 提出——教育系统将内部问题构型投射到国际参照系中的过滤过程（Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230）。Rappleye (2006) 发展为双向运作：改革方外化到国际趋势以推动改革，抵制方外化到"传统"以维护现状（Rappleye, 2006, p. 230–232）。
 
-> 例：2000 年香港教统会《教育蓝图》反复引用 OECD、UNESCO 和"[[International Education|国际教育]]趋势"论证通识教育改革的必要性，将国内有争议的改革包装为"全球教育改革浪潮的一部分"——这实质上是 Schriewer 所描述的将国内有争议的需求投射到国际参照系中，使批评者难以反对（反对改革即反对"全球进步趋势"）。（Yan & Morris, 2025, p. 486）
+> 例：2000 年香港教统会《教育蓝图》反复引用 [[OECD]]、UNESCO 和"[[International Education|国际教育]]趋势"论证通识教育改革的必要性，将国内有争议的改革包装为"全球教育改革浪潮的一部分"——这实质上是 Schriewer 所描述的将国内有争议的需求投射到国际参照系中，使批评者难以反对（反对改革即反对"全球进步趋势"）。（Yan & Morris, 2025, p. 486）
 
 2. **合法化功能**：全球话语的主要功能是为有争议的国内决定提供合法性保护——政府不是"从外部学习"，而是用外部话语给已决定的方案穿上"国际认可"的外衣。
 
@@ -194,7 +195,7 @@ Rappleye (2006) 在 Phillips & Ochs 第一阶段的基础上，将跨国吸引�
 
 **争议背景**：政策借用框架将决策者描绘为工具性地利用全球话语来包装国内议程，批评者认为这过度强调政治操纵，低估了决策者真诚的跨国学习动机和全球规范的内化过程。
 
-- **[[World Society Theory|世界文化理论]]阵营的批评**：Meyer 等学者认为，许多政策趋同并非源于工具性借用，而是全球文化规范通过国际组织（OECD、UNESCO）的长期扩散——决策者可能真诚地相信这些规范，而非仅仅操纵它们。（Yan & Morris, 2025, p. 482 对世界文化理论的概述）
+- **[[World Society Theory|世界文化理论]]阵营的批评**：Meyer 等学者认为，许多政策趋同并非源于工具性借用，而是全球文化规范通过国际组织（[[OECD]]、UNESCO）的长期扩散——决策者可能真诚地相信这些规范，而非仅仅操纵它们。（Yan & Morris, 2025, p. 482 对世界文化理论的概述）
 - **Steiner-Khamsi 的回应**：政策借用框架并不否认跨国学习的存在——区分"借用"（政治驱动、选择性、仪式性）和"学习"（开放、实质性交流）正是为了容纳这两种现象。问题在于实践中两者常常交织。（基于 Steiner-Khamsi, 2012）
 
 **目前状态**：Yan & Morris (2025) 的 [[Liberal Studies|LS]] 案例为政策借用框架提供了有力支持——创立阶段的 IBDP 参照确实展现出工具性特征（政府先有方案再建构问题），但 LS 废除阶段全球话语完全消失的现象也从反面印证了"借用话语是一种政治策略"这一核心假设。

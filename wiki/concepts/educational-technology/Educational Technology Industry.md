@@ -19,6 +19,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Regional University Alliances]]"
 related_arguments: []
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note-] 概念演变
-> Amos 将 EdTech 产业的兴起定位在从国家中心到市场中心教育的更广阔转型之中。"知识"作为生产要素的讨论自 1950s 末即已开始，OECD 在 [[Sputnik Shock 1957|Sputnik Shock]] 后关注 STEM 教育是早期的制度信号。但 EdTech 作为一个独立产业的爆发式增长则是近二十年——尤其是数字化和算法化——的产物（Amos, 2022, pp.56–57）。
+> Amos 将 EdTech 产业的兴起定位在从国家中心到市场中心教育的更广阔转型之中。"知识"作为生产要素的讨论自 1950s 末即已开始，[[OECD]] 在 [[Sputnik Shock 1957|Sputnik Shock]] 后关注 STEM 教育是早期的制度信号。但 EdTech 作为一个独立产业的爆发式增长则是近二十年——尤其是数字化和算法化——的产物（Amos, 2022, pp.56–57）。
 >
 
 ## 核心要素

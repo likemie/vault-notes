@@ -1,7 +1,6 @@
 ---
 citation: "程楠, 郭雯, 曹方. (2026). 科技创新和产业创新融合：中国的发展路径与对策研究报告. 人民邮电出版社."
 extracted_to:
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[New Quality Productive Forces]]"
   - "[[STEM Education]]"
   - "[[Pilot Scale Platform]]"
@@ -12,10 +11,11 @@ extracted_to:
   - "[[German Innovation Policy System]]"
   - "[[Japan Innovation Policy System]]"
   - "[[Tsukuba Science City]]"
-  - "[[Korea Innovation Policy System]]"
   - "[[Swiss Innovation Policy System]]"
   - "[[DARPA]]"
   - "[[US Innovation Policy System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[Korea Innovation Policy System]]"
 processed_date: 2026-06-03
 ---
 

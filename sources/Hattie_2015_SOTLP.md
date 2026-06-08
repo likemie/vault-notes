@@ -10,11 +10,11 @@ extracted_to:
   - "[[Thomas Aastrup Rømer]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Class Size]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Feedback]]"
   - "[[John Hattie]]"
   - "[[Visible Learning]]"
+  - "[[Class Size]]"
 processed_date: 2026-05-04
 ---
 

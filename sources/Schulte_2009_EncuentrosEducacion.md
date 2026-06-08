@@ -3,7 +3,6 @@ citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. E
 extracted_to:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Pragmatism in China]]"
-  - "[[Recontextualization]]"
   - "[[Scientism]]"
   - "[[Examination-Oriented Education]]"
   - "[[Quality Education]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[John Dewey]]"
   - "[[Confucius]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Recontextualization]]"
 processed_date: 2026-05-26
 ---
 

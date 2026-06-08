@@ -22,6 +22,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[PISA]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
@@ -36,12 +37,12 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 进入 2000 年代后，OECD 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]（Møller, 2017, p.376-377）。
+> 进入 2000 年代后，[[OECD]] 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]（Møller, 2017, p.376-377）。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 2006 年 OECD 启动"改进[[School Leadership|学校领导力]]"（Improving School Leadership, ISL）项目，18 个欧洲国家和 4 个非欧洲国家参与（Møller, 2017, p.376）。项目目标是为政策制定者提供信息，帮助他们制定和实施能够改进教学的政策。
+> 2006 年 [[OECD]] 启动"改进[[School Leadership|学校领导力]]"（Improving School Leadership, ISL）项目，18 个欧洲国家和 4 个非欧洲国家参与（Møller, 2017, p.376）。项目目标是为政策制定者提供信息，帮助他们制定和实施能够改进教学的政策。
 >
 > > 核心假设："成功的学校领导力是大规模教育改革和改善教育结果的关键"（Møller, 2017, p.376）
 >
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - 2006 — OECD 启动 ISL 项目，18+4 国参与
+> - 2006 — [[OECD]] 启动 ISL 项目，18+4 国参与
 > - 2008 — 发布 Vol. 1 (Policy and Practice) 和 Vol. 2 (Case Studies)
 > - 后续 — ISL 项目与 [[PISA]] 和 [[Education at a Glance]] 形成互补，共同构成 OECD 的教育治理工具体系
 
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > Møller（2017, p.377）提出了三条关键批评：
 >
-> - **去政治化呈现**：OECD 报告将表面上政治中立的"最佳实践"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。对当前绩效问责氛围没有提出实质性批评，权力结构未被问题化
+> - **去政治化呈现**：[[OECD]] 报告将表面上政治中立的"最佳实践"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。对当前绩效问责氛围没有提出实质性批评，权力结构未被问题化
 > - **两个矛盾话语的并存**：OECD 同时推崇分布式领导的"专业共同体"话语（去科层化）和[[New Public Management|新公共管理]]的"外部控制"话语（市场化），二者并行运作，构成一个悖论
 > - **社会正义导向的虚假中立**：任何带有社会正义导向意图的政策本质上都是高度政治化的，因为它通常需要更具再分配性或福利主义的方法，但 OECD 以中立技术语言包装此类政策
 
@@ -85,7 +86,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Leadership]] — ISL 项目将学校领导力确立为全球教育政策核心议程
 > - [[New Public Management]] — ISL 的矛盾在于同时推崇专业共同体和 NPM 控制两个方向
-> - [[Evidence-Based Education]] — ISL 项目紧密关联 OECD 的基准测试和效率研究
+> - [[Evidence-Based Education]] — ISL 项目紧密关联 [[OECD]] 的基准测试和效率研究
 
 ## 来源
 
