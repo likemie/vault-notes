@@ -77,7 +77,8 @@ def parse_scalar(value: str) -> str:
     if value in {"", "null", "None", "~"}:
         return ""
     if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
-        return value[1:-1]
+        inner = value[1:-1]
+        return inner.replace("''", "'") if value[0] == "'" else inner
     return value
 
 
@@ -152,6 +153,7 @@ def display_from_wikilink(value: str) -> str:
 
 def author_label(author: str) -> str:
     author = display_from_wikilink(author)
+    author = author.replace("''", "'")
     author = re.sub(r"\s+", " ", author).strip()
     if "," in author:
         return author.split(",", 1)[0].strip()

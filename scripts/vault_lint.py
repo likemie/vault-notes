@@ -227,6 +227,7 @@ def author_label(author: str) -> str:
     m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", author)
     if m:
         author = (m.group(2) or m.group(1)).strip()
+    author = author.replace("''", "'")
     if "," in author:
         return author.split(",", 1)[0].strip()
     return re.sub(r"\s+", " ", author).strip()
