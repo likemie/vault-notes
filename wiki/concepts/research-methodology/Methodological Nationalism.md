@@ -2,12 +2,13 @@
 title: Methodological Nationalism
 aliases:
   - 方法论民族主义
-summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
+  - 方法论国家主义
+summary: 把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性
 type: concept
 tags:
-- region/global
-- theme/geopolitics
-- level/higher-ed
+  - region/global
+  - theme/geopolitics
+  - level/higher-ed
 related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Recontextualization]]"
@@ -25,8 +26,8 @@ sources:
   - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
-created: '2026-05-12'
-updated: '2026-05-18'
+created: 2026-05-12
+updated: 2026-05-18
 ---
 
 # Methodological Nationalism
