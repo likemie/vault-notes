@@ -99,6 +99,8 @@ updated: 2026-06-06
 > 近年来 Schriewer（1990, 2000）、Phillips（1993, 2004）、Popkewitz（1998, 2005）、Steiner-Khamsi（2000, 2002, 2004）、Nóvoa（2002）、Phillips & Ochs（2003, 2004）和 Beech（2006a, 2006b）等人的工作重新确立了转移主题的重要性，从借用与转移、政治空间与国际权力、以及可见性话语等角度丰富了分析工具（Cowen, 2009, p.316）。
 >
 > Cowen (2009) 在此基础上提出 3T 框架，将转移主题从[[Policy Borrowing|政策借用]]的二元评价升级为一个关注意义与形态变化链的三阶段过程模型。
+>
+> Klerides（2023）从国际关系理论角度进一步指出，转移的研究形态受到对国际社会性质的理解的深层塑造。在[[Wight's Three Traditions of International Theory|现实主义]]视角下，转移被理解为由国家和国际权力等级塑造的跨国移动——如 Humboldt 大学模式从德国向日本和美国的转移，或冷战时期技术官僚教育观从美国向西欧再向南欧和拉美的扩散。在[[Wight's Three Traditions of International Theory|理性主义]]视角下，转移被重铸为复杂的、多元行动者的过程，涉及区域集团、多边组织、NGO、政策企业家和跨国公司，"输入—输出"和"借用—出借"的二元框架受到质疑，新概念如"旅行政策"（travelling policies）和"流动话语"（flowing discourses）被提出以捕捉转移的非线性特征。在[[Wight's Three Traditions of International Theory|革命主义]]视角下，转移不仅是支配的工具，更是反支配和阶级斗争的工具——如第三世界革命政府借用苏联的"工人学院"模式以培养"社会主义知识分子"（Klerides, 2023, pp.422–423, 425–426, 427）。
 
 ---
 
@@ -144,5 +146,6 @@ updated: 2026-06-06
 ## 来源
 
 - [[Cowen_2009_CE]]
+- [[Klerides_2023_CE]]
 - [[Schulte_2009_EncuentrosEducacion]]
 - [[Zhou_2024_CE]]
