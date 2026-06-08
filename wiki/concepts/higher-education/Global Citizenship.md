@@ -129,6 +129,11 @@ Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球�
 - 培养全球公民通常需要高影响力体验（如志愿服务、社区项目、国际外展），但这些活动需要资源和时间——而博士培养的默认逻辑是"一切时间应用于论文研究"。Spronken-Smith, Brown, and Cameron（2022）发现一些导师会积极劝阻学生参与论文之外的活动（引自 Spronken-Smith et al., 2024, p.97）
 - Porter（2021）提出通过与外部合作伙伴的高影响力培训机会来培养全球公民属性，但坦承这需要资源配置和"导师文化的转变"（引自 Spronken-Smith et al., 2024, p.97）
 
+### 比较教育中的概念争议
+Klerides（2023）从国际关系理论角度提出了对全球公民概念的双重批判。在[[Wight's Three Traditions of International Theory|理性主义]]视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象（Klerides, 2023, pp.425–426）。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
+
+在[[Wight's Three Traditions of International Theory|革命主义]]视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念（Klerides, 2023, p.429）。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的再西方化（re-Westernisation）。
+
 ---
 
 ## 相关案例／政策
@@ -142,5 +147,6 @@ Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球�
 
 ## 来源
 
+- [[Klerides_2023_CE]]
 - [[SpronkenSmith_2024_AEHE]]
 - [[Wong_2022_HERD]]
