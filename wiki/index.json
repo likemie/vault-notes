@@ -311,6 +311,16 @@
     ]
   },
   {
+    "title": "Agendas of Attention",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Agendas of Attention.md",
+    "aliases": [
+      "注意力议程",
+      "presences and absences",
+      "在场与缺席"
+    ]
+  },
+  {
     "title": "Assemblage",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Assemblage.md",
@@ -5442,6 +5452,18 @@
     "aliases": [
       "教育建国",
       "教育国家建构"
+    ]
+  },
+  {
+    "title": "Wight's Three Traditions of International Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Wight's Three Traditions of International Theory.md",
+    "aliases": [
+      "怀特国际理论三大传统",
+      "Realism Rationalism Revolutionism",
+      "现实主义 理性主义 革命主义",
+      "国际关系三大传统",
+      "Wight's international theory"
     ]
   },
   {
@@ -10608,6 +10630,11 @@
     "title": "Argument_Cowen_2023_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
+  },
+  {
+    "title": "Argument_Klerides_2023_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md"
   },
   {
     "title": "Argument_Teng_2025_CE",
