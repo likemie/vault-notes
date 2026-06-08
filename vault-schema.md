@@ -304,7 +304,6 @@ cd /Users/shaoyangwu/Documents/MyNotes
 - 只有 Argument 页使用 `## 来源` / `## Sources` 章节，且只放 source wikilink。
 - Argument 页的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
 - source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从 Argument 页的 `## 来源` 章节反向同步。
-- `sources/` 与 `books/` 下的 source record 不是普通 wiki 条目，不进入 `related_*` 自动维护逻辑。
 - Concept / Theory / Method / Person / Fact 不写 YAML `sources` 和正文 `## 来源`；正文中的 Argument 链接同步到 `related_arguments`。
 
 ---
@@ -378,7 +377,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 
 ### Argument style
 
-Argument 可以围绕文献本身，但正文应直接陈述论证思路，不以“论文 / 本文 / 本章 / 文章 / 研究 / 作者 / 研究者 / 本研究 / 论证”等作为常规句子主语。写完后检查段首和句首，出现这些主语时改成问题、证据、机制或结论本身作主语。
+Argument 可以围绕文献本身，但正文应直接陈述论证思路，不以“论文 / 本文 / 本章 / 文章 / 研究 / 作者 / 研究者 / 本研究 / 论证”等作为常规句子主语。直接阐述研究问题、证据、机制或结论。
 
 Argument 必须详细拆解论证链：问题来源、概念或理论、前提、证据如何支持前提、中间推论如何连接到结论，以及可能存在的跳跃、弱证据或过度推论。
 
@@ -389,14 +388,14 @@ Argument 的 `## 论证结构` 中，每一个论证步骤都应独立成段，�
 Argument 引用规则：
 
 - 引用当前 Argument 对应文献时，只写页码，如（p.147）或（pp.147–148），不写作者与年份。
-- 当前文献引用其他文献时，按原引用内容直接记录，不额外添加二手引文标记。
+- 当前文献引用其他文献时，按原引用内容直接记录，不额外添加二手引文标记，使用APA引用
 - 只有引用当前 Argument 对应文献之外的独立来源时，才写作者、年份与页码。
 
 ### Writing and Template Rules
 
 - 新建条目必须读取对应 `wiki/templates/template-*.md`。
 - 模板提供结构和样式；有内容才写，没有内容可省略空章节。
-- Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项；不要把多位作者合并在同一个字符串里。
+- Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。
 - 写正文时先按模板逻辑组织主题，再在每个主题内按时间、发展阶段或论证顺序排列。
 - `summary` 只用于索引说明，不是摘要；必须围绕条目本身写，不围绕某篇论文或章节写。
 - `summary` 外层必须使用双引号包裹；内容可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。
