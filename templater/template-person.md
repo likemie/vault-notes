@@ -86,8 +86,4 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 来源
 
-%% 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 %%
-
-- [[Author_Year_Source]]
