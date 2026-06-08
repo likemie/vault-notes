@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/theories/comparative-education/Actor-Network Theory.md",
+                "file": "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Actor-Network Theory"
+              "title": "Argument_Bainbridge_2022_ROE"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "b83018ce7efe26fb",
   "lastOpenFiles": [
+    "wiki/theories/comparative-education/Actor-Network Theory.md",
     "wiki/persons/argentina/Alejandro Artopoulos.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
@@ -218,7 +219,6 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_LernerLam_2025_TransdisciplinaryExecutiveEd.md",
     "wiki/persons/canada-usa",
     "citation/citation_ambiguous.json",
     "citation/citation_full.json",
