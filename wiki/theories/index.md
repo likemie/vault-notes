@@ -13,7 +13,7 @@ Total entries: **65**
 
 > [!summary]- Comparative Education (8)
 > - [[Actor-Network Theory]] — Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构
-> - [[Dependency Theory]] — "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心和边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因，代表人物包括 Carnoy、Altbach、Arnove 和 Watson
+> - [[Dependency Theory]] — 1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心和边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因，代表人物包括 Carnoy、Altbach、Arnove 和 Watson
 > - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响
 > - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
 > - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析

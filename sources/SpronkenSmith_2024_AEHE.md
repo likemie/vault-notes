@@ -3,8 +3,8 @@ citation: "Spronken-Smith, R., Brown, K., & Cameron, C. (2024). Perceptions of g
 extracted_to:
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Comparative Case Study]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Graduate Attributes]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Citizenship]]"
 processed_date: 2026-05-26
 ---

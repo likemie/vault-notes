@@ -29,6 +29,7 @@ related_persons:
   - "[[Michael Sadler]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Sputnik Shock 1957]]"
   - "[[Civil Service Examination]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[A Nation at Risk 1983]]"
@@ -175,7 +176,7 @@ updated: '2026-05-28'
 >
 > 两层之间的箭头指向外化过程：改革行动者从结构推力中选择性地援引证据来"包装"改革方案。
 >
-> > [!example] Sputnik 卫星与话语转移
+> > [!example] [[Sputnik Shock 1957|Sputnik]] 卫星与话语转移
 > > 1957 年苏联发射 Sputnik 卫星后，美国出现了大量将苏联教育与美国教育对比的书籍，如《What Ivan Knows that Johnny Doesn't》（Trace, 1961）。Sputnik 是一个结构推力（技术竞争），Trace 的书是一个外化动作——用苏联这个外国范例来"危机化"（scandalize）美国教育的现状。值得注意的是，美国从未从苏联"借用"任何实质性的教育政策——但这本书仍然成功地推动了美国的教育改革讨论。这就是话语转移的典型运作方式。（p. 230）
 >
 > ---

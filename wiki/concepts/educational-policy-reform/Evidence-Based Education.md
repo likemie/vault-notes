@@ -17,7 +17,6 @@ tags:
 - paradigm/positivist
 - region/global
 related_concepts:
-  - "[[What Works Movement]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Champ]]"
@@ -61,6 +60,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
+  - "[[Systematic Review]]"
   - "[[Improvement Science]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Meta-meta-analysis]]"
@@ -141,7 +141,7 @@ updated: '2026-05-24'
 ## 定义
 
 > [!info]
-> 证据本位教育（Evidence-Based Education, EBE）是将循证医学的核心理念——专业实践应以最佳研究证据为基础——应用于教育领域的运动和学术讨论。其核心问题是"什么有效"（[[What Works Movement|what works]]），但这一问题的合法性和可行性本身已成为激烈学术争议的焦点。
+> 证据本位教育（Evidence-Based Education, EBE）是将循证医学的核心理念——专业实践应以最佳研究证据为基础——应用于教育领域的运动和学术讨论。其核心问题是"什么有效"（what works），但这一问题的合法性和可行性本身已成为激烈学术争议的焦点。
 
 证据本位教育（Evidence-Based Education, EBE）是将"专业实践应以最佳研究证据为基础或至少受其指导"这一理念应用于教育领域的实践和运动。它源自 1990 年代初期循证医学的发展（Guyatt et al., 1992），主张教育者的教学决策应从[[Experimental Research|实验研究]]——特别是[[Randomised Controlled Trials|随机对照试验]]（RCT）——中获取有效性依据，以回答"什么有效"（what works）的问题。
 
@@ -195,7 +195,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 ### 批判性文献的兴起与演进（2004–2019）
 
 - **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
-- **2007** — Biesta 在 *Educational Theory* 发表 "Why '[[What Works Movement|what works]]' Won't Work"，提出"民主缺陷"概念
+- **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
 - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE]]）
 - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS]]）
 - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为整合媒介（Peterson, 2016）
@@ -247,7 +247,7 @@ Wiliam (2019, pp.7–8) 从**教师质量的未测量变异**这一角度补充�
 - **强版本（evidence-based）**：专业人士只应被允许做有正面研究证据支持的事——以 RCT 证据作为实践决策的核心或唯一依据
 - **弱版本（evidence-informed）**：证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来整合证据，而非被证据驱动
 
-Nelson & Campbell (2017, pp. 128–129) 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。Wiliam (2019, p.2) 将教师是"技术人员还是专业人员"的问题定位为**实证问题**：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、系统综述还是其他研究）能否帮助改善学生成果？
+Nelson & Campbell (2017, pp. 128–129) 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。Wiliam (2019, p.2) 将教师是"技术人员还是专业人员"的问题定位为**实证问题**：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、[[Systematic Review|系统综述]]还是其他研究）能否帮助改善学生成果？
 
 ### 证据到政策的转化模型
 
@@ -332,7 +332,7 @@ Peterson (2016, pp. 300–302) 系统诊断了以黑箱 RCT 为核心的当前"�
 
 **三步实施路线图**（Peterson, 2016, pp. 307–308）：
 1. 从公共健康和社会政策领域学习机制识别专业知识的跨领域研究者小组
-2. [[What Works Movement|what works]] 中心承担协调机构角色，系统性捕捉跨网络和现有试验库中的实践猜想
+2. what works 中心承担协调机构角色，系统性捕捉跨网络和现有试验库中的实践猜想
 3. 开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）
 
 > "The shared set of mechanisms would provide a means to learn from, and form a continuity with, the insights generated within improvement and inquiry networks, and within the learning sciences." (Peterson, 2016, p. 308)
@@ -384,7 +384,7 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 > EBE 的学术讨论跨越教育哲学、科学哲学、政治经济学和分析认识论等多个学科领域，各理论传统为理解 EBE 的合法性、局限性和制度韧性提供了不同的批判资源和替代方案。
 
 - [[Epistemic Governance]] — Zapp (2022) 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度：当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不仅仅是决策的信息来源，而成为治理合法性的构成性要素，大学和研究者因此进入全球治理的核心（Zapp, 2022, pp.145–146）
-- [[Tullock's Bureaucracy Theory]] — Cowen (2019) 用来解释 EBE 制度韧性：[[Randomised Controlled Trials|RCT]]/系统综述作为对主权者透明的过滤机制
+- [[Tullock's Bureaucracy Theory]] — Cowen (2019) 用来解释 EBE 制度韧性：[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为对主权者透明的过滤机制
 - [[Cartwright's Three-Stage Knowledge Framework]] — 揭示 RCT 证据从"在某处有效"到"对我们有效"外推所需的三个知识阶段
 - [[Critical Realism]] — Wrigley & McCusker (2019) 用作批判 EBE 方法论的哲学框架，区分三层本体论和开放/封闭系统
 - [[Goldman's Discrimination Theory of Knowledge]] — Wiliam (2019) 运用此理论论证教育知识需要区分真实状态与相关替代状态的能力
@@ -399,7 +399,7 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 
 #### 民主缺陷（Biesta, 2007）
 
-EBE 将"什么有效"的问题技术化——将教育决策从民主协商的领域转移到技术官僚手中。Biesta (2007) 在 *Educational Theory* 发表 "Why '[[What Works Movement|what works]]' Won't Work"，首次提出这一概念。
+EBE 将"什么有效"的问题技术化——将教育决策从民主协商的领域转移到技术官僚手中。Biesta (2007) 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，首次提出这一概念。
 
 #### 三重缺陷框架（Biesta, 2010）
 
@@ -533,7 +533,7 @@ Cowen (2019) 对比了 EBE 当前的方法偏好与方法多元论视角下的�
 
 Biesta 从认识论维度识别了 EBE 的"缺陷"；Cowen (2019) 借助 [[Tullock's Bureaucracy Theory]] 追问：**既然缺陷已知，为什么 EBE 仍然主导政策？**
 
-答案在于 EBE 的**官僚功能**：RCT + 系统综述提供了一套**对主权者透明的过滤机制**——事先注册的研究协议和形式化的效应量产生看似客观的决策依据。
+答案在于 EBE 的**官僚功能**：RCT + [[Systematic Review|系统综述]]提供了一套**对主权者透明的过滤机制**——事先注册的研究协议和形式化的效应量产生看似客观的决策依据。
 
 Cowen 主张：EBE 应(a) 切断与行政问责机制的捆绑；(b) 拥抱从准实验到定性分析的方法多元论；(c) 承认物质资源的系统性影响。
 

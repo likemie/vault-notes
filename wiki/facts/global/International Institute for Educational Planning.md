@@ -20,7 +20,10 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sputnik Shock 1957]]"
+  - "[[Economics of Education Movement]]"
+  - "[[Comparative Education Center at Chicago 1958]]"
 related_arguments: []
 sources:
   - "[[Klerides_2023_CE]]"
@@ -37,7 +40,7 @@ updated: 2026-06-08
 ## 背景
 
 > [!info]
-> UNESCO [[International Education|国际教育]]规划研究所（International Institute for Educational Planning, IIEP）创建于冷战高峰时期，是比较教育[[Development Turn in Comparative Education|发展转向]]的关键制度产物。二战后领土帝国崩溃，美国和苏联两个超级大国为争夺对新独立国家的"庇护"而将教育作为关键竞争工具。将教育规划与经济增长挂钩的技术官僚思维——源自 Sputnik 冲击后在美国兴起的教育经济学运动——为 IIEP 的创建提供了理论基础（Klerides, 2023, pp.422–423）。
+> UNESCO [[International Education|国际教育]]规划研究所（International Institute for Educational Planning, IIEP）创建于冷战高峰时期，是比较教育[[Development Turn in Comparative Education|发展转向]]的关键制度产物。二战后领土帝国崩溃，美国和苏联两个超级大国为争夺对新独立国家的"庇护"而将教育作为关键竞争工具。将教育规划与经济增长挂钩的技术官僚思维——源自 [[Sputnik Shock 1957|Sputnik]] 冲击后在美国兴起的[[Economics of Education Movement|教育经济学运动]]——为 IIEP 的创建提供了理论基础（Klerides, 2023, pp.422–423）。
 
 ---
 
@@ -54,7 +57,7 @@ updated: 2026-06-08
 
 > [!success]
 > - IIEP 的创建标志着比较教育[[Development Turn in Comparative Education|发展转向]]的制度化高峰。它将教育规划的技术援助确立为核心业务模式，深刻塑造了比较教育在"发展中国家"的研究和实践形态（Klerides, 2023, pp.422–423）。
-> - 与芝加哥大学比较教育中心（1958 年由 C. Arnold Anderson 创立）一起，IIEP 在将比较教育与教育经济学融合方面发挥了关键作用，帮助人力资本理论在全球扩散（Brehm, 2023, cited in Klerides, 2023, p.423）。
+> - 与[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]（1958 年由 C. Arnold Anderson 创立）一起，IIEP 在将比较教育与教育经济学融合方面发挥了关键作用，帮助人力资本理论在全球扩散（Brehm, 2023, cited in Klerides, 2023, p.423）。
 > - IIEP 是现实主义比较教育在制度层面的典型体现：教育被视为国家竞争力的工具，国际组织充当了最强大国家外交政策延伸的渠道。
 
 ---

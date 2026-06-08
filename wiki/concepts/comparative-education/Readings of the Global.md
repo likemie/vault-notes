@@ -13,6 +13,7 @@ tags:
   - paradigm/historical
 related_concepts:
   - "[[Transitology]]"
+  - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[Cross-National Attraction]]"
   - "[[Global Citizenship]]"
@@ -115,7 +116,7 @@ updated: 2026-06-06
 ## 国际关系理论中的延伸
 
 > [!abstract]
-> Klerides（2023）将 Cowen 的"全球阅读"概念与[[Wight's Three Traditions of International Theory|国际关系理论]]对接，论证国际关系的三大思想传统——现实主义、理性主义和革命主义——各自构成了对全球的不同阅读方式。每一种传统都是一种阅读全球的透镜，照亮某些现象而遮蔽另一些，从而产生不同的[[Agendas of Attention|注意力议程]]和不同的比较教育形态（Klerides, 2023, p.417）。
+> Klerides（2023）将 Cowen 的"全球阅读"概念与[[Wight's Three Traditions of International Theory|国际关系理论]]对接，论证国际关系的三大思想传统——现实主义、理性主义和[[Revolutionism|革命主义]]——各自构成了对全球的不同阅读方式。每一种传统都是一种阅读全球的透镜，照亮某些现象而遮蔽另一些，从而产生不同的[[Agendas of Attention|注意力议程]]和不同的比较教育形态（Klerides, 2023, p.417）。
 
 > [!abstract] 现实主义作为全球阅读
 > 将国际社会阅读为无政府状态的权力竞技场，主权国家是主要行动者。在这套阅读下，全球被理解为由国家和国际权力等级构成的地缘政治空间，比较教育的任务是帮助国家在竞争中获取优势。这一阅读照亮了[[Cross-National Attraction|跨国吸引]]、参照社会和冷战教育竞争，遮蔽了比较教育参与殖民和帝国扩张的历史（Klerides, 2023, pp.420–423）。

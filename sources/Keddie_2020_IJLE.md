@@ -4,12 +4,12 @@ extracted_to:
   - "[[Argument_Keddie_2020_IJLE]]"
   - "[[School Leadership]]"
   - "[[School Autonomy]]"
-  - "[[New Public Management]]"
   - "[[Gonski Reforms]]"
   - "[[Independent Public Schools Western Australia]]"
   - "[[Karmel Report]]"
   - "[[Local Schools Local Decisions]]"
   - "[[My School Website]]"
+  - "[[New Public Management]]"
 processed_date: 2026-05-03
 ---
 

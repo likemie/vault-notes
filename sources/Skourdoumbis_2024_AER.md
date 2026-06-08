@@ -10,12 +10,12 @@ extracted_to:
   - "[[Educational Services Australia]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[LANTITE]]"
-  - "[[Strong Beginnings Report]]"
   - "[[TEMAG]]"
   - "[[Education Endowment Foundation]]"
   - "[[Cognitive Load Theory]]"
   - "[[Bacchi's WPR Approach]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Strong Beginnings Report]]"
 processed_date: 2026-06-06
 ---
 

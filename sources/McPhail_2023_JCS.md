@@ -4,7 +4,6 @@ extracted_to:
   - "[[Recontextualization]]"
   - "[[Big Ideas]]"
   - "[[Mātauranga Māori]]"
-  - "[[Social Realism]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Basil Bernstein]]"
   - "[[Gilbert Ryle]]"
@@ -22,6 +21,7 @@ extracted_to:
   - "[[Johan Muller]]"
   - "[[Michael Young]]"
   - "[[Outcomes-based Education]]"
+  - "[[Social Realism]]"
 processed_date: 2026-06-07
 ---
 

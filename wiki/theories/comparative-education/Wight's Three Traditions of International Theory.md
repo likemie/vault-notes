@@ -5,13 +5,14 @@ aliases:
   - 国际关系三大传统
   - Wight's international theory
   - 国际关系理论
-summary: Martin Wight 将国际关系思想归纳为现实主义（Machiavelli）、理性主义（Grotius）和革命主义（Kant）三大传统，分别以权力、权威和武力为核心概念，为理解国际社会的不同形态提供了分析框架
+summary: "Martin Wight 将国际关系思想归纳为现实主义（Machiavelli）、理性主义（Grotius）和革命主义（Kant）三大传统，分别以权力、权威和武力为核心概念，为理解国际社会的不同形态提供了分析框架"
 type: theory
 tags:
   - theory/international-relations
   - subject/comparative-education
   - theme/geopolitics
 related_concepts:
+  - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ updated: 2026-06-08
 ## 核心主张
 
 > [!tip]
-> Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（realism）、理性主义（rationalism）和革命主义（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能（Klerides, 2023, p.417）。
+> Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（realism）、理性主义（rationalism）和[[Revolutionism|革命主义]]（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能（Klerides, 2023, p.417）。
 
 > [!quote]
 > "international society is nothing but the great powers"（Wight, 1992, p.32）
@@ -65,7 +66,7 @@ updated: 2026-06-08
 
 - 对应 [[Immanuel Kant|Kant]] 传统。政治的终极现实不是国家间关系，而是国家内部个体与群体之间的关系。终极现实是一个普遍的人类共同体。
 - 核心概念是武力（force）：推翻权力以执行革命教义、进行必要重建的能力。
-- 革命主义同样诉诸道德，但道德不是要求国家成为好成员的行为规则，而是要求所有人为人类博爱而工作的道德统一。
+- [[Revolutionism|革命主义]]同样诉诸道德，但道德不是要求国家成为好成员的行为规则，而是要求所有人为人类博爱而工作的道德统一。
 - 世界被划分为忠于世界国家愿景者与阻挡者两类。前者具有"世界主义而非国际主义"的特征和"传教性质"（Wight, 1992, p.8）。
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-06-08
 > [!note]
 > - **1950 年代末至 1960 年代**：Martin Wight 在伦敦政治经济学院（LSE）的系列讲座中提出三大传统框架，讲座内容于 1990 年代初由 Gabriele Wight 和 Brian Porter 整理出版为 International Theory: The Three Traditions（Wight, 1992）。
 > - **1970 年代至今**：三大传统成为英国学派（English School）国际理论的基础，由 Hedley Bull 等学者进一步发展和传播（Navari and Green, 2014）。
-> - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"[[Agendas of Attention|注意力议程]]"（agendas of attention），分别产生现实主义、理性主义和革命主义的比较教育形态（Klerides, 2023）。
+> - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"[[Agendas of Attention|注意力议程]]"（agendas of attention），分别产生现实主义、理性主义和[[Revolutionism|革命主义]]的比较教育形态（Klerides, 2023）。
 
 ---
 

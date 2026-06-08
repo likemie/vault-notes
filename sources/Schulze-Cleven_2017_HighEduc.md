@@ -17,7 +17,6 @@ extracted_to:
   - "[[Financialization of Higher Education]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge Rents]]"
-  - "[[New Public Management]]"
   - "[[Quasi-commodification of Knowledge]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[Varieties of Capitalism]]"
@@ -30,6 +29,7 @@ extracted_to:
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[New Public Management]]"
 processed_date: 2026-06-01
 ---
 

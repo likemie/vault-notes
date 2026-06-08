@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Interpretation Community]]"
   - "[[Structural Coupling]]"
-  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Danish Public School Reform]]"
   - "[[Hattie på dansk]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-03
 ---
 

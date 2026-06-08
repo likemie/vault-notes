@@ -36,7 +36,6 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Research Problem]]"
   - "[[Progressive Neoliberalism]]"
-  - "[[Big Ideas]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Cultural Political Economy]]"
@@ -191,7 +190,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 - 国家在知识经济化过程中扮演关键角色——通过选择性空间政策（spatial [[Selectivity]]）、创业型城市化（entrepreneurial urbanisation）和[[Geopolitical Subject|地缘政治主体]]生产（crafting of geopolitical subjects）来中介空间分选过程（Moisio, 2022, pp.28–32）
 - [[Progressive Neoliberalism|进步新自由主义]]（progressive neoliberalism）作为一种主要的"硅谷世界观"——强调无国界世界——推动了过去三十年的知识经济化。但这一意识形态政治形态可能正在消退，替代性的地缘政治世界观正在浮现（Moisio, 2022, pp.31–32）
 
-> [!info] [[Big Ideas|核心概念]]框架
+> [!info] 核心概念框架
 > 知识经济化中的"知识"有四种含义：(1) 思想和创新在创造价值中的作用；(2) 专家对知识密集型资本主义本身的[[Knowledge Production|知识生产]]（履行性知识）；(3) 对政治社区作为知识经济体的表现和发展数据的持续收集；(4) 社会的普遍数据化——数据成为关于人类行为、需求和欲望的有价值信息池（Moisio, 2022, p.25）
 
 

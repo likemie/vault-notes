@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Revolutionism]]"
   - "[[Analytic Framework]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -116,7 +117,7 @@ updated: 2026-05-22
 ## 国际关系理论中的康德
 
 > [!info]
-> 在 Martin Wight 的[[Wight's Three Traditions of International Theory|国际关系三大传统]]中，康德是革命主义（revolutionism）传统的代表人物。Wight（1992）在 1950 年代末至 1960 年代的系列讲座中，将革命主义定义为"[[Immanuel Kant|Kant]] 的传统"，与现实主义（Machiavelli）和理性主义（Grotius）并列，构成英国学派国际理论的基础（Klerides, 2023, p.418）。
+> 在 Martin Wight 的[[Wight's Three Traditions of International Theory|国际关系三大传统]]中，康德是[[Revolutionism|革命主义]]（revolutionism）传统的代表人物。Wight（1992）在 1950 年代末至 1960 年代的系列讲座中，将革命主义定义为"[[Immanuel Kant|Kant]] 的传统"，与现实主义（Machiavelli）和理性主义（Grotius）并列，构成英国学派国际理论的基础（Klerides, 2023, p.418）。
 
 > [!abstract] 革命主义传统的核心
 > 在 Wight 的框架中，革命主义的康德将政治的终极现实理解为个体与群体之间的关系，而非国家间关系。终极现实是一个普遍的人类共同体（universal human community），其表达可能要求人类"将国际社会硬化、定义和构建为一个世界国家，一个超国家"（Wight, 1992, p.41, cited in Klerides, 2023, p.418）。

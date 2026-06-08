@@ -31,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
@@ -89,7 +90,7 @@ updated: 2026-05-23
 2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Methods Research|混合方法]]，欧盟文件也主要提供指导而非强制要求（Pellegrini & Vivanet, 2021, pp.26-27）。
 3. 欧盟层面的政策进程 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力（Pellegrini & Vivanet, 2021, pp.28-29）。
 
-例子：[[Azione LIM]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
+例子：[[Azione LIM]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和[[Systematic Review|系统综述]]显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 第二步：欧洲建立了若干证据中介和研究网络
 

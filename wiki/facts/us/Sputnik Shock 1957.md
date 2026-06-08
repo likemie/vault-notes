@@ -4,7 +4,7 @@ aliases:
   - Sputnik Shock
   - 斯普特尼克冲击
   - Sputnik
-summary: 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
+summary: "1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接"
 type: fact
 subtype: event
 region: us
@@ -27,6 +27,8 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Economics of Education Movement]]"
+  - "[[Comparative Education Center at Chicago 1958]]"
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
@@ -58,7 +60,7 @@ updated: 2026-05-18
 >
 > > 例：今天的 PISA 排名引发各国"教育危机"的讨论（"我们的学生数学排名又掉了！"），其逻辑原型就是 Sputnik Shock——"他们的教育系统比我们的好，所以他们在竞争中领先"。Sputnik Shock 是这种"教育地缘政治焦虑"的原始模板。
 >
-> - **比较教育的双重转向**：Sputnik Shock 不仅推动了科学教育强化，还触发了两项影响比较教育格局的转向。其一，被解读为整体教育的失败后，美国同时转向英国的儿童中心教学法以振兴小学教育（Klerides, 2023, p.421；Ravitch, 1983）。其二，Sputnik Shock 后在美国政府和学术圈中兴起的教育经济学运动（economics of education），以科学、数学和语言为核心关注——这正是日后 [[PISA]] 的学科焦点。由 C. Arnold Anderson 于 1958 年在芝加哥大学创立的 Comparative Education Center 在融合比较教育与教育经济学方面发挥了关键作用，与美方主导的国际项目和美方支配的国际组织一起，帮助人力资本理论在全球扩散（Klerides, 2023, pp.422–423）。
+> - **比较教育的双重转向**：Sputnik Shock 不仅推动了科学教育强化，还触发了两项影响比较教育格局的转向。其一，被解读为整体教育的失败后，美国同时转向英国的儿童中心教学法以振兴小学教育（Klerides, 2023, p.421；Ravitch, 1983）。其二，Sputnik Shock 后在美国政府和学术圈中兴起的[[Economics of Education Movement|教育经济学运动]]（economics of education），以科学、数学和语言为核心关注——这正是日后 [[PISA]] 的学科焦点。由 C. Arnold Anderson 于 1958 年在芝加哥大学创立的 [[Comparative Education Center at Chicago 1958|Comparative Education Center]] 在融合比较教育与教育经济学方面发挥了关键作用，与美方主导的国际项目和美方支配的国际组织一起，帮助人力资本理论在全球扩散（Klerides, 2023, pp.422–423）。
 
 ## 历史意义
 

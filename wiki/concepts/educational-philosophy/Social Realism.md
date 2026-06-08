@@ -12,11 +12,11 @@ tags:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Powerful Knowledge]]"
-  - "[[Big Ideas]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Lev Vygotsky]]"
+  - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -47,7 +47,7 @@ updated: 2026-06-06
 
 > [!example]
 > - vs [[Constructivist Paradigm|社会建构主义]]（Social Constructivism） — 社会建构主义强调知识是社会建构的，但可能忽视知识的独立存在和效果。社会实在论承认知识是社会建构的，但坚持知识独立于知者存在且具有在世界中的效果。
-> - vs [[Powerful Knowledge|有力知识]] — 有力知识是社会实在论框架中的一个[[Big Ideas|核心概念]]，描述来自学科的、具有独特禀赋的知识。社会实在论是更广泛的认识论框架，有力知识是其在课程研究中的具体应用。
+> - vs [[Powerful Knowledge|有力知识]] — 有力知识是社会实在论框架中的一个核心概念，描述来自学科的、具有独特禀赋的知识。社会实在论是更广泛的认识论框架，有力知识是其在课程研究中的具体应用。
 
 ---
 
@@ -59,7 +59,7 @@ updated: 2026-06-06
 > - **学科知识的禀赋**。学科知识的结构为结构化学习和通过设计连贯性增强人类认知发展提供了独特优势（McPhail, 2023）。
 > - **公平的基础**。社会实在论主张所有学生都有权接触学科的概念性认知方式，获得这种知识是公平的基础。OECD (2019) 也指出「获得学科知识的机会也是公平的基础」（引自 McPhail et al., 2023）。
 > - **知识与认知发展**。认知发展与接触结构化学科知识之间存在密切关系。学生应当通过成为学科「探究社区」的成员来发展与知识的关系，最初作为非常初级的成员，与教师和高年级学生一起参与探究（Young, 2020, 引自 McPhail et al., 2023）。
-> - **理论来源**。社会实在论的工作源自涂尔干 (1995)、[[Lev Vygotsky|维果茨基]] (1986) 和伯恩斯坦 (2000)，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展（McPhail et al., 2023）。
+> - **理论来源**。社会实在论的工作源自涂尔干 (1995)、[[Lev Vygotsky|维果茨基]] (1986) 和[[Basil Bernstein|伯恩斯坦]] (2000)，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展（McPhail et al., 2023）。
 
 ---
 

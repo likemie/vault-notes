@@ -14,6 +14,7 @@ tags:
   - theme/colonialism
   - region/global
 related_concepts:
+  - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
 related_theories: []
 related_methods: []
@@ -98,7 +99,7 @@ updated: 2026-06-08
 ## 相关研究
 
 > [!example]
-> - [[Argument_Klerides_2023_CE]] — Klerides 将依附论比较教育置于革命主义国际关系传统中，论证其[[Agendas of Attention|注意力议程]]如何使比较教育从"有用的科学"转变为道德和批判的事业
+> - [[Argument_Klerides_2023_CE]] — Klerides 将依附论比较教育置于[[Revolutionism|革命主义]]国际关系传统中，论证其[[Agendas of Attention|注意力议程]]如何使比较教育从"有用的科学"转变为道德和批判的事业
 
 ---
 

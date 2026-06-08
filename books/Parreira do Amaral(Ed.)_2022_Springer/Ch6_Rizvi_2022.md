@@ -7,7 +7,6 @@ extracted_to:
   - "[[Transnational Research Collaboration]]"
   - "[[Classical Geopolitics]]"
   - "[[Knowledge Capitalism]]"
-  - "[[New Public Management]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Orientalism]]"
+  - "[[New Public Management]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

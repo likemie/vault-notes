@@ -11,8 +11,8 @@ extracted_to:
   - "[[Kimberly Ochs]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Policy Borrowing]]"
-  - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Cross-National Attraction]]"
+  - "[[Argument_Rappleye_2006_RCIE]]"
 processed_date: 2026-05-06
 ---
 

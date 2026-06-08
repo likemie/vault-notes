@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Møller_2017]]"
   - "[[School Leadership]]"
   - "[[Transformative Leadership]]"
-  - "[[New Public Management]]"
   - "[[Performativity of Measurement]]"
   - "[[ISSPP Project]]"
   - "[[OECD Improving School Leadership Project]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Christopher Day]]"
   - "[[Helen Gunter]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[New Public Management]]"
 processed_date: 2026-05-02
 ---
 

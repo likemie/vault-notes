@@ -13,7 +13,8 @@ tags:
   - paradigm/decolonial
   - subject/comparative-education
   - region/global
-related_concepts: []
+related_concepts:
+  - "[[Revolutionism]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -60,7 +61,7 @@ updated: 2026-06-08
 
 ### 比较教育作为再西方化工具
 
-从革命主义视角来看，比较教育自身深度参与了再西方化事业。治理机构如 OECD 被重塑为"知识的新帝国"（Klerides, Kotthoff, and Pereyra, 2014）和"更精巧的帝国"（Cowen, 2018）。[[PISA]] 等治理形式被解读为"平庸的帝国主义"（banal imperialism），通过大数据的日常生产和流通再生产对非西方的他者化（Silova and Auld, 2019）。
+从[[Revolutionism|革命主义]]视角来看，比较教育自身深度参与了再西方化事业。治理机构如 OECD 被重塑为"知识的新帝国"（Klerides, Kotthoff, and Pereyra, 2014）和"更精巧的帝国"（Cowen, 2018）。[[PISA]] 等治理形式被解读为"平庸的帝国主义"（banal imperialism），通过大数据的日常生产和流通再生产对非西方的他者化（Silova and Auld, 2019）。
 
 ### 去西方化的回应
 

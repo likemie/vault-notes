@@ -22,6 +22,7 @@ related_persons: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[PISA]]"
+  - "[[Comparative Education Center at Chicago 1958]]"
   - "[[International Institute for Educational Planning]]"
 related_arguments: []
 sources:
@@ -39,7 +40,7 @@ updated: 2026-06-08
 ## 背景
 
 > [!info]
-> 教育经济学运动（economics of education movement）是 Sputnik 冲击（[[Sputnik Shock 1957]]）之后在美国政府和学术界兴起的一场思想运动。1957 年苏联卫星发射挑战了美国在科技教育上的领先地位，触发了一种新的教育思维：教育不是消费，而是投资——投资于人力资本以提升国家竞争力和经济增长（Klerides, 2023, pp.422–423）。
+> 教育经济学运动（economics of education movement）是 [[Sputnik Shock 1957|Sputnik]] 冲击（[[Sputnik Shock 1957]]）之后在美国政府和学术界兴起的一场思想运动。1957 年苏联卫星发射挑战了美国在科技教育上的领先地位，触发了一种新的教育思维：教育不是消费，而是投资——投资于人力资本以提升国家竞争力和经济增长（Klerides, 2023, pp.422–423）。
 
 运动的核心学科关注是科学、数学和语言——这三个领域后来成为 [[PISA]] 的测试焦点（Tröhler, 2013, cited in Klerides, 2023, p.423）。
 
@@ -48,7 +49,7 @@ updated: 2026-06-08
 ## 经过
 
 > [!note]
-> - **1958 年**：C. Arnold Anderson 在芝加哥大学创立比较教育中心（Comparative Education Center），该中心在融合比较教育与教育经济学方面发挥了关键作用（Brehm, 2023, cited in Klerides, 2023, p.423）。
+> - **1958 年**：C. Arnold Anderson 在芝加哥大学创立比较教育中心（[[Comparative Education Center at Chicago 1958|Comparative Education Center]]），该中心在融合比较教育与教育经济学方面发挥了关键作用（Brehm, 2023, cited in Klerides, 2023, p.423）。
 > - **1960 年代**：教育经济学运动的技术官僚和经济化的教育观——将教育视为投资——成为国际组织教育规划工作的理论基础。UNESCO [[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）于 1963 年成立，OECD 于 1961 年从 OEEC 演变而来，均以教育规划促进经济增长为核心使命（Klerides, 2023, p.422）。
 > - **扩散路径**：芝加哥大学比较教育中心与美国发起并资助的国际项目（西欧的马歇尔计划、拉丁美洲的进步联盟、地中海区域项目）以及美国支配的国际组织一起，帮助人力资本理论在全球扩散。冷战时期，技术官僚教育观从美国扩散到西欧，然后到南欧和拉丁美洲（Elfert, 2019, cited in Klerides, 2023, pp.422–423）。
 

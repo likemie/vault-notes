@@ -9035,6 +9035,16 @@
     ]
   },
   {
+    "title": "OECD",
+    "type": "fact",
+    "path": "wiki/facts/global/OECD.md",
+    "aliases": [
+      "经济合作与发展组织",
+      "Organisation for Economic Co-operation and Development",
+      "经合组织"
+    ]
+  },
+  {
     "title": "OECD AHELO Project",
     "type": "fact",
     "path": "wiki/facts/global/OECD AHELO Project.md",
