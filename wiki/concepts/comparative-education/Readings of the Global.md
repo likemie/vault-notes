@@ -3,7 +3,9 @@ title: Readings of the Global
 aliases:
   - 全球解读
   - readings of the global
-summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
+  - reading the global
+  - 阅读全球
+summary: Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化
 type: concept
 tags:
   - theme/comparative-education
