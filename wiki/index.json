@@ -8750,12 +8750,12 @@
     ]
   },
   {
-    "title": "CESE",
+    "title": "Comparative Education Society in Europe",
     "type": "fact",
-    "path": "wiki/facts/eu/CESE.md",
+    "path": "wiki/facts/eu/Comparative Education Society in Europe.md",
     "aliases": [
       "欧洲比较教育学会",
-      "Comparative Education Society in Europe",
+      "CESE",
       "欧洲比较教育学会成立"
     ]
   },
@@ -8946,16 +8946,6 @@
     ]
   },
   {
-    "title": "IIEP",
-    "type": "fact",
-    "path": "wiki/facts/global/IIEP.md",
-    "aliases": [
-      "UNESCO国际教育规划研究所",
-      "International Institute for Educational Planning",
-      "UNESCO IIEP"
-    ]
-  },
-  {
     "title": "INES Lugano General Assembly 1991",
     "type": "fact",
     "path": "wiki/facts/global/INES Lugano General Assembly 1991.md",
@@ -8982,6 +8972,16 @@
     "aliases": [
       "国际教育系统指标",
       "INES"
+    ]
+  },
+  {
+    "title": "International Institute for Educational Planning",
+    "type": "fact",
+    "path": "wiki/facts/global/International Institute for Educational Planning.md",
+    "aliases": [
+      "UNESCO国际教育规划研究所",
+      "IIEP",
+      "UNESCO IIEP"
     ]
   },
   {

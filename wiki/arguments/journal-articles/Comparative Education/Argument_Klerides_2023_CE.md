@@ -44,8 +44,8 @@ related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
   - "[[PISA]]"
-  - "[[IIEP]]"
-  - "[[CESE]]"
+  - "[[International Institute for Educational Planning]]"
+  - "[[Comparative Education Society in Europe]]"
 related_arguments: []
 sources:
   - "[[Klerides_2023_CE]]"
@@ -191,7 +191,7 @@ updated: 2026-06-08
 > 对发展中国家教育的研究同时也旨在制造"国别专家"，使他们能够充当新政府的"技术顾问"，帮助这些国家"现代化"并确保其政治支持。由于"发展中国家"的教育被视为劣于资本主义或社会主义国家的教育而无法与之比较，单一国家、区域特定研究（single-country, area-specific studies）成为比较研究的主要方法。制度层面也发生了变化：伦敦大学教育学院的热带地区教育系更名为发展中国家教育系（Unterhalter and Kadiwal, 2022），"国际"一词被插入美国比较教育学会的名称中，以部分反映该领域向国际干预的转向（Epstein, 2016）。
 
 > [!example] 国际组织与发展转向
-> 国际组织在冷战期间也将注意力转向发展，并得到美国政府和机构的支持。UNESCO 国际教育规划研究所（[[IIEP]]）于 1963 年成立，由前美国教育助理国务卿 Philip Coombs 担任首任主任，世界银行和福特基金会为主要合作伙伴和捐赠方。OECD 于 1961 年从欧洲经济合作组织（OEEC）演变而来，而 OEEC 本身就是美国于 1948 年为管理欧洲复兴计划（马歇尔计划）而创建的。这些机构建立的目的是为发展中国家（IIEP）和欧洲国家（OEEC/OECD）的教育规划提供技术援助，以促进经济增长（Elfert, 2017, 2019）。
+> 国际组织在冷战期间也将注意力转向发展，并得到美国政府和机构的支持。UNESCO 国际教育规划研究所（[[International Institute for Educational Planning|IIEP]]）于 1963 年成立，由前美国教育助理国务卿 Philip Coombs 担任首任主任，世界银行和福特基金会为主要合作伙伴和捐赠方。OECD 于 1961 年从欧洲经济合作组织（OEEC）演变而来，而 OEEC 本身就是美国于 1948 年为管理欧洲复兴计划（马歇尔计划）而创建的。这些机构建立的目的是为发展中国家（IIEP）和欧洲国家（OEEC/OECD）的教育规划提供技术援助，以促进经济增长（Elfert, 2017, 2019）。
 >
 > 教育规划对经济增长的重要性基于一种技术官僚和经济学化的教育观——将教育视为投资。这种观点本身源自 Sputnik 冲击之后在美国政府和学术界兴起的教育经济学运动（economics of education），其核心关注正是科学、数学和语言——也就是 PISA 今天的学科焦点（Tröhler, 2013）。由 C. Arnold Anderson 于 1958 年在芝加哥大学创立的比较教育中心（Comparative Education Center），在将比较教育与教育经济学融合方面发挥了关键作用（Brehm, 2023）。该中心与美国发起并资助的国际项目（西欧的马歇尔计划、拉丁美洲的进步联盟、地中海区域项目）以及美国支配的国际组织一起，帮助人力资本理论在全球扩散，铺就了后来被称为"全球化"的道路。
 
@@ -242,7 +242,7 @@ updated: 2026-06-08
 > [!example] 二战后：[[Joseph Lauwerys|Lauwerys]] 与比较教育的制度化
 > 二战后，比较教育对通过教育实现社会民主化和改善人类生活的改革承诺，促进了它进一步整合进 UNESCO 等组织。UNESCO 早期将"[[Lifelong Learning|终身学习]]"作为核心关注，拥抱了这些教育目标（Elfert, 2023）。
 >
-> 这种承诺最鲜明的体现是 Joseph Lauwerys。他是英国第一位比较教育教授（1947），也是[[CESE|欧洲比较教育学会]]（[[CESE]]）首任主席（1961–1967）。Cowen（2020）指出，Lauwerys 作为 UNESCO 最早的顾问之一，深刻致力于"国际理解"、"民主理想"和"科学人道主义"。比较教育与和平、民主和人道的国际政治的纠缠在学科的大学制度化中发挥了关键作用。随着比较教育者（如 Brian Holmes）参与 UNESCO 的专家会议和教育使命，伦敦大学教育学院设立了专门的比较教育系（Unterhalter and Kadiwal, 2022）。CESE 同样诞生于国际合作政治，特别是 Lauwerys 与 UNESCO 教育研究所所长、后任 CESE 主席（1971–1972）的 Saul Robinsohn 之间的合作。CESE 的早期目标之一是促进国际学术交流以推动欧洲教育改革（Cowen, 2020）。
+> 这种承诺最鲜明的体现是 Joseph Lauwerys。他是英国第一位比较教育教授（1947），也是[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）首任主席（1961–1967）。Cowen（2020）指出，Lauwerys 作为 UNESCO 最早的顾问之一，深刻致力于"国际理解"、"民主理想"和"科学人道主义"。比较教育与和平、民主和人道的国际政治的纠缠在学科的大学制度化中发挥了关键作用。随着比较教育者（如 Brian Holmes）参与 UNESCO 的专家会议和教育使命，伦敦大学教育学院设立了专门的比较教育系（Unterhalter and Kadiwal, 2022）。CESE 同样诞生于国际合作政治，特别是 Lauwerys 与 UNESCO 教育研究所所长、后任 CESE 主席（1971–1972）的 Saul Robinsohn 之间的合作。CESE 的早期目标之一是促进国际学术交流以推动欧洲教育改革（Cowen, 2020）。
 
 ---
 

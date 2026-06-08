@@ -7,11 +7,11 @@ extracted_to:
   - "[[Edmund King]]"
   - "[[Robert Cowen]]"
   - "[[Totally Pedagogised Society]]"
-  - "[[Argument_Cowen_2023_CE]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Educated Identity]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Outcomes-based Education]]"
+  - "[[Argument_Cowen_2023_CE]]"
   - "[[Andreas Kazamias]]"
 processed_date: 2026-06-07
 ---

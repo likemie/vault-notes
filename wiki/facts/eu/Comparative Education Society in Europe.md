@@ -1,8 +1,8 @@
 ---
-title: CESE
+title: Comparative Education Society in Europe
 aliases:
   - 欧洲比较教育学会
-  - Comparative Education Society in Europe
+  - CESE
   - 欧洲比较教育学会成立
 summary: "1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革"
 type: fact
@@ -29,7 +29,7 @@ created: 2026-06-08
 updated: 2026-06-08
 ---
 
-# CESE
+# Comparative Education Society in Europe
 
 ---
 
@@ -45,7 +45,7 @@ updated: 2026-06-08
 ## 经过
 
 > [!note]
-> - **1961 年**：[[CESE]] 在英国伦敦正式成立。首任主席为 [[Joseph Lauwerys]]（任期 1961–1967）。成立的核心推力之一是 Lauwerys 与 Saul Robinsohn 的合作——Robinsohn 时任 UNESCO 教育研究所（UNESCO Institute for Education）所长，他本人后任 CESE 主席（1971–1972）（Klerides, 2023, p.425）。
+> - **1961 年**：CESE 在英国伦敦正式成立。首任主席为 [[Joseph Lauwerys]]（任期 1961–1967）。成立的核心推力之一是 Lauwerys 与 Saul Robinsohn 的合作——Robinsohn 时任 UNESCO 教育研究所（UNESCO Institute for Education）所长，他本人后任 CESE 主席（1971–1972）（Klerides, 2023, p.425）。
 > - **早期目标**：CESE 的早期目标之一是促进国际学术交流以推动欧洲教育改革（Cowen, 2020, cited in Klerides, 2023, p.425）。
 > - **1961–1967 年**：Lauwerys 担任首任主席，将比较教育的国际合作使命嵌入学会的组织基因。
 > - **1971–1972 年**：Saul Robinsohn 担任主席，延续了学会与 UNESCO 的紧密联系。
@@ -55,7 +55,7 @@ updated: 2026-06-08
 ## 影响与后果
 
 > [!success]
-> - [[CESE]] 的创建标志着比较教育在欧洲的制度化，使欧洲比较教育者拥有了独立的专业交流平台。学会的成立本身是比较教育与国际和平政治纠缠的直接制度产物（Klerides, 2023, pp.424–425）。
+> - CESE 的创建标志着比较教育在欧洲的制度化，使欧洲比较教育者拥有了独立的专业交流平台。学会的成立本身是比较教育与国际和平政治纠缠的直接制度产物（Klerides, 2023, pp.424–425）。
 > - 学会的早期议程——促进国际学术交流以推动教育改革——体现了理性主义国际关系传统对比较教育的深层塑造：相信通过跨国对话和制度合作可以改善国际社会，并将比较教育定位为这一改善的工具。
 > - 从 Klerides（2023）的整个[[Analytic Framework|分析框架]]来看，CESE 的创建是理性主义比较教育一个典型案例：国际组织（UNESCO）为比较教育学者提供了合作平台，学者的跨国合作反过来推动了学科的制度化，而制度化的学科又进一步整合进国际组织的和平与发展事业。
 

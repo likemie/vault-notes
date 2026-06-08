@@ -7,14 +7,16 @@ extracted_to:
   - "[[World Society Theory]]"
   - "[[Agendas of Attention]]"
   - "[[Dependency Theory]]"
-  - "[[Argument_Klerides_2023_CE]]"
   - "[[Cross-National Attraction]]"
-  - "[[Development Turn in Comparative Education]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[CESE]]"
-  - "[[IIEP]]"
-  - "[[Joseph Lauwerys]]"
   - "[[Michael Sadler]]"
+  - "[[Comparative Education Society in Europe|CESE]]"
+  - "[[International Institute for Educational Planning|IIEP]]"
+  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Development Turn in Comparative Education]]"
+  - "[[Comparative Education Society in Europe]]"
+  - "[[International Institute for Educational Planning]]"
+  - "[[Joseph Lauwerys]]"
 processed_date: 2026-06-08
 ---
 

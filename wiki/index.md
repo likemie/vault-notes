@@ -1122,7 +1122,7 @@ Total entries: **1210**
 ### Eu
 
 > [!summary]- Event (2)
-> - [[CESE]] — 1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革
+> - [[Comparative Education Society in Europe]] — 1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革
 > - [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
 
 > [!summary]- Policy (8)
@@ -1166,10 +1166,10 @@ Total entries: **1210**
 > [!summary]- Event (12)
 > - [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
 > - [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
-> - [[IIEP]] — UNESCO 于 1963 年创建的国际教育规划研究所，首任主任为前美国教育助理国务卿 Philip Coombs，世界银行和福特基金会为主要合作伙伴，冷战发展转向背景下为发展中国家教育规划提供技术援助的关键机构
 > - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
 > - [[International Baccalaureate]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
 > - [[International Indicators of Education Systems]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
+> - [[International Institute for Educational Planning]] — UNESCO 于 1963 年创建的国际教育规划研究所，首任主任为前美国教育助理国务卿 Philip Coombs，世界银行和福特基金会为主要合作伙伴，冷战发展转向背景下为发展中国家教育规划提供技术援助的关键机构
 > - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 > - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 > - [[Mixed Methods International Research Association]] — 2014 年成立的混合方法研究国际学术组织，随后在多个国家扩展分会、附属团体和区域会议，标志着混合方法研究作为独立方法论在国际层面的制度化
