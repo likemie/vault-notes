@@ -1,6 +1,10 @@
 ---
 title: Jim Spohrer
-aliases: ["James Spohrer", "Jim C. Spohrer", "J. C. Spohrer"]
+aliases:
+  - Spohrer, J.
+  - James Spohrer
+  - Jim C. Spohrer
+  - J. C. Spohrer
 summary: "IBM 全球大学项目前总监，六 R 产学关系框架（2010）提出者，服务科学领域研究者，ISSIP 董事会成员与 UIDP 高级研究员"
 type: person
 nationality: "USA"
@@ -15,12 +19,14 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Narayan_Spohrer_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: '2026-06-08'
+family_name: Spohrer
+given_names: Jim
+initials: J.
+citation_name: Spohrer
 ---
 ## 简介
 
@@ -85,7 +91,3 @@ updated: 2026-05-28
 > 成功孕育成功。与人才流动、宣传、发表以及突显共同创造的新知识的商业产品相关的指标，是代代相传地重塑产学合作文化中最重要的成果。
 
 ---
-
-## 来源
-
-- [[Ch5_Narayan_Spohrer_2025]]

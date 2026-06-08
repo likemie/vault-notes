@@ -1,6 +1,7 @@
 ---
 title: Zhao Tingyang
 aliases:
+  - Zhao, T.
   - 赵汀阳
 summary: "中国哲学家，以天下理论著称，提出以中国为中心的天下体系作为威斯特伐利亚民族国家体系的替代方案"
 type: person
@@ -19,14 +20,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: '2026-06-08'
+family_name: Zhao
+given_names: Tingyang
+initials: T.
+citation_name: Zhao
 ---
-
 # Zhao Tingyang
 
 
@@ -65,7 +67,3 @@ updated: 2026-05-25
 > - [[Necropolitics|死亡政治]]的文明论包装：Bulag（2024）指出，赵汀阳的民族主义神学是彻底的死亡政治——但他将少数民族文化的死亡归因于少数民族自身的"自我牺牲"，而不是中国国家的暴力。中国在这里被描绘为致命女人（femme fatale），引诱其仰慕者进入致命的陷阱（Bulag, 2024, p.107）。
 > - 历史叙事的[[Orientalism|东方主义]]化：赵汀阳的论述将内陆亚洲征服者对中国的人侵重新框定为对中国文化的"仰慕"和"追逐"，这与历史上日本殖民主义试图在"亚洲主义"话语下以"自然统一"掩盖殖民暴力如出一辙（Park, 2000, pp.193–194，引自 Bulag, 2024, p.105）。
 > - 语言现实的反驳：赵汀阳声称汉字具有普遍吸引力，却无法解释为什么经过近三千年的"逐鹿中原"，非汉语言依然存在，并且需要通过政策来推动消灭——以让位于普通话（Bulag, 2024, p.113）。
-
-## 来源
-
-- [[Bulag_2024_CE]]

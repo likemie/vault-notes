@@ -43,7 +43,7 @@ updated: '2026-05-18'
 > [!info] [[Research Question|研究问题]]
 > [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？
 >
-> 作者并非攻击 [[John Hattie|Hattie]] 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果（McKnight & Whitburn, 2020, p.33）。
+> 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果（McKnight & Whitburn, 2020, p.33）。
 
 ## 理论框架
 
@@ -55,7 +55,7 @@ updated: '2026-05-18'
 > - **后结构主义／福柯式分析**：Foucault（1975/1995）的规训与全景监狱——"可见性是一个陷阱"，"将规训渗透到最微小的细节中"的危险
 > - **能力批判研究**：Campbell（2009）的能力主义定义——"两个截然不同的本体论区域"；Michalko（2001）对视力的批判性分析；Slee（2011）的包容性教育理论
 > - **教育哲学**：Pinar（2011）对课程法西斯主义的警告；Biesta（2007）对"什么有效"的批判；Noddings（1986）的关怀伦理
-> - **课程研究与教师专业主义**：Apple（1986/2013）的女性化职业分析；Sachs（2003）的行动主义教师专业主义；[[John Locke|Locke]]（2015）的民主专业主义
+> - **课程研究与教师专业主义**：Apple（1986/2013）的女性化职业分析；Sachs（2003）的行动主义教师专业主义；Locke（2015）的民主专业主义
 
 ## 研究方法
 
@@ -63,7 +63,7 @@ updated: '2026-05-18'
 > - **方法**：理论性／批判性话语分析（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"（McKnight & Whitburn, 2020, p.34）
 > - **分析对象**：Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角**：作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究（McKnight & Whitburn, 2020, p.33）
-> - **数据来源**：[[John Hattie|Hattie]] 的出版物、Knudsen（2017）对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
+> - **数据来源**：Hattie 的出版物、Knudsen（2017）对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
 > - **局限性（作者自认）**：由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review|文献综述]]（McKnight & Whitburn, 2020, p.34）
 
 ## 核心论证
@@ -78,7 +78,7 @@ updated: '2026-05-18'
 > VL 由一位单一的、上帝般的男性权威主导，痴迷于"射精式的结果"（McKnight, 2017），在以女性为主的职业中强加异性恋规范、性别歧视和能力主义的教育建构。一种"学习的色情化"通过为男性化凝视生产可见证据而实现。将青少年色情自查问题改编为教师数据成瘾自查，揭示两者共享的"可见性的狂热"（Williams, 1989）。
 >
 > ### 3. Visible Learning 拒绝对话
-> VL 崇拜不是关于教师和学生，而是关于 VL 品牌——不容辩论、被商标固化和束缚。教师知识被提取→处理→打包→作为"外部专家建议"卖回给教师——一种"多平台资本主义"（multiplatform capitalism）。教师被建构为知识匮乏、自主权被限制在"研究验证"的数据之内。[[John Hattie|Hattie]] 本人承认培训中禁止教师分享自己的故事——"一旦你允许那样做，你就使房间里的每个教师合法化去谈论他们的战争故事"（Knudsen, 2017, p.254）。
+> VL 崇拜不是关于教师和学生，而是关于 VL 品牌——不容辩论、被商标固化和束缚。教师知识被提取→处理→打包→作为"外部专家建议"卖回给教师——一种"多平台资本主义"（multiplatform capitalism）。教师被建构为知识匮乏、自主权被限制在"研究验证"的数据之内。Hattie 本人承认培训中禁止教师分享自己的故事——"一旦你允许那样做，你就使房间里的每个教师合法化去谈论他们的战争故事"（Knudsen, 2017, p.254）。
 >
 > ### 4. Visible Learning 忽视关怀伦理
 > VL 将对社区和他人的关怀伦理推入女性化和贬值的地位——爱、同僚情谊、慷慨难以测量和货币化。Noddings（1986）的关怀问题被边缘化。最具渗透力的权力属于能进行[[Meta-analysis|元分析]]和 [[Randomised Controlled Trials|RCT]] 的人——而不是教师知识或学生知识。"忠实"（fidelity）被 VL 重新定义为对外部概念的忠诚而非对学生的忠诚。
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 > 3. 对 VL 的批评远不如使用指南那样普遍——这本身即是 VL 所创造的监控/服从文化的证据
 > 4. 教师和学者私下表达怀疑但公开保持沉默——"服从是霸权性的并许可被认可为专业人士"（McKnight & Whitburn, 2020, p.34）
 > 5. VL 是一种"多平台资本主义"，将教师知识商品化后卖回给教师；它将教师从[[Knowledge Production|知识生产]]者重新定位为顺从的消费者
-> 6. 结论并非全盘否定 [[John Hattie|Hattie]] 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注（McKnight & Whitburn, 2020, p.42）
+> 6. 结论并非全盘否定 Hattie 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注（McKnight & Whitburn, 2020, p.42）
 
 ## 关键引用
 
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 > ("In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education.")（p.35）
 >
 > > “我们雇人来传达它（VL培训），只有五分之一的人能通过。那是因为几乎每位老师都想站起来谈论他们的故事、轶事和他们的课堂。我们不允许那样，因为一旦你允许了，你就让房间里的每位老师谈论他们的‘战争故事’、他们的观点、他们的孩子变得合法化了。”
-> ("We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids.")（[[John Hattie|Hattie]], in Knudsen, 2017, p.254，引自 p.37）
+> ("We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids.")（Hattie, in Knudsen, 2017, p.254，引自 p.37）
 >
 > > “眼睛，局限于单一的视觉功能，将自己的不足隐藏在傲慢背后，并坚持认为‘看见’是唯一的方式。……眼睛需要具有好斗性，因为它本质上是由玻璃体冻胶构成的。”
 > ("The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly.")（p.40-41）

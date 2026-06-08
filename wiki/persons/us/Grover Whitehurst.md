@@ -1,6 +1,7 @@
 ---
 title: Grover Whitehurst
 aliases:
+  - Whitehurst, G.
   - 格罗弗·怀特赫斯特
 summary: "美国教育政策官员和研究管理者，IES 证据标准体系关键设计者，为教育研究制度化 RCT 优先级和联邦证据治理提供案例。"
 type: person
@@ -20,16 +21,17 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Slavin_2002_ER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Whitehurst
+given_names: Grover
+initials: G.
+citation_name: Whitehurst
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -64,7 +66,3 @@ updated: '2026-05-19'
 
 > [!note-] 思想发展与影响
 > Whitehurst 的政策行动与 Slavin 的学术倡导形成**互补但独立的推动力**：Slavin 从学术和项目开发者立场论证[[Evidence-Based Reform|证据本位改革]]的必要性，Whitehurst 从联邦研究资助机构的制度权力出发将其付诸实施。两者的合力在 2000 年代初期创造了[[Evidence-Based Education|证据本位教育]]政策的"政策窗口"。
-
-## 来源
-
-- [[Slavin_2002_ER]]

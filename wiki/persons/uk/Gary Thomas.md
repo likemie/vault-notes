@@ -1,6 +1,7 @@
 ---
 title: Gary Thomas
 aliases:
+  - Thomas, G.
   - 加里·托马斯
 summary: "英国教育学者和方法论批评者，民间科学观批判代表人物，为教育研究反思 RCT 黄金标准和因果解释模式提供替代视角。"
 type: person
@@ -20,14 +21,15 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Thomas
+given_names: Gary
+initials: G.
+citation_name: Thomas
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -78,7 +80,3 @@ updated: '2026-05-19'
 > - Thomas, G. (2004). Introduction: Evidence and practice. In G. Thomas & R. Pring (Eds.), *Evidence-based practice in education* (pp. 1–18). Maidenhead: Open University Press. — 证据阶段论（Wrigley & McCusker, 2019, p. 125）
 > - Thomas, G. (2012). Changing our landscape of inquiry for a new science of education. *Harvard Educational Review*, 82(1), 26–51. — "民间科学观"概念的提出（Wrigley & McCusker, 2019, p. 125）
 > - Thomas, G. (2016). After the gold rush: Questioning the 'gold standard' and reappraising the status of experiment and randomized controlled trials in education. *Harvard Educational Review*, 86(3), 390–411. — "最佳解释推理"（Wrigley & McCusker, 2019, p. 126）
-
-## 来源
-
-- [[Wrigley_2019_ERE]]

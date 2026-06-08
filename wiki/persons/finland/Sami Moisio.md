@@ -1,6 +1,7 @@
 ---
 title: Sami Moisio
 aliases:
+  - Moisio, S.
   - 萨米·莫伊西奥
 summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治概念提出者，为教育研究分析高教、城市与国家竞争的空间政治提供框架。"
 type: person
@@ -34,16 +35,17 @@ related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-sources:
-  - "[[Ch2_Moisio_2022]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Moisio
+given_names: Sami
+initials: S.
+citation_name: Moisio
 ---
-
 ## 简介
 
 > [!info]
@@ -125,7 +127,3 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 - 在[[Further Education|继续教育]]／[[Corporate Education|企业教育]]研究中：Hartmann (2022) 借用 Moisio 对地缘经济与地缘政治边界正在融合的诊断，分析[[Global Education Industry|全球教育产业]]中[[Corporate Education|企业教育]]跨国空间的建构。Moisio 的 [[Geopolitical Subject|地缘政治主体]] 概念被延伸至企业情境——企业教育不仅传授技能，更塑造员工的"空间心态"（"seeing like a company"），使员工将全球市场视为理所当然的行动空间（Hartmann, 2022, pp.180–182）。详见 [[Argument_Hartmann_2022_CorporateEducation]]
 
 ---
-
-## 来源
-
-- [[Ch2_Moisio_2022]]

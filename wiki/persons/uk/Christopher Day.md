@@ -1,6 +1,7 @@
 ---
 title: Christopher Day
 aliases:
+  - Day, C.
   - 克里斯托弗·戴
 summary: "英国教育领导力学者，ISSPP 项目创始人，为教育研究建立情境敏感的成功校长国际比较知识基础。"
 type: person
@@ -16,16 +17,17 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Day
+given_names: Christopher
+initials: C.
+citation_name: Day
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -63,7 +65,3 @@ updated: '2026-05-19'
 > - ISSPP 项目持续扩展到新国家，形成了迄今为止最全面的跨国[[School Leadership|学校领导力]]研究网络
 > - 影响了 [[OECD]] 将学校领导力列为教育政策优先议程的方向
 > - Møller（2017）在肯定 ISSPP 贡献的同时也提出方法论反思，指出其对社会权力结构分析的不足
-
-## 来源
-
-- [[Møller_2017_EERJ]]

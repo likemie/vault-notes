@@ -1,6 +1,7 @@
 ---
 title: Ann Swidler
 aliases:
+  - Swidler, A.
   - 安·斯威德勒
 summary: "美国文化社会学家，文化工具箱理论提出者，为教育研究理解学生行动策略、文化资源与情境差异提供关键框架。"
 type: person
@@ -21,14 +22,15 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Swidler
+given_names: Ann
+initials: A.
+citation_name: Swidler
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -83,7 +85,3 @@ updated: 2026-05-19
 > - 郑雅君（2023）第五章将工具箱理论延伸至择业决策领域，发现大学生[[Culture as Toolkit|文化工具箱]]中三种可供调用的工作意义图式——地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达——及其在不同阶层学生中的分布差异
 > - 在择业中，工具箱图式的运用分为"方向导引"（direction guidance，图式内化为行动目的）和"结果合理化"（outcome rationalization，事后调用图式解释客观结果）两种情形——这一区分直接对应 Swidler 对稳定与不稳定生活状态的理论，构成四分类模型的分析节点
 >
-
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

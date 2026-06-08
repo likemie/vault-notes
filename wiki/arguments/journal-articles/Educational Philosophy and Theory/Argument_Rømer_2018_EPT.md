@@ -55,7 +55,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（[[John Dewey|Dewey]]、[[Immanuel Kant|Kant]]、Arendt、Biesta）为对照审视 [[John Hattie|Hattie]] 的理论
+> - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta）为对照审视 Hattie 的理论
 > - [[Radical Constructivism]] — 识别为 Hattie 的学习理论根基
 > - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的认识论声称基础，论证其被严重误读
 > - [[Technical Rationality]] — [[Appraisal Theory|评价理论]]作为技术理性的运作机制
@@ -64,8 +64,8 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
-> - 路径：概念分析和哲学论证，通过对 [[John Hattie|Hattie]] (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - 对话对象：Popper 的科学哲学、[[John Dewey|Dewey]]/Biesta/Arendt/[[Immanuel Kant|Kant]] 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
+> - 路径：概念分析和哲学论证，通过对 Hattie (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
+> - 对话对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
 
 ## 核心论证
 
@@ -79,7 +79,7 @@ updated: '2026-05-18'
 > 6. 教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果/成就"（Rømer, 2018, p.2-5）
 >
 > ### 论证二：因[[Variable|变量]]（学习）的定义问题
-> 1. [[John Hattie|Hattie]] 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
+> 1. Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
 > 2. 作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，因变量"学业成就"如何被操作化、测量的是哪个层次的学习——无人知晓
 > 3. 评价概念缩小了学习，科学/哲学概念扩大了学习——评价在此支配，因此是狭义的评量性学习概念决定了语言游戏的顺序
 > 4. 构造了"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]，但因变量和自变量相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价（Rømer, 2018, p.5-6）
@@ -93,7 +93,7 @@ updated: '2026-05-18'
 > 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念（Rømer, 2018, p.6-8）
 >
 > ### 论证四：反馈概念的集权化效应
-> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、[[John Dewey|Dewey]] 的交易论或[[Socrates|苏格拉底]]式的辩证
+> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、Dewey 的交易论或[[Socrates|苏格拉底]]式的辩证
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见
@@ -113,7 +113,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - VL 的理论基础存在系统性的哲学缺陷，这些缺陷不是经验方法论的细节问题，而是概念结构本身的范畴错误
 > - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的[[Appraisal Theory|评价理论]]结构从前提上排除了教育作为一种有内容、有规范、有文化传统的实践
-> - [[John Hattie|Hattie]] 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 Habermas 分析间接支持此观点, note 5/8）
+> - Hattie 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 Habermas 分析间接支持此观点, note 5/8）
 
 ## 关键引用
 
@@ -122,7 +122,7 @@ updated: '2026-05-18'
 > ("[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.")（Rømer, 2018, p.2）
 >
 > > “我犯的错误是把反馈看作是教师提供给学生的东西……直到我发现当反馈是从学生传向教师时它才是最强大的，我才开始更好地理解它。”
-> ("The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better.")（[[John Hattie|Hattie]], 2009, p.173，转引自 Rømer, 2018, p.9）
+> ("The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better.")（Hattie, 2009, p.173，转引自 Rømer, 2018, p.9）
 >
 > > “我们最终将得到一个没有教育也没有贝多芬交响乐的世界，而且也完全没有事物和科学能量。”
 > ("We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether.")（Rømer, 2018, p.11）
@@ -130,9 +130,9 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文主要集中在 [[John Hattie|Hattie]] 的理论论述（*[[Visible Learning]]* 第三章），未对其经验数据进行独立的统计分析
+> - 论文主要集中在 Hattie 的理论论述（*[[Visible Learning]]* 第三章），未对其经验数据进行独立的统计分析
 > - 对 Hattie 的丹麦接受者（Qvortrup、Laursen、Egelund）的讨论限于北欧语境
-> - Rømer 的替代性立场（以 [[John Dewey|Dewey]]、Biesta、Arendt 为代表的 [[Bildung]] 传统）仅被暗示但未充分展开
+> - Rømer 的替代性立场（以 Dewey、Biesta、Arendt 为代表的 [[Bildung]] 传统）仅被暗示但未充分展开
 
 ## 来源
 

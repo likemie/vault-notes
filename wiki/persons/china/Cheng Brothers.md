@@ -1,6 +1,12 @@
 ---
 title: Cheng Brothers
-aliases: ["程颢", "程颐", "二程", "Cheng Hao", "Cheng Yi"]
+aliases:
+  - Cheng, B.
+  - 程颢
+  - 程颐
+  - 二程
+  - Cheng Hao
+  - Cheng Yi
 summary: "北宋理学家，程颢与程颐兄弟，程朱理学奠基人，重新开启儒家学习传统，将天理概念系统引入修身与学习理论"
 type: person
 nationality: china
@@ -20,14 +26,15 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: '2026-06-08'
+family_name: Cheng
+given_names: Brothers
+initials: B.
+citation_name: Cheng Brothers
 ---
-
 # Cheng Brothers
 
 
@@ -72,7 +79,3 @@ updated: 2026-05-25
 > [!success]
 - 二程的天理学说奠定了[[Neo-Confucianism|宋明理学]]的理论基础，影响了此后近千年东亚的教育思想与实践（Li, 2012, pp.43-45）。
 - 程朱学派主导了中国教育的内容与形式——四书五经成为[[Civil Service Examination|科举]]考试的核心内容，持续十三个世纪（Li, 2012, p.47）。
-
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

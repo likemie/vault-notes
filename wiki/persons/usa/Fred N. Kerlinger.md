@@ -1,6 +1,8 @@
 ---
 title: Fred N. Kerlinger
 aliases:
+  - Kerlinger, F. N.
+  - Fred Kerlinger
   - 弗雷德·科林格
   - 科林格
 summary: "美国教育心理学家和方法论学者，以 Foundations of Behavioral Research 和对量化研究中理论的经典定义而著称"
@@ -21,14 +23,15 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: '2026-06-08'
+family_name: Kerlinger
+given_names: Fred N.
+initials: F. N.
+citation_name: Kerlinger
 ---
-
 # Fred N. Kerlinger
 
 ## 简介
@@ -57,7 +60,3 @@ updated: 2026-05-31
 > - Kerlinger 的理论定义成为[[Quantitative Research|量化研究]]方法教学中的标准引用，至今仍是 Creswell 等教材作者的首选定义
 > - *Foundations of Behavioral Research* 是社会科学量化方法领域被广泛使用的参考书
 > - 他对[[Scale of Measurement|测量尺度]]和[[Variable|变量]]的讨论为后续方法论教材奠定了基础
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

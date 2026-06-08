@@ -1,6 +1,7 @@
 ---
 title: Terry Wrigley
 aliases:
+  - Wrigley, T.
   - 特里·瑞格利
 summary: "英国教育研究者，批判实在论取向的证据本位教学批评者，为教育研究系统拆解 RCT、元分析与元元分析的层层局限。"
 type: person
@@ -34,10 +35,6 @@ related_persons:
   - "[[Yrjö Engeström]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
-sources:
-  - "[[Wrigley_2018_BERJ]]"
-  - "[[Wrigley_2019_ERE]]"
-  - "[[Bainbridge_2022_ROE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -45,9 +42,12 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Wrigley
+given_names: Terry
+initials: T.
+citation_name: Wrigley
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -121,9 +121,3 @@ updated: '2026-05-19'
 > - **替代方案的具体性不足**：Wrigley 推崇 Pawson 的"实在论综合"作为统计[[Meta-analysis|元分析]]的替代，但未讨论如何将其简化为一线教师可用的工具——实在论综合比"计算平均[[Effect Size|效应量]]并放入排名表"复杂得多。
 > - **对量化方法的全面不信任**：论文论证火力几乎全部指向统计方法的缺陷，在 [[Evidence-Based Education|EBE]] 辩论中容易被定位为"反量化"而非"方法多元"——尽管 Wrigley 明确承认"数字本身不是问题"。
 > - **[[ResearchED]] 分析的简化**：将 ResearchED 定性为服务于政府议程的"草根运动"可能低估了一线教师主动参与 ResearchED 的专业自主性。
-
-## 来源
-
-- [[Wrigley_2018_BERJ]]
-- [[Wrigley_2019_ERE]]
-- [[Bainbridge_2022_ROE]]

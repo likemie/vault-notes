@@ -1,6 +1,7 @@
 ---
 title: George Berkeley
 aliases:
+  - Berkeley, G.
   - 贝克莱
 summary: "爱尔兰哲学家与克洛因主教，经验论—唯心论代表人物，以存在即被感知将洛克经验论推向主观唯心论，其思想在 Li 的西方心智传统追溯中构成经验论脉络的关键一环"
 type: person
@@ -28,14 +29,15 @@ related_persons:
   - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Berkeley
+given_names: George
+initials: G.
+citation_name: Berkeley
 ---
-
 # George Berkeley
 
 ## 简介
@@ -108,7 +110,3 @@ Li 引述贝克莱的具体论证："热和冷只是存在于我们心智中的�
 > - **科学解释的困难**：如果物质实体不存在，那么物理学和化学如何解释自然？贝克莱的回答是：他的哲学并不否定科学，只否定对科学的物质主义解释——规律仍然存在，它们只是上帝意志的表达而非物质属性的表达（待核）
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

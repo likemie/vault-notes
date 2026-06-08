@@ -1,6 +1,7 @@
 ---
 title: Robert Slavin
 aliases:
+  - Slavin, R.
   - 罗伯特·斯莱文
 summary: "美国教育心理学家，证据本位教育改革奠基人和 Success for All 创建者，为教育研究和政策推动实验评价与项目证据标准化提供关键力量。"
 type: person
@@ -25,9 +26,6 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Slavin_2002_ER]]"
-  - "[[Slavin_2019_EP]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
@@ -35,9 +33,12 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Slavin
+given_names: Robert
+initials: R.
+citation_name: Slavin
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -101,8 +102,3 @@ Slavin 的立场代表 EBE 运动**最强版本**（evidence-based, not evidence
 > - **对批判文献的回避**：Slavin 将 Biesta、Cowen、Deaton & Cartwright 等的系统批评笼统归为"怀疑论"，未进行实质性回应——形成与批判阵营平行的、互不对话的话语体系。
 > - **良性循环叙事的政治天真**：假设政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
 > - **方法论立场的演变**：Slavin 2002 年持平衡立场（"长期来看随机化和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。
-
-## 来源
-
-- [[Slavin_2002_ER]]
-- [[Slavin_2019_EP]]

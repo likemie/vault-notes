@@ -1,6 +1,7 @@
 ---
 title: Juan Pascual-Leone
 aliases:
+  - Pascual-Leone, J.
   - 胡安·帕斯夸尔-莱昂内
 summary: "加拿大神经心理学家和新皮亚杰理论家，M-power模型提出者，为教育研究连接认知发展阶段与信息加工能力提供桥梁。"
 type: person
@@ -19,14 +20,15 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Robbie Case]]"
 related_arguments: []
-sources:
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Pascual-Leone
+given_names: Juan
+initials: J.
+citation_name: Pascual-Leone
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -53,7 +55,3 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - 其双因素模型被 [[Robbie Case]] (1985, 1992) 进一步发展为四子域发展模型（Bolton & [[John Hattie|Hattie]], 2017, p.3）
 > - Bolton & Hattie (2017) 将其作为[[Neo-Piagetian Theories|新皮亚杰理论]]谱系的起点（Bolton & Hattie, 2017, p.3）
-
-## 来源
-
-- [[Bolton_2017_ArchPsych]]

@@ -1,6 +1,7 @@
 ---
 title: Albert Bandura
 aliases:
+  - Bandura, A.
   - 阿尔伯特·班杜拉
   - 班杜拉
 summary: "加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响"
@@ -20,14 +21,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Bandura
+given_names: Albert
+initials: A.
+citation_name: Bandura
 ---
-
 # Albert Bandura
 
 ## 简介
@@ -59,7 +61,3 @@ updated: 2026-06-02
 > - 理论被用于人格评估技术（Mischel, 1968）以及临床和教育情境中的行为修正（Bandura, 1977; Bower & Hilgard, 1981）
 > - Crutchfield (1986) 在其博士论文中以社会学习理论作为[[Theoretical Perspective|理论视角]]研究护理教育者的学术生产力
 > - [[Self-Efficacy|自我效能]]理论在教育和健康行为研究领域具有广泛影响
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

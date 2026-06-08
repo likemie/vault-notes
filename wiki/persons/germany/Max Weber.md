@@ -1,6 +1,7 @@
 ---
 title: Max Weber
 aliases:
+  - Weber, M.
   - 马克斯·韦伯
   - 韦伯
 summary: "德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。"
@@ -27,16 +28,15 @@ related_persons:
   - "[[Ann Swidler]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-sources:
-  - "[[Ch11_Hartmann_2022]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Weber
+given_names: Max
+initials: M.
+citation_name: Weber
 ---
-
 # Max Weber
 
 ---
@@ -277,44 +277,3 @@ updated: 2026-05-26
 - **黑格尔式的理想主义倾向**：批评者指出韦伯在某些方面滑向了他自己所批评的唯心论——尽管他声明不取单方面的唯心论或唯物论，但其新教伦理论题常常被解读为"观念驱动历史"的典型论证（Löwith, 1960）
 
 ---
-
-## 来源
-
-> [!note]
-> 以下只列正式来源与正文实际使用的主要依据；`Clippings/Max Weber1.md` 和 `Clippings/Max Weber 1.md` 仅用于本次校对，不作为本条目引用来源。
-
-**按时间排序：**
-
-- Weber, M. (1889). *Zur Geschichte der Handelsgesellschaften im Mittelalter: Nach südeuropäischen Quellen*. Enke.
-- Weber, M. (1891). *Die römische Agrargeschichte in ihrer Bedeutung für das Staats- und Privatrecht*. Enke.
-- Weber, M. (1892). *Die Lage der Landarbeiter im ostelbischen Deutschland*. Duncker & Humblot.
-- Weber, M. (1895). *Der Nationalstaat und die Volkswirtschaftspolitik*. Mohr.
-- Weber, M. (1904). Die "Objektivität" sozialwissenschaftlicher und sozialpolitischer Erkenntnis. *Archiv für Sozialwissenschaft und Sozialpolitik, 19*, 22–87.
-- Weber, M. (1904–1905). Die protestantische Ethik und der Geist des Kapitalismus. *Archiv für Sozialwissenschaft und Sozialpolitik, 20–21*.
-- Weber, M. (1915–1920). *Die Wirtschaftsethik der Weltreligionen* [essays]. *Archiv für Sozialwissenschaft und Sozialpolitik*.
-- Weber, M. (1919). *Wissenschaft als Beruf*. Duncker & Humblot.
-- Weber, M. (1919). *Politik als Beruf*. Duncker & Humblot.
-- Weber, M. (1920–1921). *Gesammelte Aufsätze zur Religionssoziologie* (Vols. 1–3). Mohr.
-- Weber, M. (1921). *Die rationalen und soziologischen Grundlagen der Musik*. Drei Masken.
-- Weber, M. (1921–1922). *Wirtschaft und Gesellschaft*. Mohr.
-- Weber, M. (1926/1984). *Max Weber. Ein Lebensbild*. Mohr.
-- Löwith, K. (1960). *Max Weber und Karl Marx*. Kohlhammer.
-- Baumgarten, E. (1964). *Max Weber: Werk und Person*. Mohr.
-- Mayntz, R. (1968). *Max Webers Idealtypus der Bürokratie und die Organisationssoziologie*. Kölner Zeitschrift für Soziologie und Sozialpsychologie.
-- Mommsen, W. J. (1974). *Max Weber und die deutsche Politik 1890–1920* (2. Aufl.). Mohr.
-- Weiß, J. (1981). *Max Webers Grundlegung der Soziologie*. Saur.
-- Kocka, J. (Ed.). (1986). *Max Weber, der Historiker*. Vandenhoeck & Ruprecht.
-- Jaspers, K. (1988). *Max Weber: Politiker, Forscher, Philosoph*. Piper.
-- Michaels, A. (2001). Max Webers Hinduismus- und Buddhismus-Studien. In H. G. Kippenberg & M. Riesebrodt (Eds.), *Max Webers "Religionssystematik"*. Mohr.
-- Radkau, J. (2005). *Max Weber. Die Leidenschaft des Denkens*. Hanser.
-- Dilcher, G. (2007). Max Webers frühe Rechtsgeschichte. In *Max Weber als Jurist und Ökonom*. Nomos.
-- Steinert, H. (2010). *Max Webers unwiderlegbare Fehlkonstruktionen*. Campus.
-- Scaff, L. A. (2013). *Max Weber in America*. Princeton University Press.
-- Kaesler, D. (2014). *Max Weber. Preuße, Denker, Muttersohn*. Beck.
-- Kaube, J. (2014). *Max Weber. Ein Leben zwischen den Epochen*. Rowohlt.
-- Müller, H.-P., & Sigmund, S. (Eds.). (2014). *Max Weber-Handbuch. Leben - Werk - Wirkung*. Metzler.
-- Tacke, V. (2014). Organisationssoziologie. In H.-P. Müller & S. Sigmund (Eds.), *Max Weber-Handbuch*. Metzler.
-- Anter, A. (2016). Max Webers Staatssoziologie. In *Max Weber-Handbuch*. Metzler.
-- Bruhns, H. (2017). *Max Weber und der Erste Weltkrieg*. Mohr.
-- Hartmann, E. (2022). The internationalisation of further education: Between geoeconomics and geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education* (pp. 179–198). Springer. 参见 [[Ch11_Hartmann_2022]] 与 [[Argument_Hartmann_2022_CorporateEducation]]。
-- 郑雅君 (2023). *金榜题名之后：大学生出路分化之谜*. 上海三联书店. 参见 [[Zheng_2023_ShanghaiSanlian]]。

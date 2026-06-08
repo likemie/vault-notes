@@ -65,7 +65,7 @@ updated: 2026-06-06
 > [!info]
 > 认为不同社会的教育系统正在趋向相似。这一理解形式经历了多个阶段（Cowen, 2023, p.333）：
 >
-> - **UNESCO 的科学理想（1950 年代）**。[[Joseph Lauwerys|Lauwerys]] (1957) 认为科学家基于证据辩论，科学的民主可以克服政治偏见。
+> - **UNESCO 的科学理想（1950 年代）**。Lauwerys (1957) 认为科学家基于证据辩论，科学的民主可以克服政治偏见。
 > - **[[International Education|国际教育]]局的趋势识别**。Pedro Rossello 在日内瓦国际教育局提出识别全球教育趋势的理念，延续至 1980 年代。
 > - **技术趋同理论（1960 年代）**。工业国家因发展相似的复杂生产系统而趋同（Halsey, Floud, and Anderson 1965）。
 > - **现代性理论**。Alex Inkeles 的模式[[Variable|变量]]（pattern variables）等理论。

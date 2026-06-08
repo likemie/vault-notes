@@ -77,7 +77,7 @@ updated: '2026-05-18'
 >
 > **政策与系统维度：**
 > - Pellegrini & Vivanet (2020) 审视了欧洲[[Evidence-Based Education|证据本位教育]]政策的进展，识别了证据生成与传播的组织机构，始于 2006 年并取得显著进展
-> - Edovald & Nevill (2020) 总结了英国 Education Endowment Foundation (EEF) 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials|RCT]]、高标准研究独立性与透明度
+> - Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Education Endowment Foundation (EEF)]] 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials|RCT]]、高标准研究独立性与透明度
 >
 > **高质量实验维度：**
 > - Xie (2020) 比较中美教育技术[[Experimental Research|实验研究]]，发现若干强证据干预方案，但中国大陆实验研究的数量和质量令人担忧

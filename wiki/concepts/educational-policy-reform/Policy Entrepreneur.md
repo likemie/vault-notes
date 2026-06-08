@@ -85,7 +85,7 @@ O'Neill 等的报告主要聚焦第一和第二语境——识别和分析"谁"�
 
 ## 跨国政策创业
 
-Ball (2012) 的概念适用于分析 [[Karl Pearson|Pearson]] 的 Sir Michael Barber 等人物——其以教育思想领导力、风险投资（Pearson Affordable Learning Fund）和数据驱动政策话语（The Learning Curve）在全球范围内塑造学校教育政策论述（O'Neill et al., 2016, p.x, pp.59–64）。
+Ball (2012) 的概念适用于分析 Pearson 的 Sir Michael Barber 等人物——其以教育思想领导力、风险投资（Pearson Affordable Learning Fund）和数据驱动政策话语（The Learning Curve）在全球范围内塑造学校教育政策论述（O'Neill et al., 2016, p.x, pp.59–64）。
 
 ## 来源
 

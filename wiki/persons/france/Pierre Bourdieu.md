@@ -1,9 +1,9 @@
 ---
 title: Pierre Bourdieu
 aliases:
+  - Bourdieu, P.
   - 皮埃尔·布迪厄
   - 布迪厄
-  - Bourdieu
 summary: "法国社会学家，场域-习性-资本理论创立者与区分作者，为教育研究分析再生产、不平等与学校权力提供核心语言。"
 type: person
 nationality: france
@@ -36,20 +36,18 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Bruno Latour]]"
 related_arguments: []
-sources:
-  - "[[Eacott_2011_JEAH]]"
-  - "[[Eacott_2015_EPT]]"
-  - "[[Schulze-Cleven_2017_HighEduc]]"
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[CNRS]]"
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Bourdieu
+given_names: Pierre
+initials: P.
+citation_name: Bourdieu
 ---
-
 # Pierre Bourdieu
 
 ---
@@ -319,10 +317,3 @@ Bourdieu 的写作以密度高、句子复杂著称，增加了经验应用和�
 尽管 Bourdieu 在欧洲大陆影响深远，英美主流教育领导力研究（尤其是科学/实证主义流派）长期忽视其工作。
 
 ---
-
-## 来源
-
-- [[Eacott_2011_JEAH]]
-- [[Eacott_2015_EPT]]
-- [[Schulze-Cleven_2017_HighEduc]]
-- [[Zheng_2023_ShanghaiSanlian]]

@@ -1,6 +1,7 @@
 ---
 title: Ellen Hazelkorn
 aliases:
+  - Hazelkorn, E.
   - 埃伦·黑兹尔科恩
 summary: "爱尔兰高等教育学者，全球大学排名研究代表人物，为教育研究分析排名治理、声誉竞争与高教政策提供关键参照。"
 type: person
@@ -19,14 +20,15 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch8_Boyadjieva_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Hazelkorn
+given_names: Ellen
+initials: E.
+citation_name: Hazelkorn
 ---
-
 # Ellen Hazelkorn
 
 ## 简介
@@ -81,7 +83,3 @@ updated: '2026-05-19'
 > - 与 Philip Altbach 联合呼吁高校"专注于使命，而非排名"（Altbach & Hazelkorn, 2017），影响了政策讨论的方向
 
 ---
-
-## 来源
-
-- [[Ch8_Boyadjieva_2022]]

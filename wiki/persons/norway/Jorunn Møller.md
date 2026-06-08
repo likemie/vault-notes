@@ -1,6 +1,7 @@
 ---
 title: Jorunn Møller
 aliases:
+  - Møller, J.
   - 约伦·默勒
 summary: "挪威教育领导力学者，学校治理与问责研究者，为教育研究批判领导力研究的去政治化和OECD化提供重要声音。"
 type: person
@@ -20,16 +21,17 @@ related_persons:
   - "[[Helen Gunter]]"
   - "[[Carolyn Shields]]"
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
 related_facts:
   - "[[OECD]]"
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Møller
+given_names: Jorunn
+initials: J.
+citation_name: Møller
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -70,7 +72,3 @@ updated: '2026-05-19'
 > - 与 [[Helen Gunter]] 的研究网络 LE@DS（Leading Democratic Schools）有合作关系
 > - 研究定位于 CURRICULUM STUDIES, EDUCATIONAL LEADERSHIP AND GOVERNANCE (CLEG) 研究群组（奥斯陆大学）
 > - 受 [[Carolyn Shields]] 的[[Transformative Leadership|变革型领导力]]框架和 Helen Gunter 的批判性教育政策视角影响
-
-## 来源
-
-- [[Møller_2017_EERJ]]

@@ -111,7 +111,7 @@ updated: '2026-05-18'
 > ### 7. 统计综合的三级失真
 >
 > - **[[Meta-analysis|元分析]]层面**：Simpson (2017, 2018) 论证效应量是"试验设计得如何使效应可见"的指标，而非干预有效性的指标（Wrigley & McCusker, 2019, p. 118）
-> - **[[Meta-meta-analysis|元-元分析]]层面**：[[John Hattie|Hattie]] 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。[[Gene Glass]]（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）（Wrigley & McCusker, 2019, p. 119）
+> - **[[Meta-meta-analysis|元-元分析]]层面**：Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。[[Gene Glass]]（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）（Wrigley & McCusker, 2019, p. 119）
 >
 > ### 8. 体育参与案例研究（EEF Toolkit 深度追踪）
 >

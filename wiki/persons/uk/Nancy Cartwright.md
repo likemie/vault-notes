@@ -1,6 +1,7 @@
 ---
 title: Nancy Cartwright
 aliases:
+  - Cartwright, N.
   - 南希·卡特赖特
 summary: "英国科学哲学家，因果外推与 RCT 局限研究代表人物，为教育研究反思什么有效的证据迁移条件提供方法论基础。"
 type: person
@@ -24,16 +25,17 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Gert Biesta]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
 related_facts:
   - "[[What Works Network]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Cartwright
+given_names: Nancy
+initials: N.
+citation_name: Cartwright
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -76,7 +78,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - 有学者认为，Cartwright 对 [[Randomised Controlled Trials|RCT]] 局限性的强调可能被误解为反对实验证据本身，但她明确表示并非反对 RCT，而是反对在不理解机制的情况下盲目外推（Cowen et al., 2015, p.11）
 > - 她提出的替代方案（理解因果机制、评估支持因素）在实践中可能过于复杂，难以为忙碌的从业者所使用
-
-## 来源
-
-- [[Cowen_2015_CHESS]]

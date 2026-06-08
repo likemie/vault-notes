@@ -61,19 +61,19 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147）。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Dewey, quoted in Hattie, 2008, p.147）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：批判性评论（critical commentary），非实证研究
-> - 审查对象：[[John Hattie|Hattie]] (2008) 的方法论、论证逻辑和政策含义
+> - 审查对象：Hattie (2008) 的方法论、论证逻辑和政策含义
 > - 分析维度：综合方法的质量控制、[[Effect Size|效应量]]解读、[[Variable|变量]]界定、政策外推
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **方法论缺陷**：[[John Hattie|Hattie]] 的"综合"（synthesis）未评估纳入研究的质量，未排除低质量研究——"垃圾进垃圾出"（Eysenk）（p.94–96）
+> 1. **方法论缺陷**：Hattie 的"综合"（synthesis）未评估纳入研究的质量，未排除低质量研究——"垃圾进垃圾出"（Eysenk）（p.94–96）
 > 2. **[[Effect Size|效应量]]任意性**：0.4 的截断值武断；小型效应量在高质量大规模研究中可具有重大意义（p.94, 99）
 > 3. **相关性≠[[Causality|因果性]]**：Hattie 本人承认效应量"暗示因果性"但该主张常不可辩护（p.96）
 > 4. **平均化掩盖复杂性**：以[[Homework|家庭作业]]为例——总体 d=0.29，但小学 d=0.15、中学 d=0.64，数学和低能力学生更高（p.97）
@@ -84,7 +84,7 @@ updated: '2026-05-18'
 ## 主要发现（批判点）
 
 > [!success] 主要发现
-> - [[John Hattie|Hattie]] 承认但搁置社会背景效应，声称"不是不重要，只是不在研究轨道内"（Snook et al., 2009, p.94–95）；但 Gray, Jesson & Jones (1986) 发现英国 80% 校间差异由 intake 解释，Harker (1995) 发现新西兰 70–80% 由学生构成解释（p.98）
+> - Hattie 承认但搁置社会背景效应，声称"不是不重要，只是不在研究轨道内"（Snook et al., 2009, p.94–95）；但 Gray, Jesson & Jones (1986) 发现英国 80% 校间差异由 intake 解释，Harker (1995) 发现新西兰 70–80% 由学生构成解释（p.98）
 > - 纳入研究的质量未被评估：Hattie 承认"不是一本关于研究批评的书"，但当涉及 charter schools 和 learning styles 时又选择性排除低质量研究，存在不一致（p.95）
 > - [[Meta-analysis|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论（p.96–97）
 > - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析（p.97）
@@ -96,7 +96,7 @@ updated: '2026-05-18'
 
 > [!quote] 关键引用
 > > “证据并不为我们提供行动规则，而仅仅为我们提供了用于智能解决问题的假设，以及用于质询我们教育目的的假设。”
-> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.")（[[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2008, p.147）
+> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.")（Dewey, quoted in Hattie, 2008, p.147）
 >
 > > “将[[Quantitative Research|量化研究]]用于宣传目的有着极大的危险性。”
 > ("There is something quite dangerous about the use of [[Quantitative Research]] for propaganda purposes.")（Nash, 2004, p.49, quoted p.104）
@@ -109,7 +109,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 论文自身定位为评论而非[[Systematic Review|系统综述]]，未声称穷尽所有批判角度
 > - 未提出替代性方法论框架，侧重解构而非建构
-> - 发表于 [[John Hattie|Hattie]] 2008 著作出版后仅一年，属于最早一批学术批判，后续文献（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
+> - 发表于 Hattie 2008 著作出版后仅一年，属于最早一批学术批判，后续文献（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
 > - **Hattie (2010) 的回应**：Hattie 在同期 NZJES 发表"On Being a '[[Critic and Conscience of Society]]'"（详见 [[Argument_Hattie_2010_NZJES]]），从以下方面回应 Snook et al.：（1）研究质量——澄清"不是一本关于研究批评的书"被误读为"不关注研究质量"，指出凡已知研究质量有影响之处均已标注，且[[Meta-analysis|元分析]]方法本身即处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明偏差控制是元分析方法的核心关切，批评者未提及；（3）d=0.40 关节点——承认"或许武断但绝非任意"，基于 800+ 元分析经验平均值，用作叙事工具而非固定截断；（4）可推广性——反问"如果没有足够新西兰研究来确定差异，翻译现有研究可能比根本不依赖任何研究更有价值"；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]的做法，指出既然平均 0.20 必然存在大负面效应才能达到均值（Hattie, 2010, pp.88–91）。Snook et al. (2010) 随后在同刊发表再回应（详见 [[Argument_Snook_2010_NZJES]]）
 
 ## 来源

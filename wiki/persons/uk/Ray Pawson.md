@@ -1,6 +1,7 @@
 ---
 title: Ray Pawson
 aliases:
+  - Pawson, R.
   - 雷·波森
 summary: "英国社会研究方法论学者，实在论评估与实在论综合代表人物，为教育研究提供什么对谁在何种情境下有效的替代框架。"
 type: person
@@ -25,14 +26,15 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Pawson
+given_names: Ray
+initials: R.
+citation_name: Pawson
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -79,7 +81,3 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: [[Sage]]. — 核心批判文本，系统论述 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的不适用性（Wrigley & McCusker, 2019, p. 125）
 > - Pawson, R., & Tilley, N. (1997). *Realistic evaluation*. London: SAGE. — 实在论评估方法论的奠基文本
-
-## 来源
-
-- [[Wrigley_2019_ERE]]

@@ -86,7 +86,7 @@ updated: '2026-05-18'
 >
 > **条件 2 — 证据审查系统**：
 > - [[What Works Clearinghouse|WWC]]（What Works Clearinghouse）：IES 旗舰审查平台
-> - [[Best Evidence Encyclopedia|BEE]]（Best-Evidence Encyclopedia）：JHU 团队的系统综述网站
+> - [[Best Evidence Encyclopedia|BEE]]（Best-Evidence Encyclopedia）：JHU 团队的[[Systematic Review|系统综述]]网站
 > - Evidence for ESSA：面向教育领导者的 ESSA 对齐平台，月活 70,000+
 >
 > **条件 3 — 政策激励**：
@@ -167,7 +167,7 @@ updated: '2026-05-18'
 > - **Cowen (2019)**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
 > - **Deaton & Cartwright (2018)**：RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
-> **影响**：此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/[[John Hattie|Hattie]] 的支持）。
+> **影响**：此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。
 >
 > **目前状态**：此平行话语现象已是 EBE 辩论的突出问题之一——双方在各自期刊和会议中发言，极少有实质性的跨阵营回应。
 >

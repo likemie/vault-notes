@@ -52,14 +52,14 @@ updated: 2026-05-18
 
 > [!info] 研究方法
 > - 方法：[[Reflexivity|反思性]]评论（commentary），以作者个人经验作为案例研究
-> - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of [[John Hattie|Hattie]]"（Eacott, 2017a）及其在学术界引发的反应
+> - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of Hattie"（Eacott, 2017a）及其在学术界引发的反应
 > - 数据来源：论文发表后收到的邮件、Twitter 互动、博客评论、大学投诉调查、期刊编辑决策、Hattie 的正式回应
 
 ## 核心论证
 
 > [!example] 核心论证
 > 1. **前提**：教育行政与领导力领域长期以来缺乏真正的学术对话，呈现为"[[Parallel Monologues|平行独白]]"状态（Eacott, 2019, p.774）
-> 2. **案例呈现**：以 Eacott（2017a）关于"[[John Hattie|Hattie]] [[Cult of the Guru|大师崇拜]]"的论文为案例，描述三种类型的反应——博士候选人博客攻击、向大学科研副校长的投诉、以及 Hattie 本人的回应（Eacott, 2019, pp.775-779）
+> 2. **案例呈现**：以 Eacott（2017a）关于"Hattie [[Cult of the Guru|大师崇拜]]"的论文为案例，描述三种类型的反应——博士候选人博客攻击、向大学科研副校长的投诉、以及 Hattie 本人的回应（Eacott, 2019, pp.775-779）
 > 3. **[[Analytic Framework|分析框架]]**：以论文传播、期刊编辑处理、学者回应的方式为分析对象，评估该领域的"社会认识论"——即学术工作的逻辑如何生成（或未能生成）对话和辩论（Eacott, 2019, p.775）
 > 4. **核心区分**：thesis-antithesis-synthesis（正题-反题-合题）vs argument-refutation（论证-反驳）。Hattie 提供了 antithesis（反题），但并未进行 refutation（反驳）——他只需在表层引用几个词就能反驳 Eacott 的主张，而不需理解其底层生成意义（Eacott, 2019, p.779）
 > 5. **结论**：学术领域应从"平行独白"转向以论证和反驳为生成逻辑的学术实践（Eacott, 2019, p.779-780）
@@ -71,7 +71,7 @@ updated: 2026-05-18
 > - 该领域曾有过学术交锋的传统——如 Willower (1983)、Hills (1982, 1983)、Gronn (1982, 1987) 和 Thomas (1986) 之间关于观察性研究的有用性的往返交流，以及 Evers 和 Lakomski 的 trilogy 中的论证、批评和辩护——但这些已"早已远去"（Eacott, 2019, p.774-775）
 > - Eacott 2017 年论文的传播过程被视为"成功"——下载量超过 1000 次，带来地区级和州级专业协会的演讲邀请（p.776）
 > - 负面反应虽远少于正面，但 Eacott 承认"困扰我的始终是后者"（p.776）
-> - [[John Hattie|Hattie]] 的回应（2017）被不经同行评审地在两天内接收和发表——Eacott 指出这本身"将是证实我关于大师地位被编辑合法化的主张的证据"（p.777）
+> - Hattie 的回应（2017）被不经同行评审地在两天内接收和发表——Eacott 指出这本身"将是证实我关于大师地位被编辑合法化的主张的证据"（p.777）
 > - Eacott 被 *[[School Leadership]] & Management* 编辑拒绝发表对 Hattie 回应的再回应（p.778）
 > - Eacott 未提供"如何挑战现有体制"的清单——提供这样的清单"将违反我在本文中所主张的原则"（p.780）
 
@@ -82,7 +82,7 @@ updated: 2026-05-18
 > ("what we are more likely to experience, both as consumers and generators of research is '[[Parallel Monologues]]'")（p.774）
 >
 > > “海蒂的作品是新时代的泰勒主义。”
-> ("[[John Hattie|Hattie]]'s work is Taylorism for a new time.")（p.778）
+> ("Hattie's work is Taylorism for a new time.")（p.778）
 >
 > > “这不仅仅是提出一个反驳，而是与他人的观点交锋，并在必要时驳斥它们。不是将自己对世界的看法强加于人，而是按照他们的术语（逻辑）参与其中——检验主张的稳健性和内部连贯性，而不是检验其是否与自己的规范性立场相一致。”
 > ("It is not about simply producing a counter argument, but engaging with the ideas of another and where necessary refuting them. Not imposing one's view of the world on another, but engage on their terms – testing out claims for robustness and internal coherence and not alignment with one's own normative position.")（p.779）

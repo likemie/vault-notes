@@ -1,8 +1,8 @@
 ---
 title: Gene Glass
 aliases:
+  - Glass, G.
   - 吉恩·格拉斯
-  - Glass
 summary: "美国教育心理学家，1976年创造元分析一词并发展其方法论，以心理治疗效果研究挑战学术共识，被誉为元分析之父"
 type: person
 nationality: usa
@@ -21,16 +21,17 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
+family_name: Glass
+given_names: Gene
+initials: G.
+citation_name: Glass
 ---
-
 ## 简介
 
 > [!info]
@@ -86,7 +87,3 @@ updated: '2026-06-08'
 > "元分析的结果永远不应该是平均值；它应该是一张图。"（Robinson, 2004, p. 29）
 
 ---
-
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

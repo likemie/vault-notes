@@ -1,8 +1,8 @@
 ---
 title: Joseph Lauwerys
 aliases:
+  - Lauwerys, J.
   - 约瑟夫·劳韦里斯
-  - Lauwerys
 summary: "英国第一位比较教育教授（1947），欧洲比较教育学会首任主席（1961–1967），UNESCO 最早顾问之一，终身致力于国际理解、民主理想和科学人道主义，深刻体现了理性主义传统对比较教育的塑造"
 type: person
 nationality: uk
@@ -19,14 +19,15 @@ related_persons:
 related_facts:
   - "[[Comparative Education Society in Europe]]"
 related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: '2026-06-08'
+family_name: Lauwerys
+given_names: Joseph
+initials: J.
+citation_name: Lauwerys
 ---
-
 # Joseph Lauwerys
 
 ---
@@ -60,7 +61,3 @@ updated: 2026-06-08
 > 从 Klerides（2023）的[[Analytic Framework|分析框架]]来看，Lauwerys 是理性主义比较教育的典范人物。与[[Michael Sadler]]不同——后者的比较教育驱动力是国家竞争焦虑——Lauwerys 的比较教育驱动力是对国际合作和人类改善的信念。这种对比精准地体现了现实主义与理性主义两条比较教育路径的根本差异：一个服务于国家权力，一个服务于国际社会的和平与民主建设（pp.420–425）。
 
 ---
-
-## 来源
-
-- [[Klerides_2023_CE]]

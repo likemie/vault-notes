@@ -1,8 +1,8 @@
 ---
 title: Gilbert Ryle
 aliases:
-  - 吉尔伯特·赖尔
   - Ryle, G.
+  - 吉尔伯特·赖尔
 summary: "英国哲学家，1946 年提出知其然与知其所用的经典区分，对认识论和教育哲学产生深远影响"
 type: person
 nationality: uk
@@ -19,14 +19,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Ryle
+given_names: Gilbert
+initials: G.
+citation_name: Ryle
 ---
-
 # Gilbert Ryle
 
 ---
@@ -61,7 +62,3 @@ updated: 2026-06-07
 > - 当学生能够展示和阐述两种知识形式之间的联系时，就实现了「明智地知其所用」和「知其所以然」（McPhail et al., 2023）
 
 ---
-
-## 来源
-
-- [[McPhail_2023_JCS]]

@@ -1,6 +1,7 @@
 ---
 title: Nick Cowen
 aliases:
+  - Cowen, N.
   - 尼克·考恩
 summary: "英国政治科学家，公共选择理论取向的教育政策分析者，为教育研究从制度激励与官僚政治层面解释证据本位改革提供视角。"
 type: person
@@ -30,17 +31,17 @@ related_persons:
   - "[[Nancy Cartwright]]"
   - "[[Gert Biesta]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
-  - "[[Cowen_2019_ERE]]"
 related_facts:
   - "[[Ofsted]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Cowen
+given_names: Nick
+initials: N.
+citation_name: Cowen
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -95,8 +96,3 @@ updated: '2026-05-19'
 > - **"为什么是现在"的解释有限**：Cowen (2019) 坦承 Tullock 模型只能对 [[Evidence-Based Education|EBE]] 的历史时机提供尝试性假说——其优势在于解释制度功能（EBE 解决了什么官僚问题），劣势在于解释历史时机（为什么是 21 世纪初）。
 > - **实证样本的偏差**：Cowen et al. (2015) 的教师访谈样本有意偏向已积极关注证据的教师群体，不能代表全体教师，结论的推广需谨慎。
 > - **政策建议未经验证**：Cowen et al. (2015) 提出的政策建议（如增加 CPD 时间、改革教师培训）是基于访谈和文献的推断，尚未经过实证检验。
-
-## 来源
-
-- [[Cowen_2015_CHESS]]
-- [[Cowen_2019_ERE]]

@@ -1,8 +1,8 @@
 ---
 title: Anatoly Lunacharsky
 aliases:
+  - Lunacharsky, A.
   - 阿纳托利·卢那察尔斯基
-  - Lunacharsky
   - Anatoly Vasilyevich Lunacharsky
 summary: "苏俄首任教育人民委员（1917–1929），主持早期苏联教育体系的建立，将学校教育与工业生产连接但反对单一技术训练，亲自邀请 John Dewey 于 1928 年访问苏联"
 type: person
@@ -19,14 +19,15 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Lunacharsky
+given_names: Anatoly
+initials: A.
+citation_name: Lunacharsky
 ---
-
 # Anatoly Lunacharsky
 
 
@@ -62,7 +63,3 @@ updated: 2026-05-26
 > - Dewey 在 Impressions of the Revolutionary World 中对 Lunacharsky 的教育政策给予了关注和记录（Ryabyy, 2024, p.105）。
 
 ---
-
-## 来源
-
-- [[Ryabyy_2024_Maneto]]

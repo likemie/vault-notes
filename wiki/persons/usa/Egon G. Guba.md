@@ -1,8 +1,9 @@
 ---
 title: Egon G. Guba
 aliases:
+  - Guba, E. G.
+  - Egon Guba
   - 埃贡·古巴
-  - Guba
 summary: "美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic Inquiry 开创自然主义探究范式，此前在项目评价领域提出第四代评价模型"
 type: person
 nationality: usa
@@ -23,14 +24,15 @@ related_persons:
   - "[[Yvonna S. Lincoln]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Guba
+given_names: Egon G.
+initials: E. G.
+citation_name: Guba
 ---
-
 # Egon G. Guba
 
 ## 简介
@@ -59,7 +61,3 @@ updated: 2026-06-02
 > - *Naturalistic Inquiry* 确立[[Qualitative Research|质性研究]]的独立范式地位
 > - 第四代评价模型重新定义了教育评价的方法论基础
 > - 世界观的定义（Guba, 1990）成为研究方法教材中最广泛引用的哲学基础定义之一
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

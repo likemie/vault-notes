@@ -1,8 +1,8 @@
 ---
 title: Alejandro Artopoulos
 aliases:
-  - 亚历杭德罗·阿尔托普洛斯
   - Artopoulos, A.
+  - 亚历杭德罗·阿尔托普洛斯
 summary: "阿根廷圣安德烈斯大学教育学者，与 Beech 合著关于教育话语跨空间流通的论文，使用行动者网络理论分析阿根廷 Conectar Igualdad 项目"
 type: person
 nationality: argentina
@@ -23,14 +23,15 @@ related_persons: []
 related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments: []
-sources:
-  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Artopoulos
+given_names: Alejandro
+initials: A.
+citation_name: Artopoulos
 ---
-
 # Alejandro Artopoulos
 
 ---
@@ -51,7 +52,3 @@ updated: 2026-06-07
 > Artopoulos 与 Beech 一起提出了关系性空间视角来理解教育话语的跨空间流通，超越了传统的静态转移解释和[[Global-Local Binary|全球/地方二元对立]]（Beech & Artopoulos, 2015）。
 
 ---
-
-## 来源
-
-- [[Beech_2015_GSE]]

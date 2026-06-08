@@ -1,6 +1,7 @@
 ---
 title: Hsu Cho-Yun
 aliases:
+  - Hsu, C.-Y.
   - 许倬云
 summary: "海外历史学家，代表族裔文化型中国观，主张中国由汉族和汉文化界定、领土随汉文化接受度变化，其著作被引入中国大陆教科书以培养传统文化认同"
 type: person
@@ -20,14 +21,15 @@ related_persons:
   - "[[Fei Xiaotong]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Hsu
+given_names: Cho-Yun
+initials: C.-Y.
+citation_name: Hsu
 ---
-
 # Hsu Cho-Yun
 
 
@@ -65,7 +67,3 @@ updated: 2026-05-26
 > [!warning]
 > - **汉人中心主义的局限**：许倬云的族裔文化型中国观以汉文化为唯一标准界定"中国性"，将非汉群体置于"接受者"或"外人"的位置——这一框架难以解释当代中国作为多民族国家的政治现实（Xu, 2024, p.576）。
 > - **与[[Qian Mu|钱穆]]同为文化保守主义阵营**：Xu（2024, p.587）将许倬云与钱穆并列为"海外文化保守主义者"。但与钱穆不同，许倬云并非香港教育体系的直接塑造者——其影响主要通过学术著作被教科书引用而间接实现。
-
-## 来源
-
-- [[Xu_2024_CE]]

@@ -1,8 +1,8 @@
 ---
 title: René Descartes
 aliases:
+  - Descartes, R.
   - 笛卡尔
-  - Descartes
 summary: "法国哲学家、数学家与科学家，近代哲学之父，以我思故我在和心物二元论奠定现代认识论基础，将苏格拉底—柏拉图先天论推向新的高峰"
 type: person
 nationality: france
@@ -27,14 +27,15 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Descartes
+given_names: René
+initials: R.
+citation_name: Descartes
 ---
-
 # René Descartes
 
 ## 简介
@@ -105,7 +106,3 @@ updated: 2026-05-22
 > - **跨文化适用性**：笛卡尔的普遍怀疑——怀疑感官、身体乃至世界本身——在西方哲学中激发了认识论的重新奠基，但在 Li 的比较框架中暗示了一个问题：这种以"思维优先于感官和身体"为核心的心智观，在何种程度上是一种特定的西方文化建构？
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -1,6 +1,7 @@
 ---
 title: Julian Williams
 aliases:
+  - Williams, J.
   - 朱利安·威廉斯
 summary: "英国教育研究者，第三空间与替代性学习结果测量研究者，为教育研究连接政策、实践与非成就性结果提供方法论视角。"
 type: person
@@ -13,14 +14,15 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Williams
+given_names: Julian
+initials: J.
+citation_name: Williams
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -46,7 +48,3 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 ## 争议与批评
-
-## 来源
-
-- [[Pampaka_2016_IJRME]]

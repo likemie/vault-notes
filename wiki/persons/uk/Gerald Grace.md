@@ -1,6 +1,7 @@
 ---
 title: Gerald Grace
 aliases:
+  - Grace, G.
   - 杰拉尔德·格雷斯
 summary: "英国教育社会学者，天主教教育与社会的批判者和良知论述代表人物，为教育研究连接教育领导、价值与公共使命提供语言。"
 type: person
@@ -18,14 +19,15 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Grace_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Grace
+given_names: Gerald
+initials: G.
+citation_name: Grace
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -53,7 +55,3 @@ Grace 指出了两组关键区分：
 - **社会的批评者与良知**：必须将非学校因素（社会阶级、贫困、家庭资源、健康与营养等）纳入所有教育成就差异的分析，因为这些因素才是"社会"
 
 Grace 特别批评了 Hattie 对非学校因素的排除——Hattie 本人承认非学校因素"可能比书中讨论的许多问题更重要"（Hattie, 2009, pp.viii–ix），却仍将其排除在分析之外。Grace 认为这种"还原论"观点使政治家得以回避更根本的社会与经济不平等问题（Grace, 2010, p.91）。
-
-## 来源
-
-- [[Grace_2010_NZJES]]

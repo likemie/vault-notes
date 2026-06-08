@@ -1,6 +1,7 @@
 ---
 title: Helen Gunter
 aliases:
+  - Gunter, H.
   - 海伦·冈特
 summary: "英国教育学者，教育领导力知识政治与政策批判研究者，为教育研究把领导力议题重新放回权力与公共争论之中。"
 type: person
@@ -21,15 +22,15 @@ related_persons:
   - "[[Jorunn Møller]]"
   - "[[Carolyn Shields]]"
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
-  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Gunter
+given_names: Helen
+initials: H.
+citation_name: Gunter
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -79,8 +80,3 @@ updated: 2026-05-19
 > - 与 [[Jorunn Møller]] 同属 LE@DS 和 CLEG 研究网络
 > - 被 Møller（2017）用作支持超越"什么有效"议程的核心理论资源
 > - 与 [[Carolyn Shields]] 的[[Transformative Leadership|变革型领导力]]框架互补，共同构成 Møller 提议的批判性领导力研究取向
-
-## 来源
-
-- [[Møller_2017_EERJ]]
-- [[Eacott_2015_EPT]]

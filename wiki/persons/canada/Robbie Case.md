@@ -1,6 +1,7 @@
 ---
 title: Robbie Case
 aliases:
+  - Case, R.
   - 罗比·凯斯
 summary: "加拿大发展心理学家和新皮亚杰理论家，四子域发展模型提出者，为教育研究细化认知发展阶段与学习差异提供模型。"
 type: person
@@ -20,14 +21,15 @@ related_persons:
   - "[[Juan Pascual-Leone]]"
   - "[[Kurt Fischer]]"
 related_arguments: []
-sources:
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Case
+given_names: Robbie
+initials: R.
+citation_name: Case
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -61,7 +63,3 @@ Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内�
 > [!note-] 思想发展与影响
 > - 在 [[Juan Pascual-Leone]] (1970) 的基础上构建
 > - 与 [[Kurt Fischer]] (1980) 同为新[[Jean Piaget|皮亚杰]]运动的核心理论家
-
-## 来源
-
-- [[Bolton_2017_ArchPsych]]

@@ -1,6 +1,7 @@
 ---
 title: Carol Campbell
 aliases:
+  - Campbell, C.
   - 卡罗尔·坎贝尔
 summary: "加拿大教育领导力学者，证据知情实践与知识动员研究者，围绕系统改革、专业学习与证据使用之间的关系提供安大略路径。"
 type: person
@@ -21,15 +22,16 @@ related_methods: []
 related_persons:
   - "[[Julie Nelson]]"
 related_arguments: []
-sources:
-  - "[[Nelson_2017_ER]]"
 related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-21'
+updated: '2026-06-08'
+family_name: Campbell
+given_names: Carol
+initials: C.
+citation_name: Campbell
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -72,7 +74,3 @@ updated: '2026-05-21'
 > - 任多伦多大学安大略教育研究院教授，研究集中于教育领导力、系统改革和研究使用。
 > - 参与并推动安大略省 KNAER 等系统层面的研究-实践合作项目（Nelson & Campbell, 2017, pp.130–131）。
 > - **2017** 年与 [[Julie Nelson]] 共同编辑 [[Evidence-Informed Practice|EIP]] 特刊，将证据知情实践讨论系统化。
-
-## 来源
-
-- [[Nelson_2017_ER]]

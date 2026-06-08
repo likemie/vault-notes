@@ -1,9 +1,9 @@
 ---
 title: Frantz Fanon
 aliases:
+  - Fanon, F.
   - 弗朗兹·法农
   - 法农
-  - Fanon
 summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤，白面具作者，为教育研究分析殖民主体性、种族化经验与知识解放提供基础。"
 type: person
 nationality: france
@@ -25,14 +25,15 @@ related_persons:
   - "[[Chen Kuan-Hsing]]"
   - "[[Walter Mignolo]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-06-02'
+updated: '2026-06-08'
+family_name: Fanon
+given_names: Frantz
+initials: F.
+citation_name: Fanon
 ---
-
 # Frantz Fanon
 
 ## 简介
@@ -75,7 +76,3 @@ Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动�
 > - 在[[Geopolitics of Knowledge|知识地缘政治]]研究中，Fanon 对殖民教育如何制造主体的分析为[[Forced Knowledge Transfer|强制知识转移]]概念提供了理论根基。
 
 ---
-
-## 来源
-
-- [[Ch5_Partaken_2022]]

@@ -1,6 +1,7 @@
 ---
 title: Zhu Xi
 aliases:
+  - Zhu, X.
   - 朱熹
   - 朱子
   - Zhuzi
@@ -29,14 +30,15 @@ related_persons:
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Zhu
+given_names: Xi
+initials: X.
+citation_name: Zhu
 ---
-
 # Zhu Xi
 
 ## 简介
@@ -115,7 +117,3 @@ updated: 2026-05-22
 > - 四书被确立为正统，也在一定程度上限制了思想多样性——汉代以前儒家思想本有更多流派
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

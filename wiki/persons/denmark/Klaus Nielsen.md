@@ -1,6 +1,7 @@
 ---
 title: Klaus Nielsen
 aliases:
+  - Nielsen, K.
   - 克劳斯·尼尔森
 summary: "丹麦理论心理学家，社会实践学习与 Visible Learning 批判研究者，为教育研究从实践论和合法化危机视角反思证据主义提供资源。"
 type: person
@@ -30,17 +31,17 @@ related_persons:
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
-sources:
-  - "[[Nielsen_2021_IRTP]]"
-  - "[[Nielsen_2021_NordPsych]]"
 related_facts:
   - "[[PISA]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Nielsen
+given_names: Klaus
+initials: K.
+citation_name: Nielsen
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -123,8 +124,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - **与 Rømer (2019) 的理论定位分歧**：Rømer 将 VL 的理论基础解读为[[Radical Constructivism|激进建构主义]]（radical constructivism），而 Nielsen & Klitmøller 论证 VL 的内核是[[Technical Rationality|技术理性]]——两者虽然从不同理论基础出发，但对 VL 的批评形成互补
 > - **反馈审查的稳健性**：Nielsen & Klitmøller 对反馈[[Meta-analysis|元分析]]的细读审查聚焦于概念匹配（[[John Hattie|Hattie]] 定义的反馈 vs 元分析实际研究的内容）而非统计技术——支持者可能质疑"概念匹配"标准本身，但这一方法论选择反映了他们"Hattie 是教育理论家"的核心论证方向
-
-## 来源
-
-- [[Nielsen_2021_IRTP]]
-- [[Nielsen_2021_NordPsych]]

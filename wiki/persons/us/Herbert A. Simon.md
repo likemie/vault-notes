@@ -1,6 +1,8 @@
 ---
 title: Herbert A. Simon
 aliases:
+  - Simon, H. A.
+  - Herbert Simon
   - 赫伯特·A.西蒙
 summary: "美国政治学家、经济学家和认知科学家，有限理性理论创立者，为教育研究理解专业判断、决策局限与复杂系统中的选择提供基础。"
 type: person
@@ -19,14 +21,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Simon
+given_names: Herbert A.
+initials: H. A.
+citation_name: Simon
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -65,7 +68,3 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管理学（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
 > - Qvortrup（2019）将有限理性引入教育研究，作为理解教学实践的认识论基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置
-
-## 来源
-
-- [[Qvortrup_2019_NordSTEP]]

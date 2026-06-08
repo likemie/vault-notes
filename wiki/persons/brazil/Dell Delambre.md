@@ -1,6 +1,7 @@
 ---
 title: Dell Delambre
 aliases:
+  - Delambre, D.
   - 戴尔·德朗布尔
 summary: "巴西认识论学者和实践者，Creative Tension of Sense 与 Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。"
 type: person
@@ -25,14 +26,15 @@ related_persons:
   - "[[Walter Mignolo]]"
   - "[[Camilla de Hollanda Amado]]"
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-06-02'
+updated: '2026-06-08'
+family_name: Delambre
+given_names: Dell
+initials: D.
+citation_name: Delambre
 ---
-
 # Dell Delambre
 
 ## 简介
@@ -91,7 +93,3 @@ updated: '2026-06-02'
 > "The starting point is silence in tension, not the answer." (Delambre, 2022, p. 113)
 > 
 > 出发点是张力中的沉默，而不是答案。
-
-## 来源
-
-- [[Ch7_Delambre_2022]]

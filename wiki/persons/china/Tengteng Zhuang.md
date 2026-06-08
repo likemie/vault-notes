@@ -1,6 +1,7 @@
 ---
 title: Tengteng Zhuang
 aliases:
+  - Zhuang, T.
   - 庄腾腾
 summary: "中国教育研究者，中国教育实证研究文献计量整理者，为理解本土证据生产格局与研究趋势提供基础资料。"
 type: person
@@ -15,14 +16,15 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Slavin_2021_ROE]]"
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Zhuang
+given_names: Tengteng
+initials: T.
+citation_name: Zhuang
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -47,7 +49,3 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 ## 争议与批评
-
-## 来源
-
-- [[Slavin_2021_ROE]]

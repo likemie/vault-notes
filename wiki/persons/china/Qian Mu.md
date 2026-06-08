@@ -1,6 +1,7 @@
 ---
 title: Qian Mu
 aliases:
+  - Qian, M.
   - 钱穆
 summary: "中国历史学家，1940年代末移居香港，其文化保守主义深刻塑造了香港中国历史教育的汉人中心叙事传统"
 type: person
@@ -18,14 +19,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Qian
+given_names: Mu
+initials: M.
+citation_name: Qian
 ---
-
 # Qian Mu
 
 
@@ -64,7 +66,3 @@ updated: 2026-05-26
 > - **汉人沙文主义倾向**：批评者指出，钱穆的文化保守主义在实践中滑向汉人沙文主义——将"中国文化"等同于"汉文化"，将"中国历史"叙述为汉文化向边疆的文明化扩张（Xu, 2024, p.578）。
 > - **殖民合谋**：钱穆的文化保守主义在客观上与英国殖民政治形成了合谋关系——虽然钱穆本人的动机是文化保存，但他的思想框架为殖民政府提供了避免直接冲突、维护政治控制的便捷工具（Xu, 2024, pp.577–578）。
 > - **当代遗产**：即使在 2019 年香港新课程指引发布后，钱穆所塑造的文化保守主义传统仍可能在教科书作者和教育者的深层认知中持续运作——课程指引的改变不一定直接转化为叙事的根本转向（Xu, 2024, p.586）。
-
-## 来源
-
-- [[Xu_2024_CE]]

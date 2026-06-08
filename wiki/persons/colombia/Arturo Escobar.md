@@ -1,6 +1,7 @@
 ---
 title: Arturo Escobar
 aliases:
+  - Escobar, A.
   - 阿图罗·埃斯科瓦尔
 summary: "哥伦比亚裔美国人类学家和设计理论家，Designs for the Pluriverse作者，为教育研究思考去殖民知识与替代性未来提供视角。"
 type: person
@@ -23,14 +24,15 @@ related_methods: []
 related_persons:
   - "[[Donna Haraway]]"
 related_arguments: []
-sources:
-  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Escobar
+given_names: Arturo
+initials: A.
+citation_name: Escobar
 ---
-
 ## 简介
 
 > [!info]
@@ -75,7 +77,3 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命[[Luhmann
 - 其立场与非洲 [[Ubuntu]] 和拉丁美洲 [[Buen Vivir]] 理念具有"家族相似性"，或许与后者的共鸣略多（Amos, 2022, p.64）
 
 ---
-
-## 来源
-
-- [[Ch4_Amos_2022]]

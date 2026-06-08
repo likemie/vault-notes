@@ -1,8 +1,8 @@
 ---
 title: Robert Marzano
 aliases:
+  - Marzano, R.
   - 罗伯特·马扎诺
-  - Marzano
 summary: "美国教育研究者，提出理论驱动的元综合框架，将教学策略按知识、认知、元认知和自我系统四层分类，追求课堂实践指导的可操作性"
 type: person
 nationality: usa
@@ -24,14 +24,15 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
+family_name: Marzano
+given_names: Robert
+initials: R.
+citation_name: Marzano
 ---
-
 ## 简介
 
 > [!info]
@@ -83,7 +84,3 @@ updated: '2026-06-08'
 > - Marzano 的研究同样面临[[Meta-analysis|元分析]]的一般性批评：输入研究质量参差、分类标准的主观性、以及[[Effect Size|效应量]]跨研究可比性问题
 
 ---
-
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

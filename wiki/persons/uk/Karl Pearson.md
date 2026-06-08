@@ -1,8 +1,8 @@
 ---
 title: Karl Pearson
 aliases:
+  - Pearson, K.
   - 卡尔·皮尔逊
-  - Pearson
 summary: "英国数学家与统计学奠基人，1904年首次提出跨研究合并数据以回答因果问题的方法，被视为元分析的思想先驱"
 type: person
 nationality: uk
@@ -22,14 +22,15 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Argument_Higgins_2016_RE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
 updated: '2026-06-08'
+family_name: Pearson
+given_names: Karl
+initials: K.
+citation_name: Pearson
 ---
-
 ## 简介
 
 > [!info]
@@ -76,7 +77,3 @@ updated: '2026-06-08'
 > - 其[[Pearson Product-Moment Correlation|积差相关]]系数和[[Chi-Squared Test|卡方检验]]至今仍是统计学的基础工具
 
 ---
-
-## 来源
-
-- [[Argument_Higgins_2016_RE]]

@@ -1,6 +1,7 @@
 ---
 title: Doreen Massey
 aliases:
+  - Massey, D.
   - 多琳·马西
 summary: "英国人文地理学家，关系性空间与权力几何理论代表人物，为教育研究理解高教空间、流动与地缘政治提供关键语言。"
 type: person
@@ -25,14 +26,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Massey
+given_names: Doreen
+initials: D.
+citation_name: Massey
 ---
-
 # Doreen Massey
 
 ## 简介
@@ -107,7 +109,3 @@ Massey 反复论证全球空间不是预先给定的、"在外面的"、外在�
 > - **人文地理学** — Massey 是 20 世纪末至 21 世纪初英语世界最具影响力的地理学家之一，其 *For Space*（2005）被广泛视为关系性空间理论的经典文本
 
 ---
-
-## 来源
-
-- [[Marginson_2025_ROE]]

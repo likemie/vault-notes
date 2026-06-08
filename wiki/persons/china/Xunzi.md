@@ -1,6 +1,9 @@
 ---
 title: Xunzi
-aliases: ["荀子", "荀况", "Hsün Tzu"]
+aliases:
+  - 荀子
+  - 荀况
+  - Hsün Tzu
 summary: "战国儒家思想家，主张性恶论，强调礼义教化与后天学习对改造人性的关键作用，为学习必要性提供了不同于孟子的儒家论证"
 type: person
 nationality: china
@@ -17,14 +20,15 @@ related_persons:
   - "[[Mencius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: '2026-06-08'
+family_name: Xunzi
+given_names: 
+initials: 
+citation_name: Xunzi
 ---
-
 # Xunzi
 
 
@@ -56,7 +60,3 @@ updated: 2026-05-25
 - 荀子的性恶论与[[Mencius|孟子]]的性善论共同构成了[[Confucian Learning Tradition|儒家学习传统]]的两大理论支柱，分别从不同角度论证了学习的必要性（Li, 2012, pp.42-43）。
 - 荀子对"诚意"（sincerity）和"坚持"（perseverance）等[[Learning Virtues|学习美德]]的强调，在后世[[Neo-Confucianism|宋明理学]]（[[Neo-Confucianism]]）中得到了进一步发展和系统化（Li, 2012, p.140）。
 - "锲而不舍"的精神至今仍是东亚教育文化中劝学励志的经典话语，影响了无数学习者的学习态度（Li, 2012, p.142）。
-
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

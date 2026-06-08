@@ -1,6 +1,7 @@
 ---
 title: Ernst von Glasersfeld
 aliases:
+  - Glasersfeld, E. V.
   - 恩斯特·冯·格拉泽斯费尔德
 summary: "德裔美籍哲学家和认知心理学家，激进建构主义创始人，为教育研究理解知识建构、学习主体与反表征认识论提供重要参照。"
 type: person
@@ -23,14 +24,15 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
 related_arguments: []
-sources:
-  - "[[Romer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Glasersfeld
+given_names: Ernst von
+initials: E. V.
+citation_name: Glasersfeld
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -73,7 +75,3 @@ updated: '2026-05-19'
 > - **规范性缺失**：[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础（Rømer, 2018, p.6-7）
 > - **外部世界的消解**：Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
 > - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的精确对立面，[[John Hattie|Hattie]] 试图桥接两者的努力因此注定失败（Rømer, 2018, p.10-11）
-
-## 来源
-
-- [[Romer_2018_EPT]]

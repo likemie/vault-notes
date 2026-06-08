@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 本文是 Grace 对 [[John Hattie|Hattie]] (2010) 在 *NZJES* 45(1) 发表的"On being a '[[Critic and Conscience of Society]]'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
+> 本文是 Grace 对 Hattie (2010) 在 *NZJES* 45(1) 发表的"On being a '[[Critic and Conscience of Society]]'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
 
 ## 理论框架
 
@@ -52,7 +52,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> ### 论证一：[[John Hattie|Hattie]] 混淆了两种不同角色
+> ### 论证一：Hattie 混淆了两种不同角色
 >
 > Grace（p.90）区分了两种学术角色：
 > - **学术领域的批评者**：在学科内部对研究质量和方法进行技术性批评——这是正常学术工作
@@ -78,7 +78,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > 1. 新西兰将"[[Critic and Conscience of Society]]"写入大学立法，在新自由主义的 1980 年代具有先见性（pp.89–90）
-> 2. [[John Hattie|Hattie]] 对 VL 争论的参与属于正常学术批评范畴，但未达到该角色的规范性要求（p.90）
+> 2. Hattie 对 VL 争论的参与属于正常学术批评范畴，但未达到该角色的规范性要求（p.90）
 > 3. 将非学校因素排除在教育成就差异分析之外，虽然声称仅是方法论的"范围选择"，但产生了有利于维持现状的政治后果（p.91）
 
 ## 关键引用
@@ -97,7 +97,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 作为个人述评而非系统研究，论证限于概念区分层面
-> - 未深入讨论 [[John Hattie|Hattie]] 排除非学校因素的方法论理由——即研究范围限定在"教育者能控制的因素"
+> - 未深入讨论 Hattie 排除非学校因素的方法论理由——即研究范围限定在"教育者能控制的因素"
 > - Grace 本人是该概念的原创者和新西兰大学立法的推动者，其立场具有特定的制度和规范承诺
 
 ## 来源

@@ -1,9 +1,9 @@
 ---
 title: John Hattie
 aliases:
+  - Hattie, J.
   - 约翰·哈蒂
   - 哈蒂
-  - Hattie
 summary: "新西兰教育统计学家，Visible Learning作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
 type: person
 nationality: new-zealand
@@ -90,40 +90,6 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Hattie_2017_SLM]]"
-sources:
-  - "[[Higgins_2016_RE]]"
-  - "[[Snook_2009_NZJES]]"
-  - "[[Grace_2010_NZJES]]"
-  - "[[Hattie_2010_NZJES]]"
-  - "[[Snook_2010_NZJES]]"
-  - "[[Terhart_2011_JCS]]"
-  - "[[ONeill_2012_NZJES]]"
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Fredens_2015_Paideia]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Laursen_2015_Paideia]]"
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[ONeill_2016_Report]]"
-  - "[[Wecker_2016_ZfE]]"
-  - "[[Bergeron_2017_MJE]]"
-  - "[[Eacott_2017_SLM]]"
-  - "[[Hattie_2017_SLM]]"
-  - "[[Knudsen_2017_NordSTEP]]"
-  - "[[Zhao_2017_JEC]]"
-  - "[[Romer_2018_EPT]]"
-  - "[[Eacott_2019_IJLE]]"
-  - "[[Golovchin_2019_ESC]]"
-  - "[[Larsen_2019_EducSci]]"
-  - "[[Qvortrup_2019_NordSTEP]]"
-  - "[[Sarbiewska_2019_JSR]]"
-  - "[[Blass_2020_JESP]]"
-  - "[[McKnight_2020_Discourse]]"
-  - "[[OConnor_2020_AJLL]]"
-  - "[[Nielsen_2021_IRTP]]"
-  - "[[Nielsen_2021_NordPsych]]"
-  - "[[Bainbridge_2022_ROE]]"
-  - "[[Johnson_2023_CE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -136,9 +102,12 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-21'
+updated: '2026-06-08'
+family_name: Hattie
+given_names: John
+initials: J.
+citation_name: Hattie
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -407,39 +376,3 @@ updated: '2026-05-21'
 >
 
 ---
-
-## 来源
-
-- [[Higgins_2016_RE]]
-- [[Snook_2009_NZJES]]
-- [[Grace_2010_NZJES]]
-- [[Hattie_2010_NZJES]]
-- [[Snook_2010_NZJES]]
-- [[Terhart_2011_JCS]]
-- [[ONeill_2012_NZJES]]
-- [[Allerup_2015_Paideia]]
-- [[Fredens_2015_Paideia]]
-- [[Hattie_2015_SOTLP]]
-- [[Hattie_2015_Paideia]]
-- [[Laursen_2015_Paideia]]
-- [[Qvortrup_2015_Paideia]]
-- [[ONeill_2016_Report]]
-- [[Wecker_2016_ZfE]]
-- [[Bergeron_2017_MJE]]
-- [[Eacott_2017_SLM]]
-- [[Hattie_2017_SLM]]
-- [[Knudsen_2017_NordSTEP]]
-- [[Zhao_2017_JEC]]
-- [[Romer_2018_EPT]]
-- [[Eacott_2019_IJLE]]
-- [[Golovchin_2019_ESC]]
-- [[Larsen_2019_EducSci]]
-- [[Qvortrup_2019_NordSTEP]]
-- [[Sarbiewska_2019_JSR]]
-- [[Blass_2020_JESP]]
-- [[McKnight_2020_Discourse]]
-- [[OConnor_2020_AJLL]]
-- [[Nielsen_2021_IRTP]]
-- [[Nielsen_2021_NordPsych]]
-- [[Bainbridge_2022_ROE]]
-- [[Johnson_2023_CE]]

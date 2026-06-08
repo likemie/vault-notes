@@ -1,9 +1,9 @@
 ---
 title: Jean-François Lyotard
 aliases:
+  - Lyotard, J. F.
   - 让-弗朗索瓦·利奥塔
   - 利奥塔
-  - Lyotard
 summary: "法国后结构主义哲学家，后现代状况作者与知识合法化理论代表人物，为教育研究反思知识、权威与绩效逻辑提供框架。"
 type: person
 nationality: france
@@ -21,14 +21,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Lyotard
+given_names: Jean-François
+initials: J. F.
+citation_name: Lyotard
 ---
-
 # Jean-François Lyotard
 
 ## 简介
@@ -77,7 +78,3 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 > - 晚年"发展作为非人的准形而上学"的批判为当代技术哲学和批判数据研究提供了理论资源
 
 ---
-
-## 来源
-
-- [[Ch5_Partaken_2022]]

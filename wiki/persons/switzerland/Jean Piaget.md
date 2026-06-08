@@ -1,6 +1,7 @@
 ---
 title: Jean Piaget
 aliases:
+  - Piaget, J.
   - 让·皮亚杰
   - 皮亚杰
 summary: "瑞士心理学家，认知发展阶段理论与发生认识论创立者，为教育研究理解儿童发展、建构主义与课程设计提供根基。"
@@ -22,15 +23,15 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Piaget
+given_names: Jean
+initials: J.
+citation_name: Piaget
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -69,8 +70,3 @@ updated: '2026-05-19'
 > - 无法分离记忆与逻辑（Bryant & Trabasso, 1971）
 > - 假设儿童同时仅存在于一个阶段（Case, 1992; Flavell, 1982）
 > - 文化背景的影响被忽略（Dasen, 1975; Dasen & Heron, 1981; Mishra, 1997; Price-Williams et al., 1969, 1981）
-
-## 来源
-
-- [[Qvortrup_2015_Paideia]]
-- [[Bolton_2017_ArchPsych]]

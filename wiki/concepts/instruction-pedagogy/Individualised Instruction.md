@@ -68,14 +68,14 @@ updated: "2026-05-22"
 
 > [!tip] 理论基础
 > - [[Effective Teaching]] — 个别化教学可被看作有效教学中“适配学生前提条件”的一部分，而不是独立万能策略。
-> - [[Visible Learning]] — [[John Hattie|Hattie]] 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定（Laursen, 2015, p.38）。
+> - [[Visible Learning]] — Hattie 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定（Laursen, 2015, p.38）。
 
 ---
 
 ## 实证发现
 
-> [!success] [[John Hattie|Hattie]] 的[[Meta-meta-analysis|元综合]]排名
-> [[John Hattie|Hattie]]（1992）综合 134 项[[Meta-analysis|元分析]]后发现，个别化教学的平均[[Effect Size|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习（Higgins, 2016, p.42）。
+> [!success] Hattie 的[[Meta-meta-analysis|元综合]]排名
+> Hattie（1992）综合 134 项[[Meta-analysis|元分析]]后发现，个别化教学的平均[[Effect Size|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习（Higgins, 2016, p.42）。
 
 > [!success] 丹麦与瑞典的证据
 > - Laursen（2015）整理的丹麦证据没有显示教学差异化能稳定显著提升学习，这与 Hattie 对个别化教学效果较小的判断方向接近（Laursen, 2015, p.38）

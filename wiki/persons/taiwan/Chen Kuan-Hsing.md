@@ -1,6 +1,7 @@
 ---
 title: Chen Kuan-Hsing
 aliases:
+  - Chen, K.-H.
   - 陈光兴
 summary: "中国台湾文化研究学者，Asia as Method作者与去帝国化倡议者，为教育研究反思知识生产的亚洲视角和后殖民方法提供资源。"
 type: person
@@ -20,14 +21,15 @@ related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Chen
+given_names: Kuan-Hsing
+initials: K.-H.
+citation_name: Chen
 ---
-
 # Chen Kuan-Hsing
 
 ## 简介
@@ -68,7 +70,3 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 > - 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）研究中，Chen 将后殖民 GPK 分析从 [[Frantz Fanon|Fanon]] 的殖民[[Knowledge Production|知识生产]]批判推进到对当代亚洲知识状况的结构性改造方案。Partaken (2022) 将 Chen 定位为后殖民 GPK 谱系中 Fanon 之后的关键人物，同时指出 Chen 的分析仍以知识生产为核心，而自己的贡献在于将重心转向[[Knowledge Transfer|知识转移]]（Partaken, 2022, p.73–75）
 
 ---
-
-## 来源
-
-- [[Ch5_Partaken_2022]]

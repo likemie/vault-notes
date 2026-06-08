@@ -1,6 +1,7 @@
 ---
 title: Didier Eribon
 aliases:
+  - Eribon, D.
   - 迪迪埃·埃里蓬
 summary: "法国社会学家和哲学家，回归故里作者与阶级自传写作代表人物，为教育研究理解阶级流动后的文化撕裂提供思想资源。"
 type: person
@@ -18,14 +19,15 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: '2026-05-09'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Eribon
+given_names: Didier
+initials: D.
+citation_name: Eribon
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -58,7 +60,3 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Eribon, D. (2009). *Retour à Reims*. Fayard. — 中译本：《回归故里》，王献译，上海文化出版社，2020 — 以自传体社会学方法反思阶级流动、性向认同与原生文化的关系
 >
-
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

@@ -1,6 +1,7 @@
 ---
 title: Sean McCusker
 aliases:
+  - McCusker, S.
   - 肖恩·麦卡斯克
 summary: "英国社会科学研究者，证据本位教学科学观批判合作者，为教育研究反思方法崇拜与简化科学形象提供补充论证。"
 type: person
@@ -19,14 +20,15 @@ related_methods:
 related_persons:
   - "[[Terry Wrigley]]"
 related_arguments: []
-sources:
-  - "[[Wrigley_2019_ERE]]"
 confidence: low
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: McCusker
+given_names: Sean
+initials: S.
+citation_name: McCusker
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -46,7 +48,3 @@ updated: '2026-05-19'
 
 > [!abstract] 主要著作
 > - Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126.
-
-## 来源
-
-- [[Wrigley_2019_ERE]]

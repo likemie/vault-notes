@@ -1,6 +1,7 @@
 ---
 title: Matt Homer
 aliases:
+  - Homer, M.
   - 马特·霍默
 summary: "英国教育研究者和定量方法学者，什么有效议程批判讨论参与者，为教育研究反思定量证据的适用范围提供声音。"
 type: person
@@ -14,14 +15,15 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Homer
+given_names: Matt
+initials: M.
+citation_name: Homer
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -45,7 +47,3 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 ## 争议与批评
-
-## 来源
-
-- [[Pampaka_2016_IJRME]]

@@ -1,6 +1,7 @@
 ---
 title: Thomas Barr Greenfield
 aliases:
+  - Greenfield, T. B.
   - 托马斯·巴尔·格林菲尔德
 summary: "加拿大教育行政学者，主观主义教育行政研究代表人物，为教育研究挑战实证主义组织理论并重申意义与经验的重要性提供主观主义转向。"
 type: person
@@ -19,14 +20,15 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_arguments: []
-sources:
-  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Greenfield
+given_names: Thomas Barr
+initials: T. B.
+citation_name: Greenfield
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -81,7 +83,3 @@ updated: 2026-05-19
 > - **"怎么都行"的问题**：Eacott（2015, p.316）指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
 > - **消极后果**：Greenfield 的批判（与 Bates 等人一起）在打破实证主义垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
 > - **Eacott 的定位**：Eacott（2015）在 Greenfield 与 Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 [[Pierre Bourdieu|Bourdieu]] 的反思社会学重新定义什么是"科学"
-
-## 来源
-
-- [[Eacott_2015_EPT]]

@@ -1,6 +1,7 @@
 ---
 title: Kimberly Ochs
 aliases:
+  - Ochs, K.
   - 金伯莉·奥克斯
 summary: "英国比较教育学者，政策借用与跨国吸引类型学共同提出者，为教育研究分析改革为何被引入与如何被转译提供模型。"
 type: person
@@ -20,14 +21,15 @@ related_methods: []
 related_persons:
   - "[[David Phillips]]"
 related_arguments: []
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Ochs
+given_names: Kimberly
+initials: K.
+citation_name: Ochs
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -79,7 +81,3 @@ updated: '2026-05-19'
 > - **[[Policy Borrowing|政策借用]]四阶段模型** — [[Cross-National Attraction|跨国吸引]]力→决策→实施→内化／本土化（Phillips & Ochs, 2003）
 > - **跨国吸引力结构性类型学** — 六类政策焦点 + 13 种情境因素（Ochs & Phillips, 2002）
 > - **四种吸引力"火花"分类** — 为理解为什么外国范例被引入国内辩论提供了分析工具
-
-## 来源
-
-- [[Rappleye_2006_RCIE]]

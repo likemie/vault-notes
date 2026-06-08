@@ -1,6 +1,7 @@
 ---
 title: Kurt Fischer
 aliases:
+  - Fischer, K.
   - 库尔特·费舍尔
 summary: "美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变表现提供模型。"
 type: person
@@ -18,14 +19,15 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Jean Piaget]]"
 related_arguments: []
-sources:
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Fischer
+given_names: Kurt
+initials: K.
+citation_name: Fischer
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -51,7 +53,3 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - 在[[Jean Piaget|皮亚杰]]和 Case 的基础上构建，但更强调环境/经验的作用
 > - 其实际-最优技能水平的区分为理解认知发展的个体差异提供了框架
-
-## 来源
-
-- [[Bolton_2017_ArchPsych]]

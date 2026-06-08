@@ -1,9 +1,10 @@
 ---
 title: John W. Creswell
 aliases:
+  - Creswell, J. W.
+  - John Creswell
   - 约翰·克雷斯维尔
   - 克雷斯维尔
-  - John Creswell
 summary: "美国混合方法研究方法论学者，密歇根大学家庭医学教授，混合方法研究国际研究协会创始主席，Journal of Mixed Methods Research 创刊主编"
 type: person
 nationality: usa
@@ -27,14 +28,15 @@ related_persons: []
 related_facts:
   - "[[Mixed Methods International Research Association]]"
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: '2026-06-08'
+family_name: Creswell
+given_names: John W.
+initials: J. W.
+citation_name: Creswell
 ---
-
 # John W. Creswell
 
 ## 简介
@@ -76,7 +78,3 @@ updated: 2026-05-30
 > - 创建[[Mixed Methods International Research Association|混合方法国际研究协会]]（MMIRA），推动混合方法研究的国际学术网络建设。
 > - 参与制定 APA 质性与混合方法研究标准，影响了心理学及相关学科的研究规范。
 > - 其研究设计教材被全球多学科的研究方法课程广泛采用，至第六版累计发行量极大。
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

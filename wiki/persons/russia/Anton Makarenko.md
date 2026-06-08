@@ -1,9 +1,9 @@
 ---
 title: Anton Makarenko
 aliases:
+  - Makarenko, A.
   - 安东·马卡连柯
   - 马卡连柯
-  - Makarenko
 summary: "苏联教育改革家，因其教育思想与实践被西方学界称为苏联的 John Dewey，主张通过教育克服不利生活环境，其思想在矫正教育领域受到持续关注"
 type: person
 nationality: russia
@@ -26,14 +26,15 @@ related_persons:
   - "[[Stanislav Shatskii]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Makarenko
+given_names: Anton
+initials: A.
+citation_name: Makarenko
 ---
-
 # Anton Makarenko
 
 ## 简介
@@ -139,14 +140,3 @@ updated: 2026-05-26
 - **个体与集体的张力**：批评者认为，马卡连柯体系可能赋予儿童集体过强的规训力量，压制儿童个体权利和家庭权利；Vladimir Sirotin 等后苏联批评者甚至将其称为"命令式教育"或"惩罚性教育"传统的一部分。
 - **再评价**：Halvorsen（2014）等较同情的解释则认为，马卡连柯并非简单牺牲个体，而是试图在个体发展和有引导的集体影响之间建立平衡；在青年照护、成瘾干预和群体工作中，这一面向仍有启发性。
 - **政治记忆争议**：2024 年，乌克兰公共记忆与去殖民化语境中，马卡连柯因曾在 NKVD 系统任职而被重新审视；这类争议影响的是公共纪念和命名实践，不等同于禁止研究其教育活动。
-
-## 来源
-
-- Russian Pedagogical Encyclopedia. (1993). Entry on Makarenko. Moscow: Bolshaya Rossiyskaya Entsiklopediya.
-- Filonov, G. N. (1994). Anton Makarenko (1888-1939). *Prospects: The Quarterly Review of Comparative Education*, 24(1/2), 77-91.
-- Korablova, T. F. (2000). *Philosophico-ethical aspects of A. S. Makarenko's theory of the collective*.
-- Holtz, R. J. (2002). Makarenko and Dewey: Two views on overcoming life circumstances through education. *Journal of Correctional Education*, 53(3), 116-119.
-- Gehring, T., Bowers, F. B., & Wright, R. (2005). Anton Makarenko: The "John Dewey of the U.S.S.R." *Journal of Correctional Education*, 56(4), 327-345.
-- Halvorsen, T. (2014). Key pedagogic thinkers: Anton Makarenko. *Journal of Pedagogic Development*, 4(2).
-- [[Ryabyy_2024_Maneto]]
-- Istorychna Pravda. (2024, June 7). Anton Makarenko was an employee of the NKVD: The conclusion of the UINP.

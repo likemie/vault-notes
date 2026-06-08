@@ -1,6 +1,7 @@
 ---
 title: Paul Morris
 aliases:
+  - Morris, P.
   - 保罗·莫里斯
 summary: "英国比较教育与课程研究学者，香港课程政治与政策借用研究代表人物，为教育研究理解全球化论述在本地课程中的转译提供案例。"
 type: person
@@ -23,8 +24,6 @@ related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Ryan_2010_HKUP]]"
-sources:
-  - "[[Yan_2025_JCS]]"
 related_facts:
   - "[[PISA]]"
   - "[[Liberal Studies]]"
@@ -33,9 +32,12 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Morris
+given_names: Paul
+initials: P.
+citation_name: Morris
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -77,7 +79,3 @@ updated: '2026-05-19'
 > - 受 **Steiner-Khamsi** 的[[Policy Borrowing|政策借用]]理论和 **Cuban** 的课程变革政治分析影响
 > - 与 **Edward Vickers** 的合作建立了香港教育与威权国家主义之间联系的[[Analytic Framework|分析框架]]
 > - 与 **Kin Cheung Adrian Yan** 的合作将 Cuban 的框架扩展到后《国安法》时代
-
-## 来源
-
-- [[Yan_2025_JCS]]

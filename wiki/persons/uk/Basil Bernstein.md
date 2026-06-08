@@ -1,6 +1,7 @@
 ---
 title: Basil Bernstein
 aliases:
+  - Bernstein, B.
   - 巴兹尔·伯恩斯坦
   - 伯恩斯坦
 summary: 英国教育社会学传统中的关键理论家，以横向知识结构、教育知识分类与框架、教育话语理论影响教育社会学。
@@ -22,15 +23,15 @@ related_persons:
 related_arguments: []
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
-sources:
-  - "[[Ball_2008_SR]]"
-  - "[[McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: '2026-06-08'
+family_name: Bernstein
+given_names: Basil
+initials: B.
+citation_name: Bernstein
 ---
-
 # Basil Bernstein
 
 ## 简介
@@ -63,8 +64,3 @@ updated: 2026-05-23
 
 > [!warning] 与 [[New Sociology of Education|NSE]] 的关系
 > Bernstein 虽然对 Young 文集的出版起到推动作用，也常被错误地视为 [[New Sociology of Education|NSE]] 的关键人物，但他并非 NSE 的组成部分；相反，他对 NSE 的许多构成要素持批评立场，尤其批评其经验基础薄弱（Ball, 2008, p.661）。
-
-## 来源
-
-- [[Ball_2008_SR]]
-- [[McPhail_2023_JCS]]

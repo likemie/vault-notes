@@ -1,6 +1,7 @@
 ---
 title: Scott Eacott
 aliases:
+  - Eacott, S.
   - 斯科特·伊科特
 summary: "澳大利亚教育行政学者，关系取向组织理论与领导力知识批判代表人物，为教育研究反思教育领导力领域的话语、方法与权威结构提供工具。"
 type: person
@@ -31,17 +32,15 @@ related_arguments:
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Eacott_2017_SLM]]"
-sources:
-  - "[[Eacott_2011_JEAH]]"
-  - "[[Eacott_2015_EPT]]"
-  - "[[Eacott_2019_IJLE]]"
-  - "[[Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Eacott
+given_names: Scott
+initials: S.
+citation_name: Eacott
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -95,10 +94,3 @@ updated: 2026-05-19
 > - 一位批评者向 UNSW 科研副校长投诉，认为该论文是对 [[John Hattie]] 和证据本位策略的"攻击"——大学调查后认为此事"无关紧要"，论文经过两轮同行评审后被视为适当（Eacott, 2019, p.776）
 > - Eacott 承认自己的沟通技巧"可能导致了对我论证的误认"（Eacott, 2019, p.776）
 > - Hattie（2017）回应称 Eacott 在"嘲笑严谨性"——Eacott（2019, p.777）认为这是对其论点的系统性误认（详见 [[Cult of the Guru#争议与批评]]）
-
-## 来源
-
-- [[Eacott_2011_JEAH]]
-- [[Eacott_2015_EPT]]
-- [[Eacott_2019_IJLE]]
-- [[Hattie_2017_SLM]]

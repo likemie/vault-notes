@@ -1,6 +1,7 @@
 ---
 title: Niklas Luhmann
 aliases:
+  - Luhmann, N.
   - 尼克拉斯·卢曼
   - 卢曼
 summary: "德国社会学家，社会系统理论创始人与教育系统分析者，为教育研究处理观察、复杂性与制度再生产提供强力工具。"
@@ -23,14 +24,15 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Luhmann
+given_names: Niklas
+initials: N.
+citation_name: Luhmann
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -76,7 +78,3 @@ updated: '2026-05-19'
 > - Luhmann 的洞见为理解教育中"观看中的盲视"提供了理论基础（Larsen, 2019, p.10）
 >
 > Luhmann 的理论还通过 Qvortrup (2019) 被用于对 VL 的辩护（以[[Structural Coupling|结构耦合]]概念论证教学与学习之间的非因果链接），与 Larsen 的用法形成有趣的对比。
-
-## 来源
-
-- [[Larsen_2019_EducSci]]

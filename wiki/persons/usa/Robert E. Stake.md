@@ -1,6 +1,8 @@
 ---
 title: Robert E. Stake
 aliases:
+  - Stake, R. E.
+  - Robert Stake
   - 罗伯特·斯塔克
 summary: "美国著名的评估理论家和质性研究专家，以开发响应式评估（Responsive Evaluation）和案例研究（Case Study）方法论著称，强调对教育实践情境性的深度理解。"
 type: person
@@ -20,14 +22,15 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Stake
+given_names: Robert E.
+initials: R. E.
+citation_name: Stake
 ---
-
 # Robert E. Stake
 
 ## 简介
@@ -57,7 +60,3 @@ updated: 2026-06-02
 > - Stake 的案例研究方法论与 Yin 的系统化案例研究路径共同构成质性社会科学中最主流的两种案例研究范式
 > - 回应性评价（responsive evaluation）对教育项目和政策评价领域产生了深远影响
 > - [[Naturalistic Generalization|自然主义概括]]概念为[[Qualitative Research|质性研究]]提供了一种区别于统计概括的替代性推广逻辑
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

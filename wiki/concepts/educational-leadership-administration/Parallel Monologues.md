@@ -51,12 +51,12 @@ updated: 2026-05-18
 > [!note-] 历史沿革
 > Eacott 在 2017 年前后开始关注教育行政与领导力领域的对话质量问题。激发这一关注的具体事件是他观察到 Peter Gronn 与 Ross Thomas 之间关于"[[Rich and Thick Description|厚描述]]"（thick description）的学术交流——Thomas 因不了解 Geertz 的研究而将 Gronn 的论点斥为"纯粹语义学"，Eacott 从中看到学者之间即使正面交锋也往往在"不对等的智识地带"上进行（Eacott, 2019, p.775）。
 >
-> Eacott 随后通过组织特刊（*Journal of Educational Administration and Foundations*, Vol. 26 No. 2）和出版 *Beyond Leadership*（Eacott, 2018）来展示他的规范性立场——遵循 [[Pierre Bourdieu|Bourdieu]] 等人的学术逻辑，即**argument and refutation**（论证与反驳）（Eacott, 2019, p.774）。
+> Eacott 随后通过组织特刊（*Journal of Educational Administration and Foundations*, Vol. 26 No. 2）和出版 *Beyond Leadership*（Eacott, 2018）来展示他的规范性立场——遵循 Bourdieu 等人的学术逻辑，即**argument and refutation**（论证与反驳）（Eacott, 2019, p.774）。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs **thesis-antithesis-synthesis**（黑格尔辩证法）：[[John Hattie|Hattie]]（2017）主张学术界应遵循"正题-反题-合题"逻辑，但 Eacott 指出 Hattie 的回应恰恰证明了问题——他只需在表层引用几个词就能制造"反题"，无需真正理解或反驳 Eacott 的核心论点（Eacott, 2019, p.779）。Eacott 主张以**argument-refutation**（论证-反驳）替代 thesis-antithesis-synthesis，区别在于前者的反驳必须基于对对方论证的实质性参与
+> - vs **thesis-antithesis-synthesis**（黑格尔辩证法）：Hattie（2017）主张学术界应遵循"正题-反题-合题"逻辑，但 Eacott 指出 Hattie 的回应恰恰证明了问题——他只需在表层引用几个词就能制造"反题"，无需真正理解或反驳 Eacott 的核心论点（Eacott, 2019, p.779）。Eacott 主张以**argument-refutation**（论证-反驳）替代 thesis-antithesis-synthesis，区别在于前者的反驳必须基于对对方论证的实质性参与
 > - vs **良性忽视（benign neglect）**：两者都描述了学术分歧的处理方式，但 Parallel Monologues 更侧重于结构性现象——整个学术领域由多个独立的"独白"构成，而非单一的忽视行为
 
 ## 理论基础
@@ -67,7 +67,7 @@ updated: 2026-05-18
 ## 实证发现
 
 > [!success] 实证发现
-> - Eacott 以其 2017 年关于"[[John Hattie|Hattie]] [[Cult of the Guru|大师崇拜]]"的论文为案例（n=1），描述了论文收到的反应模式：正面回应远多于负面，但 Eacott 承认"困扰我的始终是后者"（Eacott, 2019, p.775-776）
+> - Eacott 以其 2017 年关于"Hattie [[Cult of the Guru|大师崇拜]]"的论文为案例（n=1），描述了论文收到的反应模式：正面回应远多于负面，但 Eacott 承认"困扰我的始终是后者"（Eacott, 2019, p.775-776）
 > - 一位早期博士候选人通过个人博客和 LinkedIn 攻击该论文为"纯粹意见文章"和"虚构而非研究"，但从未直接告知 Eacott——"愿意攻击某人的研究但不告知对方"（Eacott, 2019, p.776）
 > - 另一人向 Eacott 所在大学的科研副校长投诉，认为该论文是对 Hattie 和证据本位策略的"攻击"（Eacott, 2019, p.776）
 > - Hattie 的回应（2017）被 Eacott 认为未能实质性参与其核心论证：Hattie 仅需"以 Ryle 的术语来说，这是'眨眼'的重演——关注几个词而不把握其底层生成意义"（Eacott, 2019, p.779）
@@ -77,7 +77,7 @@ updated: 2026-05-18
 
 > [!warning] 争议与批评
 > - Bush（2017）发表了针对 Eacott Parallel Monologues 论断的反驳（rebuttal），但 Eacott 认为这并非对核心论点的驳斥（refutation）（Eacott, 2019, p.775）
-> - [[John Hattie|Hattie]]（2017, p.428）主张学术界应遵循 thesis-antithesis-synthesis 且"每个范式或猜想的集合都应被测试到毁灭"——Eacott 在原则上同意但对 Hattie 的实际执行提出批评（Eacott, 2019, p.779）
+> - Hattie（2017, p.428）主张学术界应遵循 thesis-antithesis-synthesis 且"每个范式或猜想的集合都应被测试到毁灭"——Eacott 在原则上同意但对 Hattie 的实际执行提出批评（Eacott, 2019, p.779）
 
 ## 来源
 

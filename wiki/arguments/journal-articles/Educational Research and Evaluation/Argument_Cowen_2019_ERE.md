@@ -50,7 +50,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 为什么以 [[Randomised Controlled Trials|RCT]] 和系统综述为核心的[[Evidence-Based Education|证据本位教育]]（EBE）在教育中占据主导地位，尽管其认识论局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
+> 为什么以 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]为核心的[[Evidence-Based Education|证据本位教育]]（EBE）在教育中占据主导地位，尽管其认识论局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
 >
 > > “我在这里提出的是，EBE（循证教育）的某些特征使其对政策制定者具有吸引力，或者至少是无争议和安全的。”
 > ("What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers.") (p. 3)
@@ -69,9 +69,9 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：理论综合 + 制度分析
 > - **论证结构**：
->   1. 从 Cartwright/Deaton 等哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/系统综述的认识论限度
+>   1. 从 Cartwright/Deaton 等哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的认识论限度
 >   2. 引入 Tullock 官僚制模型作为[[Analytic Framework|分析框架]]
->   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 EEF 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
+>   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 [[Education Endowment Foundation|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
 >   5. 提出改革方向
 > - **案例支撑**：UK（EEF、Teaching and Learning Toolkit、pupil premium）和 US（No Child Left Behind）的经验
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 > - 研究总体与实际[[Study Population and Sample|目标总体]]不匹配（进入 RCT 的群体更像便利样本而非[[Random Sampling|随机样本]]）
 > - 元分析 "成功" 可能只是因为方便采样的人口和环境具有系统性共性，而非干预的普遍有效性
 >
-> > “即使是对许多高质量 RCT 进行的系统综述或元分析，也不能为将其应用于新人群提供多少认识论保证。”
+> > “即使是对许多高质量 RCT 进行的[[Systematic Review|系统综述]]或元分析，也不能为将其应用于新人群提供多少认识论保证。”
 > ("Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population.") (p. 5)
 >
 > 其他方法（准实验、自然实验、工具[[Variable|变量]]、差异中差、定性方法如过程追踪和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
@@ -135,7 +135,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > 1. **[[Evidence-Based Education|EBE]] 的持续影响力不能用认识论优越性来解释**——需要从制度逻辑（官僚委托需求）来理解
 >
-> 2. **[[Randomised Controlled Trials|RCT]]/系统综述作为"透明度技术"**：对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
+> 2. **[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为"透明度技术"**：对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
 >
 > 3. **EBE 存在系统性"去理论化"**：不要求因果机制解释，只要求[[Effect Size|效应量]]估计——这背离有效实施干预所需的科学实践
 >
@@ -165,7 +165,7 @@ updated: '2026-05-18'
 >
 > **批评内容**：Cowen 明确搁置了自利/[[Opportunist Mode|机会主义]]问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，知识问题依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
 >
-> **影响**：此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/系统综述也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
+> **影响**：此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
 >
 > **目前状态**：Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择文献中，认知约束与激励冲突的整合分析仍是一个开放问题。
 >

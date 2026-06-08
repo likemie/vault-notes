@@ -1,6 +1,7 @@
 ---
 title: Wang Yangming
 aliases:
+  - Wang, Y.
   - 王阳明
   - Wang Shouren
   - 王守仁
@@ -27,14 +28,15 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Wang
+given_names: Yangming
+initials: Y.
+citation_name: Wang
 ---
-
 # Wang Yangming
 
 ## 简介
@@ -129,7 +131,3 @@ updated: 2026-05-22
 > - 程朱与阳明之争持续数百年，到清代考据学兴起后，两者的对立也被学者反思和调和
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

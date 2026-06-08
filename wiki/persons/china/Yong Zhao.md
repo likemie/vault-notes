@@ -1,6 +1,7 @@
 ---
 title: Yong Zhao
 aliases:
+  - Zhao, Y.
   - 赵勇
 summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教育副作用框架和 PISA 系统性批评著称，为反思标准化改革和国际评估提供批判性视角"
 type: person
@@ -32,15 +33,15 @@ related_facts:
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Zhao_2020_JEC]]"
-sources:
-  - "[[Zhao_2017_JEC]]"
-  - "[[Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-06-06
+updated: '2026-06-08'
+family_name: Zhao
+given_names: Yong
+initials: Y.
+citation_name: Zhao
 ---
-
 # Yong Zhao
 
 ---
@@ -134,8 +135,3 @@ updated: 2026-06-06
 > 批评的无效并不是放弃揭露 PISA 作为一个具有误导教育的巨大力量的有缺陷企业的理由。
 
 ---
-
-## 来源
-
-- [[Zhao_2017_JEC]]
-- [[Zhao_2020_JEC]]

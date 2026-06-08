@@ -1,8 +1,8 @@
 ---
 title: Jean-Jacques Rousseau
 aliases:
+  - Rousseau, J. J.
   - 卢梭
-  - Rousseau
 summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会契约论》深刻影响现代教育学和民主政治思想，主张自然教育、儿童本位与文明批判"
 type: person
 nationality: france
@@ -31,14 +31,15 @@ related_persons:
   - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Rousseau
+given_names: Jean-Jacques
+initials: J. J.
+citation_name: Rousseau
 ---
-
 # Jean-Jacques Rousseau
 
 ## 简介
@@ -122,7 +123,3 @@ updated: 2026-05-22
 > - **性别角色**：《爱弥儿》第五卷中，卢梭为爱弥儿的伴侣苏菲（Sophie）设计了完全不同的教育——女性的教育应为服务男性而设计。这一性别观在当代被视为卢梭教育思想的主要局限（待核）
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

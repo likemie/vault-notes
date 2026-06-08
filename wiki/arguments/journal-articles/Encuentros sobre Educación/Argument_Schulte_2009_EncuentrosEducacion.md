@@ -284,7 +284,7 @@ Jin Yuelin（1955）的论证暴露了这一焦虑的深度："我们能够认�
 
 > [!quote]
 > “[[John Dewey|杜威]]并不是简单地被‘误解’了，正如一位杜威思想研究者在阅读 1950 年代中国关于杜威的文章时可能直觉感受到的那样。相反，杜威——无论是他本人还是通过他的著作——提供了一个丰富的思想和意识形态储备库，中国知识分子热切地采纳或猛烈地拒绝这些思想，以此为他们关于未来中国应该是什么样子的论证提供动力。”
-> ("[[John Dewey|Dewey]] was not simply 'misunderstood,' as a researcher in Deweyan thought might intuitively perceive when reading, for instance, Chinese articles on Dewey from the 1950s. On the contrary, Dewey — both in person and through his writings — offered a rich repertoire of ideas and ideologies which Chinese intellectuals eagerly took up or vehementely rejected to fuel their arguments about what China should be like in the future.")（pp.68–69）
+> ("Dewey was not simply 'misunderstood,' as a researcher in Deweyan thought might intuitively perceive when reading, for instance, Chinese articles on Dewey from the 1950s. On the contrary, Dewey — both in person and through his writings — offered a rich repertoire of ideas and ideologies which Chinese intellectuals eagerly took up or vehementely rejected to fuel their arguments about what China should be like in the future.")（pp.68–69）
 
 > [!quote]
 > “对约翰·杜威（John Dewey）的热情或批评，不仅仅是关于杜威的思想。至少在表面之下，它也关乎那些与他的哲学和教育思想联系在一起的中国本土概念和意识形态。”

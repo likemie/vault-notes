@@ -40,7 +40,7 @@ updated: 2026-06-08
 ## 定义
 
 > [!info]
-> 革命主义（revolutionism）是 Martin Wight [[Wight's Three Traditions of International Theory|国际关系三大传统]]中对应 [[Immanuel Kant|Kant]] 的思想传统。与现实主义（以国家为中心）和理性主义（以制度为中心）不同，革命主义将政治的终极现实置于个体与群体之间——而非国家之间。终极现实是一个普遍的人类共同体（universal human community），其表达可能要求人类"将国际社会硬化、定义和构建为一个世界国家，一个超国家"（Wight, 1992, p.41, cited in Klerides, 2023, p.418）。
+> 革命主义（revolutionism）是 Martin Wight [[Wight's Three Traditions of International Theory|国际关系三大传统]]中对应 Kant 的思想传统。与现实主义（以国家为中心）和理性主义（以制度为中心）不同，革命主义将政治的终极现实置于个体与群体之间——而非国家之间。终极现实是一个普遍的人类共同体（universal human community），其表达可能要求人类"将国际社会硬化、定义和构建为一个世界国家，一个超国家"（Wight, 1992, p.41, cited in Klerides, 2023, p.418）。
 
 > [!quote]
 > "The deepest element in the Kantian tradition is the moral passion to abolish suffering"（Bull, in Wight, 1992, p.xvii）
@@ -93,7 +93,7 @@ updated: 2026-06-08
 ## 争议与批评
 
 > [!warning]
-> - **欧洲中心主义**：Bull 承认 Wight 的框架"过度欧洲中心"（Bull, in Wight, 1992, pp.xviii, xxii）。革命主义以 [[Immanuel Kant|Kant]] 为代表，同样受限于西欧思想传统。
+> - **欧洲中心主义**：Bull 承认 Wight 的框架"过度欧洲中心"（Bull, in Wight, 1992, pp.xviii, xxii）。革命主义以 Kant 为代表，同样受限于西欧思想传统。
 > - **二分世界的简化**：革命主义的"支持者 vs 阻挡者""压迫者 vs 被压迫者"二元图景可能过于简化国际关系的复杂地形。Klerides（2023, p.430）坦承革命主义在聚焦西方帝国主义的过程中忽视了其他形式的帝国主义。
 > - **道德激情的风险**：Wight 框架中革命主义的"传教性质"和"消除苦难的道德激情"本身可能演变为新的压迫形式——20 世纪左右两翼的极权主义革命正是这一风险的例证（Klerides, 2023, p.419）。
 

@@ -1,6 +1,7 @@
 ---
 title: Dylan Wiliam
 aliases:
+  - Wiliam, D.
   - 迪伦·威廉
 summary: "英国教育评估学者，形成性评价研究代表人物和教育知识局部性论者，为教育研究把评价、教师判断与方法论谦抑重新连起来。"
 type: person
@@ -25,14 +26,15 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Wiliam
+given_names: Dylan
+initials: D.
+citation_name: Wiliam
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -80,7 +82,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Wiliam 对 [[Evidence-Based Education|EBE]] 的批判虽然系统，但未充分回应 Cowen (2019) 关于 EBE 官僚功能的论证——即使 EBE 的认识论基础有问题，其在制度层面可能仍然是官僚委托-代理问题的最优可行解
 > - 四个决策问题框架虽提供实用启发，但未解决信息不完整和不确定性下的操作性决策困境
-
-## 来源
-
-- [[Wiliam_2019_ERE]]

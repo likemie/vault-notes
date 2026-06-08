@@ -1,6 +1,7 @@
 ---
 title: Pepka Boyadjieva
 aliases:
+  - Boyadjieva, P.
   - 佩普卡·博亚季耶娃
 summary: "保加利亚社会学家和高等教育研究者，高教多维使命模型提出者，为教育研究反思排名逻辑对大学使命的压缩提供框架。"
 type: person
@@ -19,14 +20,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch8_Boyadjieva_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Boyadjieva
+given_names: Pepka
+initials: P.
+citation_name: Boyadjieva
 ---
-
 # Pepka Boyadjieva
 
 ## 简介
@@ -80,7 +82,3 @@ updated: '2026-05-19'
 该模型揭示：全球排名仅捕获了高等教育使命矩阵中极小的一部分——主要是个体层面的工具性价值（[[Employability|就业力]]）和社会层面的工具性价值（经济增长、创新）——而系统性地忽略了高等教育的内在价值（知识本身、理性、宽容等社会价值的合法化）和转化/赋权价值（人格发展、批判性思维、社会群体流动和参与）（Boyadjieva, 2022, pp.132–136）。
 
 ---
-
-## 来源
-
-- [[Ch8_Boyadjieva_2022]]

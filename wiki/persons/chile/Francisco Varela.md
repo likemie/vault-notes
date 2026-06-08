@@ -1,6 +1,7 @@
 ---
 title: Francisco Varela
 aliases:
+  - Varela, F.
   - 弗朗西斯科·瓦雷拉
 summary: "智利生物学家和神经科学家，自创生理论共同创立者与具身认知代表人物，为教育研究理解认知、主体性与关系性学习提供资源。"
 type: person
@@ -20,14 +21,15 @@ related_methods: []
 related_persons:
   - "[[Humberto Maturana]]"
 related_arguments: []
-sources:
-  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Varela
+given_names: Francisco
+initials: F.
+citation_name: Varela
 ---
-
 ## 简介
 
 > [!info]
@@ -60,7 +62,3 @@ Francisco Varela（1946–2001），智利生物学家和神经科学家，与 [
 - [[Autopoiesis]] — 与 Maturana 共同创立，从生物学延伸到社会理论和[[Transition Design|转型设计]]
 
 ---
-
-## 来源
-
-- [[Ch4_Amos_2022]]

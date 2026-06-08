@@ -1,6 +1,9 @@
 ---
 title: David Watkins
-aliases: ["戴维·沃特金斯", "沃特金斯"]
+aliases:
+  - Watkins, D.
+  - 戴维·沃特金斯
+  - 沃特金斯
 summary: "澳大利亚教育心理学家，中国学习者悖论的核心研究者，通过实证研究揭示东亚学习者表面看似被动实则深度投入的学习模式"
 type: person
 nationality: australia
@@ -17,14 +20,15 @@ related_persons:
   - "[[John Biggs]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Watkins
+given_names: David
+initials: D.
+citation_name: Watkins
 ---
-
 # David Watkins
 
 ## 简介
@@ -53,7 +57,3 @@ updated: 2026-06-02
 > - Watkins 和 Biggs 引入了**[[Confucian Heritage Cultures|儒家文化圈]]**（[[Confucian Heritage Cultures]]）这一术语，涵盖中国、香港、台湾、新加坡、日本、韩国和越南等受[[Confucian Learning Tradition|儒家学习传统]]影响的地区，为后续跨文化研究提供了统一的[[Analytic Framework|分析框架]]（Li, 2012, p.73）。
 > - 与 Lingbiao Gao 合作，运用质性和量化方法识别中国科学教师的教学目标，发现他们除了认知目标外还强调培养学生的适应性学习态度和道德引导（Li, 2012, p.74）。
 > - 与 Bo Dahlin 合作比较英国与中国学生的记忆和重复使用方式，发现英国学生用重复来检查是否记住，而中国学生用重复来创造深刻印象、为深入理解奠定基础；英国学生视理解为突然顿悟，中国学生则视之为需要大量心智努力的长期过程（Li, 2012, p.75）。
-
-## 来源
-
-- [[Li_2012_Cambridge]]

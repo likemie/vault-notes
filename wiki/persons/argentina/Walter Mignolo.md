@@ -1,6 +1,7 @@
 ---
 title: Walter Mignolo
 aliases:
+  - Mignolo, W.
   - 沃尔特·米尼奥罗
 summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。"
 type: person
@@ -33,15 +34,15 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Chen Kuan-Hsing]]"
 related_arguments: []
-sources:
-  - "[[Ch3_Parreira do Amaral_2022]]"
-  - "[[Ch7_Delambre_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Mignolo
+given_names: Walter
+initials: W.
+citation_name: Mignolo
 ---
-
 # Walter Mignolo
 
 ## 简介
@@ -139,8 +140,3 @@ updated: 2026-05-19
 > - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方认识论框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？Delambre (2022) 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证
 > - 有批评者认为 Mignolo 的论证有时以西方认识论为唯一靶子，对非西方社会内部的认识论霸权和知识排斥（如性别、种姓、阶级）关注不足
 > - 其"边界思维"概念的操作性有限——如何在学术写作和教学中具体实践"在边界地带思考"，缺乏明确的方法论指引
-
-## 来源
-
-- [[Ch3_Parreira do Amaral_2022]]
-- [[Ch7_Delambre_2022]]

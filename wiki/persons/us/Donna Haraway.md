@@ -1,6 +1,7 @@
 ---
 title: Donna Haraway
 aliases:
+  - Haraway, D.
   - 唐娜·哈拉维
 summary: "美国女性主义科技研究学者，赛博格、sympoiesis 与 SF 叙事方法代表人物，为后人类主义和关系伦理提供关键思想资源。"
 type: person
@@ -23,14 +24,15 @@ related_methods: []
 related_persons:
   - "[[John Dewey]]"
 related_arguments: []
-sources:
-  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Haraway
+given_names: Donna
+initials: D.
+citation_name: Haraway
 ---
-
 ## 简介
 
 > [!info]
@@ -77,7 +79,3 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 - Haraway 也是新唯物主义（new materialism）的代表人物，教育对她而言意味着物质性和身体性的连接（Amos, 2022, p.63）
 
 ---
-
-## 来源
-
-- [[Ch4_Amos_2022]]

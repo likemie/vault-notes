@@ -33,7 +33,7 @@ updated: '2026-05-18'
 >
 > > 类比"pure education"——"an educational theory and practice that is claimed to work in self-regulating systems independent of time and space"（Rømer, 2018, p.3，引用 Tanggaard, Rømer, & Brinkmann, 2014）
 >
-> Rømer 用此概念描述 [[John Hattie|Hattie]] 的[[Meta-meta-analysis|元-元分析]]：评价被抽出时间和地点，重构为全球性、数字化的结构。
+> Rømer 用此概念描述 Hattie 的[[Meta-meta-analysis|元-元分析]]：评价被抽出时间和地点，重构为全球性、数字化的结构。
 
 ## 核心要素
 
@@ -52,7 +52,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Rømer (2018) 以 [[John Hattie|Hattie]] 的 VL 为 Pure Evaluation 的典型案例：138 个[[Variable|变量]]被原子化、去情境化，在[[Meta-meta-analysis|元-元分析]]中汇总为一个全球性的 d>0.4 基准
+> - Rømer (2018) 以 Hattie 的 VL 为 Pure Evaluation 的典型案例：138 个[[Variable|变量]]被原子化、去情境化，在[[Meta-meta-analysis|元-元分析]]中汇总为一个全球性的 d>0.4 基准
 > - 批评的实质：评价从"评估教育"变为"定义教育"，教育对象在评价语言游戏中消失（Rømer, 2018, p.3-5）
 
 ## 来源

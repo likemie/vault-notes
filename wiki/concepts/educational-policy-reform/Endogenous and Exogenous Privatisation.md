@@ -74,7 +74,7 @@ O'Neill 等（2016, pp.8–12）记录的九项新西兰近十余年的现代化
 
 **内生私有化**的例证：
 - 政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"
-- ERO 国家报告有利引用 [[Karl Pearson|Pearson]]/[[John Hattie|Hattie]] 思想领导力文章
+- ERO 国家报告有利引用 Pearson/Hattie 思想领导力文章
 - PLD 提供商认证体系（Professional Learning Association New Zealand）的建立
 
 **外生私有化**的例证：

@@ -1,6 +1,7 @@
 ---
 title: Jin Li
 aliases:
+  - Li, J.
   - 李瑾
 summary: "华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念"
 type: person
@@ -48,14 +49,15 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: '2026-05-23'
+updated: '2026-06-08'
+family_name: Li
+given_names: Jin
+initials: J.
+citation_name: Li
 ---
-
 # Jin Li
 
 ## 简介
@@ -198,7 +200,3 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 > - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey|杜威]]的民主教育到当代多元文化教育运动，西方传统内部也存在大量反例
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -1,8 +1,8 @@
 ---
 title: Lev Vygotsky
 aliases:
+  - Vygotsky, L.
   - 维果茨基
-  - Vygotsky
   - 列夫·维果茨基
 summary: "苏联心理学家，以最近发展区、科学概念与自发概念的区分、社会文化理论影响教育研究和课程设计"
 type: person
@@ -19,14 +19,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[McPhail_2023_JCS]]"
 confidence: low
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: '2026-06-08'
+family_name: Vygotsky
+given_names: Lev
+initials: L.
+citation_name: Vygotsky
 ---
-
 # Lev Vygotsky
 
 ---
@@ -44,7 +45,3 @@ updated: 2026-06-06
 > **科学概念与自发概念**。维果茨基区分了科学概念（scientific concepts）和自发概念（spontaneous concepts）。科学概念是在学校教育中系统传授的、具有明确结构和逻辑关系的概念；自发概念是在日常生活中自然形成的、缺乏系统结构的概念。这一区分被[[Social Realism|社会实在论]]学者用于区分日常知识和认识论知识（McPhail et al., 2023）。
 
 ---
-
-## 来源
-
-- [[McPhail_2023_JCS]]

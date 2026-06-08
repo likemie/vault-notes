@@ -1,6 +1,7 @@
 ---
 title: Julie Nelson
 aliases:
+  - Nelson, J.
   - 朱莉·纳尔逊
 summary: "英国教育研究者，证据知情实践概念整合与测量工具开发者，为教育研究理解教师如何使用证据提供经验框架。"
 type: person
@@ -21,15 +22,16 @@ related_methods:
 related_persons:
   - "[[Carol Campbell]]"
 related_arguments: []
-sources:
-  - "[[Nelson_2017_ER]]"
 related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-21'
+updated: '2026-06-08'
+family_name: Nelson
+given_names: Julie
+initials: J.
+citation_name: Nelson
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -71,7 +73,3 @@ updated: '2026-05-21'
 > - 任英国 NFER 研究者，工作集中于研究使用、教师研究参与和[[Evidence-Informed Practice|证据知情实践]]。
 > - 与 [[Carol Campbell]] 合作推进 EIP 的概念整合与测量工作。
 > - **2017** 年参与 EIP 特刊与教师研究参与度测量项目，使 EIP 讨论更具经验研究取向。
-
-## 来源
-
-- [[Nelson_2017_ER]]

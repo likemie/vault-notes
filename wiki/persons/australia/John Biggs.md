@@ -1,6 +1,7 @@
 ---
 title: John Biggs
 aliases:
+  - Biggs, J.
   - 约翰·比格斯
 summary: "澳大利亚教育心理学家，建构性对齐和SOLO分类法提出者，为教育研究连接课程设计、学习结果与评价提供高频工具。"
 type: person
@@ -25,16 +26,15 @@ related_persons:
   - "[[John Hattie]]"
   - "[[David Watkins]]"
 related_arguments: []
-sources:
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[Romer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-23'
+updated: '2026-06-08'
+family_name: Biggs
+given_names: John
+initials: J.
+citation_name: Biggs
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -74,9 +74,3 @@ updated: '2026-05-23'
 > - 属于 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分，与 von Glasersfeld 和 Bjørgen 共享[[Constructivist Paradigm|建构主义]]认识论前提（Rømer, 2018, p.7）
 > - [[Constructive Alignment|建构性对齐]]被纳入 [[John Hattie|Hattie]] 的 VL 评价体系
 > - Qvortrup (2015) 将 Biggs & Collis 的 SOLO 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 Popper/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出（Qvortrup, 2015, p.30）
-
-## 来源
-
-- [[Hattie_2015_SOTLP]]
-- [[Qvortrup_2015_Paideia]]
-- [[Romer_2018_EPT]]

@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[John Hattie|Hattie]] 的 [[Visible Learning]] 在澳大利亚教育政策中被不加批判地采纳，这是否限制了教育创新和进步？学术研究应在何种条件下被应用于政策制定？
+> Hattie 的 [[Visible Learning]] 在澳大利亚教育政策中被不加批判地采纳，这是否限制了教育创新和进步？学术研究应在何种条件下被应用于政策制定？
 
 ## 理论框架
 
@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：政策分析与方法论审查
-> - 数据来源：[[John Hattie|Hattie]] (2009) *[[Visible Learning]]* 文本及附录、Terhart (2011) 和 Arnold (2011) 的书评批评、Hattie & Donoghue (2016) 的后续论文、Hattie (2020) 在 Lessons from Lockdown 会议上的演讲
+> - 数据来源：Hattie (2009) *[[Visible Learning]]* 文本及附录、Terhart (2011) 和 Arnold (2011) 的书评批评、Hattie & Donoghue (2016) 的后续论文、Hattie (2020) 在 Lessons from Lockdown 会议上的演讲
 
 ## 核心论证
 
@@ -62,7 +62,7 @@ updated: '2026-05-18'
 >
 > ### 1. 方法论
 >
-> - **不加权平均问题**：Arnold (2011, p.219) 指出 [[John Hattie|Hattie]] 使用不加权平均值汇总 800 项[[Meta-analysis|元分析]]的[[Effect Size|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后自我报告成绩的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析（Blass, 2020, p.92）
+> - **不加权平均问题**：Arnold (2011, p.219) 指出 Hattie 使用不加权平均值汇总 800 项[[Meta-analysis|元分析]]的[[Effect Size|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后自我报告成绩的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析（Blass, 2020, p.92）
 > - **Blass 本人的附录抽查**：在探究式教学中，4 项贡献研究中有 3 项仅适用于科学、1 项关于批判性思维技能。深入看：一项关于教师教育（Sweitzer & Anderson, 1983）、一项关于评估方法对结果的影响（Shymansky, Hedges & Woodworth, 1990）、一项是未发表论文（Smith, 1996）、一项关于方法的"新颖性"（Bangert-Drowns, 1992）——没有一项直接比较探究式教学与其他教学方法（Blass, 2020, p.92）
 > - **[[Problem-Based Learning|PBL]] 元分析的情境错配**：8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析（Newman, 2004）、1 项是[[Literature Review|文献综述]]（Albanese & Mitchell, 1993）。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响（Blass, 2020, p.92）
 >
@@ -97,7 +97,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - VL 在澳大利亚被用作"不改变的好借口"，以来自上世纪的研究证据为当前课堂行为辩护——但这很可能不是 [[John Hattie|Hattie]] 的本意（Blass, 2020, p.97）
+> - VL 在澳大利亚被用作"不改变的好借口"，以来自上世纪的研究证据为当前课堂行为辩护——但这很可能不是 Hattie 的本意（Blass, 2020, p.97）
 > - 2020 年 COVID 封锁会议中 Hattie 的演讲表明他的立场已显著演变：他谈到课程差异不大（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认失败是最好的朋友但仅低风险时如此、指出"通过失败学习是 [[Problem-Based Learning|PBL]] 的一部分、通过探究式学习恢复"。他现在倡导的学习模型恰恰最适合 PBL 和探究式教学法（Blass, 2020, p.96）
 > - **五项评估框架**可推广至任何政策情境：在采纳学术研究以制定政策之前，须评估其方法论、情境、假设、领导力和时效性（Blass, 2020, p.96）
 > - 澳大利亚教师培训奖励 regulation 和 standardisation 而非创新；教师注册委员会要求持续专业发展时数而非创新发展时数——"想象一下如果每位教师每年必须有 5 小时创新实践的证据，现在的课堂教育可能已经在哪里了！"（Blass, 2020, p.91）
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 > ("Would you want a surgeon looking at books from 1990 to learn about the use of robotics in surgery? No! Would you want an oncologist to look up the latest cancer treatments from the 1980's? No! So why are you allowing teaching outcomes from this time to influence what you are doing today in the classroom?") (Blass, 2020, p.95)
 >
 > > “澳大利亚在教育上[[Lost Mode|迷失]]了方向，而[[John Hattie|哈蒂]]（Hattie）成为了被用来证明这一立场正当性的退路。但我怀疑这是否是哈蒂的本意。”
-> ("Australia has lost its way in education and [[John Hattie|Hattie]] is the fallback that is used to justify this position. But I doubt this was Hattie's intent.") (Blass, 2020, p.97)
+> ("Australia has lost its way in education and Hattie is the fallback that is used to justify this position. But I doubt this was Hattie's intent.") (Blass, 2020, p.97)
 >
 > > “成为学科专家不再是教师的角色；教导对某一学科的热情以及如何学习才是。”
 > ("Being the subject matter expert is no longer the role of the teacher; teaching passion for a subject and learning is.") (Blass, 2020, p.95)
@@ -120,7 +120,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - Blass 是 Inventorium（一个在线 [[Problem-Based Learning|PBL]] 和探究式学习的替代性高中）的 CEO，她的立场受其商业利益影响——她明确主张 PBL 和探究式学习，这与她批评 [[John Hattie|Hattie]] 偏好的[[Direct Instruction|直接教学]]模式形成对照
+> - Blass 是 Inventorium（一个在线 [[Problem-Based Learning|PBL]] 和探究式学习的替代性高中）的 CEO，她的立场受其商业利益影响——她明确主张 PBL 和探究式学习，这与她批评 Hattie 偏好的[[Direct Instruction|直接教学]]模式形成对照
 > - 论文主要是论证性和立场性的，未提供系统的实证数据——抽查 Hattie 附录仅覆盖两个主题（探究式教学和 PBL），不能作为对整个 VL 数据库的全面审查
 > - Blass 承认 VL 是"an amazing feat of scientific inquiry"和"a very interesting academic exercise"，其批评并非针对 VL 的学术价值，而是针对其在澳大利亚政策中的误用
 

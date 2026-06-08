@@ -1,6 +1,7 @@
 ---
 title: David Phillips
 aliases:
+  - Phillips, D.
   - 大卫·菲利普斯
 summary: "英国比较教育学者，政策借用四阶段模型共同提出者，为教育研究分析跨国教育改革流动提供经典模型。"
 type: person
@@ -20,14 +21,15 @@ related_methods: []
 related_persons:
   - "[[Kimberly Ochs]]"
 related_arguments: []
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Phillips
+given_names: David
+initials: D.
+citation_name: Phillips
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -75,7 +77,3 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - Phillips & Ochs 的模型启发了 Rappleye (2006) 进一步发展[[Cross-National Attraction|跨国吸引]]力情境概念地图，后者明确指出其工作建立在 Phillips & Ochs 框架的基础之上
 > - 影响了 Steiner-Khamsi 等学者对[[Policy Borrowing|政策借用]]政治维度的深入研究
-
-## 来源
-
-- [[Rappleye_2006_RCIE]]

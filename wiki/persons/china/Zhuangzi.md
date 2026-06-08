@@ -1,6 +1,9 @@
 ---
 title: Zhuangzi
-aliases: ["庄子", "庄周", "Chuang Tzu"]
+aliases:
+  - 庄子
+  - 庄周
+  - Chuang Tzu
 summary: "战国道家思想家，以庖丁解牛等寓言阐发通过专注实践达到精通的理念，其思想为东亚学习传统中熟能生巧提供了哲学基础"
 type: person
 nationality: china
@@ -15,14 +18,15 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cultural Foundations of Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: '2026-06-08'
+family_name: Zhuangzi
+given_names: 
+initials: 
+citation_name: Zhuangzi
 ---
-
 # Zhuangzi
 
 
@@ -64,7 +68,3 @@ updated: 2026-05-25
 
 > [!quote]
 > "知者不言，言者不知" — 老子（Lao Tzu）的名言。Li指出庄子与老子在这一点上与[[Confucius|孔子]]一致，都认为真正的智慧远大于言说（Li, 2012, p.53）。庄子在其著作中同样表达了对话语表达局限性的深刻认识。
-
-## 来源
-
-- [[Li_2012_Cultural Foundations of Learning]]

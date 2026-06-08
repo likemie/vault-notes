@@ -1,6 +1,7 @@
 ---
 title: Jane Knight
 aliases:
+  - Knight, J.
   - 简·奈特
 summary: "加拿大高等教育学者，国际教育枢纽与跨境高教研究代表人物，为教育研究分析大学国际化模式、跨境流动与政策扩散提供框架。"
 type: person
@@ -22,18 +23,17 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch3_Parreira do Amaral_2022]]"
-  - "[[Ch9_Zapp_2022]]"
-  - "[[Ch12_Erfurth_2022]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Knight
+given_names: Jane
+initials: J.
+citation_name: Knight
 ---
-
 # Jane Knight
 
 ---
@@ -100,8 +100,3 @@ Zapp (2022) 在分析大学的地缘政治再领土化时援引 Knight (2018) �
 - **肯定性框架的局限**：Erfurth (2022) 指出 Knight 的 [[International Education Hubs|IEH]] 类型学主要采用"政策倡导导向的肯定性框架"——为政策制定者提供枢纽建设指南和进度测量工具——而未能从批判角度审视教育枢纽的地缘政治后果（如区域不平等加剧、大学社会功能的剥离）（Erfurth, 2022, pp.203, 211–212）
 
 ---
-## 来源
-
-- [[Ch3_Parreira do Amaral_2022]]
-- [[Ch9_Zapp_2022]]
-- [[Ch12_Erfurth_2022]]

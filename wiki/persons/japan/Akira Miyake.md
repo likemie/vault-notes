@@ -1,6 +1,7 @@
 ---
 title: Akira Miyake
 aliases:
+  - Miyake, A.
   - 阿基拉·三宅
 summary: "日裔认知心理学家，执行功能统一性与多样性框架提出者，为教育研究测量学习中的执行功能与认知控制提供基础模型。"
 type: person
@@ -20,14 +21,15 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Jean Piaget]]"
 related_arguments: []
-sources:
-  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Miyake
+given_names: Akira
+initials: A.
+citation_name: Miyake
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -56,7 +58,3 @@ updated: '2026-05-19'
 > - 2000 年 Miyake et al. 首次提出综合多维 [[Executive Function|EF]] 模型
 > - 2012 年 Miyake & Friedman 进一步发展该框架
 > - 该框架深刻影响了后续 EF 研究，成为测量和概念化执行功能的标准方法
-
-## 来源
-
-- [[Bolton_2017_ArchPsych]]

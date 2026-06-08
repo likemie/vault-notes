@@ -1,6 +1,7 @@
 ---
 title: Norberto Bottani
 aliases:
+  - Bottani, N.
   - 诺伯托·博塔尼
 summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。"
 type: person
@@ -22,8 +23,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Gorur_2014_Discourse]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education at a Glance]]"
@@ -32,9 +31,12 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Bottani
+given_names: Norberto
+initials: N.
+citation_name: Bottani
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -96,7 +98,3 @@ updated: '2026-05-19'
 
 > [!warning] 科学家的道德责任
 > Bottani 认为既然指标的生产无法是中立的，那么指标生产者就负有道德责任。Gorur 指出，Bottani 和他的同代人（Heyneman, 1999; Oakes, 1986; Sauvageot, 2008; Smyth, 2008）之所以"被迫以如此坦率的方式写作和发言"，正是因为意识到了这种责任（Gorur, 2014, p.18）。
-
-## 来源
-
-- [[Gorur_2014_Discourse]]

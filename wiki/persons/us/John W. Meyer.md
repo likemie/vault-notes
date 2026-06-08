@@ -1,6 +1,8 @@
 ---
 title: John W. Meyer
 aliases:
+  - Meyer, J. W.
+  - John Meyer
   - 约翰·迈耶
 summary: "美国社会学家，世界社会理论创始人与组织行动者理论代表人物，为教育研究解释全球教育扩张、制度同形与大学全球角色提供框架。"
 type: person
@@ -23,14 +25,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch9_Zapp_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-06-02'
+updated: '2026-06-08'
+family_name: Meyer
+given_names: John W.
+initials: J. W.
+citation_name: Meyer
 ---
-
 # John W. Meyer
 
 ---
@@ -124,6 +127,3 @@ updated: '2026-06-02'
 > - **去殖民批判**：后殖民和去殖民学者可能批评 Meyer 的普世主义隐含了西方中心的认识论预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
 
 ---
-## 来源
-
-- [[Ch9_Zapp_2022]]

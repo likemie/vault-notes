@@ -1,6 +1,7 @@
 ---
 title: Bob Jessop
 aliases:
+  - Jessop, B.
   - 鲍勃·杰索普
 summary: "英国社会学家和政治经济学家，文化政治经济学代表人物，为教育研究分析知识经济想象、国家战略与高教治理提供工具。"
 type: person
@@ -26,17 +27,17 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
-  - "[[Ch12_Erfurth_2022]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Jessop
+given_names: Bob
+initials: B.
+citation_name: Jessop
 ---
-
 ## 简介
 
 > [!info]
@@ -118,8 +119,3 @@ Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 - CPE 框架通过 Erfurth (2022) 的应用进入教育枢纽研究领域，为区分国家高等教育项目的[[Cultural Diplomacy|文化外交]]与政治经济维度提供了分析工具
 
 ---
-
-## 来源
-
-- [[Ch2_Moisio_2022]]
-- [[Ch12_Erfurth_2022]]

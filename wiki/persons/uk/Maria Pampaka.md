@@ -1,6 +1,7 @@
 ---
 title: Maria Pampaka
 aliases:
+  - Pampaka, M.
   - 玛丽亚·潘帕卡
 summary: "英国教育研究者，学习结果测量与什么有效批判研究者，为教育研究把能动性与非成就性结果重新纳入方法论讨论。"
 type: person
@@ -15,14 +16,15 @@ related_methods:
 related_persons:
   - "[[Julian Williams]]"
 related_arguments: []
-sources:
-  - "[[Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Pampaka
+given_names: Maria
+initials: M.
+citation_name: Pampaka
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -52,7 +54,3 @@ updated: '2026-05-19'
 > - 关注以学习者能动性为中心的替代评估范式
 
 ## 争议与批评
-
-## 来源
-
-- [[Pampaka_2016_IJRME]]

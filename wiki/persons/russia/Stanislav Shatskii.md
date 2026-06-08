@@ -1,6 +1,7 @@
 ---
 title: Stanislav Shatskii
 aliases:
+  - Shatskii, S.
   - 斯坦尼斯拉夫·沙茨基
   - Shatsky
   - Stanislav Shatsky
@@ -21,14 +22,15 @@ related_persons:
   - "[[Anton Makarenko]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Shatskii
+given_names: Stanislav
+initials: S.
+citation_name: Shatskii
 ---
-
 # Stanislav Shatskii
 
 
@@ -71,7 +73,3 @@ updated: 2026-06-02
 > - 与 [[Anton Makarenko]] 同为苏俄最重要的进步教育改革家——两人均被拿来与 Dewey 进行比较（Gehring, Bowers & Wright 2005; Holtz 2002，引自 Ryabyy, 2024, p.103）。
 
 ---
-
-## 来源
-
-- [[Ryabyy_2024_Maneto]]

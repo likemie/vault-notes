@@ -1,8 +1,8 @@
 ---
 title: Michael Sadler
 aliases:
+  - Sadler, M.
   - 迈克尔·萨德勒
-  - Sadler
 summary: "英国比较教育先驱，19 世纪末 20 世纪初主持教育部特别调查与报告办公室，出于对国家工业竞争力焦虑而系统研究德国等竞争对手的教育，巩固了比较教育中向他者学习的核心惯用语"
 type: person
 nationality: uk
@@ -17,14 +17,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: '2026-06-08'
+family_name: Sadler
+given_names: Michael
+initials: M.
+citation_name: Sadler
 ---
-
 # Michael Sadler
 
 ---
@@ -54,7 +55,3 @@ updated: 2026-06-08
 > 从 Klerides（2023）的[[Analytic Framework|分析框架]]来看，Sadler 的工作是现实主义比较教育的经典案例。在国际无政府状态下，Sadler 将教育系统理解为一国工业竞争力和国际地位的关键决定因素，将比较教育理解为帮助国家获取竞争优势的务实工具。他的工作不是纯粹的教育学术——驱动他的是对国家生存和地位的焦虑（pp.420–421）。
 
 ---
-
-## 来源
-
-- [[Klerides_2023_CE]]

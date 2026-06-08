@@ -1,8 +1,8 @@
 ---
 title: Andreas Kazamias
 aliases:
+  - Kazamias, A.
   - 安德烈亚斯·卡扎米亚斯
-  - Kazamias
 summary: "希腊裔比较教育学者，以历史和人文主义视角研究比较教育，倡导渐进主义-现代主义-改良主义-普罗米修斯式比较教育，CESE 荣誉会员"
 type: person
 nationality: greece
@@ -17,14 +17,15 @@ related_persons: []
 related_facts:
   - "[[Comparative Education Society in Europe]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: '2026-06-08'
+family_name: Kazamias
+given_names: Andreas
+initials: A.
+citation_name: Kazamias
 ---
-
 # Andreas Kazamias
 
 ---
@@ -72,7 +73,3 @@ updated: 2026-06-06
 > - **倒退的风险**。如果 Kazamias 的历史视角被解读为回到五十年前的起点，那么过去五十年的工作就成了一个战略错误。Cowen 认为这种解读忽略了学科在这五十年中取得的机构性成就（Cowen, 2023, p.327）。
 
 ---
-
-## 来源
-
-- [[Cowen_2023_CE]]

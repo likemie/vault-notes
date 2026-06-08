@@ -1,8 +1,9 @@
 ---
 title: Yvonna S. Lincoln
 aliases:
+  - Lincoln, Y. S.
+  - Yvonna Lincoln
   - 伊冯娜·林肯
-  - Lincoln
 summary: "美国教育研究方法论学者，与 Guba 合著 Naturalistic Inquiry 开创自然主义探究范式，提出质性研究可信性四标准和模式理论概念"
 type: person
 nationality: usa
@@ -21,14 +22,15 @@ related_persons:
   - "[[Egon G. Guba]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Lincoln
+given_names: Yvonna S.
+initials: Y. S.
+citation_name: Lincoln
 ---
-
 # Yvonna S. Lincoln
 
 ## 简介
@@ -57,7 +59,3 @@ updated: 2026-06-02
 > - *Naturalistic Inquiry*（1985）确立了[[Qualitative Research|质性研究]]作为独立合法范式的方法论地位
 > - 与 Norman K. Denzin 共同主编的 *Handbook of Qualitative Research*（[[Sage]], 多版次）已成为质性研究方法领域的标准参考书，汇集各范式代表性学者的方法论论述
 > - 与 [[Egon G. Guba|Guba]] 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎假设检验的理论生成逻辑
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -1,6 +1,7 @@
 ---
 title: Alan C. K. Cheung
 aliases:
+  - Cheung, A. C. K.
   - 艾伦·C·K·张
 summary: "中国香港教育研究者，大规模教育随机实验与证据本位改革国际比较研究者，为中文教育实证研究与国际证据对话提供桥梁。"
 type: person
@@ -19,17 +20,17 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Chen Xie]]"
 related_arguments: []
-sources:
-  - "[[Slavin_2021_ROE]]"
-  - "[[Cheung_2021_ROE]]"
 related_facts:
   - "[[Best Evidence in Brief]]"
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Cheung
+given_names: Alan C. K.
+initials: A. C. K.
+citation_name: Cheung
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -58,8 +59,3 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 ## 争议与批评
-
-## 来源
-
-- [[Slavin_2021_ROE]]
-- [[Cheung_2021_ROE]]

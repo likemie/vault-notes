@@ -1,6 +1,7 @@
 ---
 title: Gert Biesta
 aliases:
+  - Biesta, G.
   - 格特·比斯塔
 summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。"
 type: person
@@ -32,17 +33,15 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Immanuel Kant]]"
 related_arguments: []
-sources:
-  - "[[Biesta_2010_SPE]]"
-  - "[[Romer_2018_EPT]]"
-  - "[[Wrigley_2019_ERE]]"
-  - "[[Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Biesta
+given_names: Gert
+initials: G.
+citation_name: Biesta
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -118,10 +117,3 @@ updated: '2026-05-19'
 > - **哲学论证的实操距离**：批评者（包括部分赞同其批判的学者）指出 Biesta 的论证停留在哲学层面，未提供[[Value-Based Education|价值本位教育]]在教师教育和课堂实践中的操作路线图。Cartwright & Hardie (2012) 从交易认识论视角提供了部分操作性回应，但 Biesta 本人未进行这一层面的工作。
 > - **"反证据"的误读风险**：Biesta 反复强调"证据从属但仍有角色"，但其对 [[Evidence-Based Education|EBE]] 的全面批判在实际传播中常被简化为"Biesta 反对在教育中使用证据"——尽管他明确否认这一立场。这一误读在政策辩论中削弱了其批判的建设性面向。
 > - **价值冲突的处理不足**：Biesta 将教育目的定义为需通过民主协商确定，但未充分展开多元社会中价值冲突的解决机制——不同群体对"教育应该培养什么样的人"存在根本分歧。
-
-## 来源
-
-- [[Biesta_2010_SPE]]
-- [[Romer_2018_EPT]]
-- [[Wrigley_2019_ERE]]
-- [[Bainbridge_2022_ROE]]

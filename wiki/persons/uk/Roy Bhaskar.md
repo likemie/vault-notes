@@ -1,6 +1,7 @@
 ---
 title: Roy Bhaskar
 aliases:
+  - Bhaskar, R.
   - 罗伊·巴斯卡
 summary: "英国哲学家，批判实在论创始人，为教育研究在实证主义与相对主义之外重建因果解释与分层本体论提供基础。"
 type: person
@@ -21,14 +22,15 @@ related_persons:
   - "[[Ray Pawson]]"
   - "[[Terry Wrigley]]"
 related_arguments: []
-sources:
-  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Bhaskar
+given_names: Roy
+initials: R.
+citation_name: Bhaskar
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -80,7 +82,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - **术语的可及性**：Bhaskar 的写作以高度抽象和术语密集著称（"深层实在"、"涌现"、"实际化"），对非哲学背景的研究者和实践者构成严重的可及性障碍
 > - **方法论转化的困难**：[[Critical Realism|批判实在论]]提供了丰富的哲学框架，但从本体论原则到具体研究方法的转化路径一直存在争议——Pawson 的"实在论综合"是少数系统尝试之一
-
-## 来源
-
-- [[Wrigley_2019_ERE]]

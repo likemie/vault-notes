@@ -1,6 +1,7 @@
 ---
 title: Camilla de Hollanda Amado
 aliases:
+  - Amado, C. D. H.
   - 卡米拉·德·奥兰达·阿马多
 summary: "巴西演员和剧场导演，社区剧场项目组织者，为教育研究理解基层文化实践、参与式表演与公共学习提供案例资源。"
 type: person
@@ -21,14 +22,15 @@ related_persons:
   - "[[Richard Castelo Branco]]"
   - "[[Walter Mignolo]]"
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-06-02'
+updated: '2026-06-08'
+family_name: Amado
+given_names: Camilla de Hollanda
+initials: C. D. H.
+citation_name: Amado
 ---
-
 # Camilla de Hollanda Amado
 
 ## 简介
@@ -70,7 +72,3 @@ updated: '2026-06-02'
 > "The desire to see knowledge of the favela being used for the country's development was the dream of Camilla de Hollanda Amado." (Delambre, 2022, p. 110)
 > 
 > 看到贫民窟知识被用于国家发展是 Camilla de Hollanda Amado 的梦想。
-
-## 来源
-
-- [[Ch7_Delambre_2022]]

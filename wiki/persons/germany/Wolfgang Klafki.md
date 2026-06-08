@@ -1,6 +1,7 @@
 ---
 title: Wolfgang Klafki
 aliases:
+  - Klafki, W.
   - 沃尔夫冈·克拉夫基
 summary: "德国教育学家和 Didaktik 代表人物，范畴教育学与关键问题课程论提出者，为课程研究连接 Bildung、公共性与未来议题提供框架。"
 type: person
@@ -21,16 +22,17 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Schaffar_2024_CogentEdu]]"
 related_facts:
   - "[[Finnish National Core Curriculum]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Klafki
+given_names: Wolfgang
+initials: W.
+citation_name: Klafki
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -70,7 +72,3 @@ updated: '2026-05-19'
 
 > [!warning] 争议与批评
 > Klafki 所继承的 [[Bildung]]/[[Didaktik]] 传统在德国和芬兰教育史中曾被用于强化精英阶层结构和民族主义。这类用法可理解为对原初思想的误用；Klafki 对经典 Bildung 理论的重释则强调其面向正义、自由和责任的激进社会政治性（Schaffar & Wolff, 2024, p.6）。
-
-## 来源
-
-- [[Schaffar_2024_CogentEdu]]

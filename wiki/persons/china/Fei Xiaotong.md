@@ -1,6 +1,7 @@
 ---
 title: Fei Xiaotong
 aliases:
+  - Fei, X.
   - 费孝通
 summary: "中国人类学家和社会学家，以中华民族多元一体格局和差序格局理论著称，其 1988 年重新阐释的中华民族概念深刻影响了中共的民族政策转向"
 type: person
@@ -20,15 +21,15 @@ related_persons:
   - "[[Hsu Cho-Yun]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Bulag_2024_CE]]"
-  - "[[Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: '2026-06-08'
+family_name: Fei
+given_names: Xiaotong
+initials: X.
+citation_name: Fei
 ---
-
 # Fei Xiaotong
 
 
@@ -82,8 +83,3 @@ updated: 2026-05-25
 > - 汉人中心主义：Bulag（2024）指出，费孝通的[[Zhonghua Minzu|中华民族]]论述赋予汉人及其文化一种超自然的整合能力，将内陆亚洲的征服全部归结为对中国文化的仰慕，否定了少数民族定义中国的能动性（Bulag, 2024, p.105–106）。
 > - 宪法意涵的颠覆：费孝通的定义试图将宪法界定的多民族国家转变为一个具有"族裔"多样性的单一"国族"，少数民族不再是中国的共同主权者，而是中华民族的从属部分（Bulag, 2024, p.101）。
 > - 结构功能主义的局限：费孝通借用格卢克曼（Gluckman）的理论将冲突视为整合机制，回避了征服、强制同化和结构性不平等的问题（Bulag, 2024, p.105）。
-
-## 来源
-
-- [[Bulag_2024_CE]]
-- [[Xu_2024_CE]]

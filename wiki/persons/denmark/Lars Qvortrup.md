@@ -1,6 +1,7 @@
 ---
 title: Lars Qvortrup
 aliases:
+  - Qvortrup, L.
   - 拉尔斯·克沃特鲁普
 summary: "丹麦教育学者和系统理论研究者，专业判断与复杂性教育论述代表人物，为教育研究理解教师判断与教育系统复杂性提供框架。"
 type: person
@@ -31,15 +32,15 @@ related_persons:
 related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-sources:
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Qvortrup
+given_names: Lars
+initials: L.
+citation_name: Qvortrup
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -96,8 +97,3 @@ updated: '2026-05-19'
 > - Qvortrup 作为 VL 丹麦引介者（与 Egelund 共同撰写导言），其辩护者的立场可能影响其分析的中立性
 > - 将丹麦批评者整体定性为"解释社群"可能过度简化——部分批评（如 Rømer 2018 的五线哲学批评）提出了实质性学术论点
 > - 其"观察透镜"认识论可能面临相对主义批评——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何判断哪种图像更可靠？
-
-## 来源
-
-- [[Qvortrup_2015_Paideia]]
-- [[Qvortrup_2019_NordSTEP]]

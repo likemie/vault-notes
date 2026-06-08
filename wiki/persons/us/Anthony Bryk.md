@@ -1,6 +1,7 @@
 ---
 title: Anthony Bryk
 aliases:
+  - Bryk, A.
   - 安东尼·布赖克
 summary: "美国教育研究者和组织改进学者，改进科学与网络化改进共同体代表人物，推动以持续系统改进回应教育问题。"
 type: person
@@ -17,14 +18,15 @@ related_methods:
   - "[[Improvement Science]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Bryk
+given_names: Anthony
+initials: A.
+citation_name: Bryk
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -43,7 +45,3 @@ updated: '2026-05-19'
 
 > [!abstract] 主要著作
 > - Bryk, A. S., Gomez, L. M., Grunow, A., & LeMahieu, P. G. (2015). *Learning to Improve: How America's Schools Can Get Better at Getting Better*. Cambridge, MA: Harvard Education Press. — 系统阐述[[Improvement Science|改进科学]]在教育中的应用和网络化改进社区模型
-
-## 来源
-
-- [[Peterson_2016_IJRME]]

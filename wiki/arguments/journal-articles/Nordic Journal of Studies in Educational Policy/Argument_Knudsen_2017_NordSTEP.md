@@ -75,7 +75,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > ### 规模化与翻译
 >
-> - [[John Hattie|Hattie]] 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"（Knudsen, 2017, p.254）
+> - Hattie 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"（Knudsen, 2017, p.254）
 > - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型（Knudsen, 2017, p.254）
 > - 通过 [[Cognition Education|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同（p.254）
 > - VL 工作坊是脚本化的（"scripted. To the word"），禁止教师分享自己的故事和课堂经验（p.254）
@@ -136,7 +136,7 @@ updated: '2026-05-18'
 > ### 政策、研究与商业
 >
 > - VL 在不同国家被不同政治光谱的政党采纳——"一旦它变成政治的，它就不起作用"（p.259–260）
-> - Hattie 自称"主要是一个研究者"——有五个职位：AITSL 主席、副院长、科学学习中心联合主任、墨尔本教育研究所主任、指导 20+ 博士生并授课（p.260）
+> - Hattie 自称"主要是一个研究者"——有五个职位：[[Australian Institute for Teaching and School Leadership|AITSL]] 主席、副院长、科学学习中心联合主任、墨尔本教育研究所主任、指导 20+ 博士生并授课（p.260）
 > - 否认是商人——"如果是为了钱，我可能已经赚了几百万"（p.260）
 > - Cognition Education 每年享有 30 天差旅和演讲时间；Hattie 有"非常强的合同"约束质量（p.260）
 > - "每次你交付我的工作，我的声誉就在线上"——但因此获得所有数据（如丹麦学校的、10,000 名教师的 mindframe 数据），"数据的游戏"是学术的乐趣（p.260）
@@ -146,7 +146,7 @@ updated: '2026-05-18'
 
 > [!quote] 关键引用
 > > “我是一个搞测量的人，我是一个统计学家，而这个概念以及实施方面的工作只是我业余的一种爱好。”
-> ("I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side.") ([[John Hattie|Hattie]], in Knudsen, 2017, p.254)
+> ("I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side.") (Hattie, in Knudsen, 2017, p.254)
 >
 > > “这是有脚本的。精确到每个字。你永远不会知道，而这也是成功的一部分。”
 > ("It is scripted. To the word. You would never know it, and that's part of the success.") (Hattie, in Knudsen, 2017, p.254)
@@ -155,7 +155,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 作为访谈而非研究论文，内容反映 [[John Hattie|Hattie]] 的自我陈述和立场辩护，需与其他来源交叉验证
+> - 作为访谈而非研究论文，内容反映 Hattie 的自我陈述和立场辩护，需与其他来源交叉验证
 > - Knudsen 承认访谈"可能有些天真"——因为"没有人能单独控制教育思想和项目的接收和翻译"（p.253）
 > - Knudsen 未能如愿在奥克兰 [[Cognition Education|Cognition Education]] 办公室观察丹麦数据处理过程——这一请求被拒绝（p.254）
 > - 访谈通过 Skype 进行而非面对面，转录经编辑和缩写

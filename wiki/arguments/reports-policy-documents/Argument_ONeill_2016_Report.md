@@ -64,7 +64,7 @@ updated: '2026-05-18'
 >    - 公立学校私有化以两种形式出现：使学校更像企业运营；将私营部门引入公立学校（O'Neill et al., 2016, p.v）
 >    - 政府政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"，从普遍主义转向有针对性供给（O'Neill et al., 2016, p.vii）
 >    - 新西兰慈善法允许非营利慈善机构设立营利性子机构，模糊公私参与的概念和实践区分（O'Neill et al., 2016, pp.vi–vii）
->    - 六案例（[[Karl Pearson|Pearson]] / [[Cognition Education|Cognition Education]] / CORE Education / Foundation North / COMET / Kidscan）展示了私营部门参与的多样性（O'Neill et al., 2016, pp.ix–x）
+>    - 六案例（Pearson / [[Cognition Education|Cognition Education]] / CORE Education / Foundation North / COMET / Kidscan）展示了私营部门参与的多样性（O'Neill et al., 2016, pp.ix–x）
 >    - EMOs 从系统取出的资金可能超过以合同服务和慈善捐赠形式返还的价值（O'Neill et al., 2016, p.xvii）
 > 3. **结论**：政府逐步撤出公立学校的资助和提供，同时在标准和问责上加强控制，根本改变了公共教育系统的逻辑和动力；需要就免费义务公立教育的目的、性质和形式展开公共辩论（O'Neill et al., 2016, pp.xvi–xvii）
 
@@ -83,7 +83,7 @@ updated: '2026-05-18'
 > ("The analysis in this report documents how an increased presence of private sector actors is reshaping the ways in which state schooling policy is developed and enacted in classrooms, staffrooms, schools and local communities.") (O'Neill et al., 2016, p.v)
 >
 > > “海蒂目前全球性的社交网络路径，可以被合理解释为他在公共利益、非营利与营利性政策创业和倡导方面的无缝整合。”
-> ("[[John Hattie|Hattie]]'s now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy.") (O'Neill et al., 2016, pp.viii–ix)
+> ("Hattie's now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy.") (O'Neill et al., 2016, pp.viii–ix)
 
 ## 局限性与批评
 

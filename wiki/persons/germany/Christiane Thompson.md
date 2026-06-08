@@ -1,6 +1,7 @@
 ---
 title: Christiane Thompson
 aliases:
+  - Thompson, C.
   - 克里斯蒂安妮·汤普森
 summary: "德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。"
 type: person
@@ -29,15 +30,15 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_arguments: []
 related_facts: []
-sources:
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
-  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Thompson
+given_names: Christiane
+initials: C.
+citation_name: Thompson
 ---
-
 ## 简介
 
 > [!info]
@@ -71,8 +72,3 @@ Thompson 的研究关注高等教育治理技术如何通过数字化和数据�
 - [[Geopolitics of Knowledge]] — 与 Parreira do Amaral 共同发展了高等教育研究的地缘政治视角
 - 高等教育的数字化主体化 — 揭示了数字技术如何重构学术主体性和学习文化
 - [[Global Education Industry]] — 与 Parreira do Amaral 和 Steiner-Khamsi 共同编辑该领域的核心著作
-
-## 来源
-
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch3_Parreira do Amaral_2022]]

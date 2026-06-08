@@ -38,7 +38,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 书评评述 [[John Hattie|Hattie]] & Yates 合著 *Synlig læring og læringens anatomi*（Dafolo, 2014，即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本），评估该书对丹麦教育实践的贡献与局限。
+> 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*（Dafolo, 2014，即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本），评估该书对丹麦教育实践的贡献与局限。
 
 ## 理论框架
 
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 >
 > ### 从实验室到课堂
 >
-> Fredens 以"翻译研究"（[[Translational Research]]）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，[[John Hattie|Hattie]] & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"（Fredens, 2015, p.75）。
+> Fredens 以"翻译研究"（[[Translational Research]]）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，Hattie & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"（Fredens, 2015, p.75）。
 
 ## 主要发现
 
@@ -84,7 +84,7 @@ updated: '2026-05-18'
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略（Fredens, 2015, p.71）
 > - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边观察，激活者则论证、指导和示范（Fredens, 2015, p.73）
 > - 指出该书以认知视角为主，但横跨阅读可发现文化视角——学校是"tilværelsesoplysning"（存在启蒙，引 Løgstrup）（Fredens, 2015, p.74）
-> - 对 [[John Hattie|Hattie]] & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
+> - 对 Hattie & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
 >
 > ### Fredens 的补充性批评
 >
@@ -109,7 +109,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 书评未对 [[John Hattie|Hattie]] & Yates 的[[Meta-analysis|元分析]]方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
+> - 书评未对 Hattie & Yates 的[[Meta-analysis|元分析]]方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
 > - 作为丹麦语出版物中的书评，其读者群主要限于北欧教育界
 > - 书评的补充性批评（默认网络功能、教师人格重要性）来自 Fredens 自身的脑科学和医学背景，非来自被评书籍
 

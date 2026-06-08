@@ -47,13 +47,13 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 不依赖单一理论框架，而是以统计科学方法论的基本原则（Fisher 的科学咨询原则、Allison et al. 2016 的三大科学错误分类、Borenstein et al. 2009 的[[Meta-analysis|元分析]]标准）作为评估 [[John Hattie|Hattie]] 工作的规范基准。
+> 不依赖单一理论框架，而是以统计科学方法论的基本原则（Fisher 的科学咨询原则、Allison et al. 2016 的三大科学错误分类、Borenstein et al. 2009 的[[Meta-analysis|元分析]]标准）作为评估 Hattie 工作的规范基准。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - **方法**：方法论批判（methodological critique）——从统计学家视角对已有[[Meta-meta-analysis|元-元分析]]进行审计
-> - **分析对象**：[[John Hattie|Hattie]] (2008) *[[Visible Learning]]* 及其衍生作品中的方法论程序
+> - **分析对象**：Hattie (2008) *[[Visible Learning]]* 及其衍生作品中的方法论程序
 > - **分析维度**：计算错误、基线比较、[[Effect Size|效应量]]公式选择、相关与因果的混淆、聚合的任意性
 
 ## 核心论证
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > Bergeron & Rivard 的论证分为六个层次，逐层揭示 *[[Visible Learning]]* 从"圣杯"到"纸牌屋"的崩塌：
 >
-> ### 1. [[John Hattie|Hattie]] 的意图值得肯定，但不足以弥补错误
+> ### 1. Hattie 的意图值得肯定，但不足以弥补错误
 >
 > 作者首先承认 Hattie 的基本意图——"用科学数据识别'什么在教育中效果最好'"——本身并不坏。Hattie 综合了 800+ [[Meta-analysis|元分析]]、50,000+ 研究和数百万个体的规模"给人科学严谨性的印象"（Bergeron & Rivard, 2017, p.238）。但对统计学家而言，表象不足为据："当以专家的眼光深入审视 *Visible Learning* 时，我们发现的不是一座坚固的城堡，而是一座迅速崩塌的脆弱纸牌屋"（Bergeron & Rivard, 2017, p.238）。
 >
@@ -120,14 +120,14 @@ updated: '2026-05-18'
 >
 > ### 6. 结论：伪科学
 >
-> > "总而言之，很明显 John Hattie 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学。这是非常不幸的，因为完全可以用数百个元分析的数据进行真正的科学。"（Bergeron & Rivard, 2017, p.245）
+> > "总而言之，很明显 [[John Hattie]] 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学。这是非常不幸的，因为完全可以用数百个元分析的数据进行真正的科学。"（Bergeron & Rivard, 2017, p.245）
 >
 > 作者援引 R. A. Fisher 的名言作为解决方案："实验结束后再咨询统计学家往往只是请他进行尸检。他也许能说出实验死于什么原因"（Allison et al., 2016, p.28）。解决方案是在数据收集前、收集中、收集后——"尤其是在研究的每一步"——咨询统计学家（Bergeron & Rivard, 2017, p.245）。
 
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **CLE 计算错误**：[[John Hattie|Hattie]] 产生了负概率和超过 100% 的概率——任何一个上过统计课的人都不会犯的错误（p.239）
+> 1. **CLE 计算错误**：Hattie 产生了负概率和超过 100% 的概率——任何一个上过统计课的人都不会犯的错误（p.239）
 > 2. **基线比较的任意性**：[[Effect Size|效应量]]的符号和大小取决于隐含的基线选择，Hattie 对此"完全不知"（p.241）
 > 3. **三种公式的矛盾结果**：同一数据使用三种有效公式得出不可调和的不同排名（pp.243-244）
 > 4. **r→d 转换的危险**：r=0.196 即可达到 d=0.4，但仅解释 3.85% 的变异（p.242）
@@ -141,7 +141,7 @@ updated: '2026-05-18'
 > ("When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart.") (Bergeron & Rivard, 2017, p.238)
 >
 > > “相信[[John Hattie|哈蒂]]（Hattie）意味着在评估科学严谨性时存在批判性思维的盲点。推崇他的工作不幸地陷入了对伪科学的宣传。最后，在意识到对其方法论的严肃批评后仍坚持为哈蒂辩护，则构成了蓄意的盲目。”
-> ("To believe [[John Hattie|Hattie]] is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.") (Bergeron & Rivard, 2017, p.238)
+> ("To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.") (Bergeron & Rivard, 2017, p.238)
 >
 > > “哈蒂的比较是武断的，而他对此完全没有意识到。”
 > ("Hattie's comparisons are arbitrary and he is completely unaware of it.") (Bergeron & Rivard, 2017, p.241)

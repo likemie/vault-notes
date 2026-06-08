@@ -1,8 +1,8 @@
 ---
 title: Johan Muller
 aliases:
-  - 约翰·穆勒
   - Muller, J.
+  - 约翰·穆勒
 summary: "南非裔英国教育社会学家，社会实在论的核心学者之一，与 Young 共同提出有力知识概念，关注课程改革与学业成就不平等"
 type: person
 nationality: uk
@@ -21,14 +21,15 @@ related_persons: []
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments: []
-sources:
-  - "[[McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Muller
+given_names: Johan
+initials: J.
+citation_name: Muller
 ---
-
 # Johan Muller
 
 ---
@@ -64,7 +65,3 @@ updated: 2026-06-07
 > - 与 Hoadley 合作研究南非课程改革与学业成就不平等
 
 ---
-
-## 来源
-
-- [[McPhail_2023_JCS]]

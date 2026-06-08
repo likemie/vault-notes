@@ -1,6 +1,7 @@
 ---
 title: Carolyn Shields
 aliases:
+  - Shields, C.
   - 卡罗琳·希尔兹
 summary: "加拿大教育学者，变革型领导力理论提出者，为教育研究连接权力、正义与领导实践提供框架。"
 type: person
@@ -17,16 +18,17 @@ related_methods: []
 related_persons:
   - "[[Helen Gunter]]"
 related_arguments: []
-sources:
-  - "[[Møller_2017_EERJ]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Shields
+given_names: Carolyn
+initials: C.
+citation_name: Shields
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -61,7 +63,3 @@ updated: '2026-05-19'
 > - 被 Møller（2017）作为超越 ISSPP 类型研究中方法论局限的关键替代框架
 > - 与 [[Helen Gunter]] 的批判性教育政策视角一起，构成 Møller 提议的双重分析透镜
 > - 影响了社会正义导向的[[School Leadership|学校领导力]]研究议程
-
-## 来源
-
-- [[Møller_2017_EERJ]]

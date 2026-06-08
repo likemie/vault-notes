@@ -1,8 +1,8 @@
 ---
 title: Bertrand Russell
 aliases:
+  - Russell, B.
   - 罗素
-  - Russell
 summary: "英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖"
 type: person
 nationality: uk
@@ -22,14 +22,15 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Russell
+given_names: Bertrand
+initials: B.
+citation_name: Russell
 ---
-
 # Bertrand Russell
 
 ## 简介
@@ -105,7 +106,3 @@ updated: 2026-05-22
 > - **《数学原理》的逻辑主义是否成功**：哥德尔不完备定理（1931）后，Russell 的"将数学还原为逻辑"的规划被广泛认为未能完全成功（待核）
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

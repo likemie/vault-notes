@@ -1,6 +1,7 @@
 ---
 title: Adrian Simpson
 aliases:
+  - Simpson, A.
   - 阿德里安·辛普森
 summary: "英国数学教育学者和方法论批评者，效应量误用问题的重要批评者，为教育研究反思统计指标的解释边界提供精密论证。"
 type: person
@@ -29,20 +30,18 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_OConnor_2020_AJLL]]"
-sources:
-  - "[[Simpson_2017_JEP]]"
-  - "[[Simpson_2019_ERE]]"
-  - "[[Wrigley_2019_ERE]]"
-  - "[[Wiliam_2019_ERE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Simpson
+given_names: Adrian
+initials: A.
+citation_name: Simpson
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -150,10 +149,3 @@ updated: '2026-05-19'
 > - **EBE 支持者的"有什么危害"回应**：Simpson（2019, pp.107–108）记录了 EBE 支持者的典型回应——即使[[Effect Size|效应量]]不完美，使用它来指导政策"有什么危害？"Simpson 的回答是：干预形式被推广为更有效，而事实上证据仅表明这些是更容易进行清晰研究的领域——这种误认正在引导政策、驱动稀缺资源的使用并导致教学方法的重大改变
 > - **效应的合法用途**：Wiliam（2019, p.11）指出 Simpson 的立场是审慎而非全盘否定——他不"把婴儿和洗澡水一起倒掉"。Simpson 承认效应量在以下情况中有合法技术用途：告知未来研究者在类似测试、样本和控制活动下可以预期的噪声水平，以便调整样本量、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具等（Simpson, 2019, p.104）
 > - **从批判到建设**：Simpson 的贡献主要在诊断层面——识别效应量比较和合并的前提假设如何被违背。建设性替代方案（如 Wecker et al. 2016 的中央证据数据库、Pawson 2006 的实在论综合）由其他学者提出，Simpson 本人未在已处理论文中提出替代方法论框架
-
-## 来源
-
-- [[Simpson_2017_JEP]]
-- [[Simpson_2019_ERE]]
-- [[Wrigley_2019_ERE]]
-- [[Wiliam_2019_ERE]]

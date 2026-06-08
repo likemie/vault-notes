@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/france/Bruno Latour.md",
+                "file": "wiki/persons/norway/Thomas Nordahl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bruno Latour"
+              "title": "Thomas Nordahl"
             }
           }
         ]
@@ -191,7 +191,18 @@
   },
   "active": "b83018ce7efe26fb",
   "lastOpenFiles": [
+    "wiki/persons/norway/Jorunn Møller.md",
+    "wiki/persons/norway/Thomas Nordahl.md",
     "wiki/persons/canada-usa/Albert Bandura.md",
+    "wiki/persons/canada-usa",
+    "wiki/persons/netherlands/Gert Biesta.md",
+    "wiki/persons/netherlands/Geert Hofstede.md",
+    "wiki/facts/australia/Australian Council for Educational Research.md",
+    "wiki/persons/usa/Albert Bandura.md",
+    "wiki/persons/france/Bruno Latour.md",
+    "wiki/persons/france/Didier Eribon.md",
+    "citation/citation_ambiguous.json",
+    "citation/citation_full.json",
     "wiki/templates/template-person.md",
     "wiki/persons/index.md",
     "wiki/persons/usa/Fred N. Kerlinger.md",
@@ -212,20 +223,9 @@
     "wiki/concepts/political-economy-geopolitics/Re-Westernisation.md",
     "wiki/facts/us/Comparative Education Center at Chicago 1958.md",
     "wiki/facts/us/Economics of Education Movement.md",
-    "wiki/concepts/comparative-education/Revolutionism.md",
-    "wiki/theories/comparative-education/Actor-Network Theory.md",
-    "wiki/concepts/comparative-education/Agendas of Attention.md",
-    "wiki/facts/us/Sputnik Shock 1957.md",
-    "wiki/facts/eu/Comparative Education Society in Europe.md",
-    "sources/Klerides_2023_CE.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
     "citation",
     "未命名文件夹",
     "sources/Klerides_2023_CE.pdf",
-    "raw/Comparative education and international relations.pdf",
-    "wiki/concepts/instruction-pedagogy/Visible Learning.md.tmp.9943.7d83ccbf6263",
-    "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md.tmp.9943.6db4be10cb93",
-    "wiki/methods/quantitative/Meta-meta-analysis.md.tmp.9943.b8baa32ed4e8"
+    "raw/Comparative education and international relations.pdf"
   ]
 }

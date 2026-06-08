@@ -1,6 +1,8 @@
 ---
 title: Donald A. Schön
 aliases:
+  - Schön, D. A.
+  - Donald Schön
   - 唐纳德·舍恩
 summary: "美国哲学家和组织学习学者，反思性实践者与技术理性批判代表人物，为教育研究重估专业判断、实践知识与教师反思提供核心资源。"
 type: person
@@ -22,14 +24,15 @@ related_methods: []
 related_persons:
   - "[[John Dewey]]"
 related_arguments: []
-sources:
-  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Schön
+given_names: Donald A.
+initials: D. A.
+citation_name: Schön
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -74,7 +77,3 @@ updated: '2026-05-19'
 > - 其工作立基于 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]传统——强调实践中的探究和反思
 > - 1983 年著作深刻影响了教育、社会工作、护理和管理等专业领域的实践理论化
 > - Qvortrup（2019）将 Schön 的反思实践概念与 Simon 的[[Bounded Rationality|有限理性]]理论并置，构建了[[Professional Judgment|专业判断]]的整合框架
-
-## 来源
-
-- [[Qvortrup_2019_NordSTEP]]

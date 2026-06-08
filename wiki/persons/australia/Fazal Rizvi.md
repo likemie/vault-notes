@@ -1,6 +1,7 @@
 ---
 title: Fazal Rizvi
 aliases:
+  - Rizvi, F.
   - 法扎尔·里兹维
 summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘政治批判分析代表人物，为教育研究理解亚洲崛起与全球高教重组提供框架。"
 type: person
@@ -28,14 +29,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch6_Rizvi_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Rizvi
+given_names: Fazal
+initials: F.
+citation_name: Rizvi
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -89,7 +91,3 @@ updated: '2026-05-19'
 > - 为[[International Education Hubs|国际教育枢纽]]的分析提供了亚洲视角——IEHs 集中体现了亚洲国家从国际化的被动接受者到主动塑造者的角色转变
 > - 对NPM 在高等教育中的运作机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
 >
-
-## 来源
-
-- [[Ch6_Rizvi_2022]]

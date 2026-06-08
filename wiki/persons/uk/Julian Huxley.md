@@ -1,6 +1,7 @@
 ---
 title: Julian Huxley
 aliases:
+  - Huxley, J.
   - 朱利安·赫胥黎
 summary: "英国生物学家与科学管理者，transhumanism 一词提出者，为教育研究思考超人类主义、进步叙事与人性改造提供谱系线索。"
 type: person
@@ -19,14 +20,15 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Huxley
+given_names: Julian
+initials: J.
+citation_name: Huxley
 ---
-
 ## 简介
 
 > [!info]
@@ -80,7 +82,3 @@ Amos 特别指出 Huxley 身份的一个内在矛盾：他同时是科学人文�
 - 当代[[Transhumanism|超人类主义]]运动（如 Natasha Vita-More 的"身体设计"项目）延续了 Huxley 的核心主张——人可以通过技术超越自身生物局限——但 Amos 指出，在技术实践层面，这一普世宣称暴露了其选择性（Amos, 2022, p.58）
 
 ---
-
-## 来源
-
-- [[Ch4_Amos_2022]]

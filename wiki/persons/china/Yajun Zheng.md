@@ -1,6 +1,7 @@
 ---
 title: Yajun Zheng
 aliases:
+  - Zheng, Y.
   - 郑雅君
 summary: "中国高等教育研究者，双模式框架提出者和 金榜题名之后 作者，为教育研究解释大学生出路分化与文化障碍提供分析工具。"
 type: person
@@ -40,14 +41,15 @@ related_persons:
   - "[[Ann Swidler]]"
   - "[[Didier Eribon]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Zheng
+given_names: Yajun
+initials: Y.
+citation_name: Zheng
 ---
-
 # Yajun Zheng
 
 ---
@@ -145,7 +147,3 @@ updated: 2026-05-19
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"（郑雅君，2023）
 
 ---
-
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

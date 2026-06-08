@@ -59,7 +59,7 @@ updated: 2026-05-20
 > [!note-] 历史沿革
 > Bildung 概念有深厚的神学根源——《圣经·创世记》1:22 中"人是按上帝的形象（Bild）造的"，但在当代世俗世界中，Bildung 已脱离了神学语境（Larsen, 2019, p.9）。
 >
-> 其哲学传统贯穿德国思想史，经由 Humboldt、Herder、[[Immanuel Kant|Kant]]、Hegel、Schlegel、Nietzsche、批判理论、诠释学、[[Phenomenology|现象学]]和概念史（Begriffsgeschichte）的持续发展。当代对 Bildung 的复兴依赖于这一丰富的接受史（Hans-Georg Gadamer 所称的 Wirkungsgeschichte），其目标是"继承并超越"这一传统，以创造新的思维和行动方式（Larsen, 2019, p.9）。
+> 其哲学传统贯穿德国思想史，经由 Humboldt、Herder、Kant、Hegel、Schlegel、Nietzsche、批判理论、诠释学、[[Phenomenology|现象学]]和概念史（Begriffsgeschichte）的持续发展。当代对 Bildung 的复兴依赖于这一丰富的接受史（Hans-Georg Gadamer 所称的 Wirkungsgeschichte），其目标是"继承并超越"这一传统，以创造新的思维和行动方式（Larsen, 2019, p.9）。
 
 Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互作用（interdependency）"——这一交互既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界（Humboldt, 1956/1793, p.29, cited in Jornitz & Klinge, 2022, p.239）。Nordenbo（2002, p.341）则强调 Bildung 概念包含一个"主动内核"——一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung；换言之，Bildung 不能被外部灌输，只能由主体主动参与其自身的形成过程（Jornitz & Klinge, 2022, p.237）。
 >
@@ -91,7 +91,7 @@ Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互�
 
 > [!info] 理论基础
 > - [[Luhmann's Systems Theory]] — Larsen 运用 Luhmann 的盲点概念论证 VL 范式对教育本体论的盲视
-> - 德国精神科学传统 — Humboldt, Herder, [[Immanuel Kant|Kant]], Hegel, Nietzsche 等构成 Bildung 的思想渊源（Larsen, 2019, p.9）
+> - 德国精神科学传统 — Humboldt, Herder, Kant, Hegel, Nietzsche 等构成 Bildung 的思想渊源（Larsen, 2019, p.9）
 > - [[Dietrich Benner]] — 当代德国教育学家，继承并发展 Bildung 传统，区分 Bildung 与 Erziehung，提出修正版教学三角模型（Sarbiewska, 2019, p.122–123）
 > - [[Phenomenology]] — Bildung 与现象学都把教育理解为生活经验、意义生成和人与世界对话的实践（Schaffar & Wolff, 2024, pp.3, 11）
 > - [[Didaktik]] — 与 Bildung 一起构成芬兰 [[Phenomenon-Based Learning|PhBL]] 的大陆教育哲学根源，尤其体现在 [[Wolfgang Klafki]] 关于[[Epochal Key Problems|时代关键问题]]和开放未来的课程论中（Schaffar & Wolff, 2024, pp.6-7）

@@ -1,8 +1,8 @@
 ---
 title: Yrjö Engeström
 aliases:
+  - Engeström, Y.
   - 于尔约·恩格斯特罗姆
-  - Engeström
 summary: "芬兰组织学习与教育研究者，在 Vygotsky 中介三角模型基础上发展为第三代活动理论，提出扩展性学习、扩展性改造和边界跨越概念，将活动系统之间矛盾视为集体变革动力"
 type: person
 nationality: finland
@@ -22,14 +22,15 @@ related_persons:
   - "[[Lev Vygotsky]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Wang_2025_CE]]"
 confidence: low
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Engeström
+given_names: Yrjö
+initials: Y.
+citation_name: Engeström
 ---
-
 # Yrjö Engeström
 
 
@@ -124,7 +125,3 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 - 发展性工作研究（developmental work research）方法论以活动理论为基础，用于介入和推动工作场所的[[Transformative Change|转型性变革]]（待核）。
 
 ---
-
-## 来源
-
-- [[Wang_2025_CE]]

@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ## 与 Visible Learning 的内在矛盾
 
 
-Snook et al. (2009) 指出绩效工资的逻辑与 [[John Hattie|Hattie]] 本人的研究发现直接矛盾。Hattie 强调：
+Snook et al. (2009) 指出绩效工资的逻辑与 Hattie 本人的研究发现直接矛盾。Hattie 强调：
 
 > "School leaders and teachers need to create school, staffroom, and classroom environments where error is welcome as a learning opportunity, where discarding incorrect knowledge and understandings is welcomed, and where participants can feel safe to learn, re-learn, and explore knowledge and understanding."（Hattie, 2008, p.239）
 
@@ -54,7 +54,7 @@ Hattie 进一步指出学校改进需要"关爱、支持的教师休息室、容
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **支持方**：部分政策制定者从 [[John Hattie|Hattie]] "教师是学校内最重要[[Variable|变量]]"的结论推导出应按表现付酬（Snook et al., 2009, p.103）
+> - **支持方**：部分政策制定者从 Hattie "教师是学校内最重要[[Variable|变量]]"的结论推导出应按表现付酬（Snook et al., 2009, p.103）
 > - **Hattie 本人的澄清**：Hattie (2010, pp.91–92) 澄清其立场并非简单支持绩效工资，而是认为"质疑如何根据专业水平差异付酬是适当和值得的——这在许多学科和职业中已是成熟做法"。他记录自己与 NBPTS、NCATE 等机构的研究已证明将教师薪酬与表现挂钩存在困难，且已发表相关论文。他的核心论点是：教师目前已经按经验差异付酬，反对"绩效工资会导致教师休息室竞争"的常见论点忽视了这一事实。同时他承认"完美方案尚未出现——但这应鼓励我们持续质疑和研究解决此问题的方式"（Hattie, 2010, p.91）
 > - **批评方**：Hattie 的大规模研究中没有任何证据支持绩效工资改善教学或学习；相反，他的教师文化论述暗示绩效工资适得其反（Snook et al., 2009, p.103）
 > - 目前状态：持续争论；缺乏可靠测量工具是根本性障碍（Scott Report 1986 年即指出此问题，至今未解决）

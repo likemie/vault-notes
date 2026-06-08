@@ -1,6 +1,7 @@
 ---
 title: Larry Cuban
 aliases:
+  - Cuban, L.
   - 拉里·库班
 summary: "美国教育史学家和课程理论家，学校改革史与技术乌托邦批判代表人物，为教育研究理解改革循环、课堂稳定性与政策落差提供历史视角。"
 type: person
@@ -18,16 +19,17 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Yan_2025_JCS]]"
 related_facts:
   - "[[Liberal Studies]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Cuban
+given_names: Larry
+initials: L.
+citation_name: Cuban
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -71,7 +73,3 @@ updated: '2026-05-19'
 > Yan & Morris (2025, pp. 490–491) 的核心贡献之一是识别了 Cuban 框架中各因素的权重在 LS 创立和废除两阶段之间发生了戏剧性重组——"国家安全"从完全不存在变为压倒性因素，"进步教育运动"从强驱动力变为完全消失，"协商与妥协"从核心特征变为完全不存在。这一发现挑战了 Cuban 框架对各因素"稳定共存"的隐含假设。
 >
 > **目前状态**：Yan & Morris (2025) 建议在应用 Cuban 框架时引入因素权重分析维度——不仅识别存在哪些因素，更考察它们的相对权重如何随政治语境变化。这一补充尚未被系统整合进 Cuban 框架本身。
-
-## 来源
-
-- [[Yan_2025_JCS]]

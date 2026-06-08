@@ -1,6 +1,7 @@
 ---
 title: Humberto Maturana
 aliases:
+  - Maturana, H.
   - 温贝托·马图拉纳
 summary: "智利生物学家和哲学家，自创生理论共同创立者与知识之树作者，为教育研究思考生命、认知与关系性学习提供深层本体论资源。"
 type: person
@@ -19,14 +20,15 @@ related_methods: []
 related_persons:
   - "[[Francisco Varela]]"
 related_arguments: []
-sources:
-  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Maturana
+given_names: Humberto
+initials: H.
+citation_name: Maturana
 ---
-
 ## 简介
 
 > [!info]
@@ -58,7 +60,3 @@ Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Fran
 - [[Autopoiesis]] — 与 Varela 共同创立，深刻影响了生物学、认知科学和社会理论
 
 ---
-
-## 来源
-
-- [[Ch4_Amos_2022]]

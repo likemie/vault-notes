@@ -78,7 +78,7 @@ updated: 2026-06-07
 >
 > **Tröhler（2023）国家利益驱动论**。课程变革从根本上受国家利益引导。这一视角在废除阶段尤为重要，因为 LS 的废除直接服务于中共以[[Zhonghua Minzu|中华民族]]为核心的国族建构项目。
 >
-> 方法论立场来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角，将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
+> 方法论立场来自 Apple、Bourdieu、Kliebard 的批判视角，将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
 
 ---
 

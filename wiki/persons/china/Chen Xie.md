@@ -1,6 +1,7 @@
 ---
 title: Chen Xie
 aliases:
+  - Xie, C.
   - 谢晨
 summary: "中国比较教育研究者，教育技术实验比较与证据本位改革研究者，为中文教育研究连接国际实证改革议程提供支持。"
 type: person
@@ -20,14 +21,15 @@ related_methods:
 related_persons:
   - "[[Alan C. K. Cheung]]"
 related_arguments: []
-sources:
-  - "[[Cheung_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Xie
+given_names: Chen
+initials: C.
+citation_name: Xie
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -55,7 +57,3 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - 与 [[Alan C. K. Cheung]] 合作，参与 Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]研究网络的国际拓展
 > - 其对中国[[Experimental Research|实验研究]]"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的观察
-
-## 来源
-
-- [[Cheung_2021_ROE]]

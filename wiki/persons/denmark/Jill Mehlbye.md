@@ -1,6 +1,7 @@
 ---
 title: Jill Mehlbye
 aliases:
+  - Mehlbye, J.
   - 吉尔·梅尔比
 summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者，为教育研究提供丹麦语境下有效教学与学校改进的本土证据。"
 type: person
@@ -17,16 +18,17 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Laursen_2015_Paideia]]"
 related_facts:
   - "[[SFI Report]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Mehlbye
+given_names: Jill
+initials: J.
+citation_name: Mehlbye
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -56,7 +58,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - 现有来源只提供 Mehlbye 研究的主要发现，没有提供研究设计、样本或因果强度等方法细节；这些内容需待直接处理 Mehlbye 原始报告后再补充（Laursen, 2015, pp.37–40）。
 > - 关于频繁测试的解释仍是 Laursen 的推测：丹麦学校测试可能少于最有利于学习的水平，而高测试国家可能已经测试过多；这一解释并非 Mehlbye 研究本身直接证明的结论（Laursen, 2015, p.39）。
-
-## 来源
-
-- [[Laursen_2015_Paideia]]

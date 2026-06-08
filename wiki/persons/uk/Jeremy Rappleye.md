@@ -1,6 +1,7 @@
 ---
 title: Jeremy Rappleye
 aliases:
+  - Rappleye, J.
   - 杰里米·拉普利
 summary: "英国比较教育学者，提出跨国吸引力情境概念地图，将情境拆解为结构层与人的层面的双层互动，以停滞的修辞重新框定抵制的力量"
 type: person
@@ -24,14 +25,15 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-28'
-updated: '2026-05-28'
+updated: '2026-06-08'
+family_name: Rappleye
+given_names: Jeremy
+initials: J.
+citation_name: Rappleye
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -105,7 +107,3 @@ Rappleye 基于晚清中国借用日本教育的历史案例提出：当改革�
 > - **对 Phillips & Ochs 框架的深化** — 将原有的单层"推动力"拆分为结构-人的双层互动，新增对称的阻力侧，补充了四种吸引力"火花"的动机分类
 
 ---
-
-## 来源
-
-- [[Rappleye_2006_RCIE]]

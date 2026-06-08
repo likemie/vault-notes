@@ -1,6 +1,7 @@
 ---
 title: Steen Nepper Larsen
 aliases:
+  - Larsen, S. N.
   - 斯滕·内珀·拉森
 summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判代表人物，为教育研究捍卫教育的哲学维度和非还原性提供重要声音。"
 type: person
@@ -29,14 +30,15 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Gert Biesta]]"
 related_arguments: []
-sources:
-  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Larsen
+given_names: Steen Nepper
+initials: S. N.
+citation_name: Larsen
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -96,7 +98,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Larsen 的哲学论文明确承认其为"个人化论文"（personal essay），其论证不依赖对 [[John Hattie|Hattie]] 的其他批评的系统综述，这既是其原创性的来源，也可能被视为选择性的（Larsen, 2019, p.2-3）
 > - 其 [[Bildung]] 替代方案被自己描述为"从侧翼"的尝试，且承认需要进一步加强和固化（Larsen, 2019, p.10）
-
-## 来源
-
-- [[Larsen_2019_EducSci]]

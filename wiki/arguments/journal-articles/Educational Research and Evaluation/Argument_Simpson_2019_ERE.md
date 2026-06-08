@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[Effect Size|效应量]]（effect size）被广泛假定为测量教育干预有效性的指标，并以此为基础驱动全球教育政策（[[John Hattie|Hattie]] 的 [[Visible Learning]]、[[Education Endowment Foundation|EEF]] Toolkit 等）。本文试图回答：**效应量是否真正测量教育的有效性或影响力？如果不是，它对教育政策应该扮演什么角色？**
+> [[Effect Size|效应量]]（effect size）被广泛假定为测量教育干预有效性的指标，并以此为基础驱动全球教育政策（Hattie 的 [[Visible Learning]]、[[Education Endowment Foundation|EEF]] Toolkit 等）。本文试图回答：**效应量是否真正测量教育的有效性或影响力？如果不是，它对教育政策应该扮演什么角色？**
 
 ## 理论框架
 
@@ -62,7 +62,7 @@ updated: '2026-05-18'
 >
 > 假设随机抽取英语使用者，随机分为两组。实验组被告知匈牙利语单词 *oktatás* 的英文翻译是 "education"，对照组无任何信息。两组立即参加包含 10 个匈牙利语单词的翻译测试（其中一个是 *oktatás*）。
 >
-> - **基准情况**（测试包含 *oktatás*，开放式作答）：实验组平均得 1 分（几乎全对 *oktatás*），对照组平均得 0 分。标准差接近零 → **[[Effect Size|效应量]]趋向无穷大**。按 [[John Hattie|Hattie]] 的标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预；按 [[Education Endowment Foundation|EEF]] 的"月数进步"指标，这相当于"几十年的额外学校进步"（p.100-101）。
+> - **基准情况**（测试包含 *oktatás*，开放式作答）：实验组平均得 1 分（几乎全对 *oktatás*），对照组平均得 0 分。标准差接近零 → **[[Effect Size|效应量]]趋向无穷大**。按 Hattie 的标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预；按 [[Education Endowment Foundation|EEF]] 的"月数进步"指标，这相当于"几十年的额外学校进步"（p.100-101）。
 >
 > 仅改变测试设计（不改变干预内容、样本、控制组活动）：
 >

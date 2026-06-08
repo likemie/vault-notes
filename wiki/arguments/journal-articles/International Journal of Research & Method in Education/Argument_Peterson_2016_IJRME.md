@@ -58,7 +58,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - 方法：[[Literature Review|文献综述]]（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
 > - 范围：证据创造、证据本位实践和教育研究伙伴关系的文献
-> - 对话对象：主要参与美国 [[Investing in Innovation Program|i3]] 拨款和英国 EEF 的相关人员
+> - 对话对象：主要参与美国 [[Investing in Innovation Program|i3]] 拨款和英国 [[Education Endowment Foundation|EEF]] 的相关人员
 
 ## 核心论证
 
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 >
 > Peterson 识别了当前"什么有效"策略的四个系统性问题（详见 [[Argument_Peterson_2016_IJRME]] 和 [[Black Box RCTs]]）：
 > 1. 与教师主导干预不匹配——引导资金流向更具项目性和更少教师主导的"治疗"（p. 301）
-> 2. 实施薄弱——美国 90%+ 有效性试验无影响，EEF 仅 1 项有效性试验有明确效果（pp. 301–302）
+> 2. 实施薄弱——美国 90%+ 有效性试验无影响，[[Education Endowment Foundation|EEF]] 仅 1 项有效性试验有明确效果（pp. 301–302）
 > 3. 低采纳率——从业者不使用聚合知识，"使研究更易获得不能解决采纳问题如果证据不够强"（p. 302）
 > 4. 仅适用于二选一决策——教育情境中因素的相互依赖使单次二选一决策极少可行（p. 300）
 >
@@ -117,7 +117,7 @@ updated: '2026-05-18'
 > - **定义机制的根本困难**：Peterson 承认机制的统一定义在教育和社会科学中"未解决"（p. 303），只在反事实教育研究范式内提供了可操作定义
 > - **缺乏教育领域的实证检验**：论文是概念性和方法论证性的——[[Mechanism Experiments|机制实验]]在教育中的大规模应用效果尚未被测试
 > - **经费限制**：从发展经济学和公共健康借鉴的方法可能需要教育领域无法承担的研究经费水平（p. 307）
-> - **依赖 What Works 制度基础设施的改革意愿**：提案的有效性取决于 EEF、IES、[[What Works Clearinghouse|WWC]] 等机构是否愿意从根本上重新定位自身角色——从认证项目到编目机制（pp. 307–308）
+> - **依赖 What Works 制度基础设施的改革意愿**：提案的有效性取决于 [[Education Endowment Foundation|EEF]]、IES、[[What Works Clearinghouse|WWC]] 等机构是否愿意从根本上重新定位自身角色——从认证项目到编目机制（pp. 307–308）
 
 ## 来源
 

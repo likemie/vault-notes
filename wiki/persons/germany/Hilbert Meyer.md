@@ -1,6 +1,7 @@
 ---
 title: Hilbert Meyer
 aliases:
+  - Meyer, H.
   - 希尔伯特·迈耶
 summary: "德国教育学者和 Didaktik 研究者，好教学十项标准提出者，为教学质量研究和课堂观察提供系统参照。"
 type: person
@@ -16,14 +17,15 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Meyer
+given_names: Hilbert
+initials: H.
+citation_name: Meyer
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -49,7 +51,3 @@ updated: '2026-05-19'
 
 > [!warning] 争议与批评
 > - Meyer 与 [[John Hattie|Hattie]]、Helmke 所概括的核心[[Effective Teaching|有效教学]]质量，在丹麦研究中总体得到支持；这一点构成 Laursen 关于国际有效教学综合"总体上"适用于丹麦的依据之一（Laursen, 2015, p.40）。
-
-## 来源
-
-- [[Laursen_2015_Paideia]]

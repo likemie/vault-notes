@@ -1,6 +1,7 @@
 ---
 title: Amelia Peterson
 aliases:
+  - Peterson, A.
   - 阿米莉亚·彼得森
 summary: "美国教育研究者，What Works 2.0 框架提出者，为教育研究尝试调和实验科学与改进科学提供整合路径。"
 type: person
@@ -19,14 +20,15 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Peterson
+given_names: Amelia
+initials: A.
+citation_name: Peterson
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -63,7 +65,3 @@ updated: '2026-05-19'
 > - 受发展经济学随机化传统（**Duflo, Glennerster, & Kremer, 2006**）启发——[[Mechanism Experiments|机制实验]]的概念直接源自此传统
 > - 与 **Bryk et al. (2015)** 的[[Improvement Science|改进科学]]议程形成对话——Peterson 的整合方案试图桥接这两大对立范式
 > - 其"机制作为证据单位"的提案预示了后续教育研究中关于"核心成分"（core components）和"活性成分"（active ingredients）的讨论
-
-## 来源
-
-- [[Peterson_2016_IJRME]]

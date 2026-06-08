@@ -1,6 +1,7 @@
 ---
 title: Andreas Helmke
 aliases:
+  - Helmke, A.
   - 安德烈亚斯·赫尔姆克
 summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und Lehrerprofessionalität 作者，为课堂质量与教师专业性研究提供德语传统框架。"
 type: person
@@ -18,14 +19,15 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Helmke
+given_names: Andreas
+initials: A.
+citation_name: Helmke
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -55,7 +57,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Helmke 支持教学差异化，但承认关于教学差异化是否提升学生学习的经验证据并不充分；这一点与丹麦 SFI 报告中"教学差异化似乎没有显著效果"的结果相互呼应。相关概念见 [[Individualised Instruction]]（Laursen, 2015, p.38）。
 > - Helmke 关于亚洲表现取向的解释提醒研究者，不应把高成绩直接归因于威权教学风格。观察到亚洲学生成绩高、亚洲课堂较封闭，并不能推出封闭教学就是高成绩的原因（Laursen, 2015, pp.39–40）。
-
-## 来源
-
-- [[Laursen_2015_Paideia]]

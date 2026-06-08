@@ -66,7 +66,7 @@ updated: '2026-05-18'
 > - **Pawson (2006) 的现实主义[[Appraisal Theory|评估理论]]** — 社会项目通过人的推理（而非物理因果）产生效果；呼吁"实在论综合"取代统计平均
 > - **新自由主义批判框架（Ball, 2013; Sears, 2003）** — [[Evidence-Based Education|EBE]] 定位于审计文化（Power, 1997）和市场化的效率要求中
 >
-> 方法：概念分析 + 方法论解构 + 实证案例拆解（Fresh Start [[Randomised Controlled Trials|RCT]]、[[Education Endowment Foundation|EEF]] Toolkit、[[John Hattie|Hattie]] [[Visible Learning]]）
+> 方法：概念分析 + 方法论解构 + 实证案例拆解（Fresh Start [[Randomised Controlled Trials|RCT]]、[[Education Endowment Foundation|EEF]] Toolkit、Hattie [[Visible Learning]]）
 
 ## 核心论证
 
@@ -104,7 +104,7 @@ updated: '2026-05-18'
 > > “通过计算得出的效应量聚合平均值……得出的结论是‘反馈’是提高成绩最有效的方法。由于反馈在任何教学互动中都会以某种方式不可避免地存在，因此研究差异产生的原因会更具启发性。”
 > ("An aggregate mean of effect sizes calculated ... the conclusion drawn that '[[Feedback]]' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences.") (p. 10)
 >
-> ### Level 3: [[Meta-meta-analysis|元-元分析]]的失真（[[John Hattie|Hattie]] & EEF Toolkit）
+> ### Level 3: [[Meta-meta-analysis|元-元分析]]的失真（Hattie & EEF Toolkit）
 >
 > 聚合到第三级时，技术问题被进一步放大：
 >
@@ -148,7 +148,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **统计聚合逐级失真**：[[Randomised Controlled Trials|RCT]] 的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（[[John Hattie|Hattie]]/Toolkit）中进一步被隐藏——"越聚合越空洞化"
+> 1. **统计聚合逐级失真**：[[Randomised Controlled Trials|RCT]] 的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（Hattie/Toolkit）中进一步被隐藏——"越聚合越空洞化"
 >
 > 2. **Fresh Start 案例显示"政治压力下的方法论妥协"**：[[Education Endowment Foundation|EEF]] 作为政府资助方可能为迎合教育部长的偏好而突显统计上不存在的结果
 >
@@ -182,7 +182,7 @@ updated: '2026-05-18'
 >
 > **Wrigley 可能的回应**：Wrigley 会回应说，教师不需要自己进行实在论综合——这应该是研究者的工作。问题是研究者的产出（如 [[Education Endowment Foundation|EEF]] Toolkit 的效应量排名表）对教师"易用"但"误导"——实在论综合的目标是提供更准确（虽然更复杂）的综述。但这一回应的确承认了"可及性"与"准确性"之间的固有张力。
 >
-> **目前状态**：实在论综合在方法论学者中获得认可（Pawson, 2006; Pawson & Tilley, 1997），但其在政策审议中的实际影响力远不及 Toolkit/[[John Hattie|Hattie]] 的效应量排名——后者之所以流行恰恰因为其简单性（参见 Cowen, 2019 对"对主权者透明"的分析）。
+> **目前状态**：实在论综合在方法论学者中获得认可（Pawson, 2006; Pawson & Tilley, 1997），但其在政策审议中的实际影响力远不及 Toolkit/Hattie 的效应量排名——后者之所以流行恰恰因为其简单性（参见 Cowen, 2019 对"对主权者透明"的分析）。
 >
 > ### 对量化方法的全面不信任：批判的边界
 >

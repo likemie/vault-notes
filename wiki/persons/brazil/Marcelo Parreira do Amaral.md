@@ -1,6 +1,7 @@
 ---
 title: Marcelo Parreira do Amaral
 aliases:
+  - Amaral, M. P. D.
   - 马塞洛·帕雷拉·多·阿马拉尔
 summary: "巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。"
 type: person
@@ -28,15 +29,15 @@ related_persons:
   - "[[Christiane Thompson]]"
   - "[[Gita Steiner-Khamsi]]"
 related_arguments: []
-sources:
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
-  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Amaral
+given_names: Marcelo Parreira do
+initials: M. P. D.
+citation_name: Amaral
 ---
-
 ## 简介
 
 > [!info]
@@ -72,8 +73,3 @@ Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）�
 - [[International Education Hubs]] — 将 Knight 的 IEH 框架引入知识地缘政治分析，论证 IEHs 是国家、经济、社会和高等教育之间关系的根本性重新排列
 - [[Global Education Industry]] — 与 Steiner-Khamsi 和 Thompson 共同编辑该领域的核心著作；在 Ch3 中将 GEI 定位为知识地缘政治转型的关键语境
 - [[Knowledge-Based Economization]] — 将 Moisio 的概念引入教育研究分析
-
-## 来源
-
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch3_Parreira do Amaral_2022]]

@@ -1,6 +1,7 @@
 ---
 title: Jiang Menglin
 aliases:
+  - Jiang, M.
   - 蒋梦麟
   - Jiang Menglin
 summary: "民国教育家，哥伦比亚大学师范学院毕业，《新教育》主编，新教育运动激进派代表人物，主张以教育彻底改造社会并创造新国家"
@@ -26,15 +27,15 @@ related_persons:
 related_facts:
   - "[[New Education Movement]]"
 related_arguments: []
-sources:
-  - "[[Zhou_2024_CE]]"
-  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Jiang
+given_names: Menglin
+initials: M.
+citation_name: Jiang
 ---
-
 # Jiang Menglin
 
 ---
@@ -101,8 +102,3 @@ updated: 2026-05-26
 > - 他的"追赶发达国家"框架使教育改革倾向于以外国模式为参照，脱离了中国仍属农业国的基本国情——1923 年课程在追随杜威"适应地方生活"理念时取消农业科目，即是一个例证（Zhou & Westberg, 2024, p.618）。
 
 ---
-
-## 来源
-
-- [[Zhou_2024_CE]]
-- [[Schulte_2009_EncuentrosEducacion]]

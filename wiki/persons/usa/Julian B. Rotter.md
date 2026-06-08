@@ -1,6 +1,8 @@
 ---
 title: Julian B. Rotter
 aliases:
+  - Rotter, J. B.
+  - Julian Rotter
   - 朱利安·罗特
 summary: "美国心理学家，社会学习理论的主要奠基人之一，提出控制点（locus of control）构念和社会学习行为公式，对归因理论和人格心理学的发展有重要影响"
 type: person
@@ -22,14 +24,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Rotter
+given_names: Julian B.
+initials: J. B.
+citation_name: Rotter
 ---
-
 # Julian B. Rotter
 
 ## 简介
@@ -67,7 +70,3 @@ updated: 2026-06-02
 > - [[Locus of Control|控制点]]（[[Locus of Control]]）[[Construct|构念]]成为动机心理学和人格心理学的核心概念之一
 > - Rotter 的工作直接影响了 Weiner 的[[Attribution Theory|归因理论]]（[[Attribution Theory]]）发展——Weiner 将 Rotter 的单维度控制点概念扩展为来源、稳定性和可控性三个独立维度
 > - [[Social Learning Theory|社会学习理论]]构成了 Bandura 社会认知理论的前置基础
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

@@ -41,14 +41,14 @@ updated: '2026-05-18'
 > [!info] 定义
 > 有效教学（effective teaching / god undervisning）是一个综合性教学质量概念，用来概括教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。Laursen (2015) 讨论的重点不是教学法排名，而是教学方法背后的质量条件：方法是否适合内容和目标，学生是否知道要学什么和下一步怎么做，课堂是否既安全又有学业要求（Laursen, 2015, pp.35–36）。
 >
-> 在 Laursen 的整理中，[[John Hattie|Hattie]]、Meyer 和 Helmke 的研究综合虽然方法和表述不同，但都把有效教学的重心放在教师领导、清晰目标、适配学生前提、学习导向课堂气氛和学生主动参与上。丹麦证据则进一步显示，这些质量在丹麦总体上同样重要，尤其对社会背景较弱的学生更为关键（Laursen, 2015, pp.35–40）。
+> 在 Laursen 的整理中，Hattie、Meyer 和 Helmke 的研究综合虽然方法和表述不同，但都把有效教学的重心放在教师领导、清晰目标、适配学生前提、学习导向课堂气氛和学生主动参与上。丹麦证据则进一步显示，这些质量在丹麦总体上同样重要，尤其对社会背景较弱的学生更为关键（Laursen, 2015, pp.35–40）。
 
 ## 核心要素
 
 
 ### 课堂组织与教师领导
 
-- **明确领导**：[[John Hattie|Hattie]] 强调教师应主动掌控、领导并投入教学与学习；SFI 报告中的对应发现是，清晰且一致的[[Classroom Management|课堂管理]]与丹麦学生更好的学习结果相关（Laursen, 2015, pp.35, 37）。
+- **明确领导**：Hattie 强调教师应主动掌控、领导并投入教学与学习；SFI 报告中的对应发现是，清晰且一致的[[Classroom Management|课堂管理]]与丹麦学生更好的学习结果相关（Laursen, 2015, pp.35, 37）。
 - **清晰目标**：有效教学要求教师明确学习目标，并持续判断学生通向目标的下一步。SFI 报告同样发现，清晰学科目标和高要求与更好的考试成绩相关（Laursen, 2015, pp.35, 37）。
 - **高要求与表现取向**：丹麦研究和国际研究都显示，重视学业表现本身是高学业成就的重要因素。丹麦教师对学业表现的优先度不高，可能是丹麦学生在 [[PISA]] 等国际比较中表现居中的原因之一（Laursen, 2015, p.38）。
 
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Visible Learning]] — [[Visible Learning]] 是 [[John Hattie|Hattie]] 基于[[Meta-analysis|元分析]]综合形成的证据项目与教学改进品牌；有效教学则是 Hattie、Meyer、Helmke 与丹麦本土研究共同讨论的课堂质量问题。前者是一个特定研究与传播项目，后者是更宽的教学质量概念（Laursen, 2015, pp.34–36）。
+> - vs [[Visible Learning]] — [[Visible Learning]] 是 Hattie 基于[[Meta-analysis|元分析]]综合形成的证据项目与教学改进品牌；有效教学则是 Hattie、Meyer、Helmke 与丹麦本土研究共同讨论的课堂质量问题。前者是一个特定研究与传播项目，后者是更宽的教学质量概念（Laursen, 2015, pp.34–36）。
 > - vs 特定教学方法 — 有效教学不等于某一种固定方法。Laursen 指出，常见教学形式和方法的平均效果大体相近；关键在于方法是否适配内容和目标，是否包含清晰目标、教师领导、学习气氛和学生参与等基础质量（Laursen, 2015, p.35）。
 > - vs [[Individualised Instruction]] — 个别化教学只涉及"如何照顾学生差异"这一局部问题。丹麦"教学差异化"没有显示显著效果，Hattie 的 individualised instruction 效应也较小，因此它不能直接代表有效教学整体（Laursen, 2015, p.38）。
 > - vs [[Feedback]] — 反馈是有效教学的重要机制之一，但不是孤立技术。反馈只有在帮助学生理解当前位置、目标和下一步行动时，才符合 Hattie 意义上的学习促进机制（Laursen, 2015, p.39）。
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 
 ### 国际研究综合
 
-[[John Hattie|Hattie]]、Meyer 和 Helmke 的综合构成 Laursen 的国际参照。三者虽有细节差异，但都强调教师领导、适应个体学生、清晰目标和学习导向氛围。Helmke 额外强调巩固和动机，Hattie 在其他著作中也强调这些因素（Laursen, 2015, p.35）。
+Hattie、Meyer 和 Helmke 的综合构成 Laursen 的国际参照。三者虽有细节差异，但都强调教师领导、适应个体学生、清晰目标和学习导向氛围。Helmke 额外强调巩固和动机，Hattie 在其他著作中也强调这些因素（Laursen, 2015, p.35）。
 
 Laursen 将这些共同点概括为"经典基本质量"：促进学习的关键不在某种固定教学形式，而在目标、教师领导、课堂气氛、学生前提适配和学生主动参与等基础条件（Laursen, 2015, pp.35–36）。
 
@@ -130,7 +130,7 @@ Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总
 ## 相关研究与案例
 
 > [!example] 相关研究与案例
-> - [[Argument_Laursen_2015_Paideia]] — 比较 [[John Hattie|Hattie]]、Meyer、Helmke 国际综合与丹麦研究，论证有效教学核心质量在丹麦总体适用。
+> - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际综合与丹麦研究，论证有效教学核心质量在丹麦总体适用。
 > - [[SFI Report]] — 检验国际有效教学综合丹麦适用性的主要本土证据。
 > - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、学业表现取向、明确[[Classroom Management|课堂管理]]和测试实践提供补充证据。
 > - [[Danish Public School Reform]] — 丹麦政策语境中对学习目标、学生学习结果和 Hattie 的采纳，使有效教学问题与[[Visible Learning]]在丹麦的传播相互交织。

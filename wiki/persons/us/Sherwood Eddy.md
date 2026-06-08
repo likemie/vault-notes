@@ -1,6 +1,7 @@
 ---
 title: Sherwood Eddy
 aliases:
+  - Eddy, S.
   - 宣夏德
   - 谢伍德·埃迪
 summary: "美国著名新教传教士和教育者，1931年出版 The Challenge of Russia 论证美国应承认苏联，大量引用 Dewey 1928年访苏的观察作为苏联教育进步的证据"
@@ -18,14 +19,15 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Ryabyy_2024_Maneto]]"
 confidence: low
 status: draft
 created: 2026-05-26
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Eddy
+given_names: Sherwood
+initials: S.
+citation_name: Eddy
 ---
-
 # Sherwood Eddy
 
 
@@ -66,7 +68,3 @@ updated: 2026-06-02
 > [!success]
 > - The Challenge of Russia 是 1933 年美国正式承认苏联之前，由美国知名宗教-教育人士撰写的、以一手观察为基础的、系统论证承认苏联的代表性著作之一（Ryabyy, 2024, pp.107–108）。
 > - Eddy 的工作展示了 [[John Dewey|Dewey]] 访苏在美国国内政治辩论中的传播路径：Dewey 的观察 → 被 Eddy 引用于承认苏联的论证中 → 进入更广泛的美国公众讨论（Ryabyy, 2024, pp.107–108）。
-
-## 来源
-
-- [[Ryabyy_2024_Maneto]]

@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 标准化[[Effect Size|效应量]]是否能够作为比较和合并教育[[Intervention Research|干预研究]]的合法基础？基于效应量排名的[[Meta-meta-analysis|元-元分析]]联盟表（如 [[John Hattie|Hattie]] 的 [[Visible Learning]] 和 [[EEF Teaching and Learning Toolkit]]）是否提供了关于教育干预相对有效性的可靠证据？
+> 标准化[[Effect Size|效应量]]是否能够作为比较和合并教育[[Intervention Research|干预研究]]的合法基础？基于效应量排名的[[Meta-meta-analysis|元-元分析]]联盟表（如 Hattie 的 [[Visible Learning]] 和 [[EEF Teaching and Learning Toolkit]]）是否提供了关于教育干预相对有效性的可靠证据？
 >
 > Simpson 的回答是否定的：标准化效应量不测量教育影响力，而测量试验灵敏度（experimental sensitivity）；效应量排名表反映的不是干预有效性的高低，而是各研究领域中研究者设计敏感试验的难易程度。
 
@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：概念分析与技术论证（conceptual analysis + technical demonstration）
 > - **论证工具**：一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
-> - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（[[Robert Marzano|Marzano]] 1998; [[John Hattie|Hattie]] 2009; Higgins et al. 2013/[[Education Endowment Foundation|EEF]] Toolkit），以及纳入这些综合的原始研究
+> - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（Marzano 1998; Hattie 2009; Higgins et al. 2013/[[Education Endowment Foundation|EEF]] Toolkit），以及纳入这些综合的原始研究
 
 ## 核心论证
 
@@ -136,8 +136,8 @@ updated: '2026-05-18'
 >
 > ### 4. 核心结论：联盟表不是有效性排名
 >
-> > “在 [[Robert Marzano|Marzano]] (1998)、[[John Hattie|Hattie]] (2009) 和 Higgins et al. (2013) 中排名较高的领域，是那些研究者能够设计出更敏感的实验的领域。”
-> ("Areas which rank highly in Marzano (1998), [[John Hattie|Hattie]] (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments.") (Simpson, 2017, p.2)
+> > “在 Marzano (1998)、Hattie (2009) 和 Higgins et al. (2013) 中排名较高的领域，是那些研究者能够设计出更敏感的实验的领域。”
+> ("Areas which rank highly in Marzano (1998), Hattie (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments.") (Simpson, 2017, p.2)
 >
 > 效应量排名较高的领域（反馈、元认知）仅说明研究者更容易在这些领域设计低噪声试验，而非这些干预更具教育影响力。以这些排名驱动教育政策是"misdirection"——误导（Simpson, 2017, p.14）。
 
@@ -156,8 +156,8 @@ updated: '2026-05-18'
 > > “标准化[[Effect Size|效应量]]不是教育影响力的衡量标准，因为从这个过程中产生的更大的数字并不意味着更大的教育影响力。相反，排名靠前的领域……是研究者能设计出更敏感实验的领域。”
 > ("Standardised [[Effect Size]] is not a measure of educational impact because larger numbers produced from this process are not indicative of larger educational impact. Instead, areas which rank highly ... are those in which researchers can design more sensitive experiments.") (p.2)
 >
-> > “用于开发工具包（或替代性的‘影响气压计’：[[John Hattie|Hattie]] 2009）的数字摘要，并不是教育影响力的衡量标准。”
-> ("The numerical summaries used to develop the toolkit (or the alternative 'barometer of influences': [[John Hattie|Hattie]] 2009) are not a measure of educational impact.") (p.2)
+> > “用于开发工具包（或替代性的‘影响气压计’：Hattie 2009）的数字摘要，并不是教育影响力的衡量标准。”
+> ("The numerical summaries used to develop the toolkit (or the alternative 'barometer of influences': Hattie 2009) are not a measure of educational impact.") (p.2)
 >
 > > “这些违背并不会在报告的效应量中引起随机波动：它们不仅仅是在合并大量研究时会被剔除的噪音。相反，在违背这些假设的过程中存在系统性的且未经调整的偏见。”
 > ("These violations do not cause random fluctuations in reported effect size: they are not just noise which gets factored out when large numbers of studies are combined. Instead, there is systematic and unadjusted bias in the violation of these assumptions.") (pp.4–5)
@@ -178,7 +178,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 论文自身承认论证聚焦于标准化均值差（Cohen's d 及其变体）——使用原始（非标准化）[[Effect Size|效应量]]可以解决部分但非全部问题（Simpson, 2017, p.4）
-> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、[[John Hattie|Hattie]] VL），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
+> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、Hattie VL），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
 > - 论文是技术论证而非实证研究——未提供定量估计每个偏差来源对排名影响幅度的元分析
 
 ## 来源

@@ -1,8 +1,8 @@
 ---
 title: Immanuel Kant
 aliases:
+  - Kant, I.
   - 康德
-  - Kant
 summary: "德国哲学家，启蒙运动与德国古典哲学的核心人物，以三大批判重塑认识论、伦理学与美学，其心智范畴论调和了先天论与经验论的千年之争"
 type: person
 nationality: germany
@@ -34,15 +34,15 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Kant
+given_names: Immanuel
+initials: I.
+citation_name: Kant
 ---
-
 # Immanuel Kant
 
 ## 简介
@@ -143,8 +143,3 @@ updated: 2026-05-22
 > - Li 的[[Analytic Framework|分析框架]]暗示了一个隐含问题：康德的范畴论是否本身已经是一种特定的西方文化产品，而非人类普遍的认知结构？（参见 [[Certainty of Knowledge#争议与批评]] 中现代认识论对确定性的反思）
 
 ---
-
-## 来源
-
-- [[Klerides_2023_CE]]
-- [[Li_2012_Cambridge]]

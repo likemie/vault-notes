@@ -348,7 +348,7 @@ updated: 2026-05-26
 
 > [!quote] 关键引用
 > > “虽然民主教育的理想与渐进式改革在[[John Dewey|杜威]]的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。”
-> ("While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in [[John Dewey|Dewey]]'s writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.")（p.611）
+> ("While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.")（p.611）
 >
 > > “杜威的思想在民国时期的中国不断被重新发明，被接受的杜威在很大程度上是一个碎片化的杜威，诞生于其不断变化的社会政治和文化语境之中。”
 > ("Dewey's ideas were subject to constant reinvention in Republican China and that the received Dewey was largely a fragmented Dewey born out of its ever-shifting socio-political and cultural context.")（pp.609–610）

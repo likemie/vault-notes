@@ -47,7 +47,7 @@ updated: 2026-06-01
 这一概念直接回应了[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的准市场和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位（Schulze-Cleven et al., 2017, p.797）。
 
 > [!quote]
-> "金钱不是科学和教育[[Champ|场域]]中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（[[Pierre Bourdieu|Bourdieu]], 1984）——如声望、认可或区隔——展开。"（Schulze-Cleven et al., 2017, p.797）
+> "金钱不是科学和教育[[Champ|场域]]中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（Bourdieu, 1984）——如声望、认可或区隔——展开。"（Schulze-Cleven et al., 2017, p.797）
 
 ## 概念辨析
 
@@ -79,7 +79,7 @@ updated: 2026-06-01
 
 ### 微观社会学实践理论
 
-包括科学社会学的实验室研究（Latour & Woolgar, 1979; Knorr Cetina, 1999）和对高等教育的 Foucault 式权力知识分析（Ball, 1990; Rose, 1996; Angermuller, 2015）。这些后结构主义取向打破了将经济斗争或制度效应置于优先地位的社会学传统（[[Pierre Bourdieu|Bourdieu]], Weber, Marx），转而强调历史偶然性和权力-知识配置的变迁特征（Schulze-Cleven et al., 2017, pp.797–798）。
+包括科学社会学的实验室研究（Latour & Woolgar, 1979; Knorr Cetina, 1999）和对高等教育的 Foucault 式权力知识分析（Ball, 1990; Rose, 1996; Angermuller, 2015）。这些后结构主义取向打破了将经济斗争或制度效应置于优先地位的社会学传统（Bourdieu, Weber, Marx），转而强调历史偶然性和权力-知识配置的变迁特征（Schulze-Cleven et al., 2017, pp.797–798）。
 
 ### 评估与赋值社会学
 

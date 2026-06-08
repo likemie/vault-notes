@@ -1,8 +1,8 @@
 ---
 title: Bob Lingard
 aliases:
-  - 鲍勃·林加德
   - Lingard, B.
+  - 鲍勃·林加德
 summary: "澳大利亚教育政策学者，与 Rizvi 合著《全球化教育政策》，关注全球化背景下教育政策的网络治理和跨国力量"
 type: person
 nationality: australia
@@ -17,14 +17,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Lingard
+given_names: Bob
+initials: B.
+citation_name: Lingard
 ---
-
 # Bob Lingard
 
 ---
@@ -52,7 +53,3 @@ updated: 2026-06-07
 > - Rizvi, F., & Lingard, B. (2010). *Globalizing Education Policy*. Routledge.
 
 ---
-
-## 来源
-
-- [[Beech_2015_GSE]]

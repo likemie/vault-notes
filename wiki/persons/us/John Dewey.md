@@ -1,9 +1,9 @@
 ---
 title: John Dewey
 aliases:
+  - Dewey, J.
   - 约翰·杜威
   - 杜威
-  - Dewey
 summary: "美国哲学家、心理学家与教育改革家，实用主义、功能心理学和进步教育代表人物，以经验、探究、民主和成长重构教育与公共生活，1919–1921 年访华深刻影响中国新教育运动。"
 type: person
 nationality: united-states
@@ -37,14 +37,15 @@ related_persons:
 related_facts:
   - "[[New Education Movement]]"
 related_arguments: []
-sources:
-  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-02
+updated: '2026-06-08'
+family_name: Dewey
+given_names: John
+initials: J.
+citation_name: Dewey
 ---
-
 # John Dewey
 
 ## 简介
@@ -153,8 +154,3 @@ updated: 2026-06-02
 - Schulte（2009, p.93）总结道：杜威在中国经历了三重变形——从科学与知识的对立面变为创新科学的象征；从不道德的资本主义自我中心变为个体与社会和谐统一的符号；从马克思主义-社会主义的批判对象变为中国国家治理反对新自由主义的话语盟友——真正成为又红又专的杜威 (Duwei)。
 
 ---
-
-## 来源
-
-- [[Schulte_2009_EncuentrosEducacion]]
-...

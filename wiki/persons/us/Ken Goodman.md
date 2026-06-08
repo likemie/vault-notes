@@ -1,6 +1,7 @@
 ---
 title: Ken Goodman
 aliases:
+  - Goodman, K.
   - 肯·古德曼
 summary: "美国教育学者和全语言运动奠基人，提出阅读作为心理语言猜测游戏的观点，为识字教育提供与技能本位观对立的重要传统"
 type: person
@@ -21,14 +22,15 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Goodman
+given_names: Ken
+initials: K.
+citation_name: Goodman
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -83,7 +85,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Goodman 的"心理语言学猜测游戏"模型被合成语音支持者批评为忽视了字母-声音对应关系在阅读发展中的关键作用
 > - [[Whole Language|全语言]]在 [[John Hattie|Hattie]]（2009）的 *[[Visible Learning]]* 中被评为[[Effect Size|效应量]] d=0.06（接近零效果），但 O'Connor（2020）论证这一评估基于方法论上存在缺陷的[[Meta-analysis|元分析]]聚合
-
-## 来源
-
-- [[OConnor_2020_AJLL]]

@@ -1,6 +1,7 @@
 ---
 title: Tao Xingzhi
 aliases:
+  - Tao, X.
   - 陶行知
   - Tao Zhixing
   - 陶知行
@@ -24,15 +25,15 @@ related_persons:
 related_facts:
   - "[[New Education Movement]]"
 related_arguments: []
-sources:
-  - "[[Zhou_2024_CE]]"
-  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Tao
+given_names: Xingzhi
+initials: X.
+citation_name: Tao
 ---
-
 # Tao Xingzhi
 
 ## 简介
@@ -80,8 +81,3 @@ updated: 2026-05-26
 - 陶行知在 1980 年代被塑造成"现代中国的关键人物"，他的民主与科学理念——特别是"为老百姓造福"和"照亮大众美德"的立场——被用来为邓小平的四个现代化提供教育话语支撑（Schulte, 2009, pp.85–86）。
 
 ---
-
-## 来源
-
-- [[Zhou_2024_CE]]
-- [[Schulte_2009_EncuentrosEducacion]]

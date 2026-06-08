@@ -1,6 +1,7 @@
 ---
 title: Marcia Baxter Magolda
 aliases:
+  - Magolda, M. B.
   - 马西娅·巴克斯特·马戈尔达
 summary: "美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。"
 type: person
@@ -24,14 +25,15 @@ related_persons:
   - "[[Edmund King]]"
   - "[[Pierre Bourdieu]]"
 related_arguments: []
-sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-05-19
+updated: '2026-06-08'
+family_name: Magolda
+given_names: Marcia Baxter
+initials: M. B.
+citation_name: Magolda
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -70,7 +72,3 @@ updated: 2026-05-19
 > [!warning] 争议与批评
 > - [[Yajun Zheng|郑雅君]]（2023）指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 [[Pierre Bourdieu|Bourdieu]] 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
 >
-
-## 来源
-
-- [[Zheng_2023_ShanghaiSanlian]]

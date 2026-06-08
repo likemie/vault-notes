@@ -1,9 +1,9 @@
 ---
 title: Paulo Freire
 aliases:
+  - Freire, P.
   - 保罗·弗莱雷
   - 弗莱雷
-  - Freire
 summary: "巴西教育家，批判教育学奠基人和 被压迫者教育学 作者，为教育研究连接对话、解放与权力批判提供经典语言。"
 type: person
 nationality: brazil
@@ -22,16 +22,17 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch5_Partaken_2022]]"
 related_facts:
   - "[[Kokutai no Hongi]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-06-02'
+updated: '2026-06-08'
+family_name: Freire
+given_names: Paulo
+initials: P.
+citation_name: Freire
 ---
-
 # Paulo Freire
 
 ## 简介
@@ -72,7 +73,3 @@ updated: '2026-06-02'
 ...
 
 ---
-
-## 来源
-
-- [[Ch5_Partaken_2022]]

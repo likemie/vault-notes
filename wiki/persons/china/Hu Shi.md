@@ -1,6 +1,7 @@
 ---
 title: Hu Shi
 aliases:
+  - Hu, S.
   - 胡适
   - Hu Shih
 summary: "中国现代作家、哲学家，新文化运动核心人物，杜威在哥伦比亚大学的学生与在华主要翻译者，将实用主义作为打倒迷信的武器引入中国"
@@ -23,14 +24,15 @@ related_facts:
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
 related_arguments: []
-sources:
-  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-06-08'
+family_name: Hu
+given_names: Shi
+initials: S.
+citation_name: Hu
 ---
-
 # Hu Shi
 
 ## 简介
@@ -77,7 +79,3 @@ updated: 2026-05-26
 > - 胡适对[[John Dewey|杜威]]的极端化呈现使[[Pragmatic Paradigm|实用主义]]"不可能实现任何温和改革者的妥协"（Schulte, 2009, p.72），这可能偏离了杜威渐进主义（gradualism）的本意。
 > - 其全盘否定东方文明、全面崇拜西方文明的立场遭到传统主义者梁漱溟、乃至不同政治立场知识分子的广泛批评（Schulte, 2009, pp.72–73）。
 > - 共产主义革命后，胡适被定性为"走狗"（zougou），其思想在 1950 年代遭受系统批判（Schulte, 2009, p.80）。
-
-## 来源
-
-- [[Schulte_2009_EncuentrosEducacion]]

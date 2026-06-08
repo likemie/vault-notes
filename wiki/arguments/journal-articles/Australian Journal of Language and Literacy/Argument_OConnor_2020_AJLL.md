@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（[[Meta-meta-analysis]]）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？（O'Connor, 2020, p.142）
+> Hattie 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（[[Meta-meta-analysis]]）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？（O'Connor, 2020, p.142）
 
 ## 理论框架
 
@@ -57,7 +57,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：对 [[John Hattie|Hattie]] 在[[Whole Language|全语言]]部分的四项[[Meta-analysis|元分析]]进行**细读**（close reading）和**方法论审查**
+> - 方法：对 Hattie 在[[Whole Language|全语言]]部分的四项[[Meta-analysis|元分析]]进行**细读**（close reading）和**方法论审查**
 > - 数据来源：*[[Visible Learning]]*（Hattie, 2009）中关于全语言的 5 段文本（1.5 页）；四项元分析的原文和次级文献（包括 Krashen, 2002; McGee & Lomax, 1990; Schickedanz, 1990; Edelsky, 1994 等）
 > - 范围：4 项元分析、共 64 项原始研究（O'Connor, 2020, p.143）
 
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > O'Connor 的论证分三步展开：
 >
-> ### 1. [[John Hattie|Hattie]] 对[[Whole Language|全语言]]的评估存在方法论缺陷
+> ### 1. Hattie 对[[Whole Language|全语言]]的评估存在方法论缺陷
 >
 > 四项[[Meta-analysis|元分析]]中的一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（language experience approach）而非全语言。该元分析包含 1960 年代早期的研究——在全语言 1970 年代首次出现之前。Stahl 本人后来承认将两者等同是"时代错误的"（Stahl, McKenna, & Pagnucco, 1994），但 Hattie 仍然不加说明地将其纳入全语言[[Effect Size|效应量]]计算（O'Connor, 2020, pp.144-145）。
 >
@@ -89,7 +89,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **[[Whole Language|全语言]]被错误评估**：[[John Hattie|Hattie]] 的全语言[[Effect Size|效应量]] d=0.06 是通过对有缺陷的数据（包括研究[[Language Experience Approach|语言经验法]]而非全语言的[[Meta-analysis|元分析]]）进行不加权算术平均（(0.09+0.15+0.65+(-0.65))/4=0.06）计算得出的（p.145）
+> 1. **[[Whole Language|全语言]]被错误评估**：Hattie 的全语言[[Effect Size|效应量]] d=0.06 是通过对有缺陷的数据（包括研究[[Language Experience Approach|语言经验法]]而非全语言的[[Meta-analysis|元分析]]）进行不加权算术平均（(0.09+0.15+0.65+(-0.65))/4=0.06）计算得出的（p.145）
 > 2. **不对称审查**：Jeynes & Littell 的 d=-0.65 被不加批判地接受；Gee 的 d=+0.65 被选择性修正为零（pp.145-148）
 > 3. **先验偏见**：Hattie 对[[Direct Instruction|直接教学]]的热情和对"[[Constructivist Paradigm|建构主义]]潮流"、"[[Jean-Jacques Rousseau|卢梭]]式方法"的明确敌意——加上对 Jeynes（福音派牧师、共和党关联）潜在偏见的忽视—��表明其结论更多反映立场而非数据（pp.147-150）
 > 4. **对 Jeynes & Littell 的作者偏见问题**：William H. Jeynes 是福音派牧师和 God's Love Ministries 创始人，有密切的共和党关联，曾进入 Trump 教育部长 12 人选名单。其学术出版物包括宗教学校的元分析、父母再婚对儿童影响、圣经读写与学业成绩关系等。Hattie 未考虑 Jeynes 的潜在偏见——尽管 Hattie 自己强调了研究者"镜头"的重要性（pp.147-148）
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "如果在 [[Visible Learning]] 中呈现的[[Whole Language|全语言]]效果大小 d = 0.06是正确的，这将意味着全语言课堂中的学生学到的东西与从未踏入学校的学生一样多。"（p.142，转述）
 >
-> > "在 Visible Learning 中超过 800 项[[Meta-analysis|元分析]]中，仅此一项——发现全语言教学有正面影响的元分析——被 [[John Hattie|Hattie]] 通过选择性消除某些研究而修正了[[Effect Size|效应量]]。"（p.148）
+> > "在 Visible Learning 中超过 800 项[[Meta-analysis|元分析]]中，仅此一项——发现全语言教学有正面影响的元分析——被 Hattie 通过选择性消除某些研究而修正了[[Effect Size|效应量]]。"（p.148）
 >
 > > "试图通过 Visible Learning 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。"（p.149）
 
@@ -109,7 +109,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 论文仅审查了 VL 中[[Whole Language|全语言]]这一方面（4 项[[Meta-analysis|元分析]]，64 项研究），未对 VL 其他领域进行系统审查
 > - 论文作者是小学教师和全语言实践者，可能被视为具有自身立场偏向——但作者明确公开了自身立场（曾在 RMIT 大学学习，导师包括全语言倡导者）
-> - 论文未进行独立的重新元分析——它依赖对 [[John Hattie|Hattie]] 方法的批判性审查和既有的次级文献
+> - 论文未进行独立的重新元分析——它依赖对 Hattie 方法的批判性审查和既有的次级文献
 
 ## 来源
 

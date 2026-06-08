@@ -24,14 +24,15 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Socrates
+given_names: 
+initials: 
+citation_name: Socrates
 ---
-
 # Socrates
 
 ## 简介
@@ -93,7 +94,3 @@ updated: 2026-05-22
 > - "[[Plato|柏拉图]]的苏格拉底"与"历史上的苏格拉底"之间的区分是柏拉图研究中的经典难题——Li 承认了这一区分但选择以"柏拉图的苏格拉底"为讨论对象（Li, 2012, p.27 脚注 1）
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

@@ -1,6 +1,7 @@
 ---
 title: J. David Creswell
 aliases:
+  - Creswell, J. D.
   - J. 大卫·克雷斯维尔
   - David Creswell
 summary: "美国心理学家，卡内基梅隆大学心理学教授，研究方向为压力下的心理韧性，与父亲 John W. Creswell 合著研究设计教材"
@@ -22,14 +23,15 @@ related_persons:
   - "[[John W. Creswell]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: '2026-06-08'
+family_name: Creswell
+given_names: J. David
+initials: J. D.
+citation_name: Creswell
 ---
-
 # J. David Creswell
 
 ## 简介
@@ -64,7 +66,3 @@ updated: 2026-05-30
 > - 在压力韧性和正念研究领域获得三个主要心理学学术组织的早期职业奖认可。
 > - 共同主编 Handbook of Mindfulness，为正念研究的学术化提供了重要参考工具。
 > - 16 年的研究方法教学经验影响了心理学学科内大量学生和年轻研究者。
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

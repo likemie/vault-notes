@@ -1,6 +1,7 @@
 ---
 title: Jacob Cohen
 aliases:
+  - Cohen, J.
   - 雅各布·科恩
 summary: "美国统计学家，Cohen’s d 与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。"
 type: person
@@ -21,15 +22,15 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Allerup_2015_Paideia]]"
-  - "[[Terhart_2011_JCS]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Cohen
+given_names: Jacob
+initials: J.
+citation_name: Cohen
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -67,8 +68,3 @@ updated: '2026-05-19'
 
 > [!warning] 争议与批评
 > - Cohen 的 small/medium/large 分类是经验性参照，不是教育实质重要性的自动判断。这些标签只有在缺少更好估计基础时才适用；若被用作跨教学干预排序的固定尺度，就会遮蔽样本量、分布形态和研究设计差异（Allerup, 2015, pp.43–45）。
-
-## 来源
-
-- [[Allerup_2015_Paideia]]
-- [[Terhart_2011_JCS]]

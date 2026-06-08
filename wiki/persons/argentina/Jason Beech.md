@@ -1,8 +1,8 @@
 ---
 title: Jason Beech
 aliases:
-  - 贾森·比奇
   - Beech, J.
+  - 贾森·比奇
 summary: "阿根廷圣安德烈斯大学教育学者，研究教育话语的跨空间流通、政策借用与比较教育方法论，提出关系性空间和 ANT 视角"
 type: person
 nationality: argentina
@@ -23,14 +23,15 @@ related_persons:
 related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments: []
-sources:
-  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Beech
+given_names: Jason
+initials: J.
+citation_name: Beech
 ---
-
 # Jason Beech
 
 ---
@@ -67,7 +68,3 @@ updated: 2026-06-07
 > - Beech, J., & Barrenechea, I. (2011). Pro-market educational governance: Is Argentina a black swan? *Critical Studies in Education*, 52(3), 279–293.
 
 ---
-
-## 来源
-
-- [[Beech_2015_GSE]]

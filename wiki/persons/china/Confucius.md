@@ -30,15 +30,15 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
-  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Confucius
+given_names: 
+initials: 
+citation_name: Confucius
 ---
-
 # Confucius
 
 ## 简介
@@ -127,8 +127,3 @@ Li 强调，孔子的力量不在于政治体制，甚至不在于学生从政�
 > - 孔子在 20 世纪中国现代化进程中常被等同于封建政治体制而遭到否定。Li 指出，近代中国知识分子的一个核心混淆是"将一个国家的政治体制等同于其文化"——文化比任何政治体制都更大、更持久（Li, 2012, p.11）
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]
-- [[Schulte_2009_EncuentrosEducacion]]

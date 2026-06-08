@@ -400,7 +400,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > - [[Innovation Ecosystem]] — 产学合作发生在创新生态系统内部；大学作为生态系统的"锚点"，通过与企业和其他机构的互动催化知识创造和商业化（pp.12–13）
 > - Kerr 的 [[Multi-University]] 概念（2001）— 多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报（研究与学术、教育与学习、公共效益），同时财务资源和声誉是维持多元大学运转的必要条件（pp.5–7）
 > - [[Values Alignment Model|价值对齐模型]] — Swick 和 Jones（2025, pp.190–191）提出以促进者（如 [[Academic Health System|AHS]]）为枢纽，通过终端用户中心的透镜重新对齐大学、产业和医院各方的优先差异与 [[Return on Investment|ROI]] 定义。该模型为理解产学合作中目标对齐的操作机制提供了框架
-> - [[King-Persily Model|King-Persily 模型]] — [[Edmund King|King]] 和 Persily（2019）提出通过独立第三方委员会解耦研究者对产业数据的完全访问，解决产学合作中的数据治理与专有信息保护矛盾（Swick & Jones, 2025, pp.188–189）
+> - [[King-Persily Model|King-Persily 模型]] — King 和 Persily（2019）提出通过独立第三方委员会解耦研究者对产业数据的完全访问，解决产学合作中的数据治理与专有信息保护矛盾（Swick & Jones, 2025, pp.188–189）
 > - 合作光谱 — Swick 和 Jones（2025, p.187, Fig. 10.4）从创新来源和伙伴角色的角度补充了另一种视角：合作从"交易型"（产业出创新、大学出场景）到"创新型"（大学出创新、产业出规模化能力）。详见 [[Partnership Continuum]]
 
 ---

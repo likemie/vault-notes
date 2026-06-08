@@ -1,8 +1,8 @@
 ---
 title: Bruno Latour
 aliases:
-  - 布鲁诺·拉图尔
   - Latour, B.
+  - 布鲁诺·拉图尔
 summary: "法国社会学家和哲学家，行动者网络理论的创始人之一，以对科学实践的社会学研究和后人类主义社会理论闻名"
 type: person
 nationality: france
@@ -19,14 +19,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Latour
+given_names: Bruno
+initials: B.
+citation_name: Latour
 ---
-
 # Bruno Latour
 
 ---
@@ -59,7 +60,3 @@ updated: 2026-06-07
 > - Latour, B. (2005). *Reassembling the Social: An Introduction to [[Actor-Network Theory]]*. Oxford University Press.
 
 ---
-
-## 来源
-
-- [[Beech_2015_GSE]]

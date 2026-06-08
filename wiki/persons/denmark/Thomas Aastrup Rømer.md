@@ -1,6 +1,7 @@
 ---
 title: Thomas Aastrup Rømer
 aliases:
+  - Rømer, T. A.
   - 托马斯·奥斯特鲁普·勒默
 summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评价概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。"
 type: person
@@ -27,18 +28,17 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Lars Qvortrup]]"
 related_arguments: []
-sources:
-  - "[[Romer_2018_EPT]]"
-  - "[[Qvortrup_2019_NordSTEP]]"
-  - "[[Hattie_2015_SOTLP]]"
 related_facts:
   - "[[Hattie på dansk]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Rømer
+given_names: Thomas Aastrup
+initials: T. A.
+citation_name: Rømer
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -101,9 +101,3 @@ updated: '2026-05-19'
 
 > [!warning] 被纳入"解释社群"分析的限制
 > Qvortrup (2019, p.3-5) 使用 Fish (1980) 的解释社群概念将丹麦 Hattie 批评者——包括 Rømer——整体定性为一个在短期内形成广泛误解的社群。但 Rømer 的 2018 年 *EPAT* 论文提出了五线系统哲学论证，其批评的学术实质可能超出了"误解"的解释范围。
-
-## 来源
-
-- [[Romer_2018_EPT]]
-- [[Qvortrup_2019_NordSTEP]]
-- [[Hattie_2015_SOTLP]]

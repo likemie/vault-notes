@@ -84,7 +84,7 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 > [!example] 主要案例
 > - **[[Cognition Education|Cognition Education]]**（新西兰最大 EMO）— 起源于 Multi Serve Education Trust (1989)，2010 年收入达 USD 69M，2015 年降至 USD 28M；以商业运作 [[John Hattie]] 的 Visible Learningplus 为核心品牌（O'Neill et al., 2016, pp.65–75）
 > - **CORE Education**（新西兰第二大 EMO）— 专注于学习技术和数字环境，约 85% 年收入来自教育部合同（2014–2015），收入从 2010 年 USD 7.8M 增长至 2015 年 USD 22.7M（O'Neill et al., 2016, pp.76–85）
-> - **[[Karl Pearson|Pearson]]** — 全球最大教育组织，40,000 名员工遍布 70+ 国家，2015 年销售额约 £4.5B，以教育服务、思想领导力和风险投资品牌运营（O'Neill et al., 2016, pp.59–64）
+> - **Pearson** — 全球最大教育组织，40,000 名员工遍布 70+ 国家，2015 年销售额约 £4.5B，以教育服务、思想领导力和风险投资品牌运营（O'Neill et al., 2016, pp.59–64）
 
 ## 与相关概念的区别
 

@@ -44,12 +44,12 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 尽管 [[John Hattie|Hattie]] 的 [[Visible Learning]] 存在大量已记录的方法论缺陷，为什么它在全球教育政策制定者、教师和教育研究者中仍然如此受欢迎？
+> 尽管 Hattie 的 [[Visible Learning]] 存在大量已记录的方法论缺陷，为什么它在全球教育政策制定者、教师和教育研究者中仍然如此受欢迎？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心[[Analytic Framework|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 [[John Hattie|Hattie]] 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
+> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心[[Analytic Framework|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 Hattie 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
 
 ## 研究方法
 
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 > - 垃圾进垃圾出：纳入低质量研究
 > - 统计问题：效应量计算错误（Bergeron, 2017; Simpson, 2017; Topphol, 2011）
 >
-> 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 [[John Hattie|Hattie]] 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"（Qvortrup, 2015），有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"（Hansen et al., 2015, p. 7）。
+> 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 Hattie 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"（Qvortrup, 2015），有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"（Hansen et al., 2015, p. 7）。
 >
 > ### 2. Hattie 提供的是理论而非数据
 >
@@ -124,7 +124,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - **VL 的流行是合法化危机的症状，而非教育科学进步的标志**（pp. 86-88）
-> - **[[John Hattie|Hattie]] 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架（p. 87）
+> - **Hattie 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架（p. 87）
 > - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求**：学生被原子化为[[Variable|变量]]，学习目标不容讨论（pp. 88-89）
 > - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"**（p. 89）
 
@@ -134,8 +134,8 @@ updated: '2026-05-18'
 > > “可见的学习所取得的成就……是提供了一种直接挑战对教育角色传统理解的……[[Didaktik|教学理论]]。”
 > ("What [[Visible Learning]] accomplishes... is to supply a theory of teaching... that directly challenges traditional understandings of the role of education.") (p. 83)
 >
-> > “真正产生影响的，并非[[John Hattie|Hattie]]所做出的科学发现或原始数据，也非证据为本运动本身，而是[[Technical Rationality|技术理性]]理论中所蕴含的能够使教育系统合法化的承诺。”
-> ("It was not the scientific discoveries or the original data produced by [[John Hattie|Hattie]] or the evidence-based movement in itself that made a difference but the promises embedded in the theory of [[Technical Rationality]] that could legitimize the educational system.") (p. 87)
+> > “真正产生影响的，并非Hattie所做出的科学发现或原始数据，也非证据为本运动本身，而是[[Technical Rationality|技术理性]]理论中所蕴含的能够使教育系统合法化的承诺。”
+> ("It was not the scientific discoveries or the original data produced by Hattie or the evidence-based movement in itself that made a difference but the promises embedded in the theory of [[Technical Rationality]] that could legitimize the educational system.") (p. 87)
 >
 > > “教育效应（[[Effect Size|效应量]]）的原子化，同时也就变成了将学生和教师原子化为一系列[[Variable|变量]]。”
 > ("The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]].") (p. 88)
@@ -146,7 +146,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为理论分析而非实证研究——其对 [[John Hattie|Hattie]] 流行原因的解释（合法化危机）是对 VL 方法论批评的补充而非替代
+> - 论文为理论分析而非实证研究——其对 Hattie 流行原因的解释（合法化危机）是对 VL 方法论批评的补充而非替代
 > - 论文将 VL 的全球流行与丹麦的具体经验（2014 年义务教育改革）紧密关联——丹麦的情境特殊性可能限制分析的跨情境推广
 > - 对"如何替代[[Technical Rationality|技术理性]]"的正面建议仅停留在方向性层面（"从研究学生为什么参与学校实践开始"），缺乏具体的替代框架
 

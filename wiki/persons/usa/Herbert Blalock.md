@@ -1,6 +1,7 @@
 ---
 title: Herbert Blalock
 aliases:
+  - Blalock, H.
   - 赫伯特·布莱洛克
 summary: "美国社会学家和计量方法论学者，因果建模和社会科学统计方法的先驱，推动将口头理论转化为形式化因果模型以澄清变量间关系"
 type: person
@@ -19,14 +20,15 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: '2026-06-08'
+family_name: Blalock
+given_names: Herbert
+initials: H.
+citation_name: Blalock
 ---
-
 # Herbert Blalock
 
 ## 简介
@@ -56,7 +58,3 @@ updated: 2026-05-31
 > - Blalock 的[[Causal Modeling|因果建模]]方法为后来的路径分析（path analysis）和[[Causal Modeling|结构方程建模]]（[[Causal Modeling|SEM]]）提供了概念基础
 > - 他的视觉因果图符号规则至今仍是[[Quantitative Research|量化研究]]论文中绘制理论模型图的基本规范
 > - Jungnickel (1990) 在其博士论文中遵循 Blalock 的符号规则构建了关于药学院教师研究生产力的复杂视觉模型（Creswell & Creswell, 2022, pp.59–60）
-
-## 来源
-
-- [[Creswell_2022_SAGE]]

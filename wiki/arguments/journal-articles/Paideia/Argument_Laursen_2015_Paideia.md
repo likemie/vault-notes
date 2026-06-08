@@ -45,13 +45,13 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Visible Learning]] — [[John Hattie|Hattie]] 的研究综合是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦（Laursen, 2015, p.34）。
+> - [[Visible Learning]] — Hattie 的研究综合是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦（Laursen, 2015, p.34）。
 > - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异假设：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生（Laursen, 2015, pp.36–37）。
 
 ## 核心论证
 
 > [!example] 核心论证
-> Laursen 的论证分三步：先概括 [[John Hattie|Hattie]]、Meyer、Helmke 三个国际研究综合对[[Effective Teaching|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 SFI 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致（Laursen, 2015, pp.35–40）。
+> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际研究综合对[[Effective Teaching|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 SFI 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致（Laursen, 2015, pp.35–40）。
 >
 > ### 国际综合的共同结论
 >
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 > - 三个国际综合基本一致：[[Effective Teaching|有效教学]]的核心质量是教师领导、清晰目标、个体适配、良好气氛和学生主动参与，而不是某种固定教学方法（Laursen, 2015, pp.35–36）。
 > - 丹麦 SFI 研究显示，明确一致的[[Classroom Management|课堂管理]]、清晰目标、高要求和良好社会环境促进学生成绩；教师在班级团队中的合作也与更好结果相关（Laursen, 2015, p.37）。
 > - 丹麦证据与国际研究一致地显示，弱社会背景学生特别依赖清晰教师领导与目标，而开放教学对这类学生较不利（Laursen, 2015, p.38）。
-> - 丹麦研究没有显示教学差异化能显著提升学生学习。这一点与 [[John Hattie|Hattie]] 对[[Individualised Instruction|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应（Laursen, 2015, p.38）。
+> - 丹麦研究没有显示教学差异化能显著提升学生学习。这一点与 Hattie 对[[Individualised Instruction|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应（Laursen, 2015, p.38）。
 > - 频繁测试是丹麦证据与国际综合之间的主要偏差：SFI 和 Mehlbye 发现，丹麦学生在测试较频繁时学得更多；Mehlbye 还发现测试受到学生欢迎。这与 Hattie 关于频繁测试没有显著积极效果的结论不同（Laursen, 2015, pp.38–39）。
 > - SFI 关于反馈的零效应不应被过度解释，因为相关问项只询问教师是否告诉学生其发展或表现如何，没有捕捉"下一步怎样改进"这一反馈核心（Laursen, 2015, p.39）。
 > - Laursen 的最终区分是：语境当然重要，但学生社会背景这一语境比国家文化这一语境更能解释"什么有效"的差异（Laursen, 2015, p.40）。

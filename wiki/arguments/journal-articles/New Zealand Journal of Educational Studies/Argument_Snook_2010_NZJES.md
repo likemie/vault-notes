@@ -48,24 +48,24 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 对 [[John Hattie|Hattie]] (2010) 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 Snook et al. (2009) 批评的回应是否充分解决了实质性的方法论关切？
+> 对 Hattie (2010) 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 Snook et al. (2009) 批评的回应是否充分解决了实质性的方法论关切？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，继续以教育哲学和研究方法论视角进行批判性回应。重申 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（[[John Hattie|Hattie]], 2009, p.247, quoted p.97）。
+> 未采用特定理论框架，继续以教育哲学和研究方法论视角进行批判性回应。重申 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Hattie, 2009, p.247, quoted p.97）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：学术回应（academic reply），非实证研究
-> - 回应对象：[[John Hattie|Hattie]] (2010) 中对 Snook et al. (2009) 的直接和间接批评
+> - 回应对象：Hattie (2010) 中对 Snook et al. (2009) 的直接和间接批评
 > - 分析维度：非学校因素、研究质量、偏差控制、[[Effect Size|效应量]]平均化、[[Class Size|班级规模]]、[[Meta-analysis|元分析]]在教育中的适用性
 
 ## 核心论证
 
 > [!example] 核心论证
-> Snook et al. 逐一回应 [[John Hattie|Hattie]] (2010) 的辩护，论证其未能充分解决 2009 年提出的方法论关切：
+> Snook et al. 逐一回应 Hattie (2010) 的辩护，论证其未能充分解决 2009 年提出的方法论关切：
 >
 > 1. **非学校因素**：Hattie 承认自己选择性地搁置了这些因素——"不是不重要，只是不在我的轨道内"（Hattie, 2009, pp.x-xi）——但这正是问题所在：政策制定者很容易忘记这一重要限定（p.94）。Hattie 自己的研究也证实家庭背景是影响学业成就的最重要[[Variable|变量]]
 >
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 ## 主要发现（总结立场）
 
 > [!success] 主要发现
-> - Snook et al. 重申他们 2009 年文章的三项目标议程：基于仔细阅读 VL 的讨论、注意 [[John Hattie|Hattie]] 本人提出的限定条件、防止研究发现被政治和意识形态利益"挪用"（p.93）
+> - Snook et al. 重申他们 2009 年文章的三项目标议程：基于仔细阅读 VL 的讨论、注意 Hattie 本人提出的限定条件、防止研究发现被政治和意识形态利益"挪用"（p.93）
 > - 与 Hattie 一致认为学术批评应聚焦观点而非人身攻击，双方均声称遵循此原则（p.94）
 > - [[Meta-analysis|元分析]]的方法论常模糊而非照亮良好政策决策所需的信息，"[[Effect Size|效应量]]"清单鼓励对复杂教育问题的银弹式回应（p.97）
 > - 许多成功学校和课堂的案例研究展示了实际互动效应的运作——一个有洞察力的干预可以抵消其他影响，即使后者有更大的效应量（p.97）
@@ -101,7 +101,7 @@ updated: '2026-05-18'
 > ("The methodology involved in meta-analyses often obscures rather than illuminates what is needed for good policy decisions. The grouping of various factors into one '[[Effect Size]]' often hides the complexity of the issues.") (p.97)
 >
 > > “证据并不为我们提供行动规则，而仅仅为我们提供了用于智能解决问题的假设，以及用于质询我们教育目的的假设。”
-> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.") ([[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2009, p.247; quoted p.97)
+> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.") (Dewey, quoted in Hattie, 2009, p.247; quoted p.97)
 >
 > > “尽管有许多已发表的教育研究报告，但在识别那些对课堂教学与学习有可信说法的报告时，你需要非常具有选择性。”
 > ("Although there are many published reports of educational research, you need to be very selective in identifying those that have something trustworthy to say about classroom teaching and learning.") (Nuthall, 2007, p.16, quoted p.97)
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为 Snook et al. (2009) 和 [[John Hattie|Hattie]] (2010) 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
+> - 论文为 Snook et al. (2009) 和 Hattie (2010) 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
 > - 未对 Hattie (2010) 提出的"学者作为社会批评者与良知"角色讨论做出系统性回应，将其视为"另一场合的辩论"（p.94）
 > - 对户外教育 d=0.17 效应的误解（在 2009 原文中指出的错误）得到了承认和撤回（p.96）
 > - 两位作者（Anne-Marie O'Neill 和 John O'Neill）在回应自己的批评时作为共同作者，存在立场重叠

@@ -1,6 +1,7 @@
 ---
 title: Robert Cowen
 aliases:
+  - Cowen, R.
   - 罗伯特·考恩
 summary: "英国比较教育学者，以 transitology、现代／晚期现代教育双轴比较模型和 3T 框架（Transfer, Translation, Transformation）三个核心概念框架分析教育与社会转型及跨国知识流动"
 type: person
@@ -28,17 +29,15 @@ related_persons:
 related_facts:
   - "[[Regional University Alliances]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2009_CE]]"
-  - "[[Ch4_Amos_2022]]"
-  - "[[Cowen_2023_CE]]"
-  - "[[Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-06-06
+updated: '2026-06-08'
+family_name: Cowen
+given_names: Robert
+initials: R.
+citation_name: Cowen
 ---
-
 # Robert Cowen
 
 ---
@@ -140,10 +139,3 @@ updated: 2026-06-06
 > 移动即变形。
 
 ---
-
-## 来源
-
-- [[Cowen_2009_CE]]
-- [[Ch4_Amos_2022]]
-- [[Cowen_2023_CE]]
-- [[Zhou_2024_CE]]

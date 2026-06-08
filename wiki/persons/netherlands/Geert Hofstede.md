@@ -1,6 +1,7 @@
 ---
 title: Geert Hofstede
 aliases:
+  - Hofstede, G.
   - 吉尔特·霍夫斯泰德
 summary: "荷兰组织社会心理学家，文化维度理论提出者，为教育研究比较国家文化差异与课堂、学校组织提供常用框架。"
 type: person
@@ -16,14 +17,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Hofstede
+given_names: Geert
+initials: G.
+citation_name: Hofstede
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -45,7 +47,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Hofstede 的文化框架被批评为过于封闭、不可变且国家化，没有充分反映快速变化、全球化世界中文化的开放性和流动性（Laursen, 2015, p.37）。
 > - Laursen 进一步怀疑，Hofstede 对"丹麦国家文化"的画像可能更准确地描述受教育中产阶级文化，而不是所有丹麦学生共享的文化（Laursen, 2015, p.40）。
-
-## 来源
-
-- [[Laursen_2015_Paideia]]

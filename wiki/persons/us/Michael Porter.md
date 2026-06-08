@@ -1,6 +1,7 @@
 ---
 title: Michael Porter
 aliases:
+  - Porter, M.
   - 迈克尔·波特
 summary: "美国经济学家和管理学者，竞争战略与国家竞争优势理论代表人物，为教育研究理解知识经济、大学竞争与政策空间想象提供外部理论资源。"
 type: person
@@ -22,14 +23,15 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Porter
+given_names: Michael
+initials: M.
+citation_name: Porter
 ---
-
 ## 简介
 
 > [!info]
@@ -88,7 +90,3 @@ Moisio（2022, pp.26–27）从[[Critical Geopolitics|批判地缘政治学]]视
 - 在[[Knowledge-Based Economization|知识经济化]]的城市政策中，Porter 的逻辑体现为各国竞相打造"国家冠军城市"和"[[Innovation Ecosystem|创新生态系统]]"
 
 ---
-
-## 来源
-
-- [[Ch2_Moisio_2022]]

@@ -33,14 +33,15 @@ related_persons:
   - "[[Xunzi]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Mencius
+given_names: 
+initials: 
+citation_name: Mencius
 ---
-
 # Mencius
 
 ## 简介
@@ -126,7 +127,3 @@ updated: 2026-05-22
 > - 孟子的"性善论"在后世儒学中引发持续争论——[[Xunzi|荀子]]（约 313-238 BCE）即持"性恶论"立场，认为道德需要通过外部教化而非内在发展来实现。这一辩论（性善 vs 性恶）构成中国哲学史上的核心分歧之一
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

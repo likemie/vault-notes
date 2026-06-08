@@ -1,7 +1,7 @@
 ---
 title: John Locke
 aliases:
-  - Locke
+  - Locke, J.
   - 约翰·洛克
 summary: 英国哲学家与医生，经验论奠基人与自由主义政治哲学之父，以白板说挑战先天论，以自然权利论奠定现代民主宪政的思想基础
 type: person
@@ -31,14 +31,15 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: '2026-06-08'
+family_name: Locke
+given_names: John
+initials: J.
+citation_name: Locke
 ---
-
 # John Locke
 
 ## 简介
@@ -123,7 +124,3 @@ updated: 2026-05-22
 > - **财产权论证**：洛克以劳动作为财产权的基础——"人将自己的劳动混合到自然物中，就使它成为自己的财产"——但这一论证在殖民语境中常被用来为掠夺原住民土地辩护（待核）
 
 ---
-
-## 来源
-
-- [[Li_2012_Cambridge]]

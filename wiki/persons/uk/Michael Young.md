@@ -1,6 +1,7 @@
 ---
 title: Michael Young
 aliases:
+  - Young, M.
   - 迈克尔·杨
   - M. F. D. Young
   - Young, M. F. D.
@@ -21,14 +22,15 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: '2026-06-08'
+family_name: Young
+given_names: Michael
+initials: M.
+citation_name: Young
 ---
-
 # Michael Young
 
 ---
@@ -64,7 +66,3 @@ updated: 2026-06-07
 > - 继承涂尔干的知识社会学传统
 
 ---
-
-## 来源
-
-- [[McPhail_2023_JCS]]

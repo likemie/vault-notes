@@ -1,6 +1,7 @@
 ---
 title: Carl Bereiter
 aliases:
+  - Bereiter, C.
   - 卡尔·贝赖特
 summary: "加拿大教育理论家，知识建构理论代表人物，为教育研究理解学习共同体、知识创造与认知发展提供关键框架。"
 type: person
@@ -16,16 +17,15 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources:
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Qvortrup_2015_Paideia]]"
-  - "[[Romer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Bereiter
+given_names: Carl
+initials: C.
+citation_name: Bereiter
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -70,9 +70,3 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Rømer (2018, p.10) 指出 Bereiter 对 Popper 的化简——将 World 3 缩减为"真理与非真理"——为 [[John Hattie|Hattie]] 的进一步误读打开了大门，后者最终将 World 3 的客观性完全塌缩为 World 2 的主观学习。Hattie (2015) 在此误读基础上将表层/深层/建构性学习映射到 Popper 三个世界，形成 VL 的认识论框架
 > - Qvortrup (2015) 从较温和的内部修正角度指出，Hattie 借 Bereiter/Popper 得到的三类知识，与 Bloom 修订版四类知识、SOLO 模型之间的对应关系并不清楚；因此需要转向[[Dynamic Knowledge and Learning Model]]，用一阶到四阶知识说明不同知识形式之间的动态关系（Qvortrup, 2015, pp.30–32）
-
-## 来源
-
-- [[Hattie_2015_SOTLP]]
-- [[Qvortrup_2015_Paideia]]
-- [[Romer_2018_EPT]]

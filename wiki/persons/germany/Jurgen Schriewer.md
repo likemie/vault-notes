@@ -1,6 +1,7 @@
 ---
 title: Jurgen Schriewer
 aliases:
+  - Schriewer, J.
   - 于尔根·施里韦尔
 summary: "德国比较教育学者，系统理论与外化概念引入者，为教育研究分析政策借用与跨国参照提供方法论资源。"
 type: person
@@ -21,14 +22,15 @@ related_methods: []
 related_persons:
   - "[[Niklas Luhmann]]"
 related_arguments: []
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Schriewer
+given_names: Jurgen
+initials: J.
+citation_name: Schriewer
 ---
-
 ## 简介
 
 > [!info] 简介
@@ -82,7 +84,3 @@ updated: '2026-05-19'
 > - Schriewer 的[[Externalization|外化]]概念被 Steiner-Khamsi 的[[Policy Borrowing|政策借用]]框架采纳为核心机制
 > - 被 Rappleye (2006) 整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，作为连接结构推力和人的行动者的关键话语机制
 > - 影响了比较教育中"情境敏感性"研究的方法论发展
-
-## 来源
-
-- [[Rappleye_2006_RCIE]]

@@ -97,7 +97,7 @@ updated: 2026-05-26
 > [!tip]
 > - [[Third Generation Activity Theory]] — Wang & McLaughlin（2025）以此理论为框架，分析了 LCE 改革与[[Test-Based Accountability|考试问责]]两个活动系统之间的互动与边界跨越
 > - [[Constructivist Paradigm|建构主义]]（constructivism）— Bruner 的建构主义学习理论是 LCE 的核心认识论基础
-> - 社会文化理论（sociocultural theory）— [[Lev Vygotsky|Vygotsky]] 的社会文化理论强调学习的社会互动本质，为 LCE 中的对话与合作学习提供理论支持
+> - 社会文化理论（sociocultural theory）— Vygotsky 的社会文化理论强调学习的社会互动本质，为 LCE 中的对话与合作学习提供理论支持
 
 ---
 

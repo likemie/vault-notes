@@ -1,6 +1,7 @@
 ---
 title: Richard Castelo Branco
 aliases:
+  - Branco, R. C.
   - 理查德·卡斯特洛·布兰科
 summary: "巴西剧场导演和文化实践者，EspectAtor 方法开发者，为教育研究理解贫民窟剧场、参与式表演与抵抗性学习提供案例。"
 type: person
@@ -23,14 +24,15 @@ related_persons:
   - "[[Dell Delambre]]"
   - "[[Camilla de Hollanda Amado]]"
 related_arguments: []
-sources:
-  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-19'
+updated: '2026-06-08'
+family_name: Branco
+given_names: Richard Castelo
+initials: R. C.
+citation_name: Branco
 ---
-
 # Richard Castelo Branco
 
 ## 简介
@@ -73,7 +75,3 @@ updated: '2026-05-19'
 > [!success]
 > - EspectAtor 方法被 Delambre (2022) 定位为 [[Ganz-Methode]] 在文化实践领域的核心案例，将抽象的去殖民认识论转化为具体的剧场操作方法（Delambre, 2022, p.109–110）
 > - 通过"Bora Bora em Bando"项目，其工作获得了 [[Camilla de Hollanda Amado]]（巴西著名女演员和剧场导演）的支持和推广——Amado 的梦想是"看到贫民窟知识被用于国家发展"（Delambre, 2022, p.110）
-
-## 来源
-
-- [[Ch7_Delambre_2022]]
