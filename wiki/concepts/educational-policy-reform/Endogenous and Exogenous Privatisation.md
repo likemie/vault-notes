@@ -22,18 +22,14 @@ related_concepts:
   - "[[International Education]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Karl Pearson]]"
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[Teach First New Zealand]]"
   - "[[Australia in the Asian Century White Paper]]"
-related_arguments: []
-sources:
-  - "[[ONeill_2016_Report]]"
-  - "[[Ch6_Rizvi_2022]]"
+related_arguments:
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -43,12 +39,12 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-Ball 和 Youdell（2008）在其提交给 Education International 的报告中识别了全球公立学校政策中的两种私有化趋势（O'Neill et al., 2016, p.4）：
+Ball 和 Youdell（2008）在其提交给 Education International 的报告中识别了全球公立学校政策中的两种私有化趋势([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])：
 
 1. **内生私有化**（Endogenous privatisation）：学校变得更像企业或以企业方式运营——将私营部门的管理逻辑、绩效技术和商业实践引入公立学校系统内部
 2. **外生私有化**（Exogenous privatisation）：将私营部门带入公立学校——通过合同外包、[[Public-Private Partnership in Research|PPP]]、[[Partnership Schools Kura Hourua|特许学校]]等形式将教育服务的提供从公共部门转移到私营部门
 
-这两种趋势在 [[OECD]] 集团的早期教育、学校和高等教育系统中已得到相当充分的记录和理解（O'Neill et al., 2016, p.4）。
+这两种趋势在 [[OECD]] 集团的早期教育、学校和高等教育系统中已得到相当充分的记录和理解([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])。
 
 ---
 
@@ -64,7 +60,7 @@ Ball 和 Youdell（2008）在其提交给 Education International 的报告中�
 O'Neill 等指出，在过去十年中，私营部门参与教育政策制定的形式迅速变得更加多样化，同时更加不透明（opaque）。两种私有化形式的区分在新西兰语境中具有特定的分析价值：
 
 - **1990 年代–2000 年代初**：私营部门参与主要以合同外包服务形式交付已由政治家和公务员制定的政策举措（外生私有化）
-- **2008 年以来**：私营部门越来越多地参与政策制定本身（内生私有化的深化 + 外生私有化的拓展），且发生"在公众视线之外，通过精英个人和机构网络进行政策治理"（O'Neill et al., 2016, p.5）
+- **2008 年以来**：私营部门越来越多地参与政策制定本身（内生私有化的深化 + 外生私有化的拓展），且发生"在公众视线之外，通过精英个人和机构网络进行政策治理"([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.5]])
 
 ---
 
@@ -116,7 +112,3 @@ Rizvi 的分析揭示了：私有化不仅仅是"更多私营部门进入教育"
 
 ---
 
-## 来源
-
-- [[ONeill_2016_Report]]
-- [[Ch6_Rizvi_2022]]

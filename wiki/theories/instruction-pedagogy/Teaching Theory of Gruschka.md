@@ -23,8 +23,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-sources:
-  - "[[Ch14_Jornitz_2022]]"
 confidence: low
 status: draft
 created: 2026-05-20
@@ -39,7 +37,7 @@ updated: 2026-05-20
 > Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"整合性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in Jornitz & Klinge, 2022, pp.238–239）。
 
 > [!quote]
-> "Teaching is understood as a complex system of actions that consists of 'Bildung', education ('Erziehung') and didactics. All three aspects are interwoven in the action of teaching." (Jornitz & Klinge, 2022, p.238, summarizing Gruschka, 2009, 2013, 2019)
+> "Teaching is understood as a complex system of actions that consists of 'Bildung', education ('Erziehung') and didactics. All three aspects are interwoven in the action of teaching." ([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238, summarizing Gruschka, 2009, 2013, 2019]])
 > 
 > 教学被理解为一个复杂的行动系统，由人格陶成 (Bildung)、教育/教养 (Erziehung) 和教学法 (didactics) 组成。所有这三个方面在教学行动中相互交织。
 
@@ -62,11 +60,11 @@ updated: 2026-05-20
 
 ### 星座结构的哲学基础
 
-Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三要素之间的**非同一**关系（Jornitz & Klinge, 2022, p.238 fn.2）。在 Adorno 的用法中，星座是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全代表了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的执行工具，Erziehung 也不是 Bildung 的附属品。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
+Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三要素之间的**非同一**关系([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238 fn.2]])。在 Adorno 的用法中，星座是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全代表了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的执行工具，Erziehung 也不是 Bildung 的附属品。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
 
 ### 对数字学习工具的批判功能
 
-在 Jornitz & Klinge (2022) 的运用中，Gruschka 的教学理论被用作批判数字学习工具的[[Analytic Framework|分析框架]]。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供反馈），但在这个过程中，它们同时暗中重新定义了 Bildung 和 Erziehung——将理解简化为完成任务，将朝向 Bildung 的定向简化为对奖励系统的动机依赖（Jornitz & Klinge, 2022, pp.240–243）。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
+在 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] 的运用中，Gruschka 的教学理论被用作批判数字学习工具的[[Analytic Framework|分析框架]]。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供反馈），但在这个过程中，它们同时暗中重新定义了 Bildung 和 Erziehung——将理解简化为完成任务，将朝向 Bildung 的定向简化为对奖励系统的动机依赖([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240–243]])。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
 ... Applied fuzzy match at line 41-94.
 ## 发展脉络
 
@@ -76,7 +74,7 @@ Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三�
 > - Gruschka（2013）：*Unterrichten — eine pädagogische Theorie auf empirischer Basis*（教学——基于经验的教育理论）——将理论建立在对课堂教学的经验研究之上
 > - Gruschka（2019）：在 *Oxford Review of Education* 发表"A new way of understanding teaching: A German perspective"，将该理论引入国际学界
 
-该理论在德国国内讨论中处于中心地位，并通过 Uljens & Ylimaki（2017）的编著在国际和欧洲语境中获得日益增多的关注（Jornitz & Klinge, 2022, p.238）。
+该理论在德国国内讨论中处于中心地位，并通过 Uljens & Ylimaki（2017）的编著在国际和欧洲语境中获得日益增多的关注([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238]])。
 
 ## 争议与批评
 
@@ -90,6 +88,3 @@ Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三�
 > [!example]
 > - [[Argument_Jornitz_2022_Bildung_algorithmic]] — Jornitz & Klinge 以 Gruschka [[Didaktik|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
 
-## 来源
-
-- [[Ch14_Jornitz_2022]]

@@ -20,9 +20,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
-related_arguments: []
-sources:
-  - "[[Sarbiewska_2019_JSR]]"
+related_arguments:
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -36,7 +35,7 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 澳大利亚课程（Australian Curriculum）于 2012 年由澳大利亚课程评估与报告局（ACARA）董事会批准。课程包含三个维度（Sarbiewska, 2019, p.128）：
+> 澳大利亚课程（Australian Curriculum）于 2012 年由澳大利亚课程评估与报告局（ACARA）董事会批准。课程包含三个维度([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128]])：
 >
 > - **学习领域**（learning areas）— 传统学科内容
 > - **通用能力**（general capabilities）— 跨学科的[[21st Century Skills and Competencies Discourse|关键能力]]
@@ -50,20 +49,20 @@ updated: '2026-05-18'
 > - 2012 年 ACARA 董事会批准澳大利亚课程
 > - 2014 年联邦政府识别出课程过度拥挤问题
 > - 2015 年 3 月教育部长会议讨论课程改进
-> - 2015 年 3 月 12–13 日一线小学教师与 ACARA 官员合作，为小学课程的缩减、重新设计和重新平衡提供反馈（Sarbiewska, 2019, p.128）
+> - 2015 年 3 月 12–13 日一线小学教师与 ACARA 官员合作，为小学课程的缩减、重新设计和重新平衡提供反馈([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128]])
 > - ACARA 每年通过报告向政府和公众反馈课程有效性数据
 
 ## 实施情况
 
 > [!example] 实施情况
-> - ACARA 负责系统性地评估课程，收集反馈并分析课程有效性数据，每年向政府和公众报告（Sarbiewska, 2019, p.127）
+> - ACARA 负责系统性地评估课程，收集反馈并分析课程有效性数据，每年向政府和公众报告([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.127]])
 > - ACARA 董事会决定最新发现是否需要进一步评估和课程变更
-> - 澳大利亚学校实践"课程连接"（curriculum connection），被认为能有效促进师生协作，区别于主题式教学，有意识地维持各学习领域的严谨性同时通过连接赋权学习（Sarbiewska, 2019, p.128–129）
+> - 澳大利亚学校实践"课程连接"（curriculum connection），被认为能有效促进师生协作，区别于主题式教学，有意识地维持各学习领域的严谨性同时通过连接赋权学习([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128–129]])
 
 ## 效果与评价
 
 > [!success] 效果与评价
-> - 2014 年课程审查发现"课程过度拥挤"问题，随后采取步骤改进（Sarbiewska, 2019, p.127–128）
+> - 2014 年课程审查发现"课程过度拥挤"问题，随后采取步骤改进([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.127–128]])
 > - 课程连接方法被认为"不会失去个别学科的完整性"（ACARA, cited in Sarbiewska, 2019, p.128）
 
 ## 相关概念／理论
@@ -72,6 +71,3 @@ updated: '2026-05-18'
 > - [[Visible Learning]] — VL 为澳大利亚教学策略（如 [[Victorian HITS and Literacy Toolkit|HITS]]）提供研究基础
 > - [[Evidence-Based Education]] — 澳大利亚教师被提供数据收集和管理的专业指南
 
-## 来源
-
-- [[Sarbiewska_2019_JSR]]

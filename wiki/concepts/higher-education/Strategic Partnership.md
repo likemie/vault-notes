@@ -21,9 +21,9 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
-related_arguments: []
-sources:
-  - "[[Ch4_Burrus_Patera_2025]]"
+related_arguments:
+  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -38,14 +38,14 @@ updated: 2026-05-28
 > 产学战略伙伴关系（Strategic Partnership in [[University-Industry Collaboration]]）是产学互动的最高层次。与战术/交易型互动（tactical and transactional）和协作型互动（collaborations）不同，战略伙伴关系建立在信任、互利目标、持续联络和长期规划之上——它不是围绕单个项目的临时合作，而是一种制度化的、面向未来的联盟关系（Burrus & Patera, 2025, pp.78–79; [[University Industry Demonstration Partnership|UIDP]], 2012，引自 Ulrichsen, 2025, pp.45–46）。
 
 > [!quote]
-> "any UI relationship that aims to become a strategic partnership will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, setting and accounting of annual objectives, and adjusting, pivoting, and growing."（Burrus & Patera, 2025, p.78）
+> "any UI relationship that aims to become a strategic partnership will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, setting and accounting of annual objectives, and adjusting, pivoting, and growing."([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.78]])
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> 产学战略伙伴关系至少需要四个基本要素（Burrus & Patera, 2025, pp.78–79）：
+> 产学战略伙伴关系至少需要四个基本要素([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.78–79]])：
 
 1. **双方联络人（Points of Contact, POCs）**：大学和企业各指定一个固定的对接人。联络人不仅要了解各自组织的需求，还要有能力在组织内部协调资源、推动决策。缺少联络人，合作关系会在"不知道该找谁"中逐渐冷却。
 2. **共同认可的愿景与目标**：不是泛泛的"加强合作"，而是具体的、双方都签字认可的方向描述。大学和企业的目标不必完全一致——大学追求研究影响力和人才发展，企业追求技术获取和市场回报——但必须有明确交集且交集被双方明确表述。
@@ -57,7 +57,7 @@ updated: 2026-05-28
 ## 关系层次
 
 > [!abstract]
-> [[University Industry Demonstration Partnership|UIDP]]（2012）将产学互动区分为三个层次（Ulrichsen, 2025, pp.45–46）：
+> [[University Industry Demonstration Partnership|UIDP]]（2012）将产学互动区分为三个层次([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])：
 
 | 层次 | 特征 | 治理逻辑 |
 |------|------|----------|
@@ -65,14 +65,14 @@ updated: 2026-05-28
 | 协作型 | 持续合作，多个关联项目 | 关系管理 |
 | 战略伙伴关系 | 制度化联盟，覆盖多领域、多学科 | 战略对齐 |
 
-战略伙伴关系不一定涉及整个机构；事实上，从一个具体的聚焦点开始往往更容易，随后逐步扩展到更广泛的层面（Burrus & Patera, 2025, p.78）。
+战略伙伴关系不一定涉及整个机构；事实上，从一个具体的聚焦点开始往往更容易，随后逐步扩展到更广泛的层面([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.78]])。
 
 ---
 
 ## 生长路径
 
 > [!note]
-> 大多数产学战略伙伴关系不是顶层设计出来的，而是从一个小项目"生长"出来的。典型路径包含六个阶段（Burrus & Patera, 2025, p.79）：
+> 大多数产学战略伙伴关系不是顶层设计出来的，而是从一个小项目"生长"出来的。典型路径包含六个阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.79]])：
 
 1. 一个教师与一个产业研究者因共同兴趣启动一个小项目。
 2. 项目顺利完成，双方团队建立了初步信任。
@@ -94,6 +94,3 @@ updated: 2026-05-28
 
 ---
 
-## 来源
-
-- [[Ch4_Burrus_Patera_2025]]

@@ -23,9 +23,8 @@ related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[My Pledge to Act]]"
-related_arguments: []
-sources:
-  - "[[Vickers_2024_CE]]"
+related_arguments:
+  - "[[Argument_Vickers_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -37,20 +36,20 @@ updated: 2026-05-25
 ## 背景
 
 > [!info]
-> 2022 年 7 月习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局（Home and Youth Affairs Bureau）正式成立。在此背景下，港府于 2022 年 12 月发布《青年发展蓝图》（Youth Development Blueprint），作为特区政府首份系统的青年政策文件（Vickers, 2024, p.153）。
+> 2022 年 7 月习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局（Home and Youth Affairs Bureau）正式成立。在此背景下，港府于 2022 年 12 月发布《青年发展蓝图》（Youth Development Blueprint），作为特区政府首份系统的青年政策文件([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
 
 ---
 
 ## 政策文本摘要
 
 > [!abstract]
-> 《青年发展蓝图》以四项主题组织其政策框架（Vickers, 2024, p.153）：
+> 《青年发展蓝图》以四项主题组织其政策框架([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])：
 > - **探索（Exploration）** — 鼓励青年探索个人兴趣和发展方向
 > - **希望（Hope）** — 培养积极乐观的人生态度
 > - **赋能（Empowerment）** — 提供技能培训和发展机会
 > - **贡献（Contribution）** — 鼓励青年参与社会服务和建设
 >
-> 四项主题完全以"积极思维"和"个人发展"的语言表达。没有任何一个主题涉及青年对政治参与、社会公平或制度改革的诉求（Vickers, 2024, p.153）。
+> 四项主题完全以"积极思维"和"个人发展"的语言表达。没有任何一个主题涉及青年对政治参与、社会公平或制度改革的诉求([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
 
 ---
 
@@ -70,6 +69,3 @@ updated: 2026-05-25
 
 ---
 
-## 来源
-
-- [[Vickers_2024_CE]]

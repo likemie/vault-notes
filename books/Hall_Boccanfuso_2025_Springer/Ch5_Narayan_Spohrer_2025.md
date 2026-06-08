@@ -1,8 +1,6 @@
 ---
 citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and Culture for Impact. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 85–99). Springer."
 extracted_to:
-  - "[[Precompetitive Research]]"
-  - "[[Six Rs of University-Industry Relations]]"
   - "[[T-Shaped Skills]]"
   - "[[Translational Research]]"
   - "[[Jim Spohrer]]"

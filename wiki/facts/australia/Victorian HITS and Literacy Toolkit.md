@@ -28,7 +28,8 @@ related_persons:
 related_facts:
   - "[[ResearchED]]"
   - "[[Australian Council for Educational Research]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -37,7 +38,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 截至 2017 年，[[John Hattie]] 的 *[[Visible Learning]]* 已在澳大利亚各州教育部门中获得显著政策影响力。维多利亚州（Victoria）教育部积极将 Hattie 的研究纳入其教学指导框架，使其成为公立学校系统的官方推荐实践基础（O'Connor, 2020, p.141）。
+> 截至 2017 年，[[John Hattie]] 的 *[[Visible Learning]]* 已在澳大利亚各州教育部门中获得显著政策影响力。维多利亚州（Victoria）教育部积极将 Hattie 的研究纳入其教学指导框架，使其成为公立学校系统的官方推荐实践基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])。
 
 ## 政策文本摘要
 
@@ -58,12 +59,12 @@ updated: '2026-05-18'
 
 > [!note]- 时间线
 > - **2017** — 维多利亚州 DET 发布 HITS 和 Literacy Toolkit
-> - **2020** — O'Connor 发表对 [[Visible Learning]] 处理[[Whole Language|全语言]]的批评，指出维多利亚州公立学校教师被建议实施以 VL 为主要参考的 10 项 HITS（O'Connor, 2020, p.141）
+> - **2020** — O'Connor 发表对 [[Visible Learning]] 处理[[Whole Language|全语言]]的批评，指出维多利亚州公立学校教师被建议实施以 VL 为主要参考的 10 项 HITS([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])
 
 ## 实施情况
 
 > [!example] 实施情况
-> O'Connor 以维多利亚州公立学校教师的内部视角描述：公立教育系统内的教师"被建议实施 10 项'高影响力教学策略'"，并使用新的读写工具包——两者均以 Hattie 的研究为首要证据基础（O'Connor, 2020, p.141）。
+> O'Connor 以维多利亚州公立学校教师的内部视角描述：公立教育系统内的教师"被建议实施 10 项'高影响力教学策略'"，并使用新的读写工具包——两者均以 Hattie 的研究为首要证据基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])。
 
 ## 争议与评论
 

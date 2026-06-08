@@ -14,17 +14,16 @@ tags:
   - region/uk
   - theme/intermediary-organisation
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
-  - "[[Communities in Schools]]"
+  - "[[Centre for Independent Studies]]"
   - "[[Strong Beginnings Report]]"
 related_arguments: []
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -62,11 +61,8 @@ updated: 2026-06-06
 
 > [!warning]
 > - EEF与[[Australian Education Research Organisation|AERO]]等国际组织的紧密联系引发了关于教育证据生产中私人利益影响的担忧
-> - 推广认知负荷理论（John Sweller）等特定学术观点，这些观点同时被保守智库[[Communities in Schools|CIS]]推广
+> - 推广[[Cognitive Load Theory|认知负荷理论]]（John Sweller）等特定学术观点，这些观点同时被保守智库[[Centre for Independent Studies|CIS]]推广
 > - 在[[Strong Beginnings Report|Strong Beginnings]]报告的核心内容中被列为指定参考来源
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

@@ -27,7 +27,8 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Tomorrow's Schools Reforms]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_ONeill_2012_NZJES]]"
 confidence: medium
 status: published
 created: '2026-05-06'
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 >
 > 2012 年 2 月 8 日，在议会质询中，教育部长拒绝排除增加[[Class Size|班级规模]]的可能性，理由是 Treasury 的"独立观察"和有影响力的政府顾问 [[John Hattie]] 教授的研究发现均表明，学校教育政策应转而聚焦于提升教学质量（House of Representatives, 2012）。
 >
-> O'Neill (2012) 随后发表评论文章，系统分析该政策建议中的[[Material Fallacies|实质谬误]]。
+> [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 随后发表评论文章，系统分析该政策建议中的[[Material Fallacies|实质谬误]]。
 
 ## 关键文件／声明
 
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 ## O'Neill 的三重批评
 
 > [!warning] O'Neill 的三重批评
-> O'Neill (2012) 从三个维度论证 Treasury 建议存在[[Material Fallacies|实质谬误]]：
+> [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 从三个维度论证 Treasury 建议存在[[Material Fallacies|实质谬误]]：
 >
 > - **术语模糊且使用不一致**：Hattie VL 中"教学质量"（quality of teaching）的[[Meta-analysis|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性；"优质教学"和"教学质量"在新西兰学术和政策话语中日益被当作口号使用
 > - **研究证据局限性被忽视**：Hattie 的综合涵盖所有教育阶段（早教至高等教育），非学校阶段研究被纳入扭曲了[[Effect Size|效应量]]和排名；Hattie 本人明确警示相关不等于因果、成功效应多来自创新而非日常课堂、该书"不涉及课堂生活"

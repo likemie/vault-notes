@@ -3,8 +3,6 @@ citation: "Schaffar, B., & Wolff, L.-A. (2024). Phenomenon-based learning in Fin
 extracted_to:
   - "[[Didaktik]]"
   - "[[Epochal Key Problems]]"
-  - "[[Bildung]]"
-  - "[[Problem-Based Learning]]"
   - "[[SveaSus Project]]"
   - "[[Wolfgang Klafki]]"
   - "[[Phenomenology]]"

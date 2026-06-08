@@ -26,7 +26,9 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Systematic Review]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slavin_2002_ER]]"
+  - "[[Argument_Slavin_2019_EP]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
@@ -46,26 +48,26 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Slavin 的学术生涯围绕一个核心信念：教育可以像医学、农业和技术一样，通过**创新 → 严格评估 → 渐进改进**的良性循环实现持续进步。
 >
-> 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）**：Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格[[Experimental Research|实验研究]]验证有效的项目和实践。该演讲发表于教育政策剧烈变动的时刻——CSR 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。(Slavin, 2002, pp. 15–16)
+> 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）**：Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格[[Experimental Research|实验研究]]验证有效的项目和实践。该演讲发表于教育政策剧烈变动的时刻——CSR 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 >
-> 2. **"什么有效"的强证据观**：不同于弱版本的 "证据知情"（evidence-informed）实践，Slavin 认为真正有效的改革必须基于对**具体项目**（而非通用原则）的**实验比较**（偏好[[Random Assignment|随机分配]]），因为教师难以将通用原则转化为有效实践。他提出关键区分：项目"基于科学研究"不等于项目"已经过严格评估"——正如莱特兄弟的竞争对手也使用了相同的航空科学研究，但飞机从未离开地面。(Slavin, 2002, pp. 18–19)
+> 2. **"什么有效"的强证据观**：不同于弱版本的 "证据知情"（evidence-informed）实践，Slavin 认为真正有效的改革必须基于对**具体项目**（而非通用原则）的**实验比较**（偏好[[Random Assignment|随机分配]]），因为教师难以将通用原则转化为有效实践。他提出关键区分：项目"基于科学研究"不等于项目"已经过严格评估"——正如莱特兄弟的竞争对手也使用了相同的航空科学研究，但飞机从未离开地面。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 18–19]])
 >
-> 3. **开发-评估-推广范式**：Slavin (2002, p. 17) 论证，一旦建立了可复制的开发→严格评估→复制→推广范式，这一机制可广泛适用于教育的各个领域。他认为教育不需要医学式的"突破"，而需要渐进式累积改进——现代汽车仍用内燃机但远比 Model T 高效；医生在世纪之交就能切除阑尾但今天手术风险小得多。(Slavin, 2002, p. 19)
+> 3. **开发-评估-推广范式**：[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 论证，一旦建立了可复制的开发→严格评估→复制→推广范式，这一机制可广泛适用于教育的各个领域。他认为教育不需要医学式的"突破"，而需要渐进式累积改进——现代汽车仍用内燃机但远比 Model T 高效；医生在世纪之交就能切除阑尾但今天手术风险小得多。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]])
 >
 > 4. **三条件框架**（Slavin, 2017, 2019）：证据本位改革要成功需要三个条件同时满足：(1) 大量经过验证的有效项目、(2) 可信赖的、易于教育者理解的证据审查、(3) 政府政策提供激励。
 >
-> 5. **方法论的平衡立场**：Slavin (2002, pp. 17–18) 承认随机化实验的困难和昂贵（以自己 [[Success for All]] 随机化评估经验为例），主张长期来看随机化和严格匹配实验的混合比单一依赖随机化"更健康"，但认为在当前政治窗口下应集中资源做"无可挑剔的随机化实验"以修复教育研究的"糟糕声誉"（Kaestle, 1993）。这一立场在 2019 年变得更为明确地倾向 RCT。
+> 5. **方法论的平衡立场**：[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]] 承认随机化实验的困难和昂贵（以自己 [[Success for All]] 随机化评估经验为例），主张长期来看随机化和严格匹配实验的混合比单一依赖随机化"更健康"，但认为在当前政治窗口下应集中资源做"无可挑剔的随机化实验"以修复教育研究的"糟糕声誉"（Kaestle, 1993）。这一立场在 2019 年变得更为明确地倾向 RCT。
 >
-> > "Why is it that educational research so rarely has an impact on the practice of education? ... Evidence-based reform could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century." (Slavin, 2019)
+> > "Why is it that educational research so rarely has an impact on the practice of education? ... Evidence-based reform could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century." ([[Argument_Slavin_2019_EP|Slavin, 2019]])
 >
-> > "At the dawn of the 21st century, educational research is finally entering the 20th century." (Slavin, 2002, p. 15)
+> > "At the dawn of the 21st century, educational research is finally entering the 20th century." ([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 >
-> > "Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion." (Slavin, 2002, p. 19)
+> > "Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion." ([[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]])
 
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Success for All]]** — Slavin 与 Nancy Madden 共同创立的整体学校改革模式，在 48 个州超过 1,500 所学校实施，是 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一（ES = +0.41）。2002 年论文详细描述了 SFA 随机化评估的招募困难——最初 USD 30,000/校的激励不够，最终改为免费提供项目和延迟处理对照组设计。(Slavin, 2002, p. 18)
+> - **[[Success for All]]** — Slavin 与 Nancy Madden 共同创立的整体学校改革模式，在 48 个州超过 1,500 所学校实施，是 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一（ES = +0.41）。2002 年论文详细描述了 SFA 随机化评估的招募困难——最初 USD 30,000/校的激励不够，最终改为免费提供项目和延迟处理对照组设计。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]])
 > - **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])** — 免费网站，[[Systematic Review|系统综述]]各领域教育项目有效性研究
 > - **Evidence for ESSA** — 面向教育领导者、与 ESSA 证据标准对齐的项目信息网站，截至 2019 年 1 月月活用户超 7 万
 > - [[Evidence-Based Reform]] — 提出并持续推动该政策框架

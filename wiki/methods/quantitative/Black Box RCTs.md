@@ -26,7 +26,8 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slavin_2002_ER]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -99,7 +100,7 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > - 美国教育有效性试验超 90% 未显示影响（C4E, 2013）（Peterson, 2016, pp. 301–302）
 > - [[Education Endowment Foundation|EEF]] 有效性试验中仅一项显示明确效应（Peterson, 2016, p. 301）
-> - 仅约 20.8% 的美国 CSR 拨款流向强证据项目（Slavin, 2002, p. 15）
+> - 仅约 20.8% 的美国 CSR 拨款流向强证据项目([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 
 ## 争议与批评
 

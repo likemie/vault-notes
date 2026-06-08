@@ -26,10 +26,8 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[Baby PISA]]"
-related_arguments: []
-sources:
-  - "[[Ch1_Slethaug_2010]]"
-  - "[[Zhao_2020_JEC]]"
+related_arguments:
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: "2026-05-17"
@@ -43,7 +41,7 @@ updated: "2026-06-06"
 ## 背景
 
 > [!info]
-> [[PISA]] 由 [[OECD]] 于 2000 年启动，目标不是简单比较谁考试更高，而是通过跨国可比的学生评估，把教育结果放进全球竞争、[[Knowledge-Based Economy|知识经济]]和政策治理的共同语言中（Slethaug, 2010, pp.6-8）。
+> [[PISA]] 由 [[OECD]] 于 2000 年启动，目标不是简单比较谁考试更高，而是通过跨国可比的学生评估，把教育结果放进全球竞争、[[Knowledge-Based Economy|知识经济]]和政策治理的共同语言中([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.6-8]])。
 >
 > OECD 成立于 1961 年，其使命是刺激经济增长和国际贸易，已发展到包括 36 个成员，其中大多数是实践市场经济的最富裕国家。PISA 从 2000 年的 32 个参与教育系统增加到 2015 年的 72 个（Zhao, 2020）。
 
@@ -52,8 +50,8 @@ updated: "2026-06-06"
 ## 设计与实施
 
 > [!abstract]
-> - PISA 每三年评估一次 15 岁学生的阅读、数学和科学素养，重点不是具体课程记忆，而是学生是否具备充分参与社会所需的知识和能力（Slethaug, 2010, p.7）。
-> - 每一轮会有一个主测领域，其余领域仍保留评估（Slethaug, 2010, p.7）。
+> - PISA 每三年评估一次 15 岁学生的阅读、数学和科学素养，重点不是具体课程记忆，而是学生是否具备充分参与社会所需的知识和能力([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.7]])。
+> - 每一轮会有一个主测领域，其余领域仍保留评估([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.7]])。
 > - 它通过共同量表和跨国可比框架，把各国教育表现转化成排名、平均分与差距叙事；相关测量技术背景可见 [[Rasch Measurement]]。
 
 ---
@@ -70,7 +68,7 @@ updated: "2026-06-06"
 ## 政策作用
 
 > [!success]
-> - PISA 让各国更难把教育结果完全当作本国内部事务来理解，而是持续放在国际比较压力之下（Slethaug, 2010, p.8）。
+> - PISA 让各国更难把教育结果完全当作本国内部事务来理解，而是持续放在国际比较压力之下([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.8]])。
 > - 它强化了成绩变化需要政策回应的逻辑，因此常常成为改革、问责和学校改进项目的重要触发器。
 > - 在 Håkansson（2015）的瑞典案例里，PISA 2000 到 2009 的成绩下滑并没有直接告诉政策制定者该用哪种教学法，但它制造了强烈的改革压力，使课堂组织、教师领导和 [[Structured Teaching]] 被推到前台（Håkansson, 2015, pp.585-586）。
 > - PISA 更像一个问题放大器，而不是一个自动给出课堂答案的工具。
@@ -135,7 +133,3 @@ updated: "2026-06-06"
 
 ---
 
-## 来源
-
-- [[Ch1_Slethaug_2010]]
-- [[Zhao_2020_JEC]]

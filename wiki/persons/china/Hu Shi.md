@@ -23,7 +23,8 @@ related_persons:
 related_facts:
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -34,7 +35,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 胡适（1891–1962），中国现代作家、哲学家、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的核心人物。哥伦比亚大学毕业后师从[[John Dewey|杜威]]，是杜威 1919–1921 年访华期间的主要翻译者和中介人。他将[[Pragmatic Paradigm|实用主义]]（[[Pragmatic Paradigm|pragmatism]]）翻译为"[[Pragmatism in China|实验主义]]"（shiyanzhuyi），并将杜威的方法论极端化为一种彻底反传统、崇尚西方科学的立场，深刻影响了民国时期的中国思想界与教育改革（Schulte, 2009, pp.72–73）。
+> 胡适（1891–1962），中国现代作家、哲学家、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的核心人物。哥伦比亚大学毕业后师从[[John Dewey|杜威]]，是杜威 1919–1921 年访华期间的主要翻译者和中介人。他将[[Pragmatic Paradigm|实用主义]]（[[Pragmatic Paradigm|pragmatism]]）翻译为"[[Pragmatism in China|实验主义]]"（shiyanzhuyi），并将杜威的方法论极端化为一种彻底反传统、崇尚西方科学的立场，深刻影响了民国时期的中国思想界与教育改革([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.72–73]])。
 
 ## 生平与职涯
 
@@ -65,13 +66,13 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success]
-> - 作为[[John Dewey|杜威]] 1919–1921 年访华期间的主要翻译者和中介人，其出色的口才和明星般的个人魅力使杜威的演讲吸引了大量中国听众，扩大了杜威思想在中国的传播范围（Schulte, 2009, p.73）。
-> - 其极端化的[[Pragmatic Paradigm|实用主义]]解读使得后来的批评者——无论来自传统主义还是马克思主义立场——都能轻易攻击杜威。有人甚至指责胡适"绑架"了杜威，把他当作"傀儡"来"增加自己的名声"和"彻底摧毁中国传统文化"（Schulte, 2009, p.73）。
+> - 作为[[John Dewey|杜威]] 1919–1921 年访华期间的主要翻译者和中介人，其出色的口才和明星般的个人魅力使杜威的演讲吸引了大量中国听众，扩大了杜威思想在中国的传播范围([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.73]])。
+> - 其极端化的[[Pragmatic Paradigm|实用主义]]解读使得后来的批评者——无论来自传统主义还是马克思主义立场——都能轻易攻击杜威。有人甚至指责胡适"绑架"了杜威，把他当作"傀儡"来"增加自己的名声"和"彻底摧毁中国传统文化"([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.73]])。
 > - 推动白话文运动，使现代汉语成为教育和文学创作的媒介，从根本上改变了中国的教育模式和知识传播方式。
 
 ## 争议与批评
 
 > [!warning]
-> - 胡适对[[John Dewey|杜威]]的极端化呈现使[[Pragmatic Paradigm|实用主义]]"不可能实现任何温和改革者的妥协"（Schulte, 2009, p.72），这可能偏离了杜威渐进主义（gradualism）的本意。
-> - 其全盘否定东方文明、全面崇拜西方文明的立场遭到传统主义者梁漱溟、乃至不同政治立场知识分子的广泛批评（Schulte, 2009, pp.72–73）。
-> - 共产主义革命后，胡适被定性为"走狗"（zougou），其思想在 1950 年代遭受系统批判（Schulte, 2009, p.80）。
+> - 胡适对[[John Dewey|杜威]]的极端化呈现使[[Pragmatic Paradigm|实用主义]]"不可能实现任何温和改革者的妥协"([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.72]])，这可能偏离了杜威渐进主义（gradualism）的本意。
+> - 其全盘否定东方文明、全面崇拜西方文明的立场遭到传统主义者梁漱溟、乃至不同政治立场知识分子的广泛批评([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.72–73]])。
+> - 共产主义革命后，胡适被定性为"走狗"（zougou），其思想在 1950 年代遭受系统批判([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.80]])。

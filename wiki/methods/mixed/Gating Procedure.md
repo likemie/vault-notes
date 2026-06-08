@@ -20,14 +20,14 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Systematic Review]]"
   - "[[Single-Case Design]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-related_arguments: []
-sources:
-  - "[[Hitchcock_2015_JBE]]"
+related_arguments:
+  - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -37,18 +37,18 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 门控程序（Gating Procedure）是系统综述中的一种方法论策略：**第一步**先识别某一主题的所有相关研究；**然后**仅纳入那些具有强[[Internal Validity|内部效度]]的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）（Hitchcock et al., 2015, p.462, citing Maggin et al., 2013）。
+> 门控程序（Gating Procedure）是[[Systematic Review|系统综述]]中的一种方法论策略：**第一步**先识别某一主题的所有相关研究；**然后**仅纳入那些具有强[[Internal Validity|内部效度]]的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462, citing Maggin et al., 2013]])。
 >
-> > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." (Hitchcock et al., 2015, p.462)
+> > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 >
-> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序（WWC, 2013; Hitchcock et al., 2015, p.462）。
+> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序(WWC, 2013; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
 > > 例：在 WWC 审查中，一项 [[Single-Case Design|SCD]] 研究首先被检查是否满足设计标准（足够的阶段对比、每阶段足够的数据点、可靠的结果测量、研究者主动操纵自[[Variable|变量]]）。只有通过此门槛的研究，其推广性信息才被进一步记录和描述。
 
 ## 与非门控程序的对比
 
 
-Hitchcock et al. (2015, p.462) 描述了两种系统综述策略及其各自权衡：
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 描述了两种[[Systematic Review|系统综述]]策略及其各自权衡：
 
 | 策略 | 做法 | 优势 | 劣势 |
 |------|------|------|------|
@@ -58,7 +58,7 @@ Hitchcock et al. (2015, p.462) 描述了两种系统综述策略及其各自权�
 ## 在 WWC SCD 审查中的具体应用
 
 > [!success] 在 [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] 审查中的具体应用
-> 在 WWC 的 [[Single-Case Design|SCD]] 审查流程中，门控程序按以下顺序运作（Hitchcock et al., 2015, pp.464–465）：
+> 在 WWC 的 [[Single-Case Design|SCD]] 审查流程中，门控程序按以下顺序运作([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–465]])：
 >
 > 1. **初步筛选**：对照审查协议，判断研究的干预、因[[Variable|变量]]、场所和参与者特征是否符合协议参数
 > 2. **[[Internal Validity|内部效度]]评估（门控）**：评估阶段对比数量、每阶段数据点数量、结果是否被可靠测量、研究者是否主动操纵自变量；通过视觉分析进一步理解实验控制
@@ -68,18 +68,18 @@ Hitchcock et al. (2015, p.462) 描述了两种系统综述策略及其各自权�
 ## 门控程序的合理性
 
 
-Hitchcock et al. (2015, p.462) 认为当目标是向从业者和政策制定者提供信息时——这正是 [[What Works Clearinghouse|WWC]] 的明示意图——门控程序是"合理的一个选择"（arguably a reasonable one）。
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 认为当目标是向从业者和政策制定者提供信息时——这正是 [[What Works Clearinghouse|WWC]] 的明示意图——门控程序是"合理的一个选择"（arguably a reasonable one）。
 
-其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是实验设计的必要条件（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"（Hitchcock et al., 2015, p.461）。
+其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是实验设计的必要条件（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
 
 > 例：如果一项 [[Single-Case Design|SCD]] 研究的基线阶段只有 2 个数据点（不足以建立稳定的基线模式），即使其场所描述和参与者特征记录得非常详细，WWC 也不会将其纳入后续的推广性分析，因为"首先需要确保有一个可靠的效果存在"。
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **信息排除**：门控程序功能性地排除了来自弱[[Internal Validity|内部效度]]研究的信息——这些研究可能包含有价值的推广性洞见（Hitchcock et al., 2015, p.462）
+> - **信息排除**：门控程序功能性地排除了来自弱[[Internal Validity|内部效度]]研究的信息——这些研究可能包含有价值的推广性洞见([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **保守性偏差**：门控程序可能系统性地排除某些类型的证据（如特殊人群或难以实施严格实验设计的情境中的研究），导致证据基础的覆盖范围受限
-> - **与全纳入策略的永久权衡**：门控程序使发现更容易传播，但全纳入策略呈现证据全貌——两种策略之间存在不可消除的权衡（Hitchcock et al., 2015, p.462）
+> - **与全纳入策略的永久权衡**：门控程序使发现更容易传播，但全纳入策略呈现证据全貌——两种策略之间存在不可消除的权衡([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 
 ## 相关概念
 
@@ -87,8 +87,5 @@ Hitchcock et al. (2015, p.462) 认为当目标是向从业者和政策制定者�
 > - [[Single-Case Design]] — [[What Works Clearinghouse|WWC]] 对 [[Single-Case Design|SCD]] 和组间设计均采用门控程序
 > - [[5-3-20 Rule]] — 门控程序之后的证据综合阈值
 > - [[Evidence-Based Education]] — 门控程序是 EBE 机构（WWC）审查证据的操作方法之一
-> - [[What Works Clearinghouse]] — WWC 在 SCD 和组间设计审查中使用门控程序，只让通过[[Internal Validity|内部效度]]门槛的研究进入后续推广性描述（Hitchcock et al., 2015, pp.462, 464–466）
+> - [[What Works Clearinghouse]] — WWC 在 SCD 和组间设计审查中使用门控程序，只让通过[[Internal Validity|内部效度]]门槛的研究进入后续推广性描述([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462, 464–466]])
 
-## 来源
-
-- [[Hitchcock_2015_JBE]]

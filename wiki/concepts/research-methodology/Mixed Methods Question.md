@@ -14,7 +14,6 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Research Writing Script]]"
   - "[[Purpose Statement]]"
-  - "[[STEM Education]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -25,8 +24,6 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -103,7 +100,7 @@ updated: 2026-05-31
 > 虽然作者将其表述为[[Purpose Statement|目的陈述]]而非[[Research Question|研究问题]]，但这些目标对应于量化、质性和混合方法的三部分结构。
 
 > [!example]
-> DeCoito & Estaiteyeh (2022) 研究了加拿大一个省份科学／[[STEM Education|STEM]] 教师在线教学与学习的经历（Creswell & Creswell, 2022, Ch7）。他们的研究问题是：
+> DeCoito & Estaiteyeh (2022) 研究了加拿大一个省份科学／STEM 教师在线教学与学习的经历（Creswell & Creswell, 2022, Ch7）。他们的研究问题是：
 >
 > 1. 教师在在线环境中使用了哪些数字工具和资源？（描述性量化问题）
 > 2. 教师的在线课程开发和实施采用了哪些策略？（描述性量化问题）
@@ -121,6 +118,3 @@ updated: 2026-05-31
 
 ---
 
-## 来源
-
-- [[Creswell_2022_SAGE]]

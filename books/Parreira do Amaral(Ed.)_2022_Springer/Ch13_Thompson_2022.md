@@ -9,8 +9,6 @@ extracted_to:
   - "[[Preemptive Governance]]"
   - "[[Societies of Control]]"
   - "[[Digital Self]]"
-  - "[[Governmentality]]"
-  - "[[Learning Analytics]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"

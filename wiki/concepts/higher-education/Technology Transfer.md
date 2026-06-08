@@ -35,15 +35,10 @@ related_facts:
   - "[[Nagoya Protocol]]"
   - "[[MN-IP Create]]"
   - "[[National Science Foundation]]"
-related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Ch2_Ulrichsen_2025]]"
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch8_Gilison_Wilson_2025]]"
-  - "[[Ch15_Susalka_Carbone_2025]]"
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+related_arguments:
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -75,7 +70,7 @@ updated: 2026-06-05
 - 大学通常也要求非联邦资助产生的知识产权由发明人转让给大学（即无论资金来源，大学都主张所有权）
 - 一个重要的例外：学生在课堂上产生的知识产权通常归创作者本人所有（p.14）
 
-在该法案通过之前，使用联邦资金开发的发明归美国政府所有。政府的商业化记录极其糟糕，绝大多数联邦持有的专利从未被转化为市场上的产品或服务。大学研究人员缺乏将发现商业化的制度激励（Susalka & Carbone, 2025, p.273）。Bayh-Dole Act 通过后，联邦资助占大学研究支出的比例从 1991 年的约 70% 下降至 2021 年的不足 60%，产业资金成为日益重要的替代来源。2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（AUTM, 2024, cited in Susalka & Carbone, 2025, p.273）。在这一背景下，技术转移的制度重要性持续上升。
+在该法案通过之前，使用联邦资金开发的发明归美国政府所有。政府的商业化记录极其糟糕，绝大多数联邦持有的专利从未被转化为市场上的产品或服务。大学研究人员缺乏将发现商业化的制度激励([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.273]])。Bayh-Dole Act 通过后，联邦资助占大学研究支出的比例从 1991 年的约 70% 下降至 2021 年的不足 60%，产业资金成为日益重要的替代来源。2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（AUTM, 2024, cited in Susalka & Carbone, 2025, p.273）。在这一背景下，技术转移的制度重要性持续上升。
 
 ### 国际差异
 
@@ -85,7 +80,7 @@ updated: 2026-06-05
 ### 国际演变：英国与中国的技术转移制度建立
 
 > [!note]
-> 技术转移制度并非美国的专利。不同国家在不同时间点、以不同方式建立了各自的框架（Ulrichsen, 2025, pp.39–44）。
+> 技术转移制度并非美国的专利。不同国家在不同时间点、以不同方式建立了各自的框架([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.39–44]])。
 
 **英国**经历了从国家垄断到大学自主的系统性转变：
 
@@ -93,12 +88,12 @@ updated: 2026-06-05
 - 1983 年取消 BTG 垄断。大学首次获得商业化其研究成果的独立权利
 - 1980 年代初推出 Alvey 计划。政府与产业联合资助，聚焦学术界与产业界在信息技术领域的密切合作
 - 1993 年发布白皮书 *Realising Our Potential*。1970 年代以来首次重大科技政策审查，明确要求"科学和工程界、产业、金融部门和政府之间需要建立更紧密的伙伴关系和更好的思想扩散"（HMSO, 1993, p.8）
-- 1999 年引入[[Knowledge Exchange|知识交流]]专项拨款（Higher Education Innovation Fund 的前身）。关键创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学得以系统化地建立技术转移支持能力（Ulrichsen, 2025, pp.42–43）
+- 1999 年引入[[Knowledge Exchange|知识交流]]专项拨款（Higher Education Innovation Fund 的前身）。关键创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学得以系统化地建立技术转移支持能力([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])
 
 **中国**在 1980–90 年代通过立法推进：
 
 - 1993 年《科学技术进步法》。相当于中国的 Bayh-Dole Act，要求大学雇员将发明 IP 权利转让给大学（Chen et al., 2016）
-- 随后政策允许大学自办企业、允许研究人员休长假从事技术转移和创业、明确大学的知识产权保护责任（Ulrichsen, 2025, p.41）
+- 随后政策允许大学自办企业、允许研究人员休长假从事技术转移和创业、明确大学的知识产权保护责任([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.41]])
 
 **中国技术转移的最新发展（2010s—2020s）**：
 
@@ -116,9 +111,9 @@ updated: 2026-06-05
 ### 广义化：从技术转移到知识交流
 
 > [!abstract]
-> 研究实践的发展使人们认识到，技术转移只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起。它涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式（Ulrichsen, 2025, pp.44–46）。
+> 研究实践的发展使人们认识到，技术转移只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起。它涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
 
-关系型互动（relational）已取代交易型互动（transactional）成为产学互动的主导形态，反映了隐性知识（tacit knowledge）在思想和技术转移中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。此外，人员交流（people exchange）的重要性在近三十年显著上升：1994 年的调查中仅 5.8% 的美国企业研发经理认为人员交流是重要的产学互动途径（Cohen et al., 2002），但今天这已成为加强产学合作的核心议题（NCUB, 2023）（Ulrichsen, 2025, pp.45–46）。
+关系型互动（relational）已取代交易型互动（transactional）成为产学互动的主导形态，反映了隐性知识（tacit knowledge）在思想和技术转移中的关键作用（Schartinger et al., 2002）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。此外，人员交流（people exchange）的重要性在近三十年显著上升：1994 年的调查中仅 5.8% 的美国企业研发经理认为人员交流是重要的产学互动途径（Cohen et al., 2002），但今天这已成为加强产学合作的核心议题（NCUB, 2023）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
 
 ### 国际产学合作中的 IP 摩擦
 
@@ -133,7 +128,7 @@ Bayh-Dole 法案构成一个具体的制度摩擦点：该法案要求美国赠�
 
 ## IP 合同机制
 
-技术转移的操作层面集中在产学协议中的 IP 条款设计。大学与产业的组织使命差异——大学以知识传播为目的，产业以市场竞争优势为目标——在 IP 谈判中转化为具体的合同张力。以下机制是技术转移专业人员日常处理的核心工具（Susalka & Carbone, 2025, pp.271–287）。
+技术转移的操作层面集中在产学协议中的 IP 条款设计。大学与产业的组织使命差异——大学以知识传播为目的，产业以市场竞争优势为目标——在 IP 谈判中转化为具体的合同张力。以下机制是技术转移专业人员日常处理的核心工具([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, pp.271–287]])。
 
 ### 前景 IP 与背景 IP
 
@@ -211,7 +206,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 ### 赞助研究中的知识产权约束
 
 > [!warning]
-> 产业赞助研究中产生的知识产权往往受到赞助协议的严格约束，这对衍生企业的创建构成了结构性障碍（Gilison & Wilson, 2025, pp.143-144）。
+> 产业赞助研究中产生的知识产权往往受到赞助协议的严格约束，这对衍生企业的创建构成了结构性障碍([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-144]])。
 
 赞助企业的目标是利用研究服务于其专有目的——如降低研发风险、增强现有产品线或洞察可能颠覆其产品的新技术。由于大学几乎总是保留发表研究结果的权利，赞助方会谨慎控制自身既有知识产权的参与范围，研究范围往往是拼图的一块而非基础性技术。许可协议通常给予赞助方对知识产权的排他性使用权或商业化权利，并在衍生企业中保留一定程度的治理权。其首要动机是让知识产权进入赞助方的研发管道，而非存在于管道之外（p.143）。
 
@@ -230,12 +225,3 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 
 ---
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Ch2_Ulrichsen_2025]]
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch8_Gilison_Wilson_2025]]
-- [[Ch15_Susalka_Carbone_2025]]
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]

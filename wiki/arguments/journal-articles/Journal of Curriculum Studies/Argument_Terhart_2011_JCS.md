@@ -32,7 +32,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Snook_2010_NZJES]]"
 sources:
   - "[[Terhart_2011_JCS]]"
 part_of: ''
@@ -66,7 +67,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／观察**：Hattie 的 *[[Visible Learning]]* 基于 800+ [[Meta-analysis|元分析]]（涵盖 50,000+ 项研究），将 138 个影响因素按[[Effect Size|效应量]]排名，被 *Times Educational Supplement* 比作"圣杯"的搜寻。Hattie 声称搜寻已完成（Terhart, 2011, p.426）。
+> 1. **前提／观察**：Hattie 的 *[[Visible Learning]]* 基于 800+ [[Meta-analysis|元分析]]（涵盖 50,000+ 项研究），将 138 个影响因素按[[Effect Size|效应量]]排名，被 *Times Educational Supplement* 比作"圣杯"的搜寻。Hattie 声称搜寻已完成([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。
 >
 > 2. **论证步骤**：
 >    - **方法论批评**：[[Meta-meta-analysis|元-元分析]]（mega-analysis）将已聚合的数据再次聚合——"通过反复累积，原始的详细经验信息消失"（p.436）。Hattie 未提供纳入元分析的质量标准信息，数据库质量高度异质——"从[[Experimental Research|实验研究]]到非常良好维护的、较少控制的[[Survey Research|调查研究]]"（p.429）。大多数元分析来自 1980s-1990s，基础数据"大概不是最新的"（p.428）。
@@ -84,7 +85,7 @@ citation_aliases:
 > - **[[Didaktik|教学理论]]局限**：Hattie 使用 Popper 的三个世界理论"以一种相当联想和顽固的方式穿越学习理论领域"，但与德国 [[Bildung]] 概念有可关联之处——然而 Bildung 的实质面被忽略（p.430-431）。
 > - **课程内容缺失**："内容问题、学科的教学意义问题、关于合法化课程决策的问题和可能性的反思……被完全忽略"（p.431）。"肉在哪里？"（p.430-431）。
 > - **教师作为激活者 vs 促进者**：Hattie 区分教师作为激活者（d=0.60 平均）和作为促进者（d=0.17 平均），但 Terhart 指出 Hattie 所描述的专家教师特征——"将学生整合到内容导向的学习、尝试、思考和判断中"——"顺便说一句，并不是一个根本上的新洞见或发现"（p.431）。
-> - **新西兰争议**：Hattie 被批评与新西兰政府的密切联系、在 asTTle 评估和培训项目中的经济利益、提倡绩效薪酬以及忽视社会背景、不平等和学校结构问题（p.434-435）。Snook et al. (2010) 发表 *Invisible Learnings?* 提出系统批评。
+> - **新西兰争议**：Hattie 被批评与新西兰政府的密切联系、在 asTTle 评估和培训项目中的经济利益、提倡绩效薪酬以及忽视社会背景、不平等和学校结构问题（p.434-435）。[[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 发表 *Invisible Learnings?* 提出系统批评。
 > - **教育乐观主义**：书中呈现出一种"压倒性的、旺盛的乐观主义，一种对通过好的教学实现成功学习的可达成性的深深的信念"，但"看着数据中常常相当怀疑和悲观的意涵，让读者有点困惑"（p.434-435）。Terhart 将此描述为"以更心理学的方式建立的、对通过正确的、好的教学实现无限学习促进的信念"（p.435）。
 
 ## 关键引用

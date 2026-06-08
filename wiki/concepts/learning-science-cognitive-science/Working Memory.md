@@ -16,7 +16,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Fredens_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 ## 与学习的关系
 
 > [!info] 与学习的关系
-> Hattie & Yates (2014) 强调学习必须是"对所学内容的主动回应"——工作记忆必须被激活，"主动"既指身体也指心理活动，但**思维必须先被启动**才能发生学习（Fredens, 2015, p.71）。当学生缺乏必要的指导和教学时，工作记忆被不必要的信息填满——Fredens 比喻为"垃圾桶装满了垃圾"（overfyldt skraldespand），认知术语为认知负荷（cognitive load）（Fredens, 2015, p.73）。
+> Hattie & Yates (2014) 强调学习必须是"对所学内容的主动回应"——工作记忆必须被激活，"主动"既指身体也指心理活动，但**思维必须先被启动**才能发生学习([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.71]])。当学生缺乏必要的指导和教学时，工作记忆被不必要的信息填满——Fredens 比喻为"垃圾桶装满了垃圾"（overfyldt skraldespand），认知术语为认知负荷（cognitive load）([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.73]])。
 >
-> 此外，Hattie & Yates 指出注意力是一种有限资源——大脑以葡萄糖为燃料，燃料耗尽后前额叶关闭、大脑切换工作模式。学生只有约 10 分钟的全神贯注时间（Fredens, 2015, p.71）。Fredens 补充：注意力中断时大脑转入默认网络（default network，即"社会脑"），在恢复的同时产生联想和创意发展——这种"走神"在创造性过程中具有关键功能（Fredens, 2015, p.71–72）。
+> 此外，Hattie & Yates 指出注意力是一种有限资源——大脑以葡萄糖为燃料，燃料耗尽后前额叶关闭、大脑切换工作模式。学生只有约 10 分钟的全神贯注时间([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.71]])。Fredens 补充：注意力中断时大脑转入默认网络（default network，即"社会脑"），在恢复的同时产生联想和创意发展——这种"走神"在创造性过程中具有关键功能([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.71–72]])。
 

@@ -26,7 +26,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -56,7 +57,7 @@ updated: '2026-06-08'
 
 
 > [!info] 开放系统不可封闭
-> Pawson 论证大多数社会情境（包括教育情境）是开放系统——超出了实验封闭和简化的能力（Pawson, 2006, p. 18; Biesta, 2010, p. 496, both cited in Wrigley & McCusker, 2019, p. 115）。
+> Pawson 论证大多数社会情境（包括教育情境）是开放系统——超出了实验封闭和简化的能力(Pawson, 2006, p. 18; [[Argument_Biesta_2010_SPE|Biesta, 2010, p. 496, both cited in Wrigley & McCusker, 2019, p. 115]])。
 
 
 > [!info] 医学研究的理论先行性

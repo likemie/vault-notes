@@ -207,7 +207,9 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors` 和 `year` 自动生成，只保留 `Author, Year` 与 `Author (Year)` 两种基本形式。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors`、`year` 和完整 `citation` 自动生成，基本形式为 `Author, Year` 与 `Author (Year)`。中文论文或著作若 `citation` 字段以中文作者名开头，脚本额外生成中文 alias，如 `郑雅君, 2023` 与 `郑雅君 (2023)`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+
+`doi` 用于论文、报告或有 DOI 的书籍；著作、教材、论文集或章节没有 DOI 时，`doi` 可留空，若能确认 ISBN，则写入 `isbn`。
 
 `citation/` 索引文件由 `scripts/citation_index.py` 生成：
 

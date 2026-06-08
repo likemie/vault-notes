@@ -24,9 +24,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[TUFF]]"
-related_arguments: []
-sources:
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -38,7 +37,7 @@ updated: 2026-05-28
 ## 内容
 
 > [!info]
-> 普渡发现园（Purdue Discovery Park）是普渡大学（Purdue University）在印第安纳州西拉法叶市（West Lafayette）创建的大学[[Innovation Park|研究园区]]，位于校园西侧边界（Byrne & Clements, 2025, pp.131–132）。
+> 普渡发现园（Purdue Discovery Park）是普渡大学（Purdue University）在印第安纳州西拉法叶市（West Lafayette）创建的大学[[Innovation Park|研究园区]]，位于校园西侧边界([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.131–132]])。
 
 初始投资约 3000 万美元，来自礼来基金会（Lilly Endowment）和印第安纳州政府各约 1500 万美元。早期产业伙伴集中于农业、化学和航空航天工程领域，吸引了 Bayer、Rolls-Royce 和 Saab 等主要企业入驻（p.132）。
 
@@ -55,6 +54,3 @@ Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究�
 
 Discovery District 的官网在突出研发成功的同时，也强调对潜在居民的综合价值——展示区域的可步行性、顶级公立学校和快速扩张的混合用途房地产和基础设施（p.132）。这体现了 [[TUFF]] [[Placemaking|场所营造]]理念中"不只是建筑，更是社区"的实践落地。
 
-## 来源
-
-- [[Ch7_Byrne_2025]]

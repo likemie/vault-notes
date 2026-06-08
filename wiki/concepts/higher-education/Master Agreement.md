@@ -23,9 +23,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
-related_arguments: []
-sources:
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
+related_arguments:
+  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -37,7 +36,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> [[University-Industry Collaboration|产学合作]]主协议（Master Agreement）是大学与企业之间签署的框架性法律协议，一次性覆盖[[University-Industry Collaboration|产学合作]]中的知识产权归属与使用、赔偿责任、治理结构、出版审批、保密义务、出口管制等基础条款。在此之后启动的每个具体研究项目，双方只需签署简短的工作说明书（Statement of Work），无需重新谈判主协议已覆盖的条款（Hoffman et al., 2025, pp.107–108）。
+> [[University-Industry Collaboration|产学合作]]主协议（Master Agreement）是大学与企业之间签署的框架性法律协议，一次性覆盖[[University-Industry Collaboration|产学合作]]中的知识产权归属与使用、赔偿责任、治理结构、出版审批、保密义务、出口管制等基础条款。在此之后启动的每个具体研究项目，双方只需签署简短的工作说明书（Statement of Work），无需重新谈判主协议已覆盖的条款([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.107–108]])。
 
 > [!quote]
 > 主协议是产学合作的"宪法"——它建立了双方长期合作的规则框架，单个项目是这个框架下的具体执行动作（p.107）。
@@ -100,6 +99,3 @@ updated: 2026-05-28
 
 ---
 
-## 来源
-
-- [[Ch6_Hoffman_Radasch_Thorsell_2025]]

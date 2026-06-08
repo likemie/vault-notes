@@ -22,18 +22,13 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Fredens_2015_Paideia]]"
-  - "[[Nielsen_2021_NordPsych]]"
-  - "[[Laursen_2015_Paideia]]"
-  - "[[Lekhal_2015_Paideia]]"
-  - "[[Ch14_Jornitz_2022]]"
+related_arguments:
+  - "[[Argument_Fredens_2015_Paideia]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Lekhal_2015_Paideia]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: low
 status: draft
 created: 2026-05-04
@@ -78,17 +73,17 @@ updated: 2026-05-22
 > > 例：老师在讲完一个概念后立刻让学生做一题，再根据全班错误模式换一个例子重新解释。这时反馈不是课后批注，而是直接改写了教学流程。
 
 > [!note] 反馈文化与学生视角
-> Fredens（2015）把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走（Fredens, 2015, pp.73-74）。
+> Fredens（2015）把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.73-74]])。
 >
-> 这条线索的意义在于，它把反馈和 working-memory、元认知以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制（Fredens, 2015, pp.71, 73-74）。
+> 这条线索的意义在于，它把反馈和 working-memory、元认知以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71, 73-74]])。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - Hattie 的论述把反馈放在高重要性位置，并把它理解为推动学习改进的核心信息机制（Hattie, 2015, p.86）。
 > - Håkansson（2015）的研究综合没有把反馈单独拿出来计算[[Effect Size|效应量]]，但明确把“及时正确反馈”和“强调知识内容中的关键原则”列为[[Classroom Management|课堂管理]]与高质量教学的重要组成部分（Håkansson, 2015, p.592）。
-> - Laursen（2015）指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效（Laursen, 2015, p.39）。
-> - Lekhal 等人的性别差异研究提示，反馈[[Variable|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和操作化（Lekhal et al., 2015, pp.80, 83-85）。
+> - Laursen（2015）指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
+> - Lekhal 等人的性别差异研究提示，反馈[[Variable|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和操作化([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, pp.80, 83-85]])。
 
 > [!info] 数据基础与测量问题
 > Nielsen & Klitmøller（2021）对 Hattie 反馈综合的底层数据做了更细的拆解。他们指出，Hattie（2009）的反馈综合基于 23 项[[Meta-analysis|元分析]]、约 67,931 名参与者，但其中贡献最大的 5 项元分析里，只有 1 项真正研究的是与 Hattie 自己定义一致的“反馈干预”（Nielsen & Klitmøller, 2021, pp.9-12）。
@@ -117,12 +112,12 @@ updated: 2026-05-22
 ## 数字学习工具中的反馈
 
 > [!warning] 数字学习工具中的反馈
-> Jornitz & Klinge（2022）把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间（Jornitz & Klinge, 2022, pp.240-245）。
+> Jornitz & Klinge（2022）把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-245]])。
 >
 > 这里有三条特别重要：
-> - 即时反馈可能填满反思间隙。传统课堂里，学生答完题到得到回应之间有一个等待和思考的时间；算法反馈把这个间隙压缩到几乎为零，学生更容易直接盯住结果而不是思考为什么（Jornitz & Klinge, 2022, pp.240-242）。
-> - [[Gamification]] 会把反馈转成积分、星星和徽章，学习者收到的更像平台货币，而不是帮助理解错误的教育性信息（Jornitz & Klinge, 2022, pp.242-243）。
-> - [[Learning Analytics]] 仪表盘通过红绿颜色、进度条和风险信号，预先替代了复杂教学判断；视觉上的“差/好”往往先于教育解释到来（Jornitz & Klinge, 2022, pp.243-245）。
+> - 即时反馈可能填满反思间隙。传统课堂里，学生答完题到得到回应之间有一个等待和思考的时间；算法反馈把这个间隙压缩到几乎为零，学生更容易直接盯住结果而不是思考为什么([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-242]])。
+> - [[Gamification]] 会把反馈转成积分、星星和徽章，学习者收到的更像平台货币，而不是帮助理解错误的教育性信息([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.242-243]])。
+> - [[Learning Analytics]] 仪表盘通过红绿颜色、进度条和风险信号，预先替代了复杂教学判断；视觉上的“差/好”往往先于教育解释到来([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.243-245]])。
 >
 > 这一整条批评最终连到 [[Data Behaviorism]]：当系统把学习理解成可直接读取和调节的数据模式时，反馈就容易从“帮助理解”滑向“管理行为”。
 
@@ -132,13 +127,3 @@ updated: 2026-05-22
 > - [[Structured Teaching]] — 瑞典案例把反馈放回课堂组织之中，强调它和目标清晰、理解检查、[[Classroom Management|课堂管理]]连在一起。
 > - [[Visible Learning]] — 反馈在 VL 中被持续塑造成高影响力因素，但其数据基础和概念边界也因此成为批评焦点。
 
-## 来源
-
-- [[Hattie_2015_Paideia]]
-- [[Hattie_2015_SOTLP]]
-- [[Fredens_2015_Paideia]]
-- [[Nielsen_2021_NordPsych]]
-- [[Laursen_2015_Paideia]]
-- [[Lekhal_2015_Paideia]]
-- [[Ch14_Jornitz_2022]]
-- Håkansson_2015_TT

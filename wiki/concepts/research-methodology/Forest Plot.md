@@ -19,7 +19,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Karl Pearson]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Higgins_2016_RE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
@@ -31,7 +32,7 @@ updated: '2026-06-08'
 ## 定义
 
 > [!info] 定义
-> 森林图（Forest Plot）是[[Meta-analysis|元分析]]中用于展示各研究[[Effect Size|效应量]]及其[[Confidence Interval|置信区间]]的标准图形化方法。图中每一行代表一项纳入研究，显示其[[Effect Size|效应量]]点估计和置信区间，底部显示汇总（pooled）效应量。这种呈现方式使读者能够直观地比较各研究的结果、评估一致性，并判断汇总估计的可靠性（Higgins, 2016, p.33）。
+> 森林图（Forest Plot）是[[Meta-analysis|元分析]]中用于展示各研究[[Effect Size|效应量]]及其[[Confidence Interval|置信区间]]的标准图形化方法。图中每一行代表一项纳入研究，显示其[[Effect Size|效应量]]点估计和置信区间，底部显示汇总（pooled）效应量。这种呈现方式使读者能够直观地比较各研究的结果、评估一致性，并判断汇总估计的可靠性([[Argument_Higgins_2016_RE|Higgins, 2016, p.33]])。
 >
 > 森林图的名称来源于图中各研究的置信区间线段形似一片树林。
 
@@ -73,7 +74,7 @@ updated: '2026-06-08'
 > [!success] 在教育研究中的意义
 > - 森林图使[[Meta-analysis|元分析]]的结果透明化，读者可以自行判断各研究的一致性和汇总估计的可靠性
 > - 它直观呈现了[[Heterogeneity|异质性]]，当各研究的[[Confidence Interval|置信区间]]不重叠时，提示存在需要解释的变异
-> - 在[[EEF Teaching and Learning Toolkit]]等面向实践者的工具中，森林图所基于的数据被进一步简化为"额外学习月数"等更易理解的指标（Higgins, 2016, p.46）
+> - 在[[EEF Teaching and Learning Toolkit]]等面向实践者的工具中，森林图所基于的数据被进一步简化为"额外学习月数"等更易理解的指标([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])
 
 ---
 

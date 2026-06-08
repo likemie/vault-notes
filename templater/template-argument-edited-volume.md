@@ -5,6 +5,7 @@ authors:
   - "Author Two"
 year:
 doi: ""
+isbn: ""
 summary: ""
 type: argument
 subtype: edited-volume

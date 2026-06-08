@@ -24,10 +24,8 @@ related_persons: []
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Wang_2025_CE]]"
-sources:
-  - "[[Wang_2025_CE]]"
-  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -40,10 +38,10 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 应试教育（examination-oriented education / yingshi jiaoyu）是以标准化考试成绩为教育质量的核心衡量指标，以教师主导的知识传输为主要教学方式，以升学考试结果作为评价学校、教师和学生首要标准的教育体系。在中国教育政策话语中，应试教育被建构为[[Quality Education|素质教育]]的对立面——前者以考试分数为唯一目标，后者以学生全面发展为导向（Schulte, 2009, pp.91–92）。但两者在实际政策层面的关系远比话语层面的二元对立更为模糊。
+> 应试教育（examination-oriented education / yingshi jiaoyu）是以标准化考试成绩为教育质量的核心衡量指标，以教师主导的知识传输为主要教学方式，以升学考试结果作为评价学校、教师和学生首要标准的教育体系。在中国教育政策话语中，应试教育被建构为[[Quality Education|素质教育]]的对立面——前者以考试分数为唯一目标，后者以学生全面发展为导向([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])。但两者在实际政策层面的关系远比话语层面的二元对立更为模糊。
 
 > [!quote]
-> "the tradition of examination-driven education, combined with the predominant importance of Gaokao (College Entrance Examination) in college admission ... has reinforced social support for current schooling practices"（Wang & McLaughlin, 2025, p.589）
+> "the tradition of examination-driven education, combined with the predominant importance of Gaokao (College Entrance Examination) in college admission ... has reinforced social support for current schooling practices"([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.589]])
 >
 > 考试驱动教育的传统，结合高考在大学录取中的主导重要性……强化了社会对当前学校教育实践的支持。
 
@@ -54,7 +52,7 @@ updated: 2026-05-26
 > [!note]
 > - **6 世纪**：[[Civil Service Examination|科举制度]]（Keju）建立，以标准化考试选拔官员，"以成绩取士"的原则将考试成功与社会流动和政治权力融为一体（Feng, 1995，引自 Wang & McLaughlin, 2025, p.589）
 > - **科举废除后（1905– ）**：考试作为衡量教育成功的文化认同延续至今，塑造了教学方法和教育质量评估方式（Feng, 1995）
-高考（Gaokao）取代科举成为新的**命运之考**，在升学录取中扮演决定性角色，被视为公平和经济的社会筛选机制（Wang & McLaughlin, 2025, p.589）
+高考（Gaokao）取代科举成为新的**命运之考**，在升学录取中扮演决定性角色，被视为公平和经济的社会筛选机制([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.589]])
 - **1990 年代至今**：[[Quality Education|素质教育]]被官方确立为替代方案，但应试教育在课堂实践中仍占主导地位——You（2019, p.107）将其诊断为**在现实和实质中**运作的系统，素质教育则**在修辞和形式中**
 
 ---
@@ -106,7 +104,3 @@ updated: 2026-05-26
 
 ---
 
-## 来源
-
-- [[Wang_2025_CE]]
-- [[Schulte_2009_EncuentrosEducacion]]

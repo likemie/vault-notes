@@ -22,9 +22,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
+related_arguments:
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -36,7 +35,7 @@ updated: 2026-05-29
 ## 定义
 
 > [!info]
-> 技术就绪度（Technology Readiness Level, TRL）是美国国家航空航天局（National Aeronautics and Space Administration, NASA）在 1970 年代开发的一套评估技术成熟度的 9 级量表，从 TRL 1（基础原理被观察到）到 TRL 9（系统在实际环境中经过验证并投入使用）（Gilison & Wilson, 2025, p.145）。
+> 技术就绪度（Technology Readiness Level, TRL）是美国国家航空航天局（National Aeronautics and Space Administration, NASA）在 1970 年代开发的一套评估技术成熟度的 9 级量表，从 TRL 1（基础原理被观察到）到 TRL 9（系统在实际环境中经过验证并投入使用）([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, p.145]])。
 
 > [!abstract]
 > 在[[University Spin-Out|大学衍生企业]]的语境中，TRL 用于衡量一项实验室研究成果距离商业化部署还有多远。大多数大学衍生企业在成立时的 TRL 处于 3-5 之间（实验室概念验证到实验室环境下的原型），而企业试点项目通常要求至少 TRL 6-7（系统原型在相关环境中演示过），两者之间存在 2-3 个等级的差距（p.145）。
@@ -72,6 +71,3 @@ updated: 2026-05-29
 
 ---
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

@@ -27,11 +27,10 @@ related_methods:
   - "[[Systematic Review]]"
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
-  - "[[SpronkenSmith_2024_AEHE]]"
-  - "[[Wong_2022_HERD]]"
+related_arguments:
+  - "[[Argument_Wong_2022_HERD]]"
+  - "[[Argument_SpronkenSmith_2024_AEHE]]"
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: low
 status: draft
 created: '2026-05-26'
@@ -54,7 +53,7 @@ updated: '2026-05-26'
 
 > [!example]
 > - vs **积极公民身份（active citizenship）** — Senekal, Munnik, and Frantz（2022）的[[Systematic Review|系统综述]]使用"积极公民身份"作为博士特质的十域之一，侧重国内公民参与。Spronken-Smith et al.（2024）在构建七域分类时将其[[Revoicing|重铸]]为"全球公民"，以反映全球就业环境中跨文化和跨国界的能力需求（p.98）
-> - vs [[Graduate Attributes|毕业生特质]] — 全球公民是毕业生特质的一个组成部分（在本科话语中约 70% 的 UK 大学将其纳入，在博士七域分类中为七个域之一），而非毕业生特质的同义词（Wong et al., 2022, p.1347; Spronken-Smith et al., 2024, p.98）
+> - vs [[Graduate Attributes|毕业生特质]] — 全球公民是毕业生特质的一个组成部分（在本科话语中约 70% 的 UK 大学将其纳入，在博士七域分类中为七个域之一），而非毕业生特质的同义词([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]]; [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.98]])
 > - vs **全球胜任力（global competence）** — 近义概念，但全球公民更强调公民责任、社会正义和环境伦理的伦理维度，全球胜任力更侧重跨文化工作中的功能性技能
 
 ---
@@ -86,9 +85,9 @@ Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两�
 ## 概念演变
 
 > [!note]
-> 全球公民在教育话语中的兴起与两个趋势相关。一是**高等教育的国际化**——随着学生和学者的跨国流动增加，大学开始宣称培养"全球公民"为其教育目标之一。二是**博士就业的多元化**——博士毕业生不再仅进入学术圈，企业、政府、非营利组织等多元职场要求毕业生能够在跨国、跨文化环境中有效运作（Spronken-Smith et al., 2024, p.86）。
+> 全球公民在教育话语中的兴起与两个趋势相关。一是**高等教育的国际化**——随着学生和学者的跨国流动增加，大学开始宣称培养"全球公民"为其教育目标之一。二是**博士就业的多元化**——博士毕业生不再仅进入学术圈，企业、政府、非营利组织等多元职场要求毕业生能够在跨国、跨文化环境中有效运作([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.86]])。
 >
-> 在博士教育领域，Nerad（2005）较早发出了明确呼吁，要求博士培养超越学科专精、包含公民维度。但在之后十余年中，全球公民几乎从未出现在博士特质调查工具中，Senekal et al.（2022）的综述将其命名为"积极公民身份"而非"全球公民"，且指出现有文献对这一维度的"概念化不足"（Spronken-Smith et al., 2024, p.87）。
+> 在博士教育领域，Nerad（2005）较早发出了明确呼吁，要求博士培养超越学科专精、包含公民维度。但在之后十余年中，全球公民几乎从未出现在博士特质调查工具中，Senekal et al.（2022）的综述将其命名为"积极公民身份"而非"全球公民"，且指出现有文献对这一维度的"概念化不足"([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
 >
 > Spronken-Smith et al.（2024）在七域分类中将"全球公民"设为一个完整且独立的域，标志着从"被忽视的附加项"到"博士特质的核心维度之一"的转变（pp.98–99）。
 >
@@ -102,7 +101,7 @@ Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两�
 
 ### 本科层次
 - Wong et al.（2022）对 UK 大学的映射发现，"全球公民与参与"话语覆盖率 70%（53/76 所），但环境意识仅 11%（8 所），被作者评价为"略令人担忧"（p.1348）
-- 仅 3 所大学（4%）将外语技能列入[[Graduate Attributes|毕业生特质]]（Wong et al., 2022, p.1348）
+- 仅 3 所大学（4%）将外语技能列入[[Graduate Attributes|毕业生特质]]([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1348]])
 
 ### 博士层次
 - Spronken-Smith et al.（2024）对三所大学 136 名 PhD 校友的调查中，全球公民三项指标是 20 项特质中发展感知**最低**的：环境素养 2.8/5、文化理解 3.2、全球视野 3.4（pp.89–90, Figure 1）
@@ -110,9 +109,9 @@ Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两�
 - 三所大学在全球公民属性的应用感知上无统计显著差异，表明培养缺失是跨制度的系统性问题（p.92）
 
 > [!info]- 核心数据
-> - 博士全球公民属性发展均值（满分 5）：环境素养 2.8、文化理解 3.2、全球视野 3.4（Spronken-Smith et al., 2024, pp.89–90）
-> - 本科 UK 大学环境意识覆盖率：11%（Wong et al., 2022, p.1348）
-> - 本科 UK 大学国际网络与外语技能覆盖率：8%（Wong et al., 2022, p.1348）
+> - 博士全球公民属性发展均值（满分 5）：环境素养 2.8、文化理解 3.2、全球视野 3.4([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])
+> - 本科 UK 大学环境意识覆盖率：11%([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1348]])
+> - 本科 UK 大学国际网络与外语技能覆盖率：8%([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1348]])
 
 ---
 
@@ -128,30 +127,25 @@ Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球�
 
 ### 操作化困境
 - 全球公民的理论框架（O'Brien 的三素养 + Spronken-Smith 的环境素养）与实证测量之间存在明显的粒度差距：Spronken-Smith et al.（2024）用三个 Likert 评分项（环境素养、文化理解、全球视野）来覆盖四类素养 + 倡导 + 社会正义取向——一个 5 点自评量表能否有效捕捉如此复杂的多维素养，存有疑问（pp.87–89）
-- "低发展 + 低应用"的数据模式本身就需要解释：是全球公民确实在职场中需求有限，还是当前大量博士在学术圈就业（59%）的系统性结果——如果博士就业结构向企业、政府和非营利部门进一步倾斜，全球公民属性的需求感知可能显著上升（Spronken-Smith et al., 2024, p.99）
+- "低发展 + 低应用"的数据模式本身就需要解释：是全球公民确实在职场中需求有限，还是当前大量博士在学术圈就业（59%）的系统性结果——如果博士就业结构向企业、政府和非营利部门进一步倾斜，全球公民属性的需求感知可能显著上升([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.99]])
 
 ### 实施的现实阻力
 - 培养全球公民通常需要高影响力体验（如志愿服务、社区项目、国际外展），但这些活动需要资源和时间——而博士培养的默认逻辑是"一切时间应用于论文研究"。Spronken-Smith, Brown, and Cameron（2022）发现一些导师会积极劝阻学生参与论文之外的活动（引自 Spronken-Smith et al., 2024, p.97）
 - Porter（2021）提出通过与外部合作伙伴的高影响力培训机会来培养全球公民属性，但坦承这需要资源配置和"导师文化的转变"（引自 Spronken-Smith et al., 2024, p.97）
 
 ### 比较教育中的概念争议
-Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象（Klerides, 2023, pp.425–426）。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
+Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
 
-在[[Revolutionism|革命主义]]视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念（Klerides, 2023, p.429）。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的[[Re-Westernisation|再西方化]]（re-Westernisation）。
+在[[Revolutionism|革命主义]]视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念([[Argument_Klerides_2023_CE|Klerides, 2023, p.429]])。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的[[Re-Westernisation|再西方化]]（re-Westernisation）。
 
 ---
 
 ## 相关案例／政策
 
 > [!example]
-> - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民操作化为具体博士培养目标的大学之一（Spronken-Smith et al., 2024, p.88）
-> - Manchester 大学[[Graduate Attributes|毕业生特质]]表述 — "毕业生被鼓励和赋能去面对作为地方、区域和全球公民的公民价值观和责任"（Wong et al., 2022, p.1347）
-> - Keele 大学毕业生特质 — 毕业生能够并有动力"作为积极公民负责任地和协作地参与其所生活和工作的社群"（Wong et al., 2022, p.1347）
+> - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民操作化为具体博士培养目标的大学之一([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.88]])
+> - Manchester 大学[[Graduate Attributes|毕业生特质]]表述 — "毕业生被鼓励和赋能去面对作为地方、区域和全球公民的公民价值观和责任"([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]])
+> - Keele 大学毕业生特质 — 毕业生能够并有动力"作为积极公民负责任地和协作地参与其所生活和工作的社群"([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]])
 
 ---
 
-## 来源
-
-- [[Klerides_2023_CE]]
-- [[SpronkenSmith_2024_AEHE]]
-- [[Wong_2022_HERD]]

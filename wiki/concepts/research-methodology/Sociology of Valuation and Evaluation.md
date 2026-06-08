@@ -24,9 +24,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
-related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -38,7 +37,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应（Schulze-Cleven et al., 2017, p.798）。
+> 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.798]])。
 
 在 Schulze-Cleven et al.（2017）对高等教育新政治经济学的分析中，这一研究领域被定位为揭示话语竞争过程的"第二条探究线索"——与微观社会学实践理论（Latour, Foucault）互补。它帮助研究者理解：排名和评估不仅"反映"学术质量，更在"制造"它们所测量的现象（pp.798–799）。
 
@@ -83,6 +82,3 @@ updated: 2026-06-01
 > - **"评估必要论"的风险**：评估与赋值社会学在揭示评估工具的负面效应的同时，也面临一个微妙的风险——在分析评估工具如何"成功"制造合法性和信任时，可能隐性地接受评估的必要性。Reitz从功能主义角度论证学术评估对[[Knowledge Capitalism|知识资本主义]]是功能必要的——这一立场与评估社会学内部的批评性立场存在张力（pp.804–805, 809）
 > - **理论综合不足**：虽然 Espeland & Sauder（2007）的"排名的履行性与反应性"分析和 Münch 的"学术卓越的社会建构"研究推动了实践理论和后结构主义在评估社会学中的运用，但"需要更多的理论综合来有效探索学术绩效测量和评估的起源与功能"（p.798）
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

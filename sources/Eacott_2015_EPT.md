@@ -1,7 +1,6 @@
 ---
 citation: "Eacott, S. (2015). Problematising the intellectual gaze of the educational administration scholar. *Educational Philosophy and Theory*, 47(4), 312–329."
 extracted_to:
-  - "[[Pierre Bourdieu]]"
   - "[[Argument_Eacott_2015_EPT]]"
 processed_date: 2026-05-02
 ---

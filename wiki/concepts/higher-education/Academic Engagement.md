@@ -40,11 +40,8 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
-related_arguments: []
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch12_Ramming_2025]]"
-  - "[[Zheng_2023_ShanghaiSanlian]]"
+related_arguments:
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -157,9 +154,9 @@ updated: 2026-05-27
 
 ### 企业侧的组织对应：学术参与团队
 
-学术参与在企业侧的组织对应物是[[Academic Engagement Team|学术参与团队]]（Academic Engagement Team, AET）——企业内部以预算责任负责领导和管理大学合作的组织单位。Ramming（2025, pp.217–218）区分了实践者（拥有预算和项目执行责任的 AET 成员）与利益相关者（合作的受益方，如业务部门负责人和技术领袖）：AET 作为组织叠加层嵌入公司现有结构，实践者必须同时理解大学和公司两套运作逻辑，才能在矩阵式、高度分权的环境中有效推动合作（Ramming, 2025, pp.222–223）。
+学术参与在企业侧的组织对应物是[[Academic Engagement Team|学术参与团队]]（Academic Engagement Team, AET）——企业内部以预算责任负责领导和管理大学合作的组织单位。Ramming（2025, pp.217–218）区分了实践者（拥有预算和项目执行责任的 AET 成员）与利益相关者（合作的受益方，如业务部门负责人和技术领袖）：AET 作为组织叠加层嵌入公司现有结构，实践者必须同时理解大学和公司两套运作逻辑，才能在矩阵式、高度分权的环境中有效推动合作([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.222–223]])。
 
-AET 的资助结构（中央化运营预算、企业基金会、业务部门分布式预算、按职能分配、按技术领域分配）决定了产学合作在企业内部关注什么、忽略什么——这一企业侧的组织视角补充了 Perkmann 等人对大学侧学术参与低组织嵌入性的分析（Ramming, 2025, pp.228–229）。
+AET 的资助结构（中央化运营预算、企业基金会、业务部门分布式预算、按职能分配、按技术领域分配）决定了产学合作在企业内部关注什么、忽略什么——这一企业侧的组织视角补充了 Perkmann 等人对大学侧学术参与低组织嵌入性的分析([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.228–229]])。
 
 ### 组织特征
 
@@ -181,8 +178,3 @@ AET 的资助结构（中央化运营预算、企业基金会、业务部门分�
 
 ---
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch12_Ramming_2025]]
-- [[Zheng_2023_ShanghaiSanlian]]

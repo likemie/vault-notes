@@ -19,9 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch1_Slethaug_2010]]"
+related_arguments:
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -33,7 +32,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 进入 21 世纪，西方大学开始大规模在海外建立分校。此前，大学通常与当地机构合作提供有限课程或进行师生交流，教师短期飞行授课（Slethaug, 2010, p.14）。但近年来，美、澳、英、加等国大学开始在海外建设综合性分校，配备长期驻地的教学和行政人员（Slethaug, 2010, p.15）。
+> 进入 21 世纪，西方大学开始大规模在海外建立分校。此前，大学通常与当地机构合作提供有限课程或进行师生交流，教师短期飞行授课([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.14]])。但近年来，美、澳、英、加等国大学开始在海外建设综合性分校，配备长期驻地的教学和行政人员([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.15]])。
 
 ---
 
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning]
-> 教育城的出现标志着教育与全球化的一个新阶段，但也提出了诸多问题（Slethaug, 2010, p.16）：
+> 教育城的出现标志着教育与全球化的一个新阶段，但也提出了诸多问题([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.16]])：
 > - 市场驱动的政策与财务可持续性——这些分校能否在经济上自给自足？
 > - 将一种文化嫁接到另一种文化之上的影响——西方教育模式在中东文化中的适用性
 > - 西方意识形态和社会实践对非西方文化的强加
@@ -69,6 +68,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Ch1_Slethaug_2010]]

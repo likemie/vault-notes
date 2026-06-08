@@ -7,7 +7,6 @@ extracted_to:
   - "[[Local Schools Local Decisions]]"
   - "[[My School Website]]"
   - "[[School Leadership]]"
-  - "[[New Public Management]]"
   - "[[Argument_Keddie_2020_IJLE]]"
 processed_date: 2026-05-03
 ---

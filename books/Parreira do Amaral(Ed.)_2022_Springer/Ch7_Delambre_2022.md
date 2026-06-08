@@ -8,7 +8,6 @@ extracted_to:
   - "[[Whole Sustainability]]"
   - "[[Life Power]]"
   - "[[Tense Society]]"
-  - "[[Walter Mignolo]]"
   - "[[Camilla de Hollanda Amado]]"
   - "[[Dell Delambre]]"
   - "[[Richard Castelo Branco]]"

@@ -24,9 +24,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
-related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -38,12 +37,12 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 Schulze-Cleven et al.（2017）置于高等教育新政治经济学的[[Analytic Framework|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度努力来维持（Schulze-Cleven et al., 2017, pp.804–805）。
+> 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 Schulze-Cleven et al.（2017）置于高等教育新政治经济学的[[Analytic Framework|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度努力来维持([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 这一概念的分析功能在于：揭示"[[Academic Capitalism|学术资本主义]]"概念的一个核心模糊性——大学被说成在"市场化"，但大学的"产品"（知识、教育、研究）从根本上抗拒完全的市场化。准商品化的概念精确地捕捉了知识在这个过程中的"半市场"状态。
 
 > [!quote]
-> Jessop（2007）将知识分析为 Polanyi 意义上的"虚拟商品"（[[Fictitious Commodity of Knowledge|fictitious commodity]]）——它被当作商品来对待，但其固有的社会性质使其无法被完全商品化（Schulze-Cleven et al., 2017, pp.804–805）。
+> Jessop（2007）将知识分析为 Polanyi 意义上的"虚拟商品"（[[Fictitious Commodity of Knowledge|fictitious commodity]]）——它被当作商品来对待，但其固有的社会性质使其无法被完全商品化([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 ## 概念辨析
 
@@ -66,7 +65,7 @@ updated: 2026-06-01
 
 ### 评估作为商品化的基础设施
 
-Reitz提出了一个激进的论证：资本主义知识经济需要一个非资本主义的学术部门来界定知识为有价值（Schulze-Cleven et al., 2017, p.805）。为什么？因为知识本身无法通过市场供需自动产生价格信号——一项基础数学定理的市场价格是多少？无法回答。因此需要学术界的评估机制——同行评审、排名、影响因子——来为知识产品"赋值"。这些评估机制创造的不是市场价格，而是一种**符号价格**：Nature 论文 > 地方性期刊论文，Harvard 博士 > 普通大学博士，高引用 > 低引用。这种符号价格再转化为经济资源——拨款、职位、薪资、捐赠。
+Reitz提出了一个激进的论证：资本主义知识经济需要一个非资本主义的学术部门来界定知识为有价值([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]])。为什么？因为知识本身无法通过市场供需自动产生价格信号——一项基础数学定理的市场价格是多少？无法回答。因此需要学术界的评估机制——同行评审、排名、影响因子——来为知识产品"赋值"。这些评估机制创造的不是市场价格，而是一种**符号价格**：Nature 论文 > 地方性期刊论文，Harvard 博士 > 普通大学博士，高引用 > 低引用。这种符号价格再转化为经济资源——拨款、职位、薪资、捐赠。
 
 换句话说，学术界的评估和等级体系是知识准商品化所必需的**定价基础设施**——没有它，知识就无法在更广泛的资本主义经济中被估价、交易和投资。
 
@@ -79,13 +78,10 @@ Reitz提出了一个激进的论证：资本主义知识经济需要一个非资
 ## 在高等教育新政治经济学分析中的位置
 
 > [!note]
-> Jessop的三重思想实验将准商品化置于一个更广泛的谱系中（Schulze-Cleven et al., 2017, pp.804–805）：
+> Jessop的三重思想实验将准商品化置于一个更广泛的谱系中([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])：
 > - **成本效率**（cost-efficiency）：大学追求更有效的资源利用——这不是资本主义，只是好的管理
 > - **准商品化**（quasi-commodification）：知识劳动被当作可交易商品处理——进入"[[Academic Capitalism|学术资本主义]]"的门槛
 > - **金融化**（financialization）：金融资本直接进入并主导高等教育的收入流和治理——商品化逻辑从知识产品扩展到高等教育的整体财务结构
 >
 > 准商品化位于"类市场行为"和"完全资本主义"之间的灰色地带——它解释了为什么大学可以表现得"像企业"而不必"成为企业"。
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

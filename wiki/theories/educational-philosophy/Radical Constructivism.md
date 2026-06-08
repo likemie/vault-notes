@@ -95,5 +95,5 @@ updated: '2026-05-18'
 > [!success] 应用领域
 > - [[Visible Learning]] — Hattie 以激进[[Constructivist Paradigm|建构主义]]为学习理论基础，试图在其上添加教师中心的教学
 > - [[Evidence-Based Education]] — Rømer 论证 EBE 的[[Appraisal Theory|评价理论]]逻辑与激进建构主义在消解教育对象上殊途同归
-> - [[Argument_Sarbiewska_2019_JSR]] — Sarbiewska (2019) 引述 Rømer (2019) 批评：VL 属于激进[[Constructivist Paradigm|建构主义范式]]，导致"教学本质的双重崩溃"
+> - [[Argument_Sarbiewska_2019_JSR]] — [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] 引述 Rømer (2019) 批评：VL 属于激进[[Constructivist Paradigm|建构主义范式]]，导致"教学本质的双重崩溃"
 

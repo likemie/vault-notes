@@ -42,7 +42,8 @@ related_facts:
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
   - "[[International Baccalaureate]]"
   - "[[National Education]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Bulag_2024_CE]]"
 sources:
   - "[[Yan_2025_JCS]]"
 part_of: ""
@@ -290,7 +291,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 >
 > 4. **"[[One Country, Two Systems|一国两制]]"解释框架的转变**。从强调"港人治港、高度自治"转向强调"一国"是"两制"的前提。教育从服务本地需要转变为统一国家认同的强制性工具（p. 489）。
 >
-> 5. **边疆地区的平行逻辑**。香港与内蒙古（Bulag, 2024）、新疆（Tobin, 2024）、西藏（Leibold & Dorjee, 2024）被并置分析，揭示中共在边疆地区通过教育推行统一的"[[Zhonghua Minzu|中华民族]]"认同、消除地方文化特殊性的共同模式。这些地区的教育政策都服务于习近平的国族建构项目（pp. 490–491）。
+> 5. **边疆地区的平行逻辑**。香港与内蒙古([[Argument_Bulag_2024_CE|Bulag, 2024]])、新疆（Tobin, 2024）、西藏（Leibold & Dorjee, 2024）被并置分析，揭示中共在边疆地区通过教育推行统一的"[[Zhonghua Minzu|中华民族]]"认同、消除地方文化特殊性的共同模式。这些地区的教育政策都服务于习近平的国族建构项目（pp. 490–491）。
 
 > [!info] 关键数据
 > - LS 从引入（2009）到废除（2021）历时 12 年

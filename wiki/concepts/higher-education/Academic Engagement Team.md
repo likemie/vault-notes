@@ -18,8 +18,8 @@ related_concepts:
   - "[[Technology Transfer Office]]"
 related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
-sources:
-  - "[[Ch12_Ramming_2025]]"
+related_arguments:
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -31,7 +31,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是大型企业内部以预算责任负责领导和管理大学合作的组织单位。AET 由[[University-Industry Collaboration|产学合作]]实践者（practitioner）组成——这些实践者同时对大学和公司有深入理解，利用这种双重知识来设计和推进服务于双方利益相关者的合作项目（Ramming, 2025, pp.217–218）。
+> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是大型企业内部以预算责任负责领导和管理大学合作的组织单位。AET 由[[University-Industry Collaboration|产学合作]]实践者（practitioner）组成——这些实践者同时对大学和公司有深入理解，利用这种双重知识来设计和推进服务于双方利益相关者的合作项目([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.217–218]])。
 
 AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加层"（overlay）的形式嵌入公司现有的组织结构之上——AET 的成员可能在中央 CTO 办公室、人力资源部门或分散在各业务单元中，他们的大学合作职责可能是全职或兼职、正式或非正式。这意味着 AET 的实践者必须在矩阵式的、高度分权的环境中运作（pp.222–223）。
 
@@ -92,11 +92,8 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 ## 相关案例
 
 > [!example]
-> - Intel Labs 在 [[Universal Parallel Computing Research Centers|UPCRC]] 之前的 AET 组织是典型的"按技术领域分配预算"模式：多个分散的研究理事会各自管理独立的小额大学资助预算，通过共识机制在已定义的研究领域内运作。2000 年代末为了应对并行计算的全行业危机，Intel Labs 将研究理事会的大部分预算集中化，革新了治理流程——这是一次教科书式的 AET 组织形式随公司战略需求变化而调整的案例（Ramming, 2025, pp.234–236）
+> - Intel Labs 在 [[Universal Parallel Computing Research Centers|UPCRC]] 之前的 AET 组织是典型的"按技术领域分配预算"模式：多个分散的研究理事会各自管理独立的小额大学资助预算，通过共识机制在已定义的研究领域内运作。2000 年代末为了应对并行计算的全行业危机，Intel Labs 将研究理事会的大部分预算集中化，革新了治理流程——这是一次教科书式的 AET 组织形式随公司战略需求变化而调整的案例([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.234–236]])
 > - 有的大型公司同时存在多个事实上的 AET：研发 AET（CTO 办公室）、人才招聘 AET（HR）、企业社会责任 AET（基金会），以及仅有的少数"大学关系"伞形 AET 来协调多界面对接（pp.217–218）
 
 ---
 
-## 来源
-
-- [[Ch12_Ramming_2025]]

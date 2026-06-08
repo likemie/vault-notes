@@ -6,7 +6,6 @@ extracted_to:
   - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"
   - "[[Capability Approach]]"
-  - "[[Global Universities Rankings]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[OECD AHELO Project]]"
   - "[[Argument_Boyadjieva_2022_Springer]]"

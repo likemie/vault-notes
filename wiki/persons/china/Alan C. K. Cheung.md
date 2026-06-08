@@ -20,7 +20,8 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Chen Xie]]"
   - "[[Tengteng Zhuang]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slavin_2021_ROE]]"
 related_facts:
   - "[[Best Evidence in Brief]]"
 confidence: low
@@ -36,7 +37,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> 关注[[Evidence-Based Education|证据本位教育]]改革在美国、英国和中国的跨国比较研究，特别是在大规模随机实验的设计和实施领域（Slavin & Cheung, 2017）。在 Slavin et al. (2021) 中负责识别、分析并回应中国学者对证据本位教育研究的质疑立场。
+> 关注[[Evidence-Based Education|证据本位教育]]改革在美国、英国和中国的跨国比较研究，特别是在大规模随机实验的设计和实施领域（Slavin & Cheung, 2017）。在 [[Argument_Slavin_2021_ROE|Slavin et al. (2021)]] 中负责识别、分析并回应中国学者对证据本位教育研究的质疑立场。
 
 ## 主要贡献
 
@@ -49,8 +50,8 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - [[Robert Slavin|Slavin, R]]. E., Cheung, A. C. K., & [[Tengteng Zhuang|Zhuang, T]]. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国学者质疑立场文献的系统梳理与分析
-> - Cheung, A. C. K., & [[Chen Xie|Xie, C]]. (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. — 特刊导言，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，按四项核心活动框架组织全刊
+> - [[Robert Slavin|Slavin, R.]] E., Cheung, A. C. K., & [[Tengteng Zhuang|Zhuang, T.]] (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国学者质疑立场文献的系统梳理与分析
+> - Cheung, A. C. K., & [[Chen Xie|Xie, C.]] (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. — 特刊导言，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，按四项核心活动框架组织全刊
 > - Slavin, R., & Cheung, A. C. K. (2017). Lessons learned from large-scale randomized experiments. *Journal of Education for Students Placed at Risk*, 22(4), 253–259.
 
 ## 思想发展与影响

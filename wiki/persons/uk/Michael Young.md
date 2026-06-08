@@ -21,7 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -34,7 +35,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Michael Young 是英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展（McPhail et al., 2023）。Young 与 Muller 共同提出了[[Powerful Knowledge|有力知识]]概念，强调学科知识对年轻人认知和社会发展的独特价值。
+> Michael Young 是英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Young 与 Muller 共同提出了[[Powerful Knowledge|有力知识]]概念，强调学科知识对年轻人认知和社会发展的独特价值。
 
 ---
 

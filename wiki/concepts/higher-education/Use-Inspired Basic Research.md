@@ -24,10 +24,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
-related_arguments: []
-sources:
-  - "[[Ch2_Ulrichsen_2025]]"
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
+related_arguments:
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -39,7 +37,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 应用启发的基础研究（Use-Inspired Basic Research）是 Stokes（1997）在 [[Stokes' Quadrant Model of Scientific Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出的概念，指一种同时追求对现象的基本理解（basic understanding）和实际应用（considerations of use）的研究模式。它打破了基础研究与应用研究之间的传统二分法——研究表明，两者并非对立的两端，而是可以共存的独立维度（Ulrichsen, 2025, p.39）。
+> 应用启发的基础研究（Use-Inspired Basic Research）是 Stokes（1997）在 [[Stokes' Quadrant Model of Scientific Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出的概念，指一种同时追求对现象的基本理解（basic understanding）和实际应用（considerations of use）的研究模式。它打破了基础研究与应用研究之间的传统二分法——研究表明，两者并非对立的两端，而是可以共存的独立维度([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。
 
 > 这一概念以路易·巴斯德（Louis Pasteur）命名和典范化：巴斯德在微生物学领域的基础发现（如发酵机制、疾病的细菌理论）既是纯粹的基础科学突破，同时直接服务于食品保存、酿酒和疾病治疗等实际需求。
 
@@ -51,11 +49,11 @@ updated: 2026-05-27
 ## 概念演变
 
 > [!note]
-> 应用启发的基础研究这一概念在 1980 年代后获得了日益重要的政策意义。随着冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落以及全球竞争加剧，政府和大学内部对"大学是否只应从事好奇心驱动的基础研究"这一问题出现了重新审视（Ulrichsen, 2025, pp.38–39）。
+> 应用启发的基础研究这一概念在 1980 年代后获得了日益重要的政策意义。随着冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落以及全球竞争加剧，政府和大学内部对"大学是否只应从事好奇心驱动的基础研究"这一问题出现了重新审视([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.38–39]])。
 
-> 这一时期见证了"对研究型大学的重要性的重新认识——大学不仅应追求基础研究，还应能够将发现导向社会用途，并开展更容易转化为应用的更应用型研究"（Arora et al., 2020）（Ulrichsen, 2025, p.39）。
+> 这一时期见证了"对研究型大学的重要性的重新认识——大学不仅应追求基础研究，还应能够将发现导向社会用途，并开展更容易转化为应用的更应用型研究"（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。
 
-> 这一转变的制度表现包括：美国 [[National Science Foundation|NSF]] 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年 NSF 新设的技术创新与伙伴关系局（Ulrichsen, 2025, pp.39–40, 44）。
+> 这一转变的制度表现包括：美国 [[National Science Foundation|NSF]] 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年 NSF 新设的技术创新与伙伴关系局([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.39–40, 44]])。
 
 > 在国际[[University-Industry Collaboration|产学合作]]语境中，巴斯德象限被用作概念定位工具：大学的基础研究能力与产业的应用问题驱动相结合，使合作自然落在"应用启发的基础研究"区间。这一象限概念为理解国际产学合作的科学定位提供了认识论基础（Wolf et al., 2025, p.310）。
 
@@ -74,7 +72,3 @@ updated: 2026-05-27
 
 ---
 
-## 来源
-
-- [[Ch2_Ulrichsen_2025]]
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

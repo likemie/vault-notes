@@ -98,6 +98,8 @@ doi: ""
 citation_aliases:
   - "Yajun Zheng, 2023"
   - "Yajun Zheng (2023)"
+  - "郑雅君, 2023"
+  - "郑雅君 (2023)"
 ---
 ## 研究问题
 

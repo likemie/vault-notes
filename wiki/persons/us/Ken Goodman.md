@@ -21,7 +21,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -30,16 +31,16 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Ken Goodman 是美国教育研究者，[[Whole Language|全语言]]（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础（O'Connor, 2020, p.143）。
+> Ken Goodman 是美国教育研究者，[[Whole Language|全语言]]（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
 
 ## 核心思想
 
 > [!info] 阅读作为心理语言学过程
-> Goodman（1967）提出阅读不是一个精确的、逐字的解码过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语义、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测（O'Connor, 2020, p.143）。
+> Goodman（1967）提出阅读不是一个精确的、逐字的解码过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语义、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
 
 
 > [!info] [[Whole Language|全语言]]的定义与边界
-> Goodman（2005, pp.35-36）系统阐述了全语言"坚决拒绝"的做法（O'Connor, 2020, p.143）：
+> Goodman（2005, pp.35-36）系统阐述了全语言"坚决拒绝"的做法([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])：
 >
 > - 孤立技能序列
 > - 将读写切分为年级碎片，每个碎片整齐地跟随并依赖于前一个
@@ -55,7 +56,7 @@ updated: '2026-06-08'
 
 
 > [!info] 对行为主义心理学研究方法的警告
-> Goodman（1989）警告不要仅依赖行为主义心理学基础的读写研究方法——那些仅考察后测技能增长的方法。他主张研究必须考察学习者在真实读写情境中如何发展和使用策略（O'Connor, 2020, p.146）。
+> Goodman（1989）警告不要仅依赖行为主义心理学基础的读写研究方法——那些仅考察后测技能增长的方法。他主张研究必须考察学习者在真实读写情境中如何发展和使用策略([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
 
 ## 主要贡献
 
@@ -72,7 +73,7 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 在社会文化层面，[[Whole Language|全语言]]运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"（O'Connor, 2020, p.150）
+> - 在社会文化层面，[[Whole Language|全语言]]运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]])
 > - Goodman 的心理语言学阅读模型挑战了当时主导的行为主义阅读教学范式，将焦点从可观察的技能表现转向读者的认知过程
 > - 全语言运动深刻影响了英语国家的读写教学，同时也引发了激烈的"阅读战争"——与系统合成语音（synthetic phonics）支持者之间的长期公开辩论
 

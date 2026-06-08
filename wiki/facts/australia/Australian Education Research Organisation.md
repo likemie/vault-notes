@@ -21,9 +21,8 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Strong Beginnings Report]]"
-related_arguments: []
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
+related_arguments:
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -33,7 +32,7 @@ updated: 2026-06-06
 ## 背景
 
 > [!info]
-> AERO是澳大利亚的教育证据中介组织，明确将自身定位为"[[What Works Movement|what works]]"运动的一部分。该组织与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）保持紧密联系，其专家委员会中包括EEF创始人Sir Kevan Collins。AERO的出现早于EEF的五年期"Building a global evidence ecosystem in teaching"项目（2018年启动，由BHP基金会资助）（Skourdoumbis & Rowe, 2024, p.8）。
+> AERO是澳大利亚的教育证据中介组织，明确将自身定位为"what works"运动的一部分。该组织与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）保持紧密联系，其专家委员会中包括EEF创始人Sir Kevan Collins。AERO的出现早于EEF的五年期"Building a global evidence ecosystem in teaching"项目（2018年启动，由BHP基金会资助）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p.8]])。
 
 ---
 
@@ -63,7 +62,7 @@ updated: 2026-06-06
 ## 争议与评论
 
 > [!warning]
-> - AERO委托的"[[What Works Movement|what works]]"桌面审查由外部机构CEI完成，基于"有限的澳大利亚证据"
+> - AERO委托的"what works"桌面审查由外部机构CEI完成，基于"有限的澳大利亚证据"
 > - 该审查的"专家"主要来自CEI自身组织和"what works"机构，代表性有限
 > - AERO作为证据中介组织，在政策制定中获得了越来越大的影响力，但其证据基础和利益关联受到质疑
 
@@ -77,6 +76,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

@@ -20,10 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
-  - "[[Ch3_Parreira do Amaral_2022]]"
+related_arguments:
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -56,9 +54,9 @@ updated: '2026-05-18'
 >
 > > "每个组织运作在一个自身被建构的地理'区域'空间中（如'亚太'或拉丁美洲），这些区域是国家政府让渡部分权威和主权以协调和中介其发展的有意创造——且这些全球区域主义彼此互不相同。这些差异不仅是经济关系侧重点不同的结果，还因为政治、文化和历史动态中介了其制度形态和其他社会关系的性质。"（Robertson et al., 2016, p.1, cited in Parreira do Amaral, 2022, p.41）
 >
-> 这一转向使研究从单一关注"区域对教育的影响"扩展为关注高等教育在世界区域的话语建构、新型区域间主义（inter-regionalism）中的竞争关系、以及对高等教育这一"在过去 20 年间可以识别大量活动的部门"的深层影响（Parreira do Amaral, 2022, pp.41–42）。
+> 这一转向使研究从单一关注"区域对教育的影响"扩展为关注高等教育在世界区域的话语建构、新型区域间主义（inter-regionalism）中的竞争关系、以及对高等教育这一"在过去 20 年间可以识别大量活动的部门"的深层影响([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.41–42]])。
 >
-> 具体的区域案例研究涵盖：南美洲四个区域方案（Perrotta, 2016）、Alba-TCP 美洲玻利瓦尔联盟（Muhr, 2010）、亚欧区域间政策（Robertson, 2008）等（Parreira do Amaral, 2022, p.42）。
+> 具体的区域案例研究涵盖：南美洲四个区域方案（Perrotta, 2016）、Alba-TCP 美洲玻利瓦尔联盟（Muhr, 2010）、亚欧区域间政策（Robertson, 2008）等([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]])。
 >
 
 ## 核心要素
@@ -91,7 +89,3 @@ updated: '2026-05-18'
 > - 区域主义研究多以西方（尤其是欧盟）经验为中心，其他区域的分析相对不足
 >
 
-## 来源
-
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch3_Parreira do Amaral_2022]]

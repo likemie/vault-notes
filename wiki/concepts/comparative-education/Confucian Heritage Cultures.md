@@ -27,9 +27,8 @@ related_persons:
   - "[[John Biggs]]"
   - "[[Confucius]]"
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments:
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 confidence: medium
 status: draft
 created: '2026-05-22'
@@ -76,7 +75,7 @@ Li（2012, pp.84-89）将 CHC 框架下的研究归纳为两条互补路径：
 > "East Asian" 是地理标签，包含很多不受儒家传统影响的文化（如马来西亚、印度尼西亚）。CHC 以文化传统为纽带——因此越南（地理上属东南亚）被纳入，而马来西亚未被纳入。
 
 ### CHC vs "Asian"
-> "Asian" 的覆盖范围更广——南亚（印度、巴基斯坦）、东南亚（泰国、菲律宾）等国拥有完全不同的文化传统（印度教、佛教、伊斯兰教）。将 CHC 学习者与"亚洲学习者"混为一谈，会掩盖南亚与东亚之间在教育信念和实践上的根本差异（Ryan, 2010, p.39）。
+> "Asian" 的覆盖范围更广——南亚（印度、巴基斯坦）、东南亚（泰国、菲律宾）等国拥有完全不同的文化传统（印度教、佛教、伊斯兰教）。将 CHC 学习者与"亚洲学习者"混为一谈，会掩盖南亚与东亚之间在教育信念和实践上的根本差异([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.39]])。
 
 ---
 
@@ -90,6 +89,3 @@ Li（2012, pp.84-89）将 CHC 框架下的研究归纳为两条互补路径：
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]

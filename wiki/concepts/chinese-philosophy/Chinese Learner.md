@@ -52,13 +52,9 @@ related_facts:
   - "[[Transnationalism and America Project SYSU]]"
   - "[[China Basic Education Curriculum Reform]]"
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
-  - "[[Ryan(Ed.)_2010_HKUP]]"
-  - "[[Ch1_Slethaug_2010]]"
-  - "[[Ch2_Ryan_2010]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-16
@@ -74,12 +70,12 @@ updated: 2026-05-24
 >
 > **1. 文化学习模型（cultural learning model）**：Li (2012) 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues|学习美德]]为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型**（ideal type），而非任何个体学习者的描述（Li, 2012, pp.57-58）。
 >
-> **2. 跨文化教育话语中的群体标签**：在 Ryan (2010) 和 Slethaug (2010) 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被假设有相同的认同和偏好（Slethaug, 2010, p.34）。
+> **2. 跨文化教育话语中的群体标签**：在 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] 和 [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被假设有相同的认同和偏好([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.34]])。
 >
 > 这两个用法之间的关系，见 [[#概念演变|概念演变]]。
 
 > [!warning] 术语的模糊性
-> Ryan（2010, p.39）揭示该术语在西方文献中的所指极其模糊："Asian"与"Chinese"常被混用。Nisbett（2003）将"任何有东亚血统的人"全部纳入——包括终身生活在美国的华裔。Hu（2005）指出"中国语境"这一提法忽视了中国内部学习情境的巨大多样性，是一个神话（Ryan, 2010, p.41）。
+> Ryan（2010, p.39）揭示该术语在西方文献中的所指极其模糊："Asian"与"Chinese"常被混用。Nisbett（2003）将"任何有东亚血统的人"全部纳入——包括终身生活在美国的华裔。Hu（2005）指出"中国语境"这一提法忽视了中国内部学习情境的巨大多样性，是一个神话([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.41]])。
 
 ---
 
@@ -199,7 +195,7 @@ updated: 2026-05-24
 
 > [!example]
 > - vs **[[Western Learner]]** — 中国学习者向内完善自我，西方学习者向外探究世界。方向性差异衍生出全部次级差异：品德 vs 心智、尊师 vs 挑战权威、[[Action Better Than Words|行胜于言]] vs 自我表达、终身[[Self-Cultivation|修身]] vs 项目式探究。系统对比见 [[Western Learner#概念辨析]]
-> - vs **"亚洲学习者"（Asian learner）** — 中国学习者更具体地指向中国及[[Confucian Heritage Cultures|儒家文化圈]]；"亚洲"掩盖了 CHC 与南亚、东南亚非儒家文化圈之间的根本差异（Ryan, 2010, p.39）
+> - vs **"亚洲学习者"（Asian learner）** — 中国学习者更具体地指向中国及[[Confucian Heritage Cultures|儒家文化圈]]；"亚洲"掩盖了 CHC 与南亚、东南亚非儒家文化圈之间的根本差异([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.39]])
 > - vs **"国际学生"（international student）** — 按签证/流动状态的制度标签 vs 按文化背景的学术概念
 > - vs **[[Paradox of the Chinese Learner]]** — 后者特指"中国学习者被认为是被动[[Rote Learning|死记硬背]]的，但学业成就却很高"这一矛盾现象
 
@@ -212,14 +208,14 @@ updated: 2026-05-24
 
 ### 第一阶段：缺陷型刻板印象（Deficit Stereotypes）
 
-西方长期持有的负面认知：认为中国学习者[[Rote Learning|死记硬背]]、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、创造性）设为规范，中国学习者因偏离此规范而被视为"有缺陷"（Slethaug, 2010, p.2）。
+西方长期持有的负面认知：认为中国学习者[[Rote Learning|死记硬背]]、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、创造性）设为规范，中国学习者因偏离此规范而被视为"有缺陷"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
 
 > [!note] 刻板印象的再生产机制
 > Ryan（2010, pp.41–42）以 Ballard & Clanchy（1991, 1997）在澳大利亚的影响为典型案例：其著作在图书馆中被严重标注，但被高亮的段落恰恰是描述 [[Confucian Heritage Cultures|CHC]] 学习者"缺陷"的部分，而作者明确警告刻板印象危险的段落却几乎未被标注。完整四步拆解见 [[Argument_Ryan_2010_ChineseLearner#2a. 缺陷型刻板印象（Deficit Stereotypes）]]。心理机制——刻板印象如何通过威胁感知成为自我实现的预言——见 [[Stereotype Threat]]。
 
 ### 第二阶段：优势型刻板印象（Surplus Stereotypes）
 
-较晚近出现的正面认知：中国学习者数学好、合作性强、勤奋、家庭观念重。虽看似积极，但同样将个体简化为文化标签（Slethaug, 2010, p.3）。两种矛盾刻板印象（缺陷 + 优势）常被**同时持有**——这就是 [[Paradox of the Chinese Learner|中国学习者悖论]] 的根源。
+较晚近出现的正面认知：中国学习者数学好、合作性强、勤奋、家庭观念重。虽看似积极，但同样将个体简化为文化标签([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.3]])。两种矛盾刻板印象（缺陷 + 优势）常被**同时持有**——这就是 [[Paradox of the Chinese Learner|中国学习者悖论]] 的根源。
 
 ### 第三阶段：Li (2012) 的系统性反驳
 
@@ -237,7 +233,7 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 
 ### 第四阶段：中国学者的内部回应与教育改革
 
-中国研究者持续发声纠正刻板印象——Shi（2006）发现上海中学生"与西方同龄人差异很小"；Hu、Chan & Rao、Jin & Cortazzi 等均致力于此。然而这些研究"并未根本撼动西方学界的既有成见"（Ryan, 2010, p.44）。
+中国研究者持续发声纠正刻板印象——Shi（2006）发现上海中学生"与西方同龄人差异很小"；Hu、Chan & Rao、Jin & Cortazzi 等均致力于此。然而这些研究"并未根本撼动西方学界的既有成见"([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.44]])。
 
 中国 2001 年启动的基础教育课程改革——从"双基"到"[[Quality Education|素质教育]]"、从教师中心到学生中心——使静态刻板印象严重脱离现实。完整论证见 [[Argument_Ryan_2010_ChineseLearner#第 6 步：以中国教育改革证明刻板印象已经过时]]。
 
@@ -269,9 +265,9 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 **[[Ideal Learner|理想学习者]]研究**。Li 的中美大学生比较研究（Li, 2012, pp.98-103）：欧裔美国模型的核心是"主动参与→思考→探究→沟通"的心智过程（96% 受访者提及）；中国模型的核心是五种[[Learning Virtues|学习美德]]（68% 受访者提及）。完整模型对比见 [[Argument_Li_2012_Cambridge#研究二：理想学习者形象]]。
 
 > [!info] 流动规模与分布
-> - 1978–2003 年，580,000 名中国学生赴美留学（Slethaug, 2010, p.17）
-> - 中国自身也成为留学目的地：2005 年外国大学生超过 140,000 名（Slethaug, 2010, p.18）
-> - [[English Schools Foundation Hong Kong|ESF]] 系统中本地华人学生占 40%–50%（Slethaug, 2010, p.4）
+> - 1978–2003 年，580,000 名中国学生赴美留学([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.17]])
+> - 中国自身也成为留学目的地：2005 年外国大学生超过 140,000 名([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.18]])
+> - [[English Schools Foundation Hong Kong|ESF]] 系统中本地华人学生占 40%–50%([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.4]])
 
 ---
 
@@ -280,10 +276,10 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 > [!warning]
 > - **"中国学习者"范畴本身的问题**：Slethaug（2010, p.34）指出，仅考虑一种"中国性"是有问题的；完全忽视学生的中国性以迁就教师母国价值，同样有问题
 > - **"儒家价值"归因缺乏实证基础**：Clark & Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——李光耀称新加坡为"儒家社会"，但其中的许多价值与[[Confucius|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
-> - **中国内部文化多元性被忽视**：中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统（Ryan, 2010, p.47）
+> - **中国内部文化多元性被忽视**：中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])
 > - **对学生的身份伤害**：Ryan（2010, pp.49–50）描述了学生在海外经历的"身份丧失和自尊降低"，机制见 [[Stereotype Threat]]
 > - **Li (2012) 模型的局限**：Li 的模型是文化理想型（ideal type），不描述任何个体学习者；聚焦"一般文化取向"而忽略内部差异和反例（Li, 2012, p.xi）。模型中的"中国学习者"是来自儒家文本和精英大学生样本的提炼，其对中国农村、少数民族或非精英学习者的代表性需要更多研究支持
-> - **"儒家道德"与当代中国的现实矛盾**：儒学的道德教化影响在当代中国腐败泛滥、关系凌驾于能力之上等现实面前需重新审视（Ryan, 2010, p.47）。[[Civil Service Examination|科举制度]] 的历史演变——从道德选拔到[[Examination Hell|考试地狱]]——见 [[Examination Hell#争议与批评]]
+> - **"儒家道德"与当代中国的现实矛盾**：儒学的道德教化影响在当代中国腐败泛滥、关系凌驾于能力之上等现实面前需重新审视([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])。[[Civil Service Examination|科举制度]] 的历史演变——从道德选拔到[[Examination Hell|考试地狱]]——见 [[Examination Hell#争议与批评]]
 
 ---
 
@@ -300,9 +296,3 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 
 ---
 
-## 来源
-
-- [[Li_2012_Cambridge]]
-- [[Ryan(Ed.)_2010_HKUP]]
-- [[Ch1_Slethaug_2010]]
-- [[Ch2_Ryan_2010]]

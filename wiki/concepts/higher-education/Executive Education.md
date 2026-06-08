@@ -24,9 +24,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
+related_arguments:
+  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
 confidence: "low"
 status: "draft"
 created: 2026-05-30
@@ -40,7 +39,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 高管教育（Executive Education）是大学面向在职专业人士提供的非学位短期培训项目。与传统学位 education 不同，高管教育的学员通常拥有多年行业经验，带着具体的工作挑战和技能提升需求参加课程。其典型形式包括开放式招生（open enrollment，学员按席位付费、来自不同机构）和定制化项目（bespoke programs，为特定组织的需求量身设计）（Lerner-Lam et al., 2025, pp.155-157）。
+> 高管教育（Executive Education）是大学面向在职专业人士提供的非学位短期培训项目。与传统学位 education 不同，高管教育的学员通常拥有多年行业经验，带着具体的工作挑战和技能提升需求参加课程。其典型形式包括开放式招生（open enrollment，学员按席位付费、来自不同机构）和定制化项目（bespoke programs，为特定组织的需求量身设计）([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-157]])。
 
 > [!note]
 > 高管教育的核心定位在于它处于大学与产业之间的“界面”（interface）。好的定制化项目能够有效地将核心研究和教育创新转化为实践，催生新的产业合作关系并巩固现有关系。这种定位使其区别于纯学术学位项目和纯企业内训。前者过于理论化、脱离实践节奏，后者缺乏研究前沿的深度和系统性（pp.155-156）。
@@ -103,7 +102,7 @@ updated: 2026-05-30
 ## 挑战
 
 > [!warning]
-> 面向跨学科复杂挑战的高管教育面临以下挑战（Lerner-Lam et al., 2025, pp.167-170）：
+> 面向跨学科复杂挑战的高管教育面临以下挑战([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.167-170]])：
 > - **教师参与**：传统院系分割使教师缺乏参与跨学科课程的动力和制度激励。
 > - **课程设计连贯性**：从数百门学位课程中提取一条统摄性的逻辑线，需要极强的跨学科判断力。参见 [[Coherence in Writing]]。
 > - **匹配伙伴需求**：合作伙伴可能对自身培训需求只有模糊表述，需要多轮迭代。
@@ -112,6 +111,3 @@ updated: 2026-05-30
 
 ---
 
-## 来源
-
-- [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]

@@ -38,11 +38,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-sources:
-  - "[[Ch2_Moisio_2022]]"
-  - "[[Ch3_Parreira do Amaral_2022]]"
-  - "[[Ch6_Rizvi_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -56,7 +53,7 @@ updated: '2026-05-18'
 >
 > > "Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation."（Moisio, 2018, p.7, cited in Parreira do Amaral, 2022, pp.37–38）
 
-该理论的突破在于：将地缘政治从以民族国家领土控制为中心的古典理解，扩展至涵盖[[Relational Space|关系性空间]]构型和话语—符号维度（Parreira do Amaral, 2022, pp.37–38）。
+该理论的突破在于：将地缘政治从以民族国家领土控制为中心的古典理解，扩展至涵盖[[Relational Space|关系性空间]]构型和话语—符号维度([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
 
 ---
 
@@ -108,11 +105,11 @@ Dodds (2019, p.36) 强调要关注"人们的日常经验以及他们为应对地
 
 在[[Internationalization of Higher Education|高等教育国际化]]分析方面，Rizvi (2022) 将批判地缘政治学作为其核心分析透镜，用于审视亚洲崛起对全球高等教育架构的重塑，详见 Rizvi 章节论证。
 
-Parreira do Amaral (2022) 将批判地缘政治学与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为"新[[Geopolitics of Knowledge|知识地缘政治]]"[[Analytic Framework|分析框架]]。两者的分工与互补详见 知识地缘政治 > 两条理论脉络。
+[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 将批判地缘政治学与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为"新[[Geopolitics of Knowledge|知识地缘政治]]"[[Analytic Framework|分析框架]]。两者的分工与互补详见 知识地缘政治 > 两条理论脉络。
 
-Hartmann (2022) 将批判地缘政治学延伸至[[Further Education|继续教育]]——特别是[[Corporate Education|企业教育]]——的跨国化分析。其核心发现揭示了地缘政治与地缘经济边界正在融合的悖论（Hartmann, 2022, pp.193–196）：
+[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 将批判地缘政治学延伸至[[Further Education|继续教育]]——特别是[[Corporate Education|企业教育]]——的跨国化分析。其核心发现揭示了地缘政治与地缘经济边界正在融合的悖论([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.193–196]])：
 
-- **地缘经济 vs 地缘政治的不可分性**：Luttwak（1990）最早提出"地缘经济"概念——国家不再通过军事征服争夺领土，而是通过经济竞争争夺市场份额。Moisio（2018）进一步论证两者边界正在模糊。Hartmann 在企业教育领域验证了这一诊断：MNCs 的全球培训网络既是市场行为（企业追求效率），也是地缘政治现象——多数企业教育提供商总部位于美国（全球前十高科技上市公司中八家位于美国），美国的自由市场经济体（LME）制度环境赋予了美国公司在全球教育市场中"先发优势"（Hartmann, 2022, pp.193–194）
+- **地缘经济 vs 地缘政治的不可分性**：Luttwak（1990）最早提出"地缘经济"概念——国家不再通过军事征服争夺领土，而是通过经济竞争争夺市场份额。Moisio（2018）进一步论证两者边界正在模糊。Hartmann 在企业教育领域验证了这一诊断：MNCs 的全球培训网络既是市场行为（企业追求效率），也是地缘政治现象——多数企业教育提供商总部位于美国（全球前十高科技上市公司中八家位于美国），美国的自由市场经济体（LME）制度环境赋予了美国公司在全球教育市场中"先发优势"([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.193–194]])
 
 - **"谁在利用谁"的模糊性**：Hartmann 在结论中坦承无法确定[[Causality|因果关系]]——是美国政府利用 MNCs 和教育提供商强化其地缘政治地位（地缘政治利用地缘经济）？还是美国公司利用美国政府扩大其全球市场份额（地缘经济利用地缘政治）？这种模糊性本身即是批判地缘政治学核心主张的经验印证：地缘政治与地缘经济的边界不是客观存在的事实，而是话语建构的产物
 
@@ -141,8 +138,3 @@ Hartmann (2022) 将批判地缘政治学延伸至[[Further Education|继续教�
 
 ---
 
-## 来源
-
-- [[Ch2_Moisio_2022]]
-- [[Ch3_Parreira do Amaral_2022]]
-- [[Ch6_Rizvi_2022]]

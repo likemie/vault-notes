@@ -1,9 +1,6 @@
 ---
 citation: "Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School Leadership & Management, 37(4), 413–426."
 extracted_to:
-  - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Argument_Eacott_2017_SLM]]"
 processed_date: 2026-05-03
 ---

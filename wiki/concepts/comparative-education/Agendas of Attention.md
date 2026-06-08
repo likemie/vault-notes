@@ -23,9 +23,8 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
   - "[[PISA]]"
-related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -42,9 +41,9 @@ updated: 2026-06-08
 > 注意力议程（agendas of attention）是比较教育中的一对概念，指不同国际关系传统使比较教育研究选择性关注某些问题（presences，在场）而忽略另一些问题（absences，缺席）。这对概念由 Klerides（2023）在运用 Wight 国际理论三大传统解读比较教育时提出（p.416）。
 
 > [!quote]
-> "the three traditions offer different 'readings of the global' and make possible 'multiple comparative educations'"（Klerides, 2023, p.417）
+> "the three traditions offer different 'readings of the global' and make possible 'multiple comparative educations'"([[Argument_Klerides_2023_CE|Klerides, 2023, p.417]])
 
-具体而言，三大传统各自定义了什么值得比较、谁有资格比较、比较应服务于什么目的，由此生产出"多重的比较教育"（Cowen, 2000）。注意力的在场与缺席不是中立的学术选择，而是深嵌于对国际社会性质的理解之中（Klerides, 2023, pp.417, 429–431）。
+具体而言，三大传统各自定义了什么值得比较、谁有资格比较、比较应服务于什么目的，由此生产出"多重的比较教育"（Cowen, 2000）。注意力的在场与缺席不是中立的学术选择，而是深嵌于对国际社会性质的理解之中([[Argument_Klerides_2023_CE|Klerides, 2023, pp.417, 429–431]])。
 
 ---
 
@@ -59,7 +58,7 @@ updated: 2026-06-08
 ## 核心要素
 
 > [!abstract]
-> 三大传统各自的注意力议程（Klerides, 2023, pp.420–429）：
+> 三大传统各自的注意力议程([[Argument_Klerides_2023_CE|Klerides, 2023, pp.420–429]])：
 
 ### 现实主义注意力议程
 
@@ -93,12 +92,9 @@ Klerides 进一步指出，三大传统通过注意力议程帮助理解比较�
 ## 争议与批评
 
 > [!warning]
-> - **三大传统的欧洲中心主义**：Bull 指出 Wight 的框架"过度欧洲中心"，这意味着由此衍生的注意力议程分析可能同样受限于西方思想传统（Klerides, 2023, p.431）。
-> - **混合形态的现实**：经验现实中，三大传统的注意力议程往往以混合、交叉和竞争的形态共存于同一比较教育实践中，纯粹单一传统驱动的注意力议程更多是分析工具而非经验描述（Klerides, 2023, p.431）。
+> - **三大传统的欧洲中心主义**：Bull 指出 Wight 的框架"过度欧洲中心"，这意味着由此衍生的注意力议程分析可能同样受限于西方思想传统([[Argument_Klerides_2023_CE|Klerides, 2023, p.431]])。
+> - **混合形态的现实**：经验现实中，三大传统的注意力议程往往以混合、交叉和竞争的形态共存于同一比较教育实践中，纯粹单一传统驱动的注意力议程更多是分析工具而非经验描述([[Argument_Klerides_2023_CE|Klerides, 2023, p.431]])。
 > - **忽略非西方帝国主义**：Klerides 承认，在聚焦西方帝国主义的过程中，比较教育忽视了世界上正在发生的其他形式的帝国主义（p.430）。
 
 ---
 
-## 来源
-
-- [[Klerides_2023_CE]]

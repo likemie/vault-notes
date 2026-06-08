@@ -4,7 +4,6 @@ extracted_to:
   - "[[Critic and Conscience of Society]]"
   - "[[Learning for Life Report]]"
   - "[[Gerald Grace]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Argument_Grace_2010_NZJES]]"
 processed_date: 2026-05-07
 ---

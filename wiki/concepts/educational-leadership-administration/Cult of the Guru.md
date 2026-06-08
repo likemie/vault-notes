@@ -29,12 +29,9 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
-related_arguments: []
-sources:
-  - "[[Eacott_2017_SLM]]"
-  - "[[Hattie_2017_SLM]]"
-  - "[[Eacott_2019_IJLE]]"
-  - "[[Johnson_2023_CE]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
+related_arguments:
+  - "[[Argument_Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -141,12 +138,6 @@ updated: 2026-05-18
 > - Melbourne Declaration of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
 
 
-> [!example] Johnson & Janzen (2023) 对大师崇拜商业维度的补充
-> Johnson & Janzen（2023）补充了大师崇拜的经济维度：截至论文写作时，Corwin 网店搜索"[[Visible Learning]]"返回大量书籍、指南和套装（USD 9.95 至 USD 285），产品线包括在线 VL+ 专业发展系列、学校奖项系统、年度学院（USD 369/人）、认证（USD 2750/座）、网络研讨会和 App。2023 年 VL 续作（USD 29.95）的发布标志着品牌持续扩张。Johnson & Janzen 将 Hattie 描述为"a charismatic and self-assured spokesman for the work, and the Hattie name has become as famous as the body of work itself"（Johnson & Janzen, 2023, p.25）。
+> [!example] [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 对大师崇拜商业维度的补充
+> Johnson & Janzen（2023）补充了大师崇拜的经济维度：截至论文写作时，Corwin 网店搜索"[[Visible Learning]]"返回大量书籍、指南和套装（USD 9.95 至 USD 285），产品线包括在线 VL+ 专业发展系列、学校奖项系统、年度学院（USD 369/人）、认证（USD 2750/座）、网络研讨会和 App。2023 年 VL 续作（USD 29.95）的发布标志着品牌持续扩张。Johnson & Janzen 将 Hattie 描述为"a charismatic and self-assured spokesman for the work, and the Hattie name has become as famous as the body of work itself"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.25]])。
 
-## 来源
-
-- [[Eacott_2017_SLM]]
-- [[Hattie_2017_SLM]]
-- [[Eacott_2019_IJLE]]
-- [[Johnson_2023_CE]]

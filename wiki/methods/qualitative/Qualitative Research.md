@@ -59,7 +59,7 @@ updated: 2026-05-30
 > [!info] 定义
 > 质性研究（Qualitative Research）是探索和理解个体或群体赋予社会或人类问题之意义的研究路径。研究过程包含涌现式问题和程序、在参与者自然情境中收集数据、从具体到一般主题的归纳式数据分析，以及研究者对数据意义的解释。最终书面报告具有灵活的结构。从事这一形式探究的人使用从数据到主题的归纳风格，关注个体意义，并强调报告情境复杂性的重要性。
 > 
-> 在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]中指不操纵自[[Variable|变量]]、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分（Brady et al., 2023, p.4）。
+> 在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的[[Coding in Qualitative Research|编码]]中指不操纵自[[Variable|变量]]、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 
 ## 核心特征
 
@@ -78,14 +78,14 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> Brady et al. (2023) 将质性研究的增加解释为教育心理学方法世界观变化的可能信号：心理学历史上偏向[[Postpositivism|后实证主义]]视角，而质性与[[Mixed Methods Research|混合方法研究]]的增长可能表示后现代、相对主义等其他世界观在教育心理学中获得更多空间，或至少显示研究者所采用的世界观更加多样（Brady et al., 2023, p.7）。
+> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将质性研究的增加解释为教育心理学方法世界观变化的可能信号：心理学历史上偏向[[Postpositivism|后实证主义]]视角，而质性与[[Mixed Methods Research|混合方法研究]]的增长可能表示后现代、相对主义等其他世界观在教育心理学中获得更多空间，或至少显示研究者所采用的世界观更加多样([[Argument_Brady_2023_EPR|Brady et al., 2023, p.7]])。
 
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **不操纵自[[Variable|变量]]**：质性研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
-> - **使用文本数据**：数据例子包括访谈文本和观察文本（Brady et al., 2023, p.4）。
-> - **以解释和理解为主要目标**：该文没有展开质性分析程序，但将其放入方法多元化趋势中，强调不同经验方法可通过不同透镜研究教育现象（Brady et al., 2023, p.2）。
+> - **不操纵自[[Variable|变量]]**：质性研究在该文分类中属于[[Non-intervention Research|非干预研究]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **使用文本数据**：数据例子包括访谈文本和观察文本([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **以解释和理解为主要目标**：该文没有展开质性分析程序，但将其放入方法多元化趋势中，强调不同经验方法可通过不同透镜研究教育现象([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 数据收集类型
 
@@ -103,19 +103,19 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 ## 适用场景
 
 > [!success] 适用场景
-> - 适合在研究早期理解教育情境、观察参与和推理等复杂现象；2020 年 *Journal of Educational Psychology* 曾出版 "Qualitative Studies of Reasoning and Participation" 专刊（Brady et al., 2023, p.5）。
-> - 适合补充以实验和量化关联为主的教育心理学传统，使高影响期刊能纳入更广泛的方法视角（Brady et al., 2023, pp.7-8）。
+> - 适合在研究早期理解教育情境、观察参与和推理等复杂现象；2020 年 *Journal of Educational Psychology* 曾出版 "Qualitative Studies of Reasoning and Participation" 专刊([[Argument_Brady_2023_EPR|Brady et al., 2023, p.5]])。
+> - 适合补充以实验和量化关联为主的教育心理学传统，使高影响期刊能纳入更广泛的方法视角([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.7-8]])。
 
 ## 局限性
 
 > [!warning] 局限性
-> - **[[Recommendations for Practice|实践建议]]边界**：2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变实践会改善结果"的因果结构，就需要谨慎区分解释性发现与因果行动建议（Brady et al., 2023, pp.6-7, 9）。
-> - **比例可能受专刊影响**：JEP 2020 年质性研究专刊使该年度 JEP 的质性研究数量增加；但排除该专刊后，五刊中质性研究仍占 19%，说明增长并非完全由专刊造成（Brady et al., 2023, pp.5-6）。
+> - **[[Recommendations for Practice|实践建议]]边界**：2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变实践会改善结果"的因果结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
+> - **比例可能受专刊影响**：JEP 2020 年质性研究专刊使该年度 JEP 的质性研究数量增加；但排除该专刊后，五刊中质性研究仍占 19%，说明增长并非完全由专刊造成([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.5-6]])。
 
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Non-intervention Research]] — 质性研究是 Brady et al. (2023) 分类中的非[[Intervention Research|干预研究]]类型之一。
+> - [[Non-intervention Research]] — 质性研究是 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 分类中的非[[Intervention Research|干预研究]]类型之一。
 
 ## 数据分析步骤
 
@@ -154,15 +154,15 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 ## 与相关方法的区别
 
 
-- vs [[Observational and Correlational Research]] — 两者都不操纵自[[Variable|变量]]；观察/相关研究包含量化数据，质性研究使用访谈、观察等文本数据（Brady et al., 2023, p.4）。
-- vs Mixed Method and [[Multimethod Research|multi-method research]] — [[Mixed Methods Research|混合方法]]/多方法研究同时包含量化和质性数据；质性研究在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]中只以质性数据为基础（Brady et al., 2023, p.4）。
-- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验实践假设（Brady et al., 2023, pp.2, 4）。
-- vs [[Recommendations for Practice]] — 质性研究可以提出实践启发，但若建议暗含"改变实践会改善结果"的因果结构，就需要说明其证据边界（Brady et al., 2023, pp.6-7, 9）。
+- vs [[Observational and Correlational Research]] — 两者都不操纵自[[Variable|变量]]；观察/相关研究包含量化数据，质性研究使用访谈、观察等文本数据([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+- vs Mixed Method and [[Multimethod Research|multi-method research]] — [[Mixed Methods Research|混合方法]]/多方法研究同时包含量化和质性数据；质性研究在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的[[Coding in Qualitative Research|编码]]中只以质性数据为基础([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验实践假设([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
+- vs [[Recommendations for Practice]] — 质性研究可以提出实践启发，但若建议暗含"改变实践会改善结果"的因果结构，就需要说明其证据边界([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
 
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 将质性研究作为方法趋势类别，发现其比例从 2010 年的 9% 上升至 2020 年的 22%（Brady et al., 2023, pp.6-7）。
+> - [[Argument_Brady_2023_EPR]] — 将质性研究作为方法趋势类别，发现其比例从 2010 年的 9% 上升至 2020 年的 22%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 
 ---
 

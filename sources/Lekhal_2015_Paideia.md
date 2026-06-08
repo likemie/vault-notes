@@ -8,9 +8,6 @@ extracted_to:
   - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
   - "[[Self-control]]"
-  - "[[Gender Differences in Academic Achievement]]"
-  - "[[Observational and Correlational Research]]"
-  - "[[Feedback]]"
   - "[[Motivation and Work Effort]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
 processed_date: 2026-05-06

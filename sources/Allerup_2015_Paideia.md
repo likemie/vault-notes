@@ -1,10 +1,6 @@
 ---
 citation: "Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51."
 extracted_to:
-  - "[[Causal Modeling]]"
-  - "[[Covariate Adjustment]]"
-  - "[[Rasch Measurement]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Argument_Allerup_2015_Paideia]]"
 processed_date: 2026-05-05
 ---

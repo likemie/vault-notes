@@ -38,7 +38,7 @@ updated: '2026-06-08'
 
 ## 主要著作
 
-- Guba, E. G., & [[Yvonna S. Lincoln|Lincoln, Y. S]]. (1989). *Fourth Generation Evaluation*. [[Sage]]. — 将[[Constructivist Paradigm|建构主义范式]]扩展至项目评价领域，提出第四代评价模型，强调利益相关者参与和协商。
+- Guba, E. G., & [[Yvonna S. Lincoln|Lincoln, Y. S.]] (1989). *Fourth Generation Evaluation*. [[Sage]]. — 将[[Constructivist Paradigm|建构主义范式]]扩展至项目评价领域，提出第四代评价模型，强调利益相关者参与和协商。
 - Lincoln, Y. S., & Guba, E. G. (1985). *Naturalistic Inquiry*. SAGE. — 系统建立自然主义探究范式，提出可信性四标准以替代传统量化信效度。
 
 ## 核心思想

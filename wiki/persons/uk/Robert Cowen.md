@@ -28,7 +28,9 @@ related_persons:
   - "[[John Dewey]]"
 related_facts:
   - "[[Regional University Alliances]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -41,20 +43,20 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Robert Cowen，英国比较教育学者，伦敦大学学院教育学院（UCL Institute of Education）荣休教授。其学术贡献集中于三个相互关联的概念框架，三者共享一个底层关切，即教育在宏观社会变迁中的位置与变形机制。[[Transitology]] 分析教育在社会转型中的角色，双轴模型可视化教育从现代到晚期现代的结构转型，[[Transfer Translation Transformation|3T 框架]]分析教育知识在跨国语境中的移动与变形（Amos, 2022, pp.53–55; Zhou & Westberg, 2024, p.611）。
+> Robert Cowen，英国比较教育学者，伦敦大学学院教育学院（UCL Institute of Education）荣休教授。其学术贡献集中于三个相互关联的概念框架，三者共享一个底层关切，即教育在宏观社会变迁中的位置与变形机制。[[Transitology]] 分析教育在社会转型中的角色，双轴模型可视化教育从现代到晚期现代的结构转型，[[Transfer Translation Transformation|3T 框架]]分析教育知识在跨国语境中的移动与变形([[Argument_Amos_2022_Springer|Amos, 2022, pp.53–55]]; [[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.611]])。
 
 ---
 
 ## 生平与职涯
 
 > [!note]
-> 资料主要来自 Amos (2022) 和 Cowen 本人著作中的零星信息。以下为已确认的关键节点。
+> 资料主要来自 [[Argument_Amos_2022_Springer|Amos (2022)]] 和 Cowen 本人著作中的零星信息。以下为已确认的关键节点。
 >
 > - 长期任职于伦敦大学学院教育学院（UCL Institute of Education），从事比较教育研究与教学。
 > - **1990 年代** — 发表比较教育现代性与后现代性的系列论文，提出现代／晚期现代教育的双轴比较模型（Cowen 1996）。
 > - **2000** — 在 *Comparative Education* 发表 Comparing futures or comparing pasts，正式给出 [[Transitology]] 的定义（Cowen 2000, p.338）。
 > - **2009** — 在 *Comparative Education* 发表 [[Transfer Translation Transformation|3T 框架]]的标志性论文 The Transfer, Translation, and Transformation of Educational Processes: And Their [[Shape-Shifting]]?（Cowen 2009）。
-> - **2010 年代至今** — transitology 和 3T 框架被比较教育研究者和跨国教育史研究者广泛引用，成为分析教育知识跨国流动的重要理论工具（Zhou & Westberg, 2024, p.611; Amos, 2022, pp.53–58）。
+> - **2010 年代至今** — transitology 和 3T 框架被比较教育研究者和跨国教育史研究者广泛引用，成为分析教育知识跨国流动的重要理论工具([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.611]]; [[Argument_Amos_2022_Springer|Amos, 2022, pp.53–58]])。
 
 ---
 
@@ -63,7 +65,7 @@ updated: '2026-06-08'
 > [!abstract]
 > 按时间顺序列出 Cowen 的标志性出版物及其核心理论贡献。
 
-- Cowen, R. (1996). Last past the post: Comparative education, modernity and perhaps post-modernity. *Comparative Education*, 32(1), 151–170. — 提出现代与晚期现代教育的双轴比较模型（Amos, 2022, p.55）。
+- Cowen, R. (1996). Last past the post: Comparative education, modernity and perhaps post-modernity. *Comparative Education*, 32(1), 151–170. — 提出现代与晚期现代教育的双轴比较模型([[Argument_Amos_2022_Springer|Amos, 2022, p.55]])。
 
 - Cowen, R. (2000). Comparing futures or comparing pasts. *Comparative Education*, 36(3), 333–342. — 正式定义 [[Transitology]]，将教育定位为社会转型中破坏过去、重新定义未来的象征性和重构性力量（Cowen 2000, p.338）。
 
@@ -83,7 +85,7 @@ updated: '2026-06-08'
 ### Transitology（转型学）
 
 > [!tip]
-> [[Transitology]] 是 Cowen 原创的比较教育概念，分析教育在社会形态间跃迁中的角色。转型涉及国家机器、社会经济分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予破坏过去和重新定义未来的象征性和重构性角色（Cowen 2000, p.338）。Cowen 同时强调过去、现在与未来并非严格的线性关系，这一观察被 Amos 以 Günther Grass 的 [[Vergegenkunft]] 文学原则加以呼应（Amos, 2022, p.56）。详见 [[Transitology]] 条目。
+> [[Transitology]] 是 Cowen 原创的比较教育概念，分析教育在社会形态间跃迁中的角色。转型涉及国家机器、社会经济分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予破坏过去和重新定义未来的象征性和重构性角色（Cowen 2000, p.338）。Cowen 同时强调过去、现在与未来并非严格的线性关系，这一观察被 Amos 以 Günther Grass 的 [[Vergegenkunft]] 文学原则加以呼应([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。详见 [[Transitology]] 条目。
 
 ---
 
@@ -92,7 +94,7 @@ updated: '2026-06-08'
 > [!tip]
 > 以两个相交轴可视化教育从现代到晚期现代的结构转型。现代模型以 polis-driven 为纵轴（教育机会平等与国家文化认同），以[[International Education|国际教育]]关系与经济增长为横轴。晚期现代模型中，纵轴转为 market-driven（内部效率与外部效能、劳动力分化），横轴转为国际经济与国际知识竞争（Cowen 1996, pp.160–162，引自 Amos, 2022, p.55）。
 >
-> Amos (2022, pp.57–58) 将此模型应用于分析[[Regional University Alliances|区域大学联盟]]的运作逻辑：竞争排名、国际学生流动、研究资助争夺对应于晚期现代模型的 market-driven 纵轴和国际知识竞争横轴。
+> [[Argument_Amos_2022_Springer|Amos (2022, pp.57–58)]] 将此模型应用于分析[[Regional University Alliances|区域大学联盟]]的运作逻辑：竞争排名、国际学生流动、研究资助争夺对应于晚期现代模型的 market-driven 纵轴和国际知识竞争横轴。
 
 ---
 
@@ -121,9 +123,9 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success]
-> - **[[Transitology]]** 已成为比较教育中分析教育与社会转型关系的核心概念之一（Amos, 2022, pp.53–58）。
-> - **[[Transfer Translation Transformation|3T 框架]]** 为比较教育中的[[Knowledge Transfer|知识转移]]研究提供了一种超越忠实或滥用（faithfulness or abuse）二元评价的分析路径，将关注点从转移是否准确转向转移过程中意义如何变化（Zhou & Westberg, 2024, p.611）。
-> - **应用案例**。Zhou & Westberg (2024) 以 3T 框架分析了[[John Dewey|杜威]]思想在民国中国的跨文化旅程，发现杜威在民国中国被碎片化（fragmented），当接收语境本身是分裂的，Translation 和 Transformation 就不仅是本土化的过程，也是思想被不同阵营各自切割和重新[[Assemblage|组装]]的过程（Zhou & Westberg, 2024, pp.611, 622–623）。
+> - **[[Transitology]]** 已成为比较教育中分析教育与社会转型关系的核心概念之一([[Argument_Amos_2022_Springer|Amos, 2022, pp.53–58]])。
+> - **[[Transfer Translation Transformation|3T 框架]]** 为比较教育中的[[Knowledge Transfer|知识转移]]研究提供了一种超越忠实或滥用（faithfulness or abuse）二元评价的分析路径，将关注点从转移是否准确转向转移过程中意义如何变化([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.611]])。
+> - **应用案例**。[[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] 以 3T 框架分析了[[John Dewey|杜威]]思想在民国中国的跨文化旅程，发现杜威在民国中国被碎片化（fragmented），当接收语境本身是分裂的，Translation 和 Transformation 就不仅是本土化的过程，也是思想被不同阵营各自切割和重新[[Assemblage|组装]]的过程([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.611, 622–623]])。
 
 ---
 

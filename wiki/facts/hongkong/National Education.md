@@ -34,10 +34,10 @@ related_facts:
   - "[[National Security Law]]"
   - "[[Youth Development Blueprint]]"
   - "[[My Pledge to Act]]"
-related_arguments: []
-sources:
-  - "[[Yan_2025_JCS]]"
-  - "[[Vickers_2024_CE]]"
+related_arguments:
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Vickers_2024_CE]]"
+  - "[[Argument_Bulag_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -75,7 +75,7 @@ updated: '2026-05-25'
 
 > [!info] 理论基础
 > - [[Nation Building through Education]] — 中共通过教育在边疆地区推行统一的"[[Zhonghua Minzu|中华民族]]"认同
-> - [[Membership-Creating Function of Education]] — Ramirez & Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。Amos (2022, pp.54–55) 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时[[Coding in Qualitative Research|编码]]了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
+> - [[Membership-Creating Function of Education]] — Ramirez & Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。[[Argument_Amos_2022_Springer|Amos (2022, pp.54–55)]] 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时[[Coding in Qualitative Research|编码]]了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
 > - **Vickers (2023)** — 习近平的民族复兴项目以"中国梦"为名，通过教育强化中央集权、消除区域文化差异
 
 ---
@@ -91,9 +91,9 @@ updated: '2026-05-25'
 > - **2019 [[2019 Hong Kong Protests|反修例运动]]后** — 中国官媒指摘 LS"缺乏中国坐标"，将年轻人参与抗议归咎于国民教育的缺位
 > - **2020 年 6 月** — 《[[National Security Law|香港国安法]]》颁布，为强制推行国民教育提供了法律框架
 > - **2021 年 2 月** — [[Citizenship and Social Development|CSD]] 取代 LS，国民教育正式成为高中课程的必修核心组成部分
-> - **2022 年** — CSD 教科书首批两个主题出版（"[[One Country, Two Systems|一国两制]]下的香港"与"改革开放以来的国家"），教科书纳入教育局评审制度，作者和顾问团队重组——社会史学家 Lui Tai-lok 被 Tang Fei（邓飞，教联会副会长、委任立法会议员）和 Hoey Simon Lee（华润集团大湾区首席战略官、清华大学法学博士）取代（Vickers, 2024, pp.147–148）
-> - **2022 年 7 月** — 习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局正式成立（Vickers, 2024, p.153）
-> - **2022 年 12 月** — 港府发布《[[Youth Development Blueprint|青年发展蓝图]]》，四大主题为：探索、希望、赋能、贡献——将青年问题框架化为"培养积极思维"而非回应政治参与诉求（Vickers, 2024, p.153）
+> - **2022 年** — CSD 教科书首批两个主题出版（"[[One Country, Two Systems|一国两制]]下的香港"与"改革开放以来的国家"），教科书纳入教育局评审制度，作者和顾问团队重组——社会史学家 Lui Tai-lok 被 Tang Fei（邓飞，教联会副会长、委任立法会议员）和 Hoey Simon Lee（华润集团大湾区首席战略官、清华大学法学博士）取代([[Argument_Vickers_2024_CE|Vickers, 2024, pp.147–148]])
+> - **2022 年 7 月** — 习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局正式成立([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])
+> - **2022 年 12 月** — 港府发布《[[Youth Development Blueprint|青年发展蓝图]]》，四大主题为：探索、希望、赋能、贡献——将青年问题框架化为"培养积极思维"而非回应政治参与诉求([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])
 
 ---
 
@@ -112,7 +112,7 @@ updated: '2026-05-25'
 > Yan & Morris (2025) 将香港国民教育与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑：
 > - Leibold & Dorjee (2024) 在西藏记录了强制性国民教育如何消除地方语言和文化认同
 > - Tobin (2024) 在新疆记录了"普通话化"的教育政策
-> - Bulag (2024) 在内蒙古记录了"[[Zhonghua Minzu|中华民族]]"叙事如何替代蒙古族历史叙事
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] 在内蒙古记录了"[[Zhonghua Minzu|中华民族]]"叙事如何替代蒙古族历史叙事
 > - Yan & Morris (2025, p. 490) 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 [[Liberal Studies|LS]] 的温和"中国背景"为入口，后以 CSD 的强制爱国教育收尾。
 >
 > **目前状态**：国际学术界日益将此视为跨国比较的研究对象，但在中国大陆内部这一比较被视为政治敏感。
@@ -133,7 +133,7 @@ updated: '2026-05-25'
 > - **路径二：课外将不满重新框定为心理问题** — "My Pledge to Act" 要求学生"快乐"和"感恩我们所拥有的"。《青年发展蓝图》的四大主题（探索、希望、赋能、贡献）完全回避了青年的政治参与和能动性诉求。
 > - **路径三：个体化归因取代结构性分析** — 官方叙事的核心信息是：生活更好的道路不在于改革社会的行动，而在于改变自我的决心。Vickers 将这一策略与中共在内地推行的"感恩教育"（gratitude education）平行——两者共享同一治理逻辑：将制度批评排除在"可思考"的范围之外。
 >
-> > 在 EdUHK 的政策对话中，Lui Tai-lok 和 Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使如此含蓄的批评也因暗示青年需要政治对话和能动性而显得无力（Vickers, 2024, pp.153–154）。
+> > 在 EdUHK 的政策对话中，Lui Tai-lok 和 Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使如此含蓄的批评也因暗示青年需要政治对话和能动性而显得无力([[Argument_Vickers_2024_CE|Vickers, 2024, pp.153–154]])。
 >
 > **目前状态**：《青年发展蓝图》已在实施中，其将政治问题心理化的框架已成为官方处理青年事务的主导范式。
 
@@ -148,7 +148,3 @@ updated: '2026-05-25'
 
 ---
 
-## 来源
-
-- [[Yan_2025_JCS]]
-- [[Vickers_2024_CE]]

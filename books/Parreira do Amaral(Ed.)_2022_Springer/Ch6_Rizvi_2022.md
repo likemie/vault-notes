@@ -1,18 +1,10 @@
 ---
 citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Springer."
 extracted_to:
-  - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
-  - "[[Classical Geopolitics]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
-  - "[[Critical Geopolitics]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[International Education Hubs]]"
-  - "[[Knowledge Capitalism]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[New Public Management]]"
   - "[[Network Society]]"
   - "[[Argument_Rizvi_2022_Springer]]"
 processed_date: 2026-05-10

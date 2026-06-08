@@ -64,21 +64,21 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果（Ross & Morrison, 2021, pp.109-112）。
+> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109-112]])。
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Evidence-Based Education]] — 作为政策背景，尤其是 [[No Child Left Behind Act 2001|NCLB]]、[[What Works Clearinghouse|WWC]] 与 ESSA 所推动的证据问责运动。该框架把教育项目是否有严格研究支持变成学校采购和项目批准的重要依据（Ross & Morrison, 2021, pp.109-110）。
-> - 复杂教育系统 — 学校系统由管理者、教师、学生、家长等多类行动者共同构成，互动具有非线性，因此同一项目在不同语境中可能产生不同结果，也会被不同利益相关者作不同解释（Ross & Morrison, 2021, p.111）。
-> - [[Absorptive Capacity|吸收能力]] — 学区能否从外部评价中学习，取决于关键伙伴是否理解项目、沟通是否开放、领导是否支持；吸收能力越高，评价证据越可能进入改进过程（Ross & Morrison, 2021, p.122）。
+> - [[Evidence-Based Education]] — 作为政策背景，尤其是 [[No Child Left Behind Act 2001|NCLB]]、[[What Works Clearinghouse|WWC]] 与 ESSA 所推动的证据问责运动。该框架把教育项目是否有严格研究支持变成学校采购和项目批准的重要依据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109-110]])。
+> - 复杂教育系统 — 学校系统由管理者、教师、学生、家长等多类行动者共同构成，互动具有非线性，因此同一项目在不同语境中可能产生不同结果，也会被不同利益相关者作不同解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.111]])。
+> - [[Absorptive Capacity|吸收能力]] — 学区能否从外部评价中学习，取决于关键伙伴是否理解项目、沟通是否开放、领导是否支持；吸收能力越高，评价证据越可能进入改进过程([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.122]])。
 
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Literature Review|文献综述]]加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化（Ross & Morrison, 2021, pp.109-110, 113-115）。
-> - 案例资料：STAT 评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区（Ross & Morrison, 2021, pp.115-118）。
-> - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Program Evaluation|形成性项目评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性（Ross & Morrison, 2021, pp.121-124）。
+> - 方法：[[Literature Review|文献综述]]加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109-110, 113-115]])。
+> - 案例资料：STAT 评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118]])。
+> - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Program Evaluation|形成性项目评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 
 ## 论证结构
 
@@ -87,113 +87,113 @@ citation_aliases:
 
 ### 第一层：证据运动把“有效项目”变成政策要求
 
-1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，ESSA 又把强、中、有希望和理论依据四个证据层级用于项目审核（Ross & Morrison, 2021, p.109）。
+1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，ESSA 又把强、中、有希望和理论依据四个证据层级用于项目审核([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
-2. 这一步的推理很直接：如果学校要花公共资金购买项目，就不能只听销售宣传，而应尽量选择有研究支持的项目。这也是 [[Evidence-Based Education]] 和 [[Evidence-Based Reform]] 的基本承诺（Ross & Morrison, 2021, pp.109-110）。
+2. 这一步的推理很直接：如果学校要花公共资金购买项目，就不能只听销售宣传，而应尽量选择有研究支持的项目。这也是 [[Evidence-Based Education]] 和 [[Evidence-Based Reform]] 的基本承诺([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109-110]])。
 
 > [!example] 例子
 > 一个学区要采购阅读软件。证据运动要求它先问“这个软件是否有严格研究支持”，而不是只问“供应商演示好不好看”或“邻近学区是否买了”。
 
-3. 证据运动确实带来好处：实践者更关心可信研究，WWC 和 Evidence for ESSA 扩展了证据可及性，州和学区也开始用证据标准审查项目（Ross & Morrison, 2021, p.110）。
+3. 证据运动确实带来好处：实践者更关心可信研究，WWC 和 Evidence for ESSA 扩展了证据可及性，州和学区也开始用证据标准审查项目([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.110]])。
 
 ### 第二层：严格证据会把“有效性”压缩得过窄
 
-4. 但正式证据标准通常把“有效”理解为：在严格控制的[[Experimental Research|实验研究]]中，对学生成就产生统计显著的正向效果。这使很多地方上有价值的结果被排除在证据视野之外（Ross & Morrison, 2021, pp.110-112）。
+4. 但正式证据标准通常把“有效”理解为：在严格控制的[[Experimental Research|实验研究]]中，对学生成就产生统计显著的正向效果。这使很多地方上有价值的结果被排除在证据视野之外([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
 
-5. [[Technology Infusion|技术融入]]和其他补充性项目尤其容易遇到这个问题。它们每周使用时间可能很有限，很难在短期内让标准化测验成绩显著上升；但它们可能改善学生动机、释放教师个别辅导时间、增加个性化学习活动，或提升技术接入公平（Ross & Morrison, 2021, pp.110-111）。
+5. [[Technology Infusion|技术融入]]和其他补充性项目尤其容易遇到这个问题。它们每周使用时间可能很有限，很难在短期内让标准化测验成绩显著上升；但它们可能改善学生动机、释放教师个别辅导时间、增加个性化学习活动，或提升技术接入公平([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-111]])。
 
 > [!example] 例子
 > 一个数学练习平台每周只用两小时。它可能让学生更愿意练习、让教师更快发现谁卡在分数运算上，但如果期末统一测验还主要受核心教材、教师水平和家庭背景影响，平台很可能无法单独显示出显著成就增益。
 
-6. 即使使用最严格的研究设计，教育效果也常常很小。文章引用 141 项大型教育 RCT 的分析：平均成就[[Effect Size|效应量]]只有 .06 SD，且只有 23% 的效应显著大于零。这削弱了“只要做严格 RCT 就能得到清楚答案”的想象（Ross & Morrison, 2021, p.112）。
+6. 即使使用最严格的研究设计，教育效果也常常很小。文章引用 141 项大型教育 RCT 的分析：平均成就[[Effect Size|效应量]]只有 .06 SD，且只有 23% 的效应显著大于零。这削弱了“只要做严格 RCT 就能得到清楚答案”的想象([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
 
 ### 第三层：正式证据缺少实践者真正需要的“决策信息”
 
-7. 学校采购不是只判断一个项目“有没有效”，还要判断它“能不能在这里用”。实践者需要知道实施要求、教师是否愿意用、学生是否接受、成本是否可承担、是否适合本地课程与学生群体（Ross & Morrison, 2021, pp.120-121）。
+7. 学校采购不是只判断一个项目“有没有效”，还要判断它“能不能在这里用”。实践者需要知道实施要求、教师是否愿意用、学生是否接受、成本是否可承担、是否适合本地课程与学生群体([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
-8. 这解释了为什么实践者常转向同伴推荐和本地试点。它们不如 RCT 有强因果识别能力，却像“一站式信息包”：可以同时告诉学区项目怎么落地、使用者感受如何、成本怎样、可能产生哪些本地结果（Ross & Morrison, 2021, pp.120-121）。
+8. 这解释了为什么实践者常转向同伴推荐和本地试点。它们不如 RCT 有强因果识别能力，却像“一站式信息包”：可以同时告诉学区项目怎么落地、使用者感受如何、成本怎样、可能产生哪些本地结果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example] 例子
 > 校长听到隔壁学区说某软件“老师培训只要两次就能上手，低年级学生喜欢，技术故障少”，这类信息虽然不是严格因果证据，却直接回答了“我校明年能不能实施”的问题。这正是 [[Local Knowledge in Evidence-Based Policy]] 与 [[Professional Judgment]] 参与决策的空间。
 
-9. 因此，正式证据审查若只报告[[Effect Size|效应量]]和显著性，就会遗漏实践决策的关键维度。Ross 与 Morrison 建议证据审查应加入实施要求、成本、情境特征、研究限制和用户经验，否则实践者会继续绕开正式证据来源（Ross & Morrison, 2021, p.121）。
+9. 因此，正式证据审查若只报告[[Effect Size|效应量]]和显著性，就会遗漏实践决策的关键维度。Ross 与 Morrison 建议证据审查应加入实施要求、成本、情境特征、研究限制和用户经验，否则实践者会继续绕开正式证据来源([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
 
 ### 第四层：复杂教育系统让证据解释变得不稳定
 
-10. 学校系统不是封闭实验室，而是由管理者、教师、学生、家长、社区和学校董事会共同作用的复杂组织。同一项目会穿过课程、问责政策、组织基础设施、领导更替和社区压力等多重过滤器，所以“项目是否有效”并不会只有一个自然答案（Ross & Morrison, 2021, pp.111-113）。
+10. 学校系统不是封闭实验室，而是由管理者、教师、学生、家长、社区和学校董事会共同作用的复杂组织。同一项目会穿过课程、问责政策、组织基础设施、领导更替和社区压力等多重过滤器，所以“项目是否有效”并不会只有一个自然答案([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.111-113]])。
 
-11. 这一步是文章从方法论批评转向解释学问题的关键：证据不只是被“发现”，也会被不同利益相关者“解释”。同一项改革可以被教师理解为教学支持，被家长理解为屏幕时间增加，被董事会成员理解为预算选择（Ross & Morrison, 2021, pp.113, 120）。
+11. 这一步是文章从方法论批评转向解释学问题的关键：证据不只是被“发现”，也会被不同利益相关者“解释”。同一项改革可以被教师理解为教学支持，被家长理解为屏幕时间增加，被董事会成员理解为预算选择([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.113, 120]])。
 
 > [!example] 例子
 > 同一个平板电脑项目，技术部门看到的是设备接入率，教师看到的是[[Classroom Management|课堂管理]]压力，家长看到的是孩子在屏幕前的时间，学区领导看到的是公平配置资源。每个人都在看“证据”，但关心的证据不是同一种。
 
 ### 第五层：STAT 案例展示“多目标改革”如何制造证据分歧
 
-12. BCPS 的 [[Students and Teachers Accessing Tomorrow|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标（Ross & Morrison, 2021, pp.114-116）。
+12. BCPS 的 [[Students and Teachers Accessing Tomorrow|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.114-116]])。
 
-13. 评价设计也不是单一测验，而是多源[[Formative Program Evaluation|形成性项目评价]]：教师问卷、学生焦点小组、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应（Ross & Morrison, 2021, pp.115-118）。
+13. 评价设计也不是单一测验，而是多源[[Formative Program Evaluation|形成性项目评价]]：教师问卷、学生焦点小组、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118]])。
 
-14. [[Formative Assessment|形成性评价]]显示了多个中间成果：教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学都有进展；课堂中更明显的变化是从教师主导转向学生中心，并伴随数字工具使用增加（Ross & Morrison, 2021, pp.118-119, 122）。
+14. [[Formative Assessment|形成性评价]]显示了多个中间成果：教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学都有进展；课堂中更明显的变化是从教师主导转向学生中心，并伴随数字工具使用增加([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.118-119, 122]])。
 
-15. 但学生成就结果并不明确。ELA 和数学在不同年级、年份和队列中的趋势有正有负，Lighthouse 学校有些指标更好，其他学校结果混合，整体上无法形成“成就显著提升”的强证据（Ross & Morrison, 2021, pp.118-119, 122-123）。
+15. 但学生成就结果并不明确。ELA 和数学在不同年级、年份和队列中的趋势有正有负，Lighthouse 学校有些指标更好，其他学校结果混合，整体上无法形成“成就显著提升”的强证据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.118-119, 122-123]])。
 
 > [!example] 例子
 > 如果把 STAT 的目标理解为“让学生成绩立刻大幅上升”，证据看起来不够强；如果把目标理解为“让全学区学生获得技术资源、让教师改变课堂组织、让数字资源进入日常教学”，同一组证据就更支持项目继续。
 
 ### 第六层：同一组证据被不同价值排序改写
 
-16. 支持者更看重数字公民、教学多样化、课堂参与和技术接入公平，因此把 STAT 的形成性证据看作项目正在产生价值；他们把成就结果不明显理解为复杂改革早期可以预期的情况（Ross & Morrison, 2021, pp.122-123）。
+16. 支持者更看重数字公民、教学多样化、课堂参与和技术接入公平，因此把 STAT 的形成性证据看作项目正在产生价值；他们把成就结果不明显理解为复杂改革早期可以预期的情况([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 
-17. 反对者更看重学生成就，尤其是一部分较高收入白人家长和若干白人学校董事会成员。由于测试成绩没有明显上升，他们把项目判断为失败，并偏好把资金用于缩小[[Class Size|班额]]或修缮校舍（Ross & Morrison, 2021, p.123）。
+17. 反对者更看重学生成就，尤其是一部分较高收入白人家长和若干白人学校董事会成员。由于测试成绩没有明显上升，他们把项目判断为失败，并偏好把资金用于缩小[[Class Size|班额]]或修缮校舍([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.123]])。
 
-18. 这里的中间推论是：证据解释依赖“什么结果最重要”。如果成功标准不同，那么即使数据完全相同，结论也会不同。这也是 [[Evidence-Informed Practice]] 比强版本 EBE 更现实的地方：证据必须进入价值判断、地方知识和专业判断的组合中（Ross & Morrison, 2021, pp.121-123）。
+18. 这里的中间推论是：证据解释依赖“什么结果最重要”。如果成功标准不同，那么即使数据完全相同，结论也会不同。这也是 [[Evidence-Informed Practice]] 比强版本 EBE 更现实的地方：证据必须进入价值判断、地方知识和专业判断的组合中([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-123]])。
 
 ### 论证合龙：证据要被使用，就必须更贴近地方决策
 
-19. 文章最后的结论是双重的。第一，研究证据仍然重要，尤其能帮助复杂改革保持实施质量和可持续性；STAT 的形成性评价、[[Logic Model|逻辑模型]]和阶段性反馈帮助利益相关者理解项目进展（Ross & Morrison, 2021, pp.121-124）。
+19. 文章最后的结论是双重的。第一，研究证据仍然重要，尤其能帮助复杂改革保持实施质量和可持续性；STAT 的形成性评价、[[Logic Model|逻辑模型]]和阶段性反馈帮助利益相关者理解项目进展([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 
-20. 第二，证据若要真正进入教育实践，就不能只停留在“严格研究是否显著有效”。更有用的证据需要同时说明研究新旧程度、严谨性、对照条件、实施质量、测量指标、成本、用户经验、地方情境和项目目标；否则，证据审查会与学校真实决策保持距离（Ross & Morrison, 2021, pp.121, 124）。
+20. 第二，证据若要真正进入教育实践，就不能只停留在“严格研究是否显著有效”。更有用的证据需要同时说明研究新旧程度、严谨性、对照条件、实施质量、测量指标、成本、用户经验、地方情境和项目目标；否则，证据审查会与学校真实决策保持距离([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121, 124]])。
 
 > [!warning] 论证中的关键张力
-> 文章并未否定 RCT、QED 或 [[Educational Evidence Clearinghouses]]。真正的批评是：当这些机制把“有效性”简化为单一成就指标和[[Statistical Significance|统计显著性]]时，它们无法充分回答复杂学校系统中的实践问题（Ross & Morrison, 2021, pp.110-113, 120-124）。
+> 文章并未否定 RCT、QED 或 [[Educational Evidence Clearinghouses]]。真正的批评是：当这些机制把“有效性”简化为单一成就指标和[[Statistical Significance|统计显著性]]时，它们无法充分回答复杂学校系统中的实践问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-113, 120-124]])。
 
 ## 主要发现
 
 > [!success] 主要发现
 > ### 关于证据使用
-> 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题（Ross & Morrison, 2021, pp.120-121）。
-> 2. 证据审查若只报告[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息（Ross & Morrison, 2021, p.121）。
+> 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+> 2. 证据审查若只报告[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
 >
 > ### 关于 [[Students and Teachers Accessing Tomorrow|STAT]] 案例
-> 3. STAT 的多源[[Formative Program Evaluation|形成性项目评价]]被多方利益相关者视为有助于提升实施质量和项目可持续性，尤其通过[[Logic Model|逻辑模型]]让不同阶段的投入、输出和结果更容易被理解（Ross & Morrison, 2021, pp.121-122）。
-> 4. STAT 在教师准备、设备配置、数字资源使用、学生参与和由教师中心转向学生中心教学方面取得较一致的积极进展，但学生成就证据是混合的，无法证明明显提升（Ross & Morrison, 2021, pp.118-119, 122-123）。
+> 3. STAT 的多源[[Formative Program Evaluation|形成性项目评价]]被多方利益相关者视为有助于提升实施质量和项目可持续性，尤其通过[[Logic Model|逻辑模型]]让不同阶段的投入、输出和结果更容易被理解([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-122]])。
+> 4. STAT 在教师准备、设备配置、数字资源使用、学生参与和由教师中心转向学生中心教学方面取得较一致的积极进展，但学生成就证据是混合的，无法证明明显提升([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.118-119, 122-123]])。
 >
 > ### 关于证据解释
-> 5. 综合性教育改革的证据解释高度依赖利益相关者价值排序：同样的成就结果可被看作“尚可接受的过渡期结果”，也可被看作“项目失败”的证据（Ross & Morrison, 2021, p.123）。
-> 6. 复杂改革的评价者需要承担超出“执行严格研究”的角色，包括共同建构逻辑模型、提供阶段性形成性反馈，并帮助非方法专家理解研究方法和数据含义（Ross & Morrison, 2021, pp.123-124）。
+> 5. 综合性教育改革的证据解释高度依赖利益相关者价值排序：同样的成就结果可被看作“尚可接受的过渡期结果”，也可被看作“项目失败”的证据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.123]])。
+> 6. 复杂改革的评价者需要承担超出“执行严格研究”的角色，包括共同建构逻辑模型、提供阶段性形成性反馈，并帮助非方法专家理解研究方法和数据含义([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.123-124]])。
 
 > [!info]- 核心数据
-> - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应（Ross & Morrison, 2021, p.116）。
-> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency and Cronbach's Alpha|Cronbach's alpha]] 为 .972（Ross & Morrison, 2021, p.117）。
-> - 141 项大型教育 [[Randomised Controlled Trials|RCT]] 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零，这说明即使最严格的设计也常给出很小或不显著的成就结果（Ross & Morrison, 2021, p.112）。
+> - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
+> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency and Cronbach's Alpha|Cronbach's alpha]] 为 .972([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.117]])。
+> - 141 项大型教育 [[Randomised Controlled Trials|RCT]] 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零，这说明即使最严格的设计也常给出很小或不显著的成就结果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
 
 ## 关键引用
 
 > [!quote]
 > “证据并不存在于一个不受现行教育政策和紧迫需求影响的真空中。”
-> ("Evidence does not exist in a void unaffected by prevailing educational policies and exigencies.")（Ross & Morrison, 2021, p.111）
+> ("Evidence does not exist in a void unaffected by prevailing educational policies and exigencies.")([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.111]])
 
 > [!quote]
 > “技术不是一种在操作上可定义的干预，而是一种传递教学的模式。”
-> ("Technology is not an operationally definable intervention but rather a mode for delivering instruction.")（Ross & Morrison, 2021, p.113）
+> ("Technology is not an operationally definable intervention but rather a mode for delivering instruction.")([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.113]])
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果（Ross & Morrison, 2021, p.124）。
+> 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.124]])。
 
 > [!warning] 局限性与批评
-> 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素操作化为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的证据使用模型（Ross & Morrison, 2021, pp.122-124）。
+> 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素操作化为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的证据使用模型([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
 
 ## 来源
 

@@ -19,16 +19,15 @@ related_concepts:
   - "[[Analytic Framework]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Sino-American Trade War]]"
-related_arguments: []
-sources:
-  - "[[Ch2_Moisio_2022]]"
-  - "[[Ch3_Parreira do Amaral_2022]]"
-  - "[[Ch5_Partaken_2022]]"
-  - "[[Ch6_Rizvi_2022]]"
+related_arguments:
+  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -49,7 +48,7 @@ updated: '2026-05-18'
 > [!example]
 > - vs [[Geopolitics of Knowledge]]：古典地缘政治以领土控制、自然资源和军事战略为中心，源自十九至二十世纪工业时代的政治特征——"领土和自然资源的控制是国家间竞争的关键维度和国民财富与地位的根本构成要素"（Moisio, 2022, p.26）。知识地缘政治则关注[[Relational Space|关系性空间]]构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度，不限于领土性框架
 > - vs 关系性地缘政治（Relational Geopolitics）：古典地缘政治视空间为天然预设的领土容器；关系性地缘政治则将空间理解为通过社会空间关系网络构成的——"空间性不限于领土性"（Kuus, 2017, p.5）——资金、人才和思想的流动通过政治行动被持续再领土化（Moisio, 2022, pp.26–27）
-- vs Massey 的[[Multiplicity|多重性]]地缘政治：Marginson（2025）以 Massey（2005）的关系性空间理论重新定义地缘政治为"区域和全球尺度上制度化的权力关系"，强调地缘政治不仅包含竞争与等级，也包含合作与水平性——可以是双赢也可以是零和。高等教育中的地缘政治关系，尤其在科学领域，比政治、经济和军事关系更具合作性（Marginson, 2025, p. 11）
+- vs Massey 的[[Multiplicity|多重性]]地缘政治：Marginson（2025）以 Massey（2005）的关系性空间理论重新定义地缘政治为"区域和全球尺度上制度化的权力关系"，强调地缘政治不仅包含竞争与等级，也包含合作与水平性——可以是双赢也可以是零和。高等教育中的地缘政治关系，尤其在科学领域，比政治、经济和军事关系更具合作性([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])
 > - vs [[Critical Geopolitics]]：古典地缘政治是批判地缘政治学的批判对象——后者揭示前者的"领土偏见"及其与殖民主义、民族主义暴力的历史纠缠。详见 [[Critical Geopolitics#发展脉络]]
 
 ---
@@ -72,13 +71,13 @@ updated: '2026-05-18'
 
 ### 词源
 
-Partaken (2022) 追溯了该词更早的词源：英文名词"geopolitics"首次出现于 Emil Reich 1901 年在 *The International Monthly* 杂志上发表的论文 *England at close of Nineteenth Century*，可能是对瑞典政治哲学家 Rudolf Kjellén 一年前创造的德文词"Geopolitik"的翻译。该词在数十年间保持沉寂，二战期间重新浮现，1980 年代迎来第二次使用高潮（Partaken, 2022, p.67）。
+[[Argument_Partaken_2022_Springer|Partaken (2022)]] 追溯了该词更早的词源：英文名词"geopolitics"首次出现于 Emil Reich 1901 年在 *The International Monthly* 杂志上发表的论文 *England at close of Nineteenth Century*，可能是对瑞典政治哲学家 Rudolf Kjellén 一年前创造的德文词"Geopolitik"的翻译。该词在数十年间保持沉寂，二战期间重新浮现，1980 年代迎来第二次使用高潮([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67]])。
 
-前缀"geo-"强调地理在政治中的至高重要性，可追溯至欧洲殖民主义。Francis Bacon 的"knowledge is power"（1597/1825）在 17 世纪表现为神学中的神圣属性（potestas Dei）——上帝全知故而全能。1871 年德国统一后，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）成为德国地理教育和公共话语中的口号，为威廉德国和纳粹时期的扩张主义与霸权政治服务——同一句"知识即权力"，从神学属性演变为地缘政治教义（Partaken, 2022, pp.67–68）。
+前缀"geo-"强调地理在政治中的至高重要性，可追溯至欧洲殖民主义。Francis Bacon 的"knowledge is power"（1597/1825）在 17 世纪表现为神学中的神圣属性（potestas Dei）——上帝全知故而全能。1871 年德国统一后，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）成为德国地理教育和公共话语中的口号，为威廉德国和纳粹时期的扩张主义与霸权政治服务——同一句"知识即权力"，从神学属性演变为地缘政治教义([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.67–68]])。
 
 ### 殖民与帝国遗产
 
-古典地缘政治概念在概念史上与德国国家社会主义对"第三帝国"的扩张企图相关，体现了"领土偏见"（Thompson & Parreira do Amaral, 2022, p.10）。地缘政治（Geopolitics）这一术语因与殖民和帝国意识形态的关联而具有"漫长且有争议的历史"（Parreira do Amaral, 2022, p.36）。古典地缘政治的正统观点曾为纳粹德国的侵略性扩张主义提供正当性，直接关联第二次世界大战的巨大灾难，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 Samuel P. Huntington 的争议性著作 *Clash of Civilizations* (1996)（Parreira do Amaral, 2022, pp.36–37）。
+古典地缘政治概念在概念史上与德国国家社会主义对"第三帝国"的扩张企图相关，体现了"领土偏见"（Thompson & Parreira do Amaral, 2022, p.10）。地缘政治（Geopolitics）这一术语因与殖民和帝国意识形态的关联而具有"漫长且有争议的历史"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.36]])。古典地缘政治的正统观点曾为纳粹德国的侵略性扩张主义提供正当性，直接关联第二次世界大战的巨大灾难，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 Samuel P. Huntington 的争议性著作 *Clash of Civilizations* (1996)([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.36–37]])。
 
 ### 冷战时期
 
@@ -88,9 +87,9 @@ Partaken (2022) 追溯了该词更早的词源：英文名词"geopolitics"首次
 
 尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失。Moisio（2022）指出，在当代，强大国家（特别是中美之间）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（Moisio, 2022, p.26）。
 
-Parreira do Amaral (2022) 进一步指出，在当代政策话语和公共舆论中，虽然地缘政治被表述为更少关注领土竞争——似乎这些关切属于全球化和新自由主义政治之前的时代——但古典领土权力逻辑仍在多个[[Champ|场域]]积极运作："在俄罗斯吞并克里米亚后，政治家和媒体将此解读为属于二十世纪的老式地缘政治战略行为"（Moisio, 2018, cited in Parreira do Amaral, 2022, p.37）。同时，英国脱欧和[[Sino-American Trade War|中美贸易战]]也被视为当代地缘政治权力博弈的例证（Parreira do Amaral, 2022, pp.37–38）。
+[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 进一步指出，在当代政策话语和公共舆论中，虽然地缘政治被表述为更少关注领土竞争——似乎这些关切属于全球化和新自由主义政治之前的时代——但古典领土权力逻辑仍在多个[[Champ|场域]]积极运作："在俄罗斯吞并克里米亚后，政治家和媒体将此解读为属于二十世纪的老式地缘政治战略行为"（Moisio, 2018, cited in Parreira do Amaral, 2022, p.37）。同时，英国脱欧和[[Sino-American Trade War|中美贸易战]]也被视为当代地缘政治权力博弈的例证([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
 
-Parreira do Amaral (2022) 特别指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的话语与中国的区域战略计算（旨在超越不包括中国的美国主导 TPP 替代方案）共同构成了当代地缘政治的实际运作逻辑（Parreira do Amaral, 2022, pp.37–38）。
+[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 特别指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的话语与中国的区域战略计算（旨在超越不包括中国的美国主导 TPP 替代方案）共同构成了当代地缘政治的实际运作逻辑([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
 
 ### 在高等教育分析中的应用
 
@@ -102,7 +101,7 @@ Rizvi (2022) 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治�
 
 > [!tip]
 > - 古典地缘政治理论传统（Mackinder, Haushofer 等）——将地理空间视为国家权力的天然基础
-> - 现实主义国际关系理论（Dalby, 2013）——国家中心、自利驱动、无政府状态的国际体系
+> - 现实主义[[Wight's Three Traditions of International Theory|国际关系理论]]（Dalby, 2013）——国家中心、自利驱动、无政府状态的国际体系
 > - [[Critical Geopolitics|批判地缘政治学]]——对古典地缘政治的"领土偏见"进行解构，揭示其与殖民主义和民族国家建构的历史关联。详见 [[Critical Geopolitics#核心命题]]
 
 ---
@@ -112,7 +111,7 @@ Rizvi (2022) 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治�
 > [!example]
 > - 国际关系与安全研究——古典地缘政治仍是理解军事冲突和领土争端的主导框架
 > - 比较教育——Moisio 和 Thompson & Parreira do Amaral 将其作为理解高等教育从民族国家框架中"脱嵌"的对照基线
-> - [[Sino-American Trade War|中美贸易战]]——古典领土权力逻辑在当代的典型体现：美国以关税和出口管制为手段，试图遏制中国在关键技术领域的崛起（Partaken, 2022, pp.67, 84）
+> - [[Sino-American Trade War|中美贸易战]]——古典领土权力逻辑在当代的典型体现：美国以关税和出口管制为手段，试图遏制中国在关键技术领域的崛起([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.67, 84]])
 > - 科技政治——中美技术竞争（如美国限制华为在中国以外地区的运营）体现了古典地缘政治逻辑在数字时代的延伸（Moisio, 2022, p.26）
 
 ---
@@ -126,9 +125,3 @@ Rizvi (2022) 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治�
 
 ---
 
-## 来源
-
-- [[Ch2_Moisio_2022]]
-- [[Ch3_Parreira do Amaral_2022]]
-- [[Ch5_Partaken_2022]]
-- [[Ch6_Rizvi_2022]]

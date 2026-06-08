@@ -47,6 +47,6 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!note]
-> - [[Fazal Rizvi|Rizvi, F]]., & Lingard, B. (2010). *Globalizing Education Policy*. Routledge.
+> - [[Fazal Rizvi|Rizvi, F.]], & Lingard, B. (2010). *Globalizing Education Policy*. Routledge.
 
 ---

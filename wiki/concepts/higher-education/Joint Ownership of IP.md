@@ -20,9 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
+related_arguments:
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -34,7 +33,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 知识产权的共同所有（Joint Ownership of IP）指一项专利或版权由两个或以上的实体共同拥有。在[[University-Industry Collaboration|产学合作]]中，共同所有通常发生在[[Foreground IP|前景知识产权]]（Foreground IP, FIP）由大学和企业双方的研究人员混合创造的情形下。在美国产学合作实践中，FIP 的所有权通常遵循"所有权跟随发明人"原则：每位发明人将其权利转让给雇主，因此由双方人员共同创造的 FIP 归双方共同所有（Susalka & Carbone, 2025, pp.279–280）。
+> 知识产权的共同所有（Joint Ownership of IP）指一项专利或版权由两个或以上的实体共同拥有。在[[University-Industry Collaboration|产学合作]]中，共同所有通常发生在[[Foreground IP|前景知识产权]]（Foreground IP, FIP）由大学和企业双方的研究人员混合创造的情形下。在美国产学合作实践中，FIP 的所有权通常遵循"所有权跟随发明人"原则：每位发明人将其权利转让给雇主，因此由双方人员共同创造的 FIP 归双方共同所有([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, pp.279–280]])。
 
 ## 法律含义
 
@@ -62,6 +61,3 @@ updated: 2026-06-03
 > - vs 单独所有：单独所有下所有权人享有完整的排他权；共同所有下每个共同所有人享有独立的商业化权利
 > - 共同所有不等于共同发明的自动结果：谁构成"发明人"由专利法确定（对发明构思有实质性贡献的人），而共同所有是所有权层面的安排
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]

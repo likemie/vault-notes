@@ -16,7 +16,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -29,10 +30,10 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Michael Sadler 是 19 世纪末 20 世纪初英国比较教育的关键人物。他主持英国教育部特别调查与报告办公室（Office of Special Inquiries and Reports），产出了关于英国竞争对手教育系统的大量研究成果，巩固了比较教育中向"他者"学习的基本惯用语（Klerides, 2023, p.420）。
+> Michael Sadler 是 19 世纪末 20 世纪初英国比较教育的关键人物。他主持英国教育部特别调查与报告办公室（Office of Special Inquiries and Reports），产出了关于英国竞争对手教育系统的大量研究成果，巩固了比较教育中向"他者"学习的基本惯用语([[Argument_Klerides_2023_CE|Klerides, 2023, p.420]])。
 
 > [!quote]
-> "为了维持英国作为'世界工厂'的地位，新成立的教育部特别调查与报告办公室在 Sadler 的领导下，产出了关于英国竞争对手教育——尤其是德国的中等教育和职业教育——的大量研究成果"（Klerides, 2023, p.420; Phillips, 2020b）
+> "为了维持英国作为'世界工厂'的地位，新成立的教育部特别调查与报告办公室在 Sadler 的领导下，产出了关于英国竞争对手教育——尤其是德国的中等教育和职业教育——的大量研究成果"([[Argument_Klerides_2023_CE|Klerides, 2023, p.420]]; Phillips, 2020b)
 
 ---
 

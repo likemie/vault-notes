@@ -25,9 +25,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
-related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
+related_arguments:
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -39,7 +38,7 @@ updated: 2026-05-29
 ## 定义
 
 > [!info]
-> 会员制研究联盟（Membership-based Research Consortium）是多家企业作为会员共同出资支持大学研究中心运作的制度安排。其核心特征是：知识产权（Intellectual Property, IP）归大学所有，会员企业获得优先许可权（preferential access to license）而非独占权，研究人员保留独立创业的选择权（Gilison & Wilson, 2025, pp.150-151）。
+> 会员制研究联盟（Membership-based Research Consortium）是多家企业作为会员共同出资支持大学研究中心运作的制度安排。其核心特征是：知识产权（Intellectual Property, IP）归大学所有，会员企业获得优先许可权（preferential access to license）而非独占权，研究人员保留独立创业的选择权([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.150-151]])。
 
 > [!abstract]
 > 这一模式的关键设计在于通过"非独占性 IP + 优先许可权"的三方平衡，绕过了产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）中单个赞助方独占 IP 形成的"毒丸"（poison pill）问题。产业赞助研究中的 IP 独占安排使衍生企业无法灵活运营、无法进入更广泛的资本市场、从根本上削弱了研究人员的创业动力；会员制联盟通过让 IP 归大学所有、多企业共享优先权的设计，从根源上化解了这一困局（pp.143-144, 150-151）。
@@ -95,6 +94,3 @@ updated: 2026-05-29
 
 ---
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

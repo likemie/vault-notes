@@ -29,11 +29,10 @@ related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
-related_arguments: []
-sources:
-  - "[[Slavin_2019_EP]]"
-  - "[[Wolf_2020_JREE]]"
-  - "[[Ross_Morrison_2021_ROE]]"
+related_arguments:
+  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -44,12 +43,12 @@ updated: '2026-05-23'
 > [!info] 概述
 > The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 [[No Child Left Behind Act 2001|No Child Left Behind Act]] ([[No Child Left Behind Act 2001|NCLB]])，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
 >
-> > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. (Slavin, 2019, p. 3)
+> > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. ([[Argument_Slavin_2019_EP|Slavin, 2019, p. 3]])
 
 ## 证据层级
 
 > [!abstract] 证据层级
-> ESSA 将证据分为强、中、有希望三个主要项目有效性层级（Wolf et al., 2020, p. 428），同时也包含第四层“有理论依据”的较弱支持形式（Ross & Morrison, 2021, p.109）：
+> ESSA 将证据分为强、中、有希望三个主要项目有效性层级([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])，同时也包含第四层“有理论依据”的较弱支持形式([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])：
 >
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
@@ -57,9 +56,9 @@ updated: '2026-05-23'
 > | **中** | Moderate | 设计良好且实施良好的**准实验研究**（[[Matching\|匹配]]样本，matched or [[Quasi-Experimental Designs\|quasi-experimental design]]） | 至少 1 项 |
 > | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
 >
-> 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**（Wolf et al., 2020, p. 428）。
+> 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])。
 
-ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]（Ross & Morrison, 2021, p.109）。
+ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
 ## 技术要求细节
 
@@ -74,10 +73,10 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 ## 激励机制
 
 > [!abstract] 激励机制
-> ESSA 对证据标准设有具体的财政激励机制（Wolf et al., 2020, p. 428）：
+> ESSA 对证据标准设有具体的财政激励机制([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])：
 >
-> 1. **学校改进拨款（School Improvement Grants）**：低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目（Wolf et al., 2020, p. 428）
-> 2. **竞争性偏好分（Competitive Preference Points）**：在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分（Wolf et al., 2020, p. 428）
+> 1. **学校改进拨款（School Improvement Grants）**：低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
+> 2. **竞争性偏好分（Competitive Preference Points）**：在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
 > 3. **州级扩展**：部分州将类似标准应用于州级拨款计划（Klein, 2018; 引自 Wolf et al., 2020, p. 428）
 >
 > 部分州走得更远：
@@ -87,7 +86,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 ## ESSA 的"严格与宽松"
 
 > [!info] ESSA 的"严格与宽松"
-> Slavin (2019) 指出 ESSA 标准兼具严格性和宽松性：
+> [[Argument_Slavin_2019_EP|Slavin (2019)]] 指出 ESSA 标准兼具严格性和宽松性：
 > - **严格**：强和中两级要求[[Random Assignment|随机分配]]或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分样本量和持续时间、适当分析
 > - **宽松**：项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
 
@@ -97,10 +96,5 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - ESSA 首次将联邦拨款与具体的项目级有效性证据绑定——从此 "evidence-based" 从理念变为有法律强制力的政策杠杆
 > - 推动创建了 Evidence for ESSA（JHU 平台，月活 70,000+），直接面向教育领导者报告哪些项目满足 ESSA 标准
 > - 取代了 [[No Child Left Behind Act 2001|NCLB]] 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"
-> - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准（Ross & Morrison, 2021, p.109）
+> - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 
-## 来源
-
-- [[Slavin_2019_EP]]
-- [[Wolf_2020_JREE]]
-- [[Ross_Morrison_2021_ROE]]

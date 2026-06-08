@@ -208,7 +208,7 @@ def chinese_author_part(citation: str, year: str) -> str:
 
 
 def aliases_for_parts(parts: list[str], year: str) -> list[str]:
-    if not part or not year:
+    if not parts or not year:
         return []
     aliases: list[str] = []
     for part in parts:

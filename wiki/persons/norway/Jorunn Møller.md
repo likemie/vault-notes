@@ -60,7 +60,7 @@ updated: '2026-06-08'
 > - Møller, J. (2007). Educational leadership and the new language of learning. *International Journal of Leadership in Education*, *10*(1), 31–49. — 批判教育领导力中新管理主义语言的侵蚀效应
 > - Møller, J. (2009). Approaches to [[School Leadership]] in Scandinavia. *Journal of Educational Administration and History*, *41*(2), 165–177. — 分析北欧[[School Leadership|学校领导力]]路径
 > - Møller, J. & Skedsmo, G. (2013). Modernizing education: NPM reform in the Norwegian education system. *Journal of Educational Administration & History*, *45*(4), 336–353. — 挪威教育系统的[[New Public Management|新公共管理]]改革分析
-> - Hall, D., Grimaldi, E., [[Helen Gunter|Gunter, H]]., Møller, J., Serpieri, R. & Skedsmo, G. (2015). Educational reform and modernization in Europe. *European Educational Research Journal*, *14*(6), 487–507. — 跨国合作研究国家情境在调解 NPM 中的作用
+> - Hall, D., Grimaldi, E., [[Helen Gunter|Gunter, H.]], Møller, J., Serpieri, R. & Skedsmo, G. (2015). Educational reform and modernization in Europe. *European Educational Research Journal*, *14*(6), 487–507. — 跨国合作研究国家情境在调解 NPM 中的作用
 
 ## 思想发展与影响
 

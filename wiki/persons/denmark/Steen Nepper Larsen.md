@@ -30,7 +30,8 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Gert Biesta]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_McKnight_2020_Discourse]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -80,7 +81,7 @@ updated: '2026-06-08'
 > - [[Incarnation-Extension Dialectics]] — Larsen 提出的替代性学习概念框架，以具身化与扩展的双向运动超越[[Visible Learning|可见学习]]范式
 > - [[Bildung]] — Larsen 是当代复兴 Bildung 概念的代表学者，将其作为对学习范式的批判和替代（Larsen, 2019, p.7-9）
 > - [[Blind Spot in Observation]] — 将 Luhmann 的盲点概念系统应用于教育研究和 VL 范式批判
-> - 对 [[Visible Learning]] 的哲学批判 — 从本体论、神经科学、[[Phenomenology|现象学]]和概念史等多维度提供 VL 批评，与 Rømer (2018)、Eacott (2017)、McKnight & Whitburn (2020) 等人的批评形成互补
+> - 对 [[Visible Learning]] 的哲学批判 — 从本体论、神经科学、[[Phenomenology|现象学]]和概念史等多维度提供 VL 批评，与 Rømer (2018)、Eacott (2017)、[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 等人的批评形成互补
 
 ## 思想发展与影响
 

@@ -20,7 +20,8 @@ related_methods: []
 related_persons:
   - "[[Francisco Varela]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -30,7 +31,7 @@ updated: '2026-06-08'
 
 > [!info]
 
-Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Francisco Varela]] 共同创立 [[Autopoiesis]]（自创生）理论，彻底改变了关于生命作为宏大系统的思考方式，被 Escobar 援引为[[Transition Design|转型设计]]的理论基础（Amos, 2022, p.61）。
+Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Francisco Varela]] 共同创立 [[Autopoiesis]]（自创生）理论，彻底改变了关于生命作为宏大系统的思考方式，被 Escobar 援引为[[Transition Design|转型设计]]的理论基础([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
 
 ---
 
@@ -48,7 +49,7 @@ Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Fran
 
 > [!abstract]
 
-- Maturana, H. R., & [[Francisco Varela|Varela, F]]. J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
+- Maturana, H. R., & [[Francisco Varela|Varela, F.]] J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
 
 ---
 

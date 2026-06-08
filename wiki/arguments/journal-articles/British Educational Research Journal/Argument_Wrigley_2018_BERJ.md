@@ -42,7 +42,8 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[ResearchED]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slavin_2019_EP]]"
 sources:
   - "[[Wrigley_2018_BERJ]]"
 part_of: ''
@@ -192,7 +193,7 @@ citation_aliases:
 >
 > **批评内容**：Wrigley 对"方法论多元"的论证在实践中可能被解读为拒绝所有统计研究——尽管他承认"数字本身不是问题"（p. 14），但论文的论证火力几乎全部指向统计方法的缺陷，而鲜有讨论（已发表的）高质量的[[Quantitative Research|量化研究]]案例以及其在特定教育问题上的有效应用。
 >
-> **影响**：此全面不信任的基调使 Wrigley 的论文在 [[Evidence-Based Education|EBE]] 方法论辩论中容易被对手定位为"反量化"而非"方法多元"——削弱了其作为建设性替代方案的可信度。Slavin (2019) 可以将 Wrigley 的立场所概括为"怀疑论者认为我们根本不应该进行教育实验"——尽管 Wrigley 的立场更为精细。
+> **影响**：此全面不信任的基调使 Wrigley 的论文在 [[Evidence-Based Education|EBE]] 方法论辩论中容易被对手定位为"反量化"而非"方法多元"——削弱了其作为建设性替代方案的可信度。[[Argument_Slavin_2019_EP|Slavin (2019)]] 可以将 Wrigley 的立场所概括为"怀疑论者认为我们根本不应该进行教育实验"——尽管 Wrigley 的立场更为精细。
 >
 > **目前状态**：Wrigley 的批判以高精度的 Fresh Start 解构为亮点（具体到单个 [[Randomised Controlled Trials|RCT]] 的数据分析），但其方法多元论的建设性阐述相对薄弱。在方法论辩论中，"批判方"与"建构方"的篇幅不对称是常见现象，但确实限制了论文在 EBE 支持者中的说服力。
 >

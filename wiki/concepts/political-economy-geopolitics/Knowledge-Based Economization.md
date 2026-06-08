@@ -47,10 +47,8 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[Innovation Union]]"
   - "[[Minerva University]]"
-related_arguments: []
-sources:
-  - "[[Ch2_Ulrichsen_2025]]"
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+related_arguments:
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -182,11 +180,11 @@ Moisio（2022）将上述两个理论资源整合为一个双焦点的[[Analytic
 
 ### 知识经济化的历史机制：创新政策的演变
 
-[[Knowledge-Based Economy|知识经济]]化不是抽象话语的自我运作——它通过具体的政策工具、制度重构和法律框架被落地。Ulrichsen (2025) 对过去 50 年创新政策演变的综述，为理解知识经济化的历史机制提供了三个层次的经验证据。
+[[Knowledge-Based Economy|知识经济]]化不是抽象话语的自我运作——它通过具体的政策工具、制度重构和法律框架被落地。[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 对过去 50 年创新政策演变的综述，为理解知识经济化的历史机制提供了三个层次的经验证据。
 
 ---
 
-**第一层：经济理论为知识经济化提供正当性。** 二十世纪的经济学发展系统性地将知识建构为经济增长的核心驱动力（Ulrichsen, 2025, pp.27–28）：
+**第一层：经济理论为知识经济化提供正当性。** 二十世纪的经济学发展系统性地将知识建构为经济增长的核心驱动力([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–28]])：
 
 - Kuznets (1971) 论证知识正成为与物质资本和人力资本并列的生产要素。
 - Solow (1957) 的技术变革理论将技术进步内化于增长模型。
@@ -197,7 +195,7 @@ Moisio（2022）将上述两个理论资源整合为一个双焦点的[[Analytic
 
 ---
 
-**第二层：[[Innovation Policy Paradigms|创新政策范式]]作为经济化的制度机制。** Schot 和 Steinmueller (2018) 与 Lindner 等人 (2024) 识别的三个政策范式，展示了国家如何通过不同的政策框架将知识系统地经济化（Ulrichsen, 2025, pp.28–35）：
+**第二层：[[Innovation Policy Paradigms|创新政策范式]]作为经济化的制度机制。** Schot 和 Steinmueller (2018) 与 Lindner 等人 (2024) 识别的三个政策范式，展示了国家如何通过不同的政策框架将知识系统地经济化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])：
 
 1. **科学促增长 (1940s–1980s)**：以科学→技术→增长的线性模型为框架，大规模投资大学基础研究，同时通过强化知识产权（如 1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）、研发税收抵免和风险投资促进等手段，将知识从公共产品转化为可私有化和商业化的资产。核心经济化机制：**将科学发现与国家安全和经济增长绑定**。
 
@@ -209,11 +207,11 @@ Moisio（2022）将上述两个理论资源整合为一个双焦点的[[Analytic
 
 ---
 
-**第三层：大学角色的制度重构。** 大学是知识经济化最集中的运作[[Champ|场域]]。过去五十年间，大学经历了从脱钩到重新嵌入创新系统的结构性转变（Ulrichsen, 2025, pp.36–44）：二战后政府研究资金大幅扩张一度使大学与产业需求脱钩；但 1980 年代后，在 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、英国知识产权政策改革、中国《科学技术进步法》（1993）等立法的推动下，大学被系统性重构为创新引擎。2000 年代后[[Third Mission (Universities)|第三使命]]的正式制度化——设立[[Knowledge Exchange|知识交流]]领导角色、支持单位、内部转化基金和[[Innovation Park|科技园区]]——标志着经济化从话语层面进入大学组织结构的深层。
+**第三层：大学角色的制度重构。** 大学是知识经济化最集中的运作[[Champ|场域]]。过去五十年间，大学经历了从脱钩到重新嵌入创新系统的结构性转变([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.36–44]])：二战后政府研究资金大幅扩张一度使大学与产业需求脱钩；但 1980 年代后，在 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、英国知识产权政策改革、中国《科学技术进步法》（1993）等立法的推动下，大学被系统性重构为创新引擎。2000 年代后[[Third Mission (Universities)|第三使命]]的正式制度化——设立[[Knowledge Exchange|知识交流]]领导角色、支持单位、内部转化基金和[[Innovation Park|科技园区]]——标志着经济化从话语层面进入大学组织结构的深层。
 
 > [!info]- 核心数据
-> - 美国大学来自产业的研发资金：1990 年 22 亿美元 → 2022 年 57 亿美元（按 2022 年不变价）（Ulrichsen, 2025, p.44）。
-> - 英国大学[[Knowledge Transfer|知识转移]]活动收入：2004 年 43 亿美元 → 2022 年 87 亿美元（Ulrichsen, 2025, p.44）。
+> - 美国大学来自产业的研发资金：1990 年 22 亿美元 → 2022 年 57 亿美元（按 2022 年不变价）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。
+> - 英国大学[[Knowledge Transfer|知识转移]]活动收入：2004 年 43 亿美元 → 2022 年 87 亿美元([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。
 
 ---
 
@@ -230,7 +228,3 @@ Moisio（2022）将上述两个理论资源整合为一个双焦点的[[Analytic
 > - 对知识经济化的批判性分析需要进一步关注其排斥性效应——批判社会科学的一个中心任务是审视这一极化政治经济过程的排斥效应（Moisio, 2022, p.31, cited in Thompson & Parreira do Amaral, 2022, p.13）。
 >
 
-## 来源
-
-- [[Ch2_Ulrichsen_2025]]
-- [[Parreira do Amaral(Ed.)_2022_Springer]]

@@ -20,12 +20,11 @@ related_persons:
   - "[[Jurgen Schriewer]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Sputnik Shock 1957]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
-sources:
-  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -59,7 +58,7 @@ updated: '2026-05-18'
 > **改革侧 — 外化到国际趋势：**
 > 改革行动者从结构性推力（如 [[PISA]] 排名下滑、经济竞争压力、国际评估结果）中选择性地援引证据，将国内改革方案包装为"响应全球趋势"的必然选择，从而降低国内反对。
 >
-> > 例：Sputnik（苏联 1957 年发射首颗人造卫星）是一个显著的结构性推力信号——它确实表明"更广阔世界"发生了变化。但从中得出"苏联率先发射卫星是因为其教育体系更优越"的结论，是一个必须被批判性解构的智识跳跃。Arther Trace 的《What Ivan Knows that Johnny Doesn't》(1961) 正是通过引入外国范例来丑闻化本国现状的经典外化案例。（Rappleye, 2006, p. 230）
+> > 例：[[Sputnik Shock 1957|Sputnik]]（苏联 1957 年发射首颗人造卫星）是一个显著的结构性推力信号——它确实表明"更广阔世界"发生了变化。但从中得出"苏联率先发射卫星是因为其教育体系更优越"的结论，是一个必须被批判性解构的智识跳跃。Arther Trace 的《What Ivan Knows that Johnny Doesn't》(1961) 正是通过引入外国范例来丑闻化本国现状的经典外化案例。（Rappleye, 2006, p. 230）
 >
 > **抵制侧 — 外化到传统：**
 > 抵制行动者同样从"传统""历史""文化"中选择性地援引元素，将维持现状包装为"保护独特遗产"的必然选择。Schriewer & Martinez 指出：
@@ -92,6 +91,3 @@ updated: '2026-05-18'
 > - [[American Attraction to Japanese Education 1980s]]
 > - [[Late Qing Borrowing of Japanese Education]]
 
-## 来源
-
-- [[Rappleye_2006_RCIE]]

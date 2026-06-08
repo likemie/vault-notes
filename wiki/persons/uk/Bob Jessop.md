@@ -26,7 +26,8 @@ related_theories:
   - "[[Cultural Political Economy]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
 confidence: medium
@@ -60,7 +61,7 @@ Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会�
 
 ### CPE 在教育枢纽研究中的应用
 
-Erfurth (2022) 的教育枢纽比较研究是 CPE 在高等教育研究中的直接应用。Erfurth 采用 Sum & Jessop (2013) 的 CPE 框架，分析新加坡和阿联酋的教育枢纽项目，核心分析操作是将 CPE 的基本主张——文化（符号）维度与结构-物质维度应被同等对待——转化为教育枢纽的两个分析维度：[[Cultural Diplomacy|文化外交]]维度（cultural-diplomatic）和政治经济维度（politico-economic）。通过这种转化，Erfurth 展示了新加坡的"[[Singapore Education Hub Policy|东方波士顿]]"战略不仅是经济政策，更是一种文化想象工程——通过高等教育重塑国家在全球认知地图中的位置（Erfurth, 2022, pp.202, 206–211）。
+[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的教育枢纽比较研究是 CPE 在高等教育研究中的直接应用。Erfurth 采用 Sum & Jessop (2013) 的 CPE 框架，分析新加坡和阿联酋的教育枢纽项目，核心分析操作是将 CPE 的基本主张——文化（符号）维度与结构-物质维度应被同等对待——转化为教育枢纽的两个分析维度：[[Cultural Diplomacy|文化外交]]维度（cultural-diplomatic）和政治经济维度（politico-economic）。通过这种转化，Erfurth 展示了新加坡的"[[Singapore Education Hub Policy|东方波士顿]]"战略不仅是经济政策，更是一种文化想象工程——通过高等教育重塑国家在全球认知地图中的位置([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 206–211]])。
 
 ---
 
@@ -112,6 +113,6 @@ Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 - 其 [[Cultural Political Economy|CPE]] 框架直接影响了 Moisio（2018, 2022）的[[Knowledge-Based Economization|知识经济化]]概念发展
 - [[Knowledge-Based Economy|KBE]] 作为"元治理"对象的定位为高等教育研究提供了分析大学在知识经济中战略角色的理论资源
 - "额外经济条件的共在"概念解释了为什么教育、科学和法律在 KBE 话语中被如此凸显
-- CPE 框架通过 Erfurth (2022) 的应用进入教育枢纽研究领域，为区分国家高等教育项目的[[Cultural Diplomacy|文化外交]]与政治经济维度提供了分析工具
+- CPE 框架通过 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的应用进入教育枢纽研究领域，为区分国家高等教育项目的[[Cultural Diplomacy|文化外交]]与政治经济维度提供了分析工具
 
 ---

@@ -54,7 +54,7 @@ updated: '2026-05-18'
 > 2. **实际（The Actual）**：实际发生的事件——这些事件是深层因果力与具体环境条件互动的结果。
 > 3. **经验（The Empirical）**：我们观察或体验到的东西——位于最表层，与深层实在之间常存在断裂。
 >
-> > 例：在 EEF Toolkit 的体育参与案例中，"经验"层面是报告的平均[[Effect Size|效应量]] 0.17（+2 个月）。但追踪到"实际"层面发现：高效应量的 [[Playing for Success]] 项目包含一对一辅导、专用 ICT 套件、个性化课程和足球明星见面会——远非普通"体育参与"。而"实在"层面（什么因果机制在起作用）在统计聚合过程中完全消失了（Wrigley & McCusker, 2019, pp. 120–123）。
+> > 例：在 [[Education Endowment Foundation|EEF]] Toolkit 的体育参与案例中，"经验"层面是报告的平均[[Effect Size|效应量]] 0.17（+2 个月）。但追踪到"实际"层面发现：高效应量的 [[Playing for Success]] 项目包含一对一辅导、专用 ICT 套件、个性化课程和足球明星见面会——远非普通"体育参与"。而"实在"层面（什么因果机制在起作用）在统计聚合过程中完全消失了（Wrigley & McCusker, 2019, pp. 120–123）。
 
 
 > [!abstract] 开放系统与封闭系统（Bhaskar, 1978, 1979）
@@ -101,7 +101,7 @@ updated: '2026-05-18'
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Wrigley_2019_ERE]] — 将批判实在论用作解构 EBT 简单科学观和分析 EEF Toolkit 体育参与案例的核心哲学框架
+> - [[Argument_Wrigley_2019_ERE]] — 将批判实在论用作解构 EBT 简单科学观和分析 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的核心哲学框架
 > - [[Argument_Wrigley_2018_BERJ]] — 以批判实在论对 [[Evidence-Based Education|EBE]] 方法论进行三层技术解构（[[Randomised Controlled Trials|RCT]]→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]）
 
 ## 应用领域

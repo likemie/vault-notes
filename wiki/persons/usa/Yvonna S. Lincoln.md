@@ -36,7 +36,7 @@ updated: '2026-06-08'
 
 ## 主要著作
 
-- Lincoln, Y. S., & [[Egon G. Guba|Guba, E. G]]. (1985). *Naturalistic Inquiry*. [[Sage]]. — 系统建立自然主义探究范式，提出可信性四标准。
+- Lincoln, Y. S., & [[Egon G. Guba|Guba, E. G.]] (1985). *Naturalistic Inquiry*. [[Sage]]. — 系统建立自然主义探究范式，提出可信性四标准。
 - Lincoln, Y. S., & Guba, E. G. (2000). Paradigmatic controversies, contradictions, and emerging confluences. In N. K. Denzin & Y. S. Lincoln (Eds.), *Handbook of [[Qualitative Research]]* (2nd ed.). SAGE. — 对研究范式的系统梳理。
 
 ## 核心思想

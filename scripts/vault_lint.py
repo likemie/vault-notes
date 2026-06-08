@@ -140,6 +140,7 @@ PROTECTED_FIELDS = [
     "citation_aliases",
     "year",
     "doi",
+    "isbn",
     "journal",
     "book_title",
     "authors",
@@ -241,6 +242,40 @@ def author_label(author: str) -> str:
     return re.sub(r"\s+", " ", author).strip()
 
 
+def has_cjk(text: str) -> bool:
+    return bool(re.search(r"[\u3400-\u9fff]", text))
+
+
+def dedupe(items: List[str]) -> List[str]:
+    seen: set[str] = set()
+    result: List[str] = []
+    for item in items:
+        if item and item not in seen:
+            result.append(item)
+            seen.add(item)
+    return result
+
+
+def chinese_author_part(citation: str, year: str) -> str:
+    if not has_cjk(citation) or not year:
+        return ""
+    m = re.match(rf"^\s*(?P<authors>.+?)\s*(?:[.。]\s*)?[（(]\s*{re.escape(year)}\s*[）)]", citation)
+    if not m:
+        return ""
+    raw = m.group("authors").strip(" ,，.。")
+    if not has_cjk(raw):
+        return ""
+    parts = [p.strip() for p in re.split(r"[、，,；;]\s*", raw) if p.strip()]
+    cjk_parts = [p for p in parts if has_cjk(p)]
+    if not cjk_parts:
+        return ""
+    if len(cjk_parts) == 1:
+        return cjk_parts[0]
+    if len(cjk_parts) == 2:
+        return f"{cjk_parts[0]}与{cjk_parts[1]}"
+    return f"{cjk_parts[0]}等"
+
+
 def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") -> List[str]:
     raw_authors = data.get("authors") or []
     authors = raw_authors if isinstance(raw_authors, list) else [raw_authors]
@@ -254,14 +289,21 @@ def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") 
         author = f"{labels[0]} & {labels[1]}"
     else:
         author = f"{labels[0]} et al."
-    return [f"{author}, {year}", f"{author} ({year})"]
+    parts = [author]
+    chinese_part = chinese_author_part(str(data.get("citation") or ""), str(data.get("year") or "").strip())
+    if chinese_part:
+        parts.append(chinese_part)
+    aliases: List[str] = []
+    for part in dedupe(parts):
+        aliases.extend([f"{part}, {year}", f"{part} ({year})"])
+    return aliases
 
 
 def citation_display_text(text: str) -> bool:
     text = text.strip()
     return bool(
-        re.match(r"^\(?[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .&-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*[^)]+)?\)?$", text)
-        or re.match(r"^[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .&-]+\s*\((?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*[^)]+)?\)$", text)
+        re.match(r"^\(?[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&与等-]+[,，]\s*(?:19|20)\d{2}[a-z]?(?:[,，]\s*pp?\.\s*[^)）]+)?\)?$", text)
+        or re.match(r"^[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&与等-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:[,，]\s*pp?\.\s*[^)）]+)?[）)]$", text)
     )
 
 

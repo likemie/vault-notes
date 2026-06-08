@@ -28,16 +28,12 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
-  - "[[Michael Sadler]]"
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
-sources:
-  - "[[Cowen_2009_CE]]"
-  - "[[Klerides_2023_CE]]"
-  - "[[Schulte_2009_EncuentrosEducacion]]"
-  - "[[Zhou_2024_CE]]"
+  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -90,7 +86,7 @@ updated: 2026-06-06
 > [!example]
 > - vs [[Policy Borrowing|政策借用]] — 3T 更侧重于知识移动中意义与形态的变化链，不仅仅关注政策被借用或排斥的二元结果。
 > - vs [[Cross-National Attraction|跨国吸引]] — 3T 涵盖从移动到内化再到被语境重塑的完整过程，而跨国吸引更多聚焦于转移的动力和选择阶段。
-> - vs [[Recontextualization|再脉络化]] — 两者互补而非替代。3T 是一个过程模型，回答思想经历了哪些阶段；再脉络化（Schulte, 2009）是一个机制分析，回答接受者在每个阶段中如何主动选择、扭曲和重新嵌入外来思想。3T 的 Translation 和 Transformation 阶段都可以借助再脉络化的两个驱动力（想象出来的亲和性、感知到的不可兼容性）来进一步解释接受者的操作逻辑。
+> - vs [[Recontextualization|再脉络化]] — 两者互补而非替代。3T 是一个过程模型，回答思想经历了哪些阶段；再脉络化([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]])是一个机制分析，回答接受者在每个阶段中如何主动选择、扭曲和重新嵌入外来思想。3T 的 Translation 和 Transformation 阶段都可以借助再脉络化的两个驱动力（想象出来的亲和性、感知到的不可兼容性）来进一步解释接受者的操作逻辑。
 > - vs [[Transitology|转型学]] — 3T 关注教育现象在跨国移动中的变形机制，核心动词是移动和变形；转型学关注宏观社会转型中教育的角色，核心动词是崩溃和重建。帝国崩溃、战争结束等 transitological 时刻是 3T 过程最密集、最时间压缩的阶段（Cowen, 2009, p.279）。
 
 ---
@@ -106,7 +102,7 @@ updated: 2026-06-06
 >
 > Cowen (2009) 在此基础上提出 3T 框架，将转移主题从[[Policy Borrowing|政策借用]]的二元评价升级为一个关注意义与形态变化链的三阶段过程模型。
 >
-> Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度进一步指出，转移的研究形态受到对国际社会性质的理解的深层塑造。在现实主义视角下，转移被理解为由国家和国际权力等级塑造的跨国移动——如 Humboldt 大学模式从德国向日本和美国的转移，或冷战时期技术官僚教育观从美国向西欧再向南欧和拉美的扩散。在理性主义视角下，转移被[[Revoicing|重铸]]为复杂的、多元行动者的过程，涉及区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司，"输入—输出"和"借用—出借"的二元框架受到质疑，新概念如"旅行政策"（travelling policies）和"流动话语"（flowing discourses）被提出以捕捉转移的非线性特征。在[[Revolutionism|革命主义]]视角下，转移不仅是支配的工具，更是反支配和阶级斗争的工具——如第三世界革命政府借用苏联的"工人学院"模式以培养"社会主义知识分子"（Klerides, 2023, pp.422–423, 425–426, 427）。
+> Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度进一步指出，转移的研究形态受到对国际社会性质的理解的深层塑造。在现实主义视角下，转移被理解为由国家和国际权力等级塑造的跨国移动——如 Humboldt 大学模式从德国向日本和美国的转移，或冷战时期技术官僚教育观从美国向西欧再向南欧和拉美的扩散。在理性主义视角下，转移被[[Revoicing|重铸]]为复杂的、多元行动者的过程，涉及区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司，"输入—输出"和"借用—出借"的二元框架受到质疑，新概念如"旅行政策"（travelling policies）和"流动话语"（flowing discourses）被提出以捕捉转移的非线性特征。在[[Revolutionism|革命主义]]视角下，转移不仅是支配的工具，更是反支配和阶级斗争的工具——如第三世界革命政府借用苏联的"工人学院"模式以培养"社会主义知识分子"([[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–423, 425–426, 427]])。
 
 ---
 
@@ -136,7 +132,7 @@ updated: 2026-06-06
 ---
 
 > [!example] Zhou & Westberg 的[[John Dewey|杜威]]案例
-> Zhou & Westberg (2024) 以 3T 框架分析[[John Dewey|杜威]]思想在民国中国的旅程（Zhou & Westberg, 2024, pp.611, 617–619）：
+> [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] 以 3T 框架分析[[John Dewey|杜威]]思想在民国中国的旅程([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.611, 617–619]])：
 >
 > - **Transfer（1919 年前后）**：杜威访华，伴随《新教育》杂志的传播，其民主教育思想和渐进实验方法被引入中国。
 > - **Translation（1922–1923）**：中国教育改革者将杜威思想转译为 1922 年学制的七项标准和 1923 年学分制课程，但在此过程中淡化了民主的政治内涵（以模糊的平民代替），并与杜威的渐进方法产生偏离。
@@ -149,9 +145,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Cowen_2009_CE]]
-- [[Klerides_2023_CE]]
-- [[Schulte_2009_EncuentrosEducacion]]
-- [[Zhou_2024_CE]]

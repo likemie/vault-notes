@@ -19,11 +19,9 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
-sources:
-  - "[[Wrigley_2018_BERJ]]"
-  - "[[Wrigley_2019_ERE]]"
 confidence: high
 status: draft
 created: 2026-05-01
@@ -43,7 +41,7 @@ updated: 2026-05-18
 >
 > - **Tom Bennett** 的著作 *Teacher Proof* (2013) 为 ResearchED 提供了思想基础：该书从抵制学习风格和脑 gym 等"教育时尚"出发，但随后将批判扩展到所有非基于"黄金标准"[[Randomised Controlled Trials|RCT]] 的教育研究
 > - 时任学校部长 **Nick Gibb** 迅速背书 ResearchED，并声称其存在归功于他（Gibb, 2015）——尽管 ResearchED 标榜为草根运动
-> - ResearchED 的方法论偏好（RCT 为黄金标准）与英国政府的政策偏好（合成语音法 systematic synthetic phonics、EEF 的实验方法论要求）高度一致
+> - ResearchED 的方法论偏好（RCT 为黄金标准）与英国政府的政策偏好（合成语音法 systematic synthetic phonics、[[Education Endowment Foundation|EEF]] 的实验方法论要求）高度一致
 
 ## 核心矛盾
 
@@ -52,7 +50,7 @@ updated: 2026-05-18
 >
 > - **声称**：赋予教师"声音"，使他们能独立评估研究
 > - **实效**：将教师的注意力锁定在单一方法论标准（[[Randomised Controlled Trials|RCT]]）上，同时攻击大学本位的研究——实际上替代了一种权威（大学学术）以另一种符合政府偏好的权威（"证据"标准）
-> - 这在英国的具体体现：ResearchED 反复援引 EEF Toolkit 为权威证据来源，尽管 Toolkit 面临来自方法论学者的日益增多的批评（Simpson 2017, Wrigley 2018）
+> - 这在英国的具体体现：ResearchED 反复援引 [[Education Endowment Foundation|EEF]] Toolkit 为权威证据来源，尽管 Toolkit 面临来自方法论学者的日益增多的批评（Simpson 2017, Wrigley 2018）
 
 ## 方法论立场
 
@@ -96,11 +94,7 @@ updated: 2026-05-18
 >
 > ### 对教师和教育的窄化效应
 >
-> Wrigley & McCusker (2019, p. 124) 警告：ResearchED 和 EEF 以不同方式声称通过研究素养赋权实践者，但实际上"推广并延续了一种单一维度的研究观，同时边缘化了更广泛的研究形式"。数据以诱使用户对可用证据产生规定性解释的方式呈现。这形成了一个循环：狭隘的研究观和证据观 ↔ 狭隘的教学理解和实践。
+> Wrigley & McCusker (2019, p. 124) 警告：ResearchED 和 [[Education Endowment Foundation|EEF]] 以不同方式声称通过研究素养赋权实践者，但实际上"推广并延续了一种单一维度的研究观，同时边缘化了更广泛的研究形式"。数据以诱使用户对可用证据产生规定性解释的方式呈现。这形成了一个循环：狭隘的研究观和证据观 ↔ 狭隘的教学理解和实践。
 >
 > Carol Black (2018) 在其文章 "Science/Fiction" 中将"揭穿"更广泛研究传统的时尚与政治和教育保守主义以及**传输式教育模式**（transmission model of education）联系起来。Wrigley & McCusker 总结："以'科学'之名，结合高利害问责体系的动力，我们正在见证一场反启蒙的——关闭理解和参与世界的方式的——运动"（p. 124）。
 
-## 来源
-
-- [[Wrigley_2018_BERJ]]
-- [[Wrigley_2019_ERE]]

@@ -1,12 +1,6 @@
 ---
 citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer."
 extracted_to:
-  - "[[Global Regionalisms]]"
-  - "[[Horizon 2020 SSH Integration]]"
-  - "[[Horizon Europe Missions]]"
-  - "[[Minerva University]]"
-  - "[[Knowledge-Based Economization]]"
-  - "[[Regulatory Regionalism]]"
   - "[[Argument_Parreira do Amaral_2022_Springer]]"
 processed_date: 2026-05-07
 ---

@@ -4,7 +4,6 @@ extracted_to:
   - "[[School Autonomy]]"
   - "[[My School Website]]"
   - "[[School Leadership]]"
-  - "[[New Public Management]]"
   - "[[Argument_Keddie_2020_JEAH]]"
 processed_date: 2026-05-02
 ---

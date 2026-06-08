@@ -22,9 +22,8 @@ related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Economics of Education Movement]]"
-related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -38,10 +37,10 @@ updated: 2026-06-08
 ## 定义
 
 > [!info]
-> 发展转向（development turn）是 Steiner-Khamsi（2006）提出的概念，指比较教育在二战后经历的一次系统性转向：领土帝国崩溃后，美苏两个超级大国为争夺对新独立国家的"庇护"而将教育作为关键竞争工具，比较教育的可用资金和研究焦点随之大规模转向"发展中国家"。这一转向不仅是研究地理的转移，更是比较教育的认识框架、研究方法和制度结构的深层重组（Klerides, 2023, pp.421–423）。
+> 发展转向（development turn）是 Steiner-Khamsi（2006）提出的概念，指比较教育在二战后经历的一次系统性转向：领土帝国崩溃后，美苏两个超级大国为争夺对新独立国家的"庇护"而将教育作为关键竞争工具，比较教育的可用资金和研究焦点随之大规模转向"发展中国家"。这一转向不仅是研究地理的转移，更是比较教育的认识框架、研究方法和制度结构的深层重组([[Argument_Klerides_2023_CE|Klerides, 2023, pp.421–423]])。
 
 > [!quote]
-> "with the two superpowers targeting the 'Third World', most available funding and much of the focus of comparative education was directed to 'developing' countries"（Klerides, 2023, p.422）
+> "with the two superpowers targeting the 'Third World', most available funding and much of the focus of comparative education was directed to 'developing' countries"([[Argument_Klerides_2023_CE|Klerides, 2023, p.422]])
 
 ---
 
@@ -56,7 +55,7 @@ updated: 2026-06-08
 ## 核心要素
 
 > [!abstract]
-> 发展转向的构成要素（Klerides, 2023, pp.421–423）：
+> 发展转向的构成要素([[Argument_Klerides_2023_CE|Klerides, 2023, pp.421–423]])：
 
 ### 国际政治驱动力
 
@@ -79,7 +78,7 @@ updated: 2026-06-08
 ## 概念演变
 
 > [!note]
-> 发展转向的演变脉络（Klerides, 2023, pp.421–423）：
+> 发展转向的演变脉络([[Argument_Klerides_2023_CE|Klerides, 2023, pp.421–423]])：
 
 > [!note] 第一阶段：冷战驱动的发展转向
 > 二战后至 1970 年代，发展转向的核心动力是美苏冷战竞争。教育被视为争取新独立国家的关键战场。国际组织在这一时期被创建或转型以服务于发展议程。UNESCO [[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）于 1963 年成立，由前美国教育助理国务卿 Philip Coombs 担任首任主任，世界银行和福特基金会为主要合作伙伴。[[OECD]] 于 1961 年从 OEEC 演变而来，OEEC 本身是美国于 1948 年为管理欧洲复兴计划而创建的。这些机构的核心使命是为发展中国家的教育规划提供技术援助以促进经济增长。
@@ -94,12 +93,9 @@ updated: 2026-06-08
 ## 争议与批评
 
 > [!warning]
-> - **干预的正当化**：将"发展中国家"描绘为"滞后"的做法，本身就是一种权力操作。Steiner-Khamsi（2006）指出，其目的之一是正当化"干预"——如果不是因为"落后"，为什么需要"援助"？（Klerides, 2023, p.422）
+> - **干预的正当化**：将"发展中国家"描绘为"滞后"的做法，本身就是一种权力操作。Steiner-Khamsi（2006）指出，其目的之一是正当化"干预"——如果不是因为"落后"，为什么需要"援助"？([[Argument_Klerides_2023_CE|Klerides, 2023, p.422]])
 > - **方法论退步**：单一国家研究作为主要方法的兴起，表面上是对发展中国家特殊性的尊重，但实际上是将权力等级内化为方法论。发展中国家的教育被判定为无法与发达国家进行对等比较，这一判定本身就是发展转向的产物。
 > - **新自由主义延续**：Brehm（2023）指出，发展转向在今天披上了新自由主义全球化的外衣，但制造"最佳实践"和"高效系统"的话语仍然在教导"他者"如何成为"我们"。
 
 ---
 
-## 来源
-
-- [[Klerides_2023_CE]]

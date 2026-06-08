@@ -45,4 +45,4 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - [[Terry Wrigley|Wrigley, T]]., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126.
+> - [[Terry Wrigley|Wrigley, T.]], & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126.

@@ -44,7 +44,9 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Playing for Success]]"
   - "[[What Works Network]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -57,14 +59,14 @@ updated: '2026-06-08'
 > 教学与学习工具包（Teaching and Learning Toolkit）是英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）维护的在线工具，面向[[School Leadership|学校领导]]者，以联盟表格式汇总和比较各教育干预的证据基础，按成本、有效性和证据确定性三个维度排列。Toolkit 总结了超过 5,500 项教育研究（Cowen et al., 2015, p.19）。
 
 > [!note] 起源与资金背景
-> Toolkit 的初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现[[Meta-analysis|元分析]]数据库（Higgins, 2016, p.46）。
+> Toolkit 的初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现[[Meta-analysis|元分析]]数据库([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
-> 与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金。学生津贴是英国政府为经济弱势学生拨付的额外经费，学校可自主决定其用途（Higgins, 2016, p.46）。
+> 与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金。学生津贴是英国政府为经济弱势学生拨付的额外经费，学校可自主决定其用途([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
 > 在 EEF 成立后，这些摘要被进一步发展为整合的系列工具。
 
 > [!note] 官方认可与欧洲定位
-> 英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外（Bainbridge et al., 2022, p.4, 27）。
+> 英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4, 27]])。
 >
 > Pellegrini & Vivanet（2021）将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 Research Schools Network 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（pp.32–33）。
 
@@ -73,32 +75,32 @@ updated: '2026-06-08'
 ## 设计逻辑
 
 > [!abstract] [[Umbrella Review|伞状综述]]定位
-> Toolkit 的摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结（Higgins, 2016, p.47）。
+> Toolkit 的摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 > [!note] 设计灵感来源
-> Toolkit 的设计融合了多位研究者的方法论贡献（Higgins, 2016, p.47）：
+> Toolkit 的设计融合了多位研究者的方法论贡献([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])：
 >
 > - Hattie（1992/2008）的比较性研究地图，将多元研究发现置于同一量表上
 > - Sipe 和 Curlette（1996）的共同纳入标准（聚焦于学龄儿童、尽可能依赖有因果推论依据的[[Intervention Research|干预研究]]）和系统性透明的搜索策略
 > - Marzano（1998）的实用目标，追求课堂层面的可操作性
 
 > [!abstract] 三层信息结构
-> Toolkit 采用逐层深入的信息架构，兼顾可及性与准确性（Higgins, 2016, pp.46–47）：
+> Toolkit 采用逐层深入的信息架构，兼顾可及性与准确性([[Argument_Higgins_2016_RE|Higgins, 2016, pp.46–47]])：
 >
 > **第一层**是效果估计，将[[Effect Size|效应量]]转换为"额外学习月数"，以直观的消费者指南形式呈现。
 >
-> **第二层**是成本分析，估计学校的额外财务支出。这些成本估计虽然粗糙，但是初始 Toolkit 的独特特征（Higgins, 2016, p.46）。
+> **第二层**是成本分析，估计学校的额外财务支出。这些成本估计虽然粗糙，但是初始 Toolkit 的独特特征([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
-> **第三层**是证据的范围和稳健性评估，一直到所使用的[[Meta-analysis|元分析]]和其他研究的效应量和摘要。技术附录详细说明了效应量计算和转换的原理和细节，以确保综合准确且方法和假设透明（Higgins, 2016, p.47）。
+> **第三层**是证据的范围和稳健性评估，一直到所使用的[[Meta-analysis|元分析]]和其他研究的效应量和摘要。技术附录详细说明了效应量计算和转换的原理和细节，以确保综合准确且方法和假设透明([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 > [!note] 证据质量层级
-> 估计来源按优先级递降（Higgins, 2016, p.46）：
+> 估计来源按优先级递降([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])：
 >
 > **最高优先级**是随机试验和良好控制实验的[[Meta-analysis|元分析]]，其中效果的变异（[[Heterogeneity|异质性]]）被探索并尽可能解释。
 >
 > 质量评级使用"挂锁"安全标志，还包括元分析间效果的一致性。
 >
-> 若此类证据不可用，则基于其他定量数据（如相关研究或单一研究）进行估计。Toolkit 旨在提供特定领域中可用的最佳估计和证据稳健性评估，而非仅报告证据稳健的领域。即使研究稀疏甚至缺乏（如校服或绩效薪酬），也会基于人们对有效实践的假设提供总结（Higgins, 2016, pp.46–47）。
+> 若此类证据不可用，则基于其他定量数据（如相关研究或单一研究）进行估计。Toolkit 旨在提供特定领域中可用的最佳估计和证据稳健性评估，而非仅报告证据稳健的领域。即使研究稀疏甚至缺乏（如校服或绩效薪酬），也会基于人们对有效实践的假设提供总结([[Argument_Higgins_2016_RE|Higgins, 2016, pp.46–47]])。
 
 ---
 
@@ -112,10 +114,10 @@ updated: '2026-06-08'
 > - 将效应量转换为"额外学习月数"
 > - 按联盟表格式排名展示（+8 至 −4 个月）
 >
-> Toolkit 定位为帮助[[School Leadership|学校领导]]（尤其是使用学生津贴的学校）做出"好的赌注"（Higgins, 2016, p.46）。
+> Toolkit 定位为帮助[[School Leadership|学校领导]]（尤其是使用学生津贴的学校）做出"好的赌注"([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 
 > [!note] 不同领域的一致性差异
-> 某些领域（如元认知与自我调节、语音教学）有相对一致的发现，而其他领域（如家长参与、行为干预）则有来自不同元分析的变异估计（Higgins, 2016, p.47）。
+> 某些领域（如元认知与自我调节、语音教学）有相对一致的发现，而其他领域（如家长参与、行为干预）则有来自不同元分析的变异估计([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 ---
 
@@ -156,7 +158,7 @@ Cowen et al.（2015）通过对 22 位英国教师的[[Qualitative Interview|深
 ### 方法论局限
 
 > [!warning] 三种系统性偏差
-> Simpson（2017）识别了 Toolkit [[Effect Size|效应量]]计算中的三类系统性偏差（Bainbridge et al., 2022, p.4 引用）：
+> Simpson（2017）识别了 Toolkit [[Effect Size|效应量]]计算中的三类系统性偏差([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4 引用]])：
 >
 > 1. **比较组效应**：控制组的性质系统性影响测量效应量
 > 2. **范围限制**：研究仅使用窄化人口时，标准差在分母中缩小而自动放大效应量
@@ -239,7 +241,7 @@ Cowen et al.（2015）通过对 22 位英国教师的[[Qualitative Interview|深
 ## 持续改进
 
 > [!note] 后续研究计划
-> [[Education Endowment Foundation|EEF]] 正在使用 Toolkit 作为指导进一步研究的依据，在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的[[Randomised Controlled Trials|随机对照试验]]。这些证据将既检验 Toolkit 的发现，又反馈到其证据基础中以增加稳健性。这种方法可能创建一个发现数据库，使跨情境和结果的更大可比性有助于更精确地识别研究发现中变异的原因（Higgins, 2016, p.49）。
+> [[Education Endowment Foundation|EEF]] 正在使用 Toolkit 作为指导进一步研究的依据，在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的[[Randomised Controlled Trials|随机对照试验]]。这些证据将既检验 Toolkit 的发现，又反馈到其证据基础中以增加稳健性。这种方法可能创建一个发现数据库，使跨情境和结果的更大可比性有助于更精确地识别研究发现中变异的原因([[Argument_Higgins_2016_RE|Higgins, 2016, p.49]])。
 
 ---
 

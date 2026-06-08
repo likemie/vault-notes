@@ -33,6 +33,7 @@ related_persons:
   - "[[Bob Lingard]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -59,10 +60,10 @@ updated: '2026-06-08'
 
 > [!abstract] 主要著作
 > - Wrigley, T. (2003). *Schools of hope: A new agenda for school improvement.* Stoke-on-Trent: Trentham Books.
-> - Wrigley, T., Thomson, P., & [[Bob Lingard|Lingard, B]]. (Eds.) (2012). *Changing schools: Alternative ways to make a world of difference.* London: Routledge.
+> - Wrigley, T., Thomson, P., & [[Bob Lingard|Lingard, B.]] (Eds.) (2012). *Changing schools: Alternative ways to make a world of difference.* London: Routledge.
 > - Wrigley, T. (2016). *Learning in a new key: Engaging with the real.* Bristol: Policy Press.
 > - Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? *British Educational Research Journal*, 44(3), 359–376. — 从[[Critical Realism|批判实在论]]视角系统解构 [[Evidence-Based Education|EBE]] 的方法论三层缺陷
-> - Wrigley, T., & [[Sean McCusker|McCusker, S]]. (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126. — 从科学哲学角度解构 EBT 的科学宣称，通过 [[EEF Teaching and Learning Toolkit]] 体育参与案例追踪揭示[[Meta-meta-analysis|元-元分析]]的三级失真
+> - Wrigley, T., & [[Sean McCusker|McCusker, S.]] (2019). Evidence-based teaching: a simple view of 'science'. *Educational Research and Evaluation*, 25(1–2), 110–126. — 从科学哲学角度解构 EBT 的科学宣称，通过 [[EEF Teaching and Learning Toolkit]] 体育参与案例追踪揭示[[Meta-meta-analysis|元-元分析]]的三级失真
 
 ## 核心思想
 
@@ -96,7 +97,7 @@ updated: '2026-06-08'
 > [!note-] 与既有 [[Evidence-Based Education|EBE]] 批判者的互补
 > | 学者 | 批判层级 | 批判工具 |
 > |------|---------|---------|
-> | Biesta (2010) | 哲学前提（认识论/存在论/实践论） | [[John Dewey\|Dewey]] [[Pragmatism in China\|实用主义]]、Latour 科学社会学 |
+> | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 哲学前提（认识论/存在论/实践论） | [[John Dewey\|Dewey]] [[Pragmatism in China\|实用主义]]、Latour 科学社会学 |
 > | Cowen (2019) | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
 > | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials\|RCT]]→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元元分析]]的三级失真）** | **[[Critical Realism\|批判实在论]]（Bhaskar/Sayer/Pawson）** |
 > | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + [[Education Endowment Foundation\|EEF]] Toolkit 深度案例追踪** |

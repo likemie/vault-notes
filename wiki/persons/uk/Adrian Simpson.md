@@ -26,6 +26,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
+  - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_OConnor_2020_AJLL]]"
@@ -51,7 +52,7 @@ updated: '2026-06-08'
 > - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础（Simpson, 2017）
 > - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（category error）**（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）
 > - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education|EBE]] 支持者防御策略分析，将效应量批判推进为完整的认识论论证（Simpson, 2019）
-> - **2021** — 以技术评论"Benchmarking a Misnomer"批评 Kraft（2020）的效应量基准，核心批评包括跨研究效应量本质不可比、经验基准过低；Kraft（2023）回应称两人共同警惕按效应量强弱制作教育干预"联盟表"，但仍在基准是否有政策解释价值上存在分歧（Kraft, 2023, p.184）
+> - **2021** — 以技术评论"Benchmarking a Misnomer"批评 Kraft（2020）的效应量基准，核心批评包括跨研究效应量本质不可比、经验基准过低；Kraft（2023）回应称两人共同警惕按效应量强弱制作教育干预"联盟表"，但仍在基准是否有政策解释价值上存在分歧([[Argument_Kraft_2023_ER|Kraft, 2023, p.184]])
 
 ## 主要著作
 

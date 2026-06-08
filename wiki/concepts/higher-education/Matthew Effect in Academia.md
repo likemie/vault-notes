@@ -24,9 +24,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
-related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -43,7 +42,7 @@ updated: 2026-06-01
 Schulze-Cleven et al.（2017）将这一概念引入对高等教育治理的当代分析中，将其具体化为**制度化的马太效应**（institutionalized Matthew effect）：通过绩效拨款、全球排名和评估机制，资源，资金、声誉、人才，系统性地向已经拥有资源的机构和个体进一步集中（pp.801–802）。
 
 > [!quote]
-> "作为制度化的马太效应（即资源向已有资源的机构进一步积累），这一学术版本的'准市场'在部分国家已成为主要的分配机制。"（Schulze-Cleven et al., 2017, p.801）
+> "作为制度化的马太效应（即资源向已有资源的机构进一步积累），这一学术版本的'准市场'在部分国家已成为主要的分配机制。"([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.801]])
 
 ## 概念辨析
 
@@ -55,7 +54,7 @@ Schulze-Cleven et al.（2017）将这一概念引入对高等教育治理的当�
 ## 运作机制
 
 > [!abstract]
-> 学术马太效应在当代高等教育中通过多层机制运作（Schulze-Cleven et al., 2017, pp.798–802, 808–809）：
+> 学术马太效应在当代高等教育中通过多层机制运作([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–802, 808–809]])：
 
 ### 评估-拨款循环
 
@@ -70,7 +69,7 @@ Schulze-Cleven et al.（2017）将这一概念引入对高等教育治理的当�
 
 ### 捐赠基金的马太效应
 
-Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：最富有的大学不仅拥有更多资金进行金融投资，其[[Return on Investment|投资回报]]也更加丰厚，因为它们可以聘用顶级投资经理和获取普通院校无法接触的投资机会。捐赠基金的收益再投入于奖学金、师资和设施，进一步扩大了与资源匮乏院校的差距。而且，美国税制对捐赠基金的优惠，免税增长，实际上是对最富有院校的隐性公共补贴（Schulze-Cleven et al., 2017, pp.802, 804）。
+Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：最富有的大学不仅拥有更多资金进行金融投资，其[[Return on Investment|投资回报]]也更加丰厚，因为它们可以聘用顶级投资经理和获取普通院校无法接触的投资机会。捐赠基金的收益再投入于奖学金、师资和设施，进一步扩大了与资源匮乏院校的差距。而且，美国税制对捐赠基金的优惠，免税增长，实际上是对最富有院校的隐性公共补贴([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.802, 804]])。
 
 ### 人才流动的马太效应
 
@@ -81,10 +80,7 @@ Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：�
 > [!warning]
 > 一个反直觉的发现是：表面上制造公平竞争的评估和排名制度，实际上**加速了**而非遏制了马太效应。原因在于：
 >
-> - **指标本身的偏向性**：大多数评估指标，影响因子、引用数、拨款金额、国际师生比例，都偏向已有资源优势的机构和学者。一个来自教学型大学、在地方性期刊上发表社区研究的学者，在 [[Research Excellence Framework|REF]] 框架中几乎不可见，无论其研究的实际社会影响如何（Schulze-Cleven et al., 2017, pp.801–802）
+> - **指标本身的偏向性**：大多数评估指标，影响因子、引用数、拨款金额、国际师生比例，都偏向已有资源优势的机构和学者。一个来自教学型大学、在地方性期刊上发表社区研究的学者，在 [[Research Excellence Framework|REF]] 框架中几乎不可见，无论其研究的实际社会影响如何([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.801–802]])
 > - **规则由领先者制定**：评估标准，什么算好研究、什么算"影响力"——往往反映了精英机构的学术文化。当所有人被要求按照精英机构的标准来竞争时，精英机构已经在起跑线上领先了
 > - **补偿机制的缺席**：在真正的市场竞争中，落后者可以通过降价或差异化来找到生存空间。但在准市场中，"价格"（拨款金额）是由评估结果决定的，没有"打折"或"小众定位"的选项。一个专注于卓越教学而非研究的大学，在 REF 框架中几乎没有获得 QR 拨款的途径
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

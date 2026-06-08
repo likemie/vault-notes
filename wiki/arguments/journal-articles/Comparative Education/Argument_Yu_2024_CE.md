@@ -58,7 +58,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] 核心关切与经验谜题
-> 当代中国学校课程如何呈现儒家传统、[[Official Knowledge|官方知识]]（[[Official Knowledge]]）在其中呈现何种样貌，是核心关切 (Yu & Zhao, 2024, p.59–60)。
+> 当代中国学校课程如何呈现儒家传统、[[Official Knowledge|官方知识]]（[[Official Knowledge]]）在其中呈现何种样貌，是核心关切 ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59–60]])。
 > 
 > 处于中国文化边缘的非汉少数民族及宗教背景学生如何理解这一传统，则提供了重要的对照视角。这两种视角的交锋，旨在揭示多元文化中国所面临的深层困境。
 > 
@@ -71,9 +71,9 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[Official Knowledge|官方知识]]（[[Official Knowledge]]）** (Apple 2000)：学校课程缺乏价值中立属性，充当了支配群体将其文化视角合法化为“正统”的机制。该概念在此处指代中国教科书中经党和国家批准的儒家传统阐释 (Yu & Zhao, 2024, p.59)。
-> - **中心边缘权力关系** (centre-margin power relations)：中国多元文化景观中汉文化与少数民族文化之间存在不平等的地位分配，汉族居于文化“中心”，55个少数民族居于文化“边缘” (Yu & Zhao, 2024, p.60)。该视角与霸权（[[Hegemony]]）概念共同聚焦文化支配自然化的过程。
-> - **多元文化主义** (multiculturalism)：作为规范性评判标准，教育和社会理应推进包容、平等与正义，单一文化传统压制多元性的做法在此标准下受到批判 (Yu & Zhao, 2024, p.60)。
+> - **[[Official Knowledge|官方知识]]（[[Official Knowledge]]）** (Apple 2000)：学校课程缺乏价值中立属性，充当了支配群体将其文化视角合法化为“正统”的机制。该概念在此处指代中国教科书中经党和国家批准的儒家传统阐释 ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])。
+> - **中心边缘权力关系** (centre-margin power relations)：中国多元文化景观中汉文化与少数民族文化之间存在不平等的地位分配，汉族居于文化“中心”，55个少数民族居于文化“边缘” ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.60]])。该视角与霸权（[[Hegemony]]）概念共同聚焦文化支配自然化的过程。
+> - **多元文化主义** (multiculturalism)：作为规范性评判标准，教育和社会理应推进包容、平等与正义，单一文化传统压制多元性的做法在此标准下受到批判 ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.60]])。
 
 ---
 
@@ -207,17 +207,17 @@ citation_aliases:
 ## 关键引用
 
 > [!quote] 核心文本
-> "儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级。"（Yu & Zhao, 2024, p.59）
+> "儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级。"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])
 >
 > > “对儒家传统的这种解释是一种垄断性的、占主导地位的话语，它强化了不同文化群体之间的文化等级制度。”
-> ("The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.") (Yu & Zhao, 2024, p.59)
+> ("The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.") ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])
 >
 > ---
 >
-> "学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统正可以从其他文化的批判反思中获益。"（Yu & Zhao, 2024, p.59）
+> "学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统正可以从其他文化的批判反思中获益。"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])
 >
 > > “学生们似乎将儒家传统仅仅视为中国的一种文化和世界观，这种文化和世界观可以从其他文化的批判性反思中获益。”
-> ("The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.") (Yu & Zhao, 2024, p.59)
+> ("The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.") ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])
 >
 > ---
 >
@@ -228,10 +228,10 @@ citation_aliases:
 >
 > ---
 >
-> "官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离。"（Yu & Zhao, 2024, p.71）
+> "官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离。"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.71]])
 >
 > > “占主导地位的官方版儒家思想，将其作为庞大单一的汉族文化的核心，要求所有其他少数民族尊崇和模仿，因此往往会煽动文化分裂和异化。”
-> ("The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.") (Yu & Zhao, 2024, p.71)
+> ("The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.") ([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.71]])
 
 ---
 

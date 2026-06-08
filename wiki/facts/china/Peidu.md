@@ -21,9 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Rural School Consolidation]]"
-related_arguments: []
-sources:
-  - "[[Teng_2025_CE]]"
+related_arguments:
+  - "[[Argument_Teng_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -35,10 +34,10 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 陪读 (Peidu) 指中国农村家庭为子女能在城镇学校就读，由至少一名成年家庭成员（多为母亲或祖辈）迁入县城或乡镇陪同子女居住和学习的做法。字面意为陪着读书，本质上是一种通过迁移实现的[[School Choice|择校]]行为（Teng & Wang, 2025, pp.300–301）。
+> 陪读 (Peidu) 指中国农村家庭为子女能在城镇学校就读，由至少一名成年家庭成员（多为母亲或祖辈）迁入县城或乡镇陪同子女居住和学习的做法。字面意为陪着读书，本质上是一种通过迁移实现的[[School Choice|择校]]行为([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.300–301]])。
 
 > [!quote]
-> "peidu, which literally means 'accompanying children to study', involves rural adults relocating to urban areas to accommodate their children's education"（Teng & Wang, 2025, p.301）
+> "peidu, which literally means 'accompanying children to study', involves rural adults relocating to urban areas to accommodate their children's education"([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.301]])
 > 
 > 陪读字面意思是陪着孩子读书，涉及农村成年人为适应子女教育而迁移到城市地区。
 
@@ -46,14 +45,14 @@ updated: 2026-06-02
 
 ## 概念辨析
 
-- vs [[School Choice]] — 陪读是择校的一种特殊形式：国际语境中的择校多由市场化改革推动，而陪读由中国地方政府的城镇化战略驱动（Teng & Wang, 2025, pp.303–304）。
-- vs 一般农村向城市迁移 — 陪读迁移以子女教育为核心动机，而非以就业或改善居住条件为首要目标；陪读成年人通常不进入当地劳动力市场，家庭经济来源依赖在外务工的父亲（Teng & Wang, 2025, p.307）。
+- vs [[School Choice]] — 陪读是择校的一种特殊形式：国际语境中的择校多由市场化改革推动，而陪读由中国地方政府的城镇化战略驱动([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.303–304]])。
+- vs 一般农村向城市迁移 — 陪读迁移以子女教育为核心动机，而非以就业或改善居住条件为首要目标；陪读成年人通常不进入当地劳动力市场，家庭经济来源依赖在外务工的父亲([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.307]])。
 
 ---
 
 ## 产生机制
 
-陪读的大规模出现是[[Rural School Consolidation|农村学校撤并]]（推）与县城学校扩张（拉）共同作用的结果（Teng & Wang, 2025, pp.303–304）。
+陪读的大规模出现是[[Rural School Consolidation|农村学校撤并]]（推）与县城学校扩张（拉）共同作用的结果([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.303–304]])。
 
 ### 推力：农村学校撤并
 
@@ -61,7 +60,7 @@ updated: 2026-06-02
 
 ### 拉力：县城学校扩张与城镇化战略
 
-地方政府通过在县城新建学校和扩容现有学校来吸引农村学生。在 G 县，2016 年和 2021 年分别新建了专门面向农村学生的公立学校，不限户口、不收[[School Choice|择校]]费（Teng & Wang, 2025, p.306）。地方政府将教育集中作为实现城镇化目标的手段——一个孩子在县城上学，至少会带动一名成人、甚至整个家庭迁入城镇。
+地方政府通过在县城新建学校和扩容现有学校来吸引农村学生。在 G 县，2016 年和 2021 年分别新建了专门面向农村学生的公立学校，不限户口、不收[[School Choice|择校]]费([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.306]])。地方政府将教育集中作为实现城镇化目标的手段——一个孩子在县城上学，至少会带动一名成人、甚至整个家庭迁入城镇。
 
 > [!quote]
 > "To develop Dapu, you should bring all rural children into the county capital"（Zhang 2019, p.71，引自 Teng & Wang, 2025, p.304）
@@ -79,7 +78,7 @@ updated: 2026-06-02
 ## 对农村学校的影响
 
 > [!warning]
-> 陪读从农村学校抽走了最具资源优势的家庭，导致农村学校陷入恶性循环（Teng & Wang, 2025, pp.311–312）：
+> 陪读从农村学校抽走了最具资源优势的家庭，导致农村学校陷入恶性循环([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.311–312]])：
 
 - **经费锐减**：学校拨款按学生数核定，生源流失直接导致经费下降，设备损坏无力维修（p.311）。
 - **教师流失**：县城学校扩张需要大量教师，从乡镇和农村学校抽调年轻、有能力的教师，留下年纪较大的教师（p.312）。
@@ -93,6 +92,3 @@ updated: 2026-06-02
 
 ---
 
-## 来源
-
-- [[Teng_2025_CE]]

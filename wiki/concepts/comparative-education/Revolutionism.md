@@ -21,12 +21,10 @@ related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Dependency Theory]]"
 related_methods: []
-related_persons:
-  - "[[Immanuel Kant]]"
+related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -50,7 +48,7 @@ updated: 2026-06-08
 ## 核心要素
 
 > [!abstract]
-> 革命主义的核心特征（Klerides, 2023, pp.418–419）：
+> 革命主义的核心特征([[Argument_Klerides_2023_CE|Klerides, 2023, pp.418–419]])：
 
 ### 世界主义与道德统一
 
@@ -62,7 +60,7 @@ updated: 2026-06-08
 
 ### 历史例证
 
-这一传统的历史例证包括 16 和 17 世纪的宗教革命、18 世纪的法国大革命、以及 20 世纪左右两翼的极权主义革命。在当代，其元素可见于新马克思主义的帝国主义和新殖民主义分析以及后殖民和去殖民的全球化分析（Klerides, 2023, p.419）。
+这一传统的历史例证包括 16 和 17 世纪的宗教革命、18 世纪的法国大革命、以及 20 世纪左右两翼的极权主义革命。在当代，其元素可见于新马克思主义的帝国主义和新殖民主义分析以及后殖民和去殖民的全球化分析([[Argument_Klerides_2023_CE|Klerides, 2023, p.419]])。
 
 ---
 
@@ -95,10 +93,7 @@ updated: 2026-06-08
 > [!warning]
 > - **欧洲中心主义**：Bull 承认 Wight 的框架"过度欧洲中心"（Bull, in Wight, 1992, pp.xviii, xxii）。革命主义以 Kant 为代表，同样受限于西欧思想传统。
 > - **二分世界的简化**：革命主义的"支持者 vs 阻挡者""压迫者 vs 被压迫者"二元图景可能过于简化国际关系的复杂地形。Klerides（2023, p.430）坦承革命主义在聚焦西方帝国主义的过程中忽视了其他形式的帝国主义。
-> - **道德激情的风险**：Wight 框架中革命主义的"传教性质"和"消除苦难的道德激情"本身可能演变为新的压迫形式——20 世纪左右两翼的极权主义革命正是这一风险的例证（Klerides, 2023, p.419）。
+> - **道德激情的风险**：Wight 框架中革命主义的"传教性质"和"消除苦难的道德激情"本身可能演变为新的压迫形式——20 世纪左右两翼的极权主义革命正是这一风险的例证([[Argument_Klerides_2023_CE|Klerides, 2023, p.419]])。
 
 ---
 
-## 来源
-
-- [[Klerides_2023_CE]]

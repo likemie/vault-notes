@@ -27,10 +27,8 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
-related_arguments: []
-sources:
-  - "[[Ross_Morrison_2021_ROE]]"
-  - "[[Cohen_2025_JTT]]"
+related_arguments:
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -40,12 +38,12 @@ updated: 2026-06-05
 ## 定义
 
 > [!info]
-> 吸收能力（Absorptive Capacity）指组织识别、理解、吸收外部知识或信息并将其转化为内部能力以改进实践的组织性特征。这一概念在两种截然不同的组织语境中得到了独立验证：一是 K-12 学区对外部评价证据的吸收和使用（Ross & Morrison, 2021），二是企业在产学研发合作中对大学研究成果的吸收和商业化（Cohen, Fernandes, & Godinho, 2025）。
+> 吸收能力（Absorptive Capacity）指组织识别、理解、吸收外部知识或信息并将其转化为内部能力以改进实践的组织性特征。这一概念在两种截然不同的组织语境中得到了独立验证：一是 K-12 学区对外部评价证据的吸收和使用([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]])，二是企业在产学研发合作中对大学研究成果的吸收和商业化（Cohen, Fernandes, & Godinho, 2025）。
 
 两种语境揭示了吸收能力的共同核心：外部知识的价值不会自动实现——它取决于接收组织是否具备理解知识的认知基础、开放沟通的内部渠道、以及将知识付诸行动的制度激励。无论是对学区还是对企业，吸收能力都不是一种个体技能，而是嵌入组织结构、沟通习惯和领导行为中的系统性条件。
 
 > [!example]
-> 低吸收能力的最直观表现：学区收到了高质量的项目评价报告但将其束之高阁（Ross & Morrison, 2021）；企业与大学完成了联合研发但无法将合作产生的新[[Research Translation|技术转化]]为市场产品（Vega-Jurado et al., 2020, cited in Cohen et al., 2025, p.353）。两种情境中失败的原因不是外部知识质量不足，而是接收组织缺乏将其"吸收"的机制。
+> 低吸收能力的最直观表现：学区收到了高质量的项目评价报告但将其束之高阁([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]])；企业与大学完成了联合研发但无法将合作产生的新[[Research Translation|技术转化]]为市场产品（Vega-Jurado et al., 2020, cited in Cohen et al., 2025, p.353）。两种情境中失败的原因不是外部知识质量不足，而是接收组织缺乏将其"吸收"的机制。
 
 ---
 
@@ -59,37 +57,37 @@ updated: 2026-06-05
 ## 核心要素
 
 > [!abstract]
-> 吸收能力在学区改革中至少包含三个要素：关键伙伴清楚理解项目，伙伴之间保持开放沟通，领导支持使用评价证据进行调整。三者共同影响评价证据是否能进入部门实践、伙伴协作和项目延续决策（Ross & Morrison, 2021, pp.122-124）。
+> 吸收能力在学区改革中至少包含三个要素：关键伙伴清楚理解项目，伙伴之间保持开放沟通，领导支持使用评价证据进行调整。三者共同影响评价证据是否能进入部门实践、伙伴协作和项目延续决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
 
 ### 项目理解
 
-关键伙伴需要理解项目理论、实施阶段和预期结果。共同建构[[Logic Model|逻辑模型]]可以帮助利益相关者形成共享预期，避免把所有项目投入立即解释为学生成就结果（Ross & Morrison, 2021, pp.115, 123-124）。
+关键伙伴需要理解项目理论、实施阶段和预期结果。共同建构[[Logic Model|逻辑模型]]可以帮助利益相关者形成共享预期，避免把所有项目投入立即解释为学生成就结果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 123-124]])。
 
 ### 开放沟通
 
-[[Formative Program Evaluation|形成性项目评价]]反馈需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整（Ross & Morrison, 2021, pp.123-124）。
+[[Formative Program Evaluation|形成性项目评价]]反馈需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.123-124]])。
 
 ### 支持性领导
 
-复杂改革会受到领导更替、政策变化、资金和多方利益相关者互动影响。支持性领导能够提高评价证据被接收、理解和使用的机会（Ross & Morrison, 2021, pp.119-124）。
+复杂改革会受到领导更替、政策变化、资金和多方利益相关者互动影响。支持性领导能够提高评价证据被接收、理解和使用的机会([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.119-124]])。
 
 ## 实证发现
 
 > [!success]
-> 在 [[Students and Teachers Accessing Tomorrow]] 中，虽然评价证据无法证明项目的单独因果效果，但多方利益相关者确认外部评价对项目改进和可持续性具有重要作用。项目在发起它的 superintendent 因丑闻辞职后仍持续推进，说明形成性反馈和地方组织条件共同支持了改革延续（Ross & Morrison, 2021, pp.119, 121-124）。
+> 在 [[Students and Teachers Accessing Tomorrow]] 中，虽然评价证据无法证明项目的单独因果效果，但多方利益相关者确认外部评价对项目改进和可持续性具有重要作用。项目在发起它的 superintendent 因丑闻辞职后仍持续推进，说明形成性反馈和地方组织条件共同支持了改革延续([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.119, 121-124]])。
 
 ## 争议与批评
 
 > [!warning]
-> 吸收能力不能保证证据被客观使用。[[Students and Teachers Accessing Tomorrow|STAT]] 中，一些利益相关者最终仍回到原有政治议程、核心信念和对成就结果的偏好来解释复杂证据；这说明组织学习条件可以提高证据使用机会，但不能消除价值冲突（Ross & Morrison, 2021, pp.122-123）。
+> 吸收能力不能保证证据被客观使用。[[Students and Teachers Accessing Tomorrow|STAT]] 中，一些利益相关者最终仍回到原有政治议程、核心信念和对成就结果的偏好来解释复杂证据；这说明组织学习条件可以提高证据使用机会，但不能消除价值冲突([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 
 > [!warning]
-> 吸收能力在这组材料中主要作为解释性概念出现，没有被操作化为可比较指标。因此，它适合解释为什么某些学区能从评价证据中学习，但还不能单独作为可测量的评价结果（Ross & Morrison, 2021, pp.122-124）。
+> 吸收能力在这组材料中主要作为解释性概念出现，没有被操作化为可比较指标。因此，它适合解释为什么某些学区能从评价证据中学习，但还不能单独作为可测量的评价结果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
 
 ## 相关案例／政策
 
 > [!example]
-> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]]反馈被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
+> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]]反馈被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 > - [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]只有被组织吸收，才会从报告转化为实施改进。
 
 ---
@@ -112,7 +110,3 @@ updated: 2026-06-05
 > [!warning]
 > 吸收能力在这一语境中同样未被操作化为标准化指标。UIC 文献主要将其作为解释合作效果差异的事后[[Analytic Framework|分析框架]]，而非事前可测量的筛选工具。这意味着它在学术解释中具有价值，但尚未成为企业选拔或资助分配的实际操作标准。
 
-## 来源
-
-- [[Ross_Morrison_2021_ROE]]
-- [[Cohen_2025_JTT]]

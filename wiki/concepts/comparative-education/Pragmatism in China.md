@@ -24,9 +24,8 @@ related_persons:
   - "[[John Dewey]]"
 related_facts:
   - "[[May Fourth Movement]]"
-related_arguments: []
-sources:
-  - "[[Schulte_2009_EncuentrosEducacion]]"
+related_arguments:
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -47,7 +46,7 @@ updated: 2026-05-26
 ## 语义前史
 
 > [!note]
-> "实用"一词在中国的现代化话语中有深远的前史（Schulte, 2009, p.71）：
+> "实用"一词在中国的现代化话语中有深远的前史([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.71]])：
 
 > - **1864 年**：李鸿章已指出"所需非所学，所学非所需"——教育内容与社会需求脱节的问题意识已出现。
 > - **17 世纪的"实学"（shixue）传统**：强调"经世致用"（jingshi zhiyong），为"[[Pragmatic Paradigm|实用主义]]"的语义接受铺好了轨道。这一传统将知识的价值锚定在解决实际问题上，与 Pragmatism 的工具主义面向形成了表面的亲和性。
@@ -71,7 +70,7 @@ updated: 2026-05-26
 ## 政治可塑性
 
 > [!info]
-> [[John Dewey|杜威]]的[[Pragmatic Paradigm|实用主义]]之所以在中国获得超常影响力，一个关键原因在于它**同时**对进步派和温和保守派具有吸引力（Schulte, 2009, p.77）：
+> [[John Dewey|杜威]]的[[Pragmatic Paradigm|实用主义]]之所以在中国获得超常影响力，一个关键原因在于它**同时**对进步派和温和保守派具有吸引力([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.77]])：
 
 > - 对[[May Fourth Movement|五四运动]]的追随者而言，实用主义的方法论面向和"以儿童为中心"提供了反对儒学传统的理论武器
 > - 对希望通过教育而非革命来改造国家的温和派而言，实用主义的渐进改良立场正好可以拿来论证"教育救国"
@@ -80,6 +79,3 @@ updated: 2026-05-26
 
 ---
 
-## 来源
-
-- [[Schulte_2009_EncuentrosEducacion]]

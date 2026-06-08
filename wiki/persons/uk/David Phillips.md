@@ -45,7 +45,7 @@ updated: '2026-06-08'
 > - Phillips, D. (1989). Neither a borrower nor a lender be? The problems of [[Cross-National Attraction]] in education. *Comparative Education*, 25(3), 267–274. — 早期对[[Cross-National Attraction|跨国吸引]]力概念的探索
 > - Phillips, D. (1992). Borrowing educational policy. In D. Finegold, L. McFarland & W. Richardson (Eds.), *Something Borrowed, Something Learned?* — 对[[Policy Borrowing|政策借用]]现象的早期分析
 > - Phillips, D. (Ed.) (1995). *Education in Germany: tradition and reform in historical context*. London: Routledge. — 系统分析德国教育传统与改革
-> - [[Kimberly Ochs|Ochs, K]]. & Phillips, D. (2002). *Toward a Structural Typology of Cross-National Attraction in Education*. Lisbon: Educa. — 提出跨国吸引力的结构性类型学
+> - [[Kimberly Ochs|Ochs, K.]] & Phillips, D. (2002). *Toward a Structural Typology of Cross-National Attraction in Education*. Lisbon: Educa. — 提出跨国吸引力的结构性类型学
 > - Phillips, D. & Ochs, K. (2003). Processes of policy borrowing in education: some explanatory and analytical devices. *Comparative Education*, 39(4), 451–461. — 提出政策借用四阶段循环模型
 > - Phillips, D. (2004). Toward a theory of political attraction in education. In G. Steiner-Khamsi (Ed.), *The Global Politics of Educational Borrowing and Lending*. New York: Teachers College Press. — 进一步发展政策吸引力的政治理论
 > - Phillips, D. & Ochs, K. (2004a). Researching policy borrowing: some methodological problems in comparative education. *British Educational Research Journal*, 30(6), 773–784. — 反思政策借用研究的方法论问题

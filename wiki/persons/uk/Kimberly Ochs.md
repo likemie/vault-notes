@@ -41,7 +41,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Ochs, K. & [[David Phillips|Phillips, D]]. (2002). *Toward a Structural Typology of [[Cross-National Attraction]] in Education*. Lisbon: Educa. — 提出跨国吸引力的结构性类型学，识别六类政策焦点和 13 种情境因素
+> - Ochs, K. & [[David Phillips|Phillips, D.]] (2002). *Toward a Structural Typology of [[Cross-National Attraction]] in Education*. Lisbon: Educa. — 提出跨国吸引力的结构性类型学，识别六类政策焦点和 13 种情境因素
 > - Phillips, D. & Ochs, K. (2003). Processes of [[Policy Borrowing]] in education: some explanatory and analytical devices. *Comparative Education*, 39(4), 451–461. — 提出[[Policy Borrowing|政策借用]]四阶段循环模型
 > - Phillips, D. & Ochs, K. (2004a). Researching policy borrowing: some methodological problems in comparative education. *British Educational Research Journal*, 30(6), 773–784. — 反思政策借用研究方法论困境
 > - Phillips, D. & Ochs, K. (Eds.) (2004b). *Educational Policy Borrowing: historical perspectives*. Oxford: Symposium Books. — 政策借用历史案例汇编

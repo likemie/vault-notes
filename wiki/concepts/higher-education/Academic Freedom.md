@@ -21,12 +21,9 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University, Inc. (Washburn, 2005)]]"
-related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Ch8_Gilison_Wilson_2025]]"
-  - "[[Ch13_Dean_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+related_arguments:
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -66,7 +63,7 @@ updated: 2026-06-04
 ### 发表权与产业赞助研究中的知识产权约束
 
 > [!warning]
-> 学术自由的发表权维度在产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）中触发了一条连锁反应链（Gilison & Wilson, 2025, pp.143-144）：
+> 学术自由的发表权维度在产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）中触发了一条连锁反应链([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-144]])：
 
 > 因为大学几乎总是保留发表研究结果的权利（学术自由的基本要求），企业在赞助研究时会担心自己的商业机密或既有知识产权在学术发表中泄露。作为防御，企业在许可协议中要求排他性使用权或商业化权利、限定研究范围为一小块拼图（使产出不足以独立成为产品）、并在衍生企业中保留治理权。
 
@@ -102,7 +99,7 @@ updated: 2026-06-04
 ### 学术自由与研究安全的平衡
 
 > [!warning]
-> 地缘政治紧张加剧使学术自由面临新的压力维度：如何在保持学术开放的同时保护[[Research Security|研究安全]]（research security）。滑铁卢大学"保障研究"（Safeguarding Research）团队的实践原则是在透明性、可预测性、学术自由和开放科学规范之间寻求操作性的平衡——不是通过限制合作来保障安全，而是通过提供制度性支持让教师在有后盾的前提下放心开展国际研究合作（Dean et al., 2025, pp.249–250）。
+> 地缘政治紧张加剧使学术自由面临新的压力维度：如何在保持学术开放的同时保护[[Research Security|研究安全]]（research security）。滑铁卢大学"保障研究"（Safeguarding Research）团队的实践原则是在透明性、可预测性、学术自由和开放科学规范之间寻求操作性的平衡——不是通过限制合作来保障安全，而是通过提供制度性支持让教师在有后盾的前提下放心开展国际研究合作([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。
 
 ---
 
@@ -119,9 +116,3 @@ updated: 2026-06-04
 
 ---
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Ch8_Gilison_Wilson_2025]]
-- [[Ch13_Dean_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]

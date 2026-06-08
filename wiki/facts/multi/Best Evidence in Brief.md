@@ -24,9 +24,8 @@ related_persons:
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Clearinghouse]]"
-related_arguments: []
-sources:
-  - "[[Slavin_2021_ROE]]"
+related_arguments:
+  - "[[Argument_Slavin_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -35,14 +34,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[Evidence-Based Education|证据本位教育]]改革面临的关键障碍之一是信息传播：即使研究证明了某些项目有效，如果这些信息不能以可及的方式传达给教育者和政策制定者，证据就无法影响实践。在此背景下，Johns Hopkins University 与英国约克大学合作创建了 Best Evidence in Brief（BEiB）（Slavin et al., 2021, p.20-21）。
+> [[Evidence-Based Education|证据本位教育]]改革面临的关键障碍之一是信息传播：即使研究证明了某些项目有效，如果这些信息不能以可及的方式传达给教育者和政策制定者，证据就无法影响实践。在此背景下，Johns Hopkins University 与英国约克大学合作创建了 Best Evidence in Brief（BEiB）([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.20-21]])。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> BEiB 是一份免费的每两周电子邮件简报，向美国和英国数万名订阅者（包括研究者、教育者和政策制定者）发送关于近期[[Evidence-Based Education|证据本位教育]]研究、政策和新闻的简短文章（Slavin et al., 2021, p.20）。
+> BEiB 是一份免费的每两周电子邮件简报，向美国和英国数万名订阅者（包括研究者、教育者和政策制定者）发送关于近期[[Evidence-Based Education|证据本位教育]]研究、政策和新闻的简短文章([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.20]])。
 >
-> > "BEiB is sent at no cost every 2 weeks to tens of thousands of subscribers in the U.S. and UK"（Slavin et al., 2021, p.20）
+> > "BEiB is sent at no cost every 2 weeks to tens of thousands of subscribers in the U.S. and UK"([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.20]])
 
 ## 时间线
 
@@ -79,6 +78,3 @@ updated: '2026-05-18'
 > - [[EEF Teaching and Learning Toolkit]] — 英国[[Evidence-Based Education|证据本位教育]]的信息传播旗舰产品，与 BEiB 功能互补
 > - [[What Works Clearinghouse]] — 美国证据信息传播的政府项目，与 BEiB 互补
 
-## 来源
-
-- [[Slavin_2021_ROE]]

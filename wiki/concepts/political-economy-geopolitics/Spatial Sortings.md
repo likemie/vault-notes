@@ -28,9 +28,6 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
-sources:
-  - "[[Ch2_Moisio_2022]]"
-  - "[[Ch12_Erfurth_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -90,8 +87,8 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 >   1. KBE 通过不同种类的空间分选被根本性地构成——需要批判性地审视这些分选的包容与排斥机制。
 >   2. 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的驱逐以喂养高科技和高金融。
 >   3. 国家在导致空间分选的过程中扮演关键角色，但这仍是一个研究不足的议题。
-> - **教育枢纽中的空间分选**：Erfurth (2022) 对[[International Education Hubs|国际教育枢纽]]的案例研究为 Moisio 的空间分选概念提供了具体的实证支撑——教育枢纽在有空隙的环境中繁荣：有发达高教体系的国家（如新加坡）在缺乏类似条件的区域（如东南亚）获得不对称优势，形成区域赢家与输家的格局（Erfurth, 2022, p.211）。这揭示了空间分选的一个关键机制：分选不仅通过投资集中产生，还通过**维持落差**来自我强化——成功的枢纽有意维持周边地区的低高教发展水平以确保持续优势。详见 [[Argument_Erfurth_2022_education-hubs#步骤三：导出地缘政治意涵]]。
-> - **阿联酋内部的空间分选**：阿布扎比（[[Cultural Diplomacy|文化外交]]枢纽）与迪拜（教育产业枢纽）在同一联邦体系内形成空间分工——国家级的空间分选甚至发生在同一国家内部，进一步细化了 Moisio 的赢家-输家分析尺度（Erfurth, 2022, pp.208–211）。
+> - **教育枢纽中的空间分选**：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 对[[International Education Hubs|国际教育枢纽]]的案例研究为 Moisio 的空间分选概念提供了具体的实证支撑——教育枢纽在有空隙的环境中繁荣：有发达高教体系的国家（如新加坡）在缺乏类似条件的区域（如东南亚）获得不对称优势，形成区域赢家与输家的格局([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])。这揭示了空间分选的一个关键机制：分选不仅通过投资集中产生，还通过**维持落差**来自我强化——成功的枢纽有意维持周边地区的低高教发展水平以确保持续优势。详见 [[Argument_Erfurth_2022_education-hubs#步骤三：导出地缘政治意涵]]。
+> - **阿联酋内部的空间分选**：阿布扎比（[[Cultural Diplomacy|文化外交]]枢纽）与迪拜（教育产业枢纽）在同一联邦体系内形成空间分工——国家级的空间分选甚至发生在同一国家内部，进一步细化了 Moisio 的赢家-输家分析尺度([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]])。
 
 ---
 
@@ -100,7 +97,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > [!warning]
 > - 空间分选的概念仍处于发展初期——Moisio 本人的章节更多是提出研究议程而非提供系统的经验验证。
 > - 概念主要关注经济逻辑驱动的空间不平等，对社会文化维度（如种族、性别、移民身份）与空间分选的交叉作用讨论有限。
-> - **教育枢纽中的分选尺度问题**：Erfurth (2022) 的案例显示，空间分选不仅发生在国家之间（新加坡 vs 东南亚邻国），也发生在**同一国家内部**（阿布扎比 vs 迪拜 vs 阿联酋其他酋长国）——但 Moisio 的原始框架主要在宏观枢纽-边缘尺度上运作，对这类次国家尺度的内部分选关注不足（Erfurth, 2022, pp.206–211）。
+> - **教育枢纽中的分选尺度问题**：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的案例显示，空间分选不仅发生在国家之间（新加坡 vs 东南亚邻国），也发生在**同一国家内部**（阿布扎比 vs 迪拜 vs 阿联酋其他酋长国）——但 Moisio 的原始框架主要在宏观枢纽-边缘尺度上运作，对这类次国家尺度的内部分选关注不足([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.206–211]])。
 
 ---
 
@@ -114,7 +111,3 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-## 来源
-
-- [[Ch2_Moisio_2022]]
-- [[Ch12_Erfurth_2022]]

@@ -18,9 +18,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[ONeill_2016_Report]]"
+related_arguments:
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -29,13 +28,13 @@ updated: '2026-05-18'
 ## 概述
 
 > [!info] 概述
-> Partnership Schools Kura Hourua (PSKH) 是新西兰版的"特许学校"（charter schools）——由营利或非营利组织根据教育部长批准的商业合同运营的公费私立学校。PSKH 于 2011 年 12 月由国家党与 ACT 党的供需信任协议（supply and confidence agreement）推动设立（O'Neill et al., 2016, p.11）。
+> Partnership Schools Kura Hourua (PSKH) 是新西兰版的"特许学校"（charter schools）——由营利或非营利组织根据教育部长批准的商业合同运营的公费私立学校。PSKH 于 2011 年 12 月由国家党与 ACT 党的供需信任协议（supply and confidence agreement）推动设立([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.11]])。
 
 ## 法律基础
 
 > [!abstract] 法律基础
-> - **教育修正法案 2013**（Education Amendment Act 2013）：授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 的合同（O'Neill et al., 2016, p.20）
-> - PSKH 授权委员会（Partnership Schools Kura Hourua Authorisation Board）负责就哪些私营实体应获批准运营公费私立学校向政府提供建议；委员会成员曾在教育领域担任各种公共、私营和社区信托职务（O'Neill et al., 2016, p.11）
+> - **教育修正法案 2013**（Education Amendment Act 2013）：授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 的合同([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])
+> - PSKH 授权委员会（Partnership Schools Kura Hourua Authorisation Board）负责就哪些私营实体应获批准运营公费私立学校向政府提供建议；委员会成员曾在教育领域担任各种公共、私营和社区信托职务([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.11]])
 
 ## 规模与状况
 
@@ -43,12 +42,12 @@ updated: '2026-05-18'
 > - **截至 2016 年**：共 9 所学校运营，1 所合同被终止
 > - **第三轮申请**（2015 年）：为 2017 年开学招募
 > - **后续轮次**：已宣布为 2018 和 2019 年开学
-> - **赞助者构成**：1 所由专注于军事职业准备的 Limited Company 赞助；1 所由 Urban Māori Authority (UMA) 赞助；其余由慈善信托赞助，涵盖 Māori、Pasifika、基督教和 Steiner 教育价值观的组合（O'Neill et al., 2016, pp.11–12）
+> - **赞助者构成**：1 所由专注于军事职业准备的 Limited Company 赞助；1 所由 Urban Māori Authority (UMA) 赞助；其余由慈善信托赞助，涵盖 Māori、Pasifika、基督教和 Steiner 教育价值观的组合([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.11–12]])
 
 ## E Tipu E Rea 支持实体
 
 > [!abstract] E Tipu E Rea 支持实体
-> 2016 年 5 月，教育部副部长宣布设立"独立 Partnership School 支持实体" E Tipu E Rea（2015 年 12 月注册为慈善机构），以支持新旧及未来 PSKH 赞助者，获政府有条件资助 USD 500,000。意图通过慈善资助维持。E Tipu E Rea 是唯一受邀提交提案的机构（O'Neill et al., 2016, p.12）。
+> 2016 年 5 月，教育部副部长宣布设立"独立 Partnership School 支持实体" E Tipu E Rea（2015 年 12 月注册为慈善机构），以支持新旧及未来 PSKH 赞助者，获政府有条件资助 USD 500,000。意图通过慈善资助维持。E Tipu E Rea 是唯一受邀提交提案的机构([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.12]])。
 
 ## 与国际特许学校的比较
 
@@ -62,8 +61,5 @@ updated: '2026-05-18'
 > [!warning] 争议
 > - PSKH 体现了新西兰公立教育从政府直接提供向私营部门运营的转变
 > - 批评者质疑将公共资金交付给私人实体运营的学校是否符合公共教育的平等与问责原则
-> - 赞助者选拔过程（包括 E Tipu E Rea 唯一受邀提交提案）引发透明度质疑（O'Neill et al., 2016, p.12）
+> - 赞助者选拔过程（包括 E Tipu E Rea 唯一受邀提交提案）引发透明度质疑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.12]])
 
-## 来源
-
-- [[ONeill_2016_Report]]

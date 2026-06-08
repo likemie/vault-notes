@@ -21,7 +21,8 @@ related_methods:
 related_persons:
   - "[[Alan C. K. Cheung]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slavin_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -46,11 +47,11 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - [[Alan C. K. Cheung|Cheung, A. C. K]]., & Xie, C. (2021). [[Evidence-Based Reform]] in education: Global perspectives [Editorial]. *ECNU Review of Education, 4*(1), 3–6. — 特刊导言，以 Slavin et al. (2020) 四项核心活动框架组织八篇文章
+> - [[Alan C. K. Cheung|Cheung, A. C. K.]], & Xie, C. (2021). [[Evidence-Based Reform]] in education: Global perspectives [Editorial]. *ECNU Review of Education, 4*(1), 3–6. — 特刊导言，以 Slavin et al. (2020) 四项核心活动框架组织八篇文章
 > - Xie, C. (2020). What can China learn from evidence-based educational reform? A comparative review of educational technology programs' effects on mathematics achievement. *ECNU Review of Education, 4*(1), 65–83. — 中美教育技术[[Experimental Research|实验研究]]的系统比较
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
 > - 与 [[Alan C. K. Cheung]] 合作，参与 Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]研究网络的国际拓展
-> - 其对中国[[Experimental Research|实验研究]]"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的观察
+> - 其对中国[[Experimental Research|实验研究]]"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 [[Argument_Slavin_2021_ROE|Slavin et al. (2021)]] 对中国证据本位研究制度化发展的观察

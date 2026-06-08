@@ -22,9 +22,8 @@ related_methods: []
 related_persons:
   - "[[Arturo Escobar]]"
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch4_Amos_2022]]"
+related_arguments:
+  - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -38,7 +37,7 @@ updated: '2026-05-18'
 >
 > > "The literature on transitions makes it clear that transitions are not designed but emergent. They depend on a mix of interacting processes, both self-organizing and other-organized (by humans)."（Escobar, 2018, p.152，引自 Amos, 2022, p.61）
 >
-> 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出观察者看来是一个"新的整合整体的结构"，但这一结构没有中央计划者或智能引导整个过程（Amos, 2022, p.61）。
+> 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出观察者看来是一个"新的整合整体的结构"，但这一结构没有中央计划者或智能引导整个过程([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
 >
 > > 例：一个城市面临交通拥堵和空气污染。传统的"计划"思维：建更多公路（吸引更多车辆，拥堵照旧）。转型设计思维：关注多样化的地方行动——社区自行车共享倡议、"步行校车"、本地商户错峰配送、居民"无车日"实验。这些行动互不隶属，但通过交互可能涌现出一种全新的城市出行模式。没有人设计了这个模式，它从多重地方实验的交互中涌现出来。
 >
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 ## 核心命题
 
 > [!abstract] 核心命题
-> Escobar 援引 Irwin (2015) 提出了转型设计的十条原则。Amos (2022, pp.61–62) 在正文中全文引用。其完整逻辑如下：
+> Escobar 援引 Irwin (2015) 提出了转型设计的十条原则。[[Argument_Amos_2022_Springer|Amos (2022, pp.61–62)]] 在正文中全文引用。其完整逻辑如下：
 >
 > 1. **以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems（棘手问题）**——wicked problems 不能简化为单个[[Variable|变量]]或单一学科的方法；需要 Maturana & Varela 的[[Autopoiesis|自创生]]系统理论提供的整体视角
 > 2. **设计同时保护与修复社会和自然生态系统的解决方案**——不可偏废一方
@@ -80,8 +79,8 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **教育应用的空缺**：Amos 指出 Escobar 并未将教育作为转型设计的重点领域。考虑到教育是现代社会化的核心机制，这一缺失是显著的（Amos, 2022, p.63）
-> - **规模问题**：转型设计的十条原则强调基于地方和草根方案，但在处理全球尺度的紧急问题（气候变化、大规模不平等）时，"涌现"是否足够快？Amos 自己也承认 Escobar "没有提到任何大型集体如民族国家"（Amos, 2022, p.62）
+> - **教育应用的空缺**：Amos 指出 Escobar 并未将教育作为转型设计的重点领域。考虑到教育是现代社会化的核心机制，这一缺失是显著的([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
+> - **规模问题**：转型设计的十条原则强调基于地方和草根方案，但在处理全球尺度的紧急问题（气候变化、大规模不平等）时，"涌现"是否足够快？Amos 自己也承认 Escobar "没有提到任何大型集体如民族国家"([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
 >
 
 ## 应用领域
@@ -91,6 +90,3 @@ updated: '2026-05-18'
 > - [[Mondialisation]] — 两者共同构成替代全球化的概念资源
 >
 
-## 来源
-
-- [[Ch4_Amos_2022]]

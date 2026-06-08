@@ -25,9 +25,8 @@ related_persons:
   - "[[Basil Bernstein]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
-related_arguments: []
-sources:
-  - "[[McPhail_2023_JCS]]"
+related_arguments:
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -70,7 +69,7 @@ updated: 2026-06-06
 ## 应用示例
 
 > [!example] [[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中的规约性话语
-> McPhail et al. (2023) 分析发现，[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的规约性话语主要通过三种[[Recontextualization|再脉络化]]原则运作：
+> [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] 分析发现，[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的规约性话语主要通过三种[[Recontextualization|再脉络化]]原则运作：
 >
 > - **双文化主义**。[[Mātauranga Māori|毛利知识体系]]贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力。课程文件声称要落实怀唐伊条约的承诺，给予毛利知识体系和毛利语言突出地位。Siteine (2018) 理论化了一个强烈的身份指令，认为学业成就与民族身份认可之间存在[[Causality|因果关系]]，这一指令在课程改革中进一步强化。
 > - **地方化**。强调「与当地社区共同设计和审查学校课程」，通过「与当地人民和社区的关系来学习」。让学校与社区之间的边界更具渗透性，作为规约性理想可以产生积极成果，但如果地方化原则影响了课程内容的大部分，凌驾于教学理想之上，就可能产生张力。
@@ -80,6 +79,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[McPhail_2023_JCS]]

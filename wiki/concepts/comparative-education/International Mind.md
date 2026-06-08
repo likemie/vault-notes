@@ -18,9 +18,8 @@ related_methods: []
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Klerides_2023_CE]]"
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -44,7 +43,7 @@ updated: 2026-06-08
 ## 核心要素
 
 > [!abstract]
-> 国际心智概念的核心要素来自两次世界大战之间的和平政治实践（Klerides, 2023, pp.423–424）：
+> 国际心智概念的核心要素来自两次世界大战之间的和平政治实践([[Argument_Klerides_2023_CE|Klerides, 2023, pp.423–424]])：
 
 ### 教科书改革
 
@@ -61,10 +60,7 @@ updated: 2026-06-08
 > [!note]
 > 国际心智概念在两次世界大战之间兴起，二战后被 UNESCO 继承和发展。UNESCO 早期将[[Lifelong Learning|终身学习]]作为核心关注，延续了国际心智对教育促进国际理解的承诺（Elfert, 2023, cited in Klerides, 2023, p.425）。[[Joseph Lauwerys]]——英国第一位比较教育教授和 UNESCO 最早顾问之一——将"国际理解"（international understanding）作为其三大核心价值之首，体现了国际心智概念在比较教育制度化过程中的持续影响。
 
-从[[Wight's Three Traditions of International Theory|国际关系理论]]角度来看，国际心智是理性主义比较教育的核心理念：它假设通过跨国对话和制度建设可以改善国际社会，将比较教育定位为这一改善的工具（Klerides, 2023, pp.423–425）。
+从[[Wight's Three Traditions of International Theory|国际关系理论]]角度来看，国际心智是理性主义比较教育的核心理念：它假设通过跨国对话和制度建设可以改善国际社会，将比较教育定位为这一改善的工具([[Argument_Klerides_2023_CE|Klerides, 2023, pp.423–425]])。
 
 ---
 
-## 来源
-
-- [[Klerides_2023_CE]]

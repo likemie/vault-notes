@@ -21,9 +21,8 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[My Pledge to Act]]"
   - "[[Youth Development Blueprint]]"
-related_arguments: []
-sources:
-  - "[[Vickers_2024_CE]]"
+related_arguments:
+  - "[[Argument_Vickers_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -35,10 +34,10 @@ updated: 2026-05-25
 ## 定义
 
 > [!info] 定义
-> 心理化（psychologisation）是一种治理策略：当社会不满无法被表达为政治诉求时，官方将其重新定义为个体的心理问题——"你不快乐不是因为这个社会不公，而是因为你不够积极乐观"（Vickers, 2024, p.153）。它将政治和社会结构性问题重新框定为个体适应不良，从而消解集体行动的可能性。
+> 心理化（psychologisation）是一种治理策略：当社会不满无法被表达为政治诉求时，官方将其重新定义为个体的心理问题——"你不快乐不是因为这个社会不公，而是因为你不够积极乐观"([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。它将政治和社会结构性问题重新框定为个体适应不良，从而消解集体行动的可能性。
 
 > [!quote]
-> "Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation."（Vickers, 2024, p.154）
+> "Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation."([[Argument_Vickers_2024_CE|Vickers, 2024, p.154]])
 
 ---
 
@@ -67,9 +66,9 @@ updated: 2026-05-25
 ## 争议与批评
 
 > [!warning] 政治问题的去政治化
-> 心理化治理的核心批评在于：它将**政治问题**翻译为**心理问题**，从而消解集体行动的可能性。当一个社会的不满被定义为"你需要调整心态"时，"改变制度"的可能性就不再出现在公共讨论的议程中（Vickers, 2024, pp.153–154）。
+> 心理化治理的核心批评在于：它将**政治问题**翻译为**心理问题**，从而消解集体行动的可能性。当一个社会的不满被定义为"你需要调整心态"时，"改变制度"的可能性就不再出现在公共讨论的议程中([[Argument_Vickers_2024_CE|Vickers, 2024, pp.153–154]])。
 >
-> 在 EdUHK 的政策对话（2023 年 1 月）中，社会学家 Lui Tai-lok 和 Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使这条温和的分析路线也因其隐性诉求（青年需要政治参与和能动性）而显得徒劳，因为拒绝政治对话和否认能动性本身就是这套治理逻辑的核心（Vickers, 2024, pp.153–154）。
+> 在 EdUHK 的政策对话（2023 年 1 月）中，社会学家 Lui Tai-lok 和 Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使这条温和的分析路线也因其隐性诉求（青年需要政治参与和能动性）而显得徒劳，因为拒绝政治对话和否认能动性本身就是这套治理逻辑的核心([[Argument_Vickers_2024_CE|Vickers, 2024, pp.153–154]])。
 
 ---
 
@@ -81,6 +80,3 @@ updated: 2026-05-25
 
 ---
 
-## 来源
-
-- [[Vickers_2024_CE]]

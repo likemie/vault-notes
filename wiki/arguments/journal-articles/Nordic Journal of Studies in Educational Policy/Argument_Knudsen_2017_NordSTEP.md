@@ -30,7 +30,9 @@ related_persons:
 related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Knudsen_2017_NordSTEP]]"
 part_of: ''
@@ -46,7 +48,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> Hanne Knudsen（奥胡斯大学丹麦教育学院）对 [[John Hattie]] 进行了 Skype 访谈，围绕四个核心问题展开（Knudsen, 2017, p.253–254）：
+> Hanne Knudsen（奥胡斯大学丹麦教育学院）对 [[John Hattie]] 进行了 Skype 访谈，围绕四个核心问题展开([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.253–254]])：
 >
 > 1. **实施与翻译**：Hattie 如何反思 VL 在丹麦的实施？他和团队对丹麦学校传统了解多少，是否认为本地情境知识很重要？
 > 2. **基本概念**：Hattie 如何定义"可见性"和"学习"？这些概念对课堂实践、动机、好奇心、教师角色和儿童观的含义是什么？
@@ -57,7 +59,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> Knudsen 的访谈立场受 [[Science and Technology Studies|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
+> Knudsen 的访谈立场受 [[Science and Technology Studies|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.253]])。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
 >
 
 ## 研究方法
@@ -65,15 +67,15 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：半结构式 Skype 访谈
 > - 访谈对象：[[John Hattie]]（墨尔本大学）
-> - 时长与地点：2017 年初，Brisbane 与澳大利亚南海岸之间通过 Skype 进行（Knudsen, 2017, p.254）
-> - 数据处理：Knudsen 缩写并编辑了转录稿以使其可读，声称"尽可能忠实和精确"（Knudsen, 2017, p.254）
+> - 时长与地点：2017 年初，Brisbane 与澳大利亚南海岸之间通过 Skype 进行([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]])
+> - 数据处理：Knudsen 缩写并编辑了转录稿以使其可读，声称"尽可能忠实和精确"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]])
 > - Hattie 后续阅读了文本并对部分主题（特别是证据概念）进行了补充阐述
 >
 
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个[[Research Question|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.253–254]])阐述了四个[[Research Question|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Simpson, 2017; [[Argument_Biesta_2010_SPE|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -81,8 +83,8 @@ citation_aliases:
 > [!success] 主要发现
 > ### 规模化与翻译
 >
-> - Hattie 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"（Knudsen, 2017, p.254）
-> - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型（Knudsen, 2017, p.254）
+> - Hattie 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]])
+> - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]])
 > - 通过 [[Cognition Education|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同（p.254）
 > - VL 工作坊是脚本化的（"scripted. To the word"），禁止教师分享自己的故事和课堂经验（p.254）
 > - 认证通过率仅五分之一，因为"几乎每个教师都想讲自己的故事、轶事和课堂"（p.254）

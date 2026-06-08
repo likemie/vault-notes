@@ -17,12 +17,11 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Cohen_2025_JTT]]"
 confidence: medium
 status: draft
 created: 2026-06-05
@@ -47,7 +46,7 @@ updated: 2026-06-05
 
 ## 影响分类系统
 
-Cohen 等人（2025）通过对 92 篇文献的系统综述，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
+Cohen 等人（2025）通过对 92 篇文献的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
 
 ### 六种影响类型
 
@@ -153,6 +152,3 @@ Cohen 等人识别出四类系统性测量挑战（pp.362–363）：
 
 ---
 
-## 来源
-
-- [[Cohen_2025_JTT]]

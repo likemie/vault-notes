@@ -35,7 +35,8 @@ related_methods:
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Bruno Latour]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[CNRS]]"
@@ -262,10 +263,10 @@ Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）�
 
 Schulze-Cleven et al.（2017）在分析高等教育的新政治经济学时，展示了 Bourdieu 的理论工具如何被重新运用于理解当代学术界的竞争转型和新封建式等级（pp.797–799, 805–806）：
 
-- **符号商品与[[Non-monetary Competition|非货币竞争]]**：Bourdieu（1984）的符号商品概念——声望、认可、区隔——被用于解释高等教育中[[Non-monetary Competition|非货币竞争]]的核心逻辑。学术界的竞争不围绕价格和利润展开（如常规市场），而是围绕符号商品——排名、引用数、学术头衔、机构声望——这些商品的价值来自学科共同体和更广泛公众的集体信念（Schulze-Cleven et al., 2017, pp.797–798）
-- **学术阶级分数**（fractions of the academic class）：*Homo Academicus* 中发展的"学术阶级分数"理论在当代高等教育研究中被重新激活。Möller（2015）和 Graf（2015）运用这一框架对德国教授和学术官员进行了实证研究，揭示了不同学术阶级分数的差异化再生产模式和与统治阶级的关系——一些分数专注于学术资本的积累（研究声望），另一些则通过行政权力和外部网络来维持地位（Schulze-Cleven et al., 2017, p.799）
-- **学术依附与忠诚关系的重构**：Bourdieu 对学术世界中个人化依附关系的分析——导师-弟子关系、学派忠诚、学科内部的庇护网络——被 Schulze-Cleven et al. 用于分析当代[[Neo-feudalism in Higher Education|高等教育新封建主义]]。正在进行的学术关系重新结构化"似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统"——精英教授与初级学者之间的庇护关系、学术流派对职位和资源的控制、以及通过机构声望的公开展示来维持的等级，都体现了超越市场逻辑的封建性权力运作（Schulze-Cleven et al., 2017, pp.798–799）
-- **场域理论在学术治理分析中的运用**：Bourdieu 的场域概念——具有相对自主规则的社会空间，行动者围绕特定赌注竞争位置——被应用于分析当代学术界的竞争重构。不同学科场域（化学、经济学）呈现出不同的竞争逻辑和等级结构，但都遵循着场域内资本（学术资本、社会资本、符号资本）的积累和转化逻辑（Schulze-Cleven et al., 2017, pp.805–807）
+- **符号商品与[[Non-monetary Competition|非货币竞争]]**：Bourdieu（1984）的符号商品概念——声望、认可、区隔——被用于解释高等教育中[[Non-monetary Competition|非货币竞争]]的核心逻辑。学术界的竞争不围绕价格和利润展开（如常规市场），而是围绕符号商品——排名、引用数、学术头衔、机构声望——这些商品的价值来自学科共同体和更广泛公众的集体信念([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])
+- **学术阶级分数**（fractions of the academic class）：*Homo Academicus* 中发展的"学术阶级分数"理论在当代高等教育研究中被重新激活。Möller（2015）和 Graf（2015）运用这一框架对德国教授和学术官员进行了实证研究，揭示了不同学术阶级分数的差异化再生产模式和与统治阶级的关系——一些分数专注于学术资本的积累（研究声望），另一些则通过行政权力和外部网络来维持地位([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+- **学术依附与忠诚关系的重构**：Bourdieu 对学术世界中个人化依附关系的分析——导师-弟子关系、学派忠诚、学科内部的庇护网络——被 Schulze-Cleven et al. 用于分析当代[[Neo-feudalism in Higher Education|高等教育新封建主义]]。正在进行的学术关系重新结构化"似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统"——精英教授与初级学者之间的庇护关系、学术流派对职位和资源的控制、以及通过机构声望的公开展示来维持的等级，都体现了超越市场逻辑的封建性权力运作([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])
+- **场域理论在学术治理分析中的运用**：Bourdieu 的场域概念——具有相对自主规则的社会空间，行动者围绕特定赌注竞争位置——被应用于分析当代学术界的竞争重构。不同学科场域（化学、经济学）呈现出不同的竞争逻辑和等级结构，但都遵循着场域内资本（学术资本、社会资本、符号资本）的积累和转化逻辑([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–807]])
 
 ### 公共知识分子与新自由主义批判
 

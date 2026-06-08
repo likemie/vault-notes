@@ -23,10 +23,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[MN-IP Create]]"
-related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
+related_arguments:
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -72,7 +70,7 @@ updated: 2026-06-02
 ## 替代定价方案
 
 > [!example]
-> 为缓解产业方对 IP 许可定价"被绑架"的担忧——企业担心如果等待 [[Foreground IP|FIP]] 价值明朗后再谈判将被大学索取过高价格——一些大学发展出菜单式预先定价方案。明尼苏达大学的 [[MN-IP Create]] 项目是典型范例，提供三种 FIP 权利选项（Susalka & Carbone, 2025, p.283）：
+> 为缓解产业方对 IP 许可定价"被绑架"的担忧——企业担心如果等待 [[Foreground IP|FIP]] 价值明朗后再谈判将被大学索取过高价格——一些大学发展出菜单式预先定价方案。明尼苏达大学的 [[MN-IP Create]] 项目是典型范例，提供三种 FIP 权利选项([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.283]])：
 
 | 选项 | 预付费 | 获得权利 | 版税条件 |
 |------|--------|---------|---------|
@@ -82,7 +80,3 @@ updated: 2026-06-02
 
 > 部分预先协商协议还包含"意外收获条款"：当许可产品销售额达到特定门槛时企业支付额外费用。这保护大学不会因特别有价值的 FIP 而"贱卖"，同时允许企业在 FIP 价值适中时以较低成本获得权利（pp.282–283）。
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]

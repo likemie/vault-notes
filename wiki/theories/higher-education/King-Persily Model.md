@@ -20,7 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -32,7 +33,7 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]
-> King-Persily 模型（King & Persily, 2019）提出了一种解决大学与产业在数据治理和专有信息问题上矛盾的合作框架。其核心思路是：引入一个独立的第三方委员会，将研究者与产业数据、政策和专有信息之间的完全接触解耦（decouple），从而使研究者可以在不掌握产业专有数据的前提下完成独立学术研究（Swick & Jones, 2025, p.188）。
+> King-Persily 模型（King & Persily, 2019）提出了一种解决大学与产业在数据治理和专有信息问题上矛盾的合作框架。其核心思路是：引入一个独立的第三方委员会，将研究者与产业数据、政策和专有信息之间的完全接触解耦（decouple），从而使研究者可以在不掌握产业专有数据的前提下完成独立学术研究([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.188]])。
 
 该模型最初为解决社会科学领域和社交媒体大数据场景下的[[University-Industry Collaboration|产学合作]]困境而设计——产业伙伴担心敏感数据被公开或滥用，而学术研究者需要数据来开展独立研究。第三方委员会在两者之间充当缓冲层和治理中介。
 

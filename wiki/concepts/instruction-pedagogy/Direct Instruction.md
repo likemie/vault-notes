@@ -20,14 +20,10 @@ related_concepts:
   - "[[Side Effects]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Zhao_2017_JEC]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Fredens_2015_Paideia]]"
+related_arguments:
+  - "[[Argument_Terhart_2011_JCS]]"
 confidence: low
 status: draft
 created: "2026-05-04"
@@ -72,7 +68,7 @@ updated: "2026-05-22"
 ## 实证发现
 
 > [!success] 实证发现
-> - 在 [[Visible Learning]] 体系中，直接教学通常被视为高[[Effect Size|效应量]]教学策略之一，常被用来支撑“教师作为激活者”的教学图像（Terhart, 2011, p.433; Zhao, 2017, p.7）。
+> - 在 [[Visible Learning]] 体系中，直接教学通常被视为高[[Effect Size|效应量]]教学策略之一，常被用来支撑“教师作为激活者”的教学图像([[Argument_Terhart_2011_JCS|Terhart, 2011, p.433]]; Zhao, 2017, p.7)。
 > - Håkansson（2015）并不直接测量 DI 的独立效果，但其对 43 项研究综述的比较显示，目标清晰、教师领导、活动组织、及时 [[Feedback]] 和复习巩固等特征，确实受到教学研究支持。这些正是直接教学常包含的要素（Håkansson, 2015, pp.591-593）。
 > - 同一证据也说明，真正受到支持的不是“单向讲授本身”，而是教师提供清晰结构的能力。因此，直接教学更适合被理解为一组高结构教学动作，而不是万能课堂形式（Håkansson, 2015, pp.593-595）。
 
@@ -92,9 +88,3 @@ updated: "2026-05-22"
 > - [[Structured Teaching]] — 瑞典案例说明，直接教学中的清晰目标、示范、理解检查和复习，可被吸收到更广义的结构化教学中。
 > - [[Visible Learning]] — 直接教学在 Hattie 的综合中被不断用作高效策略参照。
 
-## 来源
-
-- [[Zhao_2017_JEC]]
-- [[Hattie_2015_SOTLP]]
-- [[Fredens_2015_Paideia]]
-- Håkansson_2015_TT

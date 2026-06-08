@@ -23,9 +23,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[TUFF]]"
-related_arguments: []
-sources:
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -37,7 +36,7 @@ updated: 2026-05-28
 ## 内容
 
 > [!info]
-> Tech Square（Technology Square）是佐治亚理工学院（Georgia Institute of Technology）于 1990 年代末在亚特兰大 Midtown 开发的[[University-Industry Collaboration|产学合作]][[Innovation Park|创新园区]]。最初位于校园传统边界之外、一片不受欢迎且物理上隔离的地块上（Byrne & Clements, 2025, pp.128–130）。
+> Tech Square（Technology Square）是佐治亚理工学院（Georgia Institute of Technology）于 1990 年代末在亚特兰大 Midtown 开发的[[University-Industry Collaboration|产学合作]][[Innovation Park|创新园区]]。最初位于校园传统边界之外、一片不受欢迎且物理上隔离的地块上([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.128–130]])。
 
 ## 发展过程
 
@@ -54,6 +53,3 @@ updated: 2026-05-28
 > - TUFF 的 Tom Hall 在 Tech Square 创新了"非传统激活"（unconventional activation）概念——通过乐高搭建比赛、知识问答、桌游、Taco Tuesday 等活动，让研究人员和企业人士在非正式场景中建立真实的人际关系（pp.136–137）
 > - TUFF 的口号"密度就是命运"（density is destiny）在 Tech Square 得到最直接的验证（p.136）
 
-## 来源
-
-- [[Ch7_Byrne_2025]]

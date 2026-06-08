@@ -1,7 +1,6 @@
 ---
 citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61-69."
 extracted_to:
-  - "[[Knowledge Mobilisation]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
 processed_date: 2026-05-21
 ---

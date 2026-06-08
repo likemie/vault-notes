@@ -44,13 +44,10 @@ related_facts:
   - "[[UAE Education Hub Projects]]"
   - "[[Singapore Education Hub Policy]]"
 related_arguments:
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
-sources:
-  - "[[Ch2_Moisio_2022]]"
-  - "[[Ch4_Amos_2022]]"
-  - "[[Ch6_Rizvi_2022]]"
-  - "[[Ch12_Erfurth_2022]]"
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -92,7 +89,7 @@ KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系
 
 ### Sputnik Shock 与 OECD 的早期制度介入
 
-Amos (2022, p.56) 指出一个常被忽略的时间线：知识作为生产要素被纳入经济理论讨论远早于 1990 年代的"知识经济"政策话语。自 1950 年代末——特别是 1957 年 [[Sputnik Shock 1957|Sputnik Shock]]（苏联率先发射人造卫星）之后——[[OECD]] 便系统性地关注教育，尤其是 STEM 学科。"在福利国家即将大规模扩张的二战后的那些年里，经济与知识之间的关联已经被锻造"——远在"市场起关键作用"的论述成为主流之前（Amos, 2022, p.56）。
+[[Argument_Amos_2022_Springer|Amos (2022, p.56)]] 指出一个常被忽略的时间线：知识作为生产要素被纳入经济理论讨论远早于 1990 年代的"知识经济"政策话语。自 1950 年代末——特别是 1957 年 [[Sputnik Shock 1957|Sputnik Shock]]（苏联率先发射人造卫星）之后——[[OECD]] 便系统性地关注教育，尤其是 STEM 学科。"在福利国家即将大规模扩张的二战后的那些年里，经济与知识之间的关联已经被锻造"——远在"市场起关键作用"的论述成为主流之前([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。
 
 Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏联航天成就的反应不是增加军费，而是大规模改革科学和数学课程——因为决策者相信苏联的"知识优势"来自更优越的教育。早在 1950s 末，"知识=国家竞争力"的逻辑已经在驱动教育政策，尽管当时仍是在国家框架内运作，而非后来的市场框架。
 
@@ -106,7 +103,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 
 ### KBE 对继续教育的驱动
 
-Hartmann (2022) 揭示了 KBE 话语对[[Further Education|继续教育]]——尤其是[[Corporate Education|企业教育]]——的驱动作用。Morris-Suzuki（1997）将后福特经济称为"永久创新经济"（perpetual innovation economy）：知识生命周期不断缩短，劳动力需要持续再技能化（re-skilling），这使继续教育从边缘走向中心（Hartmann, 2022, p.179）。在此逻辑下，KBE 不仅推动了高等教育的大众化，也同时推动了继续教育的扩张——两者构成后福特经济中[[Lifelong Learning|终身学习]]的两大支柱。
+[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示了 KBE 话语对[[Further Education|继续教育]]——尤其是[[Corporate Education|企业教育]]——的驱动作用。Morris-Suzuki（1997）将后福特经济称为"永久创新经济"（perpetual innovation economy）：知识生命周期不断缩短，劳动力需要持续再技能化（re-skilling），这使继续教育从边缘走向中心([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])。在此逻辑下，KBE 不仅推动了高等教育的大众化，也同时推动了继续教育的扩张——两者构成后福特经济中[[Lifelong Learning|终身学习]]的两大支柱。
 
 > 例：一家制药公司十年前的核心产品知识可能十年不变；但在 KBE 逻辑下，新药研发周期缩短、基因治疗等新技术不断涌现，销售代表和研发人员每隔几年就需要系统性更新知识——这不是"可选的进修"，而是"不更新就会被淘汰"的结构性压力。这就是 Morris-Suzuki 所说的"永久创新"：不是创新了一次就停下来，而是创新本身变成了常态。（基于 Hartmann, 2022, p.179）
 
@@ -126,7 +123,7 @@ Rizvi (2022) 的分析揭示了 KBE 话语在重塑[[Internationalization of Hig
 
 ### KBE 在教育枢纽中的运作化
 
-Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育枢纽项目]]的比较研究，展示了 KBE 逻辑如何被具体地运作化为国家教育政策。其核心发现是：教育枢纽国家将 KBE 的基本假设——知识是经济增长的核心驱动力——转化为一种**绕开制度建设**的发展策略（Erfurth, 2022, pp.199–200, 211）：
+[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育枢纽项目]]的比较研究，展示了 KBE 逻辑如何被具体地运作化为国家教育政策。其核心发现是：教育枢纽国家将 KBE 的基本假设——知识是经济增长的核心驱动力——转化为一种**绕开制度建设**的发展策略([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.199–200, 211]])：
 
 - **新加坡**："[[Singapore Education Hub Policy|东方波士顿]]"战略的核心逻辑是复刻波士顿作为 KBE 枢纽的空间经济效应——通过高等教育、研究和商业的聚集来推动经济增长。大学教师和学生被视为"知识工作者"和"重要的经济因素"，因其支付税收、租金和进行一般性消费活动（p.209）。这体现了 KBE 逻辑从"教育作为公共产品"到"教育作为经济生产要素"的完整转化
 - **阿联酋**：经济多元化战略同样以 KBE 为框架——减少对石油收入的依赖，转向"基于知识的竞争形式"（pp.206, 211）。迪拜专门设立高等教育经济区以产业化的方式吸引国际分校，将高等教育视为可直接盈利的出口产业
@@ -161,13 +158,13 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 > [!success]
 > - 物质性转折点（1980 年代后期）：在部分发达资本主义国家，市场经济的财富主要来源开始从自然资源→有形资产→无形资产的系统转变，知识和信息成为价值创造的根本基础（Dunning, 2000, p.8, cited in Moisio, 2022, p.23）
 - 大学的战略角色转变：在 KBE 巩固过程中，"大学的战略政治角色根本性增加"——大学成为全球竞争中产生价值和比较优势的核心基础设施（Moisio, 2022, p.23）
-- **[[Single-Case Design|SCD]]：KBE 逻辑在个体层面的操作化**：21 世纪技能与素养话语（SCD）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主义知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导（Zelinka, 2022, pp.259-260）。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
+- **[[Single-Case Design|SCD]]：KBE 逻辑在个体层面的操作化**：21 世纪技能与素养话语（SCD）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主义知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]])。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
 - KBE 的[[Spatial Sortings|空间分化]]效应：KBE 既将某些地点和人口置于发展的中心，又同时将其他地点和人口边缘化（参见 [[Spatial Sortings]]）。枢纽地区（大型城市的创新综合体）与边缘地区（较小城市群、农村）之间的分化加剧——"增长潜力集中在 KBE 的城市枢纽中，而枢纽之外地区因'经济结构变迁'经历相对衰退"（Moisio, 2022, pp.30–31）
 - **亚洲政府的高等教育大规模投资**：Rizvi (2022) 记录了亚洲各国政府如何以 KBE 话语为框架大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。亚洲高等教育系统积极改革课程以对接全球劳动力市场的变化需求，同时追求对西方顶尖大学的"追赶"（Rizvi, 2022, p.95）
 - **KBE 话语作为亚洲中产阶级教育消费的文化推力**：Rizvi (2022) 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地精英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化（Rizvi, 2022, pp.95–97）
-- **[[Further Education|继续教育]]的持续扩张**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长。KBE 逻辑下知识生命周期的缩短是这一趋势的根本驱动力。企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性越大（Hartmann, 2022, pp.179, 185）
+- **[[Further Education|继续教育]]的持续扩张**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长。KBE 逻辑下知识生命周期的缩短是这一趋势的根本驱动力。企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性越大([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.179, 185]])
 - **澳大利亚：KBE 驱动的教育出口战略**：澳大利亚 2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》展示了 KBE 话语如何被系统性地转化为国家教育出口政策。研究基金（AISRF、ACSRF）将[[Transnational Research Collaboration|跨国研究合作]]与贸易和外交目标深度绑定——高等教育政策在此过程中转变为**经济政策、外交政策和安全政策**的综合体（Rizvi, 2022, pp.99–100）
-- **教育枢纽作为 KBE 的极端运作形式**：新加坡的"[[Singapore Education Hub Policy|全球校园]]"项目和阿联酋迪拜的国际分校产业集群代表了 KBE 逻辑的极致运作——高等教育被完全商品化为出口产业，大学和师生主要被视为经济生产要素（Erfurth, 2022, pp.209–211）。详见 [[International Education Hubs#Erfurth 的双重运作维度]]
+- **教育枢纽作为 KBE 的极端运作形式**：新加坡的"[[Singapore Education Hub Policy|全球校园]]"项目和阿联酋迪拜的国际分校产业集群代表了 KBE 逻辑的极致运作——高等教育被完全商品化为出口产业，大学和师生主要被视为经济生产要素([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.209–211]])。详见 [[International Education Hubs#Erfurth 的双重运作维度]]
 
 ---
 
@@ -176,7 +173,7 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 > [!warning]
 > - KBE 的积极形象——通过技术经济创新实现无限经济增长、合作、理性对话、平等和良好治理——需要批判性社会科学的审视。Joe Painter 指出 KBE 涉及一系列"退步性元素"，从环境影响到性别议题（Sellar et al., 2020, cited in Moisio, 2022, p.30）
 - KBE 的空间极化效应：[[Progressive Neoliberalism|进步新自由主义]]版本的 KBE 为少数人口和地点生产大量财富，同时将其他人置于社会和地理边缘。Davidson & Rees-Mogg（1999）预见了信息时代"赢家"（跨国认知精英）与"输家"（无法适应新跨国世界的人）之间的深刻分化——这正是过去十年在欧美出现的趋势（Moisio, 2022, pp.31–32）
-- **KBE 神话掩盖制度替代**：教育枢纽案例揭示了一个被忽视的批评维度——KBE 话语可能被威权或半威权国家用作**替代**（而非补充）社会和政治制度建设的合法性资源。当"知识=发展"成为不证自明的前提时，市场自由化+基础设施扩张就可以包装为发展的全部，制度建设被绕开而不受质疑（Erfurth, 2022, pp.200, 211）
+- **KBE 神话掩盖制度替代**：教育枢纽案例揭示了一个被忽视的批评维度——KBE 话语可能被威权或半威权国家用作**替代**（而非补充）社会和政治制度建设的合法性资源。当"知识=发展"成为不证自明的前提时，市场自由化+基础设施扩张就可以包装为发展的全部，制度建设被绕开而不受质疑([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.200, 211]])
 
 ---
 
@@ -190,10 +187,3 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 
 ---
 
-## 来源
-
-- [[Ch2_Moisio_2022]]
-- [[Ch4_Amos_2022]]
-- [[Ch6_Rizvi_2022]]
-- [[Ch12_Erfurth_2022]]
-- [[Schulze-Cleven_2017_HighEduc]]

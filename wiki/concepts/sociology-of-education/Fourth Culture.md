@@ -15,9 +15,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
-related_arguments: []
-sources:
-  - "[[Ryan(Ed.)_2010_HKUP]]"
+related_arguments:
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 ## 在香港国际学校中的应用
 
 > [!note]
-> Jabal 将这一概念应用于分析香港 [[International Schools|国际学校]]中的 [[Chinese Learner|中国学习者]]（Slethaug, 2010, p.5）。这些学生在自己的家乡城市就读国际学校，制造了 Jabal 所称的"调适复杂性"（adaptive complexities）——学生在学校情境中的价值观、信念、期望、行为与规范，可能与学校中其他外籍群体以及学校本身的运作方式存在显著张力（Slethaug, 2010, p.5）。
+> Jabal 将这一概念应用于分析香港 [[International Schools|国际学校]]中的 [[Chinese Learner|中国学习者]]([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])。这些学生在自己的家乡城市就读国际学校，制造了 Jabal 所称的"调适复杂性"（adaptive complexities）——学生在学校情境中的价值观、信念、期望、行为与规范，可能与学校中其他外籍群体以及学校本身的运作方式存在显著张力([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])。
 
 > [!example]
 > 例：一个香港本地华人学生，在家讲广东话、遵循中国传统家庭价值，但在学校使用英语、被期望参与"批判性讨论"、被评估基于西方学术标准——她在同一个城市中每天都在两种文化体系之间切换，却并不真正属于任何一个。（基于 Slethaug, 2010, p.5）
@@ -61,6 +60,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Ryan(Ed.)_2010_HKUP]]

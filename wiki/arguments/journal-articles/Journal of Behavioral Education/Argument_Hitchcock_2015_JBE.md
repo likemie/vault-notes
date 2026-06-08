@@ -51,7 +51,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 针对 Maggin et al. (2013) 的结论——[[What Works Clearinghouse|WWC]] 审查程序未捕获 [[Single-Case Design|SCD]] 研究推广性所需的细节——本文试图澄清：WWC 的 [[Single-Case Design|SCD]] 审查程序（设计标准 + 审查协议 + SCD Review Guide）确实系统地捕获了推广性信息，此外还应用了一个新颖的证据充分性阈值（5-3-20 规则）（Hitchcock et al., 2015, pp.460–461）。
+> 针对 Maggin et al. (2013) 的结论——[[What Works Clearinghouse|WWC]] 审查程序未捕获 [[Single-Case Design|SCD]] 研究推广性所需的细节——本文试图澄清：WWC 的 [[Single-Case Design|SCD]] 审查程序（设计标准 + 审查协议 + SCD Review Guide）确实系统地捕获了推广性信息，此外还应用了一个新颖的证据充分性阈值（5-3-20 规则）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.460–461]])。
 >
 > 论文的核心问题可以分解为两个层面：
 > 1. WWC 审查程序如何捕获推广性标准（回应 Maggin et al. 的批评）
@@ -62,7 +62,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > 论文以 **[[Campbellian Validity Framework]]**（Shadish, 1995; Shadish, Cook & Campbell, 2002）为理论基础：
 >
-> - **[[Internal Validity|内部效度]]**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"必要条件"（sin qua non）（Hitchcock et al., 2015, p.461）
+> - **[[Internal Validity|内部效度]]**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"必要条件"（sin qua non）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])
 > - **[[External Validity|外部效度]]**：因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂（p.462）
 > - 内外部效度并非完全互斥：例如基线描述既用于建立实验控制（内部效度），也描述现状从而为推广性提供信息（p.463）
 >
@@ -80,7 +80,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. 误解的来源
 >
-> Maggin et al. (2013) 得出"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[Single-Case Design|SCD]] 设计标准"（Hitchcock et al., 2015, p.460）。但审查程序不能仅从设计标准本身理解：
+> Maggin et al. (2013) 得出"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[Single-Case Design|SCD]] 设计标准"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。但审查程序不能仅从设计标准本身理解：
 >
 > - **设计标准**只是三个组件之一——审查还必须考虑**审查协议**（指定[[Research Question|研究问题]]、目标人群、结果领域、场所）和 **[[Single-Case Design|SCD]] Review Guide**（一个系统化数据库，记录所有相关研究细节后再做评估）（p.461）
 > - 由于截至 2015 年 WWC 发布的 SCD 报告"极少"，公开可见的标准应用信息有限，"也许导致一些人假设标准未处理这一重要问题"（p.461）
@@ -97,7 +97,7 @@ citation_aliases:
 >
 > ### 3. 推广性细节被描述而非被评分
 >
-> WWC 在推广性处理上的核心立场（Hitchcock et al., 2015, p.466）：
+> WWC 在推广性处理上的核心立场([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])：
 >
 > > “概括（Generalization）细节不被评估，而是被详细描述，以便消费者能够对概括性做出自己的决定。”
 > ("Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization.")
@@ -122,11 +122,11 @@ citation_aliases:
 ## 可继续提取的信息
 
 > [!note-] 可继续提取的信息
-> - **[[Single-Case Design|SCD]] 的基础定义与适用范围**：论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域（Hitchcock et al., 2015, p.460）。
-> - **单项 SCD 与政策证据之间的距离**：作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究（Hitchcock et al., 2015, p.460）。
-> - **推广性判断的具体信息项**：[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境（Hitchcock et al., 2015, pp.464–466）。
-> - **[[External Validity|外部效度]]的结构性难题**：作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值（Hitchcock et al., 2015, pp.462–463, 466）。
-> - **SCD 证据的社会认识论问题**：论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清（Hitchcock et al., 2015, p.467）。
+> - **[[Single-Case Design|SCD]] 的基础定义与适用范围**：论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
+> - **单项 SCD 与政策证据之间的距离**：作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
+> - **推广性判断的具体信息项**：[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–466]])。
+> - **[[External Validity|外部效度]]的结构性难题**：作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462–463, 466]])。
+> - **SCD 证据的社会认识论问题**：论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])。
 
 ## 关键引用
 

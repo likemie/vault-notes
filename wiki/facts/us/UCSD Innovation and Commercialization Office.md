@@ -22,9 +22,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
+related_arguments:
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-29
@@ -36,7 +35,7 @@ updated: 2026-05-29
 ## 背景
 
 > [!info]
-> 加州大学圣地亚哥分校（University of California at San Diego, UCSD）的创新与商业化办公室在副校长 Paul Roben 的领导下，采用了一种与常规[[University-Industry Collaboration|产学合作]]模式方向相反的做法（Gilison & Wilson, 2025, p.150）。
+> 加州大学圣地亚哥分校（University of California at San Diego, UCSD）的创新与商业化办公室在副校长 Paul Roben 的领导下，采用了一种与常规[[University-Industry Collaboration|产学合作]]模式方向相反的做法([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, p.150]])。
 
 > [!quote]
 > Roben 的概括非常精炼："不是企业来找我们说'我想让你们创建一家我能收购的公司'，而是我们去找企业说'我们想在你们的专业领域运行一个项目，希望你们帮我们理解市场在寻找什么'"（p.150）。
@@ -67,6 +66,3 @@ updated: 2026-05-29
 
 ---
 
-## 来源
-
-- [[Ch8_Gilison_Wilson_2025]]

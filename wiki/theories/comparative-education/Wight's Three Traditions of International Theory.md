@@ -33,7 +33,7 @@ updated: 2026-06-08
 ## 核心主张
 
 > [!tip]
-> Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（realism）、理性主义（rationalism）和[[Revolutionism|革命主义]]（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能（Klerides, 2023, p.417）。
+> Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（realism）、理性主义（rationalism）和[[Revolutionism|革命主义]]（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能([[Argument_Klerides_2023_CE|Klerides, 2023, p.417]])。
 
 > [!quote]
 > "international society is nothing but the great powers"（Wight, 1992, p.32）
@@ -43,7 +43,7 @@ updated: 2026-06-08
 ## 核心命题
 
 > [!abstract]
-> 三大传统的核心区分如下（Klerides, 2023, pp.417–419）：
+> 三大传统的核心区分如下([[Argument_Klerides_2023_CE|Klerides, 2023, pp.417–419]])：
 
 ### 现实主义（Realism）
 
@@ -73,7 +73,7 @@ updated: 2026-06-08
 > [!note]
 > - **1950 年代末至 1960 年代**：Martin Wight 在伦敦政治经济学院（LSE）的系列讲座中提出三大传统框架，讲座内容于 1990 年代初由 Gabriele Wight 和 Brian Porter 整理出版为 International Theory: The Three Traditions（Wight, 1992）。
 > - **1970 年代至今**：三大传统成为英国学派（English School）国际理论的基础，由 Hedley Bull 等学者进一步发展和传播（Navari and Green, 2014）。
-> - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"[[Agendas of Attention|注意力议程]]"（agendas of attention），分别产生现实主义、理性主义和[[Revolutionism|革命主义]]的比较教育形态（Klerides, 2023）。
+> - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"[[Agendas of Attention|注意力议程]]"（agendas of attention），分别产生现实主义、理性主义和[[Revolutionism|革命主义]]的比较教育形态([[Argument_Klerides_2023_CE|Klerides, 2023]])。
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-06-08
 
 > [!warning]
 > - **欧洲中心主义**：Hedley Bull 承认三大传统"过度欧洲中心"（Bull, in Wight, 1992, pp.xviii, xxii）。三大传统的代表人物（Machiavelli、Grotius、Kant）均来自西欧思想传统，对非西方国际关系思想的涵盖不足。
-> - **理想类型的局限**：作为"理想类型"，三大传统在经验现实中往往以混合、竞争和交叉的形态存在，单一传统的纯粹形态更多是分析工具而非经验描述（Klerides, 2023, p.431）。
+> - **理想类型的局限**：作为"理想类型"，三大传统在经验现实中往往以混合、竞争和交叉的形态存在，单一传统的纯粹形态更多是分析工具而非经验描述([[Argument_Klerides_2023_CE|Klerides, 2023, p.431]])。
 
 ---
 

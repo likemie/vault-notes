@@ -22,7 +22,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Ball_2008_SR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -38,11 +40,11 @@ updated: '2026-06-08'
 
 ### 内生与外生私有化（Ball & Youdell, 2008）
 
-Ball 与 Youdell（2008）在提交给 Education International 的报告中识别了全球公立学校政策的两种私有化趋势：内生私有化（学校变得更像企业）和外生私有化（将私营部门带入公立学校）。这一区分成为分析全球[[Endogenous and Exogenous Privatisation|教育私有化]]的核心概念框架（O'Neill et al., 2016, p.4）。详见 [[Endogenous and Exogenous Privatisation]]。
+Ball 与 Youdell（2008）在提交给 Education International 的报告中识别了全球公立学校政策的两种私有化趋势：内生私有化（学校变得更像企业）和外生私有化（将私营部门带入公立学校）。这一区分成为分析全球[[Endogenous and Exogenous Privatisation|教育私有化]]的核心概念框架([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])。详见 [[Endogenous and Exogenous Privatisation]]。
 
 ### 教育政策制定的五重语境（Ball, 1994）
 
-Ball（1994）提出五重语境框架分析教育政策制定（O'Neill et al., 2016, pp.1–2）：
+Ball（1994）提出五重语境框架分析教育政策制定([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.1–2]])：
 1. 影响语境（Context of influence）
 2. 政策文本生产语境（Context of policy text production）
 3. 实践语境（Context of practice）
@@ -57,6 +59,6 @@ Ball（2012）将 Mintrom（2000）的政策创业者概念扩展至跨国维度
 
 Ball 的工作为理解教育中[[Network Governance|网络治理]]模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
 
-### 教育社会学史与治理视角（Ball, 2008）
+### 教育社会学史与治理视角([[Argument_Ball_2008_SR|Ball, 2008]])
 
-Ball（2008）将英国教育社会学史重写为若干问题、位置和研究目光的转换：[[Political Arithmetic|政治算术]]将家庭、阶级和机会分配置于福利国家政策视野中；[[New Sociology of Education|新教育社会学]]把研究目光转向学校知识和课堂过程；[[School Effectiveness|学校效能]]则把学校重构为可测量、可比较、可治理的组织对象（Ball, 2008, pp.650-665）。这一分析延续了 Ball 对教育政策、治理技术和教师专业权力关系的关注：教育社会学不只是解释教育现实，也会生产使家庭、学校、教师和学生可被政策干预的权力光学（Ball, 2008, pp.651, 665）。
+Ball（2008）将英国教育社会学史重写为若干问题、位置和研究目光的转换：[[Political Arithmetic|政治算术]]将家庭、阶级和机会分配置于福利国家政策视野中；[[New Sociology of Education|新教育社会学]]把研究目光转向学校知识和课堂过程；[[School Effectiveness|学校效能]]则把学校重构为可测量、可比较、可治理的组织对象([[Argument_Ball_2008_SR|Ball, 2008, pp.650-665]])。这一分析延续了 Ball 对教育政策、治理技术和教师专业权力关系的关注：教育社会学不只是解释教育现实，也会生产使家庭、学校、教师和学生可被政策干预的权力光学([[Argument_Ball_2008_SR|Ball, 2008, pp.651, 665]])。

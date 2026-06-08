@@ -22,8 +22,6 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
-sources:
-  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -37,7 +35,7 @@ updated: 2026-06-08
 ## 核心主张
 
 > [!tip]
-> 依附论比较教育（dependency theory in comparative education）是 1970 年代至 1980 年代初兴起于比较教育领域的新马克思主义理论路径。其核心主张是：西方主流的现代化理论和人力资本理论将"第三世界"的"欠发展"解释为一种需要外部干预来填补的"缺失"，这种解释本身就是殖民话语的延续。欠发展的真正原因是西方剥削和西方制定的资本主义世界秩序对穷国（以及西方内部的穷人）的结构性约束。比较教育的任务不是帮助"发展"这些国家，而是揭示这种剥削机制并设想社会转型的可能性（Klerides, 2023, pp.426–427）。
+> 依附论比较教育（dependency theory in comparative education）是 1970 年代至 1980 年代初兴起于比较教育领域的新马克思主义理论路径。其核心主张是：西方主流的现代化理论和人力资本理论将"第三世界"的"欠发展"解释为一种需要外部干预来填补的"缺失"，这种解释本身就是殖民话语的延续。欠发展的真正原因是西方剥削和西方制定的资本主义世界秩序对穷国（以及西方内部的穷人）的结构性约束。比较教育的任务不是帮助"发展"这些国家，而是揭示这种剥削机制并设想社会转型的可能性([[Argument_Klerides_2023_CE|Klerides, 2023, pp.426–427]])。
 
 > [!quote]
 > "How do we change a society that colonizes people to accept dominated roles, roles that are defined by a powerful, self-perpetuating group?"（Carnoy, 1974, p.369）
@@ -47,7 +45,7 @@ updated: 2026-06-08
 ## 核心命题
 
 > [!abstract]
-> 依附论比较教育的主要命题（Klerides, 2023, pp.426–427）：
+> 依附论比较教育的主要命题([[Argument_Klerides_2023_CE|Klerides, 2023, pp.426–427]])：
 
 ### 拒绝现代化理论的"缺失"解释
 
@@ -70,7 +68,7 @@ updated: 2026-06-08
 ## 发展脉络
 
 > [!note]
-> - **1974 年**：Carnoy 出版 Education as Cultural Imperialism，从依附论视角系统分析教育在殖民和新殖民秩序中的角色，提出"我们如何改变一个殖民人们接受被支配角色的社会"（Klerides, 2023, p.426）。
+> - **1974 年**：Carnoy 出版 Education as Cultural Imperialism，从依附论视角系统分析教育在殖民和新殖民秩序中的角色，提出"我们如何改变一个殖民人们接受被支配角色的社会"([[Argument_Klerides_2023_CE|Klerides, 2023, p.426]])。
 > - **1977 年**：Altbach 发表"Servitude of the Mind? Education, Dependency and Neo-Colonialism"，分析教育在生产和再生产"心灵的奴役"中的作用，论证依附论比较教育的使命在于帮助被压迫者"看见"教育在维持其从属地位中的角色（p.427）。
 > - **1978 年**：Altbach 和 Kelly 编辑 Education and Colonialism，汇集了依附论视角下的殖民教育研究。
 > - **1980 年**：Arnove 发表两篇重要论文——"Comparative Education and World-Systems Analysis"将世界体系分析引入比较教育，"Philanthropy and Cultural Imperialism"分析慈善基金会作为文化帝国主义工具的角色。Watson 出版 Education in the Third World。
@@ -90,7 +88,7 @@ updated: 2026-06-08
 ## 争议与批评
 
 > [!warning]
-> - **社会主义替代方案的普遍主义**：后殖民和去殖民理论拒绝依附论的社会主义替代方案，理由是社会主义声称与资本主义具有同样的普遍性——两者都是西方现代性的宏大叙事（Klerides, 2023, p.428）。
+> - **社会主义替代方案的普遍主义**：后殖民和去殖民理论拒绝依附论的社会主义替代方案，理由是社会主义声称与资本主义具有同样的普遍性——两者都是西方现代性的宏大叙事([[Argument_Klerides_2023_CE|Klerides, 2023, p.428]])。
 > - **全球化的复杂化**：依附论的"中心—边缘"二元框架在新自由主义全球化的多行动者、多尺度治理现实中显得过于简化。教育政策和实践的流动已不再沿单一的中心向边缘方向进行。
 > - **忽视能动性**：批评者指出依附论过度强调结构性约束而低估了边缘行动者的能动性和抵抗策略（p.428）。
 
@@ -103,6 +101,3 @@ updated: 2026-06-08
 
 ---
 
-## 来源
-
-- [[Klerides_2023_CE]]

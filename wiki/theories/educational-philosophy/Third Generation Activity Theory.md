@@ -50,13 +50,13 @@ updated: 2026-05-26
 
 ### 第一代：Vygotsky 的中介三角模型
 
-Vygotsky（1978）提出认知发展源于个体（主体，Subject）与外部影响之间的互动。在这一原始模型中，个体追求发展目标（客体，Object）的过程由社会文化工具（中介工具，Mediating artefacts）——如语言、符号、概念——所中介（Wang & McLaughlin, 2025, p.590）。
+Vygotsky（1978）提出认知发展源于个体（主体，Subject）与外部影响之间的互动。在这一原始模型中，个体追求发展目标（客体，Object）的过程由社会文化工具（中介工具，Mediating artefacts）——如语言、符号、概念——所中介([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
 
 > 举例：一个学生学习数学（主体追求客体），所使用的教科书、教师语言和课堂符号系统就是中介工具——这些工具不仅传递知识，也塑造学生如何理解数学。
 
 ### 第二代：Engeström 的集体活动系统
 
-Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 模型基础上增加了三个社会维度，将分析单元扩展为集体活动系统（Wang & McLaughlin, 2025, p.590）：
+Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 模型基础上增加了三个社会维度，将分析单元扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])：
 
 - **主体（Subject）**：参与活动的个体或群体
 - **客体（Object）**：活动的目标
@@ -69,7 +69,7 @@ Engeström（1987）认识到人类行为与所处社群之间的复杂交互关
 
 ### 第三代：多系统互动与边界跨越
 
-Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边界的过程。核心假设（Wang & McLaughlin, 2025, pp.590-591）：
+Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边界的过程。核心假设([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])：
 
 1. 活动系统是开放的、动态的——一个活动系统可以与其他系统互动并吸收新元素
 2. 当不同系统互动时，矛盾（contradictions）和变化会出现——例如 [[Learner-Centred Education|LCE]] 改革的目标与考试问责的目标之间的冲突
@@ -106,7 +106,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 ## 应用领域
 
 > [!success]
-> - **教育改革分析**：用于理解不同教育目标系统之间的张力与可能的协同——如[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 的关系（Wang & McLaughlin, 2025）
+> - **教育改革分析**：用于理解不同教育目标系统之间的张力与可能的协同——如[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 的关系([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]])
 > - **组织学习与变革**：Engeström 最初将活动理论应用于工作场所的学习和创新，分析不同专业团队之间的边界跨越
 > - **教师专业发展**：分析教师学习如何在个人信念、学校制度和外部改革压力之间的互动中发生
 

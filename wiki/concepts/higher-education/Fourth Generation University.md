@@ -24,9 +24,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
+related_arguments:
+  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
 confidence: low
 status: draft
 created: 2026-05-30
@@ -40,7 +39,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 第四代大学（Fourth Generation University）是 Malkov et al.（2024）提出的大学代际演化概念，指在教学（第一代）、研究（第二代）和经济参与（第三代）之外，承担起"加速[[Research Translation|研究转化]]并参与应对重大挑战所需创新"的社会责任（Lerner-Lam et al., 2025, pp.161-162）。
+> 第四代大学（Fourth Generation University）是 Malkov et al.（2024）提出的大学代际演化概念，指在教学（第一代）、研究（第二代）和经济参与（第三代）之外，承担起"加速[[Research Translation|研究转化]]并参与应对重大挑战所需创新"的社会责任([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.161-162]])。
 >
 > 哥伦比亚大学将其类似理念称为"第四宗旨"（Fourth Purpose），将其界定为在教学（scholarship, teaching）和学科服务（disciplinary service）三项传统职能之外新增的职责——直接参与复杂社会挑战（如气候变化、人工智能、公共卫生）的解决方案开发（pp.161-162）。
 
@@ -68,6 +67,3 @@ updated: 2026-05-30
 
 ---
 
-## 来源
-
-- [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]

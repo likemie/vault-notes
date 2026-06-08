@@ -20,9 +20,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
-related_arguments: []
-sources:
-  - "[[Sandrone_2025_MEO]]"
+related_arguments:
+  - "[[Argument_Sandrone_2025_MEO]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -69,11 +68,11 @@ updated: 2026-06-07
 
 > [!warning]
 >
-> **诺贝尔演讲中的[[Mentorship Recognition|导师致谢]]缺失**。Sandrone (2025) 分析了 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲，发现只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
+> **诺贝尔演讲中的[[Mentorship Recognition|导师致谢]]缺失**。[[Argument_Sandrone_2025_MEO|Sandrone (2025)]] 分析了 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲，发现只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
 >
-> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者（Sandrone, 2025）。
+> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
 >
-> **与其他奖项的对比**。拉斯克奖的获奖感言比诺贝尔演讲更频繁地提到导师，尽管拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。奥斯卡获奖感言也比诺贝尔演讲更频繁地提到导师（Sandrone, 2025）。
+> **与其他奖项的对比**。拉斯克奖的获奖感言比诺贝尔演讲更频繁地提到导师，尽管拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。奥斯卡获奖感言也比诺贝尔演讲更频繁地提到导师([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
 
 ---
 
@@ -84,6 +83,3 @@ updated: 2026-06-07
 
 ---
 
-## 来源
-
-- [[Sandrone_2025_MEO]]

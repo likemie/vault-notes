@@ -20,13 +20,13 @@ related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Review]]"
 related_persons: []
 related_facts:
+  - "[[Education Endowment Foundation]]"
   - "[[Campbell Collaboration]]"
   - "[[Ofsted]]"
 related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
 confidence: high
 status: draft
 created: 2026-05-01
@@ -35,16 +35,16 @@ updated: 2026-05-18
 ## 背景
 
 > [!info] 背景
-> 英国政府在 2013 年前后建立了 What Works Network，这是一组证据"清算中心"（clearing houses），旨在为不同政策领域的从业者总结学术研究证据。这一网络的建立标志着证据本位方法在英国公共政策制定中的复兴（Cowen et al., 2015, p.3-4）。在教育领域，最突出的 What Works 中心是教育捐赠基金会（Education Endowment Foundation, EEF），它同时也是教育领域大量实地试验的资助方。
+> 英国政府在 2013 年前后建立了 What Works Network，这是一组证据"清算中心"（clearing houses），旨在为不同政策领域的从业者总结学术研究证据。这一网络的建立标志着证据本位方法在英国公共政策制定中的复兴（Cowen et al., 2015, p.3-4）。在教育领域，最突出的 What Works 中心是[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF），它同时也是教育领域大量实地试验的资助方。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> What Works Network 的目标是弥合学术研究与一线实践之间的鸿沟。其核心理念是：通过系统性地总结和传播研究证据（特别是 [[Randomised Controlled Trials|RCT]] 和系统综述），帮助从业者和政策制定者做出更好的决策。
+> What Works Network 的目标是弥合学术研究与一线实践之间的鸿沟。其核心理念是：通过系统性地总结和传播研究证据（特别是 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]），帮助从业者和政策制定者做出更好的决策。
 >
 > > "The establishment of the What Works Network... heralds a resurgence of evidence-based approaches in British policymaking."（Cowen et al., 2015, p.4）
 >
-> 教育领域的 EEF 承担了三重角色：
+> 教育领域的 [[Education Endowment Foundation|EEF]] 承担了三重角色：
 > 1. 减少研究的碎片化——提供易于访问的证据工具包
 > 2. 生产更多系统综述
 > 3. 为学校系统内的高质量研究实验提供动力和支持（Cowen et al., 2015, p.7）
@@ -54,7 +54,7 @@ updated: 2026-05-18
 > [!note]- 时间线
 > - 2002 年 Centre for Evidence Based Policy and Practice 总结了 EBP 成功的四个关键要求
 > - 2000s 早期 [[Campbell Collaboration]] 等通用证据清算中心开始运作
-> - 2011 年 Sutton Trust / EEF 成立，发布 Teaching and Learning Toolkit
+> - 2011 年 Sutton Trust / [[Education Endowment Foundation|EEF]] 成立，发布 Teaching and Learning Toolkit
 > - 2013 年 What Works Network 正式建立，Goldacre (2013b) 发表"Building Evidence into Education"倡导 [[Randomised Controlled Trials|RCT]]
 > - 2015 年 Cowen & Cartwright 发表本工作论文，评估网络的实施效果
 
@@ -62,7 +62,7 @@ updated: 2026-05-18
 
 > [!example] 实施情况
 > 涉及机构：
-> - **EEF（教育捐赠基金会）**：教育领域的旗舰 What Works 中心，发布 Teaching and Learning Toolkit，涵盖 5,500+ 项教育研究的总结
+> - **[[Education Endowment Foundation|EEF]]（教育捐赠基金会）**：教育领域的旗舰 What Works 中心，发布 Teaching and Learning Toolkit，涵盖 5,500+ 项教育研究的总结
 > - **其他 What Works 中心**：覆盖健康、犯罪、儿童服务等多个政策领域
 > - **内阁办公室（Cabinet Office）**：推动网络的建立和协调
 >
@@ -76,7 +76,7 @@ updated: 2026-05-18
 > **正面评价：**
 > - 教师在访谈中对 Toolkit 的呈现方式（"有吸引力且色彩丰富"）给予高度评价（Cowen et al., 2015, p.19）
 > - Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效（Cowen et al., 2015, p.20）
-> - 一位新教师形容 EEF 为"通往高质量证据的捷径"（Cowen et al., 2015, p.40）
+> - 一位新教师形容 [[Education Endowment Foundation|EEF]] 为"通往高质量证据的捷径"（Cowen et al., 2015, p.40）
 >
 > **不足与挑战：**
 > - Toolkit 提供的本地相关信息有限：学生特征限于年龄和相对劣势程度，性别、族裔、语言等信息缺乏；学校环境（城市/郊区/农村）信息不足（Cowen et al., 2015, p.20-21）
@@ -89,7 +89,7 @@ updated: 2026-05-18
 
 > [!warning] 争议与评论
 > - **扩散模式的局限**：研究证据不能从学术来源通过政策清算中心级联顺畅地流入课堂，政治维度无法从 EBP 实施过程中完全剔除（Cowen et al., 2015, p.15）
-> - **与 [[Ofsted]] 的矛盾**：政府机构（尤其是 Ofsted）有时支持了与 EEF 证据相矛盾的实践（如学习风格理论），削弱了 What Works 的公信力（Cowen et al., 2015, p.37-38）
+> - **与 [[Ofsted]] 的矛盾**：政府机构（尤其是 Ofsted）有时支持了与 [[Education Endowment Foundation|EEF]] 证据相矛盾的实践（如学习风格理论），削弱了 What Works 的公信力（Cowen et al., 2015, p.37-38）
 > - **工具包的误读**：EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"——这完全误读了 Toolkit 关于 TA 使用方式的微妙信息（Cowen et al., 2015, p.40）
 
 ## 相关概念／理论
@@ -99,6 +99,3 @@ updated: 2026-05-18
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 该框架揭示了 What Works 证据从"在某处有效"到"在这里有效"的知识鸿沟
 > - [[Evidence-Based Reform]] — Slavin 的美国框架，与英国 What Works 并行的跨大西洋 EBE 运动
 
-## 来源
-
-- [[Cowen_2015_CHESS]]

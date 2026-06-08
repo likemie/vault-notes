@@ -27,11 +27,9 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch8_Gilison_Wilson_2025]]"
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -66,14 +64,14 @@ updated: 2026-06-02
 ## 与学术资本主义的关系与张力
 
 > [!note]
-> 创业型大学与[[Academic Capitalism|学术资本主义]]（Slaughter & Leslie, 1997; Slaughter & Rhoades, 2004）高度重叠但分析层次不同（Schulze-Cleven et al., 2017, pp.797–798）：
+> 创业型大学与[[Academic Capitalism|学术资本主义]]（Slaughter & Leslie, 1997; Slaughter & Rhoades, 2004）高度重叠但分析层次不同([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])：
 >
 > - **创业型大学侧重组织形态**：关注大学内部的文化适应、组织重构和激励机制——大学如何像一个企业那样组织自身
 > - **学术资本主义侧重制度逻辑**：关注更广泛的政治经济转型——市场机制如何系统性地重塑学术生产、治理和资源分配，包括国家角色的转变、公共与私人资金的重新配置
 > - **共同的解释边界**：两者都只能部分解释当代学术转型的复杂性。与常规价格型市场不同，学术界中扩散的准市场（[[Quasi-markets in Higher Education|quasi-markets]]）和声望竞争并不依赖显性货币供需机制；在许多情况下，机构并不以财务利润为导向。公共与私人支出高度交织——例如美国营利性高校的增长很大程度上由联邦学生贷款和拨款（公共资金）所支撑（Douglass, 2012; Mettler, 2014; Eaton et al., 2016）——这使得**市场**和**创业**的标签本身遮蔽了公共资金在**市场化**中的持续核心角色
 
 > [!warning] 概念局限
-> Schulze-Cleven et al.（2017）指出，创业型大学及其相关概念（[[Corporate University|企业大学]]、市场大学）面临一个系统性的分析盲区：它们忽略了竞争中的符号和话语维度。大学之间的竞争不仅是资源的竞争，更是关于**什么算作有价值的知识**和**谁的知识算数**的意义争夺——排名、评估和指标不仅测量创业成功，更在定义什么是成功。一个专注于卓越教学和社区服务的创业型大学，仍然可能在排名体系中被**看不见**——因为排名指标以研究产出和声誉为绝对重心，而非创业活动的多样性（Schulze-Cleven et al., 2017, pp.797–798, 801–802）。
+> Schulze-Cleven et al.（2017）指出，创业型大学及其相关概念（[[Corporate University|企业大学]]、市场大学）面临一个系统性的分析盲区：它们忽略了竞争中的符号和话语维度。大学之间的竞争不仅是资源的竞争，更是关于**什么算作有价值的知识**和**谁的知识算数**的意义争夺——排名、评估和指标不仅测量创业成功，更在定义什么是成功。一个专注于卓越教学和社区服务的创业型大学，仍然可能在排名体系中被**看不见**——因为排名指标以研究产出和声誉为绝对重心，而非创业活动的多样性([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798, 801–802]])。
 
 
 ---
@@ -87,7 +85,7 @@ updated: 2026-06-02
 - **战略整合**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述[[University-Industry Collaboration|产学合作]]的愿景（Hall & Lulich, 2021，转引自 p.52）
 
 > [!note]
-> 近年来大学显著扩展了其支持衍生企业创建和创业精神的基础设施投资（Gilison & Wilson, 2025, pp.147-148）：
+> 近年来大学显著扩展了其支持衍生企业创建和创业精神的基础设施投资([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.147-148]])：
 > - **新创企业支持团队**：大型大学通常在[[Technology Transfer Office|技术转移办公室]]内设立专门团队支持衍生企业，如 UCLA 技术开发组内的 New Ventures Group，或建设专门的孵化器如 Austin Technology Incubator（p.147）
 > - **[[Entrepreneur in Residence|驻校企业家]]（EIR）**：大学通过聘请全职驻校企业家支持多个衍生企业，或组建具有多元经验的兼职 EIR 团队，这种人才投资已成为帮助衍生企业跨越**从实验室到市场鸿沟**的有效策略（pp.147-148）
 > - **[[Proof of Concept Programs|概念验证项目]]**：大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K）结合产业[[Mentorship|导师制]]，帮助研究团队验证技术的市场和商业可行性。产业成员在申请阶段参与项目评审、在执行阶段提供指导、在结项阶段给予反馈（pp.148-149）
@@ -95,8 +93,3 @@ updated: 2026-06-02
 
 ---
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch8_Gilison_Wilson_2025]]

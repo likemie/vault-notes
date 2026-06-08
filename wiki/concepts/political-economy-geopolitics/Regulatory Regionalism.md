@@ -29,10 +29,8 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Horizon 2020 SSH Integration]]"
-related_arguments: []
-sources:
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
-  - "[[Ch10_Rambla_2022]]"
+related_arguments:
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -46,7 +44,7 @@ updated: '2026-05-18'
 > [!info]
 > 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和实践（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
 >
-> Rambla（2022）对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力（Rambla, 2022, p.165–166, 174–175）。
+> Rambla（2022）对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166, 174–175]])。
 
 ## 概念辨析
 
@@ -70,7 +68,7 @@ updated: '2026-05-18'
 
 ### 间接监管
 
-监管区域主义的核心特征是以"软性"工具——[[Performance Indicators]]、基准、排名和质量保障框架——替代直接立法来影响国家教育政策。这些工具不具法律约束力，但通过命名与排名（naming and ranking）的规范性压力发挥作用。在 EU，EUROSTAT 的区域创新记分牌即属此类典型工具（Thompson & Parreira do Amaral, 2022, p.11; Rambla, 2022, p.165）。
+监管区域主义的核心特征是以"软性"工具——[[Performance Indicators]]、基准、排名和质量保障框架——替代直接立法来影响国家教育政策。这些工具不具法律约束力，但通过命名与排名（naming and ranking）的规范性压力发挥作用。在 EU，EUROSTAT 的区域创新记分牌即属此类典型工具(Thompson & Parreira do Amaral, 2022, p.11; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
 ### 超国家制度基础
 
@@ -78,11 +76,11 @@ updated: '2026-05-18'
 
 ### 高等教育作为特殊场域
 
-高等教育因其与研究、创新和经济增长的密切关联，成为监管区域主义特别活跃的政策领域。Robertson（2010）探讨了欧盟如何通过博洛尼亚进程等机制构建"监管型国家区域主义"的新治理模式。在 [[Europe 2020 Strategy]] 框架下，[[Innovation Union]] 将区域建构为[[Innovation Ecosystem|创新生态]]体系的基本空间单元，[[EU Skills Agenda]] 则将就业与教育培训整合为统一的治理对象——二者共同构成监管区域主义在 EU 高等教育与创新政策领域的具体表现（Thompson & Parreira do Amaral, 2022, p.11; Rambla, 2022, p.168–170）。
+高等教育因其与研究、创新和经济增长的密切关联，成为监管区域主义特别活跃的政策领域。Robertson（2010）探讨了欧盟如何通过博洛尼亚进程等机制构建"监管型国家区域主义"的新治理模式。在 [[Europe 2020 Strategy]] 框架下，[[Innovation Union]] 将区域建构为[[Innovation Ecosystem|创新生态]]体系的基本空间单元，[[EU Skills Agenda]] 则将就业与教育培训整合为统一的治理对象——二者共同构成监管区域主义在 EU 高等教育与创新政策领域的具体表现(Thompson & Parreira do Amaral, 2022, p.11; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.168–170]])。
 
 ### 去政治化的政治
 
-监管区域主义的一个关键运作特征是技术治理（technocracy）——通过将价值选择嵌入看似中立的指标体系，政治决策被呈现为技术必然性。这与 [[Selectivity]]（Jessop, 2007）和 [[Geopolitics of Knowledge]] 的分析相通：指标和排名作为一种[[Knowledge Production|知识生产]]形式，在定义"什么是好政策"的同时，也系统性边缘化了替代性政策路径（Rambla, 2022, p.174–176）。
+监管区域主义的一个关键运作特征是技术治理（technocracy）——通过将价值选择嵌入看似中立的指标体系，政治决策被呈现为技术必然性。这与 [[Selectivity]]（Jessop, 2007）和 [[Geopolitics of Knowledge]] 的分析相通：指标和排名作为一种[[Knowledge Production|知识生产]]形式，在定义"什么是好政策"的同时，也系统性边缘化了替代性政策路径([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–176]])。
 
 ## 理论基础
 
@@ -98,7 +96,7 @@ updated: '2026-05-18'
 
 ### 欧盟的绩效指标治理体系
 
-Rambla（2022）对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监管区域主义提供了系统的经验证据。EUROSTAT 的区域创新记分牌根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别——任何公民都可以在地图上一眼识别自身区域的排名位置。[[Performance Indicators|绩效指标]]将"区域"建构为创新和教育政策的基本监测单元，使原本不具备教育立法权限的欧盟机构通过规范性压力间接治理成员国的教育和创新政策（Rambla, 2022, p.169–170, 174–175）。
+Rambla（2022）对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监管区域主义提供了系统的经验证据。EUROSTAT 的区域创新记分牌根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别——任何公民都可以在地图上一眼识别自身区域的排名位置。[[Performance Indicators|绩效指标]]将"区域"建构为创新和教育政策的基本监测单元，使原本不具备教育立法权限的欧盟机构通过规范性压力间接治理成员国的教育和创新政策([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170, 174–175]])。
 
 ### Horizon 2020 的 SSH 整合
 
@@ -106,13 +104,13 @@ Rambla（2022）对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监�
 
 ### 地方层面的差异化效应
 
-[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个 EU 地区，168 名专家访谈）显示，监管区域主义的效应因地方制度传统而异：在制度传统较强的国家（德国、奥地利、芬兰），多元行动者的参与在一定程度上缓冲了指标体系的 [[Selectivity]] 效应；在南欧和东欧，政策网络较弱，选择性效应更为显著（Rambla, 2022, p.172–174）。
+[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个 EU 地区，168 名专家访谈）显示，监管区域主义的效应因地方制度传统而异：在制度传统较强的国家（德国、奥地利、芬兰），多元行动者的参与在一定程度上缓冲了指标体系的 [[Selectivity]] 效应；在南欧和东欧，政策网络较弱，选择性效应更为显著([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–174]])。
 
 ## 争议与批评
 
 > [!warning]
-> - **去政治化风险**：监管机制通过看似技术性的手段（如排名和指标）运作，但其政治意涵往往被自然化——即"去政治化的政治"。当价值判断（如"研发密集型创新优于其他创新""就业优先于赋权"）被嵌入指标体系，本应属于民主审议的政治选择被技术化为"客观标准"。这与 [[Scientization of Politics]] 的诊断相通（Rambla, 2022, p.175–176）
-> - **区域不平等的固化**：监管区域主义通过将高度异质的区域纳入统一的排名框架，可能固化而非缩小区域不平等。"创新领导者"更易吸引投资和人才，"一般创新者"则陷入资源劣势的累积循环——分类本身从描述性标签演变为自我实现的预言（Rambla, 2022, p.174）
+> - **去政治化风险**：监管机制通过看似技术性的手段（如排名和指标）运作，但其政治意涵往往被自然化——即"去政治化的政治"。当价值判断（如"研发密集型创新优于其他创新""就业优先于赋权"）被嵌入指标体系，本应属于民主审议的政治选择被技术化为"客观标准"。这与 [[Scientization of Politics]] 的诊断相通([[Argument_Rambla_2022_Springer|Rambla, 2022, p.175–176]])
+> - **区域不平等的固化**：监管区域主义通过将高度异质的区域纳入统一的排名框架，可能固化而非缩小区域不平等。"创新领导者"更易吸引投资和人才，"一般创新者"则陷入资源劣势的累积循环——分类本身从描述性标签演变为自我实现的预言([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
 > - **高等教育认识论多样性**：对区域主义监管的研究需进一步关注其对高等教育认识论多样性和学科自主性的影响——当研究资助的优先级由服务于技术和政策议程的程度决定时，不以直接应用为导向的基础研究和批判性学术可能被系统性边缘化（Thompson & Parreira do Amaral, 2022, pp.11–12）
 
 ## 相关案例／政策
@@ -123,7 +121,3 @@ Rambla（2022）对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监�
 > - [[EU Skills Agenda]] — 以 NUTS2 教育指标为监管机制的 EU 技能政策
 > - [[Horizon 2020 SSH Integration]] — 以研究资助为间接监管杠杆的 EU 科研框架
 
-## 来源
-
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch10_Rambla_2022]]

@@ -22,7 +22,10 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium
@@ -42,7 +45,7 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 ## 生平与职涯
 
 > [!note]
-- 任职于多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, University of Toronto, Canada）（Parreira do Amaral, 2022, p.50）
+- 任职于多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, University of Toronto, Canada）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.50]])
 - 长期从事跨境高等教育、教育国际化和[[International Education Hubs|国际教育枢纽]]的比较研究
 
 ---
@@ -63,7 +66,7 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 
 ### 大学空间与地缘政治经济
 
-- Knight, J. (2018). Knowledge villages, education hubs, and technopoles. 在其后期工作中，Knight 关注教育枢纽与更广泛的地缘政治经济动态的交织——包括知识村、智慧城市和技术极的兴起，以及各国如何将高等教育空间作为全球人才与资本竞争的场所。Zapp (2022) 援引此研究来论证大学的地缘政治再领土化悖论（Zapp, 2022, pp.155–156）
+- Knight, J. (2018). Knowledge villages, education hubs, and technopoles. 在其后期工作中，Knight 关注教育枢纽与更广泛的地缘政治经济动态的交织——包括知识村、智慧城市和技术极的兴起，以及各国如何将高等教育空间作为全球人才与资本竞争的场所。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 援引此研究来论证大学的地缘政治再领土化悖论([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
 
 ---
 ## 核心思想
@@ -76,23 +79,23 @@ Knight 提出[[International Education Hubs|国际教育枢纽]]（IEH）超越�
 
 三类型学的核心区分在于枢纽的主要驱动力：**学生枢纽**以吸引国际学生和扩大教育出口为核心；**人才枢纽**以培养和留住高技能劳动力为重心；**知识/[[Innovation Hub|创新枢纽]]**以知识生产、研发和创新活动为引擎。这一分类框架使原本模糊的"[[International Education|国际教育]]枢纽"政策话语具有了可比较、可分析的研究维度。
 
-Zapp (2022) 在分析大学的地缘政治再领土化时援引 Knight (2018) 关于教育枢纽、知识村和智慧城市的分析，指出这些空间策略体现了全球化时代的一个深层悖论：大学知识越是跨越国界流动，大学空间本身越是被国家重新收回为地缘政治竞争的工具（Zapp, 2022, pp.155–156）。参见 [[Geopolitics of Knowledge]]。
+[[Argument_Zapp_2022_Springer|Zapp (2022)]] 在分析大学的地缘政治再领土化时援引 Knight (2018) 关于教育枢纽、知识村和智慧城市的分析，指出这些空间策略体现了全球化时代的一个深层悖论：大学知识越是跨越国界流动，大学空间本身越是被国家重新收回为地缘政治竞争的工具([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])。参见 [[Geopolitics of Knowledge]]。
 
 ---
 ## 影响
 
 > [!success]
-- 在跨境高等教育研究领域：Knight 的 [[International Education Hubs|IEH]] 三类型学已成为分析各国教育枢纽战略的标准参照框架，被 Parreira do Amaral (2022) 用于分析教育枢纽和 Minerva 大学作为新[[Geopolitics of Knowledge|知识地缘政治]]的关键案例
-- 在 [[Geopolitics of Knowledge|知识地缘政治]] 研究领域：Knight (2018) 关于教育枢纽、知识村和智慧城市的分析被 Moisio (2018) 和 Zapp (2022) 援引，以论证大学的地缘政治再领土化——即大学知识越是全球化，大学的物理空间越是被国家用作国际人才与资本竞争的前沿阵地（Zapp, 2022, pp.155–156）
+- 在跨境高等教育研究领域：Knight 的 [[International Education Hubs|IEH]] 三类型学已成为分析各国教育枢纽战略的标准参照框架，被 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 用于分析教育枢纽和 Minerva 大学作为新[[Geopolitics of Knowledge|知识地缘政治]]的关键案例
+- 在 [[Geopolitics of Knowledge|知识地缘政治]] 研究领域：Knight (2018) 关于教育枢纽、知识村和智慧城市的分析被 Moisio (2018) 和 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 援引，以论证大学的地缘政治再领土化——即大学知识越是全球化，大学的物理空间越是被国家用作国际人才与资本竞争的前沿阵地([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
 - 在[[GATS and Trade in Education Services|教育服务贸易]]领域：Knight 对高等教育在 WTO 服务贸易总协定（GATS） 框架中角色的分析，为理解高等教育的商品化与贸易化提供了制度层面的分析工具
-- 在教育枢纽实证研究领域：Erfurth (2022) 的新加坡-阿联酋比较研究在运用 Knight 三类型学作为分析基础的同时，将该框架从政策倡导导向扩展至**地缘政治批判分析**——通过区分[[Cultural Diplomacy|文化外交]]和政治经济两个维度，揭示了 Knight 的类型学在描述枢纽"能做什么"时有效、但不足以追问枢纽"为谁服务"和"绕开了什么"（Erfurth, 2022, pp.203, 205–211）
+- 在教育枢纽实证研究领域：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的新加坡-阿联酋比较研究在运用 Knight 三类型学作为分析基础的同时，将该框架从政策倡导导向扩展至**地缘政治批判分析**——通过区分[[Cultural Diplomacy|文化外交]]和政治经济两个维度，揭示了 Knight 的类型学在描述枢纽"能做什么"时有效、但不足以追问枢纽"为谁服务"和"绕开了什么"([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.203, 205–211]])
 
 ---
 ## 争议与批评
 
 > [!warning]
 - **概念边界模糊**：教育枢纽（education hub）、知识村（knowledge village）、智慧城市（smart city）和技术极（technopole）等概念之间的界限在实践中日益模糊——这些原本各有侧重的发展策略正在融合为一个更广泛的城市-教育-创新综合体，使 Knight 的三类型学面临是否需要扩展或整合的张力（基于 Zapp, 2022, pp.155–156）
-- **地缘政治工具化风险**：Zapp (2022) 提示，Knight 所描述的教育枢纽战略同时具有教育和地缘政治双重面向——它们以"国际化"和"全球性"知识空间的面貌出现，但也可能掩盖城市、区域和国家实体持有者的领土主张和市场利益（Moisio & Kangas, 2016，引自 Zapp, 2022, p.156）
-- **肯定性框架的局限**：Erfurth (2022) 指出 Knight 的 [[International Education Hubs|IEH]] 类型学主要采用"政策倡导导向的肯定性框架"——为政策制定者提供枢纽建设指南和进度测量工具——而未能从批判角度审视教育枢纽的地缘政治后果（如区域不平等加剧、大学社会功能的剥离）（Erfurth, 2022, pp.203, 211–212）
+- **地缘政治工具化风险**：[[Argument_Zapp_2022_Springer|Zapp (2022)]] 提示，Knight 所描述的教育枢纽战略同时具有教育和地缘政治双重面向——它们以"国际化"和"全球性"知识空间的面貌出现，但也可能掩盖城市、区域和国家实体持有者的领土主张和市场利益（Moisio & Kangas, 2016，引自 Zapp, 2022, p.156）
+- **肯定性框架的局限**：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 指出 Knight 的 [[International Education Hubs|IEH]] 类型学主要采用"政策倡导导向的肯定性框架"——为政策制定者提供枢纽建设指南和进度测量工具——而未能从批判角度审视教育枢纽的地缘政治后果（如区域不平等加剧、大学社会功能的剥离）([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.203, 211–212]])
 
 ---

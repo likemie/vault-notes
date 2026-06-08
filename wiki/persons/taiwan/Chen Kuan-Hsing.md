@@ -20,7 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Partaken_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -63,6 +64,6 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 
 > [!success]
 > - Chen 的"亚洲作为方法"深刻影响了跨亚洲文化研究运动，*Inter-Asia Cultural Studies* 期刊和双年会成为亚洲批判知识分子的核心对话平台
-> - 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）研究中，Chen 将后殖民 GPK 分析从 Fanon 的殖民[[Knowledge Production|知识生产]]批判推进到对当代亚洲知识状况的结构性改造方案。Partaken (2022) 将 Chen 定位为后殖民 GPK 谱系中 Fanon 之后的关键人物，同时指出 Chen 的分析仍以知识生产为核心，而自己的贡献在于将重心转向[[Knowledge Transfer|知识转移]]（Partaken, 2022, p.73–75）
+> - 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）研究中，Chen 将后殖民 GPK 分析从 Fanon 的殖民[[Knowledge Production|知识生产]]批判推进到对当代亚洲知识状况的结构性改造方案。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将 Chen 定位为后殖民 GPK 谱系中 Fanon 之后的关键人物，同时指出 Chen 的分析仍以知识生产为核心，而自己的贡献在于将重心转向[[Knowledge Transfer|知识转移]]([[Argument_Partaken_2022_Springer|Partaken, 2022, p.73–75]])
 
 ---

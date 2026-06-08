@@ -22,9 +22,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Berk_2011_ER]]"
+related_arguments:
+  - "[[Argument_Berk_2011_ER]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -33,7 +32,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> Daubert v. Merrell Dow Pharmaceuticals, Inc. 是美国联邦最高法院 1993 年裁决的一个里程碑式案件（509 U.S. 579），确立了联邦法院中关于科学证据可采性的标准。该案涉及的实质问题是药物 Bendectin 是否导致出生缺陷，但案件的法律意义远超其具体事实——它取代了已使用 70 年的 Frye 标准（"在相关科学界被普遍接受"），要求联邦法官充当"[[Gatekeepers|守门人]]"角色，主动评估专家科学证言的方法论可靠性（Berk, 2011, p.192）。
+> Daubert v. Merrell Dow Pharmaceuticals, Inc. 是美国联邦最高法院 1993 年裁决的一个里程碑式案件（509 U.S. 579），确立了联邦法院中关于科学证据可采性的标准。该案涉及的实质问题是药物 Bendectin 是否导致出生缺陷，但案件的法律意义远超其具体事实——它取代了已使用 70 年的 Frye 标准（"在相关科学界被普遍接受"），要求联邦法官充当"[[Gatekeepers|守门人]]"角色，主动评估专家科学证言的方法论可靠性([[Argument_Berk_2011_ER|Berk, 2011, p.192]])。
 
 ## 经过
 
@@ -45,27 +44,24 @@ updated: '2026-05-18'
 ## 关键文件／声明
 
 > [!quote] 关键文件／声明
-> > "what under the famous Daubert ruling would be called junk science" (Berk, 2011, p.192)
+> > "what under the famous Daubert ruling would be called junk science" ([[Argument_Berk_2011_ER|Berk, 2011, p.192]])
 >
-> Berk (2011) 将 Daubert 标准引入评估研究的方法论讨论——在评估研究领域，"垃圾科学"（junk science）问题同样严重：每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作（Berk, 2011, p.192）。
+> [[Argument_Berk_2011_ER|Berk (2011)]] 将 Daubert 标准引入评估研究的方法论讨论——在评估研究领域，"垃圾科学"（junk science）问题同样严重：每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作([[Argument_Berk_2011_ER|Berk, 2011, p.192]])。
 
 ## 影响与后果
 
 > [!success] 影响与后果
 > - **法学领域**：Daubert 标准成为美国联邦证据规则的基础，改变了专家证言在法庭中的使用方式
-> - **评估研究领域**：Berk (2011) 借用 Daubert 的"垃圾科学"概念来框架化评估研究中的方法论质量问题——政策制定者往往无法区分真正的证据和虚假的证据（Berk, 2011, p.192）
-> - Berk 指出，部分垃圾科学的制造者"不知道自己在做什么，但仍以高质量工作的所有表面特征进行"；另一些则"非常清楚自己在做什么，并利用这些表面特征来掩盖痕迹"（Berk, 2011, p.192）
+> - **评估研究领域**：[[Argument_Berk_2011_ER|Berk (2011)]] 借用 Daubert 的"垃圾科学"概念来框架化评估研究中的方法论质量问题——政策制定者往往无法区分真正的证据和虚假的证据([[Argument_Berk_2011_ER|Berk, 2011, p.192]])
+> - Berk 指出，部分垃圾科学的制造者"不知道自己在做什么，但仍以高质量工作的所有表面特征进行"；另一些则"非常清楚自己在做什么，并利用这些表面特征来掩盖痕迹"([[Argument_Berk_2011_ER|Berk, 2011, p.192]])
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - Berk (2011, p.192) 承认：即使对专家而言，"有时也难以确定哪个是哪个"（区分证据与垃圾），因此"不存在简单的解码装置"来区分真正的证据和虚假的证据。任何易于实施的规则集都有扼杀创新的风险——"创新从定义上就是对常规做法的新颖改变"（Berk, 2011, p.192–193）
+> - [[Argument_Berk_2011_ER|Berk (2011, p.192)]] 承认：即使对专家而言，"有时也难以确定哪个是哪个"（区分证据与垃圾），因此"不存在简单的解码装置"来区分真正的证据和虚假的证据。任何易于实施的规则集都有扼杀创新的风险——"创新从定义上就是对常规做法的新颖改变"([[Argument_Berk_2011_ER|Berk, 2011, p.192–193]])
 
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Evidence-Based Education]] — Berk (2011) 的论证用于揭示证据本位政策的一个根本挑战：即使接受"政策应基于证据"的前提，什么算作证据——更不用说强有力的证据——往往未被明确规定
+> - [[Evidence-Based Education]] — [[Argument_Berk_2011_ER|Berk (2011)]] 的论证用于揭示证据本位政策的一个根本挑战：即使接受"政策应基于证据"的前提，什么算作证据——更不用说强有力的证据——往往未被明确规定
 
-## 来源
-
-- [[Berk_2011_ER]]

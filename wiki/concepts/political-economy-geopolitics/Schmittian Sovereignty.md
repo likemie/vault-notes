@@ -17,9 +17,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Vickers_2024_CE]]"
+related_arguments:
+  - "[[Argument_Vickers_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -31,7 +30,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info] 定义
-> 施密特式主权（Schmittian Sovereignty）源自德国法学家卡尔·施密特（Carl Schmitt）的主权理论。其核心论点是：**主权者的本质不在于制定规则，而在于决定例外状态（state of exception）**——即谁有权在紧急状态下悬置法律。在这一逻辑中，主权不是法律约束下的权力，而是定义法律本身的权力（Vickers, 2024, p.155）。
+> 施密特式主权（Schmittian Sovereignty）源自德国法学家卡尔·施密特（Carl Schmitt）的主权理论。其核心论点是：**主权者的本质不在于制定规则，而在于决定例外状态（state of exception）**——即谁有权在紧急状态下悬置法律。在这一逻辑中，主权不是法律约束下的权力，而是定义法律本身的权力([[Argument_Vickers_2024_CE|Vickers, 2024, p.155]])。
 
 > [!quote]
 > "Sovereign is he who decides on the exception."（Carl Schmitt, Political Theology, 1922）
@@ -59,10 +58,7 @@ updated: 2026-05-25
 ## 争议与批评
 
 > [!warning]
-> 施密特因其纳粹德国"御用法学家"的身份而高度受争议。其主权理论的核心批评在于：它为威权主义提供了法律外衣——通过将"例外状态"常态化，使不受约束的权力行使获得了"合法"的表象。当"紧急"的理由被扩展至文化、生态、科技乃至外层空间，例外状态就不再是临时的危机应对，而成为永久的治理模式（Vickers, 2024, p.153）。
+> 施密特因其纳粹德国"御用法学家"的身份而高度受争议。其主权理论的核心批评在于：它为威权主义提供了法律外衣——通过将"例外状态"常态化，使不受约束的权力行使获得了"合法"的表象。当"紧急"的理由被扩展至文化、生态、科技乃至外层空间，例外状态就不再是临时的危机应对，而成为永久的治理模式([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
 
 ---
 
-## 来源
-
-- [[Vickers_2024_CE]]

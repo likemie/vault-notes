@@ -23,9 +23,8 @@ related_facts:
   - "[[Tech Square at Georgia Tech]]"
   - "[[Research Triangle Park]]"
   - "[[Purdue Discovery Park]]"
-related_arguments: []
-sources:
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -37,7 +36,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 场所营造（Placemaking）是 [[TUFF]] [[Innovation Hub|创新中心]]框架的六项优先领域之一，指通过有意识的活动设计、空间布局和社区文化建设，在建筑内部空间创造人际互动价值（creating value "in" the building），以此推动商业活力和区域经济发展（Byrne & Clements, 2025, pp.136–137）。
+> 场所营造（Placemaking）是 [[TUFF]] [[Innovation Hub|创新中心]]框架的六项优先领域之一，指通过有意识的活动设计、空间布局和社区文化建设，在建筑内部空间创造人际互动价值（creating value "in" the building），以此推动商业活力和区域经济发展([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.136–137]])。
 
 TUFF 将其与传统的建筑资产管理区分开来——后者关注建筑本身的账面价值，场所营造关注的是楼内发生的互动、关系和信任（p.136）。其深层逻辑链为：商业由社区赋能（commerce enabled by community），社区由人际体验的密度和持久的个人纽带赋能（community enabled by density of human experience and lasting interpersonal bonds）（p.137）。
 
@@ -73,6 +72,3 @@ TUFF 将其与传统的建筑资产管理区分开来——后者关注建筑本
 
 ---
 
-## 来源
-
-- [[Ch7_Byrne_2025]]

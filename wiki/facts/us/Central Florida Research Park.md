@@ -20,9 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -34,7 +33,7 @@ updated: 2026-05-28
 ## 背景
 
 > [!info]
-> 中佛罗里达研究园（Central Florida [[Innovation Park|research park]], CFRP）位于佛罗里达州奥兰多（Orlando），毗邻中佛罗里达大学（University of Central Florida, UCF）主校区，于 1978 年通过与 UCF 合作建立（Byrne & Clements, 2025, p.132）。
+> 中佛罗里达研究园（Central Florida [[Innovation Park|research park]], CFRP）位于佛罗里达州奥兰多（Orlando），毗邻中佛罗里达大学（University of Central Florida, UCF）主校区，于 1978 年通过与 UCF 合作建立([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.132]])。
 
 ## 发展过程
 
@@ -52,6 +51,3 @@ UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿�
 
 CFRP 体现的良性循环模式为：初始[[University-Industry Collaboration|产学合作]]吸引关键政府机构入驻，政府机构的存在进一步吸引产业租户聚集，大学和州政府则持续追加投资以扩大园区规模。
 
-## 来源
-
-- [[Ch7_Byrne_2025]]

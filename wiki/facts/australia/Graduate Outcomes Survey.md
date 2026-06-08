@@ -20,9 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
+related_arguments:
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -43,7 +42,7 @@ updated: 2026-06-06
 ## 政策文本摘要
 
 > [!abstract]
-> 2022年GOS数据显示，教师教育的整体满意度为75%，在各类课程中排名较高。就业结果和起薪中位数也表现良好。这些数据被用于评估ITE项目的质量，也被用于批评《强劲开端》报告对教师培训质量低下的判断缺乏证据支撑（Skourdoumbis & Rowe, 2024, pp.4-5）。
+> 2022年GOS数据显示，教师教育的整体满意度为75%，在各类课程中排名较高。就业结果和起薪中位数也表现良好。这些数据被用于评估ITE项目的质量，也被用于批评《强劲开端》报告对教师培训质量低下的判断缺乏证据支撑([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp.4-5]])。
 
 > [!info]- 核心数据
 > - 整体满意度：75%（p.30）
@@ -60,6 +59,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

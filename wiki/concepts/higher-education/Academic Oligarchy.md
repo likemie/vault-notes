@@ -27,9 +27,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
-related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -46,7 +45,7 @@ updated: 2026-06-01
 Schulze-Cleven et al.（2017）在分析高等教育的新政治经济学时重新激活并扩展了这一概念：在当代竞争转型中，市场化和[[Non-monetary Competition|非货币竞争]]不仅没有消解专业寡头的权力，反而催生了**新型的学术寡头结构**，少数精英大学和精英学者在公平竞争和卓越的话语下，进一步集中了对学术资源分配和价值定义的实质控制（pp.798–799, 808–809）。
 
 > [!quote]
-> "在竞争和市场化的转向中，现有等级倾向于被正式化和固化，而非松动……学术寡头，在竞争的新结构中扮演着重要角色。"（Schulze-Cleven et al., 2017, pp.798–799）
+> "在竞争和市场化的转向中，现有等级倾向于被正式化和固化，而非松动……学术寡头，在竞争的新结构中扮演着重要角色。"([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])
 
 ## 概念辨析
 
@@ -64,7 +63,7 @@ Schulze-Cleven et al.（2017）在分析高等教育的新政治经济学时重�
 
 与"市场竞争促进开放和机会平等"的常识相反，在高等教育中，竞争的加剧往往**加速而非遏制**了寡头化。原因在于三条相互强化的机制：
 
-- **赢家通吃动力**（winner-take-all dynamics）：Frank & Cook（1995）描述的赢家通吃市场逻辑在学术排名和声望体系中获得了极端表达。排名第一的大学和排名第 50 的大学在实际教育质量上的差异可能很小，但在学生申请量、捐赠吸引力和企业合作机会上的差异是指数级的。这一机制的运作被 Meyer & Zhou对美国精英大学捐赠基金的分析所经验证实（Schulze-Cleven et al., 2017, pp.802, 804）
+- **赢家通吃动力**（winner-take-all dynamics）：Frank & Cook（1995）描述的赢家通吃市场逻辑在学术排名和声望体系中获得了极端表达。排名第一的大学和排名第 50 的大学在实际教育质量上的差异可能很小，但在学生申请量、捐赠吸引力和企业合作机会上的差异是指数级的。这一机制的运作被 Meyer & Zhou对美国精英大学捐赠基金的分析所经验证实([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.802, 804]])
 - **[[Matthew Effect in Academia|制度化的马太效应]]**：评估和拨款机制，排名、[[Research Excellence Framework|REF]]、Excellence Initiative，将资源进一步集中到已有资源的机构。这不是市场的"失败"，而是准市场的**设计特征**：评估指标本身偏向精英机构的知识类型，评估结果与拨款挂钩，拨款进一步强化精英机构的评估优势
 - **规则的制定权**：评估标准，什么算好研究、什么算"影响力"，由精英机构的学者主导制定和操作。期刊编辑、评审委员会、拨款评审小组的成员高度集中在少数顶尖大学。这些"规则制定者"不可能，即使出于善意，制定一套不利于自身机构的评价标准
 
@@ -83,18 +82,15 @@ Schulze-Cleven et al.（2017）指出了一个关键区分（pp.798–799）：�
 
 学术寡头最成功的运作可能是话语层面的：它不被称作寡头，而被称作卓越。当 Harvard 和 Stanford 持续占据全球排名顶端时，这不被描述为"寡头垄断的再生产"，而被描述为"卓越的持续认可"。排名的语言，世界一流、全球领先、国际知名，将寡头结构翻译成了功绩等级。这一话语转换是寡头合法化的核心机制：如果人们相信排名的位置反映的是质量而非"权力"，那么寡头的存在就不是问题，而是自然秩序。
 
-> 正如 Marginson（2006, 2009）所论证的，排名"确认、巩固和再生产高等教育的声望和权力"，将资源差异和全球[[Knowledge Production|知识生产]]的不均衡合法化。这正是寡头所需要的：不是暴力，而是共识（Schulze-Cleven et al., 2017, p.802）。
+> 正如 Marginson（2006, 2009）所论证的，排名"确认、巩固和再生产高等教育的声望和权力"，将资源差异和全球[[Knowledge Production|知识生产]]的不均衡合法化。这正是寡头所需要的：不是暴力，而是共识([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.802]])。
 
 ## 在三角协调中的当代意义
 
-Clark（1983）的三角协调模型，国家权威、市场力量、专业寡头，在当代高等教育中经历了显著的权力重组（Schulze-Cleven et al., 2017, pp.797–798, 808–809）：
+Clark（1983）的三角协调模型，国家权威、市场力量、专业寡头，在当代高等教育中经历了显著的权力重组([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798, 808–809]])：
 
 - **国家角色的转变**：国家从直接资助者转变为市场框架的设定者，不再直接分配资源，而是设计准市场（排名、评估、竞争性拨款）来间接治理。这一转变使得国家的角色变得不那么"可见"，但其对资源分配的影响并未减弱
 - **市场力量的重新定义**：所谓的"市场"主要不是价格驱动的自由竞争，而是国家设计的准市场，[[Performance Indicators|绩效指标]]、排名、评估驱动的拨款
 - **专业寡头的巩固**：在国家和市场的双重转型中，专业寡头（资深教授、精英大学、期刊编辑网络）实际上**增强**了其对学术价值定义的控制。因为准市场的运作需要"质量标准"，而谁来决定这些标准？正是寡头本身
 
-Angermuller进一步指出，学术行动者通过日常的话语实践，使用可用的地位范畴（"Harvard 教授"、"Nature 论文"、"[[Research Excellence Framework|REF]] 4*"）来定位自己和他人，在 Burdon Clark 的国家-市场-专业寡头三角中持续进行着符号位置的协商和争夺（Schulze-Cleven et al., 2017, pp.807–808）。
+Angermuller进一步指出，学术行动者通过日常的话语实践，使用可用的地位范畴（"Harvard 教授"、"Nature 论文"、"[[Research Excellence Framework|REF]] 4*"）来定位自己和他人，在 Burdon Clark 的国家-市场-专业寡头三角中持续进行着符号位置的协商和争夺([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–808]])。
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

@@ -23,20 +23,17 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts:
   - "[[Theory Movement in Educational Administration]]"
   - "[[Cognition Education]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-related_arguments: []
-sources:
-  - "[[Eacott_2017_SLM]]"
-  - "[[Hattie_2017_SLM]]"
-  - "[[Eacott_2019_IJLE]]"
-  - "[[Johnson_2023_CE]]"
+related_arguments:
+  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -72,7 +69,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 > - **Robinson, Lloyd, & Rowe (2008)** 在 *EAQ* 发表[[Meta-analysis|元分析]]，识别五个领导力维度及其[[Effect Size|效应量]]，打破[[Transformative Leadership|变革型领导力]]的主导地位——Eacott 认为这为 Hattie 的崛起提供了关键"桥梁"：向教育行政社区引入效应量语言和"感知的严谨性"（Eacott, 2017, p.416-418）
 > - **后 Fordism**：信息收集技术的引入将问责和监控方案嵌入现代工作场所（Portnoi, 2016; Manokha, 2020，引自 Johnson & Janzen, 2023, p.28）
 > - **Hattie (2009)** 出版 [[Visible Learning]]：800+ 元分析、138 个因素按效应量排名——Eacott 认为这开启了当代 Neo-Taylorism 的支配性阶段（Eacott, 2017, p.418-419）
-> - **asTTle 的全景监控设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具（Johnson & Janzen, 2023, p.28）。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架（Johnson & Janzen, 2023, p.28）
+> - **asTTle 的全景监控设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
 > - **VL 品牌商业化与制度化嵌入**：2010 [[Cognition Education|Cognition Education]] 推出 VLplus → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
 
 ## 核心要素
@@ -80,7 +77,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **唯一正确方法**：Taylor 追求消除"soldiering"（磨洋工），Hattie 追求消除"coasting"（得过且过）——两者都以识别和执行"最佳实践"为解决方案（Eacott, 2019, p.778）
 - **任务的拆解与还原**：Taylor 将工作任务拆解为最小组件，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表（Eacott, 2019, p.778）
 - **最大化回报**：Hattie 的效应量排名告诉教育者"做什么以获得最大回报"（maximum return），而非提供反思和发展自身技艺的资源（Eacott, 2019, p.778）
-- **全景监控**：高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 asTTle 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育（Johnson & Janzen, 2023, p.28）
+- **全景监控**：高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 asTTle 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
 - **教师贬低与去专业化**：Hattie 在 VL 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。Johnson & Janzen（2023, p.29）论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
 - **商业利益网络**：Neo-Taylorism 的当代运作依赖于出版商（如 Corwin）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络（Eacott, 2019, p.778, 780）。详见 [[Visible Learning Branding and Global Influences]]
 
@@ -116,13 +113,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - [[Visible Learning Branding and Global Influences]] — VL 从 asTTle 到 VLplus 到 Corwin 收购的商业化轨迹，含商标时间线、产品体系和六区域伙伴网络
 - **ACEL-Corwin 合作（2015）** — 澳大利亚最大校长专业协会与 Hattie 出版商正式合作推广 VL 工作坊，形成自我强化的推广循环（Eacott, 2017, p.419; Eacott, 2019, p.780）
 - **[[Australian Institute for Teaching and School Leadership|AITSL]]** — Hattie 担任澳大利亚教学与[[School Leadership|学校领导力]]研究院主席，其工作已嵌入国家专业标准和年度绩效评估体系（Eacott, 2017, p.421）
-- **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具（Johnson & Janzen, 2023, p.28）
-- [[Victorian HITS and Literacy Toolkit]] — 维州教育部 10 项 HITS 以 VL 为首要参考，教师被要求执行 simplistic performative technical actions（如课前将课题写在白板上）（Johnson & Janzen, 2023, p.29-30）
-- **Visible Classroom App** — Hattie 与 Ai-Media 合作开发，教师自我录制音频由大学"专家"基于 VL 量规反馈，按服务收费（O'Neill et al., 2016, p.49-50）
+- **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
+- [[Victorian HITS and Literacy Toolkit]] — 维州教育部 10 项 HITS 以 VL 为首要参考，教师被要求执行 simplistic performative technical actions（如课前将课题写在白板上）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.29-30]])
+- **Visible Classroom App** — Hattie 与 Ai-Media 合作开发，教师自我录制音频由大学"专家"基于 VL 量规反馈，按服务收费([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49-50]])
 
-## 来源
-
-- [[Eacott_2017_SLM]]
-- [[Hattie_2017_SLM]]
-- [[Eacott_2019_IJLE]]
-- [[Johnson_2023_CE]]

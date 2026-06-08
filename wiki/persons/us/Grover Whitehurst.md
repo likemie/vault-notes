@@ -20,7 +20,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slavin_2002_ER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
 confidence: medium
@@ -38,11 +39,11 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Whitehurst 在任期内将随机化实验从方法论偏好转变为**联邦教育研究的制度性要求**：
 >
-> 1. **随机化实验的强力倡导**：Whitehurst 将 [[Randomised Controlled Trials|RCT]] 定位为评估教育干预的优先方法，主张"非随机化实验不可接受"。Slavin (2002, p. 17) 将此描述为"具有讽刺意味"——在政策多年对任何类型实验都漠不关心之后，OERI 直接跳过了严格匹配实验，要求随机化实验。
+> 1. **随机化实验的强力倡导**：Whitehurst 将 [[Randomised Controlled Trials|RCT]] 定位为评估教育干预的优先方法，主张"非随机化实验不可接受"。[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 将此描述为"具有讽刺意味"——在政策多年对任何类型实验都漠不关心之后，OERI 直接跳过了严格匹配实验，要求随机化实验。
 >
-> 2. **早期儿童项目随机化评估的 RFP**：Whitehurst 发布了一份被 Slavin (2002, p. 15) 称为"本身就是一份革命性文件"的征求建议书（RFP），邀请早期儿童项目接受由第三方评估者收集数据的随机化评估。
+> 2. **早期儿童项目随机化评估的 RFP**：Whitehurst 发布了一份被 [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]] 称为"本身就是一份革命性文件"的征求建议书（RFP），邀请早期儿童项目接受由第三方评估者收集数据的随机化评估。
 >
-> 3. **战略计划 2002–2007**：制定了到 2004 年 75% 的 OERI 资助的因果研究使用[[Random Assignment|随机分配]]设计的目标——当时该比例估计不足 5%。(Slavin, 2002, p. 15)
+> 3. **战略计划 2002–2007**：制定了到 2004 年 75% 的 OERI 资助的因果研究使用[[Random Assignment|随机分配]]设计的目标——当时该比例估计不足 5%。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 >
 > > Whitehurst 的行动标志着联邦教育研究政策的分水岭——从宽松的"方法多元"范式转向以 RCT 为中心的严格证据等级制。
 

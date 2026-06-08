@@ -27,9 +27,8 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Centre for Independent Studies]]"
   - "[[OECD]]"
-related_arguments: []
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
+related_arguments:
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -39,7 +38,7 @@ updated: 2026-06-06
 ## 背景
 
 > [!info]
-> 该报告发布于澳大利亚面临严重教师短缺的背景下，由2022年9月任命的教师教育专家小组撰写。报告延续了2015年《行动方案》和2022年《高质量初始教师教育》两次审查的改革逻辑，但首次明确聚焦神经科学和脑科学（Skourdoumbis & Rowe, 2024, p.3）。
+> 该报告发布于澳大利亚面临严重教师短缺的背景下，由2022年9月任命的教师教育专家小组撰写。报告延续了2015年《行动方案》和2022年《高质量初始教师教育》两次审查的改革逻辑，但首次明确聚焦神经科学和脑科学([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p.3]])。
 
 ---
 
@@ -47,7 +46,7 @@ updated: 2026-06-06
 
 > [!abstract]
 > 报告提出四项优先改革（共14条建议）：
-> - **优先改革1**：加强ITE项目，确立核心内容并强制纳入国家认证。核心内容包括四类：大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学。ITE提供商须在2025年底前将核心内容嵌入所有ITE项目（Skourdoumbis & Rowe, 2024, pp.5-6）。
+> - **优先改革1**：加强ITE项目，确立核心内容并强制纳入国家认证。核心内容包括四类：大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学。ITE提供商须在2025年底前将核心内容嵌入所有ITE项目([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp.5-6]])。
 > - **优先改革2**：加强ITE项目绩效与资金的关联
 > - **优先改革3**：提高教学实习质量
 > - **优先改革4**：改进研究生ITE项目以吸引更多职业转换者
@@ -93,6 +92,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

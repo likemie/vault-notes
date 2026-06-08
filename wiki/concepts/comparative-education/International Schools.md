@@ -19,9 +19,8 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
-related_arguments: []
-sources:
-  - "[[Ch1_Slethaug_2010]]"
+related_arguments:
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -33,7 +32,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 国际学校最初指在海外为特定国家侨民子女提供母国式教育的学校。但随着全球化进程，其性质和目标群体已发生根本转变——从服务殖民官员和外派家庭的"国家前哨站"演变为面向全球精英阶层的市场化教育机构（Slethaug, 2010, pp.20–25）。
+> 国际学校最初指在海外为特定国家侨民子女提供母国式教育的学校。但随着全球化进程，其性质和目标群体已发生根本转变——从服务殖民官员和外派家庭的"国家前哨站"演变为面向全球精英阶层的市场化教育机构([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.20–25]])。
 
 ---
 
@@ -49,26 +48,26 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> 国际学校的性质和规模在过去四十年间经历了根本性转变（Slethaug, 2010, pp.19–26）。
+> 国际学校的性质和规模在过去四十年间经历了根本性转变([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.19–26]])。
 
 ### 殖民时期：国家前哨站
 
 > [!note]
-> 国际学校最初是殖民前哨站——英国人在香港建英式学校教英国孩子，法式、德式、美式同理。1960 年约 70% 的学生来自学校创始国的公务员、传教士和商人家庭（Slethaug, 2010, p.24）。课程完全锁定于母国——如加拿大国际学校（香港）设有安大略省公民课（Slethaug, 2010, p.27）。
+> 国际学校最初是殖民前哨站——英国人在香港建英式学校教英国孩子，法式、德式、美式同理。1960 年约 70% 的学生来自学校创始国的公务员、传教士和商人家庭([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.24]])。课程完全锁定于母国——如加拿大国际学校（香港）设有安大略省公民课([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。
 
 ### 规模爆炸：41 年增长 60 倍
 
 > [!note]
-> - **1964 年**：全球仅约 50 所国际学校（Slethaug, 2010, pp.22–23）
+> - **1964 年**：全球仅约 50 所国际学校([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]])
 > - **1994 年**：约 1,000 所、教师 5 万、学生 50 万（Hayden & Thompson, 1998, p.333，转引自 Slethaug, 2010, p.22）
 > - **2005 年**：约 3,000 所、约 200 万学生（Greenlees, 2006，转引自 Slethaug, 2010, pp.22–23）
-> - 仅香港就有 58 所国际学校（2008 年），中国大陆全境仅 64 所、印度 76 所（Slethaug, 2010, p.22）
+> - 仅香港就有 58 所国际学校（2008 年），中国大陆全境仅 64 所、印度 76 所([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.22]])
 
 ### 去国家化：学生构成的根本逆转
 
 > [!note]
-> 殖民体系瓦解后，国际学校失去了原有的生源基础，但全球化创造了新需求：本地富裕家庭想要"通往西方大学的护照"（Slethaug, 2010, pp.23–25）：
-> - 创始国学生比例从 **70%**（1960）降至 **30%**（2005）（Slethaug, 2010, p.24）
+> 殖民体系瓦解后，国际学校失去了原有的生源基础，但全球化创造了新需求：本地富裕家庭想要"通往西方大学的护照"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.23–25]])：
+> - 创始国学生比例从 **70%**（1960）降至 **30%**（2005）([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.24]])
 > - 以布鲁塞尔国际学校为例：十年前 70% 为美国学生，如今仅 29%；雇主支付学费比例从 98% 降至 89%（Conlin, 2006, p.11，转引自 Slethaug, 2010, p.24）
 > - 学校日益成为通往澳大利亚、加拿大、英国和美国顶尖大学的"出发候机厅"（departure lounges）（Yamato & Bray, 2006, p.60，转引自 Slethaug, 2010, p.24）
 
@@ -78,14 +77,14 @@ updated: '2026-05-18'
 
 > [!abstract]
 > ### 市场化运营
-> 去国家化意味着学校失去母国政府和跨国企业的资金支持，必须向学生收取全额学费。香港国际学校的年费在 US$10,000–20,000 之间（Slethaug, 2010, p.26）。
+> 去国家化意味着学校失去母国政府和跨国企业的资金支持，必须向学生收取全额学费。香港国际学校的年费在 US$10,000–20,000 之间([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.26]])。
 
 > [!quote]
 > "国际学校必须比大多数主流学校更加面向市场。它们必须提供有需求的课程，价格须为目标客户所能承受，并且必须关注不断变化的人口和经济力量。"（Yamato & Bray, 2006, p.60，转引自 Slethaug, 2010, p.26）
 
 > [!abstract]
 > ### 课程国际化
-> 学生构成的多元化迫使国际学校重新思考课程和教学假设（Slethaug, 2010, pp.26–28）：
+> 学生构成的多元化迫使国际学校重新思考课程和教学假设([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.26–28]])：
 > - 越来越多学校转向 [[International Baccalaureate|IB]] 课程，因其国家标识较少
 > - 语言课程从单一母语转向双语/三语——如香港国际学校引入普通话
 > - 加拿大国际学校（香港）取消了安大略省公民课，因对不再在加拿大生活的学生缺乏相关性
@@ -97,7 +96,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > ### 本地学生的身份张力
-> 大量本地学生"在家门口"就读国际学校，以避免在海外过度西化。但这制造了身份张力（Slethaug, 2010, pp.24–25）：学生在学校情境中的价值观和期望，与家庭和本地社区存在显著差异——这正是 Deveney（2005）所称的 "[[Fourth Culture|第四文化]]"现象。
+> 大量本地学生"在家门口"就读国际学校，以避免在海外过度西化。但这制造了身份张力([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.24–25]])：学生在学校情境中的价值观和期望，与家庭和本地社区存在显著差异——这正是 Deveney（2005）所称的 "[[Fourth Culture|第四文化]]"现象。
 
 > [!quote]
 > "广泛的 social、经济和技术变革已显著影响教育政策与实践。全球化……也导致了传统价值的贬值。在世界许多地区，全球化推动的文化与传统文​​化之间存在着张力。"（Rao, Ng, & Pearson, 2009, p.257，转引自 Slethaug, 2010, p.25）
@@ -108,15 +107,15 @@ updated: '2026-05-18'
 
 > [!warning]
 > ### 师资培训的系统性缺失
-> 国际学校的爆炸式增长并未伴随相应的师资培养体系。全球仅极少数大学设有[[International Education|国际教育]]专业项目（Slethaug, 2010, pp.32–33）：
+> 国际学校的爆炸式增长并未伴随相应的师资培养体系。全球仅极少数大学设有[[International Education|国际教育]]专业项目([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.32–33]])：
 > - **英国/欧洲**：巴斯大学国际教育中心、牛津布鲁克斯 OICEM、剑桥大学国际考试（国际教师证书）
 > - **美国**：密歇根州立大学（海外教育研究）、恩迪科特学院（国际教育硕士）、乔治梅森大学（国际教育中心）、佛蒙特国际培训学校
 >
-> 对于一个服务 200 万+ 学生、3,000+ 所学校的产业而言，这个师资培养体系的规模微不足道。这意味着大多数国际学校的教师未受过专门国际教育训练——他们带着自己国家的教学假设走进多元文化课堂，旧的刻板印象和"智识殖民主义"因此持续运作（Slethaug, 2010, p.33）。
+> 对于一个服务 200 万+ 学生、3,000+ 所学校的产业而言，这个师资培养体系的规模微不足道。这意味着大多数国际学校的教师未受过专门国际教育训练——他们带着自己国家的教学假设走进多元文化课堂，旧的刻板印象和"智识殖民主义"因此持续运作([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.33]])。
 
 > [!warning]
 > ### 对公立系统的冲击
-> [[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生的一个非预期后果是：本地英文中学和中文中学失去了最优秀的学生，掏空了本已因出生率下降而面临压力的公立学校系统，并可能引发对国际教育部门的怨恨情绪（Slethaug, 2010, p.5）。
+> [[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生的一个非预期后果是：本地英文中学和中文中学失去了最优秀的学生，掏空了本已因出生率下降而面临压力的公立学校系统，并可能引发对国际教育部门的怨恨情绪([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])。
 
 ---
 
@@ -129,6 +128,3 @@ updated: '2026-05-18'
 
 ---
 
-## 来源
-
-- [[Ch1_Slethaug_2010]]

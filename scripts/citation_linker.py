@@ -30,23 +30,24 @@ HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
 OBSIDIAN_COMMENT_RE = re.compile(r"%%.*?%%", re.S)
 CODE_FENCE_RE = re.compile(r"```.*?```", re.S)
 
+AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&与等-]*(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
 PAREN_GROUP_RE = re.compile(r"(?<!\[)\(([^()\n]*\b\d{4}[a-z]?[^()\n]*)\)")
 FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（([^（）\n]*\b\d{4}[a-z]?[^（）\n]*)）")
 PAREN_ITEM_RE = re.compile(
     r"^\s*"
-    r"(?P<author>[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?)"
-    r"\s*,\s*"
+    rf"(?P<author>{AUTHOR_PATTERN})"
+    r"\s*[,，]\s*"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*,\s*(?:p\.|pp\.)\s*.+)?"
+    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*.+)?"
     r"\s*$"
 )
 NARRATIVE_RE = re.compile(
     r"(?<![\w\]\)])"
-    r"(?P<author>[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?)"
-    r"\s*\("
+    rf"(?P<author>{AUTHOR_PATTERN})"
+    r"\s*[（(]"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*,\s*(?:p\.|pp\.)\s*[^)]+)?"
-    r"\)"
+    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?"
+    r"[）)]"
 )
 
 
@@ -97,6 +98,11 @@ def normalize_author(author: str) -> str:
     return re.sub(r"\s+", " ", author.replace(" and ", " & ")).strip()
 
 
+def normalize_locator(locator: str) -> str:
+    locator = locator.replace("，", ",")
+    return re.sub(r"^\s*,\s*", ", ", locator)
+
+
 def split_frontmatter(text: str) -> tuple[str, str]:
     m = FRONTMATTER_RE.match(text)
     if not m:
@@ -137,7 +143,7 @@ def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], st
             return None
         author = normalize_author(m.group("author"))
         year = m.group("year").strip()
-        locator = m.group("locator") or ""
+        locator = normalize_locator(m.group("locator") or "")
         key = f"{author}, {year}"
         entry = lookup.get(key)
         if not entry:
@@ -166,7 +172,7 @@ def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str
     def repl(m: re.Match[str]) -> str:
         author = normalize_author(m.group("author"))
         year = m.group("year").strip()
-        locator = m.group("locator") or ""
+        locator = normalize_locator(m.group("locator") or "")
         key = f"{author} ({year})"
         entry = lookup.get(key)
         if not entry:

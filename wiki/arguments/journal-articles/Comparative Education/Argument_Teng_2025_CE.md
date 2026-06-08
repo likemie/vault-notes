@@ -53,7 +53,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 近十年来中国农村出现大规模"[[Peidu|陪读]]"现象——农村家庭为子女教育迁入县城。这一现象的本质是什么？陪读作为一种[[School Choice|择校]]行为，在中国是否与国际择校研究一致地呈现社会分层？分层如何发生，又对农村学校产生了怎样的影响？（Teng & Wang, 2025, pp.300–301）
+> 近十年来中国农村出现大规模"[[Peidu|陪读]]"现象——农村家庭为子女教育迁入县城。这一现象的本质是什么？陪读作为一种[[School Choice|择校]]行为，在中国是否与国际择校研究一致地呈现社会分层？分层如何发生，又对农村学校产生了怎样的影响？([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.300–301]])
 
 研究的经验谜题在于：国际择校文献早已证明择校是按阶级分层的实践（Ball 2003），但中国农村陪读的驱动机制完全不同——是城镇化而非市场化推动了这一进程。那么，在截然不同的政策背景下，分层是否仍然发生？
 
@@ -63,15 +63,15 @@ citation_aliases:
 
 > [!abstract]
 > - **[[School Choice|择校]]作为社会分层实践**（Ball 2003）：择校并非中立的自由选择，而是按家庭经济、文化和社会资本分层的社会过程。Ball（2003）的研究揭示，中产阶级在择校市场中利用各类资本为其子女获取优势，工薪阶层家庭则被排斥在优质学校之外（引自 Teng & Wang, 2025, p.302）。
-> - **[[Pierre Bourdieu|布迪厄]]资本理论**：该研究通过经济资本（收入、住房支出、课外班投入）、[[Cultural Capital|文化资本]]（父母教育水平）和社会资本（与学校教职工和公共部门人员的社会关系）三个维度来检验农村家庭的择校分层（Teng & Wang, 2025, pp.307–310）。
-> - **城镇化作为政策驱动**：与国际市场化择校不同，[[Peidu|陪读]]是由地方政府的城镇化战略驱动的——通过关闭农村学校和扩建县城学校形成推拉动力，将农村人口导入城镇（Teng & Wang, 2025, pp.303–304）。
+> - **[[Pierre Bourdieu|布迪厄]]资本理论**：该研究通过经济资本（收入、住房支出、课外班投入）、[[Cultural Capital|文化资本]]（父母教育水平）和社会资本（与学校教职工和公共部门人员的社会关系）三个维度来检验农村家庭的择校分层([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.307–310]])。
+> - **城镇化作为政策驱动**：与国际市场化择校不同，[[Peidu|陪读]]是由地方政府的城镇化战略驱动的——通过关闭农村学校和扩建县城学校形成推拉动力，将农村人口导入城镇([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.303–304]])。
 
 ---
 
 ## 研究方法
 
 > [!info]
-> - **[[Mixed Methods Research|混合方法]]**：结合问卷与[[Qualitative Interview|深度访谈]]，辅以学校档案数据（Teng & Wang, 2025, pp.305–306）。
+> - **[[Mixed Methods Research|混合方法]]**：结合问卷与[[Qualitative Interview|深度访谈]]，辅以学校档案数据([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.305–306]])。
 > - **问卷调查**：共回收 814 份农村家庭问卷——县城[[Peidu|陪读]]家庭 353 份、乡镇陪读家庭 141 份、农村非陪读家庭 320 份（p.305, Table 1）。
 > - **In-depth Interview**：共访谈 128 人——县城陪读家长 65 人、乡镇陪读家长 35 人、非陪读家长 45 人、城乡教师与校长 95 人、教育官员 8 人（p.305, Table 1）。采用半结构化设计与滚雪球抽样。
 > - **分析**：独立样本 t 检验比较不同组别 SES 差异；二元 Logistic 回归检验家庭资本对[[School Choice|择校]]选择的影响（p.310, Table 4）。
@@ -84,7 +84,7 @@ citation_aliases:
 ### 前提 1：中国农村"陪读"的本质是择校迁移
 
 > [!example]
-> [[Peidu|陪读]]的表面现象是"成人陪着孩子在县城读书"，但其内在逻辑是：农村家长放弃本村学校，主动选择县城学校——这正是[[School Choice|择校]]行为。区别在于，由于家校距离远、无校车和寄宿服务，择校必然伴随至少一名成人的居住迁移（Teng & Wang, 2025, pp.300–301）。
+> [[Peidu|陪读]]的表面现象是"成人陪着孩子在县城读书"，但其内在逻辑是：农村家长放弃本村学校，主动选择县城学校——这正是[[School Choice|择校]]行为。区别在于，由于家校距离远、无校车和寄宿服务，择校必然伴随至少一名成人的居住迁移([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.300–301]])。
 >
 > 数据佐证：72% 的陪读家庭将"教育质量"列为首要原因；G 县县城小学 68% 的学生来自非本学区（pp.306–307, Table 2）。
 
@@ -93,7 +93,7 @@ citation_aliases:
 ### 前提 2：陪读的驱动机制是城镇化而非市场化
 
 > [!example]
-> 国际择校由新自由主义市场化改革推动（[[Partnership Schools Kura Hourua|特许学校]]、教育券）；中国农村陪读则由地方政府的城镇化战略推动。G 县的案例清晰展示了这一机制：地方政府关闭农村学校（推），同时在县城新建专门面向农村学生的学校（拉），形成了将农村人口导入城镇的推拉动力（Teng & Wang, 2025, pp.303–306）。
+> 国际择校由新自由主义市场化改革推动（[[Partnership Schools Kura Hourua|特许学校]]、教育券）；中国农村陪读则由地方政府的城镇化战略推动。G 县的案例清晰展示了这一机制：地方政府关闭农村学校（推），同时在县城新建专门面向农村学生的学校（拉），形成了将农村人口导入城镇的推拉动力([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.303–306]])。
 >
 > 地方教育官员明确表达了这一逻辑："要通过陪读，让他们顺畅进城。我们县城在扩大，教育要配合城市发展……"（p.307）。新建立的 School X 不设户口限制、不收择校费，其校长确认"欢迎全县所有学生"（p.306）。
 
@@ -102,7 +102,7 @@ citation_aliases:
 ### 论证步骤 1：经济资本决定"能否"陪读
 
 > [!example]
-> 县城生活成本构成了陪读的第一道筛选门槛。2018 年 G 县县城陪读家庭年均支出 21,325 元（房租 4,035 元 + 食品必需品 17,290 元），而当年该县农村居民人均年收入仅为 10,340 元（Teng & Wang, 2025, p.308）。这意味着，仅维持基本生活就需要约两个人的收入——如果家庭没有外出务工的汇款，几乎不可能负担县城陪读。
+> 县城生活成本构成了陪读的第一道筛选门槛。2018 年 G 县县城陪读家庭年均支出 21,325 元（房租 4,035 元 + 食品必需品 17,290 元），而当年该县农村居民人均年收入仅为 10,340 元([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.308]])。这意味着，仅维持基本生活就需要约两个人的收入——如果家庭没有外出务工的汇款，几乎不可能负担县城陪读。
 >
 > 60% 的非陪读家庭明确将"经济困难"列为不选择城镇学校的原因（p.308）。49% 的县城陪读家庭还额外支付课外辅导和兴趣班费用，进一步形成了经济投入的梯度差异（p.308）。
 >
@@ -113,7 +113,7 @@ citation_aliases:
 ### 论证步骤 2：社会资本决定"去哪所"学校
 
 > [!example]
-> 经济资本筛选了"能否进城"，但进入县城后选择哪所学校，则取决于社会资本。G 县四所县城公立小学之间存在清晰的质量梯度——重点小学（School 1）远比其他学校更受追捧（Teng & Wang, 2025, pp.308–309）。
+> 经济资本筛选了"能否进城"，但进入县城后选择哪所学校，则取决于社会资本。G 县四所县城公立小学之间存在清晰的质量梯度——重点小学（School 1）远比其他学校更受追捧([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.308–309]])。
 >
 > 在被访的 48 个县城陪读家庭中，42 个动用了与目标学校教职工的社会关系。社会关系的强度直接对应学校的声望层级：
 >
@@ -128,7 +128,7 @@ citation_aliases:
 ### 论证步骤 3：文化资本在中国农村择校中作用有限
 
 > [!example]
-> 与国际文献的核心发现不同，[[Cultural Capital|文化资本]]在中国农村择校中未成为决定性因素。原因很简单：县城小学的入学手续不涉及面试、考试或其他需要微妙文化技巧的选拔环节；四所县城公立学校的排名也属于公开信息（Teng & Wang, 2025, p.310）。
+> 与国际文献的核心发现不同，[[Cultural Capital|文化资本]]在中国农村择校中未成为决定性因素。原因很简单：县城小学的入学手续不涉及面试、考试或其他需要微妙文化技巧的选拔环节；四所县城公立学校的排名也属于公开信息([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.310]])。
 >
 > 这不是说文化资本不重要——县城陪读家庭的父母教育水平确实显著高于非陪读家庭（p.310, Model 1–3）——而是说文化资本的作用机制不同于国际文献所描述的"文化品位"和"隐性知识"路径。在教育市场尚未充分发育的环境中，社会资本的"硬关系"取代了文化资本的"软知识"。
 
@@ -137,7 +137,7 @@ citation_aliases:
 ### 论证步骤 4：分层梯度形成——SES 从县城到农村逐级下降
 
 > [!example]
-> 量化分析呈现了一个清晰的 SES 阶梯（Teng & Wang, 2025, pp.309–310）：
+> 量化分析呈现了一个清晰的 SES 阶梯([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.309–310]])：
 >
 > **SES 最高层**：重点小学（School 1）陪读家庭（SES 均值 0.572）
 > ↓
@@ -154,7 +154,7 @@ citation_aliases:
 ### 论证步骤 5：陪读加剧了农村学校的衰败
 
 > [!example]
-> 陪读从农村学校抽走了最具资源优势的家庭——包括学术表现更好、行为更规范的学生，以及经济条件更好、更积极参与的家长。这引发了连锁反应（Teng & Wang, 2025, pp.311–312）：
+> 陪读从农村学校抽走了最具资源优势的家庭——包括学术表现更好、行为更规范的学生，以及经济条件更好、更积极参与的家长。这引发了连锁反应([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.311–312]])：
 >
 > 1. **经费困境**：G 县农村学校按每生每年 650 元拨款，生源锐减导致经费入不敷出——一所村小的电费每月就超过 2,000 元，教学设备损坏无力维修（p.311）。
 > 2. **教师流失**：新建县城学校从农村抽调年轻教师——"能走的、想走的老师都走了，留下的都是老教师"（T-Jiang 老师语，p.312）。一位校长已 5–6 年未收到新教师分配（p.312）。
@@ -166,7 +166,7 @@ citation_aliases:
 ### 结论：择校无论由市场还是城镇化驱动，都未兑现教育平等的承诺
 
 > [!example]
-> 国际择校文献和本研究共同表明：择校政策，不论是由市场化改革还是由城镇化战略驱动，都只能解决教育不平等的表层问题。学校间的不平等根植于入学过程中的社会分层。将处于弱势的优质生源和家庭转移到更好的学校，既不会削弱精英学校的特权，也不会提升薄弱学校的办学质量——反而通过抽走资源使薄弱学校处境更加恶化（Teng & Wang, 2025, pp.313–314）。
+> 国际择校文献和本研究共同表明：择校政策，不论是由市场化改革还是由城镇化战略驱动，都只能解决教育不平等的表层问题。学校间的不平等根植于入学过程中的社会分层。将处于弱势的优质生源和家庭转移到更好的学校，既不会削弱精英学校的特权，也不会提升薄弱学校的办学质量——反而通过抽走资源使薄弱学校处境更加恶化([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.313–314]])。
 >
 > 在中国农村语境中，陪读还超越了教育领域——它同时意味着农村社区的人口空心化，对农业和农村社会的可持续性构成威胁。这要求对当前以教育集中化推动城镇化的小城市发展战略进行重新审视（p.314）。
 
@@ -175,7 +175,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> 1. [[Peidu|陪读]]是中国农村家长通过家庭迁移实现的[[School Choice|择校]]行为，由地方政府的城镇化战略驱动，而非市场化改革（Teng & Wang, 2025, pp.303–304）。
+> 1. [[Peidu|陪读]]是中国农村家长通过家庭迁移实现的[[School Choice|择校]]行为，由地方政府的城镇化战略驱动，而非市场化改革([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.303–304]])。
 > 2. 陪读按家庭社会经济地位呈现明确的分层梯度——县城重点小学 > 县城非重点小学 > 乡镇学校 > 农村学校（pp.309–310）。
 > 3. 经济资本决定能否陪读——县城生活成本是贫困家庭不可逾越的障碍，60% 非陪读家庭因经济困难放弃城镇学校（p.308）。
 > 4. 社会资本决定进入哪所学校——88% 的县城受访陪读家庭动用了与学校教职工的社会关系，关系的强度对应学校的声望层级（pp.308–309）。
@@ -198,26 +198,26 @@ citation_aliases:
 
 > [!quote]
 > “中国农村的[[Peidu|陪读]]这种[[School Choice|择校]]方式，也是一种沿着阶级界限的分层实践，与国际语境下的择校类似。”
-> ("[[Peidu]], the [[School Choice]] in rural China, is also a stratified practice along class lines, similar to school choice in international contexts.")（Teng & Wang, 2025, p.313）
+> ("[[Peidu]], the [[School Choice]] in rural China, is also a stratified practice along class lines, similar to school choice in international contexts.")([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.313]])
 
 > [!quote]
 > “基于户口的行政歧视正日益且隐蔽地被基于家庭社会经济地位的市场歧视所取代。”
-> ("The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.")（Teng & Wang, 2025, p.313）
+> ("The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.")([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.313]])
 
 > [!quote]
 > “农村儿童的流失使村级学校面临资金减少、教师流失加速、学业表现恶化以及最终学校关闭风险增加的困境。”
-> ("The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures.")（Teng & Wang, 2025, pp.313–314）
+> ("The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures.")([[Argument_Teng_2025_CE|Teng & Wang, 2025, pp.313–314]])
 
 > [!quote]
 > “无论是受市场化还是城市化驱动的择校，在涉及教育不平等时，都仅仅触及了表面问题。”
-> ("School choice, whether driven by marketisation or urbanisation, merely addresses the surface issues when it comes to educational inequality.")（Teng & Wang, 2025, p.314）
+> ("School choice, whether driven by marketisation or urbanisation, merely addresses the surface issues when it comes to educational inequality.")([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.314]])
 
 ---
 
 ## 自述局限
 
 > [!warning]
-> - **样本地域局限**：研究仅基于湖北省一个县的数据，[[Peidu|陪读]]现象在不同地区的表现形式可能存在差异（Teng & Wang, 2025, p.301, 314）。
+> - **样本地域局限**：研究仅基于湖北省一个县的数据，[[Peidu|陪读]]现象在不同地区的表现形式可能存在差异([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.301, 314]])。
 > - **定量分析的因果方向**：虽然 Logistic 回归确认了家庭资本与[[School Choice|择校]]选择之间的关联，但横截面设计不能排除反向因果或遗漏[[Variable|变量]]——例如，选择陪读可能反过来改变了家庭的经济状况（pp.310–311）。
 > - **未涉及学生的学业成就**：研究聚焦于择校的社会分层机制及其对农村学校的影响，未检验陪读是否真正提升了随迁子女的学业表现（p.301）。
 

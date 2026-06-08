@@ -32,7 +32,10 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Hansen_2015_Paideia]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 sources:
   - "[[Nielsen_2021_IRTP]]"
 part_of: ''
@@ -66,7 +69,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. VL 的流行无法用经验质量解释
 >
-> 作者与多位研究者（Snook et al., 2009; Bergeron, 2017; Simpson, 2017; Terhart, 2012; Wrigley, 2018）一致记录了 VL 的重大方法论缺陷（pp. 80-81, Table 1）：
+> 作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; Simpson, 2017; Terhart, 2012; Wrigley, 2018)一致记录了 VL 的重大方法论缺陷（pp. 80-81, Table 1）：
 >
 > - 复杂性还原：将因果聚焦于单一因素而忽略交互效应
 > - 消除调节因素：如学生 SES
@@ -75,11 +78,11 @@ citation_aliases:
 > - 垃圾进垃圾出：纳入低质量研究
 > - 统计问题：效应量计算错误（Bergeron, 2017; Simpson, 2017; Topphol, 2011）
 >
-> 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 Hattie 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"（Qvortrup, 2015），有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"（Hansen et al., 2015, p. 7）。
+> 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 Hattie 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"（Qvortrup, 2015），有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, p. 7]])。
 >
 > ### 2. Hattie 提供的是理论而非数据
 >
-> 作者指出一个关键点：**Hattie 自己明确表示数据不是重点，重点是理论综合**。Hattie 说："I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"（Knudsen, 2017, p. 259）。
+> 作者指出一个关键点：**Hattie 自己明确表示数据不是重点，重点是理论综合**。Hattie 说："I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259]])。
 >
 > Hattie 的目标是解决证据本位研究缺乏连贯性的问题，创建一个"统一的[[Didaktik|教学理论]]"使教师与之对齐。但是 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，但对 VL 的实际内容施加了巨大影响（pp. 79-80）。
 >

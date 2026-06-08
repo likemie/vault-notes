@@ -32,6 +32,7 @@ related_persons:
 related_facts:
   - "[[New Zealand National Standards]]"
 related_arguments:
+  - "[[Argument_Snook_2009]]"
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
 sources:
@@ -77,7 +78,7 @@ citation_aliases:
 >
 > **关于研究质量**：Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis|元分析]]明确批评（如学习风格研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题（p.88）。
 >
-> **关于偏差与可推广性**：Snook et al. (2009) 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）。
+> **关于偏差与可推广性**：[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）。
 >
 > **关于 d=0.40 关节点**：Hattie 承认该截断值"perhaps it was arbitrary, but it was certainly not capricious"——这是基于 800+ 元分析的经验平均值，用作理解"高于和低于此效应的共同特征"的叙事工具，而非不可逾越的绝对阈值。书中多处强调不应做非此即彼的截断结论（p.89）。
 >
@@ -114,10 +115,10 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文为第一人称叙事，无法声称价值中立或系统性
-> - 未回应 Snook et al. (2009) 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size|效应量]]计算中对研究质量的处理等）
+> - 未回应 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size|效应量]]计算中对研究质量的处理等）
 > - 对"学术批评应当针对观点而非个人"的强调可能被批评者视为回避实质性方法论问题的修辞策略
 > - Alexander (2010) 在墨尔本课程研讨会上发表，当时尚未正式出版——Hattie 使用尚未正式出版的会议报告作为[[Analytic Framework|分析框架]]
-> - Snook et al. (2010) 在同期 NZJES 发表了对此文的再回应（详见 [[Argument_Snook_2010_NZJES]]）
+> - [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 在同期 NZJES 发表了对此文的再回应（详见 [[Argument_Snook_2010_NZJES]]）
 > - [[Gerald Grace]]（2010）在同一卷 NZJES（Vol. 45, No. 2）发表评论文章，以该概念原创者的身份批评 Hattie 混淆了"学术领域的批评者"与"[[Critic and Conscience of Society|社会的批评者与良知]]"两种不同角色（详见 [[Argument_Grace_2010_NZJES]]）
 
 ## 来源

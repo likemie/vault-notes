@@ -23,9 +23,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Biesta_2010_SPE]]"
+related_arguments:
+  - "[[Argument_Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -35,9 +34,9 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 复杂性化简（Complexity Reduction）是由 Biesta (2010) 引入的概念，指通过在系统中减少元素可用选项的数量，使原本作为开放、递归、符号系统的社会情境变得**更可预测和可控制**。它解释了为何在非决定论的社会领域中某些事物仍然"能运作"（things can work）——但代价是权力的行使。
+> 复杂性化简（Complexity Reduction）是由 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 引入的概念，指通过在系统中减少元素可用选项的数量，使原本作为开放、递归、符号系统的社会情境变得**更可预测和可控制**。它解释了为何在非决定论的社会领域中某些事物仍然"能运作"（things can work）——但代价是权力的行使。
 >
-> > "Complexity reduction has to do with the reduction of the number of available options for action for the elements of a system." (Biesta, 2010, p. 497)
+> > "Complexity reduction has to do with the reduction of the number of available options for action for the elements of a system." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 497]])
 
 ## 历史沿革
 
@@ -57,13 +56,13 @@ updated: '2026-05-18'
 > - **内容标准化**：阶段性课程限制学习内容的范围
 > - **评估筛选**：从众多可能的学习结果中仅选择被认为"有价值"的那些
 >
-> > "The school year, time tables and curricula put learning within temporal boundaries." (Biesta, 2010, p. 498)
+> > "The school year, time tables and curricula put learning within temporal boundaries." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 498]])
 
 
 > [!abstract] 政治性
 > Biesta 强调复杂性化简**不是中立的**——它是**政治行为**：
 >
-> > "Any attempt to reduce the number of available options for action for the 'elements' within a system is about the exertion of power." (Biesta, 2010, p. 498)
+> > "Any attempt to reduce the number of available options for action for the 'elements' within a system is about the exertion of power." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 498]])
 >
 > 因为这意味着**谁有权为谁减少选择**——这本质上是权力问题。
 >
@@ -98,7 +97,7 @@ updated: '2026-05-18'
 >
 > > 例：同样的"标准化考试"化简手段，在芬兰被用于辅助教师判断（低风险），在英格兰被用于评估学校和惩罚教师（高风险）——化简本身相同，但合法性与后果截然不同。Biesta 的概念区分了"是什么"但未充分区分"何时好何时坏"。
 >
-> - **Biesta 的立场**：复杂性化简作为政治行为的定性，重点在于揭示权力运作而非提供操作指南。（Biesta, 2010, p. 498）
+> - **Biesta 的立场**：复杂性化简作为政治行为的定性，重点在于揭示权力运作而非提供操作指南。([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 498]])
 > - **批评者的立场**：若不能区分合法的与权力的化简，概念的政治批判力大打折扣——任何教育行为都可被表述为"权力"，导致分析模糊。
 >
 > **目前状态**：概念层面的持续讨论；Biesta 在后续著作（2017, *The Rediscovery of Teaching*）中以"成熟的教育判断"概念间接回应，但复杂性化简框架本身并未系统解决这一问题。
@@ -107,7 +106,7 @@ updated: '2026-05-18'
 > [!warning] 概念的过度延伸风险
 > 将学校的所有组织特征（物理空间、时间表、分组、评估、课程）都纳入"复杂性化简"可能导致概念冗余——如果一切组织行为都是化简，概念本身还有多少分析力？
 >
-> - **Biesta 的立场**：概念的广度恰恰是其力量所在——它揭示了 Latour 计量学的教育机制，即"运作的社会技术"的完整图景。（Biesta, 2010, pp. 497–499）
+> - **Biesta 的立场**：概念的广度恰恰是其力量所在——它揭示了 Latour 计量学的教育机制，即"运作的社会技术"的完整图景。([[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 497–499]])
 > - **批评者的立场**：概念过于包容以致失去区分力——可能更适合作为"宏观隐喻"而非"分析工具"。
 >
 > **目前状态**：持续争论；概念在教育哲学领域中继续被使用但较少作为操作性[[Analytic Framework|分析框架]]。
@@ -118,6 +117,3 @@ updated: '2026-05-18'
 >
 > **目前状态**：此张力在教育专业化文献中有相关讨论（如专业自主权 vs 问责制的边界），但尚未在复杂性化简框架内系统回应。
 
-## 来源
-
-- [[Biesta_2010_SPE]]

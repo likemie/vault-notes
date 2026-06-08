@@ -39,11 +39,8 @@ related_facts:
   - "[[What Works Network]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
+  - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
-sources:
-  - "[[Nelson_2017_ER]]"
-  - "[[Ross_Morrison_2021_ROE]]"
-  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -78,14 +75,14 @@ Nelson & Campbell (2017, p.129) 把 EIP 概括成四类资源的整合：
 
 EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里是什么地位”。这里研究证据不被理解成直接决定课堂行动的命令，而被理解成进入专业判断过程的一类输入（Nelson & Campbell, 2017, p.128–129）。
 
-在欧洲政策语境中，evidence-informed education 还带有制度含义：欧盟文件通常鼓励成员国使用证据，而不是规定统一证据标准或强制行动线；研究证据也不限于实验研究，而可以包括定性和[[Mixed Methods Research|混合方法]]（Pellegrini & Vivanet, 2021, p.26）。因此，EIP 在欧洲不仅是教师专业判断问题，也是一种适应成员国教育主权和多样化教育系统的政策语言。
+在欧洲政策语境中，evidence-informed education 还带有制度含义：欧盟文件通常鼓励成员国使用证据，而不是规定统一证据标准或强制行动线；研究证据也不限于实验研究，而可以包括定性和[[Mixed Methods Research|混合方法]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.26]])。因此，EIP 在欧洲不仅是教师专业判断问题，也是一种适应成员国教育主权和多样化教育系统的政策语言。
 
 ### 决策信息不止有效性指标
 
-从教育产品消费者角度看，学校需要的决策信息超过[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]。实践者常偏好同伴推荐和本地试点，是因为这些渠道能提供项目特征、实施要求、使用满意度、成本和地方适配等信息；这些信息的因果识别强度可能不如 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，但对采购和持续实施很关键（Ross & Morrison, 2021, pp.120-121）。
+从教育产品消费者角度看，学校需要的决策信息超过[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]。实践者常偏好同伴推荐和本地试点，是因为这些渠道能提供项目特征、实施要求、使用满意度、成本和地方适配等信息；这些信息的因果识别强度可能不如 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，但对采购和持续实施很关键([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example]
-> 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会追问：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题（Ross & Morrison, 2021, p.121）。
+> 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会追问：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
 
 ### 肥沃的土壤与中介条件
 
@@ -129,8 +126,8 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 > [!success] 实证发现
 > - **教师间传播占主导**：教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **实践产生的证据使用比研究使用更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
-> - **同伴推荐和本地试点仍然重要**：教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题（Ross & Morrison, 2021, pp.120-121）。
-> - **复杂改革需要多目标解释**：[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断（Ross & Morrison, 2021, pp.122-123）。
+> - **同伴推荐和本地试点仍然重要**：教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+> - **复杂改革需要多目标解释**：[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 > - **EIP 的积极影响已有初步证据，但仍不足**：关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”（Nelson & Campbell, 2017, p.131）。
 > - **实践者参与研究正在增加，但仍有距离**：教师与研究的关联在英国已更常见，但离广泛、稳定的专业常态仍有差距（[[Centre for the Use of Research and Evidence in Education|CUREE]], 2011, cited in Nelson & Campbell, 2017, p.130）。
 
@@ -142,7 +139,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 
 > [!warning]
 > - **是否只是 EBP 的软版本**：支持强版本 [[Evidence-Based Education|EBE]] 的立场常把 EIP 视为“证据可以被随意忽视”的宽松版本；而 EIP 支持者则认为它更准确地描述了教育决策的复杂性（Nelson & Campbell, 2017, p.128–129）。
-> - **多源整合容易变得含糊**：如果 EIP 不说明如何在研究证据、本地价值和实施限制之间做权衡，它可能只把争议后移。[[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，同一组证据可以支持“继续推进数字改革”，也可以支持“项目没有提高成绩”；关键在于哪些结果被承认为成功（Ross & Morrison, 2021, p.123）。
+> - **多源整合容易变得含糊**：如果 EIP 不说明如何在研究证据、本地价值和实施限制之间做权衡，它可能只把争议后移。[[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，同一组证据可以支持“继续推进数字改革”，也可以支持“项目没有提高成绩”；关键在于哪些结果被承认为成功([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.123]])。
 > - **测量困境**：EIP 越强调情境依赖和动态整合，就越难被简单量化；Nelson & Campbell (2017, p.133) 明确提醒，不能只研究那些最容易量化的部分。
 > - **英语国家中心主义**：当前被整合的案例主要来自英语或欧洲语境，EIP 在非西方教育系统中的概念化与制度条件仍欠缺呈现。
 
@@ -158,17 +155,12 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ### 制度网络
 
 - [[What Works Network]] — 更偏 EBP 制度化的一侧，与 EIP 对[[Professional Judgment|专业判断]]和多源证据的强调存在张力（Nelson & Campbell, 2017, pp.127-129）。
-- [[EU Evidence-Informed Education Policy Initiatives]] — 欧盟层面自 2006 年起推动评价文化、知识中介和证据支持机制，但更多采用指导和协调方式，而非强制成员国采纳统一项目证据标准（Pellegrini & Vivanet, 2021, pp.28-31, 41-42）。
+- [[EU Evidence-Informed Education Policy Initiatives]] — 欧盟层面自 2006 年起推动评价文化、知识中介和证据支持机制，但更多采用指导和协调方式，而非强制成员国采纳统一项目证据标准([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31, 41-42]])。
 - [[Carol Campbell]] — 在安大略系统改革中把 EIP 与教育领导力、[[Knowledge Mobilisation|知识动员]]连接起来（Nelson & Campbell, 2017, pp.127-131）。
 - [[Julie Nelson]] — 把 EIP 推向测量与经验研究层面（Nelson & Campbell, 2017, pp.127-133）。
 
 ### 评价案例
 
-- [[Students and Teachers Accessing Tomorrow]] — 展示复杂改革如何需要把正式评价、地方目标和专业判断放在一起解释；具体争议集中写在 STAT 条目中（Ross & Morrison, 2021, pp.122-123）。
+- [[Students and Teachers Accessing Tomorrow]] — 展示复杂改革如何需要把正式评价、地方目标和专业判断放在一起解释；具体争议集中写在 STAT 条目中([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 - [[Argument_Ross_Morrison_2021_ROE]] — 作为论证条目，集中拆解正式证据、产品消费信息和利益相关者解释之间的张力。
 
-## 来源
-
-- [[Nelson_2017_ER]]
-- [[Ross_Morrison_2021_ROE]]
-- [[Pellegrini_2021_ROE]]

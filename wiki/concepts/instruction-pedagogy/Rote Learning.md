@@ -26,9 +26,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[McPhail_2023_JCS]]"
+related_arguments:
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -138,11 +137,7 @@ Marton 的团队使用[[Phenomenology|现象学]]方法（phenomenological metho
 > Li 的立场并非全盘为记忆辩护，而是强调不应以表面观察替代对学习者内心经验的了解，不应忽视记忆——尤其是作为通往深度理解的初始步骤——在不同文化语境中的不同功能和意义（Li, 2012, p.138）。
 
 > [!warning] 知识被等同于死记硬背
-> 在[[Outcomes-based Education|结果导向课程]]和[[Constructivist Paradigm|建构主义]]话语的影响下，知识本身被边缘化，往往被等同于过时的教育方法——即对一堆公认事实和信息的死记硬背。这种对知识的窄化理解忽略了知识作为概念性意义系统的维度，也忽视了学科知识对年轻人认知和社会发展的独特价值（McPhail et al., 2023）。[[Social Realism|社会实在论]]学者主张，知识不等于死记硬背，学科知识（如历史、生物、艺术等）是经过[[Recontextualization|再脉络化]]后用于教育目的的概念性知识，所有学生都有权接触。
+> 在[[Outcomes-based Education|结果导向课程]]和[[Constructivist Paradigm|建构主义]]话语的影响下，知识本身被边缘化，往往被等同于过时的教育方法——即对一堆公认事实和信息的死记硬背。这种对知识的窄化理解忽略了知识作为概念性意义系统的维度，也忽视了学科知识对年轻人认知和社会发展的独特价值([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。[[Social Realism|社会实在论]]学者主张，知识不等于死记硬背，学科知识（如历史、生物、艺术等）是经过[[Recontextualization|再脉络化]]后用于教育目的的概念性知识，所有学生都有权接触。
 
 ---
-
-## 来源
-
-- [[McPhail_2023_JCS]]
 

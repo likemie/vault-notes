@@ -21,9 +21,8 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Curriculum]]"
   - "[[Australian Education Research Organisation]]"
-related_arguments: []
-sources:
-  - "[[Skourdoumbis_2024_AER]]"
+related_arguments:
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -44,7 +43,7 @@ updated: 2026-06-06
 ## 政策文本摘要
 
 > [!abstract]
-> ESA支撑着三个在ITE改革中发挥关键作用的机构：[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（AITSL）、[[Australian Curriculum|澳大利亚课程]]评估与报告局（ACARA）和[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）（Skourdoumbis & Rowe, 2024, p.10注释5）。
+> ESA支撑着三个在ITE改革中发挥关键作用的机构：[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（AITSL）、[[Australian Curriculum|澳大利亚课程]]评估与报告局（ACARA）和[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p.10注释5]])。
 
 ---
 
@@ -56,6 +55,3 @@ updated: 2026-06-06
 
 ---
 
-## 来源
-
-- [[Skourdoumbis_2024_AER]]

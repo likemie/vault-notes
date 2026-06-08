@@ -25,11 +25,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
-  - "[[Ch14_Hall_2025]]"
-  - "[[Ch12_Ramming_2025]]"
+related_arguments:
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -41,7 +39,7 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> 赞助研究协议（Sponsored Research Agreement, SRA）是[[University-Industry Collaboration|产学合作]]中最常见的合同形式。企业从内部资金中向大学提供资助，支持特定研究项目的开展。大学通常有一套适用于 SRA 的默认 IP 条款，但这些条款可能需要根据产业赞助方的需求进行调整（Susalka & Carbone, 2025, p.275）。
+> 赞助研究协议（Sponsored Research Agreement, SRA）是[[University-Industry Collaboration|产学合作]]中最常见的合同形式。企业从内部资金中向大学提供资助，支持特定研究项目的开展。大学通常有一套适用于 SRA 的默认 IP 条款，但这些条款可能需要根据产业赞助方的需求进行调整([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.275]])。
 
 ## 在产学合作谱系中的位置
 
@@ -86,15 +84,10 @@ updated: 2026-06-04
 > [!note]
 > Ramming（2025, pp.229–231）将 SRA 置于[[University-Industry Collaboration|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
 
-从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、追踪研究进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发（Ramming, 2025, pp.230–231）。
+从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、追踪研究进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。
 
 > [!example] SRA 的两阶段管理
 > 一家公司的中央研究 AET 与某大学签订了一项关于新型电池材料的三年 SRA。前两年由 AET 直接管理：季度研究评审、协调研究生实习、追踪学术发表。第三年，当研究团队在实验室条件下验证了关键性能指标后，AET 将项目介绍给公司电池产品部门的工程团队——邀请其人员参加研究评审并提供商业化场景的反馈。如果产品部门决定跟进，此时"监护权"从 AET 转移到业务部门，AET 的角色转为跟踪和记录商业化进展。
 
-这一两阶段逻辑的要点是：业务部门在早期探索阶段不必投入资源（避免被"分散精力"），但在研究成熟时有优先获取权。代价是：如果业务部门从未参与早期阶段，可能在交接时缺乏对研究背景的理解和信任——因此 AET 需要在早期阶段就邀请业务部门人员"提供战略背景"，即使不要求其全职参与（Ramming, 2025, pp.230–231）。
+这一两阶段逻辑的要点是：业务部门在早期探索阶段不必投入资源（避免被"分散精力"），但在研究成熟时有优先获取权。代价是：如果业务部门从未参与早期阶段，可能在交接时缺乏对研究背景的理解和信任——因此 AET 需要在早期阶段就邀请业务部门人员"提供战略背景"，即使不要求其全职参与([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]
-- [[Ch14_Hall_2025]]
-- [[Ch12_Ramming_2025]]

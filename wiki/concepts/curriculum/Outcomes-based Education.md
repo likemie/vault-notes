@@ -25,10 +25,8 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
-related_arguments: []
-sources:
-  - "[[Cowen_2023_CE]]"
-  - "[[McPhail_2023_JCS]]"
+related_arguments:
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -42,7 +40,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> [[Outcomes-based Education|结果导向教育]]（Outcomes-based Education, OBE）是一种以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容本身。在过去三十年中，新西兰和许多国际管辖区的课程呈现出从明确的知识识别转向结果导向课程、通用能力和 21 世纪学习的趋势（McPhail et al., 2023）。
+> [[Outcomes-based Education|结果导向教育]]（Outcomes-based Education, OBE）是一种以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容本身。在过去三十年中，新西兰和许多国际管辖区的课程呈现出从明确的知识识别转向结果导向课程、通用能力和 21 世纪学习的趋势([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 > [!quote]
 > "The irony is that on this model of understanding in comparative education – measuring the results of schooling – comparative education is emptied of all forms of academic understanding and of all complexities except those of the technicalities of measurement: it becomes an adjunct to efficiency movements, a social thermometer indicating one measure of health while in practice reinforcing the politics of one definition of a proper world-order."（Cowen, 2023, p.334）
@@ -69,15 +67,15 @@ updated: 2026-06-06
 >
 > **[[PISA]] 时期（当代）**。PISA 进一步强化了效率测量的方向。当代的结果导向已从学术性的文化理解转向新自由主义经济定义下的效率测量。比较教育被掏空了学术理解的所有形式，成为效率运动的附属品（Cowen, 2023, pp.333–334）。
 >
-> **新西兰案例**。新西兰 2007 年课程是结果导向课程的典型代表，以广泛陈述的成就目标为特征，让学校和教师选择与这些目标相关的内容。2021 年启动的课程改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）声称从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架（McPhail et al., 2023）。
+> **新西兰案例**。新西兰 2007 年课程是结果导向课程的典型代表，以广泛陈述的成就目标为特征，让学校和教师选择与这些目标相关的内容。2021 年启动的课程改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）声称从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> - **以成果为中心**。结果导向课程关注学生在学习结束时应达到的可测量成果，而非学生应学习的知识内容。这导致知识被边缘化或被视为理所当然（McPhail et al., 2023）。
-> - **通用能力强调**。结果导向课程往往强调通用能力和 21 世纪技能，如学习能力、批判思维、创造力等，而非学科特定的知识（McPhail et al., 2023）。
+> - **以成果为中心**。结果导向课程关注学生在学习结束时应达到的可测量成果，而非学生应学习的知识内容。这导致知识被边缘化或被视为理所当然([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> - **通用能力强调**。结果导向课程往往强调通用能力和 21 世纪技能，如学习能力、批判思维、创造力等，而非学科特定的知识([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **新自由主义逻辑**。结果导向课程与[[Knowledge-Based Economy|知识经济]]话语紧密相关，倾向于以功能性方式框架教育，使政府能够更明确地看到其教育投资的结果（Lourie 2020, 引自 McPhail et al., 2023）。
 > - **社会温度计**。在结果导向模式下，比较教育被掏空了学术理解的所有形式，只剩下测量技术的细节，成为效率运动的附属品（Cowen, 2023, p.334）。
 
@@ -86,14 +84,10 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning]
-> - **知识的边缘化**。结果导向课程将知识等同于过时的教育方法，即对相对静态和狭隘的公认事实和信息库的入门。这种理解忽略了知识作为概念性意义系统的维度（McPhail et al., 2023）。
+> - **知识的边缘化**。结果导向课程将知识等同于过时的教育方法，即对相对静态和狭隘的公认事实和信息库的入门。这种理解忽略了知识作为概念性意义系统的维度([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **学术理解的掏空**。结果导向将比较教育从学术性的文化理解转变为效率测量，丧失了学科的理论深度和批判性（Cowen, 2023, p.334）。
 > - **政治工具化**。国际测试已成为新自由主义经济定义下的政治工具，强化了一种正当世界秩序的定义（Cowen, 2023, p.334）。
-> - **地方化与标准化的张力**。结果导向课程往往伴随着标准化的评估体系，但不同地区和学校的情境差异很大，标准化可能忽视[[Local Knowledge in Evidence-Based Policy|地方知识]]和文化多样性（McPhail et al., 2023）。
+> - **地方化与标准化的张力**。结果导向课程往往伴随着标准化的评估体系，但不同地区和学校的情境差异很大，标准化可能忽视[[Local Knowledge in Evidence-Based Policy|地方知识]]和文化多样性([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 
-## 来源
-
-- [[Cowen_2023_CE]]
-- [[McPhail_2023_JCS]]

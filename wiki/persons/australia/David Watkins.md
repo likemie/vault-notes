@@ -34,7 +34,7 @@ updated: '2026-06-08'
 
 ## 主要著作
 
-- Watkins, D. A., & [[John Biggs|Biggs, J]]. B. (Eds.) (1996). *The [[Chinese Learner]]: Cultural, Psychological, and Contextual Influences*. Comparative Education Research Centre. —— 提出[[Paradox of the Chinese Learner|中国学习者悖论]]，汇集实证研究记录 [[Confucian Heritage Cultures|CHC]] 学习者的基本信念和学习过程（Li, 2012, p.73）。
+- Watkins, D. A., & [[John Biggs|Biggs, J.]] B. (Eds.) (1996). *The [[Chinese Learner]]: Cultural, Psychological, and Contextual Influences*. Comparative Education Research Centre. —— 提出[[Paradox of the Chinese Learner|中国学习者悖论]]，汇集实证研究记录 [[Confucian Heritage Cultures|CHC]] 学习者的基本信念和学习过程（Li, 2012, p.73）。
 - Watkins, D. A., & Biggs, J. B. (Eds.) (2001). *Teaching the Chinese Learner: Psychological and Pedagogical Perspectives*. Comparative Education Research Centre. —— 续篇，聚焦于面向中国学习者的教学，多数研究仍与学习密切相关（Li, 2012, p.73-74）。
 
 ## 核心思想

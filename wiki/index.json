@@ -398,11 +398,27 @@
     ]
   },
   {
+    "title": "Encyclopaedism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Encyclopaedism.md",
+    "aliases": [
+      "百科全书主义"
+    ]
+  },
+  {
     "title": "Externalization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
       "外化"
+    ]
+  },
+  {
+    "title": "Floating Signifier",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Floating Signifier.md",
+    "aliases": [
+      "漂浮能指"
     ]
   },
   {
@@ -440,6 +456,16 @@
       "全球/地方二元对立",
       "global/local binary",
       "global-local binary"
+    ]
+  },
+  {
+    "title": "Governance by Spin",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Governance by Spin.md",
+    "aliases": [
+      "舆论操控",
+      "印象管理",
+      "Spin"
     ]
   },
   {
@@ -516,6 +542,14 @@
       "中国学习者悖论",
       "Chinese learner paradox",
       "CHC learner paradox"
+    ]
+  },
+  {
+    "title": "Performativity",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Performativity.md",
+    "aliases": [
+      "操演性"
     ]
   },
   {

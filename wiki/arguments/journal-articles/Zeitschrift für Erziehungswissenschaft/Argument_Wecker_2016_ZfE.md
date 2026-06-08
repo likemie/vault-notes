@@ -49,12 +49,12 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 论文试图回答：[[John Hattie]] 的二级[[Meta-analysis|元分析]]方法（*[[Visible Learning]]*）在方法论上是否可靠？其综合 800+ 元分析和 138 个影响因素的"[[Effect Size|效应量]]排名"在科学上是否合理？（Wecker et al., 2016, p.22-24）
+> 论文试图回答：[[John Hattie]] 的二级[[Meta-analysis|元分析]]方法（*[[Visible Learning]]*）在方法论上是否可靠？其综合 800+ 元分析和 138 个影响因素的"[[Effect Size|效应量]]排名"在科学上是否合理？([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.22-24]])
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 论文的方法论评估框架建立在固定效应[[Meta-analysis|元分析]]的数学模型上（Hedges & Olkin, 1985; Borenstein et al., 2009），由此推导出二级元分析必须满足的 6 项方法论要求。论文区分为三个递进的分析层次（Wecker et al., 2016, p.23-24）：
+> 论文的方法论评估框架建立在固定效应[[Meta-analysis|元分析]]的数学模型上（Hedges & Olkin, 1985; Borenstein et al., 2009），由此推导出二级元分析必须满足的 6 项方法论要求。论文区分为三个递进的分析层次([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.23-24]])：
 >
 > 1. **对数据基础的批评**（§3.1）——Hattie 使用的元分析数据库是否满足方法要求？
 > 2. **内部批判**（§3.2）——在给定所选方法的条件下，Hattie 是否正确执行了该方法？按 Hattie 自身的标准衡量
@@ -90,7 +90,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 论文的核心论证分为三个递进层次（Wecker et al., 2016, p.26-36），以具体的数值案例和数学重构支撑每个层次的结论：
+> 论文的核心论证分为三个递进层次([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.26-36]])，以具体的数值案例和数学重构支撑每个层次的结论：
 >
 > ### 第一层：内部批判 —— 六个分析步骤的方法论不足
 >
@@ -195,7 +195,7 @@ citation_aliases:
 ## 关键引用
 
 > [!quote] 关键引用
-> > "对数据基础的质量、Hattie 方法所产生的方法学要求的实现以及基本原理的评论表明了一个相当明确的结论：很大一部分调查结果受到合理怀疑。"（Wecker et al., 2016, p.34）
+> > "对数据基础的质量、Hattie 方法所产生的方法学要求的实现以及基本原理的评论表明了一个相当明确的结论：很大一部分调查结果受到合理怀疑。"([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.34]])
 >
 > > "显然不是标准差的标准误差"（p.27）——对 Eisenstaedt 数据中 [[School Effectiveness|SE]]/SD 混淆的诊断
 >

@@ -17,7 +17,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_ONeill_2012_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-06'
@@ -29,7 +30,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 实质谬误（material fallacies）是逻辑学中一类推理错误的分类，指"在理解术语的含义或用法方面的错误"（Kreeft, 2010, p.85）。与形式谬误（formal fallacies，推理结构本身无效）不同，实质谬误源于语言使用中的歧义、模糊或含混。当术语被模糊、不清晰或含糊地使用时，公共政策论述即出现问题。
 >
-> O'Neill (2012) 将实质谬误概念引入教育政策话语分析，用以审查教育研究证据在政策建议中被误用的现象。
+> [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 将实质谬误概念引入教育政策话语分析，用以审查教育研究证据在政策建议中被误用的现象。
 >
 > > "Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（ONeill, 2012, p.153）
 
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 代理概念
-> 代理概念（proxy concept）指政策行动者使用一个已被接受的概念来包装和获得对另一完全不同、更具争议的政策目的的接受。O'Neill (2012) 指出 Treasury 将 Hattie 的"教学质量"用作代理概念，以包装教师绩效管理等完全不同的政策目的（ONeill, 2012, p.155）
+> 代理概念（proxy concept）指政策行动者使用一个已被接受的概念来包装和获得对另一完全不同、更具争议的政策目的的接受。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 指出 Treasury 将 Hattie 的"教学质量"用作代理概念，以包装教师绩效管理等完全不同的政策目的（ONeill, 2012, p.155）
 
 
 > [!abstract] 术语的跨语境误用
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，识别出三类实质谬误表现：
+> [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以新西兰 Treasury 2011 年简报为案例，识别出三类实质谬误表现：
 > - 术语模糊且使用不一致（"教学质量"定义与学校教育无关）（ONeill, 2012, pp.154-155）
 > - 研究证据的局限性被政策行动者系统性忽略（Hattie 本人的多处警示未被 Treasury 纳入考量）（ONeill, 2012, pp.155-157）
 > - 由此得出的政策结论无效，且与所援引证据的原始结论矛盾（Treasury 建议增加生师比，但 Hattie 明确写道增加[[Class Size|班级规模]]是糟糕的政策）（ONeill, 2012, pp.157-158）

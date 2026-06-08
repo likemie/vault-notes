@@ -21,9 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Cohen_2025_JTT]]"
+related_arguments:
+  - "[[Argument_Cohen_2025_JTT]]"
 confidence: medium
 status: draft
 created: 2026-06-05
@@ -94,7 +93,7 @@ Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大�
 ## 近期发现：互补性可以缓解张力
 
 > [!success]
-> 传统观点认为产业合作与学术产出之间存在零和关系——投入产业活动的时间必然挤占发表时间。但近年的实证研究提供了更细致的理解（Cohen et al., 2025, p.348）：
+> 传统观点认为产业合作与学术产出之间存在零和关系——投入产业活动的时间必然挤占发表时间。但近年的实证研究提供了更细致的理解([[Argument_Cohen_2025_JTT|Cohen et al., 2025, p.348]])：
 
 - Bikard et al.（2019）发现，当 UIC 建立在预期互补性（资源、技能、设备、任务分配）之上时——即产业成员负责商业化、学术成员负责科学产出——双方的产出都能增加，而非此消彼长
 - 关键在于**任务专业化**而非时间均分：让产业方做其擅长的事（开发、测试、规模化），让学术方做其擅长的事（机制研究、理论建构、发表），避免双方在同一任务上竞争或重复
@@ -102,6 +101,3 @@ Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大�
 
 ---
 
-## 来源
-
-- [[Cohen_2025_JTT]]

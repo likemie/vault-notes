@@ -35,7 +35,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Snook_2009]]"
 sources:
   - "[[Snook_2010_NZJES]]"
 part_of: ''
@@ -51,7 +52,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 对 Hattie (2010) 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 Snook et al. (2009) 批评的回应是否充分解决了实质性的方法论关切？
+> 对 Hattie (2010) 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 批评的回应是否充分解决了实质性的方法论关切？
 
 ## 理论框架
 
@@ -62,7 +63,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：学术回应（academic reply），非实证研究
-> - 回应对象：Hattie (2010) 中对 Snook et al. (2009) 的直接和间接批评
+> - 回应对象：Hattie (2010) 中对 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 的直接和间接批评
 > - 分析维度：非学校因素、研究质量、偏差控制、[[Effect Size|效应量]]平均化、[[Class Size|班级规模]]、[[Meta-analysis|元分析]]在教育中的适用性
 
 ## 核心论证
@@ -115,7 +116,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为 Snook et al. (2009) 和 Hattie (2010) 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
+> - 论文为 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 和 Hattie (2010) 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
 > - 未对 Hattie (2010) 提出的"学者作为社会批评者与良知"角色讨论做出系统性回应，将其视为"另一场合的辩论"（p.94）
 > - 对户外教育 d=0.17 效应的误解（在 2009 原文中指出的错误）得到了承认和撤回（p.96）
 > - 两位作者（Anne-Marie O'Neill 和 John O'Neill）在回应自己的批评时作为共同作者，存在立场重叠

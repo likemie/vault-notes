@@ -20,9 +20,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch2_Ulrichsen_2025]]"
+related_arguments:
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -34,7 +33,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 创新模型演变（Innovation Models Evolution）指二十世纪以来人们对"创新到底怎么发生"这一核心问题的理解方式所经历的五次迭代。Tidd（2006）将这些演变概括为五代模型——从认为创新是单向线性过程（科学发现→产品），到认识到它是多行动者在制度环境中的集体学习活动。这一演变的核心意义在于：**对"创新如何发生"的理解方式，直接塑造了政策制定者、企业管理者和大学领导者管理创新的方式**（Ulrichsen, 2025, pp.27–29）。
+> 创新模型演变（Innovation Models Evolution）指二十世纪以来人们对"创新到底怎么发生"这一核心问题的理解方式所经历的五次迭代。Tidd（2006）将这些演变概括为五代模型——从认为创新是单向线性过程（科学发现→产品），到认识到它是多行动者在制度环境中的集体学习活动。这一演变的核心意义在于：**对"创新如何发生"的理解方式，直接塑造了政策制定者、企业管理者和大学领导者管理创新的方式**([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])。
 
 > 关键洞见是：这五种模型在现实中并非简单的代际替代，而是共存——不同行业、不同技术、不同创新阶段适用不同模型（Caraça et al., 2009）（p.29）。
 
@@ -46,7 +45,7 @@ updated: 2026-05-27
 ## 概念演变
 
 > [!note]
-> 五代创新模型代表了人们对创新过程理解方式的逐步升级（Tidd, 2006; Caraça et al., 2009; Galanakis, 2006）（Ulrichsen, 2025, pp.27–29）：
+> 五代创新模型代表了人们对创新过程理解方式的逐步升级（Tidd, 2006; Caraça et al., 2009; Galanakis, 2006）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])：
 
 ### 第一代：技术推动（Technology Push，1950s 主导）
 
@@ -98,7 +97,7 @@ Kline 和 Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 ## 当代新驱动力
 
 > [!note]
-> 近年来涌现的新驱动力在原有模型基础上叠加了新的约束和紧迫感（Ulrichsen, 2025, p.29）：
+> 近年来涌现的新驱动力在原有模型基础上叠加了新的约束和紧迫感([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.29]])：
 > - **地缘政治紧张与国家安全**：技术合作带上安全色彩，跨国创新协作面临新的边界
 > - **全球重大挑战**：气候变化、生物多样性丧失等"棘手问题"要求创新不仅创造经济价值还要解决社会问题
 > - **数字化转型与人工智能**：正在重塑所有行业的创新速度和方式
@@ -114,6 +113,3 @@ Kline 和 Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 
 ---
 
-## 来源
-
-- [[Ch2_Ulrichsen_2025]]

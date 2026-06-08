@@ -3,9 +3,7 @@ citation: "Møller, J. (2017). Leading education beyond what works. European Edu
 extracted_to:
   - "[[Transformative Leadership]]"
   - "[[ISSPP Project]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[School Leadership]]"
-  - "[[New Public Management]]"
   - "[[OECD Improving School Leadership Project]]"
   - "[[Carolyn Shields]]"
   - "[[Christopher Day]]"

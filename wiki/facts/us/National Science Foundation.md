@@ -28,11 +28,9 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
-related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Ch7_Byrne_2025]]"
-  - "[[Ch8_Gilison_Wilson_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -51,12 +49,12 @@ updated: 2026-06-05
 > [!abstract]
 > NSF 与大学基础研究的关系构成了[[University-Industry Collaboration|产学合作]]的底层资助基础设施。大学研究者依赖 NSF 资助进行基础研究，产生可商业化的发现后，再通过产业伙伴或许可协议进行转化。从 [[Triple Helix]] 的视角来看，NSF 是"政府"螺旋中推动大学-产业互动的关键杠杆（p.13）。
 
-近年来，NSF 的角色从纯基础研究资助扩展到创新和商业化领域。NSF 与美国经济发展署（Economic Development Agency, EDA）共同承担推动区域[[Innovation Hub|创新枢纽]]的联邦使命，两者的资助对象超越单一锚定机构（anchor institution），要求涵盖多所大学和更广泛的地理区域（Byrne & Clements, 2025, pp.134–135）。
+近年来，NSF 的角色从纯基础研究资助扩展到创新和商业化领域。NSF 与美国经济发展署（Economic Development Agency, EDA）共同承担推动区域[[Innovation Hub|创新枢纽]]的联邦使命，两者的资助对象超越单一锚定机构（anchor institution），要求涵盖多所大学和更广泛的地理区域([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.134–135]])。
 
 ## I-Corps 创业培训
 
 > [!info]
-> [[NSF I-Corps]]（Innovation Corps，创新兵团）是 NSF 于 2011 年启动的创业培训项目。其核心理念是[[Didaktik|教授学]]者创业思维，而非仅提供推进科学研究的资金。项目要求产业代表直接参与，在研究项目中内置产业反馈循环机制（Gilison & Wilson, 2025, p.149）。
+> [[NSF I-Corps]]（Innovation Corps，创新兵团）是 NSF 于 2011 年启动的创业培训项目。其核心理念是[[Didaktik|教授学]]者创业思维，而非仅提供推进科学研究的资金。项目要求产业代表直接参与，在研究项目中内置产业反馈循环机制([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, p.149]])。
 
 > [!success]
 > 自 2011 年启动以来，I-Corps 已孵化超过 1,000 家初创企业，这些企业累计获得超过 $760 million 的后续融资（NSF, 2024，转引自 p.149）。
@@ -64,7 +62,7 @@ updated: 2026-06-05
 ## TIP 理事会
 
 > [!info]
-> 技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）是 NSF 下属的理事会，于 2022 年通过[[CHIPS and Science Act|CHIPS 与科学法案]]获得联邦拨款，负责推动区域性的跨机构研发与商业化合作（Byrne & Clements, 2025, p.134）。
+> 技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）是 NSF 下属的理事会，于 2022 年通过[[CHIPS and Science Act|CHIPS 与科学法案]]获得联邦拨款，负责推动区域性的跨机构研发与商业化合作([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.134]])。
 
 > [!note]
 > **资助时间线**：
@@ -86,8 +84,3 @@ updated: 2026-06-05
 > [!example]- 大规模学习优化AI研究院案例
 > 该机构采用"产学研用"协同创新模式：由加利福尼亚大学圣迭戈分校主导，联合麻省理工学院、耶鲁大学等学术机构组成核心研发团队；与英伟达、楷登电子、三星奥斯汀研发中心等企业在软件研发、系统设计和制造环节深度合作；同时引入斯威特沃特联合高中学区等应用场景提供方。这种创新模式有力促进了人工智能优化技术与芯片设计、机器人等领域的交叉融合（Cheng_2026_KeJiChuangXin）。
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Ch7_Byrne_2025]]
-- [[Ch8_Gilison_Wilson_2025]]

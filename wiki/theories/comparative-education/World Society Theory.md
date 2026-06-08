@@ -36,10 +36,9 @@ related_facts:
   - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Yan_2025_JCS]]"
-sources:
-  - "[[Ch9_Zapp_2022]]"
-  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -70,7 +69,7 @@ updated: '2026-06-02'
 - **世界社会的文化建构性**：世界社会不是由权力和物质利益构成的实体，而是由共享的[[Cultural Models|文化模型]]、规范和认知框架建构而成。观念、知识、意义和规范在全球治理中扮演核心的构成性角色（Barnett & Finnemore, 2004; Meyer et al., 1997; Wendt, 1999）。
 - **[[Otherhood]] 作为世界社会的运作机制**：由于缺乏中央权威，世界社会通过为他人行动（otherhood）来运作——各类组织（国际组织、大学、NGO）将自己定义为他者的代理者，为民族国家、弱势群体、环境以及人权、正义等原则提供知识和规范支持（Meyer & Jepperson, 2000; Zapp, 2020a）。
 - **[[Organizational Actorhood|组织能动者身份]]的全球扩散**：在全球文化模型的压力下，各类组织日益获得能动者身份（actorhood）——自主性、目标导向、问责性和社会嵌入性成为正常组织的标准特征（Bromley & Meyer, 2015）。
-- **世界社会中的知识与科学权威**：科学知识因其普世性、独立性、怀疑精神和无私利性（Merton, 1973 [1942]）在世界社会中具有独特的合法化功能，大学和科学家因此成为世界社会中的关键行动者（Zapp, 2022, p.149）。
+- **世界社会中的知识与科学权威**：科学知识因其普世性、独立性、怀疑精神和无私利性（Merton, 1973 [1942]）在世界社会中具有独特的合法化功能，大学和科学家因此成为世界社会中的关键行动者([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
 - **多行动者、多层次治理架构**：在去中心化和无定形的世界社会配置中，传统治理行动者（民族国家）与非国家行动者（国际组织、大学、NGO）共享 otherhood，构成多行动者、多层次全球治理架构（Barnett & Finnemore, 2004，引自 Zapp, 2022, p.149）。
 
 ### 全球学校模型的扩散与趋同
@@ -81,7 +80,7 @@ updated: '2026-06-02'
 
 ### 大众教育的政治建构
 
-Ramirez & Boli (1987) 重构了 18 世纪欧洲民族国家建构大众教育的历史过程：民族国家基于地缘政治动态（连同经济与宗教系统变革），通过教育创造 membership——建立忠诚与归属的纽带，同时也划定边界——公共教育的普遍性不延伸至国界之外（Amos, 2022, pp.54–55）。
+Ramirez & Boli (1987) 重构了 18 世纪欧洲民族国家建构大众教育的历史过程：民族国家基于地缘政治动态（连同经济与宗教系统变革），通过教育创造 membership——建立忠诚与归属的纽带，同时也划定边界——公共教育的普遍性不延伸至国界之外([[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]])。
 
 > 现代教育的 DNA 里[[Coding in Qualitative Research|编码]]了内外之分——教育让你成为某个国家的公民，但同时通过划定谁不属于我们来运作。这一分析为世界社会理论提供了历史基线：全球教育趋同的根源在于民族国家共享的 membership 创造功能。
 
@@ -98,20 +97,20 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 - 1970s  [[John W. Meyer]] 在斯坦福大学开始发展新制度主义组织理论，关注制度环境对组织形式的塑造作用。这一阶段的标志性成果是与 Brian Rowan 合作的 Institutionalized Organizations: Formal Structure as Myth and Ceremony (1977)，提出组织的正式结构反映制度环境中的理性神话而非技术效率需求。
 - 1980 年 Ramirez & Meyer 在 *Annual Review of Sociology* 发表奠基性论文，提出比较教育是社会建构的现代世界系统。
-- 1987 年 Ramirez & Boli 发表 The Political Construction of Mass Schooling，分析 18 世纪欧洲民族国家通过教育创造 membership 的历史过程（Amos, 2022, pp.54–55）。
-- 1997 年 Meyer, Boli, Thomas & Ramirez 在 *American Journal of Sociology* 发表 World Society and the Nation-State，标志世界社会理论的系统阐述——论证民族国家的制度形式（如宪法、教育系统、公民身份概念）在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释（Zapp, 2022, p.145）。
-- 2000 年 Meyer & Jepperson 在 *Sociological Theory* 提出 [[Otherhood]] 概念，完善了世界社会理论中能动者的文化建构理论（Zapp, 2022, p.149）。
+- 1987 年 Ramirez & Boli 发表 The Political Construction of Mass Schooling，分析 18 世纪欧洲民族国家通过教育创造 membership 的历史过程([[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]])。
+- 1997 年 Meyer, Boli, Thomas & Ramirez 在 *American Journal of Sociology* 发表 World Society and the Nation-State，标志世界社会理论的系统阐述——论证民族国家的制度形式（如宪法、教育系统、公民身份概念）在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])。
+- 2000 年 Meyer & Jepperson 在 *Sociological Theory* 提出 [[Otherhood]] 概念，完善了世界社会理论中能动者的文化建构理论([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
 
 ### 组织研究应用与高等教育扩展
 
-- 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中发展 [[Organizational Actorhood]] 理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析（Zapp, 2022, p.148）。
-- 2020 年 Frank & Meyer 在 *The University and the Global Knowledge Society* 将世界社会理论系统应用于大学分析，论证大学——尤其是现代超级研究型大学——是全球知识社会的核心制度（Zapp, 2022, p.143）。
-- Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色，以 [[UN Sustainable Development Goals|SDGs]] 为案例展示了大学通过四种机制嵌入全球治理，详见 [[Argument_Zapp_2022_Springer]]（Zapp, 2022, pp.148–154）。
+- 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中发展 [[Organizational Actorhood]] 理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])。
+- 2020 年 Frank & Meyer 在 *The University and the Global Knowledge Society* 将世界社会理论系统应用于大学分析，论证大学——尤其是现代超级研究型大学——是全球知识社会的核心制度([[Argument_Zapp_2022_Springer|Zapp, 2022, p.143]])。
+- Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色，以 [[UN Sustainable Development Goals|SDGs]] 为案例展示了大学通过四种机制嵌入全球治理，详见 [[Argument_Zapp_2022_Springer]]([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.148–154]])。
 
 ### 批评与经验检验
 
 - 2015 年 Silova & Brehm 批判性地审视该理论，质疑从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在规范性上再生产了西方中心主义。
-- Klerides（2023）将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物（Klerides, 2023, pp.425–426）。这一辩论是理性主义比较教育内部的核心理论张力。
+- Klerides（2023）将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。这一辩论是理性主义比较教育内部的核心理论张力。
 - 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同假设难以解释国家安全的突变性介入**（Yan & Morris, 2025, pp.491–492）。详见 [[Argument_Yan_2025_JCS]]。
 
 ---
@@ -133,7 +132,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 ### 国家权力与国内政治的忽视
 
-Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非国家建构、政治控制和利益竞争。LS 案例支持这一批评——废除阶段国家安全的本地政治逻辑成为唯一决策基础，全球话语被完全抛弃。Zapp (2022, pp.155–157) 同样指出理论低估了地缘政治冲突和市场逻辑对组织行为的持续塑造。
+Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非国家建构、政治控制和利益竞争。LS 案例支持这一批评——废除阶段国家安全的本地政治逻辑成为唯一决策基础，全球话语被完全抛弃。[[Argument_Zapp_2022_Springer|Zapp (2022, pp.155–157)]] 同样指出理论低估了地缘政治冲突和市场逻辑对组织行为的持续塑造。
 
 ### 单向扩散假设与西方中心主义
 
@@ -141,7 +140,7 @@ Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非�
 
 ### 口头采纳与实际行动的区分不足
 
-全球[[Cultural Models|文化模型]]的扩散可能停留在表层制度（政策文本、使命陈述）而未能深入实际组织行为（Zapp, 2022, p.153）。LS 案例提供了清晰的证据：港府在创立阶段口头采纳了终身学习、全球竞争力等全球话语，但这些话语在政治危机中可以瞬间被抛弃——说明它们从未被真正内化为制度实践。
+全球[[Cultural Models|文化模型]]的扩散可能停留在表层制度（政策文本、使命陈述）而未能深入实际组织行为([[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]])。LS 案例提供了清晰的证据：港府在创立阶段口头采纳了终身学习、全球竞争力等全球话语，但这些话语在政治危机中可以瞬间被抛弃——说明它们从未被真正内化为制度实践。
 
 ### LS 案例的方法论启示
 
@@ -164,7 +163,3 @@ Yan & Morris (2025) 提出了一个方法论批评：如果研究者仅在 LS �
 > - [[Policy Borrowing]] — 世界社会理论关注趋同（供给端），政策借用关注差异（需求端），两者构成互补的分析视角
 
 ---
-## 来源
-
-- [[Ch9_Zapp_2022]]
-- [[Klerides_2023_CE]]

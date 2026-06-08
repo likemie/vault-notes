@@ -23,9 +23,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
+related_arguments:
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -37,7 +36,7 @@ updated: 2026-06-03
 ## 内容
 
 > [!info]
-> MN-IP Create（全称 MN-IP: Sponsoring Research & Innovation Partnerships）是明尼苏达大学推出的[[University-Industry Collaboration|产学合作]]知识产权预先定价项目。该项目的核心创新在于为产业赞助方提供菜单式的[[Foreground IP|FIP]]权利选项，以固定预付费和延迟版税的组合替代传统的事后协商定价模式（Susalka & Carbone, 2025, p.283）。
+> MN-IP Create（全称 MN-IP: Sponsoring Research & Innovation Partnerships）是明尼苏达大学推出的[[University-Industry Collaboration|产学合作]]知识产权预先定价项目。该项目的核心创新在于为产业赞助方提供菜单式的[[Foreground IP|FIP]]权利选项，以固定预付费和延迟版税的组合替代传统的事后协商定价模式([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.283]])。
 
 > [!note]
 > 项目将 FIP 定义为"研究项目中产生的所有发明"，并提供以下三种选项（p.283）：
@@ -60,6 +59,3 @@ updated: 2026-06-03
 
 项目还明确声明 [[Background IP|BIP]]"不自动包含，但大学将与赞助企业密切合作解决任何请求"，从而将[[Background IP|BIP]]这一最复杂的谈判议题与 FIP 权利定价解耦（p.283）。
 
-## 来源
-
-- [[Ch15_Susalka_Carbone_2025]]

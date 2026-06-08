@@ -21,9 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[TUFF]]"
-related_arguments: []
-sources:
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -35,7 +34,7 @@ updated: 2026-05-28
 ## 背景
 
 > [!info]
-> 大学城科学中心（University City Science Center）位于宾夕法尼亚州费城（Philadelphia），是一家以[[Asset Mapping|资产映射]]和创业支持著称的[[University-Industry Collaboration|产学合作]]组织（Byrne & Clements, 2025, pp.126–127）。
+> 大学城科学中心（University City Science Center）位于宾夕法尼亚州费城（Philadelphia），是一家以[[Asset Mapping|资产映射]]和创业支持著称的[[University-Industry Collaboration|产学合作]]组织([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.126–127]])。
 
 ## 发展策略
 
@@ -55,6 +54,3 @@ updated: 2026-05-28
 
 这种全面的筹款和沟通策略旨在最大化利益相关者参与，体现了 [[TUFF]] 框架中"筹资与对外关系"优先领域的实践落地（p.133）。
 
-## 来源
-
-- [[Ch7_Byrne_2025]]

@@ -33,8 +33,9 @@ related_facts:
   - "[[Coleman Report 1966]]"
   - "[[Education at a Glance]]"
 related_arguments:
+  - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Argument_Downey_2016_SoE]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
-sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -44,7 +45,7 @@ updated: '2026-06-02'
 ## 背景
 
 > [!info] 背景
-> 1980 年代初期，美国面临多重焦虑的交织：制造业岗位流向日本和德国引发经济竞争力恐慌；1980 年里根 (Reagan) 当选总统带来保守派教育改革议程的上升；1983 年最早一批[[International Education|国际教育]]成就评价协会 (International Association for the Evaluation of Educational Achievement, IEA) 国际比较研究结果发布，美国学生表现不如预期（Gorur, 2014, pp. 8, 10; Rappleye, 2006, pp. 234–235）。
+> 1980 年代初期，美国面临多重焦虑的交织：制造业岗位流向日本和德国引发经济竞争力恐慌；1980 年里根 (Reagan) 当选总统带来保守派教育改革议程的上升；1983 年最早一批[[International Education|国际教育]]成就评价协会 (International Association for the Evaluation of Educational Achievement, IEA) 国际比较研究结果发布，美国学生表现不如预期([[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 8, 10]]; Rappleye, 2006, pp. 234–235)。
 >
 > 在这一背景下，教育被重新定义为一个国家安全议题——不是作为个人发展的途径，而是作为国家在全球经济竞争中胜出的武器。
 
@@ -54,9 +55,9 @@ updated: '2026-06-02'
 
 > [!note] 经过
 > - **1981** — 美国教育部长 T. H. Bell 成立国家教育卓越委员会 (National Commission on Excellence in Education)，负责调查美国学校的质量。
-> - **1983-04** — 委员会发布 *A Nation at Risk: The Imperative for Educational Reform*，以军事危机语言开篇：如果不友好的外国势力试图将今天存在的平庸教育表现强加于美国，我们很可能会将其视为战争行为（Gorur, 2014, p. 19）。
+> - **1983-04** — 委员会发布 *A Nation at Risk: The Imperative for Educational Reform*，以军事危机语言开篇：如果不友好的外国势力试图将今天存在的平庸教育表现强加于美国，我们很可能会将其视为战争行为([[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 19]])。
 > - 报告的核心叙事结构是国际比较 → 本国危机 → 改革紧迫：将美国学生的测试表现与日本、德国等经济竞争对手进行对比，将教育质量下降建构为国家安全威胁。
-> - 报告的发布生成了对教育系统质量的恐慌，在全球范围内引发连锁反应（Gorur, 2014, p. 10）。
+> - 报告的发布生成了对教育系统质量的恐慌，在全球范围内引发连锁反应([[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 10]])。
 
 ---
 
@@ -86,11 +87,11 @@ updated: '2026-06-02'
 > [!success] 影响与后果
 > ### 推动[[International Education|国际教育]]指标开发
 >
-> - 报告的危机叙事使 [[International Indicators of Education Systems|INES]] 项目被视为紧迫（Gorur, 2014, pp. 8, 10）。
+> - 报告的危机叙事使 [[International Indicators of Education Systems|INES]] 项目被视为紧迫([[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 8, 10]])。
 ...
 > ### 改变[[Performance Indicators|教育指标]]决策的参与者格局
 >
-> 在 *A Nation at Risk* 之后，教育指标决策中的玩家日益成为政策制定者而非科学家和研究者。第三阶段 (1987–1992)：政策制定者（即负责管理和变革教育系统的人）成为主导利益相关者（Bottani, 2008, p. 16; Gorur, 2014, p. 12）。
+> 在 *A Nation at Risk* 之后，教育指标决策中的玩家日益成为政策制定者而非科学家和研究者。第三阶段 (1987–1992)：政策制定者（即负责管理和变革教育系统的人）成为主导利益相关者(Bottani, 2008, p. 16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 12]])。
 >
 > ### 强化对日教育参照
 >
@@ -101,9 +102,9 @@ updated: '2026-06-02'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **危机叙事的争议**：教师协会和[[Progressive Education|进步教育]]运动者质疑教育质量危机的存在（特别是在公共部门），认为这场危机被夸大以推行基于[[New Public Management|新公共管理]]技术的教育改革（Bottani, 2008, p. 16; Gorur, 2014, p. 9）。
-> - **全球化链条的远距离后果**：Gorur (2014) 揭示了一个引人深思的因果链——一份关于美国教育的国内报告触发了全球[[Performance Indicators|教育指标]]体系的建立，最终塑造了全球教育治理格局。
-> - **政治框定的翻转**：Downey & Condron (2016, p. 2) 指出 *A Nation at Risk* 标志着美国教育政治话语的重要翻转——1966 年 [[Coleman Report 1966]] 的结论（家庭和社区是学业差距的源头）最初被视为保守立场，Bowles & Gintis (1976) 对学校加剧不平等的批判被视为激进左派；到了 1980 年代初期，保守派已全面接受学校是问题的叙事，*A Nation at Risk* 正是这一翻转的标志性事件。
+> - **危机叙事的争议**：教师协会和[[Progressive Education|进步教育]]运动者质疑教育质量危机的存在（特别是在公共部门），认为这场危机被夸大以推行基于[[New Public Management|新公共管理]]技术的教育改革(Bottani, 2008, p. 16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 9]])。
+> - **全球化链条的远距离后果**：[[Argument_Gorur_2014_Discourse|Gorur (2014)]] 揭示了一个引人深思的因果链——一份关于美国教育的国内报告触发了全球[[Performance Indicators|教育指标]]体系的建立，最终塑造了全球教育治理格局。
+> - **政治框定的翻转**：[[Argument_Downey_2016_SoE|Downey & Condron (2016, p. 2)]] 指出 *A Nation at Risk* 标志着美国教育政治话语的重要翻转——1966 年 [[Coleman Report 1966]] 的结论（家庭和社区是学业差距的源头）最初被视为保守立场，Bowles & Gintis (1976) 对学校加剧不平等的批判被视为激进左派；到了 1980 年代初期，保守派已全面接受学校是问题的叙事，*A Nation at Risk* 正是这一翻转的标志性事件。
 > - **危机化作为政治策略**：Rappleye (2006, p. 233) 引述 Halpin & Troyna (1995) 的假设——政治家可能为政治利益而将教育现状危机化——*A Nation at Risk* 的军事危机语言是否为这种策略性使用的典型表现，值得在具体历史语境中评估。
 
 ---
@@ -119,6 +120,3 @@ updated: '2026-06-02'
 
 ---
 
-## 来源
-
-...

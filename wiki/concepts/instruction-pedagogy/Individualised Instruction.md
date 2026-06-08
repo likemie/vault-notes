@@ -21,13 +21,11 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Higgins_2016_RE]]"
-  - "[[Laursen_2015_Paideia]]"
+related_arguments:
+  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Higgins_2016_RE]]"
 confidence: low
 status: draft
 created: "2026-05-05"
@@ -39,9 +37,9 @@ updated: "2026-05-22"
 ## 定义
 
 > [!info] 定义
-> 个别化教学（individualised instruction）指教师根据学生差异，在内容、进度、任务难度、支持方式或学习路径上做出调整，以回应学生不同的能力、兴趣和学习节奏。它的核心问题不是“是否让学生自己做”，而是“教师如何在差异面前组织支持”（Laursen, 2015, p.38）。
+> 个别化教学（individualised instruction）指教师根据学生差异，在内容、进度、任务难度、支持方式或学习路径上做出调整，以回应学生不同的能力、兴趣和学习节奏。它的核心问题不是“是否让学生自己做”，而是“教师如何在差异面前组织支持”([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
 >
-> 在当前 vault 的文献链里，这个概念经常和“教学差异化”相邻出现，但两者并不完全等同。英语语境中的 individualised instruction 只是对北欧讨论中“教学差异化”的近似参照（Laursen, 2015, p.38）。
+> 在当前 vault 的文献链里，这个概念经常和“教学差异化”相邻出现，但两者并不完全等同。英语语境中的 individualised instruction 只是对北欧讨论中“教学差异化”的近似参照([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
 
 ---
 
@@ -68,17 +66,17 @@ updated: "2026-05-22"
 
 > [!tip] 理论基础
 > - [[Effective Teaching]] — 个别化教学可被看作有效教学中“适配学生前提条件”的一部分，而不是独立万能策略。
-> - [[Visible Learning]] — Hattie 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定（Laursen, 2015, p.38）。
+> - [[Visible Learning]] — Hattie 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
 
 ---
 
 ## 实证发现
 
 > [!success] Hattie 的[[Meta-meta-analysis|元综合]]排名
-> Hattie（1992）综合 134 项[[Meta-analysis|元分析]]后发现，个别化教学的平均[[Effect Size|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习（Higgins, 2016, p.42）。
+> Hattie（1992）综合 134 项[[Meta-analysis|元分析]]后发现，个别化教学的平均[[Effect Size|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
 
 > [!success] 丹麦与瑞典的证据
-> - Laursen（2015）整理的丹麦证据没有显示教学差异化能稳定显著提升学习，这与 Hattie 对个别化教学效果较小的判断方向接近（Laursen, 2015, p.38）
+> - Laursen（2015）整理的丹麦证据没有显示教学差异化能稳定显著提升学习，这与 Hattie 对个别化教学效果较小的判断方向接近([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])
 > - Håkansson（2015）提供了一个重要修正：问题不在于教师是否照顾差异，而在于当课堂越来越个人化时，教师支持是否也随之退场。若教师结构不足，学生可能被留在看似自由、实际上缺乏支撑的学习状态中（Håkansson, 2015, pp.586–587, 594–595）
 > - 个别化教学的关键不只是给不同学生不同任务，而是在差异化安排下，教师是否仍持续提供目标、解释、理解检查和支持（Håkansson, 2015, pp.592–595）
 
@@ -87,7 +85,7 @@ updated: "2026-05-22"
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 概念对应并不严密：北欧语境的“教学差异化”和英语 individualised instruction 并非完全一一对应，跨语境比较时需要谨慎（Laursen, 2015, p.38）。
+> - 概念对应并不严密：北欧语境的“教学差异化”和英语 individualised instruction 并非完全一一对应，跨语境比较时需要谨慎([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
 > - 容易滑向“责任外包给学生”：Håkansson（2015）对瑞典课堂变化的分析提醒我们，很多被说成“个别化”的安排，实际可能只是让学生自己承担更多计划和理解工作，而教师支持变弱了（Håkansson, 2015, pp.586-587）。
 > - 若脱离结构框架，个别化可能扩大差异：学习准备强的学生更能从开放安排中获益，基础较弱的学生则更可能在缺少明确引导时掉队（Håkansson, 2015, pp.594-595）。
 
@@ -101,8 +99,3 @@ updated: "2026-05-22"
 
 ---
 
-## 来源
-
-- [[Higgins_2016_RE]]
-- [[Laursen_2015_Paideia]]
-- Håkansson_2015_TT

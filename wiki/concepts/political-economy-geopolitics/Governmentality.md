@@ -42,12 +42,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Ball_2008_SR]]"
-sources:
-  - "[[Ch13_Thompson_2022]]"
-  - "[[Ch15_Zelinka_2022]]"
-  - "[[Ball_2008_SR]]"
+  - "[[Argument_Thompson_2022_Promising_Student]]"
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -94,28 +91,28 @@ updated: 2026-05-23
 
 主体化模式是 Foucault（1988, p.18）提出的权力技术概念，指"一种塑造个体行为并使其服从于特定目的的权力技术"（a technology of power that shapes the conduct of individuals and makes them conform to certain ends）。Zelinka（2022, pp.253-254）在分析（新）[[Geopolitics of Knowledge|知识地缘政治]]的主体性生产时援引了这一概念，并在此基础上提出了两个关键限定：
 
-- **个体并非自动服从于话语**：个体不是话语的被动承受者，而是"面对持续的、塑造其行为和决策的尝试"（Zelinka, 2022, p.254）。治理总是需要持续的运作，而非一次性的"制造"
-- **主体性的不可聚类性**：个体可以同时服从于多种话语、由多种理性所滋养，因此"主体性无法被清晰地聚类和框定"，而应被理解为"不同来源的话语实践的、暂时的和偶然的变体或交叉"（Zelinka, 2022, p.254）
+- **个体并非自动服从于话语**：个体不是话语的被动承受者，而是"面对持续的、塑造其行为和决策的尝试"([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]])。治理总是需要持续的运作，而非一次性的"制造"
+- **主体性的不可聚类性**：个体可以同时服从于多种话语、由多种理性所滋养，因此"主体性无法被清晰地聚类和框定"，而应被理解为"不同来源的话语实践的、暂时的和偶然的变体或交叉"([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]])
 
-这一概念为分析 [[Single-Case Design|SCD]] 等全球教育话语的主体性生产提供了操作框架：批判性分析的重点不在于"发现"固定的主体类型，而在于揭示特定形式的自我理解和自我行为是如何被话语建构和嵌入的（Zelinka, 2022, pp.253-254）。
+这一概念为分析 [[Single-Case Design|SCD]] 等全球教育话语的主体性生产提供了操作框架：批判性分析的重点不在于"发现"固定的主体类型，而在于揭示特定形式的自我理解和自我行为是如何被话语建构和嵌入的([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.253-254]])。
 
 ### 远距治理（Governing at a Distance）
 
 远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。Zelinka（2022, pp.251-252）援引 Bell 和 Green（2016, p.240）将新自由主义界定为一种**理性**（rationality），它"重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现远距治理"。Ball（2010, p.135）则以原文强调的方式指出，新自由主义治理术"在远处组织全球教育转型"（organises the global transformation of education *at a distance*）。
 
-远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 SCD 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
+远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 SCD 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]])。
 
 ### 全球治理技术（Global Governmental Technology）
 
 Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种全球治理技术，识别出三重运作机制：
 
-1. **问题化与个体化**（problematizing and individualizing）：教育挑战被表述为 [[VUCA]]——波动性、不确定性、复杂性、模糊性。回应方式被锁定为"让个体装备必要技能"，结构性问题被转化为个体责任（Zelinka, 2022, p.264）。
+1. **问题化与个体化**（problematizing and individualizing）：教育挑战被表述为 [[VUCA]]——波动性、不确定性、复杂性、模糊性。回应方式被锁定为"让个体装备必要技能"，结构性问题被转化为个体责任([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.264]])。
 
-2. **授权[[Knowledge Production|知识生产]]手段**（authorizing and validating the means of knowledge-production）：全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，以及资源应分配至何处。这强化了那些被授权定义未来进步者的权力地位，同时排斥了无法承诺于此类知识生产的人（Zelinka, 2022, pp.264-265）。
+2. **授权[[Knowledge Production|知识生产]]手段**（authorizing and validating the means of knowledge-production）：全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，以及资源应分配至何处。这强化了那些被授权定义未来进步者的权力地位，同时排斥了无法承诺于此类知识生产的人([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.264-265]])。
 
-3. **主体化、区分与创造自由**（subjectivation, differentiation, and creation of liberties）：一方面推崇[[Self-Entrepreneur|自我企业家]]精神和主动性；另一方面将排除者框定为"脆弱"或"需要帮助的"——不留出拒绝或抵抗的空间。这种双重操作使治理同时涵盖"愿意者"和"不愿者"，全覆盖地塑造全球教育秩序中的主体（Zelinka, 2022, p.265）。
+3. **主体化、区分与创造自由**（subjectivation, differentiation, and creation of liberties）：一方面推崇[[Self-Entrepreneur|自我企业家]]精神和主动性；另一方面将排除者框定为"脆弱"或"需要帮助的"——不留出拒绝或抵抗的空间。这种双重操作使治理同时涵盖"愿意者"和"不愿者"，全覆盖地塑造全球教育秩序中的主体([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.265]])。
 
-对这套全球治理技术的抵抗，Zelinka 认为起点在于质疑其根本前提：即将主体定义为"知识承载者"（knowledge-bearers）（Zelinka, 2022, p.265）。
+对这套全球治理技术的抵抗，Zelinka 认为起点在于质疑其根本前提：即将主体定义为"知识承载者"（knowledge-bearers）([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.265]])。
 
 ## 发展脉络
 
@@ -123,9 +120,9 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > - **1978–1979**：Foucault 在法兰西学院讲座 Security_Territory_Population 和 The Birth of Biopolitics 中系统阐述治理术概念
 > - **1980s**：治理术概念被引入英语学术界，引发"治理术研究"（governmentality studies）浪潮（Burchell, Gordon & Miller, 1991）
 > - **1990s–2000s**：治理术分析被广泛应用于教育研究，包括[[Lifelong Learning|终身学习]]治理（Olssen, 2006）、高等教育[[New Public Management|新公共管理]]（Dean, 2010）、[[International Education|国际教育]]政策比较研究
-> - **2008**：教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象（Ball, 2008, pp.651, 654-665）
+> - **2008**：教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象([[Argument_Ball_2008_SR|Ball, 2008, pp.651, 654-665]])
 > - **2022a**：Thompson 等人将治理术应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理术在算法时代的运作形态（Thompson et al., 2022, pp.220–226）
-> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由（Zelinka, 2022, pp.251-265）
+> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.251-265]])
 
 ## 认识论立场
 
@@ -153,11 +150,6 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > - [[Promising Student]] — 治理术视角下的主体形态分析：如何通过自我技术被"呼唤"出来
 > - [[Competitiveness]] — 竞争力作为地缘政治装置，通过[[Performance Indicators|绩效指标]]和排名塑造大学的治理术自我理解
 > - [[Geopolitics of Knowledge]] — Zelinka（2022）将其概念化为全球治理技术，通过远距治理的三重机制运作（问题化与个体化、授权[[Knowledge Production|知识生产]]、主体化与区分）
-> - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造（Zelinka, 2022, pp.258-260）
-> - [[School Effectiveness]] — 学校效能研究在英国政策中的[[Transfer Translation Transformation|转译]]可被理解为一种把学校构造成可检查、可比较、可改进对象的治理技术；它通过测量、检查、排行榜和失败学校命名等机制，把学校与教师重新纳入政策管理（Ball, 2008, pp.663-665）
+> - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258-260]])
+> - [[School Effectiveness]] — 学校效能研究在英国政策中的[[Transfer Translation Transformation|转译]]可被理解为一种把学校构造成可检查、可比较、可改进对象的治理技术；它通过测量、检查、排行榜和失败学校命名等机制，把学校与教师重新纳入政策管理([[Argument_Ball_2008_SR|Ball, 2008, pp.663-665]])
 
-## 来源
-
-- [[Ch13_Thompson_2022]]
-- [[Ch15_Zelinka_2022]]
-- [[Ball_2008_SR]]

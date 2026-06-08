@@ -27,6 +27,7 @@ related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
@@ -39,9 +40,9 @@ updated: '2026-05-18'
 > [!info] 定义
 > 教育中的哲学分析是一种非实证的研究方法，通过对教育实践和政策背后的**概念前提、认识论假设和规范性主张**进行系统分析，揭示其内在张力和未被承认的后果。它不产生经验数据，而是通过**概念区分、逻辑推理和哲学论证**为教育实践和决策提供智识资源，帮助从业者抵抗不合理的期待和干预。
 >
-> Biesta (2010) 的方法示范了这一路径：他并非"收集数据"来"证明"[[Evidence-Based Education|证据本位教育]]的缺陷，而是通过概念分析揭示**结构性（非实际性的）缺陷**——这些缺陷不因更多研究而消失，而是内置于证据本位教育的前提假设中。
+> [[Argument_Biesta_2010_SPE|Biesta (2010)]] 的方法示范了这一路径：他并非"收集数据"来"证明"[[Evidence-Based Education|证据本位教育]]的缺陷，而是通过概念分析揭示**结构性（非实际性的）缺陷**——这些缺陷不因更多研究而消失，而是内置于证据本位教育的前提假设中。
 >
-> > "My contribution is primarily meant to provide educators and other professionals with arguments that can help them to resist unwarranted expectations about the role of evidence in their practices." (Biesta, 2010, p. 491)
+> > "My contribution is primarily meant to provide educators and other professionals with arguments that can help them to resist unwarranted expectations about the role of evidence in their practices." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 491]])
 
 ## 认识论立场
 
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> 以 Biesta (2010) 为蓝本：
+> 以 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 为蓝本：
 >
 > 1. **识别前提** — 识别目标立场或政策的核心假设（如：实验证据能生成关于"什么有效"的确定知识）
 > 2. **概念区分** — 引入关键概念区分使分析成为可能（表象认识论 vs. 交易认识论；封闭系统 vs. 开放系统；应用 vs. 纳入）
@@ -71,8 +72,8 @@ updated: '2026-05-18'
 ## 局限性
 
 > [!warning] 局限性
-> - **距离实践的鸿沟**：哲学分析的结论通常不如数据驱动的"政策建议"那样对政策制定者有直接的吸引力。Biesta (2010) 的三重缺陷框架被视为 [[Evidence-Based Education|EBE]] 批判的经典，但对 EBE 政策实践的直接冲击有限——ESSA 证据标准在 Biesta 批判发表后反而继续扩展，说明哲学论证在政策辩论中的影响力受限于其"非操作性"特征。
-> - **不直接产生经验证据**：对于需要"证据"来支持的决策场景，纯哲学分析可能被视为"只是意见"。Slavin (2019) 可用"你没有数据"来反驳 Biesta 的立场——哲学分析的方法论特征（概念论证而非经验验证）使其在证据层级的辩论中处于结构性劣势。
+> - **距离实践的鸿沟**：哲学分析的结论通常不如数据驱动的"政策建议"那样对政策制定者有直接的吸引力。[[Argument_Biesta_2010_SPE|Biesta (2010)]] 的三重缺陷框架被视为 [[Evidence-Based Education|EBE]] 批判的经典，但对 EBE 政策实践的直接冲击有限——ESSA 证据标准在 Biesta 批判发表后反而继续扩展，说明哲学论证在政策辩论中的影响力受限于其"非操作性"特征。
+> - **不直接产生经验证据**：对于需要"证据"来支持的决策场景，纯哲学分析可能被视为"只是意见"。[[Argument_Slavin_2019_EP|Slavin (2019)]] 可用"你没有数据"来反驳 Biesta 的立场——哲学分析的方法论特征（概念论证而非经验验证）使其在证据层级的辩论中处于结构性劣势。
 > - **对分析者的哲学训练要求高**：概念区分（如表象认识论 vs. 交易认识论）和维度分解（认识论/存在论/实践论）的质量高度依赖分析者的哲学素养——低质量的哲学分析可能产生误导性的概念框架和虚假的替代方案。
 > - **可能被误用为保守主义**：揭示一切改革的前提缺陷可能导致对任何改革的消极态度——"既然所有证据都有知识缺陷，那我们什么也不用做"。Biesta 本人在结论中明确回应了这一点：哲学分析的目的不是证明行动不可能，而是指出"证据的角色应该从属于价值判断"——但这一细致立场在传播中容易被简化为"反对使用证据"。
 

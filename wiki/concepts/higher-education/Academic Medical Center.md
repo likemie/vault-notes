@@ -22,10 +22,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch10_Swick_Jones_2025]]"
-  - "[[Ch11_Bang_2025]]"
+related_arguments:
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -37,9 +35,9 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 学术医学中心（Academic Medical Center, AMC）传统上定义为"大学或医学院及其合作教学医院"（"a university or medical school and its partner teaching hospital"）（Swick & Jones, 2025, p.179）。其核心构成包括三个要素：教学医院（teaching hospital）、联合聘任到大学的临床教师（clinical faculty jointly appointed to the university）、以及社区中的附属私人执业医师（affiliated private-practice physicians in the community）（Swick & Jones, 2025, p.179）。
+> 学术医学中心（Academic Medical Center, AMC）传统上定义为"大学或医学院及其合作教学医院"（"a university or medical school and its partner teaching hospital"）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。其核心构成包括三个要素：教学医院（teaching hospital）、联合聘任到大学的临床教师（clinical faculty jointly appointed to the university）、以及社区中的附属私人执业医师（affiliated private-practice physicians in the community）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。
 
-AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基础科研与医院的临床诊疗结合在一起。这是目前最常见的学术医疗机构组织形态，但具体组织结构在不同机构之间存在广泛差异（Swick & Jones, 2025, p.179）。
+AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基础科研与医院的临床诊疗结合在一起。这是目前最常见的学术医疗机构组织形态，但具体组织结构在不同机构之间存在广泛差异([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。
 
 在[[University-Industry Collaboration|产学合作]]语境中，AMC 的另一重身份是[[Clinical Trial|临床试验]]的核心执行主体。生物制药产业依靠 AMC 的学术合作者来规划、设计、评估和执行临床研究，在许多大学，临床试验可能是临床研究最大的资金来源（Bang, 2025, p.201）。
 
@@ -58,14 +56,14 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 > | **[[University-Industry Collaboration\|产学合作]]位置** | 合作参与者 | 合作促进者（facilitator） |
 > | **典型代表** | 大多数大学附属医院 | Houston Methodist、Cleveland Clinic、Cedars-Sinai 等 |
 >
-> 关键区分在于：AMC 是学术与临床的双元组合（Swick & Jones, 2025, p.179），而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。
+> 关键区分在于：AMC 是学术与临床的双元组合([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])，而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。
 
 ---
 
 ## 与社区医学中心的区分
 
 > [!example]
-> 社区医学中心（Community Medical Center, CMC）传统上指非学术性的医疗机构，通常等同于社区医院（community hospital）（Swick & Jones, 2025, p.179）。CMC 的核心使命是提供当前最佳标准的诊疗服务，通常不投入创新研发或医学教育。
+> 社区医学中心（Community Medical Center, CMC）传统上指非学术性的医疗机构，通常等同于社区医院（community hospital）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。CMC 的核心使命是提供当前最佳标准的诊疗服务，通常不投入创新研发或医学教育。
 >
 > 在[[Clinical Trial|临床试验]]领域，社区基地（community-based sites）构成了 AMC 的直接竞争者：它们使用集中式单一 [[Institutional Review Board|IRB]] 审查，启动和入组速度远快于 AMC（Bang, 2025, pp.205–206）。
 
@@ -106,15 +104,11 @@ AMC 作为试验基地的竞争力和不可替代性并存：一方面，它们�
 ## 在产学合作中的角色
 
 > [!note]
-> AMC 在[[University-Industry Collaboration|产学合作]]中承担双重角色（Swick & Jones, 2025, pp.179–181; Bang, 2025, pp.201–215）：
+> AMC 在[[University-Industry Collaboration|产学合作]]中承担双重角色([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.179–181]]; Bang, 2025, pp.201–215)：
 > - **研究伙伴与试验场所**：AMC 具备基础科研和临床研究能力，可在教学医院中开展[[Clinical Trial|临床试验]]。产业方通过 AMC 接触多样化患者人群和前沿方法论（Bang, 2025, p.215）
 > - **效率瓶颈**：AMC 的组织结构（学术-临床二元）意味着其制度流程更靠近学术节奏而非产业节奏。多重委员会审查、高管理费率和漫长的合同谈判周期使 AMC 在效率维度上处于竞争劣势
 >
-> AMC 在部署创新时面临的主要障碍之一是技术可及性——"technology availability often limits broader real-world application"（Swick & Jones, 2025, pp.181–182）。
+> AMC 在部署创新时面临的主要障碍之一是技术可及性——"technology availability often limits broader real-world application"([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.181–182]])。
 
 ---
 
-## 来源
-
-- [[Ch10_Swick_Jones_2025]]
-- [[Ch11_Bang_2025]]

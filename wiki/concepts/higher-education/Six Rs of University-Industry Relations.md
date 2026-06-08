@@ -14,8 +14,6 @@ related_persons:
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
-sources:
-  - "[[Ch5_Narayan_Spohrer_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -40,7 +38,7 @@ updated: 2026-05-28
 | Recruiting | 从永久雇用到实习的人才管道 | 年度实习和全职招聘数（按大学和学位），以及长期趋势追踪 |
 | Revenue | 维持长期双赢关系的伙伴关系主管项目 | 对大学的硬件、软件和服务销售收入 |
 | Responsibility | 员工贡献时间指导学生和客座授课 | 担任客座教师、顾问委员会、行业导师角色的员工数 |
-| Regions | 与公私合作伙伴推动区域经济发展 | 公私合作伙伴关系数量 |
+| Regions | 与公私合作伙伴推动区域经济发展 | [[Public-Private Partnership in Research\|公私合作伙伴关系]]数量 |
 | Refresh | 调适项目组合以响应市场变化 | 新启动项目数、现有项目成功排名、已终止的旧项目数 |
 
 ---
@@ -67,6 +65,3 @@ Narayan 与 Spohrer（2025）新增了第七个 R——Refresh，强调在商业
 
 ---
 
-## 来源
-
-- [[Ch5_Narayan_Spohrer_2025]]

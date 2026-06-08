@@ -18,7 +18,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -55,6 +56,6 @@ updated: '2026-06-08'
 > - 知其然包括命题、学科概念和内容
 > - 知其所用包括技能、能力和学科实践
 > - 两者的连接是[[Surface and Deep Learning|深层学习]]的先决条件
-> - 当学生能够展示和阐述两种知识形式之间的联系时，就实现了「明智地知其所用」和「知其所以然」（McPhail et al., 2023）
+> - 当学生能够展示和阐述两种知识形式之间的联系时，就实现了「明智地知其所用」和「知其所以然」([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])
 
 ---

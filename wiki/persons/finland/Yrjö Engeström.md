@@ -21,7 +21,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wang_2025_CE]]"
 confidence: low
 status: draft
 created: 2026-05-26
@@ -34,7 +35,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 于尔约·恩格斯特罗姆（Yrjö Engeström）是芬兰组织学习与教育研究者，以其对[[Third Generation Activity Theory|活动理论]]的发展而知名。他继承 Vygotsky 的第一代文化-历史活动理论，在 *Learning by Expanding*（1987）中发展为第二代集体活动系统模型，进而在 2001 年提出第三代活动理论，聚焦多个活动系统之间的互动、边界跨越和扩展性改造（Wang & McLaughlin, 2025, pp.590-591）。
+> 于尔约·恩格斯特罗姆（Yrjö Engeström）是芬兰组织学习与教育研究者，以其对[[Third Generation Activity Theory|活动理论]]的发展而知名。他继承 Vygotsky 的第一代文化-历史活动理论，在 *Learning by Expanding*（1987）中发展为第二代集体活动系统模型，进而在 2001 年提出第三代活动理论，聚焦多个活动系统之间的互动、边界跨越和扩展性改造([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])。
 
 > [!warning]- 来源边界
 > 当前正文仅基于 Wang & McLaughlin（2025）中引用的 Engeström 理论贡献。生平与职涯信息不足，标注为"待核"。后续若有 Engeström 原典或传记 source record，可补全。
@@ -47,7 +48,7 @@ updated: '2026-06-08'
 > 资料不足。以下仅记录论文中可确认的信息；生平细节待核。
 
 - 芬兰研究者，活跃于组织学习、工作场所变革与教育研究领域（待核）。
-- 1987 年出版 *Learning by Expanding*，在 Vygotsky 中介三角模型基础上增加共同体、规则和劳动分工三个社会维度，将活动概念化为集体性的、对象导向的文化形构（Wang & McLaughlin, 2025, p.590）。
+- 1987 年出版 *Learning by Expanding*，在 Vygotsky 中介三角模型基础上增加共同体、规则和劳动分工三个社会维度，将活动概念化为集体性的、对象导向的文化形构([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
 
 ---
 
@@ -55,8 +56,8 @@ updated: '2026-06-08'
 
 > [!abstract]
 
-- Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit. — 提出第二代[[Third Generation Activity Theory|活动理论]]，在 Vygotsky 主体-中介工具-客体三角基础上增加共同体、规则和劳动分工维度，将分析单元从个体行为扩展为集体活动系统（Wang & McLaughlin, 2025, p.590）。
-- Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. *Journal of Education and Work*, 14(1), 133–156. — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，引入扩展性学习（expansive learning）和扩展性改造（expansive transformation）概念（Wang & McLaughlin, 2025, pp.590-591）。
+- Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit. — 提出第二代[[Third Generation Activity Theory|活动理论]]，在 Vygotsky 主体-中介工具-客体三角基础上增加共同体、规则和劳动分工维度，将分析单元从个体行为扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
+- Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. *Journal of Education and Work*, 14(1), 133–156. — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，引入扩展性学习（expansive learning）和扩展性改造（expansive transformation）概念([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])。
 
 ---
 
@@ -67,7 +68,7 @@ updated: '2026-06-08'
 
 ### 从个体中介到集体活动系统
 
-Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 的第一代中介三角模型（主体—中介工具—客体）基础上增加了三个社会维度，将分析单元扩展为集体活动系统（Wang & McLaughlin, 2025, p.590）：
+Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 的第一代中介三角模型（主体—中介工具—客体）基础上增加了三个社会维度，将分析单元扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])：
 
 - **主体（Subject）**：参与活动的个体或群体
 - **客体（Object）**：活动的目标
@@ -80,14 +81,14 @@ Engeström（1987）认识到人类行为与所处社群之间的复杂交互关
 
 ### 多系统互动与矛盾作为变革动力
 
-Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边界的过程。其核心假设包括（Wang & McLaughlin, 2025, pp.590-591）：
+Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边界的过程。其核心假设包括([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])：
 
 1. 活动系统是开放的、动态的——一个活动系统可以与其他系统互动并吸收新元素。
 2. 当不同系统互动时，矛盾（contradictions）会出现——这些矛盾既可以是变革的障碍，也可以是扩展性改造的动力。
 3. 解决矛盾需要每个系统打破自身边界，朝向一个集体有意义的目标移动。
 4. 当共享目标建立后，原有系统的关键元素可能被重构——这就是扩展性改造。
 
-> 举例：在中国学校中，考试问责系统和 [[Learner-Centred Education|LCE]] 改革系统是两个并存的活动系统。当学校将"显著提升考试成绩"和"通过 LCE 培养学生分析能力"建立为共享目标后，教师主导教学与考试成绩之间的既有绑定被松解，评价标准被分散——这就是 Engeström 所说的扩展性改造（Wang & McLaughlin, 2025, pp.598-601）。
+> 举例：在中国学校中，考试问责系统和 [[Learner-Centred Education|LCE]] 改革系统是两个并存的活动系统。当学校将"显著提升考试成绩"和"通过 LCE 培养学生分析能力"建立为共享目标后，教师主导教学与考试成绩之间的既有绑定被松解，评价标准被分散——这就是 Engeström 所说的扩展性改造([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.598-601]])。
 
 > [!quote]
 > "活动理论将人类实践概念化为集体活动，'活动'——定义为'一个有对象导向和文化形塑的结构'——成为分析单元"（Engeström, 1999, p.21，引自 Wang & McLaughlin, 2025, p.590）
@@ -100,13 +101,13 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 
 ### 1987 — 第二代活动理论：集体活动系统
 
-- 核心内容：在 Vygotsky 的第一代中介三角基础上增加共同体、规则和劳动分工，将活动概念化为集体性的、对象导向的文化形构（Wang & McLaughlin, 2025, p.590）。
+- 核心内容：在 Vygotsky 的第一代中介三角基础上增加共同体、规则和劳动分工，将活动概念化为集体性的、对象导向的文化形构([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
 - 思想发展：从解释个体认知[[Development Turn in Comparative Education|发展转向]]分析集体活动系统，分析单元从个体行为变为活动系统。
 - 相关概念／理论：[[Third Generation Activity Theory]]
 
 ### 2001 — 第三代活动理论：多系统互动与扩展性改造
 
-- 核心内容：聚焦多个活动系统之间的互动与边界跨越，提出矛盾可以是变革的来源，并引入扩展性学习与扩展性改造概念（Wang & McLaughlin, 2025, pp.590-591）。
+- 核心内容：聚焦多个活动系统之间的互动与边界跨越，提出矛盾可以是变革的来源，并引入扩展性学习与扩展性改造概念([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])。
 - 思想发展：活动理论从单个系统的内部结构分析，转向多个系统之间的互动、矛盾和协同。Engeström（2001, p.137）将扩展性改造定义为：当系统之间的矛盾被识别和解决时，原有系统的关键元素被重构的过程。
 - 相关概念／理论：[[Third Generation Activity Theory]]
 

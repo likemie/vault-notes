@@ -22,9 +22,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
-related_arguments: []
-sources:
-  - "[[OConnor_2020_AJLL]]"
+related_arguments:
+  - "[[Argument_OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -33,14 +32,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 2005 年，英国政府委托 Jim Rose 爵士领导一项关于早期阅读教学的独立审查。当时英国的"阅读战争"——系统合成语音（synthetic phonics）支持者与[[Whole Language|全语言]]（whole language）倡导者之间的公开辩论——已达白热化程度（O'Connor, 2020, p.149）。
+> 2005 年，英国政府委托 Jim Rose 爵士领导一项关于早期阅读教学的独立审查。当时英国的"阅读战争"——系统合成语音（synthetic phonics）支持者与[[Whole Language|全语言]]（whole language）倡导者之间的公开辩论——已达白热化程度([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
 > Rose Report 的正式标题为 *Independent Review of the Teaching of Early Reading*（早期阅读教学独立审查），于 2006 年由英国 Department for Education and Skills 发布。
 >
-> 该报告的关键特征是推广了 Gough & Tunmer（1986）的**[[Simple View of Reading|简单阅读观]]**（[[Simple View of Reading]]）——主张"学会解码等于学会阅读"（O'Connor, 2020, p.149）。
+> 该报告的关键特征是推广了 Gough & Tunmer（1986）的**[[Simple View of Reading|简单阅读观]]**（[[Simple View of Reading]]）——主张"学会解码等于学会阅读"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
 >
 > > Harrison（2010, p.207）指出简单阅读观已"与'先、快且唯一'（first, fast and only）的语音模型以及技术主义的阅读教学观联系在一起"（引自 O'Connor, 2020, p.149）
 
@@ -49,7 +48,7 @@ updated: '2026-05-18'
 > [!note]- 时间线
 > - **2005** — 英国政府委托 Jim Rose 领导早期阅读教学独立审查
 > - **2006** — Rose Report 正式发布，推广[[Simple View of Reading|简单阅读观]]
-> - **2006 年后** — 报告直接导致英国实施**强制合成语音教学**政策（O'Connor, 2020, p.149）
+> - **2006 年后** — 报告直接导致英国实施**强制合成语音教学**政策([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])
 > - **2010** — Harrison 发表对 Rose Report 及简单阅读观的道德批评（Harrison, 2010）
 
 ## 实施情况
@@ -77,6 +76,3 @@ updated: '2026-05-18'
 > - [[Whole Language]] — Rose Report 所针对的教学方法
 > - [[No Child Left Behind Act 2001]] — 美国同期类似政策，禁止联邦资助非语音学区
 
-## 来源
-
-- [[OConnor_2020_AJLL]]

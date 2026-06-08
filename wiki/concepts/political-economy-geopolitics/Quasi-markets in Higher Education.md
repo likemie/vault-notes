@@ -25,9 +25,8 @@ related_facts:
   - "[[Research Excellence Framework]]"
   - "[[Excellence Initiative (Germany)]]"
   - "[[National Science Foundation]]"
-related_arguments: []
-sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -39,12 +38,12 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 高等教育准市场（Quasi-markets in Higher Education）是 Schulze-Cleven et al.（2017）在分析高等教育新政治经济学时系统讨论的一种资源分配机制。它指政府通过标准化产出指标（如研究评估结果、引用数据、排名）来决定对高等院校和学术单位的拨款，制造了一种"看似市场、实为行政分配"的治理形态（Schulze-Cleven et al., 2017, pp.801–802）。
+> 高等教育准市场（Quasi-markets in Higher Education）是 Schulze-Cleven et al.（2017）在分析高等教育新政治经济学时系统讨论的一种资源分配机制。它指政府通过标准化产出指标（如研究评估结果、引用数据、排名）来决定对高等院校和学术单位的拨款，制造了一种"看似市场、实为行政分配"的治理形态([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.801–802]])。
 
 与真正的市场不同，准市场中的"买方"（政府）不是根据价格和质量自由选择，而是根据一套预设的评估指标来决定资金流向。"卖方"（大学和学术单位）不是通过降低价格或提高效率来竞争，而是通过优化其在评估指标上的得分来争夺资源。由于评估指标本身就偏向已有资源优势的院校，准市场作为"[[Matthew Effect in Academia|制度化的马太效应]]"运作，资源向已经拥有资源的机构进一步集中（p.801）。
 
 > [!quote]
-> "作为制度化的马太效应（即资源向已有资源的机构进一步积累），这一学术版本的'准市场'在部分国家已成为主要的分配机制。"（Schulze-Cleven et al., 2017, p.801）
+> "作为制度化的马太效应（即资源向已有资源的机构进一步积累），这一学术版本的'准市场'在部分国家已成为主要的分配机制。"([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.801]])
 
 ## 概念辨析
 
@@ -90,10 +89,7 @@ updated: 2026-06-01
 ## 市场话语的意识形态功能
 
 > [!warning]
-> 准市场的一个核心悖论是："市场"话语与功绩神话携手并进。竞争性支出表面上奖励卓越，但其实际功能之一是**证成公共资源的不平等分配**。当一个未获得拨款的院系被告知"你的 [[Research Excellence Framework|REF]] 表现不够好"，而非"你所在的院校不在决策委员会的人脉网络中"，不平等的分配结果获得了客观、公正和"基于质量"的外观（Schulze-Cleven et al., 2017, pp.801–802）。
+> 准市场的一个核心悖论是："市场"话语与功绩神话携手并进。竞争性支出表面上奖励卓越，但其实际功能之一是**证成公共资源的不平等分配**。当一个未获得拨款的院系被告知"你的 [[Research Excellence Framework|REF]] 表现不够好"，而非"你所在的院校不在决策委员会的人脉网络中"，不平等的分配结果获得了客观、公正和"基于质量"的外观([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.801–802]])。
 >
 > 当美国公共资助者在 1960–70 年代转向同行评审作为拨款工具时，这一转变的设计目标之一就是确保"科学家对纳税人的问责"（Biagioli, 2002, p.123）。评估工具由此同时完成了三重操作：**分配资源**（谁拿到钱）、**制造合法性**（为什么这样分配是公正的）、以及**归咎责任**（拿不到钱是因为你不够卓越）。
 
-## 来源
-
-- [[Schulze-Cleven_2017_HighEduc]]

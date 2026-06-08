@@ -28,10 +28,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
-sources:
-  - "[[UIDP_2012_PartnershipContinuum]]"
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch10_Swick_Jones_2025]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -45,7 +42,7 @@ updated: 2026-06-05
 ## 定义
 
 > [!info]
-> 伙伴关系连续体（Partnership Continuum）是 [[University Industry Demonstration Partnership|UIDP]] 于 2012 年发布的[[University-Industry Collaboration|产学合作]]分类框架（详见 [[Argument_UIDP_2012_PartnershipContinuum]]）。它将大学与产业之间的合作形式沿两条轴线组织：一条是**五个合作领域**（学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展），另一条是每个领域内的**三个参与层级**（交易、协作、联盟）（Southerton et al., 2012, pp.5–7）。
+> 伙伴关系连续体（Partnership Continuum）是 [[University Industry Demonstration Partnership|UIDP]] 于 2012 年发布的[[University-Industry Collaboration|产学合作]]分类框架（详见 [[Argument_UIDP_2012_PartnershipContinuum]]）。它将大学与产业之间的合作形式沿两条轴线组织：一条是**五个合作领域**（学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展），另一条是每个领域内的**三个参与层级**（交易、协作、联盟）([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, pp.5–7]])。
 
 该框架的核心主张是：大学和企业对合作形式的认知通常高度碎片化——各部门只看到与自己职能匹配的那一段光谱，因此容易偏好某种熟悉的合作形式而忽略其他可能更有价值的路径。Partnership Continuum 的价值在于提供了一份"合作全景地图"，使组织能够系统性地诊断现有合作组合中的空白和机会（p.5）。
 
@@ -90,7 +87,7 @@ updated: 2026-06-05
 ## 核心原则
 
 > [!abstract]
-> 报告正文和五个领域的详细表格（Tables 1–5）共同揭示了 Partnership Continuum 的三个底层假设（Southerton et al., 2012）：
+> 报告正文和五个领域的详细表格（Tables 1–5）共同揭示了 Partnership Continuum 的三个底层假设([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012]])：
 
 - **非规定性**（non-prescriptive）：框架描述"有什么"而不规定"应该怎么做"。它是一张地图而非操作手册——地图帮助你看到全部可选路径，但走哪条路由你根据自己的目标和条件决定
 - **部门整合**（cross-functional awareness）：框架的核心使用场景是打破大学和企业内部的部门壁垒——就业中心、[[Technology Transfer Office|技术转移办公室]]、学院院长和政府关系部门需要共享合作全景信息，以避免各自为政导致的盲区（pp.4–5）
@@ -110,7 +107,7 @@ updated: 2026-06-05
 ## 在学术健康系统中的应用
 
 > [!example]
-> 伙伴关系连续体在[[Academic Health System|学术健康系统]]（AHS）中的适用方式与大学和 [[Academic Medical Center|AMC]] 非常相似：AHS 参与从 Level 1 到 Level 3 的合作；与新伙伴的首次合作可以从任何级别进入；与同一伙伴可以同时在不同级别维持多个合作关系（Swick & Jones, 2025, p.188）。
+> 伙伴关系连续体在[[Academic Health System|学术健康系统]]（AHS）中的适用方式与大学和 [[Academic Medical Center|AMC]] 非常相似：AHS 参与从 Level 1 到 Level 3 的合作；与新伙伴的首次合作可以从任何级别进入；与同一伙伴可以同时在不同级别维持多个合作关系([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.188]])。
 
 > [!note] 互补视角：合作光谱（Spectrum of Partnerships）
 > Swick 和 Jones（2025, p.187, Fig. 10.4）在同一语境中提出了另一种互补框架——合作光谱（Spectrum of Partnerships），位于从"交易型"（transactional）到"创新型"（innovative）的连续谱上：
@@ -126,8 +123,3 @@ updated: 2026-06-05
 
 ---
 
-## 来源
-
-- [[UIDP_2012_PartnershipContinuum]]
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch10_Swick_Jones_2025]]

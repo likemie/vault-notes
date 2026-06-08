@@ -30,17 +30,10 @@ related_facts:
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Innovation Network]]"
   - "[[National Science Foundation]]"
-related_arguments: []
-sources:
-  - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch4_Burrus_Patera_2025]]"
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
-  - "[[Ch10_Swick_Jones_2025]]"
-  - "[[Ch15_Susalka_Carbone_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
-  - "[[Ch12_Ramming_2025]]"
-  - "[[UIDP_2012_PartnershipContinuum]]"
+related_arguments:
+  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Argument_UIDP_2012_PartnershipContinuum]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -68,7 +61,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 > - **独立非营利**：2015 年从国家科学院"毕业"成为独立 501(c)(3) 组织，此前在国家科学院框架内运作了十余年（Boccanfuso & Hall, 2025, p.19）
 > - **全球化**：截至 2025 年，12% 的会员为非美国组织。2016 年启动国际试点，邀请牛津大学、多伦多大学、东京大学等非美国大学加入（Boccanfuso & Hall, 2025, p.19）
 > - **产出导向**：截至 2025 年拥有超过 60 个"操作指南"出版物，从合同条款扩展到人才、战略关系和[[Innovation Ecosystem|创新生态系统]]等领域（Boccanfuso & Hall, 2025, pp.19–20）
-> - **跨部门连接**：与 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Innovation Network|UIIN]] 和 Government-University-Industry Philanthropy Research Roundtable 并列，构成产学实践者社区的核心交汇空间（Burrus & Patera, 2025, p.74）
+> - **跨部门连接**：与 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Innovation Network|UIIN]] 和 Government-University-Industry Philanthropy Research Roundtable 并列，构成产学实践者社区的核心交汇空间([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.74]])
 
 ---
 
@@ -79,7 +72,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 ### 合同与法律工具
 
-- **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。每个项目包含概述、学术和企业各自视角以及解决差异的策略。最初涵盖 5 个条款，现已扩展至近 20 个项目。Contract Accords 的前身是 Turbonegotiator——一种辅助合同谈判的机器学习工具，开发于 2000 年代后期，领先时代约 20 年（Boccanfuso & Hall, 2025, p.16）。在 IP 领域，关键 Accord 包括：Accord 5（背景 IP）、Accord 6（前景 IP）、Accord 8（版权）和 Accord 16（软件），为产学 IP 谈判提供了大学和产业各自视角下的操作指南（Susalka & Carbone, 2025, p.285）
+- **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。每个项目包含概述、学术和企业各自视角以及解决差异的策略。最初涵盖 5 个条款，现已扩展至近 20 个项目。Contract Accords 的前身是 Turbonegotiator——一种辅助合同谈判的机器学习工具，开发于 2000 年代后期，领先时代约 20 年（Boccanfuso & Hall, 2025, p.16）。在 IP 领域，关键 Accord 包括：Accord 5（背景 IP）、Accord 6（前景 IP）、Accord 8（版权）和 Accord 16（软件），为产学 IP 谈判提供了大学和产业各自视角下的操作指南([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.285]])
 - **Joint Solicitations Quick Guide 与 Comparison Tables**：聚焦政府和企业在基础性、应用启发式研究中的共同投资。UIDP 在开发[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了关键作用，获得 Procter & Gamble、PepsiCo、BASF、Dow 和 IBM 等会员的支持（Boccanfuso & Hall, 2025, p.18）
 
 ### 合作框架与度量
@@ -109,7 +102,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 > [!example]
 > **UIDP 东京会议与[[Trade Mission|贸易代表团]]的催化叠加（2023 年）**
 >
-> 2023 年 10 月，UIDP 在东京举办会议，恰好与新泽西州组织的东亚贸易代表团时间重合。普林斯顿大学利用这一叠加机会，在日本本土与多家企业面对面会面，催化了两项突破（Burrus & Patera, 2025, pp.80–81）：
+> 2023 年 10 月，UIDP 在东京举办会议，恰好与新泽西州组织的东亚贸易代表团时间重合。普林斯顿大学利用这一叠加机会，在日本本土与多家企业面对面会面，催化了两项突破([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.80–81]])：
 >
 > - **关系升级**：与一家大型汽车公司多年零散、不协调的多子公司资助关系，被收束为一个有明确联络人、共同愿景与目标、路线图和双向问责制的战略伙伴关系
 > - **从零启动**：与一家日本重工业企业建立了全新的合作。在出访前利用"Research with Princeton"数据库进行匹配分析，会面后公司迅速启动了资助研究项目
@@ -134,7 +127,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 > [!note]
 > - **2004 年**：委员会发布白皮书，提议在国家科学院框架内创建 University-Industry Demonstration Partnership（Boccanfuso & Hall, 2025, p.16）
 > - **2006 年**：发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助（Boccanfuso & Hall, 2025, p.16）
-> - **2012 年**：发布 [[Partnership Continuum]]（Southerton et al., 2012），将产学合作形式按五个领域和三个参与层级系统分类，其开发过程始于 2009 年 UIDP 春季会议上 Wayne Johnson 的初步分类框架，经项目工作组（Jeff Southerton、Geanie Umberger、Goran Matijasevic、Scott Steele、Wayne Johnson）多次电话会议、邮件交流和面对面讨论，并在 UIDP 成员社区的反复反馈中迭代完善（Southerton et al., 2012, pp.4–5）
+> - **2012 年**：发布 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012]])，将[[University-Industry Collaboration|产学合作]]形式按五个领域和三个参与层级系统分类，其开发过程始于 2009 年 UIDP 春季会议上 Wayne Johnson 的初步分类框架，经项目工作组（Jeff Southerton、Geanie Umberger、Goran Matijasevic、Scott Steele、Wayne Johnson）多次电话会议、邮件交流和面对面讨论，并在 UIDP 成员社区的反复反馈中迭代完善([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, pp.4–5]])
 
 ---
 
@@ -147,14 +140,3 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 ---
 
-## 来源
-
-- [[Ch1_Boccanfuso_Hall_2025]]
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch4_Burrus_Patera_2025]]
-- [[Ch6_Hoffman_Radasch_Thorsell_2025]]
-- [[Ch10_Swick_Jones_2025]]
-- [[Ch15_Susalka_Carbone_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]
-- [[Ch12_Ramming_2025]]
-- [[UIDP_2012_PartnershipContinuum]]

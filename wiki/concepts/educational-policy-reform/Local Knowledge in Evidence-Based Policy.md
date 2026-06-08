@@ -23,20 +23,17 @@ related_concepts:
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
+  - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Formative Program Evaluation]]"
-related_persons:
-  - "[[John Dewey]]"
+related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
-related_arguments: []
-sources:
-  - "[[Cowen_2015_CHESS]]"
-  - "[[Wiliam_2019_ERE]]"
-  - "[[Ross_Morrison_2021_ROE]]"
+related_arguments:
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -74,10 +71,10 @@ updated: '2026-05-23'
 
 ### 采购与实施知识
 
-在学校采购层面，教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。实践者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息（Ross & Morrison, 2021, pp.120-121）。
+在学校采购层面，教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。实践者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example]
-> 如果一个数字学习平台在研究中有显著正向效果，校长仍需要知道：教师每天要花多少准备时间？学生是否愿意持续使用？旧设备能否运行？家长是否支持？这些问题不是[[Statistical Significance|统计显著性]]能直接回答的，而是本地知识进入[[Evidence-Informed Practice|证据知情实践]]的地方（Ross & Morrison, 2021, pp.120-121）。
+> 如果一个数字学习平台在研究中有显著正向效果，校长仍需要知道：教师每天要花多少准备时间？学生是否愿意持续使用？旧设备能否运行？家长是否支持？这些问题不是[[Statistical Significance|统计显著性]]能直接回答的，而是本地知识进入[[Evidence-Informed Practice|证据知情实践]]的地方([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 
 > [!abstract] Wiliam (2019) 的四个决策问题框架中的本地知识
@@ -109,7 +106,7 @@ updated: '2026-05-23'
 > - Honig & Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识（Cowen et al., 2015, p.14）
 > - 教师访谈中几乎所有受访者都强调了本地情境因素（Cowen et al., 2015, p.27-28）
 > - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设（Wiliam, 2019, p.6）
-> - [[Students and Teachers Accessing Tomorrow]] 案例显示，同一组[[Formative Program Evaluation|形成性项目评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
+> - [[Students and Teachers Accessing Tomorrow]] 案例显示，同一组[[Formative Program Evaluation|形成性项目评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 
 ## 争议与批评
 
@@ -134,10 +131,5 @@ updated: '2026-05-23'
 
 ### 复杂改革的地方解释
 
-- [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中（Ross & Morrison, 2021, pp.122-123）。
+- [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 
-## 来源
-
-- [[Cowen_2015_CHESS]]
-- [[Wiliam_2019_ERE]]
-- [[Ross_Morrison_2021_ROE]]

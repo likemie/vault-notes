@@ -21,9 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
-related_arguments: []
-sources:
-  - "[[Ch13_Dean_2025]]"
+related_arguments:
+  - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: low
 status: draft
 created: 2026-06-03
@@ -35,7 +34,7 @@ updated: 2026-06-03
 ## 背景
 
 > [!info]
-> 滑铁卢大学的发明人自有知识产权政策（inventor-owned IP policy），也称创造者自有知识产权政策（creator-owned IP policy），是该校自 1959 年建校起实行的核心制度安排。与多数北美大学（在 [[Bayh-Dole Act of 1980|Bayh-Dole]] 框架下，大学通常对联邦资助研究产生的发明拥有所有权）不同，滑铁卢大学将知识产权所有权归于发明人个人而非大学机构（Dean et al., 2025, pp.242–243）。
+> 滑铁卢大学的发明人自有知识产权政策（inventor-owned IP policy），也称创造者自有知识产权政策（creator-owned IP policy），是该校自 1959 年建校起实行的核心制度安排。与多数北美大学（在 [[Bayh-Dole Act of 1980|Bayh-Dole]] 框架下，大学通常对联邦资助研究产生的发明拥有所有权）不同，滑铁卢大学将知识产权所有权归于发明人个人而非大学机构([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.242–243]])。
 
 这一政策根植于首任校长 Joseph Gerald Hagey 的建校理念。Hagey 来自企业界（曾任 B.F. Goodrich 公司全国广告总监），他相信学生在学习期间进入产业工作、教师在研究中与产业紧密合作，可以同时惠及学生、大学和企业。发明人自有知识产权政策是这一"产业嵌入"理念在教师研究层面的制度延伸（pp.242–243）。
 
@@ -53,6 +52,3 @@ updated: 2026-06-03
 > - **地方经济发展**：该政策与滑铁卢大学的[[Cooperative Education|合作教育]]项目共同推动了滑铁卢地区的科技[[Innovation Ecosystem|创新生态]]（pp.243, 254）。
 > - **[[University-Industry Collaboration|产学合作]]文化**：与北美最大的合作教育项目叠加，该政策使"产业合作"成为滑铁卢大学组织文化的一部分，降低了教师参与产学合作的心理门槛（pp.243, 246）。
 
-## 来源
-
-- [[Ch13_Dean_2025]]

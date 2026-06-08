@@ -20,8 +20,8 @@ related_concepts:
   - "[[Academic Engagement Team]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
-sources:
-  - "[[Ch12_Ramming_2025]]"
+related_arguments:
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -33,7 +33,7 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> 联合教职任命（Joint Faculty Appointments）是[[University-Industry Collaboration|产学合作]]中的一种新兴合作模式：研究人员同时持有企业雇员和大学教授的双重身份，在两种角色之间切换——以雇员身份解决短期专有业务问题，以教授身份从事长期开放式研究（Ramming, 2025, p.230）。
+> 联合教职任命（Joint Faculty Appointments）是[[University-Industry Collaboration|产学合作]]中的一种新兴合作模式：研究人员同时持有企业雇员和大学教授的双重身份，在两种角色之间切换——以雇员身份解决短期专有业务问题，以教授身份从事长期开放式研究([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.230]])。
 
 > [!quote]
 > "Joint faculty appointments are an emerging form of collaboration that concurrently tackle defined short-term proprietary business problems (in the role's employee persona) and broader, longer-term research opportunities (in the role's faculty persona)."（p.230）
@@ -71,6 +71,3 @@ updated: 2026-06-04
 
 ---
 
-## 来源
-
-- [[Ch12_Ramming_2025]]

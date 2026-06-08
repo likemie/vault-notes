@@ -3,10 +3,7 @@ citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing
 extracted_to:
   - "[[Interpretation Community]]"
   - "[[Structural Coupling]]"
-  - "[[Professional Judgment]]"
   - "[[Herbert A. Simon]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Evidence-Based Education]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 processed_date: 2026-05-03
 ---

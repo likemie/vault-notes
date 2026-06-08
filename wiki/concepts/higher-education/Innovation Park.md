@@ -24,10 +24,8 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[TUFF]]"
-related_arguments: []
-sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -70,7 +68,7 @@ updated: 2026-05-27
 
 ## TUFF 实践框架
 
-[[TUFF]]（The University Financing Foundation）基于四十余年的[[University-Industry Collaboration|产学合作]]开发经验，提出了[[Innovation Hub|创新中心]]成功运营的四个核心信条与六项优先领域（Byrne & Clements, 2025, pp.123–136）：
+[[TUFF]]（The University Financing Foundation）基于四十余年的[[University-Industry Collaboration|产学合作]]开发经验，提出了[[Innovation Hub|创新中心]]成功运营的四个核心信条与六项优先领域([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.123–136]])：
 
 > [!abstract]
 > **四个核心信条**：
@@ -89,7 +87,3 @@ updated: 2026-05-27
 >
 > TUFF 的口号是"密度就是命运"（density is destiny）：不仅指物理邻近性，更指强力、灵活的场所营造项目推动的人际互动频率和质量（p.136）。
 
-## 来源
-
-- [[Ch3_Boccanfuso_Hall_2025]]
-- [[Ch7_Byrne_2025]]

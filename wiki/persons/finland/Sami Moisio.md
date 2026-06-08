@@ -35,6 +35,7 @@ related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Argument_Zapp_2022_Springer]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
@@ -67,7 +68,7 @@ Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理
 - Moisio, S. (2019). Re-thinking geoeconomics: Towards a political geography of economic geographies. *Geography Compass, 13*(10), e12466. — 重新理论化地缘经济学与政治地理学的关系
 - Moisio, S. (2018). Urbanizing the nation-state: Notes on the geopolitical growth of cities and city-regions. *Urban Geography, 39*(9), 1421–1425. — 分析民族国家的城市化过程作为知识经济化的地缘政治维度
 - Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education* (pp. 21–33). Springer. — 对知识经济化的地缘政治维度进行系统阐述，提出 hub and [[Flow]] 想象、[[Spatial Sortings|空间分选]]等分析概念
-- Hartmann (2022) 在同论文集中将 Moisio 的地缘经济学框架应用于[[Further Education|继续教育]]——尤其是[[Corporate Education|企业教育]]——的跨国化分析，论证企业教育的全球扩张既非纯粹的市场行为（地缘经济），也非纯粹的国家权力投射（地缘政治），而是两者边界正在融合的灰色地带（Hartmann, 2022, pp.180–182, 193–196）。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第六步
+- [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 在同论文集中将 Moisio 的地缘经济学框架应用于[[Further Education|继续教育]]——尤其是[[Corporate Education|企业教育]]——的跨国化分析，论证企业教育的全球扩张既非纯粹的市场行为（地缘经济），也非纯粹的国家权力投射（地缘政治），而是两者边界正在融合的灰色地带([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180–182, 193–196]])。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第六步
 
 ---
 
@@ -95,7 +96,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 
 - [[Knowledge-Based Economy]] — 系统梳理知识经济的概念谱系，从 Friedrich List（1841）经 Drucker（1959）、Bell（1973）、Romer（1986）到 [[OECD]]/World Bank 的政策化，并将 KBE 定位为"实际存在的经济形态"（Moisio, 2022, pp.22–24）
 - [[Knowledge-Based Economization]] — 提出这一核心概念，将注意力从知识经济的话语层面转向经济化的物质过程和实践，以 Polanyi（1982）和 Çalişkan & Callon（2009）为分析资源（Moisio, 2022, pp.24–25）
-- [[Geopolitics of Knowledge]] — 系统论证知识密集型资本主义的地缘政治维度，将其定位为"历史偶然的地缘政治星座"。在 Zapp (2022) 的分析中，Moisio (2018) 关于教育枢纽和知识村的论述被援引以论证大学的地缘政治再领土化悖论（Zapp, 2022, pp.155–156）
+- [[Geopolitics of Knowledge]] — 系统论证知识密集型资本主义的地缘政治维度，将其定位为"历史偶然的地缘政治星座"。在 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 的分析中，Moisio (2018) 关于教育枢纽和知识村的论述被援引以论证大学的地缘政治再领土化悖论([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
 
 ### 核心分析概念
 
@@ -119,7 +120,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 - 将 Harvey（1985）的资本主义地缘政治理论应用于知识经济分析（Moisio, 2022, pp.27–28）
 - 将 Porter（1990）的[[National Competitive Advantage|国家竞争优势]]理论重新定位为地缘政治想象的分析对象（Moisio, 2022, pp.26–27）
 - 将 Crouch & Le Galès（2012）的 [[Economic Patriotism]] 概念和 Fraser（2019）的 [[Progressive Neoliberalism]] 概念引入[[Knowledge-Based Economization|知识经济化]]的空间分析
-- 在高等教育研究中：其概念被 Parreira do Amaral & Thompson（2022）引入教育治理分析。Zapp (2022) 援引 Moisio (2018) 关于教育枢纽、知识村和智慧城市的论述，以及 Moisio & Kangas (2016) 关于"全球性知识空间掩盖领土主张"的批评，用以论证大学同时是"全球知识行动者"和"地缘政治棋子"的双重角色——大学知识越是全球化，大学空间越是被国家重新领土化为竞争的场所（Zapp, 2022, pp.155–156）
-- 在[[Further Education|继续教育]]／[[Corporate Education|企业教育]]研究中：Hartmann (2022) 借用 Moisio 对地缘经济与地缘政治边界正在融合的诊断，分析[[Global Education Industry|全球教育产业]]中[[Corporate Education|企业教育]]跨国空间的建构。Moisio 的 [[Geopolitical Subject|地缘政治主体]] 概念被延伸至企业情境——企业教育不仅传授技能，更塑造员工的"空间心态"（"seeing like a company"），使员工将全球市场视为理所当然的行动空间（Hartmann, 2022, pp.180–182）。详见 [[Argument_Hartmann_2022_CorporateEducation]]
+- 在高等教育研究中：其概念被 Parreira do Amaral & Thompson（2022）引入教育治理分析。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 援引 Moisio (2018) 关于教育枢纽、知识村和智慧城市的论述，以及 Moisio & Kangas (2016) 关于"全球性知识空间掩盖领土主张"的批评，用以论证大学同时是"全球知识行动者"和"地缘政治棋子"的双重角色——大学知识越是全球化，大学空间越是被国家重新领土化为竞争的场所([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
+- 在[[Further Education|继续教育]]／[[Corporate Education|企业教育]]研究中：[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 借用 Moisio 对地缘经济与地缘政治边界正在融合的诊断，分析[[Global Education Industry|全球教育产业]]中[[Corporate Education|企业教育]]跨国空间的建构。Moisio 的 [[Geopolitical Subject|地缘政治主体]] 概念被延伸至企业情境——企业教育不仅传授技能，更塑造员工的"空间心态"（"seeing like a company"），使员工将全球市场视为理所当然的行动空间([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180–182]])。详见 [[Argument_Hartmann_2022_CorporateEducation]]
 
 ---

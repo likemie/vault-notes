@@ -22,9 +22,8 @@ related_facts:
   - "[[TUFF]]"
   - "[[University City Science Center]]"
   - "[[Kendall Square]]"
-related_arguments: []
-sources:
-  - "[[Ch7_Byrne_2025]]"
+related_arguments:
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -36,7 +35,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 资产映射（Asset Mapping）在[[University-Industry Collaboration|产学合作]]语境中，指系统地梳理和认识区域内各利益相关者（大学各部门、企业、政府机构、投资者、创业支持组织等）及其各自优势的实践方法。其实质是真实的关系建立（authentic relationship building）——创建一个强大而分散的合作伙伴网络，深入理解各方的优势、需求和优先事项（Byrne & Clements, 2025, p.126）。
+> 资产映射（Asset Mapping）在[[University-Industry Collaboration|产学合作]]语境中，指系统地梳理和认识区域内各利益相关者（大学各部门、企业、政府机构、投资者、创业支持组织等）及其各自优势的实践方法。其实质是真实的关系建立（authentic relationship building）——创建一个强大而分散的合作伙伴网络，深入理解各方的优势、需求和优先事项([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.126]])。
 
 [[TUFF]] 将其列为[[Innovation Hub|创新中心]]建设的六项优先领域之一。资产映射的操作方式是与每个利益相关者坐下来对话，而非依赖填表格或问卷调查——因为填表能收集数据，却无法建立信任。通过持续对话来建立理解和信任，资产映射成为后续所有产学合作活动的基础（p.126）。
 
@@ -86,6 +85,3 @@ updated: 2026-05-28
 
 ---
 
-## 来源
-
-- [[Ch7_Byrne_2025]]

@@ -30,9 +30,8 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[CHIPS and Science Act]]"
-related_arguments: []
-sources:
-  - "[[Ch2_Ulrichsen_2025]]"
+related_arguments:
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -44,9 +43,9 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 创新政策范式（Innovation Policy Paradigms）指 Schot 和 Steinmueller（2018）与 Lindner 等人（2024）识别的、自 1940 年代以来美国、英国和欧洲国家科技创新政策所经历的三个范式阶段。每个范式代表了国家对"创新应该如何被推动"这一根本问题的不同回答，以及与之对应的不同政策工具、制度安排和大学角色定位（Ulrichsen, 2025, pp.28–35）。
+> 创新政策范式（Innovation Policy Paradigms）指 Schot 和 Steinmueller（2018）与 Lindner 等人（2024）识别的、自 1940 年代以来美国、英国和欧洲国家科技创新政策所经历的三个范式阶段。每个范式代表了国家对"创新应该如何被推动"这一根本问题的不同回答，以及与之对应的不同政策工具、制度安排和大学角色定位([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])。
 
-> 三个范式的递进逻辑不是后者否定前者，而是**每一次递进都发现了前一个范式的盲区**——先认识到科学能推动增长 → 然后发现光有科学不够，整个系统都得配好套 → 再然后发现光配好套还不够，还得有人指方向（Ulrichsen, 2025, pp.28–35）。
+> 三个范式的递进逻辑不是后者否定前者，而是**每一次递进都发现了前一个范式的盲区**——先认识到科学能推动增长 → 然后发现光有科学不够，整个系统都得配好套 → 再然后发现光配好套还不够，还得有人指方向([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])。
 
 ---
 
@@ -146,6 +145,3 @@ updated: 2026-05-27
 
 ---
 
-## 来源
-
-- [[Ch2_Ulrichsen_2025]]

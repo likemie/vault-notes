@@ -23,9 +23,8 @@ related_facts:
   - "[[2019 Hong Kong Protests]]"
   - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
-related_arguments: []
-sources:
-  - "[[Vickers_2024_CE]]"
+related_arguments:
+  - "[[Argument_Vickers_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -37,7 +36,7 @@ updated: 2026-05-25
 ## 背景
 
 > [!info]
-> "我的行动承诺（My Pledge to Act）"是香港教育局于 2019 年至 2022 年间推行的校本奖励计划。该计划在 2019 年[[2019 Hong Kong Protests|反修例运动]]后推出，与 [[Citizenship and Social Development|CSD]] 课程改革和《[[Youth Development Blueprint|青年发展蓝图]]》同属后《国安法》时代香港教育重构的组成部分（Vickers, 2024, pp.153–154）。
+> "我的行动承诺（My Pledge to Act）"是香港教育局于 2019 年至 2022 年间推行的校本奖励计划。该计划在 2019 年[[2019 Hong Kong Protests|反修例运动]]后推出，与 [[Citizenship and Social Development|CSD]] 课程改革和《[[Youth Development Blueprint|青年发展蓝图]]》同属后《国安法》时代香港教育重构的组成部分([[Argument_Vickers_2024_CE|Vickers, 2024, pp.153–154]])。
 
 ---
 
@@ -48,7 +47,7 @@ updated: 2026-05-25
 > - "快乐（be happy）"
 > - "感恩我们所拥有的（be grateful for what we have）"
 >
-> 计划的核心信息是：生活更好的道路不在于改革社会的行动，而在于改变自我的决心（Vickers, 2024, p.153）。
+> 计划的核心信息是：生活更好的道路不在于改革社会的行动，而在于改变自我的决心([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
 
 ---
 
@@ -61,6 +60,3 @@ updated: 2026-05-25
 
 ---
 
-## 来源
-
-- [[Vickers_2024_CE]]

@@ -21,9 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources:
-  - "[[Ch13_Dean_2025]]"
+related_arguments:
+  - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -44,7 +43,7 @@ updated: 2026-06-03
 ## 滑铁卢大学的实践
 
 > [!example]
-> 滑铁卢大学研究办公室在推进研究安全方面采取了多层次策略（Dean et al., 2025, pp.249–250）：
+> 滑铁卢大学研究办公室在推进研究安全方面采取了多层次策略([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])：
 >
 > **宣传教育阶段**：主办"今日地缘政治时代的研究安全"会议，让研究者和学术界了解利益相关方的关切、外国行为体对研究的威胁、以及政府资助机构和官员的研究安全规划。
 >
@@ -66,6 +65,3 @@ Dean 等（2025）指出，设立研究安全支持团队可以将产学合作�
 
 ---
 
-## 来源
-
-- [[Ch13_Dean_2025]]

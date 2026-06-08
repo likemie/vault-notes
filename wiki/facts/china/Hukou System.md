@@ -23,9 +23,8 @@ related_persons: []
 related_facts:
   - "[[2014 Hukou Reform]]"
   - "[[Peidu]]"
-related_arguments: []
-sources:
-  - "[[Teng_2025_CE]]"
+related_arguments:
+  - "[[Argument_Teng_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -40,7 +39,7 @@ updated: 2026-05-26
 > 户口制度（Hukou System）是中国于 1950 年代建立的户籍登记制度，将人口划分为农业户口（农村）和非农业户口（城镇），长期限制农村向城市的人口迁移，并将就业机会和福利服务（包括教育）按户口类型实行城乡隔离（Lin 2006，引自 Teng & Wang, 2025, p.303）。
 
 > [!quote]
-> "Since implementation in 1950s, the hukou system has restricted rural-urban migration and secured a rural-urban segregation in job opportunities and welfare service (education included) for decades."（Teng & Wang, 2025, p.303）
+> "Since implementation in 1950s, the hukou system has restricted rural-urban migration and secured a rural-urban segregation in job opportunities and welfare service (education included) for decades."([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.303]])
 
 ---
 
@@ -60,7 +59,7 @@ updated: 2026-05-26
 > 改革后户口的重要性因城市层级而分化极大：
 
 - **特大城市**（北京、上海等）：继续严控户籍，引入"积分制"（jifenzhi）评估申请者资格。积分标准隐性地偏向受过高等教育、有稳定就业的中上阶层，农村迁移人口处于双重歧视——户口的显性排斥和经济社会地位的隐性排斥（Chen & Wang 2021; Wan & Vickers 2022，引自 Teng & Wang, 2025, p.303）。
-- **小城市**（县城等）：积极接纳农村人口，获取当地城镇户口的门槛大幅降低。学校、医院、图书馆等公共设施对居民开放，不分户口状态。农村人口能否享受优质公共服务，更多取决于能否负担城镇生活成本，而非户口登记（Teng & Wang, 2025, p.303）。
+- **小城市**（县城等）：积极接纳农村人口，获取当地城镇户口的门槛大幅降低。学校、医院、图书馆等公共设施对居民开放，不分户口状态。农村人口能否享受优质公共服务，更多取决于能否负担城镇生活成本，而非户口登记([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.303]])。
 
 ---
 
@@ -69,12 +68,9 @@ updated: 2026-05-26
 > [!warning]
 > 户口制度的变化并不意味着歧视的终结，而是歧视形式的转换。
 
-户口的行政性歧视正在隐性地被家庭社会经济地位的市场性歧视所替代（Teng & Wang, 2025, p.313）。在 G 县，县城学校已不设户口限制、不收[[School Choice|择校]]费，欢迎所有农村学生入学（p.306）。但县城生活的高昂成本（年均逾两万元）和经济门槛将贫困农村家庭挡在门外——"看得见的手"（户口限制）被"看不见的手"（市场筛选）所取代。
+户口的行政性歧视正在隐性地被家庭社会经济地位的市场性歧视所替代([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.313]])。在 G 县，县城学校已不设户口限制、不收[[School Choice|择校]]费，欢迎所有农村学生入学（p.306）。但县城生活的高昂成本（年均逾两万元）和经济门槛将贫困农村家庭挡在门外——"看得见的手"（户口限制）被"看不见的手"（市场筛选）所取代。
 
 这一转换为[[Peidu|陪读]]现象的社会分层提供了制度背景：2014 年户口改革为农村家庭打开了进入县城学校的大门，但进入哪扇门（甚至能否进入），则取决于家庭的经济资本和社会资本。
 
 ---
 
-## 来源
-
-- [[Teng_2025_CE]]

@@ -19,7 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -31,7 +32,7 @@ updated: 2026-06-01
 ## 内容
 
 > [!info]
-> Research Excellence Framework（REF）是英国自 2014 年起实施的全国性大学研究评估体系，前身为 Research Assessment Exercise（RAE，1998–2008）。REF 由英格兰研究署（Research England）、苏格兰资助委员会（SFC）、威尔士高等教育资助委员会（HEFCW）和北爱尔兰经济部联合运行。其核心功能是将各学科的研究产出评为从 4*（世界领先）到 unclassified 的等级，评估结果直接决定英格兰高等教育拨款委员会分配的 Quality-Related（QR）研究拨款的流向（Schulze-Cleven et al., 2017, pp.801–802）。
+> Research Excellence Framework（REF）是英国自 2014 年起实施的全国性大学研究评估体系，前身为 Research Assessment Exercise（RAE，1998–2008）。REF 由英格兰研究署（Research England）、苏格兰资助委员会（SFC）、威尔士高等教育资助委员会（HEFCW）和北爱尔兰经济部联合运行。其核心功能是将各学科的研究产出评为从 4*（世界领先）到 unclassified 的等级，评估结果直接决定英格兰高等教育拨款委员会分配的 Quality-Related（QR）研究拨款的流向([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.801–802]])。
 
 评估涵盖三个维度：研究产出质量（outputs，权重 60%）、研究影响（impact，权重 25%）、研究环境（environment，权重 15%）。评估以学科为单位（Units of Assessment），由同行评审小组进行。
 

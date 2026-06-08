@@ -25,9 +25,8 @@ related_persons:
   - "[[Tao Xingzhi]]"
 related_facts:
   - "[[New Education Movement]]"
-related_arguments: []
-sources:
-  - "[[Zhou_2024_CE]]"
+related_arguments:
+  - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -39,12 +38,12 @@ updated: 2026-05-26
 ## 背景
 
 > [!info]
-> 1912 年民国建立后沿用清末以日本学制为蓝本的教育体系，至 1919 年前后，在[[New Education Movement|新教育运动]]和[[John Dewey|杜威]]访华的刺激下，教育改革者要求彻底改造学制。1919 年全国教育联合会通过"废止教育宗旨、颁布教育本义"决议案，标志着旧体系的正式动摇（Zhou & Westberg, 2024, p.617）。
+> 1912 年民国建立后沿用清末以日本学制为蓝本的教育体系，至 1919 年前后，在[[New Education Movement|新教育运动]]和[[John Dewey|杜威]]访华的刺激下，教育改革者要求彻底改造学制。1919 年全国教育联合会通过"废止教育宗旨、颁布教育本义"决议案，标志着旧体系的正式动摇([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.617]])。
 
 ## 政策文本摘要
 
 > [!abstract]
-> 1922 年教育部颁布《学校系统改革案》("Decree on Reforming the Educational System")，以七项教育标准取代民国元年以社会需要为导向的"道德、实利、军国民教育"宗旨（Zhou & Westberg, 2024, p.617）。
+> 1922 年教育部颁布《学校系统改革案》("Decree on Reforming the Educational System")，以七项教育标准取代民国元年以社会需要为导向的"道德、实利、军国民教育"宗旨([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.617]])。
 
 七项标准如下（"Decree" 1922, p.1，引自 Zhou & Westberg, 2024, p.617）：
 
@@ -59,10 +58,10 @@ updated: 2026-05-26
 ## 时间线
 
 > [!note]
-> - **1919** — 全国教育联合会通过"废止教育宗旨"决议案（Zhou & Westberg, 2024, p.617）
-> - **1919–1922** — 教育改革者围绕新学制标准持续讨论，[[John Dewey|杜威]]在教育部、北京美术学校、徐州等地就学制、教育目标、教材组织发表演讲（Zhou & Westberg, 2024, pp.617）
-> - **1922-10** — 教育部召集学制会议，通过决议并颁布《学校系统改革案》（Zhou & Westberg, 2024, p.617）
-> - **1923** — 颁布新学制中小学课程纲要，引入学分制和课程整合（Zhou & Westberg, 2024, p.618）
+> - **1919** — 全国教育联合会通过"废止教育宗旨"决议案([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.617]])
+> - **1919–1922** — 教育改革者围绕新学制标准持续讨论，[[John Dewey|杜威]]在教育部、北京美术学校、徐州等地就学制、教育目标、教材组织发表演讲([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.617]])
+> - **1922-10** — 教育部召集学制会议，通过决议并颁布《学校系统改革案》([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.617]])
+> - **1923** — 颁布新学制中小学课程纲要，引入学分制和课程整合([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])
 
 ## 实施情况
 
@@ -82,21 +81,18 @@ updated: 2026-05-26
 > - 课程整合呼应杜威反二元论的知识连续性主张（Dewey [1916] 2018, pp.73, 353–354）。
 
 > [!warning] 淡化与偏离的部分
-> - "民主教育"标准仅保留"精神"（spirit），中文用词"平民"（pingmin）语义模糊——既可作"民主"解，亦可理解为"普及教育"（Zhou & Westberg, 2024, p.618）。
-> - "个性发展"标准忽视 1921 年已在讨论中的自由选择（free choice）维度，可为社会导向教育（而非儿童中心教育）服务（Zhou & Westberg, 2024, p.618）。
-> - 教育部指示"兼顾旧制以便实施"，改革者却将新旧对立而非纳入渐进改良框架——这与杜威的[[Pragmatism in China|实验主义]]路径相悖（Zhou & Westberg, 2024, p.618）。
+> - "民主教育"标准仅保留"精神"（spirit），中文用词"平民"（pingmin）语义模糊——既可作"民主"解，亦可理解为"普及教育"([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
+> - "个性发展"标准忽视 1921 年已在讨论中的自由选择（free choice）维度，可为社会导向教育（而非儿童中心教育）服务([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
+> - 教育部指示"兼顾旧制以便实施"，改革者却将新旧对立而非纳入渐进改良框架——这与杜威的[[Pragmatism in China|实验主义]]路径相悖([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
 
 ## 效果与评价
 
 > [!success]
-> - 从法理上废除了固定的教育宗旨，代之以灵活、多元的标准体系（Zhou & Westberg, 2024, p.617）。
-> - 引入学分制与课程整合，突破了此前僵化的科目-课时安排（Zhou & Westberg, 2024, p.618）。
+> - 从法理上废除了固定的教育宗旨，代之以灵活、多元的标准体系([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.617]])。
+> - 引入学分制与课程整合，突破了此前僵化的科目-课时安排([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
 
 > [!warning]
-> - 新学制缺乏财政支持和法律细化，遭北洋政府冷遇（Zhou & Westberg, 2024, p.619）。
-> - 激进地取消农业科目，与中国仍属农业国的国情脱节（Zhou & Westberg, 2024, p.618）。
+> - 新学制缺乏财政支持和法律细化，遭北洋政府冷遇([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.619]])。
+> - 激进地取消农业科目，与中国仍属农业国的国情脱节([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
 > - [[Tao Xingzhi|陶行知]]亦批评其激进性，呼吁"以科学的方法和态度温和改革学制"（Tao 1922, pp.129–130，引自 Zhou & Westberg, 2024, p.619）。
 
-## 来源
-
-- [[Zhou_2024_CE]]

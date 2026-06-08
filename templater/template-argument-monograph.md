@@ -5,6 +5,7 @@ authors:
   - "Author Two"
 year:
 doi: ""
+isbn: ""
 citation_aliases: []
 summary: ""
 type: argument
