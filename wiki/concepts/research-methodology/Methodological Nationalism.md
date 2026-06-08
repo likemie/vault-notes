@@ -66,6 +66,8 @@ updated: 2026-05-18
 
 > [!note]
 > 方法论民族主义概念由 Wimmer 和 Schiller（2003）在移民研究中系统提出，后由 Beck（2007）扩展至全球化理论。在高等教育研究中，Marginson 和 Rhoades（2002）的"全球-国家-地方能动性"（glonacal agency）框架和 Dale（2005）的"全球教育政策"研究较早挑战了这一预设。Marginson（2025）进一步论证，Massey 的[[Relational Space|关系性空间]]理论为超越方法论民族主义提供了最深层的本体论基础（Marginson, 2025, pp. 8–9）。
+>
+> Beech（2009）从比较教育研究的术语层面揭示了方法论民族主义的深层嵌入：比较教育中常用的"跨国"（transnational，字面意为跨越国家）和"国际"（international，字面意为国家之间）这两个术语本身就预设了"国家"层面或国家作为活动基础。即使 Dale 的"超国家"（supranational）概念——指一个独立于国家之外的分析层面——其定义仍以民族国家为基准来理解该空间。Beech 提出 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区分为彻底放弃国家作为空间参照提供了可能（Beech, 2009, pp.348–349）。
 
 ---
 
