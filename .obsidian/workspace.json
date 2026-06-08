@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a495521b1d33a8e7",
+        "id": "061aade8386f4c42",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9b2b64335da3db",
+            "id": "b83018ce7efe26fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/persons/france/Bruno Latour.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Bruno Latour"
             }
           }
         ]
@@ -184,8 +189,9 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "ae9b2b64335da3db",
+  "active": "b83018ce7efe26fb",
   "lastOpenFiles": [
+    "wiki/persons/canada-usa/Albert Bandura.md",
     "wiki/templates/template-person.md",
     "wiki/persons/index.md",
     "wiki/persons/usa/Fred N. Kerlinger.md",
@@ -193,7 +199,6 @@
     "wiki/persons/japan/Akira Miyake.md",
     "wiki/persons/chile/Humberto Maturana.md",
     "wiki/persons/chile/Francisco Varela.md",
-    "wiki/persons/canada-usa/Albert Bandura.md",
     "wiki/persons/argentina/Alejandro Artopoulos.md",
     "wiki/persons/argentina/Jason Beech.md",
     "CLAUDE.md",
