@@ -11,9 +11,12 @@ tags:
   - theme/geopolitics
   - theory/international-relations
 related_concepts:
+  - "[[Readings of the Global]]"
   - "[[Cross-National Attraction]]"
   - "[[Global Citizenship]]"
-related_theories: []
+related_theories:
+  - "[[Dependency Theory]]"
+  - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -47,7 +50,7 @@ updated: 2026-06-08
 ## 概念辨析
 
 > [!example]
-> - vs Cowen 的"阅读全球"（reading the global） — 注意力议程是阅读全球的具体机制：不同的国际关系传统就是不同的"阅读方式"，每种阅读方式照亮某些现象、遮蔽另一些现象。Cowen 的概念强调阅读行为本身，注意力议程则聚焦阅读的选择性后果。
+> - vs Cowen 的"[[Readings of the Global|阅读全球]]"（reading the global） — 注意力议程是阅读全球的具体机制：不同的国际关系传统就是不同的"阅读方式"，每种阅读方式照亮某些现象、遮蔽另一些现象。Cowen 的概念强调阅读行为本身，注意力议程则聚焦阅读的选择性后果。
 > - vs 研究议程（research agenda） — 研究议程通常指学者有意识规划的研究方向；注意力议程则更深层地植根于对国际社会性质的（往往不自觉的）预设，其运作先于有意识的研究规划。
 
 ---
@@ -73,14 +76,14 @@ updated: 2026-06-08
 
 - **在场**：中心—边缘的剥削关系；殖民遗产在新自由主义和全球化中的延续；替代性认识论和南方理论；去殖民化和多元世界（pluriversality）（pp.426–429）。
 - **缺席**：国家间竞争和权力政治的现实主义维度；改革性的渐进变化路径；非西方的帝国主义形式（pp.429–430）。
-- 示例：依附论比较教育学者揭示西方教育模式在殖民地和后殖民地的控制功能；后殖民/去殖民比较教育呼吁与西方认识论决裂（pp.427–429）。
+- 示例：[[Dependency Theory|依附论比较教育]]学者揭示西方教育模式在殖民地和后殖民地的控制功能；后殖民/去殖民比较教育呼吁与西方认识论决裂（pp.427–429）。
 
 ---
 
 ## 概念演变
 
 > [!note]
-> 注意力议程的概念根植于 Wight 的三大传统框架，但 Klerides（2023）将其从国际关系理论引入比较教育领域。在比较教育中，这一概念的独特贡献在于：它不仅描述比较教育的不同形态，还揭示了这些形态之间的"认识论张力"（epistemological tensions）和"认识论的混合"（intermixing of epistemologies）（p.431）。
+> 注意力议程的概念根植于 Wight 的三大传统框架，但 Klerides（2023）将其从[[Wight's Three Traditions of International Theory|国际关系理论]]引入比较教育领域。在比较教育中，这一概念的独特贡献在于：它不仅描述比较教育的不同形态，还揭示了这些形态之间的"认识论张力"（epistemological tensions）和"认识论的混合"（intermixing of epistemologies）（p.431）。
 
 Klerides 进一步指出，三大传统通过注意力议程帮助理解比较教育的不同开端、连续性与断裂、在场与缺席，进而揭示学术工作"在历史和政治上再生产或反对谁的权力"（p.431）。
 

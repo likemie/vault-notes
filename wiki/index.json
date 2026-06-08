@@ -379,6 +379,16 @@
     ]
   },
   {
+    "title": "Development Turn in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Development Turn in Comparative Education.md",
+    "aliases": [
+      "发展转向",
+      "比较教育的发展转向",
+      "development turn"
+    ]
+  },
+  {
     "title": "Educated Identity",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Educated Identity.md",
@@ -535,7 +545,9 @@
     "path": "wiki/concepts/comparative-education/Readings of the Global.md",
     "aliases": [
       "全球解读",
-      "readings of the global"
+      "readings of the global",
+      "reading the global",
+      "阅读全球"
     ]
   },
   {
@@ -5425,6 +5437,17 @@
     ]
   },
   {
+    "title": "Dependency Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Dependency Theory.md",
+    "aliases": [
+      "比较教育依附理论",
+      "依附论比较教育",
+      "dependency lens in comparative education",
+      "centre-periphery in comparative education"
+    ]
+  },
+  {
     "title": "Hofstede's Cultural Dimensions",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md",
@@ -5460,10 +5483,9 @@
     "path": "wiki/theories/comparative-education/Wight's Three Traditions of International Theory.md",
     "aliases": [
       "怀特国际理论三大传统",
-      "Realism Rationalism Revolutionism",
-      "现实主义 理性主义 革命主义",
       "国际关系三大传统",
-      "Wight's international theory"
+      "Wight's international theory",
+      "国际关系理论"
     ]
   },
   {
@@ -8707,6 +8729,16 @@
     "aliases": [
       "Danish Public School Reform 2014",
       "丹麦公立学校改革2014"
+    ]
+  },
+  {
+    "title": "Creation of CESE 1961",
+    "type": "fact",
+    "path": "wiki/facts/eu/Creation of CESE 1961.md",
+    "aliases": [
+      "欧洲比较教育学会成立",
+      "CESE",
+      "Comparative Education Society in Europe"
     ]
   },
   {

@@ -1,5 +1,5 @@
 ---
-title: Dependency Theory in Comparative Education
+title: Dependency Theory
 aliases:
   - 比较教育依附理论
   - 依附论比较教育
@@ -13,27 +13,30 @@ tags:
   - paradigm/critical
   - theme/colonialism
   - region/global
-related_concepts: []
+related_concepts:
+  - "[[Agendas of Attention]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
-sources: []
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
+sources:
+  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
 updated: 2026-06-08
 ---
 
-# Dependency Theory in Comparative Education
+# Dependency Theory
 
 ---
 
 ## 核心主张
 
 > [!tip]
-> 依附论比较教育（dependency theory in comparative education）是 1970 年代至 1980 年代初兴起于比较教育领域的新马克思主义理论路径。其核心主张是：西方主流的现代化理论和人力资本理论将"第三世界"的"欠发展"解释为一种需要外部干预来填补的"缺失"，这种解释本身就是殖民话语的延续。欠发展的真正原因是西方剥削和西方制定的资本主义世界秩序对穷国（以及西方内部的穷人）的结构性约束。比较教育的任务不是帮助"发展"这些国家，而是揭示这种剥削机制并设想社会转型的可能性（Klerides, 2023, pp.426–427）。
+> [[Dependency Theory|依附论比较教育]]（dependency theory in comparative education）是 1970 年代至 1980 年代初兴起于比较教育领域的新马克思主义理论路径。其核心主张是：西方主流的现代化理论和人力资本理论将"第三世界"的"欠发展"解释为一种需要外部干预来填补的"缺失"，这种解释本身就是殖民话语的延续。欠发展的真正原因是西方剥削和西方制定的资本主义世界秩序对穷国（以及西方内部的穷人）的结构性约束。比较教育的任务不是帮助"发展"这些国家，而是揭示这种剥削机制并设想社会转型的可能性（Klerides, 2023, pp.426–427）。
 
 > [!quote]
 > "How do we change a society that colonizes people to accept dominated roles, roles that are defined by a powerful, self-perpetuating group?"（Carnoy, 1974, p.369）
@@ -43,7 +46,7 @@ updated: 2026-06-08
 ## 核心命题
 
 > [!abstract]
-> 依附论比较教育的主要命题（Klerides, 2023, pp.426–427）：
+> [[Dependency Theory|依附论比较教育]]的主要命题（Klerides, 2023, pp.426–427）：
 
 ### 拒绝现代化理论的"缺失"解释
 
@@ -67,7 +70,7 @@ updated: 2026-06-08
 
 > [!note]
 > - **1974 年**：Carnoy 出版 Education as Cultural Imperialism，从依附论视角系统分析教育在殖民和新殖民秩序中的角色，提出"我们如何改变一个殖民人们接受被支配角色的社会"（Klerides, 2023, p.426）。
-> - **1977 年**：Altbach 发表"Servitude of the Mind? Education, Dependency and Neo-Colonialism"，分析教育在生产和再生产"心灵的奴役"中的作用，论证依附论比较教育的使命在于帮助被压迫者"看见"教育在维持其从属地位中的角色（p.427）。
+> - **1977 年**：Altbach 发表"Servitude of the Mind? Education, Dependency and Neo-Colonialism"，分析教育在生产和再生产"心灵的奴役"中的作用，论证[[Dependency Theory|依附论比较教育]]的使命在于帮助被压迫者"看见"教育在维持其从属地位中的角色（p.427）。
 > - **1978 年**：Altbach 和 Kelly 编辑 Education and Colonialism，汇集了依附论视角下的殖民教育研究。
 > - **1980 年**：Arnove 发表两篇重要论文——"Comparative Education and World-Systems Analysis"将世界体系分析引入比较教育，"Philanthropy and Cultural Imperialism"分析慈善基金会作为文化帝国主义工具的角色。Watson 出版 Education in the Third World。
 > - **1990 年**：Carnoy 和 Samoff 出版 Education and Social Transition in the Third World，将依附论分析延伸至第三世界的社会革命，关注教育在从资本主义向社会主义过渡中的重建角色（p.427）。
@@ -95,7 +98,7 @@ updated: 2026-06-08
 ## 相关研究
 
 > [!example]
-> - [[Argument_Klerides_2023_CE]] — Klerides 将依附论比较教育置于革命主义国际关系传统中，论证其注意力议程如何使比较教育从"有用的科学"转变为道德和批判的事业
+> - [[Argument_Klerides_2023_CE]] — Klerides 将[[Dependency Theory|依附论比较教育]]置于革命主义国际关系传统中，论证其[[Agendas of Attention|注意力议程]]如何使比较教育从"有用的科学"转变为道德和批判的事业
 
 ---
 

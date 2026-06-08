@@ -12,13 +12,15 @@ tags:
   - theme/colonialism
   - theme/cold-war
   - region/global
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -76,7 +78,7 @@ updated: 2026-06-08
 > 发展转向的演变脉络（Klerides, 2023, pp.421–423）：
 
 > [!note] 第一阶段：冷战驱动的发展转向
-> 二战后至 1970 年代，发展转向的核心动力是美苏冷战竞争。教育被视为争取新独立国家的关键战场。国际组织在这一时期被创建或转型以服务于发展议程。UNESCO 国际教育规划研究所（IIEP）于 1963 年成立，由前美国教育助理国务卿 Philip Coombs 担任首任主任，世界银行和福特基金会为主要合作伙伴。OECD 于 1961 年从 OEEC 演变而来，OEEC 本身是美国于 1948 年为管理欧洲复兴计划而创建的。这些机构的核心使命是为发展中国家的教育规划提供技术援助以促进经济增长。
+> 二战后至 1970 年代，发展转向的核心动力是美苏冷战竞争。教育被视为争取新独立国家的关键战场。国际组织在这一时期被创建或转型以服务于发展议程。UNESCO [[International Education|国际教育]]规划研究所（IIEP）于 1963 年成立，由前美国教育助理国务卿 Philip Coombs 担任首任主任，世界银行和福特基金会为主要合作伙伴。OECD 于 1961 年从 OEEC 演变而来，OEEC 本身是美国于 1948 年为管理欧洲复兴计划而创建的。这些机构的核心使命是为发展中国家的教育规划提供技术援助以促进经济增长。
 >
 > 教育规划重要性的理论基础来自一种技术官僚和经济学化的教育观：将教育视为投资。这种观点源自 Sputnik 冲击之后在美国政府和学术界兴起的教育经济学运动，其核心关注是科学、数学和语言。由 C. Arnold Anderson 于 1958 年在芝加哥大学创立的比较教育中心，在融合比较教育与教育经济学方面发挥了关键作用（Brehm, 2023）。该中心与美国发起并资助的国际项目（马歇尔计划、进步联盟、地中海区域项目）一起，帮助人力资本理论在全球扩散。
 
