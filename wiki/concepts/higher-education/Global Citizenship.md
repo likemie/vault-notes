@@ -20,11 +20,13 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Student-Teacher Relationship]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_persons: []
 related_facts: []
 related_arguments: []
 sources:
+  - "[[Klerides_2023_CE]]"
   - "[[SpronkenSmith_2024_AEHE]]"
   - "[[Wong_2022_HERD]]"
 confidence: low
@@ -48,7 +50,7 @@ updated: '2026-05-26'
 ## 概念辨析
 
 > [!example]
-> - vs **积极公民身份（active citizenship）** — Senekal, Munnik, and Frantz（2022）的系统综述使用"积极公民身份"作为博士特质的十域之一，侧重国内公民参与。Spronken-Smith et al.（2024）在构建七域分类时将其[[Revoicing|重铸]]为"全球公民"，以反映全球就业环境中跨文化和跨国界的能力需求（p.98）
+> - vs **积极公民身份（active citizenship）** — Senekal, Munnik, and Frantz（2022）的[[Systematic Review|系统综述]]使用"积极公民身份"作为博士特质的十域之一，侧重国内公民参与。Spronken-Smith et al.（2024）在构建七域分类时将其[[Revoicing|重铸]]为"全球公民"，以反映全球就业环境中跨文化和跨国界的能力需求（p.98）
 > - vs [[Graduate Attributes|毕业生特质]] — 全球公民是毕业生特质的一个组成部分（在本科话语中约 70% 的 UK 大学将其纳入，在博士七域分类中为七个域之一），而非毕业生特质的同义词（Wong et al., 2022, p.1347; Spronken-Smith et al., 2024, p.98）
 > - vs **全球胜任力（global competence）** — 近义概念，但全球公民更强调公民责任、社会正义和环境伦理的伦理维度，全球胜任力更侧重跨文化工作中的功能性技能
 
@@ -130,9 +132,9 @@ Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球�
 - Porter（2021）提出通过与外部合作伙伴的高影响力培训机会来培养全球公民属性，但坦承这需要资源配置和"导师文化的转变"（引自 Spronken-Smith et al., 2024, p.97）
 
 ### 比较教育中的概念争议
-Klerides（2023）从国际关系理论角度提出了对全球公民概念的双重批判。在[[Wight's Three Traditions of International Theory|理性主义]]视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象（Klerides, 2023, pp.425–426）。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
+Klerides（2023）从国际关系理论角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象（Klerides, 2023, pp.425–426）。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
 
-在[[Wight's Three Traditions of International Theory|革命主义]]视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念（Klerides, 2023, p.429）。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的再西方化（re-Westernisation）。
+在革命主义视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念（Klerides, 2023, p.429）。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的再西方化（re-Westernisation）。
 
 ---
 

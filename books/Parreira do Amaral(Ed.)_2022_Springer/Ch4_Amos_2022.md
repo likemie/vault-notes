@@ -16,7 +16,6 @@ extracted_to:
   - "[[Transitology]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
-  - "[[Sputnik Shock 1957]]"
   - "[[Francisco Varela]]"
   - "[[Humberto Maturana]]"
   - "[[Arturo Escobar]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Educational Technology Industry]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Learning Analytics]]"
+  - "[[Sputnik Shock 1957]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

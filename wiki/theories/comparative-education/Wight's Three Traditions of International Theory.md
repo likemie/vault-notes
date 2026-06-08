@@ -12,13 +12,17 @@ tags:
   - theory/international-relations
   - subject/comparative-education
   - theme/geopolitics
-related_concepts: []
+related_concepts:
+  - "[[Agendas of Attention]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Immanuel Kant]]"
 related_facts: []
-related_arguments: []
-sources: []
+related_arguments:
+  - "[[Argument_Klerides_2023_CE]]"
+sources:
+  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -60,7 +64,7 @@ updated: 2026-06-08
 
 ### 革命主义（Revolutionism）
 
-- 对应 Kant 传统。政治的终极现实不是国家间关系，而是国家内部个体与群体之间的关系。终极现实是一个普遍的人类共同体。
+- 对应 [[Immanuel Kant|Kant]] 传统。政治的终极现实不是国家间关系，而是国家内部个体与群体之间的关系。终极现实是一个普遍的人类共同体。
 - 核心概念是武力（force）：推翻权力以执行革命教义、进行必要重建的能力。
 - 革命主义同样诉诸道德，但道德不是要求国家成为好成员的行为规则，而是要求所有人为人类博爱而工作的道德统一。
 - 世界被划分为忠于世界国家愿景者与阻挡者两类。前者具有"世界主义而非国际主义"的特征和"传教性质"（Wight, 1992, p.8）。
@@ -72,7 +76,7 @@ updated: 2026-06-08
 > [!note]
 > - **1950 年代末至 1960 年代**：Martin Wight 在伦敦政治经济学院（LSE）的系列讲座中提出三大传统框架，讲座内容于 1990 年代初由 Gabriele Wight 和 Brian Porter 整理出版为 International Theory: The Three Traditions（Wight, 1992）。
 > - **1970 年代至今**：三大传统成为英国学派（English School）国际理论的基础，由 Hedley Bull 等学者进一步发展和传播（Navari and Green, 2014）。
-> - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"注意力议程"（agendas of attention），分别产生现实主义、理性主义和革命主义的比较教育形态（Klerides, 2023）。
+> - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"[[Agendas of Attention|注意力议程]]"（agendas of attention），分别产生现实主义、理性主义和革命主义的比较教育形态（Klerides, 2023）。
 
 ---
 
@@ -87,7 +91,7 @@ updated: 2026-06-08
 ## 争议与批评
 
 > [!warning]
-> - **欧洲中心主义**：Hedley Bull 承认三大传统"过度欧洲中心"（Bull, in Wight, 1992, pp.xviii, xxii）。三大传统的代表人物（Machiavelli、Grotius、Kant）均来自西欧思想传统，对非西方国际关系思想的涵盖不足。
+> - **欧洲中心主义**：Hedley Bull 承认三大传统"过度欧洲中心"（Bull, in Wight, 1992, pp.xviii, xxii）。三大传统的代表人物（Machiavelli、Grotius、[[Immanuel Kant|Kant]]）均来自西欧思想传统，对非西方国际关系思想的涵盖不足。
 > - **理想类型的局限**：作为"理想类型"，三大传统在经验现实中往往以混合、竞争和交叉的形态存在，单一传统的纯粹形态更多是分析工具而非经验描述（Klerides, 2023, p.431）。
 
 ---

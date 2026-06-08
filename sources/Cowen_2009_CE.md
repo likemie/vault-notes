@@ -4,9 +4,9 @@ extracted_to:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Geometries of Insertion]]"
   - "[[Shape-Shifting]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Transitology]]"
   - "[[Robert Cowen]]"
+  - "[[Transfer Translation Transformation]]"
 processed_date: 2026-06-06
 ---
 

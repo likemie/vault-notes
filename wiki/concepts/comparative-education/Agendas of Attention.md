@@ -10,13 +10,18 @@ tags:
   - subject/comparative-education
   - theme/geopolitics
   - theory/international-relations
-related_concepts: []
+related_concepts:
+  - "[[Cross-National Attraction]]"
+  - "[[Global Citizenship]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sputnik Shock 1957]]"
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -30,19 +35,19 @@ updated: 2026-06-08
 ## 定义
 
 > [!info]
-> 注意力议程（agendas of attention）是比较教育中的一对概念，指不同国际关系传统使比较教育研究选择性关注某些问题（presences，在场）而忽略另一些问题（absences，缺席）。这对概念由 Klerides（2023）在运用 Wight [[Wight's Three Traditions of International Theory|国际理论三大传统]]解读比较教育时提出（p.416）。
+> 注意力议程（agendas of attention）是比较教育中的一对概念，指不同国际关系传统使比较教育研究选择性关注某些问题（presences，在场）而忽略另一些问题（absences，缺席）。这对概念由 Klerides（2023）在运用 Wight 国际理论三大传统解读比较教育时提出（p.416）。
 
 > [!quote]
 > "the three traditions offer different 'readings of the global' and make possible 'multiple comparative educations'"（Klerides, 2023, p.417）
 
-具体而言，三大传统各自定义了什么值得比较、谁有资格比较、比较应服务于什么目的，由此生产出"多重的比较教育"（[[Robert Cowen|Cowen]], 2000）。注意力的在场与缺席不是中立的学术选择，而是深嵌于对国际社会性质的理解之中（Klerides, 2023, pp.417, 429–431）。
+具体而言，三大传统各自定义了什么值得比较、谁有资格比较、比较应服务于什么目的，由此生产出"多重的比较教育"（Cowen, 2000）。注意力的在场与缺席不是中立的学术选择，而是深嵌于对国际社会性质的理解之中（Klerides, 2023, pp.417, 429–431）。
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Robert Cowen|Cowen]] 的"阅读全球"（reading the global） — 注意力议程是阅读全球的具体机制：不同的国际关系传统就是不同的"阅读方式"，每种阅读方式照亮某些现象、遮蔽另一些现象。Cowen 的概念强调阅读行为本身，注意力议程则聚焦阅读的选择性后果。
+> - vs Cowen 的"阅读全球"（reading the global） — 注意力议程是阅读全球的具体机制：不同的国际关系传统就是不同的"阅读方式"，每种阅读方式照亮某些现象、遮蔽另一些现象。Cowen 的概念强调阅读行为本身，注意力议程则聚焦阅读的选择性后果。
 > - vs 研究议程（research agenda） — 研究议程通常指学者有意识规划的研究方向；注意力议程则更深层地植根于对国际社会性质的（往往不自觉的）预设，其运作先于有意识的研究规划。
 
 ---
@@ -54,15 +59,15 @@ updated: 2026-06-08
 
 ### 现实主义注意力议程
 
-- **在场**：以民族国家为比较单位；关注教育系统的国家管理、跨国吸引与借用；将比较教育视为帮助国家提升权力地位的实用工具；聚焦"高效"教育系统和"最佳实践"（p.420）。
+- **在场**：以民族国家为比较单位；关注教育系统的国家管理、[[Cross-National Attraction|跨国吸引]]与借用；将比较教育视为帮助国家提升权力地位的实用工具；聚焦"高效"教育系统和"最佳实践"（p.420）。
 - **缺席**：民族国家之外的行动者和空间尺度；教育转移中权力的不对称运作；比较教育参与殖民和帝国扩张的历史（p.421）。
 - 示例：Sputnik 冲击（[[Sputnik Shock 1957]]）后美国转向苏联的科学教育模式、日本明治时期同时向美法德三国学习不同教育模块（pp.420–421）。
 
 ### 理性主义注意力议程
 
-- **在场**：跨国和全球治理网络；国际组织、跨国倡议网络和非国家行动者的角色；教育作为促进国际理解与和平的工具；全球公民身份和多元身份认同（pp.424–426）。
+- **在场**：跨国和全球治理网络；国际组织、跨国倡议网络和非国家行动者的角色；教育作为促进国际理解与和平的工具；[[Global Citizenship|全球公民]]身份和多元身份认同（pp.424–426）。
 - **缺席**：全球治理中的权力集中和不平等；国际组织议程背后的国家权力推动；去政治化的技术治理话语（pp.424–426）。
-- 示例：[[UNESCO]] 通过教科书比较消除民族中心主义；OECD 的 [[PISA]] 通过基准测试从远处推动教育改革（p.425）。
+- 示例：UNESCO 通过教科书比较消除民族中心主义；OECD 的 [[PISA]] 通过基准测试从远处推动教育改革（p.425）。
 
 ### 革命主义注意力议程
 

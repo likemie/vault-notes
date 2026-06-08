@@ -39,6 +39,7 @@ related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 sources:
   - "[[Ch9_Zapp_2022]]"
+  - "[[Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -110,7 +111,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 ### 批评与经验检验
 
 - 2015 年 Silova & Brehm 批判性地审视该理论，质疑从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在规范性上再生产了西方中心主义。
-- Klerides（2023）将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物（Klerides, 2023, pp.425–426）。这一辩论是[[Wight's Three Traditions of International Theory|理性主义]]比较教育内部的核心理论张力。
+- Klerides（2023）将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物（Klerides, 2023, pp.425–426）。这一辩论是理性主义比较教育内部的核心理论张力。
 - 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同假设难以解释国家安全的突变性介入**（Yan & Morris, 2025, pp.491–492）。详见 [[Argument_Yan_2025_JCS]]。
 
 ---
