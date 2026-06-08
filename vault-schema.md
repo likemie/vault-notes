@@ -11,13 +11,13 @@
 - `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
 - 新建 Concept / Theory / Method / Fact / Person 条目时，必须在同一任务的 Argument 页中至少用一句话提及并链接该条目；新增条目必须出现在当前 Argument 的正文论证中，不只出现在 frontmatter、`related_*` 或 `## 来源`。不要创建与 Argument 页脱节的孤立条目。
-- 所有来源性陈述都必须标注页码。非 Argument 条目使用来源与页码；Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。
+- 所有来源性陈述都必须标注页码。非 Argument 条目通过 APA 短引用链接到对应 Argument；Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。
 - 不使用来源以外的知识；不确定时宁可不写。
-- AI 不手动维护生成字段：`related_*`、YAML `sources`、source record 的 `extracted_to`。
+- AI 不手动维护生成字段：`related_*`、Argument YAML `sources`、source record 的 `extracted_to`。
 - Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
-- 新建、移动、删除、重命名条目后，只自动运行 `.venv/bin/python3 scripts/wiki_index.py` 重建索引；是否继续运行补链、关系同步与 lint，由用户确认。
-- 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 alias/title 变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
+- 新建、移动、删除、重命名条目后，只自动运行基础索引：`wiki_index.py` 与 `citation_index.py`；是否继续运行补链、关系同步与 lint，由用户确认。
+- 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
 
@@ -28,18 +28,18 @@
 1. 读取 `vault-schema.md`；若用户明确说明是专著、论文集或教材，转入 `Specialized Schemas`；若用户未说明类型，按普通论文／期刊论文流程处理。
 2. 读取原始文件并提取可读文本；此时不创建 source record。
 3. 扫描文献，同时判断三类事项：需要建立或更新哪些知识对象，是否为实证研究，是否包含需要占位的 figure。table 默认复刻为 Markdown 表格。
-4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；正文 `## 来源` 和所有受影响条目的 `## 来源` 可先写 `[[<论文命名>]]`，即使 source record 尚未生成。
+4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；Argument 页正文 `## 来源` 可先写 `[[<论文命名>]]`，即使 source record 尚未生成。
 5. 为每个候选知识对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹、证据页码和独立成条理由。
 6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
 7. 将候选分为待更新和待新建。
 8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
 9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
 10. 实证研究必须更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
-11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink，不得只存在于新条目自身或来源列表中。
-12. 更新所有受影响条目的正文 `## 来源`：只放 source wikilink，按来源年份从早到晚排序，同一年按作者或机构字母顺序。
+11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
+12. 非 Argument 条目不写 YAML `sources` 和正文 `## 来源`；来源性陈述通过 APA 短引用链接到对应 Argument，由 `related_arguments` 承载文献关系。
 13. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；报告、政策文件、白皮书用 `source_record.py report --record-name <论文命名>`。
 14. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
-15. 自动运行 `.venv/bin/python3 scripts/wiki_index.py`。
+15. 自动运行基础索引：`.venv/bin/python3 scripts/wiki_index.py` 与 `.venv/bin/python3 scripts/citation_index.py`。
 16. 询问用户是否继续运行标准脚本流程。
 
 
@@ -84,30 +84,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 
 ### Sync Decision
 
-- 自动步骤只运行：
-
-```bash
-.venv/bin/python3 scripts/wiki_index.py
-```
-
-- 用户确认后，运行标准增量流程：
-
-```bash
-.venv/bin/python3 scripts/wiki_linker.py sync
-.venv/bin/python3 scripts/wiki_relations.py sync
-.venv/bin/python3 scripts/wiki_index.py
-.venv/bin/python3 scripts/vault_lint.py
-```
-
-- 非必要不要运行 full。必须 full 时才运行：
-
-```bash
-.venv/bin/python3 scripts/wiki_index.py
-.venv/bin/python3 scripts/wiki_linker.py sync --full
-.venv/bin/python3 scripts/wiki_relations.py sync --full
-.venv/bin/python3 scripts/wiki_index.py
-.venv/bin/python3 scripts/vault_lint.py --full
-```
+脚本流程统一见第 5 节。普通任务完成后只运行基础索引，是否继续补链、同步关系和 lint 由用户确认。
 
 ---
 
@@ -124,10 +101,14 @@ schema/                      专项工作流 schema，按任务触发读取
 templater/                   Obsidian Templater 插件模板镜像；AI 工作流读取 wiki/templates/
 scripts/
   wiki_index.py
+  citation_index.py
   wiki_linker.py
   wiki_relations.py
   vault_lint.py
   source_record.py
+citation/
+  citation_full.json          可引用 Argument 的全量索引
+  citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -178,7 +159,9 @@ wiki/
 - `title` 是知识对象的正式名称；文件名通常等于 `title`。
 - 文件名和 `title` 不使用 tag 风格 slug。
 - 标题表达归属关系时，优先使用自然英文结构，如 `Van Leeuwen's Legitimation Theory`、`Teaching Theory of Gruschka`。
-- Concept / Theory / Method / Fact / Person 的标题和文件名默认不得带括号；来源、人名、年份、地区、缩写放入 `aliases` 或正文说明。只有括号属于固定名称本身时才例外，如 `SF (Haraway)`。
+- Concept / Theory / Method / Fact 的标题和文件名默认不得带括号；来源、人名、年份、地区、缩写放入 `aliases` 或正文说明。只有括号属于固定名称本身时才例外，如 `SF (Haraway)`。
+- Person 命名细则按 `template-person.md` 执行。
+- Argument 文件名和 `title` 使用稳定技术命名，通常保持一致；APA 短引用写入 citation 字段和正文 wikilink 显示文本，不写入 `title` 或 `aliases`。
 - 缩写、中文译名、常见变体放入 `aliases`，不要为了缩写改变标题。
 - 如果正式英文标题含冒号，frontmatter `title` 可保留；文件名需要规避 `:` 时用空格或短横，不用 `_`。
 
@@ -213,13 +196,32 @@ OECD_2018_GlobalCompetence
 
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
-- Person 的 `aliases` 主要写中文全称；只有非常著名或中文文献中常用简称的人物才写简称，如 `杜威`、`皮亚杰`、`布迪厄`、`阿普尔`、`哈蒂`。
+- Person 的 `aliases` 按 `template-person.md` 执行。
 - 页面中人名第一次出现时使用全名，采用中文名（英文名）格式；后续不作规定。
 - 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
 - 若 title 与缩写已经分别覆盖，不再写 `Full Name (ABBR)` 形式的 alias。
 - 不要写过短、过宽或 tag 风格 slug alias，如“资本”“文化”“教育”“政策”“课程”“能力”“国家”“公平”。
 - 不要轻易写单个汉字 alias；只有该字作为独立术语有强识别度时才保留。
+
+### Citation Index Rules
+
+`citation/` 存放可引用 Argument 的引用索引，由 `scripts/citation_index.py` 生成。
+
+```text
+citation/
+  citation_full.json          可引用 Argument 的全量索引
+  citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
+```
+
+Citation 字段按对应 Argument 模板执行。`citation_stem` 使用第一作者、机构作者或整本书作者的简称与年份，格式为 `Family|Year` 或 `Organization|Year`。同一 `citation_stem` 有多篇可引用文献时，`citation_suffix` 使用 `a`、`b`、`c`。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+
+正文引用当前 Argument 之外的已处理文献时，统一使用 APA 短引用：
+
+- 括号式：`(Ball, 2008a)`、`(Ball, 2008a, p. 12)`、`(Ball, 2008a, pp. 12–15)`。
+- 叙述式：`Ball (2008a)`、`Ball (2008a, p. 12)`、`Ball (2008a, pp. 12–15)`。
+
+Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.147–148）。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。
 
 ### tags
 
@@ -230,18 +232,19 @@ OECD_2018_GlobalCompetence
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、补链、关系字段和 source 记录。`wiki_linker.py sync`、`wiki_relations.py sync` 与 `vault_lint.py` 默认使用 git 增量模式，只处理当前变动文件；日常不需要显式添加 `--git`，更不要默认使用 `--full`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`citation_index.py` 先生成文献引用索引，`wiki_linker.py` 再维护普通知识链接，`vault_lint.py` 统一检查 Markdown、frontmatter、关系字段和 citation 规则。日常使用增量模式，非必要不使用 `--full`。
 
 ### Automatic Step
 
-每次处理完条目、书籍章节、source 记录、模板或 schema 后，AI 只自动运行索引重建：
+每次处理完条目、书籍章节、source 记录、模板或 schema 后，AI 只自动运行基础索引：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/citation_index.py
 ```
 
-不要自动运行 `wiki_linker.py`、`wiki_relations.py` 或 `vault_lint.py`。完成索引重建后，询问用户是否运行标准脚本流程。
+不要自动运行 `wiki_linker.py`、`wiki_relations.py` 或 `vault_lint.py`。完成基础索引后，询问用户是否运行标准脚本流程。
 
 ### Standard Script Flow
 
@@ -249,6 +252,8 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
+.venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/citation_index.py
 .venv/bin/python3 scripts/wiki_linker.py sync
 .venv/bin/python3 scripts/wiki_relations.py sync
 .venv/bin/python3 scripts/wiki_index.py
@@ -259,7 +264,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 非必要不要运行 full。只有在以下情况才全量同步与检查：
 
-- 批量修改 `title` 或 `aliases`。
+- 批量修改 `title`、`aliases` 或 citation 字段。
 - 批量移动、删除、重命名 wiki 条目。
 - 使用 `source_record.py finalize --rename` 批量重命名 source record 和 PDF 后。
 - 怀疑 wikilink、`related_*`、YAML `sources` 或 source record 的 `extracted_to` 状态不同步。
@@ -271,6 +276,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/citation_index.py
 .venv/bin/python3 scripts/wiki_linker.py sync --full
 .venv/bin/python3 scripts/wiki_relations.py sync --full
 .venv/bin/python3 scripts/wiki_index.py
@@ -286,17 +292,18 @@ cd /Users/shaoyangwu/Documents/MyNotes
 移动 wiki 条目时：
 
 - 只移动文件本身，不手动编辑 `wiki/index.json`、`wiki/index.md`、各类型索引页或 generated fields。
-- 批量移动 journal article Argument 时，按 `journal` 字段创建或复用 `wiki/arguments/journal-articles/<journal-name>/`，移动后立即运行 `.venv/bin/python3 scripts/wiki_index.py`。
-- 若移动涉及正文中的 vault-root 图片路径、source record 的反向关系，或移动后索引 / 链接检查异常，再运行 `wiki_linker.py sync --full`、`wiki_relations.py sync --full` 与 `vault_lint.py --full`。
+- 批量移动 journal article Argument 时，按 `journal` 字段创建或复用 `wiki/arguments/journal-articles/<journal-name>/`，移动后立即运行 `wiki_index.py` 与 `citation_index.py`。
+- 若移动涉及正文中的 vault-root 图片路径、source record 的反向关系，或移动后索引 / 链接检查异常，再运行标准 full sync。
 
 ### Wikilink and Relation Rules
 
 - wikilink 由 `wiki_linker.py` 自动维护，依据是 `title` 和 `aliases`。
 - 页面中人名第一次出现时使用全名，采用中文名（英文名）格式；后续不作规定。
-- `## 来源` / `## Sources` 章节只放 source wikilink。
-- wiki 条目的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
-- source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从所有 wiki 条目的 `## 来源` 章节反向同步。
+- 只有 Argument 页使用 `## 来源` / `## Sources` 章节，且只放 source wikilink。
+- Argument 页的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
+- source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从 Argument 页的 `## 来源` 章节反向同步。
 - `sources/` 与 `books/` 下的 source record 不是普通 wiki 条目，不进入 `related_*` 自动维护逻辑。
+- Concept / Theory / Method / Person / Fact 不写 YAML `sources` 和正文 `## 来源`；正文中的 Argument 链接同步到 `related_arguments`。
 
 ---
 
@@ -340,11 +347,11 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 ### Source Files
 
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
-- 普通论文或报告先确定最终 `<论文命名>`，Argument 与相关条目的 `## 来源` 可先写 `[[<论文命名>]]`；source record 在 Argument 页写好后用 `source_record.py article` 或 `source_record.py report` 生成。
+- 普通论文或报告先确定最终 `<论文命名>`，Argument 的 `## 来源` 可先写 `[[<论文命名>]]`；source record 在 Argument 页写好后用 `source_record.py article` 或 `source_record.py report` 生成。
 - 普通论文或报告处理完成并写好 Argument 页后，再用 `source_record.py finalize --rename` 回填 citation。
 - 若普通论文或报告有 figure 或无法读取的 table，使用 `source_record.py finalize --rename --with-figures`，并按「Figure 和 Table 处理」写图片占位；可读 table 必须复刻为 Markdown 表格。
 - 书籍来源记录按对应专项 schema 执行。
-- `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
+- `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑；`extracted_to` 只从 Argument 页反向同步。
 
 ---
 
@@ -448,9 +455,9 @@ Argument 引用规则：
 - 插入位置优先级：同主题已有段落或列表 → 对应章节末尾 → 新增 `###` 子主题 → 新增模板允许的章节。
 - 每条新增信息附来源页码。
 - 更新 frontmatter 的 `updated`，需要时更新 `confidence`。
-- 不手动更新 `related_*`、`sources`、`extracted_to`，交由脚本同步。
+- 不手动更新 `related_*`、Argument `sources`、source record `extracted_to`，交由脚本同步。
 - 在正文中自然使用 wikilink，脚本会自动维护 frontmatter 关系。
-- 更新正文 `## 来源` 章节时只保留 source wikilink，按来源年份从早到晚排序；同一年按作者或机构字母顺序排列。新增来源不要简单追加到末尾。
+- 只有 Argument 页更新正文 `## 来源` 章节；非 Argument 条目用 Argument 短引用承载来源关系。
 
 章节组织：默认先按主题或模板逻辑分组，再在组内按时间或论证顺序排列；分点少于 8 条时可直接按逻辑顺序排列；分点达到 8 条或以上时按 `###` 子主题分组，组内按时间排列；争议章节按立场分组；发展脉络按时间顺序；来源列表只按时间排序，不分主题。
 
