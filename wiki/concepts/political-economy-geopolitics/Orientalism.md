@@ -27,11 +27,13 @@ related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"
 related_facts:
+  - "[[PISA]]"
   - "[[National Education]]"
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
   - "[[Ch6_Rizvi_2022]]"
+  - "[[Klerides_2023_CE]]"
   - "[[Vickers_2024_CE]]"
 confidence: low
 status: draft
@@ -84,6 +86,9 @@ updated: '2026-05-18'
 > Rizvi 进一步指出，虽然大学积极推动与亚洲的跨国研究合作，但"这种合作要么剥削非西方传统，要么再生产不对称的权力模式"（Rizvi, 2022, p.101）。即使在平等合作的话语下，研究议程的设置、方法论的合法性、出版语言的优先性等方面仍然以西方为中心——东方主义在此不是以排斥的形式运作，而是以**吸纳但边缘化**的形式运作。
 >
 
+> [!info] 比较教育中的东方主义：[[PISA]] 与种族焦虑
+> Klerides（2023, p.428）指出，东方主义在比较教育中的一个当代表现是西方媒体对亚洲 PISA 高表现者的回应。Takayama（2018a）、You（2019）和 Grey & Morris（2022）的研究表明，西方媒体将东亚教育系统的 PISA 成功同时呈现为灵感和威胁——"亚洲人既聪明又危险"的二元叙事延续了东方主义的遗产。这种回应并非纯粹的教育分析，而是受到历史和地缘政治塑造的种族焦虑的驱动。东方主义在此不是以"东方落后于西方"的旧形式运作，而是以"东方在特定领域超越西方从而构成威胁"的新形式延续。
+
 ## 核心要素
 
 > [!abstract] 核心要素
@@ -112,4 +117,5 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Ch6_Rizvi_2022]]
+- [[Klerides_2023_CE]]
 - [[Vickers_2024_CE]]

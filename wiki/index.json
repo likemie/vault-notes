@@ -4430,7 +4430,8 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Methodological Nationalism.md",
     "aliases": [
-      "方法论民族主义"
+      "方法论民族主义",
+      "方法论国家主义"
     ]
   },
   {
@@ -5441,8 +5442,8 @@
     "type": "theory",
     "path": "wiki/theories/comparative-education/Dependency Theory.md",
     "aliases": [
-      "比较教育依附理论",
-      "依附论比较教育",
+      "依附理论",
+      "依附论",
       "dependency lens in comparative education",
       "centre-periphery in comparative education"
     ]

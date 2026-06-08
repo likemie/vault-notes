@@ -67,7 +67,6 @@ extracted_to:
   - "[[Zhu Xi]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[René Descartes]]"
-  - "[[Immanuel Kant]]"
   - "[[Plato]]"
   - "[[Socrates]]"
   - "[[Bertrand Russell]]"
@@ -91,6 +90,7 @@ extracted_to:
   - "[[Cram Schools]]"
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Mother-Child Conversation]]"
+  - "[[Immanuel Kant]]"
 processed_date: 2026-05-25
 ---
 

@@ -3,7 +3,6 @@ citation: "Cowen, R. (2023). Comparative education: and now? Comparative Educati
 extracted_to:
   - "[[Deductive Rationality]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Readings of the Global]]"
   - "[[Edmund King]]"
   - "[[Robert Cowen]]"
   - "[[Totally Pedagogised Society]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Outcomes-based Education]]"
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Andreas Kazamias]]"
+  - "[[Readings of the Global]]"
 processed_date: 2026-06-07
 ---
 

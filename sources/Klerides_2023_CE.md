@@ -17,6 +17,9 @@ extracted_to:
   - "[[Comparative Education Society in Europe]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Joseph Lauwerys]]"
+  - "[[Readings of the Global]]"
+  - "[[Orientalism]]"
+  - "[[Immanuel Kant]]"
 processed_date: 2026-06-08
 ---
 

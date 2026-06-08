@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Vickers_2024_CE]]"
   - "[[Culturalisation of Politics]]"
   - "[[One Country, Two Systems]]"
-  - "[[Orientalism]]"
   - "[[Psychologisation]]"
   - "[[Schmittian Sovereignty]]"
   - "[[Citizenship and Social Development]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Youth Development Blueprint]]"
   - "[[Liberal Studies]]"
   - "[[National Education]]"
+  - "[[Orientalism]]"
 processed_date: 2026-05-25
 ---
 
