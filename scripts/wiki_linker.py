@@ -128,6 +128,17 @@ class Entry:
     title: str
     path: str
     aliases: tuple[str, ...]
+    type: str = ""
+
+
+def is_argument_entry(entry: Entry | None) -> bool:
+    return bool(entry and entry.type == "argument")
+
+
+def is_argument_target(target: str, entries_by_title: dict[str, Entry] | None = None) -> bool:
+    if entries_by_title is not None and target in entries_by_title:
+        return is_argument_entry(entries_by_title[target])
+    return target.startswith("Argument_")
 
 
 @dataclass(frozen=True)
@@ -153,8 +164,9 @@ def load_entries() -> list[Entry]:
         title = str(item.get("title") or "").strip()
         path = str(item.get("path") or "").strip()
         aliases = tuple(str(x).strip() for x in item.get("aliases", []) if str(x).strip())
+        entry_type = str(item.get("type") or "").strip()
         if title and path:
-            entries.append(Entry(title=title, path=path, aliases=aliases))
+            entries.append(Entry(title=title, path=path, aliases=aliases, type=entry_type))
     return entries
 
 
@@ -168,7 +180,7 @@ def load_source_entries() -> list[Entry]:
                 continue
             title = path.stem.strip()
             if title:
-                entries.append(Entry(title=title, path=rel_to_root(path), aliases=()))
+                entries.append(Entry(title=title, path=rel_to_root(path), aliases=(), type="source"))
     return entries
 
 
@@ -221,6 +233,11 @@ def make_terms(entries: list[Entry]) -> tuple[list[Term], dict[str, Entry], dict
     seen: set[tuple[str, str]] = set()
 
     for e in entries:
+        # Argument pages are citation targets. They are not linked by the
+        # ordinary title/alias linker, because citation links are governed by
+        # citation/citation_full.json and citation/citation_ambiguous.json.
+        if e.type == "argument":
+            continue
         for text, is_alias in [(e.title, False), *[(a, True) for a in e.aliases]]:
             text = text.strip()
             if not text:
@@ -243,13 +260,14 @@ def entry_terms(entry: Entry) -> set[str]:
 def parse_entry_from_text(rel_path: str, text: str) -> Entry | None:
     path = ROOT / rel_path
     if rel_path.startswith("sources/") and path.suffix.lower() == ".md":
-        return Entry(title=path.stem, path=rel_path, aliases=())
+        return Entry(title=path.stem, path=rel_path, aliases=(), type="source")
 
     fm, _ = split_frontmatter(text)
     if not fm:
         return None
 
     title = ""
+    entry_type = ""
     aliases: list[str] = []
     lines = fm.splitlines()
     i = 1
@@ -260,6 +278,8 @@ def parse_entry_from_text(rel_path: str, text: str) -> Entry | None:
         stripped = line.strip()
         if stripped.startswith("title:"):
             title = stripped.split(":", 1)[1].strip().strip("'\"")
+        elif stripped.startswith("type:"):
+            entry_type = stripped.split(":", 1)[1].strip().strip("'\"")
         elif stripped.startswith("aliases:"):
             value = stripped.split(":", 1)[1].strip()
             if value.startswith("[") and value.endswith("]"):
@@ -281,7 +301,7 @@ def parse_entry_from_text(rel_path: str, text: str) -> Entry | None:
 
     if not title:
         title = path.stem
-    return Entry(title=title, path=rel_path, aliases=tuple(a for a in aliases if a))
+    return Entry(title=title, path=rel_path, aliases=tuple(a for a in aliases if a), type=entry_type)
 
 
 def git_output(args: list[str]) -> str:
@@ -523,6 +543,15 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
             nonlocal removed
             target = m.group(1).strip()
             display = m.group(2)
+
+            # Argument links include citation links such as
+            # [[Argument_Ball_2008a_JEP|(Ball, 2008a)]]. They are governed by
+            # the citation index/lint pipeline, not by the ordinary alias
+            # linker. Preserve them even when the display text is not a title
+            # or alias; broken Argument targets are left for vault_lint.py.
+            if is_argument_target(target, entries_by_title):
+                return m.group(0)
+
             if target not in entries_by_title:
                 removed += 1
                 return display if display is not None else target
@@ -968,7 +997,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Synchronize Obsidian wikilinks from wiki/index.json."
+        description="Synchronize ordinary Obsidian wikilinks from wiki/index.json. Argument citation links are preserved."
     )
     sub = parser.add_subparsers(dest="command")
 

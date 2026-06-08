@@ -8,8 +8,10 @@ What it does:
 - Scans wiki/ Markdown body wikilinks.
 - Fills related_concepts / related_theories / related_methods / related_persons /
   related_facts / related_arguments according to the linked entry's type.
-- Fills wiki entry sources from wikilinks in the ## 来源 / ## Sources section only.
-- Fills source-record extracted_to by reversing wiki entry source links.
+- For Argument pages only, fills YAML sources from wikilinks in the
+  ## 来源 / ## Sources section.
+- Removes YAML sources from non-Argument wiki entries.
+- Fills source-record extracted_to by reversing Argument-page source links.
 
 Default behavior:
 - `sync` is incremental by default and only processes git-changed wiki Markdown files.
@@ -18,6 +20,8 @@ Default behavior:
 Important:
 - sources/ and books/ source records are NOT treated as normal wiki entries.
 - source records only get extracted_to updated. They do not get related_* or sources fields.
+- Concept / Theory / Method / Fact / Person entries use related_arguments as their
+  evidence trail; they do not maintain YAML sources.
 """
 from __future__ import annotations
 
@@ -77,7 +81,6 @@ TYPE_DIRS = {
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+?)\]\]")
 CODE_FENCE_RE = re.compile(r"^\s*(```|~~~)")
 H2_RE = re.compile(r"^##\s+(.+?)\s*$")
-
 
 @dataclass(frozen=True)
 class Entry:
@@ -231,16 +234,30 @@ def parse_wikilink(raw: str) -> tuple[str, str | None]:
     return target, display
 
 
-def extract_targets(text: str) -> list[str]:
+def is_media_target(target: str) -> bool:
+    return target.lower().endswith((".pdf", ".epub", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"))
+
+
+
+def extract_wikilinks(text: str) -> list[tuple[str, str | None]]:
     text = strip_code_fences(text)
+    links: list[tuple[str, str | None]] = []
+    seen: set[tuple[str, str | None]] = set()
+    for m in WIKILINK_RE.finditer(text):
+        target, display = parse_wikilink(m.group(1))
+        if not target or is_media_target(target):
+            continue
+        key = (target, display)
+        if key not in seen:
+            links.append(key)
+            seen.add(key)
+    return links
+
+
+def extract_targets(text: str) -> list[str]:
     targets: list[str] = []
     seen: set[str] = set()
-    for m in WIKILINK_RE.finditer(text):
-        target, _display = parse_wikilink(m.group(1))
-        if not target:
-            continue
-        if target.lower().endswith((".pdf", ".epub", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg")):
-            continue
+    for target, _display in extract_wikilinks(text):
         if target not in seen:
             targets.append(target)
             seen.add(target)
@@ -261,12 +278,16 @@ def infer_relations(body_without_sources: str, index: dict[str, Entry], self_ent
     seen_by_field = {key: set() for key in RELATION_KEYS}
     self_title = self_entry.title if self_entry else None
 
-    for target in extract_targets(body_without_sources):
+    for target, display in extract_wikilinks(body_without_sources):
         entry = index.get(target) or index.get(target.lower()) or index.get(Path(target).stem) or index.get(Path(target).stem.lower())
         if not entry or entry.type not in RELATION_FIELDS:
             continue
         if self_title and entry.title == self_title:
             continue
+
+        # Argument links, including APA citation display links such as
+        # [[Argument_Ball_2008_JEP|(Ball, 2008)]], are evidence links and
+        # should be synchronized into related_arguments.
         field = RELATION_FIELDS[entry.type]
         link = f"[[{entry.title}]]"
         if link not in seen_by_field[field]:
@@ -363,6 +384,17 @@ def update_yaml_lists(
             lines[insert_at:insert_at] = new_lines
 
     return "\n".join(lines).rstrip() + "\n"
+
+
+def remove_yaml_keys(yaml_text: str, keys: Iterable[str]) -> str:
+    """Remove complete top-level YAML keys, including block-list values."""
+    lines = yaml_text.splitlines()
+    for key in keys:
+        span = find_key_span(lines, key)
+        if span is not None:
+            start, end = span
+            lines[start:end] = []
+    return "\n".join(lines).rstrip() + ("\n" if lines else "")
 
 
 def iter_markdown_files_in(base: Path) -> list[Path]:
@@ -470,16 +502,29 @@ def process_wiki_file(
 
     source_section, body_without_sources = source_section_and_body_without_sources(body)
     self_entry = current_entry_for_file(path, index)
-    updates = infer_relations(body_without_sources, index, self_entry)
-    sources = infer_sources(source_section, index, source_title_lookup)
-    updates["sources"] = sources
+    entry_type = (self_entry.type if self_entry else frontmatter_value(yaml_text, "type")).strip().lower()
 
-    new_yaml = update_yaml_lists(
-        yaml_text,
-        updates,
-        sync_keys=WIKI_SYNC_KEYS,
-        add_missing=add_missing,
-    )
+    updates = infer_relations(body_without_sources, index, self_entry)
+
+    if entry_type == "argument":
+        sources = infer_sources(source_section, index, source_title_lookup)
+        updates["sources"] = sources
+        sync_keys = WIKI_SYNC_KEYS
+        new_yaml = update_yaml_lists(
+            yaml_text,
+            updates,
+            sync_keys=sync_keys,
+            add_missing=add_missing,
+        )
+    else:
+        sources = []
+        new_yaml = update_yaml_lists(
+            yaml_text,
+            updates,
+            sync_keys=RELATION_KEYS,
+            add_missing=add_missing,
+        )
+        new_yaml = remove_yaml_keys(new_yaml, ["sources"])
     new_text = f"---\n{new_yaml}---\n{body}"
 
     changed = new_text != original
@@ -591,6 +636,9 @@ def build_full_extracted_to_map(
         if not yaml_text:
             continue
         self_entry = current_entry_for_file(path, index)
+        entry_type = (self_entry.type if self_entry else frontmatter_value(yaml_text, "type")).strip().lower()
+        if entry_type != "argument":
+            continue
         if not self_entry:
             title = frontmatter_value(yaml_text, "title") or path.stem
             self_link = f"[[{title}]]"
@@ -731,7 +779,7 @@ def cmd_sync(args: argparse.Namespace) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Sync wiki related_*/sources and source extracted_to from Markdown wikilinks.")
+    parser = argparse.ArgumentParser(description="Sync wiki related_* fields, Argument sources, and source extracted_to from Markdown wikilinks.")
     sub = parser.add_subparsers(dest="command")
 
     sync = sub.add_parser("sync", help="Synchronize relation frontmatter fields.")

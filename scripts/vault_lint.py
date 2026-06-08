@@ -96,6 +96,9 @@ ROOT = Path.cwd()
 WIKI_DIR = ROOT / "wiki"
 TEMPLATES_DIR = WIKI_DIR / "templates"
 INDEX_JSON = WIKI_DIR / "index.json"
+CITATION_DIR = ROOT / "citation"
+CITATION_FULL_JSON = CITATION_DIR / "citation_full.json"
+CITATION_AMBIGUOUS_JSON = CITATION_DIR / "citation_ambiguous.json"
 
 GENERATED_INDEX_FILES = {
     "index.md",
@@ -186,6 +189,11 @@ EMBED_RE = re.compile(r"!\[\[([^\]\n]+)\]\]")
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 URL_RE = re.compile(r"https?://[^\s)>\]]+")
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.IGNORECASE)
+
+# Schema-constrained APA short citations used for links to Argument pages.
+CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
+CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&-]+\s*\((?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
+RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|[A-Z][A-Za-z0-9 .&-]+\s*\((?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\))")
 
 EMBED_FILE_EXISTS_CACHE: Dict[str, bool] = {}
 
@@ -548,6 +556,10 @@ def check_required_files(issues: List[Issue]) -> None:
         INDEX_JSON,
         WIKI_DIR / "index.md",
         ROOT / "scripts" / "wiki_index.py",
+        ROOT / "scripts" / "citation_index.py",
+        CITATION_DIR,
+        CITATION_FULL_JSON,
+        CITATION_AMBIGUOUS_JSON,
         ROOT / "scripts" / "wiki_linker.py",
         ROOT / "scripts" / "wiki_relations.py",
         ROOT / "vault-schema.md",
@@ -643,6 +655,32 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
     # Non-argument wiki semantic entries should usually have aliases key.
     if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "person", "fact"} and "aliases" not in data:
         issues.append(Issue("WARN", rel(path), f"type {typ!r} should include aliases field", code="ALIASES_MISSING"))
+
+    # Only Argument pages maintain source record links.
+    if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "person", "fact"} and "sources" in data:
+        issues.append(Issue("ERROR", rel(path), "non-Argument wiki entries should not include YAML sources; use related_arguments via Argument links", line=frontmatter_line_number(fm, "sources"), code="NON_ARGUMENT_SOURCES_FIELD"))
+
+    if typ == "argument" and "sources" not in data:
+        issues.append(Issue("WARN", rel(path), "Argument entries should include sources field for source record links", code="ARGUMENT_SOURCES_MISSING"))
+
+    if typ == "person":
+        for field in ["family_name", "given_names", "initials", "citation_name"]:
+            if field not in data:
+                issues.append(Issue("WARN", rel(path), f"person entry should include {field} field", code=f"PERSON_{field.upper()}_MISSING"))
+
+    if is_citation_eligible_argument(data):
+        for field in ["year", "citation_stem", "citation_key", "citation_short"]:
+            if field not in data or data.get(field) in (None, ""):
+                issues.append(Issue("WARN", rel(path), f"citation-eligible Argument missing {field}", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_MISSING"))
+        year = data.get("year")
+        if year not in (None, "") and not re.match(r"^(19|20)\d{2}$", str(year)):
+            issues.append(Issue("ERROR", rel(path), f"year should be four digits: {year!r}", line=frontmatter_line_number(fm, "year"), code="CITATION_YEAR_FORMAT"))
+        stem = str(data.get("citation_stem") or "")
+        if stem and "|" not in stem:
+            issues.append(Issue("ERROR", rel(path), "citation_stem should use Family|Year or Organization|Year", line=frontmatter_line_number(fm, "citation_stem"), code="CITATION_STEM_FORMAT"))
+        suffix = data.get("citation_suffix")
+        if suffix not in (None, "") and not re.match(r"^[a-z]$", str(suffix)):
+            issues.append(Issue("ERROR", rel(path), "citation_suffix should be empty or a single lowercase letter", line=frontmatter_line_number(fm, "citation_suffix"), code="CITATION_SUFFIX_FORMAT"))
 
     # summary checks
     if "summary" in data:
@@ -794,14 +832,24 @@ def check_sources_section(path: Path, text: str, data: Optional[Dict[str, Any]],
         return
 
     fm, body, _ = split_frontmatter(text)
-    source_sec = section_text(body, ["来源", "Sources"])
-    if "## 来源" not in body and "## Sources" not in body:
-        issues.append(Issue("WARN", rel(path), "missing ## 来源 / ## Sources section", code="SOURCE_SECTION_MISSING"))
+    has_source_section = has_h2_section(body, ["来源", "Sources"])
+
+    if is_non_argument_semantic_entry(data):
+        if has_source_section:
+            issues.append(Issue("ERROR", rel(path), "non-Argument wiki entries should not have ## 来源 / ## Sources; use Argument links and related_arguments", code="NON_ARGUMENT_SOURCE_SECTION"))
         return
 
+    if not is_argument_entry(data):
+        return
+
+    if not has_source_section:
+        issues.append(Issue("WARN", rel(path), "Argument entry missing ## 来源 / ## Sources section", code="ARGUMENT_SOURCE_SECTION_MISSING"))
+        return
+
+    source_sec = section_text(body, ["来源", "Sources"])
     links = [target for target, _ in extract_wikilinks(source_sec)]
     if data is not None and data.get("status") != "draft" and not links:
-        issues.append(Issue("WARN", rel(path), "non-draft entry has empty 来源 section", code="SOURCE_SECTION_EMPTY"))
+        issues.append(Issue("WARN", rel(path), "non-draft Argument has empty 来源 section", code="ARGUMENT_SOURCE_SECTION_EMPTY"))
 
 
 def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> None:
@@ -815,7 +863,7 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
     typ = data.get("type")
 
     # Common fields.
-    common = ["title", "summary", "type", "tags", "sources", "status", "created", "updated"]
+    common = ["title", "summary", "type", "tags", "status", "created", "updated"]
     for field in common:
         if field not in data:
             issues.append(Issue("WARN", rel(path), f"template missing common field: {field}", code="TEMPLATE_FIELD_MISSING"))
@@ -824,15 +872,22 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
         if field not in data:
             issues.append(Issue("WARN", rel(path), f"template missing relation field: {field}", code="TEMPLATE_REL_MISSING"))
 
-    if typ == "argument" and "aliases" in data:
-        issues.append(Issue("WARN", rel(path), "argument template should not include aliases", code="TEMPLATE_ARGUMENT_ALIASES"))
-    if typ == "argument" and "authors" not in data:
-        issues.append(Issue("WARN", rel(path), "argument template should include authors field", code="TEMPLATE_ARGUMENT_AUTHORS_MISSING"))
-    if typ in {"concept", "theory", "method", "person", "fact"} and "aliases" not in data:
-        issues.append(Issue("WARN", rel(path), f"{typ} template should include aliases", code="TEMPLATE_ALIASES_MISSING"))
-
-    if "## 来源" not in body and "## Sources" not in body:
-        issues.append(Issue("WARN", rel(path), "template missing ## 来源 / ## Sources section", code="TEMPLATE_SOURCE_SECTION"))
+    if typ == "argument":
+        if "aliases" in data:
+            issues.append(Issue("WARN", rel(path), "argument template should not include aliases", code="TEMPLATE_ARGUMENT_ALIASES"))
+        if "authors" not in data:
+            issues.append(Issue("WARN", rel(path), "argument template should include authors field", code="TEMPLATE_ARGUMENT_AUTHORS_MISSING"))
+        if "sources" not in data:
+            issues.append(Issue("WARN", rel(path), "argument template should include sources field", code="TEMPLATE_ARGUMENT_SOURCES_MISSING"))
+        if "## 来源" not in body and "## Sources" not in body:
+            issues.append(Issue("WARN", rel(path), "argument template missing ## 来源 / ## Sources section", code="TEMPLATE_ARGUMENT_SOURCE_SECTION"))
+    if typ in {"concept", "theory", "method", "person", "fact"}:
+        if "aliases" not in data:
+            issues.append(Issue("WARN", rel(path), f"{typ} template should include aliases", code="TEMPLATE_ALIASES_MISSING"))
+        if "sources" in data:
+            issues.append(Issue("ERROR", rel(path), f"{typ} template should not include sources field", code="TEMPLATE_NON_ARGUMENT_SOURCES"))
+        if "## 来源" in body or "## Sources" in body:
+            issues.append(Issue("ERROR", rel(path), f"{typ} template should not include ## 来源 / ## Sources section", code="TEMPLATE_NON_ARGUMENT_SOURCE_SECTION"))
 
 
 def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
@@ -860,6 +915,8 @@ def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
             for item in extracted:
                 if not (isinstance(item, str) and item.startswith("[[") and item.endswith("]]")):
                     issues.append(Issue("ERROR", rel(path), f"extracted_to item must be quoted wikilink string: {item!r}", code="EXTRACTED_TO_ITEM"))
+                elif not item.strip("[]").startswith("Argument_"):
+                    issues.append(Issue("WARN", rel(path), f"extracted_to should normally point to Argument pages only: {item!r}", code="EXTRACTED_TO_NON_ARGUMENT"))
 
     if "processed_date" not in data:
         issues.append(Issue("WARN", rel(path), "source record missing processed_date", code="PROCESSED_DATE_MISSING"))
@@ -986,7 +1043,169 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
             issues.append(Issue("WARN", rel(path), f"HTML hex color found; prefer rgb(...): {m.group(0)}", line=line_of_pos(text, m.start()), code="HTML_HEX_COLOR"))
 
 
-def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], issues: List[Issue]) -> None:
+
+def load_citation_full(issues: List[Issue]) -> Dict[str, Dict[str, Any]]:
+    result: Dict[str, Dict[str, Any]] = {}
+    if not CITATION_FULL_JSON.exists():
+        issues.append(Issue("WARN", rel(CITATION_FULL_JSON), "citation_full.json missing; run citation_index.py", code="CITATION_FULL_MISSING"))
+        return result
+    try:
+        data = json.loads(read_text(CITATION_FULL_JSON))
+    except Exception as e:
+        issues.append(Issue("ERROR", rel(CITATION_FULL_JSON), f"cannot parse citation_full.json: {e}", code="CITATION_FULL_PARSE"))
+        return result
+
+    items: list[Any]
+    if isinstance(data, dict):
+        if isinstance(data.get("items"), list):
+            items = data["items"]
+        elif isinstance(data.get("entries"), list):
+            items = data["entries"]
+        else:
+            items = list(data.values())
+    elif isinstance(data, list):
+        items = data
+    else:
+        issues.append(Issue("ERROR", rel(CITATION_FULL_JSON), "citation_full.json must be a list or object", code="CITATION_FULL_TYPE"))
+        return result
+
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        key = str(item.get("citation_key") or "").strip()
+        short = str(item.get("citation_short") or "").strip()
+        path = str(item.get("argument_path") or item.get("path") or "").strip()
+        if key:
+            result[key] = item
+        if short:
+            result[short] = item
+        if path:
+            result[path] = item
+    return result
+
+
+def build_argument_citation_maps(paths: List[Path], issues: List[Issue]) -> tuple[Dict[str, Dict[str, Any]], Dict[str, list[Dict[str, Any]]]]:
+    by_target: Dict[str, Dict[str, Any]] = {}
+    by_stem: Dict[str, list[Dict[str, Any]]] = {}
+    argument_dir = WIKI_DIR / "arguments"
+    if not argument_dir.exists():
+        return by_target, by_stem
+
+    for path in iter_md_files(argument_dir):
+        if is_generated_or_template(path):
+            continue
+        data = entry_metadata(path)
+        if not is_citation_eligible_argument(data):
+            continue
+        key = str(data.get("citation_key") or "").strip()
+        short = str(data.get("citation_short") or "").strip()
+        stem = str(data.get("citation_stem") or "").strip()
+        if not key or not short or not stem:
+            continue
+        item = {
+            "path": rel(path),
+            "target": path.stem,
+            "citation_key": key,
+            "citation_short": short,
+            "citation_stem": stem,
+            "citation_suffix": str(data.get("citation_suffix") or "").strip(),
+            "year": str(data.get("year") or "").strip(),
+        }
+        by_target[path.stem] = item
+        by_stem.setdefault(stem, []).append(item)
+
+    for stem, items in by_stem.items():
+        if len(items) > 1:
+            suffixes = [it["citation_suffix"] for it in items]
+            if any(not sfx for sfx in suffixes):
+                for it in items:
+                    issues.append(Issue("ERROR", it["path"], f"ambiguous citation_stem {stem!r} requires citation_suffix on all entries", code="CITATION_SUFFIX_REQUIRED"))
+            if len(set(suffixes)) != len(suffixes):
+                for it in items:
+                    issues.append(Issue("ERROR", it["path"], f"duplicate citation_suffix within {stem!r}", code="CITATION_SUFFIX_DUPLICATE"))
+        else:
+            if items[0]["citation_suffix"]:
+                issues.append(Issue("WARN", items[0]["path"], f"single entry for citation_stem {stem!r} has citation_suffix; check whether suffix is necessary", code="CITATION_SUFFIX_SINGLE"))
+    return by_target, by_stem
+
+
+def check_citation_json_consistency(argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
+    if not CITATION_FULL_JSON.exists():
+        return
+    try:
+        data = json.loads(read_text(CITATION_FULL_JSON))
+    except Exception:
+        return
+
+    json_items: list[Dict[str, Any]] = []
+    if isinstance(data, dict):
+        if isinstance(data.get("items"), list):
+            json_items = [x for x in data["items"] if isinstance(x, dict)]
+        elif isinstance(data.get("entries"), list):
+            json_items = [x for x in data["entries"] if isinstance(x, dict)]
+        else:
+            json_items = [x for x in data.values() if isinstance(x, dict)]
+    elif isinstance(data, list):
+        json_items = [x for x in data if isinstance(x, dict)]
+
+    json_by_target = {
+        str(item.get("argument_target") or Path(str(item.get("argument_path") or item.get("path") or "")).stem): item
+        for item in json_items
+        if (item.get("argument_target") or item.get("argument_path") or item.get("path"))
+    }
+
+    for target, fm_item in argument_citations.items():
+        item = json_by_target.get(target)
+        if not item:
+            issues.append(Issue("WARN", fm_item["path"], "citation_full.json missing this Argument; run citation_index.py", code="CITATION_INDEX_STALE"))
+            continue
+        if str(item.get("citation_key") or "") != fm_item["citation_key"]:
+            issues.append(Issue("WARN", fm_item["path"], "citation_full.json citation_key differs from frontmatter; run citation_index.py", code="CITATION_INDEX_KEY_MISMATCH"))
+        if str(item.get("citation_short") or "") != fm_item["citation_short"]:
+            issues.append(Issue("WARN", fm_item["path"], "citation_full.json citation_short differs from frontmatter; run citation_index.py", code="CITATION_INDEX_SHORT_MISMATCH"))
+
+
+def expected_citation_prefix(short: str) -> str:
+    return short.strip()
+
+
+def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
+        return
+    if not is_wiki_entry_path(path):
+        return
+
+    fm, body, body_start_line = split_frontmatter(text)
+    if fm is None:
+        body = text
+        body_start_line = 1
+
+    body_no_sources = remove_h2_sections(body, ["来源", "Sources", "Source"])
+    scan = strip_code_blocks(body_no_sources)
+
+    # Check existing citation-style Argument links.
+    for m in WIKILINK_RE.finditer(scan):
+        raw = m.group(1)
+        target = extract_wikilink_target(raw)
+        if not target or target not in argument_citations:
+            continue
+        display = raw.split("|", 1)[1].strip() if "|" in raw else ""
+        if display and citation_display_text(display):
+            short = argument_citations[target]["citation_short"]
+            if short not in display:
+                issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_short {short!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
+
+    # Warn about raw, unlinked APA short citations.
+    without_links = strip_existing_wikilinks(scan)
+    for m in RAW_CITATION_RE.finditer(without_links):
+        txt = m.group(1).strip()
+        # Avoid matching page-only references and obvious template/examples.
+        if not citation_display_text(txt):
+            continue
+        issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument: {txt}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_UNLINKED"))
+
+
+def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
     try:
         text = read_text(path)
     except UnicodeDecodeError:
@@ -1003,12 +1222,14 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_template_consistency(path, text, issues)
     check_source_record(path, text, issues)
     check_path_and_index_consistency(path, data, path_to_title, issues)
+    check_citation_links(path, text, data, argument_citations, issues)
 
 
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
     by_title, path_to_title = load_index(issues)
+    argument_citations, citation_stems = build_argument_citation_maps([], issues)
 
     md_files: List[Path] = []
     if paths:
@@ -1036,7 +1257,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> L
             unique_files.append(p)
 
     for p in unique_files:
-        lint_file(p, by_title, path_to_title, issues)
+        lint_file(p, by_title, path_to_title, argument_citations, issues)
 
     argument_check_files = list(unique_files)
     # Even when lint is path-scoped, new extracted entries are a vault-level
@@ -1046,6 +1267,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> L
     if paths:
         argument_check_files.extend(git_changed_md_files())
     check_new_entries_mentioned_in_arguments(argument_check_files, issues)
+    check_citation_json_consistency(argument_citations, issues)
 
     return issues
 

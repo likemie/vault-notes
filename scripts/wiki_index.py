@@ -44,7 +44,7 @@ EXCLUDE_DIR_PARTS = {"templates", "indexes", ".obsidian"}
 EXCLUDE_FILENAMES = {
     "index.md",
     "index.json",
-        "manifest.md",
+    "manifest.md",
     "manifest.json",
 }
 
@@ -323,7 +323,8 @@ def write_json(entries: list[dict[str, Any]]) -> None:
     - Include aliases for matching Chinese names / abbreviations.
     - Include type so wiki_relations.py can classify links safely.
 
-    Do not store tags, status, journal, book_title, sources, or related_* here.
+    Do not store tags, status, journal, book_title, citation fields, sources, or related_* here.
+    Citation metadata is maintained separately under citation/.
     """
     compact = []
     for e in entries:
