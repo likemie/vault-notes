@@ -191,7 +191,7 @@ OECD_2018_GlobalCompetence
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
 - Person 的 `aliases` 按 `template-person.md` 执行。
-- 页面中人名第一次出现时使用全名，采用中文名（英文名）格式；后续不作规定。
+- 页面中某个人名第一次出现时必须使用全名；中文正文优先采用中文全名（英文全名）格式，后续再出现可按语境使用中文名、姓氏或代称。
 - 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
 - 不要写过短、过宽或 tag 风格 slug alias，如“资本”“文化”“教育”“政策”“课程”“能力”“国家”“公平”。
@@ -300,7 +300,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 ### Wikilink and Relation Rules
 
 - wikilink 由 `wiki_linker.py` 自动维护，依据是 `title` 和 `aliases`。
-- 页面中人名第一次出现时使用全名，采用中文名（英文名）格式；后续不作规定。
+- 页面中某个人名第一次出现时必须使用全名；中文正文优先采用中文全名（英文全名）格式，后续再出现可按语境使用中文名、姓氏或代称。
 - 只有 Argument 页使用 `## 来源` / `## Sources` 章节，且只放 source wikilink。
 - Argument 页的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
 - source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从 Argument 页的 `## 来源` 章节反向同步。
@@ -406,7 +406,10 @@ Argument 引用规则：
 - `---` 分割线用于主要章节之间，以及 Argument 论证步骤之间；不要在同一小段内部频繁插入。
 - 理论或哲学内容要避免纯定义堆砌；抽象主张后应有例子或说明。
 - 写作必须自然中文，不直译英文，不写欧化长句。
-- 避免中英混杂表达；术语首次出现时使用“中文（English）”格式，后文优先使用中文。
+- 句子不要中英混合。中文正文中，除专名、引文、公式、代码、APA citation 和无法翻译的固定术语外，句子主体使用中文表达。
+- 人名第一次出现必须使用全名；中文正文优先写成中文全名（英文全名），后文再出现可按语境使用中文名、姓氏或代称。
+- 缩写第一次出现必须写成中文（英文全称，缩写），例如“经合组织（Organisation for Economic Co-operation and Development，OECD）”；后文才可单独使用缩写。
+- 术语首次出现时使用中文（English）格式；如果该术语有缩写，使用中文（English Full Name，ABBR）格式。后文优先使用中文或已解释过的缩写。
 - 少用破折号和冒号；优先用短句、逗号或句号。
 - 少用“不是/并非……而是……”句式。只有纠正常见误解时才使用；普通说明直接写正面陈述。
 - 删除没有信息量的元话语，如“这不是简单的 X，而是复杂的 Y”。保留具体判断、机制、证据或例子。
