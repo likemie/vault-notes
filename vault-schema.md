@@ -207,7 +207,7 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors`、`year` 和完整 `citation` 自动生成，基本形式为 `Author, Year` 与 `Author (Year)`。中文论文或著作若 `citation` 字段以中文作者名开头，脚本额外生成中文 alias，如 `郑雅君, 2023` 与 `郑雅君 (2023)`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式；中文原始文献同时生成英文 APA 版本和中文作者年版本。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式同样只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
 
 `doi` 用于论文、报告或有 DOI 的书籍；著作、教材、论文集或章节没有 DOI 时，`doi` 可留空，若能确认 ISBN，则写入 `isbn`。
 
@@ -217,6 +217,8 @@ Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`�
 - `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。
 
 正文 citation 补链由 `scripts/citation_linker.py` 完成，只读取 `citation_full.json` 与 `citation_ambiguous.json`，不扫描或修改 Argument frontmatter。
+
+正文引用当前 Argument 之外的已处理文献时，优先沿用原始文献的 author-year 格式。英文文献使用英文 APA，如 `Lindblad & Popkewitz (2004)`；中文文献可以使用中文作者年，如 `郑雅君 (2023)`、双作者 `作者甲和作者乙 (2023)`、三位及以上 `作者甲等 (2023)`。如果原文采用 APA 引用格式，优先保留原文中的短引用，再由 `citation_linker.py` 自动补链。
 
 正文引用当前 Argument 之外的已处理文献时，统一使用 APA 短引用：
 

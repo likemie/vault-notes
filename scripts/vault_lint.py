@@ -272,7 +272,7 @@ def chinese_author_part(citation: str, year: str) -> str:
     if len(cjk_parts) == 1:
         return cjk_parts[0]
     if len(cjk_parts) == 2:
-        return f"{cjk_parts[0]}与{cjk_parts[1]}"
+        return f"{cjk_parts[0]}和{cjk_parts[1]}"
     return f"{cjk_parts[0]}等"
 
 
@@ -302,8 +302,8 @@ def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") 
 def citation_display_text(text: str) -> bool:
     text = text.strip()
     return bool(
-        re.match(r"^\(?[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&与等-]+[,，]\s*(?:19|20)\d{2}[a-z]?(?:[,，]\s*pp?\.\s*[^)）]+)?\)?$", text)
-        or re.match(r"^[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&与等-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:[,，]\s*pp?\.\s*[^)）]+)?[）)]$", text)
+        re.match(r"^\(?[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]+[,，]\s*(?:19|20)\d{2}[a-z]?(?:[,，]\s*pp?\.\s*[^)）]+)?\)?$", text)
+        or re.match(r"^[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:[,，]\s*pp?\.\s*[^)）]+)?[）)]$", text)
     )
 
 

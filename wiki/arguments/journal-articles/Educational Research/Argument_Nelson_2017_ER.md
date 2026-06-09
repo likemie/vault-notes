@@ -41,13 +41,13 @@ updated: '2026-06-08'
 year: 2017
 doi: ""
 citation_aliases:
-  - "Julie Nelson & Carol Campbell, 2017"
-  - "Julie Nelson & Carol Campbell (2017)"
+  - "Nelson & Campbell, 2017"
+  - "Nelson & Campbell (2017)"
 ---
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> Nelson & Campbell (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定义和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
+> [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定义和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
 
 ## 理论框架
 

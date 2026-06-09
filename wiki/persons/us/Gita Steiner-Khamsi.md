@@ -21,7 +21,8 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rappleye_2006_RCIE]]"
 related_facts:
   - "[[Liberal Studies]]"
 confidence: medium
@@ -72,7 +73,7 @@ updated: '2026-06-08'
 
 
 > [!info] 全球化与转移的新动态
-> Steiner-Khamsi 指出 1990–2000 年间教育转移研究经历了"一种特殊类型的复兴"（renaissance of a special kind, 2000, p. 157），这得益于关于全球化的争议性辩论和对新利益相关者及转移行动者出现的认识。（Rappleye, 2006, p. 224）
+> Steiner-Khamsi 指出 1990–2000 年间教育转移研究经历了"一种特殊类型的复兴"（renaissance of a special kind, 2000, p. 157），这得益于关于全球化的争议性辩论和对新利益相关者及转移行动者出现的认识。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 224]])
 
 ## 主要贡献
 

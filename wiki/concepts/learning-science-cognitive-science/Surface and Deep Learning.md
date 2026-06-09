@@ -28,6 +28,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -73,7 +75,7 @@ updated: '2026-06-06'
 ## 跨文化挑战
 
 > [!warning] [[Chinese Learner|中国学习者]]的记忆-理解路径
-> Li（2012, pp.80–83）综述了[[Paradox of the Chinese Learner|中国学习者悖论]]研究，发现中国学习者的记忆不是西方意义上的表层学习终点，而是通向深层理解的第一步。Marton 等（1996）发现中国学习者的背诵不是目的本身，而是作为达成深层理解的更大策略的第一步。Dahlin & Watkins（2000）发现英国学生视理解为突然的顿悟，而中国学生视理解为需要大量心智努力的长期过程。这意味着表层/深层二分法可能受限于特定的西方文化学习序列。
+> [[Argument_Li_2012_Cambridge|Li (2012, pp.80–83)]]综述了[[Paradox of the Chinese Learner|中国学习者悖论]]研究，发现中国学习者的记忆不是西方意义上的表层学习终点，而是通向深层理解的第一步。Marton 等（1996）发现中国学习者的背诵不是目的本身，而是作为达成深层理解的更大策略的第一步。Dahlin & Watkins（2000）发现英国学生视理解为突然的顿悟，而中国学生视理解为需要大量心智努力的长期过程。这意味着表层/深层二分法可能受限于特定的西方文化学习序列。
 
 ---
 
@@ -81,7 +83,7 @@ updated: '2026-06-06'
 
 > [!info]
 > - [[Popper's Three Worlds Theory]] — Hattie (2009; 2015) 将表层/深层/建构性学习映射到波普尔的三个世界。但 Rømer (2018) 论证 Hattie 严重误读了波普尔。
-> - [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 指出多数测验特别擅长测量表层特征，对深层学习只有部分测量能力。
+> - [[Dynamic Knowledge and Learning Model]] — [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 指出多数测验特别擅长测量表层特征，对深层学习只有部分测量能力。
 
 ---
 

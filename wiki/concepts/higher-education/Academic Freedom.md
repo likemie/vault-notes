@@ -23,6 +23,7 @@ related_facts:
   - "[[University, Inc. (Washburn, 2005)]]"
 related_arguments:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: medium
 status: draft
@@ -80,7 +81,7 @@ updated: 2026-06-04
 ### 发表审查与延迟机制
 
 > [!note]
-> 学术自由并不意味着大学完全不接受任何发表限制。在产学合作协议的实践中，大学通常不会直接授予赞助方控制研究产出的权利，但会提供以下折中安排（Hall, 2025, pp.265–266）：
+> 学术自由并不意味着大学完全不接受任何发表限制。在产学合作协议的实践中，大学通常不会直接授予赞助方控制研究产出的权利，但会提供以下折中安排([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.265–266]])：
 
 > - **发表前审查权（Review Right）**：赞助方有权在发表前审查研究成果，以确保其中不包含赞助方的保密信息、且知识产权得到充分保护
 > - **发表延迟（Publication Postponement）**：如有必要保护知识产权，赞助方可要求延迟发表——但这并非永久禁止发表，而是为专利申请等程序留出时间

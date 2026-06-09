@@ -73,7 +73,7 @@ updated: 2026-05-22
 > > 例：老师在讲完一个概念后立刻让学生做一题，再根据全班错误模式换一个例子重新解释。这时反馈不是课后批注，而是直接改写了教学流程。
 
 > [!note] 反馈文化与学生视角
-> Fredens（2015）把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.73-74]])。
+> [[Argument_Fredens_2015_Paideia|Fredens (2015)]]把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.73-74]])。
 >
 > 这条线索的意义在于，它把反馈和 working-memory、元认知以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71, 73-74]])。
 
@@ -82,7 +82,7 @@ updated: 2026-05-22
 > [!success] 实证发现
 > - Hattie 的论述把反馈放在高重要性位置，并把它理解为推动学习改进的核心信息机制（Hattie, 2015, p.86）。
 > - Håkansson（2015）的研究综合没有把反馈单独拿出来计算[[Effect Size|效应量]]，但明确把“及时正确反馈”和“强调知识内容中的关键原则”列为[[Classroom Management|课堂管理]]与高质量教学的重要组成部分（Håkansson, 2015, p.592）。
-> - Laursen（2015）指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
+> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]]指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
 > - Lekhal 等人的性别差异研究提示，反馈[[Variable|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和操作化([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, pp.80, 83-85]])。
 
 > [!info] 数据基础与测量问题
@@ -112,7 +112,7 @@ updated: 2026-05-22
 ## 数字学习工具中的反馈
 
 > [!warning] 数字学习工具中的反馈
-> Jornitz & Klinge（2022）把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-245]])。
+> [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]]把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-245]])。
 >
 > 这里有三条特别重要：
 > - 即时反馈可能填满反思间隙。传统课堂里，学生答完题到得到回应之间有一个等待和思考的时间；算法反馈把这个间隙压缩到几乎为零，学生更容易直接盯住结果而不是思考为什么([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240-242]])。

@@ -20,7 +20,8 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -32,7 +33,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 零假设（null [[Hypothesis]]）是正式假设检验中的一种基本假设形式，预测在总体中[[Variable|变量]]间不存在关系或组间不存在显著差异（Creswell & Creswell, 2022, p.144）。其目的是通过陈述一个否定性预期来反驳理论。
+> 零假设（null [[Hypothesis]]）是正式假设检验中的一种基本假设形式，预测在总体中[[Variable|变量]]间不存在关系或组间不存在显著差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]])。其目的是通过陈述一个否定性预期来反驳理论。
 
 零假设的典型表述是："There is no difference (or relationship)" between the groups（Creswell & Creswell, 2022, Ch7）。
 

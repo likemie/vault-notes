@@ -20,7 +20,8 @@ related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wiliam_2019]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -30,7 +31,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 效度（validity）不是测试或实验的属性，而是**从数据中得出推论的属性**。这一立场由 Lee Cronbach (1971) 在心理测量学中首次明确提出，后由 Samuel Messick (1989) 发展为"验证作为永无止境的过程"的系统论述。Wiliam (2019) 将此立场从教育测量延伸至教育研究方法论，论证其对 [[Randomised Controlled Trials|RCT]] 和[[Evidence-Based Education|证据本位教育]]的直接含义。
+> 效度（validity）不是测试或实验的属性，而是**从数据中得出推论的属性**。这一立场由 Lee Cronbach (1971) 在心理测量学中首次明确提出，后由 Samuel Messick (1989) 发展为"验证作为永无止境的过程"的系统论述。[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 将此立场从教育测量延伸至教育研究方法论，论证其对 [[Randomised Controlled Trials|RCT]] 和[[Evidence-Based Education|证据本位教育]]的直接含义。
 >
 > > "One validates, not a test, but an interpretation of data arising from a specified procedure." (Cronbach, 1971, p. 447, emphasis in original; 引自 Wiliam, 2019, p.10)
 
@@ -39,14 +40,14 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > - **1971** — Cronbach 在 *Educational Measurement*（第二版）中提出效度是推论属性而非测试属性的经典表述
 > - **1989** — Messick 在 *Educational Measurement*（第三版）中将效度概念进一步发展为"验证作为过程"：验证是永无止境的证据汇总过程——一方面支持首选解释，另一方面证明替代解释较不合理
-> - **2019** — Wiliam 将心理测量学的效度概念应用于教育研究方法论：效度标准意味着即使是设计良好的 [[Randomised Controlled Trials|RCT]]，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。效度"不能是实验的属性，甚至不能是实验结果的属性，而只能是我们从那些结果中得出推论的属性"（Wiliam, 2019, p.9）
+> - **2019** — Wiliam 将心理测量学的效度概念应用于教育研究方法论：效度标准意味着即使是设计良好的 [[Randomised Controlled Trials|RCT]]，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。效度"不能是实验的属性，甚至不能是实验结果的属性，而只能是我们从那些结果中得出推论的属性"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]])
 
 ## 核心要素
 
 > [!abstract] 效度概念的定义性转变
 > 传统观点将效度视为测试的内在属性——一个测试"有效"或"无效"。Cronbach 的定义性转变将此颠倒：**没有任何测试自身是"有效"的**——有效的或无效的是我们对测试分数所做的解释和使用。
 >
-> > 例：具有高阅读要求的数学测试对良好阅读者可能是其数学能力的有效评估（充分抽样了相关领域、与目标[[Construct|构念]]强相关、产生与其他评估一致的结果）。但对阅读能力差的学生，无法确定低分是因为缺乏数学能力还是无法理解题目——因此同一测试对这两组学生的**推论效度**不同。（Wiliam, 2019, pp.9–10）
+> > 例：具有高阅读要求的数学测试对良好阅读者可能是其数学能力的有效评估（充分抽样了相关领域、与目标[[Construct|构念]]强相关、产生与其他评估一致的结果）。但对阅读能力差的学生，无法确定低分是因为缺乏数学能力还是无法理解题目——因此同一测试对这两组学生的**推论效度**不同。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
 
 
 > [!abstract] 验证作为过程（Validation as Process）
@@ -56,19 +57,19 @@ updated: '2026-05-18'
 > - 随着新证据涌现（如关于教师质量变异性的研究），先前被排除的替代解释可能变得相关——此时原先的推论不再有效
 > - 这不是原 RCT 设计的缺陷，而是效度作为过程的本体论特征
 >
-> > 例：Wiliam 自身的[[Tracking|能力分组]]研究是一个例证——Boaler, Wiliam, & Brown (2000) 和 Wiliam & Bartholomew (2004) 的推论（能力分组降低成就）在当时是有效的，因为当时没有显著的替代解释。但当 Hanushek & Rivkin (2010) 等研究建立了教师间差异的量级证据后，"教师分配效应"成为相关的替代状态——原推论的效度因此被削弱。（Wiliam, 2019, p.8）
+> > 例：Wiliam 自身的[[Tracking|能力分组]]研究是一个例证——Boaler, Wiliam, & Brown (2000) 和 Wiliam & Bartholomew (2004) 的推论（能力分组降低成就）在当时是有效的，因为当时没有显著的替代解释。但当 Hanushek & Rivkin (2010) 等研究建立了教师间差异的量级证据后，"教师分配效应"成为相关的替代状态——原推论的效度因此被削弱。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.8]])
 
 
 > [!abstract] 对[[Evidence-Based Education|证据本位教育]]的含义
 > 效度作为推论属性的立场对 EBE 有直接的方法论含义：
 >
 > 1. **RCT 的证据等级优先性被削弱**：即使 RCT 设计良好，如果后续证据揭示了先前未被排除的替代解释，其推论的效度同样受损
-> 2. **"什么有效"的知识主张必然是临时的**：新发现、新洞见和新理解将持续使先前可信的解释受到质疑（Wiliam, 2019, p.10）
+> 2. **"什么有效"的知识主张必然是临时的**：新发现、新洞见和新理解将持续使先前可信的解释受到质疑([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.10]])
 > 3. **方法等级制的不合理**：效度取决于排除替代解释的能力，而非方法标签（RCT vs [[Observational and Correlational Research|观察研究]]）
 
 
 > [!abstract] 与 Goldman 区分理论的联系
-> Messick 的验证过程框架自然地导向 Goldman (1976) 的区分理论：推论的效度取决于我们能否区分"干预产生了效果"的状态与"其他因素产生了效果"的相关替代状态。当新证据使先前不相关的替代状态变得相关而我们无法区分时，原先的推论不再构成知识。（Wiliam, 2019, pp.9–10）
+> Messick 的验证过程框架自然地导向 Goldman (1976) 的区分理论：推论的效度取决于我们能否区分"干预产生了效果"的状态与"其他因素产生了效果"的相关替代状态。当新证据使先前不相关的替代状态变得相关而我们无法区分时，原先的推论不再构成知识。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
 
 ## 与相关概念的区别
 

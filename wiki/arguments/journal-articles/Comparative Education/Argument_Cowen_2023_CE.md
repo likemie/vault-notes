@@ -49,8 +49,8 @@ updated: '2026-06-08'
 year: 2023
 doi: ""
 citation_aliases:
-  - "Robert Cowen, 2023"
-  - "Robert Cowen (2023)"
+  - "Cowen, 2023"
+  - "Cowen (2023)"
 ---
 # Argument_Cowen_2023_CE
 

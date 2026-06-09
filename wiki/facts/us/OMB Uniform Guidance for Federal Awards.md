@@ -22,7 +22,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -34,7 +35,7 @@ updated: 2026-06-04
 ## 背景
 
 > [!info]
-> 管理与预算办公室（Office of Management and Budget, OMB）的 Uniform Guidance for Federal Awards（《联邦拨款统一指南》，编入 2 CFR 200）于 2014 年生效，规定了美国大学研究预算必须遵循的会计核算原则。在此之前，联邦拨款的财务管理分散在多个 OMB 通告中，如 A-21（教育机构成本原则）、A-110（高等教育机构统一行政要求）和 A-133（审计要求）。Uniform Guidance 将这些分散规则整合为单一框架（Hall, 2025, pp.263–264）。
+> 管理与预算办公室（Office of Management and Budget, OMB）的 Uniform Guidance for Federal Awards（《联邦拨款统一指南》，编入 2 CFR 200）于 2014 年生效，规定了美国大学研究预算必须遵循的会计核算原则。在此之前，联邦拨款的财务管理分散在多个 OMB 通告中，如 A-21（教育机构成本原则）、A-110（高等教育机构统一行政要求）和 A-133（审计要求）。Uniform Guidance 将这些分散规则整合为单一框架([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.263–264]])。
 
 ## 政策文本摘要
 

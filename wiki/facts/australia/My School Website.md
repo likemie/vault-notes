@@ -23,7 +23,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Eacott_2011_JEAH]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -32,7 +33,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。Eacott（2011）将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
+> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。[[Argument_Eacott_2011_JEAH|Eacott (2011)]]将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
 
 ## 政策文本摘要
 

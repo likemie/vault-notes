@@ -56,7 +56,7 @@ updated: 2026-06-01
 ## 核心分析维度
 
 > [!abstract]
-> Schulze-Cleven et al.（2017, pp.805–807）通过收录的五篇文章展示了话语分层的多维分析角度：
+> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.805–807)]]通过收录的五篇文章展示了话语分层的多维分析角度：
 
 ### 经济学的精英部署
 

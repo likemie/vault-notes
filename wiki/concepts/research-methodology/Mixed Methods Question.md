@@ -23,7 +23,8 @@ related_methods:
   - "[[Exploratory Sequential Design]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -35,7 +36,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么（Creswell & Creswell, 2022, p.150）。
+> [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.150]])。
 
 > [!quote]
 > "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（Creswell & Creswell, 2022, Ch7）

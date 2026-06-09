@@ -49,7 +49,7 @@ updated: 2026-05-26
 ## 核心要素
 
 > [!abstract]
-> Schweisfurth（2013）提出了 LCE 的最低实施标准，Wang & McLaughlin（2025）的研究以此为参照：
+> Schweisfurth（2013）提出了 LCE 的最低实施标准，[[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]的研究以此为参照：
 
 > - 教学应激发学生的内在学习动机而非依赖外部奖惩
 > - 学习内容应与学生的已有经验建立联系
@@ -84,7 +84,7 @@ updated: 2026-05-26
 
 > [!success]
 > - 在全球范围内，[[Test-Based Accountability|考试问责]]是 LCE 实施的最常见情境障碍。当固定标准评判学生时，更灵活的教育模式难以扎根（Schweisfurth, 2013）。
-> - Wang & McLaughlin（2025）在中国的四所学校中发现，教师虽然认同 LCE 的价值——特别是发展批判性思维和提升学习能力——但在考试压力下，LCE 的改革热情很容易被考试成绩的追求所覆盖。仅靠引入国外的 LCE 成功经验不足以化解教师对改革可能降低考试成绩的担忧([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.596-597]])。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]在中国的四所学校中发现，教师虽然认同 LCE 的价值——特别是发展批判性思维和提升学习能力——但在考试压力下，LCE 的改革热情很容易被考试成绩的追求所覆盖。仅靠引入国外的 LCE 成功经验不足以化解教师对改革可能降低考试成绩的担忧([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.596-597]])。
 > - 在那些找到了 LCE 与学校特定考试目标之间契合点的学校中，LCE 实施取得了更实质的进展——特别是当学校需要显著提升考试成绩时，LCE 被视为不可或缺的手段，因为它能培养学生的分析能力和学习效率([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.598-600]])。
 > - 在中国语境中，LCE 被理解为主要服务于发展批判性思维和学习能力，而非培养民主社会中的积极公民或让学生参与决定学习内容——这与 Schweisfurth（2015）的 LCE 完整定义存在差异([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.601-602]])。
 
@@ -93,7 +93,7 @@ updated: 2026-05-26
 ## 理论基础
 
 > [!tip]
-> - [[Third Generation Activity Theory]] — Wang & McLaughlin（2025）以此理论为框架，分析了 LCE 改革与[[Test-Based Accountability|考试问责]]两个活动系统之间的互动与边界跨越
+> - [[Third Generation Activity Theory]] — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]以此理论为框架，分析了 LCE 改革与[[Test-Based Accountability|考试问责]]两个活动系统之间的互动与边界跨越
 > - [[Constructivist Paradigm|建构主义]]（constructivism）— Bruner 的建构主义学习理论是 LCE 的核心认识论基础
 > - 社会文化理论（sociocultural theory）— Vygotsky 的社会文化理论强调学习的社会互动本质，为 LCE 中的对话与合作学习提供理论支持
 

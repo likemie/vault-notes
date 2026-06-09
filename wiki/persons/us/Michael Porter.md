@@ -23,7 +23,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Moisio_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -33,7 +34,7 @@ updated: '2026-06-08'
 
 > [!info]
 
-Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院教授。以竞争战略、[[National Competitive Advantage|国家竞争优势]]和产业集群理论著称。Moisio（2022）在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，将其 *The Competitive Advantage of Nations*（1990）定位为塑造 Hub and [[Flow]] 想象的关键地缘政治想象来源（Moisio, 2022, pp.26–27）。
+Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院教授。以竞争战略、[[National Competitive Advantage|国家竞争优势]]和产业集群理论著称。[[Argument_Moisio_2022_Springer|Moisio (2022)]]在分析[[Knowledge-Based Economization|知识经济化]]的地缘政治维度时，将其 *The Competitive Advantage of Nations*（1990）定位为塑造 Hub and [[Flow]] 想象的关键地缘政治想象来源([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
 
 ---
 
@@ -41,7 +42,7 @@ Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院
 
 > [!note]
 
-- Bishop William Lawrence University Professor，哈佛商学院（Moisio, 2022, p.27）
+- Bishop William Lawrence University Professor，哈佛商学院([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 
 ---
 
@@ -66,7 +67,7 @@ Porter 的核心理论主张是：国家在全球市场中的竞争优势并非�
 
 这一悖论为 1990 年代以来[[Knowledge-Based Economization|知识经济化]]的空间政策——包括国家冠军城市、创业生态系统和产业集群——提供了关键的理论合法性。
 
-Moisio（2022, pp.26–27）从[[Critical Geopolitics|批判地缘政治学]]视角分析 Porter 理论，指出它超越了管理学和经济学的范畴，成为 Jessop（2005）意义上具有"构成性和履行性"角色的地缘政治想象——它不仅描述全球竞争的现实，更通过影响政策制定者的认知框架来制造这一现实。
+[[Argument_Moisio_2022_Springer|Moisio (2022, pp.26–27)]]从[[Critical Geopolitics|批判地缘政治学]]视角分析 Porter 理论，指出它超越了管理学和经济学的范畴，成为 Jessop（2005）意义上具有"构成性和履行性"角色的地缘政治想象——它不仅描述全球竞争的现实，更通过影响政策制定者的认知框架来制造这一现实。
 
 ---
 
@@ -83,7 +84,7 @@ Moisio（2022, pp.26–27）从[[Critical Geopolitics|批判地缘政治学]]视
 > [!success]
 
 - 1990 年代经济地理学（Storper & Harrison, 1991; Scott, 1991）将 Porter 的空间逻辑发展为子国家区域竞争力分析
-- Moisio（2022）将 Porter 理论从管理学和经济学话语中重新定位为地缘政治想象的分析对象
+- [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 理论从管理学和经济学话语中重新定位为地缘政治想象的分析对象
 - 在[[Knowledge-Based Economization|知识经济化]]的城市政策中，Porter 的逻辑体现为各国竞相打造"国家冠军城市"和"[[Innovation Ecosystem|创新生态系统]]"
 
 ---

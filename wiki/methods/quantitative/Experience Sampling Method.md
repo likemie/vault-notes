@@ -17,7 +17,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -29,14 +30,14 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> 经验取样法（Experience Sampling Method，简称 ESM）是 Csikszentmihalyi 及其同事在 1970 年代开发的一种实证研究方法。研究者给参与者配备一个寻呼机（beeper）和一本包含问题的小册子，寻呼机在一天和傍晚期间被编程为随机响起。每当寻呼机响起时，参与者被要求回答小册子中的问题，包括：在哪里、在做什么、正在感受什么情绪（正面和负面）、以及是否更想在别处或做别的事（Li, 2012, p.59）。
+> 经验取样法（Experience Sampling Method，简称 ESM）是 Csikszentmihalyi 及其同事在 1970 年代开发的一种实证研究方法。研究者给参与者配备一个寻呼机（beeper）和一本包含问题的小册子，寻呼机在一天和傍晚期间被编程为随机响起。每当寻呼机响起时，参与者被要求回答小册子中的问题，包括：在哪里、在做什么、正在感受什么情绪（正面和负面）、以及是否更想在别处或做别的事([[Argument_Li_2012_Cambridge|Li, 2012, p.59]])。
 
 ---
 
 ## 研究程序
 
 > [!example]
-> 经验取样法的关键步骤（Li, 2012, p.59）：
+> 经验取样法的关键步骤([[Argument_Li_2012_Cambridge|Li, 2012, p.59]])：
 
 1. **准备工具**：向参与者提供信号装置（现多为手机或专用设备）和记录工具
 2. **随机信号**：信号在一天中的随机时刻触发（白天和傍晚覆盖日常生活的主要时段）
@@ -55,7 +56,7 @@ updated: 2026-05-23
 > - 跨文化情感体验差异
 > - 青少年日常活动与心理状态的关系
 
-Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数据中发现了心流这一重要心理现象（Li, 2012, p.59–60）。
+Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数据中发现了心流这一重要心理现象([[Argument_Li_2012_Cambridge|Li, 2012, p.59–60]])。
 
 ---
 
@@ -72,7 +73,7 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 ## 使用此方法的研究
 
 > [!example]
-> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现[[Flow|心流]]的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据（Li, 2012, p.77–78）
+> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现[[Flow|心流]]的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据([[Argument_Li_2012_Cambridge|Li, 2012, p.77–78]])
 
 ---
 

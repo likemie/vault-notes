@@ -18,6 +18,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Selectivity]]"
   - "[[Theories of Policy Change]]"
+  - "[[Performativity]]"
   - "[[Performativity of Measurement]]"
   - "[[Causality]]"
   - "[[Innovation Ecosystem]]"
@@ -101,7 +102,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 ### 政策工具维度：四维运作机制
 
-Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 Jessop（2007），将绩效指标的政策工具机制分解为四个操作维度：
+[[Argument_Rambla_2022_Springer|Rambla (2022, p.165–166)]]综合 Le Galès（2016）、Collins（2018）和 Jessop（2007），将绩效指标的政策工具机制分解为四个操作维度：
 
 **通过互动性专业技能获取合法性**：专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南有效性的感知。Collins（2018）称之为"互动性专业技能"（interactive expertise）——专家在持续互动中建构知识并积累声誉。绩效指标通过展示最佳实践与一般或较差实践的对比，传达这种专家知识。在 EU，EUROSTAT 根据成员国和区域在创新和教育方面的成就进行排名，承载了专家知识的制度权威([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
@@ -116,7 +117,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 ## 理论基础
 
 > [!tip]
-> - [[Sociology of Measurement]] — 指标构建过程体现了测量的 instrumentalism（如何在各种约束下"让事物运作"）和 performativity（指标一旦存在就改变世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
+> - [[Sociology of Measurement]] — 指标构建过程体现了测量的 instrumentalism（如何在各种约束下"让事物运作"）和 [[Performativity]]（指标一旦存在就改变世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
 > - [[Performativity of Measurement]] — [[International Education|国际教育]]指标在多个层面上是 performative：影响政策制定者行为、改变国家优先级、使某些关联被物化为[[Causality|因果关系]]([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.16–18]])
 > - [[Selectivity]] — Jessop（2007）的策略关系国家理论为理解绩效指标的政策选择性提供了结构性解释
 > - [[Theories of Policy Change]] — Pawson（2006）的实在论评估框架解释了绩效指标如何承载和传播关于因果机制的信念体系

@@ -46,7 +46,7 @@ updated: 2026-06-05
 ## 核心原则
 
 > [!abstract]
-> Southerton et al.（2012, p.20）指出了维持多面关系的三个关键条件：
+> [[Argument_UIDP_2012_PartnershipContinuum|Southerton et al. (2012, p.20)]]指出了维持多面关系的三个关键条件：
 
 - **清晰定义的优先事项**（clearly defined priorities）：每个合作方必须明确自己在不同时间点的战略重心——一个机构可能在某一阶段聚焦资源获取，在另一阶段转向经济发展。目标的变化不应被视为合作的不稳定信号，但必须被明确表达
 - **透明及时的沟通**（transparent and timely communication）：由于多面关系涉及多个部门和多个合作层级，信息不对称的风险远高于单一维度合作。一方在某一领域的期望变化如果未被及时传达，可能在另一领域产生意外摩擦

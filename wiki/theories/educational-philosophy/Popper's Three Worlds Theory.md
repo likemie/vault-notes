@@ -22,7 +22,10 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rømer_2018]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -34,7 +37,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > Karl Popper 在 Tanner Lecture 中提出的本体论框架，将实在区分为三个世界（Popper, 2011，转引自 Rømer, 2018, p.10-11）：
 >
-> > "World 3 consists of '[[Abstract]] objects such as great books or great theories or great symphonies', and Popper emphasizes that these objects are 'objectively great'."（Rømer, 2018, p.10，引用 Popper, 2011, p.150，原文斜体）
+> > "World 3 consists of '[[Abstract]] objects such as great books or great theories or great symphonies', and Popper emphasizes that these objects are 'objectively great'."([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10,引用 Popper, 2011, p.150,原文斜体]])
 >
 > 三个世界不可彼此还原，各具独立的本体论地位。
 
@@ -62,7 +65,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] Hattie 对三个世界理论的误读
-> Rømer (2018, p.10-11) 系统论证 Hattie 从根本上扭曲了 Popper 的理论：
+> [[Argument_Rømer_2018_EPT|Rømer (2018, p.10-11)]] 系统论证 Hattie 从根本上扭曲了 Popper 的理论：
 >
 > 1. **World 3 → World 2 的塌缩**：Popper 的 World 3 是客观文化和科学对象的领域（"客观地伟大的"），与学习（World 2 的属性）无关。Hattie 将 World 3 完全替换为认知过程——"自我监控的学习者"——实质上消灭了 World 3 的客观性。
 >
@@ -70,11 +73,11 @@ updated: '2026-05-18'
 >
 > 3. **实在论 vs [[Constructivist Paradigm|建构主义]]的根本矛盾**：Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和证伪"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
 >
-> 4. **后果**：以 Popper 命名的教育理论实际上服务于 Popper 哲学在认识论上的精确对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"（Rømer, 2018, p.11）。
+> 4. **后果**：以 Popper 命名的教育理论实际上服务于 Popper 哲学在认识论上的精确对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.11]])。
 
 
 > [!warning] Qvortrup 的温和修正
-> Qvortrup (2015) 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 SOLO 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、procedural knowledge 和 metacognitive knowledge 如何相互映射，Hattie 没有给出充分说明（Qvortrup, 2015, p.30）。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射（Qvortrup, 2015, pp.30–32）。
+> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 SOLO 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、procedural knowledge 和 metacognitive knowledge 如何相互映射，Hattie 没有给出充分说明([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])。
 
 ## 相关研究
 
@@ -84,8 +87,8 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Visible Learning]] — Hattie 以（被严重误读的）Popper 三个世界理论作为 VL 的认识论基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，Hattie（2017, p.428）再度援引 Popper 证伪主义，声称 VL 包含"大胆猜想"因此"容易被证伪"——Rømer（2018）和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
-> - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；Rømer (2018) 论证此映射严重误读了 Popper
-> - [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 从 VL 内部指出 Popper/Bereiter、Bloom 和 SOLO 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
+> - [[Visible Learning]] — Hattie 以（被严重误读的）Popper 三个世界理论作为 VL 的认识论基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，[[Argument_Hattie_2017_SLM|Hattie (2017, p.428)]]再度援引 Popper 证伪主义，声称 VL 包含"大胆猜想"因此"容易被证伪"——[[Argument_Rømer_2018_EPT|Rømer (2018)]]和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
+> - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证此映射严重误读了 Popper
+> - [[Dynamic Knowledge and Learning Model]] — [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从 VL 内部指出 Popper/Bereiter、Bloom 和 SOLO 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
 > - [[Radical Constructivism]] — 与 Popper 的科学实在论处于认识论的对立两极
 

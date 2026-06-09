@@ -25,7 +25,8 @@ related_methods: []
 related_persons:
   - "[[Michael Porter]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Moisio_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -50,12 +51,12 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> Moisio（2022）将 Porter 的理论分析为[[Knowledge-Based Economization|知识经济化]]的关键地缘政治想象，识别其以下要素：
+> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 的理论分析为[[Knowledge-Based Economization|知识经济化]]的关键地缘政治想象，识别其以下要素：
 >
 > - **高度本地化的创造过程**："竞争优势通过高度本地化的过程被创造和维持"——创新和竞争力不凭空产生，而是植根于具体的本地制度、文化和历史（Porter, 1990, cited in Moisio, 2022, p.27）
-> - **全球化强化国家角色的悖论**：这是 Porter 最具政策影响力的主张——全球化非但未使国家过时，反而提升了国家作为竞争优势创造场所的重要性（Moisio, 2022, p.27）
-> - **国家的构成性贡献**：国家价值、文化、经济结构、制度和历史——而非仅企业策略——是竞争成功的深层决定因素（Moisio, 2022, p.27）
-> - **作为地缘政治想象的运作**：Moisio 将 Porter 理论定位为 Jessop（2005）意义上具有"构成性和履行性角色"的地缘政治想象——它不仅描述全球经济，更塑造政策制定者看待世界的方式（Moisio, 2022, pp.26–27）
+> - **全球化强化国家角色的悖论**：这是 Porter 最具政策影响力的主张——全球化非但未使国家过时，反而提升了国家作为竞争优势创造场所的重要性([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+> - **国家的构成性贡献**：国家价值、文化、经济结构、制度和历史——而非仅企业策略——是竞争成功的深层决定因素([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+> - **作为地缘政治想象的运作**：Moisio 将 Porter 理论定位为 Jessop（2005）意义上具有"构成性和履行性角色"的地缘政治想象——它不仅描述全球经济，更塑造政策制定者看待世界的方式([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 >
 
 ## 概念演变
@@ -65,27 +66,27 @@ updated: '2026-05-18'
 
 
 > [!note-] 对经济地理学的影响
-> 1990 年代，经济地理学对 Porter 的理论进行了空间化发展。Storper & Harrison（1991）和 Scott（1991）论证"子国家'区域'"在后福特主义中对网络发展和经济增长的核心重要性——本地基础设施、传统、专业化服务及"组织与个人之间的相互信任和关系"成为竞争优势的关键要素（Moisio, 2022, p.27）。这为后来的 Hub and [[Flow]] 城市政策（集群、创意城市、创业城市）提供了学术合法性。
+> 1990 年代，经济地理学对 Porter 的理论进行了空间化发展。Storper & Harrison（1991）和 Scott（1991）论证"子国家'区域'"在后福特主义中对网络发展和经济增长的核心重要性——本地基础设施、传统、专业化服务及"组织与个人之间的相互信任和关系"成为竞争优势的关键要素([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])。这为后来的 Hub and [[Flow]] 城市政策（集群、创意城市、创业城市）提供了学术合法性。
 
 
 > [!note-] Moisio 的批判性分析
-> Moisio（2022）将 Porter 理论从管理学和经济学话语中"解放"出来，分析为一种地缘政治想象——即按照 Jessop（2005）的定义，一种塑造叙事和维持政策范式的偏好未来图景。在此分析中，Porter 理论的功能不仅是解释经济现实，更是通过影响政策制定者的认知框架，参与制造其所描述的现实（Moisio, 2022, pp.26–27）。
+> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 理论从管理学和经济学话语中"解放"出来，分析为一种地缘政治想象——即按照 Jessop（2005）的定义，一种塑造叙事和维持政策范式的偏好未来图景。在此分析中，Porter 理论的功能不仅是解释经济现实，更是通过影响政策制定者的认知框架，参与制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
 >
 
 ## 实证表现
 
 
-- **国家冠军城市**：Crouch & Le Galès（2012）观察到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现（Moisio, 2022, pp.28–29）
-- **[[Economic Patriotism|经济爱国主义]]**：Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上（Moisio, 2022, pp.28–29）
-- **城市竞争形态**：跨空间竞争"采取城市形式，特别围绕城市社会和物质基础设施的吸引力"（Moisio, 2022, p.28）
+- **国家冠军城市**：Crouch & Le Galès（2012）观察到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
+- **[[Economic Patriotism|经济爱国主义]]**：Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
+- **城市竞争形态**：跨空间竞争"采取城市形式，特别围绕城市社会和物质基础设施的吸引力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])
 
 ---
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Porter 理论被批评为过度强调国家间竞争而忽视合作——但 Moisio 的关切不同：他关注该理论如何被用作地缘政治想象来合法化空间极化政策（Moisio, 2022, pp.27–31）
-> - 从[[Critical Geopolitics|批判地缘政治学]]视角，Porter 理论强化了"国家作为竞争领土"的想象，与[[Classical Geopolitics|古典地缘政治]]的领土偏见形成呼应——尽管其话语表面是全球化（Moisio, 2022, pp.26–27）
+> - Porter 理论被批评为过度强调国家间竞争而忽视合作——但 Moisio 的关切不同：他关注该理论如何被用作地缘政治想象来合法化空间极化政策([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–31]])
+> - 从[[Critical Geopolitics|批判地缘政治学]]视角，Porter 理论强化了"国家作为竞争领土"的想象，与[[Classical Geopolitics|古典地缘政治]]的领土偏见形成呼应——尽管其话语表面是全球化([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 >
 
 ## 相关概念

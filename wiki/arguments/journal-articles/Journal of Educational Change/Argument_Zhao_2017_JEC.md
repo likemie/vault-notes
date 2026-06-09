@@ -40,8 +40,8 @@ updated: '2026-06-08'
 year: 2017
 doi: ""
 citation_aliases:
-  - "Yong Zhao, 2017"
-  - "Yong Zhao (2017)"
+  - "Zhao, 2017"
+  - "Zhao (2017)"
 ---
 ## 研究问题
 

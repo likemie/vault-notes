@@ -37,6 +37,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Snook_2009]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[Nielsen_2021_NordPsych]]"
 part_of: ''
@@ -46,8 +47,8 @@ updated: '2026-06-08'
 year: 2021
 doi: ""
 citation_aliases:
-  - "Klaus Nielsen & Klitmøller, 2021a"
-  - "Klaus Nielsen & Klitmøller (2021a)"
+  - "Nielsen & Klitmøller, 2021a"
+  - "Nielsen & Klitmøller (2021a)"
 ---
 ## 研究问题
 
@@ -108,7 +109,7 @@ citation_aliases:
 > ("I am a measurement researcher; I am a statistician, I am not a theoretician") (Hattie, in Knudsen, 2017, p.259, cited p.2)
 >
 > > “这个切分点是来自800多项[[Meta-analysis|元分析]]的平均效应……它是一个用来创造故事的阈值”
-> ("This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story") (Hattie, 2010, p.89, cited p.7)
+> ("This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story") ([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.89, cited p.7]])
 >
 > > “在这大量的反馈研究中，存在许多相互冲突的发现，并没有一致的结果模式”
 > ("Within this large body of [[Feedback]] research, there are many conflicting findings and no consistent pattern of results") (Shute, 2008, p.153, cited p.9)

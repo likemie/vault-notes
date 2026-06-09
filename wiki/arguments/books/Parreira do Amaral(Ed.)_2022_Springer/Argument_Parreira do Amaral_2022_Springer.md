@@ -62,8 +62,8 @@ updated: '2026-06-08'
 year: 2022
 doi: ""
 citation_aliases:
-  - "Parreira do Amaral & Christiane Thompson, 2022"
-  - "Parreira do Amaral & Christiane Thompson (2022)"
+  - "Parreira do Amaral & Thompson, 2022"
+  - "Parreira do Amaral & Thompson (2022)"
 ---
 ## 编者论点
 

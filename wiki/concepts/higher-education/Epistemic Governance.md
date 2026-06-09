@@ -43,7 +43,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 知识治理（epistemic governance）指以规范、认知和知识为基础的全球治理机制，与以强制和规制为基础的"硬"治理（hard governance）形成对照。在全球治理研究中，这一转向反映了从现实主义与自由主义国际关系学（关注国家权力、交易成本与协调问题）向[[Constructivist Paradigm|建构主义]]与[[World Society Theory|世界社会理论]]的转变——在后者的视角中，观念、知识、意义、规范和[[Cultural Models|文化模型]]的建构性力量成为分析焦点（Barnett & Finnemore, 2004; Meyer et al., 1997; Wendt, 1999，引自 Zapp, 2022, p.145）。Zapp（2022）在高等教育语境中使用这一概念，分析大学如何通过提供科学知识、培养全球治理专家和推行[[University Social Responsibility|大学社会责任]]，在去中心化的全球治理架构中占据独特的知识权威位置。
+> 知识治理（epistemic governance）指以规范、认知和知识为基础的全球治理机制，与以强制和规制为基础的"硬"治理（hard governance）形成对照。在全球治理研究中，这一转向反映了从现实主义与自由主义国际关系学（关注国家权力、交易成本与协调问题）向[[Constructivist Paradigm|建构主义]]与[[World Society Theory|世界社会理论]]的转变——在后者的视角中，观念、知识、意义、规范和[[Cultural Models|文化模型]]的建构性力量成为分析焦点（Barnett & Finnemore, 2004; Meyer et al., 1997; Wendt, 1999，引自 Zapp, 2022, p.145）。[[Argument_Zapp_2022_Springer|Zapp (2022)]]在高等教育语境中使用这一概念，分析大学如何通过提供科学知识、培养全球治理专家和推行[[University Social Responsibility|大学社会责任]]，在去中心化的全球治理架构中占据独特的知识权威位置。
 
 ---
 ## 概念辨析
@@ -68,7 +68,7 @@ updated: 2026-05-20
 ### 在教育治理中的应用
 
 - 2016 年 Normand 在 *The Changing Epistemic Governance of European Education* 中系统阐述了欧洲教育的知识治理转型，将 epistemic governance 概念引入教育政策分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
-- Zapp（2022）将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals|SDGs]] 为关键催化剂。详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]（pp.150–154）
+- [[Argument_Zapp_2022_Springer|Zapp (2022)]]将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals|SDGs]] 为关键催化剂。详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]（pp.150–154）
 
 ---
 ## 核心要素

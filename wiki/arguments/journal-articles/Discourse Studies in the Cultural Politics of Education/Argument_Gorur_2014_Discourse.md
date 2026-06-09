@@ -19,6 +19,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[International Education]]"
   - "[[Science and Technology Studies]]"
+  - "[[Performativity]]"
   - "[[Analytic Framework]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
@@ -56,7 +57,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - **[[Science and Technology Studies]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（performativity：测量如何制造世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
+> - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（[[Performativity]]：测量如何制造世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
 > - **共同生产（Co-production）**（Jasanoff, 2004） — 科学与治理相互构成的[[Analytic Framework|分析框架]]([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 
 ## 研究方法
@@ -78,7 +79,7 @@ citation_aliases:
 >
 >    **(c) 指标的制度化与 routinisation**：曾经激烈的辩论转变为协议，协议转变为常规——数据生成的常规、统计公式应用的常规、年度出版的常规。方法论程序化产生了"机械客观性"(Porter, 1995; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])。共识可视为[[Transfer Translation Transformation|转译]]（Callon, 1986; Latour, 1999），通过纳入多样化利益使 EAG 能够高效常规生产([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
 >
->    **(d) 测量的 performativity**：指标一旦存在就作用于世界——改变理解和行为、物化非原始的[[Causality|因果关系]]、使被排除在计算之外的领域失去重要性。赋予"可计算性特征"本身就是改变世界的行为([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.15–18]])
+>    **(d) 测量的 [[Performativity]]**：指标一旦存在就作用于世界——改变理解和行为、物化非原始的[[Causality|因果关系]]、使被排除在计算之外的领域失去重要性。赋予"可计算性特征"本身就是改变世界的行为([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.15–18]])
 >
 > 3. **结论**：测量不是描述性的而是生产性的（世界制造过程）。对测量的批判不仅应指出其简化论或不准确性（这种批判仍属再现论框架），而应理解其 instrumentalism（提供干预的潜在切入点）和 world-making 功能（提供承担此类研究的道德和伦理动力）。在测量深度影响政策的时代，"批判作为一种道德事业"（critique as a moral enterprise）是必要的([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18–19]])
 
@@ -117,7 +118,7 @@ citation_aliases:
 >
 > ### 潜在批评
 > - 论文对 OECD 内部运作的描绘主要依赖于一位（虽高度知情的）前内部人士的视角，可能存在偏向
-> - 对 performativity 的强调可能不足以解释指标在各国实际政策中被使用的复杂方式（选择性使用、策略性引用等）
+> - 对 [[Performativity]] 的强调可能不足以解释指标在各国实际政策中被使用的复杂方式（选择性使用、策略性引用等）
 > - 论文未深入探讨"替代方案"——如果不用 OECD 指标，国际比较教育应基于什么
 
 ## 来源

@@ -28,6 +28,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -39,7 +40,7 @@ updated: '2026-06-08'
 > [!info] 定义
 > 伞状综述（Umbrella Review）是一种对已有[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]进行再综合的高级综述方法。Grant 和 Booth（2009）将其定义为一种整合多个综述的证据的综合形式。与[[Meta-meta-analysis|元-元分析]]直接合并[[Effect Size|效应量]]不同，伞状综述更强调以共同的方法论框架跨不同领域整合证据，为实践者提供可比较的信息([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 >
-> [[EEF Teaching and Learning Toolkit]] 是伞状综述在教育领域最具代表性的应用。Higgins（2016）将 Toolkit 的摘要描述为一系列整合的伞状综述，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结（p.47）。
+> [[EEF Teaching and Learning Toolkit]] 是伞状综述在教育领域最具代表性的应用。[[Argument_Higgins_2016_RE|Higgins (2016)]]将 Toolkit 的摘要描述为一系列整合的伞状综述，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结（p.47）。
 
 ---
 
@@ -91,7 +92,7 @@ updated: '2026-06-08'
 > - 伞状综述的结论受底层综述质量的约束。如果纳入的[[Systematic Review|系统综述]]或[[Meta-analysis|元分析]]本身存在方法论缺陷，这些缺陷会在综合中被继承甚至放大
 > - 跨领域比较面临"苹果和橙子"问题的升级版。不同领域的干预在定义、实施和结果测量上的差异可能使直接比较失去意义([[Argument_Higgins_2016_RE|Higgins, 2016, p.45]])
 > - 为了可及性而进行的简化可能掩盖证据的复杂性。Toolkit 将[[Effect Size|效应量]]转换为"额外学习月数"虽然易于理解，但这一转换本身是粗糙的([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])
-> - 某些领域的证据基础可能过于稀疏，无法支持有意义的综合。Toolkit 的体育参与条目仅基于三个元分析中的四个效应量（Wrigley & McCusker, 2019）
+> - 某些领域的证据基础可能过于稀疏，无法支持有意义的综合。Toolkit 的体育参与条目仅基于三个元分析中的四个效应量([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
 
 ---
 

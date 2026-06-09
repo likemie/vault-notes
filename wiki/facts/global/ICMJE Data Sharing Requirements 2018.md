@@ -23,7 +23,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Brock_2025_DataAccessGenerationUse]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -35,7 +36,7 @@ updated: 2026-06-04
 ## 背景
 
 > [!info]
-> 国际医学期刊编辑委员会（International Committee of Medical Journal Editors, ICMJE）是一组主流医学期刊编辑组成的标准制定机构。2017 年 6 月，ICMJE 发布了两项新要求，于 2018 年正式生效，适用于希望被列入 ICMJE 网站出版物列表的期刊（Brock, 2025, pp.300–301）。
+> 国际医学期刊编辑委员会（International Committee of Medical Journal Editors, ICMJE）是一组主流医学期刊编辑组成的标准制定机构。2017 年 6 月，ICMJE 发布了两项新要求，于 2018 年正式生效，适用于希望被列入 ICMJE 网站出版物列表的期刊([[Argument_Brock_2025_DataAccessGenerationUse|Brock, 2025, pp.300–301]])。
 
 ## 政策文本摘要
 
@@ -50,7 +51,7 @@ updated: 2026-06-04
 ## 对产学合作的影响
 
 > [!note]
-> 在[[University-Industry Collaboration|产学合作]]中，ICMJE 要求产生了一个重要的制度约束（Brock, 2025, p.301）。产业赞助的[[Clinical Trial|临床试验]]如果希望在 ICMJE 成员期刊（如 NEJM、Lancet、JAMA、Annals of Internal Medicine 等）上发表结果，必须在首例患者入组前完成公共注册——这意味着注册不是发表时的附加步骤，而是研究启动时的前置条件。对于追求学术发表的产学合作临床试验项目，这一时间线要求需要在协议起草阶段就被纳入项目规划。
+> 在[[University-Industry Collaboration|产学合作]]中，ICMJE 要求产生了一个重要的制度约束([[Argument_Brock_2025_DataAccessGenerationUse|Brock, 2025, p.301]])。产业赞助的[[Clinical Trial|临床试验]]如果希望在 ICMJE 成员期刊（如 NEJM、Lancet、JAMA、Annals of Internal Medicine 等）上发表结果，必须在首例患者入组前完成公共注册——这意味着注册不是发表时的附加步骤，而是研究启动时的前置条件。对于追求学术发表的产学合作临床试验项目，这一时间线要求需要在协议起草阶段就被纳入项目规划。
 
 > [!note]
 > 数据共享声明要求则对产学数据条款的起草产生间接影响。声明本身不强制共享，但要求作者说明数据将如何被共享（或不被共享）——这就迫使产学双方在协议中预先约定数据共享的范围、条件和时间窗口，否则研究者在撰写稿件时将无法填写数据共享声明。换言之，ICMJE 要求通过控制发表出口，倒逼了协议入口的条款明确化。

@@ -21,7 +21,8 @@ related_methods:
   - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -33,10 +34,10 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 非方向性语言（nondirectional language）是[[Qualitative Research|质性研究]]中在表述[[Purpose Statement|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——[[Qualitative Interview|质性访谈]]者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向（Creswell & Creswell, 2022, p.126）。
+> 非方向性语言（nondirectional language）是[[Qualitative Research|质性研究]]中在表述[[Purpose Statement|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——[[Qualitative Interview|质性访谈]]者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.126]])。
 
 > [!quote]
-> "McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the 'law of nondirection' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation."（Creswell & Creswell, 2022, p.126）
+> "McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the 'law of nondirection' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.126]])
 
 非方向性语言的核心原则是：研究者在表述研究意图和提出问题时，不预设"好"或"成功"的结果，而是让参与者的经验本身来定义意义。
 
@@ -82,5 +83,5 @@ updated: 2026-05-31
 ## 争议与批评
 
 > [!warning]
-> 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，Creswell & Creswell (2022) 的立场是：非方向性语言主要适用于[[Purpose Statement|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
+> 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的立场是：非方向性语言主要适用于[[Purpose Statement|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
 

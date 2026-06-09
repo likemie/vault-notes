@@ -23,7 +23,8 @@ related_methods:
   - "[[Exploratory Sequential Design]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -35,7 +36,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 整合陈述（integration Statement）是[[Mixed Methods Research|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分（Creswell & Creswell, 2022, p.251）。
+> 整合陈述（integration Statement）是[[Mixed Methods Research|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.251]])。
 
 整合陈述在撰写报告时，需要用研究实际使用的具体数据信息来替换抽象的"量化数据"和"质性数据"占位词。
 
@@ -44,7 +45,7 @@ updated: 2026-06-02
 ## 写作脚本
 
 > [!tip]
-> 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择（Creswell & Creswell, 2022, pp.251–252）。
+> 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.251–252]])。
 
 **[[Convergent Design|聚敛式设计]]**：
 > "integration involved comparing the results from the quantitative and qualitative data by merging so that a more complete understanding emerges than provided by the quantitative or the qualitative results alone."

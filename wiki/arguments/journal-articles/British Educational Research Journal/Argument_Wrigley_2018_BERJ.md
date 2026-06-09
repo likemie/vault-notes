@@ -53,8 +53,8 @@ updated: '2026-06-08'
 year: 2018
 doi: ""
 citation_aliases:
-  - "Terry Wrigley, 2018"
-  - "Terry Wrigley (2018)"
+  - "Wrigley, 2018"
+  - "Wrigley (2018)"
 ---
 ## 研究问题
 

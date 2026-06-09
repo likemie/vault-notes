@@ -54,7 +54,7 @@ updated: 2026-06-01
 ## 核心张力
 
 > [!abstract]
-> Schulze-Cleven et al.（2017, pp.804–805）通过 Jessop 和 Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：
+> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.804–805)]]通过 Jessop 和 Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：
 
 ### 公共品与私有资产的张力
 

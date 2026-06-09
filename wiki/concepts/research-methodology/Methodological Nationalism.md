@@ -23,7 +23,9 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-12
@@ -57,7 +59,7 @@ updated: 2026-05-18
 > - **遮蔽全球现象** — 方法论民族主义透镜阻挡了对生态、科学（就其认识论自主性而言）等全球性现象的观察([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]])
 > - **与规范性民族主义的共生** — 二者相互倚靠，Massey（2005）称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]])
 > - **在高等教育中的具体表现** — 比较教育研究中以国家为唯一比较单位；大学排名将"国家表现"作为关键指标；政策研究将跨境流动视为国家政策的附属物([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])
-> - **在比较教育中的具体表现** — 大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。Beech & Artopoulos (2015) 指出，这种「静态的转移解释」将教育思想的生产地和接收地视为固定的国家领土，忽视了知识在流通过程中被建构的关系性维度。从 Jullien 以来，比较教育的主流传统都在寻找「在一个语境中有效」的制度、思想或实践，然后试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应和[[Recontextualization|再脉络化]]过程，仍然基于地缘政治和领土性的空间定义。
+> - **在比较教育中的具体表现** — 大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。[[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 指出，这种「静态的转移解释」将教育思想的生产地和接收地视为固定的国家领土，忽视了知识在流通过程中被建构的关系性维度。从 Jullien 以来，比较教育的主流传统都在寻找「在一个语境中有效」的制度、思想或实践，然后试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应和[[Recontextualization|再脉络化]]过程，仍然基于地缘政治和领土性的空间定义。
 > - **方法论国家主义、方法论国家中心主义和方法论教育主义的叠加** — Dale & Robertson（2009）进一步扩展了这一批判，指出在全球化世界中仅关注国家教育系统不仅是方法论国家主义（methodological nationalism），还是方法论国家中心主义（methodological statism）和方法论教育主义（methodological educationism）：将国家视为唯一或最关键的教育行动者、将教育等同于大众学校教育([[Argument_Klerides_2023_CE|Klerides, 2023, p.423]])。三者的叠加效应使得比较教育在方法论层面系统性地遮蔽了跨国治理网络、非国家行动者和非学校形式的教育实践。
 
 ---
@@ -65,9 +67,9 @@ updated: 2026-05-18
 ## 概念演变
 
 > [!note]
-> 方法论民族主义概念由 Wimmer 和 Schiller（2003）在移民研究中系统提出，后由 Beck（2007）扩展至全球化理论。在高等教育研究中，Marginson 和 Rhoades（2002）的"全球-国家-地方能动性"（glonacal agency）框架和 Dale（2005）的"全球教育政策"研究较早挑战了这一预设。Marginson（2025）进一步论证，Massey 的[[Relational Space|关系性空间]]理论为超越方法论民族主义提供了最深层的本体论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])。
+> 方法论民族主义概念由 Wimmer 和 Schiller（2003）在移民研究中系统提出，后由 Beck（2007）扩展至全球化理论。在高等教育研究中，Marginson 和 Rhoades（2002）的"全球-国家-地方能动性"（glonacal agency）框架和 Dale（2005）的"全球教育政策"研究较早挑战了这一预设。[[Argument_Marginson_2025_ROE|Marginson (2025)]]进一步论证，Massey 的[[Relational Space|关系性空间]]理论为超越方法论民族主义提供了最深层的本体论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])。
 >
-> Beech（2009）从比较教育研究的术语层面揭示了方法论民族主义的深层嵌入：比较教育中常用的"跨国"（transnational，字面意为跨越国家）和"国际"（international，字面意为国家之间）这两个术语本身就预设了"国家"层面或国家作为活动基础。即使 Dale 的"超国家"（supranational）概念——指一个独立于国家之外的分析层面——其定义仍以民族国家为基准来理解该空间。Beech 提出 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区分为彻底放弃国家作为空间参照提供了可能（Beech, 2009, pp.348–349）。
+> [[Argument_Beech_2009_CE|Beech (2009)]]从比较教育研究的术语层面揭示了方法论民族主义的深层嵌入：比较教育中常用的"跨国"（transnational，字面意为跨越国家）和"国际"（international，字面意为国家之间）这两个术语本身就预设了"国家"层面或国家作为活动基础。即使 Dale 的"超国家"（supranational）概念——指一个独立于国家之外的分析层面——其定义仍以民族国家为基准来理解该空间。Beech 提出 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区分为彻底放弃国家作为空间参照提供了可能([[Argument_Beech_2009_CE|Beech, 2009, pp.348–349]])。
 
 ---
 

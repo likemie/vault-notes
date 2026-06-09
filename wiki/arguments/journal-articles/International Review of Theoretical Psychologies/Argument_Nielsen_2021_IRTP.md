@@ -34,6 +34,8 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Snook_2009]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Hansen_2015_Paideia]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
 sources:
@@ -45,8 +47,8 @@ updated: '2026-06-08'
 year: 2021
 doi: ""
 citation_aliases:
-  - "Klaus Nielsen & Klitmøller, 2021b"
-  - "Klaus Nielsen & Klitmøller (2021b)"
+  - "Nielsen & Klitmøller, 2021b"
+  - "Nielsen & Klitmøller (2021b)"
 ---
 ## 研究问题
 
@@ -76,9 +78,9 @@ citation_aliases:
 > - 去情境化标准：d=0.40 截断点任意设定（类比：低剂量阿司匹林预防心脏病）
 > - 苹果与橘子比较：将根本不同的现象聚合在同一[[Effect Size|效应量]]下
 > - 垃圾进垃圾出：纳入低质量研究
-> - 统计问题：效应量计算错误（Bergeron, 2017; Simpson, 2017; Topphol, 2011）
+> - 统计问题：效应量计算错误(Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Topphol, 2011)
 >
-> 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 Hattie 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"（Qvortrup, 2015），有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, p. 7]])。
+> 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 Hattie 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]])，有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, p. 7]])。
 >
 > ### 2. Hattie 提供的是理论而非数据
 >

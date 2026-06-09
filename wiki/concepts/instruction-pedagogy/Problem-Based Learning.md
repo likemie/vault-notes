@@ -27,6 +27,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Blass_2020_JESP]]"
 confidence: low
 status: draft
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 问题式学习（Problem-Based Learning, PBL）是一种以问题驱动学习的教学方法。学生在小组中协作，先面对一个问题以激活其先前知识，然后构建理论或心理模型来解释该问题的底层因果结构，随后通过持续学习、讨论和解决问题来精炼其心理模型（Schmidt, Rotgans, & Yew, 2011, p.793; Hattie, 2015, p.85）。
 >
-> 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。Schaffar & Wolff (2024) 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的[[Constructivist Paradigm|建构主义]]学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL（Schaffar & Wolff, 2024, pp.2, 8）。
+> 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的[[Constructivist Paradigm|建构主义]]学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2, 8]])。
 >
 > > "Students are presented with a problem in order to activate their prior knowledge. This prior knowledge is then built upon further as the learners collaborate in small groups to [[Construct]] a theory or proposed mental model to explain the problem in terms of its underlying causal structure." (Schmidt, Rotgans, & Yew, 2011, p.793)
 
@@ -103,7 +104,7 @@ updated: '2026-05-18'
 
 
 > [!warning] Hattie 的 PBL [[Meta-analysis|元分析]]数据库质量争议
-> Blass（2020, pp.92–93）对 Hattie (2009) VL 中 PBL 效应量背后的 8 项基础研究进行了详细的附录审查，发现严重的情境错配和纳入标准问题：
+> [[Argument_Blass_2020_JESP|Blass (2020, pp.92–93)]]对 Hattie (2009) VL 中 PBL 效应量背后的 8 项基础研究进行了详细的附录审查，发现严重的情境错配和纳入标准问题：
 >
 > **8 项研究的内容分析**：
 >
@@ -124,13 +125,13 @@ updated: '2026-05-18'
 > - 两项元分析关注评估对 PBL 的影响（而非 PBL 本身与替代教学法的比较）([[Argument_Blass_2020_JESP|Blass, 2020, p.92]])
 > - Blass 指出医学 PBL 研究实际上展示了更窄的知识覆盖范围但更大的学习深度——如果目标是深度学习则 PBL 合适，目标是广泛[[Surface and Deep Learning|表层学习]]则不合适。但 VL 的单一效应量排名不允许考虑不同学习目标([[Argument_Blass_2020_JESP|Blass, 2020, p.93]])
 >
-> **PBL 成功依赖教师技能的实证证据**：Blass（2020, p.95）报告在 Inventorium（一个在线 PBL/探究式学习的替代性高中）的测试中发现：当团队培训和管理教师时有 100% 学生保留率，当交给未经专门培训的课堂教师时几乎 100% 不参与——"教师是学习中最重要的因素，无论使用什么教学法"。
+> **PBL 成功依赖教师技能的实证证据**：[[Argument_Blass_2020_JESP|Blass (2020, p.95)]]报告在 Inventorium（一个在线 PBL/探究式学习的替代性高中）的测试中发现：当团队培训和管理教师时有 100% 学生保留率，当交给未经专门培训的课堂教师时几乎 100% 不参与——"教师是学习中最重要的因素，无论使用什么教学法"。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
 > - vs [[Direct Instruction]] — PBL 以学生自主探究为驱动，直接教学以教师主导的结构化讲解为驱动。Hattie (2015) 的[[Effect Size|效应量]]对比（d≈0.12 vs d=0.60）显示在平均效应上直接教学更优，但 PBL 的效果高度依赖于学生的先备知识水平
-> - vs [[Phenomenon-Based Learning]] — PBL 通常从"问题"组织学习，PhBL 从"现象"组织学习。两者都可采用[[Constructivist Paradigm|建构主义]]学习观，但 PhBL 在芬兰语境中还承担跨学科、生活世界、具身经验和教育目的论反思的功能（Schaffar & Wolff, 2024, pp.2-3, 8）。
+> - vs [[Phenomenon-Based Learning]] — PBL 通常从"问题"组织学习，PhBL 从"现象"组织学习。两者都可采用[[Constructivist Paradigm|建构主义]]学习观，但 PhBL 在芬兰语境中还承担跨学科、生活世界、具身经验和教育目的论反思的功能([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3, 8]])。
 
 ## 相关案例／政策
 

@@ -24,7 +24,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -36,11 +37,11 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 学科理论（discipline-based theory）是[[Mixed Methods Research|混合方法研究]]中第一种主要的理论运用类型，指从社会科学、行为科学或健康科学文献中提取的理论。这类理论通常识别[[Variable|变量]]或[[Construct|构念]]，将它们相互关联，并形成和解释对个人和组织的预期结果（Creswell & Creswell, 2022, p.69）。学科理论的例子包括组织理论、领导力理论、采纳理论、[[Attribution Theory|归因理论]]和健康促进理论等。
+> 学科理论（discipline-based theory）是[[Mixed Methods Research|混合方法研究]]中第一种主要的理论运用类型，指从社会科学、行为科学或健康科学文献中提取的理论。这类理论通常识别[[Variable|变量]]或[[Construct|构念]]，将它们相互关联，并形成和解释对个人和组织的预期结果([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.69]])。学科理论的例子包括组织理论、领导力理论、采纳理论、[[Attribution Theory|归因理论]]和健康促进理论等。
 
 ## 在混合方法研究中的角色
 
-学科理论在[[Mixed Methods Research|混合方法研究]]中发挥多重作用（Creswell & Creswell, 2022, pp.69–70; Evans et al., 2011）：
+学科理论在[[Mixed Methods Research|混合方法研究]]中发挥多重作用([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.69–70]]; Evans et al., 2011)：
 
 > [!abstract]
 > - 为组织和报告量化与质性数据提供框架
@@ -53,10 +54,10 @@ updated: 2026-05-31
 ## 应用示例
 
 > [!example]
-> Kennett et al. (2008) 在一项关于慢性疼痛管理的[[Mixed Methods Research|混合方法研究]]中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论（theory of self-control）作为学科理论。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并收集了应对慢性疼痛患者的访谈数据。作者在开头段落即提出[[Purpose Statement|研究目的]]："Taking a critical realist perspective informed by Rosenbaum's (1990, 2000) model of self-control..."（p.318）。理论引导了量化测量的选择和[[Qualitative Interview|质性访谈]]问题的设计，在文章末尾他们回顾了导致自我管理的因素并以图表呈现最显著的因素（Creswell & Creswell, 2022, pp.69–70）。
+> Kennett et al. (2008) 在一项关于慢性疼痛管理的[[Mixed Methods Research|混合方法研究]]中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论（theory of self-control）作为学科理论。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并收集了应对慢性疼痛患者的访谈数据。作者在开头段落即提出[[Purpose Statement|研究目的]]："Taking a critical realist perspective informed by Rosenbaum's (1990, 2000) model of self-control..."（p.318）。理论引导了量化测量的选择和[[Qualitative Interview|质性访谈]]问题的设计，在文章末尾他们回顾了导致自我管理的因素并以图表呈现最显著的因素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.69–70]])。
 
 > [!example]
-> Clark & Plano Clark (2019) 使用积极心理学（positive psychology）作为学科理论，并辅以社会认知理论、自我决定理论和社会认知职业理论。理论引导了量化阶段的测量选择和质性阶段的参与者选择，也指导了质性数据收集的[[Interview Protocol|访谈协议]]和[[Coding in Qualitative Research|编码]]框架。作者将积极心理学描述为"a lens through which to frame the research design, case selection, and interpretation of results and findings"（p.104）（Creswell & Creswell, 2022, p.72）。
+> Clark & Plano Clark (2019) 使用积极心理学（positive psychology）作为学科理论，并辅以社会认知理论、自我决定理论和社会认知职业理论。理论引导了量化阶段的测量选择和质性阶段的参与者选择，也指导了质性数据收集的[[Interview Protocol|访谈协议]]和[[Coding in Qualitative Research|编码]]框架。作者将积极心理学描述为"a lens through which to frame the research design, case selection, and interpretation of results and findings"（p.104）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.72]])。
 
 ## 概念辨析
 
@@ -64,10 +65,10 @@ updated: 2026-05-31
 > **学科理论 vs [[Social Justice Theory|社会正义理论]]**：学科理论从学科文献中提取，关注[[Variable|变量]]间关系的解释和预测；社会正义理论从边缘群体的需求和视角出发，关注权力、压迫和社会变革。两者都是[[Mixed Methods Research|混合方法研究]]中常用的理论类型。
 
 > [!example]
-> **学科理论 vs 世界观（worldview）**：世界观涉及研究者的信念和价值观，在抽象层面运作，可能不会被明确陈述；理论则不那么抽象，从文献中提取，为研究设计的诸多方面提供具体指导（Creswell & Creswell, 2022, p.71; Crotty, 1998）。
+> **学科理论 vs 世界观（worldview）**：世界观涉及研究者的信念和价值观，在抽象层面运作，可能不会被明确陈述；理论则不那么抽象，从文献中提取，为研究设计的诸多方面提供具体指导([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.71]]; Crotty, 1998)。
 
 ## 理论基础
 
 > [!tip]
-> [[Mixed Methods Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取[[Construct|构念]]（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始[[Coding in Qualitative Research|编码]]和主题"以及量化数据分析的假设关系；理论贡献了有用的发现类型学（Creswell & Creswell, 2022, pp.71–72）。
+> [[Mixed Methods Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取[[Construct|构念]]（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始[[Coding in Qualitative Research|编码]]和主题"以及量化数据分析的假设关系；理论贡献了有用的发现类型学([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.71–72]])。
 

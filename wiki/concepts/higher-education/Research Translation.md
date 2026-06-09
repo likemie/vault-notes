@@ -21,6 +21,8 @@ related_concepts:
   - "[[Academic Engagement Team]]"
 related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
+related_arguments:
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -32,7 +34,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 研究转化（Research Translation），又称创新过程，指将研究发现和发明（invention）转化为产品、服务和实践（innovation）的多阶段过渡过程。Ramming（2025, pp.231–232）强调发明与创新之间的关键区分：大学和研究团队专注于扩展人类知识边界（发明），而将发明融入产品需要克服三类独立的风险——工程团队能否实现（技术风险）、产品经理能否找到产品-市场匹配（市场风险）、销售体系能否成功进入市场（商业化风险）。
+> 研究转化（Research Translation），又称创新过程，指将研究发现和发明（invention）转化为产品、服务和实践（innovation）的多阶段过渡过程。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.231–232)]]强调发明与创新之间的关键区分：大学和研究团队专注于扩展人类知识边界（发明），而将发明融入产品需要克服三类独立的风险——工程团队能否实现（技术风险）、产品经理能否找到产品-市场匹配（市场风险）、销售体系能否成功进入市场（商业化风险）。
 
 研究转化的时间尺度漫长：被许可的大学发明从许可到产品上市通常需要 3–8 年，专利本身的申请和授权又需要额外数年（Pressman et al., 2022，转引自 p.224）。生命科学领域的创新时间线更长——从 I 期临床到监管批准可能超过 10 年（Thomas et al., 2021，转引自 p.224）。
 
@@ -51,7 +53,7 @@ updated: 2026-06-03
 ## 核心要素
 
 > [!abstract]
-> Ramming（2025, pp.231–232）的研究转化漏斗模型包含六个里程碑指标：
+> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.231–232)]]的研究转化漏斗模型包含六个里程碑指标：
 
 1. **学术发表**（优先顶级会议/期刊）— 学术同行评审作为新颖性的初始筛选机制
 2. **大学原型** — 验证概念可行性
@@ -67,7 +69,7 @@ updated: 2026-06-03
 ## 转化路径的多样性
 
 > [!note]
-> 研究转化并不总是指向本公司产品的直接商业化。Ramming（2025, pp.232–233）识别了至少三种转化路径：
+> 研究转化并不总是指向本公司产品的直接商业化。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.232–233)]]识别了至少三种转化路径：
 
 - **有机创新路径**：将大学研究成果直接整合到公司现有产品中，利益相关者是工程团队和产品经理
 - **无机创新路径**：通过识别和收购大学衍生的初创企业来实现转化，利益相关者是企业发展（corporate development）团队

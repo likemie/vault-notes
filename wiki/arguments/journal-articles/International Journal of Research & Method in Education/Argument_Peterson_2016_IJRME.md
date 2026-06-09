@@ -44,8 +44,8 @@ updated: '2026-06-08'
 year: 2016
 doi: ""
 citation_aliases:
-  - "Amelia Peterson, 2016"
-  - "Amelia Peterson (2016)"
+  - "Peterson, 2016"
+  - "Peterson (2016)"
 ---
 ## 研究问题
 

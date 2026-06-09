@@ -39,7 +39,7 @@ updated: 2026-06-01
 > [!info]
 > 学术马太效应（Matthew Effect in Academia）源自 Merton（1968）在科学社会学中对"马太效应"的经典阐述，"凡有的，还要加给他，叫他有余；凡没有的，连他所有的，也要夺去"（Matthew 25:29）。Merton 用它来描述科学界中一个反复出现的模式：已有声誉的科学家在合作研究中获得不成比例的信誉，而相对不知名的合作者即便贡献相当，其工作也被低估。
 
-Schulze-Cleven et al.（2017）将这一概念引入对高等教育治理的当代分析中，将其具体化为**制度化的马太效应**（institutionalized Matthew effect）：通过绩效拨款、全球排名和评估机制，资源，资金、声誉、人才，系统性地向已经拥有资源的机构和个体进一步集中（pp.801–802）。
+[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]将这一概念引入对高等教育治理的当代分析中，将其具体化为**制度化的马太效应**（institutionalized Matthew effect）：通过绩效拨款、全球排名和评估机制，资源，资金、声誉、人才，系统性地向已经拥有资源的机构和个体进一步集中（pp.801–802）。
 
 > [!quote]
 > "作为制度化的马太效应（即资源向已有资源的机构进一步积累），这一学术版本的'准市场'在部分国家已成为主要的分配机制。"([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.801]])

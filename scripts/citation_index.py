@@ -203,7 +203,7 @@ def chinese_author_part(citation: str, year: str) -> str:
     if len(cjk_parts) == 1:
         return cjk_parts[0]
     if len(cjk_parts) == 2:
-        return f"{cjk_parts[0]}与{cjk_parts[1]}"
+        return f"{cjk_parts[0]}和{cjk_parts[1]}"
     return f"{cjk_parts[0]}等"
 
 

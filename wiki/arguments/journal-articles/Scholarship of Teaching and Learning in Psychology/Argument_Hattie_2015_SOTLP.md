@@ -35,8 +35,8 @@ updated: '2026-06-08'
 year: 2015
 doi: ""
 citation_aliases:
-  - "John Hattie, 2015b"
-  - "John Hattie (2015b)"
+  - "Hattie, 2015b"
+  - "Hattie (2015b)"
 ---
 ## 研究问题
 

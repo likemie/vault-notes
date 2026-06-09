@@ -38,7 +38,7 @@ updated: '2026-05-18'
 >
 > > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230)
 >
-> Rappleye (2006) 将外化概念发展为双向运作：不仅改革方"外化"到国际趋势以推动改革，抵制方同样"外化"到"传统"以维护现状。（p. 232）
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 将外化概念发展为双向运作：不仅改革方"外化"到国际趋势以推动改革，抵制方同样"外化"到"传统"以维护现状。（p. 232）
 >
 > 本概念在本库中的完整论证入口见 [[Argument_Rappleye_2006_RCIE]]。
 
@@ -48,28 +48,28 @@ updated: '2026-05-18'
 > - **Schriewer (1990)** — 在比较教育方法论中首次系统提出外化概念，将其定位为比较方法的认识论工具
 > - **Schriewer (2003)** — 将外化纳入更广泛的话语形成（Discourse Formation）理论框架
 > - **Schriewer & Martinez (2004)** — 区分"进化过程"（更广阔世界的变化）和"语义建构"（人类与结构领域的互动产物），强调两者完全独立
-> - **Rappleye (2006)** — 将外化概念整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，赋予其在改革和抵制两侧的对称位置
+> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 将外化概念整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，赋予其在改革和抵制两侧的对称位置
 
 ## 核心要素
 
 > [!abstract] 外化的双向性
-> Rappleye (2006) 将外化区分为两个方向（p. 230, 232）：
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 将外化区分为两个方向（p. 230, 232）：
 >
 > **改革侧 — 外化到国际趋势：**
 > 改革行动者从结构性推力（如 [[PISA]] 排名下滑、经济竞争压力、国际评估结果）中选择性地援引证据，将国内改革方案包装为"响应全球趋势"的必然选择，从而降低国内反对。
 >
-> > 例：[[Sputnik Shock 1957|Sputnik]]（苏联 1957 年发射首颗人造卫星）是一个显著的结构性推力信号——它确实表明"更广阔世界"发生了变化。但从中得出"苏联率先发射卫星是因为其教育体系更优越"的结论，是一个必须被批判性解构的智识跳跃。Arther Trace 的《What Ivan Knows that Johnny Doesn't》(1961) 正是通过引入外国范例来丑闻化本国现状的经典外化案例。（Rappleye, 2006, p. 230）
+> > 例：[[Sputnik Shock 1957|Sputnik]]（苏联 1957 年发射首颗人造卫星）是一个显著的结构性推力信号——它确实表明"更广阔世界"发生了变化。但从中得出"苏联率先发射卫星是因为其教育体系更优越"的结论，是一个必须被批判性解构的智识跳跃。Arther Trace 的《What Ivan Knows that Johnny Doesn't》(1961) 正是通过引入外国范例来丑闻化本国现状的经典外化案例。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]])
 >
 > **抵制侧 — 外化到传统：**
 > 抵制行动者同样从"传统""历史""文化"中选择性地援引元素，将维持现状包装为"保护独特遗产"的必然选择。Schriewer & Martinez 指出：
 >
 > > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 232)
 >
-> > 例：二战后盟军占领当局试图改革德国教育时，德国抵制者质疑美国是否有任何东西可以"教"德国——鉴于德国教育传统的辉煌历史（Phillips, 1995）。这是将外化到"历史荣耀"来抵制外部驱动的改革。（Rappleye, 2006, p. 232）
+> > 例：二战后盟军占领当局试图改革德国教育时，德国抵制者质疑美国是否有任何东西可以"教"德国——鉴于德国教育传统的辉煌历史（Phillips, 1995）。这是将外化到"历史荣耀"来抵制外部驱动的改革。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
 
 
 > [!abstract] 外化与情境的"双层结构"
-> 外化概念揭示了情境并非单一实体，而是由两个独立层面构成（Rappleye, 2006, p. 230–232）：
+> 外化概念揭示了情境并非单一实体，而是由两个独立层面构成([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230–232]])：
 > 1. **"更广阔世界的变化"（进化过程）：** 结构性推力与结构性阻力之间的互动——完全独立于人的能动性
 > 2. **"语义建构"：** 改革行动者和抵制行动者如何"包装"（externalize）其改革或抵制方案——高度依赖话语策略
 >

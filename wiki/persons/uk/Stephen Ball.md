@@ -61,4 +61,4 @@ Ball 的工作为理解教育中[[Network Governance|网络治理]]模式（netw
 
 ### 教育社会学史与治理视角([[Argument_Ball_2008_SR|Ball, 2008]])
 
-Ball（2008）将英国教育社会学史重写为若干问题、位置和研究目光的转换：[[Political Arithmetic|政治算术]]将家庭、阶级和机会分配置于福利国家政策视野中；[[New Sociology of Education|新教育社会学]]把研究目光转向学校知识和课堂过程；[[School Effectiveness|学校效能]]则把学校重构为可测量、可比较、可治理的组织对象([[Argument_Ball_2008_SR|Ball, 2008, pp.650-665]])。这一分析延续了 Ball 对教育政策、治理技术和教师专业权力关系的关注：教育社会学不只是解释教育现实，也会生产使家庭、学校、教师和学生可被政策干预的权力光学([[Argument_Ball_2008_SR|Ball, 2008, pp.651, 665]])。
+[[Argument_Ball_2008_SR|Ball (2008)]]将英国教育社会学史重写为若干问题、位置和研究目光的转换：[[Political Arithmetic|政治算术]]将家庭、阶级和机会分配置于福利国家政策视野中；[[New Sociology of Education|新教育社会学]]把研究目光转向学校知识和课堂过程；[[School Effectiveness|学校效能]]则把学校重构为可测量、可比较、可治理的组织对象([[Argument_Ball_2008_SR|Ball, 2008, pp.650-665]])。这一分析延续了 Ball 对教育政策、治理技术和教师专业权力关系的关注：教育社会学不只是解释教育现实，也会生产使家庭、学校、教师和学生可被政策干预的权力光学([[Argument_Ball_2008_SR|Ball, 2008, pp.651, 665]])。

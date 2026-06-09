@@ -73,10 +73,13 @@ related_facts:
   - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Marginson_2025_ROE]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Boyadjieva_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -128,7 +131,7 @@ GPK 的概念源头可追溯至[[Classical Geopolitics|古典地缘政治]]—�
 
 两条脉络并非前后替代、也非一方从属于另一方——它们从不同的学术起点出发，分别抵达了"地缘政治与知识的关系"这一共同问题域。
 
-**批判地缘政治学脉络**：[[Sami Moisio]] (2018) 将地缘政治概念与全球层面的[[Knowledge-Based Economization|知识经济化]]相链接，提出[[Knowledge-Based Economization|知识经济化]]概念——将注意力转向"知识密集型资本主义的物质过程……以及这种资本主义通过想象和客观化社会实践被话语建构的过程"（Moisio, 2018, p.1, cited in Thompson & Parreira do Amaral, 2022, p.11）。Moisio（2022）系统阐述了该转向的两大理论资源：Harvey 的[[Fixity-Motion Tension|固着-流动张力]]和 Porter 的[[National Competitive Advantage|国家竞争优势]]理论。[[Knowledge-Based Economy|知识经济]]化过程中的Hub and [[Flow]] 想象——将世界划分为知识资本流动的枢纽中心与边缘区域——正是这种地缘政治想象的当代表现（Moisio, 2022, pp.27–28）。该脉络的完整理论框架和在教育研究中的应用详见 [[Critical Geopolitics]]。
+**批判地缘政治学脉络**：[[Sami Moisio]] (2018) 将地缘政治概念与全球层面的[[Knowledge-Based Economization|知识经济化]]相链接，提出[[Knowledge-Based Economization|知识经济化]]概念——将注意力转向"知识密集型资本主义的物质过程……以及这种资本主义通过想象和客观化社会实践被话语建构的过程"（Moisio, 2018, p.1, cited in Thompson & Parreira do Amaral, 2022, p.11）。[[Argument_Moisio_2022_Springer|Moisio (2022)]]系统阐述了该转向的两大理论资源：Harvey 的[[Fixity-Motion Tension|固着-流动张力]]和 Porter 的[[National Competitive Advantage|国家竞争优势]]理论。[[Knowledge-Based Economy|知识经济]]化过程中的Hub and [[Flow]] 想象——将世界划分为知识资本流动的枢纽中心与边缘区域——正是这种地缘政治想象的当代表现([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])。该脉络的完整理论框架和在教育研究中的应用详见 [[Critical Geopolitics]]。
 
 **去殖民知识地缘政治脉络**：1990 年代至 2000 年代初从拉丁美洲发展起来。核心主张——西方认识论通过殖民差异（colonial difference）系统性地压制替代性认知方式，[[Knowledge Production|知识生产]]本身就是殖民性的运作场所——由 Mignolo（2002, 2003）、Enrique Dussel（1993, 1999）等学者系统阐述，后续延伸至"南方认识论"（Connell, 2007）和"多元世界"建构（Escobar, 2018; Reiter, 2019）。详见 [[Decolonial Geopolitics of Knowledge]]。
 
@@ -148,9 +151,9 @@ GPK 的概念源头可追溯至[[Classical Geopolitics|古典地缘政治]]—�
 > - **政治想象**：高等教育被嵌入关于未来、竞争力、经济增长的集体想象之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）
 > - **空间重构**：高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"，涉及物理空间（校园、图书馆）和社会空间的全面重构（Thompson & Parreira do Amaral, 2022, pp.6–7）
 > - **[[Knowledge-Based Economization|知识经济化]]逻辑**：知识被视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和人力资本（Thompson & Parreira do Amaral, 2022, p.9）。详见 [[Knowledge-Based Economization]]
-> - **[[Fixity-Motion Tension]] 与 [[Hub and Flow Imaginaries]]**：[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论——国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem|创新生态系统]]等成为知识经济空间组织的具体表述（Moisio, 2022, pp.27–28）
-> - **[[Geopolitical Subject|地缘政治主体]]的生产**：大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（Moisio, 2022, pp.29–30）
-> - **[[Governmentality|治理术]]维度：（新）GoK 作为全球治理技术**：Zelinka（2022, pp.264-265）将（新）GoK 概念化为一种全球治理技术（global governmental technology），借鉴 Foucault 治理术框架揭示权力如何在全球尺度上通过远距治理运作。其三重机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由——详见 [[Governmentality#全球治理技术]]。这一视角将 GoK 的分析从制度和空间竞争延伸至主体性生产的微观权力层面
+> - **[[Fixity-Motion Tension]] 与 [[Hub and Flow Imaginaries]]**：[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论——国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem|创新生态系统]]等成为知识经济空间组织的具体表述([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])
+> - **[[Geopolitical Subject|地缘政治主体]]的生产**：大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])
+> - **[[Governmentality|治理术]]维度：（新）GoK 作为全球治理技术**：[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.264-265)]]将（新）GoK 概念化为一种全球治理技术（global governmental technology），借鉴 Foucault 治理术框架揭示权力如何在全球尺度上通过远距治理运作。其三重机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由——详见 [[Governmentality#全球治理技术]]。这一视角将 GoK 的分析从制度和空间竞争延伸至主体性生产的微观权力层面
 > - **认识论治理**：知识地缘政治渗透到认识论治理层面——研究资助的分配机制通过制度设计将特定的认识论范式固化为唯一合理的选择。例如 Horizon 2020 的 SSH 整合将实证主义和经验主义认识论制度化为默认框架([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–49]])
 > - **治理理性转换**：[[International Education Hubs|国际教育枢纽]]等项目指示了高等教育治理理性的根本转换——从社会/教育范畴（可及性、公平、质量、开放研究）转向经济范畴（收入创造、可专利的非开放研究、经济竞争力）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]])
 > - **知识生产与[[Knowledge Transfer|知识转移]]的双面**：[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将 GPK 区分为[[Knowledge Production|知识生产]]与[[Knowledge Transfer|知识转移]]两面。当前国际关系默认以自上而下模态运作——从强制转移、间谍、监视、审查到破坏。详见 [[Knowledge Transfer#核心要素]]([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.75–84]])
@@ -167,7 +170,7 @@ GPK 的概念源头可追溯至[[Classical Geopolitics|古典地缘政治]]—�
 > - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space|关系性空间]]分析和话语建构分析工具
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示了当前知识经济化在认识论层面的殖民性延续后果
 - [[Doreen Massey]] — Massey（2005）的关系性空间理论为理解高等教育地缘政治提供了核心本体论基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定。"总是在松动末端"意味着单一的同质化全球秩序是不可能的([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–7]])
-- [[Space-Making]] — Marginson（2025）基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践），将地缘政治分析落实为可操作的经验研究工具
+- [[Space-Making]] — [[Argument_Marginson_2025_ROE|Marginson (2025)]]基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践），将地缘政治分析落实为可操作的经验研究工具
 - [[Multiplicity]] — Massey 的多重性概念预测并解释了全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势，为理解 1990 年后从英美单极到全球多极的转变提供了理论基础
 
 ---
@@ -186,15 +189,15 @@ GPK 的概念源头可追溯至[[Classical Geopolitics|古典地缘政治]]—�
 
 Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型和空间竞争延伸至教学治理的微观层面。其核心贡献在于展示了 GPK 的逻辑如何通过数字化治理技术渗透到学生主体层面：
 
-- **竞争力作为地缘政治装置**：大学通过 排名、指标化和审计文化被重塑为竞争者。在教学领域，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（Thompson et al., 2022, p.220）
-- **[[Online Self-Assessment|OSA]] 作为 GPK 治理工具**：[[Online Self-Assessment]] 将 GPK 的竞争逻辑操作化为个体化的自我评估实践——潜在学生在入学前被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]之间的差距驱动着永不停息的自我优化（Thompson et al., 2022, pp.224–226）
-- **[[Geopolitical Subject|地缘政治主体]]的教学变体**：[[Promising Student|有前景的学生]] 是 GPK 在教学治理层面产出的主体形态——不是在[[Innovation Ecosystem|创新生态系统]]中流动的创业者，而是通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（Thompson et al., 2022, pp.221–222）
+- **竞争力作为地缘政治装置**：大学通过 排名、指标化和审计文化被重塑为竞争者。在教学领域，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
+- **[[Online Self-Assessment|OSA]] 作为 GPK 治理工具**：[[Online Self-Assessment]] 将 GPK 的竞争逻辑操作化为个体化的自我评估实践——潜在学生在入学前被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]之间的差距驱动着永不停息的自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]])
+- **[[Geopolitical Subject|地缘政治主体]]的教学变体**：[[Promising Student|有前景的学生]] 是 GPK 在教学治理层面产出的主体形态——不是在[[Innovation Ecosystem|创新生态系统]]中流动的创业者，而是通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
 
 详见 [[Argument_Thompson_2022_Promising_Student]]。
 
 ### SCD：GPK 在全球技能话语中的主体性生产
 
-Zelinka（2022, pp.251-265）的 Ch15 将 GPK 的分析从治理工具（OSA）进一步延伸至治理话语（[[Single-Case Design|SCD]]），展示了 GPK 如何通过 21 世纪技能与素养话语（SCD）在全球尺度上生产特定类型的主体性。其核心贡献在于揭示了 GPK 的**话语-主体性**传导链条：
+[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.251-265)]]的 Ch15 将 GPK 的分析从治理工具（OSA）进一步延伸至治理话语（[[Single-Case Design|SCD]]），展示了 GPK 如何通过 21 世纪技能与素养话语（SCD）在全球尺度上生产特定类型的主体性。其核心贡献在于揭示了 GPK 的**话语-主体性**传导链条：
 
 - **SCD 作为 GPK 的话语装置**：SCD 不受限于任何特定机构或政府，但占据并再生产新自由主义知识型社会的 地缘政治空间——通过排名、影响因子和国际合作标准等隐性成功标准保障霸权地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])
 - **主体性生产的三组张力**：SCD 通过愿意／不愿主体、结果导向／品质本位素养、经济增长／社会包容三组张力对，将 GPK 的竞争逻辑转化为个体的自我引导模式。详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]
@@ -205,57 +208,57 @@ Zelinka（2022, pp.251-265）的 Ch15 将 GPK 的分析从治理工具（OSA）�
 
 ### 知识经济化与空间竞争
 
-- [[Knowledge-Based Economization|知识经济化]]中的空间竞争呈现城市形态：大型城市日益体现国家竞争力和吸引力——"国家将资源转移到大规模投资首都城市和城市基础设施"（Crouch & Le Galès, 2012, p.406, cited in Moisio, 2022, p.28）。这种[[Economic Patriotism|经济爱国主义]]将特定国家领土的利益推进作为核心策略（Moisio, 2022, pp.28–29）
-- [[Spatial Sortings]] 的系统性效应：增长潜力集中在[[Knowledge-Based Economy|知识经济]]的城市枢纽中，枢纽之外地区经历相对衰退。Moisio（2022）识别了三个关键[[Research Problem|研究议题]]：空间分选的包容与排斥机制、被排斥人群的后果、国家的中介角色（Moisio, 2022, pp.30–31）
+- [[Knowledge-Based Economization|知识经济化]]中的空间竞争呈现城市形态：大型城市日益体现国家竞争力和吸引力——"国家将资源转移到大规模投资首都城市和城市基础设施"（Crouch & Le Galès, 2012, p.406, cited in Moisio, 2022, p.28）。这种[[Economic Patriotism|经济爱国主义]]将特定国家领土的利益推进作为核心策略([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
+- [[Spatial Sortings]] 的系统性效应：增长潜力集中在[[Knowledge-Based Economy|知识经济]]的城市枢纽中，枢纽之外地区经历相对衰退。[[Argument_Moisio_2022_Springer|Moisio (2022)]]识别了三个关键[[Research Problem|研究议题]]：空间分选的包容与排斥机制、被排斥人群的后果、国家的中介角色([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])
 - [[Global Regionalisms|全球区域主义]]（[[Global Regionalisms]]）中高等教育的角色转变：Robertson et al. (2016) 推进了从"国际组织如何影响教育"到"教育项目如何参与想象和建构世界区域本身"的认识论转向([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.41]])
 - [[International Education Hubs]] 作为 GPK 的物质化：多个 IEHs 集中在东亚和中东（香港、新加坡、阿联酋等），从学生枢纽到人才枢纽到知识/[[Innovation Hub|创新枢纽]]的梯级代表了与知识经济逻辑越来越深度的整合。高等教育治理的理性在此过程中从社会/教育范畴转向经济范畴([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
 - [[Global Education Industry]] 作为独立运作领域：GEI 不仅是经济过程的集合——"教育已成为一项经济事业，无数行动者在此基础上生产、交换和消费教育商品和服务"（Verger et al., 2016, p.4, cited in Parreira do Amaral, 2022, p.42）。其建立在经济基础上的概念已渗透到全球教育改革和重组之中([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.42–43]])
 
 ### 亚洲崛起与 GPK 的市场化维度
 
-Rizvi (2022) 从亚洲经济和政治崛起的视角拓展了 GPK 的分析。其核心贡献在于揭示了 GPK 中此前未被充分讨论的**市场化维度**——既有关于 GPK 的讨论关注了知识经济化、空间分选和认识论治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局。
+[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲经济和政治崛起的视角拓展了 GPK 的分析。其核心贡献在于揭示了 GPK 中此前未被充分讨论的**市场化维度**——既有关于 GPK 的讨论关注了知识经济化、空间分选和认识论治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局。
 
-**亚洲崛起的数据基础**：亚洲年人均经济增长率自 1990 年代初平均超过 5.5%（Khanna, 2019）；亚洲全球产出占比从 1990 年 29% 升至现已超 50%；购买力平价计算的全球经济占比从 2008 年 21% 升至 2014 年 38%（Pieterse, 2018）；全球中产阶级 2016 年底约 32 亿人，新增中产阶级的绝大多数在亚洲（Kharas, 2017）（Rizvi, 2022, pp.92–96）。关于"亚洲崛起意味着什么"，存在四种竞争性解读（中国中心论、中美对决论、多文明系统论、西方延续论），但无论接受哪种解读，亚洲崛起对全球高等教育的结构性影响都是不可否认的。
+**亚洲崛起的数据基础**：亚洲年人均经济增长率自 1990 年代初平均超过 5.5%（Khanna, 2019）；亚洲全球产出占比从 1990 年 29% 升至现已超 50%；购买力平价计算的全球经济占比从 2008 年 21% 升至 2014 年 38%（Pieterse, 2018）；全球中产阶级 2016 年底约 32 亿人，新增中产阶级的绝大多数在亚洲（Kharas, 2017）([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.92–96]])。关于"亚洲崛起意味着什么"，存在四种竞争性解读（中国中心论、中美对决论、多文明系统论、西方延续论），但无论接受哪种解读，亚洲崛起对全球高等教育的结构性影响都是不可否认的。
 
-**国际化的理性转移**：Rizvi 的核心发现是：国际化的主导话语和理性已从"发展主义"（帮助发展中国家现代化、能力建设、国际理解）转向"市场理性"（收入创造、全球排名、品牌建设、人力资源开发）。高等教育被视为**出口产业**——成功的标准从培养了多少人才转变为招了多少全额付费学生、全球排名上升了多少位（Rizvi, 2022, pp.96–97）。详见 [[Internationalization of Higher Education|高等教育国际化]] > 概念演变。
+**国际化的理性转移**：Rizvi 的核心发现是：国际化的主导话语和理性已从"发展主义"（帮助发展中国家现代化、能力建设、国际理解）转向"市场理性"（收入创造、全球排名、品牌建设、人力资源开发）。高等教育被视为**出口产业**——成功的标准从培养了多少人才转变为招了多少全额付费学生、全球排名上升了多少位([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 [[Internationalization of Higher Education|高等教育国际化]] > 概念演变。
 
 **市场化转型的三重连锁后果**：
 
-1. **公共价值被"挤出"**（Sandel, 2012）：随着国际学生学费成为主要收入来源，"政府不再感到有必要为高等教育机构提供所需的公共资金"（Rizvi, 2022, p.97）
+1. **公共价值被"挤出"**（Sandel, 2012）：随着国际学生学费成为主要收入来源，"政府不再感到有必要为高等教育机构提供所需的公共资金"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])
 2. **内生私有化的永久化**：以澳大利亚为例——其大学在招收全额付费国际学生方面的成功，使政府有底气推动其他市场导向政策。"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"（Ball, 2012, cited in Rizvi, 2022, pp.97–98）
-3. **NPM 的企业化改造**：NPM 的理念、技术和实践被从企业部门广泛引入，使公立高等教育机构更像企业运作。复杂的招生基础设施——本地代理网络、跨国项目、特许经营安排、学分衔接和双联安排——彻底改造了全球高等教育的空间架构（Rizvi, 2022, pp.97–98）
+3. **NPM 的企业化改造**：NPM 的理念、技术和实践被从企业部门广泛引入，使公立高等教育机构更像企业运作。复杂的招生基础设施——本地代理网络、跨国项目、特许经营安排、学分衔接和双联安排——彻底改造了全球高等教育的空间架构([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
 
-**亚洲中产阶级作为 GPK 的驱动力量**：Rizvi 的分析展示了[[Critical Geopolitics|批判地缘政治学]]关注"日常经验"的洞察如何具体化。亚洲中产阶级对西方教育的渴望深植于殖民历史——海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）。一个曼谷或上海中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了西方大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系（Rizvi, 2022, pp.95–97）。详见 Rizvi 论证 > 第四步。
+**亚洲中产阶级作为 GPK 的驱动力量**：Rizvi 的分析展示了[[Critical Geopolitics|批判地缘政治学]]关注"日常经验"的洞察如何具体化。亚洲中产阶级对西方教育的渴望深植于殖民历史——海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）。一个曼谷或上海中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了西方大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])。详见 Rizvi 论证 > 第四步。
 
-**[[Transnational Research Collaboration|跨国研究合作]]中的多重理性融合**：Rizvi 揭示了推动[[Transnational Research Collaboration|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——在现代合作话语中被**无缝地融合**进同一套叙事中。同一个联合实验室可以同时被表述为学术合作（研究者话语）、全球声誉建设（校长话语）、贸易促进（经济部长话语）和公共外交（外交部长话语）。这种多重[[Coding in Qualitative Research|编码]]使得跨国研究合作成为一个不同行动者都能从中找到合法性的话语场域（Rizvi, 2022, pp.98–99）。详见 Transnational Research Collaboration in Higher Education。
+**[[Transnational Research Collaboration|跨国研究合作]]中的多重理性融合**：Rizvi 揭示了推动[[Transnational Research Collaboration|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——在现代合作话语中被**无缝地融合**进同一套叙事中。同一个联合实验室可以同时被表述为学术合作（研究者话语）、全球声誉建设（校长话语）、贸易促进（经济部长话语）和公共外交（外交部长话语）。这种多重[[Coding in Qualitative Research|编码]]使得跨国研究合作成为一个不同行动者都能从中找到合法性的话语场域([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])。详见 Transnational Research Collaboration in Higher Education。
 
-澳大利亚作为最激进的案例展示了这些抽象分析如何落地：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"；AISRF（澳印战略研究基金）和 ACSRF（澳中科学与研究基金）将研究合作与贸易和外交目标深度绑定；《国际教育国家战略 2025》将教育出口系统性地整合进国家经济战略（Rizvi, 2022, pp.99–100）。
+澳大利亚作为最激进的案例展示了这些抽象分析如何落地：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"；AISRF（澳印战略研究基金）和 ACSRF（澳中科学与研究基金）将研究合作与贸易和外交目标深度绑定；《国际教育国家战略 2025》将教育出口系统性地整合进国家经济战略([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])。
 
-**COVID-19 暴露的结构性矛盾**：Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原有秩序中早已存在的脆弱性——过度依赖单一来源国学生学费的财政模式（"许多英国和澳大利亚的高等教育机构已经过度依赖这一收入来源"）、将商业逻辑优先于伦理和政治考量的价值取向、跨国合作中不对称的权力关系（Rizvi, 2022, pp.100–102）。详见 Rizvi 论证 > 第六步。
+**COVID-19 暴露的结构性矛盾**：Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原有秩序中早已存在的脆弱性——过度依赖单一来源国学生学费的财政模式（"许多英国和澳大利亚的高等教育机构已经过度依赖这一收入来源"）、将商业逻辑优先于伦理和政治考量的价值取向、跨国合作中不对称的权力关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.100–102]])。详见 Rizvi 论证 > 第六步。
 
 ### 全球排名作为 GPK 的核心运作机制
 
-[[Global Universities Rankings|全球大学排名]]不是中立的评估工具，而是知识地缘政治的核心运作机制之一。Hazelkorn（2018, p.10）明确指出，排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"（Boyadjieva, 2022, p.126）。
+[[Global Universities Rankings|全球大学排名]]不是中立的评估工具，而是知识地缘政治的核心运作机制之一。Hazelkorn（2018, p.10）明确指出，排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]])。
 
-排名通过多重地缘政治机制运作（Boyadjieva, 2022, pp.132, 137–138）：
+排名通过多重地缘政治机制运作([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132, 137–138]])：
 
-- **作为国家权力的标志**：Cantwell（2016, p.316）指出"排名构成了国家权力的标志之一"，拥有顶尖排名大学可以提升国家的国际声望和软实力（Boyadjieva, 2022, p.138）
-- **作为不平等合法化的工具**：排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600），将全球[[Knowledge Production|知识生产]]中的资源差异和不均衡结构合法化为"自然的"等级秩序（Boyadjieva, 2022, pp.132, 134）
-- **作为全球竞争驱动者**：排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47），使高等教育从"以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16）（Boyadjieva, 2022, p.138）
-- **认识论层面的治理效应**：排名"惩罚"那些履行公共使命而非追求研究卓越的机构——肯塔基大学案例中，USNWR 评分系统因该大学招收大量低收入和少数族裔学生而系统性压低其排名，迫使其在排名目标和赠地使命之间做出选择（Boyadjieva, 2022, pp.125–126）
+- **作为国家权力的标志**：Cantwell（2016, p.316）指出"排名构成了国家权力的标志之一"，拥有顶尖排名大学可以提升国家的国际声望和软实力([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]])
+- **作为不平等合法化的工具**：排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600），将全球[[Knowledge Production|知识生产]]中的资源差异和不均衡结构合法化为"自然的"等级秩序([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132, 134]])
+- **作为全球竞争驱动者**：排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47），使高等教育从"以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16）([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]])
+- **认识论层面的治理效应**：排名"惩罚"那些履行公共使命而非追求研究卓越的机构——肯塔基大学案例中，USNWR 评分系统因该大学招收大量低收入和少数族裔学生而系统性压低其排名，迫使其在排名目标和赠地使命之间做出选择([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]])
 - **光环效应与路径依赖**：排名不奖励发展程度或改进速度——"后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cited in Boyadjieva, 2022, p.135）
 
-全球排名被 Amsler & Bolsmann（2012, p.286）定义为"一个强大的象征性和经济权力机器……一种政治-意识形态技术，服务的不是学生或教师的教育需求，而是全球精英的利益"（Boyadjieva, 2022, p.132）。
+全球排名被 Amsler & Bolsmann（2012, p.286）定义为"一个强大的象征性和经济权力机器……一种政治-意识形态技术，服务的不是学生或教师的教育需求，而是全球精英的利益"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]])。
 
 ### 空间制造框架与地缘政治的双重性
 
-Marginson（2025）基于 Massey（2005）的[[Relational Space|关系性空间]]理论，提出理解高等教育地缘政治的一个关键区分：地缘政治关系同时包含合作与竞争、水平性与等级性、双赢与零和。高等教育中的地缘政治关系——尤其在科学领域——比国家间的政治、经济和军事关系更具合作性，尽管高等教育可能在地缘政治上更加等级化和不平等([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])。
+[[Argument_Marginson_2025_ROE|Marginson (2025)]]基于 Massey（2005）的[[Relational Space|关系性空间]]理论，提出理解高等教育地缘政治的一个关键区分：地缘政治关系同时包含合作与竞争、水平性与等级性、双赢与零和。高等教育中的地缘政治关系——尤其在科学领域——比国家间的政治、经济和军事关系更具合作性，尽管高等教育可能在地缘政治上更加等级化和不平等([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])。
 
 Moscovitz & Sabzalieva（2023）提出的"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures framework）为 GPK 的实证研究提供了启发式工具，帮助研究者识别特定情境中起作用的多种力量([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])。
 
 ### 两个历史阶段：1990–2015 与 2015 至今
 
-Marginson（2025）将当代高等教育 GPK 的历史演变分为两个主要阶段([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–32]])：
+[[Argument_Marginson_2025_ROE|Marginson (2025)]]将当代高等教育 GPK 的历史演变分为两个主要阶段([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–32]])：
 
 **第一阶段（1990–2015）：美国主导的霸权式全球化**
 

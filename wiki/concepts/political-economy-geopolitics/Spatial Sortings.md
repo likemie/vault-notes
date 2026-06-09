@@ -27,6 +27,7 @@ related_persons:
   - "[[Sami Moisio]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: low
 status: draft
@@ -37,9 +38,9 @@ updated: '2026-06-02'
 ## 定义
 
 > [!info]
-> 空间分选（Spatial Sortings）是 [[Sami Moisio]]（2022）在分析[[Knowledge-Based Economization|知识经济化]]的极化效应时使用的概念，指知识密集型资本主义系统性地将地点和人口划分为**赢家**与**输家**的过程：某些地点和人口被置于发展和资本积累的中心，而其他地点和人口被边缘化（Moisio, 2022, pp.30–31）。
+> 空间分选（Spatial Sortings）是 [[Sami Moisio]]（2022）在分析[[Knowledge-Based Economization|知识经济化]]的极化效应时使用的概念，指知识密集型资本主义系统性地将地点和人口划分为**赢家**与**输家**的过程：某些地点和人口被置于发展和资本积累的中心，而其他地点和人口被边缘化([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])。
 
-Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化——这不是市场的自然结果，而是由公共和私人投资驱动、国家中介的结构性过程（Moisio, 2022, p.30）。
+Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化——这不是市场的自然结果，而是由公共和私人投资驱动、国家中介的结构性过程([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
 
 ---
 
@@ -55,11 +56,11 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 ## 核心要素
 
 > [!abstract]
-> - **包容与排斥的双重运动**：空间分选既包含又排斥——将某些地点和行动者纳入 [[Knowledge-Based Economy|KBE]]，同时将其他地点和行动者排除在外（Moisio, 2022, p.31）。
-> - **公共和私人投资的驱动作用**：公共和私人投资是这一结构过程的核心——政策对创业生态系统和创新综合体的支持实际上是空间分选的机制（Moisio, 2022, p.30）。
-> - **战略性城市化**：支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化（strategic urbanization of the nation-state）——空间分选不是副效应，而是国家有意识的政策产物（Moisio, 2022, p.30）。
-> - **中心化与边缘化的同步性**：城市创新综合体（Zukin, 2020）在主要城市中心兴起的同时，较小城市群和农村地区被边缘化——二者是同一过程的两个方面（Moisio, 2022, p.30）。
-> - **赢家与输家的主体分化**：空间分选不仅涉及地点，还涉及人口——Davidson & Rees-Mogg (1999) 预见的跨国认知精英（赢家）与无法适应新跨国世界的人群（输家）的分化，即 [[Geopolitical Subject]] 的分化：赢家是被成功塑造成适应全球竞争的主体，输家则是被排斥在这一主体形塑过程之外的人群（Moisio, 2022, pp.31–32）。
+> - **包容与排斥的双重运动**：空间分选既包含又排斥——将某些地点和行动者纳入 [[Knowledge-Based Economy|KBE]]，同时将其他地点和行动者排除在外([[Argument_Moisio_2022_Springer|Moisio, 2022, p.31]])。
+> - **公共和私人投资的驱动作用**：公共和私人投资是这一结构过程的核心——政策对创业生态系统和创新综合体的支持实际上是空间分选的机制([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
+> - **战略性城市化**：支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化（strategic urbanization of the nation-state）——空间分选不是副效应，而是国家有意识的政策产物([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
+> - **中心化与边缘化的同步性**：城市创新综合体（Zukin, 2020）在主要城市中心兴起的同时，较小城市群和农村地区被边缘化——二者是同一过程的两个方面([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
+> - **赢家与输家的主体分化**：空间分选不仅涉及地点，还涉及人口——Davidson & Rees-Mogg (1999) 预见的跨国认知精英（赢家）与无法适应新跨国世界的人群（输家）的分化，即 [[Geopolitical Subject]] 的分化：赢家是被成功塑造成适应全球竞争的主体，输家则是被排斥在这一主体形塑过程之外的人群([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])。
 
 ---
 
@@ -72,7 +73,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > > 
 > > 后凯恩斯主义世界的核心组织逻辑不是将人们作为工人和消费者来评价，而是驱逐人们和摧毁传统资本主义以满足高级金融和高科技的需求。
 > 
-> - Davidson & Rees-Mogg (1999) 的赢家与输家分析——预见了信息时代产生跨国认知精英与大量被边缘化人口之间的深刻分化（Moisio, 2022, pp.31–32）。
+> - Davidson & Rees-Mogg (1999) 的赢家与输家分析——预见了信息时代产生跨国认知精英与大量被边缘化人口之间的深刻分化([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])。
 > - Harvey 的资本主义空间动力学——空间分选可以被理解为[[Fixity-Motion Tension|固着-流动张力]]在空间层面的具体表现。
 > - Zukin (2020) 的城市创新综合体分析——记录了科技如何成为城市化的驱动力。
 
@@ -81,9 +82,9 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 ## 实证发现
 
 > [!success]
-> - **枢纽与边缘的分化**：增长潜力集中在 [[Knowledge-Based Economy|KBE]] 的城市枢纽中，而枢纽之外地区因经济结构变迁经历相对衰退（Moisio, 2022, p.30）。
-> - **三次演变中的空间分选模式**：从晚期凯恩斯主义技术极化到智能性城市政策再到创业经济——每次演变都重新配置了空间赢家与输家的版图（Moisio, 2022, pp.29–30）。
-> - **三个核心[[Research Problem|研究议题]]**：Moisio (2022, pp.31–32) 确定了空间分选研究的三个方向：
+> - **枢纽与边缘的分化**：增长潜力集中在 [[Knowledge-Based Economy|KBE]] 的城市枢纽中，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
+> - **三次演变中的空间分选模式**：从晚期凯恩斯主义技术极化到智能性城市政策再到创业经济——每次演变都重新配置了空间赢家与输家的版图([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])。
+> - **三个核心[[Research Problem|研究议题]]**：[[Argument_Moisio_2022_Springer|Moisio (2022, pp.31–32)]] 确定了空间分选研究的三个方向：
 >   1. KBE 通过不同种类的空间分选被根本性地构成——需要批判性地审视这些分选的包容与排斥机制。
 >   2. 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的驱逐以喂养高科技和高金融。
 >   3. 国家在导致空间分选的过程中扮演关键角色，但这仍是一个研究不足的议题。

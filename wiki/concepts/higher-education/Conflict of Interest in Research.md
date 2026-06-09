@@ -21,7 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -33,7 +34,7 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> 研究利益冲突（Conflict of Interest in Research）指研究者个人或其所在机构因财务或其他利益关系，可能损害研究客观性、所指导学生的独立性或对大学的首要服务职责的情形。在[[University-Industry Collaboration|产学合作]]中，利益冲突通常源于教师同时为大学和企业工作（如付费咨询），两者的利益边界可能发生交叉（Hall, 2025, pp.266–267）。
+> 研究利益冲突（Conflict of Interest in Research）指研究者个人或其所在机构因财务或其他利益关系，可能损害研究客观性、所指导学生的独立性或对大学的首要服务职责的情形。在[[University-Industry Collaboration|产学合作]]中，利益冲突通常源于教师同时为大学和企业工作（如付费咨询），两者的利益边界可能发生交叉([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.266–267]])。
 
 > [!quote]
 > 美国联邦法规（如 Department of Health and Human Services 的规定）要求大学建立利益冲突政策，且大学政策必须与联邦研究赞助方的规定保持一致（p.267）。
@@ -44,7 +45,7 @@ updated: 2026-06-04
 
 > [!abstract]
 
-利益冲突管理涉及以下六个维度的审查（Hall, 2025, pp.266–267）：
+利益冲突管理涉及以下六个维度的审查([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.266–267]])：
 
 1. **研究客观性**：利益关系是否导致教师在研究判断中丧失客观性
 2. **学生独立性**：利益关系是否危及相关学生的研究独立性

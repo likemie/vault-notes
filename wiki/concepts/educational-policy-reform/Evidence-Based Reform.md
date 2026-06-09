@@ -59,12 +59,17 @@ related_facts:
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Slavin_2021_ROE]]"
+  - "[[Argument_Cheung_2021_ROE]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Dachet_2021_ROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Simpson_2017_JEP]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -91,9 +96,9 @@ updated: '2026-05-24'
 
 ### 全球传播的医学类比
 
-Cheung & Xie (2021, p.1) 在 ECNU Review of Education 特刊导言中以 COVID-19 疫苗试验为类比，论证教育领域应采纳证据本位改革的紧迫性：在评估治疗或疫苗是否有效时，医学专家依赖的不是小规模方法论可疑的研究，而是大规模、良好实施的[[Randomised Controlled Trials|随机对照试验]]（RCT）。他们指出，长期以来教育政策基于意识形态立场或个人观点而非证据，而证据本位改革的目标是将教育带入一个在医学、农业和技术领域已被证明成功的"创新→评估→推广"循环（Cheung & Xie, 2021, p.1，引用 Haskins, 2014; Kolada, 2013; Slavin, 2020）。
+[[Argument_Cheung_2021_ROE|Cheung & Xie (2021, p.1)]] 在 ECNU Review of Education 特刊导言中以 COVID-19 疫苗试验为类比，论证教育领域应采纳证据本位改革的紧迫性：在评估治疗或疫苗是否有效时，医学专家依赖的不是小规模方法论可疑的研究，而是大规模、良好实施的[[Randomised Controlled Trials|随机对照试验]]（RCT）。他们指出，长期以来教育政策基于意识形态立场或个人观点而非证据，而证据本位改革的目标是将教育带入一个在医学、农业和技术领域已被证明成功的"创新→评估→推广"循环([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.1,引用 Haskins, 2014]]; Kolada, 2013; Slavin, 2020)。
 
-Cheung & Xie (2021) 的特刊汇集了来自亚洲、北美、欧洲七个国家的研究者，按四项核心活动框架组织八篇文章，旨在呈现证据本位改革在全球的"过去、现在和未来"全景图。
+[[Argument_Cheung_2021_ROE|Cheung & Xie (2021)]] 的特刊汇集了来自亚洲、北美、欧洲七个国家的研究者，按四项核心活动框架组织八篇文章，旨在呈现证据本位改革在全球的"过去、现在和未来"全景图。
 
 ### 欧洲证据政策进展
 
@@ -101,7 +106,7 @@ Cheung & Xie (2021) 的特刊汇集了来自亚洲、北美、欧洲七个国家
 
 这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Methods Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.26]])。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.36]])。
 
-Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Education Endowment Foundation (EEF)]] 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准（Cheung & Xie, 2021, p.2）。
+Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Education Endowment Foundation (EEF)]] 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.2]])。
 
 ## 与 Evidence-Based Education 的区别
 
@@ -174,7 +179,7 @@ Ross 与 Morrison 对三条件框架作了一个实践层面的补充：即使�
 - **2017** — Evidence for ESSA 网站上线，与 ESSA 标准对齐
 - **2019** — Slavin 发表 Thorndike 演讲，总结进展并提出 RTI → RTPI 转型方向
 - **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位改革国际比较研究，系统记录中国教育实证研究的制度化发展（ECNU 论坛 2015-2019、2017 华东师范大学宣言、[[Best Evidence in Brief|BEiB]] 中文网络），首次翻译并呈现中国学者对证据本位研究的五类内部质疑（定义之争、统计主义、价值不可量化、数据困境、实证≠定量），将四项核心活动框架应用于中国情境分析([[Argument_Slavin_2021_ROE|Slavin et al., 2021]])
-- **2021** — Cheung & Xie 在同一特刊发表 Editorial，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，汇集七个国家八篇文章呈现证据本位改革的全球全景（Cheung & Xie, 2021）
+- **2021** — Cheung & Xie 在同一特刊发表 Editorial，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，汇集七个国家八篇文章呈现证据本位改革的全球全景([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021]])
 - **2021** — Dachet & Baye 以法语比利时[[Pact for Educational Excellence|教育卓越公约]]为案例，展示证据本位改革在本地实验项目稀少、定性研究传统较强、英语文献进入困难的系统中如何被语境化：改革官方文本承认需要试点、验证并按有效性扩大项目，但 425 个候选工具/项目中只有 13 个采用实验设计测试，因此改革团队采用包容性验证类型学作为过渡机制([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.171, 175-176, 181-182]])
 
 ## 核心政策工具：ESSA 证据标准
@@ -267,7 +272,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 **争议背景**：[[Randomised Controlled Trials|RCT]] 在高度控制的条件下实施，其结果能否推广至不同类型的学校、学生和教师情境？这是 EBR 面临的最持久的批评之一。
 
 **各方立场**：
-- **批评者**：Wrigley (2018) 指出 RCT 中教师的热情（human will）是"必要但也是污染的"——使干预有效但也使其不可复制。当项目从研究环境扩展到全国实施时，实施质量和支持条件不可同日而语。
+- **批评者**：[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出 RCT 中教师的热情（human will）是"必要但也是污染的"——使干预有效但也使其不可复制。当项目从研究环境扩展到全国实施时，实施质量和支持条件不可同日而语。
 - **[[Argument_Slavin_2019_EP|Slavin (2019, pp. 7–8)]] 的回应**：现代实验要求聚类级别分析（40–50 所学校），大大提升了[[External Validity|外部效度]]；Evidence for ESSA 报告每项研究的人口统计信息，供教育者自行判断与自身情境的匹配度。
 
 **目前状态**：此争议在方法论文献中持续，尚未有共识标准来判断"多大的外部效度是足够的"。
@@ -279,8 +284,8 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 **各方立场**：
 - **[[Argument_Slavin_2019_EP|Slavin (2019, p. 9)]]**：这不是对方法的特权，而是"方法匹配问题"——当问题是"与替代方案相比这个项目是否有效"时，实验是最佳设计。不同的[[Research Question|研究问题]]需要不同的方法。
 - **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]**：提出平衡立场——"长期来看，随机化和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的证据标准"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
-- **Wrigley (2018)**：问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
-- **Cowen (2019)**：从制度逻辑出发——RCT 的"优先地位"并非认识论优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
+- **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]**：问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
+- **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：从制度逻辑出发——RCT 的"优先地位"并非认识论优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
 
 **目前状态**：方法多元论的呼声在学术界广泛存在(Cowen, 2019; [[Argument_Biesta_2010_SPE|Biesta, 2010]]; Hammersley, 2005)，但 ESSA 证据标准的法律效力已赋予 RCT 制度化的优先地位。
 
@@ -309,11 +314,11 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 这一案例把 EBR 的争议从“证据是否严格”推进到“哪些结果值得进入证据标准”。若政策只承认短期标准化成就增益，许多[[Technology Infusion|技术整合]]或组织变革的价值会被低估；若政策完全放松有效性要求，又会削弱 EBR 原本试图建立的质量门槛([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112, 123]])。
 
-### 程序采纳假设批判（Peterson, 2016）
+### 程序采纳假设批判([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 
-**争议背景**：Peterson (2016) 从实施可行性角度批判了 EBR 的核心运作假设——即学校决策者可以随意采纳和实施教学程序项目。她指出"有多层决策者共同决定学校中发生的事情，从教育部长到教师。在一个情境中试验过的项目几乎不可能在另一个情境中完整实施：总是需要对当地学校和系统进行某种改编"（p. 305）。
+**争议背景**：[[Argument_Peterson_2016_IJRME|Peterson (2016)]] 从实施可行性角度批判了 EBR 的核心运作假设——即学校决策者可以随意采纳和实施教学程序项目。她指出"有多层决策者共同决定学校中发生的事情，从教育部长到教师。在一个情境中试验过的项目几乎不可能在另一个情境中完整实施：总是需要对当地学校和系统进行某种改编"（p. 305）。
 
-**核心论证**（Peterson, 2016, pp. 301–302, 305）：
+**核心论证**([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302, 305]])：
 
 1. **项目采纳 ≠ 项目实施**：黑箱 RCT 评估的项目即使在试验中有效，推广至新情境时面临结构性改编需求——"知识由实验产生只有在更细粒度时才更可能有用；与其决定使用哪个预包装项目，教师需要详细的教学法和教学内容知识：哪些具体行动或策略能帮助学生学习"（p. 305, citing Villegas-Reimers, 2003, p. 39）
 
@@ -325,7 +330,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 ### EEF Toolkit 的方法论争议
 
-见上文「Toolkit 和 Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？Simpson (2017) 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
+见上文「Toolkit 和 Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？[[Argument_Simpson_2017_JEP|Simpson (2017)]] 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
 
 ## 与相关概念的比较
 
@@ -336,7 +341,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 ### Toolkit 和 Hattie 的方法论批评
 
-Wrigley (2018) 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
+[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
 
 - **混合苹果和橙子**：不同性质的研究以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项研究使用不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
 - **效应量失真**：三个系统性偏差来源——(1) 控制组性质不明（一切照旧 vs 零条件）；(2) 研究人口范围受限自动放大效应量（SD在分母中缩小）；(3) 窄化成果测量比一般测量产生更大效应量

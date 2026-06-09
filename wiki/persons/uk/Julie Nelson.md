@@ -21,7 +21,8 @@ related_methods:
   - "[[Pilot Testing]]"
 related_persons:
   - "[[Carol Campbell]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Nelson_2017_ER]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: medium
@@ -32,18 +33,18 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和研究使用经验化方面的作用（Nelson & Campbell, 2017, pp.127–133）。
+> Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和研究使用经验化方面的作用([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–133]])。
 
 ## 核心思想
 
 > [!tip] 核心思想
 > Nelson 的贡献更适合按主题而不是按年份理解：
 >
-> - **把 [[Evidence-Informed Practice|EIP]] 概念做清楚**：与 [[Carol Campbell]] 共同主张 EIP 应被理解成[[Professional Judgment|专业判断]]、系统数据、课堂数据和研究证据的整合，而不是“多看一点研究”的宽泛口号（Nelson & Campbell, 2017, p.129）。
-> - **把问题从供给-需求推进到条件问题**：EIP 的关键不只是研究供给是否充足，也不只是教师是否愿意使用研究，而是教育者是否“准备好”面对证据，包括时间、能力、文化与中介条件是否到位（Nelson & Campbell, 2017, p.127）。
-> - **把研究使用做成可测量对象**：Nelson 代表当前 vault 中 EIP 讨论最经验化的一面，即不只讨论证据使用应该是什么，也尝试开发工具去测量它在学校中是否真的发生（Nelson & Campbell, 2017, p.132）。
+> - **把 [[Evidence-Informed Practice|EIP]] 概念做清楚**：与 [[Carol Campbell]] 共同主张 EIP 应被理解成[[Professional Judgment|专业判断]]、系统数据、课堂数据和研究证据的整合，而不是“多看一点研究”的宽泛口号([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.129]])。
+> - **把问题从供给-需求推进到条件问题**：EIP 的关键不只是研究供给是否充足，也不只是教师是否愿意使用研究，而是教育者是否“准备好”面对证据，包括时间、能力、文化与中介条件是否到位([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.127]])。
+> - **把研究使用做成可测量对象**：Nelson 代表当前 vault 中 EIP 讨论最经验化的一面，即不只讨论证据使用应该是什么，也尝试开发工具去测量它在学校中是否真的发生([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
 >
-> > "EIP is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes."（Nelson & Campbell, 2017, p.128）
+> > "EIP is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes."([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.128]])
 
 ## 主要贡献
 

@@ -89,7 +89,7 @@ updated: '2026-06-08'
 >
 > 随机效应模型需要估计研究间方差 τ²，这要求有一定数量的纳入研究。当研究数量较少时，τ² 的估计可能不稳定。Hattie 的数据基础（每个因素平均约 63 项一级[[Meta-analysis|元分析]]）可能不足以支持可靠的随机效应估计([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]])。
 >
-> **Wecker et al.（2016）的方法论审查**
+> **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]的方法论审查**
 >
 > Hattie 声称在 [[Visible Learning]] 中应用了固定效应模型，但实际使用的是未加权平均。正确加权后某些[[Effect Size|效应量]]从 0.59 变为 0.23，排名从第 26 位跌至第 98 位([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]])。
 

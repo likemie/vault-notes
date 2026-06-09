@@ -18,7 +18,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -32,14 +33,14 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 「平等连接」（Conectar Igualdad, PCI）是阿根廷于 2010 年启动的项目，旨在向全国所有公立中学的每名学生和每名教师分配一台笔记本电脑，同时为这些学校提供连接和教师培训。到 2014 年 3 月已部署 380 万台电脑，成为世界上最大的学生笔记本电脑分配项目（Beech & Artopoulos, 2015）。
+> 「平等连接」（Conectar Igualdad, PCI）是阿根廷于 2010 年启动的项目，旨在向全国所有公立中学的每名学生和每名教师分配一台笔记本电脑，同时为这些学校提供连接和教师培训。到 2014 年 3 月已部署 380 万台电脑，成为世界上最大的学生笔记本电脑分配项目([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 
 ## 背景
 
 > [!note]
-> PCI 的起源可追溯到 Nicholas Negroponte（MIT 媒体实验室前主任）2005 年在达沃斯世界经济论坛上展示的「每童一电脑」（One Laptop per Child, OLPC）项目。2007 年乌拉圭启动了 Plan Ceibal，旨在为每名小学生提供一台 OLPC 电脑。乌拉圭的项目在阿根廷媒体上非常受关注，给阿根廷政府带来了压力。阿根廷政府在评估 OLPC 选项后决定创建类似计划，但使用英特尔开发的技术（Beech & Artopoulos, 2015）。
+> PCI 的起源可追溯到 Nicholas Negroponte（MIT 媒体实验室前主任）2005 年在达沃斯世界经济论坛上展示的「每童一电脑」（One Laptop per Child, OLPC）项目。2007 年乌拉圭启动了 Plan Ceibal，旨在为每名小学生提供一台 OLPC 电脑。乌拉圭的项目在阿根廷媒体上非常受关注，给阿根廷政府带来了压力。阿根廷政府在评估 OLPC 选项后决定创建类似计划，但使用英特尔开发的技术([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 
@@ -56,7 +57,7 @@ updated: 2026-06-07
 ## ANT 分析
 
 > [!example]
-> Beech & Artopoulos (2015) 使用[[Actor-Network Theory|行动者网络理论]]分析 PCI，展示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系
+> [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 使用[[Actor-Network Theory|行动者网络理论]]分析 PCI，展示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系
 >
 > - **课堂延迟**。课堂系统性地延迟 15 到 20 分钟，原因是让每台电脑就位并通过 E-Learning Class 软件连接内部网络所需的冗长设置。
 > - **E-Learning Class**。该软件成为具有巨大影响力的新兴行动者，连接教室中的所有电脑，让教师能在自己屏幕上看到学生所见、操作学生电脑、与学生共享文件。其西班牙语名称 programa maestro（教师程序或主人程序）暗示了教师对学生的控制。

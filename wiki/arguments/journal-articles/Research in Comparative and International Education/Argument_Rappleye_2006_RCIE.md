@@ -44,8 +44,8 @@ updated: '2026-06-08'
 year: 2006
 doi: ""
 citation_aliases:
-  - "Jeremy Rappleye, 2006"
-  - "Jeremy Rappleye (2006)"
+  - "Rappleye, 2006"
+  - "Rappleye (2006)"
 ---
 ## 研究问题
 

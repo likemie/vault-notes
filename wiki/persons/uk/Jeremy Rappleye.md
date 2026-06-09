@@ -33,17 +33,17 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Jeremy Rappleye 是英国比较教育学者，牛津大学（University of Oxford）博士候选人，后任东京大学（University of Tokyo）副教授。他的研究聚焦教育转移（educational transfer）理论，尤其关注[[Cross-National Attraction|跨国吸引力]]（[[Cross-National Attraction]]）阶段的情境分析。他在 2006 年发表的跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），通过将"情境"拆解为结构层与人的层面的双层互动，重新框定了比较教育领域长期存在的"情境很重要但无法系统分析"的困境。他曾在中国和日本的学校任教，日语流利（Rappleye, 2006, p. 240）。
+> Jeremy Rappleye 是英国比较教育学者，牛津大学（University of Oxford）博士候选人，后任东京大学（University of Tokyo）副教授。他的研究聚焦教育转移（educational transfer）理论，尤其关注[[Cross-National Attraction|跨国吸引力]]（[[Cross-National Attraction]]）阶段的情境分析。他在 2006 年发表的跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），通过将"情境"拆解为结构层与人的层面的双层互动，重新框定了比较教育领域长期存在的"情境很重要但无法系统分析"的困境。他曾在中国和日本的学校任教，日语流利([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 240]])。
 
 ---
 
 ## 生平与职涯
 
 > [!note] 生平与职涯
-> - **2006 年之前** — 在中国和日本的中小学任教，积累了东亚教育系统的第一手经验；日语流利（Rappleye, 2006, p. 240）
-> - **2006** — 在牛津大学完成硕士论文（MSc dissertation），对中国和美国对日本教育的[[Cross-National Attraction|跨国吸引力]]进行历史比较研究（Rappleye, 2006, p. 234）
-> - **2006** — 在 Research in Comparative and [[International Education]] 发表"Theorizing Educational Transfer: Toward a Conceptual Map of the Context of Cross-National Attraction"，基于硕士论文的经验基础，提出跨国吸引力情境概念地图，是该领域被广泛引用的理论建构论文（Rappleye, 2006）
-> - **2007 年起** — 任东京大学副教授（Rappleye, 2006, p. 240）
+> - **2006 年之前** — 在中国和日本的中小学任教，积累了东亚教育系统的第一手经验；日语流利([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 240]])
+> - **2006** — 在牛津大学完成硕士论文（MSc dissertation），对中国和美国对日本教育的[[Cross-National Attraction|跨国吸引力]]进行历史比较研究([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 234]])
+> - **2006** — 在 Research in Comparative and [[International Education]] 发表"Theorizing Educational Transfer: Toward a Conceptual Map of the Context of Cross-National Attraction"，基于硕士论文的经验基础，提出跨国吸引力情境概念地图，是该领域被广泛引用的理论建构论文([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
+> - **2007 年起** — 任东京大学副教授([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 240]])
 
 ---
 
@@ -61,7 +61,7 @@ updated: '2026-06-08'
 
 ### 情境的双层拆解
 
-Rappleye 的核心理论动作是将"情境"拆解为两个相互独立的层面（Rappleye, 2006, pp. 228–230）：
+Rappleye 的核心理论动作是将"情境"拆解为两个相互独立的层面([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 228–230]])：
 
 - **结构层面**（structural realm）——"更广阔世界"中客观发生的变化（经济衰退、国际排名下滑、技术革新、政权更替等），独立于人的能动性。结构变化不会自动产生教育改革——同一项结构变化可以被不同行动者包装成完全相反的政策论证。
 - **人的层面**（human realm）——教育改革辩论。行动者如何在辩论中解释、选择和包装结构变化，以支持自己的改革或抵制主张。
@@ -97,9 +97,9 @@ Rappleye 基于晚清中国借用日本教育的历史案例提出：当改革�
 ## 影响
 
 > [!success] 影响
-> - **[[Policy Borrowing|政策借用]]研究** — 情境概念地图为[[Policy Borrowing|政策借用]]四阶段循环模型的第一阶段（[[Cross-National Attraction|跨国吸引力]]）提供了最系统的分析工具，回应了 Phillips & Ochs 自己承认的"情境分析是最困难任务"这一瓶颈（Rappleye, 2006, p. 226）
-> - **[[Pre-Transfer Agency|前转移能动性]]** — 在 Steiner-Khamsi (2000) 呼吁的基础上，明确区分了前转移能动性与后转移能动性，将分析视野推进到外国范例进入国内话语的最初时刻（Rappleye, 2006, p. 227）
-> - **比较教育方法论** — 提出比较教育学者应更有意识地介入政策辩论的规范性主张：通过将外国系统研究与"本国"情境的推力或阻力明确联系起来，学者可以支持或反对借用，而非让不熟悉外国情境的政治家和媒体来"翻译"研究成果（Rappleye, 2006, pp. 237–238）
+> - **[[Policy Borrowing|政策借用]]研究** — 情境概念地图为[[Policy Borrowing|政策借用]]四阶段循环模型的第一阶段（[[Cross-National Attraction|跨国吸引力]]）提供了最系统的分析工具，回应了 Phillips & Ochs 自己承认的"情境分析是最困难任务"这一瓶颈([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 226]])
+> - **[[Pre-Transfer Agency|前转移能动性]]** — 在 Steiner-Khamsi (2000) 呼吁的基础上，明确区分了前转移能动性与后转移能动性，将分析视野推进到外国范例进入国内话语的最初时刻([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 227]])
+> - **比较教育方法论** — 提出比较教育学者应更有意识地介入政策辩论的规范性主张：通过将外国系统研究与"本国"情境的推力或阻力明确联系起来，学者可以支持或反对借用，而非让不熟悉外国情境的政治家和媒体来"翻译"研究成果([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 237–238]])
 > - **对 Phillips & Ochs 框架的深化** — 将原有的单层"推动力"拆分为结构-人的双层互动，新增对称的阻力侧，补充了四种吸引力"火花"的动机分类
 
 ---

@@ -24,7 +24,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -46,7 +47,7 @@ updated: 2026-05-30
 > - 联合展示是数据整合阶段的操作核心，连接着数据收集/分析与研究发现之间的解释环节。
 
 > [!abstract] 不同设计类型的联合展示模板
-> 联合展示的结构因[[Mixed Methods Research|混合方法]]设计类型而异，因为不同设计的整合程序不同（Creswell & Creswell, 2022, pp.238–244）：
+> 联合展示的结构因[[Mixed Methods Research|混合方法]]设计类型而异，因为不同设计的整合程序不同([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.238–244]])：
 >
 > **[[Convergent Design|聚敛式设计]]联合展示**：以主题为列、分类[[Variable|变量]]（如高/中/低分组）为行，单元格中放置引用或得分（或两者兼有）。在表格外添加专门的[[Metainferences|元推论]]行和列，研究者沿行和沿列检视以提取整合性洞察。联合展示也可以换一种排列方式——以关键问题或概念为纵轴，横轴两列分别为质性回应和量化回应。
 >
@@ -58,7 +59,7 @@ updated: 2026-05-30
 ## 与元推论的关系
 
 > [!info]
-> 联合展示的直接产出是[[Metainferences|元推论]]（Metainferences）——研究者在检视联合展示表格时，从量化与质性数据并排的比对中得出的整合性洞察（Creswell & Creswell, 2022, p.234）。联合展示因此不仅是数据呈现工具，更是从数据到推论的推理空间：研究者通过沿行和沿列检视表格，识别仅靠单一数据无法发现的模式、差异和关系。当两类数据出现分歧时，联合展示也使分歧可视化，提示研究者需要进一步分析。
+> 联合展示的直接产出是[[Metainferences|元推论]]（Metainferences）——研究者在检视联合展示表格时，从量化与质性数据并排的比对中得出的整合性洞察([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.234]])。联合展示因此不仅是数据呈现工具，更是从数据到推论的推理空间：研究者通过沿行和沿列检视表格，识别仅靠单一数据无法发现的模式、差异和关系。当两类数据出现分歧时，联合展示也使分歧可视化，提示研究者需要进一步分析。
 
 ## 适用场景
 

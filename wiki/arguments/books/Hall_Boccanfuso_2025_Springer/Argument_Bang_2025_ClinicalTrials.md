@@ -45,8 +45,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""
 citation_aliases:
-  - "Soo Bang, 2025"
-  - "Soo Bang (2025)"
+  - "Bang, 2025"
+  - "Bang (2025)"
 ---
 ---
 

@@ -57,7 +57,7 @@ updated: 2026-06-01
 ## 知识租金的提取机制
 
 > [!abstract]
-> Schulze-Cleven et al.（2017, pp.798–799, 801–805）揭示了学术[[Champ|场域]]中知识租金的多重提取机制：
+> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.798–799, 801–805)]]揭示了学术[[Champ|场域]]中知识租金的多重提取机制：
 
 ### 知识产权租金
 

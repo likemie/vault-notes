@@ -30,7 +30,9 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -49,7 +51,7 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 - 大学须与发明人分享知识产权收入
 
 > [!note]
-> 其中，要求大学等非营利机构将一部分许可费（royalties）分配给发明人这一条款，使大学研究者在知识产权收益方面与企业研究者产生了制度性差异：企业研究者通常不直接从许可费中分享收益。其后果是大学的知识产权政策必须明确承认发明人的权利，而任何[[University-Industry Collaboration|产学合作]]协议都必须尊重这一制度安排（Hall, 2025, p.264）。
+> 其中，要求大学等非营利机构将一部分许可费（royalties）分配给发明人这一条款，使大学研究者在知识产权收益方面与企业研究者产生了制度性差异：企业研究者通常不直接从许可费中分享收益。其后果是大学的知识产权政策必须明确承认发明人的权利，而任何[[University-Industry Collaboration|产学合作]]协议都必须尊重这一制度安排([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.264]])。
 
 ## 对大学知识产权政策的影响
 
@@ -95,7 +97,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 ## 在高等教育市场化中的角色
 
 > [!note]
-> Schulze-Cleven et al.（2017, pp.800–801）将 Bayh-Dole Act 定位为美国高等教育市场化的关键政策节点。1980 年代至 2000 年代之间，一系列立法——以 Bayh-Dole Act 为首——创造和强化了高等教育部门与更广泛市场经济的连接：
+> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.800–801)]]将 Bayh-Dole Act 定位为美国高等教育市场化的关键政策节点。1980 年代至 2000 年代之间，一系列立法——以 Bayh-Dole Act 为首——创造和强化了高等教育部门与更广泛市场经济的连接：
 
 - **知识产权的商业化通道**：Bayh-Dole Act 为联邦资助的研究成果开辟了从大学实验室到商业市场的合法路径。此前，联邦资助的发明归政府所有，商业化过程缓慢而复杂。Bayh-Dole Act 将所有权转移给大学，创造了对大学将研究成果商业化的制度激励
 - **[[Academic Capitalism|学术资本主义]]的法律基础设施**：Bayh-Dole Act 是[[Academic Capitalism|学术资本主义]]——大学日益卷入专利商业化、[[University-Industry Collaboration|产学合作]]和创收项目——的核心法律支柱。没有这部法案，大学通过专利许可获取收入的制度空间将受到根本性限制

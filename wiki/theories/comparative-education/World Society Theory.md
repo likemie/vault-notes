@@ -35,10 +35,10 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
-  - "[[Argument_Zapp_2022_Springer]]"
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -62,7 +62,7 @@ updated: '2026-06-02'
 ## 核心命题
 
 > [!abstract]
-> 世界社会理论的主要命题（综合自 Zapp, 2022, pp.145–149; Yan & Morris, 2025; Amos, 2022）：
+> 世界社会理论的主要命题(综合自 Zapp, 2022, pp.145–149; [[Argument_Yan_2025_JCS|Yan & Morris, 2025]]; [[Argument_Amos_2022_Springer|Amos, 2022]])：
 
 ### 世界社会的运作机制
 
@@ -75,7 +75,7 @@ updated: '2026-06-02'
 ### 全球学校模型的扩散与趋同
 
 - **全球扩散**：现代学校教育的基本形式（年龄分级、课程分类、标准化考试）在全球范围内趋同，动力是更普遍的现代民族国家文化（西方）模型在全球的扩散（Meyer et al., 1997，引自 Yan & Morris, 2025, p.482）。
-- **西方模板**：扩散的方向是从西方（尤其是美国）向世界其他国家。Social Studies（Hamilton, 1973）和 Humanities（Stenhouse, 1968）——以综合学科替代单一学科的课程形式——最初在美英开发，随后扩散至全球（Yan & Morris, 2025, p.482）。
+- **西方模板**：扩散的方向是从西方（尤其是美国）向世界其他国家。Social Studies（Hamilton, 1973）和 Humanities（Stenhouse, 1968）——以综合学科替代单一学科的课程形式——最初在美英开发，随后扩散至全球([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p.482]])。
 - **趋同机制**：通过工业化、城市化和国家建构的标准化过程实现，而非强迫性政策转移。
 
 ### 大众教育的政治建构
@@ -110,8 +110,8 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 ### 批评与经验检验
 
 - 2015 年 Silova & Brehm 批判性地审视该理论，质疑从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在规范性上再生产了西方中心主义。
-- Klerides（2023）将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。这一辩论是理性主义比较教育内部的核心理论张力。
-- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同假设难以解释国家安全的突变性介入**（Yan & Morris, 2025, pp.491–492）。详见 [[Argument_Yan_2025_JCS]]。
+- [[Argument_Klerides_2023_CE|Klerides (2023)]]将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。这一辩论是理性主义比较教育内部的核心理论张力。
+- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同假设难以解释国家安全的突变性介入**([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。详见 [[Argument_Yan_2025_JCS]]。
 
 ---
 ## 认识论立场
@@ -128,7 +128,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 ### 表面趋同 vs 功能差异
 
-理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同假设；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌（Yan & Morris, 2025, pp.491–492）。
+理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同假设；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。
 
 ### 国家权力与国内政治的忽视
 
@@ -144,7 +144,7 @@ Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非�
 
 ### LS 案例的方法论启示
 
-Yan & Morris (2025) 提出了一个方法论批评：如果研究者仅在 LS 创立阶段（2004–2009）进行分析，观察到的全球参照会**错误地支持**趋同预测。只有将分析时间范围扩展至废除阶段（2019–2021），才能揭示全球参照的工具性和可逆性（Yan & Morris, 2025, pp.491–492）。这对比较教育研究提出了一个重要的分析设计问题——如何选择时间范围以避免对全球趋同的过度推断？
+[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 提出了一个方法论批评：如果研究者仅在 LS 创立阶段（2004–2009）进行分析，观察到的全球参照会**错误地支持**趋同预测。只有将分析时间范围扩展至废除阶段（2019–2021），才能揭示全球参照的工具性和可逆性([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。这对比较教育研究提出了一个重要的分析设计问题——如何选择时间范围以避免对全球趋同的过度推断？
 
 ---
 ## 相关研究

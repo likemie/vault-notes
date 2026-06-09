@@ -17,7 +17,8 @@ related_methods:
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -29,7 +30,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 外生[[Variable|变量]]（exogenous variable）和内生变量（endogenous variable）是因果模型中对变量的一种结构性区分。外生变量不被模型中其他变量所引起，作为模型的输入端。内生变量受模型中其他变量的影响，处于模型的因果链之中（Creswell & Creswell, 2022, p.59）。
+> 外生[[Variable|变量]]（exogenous variable）和内生变量（endogenous variable）是因果模型中对变量的一种结构性区分。外生变量不被模型中其他变量所引起，作为模型的输入端。内生变量受模型中其他变量的影响，处于模型的因果链之中([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.59]])。
 
 ## 在因果模型中的角色
 

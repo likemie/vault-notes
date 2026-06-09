@@ -16,7 +16,8 @@ related_persons:
   - "[[Maria Pampaka]]"
   - "[[Matt Homer]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'
@@ -30,7 +31,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> 关注如何弥合教育研究与实践之间的鸿沟，主张在研究和专业发展的交叉地带设计"混合活动"。与 Pampaka 合作关注非成就性学习结果（如态度、倾向）的测量（Pampaka et al., 2016, p.235）。
+> 关注如何弥合教育研究与实践之间的鸿沟，主张在研究和专业发展的交叉地带设计"混合活动"。与 Pampaka 合作关注非成就性学习结果（如态度、倾向）的测量([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.235]])。
 
 ## 主要贡献
 

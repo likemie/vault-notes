@@ -26,7 +26,10 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Rømer_2018]]"
 sources:
   - "[[Hattie_2017_SLM]]"
 part_of: ''
@@ -36,8 +39,8 @@ updated: '2026-06-08'
 year: 2017
 doi: ""
 citation_aliases:
-  - "John Hattie, 2017"
-  - "John Hattie (2017)"
+  - "Hattie, 2017"
+  - "Hattie (2017)"
 ---
 ## 研究问题
 
@@ -55,7 +58,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 类型：Reply / Commentary（直接回应）
-> - 对象：Eacott（2017）"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of Hattie"
+> - 对象：[[Argument_Eacott_2017_SLM|Eacott (2017)]]"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of Hattie"
 
 ## 论证结构
 
@@ -88,10 +91,10 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - Eacott（2019）指出 Hattie 的回应在两天内被接受发表，而 Eacott 原论文经历了"数月和多轮评审"（Eacott, 2019, p.777）
-> - Hattie 以"ACEL 网站列出了许多其他讲者"为由否认[[Cult of the Guru|大师崇拜]]的存在——Eacott 指出这回避了核心问题："尽管存在对 Hattie 方法的实质性批评，其工作仍被政治家和协会引用时仿佛是不容置疑的事实"（Eacott, 2019, p.777）
-> - Eacott 被 *[[School Leadership]] & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（Eacott, 2019, p.778）
-> - Hattie 声称 VL 的核心猜想"未被批评"——然而 Snook et al.（2009）、Rømer（2018）和多位批评者已深入质疑其认识论前提
+> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]]指出 Hattie 的回应在两天内被接受发表，而 Eacott 原论文经历了"数月和多轮评审"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])
+> - Hattie 以"ACEL 网站列出了许多其他讲者"为由否认[[Cult of the Guru|大师崇拜]]的存在——Eacott 指出这回避了核心问题："尽管存在对 Hattie 方法的实质性批评，其工作仍被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])
+> - Eacott 被 *[[School Leadership]] & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+> - Hattie 声称 VL 的核心猜想"未被批评"——然而 Snook et al.（2009）、[[Argument_Rømer_2018_EPT|Rømer (2018)]]和多位批评者已深入质疑其认识论前提
 
 ## 来源
 

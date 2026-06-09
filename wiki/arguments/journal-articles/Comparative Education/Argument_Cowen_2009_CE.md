@@ -41,8 +41,8 @@ updated: '2026-06-08'
 year: 2009
 doi: ""
 citation_aliases:
-  - "Robert Cowen, 2009"
-  - "Robert Cowen (2009)"
+  - "Cowen, 2009"
+  - "Cowen (2009)"
 ---
 # Argument_Cowen_2009_CE
 

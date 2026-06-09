@@ -31,6 +31,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Zhou_2024_CE]]"
+  - "[[Argument_Cowen_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -132,7 +133,7 @@ updated: '2026-06-08'
 ## 格言／关键表述
 
 > [!quote]
-> "As it moves, it morphs."（Cowen, 2009, p.315）
+> "As it moves, it morphs."([[Argument_Cowen_2009_CE|Cowen, 2009, p.315]])
 >
 > 移动即变形。
 

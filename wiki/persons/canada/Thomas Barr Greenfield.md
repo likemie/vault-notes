@@ -19,7 +19,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -28,14 +29,14 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的认识论基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局（Eacott, 2015, p.316）。
+> Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的认识论基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 
 ## 核心思想
 
 > [!info] 核心思想
 > **主观性的不可还原性**
 >
-> Greenfield 的核心认识论主张是：**我们所有关于现实的知识——自然和社会的——都包含无法还原的主观成分**。换言之，客观性是一个神话——在自然科学和社会科学中都是如此（Eacott, 2015, p.316）。
+> Greenfield 的核心认识论主张是：**我们所有关于现实的知识——自然和社会的——都包含无法还原的主观成分**。换言之，客观性是一个神话——在自然科学和社会科学中都是如此([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
 > > "all our knowledge of reality, natural and social, contains an irreducible subjective component"（引自 Eacott, 2015, p.316）
 >
@@ -49,9 +50,9 @@ updated: '2026-06-08'
 >
 > **历史背景**
 >
-> Greenfield 的挑战并非孤立事件。同一时期，Bates（1980, 1983）从批判[[Theoretical Standpoint|理论立场]]也对逻辑经验主义提出了批评。这些批判共同导致了教育行政学界许多人认为：追求教育行政的科学既不值得也不可行（Eacott, 2015, p.316）。
+> Greenfield 的挑战并非孤立事件。同一时期，Bates（1980, 1983）从批判[[Theoretical Standpoint|理论立场]]也对逻辑经验主义提出了批评。这些批判共同导致了教育行政学界许多人认为：追求教育行政的科学既不值得也不可行([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
-> > Evers & Lakomski（1991, 1996, 2000, 2012）后来一致论证：问题不在科学本身，而在科学的模型。他们接受 Greenfield 对逻辑经验主义的批评，但拒绝由此推论一切科学探究都不可能——主张需要一个更丰富的科学模型（Eacott, 2015, p.316）。
+> > Evers & Lakomski（1991, 1996, 2000, 2012）后来一致论证：问题不在科学本身，而在科学的模型。他们接受 Greenfield 对逻辑经验主义的批评，但拒绝由此推论一切科学探究都不可能——主张需要一个更丰富的科学模型([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 
 ## 主要贡献
 
@@ -76,6 +77,6 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **"怎么都行"的问题**：Eacott（2015, p.316）指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
+> - **"怎么都行"的问题**：[[Argument_Eacott_2015_EPT|Eacott (2015, p.316)]]指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
 > - **消极后果**：Greenfield 的批判（与 Bates 等人一起）在打破实证主义垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
-> - **Eacott 的定位**：Eacott（2015）在 Greenfield 与 Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"
+> - **Eacott 的定位**：[[Argument_Eacott_2015_EPT|Eacott (2015)]]在 Greenfield 与 Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"

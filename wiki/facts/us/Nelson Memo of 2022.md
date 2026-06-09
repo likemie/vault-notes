@@ -23,7 +23,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -35,7 +36,7 @@ updated: 2026-06-04
 ## 背景
 
 > [!info]
-> 2022 年，白宫科技政策办公室（Office of Science and Technology Policy, OSTP）主任 Alondra Nelson 发布备忘录，指示所有资助研发的联邦机构建立公共获取政策，覆盖同行评审学术出版物和科学数据。这一政策标志着美国联邦政府对开放科学（open science）的重大立场转变——从此前的有限开放转向全面、即时的公共获取要求（Hall, 2025, p.264）。
+> 2022 年，白宫科技政策办公室（Office of Science and Technology Policy, OSTP）主任 Alondra Nelson 发布备忘录，指示所有资助研发的联邦机构建立公共获取政策，覆盖同行评审学术出版物和科学数据。这一政策标志着美国联邦政府对开放科学（open science）的重大立场转变——从此前的有限开放转向全面、即时的公共获取要求([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.264]])。
 
 ## 政策文本摘要
 

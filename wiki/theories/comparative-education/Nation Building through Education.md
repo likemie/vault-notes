@@ -28,10 +28,10 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
+  - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Bulag_2024_CE]]"
-  - "[[Argument_Yan_2025_JCS]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -43,11 +43,11 @@ updated: '2026-05-21'
 > [!info] 核心主张
 > 通过教育进行国族建构（Nation Building through Education）指国家利用教育系统——课程内容、教学语言、教科书、教师培训和学校管理——在境内多元族群和地区（特别是边疆地区）推行统一的**国家认同**和**主流文化规范**，以消除地方文化特殊性、语言差异和替代性身份认同。
 >
-> Yan & Morris (2025, p. 490) 将[[National Education|香港国民教育]]与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
+> [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 将[[National Education|香港国民教育]]与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 Yan & Morris, 2025, p. 483)
 
-> Yu & Zhao（2024）从课程**文化内容**维度推进了这一框架：国族建构不仅通过语言统一和叙事标准化运作，还通过对[[Official Knowledge|官方知识]]的选择性阐释来建构文化等级。在六门必修科目的教科书中，儒家传统被呈现为中华文化的核心，非汉政权被塑造为"向先进汉文化学习"的对象——这种"学习"叙事在教育层面将汉文化定位为文明"中心"、将非汉文化定位为"边缘"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67–68]])。而约 86% 的少数民族和宗教背景学生视儒家仅为中国文化多元组成之一——其详细论证揭示的官方-边缘叙事断裂，暴露了单一文化国族建构在多元社会中的内在矛盾([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.68–70]])。
+> [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]从课程**文化内容**维度推进了这一框架：国族建构不仅通过语言统一和叙事标准化运作，还通过对[[Official Knowledge|官方知识]]的选择性阐释来建构文化等级。在六门必修科目的教科书中，儒家传统被呈现为中华文化的核心，非汉政权被塑造为"向先进汉文化学习"的对象——这种"学习"叙事在教育层面将汉文化定位为文明"中心"、将非汉文化定位为"边缘"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67–68]])。而约 86% 的少数民族和宗教背景学生视儒家仅为中国文化多元组成之一——其详细论证揭示的官方-边缘叙事断裂，暴露了单一文化国族建构在多元社会中的内在矛盾([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.68–70]])。
 
 ## 理论内部结构
 
@@ -64,7 +64,7 @@ updated: '2026-05-21'
 >
 > > 例：想象 18 世纪末的普鲁士——领土上说着不同方言、信着不同宗教的人群。官员需要的不是各自为政的村庄，而是一批认同"我是普鲁士人"、愿意缴税和参军的公民。解决方案是建立公立学校——所有孩子学同一套课程、同一段历史。这就是 membership-creating 的历史起源([[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]])。
 >
-> Membership-creating 与国族建构的关系是：前者是**结构性的制度功能**（为什么要有公立教育），后者是**策略性的政策操作**（如何利用这个制度在边疆推行统一身份）。Yan & Morris (2025) 分析的西藏、新疆、内蒙古和香港案例，都是国家在 membership-creating 制度基础上叠加的策略性强化——在已经划定"谁是中国公民"的边界内部，进一步消除地方文化和替代性身份认同。
+> Membership-creating 与国族建构的关系是：前者是**结构性的制度功能**（为什么要有公立教育），后者是**策略性的政策操作**（如何利用这个制度在边疆推行统一身份）。[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 分析的西藏、新疆、内蒙古和香港案例，都是国家在 membership-creating 制度基础上叠加的策略性强化——在已经划定"谁是中国公民"的边界内部，进一步消除地方文化和替代性身份认同。
 >
 > [[Argument_Amos_2022_Springer|Amos (2022, p.55)]] 还指出了 membership-creating 的当代回响："直到今天，围绕难民儿童、移民或所谓非法外国人的学校教育争议"——这些争议之所以棘手，正是因为现代教育的 DNA 里[[Coding in Qualitative Research|编码]]了"内外之分"。当国家通过教育系统强化"谁是公民"的边界时，这个机制的历史连续性清晰可见。
 
@@ -75,9 +75,9 @@ updated: '2026-05-21'
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold & Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |
 > | **内蒙古** | "中华民族"叙事替代蒙古族历史叙事 | [[Argument_Bulag_2024_CE\|Bulag (2024)]] |
-> | **香港** | 以 [[Liberal Studies\|LS]]→[[Citizenship and Social Development\|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
+> | **香港** | 以 [[Liberal Studies\|LS]]→[[Citizenship and Social Development\|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | [[Argument_Yan_2025_JCS|Yan & Morris (2025)]]; Vickers & Morris (2022) |
 >
-> > Yan & Morris (2025, p. 490) 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
+> > [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
 
 ## 发展脉络
 
@@ -86,7 +86,7 @@ updated: '2026-05-21'
 > - **Leibold & Dorjee (2024)** — 西藏案例分析：强制性国民教育如何消除地方语言和文化认同
 > - **Tobin (2024)** — 新疆案例分析："普通话化"作为教育政策工具
 > - **[[Argument_Bulag_2024_CE|Bulag (2024)]]** — 内蒙古案例分析："[[Zhonghua Minzu|中华民族]]"叙事替代蒙古族历史
-> - **Yan & Morris (2025)** — 将香港纳入同一边疆国族建构框架，揭示统一的治理逻辑
+> - **[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]** — 将香港纳入同一边疆国族建构框架，揭示统一的治理逻辑
 > - **[[Argument_Yu_2024_CE|Yu & Zhao (2024)]]** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"[[Official Knowledge|官方知识]]"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的文化等级
 
 ## 研究范式
@@ -108,14 +108,14 @@ updated: '2026-05-21'
 
 
 > [!warning] 香港的特殊性：[[One Country, Two Systems|一国两制]]下的"谨慎"同化
-> **争议背景**：Yan & Morris (2025, p. 490) 指出香港的国族建构策略比新疆和西藏"更谨慎"——先以 [[Liberal Studies|LS]] 的温和"中国背景"为入口（2009），后以 [[Citizenship and Social Development|CSD]] 的强制爱国教育收尾（2021）。这一区别提出了分析性问题：为什么对香港采取不同的节奏和策略？
+> **争议背景**：[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 指出香港的国族建构策略比新疆和西藏"更谨慎"——先以 [[Liberal Studies|LS]] 的温和"中国背景"为入口（2009），后以 [[Citizenship and Social Development|CSD]] 的强制爱国教育收尾（2021）。这一区别提出了分析性问题：为什么对香港采取不同的节奏和策略？
 >
 > **可能原因**：
 > - "一国两制"的国际承诺限制了对香港的直接文化同化——需要维持"自治"外观
 > - 香港的国际化程度和媒体关注度使激进同化策略面临更高的国际舆论成本
 > - 2019 年后"国家安全危机"叙事为加速同化提供了合法性窗口
 >
-> **目前状态**：2020 年后香港与边疆地区国族建构策略的趋同速度加快，Yan & Morris (2025) 将此视为这一趋同趋势的证据。
+> **目前状态**：2020 年后香港与边疆地区国族建构策略的趋同速度加快，[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 将此视为这一趋同趋势的证据。
 
 ## 相关研究
 

@@ -20,7 +20,8 @@ related_methods:
   - "[[Analysis of Variance]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -32,16 +33,16 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 测量尺度（scale of measurement）指[[Quantitative Research|量化研究]]中向参与者提供的反应选项，或研究者在观察参与者时收集的测量单位（Creswell & Creswell, 2022, p.56）。[[Variable|变量]]通过测量尺度被操作化，研究者据此将参与者的回答或行为转化为可分析的数据。
+> 测量尺度（scale of measurement）指[[Quantitative Research|量化研究]]中向参与者提供的反应选项，或研究者在观察参与者时收集的测量单位([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。[[Variable|变量]]通过测量尺度被操作化，研究者据此将参与者的回答或行为转化为可分析的数据。
 
 > [!quote]
-> "A scale of measurement in quantitative research would be the response options available to participants on instruments or collected by the researcher observing participants."（Creswell & Creswell, 2022, p.56）
+> "A scale of measurement in quantitative research would be the response options available to participants on instruments or collected by the researcher observing participants."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])
 
 多部方法论经典对测量尺度有详细讨论，包括 Isaac & Michael (1981)、Keppel (1991)、Kerlinger (1979)、Thompson (2006) 和 Thorndike (1997)。变量被测量为分类（categorical）或连续（continuous）两大类型（Creswell & Guetterman, 2018）。
 
 ## 核心分类
 
-[[Variable|变量]]被测量为两大类型（Creswell & Guetterman, 2018; Creswell & Creswell, 2022, p.56）。
+[[Variable|变量]]被测量为两大类型(Creswell & Guetterman, 2018; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。
 
 ### 分类量表（Categorical Scales）
 
@@ -60,7 +61,7 @@ updated: 2026-05-31
 **比率量表（Ratio Scale）**。除等距属性外，还具有有意义的绝对零。例如年龄、收入、反应时间等。比率量表支持所有算术运算。
 
 > [!example]
-> 研究者可能询问参与者"你同意经济正在衰退吗"，回答落在 1–5 量表上（1 = 非常同意，2 = 同意，3 = 未决定，4 = 不同意，5 = 非常不同意）。这是一个典型的连续等距量表示例（Creswell & Creswell, 2022, p.56）。
+> 研究者可能询问参与者"你同意经济正在衰退吗"，回答落在 1–5 量表上（1 = 非常同意，2 = 同意，3 = 未决定，4 = 不同意，5 = 非常不同意）。这是一个典型的连续等距量表示例([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。
 
 ## 理论基础
 

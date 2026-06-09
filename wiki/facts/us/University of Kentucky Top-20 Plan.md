@@ -19,7 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Boyadjieva_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -31,7 +32,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 肯塔基大学（University of Kentucky）是一所公立赠地大学（land-grant institution），成立于 1865 年，传统上提供农业、工程、采矿和通识文科教育。本世纪初，肯塔基州立法机构指令该大学在 2020 年前达到美国公立大学 Top-20 的排名目标（Boyadjieva, 2022, pp.125–126）。
+> 肯塔基大学（University of Kentucky）是一所公立赠地大学（land-grant institution），成立于 1865 年，传统上提供农业、工程、采矿和通识文科教育。本世纪初，肯塔基州立法机构指令该大学在 2020 年前达到美国公立大学 Top-20 的排名目标([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]])。
 
 ---
 
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 > [!warning]
 > - 该案例揭示了排名指标的内置偏见：USNWR 的排名方法系统性地惩罚那些履行公共使命——招收弱势群体学生——的大学
 > - 当排名目标与机构使命冲突时，排名驱动型治理可能迫使大学在服务弱势群体和追求声望之间做出选择
-> - 这是一个排名如何"惩罚"而非"激励"公共服务的典型案例（Boyadjieva, 2022, pp.125–126）
+> - 这是一个排名如何"惩罚"而非"激励"公共服务的典型案例([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]])
 
 ---
 

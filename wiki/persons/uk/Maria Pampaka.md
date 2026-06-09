@@ -17,7 +17,8 @@ related_persons:
   - "[[Julian Williams]]"
   - "[[Matt Homer]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'
@@ -31,7 +32,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> 关注"什么有效"议程在教育中的方法论问题，主张超越成就测量以捕捉教学-学习关系的复杂性。特别关注学习者能动性和替代性学习结果的测量（Pampaka et al., 2016, p.235）。
+> 关注"什么有效"议程在教育中的方法论问题，主张超越成就测量以捕捉教学-学习关系的复杂性。特别关注学习者能动性和替代性学习结果的测量([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.235]])。
 
 ## 主要贡献
 

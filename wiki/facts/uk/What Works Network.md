@@ -26,7 +26,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Campbell Collaboration]]"
   - "[[Ofsted]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2015_CHESS]]"
 confidence: high
 status: draft
 created: 2026-05-01
@@ -35,19 +36,19 @@ updated: 2026-05-18
 ## 背景
 
 > [!info] 背景
-> 英国政府在 2013 年前后建立了 What Works Network，这是一组证据"清算中心"（clearing houses），旨在为不同政策领域的从业者总结学术研究证据。这一网络的建立标志着证据本位方法在英国公共政策制定中的复兴（Cowen et al., 2015, p.3-4）。在教育领域，最突出的 What Works 中心是[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF），它同时也是教育领域大量实地试验的资助方。
+> 英国政府在 2013 年前后建立了 What Works Network，这是一组证据"清算中心"（clearing houses），旨在为不同政策领域的从业者总结学术研究证据。这一网络的建立标志着证据本位方法在英国公共政策制定中的复兴([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.3-4]])。在教育领域，最突出的 What Works 中心是[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF），它同时也是教育领域大量实地试验的资助方。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
 > What Works Network 的目标是弥合学术研究与一线实践之间的鸿沟。其核心理念是：通过系统性地总结和传播研究证据（特别是 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]），帮助从业者和政策制定者做出更好的决策。
 >
-> > "The establishment of the What Works Network... heralds a resurgence of evidence-based approaches in British policymaking."（Cowen et al., 2015, p.4）
+> > "The establishment of the What Works Network... heralds a resurgence of evidence-based approaches in British policymaking."([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.4]])
 >
 > 教育领域的 [[Education Endowment Foundation|EEF]] 承担了三重角色：
 > 1. 减少研究的碎片化——提供易于访问的证据工具包
 > 2. 生产更多系统综述
-> 3. 为学校系统内的高质量研究实验提供动力和支持（Cowen et al., 2015, p.7）
+> 3. 为学校系统内的高质量研究实验提供动力和支持([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.7]])
 
 ## 时间线
 
@@ -67,30 +68,30 @@ updated: 2026-05-18
 > - **内阁办公室（Cabinet Office）**：推动网络的建立和协调
 >
 > 实施机制：
-> - EEF Toolkit 以联盟表格式（league table）展示干预措施，按成本效益、证据质量和[[Effect Size|效应量]]（以学生学习进步月数计量）排名（Cowen et al., 2015, p.19-20）
+> - EEF Toolkit 以联盟表格式（league table）展示干预措施，按成本效益、证据质量和[[Effect Size|效应量]]（以学生学习进步月数计量）排名([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19-20]])
 > - EEF 同时资助大量学校实地试验（[[Randomised Controlled Trials|RCT]]）
 
 ## 效果与评价
 
 > [!success] 效果与评价
 > **正面评价：**
-> - 教师在访谈中对 Toolkit 的呈现方式（"有吸引力且色彩丰富"）给予高度评价（Cowen et al., 2015, p.19）
-> - Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效（Cowen et al., 2015, p.20）
-> - 一位新教师形容 [[Education Endowment Foundation|EEF]] 为"通往高质量证据的捷径"（Cowen et al., 2015, p.40）
+> - 教师在访谈中对 Toolkit 的呈现方式（"有吸引力且色彩丰富"）给予高度评价([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19]])
+> - Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.20]])
+> - 一位新教师形容 [[Education Endowment Foundation|EEF]] 为"通往高质量证据的捷径"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 >
 > **不足与挑战：**
-> - Toolkit 提供的本地相关信息有限：学生特征限于年龄和相对劣势程度，性别、族裔、语言等信息缺乏；学校环境（城市/郊区/农村）信息不足（Cowen et al., 2015, p.20-21）
-> - 平均[[Effect Size|效应量]]的呈现可能不够突出效应在各项研究之间的变异幅度（Cowen et al., 2015, p.20）
-> - 缺乏专门针对实施现有证据本位的实用指导，特别是如何将"什么有效"的证据与本地知识结合起来权衡（Cowen et al., 2015, p.21-22）
-> - 教师反馈机会有限——Toolkit 被描述为"只是一个产品"而非互动平台（Cowen et al., 2015, p.40）
-> - 缺乏一线教师参与项目设计——"令人沮丧的是智库和政策制定者认为他们正在提出前进方向，却没有课堂实践者参与项目"（Cowen et al., 2015, p.40）
+> - Toolkit 提供的本地相关信息有限：学生特征限于年龄和相对劣势程度，性别、族裔、语言等信息缺乏；学校环境（城市/郊区/农村）信息不足([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.20-21]])
+> - 平均[[Effect Size|效应量]]的呈现可能不够突出效应在各项研究之间的变异幅度([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.20]])
+> - 缺乏专门针对实施现有证据本位的实用指导，特别是如何将"什么有效"的证据与本地知识结合起来权衡([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.21-22]])
+> - 教师反馈机会有限——Toolkit 被描述为"只是一个产品"而非互动平台([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
+> - 缺乏一线教师参与项目设计——"令人沮丧的是智库和政策制定者认为他们正在提出前进方向，却没有课堂实践者参与项目"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **扩散模式的局限**：研究证据不能从学术来源通过政策清算中心级联顺畅地流入课堂，政治维度无法从 EBP 实施过程中完全剔除（Cowen et al., 2015, p.15）
-> - **与 [[Ofsted]] 的矛盾**：政府机构（尤其是 Ofsted）有时支持了与 [[Education Endowment Foundation|EEF]] 证据相矛盾的实践（如学习风格理论），削弱了 What Works 的公信力（Cowen et al., 2015, p.37-38）
-> - **工具包的误读**：EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"——这完全误读了 Toolkit 关于 TA 使用方式的微妙信息（Cowen et al., 2015, p.40）
+> - **扩散模式的局限**：研究证据不能从学术来源通过政策清算中心级联顺畅地流入课堂，政治维度无法从 EBP 实施过程中完全剔除([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.15]])
+> - **与 [[Ofsted]] 的矛盾**：政府机构（尤其是 Ofsted）有时支持了与 [[Education Endowment Foundation|EEF]] 证据相矛盾的实践（如学习风格理论），削弱了 What Works 的公信力([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37-38]])
+> - **工具包的误读**：EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"——这完全误读了 Toolkit 关于 TA 使用方式的微妙信息([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 
 ## 相关概念／理论
 

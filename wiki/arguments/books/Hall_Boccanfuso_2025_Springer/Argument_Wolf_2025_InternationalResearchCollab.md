@@ -48,8 +48,8 @@ issuing_organization: ""
 year: 2025
 doi: ""
 citation_aliases:
-  - "Bethany J. Wolf et al., 2025"
-  - "Bethany J. Wolf et al. (2025)"
+  - "Wolf et al., 2025"
+  - "Wolf et al. (2025)"
 ---
 # Argument_Wolf_2025_InternationalResearchCollab
 

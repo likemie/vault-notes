@@ -18,7 +18,8 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -32,7 +33,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> [[PISA]] 单一教育观（PISA Monolithic View of Education）指 PISA 的基本前提假设，即可以通过一套共同的、普遍的指标来衡量一个国家的教育质量，这些指标独立于学校系统、社会结构、传统、文化、自然条件、生活方式、生产方式等。这一假设将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家（Zhao, 2020）。
+> [[PISA]] 单一教育观（PISA Monolithic View of Education）指 PISA 的基本前提假设，即可以通过一套共同的、普遍的指标来衡量一个国家的教育质量，这些指标独立于学校系统、社会结构、传统、文化、自然条件、生活方式、生产方式等。这一假设将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家([[Argument_Zhao_2020_JEC|Zhao, 2020]])。
 
 > [!quote]
 > "A fundamental premise for the PISA project is that it is indeed possible to measure the quality of a country's education by indicators that are common, i.e. universal, independent of school systems, social structure, traditions, culture, natural conditions, ways of living, modes of production etc."（Sjøberg, 2015b, p.116, 引自 Zhao, 2020）

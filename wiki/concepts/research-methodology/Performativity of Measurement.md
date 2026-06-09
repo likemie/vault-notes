@@ -13,6 +13,7 @@ tags:
 - educational-philosophy
 - paradigm/constructivist
 related_concepts:
+  - "[[Performativity]]"
   - "[[Knowledge Production]]"
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
@@ -37,6 +38,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Argument_Møller_2017]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Johnson_2023_CE]]"
 confidence: high
@@ -48,14 +50,14 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Performativity of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7, 17–18]])。
+> [[Performativity]] of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7, 17–18]])。
 >
 > > "As soon as the measurement exercise begins, it acts upon the world, changing priorities and influencing behaviours, policies and practices."([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - Woolgar (1991a, 1991b) 将 performativity 整合进 [[Sociology of Measurement]] 框架([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
+> - Woolgar (1991a, 1991b) 将 [[Performativity]] 整合进 [[Sociology of Measurement]] 框架([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
 > - Pickering (1995) 使用"performativity"概念描述社会技术实践的世界制造特征([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 > - Knorr Cetina (1999) 提出[[Knowledge Production|知识生产]]的"生产性"（productive）特征([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 > - Mitchell (2002) 提出"赋予可计算性的特征"（investing a character of calculability）本身改变世界([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
@@ -84,7 +86,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs **[[Sociology of Measurement]]** — Sociology of Measurement 包含 instrumentalism 和 performativity 两个维度；Performativity 是其生产性/世界制造维度
+> - vs **[[Sociology of Measurement]]** — Sociology of Measurement 包含 instrumentalism 和 [[Performativity]] 两个维度；Performativity 是其生产性/世界制造维度
 > - vs **Representationalism（再现论）** — 再现论认为测量的作用是准确描述或代表现实；performativity 立场认为测量制造现实
 > - vs **Bias / Inaccuracy（偏差 / 不准确）** — 偏差批判仍属再现论框架（认为测量未能准确代表现实），performativity 批判则关注测量如何改变世界
 > - vs **[[Atomisation of Knowledge and Skills]]** — 测量的施行性说明测量如何重塑教育现实；知识与技能原子化说明这种重塑在课程内容和学习目标层面如何把整体教育目的拆成可治理碎片
@@ -100,33 +102,33 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> [[OECD]] 指标的 performativity 表现在多个层面([[Argument_Gorur_2014_Discourse|Gorur, 2014]])：
+> [[OECD]] 指标的 [[Performativity]] 表现在多个层面([[Argument_Gorur_2014_Discourse|Gorur, 2014]])：
 > - 指标成为政策制定者、媒体、公众理解教育的默认框架
 > - 各国基于比较排名调整政策，即使排名基于充满妥协的数据
 > - 指标删除遭遇强烈抵制（"它就像圣经"——OECD 官员访谈，Gorur, 2014, p.17）
 > - [[Education at a Glance|EAG]] 团队承认对媒体说的话必须简化到不再准确的程度，因为复杂真相无法被理解（OECD 官员访谈，Gorur, 2014, p.15）
 
 
-> [!success] 绩效问责制在[[School Leadership|学校领导力]]中的施行效应（Møller, 2017）
-> Møller（2017）从学校领导者体验的视角补充了 performativity 在实践层面的表现：
+> [!success] 绩效问责制在[[School Leadership|学校领导力]]中的施行效应([[Argument_Møller_2017_EERJ|Møller, 2017]])
+> [[Argument_Møller_2017_EERJ|Møller (2017)]]从学校领导者体验的视角补充了 performativity 在实践层面的表现：
 >
-> **绩效文化对学校的重塑**（Møller, 2017, p.381-382）：
+> **绩效文化对学校的重塑**([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382]])：
 > - 在许多国家，"标准"已成为学校改革者近乎"咒语"般的存在（p.382）
 > - 学校领导者时间被不可预测性、大量不确定性、去规制化和管理问责所特征化——经济效率需求常压倒集体和公共利益（p.381-382, citing Blackmore, 2011; Thomson, 2009）
 > - 管理者和学校领导者都将数据的生产和使用视为解决学校和 student 层面问题的"合法方式"——结果，教育劣势问题被框定为技术问题而非权力与资源分配问题（p.382, citing Sellar, 2015）
 > - "[[New Public Management|新公共管理]]改革分散了对公平问题的注意力"（p.382, citing Hall et al., 2015）
 >
-> **两个矛盾话语的并行运作**（Møller, 2017, p.377）：
+> **两个矛盾话语的并行运作**([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])：
 > - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业实践共同体的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
 > - 二者并非相互替代，而是**并行运作**——构成测量既是赋权工具又是控制工具的矛盾现象
 >
-> **教育语言侵蚀**（Møller, 2017, p.382）：教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"（Møller, 2017, p.382, citing Møller, 2007）
+> **教育语言侵蚀**([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])：教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ|Møller, 2017, p.382, citing Møller, 2007]])
 >
-> **问责制的双重标准**（Møller, 2017, p.382-383）：Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的证据标准。
+> **问责制的双重标准**([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])：Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的证据标准。
 
 
 > [!success] [[Visible Learning]] 作为"新管理全景监狱主义"的完美工具([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]])
-> McKnight & Whitburn（2020）将 performativity [[Analytic Framework|分析框架]]应用于 [[John Hattie]] 的 Visible Learning 项目，论证"Visible Learning"这一隐喻本身就是一种施行性装置——命名"可见"的行为改变了对教师和学生的期望与监控方式。
+> [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]将 performativity [[Analytic Framework|分析框架]]应用于 [[John Hattie]] 的 Visible Learning 项目，论证"Visible Learning"这一隐喻本身就是一种施行性装置——命名"可见"的行为改变了对教师和学生的期望与监控方式。
 >
 > **多层监控文化的生产**([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])：
 >
@@ -145,7 +147,7 @@ updated: '2026-05-18'
 >
 > - 教师被保持在"本体论上不安全"的状态（Ball, 2003, p.220，引自 McKnight & Whitburn, 2020, p.34），从而被去政治化
 > - 在这种情况下，"专业主义变成了服从的表演"（McKnight, 2016，引自 McKnight & Whitburn, 2020, p.34），而非基于专业知识、自主和利他的经典民主专业主义（Sachs, 2003; Locke, 2015）
-> - McKnight & Whitburn（2020, p.39）进一步论证 VL"殖民教师的表演性教学想象"（colonises the performative pedagogical imagination），使教师"看见"自己以特定方式教学——这是测量施行性的一个微观案例：测量框架（[[Effect Size|效应量]]排名、"什么有效"清单）不仅描述教学，更是重塑教师如何想象自己的教学实践
+> - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020, p.39)]]进一步论证 VL"殖民教师的表演性教学想象"（colonises the performative pedagogical imagination），使教师"看见"自己以特定方式教学——这是测量施行性的一个微观案例：测量框架（[[Effect Size|效应量]]排名、"什么有效"清单）不仅描述教学，更是重塑教师如何想象自己的教学实践
 >
 > **对批判实践的意义**：
 >
@@ -155,7 +157,7 @@ updated: '2026-05-18'
 
 
 > [!success] 澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 中的施行性([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]])
-> Johnson & Janzen（2023）记录了 Ball（2003）的 performativity 概念在澳大利亚基于 VL 的 HITS（High Impact Teaching Strategies）实施中的具体表现：
+> [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]记录了 Ball（2003）的 performativity 概念在澳大利亚基于 VL 的 HITS（High Impact Teaching Strategies）实施中的具体表现：
 >
 > - 在实施 HITS 的澳大利亚学区，教师被强迫执行"simplistic performative technical actions"——如在课前将课题写在白板上([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.29-30]])
 > - 结果：教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022），"evidence based best practices"取代了曾存在于专业决策中的信任([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.30]])
@@ -173,13 +175,13 @@ updated: '2026-05-18'
 > Gorur 论证，既然测量是制造世界的过程，仅挑战数字的准确性或指出其简化是不够的——需要理解测量的 instrumentalism（提供干预的潜在切入点）及其 world-making 功能（提供承担此类研究的道德和伦理动力）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18–19]])。
 
 
-> [!warning] 竞争 vs 民主的根本张力（Møller, 2017）
-> Møller（2017, p.382）识别了绩效测量在教育中引发的根本张力：
+> [!warning] 竞争 vs 民主的根本张力([[Argument_Møller_2017_EERJ|Møller, 2017]])
+> [[Argument_Møller_2017_EERJ|Møller (2017, p.382)]]识别了绩效测量在教育中引发的根本张力：
 >
 > - **一方**：竞争与私有化话语（支撑[[New Public Management|新公共管理]]），绩效测量作为市场选择和资源分配的技术手段
 > - **另一方**：根植于社会民主意识形态的话语（公平、参与、综合教育），关注教育作为公共产品
 >
-> Møller 论证必须理解维持教育作为公共产品的条件和过程，并质疑当前的绩效问责体系是否正在以牺牲公平为代价来追求可测量的成绩提升（Møller, 2017, p.382-383）。
+> Møller 论证必须理解维持教育作为公共产品的条件和过程，并质疑当前的绩效问责体系是否正在以牺牲公平为代价来追求可测量的成绩提升([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])。
 >
 > > 例：在以 [[PISA]] 排名为导向的政策环境中，学校可能将资源集中于处于及格线边缘的学生（以最大化达标率），而忽视最弱势和最强学生的需求——测量的存在改变了优先事项，即使这一改变并非测量的设计者所意图。
 
@@ -187,7 +189,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[Visible Learning]] — [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
-> - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 performativity 在商业层面的制度化体现
+> - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 [[Performativity]] 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance]] — [[Argument_Gorur_2014_Discourse|Gorur (2014)]] 的核心案例，[[OECD]] 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑

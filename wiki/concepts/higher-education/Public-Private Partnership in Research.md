@@ -38,7 +38,7 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> 研究型公私合作伙伴关系（Public-Private Partnership in Research, PPP）是政府、企业和大学三部门联合资助和执行研究项目的合作机制。与传统的双边[[University-Industry Collaboration|产学合作]]不同，PPP 将政府作为直接合作伙伴——不仅是资助方——纳入合作的治理和战略决策结构中。Ramming（2025, pp.233–234）将其置于 [[Triple Helix|三重螺旋]]（triple helix）的逻辑中：政府、产业和大学在知识驱动的经济发展中形成相互支撑的反馈循环，而 PPP 是这一逻辑在组织层面的制度化表达。
+> 研究型公私合作伙伴关系（Public-Private Partnership in Research, PPP）是政府、企业和大学三部门联合资助和执行研究项目的合作机制。与传统的双边[[University-Industry Collaboration|产学合作]]不同，PPP 将政府作为直接合作伙伴——不仅是资助方——纳入合作的治理和战略决策结构中。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.233–234)]]将其置于 [[Triple Helix|三重螺旋]]（triple helix）的逻辑中：政府、产业和大学在知识驱动的经济发展中形成相互支撑的反馈循环，而 PPP 是这一逻辑在组织层面的制度化表达。
 
 > [!quote]
 > "An AET practitioner can leverage government partnering to increase the scale of available funding, which can help defray costs. At the same time, broader partnering sometimes comes with complications that can hinder support within companies."（p.233）
@@ -50,7 +50,7 @@ PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [
 ## 概念辨析
 
 > [!example]
-> - vs 双边[[University-Industry Collaboration|产学合作]]（Bilateral UI Collaboration）— 双边合作只涉及一所大学和一家企业，治理结构简单，决策速度快。PPP 引入政府作为第三方，放大了资金规模但也引入了多方治理的复杂性。Ramming（2025, p.233）指出实践者应"考虑和创造超越双边大学协议的资金和合作选项"
+> - vs 双边[[University-Industry Collaboration|产学合作]]（Bilateral UI Collaboration）— 双边合作只涉及一所大学和一家企业，治理结构简单，决策速度快。PPP 引入政府作为第三方，放大了资金规模但也引入了多方治理的复杂性。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, p.233)]]指出实践者应"考虑和创造超越双边大学协议的资金和合作选项"
 > - vs [[Precompetitive Research|前竞争研究]]（Precompetitive Research）— 前竞争研究是 PPP 的典型研究范围定位：当 PPP 包含直接竞争的公司时，将研究限定在前竞争阶段（共同基础设施、行业外部性、互操作性等）是管理"竞争与合作共存"的关键策略（p.234）
 > - vs [[Triple Helix|三重螺旋]]（Triple Helix）— 三重螺旋是描述政产学三者互动关系的理论框架（Etzkowitz & Leydesdorff, 1995）；PPP 是该框架在组织层面的制度化实现形式：规定了资金分担、决策权和知识产权归属的具体规则
 
@@ -59,7 +59,7 @@ PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [
 ## 核心要素
 
 > [!abstract]
-> Ramming（2025, pp.233–234）从企业 [[Academic Engagement Team|AET]] 实践者的角度提出了参与和设计 PPP 时必须评估的四个决策维度：
+> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.233–234)]]从企业 [[Academic Engagement Team|AET]] 实践者的角度提出了参与和设计 PPP 时必须评估的四个决策维度：
 
 - **治理（Governance）**：多方代表参与的提案范围界定、提案评审与选择、资助后管理——在多方利益相关者代表参与的环境中，每个环节的决策都比双边合作复杂得多。治理结构需要明确权限边界、决策层级（战略 vs 运营）和代表的轮换机制
 - **竞争理论（Theory of Competition）**：许多 PPP 包含直接彼此竞争的公司——如 [[Semiconductor Research Corporation|SRC]] 成员包括 Intel 和其直接竞争对手。竞争与合作的共存需要精心管理。可选策略包括：将研究范围限定在前竞争阶段、分摊共同基础设施成本、解决生态系统层面的问题（互操作性、碳足迹、公共安全等）

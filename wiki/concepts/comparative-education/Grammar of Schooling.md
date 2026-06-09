@@ -18,7 +18,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -39,8 +40,8 @@ updated: 2026-06-07
 ## 概念辨析
 
 > [!example]
-> - vs [[World Society Theory|世界社会理论]] — 世界社会理论认为这些共同制度模式从西方扩散到世界其他地方，产生趋同和同构。学校的语法是这一扩散的具体内容之一。但其他理论质疑这些观点，强调本土化或[[Recontextualization|再脉络化]]的过程（Beech & Artopoulos, 2015）。
-> - vs [[Relational Space|关系性空间]] — 从关系性空间视角来看，学校的语法不是在某个地点生产然后被转移到另一个地点的，而是在不同地点之间的流通过程中被建构的（Beech & Artopoulos, 2015）。
+> - vs [[World Society Theory|世界社会理论]] — 世界社会理论认为这些共同制度模式从西方扩散到世界其他地方，产生趋同和同构。学校的语法是这一扩散的具体内容之一。但其他理论质疑这些观点，强调本土化或[[Recontextualization|再脉络化]]的过程([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
+> - vs [[Relational Space|关系性空间]] — 从关系性空间视角来看，学校的语法不是在某个地点生产然后被转移到另一个地点的，而是在不同地点之间的流通过程中被建构的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 
@@ -48,8 +49,8 @@ updated: 2026-06-07
 
 > [!abstract]
 > - **制度模式**。学校的语法包括：学校如何划分时间（课时安排）和空间（教室布局）、将学生分班分级（年级制度）、将学校知识分为学科（学科划分）等（Tyack & Cuban, 1995, 引自 Beech & Artopoulos, 2015）。
-> - **共同特征**。尽管世界各地的学校有其特殊性，但学校的语法在许多地方的现代学校和教育系统中具有共同特征（Beech & Artopoulos, 2015）。
-> - **在流通中建构**。从关系性视角来看，学校的语法和[[Normal School|师范学校]]的概念是在流通过程中、在不同地点之间被建构的，而非在某个特定地点生产然后被转移的（Beech & Artopoulos, 2015）。
+> - **共同特征**。尽管世界各地的学校有其特殊性，但学校的语法在许多地方的现代学校和教育系统中具有共同特征([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
+> - **在流通中建构**。从关系性视角来看，学校的语法和[[Normal School|师范学校]]的概念是在流通过程中、在不同地点之间被建构的，而非在某个特定地点生产然后被转移的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 

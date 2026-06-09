@@ -22,6 +22,7 @@ related_persons:
   - "[[Tengteng Zhuang]]"
 related_arguments:
   - "[[Argument_Slavin_2021_ROE]]"
+  - "[[Argument_Cheung_2021_ROE]]"
 related_facts:
   - "[[Best Evidence in Brief]]"
 confidence: low
@@ -43,7 +44,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - 与 Slavin 合作发表关于大规模随机实验经验教训的系统总结（Slavin & Cheung, 2017）
-> - 与 [[Chen Xie]] 共同编辑 ECNU Review of Education 特刊 "[[Evidence-Based Reform]] in Education: Global Perspectives"（2021），汇集七个国家八篇文章，以四项核心活动框架组织全刊（Cheung & Xie, 2021, p.1-2）
+> - 与 [[Chen Xie]] 共同编辑 ECNU Review of Education 特刊 "[[Evidence-Based Reform]] in Education: Global Perspectives"（2021），汇集七个国家八篇文章，以四项核心活动框架组织全刊([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p.1-2]])
 > - 参与 [[Best Evidence in Brief|BEiB]] 中文网络（面向海外华人）的建设与维护
 > - 推动 Johns Hopkins-CUHK-NNU 三方合作，促进中美[[Evidence-Based Education|证据本位教育]]研究的跨国交流
 

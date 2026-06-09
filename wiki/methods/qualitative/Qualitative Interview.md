@@ -187,17 +187,17 @@ updated: 2026-06-02
 >
 > 详见 [[Argument_Zheng_2023_ShanghaiSanlian]]。
 
-> [!example] Yu & Zhao（2024）——多元文化中国视角下的儒家传统研究
+> [!example] [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]——多元文化中国视角下的儒家传统研究
 > 以半结构化深度访谈收集边缘群体的文化理解经验。样本为 37 名来自 15 个民族的大学生，约 65% 有宗教信仰（佛教、伊斯兰教、基督教等），来自西北和东南地区两所大学。采用最大变异抽样覆盖民族、宗教、性别和学科背景的多样性。与 217 册教科书的批判话语分析互补——教科书揭示官方叙事，访谈揭示边缘群体的接收与抵制。该研究展示了深度访谈在获取文化边缘群体声音方面的独特功能。
 >
 > 详见 [[Argument_Yu_2024_CE]]。
 
-> [!example] Teng & Wang（2025）——中国农村[[Peidu|陪读]][[School Choice|择校]]研究
+> [!example] [[Argument_Teng_2025_CE|Teng & Wang (2025)]]——中国农村[[Peidu|陪读]][[School Choice|择校]]研究
 > 以半结构化深度访谈为核心质性方法，研究农村家庭的[[School Choice|择校]]选择和社会分层机制。样本为 128 人——县城[[Peidu|陪读]]家长 65 人、乡镇陪读家长 35 人、农村非陪读家长 45 人、城乡教师与校长 95 人、教育官员 8 人。通过教师协助和滚雪球抽样招募。2018 年首次调研，2023 年回访以追踪变化。问卷数据用于验证和量化分层梯度，访谈用于揭示家庭资本如何具体影响择校过程（如关系运作的具体方式）。
 >
 > 详见 [[Argument_Teng_2025_CE]]。
 
-> [!example] Wang & McLaughlin（2025）——中国学校 [[Learner-Centred Education|LCE]] 本土化研究
+> [!example] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]——中国学校 [[Learner-Centred Education|LCE]] 本土化研究
 > 以半结构化深度访谈为核心方法，研究中国四所学校在[[Test-Based Accountability|考试问责]]压力下推进 [[Learner-Centred Education|LCE]] 的过程。样本为 4 位校长、9 位骨干教师，来自两所城市学校和两所农村学校。教师每人两轮、三位校长两轮、一位校长一轮，每次约 50 分钟。第一轮聚焦 LCE 实施和考试问责机制的运作；第二轮深入教师评价标准对改革态度的影响。分析方法使用 Nvivo 11 辅助[[Coding in Qualitative Research|编码]]——开放编码后按[[Third Generation Activity Theory|活动理论]]六要素框架重组为解释性主题。辅助数据包括教育局评价标准文件、学校课堂教学观摩方案、田野笔记。
 >
 > 详见 [[Argument_Wang_2025_CE]]。

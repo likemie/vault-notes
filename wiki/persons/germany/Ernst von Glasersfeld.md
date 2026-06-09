@@ -23,7 +23,8 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rømer_2018]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -51,23 +52,23 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> [[Radical Constructivism|激进建构主义]]的核心立场：所有学习和知识都是主观建构，外部世界、文化、政治和规范在认识论上被排除（Rømer, 2018, p.7）。
+> [[Radical Constructivism|激进建构主义]]的核心立场：所有学习和知识都是主观建构，外部世界、文化、政治和规范在认识论上被排除([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])。
 >
 > > "Learning must in the last instance be done by the individual himself—solipsistic!"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）
 >
-> Glasersfeld 的理论受 [[George Berkeley]]（唯我论哲学）、Kant（剔除审美和规范性维度的选择性阅读）和 Piaget（认知发展）的共同影响（Rømer, 2018, p.7）。
+> Glasersfeld 的理论受 [[George Berkeley]]（唯我论哲学）、Kant（剔除审美和规范性维度的选择性阅读）和 Piaget（认知发展）的共同影响([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])。
 
 ## 主要贡献
 
 > [!success] 主要贡献
 > - [[Radical Constructivism]] — 创始人，将知识定义为个体主观建构，排除外部世界
 > - 影响了 1990 年代学习理论的重要范式转向
-> - 其认识论立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础（Rømer, 2018, p.7-8）
+> - 其认识论立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
 > - 也被 [[Niklas Luhmann]] 的[[Luhmann's Systems Theory|系统理论]]引用和赞赏（Luhmann, 1998，转引自 Rømer, 2018, p.11, note 6）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **规范性缺失**：[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础（Rømer, 2018, p.6-7）
+> - **规范性缺失**：[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6-7]])
 > - **外部世界的消解**：Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
-> - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败（Rømer, 2018, p.10-11）
+> - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])

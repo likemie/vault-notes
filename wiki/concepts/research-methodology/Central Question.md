@@ -28,7 +28,8 @@ related_methods:
   - "[[Narrative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -40,10 +41,10 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答（Creswell & Creswell, 2022, p.146）。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
+> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
 
 > [!quote]
-> "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."（Creswell & Creswell, 2022, p.146）
+> "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])
 
 核心问题通常为一至两个，以"什么"（what）或"如何"（how）开头传达开放和涌现的设计。以"为什么"（why）开头暗示因果解释思维，属于[[Quantitative Research|量化研究]]的范式，可能限制参与者的回答而非开放它们（Creswell & Creswell, 2022, Ch7）。
 
@@ -54,7 +55,7 @@ updated: 2026-05-31
 ## 质性子问题
 
 > [!info]
-> 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题（Creswell & Creswell, 2022, p.146）。
+> 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。
 
 Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为[[Interview Protocol|访谈协议]]或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（Creswell & Creswell, 2022, Ch7）。
 

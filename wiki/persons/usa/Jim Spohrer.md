@@ -18,7 +18,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -59,7 +60,7 @@ updated: '2026-06-08'
 > Spohrer 的核心贡献是为产学关系管理提供了一个可操作的分类和度量框架。六 R 框架将[[University-Industry Collaboration|产学合作]]按功能分为 Research、Readiness、Recruiting、Revenue、Responsibility、Regions 六个领域，每个领域配有对应的量化度量指标，使产学投资组合的管理从依赖个人经验转变为可追踪、可比较、可随战略转型而重新校准的系统行为。这一框架的提出背景是 IBM 在 2000 年代和 2010 年代的两次战略转型——从全球整合企业到认知计算与混合云——每一次转型都要求对产学投资组合进行全面重新校准。
 
 > [!quote]
-> "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."（Narayan & Spohrer, 2025, p.90）
+> "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.90]])
 > 
 > 商业条件和重点的每一次变化，都要求调整六 R 投资选项，并重新校准指标、激励、奖励和文化以适应时代。
 
@@ -82,7 +83,7 @@ updated: '2026-06-08'
 > AI 不会取代服务提供者（如产业研究人员、学术教职等），但那些能够有效且符合伦理地使用 AI 的值得信赖的服务提供者，将取代那些不这样做的人。
 
 > [!quote]
-> "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."（Narayan & Spohrer, 2025, p.90）
+> "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.90]])
 > 
 > 成功孕育成功。与人才流动、宣传、发表以及突显共同创造的新知识的商业产品相关的指标，是代代相传地重塑产学合作文化中最重要的成果。
 

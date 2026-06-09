@@ -37,6 +37,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Snook_2009]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[Snook_2010_NZJES]]"
 part_of: ''
@@ -63,7 +64,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：学术回应（academic reply），非实证研究
-> - 回应对象：Hattie (2010) 中对 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 的直接和间接批评
+> - 回应对象：[[Argument_Hattie_2010_NZJES|Hattie (2010)]] 中对 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 的直接和间接批评
 > - 分析维度：非学校因素、研究质量、偏差控制、[[Effect Size|效应量]]平均化、[[Class Size|班级规模]]、[[Meta-analysis|元分析]]在教育中的适用性
 
 ## 核心论证

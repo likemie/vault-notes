@@ -54,7 +54,9 @@ related_facts:
   - "[[Economics of Education Movement]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 sources:
   - "[[Klerides_2023_CE]]"
 part_of: ''
@@ -215,7 +217,7 @@ citation_aliases:
 **6. 现实主义下的解释学与转移研究**
 
 > [!note] 情境理解与转移分析
-> 现实主义不仅以改良主义和干预主义的方式塑造比较教育实践，还以解释学的方式。这不仅限于基于情境的教育解读，还包括通过"转移、[[Transfer Translation Transformation|转译]]、转化"（[[Transfer Translation Transformation]]）理论透镜对教育流动性的严格分析（Cowen, 2009）。但即使对这些复杂过程的分析，也仍然受到国家和国际权力的塑造。
+> 现实主义不仅以改良主义和干预主义的方式塑造比较教育实践，还以解释学的方式。这不仅限于基于情境的教育解读，还包括通过"转移、[[Transfer Translation Transformation|转译]]、转化"（[[Transfer Translation Transformation]]）理论透镜对教育流动性的严格分析([[Argument_Cowen_2009_CE|Cowen, 2009]])。但即使对这些复杂过程的分析，也仍然受到国家和国际权力的塑造。
 >
 > 转移通常被研究为跨越国家边界的移动，例如 19 世纪 Humboldt 大学模式从德国向日本和美国的转移（Tanaka, 2005）。国际权力等级也使思想能够跨越多个边界流动。冷战时期技术官僚和经济学化的教育观从美国扩散到西欧，然后到南欧和拉丁美洲（Elfert, 2019）。适应教育的案例则展示了更复杂的流动路径：约 1890 年在美国南方开发，20 世纪初由美国传教团和殖民政府转移到英国和法国的非洲殖民地；1930 年代用于太平洋原住民的教育；1950 年代任何英国行政当局感到有必要处理滞后文化教育的地方都采用了这一模式（Steiner-Khamsi, 2000）。
 >
@@ -276,7 +278,7 @@ citation_aliases:
 > [[Global Citizenship|全球公民]]（[[Global Citizenship]]）被提出作为所有不同受教育者身份碎片的伞状术语。这个概念既呼应又强化了"国际社会"的理念，已经成为比较教育的主要关注和批评焦点，批评的核心正是其"模糊性"（Oxley and Morris, 2013; Hobson and Silova, 2014）。
 
 > [!abstract] 转移的再概念化
-> 转移也被重新铸造为一个复杂的、多元主义的、常常不可预测的过程。Beech（2009）指出，在全球化的世界中，国家仍然是转移业务中的关键玩家，但其他行动者也在参与：区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司。这些行动者的工作交叉甚至绕过国家边界。在基于证据的政策口号下，所有行动者以复杂的方式网络化以制定和实施政策，互动的结果并不总是可预测的。
+> 转移也被重新铸造为一个复杂的、多元主义的、常常不可预测的过程。[[Argument_Beech_2009_CE|Beech (2009)]]指出，在全球化的世界中，国家仍然是转移业务中的关键玩家，但其他行动者也在参与：区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司。这些行动者的工作交叉甚至绕过国家边界。在基于证据的政策口号下，所有行动者以复杂的方式网络化以制定和实施政策，互动的结果并不总是可预测的。
 >
 > 为了理解教育知识如何以及为什么在多元的全球治理尺度之间移动并在移动中变形的，比较教育者呼吁新的理论和概念，质疑输入与输出和借用与出借的二元框架。[[Actor-Network Theory|行动者网络理论]]（Actor-Network Theory）越来越多地被用于分析[[Knowledge Production|知识生产]]和流通中的多元行动者和网络（Schulte, 2012）。旅行政策（travelling policies）和流动话语（flowing discourses）等新概念被创造，以承认当今许多新自由主义改革的不明起源和轨迹。协调（harmonisation）和标准化（standardisation）等概念被用来探索国家政策与其所在区域教育空间的对齐（Steiner-Khamsi and Waldow, 2012）。
 

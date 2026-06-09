@@ -17,7 +17,8 @@ related_persons:
   - "[[Maria Pampaka]]"
   - "[[Julian Williams]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'
@@ -31,7 +32,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> 关注教育研究中定量方法的适用性和局限性，参与"什么有效"议程的方法论批判讨论（Pampaka et al., 2016）。
+> 关注教育研究中定量方法的适用性和局限性，参与"什么有效"议程的方法论批判讨论([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])。
 
 ## 主要贡献
 

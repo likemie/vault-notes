@@ -33,7 +33,9 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -104,24 +106,24 @@ Bourdieu 区分文化资本的三种存在形态：
 
 ### 资本化过程：家庭资源 → 大学场域中的文化资本
 
-郑雅君（2023）在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程**（Capitalization Process）——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束（郑雅君，2023）。
+[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程**（Capitalization Process）——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
-在 [[Goal-Controlled Mode]] 中，资本化过程表现为优势家庭将场域规则认知、策略思维和生涯规划意识作为具身化文化资本传递给子女；在 [[Intuition-Dependent Mode]] 中，资本化过程则体现为弱势家庭在这一传递链条上的断裂（郑雅君，2023）。
+在 [[Goal-Controlled Mode]] 中，资本化过程表现为优势家庭将场域规则认知、策略思维和生涯规划意识作为具身化文化资本传递给子女；在 [[Intuition-Dependent Mode]] 中，资本化过程则体现为弱势家庭在这一传递链条上的断裂([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 文化障碍的形成
 
-郑雅君（2023）论证：低阶层大学生在精英大学中面临的核心困难，不是智力或勤奋不足，而是**缺乏大学场域中被默认掌握的文化知识（cultural knowledge）和文化技能（cultural competence）**——这正是具身化文化资本缺失的表现。具体包括：
+[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]论证：低阶层大学生在精英大学中面临的核心困难，不是智力或勤奋不足，而是**缺乏大学场域中被默认掌握的文化知识（cultural knowledge）和文化技能（cultural competence）**——这正是具身化文化资本缺失的表现。具体包括：
 
 - 对毕业出路规则（出国、读研、求职各自所需条件）的陌生
 - 对教授推荐信文化、研究参与重要性的不敏感
 - 对未来生涯进行长线规划的意识和能力的欠缺
 - 在面试、社交等"软技能"场合中的不适感
 
-> 例：一个来自农村家庭的北大新生可能在大一结束时仍不知道"[[Recommendation-Based Graduate Admission System|推免]]"（推荐免试研究生）的选拔标准，而他的城市中产同学早在入学前就已从父母处获知维持高学分绩点对未来升学的重要性（郑雅君，2023）。
+> 例：一个来自农村家庭的北大新生可能在大一结束时仍不知道"[[Recommendation-Based Graduate Admission System|推免]]"（推荐免试研究生）的选拔标准，而他的城市中产同学早在入学前就已从父母处获知维持高学分绩点对未来升学的重要性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 与学校领导力的关联
 
-在[[School Leadership|学校领导力]]研究中，文化资本的定义权已成为争夺对象。Eacott（2011）指出，当"什么算作资本"由政治和经济场域定义时（如标准化测试成绩、MySchool排名），学校领导者丧失了自主定义成就标志的能力（Eacott, 2011, p.48-50）。
+在[[School Leadership|学校领导力]]研究中，文化资本的定义权已成为争夺对象。[[Argument_Eacott_2011_JEAH|Eacott (2011)]]指出，当"什么算作资本"由政治和经济场域定义时（如标准化测试成绩、MySchool排名），学校领导者丧失了自主定义成就标志的能力([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.48-50]])。
 
 ---
 

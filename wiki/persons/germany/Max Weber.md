@@ -28,6 +28,7 @@ related_persons:
   - "[[Ann Swidler]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: medium
 status: draft
@@ -195,7 +196,7 @@ updated: '2026-06-08'
 - **情感行动（affektuelles Handeln）**：由当下情感状态决定的行动
 - **传统行动（traditionales Handeln）**：由习惯和习俗决定的行动
 
-郑雅君（2023）以工具理性与价值理性的区分作为搭建[[Analytic Framework|分析框架]]的关键理论资源，指出工具理性之下的效用计算"远不能概括生涯选择的全部合理性"，由此主张将分析框架从工具理性拓展到价值信念。
+[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以工具理性与价值理性的区分作为搭建[[Analytic Framework|分析框架]]的关键理论资源，指出工具理性之下的效用计算"远不能概括生涯选择的全部合理性"，由此主张将分析框架从工具理性拓展到价值信念。
 
 ### 西方理性主义与世界的祛魅
 

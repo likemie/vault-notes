@@ -52,7 +52,7 @@ updated: '2026-05-18'
 
 > [!warning]- 术语歧义
 > "[[Knowledge Exchange|knowledge transfer]]"（知识转移）在教育研究中有两种不同的使用脉络：
-> - **含义一（地缘政治意义）**：Partaken（2022）在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的"运动"
+> - **含义一（地缘政治意义）**：[[Argument_Partaken_2022_Springer|Partaken (2022)]]在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的"运动"
 > - **含义二（[[University-Industry Collaboration|产学合作]]意义）**：在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，指知识在大学与产业之间的流动——包括从非正式的人际交流到高度结构化的合同协议的全谱系
 >
 > 两种含义共享"知识在主体间移动"的基本意象，但理论传统（[[Critical Geopolitics|批判地缘政治]] vs [[Systems of Innovation|创新系统]]/组织理论）、分析层次（国家/地缘政治 vs 组织/制度）和价值取向完全不同。以下分别阐述。

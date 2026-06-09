@@ -37,6 +37,7 @@ related_facts:
   - "[[Minerva University]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: low
 status: draft
@@ -81,14 +82,14 @@ Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采�
 
 ### Rizvi 的地缘政治再概念化
 
-Rizvi (2022) 从亚洲崛起的视角为 IEHs 提供了关键的再概念化。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变（Rizvi, 2022, pp.95–100）。
+[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲崛起的视角为 IEHs 提供了关键的再概念化。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–100]])。
 
 > [!note] 从被动接受到主动塑造
-> 在旧的发展主义范式下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学（Rizvi, 2022, pp.95–96）。
+> 在旧的发展主义范式下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])。
 
-Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移**：其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达（Rizvi, 2022, pp.96–97）。
+Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移**：其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。
 
-在新的市场理性下，高等教育日益被视为**出口产业**：大学为争夺学生、资金和地位而竞争；国际化通过市场细分、目标广告和招生代理网络等行政技术进行管理；高校成功与否越来越多地以招收全额付费国际学生的数量来衡量。公共价值被"挤出"（crowded out），政府不再感到有必要为高校提供所需的公共资金（Rizvi, 2022, pp.96–97）。详见 NPM > 在高等教育国际化中的运作。
+在新的市场理性下，高等教育日益被视为**出口产业**：大学为争夺学生、资金和地位而竞争；国际化通过市场细分、目标广告和招生代理网络等行政技术进行管理；高校成功与否越来越多地以招收全额付费国际学生的数量来衡量。公共价值被"挤出"（crowded out），政府不再感到有必要为高校提供所需的公共资金([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 NPM > 在高等教育国际化中的运作。
 
 ### Erfurth 的双重维度分析
 
@@ -134,7 +135,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 ## 理论基础
 
 > [!tip]
-> - [[Critical Geopolitics|批判地缘政治学]] — 为 IEHs 的地缘政治分析提供核心理论透镜，Rizvi (2022) 和 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 均以此框架分析国家如何通过高等教育项目重塑地缘政治位置
+> - [[Critical Geopolitics|批判地缘政治学]] — 为 IEHs 的地缘政治分析提供核心理论透镜，[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 和 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 均以此框架分析国家如何通过高等教育项目重塑地缘政治位置
 > - [[Network Society|网络社会]]理论 — 为理解 IEHs 作为全球知识流动网络中的"节点"提供基础，与 Moisio (2018) 的 Hub and [[Flow]] 想象相互补充
 > - [[Cultural Political Economy]]（文化政治经济学, Sum & Jessop, 2013） — [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 采用此框架分析教育枢纽中文化符号与结构物质维度的同等重要性
 

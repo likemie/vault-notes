@@ -26,6 +26,7 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -55,7 +56,7 @@ updated: 2026-05-27
 
 > 这一转变的制度表现包括：美国 [[National Science Foundation|NSF]] 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年 NSF 新设的技术创新与伙伴关系局([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.39–40, 44]])。
 
-> 在国际[[University-Industry Collaboration|产学合作]]语境中，巴斯德象限被用作概念定位工具：大学的基础研究能力与产业的应用问题驱动相结合，使合作自然落在"应用启发的基础研究"区间。这一象限概念为理解国际产学合作的科学定位提供了认识论基础（Wolf et al., 2025, p.310）。
+> 在国际[[University-Industry Collaboration|产学合作]]语境中，巴斯德象限被用作概念定位工具：大学的基础研究能力与产业的应用问题驱动相结合，使合作自然落在"应用启发的基础研究"区间。这一象限概念为理解国际产学合作的科学定位提供了认识论基础([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, p.310]])。
 
 ---
 

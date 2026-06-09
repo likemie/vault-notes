@@ -20,7 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -32,7 +33,7 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> 负责任的研究行为（Responsible Conduct of Research, RCR）指研究者在研究的各个环节中应达到的质量标准和伦理义务，涵盖[[Research Ethics|研究伦理]]（包括人类和动物受试者保护及安全）、数据管理、实验设计和成果报告等内容（Hall, 2025, p.266）。大学通常要求学生和教师完成 RCR 培训作为从事研究的条件。
+> 负责任的研究行为（Responsible Conduct of Research, RCR）指研究者在研究的各个环节中应达到的质量标准和伦理义务，涵盖[[Research Ethics|研究伦理]]（包括人类和动物受试者保护及安全）、数据管理、实验设计和成果报告等内容([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.266]])。大学通常要求学生和教师完成 RCR 培训作为从事研究的条件。
 
 > [!quote]
 > 研究不端行为包括抄袭（plagiarism）、伪造（fabrication）和篡改（falsification），由美国研究诚信办公室（Office of Research Integrity）和大学政策共同定义（p.265）。
@@ -42,7 +43,7 @@ updated: 2026-06-04
 ## 核心构成
 
 > [!abstract]
-> RCR 涵盖以下四个维度（Hall, 2025, pp.265–266）：
+> RCR 涵盖以下四个维度([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.265–266]])：
 
 1. **[[Research Ethics|研究伦理]]**：包括人类受试者保护（[[Institutional Review Board|IRB]] 审查与[[Informed Consent|知情同意]]）、动物受试者保护和研究场所安全
 2. **数据管理**：数据的收集、存储、安全保护和共享规范，确保数据的真实性、保密性和连续性

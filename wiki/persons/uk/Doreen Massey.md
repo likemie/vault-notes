@@ -38,7 +38,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放本体论和[[Multiplicity|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。Marginson（2025）以 Massey 的 *For Space*（2005）作为理解[[Space-Making|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
+> Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放本体论和[[Multiplicity|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
 
 ---
 
@@ -53,7 +53,7 @@ updated: '2026-06-08'
 > - 2005 出版 *For Space*，系统阐述其[[Relational Space|关系性空间]]理论，代表其最成熟的理论综合
 > - 2016 逝世，享年 72 岁
 >
-> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和后结构主义的影响。Marginson（2025）特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
+> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和后结构主义的影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
 
 ---
 
@@ -81,7 +81,7 @@ Massey 反对将空间视为静态容器。社会空间不是预先存在的、�
 
 ### 多重性
 
-Massey 最重要的洞见，详见 [[Multiplicity|多重性]] 条目。核心要点：空间是"共存异质性"的领域；全球化加剧而非消解多重性；在开放本体论中，没有权力系统是永久固定的——"总是有松散的末端"（Massey, 2003, p. 5）。Marginson（2025）认为这一洞见在高等教育中被反复证实([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–7]])。
+Massey 最重要的洞见，详见 [[Multiplicity|多重性]] 条目。核心要点：空间是"共存异质性"的领域；全球化加剧而非消解多重性；在开放本体论中，没有权力系统是永久固定的——"总是有松散的末端"（Massey, 2003, p. 5）。[[Argument_Marginson_2025_ROE|Marginson (2025)]]认为这一洞见在高等教育中被反复证实([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–7]])。
 
 ### 对封闭空间观的批判
 

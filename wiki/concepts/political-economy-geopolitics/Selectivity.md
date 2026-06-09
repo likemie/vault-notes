@@ -59,7 +59,7 @@ updated: '2026-05-18'
 > [!note]
 > - **Jessop（2007）**：在 State Power: A Strategic-Relational Approach 中提出选择性概念，论证国家权力通过"策略选择性"（strategic selectivity）使某些策略比其他策略更有可能成功
 > - **Le Galès（2016）**：将选择性概念纳入政策工具理论，论证政策工具的技术成分和权力成分相互关联，选择性正是通过技术—权力双重性得以运作([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])
-> - **Rambla（2022）**：将选择性概念应用于欧盟[[Performance Indicators|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning|终身学习]]政策中的三种具体表现（p.174–175）
+> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]**：将选择性概念应用于欧盟[[Performance Indicators|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning|终身学习]]政策中的三种具体表现（p.174–175）
 
 ## 核心要素
 

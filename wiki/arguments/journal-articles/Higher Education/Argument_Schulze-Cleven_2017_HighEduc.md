@@ -34,6 +34,7 @@ related_concepts:
   - "[[Discursive Stratification]]"
   - "[[Entrepreneurial University]]"
   - "[[Global Universities Rankings]]"
+  - "[[Performativity]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Varieties of Capitalism]]"
   - "[[Quasi-commodification of Knowledge]]"
@@ -178,7 +179,7 @@ Slaughter & Leslie（1997）和 Slaughter & Rhoades（2004）的 [[Academic Capi
 > [!example] 一个院系会议的场景，指标如何塑造日常学术生活
 > 设想一所英国大学社会学系的年度规划会议。系主任展示了一组数据："我们 REF 的 4* 产出占比是 32%，Russell Group 同行的中位数是 38%。如果我们明年达不到 36%，学院预算可能削减 15%。"接下来的讨论不是"哪些研究方向最有学术价值"，而是"哪些人最可能在 top journal 发表、哪些人的引用数据更好看"。教授们开始盘算是否要放弃自己深耕多年的冷门领域，转向更容易在高影响因子期刊发表的"热点话题"。年轻的讲师们感到焦虑，他们在地方性期刊上发表的社区研究根本无法进入 REF 的评分框架。
 >
-> 这就是指标化评估的"履行性"（performativity）：指标不是被动地反映学术质量，而是主动地重塑什么是值得做的研究、什么是好的学术生涯、什么是卓越。而这种重塑并非中立，它系统性地强化了已有资源最丰富的机构和学者，形成了[[Matthew Effect in Academia|制度化的马太效应]]（pp.801–802）。
+> 这就是指标化评估的"履行性"（[[Performativity]]）：指标不是被动地反映学术质量，而是主动地重塑什么是值得做的研究、什么是好的学术生涯、什么是卓越。而这种重塑并非中立，它系统性地强化了已有资源最丰富的机构和学者，形成了[[Matthew Effect in Academia|制度化的马太效应]]（pp.801–802）。
 
 ---
 

@@ -23,7 +23,8 @@ related_methods:
   - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -35,14 +36,14 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> [[Mixed Methods Research|混合方法]]参与式社会正义设计（Mixed Methods Participatory-Social Justice Design）是一种[[Mixed Methods Research|复杂混合方法设计]]，将量化和质性数据以及核心混合方法设计嵌入参与式或社会正义框架中。参与式研究（participatory study）指社区成员等参与者在研究中与研究者积极协作；社会正义研究（social justice study）在此基础上加入社会变革和行动的目标，旨在改善个体的生活（Creswell & Creswell, 2022, p.247）。
+> [[Mixed Methods Research|混合方法]]参与式社会正义设计（Mixed Methods Participatory-Social Justice Design）是一种[[Mixed Methods Research|复杂混合方法设计]]，将量化和质性数据以及核心混合方法设计嵌入参与式或社会正义框架中。参与式研究（participatory study）指社区成员等参与者在研究中与研究者积极协作；社会正义研究（social justice study）在此基础上加入社会变革和行动的目标，旨在改善个体的生活([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.247]])。
 
 ---
 
 ## 研究程序
 
 > [!abstract]
-> 参与式行动[[Mixed Methods Research|混合方法研究]]通常经历以下步骤（Creswell & Creswell, 2022, pp.247–248）：
+> 参与式行动[[Mixed Methods Research|混合方法研究]]通常经历以下步骤([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.247–248]])：
 >
 > 1. **需求评估（Needs Assessment）**：诊断社区需求
 > 2. **侦察（Reconnaissance）**：从社区成员处收集量化和质性数据 → 可嵌入第一个核心混合方法设计
@@ -71,7 +72,7 @@ updated: 2026-06-02
 ## 使用此方法的研究
 
 > [!example]
-> - Hodgkin (2008) — 使用女性主义[[Mixed Methods Research|混合方法]]社会正义[[Explanatory Sequential Design|解释性序列设计]]，研究澳大利亚一个区域城市中男性和女性的社会资本差异，先通过大规模调查（N=1431）识别性别差异，再仅对女性（N=12）进行[[Qualitative Interview|深度访谈]]，以女性主义框架包裹整个研究来呈现性别不平等的图景（Creswell & Creswell, 2022, p.249）。
+> - Hodgkin (2008) — 使用女性主义[[Mixed Methods Research|混合方法]]社会正义[[Explanatory Sequential Design|解释性序列设计]]，研究澳大利亚一个区域城市中男性和女性的社会资本差异，先通过大规模调查（N=1431）识别性别差异，再仅对女性（N=12）进行[[Qualitative Interview|深度访谈]]，以女性主义框架包裹整个研究来呈现性别不平等的图景([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.249]])。
 
 ---
 

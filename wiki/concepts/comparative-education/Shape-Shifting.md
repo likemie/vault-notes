@@ -21,7 +21,8 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -38,7 +39,7 @@ updated: 2026-06-06
 > 形变（Shape-Shifting）是 [[Robert Cowen]]（Cowen 2009）提出的一个理论问题意识，指教育制度、思想或实践在跨国移动过程中发生的形态变化。核心命题是"移动即变形"（as it moves, it morphs）——教育现象从一国转移到另一国时，不会保持原貌，而是在接受语境中经历一系列结构性变形（p.315）。
 
 > [!quote]
-> "I cannot remember when the phrase 'as it moves, it morphs' first occurred to me."（Cowen, 2009, p.315）
+> "I cannot remember when the phrase 'as it moves, it morphs' first occurred to me."([[Argument_Cowen_2009_CE|Cowen, 2009, p.315]])
 >
 > 我记不清"移动即变形"这个短语第一次出现在我脑海中是什么时候了。
 

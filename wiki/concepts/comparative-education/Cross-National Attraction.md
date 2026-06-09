@@ -39,11 +39,11 @@ updated: 2026-05-18
 > [!info] 定义
 > 跨国吸引力（Cross-National Attraction）是 Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型中的第一阶段，指一国的教育政策、实践或话语引起他国关注并被认为具有参照价值的过程。它启动整个政策借用循环，是教育转移的初始动力来源。
 >
-> Rappleye (2006) 进一步将此概念理论化，指出"跨国吸引力"一词内在地将单一民族国家视为行动者，但现实中吸引力由多元行动者——民选官员、[[Policy Entrepreneur|政策企业家]]、智库、媒体、超国家组织等——在具体教育改革辩论中生产和调动，而非由抽象的"国家"整体产生。（Rappleye, 2006, p. 229）
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 进一步将此概念理论化，指出"跨国吸引力"一词内在地将单一民族国家视为行动者，但现实中吸引力由多元行动者——民选官员、[[Policy Entrepreneur|政策企业家]]、智库、媒体、超国家组织等——在具体教育改革辩论中生产和调动，而非由抽象的"国家"整体产生。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
 >
 > 本概念在本库中的完整论证入口见 [[Argument_Rappleye_2006_RCIE]]。
 >
-> > "The 'cross-national attraction' stage...is of particular importance because it initiates the entire policy-borrowing cycle." (Rappleye, 2006, p. 225)
+> > "The 'cross-national attraction' stage...is of particular importance because it initiates the entire policy-borrowing cycle." ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
 
 ## 历史沿革
 
@@ -54,15 +54,15 @@ updated: 2026-05-18
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig2_Structural_Typology.png)
 > - **Phillips & Ochs (2003, 2004a)** — 将跨国吸引力纳入[[Policy Borrowing|政策借用]]四阶段循环模型，定位为第一阶段
-> - **Rappleye (2006)** — 提出跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），系统区分结构推力／人的推力、结构阻力／抵制行动者、以及四种吸引力"火花"
+> - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 提出跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），系统区分结构推力／人的推力、结构阻力／抵制行动者、以及四种吸引力"火花"
 
 > [!note] 国际关系视角下的跨国吸引
-> Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度指出，跨国吸引力可被理解为现实主义比较教育的一个核心表现。在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的"贪婪而好奇"的观察（Tröhler, 2023, p.7）。跨国吸引不仅是教育改良的手段，更是国际竞争和生存焦虑的产物。[[Sputnik Shock 1957|Sputnik]] 冲击（[[Sputnik Shock 1957]]）提供了典型例证：苏联卫星发射触发了美国对自身科技教育落后的恐慌，促使美国同时转向苏联的科学教育模式和英国的儿童中心教学法。这一逻辑也解释了"参照社会"（reference societies）和"反参照社会"（counter reference societies）的形成——国家选择性地关注某些外国教育系统以验证自身位置或建构他者形象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.420–421]])。
+> [[Argument_Klerides_2023_CE|Klerides (2023)]]从[[Wight's Three Traditions of International Theory|国际关系理论]]角度指出，跨国吸引力可被理解为现实主义比较教育的一个核心表现。在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的"贪婪而好奇"的观察（Tröhler, 2023, p.7）。跨国吸引不仅是教育改良的手段，更是国际竞争和生存焦虑的产物。[[Sputnik Shock 1957|Sputnik]] 冲击（[[Sputnik Shock 1957]]）提供了典型例证：苏联卫星发射触发了美国对自身科技教育落后的恐慌，促使美国同时转向苏联的科学教育模式和英国的儿童中心教学法。这一逻辑也解释了"参照社会"（reference societies）和"反参照社会"（counter reference societies）的形成——国家选择性地关注某些外国教育系统以验证自身位置或建构他者形象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.420–421]])。
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> Rappleye (2006) 的概念地图将跨国吸引力的情境分解为以下构成要素（p. 228–234）：
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 的概念地图将跨国吸引力的情境分解为以下构成要素（p. 228–234）：
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig3_Conceptual_Map.png)
 
@@ -77,7 +77,7 @@ updated: 2026-05-18
 > - 知识／技能创新（如信息技术革命对劳动力技能的新要求）
 > - 政治变化（如保守党上台后推行市场化教育改革）
 >
-> > 例：1980 年代美国对日本教育的吸引力中，四项结构性推力同时作用——技能创新（美国制造业岗位流失）、政治变化（里根 1980 年当选）、负面外部评估（1983 年最早一批 IEA 研究发布）、新型态（日本经济预计超越美国）。（Rappleye, 2006, p. 234–235）
+> > 例：1980 年代美国对日本教育的吸引力中，四项结构性推力同时作用——技能创新（美国制造业岗位流失）、政治变化（里根 1980 年当选）、负面外部评估（1983 年最早一批 IEA 研究发布）、新型态（日本经济预计超越美国）。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 234–235]])
 > > 对应案例条目：[[American Attraction to Japanese Education 1980s]]
 
 
@@ -89,7 +89,7 @@ updated: 2026-05-18
 > - 排行榜（及制作者）、媒体（通讯技术）、资助来源
 > - 雇主和商业利益（可能）
 >
-> （Rappleye, 2006, p. 229–230）
+> ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229–230]])
 
 
 > [!abstract] 结构阻力（Structural Obstacles）
@@ -116,7 +116,7 @@ updated: 2026-05-18
 > - 教师工会、学者、行政人员、教师、家长、学生
 > - 可能也包括上述改革行动者列表中的部分行动者（取决于其立场）
 >
-> （Rappleye, 2006, p. 232）
+> ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
 
 
 > [!abstract] 吸引力"火花"（Sparks of Attraction）
@@ -153,6 +153,6 @@ updated: 2026-05-18
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Rappleye 承认"吸引力仅为教育改革辩论中的战术动作"这一观念可能引发异议——大多数行动者（除民选政治家外）可能并不以如此策略性方式思考。但他论证，无论行动者是否有意识地自我定位，以这种方式概念化吸引力仍有助于分析。（Rappleye, 2006, p. 238）
+> - Rappleye 承认"吸引力仅为教育改革辩论中的战术动作"这一观念可能引发异议——大多数行动者（除民选政治家外）可能并不以如此策略性方式思考。但他论证，无论行动者是否有意识地自我定位，以这种方式概念化吸引力仍有助于分析。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 238]])
 > - 地图的视觉复杂性可能令人生畏，但其实用性需由其他研究者在不同情境中检验（p. 228）
 

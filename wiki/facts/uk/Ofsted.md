@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > Ofsted（Office for Standards in Education, Children's Services and Skills）是英国教育、儿童服务和技能标准办公室，一个**非内阁政府部门（non-ministerial department）**，直接向议会报告。其主要职能是对英格兰的学校进行定期检查和评级。
 >
-> Ofsted 评级在教育政策辩论中占据核心位置——Bainbridge et al.（2022）发现，在议会关于[[Grammar School|文法学校]]的辩论中，Ofsted 评级被系统性混同为研究证据使用，尽管它不符合政府自身对"证据"的定义（Coldwell et al., 2017）。英国教育部在 Coldwell et al.（2017）报告中将 [[Education Endowment Foundation|EEF]]、Sutton Trust 和 [[John Hattie]] 列为官方认可的"approved"证据来源——**Ofsted 未被列入其中**([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
+> Ofsted 评级在教育政策辩论中占据核心位置——[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]发现，在议会关于[[Grammar School|文法学校]]的辩论中，Ofsted 评级被系统性混同为研究证据使用，尽管它不符合政府自身对"证据"的定义（Coldwell et al., 2017）。英国教育部在 Coldwell et al.（2017）报告中将 [[Education Endowment Foundation|EEF]]、Sutton Trust 和 [[John Hattie]] 列为官方认可的"approved"证据来源——**Ofsted 未被列入其中**([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
 >
 > > 英国教育部对"证据"的定义明确排除了 Ofsted："The ultimate test would be whether teachers could explain their choices and practice by referring to a robust evidence base and using logical argument and reasoning, rather than saying that they do it because Ofsted or the department has told them to."（Coldwell et al., 2017, pp.9–10，引自 Bainbridge et al., 2022, p.4–5）
 >
@@ -65,7 +65,7 @@ updated: '2026-05-18'
 >
 > ### "Good" 在议会话语中的特殊地位
 >
-> Bainbridge et al.（2022, p.27–28）发现了一个关键的话语现象：
+> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022, p.27–28)]]发现了一个关键的话语现象：
 >
 > - 尽管文法学校的 Ofsted 评级更多是"outstanding"（133 所）而非"good"（26 所），议员们**系统性地选择使用"good"而非"outstanding"**
 > - 37% 的文法学校议会提及伴随"good"一词（374 次）
@@ -90,13 +90,13 @@ updated: '2026-05-18'
 >
 > ### "Good" 的道德化与技术评级的剥离
 >
-> Bainbridge et al.（2022, p.19）识别了"建构型道德侧步"——不同于 Stevens（2019）发现的"回避型"侧步，教育政策中的侧步主动建构了一个"幻想的好"（fantasised goodness）的话语世界：
+> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022, p.19)]]识别了"建构型道德侧步"——不同于 Stevens（2019）发现的"回避型"侧步，教育政策中的侧步主动建构了一个"幻想的好"（fantasised goodness）的话语世界：
 > - Ofsted 的技术评级"good" → 经过议会话语的道德化 → 变成"[[Grammar School|文法学校]]是好的"（道德判断）
 > - 不同意这一判断的人 → 被暗示为反对"好"事物 → 因此"坏"
 >
 > ### 对非"good"学校的系统性沉默
 >
-> Bainbridge et al.（2022, p.10, 19）指出："好学校"话语的阴暗面是——**未被评级为'good'的学校（隐性'坏学校'）如何在此话语中被系统性地剥夺资源和能动性**——这一问题未被充分探讨。Farquharson et al.（2021）的数据显示，过去十年最贫困学校的资金下降了 14%，而最不贫困学校仅下降 9%。
+> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022, p.10, 19)]]指出："好学校"话语的阴暗面是——**未被评级为'good'的学校（隐性'坏学校'）如何在此话语中被系统性地剥夺资源和能动性**——这一问题未被充分探讨。Farquharson et al.（2021）的数据显示，过去十年最贫困学校的资金下降了 14%，而最不贫困学校仅下降 9%。
 >
 > ### [[Carnivalesque Analysis|嘉年华式分析]]揭示的资金倾斜
 >

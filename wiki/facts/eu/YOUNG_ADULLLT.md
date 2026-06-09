@@ -61,7 +61,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success]
-> Rambla（2022, p.172–174）基于 YOUNG_ADULLLT 数据报告了以下核心发现：
+> [[Argument_Rambla_2022_Springer|Rambla (2022, p.172–174)]]基于 YOUNG_ADULLLT 数据报告了以下核心发现：
 
 ### 治理模式的差异化格局
 

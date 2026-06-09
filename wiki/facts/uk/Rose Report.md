@@ -65,7 +65,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - O'Connor（2020, p.149）将 Rose Report 置于更广泛的"阅读战争"政治背景中：[[Simple View of Reading|简单阅读观]]"从一开始就明确针对[[Whole Language|全语言]]理论"
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020, p.149)]]将 Rose Report 置于更广泛的"阅读战争"政治背景中：[[Simple View of Reading|简单阅读观]]"从一开始就明确针对[[Whole Language|全语言]]理论"
 > - 该报告被认为代表了英国教育政策从教师专业自主权向中央规定的教学方法模式的转变
 > - Soler（2016, p.431，引自 O'Connor, 2020, p.150）将合成语音的政策推动置于新自由主义和新保守主义的交叉点
 

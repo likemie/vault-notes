@@ -43,7 +43,7 @@ updated: 2026-05-21
 ## 在知识地缘政治中的功能
 
 > [!abstract]
-> Zelinka（2022, pp.264-265）在分析全球治理技术时，将 VUCA 定位为三重运作机制的第一步——**问题化与个体化**（problematizing and individualizing）：
+> [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.264-265)]]在分析全球治理技术时，将 VUCA 定位为三重运作机制的第一步——**问题化与个体化**（problematizing and individualizing）：
 
 VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观条件——"波动性、不确定性、复杂性、模糊性"。这组条件一旦被接受为不可改变的背景，其隐含的政策方向便自然浮现：既然环境不可控，唯一能做的是让个体具备应对环境的能力。
 

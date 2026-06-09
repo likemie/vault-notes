@@ -17,7 +17,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -43,9 +44,9 @@ updated: 2026-06-07
 >
 > **[[Transfer Translation Transformation|转译]]过程**。[[Transfer Translation Transformation|转译]]是行动者加入网络、组装被聚合在一起的过程。在此过程中，人类和非人类实体相互作用并相互改变，从而成为执行特定目标的协调行动者网络的一部分（Callon, 1986, 引自 Beech & Artopoulos, 2015）。
 >
-> **稳定性与黑箱化**。当转译过程成功时，网络可以变得稳定、被视为理所当然并被黑箱化。组装的稳定性通常被视为理所当然，其中的权力关系被隐藏（Beech & Artopoulos, 2015）。
+> **稳定性与黑箱化**。当转译过程成功时，网络可以变得稳定、被视为理所当然并被黑箱化。组装的稳定性通常被视为理所当然，其中的权力关系被隐藏([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 >
-> **断裂与重构**。任何一天，组装中的某个连接都可能断裂，暴露出组装的本质。这种创新可能是人类行动者有意识决定的结果，也可能不是。非人类行动者通常被忽视，直到某些东西损坏、缺失或失败（Beech & Artopoulos, 2015）。
+> **断裂与重构**。任何一天，组装中的某个连接都可能断裂，暴露出组装的本质。这种创新可能是人类行动者有意识决定的结果，也可能不是。非人类行动者通常被忽视，直到某些东西损坏、缺失或失败([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 

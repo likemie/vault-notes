@@ -18,7 +18,8 @@ related_methods:
   - "[[Improvement Science]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -34,9 +35,9 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Bryk 的核心主张是教育改进需要系统视角——将教育实践作为系统来研究，关注跨情境变异性，并从变异性中学习。网络化改进社区是其核心组织创新：学校群组围绕共同商定的问题协作，分享关于小改变的所学，逐渐发展出产生更好学生成果的改进实践。
 >
-> > "Key aspects of [[Improvement Science]] involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability." (Peterson, 2016, p. 306, summarizing Bryk et al., 2015)
+> > "Key aspects of [[Improvement Science]] involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306, summarizing Bryk et al., 2015]])
 >
-> Peterson (2016, p. 300) 将 Bryk 等人的[[Improvement Science|改进科学]]定位为"什么有效"范式的最突出替代方案。
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 将 Bryk 等人的[[Improvement Science|改进科学]]定位为"什么有效"范式的最突出替代方案。
 
 ## 主要著作
 

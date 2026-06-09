@@ -24,6 +24,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -37,7 +38,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 素质教育（suzhi jiaoyu / quality education）是中国 1990 年代后期提出的教育改革理念，其核心目标是替代以考试为中心的[[Examination-Oriented Education|应试教育]]，转而以提升公民整体素质为教育目的。1997 年，国家教育委员会发布《关于积极推进中小学实施素质教育的若干意见》，标志着素质教育从地方实验上升为国家政策，在全国范围内正式推行（State Education Committee, 1997，引自 Wang & McLaughlin, 2025, p.589）。Schulte（2009, pp.91–92）在分析[[John Dewey|杜威]]思想在当代中国的[[Recontextualization|再脉络化]]时，记录了杜威被用作素质教育理论基础的特定方式。
+> 素质教育（suzhi jiaoyu / quality education）是中国 1990 年代后期提出的教育改革理念，其核心目标是替代以考试为中心的[[Examination-Oriented Education|应试教育]]，转而以提升公民整体素质为教育目的。1997 年，国家教育委员会发布《关于积极推进中小学实施素质教育的若干意见》，标志着素质教育从地方实验上升为国家政策，在全国范围内正式推行（State Education Committee, 1997，引自 Wang & McLaughlin, 2025, p.589）。[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, pp.91–92)]]在分析[[John Dewey|杜威]]思想在当代中国的[[Recontextualization|再脉络化]]时，记录了杜威被用作素质教育理论基础的特定方式。
 
 > [!quote]
 > 素质教育的倡导者认为，杜威的“教育即生活”、强调经验、“主动发展”等主张与素质教育理念兼容，两者都旨在“提升公民素质”和：
@@ -59,14 +60,14 @@ updated: 2026-05-26
 ## 争议与批评
 
 > [!warning]
-> You（2019, p.107）指出，中国存在**两个平行的教育系统**——素质教育**在修辞和形式中**与[[Examination-Oriented Education|应试教育]]**在现实和实质中**。尽管官方话语将素质教育建构为应试教育的替代方案，但在实际政策层面，两者的二元对立远比话语层面模糊([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])。Wang & McLaughlin（2025, p.589）的研究进一步证实了这一诊断：在高利害考试（特别是高考）的制度压力下，许多教师不得不为了达到学业基准而牺牲教育改革，素质教育的实施在很大程度上停留在话语层面。
+> You（2019, p.107）指出，中国存在**两个平行的教育系统**——素质教育**在修辞和形式中**与[[Examination-Oriented Education|应试教育]]**在现实和实质中**。尽管官方话语将素质教育建构为应试教育的替代方案，但在实际政策层面，两者的二元对立远比话语层面模糊([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])。[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, p.589)]]的研究进一步证实了这一诊断：在高利害考试（特别是高考）的制度压力下，许多教师不得不为了达到学业基准而牺牲教育改革，素质教育的实施在很大程度上停留在话语层面。
 
 ---
 
 ## 杜威在素质教育话语中的体现
 
 > [!abstract]
-> Schulte（2009, pp.91–92）记录了[[John Dewey|杜威]]在素质教育话语中展现出来的两种主要方式：
+> [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, pp.91–92)]]记录了[[John Dewey|杜威]]在素质教育话语中展现出来的两种主要方式：
 
 > **赫尔巴特 vs 杜威的叙事框架**：一些教育改革者将中国教育的根本困境概括为**赫尔巴特 vs 杜威**的对立——赫尔巴特代表了中国传统教学风格的坏的一面（教师中心、系统灌输、[[Rote Learning|死记硬背]]）；杜威代表了改革方向的好的一面（学生中心、基于经验、主动探究）。这一二元叙事虽然过度简化，但它有效地将杜威变成了**改革的代名词**——支持杜威等同于支持素质教育改革（p.92）。
 

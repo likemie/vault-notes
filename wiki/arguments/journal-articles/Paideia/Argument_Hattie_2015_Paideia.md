@@ -42,8 +42,8 @@ updated: '2026-06-08'
 year: 2015
 doi: ""
 citation_aliases:
-  - "John Hattie, 2015a"
-  - "John Hattie (2015a)"
+  - "Hattie, 2015a"
+  - "Hattie (2015a)"
 ---
 # Argument_Hattie_2015_Paideia
 

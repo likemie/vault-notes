@@ -16,7 +16,8 @@ related_methods:
   - "[[Convergent Design]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -28,7 +29,7 @@ updated: 2026-05-31
 ## 定义与目的
 
 > [!info]
-> 术语定义（Definition of Terms）是研究计划中对关键术语的精确界定。其目的是确保读者（尤其是领域外人士）能够准确理解研究者使用的概念，避免读者带着一套定义阅读，后来才发现作者使用的是另一套定义（Creswell & Creswell, 2022）。
+> 术语定义（Definition of Terms）是研究计划中对关键术语的精确界定。其目的是确保读者（尤其是领域外人士）能够准确理解研究者使用的概念，避免读者带着一套定义阅读，后来才发现作者使用的是另一套定义([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
 
 Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scientists have sharply defined terms with which to think clearly about their research and to communicate their findings and ideas accurately"（p.22）。Firestone (1987) 则从语言哲学的角度解释了为何需要定义：
 
@@ -39,7 +40,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ## 一般指南
 
-综合 Locke et al. (2014) 和 Wilkinson (1991) 的建议，Creswell & Creswell (2022) 提出以下原则：
+综合 Locke et al. (2014) 和 Wilkinson (1991) 的建议，[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 提出以下原则：
 
 1. **首次出现即定义**：术语在文中第一次出现时就应给出定义，使读者从一开始就清楚其含义。
 2. **使用操作化定义**：定义应写在一个具体的、操作化或应用层面，而非抽象的概念层面。操作化定义使用具体语言，精确说明研究者在研究中如何使用该术语。
@@ -50,7 +51,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ## 定义的四种功能
 
-定义可以在研究中发挥不同功能（Creswell & Creswell, 2022）：
+定义可以在研究中发挥不同功能([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 | 功能 | 说明 | 示例 |
 |---|---|---|
@@ -64,7 +65,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 ## 三种研究路径中的术语策略
 
 > [!abstract] 策略差异
-> 术语定义的策略因研究路径而异，这与[[Literature Review|文献综述]]在三种路径中的不对称性是平行的（Creswell & Creswell, 2022）。
+> 术语定义的策略因研究路径而异，这与[[Literature Review|文献综述]]在三种路径中的不对称性是平行的([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
 
 ### 量化研究
 

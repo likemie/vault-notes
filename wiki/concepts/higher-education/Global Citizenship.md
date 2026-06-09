@@ -28,8 +28,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
+  - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_Klerides_2023_CE]]"
 confidence: low
 status: draft
@@ -52,7 +52,7 @@ updated: '2026-05-26'
 ## 概念辨析
 
 > [!example]
-> - vs **积极公民身份（active citizenship）** — Senekal, Munnik, and Frantz（2022）的[[Systematic Review|系统综述]]使用"积极公民身份"作为博士特质的十域之一，侧重国内公民参与。Spronken-Smith et al.（2024）在构建七域分类时将其[[Revoicing|重铸]]为"全球公民"，以反映全球就业环境中跨文化和跨国界的能力需求（p.98）
+> - vs **积极公民身份（active citizenship）** — Senekal, Munnik, and Frantz（2022）的[[Systematic Review|系统综述]]使用"积极公民身份"作为博士特质的十域之一，侧重国内公民参与。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在构建七域分类时将其[[Revoicing|重铸]]为"全球公民"，以反映全球就业环境中跨文化和跨国界的能力需求（p.98）
 > - vs [[Graduate Attributes|毕业生特质]] — 全球公民是毕业生特质的一个组成部分（在本科话语中约 70% 的 UK 大学将其纳入，在博士七域分类中为七个域之一），而非毕业生特质的同义词([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]]; [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.98]])
 > - vs **全球胜任力（global competence）** — 近义概念，但全球公民更强调公民责任、社会正义和环境伦理的伦理维度，全球胜任力更侧重跨文化工作中的功能性技能
 
@@ -61,7 +61,7 @@ updated: '2026-05-26'
 ## 核心要素
 
 > [!abstract]
-> O'Brien（2011）的三素养框架是当前博士教育研究中最常引用的全球公民操作化方案。Spronken-Smith（2018）的补充使框架从"跨文化沟通"扩展到"人类与自然的关系"维度。Spronken-Smith et al.（2024）的七域分类进一步加入了倡导（advocacy）和社会正义取向（social justice-oriented disposition）两个跨领域品质。
+> O'Brien（2011）的三素养框架是当前博士教育研究中最常引用的全球公民操作化方案。Spronken-Smith（2018）的补充使框架从"跨文化沟通"扩展到"人类与自然的关系"维度。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的七域分类进一步加入了倡导（advocacy）和社会正义取向（social justice-oriented disposition）两个跨领域品质。
 
 ### 数字素养（digital literacy）
 通过不同媒介和通信技术与多元受众有效沟通的能力（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。在 21 世纪的全球就业环境中，这不只是"会用数字工具"，更包括理解不同媒介的传播逻辑、在跨国虚拟团队中协作、以及跨时区和跨文化地管理数字身份和专业形象。
@@ -76,7 +76,7 @@ updated: '2026-05-26'
 Spronken-Smith（2018）在 O'Brien 的三素养基础上补充的第四个维度：对可持续性和环境问题的意识与理解（引自 Spronken-Smith et al., 2024, p.87）。加入这一维度的逻辑是：全球公民不能只在"人类社会"内部谈论多元和平等，还必须包括人类与自然世界的关系——气候变化、生物多样性丧失和资源分配不均本身就是全球性的正义议题。
 
 ### 倡导与社会正义取向
-Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两个跨领域品质（p.98, Table 5）：
+[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在七域分类中为全球公民域增加了两个跨领域品质（p.98, Table 5）：
 - **倡导（advocacy）**：不仅理解全球议题，而且愿意并有能力为其发声和行动
 - **社会正义取向（social justice-oriented disposition）**：将不平等和权力关系作为分析视角，而非仅仅追求"文化理解"
 
@@ -89,9 +89,9 @@ Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两�
 >
 > 在博士教育领域，Nerad（2005）较早发出了明确呼吁，要求博士培养超越学科专精、包含公民维度。但在之后十余年中，全球公民几乎从未出现在博士特质调查工具中，Senekal et al.（2022）的综述将其命名为"积极公民身份"而非"全球公民"，且指出现有文献对这一维度的"概念化不足"([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
 >
-> Spronken-Smith et al.（2024）在七域分类中将"全球公民"设为一个完整且独立的域，标志着从"被忽视的附加项"到"博士特质的核心维度之一"的转变（pp.98–99）。
+> [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在七域分类中将"全球公民"设为一个完整且独立的域，标志着从"被忽视的附加项"到"博士特质的核心维度之一"的转变（pp.98–99）。
 >
-> 在本科层次，Wong et al.（2022）发现 UK 76 所公开列出[[Graduate Attributes|毕业生特质]]的大学中，70% 包含了"全球公民与参与"话语——但其内部成分不均：人际技能和社会责任讨论较多，而国际网络与外语技能（8%）和环境意识（11%）的覆盖率出人意料地低（pp.1347–1348）。
+> 在本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]发现 UK 76 所公开列出[[Graduate Attributes|毕业生特质]]的大学中，70% 包含了"全球公民与参与"话语——但其内部成分不均：人际技能和社会责任讨论较多，而国际网络与外语技能（8%）和环境意识（11%）的覆盖率出人意料地低（pp.1347–1348）。
 
 ---
 
@@ -100,11 +100,11 @@ Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两�
 > [!success]
 
 ### 本科层次
-- Wong et al.（2022）对 UK 大学的映射发现，"全球公民与参与"话语覆盖率 70%（53/76 所），但环境意识仅 11%（8 所），被作者评价为"略令人担忧"（p.1348）
+- [[Argument_Wong_2022_HERD|Wong et al. (2022)]]对 UK 大学的映射发现，"全球公民与参与"话语覆盖率 70%（53/76 所），但环境意识仅 11%（8 所），被作者评价为"略令人担忧"（p.1348）
 - 仅 3 所大学（4%）将外语技能列入[[Graduate Attributes|毕业生特质]]([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1348]])
 
 ### 博士层次
-- Spronken-Smith et al.（2024）对三所大学 136 名 PhD 校友的调查中，全球公民三项指标是 20 项特质中发展感知**最低**的：环境素养 2.8/5、文化理解 3.2、全球视野 3.4（pp.89–90, Figure 1）
+- [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]对三所大学 136 名 PhD 校友的调查中，全球公民三项指标是 20 项特质中发展感知**最低**的：环境素养 2.8/5、文化理解 3.2、全球视野 3.4（pp.89–90, Figure 1）
 - 这组特质的应用评分同样偏低（环境素养 3.0、全球视野 3.7、文化理解 3.9），与团队合作（应用 4.2）或研究技能（应用 4.2）形成鲜明对比（p.93, Figure 1）
 - 三所大学在全球公民属性的应用感知上无统计显著差异，表明培养缺失是跨制度的系统性问题（p.92）
 
@@ -120,13 +120,13 @@ Spronken-Smith et al.（2024）在七域分类中为全球公民域增加了两�
 > [!warning]
 
 ### 博士教育中是否"必要"的争议
-Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球公民培养必要性的三种立场（p.96）：
+[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的访谈揭示了博士毕业生之间对全球公民培养必要性的三种立场（p.96）：
 - **"不相关"立场**：Maree（USU2, 粒子物理）认为"博士的目的是成为粒子物理专家——不是别的"。这一立场在硬科学学科中可能较有代表性，核心逻辑是：博士 = 深度专精，公民素养是本科阶段的任务
 - **"已解决"立场**：Simon（USU2）认为全球公民意识"几乎普遍地已经存在，是代际特征……千禧一代本身就有这个愿望，不需要被教"。这一观点的问题在于：没有任何数据支持"代际自然拥有"的假设，而且混淆了态度（关心全球议题）和能力（有效跨文化沟通）
 - **"应嵌入学科"立场**：Omar（USU2）和 Veronica（USU1）认为全球公民应系统化但与学科结合——"我们应该意识到我们的学科触及这些议题的地方"（p.96）。这一立场的挑战在于：如何在高度专业化的博士培养中实现"嵌入"而不沦为表面修辞
 
 ### 操作化困境
-- 全球公民的理论框架（O'Brien 的三素养 + Spronken-Smith 的环境素养）与实证测量之间存在明显的粒度差距：Spronken-Smith et al.（2024）用三个 Likert 评分项（环境素养、文化理解、全球视野）来覆盖四类素养 + 倡导 + 社会正义取向——一个 5 点自评量表能否有效捕捉如此复杂的多维素养，存有疑问（pp.87–89）
+- 全球公民的理论框架（O'Brien 的三素养 + Spronken-Smith 的环境素养）与实证测量之间存在明显的粒度差距：[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]用三个 Likert 评分项（环境素养、文化理解、全球视野）来覆盖四类素养 + 倡导 + 社会正义取向——一个 5 点自评量表能否有效捕捉如此复杂的多维素养，存有疑问（pp.87–89）
 - "低发展 + 低应用"的数据模式本身就需要解释：是全球公民确实在职场中需求有限，还是当前大量博士在学术圈就业（59%）的系统性结果——如果博士就业结构向企业、政府和非营利部门进一步倾斜，全球公民属性的需求感知可能显著上升([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.99]])
 
 ### 实施的现实阻力
@@ -134,7 +134,7 @@ Spronken-Smith et al.（2024）的访谈揭示了博士毕业生之间对全球�
 - Porter（2021）提出通过与外部合作伙伴的高影响力培训机会来培养全球公民属性，但坦承这需要资源配置和"导师文化的转变"（引自 Spronken-Smith et al., 2024, p.97）
 
 ### 比较教育中的概念争议
-Klerides（2023）从[[Wight's Three Traditions of International Theory|国际关系理论]]角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
+[[Argument_Klerides_2023_CE|Klerides (2023)]]从[[Wight's Three Traditions of International Theory|国际关系理论]]角度提出了对全球公民概念的双重批判。在理性主义视角下，全球公民既呼应又强化了"国际社会"的理念——它将不同身份的碎片统一在一个伞状术语之下，但其"模糊性"（vagueness）使之成为主要批评对象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。Oxley & Morris（2013）和 Hobson & Silova（2014）等比较教育学者已经指出该概念缺乏精确性。
 
 在[[Revolutionism|革命主义]]视角下，全球公民被重新定义为一种由西方新自由主义经济教义（如竞争力和企业家精神）标记的受教育者身份，而非真正多元和解放的概念([[Argument_Klerides_2023_CE|Klerides, 2023, p.429]])。Silova, Rappleye & Auld（2020）进一步论证，全球公民话语实际上配合了世界秩序的[[Re-Westernisation|再西方化]]（re-Westernisation）。
 

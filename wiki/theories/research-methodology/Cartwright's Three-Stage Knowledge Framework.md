@@ -25,6 +25,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 > - 这是 [[Randomised Controlled Trials|RCT]] 能直接提供的唯一主张
 > - 只告诉你"在某处有效"，不告诉你"为什么有效"或"在你这里是否有效"
 >
-> > 例：一项 RCT 显示，在田纳西州的特定学校中，缩小[[Class Size|班级规模]]提高了阅读成绩。但这只告诉你"在田纳西州那些学校有效"（Cowen et al., 2015, p.17-18）
+> > 例：一项 RCT 显示，在田纳西州的特定学校中，缩小[[Class Size|班级规模]]提高了阅读成绩。但这只告诉你"在田纳西州那些学校有效"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17-18]])
 
 
 > [!abstract] 阶段二：Capacity 主张
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 > - 这需要将因果机制知识与本地情境因素结合
 > - 必须评估：本地是否具备所需的支持因素？如果缺乏，能否找到替代方案？
 >
-> > 例：加州 1996 年班级缩减政策试图复制田纳西州的成功，但加州缺乏足够的合格教师和教室空间，导致忠实执行在实际上不可能——支持因素的缺失使该政策未能产生预期效果（Cowen et al., 2015, p.17-18）
+> > 例：加州 1996 年班级缩减政策试图复制田纳西州的成功，但加州缺乏足够的合格教师和教室空间，导致忠实执行在实际上不可能——支持因素的缺失使该政策未能产生预期效果([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17-18]])
 
 ## 发展脉络
 
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 > - 2010 年 Cartwright & Munro 在 *Journal of Evaluation in Clinical Practice* 首次提出三阶段框架
 > - 2012 年 Cartwright & Hardie 在 *Evidence-Based Policy: A Practical Guide* 中进一步扩展
 > - 2014-2015 年 Cartwright & Cowen 将框架应用于教育领域，出版 CHESS 工作论文系列
-> - Cowen (2019) 在 *Educational Research and Evaluation* 中将此框架与 Tullock [[Tullock's Bureaucracy Theory|官僚制理论]]结合，解释 [[Evidence-Based Education|EBE]] 的制度韧性
+> - [[Argument_Cowen_2019_ERE|Cowen (2019)]] 在 *Educational Research and Evaluation* 中将此框架与 Tullock [[Tullock's Bureaucracy Theory|官僚制理论]]结合，解释 [[Evidence-Based Education|EBE]] 的制度韧性
 
 ## 研究范式
 
@@ -83,8 +84,8 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - **过度复杂化**：有批评认为三阶段框架对从业者来说过于复杂，忙碌的教师和政策制定者需要简化的实施指南，而非[[Philosophical Analysis in Education|哲学分析]]
-> - **并非反对 [[Randomised Controlled Trials|RCT]]**：Cartwright 明确表示该框架不是为了否定 RCT 的价值，而是为了正确使用 RCT。她承认有时大效应可以"压倒"其他不可观察的因素，使从业者即使在知识有限的情况下也能行动（Cowen et al., 2015, p.11）
-> - **替代方案的可操作性**：Bonell et al. (2012) 提出的"实在论 RCT"（realist RCT）试图通过析因试验和多臂研究来识别因果机制，但面临成本激增和样本量需求的挑战（Cowen et al., 2015, p.11）
+> - **并非反对 [[Randomised Controlled Trials|RCT]]**：Cartwright 明确表示该框架不是为了否定 RCT 的价值，而是为了正确使用 RCT。她承认有时大效应可以"压倒"其他不可观察的因素，使从业者即使在知识有限的情况下也能行动([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
+> - **替代方案的可操作性**：Bonell et al. (2012) 提出的"实在论 RCT"（realist RCT）试图通过析因试验和多臂研究来识别因果机制，但面临成本激增和样本量需求的挑战([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
 
 ## 相关研究
 

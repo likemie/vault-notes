@@ -57,7 +57,7 @@ updated: 2026-05-25
 ## 在香港课程中的应用
 
 > [!example]
-> Vickers（2024, p.154）的教科书对比为政治的文化化提供了具体案例：
+> [[Argument_Vickers_2024_CE|Vickers (2024, p.154)]]的教科书对比为政治的文化化提供了具体案例：
 >
 > [[Citizenship and Social Development|CSD]] 教科书用"中华传统文化"的温情叙事——"[[Filial Piety|孝]]、[[Benevolence|仁]]、义、勤、俭、好学"——替代了 [[Liberal Studies|LS]] 中对政治制度和权力安排的理性讨论。文化在此不是教育内容，而是政治控制的载体：当直接的意识形态控制太赤裸时，用"我们都是炎黄子孙"的文化叙事来包装主权要求。
 >

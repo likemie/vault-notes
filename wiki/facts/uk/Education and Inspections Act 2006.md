@@ -52,7 +52,7 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> 该禁令在法律层面始终有效，但保守党政府的 SSEF（2018） 以"扩展现有学校"而非"新建"的方式，在不触及法律修改的情况下为[[Grammar School|文法学校]]扩展提供了替代路径。Bainbridge et al.（2022）指出 SSEF 的"可疑法律性质"暗示了政策制定的驱动力并非来自证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])。
+> 该禁令在法律层面始终有效，但保守党政府的 SSEF（2018） 以"扩展现有学校"而非"新建"的方式，在不触及法律修改的情况下为[[Grammar School|文法学校]]扩展提供了替代路径。[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]指出 SSEF 的"可疑法律性质"暗示了政策制定的驱动力并非来自证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])。
 
 ## 争议与评论
 

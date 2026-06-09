@@ -29,7 +29,8 @@ related_methods:
   - "[[Case Study]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -43,10 +44,10 @@ updated: 2026-06-02
 ## 1. 定义与核心价值
 
 > [!info] 定义
-> 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现（Creswell & Creswell, 2022, p.137）。
+> 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.137]])。
 
 > [!quote]
-> "An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data."（Creswell & Creswell, 2022, p.137）
+> "An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.137]])
 > 
 > 将采用解释性序列混合方法设计，这涉及首先收集量化数据，然后通过后续的深入质性数据来解释量化结果。
 
@@ -60,7 +61,7 @@ updated: 2026-06-02
 
 ## 2. 适用场景
 
-解释性序列设计尤其适合以下情境（Creswell & Creswell, 2022, pp.137–138）：
+解释性序列设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])：
 - **需要深度解释**：预期量化阶段会产生需要解释的发现（如显著但缺乏理论解释的相关性、意外的群体差异）。
 - **方法偏好**：研究者更熟悉量化方法，将质性阶段作为[[Quantitative Research|量化研究]]的补充与深化。
 - **资源顺序分配**：研究资源允许两个阶段依次进行，量化分析为质性设计提供方向。
@@ -78,7 +79,7 @@ updated: 2026-06-02
 ## 4. 研究设计与程序
 
 ### 4.1 概念化：目的陈述脚本 (Purpose Statement Script)
-在研究构思阶段，需明确两阶段的递进逻辑（Creswell & Creswell, 2022, pp.137–138）：
+在研究构思阶段，需明确两阶段的递进逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])：
 
 > **英文脚本：**
 > This study will address ________ (overall intent). An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data. In the first, quantitative phase of the study, ________ (quantitative instrument) data will be collected from ________ (participants) to test ________ (theory) and to assess whether ________ (independent [[Variable|variables]]) relate to ________ (dependent variables). The second, qualitative phase will follow up on the quantitative results to help explain the quantitative results in more depth. The insight to be gained from using qualitative data to explain the quantitative results will be ________.
@@ -94,7 +95,7 @@ updated: 2026-06-02
 4. **整合解释**：将质性解释与量化结果对接，形成量化模式 + 质性机制的完整解释链。
 
 ### 4.3 整合工具：联合展示 (Joint Display)
-整合分析通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列，反映量化在先、质性在后的逻辑（Creswell & Creswell, 2022, pp.240–241）。
+整合分析通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列，反映量化在先、质性在后的逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.240–241]])。
 
 > [!note] 整合逻辑
 > 解释性序列的[[Metainferences|元推论]]代表对量化结果的**延伸与细化**，而非简单的确认。质性主题应具体说明其如何解释了某一得分水平的成因。
@@ -113,7 +114,7 @@ updated: 2026-06-02
 
 ## 5. 局限性与效度关注点
 
-在使用解释性序列设计时，需注意以下挑战（Creswell & Creswell, 2022, pp.239–242）：
+在使用解释性序列设计时，需注意以下挑战([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.239–242]])：
 
 ### 局限性 (Limitations)
 - **时间依赖性**：阶段必须依次进行，总体研究周期较长。
@@ -138,7 +139,7 @@ updated: 2026-06-02
 ## 7. 使用此方法的研究
 
 > [!example] 案例 1：Ivankova & Stick (2007)
-> 对 278 名学生进行问卷调查以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异（Creswell & Creswell, 2022, pp.137–138）。
+> 对 278 名学生进行问卷调查以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])。
 
 > [!example] [[Purpose Statement|目的陈述]]要素拆解：Ivankova & Stick (2007)
 >

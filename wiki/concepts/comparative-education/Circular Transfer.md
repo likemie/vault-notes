@@ -17,7 +17,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -39,7 +40,7 @@ updated: 2026-06-07
 
 > [!abstract]
 >
-> **双向流通**。循环转移描述了教育思想不是简单地从一个地点「转移」到另一个地点，而是在出借者和借用者之间来回移动。这挑战了静态的转移解释（Beech & Artopoulos, 2015）。
+> **双向流通**。循环转移描述了教育思想不是简单地从一个地点「转移」到另一个地点，而是在出借者和借用者之间来回移动。这挑战了静态的转移解释([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 >
 > **殖民地作为实验室**。一个典型案例是，附属国曾被用作有争议的教育改革的实验室。英语文学和文化作为单一「学科」在印度被引入，然后才在英国本土建立。这表明教育思想的流通不是单向的从「中心」到「边缘」，而是可以在不同方向上流动（Steiner-Khamsi, 2000, 引自 Beech & Artopoulos, 2015）。
 
@@ -58,7 +59,7 @@ updated: 2026-06-07
 ## 局限
 
 > [!warning]
-> 循环转移概念仍然基于地缘政治和领土性的空间定义，仍然假设存在清晰的「出借者」和「借用者」边界。从[[Relational Space|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的（Beech & Artopoulos, 2015）。
+> 循环转移概念仍然基于地缘政治和领土性的空间定义，仍然假设存在清晰的「出借者」和「借用者」边界。从[[Relational Space|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 

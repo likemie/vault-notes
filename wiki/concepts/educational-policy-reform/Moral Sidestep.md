@@ -46,7 +46,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 
 ### 建构型道德侧步（Constructive Moral Sidestep）
 
-Bainbridge et al.（2022）在教育政策研究中发现的新变体。政策制定者**主动建构**一套道德话语来替代研究证据——而非仅仅回避证据。具体机制是：将 [[Ofsted]] 的技术评级"good"混同为研究证据，然后将其道德化为"[[Grammar School|文法学校]]是好的"，从而构造一个"幻想的好"（fantasised goodness）的话语世界([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19, 27–28]])。
+[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]在教育政策研究中发现的新变体。政策制定者**主动建构**一套道德话语来替代研究证据——而非仅仅回避证据。具体机制是：将 [[Ofsted]] 的技术评级"good"混同为研究证据，然后将其道德化为"[[Grammar School|文法学校]]是好的"，从而构造一个"幻想的好"（fantasised goodness）的话语世界([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19, 27–28]])。
 
 > 核心特征：**主动建构** —— 决策者不满足于绕开证据，而是搭建一套完整的道德化话语体系来取而代之。
 
@@ -85,7 +85,7 @@ Bainbridge et al.（2022）在教育政策研究中发现的新变体。政策�
 
 ## 实证发现
 
-Bainbridge et al.（2022）对 2015–2019 年英国议会 11 场关于[[Grammar School|文法学校]]的辩论进行主题分析，发现：
+[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]对 2015–2019 年英国议会 11 场关于[[Grammar School|文法学校]]的辩论进行主题分析，发现：
 
 - 在 11 场辩论中，"good schools"（好学校）是第二高频主题（164 次提及，仅次于"selection"的 195 次），其中保守党议员占 125 次，工党仅 30 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.15]])
 - 163 所文法学校在议会中被提及 992 次，而约 3200 所综合学校仅被提及 109 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])

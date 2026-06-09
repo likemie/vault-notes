@@ -25,7 +25,8 @@ related_methods:
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -37,7 +38,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 假设（hypothesis）是对特定事件或[[Variable|变量]]间关系的预测性陈述（Creswell & Creswell, 2022, p.56）。在[[Quantitative Research|量化研究]]中，研究者使用理论和变量界定生成假设，再从参与者收集关于这些变量的数据来检验假设。假设是连接理论与经验数据的桥梁。
+> 假设（hypothesis）是对特定事件或[[Variable|变量]]间关系的预测性陈述([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。在[[Quantitative Research|量化研究]]中，研究者使用理论和变量界定生成假设，再从参与者收集关于这些变量的数据来检验假设。假设是连接理论与经验数据的桥梁。
 
 ---
 
@@ -45,14 +46,14 @@ updated: 2026-05-31
 
 ### 假设在理论发展中的角色
 
-理论的发展过程与假设的反复检验密不可分。研究者将自[[Variable|变量]]、中介变量和因变量组合为基于不同测量形式的问题。这些问题提供关于关系类型（正向、负向或未知）及其幅度（高或低）的信息。将这些信息组织为预测性陈述（即假设），研究者可能写下："领导权力越集中，追随者的权利剥夺越严重。"当研究者在不同情境和不同人群（如童子军、长老会教堂、扶轮社、高中生群体）中反复检验此类假设时，一个理论便逐渐浮现，并被赋予名称（如[[Attribution Theory|归因理论]]）（Creswell & Creswell, 2022, p.54）。
+理论的发展过程与假设的反复检验密不可分。研究者将自[[Variable|变量]]、中介变量和因变量组合为基于不同测量形式的问题。这些问题提供关于关系类型（正向、负向或未知）及其幅度（高或低）的信息。将这些信息组织为预测性陈述（即假设），研究者可能写下："领导权力越集中，追随者的权利剥夺越严重。"当研究者在不同情境和不同人群（如童子军、长老会教堂、扶轮社、高中生群体）中反复检验此类假设时，一个理论便逐渐浮现，并被赋予名称（如[[Attribution Theory|归因理论]]）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。
 
 > [!quote]
-> "When researchers test hypotheses such as this over and over in different settings and with different populations, a theory emerges, and someone gives it a name."（Creswell & Creswell, 2022, p.54）
+> "When researchers test hypotheses such as this over and over in different settings and with different populations, a theory emerges, and someone gives it a name."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])
 
 ### 理论陈述的三种形式
 
-研究者在研究方案中以多种方式陈述理论，假设是其中最基本的形式之一（Creswell & Creswell, 2022, pp.57–60）：
+研究者在研究方案中以多种方式陈述理论，假设是其中最基本的形式之一([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.57–60]])：
 
 1. **假设链（interconnected hypotheses）**：以一系列相互关联的假设陈述理论。例如 Hopkins (1964) 将影响力过程理论表述为 15 条假设，如"个体的地位越高，其中心性越强""中心性越强，可观察性越强"（p.51）。
 
@@ -65,7 +66,7 @@ updated: 2026-05-31
 ## 核心要素
 
 > [!abstract]
-> 一个好假设应具备以下特征（Creswell & Creswell, 2022）：
+> 一个好假设应具备以下特征([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 > - **方向性**：指明[[Variable|变量]]间关系的预期方向（正向、负向或未知）
 > - **可检验性**：变量必须可测量或可观察
 > - **理论基础**：假设应从已有理论中推导而来，而非凭空产生

@@ -22,7 +22,8 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -34,7 +35,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 备择假设（alternative [[Hypothesis]]）是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式。与[[Null Hypothesis|零假设]]（预测无关系或无差异）相对，备择假设提出实质性预测（Creswell & Creswell, 2022, p.144）。
+> 备择假设（alternative [[Hypothesis]]）是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式。与[[Null Hypothesis|零假设]]（预测无关系或无差异）相对，备择假设提出实质性预测([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]])。
 
 ---
 

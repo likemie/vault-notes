@@ -17,7 +17,8 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[PISA]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -31,7 +32,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> [[PISA]] 捏造的主张（PISA Made-up Claim）指 PISA 声称测量 15 岁学生在义务教育结束时是否掌握了现代社会充分参与所需的关键知识和技能，以及未来生活所需的基本能力。然而这一主张没有任何实证依据，是 PISA 团队凭空捏造的（Zhao, 2020）。
+> [[PISA]] 捏造的主张（PISA Made-up Claim）指 PISA 声称测量 15 岁学生在义务教育结束时是否掌握了现代社会充分参与所需的关键知识和技能，以及未来生活所需的基本能力。然而这一主张没有任何实证依据，是 PISA 团队凭空捏造的([[Argument_Zhao_2020_JEC|Zhao, 2020]])。
 
 > [!quote]
 > "There is no research available that proves this assertion beyond the point that knowing something is always good and knowing more is better. There is not even research showing that PISA covers enough to be representative of the school subjects involved or the general knowledge-base."（Hopmann, 2008, p.438, 引自 Zhao, 2020）

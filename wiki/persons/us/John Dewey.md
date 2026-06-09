@@ -149,6 +149,6 @@ updated: '2026-06-08'
 - 1949 年中华人民共和国成立后，杜威在中国被彻底妖魔化：被定性为反动、主观唯心主义和教育史上最大的伪[[Junzi|君子]]和骗子([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.79–80]])。1950 年代，其自然主义、所谓反科学立场以及关于不确定性的主张成为系统批判的三大靶点([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.80–82]])。文化大革命（1966–1976）期间，杜威几乎完全从中国话语中消失——尽管其实践与四人帮的教育政策存在表面相似性([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.82–83]])。
 - 1980 年代初，杜威通过其学生[[Tao Xingzhi|陶行知]]的中间作用得以间接恢复名誉。从 1982–1983 年开始，对其思想的负面定性逐渐从文章的核心论证退居到首尾位置以应付审查，其贡献开始被正面承认([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–86]])。到 1980 年代末，杜威已被重塑为科学创新、个体与社会和谐统一、以及现代化改革的旗手([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.86–89]])。
 - 1990 年代至今，杜威被纳入中国教育改革的各个争论：他被用来为[[Quality Education|素质教育]]（suzhi jiaoyu）提供理论基础，被视为反对[[Examination-Oriented Education|应试教育]]的理论资源([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])；同时被用来批评中国式新自由主义，被当作负责任自由主义的真正代表——不同于 1990 年代中国的野蛮新自由主义([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.93]])。
-- Schulte（2009, p.93）总结道：杜威在中国经历了三重变形——从科学与知识的对立面变为创新科学的象征；从不道德的资本主义自我中心变为个体与社会和谐统一的符号；从马克思主义-社会主义的批判对象变为中国国家治理反对新自由主义的话语盟友——真正成为又红又专的杜威 (Duwei)。
+- [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, p.93)]]总结道：杜威在中国经历了三重变形——从科学与知识的对立面变为创新科学的象征；从不道德的资本主义自我中心变为个体与社会和谐统一的符号；从马克思主义-社会主义的批判对象变为中国国家治理反对新自由主义的话语盟友——真正成为又红又专的杜威 (Duwei)。
 
 ---

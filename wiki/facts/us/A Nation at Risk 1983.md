@@ -34,8 +34,8 @@ related_facts:
   - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
-  - "[[Argument_Downey_2016_SoE]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Argument_Downey_2016_SoE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -75,7 +75,7 @@ updated: '2026-06-02'
 ## 在跨国吸引力中的角色
 
 > [!info] 在[[Cross-National Attraction|跨国吸引力]]中的角色
-> Rappleye (2006) 将 *A Nation at Risk* 定位为 1980 年代美国对日教育吸引力的核心**危机化** (scandalize) 行动——即用外国范例 (日本) 使本国教育政策蒙羞以推动改革，修辞最为激烈 (p. 235)。
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 将 *A Nation at Risk* 定位为 1980 年代美国对日教育吸引力的核心**危机化** (scandalize) 行动——即用外国范例 (日本) 使本国教育政策蒙羞以推动改革，修辞最为激烈 (p. 235)。
 >
 > 报告通过将美国教育表现与日本等经济竞争对手进行对比，完成了三项[[Externalization|外化]]操作：(1) 将教育质量建构为国家竞争力的核心[[Variable|变量]]；(2) 将国际比较数据解读为美国落后的证据；(3) 将改革紧迫性从部门性议题升级为国家危机。这种国际比较 → 本国危机 → 必须改革的三段论结构，正是 [[Externalization|外化]]机制的典型运作方式——将国内有争议的改革包装为对国际趋势的必要回应。
 ...
@@ -95,7 +95,7 @@ updated: '2026-06-02'
 >
 > ### 强化对日教育参照
 >
-> 报告的危机叙事与 1980 年代美国对日本教育的吸引力相互强化——报告将日本的参照地位从学术兴趣升级为国家危机语境下的比较基准。1987 年美国教育部发布的 *Japanese Education Today* 可以视为对 *A Nation at Risk* 引发的日本参照需求的制度化回应（Rappleye, 2006, pp. 234–235）。详见 [[American Attraction to Japanese Education 1980s]]。
+> 报告的危机叙事与 1980 年代美国对日本教育的吸引力相互强化——报告将日本的参照地位从学术兴趣升级为国家危机语境下的比较基准。1987 年美国教育部发布的 *Japanese Education Today* 可以视为对 *A Nation at Risk* 引发的日本参照需求的制度化回应([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 234–235]])。详见 [[American Attraction to Japanese Education 1980s]]。
 
 ---
 
@@ -105,7 +105,7 @@ updated: '2026-06-02'
 > - **危机叙事的争议**：教师协会和[[Progressive Education|进步教育]]运动者质疑教育质量危机的存在（特别是在公共部门），认为这场危机被夸大以推行基于[[New Public Management|新公共管理]]技术的教育改革(Bottani, 2008, p. 16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 9]])。
 > - **全球化链条的远距离后果**：[[Argument_Gorur_2014_Discourse|Gorur (2014)]] 揭示了一个引人深思的因果链——一份关于美国教育的国内报告触发了全球[[Performance Indicators|教育指标]]体系的建立，最终塑造了全球教育治理格局。
 > - **政治框定的翻转**：[[Argument_Downey_2016_SoE|Downey & Condron (2016, p. 2)]] 指出 *A Nation at Risk* 标志着美国教育政治话语的重要翻转——1966 年 [[Coleman Report 1966]] 的结论（家庭和社区是学业差距的源头）最初被视为保守立场，Bowles & Gintis (1976) 对学校加剧不平等的批判被视为激进左派；到了 1980 年代初期，保守派已全面接受学校是问题的叙事，*A Nation at Risk* 正是这一翻转的标志性事件。
-> - **危机化作为政治策略**：Rappleye (2006, p. 233) 引述 Halpin & Troyna (1995) 的假设——政治家可能为政治利益而将教育现状危机化——*A Nation at Risk* 的军事危机语言是否为这种策略性使用的典型表现，值得在具体历史语境中评估。
+> - **危机化作为政治策略**：[[Argument_Rappleye_2006_RCIE|Rappleye (2006, p. 233)]] 引述 Halpin & Troyna (1995) 的假设——政治家可能为政治利益而将教育现状危机化——*A Nation at Risk* 的军事危机语言是否为这种策略性使用的典型表现，值得在具体历史语境中评估。
 
 ---
 

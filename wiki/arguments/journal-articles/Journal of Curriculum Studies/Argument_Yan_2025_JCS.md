@@ -53,8 +53,8 @@ updated: '2026-06-08'
 year: 2025
 doi: ""
 citation_aliases:
-  - "Yan & Paul Morris, 2025"
-  - "Yan & Paul Morris (2025)"
+  - "Yan & Morris, 2025"
+  - "Yan & Morris (2025)"
 ---
 # Argument_Yan_2025_JCS
 

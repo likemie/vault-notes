@@ -19,7 +19,8 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -36,7 +37,7 @@ updated: 2026-06-06
 > 嵌入几何学（Geometries of Insertion）是 [[Robert Cowen]]（Cowen 2009）在论文结论中提出的理论挑战，指分析教育思想和实践从一个语境嵌入另一个语境时所涉及的政治、伦理和结构性条件。如果比较教育能够完整把握 转移、[[Transfer Translation Transformation|转译]]和转化以及 [[Shape-Shifting|形变]]的过程，就能获得一种"嵌入几何学"——一种关于"在一处创造的思想和实践如何能够被嵌入另一处"的理论（p.287）。
 
 > [!quote]
-> "With 'context' rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a 'geometry of insertion' for ideas and practices which – although they were created in one place – could be inserted in another."（Cowen, 2009, p.287）
+> "With 'context' rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a 'geometry of insertion' for ideas and practices which – although they were created in one place – could be inserted in another."([[Argument_Cowen_2009_CE|Cowen, 2009, p.287]])
 >
 > 如果将情境在转移、转译、转化和形变的理论中重新概念化并加以驯服，我们就能获得一种嵌入几何学，用于分析那些在一处创造却可以被嵌入另一处的思想和实践。
 

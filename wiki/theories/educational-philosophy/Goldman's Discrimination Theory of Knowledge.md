@@ -21,7 +21,8 @@ related_methods: []
 related_persons:
   - "[[Dylan Wiliam]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wiliam_2019]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 > - **如果该地区没有假谷仓**：Henry 知道那是座谷仓（他的证成足以区分谷仓与非谷仓）
 > - **如果该地区有假谷仓**：Henry 不知道那是座谷仓（因为他无法区分真谷仓与纸糊仿制品）
 >
-> 关键洞见：知识不仅取决于个人的信念和证成，还取决于**环境中是否存在相关的替代状态**以及个人**是否能够区分**这些状态。（Wiliam, 2019, pp.9–10）
+> 关键洞见：知识不仅取决于个人的信念和证成，还取决于**环境中是否存在相关的替代状态**以及个人**是否能够区分**这些状态。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
 
 
 > [!abstract] 知识的相关替代方案（Relevant Alternatives）条件
@@ -52,7 +53,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 知识的局部性与临时性推论
-> Wiliam (2019, p.10) 从此理论推导出两个对教育研究至关重要的推论：
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.10)]] 从此理论推导出两个对教育研究至关重要的推论：
 >
 > 1. **知识是局部的（local）**：相关性因地点而异。教师招聘困难地区的政策制定者对班级缩减计划效果的"知识"不同于教师供应充足地区的政策制定者——因为"替代状态"的相关性不同。
 >

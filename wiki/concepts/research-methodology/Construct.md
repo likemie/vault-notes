@@ -22,7 +22,9 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[PISA]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -36,10 +38,10 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 构念（construct）是[[Variable|变量]]在理论层面的更抽象、更一般的意义表达（Creswell & Creswell, 2022, p.130）。它是研究者为了理论建构而创造的概念工具，代表不可直接观察的理论实体，需要通过操作化（operationalization）转化为可测量的变量，才能在实证研究中进行检验。
+> 构念（construct）是[[Variable|变量]]在理论层面的更抽象、更一般的意义表达([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.130]])。它是研究者为了理论建构而创造的概念工具，代表不可直接观察的理论实体，需要通过操作化（operationalization）转化为可测量的变量，才能在实证研究中进行检验。
 
 > [!quote]
-> "Constructs is a term used for a more [[Abstract]], general meaning of a variable."（Creswell & Creswell, 2022, p.130）
+> "Constructs is a term used for a more [[Abstract]], general meaning of a variable."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.130]])
 >
 > 构念是用于变量的更抽象、更一般意义的术语。
 
@@ -65,7 +67,7 @@ updated: 2026-06-06
 >
 > - **抽象性**。构念位于比[[Variable|变量]]更高的抽象层级。它是对多组相关变量或观察的共性进行概念化提炼后的产物。例如社会经济地位是一个构念，它抽象了收入、教育水平、职业声望等多个具体指标背后的共同概念。
 > - **不可直接观察性**。构念本身不能被研究者直接看到或测量。研究者的测量工具（问卷、测试、观察量表）测量的是构念的可观察指标（indicators），而非构念本身。
-> - **理论嵌入性**。构念存在于特定的理论网络之中。一个构念的意义不仅来自其定义，还来自它与其他构念的理论关系。理论通过陈述构念之间的关系来解释或预测现象（Creswell & Creswell, 2022, p.53）。
+> - **理论嵌入性**。构念存在于特定的理论网络之中。一个构念的意义不仅来自其定义，还来自它与其他构念的理论关系。理论通过陈述构念之间的关系来解释或预测现象([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])。
 
 ---
 
@@ -89,7 +91,7 @@ updated: 2026-06-06
 >
 > Rindermann (2007) 的大规模分析发现，不同学生评估研究（[[PISA]]、TIMSS、PIRLS）和不同认知测试方法之间的跨国家相关性普遍很高。因子分析支持一个强 g 因子。不同的学生评估研究量表和不同的认知测试方法本质上测量的是同一个构念，即一般国家认知能力（引自 Zhao, 2020）。
 >
-> 这一发现对 [[PISA]] 的声称构成了挑战。PISA 声称测量的是未来生活所需的基本技能，不同于 IEA 赞助的研究（如 TIMSS）所测量的课程相关知识。但如果两者本质上测量的是同一个构念，PISA 声称测量独特内容的主张就缺乏构念效度的支持（Zhao, 2020）。
+> 这一发现对 [[PISA]] 的声称构成了挑战。PISA 声称测量的是未来生活所需的基本技能，不同于 IEA 赞助的研究（如 TIMSS）所测量的课程相关知识。但如果两者本质上测量的是同一个构念，PISA 声称测量独特内容的主张就缺乏构念效度的支持([[Argument_Zhao_2020_JEC|Zhao, 2020]])。
 
 ---
 

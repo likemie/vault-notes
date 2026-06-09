@@ -61,7 +61,7 @@ updated: '2026-05-18'
 > [!note]
 > - **1984 提出**：Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Yajun Zheng|郑雅君]]，2023，引 Astin, 1984）
 > - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步操作化为可观察的行为指标，并强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
-> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用（郑雅君，2023）
+> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -89,7 +89,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 大量实证研究验证了涉入-成果的正向关联：学生涉入程度越高，学习成果、满意度和毕业率越高（[[Yajun Zheng|郑雅君]]，2023，引 Pascarella & Terenzini, 2005）
-> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标[[Triangulation|三角互证]]设计——问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"（郑雅君，2023）
+> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标[[Triangulation|三角互证]]设计——问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 

@@ -75,7 +75,7 @@ updated: '2026-05-18'
 
 ### 核心治理机制
 
-Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通过区域层面的指标体系（如区域创新记分牌和 NUTS2 教育指标）将复杂的政策目标转化为可比较、可排名的量化数据。Rambla（2022）的分析指出，这一治理机制的运作依赖于一个嵌入指标体系中的 [[Theories of Policy Change]]——即"创新生态体系"与"教育培训体系"协同演化→产生增效→实现智能、可持续与包容性增长（p.170–172）。
+Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通过区域层面的指标体系（如区域创新记分牌和 NUTS2 教育指标）将复杂的政策目标转化为可比较、可排名的量化数据。[[Argument_Rambla_2022_Springer|Rambla (2022)]]的分析指出，这一治理机制的运作依赖于一个嵌入指标体系中的 [[Theories of Policy Change]]——即"创新生态体系"与"教育培训体系"协同演化→产生增效→实现智能、可持续与包容性增长（p.170–172）。
 
 ## 时间线
 
@@ -100,7 +100,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 ## 效果与评价
 
 > [!success]
-> - Rambla（2022）指出，Europe 2020 通过[[Performance Indicators|绩效指标]]体系成功将"区域"建构为创新和教育政策的基本治理单元——任何公民都可以在地图上识别自身区域在创新和教育方面的排名位置（p.169–170）
+> - [[Argument_Rambla_2022_Springer|Rambla (2022)]]指出，Europe 2020 通过[[Performance Indicators|绩效指标]]体系成功将"区域"建构为创新和教育政策的基本治理单元——任何公民都可以在地图上识别自身区域在创新和教育方面的排名位置（p.169–170）
 > - 战略所承载的变革理论——[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化产生互利增效——在话语层面被自然化为[[Doxa|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity|异质性]]挑战（p.174–175）
 
 > [!info]- 核心数据

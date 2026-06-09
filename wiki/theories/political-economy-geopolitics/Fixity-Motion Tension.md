@@ -26,7 +26,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Moisio_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -36,11 +37,11 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 固着-流动张力（Fixity-Motion Tension）是 David Harvey（1985/2001）在其资本主义地缘政治理论中揭示的资本主义空间悖论：**资本积累同时需要两个相互矛盾的东西——空间固着（锚定于特定地方的基础设施和制度）和空间流动（资本跨越地理边界寻求最高回报的自由）**。这两者之间存在不可消除的结构性张力，因为固着的条件恰恰被流动的逻辑不断破坏（Moisio, 2022, pp.27–28）。
+> 固着-流动张力（Fixity-Motion Tension）是 David Harvey（1985/2001）在其资本主义地缘政治理论中揭示的资本主义空间悖论：**资本积累同时需要两个相互矛盾的东西——空间固着（锚定于特定地方的基础设施和制度）和空间流动（资本跨越地理边界寻求最高回报的自由）**。这两者之间存在不可消除的结构性张力，因为固着的条件恰恰被流动的逻辑不断破坏([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])。
 >
 > > "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in Moisio, 2022, p.28）
 >
-> Moisio 将该张力定位为[[Knowledge-Based Economization|知识经济化]]地缘政治的根本动力来源："[[Knowledge-Based Economy|知识经济]]化的地缘政治正源于资本主义空间流通过程内部的这一张力——积累地理中固着与流动之间的张力"（Moisio, 2022, p.28）。
+> Moisio 将该张力定位为[[Knowledge-Based Economization|知识经济化]]地缘政治的根本动力来源："[[Knowledge-Based Economy|知识经济]]化的地缘政治正源于资本主义空间流通过程内部的这一张力——积累地理中固着与流动之间的张力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])。
 >
 
 ## 为什么固着和流动必然冲突？——因果链拆解
@@ -50,7 +51,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 ### 第 1 步：资本流通需要地方固着
 
-资本不是在空中漂浮的抽象物——它必须*在某个地方*运作。这要求特定的基础设施被固定在特定空间（Moisio, 2022, pp.27–28）：
+资本不是在空中漂浮的抽象物——它必须*在某个地方*运作。这要求特定的基础设施被固定在特定空间([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])：
 - **物质基础设施**：工厂、办公楼、实验室、交通网络、港口——这些投入了巨量资本、无法轻易移动的物理资产
 - **社会基础设施**：教育系统（培养具备特定技能的劳动力）、法律体系（保障合同执行和产权）、文化制度（塑造对工作和消费的特定态度）
 
@@ -103,15 +104,15 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 ## Moisio 在知识经济化中的应用
 
 > [!success] Moisio 在[[Knowledge-Based Economization|知识经济化]]中的应用
-> Moisio（2022）将该张力应用于分析当代[[Knowledge-Based Economy|知识经济]]化，揭示了以下几个关键动态：
+> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将该张力应用于分析当代[[Knowledge-Based Economy|知识经济]]化，揭示了以下几个关键动态：
 
 
 > [!success] 国家和城市的双重角色：固着的锚点
-> 在知识经济化中，国家和城市"试图将'知识密集型'资本的躁动流动固定在原地——这些资本在寻找价值创造和提取的最优位置"（Moisio, 2022, p.28）。这就是为什么各国竞相投资大学、研发设施、[[Innovation Ecosystem|创新生态系统]]和城市基础设施——这些投资本质上是在建造更强大的"固着锚点"，以期将全球流动的知识资本暂时锁定在本国领土上。
+> 在知识经济化中，国家和城市"试图将'知识密集型'资本的躁动流动固定在原地——这些资本在寻找价值创造和提取的最优位置"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])。这就是为什么各国竞相投资大学、研发设施、[[Innovation Ecosystem|创新生态系统]]和城市基础设施——这些投资本质上是在建造更强大的"固着锚点"，以期将全球流动的知识资本暂时锁定在本国领土上。
 
 
 > [!success] 领土逻辑 vs 资本逻辑
-> 固着-流动张力将两组相互矛盾的逻辑置于同一空间[[Champ|场域]]中（Moisio, 2022, pp.27–29）：
+> 固着-流动张力将两组相互矛盾的逻辑置于同一空间[[Champ|场域]]中([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–29]])：
 > - **领土逻辑**：国家需要稳定的税收基础、持续的经济活动和人口定居——这要求资本*留在*特定领土上
 > - **资本逻辑**：资本需要自由移动到回报最高的地方——这意味着对任何特定领土的承诺都是暂时的
 >
@@ -119,7 +120,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 
 > [!success] 城市形态：张力的空间表现
-> 固着-流动张力以城市形态呈现：大规模投资首都城市和城市基础设施，"大型城市日益体现国家竞争力和吸引力"（Moisio, 2022, pp.28–29）。城市创新综合体被建设为"空间例外"（spatial exceptions, Ong, 2006）——国家在这些空间中放松常规规制、集中资源、创造特殊条件，希望它们成为锚定全球知识资本的"领土平台"（Moisio, 2022, p.28）。
+> 固着-流动张力以城市形态呈现：大规模投资首都城市和城市基础设施，"大型城市日益体现国家竞争力和吸引力"([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])。城市创新综合体被建设为"空间例外"（spatial exceptions, Ong, 2006）——国家在这些空间中放松常规规制、集中资源、创造特殊条件，希望它们成为锚定全球知识资本的"领土平台"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])。
 
 
 > [!success] 知识经济化概念的串联枢纽

@@ -22,7 +22,8 @@ related_persons:
   - "[[Ray Pawson]]"
   - "[[Terry Wrigley]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -36,23 +37,23 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Bhaskar 的[[Critical Realism|批判实在论]]围绕三个核心区分展开（Wrigley & McCusker, 2019, pp. 113, 117）：
+> Bhaskar 的[[Critical Realism|批判实在论]]围绕三个核心区分展开([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 113, 117]])：
 
 
 > [!info] 三层本体论
-> Bhaskar (1978) 区分了**实在（real）**、**实际（actual）**和**经验（empirical）**三个层次。因果力属于"深层实在"，可能在开放系统中被其他力量或环境因素触发或阻断，以致未能实际化或被感知（Wrigley & McCusker, 2019, p. 117）。
+> Bhaskar (1978) 区分了**实在（real）**、**实际（actual）**和**经验（empirical）**三个层次。因果力属于"深层实在"，可能在开放系统中被其他力量或环境因素触发或阻断，以致未能实际化或被感知([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])。
 
 
 > [!info] 开放系统与封闭系统
-> Bhaskar (1978, 1979) 论证："封闭系统"解释在自然界中很少充分，在社会情境中则肯定不充分。多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。教育属于开放系统——涉及人的意志、习惯、解释和互动（Wrigley & McCusker, 2019, p. 113）。
+> Bhaskar (1978, 1979) 论证："封闭系统"解释在自然界中很少充分，在社会情境中则肯定不充分。多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。教育属于开放系统——涉及人的意志、习惯、解释和互动([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。
 
 
 > [!info] 社会结构的涌现性
-> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的涌现权力。他的经典表述："军队不只是士兵的复数"（p. 34）——军队依赖于结构和目的。社会结构"总是已经被制造出来的"（p. 42）——它们先于我们作为个体而存在，虽然需要个体活动来维持和再生产（Wrigley & McCusker, 2019, p. 113）。
+> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的涌现权力。他的经典表述："军队不只是士兵的复数"（p. 34）——军队依赖于结构和目的。社会结构"总是已经被制造出来的"（p. 42）——它们先于我们作为个体而存在，虽然需要个体活动来维持和再生产([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。
 
 
 > [!info] 对经验主义的批判
-> Bhaskar (1978) 的核心批判对象是经验主义——即假设经验观察到的规则性足以建立因果解释。批判实在论坚持因果解释需要超越表面规则性，探究深层因果机制（Wrigley & McCusker, 2019, p. 117）。
+> Bhaskar (1978) 的核心批判对象是经验主义——即假设经验观察到的规则性足以建立因果解释。批判实在论坚持因果解释需要超越表面规则性，探究深层因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])。
 
 ## 主要贡献
 
@@ -64,8 +65,8 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Bhaskar, R. (1978). *A realist theory of science*. Hassocks: Harvester Press. — [[Critical Realism|批判实在论]]科学哲学的基础文本（Wrigley & McCusker, 2019, p. 125）
-> - Bhaskar, R. (1979). *The possibility of naturalism: A philosophical critique of the contemporary human sciences*. Hassocks: Harvester Press. — 将批判实在论从自然科学扩展至人文社会科学（Wrigley & McCusker, 2019, p. 125）
+> - Bhaskar, R. (1978). *A realist theory of science*. Hassocks: Harvester Press. — [[Critical Realism|批判实在论]]科学哲学的基础文本([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
+> - Bhaskar, R. (1979). *The possibility of naturalism: A philosophical critique of the contemporary human sciences*. Hassocks: Harvester Press. — 将批判实在论从自然科学扩展至人文社会科学([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
 
 ## 思想发展与影响
 

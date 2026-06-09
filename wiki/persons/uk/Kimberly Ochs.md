@@ -21,7 +21,8 @@ related_methods: []
 related_persons:
   - "[[David Phillips]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -50,11 +51,11 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 政策文本与政策话语的区分
-> Ochs 在 Ball (1994) 的基础上，对教育政策转移做出了重要区分（Rappleye, 2006, p. 233, 227）：
+> Ochs 在 Ball (1994) 的基础上，对教育政策转移做出了重要区分([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233, 227]])：
 > - **政策文本（Policy Text）：** 可被转移的具体书面政策内容
 > - **政策话语（Policy Discourse）：** 关于教育的谈论、概念化和框架化方式——可以脱离伴随政策而独立转移
 >
-> > "Policy discourse is ways of talking about, conceptualizing, and framing education that can be transferred regardless of accompanying policies." (Rappleye, 2006, p. 233)
+> > "Policy discourse is ways of talking about, conceptualizing, and framing education that can be transferred regardless of accompanying policies." ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233]])
 >
 > 这一区分深刻影响了 Rappleye (2006) 的概念地图——在[[Cross-National Attraction|跨国吸引]]力阶段，由于尚未做出实际"借用"的决定，研究者的主要关注对象是政策话语而非政策文本。
 
@@ -70,7 +71,7 @@ updated: '2026-06-08'
 
 
 > [!info] 新行动者识别
-> Ochs (2005) 在 Dolowitz & Marsh (2000) 的政治行动者列表基础上，新增了网络（networks）、排行榜（[[Global Universities Rankings|league tables]]）、媒体／通讯技术和资助来源（sources of funding）等全球化时代的新行动者类别。（Rappleye, 2006, p. 227）
+> Ochs (2005) 在 Dolowitz & Marsh (2000) 的政治行动者列表基础上，新增了网络（networks）、排行榜（[[Global Universities Rankings|league tables]]）、媒体／通讯技术和资助来源（sources of funding）等全球化时代的新行动者类别。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 227]])
 
 ## 主要贡献
 

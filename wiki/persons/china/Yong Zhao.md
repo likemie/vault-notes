@@ -75,7 +75,7 @@ updated: '2026-06-08'
 ### 教育副作用框架
 
 > [!tip]
-> 从医学借鉴副作用（[[Side Effects]]）概念，论证教育干预的效果与副作用是不可分离的双重结果。教育研究从医学借鉴了 [[Randomised Controlled Trials|RCT]] 等方法论工具，但系统性忽略了副作用的研究与报告制度（Zhao, 2017）。
+> 从医学借鉴副作用（[[Side Effects]]）概念，论证教育干预的效果与副作用是不可分离的双重结果。教育研究从医学借鉴了 [[Randomised Controlled Trials|RCT]] 等方法论工具，但系统性忽略了副作用的研究与报告制度([[Argument_Zhao_2017_JEC|Zhao, 2017]])。
 >
 > 缺乏副作用研究的四个系统性后果：无休止的改革战争、政策在不知风险的情况下被推广、钟摆效应、对最好教育体系的幻灭。提出 6 项行动建议，主张建立类似 FDA 药物审批的教育干预副作用评估和监测机制。
 
@@ -84,7 +84,7 @@ updated: '2026-06-08'
 ### PISA 系统性批评
 
 > [!tip]
-> 对 [[PISA]] 的批评涵盖三个根本缺陷（Zhao, 2020）：
+> 对 [[PISA]] 的批评涵盖三个根本缺陷([[Argument_Zhao_2020_JEC|Zhao, 2020]])：
 >
 > **捏造的主张**（[[PISA Made-up Claim]]）。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 TIMSS 等其他国际评估高度相关。
 >
@@ -126,7 +126,7 @@ updated: '2026-06-08'
 ## 格言／关键表述
 
 > [!quote]
-> "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."（Zhao, 2020）
+> "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."([[Argument_Zhao_2020_JEC|Zhao, 2020]])
 >
 > 批评的无效并不是放弃揭露 PISA 作为一个具有误导教育的巨大力量的有缺陷企业的理由。
 

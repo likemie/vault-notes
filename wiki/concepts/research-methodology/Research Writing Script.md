@@ -25,7 +25,8 @@ related_methods:
   - "[[Exploratory Sequential Design]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -37,12 +38,12 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 在研究写作中，脚本（script）是一种填空式模板工具，包含某一类型学术陈述的核心词语、逻辑结构和关键要素，同时为研究者预留填入自身项目具体信息的空间。Creswell & Creswell (2022, p.127) 将其定义为："A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."
+> 在研究写作中，脚本（script）是一种填空式模板工具，包含某一类型学术陈述的核心词语、逻辑结构和关键要素，同时为研究者预留填入自身项目具体信息的空间。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.127)]] 将其定义为："A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."
 
 脚本的作用不在于提供完美的写作范本，而在于帮助研究者系统性地覆盖某一陈述类型所需的所有必要要素。它降低遗漏关键组件的风险，也为初学者提供一个可直接操作的写作起点。
 
 > [!quote]
-> "Here is a script helpful in drafting a complete statement. A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."（Creswell & Creswell, 2022, p.127）
+> "Here is a script helpful in drafting a complete statement. A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.127]])
 
 ## 概念辨析
 
@@ -66,7 +67,7 @@ updated: 2026-05-31
 
 ## 各项脚本
 
-Creswell & Creswell (2022, pp.127–137) 在[[Purpose Statement|目的陈述]]教学中共提供五套写作脚本，覆盖质性、量化和三种[[Mixed Methods Research|混合方法]]设计。
+[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, pp.127–137)]] 在[[Purpose Statement|目的陈述]]教学中共提供五套写作脚本，覆盖质性、量化和三种[[Mixed Methods Research|混合方法]]设计。
 
 ### 质性目的陈述脚本
 

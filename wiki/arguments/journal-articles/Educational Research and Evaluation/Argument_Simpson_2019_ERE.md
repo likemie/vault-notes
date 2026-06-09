@@ -39,8 +39,8 @@ updated: '2026-06-08'
 year: 2019
 doi: ""
 citation_aliases:
-  - "Adrian Simpson, 2019"
-  - "Adrian Simpson (2019)"
+  - "Simpson, 2019"
+  - "Simpson (2019)"
 ---
 ## 研究问题
 

@@ -18,13 +18,15 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Governance by Spin]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -52,7 +54,7 @@ updated: 2026-05-18
 > [!example]
 > - vs [[Employability]] — 就业力是**目标概念**（求职者需要具备的能力），履历经济学是**过程机制**（大学生如何通过管理课余生活来积累就业力）。履历经济学揭示了就业力积累的具身体操演过程（[[Yajun Zheng|郑雅君]]，2023）
 > - vs [[Credential Inflation]] — 文凭通胀是履历经济学出现的**结构性前提**：当大学文凭的交换价值缩水，雇主难以仅通过文凭甄别求职者，"软"实力和履历资本遂成为就业竞争的新战场（郑雅君，2023，引 Brown & Hesketh, 2004）
-> - vs [[Cultural Capital]] — 履历经济学实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程：精细投资和包装课余生活需要来自家庭经济、社会和文化资源的加持（郑雅君，2023）
+> - vs [[Cultural Capital]] — 履历经济学实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程：精细投资和包装课余生活需要来自家庭经济、社会和文化资源的加持([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -61,7 +63,7 @@ updated: 2026-05-18
 > [!note]
 > - **2003 [[Employability|就业力]]相对化**：Brown & Hesketh 论证就业力的相对性——求职者的竞争力取决于在所有竞争者中的排序位置，而非绝对能力（[[Yajun Zheng|郑雅君]]，2023，引 Brown & Hesketh, 2003）
 > - **2004 软实力转向**：Brown & Hesketh 进一步揭示雇主招聘要求从"硬"通货（学位和证书）扩展到"软"实力（个人性格、荣誉、工作经验、实习经历），为履历经济学的概念诞生提供了经验基础（郑雅君，2023，引 Brown & Hesketh, 2004）
-> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将履历经济学概念用于分析中国精英大学毕业生的竞争环境，将其与[[Social Engagement|社会性投入]]和[[Goal-Controlled Mode|目标掌控模式]]的分析相连接（郑雅君，2023）
+> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将履历经济学概念用于分析中国精英大学毕业生的竞争环境，将其与[[Social Engagement|社会性投入]]和[[Goal-Controlled Mode|目标掌控模式]]的分析相连接([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -69,8 +71,8 @@ updated: 2026-05-18
 
 > [!abstract]
 > - **课余生活的工具化**：旅行、实习、志愿服务、社团领导经验等原本与谋职无关的课外活动，被重新[[Coding in Qualitative Research|编码]]为简历上的"可兑换资产"（[[Yajun Zheng|郑雅君]]，2023）
-> - **自我呈现的管理**：学生不仅需要积累经验，还需要将这些经验"适当包装以衔接雇主的偏好"——简历撰写、面试表现、人际网络维护均成为履历管理的组成部分（郑雅君，2023）
-> - **家庭资源的依赖**：精细投资和包装课余生活需要来自家庭的经济、社会和文化资源的加持——实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程。优势家庭的学生拥有更多可投资于课余经历的资源，而弱势家庭学生在这一隐性竞争中处于结构性劣势（郑雅君，2023）
+> - **自我呈现的管理**：学生不仅需要积累经验，还需要将这些经验"适当包装以衔接雇主的偏好"——简历撰写、面试表现、人际网络维护均成为履历管理的组成部分([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **家庭资源的依赖**：精细投资和包装课余生活需要来自家庭的经济、社会和文化资源的加持——实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程。优势家庭的学生拥有更多可投资于课余经历的资源，而弱势家庭学生在这一隐性竞争中处于结构性劣势([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -87,7 +89,7 @@ updated: 2026-05-18
 
 > [!success]
 > - 在[[Knowledge-Based Economy|知识经济]]和高等教育大众化时代，毕业证书只是敲门砖，"求职者还需要对自己的过往经历、个人品质、甚至性格和自我认同进行一系列管理和展现，才能获得雇主的青睐"（[[Yajun Zheng|郑雅君]]，2023，引 Brown & Hesketh, 2003; 2004）
-> - 钦凯（南方大学化学系）是履历经济学逻辑的生动体现——他明确区分了求职竞争的"硬"条件和"软"条件："一半看人的基本条件……一半就靠演绎"。这种"演绎"能力（情商、印象管理、转化率）在社会交往中日积月累地锻造（郑雅君，2023）
+> - 钦凯（南方大学化学系）是履历经济学逻辑的生动体现——他明确区分了求职竞争的"硬"条件和"软"条件："一半看人的基本条件……一半就靠演绎"。这种"演绎"能力（情商、[[Governance by Spin|印象管理]]、转化率）在社会交往中日积月累地锻造([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 

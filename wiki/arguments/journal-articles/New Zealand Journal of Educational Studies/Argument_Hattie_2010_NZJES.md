@@ -44,8 +44,8 @@ updated: '2026-06-08'
 year: 2010
 doi: ""
 citation_aliases:
-  - "John Hattie, 2010"
-  - "John Hattie (2010)"
+  - "Hattie, 2010"
+  - "Hattie (2010)"
 ---
 ## 研究问题
 

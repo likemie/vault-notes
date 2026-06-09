@@ -43,6 +43,8 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -132,8 +134,8 @@ updated: 2026-06-02
 - [[University-Industry Collaboration]] — Triple Helix 是理解产学合作制度环境的核心理论框架，尤其用于分析政府政策如何塑造产学合作的激励机制
 - [[Innovation Ecosystem]] — 三重螺旋模型为理解创新生态系统中大学、企业和政府三者的角色和互动提供了理论基础
 - 创新政策分析 — 用于评估不同国家的国家创新体系（[[Systems of Innovation|NIS]]）和政策工具的有效性
-- **国际 UI 合作障碍评估** — Rossoni et al.（2023）从三重螺旋、关系社会资本和[[Technology Transfer|技术转移]]三个[[Theoretical Perspective|理论视角]]，系统评估了产学研发与创新合作的障碍因素（Wolf et al., 2025, p.316）
-- **[[Public-Private Partnership in Research|PPP]] 作为 Triple Helix 的组织制度化** — 公私合作伙伴关系（PPP） 是 Triple Helix 理论在组织层面的制度化实现形式：它规定了政产学三方在具体合作中的资金分担、决策权和知识产权归属规则。Ramming（2025, pp.233–236）从企业 [[Academic Engagement Team|AET]] 实践者角度识别了 PPP 设计的四个关键维度——治理、竞争理论、技术战略和知识产权——并展示了美国半导体行业三代 PPP 模式（[[Universal Parallel Computing Research Centers|UPCRC]] 企业先行 → [[Semiconductor Research Corporation|SRC]] 行业联盟 → NSTC 国家制度化）如何构成 Triple Helix 从一次性项目到持久制度安排的递进演化
+- **国际 UI 合作障碍评估** — Rossoni et al.（2023）从三重螺旋、关系社会资本和[[Technology Transfer|技术转移]]三个[[Theoretical Perspective|理论视角]]，系统评估了产学研发与创新合作的障碍因素([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, p.316]])
+- **[[Public-Private Partnership in Research|PPP]] 作为 Triple Helix 的组织制度化** — 公私合作伙伴关系（PPP） 是 Triple Helix 理论在组织层面的制度化实现形式：它规定了政产学三方在具体合作中的资金分担、决策权和知识产权归属规则。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.233–236)]]从企业 [[Academic Engagement Team|AET]] 实践者角度识别了 PPP 设计的四个关键维度——治理、竞争理论、技术战略和知识产权——并展示了美国半导体行业三代 PPP 模式（[[Universal Parallel Computing Research Centers|UPCRC]] 企业先行 → [[Semiconductor Research Corporation|SRC]] 行业联盟 → NSTC 国家制度化）如何构成 Triple Helix 从一次性项目到持久制度安排的递进演化
 
 ---
 

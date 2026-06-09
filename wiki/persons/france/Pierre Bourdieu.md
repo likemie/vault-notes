@@ -36,6 +36,9 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Bruno Latour]]"
 related_arguments:
+  - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
@@ -126,7 +129,7 @@ updated: '2026-06-08'
 
 ### 场域、语言与反思性社会学
 
-- Bourdieu, P., Chamboredon, J.-C., & Passeron, J.-C. (1968/1991). *The Craft of Sociology: Epistemological Preliminaries*. — 阐述[[Epistemological Break|认识论断裂]]、[[Epistemological Vigilance|认识论警觉]]和研究对象建构问题；Eacott（2015, p.313）将其视为教育行政研究中常被忽略的 Bourdieu 认识论维度。
+- Bourdieu, P., Chamboredon, J.-C., & Passeron, J.-C. (1968/1991). *The Craft of Sociology: Epistemological Preliminaries*. — 阐述[[Epistemological Break|认识论断裂]]、[[Epistemological Vigilance|认识论警觉]]和研究对象建构问题；[[Argument_Eacott_2015_EPT|Eacott (2015, p.313)]]将其视为教育行政研究中常被忽略的 Bourdieu 认识论维度。
 - Bourdieu, P. (1982). *Ce que parler veut dire: l'économie des échanges linguistiques*. Fayard. — 将资本和场域框架延伸至语言交换，分析语言的符号权力。
 - Bourdieu, P. (1984). *Homo academicus*. Minuit. — 以学术世界为对象实践[[Reflexivity|反思性]]社会学。
 - Bourdieu, P. (1989). *La Noblesse d'État: grandes écoles et esprit de corps*. Minuit. — 分析法国精英大学校与国家权力的关系，提出学校化再生产模式。
@@ -160,7 +163,7 @@ updated: '2026-06-08'
 
 ### 实践理论
 
-实践不是理性选择模型中的有意识计算，也不是结构直接决定的结果。行动者在习性限定的可能范围中，凭借“实践感”生成策略性行动。Eacott（2011）在[[School Leadership|学校领导力]]研究中借用这一点，指出领导实践不能被抽离为静态能力清单或最佳实践，因为领导力是一种时刻在组织成员互动中被定义的社会实践（Eacott, 2011, p.56）。
+实践不是理性选择模型中的有意识计算，也不是结构直接决定的结果。行动者在习性限定的可能范围中，凭借“实践感”生成策略性行动。[[Argument_Eacott_2011_JEAH|Eacott (2011)]]在[[School Leadership|学校领导力]]研究中借用这一点，指出领导实践不能被抽离为静态能力清单或最佳实践，因为领导力是一种时刻在组织成员互动中被定义的社会实践([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.56]])。
 
 ---
 
@@ -172,17 +175,17 @@ updated: '2026-06-08'
 
 ### 认识论预备
 
-Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）指出，教育行政研究中许多 Bourdieu 式研究只使用[[Champ|场域]]、[[Habitus|习性]]和资本等工具，却忽略了更根本的认识论预备问题（Eacott, 2015, pp.313–314）。
+Bourdieu 的社会理论包含一套系统的认识论预备。[[Argument_Eacott_2015_EPT|Eacott (2015)]]指出，教育行政研究中许多 Bourdieu 式研究只使用[[Champ|场域]]、[[Habitus|习性]]和资本等工具，却忽略了更根本的认识论预备问题([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.313–314]])。
 
-- **[[Epistemological Break|认识论断裂]]**：科学研究必须与日常语言、自发理解和既有分类决裂，否则只是认可 doxa（Eacott, 2015, p.320）。
-- **[[Epistemological Vigilance|认识论警觉]]**：社会科学研究者必须持续警惕日常语言和熟悉经验对研究对象建构的渗透（Eacott, 2015, pp.322–323）。
-- **对象建构的反思**：关键不是是否建构对象，而是研究者是否知道自己正在建构，并把建构过程本身纳入分析（Eacott, 2015, p.323）。
+- **[[Epistemological Break|认识论断裂]]**：科学研究必须与日常语言、自发理解和既有分类决裂，否则只是认可 doxa([[Argument_Eacott_2015_EPT|Eacott, 2015, p.320]])。
+- **[[Epistemological Vigilance|认识论警觉]]**：社会科学研究者必须持续警惕日常语言和熟悉经验对研究对象建构的渗透([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.322–323]])。
+- **对象建构的反思**：关键不是是否建构对象，而是研究者是否知道自己正在建构，并把建构过程本身纳入分析([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])。
 
 ---
 
 ### 反思性社会学
 
-研究者不是站在社会世界之外的观察者，而是社会世界中的行动者。Eacott（2015）借 Bourdieu 说明：教育行政研究者自身往往嵌入其研究对象，前行政人员、学校经验和领域认同都会塑造他们的“智识凝视”（Eacott, 2015, pp.317–319）。
+研究者不是站在社会世界之外的观察者，而是社会世界中的行动者。[[Argument_Eacott_2015_EPT|Eacott (2015)]]借 Bourdieu 说明：教育行政研究者自身往往嵌入其研究对象，前行政人员、学校经验和领域认同都会塑造他们的“智识凝视”([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.317–319]])。
 
 ---
 
@@ -245,23 +248,23 @@ Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）�
 
 ### 教育行政与学校领导力研究
 
-- Eacott（2011）将 Bourdieu 的[[Champ|场域]]、[[Habitus|习性]]、[[Doxa]]和资本框架用于分析澳大利亚 NSW 校长培养，指出管理主义将校长建构为“国家改革的交付者”，而非公共教育问题的提出者和争辩者（Eacott, 2011, p.45）。
-- 该研究将[[School Leadership|学校领导力]] doxa 描述为一套经济语言、证据本位、最佳实践和绩效问责组合，说明教育场域正在被经济和政治场域渗透（Eacott, 2011, pp.49–54）。
-- Eacott（2015）进一步把 Bourdieu 的认识论预备引入教育行政研究，主张教育行政学者需要反思自身对研究对象的熟悉性、领域身份和“领导力”神圣标签（Eacott, 2015, pp.317–324）。
+- [[Argument_Eacott_2011_JEAH|Eacott (2011)]]将 Bourdieu 的[[Champ|场域]]、[[Habitus|习性]]、[[Doxa]]和资本框架用于分析澳大利亚 NSW 校长培养，指出管理主义将校长建构为“国家改革的交付者”，而非公共教育问题的提出者和争辩者([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
+- 该研究将[[School Leadership|学校领导力]] doxa 描述为一套经济语言、证据本位、最佳实践和绩效问责组合，说明教育场域正在被经济和政治场域渗透([[Argument_Eacott_2011_JEAH|Eacott, 2011, pp.49–54]])。
+- [[Argument_Eacott_2015_EPT|Eacott (2015)]]进一步把 Bourdieu 的认识论预备引入教育行政研究，主张教育行政学者需要反思自身对研究对象的熟悉性、领域身份和“领导力”神圣标签([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.317–324]])。
 
 ---
 
 ### 中国高等教育研究中的再运用
 
-- [[Yajun Zheng|郑雅君]]（2023）将 Bourdieu 的[[Habitus|习性]]、[[Champ|场域]]和[[Cultural Capital|文化资本]]用于解释中国精英大学生毕业出路分化：家庭背景通过中学教育经历和父母决策角色被“资本化”为学生进入大学时的习性差异与初始竞争优势（郑雅君，2023）。
-- 其[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]受到 *Les Héritiers* 中“考试能手”与“浅薄涉猎者”区分的启发，并被延伸到 21 世纪中国精英大学场域（郑雅君，2023）。
-- [[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]可被理解为 Bourdieu 习性错置、习性滞后和习性分裂问题在中国高等教育场域中的经验化表达（郑雅君，2023）。
+- [[Yajun Zheng|郑雅君]]（2023）将 Bourdieu 的[[Habitus|习性]]、[[Champ|场域]]和[[Cultural Capital|文化资本]]用于解释中国精英大学生毕业出路分化：家庭背景通过中学教育经历和父母决策角色被“资本化”为学生进入大学时的习性差异与初始竞争优势([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- 其[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]受到 *Les Héritiers* 中“考试能手”与“浅薄涉猎者”区分的启发，并被延伸到 21 世纪中国精英大学场域([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- [[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]可被理解为 Bourdieu 习性错置、习性滞后和习性分裂问题在中国高等教育场域中的经验化表达([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 
 ### 高等教育政治经济学中的应用
 
-Schulze-Cleven et al.（2017）在分析高等教育的新政治经济学时，展示了 Bourdieu 的理论工具如何被重新运用于理解当代学术界的竞争转型和新封建式等级（pp.797–799, 805–806）：
+[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]在分析高等教育的新政治经济学时，展示了 Bourdieu 的理论工具如何被重新运用于理解当代学术界的竞争转型和新封建式等级（pp.797–799, 805–806）：
 
 - **符号商品与[[Non-monetary Competition|非货币竞争]]**：Bourdieu（1984）的符号商品概念——声望、认可、区隔——被用于解释高等教育中[[Non-monetary Competition|非货币竞争]]的核心逻辑。学术界的竞争不围绕价格和利润展开（如常规市场），而是围绕符号商品——排名、引用数、学术头衔、机构声望——这些商品的价值来自学科共同体和更广泛公众的集体信念([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])
 - **学术阶级分数**（fractions of the academic class）：*Homo Academicus* 中发展的"学术阶级分数"理论在当代高等教育研究中被重新激活。Möller（2015）和 Graf（2015）运用这一框架对德国教授和学术官员进行了实证研究，揭示了不同学术阶级分数的差异化再生产模式和与统治阶级的关系——一些分数专注于学术资本的积累（研究声望），另一些则通过行政权力和外部网络来维持地位([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])

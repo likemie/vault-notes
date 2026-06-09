@@ -21,7 +21,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -49,9 +50,9 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] [[Bounded Rationality|有限理性]]
-> Simon 挑战了古典经济学的"完全理性"假设——人类决策者并非拥有无限信息处理能力、无限时间和无限制的计算资源的"经济人"，而是在认知限制、信息不完整和时间约束下做出"足够好"而非"最优"的决策（Qvortrup, 2019, p.6）。
+> Simon 挑战了古典经济学的"完全理性"假设——人类决策者并非拥有无限信息处理能力、无限时间和无限制的计算资源的"经济人"，而是在认知限制、信息不完整和时间约束下做出"足够好"而非"最优"的决策([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])。
 >
-> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制（Qvortrup, 2019, p.6）。
+> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])。
 
 ## 主要贡献
 
@@ -64,4 +65,4 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管理学（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
-> - Qvortrup（2019）将有限理性引入教育研究，作为理解教学实践的认识论基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学实践的认识论基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置

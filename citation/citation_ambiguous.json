@@ -37,6 +37,40 @@
         "year": "2025"
       }
     ],
+    "Hattie, 2015": [
+      {
+        "aliases": [
+          "Hattie, 2015a",
+          "Hattie (2015a)"
+        ],
+        "argument": "Argument_Hattie_2015_Paideia",
+        "authors": [
+          "[[John Hattie|Hattie, J.]]"
+        ],
+        "citation": "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21.",
+        "doi": "",
+        "isbn": "",
+        "path": "wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md",
+        "title": "Argument_Hattie_2015_Paideia",
+        "year": "2015"
+      },
+      {
+        "aliases": [
+          "Hattie, 2015b",
+          "Hattie (2015b)"
+        ],
+        "argument": "Argument_Hattie_2015_SOTLP",
+        "authors": [
+          "[[John Hattie|Hattie, J.]]"
+        ],
+        "citation": "Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91.",
+        "doi": "",
+        "isbn": "",
+        "path": "wiki/arguments/journal-articles/Scholarship of Teaching and Learning in Psychology/Argument_Hattie_2015_SOTLP.md",
+        "title": "Argument_Hattie_2015_SOTLP",
+        "year": "2015"
+      }
+    ],
     "Håkansson, 2015": [
       {
         "aliases": [
@@ -45,7 +79,7 @@
         ],
         "argument": "Argument_Håkansson_2015_TT",
         "authors": [
-          "Håkansson, J"
+          "Håkansson, J."
         ],
         "citation": "Håkansson, J. (2015). Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning. Teachers and Teaching, 21(5), 584-602. https://doi.org/10.1080/13540602.2014.995479",
         "doi": "",
@@ -61,47 +95,13 @@
         ],
         "argument": "Argument_Håkansson_2015_Paideia",
         "authors": [
-          "Håkansson, J"
+          "Håkansson, J."
         ],
         "citation": "Håkansson, J. (2015). Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet. Paideia, 9, 52–60.",
         "doi": "",
         "isbn": "",
         "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md",
         "title": "Argument_Håkansson_2015_Paideia",
-        "year": "2015"
-      }
-    ],
-    "John Hattie, 2015": [
-      {
-        "aliases": [
-          "John Hattie, 2015a",
-          "John Hattie (2015a)"
-        ],
-        "argument": "Argument_Hattie_2015_Paideia",
-        "authors": [
-          "[[John Hattie]]"
-        ],
-        "citation": "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21.",
-        "doi": "",
-        "isbn": "",
-        "path": "wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md",
-        "title": "Argument_Hattie_2015_Paideia",
-        "year": "2015"
-      },
-      {
-        "aliases": [
-          "John Hattie, 2015b",
-          "John Hattie (2015b)"
-        ],
-        "argument": "Argument_Hattie_2015_SOTLP",
-        "authors": [
-          "[[John Hattie]]"
-        ],
-        "citation": "Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91.",
-        "doi": "",
-        "isbn": "",
-        "path": "wiki/arguments/journal-articles/Scholarship of Teaching and Learning in Psychology/Argument_Hattie_2015_SOTLP.md",
-        "title": "Argument_Hattie_2015_SOTLP",
         "year": "2015"
       }
     ],
@@ -116,7 +116,7 @@
           "Keddie, A.",
           "MacDonald, K. C.",
           "Blackmore, J.",
-          "[[Scott Eacott]]",
+          "[[Scott Eacott|Eacott, S.]]",
           "Gobby, B.",
           "Mahoney, C.",
           "Niesche, R.",
@@ -142,7 +142,7 @@
           "Wilkinson, J.",
           "Gobby, B.",
           "Niesche, R.",
-          "[[Scott Eacott]]",
+          "[[Scott Eacott|Eacott, S.]]",
           "Mahoney, C."
         ],
         "citation": "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C. (2020). The constitution of school autonomy in Australian public education: areas of paradox for social justice. *International Journal of Leadership in Education*. https://doi.org/10.1080/13603124.2020.1781934",
@@ -153,15 +153,15 @@
         "year": "2020"
       }
     ],
-    "Klaus Nielsen & Klitmøller, 2021": [
+    "Nielsen & Klitmøller, 2021": [
       {
         "aliases": [
-          "Klaus Nielsen & Klitmøller, 2021a",
-          "Klaus Nielsen & Klitmøller (2021a)"
+          "Nielsen & Klitmøller, 2021a",
+          "Nielsen & Klitmøller (2021a)"
         ],
         "argument": "Argument_Nielsen_2021_NordPsych",
         "authors": [
-          "[[Klaus Nielsen]]",
+          "[[Klaus Nielsen|Nielsen, K.]]",
           "Klitmøller, J."
         ],
         "citation": "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology.",
@@ -173,12 +173,12 @@
       },
       {
         "aliases": [
-          "Klaus Nielsen & Klitmøller, 2021b",
-          "Klaus Nielsen & Klitmøller (2021b)"
+          "Nielsen & Klitmøller, 2021b",
+          "Nielsen & Klitmøller (2021b)"
         ],
         "argument": "Argument_Nielsen_2021_IRTP",
         "authors": [
-          "[[Klaus Nielsen]]",
+          "[[Klaus Nielsen|Nielsen, K.]]",
           "Klitmøller, J."
         ],
         "citation": "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92.",

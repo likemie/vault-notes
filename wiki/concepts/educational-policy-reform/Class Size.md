@@ -37,7 +37,9 @@ related_arguments:
   - "[[Argument_Snook_2009]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Wiliam_2019]]"
   - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -120,7 +122,7 @@ Hattie 指出，大学也常争论班级规模，尤其是讲座形式；但高�
 
 ### 美国
 
-- [[Tennessee STAR Project 1985-1989]] — 大型随机试验，小班 13–17 人，大班 22–26 人；小班学生到二年级末约领先 3 个月，低收入和少数族裔学生受益更大，但 Wiliam 指出其学校代表性、[[Random Assignment|随机分配]]和教师质量条件都影响外推（Wiliam, 2019, pp.5-7）。
+- [[Tennessee STAR Project 1985-1989]] — 大型随机试验，小班 13–17 人，大班 22–26 人；小班学生到二年级末约领先 3 个月，低收入和少数族裔学生受益更大，但 Wiliam 指出其学校代表性、[[Random Assignment|随机分配]]和教师质量条件都影响外推([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.5-7]])。
 - [[California Class Size Reduction 1996]] — 试图把 STAR 证据全州推广，但合格教师和教室不足，导致新增教师质量下降且负担集中在弱势学校；这是 [[Programme Fidelity vs Adaptation]] 和 [[Randomised Controlled Trials|RCT]] 外推争论中的关键反例(Cowen et al., 2015, pp.17-18; Wiliam, 2019, p.7; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
 - 德州 15 校研究 — 仅缩小班额的 13 所学校五年后无显著变化；同时改变教学法、健康服务和家长参与的 2 所学校成绩改善，说明班额政策与教学和支持系统交互([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.101-102]])。
 
@@ -148,7 +150,7 @@ Hattie 指出，大学也常争论班级规模，尤其是讲座形式；但高�
 Hattie 认为班级规模平均效应约为 d = 0.20，虽为正但小于其常用参照值 d = 0.40，因此相对于高成本不一定值得。Snook 等批评者反驳说，d = 0.20 并非可忽略，而且高质量研究如 STAR 与 Smith & Glass 的结果明显更大，平均效应可能掩盖研究质量和情境差异([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]]; Hattie, 2010, p.90)。
 
 > [!note]- Hattie 的澄清
-> Hattie 并不是说缩小班级规模完全无效。他的澄清是：缩小班额的平均效应为正，约 d = 0.20，但相对于他所设定的 d = 0.40 参照线和高昂财政成本，这项政策未必是最优投资。Hattie 同时指出，如果平均效应约为 0.20，而 STAR 等研究显示大正效应，那么[[Meta-analysis|元分析]]中也必然存在低效或负效应研究，平均值的意义正在于调节极端发现（Hattie, 2010, p.90）。
+> Hattie 并不是说缩小班级规模完全无效。他的澄清是：缩小班额的平均效应为正，约 d = 0.20，但相对于他所设定的 d = 0.40 参照线和高昂财政成本，这项政策未必是最优投资。Hattie 同时指出，如果平均效应约为 0.20，而 STAR 等研究显示大正效应，那么[[Meta-analysis|元分析]]中也必然存在低效或负效应研究，平均值的意义正在于调节极端发现([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.90]])。
 
 > [!note]- 批评方的回应
 > Snook 等人认为 d = 0.20 本身不应被轻率视为“不重要”。他们用医学中的阿司匹林例子说明，小效应也可能有重要公共意义；并进一步指出，STAR、Smith & Glass、Blatchford 等高质量或高[[Observational and Correlational Research|相关性研究]]显示，班级规模的效果可能在特定条件下远大于 Hattie 的平均估计([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]])。

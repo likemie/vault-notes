@@ -19,7 +19,8 @@ related_methods:
   - "[[Improvement Science]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Peterson_2016_IJRME]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: medium
@@ -30,7 +31,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论（Peterson, 2016）。
+> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论([[Argument_Peterson_2016_IJRME|Peterson, 2016]])。
 
 ## 核心思想
 
@@ -41,11 +42,11 @@ updated: '2026-06-08'
 > 2. **改进网络**为机制实验的发现提供实施和反馈基础设施
 > 3. 两者通过共享的**"构建块"**（关键的教育变革机制）形成连续性
 >
-> > "This article builds on current efforts to strengthen approaches to evidence-based practice and policy in a range of international contexts. It provides a foundation for those who aim to avoid another paradigm war and to accelerate international discussions on the design of systemic education research infrastructure and funding." (Peterson, 2016, p. 299)
+> > "This article builds on current efforts to strengthen approaches to evidence-based practice and policy in a range of international contexts. It provides a foundation for those who aim to avoid another paradigm war and to accelerate international discussions on the design of systemic education research infrastructure and funding." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 299]])
 
 
 > [!info] "什么有效 2.0"的三项起步行动
-> Peterson (2016, pp. 307–308) 提出实施"什么有效 2.0"的三个初步步骤：
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, pp. 307–308)]] 提出实施"什么有效 2.0"的三个初步步骤：
 >
 > 1. **从其他领域学习**：汇集英国各 What Works 中心的资金建立跨领域研究者探究小组，将公共健康、社会政策和教育领域的从业者聚集在一起，分享识别测试机制的专业知识
 > 2. **从伙伴关系方法中提取学习**：What Works 系统行动者承担协调机构的新角色，系统性地捕捉和精炼跨网络和现有试验库中的"猜想"——即从业者和研究者在改编项目使其在情境中有效时关于什么导致学生改进的隐含假设

@@ -21,7 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -80,7 +81,7 @@ updated: 2026-06-04
 ## 在产学合作中的不对称性
 
 > [!warning]
-> [[Common Rule 2018]] 在[[University-Industry Collaboration|产学合作]]中制造了一个关键的制度不对称（Hall, 2025, p.265）：
+> [[Common Rule 2018]] 在[[University-Industry Collaboration|产学合作]]中制造了一个关键的制度不对称([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]])：
 
 > - **企业侧**：私营企业使用自有资金开展人类受试者研发时，**不需要**遵守 Common Rule，也不需要通过 [[Institutional Review Board|IRB]] 审查和获取知情同意。企业有更大的灵活性来决定研究方案审查和受试者保护的方式
 > - **大学侧**：当大学以企业资金开展人类受试者研究时，大学**必须**使用自己的 IRB 进行审查，并按照 Common Rule 标准获取每位受试者的知情同意。这是因为 Common Rule 将"研究"定义为"旨在发展或贡献可推广知识的系统性调查"——大学以企业资金开展的研究只要符合这一定义，即触发 IRB 和知情同意的义务

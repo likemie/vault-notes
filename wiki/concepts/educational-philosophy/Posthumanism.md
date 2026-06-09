@@ -29,6 +29,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 > - **[[Sympoiesis]] > [[Autopoiesis]]**：Haraway 以"共同制造"取代 Maturana & Varela 的"自我制造"，认为后者过度强调自我指涉性而忽视相互依存([[Argument_Amos_2022_Springer|Amos, 2022, pp.62–63]])
 > - **世界制造（world making）**：世界不是给定的，而是通过叙事、设计和实践被持续制造——Haraway 通过 [[SF (Haraway)]]（讲故事），Escobar 通过设计
 > - **自我的非固化（non-solidity of the self）**：Escobar 援引 Varela (1999) 的伦理诀窍——自我不是固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这一点，产生一种根本性的关爱心态([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
-> - **非人类行动者的能动性**：[[Actor-Network Theory|行动者网络理论]]基于后人类主义的对称性原则，假定非人类物体具有能动性（agency），不应与人类区别对待。Latour (2004) 提出「没有非人类，人类连一分钟都撑不过」。物体施加力量、产生吸引或排斥，与其他物体和人类结合并在过程中发生变化。在教育研究中，教科书、电脑、软件等非人类行动者被纳入分析，展示它们如何在课堂中施加权力（Beech & Artopoulos, 2015）
+> - **非人类行动者的能动性**：[[Actor-Network Theory|行动者网络理论]]基于后人类主义的对称性原则，假定非人类物体具有能动性（agency），不应与人类区别对待。Latour (2004) 提出「没有非人类，人类连一分钟都撑不过」。物体施加力量、产生吸引或排斥，与其他物体和人类结合并在过程中发生变化。在教育研究中，教科书、电脑、软件等非人类行动者被纳入分析，展示它们如何在课堂中施加权力([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
 >
 
 ## 理论基础

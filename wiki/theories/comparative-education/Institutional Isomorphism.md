@@ -42,7 +42,7 @@ updated: 2026-05-18
 > [!tip]
 > 制度同构（institutional isomorphism）是 DiMaggio & Powell（1983）提出的组织社会学理论：处于同一组织[[Champ|场域]]（organizational field）中的组织，在竞争之外还通过三种制度性机制——强制型、模仿型和规范型同构——在结构和实践上趋向同质化。该理论超越了对市场竞争和技术效率的单一关注，将规范、合法性和制度环境置于组织分析的中心。
 
-Hartmann（2022）将该理论应用于跨国公司[[Corporate Education|企业教育]]的分析：不同类型和不同策略的企业教育偏好不同的同构机制，而 MNCs 能否创建跨国教育空间在很大程度上取决于其能否调动这三种同构机制所对应的权威来源([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183–184]])。
+[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]将该理论应用于跨国公司[[Corporate Education|企业教育]]的分析：不同类型和不同策略的企业教育偏好不同的同构机制，而 MNCs 能否创建跨国教育空间在很大程度上取决于其能否调动这三种同构机制所对应的权威来源([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183–184]])。
 
 ---
 
@@ -117,14 +117,14 @@ Hartmann（2022）将该理论应用于跨国公司[[Corporate Education|企业�
 > - **过度强调同质化**：理论解释了组织为何趋同，但对组织如何保持差异和创新的解释力不足。并非所有处于同一[[Champ|场域]]的组织都会趋同——一些组织主动选择差异化策略来获取竞争优势
 > - **行动者能动性（agency）的缺失**：DiMaggio（1988）本人后来也承认，原理论过于强调制度压力对组织的单向塑造，忽视了行动者（如"制度创业者"）主动操纵制度环境的可能性
 > - **西方制度环境的隐含假设**：三种同构类型的经验基础主要来自美国和欧洲的组织情境——这些地区有相对成熟的专业协会、法律体系和市场机制。在制度基础设施不同的环境中（如新兴经济体），同构机制的表现可能有本质差异
-> - **权力不对称的地缘政治维度被忽略**：Hartmann（2022, p.193）的分析揭示了该理论的一个盲区——当模仿型和规范型同构在全球尺度上运作时，实际上可能承载着深层的地缘政治权力不对称（如美国管理实践通过[[Corporate Education|企业教育]]向全球扩散）。同构并非价值中立的自然过程，而是嵌入了知识和规范生产的全球不平等结构([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.194–195]])
+> - **权力不对称的地缘政治维度被忽略**：[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022, p.193)]]的分析揭示了该理论的一个盲区——当模仿型和规范型同构在全球尺度上运作时，实际上可能承载着深层的地缘政治权力不对称（如美国管理实践通过[[Corporate Education|企业教育]]向全球扩散）。同构并非价值中立的自然过程，而是嵌入了知识和规范生产的全球不平等结构([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.194–195]])
 
 ---
 
 ## 应用领域
 
 > [!success]
-> - [[Corporate Education]] — Hartmann（2022）以三种同构类型为[[Analytic Framework|分析框架]]，揭示 MNCs 企业教育的规范扩散机制：强制型（管理层权力、市场寡头）、模仿型（模仿高等教育、同行互仿）、规范型（专业认证）。三种同构的混合运作解释了什么条件下企业教育能够国际化([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.183–193]])
+> - [[Corporate Education]] — [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]以三种同构类型为[[Analytic Framework|分析框架]]，揭示 MNCs 企业教育的规范扩散机制：强制型（管理层权力、市场寡头）、模仿型（模仿高等教育、同行互仿）、规范型（专业认证）。三种同构的混合运作解释了什么条件下企业教育能够国际化([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.183–193]])
 > - [[Corporate University]] — 企业大学命名本身即为模仿型同构的经典案例：企业模仿大学以获得权威。Rademakers 的学校/学院/高级研究院三类 CU 分别对应强制型、模仿型+规范型、模仿型同构机制([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.186–189]])
 > - [[New Public Management]] — NPM 的全球扩散可被理解为强制型（政府绩效问责）与模仿型（国家间政策模仿）同构的混合运作
 

@@ -82,7 +82,7 @@ updated: 2026-06-04
 ## 在企业组织中的时间尺度定位
 
 > [!note]
-> Ramming（2025, pp.229–231）将 SRA 置于[[University-Industry Collaboration|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
+> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.229–231)]]将 SRA 置于[[University-Industry Collaboration|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
 
 从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、追踪研究进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。
 

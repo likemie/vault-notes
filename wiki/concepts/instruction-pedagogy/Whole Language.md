@@ -30,6 +30,7 @@ related_facts:
   - "[[Rose Report]]"
 related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Snook_2009]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -105,7 +106,7 @@ updated: 2026-05-18
 ## 争议与批评
 
 > [!warning] [[Visible Learning]] 对全语言的评估争议
-> O'Connor（2020）对 Hattie 评估全语言的详细审查揭示了系统性偏见：
+> [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]对 Hattie 评估全语言的详细审查揭示了系统性偏见：
 >
 > - **将[[Language Experience Approach|语言经验法]]等同于全语言**：Stahl & Miller（1989）的[[Meta-analysis|元分析]]包含 1960 年代早期和中期的多项研究——在全语言运动 1970 年代首次出现之前。Stahl 本人后来承认这种等同是"时代错误的"（Stahl, McKenna, & Pagnucco, 1994），但 Hattie 仍不加解释地将其纳入([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144-145]])
 > - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告 d=-0.65（极端异常值）时，Hattie 未对其方法或潜在作者偏见进行任何审查。Krashen（2002）后来指出多项[[Effect Size|效应量]]计算错误，认为自己的分析得出的结论"几乎完全相反"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])
@@ -114,7 +115,7 @@ updated: 2026-05-18
 
 
 > [!warning] 政治争议
-> - Snook et al.（2009, p.97）早在 VL 出版同年即指出全语言元分析中的[[Variable|变量]]界定问题："全语言教学"的操作定义在不同元分析中差异巨大——Hattie 本人承认两项元分析使用了大量重叠的研究，但"差异源于作者对某些关键研究的分类方式以及对'什么构成全语言'的[[Coding in Qualitative Research|编码]]方式"（Hattie, 2008, p.137）。这揭示了一个可能广泛存在的问题：教育变量的模糊定义使得元分析间的比较失去可靠性。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.97)]]早在 VL 出版同年即指出全语言元分析中的[[Variable|变量]]界定问题："全语言教学"的操作定义在不同元分析中差异巨大——Hattie 本人承认两项元分析使用了大量重叠的研究，但"差异源于作者对某些关键研究的分类方式以及对'什么构成全语言'的[[Coding in Qualitative Research|编码]]方式"（Hattie, 2008, p.137）。这揭示了一个可能广泛存在的问题：教育变量的模糊定义使得元分析间的比较失去可靠性。
 > - 全语言在美国成为文化战争的战场：福音派基督教团体和共和党右翼领导了 1990 年代的反全语言运动。Phyllis Schlafly 的 Eagle Forum 敦促成员推动支持语音的立法（Weaver & Brinkley, 1998，引自 O'Connor, 2020, p.147）
 > - Wolf & Poynor（2001, p.15）挑战流行的"钟摆摆动"隐喻，论证全语言的兴衰"更接近一场与霸权控制冲突密不可分的社会政治运动"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]])
 

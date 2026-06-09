@@ -79,9 +79,18 @@ related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Fredens_2015_Paideia]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Rømer_2018]]"
   - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2009]]"
+  - "[[Argument_Bates_2017_CognitionEducationTrust]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Hattie_2015_SOTLP]]"
 confidence: medium
@@ -162,16 +171,16 @@ Hattie (2015) 对 VL 的自我解释把重点从“选择排名最高的教学�
 
 ### 作为学校改进起点而非技术菜单
 
-Nordahl (2015) 在斯堪的纳维亚语境中进一步把 [[Visible Learning]] 重写成一种学校改进起点，而不是一张可直接照搬的教学技术菜单。这里被强调的核心，不是“把排行榜前几名方法搬进课堂”，而是承认不同教学做法并不等效，因此学校必须持续追问哪些做法更可能改善学生学习（Nordahl, 2015, pp.61–64）。
+[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 在斯堪的纳维亚语境中进一步把 [[Visible Learning]] 重写成一种学校改进起点，而不是一张可直接照搬的教学技术菜单。这里被强调的核心，不是“把排行榜前几名方法搬进课堂”，而是承认不同教学做法并不等效，因此学校必须持续追问哪些做法更可能改善学生学习([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–64]])。
 
 这一重写有三个要点，刚好把 [[Visible Learning]] 与 [[Evidence-Based Education]]、[[Professional Judgment]] 和学校改进实践接了起来：
 
-1. **从个人技巧转向集体改进**：焦点不只落在单个教师“会不会某种方法”，而是落在学校能否围绕学习结果形成教师协作、课堂观察和持续反思的工作方式（Nordahl, 2015, pp.61, 66–67）。
-2. **从证据排名转向概率判断**：证据不是保证课堂自动成功的配方，而是帮助教师减少“全凭习惯和直觉”的空间，提高成功概率的判断资源（Nordahl, 2015, p.63）。
-3. **从外部问责转向能力建设**：真正稀缺的不是改革口号，而是把研究知识转进课堂的中介机制，例如能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习（Nordahl, 2015, pp.65–67）。
+1. **从个人技巧转向集体改进**：焦点不只落在单个教师“会不会某种方法”，而是落在学校能否围绕学习结果形成教师协作、课堂观察和持续反思的工作方式([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61, 66–67]])。
+2. **从证据排名转向概率判断**：证据不是保证课堂自动成功的配方，而是帮助教师减少“全凭习惯和直觉”的空间，提高成功概率的判断资源([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.63]])。
+3. **从外部问责转向能力建设**：真正稀缺的不是改革口号，而是把研究知识转进课堂的中介机制，例如能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.65–67]])。
 
 > [!example]
-> 一个很贴近学校现场的例子是：与其只把“Know thy impact”写进 PPT 或墙上海报，更关键的是教师是否真的一起看学生作业、比较不同反馈方式、讨论“学生到底哪里没学会”。前者只是口号，后者才是 [[Visible Learning]] 被转成学校改进实践的形式（Nordahl, 2015, pp.66–67）。
+> 一个很贴近学校现场的例子是：与其只把“Know thy impact”写进 PPT 或墙上海报，更关键的是教师是否真的一起看学生作业、比较不同反馈方式、讨论“学生到底哪里没学会”。前者只是口号，后者才是 [[Visible Learning]] 被转成学校改进实践的形式([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
 
 ---
 
@@ -285,7 +294,7 @@ Hattie (2015) 将 VL 框架应用于高等教育，聚焦多个具体领域的�
 
 ### 元-元分析操作步骤
 
-Golovchin（2019), p.232-234）详细描述了 Hattie 元-元分析（mega-analysis）的操作步骤：
+[[Argument_Golovchin_2019_ESC|Golovchin (2019)]], p.232-234）详细描述了 Hattie 元-元分析（mega-analysis）的操作步骤：
 
 1. **确定 6 个影响源**（sources of influence）：家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
@@ -296,15 +305,15 @@ Golovchin（2019), p.232-234）详细描述了 Hattie 元-元分析（mega-analy
    - 低中效应区（d=0.15-0.4）：如班级规模（d=0.21）、家庭结构（d=0.17）
    - 期望效应区（d>0.4）：如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）、[[Formative Assessment|形成性评价]]（d=0.90）
 
-**数据来源限制**：元分析基于 1980s-2000s 三个英语国家（美国、澳大利亚、新西兰）的研究（Golovchin, 2019, p.232）。
+**数据来源限制**：元分析基于 1980s-2000s 三个英语国家（美国、澳大利亚、新西兰）的研究([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]])。
 
-**最引发争议的结论**：教师学科知识和教师资格对学业成绩的影响最小（d=0.1），而微格教学和反馈的影响最大——这导致批评者质疑其结论的正确性（Golovchin, 2019, p.233）。
+**最引发争议的结论**：教师学科知识和教师资格对学业成绩的影响最小（d=0.1），而微格教学和反馈的影响最大——这导致批评者质疑其结论的正确性([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]])。
 
 ### 学习结果的抽象化问题
 
-Qvortrup (2015) 从支持者立场为 Hattie 的元分析比较提供辩护：不同研究即便使用不同学习结果定义，仍可通过[[Effect Size|效应量]]比较相对结果，例如干预组与控制组之差，或干预结束时与基线状态之差（Qvortrup, 2015, p.27）。但这一辩护同时揭示了 VL 的概念限制：元-元分析得到的是抽象学习结果，难以说明所测量的究竟是知识与技能、社会能力、[[Surface and Deep Learning|表层学习]]、深层学习还是概念性学习（Qvortrup, 2015, p.27）。
+[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者立场为 Hattie 的元分析比较提供辩护：不同研究即便使用不同学习结果定义，仍可通过[[Effect Size|效应量]]比较相对结果，例如干预组与控制组之差，或干预结束时与基线状态之差([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。但这一辩护同时揭示了 VL 的概念限制：元-元分析得到的是抽象学习结果，难以说明所测量的究竟是知识与技能、社会能力、[[Surface and Deep Learning|表层学习]]、深层学习还是概念性学习([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。
 
-Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入研究的测验特别适合测量表层特征，对深层学习有一定测量能力，却很少有效测量学生从课堂经验中建构的概念表征（Qvortrup, 2015, p.29）。因此，VL 若要继续发展，需要一种更明确区分不同学习结果并解释其动态关系的[[Dynamic Knowledge and Learning Model]]，而不是只输出跨知识层次的总平均效应（Qvortrup, 2015, pp.29–33）。
+Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入研究的测验特别适合测量表层特征，对深层学习有一定测量能力，却很少有效测量学生从课堂经验中建构的概念表征([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.29]])。因此，VL 若要继续发展，需要一种更明确区分不同学习结果并解释其动态关系的[[Dynamic Knowledge and Learning Model]]，而不是只输出跨知识层次的总平均效应([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]])。
 
 ---
 
@@ -325,8 +334,8 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 > - Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 的行为主义理论谱系：Hattie (1987) 明确借鉴了 Glaser 的学习理论——称其为"独特贡献"，关注"初始状态与能力状态之间的转化过程"——而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名（Nielsen & Klitmøller, 2021, p.3）。这建立了 Skinner→Glaser→Hattie 的理论传承链，揭示 VL 的理论根基不仅是广义的[[Technical Rationality|技术理性]]，更具体地根植于 Skinner 的激进行为主义传统
 > - [[New Public Management]] — Visible Learning 被描述为"新管理全景监狱主义"的完美工具（Ball, 2003, p.219），使每个人都可以监视其他所有人
 > - 与更进步的教育哲学语言结合（如"学习必须被学习者分享、承诺和理解"），使其难以抵制（Hattie, 2009, p.23，引自 McKnight & Whitburn, 2020, p.34）
-> - [[Radical Constructivism]] — Rømer (2018) 论证 VL 的学习理论根基是 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]（唯我论前提），Hattie 完全接受建构主义学习观但试图在其上添加"教师中心的教学"，导致教学概念的双重瓦解（Rømer, 2018, p.7-8）
-> - [[Popper's Three Worlds Theory]] — Hattie 声称以 Popper 的三个世界理论为认识论基础，用以区分表层、深层与概念性知识；Qvortrup (2015, p.30) 认为这一框架与 Bloom 修订版四层知识和 Biggs & Collis 的 SOLO 模型之间对应关系不清，因此需要更一致的知识与学习分类。Rømer (2018, p.10-11) 则进一步论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知
+> - [[Radical Constructivism]] — [[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 VL 的学习理论根基是 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]（唯我论前提），Hattie 完全接受建构主义学习观但试图在其上添加"教师中心的教学"，导致教学概念的双重瓦解([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
+> - [[Popper's Three Worlds Theory]] — Hattie 声称以 Popper 的三个世界理论为认识论基础，用以区分表层、深层与概念性知识；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 认为这一框架与 Bloom 修订版四层知识和 Biggs & Collis 的 SOLO 模型之间对应关系不清，因此需要更一致的知识与学习分类。[[Argument_Rømer_2018_EPT|Rømer (2018, p.10-11)]] 则进一步论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知
 >
 
 ## 历史沿革
@@ -358,15 +367,15 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 
 VL 的技术前身 asTTle/e-asTTle（1999/2000 年 Hattie 受教育部委托开发的国家课程测试系统）和早期商标注册（2006 年 Auckland Uniservices 注册 VL 商标、创建 VL Labs），详见 [[Visible Learning Branding and Global Influences]]。
 
-2009 年 Hattie 出版 *Visible Learning*，迅速成为全球教育畅销书。2009 年 1 月 *Sunday STAR Times* 头版报道后引发媒体风暴，Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。详见 [[Visible Learning Branding and Global Influences]]。
+2009 年 Hattie 出版 *Visible Learning*，迅速成为全球教育畅销书。2009 年 1 月 *Sunday STAR Times* 头版报道后引发媒体风暴，[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。详见 [[Visible Learning Branding and Global Influences]]。
 
-**Hattie 对早期批评的回应**：Hattie (2010, pp.88–91) 系统性回应了 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 等批评：（1）研究质量——凡已知研究质量有影响之处均已标注，[[Meta-analysis|元分析]]方法本身处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明控制偏差是元分析核心关切；（3）d=0.40 关节点——"或许武断但绝非任意"，基于 800+ 元分析经验平均值；（4）新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]，既然平均 0.20 必然存在大负面效应才能达到均值。
+**Hattie 对早期批评的回应**：[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.88–91)]] 系统性回应了 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 等批评：（1）研究质量——凡已知研究质量有影响之处均已标注，[[Meta-analysis|元分析]]方法本身处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明控制偏差是元分析核心关切；（3）d=0.40 关节点——"或许武断但绝非任意"，基于 800+ 元分析经验平均值；（4）新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]，既然平均 0.20 必然存在大负面效应才能达到均值。
 
 ---
 
 ### 商业化与品牌扩张
 
-2009 年 Hattie 出版 VL 后，真正把它转成可销售产品的并不是大学，而是 [[Cognition Education]]。这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]在 2010 年末接手 VL 的商业平台，把研究原则重写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum；Hattie 取得 VL 相关收入版税，而新 division 在 2011 年第一年收入已接近 2M，次年接近 2.7M，利润率高于公司原先长期依赖的 payroll 业务（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）。
+2009 年 Hattie 出版 VL 后，真正把它转成可销售产品的并不是大学，而是 [[Cognition Education]]。这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]在 2010 年末接手 VL 的商业平台，把研究原则重写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum；Hattie 取得 VL 相关收入版税，而新 division 在 2011 年第一年收入已接近 2M，次年接近 2.7M，利润率高于公司原先长期依赖的 payroll 业务([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30]])。
 
 Cognition 随后没有在各国自建重型组织，而是通过 Macmillan、James Nottingham Associates、Osiris 和 Corwin 等伙伴做区域授权，使 VL 从书籍迅速变成工作坊、认证和学校改进方案的跨国品牌。2018 年 Corwin（[[Sage]] 集团）收购 VLplus，说明这套模式最后完成了从教育研究到全球专业发展产品的转手。完整商业化轨迹、商标时间线、产品体系、Hattie 第三方付款和 Cognition 财务数据，详见 [[Visible Learning Branding and Global Influences]]。
 
@@ -385,7 +394,7 @@ VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cog
 
 ### 各国政策采纳
 
-截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹（Qvortrup, 2019）；瑞典在 2010 年代中期出现了 Håkansson 所说的“教学复兴”路径，即学校改进更集中到课堂近端策略、同伴观察、教师协作和围绕教学的系统性质量工作上，VL 在这里更像重组改进议程的催化剂，而不是单一处方（[[Visible Learning in Sweden]]；Håkansson, 2015, pp.52–59）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。各国政策采纳的详细路径、制度嵌入和争议，详见 [[Visible Learning Branding and Global Influences]]。
+截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]])；瑞典在 2010 年代中期出现了 Håkansson 所说的“教学复兴”路径，即学校改进更集中到课堂近端策略、同伴观察、教师协作和围绕教学的系统性质量工作上，VL 在这里更像重组改进议程的催化剂，而不是单一处方（[[Visible Learning in Sweden]]；Håkansson, 2015, pp.52–59）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。各国政策采纳的详细路径、制度嵌入和争议，详见 [[Visible Learning Branding and Global Influences]]。
 
 #### 瑞典
 
@@ -397,7 +406,7 @@ Håkansson（2015）提供了一条与丹麦和俄罗斯都不同的瑞典路径
 
 ### 品牌对批评的免疫与制度化反弹
 
-VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eacott 的回应被期刊两天内接收发表，而 Eacott 原论文经历数月多轮评审（Eacott, 2019, p.777）。Hattie 本人已在某种程度上与 VL 保持距离，表示如果重新来过会避免"结果的暴政"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])。一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满（Eacott, 2019, p.776）。详见 [[Visible Learning Branding and Global Influences]]。
+VL 品牌对学术批评表现出显著的免疫力——[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被期刊两天内接收发表，而 Eacott 原论文经历数月多轮评审([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。Hattie 本人已在某种程度上与 VL 保持距离，表示如果重新来过会避免"结果的暴政"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])。一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]])。详见 [[Visible Learning Branding and Global Influences]]。
 
 ---
 

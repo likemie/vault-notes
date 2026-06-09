@@ -64,7 +64,7 @@ Grammar school（文法学校）是英格兰现行选择性中等教育制度中
 
 ### Ofsted 评级被混同为研究证据
 
-Bainbridge et al.（2022）的核心发现之一是：政策制定者将 [[Ofsted]] 评级（非同行评议的政府内部评估）与实证研究证据混同使用，以"文法学校被 Ofsted 评为 good/outstanding"这一事实构造"文法学校是好学校"的道德论述，从而回避了大量表明选择性教育无效或有害的研究证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–19]])。
+[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]的核心发现之一是：政策制定者将 [[Ofsted]] 评级（非同行评议的政府内部评估）与实证研究证据混同使用，以"文法学校被 Ofsted 评为 good/outstanding"这一事实构造"文法学校是好学校"的道德论述，从而回避了大量表明选择性教育无效或有害的研究证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–19]])。
 
 ### 资金分配不公
 

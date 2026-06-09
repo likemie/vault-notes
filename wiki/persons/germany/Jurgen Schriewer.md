@@ -22,7 +22,8 @@ related_methods: []
 related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -55,7 +56,7 @@ updated: '2026-06-08'
 
 
 > [!info] 进化过程 vs 语义建构
-> Schriewer 区分了两种独立的现实层面（Rappleye, 2006, p. 230, 232）：
+> Schriewer 区分了两种独立的现实层面([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230, 232]])：
 >
 > 1. **"进化过程"（evolutionary process）：** "更广阔世界"的客观变化——完全独立于人的能动性
 > 2. **"语义建构"（semantic construction）：** 人类与结构领域的互动所产生的意义制造——这是外化发生的领域
@@ -64,7 +65,7 @@ updated: '2026-06-08'
 
 
 > [!info] 双向外化
-> Rappleye (2006) 发扬了 Schriewer 框架中隐含但未充分展开的洞见——外化是双向的：不仅改革方外化到国际趋势，抵制方同样外化到"传统"、"历史"、"文化"以维护现状。Schriewer & Martinez 明确指出：
+> [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 发扬了 Schriewer 框架中隐含但未充分展开的洞见——外化是双向的：不仅改革方外化到国际趋势，抵制方同样外化到"传统"、"历史"、"文化"以维护现状。Schriewer & Martinez 明确指出：
 >
 > > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 232)
 

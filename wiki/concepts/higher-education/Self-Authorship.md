@@ -21,7 +21,8 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -33,13 +34,13 @@ updated: 2026-05-18
 > [!info] 定义
 > 自我主导性（self-authorship）是美国心理学家 [[Marcia Baxter Magolda]] 发展的学生发展理论概念，指个体根据其内在声音和核心价值观去主导自己的认知发展、自我认同和人际关系的成熟状态（[[Yajun Zheng|郑雅君]]，2023，引 Baxter Magolda & King, 2012）。一个达到自我主导性的个体能够：（1）在认知层面，基于自我选择的信念体系做出判断，而非单纯依赖外部权威；（2）在自我认同层面，形成内在整合的自我感，而非被外部期望所定义；（3）在人际关系层面，维持真实的亲密关系而不丧失自我边界。
 >
-> > "[[Goal-Controlled Mode|目标掌控模式]]"中的"掌控"一词，含有该理论所指涉的自我主导之意（郑雅君，2023）
+> > "[[Goal-Controlled Mode|目标掌控模式]]"中的"掌控"一词，含有该理论所指涉的自我主导之意([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 >
 
 ## 在郑雅君（2023）中的应用
 
 > [!success] 在[[Yajun Zheng|郑雅君]]（2023）中的应用
-> 郑雅君在建构 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 的区分时，将 Baxter Magolda 的自我主导理论列为三个理论灵感来源之一（另两个为[[Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论）（郑雅君，2023）。
+> 郑雅君在建构 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 的区分时，将 Baxter Magolda 的自我主导理论列为三个理论灵感来源之一（另两个为[[Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 >
 > 二者的对应关系：
 >

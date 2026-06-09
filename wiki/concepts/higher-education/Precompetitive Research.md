@@ -17,6 +17,7 @@ related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
+  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
@@ -27,10 +28,10 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 前竞争研究（precompetitive research）是指处于探索阶段、产出的知识产权（IP）尚不具备明确商业价值的研究活动。在[[University-Industry Collaboration|产学合作]]语境中，小型项目（通常每年 <$250K）几乎都属于前竞争性质，由一两位企业研究者与一位教授及其研究生共同开展，持续 2–3 年，产出以会议论文和出版物为主（Narayan & Spohrer, 2025, p.91）。
+> 前竞争研究（precompetitive research）是指处于探索阶段、产出的知识产权（IP）尚不具备明确商业价值的研究活动。在[[University-Industry Collaboration|产学合作]]语境中，小型项目（通常每年 <$250K）几乎都属于前竞争性质，由一两位企业研究者与一位教授及其研究生共同开展，持续 2–3 年，产出以会议论文和出版物为主([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.91]])。
 
 > [!quote]
-> "exploratory programs are mostly precompetitive in nature and the IP created has limited value"（Narayan & Spohrer, 2025, p.91）
+> "exploratory programs are mostly precompetitive in nature and the IP created has limited value"([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.91]])
 
 ---
 

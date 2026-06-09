@@ -23,7 +23,8 @@ related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -35,20 +36,20 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> 义（Rightness, righteousness, uprightness）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Ritual Propriety|propriety]]）、廉（integrity）和耻（[[Sense of Shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"（Li, 2012, p.39-40）。
+> 义（Rightness, righteousness, uprightness）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Ritual Propriety|propriety]]）、廉（integrity）和耻（[[Sense of Shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"([[Argument_Li_2012_Cambridge|Li, 2012, p.39-40]])。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> Li 列举了违反义的具体事例（Li, 2012, p.40）：
+> Li 列举了违反义的具体事例([[Argument_Li_2012_Cambridge|Li, 2012, p.40]])：
 > - 损人利己（"self-serving at the cost of others"）
 > - 承诺而不打算兑现，或直接违约
 > - 背叛友谊、欺骗、欺诈及类似行为
 
 > [!quote]
-> [[Mencius|孟子]]论义："富贵不能淫，贫贱不能移，威武不能屈——此之谓大丈夫。"这样的人所拥有的道德信念，就是义。具体的义行在不同情境中有所不同，但每个人都应该发展这样一种义感，使其在任何情境下都能知是非、行所当行（Li, 2012, p.40）。
+> [[Mencius|孟子]]论义："富贵不能淫，贫贱不能移，威武不能屈——此之谓大丈夫。"这样的人所拥有的道德信念，就是义。具体的义行在不同情境中有所不同，但每个人都应该发展这样一种义感，使其在任何情境下都能知是非、行所当行([[Argument_Li_2012_Cambridge|Li, 2012, p.40]])。
 
 ---
 
@@ -64,7 +65,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]
-> - 与[[Mencius|孟子]][[Four Sprouts|四端]]说的关联：羞恶之心 → 义（Li, 2012, pp.42-43）
+> - 与[[Mencius|孟子]][[Four Sprouts|四端]]说的关联：羞恶之心 → 义([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43]])
 > - [[Ritual Propriety]] — 四项超越德目中的另一项，常与义并提
 > - [[Sense of Shame]] — 羞耻感是触发义的内在机制
 > - [[Self-Cultivation]] — 义是修身所必须发展的道德品质

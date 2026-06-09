@@ -55,7 +55,7 @@ updated: 2026-06-01
 ## 核心机制
 
 > [!abstract]
-> Schulze-Cleven et al.（2017, pp.801–802）识别了准市场运作的三个核心环节：
+> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.801–802)]]识别了准市场运作的三个核心环节：
 
 ### 标准化产出指标的建立
 
@@ -72,7 +72,7 @@ updated: 2026-06-01
 ## 核心案例
 
 > [!example]
-> Schulze-Cleven et al.（2017, pp.801–802）讨论了三个核心案例：
+> [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.801–802)]]讨论了三个核心案例：
 
 ### 英国：从 RAE 到 REF
 

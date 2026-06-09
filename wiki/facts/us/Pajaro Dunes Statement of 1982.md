@@ -21,7 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -33,7 +34,7 @@ updated: 2026-06-04
 ## 背景
 
 > [!info]
-> Pajaro Dunes Statement（帕哈罗沙丘声明）于 1982 年由一批美国精英研究型大学共同发布，其时距 [[Bayh-Dole Act of 1980]] 通过仅两年。Bayh-Dole Act 将联邦资助研究的知识产权所有权从政府转移给大学，极大激发了[[University-Industry Collaboration|产学合作]]的制度化进程。在这一转折点上，大学群体意识到需要主动确立产学合作的基本原则，以避免大学的核心学术价值在与企业合作中被侵蚀（Hall, 2025, p.268）。
+> Pajaro Dunes Statement（帕哈罗沙丘声明）于 1982 年由一批美国精英研究型大学共同发布，其时距 [[Bayh-Dole Act of 1980]] 通过仅两年。Bayh-Dole Act 将联邦资助研究的知识产权所有权从政府转移给大学，极大激发了[[University-Industry Collaboration|产学合作]]的制度化进程。在这一转折点上，大学群体意识到需要主动确立产学合作的基本原则，以避免大学的核心学术价值在与企业合作中被侵蚀([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.268]])。
 
 ## 核心原则
 

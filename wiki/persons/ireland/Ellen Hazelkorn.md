@@ -20,7 +20,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Boyadjieva_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -31,7 +32,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Ellen Hazelkorn 是[[Global Universities Rankings|全球大学排名]]研究领域的领军学者，以其对排名如何重塑高等教育的系统分析著称。她的研究揭示了排名不仅是评估工具，更已成为驱动全球高等教育系统转型的核心力量，并在知识密集型社会中演变为"高等教育地缘政治的隐喻"（Boyadjieva, 2022, pp.125–126）。
+> Ellen Hazelkorn 是[[Global Universities Rankings|全球大学排名]]研究领域的领军学者，以其对排名如何重塑高等教育的系统分析著称。她的研究揭示了排名不仅是评估工具，更已成为驱动全球高等教育系统转型的核心力量，并在知识密集型社会中演变为"高等教育地缘政治的隐喻"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]])。
 
 ---
 
@@ -49,7 +50,7 @@ updated: '2026-06-08'
 ### 2015 — *Rankings and the Reshaping of Higher Education* (2nd ed.)
 
 - APA：Hazelkorn, E. (2015). *Rankings and the reshaping of higher education: The battle for world class excellence* (2nd ed.). Palgrave Macmillan.
-- 核心内容：通过大规模国际调查（2014 年），系统记录了全球排名如何驱动高校战略决策、组织重组和优先事项转变——84% 的高校已建立审视排名的内部机制（Boyadjieva, 2022, p.125）。
+- 核心内容：通过大规模国际调查（2014 年），系统记录了全球排名如何驱动高校战略决策、组织重组和优先事项转变——84% 的高校已建立审视排名的内部机制([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]])。
 - 思想位置：理论成熟期——建立了排名研究的经验基础和[[Analytic Framework|分析框架]]。
 - 相关概念：[[Global Universities Rankings]]
 
@@ -65,7 +66,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]
-> Hazelkorn 的核心理论贡献包括：（1）排名是"高等教育地缘政治的隐喻"——它们通过测量有限领域的基础研究，为"受益于数十年甚至数世纪积累的财富和投资"的精英大学和国家提供系统性竞争优势（Hazelkorn, 2018, p.10）；（2）"排名已成为必然"——尽管持续受到批评，排名的出现是高等教育大众化、市场化和全球化的结构性后果；（3）排名的驱动力取决于指标选择——"排名无疑驱动行为……但驱动力向何方取决于指标的选择"（Hazelkorn, 2019, p.9）（Boyadjieva, 2022, pp.126, 130, 132）。
+> Hazelkorn 的核心理论贡献包括：（1）排名是"高等教育地缘政治的隐喻"——它们通过测量有限领域的基础研究，为"受益于数十年甚至数世纪积累的财富和投资"的精英大学和国家提供系统性竞争优势（Hazelkorn, 2018, p.10）；（2）"排名已成为必然"——尽管持续受到批评，排名的出现是高等教育大众化、市场化和全球化的结构性后果；（3）排名的驱动力取决于指标选择——"排名无疑驱动行为……但驱动力向何方取决于指标的选择"（Hazelkorn, 2019, p.9）([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.126, 130, 132]])。
 
 > [!quote]
 > "rankings are here to stay" 和 "nowhere to hide"（Hazelkorn, 2014, p.23, cited in Boyadjieva, 2022, p.130）

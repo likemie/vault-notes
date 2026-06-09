@@ -33,8 +33,8 @@ updated: '2026-06-08'
 year: 2010
 doi: ""
 citation_aliases:
-  - "Gerald Grace, 2010"
-  - "Gerald Grace (2010)"
+  - "Grace, 2010"
+  - "Grace (2010)"
 ---
 ## 研究问题
 

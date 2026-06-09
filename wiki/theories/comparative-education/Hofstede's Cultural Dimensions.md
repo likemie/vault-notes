@@ -59,7 +59,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - Hofstede 的研究虽影响很大，但受到批评：批评者认为他把文化描绘得过于封闭、不可变且由国家决定，未充分反映快速变化和全球化世界中的文化流动性([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.37]])。
 > - Laursen 进一步提出一个内部风险：Hofstede 所呈现的"丹麦国家文化"可能实际上更接近受教育中产阶级文化，而非所有丹麦学生共享的文化；这可解释为什么开放、弱教师控制的教学只对强社会背景学生更可能有效([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.40]])。
-> - Ryan（2010, pp.45–46）在对[[Chinese Learner|中国学习者]]刻板印象的分析中指出，Hofstede 的框架也被用于制造关于 [[Confucian Heritage Cultures|CHC]] 文化的"文化地图绘制"（cultural cartography, P. Smith, 1996）：以高权力距离、集体主义等维度将中国学习者本质化。尽管"中国文化建设"（The Chinese Culture Connection, 1987）曾挑战 Hofstede 的普适性并建构了第五维度"儒家工作动力"（Confucian work dynamism）——涵盖持久与毅力、尊重地位差别、节俭等——Hofstede（1997）随后采纳该维度以区分他所谓的"东方心灵"与"西方心灵"（Louie, 2005, p.20, 转引自 Ryan, 2010, p.45），从而进一步坐实了本质化的文化二分法。详见 [[Argument_Ryan_2010_ChineseLearner]]。
+> - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, pp.45–46)]]在对[[Chinese Learner|中国学习者]]刻板印象的分析中指出，Hofstede 的框架也被用于制造关于 [[Confucian Heritage Cultures|CHC]] 文化的"文化地图绘制"（cultural cartography, P. Smith, 1996）：以高权力距离、集体主义等维度将中国学习者本质化。尽管"中国文化建设"（The Chinese Culture Connection, 1987）曾挑战 Hofstede 的普适性并建构了第五维度"儒家工作动力"（Confucian work dynamism）——涵盖持久与毅力、尊重地位差别、节俭等——Hofstede（1997）随后采纳该维度以区分他所谓的"东方心灵"与"西方心灵"（Louie, 2005, p.20, 转引自 Ryan, 2010, p.45），从而进一步坐实了本质化的文化二分法。详见 [[Argument_Ryan_2010_ChineseLearner]]。
 
 ## 相关研究
 

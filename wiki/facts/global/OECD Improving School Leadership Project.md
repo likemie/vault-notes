@@ -26,7 +26,8 @@ related_facts:
   - "[[PISA]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Møller_2017]]"
 confidence: high
 status: draft
 created: '2026-05-02'
@@ -35,25 +36,25 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 进入 2000 年代后，[[OECD]] 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]（Møller, 2017, p.376-377）。
+> 进入 2000 年代后，[[OECD]] 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]([[Argument_Møller_2017_EERJ|Møller, 2017, p.376-377]])。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 2006 年 [[OECD]] 启动"改进[[School Leadership|学校领导力]]"（Improving School Leadership, ISL）项目，18 个欧洲国家和 4 个非欧洲国家参与（Møller, 2017, p.376）。项目目标是为政策制定者提供信息，帮助他们制定和实施能够改进教学的政策。
+> 2006 年 [[OECD]] 启动"改进[[School Leadership|学校领导力]]"（Improving School Leadership, ISL）项目，18 个欧洲国家和 4 个非欧洲国家参与([[Argument_Møller_2017_EERJ|Møller, 2017, p.376]])。项目目标是为政策制定者提供信息，帮助他们制定和实施能够改进教学的政策。
 >
-> > 核心假设："成功的学校领导力是大规模教育改革和改善教育结果的关键"（Møller, 2017, p.376）
+> > 核心假设："成功的学校领导力是大规模教育改革和改善教育结果的关键"([[Argument_Møller_2017_EERJ|Møller, 2017, p.376]])
 >
 > 项目产出包括两卷报告：
 > - Vol. 1: *Policy and Practice*（Pont, Nusche & Moorman, 2008b）
 > - Vol. 2: *Case Studies on System Leadership*（Pont, Nusche & Hopkins, 2008a）
 >
-> 其中第二卷邀请研究者（包括 Møller 本人）从五个国家收集"最佳实践"案例，这些国家基于 [[PISA]] 等国际大规模评估的积极结果和创新性领导力分配模型入选（Møller, 2017, p.377）。
+> 其中第二卷邀请研究者（包括 Møller 本人）从五个国家收集"最佳实践"案例，这些国家基于 [[PISA]] 等国际大规模评估的积极结果和创新性领导力分配模型入选([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
 
 ## 核心建议
 
 > [!info] 核心建议
-> 项目报告提出五项政策建议（Møller, 2017, p.376-377）：
+> 项目报告提出五项政策建议([[Argument_Møller_2017_EERJ|Møller, 2017, p.376-377]])：
 >
 > 1. 吸引合适的人担任领导职位
 > 2. 明确界定和限定核心职责
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 > 4. 推行分布式领导力
 > 5. 将领导力发展视为一个连续体
 >
-> 报告还将组织隐喻从层级制科层转向实践共同体：学校应形象化为"专业人员处于持续互动中的实践共同体"（Møller, 2017, p.377）。
+> 报告还将组织隐喻从层级制科层转向实践共同体：学校应形象化为"专业人员处于持续互动中的实践共同体"([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
 
 ## 时间线
 
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> Møller（2017, p.377）提出了三条关键批评：
+> [[Argument_Møller_2017_EERJ|Møller (2017, p.377)]]提出了三条关键批评：
 >
 > - **去政治化呈现**：[[OECD]] 报告将表面上政治中立的"最佳实践"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。对当前绩效问责氛围没有提出实质性批评，权力结构未被问题化
 > - **两个矛盾话语的并存**：OECD 同时推崇分布式领导的"专业共同体"话语（去科层化）和[[New Public Management|新公共管理]]的"外部控制"话语（市场化），二者并行运作，构成一个悖论

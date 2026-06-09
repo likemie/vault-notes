@@ -71,7 +71,7 @@ updated: 2026-05-26
 
 > [!success]
 > - 在中国，考试问责的传统可追溯至 6 世纪的[[Civil Service Examination|科举制度]]，这一传统使社会广泛认同以考试衡量教育成功，教师将追求考试优秀内化为对学生未来的道德义务——而不仅是对外部制裁的回应（Feng, 1995；Wang & McLaughlin, 2025, pp.587-589）。这构成了中国[[Examination-Oriented Education|应试教育]]独特的社会心理基础。
-> - Wang & McLaughlin（2025, pp.593-600）发现，在考试问责高度制度化的中国学校中，教师普遍将教师主导教学法与完成考试目标绑定，但部分学校通过建立学校特定的发展目标找到了考试问责与 [[Learner-Centred Education|LCE]] 之间的共享空间——这表明考试问责与教育改革的关系需要情境化理解，而非一概而论（详见 [[Argument_Wang_2025_CE]]）。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp.593-600)]]发现，在考试问责高度制度化的中国学校中，教师普遍将教师主导教学法与完成考试目标绑定，但部分学校通过建立学校特定的发展目标找到了考试问责与 [[Learner-Centred Education|LCE]] 之间的共享空间——这表明考试问责与教育改革的关系需要情境化理解，而非一概而论（详见 [[Argument_Wang_2025_CE]]）。
 
 ---
 

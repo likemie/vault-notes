@@ -26,6 +26,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
@@ -60,8 +61,8 @@ updated: 2026-06-02
 
 > [!note]
 > - **2013 年**：Sum & Jessop 在 Towards a Cultural Political Economy 中系统提出文化政治经济学框架，作为对传统政治经济学忽略文化维度的回应，同时也区别于后结构主义完全消解物质性的倾向([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])。
-> - **2018 年**：Moisio（2018）在 Geopolitics of the [[Knowledge-Based Economy]] 中运用 Jessop 的想象概念分析[[Knowledge-Based Economization|知识经济化]]的空间维度，提出 [[Hub and Flow Imaginaries|枢纽与流动想象]]，将文化政治经济学的履行性想象逻辑引入地缘政治分析（Moisio, 2022, pp.26–27）。
-> - **2022 年**：Erfurth（2022）将文化政治经济学应用于[[International Education Hubs|国际教育枢纽]]的比较分析，从中导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，提供了文化政治经济学在高等教育研究中最系统的实证应用之一([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 205–211]])。
+> - **2018 年**：Moisio（2018）在 Geopolitics of the [[Knowledge-Based Economy]] 中运用 Jessop 的想象概念分析[[Knowledge-Based Economization|知识经济化]]的空间维度，提出 [[Hub and Flow Imaginaries|枢纽与流动想象]]，将文化政治经济学的履行性想象逻辑引入地缘政治分析([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
+> - **2022 年**：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]]将文化政治经济学应用于[[International Education Hubs|国际教育枢纽]]的比较分析，从中导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，提供了文化政治经济学在高等教育研究中最系统的实证应用之一([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 205–211]])。
 
 ---
 
@@ -93,9 +94,9 @@ updated: 2026-06-02
 
 > [!success]
 > - [[International Education Hubs]] — [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 从文化政治经济学导出的[[Cultural Diplomacy|文化外交]]与政治经济两个维度，已成为分析教育枢纽的核心框架。
-> - [[Hub and Flow Imaginaries]] — Moisio (2022) 运用文化政治经济学的想象履行性逻辑，论证枢纽与流动想象不仅描述、更在制造全球空间不平等。
+> - [[Hub and Flow Imaginaries]] — [[Argument_Moisio_2022_Springer|Moisio (2022)]] 运用文化政治经济学的想象履行性逻辑，论证枢纽与流动想象不仅描述、更在制造全球空间不平等。
 > - [[Cultural Diplomacy]] — 文化外交作为文化政治经济学中符号维度在高等教育中的具体运作形式，与文化政治经济学共享对符号和话语构成性力量的重视。
-> - [[Argument_Schulze-Cleven_2017_HighEduc]] — Schulze-Cleven et al.（2017）大量引用 Sum & Jessop（2013）的 CPE 框架，将其作为理解高等教育竞争转型中符号与物质相互构成的核心理论资源之一，并讨论 CPE 与制度主义、马克思主义和新封建主义分析的互补性([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798, 807–809]])。
+> - [[Argument_Schulze-Cleven_2017_HighEduc]] — [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]大量引用 Sum & Jessop（2013）的 CPE 框架，将其作为理解高等教育竞争转型中符号与物质相互构成的核心理论资源之一，并讨论 CPE 与制度主义、马克思主义和新封建主义分析的互补性([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798, 807–809]])。
 
 ---
 

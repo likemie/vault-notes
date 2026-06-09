@@ -36,10 +36,10 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]
-> Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从规训社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征（Deleuze, 1992, pp.4, 7; Thompson et al., 2022, pp.221–222）。
+> Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从规训社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征(Deleuze, 1992, pp.4, 7; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
 > [!quote]
-> "Disciplinary forms of social control are increasingly replaced by a 'progressive and dispersed installation of a new system of domination' (Deleuze, 1992, 7), which installs 'ultrarapid forms of free-floating control' (ibid., 4)."（Thompson et al., 2022, pp.221–222）
+> "Disciplinary forms of social control are increasingly replaced by a 'progressive and dispersed installation of a new system of domination' (Deleuze, 1992, 7), which installs 'ultrarapid forms of free-floating control' (ibid., 4)."([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
 > 
 > 规训形式的社会控制日益被一种新的支配体系的渐进和分散式安装所取代，这种体系安装了超快形式的自由浮动控制。
 
@@ -49,7 +49,7 @@ updated: 2026-06-02
 
 ### 调制取代模具
 
-Deleuze 用**模具**（mold）和**调制**（modulation）的隐喻来区分两种权力运作方式（Deleuze, 1992, p.4; Thompson et al., 2022, p.222）：
+Deleuze 用**模具**（mold）和**调制**（modulation）的隐喻来区分两种权力运作方式(Deleuze, 1992, p.4; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])：
 
 - **规训社会 = 模具**：每一次进入一个机构（学校→工厂→军营）都是一次成型——你被塑造成特定的形态，然后在毕业或退役时被释放
 - **控制社会 = 调制**：像一种永远在变化的铸模，参数持续调整——你从未被释放，只是从一个调制进入另一个调制
@@ -66,11 +66,11 @@ Deleuze 论证规训社会中的封闭机构正在被转化为**持续的网络*
 > 
 > 家庭、学校、军队、工厂不再是趋向于一个所有者（国家或私人权力）的、截然不同的模拟空间，而是变成了单一企业的、可变形且可转化的编码图形，而这个企业现在只有股东。
 
-在教育领域，这表现为大学和企业通过合作学习项目、服务学习（service learning）等方式被连接起来——传统上分离的机构空间被打通和调制（Thompson et al., 2022, p.222）。
+在教育领域，这表现为大学和企业通过合作学习项目、服务学习（service learning）等方式被连接起来——传统上分离的机构空间被打通和调制([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])。
 
 ### 数据化的控制
 
-Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 Deleuze 的控制社会进一步定性为**数据化的**（data-based）——控制和调制通过数字数据及其持续流动来运作。量化不是中立的表征工具，而是构成网络的参照点和推动力，利益相关者通过数字来相互关联（Thompson et al., 2022, p.222）。
+Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 Deleuze 的控制社会进一步定性为**数据化的**（data-based）——控制和调制通过数字数据及其持续流动来运作。量化不是中立的表征工具，而是构成网络的参照点和推动力，利益相关者通过数字来相互关联([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])。
 
 ## 在高等教育中的应用
 

@@ -23,7 +23,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -51,7 +52,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] [[Reflexivity|反思性]]实践
-> Schön 将专业实践的反思过程分为两个层次（Qvortrup, 2019, p.6）：
+> Schön 将专业实践的反思过程分为两个层次([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])：
 >
 > - **实践中的反思（reflection-in-practice）**：对当前实践的持续自我评估过程——"我应该改变或修正我正在此刻做的事情吗？"
 > - **对实践的反思（reflection-on-practice）**：实践之后或之外（如与同事一起）的反思——考虑实践是否应在方法上改变、实践者是否应向新方向进修
@@ -63,7 +64,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Professional Judgment]] — Qvortrup (2019) 将 Schön 的[[Reflexivity|反思性]]实践模型作为专业判断的核心组成部分
+> - [[Professional Judgment]] — [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 将 Schön 的[[Reflexivity|反思性]]实践模型作为专业判断的核心组成部分
 > - [[Technical Rationality]] — Schön 对这一概念的批判已被教育研究者广泛援引
 > - 组织学习理论 — 与 Chris Argyris 共同提出双环学习（double-loop learning）等概念
 
@@ -72,4 +73,4 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 其工作立基于 Dewey 的[[Pragmatic Paradigm|实用主义]]传统——强调实践中的探究和反思
 > - 1983 年著作深刻影响了教育、社会工作、护理和管理等专业领域的实践理论化
-> - Qvortrup（2019）将 Schön 的反思实践概念与 Simon 的[[Bounded Rationality|有限理性]]理论并置，构建了[[Professional Judgment|专业判断]]的整合框架
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将 Schön 的反思实践概念与 Simon 的[[Bounded Rationality|有限理性]]理论并置，构建了[[Professional Judgment|专业判断]]的整合框架

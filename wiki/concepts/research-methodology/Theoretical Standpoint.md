@@ -24,7 +24,8 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -36,18 +37,18 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 理论立场（theoretical standpoint）是[[Qualitative Research|质性研究]]中运用理论的一种方式：研究者以某一[[Theoretical Perspective|理论视角]]作为整体导向透镜（orienting lens），围绕性别、阶级、种族或其他边缘群体议题来塑造研究。这一视角成为变革性视角（transformative perspective），旨在带来改变、提升未被充分代表群体的声音、揭示个体隐藏的假设。它塑造所提出的问题，指导数据如何被收集和分析，并提供行动或变革的呼吁（Creswell & Creswell, 2022, p.65）。
+> 理论立场（theoretical standpoint）是[[Qualitative Research|质性研究]]中运用理论的一种方式：研究者以某一[[Theoretical Perspective|理论视角]]作为整体导向透镜（orienting lens），围绕性别、阶级、种族或其他边缘群体议题来塑造研究。这一视角成为变革性视角（transformative perspective），旨在带来改变、提升未被充分代表群体的声音、揭示个体隐藏的假设。它塑造所提出的问题，指导数据如何被收集和分析，并提供行动或变革的呼吁([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])。
 
 > [!quote]
-> "Researchers increasingly use a theoretical standpoint in qualitative research to provide an overall orienting lens for the study questions about gender, class, and race (or other issues of marginalized groups). This lens becomes a transformative perspective to bring about change, lift the voices of underrepresented groups, and uncover largely hidden assumptions of individuals."（Creswell & Creswell, 2022, p.65）
+> "Researchers increasingly use a theoretical standpoint in qualitative research to provide an overall orienting lens for the study questions about gender, class, and race (or other issues of marginalized groups). This lens becomes a transformative perspective to bring about change, lift the voices of underrepresented groups, and uncover largely hidden assumptions of individuals."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])
 
 ## 概念演变
 
-1980 年代的[[Qualitative Research|质性研究]]通过拓宽研究范围并纳入理论透镜而发生了变革。理论立场引导研究者关注重要议题（如边缘化、赋权、压迫、权力）和研究对象（如女性、低社会经济地位群体、少数族裔和种族群体、性取向、残障），也指示研究者如何在质性研究中定位自己（如基于个人、文化和历史背景坦陈偏见），以及如何在最终报告中呈现（如通过与参与者合作避免进一步边缘化个体），并提出改善生活和社会的变革建议。在批判[[Ethnography|民族志]]中，研究者从一开始就以某一理论指导研究，该理论强调人们需要解放或批判压迫（Thomas, 1993）（Creswell & Creswell, 2022, p.65）。
+1980 年代的[[Qualitative Research|质性研究]]通过拓宽研究范围并纳入理论透镜而发生了变革。理论立场引导研究者关注重要议题（如边缘化、赋权、压迫、权力）和研究对象（如女性、低社会经济地位群体、少数族裔和种族群体、性取向、残障），也指示研究者如何在质性研究中定位自己（如基于个人、文化和历史背景坦陈偏见），以及如何在最终报告中呈现（如通过与参与者合作避免进一步边缘化个体），并提出改善生活和社会的变革建议。在批判[[Ethnography|民族志]]中，研究者从一开始就以某一理论指导研究，该理论强调人们需要解放或批判压迫（Thomas, 1993）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.65]])。
 
 ## 核心视角
 
-[[Qualitative Research|质性研究]]中可用的几种主要理论立场视角包括（Creswell & Creswell, 2022, pp.65–66）：
+[[Qualitative Research|质性研究]]中可用的几种主要理论立场视角包括([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.65–66]])：
 
 > [!abstract]
 > - **女性主义视角（Feminist perspectives）**：视女性的压迫性处境及其制度框架为问题所在，[[Research Problem|研究议题]]包括改变政策以实现社会正义或消除女性的压迫性状况（Olesen, 2000）。

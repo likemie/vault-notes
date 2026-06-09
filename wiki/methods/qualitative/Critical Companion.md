@@ -42,7 +42,7 @@ updated: 2026-05-21
 ## 研究程序
 
 > [!example]
-> Zelinka（2022, pp.254-260）对 [[Single-Case Design|SCD]] 的批判性伴随分析遵循以下步骤：
+> [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.254-260)]]对 [[Single-Case Design|SCD]] 的批判性伴随分析遵循以下步骤：
 
 1. **文本汇编**：收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.255-257]])
 2. **框架结构化**：按发布时间排列，将各框架的技能和素养定义按聚类和定义进行结构化呈现，识别跨框架的共同模式和术语差异([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.254-258]])

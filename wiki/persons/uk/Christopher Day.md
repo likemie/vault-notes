@@ -16,7 +16,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Møller_2017]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
@@ -32,13 +33,13 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Day 领导下的 ISSPP 研究以对**情境敏感**（context-sensitive）为方法论指导原则，其目标不是生产另一个去情境化的"成功领导者应该做什么"清单，而是理解在什么文化、社会和政治条件下领导力被认为是成功的（Møller, 2017, p.379）。
+> Day 领导下的 ISSPP 研究以对**情境敏感**（context-sensitive）为方法论指导原则，其目标不是生产另一个去情境化的"成功领导者应该做什么"清单，而是理解在什么文化、社会和政治条件下领导力被认为是成功的([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])。
 >
-> ISSPP 对"成功"的定义涵盖两个维度（Møller, 2017, p.379）：
+> ISSPP 对"成功"的定义涵盖两个维度([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])：
 > - 学生学业成绩的提高
 > - 学生福祉、公民意识和价值观的改善
 >
-> 在 ISSPP 研究中，校长的教育愿景价值观在跨国家比较中显示出"相似性多于差异性"（Møller, 2017, p.379-380）。
+> 在 ISSPP 研究中，校长的教育愿景价值观在跨国家比较中显示出"相似性多于差异性"([[Argument_Møller_2017_EERJ|Møller, 2017, p.379-380]])。
 
 ## 主要贡献
 
@@ -60,4 +61,4 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - ISSPP 项目持续扩展到新国家，形成了迄今为止最全面的跨国[[School Leadership|学校领导力]]研究网络
 > - 影响了 [[OECD]] 将学校领导力列为教育政策优先议程的方向
-> - Møller（2017）在肯定 ISSPP 贡献的同时也提出方法论反思，指出其对社会权力结构分析的不足
+> - [[Argument_Møller_2017_EERJ|Møller (2017)]]在肯定 ISSPP 贡献的同时也提出方法论反思，指出其对社会权力结构分析的不足

@@ -24,7 +24,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -33,7 +34,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Niklas Luhmann (1927–1998) 是德国社会学家，社会[[Luhmann's Systems Theory|系统理论]]（Social Systems Theory）的创始人，20 世纪最具影响力的社会理论家之一。其理论核心是区分社会系统与心理系统，论证这两个系统不共享[[Coding in Qualitative Research|编码]]、彼此不可透明观察（Larsen, 2019, p.4）。
+> Niklas Luhmann (1927–1998) 是德国社会学家，社会[[Luhmann's Systems Theory|系统理论]]（Social Systems Theory）的创始人，20 世纪最具影响力的社会理论家之一。其理论核心是区分社会系统与心理系统，论证这两个系统不共享[[Coding in Qualitative Research|编码]]、彼此不可透明观察([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。
 
 ## 生平与职涯
 
@@ -52,11 +53,11 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Larsen (2019) 在其论文中引用和阐述了 Luhmann 的以下核心思想：
+> [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 在其论文中引用和阐述了 Luhmann 的以下核心思想：
 >
-> - **盲点（Blinder Fleck）** — "Der Beobachter kann sich selbst beim Beobachten nicht sehen"（观察者在观察时无法看见自身）（Luhmann, 1997, p.69）。每一次观察都基于一个盲点：看到某物的条件是你建立了看见与看不见之间的区分（Larsen, 2019, p.10）
+> - **盲点（Blinder Fleck）** — "Der Beobachter kann sich selbst beim Beobachten nicht sehen"（观察者在观察时无法看见自身）（Luhmann, 1997, p.69）。每一次观察都基于一个盲点：看到某物的条件是你建立了看见与看不见之间的区分([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 > - **对不可知的无知** — 一个个体完全不可能知道自己不知道什么（es ist völlig unrealistisch, dass ein Individuum weiß, was es nicht weiß）（Luhmann, 1997, p.39; 引自 Larsen, 2019, p.10）
-> - **社会系统与心理系统的不可通约** — 社会沟通系统（教师、[[School Leadership|学校领导]]、研究者、教育政策制定者）永远无法观察个体学生/儿童的心理系统。这两个系统不共享[[Coding in Qualitative Research|编码]]，彼此不透明（Larsen, 2019, p.4）
+> - **社会系统与心理系统的不可通约** — 社会沟通系统（教师、[[School Leadership|学校领导]]、研究者、教育政策制定者）永远无法观察个体学生/儿童的心理系统。这两个系统不共享[[Coding in Qualitative Research|编码]]，彼此不透明([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])
 >   > 例：在教育情境中，教师看到的是学生外显的行为和表达，但永远无法直接观察学生的心理过程——学生的思考、感受、大脑中的突触连接。教师的社会沟通系统与学生个人的心理系统之间存在根本的不可通约性。
 
 ## 主要贡献
@@ -69,9 +70,9 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> Larsen (2019) 将 Luhmann 的概念系统应用于教育研究，论证：
+> [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 将 Luhmann 的概念系统应用于教育研究，论证：
 > - VL 范式因忽视 Luhmann 的盲点论断而陷入"无边界的超积极可见性意识形态"
 > - 教育系统的社会沟通逻辑与学生的心理系统逻辑之间存在根本性鸿沟，无法通过[[Effect Size|效应量]]和[[Visible Learning|可见学习]]策略来弥合
-> - Luhmann 的洞见为理解教育中"观看中的盲视"提供了理论基础（Larsen, 2019, p.10）
+> - Luhmann 的洞见为理解教育中"观看中的盲视"提供了理论基础([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 >
 > Luhmann 的理论还通过 Qvortrup (2019) 被用于对 VL 的辩护（以[[Structural Coupling|结构耦合]]概念论证教学与学习之间的非因果链接），与 Larsen 的用法形成有趣的对比。

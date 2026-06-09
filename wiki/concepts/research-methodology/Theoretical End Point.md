@@ -19,7 +19,8 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -31,14 +32,14 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 理论终点（theoretical end point）是[[Qualitative Research|质性研究]]中运用理论的第三种方式：区别于演绎使用和[[Theoretical Standpoint|理论立场]]，质性研究以理论模型、理论或概念模型作为研究终点。这是质性研究归纳过程的自然终点——从数据出发，上升到广泛主题，再归纳为一般化的模型或理论（Creswell & Creswell, 2022, p.66; Punch, 2014）。
+> 理论终点（theoretical end point）是[[Qualitative Research|质性研究]]中运用理论的第三种方式：区别于演绎使用和[[Theoretical Standpoint|理论立场]]，质性研究以理论模型、理论或概念模型作为研究终点。这是质性研究归纳过程的自然终点——从数据出发，上升到广泛主题，再归纳为一般化的模型或理论([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.66]]; Punch, 2014)。
 
 > [!quote]
-> "Qualitative research is an inductive process building from data, to broad themes, and to a generalized model or theory."（Creswell & Creswell, 2022, p.66）
+> "Qualitative research is an inductive process building from data, to broad themes, and to a generalized model or theory."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.66]])
 
 ## 研究逻辑
 
-以理论为终点的研究遵循归纳逻辑（见图 3.5）：研究者从收集参与者详细信息开始 → 将信息组织为类别或主题 → 将主题发展为广泛的模式、理论或概括 → 与个人经验或已有文献进行比较（Creswell & Creswell, 2022, pp.66–67）。
+以理论为终点的研究遵循归纳逻辑（见图 3.5）：研究者从收集参与者详细信息开始 → 将信息组织为类别或主题 → 将主题发展为广泛的模式、理论或概括 → 与个人经验或已有文献进行比较([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.66–67]])。
 
 > [!info] 归纳逻辑的五个阶段
 > 1. 研究者收集信息（如访谈、观察）
@@ -49,7 +50,7 @@ updated: 2026-05-31
 
 ## 主要形式
 
-主题和类别发展为模式、理论或概括的具体方式因研究设计而异（Creswell & Creswell, 2022, p.67）：
+主题和类别发展为模式、理论或概括的具体方式因研究设计而异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.67]])：
 
 - **案例研究**：Stake (1995) 在命题性概括（研究者的解释和主张总结）之外，还加入了研究者的个人经验，称为"[[Naturalistic Generalization|自然主义概括]]"（naturalistic generalizations, p.86）。
 - **[[Grounded Theory|扎根理论]]**：研究者计划从参与者信息中发现并推进一个植根于数据的理论（Strauss & Corbin, 1998）。

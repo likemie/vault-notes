@@ -58,7 +58,7 @@ updated: 2026-05-18
 > [!note]
 > - **Pawson（2006）**：在 Evidence-Based Policy: A Realist Perspective 中提出变革理论概念，作为实在论评估的核心工具——强调政策评估应打开因果机制的"黑箱"
 > - **Radaelli et al.（2013）**：分析欧盟委员会和理事会如何通过传播"因果叙事"（causal narratives）在多个政策领域获得影响力([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])
-> - **Rambla（2022）**：将变革理论概念与 Le Galès 的政策工具框架整合，论证其是[[Performance Indicators|绩效指标]]的四个构成维度之一（p.165–166, 170–172）
+> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]**：将变革理论概念与 Le Galès 的政策工具框架整合，论证其是[[Performance Indicators|绩效指标]]的四个构成维度之一（p.165–166, 170–172）
 
 ## 核心要素
 

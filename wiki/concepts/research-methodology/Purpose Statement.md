@@ -35,7 +35,8 @@ related_methods:
   - "[[Exploratory Sequential Design]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -47,9 +48,9 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么（Locke et al., 2014; Creswell & Creswell, 2022, p.123）。在健康科学领域，更常用的术语是"研究目标"（study aim）。
+> 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么(Locke et al., 2014; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.123]])。在健康科学领域，更常用的术语是"研究目标"（study aim）。
 
-目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。Creswell & Creswell (2022, p.123) 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
+目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.123)]] 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
 
 > [!quote]
 > "The purpose statement indicates why the researcher conducts the study and what the study intends to accomplish."（Locke et al., 2014; 引自 Creswell & Creswell, 2022, p.123）
@@ -59,16 +60,16 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身（Creswell & Creswell, 2022, pp.123–124）。
+> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
-> **目的陈述 vs 研究问题（Research Questions）**：研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含假设（Creswell & Creswell, 2022, p.124）。
+> **目的陈述 vs 研究问题（Research Questions）**：研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含假设([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
 
 ## 核心要素
 
 ### 质性目的陈述
 
-质性目的陈述（qualitative purpose statement）的核心是传达一项[[Qualitative Research|质性研究]]要探索或理解的某一个[[Central Phenomenon|核心现象]]。好的质性目的陈述包含以下要素（Creswell & Creswell, 2022, pp.125–128）：
+质性目的陈述（qualitative purpose statement）的核心是传达一项[[Qualitative Research|质性研究]]要探索或理解的某一个[[Central Phenomenon|核心现象]]。好的质性目的陈述包含以下要素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.125–128]])：
 
 > [!abstract] 质性目的陈述七要素
 > 1. 使用"目的""意图""研究目标"等词语引入，作为独立的句子或段落呈现。
@@ -118,11 +119,11 @@ updated: 2026-05-31
 > | 非方向性语言 | 全文未使用 successful、positive 等方向性词语；聚焦于认同"如何被塑造"而非"是否成功塑造" |
 
 >
-> Creswell & Creswell (2022, pp.128–129) 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
+> [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, pp.128–129)]] 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
 
 ### 量化目的陈述
 
-量化目的陈述（quantitative purpose statement）的语言和焦点与质性目的陈述有显著不同，核心在于变量之间的关系或群体之间的比较。好的量化目的陈述包含以下要素（Creswell & Creswell, 2022, pp.130–133）：
+量化目的陈述（quantitative purpose statement）的语言和焦点与质性目的陈述有显著不同，核心在于变量之间的关系或群体之间的比较。好的量化目的陈述包含以下要素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.130–133]])：
 
 > [!abstract] 量化目的陈述要素
 > 1. 使用"目的""意图""目标"等信号词引入。
@@ -165,11 +166,11 @@ updated: 2026-05-31
 > | 参与者与分析单元 | 在美国选定州立成人矫正机构中任教的认证教育者 |
 > | 关键变量定义 | 工作动机的六个 EWCS 因素逐一列出（个人挑战与发展潜力、竞争性、成功的期望与回报、工作压力容忍度、保守安全感、在不确定性中寻求回报的意愿 vs 回避） |
 >
-> Creswell & Creswell (2022, p.133) 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
+> [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.133)]] 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
 
 ### 混合方法目的陈述
 
-[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
+[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.134–137]])：
 
 > [!abstract] 混合方法目的陈述四要素
 > 1. **总体意图**：研究在内容层面最终要达成什么，最好具有实践价值。

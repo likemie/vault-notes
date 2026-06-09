@@ -44,7 +44,7 @@ updated: '2026-05-18'
 >
 > 合法化不是一个纯粹的认识论过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
 >
-> Bainbridge et al.（2022）将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
+> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
 >
 
 ## 核心命题：四个合法化层次
@@ -78,7 +78,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> Bainbridge et al.（2022）提供的唯一来源是 Van Leeuwen（2007）的原始框架。论文未追溯该理论的后续发展或修订。该条目的知识范围因此受限于此单一来源。
+> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架。论文未追溯该理论的后续发展或修订。该条目的知识范围因此受限于此单一来源。
 >
 > 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone & Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9]])。
 >

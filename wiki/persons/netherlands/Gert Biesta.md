@@ -33,6 +33,10 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Rømer_2018]]"
+  - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
@@ -84,10 +88,10 @@ updated: '2026-06-08'
 > - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 Dewey 的交易认识论对教育研究的意涵
 > - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和实践论维度的三重缺陷
 > - [[Value-Based Education]] — 提出价值而非证据应构成教育实践的基础
-> - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象（Larsen, 2019, p.2 引用）
+> - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2 引用]])
 > - [[Complexity Reduction]] — 引入概念，解释为何在非决定论系统中事物仍能"运作"，将其定义为政治行为
 > - **教育的目的三维框架**（Qualification / Socialisation / Subjectification）— 在 *Good Education in an Age of Measurement* (2010a) 中提出
-> - **教育作为开放、递归、符号系统的理论** — Wrigley & McCusker (2019, p. 123) 援引 [[Argument_Biesta_2010_SPE|Biesta (2010, p. 496)]] 的关键区分：教育涉及"开放、递归、符号"系统，线性机械模型无法反映。这一本体论分析被 Wrigley 用作批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的，将社会情境视为生物现象来对待也是不科学的"（p. 123）
+> - **教育作为开放、递归、符号系统的理论** — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p. 123)]] 援引 [[Argument_Biesta_2010_SPE|Biesta (2010, p. 496)]] 的关键区分：教育涉及"开放、递归、符号"系统，线性机械模型无法反映。这一本体论分析被 Wrigley 用作批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的，将社会情境视为生物现象来对待也是不科学的"（p. 123）
 
 ## 思想发展与影响
 
@@ -98,10 +102,10 @@ updated: '2026-06-08'
 
 
 > [!note-] 在 [[Evidence-Based Education|EBE]] 批判中的影响
-> - Rømer (2018, p.8) 将 Biesta 的被动性概念用作对抗 Hattie [[Visible Learning]] 的理论资源：在 Hattie 的世界中，被动性被完全排除（"passive was not a word in the vocabulary of these accomplished teachers", Hattie, 2009, pp.28–29），而这构成了一种与整个西方教育传统的断裂——从 Dewey 到 Kant 到 Arendt，想象力和判断力（及其被动面）是教育行动的核心
-> - Wrigley & McCusker (2019) 和 Wrigley (2018) 在方法论批判中广泛援引 Biesta 的开放/递归/符号[[Luhmann's Systems Theory|系统理论]]——标志着 Biesta 的哲学框架从独立的[[Philosophical Analysis in Education|哲学分析]]进入经验导向的方法论批判
-> - Cowen (2019) 的制度批判与 Biesta 的哲学批判形成互补：Biesta 论证 EBE 在哲学上是错的，Cowen 论证它在制度上被选择并非因为对
-> - Bainbridge et al.（2022）在分析英国议会选择性教育政策辩论时，援引了 Biesta（2007a, 2010）对 EBE 的哲学批判作为理论基础，讨论证据在教育政策制定中的实际角色([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 7]])——将 Biesta 的批判引入道德侧步的经验研究
+> - [[Argument_Rømer_2018_EPT|Rømer (2018, p.8)]] 将 Biesta 的被动性概念用作对抗 Hattie [[Visible Learning]] 的理论资源：在 Hattie 的世界中，被动性被完全排除（"passive was not a word in the vocabulary of these accomplished teachers", Hattie, 2009, pp.28–29），而这构成了一种与整个西方教育传统的断裂——从 Dewey 到 Kant 到 Arendt，想象力和判断力（及其被动面）是教育行动的核心
+> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 和 Wrigley (2018) 在方法论批判中广泛援引 Biesta 的开放/递归/符号[[Luhmann's Systems Theory|系统理论]]——标志着 Biesta 的哲学框架从独立的[[Philosophical Analysis in Education|哲学分析]]进入经验导向的方法论批判
+> - [[Argument_Cowen_2019_ERE|Cowen (2019)]] 的制度批判与 Biesta 的哲学批判形成互补：Biesta 论证 EBE 在哲学上是错的，Cowen 论证它在制度上被选择并非因为对
+> - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]在分析英国议会选择性教育政策辩论时，援引了 Biesta（2007a, 2010）对 EBE 的哲学批判作为理论基础，讨论证据在教育政策制定中的实际角色([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 7]])——将 Biesta 的批判引入道德侧步的经验研究
 
 
 > [!note-] 学术对话与影响

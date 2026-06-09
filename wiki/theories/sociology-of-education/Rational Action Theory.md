@@ -21,7 +21,8 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -44,18 +45,18 @@ updated: 2026-05-18
 > - **首属效应（Primary Effects）**：家庭背景通过影响学生的学业能力（认知能力、学习成绩等）间接影响教育获得——优势家庭子女成绩更好，因此升学更多
 > - **次属效应（Secondary Effects）**：在控制学业能力的条件下，家庭背景仍然直接影响教育选择——即使成绩相同，优势家庭子女更倾向于选择升学，因为其家庭更关注维持阶层地位
 >
-> Breen & Goldthorpe（1997）的 RAT 模型集中解释了次属效应的机制（郑雅君，2023）
+> Breen & Goldthorpe（1997）的 RAT 模型集中解释了次属效应的机制([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 
 > [!abstract] 相对风险规避机制
-> Breen & Goldthorpe（1997）的核心机制（郑雅君，2023）：
+> Breen & Goldthorpe（1997）的核心机制([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])：
 > - 各阶层家庭的教育决策并非追求最大化回报，而是以**避免向下流动**为首要目标
 > - 优势家庭：向下流动的风险更大 → 更倾向于选择高风险高回报的教育路径（升学）
 > - 弱势家庭：维持现状已属不易 → 对教育投资的预期收益评估更保守
 
 
 > [!abstract] 工具理性假设
-> RAT 假设行动者基于工具性效用计算（手段-目的理性）做决策，追求以最小成本达成目的（郑雅君，2023）。这一假设正是后续文化社会学批评的焦点。
+> RAT 假设行动者基于工具性效用计算（手段-目的理性）做决策，追求以最小成本达成目的([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。这一假设正是后续文化社会学批评的焦点。
 >
 
 ## 局限与批评

@@ -17,6 +17,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Bolton_2017_ArchPsych]]"
   - "[[Argument_Fredens_2015_Paideia]]"
 confidence: medium
 status: draft
@@ -27,35 +28,35 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 工作记忆（Working Memory）是[[Executive Function|执行功能]]（executive-function）中[[Updating and Monitoring|更新与监控]]成分的核心内容，指个体动态操纵和保持信息的能力（Bolton & Hattie, 2017, p.5）。
+> 工作记忆（Working Memory）是[[Executive Function|执行功能]]（executive-function）中[[Updating and Monitoring|更新与监控]]成分的核心内容，指个体动态操纵和保持信息的能力([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])。
 >
-> 在 Miyake 的EF 统一性与多样性框架中，工作记忆表征的更新与监控（updating and monitoring of working memory representations）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
+> 在 Miyake 的EF 统一性与多样性框架中，工作记忆表征的更新与监控（updating and monitoring of working memory representations）被列为 EF 的三个基本成分之一([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
 
 ## 核心特征
 
 > [!abstract] 核心特征
-> - **容量有限** — 无论能力高低，个体在任何时刻可保持的信息条目数量是有限的；成年人在工作记忆中一次最多可保持三到四个信息条目（Bolton & Hattie, 2017, p.5，引用 Vogel & Machizawa, 2004）
-> - **依赖[[Prefrontal Cortex|前额叶皮层]]** — 特别是背外侧前额叶皮层（dlPFC）与视觉空间工作记忆密切相关（Bolton & Hattie, 2017, p.8）
+> - **容量有限** — 无论能力高低，个体在任何时刻可保持的信息条目数量是有限的；成年人在工作记忆中一次最多可保持三到四个信息条目([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5,引用 Vogel & Machizawa, 2004]])
+> - **依赖[[Prefrontal Cortex|前额叶皮层]]** — 特别是背外侧前额叶皮层（dlPFC）与视觉空间工作记忆密切相关([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])
 
 ## 测量方式
 
 > [!info] 测量方式
-> - **非语言面孔任务（Non-verbal Face Task）** — 要求参与者在脑海中保持一个面部图像，在定时延迟后对其做出反应（Bolton & Hattie, 2017, p.5）
-> - **空间自排序任务（Spatial Self-ordered Task）** — 需按模式获取隐藏令牌并以递增难度排序（Bolton & Hattie, 2017, p.5）
-> - **噪声书任务（Noisy Book Task）** — 儿童按下按钮发出不同动物声音，需复述不同声音序列（Bolton & Hattie, 2017, p.11）
+> - **非语言面孔任务（Non-verbal Face Task）** — 要求参与者在脑海中保持一个面部图像，在定时延迟后对其做出反应([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
+> - **空间自排序任务（Spatial Self-ordered Task）** — 需按模式获取隐藏令牌并以递增难度排序([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
+> - **噪声书任务（Noisy Book Task）** — 儿童按下按钮发出不同动物声音，需复述不同声音序列([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
 
 ## 发展轨迹
 
 > [!note-] 发展轨迹
-> - 从 15 个月到 30 个月出现初始发展突增（Bolton & Hattie, 2017, p.11）
-> - 3–5 岁出现大幅变化，接近 7 岁时趋于平缓（Bolton & Hattie, 2017, p.11）
-> - 4 岁儿童在三项和四项搜索的自排序更新任务中表现差于 7–8 岁儿童（Bolton & Hattie, 2017, p.11）
-> - 儿童能按顺序记住的项目数从 4 岁到 6 岁增加；倒序记忆从 1.58 增加到 2.88 个项目（Bolton & Hattie, 2017, p.11）
-> - 由于复杂更新任务的难度，大多数研究不考察 3 岁以下儿童，因此该年龄组数据较少（Bolton & Hattie, 2017, p.11）
+> - 从 15 个月到 30 个月出现初始发展突增([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
+> - 3–5 岁出现大幅变化，接近 7 岁时趋于平缓([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
+> - 4 岁儿童在三项和四项搜索的自排序更新任务中表现差于 7–8 岁儿童([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
+> - 儿童能按顺序记住的项目数从 4 岁到 6 岁增加；倒序记忆从 1.58 增加到 2.88 个项目([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
+> - 由于复杂更新任务的难度，大多数研究不考察 3 岁以下儿童，因此该年龄组数据较少([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
 
 ## 注意力的作用
 
-幼儿期注意力表现结果的差异与工作记忆广度的差异有关。早期童年的注意力差异可预测后期童年抑制反应的能力（Bolton & Hattie, 2017, p.10）。
+幼儿期注意力表现结果的差异与工作记忆广度的差异有关。早期童年的注意力差异可预测后期童年抑制反应的能力([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])。
 
 ## 与学习的关系
 

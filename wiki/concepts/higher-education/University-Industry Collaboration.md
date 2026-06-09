@@ -86,6 +86,7 @@ related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
@@ -204,7 +205,7 @@ updated: 2026-06-05
 - **联合开发物理设施**：共同投资实验室、中试车间等
 - **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-170]])
 - **人员交流**（people exchange）：实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）
-- **共同选址**（[[University-Industry Co-location|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院（Wolf et al., 2025, pp.317–318）
+- **共同选址**（[[University-Industry Co-location|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
 - **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
 > 在互动层次上，UIDP（2012）通过 [[Partnership Continuum|伙伴关系连续体]] 将每个合作领域内的互动区分为三个层级：交易（Transaction）——战术性的价值交换；协作（Collaboration）——双方分享想法预期互惠；联盟（Alliance）——共享愿景、长期实质性承诺。这三个层级不是线性的阶段模型——合作可以从任何层级开始，也可以在不同层级之间双向移动。详见 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, p.7]])。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
@@ -214,7 +215,7 @@ updated: 2026-06-05
 ### 机构协议类型
 
 > [!info]
-> 上述互动路径在操作层面通过具体的**机构协议**（institutional agreements）来执行。Hall（2025, pp.261–262）将产学机构协议归纳为 11 种类型，沿两个维度分化：**权利交换的深度**（从捐赠的零权利回报到合资企业的全权利共享）和**关系的时间长度**（从一次性材料转移到多年赞助研究）：
+> 上述互动路径在操作层面通过具体的**机构协议**（institutional agreements）来执行。[[Argument_Hall_2025_EthicalLegalFrameworks|Hall (2025, pp.261–262)]]将产学机构协议归纳为 11 种类型，沿两个维度分化：**权利交换的深度**（从捐赠的零权利回报到合资企业的全权利共享）和**关系的时间长度**（从一次性材料转移到多年赞助研究）：
 
 | 协议类型 | 法律形式 | 核心特征 |
 |---------|---------|---------|
@@ -231,7 +232,7 @@ updated: 2026-06-05
 | 技术许可 | Technology Licensing | 在指定条款下提供知识产权权利供进一步开发和商业化 |
 
 > [!note]
-> 保密协议往往是更实质性协议（如 SRA）的前奏：双方先建立保密信任，再进入更复杂的谈判。捐赠位于权利交换的最浅端，SRA 给予企业更大的监督权和商业化路径。无论哪种类型，协议都使组织受其条款的法律约束。在选择协议类型前回答战略对齐、法律合规、伦理匹配等关键问题，比进入谈判后再调整类型更高效（Hall, 2025, pp.261–262）。详见 [[Argument_Hall_2025_EthicalLegalFrameworks]]。
+> 保密协议往往是更实质性协议（如 SRA）的前奏：双方先建立保密信任，再进入更复杂的谈判。捐赠位于权利交换的最浅端，SRA 给予企业更大的监督权和商业化路径。无论哪种类型，协议都使组织受其条款的法律约束。在选择协议类型前回答战略对齐、法律合规、伦理匹配等关键问题，比进入谈判后再调整类型更高效([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.261–262]])。详见 [[Argument_Hall_2025_EthicalLegalFrameworks]]。
 
 ### 教师激励与合作支持
 
@@ -315,7 +316,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 产学合作在企业内部的组织载体是 [[Academic Engagement Team|学术参与团队]]（[[Academic Engagement]] Team, AET）——以预算责任负责领导和管理大学合作的组织单位。AET 的核心组织特征是"叠加层"（overlay）：它不是独立的业务部门，而是嵌入公司既有组织结构之上——成员可能在 CTO 办公室、HR 部门或分散在各业务单元中。AET 的实践者必须在矩阵式的、高度分权的环境中运作([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.222–223]])。
 
-AET 的资助结构直接决定了产学合作在企业内部关注什么、忽略什么。Ramming（2025, pp.228–229）识别了五种典型结构：中央化运营预算（追求战略目标）、企业基金会（聚焦社会责任）、业务部门分布式预算（追求短期具体回报）、按职能分配预算（隔离合作不同面向）和按技术领域分配预算（深耕特定技术栈）。这些结构不是互斥的——大型企业可能同时组合使用多种来源。详见 [[Academic Engagement Team]]。
+AET 的资助结构直接决定了产学合作在企业内部关注什么、忽略什么。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.228–229)]]识别了五种典型结构：中央化运营预算（追求战略目标）、企业基金会（聚焦社会责任）、业务部门分布式预算（追求短期具体回报）、按职能分配预算（隔离合作不同面向）和按技术领域分配预算（深耕特定技术栈）。这些结构不是互斥的——大型企业可能同时组合使用多种来源。详见 [[Academic Engagement Team]]。
 
 ### 实践者与利益相关者
 
@@ -371,7 +372,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 影响因素
 
 > [!abstract]
-> Ulrichsen（2025, pp.48–49，改编自 Ulrichsen et al., 2023）综合多项研究，提出了产学互动的影响因素框架，涵盖五个系统层面：
+> [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025, pp.48–49,改编自 Ulrichsen et al., 2023)]]综合多项研究，提出了产学互动的影响因素框架，涵盖五个系统层面：
 
 | 系统层面 | 关键影响因素 |
 |----------|-------------|

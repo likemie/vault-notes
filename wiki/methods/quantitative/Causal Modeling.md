@@ -29,6 +29,7 @@ related_persons:
   - "[[Herbert Blalock]]"
 related_arguments:
   - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Brady_2023_EPR]]"
 confidence: medium
 status: draft
@@ -62,7 +63,7 @@ updated: '2026-05-31'
 ## 历史沿革
 
 
-- **1969, 1985, 1991** — [[Herbert Blalock]] 倡导因果建模，将口头理论重构为因果模型以可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的基本符号规则（Creswell & Creswell, 2022, p.58）：
+- **1969, 1985, 1991** — [[Herbert Blalock]] 倡导因果建模，将口头理论重构为因果模型以可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的基本符号规则([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.58]])：
   - 因变量置于图中右侧，自变量置于左侧
   - 使用单向箭头从每个决定变量指向依赖它的变量
   - 在路径上插入正负价符号（+/-）表示关系方向
@@ -113,7 +114,7 @@ updated: '2026-05-31'
 
 ## 相关概念
 
-- [[Causality]] — 因果性是因果建模所操作化的核心概念；时间顺序（temporal order）是构建因果模型的基本前提——[[Variable|变量]]之间存在从左到右的时间排序（Punch, 2014; Creswell & Creswell, 2022, p.57）
+- [[Causality]] — 因果性是因果建模所操作化的核心概念；时间顺序（temporal order）是构建因果模型的基本前提——[[Variable|变量]]之间存在从左到右的时间排序(Punch, 2014; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]])
 - [[Variable]] — 因果模型中的基本分析单位，包括自变量、因变量、中介变量和调节变量
 
 ## 相关方法

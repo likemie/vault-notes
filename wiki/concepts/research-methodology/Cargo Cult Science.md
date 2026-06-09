@@ -22,6 +22,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 >   - 方法论解释极其简略——仅一段话说明了 [[Homework]] 效应的计算方式，未提供计算公式（p.25-26）
 >   - Hattie 声称其理论无人反驳，但 VL 实际上并未提出可被实验证伪的理论（p.35）
 >   - VL 的 Metax 数据库呈现为典型科学数据集，但未阐明其数字的来源、包含的偏差和被掩盖的细微差别（p.35-36）
-> - Bergeron & Rivard (2017) 指出伪科学工作的特征："倾向于既放大其数学复杂程度又模糊其本质"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.26]])
+> - [[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 指出伪科学工作的特征："倾向于既放大其数学复杂程度又模糊其本质"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.26]])
 
 ## 交叉阅读
 

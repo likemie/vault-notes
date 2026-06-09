@@ -28,6 +28,7 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Higgins_2016_RE]]"
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 ## 干预效果的类型区分
 
 > [!warning] 三种效果量不可混为一谈
-> Higgins（2016, p.44）指出，在[[Meta-analysis|元分析]]中混合不同类型的效果量是有风险的：
+> [[Argument_Higgins_2016_RE|Higgins (2016, p.44)]]指出，在[[Meta-analysis|元分析]]中混合不同类型的效果量是有风险的：
 >
 > - **干预效果**：相对于比较组或控制组的改善，其设计考虑了前后测之间的增长
 > - **成熟差异**：单组设计，只考虑了随时间的增长

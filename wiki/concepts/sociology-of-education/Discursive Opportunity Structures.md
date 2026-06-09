@@ -29,7 +29,7 @@ updated: 2026-05-21
 > [!info]
 > 话语性机会结构（discursive opportunity structures）是 Parreira do Amaral 和 Dale（2015）在教育轨迹治理研究中提出的分析概念，指话语如何"框定思维与行动的可能性"（frame the possibilities of thought and action），并由此调节全球高等教育中服务、职位和实践的可及性([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.253]])。
 
-Zelinka（2022, p.253）在分析（新）[[Geopolitics of Knowledge|知识地缘政治]]的主体性生产时，将这一概念纳入其[[Analytic Framework|分析框架]]：分析话语意味着重建其对社会问题的构成方式，并分解其如何生产主体性。
+[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, p.253)]]在分析（新）[[Geopolitics of Knowledge|知识地缘政治]]的主体性生产时，将这一概念纳入其[[Analytic Framework|分析框架]]：分析话语意味着重建其对社会问题的构成方式，并分解其如何生产主体性。
 
 ## 核心要素
 
@@ -44,7 +44,7 @@ Zelinka（2022, p.253）在分析（新）[[Geopolitics of Knowledge|知识地�
 ## 在知识地缘政治分析中的应用
 
 > [!abstract]
-> Zelinka（2022, pp.253-254, 264-265）将话语性机会结构概念用于分析 21 世纪 [[Single-Case Design|SCD]] 如何作为（新）[[Geopolitics of Knowledge|知识地缘政治]]的治理工具运作：
+> [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.253-254, 264-265)]]将话语性机会结构概念用于分析 21 世纪 [[Single-Case Design|SCD]] 如何作为（新）[[Geopolitics of Knowledge|知识地缘政治]]的治理工具运作：
 
 SCD 话语通过界定"未来所需的关键技能"，塑造了个体在全球高等教育中的话语性机会结构——它决定了：
 - 哪些能力被视为"有价值"的（如批判性思维、创造力、协作、沟通），哪些被边缘化

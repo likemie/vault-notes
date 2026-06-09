@@ -21,7 +21,8 @@ related_facts:
   - "[[National Education]]"
   - "[[Liberal Studies]]"
   - "[[2019 Hong Kong Protests]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 ## 对通识教育科的影响
 
 > [!success] 对通识教育科的影响
-> Yan & Morris (2025) 将 MNE 争议定位为 [[Liberal Studies|LS]] 政治生态的关键转折点：MNE 争议后，亲中政治力量开始将 LS 重新框定为问题——正是 LS 的存在为 MNE 的缺乏创造了条件。LS 此前被视为主流教育创新，此后开始被质疑为造就了易于接受反政府动员的学生群体。
+> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 将 MNE 争议定位为 [[Liberal Studies|LS]] 政治生态的关键转折点：MNE 争议后，亲中政治力量开始将 LS 重新框定为问题——正是 LS 的存在为 MNE 的缺乏创造了条件。LS 此前被视为主流教育创新，此后开始被质疑为造就了易于接受反政府动员的学生群体。
 >
 > > "The MNE controversy marked a turn in the political framing of LS: from an educational innovation to a space that, by not promoting national identity, was perceived as enabling anti-government mobilisation."（基于 Yan & Morris, 2025, p. 488）
 

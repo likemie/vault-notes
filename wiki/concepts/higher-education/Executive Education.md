@@ -75,7 +75,7 @@ updated: 2026-05-30
 ## 跨学科创新的四个维度
 
 > [!abstract]
-> 当面向复杂社会挑战设计高管教育课程时，Lerner-Lam et al.（2025, pp.158-161）提出需要在以下四个维度进行系统性创新：
+> 当面向复杂社会挑战设计高管教育课程时，[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al. (2025, pp.158-161)]]提出需要在以下四个维度进行系统性创新：
 >
 > **1. 学科内容的复杂性（Subject Matter Complexity）**：跨学科（transdisciplinary）不等于多学科（multidisciplinary）。多学科是不同专家各自贡献视角；跨学科要求在不同学科知识之间建立网络化关联。课程需要建立小型教师领导核心团队来设定跨学科逻辑主线（pp.158-159）。
 >

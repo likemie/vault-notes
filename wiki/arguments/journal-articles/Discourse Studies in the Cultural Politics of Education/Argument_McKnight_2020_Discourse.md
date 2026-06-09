@@ -67,7 +67,7 @@ citation_aliases:
 > - **方法**：理论性／批判性话语分析（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
 > - **分析对象**：Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角**：作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])
-> - **数据来源**：Hattie 的出版物、Knudsen（2017）对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
+> - **数据来源**：Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
 > - **局限性（作者自认）**：由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review|文献综述]]([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
 
 ## 核心论证

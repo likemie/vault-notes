@@ -41,6 +41,7 @@ related_facts:
   - "[[Success for All]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 sources:
   - "[[Slavin_2019_EP]]"
 part_of: ''
@@ -166,11 +167,11 @@ citation_aliases:
 >
 > ### 对批判性文献的系统性回避
 >
-> **批评内容**：Slavin 未实质性回应 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 的三重缺陷批判、Cowen (2019) 的官僚功能分析、Deaton & Cartwright (2018) 的 [[Randomised Controlled Trials|RCT]] 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
+> **批评内容**：Slavin 未实质性回应 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 的三重缺陷批判、[[Argument_Cowen_2019_ERE|Cowen (2019)]] 的官僚功能分析、Deaton & Cartwright (2018) 的 [[Randomised Controlled Trials|RCT]] 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
 >
 > **回避的核心论点**：
 > - **[[Argument_Biesta_2010_SPE|Biesta (2010)]]**：知识缺陷——证据无法提供确定性，只提供过去关系的记录
-> - **Cowen (2019)**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
+> - **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
 > - **Deaton & Cartwright (2018)**：RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
 > **影响**：此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。

@@ -22,7 +22,8 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -34,23 +35,23 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 理论视角（theoretical perspective）是[[Quantitative Research|量化研究]]计划或论文中专门阐述理论框架的独立章节。Creswell & Creswell (2022, p.53) 偏好使用这一术语，因为它已被美国教育研究协会（AERA）年会广泛用作投稿研究计划中的必填章节名称。该章节可以放在[[Literature Review|文献综述]]之中，也可以作为一个独立章节。同一章节在文献中还有多种名称，包括理论依据（theoretical rationale）、理论基础（theory base）、理论取向（theoretical orientation）、理论模型（theoretical model）和概念框架（conceptual framework）。
+> 理论视角（theoretical perspective）是[[Quantitative Research|量化研究]]计划或论文中专门阐述理论框架的独立章节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 偏好使用这一术语，因为它已被美国教育研究协会（AERA）年会广泛用作投稿研究计划中的必填章节名称。该章节可以放在[[Literature Review|文献综述]]之中，也可以作为一个独立章节。同一章节在文献中还有多种名称，包括理论依据（theoretical rationale）、理论基础（theory base）、理论取向（theoretical orientation）、理论模型（theoretical model）和概念框架（conceptual framework）。
 
 > [!quote]
-> "A discussion about this theory would appear in a section of a proposal in the literature review or in a separate section called the theory base, the theoretical rationale, the theoretical perspective, or the conceptual framework."（Creswell & Creswell, 2022, p.53）
+> "A discussion about this theory would appear in a section of a proposal in the literature review or in a separate section called the theory base, the theoretical rationale, the theoretical perspective, or the conceptual framework."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])
 
 理论在研究中可能以多种形式出现——作为论证、讨论、图示、依据或视觉模型（"A theory might appear in a research study as an argument, a discussion, a figure, a rationale, or a visual model," p.53）。
 
 > [!tip] 彩虹比喻
-> 彩虹架起自[[Variable|变量]]和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。这一比喻形象地说明了理论视角章节的核心功能——连接变量并为变量间关系提供解释框架（Creswell & Creswell, 2022, p.53）。
+> 彩虹架起自[[Variable|变量]]和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。这一比喻形象地说明了理论视角章节的核心功能——连接变量并为变量间关系提供解释框架([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])。
 
 ## 在量化研究中的位置
 
-理论视角章节通常置于研究方案的前端，作为整个[[Quantitative Research|量化研究]]的组织框架。量化研究以演绎方式使用理论，理论视角承担着连接已有文献、推导[[Hypothesis|研究假设]]和指导数据收集程序的功能（Creswell & Creswell, 2022, p.62）。
+理论视角章节通常置于研究方案的前端，作为整个[[Quantitative Research|量化研究]]的组织框架。量化研究以演绎方式使用理论，理论视角承担着连接已有文献、推导[[Hypothesis|研究假设]]和指导数据收集程序的功能([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.62]])。
 
 ## 写作结构
 
-Creswell & Creswell (2022, pp.62–63) 提供了一个实用的[[Research Writing Script|写作脚本]]。理论视角章节应依次包含以下要素：
+[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, pp.62–63)]] 提供了一个实用的[[Research Writing Script|写作脚本]]。理论视角章节应依次包含以下要素：
 
 > [!abstract]
 > 1. **指明所用理论**：明确写出"我将使用的理论是_____（理论名称）"

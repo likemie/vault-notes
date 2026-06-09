@@ -20,7 +20,8 @@ related_methods:
   - "[[Literature Map]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -32,7 +33,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 文献摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法（Creswell & Creswell, 2022）。
+> 文献摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
 
 摘要不仅是文献综述的中间产物——它本身就是一种学术写作体裁。期刊文章的摘要通常是读者判断是否阅读全文的依据，其格式往往受到期刊字数限制（如 120 词）。
 
@@ -40,7 +41,7 @@ updated: 2026-05-31
 
 ## 实证研究摘要的要素
 
-对于报告数据的实证研究文章，摘要应包含以下要素（Creswell & Creswell, 2022）：
+对于报告数据的实证研究文章，摘要应包含以下要素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 1. **[[Research Question|研究问题]]**：提及文章处理的问题
 2. **核心目的或焦点**：说明研究的中心目的
@@ -55,7 +56,7 @@ updated: 2026-05-31
 
 ## 非实证研究摘要的要素
 
-对于理论性、概念性或方法论文章（这些不是实证研究），摘要需提取不同的要素（Creswell & Creswell, 2022）：
+对于理论性、概念性或方法论文章（这些不是实证研究），摘要需提取不同的要素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 1. **[[Research Question|研究问题]]**：提及文章或书籍处理的问题
 2. **核心主题**：识别研究的中心主题
@@ -104,7 +105,7 @@ updated: 2026-05-31
 
 ## 与文献综述的关系
 
-文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。Creswell & Creswell (2022) 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和整合。
+文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和整合。
 
 ---
 

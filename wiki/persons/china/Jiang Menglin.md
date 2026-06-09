@@ -28,6 +28,7 @@ related_facts:
   - "[[New Education Movement]]"
 related_arguments:
   - "[[Argument_Zhou_2024_CE]]"
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -50,7 +51,7 @@ updated: '2026-06-08'
 > - **1886** — 出生于浙江。
 > - **1910 年代** — 赴美留学，就读于哥伦比亚大学师范学院，师从[[John Dewey|杜威]]。
 > - **1919** — 主持《新教育》（xinjiaoyu）杂志创刊，任主编，该刊成为[[New Education Movement|新教育运动]]的理论阵地([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。
-> - **1919–1921** — 杜威访华期间，蒋梦麟及其哥伦比亚校友是邀请和组织杜威讲学的核心力量([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。Schulte（2009, p.73）指出，这批哥伦比亚校友——包括[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]和蒋梦麟——回国后占据了北京大学等关键机构的领导职位，并参与了 1915–1922 年间制定新教育体系的核心组织；他们不是中立的翻译者，而是带着自身改革议程的行动者，其人际网络构成了杜威思想在中国被[[Recontextualization|再脉络化]]的前提条件。
+> - **1919–1921** — 杜威访华期间，蒋梦麟及其哥伦比亚校友是邀请和组织杜威讲学的核心力量([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, p.73)]]指出，这批哥伦比亚校友——包括[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]和蒋梦麟——回国后占据了北京大学等关键机构的领导职位，并参与了 1915–1922 年间制定新教育体系的核心组织；他们不是中立的翻译者，而是带着自身改革议程的行动者，其人际网络构成了杜威思想在中国被[[Recontextualization|再脉络化]]的前提条件。
 > - **1919–1925** — 主编《新教育》，以"养成健全人格、创造进步社会"为宗旨，推动激进的教育改革议程([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]])。
 > - **1925** — 《新教育》停刊，由[[Tao Xingzhi|陶行知]]主编的《新教育评论》取代，标志着新教育运动从"民主"原则向"[[Scientific Attitude|科学态度]]"原则的范式转换([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–620]])。
 > - **1964** — 逝世于台湾。
