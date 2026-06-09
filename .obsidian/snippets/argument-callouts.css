@@ -168,12 +168,20 @@
 /* ─── line-a（靛蓝点阵）+ line-b（玫红网格） ─────────── */
 /* 相邻时通过 :has() 拼合成一个视觉单元 */
 .callout[data-callout="line-a"],
-.callout[data-callout="line-b"] {
+.callout[data-callout="line-b"],
+.callout[data-callout="line-c"],
+.callout[data-callout="line-d"],
+.callout[data-callout="line-e"] {
   position: relative;
   overflow: hidden;
   border: 1px solid rgba(var(--callout-color), 0.24);
   border-left: 6px solid rgb(var(--callout-color));
   box-shadow: 0 8px 20px rgba(var(--callout-color), 0.09);
+}
+
+/* 自动字母计数器（阅读模式）*/
+.markdown-preview-view {
+  counter-reset: line-item;
 }
 
 .callout[data-callout="line-a"] {
@@ -184,6 +192,7 @@
     linear-gradient(135deg, rgba(88, 96, 180, 0.09), rgba(88, 96, 180, 0.025)),
     var(--background-primary);
   background-size: 18px 18px, auto, auto;
+  counter-increment: line-item;
 }
 
 .callout[data-callout="line-b"] {
@@ -197,15 +206,34 @@
   background-size: 28px 100%, 100% 18px, auto, auto;
 }
 
+/* 手动字母变体 line-c / d / e（同 line-a 样式，固定字母标签）*/
+.callout[data-callout="line-c"],
+.callout[data-callout="line-d"],
+.callout[data-callout="line-e"] {
+  --callout-color: 88, 96, 180;
+  --callout-icon: lucide-circle-equal;
+  background:
+    radial-gradient(circle, rgba(88, 96, 180, 0.11) 1.2px, transparent 1.8px),
+    linear-gradient(135deg, rgba(88, 96, 180, 0.09), rgba(88, 96, 180, 0.025)),
+    var(--background-primary);
+  background-size: 18px 18px, auto, auto;
+}
+
 /* 相邻拼合 */
-.callout[data-callout="line-a"]:has(+ .callout[data-callout="line-b"]) {
+.callout[data-callout="line-a"]:has(+ .callout[data-callout="line-b"]),
+.callout[data-callout="line-c"]:has(+ .callout[data-callout="line-b"]),
+.callout[data-callout="line-d"]:has(+ .callout[data-callout="line-b"]),
+.callout[data-callout="line-e"]:has(+ .callout[data-callout="line-b"]) {
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
   border-bottom-color: rgba(88, 96, 180, 0.10);
   margin-bottom: 2px;
 }
 
-.callout[data-callout="line-a"] + .callout[data-callout="line-b"] {
+.callout[data-callout="line-a"] + .callout[data-callout="line-b"],
+.callout[data-callout="line-c"] + .callout[data-callout="line-b"],
+.callout[data-callout="line-d"] + .callout[data-callout="line-b"],
+.callout[data-callout="line-e"] + .callout[data-callout="line-b"] {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
   border-top-color: rgba(164, 74, 102, 0.10);
@@ -225,20 +253,32 @@
   z-index: 0;
 }
 
-.callout[data-callout="line-a"]::after { content: "A"; }
-.callout[data-callout="line-b"]::after { content: "B"; }
+.callout[data-callout="line-a"]::after { content: counter(line-item, upper-alpha); }
+.callout[data-callout="line-b"]::after { content: "\2937"; font-size: 3.8rem; }
+.callout[data-callout="line-c"]::after { content: "C"; }
+.callout[data-callout="line-d"]::after { content: "D"; }
+.callout[data-callout="line-e"]::after { content: "E"; }
 
 .callout[data-callout="line-a"] > .callout-title,
 .callout[data-callout="line-a"] > .callout-content,
 .callout[data-callout="line-b"] > .callout-title,
-.callout[data-callout="line-b"] > .callout-content {
+.callout[data-callout="line-b"] > .callout-content,
+.callout[data-callout="line-c"] > .callout-title,
+.callout[data-callout="line-c"] > .callout-content,
+.callout[data-callout="line-d"] > .callout-title,
+.callout[data-callout="line-d"] > .callout-content,
+.callout[data-callout="line-e"] > .callout-title,
+.callout[data-callout="line-e"] > .callout-content {
   position: relative;
   z-index: 1;
 }
 
 /* A / B 角标 */
 .callout[data-callout="line-a"] > .callout-title .callout-title-inner::before,
-.callout[data-callout="line-b"] > .callout-title .callout-title-inner::before {
+.callout[data-callout="line-b"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="line-c"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="line-d"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="line-e"] > .callout-title .callout-title-inner::before {
   display: inline-block;
   margin-right: 0.55rem;
   padding: 0.08rem 0.42rem;
@@ -250,18 +290,27 @@
   letter-spacing: 0.04em;
 }
 
-.callout[data-callout="line-a"] > .callout-title .callout-title-inner::before { content: "A"; }
-.callout[data-callout="line-b"] > .callout-title .callout-title-inner::before { content: "B"; }
+.callout[data-callout="line-a"] > .callout-title .callout-title-inner::before { content: counter(line-item, upper-alpha); }
+.callout[data-callout="line-b"] > .callout-title .callout-title-inner::before { content: "—"; }
+.callout[data-callout="line-c"] > .callout-title .callout-title-inner::before { content: "C"; }
+.callout[data-callout="line-d"] > .callout-title .callout-title-inner::before { content: "D"; }
+.callout[data-callout="line-e"] > .callout-title .callout-title-inner::before { content: "E"; }
 
 /* line-a / line-b 内表格修复
    overflow:hidden 会裁剪宽表格；在 callout-content 层设横向滚动容器 */
 .callout[data-callout="line-a"] > .callout-content,
-.callout[data-callout="line-b"] > .callout-content {
+.callout[data-callout="line-b"] > .callout-content,
+.callout[data-callout="line-c"] > .callout-content,
+.callout[data-callout="line-d"] > .callout-content,
+.callout[data-callout="line-e"] > .callout-content {
   overflow-x: auto;
 }
 
 .callout[data-callout="line-a"] table,
-.callout[data-callout="line-b"] table {
+.callout[data-callout="line-b"] table,
+.callout[data-callout="line-c"] table,
+.callout[data-callout="line-d"] table,
+.callout[data-callout="line-e"] table {
   display: table;
   width: 100%;
   min-width: 360px;
@@ -271,7 +320,10 @@
 }
 
 .callout[data-callout="line-a"] th,
-.callout[data-callout="line-b"] th {
+.callout[data-callout="line-b"] th,
+.callout[data-callout="line-c"] th,
+.callout[data-callout="line-d"] th,
+.callout[data-callout="line-e"] th {
   background: rgba(var(--callout-color), 0.14);
   font-weight: 700;
 }
@@ -279,7 +331,13 @@
 .callout[data-callout="line-a"] th,
 .callout[data-callout="line-a"] td,
 .callout[data-callout="line-b"] th,
-.callout[data-callout="line-b"] td {
+.callout[data-callout="line-b"] td,
+.callout[data-callout="line-c"] th,
+.callout[data-callout="line-c"] td,
+.callout[data-callout="line-d"] th,
+.callout[data-callout="line-d"] td,
+.callout[data-callout="line-e"] th,
+.callout[data-callout="line-e"] td {
   border-color: rgba(var(--callout-color), 0.18);
   vertical-align: top;
   line-height: 1.65;
