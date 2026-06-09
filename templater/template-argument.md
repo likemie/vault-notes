@@ -66,6 +66,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | `[!line-a]`、`[!line-b]` | 同一证据组中的两条并行线索 | 证据小节内部 |
 > | `[!evidence-grid]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` | 多点并列证据、横向比较 | 三点以上的发现 |
 > | `[!contrast-table]` | 双方叙事、观点或证据对照 | 综合对比小节 |
+> | `[!stat-cards]` | 比例、样本量、效应量等关键数字 | 主要发现或方法章节 |
 > | `[!citation-card]` | 关键引用 | 关键引用章节 |
 
 > [!note]- Obsidian 原生类型速查

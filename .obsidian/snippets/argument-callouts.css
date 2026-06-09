@@ -476,6 +476,43 @@
   color: #bd788d;
 }
 
+.callout[data-callout="stat-cards"] {
+  --callout-color: 72, 132, 112;
+  --callout-icon: lucide-bar-chart-3;
+  background:
+    linear-gradient(135deg, rgba(72, 132, 112, 0.11), rgba(72, 132, 112, 0.035)),
+    var(--background-primary);
+  border: 1px solid rgba(72, 132, 112, 0.22);
+  border-left: 6px solid rgb(72, 132, 112);
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.7rem;
+  padding-inline-start: 0;
+  margin-block: 0.65rem 0.25rem;
+  list-style: none;
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul > li {
+  margin: 0;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid rgba(72, 132, 112, 0.18);
+  border-radius: 9px;
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(72, 132, 112) 12%);
+  box-shadow: 0 8px 18px rgba(72, 132, 112, 0.08);
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: rgb(72, 132, 112);
+  font-size: 2.05em;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
 .callout[data-callout="citation-card"] {
   --callout-color: 96, 113, 128;
   --callout-icon: lucide-quote;
