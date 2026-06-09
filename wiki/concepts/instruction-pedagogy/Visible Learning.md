@@ -128,33 +128,35 @@ updated: 2026-06-10
 
 > [!nav] 方法论导览
 > VL 的方法论位置最好理解为"以二级研究综合为中心的学校改进项目"。
-> - 若要理解 VL 如何汇总大量研究，先读 `元-元分析操作步骤`，再连到 [[Meta-analysis]] 和 [[Meta-meta-analysis]]。
-> - 若要理解为什么这种汇总会失真，接着读 `学习结果的抽象化问题`；更完整的拆解见 [[Critiques of Visible Learning]]。
+> - 若要理解 VL 如何汇总大量研究，先读 `汇总机制`，再连到 [[Meta-analysis]] 和 [[Meta-meta-analysis]]。
+> - 若要理解为什么这种汇总会失真，接着读 `方法局限`；更完整的拆解见 [[Critiques of Visible Learning]]。
 > - 若要理解 d=0.40 为何既重要又有争议，直接跳到 [[Effect Size]]。
 
+### 汇总机制
 
-### 元-元分析操作步骤
-
-[[Argument_Golovchin_2019_ESC|Golovchin (2019)]], p.232-234）详细描述了 Hattie 元-元分析（mega-analysis）的操作步骤：
+[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–234)]] 描述了 Hattie 元-元分析（mega-analysis）的操作步骤：
 
 1. **确定 6 个影响源**（sources of influence）：家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
-3. **元分析综合**：对每个因素计算"平均效应量"（d），范围 -2 到 2
-4. **"影响气压计"（barometer of influence）四区解释**：
-   - 负面效应区（d<0）：如暑假、看电视（d=-0.18）、转学（d=-0.34）
-   - 发展效应区（d=0-0.15）：如教师学科知识（d=0.09）、教师教育（d=0.11）
-   - 低中效应区（d=0.15-0.4）：如班级规模（d=0.21）、家庭结构（d=0.17）
-   - 期望效应区（d>0.4）：如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）、[[Formative Assessment|形成性评价]]（d=0.90）
+3. **对每个因素综合各元分析，计算平均效应量**（d），范围 -2 到 2
 
-**数据来源限制**：元分析基于 1980s-2000s 三个英语国家（美国、澳大利亚、新西兰）的研究([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]])。
+> [!stat-cards] 分析输出：影响气压计（barometer of influence）
+> - **负面效应区（d<0）**：暑假、看电视（d=-0.18）、转学（d=-0.34）
+> - **发展效应区（d=0–0.15）**：教师学科知识（d=0.09）、教师教育（d=0.11）
+> - **低中效应区（d=0.15–0.4）**：班级规模（d=0.21）、家庭结构（d=0.17）
+> - **期望效应区（d>0.4）**：微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）、[[Formative Assessment|形成性评价]]（d=0.90）
+>
+> （[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232–233]]）
 
-**最引发争议的结论**：教师学科知识和教师资格对学业成绩的影响最小（d=0.1），而微格教学和反馈的影响最大——这导致批评者质疑其结论的正确性([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]])。
+### 方法局限
 
-### 学习结果的抽象化问题
+**概念局限**：[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者立场为 Hattie 的元分析比较提供辩护：不同研究即便使用不同学习结果定义，仍可通过[[Effect Size|效应量]]比较相对结果，例如干预组与控制组之差，或干预结束时与基线状态之差（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。但这一辩护同时揭示了 VL 的概念限制：元-元分析得到的是抽象学习结果，难以说明所测量的究竟是知识与技能、社会能力、[[Surface and Deep Learning|表层学习]]、深层学习还是概念性学习（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。
 
-[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者立场为 Hattie 的元分析比较提供辩护：不同研究即便使用不同学习结果定义，仍可通过[[Effect Size|效应量]]比较相对结果，例如干预组与控制组之差，或干预结束时与基线状态之差([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。但这一辩护同时揭示了 VL 的概念限制：元-元分析得到的是抽象学习结果，难以说明所测量的究竟是知识与技能、社会能力、[[Surface and Deep Learning|表层学习]]、深层学习还是概念性学习([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。
+Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入研究的测验特别适合测量表层特征，对深层学习有一定测量能力，却很少有效测量学生从课堂经验中建构的概念表征（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.29]]）。因此，VL 若要继续发展，需要一种更明确区分不同学习结果并解释其动态关系的[[Dynamic Knowledge and Learning Model]]，而不是只输出跨知识层次的总平均效应（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]]）。
 
-Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入研究的测验特别适合测量表层特征，对深层学习有一定测量能力，却很少有效测量学生从课堂经验中建构的概念表征([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.29]])。因此，VL 若要继续发展，需要一种更明确区分不同学习结果并解释其动态关系的[[Dynamic Knowledge and Learning Model]]，而不是只输出跨知识层次的总平均效应([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]])。
+> [!warning] 数据与产出局限
+> - **数据来源**：元分析基于 1980s–2000s 三个英语国家（美国、澳大利亚、新西兰）的研究，跨语境迁移性有限（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]]）。
+> - **争议性产出**：教师学科知识和教师资格对学业成绩的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对整体方法有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
 
 ---
 
