@@ -343,7 +343,7 @@ def main() -> int:
     args = parser.parse_args()
 
     if not CITATION_FULL_JSON.exists():
-        print("❌ citation/citation_full.json missing; run scripts/citation_index.py first.")
+        print("❌ citation/citation_full.json missing; run scripts/vault_index.py first.")
         return 1
 
     lookup = load_lookup()

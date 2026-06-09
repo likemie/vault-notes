@@ -18,7 +18,9 @@ tags:
   - theme/learning-economy
   - theme/university-industry-relations
   - region/global
-related_concepts: []
+related_concepts:
+  - "[[Linear Model of Innovation]]"
+  - "[[Multi-channel Interactive Learning Model]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -65,7 +67,7 @@ issuing_organization: ""
 
 ### 第一步：线性模型及其政策后果
 
-线性模型的核心假设是单向因果关系：基础科学 → 技术开发 → 经济增长。这一模型在二战后成为配置研究资源最有力的理论依据（pp. 862–863）。
+[[Linear Model of Innovation|线性模型]]的核心假设是单向因果关系：基础科学 → 技术开发 → 经济增长。这一模型在二战后成为配置研究资源最有力的理论依据（pp. 862–863）。
 
 > [!note] 线性模型的知识史
 > 最早的系统性经济学论证来自科学家而非经济学家。J. D. Bernal（1939）率先测量了英国 R&D 占 GNP 的比例，并主张将其从 0.2% 提高到 2.0% 将对经济增长产生重大影响。Vannevar Bush（1945）在《科学：无尽的前沿》中为美国提出了类似论证。直到 1950 年代末，经济学家才基于公共品理论（非排他性和非竞争性）提出了政府对基础科学投入的系统性经济学理由（pp. 862–863）。
@@ -94,7 +96,7 @@ Kline 和 Rosenberg（1986）的链式模型（chain-linked model）是对线性
 ### 第三步：多通道互动学习模型
 
 > [!abstract]
-> Caraça、Lundvall 和 Mendonça（2009）提出的多通道互动学习模型是对链式模型的更新、补充和扩展。该模型将创新过程重新定位在学习经济（learning economy）的语境中，旨在提供一个分析网格来理解创新过程中涉及的主要变量及其相互关系（pp. 864–866）。
+> Caraça、Lundvall 和 Mendonça（2009）提出的[[Multi-channel Interactive Learning Model|多通道互动学习模型]]是对链式模型的更新、补充和扩展。该模型将创新过程重新定位在学习经济（learning economy）的语境中，旨在提供一个分析网格来理解创新过程中涉及的主要变量及其相互关系（pp. 864–866）。
 
 #### 3.1 模型的三个核心创新
 

@@ -166,7 +166,7 @@ class LinkStats:
 
 def load_entries() -> list[Entry]:
     if not INDEX_JSON.exists():
-        raise SystemExit(f"index not found: {INDEX_JSON}. Run `python3 scripts/wiki_index.py` first.")
+        raise SystemExit(f"index not found: {INDEX_JSON}. Run `python3 scripts/vault_index.py --wiki-only` first.")
     raw = json.loads(INDEX_JSON.read_text(encoding="utf-8"))
     entries: list[Entry] = []
     for item in raw:

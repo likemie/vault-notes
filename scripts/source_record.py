@@ -22,8 +22,7 @@ Typical article workflow:
        --rename
 
   3) Rebuild indexes according to vault-schema.md:
-     python3 scripts/wiki_index.py
-     python3 scripts/citation_index.py
+     python3 scripts/vault_index.py
 
 Supported subcommands:
   article
@@ -232,7 +231,7 @@ def create_article_or_report(args: argparse.Namespace, kind: str) -> None:
     write_text(md_path, content, overwrite=args.overwrite, dry_run=args.dry_run)
     info(f"Created minimal {kind} source record: {rel(md_path)}")
     info("Next: write the Argument page, then run `source_record.py finalize --argument ... --rename` if needed.")
-    info("After finalization, run `wiki_index.py` and `citation_index.py` per vault-schema.")
+    info("After finalization, run `vault_index.py` per vault-schema.")
 
 
 def wikilink_target(value: str) -> Optional[str]:
@@ -395,7 +394,7 @@ def finalize_source(args: argparse.Namespace) -> None:
             write_text(argument_path, updated_arg_text, overwrite=True, dry_run=args.dry_run)
             info(f"Updated source wikilink in Argument page: [[{old_source_name}]] -> [[{new_name}]]")
 
-    info("Finalize complete. Run `python3 scripts/wiki_index.py` and `python3 scripts/citation_index.py`; run linker/relations/lint only after user confirmation per vault-schema.")
+    info("Finalize complete. Run `python3 scripts/vault_index.py`; run linker/relations/lint only after user confirmation per vault-schema.")
 
 
 # -----------------------------

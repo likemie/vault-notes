@@ -114,7 +114,7 @@ def infer_type_from_index_path(path: str) -> str:
 
 def load_index() -> dict[str, Entry]:
     if not INDEX_JSON.exists():
-        raise SystemExit(f"Missing index: {INDEX_JSON}. Run python3 scripts/wiki_index.py first.")
+        raise SystemExit(f"Missing index: {INDEX_JSON}. Run python3 scripts/vault_index.py --wiki-only first.")
 
     data = json.loads(INDEX_JSON.read_text(encoding="utf-8"))
     entries_raw: list[dict]

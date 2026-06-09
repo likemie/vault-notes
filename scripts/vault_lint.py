@@ -691,7 +691,7 @@ def load_index(issues: List[Issue]) -> Tuple[Dict[str, Dict[str, Any]], Dict[str
     path_to_title: Dict[str, str] = {}
 
     if not INDEX_JSON.exists():
-        issues.append(Issue("ERROR", rel(INDEX_JSON), "missing wiki/index.json. Run python3 scripts/wiki_index.py first.", code="INDEX_MISSING"))
+        issues.append(Issue("ERROR", rel(INDEX_JSON), "missing wiki/index.json. Run python3 scripts/vault_index.py --wiki-only first.", code="INDEX_MISSING"))
         return by_title, path_to_title
 
     try:
@@ -743,6 +743,7 @@ def check_required_files(issues: List[Issue]) -> None:
         WIKI_DIR,
         INDEX_JSON,
         WIKI_DIR / "index.md",
+        ROOT / "scripts" / "vault_index.py",
         ROOT / "scripts" / "wiki_index.py",
         ROOT / "scripts" / "citation_index.py",
         ROOT / "scripts" / "citation_linker.py",
@@ -871,7 +872,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 issues.append(Issue("WARN", rel(path), f"citation-eligible Argument missing {field}", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_MISSING"))
         for field in ["citation_stem", "citation_suffix", "citation_key", "citation_short"]:
             if field in data and data.get(field) not in (None, "", []):
-                issues.append(Issue("WARN", rel(path), f"Argument should not include legacy citation field {field}; run citation_index.py", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_LEGACY"))
+                issues.append(Issue("WARN", rel(path), f"Argument should not include legacy citation field {field}; run vault_index.py", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_LEGACY"))
         year = data.get("year")
         if year not in (None, "") and not re.match(r"^(19|20)\d{2}$", str(year)):
             issues.append(Issue("ERROR", rel(path), f"year should be four digits: {year!r}", line=frontmatter_line_number(fm, "year"), code="CITATION_YEAR_FORMAT"))
@@ -881,7 +882,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         elif isinstance(aliases, list):
             expected_base = expected_citation_aliases_from_meta(data)
             if aliases and expected_base and aliases != expected_base and not all(re.match(r"^.+(?:19|20)\d{2}[a-z]\)?$", str(a)) for a in aliases):
-                issues.append(Issue("WARN", rel(path), f"citation_aliases differ from authors + year base form; run citation_index.py: {aliases!r}", line=frontmatter_line_number(fm, "citation_aliases"), code="CITATION_ALIASES_MISMATCH"))
+                issues.append(Issue("WARN", rel(path), f"citation_aliases differ from authors + year base form; run vault_index.py: {aliases!r}", line=frontmatter_line_number(fm, "citation_aliases"), code="CITATION_ALIASES_MISMATCH"))
 
     # summary checks
     if "summary" in data:
@@ -1145,7 +1146,7 @@ def check_path_and_index_consistency(path: Path, data: Optional[Dict[str, Any]],
     if path.name in GENERATED_INDEX_FILES:
         return
     if r not in path_to_title:
-        issues.append(Issue("WARN", r, "wiki entry is not present in wiki/index.json; run wiki_index.py or check exclusions", code="ENTRY_NOT_INDEXED"))
+        issues.append(Issue("WARN", r, "wiki entry is not present in wiki/index.json; run vault_index.py --wiki-only or check exclusions", code="ENTRY_NOT_INDEXED"))
     elif title and path_to_title.get(r) != title:
         issues.append(Issue("WARN", r, f"index title differs from frontmatter title: index={path_to_title.get(r)!r}, fm={title!r}", code="INDEX_TITLE_MISMATCH"))
 
@@ -1253,7 +1254,7 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
 def load_citation_full(issues: List[Issue]) -> Dict[str, Dict[str, Any]]:
     result: Dict[str, Dict[str, Any]] = {}
     if not CITATION_FULL_JSON.exists():
-        issues.append(Issue("WARN", rel(CITATION_FULL_JSON), "citation_full.json missing; run citation_index.py", code="CITATION_FULL_MISSING"))
+        issues.append(Issue("WARN", rel(CITATION_FULL_JSON), "citation_full.json missing; run vault_index.py", code="CITATION_FULL_MISSING"))
         return result
     try:
         data = json.loads(read_text(CITATION_FULL_JSON))
@@ -1339,10 +1340,10 @@ def check_citation_json_consistency(argument_citations: Dict[str, Dict[str, Any]
     for target, fm_item in argument_citations.items():
         item = json_by_target.get(target)
         if not item:
-            issues.append(Issue("WARN", fm_item["path"], "citation_full.json missing this Argument; run citation_index.py", code="CITATION_INDEX_STALE"))
+            issues.append(Issue("WARN", fm_item["path"], "citation_full.json missing this Argument; run vault_index.py", code="CITATION_INDEX_STALE"))
             continue
         if [str(a) for a in item.get("aliases", [])] != fm_item["aliases"]:
-            issues.append(Issue("WARN", fm_item["path"], "citation_full.json aliases differ from frontmatter; run citation_index.py", code="CITATION_INDEX_ALIAS_MISMATCH"))
+            issues.append(Issue("WARN", fm_item["path"], "citation_full.json aliases differ from frontmatter; run vault_index.py", code="CITATION_INDEX_ALIAS_MISMATCH"))
 
 
 def expected_citation_prefix(short: str) -> str:

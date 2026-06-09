@@ -14,7 +14,7 @@
 - 不使用来源以外的知识；
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
-- 新建、移动、删除、重命名条目后，只自动运行基础索引：`wiki_index.py` 与 `citation_index.py`；是否继续运行 citation 补链、普通 wiki 补链、关系同步与 lint，由用户确认。
+- 新建、移动、删除、重命名条目后，只自动运行基础索引：`vault_index.py`（内部依次运行 `wiki_index.py` 与 `citation_index.py`）；是否继续运行 citation 补链、普通 wiki 补链、关系同步与 lint，由用户确认。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
@@ -36,7 +36,7 @@
 11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
 12. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；政策、报告、白皮书用 `source_record.py report --record-name <论文命名>`。
 13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
-14. 自动运行基础索引：`.venv/bin/python3 scripts/wiki_index.py` 与 `.venv/bin/python3 scripts/citation_index.py`。
+14. 自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。
 15. 询问用户是否继续运行标准脚本流程。
 
 
@@ -97,6 +97,7 @@ schema/                      专项工作流 schema，按任务触发读取
   schema-textbook.md
 templater/                   Obsidian Templater 插件模板镜像；AI 工作流读取 wiki/templates/
 scripts/
+  vault_index.py
   wiki_index.py
   citation_index.py
   wiki_linker.py
@@ -236,7 +237,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部依次运行 `wiki_index.py` 与 `citation_index.py`；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full`。
 
 ### Python Environment
 
@@ -248,8 +249,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-.venv/bin/python3 scripts/wiki_index.py
-.venv/bin/python3 scripts/citation_index.py
+.venv/bin/python3 scripts/vault_index.py
 ```
 
 不要自动运行 `wiki_linker.py`、`wiki_relations.py` 或 `vault_lint.py`。完成基础索引后，询问用户是否运行标准脚本流程。
@@ -260,12 +260,11 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-.venv/bin/python3 scripts/wiki_index.py
-.venv/bin/python3 scripts/citation_index.py
+.venv/bin/python3 scripts/vault_index.py
 .venv/bin/python3 scripts/citation_linker.py
 .venv/bin/python3 scripts/wiki_linker.py sync
 .venv/bin/python3 scripts/wiki_relations.py sync
-.venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/vault_index.py --wiki-only
 .venv/bin/python3 scripts/vault_lint.py
 ```
 
@@ -284,12 +283,11 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-.venv/bin/python3 scripts/wiki_index.py
-.venv/bin/python3 scripts/citation_index.py
+.venv/bin/python3 scripts/vault_index.py
 .venv/bin/python3 scripts/citation_linker.py --full
 .venv/bin/python3 scripts/wiki_linker.py sync --full
 .venv/bin/python3 scripts/wiki_relations.py sync --full
-.venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/vault_index.py --wiki-only
 .venv/bin/python3 scripts/vault_lint.py --full
 ```
 
@@ -302,7 +300,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 移动 wiki 条目时：
 
 - 只移动文件本身，不手动编辑 `wiki/index.json`、`wiki/index.md`、各类型索引页或 generated fields。
-- 批量移动 journal article Argument 时，按 `journal` 字段创建或复用 `wiki/arguments/journal-articles/<journal-name>/`，移动后立即运行 `wiki_index.py` 与 `citation_index.py`。
+- 批量移动 journal article Argument 时，按 `journal` 字段创建或复用 `wiki/arguments/journal-articles/<journal-name>/`，移动后立即运行 `vault_index.py`。
 - 若移动涉及正文中的 vault-root 图片路径、source record 的反向关系，或移动后索引 / 链接检查异常，再运行标准 full sync。
 
 ### Wikilink and Relation Rules

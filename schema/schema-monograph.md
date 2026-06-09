@@ -12,7 +12,7 @@
 - 章节处理结果累积到全书 Argument 的「各章概览」和「关键引用」。
 - 全书 Argument 使用 `wiki/templates/template-argument-monograph.md`。
 - Concept / Theory / Method / Fact / Person 条目不写 YAML `sources` 和正文 `## 来源`；来源性陈述通过 Argument 链接进入 `related_arguments`。
-- 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行。
+- 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行；基础索引统一运行 `.venv/bin/python3 scripts/vault_index.py`。
 
 ---
 
@@ -64,7 +64,7 @@ wiki/arguments/books/<book-folder>/
 6. 更新或新建 `wiki/arguments/books/<book-folder>/Argument_<book-folder>.md`。
 7. 将当前章节整合进「各章概览」，将代表性引用整合进「关键引用」。
 8. 在 `## 来源` 列出 source wikilink。
-9. 执行 `vault-schema.md` 的脚本运行规则。
+9. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。
 10. 当前章节处理完成后停止。
 
 ---
@@ -110,4 +110,4 @@ EPUB source record 使用已配置的 epub.js 阅读器容器：
 3. 提炼全书研究问题、理论框架、研究方法、论证结构、主要发现、关键引用和自述局限。
 4. 从各章概览筛选代表性发现与引用，不机械搬运全部章节记录。
 5. 保留「各章概览」作为章节处理记录。
-6. 执行 `vault-schema.md` 的脚本运行规则。
+6. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。

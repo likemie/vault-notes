@@ -2188,6 +2188,15 @@
     ]
   },
   {
+    "title": "Linear Model of Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Linear Model of Innovation.md",
+    "aliases": [
+      "线性创新模型",
+      "linear innovation model"
+    ]
+  },
+  {
     "title": "Master Agreement",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Master Agreement.md",
@@ -2270,6 +2279,15 @@
       "Mode 2",
       "Mode 2 knowledge production",
       "模式2知识生产"
+    ]
+  },
+  {
+    "title": "Multi-channel Interactive Learning Model",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Multi-channel Interactive Learning Model.md",
+    "aliases": [
+      "多通道互动学习模型",
+      "multi-channel learning model"
     ]
   },
   {

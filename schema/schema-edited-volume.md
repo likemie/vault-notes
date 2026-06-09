@@ -11,7 +11,7 @@
 - 章节 Argument 的 citation 字段按章节作者、章节年份和章节标题填写。
 - overview source 与章节 source 都放在 `books/<book-folder>/`，不放 `sources/`。
 - Concept / Theory / Method / Fact / Person 条目不写 YAML `sources` 和正文 `## 来源`；来源性陈述通过 Argument 链接进入 `related_arguments`。
-- 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行。
+- 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行；基础索引统一运行 `.venv/bin/python3 scripts/vault_index.py`。
 
 ---
 
@@ -55,7 +55,7 @@ wiki/arguments/books/<book-folder>/
 没有前言 PDF 时省略 `--file`。
 
 8. 在 `## 来源` 列出 overview source wikilink。
-9. 执行 `vault-schema.md` 的脚本运行规则。
+9. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。
 
 ---
 
@@ -87,4 +87,4 @@ wiki/arguments/books/<book-folder>/
    - citation 字段以章节作者和章节年份为准
 9. 更新 overview Argument 的「各章概览」，加入章节 Argument 链接和核心贡献。
 10. 在 `## 来源` 列出章节 source wikilink。
-11. 执行 `vault-schema.md` 的脚本运行规则。
+11. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。

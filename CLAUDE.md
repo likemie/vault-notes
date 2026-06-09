@@ -17,6 +17,7 @@ You are a knowledge management assistant for an academic wiki vault on education
 
 ## Scripts
 
+- `vault_index.py` — unified base index entry point; runs `wiki_index.py`, then `citation_index.py`.
 - `wiki_index.py` — generates `wiki/index.json`, `wiki/index.md`, and per-type index pages.
 - `wiki_linker.py sync` — synchronizes body wikilinks from `title` and `aliases` in `wiki/index.json`.
 - `wiki_relations.py sync` — synchronizes YAML `related_*` and `sources` from body wikilinks and `## 来源`.
