@@ -253,6 +253,38 @@
 .callout[data-callout="line-a"] > .callout-title .callout-title-inner::before { content: "A"; }
 .callout[data-callout="line-b"] > .callout-title .callout-title-inner::before { content: "B"; }
 
+/* line-a / line-b 内表格修复
+   overflow:hidden 会裁剪宽表格；在 callout-content 层设横向滚动容器 */
+.callout[data-callout="line-a"] > .callout-content,
+.callout[data-callout="line-b"] > .callout-content {
+  overflow-x: auto;
+}
+
+.callout[data-callout="line-a"] table,
+.callout[data-callout="line-b"] table {
+  display: table;
+  width: 100%;
+  min-width: 360px;
+  margin-block: 0.5rem 0.2rem;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.callout[data-callout="line-a"] th,
+.callout[data-callout="line-b"] th {
+  background: rgba(var(--callout-color), 0.14);
+  font-weight: 700;
+}
+
+.callout[data-callout="line-a"] th,
+.callout[data-callout="line-a"] td,
+.callout[data-callout="line-b"] th,
+.callout[data-callout="line-b"] td {
+  border-color: rgba(var(--callout-color), 0.18);
+  vertical-align: top;
+  line-height: 1.65;
+}
+
 /* line-b 内嵌 tension 继承父色 */
 .callout[data-callout="line-b"] .callout[data-callout="tension"] {
   --callout-color: 164, 74, 102;
@@ -874,3 +906,54 @@
   border-left: 2px solid rgba(96, 113, 128, 0.28);
   line-height: 1.65;
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   SEPARATORS — 分割线
+   两种语义：
+     模块间   hr:has(+ h2) — ## 章节之间
+     步骤间   hr:has(+ h3) — ### 论证步骤之间
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── 默认 / 模块间（## 之前） ───────────────────────
+   全幅暖灰渐变线，两端淡出，上下留足呼吸 */
+.markdown-rendered hr {
+  border: none;
+  height: 1px;
+  margin: 2.8rem 0;
+  background: linear-gradient(
+    90deg,
+    transparent  0%,
+    rgba(155, 140, 125, 0.18)  8%,
+    rgba(155, 140, 125, 0.44) 28%,
+    rgba(155, 140, 125, 0.44) 72%,
+    rgba(155, 140, 125, 0.18) 92%,
+    transparent 100%
+  );
+}
+
+/* ─── 论证步骤间（### 之前） ─────────────────────────
+   居中短虚线 + 两端小圆点，暗示"流程延续"而非"章节切割" */
+.markdown-rendered hr:has(+ h3) {
+  position: relative;
+  height: 0;
+  width: 44%;
+  margin: 1.9rem auto;
+  background: none;
+  border: none;
+  border-top: 1.5px dashed rgba(140, 130, 118, 0.33);
+}
+
+.markdown-rendered hr:has(+ h3)::before,
+.markdown-rendered hr:has(+ h3)::after {
+  content: "";
+  position: absolute;
+  top: -3.5px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: rgba(140, 130, 118, 0.40);
+}
+
+.markdown-rendered hr:has(+ h3)::before { left:  -3px; }
+.markdown-rendered hr:has(+ h3)::after  { right: -3px; }
