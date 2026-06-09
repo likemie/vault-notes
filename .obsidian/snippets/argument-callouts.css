@@ -1,0 +1,102 @@
+/* Argument callout system
+   Enable in Obsidian: Settings -> Appearance -> CSS snippets -> argument-callouts.
+   The Markdown stays readable without this snippet. */
+
+.markdown-rendered .callout,
+.markdown-source-view.mod-cm6 .callout {
+  border-radius: 10px;
+}
+
+.markdown-rendered .callout[data-callout="argument-map"],
+.markdown-source-view.mod-cm6 .callout[data-callout="argument-map"] {
+  --callout-color: 20, 126, 121;
+  --callout-icon: lucide-map;
+  background:
+    linear-gradient(135deg, rgba(20, 126, 121, 0.13), rgba(20, 126, 121, 0.035) 48%),
+    var(--background-primary);
+  border: 1px solid rgba(20, 126, 121, 0.24);
+  box-shadow: 0 8px 28px rgba(20, 126, 121, 0.08);
+}
+
+.markdown-rendered .callout[data-callout="reading-lens"],
+.markdown-source-view.mod-cm6 .callout[data-callout="reading-lens"] {
+  --callout-color: 61, 115, 180;
+  --callout-icon: lucide-scan-search;
+  background: rgba(61, 115, 180, 0.075);
+  border-left-width: 5px;
+}
+
+.markdown-rendered .callout[data-callout="tension"],
+.markdown-source-view.mod-cm6 .callout[data-callout="tension"] {
+  --callout-color: 190, 95, 45;
+  --callout-icon: lucide-split;
+  background:
+    linear-gradient(90deg, rgba(190, 95, 45, 0.12), rgba(190, 95, 45, 0.035)),
+    var(--background-primary);
+  border: 1px solid rgba(190, 95, 45, 0.24);
+}
+
+.markdown-rendered .callout[data-callout="boundary"],
+.markdown-source-view.mod-cm6 .callout[data-callout="boundary"] {
+  --callout-color: 34, 139, 94;
+  --callout-icon: lucide-box-select;
+  background:
+    repeating-linear-gradient(
+      -45deg,
+      rgba(34, 139, 94, 0.08) 0,
+      rgba(34, 139, 94, 0.08) 8px,
+      rgba(34, 139, 94, 0.035) 8px,
+      rgba(34, 139, 94, 0.035) 16px
+    );
+  border: 1px solid rgba(34, 139, 94, 0.23);
+}
+
+.markdown-rendered .callout[data-callout="voice"],
+.markdown-source-view.mod-cm6 .callout[data-callout="voice"] {
+  --callout-color: 146, 86, 171;
+  --callout-icon: lucide-message-circle;
+  background: rgba(146, 86, 171, 0.075);
+  border-left-width: 5px;
+}
+
+.markdown-rendered .callout[data-callout="evidence-grid"],
+.markdown-source-view.mod-cm6 .callout[data-callout="evidence-grid"] {
+  --callout-color: 66, 120, 150;
+  --callout-icon: lucide-layout-grid;
+  background: rgba(66, 120, 150, 0.065);
+  border: 1px solid rgba(66, 120, 150, 0.22);
+}
+
+.markdown-rendered .callout[data-callout="evidence-grid"] table {
+  display: table;
+  width: 100%;
+  margin-block: 0.45rem;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.markdown-rendered .callout[data-callout="evidence-grid"] th {
+  background: rgba(66, 120, 150, 0.14);
+  font-weight: 650;
+}
+
+.markdown-rendered .callout[data-callout="evidence-grid"] th,
+.markdown-rendered .callout[data-callout="evidence-grid"] td {
+  border-color: rgba(66, 120, 150, 0.18);
+  vertical-align: top;
+}
+
+.markdown-rendered .callout[data-callout="citation-card"],
+.markdown-source-view.mod-cm6 .callout[data-callout="citation-card"] {
+  --callout-color: 130, 105, 65;
+  --callout-icon: lucide-quote;
+  background:
+    linear-gradient(90deg, rgba(130, 105, 65, 0.1), rgba(130, 105, 65, 0.035)),
+    var(--background-primary);
+  border-left-width: 5px;
+}
+
+.markdown-rendered .callout[data-callout="citation-card"] .callout-content p:last-child {
+  color: var(--text-muted);
+  font-size: 0.94em;
+}
