@@ -45,6 +45,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Viviane Robinson]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Cognition Education]]"
@@ -165,7 +166,7 @@ updated: '2026-05-18'
 >
 > 全球交付通过六个区域伙伴网络实现：Osiris Educational（英国）、JN Partnership（斯堪的纳维亚）、Corwin（澳大利亚）、Corwin（北美）、Bazalt（荷兰）([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.48, 67]])。
 >
-> 2016 年 VLplus 年会在华盛顿 DC 举行，主题演讲者包括 Hattie、Michael Fullan、Pedro Noguera、Viviane Robinson、Douglas Fisher 和 Nancy Frey([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.65 脚注 68]])。
+> 2016 年 VLplus 年会在华盛顿 DC 举行，主题演讲者包括 Hattie、Michael Fullan、Pedro Noguera、[[Viviane Robinson]]、Douglas Fisher 和 Nancy Frey([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.65 脚注 68]])。
 >
 > #### 品牌衍生
 >

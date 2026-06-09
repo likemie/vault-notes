@@ -393,6 +393,66 @@
   vertical-align: top;
 }
 
+.callout[data-callout="contrast-table"] {
+  --callout-color: 92, 111, 126;
+  --callout-icon: lucide-columns-3;
+  background:
+    linear-gradient(180deg, rgba(92, 111, 126, 0.07), rgba(92, 111, 126, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(92, 111, 126, 0.22);
+  border-left: 6px solid rgb(92, 111, 126);
+  box-shadow: 0 8px 22px rgba(92, 111, 126, 0.08);
+}
+
+.callout[data-callout="contrast-table"] table {
+  display: table;
+  width: 100%;
+  margin-block: 0.55rem 0.2rem;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.callout[data-callout="contrast-table"] th,
+.callout[data-callout="contrast-table"] td {
+  vertical-align: top;
+  border-color: rgba(92, 111, 126, 0.16);
+}
+
+.callout[data-callout="contrast-table"] th {
+  font-weight: 700;
+  text-align: center;
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(1),
+.callout[data-callout="contrast-table"] td:nth-child(1) {
+  width: 9rem;
+  background: rgb(92, 111, 126);
+  color: white;
+  font-weight: 700;
+}
+
+.callout[data-callout="contrast-table"] td:nth-child(1) strong {
+  color: white;
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(2),
+.callout[data-callout="contrast-table"] td:nth-child(2) {
+  background: rgba(190, 95, 45, 0.08);
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(3),
+.callout[data-callout="contrast-table"] td:nth-child(3) {
+  background: rgba(178, 74, 96, 0.08);
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(2) {
+  color: rgb(150, 68, 32);
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(3) {
+  color: rgb(145, 52, 78);
+}
+
 .callout[data-callout="citation-card"] {
   --callout-color: 96, 113, 128;
   --callout-icon: lucide-quote;
