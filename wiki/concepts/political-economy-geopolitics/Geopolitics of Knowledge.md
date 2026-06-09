@@ -143,8 +143,8 @@ updated: 2026-05-20
 > ```mermaid
 > flowchart LR
 >     D(["知识密集型资本主义"]) -. 驱动 .-> A
->     A["① 空间-竞争层\n知识经济化·Hub-Flow"] -- 生产 --> B["② 主体-治理层\n地缘政治主体·治理术"]
->     A -- 延伸至 --> C["③ 知识-认识论层\n生产/转移·叙事衰退"]
+>     A["① 空间-竞争层"] -- 生产 --> B["② 主体-治理层"]
+>     A -- 延伸至 --> C["③ 知识-认识论层"]
 >     B -. 微观渗透 .-> C
 > ```
 
@@ -195,6 +195,8 @@ updated: 2026-05-20
 >
 > 两条脉络并非前后替代——从不同学术起点出发，分别抵达"地缘政治与知识的关系"这一共同问题域。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两者整合为"新知识地缘政治"分析框架，主张批判地缘政治学提供空间配置和话语建构的分析工具，去殖民传统则将注意力引向认识论本身的政治性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）。
 
+[[Argument_Marginson_2025_ROE|Marginson（2025）]]补充了一个关键分析维度：高等教育地缘政治关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了操作化工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ROE|Marginson, 2025, p.14]]）。
+
 ---
 
 ## 实证发现
@@ -219,13 +221,9 @@ updated: 2026-05-20
 
 ---
 
-### 制度转型与空间重构
+### 主体-治理层：微观机制证据
 
-- [[Minerva University]] 作为知识地缘政治的典型案例：一所无校园、全球化的营利性大学，以颠覆传统大学为目标，体现了高等教育从民族国家框架中脱嵌并重新嵌入全球政治经济[[Champ|场域]]的过程（Thompson & Parreira do Amaral, 2022, pp.2–3）
-- University Industry Interaction Network ([[University Industry Innovation Network|UIIN]]) 的 Thoughtbook 系列展示了"想象"如何被赋予证据地位以塑造政策：未来大学的愿景被呈现为诊断性事实（Thompson & Parreira do Amaral, 2022, pp.3–4）
-- 大学图书馆的空间重构——从知识储存和智识闲暇的场所（Muße）转变为"makerspaces"和"创新创业中心"——体现了高等教育物理空间在 GPK 逻辑下的物质性转变（Thompson & Parreira do Amaral, 2022, pp.4–6）
-
-### 数字治理与学生主体生产：GPK 在教学层面的微观运作
+#### 数字治理与学生主体生产：GPK 在教学层面的微观运作
 
 Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型和空间竞争延伸至教学治理的微观层面。其核心贡献在于展示了 GPK 的逻辑如何通过数字化治理技术渗透到学生主体层面：
 
@@ -235,7 +233,9 @@ Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型
 
 详见 [[Argument_Thompson_2022_Promising_Student]]。
 
-### SCD：GPK 在全球技能话语中的主体性生产
+---
+
+#### SCD：GPK 在全球技能话语中的主体性生产
 
 [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.251-265)]]的 Ch15 将 GPK 的分析从治理工具（OSA）进一步延伸至治理话语（[[Single-Case Design|SCD]]），展示了 GPK 如何通过 21 世纪技能与素养话语（SCD）在全球尺度上生产特定类型的主体性。其核心贡献在于揭示了 GPK 的**话语-主体性**传导链条：
 
@@ -246,7 +246,11 @@ Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型
 
 这一分析将 GPK 的研究视野从"制度如何被重塑"拓展至"主体性如何被生产"，完善了 GPK 分析在微观主体层面的理论闭环。详见 [[Argument_Zelinka_2022_SCD_subjectivity]]。
 
-### 知识经济化与空间竞争
+---
+
+### 空间-竞争层：结构机制与市场化证据
+
+#### 知识经济化与空间竞争
 
 - [[Knowledge-Based Economization|知识经济化]]中的空间竞争呈现城市形态：大型城市日益体现国家竞争力和吸引力——"国家将资源转移到大规模投资首都城市和城市基础设施"（Crouch & Le Galès, 2012, p.406, cited in Moisio, 2022, p.28）。这种[[Economic Patriotism|经济爱国主义]]将特定国家领土的利益推进作为核心策略([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
 - [[Spatial Sortings]] 的系统性效应：增长潜力集中在[[Knowledge-Based Economy|知识经济]]的城市枢纽中，枢纽之外地区经历相对衰退。[[Argument_Moisio_2022_Springer|Moisio (2022)]]识别了三个关键[[Research Problem|研究议题]]：空间分选的包容与排斥机制、被排斥人群的后果、国家的中介角色([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])
@@ -254,7 +258,9 @@ Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型
 - [[International Education Hubs]] 作为 GPK 的物质化：多个 IEHs 集中在东亚和中东（香港、新加坡、阿联酋等），从学生枢纽到人才枢纽到知识/[[Innovation Hub|创新枢纽]]的梯级代表了与知识经济逻辑越来越深度的整合。高等教育治理的理性在此过程中从社会/教育范畴转向经济范畴([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
 - [[Global Education Industry]] 作为独立运作领域：GEI 不仅是经济过程的集合——"教育已成为一项经济事业，无数行动者在此基础上生产、交换和消费教育商品和服务"（Verger et al., 2016, p.4, cited in Parreira do Amaral, 2022, p.42）。其建立在经济基础上的概念已渗透到全球教育改革和重组之中([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.42–43]])
 
-### 亚洲崛起与 GPK 的市场化维度
+---
+
+#### 亚洲崛起与 GPK 的市场化维度
 
 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲经济和政治崛起的视角拓展了 GPK 的分析。其核心贡献在于揭示了 GPK 中此前未被充分讨论的**市场化维度**——既有关于 GPK 的讨论关注了知识经济化、空间分选和认识论治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局。
 
@@ -276,7 +282,9 @@ Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型
 
 **COVID-19 暴露的结构性矛盾**：Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原有秩序中早已存在的脆弱性——过度依赖单一来源国学生学费的财政模式（"许多英国和澳大利亚的高等教育机构已经过度依赖这一收入来源"）、将商业逻辑优先于伦理和政治考量的价值取向、跨国合作中不对称的权力关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.100–102]])。详见 Rizvi 论证 > 第六步。
 
-### 全球排名作为 GPK 的核心运作机制
+---
+
+#### 全球排名作为 GPK 的核心运作机制
 
 [[Global Universities Rankings|全球大学排名]]不是中立的评估工具，而是知识地缘政治的核心运作机制之一。Hazelkorn（2018, p.10）明确指出，排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]])。
 
@@ -290,13 +298,11 @@ Thompson 等人（2022, pp.217–227）的 Ch13 将 GPK 的分析从制度转型
 
 全球排名被 Amsler & Bolsmann（2012, p.286）定义为"一个强大的象征性和经济权力机器……一种政治-意识形态技术，服务的不是学生或教师的教育需求，而是全球精英的利益"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]])。
 
-### 空间制造框架与地缘政治的双重性
+---
 
-[[Argument_Marginson_2025_ROE|Marginson (2025)]]基于 Massey（2005）的[[Relational Space|关系性空间]]理论，提出理解高等教育地缘政治的一个关键区分：地缘政治关系同时包含合作与竞争、水平性与等级性、双赢与零和。高等教育中的地缘政治关系——尤其在科学领域——比国家间的政治、经济和军事关系更具合作性，尽管高等教育可能在地缘政治上更加等级化和不平等([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])。
+### 历史化分析：地缘政治的两个阶段
 
-Moscovitz & Sabzalieva（2023）提出的"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures framework）为 GPK 的实证研究提供了启发式工具，帮助研究者识别特定情境中起作用的多种力量([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])。
-
-### 两个历史阶段：1990–2015 与 2015 至今
+#### 两个历史阶段：1990–2015 与 2015 至今
 
 [[Argument_Marginson_2025_ROE|Marginson (2025)]]将当代高等教育 GPK 的历史演变分为两个主要阶段([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–32]])：
 
@@ -346,6 +352,8 @@ Moscovitz & Sabzalieva（2023）提出的"尺度-行动者-利益-机会结构"�
 > - [[Horizon 2020 SSH Integration]] — 取消 SSH 独立资助渠道，横向嵌入并要求"直接为政策制定的证据基础做贡献"——认识论治理的典型案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）
 > - [[International Education Hubs|国际教育枢纽]] — 集中在东亚和中东（香港、新加坡、阿联酋等），学生枢纽→人才枢纽→知识/[[Innovation Hub|创新枢纽]]的梯级代表与知识经济逻辑越来越深度的整合（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]]）
 > - [[Minerva University]] — 无校园、全球化营利性大学，学生四年在七个世界城市轮转，体现高等教育彻底"脱嵌"民族国家框架（Thompson & Parreira do Amaral, 2022, pp.2–3）
+> - [[University Industry Innovation Network|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示话语如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）
+> - 大学图书馆空间重构 — 从知识储存和智识闲暇场所（Muße）转变为"makerspaces"和创新创业中心，是 GPK 逻辑改造高等教育物理空间的物质性表现（Thompson & Parreira do Amaral, 2022, pp.4–6）
 > - [[Australia in the Asian Century White Paper|澳大利亚亚洲世纪白皮书]]（2012）— 将亚洲崛起定位为"机遇"；配套 AISRF 和 ACSRF 将研究合作与贸易外交目标深度绑定（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
 > - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映欧盟以研究驱动全球竞争力和规范性影响力的地缘政治策略
 
