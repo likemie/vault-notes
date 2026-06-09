@@ -75,6 +75,14 @@ WIKILINK_NARRATIVE_RE = re.compile(
     r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?"
     r"[）)]"
 )
+TAIL_CITATION_RE = re.compile(
+    r"(?P<label>(?:[,，]\s*)?(?:引自|引|cited in)\s*)"
+    rf"(?P<author>{AUTHOR_PATTERN})"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^;）)]+)?",
+    re.IGNORECASE,
+)
 
 
 def run_git_changed() -> list[Path] | None:
@@ -187,6 +195,27 @@ def link_target(entry: dict[str, Any], display: str) -> str:
     return f"[[{entry['argument']}|{display}]]"
 
 
+def link_tail_citations(tail: str, lookup: dict[str, dict[str, Any]], missing: list[str]) -> tuple[str, bool]:
+    changed = False
+
+    def repl(m: re.Match[str]) -> str:
+        nonlocal changed
+        display_author = normalize_display_author(m.group("author"))
+        author = normalize_author(display_author)
+        year = m.group("year").strip()
+        locator = normalize_locator(m.group("locator") or "")
+        key = f"{author}, {year}"
+        entry = lookup.get(key)
+        if not entry:
+            missing.append(key)
+            return m.group(0)
+        changed = True
+        display = f"{display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
+        return f"{m.group('label')}{link_target(entry, display)}"
+
+    return TAIL_CITATION_RE.sub(repl, tail), changed
+
+
 def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str], opener: str = "(", closer: str = ")") -> str | None:
     parts = content.split(";")
     linked_parts: list[str] = []
@@ -212,13 +241,24 @@ def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], st
         locator = normalize_locator(m.group("locator") or "")
         key = f"{author}, {year}"
         entry = lookup.get(key)
+        tail = m.group("tail") if "tail" in m.groupdict() else None
         if not entry:
             missing.append(key)
-            linked_parts.append(item)
+            if tail:
+                linked_tail, tail_changed = link_tail_citations(tail, lookup, missing)
+                if tail_changed:
+                    display_prefix = f"{display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
+                    linked_parts.append(f"{display_prefix}{linked_tail}")
+                    changed = True
+                else:
+                    linked_parts.append(item)
+            else:
+                linked_parts.append(item)
             continue
         display_prefix = f"{display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
         if prefix_only:
-            linked_parts.append(f"{link_target(entry, display_prefix)}{m.group('tail')}")
+            linked_tail, _ = link_tail_citations(tail or "", lookup, missing)
+            linked_parts.append(f"{link_target(entry, display_prefix)}{linked_tail}")
         else:
             linked_parts.append(link_target(entry, display_prefix))
         changed = True
