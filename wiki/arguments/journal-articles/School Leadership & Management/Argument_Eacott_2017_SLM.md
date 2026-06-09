@@ -1,5 +1,7 @@
 ---
 title: Argument_Eacott_2017_SLM
+authors:
+  - "[[Scott Eacott|Eacott, S.]]"
 summary: "基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见学习品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。"
 type: argument
 subtype: journal-article
