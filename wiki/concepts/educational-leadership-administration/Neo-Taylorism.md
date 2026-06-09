@@ -58,7 +58,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 ## 概念演变
 
-> [!note] 1910s–1960s 科学管理起源与教育效率崇拜
+> [!note] 1910s–1960s 科学管理起源与教育[[Cult of Efficiency|效率崇拜]]
 > - **Taylor (1911)** 出版 *The Principles of Scientific Management*，提出寻找"唯一正确方法"、将任务拆解为最小组件、消除"soldiering"（磨洋工）、最大化效率的核心原则([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418-419]])
 > - **Fordism**：装配线的发明将生产节奏的控制从车间工匠转移到工程师和管理者办公室（Noble, 1978，引自 [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]]）
 > - **Callahan (1962)** 出版 *Education and the Cult of Efficiency*，论证 20 世纪上半叶美国公立学校改革更多受管理实践（尤其是泰勒主义）而非教育理念的影响——Eacott 以此作为分析当代 Hattie 崇拜的历史框架([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413-414]])
@@ -94,7 +94,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 ## 理论基础
 
 - Taylor（1911）*The Principles of Scientific Management* — 经典源头：科学管理的四原则（寻找唯一正确方法、任务拆解、消除磨洋工、最大化效率）
-- Callahan（1962）*Education and the Cult of Efficiency* — 历史[[Analytic Framework|分析框架]]：论证美国公立教育曾被效率崇拜渗透，Eacott 将其类比于当代 Hattie 现象
+- Callahan（1962）*Education and the [[Cult of Efficiency]]* — 历史[[Analytic Framework|分析框架]]：论证美国公立教育曾被效率崇拜渗透，Eacott 将其类比于当代 Hattie 现象
 - [[Technical Rationality]] — Schön（1983）的实证主义专业实践模型是 Neo-Taylorism 的认识论内核：手段-目的思维、价值中立、工程/医学模式
 - Foucault（1977）*Discipline and Punish* — 全景监狱（panopticon）隐喻为理解 asTTle/VL 的监控逻辑提供理论框架
 - [[New Public Management]] — 更广泛的制度语境：NPM 创造了绩效标准、产出控制和市场竞争的制度条件，Neo-Taylorism 是 NPM 中与科学管理原理直接对应的部分

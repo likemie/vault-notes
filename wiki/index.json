@@ -838,11 +838,33 @@
     ]
   },
   {
+    "title": "Cult of Efficiency",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Cult of Efficiency.md",
+    "aliases": [
+      "效率崇拜",
+      "Callahan's Cult of Efficiency",
+      "Raymond Callahan's Cult of Efficiency",
+      "科学管理崇拜"
+    ]
+  },
+  {
     "title": "Cult of the Guru",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
     "aliases": [
       "大师崇拜"
+    ]
+  },
+  {
+    "title": "Instructional Leadership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
+    "aliases": [
+      "教学领导力",
+      "pedagogical leadership",
+      "leading learning",
+      "课程领导力"
     ]
   },
   {
@@ -7719,6 +7741,16 @@
     "aliases": [
       "Biesta, G.",
       "格特·比斯塔"
+    ]
+  },
+  {
+    "title": "Viviane Robinson",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Viviane Robinson.md",
+    "aliases": [
+      "Robinson, V. M. J.",
+      "Viviane M. J. Robinson",
+      "维维安·罗宾逊"
     ]
   },
   {

@@ -923,7 +923,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发
 
 **与澳洲其他改革取向的对比**：Productive Pedagogies 和 Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供"反思和发展自身技艺的资源"；Hattie 的列表则"告诉教育者做什么以获得最大回报"——"区别虽细微但重要"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 
-**"[[Cult of the Guru|大师崇拜]]"的[[Analytic Framework|分析框架]]**：Eacott 以 Callahan（1962）*Education and the Cult of Efficiency* 为历史框架，识别了使"大师崇拜"成为可能的三个历史条件（详见 [[Cult of the Guru]]）：(1) 时间条件——NAPLAN/[[PISA]]/TIMSS 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚；(2) 桥梁——Robinson et al.（2008）向教育行政社区引入效应量语言但仍缺操作细节；(3) 填补——Hattie 提供了"用行政语言说话"的数据([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414-419]])。
+**"[[Cult of the Guru|大师崇拜]]"的[[Analytic Framework|分析框架]]**：Eacott 以 Callahan（1962）*Education and the [[Cult of Efficiency]]* 为历史框架，识别了使"大师崇拜"成为可能的三个历史条件（详见 [[Cult of the Guru]]）：(1) 时间条件——NAPLAN/[[PISA]]/TIMSS 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚；(2) 桥梁——Robinson et al.（2008）向教育行政社区引入效应量语言但仍缺操作细节；(3) 填补——Hattie 提供了"用行政语言说话"的数据([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414-419]])。
 
 **Hattie 回应的不充分性**：[[Argument_Hattie_2017_SLM|Hattie (2017)]]以 Popper 证伪主义为旗帜否认"大师崇拜"的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
