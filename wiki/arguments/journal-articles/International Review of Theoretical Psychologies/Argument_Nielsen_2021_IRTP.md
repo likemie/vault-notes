@@ -1,7 +1,7 @@
 ---
 title: Argument_Nielsen_2021
 authors:
-  - "[[Klaus Nielsen]]"
+  - "[[Klaus Nielsen|Nielsen, K.]]"
   - "Klitmøller, J."
 summary: "以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性内核满足了教育系统的合法化需求，而非其科学质量"
 type: argument

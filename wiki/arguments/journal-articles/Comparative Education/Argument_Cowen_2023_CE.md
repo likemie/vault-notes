@@ -1,7 +1,7 @@
 ---
 title: Argument_Cowen_2023_CE
 authors:
-  - "[[Robert Cowen]]"
+  - "[[Robert Cowen|Cowen, R.]]"
 summary: "诊断比较教育学科积累了过多惯例化的自我合法化方式，指出四种并存但矛盾的理解形式及其政治预设，主张以转移和受教育身份两个核心问题重新出发"
 type: argument
 subtype: journal-article

@@ -3,7 +3,7 @@ title: Argument_Slavin_2002_ER
 summary: "EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和“基于研究 vs 经评估“的关键区分"
 type: argument
 authors:
-  - "[[Robert Slavin|Slavin, R. E.]]"
+  - "[[Robert Slavin|Slavin, R.]]"
 citation: "Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. Educational Researcher, 31(7), 15–21."
 year: 2002
 doi: "10.3102/0013189X031007015"

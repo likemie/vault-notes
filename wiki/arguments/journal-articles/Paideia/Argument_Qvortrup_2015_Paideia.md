@@ -1,7 +1,7 @@
 ---
 title: Argument_Qvortrup_2015_Paideia
 authors:
-  - "[[Lars Qvortrup]]"
+  - "[[Lars Qvortrup|Qvortrup, L.]]"
 summary: "VL 支持者立场讨论论文：回应三类批评，并指出学习结果概念需通过动态知识与学习模型加以重建"
 type: argument
 subtype: journal-article

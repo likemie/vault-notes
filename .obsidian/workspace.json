@@ -191,6 +191,7 @@
   },
   "active": "0b96c36524025567",
   "lastOpenFiles": [
+    "scripts/cleanup_argument_authors.py",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ROE.md",
     "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md",
     "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md",
@@ -216,7 +217,6 @@
     "wiki/facts/china/China S&T Innovation Policy Evolution.md",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
     "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md",
     "scripts/cleanup_person_yaml.py",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md.tmp.59161.074a5d9a9d12",
     "scripts/__pycache__/citation_linker.cpython-313.pyc",

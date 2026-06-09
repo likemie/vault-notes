@@ -1,9 +1,9 @@
 ---
 title: Argument_Pampaka_2016_IJRME
 authors:
-  - "[[Maria Pampaka]]"
-  - "[[Julian Williams]]"
-  - "[[Matt Homer]]"
+  - "[[Maria Pampaka|Pampaka, M.]]"
+  - "[[Julian Williams|Williams, J.]]"
+  - "[[Matt Homer|Homer, M.]]"
 summary: "IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁"
 type: argument
 subtype: journal-article

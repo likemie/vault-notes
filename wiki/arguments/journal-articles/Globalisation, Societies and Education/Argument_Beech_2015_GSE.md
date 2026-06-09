@@ -1,8 +1,8 @@
 ---
 title: Argument_Beech_2015_GSE
 authors:
-  - "[[Jason Beech]]"
-  - "[[Alejandro Artopoulos]]"
+  - "[[Jason Beech|Beech, J.]]"
+  - "[[Alejandro Artopoulos|Artopoulos, A.]]"
 summary: "批评比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用关系性空间概念和行动者网络理论分析教育话语的跨空间流通"
 type: argument
 subtype: journal-article

@@ -2,7 +2,7 @@
 title: Argument_Lekhal_2015_Paideia
 authors:
   - "Lekhal, R."
-  - "[[Thomas Nordahl]]"
+  - "[[Thomas Nordahl|Nordahl, T.]]"
   - "Aasen, A. M."
   - "Drugli, M. B."
 summary: "挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成"

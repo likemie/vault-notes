@@ -3,7 +3,7 @@ title: Argument_Bang_2025_ClinicalTrials
 summary: "以临床试验各阶段为框架，分析产学在生物制药临床试验中的合作模式、预算与启动效率瓶颈及主方案等创新解决方案"
 type: argument
 authors:
-  - "Soo Bang"
+  - "Bang, S."
 citation: "Bang, S. (2025). University–Industry Relations in Clinical Trials. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 201–215). Springer."
 tags:
   - theme/university-industry-collaboration

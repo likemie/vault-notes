@@ -4,7 +4,7 @@ authors:
   - "Keddie, A."
   - "MacDonald, K. C."
   - "Blackmore, J."
-  - "[[Scott Eacott]]"
+  - "[[Scott Eacott|Eacott, S.]]"
   - "Gobby, B."
   - "Mahoney, C."
   - "Niesche, R."

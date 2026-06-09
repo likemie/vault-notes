@@ -6,8 +6,8 @@ subtype: textbook
 publication_type: book
 book_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 authors:
-  - "[[John W. Creswell]]"
-  - "[[J. David Creswell]]"
+  - "[[John W. Creswell|Creswell, J. W.]]"
+  - "[[J. David Creswell|Creswell, J. D.]]"
 publisher: "SAGE Publications"
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 tags: [source/textbook]

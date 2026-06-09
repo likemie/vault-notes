@@ -1,7 +1,7 @@
 ---
 title: Argument_Parreira do Amaral_2022_geopolitics-knowledge
 authors:
-  - "Parreira do Amaral, M"
+  - "Parreira do Amaral, M."
 summary: "Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例"
 type: argument
 subtype: book-chapter

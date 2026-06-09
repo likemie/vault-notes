@@ -1,8 +1,8 @@
 ---
 title: Argument_Cheung_2021_ROE
 authors:
-  - "[[Alan C. K. Cheung]]"
-  - "[[Chen Xie]]"
+  - "[[Alan C. K. Cheung|Cheung, A. C. K.]]"
+  - "[[Chen Xie|Xie, C.]]"
 summary: "ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT，汇集七国八篇文章，按四项核心活动框架呈现证据本位改革全球全景"
 type: argument
 subtype: journal-article

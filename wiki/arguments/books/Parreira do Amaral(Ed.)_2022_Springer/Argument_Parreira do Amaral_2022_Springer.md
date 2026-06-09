@@ -2,7 +2,7 @@
 title: Argument_Parreira do Amaral_2022_Springer
 authors:
   - "Parreira do Amaral, M."
-  - "[[Christiane Thompson]]"
+  - "[[Christiane Thompson|Thompson, C.]]"
 summary: "论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开"
 type: argument
 subtype: edited-volume

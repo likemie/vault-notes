@@ -7,7 +7,7 @@ authors:
   - "Wilkinson, J."
   - "Gobby, B."
   - "Niesche, R."
-  - "[[Scott Eacott]]"
+  - "[[Scott Eacott|Eacott, S.]]"
   - "Mahoney, C."
 summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论"
 type: argument

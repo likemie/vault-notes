@@ -6,7 +6,7 @@ subtype: monograph
 publication_type: book
 book_title: "Darwin's Finch: A Short History of Cognition"
 authors:
-  - "Terry Bates"
+  - "Bates, T."
 publisher: "Cognition Education Trust"
 citation: "Bates, T. (2017). Darwin's Finch: A Short History of Cognition. Cognition Education Trust."
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]

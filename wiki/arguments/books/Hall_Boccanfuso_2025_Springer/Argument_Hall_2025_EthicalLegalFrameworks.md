@@ -3,7 +3,7 @@ title: Argument_Hall_2025_EthicalLegalFrameworks
 summary: "产学合作协议的类型学与谈判框架梳理，从法律、伦理和文化三维度分析大学与企业如何在价值差异中达成正式合作"
 type: argument
 authors:
-  - "Randolph Hall"
+  - "Hall, R."
 citation: "Hall, R. (2025). Ethical relationships, legal frameworks, and agreements. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 259–270). Springer."
 tags:
   - "theme/university-industry-collaboration"

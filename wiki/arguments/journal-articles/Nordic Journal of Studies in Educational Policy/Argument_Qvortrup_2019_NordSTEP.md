@@ -1,7 +1,7 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
 authors:
-  - "[[Lars Qvortrup]]"
+  - "[[Lars Qvortrup|Qvortrup, L.]]"
 summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节"
 type: argument
 subtype: journal-article
