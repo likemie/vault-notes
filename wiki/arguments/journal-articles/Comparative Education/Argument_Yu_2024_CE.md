@@ -174,10 +174,21 @@ citation_aliases:
 > [!tip] 主题B：儒家作为特定世界观面临跨文化反思
 >
 > 宗教与文化身份紧密交织的学生从自身信仰出发开展了批判性比较。
+
+> [!example] 反思人类中心主义
+> 儒家过度关注人而忽视非人世界的倾向遭到强烈批评。
 >
-> - **反思人类中心主义**：儒家过度关注人而忽视非人世界的倾向遭到强烈批评。一位藏族女学生引入藏传佛教尊重所有生命形式及主张众生平等的视角，反衬出儒家虽强调对人的关怀、却极少顾及世界上其他生灵的道德局限。
-> - **抵制一元化的成功观**：儒家期望人们追求特定生活方式（如在仕途中取得成功）的预设遭到抵制。一位曾与母亲一同皈依基督教的汉族女学生（新闻专业）强调，现代社会人们有不同的追求，社会理应支持基于世界多元本质的多元主义。
-> - **指出终极关怀的缺失**：儒家在灵性和内在生命关怀上的匮乏同样受到审视。一位东乡族穆斯林学生（中国语言文学专业）强调，宗教能解答关于”世界从哪来”以及”人死后去哪”的根本问题，而主要聚焦社会关系与为人处世的儒家则”无法完整解释人从生到死的经历，不能提供一个完整的世界观”。另一位汉族佛教徒男学生（新闻专业）对比指出，佛教能赋权人们将灵魂从各种压力中解放出来，而主张道德约束的儒学则”似乎没有这样的力量”。
+> 一位藏族女学生引入藏传佛教尊重所有生命形式及主张众生平等的视角，反衬出儒家虽强调对人的关怀、却极少顾及世界上其他生灵的道德局限。
+
+> [!example] 抵制一元化的成功观
+> 儒家期望人们追求特定生活方式，如在仕途中取得成功，这一预设遭到抵制。
+>
+> 一位曾与母亲一同皈依基督教的汉族女学生（新闻专业）强调，现代社会人们有不同的追求，社会理应支持基于世界多元本质的多元主义。
+
+> [!example] 指出终极关怀的缺失
+> 儒家在灵性和内在生命关怀上的匮乏同样受到审视。
+>
+> 一位东乡族穆斯林学生（中国语言文学专业）强调，宗教能解答关于”世界从哪来”以及”人死后去哪”的根本问题，而主要聚焦社会关系与为人处世的儒家则”无法完整解释人从生到死的经历，不能提供一个完整的世界观”。另一位汉族佛教徒男学生（新闻专业）对比指出，佛教能赋权人们将灵魂从各种压力中解放出来，而主张道德约束的儒学则”似乎没有这样的力量”。
 
 > [!success] 跨文化视角的启示
 > 这些跨文化视角清晰地划定了儒学作为一种世界观的边界，暴露了官方叙事声称儒家为中国文化”核心”时对其他文化传统的粗暴压抑。
@@ -223,27 +234,23 @@ citation_aliases:
 
 > [!quote] 官方知识的文化等级效应
 > 对儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级 (p.59)。
-> Original: The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.
 >
-> ---
->
-> 学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统可以从其他文化的批判性反思中获益 (p.59)。
-> Original: The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.
->
-> ---
->
-> 文化排斥延续了少数民族的不平等 (Yi 2008, p.1, cited on p.62)。
-> Original: Cultural exclusion perpetuates ethnic minority inequality.
->
-> ---
->
-> 官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离 (p.71)。
-> Original: The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.
+> The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.
 
-> [!note]- 可继续摘录的访谈原句
-> - 东乡族穆斯林学生关于宗教与儒家的比较，可用于补充“终极关怀缺失”段落 (p.70)。
-> - 汉族佛教徒学生关于佛教“解放灵魂”与儒家“道德约束”的比较，可用于补充“灵性关怀”段落 (p.70)。
-> - 土家族女学生关于儒家男权结构的批评，可用于补充“性别等级”段落 (p.69)。
+> [!quote] 边缘学生的重新定位
+> 学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统可以从其他文化的批判性反思中获益 (p.59)。
+>
+> The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.
+
+> [!quote] 文化排斥与不平等
+> 文化排斥延续了少数民族的不平等 (Yi 2008, p.1, cited on p.62)。
+>
+> Cultural exclusion perpetuates ethnic minority inequality.
+
+> [!quote] 单一汉文化叙事的后果
+> 官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离 (p.71)。
+>
+> The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.
 
 ---
 
