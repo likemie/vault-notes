@@ -82,6 +82,57 @@
   font-size: 1.01em;
 }
 
+.callout[data-callout="framework-table"] {
+  --callout-color: 111, 92, 156;
+  --callout-icon: lucide-telescope;
+  background:
+    radial-gradient(circle at top right, rgba(111, 92, 156, 0.18), transparent 38%),
+    linear-gradient(135deg, rgba(111, 92, 156, 0.12), rgba(111, 92, 156, 0.035)),
+    var(--background-primary);
+  border: 1px solid rgba(111, 92, 156, 0.24);
+  border-left: 6px solid rgb(111, 92, 156);
+}
+
+.callout[data-callout="framework-table"] table {
+  display: table;
+  width: 100%;
+  margin-block: 0.55rem 0.2rem;
+  border-collapse: separate;
+  border-spacing: 0 0.45rem;
+}
+
+.callout[data-callout="framework-table"] th {
+  display: none;
+}
+
+.callout[data-callout="framework-table"] td {
+  border: 1px solid rgba(111, 92, 156, 0.18);
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(111, 92, 156) 12%);
+  vertical-align: top;
+  line-height: 1.55;
+}
+
+.callout[data-callout="framework-table"] td:first-child {
+  width: 13rem;
+  border-right: 0;
+  border-radius: 9px 0 0 9px;
+  color: rgb(111, 92, 156);
+  font-weight: 700;
+}
+
+.callout[data-callout="framework-table"] td:last-child {
+  border-left: 0;
+  border-radius: 0 9px 9px 0;
+}
+
+.callout[data-callout="framework-table"] td:first-child strong {
+  font-size: 1.03em;
+}
+
+.callout[data-callout="framework-table"] td:last-child strong {
+  color: rgb(111, 92, 156);
+}
+
 .callout[data-callout="method-panel"] {
   --callout-color: 26, 142, 166;
   --callout-icon: lucide-flask-conical;
