@@ -2,42 +2,58 @@
    Enable in Obsidian: Settings -> Appearance -> CSS snippets -> argument-callouts.
    The Markdown stays readable without this snippet. */
 
-.markdown-rendered .callout,
-.markdown-source-view.mod-cm6 .callout {
+.callout {
   border-radius: 10px;
 }
 
-.markdown-rendered .callout[data-callout="argument-map"],
-.markdown-source-view.mod-cm6 .callout[data-callout="argument-map"] {
+.callout[data-callout="argument-map"] {
   --callout-color: 20, 126, 121;
-  --callout-icon: lucide-map;
+  --callout-icon: lucide-route;
   background:
-    linear-gradient(135deg, rgba(20, 126, 121, 0.13), rgba(20, 126, 121, 0.035) 48%),
+    radial-gradient(circle at top right, rgba(20, 126, 121, 0.22), transparent 42%),
+    linear-gradient(135deg, rgba(20, 126, 121, 0.14), rgba(20, 126, 121, 0.035) 48%),
     var(--background-primary);
   border: 1px solid rgba(20, 126, 121, 0.24);
-  box-shadow: 0 8px 28px rgba(20, 126, 121, 0.08);
+  border-left: 6px solid rgb(20, 126, 121);
+  box-shadow: 0 12px 30px rgba(20, 126, 121, 0.12);
 }
 
-.markdown-rendered .callout[data-callout="reading-lens"],
-.markdown-source-view.mod-cm6 .callout[data-callout="reading-lens"] {
+.callout[data-callout="argument-map"] > .callout-title {
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="argument-map"] > .callout-title .callout-title-inner::before {
+  content: "MAP";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.38rem;
+  border-radius: 999px;
+  background: rgba(20, 126, 121, 0.18);
+  color: rgb(20, 126, 121);
+  font-size: 0.7em;
+  font-weight: 700;
+}
+
+.callout[data-callout="reading-lens"] {
   --callout-color: 61, 115, 180;
   --callout-icon: lucide-scan-search;
-  background: rgba(61, 115, 180, 0.075);
+  background: linear-gradient(90deg, rgba(61, 115, 180, 0.13), rgba(61, 115, 180, 0.035));
   border-left-width: 5px;
 }
 
-.markdown-rendered .callout[data-callout="tension"],
-.markdown-source-view.mod-cm6 .callout[data-callout="tension"] {
+.callout[data-callout="tension"] {
   --callout-color: 190, 95, 45;
   --callout-icon: lucide-split;
   background:
-    linear-gradient(90deg, rgba(190, 95, 45, 0.12), rgba(190, 95, 45, 0.035)),
+    linear-gradient(90deg, rgba(190, 95, 45, 0.16), transparent 48%),
+    linear-gradient(270deg, rgba(190, 95, 45, 0.08), transparent 42%),
     var(--background-primary);
   border: 1px solid rgba(190, 95, 45, 0.24);
+  border-left: 5px solid rgb(190, 95, 45);
+  border-right: 5px solid rgba(190, 95, 45, 0.45);
 }
 
-.markdown-rendered .callout[data-callout="boundary"],
-.markdown-source-view.mod-cm6 .callout[data-callout="boundary"] {
+.callout[data-callout="boundary"] {
   --callout-color: 34, 139, 94;
   --callout-icon: lucide-box-select;
   background:
@@ -47,27 +63,59 @@
       rgba(34, 139, 94, 0.08) 8px,
       rgba(34, 139, 94, 0.035) 8px,
       rgba(34, 139, 94, 0.035) 16px
-    );
+  );
   border: 1px solid rgba(34, 139, 94, 0.23);
+  outline: 1px dashed rgba(34, 139, 94, 0.38);
+  outline-offset: -6px;
 }
 
-.markdown-rendered .callout[data-callout="voice"],
-.markdown-source-view.mod-cm6 .callout[data-callout="voice"] {
-  --callout-color: 146, 86, 171;
+.callout[data-callout="voice"] {
+  --callout-color: 178, 74, 96;
   --callout-icon: lucide-message-circle;
-  background: rgba(146, 86, 171, 0.075);
+  background:
+    linear-gradient(90deg, rgba(178, 74, 96, 0.13), rgba(178, 74, 96, 0.035)),
+    var(--background-primary);
   border-left-width: 5px;
 }
 
-.markdown-rendered .callout[data-callout="evidence-grid"],
-.markdown-source-view.mod-cm6 .callout[data-callout="evidence-grid"] {
+.callout[data-callout="voice"] .callout-content {
+  font-size: 1.01em;
+}
+
+.callout[data-callout="evidence-grid"] {
   --callout-color: 66, 120, 150;
   --callout-icon: lucide-layout-grid;
-  background: rgba(66, 120, 150, 0.065);
+  background:
+    linear-gradient(180deg, rgba(66, 120, 150, 0.11), rgba(66, 120, 150, 0.035)),
+    var(--background-primary);
   border: 1px solid rgba(66, 120, 150, 0.22);
 }
 
-.markdown-rendered .callout[data-callout="evidence-grid"] table {
+.callout[data-callout="evidence-grid"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  padding-inline-start: 0;
+  margin-block: 0.75rem 0.25rem;
+  list-style: none;
+}
+
+.callout[data-callout="evidence-grid"] .callout-content > ul > li {
+  margin: 0;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid rgba(66, 120, 150, 0.2);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--background-primary) 86%, rgb(66, 120, 150) 14%);
+  box-shadow: 0 8px 20px rgba(66, 120, 150, 0.08);
+}
+
+.callout[data-callout="evidence-grid"] .callout-content > ul > li strong:first-child {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: rgb(66, 120, 150);
+}
+
+.callout[data-callout="evidence-grid"] table {
   display: table;
   width: 100%;
   margin-block: 0.45rem;
@@ -75,28 +123,35 @@
   border-spacing: 0;
 }
 
-.markdown-rendered .callout[data-callout="evidence-grid"] th {
+.callout[data-callout="evidence-grid"] th {
   background: rgba(66, 120, 150, 0.14);
   font-weight: 650;
 }
 
-.markdown-rendered .callout[data-callout="evidence-grid"] th,
-.markdown-rendered .callout[data-callout="evidence-grid"] td {
+.callout[data-callout="evidence-grid"] th,
+.callout[data-callout="evidence-grid"] td {
   border-color: rgba(66, 120, 150, 0.18);
   vertical-align: top;
 }
 
-.markdown-rendered .callout[data-callout="citation-card"],
-.markdown-source-view.mod-cm6 .callout[data-callout="citation-card"] {
-  --callout-color: 130, 105, 65;
+.callout[data-callout="citation-card"] {
+  --callout-color: 96, 113, 128;
   --callout-icon: lucide-quote;
   background:
-    linear-gradient(90deg, rgba(130, 105, 65, 0.1), rgba(130, 105, 65, 0.035)),
+    linear-gradient(90deg, rgba(96, 113, 128, 0.12), rgba(96, 113, 128, 0.035)),
     var(--background-primary);
   border-left-width: 5px;
+  box-shadow: inset 0 0 0 1px rgba(96, 113, 128, 0.15);
 }
 
-.markdown-rendered .callout[data-callout="citation-card"] .callout-content p:last-child {
+.callout[data-callout="citation-card"] .callout-content p:first-child {
+  font-size: 1.03em;
+  line-height: 1.75;
+}
+
+.callout[data-callout="citation-card"] .callout-content p:last-child {
   color: var(--text-muted);
   font-size: 0.94em;
+  padding-left: 0.9rem;
+  border-left: 2px solid rgba(96, 113, 128, 0.28);
 }
