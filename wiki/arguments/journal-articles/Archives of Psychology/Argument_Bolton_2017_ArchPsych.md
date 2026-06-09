@@ -49,7 +49,6 @@ citation_aliases:
   - "Bolton & Hattie, 2017"
   - "Bolton & Hattie (2017)"
 ---
-
 # Argument_Bolton_2017_ArchPsych
 
 ---

@@ -169,6 +169,14 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 > - **教学层**：用 "Know thy impact"、DIE 模型和教师思维框架把证据转换成教师自我评价语言。
 > - **实施层**：通过培训、忠实实施、反馈文化和学校协作，把证据逻辑嵌入学校改进流程。
 
+> [!logic-map] 三层结构
+> 
+> ```mermaid
+> flowchart TD
+>     A["测量层：效应量排名 / d=0.40 关节点"] --> B["教学层：Know thy impact / DIE 循环 / 八项思维框架"]
+>     B --> C["实施层：忠实实施 / 反馈文化 / 学校协作改进"]
+> ```
+
 > [!nav] 快速阅读路径
 > 如果只想先抓主线，可以先读：`教与学的可见性 → 效应量排名与关节点 → Know thy impact → 作为评价性判断而非方法清单 → 忠实实施`
 
@@ -196,8 +204,7 @@ Hattie (2015) 对 VL 的自我解释把重点从"选择排名最高的教学法"
 
 这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要追问提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
 
-> [!example]
-> 一个学校若只是把"高效应量策略"列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是"Know thy impact"的实践含义（Hattie, 2015, pp.12-13）。
+一个学校若只是把"高效应量策略"列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是"Know thy impact"的实践含义（Hattie, 2015, pp.12-13）。
 
 ### 忠实实施（Fidelity）
 
@@ -225,8 +232,7 @@ Hattie (2015) 对 VL 的自我解释把重点从"选择排名最高的教学法"
 2. **从证据排名转向概率判断**：证据不是保证课堂自动成功的配方，而是帮助教师减少"全凭习惯和直觉"的空间，提高成功概率的判断资源([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.63]])。
 3. **从外部问责转向能力建设**：真正稀缺的不是改革口号，而是把研究知识转进课堂的中介机制，例如能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.65–67]])。
 
-> [!example]
-> 一个很贴近学校现场的例子是：与其只把"Know thy impact"写进 PPT 或墙上海报，更关键的是教师是否真的一起看学生作业、比较不同反馈方式、讨论"学生到底哪里没学会"。前者只是口号，后者才是 [[Visible Learning]] 被转成学校改进实践的形式([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
+与其只把"Know thy impact"写进 PPT 或墙上海报，更关键的是教师是否真的一起看学生作业、比较不同反馈方式、讨论"学生到底哪里没学会"——前者只是口号，后者才是 [[Visible Learning]] 被转成学校改进实践的形式（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]]）。
 
 ---
 
@@ -235,40 +241,41 @@ Hattie (2015) 对 VL 的自我解释把重点从"选择排名最高的教学法"
 
 ### 高等教育的六项关键发现
 
-Hattie (2015), p.81) 将 VL 的核心信息概括为六项提升教学影响的关键发现：
-
-1. 教师相信其主要角色是**评估自身的影响力**（d=0.91）
-2. 教师**合作**了解和评估自身的影响力（d=0.91）
-3. 教师基于学生的**先前学习**（学生带到课堂的知识）进行教学（d=0.85）
-4. 教师在系列课程开始时**明确告知学生成功标准**（d=0.77）
-5. 教师实施具有**最优表层/[[Surface and Deep Learning|深层学习]]比例**的方案（d=0.71）
-6. 教师设置**适当的挑战水平**，永远不要求"尽力而为"（d=0.57）
-
-这些影响不仅通过测试分数来衡量，也通过学生的投入程度、对错误的容忍度、与他人合作的意愿、对成功的渴望和高度兴趣来体现（Hattie, 2015, p.81）。
+> [!finding-cards] 高等教育六项高影响条件
+> 1. **评估自身影响力**（d=0.91）：教师相信主要角色是评估自身的影响力。
+> 2. **教师合作**（d=0.91）：合作了解和评估自身影响。
+> 3. **先前学习**（d=0.85）：基于学生带到课堂的先前知识进行教学。
+> 4. **明确成功标准**（d=0.77）：在系列课程开始时告知学生成功标准。
+> 5. **最优表深层比例**（d=0.71）：实施具有最优[[Surface and Deep Learning|表层/深层学习]]比例的方案。
+> 6. **适当挑战**（d=0.57）：设置适当挑战水平，不只要求"尽力而为"。
+>
+> 影响不仅通过测试分数衡量，也通过学生投入程度、对错误的容忍度、合作意愿与高度兴趣体现（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]]）。
 
 ### DIE 模型
 
 Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成功教师的核心循环：
-- **D**iagnose（诊断）：在课程开始时诊断学生的状态
-- **I**ntervene（干预）：如果当前干预未产生预期效果，拥有可应用的多重干预
-- **E**valuate（评估）：评估学生对干预的反应
 
-> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." (Hattie, 2015, p.81)
+> [!finding-cards] DIE 循环
+> - **D — Diagnose（诊断）**：在课程开始时诊断学生状态
+> - **I — Intervene（干预）**：当前干预未见效时切换至备选干预方案
+> - **E — Evaluate（评估）**：评估学生对干预的反应
+
+> [!citation-card]
+> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
 
 ### 八项教师思维框架（Mind Frames）
 
-Hattie (2015, p.88-89) 识别了成功教师的八项核心思维框架，以"Know thy impact"为首要：
-
-1. **Know thy impact**（知晓自身影响力）— 教师走进教学情境时的根本问题是"我今天如何知道我的影响力？"，这导向三个子问题：我今天所说的影响力是什么意思并已传达给学生？我追求的影响力有多大？我能教多少学生达到这一影响力？
-2. **I am a change agent**（我是变革推动者）
-3. **I explicitly inform students what successful impact looks like from the outset**（我从一开始就明确告知学生成功的影响力是什么样）
-4. **I see assessment as providing [[Feedback]] about my impact**（我将评估视为提供关于我影响力的反馈）
-5. **I work with other teachers to develop common conceptions of progress**（我与其他教师合作发展关于进步的共识概念）
-6. **I engage in dialogue not monologue**（我进行对话而非独白）
-7. **I strive for challenge and not 'doing your best'**（我追求挑战而非"尽力而为"）
-8. **I use the language of learning; I see errors as opportunities for learning**（我使用学习的语言；我将错误视为学习机会）
-
-（Hattie, 2015, p.88-89）
+> [!finding-cards] 八项教师思维框架
+> 1. **Know thy impact**（知晓影响力）— 核心问题："我今天如何知道我的影响？"包括影响的含义、幅度与覆盖学生比例
+> 2. **I am a change agent**（变革推动者）— 教师视自己为积极改变学生学习轨迹的推动者
+> 3. **Inform students of successful impact from the outset**（明确成功标准）— 在课程开始明确告知学生成功意味着什么
+> 4. **Assessment as feedback on my impact**（评估即反馈）— 将评估视为了解自身影响力的反馈机制，而非学生排名工具
+> 5. **Work with others to develop conceptions of progress**（共同建立进步概念）— 与同事合作建立关于学生进步的共识标准
+> 6. **Dialogue not monologue**（对话而非独白）— 课堂以双向对话为主，而非教师单向讲授
+> 7. **Strive for challenge, not "doing your best"**（挑战而非"尽力"）— 设置明确高要求，而非接受模糊的努力目标
+> 8. **Language of learning; errors as opportunities**（学习语言与错误观）— 以成长框架而非表现评判看待课堂，将错误视为学习机会
+>
+> ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]])
 
 ### 学习科学基础：九条原则（Hattie & Yates, 2014）
 
@@ -300,29 +307,28 @@ Hattie & Yates 早期在书中声称好教师不能以特定人格类型定义�
 
 ### 学习方差分解
 
-Hattie (2015, p.87-88, Figure 2) 基于 VL 综合估计了影响学生学业成就的方差来源：
+> [!finding-cards] 影响学业成就的方差来源
+> 1. **学生因素**（约50%）：先前知识、动机、学习方式、协作偏好等带到课堂的差异
+> 2. **教师因素**（约20–25%）：教师质量——"如每个学生所知，教师可以差异很大"；教育者可控制的最大方差来源
+> 3. **结构因素**：讲座 vs 在线、课堂架构等（效应有限）
+> 4. **同伴效应**：尚有潜力——可以发挥比目前更大的影响
+> 5. **领导力**：通过营造学校文化与组织条件间接影响学习
+>
+> ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.87–88, Figure 2]])
 
-- **学生因素** ~50%：学生带到课堂的差异——先前知识、动机、学习方式、协作偏好等
-- **教师因素** ~20–25%：教师质量——"如每个学生所知，教师可以差异很大"。这是教育者有一定控制力的最大方差来源
-- **结构因素**：讲座 vs 在线、课堂架构等
-- **同伴效应**：可以发挥比目前更大的影响
-- **领导力**
-
-> "Understanding the essence of successful teachers and teaching has been the quest of the Visible Learning series." (Hattie, 2015, p.88)
+> [!citation-card]
+> "Understanding the essence of successful teachers and teaching has been the quest of the Visible Learning series." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.88]])
 
 ### 高等教育情境中的应用发现
 
-Hattie (2015) 将 VL 框架应用于高等教育，聚焦多个具体领域的证据：
+> [!evidence-grid-a] 课程设计与教学方式
+> - **[[Problem-Based Learning|问题式学习（PBL）]]**（9项元分析）：总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（Dochy et al. 2003，d=−0.79）。引入时机比形式本身更关键——新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.84–85]]）。
+> - **在线/远程 vs 面授**（17项元分析）：两种方式成绩无显著差异（d≈0.12）。方法本身不重要，重要的是明确成功标准、设置挑战与[[Feedback|反馈]]质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.86]]）。
 
-**问题式学习（[[Problem-Based Learning|PBL]]）**：9 项元分析综合显示 PBL 总体效应量低（d≈0.08–0.24）。Hattie (2015, p.84-85) 论证这可能是引入时机的问题——PBL 在学生尚未具备表层知识时效果差，因为新手倾向于逆向推理（从未知到已知）导致更多错误。高年级学生在具备基础概念后可能从 PBL 中获益更多，但这仍是一个待验证的假设。Dochy et al. (2003) 发现 PBL 对知识获取可能产生显著负面效果（d=−0.79）（Hattie, 2015, p.85）。参见 [[Problem-Based Learning]]。
-
-**在线/远程教学 vs 面授**：17 项元分析综合显示两种授课方式在学生成绩上无显著差异（d≈0.12）。Hattie (2015, p.86) 的结论是"方法不重要"——更重要的是教师如何明确成功标准、提供挑战和反馈、以及师生互动的质量，无论授课方式如何。参见 Table 4（Hattie, 2015, p.87-88）。
-
-**学生评教**：7 项元分析（141 项研究）综合显示学生评教与教师有效性高度相关（d=0.47），评教对教学技能和学科知识的评价效应高于师生关系，对课程难度的评价效应最低。Hattie (2015, p.86-87) 指出关键问题不是评教的准确性（它很高），而是教师是否实际使用评教信息改进教学。参见 Table 3（Hattie, 2015, p.86）。
-
-**笔记与回顾**：Henk & Stahl (1985) 的元分析发现记笔记对学习的改善 modest（d=0.34），但回顾笔记 dramatically 提高了学习（d=1.56）——"不是记笔记，而是回顾才是重要的"（Hattie, 2015, p.84）。
-
-**Tomcho & Foels (2008)** 对 197 项大学教学活动的元分析发现：几乎所有干预都有正面效果，总体效应量为知识 d=0.57、态度 d=0.27、行为/技能 d=0.39、成绩 d=0.31——仅 10 个效应量为负且接近零（Hattie, 2015, p.80）。
+> [!evidence-grid-b] 评价、互动与综合效果
+> - **学生评教**（7项元分析，141研究）：与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否使用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.86–87]]）。
+> - **笔记与回顾**：记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.84]]）。
+> - **综合效果**（197项大学教学活动，Tomcho & Foels, 2008）：几乎全部正向；知识 d=0.57、态度 d=0.27、行为/技能 d=0.39、成绩 d=0.31（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.80]]）。
 
 ---
 
@@ -337,7 +343,7 @@ Hattie (2015) 将 VL 框架应用于高等教育，聚焦多个具体领域的�
 
 ### 前史：Hattie 的元综合积累（1987–1992）
 
-> [!note] 前史
+> [!phase] 前史：元综合积累（1987–1992）
 > 《可见的学习》并非凭空出现。Hattie 在 1987 年参与了 Fraser、Walberg 团队的首次大规模[[Meta-meta-analysis|元综合]]，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
 >
 > 1992 年，Hattie 首次独立进行元综合：134 项元分析、22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生。他引入通用连续体（universal continuum）概念，以标准差单位为尺度将结果置于同一量表上。平均效应量为 0.40（标准差 0.13）([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
@@ -375,8 +381,7 @@ VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cog
 
 ### 对政策工具的影响
 
-> [!info] 对政策工具的影响
-> [[EEF Teaching and Learning Toolkit]] 的设计部分受到 Hattie（1992/2008）工作的启发，特别是他将多元研究发现置于同一量表上的比较性研究地图思路。Toolkit 还借鉴了 Sipe 和 Curlette（1996）的共同纳入标准和系统搜索策略，以及Marzano（1998）的实用目标([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
+[[EEF Teaching and Learning Toolkit]] 的设计部分受到 Hattie（1992/2008）工作的启发，特别是他将多元研究发现置于同一量表上的比较性研究地图思路。Toolkit 还借鉴了 Sipe 和 Curlette（1996）的共同纳入标准和系统搜索策略，以及 Marzano（1998）的实用目标（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 
 ---
 
@@ -400,13 +405,11 @@ VL 品牌对学术批评表现出显著的免疫力——[[Argument_Hattie_2017_
 
 ## 理论基础
 
-> [!info] 理论基础
-> - 实证主义／行为主义学习理论：假设所有教与学可以被量化、被知晓、被打包为投入与产出([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]])
-> - Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 的行为主义理论谱系：Hattie (1987) 明确借鉴了 Glaser 的学习理论——称其为"独特贡献"，关注"初始状态与能力状态之间的转化过程"——而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名（Nielsen & Klitmøller, 2021, p.3）。这建立了 Skinner→Glaser→Hattie 的理论传承链，揭示 VL 的理论根基不仅是广义的[[Technical Rationality|技术理性]]，更具体地根植于 Skinner 的激进行为主义传统
-> - [[New Public Management]] — Visible Learning 被描述为"新管理全景监狱主义"的完美工具（Ball, 2003, p.219），使每个人都可以监视其他所有人
-> - 与更进步的教育哲学语言结合（如"学习必须被学习者分享、承诺和理解"），使其难以抵制（Hattie, 2009, p.23，引自 McKnight & Whitburn, 2020, p.34）
-> - [[Radical Constructivism]] — [[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 VL 的学习理论根基是 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]（唯我论前提），Hattie 完全接受建构主义学习观但试图在其上添加"教师中心的教学"，导致教学概念的双重瓦解([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
-> - [[Popper's Three Worlds Theory]] — Hattie 声称以 Popper 的三个世界理论为认识论基础，用以区分表层、深层与概念性知识；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 认为这一框架与 Bloom 修订版四层知识和 Biggs & Collis 的 SOLO 模型之间对应关系不清，因此需要更一致的知识与学习分类。[[Argument_Rømer_2018_EPT|Rømer (2018, p.10-11)]] 则进一步论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知
+> [!logic-map] 理论归属
+> - [[Technical Rationality|实证主义／行为主义]] → VL：假设所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
+> - [[New Public Management]] ←→ VL：VL 被描述为"新管理全景监狱主义"的完美工具，使每个人可监视其他所有人（Ball, 2003, p.219）；同时借用进步主义教育哲学语言（"学习必须被学习者分享、承诺和理解"），使其难以抵制（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）
+> - [[Radical Constructivism]] ←→ VL：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 Hattie 完全接受 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]学习观，但在其上叠加"教师中心教学"，导致教学概念双重瓦解（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp.7–8]]）
+> - [[Popper's Three Worlds Theory]] — Hattie 以 Popper 三个世界理论为认识论基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清
 
 ---
 
