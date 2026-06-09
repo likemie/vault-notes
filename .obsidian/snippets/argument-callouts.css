@@ -718,21 +718,24 @@
 
 .callout[data-callout="stat-cards"] .callout-content > ul > li {
   margin: 0;
-  padding: 0.75rem 0.85rem;
+  padding: 1rem 1rem 0.8rem;
   border: 1px solid rgba(72, 132, 112, 0.18);
   border-radius: 9px;
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(72, 132, 112) 12%);
   box-shadow: 0 4px 12px rgba(72, 132, 112, 0.06);
-  line-height: 1.65;
+  line-height: 1.55;
 }
 
+/* 数字：infographic 风格 — 超大、紧字距、等宽数字、极粗 */
 .callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child {
   display: block;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
   color: rgb(72, 132, 112);
-  font-size: 2.05em;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
+  font-size: 3.4em;
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
 }
 
 /* ─── finding-cards（核心发现 — 暖铜 + 星芒角） ──────── */
@@ -957,3 +960,70 @@
 
 .markdown-rendered hr:has(+ h3)::before { left:  -3px; }
 .markdown-rendered hr:has(+ h3)::after  { right: -3px; }
+
+
+/* ═══════════════════════════════════════════════════════════
+   TYPOGRAPHY POLISH — 字体层次
+   策略：不换全局字体（避免影响 wikilink）；
+         用 letter-spacing / font-weight / font-variant 建立层次；
+         只对两类特殊内容替换字族：
+           数字  → tabular-nums（等宽数字，系统字体已支持）
+           英文引文 → Georgia 衬线（citation-card 原文段，无链接风险）
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── 全局 callout 抗锯齿 ─────────────────────────── */
+.callout {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── callout 标题层 — 轻微字距拉开 ─────────────────
+   中文字间加 0.04em 字距，提升可读性；
+   wikilink 继承后也只是字距略宽，无视觉问题 */
+.callout > .callout-title .callout-title-inner {
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+/* 带自定义 badge 前缀的 callout 标题字距恢复正常（badge 自己有 letter-spacing） */
+.callout[data-callout="argument-map"]    > .callout-title .callout-title-inner,
+.callout[data-callout="contrast-table"]  > .callout-title .callout-title-inner,
+.callout[data-callout="line-a"]          > .callout-title .callout-title-inner,
+.callout[data-callout="line-b"]          > .callout-title .callout-title-inner,
+.callout[data-callout="step"]            > .callout-title .callout-title-inner {
+  letter-spacing: 0.025em;
+}
+
+/* ─── 所有 callout 内容区 — 内核特性 ────────────────
+   kern: 字偶距；liga: 合字；calt: 上下文替换 */
+.callout .callout-content {
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+}
+
+/* ─── 表头 — 小字距 + 轻量大写质感 ──────────────────
+   不用 font-variant-caps 避免影响中文；只加字距 */
+.callout th {
+  letter-spacing: 0.03em;
+}
+
+/* ─── finding-cards 序号 + 数字表格对齐 ─────────────
+   计数器已是 font-weight: 800；加 tabular-nums 保持对齐 */
+.callout[data-callout="finding-cards"] .callout-content > ol > li::before,
+.callout[data-callout="finding-cards"] .callout-content > ul > li::before {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── citation-card 英文原文 — 衬线斜体引文感 ────────
+   仅作用于最后一段（英文原文），几乎不含 wikilink；
+   即使含有，Georgia 支持全部拉丁字符，链接正常显示 */
+.callout[data-callout="citation-card"] .callout-content p:last-child {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-size: 0.93em;
+  letter-spacing: 0.01em;
+}
+
+/* ─── framework-table 工具名列 — 轻字距提升专名识别 ── */
+.callout[data-callout="framework-table"] td:first-child {
+  letter-spacing: 0.015em;
+}
