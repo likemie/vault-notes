@@ -394,14 +394,26 @@
 }
 
 .callout[data-callout="contrast-table"] {
-  --callout-color: 92, 111, 126;
+  --callout-color: 72, 82, 96;
   --callout-icon: lucide-columns-3;
+  position: relative;
+  overflow: hidden;
   background:
-    linear-gradient(180deg, rgba(92, 111, 126, 0.07), rgba(92, 111, 126, 0.02)),
+    linear-gradient(180deg, rgba(72, 82, 96, 0.045), rgba(72, 82, 96, 0.015)),
     var(--background-primary);
-  border: 1px solid rgba(92, 111, 126, 0.22);
-  border-left: 6px solid rgb(92, 111, 126);
-  box-shadow: 0 8px 22px rgba(92, 111, 126, 0.08);
+  border: 1px solid rgba(126, 137, 150, 0.16);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+.callout[data-callout="contrast-table"]::before {
+  content: "";
+  display: block;
+  height: 8px;
+  width: min(18rem, 46%);
+  margin: calc(var(--callout-padding) * -1) auto 0.7rem;
+  border-radius: 0 0 999px 999px;
+  background: rgba(95, 114, 133, 0.78);
+  box-shadow: 0 5px 14px rgba(95, 114, 133, 0.16);
 }
 
 .callout[data-callout="contrast-table"] table {
@@ -415,42 +427,43 @@
 .callout[data-callout="contrast-table"] th,
 .callout[data-callout="contrast-table"] td {
   vertical-align: top;
-  border-color: rgba(92, 111, 126, 0.16);
+  border-color: rgba(126, 137, 150, 0.12);
 }
 
 .callout[data-callout="contrast-table"] th {
   font-weight: 700;
   text-align: center;
+  letter-spacing: 0.02em;
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(1),
 .callout[data-callout="contrast-table"] td:nth-child(1) {
   width: 9rem;
-  background: rgb(92, 111, 126);
-  color: white;
+  background: transparent;
+  color: rgb(126, 137, 150);
   font-weight: 700;
 }
 
 .callout[data-callout="contrast-table"] td:nth-child(1) strong {
-  color: white;
+  color: rgb(150, 161, 174);
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(2),
 .callout[data-callout="contrast-table"] td:nth-child(2) {
-  background: rgba(190, 95, 45, 0.08);
+  background: rgba(181, 139, 69, 0.1);
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(3),
 .callout[data-callout="contrast-table"] td:nth-child(3) {
-  background: rgba(178, 74, 96, 0.08);
+  background: rgba(159, 100, 117, 0.1);
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(2) {
-  color: rgb(150, 68, 32);
+  color: #c0954a;
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(3) {
-  color: rgb(145, 52, 78);
+  color: #bd788d;
 }
 
 .callout[data-callout="citation-card"] {
