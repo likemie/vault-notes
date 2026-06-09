@@ -35,7 +35,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 导师制（Mentorship）被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」（Anderson & Shannon, 1988, 引自 Sandrone, 2025）。
+> 导师制（Mentorship）被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」（Anderson & Shannon, 1988, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 
 ---
 
@@ -43,24 +43,24 @@ updated: 2026-06-07
 
 > [!abstract]
 >
-> **科学中的核心关系**。导师制是科学家最重要的合作关系之一。导师在启动被指导者的累积优势过程中起着关键作用（Long & McGinnis, 1985, 引自 Sandrone, 2025）。
+> **科学中的核心关系**。导师制是科学家最重要的合作关系之一。导师在启动被指导者的累积优势过程中起着关键作用（Long & McGinnis, 1985, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 >
-> **双向受益**。在 STEM 领域，成功的导师倾向于培养成功的学生，导师和被指导者都从这种关系中受益（Malmgren et al., 2010, 引自 Sandrone, 2025）。
+> **双向受益**。在 STEM 领域，成功的导师倾向于培养成功的学生，导师和被指导者都从这种关系中受益（Malmgren et al., 2010, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 >
-> **对被指导者成功的影响**。对约 40,000 名在过去 60 年中发表了 1,167,518 篇 STEM 论文的科学家的数据分析显示，导师制是被指导者成功的强预测因子（Ma et al., 2020, 引自 Sandrone, 2025）。
+> **对被指导者成功的影响**。对约 40,000 名在过去 60 年中发表了 1,167,518 篇 STEM 论文的科学家的数据分析显示，导师制是被指导者成功的强预测因子（Ma et al., 2020, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 >
-> **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功（Liénard et al., 2018, 引自 Sandrone, 2025）。
+> **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功（Liénard et al., 2018, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好（Ma et al., 2020, 引自 Sandrone, 2025）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好（Ma et al., 2020, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 
 ---
 
 ## 诺贝尔奖中的导师关系
 
 > [!example]
-> 诺贝尔奖得主的导师关系模式并非随机。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017, 引自 Sandrone, 2025）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024, 引自 Sandrone, 2025）。
+> 诺贝尔奖得主的导师关系模式并非随机。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 >
-> Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006, 引自 Sandrone, 2025）。
+> Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。
 
 ---
 
@@ -79,7 +79,7 @@ updated: 2026-06-07
 ## 词源
 
 > [!note]
-> 导师（mentor）一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000, 引自 Sandrone, 2025）。mentoring 一词可能在 1778 年左右首次出现在美国（引自 Sandrone, 2025）。
+> 导师（mentor）一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。mentoring 一词可能在 1778 年左右首次出现在美国（引自 Sandrone, 2025）。
 
 ---
 

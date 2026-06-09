@@ -35,7 +35,7 @@ updated: '2026-06-02'
 ## 背景
 
 > [!info]
-> 在以往国际大学排名主要基于研究产出、声誉和教学指标的背景下，2019 年 Times Higher Education (THE) 推出了世界上首个以[[UN Sustainable Development Goals|联合国可持续发展目标]] (SDGs) 为基础的全球大学影响力排名 (THE Impact Ranking)。这一排名的推出标志着大学评价逻辑的一个显著转向——从仅衡量学术卓越转向衡量大学对解决紧迫社会问题的贡献（Watermeyer, 2019，引自 Zapp, 2022, p.143）。此举与各国研究评估体系中对社会影响日益增长的重视趋势相呼应([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.146–147]])。
+> 在以往国际大学排名主要基于研究产出、声誉和教学指标的背景下，2019 年 Times Higher Education (THE) 推出了世界上首个以[[UN Sustainable Development Goals|联合国可持续发展目标]] (SDGs) 为基础的全球大学影响力排名 (THE Impact Ranking)。这一排名的推出标志着大学评价逻辑的一个显著转向——从仅衡量学术卓越转向衡量大学对解决紧迫社会问题的贡献（Watermeyer, 2019，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.143]]）。此举与各国研究评估体系中对社会影响日益增长的重视趋势相呼应([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.146–147]])。
 
 ---
 ## 政策文本摘要
@@ -53,7 +53,7 @@ updated: '2026-06-02'
 > 这一新颖的排名包括了衡量大学在性别平等、气候行动以及可持续城市和社区等领域工作成效的指标。
 
 > [!quote]
-> "The new SDG-university ranking 'is the world's first global attempt to document evidence of higher education impact, offer a new way of defining excellence and recognize the fantastic work that universities do for the good of society to tackle some of our most pressing global issues'."（O'Malley & Mitchell, 2019，引自 Zapp, 2022, p.147）
+> "The new SDG-university ranking 'is the world's first global attempt to document evidence of higher education impact, offer a new way of defining excellence and recognize the fantastic work that universities do for the good of society to tackle some of our most pressing global issues'."（O'Malley & Mitchell, 2019，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]]）
 > 
 > 这一新的基于可持续发展目标的大学排名，是全球首次尝试记录高等教育影响的证据，提供了一种定义卓越的新方法，并认可大学为造福社会、应对一些最紧迫的全球问题所做的出色工作。
 

@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 国家竞争优势（National Competitive Advantage）是 [[Michael Porter]]（1990）在 *The Competitive Advantage of Nations* 中提出的理论：国家在全球市场中的竞争优势并非源于宏观层面的要素禀赋（如劳动力、自然资源），而是通过高度本地化的过程被创造和维持——国家独特的价值、文化、经济结构、制度和历史深刻贡献于竞争成功（Porter, 1990, cited in Moisio, 2022, pp.26–27）。
+> 国家竞争优势（National Competitive Advantage）是 [[Michael Porter]]（1990）在 *The Competitive Advantage of Nations* 中提出的理论：国家在全球市场中的竞争优势并非源于宏观层面的要素禀赋（如劳动力、自然资源），而是通过高度本地化的过程被创造和维持——国家独特的价值、文化、经济结构、制度和历史深刻贡献于竞争成功（Porter, 1990, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]]）。
 >
 > Porter 理论的核心是一个悖论性主张：**全球化反而使国家角色变得更加重要**——"虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"（Porter, 1990, p.19, cited in Moisio, 2022, p.27）。这一悖论深刻影响了 1990 年代以来[[Knowledge-Based Economization|知识经济化]]的空间政策逻辑。
 >
@@ -53,7 +53,7 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 的理论分析为[[Knowledge-Based Economization|知识经济化]]的关键地缘政治想象，识别其以下要素：
 >
-> - **高度本地化的创造过程**："竞争优势通过高度本地化的过程被创造和维持"——创新和竞争力不凭空产生，而是植根于具体的本地制度、文化和历史（Porter, 1990, cited in Moisio, 2022, p.27）
+> - **高度本地化的创造过程**："竞争优势通过高度本地化的过程被创造和维持"——创新和竞争力不凭空产生，而是植根于具体的本地制度、文化和历史（Porter, 1990, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]]）
 > - **全球化强化国家角色的悖论**：这是 Porter 最具政策影响力的主张——全球化非但未使国家过时，反而提升了国家作为竞争优势创造场所的重要性([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 > - **国家的构成性贡献**：国家价值、文化、经济结构、制度和历史——而非仅企业策略——是竞争成功的深层决定因素([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 > - **作为地缘政治想象的运作**：Moisio 将 Porter 理论定位为 Jessop（2005）意义上具有"构成性和履行性角色"的地缘政治想象——它不仅描述全球经济，更塑造政策制定者看待世界的方式([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])

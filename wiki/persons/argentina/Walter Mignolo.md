@@ -49,7 +49,7 @@ updated: '2026-06-08'
 > [!info]
 > Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家，杜克大学（Duke University）文学与文化研究教授，拉丁美洲现代性/殖民性研究项目（M/C Project）的核心成员。他是去殖民理论（decolonial theory）的奠基性人物，从 1990 年代起系统发展了"[[Geopolitics of Knowledge|知识地缘政治]]"（geopolitics of knowledge）概念的批判性分支，提出"殖民差异"（colonial difference）、"殖民性"（coloniality）、"边界思维"（border thinking）和"认识论不服从"（epistemic disobedience）等核心概念([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38, 50]])。
 
-> Mignolo 的核心论证是：西方现代性与其"黑暗面"——殖民性——是同一历史进程的构成性两面。西方认识论通过殖民扩张获得了虚假的普遍性，系统性地压抑和否定了非西方世界的替代性知识传统和存在方式。因此，去殖民不仅是政治经济任务，更是认识论任务——需要在[[Knowledge Production|知识生产]]层面"去链接"（delink）西方认识论框架（Mignolo, 2002, cited in Parreira do Amaral, 2022, p.38）。
+> Mignolo 的核心论证是：西方现代性与其"黑暗面"——殖民性——是同一历史进程的构成性两面。西方认识论通过殖民扩张获得了虚假的普遍性，系统性地压抑和否定了非西方世界的替代性知识传统和存在方式。因此，去殖民不仅是政治经济任务，更是认识论任务——需要在[[Knowledge Production|知识生产]]层面"去链接"（delink）西方认识论框架（Mignolo, 2002, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）。
 
 > 在 [[Dell Delambre]] 的 [[Creative Tension of Sense]] 理论中，Mignolo 的[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]被定位为理论对话的核心对象之一。Delambre 接受了 Mignolo 关于西方认识论霸权和殖民性的基本诊断，但批评该传统过度关注知识生产面（谁生产知识、为谁的利益），而忽视了[[Knowledge Transfer|知识转移]]面（知识如何被挪用、破坏和重构），并试图以 [[Ganz-Methode]] 将去殖民批判转化为可操作的社区实践方法([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 109–110]])。
 

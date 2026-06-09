@@ -34,7 +34,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > Goldman (1976) 提出，传统的"知识即被证成的真信念"（justified true belief, JTB）不足以判定某人是否真正知道某事。他主张知识要求个体能够**区分或辨别**（discriminate）某事物为真的状态与相关可能状态中该事物为假的状态。
 >
-> > "Knowledge requires that an individual is able to distinguish or discriminate between a state of affairs in which something is true from a relevant possible state of affairs in which it is false." (Goldman, 1976, 引自 Wiliam, 2019, p.9)
+> > "Knowledge requires that an individual is able to distinguish or discriminate between a state of affairs in which something is true from a relevant possible state of affairs in which it is false." (Goldman, 1976, 引自 [[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]])
 
 ## 理论内部结构
 

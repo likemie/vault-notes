@@ -50,7 +50,7 @@ updated: '2026-05-18'
 - **1998** 年 School Standards and Framework Act：禁止建立新的文法学校
 - **2006** 年 [[Education and Inspections Act 2006]]：重申禁止新建文法学校，但允许现有 163 所继续运作和扩张
 - **2015–2019** 保守党政府推动 SSEF，允许现有文法学校申请 £50M 额外资金扩展招生——11+ 考试因此获得新政策动力([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
-- **2021** 年新任教育大臣 Nadhim Zahawi 再次表示支持选择性教育（Owen, 2021，引自 Bainbridge et al., 2022, p.29）
+- **2021** 年新任教育大臣 Nadhim Zahawi 再次表示支持选择性教育（Owen, 2021，引自 [[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.29]]）
 
 ---
 

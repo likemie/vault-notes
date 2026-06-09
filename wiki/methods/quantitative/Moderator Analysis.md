@@ -72,7 +72,7 @@ updated: '2026-06-08'
 ## 局限性
 
 > [!warning] 局限性
-> - 调节[[Variable|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in Higgins, 2016, p.38），难以可靠地识别[[Heterogeneity|异质性]]来源
+> - 调节[[Variable|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]），难以可靠地识别[[Heterogeneity|异质性]]来源
 > - 当纳入研究数量有限时，调节变量分析的统计检验力较低，可能无法检测到真实的调节效应
 > - 调节变量之间的交互作用难以在[[Meta-analysis|元分析]]框架中被充分建模
 > - 在[[Meta-meta-analysis|元-元分析]]层面，每项一级元分析内部的调节变量信息在二级聚合时进一步丢失([[Argument_Higgins_2016_RE|Higgins, 2016, p.44]])

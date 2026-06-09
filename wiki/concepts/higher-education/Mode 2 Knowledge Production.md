@@ -38,7 +38,7 @@ updated: 2026-06-05
 > [!info]
 > Mode 2 [[Knowledge Production|知识生产]]（Mode 2 Knowledge Production）是 Gibbons et al.（1994）提出的区别于传统学术研究的跨学科知识生产模式。Mode 2 的核心特征是在科学共同体与其他利益相关者（产业、政府、社会）之间以跨学科方式生成知识，以实现对产业、政府和社会的实际影响（Cohen, Fernandes, & Godinho, 2025, p.348）。
 
-在 Mode 2 中，知识生产不再由学术共同体的内部议程单方面设定，而是通过各参与方利益的持续协商来推进——[[Research Question|研究问题]]的定义、方法的选取和成果的评价标准都由多方共同决定，而非仅由学术同行评议主导（Gibbons et al., 1994, cited in Cohen et al., 2025, p.348）。
+在 Mode 2 中，知识生产不再由学术共同体的内部议程单方面设定，而是通过各参与方利益的持续协商来推进——[[Research Question|研究问题]]的定义、方法的选取和成果的评价标准都由多方共同决定，而非仅由学术同行评议主导（Gibbons et al., 1994, cited in [[Argument_Cohen_2025_JTT|Cohen et al., 2025, p.348]]）。
 
 > [!example]
 > 传统学术研究（Mode 1）的典型场景是：一位化学教授根据自己的理论兴趣申请国家科学基金，独立设计实验、发表论文，由同行评审判断其学术价值。Mode 2 的场景则是：同一所大学与三家制药企业围绕一个未满足的临床需求组建联合研究团队——教授带来基础机制知识、企业带来化合物库和高通量筛选平台、临床医生提供患者数据和终点指标。研究问题（"哪种分子骨架最有希望"）、方法（是否用 AI 辅助筛选）和成功标准（进入 I 期临床 vs 发表在高影响因子期刊）都由三方共同协商，而非任何一方单独决定。
@@ -48,7 +48,7 @@ updated: 2026-06-05
 ## 与 Mode 1 的核心区分
 
 > [!abstract]
-> Mode 1 与 Mode 2 的对立构成了[[Knowledge Production|知识生产]]研究中最基本的[[Analytic Framework|分析框架]]（Nightingale & Scott, 2007, cited in Cohen et al., 2025, p.348）：
+> Mode 1 与 Mode 2 的对立构成了[[Knowledge Production|知识生产]]研究中最基本的[[Analytic Framework|分析框架]]（Nightingale & Scott, 2007, cited in [[Argument_Cohen_2025_JTT|Cohen et al., 2025, p.348]]）：
 
 | 维度 | Mode 1 | Mode 2 |
 |------|--------|--------|
@@ -66,7 +66,7 @@ updated: 2026-06-05
 
 ## 在产学合作中的角色
 
-Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大学与产业共同定义[[Research Question|研究问题]]、共享资源和协商成果归属的[[Knowledge Production|知识生产]]安排（Pinto & Fernandes, 2021, cited in Cohen et al., 2025, p.348）。
+Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大学与产业共同定义[[Research Question|研究问题]]、共享资源和协商成果归属的[[Knowledge Production|知识生产]]安排（Pinto & Fernandes, 2021, cited in [[Argument_Cohen_2025_JTT|Cohen et al., 2025, p.348]]）。
 
 > [!abstract]
 > 可以从两个角度理解这一对齐：

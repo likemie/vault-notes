@@ -44,7 +44,7 @@ updated: '2026-05-18'
 > 组织能动者身份（organizational actorhood）指组织在结构和行为上的扩展，将自主性（autonomy）、目标导向（goal-orientation）、问责性（accountability）和社会嵌入性（social embeddedness / citizenship）纳入其核心身份的过程（Bromley & Meyer, 2015, p.148）。这一概念最初由 Krücken 和 Meier（2006）在分析欧洲大学转型时提出，用以描述大学从传统公共行政中的"特定组织"（specific organizations）向具有自我定义目标、自主决策能力和对外问责机制的"完全组织"（complete organizations）的转变。
 
 > [!quote]
-> "Actorhood, here, describes organizations' structural and behavioral expansion by including autonomy, goal-orientation, accountability and social embeddedness or citizenship as part of their core identity."（Bromley & Meyer, 2015，引自 Zapp, 2022, p.148）
+> "Actorhood, here, describes organizations' structural and behavioral expansion by including autonomy, goal-orientation, accountability and social embeddedness or citizenship as part of their core identity."（Bromley & Meyer, 2015，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]]）
 
 ---
 ## 概念辨析
@@ -101,14 +101,14 @@ updated: '2026-05-18'
 > [!success]
 > - 对大学使命与愿景陈述、品牌营销和形式结构改革的分析显示，大学在寻求独特身份的同时，在全球范围内正在实质性地趋同于一种标准的组织形态——表面"求异"，实则"趋同"，这是组织能动者身份全球扩散的核心证据（Zapp et al., forthcoming，引自 Zapp, 2022, p.148）
 > - 大学-社会关系正变得更加渗透性（permeable），传统的"象牙塔"模式日益失去合法性。大学不再能仅以"追求真理"为由与社会保持距离——它被期待说明其研究如何惠及纳税人、如何应对气候变化、如何促进社会公正([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])
-> - 2005 年 Carnegie Foundation 引入社区参与分类（community engagement classification），标志着大学社会嵌入性在美国高等教育中的正式制度化（Driscoll, 2009，引自 Zapp, 2022, p.149）
+> - 2005 年 Carnegie Foundation 引入社区参与分类（community engagement classification），标志着大学社会嵌入性在美国高等教育中的正式制度化（Driscoll, 2009，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）
 > - [[UN Sustainable Development Goals|SDGs]] 为大学的组织能动者身份提供了全球性"演练场"：大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——系统性地将组织议程与全球治理目标绑定，详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–154]])
 > - Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、跨文化教育等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer|Zapp, 2022, p.152]])
 
 > [!info]- 核心数据
-> - 全球 **200+ 所**大学发布 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 Zapp, 2022, pp.152–153）
-> - 全球 **465,000 个**学位项目中 **22,451 个**具有国际取向（Zapp & Lerch, 2020，引自 Zapp, 2022, p.152）
-> - **185 个**大学协会/元组织，大多数在过去 **二十年**成立（Brankovic, 2018，引自 Zapp, 2022, p.153）
+> - 全球 **200+ 所**大学发布 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]]）
+> - 全球 **465,000 个**学位项目中 **22,451 个**具有国际取向（Zapp & Lerch, 2020，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.152]]）
+> - **185 个**大学协会/元组织，大多数在过去 **二十年**成立（Brankovic, 2018，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]]）
 
 ---
 ## 争议与批评

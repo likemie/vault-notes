@@ -33,7 +33,7 @@ updated: '2026-05-18'
 > Aronson (2002) 提出的社会心理学概念：当个体意识到关于自身群体的负面刻板印象存在时，会产生额外的情感与认知负担（extra emotional or cognitive burden），进而导致"去认同化"（disidentification）——即对该领域失去兴趣、动机和投入——最终刻板印象成为"自我实现的预言"（self-fulfilling prophesy），证实了原本错误的预期([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.44]])。
 
 > [!quote]
-> 当刻板印象被激活时，"an extra emotional or cognitive burden and 'disidentification' — a lack of interest, motivation, and engagement"随之产生，"the stereotype then becomes a 'self-fulfilling prophesy'"（Aronson, 2002, 转引自 Ryan, 2010, p.44）
+> 当刻板印象被激活时，"an extra emotional or cognitive burden and 'disidentification' — a lack of interest, motivation, and engagement"随之产生，"the stereotype then becomes a 'self-fulfilling prophesy'"（Aronson, 2002, 转引自 [[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.44]]）
 
 ## 概念辨析
 

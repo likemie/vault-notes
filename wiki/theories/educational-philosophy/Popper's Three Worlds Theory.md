@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Karl Popper 在 Tanner Lecture 中提出的本体论框架，将实在区分为三个世界（Popper, 2011，转引自 Rømer, 2018, p.10-11）：
+> Karl Popper 在 Tanner Lecture 中提出的本体论框架，将实在区分为三个世界（Popper, 2011，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]]）：
 >
 > > "World 3 consists of '[[Abstract]] objects such as great books or great theories or great symphonies', and Popper emphasizes that these objects are 'objectively great'."([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10,引用 Popper, 2011, p.150,原文斜体]])
 >

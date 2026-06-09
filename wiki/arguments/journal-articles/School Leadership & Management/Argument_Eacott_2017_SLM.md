@@ -42,6 +42,7 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
 sources:
   - "[[Eacott_2017_SLM]]"
 part_of: ""
@@ -100,22 +101,22 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example] 核心论证逻辑：[[Neo-Taylorism|新泰勒主义]]规训的悲剧叙事
+> [!logic-map] 核心论证逻辑链
 > ```mermaid
-> graph TD
->     classDef panic fill:#FFF1F0,stroke:#FFA39E,stroke-width:1.5px,font-size:11px,color:#cf1322;
->     classDef solution fill:#F6FFED,stroke:#B7EB8F,stroke-width:1.5px,font-size:11px,color:#389e0d;
->     classDef locked fill:#E6F7FF,stroke:#91D5FF,stroke-width:1.5px,font-size:11px,color:#096dd9;
->     classDef tragedy fill:#FFF7E6,stroke:#FFD591,stroke-width:1.5px,font-size:11px,color:#d4380d;
-> 
->     Panic["<b>起因：评估恐慌与行政真空</b><br/><small>[[PISA]]/NAPLAN成绩下滑引发系统恐慌，校长日常事务缠身急需简单直观的改进工具</small>"]
->     Solve["<b>解法：[[John Hattie|哈蒂]]的数据账本注入</b><br/><small>引进《[[Visible Learning|可见学习]]》以 d = 0.40 [[Effect Size|效应量]]作为投资决策标尺，满足对“科学控制感”的饥渴</small>"]
->     Lock["<b>深锁：国家标准与商业共谋</b><br/><small>转化为国家 [[Australian Institute for Teaching and School Leadership|AITSL]] 专业标准与 ACEL 商业培训产品，将绩效规训深嵌入学校管理</small>"]
->     Tragedy["<b>悲剧：向泰勒主义的倒退</b><br/><small>教师丧失专业自主权沦为数据装配工，[[School Leadership|学校领导力]]退化为百年前的科学管理控制</small>"]
+> flowchart LR
+>     Panic["起因<br/>[[PISA]]/NAPLAN成绩下滑<br/>校长陷入行政真空与话语饥渴"]
+>     Solve["解法<br/>引进[[John Hattie|哈蒂]]的[[Visible Learning|可见学习]]<br/>以 d=0.40 [[Effect Size|效应量]]为决策账本"]
+>     Lock["深锁<br/>内嵌于[[Australian Institute for Teaching and School Leadership|AITSL]]国家标准<br/>与 ACEL 商业培训产品网络"]
+>     Tragedy["悲剧<br/>教师丧失自主权沦为数据工具<br/>[[School Leadership|学校领导力]]退向[[Neo-Taylorism|新泰勒主义]]"]
 > 
 >     Panic -->|以数据指标填补决策真空| Solve
 >     Solve -->|借由行政考核与商业网络制度化| Lock
 >     Lock -->|“无数据即无学习”规训课堂| Tragedy
+> 
+>     classDef panic fill:#FFF1F0,stroke:#FFA39E,stroke-width:1px,color:#cf1322;
+>     classDef solution fill:#F6FFED,stroke:#B7EB8F,stroke-width:1px,color:#389e0d;
+>     classDef locked fill:#E6F7FF,stroke:#91D5FF,stroke-width:1px,color:#096dd9;
+>     classDef tragedy fill:#FFF7E6,stroke:#FFD591,stroke-width:2px,color:#d4380d;
 > 
 >     class Panic panic;
 >     class Solve solution;
@@ -247,7 +248,7 @@ citation_aliases:
 
 > [!note]- 外部回应与后续争议
 > - **哈蒂的自我声辩**：在同一期期刊中，[[John Hattie|约翰·哈蒂]]发表了回应文章 [[Argument_Hattie_2017_SLM|Hattie (2017)]]，矢口否认了“教父/[[Cult of the Guru|大师崇拜]]”的指控，辩称其只关注证据本身。
-> - **编辑部的声音封锁**：[[Scott Eacott|斯科特·伊科特]]曾撰写针对哈蒂该回应的反驳，但被期刊编辑部拒绝发表，导致论辩呈现为单向的霸权合谋（Eacott, 2019, p. 778）。
+> - **编辑部的声音封锁**：[[Scott Eacott|斯科特·伊科特]]曾撰写针对哈蒂该回应的反驳，但被期刊编辑部拒绝发表，导致论辩呈现为单向的霸权合谋（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
 
 ---
 

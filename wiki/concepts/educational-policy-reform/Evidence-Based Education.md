@@ -216,7 +216,7 @@ updated: '2026-05-24'
 
 2. 最可靠的证据产生于**[[Experimental Research|实验研究]]**，特别是**[[Randomised Controlled Trials|随机对照试验]]（RCT）**
 
-> 例：[[Argument_Slavin_2002_ER|Slavin (2002)]] 以医学类比论证——随机[[Clinical Trial|临床试验]]比任何单一医学突破"更彻底地改变了医学"（Doll, 1998, cited in Slavin, 2002, p. 16）。但 [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]] 指出教育的本体论特征与土豆种植或化学实验有根本不同。Cartwright & Munro (2010, p.265) 从[[Causality|因果推断]]角度补充：RCT 本身不足以满足政策或实践决策者的需求。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.6)]] 以 Tennessee STAR 项目的实证案例进一步论证：即使是最受推崇的教育 RCT（被 Mosteller 称为"有史以来最重要的教育调查之一"），其向其他情境的外推也在三个层面失败——(1) 参与学校不具代表性；(2) [[Random Assignment|随机分配]]被破坏；(3) 大规模推广时教师质量成为关键混淆因素。
+> 例：[[Argument_Slavin_2002_ER|Slavin (2002)]] 以医学类比论证——随机[[Clinical Trial|临床试验]]比任何单一医学突破"更彻底地改变了医学"（Doll, 1998, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]）。但 [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]] 指出教育的本体论特征与土豆种植或化学实验有根本不同。Cartwright & Munro (2010, p.265) 从[[Causality|因果推断]]角度补充：RCT 本身不足以满足政策或实践决策者的需求。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.6)]] 以 Tennessee STAR 项目的实证案例进一步论证：即使是最受推崇的教育 RCT（被 Mosteller 称为"有史以来最重要的教育调查之一"），其向其他情境的外推也在三个层面失败——(1) 参与学校不具代表性；(2) [[Random Assignment|随机分配]]被破坏；(3) 大规模推广时教师质量成为关键混淆因素。
 
 3. 教育应模拟"医学模式"——通过研究确定有效干预，然后推广至课堂
 

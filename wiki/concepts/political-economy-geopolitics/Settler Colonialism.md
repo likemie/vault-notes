@@ -34,7 +34,7 @@ updated: 2026-05-25
 > 定居殖民主义（Settler Colonialism）是一种殖民主义形式，其核心特征不是对殖民地劳动力的剥削，而是对土著居民土地的占有。帕特里克·沃尔夫（Patrick Wolfe, 2006）提出，定居殖民主义遵循一种"消除的逻辑"（logic of elimination）：定居者看重的是土著人民的土地而非劳动力，这导致了对土著人民的征用和物理灭绝([[Argument_Bulag_2024_CE|Bulag, 2024, p.99]])。
 
 > [!quote]
-> "Genocide is intrinsic to settler colonialism as both the intention and consequence of a settler colonial encounter with indigenous peoples that follows a 'logic of elimination'"（Wolfe, 2006，引自 Bulag, 2024, p.99）。
+> "Genocide is intrinsic to settler colonialism as both the intention and consequence of a settler colonial encounter with indigenous peoples that follows a 'logic of elimination'"（Wolfe, 2006，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.99]]）。
 
 ## 概念辨析
 

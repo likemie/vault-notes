@@ -26,7 +26,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -38,7 +39,7 @@ updated: 2026-06-04
 ## 背景
 
 > [!info]
-> Common Rule（正式名称为 Federal Policy for the Protection of Human Subjects）是美国联邦政府规范人类受试者研究的基础性法规，由卫生与公众服务部（Department of Health and Human Services, HHS）下属的人类研究保护办公室（Office for Human Research Protections, OHRP）发布。其最初版本于 1991 年由 15 个联邦部门共同采用，2018 年进行了重要修订（OHRP, 2018, cited in Hall, 2025, p.265）。
+> Common Rule（正式名称为 Federal Policy for the Protection of Human Subjects）是美国联邦政府规范人类受试者研究的基础性法规，由卫生与公众服务部（Department of Health and Human Services, HHS）下属的人类研究保护办公室（Office for Human Research Protections, OHRP）发布。其最初版本于 1991 年由 15 个联邦部门共同采用，2018 年进行了重要修订（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）。
 
 ## 政策文本摘要
 
@@ -49,7 +50,7 @@ updated: 2026-06-04
 > 2. **[[Informed Consent|知情同意]]（Informed Consent）**：研究者必须获得每位研究受试者的知情同意，确保参与者了解[[Purpose Statement|研究目的]]、程序、风险和权利
 
 > [!quote]
-> Common Rule 将"研究"（research）定义为"旨在发展或贡献可推广知识（generalizable knowledge）的系统性调查，包括研究开发、测试和评估"（OHRP, 2018, cited in Hall, 2025, p.265）。
+> Common Rule 将"研究"（research）定义为"旨在发展或贡献可推广知识（generalizable knowledge）的系统性调查，包括研究开发、测试和评估"（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）。
 
 ## 在产学合作中的不对称性
 

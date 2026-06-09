@@ -63,7 +63,7 @@ updated: 2026-05-30
 > - **验证性问题（verification questions）**：用于检验数据准确性
 
 > [!note] 批判民族志的研究问题
-> 在批判民族志（critical ethnography）中，[[Research Question|研究问题]]可建立在已有文献体系之上，成为"工作指南而非被证实的真理"（Thomas, 1993，引自 Creswell & Creswell, 2022, Ch7）。
+> 在批判民族志（critical ethnography）中，[[Research Question|研究问题]]可建立在已有文献体系之上，成为"工作指南而非被证实的真理"（Thomas, 1993，引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ## 适用场景
 

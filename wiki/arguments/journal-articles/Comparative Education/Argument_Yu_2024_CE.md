@@ -106,10 +106,10 @@ citation_aliases:
 > ```mermaid
 > flowchart LR
 >     A["背景<br/>多元社会中的<br/>儒家复兴"]
->     B["[[Official Knowledge|官方知识]]<br/>教科书中的<br/>汉儒中心叙事"]
+>     B["官方知识<br/>教科书中的<br/>汉儒中心叙事"]
 >     C["边缘声音<br/>少数民族与宗教<br/>学生的反思"]
 >     D{"断裂<br/>官方话语 vs<br/>边缘认知"}
->     E["后果<br/>[[Cultural Disembedding|文化脱嵌]]与<br/>群体疏离"]
+>     E["后果<br/>文化脱嵌与<br/>群体疏离"]
 >
 >     A --> B
 >     A --> C

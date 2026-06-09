@@ -75,7 +75,7 @@ updated: '2026-06-08'
 
 > [!warning] 局限与争议
 > - 异质性检验的统计效力通常较低——当研究数量少时，即使存在实质性异质性也可能检测不到
-> - 调节[[Variable|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in Higgins, 2016, p.38），难以可靠地识别异质性来源
+> - 调节[[Variable|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]），难以可靠地识别异质性来源
 > - 在[[Meta-meta-analysis|元-元分析]]中，每项一级[[Meta-analysis|元分析]]内部的异质性在二级聚合时信息丢失——调节变量信息在聚合过程中系统性消失([[Argument_Terhart_2011_JCS|Terhart, 2011]])
 
 ---

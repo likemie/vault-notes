@@ -474,6 +474,10 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     # Fenced code blocks.
     for m in re.finditer(r"(?ms)^```.*?^```\s*", text):
         add(m.start(), m.end())
+    # Fenced code blocks inside blockquotes/callouts, e.g. `> ```mermaid`.
+    # These render as code in Obsidian and must not be linked line-by-line.
+    for m in re.finditer(r"(?ms)^>\s*```.*?^>\s*```\s*", text):
+        add(m.start(), m.end())
 
     # Citation-like spans are reserved for citation_linker.py. This prevents
     # ordinary Person linking from breaking author-year citations before the

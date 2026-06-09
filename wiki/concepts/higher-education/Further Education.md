@@ -73,7 +73,7 @@ updated: '2026-05-18'
 > [!success]
 > - 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年中参与过教育和培训活动，且此后在所有高收入国家（包括美国）持续增长([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
 > - 欧盟企业培训中约三分之一至三分之二由外部教育提供商提供。小型雇主尤其依赖外部提供商，但大雇主在绝对金额上是教育服务的主要购买者([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.190]])
-> - 继续教育在 MNCs 中存在明显的"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性和培训投入越大（Brandon Hall Group, 2016, cited in Hartmann, 2022, p.185）
+> - 继续教育在 MNCs 中存在明显的"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性和培训投入越大（Brandon Hall Group, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]]）
 
 > [!info]- 核心数据
 > - 2016 年 EU 25–64 岁教育培训参与率 > 40%（Eurostat, cited in Hartmann, 2022, p.179）

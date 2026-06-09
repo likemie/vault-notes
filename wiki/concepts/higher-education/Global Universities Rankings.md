@@ -97,7 +97,7 @@ updated: 2026-05-20
 - **后中等教育机构的多样化**：各类新设机构需要区别于传统大学的定位标志
 - **知识在现代社会中地位的变化及其经济角色的提升**：[[Knowledge-Based Economy|知识经济]]使大学成为国家竞争力的核心资产
 - **高等教育作为国家竞争力晴雨表的重要性上升**：政府需要排名来评估本国高校在全球的位置
-- **"审计社会"（audit society）的兴起**：问责和评估成为规范（Power, 1997, cited in Boyadjieva, 2022, p.131）
+- **"审计社会"（audit society）的兴起**：问责和评估成为规范（Power, 1997, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.131]]）
 
 ---
 
@@ -197,7 +197,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 否定多样性，推行一刀切模式
 
-所有排名系统——尤其是全球排名——将特定类型的 HEI（研究型大学、侧重自然科学）视为规范，以同一套指标衡量所有机构，"增强了某些机构的声望，但以牺牲其他机构为代价"（Kehm, 2014, p.104, cited in Boyadjieva, 2022, p.132）。例如，德国的 Fachhochschulen、芬兰、瑞士和法国的应用科学大学尽管有悠久传统和高度声望，在全球排名中却被系统性低估（Marginson & Van der Wende, 2007, cited in Boyadjieva, 2022, p.132）。
+所有排名系统——尤其是全球排名——将特定类型的 HEI（研究型大学、侧重自然科学）视为规范，以同一套指标衡量所有机构，"增强了某些机构的声望，但以牺牲其他机构为代价"（Kehm, 2014, p.104, cited in Boyadjieva, 2022, p.132）。例如，德国的 Fachhochschulen、芬兰、瑞士和法国的应用科学大学尽管有悠久传统和高度声望，在全球排名中却被系统性低估（Marginson & Van der Wende, 2007, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]]）。
 
 ### 对质量的狭隘定义
 

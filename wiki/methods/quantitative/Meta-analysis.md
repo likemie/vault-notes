@@ -101,11 +101,11 @@ updated: '2026-05-21'
 >
 > **[[Systematic Review|系统综述]]的制度化（1990s–2000s）**
 >
-> 1993 年 Cochrane 协作网成立，将系统综述和元分析制度化为医学证据综合的标准方法。Chalmers 和 Altman（1995）主张"元分析"一词应仅用于定量综合。2009 年，PRISMA（系统综述和元分析优先报告条目）声明发布，为系统综述的透明报告提供了标准化框架（Moher et al., 2009, cited in Higgins, 2016, p.38）。
+> 1993 年 Cochrane 协作网成立，将系统综述和元分析制度化为医学证据综合的标准方法。Chalmers 和 Altman（1995）主张"元分析"一词应仅用于定量综合。2009 年，PRISMA（系统综述和元分析优先报告条目）声明发布，为系统综述的透明报告提供了标准化框架（Moher et al., 2009, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]）。
 >
 > **在教育领域的扩展（1990s–2010s）**
 >
-> 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，样本量与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in Higgins, 2016, p.48）。
+> 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，样本量与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
 
 ---
 

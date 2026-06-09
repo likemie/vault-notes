@@ -25,7 +25,6 @@ related_persons:
   - "[[Max Weber]]"
 related_facts:
   - "[[German Dual Education System]]"
-  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: medium
@@ -44,7 +43,7 @@ updated: 2026-05-18
 > 企业教育（corporate education）是由企业为其雇员提供或资助的教育和培训活动。欧盟将企业教育定义为"以获取新能力或发展和提升现有能力为首要目标、且至少部分由企业为其雇员提供资金支持的培训措施或活动"（EU, cited in Hartmann, 2022, p.180）。
 
 > [!quote]
-> "企业教育是公司软权力的关键组成部分，确保员工了解公司利益并据此行动"（Hanlon, 2016, cited in Hartmann, 2022, p.180）
+> "企业教育是公司软权力的关键组成部分，确保员工了解公司利益并据此行动"（Hanlon, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.180]]）
 
 企业教育不能被简单还原为技能获取。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——它是公司软权力的核心组成部分，通过塑造员工的认知框架和行动取向来确保公司利益的内化([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.180]])。
 
@@ -95,9 +94,9 @@ updated: 2026-05-18
 > - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的跨国教育空间([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.188]])
 
 > [!info]- 核心数据
-> - 2015 年全球前 100 大 MNCs 雇佣超过 1700 万员工，较 2014 年增长 9.4%（UNCTAD, 2016, cited in Hartmann, 2022, p.181）
-> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（[[OECD]], 2018, cited in Hartmann, 2022, p.181）
-> - 企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工正式资格越高、职位越高，获得培训的可能性越大（Brandon Hall Group, 2016, cited in Hartmann, 2022, p.185）
+> - 2015 年全球前 100 大 MNCs 雇佣超过 1700 万员工，较 2014 年增长 9.4%（UNCTAD, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.181]]）
+> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（OECD, 2018, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.181]]）
+> - 企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工正式资格越高、职位越高，获得培训的可能性越大（Brandon Hall Group, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]]）
 
 ---
 

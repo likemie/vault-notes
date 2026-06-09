@@ -30,10 +30,10 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> FAIR 原则即可发现性（Findability）、可访问性（Accessibility）、互操作性（Interoperability）和可重用性（Reuse），是 2016 年 Wilkinson 等人在 Scientific Data 期刊上提出的科学数据管理四项指导原则。这些原则的核心目标是提高数字资产的机器可操作性（machine-actionability），即计算系统能够在极少或无人干预的情况下发现、访问、互操作和重用数据（Wilkinson et al., 2016, cited in Brock, 2025, p.303）。
+> FAIR 原则即可发现性（Findability）、可访问性（Accessibility）、互操作性（Interoperability）和可重用性（Reuse），是 2016 年 Wilkinson 等人在 Scientific Data 期刊上提出的科学数据管理四项指导原则。这些原则的核心目标是提高数字资产的机器可操作性（machine-actionability），即计算系统能够在极少或无人干预的情况下发现、访问、互操作和重用数据（Wilkinson et al., 2016, cited in [[Argument_Brock_2025_DataAccessGenerationUse|Brock, 2025, p.303]]）。
 
 > [!quote]
-> "The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse (FAIR) of digital assets. The principles emphasize machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention)"（Wilkinson et al., 2016, cited in Brock, 2025, p.303）
+> "The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse (FAIR) of digital assets. The principles emphasize machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention)"（Wilkinson et al., 2016, cited in [[Argument_Brock_2025_DataAccessGenerationUse|Brock, 2025, p.303]]）
 
 ---
 

@@ -162,6 +162,8 @@
 
 .callout[data-callout="line-a"],
 .callout[data-callout="line-b"] {
+  position: relative;
+  overflow: hidden;
   border: 1px solid rgba(var(--callout-color), 0.24);
   border-left: 6px solid rgb(var(--callout-color));
   box-shadow: 0 8px 22px rgba(var(--callout-color), 0.08);
@@ -171,16 +173,50 @@
   --callout-color: 49, 126, 172;
   --callout-icon: lucide-circle-equal;
   background:
-    linear-gradient(135deg, rgba(49, 126, 172, 0.13), rgba(49, 126, 172, 0.035)),
+    radial-gradient(circle at 12px 12px, rgba(49, 126, 172, 0.22) 1.2px, transparent 1.8px),
+    linear-gradient(135deg, rgba(49, 126, 172, 0.12), rgba(49, 126, 172, 0.035)),
     var(--background-primary);
+  background-size: 18px 18px, auto, auto;
 }
 
 .callout[data-callout="line-b"] {
   --callout-color: 172, 92, 54;
   --callout-icon: lucide-arrow-down-up;
   background:
-    linear-gradient(135deg, rgba(172, 92, 54, 0.13), rgba(172, 92, 54, 0.035)),
+    linear-gradient(90deg, rgba(172, 92, 54, 0.14) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(172, 92, 54, 0.1) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(172, 92, 54, 0.11), rgba(172, 92, 54, 0.035)),
     var(--background-primary);
+  background-size: 28px 100%, 100% 18px, auto, auto;
+}
+
+.callout[data-callout="line-a"]::after,
+.callout[data-callout="line-b"]::after {
+  position: absolute;
+  top: -0.8rem;
+  right: 0.75rem;
+  color: rgba(var(--callout-color), 0.12);
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.callout[data-callout="line-a"]::after {
+  content: "A";
+}
+
+.callout[data-callout="line-b"]::after {
+  content: "B";
+}
+
+.callout[data-callout="line-a"] > .callout-title,
+.callout[data-callout="line-a"] > .callout-content,
+.callout[data-callout="line-b"] > .callout-title,
+.callout[data-callout="line-b"] > .callout-content {
+  position: relative;
+  z-index: 1;
 }
 
 .callout[data-callout="line-a"] > .callout-title .callout-title-inner::before,

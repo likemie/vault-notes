@@ -33,7 +33,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 认识漂移（epistemic drift）指研究者逐渐将自身的研究兴趣和学术议程对齐资助方或政策制定者的偏好，从而放弃由学术好奇心驱动的独立研究方向的过程（Elzinga, 1997，引自 Zapp, 2022, p.155）。
+> 认识漂移（epistemic drift）指研究者逐渐将自身的研究兴趣和学术议程对齐资助方或政策制定者的偏好，从而放弃由学术好奇心驱动的独立研究方向的过程（Elzinga, 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]]）。
 
 这一概念捕捉了科学-政治关系中的一个微妙但关键的退化机制：研究者并非被强制改变研究方向，而是在经费激励、职业发展和制度压力的综合作用下，"自愿地"将[[Research Problem|研究议题]]调整到与外部议程对齐的方向上。[[Argument_Zapp_2022_Springer|Zapp (2022, p.155)]] 以[[UN Sustainable Development Goals|联合国可持续发展目标]]（Sustainable Development Goals, SDGs）为例："反正申请 SDG 相关的经费容易中，我就做 SDG 相关的研究吧"——这一看似理性的个体决策，在宏观层面累积为整个研究领域的系统性漂移。
 

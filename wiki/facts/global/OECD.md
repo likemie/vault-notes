@@ -49,7 +49,7 @@ updated: 2026-06-08
 > [!note]
 > - **1948 年**：美国创建 OEEC，管理马歇尔计划。
 > - **1961 年**：OECD 从 OEEC 正式演变而来，将教育规划纳入其经济增长议程。教育被视为一种投资而非消费——这一技术官僚和经济学化的教育观根植于 [[Sputnik Shock 1957|Sputnik]] 冲击后在美国兴起的[[Economics of Education Movement|教育经济学运动]]([[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–423]])。
-> - **冷战时期**：OECD 与 UNESCO [[International Institute for Educational Planning|IIEP]] 一起，成为[[Development Turn in Comparative Education|发展转向]]的关键制度载体。通过为各国教育规划提供技术援助，OECD 帮助将人力资本理论从美国扩散到西欧、南欧和拉丁美洲（Elfert, 2019, cited in Klerides, 2023, p.423）。
+> - **冷战时期**：OECD 与 UNESCO [[International Institute for Educational Planning|IIEP]] 一起，成为[[Development Turn in Comparative Education|发展转向]]的关键制度载体。通过为各国教育规划提供技术援助，OECD 帮助将人力资本理论从美国扩散到西欧、南欧和拉丁美洲（Elfert, 2019, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.423]]）。
 > - **冷战后至今**：OECD 从教育规划的技术援助机构演变为全球教育治理的核心行动者。其旗舰项目 [[PISA]] 将教育系统的跨国比较标准化，使 OECD 成为全球教育政策的事实性协调者。
 
 ---

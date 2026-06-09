@@ -61,5 +61,5 @@ updated: 2026-05-25
 > [!example]
 > - 新疆"教育培训中心"中被拘留的维吾尔和其他穆斯林少数民族([[Argument_Bulag_2024_CE|Bulag, 2024, p.97]])
 > - 内蒙古 2020 年双语教育改革引发的蒙古语教育权抗议和自杀事件([[Argument_Bulag_2024_CE|Bulag, 2024, p.109–111]])
-> - 西藏[[Boarding Schools|寄宿学校]]系统与藏语文化传承的削弱（Leibold & Dorjee, 2023，引自 Bulag, 2024, p.98）
+> - 西藏[[Boarding Schools|寄宿学校]]系统与藏语文化传承的削弱（Leibold & Dorjee, 2023，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.98]]）
 

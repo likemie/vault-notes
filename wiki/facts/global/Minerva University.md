@@ -53,7 +53,7 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 
 > [!note]- 2014–至今 运营与扩张
 > - 与克莱蒙特学院联盟（The Claremont Colleges）成员 Keck Graduate Institute（KGI）合作，利用其共享的现有制度基础设施构建"高效且可扩展"的业务和运营模型([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
-> - "全球沉浸"体系逐步扩展至旧金山、布宜诺斯艾利斯、柏林、伦敦、海得拉巴、首尔和台北七大城市（Minerva, 2020b, cited in Parreira do Amaral, 2022, p.48）
+> - "全球沉浸"体系逐步扩展至旧金山、布宜诺斯艾利斯、柏林、伦敦、海得拉巴、首尔和台北七大城市（Minerva, 2020b, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]]）
 
 ---
 
@@ -67,7 +67,7 @@ Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座
 
 ### 课程：四核心能力框架
 
-课程不围绕传统学科知识体系组织，而是以四项"实用通用技能"（practical general skills）为核心（Kosslyn & Nelson, 2018a, cited in Parreira do Amaral, 2022, pp.46–47）：
+课程不围绕传统学科知识体系组织，而是以四项"实用通用技能"（practical general skills）为核心（Kosslyn & Nelson, 2018a, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]]）：
 
 - **批判性思维**（Critical Thinking）
 - **创造性思维**（Creative Thinking）
@@ -82,17 +82,17 @@ Minerva 自主研发了云端教学平台"积极学习论坛"（Active Learning 
 
 ### 全球沉浸：七城市的去地方化
 
-学生四年本科期间在七个全球城市轮流居住和学习：旧金山 → 布宜诺斯艾利斯 → 柏林 → 伦敦 → 海得拉巴 → 首尔 → 台北（Minerva, 2020b, cited in Parreira do Amaral, 2022, p.48）。居住空间为共享式公寓而非传统宿舍——机构本身不拥有任何校园、教学楼或图书馆，完全脱离特定物理地点。这种"全球沉浸"以培养[[Global Citizenship|全球公民]]和领导力为公开目标，但其深层逻辑是去地方化：学生不属于任何一个城市或学术社区，他们只是依次经过各个全球枢纽（Thompson & Parreira do Amaral, 2022, p.3）。
+学生四年本科期间在七个全球城市轮流居住和学习：旧金山 → 布宜诺斯艾利斯 → 柏林 → 伦敦 → 海得拉巴 → 首尔 → 台北（Minerva, 2020b, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]]）。居住空间为共享式公寓而非传统宿舍——机构本身不拥有任何校园、教学楼或图书馆，完全脱离特定物理地点。这种"全球沉浸"以培养[[Global Citizenship|全球公民]]和领导力为公开目标，但其深层逻辑是去地方化：学生不属于任何一个城市或学术社区，他们只是依次经过各个全球枢纽（Thompson & Parreira do Amaral, 2022, p.3）。
 
 ### 成本结构
 
-本科 2020–2021 年度学费 14,450美元，全年估计总费用 27,950美元（第四年 31,900美元）加约 5,000美元 生活费——约相当于常规美国顶尖大学的三分之一（Kosslyn & Nelson, 2018a, p.7; Minerva, 2020a, cited in Parreira do Amaral, 2022, p.46）。成本压缩的核心策略是彻底削减大规模物理基础设施的建设、维护和行政成本——没有学术部门，因此不需要系主任、秘书和行政人员([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])。
+本科 2020–2021 年度学费 14,450美元，全年估计总费用 27,950美元（第四年 31,900美元）加约 5,000美元 生活费——约相当于常规美国顶尖大学的三分之一（Kosslyn & Nelson, 2018a, p.7; Minerva, 2020a, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.46]]）。成本压缩的核心策略是彻底削减大规模物理基础设施的建设、维护和行政成本——没有学术部门，因此不需要系主任、秘书和行政人员([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])。
 
 ---
 
 ## 四大问题诊断与方案
 
-Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统诊断之上，每个问题对应一套技术性解决方案（Kosslyn & Nelson, 2018a, cited in Parreira do Amaral, 2022, pp.46–47）：
+Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统诊断之上，每个问题对应一套技术性解决方案（Kosslyn & Nelson, 2018a, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]]）：
 
 - **相关性（Relevance）**：毕业生虽完成学业但未为生活做好准备。传统大学传授学科知识而非实用能力——"在大多数机构，你可以毕业而无需'批判性思维'"（Kosslyn & Nelson, 2018a, p.3）。Minerva 以四核心能力框架替代学科课程，培养"学生可用于适应变化世界和实现自身目标的智识工具"，不针对特定工作岗位培训
 - **高成本（High Costs）**：美国高等教育学费在过去三十年间增长远超通胀。Minerva 通过剥离物理基础设施、学科部门和管理层级将学费压缩至传统名校的约三分之一，同时声称保持小班教学（每班 < 20 人）和完整的支持服务（体验式学习、指导、心理健康、住宿）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])

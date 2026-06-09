@@ -140,7 +140,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 > - **知识作为价值来源**：财富创造的主要来源从自然资源（土地、低技能劳动）→有形资产（建筑、机器、设备）→无形资产（知识、信息）逐步转变（Dunning, 2000, p.8）。知识和信息可体现于人类、组织或不同类型的物理资产中([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 - **知识创造与竞争优势**：知识创造成为经济各部门竞争优势的核心来源，特别强调研发、高等教育以及从 ICT 到文化创意产业和媒体等各类知识密集型产业（Peters, 2009, p.4, cited in Moisio, 2022, pp.23–24）
 - **知识[[Reflexivity|反身性]]**：在一个真正的 KBE 中，知识被反身性地应用于知识的生产本身，大多数部门趋向于变得更加知识密集化（Sum & Jessop, 2013, p.284）
-- **额外经济条件的嵌入**：KBE 远不止经济交易——它依赖于科学、教育、法律、社会制度、传统等额外经济系统的构成性支持（Jessop, 2005, cited in Moisio, 2022, p.23）
+- **额外经济条件的嵌入**：KBE 远不止经济交易——它依赖于科学、教育、法律、社会制度、传统等额外经济系统的构成性支持（Jessop, 2005, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]]）
 - **跨空间竞争**：场所之间（国家、城市、区域）吸引高价值经济活动（高科技、创意产业）的竞争日趋激烈，体现了 [[Hub and Flow Imaginaries]] 的空间逻辑——"一个场所拥有的知名高科技或创意企业越多，越表明该国家及其内部城市和区域的竞争力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])
 
 ---
@@ -163,7 +163,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 - **[[Single-Case Design|SCD]]：KBE 逻辑在个体层面的操作化**：21 世纪技能与素养话语（SCD）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主义知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]])。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
 - KBE 的[[Spatial Sortings|空间分化]]效应：KBE 既将某些地点和人口置于发展的中心，又同时将其他地点和人口边缘化（参见 [[Spatial Sortings]]）。枢纽地区（大型城市的创新综合体）与边缘地区（较小城市群、农村）之间的分化加剧——"增长潜力集中在 KBE 的城市枢纽中，而枢纽之外地区因'经济结构变迁'经历相对衰退"([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])
 - **亚洲政府的高等教育大规模投资**：[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 记录了亚洲各国政府如何以 KBE 话语为框架大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。亚洲高等教育系统积极改革课程以对接全球劳动力市场的变化需求，同时追求对西方顶尖大学的"追赶"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.95]])
-- **KBE 话语作为亚洲中产阶级教育消费的文化推力**：[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地精英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
+- **KBE 话语作为亚洲中产阶级教育消费的文化推力**：[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.96]]）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地精英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
 - **[[Further Education|继续教育]]的持续扩张**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长。KBE 逻辑下知识生命周期的缩短是这一趋势的根本驱动力。企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性越大([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.179, 185]])
 - **澳大利亚：KBE 驱动的教育出口战略**：澳大利亚 2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》展示了 KBE 话语如何被系统性地转化为国家教育出口政策。研究基金（AISRF、ACSRF）将[[Transnational Research Collaboration|跨国研究合作]]与贸易和外交目标深度绑定——高等教育政策在此过程中转变为**经济政策、外交政策和安全政策**的综合体([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])
 - **教育枢纽作为 KBE 的极端运作形式**：新加坡的"[[Singapore Education Hub Policy|全球校园]]"项目和阿联酋迪拜的国际分校产业集群代表了 KBE 逻辑的极致运作——高等教育被完全商品化为出口产业，大学和师生主要被视为经济生产要素([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.209–211]])。详见 [[International Education Hubs#Erfurth 的双重运作维度]]
@@ -173,7 +173,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 ## 争议与批评
 
 > [!warning]
-> - KBE 的积极形象——通过技术经济创新实现无限经济增长、合作、理性对话、平等和良好治理——需要批判性社会科学的审视。Joe Painter 指出 KBE 涉及一系列"退步性元素"，从环境影响到性别议题（Sellar et al., 2020, cited in Moisio, 2022, p.30）
+> - KBE 的积极形象——通过技术经济创新实现无限经济增长、合作、理性对话、平等和良好治理——需要批判性社会科学的审视。Joe Painter 指出 KBE 涉及一系列"退步性元素"，从环境影响到性别议题（Sellar et al., 2020, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]]）
 - KBE 的空间极化效应：[[Progressive Neoliberalism|进步新自由主义]]版本的 KBE 为少数人口和地点生产大量财富，同时将其他人置于社会和地理边缘。Davidson & Rees-Mogg（1999）预见了信息时代"赢家"（跨国认知精英）与"输家"（无法适应新跨国世界的人）之间的深刻分化——这正是过去十年在欧美出现的趋势([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])
 - **KBE 神话掩盖制度替代**：教育枢纽案例揭示了一个被忽视的批评维度——KBE 话语可能被威权或半威权国家用作**替代**（而非补充）社会和政治制度建设的合法性资源。当"知识=发展"成为不证自明的前提时，市场自由化+基础设施扩张就可以包装为发展的全部，制度建设被绕开而不受质疑([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.200, 211]])
 

@@ -27,8 +27,8 @@ related_facts:
   - "[[OECD]]"
   - "[[Education International]]"
 related_arguments:
-  - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -38,9 +38,9 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 网络社会（Network Society）理论由 Manuel Castells (1996) 在 *The Rise of the Network Society* 中系统阐述。其核心主张是：社会组织的主导模式正在从以民族国家为代表的**稳定等级制**转向更为**流动的网络形式**。在这一转型中，跨国网络——而非领土固定的民族国家——日益成为经济活动、[[Knowledge Production|知识生产]]和政治权力的核心组织单位（Castells, 1996, cited in Rizvi, 2022, pp.98–99）。
+> 网络社会（Network Society）理论由 Manuel Castells (1996) 在 *The Rise of the Network Society* 中系统阐述。其核心主张是：社会组织的主导模式正在从以民族国家为代表的**稳定等级制**转向更为**流动的网络形式**。在这一转型中，跨国网络——而非领土固定的民族国家——日益成为经济活动、[[Knowledge Production|知识生产]]和政治权力的核心组织单位（Castells, 1996, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
 >
-> Yochai Benkler (2006) 在 *The Wealth of Networks* 中进一步推进了这一主张，提出"网络财富"（wealth of networks）概念：跨国网络而非民族国家才是**知识创造和经济生产力的新源泉**。这一论证将网络社会理论从社会组织的一般描述延伸到对知识生产和经济价值创造机制的重新解释（Benkler, 2006, cited in Rizvi, 2022, pp.98–99）。
+> Yochai Benkler (2006) 在 *The Wealth of Networks* 中进一步推进了这一主张，提出"网络财富"（wealth of networks）概念：跨国网络而非民族国家才是**知识创造和经济生产力的新源泉**。这一论证将网络社会理论从社会组织的一般描述延伸到对知识生产和经济价值创造机制的重新解释（Benkler, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
 >
 
 ## 核心命题

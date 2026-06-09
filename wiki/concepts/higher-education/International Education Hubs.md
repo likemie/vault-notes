@@ -125,7 +125,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 ### 地缘政治特征
 
-- **国家角色转变**：IEHs 体现国家功能从垄断教育供给向强化监管角色的转变——国家成为"权力连接器"（power connector），协调全球流通与本地治理（Erfurth, 2019, cited in Parreira do Amaral, 2022, pp.44–45）
+- **国家角色转变**：IEHs 体现国家功能从垄断教育供给向强化监管角色的转变——国家成为"权力连接器"（power connector），协调全球流通与本地治理（Erfurth, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）
 - **治理理性的转换**：高等教育治理的基本理性正从社会和教育范畴（可及性、可负担性、公平性、质量、流动性、开放研究、进步）转向经济范畴（收入创造、可专利的非开放研究和知识的生产、经济竞争力）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
 - **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色**：IEHs 是 Moisio (2018) 的 Hub and [[Flow]] 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
 - **与 Minerva 项目的对照**：IEHs 和 Minerva 代表了[[Geopolitics of Knowledge|知识地缘政治]]中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑，Minerva 则体现以资本和技术为驱动的"流动"逻辑。两者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])。详见 知识地缘政治 > 两条理论脉络
@@ -153,8 +153,8 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 > [!info]- 核心数据
 > - Knight (2014) 识别的教育枢纽国家/地区：新加坡、阿联酋、卡塔尔、香港、马来西亚、博茨瓦纳、韩国、斯里兰卡、毛里求斯、巴林（p.202）
-> - 迪拜国际分校数量全球第二（33 所），仅次于中国（36 所）（EY Parthenon, 2019, cited in Erfurth, 2022, pp.210–211）
-> - 新加坡 Global Schoolhouse 市场失败标志性事件：2007 年 3 月一所澳大利亚大学开学、同年 6 月关闭（Ng & Tan, 2010, cited in Erfurth, 2022, p.209）
+> - 迪拜国际分校数量全球第二（33 所），仅次于中国（36 所）（EY Parthenon, 2019, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.210–211]]）
+> - 新加坡 Global Schoolhouse 市场失败标志性事件：2007 年 3 月一所澳大利亚大学开学、同年 6 月关闭（Ng & Tan, 2010, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.209]]）
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 研究数据：新加坡政策文件 60 份、阿联酋 38 份，两国专家访谈共 18 份（p.202）
 
 ---

@@ -64,7 +64,7 @@ updated: '2026-06-08'
 > - [[Radical Constructivism]] — 创始人，将知识定义为个体主观建构，排除外部世界
 > - 影响了 1990 年代学习理论的重要范式转向
 > - 其认识论立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
-> - 也被 [[Niklas Luhmann]] 的[[Luhmann's Systems Theory|系统理论]]引用和赞赏（Luhmann, 1998，转引自 Rømer, 2018, p.11, note 6）
+> - 也被 [[Niklas Luhmann]] 的[[Luhmann's Systems Theory|系统理论]]引用和赞赏（Luhmann, 1998，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, p.11, note 6]]）
 
 ## 争议与批评
 

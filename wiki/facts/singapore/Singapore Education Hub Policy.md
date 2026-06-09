@@ -53,7 +53,7 @@ updated: 2026-05-19
 > [!abstract]
 > 新加坡教育枢纽政策不是一个单一的政策文件，而是一系列由国家主导的、高度战略性的高等教育改革项目的总称。其核心策略是通过**国家主导的高等教育产业创造**——吸引"世界一流大学"设立分校和合作项目、重塑本国顶尖大学为全球品牌、打造以知识密集型工作为核心的经济环境——将新加坡建设为亚洲首屈一指的高等教育、研究和[[Knowledge-Based Economy|知识经济]]中心([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.206–209]])。
 
-项目的推动机构是新加坡经济发展局（Economic Development Board）及其上级机构贸易与工业部（Ministry for Trade and Industry），与教育部（Ministry of Education）协同运作——这意味着该政策从一开始就被定位为**经济政策**而非纯粹的教育政策（Ng & Tan, 2010, cited in Erfurth, 2022, p.209）。
+项目的推动机构是新加坡经济发展局（Economic Development Board）及其上级机构贸易与工业部（Ministry for Trade and Industry），与教育部（Ministry of Education）协同运作——这意味着该政策从一开始就被定位为**经济政策**而非纯粹的教育政策（Ng & Tan, 2010, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.209]]）。
 
 ---
 
@@ -73,7 +73,7 @@ updated: 2026-05-19
 - **2002 年**：新加坡正式推出"**全球校园**"（Global Schoolhouse）项目——旨在将新加坡打造为国际高等教育产业中心，吸引"世界一流大学"商业化运营，其经济贡献被纳入经发局年度报告（p.209）
 - **2004–2006 年**：国际私立大学在新加坡快速增长，高等教育被视为**出口产业**
 - **2007 年 3 月**：一所澳大利亚大学在新加坡开学
-- **2007 年 6 月**：该大学关闭——不到四个月即告失败，标志着 Global Schoolhouse 的市场失败（Ng & Tan, 2010, cited in Erfurth, 2022, p.209）
+- **2007 年 6 月**：该大学关闭——不到四个月即告失败，标志着 Global Schoolhouse 的市场失败（Ng & Tan, 2010, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.209]]）
 
 ### 第三阶段：监管回撤（2007 年后）
 

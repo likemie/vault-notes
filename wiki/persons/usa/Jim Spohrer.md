@@ -78,7 +78,7 @@ updated: '2026-06-08'
 ## 格言／关键表述
 
 > [!quote]
-> "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 Narayan & Spohrer, 2025, p.97）
+> "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.97]]）
 > 
 > AI 不会取代服务提供者（如产业研究人员、学术教职等），但那些能够有效且符合伦理地使用 AI 的值得信赖的服务提供者，将取代那些不这样做的人。
 

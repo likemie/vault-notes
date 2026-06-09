@@ -41,7 +41,7 @@ updated: 2026-05-27
 > 这一范式目前仍处于早期阶段，少有大规模实施的实例（Lindner et al., 2024）（p.34）。
 
 > [!quote]
-> "The systems of innovation approach is too passive and reactive, given the major societal, economic, and environmental challenges faced by societies around the world"（Schot & Steinmueller, 2018，转引自 Ulrichsen, 2025, p.32）
+> "The systems of innovation approach is too passive and reactive, given the major societal, economic, and environmental challenges faced by societies around the world"（Schot & Steinmueller, 2018，转引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.32]]）
 
 ---
 

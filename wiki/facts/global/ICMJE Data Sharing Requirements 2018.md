@@ -41,7 +41,7 @@ updated: 2026-06-04
 ## 政策文本摘要
 
 > [!abstract]
-> 两项要求的具体内容（ICMJE, 2017, cited in Brock, 2025, pp.300–301）：
+> 两项要求的具体内容（ICMJE, 2017, cited in [[Argument_Brock_2025_DataAccessGenerationUse|Brock, 2025, pp.300–301]]）：
 
 > 1. **[[Clinical Trial|临床试验]]注册要求**：医学期刊编辑必须要求临床试验在首例患者入组时或之前完成公共临床试验注册，作为考虑发表的前提条件
 > 2. **数据共享声明要求**：提交至 ICMJE 期刊、报告临床试验结果的稿件，必须包含符合 ICMJE 网站描述的数据共享声明

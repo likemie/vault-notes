@@ -80,7 +80,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success] 效果与评价
-> 该政策对比较与国际（高等）教育研究的社会认识论（social epistemology）产生了深远影响：研究知识的生产条件、验证标准和学科边界在此框架下被重新定义（Parreira do Amaral, 2019, cited in Parreira do Amaral, 2022, p.42）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022, pp.48–49)]]呼吁学界关注这一进程中认识论治理的深层效应——当研究资助的结构性条件系统性地偏好特定类型的知识和方法论时，学术研究本身的多样性、批判性和自主性就面临根本性的制度威胁。
+> 该政策对比较与国际（高等）教育研究的社会认识论（social epistemology）产生了深远影响：研究知识的生产条件、验证标准和学科边界在此框架下被重新定义（Parreira do Amaral, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022, pp.48–49)]]呼吁学界关注这一进程中认识论治理的深层效应——当研究资助的结构性条件系统性地偏好特定类型的知识和方法论时，学术研究本身的多样性、批判性和自主性就面临根本性的制度威胁。
 
 ## 相关概念／理论
 

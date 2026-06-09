@@ -96,7 +96,7 @@ updated: 2026-05-20
 > 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和实践从企业部门被广泛引入，以使公立高等教育机构更像企业运作"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
 > 4. 企业化运营反过来使大学更依赖国际学生市场收入 → 加固了第 1 步
 >
-> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in Rizvi, 2022, p.97）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–100]])。
+> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–100]])。
 >
 > 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])。详见 Rizvi 论证 > 第四步。
 

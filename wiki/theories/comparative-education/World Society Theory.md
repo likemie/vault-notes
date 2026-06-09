@@ -35,9 +35,9 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
+  - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
@@ -51,10 +51,10 @@ updated: '2026-06-02'
 ## 核心主张
 
 > [!tip]
-> 世界社会理论（world society theory，亦称世界政体理论或斯坦福学派）主张：在世界层面存在一个由[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会（world society），它超越了以民族国家为中心的传统国际关系理解。这个世界社会缺乏传统的控制和权威机制（如中央政府和强制执行力），其运作本质上通过他者性（[[Otherhood]]）机制——即围绕进步与正义等宏大目标的文化模型的扩散与模仿——来建构和维持（Meyer et al., 1997，引自 Zapp, 2022, pp.145, 149）。该理论强调，民族国家的制度形式、组织的结构特征以及个体的身份认同，很大程度上是全球文化模型在地方层面落地的结果，而非纯粹的地方性或功能性产物。
+> 世界社会理论（world society theory，亦称世界政体理论或斯坦福学派）主张：在世界层面存在一个由[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会（world society），它超越了以民族国家为中心的传统国际关系理解。这个世界社会缺乏传统的控制和权威机制（如中央政府和强制执行力），其运作本质上通过他者性（[[Otherhood]]）机制——即围绕进步与正义等宏大目标的文化模型的扩散与模仿——来建构和维持（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145, 149]]）。该理论强调，民族国家的制度形式、组织的结构特征以及个体的身份认同，很大程度上是全球文化模型在地方层面落地的结果，而非纯粹的地方性或功能性产物。
 
 > [!quote]
-> "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997, cited in Zapp, 2022, p.149）
+> "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997, cited in [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）
 > 
 > 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种他者性（otherhood）来建构的，即通过文化模型的扩散与模仿，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。
 
@@ -70,11 +70,11 @@ updated: '2026-06-02'
 - **[[Otherhood]] 作为世界社会的运作机制**：由于缺乏中央权威，世界社会通过为他人行动（otherhood）来运作——各类组织（国际组织、大学、NGO）将自己定义为他者的代理者，为民族国家、弱势群体、环境以及人权、正义等原则提供知识和规范支持（Meyer & Jepperson, 2000; Zapp, 2020a）。
 - **[[Organizational Actorhood|组织能动者身份]]的全球扩散**：在全球文化模型的压力下，各类组织日益获得能动者身份（actorhood）——自主性、目标导向、问责性和社会嵌入性成为正常组织的标准特征（Bromley & Meyer, 2015）。
 - **世界社会中的知识与科学权威**：科学知识因其普世性、独立性、怀疑精神和无私利性（Merton, 1973 [1942]）在世界社会中具有独特的合法化功能，大学和科学家因此成为世界社会中的关键行动者([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
-- **多行动者、多层次治理架构**：在去中心化和无定形的世界社会配置中，传统治理行动者（民族国家）与非国家行动者（国际组织、大学、NGO）共享 otherhood，构成多行动者、多层次全球治理架构（Barnett & Finnemore, 2004，引自 Zapp, 2022, p.149）。
+- **多行动者、多层次治理架构**：在去中心化和无定形的世界社会配置中，传统治理行动者（民族国家）与非国家行动者（国际组织、大学、NGO）共享 otherhood，构成多行动者、多层次全球治理架构（Barnett & Finnemore, 2004，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）。
 
 ### 全球学校模型的扩散与趋同
 
-- **全球扩散**：现代学校教育的基本形式（年龄分级、课程分类、标准化考试）在全球范围内趋同，动力是更普遍的现代民族国家文化（西方）模型在全球的扩散（Meyer et al., 1997，引自 Yan & Morris, 2025, p.482）。
+- **全球扩散**：现代学校教育的基本形式（年龄分级、课程分类、标准化考试）在全球范围内趋同，动力是更普遍的现代民族国家文化（西方）模型在全球的扩散（Meyer et al., 1997，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p.482]]）。
 - **西方模板**：扩散的方向是从西方（尤其是美国）向世界其他国家。Social Studies（Hamilton, 1973）和 Humanities（Stenhouse, 1968）——以综合学科替代单一学科的课程形式——最初在美英开发，随后扩散至全球([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p.482]])。
 - **趋同机制**：通过工业化、城市化和国家建构的标准化过程实现，而非强迫性政策转移。
 

@@ -36,7 +36,7 @@ updated: 2026-05-18
 > [!info] 背景
 > 教育行政研究在 20 世纪初的美国大学中建制化。教育行政系科的建立与 Taylor（1911）*The Principles of Scientific Management* 的出版大体同时，这些科学管理原则被当时的主要人物——Teachers College Columbia 的 George Strayer、Wisconsin 的 Edward Elliot、Chicago 的 Franklin Bobbit 和 Stanford 的 Ellwood Cubberly——大力倡导([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315-316]])。
 >
-> > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中[[Didaktik|教授学]]校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 Eacott, 2015, p.326）。
+> > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中[[Didaktik|教授学]]校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.326]]）。
 >
 > 然而，Taylor 和同期经典行政思想家（Lyndall Urwick、Henri Fayol）是**实践者/研究者**而非科学家。"科学"与"教育行政的科学研究"在理论运动时期（1950–1960s）才达到顶峰([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]])。
 
@@ -80,7 +80,7 @@ updated: 2026-05-18
 >
 > 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的知识论假设([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
-> Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自 Eacott, 2015, p.316）。
+> Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]]）。
 >
 > **后续发展**
 >

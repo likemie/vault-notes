@@ -46,7 +46,7 @@ updated: '2026-05-23'
 
 
 > [!abstract] Schön 的反思实践模型
-> - **实践中的反思（reflection-in-practice）**：对当前实践的持续自我评估过程——"我在这一时刻应该改变或修正我正在做的事情吗？"（Schön, 1983，引自 Qvortrup, 2019, p.6）
+> - **实践中的反思（reflection-in-practice）**：对当前实践的持续自我评估过程——"我在这一时刻应该改变或修正我正在做的事情吗？"（Schön, 1983，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]]）
 > - **对实践的反思（reflection-on-practice）**：在实践之后或之外与同事一起进行——反思当前实践是否应在方法上改变、实践者是否应向新方向进修等([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])
 
 

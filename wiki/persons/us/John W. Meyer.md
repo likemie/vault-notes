@@ -105,7 +105,7 @@ updated: '2026-06-08'
 > - **[[Otherhood]] 作为社会运作的核心机制**：组织——尤其是大学和国际组织——的能动性在很大程度上指向他者（其他行动者、非行动者实体和现代性原则），otherhood 是现代社会运作和整合的基本方式
 
 > [!quote]
-> "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997, cited in Zapp, 2022, p.149）
+> "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997, cited in [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）
 > 
 > 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种他者性（otherhood）来建构的，即通过文化模型的扩散与模仿，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。
 

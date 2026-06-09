@@ -124,7 +124,7 @@ Behrens 和 DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"�
 > [!warning]
 > 学习分析的量化输出——积分、百分比、正确率——通过仪表盘（dashboard）被可视化呈现，同时也为 [[Gamification]] 提供了数据基础([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.242–245]])。
 
-仪表盘的颜色象征（红色=最差，绿色=最好）具有强大的情感冲击力——颜色本身往往压倒对度量背后计算逻辑的理性评估。一项健康测量研究发现，即使专家已对结果做出口头解释，被红色标示的输出仍使参与者经历了数周的焦虑（Klinge et al., 2020, cited in Jornitz & Klinge, 2022, pp.243–244）。在 Antolin 阅读平台的结果页面中，两个在数学上相互矛盾的度量系统被视觉呈现掩盖，学生和教师逐渐被"条件化"以适应"表现应该是 100% 在绿色圆圈中"的信息([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.244–245]])。
+仪表盘的颜色象征（红色=最差，绿色=最好）具有强大的情感冲击力——颜色本身往往压倒对度量背后计算逻辑的理性评估。一项健康测量研究发现，即使专家已对结果做出口头解释，被红色标示的输出仍使参与者经历了数周的焦虑（Klinge et al., 2020, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.243–244]]）。在 Antolin 阅读平台的结果页面中，两个在数学上相互矛盾的度量系统被视觉呈现掩盖，学生和教师逐渐被"条件化"以适应"表现应该是 100% 在绿色圆圈中"的信息([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.244–245]])。
 
 在 bettermarks 等数学平台中，[[Gamification]] 元素（金币、星星）与学习分析数据并列展示，但 Gamification 符号的视觉权重（黄色、大尺寸）远超百分比数字——创造了一套按游戏逻辑而非教学逻辑构造的"货币"。详见 [[Gamification#在教育中的应用与问题]] 和 论证拆解 7b。
 

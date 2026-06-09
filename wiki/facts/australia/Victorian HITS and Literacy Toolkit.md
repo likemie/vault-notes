@@ -30,6 +30,7 @@ related_facts:
   - "[[Australian Council for Educational Research]]"
 related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -47,13 +48,13 @@ updated: '2026-05-18'
 >
 > ### 1. High Impact Teaching Strategies (HITS)
 >
-> *High Impact Teaching Strategies: Excellence in Teaching and Learning*（高影响力教学策略：卓越教与学）列出了 10 项教学策略，**每项均以 Hattie 的 Visible Learning 为首要参考文献**（Department of Education and Training Victoria, 2017a，引自 O'Connor, 2020, p.141）。这 10 项教学实践源自 [[John Hattie]] 和 [[Robert Marzano]] 等国际研究者的发现，旨在让"教师和[[School Leadership|学校领导]]者有机会嵌入和分享成功教学实践的使用"（DET Victoria, cited in Sarbiewska, 2019, p.126）。
+> *High Impact Teaching Strategies: Excellence in Teaching and Learning*（高影响力教学策略：卓越教与学）列出了 10 项教学策略，**每项均以 Hattie 的 Visible Learning 为首要参考文献**（Department of Education and Training Victoria, 2017a，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]]）。这 10 项教学实践源自 [[John Hattie]] 和 [[Robert Marzano]] 等国际研究者的发现，旨在让"教师和[[School Leadership|学校领导]]者有机会嵌入和分享成功教学实践的使用"（DET Victoria, cited in Sarbiewska, 2019, p.126）。
 >
-> 澳大利亚 [[ResearchED]]（Australian College of Educators, 2017）在 [[Australian Council for Educational Research|ACER]] 卓越专业实践会议上启动，为从业者提供平台发布发现、分享思维方式，帮助"好的实践成为普遍实践"（Deeble & Vaughan, 2018, cited in Sarbiewska, 2019, p.126）。
+> 澳大利亚 [[ResearchED]]（Australian College of Educators, 2017）在 [[Australian Council for Educational Research|ACER]] 卓越专业实践会议上启动，为从业者提供平台发布发现、分享思维方式，帮助"好的实践成为普遍实践"（Deeble & Vaughan, 2018, cited in [[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.126]]）。
 >
 > ### 2. Literacy Teaching Toolkit
 >
-> *Guide to the Literacy Teaching Toolkit: Foundation to Level 6, Reading and Viewing Version 1*（读写教学工具包指南：基础至 6 级，阅读与查看版，第 1 版）显著引用 Hattie 的研究以及 Corwin（Visible Learningplus 品牌所有者）出版的 *Visible Learning for Literacy*（Fisher, Frey, & Hattie, 2016）（Department of Education and Training Victoria, 2017b，引自 O'Connor, 2020, p.141）。
+> *Guide to the Literacy Teaching Toolkit: Foundation to Level 6, Reading and Viewing Version 1*（读写教学工具包指南：基础至 6 级，阅读与查看版，第 1 版）显著引用 Hattie 的研究以及 Corwin（Visible Learningplus 品牌所有者）出版的 *Visible Learning for Literacy*（Fisher, Frey, & Hattie, 2016）（Department of Education and Training Victoria, 2017b，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]]）。
 
 ## 时间线
 

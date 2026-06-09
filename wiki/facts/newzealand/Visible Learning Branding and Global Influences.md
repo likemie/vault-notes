@@ -231,7 +231,7 @@ updated: '2026-05-18'
 >
 > #### 新西兰
 >
-> [[PISA]] 2001 数据显示新西兰处于"高质量、高公平"象限，但成绩差异较大，主要源于校内差异而非校际差异([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.123–124]])。2004 年新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任（Alton-Lee, 2004, cited in Sarbiewska, 2019, p.124）。
+> [[PISA]] 2001 数据显示新西兰处于"高质量、高公平"象限，但成绩差异较大，主要源于校内差异而非校际差异([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.123–124]])。2004 年新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任（Alton-Lee, 2004, cited in [[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.124]]）。
 >
 > 政策采纳路径([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.125–128]])：
 > - 2003 年教育部长 Trevor Mallard 将优质教学作为优先议程

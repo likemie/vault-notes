@@ -42,7 +42,7 @@ updated: 2026-05-18
 > [!info] 定义
 > Whole Language（全语言）是一种读写教学哲学和方法论，强调语言学习应在真实、完整的语境中进行，而非通过孤立的技能训练。Goodman（2005, pp.35-36）明确指出全语言"坚决拒绝"以下做法：孤立技能序列、将读写切分为年级碎片、通过控制句子结构和词汇简化文本、将阅读等同于子技能测试成绩、将读写教学与其在实际学习或读写中的使用相隔离([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
 >
-> 全语言被不同学者描述为一种哲学、一种认识论和一场运动（Wilson, 1997，引自 O'Connor, 2020, p.143）。
+> 全语言被不同学者描述为一种哲学、一种认识论和一场运动（Wilson, 1997，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]]）。
 >
 > Goodman（2005, p.42）进一步阐述：
 >
@@ -54,9 +54,9 @@ updated: 2026-05-18
 
 > [!note-] 历史沿革
 > - **1967** — [[Ken Goodman]] 发表里程碑文章 *Reading: A Psycholinguistic Guessing Game*，为 1970 年代全语言运动的兴起奠定基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])
-> - **1970s** — 全语言运动在美国兴起，其产生不仅是读写理论和研究发展的产物，也与更广泛的政治发展相关，包括民权运动和其他社会运动（Y. Goodman, 1989; Ryan & Goodman, 2016，引自 O'Connor, 2020, p.150）
+> - **1970s** — 全语言运动在美国兴起，其产生不仅是读写理论和研究发展的产物，也与更广泛的政治发展相关，包括民权运动和其他社会运动（Y. Goodman, 1989; Ryan & Goodman, 2016，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]]）
 > - **1980s–1990s** — 全语言在英语国家广泛传播，同时引发"阅读战争"（Reading Wars）——全语言倡导者与系统合成语音（systematic synthetic phonics）支持者之间的激烈公开辩论
-> - **1990s** — 美国福音派基督教团体和共和党右翼发起对全语言的强烈反弹，最终导致 Bush 政府 2001 年 [[No Child Left Behind Act 2001|NCLB]] 法案禁止联邦资助不支持合成语音项目的学区（Weaver & Brinkley, 1998，引自 O'Connor, 2020, p.147）
+> - **1990s** — 美国福音派基督教团体和共和党右翼发起对全语言的强烈反弹，最终导致 Bush 政府 2001 年 [[No Child Left Behind Act 2001|NCLB]] 法案禁止联邦资助不支持合成语音项目的学区（Weaver & Brinkley, 1998，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]]）
 > - **2009** — Hattie 在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，称其"对学习阅读的影响可忽略不计"，引发争议([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])
 > - **2020** — O'Connor 发表详细审查，论证 Hattie 对全语言的评估存在方法论缺陷和先验偏见([[Argument_OConnor_2020_AJLL|O'Connor, 2020]])
 
@@ -68,7 +68,7 @@ updated: 2026-05-18
 > - **意义优先**：重点在于意义而非语言本身，学习发生在真实的言语和读写事件中（Goodman, 2005, p.42）
 > - **完整语境**：学习者围绕完整语言在完整情境中学习，拒绝将读写技能从实际使用中隔离（Goodman, 2005, pp.35-36）
 > - **学习者中心**：鼓励学习者冒险，以自身目的使用语言的所有变体（Goodman, 2005, p.42）
-> - **整合技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 O'Connor, 2020, p.148）——这与批评者声称全语言不教具体技能的说法相反
+> - **整合技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）——这与批评者声称全语言不教具体技能的说法相反
 > - **读写作为社会文化实践**：Bloome, Harris & Ludlam（1991, p.15）指出读写构成复杂的社会文化活动网络，"理解读写作为社会和文化实践的总体含义是承认教学法始终是政治的（涉及权力关系）"（引自 O'Connor, 2020, p.150）
 
 ---
@@ -116,7 +116,7 @@ updated: 2026-05-18
 
 > [!warning] 政治争议
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.97)]]早在 VL 出版同年即指出全语言元分析中的[[Variable|变量]]界定问题："全语言教学"的操作定义在不同元分析中差异巨大——Hattie 本人承认两项元分析使用了大量重叠的研究，但"差异源于作者对某些关键研究的分类方式以及对'什么构成全语言'的[[Coding in Qualitative Research|编码]]方式"（Hattie, 2008, p.137）。这揭示了一个可能广泛存在的问题：教育变量的模糊定义使得元分析间的比较失去可靠性。
-> - 全语言在美国成为文化战争的战场：福音派基督教团体和共和党右翼领导了 1990 年代的反全语言运动。Phyllis Schlafly 的 Eagle Forum 敦促成员推动支持语音的立法（Weaver & Brinkley, 1998，引自 O'Connor, 2020, p.147）
+> - 全语言在美国成为文化战争的战场：福音派基督教团体和共和党右翼领导了 1990 年代的反全语言运动。Phyllis Schlafly 的 Eagle Forum 敦促成员推动支持语音的立法（Weaver & Brinkley, 1998，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]]）
 > - Wolf & Poynor（2001, p.15）挑战流行的"钟摆摆动"隐喻，论证全语言的兴衰"更接近一场与霸权控制冲突密不可分的社会政治运动"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]])
 
 ---

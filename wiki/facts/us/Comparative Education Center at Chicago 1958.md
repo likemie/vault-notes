@@ -47,7 +47,7 @@ updated: 2026-06-08
 ## 经过
 
 > [!note]
-> - **1958 年**：C. Arnold Anderson 在芝加哥大学创立比较教育中心。Anderson 的比较教育中心与当时正在兴起的[[Economics of Education Movement|教育经济学运动]]紧密对接，将比较教育的研究议程从文化情境理解转向了教育[[Return on Investment|投资回报]]的[[Analytic Framework|分析框架]]（Brehm, 2023, cited in Klerides, 2023, p.423）。
+> - **1958 年**：C. Arnold Anderson 在芝加哥大学创立比较教育中心。Anderson 的比较教育中心与当时正在兴起的[[Economics of Education Movement|教育经济学运动]]紧密对接，将比较教育的研究议程从文化情境理解转向了教育[[Return on Investment|投资回报]]的[[Analytic Framework|分析框架]]（Brehm, 2023, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.423]]）。
 > - **核心作用**：该中心在融合比较教育与教育经济学方面发挥了关键作用（instrumental）。在 Anderson 的领导下，中心将人力资本理论的框架系统应用于跨国教育比较，开启了比较教育中技术官僚和经济化分析的传统。
 > - **扩散机制**：该中心与美国发起并资助的国际项目一起工作——包括西欧的马歇尔计划、拉丁美洲的进步联盟、地中海区域项目——通过美国支配的国际组织网络，帮助人力资本理论在全球扩散，铺就了后来被称为"全球化"的道路([[Argument_Klerides_2023_CE|Klerides, 2023, p.423]])。
 

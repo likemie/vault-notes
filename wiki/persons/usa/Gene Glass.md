@@ -61,10 +61,10 @@ updated: '2026-06-08'
 >
 > Glass 将[[Effect Size|效应量]]（标准差单位）作为跨研究比较的通用尺度，这一度量方式至今是教育和心理学元分析的标准。他承认 Robert Rosenthal 发展了效应量的基础度量，Benjamin Bloom 也对其思想产生了影响——Bloom 的"两个标准差问题"（two sigma problem）正是以标准差单位表述的([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])。
 >
-> 对于"苹果和橙子"批评——元分析将不可比的研究混为一谈——Glass 的回应直截了当："当然它混合苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的"（Glass, 2000, cited in Higgins, 2016, p.37）。这一论述的核心在于：任何推论都直接取决于元分析所包含的内容，理解这一点是正确解读元分析的前提。
+> 对于"苹果和橙子"批评——元分析将不可比的研究混为一谈——Glass 的回应直截了当："当然它混合苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的"（Glass, 2000, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）。这一论述的核心在于：任何推论都直接取决于元分析所包含的内容，理解这一点是正确解读元分析的前提。
 
 > [!quote]
-> "Of course it mixes apples and oranges; in the study of fruit nothing else is sensible; comparing apples and oranges is the only endeavor worthy of true scientists; comparing apples to apples is trivial."（Glass, 2000, cited in Higgins, 2016, p.37）
+> "Of course it mixes apples and oranges; in the study of fruit nothing else is sensible; comparing apples and oranges is the only endeavor worthy of true scientists; comparing apples to apples is trivial."（Glass, 2000, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）
 
 ---
 
