@@ -20,6 +20,7 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
   - "[[Neo-Taylorism]]"
+  - "[[Ontological Complicity]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods:
@@ -100,7 +101,7 @@ updated: 2026-05-18
 ## 理论基础
 
 > [!info] 理论基础
-> - wiki-[[Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414, citing Birkinshaw et al., 2014]]; Bourdieu & Wacquant, 1992)
+> - wiki-[[Pierre Bourdieu]] — [[Ontological Complicity|本体论共谋]]（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414, citing Birkinshaw et al., 2014]]; Bourdieu & Wacquant, 1992)
 > - Callahan（1962）*Education and the [[Cult of Efficiency]]* — 历史框架：20 世纪美国教育被效率崇拜渗透的[[Analytic Framework|分析框架]]，Eacott 将其类比应用于当代澳大利亚的"Hattie 崇拜"
 
 ## 实证发现

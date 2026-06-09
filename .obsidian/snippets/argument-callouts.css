@@ -254,7 +254,7 @@
 }
 
 .callout[data-callout="line-a"]::after { content: counter(line-item, upper-alpha); }
-.callout[data-callout="line-b"]::after { content: "\2937"; font-size: 3.8rem; }
+.callout[data-callout="line-b"]::after { content: counter(line-item, upper-alpha); }
 .callout[data-callout="line-c"]::after { content: "C"; }
 .callout[data-callout="line-d"]::after { content: "D"; }
 .callout[data-callout="line-e"]::after { content: "E"; }
@@ -291,7 +291,7 @@
 }
 
 .callout[data-callout="line-a"] > .callout-title .callout-title-inner::before { content: counter(line-item, upper-alpha); }
-.callout[data-callout="line-b"] > .callout-title .callout-title-inner::before { content: "—"; }
+.callout[data-callout="line-b"] > .callout-title .callout-title-inner::before { content: counter(line-item, upper-alpha); }
 .callout[data-callout="line-c"] > .callout-title .callout-title-inner::before { content: "C"; }
 .callout[data-callout="line-d"] > .callout-title .callout-title-inner::before { content: "D"; }
 .callout[data-callout="line-e"] > .callout-title .callout-title-inner::before { content: "E"; }
