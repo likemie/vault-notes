@@ -729,12 +729,12 @@
 /* 数字：infographic 风格 — 超大、紧字距、等宽数字、极粗 */
 .callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child {
   display: block;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.15rem;
   color: rgb(72, 132, 112);
-  font-size: 3.4em;
-  line-height: 0.95;
-  letter-spacing: -0.04em;
-  font-weight: 900;
+  font-size: 1.2em;
+  line-height: 1.4;
+  letter-spacing: 0.01em;
+  font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
 
@@ -1026,4 +1026,119 @@
 /* ─── framework-table 工具名列 — 轻字距提升专名识别 ── */
 .callout[data-callout="framework-table"] td:first-child {
   letter-spacing: 0.015em;
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   CONCEPT TIMELINE — 概念演变时间线
+   用途：概念条目发展脉络，垂直时间轴可视化
+   颜色：slate-indigo rgb(72, 95, 145)
+   格式：- **YYYY** 或 **YYYY–YYYY**：正文说明
+         bold 首段自动渲染为年份徽章（chip）
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── 容器 ────────────────────────────────────────── */
+.callout[data-callout="timeline"] {
+  --callout-color: 72, 95, 145;
+  --callout-icon: lucide-history;
+  background: color-mix(in srgb, var(--background-primary) 94%, rgb(72, 95, 145) 6%);
+  border: 1px solid rgba(72, 95, 145, 0.22);
+  border-left: 3.5px solid rgb(72, 95, 145);
+  border-radius: 10px;
+  padding: 0.85rem 1.1rem 0.7rem;
+}
+
+/* ─── 标题行 ─────────────────────────────────────── */
+.callout[data-callout="timeline"] > .callout-title {
+  color: rgb(72, 95, 145);
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid rgba(72, 95, 145, 0.18);
+  margin-bottom: 0.55rem;
+}
+
+/* ─── 列表：去掉默认缩进，建立轨道坐标系 ──────────── */
+.callout[data-callout="timeline"] .callout-content ul {
+  list-style: none;
+  padding-left: 2.2rem;
+  margin: 0.3rem 0 0;
+  position: relative;
+}
+
+/* 垂直时间线轨道 — 两端渐隐 */
+.callout[data-callout="timeline"] .callout-content ul::before {
+  content: "";
+  position: absolute;
+  left: 0.65rem;
+  top: 0.6rem;
+  bottom: 0.6rem;
+  width: 2px;
+  border-radius: 1px;
+  background: linear-gradient(
+    to bottom,
+    rgba(72, 95, 145, 0)    0%,
+    rgba(72, 95, 145, 0.50) 12%,
+    rgba(72, 95, 145, 0.50) 88%,
+    rgba(72, 95, 145, 0)   100%
+  );
+}
+
+/* ─── 节点条目 ───────────────────────────────────── */
+.callout[data-callout="timeline"] .callout-content ul > li {
+  position: relative;
+  padding: 0.38rem 0.6rem 0.38rem 0.5rem;
+  margin-bottom: 0.08rem;
+  border-radius: 6px;
+  line-height: 1.72;
+  transition: background 0.14s ease;
+}
+
+.callout[data-callout="timeline"] .callout-content ul > li:hover {
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(72, 95, 145) 12%);
+}
+
+/* 节点圆点 — 与轨道线垂直对齐 */
+.callout[data-callout="timeline"] .callout-content ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.59rem;
+  top: 0.78rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgb(72, 95, 145);
+  box-shadow:
+    0 0 0 2.5px color-mix(in srgb, var(--background-primary) 78%, rgb(72, 95, 145) 22%),
+    0 0 0 4.5px rgba(72, 95, 145, 0.10);
+  z-index: 1;
+}
+
+/* ─── 年份徽章 — li 内首个 strong ───────────────────
+   适配格式：- **1978–1979**：正文
+   **1980s**：正文 */
+.callout[data-callout="timeline"] .callout-content ul > li > strong:first-child {
+  display: inline-block;
+  padding: 0.06em 0.48em 0.09em;
+  margin-right: 0.35em;
+  border-radius: 4px;
+  background: rgb(72, 95, 145);
+  color: #fff;
+  font-size: 0.79em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+/* ─── 暗模式微调 ─────────────────────────────────── */
+.theme-dark .callout[data-callout="timeline"] {
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(72, 95, 145) 12%);
+  border-color: rgba(72, 95, 145, 0.32);
+}
+
+.theme-dark .callout[data-callout="timeline"] .callout-content ul > li::before {
+  box-shadow:
+    0 0 0 2.5px color-mix(in srgb, var(--background-primary) 70%, rgb(72, 95, 145) 30%),
+    0 0 0 4.5px rgba(72, 95, 145, 0.18);
 }

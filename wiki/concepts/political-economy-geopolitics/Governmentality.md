@@ -116,13 +116,13 @@ updated: 2026-05-23
 
 ## 发展脉络
 
-> [!note]
-> - **1978–1979**：Foucault 在法兰西学院讲座 Security_Territory_Population 和 The Birth of Biopolitics 中系统阐述治理术概念
-> - **1980s**：治理术概念被引入英语学术界，引发"治理术研究"（governmentality studies）浪潮（Burchell, Gordon & Miller, 1991）
-> - **1990s–2000s**：治理术分析被广泛应用于教育研究，包括[[Lifelong Learning|终身学习]]治理（Olssen, 2006）、高等教育[[New Public Management|新公共管理]]（Dean, 2010）、[[International Education|国际教育]]政策比较研究
-> - **2008**：教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象([[Argument_Ball_2008_SR|Ball, 2008, pp.651, 654-665]])
-> - **2022a**：Thompson 等人将治理术应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理术在算法时代的运作形态([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]])
-> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.251-265]])
+> [!timeline] 发展脉络
+> - **1978–1979** Foucault 在法兰西学院讲座 Security_Territory_Population 和 The Birth of Biopolitics 中系统阐述治理术概念
+> - **1980s** 治理术概念被引入英语学术界，引发"治理术研究"（governmentality studies）浪潮（Burchell, Gordon & Miller, 1991）
+> - **1990s–2000s** 治理术分析被广泛应用于教育研究，包括[[Lifelong Learning|终身学习]]治理（Olssen, 2006）、高等教育[[New Public Management|新公共管理]]（Dean, 2010）、[[International Education|国际教育]]政策比较研究
+> - **2008** 教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象（[[Argument_Ball_2008_SR|Ball, 2008, pp.651, 654-665]]）
+> - **2022a** Thompson 等人将治理术应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理术在算法时代的运作形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）
+> - **2022b** Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.251-265]]）
 
 ## 认识论立场
 
