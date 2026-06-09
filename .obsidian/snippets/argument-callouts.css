@@ -399,21 +399,31 @@
   position: relative;
   overflow: hidden;
   background:
+    linear-gradient(var(--background-primary), var(--background-primary)) padding-box,
+    linear-gradient(90deg, rgba(95, 114, 133, 0.85), rgba(95, 114, 133, 0.2) 24%, rgba(95, 114, 133, 0.2) 76%, rgba(95, 114, 133, 0.85)) border-box,
     linear-gradient(180deg, rgba(72, 82, 96, 0.045), rgba(72, 82, 96, 0.015)),
     var(--background-primary);
-  border: 1px solid rgba(126, 137, 150, 0.16);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+  border: 1px solid transparent;
+  border-top-width: 10px;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.14);
 }
 
-.callout[data-callout="contrast-table"]::before {
-  content: "";
-  display: block;
-  height: 8px;
-  width: min(18rem, 46%);
-  margin: calc(var(--callout-padding) * -1) auto 0.7rem;
-  border-radius: 0 0 999px 999px;
-  background: rgba(95, 114, 133, 0.78);
-  box-shadow: 0 5px 14px rgba(95, 114, 133, 0.16);
+.callout[data-callout="contrast-table"] > .callout-title {
+  font-size: 1.05em;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="contrast-table"] > .callout-title .callout-title-inner::before {
+  content: "CONTRAST";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 6px;
+  background: rgba(95, 114, 133, 0.18);
+  color: rgb(126, 137, 150);
+  font-size: 0.7em;
+  font-weight: 800;
+  letter-spacing: 0.05em;
 }
 
 .callout[data-callout="contrast-table"] table {
