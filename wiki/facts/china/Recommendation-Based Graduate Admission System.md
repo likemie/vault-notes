@@ -23,8 +23,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Yajun Zheng]]"
+related_persons: []
 related_facts:
   - "[[China College Graduate Employment Reform]]"
 related_arguments:

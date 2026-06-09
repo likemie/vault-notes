@@ -23,7 +23,6 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
 related_facts: []

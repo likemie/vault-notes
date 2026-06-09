@@ -26,9 +26,9 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
-related_persons:
-  - "[[Yajun Zheng]]"
+related_persons: []
 related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
 confidence: medium

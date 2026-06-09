@@ -35,6 +35,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Snook_2009]]"
   - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Hansen_2015_Paideia]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"

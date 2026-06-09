@@ -33,8 +33,8 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 confidence: medium
 status: draft

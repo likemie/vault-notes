@@ -63,6 +63,7 @@ related_arguments:
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wiliam_2019]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
@@ -74,7 +75,6 @@ related_arguments:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Snook_2009]]"
-  - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_ONeill_2012_NZJES]]"
 confidence: medium
 status: draft

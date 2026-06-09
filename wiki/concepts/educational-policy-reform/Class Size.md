@@ -36,8 +36,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Snook_2009]]"
   - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Wiliam_2019]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
 confidence: medium

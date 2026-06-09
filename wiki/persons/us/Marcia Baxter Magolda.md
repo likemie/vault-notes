@@ -21,8 +21,8 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -67,5 +67,5 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 Bourdieu 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。[[Yajun Zheng|郑雅君]]将自我主导性（作为个体能力）与 Bourdieu 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
 >

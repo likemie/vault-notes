@@ -96,6 +96,8 @@ related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Rømer_2018]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Hansen_2015_Paideia]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Hattie_2017_SLM]]"

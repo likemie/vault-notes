@@ -38,7 +38,8 @@ related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30

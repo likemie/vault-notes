@@ -23,8 +23,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
-related_persons:
-  - "[[Yajun Zheng]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: low

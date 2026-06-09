@@ -32,6 +32,7 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_Snook_2009]]"
+  - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Knudsen_2017_NordSTEP]]"

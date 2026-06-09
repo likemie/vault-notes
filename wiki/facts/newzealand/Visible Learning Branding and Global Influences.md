@@ -76,6 +76,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"

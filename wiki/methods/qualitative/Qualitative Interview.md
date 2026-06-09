@@ -36,10 +36,10 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Max Weber]]"
-  - "[[Yajun Zheng]]"
 related_facts:
   - "[[Peidu]]"
 related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"

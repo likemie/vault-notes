@@ -21,8 +21,7 @@ related_concepts:
   - "[[Economy of Experience]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Yajun Zheng]]"
+related_persons: []
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:

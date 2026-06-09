@@ -22,6 +22,7 @@ related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
 related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft

@@ -39,8 +39,8 @@ related_methods:
   - "[[Qualitative Interview]]"
 related_persons: []
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Wong_2022_HERD]]"

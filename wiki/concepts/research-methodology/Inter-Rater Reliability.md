@@ -27,7 +27,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01

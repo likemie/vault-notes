@@ -24,6 +24,7 @@ related_persons: []
 related_facts:
   - "[[Clinical Trials Transformation Initiative]]"
 related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Bang_2025_ClinicalTrials]]"
 confidence: medium
 status: draft

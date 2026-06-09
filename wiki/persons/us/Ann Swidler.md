@@ -19,8 +19,7 @@ related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods: []
-related_persons:
-  - "[[Yajun Zheng]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"

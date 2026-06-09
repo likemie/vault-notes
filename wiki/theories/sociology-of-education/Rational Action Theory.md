@@ -18,7 +18,6 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:

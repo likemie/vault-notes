@@ -75,9 +75,9 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Interview Protocol]]"
 related_persons:
-  - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
+  - "[[Yajun Zheng]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"
   - "[[Didier Eribon]]"

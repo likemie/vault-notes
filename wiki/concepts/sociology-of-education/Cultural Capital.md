@@ -30,7 +30,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[Yajun Zheng]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:

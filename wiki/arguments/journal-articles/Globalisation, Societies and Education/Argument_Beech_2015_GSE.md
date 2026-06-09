@@ -40,7 +40,6 @@ related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Jason Beech]]"
-  - "[[Alejandro Artopoulos]]"
   - "[[Bruno Latour]]"
 related_facts:
   - "[[OECD]]"
