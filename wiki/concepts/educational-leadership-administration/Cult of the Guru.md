@@ -11,11 +11,13 @@ tags:
   - paradigm/critical
   - region/australia
 related_concepts:
+  - "[[Cult of Efficiency]]"
   - "[[Analytic Framework]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
+  - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
   - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"

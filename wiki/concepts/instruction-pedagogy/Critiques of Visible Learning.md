@@ -45,6 +45,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
+  - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
   - "[[Scientism]]"
   - "[[Conflict of Interest in Research]]"

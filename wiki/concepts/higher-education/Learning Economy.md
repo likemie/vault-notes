@@ -8,8 +8,14 @@ tags:
   - theme/innovation-studies
   - theme/learning-economy
   - theme/knowledge-economy
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Analytic Framework]]"
+  - "[[Linear Model of Innovation]]"
+related_theories:
+  - "[[Systems of Innovation]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

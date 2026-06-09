@@ -19,12 +19,35 @@ tags:
   - cult-of-the-guru
   - stance/critique
   - region/australia
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Cult of Efficiency]]"
+  - "[[Neo-Taylorism]]"
+  - "[[Cult of the Guru]]"
+  - "[[Instructional Leadership]]"
+  - "[[Transformative Leadership]]"
+  - "[[Scientism]]"
+  - "[[Return on Investment]]"
+  - "[[Variable]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Causality]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Herbert A. Simon]]"
+  - "[[Scott Eacott]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
+related_arguments:
+  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
 sources:
   - "[[Eacott_2017_SLM]]"
 part_of: ""

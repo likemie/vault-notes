@@ -9,11 +9,15 @@ tags:
   - theme/innovation-studies
   - theme/science-policy
   - theme/research-policy
-related_concepts: []
+related_concepts:
+  - "[[Causality]]"
+  - "[[Chain-linked Model]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Science, The Endless Frontier 1945]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
 confidence: medium

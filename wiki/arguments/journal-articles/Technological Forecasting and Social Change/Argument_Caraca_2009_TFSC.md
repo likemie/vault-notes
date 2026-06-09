@@ -19,17 +19,19 @@ tags:
   - theme/university-industry-relations
   - region/global
 related_concepts:
+  - "[[Chain-linked Model]]"
+  - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Absorptive Capacity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge Exchange]]"
-  - "[[Innovation Models Evolution]]"
   - "[[Variable]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Science, The Endless Frontier 1945]]"
 related_arguments: []
 sources:
   - "[[Caraca_2009_TFSC]]"

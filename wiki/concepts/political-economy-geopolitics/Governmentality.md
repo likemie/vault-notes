@@ -19,8 +19,8 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Assemblage]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
   - "[[Self-Entrepreneur]]"

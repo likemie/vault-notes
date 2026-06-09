@@ -9,7 +9,11 @@ type: concept
 tags:
   - theme/innovation-studies
   - theme/science-policy
-related_concepts: []
+related_concepts:
+  - "[[Linear Model of Innovation]]"
+  - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Analytic Framework]]"
+  - "[[Learning Economy]]"
 related_theories: []
 related_methods: []
 related_persons: []
