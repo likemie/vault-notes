@@ -1231,3 +1231,49 @@
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(155, 103, 44) 12%);
   border-color: rgba(155, 103, 44, 0.32);
 }
+
+/* ─── quad-grid（四格网格卡片）─────────────────────────── */
+.callout[data-callout="quad-grid"] {
+  --callout-color: 56, 135, 115;
+  --callout-icon: lucide-grid-2x2;
+  background:
+    linear-gradient(135deg, rgba(56, 135, 115, 0.07), rgba(56, 135, 115, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(56, 135, 115, 0.22);
+  border-left: 5px solid rgb(56, 135, 115);
+}
+
+.callout[data-callout="quad-grid"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem;
+  padding: 0.3rem 0 0.1rem;
+  list-style: none;
+  margin: 0;
+}
+
+.callout[data-callout="quad-grid"] > .callout-content > ul > li {
+  background: rgba(56, 135, 115, 0.08);
+  border: 1px solid rgba(56, 135, 115, 0.18);
+  border-radius: 8px;
+  padding: 0.65rem 0.9rem 0.55rem;
+  margin: 0;
+  line-height: 1.55;
+}
+
+/* 每格第一段（含标题行）粗体部分 */
+.callout[data-callout="quad-grid"] > .callout-content > ul > li p:first-child strong {
+  display: block;
+  color: rgb(56, 135, 115);
+  font-size: 0.87em;
+  font-weight: 750;
+  margin-bottom: 0.2rem;
+  letter-spacing: 0.01em;
+}
+
+/* 正文段 */
+.callout[data-callout="quad-grid"] > .callout-content > ul > li p:last-child {
+  font-size: 0.88em;
+  opacity: 0.82;
+  margin: 0;
+}
