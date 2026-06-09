@@ -616,3 +616,262 @@
   padding-left: 0.9rem;
   border-left: 2px solid rgba(96, 113, 128, 0.28);
 }
+
+/* Semantic polish layer.
+   Color roles: blue = analytical frame, green = boundary/relation,
+   coral = tension, violet = second voice, amber = conclusion. */
+
+.callout[data-callout="stat-cards"],
+.callout[data-callout="framework-table"],
+.callout[data-callout="method-panel"],
+.callout[data-callout="sample-panel"],
+.callout[data-callout="logic-map"],
+.callout[data-callout="line-a"],
+.callout[data-callout="line-b"],
+.callout[data-callout="evidence-grid"],
+.callout[data-callout="evidence-grid-a"],
+.callout[data-callout="evidence-grid-b"],
+.callout[data-callout="boundary"],
+.callout[data-callout="tension"],
+.callout[data-callout="contrast-table"],
+.callout[data-callout="finding-cards"],
+.callout[data-callout="citation-card"] {
+  position: relative;
+  border-radius: 12px;
+  box-shadow:
+    0 10px 24px rgba(15, 23, 42, 0.07),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.callout[data-callout="stat-cards"]::before,
+.callout[data-callout="framework-table"]::before,
+.callout[data-callout="method-panel"]::before,
+.callout[data-callout="sample-panel"]::before,
+.callout[data-callout="logic-map"]::before,
+.callout[data-callout="line-a"]::before,
+.callout[data-callout="line-b"]::before,
+.callout[data-callout="evidence-grid"]::before,
+.callout[data-callout="evidence-grid-a"]::before,
+.callout[data-callout="evidence-grid-b"]::before,
+.callout[data-callout="boundary"]::before,
+.callout[data-callout="tension"]::before,
+.callout[data-callout="finding-cards"]::before,
+.callout[data-callout="citation-card"]::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: linear-gradient(90deg, rgba(var(--callout-color), 0.95), rgba(var(--callout-color), 0.18));
+  pointer-events: none;
+}
+
+.callout[data-callout="stat-cards"] > .callout-title,
+.callout[data-callout="framework-table"] > .callout-title,
+.callout[data-callout="method-panel"] > .callout-title,
+.callout[data-callout="sample-panel"] > .callout-title,
+.callout[data-callout="logic-map"] > .callout-title,
+.callout[data-callout="line-a"] > .callout-title,
+.callout[data-callout="line-b"] > .callout-title,
+.callout[data-callout="evidence-grid"] > .callout-title,
+.callout[data-callout="evidence-grid-a"] > .callout-title,
+.callout[data-callout="evidence-grid-b"] > .callout-title,
+.callout[data-callout="boundary"] > .callout-title,
+.callout[data-callout="tension"] > .callout-title,
+.callout[data-callout="contrast-table"] > .callout-title,
+.callout[data-callout="finding-cards"] > .callout-title,
+.callout[data-callout="citation-card"] > .callout-title {
+  padding-top: 0.18rem;
+}
+
+.callout[data-callout="stat-cards"] {
+  --callout-color: 47, 111, 184;
+  --callout-icon: lucide-layout-dashboard;
+  background:
+    radial-gradient(circle at 92% 0%, rgba(47, 111, 184, 0.18), transparent 34%),
+    linear-gradient(135deg, rgba(47, 111, 184, 0.1), rgba(47, 111, 184, 0.025)),
+    var(--background-primary);
+  border: 1px solid rgba(47, 111, 184, 0.22);
+  border-left: 0;
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul {
+  grid-template-columns: repeat(auto-fit, minmax(165px, 1fr));
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul > li {
+  border-color: rgba(47, 111, 184, 0.2);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 86%, rgb(47, 111, 184) 14%);
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child {
+  color: rgb(47, 111, 184);
+  font-size: 2.18em;
+}
+
+.callout[data-callout="framework-table"] {
+  --callout-color: 64, 132, 196;
+  background:
+    radial-gradient(ellipse at 14% 0%, rgba(64, 132, 196, 0.16), transparent 44%),
+    linear-gradient(180deg, rgba(64, 132, 196, 0.08), rgba(64, 132, 196, 0.018)),
+    var(--background-primary);
+  border-color: rgba(64, 132, 196, 0.22);
+  border-left-color: rgb(64, 132, 196);
+}
+
+.callout[data-callout="framework-table"] td {
+  border-color: rgba(64, 132, 196, 0.14);
+  background:
+    linear-gradient(90deg, rgba(64, 132, 196, 0.09), rgba(64, 132, 196, 0.035)),
+    var(--background-primary);
+}
+
+.callout[data-callout="framework-table"] td:first-child,
+.callout[data-callout="framework-table"] td:last-child strong {
+  color: rgb(64, 132, 196);
+}
+
+.callout[data-callout="boundary"] {
+  --callout-color: 64, 145, 105;
+  background:
+    radial-gradient(circle at 0 0, rgba(64, 145, 105, 0.18), transparent 34%),
+    repeating-linear-gradient(135deg, rgba(64, 145, 105, 0.055) 0, rgba(64, 145, 105, 0.055) 7px, transparent 7px, transparent 15px),
+    var(--background-primary);
+  border-color: rgba(64, 145, 105, 0.22);
+  border-left: 5px solid rgb(64, 145, 105);
+  outline: 0;
+}
+
+.callout[data-callout="tension"] {
+  --callout-color: 204, 97, 63;
+  background:
+    linear-gradient(90deg, rgba(204, 97, 63, 0.15), transparent 50%),
+    linear-gradient(270deg, rgba(204, 97, 63, 0.08), transparent 48%),
+    var(--background-primary);
+  border-color: rgba(204, 97, 63, 0.24);
+  border-left-color: rgb(204, 97, 63);
+  border-right-color: rgba(204, 97, 63, 0.38);
+}
+
+.callout[data-callout="line-a"] {
+  --callout-color: 62, 116, 188;
+  background:
+    radial-gradient(circle at 16px 16px, rgba(62, 116, 188, 0.16) 1.2px, transparent 1.9px),
+    linear-gradient(135deg, rgba(62, 116, 188, 0.1), rgba(62, 116, 188, 0.026)),
+    var(--background-primary);
+  background-size: 20px 20px, auto, auto;
+}
+
+.callout[data-callout="line-b"] {
+  --callout-color: 150, 83, 155;
+  background:
+    linear-gradient(90deg, rgba(150, 83, 155, 0.12) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(150, 83, 155, 0.075) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(150, 83, 155, 0.1), rgba(150, 83, 155, 0.024)),
+    var(--background-primary);
+  background-size: 30px 100%, 100% 20px, auto, auto;
+}
+
+.callout[data-callout="line-b"] .callout[data-callout="tension"] {
+  --callout-color: 150, 83, 155;
+  border-left-color: rgb(150, 83, 155);
+  border-right-color: rgba(150, 83, 155, 0.34);
+}
+
+.callout[data-callout="evidence-grid"],
+.callout[data-callout="evidence-grid-a"] {
+  --callout-color: 47, 130, 154;
+  background:
+    radial-gradient(circle at 92% 0%, rgba(47, 130, 154, 0.14), transparent 34%),
+    linear-gradient(180deg, rgba(47, 130, 154, 0.09), rgba(47, 130, 154, 0.024)),
+    var(--background-primary);
+}
+
+.callout[data-callout="evidence-grid-b"] {
+  --callout-color: 123, 104, 184;
+  background:
+    radial-gradient(circle at 92% 0%, rgba(123, 104, 184, 0.15), transparent 34%),
+    linear-gradient(180deg, rgba(123, 104, 184, 0.09), rgba(123, 104, 184, 0.024)),
+    var(--background-primary);
+}
+
+.callout[data-callout="evidence-grid"] .callout-content > ul > li,
+.callout[data-callout="evidence-grid-a"] .callout-content > ul > li,
+.callout[data-callout="evidence-grid-b"] .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 86%, rgb(var(--callout-color)) 14%);
+  border-color: rgba(var(--callout-color), 0.2);
+}
+
+.callout[data-callout="finding-cards"] {
+  --callout-color: 211, 158, 44;
+  background:
+    radial-gradient(circle at 92% -4%, rgba(211, 158, 44, 0.2), transparent 36%),
+    linear-gradient(135deg, rgba(211, 158, 44, 0.15), rgba(211, 158, 44, 0.035)),
+    var(--background-primary);
+  border-color: rgba(211, 158, 44, 0.26);
+  border-left: 0;
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li,
+.callout[data-callout="finding-cards"] .callout-content > ul > li {
+  border-color: rgba(211, 158, 44, 0.22);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.04), transparent),
+    color-mix(in srgb, var(--background-primary) 84%, rgb(211, 158, 44) 16%);
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(3):last-child,
+.callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(3):last-child {
+  background:
+    linear-gradient(135deg, rgba(211, 158, 44, 0.24), rgba(211, 158, 44, 0.075)),
+    var(--background-primary);
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li::before,
+.callout[data-callout="finding-cards"] .callout-content > ul > li::before {
+  background: rgba(211, 158, 44, 0.23);
+  color: rgb(164, 111, 18);
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li strong:first-child,
+.callout[data-callout="finding-cards"] .callout-content > ul > li strong:first-child {
+  color: rgb(164, 111, 18);
+}
+
+.callout[data-callout="contrast-table"] {
+  --callout-color: 83, 96, 112;
+  background:
+    linear-gradient(var(--background-primary), var(--background-primary)) padding-box,
+    linear-gradient(90deg, rgba(83, 96, 112, 0.9), rgba(83, 96, 112, 0.16) 50%, rgba(83, 96, 112, 0.9)) border-box,
+    var(--background-primary);
+  border-top-width: 8px;
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(2),
+.callout[data-callout="contrast-table"] td:nth-child(2) {
+  background: rgba(195, 137, 54, 0.11);
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(3),
+.callout[data-callout="contrast-table"] td:nth-child(3) {
+  background: rgba(148, 89, 151, 0.11);
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(2) {
+  color: rgb(181, 123, 35);
+}
+
+.callout[data-callout="contrast-table"] th:nth-child(3) {
+  color: rgb(151, 91, 154);
+}
+
+.callout[data-callout="citation-card"] {
+  --callout-color: 99, 116, 132;
+  background:
+    linear-gradient(90deg, rgba(99, 116, 132, 0.11), rgba(99, 116, 132, 0.026)),
+    var(--background-primary);
+  border-left: 0;
+}
