@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "50aa37437fbb128f",
+        "id": "a3669499382d6b07",
         "type": "tabs",
         "children": [
           {
-            "id": "0b96c36524025567",
+            "id": "c8a3861391f0e9bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md",
-                "mode": "preview",
+                "file": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Slavin_2002_ER"
+              "title": "Argument_Wecker_2016_ZfE"
             }
           }
         ]
@@ -189,9 +189,12 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "0b96c36524025567",
+  "active": "c8a3861391f0e9bb",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Scholarship of Teaching and Learning in Psychology/Argument_Hattie_2015_SOTLP.md",
+    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
     "wiki/arguments/journal-articles/Educational Researcher/Argument_Kraft_2023_ER.md",
+    "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md",
     "wiki/concepts/research-methodology/Variable.md",
     "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
     "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Eacott_2015_EPT.md",
@@ -214,9 +217,6 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Brock_2025_DataAccessGenerationUse.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md",
-    "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md",
     "scripts/cleanup_self_citations.py",
     "wiki/facts/bolivia/Bolivian Education Reform 1994.md.tmp.59161.d47071e4c089",
     "wiki/facts/bolivia",

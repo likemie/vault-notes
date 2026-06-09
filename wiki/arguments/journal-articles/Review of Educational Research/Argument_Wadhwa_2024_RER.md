@@ -110,7 +110,7 @@ citation_aliases:
 > 该表用主要领域、目标人群、资助组织类型和评级对象四个维度展示 12 个清算中心的制度差异(p.7)。
 >
 > | 清算中心                                                                                     | 主要领域                         | 目标人群                                                             | 资助组织类型    | 评级对象        |
-> | —————————————————————————————- | —————————- | —————————————————————- | ——— | ———– |
+> |---|---|---|---|---|
 > | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] | 多领域：教育、社会与行为发展、健康、社会和经济福利    | 儿童与家庭                                                            | Public    | 项目          |
 > | [[Promising Practices Network]]                                                    | 多领域：社会与行为发展、健康、教育、社会和经济福利    | 儿童与家庭                                                            | Nonprofit | 项目          |
 > | [[Best Evidence Encyclopedia]]                                                     | 教育                           | 学生                                                               | Public    | 项目          |
@@ -150,7 +150,7 @@ citation_aliases:
 > 这里的"单项研究"对应原文 individual studies，指清算中心是否为每一项纳入研究单独给出质量评级；它不是 [[Single-Case Design]]。[[Single-Case Design|SCD]] 是一种具体研究设计类型，在 WWC 主题综述协议中可被纳入，但 Table 4 的"individual studies"是研究单位层级，不是 SCD 方法类别(pp.8–9, 13)。
 >
 > | 比较项             | [[What Works Clearinghouse]]                                                                                           | [[Blueprints for Healthy Youth Development]]                   | [[National Dropout Prevention Center]]                  | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] |
-> | ————— | —————————————————————————————————————————- | ————————————————————– | ————————————————————– | —————————————————————————————- |
+> |---|---|---|---|---|
 > | 评级对象            | 单项研究；按结果域评价教育干预                                                         | 单项研究；具名项目 | 项目，不单独评级研究                                                     | 项目，不单独评级研究                                                                               |
 > | 项目/干预总体评级       | Positive; potentially positive; mixed; potentially negative; negative; no discernible effects；证据量标注为 medium to large 或 small | Model plus; model; promising; non-certified（证据不足/不确定、无效或有害）    | Strong、moderate、limited、insufficient evidence of effectiveness | Well-supported; supported; promising; evidence fails to demonstrate effect; NR           |
 > | 单项研究评级          | Meets standards without reservations; meets standards with reservations; does not meet standards                             | Certified 或 not certified                                      | 未说明                                                            | 提供[[Abstract\|研究摘要]]，但不为单项研究评级                                                                         |
