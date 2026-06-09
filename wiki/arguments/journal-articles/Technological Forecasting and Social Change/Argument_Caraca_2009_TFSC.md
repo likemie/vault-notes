@@ -1,17 +1,17 @@
 ---
 title: Argument_Caraca_2009_TFSC
-summary: "回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向"
+summary: 回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向
 type: argument
 authors:
-  - "João Caraça"
-  - "Bengt-Åke Lundvall"
-  - "Sandro Mendonça"
-citation: 'Caraça, J., Lundvall, B.-Å., & Mendonça, S. (2009). The changing role of science in the innovation process: From Queen to Cinderella? *Technological Forecasting and Social Change*, *76*(6), 861–867. https://doi.org/10.1016/j.techfore.2008.08.003'
+  - João Caraça
+  - Bengt-Åke Lundvall
+  - Sandro Mendonça
+citation: "Caraça, J., Lundvall, B.-Å., & Mendonça, S. (2009). The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867. https://doi.org/10.1016/j.techfore.2008.08.003"
 year: 2009
-doi: "10.1016/j.techfore.2008.08.003"
+doi: 10.1016/j.techfore.2008.08.003
 citation_aliases:
-  - "João Caraça et al., 2009"
-  - "João Caraça et al. (2009)"
+  - João Caraça et al., 2009
+  - João Caraça et al. (2009)
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -39,7 +39,7 @@ created: 2026-06-09
 updated: 2026-06-09
 subtype: journal-article
 publication_type: journal-article
-journal: "Technological Forecasting and Social Change"
+journal: Technological Forecasting and Social Change
 book_title: ""
 issuing_organization: ""
 ---
@@ -189,11 +189,6 @@ Kline 和 Rosenberg（1986）的链式模型是对线性模型最重要的理论
 ### 第三步：多通道互动学习模型的三个核心创新
 
 模型目标是更新、补充和扩展链式模型，将创新重新定位在学习经济之中 (pp.864–866)。
-
-> [!abstract] 三个核心创新
-> 1. 内部过程从线性链条变为螺旋式学习循环，不指定起点。
-> 2. 单一科学知识来源替换为三类互补知识池。
-> 3. 引入界面作为解释性管道，连接企业与环境。
 
 > [!evidence-grid] 创新一：螺旋式学习循环
 > - 链条盘绕为螺旋，学习过程没有固定起点。创新可从技术突破、市场洞察、组织调整或用户反馈任何一处开始。

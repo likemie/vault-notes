@@ -513,6 +513,58 @@
   letter-spacing: -0.02em;
 }
 
+.callout[data-callout="finding-cards"] {
+  --callout-color: 52, 126, 109;
+  --callout-icon: lucide-award;
+  background:
+    linear-gradient(135deg, rgba(52, 126, 109, 0.12), rgba(52, 126, 109, 0.035)),
+    var(--background-primary);
+  border: 1px solid rgba(52, 126, 109, 0.22);
+  border-left: 6px solid rgb(52, 126, 109);
+  box-shadow: 0 10px 26px rgba(52, 126, 109, 0.08);
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol,
+.callout[data-callout="finding-cards"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  padding-inline-start: 0;
+  margin-block: 0.7rem 0.25rem;
+  list-style: none;
+  counter-reset: finding;
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li,
+.callout[data-callout="finding-cards"] .callout-content > ul > li {
+  counter-increment: finding;
+  margin: 0;
+  padding: 0.85rem 0.9rem;
+  border: 1px solid rgba(52, 126, 109, 0.18);
+  border-radius: 9px;
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(52, 126, 109) 12%);
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li::before,
+.callout[data-callout="finding-cards"] .callout-content > ul > li::before {
+  content: counter(finding);
+  display: inline-grid;
+  place-items: center;
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.45rem;
+  border-radius: 999px;
+  background: rgba(52, 126, 109, 0.18);
+  color: rgb(52, 126, 109);
+  font-size: 0.82em;
+  font-weight: 800;
+}
+
+.callout[data-callout="finding-cards"] .callout-content > ol > li strong:first-child,
+.callout[data-callout="finding-cards"] .callout-content > ul > li strong:first-child {
+  color: rgb(52, 126, 109);
+}
+
 .callout[data-callout="citation-card"] {
   --callout-color: 96, 113, 128;
   --callout-icon: lucide-quote;
