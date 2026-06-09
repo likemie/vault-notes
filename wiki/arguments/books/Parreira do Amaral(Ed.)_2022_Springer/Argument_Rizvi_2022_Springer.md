@@ -177,7 +177,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 **对增长原因的多元解释**：
 - 廉价且纪律严明的劳动力(Jacques, 2009)
 - 以有利于全球资本的修改条件欢迎外国直接投资；经济特区促进全球资本偏好的生产方式(Dicken, 2007)
-- 市场友好政策——"亚洲发展型国家，尤其是所谓的'亚洲小龙'，预判了市场"(Bhagwati, 2007, cited in Rizvi, 2022, p.93)
+- 市场友好政策——"亚洲发展型国家，尤其是所谓的'亚洲小龙'，预判了市场"(Bhagwati, 2007, p.93)
 
 **关键质疑**(Pieterse, 2018)：增长的数量不等于质量。“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
 > (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
@@ -210,14 +210,14 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 **西方世界的双重反应**：
 
 - **赞赏面**：对亚洲在相对短时间内取得的成就表示钦佩（例如，澳大利亚 2012 年 Henry Report 将亚洲世纪定位为"澳大利亚的机遇"）
-- **焦虑面**：将"新东方"的崛起视为"强大的破坏性力量"，可能产生"意想不到的经济、政治和社会结果"(Simpfendorfer, 2014, p.9, cited in Rizvi, 2022, p.95)
+- **焦虑面**：将"新东方"的崛起视为"强大的破坏性力量"，可能产生"意想不到的经济、政治和社会结果"(Simpfendorfer, 2014, p.9, p.95)
 
 **亚洲中产阶级：需求侧的驱动力量**：
 
 Rizvi 给出了一个关键数据和一个定性分析洞察：
 
 - 数据：2016 年底全球中产阶级约 32 亿人，新增中产阶级的**绝大多数**在亚洲(Kharas, 2017)(p.96)
-- 定性分析：数据本身不能充分揭示"在亚洲成为中产阶级意味着什么"——在生活方式、人生机会和人生规划的**渴望**层面。海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"，不仅被假定能改善人生机会，更被当作"社会地位和声望的标志"(Ong, 2006, cited in Rizvi, 2022, p.96)
+- 定性分析：数据本身不能充分揭示"在亚洲成为中产阶级意味着什么"——在生活方式、人生机会和人生规划的**渴望**层面。海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"，不仅被假定能改善人生机会，更被当作"社会地位和声望的标志"(Ong, 2006, p.96)
 - 例证：亚洲各地精英[[International Schools|国际学校]]数量的快速增长——这些学校声称能为学生提供去西方国家读大学的好准备
 - 例证：亚洲各国首都出现了庞大的产业，专门为本地精英学校学生中介到西方大学的流动——这些留学中介往往是潜在学生与海外大学之间的"第一接触点"
 
@@ -250,7 +250,7 @@ Rizvi 区分了驱动国际化的两种理性——"发展主义"和"市场理�
 
 1. **公共价值被"挤出"**(Sandel, 2012)：对公共价值的承诺被市场逻辑排挤。"随着国际学生学费成为主要收入来源，政府不再感到有必要为高等教育机构提供所需的公共资金"(p.97)。
 
-2. **内生私有化的永久化**：Rizvi 举了澳大利亚的例子——"其高等教育机构在招收大量全额付费国际学生方面的成功，使澳大利亚政府有底气推动其他市场导向政策"。结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"(Ball, 2012, cited in Rizvi, 2022, pp.97–98)。
+2. **内生私有化的永久化**：Rizvi 举了澳大利亚的例子——"其高等教育机构在招收大量全额付费国际学生方面的成功，使澳大利亚政府有底气推动其他市场导向政策"。结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"(Ball, 2012, pp.97–98)。
 
 3. **NPM 的企业化改造**：NPM 的理念、技术和实践被从企业部门广泛引入，以使公立高等教育机构更像企业运作。
 
@@ -295,7 +295,7 @@ Rizvi 将这四重理性逐一拆解：
 > **第三重：国家政府层面（经济理性）**
 > - 与贸易目标挂钩
 > - 现代公共外交工具
-> - "当研究人员跨越国家边界合作时，他们不仅为全球[[Knowledge Production|知识生产]]做贡献，也在维持一种合作文化，这种文化有助于更和谐的国际关系"(Ang et al., 2015, p.43, cited in Rizvi, 2022, p.98)
+> - "当研究人员跨越国家边界合作时，他们不仅为全球[[Knowledge Production|知识生产]]做贡献，也在维持一种合作文化，这种文化有助于更和谐的国际关系"(Ang et al., 2015, p.43, p.98)
 >
 > **第四重：跨文化与外交层面**
 > - 跨文化理解
@@ -343,7 +343,7 @@ Rizvi 指出：疫情确实为创新创造了空间，但这个空间"没有被�
 
 **暴露的矛盾四：跨国合作中的权力不对称**
 
-虽然大学推动与亚洲的跨国研究合作，但"这种合作要么剥削非西方传统，要么再生产不对称的权力模式"(p.101)。同时，新兴经济体之间的学术合作正在增长——挑战了英美对[[Internationalization of Higher Education|高等教育国际化]]的霸权理解。但在这些新兴系统内部，新的权力不对称也在出现——"中国，例如，将高等教育用作全球影响力的工具"(King, 2013, cited in Rizvi, 2022, p.102)。
+虽然大学推动与亚洲的跨国研究合作，但"这种合作要么剥削非西方传统，要么再生产不对称的权力模式"(p.101)。同时，新兴经济体之间的学术合作正在增长——挑战了英美对[[Internationalization of Higher Education|高等教育国际化]]的霸权理解。但在这些新兴系统内部，新的权力不对称也在出现——"中国，例如，将高等教育用作全球影响力的工具"(King, 2013, p.102)。
 
 ### 第七步：结论——后疫情时代需要什么样的国际化？（§6.6, pp.101–102）
 
@@ -407,19 +407,19 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 > [!quote]
 > “亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
 > (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
-> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))(Pieterse, 2018, p.62, cited in Rizvi, 2022, p.93)
+> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))(Pieterse, 2018, p.62, p.93)
 
 > “语言和文本可以创造、转移或维持意识形态。在《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
 > (“语言和文本可以创造、转移或维持意识形态。在《服务贸易总协定》（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
-> ("language and text can create, shift, or maintain ideologies. In the case of [[GATS and Trade in Education Services|GATS]], the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"))(Collins, 2007, p.283, cited in Rizvi, 2022, p.97)
+> ("language and text can create, shift, or maintain ideologies. In the case of [[GATS and Trade in Education Services|GATS]], the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"))(Collins, 2007, p.283, p.97)
 
 > “大流行是一扇传送门”
 > (“大流行是一扇传送门”
-> ("the pandemic is a portal"))(Roy, 2020, cited in Rizvi, 2022, p.102)
+> ("the pandemic is a portal"))(Roy, 2020, p.102)
 
 > “亚洲世纪是澳大利亚的机遇。随着全球重心转移到我们这个地区，距离的暴政正在被相邻的前景所取代。”
 > (“亚洲世纪是澳大利亚的机遇。随着全球重心转移到我们这个地区，距离的暴政正在被相邻的前景所取代。”
-> ("The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity"))(Henry Report, 2012, p.1, cited in Rizvi, 2022, pp.99–100)
+> ("The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity"))(Henry Report, 2012, p.1, pp.99–100)
 
 ## 局限性与批评
 

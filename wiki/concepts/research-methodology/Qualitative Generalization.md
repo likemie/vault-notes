@@ -33,9 +33,9 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 质性推广（Qualitative Generalization）是[[Qualitative Research|质性研究]]中以有限方式使用的术语。质性探究的意图不是将研究发现推广到所研究的个体、场所或地点之外的其他人或情境（Gibbs, 2007）。质性研究的价值在于在特定场所情境中发展的详细描述和主题。特定性（particularity）而非推广性（[[External Validity|generalizability]]）是优质质性研究的标志（Greene & Caracelli, 1997）（Creswell & Creswell, 2022, Ch9, p.215）。
+> 质性推广（Qualitative Generalization）是[[Qualitative Research|质性研究]]中以有限方式使用的术语。质性探究的意图不是将研究发现推广到所研究的个体、场所或地点之外的其他人或情境（Gibbs, 2007）。质性研究的价值在于在特定场所情境中发展的详细描述和主题。特定性（particularity）而非推广性（[[External Validity|generalizability]]）是优质质性研究的标志（Greene & Caracelli, 1997）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.215）。
 
-然而，Yin（2009）认为质性案例研究的结果可以推广到某些更广泛的理论。当质性研究者研究额外的案例并将发现应用于新案例时，推广就发生了——类似于[[Experimental Research|实验研究]]中的复制逻辑。但要重复一个案例研究的发现到新的案例情境，需要对质性程序进行详细记录，如案例研究协议和全面的案例研究数据库（Creswell & Creswell, 2022, Ch9）。
+然而，Yin（2009）认为质性案例研究的结果可以推广到某些更广泛的理论。当质性研究者研究额外的案例并将发现应用于新案例时，推广就发生了——类似于[[Experimental Research|实验研究]]中的复制逻辑。但要重复一个案例研究的发现到新的案例情境，需要对质性程序进行详细记录，如案例研究协议和全面的案例研究数据库（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ## 概念辨析
 

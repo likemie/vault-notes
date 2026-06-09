@@ -286,7 +286,7 @@ updated: '2026-05-18'
 >
 > #### 多国扩散
 >
-> 截至 2017 年已在至少 23 个国家被采用（Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.32）。
+> 截至 2017 年已在至少 23 个国家被采用（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]，引自 McKnight & Whitburn, 2020, p.32）。
 
 ## 影响与后果
 

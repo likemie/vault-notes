@@ -76,7 +76,7 @@ updated: 2026-05-31
 
 ## 零假设与备择假设
 
-在正式假设检验语言中，假设有两种基本形式（Creswell & Creswell, 2022, Ch7）：
+在正式假设检验语言中，假设有两种基本形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
 > [!info]
 > - **[[Null Hypothesis|零假设]]（null hypothesis）**：预测在总体中[[Variable|变量]]间不存在关系或组间不存在显著差异。目的是通过陈述一个否定性预期来反驳理论。典型表述为"There is no difference (or relationship)" between the groups。
@@ -89,10 +89,10 @@ updated: 2026-05-31
 
 ## 量化研究问题与假设的区分
 
-在[[Quantitative Research|量化研究]]中，[[Research Question|研究问题]]就[[Variable|变量]]间关系提问，假设则对变量间关系做出方向性预测并通过统计检验。两者的区别详见 [[Research Question]] 条目。除假设外，量化研究问题还可以是描述性的或关系型的（Creswell & Creswell, 2022, Ch7）。
+在[[Quantitative Research|量化研究]]中，[[Research Question|研究问题]]就[[Variable|变量]]间关系提问，假设则对变量间关系做出方向性预测并通过统计检验。两者的区别详见 [[Research Question]] 条目。除假设外，量化研究问题还可以是描述性的或关系型的（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 > [!tip] [[Research Writing Script|写作脚本]]
-> 关系型量化研究问题与方向性假设的[[Research Writing Script|写作脚本]]（Creswell & Creswell, 2022, Ch7）：
+> 关系型量化研究问题与方向性假设的[[Research Writing Script|写作脚本]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > "____（理论名称____）posits that ____（解释变量间的关系____）。It is thus predicted that there will be a relationship between ____（预测变量____）and ____（结果变量____），such that ____（解释预测变量与结果变量之间效应的方向____）。"
 
@@ -101,7 +101,7 @@ updated: 2026-05-31
 ## 写作范例
 
 > [!example]
-> Moore (2000) 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条方向性假设（Creswell & Creswell, 2022, Ch7）：
+> Moore (2000) 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条方向性假设（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > **H1**: Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.
 >

@@ -32,13 +32,13 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Methods Research|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（Creswell & Creswell, 2022, 第4章）。
+> 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Methods Research|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 ## 核心要素
 
 > [!abstract]
 
-研究伦理按研究阶段可分为五个层面的议题和策略（Creswell & Creswell, 2022, 第4章, Table 4.1）：
+研究伦理按研究阶段可分为五个层面的议题和策略（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章, Table 4.1）：
 
 > [!abstract] 表4.1：质性、量化与[[Mixed Methods Research|混合方法研究]]中的伦理问题（Ethical Issues in Qualitative, Quantitative, and Mixed Methods Research）
 >

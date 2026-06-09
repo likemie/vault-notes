@@ -49,7 +49,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 班级规模指一个班级组中的学生人数。它看似是简单的组织[[Variable|变量]]，实际却同时牵涉教学互动、教师劳动、资源配置、政策成本和证据外推。小班是否“有效”，不能只问人数减少了多少，还要问教师是否改变教学方式、是否有足够合格教师、学生群体是否相似、成果指标是什么([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; [[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155, 157-158]]; Wiliam, 2019, pp.6-7)。
+> 班级规模指一个班级组中的学生人数。它看似是简单的组织[[Variable|变量]]，实际却同时牵涉教学互动、教师劳动、资源配置、政策成本和证据外推。小班是否“有效”，不能只问人数减少了多少，还要问教师是否改变教学方式、是否有足够合格教师、学生群体是否相似、成果指标是什么([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; [[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155, 157-158]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6-7]])。
 
 “小班”和“大班”的操作定义差异很大：小班可能指 5 人、15 人或 20 人，大班可能指 25 人、40 人或 80 人。这使跨研究比较很困难。例：在 STAR 项目中，22–25 人被定义为“大班”，但在许多学校系统中这已经接近理想班额([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.100]])。
 
@@ -89,7 +89,7 @@ updated: '2026-05-23'
 ## 证据格局
 
 > [!success]
-> 班级规模证据并不是“一边倒无效”或“一边倒有效”。更准确的说法是：平均效应常被报告为较小，但高质量实验、低年级和弱势学生、以及伴随教学改变的政策组合，可能显示更强效果；大规模推广若缺少合格教师和教室，可能反而削弱效果([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; Wiliam, 2019, pp.6-7; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]])。
+> 班级规模证据并不是“一边倒无效”或“一边倒有效”。更准确的说法是：平均效应常被报告为较小，但高质量实验、低年级和弱势学生、以及伴随教学改变的政策组合，可能显示更强效果；大规模推广若缺少合格教师和教室，可能反而削弱效果([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6-7]]; [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]])。
 
 ### 成就效果
 
@@ -123,7 +123,7 @@ Hattie 指出，大学也常争论班级规模，尤其是讲座形式；但高�
 ### 美国
 
 - [[Tennessee STAR Project 1985-1989]] — 大型随机试验，小班 13–17 人，大班 22–26 人；小班学生到二年级末约领先 3 个月，低收入和少数族裔学生受益更大，但 Wiliam 指出其学校代表性、[[Random Assignment|随机分配]]和教师质量条件都影响外推([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.5-7]])。
-- [[California Class Size Reduction 1996]] — 试图把 STAR 证据全州推广，但合格教师和教室不足，导致新增教师质量下降且负担集中在弱势学校；这是 [[Programme Fidelity vs Adaptation]] 和 [[Randomised Controlled Trials|RCT]] 外推争论中的关键反例(Cowen et al., 2015, pp.17-18; Wiliam, 2019, p.7; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
+- [[California Class Size Reduction 1996]] — 试图把 STAR 证据全州推广，但合格教师和教室不足，导致新增教师质量下降且负担集中在弱势学校；这是 [[Programme Fidelity vs Adaptation]] 和 [[Randomised Controlled Trials|RCT]] 外推争论中的关键反例([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.17-18]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
 - 德州 15 校研究 — 仅缩小班额的 13 所学校五年后无显著变化；同时改变教学法、健康服务和家长参与的 2 所学校成绩改善，说明班额政策与教学和支持系统交互([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.101-102]])。
 
 ### 英国
@@ -147,7 +147,7 @@ Hattie 指出，大学也常争论班级规模，尤其是讲座形式；但高�
 
 ### Hattie 立场与批评方立场
 
-Hattie 认为班级规模平均效应约为 d = 0.20，虽为正但小于其常用参照值 d = 0.40，因此相对于高成本不一定值得。Snook 等批评者反驳说，d = 0.20 并非可忽略，而且高质量研究如 STAR 与 Smith & Glass 的结果明显更大，平均效应可能掩盖研究质量和情境差异([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]]; Hattie, 2010, p.90)。
+Hattie 认为班级规模平均效应约为 d = 0.20，虽为正但小于其常用参照值 d = 0.40，因此相对于高成本不一定值得。Snook 等批评者反驳说，d = 0.20 并非可忽略，而且高质量研究如 STAR 与 Smith & Glass 的结果明显更大，平均效应可能掩盖研究质量和情境差异([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]]; [[Argument_Hattie_2010_NZJES|Hattie, 2010, p.90]])。
 
 > [!note]- Hattie 的澄清
 > Hattie 并不是说缩小班级规模完全无效。他的澄清是：缩小班额的平均效应为正，约 d = 0.20，但相对于他所设定的 d = 0.40 参照线和高昂财政成本，这项政策未必是最优投资。Hattie 同时指出，如果平均效应约为 0.20，而 STAR 等研究显示大正效应，那么[[Meta-analysis|元分析]]中也必然存在低效或负效应研究，平均值的意义正在于调节极端发现([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.90]])。

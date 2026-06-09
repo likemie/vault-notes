@@ -69,7 +69,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法 1：论述分析**（discursive analysis）— 对 Hattie 的概念及其批评文献进行理论和方法的综述，综合正反双方论点(p.232)
 > - **方法 2：变差系数统计检验**（variation coefficient analysis）— 对 Hattie [[Meta-analysis|元分析]]中使用的 133 个（正值）[[Effect Size|效应量]]计算变差系数 Vσ，检验其数据集的同质性(p.238-239)。作者声称这是前人未做过的原创分析（"which has not been done before", p.229）
-> - **数据来源**：Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献(Snook et al., 2009; Terhart, 2011; Myburgh; McKnight & Whitburn, 2020 等)；俄罗斯教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
+> - **数据来源**：Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]]; Myburgh; McKnight & Whitburn, 2020 等)；俄罗斯教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
 > - **局限性（作者自认）**：批评文献的分析仅限于已发表的英文和俄文资料；变差系数分析仅使用效应量的平均值而非原始分布数据
 
 ## 核心论证
@@ -93,7 +93,7 @@ citation_aliases:
 >
 > 论文汇编了 10+ 位学者的批评（Table 2, p.236），分为方法论和文化两个维度：
 >
-> **方法论批评**：元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较(Snook et al., 2009; Jones)；效应量非[[Causality|因果性]]([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；d=0.40 阈值任意([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；定性研究被忽略([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]])；未[[Societies of Control|控制社会]]环境因素([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]])；缺乏效度评估([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广([[Argument_Snook_2009_NZJES|Snook et al., 2009]])
+> **方法论批评**：元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Jones)；效应量非[[Causality|因果性]]([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；d=0.40 阈值任意([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；定性研究被忽略([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]])；未[[Societies of Control|控制社会]]环境因素([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]])；缺乏效度评估([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广([[Argument_Snook_2009_NZJES|Snook et al., 2009]])
 >
 > Myburgh et al.识别了元-元分析的六项"慢性问题"：垃圾进垃圾出、[[Publication Bias|发表偏倚]]、苹果与橘子比较、效应量误用、经验偏见（只使用经验可得的指标）、应用局限（忽视社会互动因素）(p.237)
 >
@@ -145,7 +145,7 @@ citation_aliases:
 > ("In education, however, there is little that 'works' and little that 'does not work'. The correct question is: 'Under what conditions will this work in school?'")(p.241)
 >
 > > “这本书被教育界视为灵丹妙药，但服用这剂药的结果是，学校将经历一次短期的安慰剂效应。”
-> ("The book is perceived as a panacea for the educational community, but as a result of taking this drug, the school will experience a short-term placebo effect.")(Myburgh, cited in Golovchin, 2019, p.238)
+> ("The book is perceived as a panacea for the educational community, but as a result of taking this drug, the school will experience a short-term placebo effect.")(Myburgh, p.238)
 
 ## 局限性与批评
 

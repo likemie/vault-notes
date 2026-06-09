@@ -491,7 +491,7 @@ citation_aliases:
 
 > [!quote]
 > “一组相互关联的[[Construct|构念]]（变量）、定义和命题，它们通过规定变量之间的关系来呈现对现象的系统性看法，其目的是解释自然现象”
-> ("a set of interrelated [[Construct|constructs]] (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena")(p.64; 引自 Creswell & Creswell, 2022, p.53)
+> ("a set of interrelated [[Construct|constructs]] (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena")(p.64, p.53)
 
 该定义包含两个关键要素：理论的目的（解释）和理论的程序（变量间关系）。Labovitz & Hagedorn (1971) 将理论依据（theoretical rationale）定义为"说明变量和关系陈述为何以及如何相互关联"(p.17)。用**彩虹比喻**来说明理论的作用：
 
@@ -919,7 +919,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “研究者通过放置‘路标’来引导读者阅读研究计划。第一个路标是目的陈述，它确立了研究的中心意图。接下来是研究问题或假设，它们将目的陈述缩小为对将要学到什么的预测或研究中需要回答的问题。”
 > ("Investigators place signposts to carry the reader through a plan for a study. The first signpost is the purpose statement, which establishes the central intent for the study. Next are the research questions or [[Hypothesis|hypotheses]] narrowing the purpose statement to predictions about what will be learned or questions to be answered in the study.")（第7章）
 
-三种路径对研究问题与假设的使用方式不同(Creswell & Creswell, 2022, Ch7)：
+三种路径对研究问题与假设的使用方式不同(Ch7)：
 
 | 路径 | 使用工具 | 核心特征 |
 |---|---|---|
@@ -929,7 +929,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 
 ---
 
-**第二部分：量化研究问题与假设。** 量化研究问题与假设是两种不同但互补的工具：研究问题就变量间关系提问，假设则对预期关系做出方向性预测，通过统计程序基于样本对总体做出推论(Creswell & Creswell, 2022, Ch7)。
+**第二部分：量化研究问题与假设。** 量化研究问题与假设是两种不同但互补的工具：研究问题就变量间关系提问，假设则对预期关系做出方向性预测，通过统计程序基于样本对总体做出推论(Ch7)。
 
 > [!quote]
 > “最严格形式的量化研究源于对某一理论的检验，以及对逻辑上遵循或挑战该理论的研究问题或假设的详细说明。”
@@ -960,7 +960,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “[[Alternative Hypothesis|备择假设]]对变量之间的显著关系做出预测。此外，重要的是使这种备择假设具有方向性，即它是在某个特定方向上的预测。”
 > ("An [[Alternative Hypothesis]] makes a prediction about a significant relationship between variables. Moreover, it is important to make this alternative hypothesis directional, such that it is a prediction in a certain direction.")（第7章）
 
-撰写量化研究问题和假设的五条指南：陈述变量、包含理论、区分描述性与关系型研究问题、创建[[Alternative Hypothesis|方向性备择假设]]、使用方向性量化词汇（affect, influence, predict, impact, determine, cause, relate）。 Moore (2000) 的以色列女性性别认同研究提供了研究问题与假设并存的范例(Creswell & Creswell, 2022, Ch7)。
+撰写量化研究问题和假设的五条指南：陈述变量、包含理论、区分描述性与关系型研究问题、创建[[Alternative Hypothesis|方向性备择假设]]、使用方向性量化词汇（affect, influence, predict, impact, determine, cause, relate）。 Moore (2000) 的以色列女性性别认同研究提供了研究问题与假设并存的范例(Ch7)。
 
 ---
 
@@ -970,7 +970,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “在质性研究中，其意图是探索围绕核心现象的普遍而复杂的一组因素，并呈现参与者所持有的广泛、多样的观点或意义。”
 > ("In qualitative research, the intent is to explore the general, complex set of factors surrounding the central phenomenon and present the broad, varied perspectives or meanings that participants hold.")（第7章）
 
-[[Central Question|核心研究问题]]（一至两个）以 what 或 how 开头，聚焦单一[[Central Phenomenon|核心现象]]，辅以五至七个子问题收窄焦点用于数据收集(Miles & Huberman, 1994 建议总共不超过 12 个)(Creswell & Creswell, 2022, Ch7)。
+[[Central Question|核心研究问题]]（一至两个）以 what 或 how 开头，聚焦单一[[Central Phenomenon|核心现象]]，辅以五至七个子问题收窄焦点用于数据收集(Miles & Huberman, 1994 建议总共不超过 12 个)(Ch7)。
 
 > [!quote]
 > “用what或how这两个词作为研究问题的开头，以传达一种开放且不断涌现的设计。why这个词通常暗示研究者试图解释某事为何发生，这向我们表明了与量化研究相关的可能的因果思维，并且这种思维限制了解释，而不是为参与者的观点敞开大门。”
@@ -1023,7 +1023,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “在一个合并量化和质性结果的单阶段混合方法项目（[[Convergent Design|聚敛式设计]]）中，量化问题或质性问题都可以首先提出。在一个分为两阶段的项目（[[Explanatory Sequential Design|解释性序列设计]]）中，第一阶段的量化问题或假设将最先出现，随后是第二阶段的质性问题。”
 > ("In a single-phase mixed methods project (a [[Convergent Design]]) in which the quantitative and qualitative results are merged, either the quantitative or the qualitative questions can be posed first. In a two-phase project (an [[Explanatory Sequential Design]]), the first-phase quantitative questions or hypotheses would come first, followed by the second-phase qualitative questions.")（第7章）
 
-Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三部分目标陈述的范例(Creswell & Creswell, 2022, Ch7)。DeCoito & Estaiteyeh (2022) 的 STEM 教师在线教学研究也是典型范例。
+Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三部分目标陈述的范例(Ch7)。DeCoito & Estaiteyeh (2022) 的 STEM 教师在线教学研究也是典型范例。
 
 > [!quote]
 > “我们鼓励混合方法研究者将量化、质性以及一个混合方法研究问题写入他们的研究中。通过添加一个混合方法研究问题，研究者传达了整合或组合量化与质性要素的重要性。”
@@ -1057,7 +1057,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 - 实验方法计划的每个组件
 - 全章总结
 
-无论是调查还是实验，量化方法共享一个共同目标：帮助研究者对变量间关系做出有效推论，并把样本结果推广到更广泛的研究总体(Creswell & Creswell, 2022, Ch8)。
+无论是调查还是实验，量化方法共享一个共同目标：帮助研究者对变量间关系做出有效推论，并把样本结果推广到更广泛的研究总体(Ch8)。
 
 
 ---
@@ -1090,7 +1090,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > Source: Creswell & Creswell, 2022, Ch8
 
 > [!success] Creswell 的取舍逻辑
-> 调查与实验之间没有优劣之分，选择取决于研究问题的性质。如研究"加班是否预测倦怠"，调查即可；如研究"一种新干预是否降低倦怠"，则需要实验。关键是在方法部分诚实说明为何放弃另一种设计（如"未采用实验设计，因为随机要求护士加班不同时数在操作上极其困难且可能不道德"）。这种诚实表明研究者对设计局限有清醒的认识(Creswell & Creswell, 2022, Ch8)。
+> 调查与实验之间没有优劣之分，选择取决于研究问题的性质。如研究"加班是否预测倦怠"，调查即可；如研究"一种新干预是否降低倦怠"，则需要实验。关键是在方法部分诚实说明为何放弃另一种设计（如"未采用实验设计，因为随机要求护士加班不同时数在操作上极其困难且可能不道德"）。这种诚实表明研究者对设计局限有清醒的认识(Ch8)。
 
 ---
 

@@ -84,7 +84,7 @@ citation_aliases:
 > - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ|场域]]、[[Habitus|习性]]、资本）的使用**，忽略了更根本的认识论预备问题(p.313-314)
 > - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在范式分歧，而在**作为[[Knowledge Production|知识生产]]场域与实践场域的关系**(p.323-324)
 > - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"(p.324)
-> - 管理主义项目的核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"(Gunter, 2013,引自 Eacott, 2015, p.323)
+> - 管理主义项目的核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"(Gunter, 2013, p.323)
 
 ## 关键引用
 
@@ -105,9 +105,9 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > 论文自身承认的局限：
-> - Eacott 明确表示不提供"完整的理论、研究纲领甚至'如何做'的描述"——"the reader will need to go beyond this article if the invitation is to be taken seriously"(Berger, 1966,引自 Eacott, 2015, p.315)
+> - Eacott 明确表示不提供"完整的理论、研究纲领甚至'如何做'的描述"——"the reader will need to go beyond this article if the invitation is to be taken seriously"(Berger, 1966, p.315)
 > - 论文是"邀请"而非蓝图——其价值取决于读者是否接受邀请并在自身研究中继续探索
-> - 论文承认任何论证——包括它自己——都可以被回转到说话者本人身上（"every word uttered about scientific practice can be turned back on the person who utters it"，Bourdieu, 2001/2004，引自 Eacott, 2015, p.325）
+> - 论文承认任何论证——包括它自己——都可以被回转到说话者本人身上（"every word uttered about scientific practice can be turned back on the person who utters it", Bourdieu, 2001/2004, p.325）
 >
 > 可预见的批评：
 > - 对"科学"标签的有意挑衅性使用可能疏远那些认为社会研究不应以"科学"为目标的研究者

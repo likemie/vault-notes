@@ -221,10 +221,10 @@ citation_aliases:
 >
 > ---
 >
-> "文化排斥延续了少数民族的不平等。"（Yi 2008, p.1; Yu & Zhao, 2024, p.62）
+> "文化排斥延续了少数民族的不平等。"（Yi 2008, p.1, p.62）
 >
 > > “文化排斥使少数民族的不平等永久化。”
-> ("Cultural exclusion perpetuates ethnic minority inequality.") (Yi 2008, p.1; Yu & Zhao, 2024, p.62)
+> ("Cultural exclusion perpetuates ethnic minority inequality.") (Yi 2008, p.1, p.62)
 >
 > ---
 >

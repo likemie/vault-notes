@@ -78,9 +78,9 @@ updated: 2026-05-31
 
 ## 研究摘要（Study Abstract）的构成要素
 
-除[[Literature Review|文献综述]]过程中的文献摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出研究范围的评论）、连贯、可读和简洁。大多数摘要约 250 词（Creswell & Creswell, 2022, 第5章）。
+除[[Literature Review|文献综述]]过程中的文献摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出研究范围的评论）、连贯、可读和简洁。大多数摘要约 250 词（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
-对于实证研究的研究方案，摘要应包含以下五个核心组成部分，且应按以下顺序呈现（Creswell & Creswell, 2022, 第5章）：
+对于实证研究的研究方案，摘要应包含以下五个核心组成部分，且应按以下顺序呈现（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 1. **[[Research Question|研究问题]]或议题**：开篇陈述正在调查的问题或议题。可以引用一两条参考文献说明该问题，但摘要太短，不宜包含过多引用。
 

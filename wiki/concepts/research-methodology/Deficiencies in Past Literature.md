@@ -27,7 +27,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（Creswell & Creswell, 2022, 第5章）。
+> 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 在学术引言中，仅仅陈述[[Research Question|研究问题]]和综述文献是不够的；研究者还必须明确指出已有文献中存在的不足，并说明计划中的研究将如何弥补或回应这些不足。
 
@@ -35,7 +35,7 @@ updated: 2026-05-31
 
 ## 缺陷的类型
 
-缺陷的性质因研究而异，但常见类型包括（Creswell & Creswell, 2022, 第5章）：
+缺陷的性质因研究而异，但常见类型包括（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 **主题与范围层面：**
 - 某一群体、样本或总体未被充分探索
@@ -62,7 +62,7 @@ updated: 2026-05-31
 
 ## 量化、质性和混合方法中的缺陷差异
 
-不同研究路径强调不同类型的文献缺陷（Creswell & Creswell, 2022, 第5章）：
+不同研究路径强调不同类型的文献缺陷（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **[[Quantitative Research|量化研究]]**：缺陷可能涉及理论发展不充分、测量工具未经验证或不可靠、未关注中介[[Variable|变量]]、变量被忽略等
 - **[[Qualitative Research|质性研究]]**：缺陷可能涉及未处理特殊人群或群体、未探索新的场所、未为未被充分代表的群体发声、缺乏质性数据等

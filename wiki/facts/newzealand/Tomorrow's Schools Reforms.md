@@ -76,7 +76,7 @@ updated: '2026-05-22'
 >
 > [[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.30)]]详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
 >
-> - 原 Auckland 学校董事会的**交通和工资部门**被改制为一家 ESC，名为 **Multiserve**，后更名为 **Cognition Education**(Bates, 2017; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]])
+> - 原 Auckland 学校董事会的**交通和工资部门**被改制为一家 ESC，名为 **Multiserve**，后更名为 **Cognition Education**([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]])
 > - 受利润驱动，ESCs 多元化其服务产品。Cognition Education 成为一家**由慈善信托 Cognition Education Trust 全资拥有的营利性公司**
 > - Hattie 与 Cognition 的关系追溯至商业化之前：2006 年成为 Multi Serve Education Trust Board 董事，2008 年成为 Cognition Education 董事([[Argument_ONeill_2016_Report|O'Neill et al., 2016]])([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.30]])
 > - 这一转化链为 2010 年的 [[Visible Learning Branding and Global Influences]] 提供了制度基础

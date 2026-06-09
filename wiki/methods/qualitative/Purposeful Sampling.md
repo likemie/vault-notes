@@ -34,7 +34,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 目的性抽样（Purposeful Sampling）是[[Qualitative Research|质性研究]]中选择参与者或场所（或文件、视觉材料）的策略，其目标是有目的地选择最能帮助研究者理解[[Research Question|研究问题]]的样本（Creswell & Creswell, 2022, Ch9, p.198）。与[[Quantitative Research|量化研究]]的[[Random Sampling|随机抽样]]或大量参与者选择有本质区别——质性研究追求信息的丰富性和深度，而非统计代表性。
+> 目的性抽样（Purposeful Sampling）是[[Qualitative Research|质性研究]]中选择参与者或场所（或文件、视觉材料）的策略，其目标是有目的地选择最能帮助研究者理解[[Research Question|研究问题]]的样本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.198）。与[[Quantitative Research|量化研究]]的[[Random Sampling|随机抽样]]或大量参与者选择有本质区别——质性研究追求信息的丰富性和深度，而非统计代表性。
 
 Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个方面：
 
@@ -51,7 +51,7 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 
 ### 样本量估计
 
-样本量因质性设计类型而异（Creswell & Creswell, 2022, Ch9）：
+样本量因质性设计类型而异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 | 设计类型 | 建议样本量 |
 |---|---|
@@ -68,11 +68,11 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 ### 招募策略
 
 > [!example]
-> 讨论将个体（或案例）招募到研究中的策略是[[Qualitative Research|质性研究]]中最具挑战性的方面之一。需要说明：(1) 如何告知合适的参与者有关研究的信息；(2) 实际发送的招募信息内容；(3) 为参与提供的激励措施；(4) 若一种招募方法不成功，将采用的备选方法（Creswell & Creswell, 2022, Ch9）。
+> 讨论将个体（或案例）招募到研究中的策略是[[Qualitative Research|质性研究]]中最具挑战性的方面之一。需要说明：(1) 如何告知合适的参与者有关研究的信息；(2) 实际发送的招募信息内容；(3) 为参与提供的激励措施；(4) 若一种招募方法不成功，将采用的备选方法（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ### 饱和作为终止标准
 
-另一种确定何时停止收集数据的标准是 饱和（[[Saturation]]）。Charmaz（2006）指出，当收集新鲜数据不再引发新的洞见或揭示新的主题时，即类别已达到饱和，此时可以停止收集数据。两种方式——预设样本量与饱和——在质性研究中同样有效（Creswell & Creswell, 2022, Ch9, p.198）。
+另一种确定何时停止收集数据的标准是 饱和（[[Saturation]]）。Charmaz（2006）指出，当收集新鲜数据不再引发新的洞见或揭示新的主题时，即类别已达到饱和，此时可以停止收集数据。两种方式——预设样本量与饱和——在质性研究中同样有效（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.198）。
 
 ---
 

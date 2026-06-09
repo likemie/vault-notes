@@ -35,15 +35,15 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 外部效度（External Validity）是[[Experimental Research|实验研究]]中衡量研究结论可推广性的标准，指实验结果能否推广到[[Study Population and Sample|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点。外部效度越高，研究结论的适用边界越宽（Creswell & Creswell, 2022, Ch8）。
+> 外部效度（External Validity）是[[Experimental Research|实验研究]]中衡量研究结论可推广性的标准，指实验结果能否推广到[[Study Population and Sample|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点。外部效度越高，研究结论的适用边界越宽（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote]
-> "External validity threats arise when experimenters draw incorrect inferences from the sample data to other persons, other settings, and past or future situations."（Creswell & Creswell, 2022, Ch8）
+> "External validity threats arise when experimenters draw incorrect inferences from the sample data to other persons, other settings, and past or future situations."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）
 
 ## 效度威胁
 
 > [!abstract]
-> 当存在外部效度威胁时，研究结论的推广范围受到限制。Creswell & Guetterman (2018) 将其分为三种类型（Creswell & Creswell, 2022, Ch8, Table 8.6）：
+> 当存在外部效度威胁时，研究结论的推广范围受到限制。Creswell & Guetterman (2018) 将其分为三种类型（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Table 8.6）：
 
 | 威胁类型 | 描述 | 应对策略 |
 |---|---|---|
@@ -66,5 +66,5 @@ updated: 2026-05-31
 ## 争议与批评
 
 > [!warning]
-> 外部效度与[[Internal Validity|内部效度]]之间存在经典的权衡关系。严格控制实验室条件有助于保障内部效度，但可能降低外部效度。研究者需要在设计阶段明确说明结论的推广范围——具体可以推广到哪些人群、哪些情境和哪些时间段，而不是抽象地声称"研究结果具有普遍性"（Creswell & Creswell, 2022, Ch8）。
+> 外部效度与[[Internal Validity|内部效度]]之间存在经典的权衡关系。严格控制实验室条件有助于保障内部效度，但可能降低外部效度。研究者需要在设计阶段明确说明结论的推广范围——具体可以推广到哪些人群、哪些情境和哪些时间段，而不是抽象地声称"研究结果具有普遍性"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

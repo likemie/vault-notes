@@ -119,8 +119,8 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effect Size]] — 提供了效应量批判的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（Simpson, 2017, 2019）
-> - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis|元分析]]）提供最详细的技术批判（Simpson, 2017, 2019）
+> - [[Effect Size]] — 提供了效应量批判的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2019）
+> - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis|元分析]]）提供最详细的技术批判（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2019）
 > - [[Meta-analysis]] — 论证元分析的两项核心假设（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.4–5]])
 > - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
 > - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本分析单位，而效应量本身已被证明不可靠([[Argument_Simpson_2017_JEP|Simpson, 2017]])
@@ -129,7 +129,7 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> **思想的内部演进（2017→2018→2019）**：Simpson 的[[Effect Size|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（Simpson, 2017, 2018, 2019）。
+> **思想的内部演进（2017→2018→2019）**：Simpson 的[[Effect Size|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2018, 2019）。
 >
 > **对效应量批判文献的影响**：Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
 >

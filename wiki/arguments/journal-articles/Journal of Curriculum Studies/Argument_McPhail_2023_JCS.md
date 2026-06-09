@@ -348,7 +348,7 @@ citation_aliases:
 > 作为一个国家，我们究竟期望学生在学校知道什么、做什么、理解什么——这个首要问题在课程中似乎仍然居于次要地位。
 
 > [!quote]
-> "Students develop 'a relationship to knowledge' by 'becoming members, initially very junior members, of a range of subjects as "communities of enquiry" within which they engage with teachers and senior students as more knowledgeable members'."（[[Michael Young]], 2020, p.16，引自 McPhail et al., 2023, p.523）
+> "Students develop 'a relationship to knowledge' by 'becoming members, initially very junior members, of a range of subjects as "communities of enquiry" within which they engage with teachers and senior students as more knowledgeable members'."（[[Michael Young]], 2020, p.16, p.523）
 >
 > 学生通过成为一系列学科「探究社区」的成员——最初是非常初级的成员，在其中与教师和高年级学生作为更有知识的成员一起参与探究——来发展与知识的关系。
 

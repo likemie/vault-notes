@@ -45,17 +45,17 @@ updated: 2026-05-31
 > 方向性备择假设（directional alternative [[Hypothesis]]）是备择假设的推荐形式，因为它不仅预测[[Variable|变量]]间存在关系，还预测关系的方向（如正向或负向）。Creswell & Creswell (2022, Ch7) 强调，研究者应将备择假设写为方向性形式。
 
 > [!quote]
-> "It is important to make this alternative hypothesis directional, such that it is a prediction in a certain direction. For example, 'it is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more' or 'the higher the relationship skills, the higher the leadership potential.'"（Creswell & Creswell, 2022, Ch7）
+> "It is important to make this alternative hypothesis directional, such that it is a prediction in a certain direction. For example, 'it is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more' or 'the higher the relationship skills, the higher the leadership potential.'"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
 
 > [!tip] 方向性词汇
-> [[Quantitative Research|量化研究]]的方向性词汇包括 affect, influence, predict, impact, determine, cause, relate 等（Creswell & Creswell, 2022, Ch7）。
+> [[Quantitative Research|量化研究]]的方向性词汇包括 affect, influence, predict, impact, determine, cause, relate 等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> 写好备择假设的关键规则（Creswell & Creswell, 2022, Ch7）：
+> 写好备择假设的关键规则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 > 1. **指明[[Variable|变量]]**：明确自变量、因变量、中介变量或调节变量
 > 2. **包含理论**：最严格的[[Quantitative Research|量化研究]]以理论检验为起点，假设应逻辑上跟随或挑战该理论
 > 3. **方向性**：不仅预测存在关系，还预测关系的方向
@@ -66,7 +66,7 @@ updated: 2026-05-31
 ## 写作范例
 
 > [!example]
-> Moore (2000) 研究以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同意义，提出两条方向性假设（Creswell & Creswell, 2022, Ch7）：
+> Moore (2000) 研究以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同意义，提出两条方向性假设（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > **H1**: Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.
 >

@@ -38,12 +38,12 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 方差分析（Analysis of Variance, ANOVA）是一族用于比较两组或多组均值差异的推断统计方法，使用 F 检验统计量。ANOVA 的核心思想是将总变异分解为组间变异和组内变异，通过比较两者的比值来判断各组均值是否存在显著差异。[[Analysis of Covariance|ANCOVA]]（协方差分析）是 ANOVA 的扩展，在比较组间差异时控制一个或多个协[[Variable|变量]]的影响；MANOVA（多元方差分析）则将 ANOVA 扩展到同时比较多个因变量（Creswell & Creswell, 2022, Ch8）。
+> 方差分析（Analysis of Variance, ANOVA）是一族用于比较两组或多组均值差异的推断统计方法，使用 F 检验统计量。ANOVA 的核心思想是将总变异分解为组间变异和组内变异，通过比较两者的比值来判断各组均值是否存在显著差异。[[Analysis of Covariance|ANCOVA]]（协方差分析）是 ANOVA 的扩展，在比较组间差异时控制一个或多个协[[Variable|变量]]的影响；MANOVA（多元方差分析）则将 ANOVA 扩展到同时比较多个因变量（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
 > [!example]
-> 方差分析的典型使用步骤（Creswell & Creswell, 2022, Ch8）：
+> 方差分析的典型使用步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 1. 明确自[[Variable|变量]]（分组变量，通常为类别变量）和因变量（连续变量）。
 2. 检查正态分布假设和方差同质性假设。
@@ -66,7 +66,7 @@ updated: 2026-05-31
 > [!success]
 > - [[Experimental Research|实验研究]]中比较不同处理条件组在连续结果[[Variable|变量]]上的均值差异。
 > - 需要有控制变量时使用 [[Analysis of Covariance|ANCOVA]]。
-> - 需要同时比较多个相关结果变量时使用 MANOVA（Creswell & Creswell, 2022, Ch8）。
+> - 需要同时比较多个相关结果变量时使用 MANOVA（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 

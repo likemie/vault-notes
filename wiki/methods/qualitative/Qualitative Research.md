@@ -132,11 +132,11 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > [!example]- 图9.3：质性数据分析流程的步骤
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-3_Data_Analysis_Steps.jpg)
 
-对[[Winnowing|数据筛选]]（[[Winnowing]]）的需要是质性数据分析的一个关键特征：文本和图像数据极为密集丰富，无法全部使用，必须将数据聚合成少量主题（Creswell & Creswell, 2022, Ch9）。
+对[[Winnowing|数据筛选]]（[[Winnowing]]）的需要是质性数据分析的一个关键特征：文本和图像数据极为密集丰富，无法全部使用，必须将数据聚合成少量主题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ## 方法变体：描述性方法与分析框架
 
-质性研究的分析路径可分为两个层次（Creswell & Creswell, 2022, Ch9）：
+质性研究的分析路径可分为两个层次（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 **[[Descriptive Methods|描述性方法]]**（Descriptive Methods）是基础性分析路径，研究者贴近数据本身，使用有限的框架和解释，将信息归类为主题。它基于参与者日常语言，追求抽样中的最大变异度。
 

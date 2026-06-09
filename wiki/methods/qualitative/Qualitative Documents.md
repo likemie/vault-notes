@@ -28,7 +28,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 质性文件（Qualitative Documents）是[[Qualitative Research|质性研究]]中收集和分析公共文件与私人文件的一种数据收集方法。公共文件包括报纸、会议记录、官方报告等；私人文件包括个人日记、日志、信件、电子邮件等（Creswell & Creswell, 2022, Ch9, p.199）。
+> 质性文件（Qualitative Documents）是[[Qualitative Research|质性研究]]中收集和分析公共文件与私人文件的一种数据收集方法。公共文件包括报纸、会议记录、官方报告等；私人文件包括个人日记、日志、信件、电子邮件等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.199）。
 
 ---
 
@@ -57,7 +57,7 @@ updated: 2026-06-01
 ### 扩展的数据收集类型
 
 > [!example] 更广泛的文件数据来源
-> （Creswell & Creswell, 2022, Ch9）
+> （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 > - 保持研究日志，或让参与者保持日记
 > - 检查组织文件（如报告、战略计划、图表、医疗记录）
 > - 分析公共文件（如官方备忘录、博客、记录、档案信息）

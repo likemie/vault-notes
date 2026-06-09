@@ -164,7 +164,7 @@ updated: '2026-05-24'
 
 - **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定范式
 - **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])
-- **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（Wiliam, 2019, pp.3–4; 参见 [[Hargreaves 1996 TTA Lecture]]）
+- **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
 - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系。Davies 以牛津大学循证健康照护硕士项目为例说明核心特征：学生通过尝试解决自己带入课程的临床和人口问题来学习——"这种学习和教学方法明确基于问题解决、自我指导的成人教育模式"（Davies, 1999, p.110, cited in Sarbiewska, 2019, p.120–121）。Davies 强调：就像医生除了学术研究证据外还需收集患者病史、设置额外控制测试一样，教育者也需使用多种形式和来源的证据
 
 ### 美国的制度化建设（1998–2015）
@@ -199,7 +199,7 @@ updated: '2026-05-24'
 - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为整合媒介([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），RCT 领域弥漫"萎靡感"（p.233），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
 - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性（详见 [[Argument_Cowen_2019_ERE]]）；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观（详见 [[Argument_Wrigley_2019_ERE]]）；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的（详见 Argument_Wiliam_2019_ERE）
-- **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"认识论论证（Qvortrup, 2019, p.5; 详见 [[Argument_Qvortrup_2019_NordSTEP]]）
+- **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"认识论论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]; 详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 
 ## 核心要素
 

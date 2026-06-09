@@ -35,7 +35,7 @@ updated: 2026-06-01
 
 ## 核心要素
 
-Gibbs（2007）提出了几种质性信度程序（Creswell & Creswell, 2022, Ch9）：
+Gibbs（2007）提出了几种质性信度程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 1. **检查转录稿**：确保转录中没有明显的转录错误。
 2. **确保[[Coding in Qualitative Research|编码]]定义不发生漂移**：在编码过程中，编码的含义不应发生转变。可以通过持续将数据与编码进行比较，并撰写关于编码及其定义的备忘录来实现。

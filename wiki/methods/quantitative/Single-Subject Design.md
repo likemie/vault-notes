@@ -69,7 +69,7 @@ updated: 2026-05-31
 ## 方法变体与相近方法
 
 > [!tip]
-> - **A-B-A 设计（A-B-A Single-Subject Design）**：对单一个体的目标行为建立基线（A），引入处理（B），然后撤销处理回到基线条件（A）。这是单受试者设计中最经典的 reversal 设计形式（Creswell & Creswell, 2022, Ch8, Example 8.4）。
+> - **A-B-A 设计（A-B-A Single-Subject Design）**：对单一个体的目标行为建立基线（A），引入处理（B），然后撤销处理回到基线条件（A）。这是单受试者设计中最经典的 reversal 设计形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Example 8.4）。
 > - [[Experimental Research]] — 单受试者设计是实验研究的一种特殊形式，区别在于不使用大样本组间比较。
 > - [[Quasi-Experimental Designs]] — 准实验设计通常使用非[[Random Assignment|随机分组]]的大样本比较，单受试者设计聚焦于个体的时间序列变化。
 

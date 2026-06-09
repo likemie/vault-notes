@@ -53,31 +53,31 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 本书编者 Ryan 与 Slethaug 试图回答两个相互关联的问题：第一，[[International Education|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.2–3]])
+> 本书编者 Ryan 与 Slethaug 试图回答两个相互关联的问题：第一，[[International Education|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？(pp.2–3]])
 
-> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
+> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟(p.2]])。
 
 
 ## 理论框架
 
 > [!abstract]
 > 全书未采用单一理论框架，但以下理论资源在各章中不同程度地被调用：
-> - **[[Paul Morris]] 的教育四象限**（学术理性主义、社会经济效率、儿童中心、社会重建）— Schmidt（第 5 章）用于论证价值观为本课程的理论定位([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.6–7]])
-> - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.9]])
-> - **后现代文化范式** — Wang（第 8 章）引用，认为文化与认同是流动的，一种文化声称优于另一种即为"帝国主义"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.11]])
-> - **Deveney 的 "[[Fourth Culture|第四文化]]"概念** — Jabal（第 4 章）用于分析在香港[[International Schools|国际学校]]中就读的[[Chinese Learner|中国学习者]]的特殊文化空间([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])
+> - **[[Paul Morris]] 的教育四象限**（学术理性主义、社会经济效率、儿童中心、社会重建）— Schmidt（第 5 章）用于论证价值观为本课程的理论定位(pp.6–7]])
+> - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题(p.9]])
+> - **后现代文化范式** — Wang（第 8 章）引用，认为文化与认同是流动的，一种文化声称优于另一种即为"帝国主义"(p.11]])
+> - **Deveney 的 "[[Fourth Culture|第四文化]]"概念** — Jabal（第 4 章）用于分析在香港[[International Schools|国际学校]]中就读的[[Chinese Learner|中国学习者]]的特殊文化空间(p.5]])
 
 
 ## 研究方法
 
 > [!info]
-> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
+> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
 
 
 ## 论证结构
 
 > [!example]
-> 编者的论证分为三个层次递进([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.1–15]])：
+> 编者的论证分为三个层次递进(pp.1–15]])：
 
 > **第 1 层（第 1–2 章）：奠定基础，打破刻板印象。** Slethaug 描绘[[International Education|国际教育]]的增长全景图、确立[[Chinese Learner|中国学习者]]的核心地位；Ryan 系统审视关于中国学习者的缺陷型和优势型刻板印象，提出去本质化的[[Analytic Framework|分析框架]]。
 
@@ -85,15 +85,15 @@ citation_aliases:
 
 > **第 3 层（第 6–9 章）：考察跨国高等教育中的教学互动。** Vinther 讨论丹麦语境；Miller 分析在澳中国职前教师的认同问题；Wang 和 Zhu 分别从美方和中方视角审视在中国的跨文化教学实践。
 
-> 三个部分共同指向一个结论：真正的挑战不仅在于教学法，更在于教师在社会化过程中对认同、跨文化关系和教学实践的反思([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.8]])。
+> 三个部分共同指向一个结论：真正的挑战不仅在于教学法，更在于教师在社会化过程中对认同、跨文化关系和教学实践的反思(p.8]])。
 
 
 ## 主要发现
 
 > [!success]
 > 编者提出两个核心判断：
-> - "[[Chinese Learner|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学实践高度依赖于学习者文化、教师文化以及两者之间的互动。"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.15]])
-> - [[International Education|国际教育]]已经从"地方和国家绑定"的教育模式转变为跨国市场和全球竞争[[Champ|场域]]——而这一转变"在几乎无人察觉的情况下"完成了([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.15，呼应标题"Something Happened While Nobody Was Looking"]])
+> - "[[Chinese Learner|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学实践高度依赖于学习者文化、教师文化以及两者之间的互动。"(p.15]])
+> - [[International Education|国际教育]]已经从"地方和国家绑定"的教育模式转变为跨国市场和全球竞争[[Champ|场域]]——而这一转变"在几乎无人察觉的情况下"完成了(p.15, 呼应标题"Something Happened While Nobody Was Looking"]])
 
 > [!success]
 > ### 各章概览
@@ -111,7 +111,7 @@ citation_aliases:
 ## 关键引用
 
 > [!quote]
-> "[[Chinese Learner|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.15]])
+> "[[Chinese Learner|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。"(p.15]])
 
 
 ## 来源

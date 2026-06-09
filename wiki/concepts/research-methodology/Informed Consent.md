@@ -34,10 +34,10 @@ updated: 2026-06-04
 ## 定义
 
 > [!info]
-> 知情同意是[[Research Ethics|研究伦理]]的基本程序。研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。知情同意既是法律要求（美国 [[Common Rule 2018]] 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。参与是自愿的，研究者不得强迫参与者签署同意书（Creswell & Creswell, 2022, 第4章）。
+> 知情同意是[[Research Ethics|研究伦理]]的基本程序。研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。知情同意既是法律要求（美国 [[Common Rule 2018]] 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。参与是自愿的，研究者不得强迫参与者签署同意书（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 > [!quote]
-> "Participation in a study is voluntary, and this needs explanation in the informed consent form instructions."（Creswell & Creswell, 2022, 第4章）
+> "Participation in a study is voluntary, and this needs explanation in the informed consent form instructions."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）
 
 ---
 
@@ -68,7 +68,7 @@ updated: 2026-06-04
 
 ## 操作注意事项
 
-研究者在使用知情同意书时须注意以下要点（Creswell & Creswell, 2022, 第4章）：
+研究者在使用知情同意书时须注意以下要点（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）：
 
 - 在邀请函中附上资助方名称，以充分披露研究背景
 - 不强求参与者签署，告知参与者有权拒绝签署

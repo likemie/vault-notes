@@ -79,20 +79,20 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 
 > [!abstract]
 > - **自变量（Independent Variables）**：明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
-> - **[[Manipulation Check|操纵检查]]（Manipulation Check）**：评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（Creswell & Creswell, 2022, Ch8）。
+> - **[[Manipulation Check|操纵检查]]（Manipulation Check）**：评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **因变量（Dependent Variables）**：明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
-> - **其他变量**：包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（Creswell & Creswell, 2022, Ch8）。
+> - **其他变量**：包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 工具与材料
 
 > [!info]
 > - **材料**：详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论[[Pilot Testing|试点测试]]和标准化施测所需的培训。
-> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（Creswell & Creswell, 2022, Ch8）。
+> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验程序
 
 > [!example]
-> **实验类型**（Creswell & Creswell, 2022, Ch8）：
+> **实验类型**（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 > - **[[Pre-Experimental Designs|前实验设计]]**：研究单一组并实施干预，无对照组比较，[[Internal Validity|内部效度]]最低。
 > - **[[Quasi-Experimental Designs|准实验设计]]**：使用对照组和实验组，但随机分配部分或完全缺失。
 > - **真实验（True Experiment）**：研究者随机分配受试者到处理组中，内部效度最高。
@@ -112,17 +112,17 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - **前后测对照组设计（Pretest–Posttest Control-Group Design）**：两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
 > - **仅后测对照组设计（Posttest-Only Control-Group Design）**：控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
 > - **Solomon 四组设计（[[Solomon Four-Group Design]]）**：2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
-> - **[[Factorial Design]]**：同时操纵两个或多个自变量，检验主效应和交互效应（Creswell & Creswell, 2022, Ch8）。
+> - **[[Factorial Design]]**：同时操纵两个或多个自变量，检验主效应和交互效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 效度威胁
 
 > [!warning]
-> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity in Quantitative Measurement|构念效度]]威胁**（变量定义和测量不当）（Creswell & Creswell, 2022, Ch8）。
+> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity in Quantitative Measurement|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验操作步骤
 
 > [!example]
-> 按时间顺序逐步描述实验操作流程（Creswell & Creswell, 2022, Ch8）：
+> 按时间顺序逐步描述实验操作流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 > 1. 向受试者说明研究的封面故事。
 > 2. 明确设计类型和变量。
 > 3. 按时间顺序列出研究活动。
@@ -131,7 +131,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 数据分析
 
 > [!info]
-> 实验数据分析步骤（Creswell & Creswell, 2022, Ch8）：
+> 实验数据分析步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 > 1. 报告[[Descriptive Analysis|描述统计]]：频率、均值与标准差、样本人口学构成、主要结果变量的组间均值和标准差。
 > 2. 初步分析：检验随机分配的成功性（各组在基线是否等价）、操纵检查（操纵是否成功产生组间差异）、关键研究变量间的关联（相关矩阵）。
 > 3. 推断统计检验：以比较组间差异为核心，大量使用[[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]] 和 MANOVA。
@@ -141,7 +141,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 预注册与结果解释
 
 > [!note]
-> 真实验可用于检验[[Causality|因果关系]]，因此应在公共注册库（如 Center for Open Science 或 ClinicalTrials.gov）[[Preregistration|预注册]]实验假设和方案。讨论部分应说明假设是否被支持、自变量操纵是否有效、结果为何显著或不显著、与过去文献的联系、研究局限以及发现对科学和社会的意义（Creswell & Creswell, 2022, Ch8）。
+> 真实验可用于检验[[Causality|因果关系]]，因此应在公共注册库（如 Center for Open Science 或 ClinicalTrials.gov）[[Preregistration|预注册]]实验假设和方案。讨论部分应说明假设是否被支持、自变量操纵是否有效、结果为何显著或不显著、与过去文献的联系、研究局限以及发现对科学和社会的意义（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验方法计划检查清单
 

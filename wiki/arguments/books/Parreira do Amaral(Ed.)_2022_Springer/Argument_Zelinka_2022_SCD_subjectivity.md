@@ -109,7 +109,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 从七个框架中提取的最突出技能几乎都是结果导向的（outcome-oriented，以蓝色标示）——获取它们旨在提高就业力。这些技能高度主观、难以测量、其长期有效性不确定(pp.261-262)。
 
-与之对照，品质本位的技能和素养（quality-based，以红色标示）——如人格完整性、负责任地互动的能力、将个体特质转化为社会效益等——未在任何框架中被明确列出。以脆弱性为例，尽管通常被视作个体负面条件，但脆弱性的**积极面向**（温柔、同情、对他人的开放、柔软）可以被重新框定为公民参与和政治参与的赋能资源(McLeod, 2012, p.22, cit. by Zelinka, 2022, p.263)。
+与之对照，品质本位的技能和素养（quality-based，以红色标示）——如人格完整性、负责任地互动的能力、将个体特质转化为社会效益等——未在任何框架中被明确列出。以脆弱性为例，尽管通常被视作个体负面条件，但脆弱性的**积极面向**（温柔、同情、对他人的开放、柔软）可以被重新框定为公民参与和政治参与的赋能资源(McLeod, 2012, p.22, cit. by, p.263)。
 
 这一步论证揭示了 SCD 的**选择性盲目**：它以系统性的方式优先了可被市场化的素养，同时排除了不直接服务于经济生产力的品质。
 
@@ -149,7 +149,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 > [!quote]
 > “成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
 > (“成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
-> ("It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production."))(Reed, 2009, p.33, cit. by Zelinka, 2022, p.261)
+> ("It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production."))(Reed, 2009, p.33, cit. by, p.261)
 
 > [!quote]
 > “主体只有承认并增强其自我创业的主体性，表现出对成长的热情和加速的意愿，才不会沦为一次性用品（被随时抛弃）。”

@@ -135,7 +135,7 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “要让循证改革盛行，必须具备三个条件”
-> ("for [[Evidence-Based Reform]] to prevail, three conditions must exist")([[Argument_Slavin_2019_EP|Slavin, 2019, p.2，引自 Dachet & Baye, 2021, p.179]])
+> ("for [[Evidence-Based Reform]] to prevail, three conditions must exist")([[Argument_Slavin_2019_EP|Slavin, 2019, p.2, p.179]])
 >
 > > “我们正处于这条道路的最开端”
 > ("we are at the very beginning of the path")(p.179)

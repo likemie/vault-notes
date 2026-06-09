@@ -39,7 +39,7 @@ updated: 2026-06-01
 ## 核心要素
 
 > [!abstract]
-> Campbell & Stanley (1963, p.6) 的七条符号规则（Creswell & Creswell, 2022, Ch8）：
+> Campbell & Stanley (1963, p.6) 的七条符号规则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 > | 符号 | 含义 |
 > |---|---|

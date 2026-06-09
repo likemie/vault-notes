@@ -23,11 +23,11 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 倒三角文献检索（Inverted Triangle [[Literature Review|literature search]]）是 Creswell 提出的一种文献检索启发法，用于应对研究生常见的困境——"我的题目没有人研究过"。其核心思路是：当计划的学术研究过于狭窄而找不到直接相关的文献时，从窄到宽逐层拓宽检索范围，寻找间接相关的研究，最终以一般性文献总结开头、以接近计划研究的狭窄文献收尾（Creswell & Creswell, 2022, 第5章）。
+> 倒三角文献检索（Inverted Triangle [[Literature Review|literature search]]）是 Creswell 提出的一种文献检索启发法，用于应对研究生常见的困境——"我的题目没有人研究过"。其核心思路是：当计划的学术研究过于狭窄而找不到直接相关的文献时，从窄到宽逐层拓宽检索范围，寻找间接相关的研究，最终以一般性文献总结开头、以接近计划研究的狭窄文献收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 ## 视觉隐喻
 
-倒三角的视觉结构表达了检索逻辑（Creswell & Creswell, 2022, 第5章）：
+倒三角的视觉结构表达了检索逻辑（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **底部尖端（apex）**：代表计划的学术研究——窄而聚焦，可能确实没有直接研究过
 - **向上拓宽**：从底部向上，逐步拓宽[[Literature Review|文献回顾]]的范围，寻找虽有一定距离但仍相关的研究
@@ -35,7 +35,7 @@ updated: 2026-05-31
 
 ## 实际应用步骤
 
-以"小学阶段的风险儿童（at-risk children in primary school）"为例（Creswell & Creswell, 2022, 第5章）：
+以"小学阶段的风险儿童（at-risk children in primary school）"为例（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 1. **最窄层（计划的精确研究）**：小学阶段的风险儿童——可能没有直接研究
 2. **第一次拓宽**：小学阶段的风险学生（at-risk students, generally in the primary school）——扩大了范围，从 children 到 students

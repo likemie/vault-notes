@@ -124,11 +124,11 @@ Slethaug 接着论证：如果说 PISA 是比较中小学生，那么[[Global Un
 
 > 例（最直观的数据）：1960 年，国际学校约 **70%** 的学生来自学校创始国；到 2005 年，这个比例降到 **30%**(p.24)。
 >
-> 例（布鲁塞尔国际学校）：十年前 70% 是美国学生，现在只有 **29%**；雇主支付学费的比例从 98% 降到 89%(Conlin, 2006, p.11,转引自 Slethaug, 2010, p.24)。
+> 例（布鲁塞尔国际学校）：十年前 70% 是美国学生，现在只有 **29%**；雇主支付学费的比例从 98% 降到 89%(Conlin, 2006, p.11, 转, p.24)。
 >
 > 例（规模增长）：1964 年全球约 50 所国际学校；1994 年约 1,000 所、50 万学生；2005 年约 3,000 所、约 200 万学生。四十一年间增长了 **60 倍**(pp.22–23)。
 
-Slethaug 由此推出一个重要结论：国际学校已经从"教育机构"变成了**市场导向的企业**——它们必须收取全额学费（香港每年 US$10,000–20,000），必须把学生和家长视为"客户"，必须关注"市场需求"(Yamato & Bray, 2006, p.60,转引自 Slethaug, 2010, p.26)。
+Slethaug 由此推出一个重要结论：国际学校已经从"教育机构"变成了**市场导向的企业**——它们必须收取全额学费（香港每年 US$10,000–20,000），必须把学生和家长视为"客户"，必须关注"市场需求"(Yamato & Bray, 2006, p.60, 转, p.26)。
 
 **这一步的逻辑功能**：证明[[International Education|国际教育]]不仅是"跨国比较"的问题，而是一整个**新产业**已经形成了——而且是在几乎没有人研究的情况下形成的（"while nobody was looking"）。
 
@@ -160,7 +160,7 @@ IB 的吸引力在于它声称**意识形态中立**——不绑定任何国家�
 
 ### 综合结论：为什么需要这本书
 
-Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国大陆的学生不希望被假设与来自香港、新加坡、台湾的中国学习者有相同的认同、价值观和偏好——甚至中国大陆内部也因地区、年龄、性别、宗教、经济和文化地位而极为多元(Hu, 2003; Louie, 2005; Shi, 2006,均转引自 Slethaug, 2010, p.34)。
+Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国大陆的学生不希望被假设与来自香港、新加坡、台湾的中国学习者有相同的认同、价值观和偏好——甚至中国大陆内部也因地区、年龄、性别、宗教、经济和文化地位而极为多元(Hu, 2003, Louie, 2005, Shi, 2006, 均转, p.34)。
 
 > 例（Slethaug 自己的总结）：在国际课堂中，仅考虑一种"中国性"是有问题的——无论那种"中国性"代表什么。同样，完全忽视学生的中国性，只按教师母国的个体、家庭和教学价值来上课，也是有问题的。(p.34)
 
@@ -198,13 +198,13 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 > [!quote]
 > “那些与民族国家公民的培养和局限于本地系统的消费者紧密相连，而忽视更大全球力量的教育系统，很可能会变得过时；而那些主动应对全球化新挑战的教育系统则更有可能蓬勃发展。”
-> ("Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.")(Suárez-Orozco & Qin-Hilliard, 2004, p.23,转引自 Slethaug, 2010, p.1)
+> ("Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.")(Suárez-Orozco & Qin-Hilliard, 2004, p.23, 转, p.1)
 >
 > — 这是 Slethaug 全章的题眼：固守本地的教育体系将被淘汰，拥抱全球化的将繁荣。
 
 > [!quote]
 > “因此，也许比大多数主流学校更重要的是，[[International Schools|国际学校]]必须面向市场。它们必须以目标客户能够承受的价格提供抢手的课程，并且必须关注不断变化的人口和经济力量。”
-> ("Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces.")(Yamato & Bray, 2006, p.60,转引自 Slethaug, 2010, p.26)
+> ("Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces.")(Yamato & Bray, 2006, p.60, 转, p.26)
 >
 > — 国际学校不再是教育机构，而是市场参与者。
 

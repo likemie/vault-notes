@@ -35,7 +35,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> Pearson 积差相关（Pearson Product-Moment Correlation），通常简称为 Pearson 相关，是一种测量两个连续[[Variable|变量]]之间关联强度（magnitude）和方向（direction）的推断统计方法，使用 r 统计量。r 值范围在 -1 到 +1 之间：正值表示正相关（一个变量增加、另一个也增加），负值表示负相关（一个增加、另一个减少），0 表示无线性关联。报告时 r 应以斜体呈现（Creswell & Creswell, 2022, Ch8）。
+> Pearson 积差相关（Pearson Product-Moment Correlation），通常简称为 Pearson 相关，是一种测量两个连续[[Variable|变量]]之间关联强度（magnitude）和方向（direction）的推断统计方法，使用 r 统计量。r 值范围在 -1 到 +1 之间：正值表示正相关（一个变量增加、另一个也增加），负值表示负相关（一个增加、另一个减少），0 表示无线性关联。报告时 r 应以斜体呈现（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -67,5 +67,5 @@ updated: 2026-05-31
 > [!warning]
 > - 只衡量线性关系——两个[[Variable|变量]]可能存在强的非线性关系但 r 值接近 0。
 > - 对异常值（outliers）敏感——少数极端值可以显著改变 r 值。
-> - 相关不等于因果——高相关不意味着一个变量导致了另一个变量的变化；混淆变量（第三变量 Z）可能同时驱动两个变量的变化（Creswell & Creswell, 2022, Ch8）。
+> - 相关不等于因果——高相关不意味着一个变量导致了另一个变量的变化；混淆变量（第三变量 Z）可能同时驱动两个变量的变化（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

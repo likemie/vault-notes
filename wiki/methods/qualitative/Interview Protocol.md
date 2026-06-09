@@ -39,7 +39,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 访谈协议（Interview Protocol）是[[Qualitative Interview|质性访谈]]中用于提问和记录回答的结构化指南，通常为一到两页。它应在访谈前预先准备好，并在所有访谈中一致使用。问题之间应留有空间供访谈者在录音设备故障时记录简短笔记和引语。问题总数建议在五到十个之间（Creswell & Creswell, 2022, Ch9, p.203）。
+> 访谈协议（Interview Protocol）是[[Qualitative Interview|质性访谈]]中用于提问和记录回答的结构化指南，通常为一到两页。它应在访谈前预先准备好，并在所有访谈中一致使用。问题之间应留有空间供访谈者在录音设备故障时记录简短笔记和引语。问题总数建议在五到十个之间（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.203）。
 
 ---
 
@@ -47,7 +47,7 @@ updated: 2026-06-01
 
 ### 协议结构
 
-访谈协议包含四个核心部分，应按顺序编排（Creswell & Creswell, 2022, Ch9）：
+访谈协议包含四个核心部分，应按顺序编排（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 > [!example] 一、引言
 > - 介绍自己和[[Purpose Statement|研究目的]]（可以预先写好，直接朗读）
@@ -85,7 +85,7 @@ updated: 2026-06-01
 > [!tip]
 > - 提前记住问题，避免在访谈中只是朗读协议，给受访者留下生硬的印象
 > - 即使使用录音，也做笔记以防设备故障
-> - 记录访谈的时间、日期、地点以及访谈者和受访者姓名（Creswell & Creswell, 2022, Ch9）
+> - 记录访谈的时间、日期、地点以及访谈者和受访者姓名（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-06-01
 ## 局限性
 
 > [!warning]
-> 初学[[Qualitative Research|质性研究]]者可能对仅有五到十个问题的访谈长度感到不安——某些受访者可能确实对[[Central Phenomenon|核心现象]]表达较少。[[Probes|追问提示]]的存在正是为了应对这一情境：通过追问，访谈者可以延长访谈时长并获取有深度和广度的信息（Creswell & Creswell, 2022, Ch9）。
+> 初学[[Qualitative Research|质性研究]]者可能对仅有五到十个问题的访谈长度感到不安——某些受访者可能确实对[[Central Phenomenon|核心现象]]表达较少。[[Probes|追问提示]]的存在正是为了应对这一情境：通过追问，访谈者可以延长访谈时长并获取有深度和广度的信息（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ---
 

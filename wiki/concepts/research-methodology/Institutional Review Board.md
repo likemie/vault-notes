@@ -36,7 +36,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 机构审查委员会（Institutional Review Board, IRB）是设立在大学和研究机构内部的委员会，其法律基础是美国联邦法规中对人权的保护条款。IRB 的基本职能是在研究开始之前审查研究方案，评估参与者面临的风险类别，确保研究在伦理上可接受。任何涉及人类受试者的研究都必须在数据收集前获得 IRB 批准（Creswell & Creswell, 2022, 第4章）。
+> 机构审查委员会（Institutional Review Board, IRB）是设立在大学和研究机构内部的委员会，其法律基础是美国联邦法规中对人权的保护条款。IRB 的基本职能是在研究开始之前审查研究方案，评估参与者面临的风险类别，确保研究在伦理上可接受。任何涉及人类受试者的研究都必须在数据收集前获得 IRB 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 在产学[[Clinical Trial|临床试验]]中，IRB 同时承担双重角色：既是保护人类受试者的伦理[[Gatekeepers|守门人]]，也是影响试验启动速度和运营成本的制度节点([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.206–211]])。
 
@@ -57,7 +57,7 @@ updated: 2026-06-03
 | 经济风险 | Economic risk | 研究可能给参与者带来经济损失 |
 | 法律风险 | Legal risk | 研究可能导致参与者面临法律后果 |
 
-IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括：未成年人（不满 19 岁）、精神能力受限者、受害者、神经系统损伤者、孕妇或胎儿、囚犯，以及艾滋病患者（Creswell & Creswell, 2022, 第4章）。
+IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括：未成年人（不满 19 岁）、精神能力受限者、受害者、神经系统损伤者、孕妇或胎儿、囚犯，以及艾滋病患者（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 [[Informed Consent|知情同意书]]（informed consent form）是 IRB 审查的核心文件，研究者在提交 IRB 申请时需同时提交。同意书须包含以下标准要素（Sarantakos, 2005）：
 
@@ -75,7 +75,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 ## 操作流程
 
-研究者在 IRB 框架下的标准操作步骤（Creswell & Creswell, 2022, 第4章）：
+研究者在 IRB 框架下的标准操作步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）：
 
 1. **提交 IRB 申请**：在数据收集之前，向所在校区的 IRB 委员会提交研究方案，说明研究程序、参与者信息和风险管控措施
 2. **获得 IRB 批准**：委员会审查参与者风险程度后决定是否批准

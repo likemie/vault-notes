@@ -34,7 +34,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 成员核查（Member Checking）是[[Qualitative Research|质性研究]]中确定研究发现准确性的一种效度策略：将最终报告或特定描述和主题带回给参与者，并确定这些参与者是否认为它们是准确的。这不意味着将原始转录稿带回给参与者检查准确性；相反，研究者带回的是经过打磨或半打磨的产品部分，如主要发现、主题、案例分析、[[Grounded Theory|扎根理论]]、文化描述等（Creswell & Creswell, 2022, Ch9, p.213）。
+> 成员核查（Member Checking）是[[Qualitative Research|质性研究]]中确定研究发现准确性的一种效度策略：将最终报告或特定描述和主题带回给参与者，并确定这些参与者是否认为它们是准确的。这不意味着将原始转录稿带回给参与者检查准确性；相反，研究者带回的是经过打磨或半打磨的产品部分，如主要发现、主题、案例分析、[[Grounded Theory|扎根理论]]、文化描述等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.213）。
 
 ## 研究程序
 
@@ -44,9 +44,9 @@ updated: 2026-06-01
 3. 询问参与者这些分析结果是否准确反映了他们的经验和观点
 4. 根据参与者的反馈调整和完善分析结果
 
-常见的操作方法包括在研究中组织一次后续的焦点小组访谈，让参与者对研究发现发表评论（Creswell & Creswell, 2022, Ch9）。
+常见的操作方法包括在研究中组织一次后续的焦点小组访谈，让参与者对研究发现发表评论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
-成员核查是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一（Creswell & Creswell, 2022, Ch9）。
+成员核查是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ## 适用场景
 

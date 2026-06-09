@@ -29,11 +29,11 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 守门人（Gatekeepers）是研究现场中提供研究准入并允许或批准研究进行的个体（Creswell & Creswell, 2022, Ch9, p.199）。在[[Qualitative Research|质性研究]]中，获得守门人的批准是进入研究或档案现场的关键步骤。研究者可能需要为守门人准备一份简短的研究方案并提交审查。
+> 守门人（Gatekeepers）是研究现场中提供研究准入并允许或批准研究进行的个体（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.199）。在[[Qualitative Research|质性研究]]中，获得守门人的批准是进入研究或档案现场的关键步骤。研究者可能需要为守门人准备一份简短的研究方案并提交审查。
 
 ## 核心要素
 
-Bogdan & Biklen（1992）提出了守门人审查方案时应回答的问题框架（Creswell & Creswell, 2022, Ch9）：
+Bogdan & Biklen（1992）提出了守门人审查方案时应回答的问题框架（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 1. 为什么选择这个场所进行研究？
 2. 研究期间将在现场进行哪些活动？

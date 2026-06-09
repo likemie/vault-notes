@@ -33,7 +33,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 三角验证（Triangulation）是[[Qualitative Research|质性研究]]中检验研究发现准确性的一种效度策略：通过检查来自不同数据来源的证据，并使用这些证据为每个主题构建一致的证据基础。如果主题是基于多个数据来源或参与者视角的汇聚而建立的，这一过程将增加研究的效度（Creswell & Creswell, 2022, Ch9, p.213）。
+> 三角验证（Triangulation）是[[Qualitative Research|质性研究]]中检验研究发现准确性的一种效度策略：通过检查来自不同数据来源的证据，并使用这些证据为每个主题构建一致的证据基础。如果主题是基于多个数据来源或参与者视角的汇聚而建立的，这一过程将增加研究的效度（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.213）。
 
 ## 研究程序
 
@@ -43,7 +43,7 @@ updated: 2026-06-01
 3. 使用汇聚的证据来构建和支撑每个主题
 4. 当不同来源的证据之间存在矛盾时，如实呈现差异，而非选择性忽视
 
-三角验证是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一（Creswell & Creswell, 2022, Ch9）。
+三角验证是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ## 适用场景
 

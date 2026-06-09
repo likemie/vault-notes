@@ -31,15 +31,15 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 实验者偏差（Experimenter Bias）是[[Experimental Research|实验研究]]中的一种系统性偏差：当施测结果测量的实验者知道某受试者接受的是预期"最有益"或"最有效"的处理条件时，实验者可能在施测结果测量时表现出更积极、更有暗示性或更鼓励性的行为，从而人为放大该条件的处理效应（Creswell & Creswell, 2022, Ch8）。
+> 实验者偏差（Experimenter Bias）是[[Experimental Research|实验研究]]中的一种系统性偏差：当施测结果测量的实验者知道某受试者接受的是预期"最有益"或"最有效"的处理条件时，实验者可能在施测结果测量时表现出更积极、更有暗示性或更鼓励性的行为，从而人为放大该条件的处理效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote]
-> "If the experimenter is aware of whether a participant receives the treatment condition that will be most helpful, the experimenter might act in more positive and reinforcing ways in administering the outcome measure."（Creswell & Creswell, 2022, Ch8）
+> "If the experimenter is aware of whether a participant receives the treatment condition that will be most helpful, the experimenter might act in more positive and reinforcing ways in administering the outcome measure."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）
 
 ## 核心要素
 
 > [!abstract]
-> 实验者偏差的产生机制与应对（Creswell & Creswell, 2022, Ch8）：
+> 实验者偏差的产生机制与应对（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 - **产生机制**：实验者的期望通过非语言线索（面部表情、语气、停顿时间）或语言线索（额外鼓励、提示、对问题的解释方式）传递给受试者，从而在无意识中影响受试者的表现或回答。
 - **主要应对策略**：[[Blinding|盲法]]（Blinding）——使施测结果测量的实验者对受试者所属研究条件不知情，直到所有结果测量评估完成。方法计划中的典型措辞："为降低实验者偏差风险，实验者在所有结果测量评估完成前对受试者所属研究条件不知情。"
@@ -54,5 +54,5 @@ updated: 2026-06-01
 
 > [!warning]
 > - 在某些实验情境中完全[[Blinding|盲法]]在操作上不可行——例如比较计算机辅助教学与传统面授时，实验者不可能不知道受试者使用的是哪种教学方式。此时应在方法部分诚实说明，并在讨论部分将其作为研究局限之一。
-> - 当盲法不可行时，替代策略包括：使用完全标准化的、计算机化施测的结果测量（消除实验者与受试者的互动）；使用客观的、不易受实验者期望影响的结果测量（如标准化测试分数而非实验者主观评分）（Creswell & Creswell, 2022, Ch8）。
+> - 当盲法不可行时，替代策略包括：使用完全标准化的、计算机化施测的结果测量（消除实验者与受试者的互动）；使用客观的、不易受实验者期望影响的结果测量（如标准化测试分数而非实验者主观评分）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

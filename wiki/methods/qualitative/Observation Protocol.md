@@ -32,13 +32,13 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 观察协议（Observation Protocol）是[[Qualitative Research|质性研究]]中研究者用于记录观察信息的工具。通常为一页纸，中间有一条分隔线，左侧记录描述性笔记，右侧记录[[Reflexivity|反思性]]笔记（Creswell & Creswell, 2022, Ch9, p.203）。
+> 观察协议（Observation Protocol）是[[Qualitative Research|质性研究]]中研究者用于记录观察信息的工具。通常为一页纸，中间有一条分隔线，左侧记录描述性笔记，右侧记录[[Reflexivity|反思性]]笔记（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.203）。
 
 ## 研究程序
 
 ### 协议结构
 
-观察协议包含三类信息（Creswell & Creswell, 2022, Ch9）：
+观察协议包含三类信息（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 **基本信息**：记录观察的时间、地点、日期等人口学信息。
 

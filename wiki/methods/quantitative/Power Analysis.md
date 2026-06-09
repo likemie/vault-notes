@@ -37,7 +37,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 统计功效分析（Power Analysis）是一种在研究规划阶段、正式招募受试者之前，用于估计检测特定[[Effect Size|效应量]]所需最小样本量的统计方法（Kraemer & Blasey, 2016）。功效分析的目的是确保研究有足够的统计能力来检测[[Variable|变量]]间真实存在的关系或组间差异，避免因样本不足而无法发现真实效应（Creswell & Creswell, 2022, Ch8）。
+> 统计功效分析（Power Analysis）是一种在研究规划阶段、正式招募受试者之前，用于估计检测特定[[Effect Size|效应量]]所需最小样本量的统计方法（Kraemer & Blasey, 2016）。功效分析的目的是确保研究有足够的统计能力来检测[[Variable|变量]]间真实存在的关系或组间差异，避免因样本不足而无法发现真实效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote]
 > "Sample size determination should be based on your analysis plans and expected outcomes"（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）
@@ -47,7 +47,7 @@ updated: 2026-05-31
 ## 研究程序
 
 > [!example]
-> 功效分析的核心程序（Creswell & Creswell, 2022, Ch8）：
+> 功效分析的核心程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 1. 明确分析计划——确定主要[[Hypothesis|研究假设]]和拟用的统计检验类型。
 2. 设定输入参数，包括：
@@ -61,7 +61,7 @@ updated: 2026-05-31
 
 > [!note] 调查与实验的功效分析差异
 > - **[[Survey Research|调查研究]]**：功效分析侧重于估计在给定预期关联强度下检测变量间显著关联所需的样本量。
-> - **[[Experimental Research|实验研究]]**：输入参数需额外包括实验条件数和对组间差异的效应量估计；分析重点转向估计每个实验条件下所需的受试者人数（Creswell & Creswell, 2022, Ch8）。
+> - **[[Experimental Research|实验研究]]**：输入参数需额外包括实验条件数和对组间差异的效应量估计；分析重点转向估计每个实验条件下所需的受试者人数（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 适用场景
 
@@ -69,7 +69,7 @@ updated: 2026-05-31
 > - 规划任何涉及假设检验的[[Quantitative Research|量化研究]]时，均应在数据收集前进行功效分析。
 > - [[Survey Research|调查研究]]中，需要确定样本量以检测[[Variable|变量]]间关联。
 > - [[Experimental Research|实验研究]]中，需要估计每个条件下检测显著组间差异所需的人数。
-> - 许多科学期刊现在要求在方法部分报告功效分析（Creswell & Creswell, 2022, Ch8）。
+> - 许多科学期刊现在要求在方法部分报告功效分析（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 

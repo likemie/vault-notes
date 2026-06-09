@@ -71,7 +71,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> Møller 的论证分三步推进(Møller)：
+> Møller 的论证分三步推进：
 >
 > **1. 诊断：[[OECD]] 主导的研究议程存在去政治化问题**
 >
@@ -107,7 +107,7 @@ citation_aliases:
 >
 > 4. **"什么有效"的议程局限性**：OECD 2007 年报告强化了"什么有效"议程，但2016年报告承认了"未使用、误用、滥用"问题，却仍然主张更多更好的数据——Møller 追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？(p.378)
 >
-> 5. **问责制的双重标准**：那些塑造学校问责体系的人也应该为其负责——"将问责体系写入立法和官僚实践的速度超越了支持它的证据"(Henig, 2013, cited in Møller, 2017, p.383)
+> 5. **问责制的双重标准**：那些塑造学校问责体系的人也应该为其负责——"将问责体系写入立法和官僚实践的速度超越了支持它的证据"(Henig, 2013, p.383)
 
 ## 关键引用
 
@@ -116,7 +116,7 @@ citation_aliases:
 > ("To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures.")(p.382)
 >
 > > “急于将问责制纳入立法和官僚实践的冲动，已经跑在了支持它的证据前面；尽管问责制的架构师们也是基于科学决策的大声疾呼者，但这一事实依然存在。”
-> ("The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making.")(Henig, 2013: xi, cited in Møller, 2017, p.383)
+> ("The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making.")(Henig, 2013: xi, p.383)
 >
 > > “教育现在是、而且永远将是一个充满争议的[[Champ|场域]]。”
 > ("Education is and always will be a contested [[Champ|field]].")(p.383)

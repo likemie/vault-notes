@@ -167,13 +167,13 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。”
-> ("Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals.") (Pawson, 2006: 45, 引自 Wrigley, p. 7)
+> ("Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals.") (Pawson, 2006: 45, p. 7)
 >
 > > “在[[Meta-analysis|元分析]]综述的每个阶段，都在进行简化。……在这一‘清洗’过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。”
-> ("At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning.") (Pawson, 2006: 42–43, 引自 Wrigley, p. 13)
+> ("At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning.") (Pawson, 2006: 42–43, p. 13)
 >
 > > “[[Meta-analysis|元分析]]的结果绝不应该是一个平均数；它应该是一张图表。”
-> ("The result of a [[Meta-analysis]] should never be an average; it should be a graph.") (Gene Glass, 引自 Wrigley, p. 9)
+> ("The result of a [[Meta-analysis]] should never be an average; it should be a graph.") (Gene Glass, p. 9)
 >
 > > “让学习可见的尝试，使人们对教育作为陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。”
 > ("The attempt to make learning visible eclipses older understandings of education as [[Bildung]] and pedagogy (both words carrying the sense of human formation).") (p. 16)

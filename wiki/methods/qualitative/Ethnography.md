@@ -53,7 +53,7 @@ updated: 2026-05-30
 ## 研究问题
 
 > [!info]
-> 民族志[[Research Question|研究问题]]的具体程度与其他质性路径不同。Spradley (1980) 提出了民族志问题的分类法（taxonomy of ethnographic questions），涵盖以下类型（Creswell & Creswell, 2022, Ch7）：
+> 民族志[[Research Question|研究问题]]的具体程度与其他质性路径不同。Spradley (1980) 提出了民族志问题的分类法（taxonomy of ethnographic questions），涵盖以下类型（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > - **微型导览问题（mini-tour questions）**：引导研究者初步了解文化共享群体
 > - **经历问题（experience questions）**：询问群体成员的具体经历

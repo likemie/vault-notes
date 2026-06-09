@@ -35,7 +35,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 卡方检验（Chi-Squared Test, χ² test）是一种检验两个类别[[Variable|变量]]（categorical variables）之间是否存在关联的推断统计方法，使用 χ² 统计量。其核心思想是：比较观测频数（实际数据中各单元格的频数）与期望频数（假设两变量独立时的理论频数），两者差异越大，χ² 值越大，关联越可能真实存在（Creswell & Creswell, 2022, Ch8）。
+> 卡方检验（Chi-Squared Test, χ² test）是一种检验两个类别[[Variable|变量]]（categorical variables）之间是否存在关联的推断统计方法，使用 χ² 统计量。其核心思想是：比较观测频数（实际数据中各单元格的频数）与期望频数（假设两变量独立时的理论频数），两者差异越大，χ² 值越大，关联越可能真实存在（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -48,7 +48,7 @@ updated: 2026-05-31
 > - 变量类型：类别／类别（两个变量均为类别变量，如性别 [男／女] × 投票意向 [支持／反对／未定]）
 > - 分数分布：非正态（non-normal）——类别变量本身不产生连续分布分数
 
-当变量是类别变量且研究问题涉及组间关联时，卡方检验是唯一的选择（Creswell & Creswell, 2022, Ch8）。
+当变量是类别变量且研究问题涉及组间关联时，卡方检验是唯一的选择（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体与相近方法
 

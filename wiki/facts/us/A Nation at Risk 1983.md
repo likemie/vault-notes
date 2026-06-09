@@ -45,7 +45,7 @@ updated: '2026-06-02'
 ## 背景
 
 > [!info] 背景
-> 1980 年代初期，美国面临多重焦虑的交织：制造业岗位流向日本和德国引发经济竞争力恐慌；1980 年里根 (Reagan) 当选总统带来保守派教育改革议程的上升；1983 年最早一批[[International Education|国际教育]]成就评价协会 (International Association for the Evaluation of Educational Achievement, IEA) 国际比较研究结果发布，美国学生表现不如预期([[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 8, 10]]; Rappleye, 2006, pp. 234–235)。
+> 1980 年代初期，美国面临多重焦虑的交织：制造业岗位流向日本和德国引发经济竞争力恐慌；1980 年里根 (Reagan) 当选总统带来保守派教育改革议程的上升；1983 年最早一批[[International Education|国际教育]]成就评价协会 (International Association for the Evaluation of Educational Achievement, IEA) 国际比较研究结果发布，美国学生表现不如预期([[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 8, 10]]; [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 234–235]])。
 >
 > 在这一背景下，教育被重新定义为一个国家安全议题——不是作为个人发展的途径，而是作为国家在全球经济竞争中胜出的武器。
 

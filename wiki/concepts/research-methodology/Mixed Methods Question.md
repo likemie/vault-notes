@@ -39,9 +39,9 @@ updated: 2026-05-31
 > [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.150]])。
 
 > [!quote]
-> "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（Creswell & Creswell, 2022, Ch7）
+> "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
 
-混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori & Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（Creswell & Creswell, 2022, Ch7）。
+混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori & Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 
@@ -56,14 +56,14 @@ updated: 2026-05-31
 > | 质性[[Research Question\|研究问题]] | [[Central Phenomenon\|核心现象]]的意义、参与者的体验 |
 > | 混合方法研究问题 | 从[[Integration in Mixed Methods\|整合]]两类数据中获得的洞见——这是一个关于方法的问题，而非关于研究内容的问题 |
 >
-> 典型的研究问题关注[[Research Topic|研究主题]]的内容，而非方法。混合方法研究问题之所以不同，是因为它询问的是整合（integration）带来的学习。整合是混合方法研究的核心组件（Creswell & Creswell, 2022, Ch7）。
+> 典型的研究问题关注[[Research Topic|研究主题]]的内容，而非方法。混合方法研究问题之所以不同，是因为它询问的是整合（integration）带来的学习。整合是混合方法研究的核心组件（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> [[Mixed Methods Research|混合方法研究]]问题的两个核心组件（Creswell & Creswell, 2022, Ch7）：
+> [[Mixed Methods Research|混合方法研究]]问题的两个核心组件（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > 1. **整合的意图（intent of integration）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
 > 2. **整合的程序（procedures of integration）**：说明通过何种设计（聚敛式、解释性序列、探索性序列、嵌入式）和何种程序（合并、连接或嵌入）来整合
@@ -81,7 +81,7 @@ updated: 2026-05-31
 
 ## 三类问题的放置与顺序
 
-在[[Mixed Methods Research|混合方法研究]]中，三类问题（量化、质性、混合方法）的放置方式和顺序反映了研究设计的步骤（Creswell & Creswell, 2022, Ch7）：
+在[[Mixed Methods Research|混合方法研究]]中，三类问题（量化、质性、混合方法）的放置方式和顺序反映了研究设计的步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
 - **单阶段[[Convergent Design|聚敛式设计]]**：量化和质性问题可以任一顺序排列，因为两类数据同时收集。
 - **两阶段[[Explanatory Sequential Design|解释性序列设计]]**：第一阶段的量化问题或假设在先，第二阶段的[[Qualitative Research|质性研究]]问题在后。
@@ -92,7 +92,7 @@ updated: 2026-05-31
 ## 写作范例
 
 > [!example]
-> Moseholm et al. (2017) 在健康科学领域的[[Mixed Methods Research|混合方法研究]]中提供了出色的三部分目标陈述范例（Creswell & Creswell, 2022, Ch7）。他们研究非特异性症状患者诊断评估中与健康相关的生活质量变化：
+> Moseholm et al. (2017) 在健康科学领域的[[Mixed Methods Research|混合方法研究]]中提供了出色的三部分目标陈述范例（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。他们研究非特异性症状患者诊断评估中与健康相关的生活质量变化：
 >
 > - 量化陈述：测量诊断评估过程中 HRQoL 的变化
 > - 质性陈述：描述患者对 HRQoL 的体验
@@ -101,7 +101,7 @@ updated: 2026-05-31
 > 虽然作者将其表述为[[Purpose Statement|目的陈述]]而非[[Research Question|研究问题]]，但这些目标对应于量化、质性和混合方法的三部分结构。
 
 > [!example]
-> DeCoito & Estaiteyeh (2022) 研究了加拿大一个省份科学／STEM 教师在线教学与学习的经历（Creswell & Creswell, 2022, Ch7）。他们的研究问题是：
+> DeCoito & Estaiteyeh (2022) 研究了加拿大一个省份科学／STEM 教师在线教学与学习的经历（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。他们的研究问题是：
 >
 > 1. 教师在在线环境中使用了哪些数字工具和资源？（描述性量化问题）
 > 2. 教师的在线课程开发和实施采用了哪些策略？（描述性量化问题）
@@ -115,7 +115,7 @@ updated: 2026-05-31
 ## 争议与批评
 
 > [!warning]
-> [[Mixed Methods Research|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或整合的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question|研究问题]]正是传达这一核心意图的工具（Creswell & Creswell, 2022, Ch7）。
+> [[Mixed Methods Research|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或整合的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question|研究问题]]正是传达这一核心意图的工具（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 

@@ -105,7 +105,7 @@ AMC 作为试验基地的竞争力和不可替代性并存：一方面，它们�
 ## 在产学合作中的角色
 
 > [!note]
-> AMC 在[[University-Industry Collaboration|产学合作]]中承担双重角色([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.179–181]]; Bang, 2025, pp.201–215)：
+> AMC 在[[University-Industry Collaboration|产学合作]]中承担双重角色([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.179–181]]; [[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.201–215]])：
 > - **研究伙伴与试验场所**：AMC 具备基础科研和临床研究能力，可在教学医院中开展[[Clinical Trial|临床试验]]。产业方通过 AMC 接触多样化患者人群和前沿方法论([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.215]])
 > - **效率瓶颈**：AMC 的组织结构（学术-临床二元）意味着其制度流程更靠近学术节奏而非产业节奏。多重委员会审查、高管理费率和漫长的合同谈判周期使 AMC 在效率维度上处于竞争劣势
 >

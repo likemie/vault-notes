@@ -34,7 +34,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> Solomon 四组设计（Solomon Four-Group Design）是一种真实验设计，是 2 × 2 [[Factorial Design|因子设计]]的特例。它将受试者[[Random Assignment|随机分配]]到四个组中，通过操纵前测（有 vs 无）和处理（有 vs 无）两个因素，来评估前测本身是否会对处理效果产生干扰效应。全部四个组均接受后测（Creswell & Creswell, 2022, Ch8, Example 8.3）。
+> Solomon 四组设计（Solomon Four-Group Design）是一种真实验设计，是 2 × 2 [[Factorial Design|因子设计]]的特例。它将受试者[[Random Assignment|随机分配]]到四个组中，通过操纵前测（有 vs 无）和处理（有 vs 无）两个因素，来评估前测本身是否会对处理效果产生干扰效应。全部四个组均接受后测（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Example 8.3）。
 
 ## 研究程序
 
@@ -52,7 +52,7 @@ Group D  R ———————————————— O    (无前测 + �
 > - **A vs B**：在存在前测的条件下，检验处理效果（O₂_A − O₂_B）。
 > - **C vs D**：在无前测的条件下，检验处理效果（O_C − O_D）。
 > - **A vs C**：检验前测效应——有前测的受试者在后测上是否与无前测的受试者表现不同？
-> - 若 A vs B 的处理效果与 C vs D 的处理效果显著不同，则说明前测与处理之间存在交互效应——前测可能增强了或掩盖了处理效果（Creswell & Creswell, 2022, Ch8）。
+> - 若 A vs B 的处理效果与 C vs D 的处理效果显著不同，则说明前测与处理之间存在交互效应——前测可能增强了或掩盖了处理效果（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 适用场景
 

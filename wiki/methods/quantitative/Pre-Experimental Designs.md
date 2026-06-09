@@ -37,12 +37,12 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 前实验设计（Pre-Experimental Designs）是[[Experimental Research|实验研究]]中[[Internal Validity|内部效度]]最低的一类设计。这类设计研究单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（Creswell & Creswell, 2022, Ch8）。
+> 前实验设计（Pre-Experimental Designs）是[[Experimental Research|实验研究]]中[[Internal Validity|内部效度]]最低的一类设计。这类设计研究单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体
 
 > [!example]
-> 前实验设计包含以下四种主要变体（Creswell & Creswell, 2022, Ch8, Example 8.1），使用 Campbell & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
+> 前实验设计包含以下四种主要变体（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Example 8.1），使用 Campbell & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
 
 ### 一次性个案研究（One-Shot Case Study）
 
@@ -91,7 +91,7 @@ Group B  X2 ———————————————— O
 > [!success]
 > - 初步探索性研究中，当资源和条件不足以实施真实验时。
 > - 教学情境中用于初步评估教学干预的效果。
-> - 作为更严格实验设计的预备阶段（Creswell & Creswell, 2022, Ch8）。
+> - 作为更严格实验设计的预备阶段（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 

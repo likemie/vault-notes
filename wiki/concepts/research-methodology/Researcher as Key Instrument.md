@@ -28,7 +28,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research|质性研究]]的九大核心特征之一：质性研究者自行收集数据——通过检查文件、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的问卷或工具（Creswell & Creswell, 2022, Ch9）。
+> 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research|质性研究]]的九大核心特征之一：质性研究者自行收集数据——通过检查文件、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的问卷或工具（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ## 概念辨析
 

@@ -57,7 +57,7 @@ updated: 2026-06-02
 > "Integration involved exploring initially by gathering qualitative data, analyzing it, and using the qualitative results for building a culturally specific measure or instrument for quantitative testing with a large sample."
 
 > [!example]
-> 整合陈述中可用的各类术语（Creswell & Creswell, 2022, Table 10.5）：
+> 整合陈述中可用的各类术语（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Table 10.5）：
 >
 > | 设计类型 | 意图术语 | 程序术语 |
 > |---|---|---|

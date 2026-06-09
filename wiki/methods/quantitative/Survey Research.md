@@ -79,11 +79,11 @@ updated: 2026-05-31
 
 > [!info]
 > - **工具与测量**：工具（instrument）是收集变量测量值的设备（如温度计之于体温，问卷之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
-> - **工具的效度**：报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity in Quantitative Measurement|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／同时效度（工具是否与金标准测量相关联或预测效标测量）（Creswell & Creswell, 2022, Ch8）。
-> - **工具的信度**：报告分数的[[Internal Consistency and Cronbach's Alpha|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值 .7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α = .84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（Creswell & Creswell, 2022, Ch8）。
+> - **工具的效度**：报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity in Quantitative Measurement|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／同时效度（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **工具的信度**：报告分数的[[Internal Consistency and Cronbach's Alpha|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值 .7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α = .84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）**：当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
 > - **工具内容**：包括封面信（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
-> - **[[Pilot Testing|试点测试]]（Pilot Testing）**：评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时评估研究耗时和受试者疲劳风险。说明测试人数和修改计划（Creswell & Creswell, 2022, Ch8）。
+> - **[[Pilot Testing|试点测试]]（Pilot Testing）**：评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时评估研究耗时和受试者疲劳风险。说明测试人数和修改计划（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **调查施测**：邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
 
 ### 变量
@@ -106,7 +106,7 @@ updated: 2026-05-31
 ### 数据分析
 
 > [!example]
-> 数据分析的序列步骤（Creswell & Creswell, 2022, Ch8）：
+> 数据分析的序列步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 1. 报告样本中回应和未回应的人数与百分比。
 2. 检查[[Response Bias|回应偏差]]（response bias）——未回应者若回应是否会显著改变结果。方法包括波次分析（wave analysis，逐周比较回应变化；Leslie, 1972）或回应者／非回应者对比（电话联系少数非回应者比较差异）（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
@@ -121,7 +121,7 @@ updated: 2026-05-31
 > 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 NIH 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]
-> 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（Creswell & Creswell, 2022, Ch8）。
+> 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 调查方法计划检查清单
 

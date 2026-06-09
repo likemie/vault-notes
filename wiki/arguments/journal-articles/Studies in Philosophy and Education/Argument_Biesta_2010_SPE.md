@@ -108,7 +108,7 @@ citation_aliases:
 > - 因此，"应用知识"的叙事隐藏了实际发生的巨大改造工作——以及其中的**权力运作**
 >
 > > “从来没有人见过实验室事实走到外面，除非首先把实验室运用到‘外部’情境中，并将该情境进行转化，使其符合实验室的规定。”
-> ("No one has ever seen a laboratory fact move outside unless the lab is first brought to bear on an 'outside' situation and that situation is transformed so that it fits laboratory prescriptions.") (Latour, 1983, p. 166, 引自 Biesta, p. 499)
+> ("No one has ever seen a laboratory fact move outside unless the lab is first brought to bear on an 'outside' situation and that situation is transformed so that it fits laboratory prescriptions.") (Latour, 1983, p. 166, p. 499)
 >
 > ### 从证据本位到价值本位
 >

@@ -69,7 +69,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - **[[Science and Technology Studies]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999; Gorur, 2014, p.6）
+> - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]]）
 > - **Jasanoff 的共同生产（co-production）** — 科学与国家相互构成(Jasanoff, 2004; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 
 ## 实证发现

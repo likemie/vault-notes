@@ -935,7 +935,7 @@ updated: 2026-05-24
 
 ## 第二部分：情感社会化
 
-[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础：情感反应需要先对事件进行**评估**（appraisal），判断正面还是负面。评估标准来自**文化定义的意义和重要性**。因此"怎么感受"在相当程度上是被文化社会化出来的（Li, 2012，引 Frijda 和 Gottman）。
+[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础：情感反应需要先对事件进行**评估**（appraisal），判断正面还是负面。评估标准来自**文化定义的意义和重要性**。因此"怎么感受"在相当程度上是被文化社会化出来的（[[Argument_Li_2012_Cambridge|Li, 2012]]，引 Frijda 和 Gottman）。
 
 ---
 

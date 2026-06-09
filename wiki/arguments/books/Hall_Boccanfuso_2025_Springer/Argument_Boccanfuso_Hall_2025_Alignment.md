@@ -80,7 +80,7 @@ citation_aliases:
 
 > [!info]
 - 类型：导论性书籍章节，兼有[[Literature Review|文献综述]]、历史分析和框架建构
-- 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO，Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
+- 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
 
 ---

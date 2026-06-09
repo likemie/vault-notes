@@ -129,7 +129,7 @@ Bildung 知识的特征：过程性——知识是意义的主观建构和内容
 
 在论述算法技术如何损害教育之前，需要更清晰地建立 Bildung 的含义和它在教学中的中枢地位。
 
-Humboldt(1793)将 Bildung 定义为"个体与世界之间最独立的交互作用"——既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界(Humboldt, 1956/1793, p.29, cited in Jornitz & Klinge, 2022, p.239)。Nordenbo（2002, p.341）补充了一个关键维度：Bildung 包含"一个主动内核"——"一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung"。Bildung 不能被外部灌输。
+Humboldt(1793)将 Bildung 定义为"个体与世界之间最独立的交互作用"——既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界(Humboldt, 1956/1793, p.29, p.239)。Nordenbo（2002, p.341）补充了一个关键维度：Bildung 包含"一个主动内核"——"一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung"。Bildung 不能被外部灌输。
 
 在 Gruschka 的[[Didaktik|教学理论]]中，Bildung 是教学行动——一个由 Bildung、Erziehung 和 [[Didaktik]] 三者交织构成的"整合性星座"——的理由和终极目标。Bildung "处理所有从课程内容中涌现的理解问题"(Gruschka, 2019, p.675)。教学不仅是为了传递知识，更是为了帮助学生朝向 Bildung——即**在与知识内容的接触中形成自身**(pp.238–239)。
 
@@ -168,7 +168,7 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 
 以 Antolin 的测验结果页面为例(pp.243–245)：颜色（红色=最差，绿色=最好）、柱状图、正确和错误答案的数量、以及"表现百分比"（Leistung）共同构成了一个直观可理解的视觉呈现。
 
-视觉呈现的力量极其强大。一项关于健康测量的研究发现：即使测量专家已对结果进行了口头情境化解释，被**红色**标示的测量输出（在绿-黄-红色谱中）仍使参与者经历了数周的焦虑(Klinge et al., 2020, cited in Jornitz & Klinge, 2022, pp.243–244)。颜色本身——超越了理性评估——直接作用于情感和判断。
+视觉呈现的力量极其强大。一项关于健康测量的研究发现：即使测量专家已对结果进行了口头情境化解释，被**红色**标示的测量输出（在绿-黄-红色谱中）仍使参与者经历了数周的焦虑(Klinge et al., 2020, pp.243–244)。颜色本身——超越了理性评估——直接作用于情感和判断。
 
 更令人不安的是，仪表盘的视觉呈现可能**掩盖内在的逻辑矛盾**。在 Antolin 的结果页面中，两个度量系统同时运作：一是累计负分（错误答案扣分，可能得到负数），二是"表现百分比"（正确答案得分转为百分比）。二者在数学上相互矛盾——基于负数不可能计算出正百分比——但视觉呈现（红色柱和绿色柱）让这种矛盾变得不可见。学生和教师被"条件化"以适应这种表现可视化——不管度量方式或计算方法如何，信息始终是"表现应该达到 100%，在一个完全绿色的圆圈中"(pp.244–245)。
 
@@ -206,15 +206,15 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 
 > [!quote]
 > “在这种知识中，不存在从过去到未来的时间线性，只有同步性。”
-> ("In this kind of knowledge there is no linearity of time from past into future, just synchrony.")(Esposito, 2013, p.132, cited in Jornitz & Klinge, 2022, p.235)
+> ("In this kind of knowledge there is no linearity of time from past into future, just synchrony.")(Esposito, 2013, p.132, p.235)
 
 > [!quote]
 > “如果被跟踪和调节的仅仅是行为，那么洞察力就不再相关了。理性的时代终于走向终结。（……）现在看来，人们不需要被启蒙，而只需被分数和徽章所调节，就能让他们变得更适应、更快乐、更多产。”
-> ("Insight is no longer relevant if all that is tracked and regulated is behavior. The age of reason finally comes to an end. (...) Now it seems that people do not have to be illuminated but simply regulated by points and badges in order to make them fitter, happier, and more productive.")(Schrape, 2014, p.43, cited in Jornitz & Klinge, 2022, p.236)
+> ("Insight is no longer relevant if all that is tracked and regulated is behavior. The age of reason finally comes to an end. (...) Now it seems that people do not have to be illuminated but simply regulated by points and badges in order to make them fitter, happier, and more productive.")(Schrape, 2014, p.43, p.236)
 
 > [!quote]
 > “‘陶冶（[[Bildung]]）的概念总是包含着一种对什么是人的理解（对人性的理解），以及我们如何才能实现这一点。它总是蕴含着一种人性的理念，以及对那些令人不满或不充分的事物的认识和表征。’”
-> ("the 'concept of [[Bildung]] always contains an understanding of what is human (an understanding of humanity) and how we can attain this. It always implies an idea of humanity and a knowledge and representation of that which is unsatisfactory or insufficient'")(Masschelein & Ricken, 2010, p.131, cited in Jornitz & Klinge, 2022, p.239)
+> ("the 'concept of [[Bildung]] always contains an understanding of what is human (an understanding of humanity) and how we can attain this. It always implies an idea of humanity and a knowledge and representation of that which is unsatisfactory or insufficient'")(Masschelein & Ricken, 2010, p.131, p.239)
 
 > [!quote]
 > “数字技术拥有精简全世界教育教学情境的权力。”

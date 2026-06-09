@@ -96,10 +96,10 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “所有研究各不相同，而关于它们唯一有趣的问题是，它们如何在被我们认为重要的那些因素上产生差异。”
-> ("All studies differ and the only interesting questions to ask about them concern how they vary across the factors we conceive as important.")(Glass, 2000, p.8,引自 Qvortrup, 2015, p.25)
+> ("All studies differ and the only interesting questions to ask about them concern how they vary across the factors we conceive as important.")(Glass, 2000, p.8, p.25)
 >
 > > “本书许多结果的一个局限性在于，它们更多地与表层和深层知识相关，而较少与概念理解相关。”
-> ("A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding.")(Hattie, 2009, p.249,引自 Qvortrup, 2015, p.29)
+> ("A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding.")(Hattie, 2009, p.249, p.29)
 
 ## 局限性与批评
 

@@ -33,7 +33,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 关系性空间（Relational Space）是一种空间概念，将空间理解为社会行动者之间关系的集合，而非固定的领土容器。在这一视角下，空间不仅是具体的物质形式，也是个体和群体之间的关系集合（Beech & Artopoulos, 2015, 引自 Larsen & Beech, 2014）。
+> 关系性空间（Relational Space）是一种空间概念，将空间理解为社会行动者之间关系的集合，而非固定的领土容器。在这一视角下，空间不仅是具体的物质形式，也是个体和群体之间的关系集合（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]], 引自 Larsen & Beech, 2014）。
 
 > [!quote]
 > "Relational notions of space imply understanding space as constituted by a series of relations between social actors."([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])

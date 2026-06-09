@@ -33,15 +33,15 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 内部效度（Internal Validity）是[[Experimental Research|实验研究]]中衡量[[Causality|因果推断]]质量的核心标准，指研究者能否从实验数据中正确推断出被操纵的[[Variable|变量]]确实导致了观察到的效果。内部效度越高，研究者越有信心将结果差异归因于处理本身，而非其他未控制的因素（Creswell & Creswell, 2022, Ch8）。
+> 内部效度（Internal Validity）是[[Experimental Research|实验研究]]中衡量[[Causality|因果推断]]质量的核心标准，指研究者能否从实验数据中正确推断出被操纵的[[Variable|变量]]确实导致了观察到的效果。内部效度越高，研究者越有信心将结果差异归因于处理本身，而非其他未控制的因素（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote]
-> "Internal validity threats are experimental procedures, treatments, or experiences of the participants that threaten the researcher's ability to draw correct inferences from the data about the population in an experiment."（Creswell & Creswell, 2022, Ch8）
+> "Internal validity threats are experimental procedures, treatments, or experiences of the participants that threaten the researcher's ability to draw correct inferences from the data about the population in an experiment."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）
 
 ## 效度威胁
 
 > [!abstract]
-> 当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，还是由其他未控制的因素所致。Campbell & Stanley (1963) 最早系统识别了这些威胁，Creswell & Guetterman (2018) 将其扩展为三组共 10 种（Creswell & Creswell, 2022, Ch8, Table 8.5）：
+> 当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，还是由其他未控制的因素所致。Campbell & Stanley (1963) 最早系统识别了这些威胁，Creswell & Guetterman (2018) 将其扩展为三组共 10 种（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Table 8.5）：
 
 ### 与受试者相关的威胁
 
@@ -94,5 +94,5 @@ updated: 2026-05-31
 ## 争议与批评
 
 > [!warning]
-> 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。[[Experimental Research|实验研究]]者需要在设计阶段明确识别潜在的内部效度威胁，并采取相应的应对措施（Creswell & Creswell, 2022, Ch8）。
+> 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。[[Experimental Research|实验研究]]者需要在设计阶段明确识别潜在的内部效度威胁，并采取相应的应对措施（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

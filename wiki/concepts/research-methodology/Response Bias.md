@@ -34,7 +34,7 @@ updated: 2026-05-31
 > 回应偏差（Response Bias），亦称无回应偏差（Nonresponse Bias），是[[Survey Research|调查研究]]中非回应者对调查估计值产生的影响效应——即若非回应者做出了回应，他们的回答将显著改变调查的整体结果（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 
 > [!quote]
-> "Bias means that if nonrespondents had responded, their responses would have substantially changed the overall results."（Creswell & Creswell, 2022, Ch8）
+> "Bias means that if nonrespondents had responded, their responses would have substantially changed the overall results."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）
 
 ## 核心要素
 
@@ -49,7 +49,7 @@ updated: 2026-05-31
 ### 回应者／非回应者对比
 
 > [!example]
-> 另一种方法是电话联系少数非回应者，询问几个关键问题，然后比较他们的回应与已回应者是否存在实质性差异。这也是一种对回应偏差的直接检查（Creswell & Creswell, 2022, Ch8）。
+> 另一种方法是电话联系少数非回应者，询问几个关键问题，然后比较他们的回应与已回应者是否存在实质性差异。这也是一种对回应偏差的直接检查（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 概念辨析
 

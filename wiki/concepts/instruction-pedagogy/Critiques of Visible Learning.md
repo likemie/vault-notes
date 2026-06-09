@@ -698,7 +698,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 #### 论证步骤一：VL 的流行无法用经验质量解释
 
-作者首先排除了最直接的假设——"VL 流行是因为它的数据质量好"。实际上，作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; Simpson, 2017; Terhart, 2012; Wrigley, 2018)一致记录了 VL 的重大方法论缺陷，以 Table 1 系统呈现（Nielsen & Klitmøller, 2021, pp. 80-81）：
+作者首先排除了最直接的假设——"VL 流行是因为它的数据质量好"。实际上，作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷，以 Table 1 系统呈现（Nielsen & Klitmøller, 2021, pp. 80-81）：
 
 | 问题 | 描述 | 例 |
 |------|------|----|

@@ -29,7 +29,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 备忘录（Memos）是[[Qualitative Research|质性研究]]者在研究过程中记录的书面笔记，反映[[Coding in Qualitative Research|编码]]和主题的发展。[[Reflexivity|反身性]]的讨论可以建立在备忘录的基础上（Creswell & Creswell, 2022, Ch9, p.195）。
+> 备忘录（Memos）是[[Qualitative Research|质性研究]]者在研究过程中记录的书面笔记，反映[[Coding in Qualitative Research|编码]]和主题的发展。[[Reflexivity|反身性]]的讨论可以建立在备忘录的基础上（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.195）。
 
 备忘录在质性研究中的作用是多重的：
 - 记录编码和主题的发展轨迹，确保编码定义不发生漂移

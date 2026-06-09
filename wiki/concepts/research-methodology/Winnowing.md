@@ -41,6 +41,6 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Quantitative Research|量化研究]]中的数据保留 — 量化研究尽最大努力保留所有数据并重建或替换缺失数据；[[Qualitative Research|质性研究]]则主动、有意识地选择聚焦部分数据而忽略其他部分。这不是数据"丢失"，而是基于分析焦点的有意识选择（Creswell & Creswell, 2022, Ch9, p.206）。
+> - vs [[Quantitative Research|量化研究]]中的数据保留 — 量化研究尽最大努力保留所有数据并重建或替换缺失数据；[[Qualitative Research|质性研究]]则主动、有意识地选择聚焦部分数据而忽略其他部分。这不是数据"丢失"，而是基于分析焦点的有意识选择（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.206）。
 > - vs [[Simultaneous Procedures|同时性程序]] — 数据筛选是质性数据分析的内容性特征（"筛什么"），同时性是时间性特征（"何时筛"），两者共同构成质性数据分析与量化研究的根本区别。
 

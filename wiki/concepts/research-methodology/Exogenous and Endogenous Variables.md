@@ -46,7 +46,7 @@ updated: 2026-05-31
 > - 先前研究训练（prior research training）
 > - 聘任类型（type of appointment，系主任 vs 教师）
 >
-> 内生变量位于模型中部，包括非研究工作负荷（workload, non-research）、研究压力（pressure to conduct research）、合作（collaboration）、资源（resources）、同事支持（support from colleagues）和系主任支持（support from department chair）。这些内生变量共同影响最终的结果变量——学术绩效（scholarly performance），后者被细分为：非研究性报告、研究性报告、非审稿期刊论文、审稿研究论文、审稿非研究论文、书章、专著、获批联邦资助、已拨付联邦资助、非联邦资助和合同（Creswell & Creswell, 2022, pp.59–60; 图 3.3）。
+> 内生变量位于模型中部，包括非研究工作负荷（workload, non-research）、研究压力（pressure to conduct research）、合作（collaboration）、资源（resources）、同事支持（support from colleagues）和系主任支持（support from department chair）。这些内生变量共同影响最终的结果变量——学术绩效（scholarly performance），后者被细分为：非研究性报告、研究性报告、非审稿期刊论文、审稿研究论文、审稿非研究论文、书章、专著、获批联邦资助、已拨付联邦资助、非联邦资助和合同（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.59–60]]; 图 3.3）。
 
 ## 概念辨析
 

@@ -26,18 +26,18 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Research Question|研究问题]]（Research Problem）是引导研究需求的难题或议题（problem or issue that leads to the need for a study）。它是学术研究中引言部分的核心要素，为整个研究提供存在理由（Creswell & Creswell, 2022, 第5章）。
+> [[Research Question|研究问题]]（Research Problem）是引导研究需求的难题或议题（problem or issue that leads to the need for a study）。它是学术研究中引言部分的核心要素，为整个研究提供存在理由（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 研究问题与研究问题句（research questions）不同：前者是一个难题或议题，后者是通过收集和分析数据来回答的具体问题。研究问题回答"为什么需要这项研究"，研究问题句回答"这项研究要探索或检验什么"。
 
 > [!quote]
-> "A research problem is the problem or issue that leads to the need for a study."（Creswell & Creswell, 2022, 第5章）
+> "A research problem is the problem or issue that leads to the need for a study."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）
 
 ---
 
 ## 研究问题的来源
 
-[[Research Question|研究问题]]可以来自多种途径（Creswell & Creswell, 2022, 第5章）：
+[[Research Question|研究问题]]可以来自多种途径（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **个人经验与职场经历**：研究者在个人生活或工作中遇到的实际困境
 - **文献中的争论**：学术文献中的争议往往揭示了研究空白、需要解决的对立观点或需要扩展的讨论
@@ -67,7 +67,7 @@ Creswell & Creswell（2022, 第5章）指出了陈述[[Research Question|研究�
 
 ## 在不同研究路径中的呈现
 
-引言中呈现的[[Research Question|研究问题]]类型因研究路径而异（Creswell & Creswell, 2022, 第5章）：
+引言中呈现的[[Research Question|研究问题]]类型因研究路径而异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **[[Quantitative Research|量化研究]]**：问题通常源于理解哪些因素或[[Variable|变量]]影响某一结果。例如，面对员工裁员问题，研究者可能探究哪些因素影响企业缩小规模。量化引言通常以非个人视角、过去时态撰写，以传达客观性。
 - **[[Qualitative Research|质性研究]]**：问题通常通过探索某一概念或现象来理解。质性研究问题是探索性的，当变量、问题和理论尚不明确时使用。Morse（1991）指出质性研究问题的特征包括：概念因缺乏理论和先前研究而"不成熟"；现有理论可能不准确或不适用；需要探索和描述现象并发展理论；现象的本质可能不适合量化测量。

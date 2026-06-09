@@ -31,7 +31,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction|研究引言]]写作模板，其核心思路是在已有文献的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（Creswell & Creswell, 2022, 第5章）。
+> 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction|研究引言]]写作模板，其核心思路是在已有文献的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 之所以称为"缺陷模型"，是因为该模型的一个主要组成部分是确立既往研究中的缺陷（deficiencies）。Creswell 对已发表研究文献的回顾表明，这个结构在社会科学领域尤其流行，反复出现在许多已发表的研究中（尽管不一定按照这里呈现的顺序）。
 
@@ -39,7 +39,7 @@ updated: 2026-05-31
 
 ## 四个组成部分
 
-引言缺陷模型包含四个部分，每个部分通常写成一个段落，整个引言大约两页（Creswell & Creswell, 2022, 第5章）：
+引言缺陷模型包含四个部分，每个部分通常写成一个段落，整个引言大约两页（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 ### 1. 陈述研究问题
 
@@ -72,7 +72,7 @@ updated: 2026-05-31
 
 ### 4. 说明该问题对特定受众的重要性
 
-最后，作者需要向特定受众说明研究的重要性，为研究创建清晰的理据。这一部分通常从三个层面展开（Creswell & Creswell, 2022, 第5章）：
+最后，作者需要向特定受众说明研究的重要性，为研究创建清晰的理据。这一部分通常从三个层面展开（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **对学术研究的贡献**：说明研究如何增加该领域的学术文献，通常列出三到四个理由
 - **对实践的意义**：说明研究如何帮助实践者改善工作方式
@@ -121,7 +121,7 @@ updated: 2026-05-31
 
 ## 与各研究路径的关系
 
-虽然量化、质性和[[Mixed Methods Research|混合方法研究]]的引言在呈现的问题类型上有微妙差异，但缺陷模型作为一个通用模板适用于所有三种路径（Creswell & Creswell, 2022, 第5章）：
+虽然量化、质性和[[Mixed Methods Research|混合方法研究]]的引言在呈现的问题类型上有微妙差异，但缺陷模型作为一个通用模板适用于所有三种路径（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **量化引言**：问题通常涉及理解哪些因素或[[Variable|变量]]影响某一结果；引言可能从非个人视角、以过去时态撰写
 - **质性引言**：问题通常涉及探索某一概念或现象；引言可能以作者的个人经验陈述开头，使用第一人称主观视角

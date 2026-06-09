@@ -35,7 +35,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 协[[Analysis of Variance|方差分析]]（Analysis of Covariance, ANCOVA）是 [[Analysis of Variance|ANOVA]] 的扩展，在比较组间均值差异时控制一个或多个协[[Variable|变量]]（covariates）的影响。它通过统计手段移除协变量对因变量的效应后，比较调整后的组间均值（adjusted means），从而更精确地评估自变量对因变量的独立效应（Creswell & Creswell, 2022, Ch8）。
+> 协[[Analysis of Variance|方差分析]]（Analysis of Covariance, ANCOVA）是 [[Analysis of Variance|ANOVA]] 的扩展，在比较组间均值差异时控制一个或多个协[[Variable|变量]]（covariates）的影响。它通过统计手段移除协变量对因变量的效应后，比较调整后的组间均值（adjusted means），从而更精确地评估自变量对因变量的独立效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -49,7 +49,7 @@ updated: 2026-06-01
 > - 分数分布：正态
 
 > [!note] ANCOVA 的核心逻辑
-> ANCOVA 将因变量的总变异分解为三部分：协变量的效应、自变量的效应（组间差异）、以及残差。通过先移除协变量的效应，ANCOVA 能够减少组内误差方差，提高检验的统计功效，同时校正各组在协变量上的初始差异可能导致的偏差（Creswell & Creswell, 2022, Ch8）。
+> ANCOVA 将因变量的总变异分解为三部分：协变量的效应、自变量的效应（组间差异）、以及残差。通过先移除协变量的效应，ANCOVA 能够减少组内误差方差，提高检验的统计功效，同时校正各组在协变量上的初始差异可能导致的偏差（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体与相近方法
 
@@ -62,7 +62,7 @@ updated: 2026-06-01
 > [!success]
 > - [[Experimental Research|实验研究]]中，各组在前测分数上存在初始差异时，使用前测作为协[[Variable|变量]]进行 ANCOVA 可以更准确地评估处理效应。
 > - [[Quasi-Experimental Designs|准实验设计]]中，由于缺乏[[Random Assignment|随机分配]]，各组可能在关键特征上不等价——ANCOVA 通过统计控制来减少这种选择偏差。
-> - [[Survey Research|调查研究]]中，需要在控制人口学变量（如年龄、收入）后比较不同群体在某结果上的均值差异时（Creswell & Creswell, 2022, Ch8）。
+> - [[Survey Research|调查研究]]中，需要在控制人口学变量（如年龄、收入）后比较不同群体在某结果上的均值差异时（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 

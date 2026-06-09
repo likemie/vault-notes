@@ -75,7 +75,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Simpson, 2017; [[Argument_Biesta_2010_SPE|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -154,10 +154,10 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “我是一个搞测量的人，我是一个统计学家，而这个概念以及实施方面的工作只是我业余的一种爱好。”
-> ("I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side.") (Hattie, in Knudsen, 2017, p.254)
+> ("I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side.") (Hattie, p.254)
 >
 > > “这是有脚本的。精确到每个字。你永远不会知道，而这也是成功的一部分。”
-> ("It is scripted. To the word. You would never know it, and that's part of the success.") (Hattie, in Knudsen, 2017, p.254)
+> ("It is scripted. To the word. You would never know it, and that's part of the success.") (Hattie, p.254)
 >
 
 ## 局限性与批评

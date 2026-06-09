@@ -68,21 +68,21 @@ citation_aliases:
 ## 编者论点
 
 > [!question]
-> 在全球[[Knowledge-Based Economy|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production|知识生产]]、创新学习环境和人力资本的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge|知识地缘政治]]（a new geopolitics of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson & Parreira do Amaral, 2022, p.9)。
+> 在全球[[Knowledge-Based Economy|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production|知识生产]]、创新学习环境和人力资本的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge|知识地缘政治]]（a new geopolitics of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson &, p.9)。
 
 编者的核心关切是：传统上嵌入民族国家框架的大学，正在经历深刻的"脱位"（dislocation）与"再定位"（relocation）——从与民族国家文化科学发展紧密相连的古典形式，转向在全球政治经济[[Champ|场域]]中被重构为企业化、网络化、数字化的全球行动者。
 
-> "教育被赋予生产具有创新关键技能与能力、以及确保持续创新与经济增长的态度与倾向的个体的任务。"(Thompson & Parreira do Amaral, 2022, p.6)
+> "教育被赋予生产具有创新关键技能与能力、以及确保持续创新与经济增长的态度与倾向的个体的任务。"(Thompson &, p.6)
 
-> "古典大学被嵌入与民族国家及其文化和科学发展的紧密联系之中，而 [[Minerva University]] 致力于超越民族国家及其他政治框架的边界，呈现出商业企业的诸多特征。"(Thompson & Parreira do Amaral, 2022, p.7)
+> "古典大学被嵌入与民族国家及其文化和科学发展的紧密联系之中，而 [[Minerva University]] 致力于超越民族国家及其他政治框架的边界，呈现出商业企业的诸多特征。"(Thompson &, p.7)
 
-编者以三个当代案例开篇——[[Minerva University]]、University Industry Interaction Network ([[University Industry Innovation Network|UIIN]]) 的 Thoughtbook 系列、以及大学图书馆向"makerspaces"的空间重构——以展示高等教育在想象、物质空间和主体性层面的多维度转变(Thompson & Parreira do Amaral, 2022, pp.2–6)。
+编者以三个当代案例开篇——[[Minerva University]]、University Industry Interaction Network ([[University Industry Innovation Network|UIIN]]) 的 Thoughtbook 系列、以及大学图书馆向"makerspaces"的空间重构——以展示高等教育在想象、物质空间和主体性层面的多维度转变(Thompson &, pp.2–6)。
 
 
 ## 全书结构
 
 > [!abstract]
-> 编者将 14 章组织为三部分，从宏观想象到制度互动再到主体性生产，逐层展开对[[Geopolitics of Knowledge|知识地缘政治]]的考察(Thompson & Parreira do Amaral, 2022, pp.12–13)：
+> 编者将 14 章组织为三部分，从宏观想象到制度互动再到主体性生产，逐层展开对[[Geopolitics of Knowledge|知识地缘政治]]的考察(Thompson &, pp.12–13)：
 
 **Part I — Imaginaries, Spaces, Tensions（Ch 2–7）**
 探讨驱动地缘政治想象的不同想象、空间和张力，审视科学和教育的角色与价值化如何被框定和整合进政治经济创新项目。涵盖[[Knowledge-Based Economization|知识经济化]]的空间维度、高等教育的想象与转型、晚期现代性的教育愿景、[[Geopolitics of Knowledge|知识地缘政治]]的双面性、亚洲崛起的地缘政治影响，以及感知的创造性张力与整体知识实践路径。

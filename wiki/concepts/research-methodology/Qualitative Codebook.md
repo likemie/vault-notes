@@ -32,7 +32,7 @@ updated: 2026-06-01
 
 ## 核心要素
 
-一份[[Coding in Qualitative Research|编码]]手册通常包含以下信息（Creswell & Creswell, 2022, Ch9）：
+一份[[Coding in Qualitative Research|编码]]手册通常包含以下信息（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 - 编码列表
 - 每个编码的标签（code label）
 - 每个编码的简要定义
@@ -40,7 +40,7 @@ updated: 2026-06-01
 - 何时使用该编码以及何时不使用
 - 一个说明该编码的引语示例
 
-编码手册可以在研究过程中演变和变化。对于有明确理论需要检验的研究，建议先从理论出发制定初步的编码手册用于数据编码，然后允许编码手册根据数据分析中发现的信息进行发展和变化（Creswell & Creswell, 2022, Ch9）。
+编码手册可以在研究过程中演变和变化。对于有明确理论需要检验的研究，建议先从理论出发制定初步的编码手册用于数据编码，然后允许编码手册根据数据分析中发现的信息进行发展和变化（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
-编码手册在健康科学领域尤为流行，因为该领域倾向于使用基于检验理论的预设编码方式（Creswell & Creswell, 2022, Ch9）。
+编码手册在健康科学领域尤为流行，因为该领域倾向于使用基于检验理论的预设编码方式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 

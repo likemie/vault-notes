@@ -28,7 +28,7 @@ updated: 2026-05-31
 > [!info]
 > 引言（Introduction）是期刊文章、学位论文或学术研究中的第一部分文字，为整个研究项目搭建舞台。Wilkinson（1991）将其定义为"为读者提供研究报告背景信息的部分，其目的是为研究建立框架，使读者能够理解该研究如何与其他研究相关联"（p.96；引自 Creswell & Creswell, 2022, 第5章）。
 
-引言之所以需要特别关注，是因为它是研究或研究方案中最先被阅读的段落。它必须在短短几页内完成多项任务：创造读者对主题的兴趣、确立引导研究的问题、将研究置于学术文献的更大语境中，以及触及目标受众（Creswell & Creswell, 2022, 第5章）。
+引言之所以需要特别关注，是因为它是研究或研究方案中最先被阅读的段落。它必须在短短几页内完成多项任务：创造读者对主题的兴趣、确立引导研究的问题、将研究置于学术文献的更大语境中，以及触及目标受众（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 > [!quote]
 > "The introduction is the part of the paper that provides readers with the background information for the research reported in the paper. Its purpose is to establish a framework for the research, so that readers can understand how it is related to other research."（Wilkinson, 1991, p.96）
@@ -65,7 +65,7 @@ Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Rese
 
 ## 不同研究路径中的引言差异
 
-虽然所有引言都遵循类似的基本模式（宣布问题并论证研究必要性），但呈现的问题类型因研究路径而异（Creswell & Creswell, 2022, 第5章）：
+虽然所有引言都遵循类似的基本模式（宣布问题并论证研究必要性），但呈现的问题类型因研究路径而异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 | 维度 | 量化引言 | 质性引言 | [[Mixed Method and Multi-method Research\|混合方法]]引言 |
 |---|---|---|---|

@@ -93,14 +93,14 @@ citation_aliases:
 ## 关键引用
 
 > [!quote] 关键引用
-> > "在传统模型中，教学被理解为向所有学生交付适当的年级水平课程。教师的角色是交付相关课程；学生的工作是学习教师所教的内容；评估的角色是确定学生学到了多少并按此分级"(Masters, cited in Sarbiewska, 2019, p.119)
+> > "在传统模型中，教学被理解为向所有学生交付适当的年级水平课程。教师的角色是交付相关课程；学生的工作是学习教师所教的内容；评估的角色是确定学生学到了多少并按此分级"(Masters, p.119)
 >
-> > "Hattie 的方法在统计上并不复杂，可以概括为计算平均值和标准差，而后者他并未真正使用"(Bergeron, cited in Sarbiewska, 2019, p.121)
+> > "Hattie 的方法在统计上并不复杂，可以概括为计算平均值和标准差，而后者他并未真正使用"(Bergeron, p.121)
 >
 > > “VL（可见的学习）属于[[Radical Constructivism|激进建构主义]]范式，因此[[Constructivist Paradigm|建构主义]]的问题与哈蒂（Hattie）的教学概念直接相关，这导致了教学本质的双重崩溃。”
-> ("VL belongs to the paradigm of radical constructivism, and therefore the problems of constructivism are directly related to Hattie’s concept of teaching, which leads to a double collapse of the essence of teaching.")(Rømer, cited in Sarbiewska, 2019, p.121–122)
+> ("VL belongs to the paradigm of radical constructivism, and therefore the problems of constructivism are directly related to Hattie’s concept of teaching, which leads to a double collapse of the essence of teaching.")(Rømer, p.121–122)
 >
-> > "分享权力和学习责任，教师将学生置于实现我们对他们的愿景的道路上，使他们有能力为我们的国家确保可持续的社会、文化、经济和环境未来"(NZ Ministry of Education, cited in Sarbiewska, 2019, p.125)
+> > "分享权力和学习责任，教师将学生置于实现我们对他们的愿景的道路上，使他们有能力为我们的国家确保可持续的社会、文化、经济和环境未来"(NZ Ministry of Education, p.125)
 
 ## 局限性与批评
 

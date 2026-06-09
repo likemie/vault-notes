@@ -32,7 +32,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 编码（Coding）是质性数据分析中将文本或图像数据组织起来的过程：将数据拆分为语块（chunks），用一个代表类别的词写在页边空白处（Rossman & Rallis, 2012）。编码涉及将文本数据或图片分段，将句子（或段落）或图像归入不同类别，并用一个术语——通常基于参与者本人的语言（称为 in vivo 编码）——标注这些类别（Creswell & Creswell, 2022, Ch9, p.207）。
+> 编码（Coding）是质性数据分析中将文本或图像数据组织起来的过程：将数据拆分为语块（chunks），用一个代表类别的词写在页边空白处（Rossman & Rallis, 2012）。编码涉及将文本数据或图片分段，将句子（或段落）或图像归入不同类别，并用一个术语——通常基于参与者本人的语言（称为 in vivo 编码）——标注这些类别（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.207）。
 
 > [!quote]
 > "Coding is the process of organizing the data by bracketing chunks (or text or image segments) and writing a word representing a category in the margins"（Rossman & Rallis, 2012; 引自 Creswell & Creswell, 2022, Ch9, p.207）
@@ -47,7 +47,7 @@ updated: 2026-06-01
 
 > [!abstract] 表9.4：Tesch 编码流程八步骤（Tesch's Eight Steps in the Coding Process）
 >
-> Tesch（1990）提出形成编码和主题的八个标准步骤（Creswell & Creswell, 2022, Ch9）：
+> Tesch（1990）提出形成编码和主题的八个标准步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 >
 > | 步骤 | 操作 | 说明 |
 > |---|---|---|
@@ -63,7 +63,7 @@ updated: 2026-06-01
 ### 编码的四种类型
 
 > [!info] 编码类型
-> （Creswell & Creswell, 2022, Ch9）
+> （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 >
 > | 类型 | 特征 | 示例 |
 > |---|---|---|
@@ -75,7 +75,7 @@ updated: 2026-06-01
 ### 视觉图像作为编码
 
 > [!note]
-> 视觉数据（照片、视频、电影、绘画）在[[Qualitative Research|质性研究]]中频繁使用。参与者可能被要求拍摄所见或画出所研究的现象。使用视觉图像面临的挑战：图像可能反映文化趋势而非个体视角；匿名性难以保证；使用视觉数据需获得许可以尊重提供者的隐私（Creswell & Creswell, 2022, Ch9, p.211）。
+> 视觉数据（照片、视频、电影、绘画）在[[Qualitative Research|质性研究]]中频繁使用。参与者可能被要求拍摄所见或画出所研究的现象。使用视觉图像面临的挑战：图像可能反映文化趋势而非个体视角；匿名性难以保证；使用视觉数据需获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.211）。
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-06-01
 ## 局限性
 
 > [!warning]
-> - 手动编码极为耗时，即使只有少数参与者的数据也需要大量时间和精力（Creswell & Creswell, 2022, Ch9, p.206）
+> - 手动编码极为耗时，即使只有少数参与者的数据也需要大量时间和精力（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.206）
 > - 编码的一致性（信度）需要特别关注——不同编码者可能对同一段文本给出不同编码，应通过 [[Intercoder Agreement|编码者间一致性]] 检验来确保信度（Miles & Huberman, 1994 建议 ≥80%）
 > - 预设编码虽有结构优势，但如果过于僵化，可能限制研究者对数据中新涌现模式的发现
 
@@ -98,7 +98,7 @@ updated: 2026-06-01
 ## 使用此方法的研究
 
 > [!example]
-> - Asmussen & Creswell（1995）对校园枪击案反应的[[Qualitative Research|质性研究]]中，编码发现了"再触发"这一非预期主题，展示了涌现式编码如何揭示参与者经验中被忽视的维度（Creswell & Creswell, 2022, Ch9）
+> - Asmussen & Creswell（1995）对校园枪击案反应的[[Qualitative Research|质性研究]]中，编码发现了"再触发"这一非预期主题，展示了涌现式编码如何揭示参与者经验中被忽视的维度（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 
 ---
 

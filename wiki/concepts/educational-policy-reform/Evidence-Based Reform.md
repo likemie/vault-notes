@@ -287,7 +287,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 - **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]**：问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
 - **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：从制度逻辑出发——RCT 的"优先地位"并非认识论优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
 
-**目前状态**：方法多元论的呼声在学术界广泛存在(Cowen, 2019; [[Argument_Biesta_2010_SPE|Biesta, 2010]]; Hammersley, 2005)，但 ESSA 证据标准的法律效力已赋予 RCT 制度化的优先地位。
+**目前状态**：方法多元论的呼声在学术界广泛存在([[Argument_Cowen_2019_ERE|Cowen, 2019]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]]; Hammersley, 2005)，但 ESSA 证据标准的法律效力已赋予 RCT 制度化的优先地位。
 
 ### 法语比利时案例：证据层级的语境化妥协
 

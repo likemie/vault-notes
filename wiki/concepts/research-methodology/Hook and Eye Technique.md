@@ -26,7 +26,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> Hook and Eye（钩眼）技术是 Wilkinson (1991) 提出的一种检查[[Coherence in Writing|写作连贯性]]（coherence）的实用方法。研究者审视已写好的文本，圈出每句话中的关键词（称为"eye"），然后用线将前后句子的关键词连接起来（称为"hook"）。连接顺畅表明连贯性好；连接困难则揭示该处缺乏连贯，需要添加过渡词、短语或句子来建立清晰的联系（Creswell & Creswell, 2022, 第4章）。
+> Hook and Eye（钩眼）技术是 Wilkinson (1991) 提出的一种检查[[Coherence in Writing|写作连贯性]]（coherence）的实用方法。研究者审视已写好的文本，圈出每句话中的关键词（称为"eye"），然后用线将前后句子的关键词连接起来（称为"hook"）。连接顺畅表明连贯性好；连接困难则揭示该处缺乏连贯，需要添加过渡词、短语或句子来建立清晰的联系（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 这一技术的逻辑前提是：连贯的写作中，每句话都应是前一句话的逻辑延续（Zinsser, 1983; 引自 Creswell & Creswell, 2022, 第4章）。钩眼技术将这种延续关系可视化，使抽象的连贯概念变为可以逐句检查的具象操作。
 
