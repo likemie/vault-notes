@@ -97,7 +97,7 @@ issuing_organization: ""
 > [!logic-map] 核心论证逻辑链
 > ```mermaid
 > flowchart LR
->     A["背景<br/>女王与灰姑娘<br/>双重隐喻"]
+>        A["背景<br/>女王与灰姑娘<br/>双重隐喻"]
 >     B["第一步<br/>线性模型<br/>起源与政策陷阱"]
 >     C["第二步<br/>链式模型<br/>理论突破与局限"]
 >     D["第三步<br/>多通道互动学习模型<br/>三个核心创新"]
