@@ -44,9 +44,9 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-21
-updated: '2026-06-08'
+updated: '2026-06-09'
 year: 2024
-doi: ""
+doi: "10.1080/03050068.2023.2273641"
 citation_aliases:
   - "Yu & Zhao, 2024"
   - "Yu & Zhao (2024)"
@@ -66,6 +66,12 @@ citation_aliases:
 >
 > 这个谜题可以还原为一个更具体的场景：官方教科书花了三十年告诉所有学生”儒家是中国文化的核心”。但对一个每天在清真寺做礼拜的回族学生、或一个在转经筒旁长大的藏族学生而言，”中国文化核心”这个说法到底意味着什么？这些学生的声音从未被认真听取过，填补这一盲区正是追问的起点。
 
+> [!summary]+ 一页读懂
+> - **对象**：中国中小学必修课程中的儒家叙事，以及非汉少数民族和宗教背景大学生对儒家的理解。
+> - **对照**：教科书代表国家批准的[[Official Knowledge|官方知识]]，学生访谈代表文化边缘位置上的经验性反思。
+> - **张力**：官方叙事把儒家推向“中华文化核心”，边缘学生则把它降回中国多元文化和世界观之一。
+> - **结论**：儒家复兴在学校课程中强化了汉文化中心与少数民族边缘之间的文化等级，反而增加文化疏离。
+
 ---
 
 ## 理论框架
@@ -83,6 +89,11 @@ citation_aliases:
 > - **教科书分析**：抽取六门中小学必修科目（语文、英语、政治、地理、历史、历史与社会）共217册教科书。样本涵盖人民教育出版社123册及东南地区主要出版社94册，出版年份跨越2001至2016年。批判话语分析 (critical discourse analysis) 构成了主要方法。分析过程首先定位[[Confucius|孔子]]、[[Mencius|孟子]]、[[Zhu Xi|朱熹]]及“儒家”等关键术语，随后考察上述术语在文本中的阐释与意义赋予。
 > - **[[Qualitative Interview|深度访谈]]（In-depth Interview）**：2017年采用半结构化形式面对面访谈37名非汉少数民族及宗教背景大学生。样本覆盖15个民族，约65%具备宗教信仰（佛教12人、伊斯兰教9人、基督教1人、其他传统2人）。受访者中86%入读纯汉语课程（民考汉），14%曾就读双语学校（民考民）。最大变异抽样 (Miles, Huberman, & Saldana 2014) 确保了民族、宗教、性别和学科背景的多样性考察。
 > - **叙事分析**：分类内容取向 (categorical-content approach) 指导了文本处理，独立的表述被提取、分类并归入相应类别。
+
+> [!note]- 样本与材料快照
+> - 教科书覆盖六门必修科目，语文、政治、历史及历史与社会承载了最集中的儒家叙事，英语和地理只零散出现相关内容 (p.65)。
+> - 访谈对象来自西北与东南两所大学，其中西北样本更多，反映少数民族人口在该区域更集中的现实 (p.65)。
+> - 访谈均以普通话进行，原始叙述由研究者翻译为英文呈现。问题围绕学生在中小学阶段学到的儒家知识、教师态度、儒家在现代社会的角色，以及儒家与中国文化的关系 (p.66)。
 
 ---
 
@@ -128,6 +139,7 @@ citation_aliases:
 > [!success] 排他性的[[Symbolic Boundary|象征边界]]
 > 知识建构操作累积形成了一个不容置疑的信息，即中国文化等同于儒家文化。教科书合法化了象征边界（[[Symbolic Boundary]]），界定了”什么算中国文化”的排他性标准。
 
+> [!note]- 判读提示：从组成部分滑向等价物
 > 这种操作的排他性在于一个关键措辞的滑动：从”儒家是中国文化的重要组成部分”滑向了”中国文化就是儒家”。二者的区别相当于：”法国菜是欧洲美食的重要组成”与”欧洲美食就是法国菜”。后者把其他文化传统从”中国文化”的合法性边界中彻底清除了。
 
 **线索B：将非汉文化塑造为汉文化的学习者以建构文化等级**
@@ -143,6 +155,7 @@ citation_aliases:
 > [!success] 师生隐喻的支配逻辑
 > 模板的深层逻辑预设了非汉等同于落后的前提，将学习儒家等同于文明化并最终融入中华文化。“学习”动作将汉定位为教师，非汉定位为学生，强行固定了教学关系的不平等。相同的叙事模板还跨越时代与地域，被广泛应用于藏族国王松赞干布（约617至650年）和满族皇帝康熙（1654至1722年）的描述中，强行抹平了历史与民族差异。
 
+> [!example]- 课堂情境：松赞干布如何被写成汉文化学徒
 > 设想一位藏族学生在历史课上读到关于松赞干布的叙述。教科书反复强调松赞干布"学习汉人方式、研习儒家经典"，将一位藏族领袖塑造成了汉文化的模范学徒。这位学生的祖先被永远固定在了"学习者"的位置上，而"老师"的身份始终属于汉文化。这种叙事每天都在悄无声息地塑造着谁属于文化中心、谁居于文化边缘的权力地图。
 
 ---
@@ -169,6 +182,7 @@ citation_aliases:
 > [!success] 跨文化视角的启示
 > 这些跨文化视角清晰地划定了儒学作为一种世界观的边界，暴露了官方叙事声称儒家为中国文化”核心”时对其他文化传统的粗暴压抑。
 
+> [!tip]- 学生声音如何改写问题
 > 当一位藏族学生说”儒家很少考虑世界上其他生灵”、一位穆斯林学生说”儒家无法完整解释人从生到死的经历”时，她们实际上在指出儒家的边界：在它停止回答的地方，其他世界观开始说话。多元文化教育如果只是让边缘学生”也学一点”主流文化，而不认真对待这些来自不同世界观的提问，那它不过是一种更精致的文化支配。
 
 ---
@@ -189,6 +203,7 @@ citation_aliases:
 
 中国教育范式朝向更多元包容方向转变的规范性主张随之确立。儒学教学亟待容纳更世界主义的解读视角。2017年以来的政治与教育发展实际走向了更民族主义、更同化主义和更汉人中心的相反路径。
 
+> [!warning]- 反讽机制：越凝聚，越疏离
 > 政府越是用力推广儒家作为"凝聚中华民族"的文化纽带，那些本应被凝聚的边缘群体就越感到被排斥，这是一幅具有深层反讽意味的图景。用强制推行的方式去建立文化认同，本质上就是一种自毁。"你是中华文化的一部分"——当这句话以强制的方式说出时，本身就变成了"你不是"的证据。
 
 ---
@@ -206,32 +221,29 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] Quote
-> "儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级。"(p.59)
->
-> > “对儒家传统的这种解释是一种垄断性的、占主导地位的话语，它强化了不同文化群体之间的文化等级制度。”
-> ("The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.") (p.59)
+> [!quote] 官方知识的文化等级效应
+> 对儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级 (p.59)。
+> Original: The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.
 >
 > ---
 >
-> "学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统正可以从其他文化的批判反思中获益。"(p.59)
->
-> > “学生们似乎将儒家传统仅仅视为中国的一种文化和世界观，这种文化和世界观可以从其他文化的批判性反思中获益。”
-> ("The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.") (p.59)
+> 学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统可以从其他文化的批判性反思中获益 (p.59)。
+> Original: The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.
 >
 > ---
 >
-> "文化排斥延续了少数民族的不平等。"（Yi 2008, p.1, p.62）
->
-> > “文化排斥使少数民族的不平等永久化。”
-> ("Cultural exclusion perpetuates ethnic minority inequality.") (Yi 2008, p.1, p.62)
+> 文化排斥延续了少数民族的不平等 (Yi 2008, p.1, cited on p.62)。
+> Original: Cultural exclusion perpetuates ethnic minority inequality.
 >
 > ---
 >
-> "官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离。"(p.71)
->
-> > “占主导地位的官方版儒家思想，将其作为庞大单一的汉族文化的核心，要求所有其他少数民族尊崇和模仿，因此往往会煽动文化分裂和异化。”
-> ("The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.") (p.71)
+> 官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离 (p.71)。
+> Original: The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.
+
+> [!note]- 可继续摘录的访谈原句
+> - 东乡族穆斯林学生关于宗教与儒家的比较，可用于补充“终极关怀缺失”段落 (p.70)。
+> - 汉族佛教徒学生关于佛教“解放灵魂”与儒家“道德约束”的比较，可用于补充“灵性关怀”段落 (p.70)。
+> - 土家族女学生关于儒家男权结构的批评，可用于补充“性别等级”段落 (p.69)。
 
 ---
 
