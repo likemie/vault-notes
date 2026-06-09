@@ -1664,7 +1664,7 @@ Total entries: **1227**
 > - [[Argument_Hattie_2015_SOTLP]] — 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
 
 > [!summary]- School Leadership & Management (2)
-> - [[Argument_Eacott_2017_SLM]] — 以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为“澳大利亚学校领导力的悲剧
+> - [[Argument_Eacott_2017_SLM]] — 通过 Callahan 的历史效率崇拜视角，三步骤论证澳大利亚学校领导力对 Hattie 品牌和可见学习的盲目接受，指出其本质上是向泰勒制科学管理的倒退并构成学校领导力的悲剧
 > - [[Argument_Hattie_2017_SLM]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
 
 > [!summary]- Sociology of Education (1)
