@@ -1,20 +1,20 @@
 ---
 title: Science, The Endless Frontier 1945
 aliases:
-  - "Science, The Endless Frontier"
-  - "科学无尽的前沿"
-  - "Bush report"
-  - "Vannevar Bush report"
-summary: "1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架"
+  - Science, The Endless Frontier
+  - Bush report
+  - Vannevar Bush report
+  - 无尽的前沿
+summary: 1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架
 type: fact
 subtype: event
-region: "US"
+region: US
 tags:
-  - "region/us"
-  - "level/higher-education"
-  - "policy/science-policy"
-  - "theme/university-industry-collaboration"
-  - "theme/innovation"
+  - region/us
+  - level/higher-education
+  - policy/science-policy
+  - theme/university-industry-collaboration
+  - theme/innovation
 related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
