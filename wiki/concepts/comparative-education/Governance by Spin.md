@@ -15,7 +15,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Brazilian Secondary Education Curriculum Reform 1998]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
 confidence: medium

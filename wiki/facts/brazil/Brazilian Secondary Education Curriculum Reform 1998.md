@@ -14,11 +14,17 @@ tags:
   - theme/competency-based-education
   - region/latin-america
   - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Encyclopaedism]]"
+  - "[[Floating Signifier]]"
+  - "[[Governance by Spin]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
 confidence: medium
@@ -49,7 +55,7 @@ updated: 2026-06-09
 
 课程文件围绕学生必须发展的基本能力和技能来组织，包括创造力、适应性、学会学习、问题解决，分布在三大领域：
 
-- **语言、编码及其技术**（Languages, Codes and their Technologies）
+- **语言、[[Coding in Qualitative Research|编码]]及其技术**（Languages, Codes and their Technologies）
 - **自然科学、数学及其技术**（Natural Sciences, Mathematics and their Technologies）
 - **人文科学及其技术**（Human Sciences and their Technologies）
 
@@ -57,7 +63,7 @@ updated: 2026-06-09
 
 ### 核心口号
 
-**跨学科工作**（interdisciplinary work）成为改革的核心口号，被用来论证将学校知识从此前的 12–14 门独立学科重组为三大领域的合理性。该口号同时指向对百科全书主义的批判和对新型学校知识的定义。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
+**跨学科工作**（interdisciplinary work）成为改革的核心口号，被用来论证将学校知识从此前的 12–14 门独立学科重组为三大领域的合理性。该口号同时指向对[[Encyclopaedism|百科全书主义]]的批判和对新型学校知识的定义。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
 
 ### 核心矛盾
 

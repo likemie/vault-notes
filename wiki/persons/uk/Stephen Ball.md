@@ -21,7 +21,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education International]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Ball_2008_SR]]"
@@ -40,7 +41,7 @@ updated: '2026-06-08'
 
 ### 内生与外生私有化（Ball & Youdell, 2008）
 
-Ball 与 Youdell（2008）在提交给 Education International 的报告中识别了全球公立学校政策的两种私有化趋势：内生私有化（学校变得更像企业）和外生私有化（将私营部门带入公立学校）。这一区分成为分析全球[[Endogenous and Exogenous Privatisation|教育私有化]]的核心概念框架([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])。详见 [[Endogenous and Exogenous Privatisation]]。
+Ball 与 Youdell（2008）在提交给 [[Education International]] 的报告中识别了全球公立学校政策的两种私有化趋势：内生私有化（学校变得更像企业）和外生私有化（将私营部门带入公立学校）。这一区分成为分析全球[[Endogenous and Exogenous Privatisation|教育私有化]]的核心概念框架([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])。详见 [[Endogenous and Exogenous Privatisation]]。
 
 ### 教育政策制定的五重语境（Ball, 1994）
 

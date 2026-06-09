@@ -19,6 +19,7 @@ related_persons:
   - "[[Jean-François Lyotard]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Education International]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"

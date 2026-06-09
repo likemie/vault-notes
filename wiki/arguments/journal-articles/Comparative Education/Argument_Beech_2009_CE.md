@@ -29,6 +29,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
   - "[[Governance by Spin]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Technical Rationality]]"
   - "[[Theoretical Perspective]]"
@@ -43,8 +44,6 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Education International]]"
-  - "[[Brazilian Secondary Education Curriculum Reform 1998]]"
-  - "[[Bolivian Education Reform 1994]]"
 related_arguments: []
 sources:
   - "[[Beech_2009_CE]]"

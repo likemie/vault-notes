@@ -12,6 +12,7 @@ tags:
   - theme/teacher-unions
   - region/global
 related_concepts:
+  - "[[International Education]]"
   - "[[Performativity]]"
   - "[[Global Policy Space]]"
   - "[[Pragmatic Paradigm]]"
@@ -35,7 +36,7 @@ updated: 2026-06-09
 ## 组织概况
 
 > [!info]
-> 国际教育协会（Education International，简称 EI）是全球性的教师工会网络组织，总部位于比利时布鲁塞尔。据 Beech（2009）引用其官网数据，EI 在 172 个国家和地区拥有 401 个成员组织。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]]
+> [[International Education|国际教育]]协会（Education International，简称 EI）是全球性的教师工会网络组织，总部位于比利时布鲁塞尔。据 Beech（2009）引用其官网数据，EI 在 172 个国家和地区拥有 401 个成员组织。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]]
 
 > [!abstract] 核心使命
 > EI 的总体修辞强调保护和促进公共免费教育（public free education）及机会平等。其在全球教育政策话语中通常持反新自由主义（anti-neoliberal）立场，反对教育市场化、私有化和将教育视为商品的政策趋势。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]]
@@ -64,7 +65,7 @@ EI 与 IMF / 世界银行的联盟表明，[[Global Policy Space|全球政策空
 ## 相关概念／理论
 
 > [!tip]
-> - [[Performativity|操演性]] — EI 与 IMF 和世界银行的悖论性联盟是操演性驱动联盟行为的典型案例：实用主义的联盟逻辑压倒意识形态一致性。
-> - [[Global Policy Space|全球政策空间]] — EI 是该空间中多元行动者的重要组成部分，代表了全球公民社会和劳工组织在教育政策话语中的参与。
+> - [[Performativity|操演性]] — EI 与 IMF 和世界银行的悖论性联盟是操演性驱动联盟行为的典型案例：[[Pragmatic Paradigm|实用主义]]的联盟逻辑压倒意识形态一致性。
+> - [[Global Policy Space|全球政策空间]] — EI 是该空间中多元行动者的重要组成部分，代表了[[Global Citizenship|全球公民]]社会和劳工组织在教育政策话语中的参与。
 > - [[Pragmatic Paradigm|实用主义范式]] — EI 的联盟决策体现了实用主义压倒意识形态的全球政策空间政治运作逻辑。
-> - [[Global Citizenship|全球公民社会]] — EI 作为全球性的工会网络，是多边组织在"全球公民社会"框架下协作的对象之一。[[Argument_Beech_2009_CE|(Beech, 2009, p. 351)]]
+> - 全球公民社会 — EI 作为全球性的工会网络，是多边组织在"全球公民社会"框架下协作的对象之一。[[Argument_Beech_2009_CE|(Beech, 2009, p. 351)]]

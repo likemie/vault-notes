@@ -24,6 +24,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Education International]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
   - "[[Teach First New Zealand]]"

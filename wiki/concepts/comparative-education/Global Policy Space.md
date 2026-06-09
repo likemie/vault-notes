@@ -24,6 +24,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[Education International]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
 confidence: medium

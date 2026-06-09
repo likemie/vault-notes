@@ -13,7 +13,10 @@ tags:
   - theme/intercultural-bilingual-education
   - region/latin-america
   - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Floating Signifier]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Educated Identity]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -63,7 +66,7 @@ updated: 2026-06-09
 
 - **玻利维亚**：普遍性的反殖民多数群体话语，将原住民文化纳入对每一个儿童的核心教育
 - **阿根廷国家层面**：原住民从不可见到被认定为局部问题，仅通过少数专门项目处理
-- **布宜诺斯艾利斯郊区**：被转译为尊重贫困，一个可能产生有害实践效果的解释
+- **布宜诺斯艾利斯郊区**：被[[Transfer Translation Transformation|转译]]为尊重贫困，一个可能产生有害实践效果的解释
 
 [[Argument_Beech_2009_CE|(Beech, 2009, pp. 359–361)]]这一三重对照说明：同一全球话语的地方化效果完全取决于接收语境的社会、政治和物质特征。
 

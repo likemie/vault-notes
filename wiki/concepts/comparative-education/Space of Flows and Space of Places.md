@@ -23,7 +23,8 @@ related_theories:
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education International]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
 confidence: medium
