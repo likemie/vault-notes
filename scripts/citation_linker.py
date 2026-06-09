@@ -85,17 +85,31 @@ def load_lookup() -> dict[str, dict[str, Any]]:
     data = json.loads(CITATION_FULL_JSON.read_text(encoding="utf-8"))
     items = data.get("items", data) if isinstance(data, dict) else {}
     lookup: dict[str, dict[str, Any]] = {}
+
+    def add_key(alias: str, entry: dict[str, Any]) -> None:
+        lookup[alias] = entry
+        lookup[normalize_citation_alias(alias)] = entry
+
     if isinstance(items, dict):
         for alias, entry in items.items():
             if isinstance(entry, dict):
-                lookup[str(alias)] = entry
+                add_key(str(alias), entry)
                 for extra in entry.get("aliases") or []:
-                    lookup[str(extra)] = entry
+                    add_key(str(extra), entry)
     return lookup
 
 
+def normalize_citation_alias(alias: str) -> str:
+    alias = re.sub(r"\s+", " ", alias).strip()
+    return re.sub(r"\s+(?:&|and)\s+", " & ", alias)
+
+
 def normalize_author(author: str) -> str:
-    return re.sub(r"\s+", " ", author.replace(" and ", " & ")).strip()
+    return normalize_citation_alias(author)
+
+
+def normalize_display_author(author: str) -> str:
+    return re.sub(r"\s+", " ", author).strip()
 
 
 def normalize_locator(locator: str) -> str:
@@ -141,7 +155,8 @@ def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], st
         m = PAREN_ITEM_RE.match(item)
         if not m:
             return None
-        author = normalize_author(m.group("author"))
+        display_author = normalize_display_author(m.group("author"))
+        author = normalize_author(display_author)
         year = m.group("year").strip()
         locator = normalize_locator(m.group("locator") or "")
         key = f"{author}, {year}"
@@ -150,7 +165,7 @@ def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], st
             missing.append(key)
             linked_parts.append(item)
             continue
-        linked_parts.append(link_target(entry, f"{author}, {year}{locator}"))
+        linked_parts.append(link_target(entry, f"{display_author}, {year}{locator}"))
         changed = True
     if not changed:
         return None
@@ -170,7 +185,8 @@ def link_parenthetical(text: str, lookup: dict[str, dict[str, Any]], stats: dict
 
 def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     def repl(m: re.Match[str]) -> str:
-        author = normalize_author(m.group("author"))
+        display_author = normalize_display_author(m.group("author"))
+        author = normalize_author(display_author)
         year = m.group("year").strip()
         locator = normalize_locator(m.group("locator") or "")
         key = f"{author} ({year})"
@@ -179,7 +195,7 @@ def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str
             missing.append(key)
             return m.group(0)
         stats["linked_narrative"] += 1
-        return link_target(entry, f"{author} ({year}{locator})")
+        return link_target(entry, f"{display_author} ({year}{locator})")
     return NARRATIVE_RE.sub(repl, text)
 
 

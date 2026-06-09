@@ -31,7 +31,7 @@ updated: 2026-06-09
 ## 定义
 
 > [!info] 核心定义
-> 舆论操控（spin），或称印象管理（impression management），是 Gewirtz、Dickson 和 Power（2004）提出的治理概念，指试图管理、遏制或使与政策制定和实施相关的潜在争议不可见的治理过程。其独特之处在于双重运作机制。表层上它控制公众如何阅读和解读政策。深层上它本身就在构建政策：为使政策可以被操控，政策话语需要先被塑造成兼具灵活性和适应性的形态。[[Argument_Beech_2009_CE|(Beech, 2009, p. 357)]]
+> 舆论操控（spin），或称印象管理（impression management），是 Gewirtz, Dickson & Power（2004）提出的治理概念，指试图管理、遏制或使与政策制定和实施相关的潜在争议不可见的治理过程。其独特之处在于双重运作机制。表层上它控制公众如何阅读和解读政策。深层上它本身就在构建政策：为使政策可以被操控，政策话语需要先被塑造成兼具灵活性和适应性的形态。[[Argument_Beech_2009_CE|(Beech, 2009, p. 357)]]
 
 > [!quote]
 > "Spin, or impression management are 'processes of governance which attempt to manage, contain, or render invisible potential controversies that relate to policy development and implementation' (Gewirtz, Dickson and Power 2004, 98)." [[Argument_Beech_2009_CE|(Beech, 2009, p. 357)]]
@@ -41,7 +41,7 @@ updated: 2026-06-09
 ## 概念演变
 
 > [!note]
-> 该概念由 Gewirtz、Dickson 和 Power（2004）在分析英格兰新工党政府教育行动区政策时系统提出。[[Argument_Beech_2009_CE|Beech (2009)]]将其纳入全球—国家—实践三层空间[[Analytic Framework|分析框架]]，论证舆论操控既是国家层面的治理技术，也解释了国家政策话语为何保留并强化全球话语的某些特征（可塑性、不兼容声明的组合）。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 357–358)]]
+> 该概念由 Gewirtz, Dickson & Power（2004）在分析英格兰新工党政府教育行动区政策时系统提出。[[Argument_Beech_2009_CE|Beech (2009)]]将其纳入全球—国家—实践三层空间[[Analytic Framework|分析框架]]，论证舆论操控既是国家层面的治理技术，也解释了国家政策话语为何保留并强化全球话语的某些特征（可塑性、不兼容声明的组合）。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 357–358)]]
 
 ---
 

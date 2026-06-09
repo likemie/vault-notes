@@ -70,14 +70,12 @@ def maybe_reexec_with_vault_venv() -> None:
     if not venv_python.exists():
         return
 
-    current = Path(sys.executable).resolve()
-    target = venv_python.resolve()
-    if current == target:
+    if Path(sys.prefix).resolve() == root.resolve() / ".venv":
         return
 
     env = os.environ.copy()
     env["VAULT_LINT_VENV_REEXEC"] = "1"
-    os.execve(str(target), [str(target), str(Path(__file__).resolve()), *sys.argv[1:]], env)
+    os.execve(str(venv_python), [str(venv_python), str(Path(__file__).resolve()), *sys.argv[1:]], env)
 
 
 maybe_reexec_with_vault_venv()
@@ -442,6 +440,77 @@ def split_frontmatter(text: str) -> Tuple[Optional[str], str, int]:
     return fm, text[after:], body_start
 
 
+def yaml_quote_is_escaped(value: str, idx: int, quote: str) -> bool:
+    if quote == '"':
+        backslashes = 0
+        j = idx - 1
+        while j >= 0 and value[j] == "\\":
+            backslashes += 1
+            j -= 1
+        return backslashes % 2 == 1
+    if quote == "'":
+        return (idx + 1 < len(value) and value[idx + 1] == "'") or (idx > 0 and value[idx - 1] == "'")
+    return False
+
+
+def suggest_yaml_quote_fix(key: str, value: str, quote: str) -> str:
+    inner = value[1:-1] if len(value) >= 2 and value.endswith(quote) else value[1:]
+    other = "'" if quote == '"' else '"'
+    if other not in inner:
+        return f"Suggested fix: {key}: {other}{inner}{other}"
+    if quote == '"':
+        return f"Suggested fix: escape inner double quotes as \\\" or wrap the value in single quotes if it has no apostrophes."
+    return "Suggested fix: double inner single quotes as '' or wrap the value in double quotes if it has no double quotes."
+
+
+def check_frontmatter_raw_yaml_style(path: Path, fm: str, issues: List[Issue]) -> None:
+    """Catch common Quartz-breaking YAML mistakes with actionable messages."""
+    lines = fm.splitlines()
+    prev_allows_indent = False
+    for idx, line in enumerate(lines, start=2):
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#"):
+            continue
+
+        indent = len(line) - len(line.lstrip(" "))
+        if indent > 0 and not stripped.startswith("- ") and not prev_allows_indent:
+            issues.append(Issue(
+                "ERROR",
+                rel(path),
+                "indented frontmatter line is not a list item or block-scalar continuation. Remove the stray line or attach it to the previous field with proper YAML quoting.",
+                line=idx,
+                code="FM_BAD_INDENT",
+            ))
+
+        m = re.match(r"^\s*([A-Za-z_][A-Za-z0-9_-]*)\s*:\s*(.+?)\s*$", line)
+        if m:
+            key = m.group(1)
+            value = m.group(2).strip()
+            if value and value[0] in {"'", '"'}:
+                quote = value[0]
+                if len(value) >= 2 and value.endswith(quote):
+                    for qidx, ch in enumerate(value[1:-1], start=1):
+                        if ch == quote and not yaml_quote_is_escaped(value, qidx, quote):
+                            issues.append(Issue(
+                                "ERROR",
+                                rel(path),
+                                f"{key} uses {quote}...{quote} but contains an unescaped inner {quote}. {suggest_yaml_quote_fix(key, value, quote)}",
+                                line=idx,
+                                code="FM_NESTED_QUOTE",
+                            ))
+                            break
+                elif value.count(quote) > 1:
+                    issues.append(Issue(
+                        "ERROR",
+                        rel(path),
+                        f"{key} starts with {quote} but is not safely closed. {suggest_yaml_quote_fix(key, value, quote)}",
+                        line=idx,
+                        code="FM_QUOTE_UNCLOSED",
+                    ))
+
+        prev_allows_indent = bool(re.match(r"^\s*[^:#][^:]*:\s*[|>]", line))
+
+
 def parse_yaml_fm(fm: str, path: Path, issues: List[Issue]) -> Dict[str, Any]:
     if yaml is None:
         issues.append(Issue("ERROR", rel(path), "PyYAML is not installed. Install with: pip install pyyaml", code="YAML_LIB"))
@@ -740,6 +809,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         issues.append(Issue("WARN", rel(path), "missing or malformed frontmatter delimiters", code="FM_MISSING"))
         return None
 
+    check_frontmatter_raw_yaml_style(path, fm, issues)
     data = parse_yaml_fm(fm, path, issues)
     if not data:
         return data
@@ -1279,15 +1349,22 @@ def expected_citation_prefix(short: str) -> str:
     return short.strip()
 
 
+def normalize_citation_alias_text(text: str) -> str:
+    text = re.sub(r"\s+", " ", text).strip()
+    return re.sub(r"\s+(?:&|and)\s+", " & ", text)
+
+
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
     display = display.strip()
+    normalized_display = normalize_citation_alias_text(display)
     for alias in aliases:
         alias = str(alias).strip()
         if not alias:
             continue
-        if display == alias or display.startswith(alias + ","):
+        normalized_alias = normalize_citation_alias_text(alias)
+        if normalized_display == normalized_alias or normalized_display.startswith(normalized_alias + ","):
             return True
-        if alias.endswith(")") and display.startswith(alias[:-1] + ","):
+        if normalized_alias.endswith(")") and normalized_display.startswith(normalized_alias[:-1] + ","):
             return True
     return False
 

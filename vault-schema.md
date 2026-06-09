@@ -238,6 +238,10 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full`。
 
+### Python Environment
+
+所有 vault 脚本默认使用仓库本地虚拟环境运行，不用系统 Python 判断依赖是否缺失。推荐命令统一写成 `.venv/bin/python3 scripts/<script>.py`。若直接运行 `python3 scripts/vault_lint.py`，脚本会尝试自动切换到 `.venv`；如果仍出现 `PyYAML is not installed` 等依赖错误，先用 `.venv/bin/python3 -c "import yaml"` 检查虚拟环境，再判断是否需要安装依赖。
+
 ### Automatic Step
 
 每次处理完条目、书籍章节、source 记录、模板或 schema 后，AI 只自动运行基础索引：
