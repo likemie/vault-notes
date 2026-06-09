@@ -170,22 +170,22 @@
 }
 
 .callout[data-callout="line-a"] {
-  --callout-color: 49, 126, 172;
+  --callout-color: 88, 96, 180;
   --callout-icon: lucide-circle-equal;
   background:
-    radial-gradient(circle at 12px 12px, rgba(49, 126, 172, 0.22) 1.2px, transparent 1.8px),
-    linear-gradient(135deg, rgba(49, 126, 172, 0.12), rgba(49, 126, 172, 0.035)),
+    radial-gradient(circle at 12px 12px, rgba(88, 96, 180, 0.22) 1.2px, transparent 1.8px),
+    linear-gradient(135deg, rgba(88, 96, 180, 0.12), rgba(88, 96, 180, 0.035)),
     var(--background-primary);
   background-size: 18px 18px, auto, auto;
 }
 
 .callout[data-callout="line-b"] {
-  --callout-color: 172, 92, 54;
+  --callout-color: 164, 74, 102;
   --callout-icon: lucide-arrow-down-up;
   background:
-    linear-gradient(90deg, rgba(172, 92, 54, 0.14) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(172, 92, 54, 0.1) 1px, transparent 1px),
-    linear-gradient(135deg, rgba(172, 92, 54, 0.11), rgba(172, 92, 54, 0.035)),
+    linear-gradient(90deg, rgba(164, 74, 102, 0.14) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(164, 74, 102, 0.1) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(164, 74, 102, 0.11), rgba(164, 74, 102, 0.035)),
     var(--background-primary);
   background-size: 28px 100%, 100% 18px, auto, auto;
 }
@@ -265,6 +265,10 @@
   border-radius: 8px;
   background: color-mix(in srgb, var(--background-primary) 86%, rgb(66, 120, 150) 14%);
   box-shadow: 0 8px 20px rgba(66, 120, 150, 0.08);
+}
+
+.callout[data-callout="evidence-grid"] .callout-content > ul > li:last-child:nth-child(3) {
+  grid-column: 1 / -1;
 }
 
 .callout[data-callout="evidence-grid"] .callout-content > ul > li strong:first-child {
