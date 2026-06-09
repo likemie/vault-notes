@@ -92,7 +92,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 >
 > 在时间线上，SCD 经历了三个阶段。**第一阶段（2000 年代初）**以美国为主导：enGauge（2003）和 P21（2009）是最早的系统性框架，前者强调数字时代素养，后者提出 4C 概念雏形。**第二阶段（2010 年代）**转向跨国协调：ATCS（2012）和美国国家研究委员会（2012）试图建立跨国的评估标准；世界经济论坛（2016）的加入标志着私营部门开始直接参与技能框架的制定。**第三阶段（2010 年代末至今）**呈现出全球趋同：OECD（2019）和欧盟委员会（2019）的框架尽管来自不同治理传统，但核心技能列表高度一致([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]]; Chalkiadaki, 2018)。
 >
-> 博士层次的 SCD 讨论起步更晚。Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的[[Systematic Review|系统综述]]是首次将博士[[Graduate Attributes|毕业生特质]]纳入类似框架的尝试，识别出十个领域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上提出的七域分类——知识、研究、沟通、人际、高阶思维、个人资源fulness、[[Global Citizenship|全球公民]]——则是将 21 世纪技能话语与博士教育对接的最新努力（p.98）。
+> 博士层次的 SCD 讨论起步更晚。Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的[[Systematic Review|系统综述]]是首次将博士[[Graduate Attributes|毕业生特质]]纳入类似框架的尝试，识别出十个领域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上提出的七域分类——知识、研究、沟通、人际、高阶思维、个人应变能力、[[Global Citizenship|全球公民]]——则是将 21 世纪技能话语与博士教育对接的最新努力（p.98）。
 
 ---
 
