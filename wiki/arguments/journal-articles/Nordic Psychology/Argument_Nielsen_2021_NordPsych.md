@@ -96,10 +96,10 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - Hattie 的反馈效应（d=0.73）所依据的 5 项最重[[Meta-analysis|元分析]]中，4 项未研究同一现象——不同现象被统一在"反馈"标题下汇总（p.9-12）
-> - Hattie 对 SES 的有意排除导致他的工作"在最坏的情况下发展出阶级盲的教学思维"（p.6）
-> - d=0.40 截断值不是科学客观分类，而是高度规范性的判断；Hattie 公开承认这是为了"创造一个故事"（p.7）
-> - Hattie 通过 Glaser 在理论上受 Skinner 行为主义影响，但他本人未明确阐述这一理论谱系（p.3）
+> - Hattie 的反馈效应（d=0.73）所依据的 5 项最重[[Meta-analysis|元分析]]中，4 项未研究同一现象——不同现象被统一在"反馈"标题下汇总(p.9-12)
+> - Hattie 对 SES 的有意排除导致他的工作"在最坏的情况下发展出阶级盲的教学思维"(p.6)
+> - d=0.40 截断值不是科学客观分类，而是高度规范性的判断；Hattie 公开承认这是为了"创造一个故事"(p.7)
+> - Hattie 通过 Glaser 在理论上受 Skinner 行为主义影响，但他本人未明确阐述这一理论谱系(p.3)
 > - 论文与 Rømer (2019) 的解读不同——Rømer 认为 Hattie 的理论是[[Radical Constructivism|激进建构主义]]，Nielsen & Klitmøller 论证其内核是[[Technical Rationality|技术理性]]
 
 ## 关键引用
@@ -120,7 +120,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文主要聚焦于 Hattie (2009) 的原始著作，后续扩展（Hattie, 2012; Hattie & Yates, 2014）可能对某些问题有所回应
+> - 论文主要聚焦于 Hattie (2009) 的原始著作，后续扩展(Hattie, 2012; Hattie & Yates, 2014)可能对某些问题有所回应
 > - 论文未对其自身的[[Theoretical Standpoint|理论立场]]（Habermas 批判理论）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
 > - 反馈[[Meta-analysis|元分析]]的"细读"审查仅覆盖最重的 5 项（而非全部 23 项），但覆盖了 92% 的样本
 

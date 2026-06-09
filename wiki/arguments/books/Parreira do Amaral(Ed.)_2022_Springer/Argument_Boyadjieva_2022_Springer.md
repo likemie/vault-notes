@@ -61,16 +61,16 @@ citation_aliases:
 > [!abstract]
 > [[Analytic Framework|分析框架]]整合了三个理论资源(pp.126–130, 137)：
 >
-> - **制度理论（Scott & Davis, 2016）**：它提醒我们，大学不只是"组织"（像一家生产毕业生的工厂），更是"制度"——它有一套不成文的规范、文化和认知框架，深刻地塑造着人们对"什么是知识""谁算成功者"的理解。一个关键概念是 Meyer（1970）提出的 **[[Social Charter|社会宪章]]（social charter）**：每所大学向社会"承诺"它的毕业生能获得什么社会地位。比如，哈佛的"宪章"是通往精英阶层，而一所地方公立大学的"宪章"可能是服务本地社区。
-> - **[[Capability Approach|可行能力路径]]（Drèze & Sen, 2002）**：这个框架追问的不是"教育产生了多少经济回报"，而是"教育以哪些不同的方式扩展了人的自由"。它将教育的价值拆成五种类型（内在重要性、工具性个人角色、工具性社会角色、工具性过程角色、赋权与分配角色），为后文构建多维使命模型提供了概念"零件"。
-> - **新制度主义（neo-institutionalism）**：用来解释排名为什么"赖着不走"。核心洞见是：高等教育是一个"文化[[Champ|场域]]"（cultural field）——它不生产铅笔或汽车那样容易客观比较的商品，而是通过高度社会性、互动性的过程生产知识。在一个无法直接衡量"质量"的场域中，"声望"就代替了"利润"成为通货——"声望之于高等教育，如同利润之于企业"（Gonzales & Núñez, 2014, p.5）。
+> - **制度理论(Scott & Davis, 2016)**：它提醒我们，大学不只是"组织"（像一家生产毕业生的工厂），更是"制度"——它有一套不成文的规范、文化和认知框架，深刻地塑造着人们对"什么是知识""谁算成功者"的理解。一个关键概念是 Meyer(1970)提出的 **[[Social Charter|社会宪章]]（social charter）**：每所大学向社会"承诺"它的毕业生能获得什么社会地位。比如，哈佛的"宪章"是通往精英阶层，而一所地方公立大学的"宪章"可能是服务本地社区。
+> - **[[Capability Approach|可行能力路径]](Drèze & Sen, 2002)**：这个框架追问的不是"教育产生了多少经济回报"，而是"教育以哪些不同的方式扩展了人的自由"。它将教育的价值拆成五种类型（内在重要性、工具性个人角色、工具性社会角色、工具性过程角色、赋权与分配角色），为后文构建多维使命模型提供了概念"零件"。
+> - **新制度主义（neo-institutionalism）**：用来解释排名为什么"赖着不走"。核心洞见是：高等教育是一个"文化[[Champ|场域]]"（cultural field）——它不生产铅笔或汽车那样容易客观比较的商品，而是通过高度社会性、互动性的过程生产知识。在一个无法直接衡量"质量"的场域中，"声望"就代替了"利润"成为通货——"声望之于高等教育，如同利润之于企业"(Gonzales & Núñez, 2014, p.5)。
 
 
 ## 研究方法
 
 > [!info]
 > - **方法类型**：规范性概念分析 + 批判性政策评论。研究先构建一个理论模型（多维使命模型），再以该模型为"检验标准"去审查 全球排名系统，识别后者在哪些维度上系统地偏离了高等教育的完整使命。
-> - **资料来源**：排名系统文件（[[Academic Ranking of World Universities|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析（DeYoung & Baas, 2012）。
+> - **资料来源**：排名系统文件（[[Academic Ranking of World Universities|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析(DeYoung & Baas, 2012)。
 
 
 ## 论证结构
@@ -91,11 +91,11 @@ citation_aliases:
 **1.2 大学的"[[Social Charter|社会宪章]]"——它向社会承诺了什么？**
 
 > [!example]
-> Meyer（1970）提出一个有力的概念：每所大学都有一份不成文的"社会宪章"——它向社会约定，它的毕业生能获得什么样的社会地位。这不仅仅是关于"找什么工作"，而是关于"成为什么人"。
+> Meyer(1970)提出一个有力的概念：每所大学都有一份不成文的"社会宪章"——它向社会约定，它的毕业生能获得什么样的社会地位。这不仅仅是关于"找什么工作"，而是关于"成为什么人"。
 >
 > 想象两个高中生在选大学。一个选了某顶尖研究型大学，另一个选了某地方教学型学院。他们入学前就已经知道一个模糊但真实的社会预期：前者四年后将被社会视为"精英"，后者将被视为"合格的从业者"。这个预期不是写在招生简章里的，但它真实地影响着学生的自我认知、努力方向，以及四年后雇主看待他们的方式。
 >
-> 这就是 Meyer 所说的"制度效应"——大学通过分配社会地位来"建构和改变社会的位置网络"，这种分配功能"完全独立于任何具体的教学效果"（Meyer, 1977, pp.56, 64, cited in Boyadjieva, 2022, p.128）。换句话说，即使两所大学的教学质量完全一样，它们授予的文凭所附带的社会地位也可以截然不同。
+> 这就是 Meyer 所说的"制度效应"——大学通过分配社会地位来"建构和改变社会的位置网络"，这种分配功能"完全独立于任何具体的教学效果"(Meyer, 1977, pp.56, 64, cited in Boyadjieva, 2022, p.128)。换句话说，即使两所大学的教学质量完全一样，它们授予的文凭所附带的社会地位也可以截然不同。
 
 **1.3 大学的"分配功能"——它不仅造就成功者，也制造"失败者"**
 
@@ -163,20 +163,20 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 > 5. **后中等教育机构的多样化**：除了传统大学，出现了各种新型高等教育提供者——[[Corporate University|企业大学]]、在线课程平台、专业学院。排名帮助人们在这个"菜单"上做选择。
 > 6. **[[Knowledge-Based Economy|知识经济]]地位的变化**：在 知识密集型经济中，大学不再只是"花钱的教育机构"，而是"创造价值的创新引擎"——它的产出值得被测量比较。
 > 7. **高等教育作为国家竞争力的晴雨表**：政府想知道"我国大学在全球排第几"，这直接影响招商引资、人才吸引和外交软实力。
-> 8. **"审计社会"的兴起**（Power, 1997）：问责和评估渗透到一切公共领域——医院被排名、学校被排名、甚至博物馆和公园也被排名。大学只是这个大趋势中的一环。
+> 8. **"审计社会"的兴起**(Power, 1997)：问责和评估渗透到一切公共领域——医院被排名、学校被排名、甚至博物馆和公园也被排名。大学只是这个大趋势中的一环。
 
-> **核心逻辑**：这八个趋势共同创造了对"跨国可比较信息"的庞大需求。学生和家长需要选校信息，雇主需要判断文凭价值，大学自身需要对标竞争对手，政府需要评估国家高教竞争力。排名恰好填补了这个信息真空——"如果排名不存在，有人会发明它们"（Altbach, 2011, p.2, cited in Boyadjieva, 2022, p.130）。
+> **核心逻辑**：这八个趋势共同创造了对"跨国可比较信息"的庞大需求。学生和家长需要选校信息，雇主需要判断文凭价值，大学自身需要对标竞争对手，政府需要评估国家高教竞争力。排名恰好填补了这个信息真空——"如果排名不存在，有人会发明它们"(Altbach, 2011, p.2, cited in Boyadjieva, 2022, p.130)。
 
 **3.2 排名简史**
 
 - 最早的排名出现在各国国内（评估本国大学）
 - **2003 年**：上海交通大学发布 首个全球排名 [[Academic Ranking of World Universities|ARWU]]
 - **2004 年**：Times Higher Education（THE）跟进
-- 此后 Leiden、Scimago、QS、U-Multirank 等相继出现(p.131)
+- 此后 Leiden、Scimago、QS、U-Multirank et al.相继出现(p.131)
 
 **3.3 排名被批评——但批评本身恰恰说明它的影响力**
 
-一个有趣的悖论是：排名自诞生之日起就遭到持续猛烈的批评（Dill & Soo, 2005; Marginson, 2009; Teichler, 2011a; Usher & Savino, 2007; Van Dyke, 2005），但批评声越大，排名的影响力反而越大。为什么？因为批评本身恰恰证明了排名的"在场"——人们批评它，是因为他们不得不关注它。"排名已成为必然"和"无处可藏"（Hazelkorn, 2014, p.23）精准地捕捉了这种"讨厌它但离不开它"的困境(pp.130–131)。
+一个有趣的悖论是：排名自诞生之日起就遭到持续猛烈的批评(Dill & Soo, 2005; Marginson, 2009; Teichler, 2011a; Usher & Savino, 2007; Van Dyke, 2005)，但批评声越大，排名的影响力反而越大。为什么？因为批评本身恰恰证明了排名的"在场"——人们批评它，是因为他们不得不关注它。"排名已成为必然"和"无处可藏"(Hazelkorn, 2014, p.23)精准地捕捉了这种"讨厌它但离不开它"的困境(pp.130–131)。
 
 
 ### 第四步：用使命模型当"照妖镜"——揭露排名漏掉了什么
@@ -186,9 +186,9 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 **4.1 排名只看一种大学——研究型、自然科学、英语、老牌**
 
 > [!example]
-> 所有全球排名系统都把"研究密集型综合大学"当成唯一的正常模板，用同一套指标去衡量所有机构（Kehm, 2014, p.104, cited in Boyadjieva, 2022, p.132）。
+> 所有全球排名系统都把"研究密集型综合大学"当成唯一的正常模板，用同一套指标去衡量所有机构(Kehm, 2014, p.104, cited in Boyadjieva, 2022, p.132)。
 >
-> 举个例子：德国有一类大学叫 Fachhochschulen（应用科学大学），它们传统上专注于工程、设计、社会工作等应用领域，和产业界联系紧密，毕业生在德国就业市场上非常受欢迎，在德国国内享有很高声望。但它们在全球排名中几乎"隐形"——因为它们不追求在 *Nature* 或 *Science* 上发表论文，它们的教授不以英文发表为主要工作。同样的困境也发生在芬兰、瑞士和法国的同类院校身上（Marginson & Van der Wende, 2007, cited in Boyadjieva, 2022, p.132）。
+> 举个例子：德国有一类大学叫 Fachhochschulen（应用科学大学），它们传统上专注于工程、设计、社会工作等应用领域，和产业界联系紧密，毕业生在德国就业市场上非常受欢迎，在德国国内享有很高声望。但它们在全球排名中几乎"隐形"——因为它们不追求在 *Nature* 或 *Science* 上发表论文，它们的教授不以英文发表为主要工作。同样的困境也发生在芬兰、瑞士和法国的同类院校身上(Marginson & Van der Wende, 2007, cited in Boyadjieva, 2022, p.132)。
 >
 > 这意味着：**排名不是在衡量"大学有多好"，而是在衡量"大学有多像哈佛"**。越不像哈佛的大学，排名越差——无论它在自己的使命上做得多么出色。
 
@@ -209,9 +209,9 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 **4.3 排名惩罚履行公共使命的大学——肯塔基案例**
 
 > [!example]
-> 这是 Boyadjieva (2022) 从头到尾贯穿的核心案例，也是最有力的证据（pp.125–126）：
+> 这是 Boyadjieva (2022) 从头到尾贯穿的核心案例，也是最有力的证据(pp.125–126)：
 >
-> 肯塔基大学是一所公立赠地大学，成立于 1865 年。作为"赠地大学"，它的法定使命是"为弱势群体增加教育机会，并坚定致力于区域和州经济发展"（DeYoung & Baas, 2012, p.82）。这意味着它必须招收大量低收入家庭学生、少数族裔学生和非传统学生——这些学生统计学上的毕业概率较低，需要更多的学术支持和经济资助。
+> 肯塔基大学是一所公立赠地大学，成立于 1865 年。作为"赠地大学"，它的法定使命是"为弱势群体增加教育机会，并坚定致力于区域和州经济发展"(DeYoung & Baas, 2012, p.82)。这意味着它必须招收大量低收入家庭学生、少数族裔学生和非传统学生——这些学生统计学上的毕业概率较低，需要更多的学术支持和经济资助。
 >
 > 本世纪初，肯塔基州立法机构给这所大学下了一个指令：在 2020 年前达到美国公立大学 Top-20。大学照做了——制定战略计划，修订使命声明，投入资源。结果呢？2010 年 USNWR 排名揭晓：肯塔基大学排在第 **129** 名。
 >
@@ -236,7 +236,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 >
 > - **没有任何一个排名系统给出过"高等教育质量"的定义**
 > - **国际上不存在对"高等教育质量"的共识定义或测量方法**
-> - **不同排名系统使用的指标差异极大**——"没有任何两个系统是相似的，在系统之间甚至找不到一个重合的指标"（Usher & Savino, 2007, p.28, cited in Boyadjieva, 2022, p.135）
+> - **不同排名系统使用的指标差异极大**——"没有任何两个系统是相似的，在系统之间甚至找不到一个重合的指标"(Usher & Savino, 2007, p.28, cited in Boyadjieva, 2022, p.135)
 >
 > 想象一下：三个裁判给同一群体操运动员打分，但他们用的评分规则完全不同——一个看动作难度、一个看服装美观、一个看观众掌声的热烈程度——然后每个人都声称自己的评分代表了"体操水平"。这就是全球排名系统的现状。
 >
@@ -244,13 +244,13 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 
 **4.6 排名改革尝试——诚意有，但结构性问题没解决**
 
-Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并在尝试改进（pp.133–134）：
+Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并在尝试改进(pp.133–134)：
 
-> - **U-Multirank（2015）**：加入了区域参与指标——毕业生留本地率、学生实习、与区域的联合发表和商业收入
+> - **U-Multirank(2015)**：加入了区域参与指标——毕业生留本地率、学生实习、与区域的联合发表和商业收入
 > - **QS Stars**：设立了社会责任感、包容性等专项评分
-> - **THE 影响力排名（2019）**：按联合国 17 个[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）中的 11 个来评估大学
+> - **THE 影响力排名(2019)**：按联合国 17 个[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）中的 11 个来评估大学
 
-但这里指出了两个结构性问题：（1）这些"进步指标"都在"附加排名"里，主排名（THE 主榜、QS 主榜）仍然以研究产出和学术声望为绝对重心；（2）社会影响力的测量主要依赖高校自报的数据，可靠性存疑。正如 Stephen（2019）所警告的："为人类活动的每一个粒子赋予一个数字，其中有一种去人性化的东西……在定量和定性评估模式之间找到适当平衡，是一项需要持续警惕和协商的任务"(p.134)。
+但这里指出了两个结构性问题：（1）这些"进步指标"都在"附加排名"里，主排名（THE 主榜、QS 主榜）仍然以研究产出和学术声望为绝对重心；（2）社会影响力的测量主要依赖高校自报的数据，可靠性存疑。正如 Stephen(2019)所警告的："为人类活动的每一个粒子赋予一个数字，其中有一种去人性化的东西……在定量和定性评估模式之间找到适当平衡，是一项需要持续警惕和协商的任务"(p.134)。
 
 
 ### 第五步：为什么"不理排名"行不通——五道锁链
@@ -259,7 +259,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 
 > **锁链 1：高等教育的"产品"无法客观测量**
 >
-> 高等教育是一个"文化[[Champ|场域]]"——它不生产铅笔或汽车那样可以被独立检测的实物产品。知识是通过高度社会性、互动性和默会性的教学过程被生产出来的。正因为"质量"本身无法被直接观察，外部人只能依赖替代指标——排名恰好提供了这些指标。"声望之于高等教育，如同利润之于企业"（Gonzales & Núñez, 2014, p.5, cited in Boyadjieva, 2022, p.137）。
+> 高等教育是一个"文化[[Champ|场域]]"——它不生产铅笔或汽车那样可以被独立检测的实物产品。知识是通过高度社会性、互动性和默会性的教学过程被生产出来的。正因为"质量"本身无法被直接观察，外部人只能依赖替代指标——排名恰好提供了这些指标。"声望之于高等教育，如同利润之于企业"(Gonzales & Núñez, 2014, p.5, cited in Boyadjieva, 2022, p.137)。
 >
 > > [!example]
 > > 想象你是家长，想帮孩子选大学。你不能去每个大学旁听四年再决定。你怎么办？你大概率会看排名。不是因为你相信排名真的测量了"教育质量"——而是因为没有更好的替代信息源。这就是排名权力的根源：**它解决了一个信息问题，尽管解决方案本身漏洞百出**。
@@ -302,7 +302,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 >
 > 因此，正确的方向不是"找到唯一正确的排名"，而是：**让排名体系本身变得多样化**，让不同类型的排名相互补充，并与其他问责和透明工具（如院校自评、同行评议、质量认证）配合使用。
 >
-> Boyadjieva 引用了 QS 创始人 Quacquarelli 自己的一段话："我们一直惊讶于政府和大学领导竟然用排名来设定战略目标。我们 QS 认为这是错误的。排名是一种相对测量——如果其他大学做得更好、排名上升，你就必须跑得更快……排名不应该是大学使命声明和愿景的主要驱动力。但排名可以是有用的数据提供者"（Sharma, 2010, cited in Boyadjieva, 2022, p.138）。
+> Boyadjieva 引用了 QS 创始人 Quacquarelli 自己的一段话："我们一直惊讶于政府和大学领导竟然用排名来设定战略目标。我们 QS 认为这是错误的。排名是一种相对测量——如果其他大学做得更好、排名上升，你就必须跑得更快……排名不应该是大学使命声明和愿景的主要驱动力。但排名可以是有用的数据提供者"(Sharma, 2010, cited in Boyadjieva, 2022, p.138)。
 >
 > 最后提出四个开放问题，留给未来研究(p.139)：
 > 1. 高等教育的质量应该如何被定义和测量？
@@ -320,9 +320,9 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > [!success]
 > - 2014 年 Hazelkorn 国际调查：**84%** 的受调查高校已建立审视排名的内部机制，"绝大多数"用排名指导战略决策(p.125)
 > - 全球排名系统性偏爱：研究密集型、自然科学强势、英文发表、历史悠久国家的等级森严院校(pp.131–132)
-> - 大学排名的跨国差异中，"很大一部分可以由仅四个社会经济因素解释：收入、人口规模、研发支出和国家语言"（Li et al., 2011, p.923, cited in Boyadjieva, 2022, p.132）
-> - 排名指标之间的差异大至"没有任何两个系统是相似的，在系统之间甚至找不到一个重合的指标"（Usher & Savino, 2007, p.28, cited in Boyadjieva, 2022, p.135）
-> - 所有排名都声称按"质量"排序，但没有一个给出质量定义——"没有国际公认的定义或方法论，没有客观或价值中立的指标组合，没有共同的国际数据集"（Hazelkorn, 2015, p.xvi, cited in Boyadjieva, 2022, pp.135–136）
+> - 大学排名的跨国差异中，"很大一部分可以由仅四个社会经济因素解释：收入、人口规模、研发支出和国家语言"(Li et al., 2011, p.923, cited in Boyadjieva, 2022, p.132)
+> - 排名指标之间的差异大至"没有任何两个系统是相似的，在系统之间甚至找不到一个重合的指标"(Usher & Savino, 2007, p.28, cited in Boyadjieva, 2022, p.135)
+> - 所有排名都声称按"质量"排序，但没有一个给出质量定义——"没有国际公认的定义或方法论，没有客观或价值中立的指标组合，没有共同的国际数据集"(Hazelkorn, 2015, p.xvi, cited in Boyadjieva, 2022, pp.135–136)
 > - 全球排名没有一个使用直接反映教育结果质量的指标——不测试学生知识技能、不评估毕业生专业能力(p.136)
 > - 排名指标（引用、发表、项目、资助）已广泛嵌入高校内部的职称晋升和部门评估，成为系统内"通用货币"，解耦极其困难(p.138)
 
@@ -331,19 +331,19 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 
 > [!quote]
 > “排名已成为高等教育地缘政治不可避免的结果与隐喻。因为它们主要测量基础研究和传播——在有限的领域且以传统的方式——它们为那些得益于数十甚至数百年来积累的公共和/私人财富与投资的精英大学和国家提供了竞争优势。它们反映了世界经济和全球科学的结构。”
-> ("rankings have become an inevitable outcome and metaphor for the geopolitics of HE. Because they predominantly measure basic research and dissemination — in limited fields and in a traditional way — they provide competitive advantage to elite universities and nations which benefit from accumulated public and/or private wealth and investment over decades if not centuries. They reflect the structure of the world economy and global science.")（Hazelkorn, 2018, p.10, cited in Boyadjieva, 2022, p.126）
+> ("rankings have become an inevitable outcome and metaphor for the geopolitics of HE. Because they predominantly measure basic research and dissemination — in limited fields and in a traditional way — they provide competitive advantage to elite universities and nations which benefit from accumulated public and/or private wealth and investment over decades if not centuries. They reflect the structure of the world economy and global science.")(Hazelkorn, 2018, p.10, cited in Boyadjieva, 2022, p.126)
 
 > [!quote]
 > “声望之于高等教育，犹如利润之于企业。”
-> ("prestige is to higher education what profit is to corporations")（Gonzales & Núñez, 2014, p.5, cited in Boyadjieva, 2022, p.137）
+> ("prestige is to higher education what profit is to corporations")(Gonzales & Núñez, 2014, p.5, cited in Boyadjieva, 2022, p.137)
 
 > [!quote]
 > “排名强化了领先大学所享有的优势。它庆祝它们的地位，并推动更多的资金和人才流向它们，帮助它们保持领先。局外人、新兴大学和国家很难打破这一局面。排名对于竞争的大学来说并不‘公平’。它们的起跑线显然是不平等的。”
-> ("Ranking reinforces the advantages enjoyed by leading universities. It celebrates their status and propels more money and talent towards them, helping them to stay on top. It is difficult for outsiders, emerging universities and countries to break in. Rankings are not 'fair' to competing universities. The starting positions are manifestly unequal.")（Marginson, 2014, p.46, cited in Boyadjieva, 2022, p.135）
+> ("Ranking reinforces the advantages enjoyed by leading universities. It celebrates their status and propels more money and talent towards them, helping them to stay on top. It is difficult for outsiders, emerging universities and countries to break in. Rankings are not 'fair' to competing universities. The starting positions are manifestly unequal.")(Marginson, 2014, p.46, cited in Boyadjieva, 2022, p.135)
 
 > [!quote]
 > “一部强大的符号和经济权力机器……一种政治意识形态技术，它服务的不是学生或教师的教育需求，而是全球精英的利益。”
-> ("a formidable machinery of symbolic and economic power… a politico-ideological technology that serves not the educational needs of students or teachers, but rather the interests of the global elite")（Amsler & Bolsmann, 2012, p.286, cited in Boyadjieva, 2022, p.132）
+> ("a formidable machinery of symbolic and economic power… a politico-ideological technology that serves not the educational needs of students or teachers, but rather the interests of the global elite")(Amsler & Bolsmann, 2012, p.286, cited in Boyadjieva, 2022, p.132)
 
 
 ## 局限性与批评
@@ -352,7 +352,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > - **作者未陈述方法论局限**：该研究本身为规范性概念分析和[[Literature Review|文献综述]]，未包含独立的一手实证数据收集。其对排名系统的批判力度，部分取决于读者是否接受其理论框架的前提假设。
 > - **理想类型的局限**：多维使命模型被作者明确定位为"[[Max Weber|韦伯]]意义上的理想类型——没有本体实在，仅作为认知工具"(p.130)。这意味着该模型是分析的起点而非终点——不同国家和制度脉络中的高等教育使命可能与该模型有显著偏差。
 > - **结论的乐观倾向**：Boyadjieva 最终建议"通过排名的多样化和与其他问责工具的互补来回应使命多样性"，但这个结论可能低估了排名逻辑本身的某些特性——比如排名所创造的市场式竞争是否在结构上就与高等教育的多元价值不相容？该研究没有充分处理这一矛盾。
-> - **忽略了一个经验性问题**：Altbach & Hazelkorn（2017）的"专注于使命而非排名"的呼吁，和 Boyadjieva 的"在结构上不可能放弃排名"的回应之间，是否存在一个中间地带？该研究没有探讨那些在排名压力下仍然成功保持多元使命的高校案例——如果存在这样的案例，它们会是"如何做到的"的重要经验证据。
+> - **忽略了一个经验性问题**：Altbach & Hazelkorn(2017)的"专注于使命而非排名"的呼吁，和 Boyadjieva 的"在结构上不可能放弃排名"的回应之间，是否存在一个中间地带？该研究没有探讨那些在排名压力下仍然成功保持多元使命的高校案例——如果存在这样的案例，它们会是"如何做到的"的重要经验证据。
 
 
 ## 来源

@@ -113,7 +113,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 作为 Editorial，本文是对特刊的导言性概述，不包含独立的实证研究或系统性[[Literature Review|文献综述]]
-> - 对[[Evidence-Based Reform|证据本位改革]]的立场偏向支持（将教育类比医学的框架），未充分呈现批评阵营（如 Biesta、Wrigley、Wiliam 等）的论点
+> - 对[[Evidence-Based Reform|证据本位改革]]的立场偏向支持（将教育类比医学的框架），未充分呈现批评阵营（如 Biesta et al.）的论点
 > - 中国大陆[[Experimental Research|实验研究]]"数量和质量令人担忧"的诊断仅为一句话断言，未在 Editorial 篇幅内展开论证
 
 ## 来源

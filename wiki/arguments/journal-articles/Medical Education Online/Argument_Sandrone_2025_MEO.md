@@ -42,7 +42,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> [[Mentorship|导师制]]是科学和医学中的核心概念，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」（Anderson & Shannon, 1988）。导师制是科学家最重要的合作关系之一，导师在启动被指导者的累积优势过程中起着关键作用。
+> [[Mentorship|导师制]]是科学和医学中的核心概念，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」(Anderson & Shannon, 1988)。导师制是科学家最重要的合作关系之一，导师在启动被指导者的累积优势过程中起着关键作用。
 >
 > [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]是世界上最令人向往的科学奖项之一。获奖者受邀到斯德哥尔摩发表诺贝尔演讲，通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事。
 >
@@ -77,17 +77,17 @@ citation_aliases:
 
 ### 导师制在科学中的重要性
 
-[[Mentorship|导师制]]是科学家最重要的合作关系之一。导师在启动被指导者的累积优势过程中起着关键作用（Long & McGinnis, 1985）。
+[[Mentorship|导师制]]是科学家最重要的合作关系之一。导师在启动被指导者的累积优势过程中起着关键作用(Long & McGinnis, 1985)。
 
 > [!info] 导师制对被指导者成功的影响
 >
-> **双向受益**。在 STEM 领域，成功的导师倾向于培养成功的学生，导师和被指导者都从这种关系中受益（Malmgren et al., 2010）。
+> **双向受益**。在 STEM 领域，成功的导师倾向于培养成功的学生，导师和被指导者都从这种关系中受益(Malmgren et al., 2010)。
 >
-> **强预测因子**。对约 40,000 名在过去 60 年中发表了 1,167,518 篇 STEM 论文的科学家的数据分析显示，导师制是被指导者成功的强预测因子（Ma et al., 2020）。
+> **强预测因子**。对约 40,000 名在过去 60 年中发表了 1,167,518 篇 STEM 论文的科学家的数据分析显示，导师制是被指导者成功的强预测因子(Ma et al., 2020)。
 >
-> **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功（Liénard et al., 2018）。
+> **博士后导师的重要性**。对 18,856 名生物医学研究人员的开放获取数据库分析显示，博士后导师比研究生导师对受训者的成功更有影响。在具有不同专业知识的导师指导下训练并将该专业知识整合到自己工作中的科学家更有可能成功(Liénard et al., 2018)。
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好。导师制也与被指导者成为其研究领域先驱的概率增加相关（Ma et al., 2020）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力，当他们从导师的[[Research Topic|研究主题]]中分离出来并与导师只合著一小部分总体研究时，表现最好。导师制也与被指导者成为其研究领域先驱的概率增加相关(Ma et al., 2020)。
 
 ---
 
@@ -97,11 +97,11 @@ citation_aliases:
 
 > [!example] 导师关系网络的非随机性
 >
-> **学术家族树**。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024）。
+> **学术家族树**。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代(Chariker et al., 2017)。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树(Tol, 2024)。
 >
-> **Giuseppe Levi 的学生**。Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006）。
+> **Giuseppe Levi 的学生**。Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco(Bentivoglio et al., 2006)。
 >
-> **诺贝尔奖的社会维度**。获得诺贝尔奖不仅仅是取得伟大成就并被动等待奖励，而是具有显著的社会维度（Hansson & Schlich, 2024; Friedman, 2001）。
+> **诺贝尔奖的社会维度**。获得诺贝尔奖不仅仅是取得伟大成就并被动等待奖励，而是具有显著的社会维度(Hansson & Schlich, 2024; Friedman, 2001)。
 
 ---
 
@@ -141,7 +141,7 @@ citation_aliases:
 
 > [!example] 拉斯克奖的对比
 >
-> 拉斯克奖常被视为获得诺贝尔奖的前奏（Marks, 1989; Naylor & Bell, 2015）。拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。
+> 拉斯克奖常被视为获得诺贝尔奖的前奏(Marks, 1989; Naylor & Bell, 2015)。拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。
 >
 > 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori 和 Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师致谢]]的现象更加令人惊讶(Sandrone)。
 
@@ -159,11 +159,11 @@ citation_aliases:
 
 > [!warning]
 >
-> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变往往带来开创性研究，在诺贝尔奖获得者中尤为常见（Ma et al., 2020, 引自 Sandrone, 2025）。
+> **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变往往带来开创性研究，在诺贝尔奖获得者中尤为常见(Ma et al., 2020, 引自 Sandrone, 2025)。
 >
 > **时间因素**。诺贝尔奖获得者平均比其他奖项获得者年龄更大。与导师合作的时间可能更久远，可能导致个人或职业联系较弱(Sandrone)。
 >
-> **概念并非新事物**。导师制不是新概念。mentor 一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000）。mentoring 一词可能在 1778 年左右首次出现在美国。在 18-19 世纪的出版物中可以找到 mentor 一词，远在第一个诺贝尔奖颁发之前(Sandrone)。
+> **概念并非新事物**。导师制不是新概念。mentor 一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语(Roberts, 2000)。mentoring 一词可能在 1778 年左右首次出现在美国。在 18-19 世纪的出版物中可以找到 mentor 一词，远在第一个诺贝尔奖颁发之前(Sandrone)。
 
 ---
 
@@ -194,7 +194,7 @@ citation_aliases:
 > 这凸显了诺贝尔奖背景下导师明确承认的一个意外缺失，我们首次报告和讨论了这一点。
 
 > [!quote]
-> "Being awarded a Nobel Prize does not happen simply by making a great achievement and passively waiting for it to be rewarded."（Hansson & Schlich, 2024, 引自 Sandrone, 2025）
+> "Being awarded a Nobel Prize does not happen simply by making a great achievement and passively waiting for it to be rewarded."(Hansson & Schlich, 2024, 引自 Sandrone, 2025)
 >
 > 获得诺贝尔奖不仅仅是取得伟大成就并被动等待其被奖励。
 

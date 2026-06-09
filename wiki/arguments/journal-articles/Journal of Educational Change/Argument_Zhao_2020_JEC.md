@@ -93,9 +93,9 @@ PISA 声称测量现代社会或未来世界所需的知识和技能，但这一
 ---
 
 > [!warning] 与其他评估的高度相关性
-> 有实证证据表明 PISA 测量的内容与其他国际评估或智力测试没有显著差异。尽管 PISA 声称测量的内容不同于 IEA 赞助的研究（如 TIMSS），但 PISA 表现与 TIMSS 显著相关（Wu 2009）。Hanushek 和 Woessmann (2010) 承认 TIMSS 和 PISA 在国家层面高度相关。Rindermann (2007) 的大规模分析发现，不同学生评估研究和不同认知测试方法本质上测量的是同一个[[Construct|构念]]，即一般国家认知能力。
+> 有实证证据表明 PISA 测量的内容与其他国际评估或智力测试没有显著差异。尽管 PISA 声称测量的内容不同于 IEA 赞助的研究（如 TIMSS），但 PISA 表现与 TIMSS 显著相关（Wu 2009）。Hanushek & Woessmann(2010) 承认 TIMSS 和 PISA 在国家层面高度相关。Rindermann (2007) 的大规模分析发现，不同学生评估研究和不同认知测试方法本质上测量的是同一个[[Construct|构念]]，即一般国家认知能力。
 >
-> 讽刺的是，PISA 项目使用其他研究的结果来支持自己的案例。Hanushek 和 Woessmann (2010) 的报告声称提高 PISA 分数将带来巨大的经济增长，包括所有 OECD 国家在 20 年内将平均 PISA 分数提高 25 分意味着 OECD GDP 累计增长 115 万亿美元。但该报告比较的是 1964-2003 年的测试分数与 1960-2000 年的经济增长，这在逻辑上有缺陷，因为参加测试的学生当时还没有进入劳动力市场。使用相同数据集和方法的后续研究发现，测试分数与后续时期的经济增长之间没有一致的强关系（Komatsu and Rappleye 2017）。
+> 讽刺的是，PISA 项目使用其他研究的结果来支持自己的案例。Hanushek & Woessmann(2010) 的报告声称提高 PISA 分数将带来巨大的经济增长，包括所有 OECD 国家在 20 年内将平均 PISA 分数提高 25 分意味着 OECD GDP 累计增长 115 万亿美元。但该报告比较的是 1964-2003 年的测试分数与 1960-2000 年的经济增长，这在逻辑上有缺陷，因为参加测试的学生当时还没有进入劳动力市场。使用相同数据集和方法的后续研究发现，测试分数与后续时期的经济增长之间没有一致的强关系（Komatsu and Rappleye 2017）。
 
 ---
 
@@ -157,7 +157,7 @@ PISA 声称具有科学性，但其实施存在严重的技术缺陷。
 >
 > **语言偏差**。PISA 工具在西方国家之间的可比性优于中东或亚洲国家，原因包括语言和文化（Grisay et al. 2007）。对不同语言版本之间偏差的全面审查发现，大多数研究报告了大量差异项目功能（DIF）。例如，PISA 项目与希腊教科书之间的语言差异可能是希腊学生科学低表现的原因（Hatzinikita et al. 2008）。德语版本比英语版本长 18%，但 PISA 为所有语言分配了相同的时间（Eivers 2010）。
 >
-> **统计方法**。PISA 使用 [[Rasch Measurement|Rasch模型]]推导结果，但 Kreiner 和 Christensen (2014) 发现 Rasch 模型不适合 PISA 的阅读素养数据，因此国家排名不稳健。Kreiner 认为这意味着 PISA 的国家比较是无意义的（Stewart 2013）。
+> **统计方法**。PISA 使用 [[Rasch Measurement|Rasch模型]]推导结果，但 Kreiner & Christensen(2014) 发现 Rasch 模型不适合 PISA 的阅读素养数据，因此国家排名不稳健。Kreiner 认为这意味着 PISA 的国家比较是无意义的（Stewart 2013）。
 
 ---
 
@@ -212,12 +212,12 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 ## 关键引用
 
 > [!quote]
-> "There is no research available that proves this assertion beyond the point that knowing something is always good and knowing more is better."（Hopmann, 2008, p.438）
+> "There is no research available that proves this assertion beyond the point that knowing something is always good and knowing more is better."(Hopmann, 2008, p.438)
 >
 > 没有研究能够证明这一断言，除了知道一些东西总是好的、知道更多更好之外。
 
 > [!quote]
-> "There are very few things you can summarise with a number and yet Pisa claims to be able to capture a country's entire education system in just three of them. It can't be possible. It is madness."（Morrison, 2013）
+> "There are very few things you can summarise with a number and yet Pisa claims to be able to capture a country's entire education system in just three of them. It can't be possible. It is madness."(Morrison, 2013)
 >
 > 很少有东西可以用一个数字来概括，而 PISA 声称能够仅用三个数字捕捉一个国家的整个教育系统。这不可能，这是疯狂。
 

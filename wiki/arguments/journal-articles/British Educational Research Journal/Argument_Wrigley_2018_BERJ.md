@@ -67,9 +67,9 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[Critical Realism|批判实在论]]（Bhaskar, 1978; Sayer, 2000）** — 区分 real / actual / empirical 三层本体论；教育作为开放系统，规律性需人为封闭条件才出现
+> - **[[Critical Realism|批判实在论]](Bhaskar, 1978; Sayer, 2000)** — 区分 real / actual / empirical 三层本体论；教育作为开放系统，规律性需人为封闭条件才出现
 > - **Pawson (2006) 的现实主义[[Appraisal Theory|评估理论]]** — 社会项目通过人的推理（而非物理因果）产生效果；呼吁"实在论综合"取代统计平均
-> - **新自由主义批判框架（Ball, 2013; Sears, 2003）** — [[Evidence-Based Education|EBE]] 定位于审计文化（Power, 1997）和市场化的效率要求中
+> - **新自由主义批判框架(Ball, 2013; Sears, 2003)** — [[Evidence-Based Education|EBE]] 定位于审计文化(Power, 1997)和市场化的效率要求中
 >
 > 方法：概念分析 + 方法论解构 + 实证案例拆解（Fresh Start [[Randomised Controlled Trials|RCT]]、[[Education Endowment Foundation|EEF]] Toolkit、Hattie [[Visible Learning]]）
 
@@ -132,7 +132,7 @@ citation_aliases:
 > ### 政治定位
 >
 > Wrigley 将 [[Evidence-Based Education|EBE]] 方法论精简定位于**新自由主义政策框架**：
-> - EBE 是"审计文化"（Power, 1997）的延伸——从评估问责到"政策作为数字"（Ozga & Lingard, 2007）再到现在"证据本位教学"
+> - EBE 是"审计文化"(Power, 1997)的延伸——从评估问责到"政策作为数字"(Ozga & Lingard, 2007)再到现在"证据本位教学"
 > - "什么有效"的口号将教育价值问题转化为技术效率问题，与 Biesta 的"teleological 特征"互补
 > - 教师的去专业化：声称赋予教师"声音"的 [[ResearchED]] 实际上将教师引向单一的 RCT 方法论——学术大学研究的替代者是符合政府偏好的"草根运动"
 > - 自然化的统计范畴（如"white British"、"FSMever"、"expected progress"）通过重复使用变成自明实体，抹除个体传记和文化资产
@@ -187,11 +187,11 @@ citation_aliases:
 >
 > **Wrigley 可能的回应**：Wrigley 会回应说，教师不需要自己进行实在论综合——这应该是研究者的工作。问题是研究者的产出（如 [[Education Endowment Foundation|EEF]] Toolkit 的效应量排名表）对教师"易用"但"误导"——实在论综合的目标是提供更准确（虽然更复杂）的综述。但这一回应的确承认了"可及性"与"准确性"之间的固有张力。
 >
-> **目前状态**：实在论综合在方法论学者中获得认可（Pawson, 2006; Pawson & Tilley, 1997），但其在政策审议中的实际影响力远不及 Toolkit/Hattie 的效应量排名——后者之所以流行恰恰因为其简单性（参见 Cowen, 2019 对"对主权者透明"的分析）。
+> **目前状态**：实在论综合在方法论学者中获得认可(Pawson, 2006; Pawson & Tilley, 1997)，但其在政策审议中的实际影响力远不及 Toolkit/Hattie 的效应量排名——后者之所以流行恰恰因为其简单性（参见 Cowen, 2019 对"对主权者透明"的分析）。
 >
 > ### 对量化方法的全面不信任：批判的边界
 >
-> **批评内容**：Wrigley 对"方法论多元"的论证在实践中可能被解读为拒绝所有统计研究——尽管他承认"数字本身不是问题"（p. 14），但论文的论证火力几乎全部指向统计方法的缺陷，而鲜有讨论（已发表的）高质量的[[Quantitative Research|量化研究]]案例以及其在特定教育问题上的有效应用。
+> **批评内容**：Wrigley 对"方法论多元"的论证在实践中可能被解读为拒绝所有统计研究——尽管他承认"数字本身不是问题"(p. 14)，但论文的论证火力几乎全部指向统计方法的缺陷，而鲜有讨论（已发表的）高质量的[[Quantitative Research|量化研究]]案例以及其在特定教育问题上的有效应用。
 >
 > **影响**：此全面不信任的基调使 Wrigley 的论文在 [[Evidence-Based Education|EBE]] 方法论辩论中容易被对手定位为"反量化"而非"方法多元"——削弱了其作为建设性替代方案的可信度。[[Argument_Slavin_2019_EP|Slavin (2019)]] 可以将 Wrigley 的立场所概括为"怀疑论者认为我们根本不应该进行教育实验"——尽管 Wrigley 的立场更为精细。
 >

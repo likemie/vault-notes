@@ -191,9 +191,14 @@
   },
   "active": "0b96c36524025567",
   "lastOpenFiles": [
-    "wiki/facts/global/Education International.md",
     "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
+    "wiki/facts/bolivia/Bolivian Education Reform 1994.md",
+    "wiki/facts/bolivia/Bolivian Education Reform 1994.md.tmp.59161.d47071e4c089",
+    "wiki/facts/bolivia",
+    "wiki/facts/brazil/Brazilian Secondary Education Curriculum Reform 1998.md",
+    "wiki/facts/brazil",
+    "wiki/facts/global/Education International.md",
     "wiki/concepts/comparative-education/Governance by Spin.md",
     "wiki/theories/comparative-education/Actor-Network Theory.md",
     "wiki/persons/argentina/Jason Beech.md",
@@ -219,13 +224,8 @@
     "wiki/theories/sociology-of-education/Dual Elite Career Paths.md",
     "wiki/theories/sociology-of-education/Cultural Models.md",
     "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
-    "wiki/theories/research-methodology/Sociology of Measurement.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md",
     "scripts/cleanup_argument_authors.py",
     "scripts/cleanup_person_yaml.py",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md.tmp.59161.074a5d9a9d12",
-    "scripts/__pycache__/citation_index.cpython-313.pyc",
-    "scripts/citation_linker.py",
-    "sources/Beech_2009_CE.pdf"
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md.tmp.59161.074a5d9a9d12"
   ]
 }

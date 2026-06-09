@@ -64,7 +64,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：[[Reflexivity|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
-> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、[[Causality|因果推断]]方法论文献（Neyman, Rubin, Holland, Pearl, Campbell, Freedman, Rosenbaum 等）、Berk 本人的研究项目（Berk, 2004, 2005, 2007）
+> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、[[Causality|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 ## 核心论证
 
@@ -77,7 +77,7 @@ citation_aliases:
 >
 > ### 2. 随机实验的优势与局限
 >
-> 随机实验的[[Internal Validity|内部效度]]优势被认可（Campbell, 1969; Campbell & Stanley, 1963），但广泛使用导致两个不良后果：
+> 随机实验的[[Internal Validity|内部效度]]优势被认可(Campbell, 1969; Campbell & Stanley, 1963)，但广泛使用导致两个不良后果：
 > - **集群随机化问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致样本量不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
 > - **非随机研究被断然否定**："这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity|外部效度]]，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处(p.195)
 >

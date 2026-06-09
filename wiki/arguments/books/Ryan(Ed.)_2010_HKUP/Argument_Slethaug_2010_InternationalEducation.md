@@ -56,7 +56,7 @@ citation_aliases:
 > [!abstract]
 > 本章未采用单一命名理论，而是以**全球化**（globalization）和**去国家化**（denationalization）两个视角贯穿分析。
 >
-> 核心前提来自 Suárez-Orozco & Qin-Hilliard（2004）：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"(p.1)。
+> 核心前提来自 Suárez-Orozco & Qin-Hilliard(2004)：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"(p.1)。
 >
 > Slethaug 默认预设了"[[Knowledge-Based Economy|知识经济]]"（Knowledge-Based Economy）的存在——即一个国家的国际竞争力，取决于其生产知识而非仅生产商品的能力。这个预设是理解他整个论证的钥匙：为什么[[International Education|国际教育]]值得关注？因为教育产出=知识产出=国家竞争力。
 
@@ -124,11 +124,11 @@ Slethaug 接着论证：如果说 PISA 是比较中小学生，那么[[Global Un
 
 > 例（最直观的数据）：1960 年，国际学校约 **70%** 的学生来自学校创始国；到 2005 年，这个比例降到 **30%**(p.24)。
 >
-> 例（布鲁塞尔国际学校）：十年前 70% 是美国学生，现在只有 **29%**；雇主支付学费的比例从 98% 降到 89%（Conlin, 2006, p.11，转引自 Slethaug, 2010, p.24）。
+> 例（布鲁塞尔国际学校）：十年前 70% 是美国学生，现在只有 **29%**；雇主支付学费的比例从 98% 降到 89%(Conlin, 2006, p.11,转引自 Slethaug, 2010, p.24)。
 >
 > 例（规模增长）：1964 年全球约 50 所国际学校；1994 年约 1,000 所、50 万学生；2005 年约 3,000 所、约 200 万学生。四十一年间增长了 **60 倍**(pp.22–23)。
 
-Slethaug 由此推出一个重要结论：国际学校已经从"教育机构"变成了**市场导向的企业**——它们必须收取全额学费（香港每年 US$10,000–20,000），必须把学生和家长视为"客户"，必须关注"市场需求"（Yamato & Bray, 2006, p.60，转引自 Slethaug, 2010, p.26）。
+Slethaug 由此推出一个重要结论：国际学校已经从"教育机构"变成了**市场导向的企业**——它们必须收取全额学费（香港每年 US$10,000–20,000），必须把学生和家长视为"客户"，必须关注"市场需求"(Yamato & Bray, 2006, p.60,转引自 Slethaug, 2010, p.26)。
 
 **这一步的逻辑功能**：证明[[International Education|国际教育]]不仅是"跨国比较"的问题，而是一整个**新产业**已经形成了——而且是在几乎没有人研究的情况下形成的（"while nobody was looking"）。
 
@@ -140,9 +140,9 @@ IB 的吸引力在于它声称**意识形态中立**——不绑定任何国家�
 
 但 Slethaug 引述了关键质疑：
 
-> 例（Drake 的质疑）：Drake（2004）在香港的华人国际学校任教时发现，IB 强调的"多角度思考"和"开放心态"——听起来很普世——实际上预设了**西方的教学方法**。当你把这种预设直接搬到亚洲课堂时，会产生文化张力。IB 是用英语教的，要求英语熟练度——这在某种程度上已经是意识形态了，尽管它声称不是。(pp.28–29)
+> 例（Drake 的质疑）：Drake(2004)在香港的华人国际学校任教时发现，IB 强调的"多角度思考"和"开放心态"——听起来很普世——实际上预设了**西方的教学方法**。当你把这种预设直接搬到亚洲课堂时，会产生文化张力。IB 是用英语教的，要求英语熟练度——这在某种程度上已经是意识形态了，尽管它声称不是。(pp.28–29)
 >
-> 例（另一个方向的文化缺失）：Li（2009）指出，**道德发展**是中国教学法的重要组成部分——在中国的课堂里，教"做人"和教"知识"不是两件事。但西方的 IB 课堂可能完全忽略这个维度——不是因为故意，而是因为在其文化框架中，道德教育不属于"课程"的范畴。(pp.25–26)
+> 例（另一个方向的文化缺失）：Li(2009)指出，**道德发展**是中国教学法的重要组成部分——在中国的课堂里，教"做人"和教"知识"不是两件事。但西方的 IB 课堂可能完全忽略这个维度——不是因为故意，而是因为在其文化框架中，道德教育不属于"课程"的范畴。(pp.25–26)
 
 **这一步的逻辑功能**：即便国际学校找到了"去国家化"的课程方案（IB），这个方案本身仍然带有文化预设。国际教育的"国际化"可能只是"西化"的另一种说法。
 
@@ -160,7 +160,7 @@ IB 的吸引力在于它声称**意识形态中立**——不绑定任何国家�
 
 ### 综合结论：为什么需要这本书
 
-Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国大陆的学生不希望被假设与来自香港、新加坡、台湾的中国学习者有相同的认同、价值观和偏好——甚至中国大陆内部也因地区、年龄、性别、宗教、经济和文化地位而极为多元（Hu, 2003; Louie, 2005; Shi, 2006，均转引自 Slethaug, 2010, p.34）。
+Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国大陆的学生不希望被假设与来自香港、新加坡、台湾的中国学习者有相同的认同、价值观和偏好——甚至中国大陆内部也因地区、年龄、性别、宗教、经济和文化地位而极为多元(Hu, 2003; Louie, 2005; Shi, 2006,均转引自 Slethaug, 2010, p.34)。
 
 > 例（Slethaug 自己的总结）：在国际课堂中，仅考虑一种"中国性"是有问题的——无论那种"中国性"代表什么。同样，完全忽视学生的中国性，只按教师母国的个体、家庭和教学价值来上课，也是有问题的。(p.34)
 
@@ -170,15 +170,15 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 > [!success]
 > **[[International Schools|国际学校]]的规模与转型**
-> - 国际学校从约 50 所（1964）增至约 3,000 所（2005），学生约 200 万(pp.22–23)
-> - 学生构成去国家化：创始国学生比例从 70%（1960）降至 30%（2005）(p.24)
+> - 国际学校从约 50 所(1964)增至约 3,000 所(2005)，学生约 200 万(pp.22–23)
+> - 学生构成去国家化：创始国学生比例从 70%(1960)降至 30%(2005)(p.24)
 > - 国际学校已成为面向精英阶层的市场化机构：香港年费 US$10,000–20,000(p.26)
 > - 课程从国家课程转向 [[International Baccalaureate|IB]]，语言设置从单一母语转向双语/三语(pp.27–28)
 
 > [!success]
 > **[[Chinese Learner|中国学习者]]的流动性与多元性**
 > - 1978–2003 年共 580,000 名中国学生赴美留学(p.17)
-> - 中国自身也成为留学目的地：外国学生从 61,869（2001）增至 140,000+（2005）(p.18)
+> - 中国自身也成为留学目的地：外国学生从 61,869(2001)增至 140,000+(2005)(p.18)
 > - 中国学习者内部因地区、年龄、性别、宗教、经济和文化地位而极为多元——不存在单一类型的"中国学习者"(p.34)
 
 > [!success]
@@ -187,10 +187,10 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 > - 这一缺口导致旧刻板印象延续和教学中的"智识殖民主义"持续运作(p.33)
 
 > [!info]- 核心数据
-> - 国际学校：50 所（1964）→ 1,000 所/50 万学生（1994）→ 3,000+/200 万学生（2005）(pp.22–23)
-> - IB 规模：709,000 学生／2,609 学校／135 国（2009）；一年前为 596,000／2,218／125(p.28)
+> - 国际学校：50 所(1964)→ 1,000 所/50 万学生(1994)→ 3,000+/200 万学生(2005)(pp.22–23)
+> - IB 规模：709,000 学生／2,609 学校／135 国(2009)；一年前为 596,000／2,218／125(p.28)
 > - 中国出国留学：580,000 人赴美（1978–2003）；200,000 人/年（2007，《中国日报》）；349,506 人（2004，IIE）(pp.17–18)
-> - 赴华留学：61,869（2001）→ 110,844（2004）→ 140,000+（2005）(p.18)
+> - 赴华留学：61,869(2001)→ 110,844(2004)→ 140,000+(2005)(p.18)
 > - [[English Schools Foundation Hong Kong|ESF]] 系统：40%–50% 本地香港华人学生(p.4，引自第 1 章前言概述部分)
 > - 国际学校年费（香港）：US$10,000–20,000(p.26)
 
@@ -198,13 +198,13 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 > [!quote]
 > “那些与民族国家公民的培养和局限于本地系统的消费者紧密相连，而忽视更大全球力量的教育系统，很可能会变得过时；而那些主动应对全球化新挑战的教育系统则更有可能蓬勃发展。”
-> ("Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.")（Suárez-Orozco & Qin-Hilliard, 2004, p.23，转引自 Slethaug, 2010, p.1）
+> ("Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.")(Suárez-Orozco & Qin-Hilliard, 2004, p.23,转引自 Slethaug, 2010, p.1)
 >
 > — 这是 Slethaug 全章的题眼：固守本地的教育体系将被淘汰，拥抱全球化的将繁荣。
 
 > [!quote]
 > “因此，也许比大多数主流学校更重要的是，[[International Schools|国际学校]]必须面向市场。它们必须以目标客户能够承受的价格提供抢手的课程，并且必须关注不断变化的人口和经济力量。”
-> ("Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces.")（Yamato & Bray, 2006, p.60，转引自 Slethaug, 2010, p.26）
+> ("Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces.")(Yamato & Bray, 2006, p.60,转引自 Slethaug, 2010, p.26)
 >
 > — 国际学校不再是教育机构，而是市场参与者。
 

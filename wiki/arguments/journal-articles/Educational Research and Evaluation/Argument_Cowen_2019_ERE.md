@@ -65,7 +65,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]]（Tullock, 2005）** — 官僚制是信息处理金字塔，主权者面临的核心难题是知识问题和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
+> - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]](Tullock, 2005)** — 官僚制是信息处理金字塔，主权者面临的核心难题是知识问题和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
 > - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决[[External Validity|外部效度]]问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
 >
@@ -76,7 +76,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**：理论综合 + 制度分析
 > - **论证结构**：
->   1. 从 Cartwright/Deaton 等哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的认识论限度
+>   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的认识论限度
 >   2. 引入 Tullock 官僚制模型作为[[Analytic Framework|分析框架]]
 >   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 [[Education Endowment Foundation|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
@@ -196,7 +196,7 @@ citation_aliases:
 >
 > **批评内容**：Cowen (p. 10) 坦承其模型只能对"为什么 EBE 在此刻（21 世纪初）而非其他时期占据主导"提供尝试性假说——指向英国 1988 年以来的中央化教育改革（创造了需要"远程控制"学校的决策者）和行为经济学的兴起（为 RCT 提供了方法论合法性）。但 Tullock 模型本身是**结构性/功能性**的——它擅长解释 EBE 解决什么问题（制度功能），不擅长解释时机（为什么是现在）。
 >
-> **可能的扩展方向**：将 Tullock 模型与[[Policy Borrowing|政策借用]]框架（Steiner-Khamsi, 2012）或历史制度主义（Thelen, 2004）结合——前者解释时机选择和全球扩散，后者解释制度功能的持续性。
+> **可能的扩展方向**：将 Tullock 模型与[[Policy Borrowing|政策借用]]框架(Steiner-Khamsi, 2012)或历史制度主义(Thelen, 2004)结合——前者解释时机选择和全球扩散，后者解释制度功能的持续性。
 >
 > **目前状态**：此局限尚未被后续研究系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的诊断工具，而非预测政策变迁时机的因果理论。
 

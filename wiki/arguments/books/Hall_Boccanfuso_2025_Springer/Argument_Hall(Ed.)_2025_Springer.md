@@ -124,16 +124,16 @@ citation_aliases:
 
 > [!quote]
 > “贯穿本书的基本理念是：实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于研究与学术、教育与学习以及公共利益方面的深度参与。”
-> ("Fundamental to our book is the notion that strength and impact are developed not solely through relationships between universities and industry but engagement, in research and scholarship, education and learning, and public benefits.")（p.4）
+> ("Fundamental to our book is the notion that strength and impact are developed not solely through relationships between universities and industry but engagement, in research and scholarship, education and learning, and public benefits.")(p.4)
 
-全书从第一章起就建立了一个贯穿始终的[[Analytic Framework|分析框架]]：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化（p.4）。
+全书从第一章起就建立了一个贯穿始终的[[Analytic Framework|分析框架]]：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化(p.4)。
 
 > [!example]
-> 2024 年诺贝尔奖的三个科学奖项被用作说明这一趋势的关键证据：物理学奖表彰了神经网络的基础研究（得主 Geoffrey Hinton 曾在 Google 工作十年），化学奖表彰了 AlphaFold 蛋白质结构预测软件（得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发）；生理学与医学奖得主虽未曾在产业工作，但其 MicroRNA 研究通过治疗开发对生物医学公司产生了变革性影响（pp.3–4）。换一个角度看：如果 Hinton 从未进入 Google，或 Hassabis 和 Jumper 不在 DeepMind 工作，这些诺贝尔奖级别的成果可能根本不会以同样的方式出现。
+> 2024 年诺贝尔奖的三个科学奖项被用作说明这一趋势的关键证据：物理学奖表彰了神经网络的基础研究（得主 Geoffrey Hinton 曾在 Google 工作十年），化学奖表彰了 AlphaFold 蛋白质结构预测软件（得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发）；生理学与医学奖得主虽未曾在产业工作，但其 MicroRNA 研究通过治疗开发对生物医学公司产生了变革性影响(pp.3–4)。换一个角度看：如果 Hinton 从未进入 Google，或 Hassabis 和 Jumper 不在 DeepMind 工作，这些诺贝尔奖级别的成果可能根本不会以同样的方式出现。
 
 ### 目标对齐的逻辑
 
-大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应[[University-Industry Collaboration|产学合作]]的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同（pp.5–7）。
+大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应[[University-Industry Collaboration|产学合作]]的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同(pp.5–7)。
 
 > [!abstract]
 > **对齐（alignment）的三个层次**：
@@ -142,13 +142,13 @@ citation_aliases:
 > - **容易分歧的领域**：盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力
 
 > [!info]- 核心数据
-> 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半（p.5）。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。
+> 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半(p.5)。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。
 
-弗里德曼（Friedman, 1970）的股东至上论——"企业的社会责任就是增加利润"——与商业圆桌会议（Business Roundtable, 2019）的多方利益相关者宣言，代表了企业目的观的两种极端立场；ESG 投资和社会目的公司（Social Purpose and Benefit Corporations）则提供了中间路径（pp.5–6）。理解这些不同的企业目的观，是理解"在何处对齐、在何处妥协"的前提。
+弗里德曼(Friedman, 1970)的股东至上论——"企业的社会责任就是增加利润"——与商业圆桌会议(Business Roundtable, 2019)的多方利益相关者宣言，代表了企业目的观的两种极端立场；ESG 投资和社会目的公司（Social Purpose and Benefit Corporations）则提供了中间路径(pp.5–6)。理解这些不同的企业目的观，是理解"在何处对齐、在何处妥协"的前提。
 
 ### 结构性挑战
 
-合作之所以困难，根源在于大学和企业是两种制度逻辑的产物（pp.8–10）：
+合作之所以困难，根源在于大学和企业是两种制度逻辑的产物(pp.8–10)：
 
 | 维度 | 大学 | 企业 |
 |------|------|------|
@@ -159,17 +159,17 @@ citation_aliases:
 | 目标优先级 | 声誉 > 收入 | 利润 > 声誉 |
 
 > [!example]
-> 学术自由导致的"渗透性"（porosity）是理解产学摩擦的关键。大学教授可以在学术会议上自由展示未发表的数据，把博士生派到合作企业实习；企业研究人员通常需要法务部门批准才能在外部发言，并可能被禁止讨论某些技术细节。当这两种逻辑在"界面"上相遇时，每一项合作协议——发表审查权、知识产权归属、学生权益保护、间接成本核算、数据使用权等——都可能成为僵持的战场（pp.9–10）。
+> 学术自由导致的"渗透性"（porosity）是理解产学摩擦的关键。大学教授可以在学术会议上自由展示未发表的数据，把博士生派到合作企业实习；企业研究人员通常需要法务部门批准才能在外部发言，并可能被禁止讨论某些技术细节。当这两种逻辑在"界面"上相遇时，每一项合作协议——发表审查权、知识产权归属、学生权益保护、间接成本核算、数据使用权等——都可能成为僵持的战场(pp.9–10)。
 
-更深层的挑战是：当今的领先企业和大学"已经变得更加相似"——两者都生产、传播和利用信息，都能提供教育课程，都雇用博士训练的研究人员——这意味着它们在某些领域不是互补者而是竞争者（p.10）。
+更深层的挑战是：当今的领先企业和大学"已经变得更加相似"——两者都生产、传播和利用信息，都能提供教育课程，都雇用博士训练的研究人员——这意味着它们在某些领域不是互补者而是竞争者(p.10)。
 
 ### 制度桥梁
 
 面对这些结构性张力，全书从两个层面给出了回应：
 
-1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]]（1914）的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth 和 Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征（pp.11–12）。
+1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]](1862)赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]](1914)的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth & Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征(pp.11–12)。
 
-2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics 等项目代表了从合同细节到战略联盟的系统性解决方案（pp.16–20）。
+2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics et al.项目代表了从合同细节到战略联盟的系统性解决方案(pp.16–20)。
 
 ---
 
@@ -200,11 +200,11 @@ citation_aliases:
 | | · 企业 | |
 | | · 大学 | |
 
-> 表 1.1 出自 Chapter 1（p.20），展示全书 17 章在 Foundations-Avenues-Mechanics 三层框架下的组织方式。
+> 表 1.1 出自 Chapter 1(p.20)，展示全书 17 章在 Foundations-Avenues-Mechanics 三层框架下的组织方式。
 
 ### Fig. 1.3: 产学合作的关键议题
 
-> 全书 17 章贯穿 Foundation（催化）→ Avenues（启动）→ Mechanics（维持）三阶段，打造有影响力的产学合作（p.21）。
+> 全书 17 章贯穿 Foundation（催化）→ Avenues（启动）→ Mechanics（维持）三阶段，打造有影响力的产学合作(p.21)。
 
 | 基础    | 路径        | 机制       |
 | ----- | --------- | -------- |
@@ -231,9 +231,9 @@ citation_aliases:
 > [!tip]
 > 全书共用的[[Theoretical Perspective|理论视角]]。
 
-- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环（p.13）
-- [[Innovation Ecosystem]] — 建立在 Schumpeter（1942）创新理论和 Ridley（2020）论述的基础上，理解大学如何作为区域经济的"锚点"、创意与人员如何通过流动驱动创新（pp.12–13）
-- [[Multi-University]] — Clark Kerr（2001）对美国现代大学的描述：广泛触及社区与社会，服务多重使命，这一定位解释了为什么[[University-Industry Collaboration|产学合作]]必然是多维度的（p.5）
+- [[Triple Helix]] — Etzkowitz & Leydesdorff(1995)的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环(p.13)
+- [[Innovation Ecosystem]] — 建立在 Schumpeter(1942)创新理论和 Ridley(2020)论述的基础上，理解大学如何作为区域经济的"锚点"、创意与人员如何通过流动驱动创新(pp.12–13)
+- [[Multi-University]] — Clark Kerr(2001)对美国现代大学的描述：广泛触及社区与社会，服务多重使命，这一定位解释了为什么[[University-Industry Collaboration|产学合作]]必然是多维度的(p.5)
 
 ---
 

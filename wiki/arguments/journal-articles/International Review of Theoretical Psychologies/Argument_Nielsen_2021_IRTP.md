@@ -71,7 +71,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. VL 的流行无法用经验质量解释
 >
-> 作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; Simpson, 2017; Terhart, 2012; Wrigley, 2018)一致记录了 VL 的重大方法论缺陷（pp. 80-81, Table 1）：
+> 作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; Simpson, 2017; Terhart, 2012; Wrigley, 2018)一致记录了 VL 的重大方法论缺陷(pp. 80-81, Table 1)：
 >
 > - 复杂性还原：将因果聚焦于单一因素而忽略交互效应
 > - 消除调节因素：如学生 SES
@@ -86,41 +86,41 @@ citation_aliases:
 >
 > 作者指出一个关键点：**Hattie 自己明确表示数据不是重点，重点是理论综合**。Hattie 说："I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259]])。
 >
-> Hattie 的目标是解决证据本位研究缺乏连贯性的问题，创建一个"统一的[[Didaktik|教学理论]]"使教师与之对齐。但是 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，但对 VL 的实际内容施加了巨大影响（pp. 79-80）。
+> Hattie 的目标是解决证据本位研究缺乏连贯性的问题，创建一个"统一的[[Didaktik|教学理论]]"使教师与之对齐。但是 Hattie 所称的"理论"实际上是一种"无意识理论"(unconscious theory, Costall, 2013)——它虽未被明确阐述，但对 VL 的实际内容施加了巨大影响(pp. 79-80)。
 >
 > ### 3. [[Technical Rationality|技术理性]]作为 VL 的理论内核
 >
-> 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响（p. 81-82）：
+> 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响(p. 81-82)：
 >
 > > “技术理性是实证主义的遗产，这一强大的哲学学说在十九世纪成长起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
 > ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
 >
-> 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决（p. 82）。
+> 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决(p. 82)。
 >
 > ### 4. 合法化危机与 VL 的功能
 >
 > **背景**：[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充分合法性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
 >
-> **Habermas 的[[Analytic Framework|分析框架]]**（pp. 83-86）：
+> **Habermas 的[[Analytic Framework|分析框架]]**(pp. 83-86)：
 >
-> - **系统（system）vs. 生活世界（lifeworld）**：学校处于两者的"再生产十字路口"（Borman, 2011, p. 7）
+> - **系统（system）vs. 生活世界（lifeworld）**：学校处于两者的"再生产十字路口"(Borman, 2011, p. 7)
 > - 传统现代社会中，学校课程与日常生活的价值观和权威体系紧密相连，参与者容易认同
 > - 晚期现代社会中，国家机构逐渐从传统的共识理性转向**价值中立的工具理性**进行治理——这为合法化危机打开了大门
 > - 危机的核心：国家机构必须同时服务于两个利益对立的"主人"——市场的特殊利益和公民的公共利益
 > - **生活世界的殖民化（colonization of the lifeworld）**：行政系统不断提取生活世界的价值来为面向市场的策略性干预辩护，系统性削弱公民参与的共同价值
 >
-> **Hattie 的解决方案**（pp. 86-88）：
+> **Hattie 的解决方案**(pp. 86-88)：
 > - VL 提供了一个"统一的教学理论"，回答了"人们为什么需要学校？"——因为学校是"将知识从教师传递给学生的最有效机构"，前提是遵循 Hattie 的建议
 > - Hattie 将教学分解为易于获取的技术性、碎片化的输入-输出干预，可被等级化、控制和测量——这正是优化教育系统效率所需的
 > - **关键洞察**：不是 Hattie 的科学发现或原始数据产生了影响，而是**嵌入技术理性理论中的承诺**（promises）——承诺稳定的学习成果——使教育系统获得了合法性
 >
 > ### 5. 代价：学生意向性与意义的边缘化
 >
-> 作者识别了技术理性框架的根本代价（pp. 88-89）：
+> 作者识别了技术理性框架的根本代价(pp. 88-89)：
 >
-> - **无学生/教师意向性概念**：Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]"（p. 88）
+> - **无学生/教师意向性概念**：Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]"(p. 88)
 > - **学生被理解为需要被影响的对象**：虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对反馈做出反应
-> - **学习目标不容讨论**：Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"（p. 88-89）。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
+> - **学习目标不容讨论**：Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"(p. 88-89)。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
 > - **反馈取代对话**：人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
 > > “在 Hattie 的可见的学习理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
@@ -132,10 +132,10 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - **VL 的流行是合法化危机的症状，而非教育科学进步的标志**（pp. 86-88）
-> - **Hattie 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架（p. 87）
-> - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求**：学生被原子化为[[Variable|变量]]，学习目标不容讨论（pp. 88-89）
-> - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"**（p. 89）
+> - **VL 的流行是合法化危机的症状，而非教育科学进步的标志**(pp. 86-88)
+> - **Hattie 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架(p. 87)
+> - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求**：学生被原子化为[[Variable|变量]]，学习目标不容讨论(pp. 88-89)
+> - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"**(p. 89)
 
 ## 关键引用
 

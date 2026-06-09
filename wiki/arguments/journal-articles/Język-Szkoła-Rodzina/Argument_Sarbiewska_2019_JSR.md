@@ -54,7 +54,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Dietrich Benner]] 的修正版教学三角（modified didactic triangle）— 区分传统模型（课程作为交换对象，教学=学习）与修正模型（课程作为目标，教学与学习是两种独立但协同的活动）
-> - [[Evidence-Based Education]] — 借鉴自医学的证据本位实践模型（Davies, 1999）
+> - [[Evidence-Based Education]] — 借鉴自医学的证据本位实践模型(Davies, 1999)
 > - [[Visible Learning]] — Hattie 的[[Effect Size|效应量]]排名框架作为政策和实践改革的证据基础
 
 ## 研究方法
@@ -80,27 +80,27 @@ citation_aliases:
 
 > [!success] 主要发现
 > - 新西兰和澳大利亚从传统教育模型转向证据本位模型，核心变化是对教学与学习关系的重新理解(p.122–123)
-> - [[PISA]] 2001 数据显示新西兰和澳大利亚处于"高质量、高公平"象限，但成绩差异较大（High Average and Large Variance），主要源于校内差异而非校际差异（p.123–124）
-> - 新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任（p.124）
-> - 澳大利亚维多利亚州开发了 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略），源自 Hattie 和 Marzano 的研究（p.126）
-> - 新西兰 ERO（Education Review Office）帮助教师与家长和社区合作，澄清有效教师的特征：灵活回应学生、使用不同教学方法、借助其他成人和社区成员的专业知识（p.127）
-> - 澳大利亚 Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习（p.127）
-> - [[Australian Curriculum]]（2012）包含三个维度：学习领域、通用能力和跨课程优先事项，各校有独特实施方式（p.128）
-> - [[The New Zealand Curriculum]]（2010）包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况（p.128）
-> - 两国学校实践课程连接（curriculum connection），被认为能有效促进师生协作（p.128–129）
-> - VL 面临两类批评：方法论批评（[[Effect Size|效应量]]计算"统计上不复杂"）和理论批评（属于[[Radical Constructivism|激进建构主义]]范式，导致教学本质的双重崩溃）（p.121–122）
+> - [[PISA]] 2001 数据显示新西兰和澳大利亚处于"高质量、高公平"象限，但成绩差异较大（High Average and Large Variance），主要源于校内差异而非校际差异(p.123–124)
+> - 新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任(p.124)
+> - 澳大利亚维多利亚州开发了 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略），源自 Hattie 和 Marzano 的研究(p.126)
+> - 新西兰 ERO（Education Review Office）帮助教师与家长和社区合作，澄清有效教师的特征：灵活回应学生、使用不同教学方法、借助其他成人和社区成员的专业知识(p.127)
+> - 澳大利亚 Gonski 2.0(2018)提出以个体进步而非年龄基准衡量成功学习(p.127)
+> - [[Australian Curriculum]](2012)包含三个维度：学习领域、通用能力和跨课程优先事项，各校有独特实施方式(p.128)
+> - [[The New Zealand Curriculum]](2010)包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况(p.128)
+> - 两国学校实践课程连接（curriculum connection），被认为能有效促进师生协作(p.128–129)
+> - VL 面临两类批评：方法论批评（[[Effect Size|效应量]]计算"统计上不复杂"）和理论批评（属于[[Radical Constructivism|激进建构主义]]范式，导致教学本质的双重崩溃）(p.121–122)
 
 ## 关键引用
 
 > [!quote] 关键引用
-> > "在传统模型中，教学被理解为向所有学生交付适当的年级水平课程。教师的角色是交付相关课程；学生的工作是学习教师所教的内容；评估的角色是确定学生学到了多少并按此分级"（Masters, cited in Sarbiewska, 2019, p.119）
+> > "在传统模型中，教学被理解为向所有学生交付适当的年级水平课程。教师的角色是交付相关课程；学生的工作是学习教师所教的内容；评估的角色是确定学生学到了多少并按此分级"(Masters, cited in Sarbiewska, 2019, p.119)
 >
-> > "Hattie 的方法在统计上并不复杂，可以概括为计算平均值和标准差，而后者他并未真正使用"（Bergeron, cited in Sarbiewska, 2019, p.121）
+> > "Hattie 的方法在统计上并不复杂，可以概括为计算平均值和标准差，而后者他并未真正使用"(Bergeron, cited in Sarbiewska, 2019, p.121)
 >
 > > “VL（可见的学习）属于[[Radical Constructivism|激进建构主义]]范式，因此[[Constructivist Paradigm|建构主义]]的问题与哈蒂（Hattie）的教学概念直接相关，这导致了教学本质的双重崩溃。”
-> ("VL belongs to the paradigm of radical constructivism, and therefore the problems of constructivism are directly related to Hattie’s concept of teaching, which leads to a double collapse of the essence of teaching.")（Rømer, cited in Sarbiewska, 2019, p.121–122）
+> ("VL belongs to the paradigm of radical constructivism, and therefore the problems of constructivism are directly related to Hattie’s concept of teaching, which leads to a double collapse of the essence of teaching.")(Rømer, cited in Sarbiewska, 2019, p.121–122)
 >
-> > "分享权力和学习责任，教师将学生置于实现我们对他们的愿景的道路上，使他们有能力为我们的国家确保可持续的社会、文化、经济和环境未来"（NZ Ministry of Education, cited in Sarbiewska, 2019, p.125）
+> > "分享权力和学习责任，教师将学生置于实现我们对他们的愿景的道路上，使他们有能力为我们的国家确保可持续的社会、文化、经济和环境未来"(NZ Ministry of Education, cited in Sarbiewska, 2019, p.125)
 
 ## 局限性与批评
 

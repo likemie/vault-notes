@@ -58,12 +58,12 @@ citation_aliases:
 > [!abstract] 理论框架
 > - **[[Science and Technology Studies]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"(p.6)
 > - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（[[Performativity]]：测量如何制造世界）(p.6–7)
-> - **共同生产（Co-production）**（Jasanoff, 2004） — 科学与治理相互构成的[[Analytic Framework|分析框架]](p.6)
+> - **共同生产（Co-production）**(Jasanoff, 2004) — 科学与治理相互构成的[[Analytic Framework|分析框架]](p.6)
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：追踪"科学在行动"的实践（Latour, 1987, 1999）；文献档案分析
+> - **方法**：追踪"科学在行动"的实践(Latour, 1987, 1999)；文献档案分析
 > - **数据来源**：[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录(p.5)
 
 ## 核心论证
@@ -77,7 +77,7 @@ citation_aliases:
 >
 >    **(b) 权力的转移**：Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友(p.12–13)
 >
->    **(c) 指标的制度化与 routinisation**：曾经激烈的辩论转变为协议，协议转变为常规——数据生成的常规、统计公式应用的常规、年度出版的常规。方法论程序化产生了"机械客观性"(Porter, 1995; p.17)。共识可视为[[Transfer Translation Transformation|转译]]（Callon, 1986; Latour, 1999），通过纳入多样化利益使 EAG 能够高效常规生产(p.17)
+>    **(c) 指标的制度化与 routinisation**：曾经激烈的辩论转变为协议，协议转变为常规——数据生成的常规、统计公式应用的常规、年度出版的常规。方法论程序化产生了"机械客观性"(Porter, 1995; p.17)。共识可视为[[Transfer Translation Transformation|转译]](Callon, 1986; Latour, 1999)，通过纳入多样化利益使 EAG 能够高效常规生产(p.17)
 >
 >    **(d) 测量的 [[Performativity]]**：指标一旦存在就作用于世界——改变理解和行为、物化非原始的[[Causality|因果关系]]、使被排除在计算之外的领域失去重要性。赋予"可计算性特征"本身就是改变世界的行为(p.15–18)
 >
@@ -88,7 +88,7 @@ citation_aliases:
 > [!success] 主要发现
 > - [[International Indicators of Education Systems|INES]] 采用"灵活的组织框架"，以概念和实用为基础并纳入政策关切(Bottani, 1994, p.335; p.12)
 > - [[Education at a Glance|EAG]] 从 1992 年的 150 页增长至约 550 页(p.14)
-> - [[Performance Indicators|绩效指标]]从 EAG 最后一节（1990s）移至第一节（2002–），反映了关注焦点的根本转变(p.13–14)
+> - [[Performance Indicators|绩效指标]]从 EAG 最后一节(1990s)移至第一节（2002–），反映了关注焦点的根本转变(p.13–14)
 > - INES 网络运作如"俱乐部"——有效但可能产生封闭性决策(Bottani, 1998, p.73; p.16)
 > - 指标一旦制度化就极难删除——即使 [[OECD]] 团队想删除，用户抵制（"有人称它为圣经"）（OECD 官员访谈; Gorur, 2014, p.17）
 > - EAG 团队承认必须对媒体说"不正确的简化"，因为复杂真相无法被传播（OECD 官员访谈; Gorur, 2014, p.15）

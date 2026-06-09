@@ -56,7 +56,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — Cartwright & Munro (2010) 提出的 [[Randomised Controlled Trials|RCT]] 证据从"在某处有效"到"对我们有效"的三个知识阶段，构成本文分析的核心框架
-> - [[Tullock's Bureaucracy Theory]] — 未直接使用但作为 Cowen 后续研究（2019）的理论基础，本文的政经分析与之呼应
+> - [[Tullock's Bureaucracy Theory]] — 未直接使用但作为 Cowen 后续研究(2019)的理论基础，本文的政经分析与之呼应
 
 ## 研究方法
 
@@ -85,22 +85,22 @@ citation_aliases:
 
 > [!success] 主要发现
 > - 几乎所有受访教师都使用某种形式的证据，但"证据"的定义多样——从 [[Education Endowment Foundation|EEF]] Toolkit 到 Twitter 上的同行讨论到行动研究(p.23-27)
-> - EEF Toolkit 是影响管理决策和参与学校治理辩论的有力工具，但教师普遍认为它不够详细，无法直接指导课堂实施（p.24）
-> - 时间约束是教师深入参与研究证据的主要障碍（p.25-26）
-> - 教师对"忠实执行"的看法分歧：有人认为应尽可能接近原始研究方案，有人强调理解偏离原始方案的原因即可（p.29-30）
-> - 教师呼吁建立批判性审视研究证据的实践社群，而非被动接受学术指导（p.33）
-> - [[Ofsted]] 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学，构成 EBP 实施的制度性障碍（p.37-38）
-> - CPD 现状令人不满：传统"做给你看"模式无效，更有效的是每周固定时段的校内持续性专业发展（p.39）
-> - 许多教师缺乏研究方法训练，无法批判性评估研究证据（p.44-45）
+> - EEF Toolkit 是影响管理决策和参与学校治理辩论的有力工具，但教师普遍认为它不够详细，无法直接指导课堂实施(p.24)
+> - 时间约束是教师深入参与研究证据的主要障碍(p.25-26)
+> - 教师对"忠实执行"的看法分歧：有人认为应尽可能接近原始研究方案，有人强调理解偏离原始方案的原因即可(p.29-30)
+> - 教师呼吁建立批判性审视研究证据的实践社群，而非被动接受学术指导(p.33)
+> - [[Ofsted]] 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学，构成 EBP 实施的制度性障碍(p.37-38)
+> - CPD 现状令人不满：传统"做给你看"模式无效，更有效的是每周固定时段的校内持续性专业发展(p.39)
+> - 许多教师缺乏研究方法训练，无法批判性评估研究证据(p.44-45)
 
 ## 关键引用
 
 > [!quote] 关键引用
 > > “单靠[[Randomised Controlled Trials|RCT]]（随机对照试验）不足以满足政策或实践决策者的需求。”
-> ("An [[Randomised Controlled Trials|RCT]] by itself is insufficient to meet the needs of policy or practice decision makers.")（Cartwright and Munro, 2010, p.265; 引自 Cowen et al., 2015, p.10）
+> ("An [[Randomised Controlled Trials|RCT]] by itself is insufficient to meet the needs of policy or practice decision makers.")(Cartwright and Munro, 2010, p.265; 引自 Cowen et al., 2015, p.10)
 >
 > > “本地知识……对于发展和维持学校改进工作可能是必不可少的。”
-> ("Local knowledge... may be essential to growing and sustaining school improvement efforts.")（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
+> ("Local knowledge... may be essential to growing and sustaining school improvement efforts.")(Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14)
 >
 > > “我们被推着去成为作为研究者的教师，而实际上我们应该成为作为学者的教师。”
 > ("We are pushed to be teachers as researchers, when really we should be teachers as scholars.")（受访教师, Cowen et al., 2015, p.31）
@@ -114,18 +114,18 @@ citation_aliases:
 ## 政策建议
 
 > [!success] 政策建议
-> - 学校应考虑每周为教师留出固定时段用于参与研究证据，作为 CPD 改革的一部分（p.44）
-> - 政府机构（尤其是 [[Ofsted]]）应避免设定与 [[Education Endowment Foundation|EEF]] 研究证据相矛盾的政策要求（p.13, p.44）
-> - EEF 等证据托管机构应提供专门支持本地实施的资源，设立实施团队，鼓励学校之间分享实施经验（p.13, p.45）
-> - 教师培训（PGCE）应纳入研究方法、统计解读和因果机制理解的训练（p.44-45）
-> - 为实施分配专项资金，仅提供信息而无实施指导的资源不能被视为物有所值（p.45）
-> - 证据托管网站应增加互动和反馈功能，鼓励教师发布实践反馈（p.45）
+> - 学校应考虑每周为教师留出固定时段用于参与研究证据，作为 CPD 改革的一部分(p.44)
+> - 政府机构（尤其是 [[Ofsted]]）应避免设定与 [[Education Endowment Foundation|EEF]] 研究证据相矛盾的政策要求(p.13, p.44)
+> - EEF 等证据托管机构应提供专门支持本地实施的资源，设立实施团队，鼓励学校之间分享实施经验(p.13, p.45)
+> - 教师培训（PGCE）应纳入研究方法、统计解读和因果机制理解的训练(p.44-45)
+> - 为实施分配专项资金，仅提供信息而无实施指导的资源不能被视为物有所值(p.45)
+> - 证据托管网站应增加互动和反馈功能，鼓励教师发布实践反馈(p.45)
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文自身承认：样本非平衡，有意偏向积极参与 EBP 辩论的教师，因此结论不具统计代表性（p.22）
-> - [[Literature Review|文献综述]]非系统性，基于非正式检索（p.4）
+> - 论文自身承认：样本非平衡，有意偏向积极参与 EBP 辩论的教师，因此结论不具统计代表性(p.22)
+> - [[Literature Review|文献综述]]非系统性，基于非正式检索(p.4)
 > - 研究未系统性地探讨教师不参与证据的原因——样本中几乎没有对证据完全漠视的教师
 > - 政策建议部分未经过实证检验，属于基于访谈和文献的推断
 

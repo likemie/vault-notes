@@ -37,12 +37,19 @@ LATIN_NAME = r"\b[A-ZÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'-]*[a-zÀ-ÖØ-öø-
 EXCLUDED_TERMS = {
     "pfizer", "celgene", "squibb", "biopôle", "counts", "trust", "mathematica", 
     "elsevier", "google", "deepmind", "alphafold", "ofsted", "oecd", "mdrc", 
-    "rand", "pew", "charitable", "hipaa", "ferpa", "gdpr", "nist", "uw", 
+    "rand", "pew", "charitable", "saab", "woodside", "nexplore", "evonik", "fargo", 
+    "shell", "bayer", "boeing", "leidos", "mantech", "dynamics", "parsons", "hamilton", 
+    "northrop", "grumman", "lilly", "endowment", "hipaa", "ferpa", "gdpr", "nist", "uw", 
     "uva", "yale", "u-m", "madison", "internet", "gps", "eef", "fda", "abb", "ai",
     "emos", "emo", "timss", "pisa", "rct", "ebp", "cpd", "pgce", "ip", "guirr",
     "uidp", "iqvia", "ctti", "cip", "mcc", "cis", "aitsl", "ite", "clt", "sd",
     "se", "ci", "show", "open", "high", "low", "level", "figure", "table", "map",
-    "step", "page", "chapter", "part", "section", "appendix", "volume", "issue"
+    "step", "page", "chapter", "part", "section", "appendix", "volume", "issue",
+    "analytics", "haloscience", "prescouter", "firstignite", "pillar", "pure", "pivot",
+    "academy", "institute", "foundation", "university", "school", "college", "association",
+    "center", "centre", "lab", "laboratory", "corporation", "company", "agency", "council",
+    "department", "office", "government", "state", "union", "museum", "alliance", 
+    "consortium", "network", "district", "park"
 }
 
 def mask_protected(text: str) -> tuple[str, list[str]]:
@@ -129,6 +136,18 @@ def clean_body_citations(body: str, rel_path: str) -> str:
         return f"{n1} et al."
     body = pattern_3plus.sub(repl_3plus, body)
 
+    # E.g. "Biesta、Wrigley、Wiliam 等" -> "Biesta et al."
+    # E.g. "Biesta 和 Wrigley 等人" -> "Biesta et al."
+    pattern_deng_list = re.compile(
+        rf"\b({LATIN_NAME})(?:(?:[、,;]\s*{LATIN_NAME})+(?:\s+和\s+{LATIN_NAME})?|(?:\s+和\s+{LATIN_NAME}))\s*(?:等人|等)"
+    )
+    def repl_deng_list(m):
+        words = re.findall(rf"{LATIN_NAME}", m.group(0))
+        if any(w.lower() in EXCLUDED_TERMS for w in words):
+            return m.group(0)
+        return f"{m.group(1)} et al."
+    body = pattern_deng_list.sub(repl_deng_list, body)
+
     # E.g. "Perkmann 等人" / "Perkmann 等" -> "Perkmann et al."
     def repl_deng(m):
         n = m.group(1)
@@ -156,6 +175,13 @@ def clean_body_citations(body: str, rel_path: str) -> str:
                     return m2.group(0)
                 return f"{n} et al."
 
+            def repl_deng_list_paren(m2):
+                words = re.findall(rf"{LATIN_NAME}", m2.group(0))
+                if any(w.lower() in EXCLUDED_TERMS for w in words):
+                    return m2.group(0)
+                return f"{m2.group(1)} et al."
+
+            content = re.sub(pattern_deng_list, repl_deng_list_paren, content)
             content = re.sub(rf"\b({LATIN_NAME})\s+和\s+({LATIN_NAME})\b", repl_2names_paren, content)
             content = re.sub(rf"\b({LATIN_NAME})\s*(?:等人|等)", repl_deng_paren, content)
             content = content.replace("，", ",").replace("；", ";")

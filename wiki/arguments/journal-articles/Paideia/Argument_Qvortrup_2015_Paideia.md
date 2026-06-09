@@ -96,16 +96,16 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “所有研究各不相同，而关于它们唯一有趣的问题是，它们如何在被我们认为重要的那些因素上产生差异。”
-> ("All studies differ and the only interesting questions to ask about them concern how they vary across the factors we conceive as important.")（Glass, 2000, p.8，引自 Qvortrup, 2015, p.25）
+> ("All studies differ and the only interesting questions to ask about them concern how they vary across the factors we conceive as important.")(Glass, 2000, p.8,引自 Qvortrup, 2015, p.25)
 >
 > > “本书许多结果的一个局限性在于，它们更多地与表层和深层知识相关，而较少与概念理解相关。”
-> ("A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding.")（Hattie, 2009, p.249，引自 Qvortrup, 2015, p.29）
+> ("A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding.")(Hattie, 2009, p.249,引自 Qvortrup, 2015, p.29)
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
 > - 论文是一篇支持方讨论论文，主要依赖概念论证和文献重读，没有提供独立实证检验；因此它能说明"为何[[Meta-analysis|元分析]]在原则上可以辩护"，但不能证明 Hattie 具体数据处理在统计上充分可靠(pp.23–32)。
-> - Qvortrup 将意识形态、方法论和情境批评总体判断为已被"完全令人满意地"回应，可能低估了后续 Wecker、Simpson、Wiliam、O'Connor 等对[[Effect Size|效应量]]、二级聚合和源研究[[Heterogeneity|异质性]]提出的技术批评。
+> - Qvortrup 将意识形态、方法论和情境批评总体判断为已被"完全令人满意地"回应，可能低估了后续 Wecker et al.对[[Effect Size|效应量]]、二级聚合和源研究[[Heterogeneity|异质性]]提出的技术批评。
 > - 论文对 Hattie 的"学习结果"概念限制提出了温和内部修正，而不是 Rømer (2018) 那种外部哲学批判；因此它更像是改良 [[Visible Learning]] 的方案，而不是拒绝 Visible Learning 的方案。
 
 ## 来源
