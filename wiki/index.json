@@ -1733,6 +1733,16 @@
     ]
   },
   {
+    "title": "Chain-linked Model",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Chain-linked Model.md",
+    "aliases": [
+      "链式模型",
+      "chain linked model",
+      "Kline-Rosenberg model"
+    ]
+  },
+  {
     "title": "Clinical Trial",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Clinical Trial.md",
@@ -2207,6 +2217,14 @@
       "知识转移",
       "geopolitics of knowledge transfer",
       "knowledge in motion"
+    ]
+  },
+  {
+    "title": "Learning Economy",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Learning Economy.md",
+    "aliases": [
+      "学习经济"
     ]
   },
   {
@@ -10456,9 +10474,9 @@
     "path": "wiki/facts/us/Science, The Endless Frontier 1945.md",
     "aliases": [
       "Science, The Endless Frontier",
-      "科学无尽的前沿",
       "Bush report",
-      "Vannevar Bush report"
+      "Vannevar Bush report",
+      "无尽的前沿"
     ]
   },
   {

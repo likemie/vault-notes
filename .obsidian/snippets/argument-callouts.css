@@ -1142,3 +1142,34 @@
     0 0 0 2.5px color-mix(in srgb, var(--background-primary) 70%, rgb(72, 95, 145) 30%),
     0 0 0 4.5px rgba(72, 95, 145, 0.18);
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   [!phase]  历史阶段叙事块
+   ═══════════════════════════════════════════════════════════ */
+.callout[data-callout="phase"] {
+  --callout-color: 155, 103, 44;
+  --callout-icon: lucide-calendar;
+  background: color-mix(in srgb, var(--background-primary) 94%, rgb(155, 103, 44) 6%);
+  border: 1px solid rgba(155, 103, 44, 0.22);
+  border-left: 3.5px solid rgb(155, 103, 44);
+  border-radius: 10px;
+  padding: 0.85rem 1.1rem 0.9rem;
+}
+
+.callout[data-callout="phase"] > .callout-title {
+  color: rgb(155, 103, 44);
+  font-weight: 700;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid rgba(155, 103, 44, 0.18);
+  margin-bottom: 0.6rem;
+}
+
+.callout[data-callout="phase"] > .callout-content {
+  line-height: 1.75;
+}
+
+.theme-dark .callout[data-callout="phase"] {
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(155, 103, 44) 12%);
+  border-color: rgba(155, 103, 44, 0.32);
+}
