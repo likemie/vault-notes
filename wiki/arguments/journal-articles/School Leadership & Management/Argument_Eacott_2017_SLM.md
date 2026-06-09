@@ -101,19 +101,64 @@ citation_aliases:
 >
 > ```mermaid
 > graph TD
->     Step1["评估恐慌与行政话语真空"] -->|注入效应量 d=0.40| Step2["数据账本与 ROI 决策"]
->     Step2 -->|嵌入 AITSL 国家标准| Step3["规训机器与问责下移"]
->     Step3 -->|导致去专业化退行| Step4["新泰勒主义教育悲剧"]
+>     %% 样式声明 - 限制字体大小并使用高级调色板
+>     classDef panic fill:#FFF1F0,stroke:#FFA39E,stroke-width:1.5px,font-size:11px,color:#cf1322;
+>     classDef solution fill:#F6FFED,stroke:#B7EB8F,stroke-width:1.5px,font-size:11px,color:#389e0d;
+>     classDef locked fill:#E6F7FF,stroke:#91D5FF,stroke-width:1.5px,font-size:11px,color:#096dd9;
+>     classDef tragedy fill:#FFF7E6,stroke:#FFD591,stroke-width:1.5px,font-size:11px,color:#d4380d;
+>     classDef linkText font-size:10px,color:#595959;
 > 
->     style Step1 fill:#f5f5f5,stroke:#9e9e9e,stroke-width:1px
->     style Step2 fill:#e3f2fd,stroke:#2196f3,stroke-width:1px
->     style Step3 fill:#efebe9,stroke:#795548,stroke-width:1px
->     style Step4 fill:#fbe9e7,stroke:#ff5722,stroke-width:2px
+>     %% 阶段一：为什么恐慌？（行政与教学脱嵌下的理性饥渴）
+>     subgraph Phase1 ["【起因：评估恐慌与话语真空】"]
+>         P1["<small><b>外部绩效危机</b><br/>PISA/NAPLAN 成绩慢性下滑<br/>引发政策与公众的行政恐慌</small>"]
+>         P2["<small><b>学校管理者困境</b><br/>校长陷于日常行政/预算事务<br/>与真正的教学指导结构性脱嵌</small>"]
+>         P3["<small><b>管理语言饥渴</b><br/>传统教学改进理论复杂抽象<br/>系统急需标准化决策硬通货</small>"]
+>         P1 --> P3
+>         P2 --> P3
+>     end
+> 
+>     %% 阶段二：如何解决？（可见学习与效应量账本的注入）
+>     subgraph Phase2 ["【应对：大师引进与数据化解法】"]
+>         S1["<small><b>科学确定性幻觉</b><br/>约翰·哈蒂元-元分析数据库<br/>以2.4亿学生样本提供强大背书</small>"]
+>         S2["<small><b>建立铰链点公式</b><br/>确立 d = 0.40 等于一学年成长<br/>将复杂教学体验折算为度量衡</small>"]
+>         S3["<small><b>投资回报率(ROI)决策</b><br/>校长按效应量大小审计教学方案<br/>获得坐在办公室的‘控制感’</small>"]
+>         S1 --> S2
+>         S2 --> S3
+>     end
+> 
+>     %% 阶段三：如何深锁？（规训机器与霸权合谋）
+>     subgraph Phase3 ["【锁死：制度化嵌入与商业共谋】"]
+>         I1["<small><b>国家权力合谋</b><br/>哈蒂掌舵 AITSL 主席<br/>数据规训内嵌于国家专业标准</small>"]
+>         I2["<small><b>商业网络推广</b><br/>ACEL 与 Corwin 联手营销<br/>学校争相自我贴标为‘哈蒂学校’</small>"]
+>         I3["<small><b>微观课堂控制</b><br/>‘无数据即无学习’规训形成<br/>举证责任倒置，教师被迫交出自主权</small>"]
+>         I1 --> I3
+>         I2 --> I3
+>     end
+> 
+>     %% 阶段四：结局如何？（新泰勒主义的教育悲剧）
+>     subgraph Phase4 ["【结局：去专业化与泰勒制退行】"]
+>         T1["<small><b>劳动去技能化</b><br/>教师降格为按效应量清单<br/>流水线作业的技术装配工</small>"]
+>         T2["<small><b>新泰勒主义复活</b><br/>以科学之名行控制之实<br/>退行至100年前的车间秒表管理</small>"]
+>         T3["<small><b>民主论辩萎缩</b><br/>大一统理论扼杀情境差异<br/>学校领导力陷入结构性悲剧</small>"]
+>         T1 --> T2
+>         T2 --> T3
+>     end
+> 
+>     %% 核心逻辑故事线连接
+>     P3 -->|“时间窗口”打开，急需话语填补| S1
+>     S3 -->|“科学数据”转化为控制手段| I1
+>     I3 -->|规训网罗全面覆盖学校与课堂| T1
+> 
+>     %% 样式绑定
+>     class P1,P2,P3 panic;
+>     class S1,S2,S3 solution;
+>     class I1,I2,I3 locked;
+>     class T1,T2,T3 tragedy;
 > ```
 
 ### 步骤一：时间窗口——慢性下滑下的理性饥渴与行政话语缺失
 
-1. **评估恐慌与理性/控制修辞 of 绝对主导**：
+1. **评估恐慌与理性/控制修辞的绝对主导**：
    在 2000 年代末，以杰夫·马斯特斯（Geoff Masters）等人的研究为标志，澳大利亚对自身在 NAPLAN、PISA 和 TIMSS 测试中持续而缓慢的绩效下滑产生了强烈的行政恐慌（Masters, 2016）。根据管理修辞分类学，系统在面临这类慢性衰退时，会自发激活理性/控制修辞，将改进路径窄化为寻找某种标准化、确定性的技术工具以阻断下滑。追求什么有效和什么最有效，从一种探讨性的学术议题，演变为了行政决策层不可质疑的绝对律令。（pp.415–416）
 
 2. **传统教改的行政脱嵌与管理者的语言饥渴**：

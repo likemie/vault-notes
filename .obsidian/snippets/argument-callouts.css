@@ -117,7 +117,7 @@
 
 .callout[data-callout="method-panel"] td:first-child,
 .callout[data-callout="sample-panel"] td:first-child {
-  width: 9.5rem;
+  width: 7rem;
   font-weight: 650;
   color: rgb(var(--callout-color));
 }
