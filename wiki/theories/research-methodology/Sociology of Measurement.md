@@ -12,6 +12,7 @@ tags:
 - educational-sociology
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Performativity]]"
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
   - "[[Science and Technology Studies]]"
@@ -34,7 +35,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的[[Analytic Framework|分析框架]]，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 performativity（施行性——测量不只是描述世界，更是制造世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])。
+> Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的[[Analytic Framework|分析框架]]，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 [[Performativity]]（施行性——测量不只是描述世界，更是制造世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])。
 >
 > > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"(Woolgar, 1991b; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
 
@@ -52,7 +53,7 @@ updated: '2026-05-18'
 > 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8–12]])。
 
 
-> [!abstract] Performativity（施行性 / 生产性）
+> [!abstract] [[Performativity]]（施行性 / 生产性）
 > 测量一旦开始，就作用于世界，改变优先事项、影响行为、政策和实践。这是"世界制造"过程(Knorr Cetina, 1999; Law, 2009a; Pickering, 1995; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7, 17–18]])。
 >
 > > 例：[[Education at a Glance|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择(Oakes, 1986; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
@@ -60,7 +61,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs **[[Performativity of Measurement]]** — Sociology of Measurement 是包含 instrumentalism 和 performativity 两个维度的整体框架；Performativity 是其第二个维度
+> - vs **[[Performativity of Measurement]]** — Sociology of Measurement 是包含 instrumentalism 和 [[Performativity]] 两个维度的整体框架；Performativity 是其第二个维度
 > - vs **[[Science and Technology Studies]]** — STS 是更广泛的跨学科领域，Sociology of Measurement 是其一个特定分支
 > - vs **Statistics / Statistical Analysis** — 传统统计学关注准确性和代表性，测量社会学关注的则是测量实践如何同时是知识实践和治理实践
 

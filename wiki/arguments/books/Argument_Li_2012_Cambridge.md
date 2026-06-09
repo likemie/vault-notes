@@ -9,7 +9,6 @@ authors:
   - "[[Jin Li|Li, J.]]"
 publisher: Cambridge University Press
 citation: "Li, J. (2012). Cultural Foundations of Learning: East and West. Cambridge University Press."
-  University Press.'
 tags:
 - region/east-asia
 - region/western
