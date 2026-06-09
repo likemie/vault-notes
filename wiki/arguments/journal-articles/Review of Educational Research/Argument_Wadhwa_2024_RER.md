@@ -74,30 +74,30 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> Wadhwa, Zheng & Cook 的论文围绕三个问题展开：第一，教育清算中心用于归因项目有效性的科学标准有多大差异；第二，不同清算中心对同一项目的效果结论收敛程度如何；第三，如果同一项目的评级不同，哪些因素最可能解释这种差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.4–5]])。
+> Wadhwa, Zheng & Cook 的论文围绕三个问题展开：第一，教育清算中心用于归因项目有效性的科学标准有多大差异；第二，不同清算中心对同一项目的效果结论收敛程度如何；第三，如果同一项目的评级不同，哪些因素最可能解释这种差异(pp.4–5)。
 >
-> 论文的总体目标是检验"evidence-based"判断在清算中心这一制度语境中的可靠性：如果清算中心声称生成并传播关于教育干预正向效果的有效知识，那么不同清算中心对同一项目的判断至少应有较高一致性([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> 论文的总体目标是检验"evidence-based"判断在清算中心这一制度语境中的可靠性：如果清算中心声称生成并传播关于教育干预正向效果的有效知识，那么不同清算中心对同一项目的判断至少应有较高一致性(p.4)。
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的必要条件([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
-> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的必要条件(p.4)。
+> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）(p.4)。
 
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：比较综述与[[Descriptive Analysis|描述性分析]]。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.5]])。
-> - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并[[Coding in Qualitative Research|编码]] 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.5]])。
-> - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.16–17]])。
-> - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program]]、[[Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.22–25]])。
+> - 方法：比较综述与[[Descriptive Analysis|描述性分析]]。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心(p.5)。
+> - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并[[Coding in Qualitative Research|编码]] 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等(p.5)。
+> - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架(pp.16–17)。
+> - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program]]、[[Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源(pp.22–25)。
 
 ## 表格提要
 
 > [!note-] 表格提要
 > ### Table 1：候选清算中心排除规则
 >
-> 该表定义了本文研究对象的边界：作者不是分析所有证据库，而是只保留能在线访问、自己发布项目有效性评级、且不只是转载其他清算中心评级的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.5–6]])。
+> 该表定义了本文研究对象的边界：作者不是分析所有证据库，而是只保留能在线访问、自己发布项目有效性评级、且不只是转载其他清算中心评级的机构(pp.5–6)。
 >
 > | 排除理由 | 数量 | 被排除机构 |
 > |---|---:|---|
@@ -107,7 +107,7 @@ citation_aliases:
 >
 > ### Table 2：12 个教育清算中心的[[Heterogeneity|异质性]]
 >
-> 该表用主要领域、目标人群、资助组织类型和评级对象四个维度展示 12 个清算中心的制度差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> 该表用主要领域、目标人群、资助组织类型和评级对象四个维度展示 12 个清算中心的制度差异(p.7)。
 >
 > | 清算中心                                                                                     | 主要领域                         | 目标人群                                                             | 资助组织类型    | 评级对象        |
 > | —————————————————————————————- | —————————- | —————————————————————- | ——— | ———– |
@@ -126,7 +126,7 @@ citation_aliases:
 >
 > ### Table 3：研究设计标准描述程度
 >
-> [[Coding in Qualitative Research|编码]]含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属[[Causality|因果推断]]与实施质量标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10, 29]])。
+> [[Coding in Qualitative Research|编码]]含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属[[Causality|因果推断]]与实施质量标准(pp.9–10, 29)。
 >
 > | 清算中心 | [[Randomised Controlled Trials\|RCT]] | 一般 [[Quasi-Experimental Designs\|QED]] | RDD | ITS |
 > |---|---:|---:|---:|---:|
@@ -145,9 +145,9 @@ citation_aliases:
 >
 > ### Table 4：四个清算中心的评级标准对照
 >
-> 该表是论文最有解释力的表：它显示"最高评级"在不同清算中心中意味着不同证据门槛。作者只选取 [[What Works Clearinghouse]]、[[Blueprints for Healthy Youth Development]]、[[National Dropout Prevention Center]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] 四个机构做详细对照，是因为它们在评级对象、单项研究是否单独评级、项目最高评级门槛、持续效果要求和研究者独立性要求上形成清楚对比；其中 WWC 和 Blueprints 会显性评级单项研究，NDPC 和 CEBC 则主要给项目评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]])。
+> 该表是论文最有解释力的表：它显示"最高评级"在不同清算中心中意味着不同证据门槛。作者只选取 [[What Works Clearinghouse]]、[[Blueprints for Healthy Youth Development]]、[[National Dropout Prevention Center]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] 四个机构做详细对照，是因为它们在评级对象、单项研究是否单独评级、项目最高评级门槛、持续效果要求和研究者独立性要求上形成清楚对比；其中 WWC 和 Blueprints 会显性评级单项研究，NDPC 和 CEBC 则主要给项目评级(pp.12–15)。
 >
-> 这里的"单项研究"对应原文 individual studies，指清算中心是否为每一项纳入研究单独给出质量评级；它不是 [[Single-Case Design]]。[[Single-Case Design|SCD]] 是一种具体研究设计类型，在 WWC 主题综述协议中可被纳入，但 Table 4 的"individual studies"是研究单位层级，不是 SCD 方法类别([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–9, 13]])。
+> 这里的"单项研究"对应原文 individual studies，指清算中心是否为每一项纳入研究单独给出质量评级；它不是 [[Single-Case Design]]。[[Single-Case Design|SCD]] 是一种具体研究设计类型，在 WWC 主题综述协议中可被纳入，但 Table 4 的"individual studies"是研究单位层级，不是 SCD 方法类别(pp.8–9, 13)。
 >
 > | 比较项             | [[What Works Clearinghouse]]                                                                                           | [[Blueprints for Healthy Youth Development]]                   | [[National Dropout Prevention Center]]                  | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] |
 > | ————— | —————————————————————————————————————————- | ————————————————————– | ————————————————————– | —————————————————————————————- |
@@ -166,7 +166,7 @@ citation_aliases:
 >
 > ### Table 5：各清算中心项目选取池
 >
-> 该表说明最终分析不是教育项目全集，而是作者根据每个清算中心网站结构与筛选规则构建的项目集合。表中"项目数"是各清算中心内部的选取数量，同一项目可在多个清算中心中重复出现，因此这些数字不能相加为 1,359；Table 6 的 1,359 指去重后用于一致性分析的教育项目总数([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.16–18]])。
+> 该表说明最终分析不是教育项目全集，而是作者根据每个清算中心网站结构与筛选规则构建的项目集合。表中"项目数"是各清算中心内部的选取数量，同一项目可在多个清算中心中重复出现，因此这些数字不能相加为 1,359；Table 6 的 1,359 指去重后用于一致性分析的教育项目总数(pp.16–18)。
 >
 > | 清算中心 | 项目数 | 作者选取范围 |
 > |---|---:|---|
@@ -181,7 +181,7 @@ citation_aliases:
 > | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] | 11 | 儿童与青少年儿童福利教育干预主题项目 |
 > | [[CNCS Evidence Exchange]] | 52 | Education 和 Capacity Building focus areas 中有 Impact 和 Outcomes 研究的项目；删除无 Level of Evidence 的项目和重复项 |
 >
-> PPN 和 PNRC 不出现在 Table 5 的最终项目选取池中：PPN 因 2020 年中停止运行而未进入后续一致性分析，PNRC 因不提供项目效果分层评级而不适合纳入同一评级比较框架；另有 17 个 Blueprints 正在审查且未被其他清算中心评级的项目也被排除([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.15–17]])。
+> PPN 和 PNRC 不出现在 Table 5 的最终项目选取池中：PPN 因 2020 年中停止运行而未进入后续一致性分析，PNRC 因不提供项目效果分层评级而不适合纳入同一评级比较框架；另有 17 个 Blueprints 正在审查且未被其他清算中心评级的项目也被排除(pp.15–17)。
 >
 > ### Table 6：项目被多少个清算中心共同评级
 >
@@ -194,11 +194,11 @@ citation_aliases:
 > | 5 | 4（0.3%） |
 > | 合计 | 1,359 |
 >
-> 只有 17% 的项目有多重清算中心评级可供比较；没有项目被超过 5 个清算中心评价([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.18]])。
+> 只有 17% 的项目有多重清算中心评级可供比较；没有项目被超过 5 个清算中心评价(p.18)。
 >
 > ### Table 7：多重评级项目中"有效"判断比例
 >
-> 作者将 recommended 和 promising 合并为 effective，以观察较宽松意义上的正向判断是否一致([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.18]])。
+> 作者将 recommended 和 promising 合并为 effective，以观察较宽松意义上的正向判断是否一致(p.18)。
 >
 > | 多重评级情形 | "有效"判断分布 | 项目比例 |
 > |---|---|---:|
@@ -215,7 +215,7 @@ citation_aliases:
 >
 > ### Table 8：清算中心评级对的一致性
 >
-> 作者把评级重编码为 1 = recommended，2 = promising，3 = not recommended。完全一致指 1&1、2&2 或 3&3；中度一致指 1&2；中度不一致指 2&3；完全不一致指 1&3([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.18–19]])。
+> 作者把评级重编码为 1 = recommended，2 = promising，3 = not recommended。完全一致指 1&1、2&2 或 3&3；中度一致指 1&2；中度不一致指 2&3；完全不一致指 1&3(pp.18–19)。
 >
 > | 多重评级情形 | 完全一致 | 中度一致（1&2） | 中度不一致（2&3） | 完全不一致（1&3） | 评级对数量 |
 > |---|---:|---:|---:|---:|---:|
@@ -224,52 +224,52 @@ citation_aliases:
 > | 4 个清算中心评级 | 30.0% | 20.0% | 22.2% | 27.8% | 90 |
 > | 5 个清算中心评级 | 50.0% | 20.0% | 5.0% | 25.0% | 40 |
 >
-> 该表是论文"实践[[Construct Validity in Quantitative Measurement|构念效度]]不足"结论的直接经验基础：两个清算中心共同评价同一项目时，最常见的分歧类型是 1 与 3 的完全不一致([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.19]])。
+> 该表是论文"实践[[Construct Validity in Quantitative Measurement|构念效度]]不足"结论的直接经验基础：两个清算中心共同评价同一项目时，最常见的分歧类型是 1 与 3 的完全不一致(p.19)。
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. 清算中心被设计为 [[Evidence-Based Education]] 的中介基础设施：它们设定科学质量标准，筛选和评价项目研究，综合证据，并把项目是否有效的结论传播给政策制定者、教师、[[School Leadership|学校领导]]和公众([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
-> 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和因果设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验等细节处理不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.6–12]])。
-> 3. 更关键的是，清算中心对"什么足以构成高等级项目证据"没有共识：有的接受单项统计显著研究，有的要求特定[[Effect Size|效应量]]、独立复制、跨地点复制或 6–12 个月以上的持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.11–15]])。
-> 4. 这种标准差异导致同一项目的推荐结论往往不一致。1,359 个项目中 83.2% 只被一个清算中心评级，只有 17% 有多重评级可供比较；在多重评级项目中，评级一致性有限，而且最容易达成一致的是"不推荐"，最难一致的是"推荐/最高等级"([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.18–19]])。
-> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践[[Construct Validity in Quantitative Measurement|构念效度]]，使用者应将单一清算中心评级视为带有特定标准假设的判断，而不是中立认证([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 26–27]])。
+> 1. 清算中心被设计为 [[Evidence-Based Education]] 的中介基础设施：它们设定科学质量标准，筛选和评价项目研究，综合证据，并把项目是否有效的结论传播给政策制定者、教师、[[School Leadership|学校领导]]和公众(p.4)。
+> 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和因果设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验等细节处理不同(pp.6–12)。
+> 3. 更关键的是，清算中心对"什么足以构成高等级项目证据"没有共识：有的接受单项统计显著研究，有的要求特定[[Effect Size|效应量]]、独立复制、跨地点复制或 6–12 个月以上的持续效果(pp.11–15)。
+> 4. 这种标准差异导致同一项目的推荐结论往往不一致。1,359 个项目中 83.2% 只被一个清算中心评级，只有 17% 有多重评级可供比较；在多重评级项目中，评级一致性有限，而且最容易达成一致的是"不推荐"，最难一致的是"推荐/最高等级"(pp.18–19)。
+> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践[[Construct Validity in Quantitative Measurement|构念效度]]，使用者应将单一清算中心评级视为带有特定标准假设的判断，而不是中立认证(pp.3, 26–27)。
 
 ## 主要发现
 
 > [!success] 主要发现
-> - 12 个教育清算中心中，4 个只关注教育，8 个覆盖教育及其他社会政策领域；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 覆盖更广泛的教育结果与干预，而 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 等机构聚焦更窄主题([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.6]])。
-> - 7 个清算中心由美国政府部门、研究机构或政府-大学伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
-> - 所有清算中心都偏好 [[Randomised Controlled Trials|RCT]]，但对 RCT 执行质量的判定不同：只有 WWC 对集群层级[[Random Assignment|随机分配]]提供深入说明，[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 和 Blueprints 要求[[Intent-to-Treat Analysis|意向治疗分析]]，WWC 在特定条件下允许 CACE([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
-> - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要[[Causality|因果推断]]工具并制定标准的主要例外([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]])。
-> - 1,359 个项目中 1,131 个（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.18]])。
-> - 作者认为评级不一致最可能来自证据标准差异，尤其是是否要求复制、独立复制和治疗后持续效果；传统因果识别与估计问题反而不是解释高等级分歧的唯一或主要因素([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26–27]])。
+> - 12 个教育清算中心中，4 个只关注教育，8 个覆盖教育及其他社会政策领域；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 覆盖更广泛的教育结果与干预，而 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 等机构聚焦更窄主题(p.6)。
+> - 7 个清算中心由美国政府部门、研究机构或政府-大学伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心(p.8)。
+> - 所有清算中心都偏好 [[Randomised Controlled Trials|RCT]]，但对 RCT 执行质量的判定不同：只有 WWC 对集群层级[[Random Assignment|随机分配]]提供深入说明，[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 和 Blueprints 要求[[Intent-to-Treat Analysis|意向治疗分析]]，WWC 在特定条件下允许 CACE(p.9)。
+> - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要[[Causality|因果推断]]工具并制定标准的主要例外(pp.9–11)。
+> - 1,359 个项目中 1,131 个（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级(p.18)。
+> - 作者认为评级不一致最可能来自证据标准差异，尤其是是否要求复制、独立复制和治疗后持续效果；传统因果识别与估计问题反而不是解释高等级分歧的唯一或主要因素(pp.26–27)。
 
 ## 项目案例
 
 > [!example] 项目案例
-> - [[Open Court Reading]] — 三个清算中心（[[What Works Clearinghouse|WWC]]、Blueprints、[[Best Evidence Encyclopedia|BEE]]）都将该小学阅读项目评为 promising，但它们对同一 Borman et al. [[Randomised Controlled Trials|RCT]] 的效应大小、研究限制和同一研究在不同综述中的设计类型判断并不完全一致；该案例显示"底线评级一致"仍可能掩盖标准差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.22–23]])。
-> - [[Success for All]] — 五个清算中心评价该全校改革/读写项目，均未给出负面结论，但 WWC 按结果域给出从 recommended 到 mixed 的不同判断，BEE 按不同项目变体给出强/中等证据，其他机构使用的研究数量也高度不同；该案例显示结果域和项目变体会影响评级解释([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
-> - [[Peer-Assisted Learning Strategies]] — 五个清算中心对 PALS 的整体项目、阅读版本、数学版本和不同结果域给出分散判断；[[National Dropout Prevention Center|NDPC]] 推荐，Blueprints 认为 promising，WWC 随结果域变化，BEE 推荐 PALS Math，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 不推荐任何版本；该案例突出"研究纳入集合不同"和"项目组件拆分不同"的影响([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.23–24]])。
-> - [[Quantum Opportunity Program]] — QOP 和 Eisenhower QOP 在多个清算中心中出现中度分歧：NDPC 认为 QOP promising，Blueprints 和 WWC 不认为其达到 promising；Eisenhower QOP 被 Blueprints 评为 promising，但 CMFR 不能给出 promising 评级；该案例显示项目更新版本和研究可获得性会改变评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.24–25]])。
-> - [[Communities in Schools]] — 五个清算中心对 [[Centre for Independent Studies|CIS]] 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
+> - [[Open Court Reading]] — 三个清算中心（[[What Works Clearinghouse|WWC]]、Blueprints、[[Best Evidence Encyclopedia|BEE]]）都将该小学阅读项目评为 promising，但它们对同一 Borman et al. [[Randomised Controlled Trials|RCT]] 的效应大小、研究限制和同一研究在不同综述中的设计类型判断并不完全一致；该案例显示"底线评级一致"仍可能掩盖标准差异(pp.22–23)。
+> - [[Success for All]] — 五个清算中心评价该全校改革/读写项目，均未给出负面结论，但 WWC 按结果域给出从 recommended 到 mixed 的不同判断，BEE 按不同项目变体给出强/中等证据，其他机构使用的研究数量也高度不同；该案例显示结果域和项目变体会影响评级解释(p.23)。
+> - [[Peer-Assisted Learning Strategies]] — 五个清算中心对 PALS 的整体项目、阅读版本、数学版本和不同结果域给出分散判断；[[National Dropout Prevention Center|NDPC]] 推荐，Blueprints 认为 promising，WWC 随结果域变化，BEE 推荐 PALS Math，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 不推荐任何版本；该案例突出"研究纳入集合不同"和"项目组件拆分不同"的影响(pp.23–24)。
+> - [[Quantum Opportunity Program]] — QOP 和 Eisenhower QOP 在多个清算中心中出现中度分歧：NDPC 认为 QOP promising，Blueprints 和 WWC 不认为其达到 promising；Eisenhower QOP 被 Blueprints 评为 promising，但 CMFR 不能给出 promising 评级；该案例显示项目更新版本和研究可获得性会改变评级(pp.24–25)。
+> - [[Communities in Schools]] — 五个清算中心对 [[Centre for Independent Studies|CIS]] 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论(p.25)。
 
 ## 关键引用
 
 > [!quote] 关键引用
 > > “识别‘基于证据的’干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究实践。”
-> ("identifying 'evidence-based' interventions is still more of a policy aspiration than a reliable research practice.")([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.3]])
+> ("identifying 'evidence-based' interventions is still more of a policy aspiration than a reliable research practice.")(p.3)
 >
 > > “‘基于证据（evidence-based）’在信息交换中心（CH）的背景下，其实际的[[Construct Validity in Quantitative Measurement|构念效度]]是有限的。”
-> ("evidence-based has limited practical [[Construct]] validity in the CH context.")([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])
+> ("evidence-based has limited practical [[Construct]] validity in the CH context.")(p.26)
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文没有考察政策制定者实际如何使用清算中心推荐，因此不能判断评级不一致对政策采购或学校实践造成了多大影响；作者指出，这一问题超出本文范围，但值得后续研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.28]])。
-> - 分析只覆盖那些以认证干预有效/无效为任务的清算中心，尚不清楚结论能否推广到不进行项目效果认证、而承担知识经纪或证据中介功能的其他机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.28–29]])。
-> - 研究依赖清算中心网站公开发布的证据标准和项目概况；若某些实际决策规则没有在线记录，本文无法评估它们([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.28]])。
-> - 清算中心网站和证据标准会随时间变化，因此本文是一个动态生态的时间切片；作者明确指出，不同清算中心吸收方法论发展的速度不同，网站内容、设计和结构也会变化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.29]])。
+> - 论文没有考察政策制定者实际如何使用清算中心推荐，因此不能判断评级不一致对政策采购或学校实践造成了多大影响；作者指出，这一问题超出本文范围，但值得后续研究(p.28)。
+> - 分析只覆盖那些以认证干预有效/无效为任务的清算中心，尚不清楚结论能否推广到不进行项目效果认证、而承担知识经纪或证据中介功能的其他机构(pp.28–29)。
+> - 研究依赖清算中心网站公开发布的证据标准和项目概况；若某些实际决策规则没有在线记录，本文无法评估它们(p.28)。
+> - 清算中心网站和证据标准会随时间变化，因此本文是一个动态生态的时间切片；作者明确指出，不同清算中心吸收方法论发展的速度不同，网站内容、设计和结构也会变化(p.29)。
 
 ## 来源
 

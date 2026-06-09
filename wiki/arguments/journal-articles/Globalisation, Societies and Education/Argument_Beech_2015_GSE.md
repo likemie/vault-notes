@@ -225,17 +225,17 @@ citation_aliases:
 ## 关键引用
 
 > [!quote]
-> "Certain established vocabularies that are used to interpret the circulation of educational discourse and its transformation in different settings have significant limitations to capture the complexity inherent to new geographies of power/knowledge in education."([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
+> "Certain established vocabularies that are used to interpret the circulation of educational discourse and its transformation in different settings have significant limitations to capture the complexity inherent to new geographies of power/knowledge in education."(Beech & Artopoulos)
 >
 > 某些用来解释教育话语跨情境流通及其转化的既有词汇，在捕捉教育中新权力/知识地理所固有的复杂性方面存在显著局限。
 
 > [!quote]
-> "Networks are not contained within space, networks produce and shape space."([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
+> "Networks are not contained within space, networks produce and shape space."(Beech & Artopoulos)
 >
 > 网络不被包含在空间中，网络生产和塑造空间。
 
 > [!quote]
-> "The social sciences have to reveal innovation as a permanent and contingent process of construction and reconstruction; or, in ANT's langue, processes of assemblage and reassemblage."([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
+> "The social sciences have to reveal innovation as a permanent and contingent process of construction and reconstruction; or, in ANT's langue, processes of assemblage and reassemblage."(Beech & Artopoulos)
 >
 > 社会科学必须揭示创新作为一个永久的、偶然的建构与重构过程，或者用 ANT 的语言来说，组装与重新组装的过程。
 

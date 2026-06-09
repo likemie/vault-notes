@@ -47,12 +47,12 @@ citation_aliases:
 > [!info] [[Research Question|研究问题]]
 > [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？
 >
-> 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])。
+> 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果(p.33)。
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 论文以文化政治（cultural politics）为总体分析视角，即"承认人们的价值观、信仰和意见塑造社会并创造我们所工作于其中并与之对抗的教育治理结构"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])。具体理论资源包括：
+> 论文以文化政治（cultural politics）为总体分析视角，即"承认人们的价值观、信仰和意见塑造社会并创造我们所工作于其中并与之对抗的教育治理结构"(p.33)。具体理论资源包括：
 >
 > - **新自由主义批判**：Ball（2003）的"新管理全景监狱主义"和"本体论不安全"概念；Springer（2016）的新自由主义暴力分析四问框架（什么在凝结？暴力是什么？资本流向何处？抵抗在哪里？）
 > - **女性主义视觉文化理论**：Berger（1972）的"看的方式"——看与被看历史上是男性的领域；Mulvey（1975）的"男性凝视"——女性被定位为凝视的对象；Lakoff & Johnson（1980）的隐喻政治理论
@@ -64,11 +64,11 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：理论性／批判性话语分析（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
+> - **方法**：理论性／批判性话语分析（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
 > - **分析对象**：Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
-> - **分析视角**：作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])
+> - **分析视角**：作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
 > - **数据来源**：Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
-> - **局限性（作者自认）**：由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review|文献综述]]([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
+> - **局限性（作者自认）**：由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review|文献综述]](p.34)
 
 ## 核心论证
 
@@ -99,12 +99,12 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. [[Visible Learning]] 的论述与新自由主义、性别歧视和能力主义议程深度结盟，这三者在学校中"运作以实施排斥并在女性化工作中去专业化教师"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.32]])
+> 1. [[Visible Learning]] 的论述与新自由主义、性别歧视和能力主义议程深度结盟，这三者在学校中"运作以实施排斥并在女性化工作中去专业化教师"(p.32)
 > 2. "Visible Learning"这一隐喻本身需要更多仔细审视——它是一种殖民性隐喻，将视觉特权化并抹除其他感知方式
 > 3. 对 VL 的批评远不如使用指南那样普遍——这本身即是 VL 所创造的监控/服从文化的证据
-> 4. 教师和学者私下表达怀疑但公开保持沉默——"服从是霸权性的并许可被认可为专业人士"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
+> 4. 教师和学者私下表达怀疑但公开保持沉默——"服从是霸权性的并许可被认可为专业人士"(p.34)
 > 5. VL 是一种"多平台资本主义"，将教师知识商品化后卖回给教师；它将教师从[[Knowledge Production|知识生产]]者重新定位为顺从的消费者
-> 6. 结论并非全盘否定 Hattie 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
+> 6. 结论并非全盘否定 Hattie 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注(p.42)
 
 ## 关键引用
 

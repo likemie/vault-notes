@@ -88,7 +88,7 @@ citation_aliases:
 ## 主要发现（批判点）
 
 > [!success] 主要发现
-> - Hattie 承认但搁置社会背景效应，声称"不是不重要，只是不在研究轨道内"([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.94–95]])；但 Gray, Jesson & Jones (1986) 发现英国 80% 校间差异由 intake 解释，Harker (1995) 发现新西兰 70–80% 由学生构成解释（p.98）
+> - Hattie 承认但搁置社会背景效应，声称"不是不重要，只是不在研究轨道内"(p.94–95)；但 Gray, Jesson & Jones (1986) 发现英国 80% 校间差异由 intake 解释，Harker (1995) 发现新西兰 70–80% 由学生构成解释（p.98）
 > - 纳入研究的质量未被评估：Hattie 承认"不是一本关于研究批评的书"，但当涉及 charter schools 和 learning styles 时又选择性排除低质量研究，存在不一致（p.95）
 > - [[Meta-analysis|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论（p.96–97）
 > - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析（p.97）

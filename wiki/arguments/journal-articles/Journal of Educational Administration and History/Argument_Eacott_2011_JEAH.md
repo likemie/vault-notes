@@ -47,20 +47,20 @@ citation_aliases:
 > [!question]
 > 在管理主义时代，澳大利亚新南威尔士州（NSW）公立学校系统的校长培养方案如何建构了特定的校长身份？这种身份建构服务于什么目的？是否存在替代性的领导力培养路径？
 
-Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational problem posing and contestation）而非"组织问题解决"（organisational problem solving）的替代性领导[[Habitus|习性]]([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
+Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational problem posing and contestation）而非"组织问题解决"（organisational problem solving）的替代性领导[[Habitus|习性]](p.45)。
 
 
 ## 理论框架
 
 > [!abstract]
-> 论文以 **[[Pierre Bourdieu]] 的社会理论**为核心分析工具([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.47-49]])：
+> 论文以 **[[Pierre Bourdieu]] 的社会理论**为核心分析工具(p.47-49)：
 
 - **[[Champ|场域]]**：相对自主的社会世界，其自主性体现为生成自身价值和成就标志的能力。教育场域正在削弱——"市场和管理主义的语言已渗透进核心教育论述"（Blackmore, 2010, p.108，引自 Eacott, 2011, p.48）
-- **[[Habitus|习性]]**：通过暴露于特定经验而体现的行为倾向系统，仅在实践中显现。校长位于多重社会场域（经济、政治）的交叉点，其习性"被分裂为对抗自身，在与自身的持续协商中"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49]])
-- **[[Doxa|自明真理]]**：被视为理所当然的正统。在[[School Leadership|学校领导力]]中，doxa 将校长建构为"系统议程的地方面孔"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])
-- **资本**：在场域中被视为最有价值的资源。在学校领导力中，资本日益以经济语言被定义([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])
+- **[[Habitus|习性]]**：通过暴露于特定经验而体现的行为倾向系统，仅在实践中显现。校长位于多重社会场域（经济、政治）的交叉点，其习性"被分裂为对抗自身，在与自身的持续协商中"(p.49)
+- **[[Doxa|自明真理]]**：被视为理所当然的正统。在[[School Leadership|学校领导力]]中，doxa 将校长建构为"系统议程的地方面孔"(p.45)
+- **资本**：在场域中被视为最有价值的资源。在学校领导力中，资本日益以经济语言被定义(p.50)
 
-论文还借鉴了 Oakeshott 和 Bates 的"加入世界对话"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.43-44]])。
+论文还借鉴了 Oakeshott 和 Bates 的"加入世界对话"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础(p.43-44)。
 
 
 ## 研究方法
@@ -69,7 +69,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 > - **方法**：理论性／批判性政策分析（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例**：NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
 > - **数据来源**：政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *Melbourne Declaration*）、联邦/州教育政策、学术文献
-> - **立场声明**：论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.44]])，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场（p.44）
+> - **立场声明**：论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"(p.44)，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场（p.44）
 
 
 ## 论证结构
@@ -79,28 +79,28 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 
 ### 第一步：NSW 校长培养是管理主义国家干预
 
-Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'highly effective leaders', 'great leaders, great teams, great results'）——大部分在 Scott 的 *Learning Principals*（2003）报告后建立——体现了一种特定的领导力 [[Doxa]]([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49-50]])：
+Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'highly effective leaders', 'great leaders, great teams, great results'）——大部分在 Scott 的 *Learning Principals*（2003）报告后建立——体现了一种特定的领导力 [[Doxa]](p.49-50)：
 
-1. **证据本位决策**（evidence-based strategies）：Scott 宣称需要"来自稳健研究的证据本位策略"。English（2003）论证证据本位决策实际上"使学校变蠢"（dumbs down schools），因为教学被简化为数字，"什么重要实际上由所选择的问题决定"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])
-2. **技术-理性主义**（techno-rationalist approaches）：改进通过一系列逻辑增量实现。这种 doxa"未能充分参与社会生活的复杂性以及人与组织互动的涨落"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.57]])
-3. **理论与实践的工具性二分**：Scott 主张领导力培养应"持续将理论与实践联系起来"——暗示二者分离存在。所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"，而非"理解[[School Leadership|学校领导力]]现象的理论"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.51]])
+1. **证据本位决策**（evidence-based strategies）：Scott 宣称需要"来自稳健研究的证据本位策略"。English（2003）论证证据本位决策实际上"使学校变蠢"（dumbs down schools），因为教学被简化为数字，"什么重要实际上由所选择的问题决定"(p.50)
+2. **技术-理性主义**（techno-rationalist approaches）：改进通过一系列逻辑增量实现。这种 doxa"未能充分参与社会生活的复杂性以及人与组织互动的涨落"(p.50)。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"(p.57)
+3. **理论与实践的工具性二分**：Scott 主张领导力培养应"持续将理论与实践联系起来"——暗示二者分离存在。所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"，而非"理解[[School Leadership|学校领导力]]现象的理论"(p.51)
 
 ### 第二步：立法和专业标准将校长固化为"交付者"
 
 - NSW 立法规定校长对学校的"有效和高效运行"负责——以经济语言表述的政策声明
-- *Leading and Managing*（NSW DET, 2000）文件明确将校长定位为"对 Director-General 负责学生成果质量"，"在教育社区背景下"行使问责——校长成为"系统议程的地方面孔"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.52]])
-- NSW 教师学院专业标准（如 6.4.4 "批判性审查最佳实践研究"、7.4.6 "在所有沟通中呈现学校的正面形象"）体现了 Taylor 主义遗产（"最佳实践"）和市场意识形态（学校形象维护）([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.53-54]])
-- 通过国家测试制度（NAPLAN）、即将出台的国家课程、MySchool 网站的建立，"国家对教育的管理主义项目几乎完成"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.54]])
+- *Leading and Managing*（NSW DET, 2000）文件明确将校长定位为"对 Director-General 负责学生成果质量"，"在教育社区背景下"行使问责——校长成为"系统议程的地方面孔"(p.52)
+- NSW 教师学院专业标准（如 6.4.4 "批判性审查最佳实践研究"、7.4.6 "在所有沟通中呈现学校的正面形象"）体现了 Taylor 主义遗产（"最佳实践"）和市场意识形态（学校形象维护）(p.53-54)
+- 通过国家测试制度（NAPLAN）、即将出台的国家课程、MySchool 网站的建立，"国家对教育的管理主义项目几乎完成"(p.54)
 
 ### 第三步：Bourdieu 揭示的结构性困境
 
 - 教育[[Champ|场域]]的边界正在被侵蚀——"市场和管理主义的语言已渗透进核心教育论述"（Blackmore, 2010, p.108）
-- 校长的[[Habitus|习性]]被"双重绑定"（double bind）：绩效文化中衡量领导力有效性的方式（联邦/州的经济议程）与校长自身对其实践的评估（国家政策中的社会与经济双重追求）不一致——"与此同时，绩效既影响又改变了他们的实践"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.47]])
+- 校长的[[Habitus|习性]]被"双重绑定"（double bind）：绩效文化中衡量领导力有效性的方式（联邦/州的经济议程）与校长自身对其实践的评估（国家政策中的社会与经济双重追求）不一致——"与此同时，绩效既影响又改变了他们的实践"(p.47)
 - 澳大利亚教育领导力研究资金严重不足：2002-2006 年仅 2.3% 的 ARC Discovery 拨款流向教育领域，其中不到 5% 流向教育领导力研究，年均仅 USD 52,000（Mulford, 2007，引自 Eacott, 2011, p.56）
 
 ### 第四步：替代方案——"加入世界对话"
 
-Eacott 提出([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.56-58]])：
+Eacott 提出(p.56-58)：
 
 - 领导力培养不应是关于"唯一正确方法"，也不应恐惧"知识主张的争辩"
 - 基于争辩的项目挑战市场意识形态的同质化效应——"寻求的不是服从而是引领"
@@ -113,14 +113,14 @@ Eacott 提出([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.56-58]])：
 
 > [!success]
 
-1. NSW 公立学校系统的校长培养方案体现了教育[[Champ|场域]]被经济和政治场域渗透的系统性削弱——"校长培养不过是当代国家对公共部门管理主义干预的一部分"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])
-2. [[School Leadership|学校领导力]] [[Doxa]] 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45, 52]])
-3. 证据本位实践和技术-理性主义方法构成了这一 doxa 的核心，但 English 论证其"使学校变蠢"——将教学简化为数字，消除了对"谁决定什么是重要的"这一问题的追问([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])
-4. 校长位于多重社会场域交叉点的独特社会空间——向内看（教育实践本身的目的）与向外看（经济和政治的成功衡量）之间的持续张力导致[[Habitus|习性]]"被分裂为对抗自身"([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.48-49]])
-5. 替代方案需要一种基于"教育问题提出与争辩"的领导习性——引入参与者"加入世界对话"，这要求跨边界（地理和场域）的阅读([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.57-58]])
+1. NSW 公立学校系统的校长培养方案体现了教育[[Champ|场域]]被经济和政治场域渗透的系统性削弱——"校长培养不过是当代国家对公共部门管理主义干预的一部分"(p.45)
+2. [[School Leadership|学校领导力]] [[Doxa]] 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"(p.45, 52)
+3. 证据本位实践和技术-理性主义方法构成了这一 doxa 的核心，但 English 论证其"使学校变蠢"——将教学简化为数字，消除了对"谁决定什么是重要的"这一问题的追问(p.50)
+4. 校长位于多重社会场域交叉点的独特社会空间——向内看（教育实践本身的目的）与向外看（经济和政治的成功衡量）之间的持续张力导致[[Habitus|习性]]"被分裂为对抗自身"(p.48-49)
+5. 替代方案需要一种基于"教育问题提出与争辩"的领导习性——引入参与者"加入世界对话"，这要求跨边界（地理和场域）的阅读(p.57-58)
 
 > [!info]- 核心数据
-> - NSW 公立学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.43]])
+> - NSW 公立学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校(p.43)
 > - 2002-2006 年仅 2.3% 的 ARC Discovery 拨款流向教育领域，其中不到 5% 流向教育领导力研究，年均仅 USD 52,000（Mulford, 2007，引自 Eacott, 2011, p.56）
 
 

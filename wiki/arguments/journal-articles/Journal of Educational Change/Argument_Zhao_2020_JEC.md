@@ -222,7 +222,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 > 很少有东西可以用一个数字来概括，而 PISA 声称能够仅用三个数字捕捉一个国家的整个教育系统。这不可能，这是疯狂。
 
 > [!quote]
-> "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."([[Argument_Zhao_2020_JEC|Zhao, 2020]])
+> "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."(Zhao)
 >
 > 批评的无效并不是放弃揭露 PISA 作为一个具有误导教育的巨大力量的有缺陷企业的理由。
 

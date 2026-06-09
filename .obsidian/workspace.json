@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "performativity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,9 +192,10 @@
   },
   "active": "0b96c36524025567",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Performativity.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "scripts/remove_argument_self_citations.py",
     "wiki/concepts/comparative-education/Governance by Spin.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Delambre_2022_Springer.md",
@@ -225,7 +227,6 @@
     "scripts/citation_linker.py",
     "sources/Beech_2009_CE.pdf",
     "raw/Policy spaces  mobile discourses  and the definition of educated identities.pdf",
-    "wiki/persons/canada-usa",
-    "citation/citation_ambiguous.json"
+    "wiki/persons/canada-usa"
   ]
 }

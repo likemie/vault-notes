@@ -79,13 +79,13 @@ citation_aliases:
 > 3. VL 将这一评价逻辑推至极致：学习者成为"自我监控、自我评价、自我评估、自我学习"的教师；"了解你的影响"（Know thy impact）成为座右铭
 > 4. 教育对象在评价语言游戏中消解——[[Bildung]]、民主、权威、学科、世界、开启、引导等概念在书中完全缺席
 > 5. 评价不是教育之后发生的事，教育直接被定义为评价本身
-> 6. 教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果/成就"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2-5]])
+> 6. 教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果/成就"(p.2-5)
 >
 > ### 论证二：因[[Variable|变量]]（学习）的定义问题
 > 1. Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
 > 2. 作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，因变量"学业成就"如何被操作化、测量的是哪个层次的学习——无人知晓
 > 3. 评价概念缩小了学习，科学/哲学概念扩大了学习——评价在此支配，因此是狭义的评量性学习概念决定了语言游戏的顺序
-> 4. 构造了"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]，但因变量和自变量相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价([[Argument_Rømer_2018_EPT|Rømer, 2018, p.5-6]])
+> 4. 构造了"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]，但因变量和自变量相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价(p.5-6)
 >
 > ### 论证三：[[Radical Constructivism|激进建构主义]]消解教学概念——双重瓦解
 > 1. Hattie 以 Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]为出发点，完全接受其建构主义学习观
@@ -93,7 +93,7 @@ citation_aliases:
 > 3. 但建构主义本身建立在攻击教师（作为文化和专业权威）的基础上
 > 4. Hattie 因此在"无教师"的前提下构建教师——结果是一个双重的"无教师"
 > 5. Hattie 的教师变成了钻进学习者大脑中的人："教师通过学生的眼睛看学习，学生将自己视为自己的教师"（SEE, capitalization in original, p.238）
-> 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6-8]])
+> 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念(p.6-8)
 >
 > ### 论证四：反馈概念的集权化效应
 > 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、Dewey 的交易论或[[Socrates|苏格拉底]]式的辩证
@@ -101,7 +101,7 @@ citation_aliases:
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见
 > 5. 逐级上收集权化效应：学生→教师→年级团队→校长→市政府→国家/欧盟——每一层都收集下层的 d>0.4 信息并以此控制下层
-> 6. 最终形成一个全国性的、分级的数据驱动有机体，连儿童和家庭的私生活都纳入其中([[Argument_Rømer_2018_EPT|Rømer, 2018, p.9]])
+> 6. 最终形成一个全国性的、分级的数据驱动有机体，连儿童和家庭的私生活都纳入其中(p.9)
 >
 > ### 论证五：Hattie 误读 Popper 三个世界理论
 > 1. Popper 的三个世界：World 1（物理）、World 2（主观）、World 3（文化与科学对象，"客观地伟大的"）
@@ -109,7 +109,7 @@ citation_aliases:
 > 3. Bereiter 已经做出关键化简：将 World 3 的"文化对象"缩减为"真理与非真理"，排除人文学科（与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致）
 > 4. Hattie 进一步化简：World 3 的客观性完全塌缩为主观学习（World 2）
 > 5. Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在认识论上精确对立
-> 6. 后果：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])
+> 6. 后果：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面(p.10-11)
 
 ## 主要发现
 
@@ -122,13 +122,13 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “可见的学习本身并不是一种学习理论，事实上它根本不是一种[[Didaktik|教学理论]]。相反，‘可见的学习’是教育和学习被置于一种相当简化的[[Appraisal Theory|评价理论]]之下时所产生的结果。”
-> ("[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.")([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2]])
+> ("[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.")(p.2)
 >
 > > “我犯的错误是把反馈看作是教师提供给学生的东西……直到我发现当反馈是从学生传向教师时它才是最强大的，我才开始更好地理解它。”
 > ("The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better.")（Hattie, 2009, p.173，转引自 Rømer, 2018, p.9）
 >
 > > “我们最终将得到一个没有教育也没有贝多芬交响乐的世界，而且也完全没有事物和科学能量。”
-> ("We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether.")([[Argument_Rømer_2018_EPT|Rømer, 2018, p.11]])
+> ("We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether.")(p.11)
 
 ## 局限性与批评
 

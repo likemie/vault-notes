@@ -71,7 +71,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 前提：黑箱 [[Randomised Controlled Trials|RCT]] 的四重局限
 >
-> Peterson 识别了当前"什么有效"策略的四个系统性问题（详见 [[Argument_Peterson_2016_IJRME]] 和 [[Black Box RCTs]]）：
+> Peterson 识别了当前"什么有效"策略的四个系统性问题（详见 Peterson 和 [[Black Box RCTs]]）：
 > 1. 与教师主导干预不匹配——引导资金流向更具项目性和更少教师主导的"治疗"（p. 301）
 > 2. 实施薄弱——美国 90%+ 有效性试验无影响，[[Education Endowment Foundation|EEF]] 仅 1 项有效性试验有明确效果（pp. 301–302）
 > 3. 低采纳率——从业者不使用聚合知识，"使研究更易获得不能解决采纳问题如果证据不够强"（p. 302）

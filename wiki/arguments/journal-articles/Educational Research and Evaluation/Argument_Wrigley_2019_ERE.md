@@ -57,7 +57,7 @@ citation_aliases:
 > 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的科学方法。本文质疑 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
 >
 > > “我们的观点是，这些对科学的诉诸为了修辞效果，使用了一种有缺陷且刻板的自然科学的白话形象或‘民间观点’（Thomas, 2012, p. 28），但未能充分探究科学的真正特征。”
-> ("It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science.") ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])
+> ("It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science.") (p. 111)
 
 ## 理论框架
 
@@ -77,15 +77,15 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. EBT 的科学观是过分简化的"民间科学观"
 >
-> EBT 倡导者将科学等同于实验，但许多科学领域（天文学、气象学、进化论、生物学的大部分）极少使用实验。实验通常用于验证知识而非推进知识，许多重大发现（青霉素、尼龙、超导性、飞机）并非来自系统程序([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])。Thomas (2004, p. 10) 区分了证据使用的不同阶段——拼凑/直觉阶段、灵感阶段、发现阶段、确认阶段——而 EBT 只关注确认阶段（p. 111）。
+> EBT 倡导者将科学等同于实验，但许多科学领域（天文学、气象学、进化论、生物学的大部分）极少使用实验。实验通常用于验证知识而非推进知识，许多重大发现（青霉素、尼龙、超导性、飞机）并非来自系统程序(p. 111)。Thomas (2004, p. 10) 区分了证据使用的不同阶段——拼凑/直觉阶段、灵感阶段、发现阶段、确认阶段——而 EBT 只关注确认阶段（p. 111）。
 >
 > ### 2. 本体论层次混淆与还原论
 >
-> Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次科学方法研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"（p. 112）。
+> Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次科学方法研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力(p. 112)。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"（p. 112）。
 >
 > ### 3. 涌现与开放系统
 >
-> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"（p. 34）。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。
+> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"（p. 34）。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现(p. 113)。
 >
 > ### 4. RCT 在教育中的结构性缺陷
 >
@@ -94,11 +94,11 @@ citation_aliases:
 > - **样本选择问题**：无法消除学习者多样化特征的"干扰"；随机化在教育 RCT 中罕见，因为学校班级通常是预成的
 > - **控制组模糊性**：控制组应该是"什么都不做"还是"照常做"？Pawson (2006, p. 51): "这不是静止的世界。没有真空"
 >
-> Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]])。
+> Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"(p. 115)。
 >
 > ### 5. 经验主义假设与[[Causality|因果性]]缺失
 >
-> EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 116]])。
+> EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"(p. 116)。
 >
 > 建立因果模型的四个标准（Gorard, 2013，引自 p. 116–117）：
 > - 重复关联：关联必须"强、清晰可观察、可复制且特定于 X 和 Y"
@@ -110,12 +110,12 @@ citation_aliases:
 >
 > ### 6. 医学类比的误导性
 >
-> 医学 RCT 建立在多年理论检验之上——"医学治疗是多年理论检验的体现。在第一阶段 III RCT 设计之前，它们就已经是科学探究的化身"（Pawson, 2006, p. 47）。相比之下，在教育领域，"RCT 通常被期望提供'治疗'的全部科学知识基础"（Hammersley, 2015, p. 4）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])。
+> 医学 RCT 建立在多年理论检验之上——"医学治疗是多年理论检验的体现。在第一阶段 III RCT 设计之前，它们就已经是科学探究的化身"（Pawson, 2006, p. 47）。相比之下，在教育领域，"RCT 通常被期望提供'治疗'的全部科学知识基础"（Hammersley, 2015, p. 4）(p. 117)。
 >
 > ### 7. 统计综合的三级失真
 >
-> - **[[Meta-analysis|元分析]]层面**：Simpson (2017, 2018) 论证效应量是"试验设计得如何使效应可见"的指标，而非干预有效性的指标([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]])
-> - **[[Meta-meta-analysis|元-元分析]]层面**：Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。[[Gene Glass]]（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 119]])
+> - **[[Meta-analysis|元分析]]层面**：Simpson (2017, 2018) 论证效应量是"试验设计得如何使效应可见"的指标，而非干预有效性的指标(p. 118)
+> - **[[Meta-meta-analysis|元-元分析]]层面**：Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。[[Gene Glass]]（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）(p. 119)
 >
 > ### 8. 体育参与案例研究（EEF Toolkit 深度追踪）
 >

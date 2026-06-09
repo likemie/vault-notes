@@ -67,11 +67,11 @@ citation_aliases:
 >
 > ### 1. Hattie 的意图值得肯定，但不足以弥补错误
 >
-> 作者首先承认 Hattie 的基本意图——"用科学数据识别'什么在教育中效果最好'"——本身并不坏。Hattie 综合了 800+ [[Meta-analysis|元分析]]、50,000+ 研究和数百万个体的规模"给人科学严谨性的印象"([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.238]])。但对统计学家而言，表象不足为据："当以专家的眼光深入审视 *Visible Learning* 时，我们发现的不是一座坚固的城堡，而是一座迅速崩塌的脆弱纸牌屋"([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.238]])。
+> 作者首先承认 Hattie 的基本意图——"用科学数据识别'什么在教育中效果最好'"——本身并不坏。Hattie 综合了 800+ [[Meta-analysis|元分析]]、50,000+ 研究和数百万个体的规模"给人科学严谨性的印象"(p.238)。但对统计学家而言，表象不足为据："当以专家的眼光深入审视 *Visible Learning* 时，我们发现的不是一座坚固的城堡，而是一座迅速崩塌的脆弱纸牌屋"(p.238)。
 >
 > ### 2. Hattie 犯下了 Allison 等人识别的三大科学错误中的两个
 >
-> Allison, Brown, George & Kaiser (2016) 在 *Nature* 中识别了科学中的三大主要错误。Hattie 的方法论同时违反其中两项([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.239]])：
+> Allison, Brown, George & Kaiser (2016) 在 *Nature* 中识别了科学中的三大主要错误。Hattie 的方法论同时违反其中两项(p.239)：
 > - **元分析中的计算错误**：最明显的案例是 CLE（common language effects）计算，产生负概率或超过 100% 的概率——"对任何上过至少一门统计课的人来说，这是一个巨大的失误"（p.239）
 > - **不适当的基线比较**：Hattie 认为可以比较[[Effect Size|效应量]]因为 Cohen's d 是无单位的测量，但这忽略了一个根本问题——"每个效应量，尽管没有单位，都是一个相对测量，它提供了一个与某个集合、组或基线总体的比较，即使这个基线可能是隐含的"（p.241）
 >
@@ -79,7 +79,7 @@ citation_aliases:
 >
 > 这是 Bergeron & Rivard 最具原创性的方法论贡献。他们论证效应量的符号和量级取决于被任意选择的基线比较：
 >
-> **[[Class Size|班级规模]]的案例**：VL 中班级规模的效应量为正（d≈0.2，小班 > 大班）。但如果反转比较方向——比较大学校相对于小学校——效应量就会变成负数。此时 Hattie 的解释（"班级规模没有显著影响"）将完全不同，因为负面效应被视为"有害"([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.241]])。
+> **[[Class Size|班级规模]]的案例**：VL 中班级规模的效应量为正（d≈0.2，小班 > 大班）。但如果反转比较方向——比较大学校相对于小学校——效应量就会变成负数。此时 Hattie 的解释（"班级规模没有显著影响"）将完全不同，因为负面效应被视为"有害"(p.241)。
 >
 > **社会经济地位的案例**：SES 效应量为 d=0.59（富裕 > 贫穷）。但如果比较贫困学生与富裕学生，效应量变为 -0.59——"如果其它不变，这将是所有效应中最负面的"（p.241）。随后，如何帮助缓解社会不平等的影响就成为值得研究的课题——例如借鉴芬兰的经验（Reinikainen, 2012）。"因此，Hattie 对效应的解释完全不是客观的"（p.242）。
 >
@@ -108,7 +108,7 @@ citation_aliases:
 > - **公式(b)** 测量的是"这个教学法自身引起了多大变化，相对于该变化自身的一致性？" → 排名 1=2=3，因为均值增加和变异性恰好同步增长（方法 3 增加 3 倍但 SD 也大 3 倍），d 值抹除了真实差异。根本原因："通过将平均增加除以标准差，我们丢失了一个维度"（p.244）
 > - **公式(c)** 测量的是"前后成绩的线性一致性有多强，转换后相当于多大的 d？" → 排名 0>3>2>1，因为"它不测量成绩的增加（教学法的效果），而是测量这种变化周围的噪声"（p.245）。成绩越不稳定（SD 越大），相关性越弱，d 越小
 >
-> > "我们必须绝对确保在进行元分析或计算效应量平均值时使用正确的标尺和相同的视角。"([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.243]])
+> > "我们必须绝对确保在进行元分析或计算效应量平均值时使用正确的标尺和相同的视角。"(p.243)
 >
 > 这一论证的致命性在于：**三种公式在技术上都是有效的**——各自有合理的数学基础。问题不在于哪种正确，而在于 Hattie 在 800+ 元分析的合成中不加区分地混合使用了它们。"如果同一个教学干预可以根据公式选择被排在第一、第二、第三或最后——取决于元分析员选择哪个公式——那么排名表反映的不是干预的有效性，而是分析员的公式选择。"
 >
@@ -124,9 +124,9 @@ citation_aliases:
 >
 > ### 6. 结论：伪科学
 >
-> > "总而言之，很明显 [[John Hattie]] 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学。这是非常不幸的，因为完全可以用数百个元分析的数据进行真正的科学。"([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.245]])
+> > "总而言之，很明显 [[John Hattie]] 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学。这是非常不幸的，因为完全可以用数百个元分析的数据进行真正的科学。"(p.245)
 >
-> 作者援引 R. A. Fisher 的名言作为解决方案："实验结束后再咨询统计学家往往只是请他进行尸检。他也许能说出实验死于什么原因"（Allison et al., 2016, p.28）。解决方案是在数据收集前、收集中、收集后——"尤其是在研究的每一步"——咨询统计学家([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.245]])。
+> 作者援引 R. A. Fisher 的名言作为解决方案："实验结束后再咨询统计学家往往只是请他进行尸检。他也许能说出实验死于什么原因"（Allison et al., 2016, p.28）。解决方案是在数据收集前、收集中、收集后——"尤其是在研究的每一步"——咨询统计学家(p.245)。
 
 ## 主要发现
 
@@ -142,19 +142,19 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “当以专家的眼光对可见的学习进行必要的深入审视时，我们发现的不是一座坚固的城堡，而是一个迅速崩塌的脆弱纸牌屋。”
-> ("When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart.") ([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.238]])
+> ("When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart.") (p.238)
 >
 > > “相信[[John Hattie|哈蒂]]（Hattie）意味着在评估科学严谨性时存在批判性思维的盲点。推崇他的工作不幸地陷入了对伪科学的宣传。最后，在意识到对其方法论的严肃批评后仍坚持为哈蒂辩护，则构成了蓄意的盲目。”
-> ("To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.") ([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.238]])
+> ("To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.") (p.238)
 >
 > > “哈蒂的比较是武断的，而他对此完全没有意识到。”
-> ("Hattie's comparisons are arbitrary and he is completely unaware of it.") ([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.241]])
+> ("Hattie's comparisons are arbitrary and he is completely unaware of it.") (p.241)
 >
 > > “基本上，哈蒂计算的平均值没有任何意义。”
-> ("Basically, Hattie computes averages that do not make any sense.") ([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.240]])
+> ("Basically, Hattie computes averages that do not make any sense.") (p.240)
 >
 > > “显而易见，约翰·哈蒂及其团队既不具备也不拥有进行有效统计分析所需的知识或能力。不应有人复制这种方法论，因为我们绝不能接受伪科学。”
-> ("It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience.") ([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.245]])
+> ("It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience.") (p.245)
 
 ## 局限性与批评
 

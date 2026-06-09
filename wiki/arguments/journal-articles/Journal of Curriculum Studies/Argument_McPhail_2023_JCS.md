@@ -338,12 +338,12 @@ citation_aliases:
 > 课程受到知识景观和一系列课程理论洞见的启发，这些理论正在改变我们对双重遗产、文化多样社区以及新西兰共享、可持续和繁荣未来的重要性的理解。
 
 > [!quote]
-> "We argue that there is no easy escape from the play of ideology."([[Argument_McPhail_2023_JCS|McPhail et al., 2023, p.522]])
+> "We argue that there is no easy escape from the play of ideology."(p.522)
 >
 > 我们认为，意识形态的运作没有简单的逃脱方式。
 
 > [!quote]
-> "The primary question of exactly what we, as a nation, expect our students to know, do, and understand at school still appears to be a secondary or subsidiary concern in the curriculum."([[Argument_McPhail_2023_JCS|McPhail et al., 2023, p.522]])
+> "The primary question of exactly what we, as a nation, expect our students to know, do, and understand at school still appears to be a secondary or subsidiary concern in the curriculum."(p.522)
 >
 > 作为一个国家，我们究竟期望学生在学校知道什么、做什么、理解什么——这个首要问题在课程中似乎仍然居于次要地位。
 

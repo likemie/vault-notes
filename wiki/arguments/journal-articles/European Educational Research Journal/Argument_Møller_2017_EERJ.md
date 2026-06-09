@@ -45,7 +45,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 论文试图回答两个核心问题([[Argument_Møller_2017_EERJ|Møller, 2017, p.375-376]])：
+> 论文试图回答两个核心问题(p.375-376)：
 >
 > 1. 政治家和行政人员在做出教育改进决策时，**使用和优先考虑什么类型的知识**？
 > 2. 为了**解决公平相关的进步和改进**（equity-relevant progress and improvement），我们需要知道什么？
@@ -55,7 +55,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> Møller 综合了三个理论资源([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])：
+> Møller 综合了三个理论资源(p.381)：
 >
 > - [[Transformative Leadership]]（Shields, 2010, 2011）— 以权力为调查起点，将专业工作定位于权力结构之中
 > - 批判性教育政策视角（Gunter, 2016）— 将教育领导力视为多元人群和利益的[[Champ|场域]]
@@ -71,7 +71,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> Møller 的论证分三步推进([[Argument_Møller_2017_EERJ|Møller, 2017]])：
+> Møller 的论证分三步推进(Møller)：
 >
 > **1. 诊断：[[OECD]] 主导的研究议程存在去政治化问题**
 >

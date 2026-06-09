@@ -50,7 +50,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> Hattie 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（[[Meta-meta-analysis]]）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])
+> Hattie 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（[[Meta-meta-analysis]]）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？(p.142)
 
 ## 理论框架
 
@@ -63,7 +63,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：对 Hattie 在[[Whole Language|全语言]]部分的四项[[Meta-analysis|元分析]]进行**细读**（close reading）和**方法论审查**
 > - 数据来源：*[[Visible Learning]]*（Hattie, 2009）中关于全语言的 5 段文本（1.5 页）；四项元分析的原文和次级文献（包括 Krashen, 2002; McGee & Lomax, 1990; Schickedanz, 1990; Edelsky, 1994 等）
-> - 范围：4 项元分析、共 64 项原始研究([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])
+> - 范围：4 项元分析、共 64 项原始研究(p.143)
 
 ## 核心论证
 
@@ -72,13 +72,13 @@ citation_aliases:
 >
 > ### 1. Hattie 对[[Whole Language|全语言]]的评估存在方法论缺陷
 >
-> 四项[[Meta-analysis|元分析]]中的一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（language experience approach）而非全语言。该元分析包含 1960 年代早期的研究——在全语言 1970 年代首次出现之前。Stahl 本人后来承认将两者等同是"时代错误的"（Stahl, McKenna, & Pagnucco, 1994），但 Hattie 仍然不加说明地将其纳入全语言[[Effect Size|效应量]]计算([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144-145]])。
+> 四项[[Meta-analysis|元分析]]中的一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（language experience approach）而非全语言。该元分析包含 1960 年代早期的研究——在全语言 1970 年代首次出现之前。Stahl 本人后来承认将两者等同是"时代错误的"（Stahl, McKenna, & Pagnucco, 1994），但 Hattie 仍然不加说明地将其纳入全语言[[Effect Size|效应量]]计算(pp.144-145)。
 >
 > ### 2. Hattie 对不同元分析的处理存在系统性不对称
 >
-> - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告全语言效应量 d=-0.65——在 *[[Visible Learning]]* 800+ 元分析中是极端异常值（仅两项低于 -0.5）。Hattie 未对其方法论、研究选择或潜在作者偏见进行任何审查。Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，但 Hattie 未提及此批评([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.145-147]])
-> - **对正面发现的选择性修正**：Gee（1995）报告全语言效应量 d=+0.65。Hattie 以三项被纳入的研究（包括 Trachtenburg & Ferruggia, 1989 报告的 d=1.7）包含语音教学为由将其删除，将效应量修正为零。然而全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献（Hornsby & Powell, 1993; Hornsby & Wilson, 2011）([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147-148]])
-> - **独特的处理**：在 *Visible Learning* 超过 800 项元分析中，仅此一项——发现全语言有正面影响的元分析——被 Hattie 通过选择性删除研究而修正了效应量。O'Connor 论证这难以用"先验偏见"以外的任何理由解释([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])
+> - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告全语言效应量 d=-0.65——在 *[[Visible Learning]]* 800+ 元分析中是极端异常值（仅两项低于 -0.5）。Hattie 未对其方法论、研究选择或潜在作者偏见进行任何审查。Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，但 Hattie 未提及此批评(pp.145-147)
+> - **对正面发现的选择性修正**：Gee（1995）报告全语言效应量 d=+0.65。Hattie 以三项被纳入的研究（包括 Trachtenburg & Ferruggia, 1989 报告的 d=1.7）包含语音教学为由将其删除，将效应量修正为零。然而全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献（Hornsby & Powell, 1993; Hornsby & Wilson, 2011）(pp.147-148)
+> - **独特的处理**：在 *Visible Learning* 超过 800 项元分析中，仅此一项——发现全语言有正面影响的元分析——被 Hattie 通过选择性删除研究而修正了效应量。O'Connor 论证这难以用"先验偏见"以外的任何理由解释(p.148)
 >
 > ### 3. Hattie 的"故事"优先于"数据"
 >
@@ -88,7 +88,7 @@ citation_aliases:
 >
 > > "关键是要认识到，是解释和故事（INTERPRETATION and STORY）帮助解释发现，这才是有用理论的竞争者；不是数据。"（Hattie & Hamilton, 2018, p.46，引自 O'Connor, 2020, p.142）
 >
-> O'Connor 指出，这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）提出的"对研究'叙述性讨论'的严谨替代方案"——直接矛盾([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])。
+> O'Connor 指出，这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）提出的"对研究'叙述性讨论'的严谨替代方案"——直接矛盾(p.142)。
 
 ## 主要发现
 

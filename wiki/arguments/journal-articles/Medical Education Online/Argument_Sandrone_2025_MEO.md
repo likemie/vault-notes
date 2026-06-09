@@ -109,13 +109,13 @@ citation_aliases:
 
 > [!warning] 核心发现
 >
-> **认可率极低**。在 208 篇诺贝尔生理学或医学奖演讲中，只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **认可率极低**。在 208 篇诺贝尔生理学或医学奖演讲中，只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后(Sandrone)。
 >
-> **被提及的导师类型**。最常被提及的导师是 former PhD 导师或博士后导师。在 20 次引用中，有 12 次被提及的导师是 fellow 诺贝尔奖获得者([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **被提及的导师类型**。最常被提及的导师是 former PhD 导师或博士后导师。在 20 次引用中，有 12 次被提及的导师是 fellow 诺贝尔奖获得者(Sandrone)。
 >
-> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者。她们常常将博士后导师列为导师([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。女性获奖者占诺贝尔生理学或医学奖获得者的不到 6%，但 20 次引用中有 2 次来自女性获奖者。她们常常将博士后导师列为导师(Sandrone)。
 >
-> **同期获奖者的相互影响**。20 次引用中有 6 次是由同一 year 获奖的两位科学家做出的（1998、2002、2014）。尽管获奖者提前准备演讲，但可能通过 last-minute 的 reactive adjustments 相互影响，因为诺贝尔演讲是在同一天上午一个接一个进行的([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **同期获奖者的相互影响**。20 次引用中有 6 次是由同一 year 获奖的两位科学家做出的（1998、2002、2014）。尽管获奖者提前准备演讲，但可能通过 last-minute 的 reactive adjustments 相互影响，因为诺贝尔演讲是在同一天上午一个接一个进行的(Sandrone)。
 
 > [!example]- 诺贝尔演讲中提到导师的具体例子
 >
@@ -143,7 +143,7 @@ citation_aliases:
 >
 > 拉斯克奖常被视为获得诺贝尔奖的前奏（Marks, 1989; Naylor & Bell, 2015）。拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。
 >
-> 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori 和 Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师致谢]]的现象更加令人惊讶([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori 和 Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师致谢]]的现象更加令人惊讶(Sandrone)。
 
 > [!example] 奥斯卡奖的对比
 >
@@ -151,7 +151,7 @@ citation_aliases:
 >
 > 关键差异：诺贝尔奖获得者提前被告知获奖，而奥斯卡获奖者通常直到颁奖之夜才被披露。这导致奥斯卡演讲往往是即兴的或提前部分准备的。诺贝尔演讲通常有约两个月的准备时间。一个世纪前，这个时间窗口更宽，从几个月到近一年不等。
 >
-> 这意味着不是缺乏时间准备或演讲时长阻止了诺贝尔奖获得者明确承认导师。因此，这种缺乏明确导师致谢的现象可能是一种自愿选择([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> 这意味着不是缺乏时间准备或演讲时长阻止了诺贝尔奖获得者明确承认导师。因此，这种缺乏明确导师致谢的现象可能是一种自愿选择(Sandrone)。
 
 ---
 
@@ -161,9 +161,9 @@ citation_aliases:
 >
 > **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变往往带来开创性研究，在诺贝尔奖获得者中尤为常见（Ma et al., 2020, 引自 Sandrone, 2025）。
 >
-> **时间因素**。诺贝尔奖获得者平均比其他奖项获得者年龄更大。与导师合作的时间可能更久远，可能导致个人或职业联系较弱([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **时间因素**。诺贝尔奖获得者平均比其他奖项获得者年龄更大。与导师合作的时间可能更久远，可能导致个人或职业联系较弱(Sandrone)。
 >
-> **概念并非新事物**。导师制不是新概念。mentor 一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000）。mentoring 一词可能在 1778 年左右首次出现在美国。在 18-19 世纪的出版物中可以找到 mentor 一词，远在第一个诺贝尔奖颁发之前([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **概念并非新事物**。导师制不是新概念。mentor 一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000）。mentoring 一词可能在 1778 年左右首次出现在美国。在 18-19 世纪的出版物中可以找到 mentor 一词，远在第一个诺贝尔奖颁发之前(Sandrone)。
 
 ---
 
@@ -171,25 +171,25 @@ citation_aliases:
 
 > [!success]
 >
-> **[[Mentorship Recognition|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **[[Mentorship Recognition|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式(Sandrone)。
 >
-> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这与研究表明博士后导师比研究生导师对受训者的成功更有影响相一致([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这与研究表明博士后导师比研究生导师对受训者的成功更有影响相一致(Sandrone)。
 >
-> **与其他奖项的对比**。拉斯克奖和奥斯卡奖的获奖感言比诺贝尔演讲更频繁地提到导师，尽管这些奖项的演讲时间更短。这凸显了诺贝尔奖背景下导师明确承认的一个意外缺失([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **与其他奖项的对比**。拉斯克奖和奥斯卡奖的获奖感言比诺贝尔演讲更频繁地提到导师，尽管这些奖项的演讲时间更短。这凸显了诺贝尔奖背景下导师明确承认的一个意外缺失(Sandrone)。
 >
-> **多样性问题**。诺贝尔奖中的性别和种族差距仍然存在。[[Mentorship|导师制]]常被认为是解决性别不平等的关键干预措施，成功的导师制对于留住管道中的代表性不足少数群体并促进多样性至关重要([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **多样性问题**。诺贝尔奖中的性别和种族差距仍然存在。[[Mentorship|导师制]]常被认为是解决性别不平等的关键干预措施，成功的导师制对于留住管道中的代表性不足少数群体并促进多样性至关重要(Sandrone)。
 
 ---
 
 ## 关键引用
 
 > [!quote]
-> "Only twenty Nobel Laureates have explicitly acknowledged their mentors in their Nobel Lectures."([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])
+> "Only twenty Nobel Laureates have explicitly acknowledged their mentors in their Nobel Lectures."(Sandrone)
 >
 > 只有 20 位诺贝尔奖获得者在他们的诺贝尔演讲中明确承认了他们的导师。
 
 > [!quote]
-> "This highlights an unexpected gap in the explicit acknowledgment of mentors in the context of the Nobel Prize, which we report and discuss for the first time."([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])
+> "This highlights an unexpected gap in the explicit acknowledgment of mentors in the context of the Nobel Prize, which we report and discuss for the first time."(Sandrone)
 >
 > 这凸显了诺贝尔奖背景下导师明确承认的一个意外缺失，我们首次报告和讨论了这一点。
 
@@ -204,11 +204,11 @@ citation_aliases:
 
 > [!warning]
 >
-> **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship|mentor]] 一词的频率([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship|mentor]] 一词的频率(Sandrone)。
 >
-> **未分析其他诺贝尔奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition|导师致谢]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **未分析其他诺贝尔奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition|导师致谢]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势(Sandrone)。
 >
-> **未探索感恩的其他形式**。虽然对诺贝尔奖历史中感恩表达的详细探索可以成为未来研究的焦点，但缺乏明确承认仍然特别令人惊讶([[Argument_Sandrone_2025_MEO|Sandrone, 2025]])。
+> **未探索感恩的其他形式**。虽然对诺贝尔奖历史中感恩表达的详细探索可以成为未来研究的焦点，但缺乏明确承认仍然特别令人惊讶(Sandrone)。
 
 ---
 
