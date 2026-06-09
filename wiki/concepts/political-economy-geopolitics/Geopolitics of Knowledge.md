@@ -45,6 +45,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[Research Question]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -139,12 +140,19 @@ updated: 2026-05-20
 
 > [!phase] 第一阶段（1990–2015）：美国主导的霸权式全球化
 > 苏联解体后，美国以军事优势为后盾推行变革性的政治-经济-[[Hegemony|文化霸权]]。英语大学在构建和殖民扩展中的全球高等教育空间中运作自如：在东亚/东南亚植入分校、建立合作联盟、吸引国际学生和博士人才。但在此表面的英美同质化之下，新加坡、中国、韩国、法国、北欧国家等也在采取全球性举措（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–17]]）。
->
-> 各国发展出不同的国家-全球协同（national/global synergy）模式（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 17–20]]）：
-> - **美国**：精英大学大规模资助外国博士生培养，利用相对开放的移民制度招募全球人才（尤其是中国和印度的研究生），同时增强了美国的科研实力和软实力
-> - **英国**：利用继承的学术地位吸引并货币化跨境学生，以国际学生收入替代下降的公共拨款，在节省财政支出的同时扩大新殖民软实力
-> - **澳大利亚**：利用宽松的移民政策，以国际学生费用收入资助约四分之一的大学科研。2019 年 32.4% 的学生支付商业性国际学费，贡献了 27.3% 的大学收入。人口仅 2500 万的澳大利亚在 [[Academic Ranking of World Universities|ARWU]] 前 100 名中有 7 所大学，高引用论文比例与英国持平
-> - **中国**：以不断增长的政府投资为支撑，侧重国内能力建设而非全球扩张。国家尺度和全球尺度活动相互强化，形成循环效应
+
+
+各国发展出不同的国家-全球协同（national/global synergy）模式（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 17–20]]）：
+
+> [!quad-grid]
+> - **美国**
+>   精英大学大规模资助外国博士生培养，利用相对开放的移民制度招募全球人才（尤其是中国和印度的研究生），同时增强了美国的科研实力和软实力
+> - **英国**
+>   利用继承的学术地位吸引并货币化跨境学生，以国际学生收入替代下降的公共拨款，在节省财政支出的同时扩大新殖民软实力
+> - **澳大利亚**
+>   利用宽松的移民政策，以国际学生费用收入资助约四分之一的大学科研。2019年32.4%的学生支付商业性国际学费，贡献了27.3%的大学收入。人口仅2500万的澳大利亚在[[Academic Ranking of World Universities|ARWU]]前100名中有7所大学，高引用论文比例与英国持平
+> - **中国**
+>   以不断增长的政府投资为支撑，侧重国内能力建设而非全球扩张。国家尺度和全球尺度活动相互强化，形成循环效应
 
 > [!phase] 第二阶段（2015 至今）：西方的部分去全球化与中美脱钩
 > 不均衡但广泛的西方对跨境连接的反弹，由双重因素触发：（a）长期殖民秩序的侵蚀和全球[[Multiplicity|多重性]]的增长——包括中国和全球南方大部分地区的崛起；（b）欧美人口的新自由主义贫困化催生了民粹政治。规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动），以及美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 22–23]]）。
@@ -279,9 +287,9 @@ updated: 2026-05-20
 
 **亚洲中产阶级作为 GPK 的驱动力量**：Rizvi 的分析展示了[[Critical Geopolitics|批判地缘政治学]]关注"日常经验"的洞察如何具体化。亚洲中产阶级对西方教育的渴望深植于殖民历史——海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.96]]）。一个曼谷或上海中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了西方大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])。详见 Rizvi 论证 > 第四步。
 
-> [!quad-grid] 推动跨国研究合作的四重理性
+> [!quad-grid] 推动[[Transnational Research Collaboration|跨国研究合作]]的四重理性
 > - **学术合作**（研究者话语）
->   个体研究者的学术兴趣——基于共同研究问题和互补专长的内在驱动
+>   个体研究者的学术兴趣——基于共同[[Research Question|研究问题]]和互补专长的内在驱动
 > - **全球声誉建设**（校长话语）
 >   机构的声誉和基础设施需求——通过国际合作提升排名位置和国际可见度
 > - **贸易促进**（经济部长话语）
@@ -308,7 +316,7 @@ updated: 2026-05-20
 > [!finding-cards]
 > 1. **竞争力作为地缘政治装置**：大学通过排名、指标化和审计文化被重塑为竞争者。教学领域中，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]]）
 > 2. **[[Online Self-Assessment|OSA]] 作为 GPK 治理工具**：将 GPK 的竞争逻辑操作化为个体化的自我评估实践——潜在学生被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]之间的差距驱动着永不停息的自我优化（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]]）
-> 3. **[[Promising Student|有前景的学生]]：地缘政治主体的教学变体**：GPK 在教学治理层面产出的主体形态——通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]]）
+> 3. **[[Promising Student|有前景的学生]]：[[Geopolitical Subject|地缘政治主体]]的教学变体**：GPK 在教学治理层面产出的主体形态——通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]]）
 
 详见 [[Argument_Thompson_2022_Promising_Student]]。
 

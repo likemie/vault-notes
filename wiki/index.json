@@ -885,6 +885,16 @@
     ]
   },
   {
+    "title": "Rational-Control Rhetoric",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Rational-Control Rhetoric.md",
+    "aliases": [
+      "理性/控制修辞",
+      "Rational/Control Rhetoric",
+      "Rational-Control Rhetoric"
+    ]
+  },
+  {
     "title": "School Leadership",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/School Leadership.md",
@@ -5361,6 +5371,15 @@
     "aliases": [
       "新教育社会学",
       "NSE"
+    ]
+  },
+  {
+    "title": "Ontological Complicity",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Ontological Complicity.md",
+    "aliases": [
+      "本体论共谋",
+      "Ontological Complicity"
     ]
   },
   {
