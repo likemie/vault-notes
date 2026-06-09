@@ -514,14 +514,14 @@
 }
 
 .callout[data-callout="finding-cards"] {
-  --callout-color: 52, 126, 109;
+  --callout-color: 202, 154, 47;
   --callout-icon: lucide-award;
   background:
-    linear-gradient(135deg, rgba(52, 126, 109, 0.12), rgba(52, 126, 109, 0.035)),
+    linear-gradient(135deg, rgba(202, 154, 47, 0.14), rgba(202, 154, 47, 0.035)),
     var(--background-primary);
-  border: 1px solid rgba(52, 126, 109, 0.22);
-  border-left: 6px solid rgb(52, 126, 109);
-  box-shadow: 0 10px 26px rgba(52, 126, 109, 0.08);
+  border: 1px solid rgba(202, 154, 47, 0.24);
+  border-left: 6px solid rgb(202, 154, 47);
+  box-shadow: 0 10px 26px rgba(202, 154, 47, 0.09);
 }
 
 .callout[data-callout="finding-cards"] .callout-content > ol,
@@ -540,23 +540,25 @@
   counter-increment: finding;
   margin: 0;
   padding: 0.9rem 1rem;
-  border: 1px solid rgba(52, 126, 109, 0.18);
+  border: 1px solid rgba(202, 154, 47, 0.2);
   border-radius: 9px;
-  background: color-mix(in srgb, var(--background-primary) 88%, rgb(52, 126, 109) 12%);
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(202, 154, 47) 12%);
 }
 
-.callout[data-callout="finding-cards"] .callout-content > ol > li:first-child:nth-last-child(3),
-.callout[data-callout="finding-cards"] .callout-content > ul > li:first-child:nth-last-child(3) {
+.callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(3):last-child,
+.callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(3):last-child {
   grid-column: 1 / -1;
   background:
-    linear-gradient(135deg, rgba(52, 126, 109, 0.2), rgba(52, 126, 109, 0.08)),
+    linear-gradient(135deg, rgba(202, 154, 47, 0.22), rgba(202, 154, 47, 0.08)),
     var(--background-primary);
-  box-shadow: 0 10px 24px rgba(52, 126, 109, 0.1);
+  box-shadow: 0 10px 24px rgba(202, 154, 47, 0.11);
 }
 
 .callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(n + 5),
 .callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(n + 5) {
-  display: none;
+  grid-column: 1 / -1;
+  border-style: dashed;
+  opacity: 0.72;
 }
 
 .callout[data-callout="finding-cards"] .callout-content > ol > li::before,
@@ -568,8 +570,8 @@
   height: 1.35rem;
   margin-right: 0.45rem;
   border-radius: 999px;
-  background: rgba(52, 126, 109, 0.18);
-  color: rgb(52, 126, 109);
+  background: rgba(202, 154, 47, 0.2);
+  color: rgb(166, 118, 22);
   font-size: 0.82em;
   font-weight: 800;
 }
@@ -578,7 +580,7 @@
 .callout[data-callout="finding-cards"] .callout-content > ul > li strong:first-child {
   display: inline-block;
   margin-bottom: 0.28rem;
-  color: rgb(52, 126, 109);
+  color: rgb(166, 118, 22);
 }
 
 @media (max-width: 640px) {
@@ -587,8 +589,8 @@
     grid-template-columns: 1fr;
   }
 
-  .callout[data-callout="finding-cards"] .callout-content > ol > li:first-child:nth-last-child(3),
-  .callout[data-callout="finding-cards"] .callout-content > ul > li:first-child:nth-last-child(3) {
+  .callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(3):last-child,
+  .callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(3):last-child {
     grid-column: auto;
   }
 }
