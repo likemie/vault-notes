@@ -9271,6 +9271,15 @@
     ]
   },
   {
+    "title": "Education International",
+    "type": "fact",
+    "path": "wiki/facts/global/Education International.md",
+    "aliases": [
+      "国际教育协会",
+      "EI"
+    ]
+  },
+  {
     "title": "Network of Academic Corporate Relations Officers",
     "type": "fact",
     "path": "wiki/facts/global/Network of Academic Corporate Relations Officers.md",
@@ -11277,7 +11286,7 @@
   {
     "title": "Argument_Håkansson_2015_Paideia",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
+    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",
@@ -11347,7 +11356,7 @@
   {
     "title": "Argument_Håkansson_2015_TT",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Teachers and Teaching/Argument_Håkansson_2015_TT.md"
+    "path": "wiki/arguments/journal-articles/Teachers and Teaching/Argument_Håkansson_2015_TT.md"
   },
   {
     "title": "Argument_Cohen_2025_JTT",

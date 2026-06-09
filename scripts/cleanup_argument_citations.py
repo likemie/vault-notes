@@ -33,6 +33,18 @@ CODE_FENCE_RE = re.compile(r"```.*?```", re.S)
 # Latin name pattern to match English author names (capital followed by letters, requiring at least one lowercase letter to avoid all-uppercase acronyms like GPS, EEF, FDA)
 LATIN_NAME = r"\b[A-ZÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'-]*[a-zÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'-]*\b"
 
+# Non-author Latin terms to exclude from replacement
+EXCLUDED_TERMS = {
+    "pfizer", "celgene", "squibb", "biopôle", "counts", "trust", "mathematica", 
+    "elsevier", "google", "deepmind", "alphafold", "ofsted", "oecd", "mdrc", 
+    "rand", "pew", "charitable", "hipaa", "ferpa", "gdpr", "nist", "uw", 
+    "uva", "yale", "u-m", "madison", "internet", "gps", "eef", "fda", "abb", "ai",
+    "emos", "emo", "timss", "pisa", "rct", "ebp", "cpd", "pgce", "ip", "guirr",
+    "uidp", "iqvia", "ctti", "cip", "mcc", "cis", "aitsl", "ite", "clt", "sd",
+    "se", "ci", "show", "open", "high", "low", "level", "figure", "table", "map",
+    "step", "page", "chapter", "part", "section", "appendix", "volume", "issue"
+}
+
 def mask_protected(text: str) -> tuple[str, list[str]]:
     protected = []
     def repl(m):
@@ -92,39 +104,67 @@ def clean_body_citations(body: str, rel_path: str) -> str:
     # （Ankrah & Al-Tabbaa, 2015） -> (Ankrah & Al-Tabbaa, 2015)
     body = re.sub(r"（([A-Za-zÀ-ÖØ-öø-ÿ\s&.,;’'-]+,\s*\d{4}[a-z]?[^（）]*)）", r"(\1)", body)
 
-    # 3. General language cleanup for Latin author names
-    # E.g. "Tobin、Wu 和 Davidson" -> "Tobin et al."
-    # E.g. "Qin, Way 和 Mukherjee" -> "Qin et al."
-    # We match three or more capitalized Latin names separated by CJK commas and CJK '和'
-    pattern_3plus = re.compile(
-        rf"\b({LATIN_NAME})(?:[、,\s]+{LATIN_NAME})+\s+和\s+({LATIN_NAME})\b"
-    )
-    body = pattern_3plus.sub(r"\1 et al.", body)
-
-    # E.g. "Rybnicek 和 Konigsgruber" -> "Rybnicek & Konigsgruber"
-    # E.g. "Ankrah 和 Al-Tabbaa" -> "Ankrah & Al-Tabbaa"
+    # 3. General language cleanup for Latin author names (outside parentheses, followed by year)
+    # E.g. "Rybnicek 和 Konigsgruber (2019)" -> "Rybnicek & Konigsgruber (2019)"
+    # We restrict to matches followed by a year to avoid matching names in normal prose sentences.
     pattern_2names = re.compile(
-        rf"\b({LATIN_NAME})\s+和\s+({LATIN_NAME})\b"
+        rf"\b({LATIN_NAME})\s+和\s+({LATIN_NAME})\s*(?=[(（]\d{{4}})"
     )
-    body = pattern_2names.sub(r"\1 & \2", body)
+    def repl_2names(m):
+        n1, n2 = m.group(1), m.group(2)
+        if n1.lower() in EXCLUDED_TERMS or n2.lower() in EXCLUDED_TERMS:
+            return m.group(0)
+        return f"{n1} & {n2}"
+    body = pattern_2names.sub(repl_2names, body)
+
+    # E.g. "Tobin、Wu 和 Davidson (2019)" -> "Tobin et al. (2019)"
+    # We require comma/semicolon separators (not space) and lookahead for a year.
+    pattern_3plus = re.compile(
+        rf"\b({LATIN_NAME})(?:[、,;]\s*{LATIN_NAME})+\s+和\s+({LATIN_NAME})\s*(?=[(（]\d{{4}})"
+    )
+    def repl_3plus(m):
+        n1 = m.group(1)
+        if n1.lower() in EXCLUDED_TERMS:
+            return m.group(0)
+        return f"{n1} et al."
+    body = pattern_3plus.sub(repl_3plus, body)
 
     # E.g. "Perkmann 等人" / "Perkmann 等" -> "Perkmann et al."
-    body = re.sub(rf"\b({LATIN_NAME})\s*(?:等|等人)", r"\1 et al.", body)
+    def repl_deng(m):
+        n = m.group(1)
+        if n.lower() in EXCLUDED_TERMS:
+            return m.group(0)
+        return f"{n} et al."
+    body = re.sub(rf"\b({LATIN_NAME})\s*(?:等人|等)", repl_deng, body)
 
     # 4. Standardize any remaining CJK separators inside parenthetical citations
     # E.g. (Rybnicek 和 Konigsgruber, 2019) -> (Rybnicek & Konigsgruber, 2019)
-    # We find parenthetical blocks and replace ' 和 ' with ' & '
+    # We find parenthetical blocks and replace CJK separators/punctuation with English counterparts.
     def clean_paren_content(m):
         content = m.group(1)
         # Only touch if there is a year inside
         if re.search(r"\b\d{4}[a-z]?\b", content):
-            # Replace CJK separators with English ones
-            content = re.sub(rf"\b({LATIN_NAME})\s+和\s+({LATIN_NAME})\b", r"\1 & \2", content)
-            content = re.sub(rf"\b({LATIN_NAME})\s*(?:等|等人)", r"\1 et al.", content)
-            content = content.replace("，", ",")
+            def repl_2names_paren(m2):
+                n1, n2 = m2.group(1), m2.group(2)
+                if n1.lower() in EXCLUDED_TERMS or n2.lower() in EXCLUDED_TERMS:
+                    return m2.group(0)
+                return f"{n1} & {n2}"
+            
+            def repl_deng_paren(m2):
+                n = m2.group(1)
+                if n.lower() in EXCLUDED_TERMS:
+                    return m2.group(0)
+                return f"{n} et al."
+
+            content = re.sub(rf"\b({LATIN_NAME})\s+和\s+({LATIN_NAME})\b", repl_2names_paren, content)
+            content = re.sub(rf"\b({LATIN_NAME})\s*(?:等人|等)", repl_deng_paren, content)
+            content = content.replace("，", ",").replace("；", ";")
         return f"({content})"
     
     body = re.sub(r"\(([^()\n]+)\)", clean_paren_content, body)
+
+    # 5. Clean up any accidental leftover 'et al.人' or 'et al.等'
+    body = re.sub(r"\bet\s+al\.\s*(?:人|等)", "et al.", body)
 
     return body
 
