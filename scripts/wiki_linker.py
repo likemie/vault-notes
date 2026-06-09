@@ -35,6 +35,14 @@ URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
 YAML_AUTHOR_LINK_KEYS = {"authors", "editors"}
+CITATION_AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]*(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
+CITATION_PAREN_GROUP_RE = re.compile(r"(?<!\[)\([^()\n]*\b\d{4}[a-z]?[^()\n]*\)")
+CITATION_FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（[^（）\n]*\b\d{4}[a-z]?[^（）\n]*）")
+CITATION_NARRATIVE_RE = re.compile(
+    r"(?<![\w\]\)])"
+    rf"{CITATION_AUTHOR_PATTERN}"
+    r"\s*[（(]\d{4}[a-z]?(?:\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?[）)]"
+)
 
 CALLOUT_MARKER_RE = re.compile(r"^(?:>\s*)+\[![^\]\s]+(?:\]\])?\]")
 TABLE_SEPARATOR_RE = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(?:\|\s*:?-{3,}:?\s*)+\|?\s*$")
@@ -466,6 +474,13 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     # Fenced code blocks.
     for m in re.finditer(r"(?ms)^```.*?^```\s*", text):
         add(m.start(), m.end())
+
+    # Citation-like spans are reserved for citation_linker.py. This prevents
+    # ordinary Person linking from breaking author-year citations before the
+    # citation linker can target the corresponding Argument page.
+    for rx in (CITATION_NARRATIVE_RE, CITATION_PAREN_GROUP_RE, CITATION_FULLWIDTH_PAREN_GROUP_RE):
+        for m in rx.finditer(text):
+            add(m.start(), m.end())
 
     # Headings line-by-line. Also skip all lines in quote callouts.
     in_quote_callout = False

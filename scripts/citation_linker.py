@@ -36,14 +36,40 @@ FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（([^（）\n]*\b\d{4}[a-z]?[^（）\n]
 PAREN_ITEM_RE = re.compile(
     r"^\s*"
     rf"(?P<author>{AUTHOR_PATTERN})"
-    r"\s*[,，]\s*"
+    r"\s*(?P<sep>[,，])\s*"
     r"(?P<year>\d{4}[a-z]?)"
     r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*.+)?"
+    r"\s*$"
+)
+PAREN_ITEM_PREFIX_RE = re.compile(
+    r"^\s*"
+    rf"(?P<author>{AUTHOR_PATTERN})"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^,，;]+)?"
+    r"(?P<tail>\s*[,，].+)"
+    r"\s*$"
+)
+WIKILINK_PAREN_ITEM_RE = re.compile(
+    r"^\s*"
+    r"(?P<link>\[\[[^\]\n]+\]\])"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^,，;]+)?"
+    r"(?P<tail>\s*[,，].+)?"
     r"\s*$"
 )
 NARRATIVE_RE = re.compile(
     r"(?<![\w\]\)])"
     rf"(?P<author>{AUTHOR_PATTERN})"
+    r"\s*[（(]"
+    r"(?P<year>\d{4}[a-z]?)"
+    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?"
+    r"[）)]"
+)
+WIKILINK_NARRATIVE_RE = re.compile(
+    r"(?<![\w\]\)])"
+    r"(?P<link>\[\[[^\]\n]+\]\])"
     r"\s*[（(]"
     r"(?P<year>\d{4}[a-z]?)"
     r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?"
@@ -117,6 +143,21 @@ def normalize_locator(locator: str) -> str:
     return re.sub(r"^\s*,\s*", ", ", locator)
 
 
+def display_parenthetical_author_year(author: str, sep: str, year: str) -> str:
+    if sep == "，":
+        return f"{author}，{year}"
+    return f"{author}, {year}"
+
+
+def wikilink_display(raw: str) -> str:
+    inner = raw.strip()[2:-2].strip()
+    if "\\|" in inner:
+        return inner.split("\\|", 1)[1].strip()
+    if "|" in inner:
+        return inner.split("|", 1)[1].strip()
+    return inner.split("#", 1)[0].strip()
+
+
 def split_frontmatter(text: str) -> tuple[str, str]:
     m = FRONTMATTER_RE.match(text)
     if not m:
@@ -146,16 +187,26 @@ def link_target(entry: dict[str, Any], display: str) -> str:
     return f"[[{entry['argument']}|{display}]]"
 
 
-def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str | None:
+def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str], opener: str = "(", closer: str = ")") -> str | None:
     parts = content.split(";")
     linked_parts: list[str] = []
     changed = False
     for raw in parts:
         item = raw.strip()
         m = PAREN_ITEM_RE.match(item)
+        prefix_only = False
+        wikilink_author = False
         if not m:
-            return None
-        display_author = normalize_display_author(m.group("author"))
+            m = PAREN_ITEM_PREFIX_RE.match(item)
+            prefix_only = bool(m)
+        if not m:
+            m = WIKILINK_PAREN_ITEM_RE.match(item)
+            wikilink_author = bool(m)
+            prefix_only = bool(m and m.group("tail"))
+        if not m:
+            linked_parts.append(item)
+            continue
+        display_author = wikilink_display(m.group("link")) if wikilink_author else normalize_display_author(m.group("author"))
         author = normalize_author(display_author)
         year = m.group("year").strip()
         locator = normalize_locator(m.group("locator") or "")
@@ -165,17 +216,37 @@ def link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], st
             missing.append(key)
             linked_parts.append(item)
             continue
-        linked_parts.append(link_target(entry, f"{display_author}, {year}{locator}"))
+        display_prefix = f"{display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
+        if prefix_only:
+            linked_parts.append(f"{link_target(entry, display_prefix)}{m.group('tail')}")
+        else:
+            linked_parts.append(link_target(entry, display_prefix))
         changed = True
     if not changed:
         return None
     stats["linked_parenthetical"] += 1
-    return "(" + "; ".join(linked_parts) + ")"
+    return opener + "; ".join(linked_parts) + closer
 
 
 def link_parenthetical(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     def repl(m: re.Match[str]) -> str:
-        linked = link_parenthetical_group(m.group(1), lookup, stats, missing)
+        opener = m.group(0)[0]
+        closer = "）" if opener == "（" else ")"
+        linked = link_parenthetical_group(m.group(1), lookup, stats, missing, opener, closer)
+        return linked or m.group(0)
+
+    text = PAREN_GROUP_RE.sub(repl, text)
+    text = FULLWIDTH_PAREN_GROUP_RE.sub(repl, text)
+    return text
+
+
+def link_wikilink_parenthetical(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        if "[[" not in m.group(1):
+            return m.group(0)
+        opener = m.group(0)[0]
+        closer = "）" if opener == "（" else ")"
+        linked = link_parenthetical_group(m.group(1), lookup, stats, missing, opener, closer)
         return linked or m.group(0)
 
     text = PAREN_GROUP_RE.sub(repl, text)
@@ -199,8 +270,26 @@ def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str
     return NARRATIVE_RE.sub(repl, text)
 
 
+def link_wikilink_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        display_author = normalize_display_author(wikilink_display(m.group("link")))
+        author = normalize_author(display_author)
+        year = m.group("year").strip()
+        locator = normalize_locator(m.group("locator") or "")
+        key = f"{author} ({year})"
+        entry = lookup.get(key)
+        if not entry:
+            missing.append(key)
+            return m.group(0)
+        stats["linked_narrative"] += 1
+        return link_target(entry, f"{display_author} ({year}{locator})")
+    return WIKILINK_NARRATIVE_RE.sub(repl, text)
+
+
 def link_text(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     fm, body = split_frontmatter(text)
+    body = link_wikilink_parenthetical(body, lookup, stats, missing)
+    body = link_wikilink_narrative(body, lookup, stats, missing)
     masked, protected = mask_protected(body)
     masked = link_parenthetical(masked, lookup, stats, missing)
     masked = link_narrative(masked, lookup, stats, missing)
