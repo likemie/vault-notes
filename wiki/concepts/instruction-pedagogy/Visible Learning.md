@@ -194,7 +194,9 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 
 #### 教师人格的争论
 
-Hattie & Yates 早期在书中声称好教师不能以特定人格类型定义。[[Argument_Fredens_2015_Paideia|Fredens (2015, p.73)]] 质疑这一立场，引用 Lambert & Barley (2001) 的[[Meta-analysis|元分析]]——治疗师人格是治疗关系中最重要的因素，比所用方法更重要——提出"教师的人格性表现（personlige ageren）在师生关系中是否比所用方法更具决定性？"
+> [!tension] 好教师能否以人格类型定义？
+> - **Hattie & Yates** — 好教师不能以特定人格类型定义。
+> - **Fredens（引 Lambert & Barley, 2001）** — 治疗师人格是治疗关系中最重要的因素，比所用方法更重要；由此质疑：教师的人格性表现（personlige ageren）在师生关系中是否比所用方法更具决定性？（[[Argument_Fredens_2015_Paideia|Fredens, 2015, p.73]]）
 
 ---
 
