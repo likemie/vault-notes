@@ -6,6 +6,7 @@ title: 主页
   <div class="concept-explore-kicker">今日概念</div>
   <a class="concept-explore-title" data-role="today-link" href="bases/concepts">正在抽取概念...</a>
   <div class="concept-explore-meta" data-role="today-meta">从知识库里挑一个今天值得碰一下的概念。</div>
+  <div class="concept-explore-stats" data-role="home-stats"></div>
   <div class="concept-explore-actions">
     <a href="explore" class="concept-explore-button">打开探索页</a>
     <button type="button" class="concept-explore-button ghost" data-role="random-button">随机概念</button>
@@ -19,6 +20,7 @@ title: 主页
     const todayKey = new Date().toISOString().slice(0, 10)
     const hash = (text) => [...text].reduce((acc, char) => (acc * 31 + char.charCodeAt(0)) >>> 0, 0)
     const conceptUrl = (slug) => new URL(slug, window.location.origin + "/").pathname
+    const linkCount = (item) => Array.isArray(item.links) ? item.links.length : 0
     const pick = (items, seed) => items[seed % items.length]
 
     fetch(indexUrl)
@@ -32,9 +34,19 @@ title: 主页
         const today = pick(concepts, hash(todayKey))
         const todayLink = widget.querySelector('[data-role="today-link"]')
         const todayMeta = widget.querySelector('[data-role="today-meta"]')
+        const stats = widget.querySelector('[data-role="home-stats"]')
         todayLink.textContent = today.title
         todayLink.href = conceptUrl(today.slug)
         todayMeta.textContent = `${todayKey} · 从 ${concepts.length} 个概念里抽取`
+        const domains = new Set(concepts.map((item) => item.slug.split("/")[2]).filter(Boolean))
+        const hubs = concepts.filter((item) => linkCount(item) >= 50)
+        const quiet = concepts.filter((item) => linkCount(item) <= 3)
+        stats.innerHTML = `
+          <span><strong>${concepts.length}</strong> concepts</span>
+          <span><strong>${domains.size}</strong> domains</span>
+          <span><strong>${hubs.length}</strong> hubs</span>
+          <span><strong>${quiet.length}</strong> quiet</span>
+        `
 
         widget.querySelector('[data-role="random-button"]')?.addEventListener("click", () => {
           const random = pick(concepts, Math.floor(Math.random() * concepts.length))
