@@ -330,18 +330,26 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    真正把 VL 转成可销售产品的是这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]，而非大学。新 division 第一年收入接近 2M，次年接近 2.7M（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, pp.59–60；Johnson & Janzen, 2023, p.30]]）。品牌传播依赖 ACEL、奥克兰大学 VL 实验室与墨尔本大学的多层伙伴关系网络；Visible Classroom App 将 VL 逻辑延伸至教师劳动的实时监控。完整轨迹详见 [[Visible Learning Branding and Global Influences]]。
 > 
-> 4. **2014– — 全球政策采纳与制度化反弹**
+> 4. **2014– — 全球政策采纳与各国再诠释**
 > 
->    *VL 进入至少 23 国政策文本，各国研究者同步展开再诠释；品牌对批评表现出显著免疫力。*
+>    *VL 进入至少 23 国政策文本；英语国家政策工具箱、北欧学术再诠释与丹麦制度反弹三条线索并行推进。*
 > 
->    - 2014 — 丹麦公立学校改革明确引用 VL；[[EEF Teaching and Learning Toolkit]] 借鉴 Hattie 比较性研究地图
->    - 2015 — Håkansson 记录瑞典"工作方式转向"；[[Argument_Nordahl_2015_Paideia|Nordahl]] 斯堪的纳维亚再诠释
->    - 2017 — VL 俄文版出版；Hattie 回应 Eacott 被期刊两天内接收
->    - 2019 — Sarbiewska"第三面"、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup]] 丹麦反弹研究相继发表
+>    - 2014 — 丹麦公立学校改革明确引用 VL，Hattie 在当地从"教育英雄"变为"教育敌人"；[[EEF Teaching and Learning Toolkit]] 借鉴 Hattie 比较性研究地图
+>    - 2015 — Håkansson 记录瑞典"工作方式转向"；[[Argument_Nordahl_2015_Paideia|Nordahl]] 发表斯堪的纳维亚再诠释
+>    - 2017 — VL 俄文版出版；[[Argument_Golovchin_2019_ESC|Golovchin]] 等评估后建议俄教育政策不予直接采用
+>    - 2019 — Sarbiewska"第三面"研究、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup]] 丹麦反弹分析相继发表
 > 
->    **各国政策采纳**：**澳新**——[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] 识别"第三面"，政策重心转向研究本位策略与师生互动质量，呼应 [[Dietrich Benner]] 的修正版教学三角模型；**丹麦**——引用后引发激烈反弹（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）；**俄罗斯**——[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]建议不予采用；**瑞典**——改进重心拉回课堂近端，只有在校长持续聚焦、教师愿意围绕具体课堂片段对话时才真正发生（参见 [[Visible Learning in Sweden]]）。**斯堪的纳维亚再诠释**：[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 提出三项转变——①个人技巧→集体改进；②证据排名→概率判断；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用、校本专业学习）（pp.61–67）。
+>    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 > 
->    **制度化反弹**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 回应被两天内接收，而 Eacott 原论文经历数月多轮评审（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]]）。Hattie 本人开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。一线教育者通过私人邮件而非公开辩论表达不满（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。详见 [[Visible Learning Branding and Global Influences]]。
+>    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与[[Student Agency|学生领导力]]。
+> 
+>    **丹麦**：2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *Hattie på dansk*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
+> 
+>    **俄罗斯**：2017 年翻译出版 VL 俄文版。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–233)]] 评估后指出 VL 元分析主要基于 1980s–2000s 三个英语国家的研究，跨文化迁移性有限，建议俄教育政策不予直接采用。
+> 
+>    **瑞典**：Håkansson（2015）记录了 VL 在瑞典引发的"工作方式转向"——改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），而非围绕学习目标或国家标准的显性政治冲突（pp.52–59）。这种转向只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话时才真正发生（参见 [[Visible Learning in Sweden]]）。
+> 
+>    **斯堪的纳维亚研究者再诠释**：[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 VL 重写为学校改进的起点而非技术菜单，提出三项核心转变：①个人技巧→集体改进（教师协作、课堂观察、持续反思）；②证据排名→概率判断（减少"全凭直觉"空间）；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用、校本专业学习）（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）。详见 [[Visible Learning Branding and Global Influences]]。
 ---
 
 ## 理论基础
@@ -395,6 +403,11 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - **Hattie & Yates** — 好教师不能以特定人格类型定义。
 > - **Fredens（引 Lambert & Barley, 2001）** — 治疗师人格是治疗关系中最重要的因素，比所用方法更重要；由此质疑：教师的人格性表现（personlige ageren）在[[Student-Teacher Relationship|师生关系]]中是否比所用方法更具决定性？（[[Argument_Fredens_2015_Paideia|Fredens, 2015, p.73]]）
 
+> [!tension] Neo-Taylorism 批评与学术体制免疫（Eacott, 2017–2019）
+> - **Hattie** — VL 把"影响教育成就的因素"转化为可按[[Effect Size|效应量]]排名的离散干预列表，告诉教育者"做什么以获得最大回报"（maximum return）；用行政语言说话的数据填补了 NAPLAN/[[PISA]]/TIMSS 问责压力与操作细节之间的空缺（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
+> - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学实践；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
+>
+> **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 Popper 证伪主义否认"大师崇拜"，其回应被 *School Leadership & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
 ---
 
 > [!citation-card]

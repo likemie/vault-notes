@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+                "file": "wiki/arguments/journal-articles/Economia Politica/Argument_Bogliacino_Pianta_2016_EP.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Visible Learning"
+              "title": "Argument_Bogliacino_Pianta_2016_EP"
             }
           }
         ]
@@ -191,15 +191,15 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "sources/Bogliacino_Pianta_2016_EP/Bogliacino_Pianta_2016_EP.md",
+    "wiki/arguments/journal-articles/Economia Politica/Argument_Bogliacino_Pianta_2016_EP.md",
+    "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "sources/Bogliacino_Pianta_2016_EP/Bogliacino_Pianta_2016_EP.pdf",
     "sources/Bogliacino_Pianta_2016_EP/figures",
-    "sources/Bogliacino_Pianta_2016_EP/Bogliacino_Pianta_2016_EP.md",
     "sources/Bogliacino_Pianta_2016_EP",
-    "wiki/arguments/journal-articles/Economia Politica/Argument_Bogliacino_Pianta_2016_EP.md",
     "sources/Bogliacino_Pianta_2016_EP.md",
     "wiki/theories/political-economy-geopolitics/Pavitt Taxonomy.md",
     "wiki/facts/australia/Centre for Independent Studies.md",
-    "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "sources/Bogliacino_Pianta_2016_EP.pdf",
     "wiki/arguments/journal-articles/Economia Politica",
     "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md",
@@ -226,7 +226,6 @@
     "wiki/facts/europe",
     "wiki/arguments/reports-policy-documents/Argument_OxfordUIDP_2019_UIPartnerships.md.tmp.76091.9c6f2cced3af",
     "scratch/SpronkenSmith_2024_AEHE_text.txt",
-    "scratch/extract_pdf.py",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]
