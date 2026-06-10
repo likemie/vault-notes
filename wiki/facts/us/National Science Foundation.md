@@ -17,6 +17,7 @@ tags:
   - policy/economic-development
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Convergence Research]]"
   - "[[Innovation Hub]]"
   - "[[Didaktik]]"
 related_theories:
@@ -26,9 +27,11 @@ related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Oxford UIDP Summit 2019]]"
   - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
@@ -45,6 +48,11 @@ updated: 2026-06-05
 > 美国国家科学基金会（National Science Foundation, NSF）是 1950 年根据 Vannevar Bush 报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）的建议创建的美国独立联邦机构（Boccanfuso & Hall, 2025, p.13）。该报告强调基础研究和开放式研究对美国国家战略的重要性，NSF 由此成为联邦政府资助大学基础研究的核心渠道。NSF 的资助机制深刻塑造了二战后美国大学的研究体系，也是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等后续[[University-Industry Collaboration|产学合作]]政策运作的制度基础（p.13）。
 
 ## 在产学合作中的角色
+
+> [!info] STEM 与 SSH 融合的推动者
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 NSF 的 Future of Work at the Human Technology Frontier 项目作为 STEM 与社会科学和人文学科（SSH）[[Convergence Research|融合研究]]的典型案例。该项目处于工作的未来、技术的未来和劳动者的未来的交叉点，需要来自广泛学科的不同类型的专长和研究工具——涵盖劳动者个体与团队的基础原理、工程与计算机科学技术以创建人-技术工作伙伴关系、以及社会、经济、教育和国家层面的背景分析。峰会指出，NSF 在推动 STEM 与 SSH 融合方面的资助实践，代表了创新政策的一个重要方向：认识到技术挑战和社会挑战不可分割，需要多学科协同应对([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.14-15]])。
+
+
 
 > [!abstract]
 > NSF 与大学基础研究的关系构成了[[University-Industry Collaboration|产学合作]]的底层资助基础设施。大学研究者依赖 NSF 资助进行基础研究，产生可商业化的发现后，再通过产业伙伴或许可协议进行转化。从 [[Triple Helix]] 的视角来看，NSF 是"政府"螺旋中推动大学-产业互动的关键杠杆（p.13）。

@@ -22,9 +22,11 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -56,6 +58,10 @@ updated: 2026-05-27
 中央实验室的产出超越了工业应用——"高质量、科学复杂的（high-quality scientifically complex）"研究虽然在解决工业挑战的框架下进行，但其科学水平与顶尖研究型大学匹敌甚至超越，产出了多个诺贝尔奖（Arora et al., 2020）（pp.35–36）。关键领域覆盖：化学、汽车、航空航天、制药、半导体、信息与通信技术。
 
 实验室雇佣了大量高能力科学家，通常从大学招聘和培养。与大学的联系密切且重要，同时获得大量联邦政府资金支持（Arora et al., 2020）（p.36）。
+
+### 衰退与创新组织方式的演变
+
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将企业创新组织方式的演变——从 19 世纪的个人发明家模式、到 20 世纪中期的大型企业研发实验室、再到 21 世纪初更开放和分布式的创新模式——识别为重塑[[University-Industry Collaboration|产学合作]]格局的四项根本变化之一。峰会指出，在开放和分布式创新的世界中，企业面临四个关键问题：如何识别外部创新、如何获取和利用外部创新、如何筛选技术选项、以及如何在分布式网络世界中获取价值([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.4]])。
 
 ### 衰退（1980 年代起）
 

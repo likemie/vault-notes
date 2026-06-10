@@ -16,8 +16,10 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Oxford UIDP Summit 2019]]"
   - "[[University Industry Demonstration Partnership]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -48,6 +50,16 @@ updated: 2026-05-27
 > - **聘任标准**：基于产业经验而非学术资质——大学因候选人在特定行业的实践专长而聘任（Boccanfuso & Hall, 2025, p.60）
 > - **知识流向**：产业 → 大学——实践教授将产业界的技术方法、管理实践和行业趋势带入课程设计、学生指导和合作研究（Boccanfuso & Hall, 2025, p.58）
 > - **制度形式**：可为全职（full-time professor of practice）或兼职讲师（part-time lecturer，全职在企业）（Boccanfuso & Hall, 2025, pp.58, 64）
+
+---
+
+## 在产学人员流动中的角色
+
+> [!info]
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将实践教授和联合任命置于更广泛的人员流动性议题中。峰会呼吁增加大学和产业之间的人员流动，作为桥接学术界和产业界之间文化、动机和目标差距的重要机制。实践教授——尤其是联合任命——在医学、工程、法律和建筑等学科已较常见，但在其他学科仍少见([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.39]])。
+
+> [!example] Princeton-Google AI 实验室
+> Princeton 与 Google 联合推出的 AI 实验室是一个新近案例——两位教授将其时间分配在大学和 Google 之间，以"加深对机器学习的理解并产生令人兴奋的创新"。这一案例代表了实践教授从传统学科向新兴技术领域的扩展趋势（p.39）。
 
 ## 实证发现
 
