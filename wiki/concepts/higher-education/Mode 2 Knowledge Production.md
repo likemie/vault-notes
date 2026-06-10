@@ -7,6 +7,11 @@ aliases:
   - 模式2知识生产
 summary: "Gibbons et al.（1994）提出的跨学科知识生产模式，以应用导向和多利益相关者协商为特征，区别于学科中心、学术驱动的 Mode 1，是产学研发合作的理论基础之一"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/knowledge-production
   - theme/university-industry-collaboration

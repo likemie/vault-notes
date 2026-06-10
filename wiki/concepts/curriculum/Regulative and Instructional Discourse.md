@@ -7,6 +7,11 @@ aliases:
   - 规约性话语
 summary: "伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中"
 type: concept
+domain: "curriculum"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - theory/bernstein

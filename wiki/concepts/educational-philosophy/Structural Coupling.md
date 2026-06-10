@@ -4,6 +4,11 @@ aliases:
   - 结构耦合
 summary: "系统理论中的概念，指两个自我指涉系统在保持各自封闭性的同时通过稳定接口相互关联而非直接因果控制"
 type: concept
+domain: "educational-philosophy"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - structural-coupling
 - systems-theory

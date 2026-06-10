@@ -4,6 +4,11 @@ aliases:
   - 自我主导性
 summary: "个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向"
 type: concept
+domain: "higher-education"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - self-authorship
   - higher-education

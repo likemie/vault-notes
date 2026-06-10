@@ -8,6 +8,11 @@ aliases:
   - Online Study Choice Check
 summary: "用于入学前咨询和项目匹配的数字化自我评估工具，通常通过问卷和测试引导潜在学生评估自身特征、准备程度和就读适配性。"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - osas
 - student-admission

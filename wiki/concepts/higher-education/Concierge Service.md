@@ -8,6 +8,11 @@ aliases:
   - UI concierge
 summary: "产学合作中的一站式导航服务模式，通过为产业伙伴提供单一对接窗口来协调大学内部多个单位，降低产业方在大学的搜索和协调成本"
 type: concept
+domain: "higher-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

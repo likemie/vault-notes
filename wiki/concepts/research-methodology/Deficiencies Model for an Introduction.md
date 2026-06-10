@@ -3,6 +3,11 @@ title: Deficiencies Model for an Introduction
 aliases: ["引言缺陷模型", "deficiencies model", "deficiency model of an introduction", "缺陷模型"]
 summary: "基于文献缺口构建研究必要性的四部分引言写作模板，依次为研究问题陈述、文献证据综述、文献缺陷指出和受众重要性说明，在社会科学中广泛应用"
 type: concept
+domain: "research-methodology"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Introduction]]"

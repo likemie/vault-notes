@@ -6,6 +6,11 @@ aliases:
   - pattern theory
 summary: "质性研究中理论作为研究终点的运用方式，指从数据归纳生成的理论模型、模式或概括出现在研究末尾，是质性研究归纳逻辑的最终产物"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

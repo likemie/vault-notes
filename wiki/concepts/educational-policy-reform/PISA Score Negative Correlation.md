@@ -6,6 +6,11 @@ aliases:
   - PISA 高分低能
 summary: "PISA 高分国家的学生表现出更低的学科兴趣、更低的幸福感、更低的创业信心，以及更威权的教育取向"
 type: concept
+domain: "educational-policy-reform"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory

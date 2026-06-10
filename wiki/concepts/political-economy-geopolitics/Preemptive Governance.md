@@ -7,6 +7,11 @@ aliases:
   - preemptive student governance
 summary: "通过数据分析和预测工具在问题发生前对潜在学生进行预判、标记和干预的治理逻辑，用于把不确定性转化为可管理风险。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - preemptive-governance
   - algorithmic-governance

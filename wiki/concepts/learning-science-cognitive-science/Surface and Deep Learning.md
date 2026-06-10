@@ -6,6 +6,11 @@ aliases:
   - 深层学习
 summary: "区分以记忆事实和任务完成为主的表层学习与以理解关系、意义和结构为主的深层学习，深层学习是课程设计连贯性的关键目标"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - surface-learning
   - deep-learning

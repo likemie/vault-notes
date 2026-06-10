@@ -4,6 +4,11 @@ aliases:
   - 新公共管理
 summary: "以企业管理逻辑重塑公共部门的改革浪潮，强调绩效标准、产出控制、供给竞争和管理问责。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 23
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
 - new-public-management
 - paradigm/neoliberal

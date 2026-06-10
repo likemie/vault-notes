@@ -4,6 +4,11 @@ aliases:
   - 统计显著性
 summary: "用于判断观察到的差异是否足以拒绝零假设的统计判断标准，其解释需要结合样本量、效应大小和研究设计。"
 type: concept
+domain: "research-methodology"
+related_count: 16
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - statistical-significance
 - p-value

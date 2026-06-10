@@ -7,6 +7,11 @@ aliases:
   - "产学合作研究中心"
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
+domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

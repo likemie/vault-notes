@@ -6,6 +6,11 @@ aliases:
   - technology integration
 summary: "将数字设备和资源常规嵌入课堂教学的系统性改革，评价难点在于技术不是单一干预而会与课程、教师发展和组织条件交互"
 type: concept
+domain: "educational-technology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - educational-technology
   - technology-integration

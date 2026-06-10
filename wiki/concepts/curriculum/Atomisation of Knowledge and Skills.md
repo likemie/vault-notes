@@ -4,6 +4,11 @@ aliases:
   - 知识与技能原子化
 summary: "在测量、问责和经济竞争逻辑下，教育内容被拆分为可评估、可比较和可交易的小单位，用于描述课程知识与技能的碎片化组织方式。"
 type: concept
+domain: "curriculum"
+related_count: 13
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - atomisation-of-knowledge
 - accountability

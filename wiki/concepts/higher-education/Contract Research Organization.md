@@ -6,6 +6,11 @@ aliases:
   - contract research organizations
 summary: "受产业申办方委托执行临床前研究或临床试验运营任务的第三方商业组织，在产学临床试验中充当中间层，既加速多中心试验的协调也可引入额外的行政瓶颈"
 type: concept
+domain: "higher-education"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials

@@ -6,6 +6,11 @@ aliases:
   - knowledge in motion
 summary: "指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。"
 type: concept
+domain: "higher-education"
+related_count: 27
+related_level: 5
+related_stars: "★★★★★"
+related_color: "#fecdd3"
 tags:
 - geopolitics-of-knowledge
 - knowledge-economy

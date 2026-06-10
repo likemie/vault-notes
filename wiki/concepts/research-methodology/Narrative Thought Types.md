@@ -3,6 +3,11 @@ title: Narrative Thought Types
 aliases: ["叙事思想类型", "Tarshis narrative thoughts", "umbrella thoughts", "attention thoughts", "伞式思想", "注意力思想"]
 summary: "Tarshis (1982) 提出的学术叙事四层结构框架，将文本中的思想按功能分为伞式思想、大思想、小思想和注意力思想四种类型，用于诊断和改善学术写作者常见的结构失衡问题"
 type: concept
+domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/academic-writing, theme/narrative-structure]
 related_concepts:
   - "[[Literature Review]]"

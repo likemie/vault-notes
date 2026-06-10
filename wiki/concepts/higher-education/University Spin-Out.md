@@ -10,6 +10,11 @@ aliases:
   - "academic spin-off"
 summary: "基于大学研究项目产生的知识产权而创建的初创企业，区别于学生宿舍创业，面临 IP 所有权约束、风险融资缺口和技术就绪度不足等结构性挑战"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/entrepreneurship"
   - "theme/university-industry-collaboration"

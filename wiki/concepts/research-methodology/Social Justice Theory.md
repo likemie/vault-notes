@@ -7,6 +7,11 @@ aliases:
   - transformative theory
 summary: "混合方法研究中以变革和赋权为导向的理论类型，为边缘化和未被充分代表的人群发声，承认知识的非中立性和人类利益的普遍影响"
 type: concept
+domain: "research-methodology"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/transformative

@@ -7,6 +7,11 @@ aliases:
   - "innovation valley of death"
 summary: "技术商业化过程中从研究原型到产业应用之间的资金和开发鸿沟，新组织载体和中介机构是桥接这一鸿沟的关键机制"
 type: concept
+domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/innovation
   - theme/technology-transfer

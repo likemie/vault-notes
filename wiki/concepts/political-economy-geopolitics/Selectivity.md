@@ -7,6 +7,11 @@ aliases:
   - strategic selectivity
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - governance
 - policy-instruments

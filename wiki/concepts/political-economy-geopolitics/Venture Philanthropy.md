@@ -4,6 +4,11 @@ aliases:
   - 风险慈善
 summary: "以投资而非拨款为核心逻辑的慈善方式，强调战略性、多年期支持和社会或经济回报评估，常见于教育改革资助和治理网络。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - venture-philanthropy
 - subject/curriculum

@@ -5,6 +5,11 @@ aliases:
   - multi-channel learning model
 summary: "Caraça、Lundvall 和 Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
 type: concept
+domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/innovation-studies
   - theme/learning-economy

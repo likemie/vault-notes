@@ -5,6 +5,11 @@ aliases:
   - geopolitical subjects
 summary: "被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 21
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
 - geopolitical-subject
 - knowledge-based-economization

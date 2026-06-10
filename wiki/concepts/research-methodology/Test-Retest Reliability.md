@@ -8,6 +8,11 @@ aliases:
   - 稳定性信度
 summary: "评估同一测量工具在多次施测间得分稳定程度的信度指标，用于判断量表在不同时间点是否产生可比的分数"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/measurement
   - quantitative-research

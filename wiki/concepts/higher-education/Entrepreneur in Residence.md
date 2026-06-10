@@ -7,6 +7,11 @@ aliases:
   - "驻校创业者"
 summary: "大学聘请具有成功创业和退出经验的产业高管支持多个衍生企业的制度安排，分为全职和兼职团队两种模式，是帮助衍生企业跨越从实验室到市场鸿沟的有效人才投资策略"
 type: concept
+domain: "higher-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/entrepreneurship"
   - "theme/university-industry-collaboration"

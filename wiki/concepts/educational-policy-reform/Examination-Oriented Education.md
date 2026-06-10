@@ -7,6 +7,11 @@ aliases:
   - yingshi jiaoyu
 summary: "以标准化考试成绩为教育质量核心衡量指标的教学与评价体系，在中国可追溯至科举制度，由教师主导教学法、多层问责规则、家长支持和社会流动信念共同维持，是当代中国教育实践中实际运作的主导系统"
 type: concept
+domain: "educational-policy-reform"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/examination

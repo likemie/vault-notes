@@ -4,6 +4,11 @@ aliases:
   - 外化
 summary: "教育系统把内部问题投射到外部参照框架中加以理解和正当化的过程，是比较教育中解释政策参照与国际借鉴的重要概念"
 type: concept
+domain: "comparative-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - externalization
 - comparative-education

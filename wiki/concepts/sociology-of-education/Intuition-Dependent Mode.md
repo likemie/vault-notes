@@ -4,6 +4,11 @@ aliases:
   - 直觉依赖模式
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
+domain: "sociology-of-education"
+related_count: 23
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
   - intuition-dependent-mode
   - higher-education

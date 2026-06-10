@@ -6,6 +6,11 @@ aliases:
   - "Science, Technology, Engineering, and Mathematics Education"
 summary: "美国国家战略层面的教育体系，涵盖科学、技术、工程和数学四个领域，通过立法确立地位、大规模资金投入和前沿交叉学科设置，为颠覆性创新奠定人才基础。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - educational-policy-reform/stem
   - region/us

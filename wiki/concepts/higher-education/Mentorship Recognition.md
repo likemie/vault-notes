@@ -6,6 +6,11 @@ aliases:
   - mentor acknowledgement
 summary: "学术场合中对导师的公开致谢，研究发现诺贝尔演讲中导师致谢的缺失与导师制在科学中的重要性形成鲜明对比"
 type: concept
+domain: "higher-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/higher-education
   - theme/medical-education

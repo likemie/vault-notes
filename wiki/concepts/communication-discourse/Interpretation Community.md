@@ -4,6 +4,11 @@ aliases:
   - 解释共同体
 summary: "某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来。"
 type: concept
+domain: "communication-discourse"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - interpretation-community
 - paradigm/interpretivist

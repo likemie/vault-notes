@@ -3,6 +3,11 @@ title: Precompetitive Research
 aliases: ["前竞争研究", "pre-competitive research", "precompetitive"]
 summary: "产学合作中处于探索阶段、产出的知识产权尚不具备商业化价值的研究类型，Narayan 与 Spohrer（2025）指出对此类研究套用商业竞争型 IP 条款会阻碍合作启动"
 type: concept
+domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags: ["theme/university-industry-collaboration", "theme/research-commercialization", "theme/metrics-and-incentives"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

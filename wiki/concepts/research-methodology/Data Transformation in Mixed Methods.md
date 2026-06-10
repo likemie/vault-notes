@@ -8,6 +8,11 @@ aliases:
   - 质性数据量化
 summary: "混合方法研究中将质性编码或主题转化为量化变量后合并两个量化数据库的整合分析程序，常见于聚敛式设计，在量化训练背景的研究者中较受欢迎"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - mixed-methods

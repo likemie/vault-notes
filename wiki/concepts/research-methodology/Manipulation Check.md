@@ -6,6 +6,11 @@ aliases:
   - manipulation check measure
 summary: "实验研究中用于定量评估自变量操纵是否成功的测量，是区分实验操作成功与失败的关键步骤"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/experimental
   - quantitative-research

@@ -4,6 +4,11 @@ aliases:
   - 学习动机与努力投入
 summary: "学生在校学习中的成功动机和努力投入水平，用于描述其对学习任务的投入程度、坚持性和成就导向。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - motivation
 - work-effort

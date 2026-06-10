@@ -6,6 +6,11 @@ aliases:
   - TPS
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
+domain: "sociology-of-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/sociology-of-education
   - theory/bernstein

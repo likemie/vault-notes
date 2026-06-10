@@ -6,6 +6,11 @@ aliases:
   - 迷失
 summary: "毕业出路分化中的一种类型，以直觉依赖和弱价值信念结合为特征，缺乏稳定目标与行动方向，常被动接受权宜性选择"
 type: concept
+domain: "sociology-of-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - lost-mode
 - higher-education

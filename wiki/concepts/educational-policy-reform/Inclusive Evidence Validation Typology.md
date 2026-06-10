@@ -6,6 +6,11 @@ aliases:
   - inclusive validation typology
 summary: "Dachet 与 Baye 在法语比利时教育卓越公约中使用的证据分类框架，以方法多元方式给教学工具和项目设置最低验证标准。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - evidence-based-education
   - evidence-based-reform

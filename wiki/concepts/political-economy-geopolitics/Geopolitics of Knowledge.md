@@ -5,6 +5,11 @@ aliases:
   - GPK
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 64
+related_level: 6
+related_stars: "★★★★★★"
+related_color: "#ddd6fe"
 tags:
   - geopolitics-of-knowledge
   - higher-education

@@ -5,6 +5,11 @@ aliases:
   - Astin 涉入理论
 summary: "Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。"
 type: concept
+domain: "higher-education"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - student-involvement
 - higher-education

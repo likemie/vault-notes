@@ -5,6 +5,11 @@ aliases:
   - 文化障碍
 summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
 type: concept
+domain: "sociology-of-education"
+related_count: 17
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
   - cultural-barrier
   - higher-education

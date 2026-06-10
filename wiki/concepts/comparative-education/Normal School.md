@@ -6,6 +6,11 @@ aliases:
   - 师范院校
 summary: "18 世纪起源于欧洲的教师培训机构，后被扩散到世界各地，其流通轨迹展示了教育思想跨空间传播的复杂性"
 type: concept
+domain: "comparative-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-transfer
   - theme/comparative-education

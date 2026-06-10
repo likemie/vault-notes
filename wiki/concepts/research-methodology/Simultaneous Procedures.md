@@ -6,6 +6,11 @@ aliases:
   - simultaneous data collection and analysis
 summary: "质性研究中数据收集、数据分析和报告撰写同步进行的特征，与量化研究的线性顺序形成根本区别"
 type: concept
+domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

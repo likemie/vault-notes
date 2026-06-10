@@ -8,6 +8,11 @@ aliases:
   - masked design
 summary: "实验研究中使实验者或受试者不知道受试者所属研究条件的技术，用于降低实验者偏差和需求特征等系统性偏差"
 type: concept
+domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/experimental
   - quantitative-research

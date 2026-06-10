@@ -5,6 +5,11 @@ aliases:
   - powerful knowledge
 summary: "Young & Muller 提出的概念，指来自学科的、独立于知者的、具有独特禀赋的知识，能够使学生超越直接经验进行概括和理解"
 type: concept
+domain: "curriculum"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum
   - theory/social-realism

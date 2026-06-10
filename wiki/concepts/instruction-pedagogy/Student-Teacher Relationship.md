@@ -4,6 +4,11 @@ aliases:
   - 师生关系
 summary: "学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - student-teacher-relationship
 - relational-factors

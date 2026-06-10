@@ -7,6 +7,11 @@ aliases:
   - 课程领导力
 summary: "学校管理中关注课程、教学与评估等核心系统，并直接参与教师专业学习与发展以提升学生学业成绩的学校领导模式"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - field/educational-leadership-administration
   - theme/instructional-leadership

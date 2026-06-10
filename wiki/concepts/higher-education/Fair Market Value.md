@@ -7,6 +7,11 @@ aliases:
   - fair market value budget
 summary: "产业方编制临床试验预算时依据的定价原则，通过跨试验阶段和地理区域的行业实际谈判数据共享确保预算公平，但进入学术机构后被 20%–35% 的管理费率显著推高，构成产学预算矛盾的核心"
 type: concept
+domain: "higher-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials

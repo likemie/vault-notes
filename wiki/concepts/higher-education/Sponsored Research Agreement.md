@@ -8,6 +8,11 @@ aliases:
   - 委托研究协议
 summary: "产学合作中最常见的合同类型，企业从内部资金中向大学提供特定研究项目资助，标准条款包括产业方自动获得前景 IP 的非排他免版税内部使用许可以及有时间限制的商业许可谈判选择权"
 type: concept
+domain: "higher-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/intellectual-property
   - theme/university-industry-collaboration

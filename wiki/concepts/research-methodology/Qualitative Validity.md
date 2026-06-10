@@ -7,6 +7,11 @@ aliases:
   - 质性研究效度
 summary: "质性研究中研究者通过特定程序检查研究发现准确性的标准，与量化效度、信度和推广度的含义不同"
 type: concept
+domain: "research-methodology"
+related_count: 14
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - qualitative-research

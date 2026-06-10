@@ -3,6 +3,11 @@ title: T-Shaped Skills
 aliases: ["T型技能", "T-shaped competencies", "T型能力"]
 summary: "Donofrio 与 DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: ["theme/talent-development", "theme/workforce-training", "theme/university-industry-collaboration"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

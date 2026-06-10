@@ -6,6 +6,11 @@ aliases:
   - "informed consent form"
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，在产学合作中因 Common Rule 的大学-企业适用不对称而成为协议谈判中的不可协商前提"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "method/research-ethics"
   - "theme/research-procedure"

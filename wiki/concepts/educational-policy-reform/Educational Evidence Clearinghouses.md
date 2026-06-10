@@ -5,6 +5,11 @@ aliases:
   - 教育证据清算机构
 summary: "证据本位教育中的制度化中介机构，通过设定证据标准、审查项目研究和发布效果评级，把研究证据转化为学校和政策可使用的项目信息。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 56
+related_level: 6
+related_stars: "★★★★★★"
+related_color: "#ddd6fe"
 tags:
 - educational-evidence-clearinghouses
 - evidence-based-education

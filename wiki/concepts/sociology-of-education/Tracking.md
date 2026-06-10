@@ -7,6 +7,11 @@ aliases:
   - streaming
 summary: "根据学术能力、成绩或职业目标将学生分配到不同课程、项目或学校的制度实践，是教育社会学中研究教育不平等如何制度化的核心机制。"
 type: concept
+domain: "sociology-of-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/western
   - theme/inequality

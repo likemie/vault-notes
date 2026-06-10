@@ -7,6 +7,11 @@ aliases:
   - null hypotheses
 summary: "正式假设检验中的一种基本假设形式，预测在总体中变量间不存在关系或组间不存在显著差异，目的是通过陈述否定性预期来反驳理论，表述为没有差异（或关系）"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist

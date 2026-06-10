@@ -6,6 +6,11 @@ aliases:
   - "research integrity"
 summary: "研究者对研究质量的基本义务，涵盖伦理规范、数据管理、实验设计和成果报告，大学通常要求师生完成 RCR 培训作为从事研究的条件"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/research-governance"
   - "method/research-ethics"

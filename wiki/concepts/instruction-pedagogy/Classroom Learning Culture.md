@@ -4,6 +4,11 @@ aliases:
   - 课堂学习文化
 summary: "班级中的学习氛围与同伴协作文化，用于描述课堂内部的互动规范、参与方式和共同学习环境。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - classroom-culture
 - peer-relations

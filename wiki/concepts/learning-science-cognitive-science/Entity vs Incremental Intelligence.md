@@ -9,6 +9,11 @@ aliases:
   - 智力实体观与增长观
 summary: "两种智力信念的区分，实体观视智力为固定不变，增长观视智力可通过学习、努力和策略持续提升"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/motivation
   - theme/mindset

@@ -8,6 +8,11 @@ aliases:
   - pursuit of certainty
 summary: "西方学习传统第一主题，以数学和演绎逻辑为模型追求确定、客观、普遍的真知，从柏拉图到现代科学贯穿西方知识史"
 type: concept
+domain: "educational-philosophy"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - region/western
 - field/educational-philosophy

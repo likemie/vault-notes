@@ -1666,6 +1666,43 @@
   margin: 0;
 }
 
+/* ─── ref-table（参考速查表 — 紧凑行 + 淡底） ────────── */
+.callout[data-callout="ref-table"] {
+  --callout-color: 95, 110, 130;
+  --callout-icon: lucide-table;
+  background: linear-gradient(135deg, rgba(95, 110, 130, 0.08), rgba(95, 110, 130, 0.02)), var(--background-primary);
+  border: 1px solid rgba(95, 110, 130, 0.20);
+  border-left: 4px solid rgb(95, 110, 130);
+  border-radius: 10px;
+  box-shadow: 0 6px 16px rgba(95, 110, 130, 0.07);
+  font-size: 0.92em;
+}
+.callout[data-callout="ref-table"] > .callout-title {
+  color: rgb(70, 82, 100);
+  font-weight: 650;
+}
+.callout[data-callout="ref-table"] table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 0.2rem;
+}
+.callout[data-callout="ref-table"] th {
+  background: rgba(95, 110, 130, 0.12);
+  font-weight: 650;
+  font-size: 0.9em;
+}
+.callout[data-callout="ref-table"] th, .callout[data-callout="ref-table"] td {
+  border-color: rgba(95, 110, 130, 0.14);
+  vertical-align: top;
+  line-height: 1.5;
+  padding: 0.3rem 0.5rem;
+}
+.callout[data-callout="ref-table"] td:first-child {
+  font-weight: 650;
+  color: rgb(70, 82, 100);
+  white-space: nowrap;
+}
+
 /* ─── frames-ref（思维框架参考卡 — 紧凑双列 + 钢蓝） ──────── */
 .callout[data-callout="frames-ref"] {
   --callout-color: 72, 108, 150;
@@ -2089,4 +2126,94 @@
 
 .theme-dark .callout[data-callout="ref-table"] tbody tr:hover td {
   background: rgba(100, 160, 220, 0.08);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   LAYER — 方法论层级导言（铜色 · 数据管道标志）
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="layer"] {
+  --callout-color: 155, 95, 40;
+  --callout-icon: lucide-database;
+  background:
+    linear-gradient(135deg, rgba(155, 95, 40, 0.08), rgba(155, 95, 40, 0.01) 65%),
+    var(--background-primary);
+  border: 1px solid rgba(155, 95, 40, 0.20);
+  border-left: 6px solid rgb(155, 95, 40);
+  border-radius: 6px;
+  box-shadow: 0 3px 10px rgba(155, 95, 40, 0.08);
+}
+
+.callout[data-callout="layer"] > .callout-title {
+  color: rgb(155, 95, 40);
+  font-weight: 650;
+  letter-spacing: 0.01em;
+}
+
+/* 层级编号徽章 — 内容由 title 文字前缀自动显示，用 ::before 加圆形标记 */
+.callout[data-callout="layer"] > .callout-title .callout-icon {
+  display: none; /* 隐藏默认图标，改用 ::before 徽章 */
+}
+
+.callout[data-callout="layer"] > .callout-title .callout-title-inner::before {
+  content: "LAYER";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(155, 95, 40, 0.12);
+  color: rgb(155, 95, 40);
+  font-size: 0.68em;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="layer"] > .callout-content {
+  line-height: 1.65;
+}
+
+/* 内嵌 col-l / col-r 继承铜色主题 */
+.callout[data-callout="layer"] .callout[data-callout="col-l"],
+.callout[data-callout="layer"] .callout[data-callout="col-r"] {
+  background: rgba(155, 95, 40, 0.04);
+  border: 1px solid rgba(155, 95, 40, 0.14);
+  border-radius: 5px;
+}
+
+.callout[data-callout="layer"] .callout[data-callout="col-l"] > .callout-title,
+.callout[data-callout="layer"] .callout[data-callout="col-r"] > .callout-title {
+  font-size: 0.88em;
+  font-weight: 650;
+  color: rgb(155, 95, 40);
+}
+
+/* 深色模式 */
+.theme-dark .callout[data-callout="layer"] {
+  border-left-color: rgb(210, 155, 90);
+  border-color: rgba(210, 155, 90, 0.22);
+  background:
+    linear-gradient(135deg, rgba(210, 155, 90, 0.09), rgba(210, 155, 90, 0.01) 65%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="layer"] > .callout-title {
+  color: rgb(215, 160, 95);
+}
+
+.theme-dark .callout[data-callout="layer"] > .callout-title .callout-title-inner::before {
+  background: rgba(215, 160, 95, 0.15);
+  color: rgb(215, 160, 95);
+}
+
+.theme-dark .callout[data-callout="layer"] .callout[data-callout="col-l"],
+.theme-dark .callout[data-callout="layer"] .callout[data-callout="col-r"] {
+  background: rgba(210, 155, 90, 0.06);
+  border-color: rgba(210, 155, 90, 0.18);
+}
+
+.theme-dark .callout[data-callout="layer"] .callout[data-callout="col-l"] > .callout-title,
+.theme-dark .callout[data-callout="layer"] .callout[data-callout="col-r"] > .callout-title {
+  color: rgb(215, 160, 95);
 }

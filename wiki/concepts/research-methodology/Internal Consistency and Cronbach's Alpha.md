@@ -10,6 +10,11 @@ aliases:
   - internal consistency reliability
 summary: "评估多项目量表中各条目测量同一构念程度的信度指标，通过 Cronbach alpha 值量化（0–1，最佳.7–.9）"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - method/measurement
   - quantitative-research

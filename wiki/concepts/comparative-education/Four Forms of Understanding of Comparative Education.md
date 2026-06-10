@@ -5,6 +5,11 @@ aliases:
   - four forms of understanding
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
+domain: "comparative-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/comparative-education
   - theory/comparative-education

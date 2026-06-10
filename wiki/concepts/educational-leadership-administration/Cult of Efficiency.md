@@ -7,6 +7,11 @@ aliases:
   - 科学管理崇拜
 summary: "雷蒙德·卡拉汉提出的概念，指20世纪初美国公立学校教育盲目引入工厂泰勒制科学管理，以行政控制与商业效率取代教育本质价值的现象"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - field/educational-leadership-administration
   - theme/efficiency-cult

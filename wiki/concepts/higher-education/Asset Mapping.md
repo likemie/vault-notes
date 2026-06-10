@@ -4,6 +4,11 @@ aliases:
   - 资产映射
 summary: "产学合作中系统梳理区域内利益相关者优势与需求的实践方法，本质为真实的关系建立，是 TUFF 创新中心六项优先领域之一，与创业活动相互强化"
 type: concept
+domain: "higher-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

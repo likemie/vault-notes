@@ -7,6 +7,11 @@ aliases:
   - 沉默参与
 summary: "东亚课堂中以倾听为核心的学习方式，强调通过专注倾听、内化和反思参与学习，沉默不等于被动"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/east-asia
   - theme/speaking

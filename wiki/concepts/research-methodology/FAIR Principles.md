@@ -6,6 +6,11 @@ aliases:
   - "FAIR Guiding Principles"
 summary: "2016 年 Wilkinson 等人提出的科学数据管理四项指导原则，即可发现性、可访问性、互操作性和可重用性，强调机器可操作性以减少人工干预，已发展为 GO FAIR 自治理倡议"
 type: concept
+domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "method/research-data"
   - "theme/research-governance"

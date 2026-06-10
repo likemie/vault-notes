@@ -7,6 +7,11 @@ aliases:
   - 无应答偏差
 summary: "调查研究中非回应者的回应若被收集将显著改变整体调查结果的偏差效应，通过波次分析或回应者/非回应者对比来检测"
 type: concept
+domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/survey
   - quantitative-research

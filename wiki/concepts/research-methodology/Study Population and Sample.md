@@ -9,6 +9,11 @@ aliases:
   - target population
 summary: "量化研究中研究总体指推论目标全部人群，研究样本指实际检验的受试者子集，抽样目标是以最小化偏差的方式从总体选取样本"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - method/sampling
   - quantitative-research

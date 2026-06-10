@@ -10,6 +10,11 @@ aliases:
   - 产业联盟项目
 summary: "大学为产业伙伴设立的会员制合作计划，企业通过缴纳会费获得优先对接、技术交流和人才招聘渠道，是中心产学参与办公室最常见的职责之一"
 type: concept
+domain: "higher-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

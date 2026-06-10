@@ -9,6 +9,11 @@ aliases:
   - "会员制研究中心"
 summary: "多家企业作为会员共同出资支持大学研究、IP 归大学所有、会员获得优先许可权的制度安排，以 UCSB SSLEEC 为典型案例，通过非独占性 IP 设计绕过产业赞助研究中的 IP 毒丸问题"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

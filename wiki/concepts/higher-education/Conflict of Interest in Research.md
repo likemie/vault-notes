@@ -7,6 +7,11 @@ aliases:
   - "利益冲突"
 summary: "当研究者或机构的财务利益可能损害研究客观性、学生独立性或大学首要职责时产生的伦理问题，产学合作中通过披露、审查和审批制度进行管理"
 type: concept
+domain: "higher-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"

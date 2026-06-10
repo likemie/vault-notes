@@ -5,6 +5,11 @@ aliases:
   - financialization of higher education
 summary: "Eaton et al. (2016) 提出的概念，描述大学借贷投资、学生贷款市场和营利性院校利润使金融机制主导高等教育收入与支出的趋势，金融成本增长远超金融回报"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - financialization
   - higher-education

@@ -6,6 +6,11 @@ aliases:
   - sinicization
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/cultural-assimilation

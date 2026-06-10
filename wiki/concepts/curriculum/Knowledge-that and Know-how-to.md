@@ -9,6 +9,11 @@ aliases:
   - applied knowledge
 summary: "Ryle 提出的知识区分，知其然是命题性知识，知其所用是应用性知识，两者的连接是深层学习的先决条件"
 type: concept
+domain: "curriculum"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - epistemology

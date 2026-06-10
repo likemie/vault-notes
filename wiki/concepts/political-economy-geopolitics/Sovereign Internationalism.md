@@ -4,6 +4,11 @@ aliases:
   - 主权国际主义
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - region/global
 - theme/geopolitics

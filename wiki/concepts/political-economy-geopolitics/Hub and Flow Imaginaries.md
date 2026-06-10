@@ -6,6 +6,11 @@ aliases:
   - 流动想象
 summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 24
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
 - hub-and-flow
 - geopolitical-imaginaries

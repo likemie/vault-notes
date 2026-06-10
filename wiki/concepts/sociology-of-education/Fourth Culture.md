@@ -4,6 +4,11 @@ aliases:
   - 第四文化
 summary: "Deveney 提出的概念，指位于学生母国境内但并不代表其本土文化与信仰的国际学校环境，用于分析本地学生在国际学校中的文化调适复杂性。"
 type: concept
+domain: "sociology-of-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/hongkong
 - level/k12

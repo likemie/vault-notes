@@ -4,6 +4,11 @@ aliases:
   - 学习化
 summary: "批判教育被学习结果和效果逻辑全面重写的概念，指出教师角色、课程内容和教育目的会被压缩为促进可测学习的手段"
 type: concept
+domain: "educational-philosophy"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - learnification
 - stance/critique

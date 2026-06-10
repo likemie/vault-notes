@@ -7,6 +7,11 @@ aliases:
   - "product-service systems in manufacturing"
 summary: "制造业企业从单纯销售产品转向提供包含维护和支持在内的综合服务合同的商业模式变革，典型案例为 Rolls-Royce 的按小时出售动力模式，正在改变全球价值链上的价值分配方式"
 type: concept
+domain: "higher-education"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/innovation
   - theme/business-model

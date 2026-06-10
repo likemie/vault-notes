@@ -7,6 +7,11 @@ aliases:
   - new museology
 summary: "将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。"
 type: concept
+domain: "curriculum"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - region/brazil
 - region/global

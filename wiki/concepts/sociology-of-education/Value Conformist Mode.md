@@ -6,6 +6,11 @@ aliases:
   - 价值归顺
 summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动"
 type: concept
+domain: "sociology-of-education"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - value-conformist-mode
   - higher-education

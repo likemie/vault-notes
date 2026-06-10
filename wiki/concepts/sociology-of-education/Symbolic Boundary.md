@@ -4,6 +4,11 @@ aliases:
   - 象征边界
 summary: "Lamont 的概念，指通过赋予行为、品味和价值观以道德含义来划分我们与他们的区隔机制，用于分析群体边界和社会评价"
 type: concept
+domain: "sociology-of-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - symbolic-boundary
 - cultural-sociology

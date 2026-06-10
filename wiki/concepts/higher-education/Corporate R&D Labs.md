@@ -9,6 +9,11 @@ aliases:
   - "中央研发实验室"
 summary: "二十世纪早中期大企业建立的内部中央研发机构，以贝尔实验室、Xerox PARC、IBM Research 为代表，从事从基础研究到产品开发的全链条科研，1980年代后衰退并转向开放创新"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/innovation"
   - "theme/university-industry-collaboration"

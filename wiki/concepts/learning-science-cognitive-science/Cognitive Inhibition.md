@@ -5,6 +5,11 @@ aliases:
   - inhibition
 summary: "执行功能的核心成分，指在必要时故意抑制主导性或自动化反应的能力，用于支持自我控制、选择性注意和目标导向行为。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - cognitive-inhibition
 - executive-function

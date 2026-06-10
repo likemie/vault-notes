@@ -5,6 +5,11 @@ aliases:
   - NSE
 summary: "1970年代英国教育社会学的问题转向，将学校知识、课程和课堂过程本身视为教育不平等生产机制。"
 type: concept
+domain: "sociology-of-education"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/sociology-of-education
   - theme/curriculum

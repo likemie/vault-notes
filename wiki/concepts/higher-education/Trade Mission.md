@@ -7,6 +7,11 @@ aliases:
   - "government trade mission"
 summary: "大学参与政府组织的国际商务出访活动，借此直接接触海外企业决策者、展示研究能力并催化国际产学合作的连接机制"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/internationalization"

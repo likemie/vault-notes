@@ -4,6 +4,11 @@ aliases:
   - 吸收能力
 summary: "组织识别、吸收并应用外部知识的能力，在学区改革中取决于项目理解与开放沟通，在产学合作中则调节企业从大学研发合作中受益的程度"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - absorptive-capacity
   - evidence-use

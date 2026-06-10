@@ -7,6 +7,11 @@ aliases:
   - 康德传统
 summary: "Wight 国际关系三大传统之一，以 Kant 为代表，将政治的终极现实视为普遍人类共同体而非国家间关系，以武力为核心概念，在比较教育中塑造了以揭露不平等和开辟解放可能性为使命的道德事业形态"
 type: concept
+domain: "comparative-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theory/international-relations
   - subject/comparative-education

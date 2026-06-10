@@ -4,6 +4,11 @@ aliases:
   - 技术理性
 summary: "把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照"
 type: concept
+domain: "educational-philosophy"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - technical-rationality
 - positivism

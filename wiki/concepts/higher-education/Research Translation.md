@@ -8,6 +8,11 @@ aliases:
   - 技术转化
 summary: "从大学研究发现到商业化产品、服务与实践的多阶段过渡过程，区别于发明本身，涉及技术、市场和商业化三类独立风险，Ramming（2025）以漏斗模型描述其里程碑指标"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

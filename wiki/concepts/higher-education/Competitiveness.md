@@ -6,6 +6,11 @@ aliases:
   - competitive university
 summary: "以排名、指标化和审计文化为基础设施的高等教育竞争逻辑，将大学重塑为争夺资源、声誉和地位的市场参与者。"
 type: concept
+domain: "higher-education"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - competitiveness
 - higher-education-governance

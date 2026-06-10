@@ -5,6 +5,11 @@ aliases:
   - PISA made-up claim
 summary: "PISA 声称测量未来生活所需的基本技能，但这一主张没有任何实证依据，且 PISA 测量的构念与其他国际评估高度相关"
 type: concept
+domain: "educational-policy-reform"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory

@@ -6,6 +6,11 @@ aliases:
   - seven learning virtues
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
+domain: "chinese-philosophy"
+related_count: 21
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
 - region/china
 - theory/confucianism

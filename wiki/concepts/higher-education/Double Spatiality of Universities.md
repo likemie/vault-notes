@@ -4,6 +4,11 @@ aliases:
   - 大学双重空间性
 summary: "大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。"
 type: concept
+domain: "higher-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - theme/spatiality
 - level/higher-ed

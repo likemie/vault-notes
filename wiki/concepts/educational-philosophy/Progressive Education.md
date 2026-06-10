@@ -7,6 +7,11 @@ aliases:
   - progressive education movement
 summary: "以 John Dewey 为核心代表的教育改革运动，主张以项目和活动课程替代严格服从式传统教学，强调从经验中学习以培养能参与和塑造民主社会的公民"
 type: concept
+domain: "educational-philosophy"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - field/progressive-education

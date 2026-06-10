@@ -5,6 +5,11 @@ aliases:
   - assemblage
 summary: "行动者网络理论的核心概念，指人类和非人类行动者通过转译过程聚合形成的网络，具有稳定性但也可能断裂和重构"
 type: concept
+domain: "comparative-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/social-theory
   - theory/actor-network-theory

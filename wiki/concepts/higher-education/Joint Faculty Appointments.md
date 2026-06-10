@@ -8,6 +8,11 @@ aliases:
   - joint employment
 summary: "产学合作中的新兴模式，研究人员同时持有企业雇员和大学教授双重身份，短期解决专有业务问题、长期从事开放式研究，Ramming（2025）指出其成功需要大学和企业的共同关切与中央化AET的支持"
 type: concept
+domain: "higher-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

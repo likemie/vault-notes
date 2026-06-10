@@ -4,6 +4,11 @@ aliases:
   - 进步新自由主义
 summary: "Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - progressive-neoliberalism
 - nancy-fraser

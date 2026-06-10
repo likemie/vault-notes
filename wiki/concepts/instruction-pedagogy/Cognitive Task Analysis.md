@@ -5,6 +5,11 @@ aliases:
   - CTA
 summary: "针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - cognitive-task-analysis
 - paradigm/cognitivist

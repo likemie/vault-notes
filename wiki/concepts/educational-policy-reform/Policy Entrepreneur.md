@@ -4,6 +4,11 @@ aliases:
   - 政策企业家
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变化的行动者，常兼具知识传播、议程设置和组织动员功能"
 type: concept
+domain: "educational-policy-reform"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - policy-entrepreneur
 - subject/curriculum

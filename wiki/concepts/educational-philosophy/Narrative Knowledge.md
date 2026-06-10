@@ -4,6 +4,11 @@ aliases:
   - 叙事知识
 summary: "Lyotard 区分于科学知识的知识类型，强调通过故事、传统和文化实践传递意义与合法性。"
 type: concept
+domain: "educational-philosophy"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - geopolitics-of-knowledge
   - knowledge-production

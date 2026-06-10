@@ -6,6 +6,11 @@ aliases:
   - examination-driven system
 summary: "描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境"
 type: concept
+domain: "sociology-of-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - region/east-asia

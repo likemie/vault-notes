@@ -7,6 +7,11 @@ aliases:
   - 理想学习者形象
 summary: "跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - region/cross-cultural
 - theme/cross-cultural-learning

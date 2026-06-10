@@ -10,6 +10,11 @@ aliases:
   - self-agency
 summary: "Damon 与 Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/identity
   - theme/cultural-transmission

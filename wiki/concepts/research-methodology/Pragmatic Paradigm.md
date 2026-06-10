@@ -9,6 +9,11 @@ aliases:
   - pragmatism
 summary: "一种不执着于任何单一哲学体系的研究哲学立场，关注行动、情境和后果，以研究问题为中心，为混合方法研究提供哲学基础"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-philosophy
   - mixed-methods

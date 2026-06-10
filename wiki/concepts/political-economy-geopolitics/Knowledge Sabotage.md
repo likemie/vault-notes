@@ -6,6 +6,11 @@ aliases:
   - undermining knowledge
 summary: "通过破坏、削弱或扰乱敌对方知识资产和知识基础设施来削减其能力的知识转移形态。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - geopolitics-of-knowledge
 - knowledge-transfer

@@ -5,6 +5,11 @@ aliases:
   - EF
 summary: "执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - executive-function
 - learning-science

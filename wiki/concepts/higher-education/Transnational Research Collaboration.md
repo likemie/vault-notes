@@ -6,6 +6,11 @@ aliases:
   - international research collaboration
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
+domain: "higher-education"
+related_count: 16
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - research-collaboration
 - higher-education

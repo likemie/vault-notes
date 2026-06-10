@@ -6,6 +6,11 @@ aliases:
   - 多面合作关系
 summary: "UIDP（2012）描述的产学合作最高形态，合作双方在学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域同时建立深度联盟，跨越单一维度成为制度化的全方位战略伙伴关系"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

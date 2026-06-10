@@ -11,6 +11,11 @@ aliases:
   - 平台试验
 summary: "允许在单一临床试验框架内回答多个研究问题的创新试验设计，包括篮式试验、伞式试验和平台试验三种类型，旨在提高效率、降低成本并促进多方协作"
 type: concept
+domain: "higher-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-research

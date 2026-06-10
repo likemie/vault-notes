@@ -7,6 +7,11 @@ aliases:
   - 心智导向
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - region/western
   - theme/learning-process

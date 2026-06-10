@@ -4,6 +4,11 @@ aliases:
   - 知识资本主义
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - knowledge-capitalism
 - knowledge-economy

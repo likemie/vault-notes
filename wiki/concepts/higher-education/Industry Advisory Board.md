@@ -7,6 +7,11 @@ aliases:
   - "industry advisory boards"
 summary: "产学合作中最轻量的关系制度化机制，企业代表定期聚会为大学研究方向和人才培养提供意见，低投入高回报但不直接产出研究或培训项目"
 type: concept
+domain: "higher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

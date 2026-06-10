@@ -5,6 +5,11 @@ aliases:
   - 不言自明
 summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
+domain: "sociology-of-education"
+related_count: 13
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - doxa
   - bourdieu

@@ -4,6 +4,11 @@ aliases:
   - 森林图
 summary: "元分析中以图形方式展示各研究效应量及其置信区间的标准可视化方法，可同时呈现单项研究结果和汇总估计"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - forest-plot
 - meta-analysis

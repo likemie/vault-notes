@@ -6,6 +6,11 @@ aliases:
   - PISA 西方中心主义
 summary: "PISA 假设存在一套在所有社会中普遍有价值的技能和知识，将 OECD 成员国的西方假设强加于全球近 200 个国家"
 type: concept
+domain: "educational-policy-reform"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory

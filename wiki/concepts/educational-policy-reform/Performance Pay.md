@@ -5,6 +5,11 @@ aliases:
   - merit pay
 summary: "将教师薪酬与测量表现直接挂钩的制度安排，用于通过激励机制推动绩效提升和行为调整。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - performance-pay
 - merit-pay

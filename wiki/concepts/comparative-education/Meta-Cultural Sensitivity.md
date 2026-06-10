@@ -4,6 +4,11 @@ aliases:
   - 元文化敏感度
 summary: "一种跨文化教学元能力，强调后退一步把他者文化和自身文化都作为系统来理解，避免本质化赞美或简单否定"
 type: concept
+domain: "comparative-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/cross-cultural
 - level/higher-ed

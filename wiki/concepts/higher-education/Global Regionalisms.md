@@ -5,6 +5,11 @@ aliases:
   - 全球区域主义
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
+domain: "higher-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - global-regionalisms
 - higher-education

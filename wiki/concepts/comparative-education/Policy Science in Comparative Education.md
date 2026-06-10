@@ -6,6 +6,11 @@ aliases:
   - 比较教育政策科学
 summary: "比较教育的四种理解形式之一，认为比较教育可以且应该是政策科学，代表人物包括 Holmes 和 King，政治上是与自由民主国家权力的联盟"
 type: concept
+domain: "comparative-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/comparative-education
   - theory/comparative-education

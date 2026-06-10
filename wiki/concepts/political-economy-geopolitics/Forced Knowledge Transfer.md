@@ -6,6 +6,11 @@ aliases:
   - top-down knowledge transfer
 summary: "通过规定、胁迫或暴力把知识自上而下强加给他者的知识转移形态，用于分析支配性教育和意识形态灌输。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 14
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - geopolitics-of-knowledge
 - knowledge-transfer

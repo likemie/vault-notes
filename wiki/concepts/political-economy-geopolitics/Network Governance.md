@@ -5,6 +5,11 @@ aliases:
   - network governance in education
 summary: "以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 16
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - network-governance
 - subject/curriculum

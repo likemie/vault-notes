@@ -7,6 +7,11 @@ aliases:
   - exogenous privatization
 summary: "Ball 与 Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 13
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - privatisation
 - education-policy

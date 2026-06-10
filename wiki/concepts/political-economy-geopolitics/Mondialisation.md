@@ -4,6 +4,11 @@ aliases:
   - 世界化
 summary: "强调星球共同体、生命多样性和世界普遍责任的替代全球化概念，用以对抗市场驱动的单一路径全球化"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - mondialisation
 - globalization

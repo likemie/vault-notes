@@ -7,6 +7,11 @@ aliases:
   - 中华民族多元一体
 summary: "由梁启超 1902 年引入的现代概念，经费孝通 1988 年以多元一体格局重新阐释后进入中共主流话语，指以汉文化为核心、吸纳所有 56 个民族的单一国族共同体"
 type: concept
+domain: "chinese-philosophy"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/national-identity

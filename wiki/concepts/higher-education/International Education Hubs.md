@@ -6,6 +6,11 @@ aliases:
   - International Education Hub
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
+domain: "higher-education"
+related_count: 20
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - international-education-hubs
 - higher-education

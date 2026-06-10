@@ -7,6 +7,11 @@ aliases:
   - "KE"
 summary: "大学与产业及更广泛社会之间知识流动的多种机制和路径，涵盖合同研究、咨询、人员交流、设施共享、培训等，比技术转移范围更广，尤以英国高等教育政策为代表框架"
 type: concept
+domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

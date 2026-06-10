@@ -5,6 +5,11 @@ aliases:
   - educated identities
 summary: "比较教育的核心概念之一，指教育系统所塑造的理想人格与文化期望，Cowen 将其与转移并列为学科未来发展的两大伦理与学术问题"
 type: concept
+domain: "comparative-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/comparative-education
   - theme/educated-identity

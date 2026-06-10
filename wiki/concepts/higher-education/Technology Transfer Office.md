@@ -8,6 +8,11 @@ aliases:
   - "tech transfer office"
 summary: "大学内部负责知识产权许可谈判、商业化路径评估和衍生企业支持的专业职能部门，通常隶属于科研副校长办公室，是产学合作中连接学术研究与商业应用的组织枢纽"
 type: concept
+domain: "higher-education"
+related_count: 13
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - "theme/technology-transfer"
   - "level/higher-education"

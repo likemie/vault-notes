@@ -5,6 +5,11 @@ aliases:
   - academic capitalism
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 14
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - academic-capitalism
   - political-economy

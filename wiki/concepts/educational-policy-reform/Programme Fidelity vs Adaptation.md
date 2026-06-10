@@ -5,6 +5,11 @@ aliases:
   - 方案忠实性与适应
 summary: "证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - evidence-based-education
 - implementation

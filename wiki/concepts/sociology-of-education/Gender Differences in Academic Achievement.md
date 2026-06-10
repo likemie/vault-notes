@@ -4,6 +4,11 @@ aliases:
   - 学业成就性别差异
 summary: "学生学业表现中的性别差异现象，常用于分析学校规范适应、学习动机、行为评价和制度期待如何共同影响成绩分化。"
 type: concept
+domain: "sociology-of-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - gender
 - academic-achievement

@@ -6,6 +6,11 @@ aliases:
   - researcher as instrument
 summary: "质性研究的核心特征之一：研究者自行收集和解释数据，不使用或依赖他人开发的问卷或工具"
 type: concept
+domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

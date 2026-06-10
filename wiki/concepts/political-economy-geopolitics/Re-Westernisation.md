@@ -7,6 +7,11 @@ aliases:
   - 去西方化
 summary: "后殖民/去殖民批判中描述世界按新资本主义知识积累教义重新回到西方控制的概念，与去西方化相对，两者在比较教育中揭示了全球化话语如何掩盖殖民性的延续"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/colonialism
   - theme/globalization

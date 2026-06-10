@@ -6,6 +6,11 @@ aliases:
   - winnow the data
 summary: 质性数据分析中将密集丰富的文本和图像数据缩减为少量主题的过程，无法也不应使用所有数据
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

@@ -4,6 +4,11 @@ aliases:
   - 教养
 summary: "源自德国精神科学传统的品格陶成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与 OSA 可预测性逻辑构成根本张力"
 type: concept
+domain: "educational-philosophy"
+related_count: 24
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
   - bildung
   - paradigm/critical

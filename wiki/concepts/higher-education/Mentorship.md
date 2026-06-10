@@ -8,6 +8,11 @@ aliases:
   - mentor
 summary: "更有经验的人通过指导、支持和示范促进 less experienced 者专业和个人发展的过程，是科学和医学教育中的核心关系"
 type: concept
+domain: "higher-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/higher-education
   - theme/medical-education

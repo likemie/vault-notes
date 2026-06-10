@@ -8,6 +8,11 @@ aliases:
   - causation
 summary: "量化研究中的核心逻辑概念，指变量 X 导致变量 Y 的关系，涉及时间顺序、因果机制和排除混淆变量三个必要条件"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist

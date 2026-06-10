@@ -7,6 +7,11 @@ aliases:
   - 美德导向
 summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心、专心、尊师和谦虚等学习美德组织学习行为，目标是通过美德实践实现自我完善"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 22
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
   - region/east-asia
   - theme/learning-process

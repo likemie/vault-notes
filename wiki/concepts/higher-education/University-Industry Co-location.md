@@ -9,6 +9,11 @@ aliases:
   - "UI co-location"
 summary: "UIDP 定义的产学合作模式，指产业与大学人员在专用空间中有目的地结合，通过缩短物理距离来降低沟通和文化壁垒，促进思想交流和联合研究"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

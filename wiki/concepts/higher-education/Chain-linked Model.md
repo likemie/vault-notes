@@ -6,6 +6,11 @@ aliases:
   - Kline-Rosenberg model
 summary: "Kline和Rosenberg提出的创新过程模型，论证创新始于潜在市场用途的想法而非研究，科学是过程的一部分而非必然起始步骤，以反馈循环和知识的按需调用与创造替代了线性模型的单向因果预设"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/innovation-studies
   - theme/science-policy

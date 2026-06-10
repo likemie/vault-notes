@@ -8,6 +8,11 @@ aliases:
   - "corporate VC"
 summary: "企业通过内部风险投资基金对初创企业进行股权投资的机制，同时应用战略与财务双重标准进行投资决策，其偏好后期阶段和成熟团队的特征与大学衍生企业的早期风险特征存在系统性不匹配"
 type: concept
+domain: "higher-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/entrepreneurship"
   - "theme/innovation"

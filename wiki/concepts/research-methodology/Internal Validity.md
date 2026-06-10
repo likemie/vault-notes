@@ -6,6 +6,11 @@ aliases:
   - threats to internal validity
 summary: "实验研究中因程序、处理或受试者经历而威胁研究者从数据对总体做出正确推论能力的因素，包括历史、成熟、回归、选择、流失、扩散、补偿性竞争等"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - method/experimental
   - quantitative-research

@@ -6,6 +6,11 @@ aliases:
   - Socratic parenting style
 summary: "欧裔美国家庭中一种以心智能力与积极情感为中心的家长辅导方式，家长像苏格拉底一样引导儿童发现自身心智的伟大"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/learning
   - theme/parenting

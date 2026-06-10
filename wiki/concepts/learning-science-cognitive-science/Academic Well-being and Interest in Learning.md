@@ -4,6 +4,11 @@ aliases:
   - 学业幸福感与学习兴趣
 summary: "学生对上学、学习活动和学校生活的积极情感体验与兴趣水平，用于描述学习投入、归属感和日常学习体验的主观维度。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - academic-well-being
 - learning-interest

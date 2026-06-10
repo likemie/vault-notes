@@ -3,6 +3,11 @@ title: Six Rs of University-Industry Relations
 aliases: ["产学关系六R框架", "6R框架", "IBM 6 Rs", "IBM six Rs", "six Rs framework"]
 summary: "IBM 用于组织产学投资的六领域框架，包括 Research、Readiness、Recruiting、Revenue、Responsibility、Regions，外加 Refresh 作为动态调适维度，每个领域配有对应的可量化度量指标"
 type: concept
+domain: "higher-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

@@ -6,6 +6,11 @@ aliases:
   - probing questions
 summary: 质性访谈中嵌入访谈协议的提示语，用于提醒研究者追问更多信息或要求参与者解释其回答
 type: concept
+domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

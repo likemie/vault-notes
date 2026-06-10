@@ -7,6 +7,11 @@ aliases:
   - 终身学习培训
 summary: "位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连"
 type: concept
+domain: "higher-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - level/adult
 - region/global

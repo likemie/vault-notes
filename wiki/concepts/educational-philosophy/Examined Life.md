@@ -8,6 +8,11 @@ aliases:
   - 未经省察的生活不值得过
 summary: "西方学习传统第三主题，苏格拉底的名言代表质疑一切理所当然之事的智识态度，是批判性思维的西方文化根源"
 type: concept
+domain: "educational-philosophy"
+related_count: 13
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - region/western
 - field/educational-philosophy

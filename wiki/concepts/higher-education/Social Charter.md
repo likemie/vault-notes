@@ -6,6 +6,11 @@ aliases:
   - 高等教育社会宪章
 summary: "Meyer 提出的概念，指大学与社会之间关于毕业生地位、资格和社会认可的不成文约定。"
 type: concept
+domain: "higher-education"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - social-charter
 - higher-education

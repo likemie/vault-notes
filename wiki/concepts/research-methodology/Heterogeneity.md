@@ -5,6 +5,11 @@ aliases:
   - 研究间异质性
 summary: "元分析中各研究效应量之间超出抽样误差的变异，是判断能否合理合并研究和探索调节变量的核心概念"
 type: concept
+domain: "research-methodology"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - heterogeneity
 - meta-analysis

@@ -6,6 +6,11 @@ aliases:
   - "产品专项"
 summary: "产学联合体中由单个成员独立出资、建立在所有成员共享的前竞争知识之上但涉及企业专有信息的研究项目，前景知识产权归赞助企业所有，构成联合体的技术转化工具"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

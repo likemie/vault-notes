@@ -8,6 +8,11 @@ aliases:
   - 自豪
 summary: "学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面"
 type: concept
+domain: "chinese-philosophy"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/affect
   - theme/self-conscious-emotion

@@ -7,6 +7,11 @@ aliases:
   - 学术参与
 summary: "一个在教育研究中有歧义的术语：在学生学习研究中指学生对学术活动的投入程度（学业投入），在产学合作文献中指学术研究者与企业之间的知识性合作活动（产学学术参与），两者是完全不同的概念"
 type: concept
+domain: "higher-education"
+related_count: 25
+related_level: 4
+related_stars: "★★★★"
+related_color: "#fdba74"
 tags:
 - academic-engagement
 - student-engagement

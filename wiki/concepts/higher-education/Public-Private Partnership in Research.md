@@ -8,6 +8,11 @@ aliases:
   - 研究型PPP
 summary: "政府、企业与大学三部门联合资助和执行研究项目的合作机制，Ramming（2025）从实践者角度提出治理、竞争理论、技术战略和知识产权四维决策框架"
 type: concept
+domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

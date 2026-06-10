@@ -6,6 +6,11 @@ aliases:
   - 自主驱动模式
 summary: "毕业出路分化中的一种类型，以目标掌控和强价值信念结合为特征，既能策略性行动又有稳定意义感支撑，倾向主动设定长期发展目标"
 type: concept
+domain: "sociology-of-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - self-driven-mode
   - higher-education

@@ -4,6 +4,11 @@ aliases:
   - 经济爱国主义
 summary: "将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - economic-patriotism
 - knowledge-based-economization

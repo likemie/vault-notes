@@ -4,6 +4,11 @@ aliases:
   - 开发者效应
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
+domain: "research-methodology"
+related_count: 15
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - developer-effect
 - program-evaluation

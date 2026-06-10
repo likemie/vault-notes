@@ -3,6 +3,11 @@ title: VUCA
 aliases: ["波动性-不确定性-复杂性-模糊性", "VUCA 框架", "VUCA环境"]
 summary: "描述 21 世纪组织与社会环境的四维概念，分别指波动性、不确定性、复杂性和模糊性，也可作为将结构性问题个体化的治理话语工具"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags: ["theme/global-governance", "theme/21st-century-skills", "theme/risk", "theme/uncertainty"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"

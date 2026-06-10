@@ -5,6 +5,11 @@ aliases:
   - CI
 summary: "围绕点估计给出的可能取值范围，用于表示估计不确定性并帮助判断不同结果之间差异的稳定程度。"
 type: concept
+domain: "research-methodology"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - confidence-interval
 - standard-error

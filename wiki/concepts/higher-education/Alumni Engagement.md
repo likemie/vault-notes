@@ -7,6 +7,11 @@ aliases:
   - "alumni-industry engagement"
 summary: "利用校友对母校研究优势和产业需求的双重了解，以咨询委员会、研究合作推动、指导计划、公司校友群体等七种策略将校友转化为产学合作的倡导者、连接者和合作者"
 type: concept
+domain: "higher-education"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/alumni"

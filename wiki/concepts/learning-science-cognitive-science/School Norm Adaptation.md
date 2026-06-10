@@ -4,6 +4,11 @@ aliases:
   - 学校规范适应
 summary: "学生对学校规范、课堂秩序和行为期待的适配程度，用于描述个体如何调整行为以符合学校制度环境。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - school-norms
 - student-behaviour

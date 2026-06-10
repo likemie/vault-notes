@@ -6,6 +6,11 @@ aliases:
   - state of exception
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - schmittian-sovereignty
   - sovereignty

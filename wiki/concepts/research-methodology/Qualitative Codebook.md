@@ -7,6 +7,11 @@ aliases:
   - codebook
 summary: "质性研究中包含预设编码列表及其定义的表格工具，用于在多位编码者参与时最大化编码一致性"
 type: concept
+domain: "research-methodology"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

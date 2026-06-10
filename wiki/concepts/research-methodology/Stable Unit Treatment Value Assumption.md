@@ -5,6 +5,11 @@ aliases:
   - SUTVA
 summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - sutva
 - stable-unit-treatment-value-assumption

@@ -11,10 +11,14 @@ filters:
 properties:
   file.name:
     displayName: Concept
-  status:
-    displayName: Status
-  confidence:
-    displayName: Confidence
+  domain:
+    displayName: Domain
+  related_stars:
+    displayName: Links
+  related_count:
+    displayName: Count
+  related_color:
+    displayName: Color
   tags:
     displayName: Tags
   updated:
@@ -25,18 +29,24 @@ views:
     name: Concepts
     order:
       - file.name
-      - status
-      - confidence
+      - domain
+      - related_stars
+      - related_count
       - tags
       - updated
     sort:
-      - property: file.name
-        direction: ASC
+      - property: related_count
+        direction: DESC
 
   - type: cards
     name: Cards
+    image: related_color
     order:
       - file.name
-      - status
-      - confidence
+      - domain
+      - related_stars
+      - related_count
+    sort:
+      - property: related_count
+        direction: DESC
 ```

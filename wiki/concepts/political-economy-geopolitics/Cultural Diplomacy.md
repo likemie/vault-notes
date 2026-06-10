@@ -6,6 +6,11 @@ aliases:
   - 高教文化外交
 summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - cultural-diplomacy
 - soft-power

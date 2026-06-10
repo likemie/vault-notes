@@ -7,6 +7,11 @@ aliases:
   - 高等教育相对自主性
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
+domain: "higher-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - theme/power
 - theme/geopolitics

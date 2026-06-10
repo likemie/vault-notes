@@ -5,6 +5,11 @@ aliases:
   - lifelong learning
 summary: "20 世纪后半叶兴起的全球教育改革理念，主张学习贯穿人的一生，与知识经济话语共同构成各国课程改革的合法化框架"
 type: concept
+domain: "educational-philosophy"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum
   - theme/educational-reform

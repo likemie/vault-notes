@@ -6,6 +6,11 @@ aliases:
   - taking the world upon oneself
 summary: "儒学学习传统第二主题，从修身出发承担社会与天下责任的道德使命，孟子首倡、朱熹系统化、近现代演化为救國救民"
 type: concept
+domain: "chinese-philosophy"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - region/china
   - theory/confucianism

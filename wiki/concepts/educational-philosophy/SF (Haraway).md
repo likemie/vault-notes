@@ -5,6 +5,11 @@ aliases:
   - 推测性编造
 summary: "Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。"
 type: concept
+domain: "educational-philosophy"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - sf
 - haraway

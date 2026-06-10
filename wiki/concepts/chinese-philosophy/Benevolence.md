@@ -7,6 +7,11 @@ aliases:
   - authoritative conduct
 summary: "儒学核心概念，指通过终身修养达到的最高道德境界，超越具体德目（如孝、礼），代表最真诚、最完整的人性实现。"
 type: concept
+domain: "chinese-philosophy"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - region/china
 - theory/confucianism

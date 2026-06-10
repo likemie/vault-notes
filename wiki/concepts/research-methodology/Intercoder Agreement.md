@@ -7,6 +7,11 @@ aliases:
   - cross-checking
 summary: "质性研究中两个或以上编码者对同一段文本使用相同或相似编码的一致性程度，通常要求达到 80% 以上"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

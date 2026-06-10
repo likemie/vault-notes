@@ -6,6 +6,11 @@ aliases:
   - 形成性评估
 summary: "教学过程中用于诊断学生理解、调整教学和提供反馈的课堂评价取向，重点在于促进学习而非项目实施评价。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - formative-assessment
 - subject/instruction

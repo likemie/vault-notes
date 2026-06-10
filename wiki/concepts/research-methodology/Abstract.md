@@ -3,6 +3,11 @@ title: Abstract
 aliases: ["文献摘要", "研究摘要", "abstracting studies", "literature abstract", "study abstract"]
 summary: "学术写作中两种功能不同的文本类型：文献综述中加工研究文献的短段落（文献摘要），以及置于研究方案或论文开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
 type: concept
+domain: "research-methodology"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"

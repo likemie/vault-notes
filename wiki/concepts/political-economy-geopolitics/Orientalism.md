@@ -4,6 +4,11 @@ aliases:
   - 东方主义
 summary: "通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 17
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - orientalism
 - postcolonial-theory

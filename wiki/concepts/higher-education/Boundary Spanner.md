@@ -11,6 +11,11 @@ aliases:
   - 专业创新支持官
 summary: "在产学合作中充当学术界与产业界之间桥梁的专业角色，负责建立信任、翻译双方需求、协调跨组织合作流程"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

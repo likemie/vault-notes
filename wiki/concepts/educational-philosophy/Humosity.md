@@ -4,6 +4,11 @@ aliases:
   - 腐殖性
 summary: "将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环"
 type: concept
+domain: "educational-philosophy"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - humosity
 - posthumanism

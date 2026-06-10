@@ -5,6 +5,11 @@ aliases:
   - global policy spaces
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
+domain: "comparative-education"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/comparative-education
   - theme/global-education-governance

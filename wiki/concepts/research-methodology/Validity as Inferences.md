@@ -4,6 +4,11 @@ aliases:
   - 作为推论的效度
 summary: "效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - validity
 - educational-assessment

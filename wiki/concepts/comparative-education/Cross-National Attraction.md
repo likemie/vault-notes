@@ -5,6 +5,11 @@ aliases:
   - 跨国吸引力
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
+domain: "comparative-education"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - cross-national-attraction
   - policy-borrowing

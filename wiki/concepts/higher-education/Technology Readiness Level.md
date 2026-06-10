@@ -8,6 +8,11 @@ aliases:
   - "technical readiness level"
 summary: "NASA 在 1970 年代开发的 9 级技术成熟度评估框架（TRL 1 基础原理到 TRL 9 实际环境验证），用于衡量大学衍生企业技术距离商业化部署的差距，TRL 不足是衍生企业无法满足企业试点要求、形成融资困局的核心原因之一"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/innovation"
   - "theme/entrepreneurship"

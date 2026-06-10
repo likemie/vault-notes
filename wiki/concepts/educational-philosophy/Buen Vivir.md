@@ -5,6 +5,11 @@ aliases:
   - 美好生活
 summary: "安第斯原住民传统中的好好生活概念，强调与自然、共同体和日常再生产保持和谐，而不是把更多消费视为更好生活"
 type: concept
+domain: "educational-philosophy"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - buen-vivir
 - latin-american-philosophy

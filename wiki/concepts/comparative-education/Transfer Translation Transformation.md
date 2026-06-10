@@ -7,6 +7,11 @@ aliases:
   - 政策迁移
 summary: "Cowen（2009）用于分析教育知识跨国流动的三阶段框架，转移指思想的跨境移动，转译指接受地对思想的本土重释，转化指社会政治经济语境对转译产物的再次塑造"
 type: concept
+domain: "comparative-education"
+related_count: 18
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
   - theme/knowledge-transfer
   - theme/comparative-education

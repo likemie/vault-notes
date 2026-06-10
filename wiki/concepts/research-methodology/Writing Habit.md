@@ -3,6 +3,11 @@ title: Writing Habit
 aliases: ["写作习惯", "学术写作习惯", "academic writing habit", "Boice writing strategies", "regular writing"]
 summary: "Boice (1990) 提出的学术写作生产力策略体系，以每日定时定量写作为核心，辅以时间追踪图表、任务拆解和同伴分享，反对间歇暴写和周末写作者模式"
 type: concept
+domain: "research-methodology"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/academic-writing, theme/research-productivity]
 related_concepts: []
 related_theories: []

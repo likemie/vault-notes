@@ -9,6 +9,11 @@ aliases:
   - 优先谈判权
 summary: "国际产学合作中的知识产权策略概念，指在合作启动前、资产价值尚未显现的概念阶段预先协商权利安排，以避免资产升值后陷入竞争性谈判僵局"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/intellectual-property

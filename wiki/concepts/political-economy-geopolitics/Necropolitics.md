@@ -5,6 +5,11 @@ aliases:
   - 死亡政治学
 summary: "姆本贝提出的理论概念，指主权权力在很大程度上体现为决定谁可以活、谁必须死的能力，近年被用于分析中国的语言政策和民族教育政策"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/political-theory
   - theme/sovereignty

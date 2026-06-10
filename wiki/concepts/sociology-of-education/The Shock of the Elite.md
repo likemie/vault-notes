@@ -4,6 +4,11 @@ aliases:
   - 精英冲击
 summary: "弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，常表现为习性失配、归属感受损和行动方向不稳"
 type: concept
+domain: "sociology-of-education"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - elite-shock
   - higher-education

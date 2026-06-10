@@ -8,6 +8,11 @@ aliases:
   - 评定者间信度
 summary: "评估多位独立评判者或专家使用同一工具评分时彼此一致程度的信度指标，适用于涉及观察评定的研究设计"
 type: concept
+domain: "research-methodology"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - method/measurement
   - quantitative-research

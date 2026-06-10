@@ -6,6 +6,11 @@ aliases:
   - physician-scientists
 summary: "Swick 与 Jones（2025）描述的兼具医学博士与哲学博士学位的学术专业人员，以识别临床问题、与基础科学家合作转化、在学界和产业之间充当联络者为核心能力，是医用创新的关键催化者"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/talent-development"
   - "theme/university-industry-collaboration"

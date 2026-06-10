@@ -4,6 +4,11 @@ aliases:
   - 语言经验法
 summary: "基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - language-experience-approach
 - literacy

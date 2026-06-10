@@ -4,6 +4,11 @@ aliases:
   - 习性
 summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。"
 type: concept
+domain: "sociology-of-education"
+related_count: 18
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
   - habitus
   - bourdieu

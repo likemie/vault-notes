@@ -7,6 +7,11 @@ aliases:
   - scales of measurement
 summary: "量化研究中向参与者提供的反应选项或研究者观察收集的测量单位，分为分类量表（名义、顺序）和连续量表（等距、比率）两大类型"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist

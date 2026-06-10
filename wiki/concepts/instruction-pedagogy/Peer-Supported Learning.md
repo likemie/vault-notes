@@ -8,6 +8,11 @@ aliases:
   - 同伴互助
 summary: "东亚学校文化中以同伴互助为核心的学习方式，包括小组学习，课代表制度，优生帮后进生，将帮助同伴视为学习美德而非竞争威胁"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/east-asia
   - theme/peer-culture

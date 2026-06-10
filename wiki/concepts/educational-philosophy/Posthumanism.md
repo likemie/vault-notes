@@ -4,6 +4,11 @@ aliases:
   - 后人类主义
 summary: "将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向"
 type: concept
+domain: "educational-philosophy"
+related_count: 14
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - posthumanism
 - relational-ontology

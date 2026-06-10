@@ -8,6 +8,11 @@ aliases:
   - CHC learner
 summary: "受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区"
 type: concept
+domain: "comparative-education"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - region/china
 - region/east-asia

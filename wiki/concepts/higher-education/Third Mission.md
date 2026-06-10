@@ -8,6 +8,11 @@ aliases:
   - "大学第三职能"
 summary: "大学在教学和研究之外的正式创新与经济发展使命，涵盖知识交流、技术商业化、区域经济发展和产学合作等广泛活动，2000年代后在英美等国日益制度化"
 type: concept
+domain: "higher-education"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

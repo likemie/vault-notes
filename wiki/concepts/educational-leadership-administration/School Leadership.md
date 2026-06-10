@@ -5,6 +5,11 @@ aliases:
   - 学校领导
 summary: "围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - school-leadership
   - subject/curriculum

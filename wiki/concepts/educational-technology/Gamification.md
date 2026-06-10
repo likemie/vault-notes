@@ -6,6 +6,11 @@ aliases:
   - game-based reinforcement
 summary: "将积分、徽章、排行榜和反馈循环等游戏设计元素应用于非游戏情境以调节行为的设计策略，在教育中常与学习动机、行为管理和反思性教育目标之间形成张力。"
 type: concept
+domain: "educational-technology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - gamification
   - game-design

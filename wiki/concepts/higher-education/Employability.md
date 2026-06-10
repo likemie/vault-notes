@@ -5,6 +5,11 @@ aliases:
   - 就业能力
 summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势"
 type: concept
+domain: "higher-education"
+related_count: 19
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - employability
 - higher-education

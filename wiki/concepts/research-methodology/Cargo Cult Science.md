@@ -4,6 +4,11 @@ aliases:
   - 货物崇拜科学
 summary: "Feynman 提出的概念，指看起来像科学却缺乏认识论诚信和自我纠错精神的伪科学实践。"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - cargo-cult-science
 - pseudoscience

@@ -3,6 +3,11 @@ title: Research Introduction
 aliases: ["引言（研究写作）", "研究引言", "scholarly introduction", "academic introduction", "research introduction"]
 summary: "期刊论文或学位论文中为读者提供研究背景信息的第一部分文字，具有建立研究框架、创造读者兴趣、确立研究问题和触及受众四大功能"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Narrative Hook]]"

@@ -8,6 +8,11 @@ aliases:
   - 实用主义在中国
 summary: "Schulte（2009）分析的中国语境下实用主义的再脉络化，追溯从晚清经世致用到胡适极端化为反迷信武器的历程，揭示其中文译名和语义嫁接如何将 Pragmatism 压缩为有用之学"
 type: concept
+domain: "comparative-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/educational-transfer

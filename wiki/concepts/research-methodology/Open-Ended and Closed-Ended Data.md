@@ -9,6 +9,11 @@ aliases:
   - 开放数据与封闭数据
 summary: "混合方法研究中的两类基本数据形式，开放式数据由参与者自由表达而研究者不预设回答选项，封闭式数据由研究者提供预设回答选项（如评分量表），区分两类数据比数字-文本二分法更精确"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - mixed-methods

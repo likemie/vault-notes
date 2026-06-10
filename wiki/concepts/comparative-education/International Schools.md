@@ -5,6 +5,11 @@ aliases:
   - international school
 summary: "面向跨国流动家庭、本地精英或国际课程需求而设立的学校类型，兼具国际化、市场化和精英教育特征"
 type: concept
+domain: "comparative-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - region/global
 - level/k12

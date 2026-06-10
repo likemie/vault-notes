@@ -6,6 +6,11 @@ aliases:
   - emergent research design
 summary: "质性研究的核心特征之一：研究计划在研究者进入现场并开始收集数据后会演变和变化，问题、数据收集形式和研究对象都可能随之调整"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research

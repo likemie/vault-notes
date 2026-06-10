@@ -5,6 +5,11 @@ aliases:
   - 自信表达
 summary: "学生在课堂互动中主动表达、提出观点和参与交流的倾向，用于描述学习参与中的主动性和表达能力。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - assertiveness
 - social-behavior

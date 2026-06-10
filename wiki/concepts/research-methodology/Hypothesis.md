@@ -7,6 +7,11 @@ aliases:
   - hypotheses
 summary: "对特定事件或变量间关系的预测性陈述，通过重复检验积累为理论，是连接量化研究理论与数据收集的核心环节"
 type: concept
+domain: "research-methodology"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
   - paradigm/positivist

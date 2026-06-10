@@ -7,6 +7,11 @@ aliases:
   - integration question
 summary: "混合方法研究中除量化问题或假设和质性问题之外的第三类问题，描述研究者希望通过整合量化与质性数据获得什么洞见，由 Tashakkori & Creswell (2007) 首次正式讨论"
 type: concept
+domain: "research-methodology"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
 related_concepts:

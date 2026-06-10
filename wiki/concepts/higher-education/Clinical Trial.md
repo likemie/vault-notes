@@ -9,6 +9,11 @@ aliases:
   - 随机双盲临床试验
 summary: "以人为研究对象、按预设方案分阶段评估新药或新疗法的安全性、有效性与风险收益比的研究活动，在产学合作中构成生物制药领域资金规模最大的合作模式"
 type: concept
+domain: "higher-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-research

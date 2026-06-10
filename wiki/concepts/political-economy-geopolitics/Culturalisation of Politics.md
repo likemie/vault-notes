@@ -4,6 +4,11 @@ aliases:
   - 政治的文化化
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - culturalisation-of-politics
   - depoliticisation

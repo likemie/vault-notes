@@ -6,6 +6,11 @@ aliases:
   - CHC learner paradox
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
+domain: "comparative-education"
+related_count: 16
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
 - region/china
 - region/east-asia

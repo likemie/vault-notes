@@ -7,6 +7,11 @@ aliases:
   - filial devotion
 summary: "儒学的起始道德，指子女对父母的真诚敬爱和道德义务，被认为是人类一切道德的起点（百善孝为先）。"
 type: concept
+domain: "chinese-philosophy"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/china
 - theory/confucianism

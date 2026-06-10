@@ -6,6 +6,11 @@ aliases:
   - 社团主义治理
 summary: "政府、雇主和工会三方之间制度化合作与协商的治理模式，用于协调政策、利益分配和社会调节。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - governance
 - region/eu

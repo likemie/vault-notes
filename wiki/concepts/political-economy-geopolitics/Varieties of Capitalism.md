@@ -6,6 +6,11 @@ aliases:
   - 生产体制
 summary: "区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - region/global
 - subject/comparative-education

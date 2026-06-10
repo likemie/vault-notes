@@ -10,6 +10,11 @@ aliases:
   - brain science
 summary: "将神经科学发现应用于教育实践的跨学科领域，主张以大脑学习机制为依据设计教学。被批评为简化主义，忽视社会互动和情境因素，且在历史上曾被用于为压迫性政策提供科学依据。"
 type: concept
+domain: "educational-philosophy"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - educational-philosophy
   - neuroscience

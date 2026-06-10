@@ -4,6 +4,11 @@ aliases:
   - 神经可塑性
 summary: "神经系统在经验、练习和环境作用下持续改变连接、功能和组织方式的能力，用于说明学习、发展和适应具有动态生物基础。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - neuroplasticity
 - learning-science

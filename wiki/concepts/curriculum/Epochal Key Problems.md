@@ -4,6 +4,11 @@ aliases:
   - 时代关键问题
 summary: "Klafki 提出的课程组织概念，以环境危机、社会不平等和战争等时代问题连接学科深度与跨学科广度。"
 type: concept
+domain: "curriculum"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - epochal-key-problems
 - didaktik

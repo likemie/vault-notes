@@ -4,6 +4,11 @@ aliases:
   - 学习阻碍行为
 summary: "学生在课堂中表现出的干扰同伴、分心、疲惫或其他妨碍学习过程的行为，用于描述不利于学习参与和课堂秩序的行为模式。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - learning-impeding-behavior
 - classroom-behavior

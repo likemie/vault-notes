@@ -4,6 +4,11 @@ aliases:
   - 文化资本
 summary: "Pierre Bourdieu 的核心概念，指个体通过社会化获得并在特定场域中具有交换价值的文化资源，通常包括具身化、客体化和制度化三种形态。"
 type: concept
+domain: "sociology-of-education"
+related_count: 18
+related_level: 3
+related_stars: "★★★"
+related_color: "#fde68a"
 tags:
   - cultural-capital
   - bourdieu

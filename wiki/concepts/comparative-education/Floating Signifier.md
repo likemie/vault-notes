@@ -4,6 +4,11 @@ aliases:
   - 漂浮能指
 summary: "一种被剥离具体历史语境含义的符号，其传播力来自在不同接收语境中被差异化解读和重组的潜能，在教育研究中用于解释全球政策话语为何能跨越迥异的政治文化语境被广泛接受"
 type: concept
+domain: "comparative-education"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/educational-transfer
   - theme/global-education-governance

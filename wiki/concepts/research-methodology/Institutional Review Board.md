@@ -7,6 +7,11 @@ aliases:
   - 研究伦理委员会
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - method/research-ethics
   - theme/research-governance

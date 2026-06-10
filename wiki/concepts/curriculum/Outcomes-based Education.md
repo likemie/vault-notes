@@ -7,6 +7,11 @@ aliases:
   - OBE
 summary: "以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容，在新西兰 2007 年课程和全球教育改革中广泛采用，近年受到社会实在论批评"
 type: concept
+domain: "curriculum"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum
   - paradigm/neoliberalism

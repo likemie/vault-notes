@@ -5,6 +5,11 @@ aliases:
   - naturalistic generalizations
 summary: "Stake (1995) 在案例研究中提出的概念，指研究者将基于案例的命题性概括与自身个人经验相结合，形成的更富情境感的推广形式"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

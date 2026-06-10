@@ -4,6 +4,11 @@ aliases:
   - 官方知识
 summary: "Apple 提出的概念，指学校课程中由支配群体界定为合法、值得传授的知识，反映并再生产社会中的文化权力关系"
 type: concept
+domain: "curriculum"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/power-knowledge
   - theme/curriculum

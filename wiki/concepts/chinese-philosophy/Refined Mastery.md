@@ -7,6 +7,11 @@ aliases:
   - thorough understanding
 summary: "中国学习过程的终极目标，指从熟悉到练习再到精炼完美的掌握，表现为透彻理解与运用自如"
 type: concept
+domain: "chinese-philosophy"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - field/chinese-philosophy

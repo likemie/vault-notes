@@ -6,6 +6,11 @@ aliases:
   - central idea
 summary: "质性研究中所探索或理解的单一概念或想法，是质性目的陈述的核心组成部分，不同于量化研究中对变量间关系或组间比较的聚焦"
 type: concept
+domain: "research-methodology"
+related_count: 15
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

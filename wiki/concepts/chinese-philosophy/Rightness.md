@@ -7,6 +7,11 @@ aliases:
   - sense of justice
 summary: "儒学四超越德目之一，指在具体情境中做正确之事并坚守正义；孟子谓富贵不能淫、贫贱不能移、威武不能屈即为义"
 type: concept
+domain: "chinese-philosophy"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theory/confucianism

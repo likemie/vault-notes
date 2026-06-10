@@ -7,6 +7,11 @@ aliases:
   - knowledge as fictitious commodity
 summary: "Polanyi 虚拟商品理论在知识领域的延伸，揭示知识因非竞争性和非排他性而抗拒完全商品化，学术排名和评估正是为虚拟商品化的知识制造符号价格的基础设施"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - fictitious-commodity
   - knowledge-economy

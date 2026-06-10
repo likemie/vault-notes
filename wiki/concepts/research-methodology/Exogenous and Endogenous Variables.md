@@ -6,6 +6,11 @@ aliases:
   - endogenous variable
 summary: "因果模型中对变量的结构区分，外生变量不被模型中其他变量所引起，内生变量受模型中其他变量的影响"
 type: concept
+domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/positivist

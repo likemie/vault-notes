@@ -9,6 +9,11 @@ aliases:
   - "STI policy paradigms"
 summary: "Schot 与 Steinmueller（2018）识别的创新政策三大范式——科学促增长、创新系统升级、变革转型——揭示政策逻辑从弥补市场失灵到管理系统失灵再到主动引导方向性变革的递进"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - "theme/innovation-policy"
   - "theme/innovation"

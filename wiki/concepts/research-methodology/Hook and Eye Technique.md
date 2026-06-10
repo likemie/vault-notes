@@ -3,6 +3,11 @@ title: Hook and Eye Technique
 aliases: ["钩眼技术", "hook-and-eye exercise", "hook and eye method"]
 summary: "Wilkinson (1991) 提出的写作一致性检查技术，通过圈出每句关键词（eye）并连线（hook）相邻句子来检验文本连贯性，连接顺畅表明连贯，连接困难则揭示需要过渡词的断裂处"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags: [theme/academic-writing, method/writing-technique]
 related_concepts:
   - "[[Coherence in Writing]]"

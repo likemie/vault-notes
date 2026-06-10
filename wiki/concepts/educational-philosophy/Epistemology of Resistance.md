@@ -5,6 +5,11 @@ aliases:
   - resistive epistemology
 summary: "从被排斥群体的具体经验出发构建替代性知识形式的认识论取向，用于反抗支配性知识秩序。"
 type: concept
+domain: "educational-philosophy"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - region/brazil
 - theme/epistemology

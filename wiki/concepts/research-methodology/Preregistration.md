@@ -4,6 +4,11 @@ aliases:
   - 预注册
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
+domain: "research-methodology"
+related_count: 10
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - preregistration
 - research-methodology

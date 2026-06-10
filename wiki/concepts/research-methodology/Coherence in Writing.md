@@ -6,6 +6,11 @@ aliases:
   - textual coherence
 summary: Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本组织原则，要求观念相互联结、句子间逻辑推进、段落间自然衔接，可通过钩眼技术逐句检查，在句子、段落和章节三个层面运作
 type: concept
+domain: "research-methodology"
+related_count: 11
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - theme/academic-writing
 related_concepts:

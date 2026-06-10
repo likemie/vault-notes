@@ -4,6 +4,11 @@ aliases:
   - 平行独白
 summary: "Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - parallel-monologues
   - educational-administration

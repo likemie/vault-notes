@@ -5,6 +5,11 @@ aliases:
   - social realism
 summary: "教育研究中的认识论框架，强调学科知识的重要性，认为知识独立于知者存在且是社会建构的，同时承认知识会变化"
 type: concept
+domain: "educational-philosophy"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - paradigm/epistemology
   - theory/social-realism

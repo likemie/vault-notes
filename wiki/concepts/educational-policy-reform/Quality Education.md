@@ -6,6 +6,11 @@ aliases:
   - quality-oriented education
 summary: "中国 1990 年代后期提出的教育改革理念，旨在替代以考试为中心的应试教育，以提升公民整体素质为目标，杜威的进步教育思想被选择性吸收为其理论基础和改革正当性资源"
 type: concept
+domain: "educational-policy-reform"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/educational-reform

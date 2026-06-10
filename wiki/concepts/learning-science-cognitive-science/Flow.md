@@ -8,6 +8,11 @@ aliases:
   - flow theory
 summary: "Csikszentmihalyi 提出的最佳体验概念，指技能与挑战匹配时个体完全投入任务、忘记时间和自我的心理状态"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/motivation
   - theme/affect

@@ -4,6 +4,11 @@ aliases:
   - 文化脱嵌
 summary: "弱势背景学生进入精英大学后对物理环境与社会文化环境产生的全面疏离感，用于描述高等教育文化障碍的环境脱嵌维度。"
 type: concept
+domain: "sociology-of-education"
+related_count: 13
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - cultural-disembedding
   - higher-education

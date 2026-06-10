@@ -9,6 +9,11 @@ aliases:
   - science park
 summary: "大学拥有或运营的专为产业合作和创新活动提供的物理空间，包括孵化器、研究园区和科技园区，是产学合作中经济发展维度的重要基础设施"
 type: concept
+domain: "higher-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

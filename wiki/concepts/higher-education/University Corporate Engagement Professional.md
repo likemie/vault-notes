@@ -9,6 +9,11 @@ aliases:
   - "corporate engagement professional"
 summary: "在大学与产业界面中充当中介和关系管理者的专业角色，负责连接双方利益相关者、识别一致利益并构建战略伙伴关系"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/corporate-engagement"

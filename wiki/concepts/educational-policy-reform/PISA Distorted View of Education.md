@@ -6,6 +6,11 @@ aliases:
   - PISA 经济化教育
 summary: "PISA 将经济增长和竞争力作为教育的唯一目的，只评估阅读、数学、科学等与经济竞争力相关的科目，忽视公民身份、好奇心、同理心等更广泛的教育目的"
 type: concept
+domain: "educational-policy-reform"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory

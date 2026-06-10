@@ -6,6 +6,11 @@ aliases:
   - PISA 威权教育美化
 summary: "PISA 将威权教育系统中的自我谴责特质美化为教育卓越的秘密，实际上这是威权社会压制异见、否认社会责任的结果"
 type: concept
+domain: "educational-policy-reform"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory

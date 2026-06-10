@@ -5,6 +5,11 @@ aliases:
   - "知识整合共同体"
 summary: "Acworth（2008）基于 Cambridge-MIT Institute 提出的产学合作组织模式，围绕科学或技术重大挑战，整合教育、研究、产业和政府形成多维度联盟，由与学术负责人地位平等的经理推动知识交流"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

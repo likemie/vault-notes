@@ -4,6 +4,11 @@ aliases:
   - 教学反馈
 summary: "围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 14
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
   - feedback
   - reinforcement

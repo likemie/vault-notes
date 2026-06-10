@@ -6,6 +6,11 @@ aliases:
   - AMC
 summary: "大学医学院及其合作教学医院组成的高教与医疗机构，以学术-临床二元结构为特征，在产学临床试验中既是核心执行主体，也因高管理费率和长启动周期构成效率瓶颈"
 type: concept
+domain: "higher-education"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials

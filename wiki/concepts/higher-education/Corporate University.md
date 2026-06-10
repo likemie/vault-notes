@@ -7,6 +7,11 @@ aliases:
   - corporate training academy
 summary: "企业集中组织教育培训、知识管理和领导力发展的制度形式，常用于把员工学习、组织战略和内部认证体系整合起来"
 type: concept
+domain: "higher-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - level/adult
 - region/global

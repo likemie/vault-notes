@@ -7,6 +7,11 @@ aliases:
   - lab-to-fab
 summary: "将学术实验室中的研究发现转化为可商业化产品或规模化应用的研究过程，在生物制药领域具体表现为从临床前研究到人体临床试验的桥梁功能"
 type: concept
+domain: "higher-education"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - theme/research-commercialization

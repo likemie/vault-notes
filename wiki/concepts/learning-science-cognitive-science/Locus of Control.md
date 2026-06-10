@@ -7,6 +7,11 @@ aliases:
   - internal vs external control
 summary: "Rotter (1966) 提出的动机概念，指个体将成败原因感知为内部（能力、努力）或外部（运气、任务难度）的倾向，是 Weiner 归因理论的前置基础"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/motivation
   - theme/attribution

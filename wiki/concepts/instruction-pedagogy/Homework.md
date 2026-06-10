@@ -5,6 +5,11 @@ aliases:
   - 作业
 summary: "学生在校外完成的学习任务，但其定义在不同研究中差异巨大，使元分析聚合面临苹果和橙子困境，效果高度依赖任务类型、学生年龄和学科"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 7
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - homework
 - instruction

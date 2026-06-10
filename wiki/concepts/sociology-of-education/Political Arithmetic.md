@@ -5,6 +5,11 @@ aliases:
   - political arithmetic tradition
 summary: "英国教育社会学早期传统，以可测量数据把教育机会、阶级流动和人口管理连接起来，并为战后福利国家政策提供知识基础。"
 type: concept
+domain: "sociology-of-education"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/sociology-of-education
   - theme/educational-inequality

@@ -5,6 +5,11 @@ aliases:
   - 习得无助
 summary: "Dweck 早期研究发现的现象，指学习者因相信自己缺乏能力而放弃努力的行为模式，是 Entity vs Incremental Intelligence 理论的经验前身"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/motivation
   - theme/affect

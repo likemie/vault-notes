@@ -4,6 +4,11 @@ aliases:
   - 突触修剪
 summary: "通过清除低效或较少使用连接来精简神经回路的过程，用于解释大脑如何在发展中提高处理效率和功能专门化。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - synaptic-pruning
 - brain-development

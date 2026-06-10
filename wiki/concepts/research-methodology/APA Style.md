@@ -3,6 +3,11 @@ title: APA Style
 aliases: ["APA格式", "APA style manual", "Publication Manual of the APA", "APA 7th edition", "APA第七版"]
 summary: "美国心理学会出版手册规定的学术写作格式规范，社会科学领域最常用的格式手册，第7版在正文引用、参考文献、标题层级和包容性语言方面有重要更新"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Sage]]"

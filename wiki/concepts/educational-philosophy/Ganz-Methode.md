@@ -7,6 +7,11 @@ aliases:
   - Ganz Method
 summary: "通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程"
 type: concept
+domain: "educational-philosophy"
+related_count: 12
+related_level: 2
+related_stars: "★★"
+related_color: "#99f6e4"
 tags:
 - region/brazil
 - region/global

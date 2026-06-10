@@ -7,6 +7,11 @@ aliases:
   - background IP
 summary: "产学合作协议中定义的合作前各方独立开发的知识产权，产业方需要获得足够访问权以确保对前景 IP 的自由实施"
 type: concept
+domain: "higher-education"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/intellectual-property
   - theme/university-industry-collaboration

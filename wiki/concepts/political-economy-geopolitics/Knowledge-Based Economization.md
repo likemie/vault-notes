@@ -4,6 +4,11 @@ aliases:
   - 知识经济化
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 33
+related_level: 5
+related_stars: "★★★★★"
+related_color: "#fecdd3"
 tags:
 - knowledge-based-economization
 - knowledge-based-economy

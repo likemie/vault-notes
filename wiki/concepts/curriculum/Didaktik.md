@@ -5,6 +5,11 @@ aliases:
   - 教授学
 summary: "德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。"
 type: concept
+domain: "curriculum"
+related_count: 8
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
 - didaktik
 - subject/curriculum

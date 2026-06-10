@@ -7,6 +7,11 @@ aliases:
   - O'Connor and Michaels revoicing
 summary: "课堂话语策略，指教师重铸学生话语以澄清观点、突出想法作者权并提升讨论的认知层次"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/western
   - theme/speaking

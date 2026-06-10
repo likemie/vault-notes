@@ -7,6 +7,11 @@ aliases:
   - researcher reflexivity
 summary: "质性研究中研究者反思自身角色、背景、文化和经验如何塑造研究解释的核心特征，包含对过去经验的陈述和对解释塑造机制的明确说明"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research

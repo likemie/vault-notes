@@ -6,6 +6,11 @@ aliases:
   - imagined political community
 summary: "Anderson 提出的民族理论核心概念，民族是被想象的有边界和主权的政治共同体，成员虽互不相识却共享同属一个共同体的心理图像"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/national-identity
   - theme/nation-building

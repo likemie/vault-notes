@@ -7,6 +7,11 @@ aliases:
   - postpositivist
 summary: "一种主张知识具有推测性而非绝对性的研究哲学立场，持决定论和还原论，通过经验观察、测量和理论检验来逐步逼近对世界的理解"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - research-philosophy
   - quantitative-research

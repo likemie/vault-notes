@@ -6,6 +6,11 @@ aliases:
   - Confucian parenting style
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
+domain: "chinese-philosophy"
+related_count: 9
+related_level: 1
+related_stars: "★"
+related_color: "#bfdbfe"
 tags:
   - theme/learning
   - theme/parenting
