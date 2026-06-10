@@ -128,12 +128,12 @@ updated: 2026-05-27
 ### 定义
 
 > [!info]
-> 在[[University-Industry Collaboration|产学合作]]研究脉络中，"Academic Engagement"指的是**学术研究者（教师/研究人员）以个人或团队身份与企业进行的知识性合作活动**。具体包括：产业赞助研究（industry-[[Sponsored Research Agreement|sponsored research]]）、联合研究、学术咨询（consulting）、联合发表、学术会议交流、学生联合培养（实习、[[Cooperative Education|合作教育]]）等（Perkmann et al., 2013, pp.423–424，转引自 Boccanfuso & Hall, 2025, p.53）。
+> 在[[University-Industry Collaboration|产学合作]]研究脉络中，"Academic Engagement"指的是**学术研究者（教师/研究人员）以个人或团队身份与企业进行的知识性合作活动**。具体包括：产业赞助研究（industry-[[Sponsored Research Agreement|sponsored research]]）、联合研究、学术咨询（consulting）、联合发表、学术会议交流、学生联合培养（实习、[[Cooperative Education|合作教育]]）等（Perkmann et al., 2013, pp.423–424，转引自 Boccanfuso & Hall, 2025b, p.53）。
 
 这一概念由 Perkmann et al.（2013）在对产学合作文献的[[Systematic Review|系统综述]]中明确界定，与同一文献中的 "commercialization"（商业化）构成产学合作的两种基本类型。
 
 > [!quote]
-> "Engagement is less organizationally embedded than commercialization, and is more autonomously driven by individuals."（Perkmann et al., 2013, p.423，转引自 Boccanfuso & Hall, 2025, p.53）
+> "Engagement is less organizationally embedded than commercialization, and is more autonomously driven by individuals."（Perkmann et al., 2013, p.423，转引自 Boccanfuso & Hall, 2025b, p.53）
 
 ### 与商业化的区别
 
@@ -151,7 +151,7 @@ updated: 2026-05-27
 > [!example]
 > 一位工程学院的教授接受一家汽车公司赞助来测试新材料——合作为的是发表论文和培养学生，经费直接进入教授的实验室账户——这是学术参与。如果测试结果产生了可申请专利的发明，大学[[Technology Transfer Office|技术转移办公室]]介入，评估商业价值、申请专利、寻找被许可方——这是商业化。前者由教授个人驱动、分散在大学的各个角落；后者由中心办公室集中管理、遵循标准化的专利和许可流程。
 
-这一区分对大学如何组织产学合作有直接影响：因为学术参与天然是分散的、个人化的，大学很难像管理专利许可那样通过一个中心办公室来"管理"所有学术参与活动。正如 Boccanfuso 和 Hall（2025, pp.60–63）对 65 所美国研究型大学的实证分析所示，即便大学设立了"全面模式"的中心产学参与办公室，该办公室在大多数活动领域也只能充当"导航者"（navigator）或"[[Concierge Service|礼宾]]"（concierge），而非"直接负责者"（responsible）——真正有权签订合同和谈判条款的是分散在各处的专业单位（赞助项目办公室、技术许可办公室、[[Clinical Trial|临床试验]]办公室等）。
+这一区分对大学如何组织产学合作有直接影响：因为学术参与天然是分散的、个人化的，大学很难像管理专利许可那样通过一个中心办公室来"管理"所有学术参与活动。正如 Boccanfuso & Hall（2025, pp.60–63）对 65 所美国研究型大学的实证分析所示，即便大学设立了"全面模式"的中心产学参与办公室，该办公室在大多数活动领域也只能充当"导航者"（navigator）或"[[Concierge Service|礼宾]]"（concierge），而非"直接负责者"（responsible）——真正有权签订合同和谈判条款的是分散在各处的专业单位（赞助项目办公室、技术许可办公室、[[Clinical Trial|临床试验]]办公室等）。
 
 ### 企业侧的组织对应：学术参与团队
 
@@ -161,16 +161,16 @@ AET 的资助结构（中央化运营预算、企业基金会、业务部门分�
 
 ### 组织特征
 
-学术参与在组织层面具有三个特征（Perkmann et al., 2013, pp.423–424；Boccanfuso & Hall, 2025, pp.53–54, 60–63）：
+学术参与在组织层面具有三个特征（Perkmann et al., 2013, pp.423–424；Boccanfuso & Hall, 2025b, pp.53–54, 60–63）：
 
 - **低组织嵌入性**：学术参与主要由学者个人或研究团队自主发起和维护，不像专利申请和许可那样必须经过大学中心办公室的正式流程。这意味着大学很难通过一个中心化的命令-控制结构来"管理"学术参与——它更像是需要"培育"而非"管理"的活动
 - **多触点性（multi-touchpoint）**：同一所大学可能同时有几十个教授在与不同企业合作——工学院的材料教授和汽车公司合作研发，商学院的营销教授和零售公司合作分析消费者数据，医学院的临床教授和制药公司合作临床试验——这些合作可能互相不知晓、使用不同的合同模板、遵循不同的时间节奏
-- **跨使命性**：学术参与超越传统的[[Technology Transfer|技术转移]]范畴，涉及教育（学生实习、课程设计、[[Executive Education|高管培训]]）、研究（赞助研究、联合发表、联合体）、临床（产业赞助临床试验）和经济发展（孵化器、[[Innovation Park|创新园区]]）等多个使命领域。Boccanfuso 和 Hall（2025, pp.57–59）的活动框架将学术参与置于五个使命领域（教育、研究、临床、辅助/行政、经济/社区发展）之中，揭示了其远超技术转移办公室传统管辖范围的多维性
+- **跨使命性**：学术参与超越传统的[[Technology Transfer|技术转移]]范畴，涉及教育（学生实习、课程设计、[[Executive Education|高管培训]]）、研究（赞助研究、联合发表、联合体）、临床（产业赞助临床试验）和经济发展（孵化器、[[Innovation Park|创新园区]]）等多个使命领域。Boccanfuso & Hall（2025, pp.57–59）的活动框架将学术参与置于五个使命领域（教育、研究、临床、辅助/行政、经济/社区发展）之中，揭示了其远超技术转移办公室传统管辖范围的多维性
 
 ### 实证发现
 
 > [!success]
-> Boccanfuso 和 Hall（2025, pp.64–67）对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的调查印证了学术参与的低组织嵌入性：
+> Boccanfuso & Hall（2025, pp.64–67）对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的调查印证了学术参与的低组织嵌入性：
 > - 中心产学参与办公室平均仅覆盖 12 个活动领域中的 3.5 个——绝大多数产学互动发生在中心办公室的管辖范围之外
 > - 产业关系官员分散在组织的各个角落：平均 26% 在学院/系（嵌入学术单位），25% 在中央科研办公室，仅 14% 在专门的产业关系办公室
 > - 84% 的大学设有指定产学参与办公室，但报告链高度分散：39% 向科研副校长报告，16% 向大学发展部门，13% 直接向校长，23% 为双线报告

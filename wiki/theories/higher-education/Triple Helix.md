@@ -48,6 +48,7 @@ related_arguments:
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -146,12 +147,12 @@ updated: 2026-06-10
 ## 组织维度：宏观整合理论与微观组织碎片化的张力
 
 > [!abstract]
-> Triple Helix 作为一个宏观制度理论，描述的是大学、产业和政府三个**制度领域**（institutional spheres）之间的交织关系。但理论本身没有直接回答：**在大学内部，这种交织应该由谁来组织、如何组织？** Boccanfuso 和 Hall（2025, p.52）以 Triple Helix 为制度背景，将分析焦点从三个领域之间的关系转向大学内部的组织结构——这是一个从宏观到微观的视角转换。
+> Triple Helix 作为一个宏观制度理论，描述的是大学、产业和政府三个**制度领域**（institutional spheres）之间的交织关系。但理论本身没有直接回答：**在大学内部，这种交织应该由谁来组织、如何组织？** Boccanfuso & Hall（2025, p.52）以 Triple Helix 为制度背景，将分析焦点从三个领域之间的关系转向大学内部的组织结构——这是一个从宏观到微观的视角转换。
 
 ### 理论链条：Triple Helix → Entrepreneurial University → UI 组织
 
 > [!note]
-> 三重螺旋的三个理论层次及其组织对应（Boccanfuso & Hall, 2025, pp.52–53）：
+> 三重螺旋的三个理论层次及其组织对应（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.52–53]]）：
 
 | 层次 | 理论/概念 | 分析对象 | Ch3 的贡献 |
 |------|----------|---------|-----------|
@@ -159,7 +160,7 @@ updated: 2026-06-10
 | **中观** | [[Entrepreneurial University]]（Etzkowitz et al., 2000） | 大学作为一个组织的战略转向——主动寻求产业合作 | 指出创业型大学的具体组织形态尚缺乏系统研究（p.52） |
 | **微观** | [[University-Industry Collaboration\|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是**导航者**而非**执行者**（pp.60–63） |
 
-这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和整合，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（Boccanfuso & Hall, 2025, pp.64–65）。
+这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和整合，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.64–65]]）。
 
 ### 理论意涵
 

@@ -28,6 +28,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
@@ -44,7 +45,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 创业型大学（Entrepreneurial University）是 Etzkowitz 等（2000）提出的大学组织模式，描述大学从传统的**象牙塔**（ivory tower）向主动参与经济和社会发展的机构转变。其核心特征是大学通过文化适应（adaptation of university culture）、创建新办公室和组织结构（creation of new offices and organizational structures），以及允许和激励个人和学术单位追求非传统产业资助（allowing and incentivizing individuals and academic units to pursue nontraditional industry funding），来主动寻求与产业的深度合作（Boccanfuso & Hall, 2025, p.52）。
+> 创业型大学（Entrepreneurial University）是 Etzkowitz 等（2000）提出的大学组织模式，描述大学从传统的**象牙塔**（ivory tower）向主动参与经济和社会发展的机构转变。其核心特征是大学通过文化适应（adaptation of university culture）、创建新办公室和组织结构（creation of new offices and organizational structures），以及允许和激励个人和学术单位追求非传统产业资助（allowing and incentivizing individuals and academic units to pursue nontraditional industry funding），来主动寻求与产业的深度合作（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.52]]）。
 
 这一概念与 [[Triple Helix]] 理论紧密相关——创业型大学是三重螺旋中大学一端的制度化表现。
 

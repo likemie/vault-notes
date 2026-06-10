@@ -31,6 +31,7 @@ related_facts:
   - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
@@ -45,7 +46,7 @@ updated: 2026-06-05
 ## 背景
 
 > [!info]
-> 美国国家科学基金会（National Science Foundation, NSF）是 1950 年根据 Vannevar Bush 报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）的建议创建的美国独立联邦机构（Boccanfuso & Hall, 2025, p.13）。该报告强调基础研究和开放式研究对美国国家战略的重要性，NSF 由此成为联邦政府资助大学基础研究的核心渠道。NSF 的资助机制深刻塑造了二战后美国大学的研究体系，也是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等后续[[University-Industry Collaboration|产学合作]]政策运作的制度基础（p.13）。
+> 美国国家科学基金会（National Science Foundation, NSF）是 1950 年根据 Vannevar Bush 报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）的建议创建的美国独立联邦机构（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.13]]）。该报告强调基础研究和开放式研究对美国国家战略的重要性，NSF 由此成为联邦政府资助大学基础研究的核心渠道。NSF 的资助机制深刻塑造了二战后美国大学的研究体系，也是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等后续[[University-Industry Collaboration|产学合作]]政策运作的制度基础（p.13）。
 
 ## 在产学合作中的角色
 

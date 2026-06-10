@@ -29,6 +29,7 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: medium
@@ -46,14 +47,14 @@ updated: 2026-06-03
 > [!info]
 > [[Technology Transfer|技术转移]]办公室（Technology Transfer Office, TTO）是大学内部负责[[Technology Transfer|技术转移]]操作的专业职能部门。其核心职责包括协商知识产权许可条款、评估技术的可专利性和商业化前景、管理专利申请与维护、以及支持[[University Spin-Out|大学衍生企业]]的创建。TTO 通常隶属于大学的科研副校长（Vice President of Research），与合同与拨款办公室（Contracts and Grants Office）和赞助项目办公室（Sponsored Programs Office, SPO）并列，有时合并到企业参与办公室（Office of Corporate Engagement）（p.14）。
 
-Debackere 和 Veugelers（2005）指出，TTO 可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（Boccanfuso & Hall, 2025, p.54）。
+Debackere 和 Veugelers（2005）指出，TTO 可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
 ---
 
 ## 组织定位
 
 > [!abstract]
-> TTO 是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的直接组织后果之一。该法案赋予大学对联邦资助发明的所有权后，大学必须在内部建立专门的组织单位来管理知识产权商业化。Boccanfuso 和 Hall（2025, pp.60–63）对 65 所大学的组织分析显示，TTO 和 SPO 构成了大学[[University-Industry Collaboration|产学参与]]的基础设施单元。
+> TTO 是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的直接组织后果之一。该法案赋予大学对联邦资助发明的所有权后，大学必须在内部建立专门的组织单位来管理知识产权商业化。Boccanfuso & Hall（2025, pp.60–63）对 65 所大学的组织分析显示，TTO 和 SPO 构成了大学[[University-Industry Collaboration|产学参与]]的基础设施单元。
 
 在产学合作的日常分工中（p.14, Susalka & Carbone, 2025, pp.284–285）：
 
@@ -116,7 +117,7 @@ TTO 工作人员在谈判过程中应主动向 PI 通报 IP 条款的关键内�
 ## 管辖边界
 
 > [!warning]
-> TTO 的管辖范围天然局限在[[Technology Transfer|技术转移]]的**正式端**（专利、许可、合同），无法覆盖[[University-Industry Collaboration|产学合作]]的全谱系。Boccanfuso 和 Hall（2025, pp.62–67）对 65 所大学的调查显示，即使在设有中心企业关系办公室的大学中，办公室平均仅覆盖 12 个活动领域中的 3.5 个。临床和辅助活动极少被提及。
+> TTO 的管辖范围天然局限在[[Technology Transfer|技术转移]]的**正式端**（专利、许可、合同），无法覆盖[[University-Industry Collaboration|产学合作]]的全谱系。Boccanfuso & Hall（2025, pp.62–67）对 65 所大学的调查显示，即使在设有中心企业关系办公室的大学中，办公室平均仅覆盖 12 个活动领域中的 3.5 个。临床和辅助活动极少被提及。
 
 TTO 擅长管理知识产权交易，但[[University-Industry Collaboration|产学合作]]中的教育合作、学生实习、非正式[[Knowledge Exchange|知识交流]]等多样化和分散化的互动形式，超出了 TTO 的制度能力。这一边界不是组织缺陷，而是劳动分工的必然结果。大学的应对策略往往是将 TTO 嵌入更广泛的企业参与架构中——如设立集中的企业关系办公室以[[Concierge Service|礼宾]]角色引导企业在多个领域与大学互动，或通过 SPO 和 OGC 的协作来覆盖合同与合规维度。
 

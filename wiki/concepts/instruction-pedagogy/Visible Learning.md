@@ -13,8 +13,8 @@ tags:
   - level/k12
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[Evidence-Based Reform]]"
   - "[[Scientism]]"
   - "[[Variable]]"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Professional Judgment]]"
   - "[[Homework]]"
-  - "[[Knowledge Mobilisation]]"
   - "[[Problem-Based Learning]]"
   - "[[Feedback]]"
   - "[[Individualised Instruction]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[School Leadership]]"
   - "[[Sage]]"
+  - "[[Knowledge Mobilisation]]"
   - "[[Technical Rationality]]"
   - "[[New Public Management]]"
   - "[[Constructivist Paradigm]]"
@@ -53,9 +53,9 @@ related_theories:
   - "[[Appraisal Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Observational and Correlational Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
@@ -82,13 +82,13 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2009]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
+  - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Rømer_2018]]"
@@ -271,45 +271,38 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 ---
 
-> [!abstract] 高等教育应用
-> Hattie（2015）在高等教育语境中提炼出六项高影响条件，并汇总了各类教学活动的效应量证据。
+> [!abstract] 高等教育应用（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.80–81]]）
+> 影响不仅通过测试分数衡量，也通过学生投入程度、对错误的容忍度、合作意愿与高度兴趣体现。
 
-### 高等教育的六项关键发现
+> [!stat-cards] 六项高影响条件
+> | 条件 | d | 说明 |
+> |------|---|------|
+> | 评估自身影响力 / 教师合作 | 0.91 | 教师相信主要角色是评估自身影响力；与同事合作了解和评估影响 |
+> | 先前学习 | 0.85 | 基于学生带到课堂的先前知识进行教学 |
+> | 明确成功标准 | 0.77 | 在系列课程开始时告知学生成功标准 |
+> | 最优表深层比例 | 0.71 | 实施具有最优[[Surface and Deep Learning\|表层/深层学习]]比例的方案 |
+> | 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
 
-Hattie（2015, pp.80–81）在高等教育语境中概括了六项高影响条件：
-
-| 条件 | d | 说明 |
-|------|---|------|
-| 评估自身影响力 | 0.91 | 教师相信主要角色是评估自身的影响力 |
-| 教师合作 | 0.91 | 合作了解和评估自身影响 |
-| 先前学习 | 0.85 | 基于学生带到课堂的先前知识进行教学 |
-| 明确成功标准 | 0.77 | 在系列课程开始时告知学生成功标准 |
-| 最优表深层比例 | 0.71 | 实施具有最优[[Surface and Deep Learning\|表层/深层学习]]比例的方案 |
-| 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
-
-影响不仅通过测试分数衡量，也通过学生投入程度、对错误的容忍度、合作意愿与高度兴趣体现（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]]）。
-
-### 高等教育情境中的应用发现
-
-> [!evidence-grid-a] 课程设计与教学方式
-> - **[[Problem-Based Learning|问题式学习（PBL）]]**（9项元分析）：总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（Dochy et al. 2003，d=−0.79）。引入时机比形式本身更关键——新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.84–85]]）。
-> - **在线/远程 vs 面授**（17项元分析）：两种方式成绩无显著差异（d≈0.12）。方法本身不重要，重要的是明确成功标准、设置挑战与[[Feedback|反馈]]质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.86]]）。
-
-> [!evidence-grid-b] 评价、互动与综合效果
-> - **学生评教**（7项元分析，141研究）：与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否使用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.86–87]]）。
-> - **笔记与回顾**：记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.84]]）。
-> - **综合效果**（197项大学教学活动，Tomcho & Foels, 2008）：几乎全部正向；知识 d=0.57、态度 d=0.27、行为/技能 d=0.39、成绩 d=0.31（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.80]]）。
+> [!finding-cards] 应用发现
+> 1. **[[Problem-Based Learning|问题式学习（PBL）]]**（9项元分析）— 总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（d=−0.79）。引入时机比形式本身更关键，新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.84–85]]）。
+> 2. **在线 / 远程 vs 面授**（17项元分析）— 成绩无显著差异（d≈0.12）。方法本身不重要，重要的是成功标准、挑战与[[Feedback|反馈]]质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.86]]）。
+> 3. **学生评教**（7项元分析，141研究）— 与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否利用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.86–87]]）。
+> 4. **笔记与回顾** — 记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.84]]）。
 
 ---
 
 
 ## 概念发展
 
-> [!nav] 发展导览
-> VL 的历史最好按功能分三段来读，而不是只按年份读：
-> - **形成阶段**：从 asTTle/e-asTTle 到 2009 年 *Visible Learning* 的出版，核心是把分散研究变成一张影响地图。
-> - **扩张阶段**：通过 VLplus、培训、认证、读写和数学等衍生产品，把研究项目变成学校改进基础设施。
-> - **制度化阶段**：进入各国政策与学校改进语境后，VL 开始承担的不只是研究说明功能，也承担合法化、管理和品牌传播功能。
+> [!dev-timeline] 概念发展
+> 
+> 1. **1987–1992 — 前史：元综合积累**  Hattie 参与 Fraser-Walberg 团队首次大规模元综合（1987），1992 年独立完成 134 项元分析、22,155 个效应量，确立 d=0.40 关节点和"通用连续体"概念，奠定 2009 年著作的核心量化框架。
+> 
+> 2. **1999–2009 — 新西兰起源与出版**  受教育部委托开发 asTTle/e-asTTle（1999/2000）积累测量工具；2006 年 Auckland Uniservices 注册商标、创建 VL Labs；2009 年 *Visible Learning* 出版，*Sunday STAR Times* 头版引发媒体风暴；Hattie 同年系统性回应 Snook 等人的早期批评。
+> 
+> 3. **2010–2018 — 商业化与跨国品牌扩张**  Cognition Education 接手商业平台（2010），第一年收入近 2M；通过 Macmillan、James Nottingham Associates、Osiris、Corwin 区域授权将 VL 变成工作坊与认证品牌；品牌家族扩展为 VL for Literacy / Mathematics / Wellbeing；2018 年 Corwin（Sage 集团）收购 VLplus，完成从教育研究到全球专业发展产品的转手。
+> 
+> 4. **2014–　全球政策采纳与制度化反弹**  VL 进入至少 23 国政策话语；澳大利亚与新西兰触发自下而上的"第三面"；丹麦 2014 年公立学校改革引用 VL 后引发激烈反弹；斯堪的纳维亚研究者将 VL 重写为"改进起点而非技术菜单"；Hattie 本人开始与"结果的暴政"保持距离，但品牌对学术批评表现出显著免疫力。
 
 
 ### 前史：Hattie 的元综合积累（1987–1992）

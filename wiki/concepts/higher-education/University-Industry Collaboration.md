@@ -97,6 +97,7 @@ related_arguments:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: medium
 status: draft
@@ -125,7 +126,7 @@ updated: 2026-06-05
 ## 概念辨析
 
 > [!example]
-> **产学关系 vs 产学参与**：Boccanfuso 和 Hall（2025）明确区分了单纯的产学"关系"（relationships）和有目的的产学"参与"（engagement）。关系可以是松散的、非正式的——每年一次联谊会、企业顾问委员会的空衔——而参与则以正式协议为框架，涉及具体的资金支付、知识产权安排和交付物要求。全书的核心理念是"力量和影响力不仅仅来自大学与企业之间的关系，而是在研究与学术、教育与学习以及公共效益方面的参与"（p.4）。
+> **产学关系 vs 产学参与**：Boccanfuso & Hall（2025）明确区分了单纯的产学"关系"（relationships）和有目的的产学"参与"（engagement）。关系可以是松散的、非正式的——每年一次联谊会、企业顾问委员会的空衔——而参与则以正式协议为框架，涉及具体的资金支付、知识产权安排和交付物要求。全书的核心理念是"力量和影响力不仅仅来自大学与企业之间的关系，而是在研究与学术、教育与学习以及公共效益方面的参与"（p.4）。
 
 > [!example]
 > **与 [[Technology Transfer]] 的关系**：[[Technology Transfer|技术转移]]是产学合作的一个具体维度——它关注的是知识产权从大学向商业应用的流动。产学合作的范围更广，还涵盖赞助研究、人才培养、联合体和战略联盟等形式。技术转移可以是产学合作的起点（发明已完成，寻找商业化伙伴），也可以是产学合作的产出（赞助研究产生了新知识产权）。
@@ -369,7 +370,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 组织模式
 
 > [!abstract]
-> Boccanfuso 和 Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和问卷调查，识别出大学产学参与中心办公室的五种常见组织模式（Boccanfuso & Hall, 2025, pp.60–62）：
+> Boccanfuso & Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和问卷调查，识别出大学产学参与中心办公室的五种常见组织模式（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.60–62]]）：
 
 1. **科研办公室模式（Office of Research）**：由科研副校长办公室主管，聚焦[[Technology Transfer|技术转移]]、初创企业、企业赞助研究和经济发展——最常见于研究型大学（约 25%）
 2. **经济发展/政府关系模式（Economic Development/Government Relations）**：面向催化经济活动的政府关系，多见于公立大学，聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持和地方/州政府伙伴关系（约 3%）
@@ -380,9 +381,9 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 另有少数大学完全去中心化，没有集中办公室。
 
 > [!warning]
-> 但没有任何一个模式是真正全面的：中心办公室的典型角色是"导航者"（navigator）或"礼宾"（[[Concierge Service|concierge]]），而非直接的"负责者"（responsible）。临床和辅助活动极少在中心办公室的网站描述中被提及；办公室平均仅覆盖 12 个活动领域中的 3.5 个。协议执行仍分散在专业单位中——赞助项目办公室处理赞助研究合同、技术许可办公室处理知识产权许可、[[Clinical Trial|临床试验]]办公室处理临床研究（Boccanfuso & Hall, 2025, pp.62–67）。
+> 但没有任何一个模式是真正全面的：中心办公室的典型角色是"导航者"（navigator）或"礼宾"（[[Concierge Service|concierge]]），而非直接的"负责者"（responsible）。临床和辅助活动极少在中心办公室的网站描述中被提及；办公室平均仅覆盖 12 个活动领域中的 3.5 个。协议执行仍分散在专业单位中——赞助项目办公室处理赞助研究合同、技术许可办公室处理知识产权许可、[[Clinical Trial|临床试验]]办公室处理临床研究（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.62–67]]）。
 
-调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（Boccanfuso & Hall, 2025, pp.67–68）。
+调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.67–68]]）。
 
 > [!note] [[Academic Health System|学术健康系统]]：组织模式的补充
 > Swick 和 Jones（2025, pp.179–181）在传统五种大学组织模式之外，识别了[[Academic Health System|学术健康系统]]（Academic Health System, AHS）作为一种独特的产学合作组织载体。AHS 混合了学术、临床和产业三种逻辑，以"中心辐射"网络和双向学术管线为结构特征，在产学合作中扮演促进者（facilitator）而非仅仅是参与者。这一组织形态突破了前述五种模式的分类框架（均以大学为中心），提示产学合作的组织载体可能不限于传统的大学结构。详见 [[Academic Health System]]。

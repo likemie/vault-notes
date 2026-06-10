@@ -25,6 +25,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[TUFF]]"
 related_arguments:
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
@@ -37,16 +38,16 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 创新园区（Innovation Park / [[Innovation Hub|research park]]）是大学拥有或运营的、专为容纳产业合作伙伴和促进产学互动而建设的物理空间。它包括孵化器（面向早期初创企业）、研究园区（面向成熟企业的研发设施）和科技园区（面向多公司、多产业的创新集群）（Boccanfuso & Hall, 2025, pp.58, 60）。
+> 创新园区（Innovation Park / [[Innovation Hub|research park]]）是大学拥有或运营的、专为容纳产业合作伙伴和促进产学互动而建设的物理空间。它包括孵化器（面向早期初创企业）、研究园区（面向成熟企业的研发设施）和科技园区（面向多公司、多产业的创新集群）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.58, 60]]）。
 
 在[[University-Industry Collaboration|产学合作]]中，创新园区属于经济/社区发展维度的基础设施——它通过地理邻近性促进大学研究人员与企业研发人员之间的日常互动，降低合作的信息成本和沟通成本。
 
 ## 核心要素
 
 > [!abstract]
-> - **孵化器（Incubator）**：为早期初创企业提供低成本的办公和实验空间、商业指导、融资对接等服务。Ch3 调查显示 89% 的大学提供非生命科学类孵化器，81% 提供生命科学类孵化器（Boccanfuso & Hall, 2025, p.64）
-> - **企业入驻空间**：为成熟企业在大学园区内提供办公或研发设施。84% 的大学为企业提供校内建筑空间（Boccanfuso & Hall, 2025, p.64）
-> - **研究/创新园区**：更大规模的多功能园区，整合孵化器、企业研发中心、大学实验室和公共设施。68% 的大学拥有或运营此类园区（Boccanfuso & Hall, 2025, p.64）
+> - **孵化器（Incubator）**：为早期初创企业提供低成本的办公和实验空间、商业指导、融资对接等服务。Ch3 调查显示 89% 的大学提供非生命科学类孵化器，81% 提供生命科学类孵化器（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
+> - **企业入驻空间**：为成熟企业在大学园区内提供办公或研发设施。84% 的大学为企业提供校内建筑空间（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
+> - **研究/创新园区**：更大规模的多功能园区，整合孵化器、企业研发中心、大学实验室和公共设施。68% 的大学拥有或运营此类园区（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
 
 ## 概念辨析
 
@@ -57,7 +58,7 @@ updated: 2026-05-27
 ## 实证发现
 
 > [!success]
-> Boccanfuso 和 Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的调查显示：
+> Boccanfuso & Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的调查显示：
 > - 89% 提供非生命科学类初创企业孵化器
 > - 84% 为企业提供大学自有建筑内的办公空间
 > - 84% 设有初创企业投资项目

@@ -42,6 +42,7 @@ related_facts:
   - "[[Thousand Talents Program]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -149,17 +150,17 @@ updated: '2026-05-18'
 ### 定义
 
 > [!info]
-> 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，知识转移（[[Knowledge Exchange|knowledge transfer]]）指知识在大学与产业之间的流动——包括从非正式的个人交流到高度结构化的合同协议的全谱系（Boccanfuso & Hall, 2025, p.55）。
+> 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，知识转移（[[Knowledge Exchange|knowledge transfer]]）指知识在大学与产业之间的流动——包括从非正式的个人交流到高度结构化的合同协议的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）。
 
-与[[Technology Transfer|技术转移]]不同，知识转移是一个更宽泛的概念：技术转移特指通过知识产权制度（专利、许可、衍生企业）进行的**商业化导向**的知识流动，而知识转移还包括非商业化的、非正式的知识流动——学术文献、会议报告、校友网络中的信息交流、学生实习中的技能传递，以及教师咨询中的隐性知识分享（Boccanfuso & Hall, 2025, pp.53–55）。
+与[[Technology Transfer|技术转移]]不同，知识转移是一个更宽泛的概念：技术转移特指通过知识产权制度（专利、许可、衍生企业）进行的**商业化导向**的知识流动，而知识转移还包括非商业化的、非正式的知识流动——学术文献、会议报告、校友网络中的信息交流、学生实习中的技能传递，以及教师咨询中的隐性知识分享（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）。
 
 > [!quote]
-> "Knowledge sharing and technology transfer are common components, but the exact form varies over a spectrum from informal conversations to highly structured contractual agreements."（Boccanfuso & Hall, 2025, p.55）
+> "Knowledge sharing and technology transfer are common components, but the exact form varies over a spectrum from informal conversations to highly structured contractual agreements."（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）
 
 ### 转移渠道：正式与非正式
 
 > [!example]
-> Boccanfuso 和 Hall（2025, pp.54–55）总结了产学知识转移的多种渠道，分布于一个从非正式到正式的连续体上：
+> Boccanfuso & Hall（2025, pp.54–55）总结了产学知识转移的多种渠道，分布于一个从非正式到正式的连续体上：
 
 **非正式渠道**（不涉及合同或机构协议）：
 - 学术文献和会议报告——公开发表的知识，对所有人开放
@@ -177,21 +178,21 @@ updated: '2026-05-18'
 - 合资企业和联合体
 - 数据与材料转移协议
 
-Cohen et al.（2002）系统记录了这些多样化的渠道，并指出不同渠道在不同产业和不同大学中的重要性差异显著（转引自 Boccanfuso & Hall, 2025, p.54）。
+Cohen et al.（2002）系统记录了这些多样化的渠道，并指出不同渠道在不同产业和不同大学中的重要性差异显著（转引自 Boccanfuso & Hall, 2025b, p.54）。
 
 ### 组织载体：知识转移办公室
 
 > [!note]
-> 在大学组织层面，知识转移通常由知识转移办公室（Knowledge Transfer Offices, KTOs）或[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Offices, TTOs）负责（Boccanfuso & Hall, 2025, p.54）。
+> 在大学组织层面，知识转移通常由知识转移办公室（Knowledge Transfer Offices, KTOs）或[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Offices, TTOs）负责（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
-Brescia et al.（2016）对 200 所高排名大学的调查发现，知识转移的组织方式存在显著差异——有的采用内部专门办公室，有的依赖外部机构，有的嵌入科研副校长办公室——没有统一的标准模式（转引自 Boccanfuso & Hall, 2025, p.54）。
+Brescia et al.（2016）对 200 所高排名大学的调查发现，知识转移的组织方式存在显著差异——有的采用内部专门办公室，有的依赖外部机构，有的嵌入科研副校长办公室——没有统一的标准模式（转引自 Boccanfuso & Hall, 2025b, p.54）。
 
-Debackere 和 Veugelers（2005）进一步指出，有效的知识转移办公室需要同时扮演两种角色："信息科学链接"（information science links）——连接分散的研究团队与产业伙伴，以及"交易专家"（transaction specialists）——在许可谈判中精确定义权利和义务（转引自 Boccanfuso & Hall, 2025, p.54）。这两种角色对应知识转移的两种基本功能：**建立联系**（非正式/半正式端）和**管理交易**（正式端）。
+Debackere 和 Veugelers（2005）进一步指出，有效的知识转移办公室需要同时扮演两种角色："信息科学链接"（information science links）——连接分散的研究团队与产业伙伴，以及"交易专家"（transaction specialists）——在许可谈判中精确定义权利和义务（转引自 Boccanfuso & Hall, 2025b, p.54）。这两种角色对应知识转移的两种基本功能：**建立联系**（非正式/半正式端）和**管理交易**（正式端）。
 
 ### 概念辨析
 
 > [!example]
-> - vs [[Technology Transfer]] — 技术转移是知识转移的一个**子集**，特指通过正式知识产权制度（专利、许可、衍生企业）进行的商业化导向的知识流动。知识转移的范围更广，包括了非正式和非商业化的知识流动形式（Boccanfuso & Hall, 2025, pp.53–55）
-> - vs [[Knowledge Exchange]] — 在产学合作文献中，知识交换（Knowledge Exchange）通常暗示双方在更对等的基础上进行双向知识流动，政治敏感性较低；知识转移则更中性，涵盖各种流向。Boccanfuso 和 Hall（2025）未严格区分二者，但 Ch3 更倾向于使用 "engagement" 来涵盖从知识转移到联合创造的全谱系
+> - vs [[Technology Transfer]] — 技术转移是知识转移的一个**子集**，特指通过正式知识产权制度（专利、许可、衍生企业）进行的商业化导向的知识流动。知识转移的范围更广，包括了非正式和非商业化的知识流动形式（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）
+> - vs [[Knowledge Exchange]] — 在产学合作文献中，知识交换（Knowledge Exchange）通常暗示双方在更对等的基础上进行双向知识流动，政治敏感性较低；知识转移则更中性，涵盖各种流向。Boccanfuso & Hall（2025）未严格区分二者，但 Ch3 更倾向于使用 "engagement" 来涵盖从知识转移到联合创造的全谱系
 > - vs [[Academic Engagement|学术参与]]（产学） — Perkmann et al.（2013）的"学术参与"概念与知识转移有重叠但侧重不同：学术参与强调**学者的个人行为**（咨询、联合研究、会议交流），知识转移强调**知识本身的流动过程**和**制度安排**。前者侧重行动者，后者侧重对象和渠道
 

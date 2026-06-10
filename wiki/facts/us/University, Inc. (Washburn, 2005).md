@@ -41,7 +41,7 @@ updated: 2026-05-26
 ## 影响与争议
 
 > [!warning]
-> Washburn 的批判是[[University-Industry Collaboration|产学合作]]讨论中最常被引用的批评声音之一。Boccanfuso 和 Hall（2025）在引出这一批评后，同时呈现了反方观点（p.10）：
+> Washburn 的批判是[[University-Industry Collaboration|产学合作]]讨论中最常被引用的批评声音之一。Boccanfuso & Hall（2025）在引出这一批评后，同时呈现了反方观点（p.10）：
 
 - **Washburn 的立场**：功利主义、市场模式的大学威胁要消除学术研究文化的独特性
 - **反方观点**：如果没有产业贡献的独特技能、基础设施和"活实验室"（living laboratory）的观察测试可能性，许多新颖的研究可能根本无法进行。问题不在于是否合作，而在于如何在合作中保护[[Academic Freedom|学术自由]]和公共利益

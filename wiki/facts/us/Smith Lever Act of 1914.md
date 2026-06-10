@@ -32,7 +32,7 @@ updated: 2026-05-26
 ## 内容
 
 > [!info]
-Smith Lever Act 于 1914 年通过，在 [[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）建立的赠地大学体系中进一步设立了农业推广服务（agricultural extension services）。它使用联邦资金直接支持美国的农业产业，"通过连接研究与实际应用来开发和改良作物"（p.11）。Boccanfuso 和 Hall（2025）指出，这一推广服务"延续至今"。
+Smith Lever Act 于 1914 年通过，在 [[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）建立的赠地大学体系中进一步设立了农业推广服务（agricultural extension services）。它使用联邦资金直接支持美国的农业产业，"通过连接研究与实际应用来开发和改良作物"（p.11）。Boccanfuso & Hall（2025）指出，这一推广服务"延续至今"。
 
 ## 在产学合作史中的位置
 
