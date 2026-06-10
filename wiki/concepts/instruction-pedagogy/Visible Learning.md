@@ -376,9 +376,6 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > [!warning] 对[[Heterogeneity|异质性]]的回应
 > Hattie 不否认[[Heterogeneity|异质性]]，而是要求把异质性转化为[[Research Question|研究问题]]。例如反馈的平均效应很强，但反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用"反馈有效"替代对具体机制的判断（Hattie, 2015, p.11；Higgins, 2016, p.45）。
 
-> [!nav] 这一节的边界
-> 这里仅保留"VL 自己声称发现了什么"。如果想看这些发现为什么被质疑，直接跳到 [[Critiques of Visible Learning]]；如果想看这些数字本身怎么解释，跳到 [[Effect Size]]。
-
 ---
 
 ## 争议与批评
