@@ -1366,11 +1366,38 @@
   line-height: 1.7;
 }
 
+/* ─── li 内 col-l + col-r（timeline 等列表内分栏）───── */
+/* 当 <li> 内包含相邻 col-l + col-r 时，li 变为双列 grid */
+.callout li:has(> .callout[data-callout="col-l"]
+                + .callout[data-callout="col-r"]) {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  align-items: start;
+}
+
+/* li 内的导语段落跨满两列 */
+.callout li:has(> .callout[data-callout="col-l"]
+                + .callout[data-callout="col-r"]) > :first-child {
+  grid-column: 1 / -1;
+}
+
+/* li 内 col-l / col-r 不额外占边距 */
+.callout li:has(> .callout[data-callout="col-l"]
+                + .callout[data-callout="col-r"]) > .callout[data-callout="col-l"],
+.callout li:has(> .callout[data-callout="col-l"]
+                + .callout[data-callout="col-r"]) > .callout[data-callout="col-r"] {
+  min-width: 0;
+  margin: 0;
+}
+
 /* ─── 移动端：单列堆叠 ──────────────────────────────── */
 @media (max-width: 640px) {
   .callout:has(> .callout-content > .callout[data-callout="col-l"]
                       + .callout[data-callout="col-r"])
-    > .callout-content {
+    > .callout-content,
+  .callout li:has(> .callout[data-callout="col-l"]
+                   + .callout[data-callout="col-r"]) {
     grid-template-columns: 1fr;
   }
 }
