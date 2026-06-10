@@ -1088,71 +1088,80 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   SIDE COLUMNS — 左右分栏（用于 info / abstract 内嵌并列内容）
+   SIDE COLUMNS — 左右分栏（内嵌于 info / abstract）
+   当父 callout 的 .callout-content 内出现相邻 col-l + col-r 时，
+   父容器自动变为 2 列 grid；导语段落跨满两列；移动端单列堆叠。
    ═══════════════════════════════════════════════════════════ */
 
-/* ─── col-l / col-r — 自动左右分栏 ───────────────────── */
-/* 两个相邻时自动拼合为并排 2 列；嵌套在父 callout 内使用 */
-/* 用法：> > [!col-l] 标题\n> > 正文    > > [!col-r] 标题\n> > 正文 */
-
-.callout[data-callout="col-l"],
-.callout[data-callout="col-r"] {
-  --callout-color: 95, 121, 149;
-  --callout-icon: none;
-  display: inline-block;
-  width: calc(50% - 0.55rem);
-  vertical-align: top;
-  background: rgba(95, 121, 149, 0.05);
-  border: 1px solid rgba(95, 121, 149, 0.13);
-  border-radius: 8px;
-  padding: 0.45rem 0.8rem 0.4rem;
-  margin: 0.2rem 0 0.3rem;
-  box-shadow: none;
-  overflow: visible;
+/* ─── 父容器 → 2 列 Grid ────────────────────────────── */
+.callout:has(> .callout-content > .callout[data-callout="col-l"]
+                    + .callout[data-callout="col-r"])
+  > .callout-content {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  align-items: start;
 }
 
-.callout[data-callout="col-l"] + .callout[data-callout="col-r"] {
-  margin-left: 1rem;
+/* 导语 <p> 跨满整行 */
+.callout:has(> .callout-content > .callout[data-callout="col-l"]
+                    + .callout[data-callout="col-r"])
+  > .callout-content > :first-child {
+  grid-column: 1 / -1;
+}
+
+/* grid 内 col-l / col-r 不额外占边距 */
+.callout:has(> .callout-content > .callout[data-callout="col-l"]
+                    + .callout[data-callout="col-r"])
+  > .callout-content > .callout[data-callout="col-l"],
+.callout:has(> .callout-content > .callout[data-callout="col-l"]
+                    + .callout[data-callout="col-r"])
+  > .callout-content > .callout[data-callout="col-r"] {
+  min-width: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* ─── 卡片本体 — 轻量，区别于外层 callout ──────────── */
+.callout[data-callout="col-l"],
+.callout[data-callout="col-r"] {
+  --callout-color: 88, 110, 140;
+  --callout-icon: none;
+  background: rgba(88, 110, 140, 0.045);
+  border: 1px solid rgba(88, 110, 140, 0.14);
+  border-left: 3px solid rgba(88, 110, 140, 0.24);
+  border-radius: 8px;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
 }
 
 .callout[data-callout="col-l"] > .callout-title,
 .callout[data-callout="col-r"] > .callout-title {
-  font-size: 0.94em;
-  padding-bottom: 0.2rem;
-  border-bottom: 1px solid rgba(95, 121, 149, 0.12);
-  margin-bottom: 0.35rem;
-  letter-spacing: 0.025em;
+  padding: 0.4rem 0.75rem 0.28rem;
+  border-bottom: 1px solid rgba(88, 110, 140, 0.10);
+  font-size: 0.9em;
   font-weight: 650;
-  color: rgb(95, 121, 149);
+  letter-spacing: 0.02em;
+  color: rgb(88, 110, 140);
+  background: rgba(88, 110, 140, 0.035);
 }
 
 .callout[data-callout="col-l"] > .callout-content,
 .callout[data-callout="col-r"] > .callout-content {
-  line-height: 1.65;
-  font-size: 0.95em;
+  padding: 0.4rem 0.75rem 0.45rem;
+  font-size: 0.93em;
+  line-height: 1.7;
 }
 
-/* 当 col-l 和 col-r 不在父 callout 内，而是顶层时，保留间距 */
-.callout[data-callout="col-l"]:not(.callout .callout) {
-  margin-bottom: 0.5rem;
-}
-
-/* 移动端堆叠 */
+/* ─── 移动端：单列堆叠 ──────────────────────────────── */
 @media (max-width: 640px) {
-  .callout[data-callout="col-l"],
-  .callout[data-callout="col-r"] {
-    display: block;
-    width: 100%;
+  .callout:has(> .callout-content > .callout[data-callout="col-l"]
+                      + .callout[data-callout="col-r"])
+    > .callout-content {
+    grid-template-columns: 1fr;
   }
-  .callout[data-callout="col-l"] + .callout[data-callout="col-r"] {
-    margin-left: 0;
-    margin-top: 0.5rem;
-  }
-}
-
-/* ─── 强制清除 inline-block 间隙 ───────────────────── */
-.callout-content:has(> .callout[data-callout="col-l"] + .callout[data-callout="col-r"]) {
-  word-spacing: 0;
 }
 
 
