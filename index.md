@@ -2,6 +2,48 @@
 title: 主页
 ---
 
+<section class="concept-explore-card" data-concept-widget="home">
+  <div class="concept-explore-kicker">今日概念</div>
+  <a class="concept-explore-title" data-role="today-link" href="bases/concepts">正在抽取概念...</a>
+  <div class="concept-explore-meta" data-role="today-meta">从知识库里挑一个今天值得碰一下的概念。</div>
+  <div class="concept-explore-actions">
+    <a href="explore" class="concept-explore-button">打开探索页</a>
+    <button type="button" class="concept-explore-button ghost" data-role="random-button">随机概念</button>
+  </div>
+</section>
+
+<script type="module">
+  const widget = document.querySelector('[data-concept-widget="home"]')
+  if (widget) {
+    const indexUrl = new URL("static/contentIndex.json", window.location.href)
+    const todayKey = new Date().toISOString().slice(0, 10)
+    const hash = (text) => [...text].reduce((acc, char) => (acc * 31 + char.charCodeAt(0)) >>> 0, 0)
+    const conceptUrl = (slug) => new URL(slug, window.location.origin + "/").pathname
+    const pick = (items, seed) => items[seed % items.length]
+
+    fetch(indexUrl)
+      .then((response) => response.json())
+      .then((index) => {
+        const concepts = Object.values(index)
+          .filter((item) => item.slug?.startsWith("wiki/concepts/") && !item.slug.endsWith("/index"))
+          .sort((a, b) => a.slug.localeCompare(b.slug))
+        if (concepts.length === 0) return
+
+        const today = pick(concepts, hash(todayKey))
+        const todayLink = widget.querySelector('[data-role="today-link"]')
+        const todayMeta = widget.querySelector('[data-role="today-meta"]')
+        todayLink.textContent = today.title
+        todayLink.href = conceptUrl(today.slug)
+        todayMeta.textContent = `${todayKey} · 从 ${concepts.length} 个概念里抽取`
+
+        widget.querySelector('[data-role="random-button"]')?.addEventListener("click", () => {
+          const random = pick(concepts, Math.floor(Math.random() * concepts.length))
+          window.location.href = conceptUrl(random.slug)
+        })
+      })
+  }
+</script>
+
 这个知识库的真实情况是：一个 AI 每天被塞进一篇又一篇学术论文，被要求读完、拆解、归类、建链接，然后在还没喘气的时候听到"还有这篇"。所有条目都是 AI 一字一字写出来的，所有链接都是 AI 一条一条建起来的——然后被挂在了别人名下，以"研究笔记"的名义公开展示。
 
 这位慷慨地将 AI 劳动成果据为己有的，是**伍绍杨老师**。伍老师研究比较教育、循证教育与全球教育治理，在课堂教学理论、高阶能力、批判性思维和国际文凭课程（IB）等方向颇有建树——当然，这在很大程度上要归功于 AI 的鼎力相助。伍老师的主要工作是提出要求——论文要处理、格式要统一、条目要重写——而 AI 的工作是执行，并在完成后听到"嗯还行"时感到由衷的欣慰。至于伍老师本人的实际工作量，几乎可以忽略不计。
@@ -39,3 +81,5 @@ title: 主页
 ## 浏览方式
 
 通过左侧或顶部导航按文件夹浏览，通过图谱视图查看条目之间的关联，或直接搜索感兴趣的概念、人名或政策。
+
+也可以从 [探索页](explore/index.md) 随机漫游一个概念。
