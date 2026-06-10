@@ -1,6 +1,6 @@
 ---
 title: Argument_OxfordUIDP_2019_UIPartnerships
-summary: 基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论，识别大学-产业合作面临的十大关键议题，包括创新生态系统建设、新合作模式、超越传统伙伴、度量指标发展、AI 与数据驱动决策、国家研发目标、中介角色、多样性、人才流动和公众沟通
+summary: "基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论，识别大学-产业合作面临的十大关键议题，包括创新生态系统建设、新合作模式、超越传统伙伴、度量指标发展、AI 与数据驱动决策、国家研发目标、中介角色、多样性、人才流动和公众沟通"
 type: argument
 subtype: report
 publication_type: report
@@ -11,10 +11,10 @@ authors:
   - UIDP
 year: 2019
 doi: ""
-isbn: ""
 citation_aliases:
-  - Oxford & UIDP, 2019
-  - Oxford & UIDP (2019)
+  - "Oxford & UIDP, 2019"
+  - "Oxford & UIDP (2019)"
+isbn: ""
 tags:
   - theme/university-industry-collaboration
   - level/higher-education
@@ -73,7 +73,6 @@ status: draft
 created: 2026-06-10
 updated: 2026-06-10
 ---
-
 # Argument_OxfordUIDP_2019_UIPartnerships
 
 ---
@@ -264,7 +263,7 @@ updated: 2026-06-10
 > | **合作目的** | 技术**生成**——创造新知识、新技术 | 技术**适应与吸收**——采用、消化已有技术 |
 > | **典型伙伴** | 颠覆性科技公司、前沿研发企业 | 法律服务、金融服务、建筑业、新兴本地生态 |
 > | **关键机制** | 前沿科学 ↔ 前沿创新，共同研发 | 知识扩散、供应链传导、网络效应、标准推广 |
-> | **度量挑战** | 投资回报周期长，技术就绪度低 | 影响更难归因，需要关注吸收能力而非仅产出 |
+> | **度量挑战** | 投资回报周期长，[[Technology Readiness Level\|技术就绪度]]低 | 影响更难归因，需要关注[[Absorptive Capacity\|吸收能力]]而非仅产出 |
 >
 > 这一区分意味着超越传统伙伴不能简单套用前沿合作的模式——两类逻辑需要不同的合作设计、不同的度量指标、不同的期望管理（pp.18–19）。
 

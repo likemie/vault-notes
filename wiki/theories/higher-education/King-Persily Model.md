@@ -49,7 +49,7 @@ updated: 2026-06-10
 ## 运作结构
 
 > [!abstract]
-> King-Persily 模型的具体运作结构包括以下核心组件（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, pp.13–14]]）：
+> King-Persily 模型的具体运作结构包括以下核心组件（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.13–14]]）：
 
 - **公司端（Company）**：提供数据和信息，但不直接接触研究者；公司与委员会共同商定研究项目的范围，并发布研究提案征集
 - **委员会（The Commission — 可信第三方）**：由资深学者组成，与公司签署保密协议并放弃基于数据的发表权。委员会独立评审研究提案的学术和社会价值，排除侵犯隐私、违反现有法律协议/义务、干扰正在进行的调查或使公司处于竞争劣势的提案

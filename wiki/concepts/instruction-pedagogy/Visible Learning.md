@@ -111,15 +111,14 @@ updated: 2026-06-10
 
 ## 概念辨析
 
-> [!finding-cards] 概念辨析
-> - **vs [[Critiques of Visible Learning]]** — 本条目处理 VL 作为概念、项目和学校改进话语本身的结构；批评谱系另立条目，避免把项目本体与围绕它的反对意见混在一起。
-> - **vs [[Visible Learning Branding and Global Influences]]** — 本条目讨论 VL 的思想、框架与实践逻辑；品牌扩张、商业网络、顾问市场和制度传播放在后者展开。
-> - **vs [[Effect Size]]** — VL 借助效应量组织证据，但 VL 不等于效应量；效应量还被进一步包装为面向教师和学校的商业产品。效应量的统计前提、阈值争议和解释边界见 [[Effect Size]]。
-> - **vs [[Meta-meta-analysis]]** — VL 的核心证据形式常被描述为元-[[Meta-analysis|元分析]]，但 VL 还包含学校实施语言、教师思维框架和培训逻辑；方法论细节见 [[Meta-meta-analysis]]。
-> - **vs [[Evidence-Based Education]]** — Visible Learning 是 EBE 运动中最具全球影响力的具体项目／品牌，EBE 是更广泛的教育政策运动。
-> - **vs [[Evidence-Based Reform]]** — Slavin 的 EBR 强调开发-评估-推广范式和政府激励机制，Visible Learning 则更侧重[[Meta-analysis|元分析]]综合和教师层面的技术执行。
-> - **vs [[Dynamic Knowledge and Learning Model]]** — VL 给出跨研究平均效果，动态模型则要求进一步区分不同知识形态上的学习结果。
-> - **vs [[Scientism]]** — Scientism 是对 VL 的外部批判框架之一，强调其可能把"可量化"误当成"最重要"。
+> [!contrast-table] 核心方法论概念对比
+> | 维度 | [[Visible Learning]] | [[Effect Size]] | [[Evidence-Based Education]] |
+> |------|----------------------|-----------------|------------------------------|
+> | 分析对象 | 150+ 教学干预的排名 + 学校改进逻辑与教师培训体系 | 量化效果大小的统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校实践中的制度化运动 |
+> | 核心机制 | 元-元分析 + 教师思维框架（mind frames）+ 忠实实施培训 | Cohen's d 等标准化差异量，d=0.40 为 Hattie 所设"铰链点" | 研究-政策-实践传播链；包含 EEF、What Works Clearinghouse 等机构 |
+> | 边界说明 | VL 以效应量为骨架，但效应量本身是工具而非 VL 的全部 | 方法论工具，不含实施逻辑；统计假设与解释边界见 [[Effect Size]] | VL 是 EBE 运动中最具全球品牌影响力的具体项目 |
+
+其他相关条目消歧：[[Critiques of Visible Learning]] 处理 VL 的批评谱系；[[Visible Learning Branding and Global Influences]] 处理品牌扩张与商业网络；[[Evidence-Based Reform]] 是 Slavin 的开发-评估-推广范式，与 VL 侧重不同；[[Dynamic Knowledge and Learning Model]] 要求区分 VL 所忽略的不同知识形态上的学习结果；[[Scientism]] 是对 VL 的外部批判框架之一。
 
 ---
 
@@ -261,36 +260,32 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > [!abstract] 使学校成为反馈文化（[[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.74–75]]）
 > [[Argument_Fredens_2015_Paideia|Fredens (2015, p.74)]] 将 Hattie & Yates（2014）的核心信息概括为文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈不仅是教学技术，更应成为学校文化工具——促进文化发展和专业合作。这与 Hattie 后期强调的"安全、信任的学校文化"一致，但 Fredens 进一步指出实现这一目标需要教师与研究之间的伙伴关系（partnerskab mellem lærer og forskning），而非单向的知识传递。
 
-> [!citation-card]
-> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
+---
+
+> [!abstract] 学校改进 / 实施：官方模型 → 第三面 → 研究者再诠释
+
+### 忠实实施：Hattie 的官方模型
+
+> [!warning] 忠实执行（Fidelity）
+> Hattie 的官方培训要求教师严格按脚本执行。他称培训中"五人中仅一人通过"，理由是"几乎每个教师都想讲自己的故事、轶事和课堂，我们不允许"（Hattie, in [[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]]）。这一模型预设改进来自标准化复制，而非专业自主判断。
 
 ---
 
-> [!abstract] 学校改进 / 实施
+### "第三面"：自下而上的实践变革
 
-### 忠实实施（Fidelity）
+> [!abstract] VL 的"第三面"（[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp.122–125]]）
+> [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] 识别了 VL 除研究和政策之外的第三维度——在澳大利亚和新西兰触发了一场自下而上的运动，鼓励教师反思和改变学校实践，无论 Hattie 理论的争议如何。变革的核心是将教育理解为两种独立活动的协同：教师的教学与学生的学习在课程目标的指引下交汇，呼应了 [[Dietrich Benner]] 的修正版教学三角模型。政策层面，新西兰和澳大利亚的重点也随之从家庭背景、校舍、技术投入和新建考试，转向研究本位策略实施、校内外有效协作、学生领导力与课程审查改进。
 
-教师须严格按脚本执行，Hattie 称培训中"五人中仅一人通过"，因为"几乎每个教师都想讲自己的故事、轶事和课堂，我们不允许"（Hattie, in Knudsen, 2017, p.254）。
+---
 
-### VL 的"第三面"——自下而上的学校实践变革
+### 研究者再诠释：改进起点而非技术菜单
 
-[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]], p.123) 识别了 VL 除研究和政策之外的另一维度——在澳大利亚和新西兰触发了一场自下而上的运动，鼓励教师反思和改变学校实践，无论 Hattie 理论和著作的争议如何。这种变革的核心是将教育理解为两种独立活动的协同——教师的教学与学生的学习在课程目标的指引下交汇，呼应了 [[Dietrich Benner]] 的修正版教学三角模型([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.122–123]])。
+[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 在斯堪的纳维亚语境中把 [[Visible Learning]] 重写成一种学校改进起点，而非可直接照搬的教学技术菜单——核心不是"把排行榜前几名方法搬进课堂"，而是承认不同教学做法不等效，学校必须持续追问哪些做法更可能改善学生学习（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–64]]）。
 
-### 政策重点从外部因素转向师生互动
-
-新西兰和澳大利亚的政策重点已从家庭背景、校舍、技术投入和新建考试，转向研究本位策略实施、校内外有效协作、学生领导力和道德勇气培养、学生信心和创造力发展以及课程审查与改进([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.124–125]])。
-
-### 作为学校改进起点而非技术菜单
-
-[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 在斯堪的纳维亚语境中进一步把 [[Visible Learning]] 重写成一种学校改进起点，而不是一张可直接照搬的教学技术菜单。这里被强调的核心，不是"把排行榜前几名方法搬进课堂"，而是承认不同教学做法并不等效，因此学校必须持续追问哪些做法更可能改善学生学习([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–64]])。
-
-这一重写有三个要点，刚好把 [[Visible Learning]] 与 [[Evidence-Based Education]]、[[Professional Judgment]] 和学校改进实践接了起来：
-
-1. **从个人技巧转向集体改进**：焦点不只落在单个教师"会不会某种方法"，而是落在学校能否围绕学习结果形成教师协作、课堂观察和持续反思的工作方式([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61, 66–67]])。
-2. **从证据排名转向概率判断**：证据不是保证课堂自动成功的配方，而是帮助教师减少"全凭习惯和直觉"的空间，提高成功概率的判断资源([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.63]])。
-3. **从外部问责转向能力建设**：真正稀缺的不是改革口号，而是把研究知识转进课堂的中介机制，例如能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.65–67]])。
-
-与其只把"Know thy impact"写进 PPT 或墙上海报，更关键的是教师是否真的一起看学生作业、比较不同反馈方式、讨论"学生到底哪里没学会"——前者只是口号，后者才是 [[Visible Learning]] 被转成学校改进实践的形式（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]]）。
+> [!finding-cards] 三项核心转变（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）
+> 1. **从个人技巧转向集体改进** — 焦点从单个教师"会不会某种方法"转向学校能否形成围绕学习结果的教师协作、课堂观察和持续反思工作方式。
+> 2. **从证据排名转向概率判断** — 证据不是保证课堂成功的配方，而是帮助教师减少"全凭习惯和直觉"的空间、提高成功概率的判断资源。
+> 3. **从外部问责转向能力建设** — 真正稀缺的是把研究知识转进课堂的中介机制：能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习。
 
 ---
 
@@ -447,6 +442,11 @@ VL 品牌对学术批评表现出显著的免疫力——[[Argument_Hattie_2017_
 > [!tension] 好教师能否以人格类型定义？
 > - **Hattie & Yates** — 好教师不能以特定人格类型定义。
 > - **Fredens（引 Lambert & Barley, 2001）** — 治疗师人格是治疗关系中最重要的因素，比所用方法更重要；由此质疑：教师的人格性表现（personlige ageren）在师生关系中是否比所用方法更具决定性？（[[Argument_Fredens_2015_Paideia|Fredens, 2015, p.73]]）
+
+---
+
+> [!citation-card]
+> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
 
 ---
 

@@ -14,10 +14,14 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Innovation Ecosystem]]"
+  - "[[Competitiveness]]"
 related_theories:
+  - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+related_facts:
+  - "[[Oxford UIDP Summit 2019]]"
 confidence: medium
 status: draft
 created: 2026-06-10
@@ -29,7 +33,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!tip]
-> Richard Lester（MIT）在 2005 年对大学如何贡献于本地经济的研究中提出了一项核心主张：大学对本地创新系统的贡献方式并非千篇一律，而是**取决于本地产业的类型以及这些产业所处的产业生命周期阶段**。这一框架挑战了"大学在任何地方都可以通过相同方式推动经济发展"的假设（Lester, 2005; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford UIDP Summit, 2019, pp.8–9)]]）。
+> Richard Lester（MIT）在 2005 年对大学如何贡献于本地经济的研究中提出了一项核心主张：大学对本地[[Systems of Innovation|创新系统]]的贡献方式并非千篇一律，而是**取决于本地产业的类型以及这些产业所处的产业生命周期阶段**。这一框架挑战了"大学在任何地方都可以通过相同方式推动经济发展"的假设（Lester, 2005; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp.8–9)]]）。
 
 ## 核心命题
 
@@ -67,14 +71,14 @@ updated: 2026-06-10
 
 - **避免一刀切政策**：政策制定者不应期望大学以相同方式贡献于所有类型的本地产业。对新兴高科技产业的培育策略（如提供创业支持和前沿研究）对成熟制造业的升级可能不适用（后者更需要合同研究、全球最佳实践扫描和人员培训）
 - **诊断本地需求**：大学和地方政府应首先诊断本地产业的类型和生命周期阶段，再据此设计大学参与策略
-- **与创新生态系统建设的对接**：该框架与本地[[Innovation Ecosystem|创新生态系统]]的战略性发展高度契合——峰会讨论强调，建设更有效的本地创新生态系统需要思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献（pp.8–9）
+- **与[[Innovation Ecosystem|创新生态系统]]建设的对接**：该框架与本地[[Innovation Ecosystem|创新生态系统]]的战略性发展高度契合——峰会讨论强调，建设更有效的本地创新生态系统需要思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献（pp.8–9）
 
 ## 发展脉络
 
 > [!note]
-> - 2005 年 Richard Lester 在 MIT 工业绩效中心发表 *Universities, Innovation, and the Competitiveness of Local Economies: summary report from the local innovation project — phase I*
+> - 2005 年 Richard Lester 在 MIT 工业绩效中心发表 *Universities, Innovation, and the [[Competitiveness]] of Local Economies: summary report from the local innovation project — phase I*
 > - 该研究对本地创新项目进行了系统总结，提出了大学对本地产业的四种贡献类型
-> - 该框架在 2019 年 Oxford UIDP Summit 上被引用，作为理解大学如何战略性参与本地[[Innovation Ecosystem|创新生态系统]]建设的理论基础（pp.8–9）
+> - 该框架在 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 上被引用，作为理解大学如何战略性参与本地[[Innovation Ecosystem|创新生态系统]]建设的理论基础（pp.8–9）
 
 ## 理论语境
 

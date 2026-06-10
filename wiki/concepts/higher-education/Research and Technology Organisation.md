@@ -35,7 +35,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info]
-> 研究与技术组织（Research and Technology Organisation, RTO）指政府投资建立的、旨在桥接大学研究与私营部门创新组织之间的组织、智识和能力差距的中介机构。它们位于研究基础与产业应用之间的界面上，通过平滑知识流动和技术发展来加速新技术从研究基础向社会经济应用的转化（[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford UIDP Summit, 2019, p.33)]]）。
+> 研究与技术组织（Research and Technology Organisation, RTO）指政府投资建立的、旨在桥接大学研究与私营部门创新组织之间的组织、智识和能力差距的中介机构。它们位于研究基础与产业应用之间的界面上，通过平滑知识流动和技术发展来加速新技术从研究基础向社会经济应用的转化（[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, p.33)]]）。
 
 全球主要 RTO 网络包括：英国的 Catapult 中心、德国的 Fraunhofer 研究所（日益国际化）、美国的 [[Manufacturing USA]] 研究所，以及法国 Carnot 研究所、荷兰 TNO、芬兰 VTT 等。
 

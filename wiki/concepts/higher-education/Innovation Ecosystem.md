@@ -111,7 +111,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ### 本地创新生态系统的战略性建设
 
 > [!abstract]
-> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将战略性发展本地创新生态系统识别为强化产学合作的首要趋势。峰会指出，通过战略性和有针对性的方式加强和提升大学周边的本地生态系统，可以增强吸引产业伙伴的价值主张([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, pp.8–10]])。
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将战略性发展本地创新生态系统识别为强化产学合作的首要趋势。峰会指出，通过战略性和有针对性的方式加强和提升大学周边的本地生态系统，可以增强吸引产业伙伴的价值主张([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.8–10]])。
 
 发展本地创新生态系统的关键优势包括（pp.8–9）：
 - 加强本地企业的创新能力，使其能够吸收更多来自本地大学的新知识和技术，并在本地保留更多影响

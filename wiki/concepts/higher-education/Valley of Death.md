@@ -36,7 +36,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info]
-> 死亡之谷（Valley of Death）指技术商业化过程中从研究实验室成果到产业应用之间的关键过渡阶段。在这一阶段，技术已通过概念验证但尚未达到可吸引私人资本或产业伙伴进行大规模商业化的成熟度，导致技术"搁浅"在研究与市场之间（[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford UIDP Summit, 2019, pp.8,11)]]）。
+> 死亡之谷（Valley of Death）指技术商业化过程中从研究实验室成果到产业应用之间的关键过渡阶段。在这一阶段，技术已通过概念验证但尚未达到可吸引私人资本或产业伙伴进行大规模商业化的成熟度，导致技术"搁浅"在研究与市场之间（[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp.8,11)]]）。
 
 ## 核心特征
 
