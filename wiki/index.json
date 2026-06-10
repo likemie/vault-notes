@@ -6127,6 +6127,17 @@
     ]
   },
   {
+    "title": "Pavitt Taxonomy",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Pavitt Taxonomy.md",
+    "aliases": [
+      "Pavitt 分类法",
+      "Pavitt Taxonomy of Innovation",
+      "Revised Pavitt Taxonomy",
+      "修订版 Pavitt 分类法"
+    ]
+  },
+  {
     "title": "Tullock's Bureaucracy Theory",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md",
@@ -8648,8 +8659,7 @@
     "type": "fact",
     "path": "wiki/facts/australia/Centre for Independent Studies.md",
     "aliases": [
-      "澳大利亚独立研究中心",
-      "CIS"
+      "澳大利亚独立研究中心"
     ]
   },
   {
@@ -11293,6 +11303,11 @@
     "title": "Argument_Slavin_2021_ROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ROE.md"
+  },
+  {
+    "title": "Argument_Bogliacino_Pianta_2016_EP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Economia Politica/Argument_Bogliacino_Pianta_2016_EP.md"
   },
   {
     "title": "Argument_Golovchin_2019_ESC",

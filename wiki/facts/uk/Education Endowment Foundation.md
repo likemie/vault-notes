@@ -21,7 +21,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
-  - "[[Centre for Independent Studies]]"
   - "[[Strong Beginnings Report]]"
 related_arguments: []
 confidence: medium
@@ -61,7 +60,7 @@ updated: 2026-06-06
 
 > [!warning]
 > - EEF与[[Australian Education Research Organisation|AERO]]等国际组织的紧密联系引发了关于教育证据生产中私人利益影响的担忧
-> - 推广[[Cognitive Load Theory|认知负荷理论]]（John Sweller）等特定学术观点，这些观点同时被保守智库[[Centre for Independent Studies|CIS]]推广
+> - 推广[[Cognitive Load Theory|认知负荷理论]]（John Sweller）等特定学术观点，这些观点同时被保守智库CIS推广
 > - 在[[Strong Beginnings Report|Strong Beginnings]]报告的核心内容中被列为指定参考来源
 
 ---

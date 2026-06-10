@@ -1742,3 +1742,42 @@
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child {
   color: var(--text-normal);
 }
+
+/* ── 阶段描述行（斜体摘要） ── */
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > p > em:only-child,
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > p:has(> em:only-child) {
+  color: rgb(75, 115, 155);
+  opacity: 0.85;
+  font-style: italic;
+  font-size: 0.88em;
+  display: block;
+  margin-bottom: 0.45rem;
+}
+
+/* ── 子时间节点（琥珀色小点） ── */
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > ul {
+  list-style: none;
+  padding-inline-start: 0;
+  margin: 0.4rem 0 0.55rem 0.1rem;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li {
+  position: relative;
+  padding: 0.05rem 0 0.05rem 1.35rem;
+  font-size: 0.83em;
+  color: var(--text-muted);
+  line-height: 1.55;
+  margin-bottom: 0.18rem;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li::before {
+  content: "";
+  position: absolute;
+  left: 0.25rem;
+  top: 0.46em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgb(185, 140, 55);
+  box-shadow: 0 0 0 2px rgba(185, 140, 55, 0.22);
+}

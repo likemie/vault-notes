@@ -2,7 +2,6 @@
 title: Centre for Independent Studies
 aliases:
   - 澳大利亚独立研究中心
-  - CIS
 summary: "1976年成立于悉尼的澳大利亚保守派智库，资助教育研究出版物并通过政策网络影响ITE改革，其研究被纳入《强劲开端》报告的指定参考文献。"
 type: fact
 subtype: policy

@@ -17,7 +17,6 @@ related_methods: []
 related_persons:
   - "[[Lev Vygotsky]]"
 related_facts:
-  - "[[Centre for Independent Studies]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -60,7 +59,7 @@ updated: 2026-06-06
 > - 1990s 理论扩展至多媒体学习、工作示例效应（worked example effect）
 > - 2000s 区分三种认知负荷的框架逐步成熟
 > - 2010s Sweller 将理论与进化教育心理学结合，提出生物初级/次级知识的区分
-> - 2021 Sweller 在[[Centre for Independent Studies|CIS]]发表 Analysis Paper 24，明确论证探究式学习有害学生学习
+> - 2021 Sweller 在CIS发表 Analysis Paper 24，明确论证探究式学习有害学生学习
 
 ---
 
@@ -76,7 +75,7 @@ updated: 2026-06-06
 ## 相关研究
 
 > [!example]
-> - [[Argument_Skourdoumbis_2024_AER]] — CLT 构成《强劲开端》报告指定参考文献的主要部分，Sweller 的工作被[[Centre for Independent Studies|CIS]]和[[Education Endowment Foundation|EEF]]推广为ITE核心内容的"科学基础"
+> - [[Argument_Skourdoumbis_2024_AER]] — CLT 构成《强劲开端》报告指定参考文献的主要部分，Sweller 的工作被CIS和[[Education Endowment Foundation|EEF]]推广为ITE核心内容的"科学基础"
 
 ---
 
