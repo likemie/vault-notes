@@ -934,9 +934,6 @@ Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发
 
 ## 政策与制度争议
 
-> [!warning] 主题导览
-> 这一组批评追问 VL 进入政策与治理后发生了什么：它怎样被财政简报、州级工具包、学校改进项目和商业服务网络使用，又怎样在使用过程中被误读、加固或转成管理技术。
-
 VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；[[Argument_Terhart_2011_JCS|Terhart (2011)]] 记录了 VL 在新西兰政策语境中的早期争议；[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 和 [[Argument_Blass_2020_JESP|Blass (2020)]] 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
 
 ### [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 四角度系统批判：方法论、新泰勒主义、新自由主义、Cargo Cult Science
@@ -1010,9 +1007,6 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 - Nielsen & Klitmøller（2021）从 Habermas 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 ## VL 支持者的辩护：[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 的三重论证
-
-> [!info] 辩护导览
-> 这一节不重复解释 [[Visible Learning]] 的核心结构，而是集中说明支持者如何回应批评者的三类核心指控：意识形态化批评、定量与定性的虚假对立、以及将 VL 从"技术食谱"重新解释为[[Professional Judgment|专业判断]]的概率知识资源。
 
 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]以 VL 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 

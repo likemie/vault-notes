@@ -647,7 +647,7 @@ Total entries: **1261**
 > - [[Stokes' Quadrant Model of Scientific Research]] — Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系
 > - [[Systems of Innovation]] — Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式
 > - [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
-> - [[UIC Evolutionary Phases]] — O'Dwyer、Filieri 和 O'Malley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
+> - [[UIC Evolutionary Phases]] — ODwyer、Filieri 和 OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
 > - [[Values Alignment Model]] — Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
 
 > [!summary]- Instruction Pedagogy (3)
