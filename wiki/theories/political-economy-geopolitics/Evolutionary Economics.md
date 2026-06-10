@@ -14,6 +14,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
+  - "[[Technological Trajectories]]"
   - "[[Bounded Rationality]]"
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -37,14 +38,14 @@ updated: 2026-06-10
 
 演化经济学的三个核心命题直接塑造了 Pavitt 分类法的分析逻辑：
 - **异质性是常态而非噪音**：企业之间在生产率、创新能力和增长路径上的差异不是随机扰动，而是经济演化的驱动力。Bogliacino 和 Pianta（2016）引用的经验证据表明，法意制造业同一三位数行业内企业的生产率差异可达 2-9 倍，美国制造业同一四位数行业内全要素生产率差距平均为 2 倍，且这种异质性跨国家持久存在（pp.153-155）
-- **技术轨迹塑造产业差异**：Dosi（1982, 1988）提出的技术范式（technological paradigms）和技术轨迹（technological trajectories）概念解释了不同产业为何遵循不同的创新路径——科学基础型产业沿"科学驱动"轨迹演进，供应商主导型产业沿"技术采用"轨迹演进
+- **[[Technological Trajectories|技术轨迹]]塑造产业差异**：Dosi（1982, 1988）提出的技术范式（technological paradigms）和技术轨迹（technological trajectories）概念解释了不同产业为何遵循不同的创新路径——科学基础型产业沿"科学驱动"轨迹演进，供应商主导型产业沿"技术采用"轨迹演进
 - **分类法是整合异质性的分析工具**：面对巨大的产业异质性，研究者需要一个既能整合共性又保留多样性信息的框架。Pavitt 分类法在"将所有行业视为同质"与"为每个行业单独建模"之间找到了中间地带（pp.155-156）
 
 ---
 ## 理论基础
 
 > [!info] 学术脉络
-> 演化经济学的思想来源包括 Schumpeter 的创新理论（创造性破坏）、Simon 的[[Bounded Rationality|有限理性]]（bounded rationality）以及生物学中的演化隐喻（变异-选择-保留）。Nelson 和 Winter（1982）将这些思想系统化为一个替代新古典经济学的理论框架，以**组织惯例**（organizational routines）替代最优化行为，以**经济选择**替代均衡市场出清。在创新研究领域，Freeman（1982）、Dosi（1982, 1988）以及后续的新熊彼特学派（Neo-Schumpeterian）学者将演化视角应用于技术和产业变迁分析，建立了技术范式、技术轨迹和[[Systems of Innovation|创新系统]]等概念工具。
+> 演化经济学的思想来源包括 Schumpeter 的创新理论（创造性破坏）、Simon 的[[Bounded Rationality|有限理性]]（bounded rationality）以及生物学中的演化隐喻（变异-选择-保留）。Nelson 和 Winter（1982）将这些思想系统化为一个替代新古典经济学的理论框架，以**组织惯例**（organizational routines）替代最优化行为，以**经济选择**替代均衡市场出清。在创新研究领域，Freeman（1982）、Dosi（1982, 1988）以及后续的新熊彼特学派（Neo-Schumpeterian）学者将演化视角应用于技术和产业变迁分析，建立了技术范式、[[Technological Trajectories|技术轨迹]]和[[Systems of Innovation|创新系统]]等概念工具。
 
 ---
 ## 在创新研究中的应用

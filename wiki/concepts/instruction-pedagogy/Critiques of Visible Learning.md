@@ -26,13 +26,13 @@ related_concepts:
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Language Experience Approach]]"
   - "[[Confidence Interval]]"
-  - "[[Feedback]]"
+  - "[[Heterogeneity]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
-  - "[[Heterogeneity]]"
+  - "[[Feedback]]"
   - "[[Publication Bias]]"
-  - "[[Language Experience Approach]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Pure Evaluation]]"
@@ -91,10 +91,10 @@ related_arguments:
   - "[[Argument_Snook_2009]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Allerup_2015_Paideia]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Rømer_2018]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Simpson_2017_JEP]]"
@@ -175,6 +175,8 @@ updated: 2026-05-21
 > > [!col-r] 选择性纳入
 > > Hattie 的理论先见影响数据选取——支持[[Direct Instruction|直接教学]]的正效应被保留，不符合立场的研究被修正或删除（[[Whole Language|全语言]]案例：VL 800+ 元分析中唯一被手动修正[[Effect Size|效应量]]的案例）。
 
+
+---
 ### [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 最早的系统性批判
 
 Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] 出版同年以 Massey University 教育哲学与研究方法论团队的立场，提出五大批评（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.93–105]]）：
@@ -194,6 +196,55 @@ Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡�
 
 ---
 
+
+### [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 全语言案例审查
+
+[[Argument_OConnor_2020_AJLL|O'Connor (2020)]]对 Hattie 在 VL 中处理[[Whole Language|全语言]]（whole language）的方法进行了详细的案例审查，为批评者关于"先验偏见驱动数据选择"的论点提供了具体的文本证据。
+
+#### 全语言在 VL 中的数据基础
+
+Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，在 VL 中占 **5 段文字、1.5 页**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。Hattie 报告的效应量 d=0.06 是通过对四项元分析效应量进行简单算术平均得出：(0.09+0.15+0.65+(-0.65))/4=0.06([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])。
+
+> [!critique] 四项具体问题
+> - **（1）分类错误**：四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl, McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144-145]]）。
+>
+> - **（2）对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 d=-0.65 是 VL 800+ 元分析中的极端异常值（仅两项低于 -0.5）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 Jeynes 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147-148]]）。
+>
+>   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性次级文献的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.146-147]]）。
+>
+> - **（3）对正面发现的选择性修正**：Gee（1995）报告全语言效应量 d=+0.65。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）。
+>
+>   对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 d=1.7），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）。
+>
+> - **（4）不加权平均**：Hattie 未对不同元分析的研究数量或质量进行任何加权——基于 2 项研究的元分析与基于 20 项研究的元分析在计算中等同对待（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]]）。
+
+#### Hattie 的"故事优先于数据"论述
+
+O'Connor 引用了 Hattie 本人关于其方法论的关键陈述：
+
+> "当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）
+
+O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）提出提供"对研究叙述性讨论的严谨替代方案"——直接矛盾([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])。
+
+
+
+---
+
+
+### 元分析层：聚合质量与统计有效性
+
+> [!layer] 元分析层
+> 批评上移一级，审查 Hattie 如何将初级研究聚合为元分析——效应量计算方式、研究间加权、方差处理，以及概念同质性假设。这一层的核心争议是：**统计聚合本身是否有效**。
+>
+> > [!col-l] 核心问题
+> > 效应量公式混用；研究不加权平均；方差与[[Confidence Interval|置信区间]]未报告；概念[[Heterogeneity|异质性]]（不同现象被归入同一标签）；信息在聚合层级间系统损失
+>
+> > [!col-r] 代表批评
+> > [[Argument_Terhart_2011_JCS|Terhart (2011)]]：信息损失与双重困境
+> > [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]：六步系统技术检验
+> > [[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]]：伪科学定性
+> > Nielsen & Klitmøller (2021)：概念异质性深度审查
+
 ### [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 元-元分析的认识论困境与双重困境
 
 [[Argument_Terhart_2011_JCS|Terhart (2011)]], p.436）比后来的批评者更早地识别了[[Meta-meta-analysis|元-元分析]]的根本问题——**信息在聚合层级间的系统性损失**：
@@ -210,19 +261,9 @@ Terhart 提出了一个尖锐的类比："当然可以通过不同渠道累积�
 
 > "由于他的元-元分析同时支持稳定性假说和变异性假说，很明显 Hattie 事实上没有找到研究学校、教学和教师的圣杯。"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
 
----
-
-### [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 效应量排名的统计前提
-
-从统计学角度看，Hattie 以[[Effect Size|效应量]]给教学干预排序的做法要求若干技术前提成立([[Argument_Allerup_2015_Paideia|Allerup, 2015]])：：d 值必须可比较，效应量估计需要伴随误差信息，且边际效应不能被误读为控制第三变量后的稳健效应([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.42]])。
-
-**d=0.40 与显著性并非固定对应。** d 本身不能直接接受常规显著性判断；只有在乘以观测数平方根、形成 $t = d\sqrt{n}$ 后，才接近检验两个均值是否相等的 t 统计量。以 n=25 为例，双侧检验临界值 $t=2.060$ 对应 $d \approx 0.412$，因此 Hattie 的 0.40 阈值在这一具体样本量下接近 p=0.05；但样本量变化后，这种对应关系也会改变([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–46]])。这意味着 VL 的"期望效应区"并不是一个可以脱离研究规模直接使用的教育判断边界。
-
-**排名未报告[[Confidence Interval|置信区间]]。** [[PISA]] 排名会给出横向置信区间，使读者知道数值相邻的国家是否真有显著差异；Hattie 的排名只给出 d 值，未系统报告各项干预效应量的置信区间、标准误或相邻排名的显著性检验([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。因此，像 [[Feedback]] d=0.71 与 teacher-student relationship d=0.72 这样的相邻排名，无法凭数值判断是否存在统计上可区分的差异([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
-
-**边际排名会被第三变量改变。** 多变量控制会改变效应量：TIMSS 2011 丹麦四年级数据中，教师是否具备学科专业资格的未控制效应量约为 $0.15$；控制学生社会经济背景后，效应量降至 $0.08$ 且不再显著([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.49–51]])。这直接挑战了 VL 用单一边际 d 对教学因素排序的实践，因为同一因素的效应量会随控制变量、统计模型和结果分布改变；更完整的统计解释见 [[Effect Size#基本公式与构成逻辑]] 与 [[Meta-meta-analysis#技术方法论缺陷]]。
 
 ---
+
 
 ### [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 全面技术评估
 
@@ -518,6 +559,64 @@ Wecker 等人最终的可靠性判断是层次化的（p.34-36）：
 
 **结论**："很明显 John Hattie 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学"（p.245）。解决方案：在研究的每一步咨询统计学家。
 
+
+---
+
+
+### Nielsen & Klitmøller (2021, NordPsych) — 反馈元分析：概念异质性审查
+
+Nielsen & Klitmøller（2021, NordPsych）在方法论批评中提出了一个此前被忽略的维度：**不追问 VL 的效应量或统计方法是否有问题（已知有问题），而是进入 Hattie 最核心的反馈效应（d=0.73，位居第 10），逐项审查其基础元分析是否在研究 Hattie 所声称的现象**。
+
+**论证二：Hattie 的反馈效应基础——5 项最重元分析的逐项审查。** Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），d=0.73。Nielsen & Klitmøller（2021, pp.9-12）对其最重的 5 项（62,761 人，92% 样本）进行了细读审查：
+
+| 元分析 | N | Hattie 报告的 d | 实际研究内容 | 是否研究反馈（Hattie 定义） |
+|--------|---|---------------|-------------|--------------------------|
+| Lysakowski & Walberg (1980) | 4,842 | 1.17 | 39 种不同**强化技术**（reinforcement techniques） | **否**——Hattie 本人明确批评"奖励是否应被视为反馈值得怀疑"（Hattie, 2009, p.174） |
+| Lysakowski & Walberg (1982) | 15,689 | 0.97 | **线索、参与和纠正性强化**（cues, participation, corrective reinforcement） | **否**——聚焦教学策略而非反馈 |
+| Kluger & DeNisi (1996) | 12,652 | 0.38 | **反馈干预**（[[Feedback]] interventions, FI） | **是**——唯一定义与 Hattie 一致的元分析。但效应量仅 0.38，且 **38% 效应为负** |
+| Witt et al. (2004) | 24,474 | 1.15 | **教师即时性**（verbal and nonverbal immediacy） | **否**——"文本中未提及反馈"；22/34 项（7,539 人）未发表（博士论文、硕士论文、会议报告） |
+| Swanson & Lussier (2001) | 5,104 | 1.12 | **考官辅助／动态评估**（dynamic assessment） | **否**——研究考官在测试中提供的"线索、暗示或提示" |
+
+**核心结论**：5 项最重元分析中仅 1 项（Kluger & DeNisi, 1996）使用与 Hattie 一致的反馈定义——而其效应量仅 0.38，不到 Hattie 综合结果（0.73）的一半。Nielsen & Klitmøller 得出结论：Hattie 将本质上不同的现象（强化、线索、即时性、考官辅助）统一纳入"反馈"标题下汇总，其结论因此无效。
+
+**Witt et al. (2004) 的具体问题**（Nielsen & Klitmøller, 2021, pp.10-11）：
+- 对 Hattie 反馈效应贡献最大（24,474 人，效应量 1.15），但研究的是教师即时性——"教师语言和非语言即时性与学生情感、认知和感知学习结果的关系"（Witt et al., 2004, p.150）
+- 抽查 3 项基础研究：Chesebro & McCroskey (2001) 研究接收者焦虑；Frymier & Houser (2000) 研究沟通技能；Gorham & Christophel (1990) 研究幽默——均未明确涉及反馈
+- 这引发 Eysenk 的"**垃圾进垃圾出**"警告：基础研究的方法论问题通过元分析层层传递，使问题难以识别（Borenstein et al., 2009, p.380）
+
+Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）从统计技术角度批评（效应量计算错误、加权不当），他们追问的是**即使统计计算完全正确，纳入的研究是否在研究同一现象**——答案是否定的。
+
+
+
+---
+
+
+### 效应量排名层：输出指标的统计无效性
+
+> [!layer] 效应量排名层
+> 批评进入最终输出层——Hattie 的效应量排名本身。这一层不再追问数据如何聚合，而是追问：给定聚合结果，"以单一 d 值为干预措施排名"这一操作是否在统计上成立？
+>
+> > [!col-l] 核心问题
+> > d 值跨研究可比性假设不成立；排名未附置信区间；d 与 n 的关系被忽略；整体数据集方差极度失控（所有来源 Vσ 均超 33% 同质性阈值）
+>
+> > [!col-r] 代表批评
+> > [[Argument_Allerup_2015_Paideia|Allerup (2015)]]：排名的统计前提审查
+> > [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]：变差系数检验
+
+### [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 效应量排名的统计前提
+
+从统计学角度看，Hattie 以[[Effect Size|效应量]]给教学干预排序的做法要求若干技术前提成立([[Argument_Allerup_2015_Paideia|Allerup, 2015]])：：d 值必须可比较，效应量估计需要伴随误差信息，且边际效应不能被误读为控制第三变量后的稳健效应([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.42]])。
+
+**d=0.40 与显著性并非固定对应。** d 本身不能直接接受常规显著性判断；只有在乘以观测数平方根、形成 $t = d\sqrt{n}$ 后，才接近检验两个均值是否相等的 t 统计量。以 n=25 为例，双侧检验临界值 $t=2.060$ 对应 $d \approx 0.412$，因此 Hattie 的 0.40 阈值在这一具体样本量下接近 p=0.05；但样本量变化后，这种对应关系也会改变([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–46]])。这意味着 VL 的"期望效应区"并不是一个可以脱离研究规模直接使用的教育判断边界。
+
+**排名未报告[[Confidence Interval|置信区间]]。** [[PISA]] 排名会给出横向置信区间，使读者知道数值相邻的国家是否真有显著差异；Hattie 的排名只给出 d 值，未系统报告各项干预效应量的置信区间、标准误或相邻排名的显著性检验([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。因此，像 [[Feedback]] d=0.71 与 teacher-student relationship d=0.72 这样的相邻排名，无法凭数值判断是否存在统计上可区分的差异([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
+
+**边际排名会被第三变量改变。** 多变量控制会改变效应量：TIMSS 2011 丹麦四年级数据中，教师是否具备学科专业资格的未控制效应量约为 $0.15$；控制学生社会经济背景后，效应量降至 $0.08$ 且不再显著([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.49–51]])。这直接挑战了 VL 用单一边际 d 对教学因素排序的实践，因为同一因素的效应量会随控制变量、统计模型和结果分布改变；更完整的统计解释见 [[Effect Size#基本公式与构成逻辑]] 与 [[Meta-meta-analysis#技术方法论缺陷]]。
+
+
+---
+
+
 ### [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 变差系数检验
 
 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]以变差系数（coefficient of variation, Vσ）对 Hattie 的效应量数据集进行了前人未做的统计检验，为方法论批评提供了定量证据。
@@ -541,59 +640,6 @@ Wecker 等人最终的可靠性判断是层次化的（p.34-36）：
 | 文化政治 | VL 与新自由主义、性别歧视、能力主义议程结盟（详见文化政治批评） | McKnight & Whitburn |
 
 Myburgh 等识别了元-元分析的六项"慢性问题"：(1) 垃圾进垃圾出；(2) [[Publication Bias|发表偏倚]]；(3) 苹果与橘子比较；(4) 效应量误用；(5) 经验偏见（仅使用经验可得的指标）；(6) 应用局限（忽视社会互动因素）([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])
-
-### [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 全语言案例审查
-
-[[Argument_OConnor_2020_AJLL|O'Connor (2020)]]对 Hattie 在 VL 中处理[[Whole Language|全语言]]（whole language）的方法进行了详细的案例审查，为批评者关于"先验偏见驱动数据选择"的论点提供了具体的文本证据。
-
-#### 全语言在 VL 中的数据基础
-
-Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，在 VL 中占 **5 段文字、1.5 页**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。Hattie 报告的效应量 d=0.06 是通过对四项元分析效应量进行简单算术平均得出：(0.09+0.15+0.65+(-0.65))/4=0.06([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])。
-
-> [!critique] 四项具体问题
-> - **（1）分类错误**：四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl, McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144-145]]）。
->
-> - **（2）对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 d=-0.65 是 VL 800+ 元分析中的极端异常值（仅两项低于 -0.5）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 Jeynes 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147-148]]）。
->
->   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性次级文献的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.146-147]]）。
->
-> - **（3）对正面发现的选择性修正**：Gee（1995）报告全语言效应量 d=+0.65。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）。
->
->   对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 d=1.7），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）。
->
-> - **（4）不加权平均**：Hattie 未对不同元分析的研究数量或质量进行任何加权——基于 2 项研究的元分析与基于 20 项研究的元分析在计算中等同对待（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]]）。
-
-#### Hattie 的"故事优先于数据"论述
-
-O'Connor 引用了 Hattie 本人关于其方法论的关键陈述：
-
-> "当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）
-
-O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）提出提供"对研究叙述性讨论的严谨替代方案"——直接矛盾([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])。
-
-
-### Nielsen & Klitmøller (2021, NordPsych) — 反馈元分析：概念异质性审查
-
-Nielsen & Klitmøller（2021, NordPsych）在方法论批评中提出了一个此前被忽略的维度：**不追问 VL 的效应量或统计方法是否有问题（已知有问题），而是进入 Hattie 最核心的反馈效应（d=0.73，位居第 10），逐项审查其基础元分析是否在研究 Hattie 所声称的现象**。
-
-**论证二：Hattie 的反馈效应基础——5 项最重元分析的逐项审查。** Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），d=0.73。Nielsen & Klitmøller（2021, pp.9-12）对其最重的 5 项（62,761 人，92% 样本）进行了细读审查：
-
-| 元分析 | N | Hattie 报告的 d | 实际研究内容 | 是否研究反馈（Hattie 定义） |
-|--------|---|---------------|-------------|--------------------------|
-| Lysakowski & Walberg (1980) | 4,842 | 1.17 | 39 种不同**强化技术**（reinforcement techniques） | **否**——Hattie 本人明确批评"奖励是否应被视为反馈值得怀疑"（Hattie, 2009, p.174） |
-| Lysakowski & Walberg (1982) | 15,689 | 0.97 | **线索、参与和纠正性强化**（cues, participation, corrective reinforcement） | **否**——聚焦教学策略而非反馈 |
-| Kluger & DeNisi (1996) | 12,652 | 0.38 | **反馈干预**（feedback interventions, FI） | **是**——唯一定义与 Hattie 一致的元分析。但效应量仅 0.38，且 **38% 效应为负** |
-| Witt et al. (2004) | 24,474 | 1.15 | **教师即时性**（verbal and nonverbal immediacy） | **否**——"文本中未提及反馈"；22/34 项（7,539 人）未发表（博士论文、硕士论文、会议报告） |
-| Swanson & Lussier (2001) | 5,104 | 1.12 | **考官辅助／动态评估**（dynamic assessment） | **否**——研究考官在测试中提供的"线索、暗示或提示" |
-
-**核心结论**：5 项最重元分析中仅 1 项（Kluger & DeNisi, 1996）使用与 Hattie 一致的反馈定义——而其效应量仅 0.38，不到 Hattie 综合结果（0.73）的一半。Nielsen & Klitmøller 得出结论：Hattie 将本质上不同的现象（强化、线索、即时性、考官辅助）统一纳入"反馈"标题下汇总，其结论因此无效。
-
-**Witt et al. (2004) 的具体问题**（Nielsen & Klitmøller, 2021, pp.10-11）：
-- 对 Hattie 反馈效应贡献最大（24,474 人，效应量 1.15），但研究的是教师即时性——"教师语言和非语言即时性与学生情感、认知和感知学习结果的关系"（Witt et al., 2004, p.150）
-- 抽查 3 项基础研究：Chesebro & McCroskey (2001) 研究接收者焦虑；Frymier & Houser (2000) 研究沟通技能；Gorham & Christophel (1990) 研究幽默——均未明确涉及反馈
-- 这引发 Eysenk 的"**垃圾进垃圾出**"警告：基础研究的方法论问题通过元分析层层传递，使问题难以识别（Borenstein et al., 2009, p.380）
-
-Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）从统计技术角度批评（效应量计算错误、加权不当），他们追问的是**即使统计计算完全正确，纳入的研究是否在研究同一现象**——答案是否定的。
 
 
 ---

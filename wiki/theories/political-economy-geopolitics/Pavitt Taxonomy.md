@@ -17,6 +17,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Evolutionary Economics]]"
+  - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
@@ -84,7 +85,7 @@ updated: 2026-06-10
 ## 理论基础
 
 > [!tip]
-> - **[[Evolutionary Economics|演化经济学]]**（Evolutionary Economics）— Pavitt 分类法的理论基础来自 Nelson 和 Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity|异质性]]以及技术轨迹（technological trajectories）在塑造产业差异中的作用（p.155）
+> - **[[Evolutionary Economics|演化经济学]]**（Evolutionary Economics）— Pavitt 分类法的理论基础来自 Nelson 和 Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity|异质性]]以及[[Technological Trajectories|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
 > - **[[Systems of Innovation|创新系统理论]]** — Pavitt 分类法通过揭示不同产业在创新来源和知识流动上的系统性差异，为创新系统分析提供了微观基础
 > - **技术范式与技术轨迹**（Dosi, 1982, 1988）— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
 
