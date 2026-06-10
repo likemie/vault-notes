@@ -559,6 +559,69 @@
   line-height: 1.72;
 }
 
+/* ─── actor-grid（行动者类型 — 2×2 卡片网格） ─────── */
+.callout[data-callout="actor-grid"] {
+  --callout-color: 24, 121, 121;
+  --callout-icon: lucide-component;
+  background:
+    linear-gradient(135deg, rgba(24, 121, 121, 0.10), rgba(24, 121, 121, 0.025)),
+    var(--background-primary);
+  border: 1px solid rgba(24, 121, 121, 0.24);
+  border-left: 5px solid rgb(24, 121, 121);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(24, 121, 121, 0.09);
+}
+
+.callout[data-callout="actor-grid"] > .callout-title {
+  color: rgb(20, 100, 100);
+  font-weight: 650;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="actor-grid"] > .callout-title .callout-title-inner::before {
+  content: "ACTOR";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.06em 0.4em;
+  border-radius: 4px;
+  background: rgba(24, 121, 121, 0.18);
+  color: rgb(20, 100, 100);
+  font-size: 0.68em;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.callout[data-callout="actor-grid"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  padding-inline-start: 0;
+  margin-block: 0.6rem 0.2rem;
+  list-style: none;
+}
+
+.callout[data-callout="actor-grid"] .callout-content > ul > li {
+  margin: 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(24, 121, 121, 0.16);
+  border-radius: 9px;
+  background: rgba(24, 121, 121, 0.05);
+  line-height: 1.65;
+}
+
+.callout[data-callout="actor-grid"] .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.3rem;
+  color: rgb(20, 100, 100);
+  font-weight: 700;
+}
+
+@media (max-width: 640px) {
+  .callout[data-callout="actor-grid"] .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ─── case（案例 — 琥珀金，独立于 line-a 序号系统） ─── */
 .callout[data-callout="case"] {
   --callout-color: 178, 126, 44;
