@@ -20,6 +20,8 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Direct Instruction]]"
+  - "[[Whole Language]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -30,7 +32,6 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
-  - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
@@ -64,13 +65,13 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Random Assignment]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"
@@ -79,6 +80,7 @@ related_persons:
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
 related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[PISA]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -165,28 +167,28 @@ updated: 2026-05-21
 ### 数据入口层：研究质量筛选与选择性纳入
 
 > [!layer] 数据入口层
-> 方法论问题的源头在数据入口：VL 纳入了什么研究，又如何纳入？两类缺陷在后续每个聚合层级都会放大，最终使排名失去可比性。
+> 方法论问题的源头在数据入口：[[Visible Learning|VL]] 纳入了什么研究，又如何纳入？两类缺陷在后续每个聚合层级都会放大，最终使排名失去可比性。
 >
 > > [!col-l] 质量未筛选
-> > 低质量研究与高质量研究等权进入元分析。Hattie 声称"不是一本关于研究批评的书"，却在少数案例中选择性排除低质量研究，标准不一致。核心隐患：**垃圾进，垃圾出**。
+> > 低质量研究与高质量研究等权进入[[Meta-analysis|元分析]]。Hattie 声称"不是一本关于研究批评的书"，却在少数案例中选择性排除低质量研究，标准不一致。核心隐患：**垃圾进，垃圾出**。
 >
 > > [!col-r] 选择性纳入
-> > Hattie 的理论先见影响数据选取——支持直接教学的正效应被保留，不符合立场的研究被修正或删除（全语言案例：VL 800+ 元分析中唯一被手动修正效应量的案例）。
+> > Hattie 的理论先见影响数据选取——支持[[Direct Instruction|直接教学]]的正效应被保留，不符合立场的研究被修正或删除（[[Whole Language|全语言]]案例：VL 800+ 元分析中唯一被手动修正[[Effect Size|效应量]]的案例）。
 
 ### [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 最早的系统性批判
 
 Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] 出版同年以 Massey University 教育哲学与研究方法论团队的立场，提出五大批评（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.93–105]]）：
 
 > [!critique] 五大核心批评
-> - **（1）研究质量未被评估**：Hattie 声称"不是一本关于研究批评的书"，但任何未排除低质量研究的[[Meta-analysis|元分析]]都是误导性的——"垃圾进垃圾出"（Eysenk）（p.94–95）。Hattie 在处理 charter schools 和 learning styles 时选择性排除低质量研究，暴露了其标准的不一致（p.95）。
+> - **研究质量未被评估**：Hattie 声称"不是一本关于研究批评的书"，但任何未排除低质量研究的[[Meta-analysis|元分析]]都是误导性的——"垃圾进垃圾出"（Eysenk）（p.94–95）。Hattie 在处理 charter schools 和 learning styles 时选择性排除低质量研究，暴露了其标准的不一致（p.95）。
 >
-> - **（2）[[Effect Size|效应量]] d=0.40 截断值武断**：0.4 的关节点选择任意，小效应量在高质量大规模研究中意义重大——医学中阿司匹林降低心脏病风险的效应量仅 **d=0.07**，却意味着每 1000 人拯救 34 人（p.99）。Hattie 本人在户外教育的"跟进"效应中因效应量 0.17 而兴奋，暴露了其阈值应用的不一致（p.99–100）。
+> - **[[Effect Size|效应量]] d=0.40 截断值武断**：0.4 的关节点选择任意，小效应量在高质量大规模研究中意义重大——医学中阿司匹林降低心脏病风险的效应量仅 **d=0.07**，却意味着每 1000 人拯救 34 人（p.99）。Hattie 本人在户外教育的"跟进"效应中因效应量 0.17 而兴奋，暴露了其阈值应用的不一致（p.99–100）。
 >
-> - **（3）社会背景被系统性排除**：Hattie 选择性地搁置阶级、贫困、家庭资源、健康和营养，但这些因素解释 **70–80%** 的校间差异（Gray, Jesson & Jones, 1986; Harker, 1995）（p.98）。Snook 区分了两类"学校效应"研究——比较社会[[Variable|变量]]与学校变量的研究（发现社会变量贡献 70–80%）vs 仅比较校内变量的研究（发现教师最重要）——政策制定者经常混淆这两类（p.99）。
+> - **社会背景被系统性排除**：Hattie 选择性地搁置阶级、贫困、家庭资源、健康和营养，但这些因素解释 **70–80%** 的校间差异（Gray, Jesson & Jones, 1986; Harker, 1995）（p.98）。Snook 区分了两类"学校效应"研究——比较社会[[Variable|变量]]与学校变量的研究（发现社会变量贡献 70–80%）vs 仅比较校内变量的研究（发现教师最重要）——政策制定者经常混淆这两类（p.99）。
 >
-> - **（4）平均化掩盖复杂性**：以[[Homework|家庭作业]]为例，总体 d=0.29 掩盖了小学 **d=0.15**、中学 **d=0.64** 的巨大差异，以及数学（高效应）vs 科学和社会（低效应）的学科差异（p.97）；[[Class Size|班级规模]]的平均效应量掩盖了高质量随机实验（STAR）中发现的 **d=0.62–0.66** 效应量（p.100–101）。
+> - **平均化掩盖复杂性**：以[[Homework|家庭作业]]为例，总体 d=0.29 掩盖了小学 **d=0.15**、中学 **d=0.64** 的巨大差异，以及数学（高效应）vs 科学和社会（低效应）的学科差异（p.97）；[[Class Size|班级规模]]的平均效应量掩盖了高质量[[Randomised Controlled Trials|随机对照试验]]（[[Tennessee STAR Project 1985-1989|田纳西STAR项目]]）中发现的 **d=0.62–0.66** 效应量（p.100–101）。
 >
-> - **（5）政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p.103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p.104）。
+> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p.103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p.104）。
 
 Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评文献中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
 
@@ -548,19 +550,18 @@ Myburgh 等识别了元-元分析的六项"慢性问题"：(1) 垃圾进垃圾�
 
 Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，在 VL 中占 **5 段文字、1.5 页**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。Hattie 报告的效应量 d=0.06 是通过对四项元分析效应量进行简单算术平均得出：(0.09+0.15+0.65+(-0.65))/4=0.06([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])。
 
-#### 发现的具体问题
-
-**（1）分类错误**：四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl, McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144-145]])。
-
-**（2）对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 d=-0.65 是 VL 800+ 元分析中的极端异常值（仅两项低于 -0.5）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 Jeynes 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147-148]])。
-
-Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性次级文献的系统性忽略一致([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.146-147]])。
-
-**（3）对正面发现的选择性修正**：Gee（1995）报告全语言效应量 d=+0.65。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
-
-对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 d=1.7），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
-
-**（4）不加权平均**：Hattie 未对不同元分析的研究数量或质量进行任何加权——基于 2 项研究的元分析与基于 20 项研究的元分析在计算中等同对待([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])。
+> [!critique] 四项具体问题
+> - **（1）分类错误**：四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl, McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144-145]]）。
+>
+> - **（2）对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 d=-0.65 是 VL 800+ 元分析中的极端异常值（仅两项低于 -0.5）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 Jeynes 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147-148]]）。
+>
+>   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性次级文献的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.146-147]]）。
+>
+> - **（3）对正面发现的选择性修正**：Gee（1995）报告全语言效应量 d=+0.65。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）。
+>
+>   对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 d=1.7），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）。
+>
+> - **（4）不加权平均**：Hattie 未对不同元分析的研究数量或质量进行任何加权——基于 2 项研究的元分析与基于 20 项研究的元分析在计算中等同对待（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]]）。
 
 #### Hattie 的"故事优先于数据"论述
 
@@ -833,8 +834,8 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 ### Hattie 的先验立场（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）
 
 [[Argument_OConnor_2020_AJLL|O'Connor (2020, pp.149-150)]]记录了 Hattie 在 VL 中表达的明确意识形态立场：
-- 对直接教学的热情支持，对"[[Jean-Jacques Rousseau|卢梭]]式方法"（Rousseian inspired methods, p.258）、"促进和探究方法"（facilitative and inquiry methods）、"[[Constructivist Paradigm|建构主义]]潮流"（constructivist fad, p.243）的明确敌意
-- 将教师分为"作为激活者的教师"（teacher as activator，基于直接教学）vs."作为促进者的教师"（teacher as facilitator，包括探究式教学、小班教学、问题式学习、全语言）
+- 对[[Direct Instruction|直接教学]]的热情支持，对"[[Jean-Jacques Rousseau|卢梭]]式方法"（Rousseian inspired methods, p.258）、"促进和探究方法"（facilitative and inquiry methods）、"[[Constructivist Paradigm|建构主义]]潮流"（constructivist fad, p.243）的明确敌意
+- 将教师分为"作为激活者的教师"（teacher as activator，基于直接教学）vs."作为促进者的教师"（teacher as facilitator，包括探究式教学、小班教学、问题式学习、[[Whole Language|全语言]]）
 - 明确排除校外因素："关于阶级、贫困、家庭资源、家庭健康和营养的批判性讨论未被纳入"（Hattie, 2009, p.viii，引自 O'Connor, 2020, p.150）
 - 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp.7-32，引自 O'Connor, 2020, p.150）
 
