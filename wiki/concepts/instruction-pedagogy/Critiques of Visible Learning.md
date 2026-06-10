@@ -124,10 +124,25 @@ updated: 2026-05-21
 
 ## 批评演变
 
-> [!note] 批评演变
-> - **2009–2011**：批评首先聚焦在[[Effect Size|效应量]]阈值、研究质量、平均化和校外因素排除等方法论与政策外推问题（Argument_Snook_2009_NZJES；[[Argument_Terhart_2011_JCS]]）。
-> - **2015–2017**：随着 VL 在北欧和英语世界进一步扩张，争议开始细化到统计前提、二级综合计算、反馈概念和教师实践[[Transfer Translation Transformation|转译]]（[[Argument_Allerup_2015_Paideia]]；[[Argument_Wecker_2016_ZfE]]；[[Argument_Eacott_2017_SLM]]）。
-> - **2018 以后**：批评明显转向教育哲学、文化政治、品牌化与制度功能分析，问题不再只是“算得对不对”，而是“VL 在学校和政策中到底做了什么”（Argument_Romer_2018_EPT；[[Argument_McKnight_2020_Discourse]]；Argument_Nielsen_2021_IRTP）。
+> [!dev-timeline] 批评演变
+>
+> **新西兰 / 澳大利亚起源（2009–2011）**
+> 批评首先发生在 VL 的本土语境。Snook 等人在出版同年即系统检视了研究质量筛选、效应量阈值武断和社会背景排除等核心问题（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；Terhart 随后从教学理论立场分析了 VL 的概念局限（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）。
+>
+> **方法论批评：此起彼伏（2012–2017）**
+> 随着 VL 向北欧和英语世界扩散，统计方法的系统性批评逐步深化。这一浪潮跨越整个时期，从未停歇，但以 [[Argument_Wecker_2016_ZfE|Wecker, C., Vogel, F., & Hetmanek, A. (2016)]] 最为系统——他们构建三层分析框架，逐一评估固定效应模型假设、效应量合并程序和加权机制，是迄今对 VL 二级元分析最完整的技术评估。
+>
+> **政策批评（2014 年起）**
+> 随着 VL 进入各国教育政策话语，批评转向政策外推的正当性：研究综合能否成为政策指令？效应量排名如何在行政文件中被简化使用？这一方向与 VL 的制度扩张直接关联。
+>
+> **商业化批评（2017 年起）**
+> 随着 Visible Learning Plus 等培训产品兴起，批评进一步指向 VL 的品牌化运营——Hattie 研究与商业推广之间的边界模糊、证据话语与咨询市场之间的利益交织（[[Argument_McKnight_2020_Discourse|McKnight et al., 2020]]；Argument_Nielsen_2021_IRTP）。
+>
+> **循证教育运动批评（2018 年起）**
+> 部分批评者将 VL 置于更宏观的[[Evidence-Based Education|循证教育运动]]框架下审视，认为它是 “what works” 话语的典型产物——将教育还原为可管理的效应量列表，遮蔽了教育目的、教师判断和情境差异（Argument_Romer_2018_EPT；[[Argument_McKnight_2020_Discourse|McKnight et al., 2020]]）。
+>
+> **文化学与过度批评（并行线索）**
+> 另有一类批评走向彻底化，将矛头指向一切量化方法在教育研究中的运用，而非 VL 的特定操作失误。这种立场在方法论上存在争议——它在拒绝 VL 的同时，也拒绝了[[Meta-analysis|元分析]]本身的认识论地位。
 
 ## 方法论批评
 
