@@ -747,6 +747,75 @@
    SYNTHESIS & FINDINGS — 综合与发现
    ═══════════════════════════════════════════════════════════ */
 
+/* ─── pathways（可行路径 — 榄绿 + 编号轨道） ─────────── */
+.callout[data-callout="pathways"] {
+  --callout-color: 92, 122, 82;
+  --callout-icon: lucide-arrow-right-left;
+  background:
+    linear-gradient(135deg, rgba(92, 122, 82, 0.10), rgba(92, 122, 82, 0.025)),
+    var(--background-primary);
+  border: 1px solid rgba(92, 122, 82, 0.24);
+  border-left: 5px solid rgb(92, 122, 82);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(92, 122, 82, 0.09);
+  counter-reset: pathway;
+}
+
+.callout[data-callout="pathways"] > .callout-title {
+  color: rgb(72, 100, 62);
+  font-weight: 650;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="pathways"] > .callout-title .callout-title-inner::before {
+  content: "PATH";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.06em 0.4em;
+  border-radius: 4px;
+  background: rgba(92, 122, 82, 0.18);
+  color: rgb(72, 100, 62);
+  font-size: 0.68em;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.callout[data-callout="pathways"] .callout-content > ul {
+  padding-inline-start: 0;
+  margin-block: 0.5rem 0.2rem;
+  list-style: none;
+}
+
+.callout[data-callout="pathways"] .callout-content > ul > li {
+  counter-increment: pathway;
+  position: relative;
+  padding: 0.45rem 0.6rem 0.45rem 2rem;
+  margin-bottom: 0.3rem;
+  border-radius: 6px;
+  line-height: 1.7;
+}
+
+.callout[data-callout="pathways"] .callout-content > ul > li::before {
+  content: counter(pathway);
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  display: inline-grid;
+  place-items: center;
+  width: 1.3rem;
+  height: 1.3rem;
+  border-radius: 999px;
+  background: rgb(92, 122, 82);
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.callout[data-callout="pathways"] .callout-content > ul > li:hover {
+  background: rgba(92, 122, 82, 0.07);
+}
+
 /* ─── contrast-table（对照 — 对角线纹 + 顶部重边） ──── */
 .callout[data-callout="contrast-table"] {
   --callout-color: 72, 82, 96;
@@ -1454,4 +1523,74 @@
   font-size: 0.88em;
   opacity: 0.82;
   margin: 0;
+}
+
+/* ─── frames-ref（思维框架参考卡 — 紧凑双列 + 钢蓝） ──────── */
+.callout[data-callout="frames-ref"] {
+  --callout-color: 72, 108, 150;
+  --callout-icon: lucide-layout-list;
+  background:
+    linear-gradient(135deg, rgba(72, 108, 150, 0.08), rgba(72, 108, 150, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(72, 108, 150, 0.18);
+  border-left: 5px solid rgb(72, 108, 150);
+}
+
+.callout[data-callout="frames-ref"] > .callout-title {
+  font-size: 0.85em;
+  color: rgb(52, 88, 130);
+  padding-bottom: 0.3rem;
+}
+
+.callout[data-callout="frames-ref"] .callout-content > ol,
+.callout[data-callout="frames-ref"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.3rem 0.55rem;
+  padding-inline-start: 0;
+  margin-block: 0.4rem 0.1rem;
+  list-style: none;
+  counter-reset: frame;
+}
+
+.callout[data-callout="frames-ref"] .callout-content > ol > li,
+.callout[data-callout="frames-ref"] .callout-content > ul > li {
+  counter-increment: frame;
+  display: flex;
+  align-items: baseline;
+  gap: 0.38rem;
+  padding: 0.32rem 0.55rem;
+  border-radius: 5px;
+  background: rgba(72, 108, 150, 0.055);
+  border: 1px solid rgba(72, 108, 150, 0.10);
+  font-size: 0.875em;
+  line-height: 1.45;
+}
+
+.callout[data-callout="frames-ref"] .callout-content > ol > li::before,
+.callout[data-callout="frames-ref"] .callout-content > ul > li::before {
+  content: counter(frame);
+  flex-shrink: 0;
+  width: 1.1rem;
+  height: 1.1rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(72, 108, 150, 0.18);
+  color: rgb(45, 80, 125);
+  font-size: 0.72em;
+  font-weight: 800;
+  margin-top: 0.1rem;
+}
+
+.callout[data-callout="frames-ref"] .callout-content > ol > li strong:first-child,
+.callout[data-callout="frames-ref"] .callout-content > ul > li strong:first-child {
+  color: rgb(45, 80, 125);
+  font-size: 0.93em;
+}
+
+/* 最后一项若为奇数，独占全行 */
+.callout[data-callout="frames-ref"] .callout-content > ol > li:last-child:nth-child(odd),
+.callout[data-callout="frames-ref"] .callout-content > ul > li:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
 }
