@@ -1926,19 +1926,28 @@
   --callout-color: 45, 100, 160;
   --callout-icon: lucide-table;
   background: var(--background-primary);
-  border: 1px solid rgba(45, 100, 160, 0.18);
-  border-left: 6px solid rgb(45, 100, 160);
+  border: 1px solid rgba(45, 100, 160, 0.16);
+  border-left: 5px solid rgb(45, 100, 160);
+  border-radius: 8px;
   padding: 0;
   overflow: hidden;
+  box-shadow:
+    0 2px 6px rgba(45, 100, 160, 0.06),
+    0 6px 18px rgba(0, 0, 0, 0.05);
 }
 
+/* ── 标题栏 ── */
 .callout[data-callout="ref-table"] > .callout-title {
   color: rgb(45, 100, 160);
   font-weight: 650;
   letter-spacing: 0.01em;
-  padding: 0.55rem 1rem;
-  border-bottom: 1px solid rgba(45, 100, 160, 0.15);
-  background: rgba(45, 100, 160, 0.05);
+  padding: 0.6rem 1.1rem;
+  border-bottom: 1px solid rgba(45, 100, 160, 0.13);
+  background: linear-gradient(
+    90deg,
+    rgba(45, 100, 160, 0.07) 0%,
+    rgba(45, 100, 160, 0.02) 100%
+  );
 }
 
 .callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before {
@@ -1955,66 +1964,112 @@
   vertical-align: middle;
 }
 
+/* ── 内容区去内边距，让表格边靠边 ── */
 .callout[data-callout="ref-table"] > .callout-content {
   padding: 0;
 }
 
-/* 表格本体 */
+/* ── 表格本体 ── */
 .callout[data-callout="ref-table"] table {
   width: 100%;
   border-collapse: collapse;
   margin: 0;
-  font-size: 0.9em;
+  font-size: 0.895em;
+  table-layout: auto;
 }
 
+/* 列宽提示：第一列窄、第二列宽、第三列中 */
+.callout[data-callout="ref-table"] col:nth-child(1) { width: 18%; }
+.callout[data-callout="ref-table"] col:nth-child(2) { width: 50%; }
+.callout[data-callout="ref-table"] col:nth-child(3) { width: 32%; }
+
+/* ── 表头 ── */
 .callout[data-callout="ref-table"] thead th {
-  background: rgba(45, 100, 160, 0.09);
+  background: rgba(45, 100, 160, 0.08);
   color: rgb(45, 100, 160);
   font-weight: 650;
-  padding: 0.5rem 1rem;
+  font-size: 0.78em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.5rem 1.1rem;
   text-align: left;
-  border-bottom: 2px solid rgba(45, 100, 160, 0.22);
+  border-bottom: 1.5px solid rgba(45, 100, 160, 0.20);
+}
+
+/* ── 数据行 ── */
+.callout[data-callout="ref-table"] tbody td {
+  padding: 0.55rem 1.1rem;
+  border-bottom: 1px solid rgba(var(--mono-rgb-100, 0,0,0), 0.06);
+  vertical-align: top;
+  line-height: 1.6;
+  transition: background 0.12s ease;
+}
+
+/* 第一列：标签列，加重 */
+.callout[data-callout="ref-table"] tbody td:first-child {
+  font-weight: 600;
+  color: var(--text-normal);
+  border-right: 1px solid rgba(45, 100, 160, 0.10);
   white-space: nowrap;
 }
 
-.callout[data-callout="ref-table"] tbody td {
-  padding: 0.5rem 1rem;
-  border-bottom: 1px solid var(--background-modifier-border);
-  vertical-align: top;
-  line-height: 1.55;
-}
-
+/* 末行无底线 */
 .callout[data-callout="ref-table"] tbody tr:last-child td {
   border-bottom: none;
 }
 
+/* 偶数行淡底 */
 .callout[data-callout="ref-table"] tbody tr:nth-child(even) td {
-  background: rgba(45, 100, 160, 0.03);
+  background: rgba(45, 100, 160, 0.025);
 }
 
-/* 深色模式 */
+/* hover 高亮 */
+.callout[data-callout="ref-table"] tbody tr:hover td {
+  background: rgba(45, 100, 160, 0.06);
+}
+
+/* ── 深色模式 ── */
 .theme-dark .callout[data-callout="ref-table"] {
-  border-left-color: rgb(110, 165, 220);
-  border-color: rgba(110, 165, 220, 0.25);
+  border-left-color: rgb(100, 160, 220);
+  border-color: rgba(100, 160, 220, 0.22);
+  box-shadow:
+    0 2px 6px rgba(100, 160, 220, 0.07),
+    0 6px 18px rgba(0, 0, 0, 0.18);
 }
 
 .theme-dark .callout[data-callout="ref-table"] > .callout-title {
-  color: rgb(110, 165, 220);
-  background: rgba(110, 165, 220, 0.07);
-  border-bottom-color: rgba(110, 165, 220, 0.18);
+  color: rgb(110, 170, 230);
+  background: linear-gradient(
+    90deg,
+    rgba(100, 160, 220, 0.10) 0%,
+    rgba(100, 160, 220, 0.03) 100%
+  );
+  border-bottom-color: rgba(100, 160, 220, 0.16);
 }
 
 .theme-dark .callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before {
-  background: rgba(110, 165, 220, 0.15);
-  color: rgb(110, 165, 220);
+  background: rgba(110, 170, 230, 0.15);
+  color: rgb(110, 170, 230);
 }
 
 .theme-dark .callout[data-callout="ref-table"] thead th {
-  background: rgba(110, 165, 220, 0.10);
-  color: rgb(110, 165, 220);
-  border-bottom-color: rgba(110, 165, 220, 0.25);
+  background: rgba(100, 160, 220, 0.09);
+  color: rgb(110, 170, 230);
+  border-bottom-color: rgba(100, 160, 220, 0.22);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody td {
+  border-bottom-color: rgba(255, 255, 255, 0.05);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody td:first-child {
+  border-right-color: rgba(100, 160, 220, 0.12);
 }
 
 .theme-dark .callout[data-callout="ref-table"] tbody tr:nth-child(even) td {
-  background: rgba(110, 165, 220, 0.04);
+  background: rgba(100, 160, 220, 0.04);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody tr:hover td {
+  background: rgba(100, 160, 220, 0.08);
 }

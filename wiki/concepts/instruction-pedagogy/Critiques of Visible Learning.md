@@ -113,10 +113,13 @@ updated: 2026-05-21
 
 ## 定义
 
-> [!def] 对可见的学习的批评
+> [!def] 对[[Visible Learning|可见的学习]]的批评
 > Critiques of [[Visible Learning]] 指围绕 [[John Hattie]] 的 [[Visible Learning]] 所形成的批评谱系。它不只是质疑某一个[[Effect Size|效应量]]或某一项排名，而是从统计方法、教育理论、教育哲学、可见性政治、教师专业性、政策使用和商业化网络等多个层面，追问 VL 如何把”学习影响”变成可排序、可管理、可推广的证据对象。
 >
 > 为减少重复，本条目集中呈现批评文献；VL 本身的定义、核心要素、发展脉络和学校改进语境见 [[Visible Learning]]。
+
+
+---
 
 ## 批评谱系
 
@@ -130,6 +133,9 @@ updated: 2026-05-21
 > | **文化政治批评** | 可见性作为支配形式、知识／权力再生产 | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] |
 > | **大师崇拜与新泰勒主义** | 制度权力集中、教师自主性被压缩 | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
 > | **政策与制度批评** | 政策外推正当性、非学校因素排除、商业化 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] |
+
+
+---
 
 ## 方法论批评
 
@@ -562,6 +568,9 @@ Nielsen & Klitmøller（2021, NordPsych）在方法论批评中提出了一个�
 
 Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）从统计技术角度批评（效应量计算错误、加权不当），他们追问的是**即使统计计算完全正确，纳入的研究是否在研究同一现象**——答案是否定的。
 
+
+---
+
 ## 教学理论与内容批评
 
 ### [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 教学理论的内容空洞
@@ -579,6 +588,9 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 [[Argument_Terhart_2011_JCS|Terhart (2011, p.434-435)]]注意到 [[Visible Learning|VL]] 中一种奇特的风格混合：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"——"确实有时非常困难和无聊地逐一浏览 138 个因素"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学和——最重要的——关于一个好的和有效的教师工作特征的段落"。
 
 这种"压倒性的、旺盛的乐观主义"和"对通过好的教学实现成功学习的可达成性的深深的（美国的？新西兰的？——还是仅仅是教育学的？）信念"让读者"看着数据中常常相当怀疑和悲观的意涵，有点困惑"（p.435）。Terhart 将此诊断为"以更心理学的方式建立的、对通过正确的、好的教学实现无限学习促进的信念"——一种现代版的浪漫化"天生教师"理想，只是这次建立在"科学证据和高涨的教育精神"之上（p.435）。
+
+
+---
 
 ## 教育哲学批判
 
@@ -791,6 +803,9 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 
 此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 批判理论出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 
+
+---
+
 ## 可见性的政治：Foucault 视角与文化政治批评
 
 ### [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 可见性作为精致的支配形式
@@ -865,6 +880,9 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 - 视觉长期以来承载着作为意识的定义性和统治性能力的粗暴声誉；对视觉傲慢假设的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979）
 - 包容性教育理论已展示排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）
 
+
+---
+
 ## "大师崇拜"与 Neo-Taylorism 批评（Eacott, 2017a, 2019）
 
 Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 [[Visible Learning|VL]] 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
@@ -881,6 +899,9 @@ Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发
 **Hattie 回应的不充分性**：[[Argument_Hattie_2017_SLM|Hattie (2017)]]以 Popper 证伪主义为旗帜否认"大师崇拜"的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
 **编辑决策的体制含义**：Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应。Eacott 认为这一决策本身"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
+
+---
+
 
 ---
 
@@ -925,11 +946,17 @@ Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于
 
 **整体定性**：Johnson & Janzen 将 VL 定性为"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"（p.35）。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"（p.30）。
 
+
+---
+
 ## 非学校因素的排除：[[Argument_Grace_2010_NZJES|Grace (2010)]] 的批评
 
 [[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的"critic and conscience of society"角色存在根本矛盾([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Hattie 在 VL 前言中明确表示："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
 
 Grace 的核心论点是：这种排除产生了一个"还原主义和天真的观点"——认为仅靠改变教育安排就能解决教育成就不平等——这使政治家和政策制定者得以回避更根本的社会和经济不平等问题([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash（2003）的工作为对照，说明真正的教育学术批评应当将非学校因素置于分析的核心([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
+
+
+---
 
 ## 总结性批评
 
@@ -939,6 +966,9 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 > - 把教育压缩成单一影响值，会系统性抹平情境、内容和意义。
 > - VL 的流行不能只用经验质量解释，还必须结合政策、治理和合法化需求来理解。
 > - 如果继续使用 VL，也需要通过 [[Professional Judgment]]、更清晰的学习理论和更强的情境化解释来限制其扩张。
+
+
+---
 
 ## 相关案例／政策
 
@@ -957,6 +987,9 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]虽然承认 Hattie 的愿景"有远见"且"为他赢得了宝贵而持久的优点"，但方法"在当前出版条件下以科学合理的方式是不可行的"（p.1, p.34-35）
 - 作者提出学校中本应出现但缺席的论述：抵制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
 - Nielsen & Klitmøller（2021）从 Habermas 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
+
+
+---
 
 ## VL 支持者的辩护：[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 的三重论证
 
