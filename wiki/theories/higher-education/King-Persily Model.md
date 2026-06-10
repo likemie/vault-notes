@@ -25,7 +25,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-10
 ---
 
 # King-Persily Model
@@ -40,9 +40,24 @@ updated: 2026-06-02
 ## 核心命题
 
 > [!abstract]
-> King-Persily 模型的核心命题包含两个维度（pp.188–189）：
+> King-Persily 模型的核心命题包含两个维度（[[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.188–189]]）：
 > - **数据访问与学术独立的平衡**：第三方委员会负责审查数据访问请求，确保研究者在获得必要数据的同时，产业伙伴的专有信息不被泄露。这既保护了学术研究的独立性，也回应了产业对数据安全的关切。
 > - **适用于数据密集型合作场景**：该模型尤其适用于那些分析对象本身就是产业持有的数据（如社交媒体平台数据、患者数据、[[Clinical Trial|临床试验]]数据）的[[University-Industry Collaboration|产学合作]]项目。
+
+## 运作结构
+
+> [!abstract]
+> King-Persily 模型的具体运作结构包括以下核心组件（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, pp.13–14]]）：
+
+- **公司端（Company）**：提供数据和信息，但不直接接触研究者；公司与委员会共同商定研究项目的范围，并发布研究提案征集
+- **委员会（The Commission — 可信第三方）**：由资深学者组成，与公司签署保密协议并放弃基于数据的发表权。委员会独立评审研究提案的学术和社会价值，排除侵犯隐私、违反现有法律协议/义务、干扰正在进行的调查或使公司处于竞争劣势的提案
+- **非营利基金会（Nonprofit Foundations）**：提供资助，不参与数据访问决策
+- **独立学术专家（Independent Academic Experts）**：来自大学的独立研究者，申请资助和（经过隐私保护的）数据访问；研究成果发表**无需公司预先批准**
+- **同行评审过程（Peer Review Process）**：确保研究质量和独立性
+
+> 这一结构的关键设计原则是：公司放弃对研究提案选择和研究结果发表的事前控制，换取一个受信任的委员会机制来确保数据安全和专有利益保护。研究者获得数据访问的渠道但不需要直接接触原始隐私数据。基金会提供中立的资金来源，进一步保障了研究的独立性。
+
+该模型已在 Social Science One 实施，并在哈佛大学定量社会科学研究所内部孵化。
 
 ## 在生物医学创新中的适用性
 

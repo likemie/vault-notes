@@ -29,15 +29,19 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: '2026-05-23'
+updated: '2026-06-10'
 ---
 
 ## 定义
 
 > [!info]
-> 逻辑模型（Logic Model）是把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具。它帮助参与者明确项目“先发生什么、再产生什么、最终希望达到什么”，并为[[Formative Program Evaluation|形成性项目评价]]提供数据组织框架([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
+> 逻辑模型（Logic Model）是把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具。它帮助参与者明确项目”先发生什么、再产生什么、最终希望达到什么”，并为[[Formative Program Evaluation|形成性项目评价]]提供数据组织框架([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
+
+W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻辑模型的经典表述强调了两大核心部分（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, p.23]]）：**计划的行动**（Planned Work）——包括所需资源和输入（Resources/Inputs）以及由此实现的计划活动（Activities）；**预期的结果**（Intended Results）——包括活动产生的输出（Outputs）、参与者获得的中间结果（Intermediate Outcomes）和对组织、社区或系统的最终影响（Impacts）。因果链逻辑为：如果你获得资源 → 你可以完成计划活动；如果你完成计划活动 → 你将交付预期输出；如果参与者获得这些输出 → 他们将以某种方式受益；如果这些受益实现 → 组织、社区或系统可能发生某些变化。
 
 在复杂教育改革中，逻辑模型的价值不只是画流程图，而是建立共享预期。若利益相关者一开始就从项目投入跳到学生成就增益，很多中间过程会被忽略；逻辑模型可以说明教师专业发展、课堂环境变化、数字资源使用、学生参与和长期成就之间需要经历哪些阶段([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-124]])。
+
+在产学合作领域，逻辑模型被应用于评估伙伴关系的绩效——迫使评估者明确投资的理由和目标，区分计划工作（包括所需投入和由此实现的活动）、产生的输出，以及这些输出最终对组织和更广泛系统产生的影响。任何伙伴关系投资绩效的评估还应反思考量的”反事实”——在没有这些投资的情况下会实现什么结果和影响（即”影响的额外性”，additionality of impacts）（Oxford UIDP Summit, 2019, p.23）。
 
 ## 认识论立场
 

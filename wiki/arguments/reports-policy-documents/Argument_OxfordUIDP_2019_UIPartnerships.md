@@ -5,7 +5,7 @@ type: argument
 subtype: report
 publication_type: report
 issuing_organization: "University of Oxford and University-Industry Demonstration Partnership (UIDP)"
-citation: ""
+citation: "University of Oxford & University-Industry Demonstration Partnership (UIDP). (2019). Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019."
 authors: []
 year: 2019
 doi: ""

@@ -1809,6 +1809,16 @@
     ]
   },
   {
+    "title": "Convergence Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Convergence Research.md",
+    "aliases": [
+      "融合研究",
+      "convergence research model",
+      "convergent research"
+    ]
+  },
+  {
     "title": "Cooperative Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Cooperative Education.md",
@@ -2526,6 +2536,18 @@
     ]
   },
   {
+    "title": "Research and Technology Organisation",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Research and Technology Organisation.md",
+    "aliases": [
+      "研究与技术组织",
+      "研究技术组织",
+      "RTO",
+      "research and technology organizations",
+      "research technology organisation"
+    ]
+  },
+  {
     "title": "Research Security",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Research Security.md",
@@ -2585,6 +2607,17 @@
       "semi-autonomy",
       "relative autonomy of higher education",
       "高等教育相对自主性"
+    ]
+  },
+  {
+    "title": "Servitisation of Manufacturing",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Servitisation of Manufacturing.md",
+    "aliases": [
+      "制造业服务化",
+      "servitisation",
+      "servitization of manufacturing",
+      "product-service systems in manufacturing"
     ]
   },
   {
@@ -2880,6 +2913,17 @@
       "巴斯德象限",
       "use-inspired research",
       "Pasteur象限"
+    ]
+  },
+  {
+    "title": "Valley of Death",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Valley of Death.md",
+    "aliases": [
+      "死亡之谷",
+      "valley of death in technology commercialization",
+      "technology valley of death",
+      "innovation valley of death"
     ]
   },
   {
@@ -5831,6 +5875,17 @@
       "金-珀斯利模型",
       "King Persily model",
       "King-Persily 模型"
+    ]
+  },
+  {
+    "title": "Lester's Typology of University Contributions to Local Industry",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Lester's Typology of University Contributions to Local Industry.md",
+    "aliases": [
+      "Lester 大学贡献分类",
+      "Lester's typology",
+      "大学对本地产业的贡献类型",
+      "Lester local innovation typology"
     ]
   },
   {
@@ -9968,6 +10023,16 @@
     ]
   },
   {
+    "title": "Oxford UIDP Summit 2019",
+    "type": "fact",
+    "path": "wiki/facts/uk/Oxford UIDP Summit 2019.md",
+    "aliases": [
+      "2019 牛津 UIDP 峰会",
+      "Oxford UIDP Summit",
+      "UK-UIDP Summit"
+    ]
+  },
+  {
     "title": "Playing for Success",
     "type": "fact",
     "path": "wiki/facts/uk/Playing for Success.md",
@@ -10092,6 +10157,16 @@
     "aliases": [
       "Selective Schools Expansion Fund 2018",
       "选择性学校扩张基金"
+    ]
+  },
+  {
+    "title": "UK Knowledge Exchange Framework",
+    "type": "fact",
+    "path": "wiki/facts/uk/UK Knowledge Exchange Framework.md",
+    "aliases": [
+      "英国知识交流框架",
+      "KEF",
+      "Knowledge Exchange Framework"
     ]
   },
   {
@@ -11504,6 +11579,11 @@
     "title": "Argument_ONeill_2016_Report",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
+  },
+  {
+    "title": "Argument_OxfordUIDP_2019_UIPartnerships",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_OxfordUIDP_2019_UIPartnerships.md"
   },
   {
     "title": "Argument_UIDP_2012_PartnershipContinuum",

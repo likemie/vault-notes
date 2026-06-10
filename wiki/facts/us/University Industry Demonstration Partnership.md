@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-05
+updated: 2026-06-10
 ---
 
 # University Industry Demonstration Partnership
@@ -138,6 +138,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 > [!note]
 > - **2015 年 7 月**：UIDP 从国家科学院"毕业"，成为独立的非营利组织。企业会员在全球运营，表达了将大学会员扩展到美国之外的兴趣（Boccanfuso & Hall, 2025, p.19）
 > - **2016 年**：启动国际试点，邀请牛津大学、多伦多大学、东京大学等关键非美国大学加入（Boccanfuso & Hall, 2025, p.19）
+> - **2019 年**：与牛津大学联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名来自大学、企业和政府的高层代表，围绕十大关键议题进行三天密集讨论，产出报告 *Developing University-Industry Partnerships Fit for the Future*（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, pp.2–3]]）。峰会项目委员会在会前确定了三个优先探索领域：开发可收集和具有说服力的度量指标；理解 AI 和机器学习在产学合作决策中的机会；探索应对全球结构变化的新合作模式
 > - **截至 2025 年**：UIDP 拥有超过 60 个"操作指南"出版物，项目内容已从合同共识扩展到人才、战略关系和[[Innovation Ecosystem|创新生态系统]]与经济发展等领域（Boccanfuso & Hall, 2025, pp.19–20）
 
 ---
