@@ -16,9 +16,19 @@ citation_aliases:
   - "Spronken-Smith et al., 2024"
   - "Spronken-Smith et al. (2024)"
 tags: [global-citizenship, graduate-attributes, doctoral-education, transferable-skills, employability, level/higher-ed, method/mixed-methods, region/new-zealand, region/us]
-related_concepts: ["[[Research Question]]", "[[Employability]]", "[[Graduate Attributes]]", "[[Global Citizenship]]", "[[Analytic Framework]]", "[[Statistical Significance]]", "[[21st Century Skills and Competencies Discourse]]"]
+related_concepts:
+  - "[[Graduate Attributes]]"
+  - "[[Global Citizenship]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Outcomes-based Education]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
-related_methods: ["[[Systematic Review]]", "[[Comparative Case Study]]", "[[Case Study]]", "[[Mixed Methods Research]]", "[[Coding in Qualitative Research]]", "[[Chi-Squared Test]]"]
+related_methods:
+  - "[[Comparative Case Study]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Chi-Squared Test]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -34,7 +44,7 @@ updated: '2026-06-10'
 ## 研究问题
 
 > [!question]
-> 针对高等教育机构面临的博士培养成效与质量认证压力，探讨不同国家和学科的博士毕业生，在多大程度上感知到博士阶段帮助其发展了毕业生特质，以及这些特质在职场中的实际应用程度，以识别博士培养中的系统性薄弱环节。（p. 86）
+> 针对高等教育机构面临的博士培养成效与质量认证压力，探讨不同国家和学科的博士毕业生，在多大程度上感知到博士阶段帮助其发展了[[Graduate Attributes|毕业生特质]]，以及这些特质在职场中的实际应用程度，以识别博士培养中的系统性薄弱环节。（p. 86）
 
 > [!stat-cards]+ 一页读懂
 > - **对象**：来自美国两所大学与新西兰一所大学的人文与社会科学（HASS）及科学学科的博士毕业生。（p. 88）
@@ -95,7 +105,7 @@ updated: '2026-06-10'
 ### 学术界之外的就业压力与毕业生特质测量的局限
 
 > [!step] 识别博士通用素养培养的现实缺口
-> 在博士生培养中，由于毕业生进入企业、政府、非营利组织等非学术职场的比例不断上升，高等教育机构面临着论证博士学位价值的现实压力（p. 86）。现有关于毕业生特质的探讨多局限于本科层次，且多为单一国家的量化研究，缺乏跨学科和跨国的比较（p. 87）。此外，通用测量工具往往忽略了全球公民素养和职业生涯发展这两个重要维度（p. 87）。为此，必须引入包含全球公民与专业发展的更全面的素养指标体系，以评估博士生对自身能力发展的感知及其实际职场应用（p. 87）。
+> 在博士生培养中，由于毕业生进入企业、政府、非营利组织等非学术职场的比例不断上升，高等教育机构面临着论证博士学位价值的现实压力（p. 86）。现有关于[[Graduate Attributes|毕业生特质]]的探讨多局限于本科层次，且多为单一国家的[[Quantitative Research|量化研究]]，缺乏跨学科和跨国的比较（p. 87）。此外，通用测量工具往往忽略了[[Global Citizenship|全球公民]]素养和职业生涯发展这两个重要维度（p. 87）。为此，必须引入包含全球公民与专业发展的更全面的素养指标体系，以评估博士生对自身能力发展的感知及其实际职场应用（p. 87）。
 
 ---
 
@@ -125,7 +135,7 @@ updated: '2026-06-10'
 ### 学科文化的隔离效应：以团队合作与沟通能力为例
 
 > [!step] 剖析协作与沟通能力薄弱的学科机制
-> 访谈文本深入揭示了这五大薄弱领域的发生机制。在团队合作方面，科学学科的实验室环境虽然天然提供了协作机会，但学生仍普遍感到缺乏正式的团队冲突管理培训；而在人文与社会科学学科中，以独立研究为主的学科规范使学生几乎完全没有团队协作的机会，从而加剧了沟通与团队技能的缺失（p. 95）。在沟通方面，博士期间的训练偏重学术共同体内的书面和口头表达，当毕业生需要向非学术受众阐释其研究时，面临严重的语言“不可及性”和转译技能匮乏（p. 96）。
+> 访谈文本深入揭示了这五大薄弱领域的发生机制。在团队合作方面，科学学科的实验室环境虽然天然提供了协作机会，但学生仍普遍感到缺乏正式的团队冲突管理培训；而在人文与社会科学学科中，以独立研究为主的学科规范使学生几乎完全没有团队协作的机会，从而加剧了沟通与团队技能的缺失（p. 95）。在沟通方面，博士期间的训练偏重学术共同体内的书面和口头表达，当毕业生需要向非学术受众阐释其研究时，面临严重的语言“不可及性”和[[Transfer Translation Transformation|转译]]技能匮乏（p. 96）。
 > 
 > > [!contrast-table] 学科协作与沟通模式对比
 > > | 学科领域 | 团队合作特征 | 沟通技能短板 |
@@ -157,7 +167,7 @@ updated: '2026-06-10'
 
 > [!finding-cards] 核心发现
 > 1. **能力发展存在显著的研究者偏向与通用技能差距**：博士阶段对研究技能（均值为 4.4）、分析技能（均值为 4.4）和学术严谨性（均值为 4.3）的训练极强，甚至高于职场的实际需求；但在团队合作（均值为 2.9）和环境素养（均值为 2.8）等协作与社会性特质上的培养水平极低。（pp. 89–90, p. 93）
-> 2. **职场应用需求与学校培养的系统性脱节**：对比发展与应用评分，职场对大部分毕业生素养的应用需求显著高于博士阶段的发展感知，其中团队合作的供给缺口最大（差值为 1.3），其次是自信心（差值为 0.9）、口头沟通与实施变革能力（差值均为 0.8），且这一差距在不同国家和课程制度的大学毕业生中表现高度一致。（p. 92, p. 93）
+> 2. **职场应用需求与学校培养的系统性脱节**：对比发展与应用评分，职场对大部分[[Graduate Attributes|毕业生素养]]的应用需求显著高于博士阶段的发展感知，其中团队合作的供给缺口最大（差值为 1.3），其次是自信心（差值为 0.9）、口头沟通与实施变革能力（差值均为 0.8），且这一差距在不同国家和课程制度的大学毕业生中表现高度一致。（p. 92, p. 93）
 > 3. **院系导师文化对职业社会化渠道的限制**：在 136 名毕业生中仅有 2 人制定了个人发展计划，其职业准备的普遍缺失主要受制于院系“默认所有人进入学术界”的假设，非学术路径常被暗示为“次等选择”，导致非学术职业信息的严重匮乏。（p. 96）
 
 > [!stat-cards]- 核心数据
