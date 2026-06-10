@@ -159,6 +159,21 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 > - **数据来源**：元分析基于 1980s–2000s 三个英语国家（美国、澳大利亚、新西兰）的研究，跨语境迁移性有限（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]]）。
 > - **争议性产出**：教师学科知识和教师资格对学业成绩的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对整体方法有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
 
+### 学习方差分解
+
+Hattie（2015, pp.87–88）通过 Figure 2 梳理了影响学业成就的主要方差来源：
+
+| 方差来源 | 估计比例/效果 | 说明 |
+|---------|-------------|------|
+| 学生因素 | 约 50% | 先前知识、动机、学习方式、协作偏好等带到课堂的差异 |
+| 教师因素 | 约 20–25% | 教师质量——"如每个学生所知，教师可以差异很大"；教育者可控制的最大方差来源 |
+| 结构因素 | 效应有限 | 讲座 vs 在线、课堂架构等 |
+| 同伴效应 | 潜力未发挥 | 可发挥比目前更大的影响 |
+| 领导力 | 间接影响 | 通过营造学校文化与组织条件间接影响学习 |
+
+> [!citation-card]
+> "Understanding the essence of successful teachers and teaching has been the quest of the Visible Learning series." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.88]])
+
 ---
 
 ## 核心框架
@@ -177,10 +192,6 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 >     B --> C["实施层：忠实实施 / 反馈文化 / 学校协作改进"]
 > ```
 
-> [!nav] 快速阅读路径
-> 如果只想先抓主线，可以先读：`教与学的可见性 → 效应量排名与关节点 → Know thy impact → 作为评价性判断而非方法清单 → 忠实实施`
-
-
 ### 教与学的可见性
 
 教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]])。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]])。
@@ -189,14 +200,14 @@ Qvortrup 进一步指出，Hattie 本人并未掩盖这一限制：多数纳入�
 
 以 d=0.40 为"关节点"（hinge point），区分有效与无效干预，排名 150+ 项教学因素([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.32]])。四级划分：负面效应区（d<0）、发展效应区（d=0-0.15）、低中效应区（d=0.15-0.4）、期望效应区（d>0.4）。
 
+---
+
+> [!abstract] 教学层：从证据到教师判断
+> 以下三节从核心口号出发，经由判断逻辑到操作循环，最后落到八项思维框架。
+
 ### "Know thy impact"
 
 Hattie 的核心口号，要求教师以可见证据评估自身教学对学生成绩的影响（Hattie, Masters, & Birch, 2016, p.3，引自 McKnight & Whitburn, 2020, p.40）。
-
----
-
-> [!abstract] 教学判断与实施
-> 下面几节集中回答同一个问题：VL 不只是"列出高效方法"，它还试图规定教师应如何判断、如何执行、以及学校怎样把这些判断组织成改进流程。
 
 ### 作为评价性专业判断而非方法清单
 
@@ -205,6 +216,39 @@ Hattie (2015) 对 VL 的自我解释把重点从"选择排名最高的教学法"
 这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要追问提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
 
 一个学校若只是把"高效应量策略"列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是"Know thy impact"的实践含义（Hattie, 2015, pp.12-13）。
+
+### DIE 模型
+
+Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成功教师的核心循环：
+
+> [!finding-cards] DIE 循环
+> - **D — Diagnose（诊断）**：在课程开始时诊断学生状态
+> - **I — Intervene（干预）**：当前干预未见效时切换至备选干预方案
+> - **E — Evaluate（评估）**：评估学生对干预的反应
+
+> [!citation-card]
+> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
+
+### 八项教师思维框架（Mind Frames）
+
+> [!finding-cards] 思维框架一至四
+> 1. **Know thy impact**（知晓影响力）— 核心问题："我今天如何知道我的影响？"包括影响的含义、幅度与覆盖学生比例
+> 2. **I am a change agent**（变革推动者）— 教师视自己为积极改变学生学习轨迹的推动者
+> 3. **Inform students of successful impact from the outset**（明确成功标准）— 在课程开始明确告知学生成功意味着什么
+> 4. **Assessment as feedback on my impact**（评估即反馈）— 将评估视为了解自身影响力的反馈机制，而非学生排名工具
+
+> [!finding-cards] 思维框架五至八
+> 5. **Work with others to develop conceptions of progress**（共同建立进步概念）— 与同事合作建立关于学生进步的共识标准
+> 6. **Dialogue not monologue**（对话而非独白）— 课堂以双向对话为主，而非教师单向讲授
+> 7. **Strive for challenge, not "doing your best"**（挑战而非"尽力"）— 设置明确高要求，而非接受模糊的努力目标
+> 8. **Language of learning; errors as opportunities**（学习语言与错误观）— 以成长框架而非表现评判看待课堂，将错误视为学习机会
+>
+> ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]])
+
+---
+
+> [!abstract] 实施层：从教师判断到学校改进
+> 以下几节集中回答 VL 如何通过忠实实施、学习意图和学校协作把证据逻辑落地，以及斯堪的纳维亚语境中如何把它重写为自下而上的改进起点。
 
 ### 忠实实施（Fidelity）
 
@@ -236,46 +280,8 @@ Hattie (2015) 对 VL 的自我解释把重点从"选择排名最高的教学法"
 
 ---
 
-> [!abstract] 高等教育与学习科学
-> 下面转向 VL 如何在高等教育里压缩成若干"高影响条件"，以及它怎样借助学习科学、教师思维框架和方差分解来支撑这套说法。
-
-### 高等教育的六项关键发现
-
-> [!finding-cards] 高等教育六项高影响条件
-> 1. **评估自身影响力**（d=0.91）：教师相信主要角色是评估自身的影响力。
-> 2. **教师合作**（d=0.91）：合作了解和评估自身影响。
-> 3. **先前学习**（d=0.85）：基于学生带到课堂的先前知识进行教学。
-> 4. **明确成功标准**（d=0.77）：在系列课程开始时告知学生成功标准。
-> 5. **最优表深层比例**（d=0.71）：实施具有最优[[Surface and Deep Learning|表层/深层学习]]比例的方案。
-> 6. **适当挑战**（d=0.57）：设置适当挑战水平，不只要求"尽力而为"。
->
-> 影响不仅通过测试分数衡量，也通过学生投入程度、对错误的容忍度、合作意愿与高度兴趣体现（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]]）。
-
-### DIE 模型
-
-Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成功教师的核心循环：
-
-> [!finding-cards] DIE 循环
-> - **D — Diagnose（诊断）**：在课程开始时诊断学生状态
-> - **I — Intervene（干预）**：当前干预未见效时切换至备选干预方案
-> - **E — Evaluate（评估）**：评估学生对干预的反应
-
-> [!citation-card]
-> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
-
-### 八项教师思维框架（Mind Frames）
-
-> [!finding-cards] 八项教师思维框架
-> 1. **Know thy impact**（知晓影响力）— 核心问题："我今天如何知道我的影响？"包括影响的含义、幅度与覆盖学生比例
-> 2. **I am a change agent**（变革推动者）— 教师视自己为积极改变学生学习轨迹的推动者
-> 3. **Inform students of successful impact from the outset**（明确成功标准）— 在课程开始明确告知学生成功意味着什么
-> 4. **Assessment as feedback on my impact**（评估即反馈）— 将评估视为了解自身影响力的反馈机制，而非学生排名工具
-> 5. **Work with others to develop conceptions of progress**（共同建立进步概念）— 与同事合作建立关于学生进步的共识标准
-> 6. **Dialogue not monologue**（对话而非独白）— 课堂以双向对话为主，而非教师单向讲授
-> 7. **Strive for challenge, not "doing your best"**（挑战而非"尽力"）— 设置明确高要求，而非接受模糊的努力目标
-> 8. **Language of learning; errors as opportunities**（学习语言与错误观）— 以成长框架而非表现评判看待课堂，将错误视为学习机会
->
-> ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]])
+> [!abstract] 学习科学基础
+> Hattie & Yates（2014）从认知神经科学角度为 VL 提供心理学依据，核心主张是学习是艰苦工作，反馈文化是学校改进的关键机制。
 
 ### 学习科学基础：九条原则（Hattie & Yates, 2014）
 
@@ -305,19 +311,25 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 
 Hattie & Yates 早期在书中声称好教师不能以特定人格类型定义。[[Argument_Fredens_2015_Paideia|Fredens (2015, p.73)]] 质疑这一立场，引用 Lambert & Barley (2001) 的[[Meta-analysis|元分析]]——治疗师人格是治疗关系中最重要的因素，比所用方法更重要——提出"教师的人格性表现（personlige ageren）在师生关系中是否比所用方法更具决定性？"
 
-### 学习方差分解
+---
 
-> [!finding-cards] 影响学业成就的方差来源
-> 1. **学生因素**（约50%）：先前知识、动机、学习方式、协作偏好等带到课堂的差异
-> 2. **教师因素**（约20–25%）：教师质量——"如每个学生所知，教师可以差异很大"；教育者可控制的最大方差来源
-> 3. **结构因素**：讲座 vs 在线、课堂架构等（效应有限）
-> 4. **同伴效应**：尚有潜力——可以发挥比目前更大的影响
-> 5. **领导力**：通过营造学校文化与组织条件间接影响学习
->
-> ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.87–88, Figure 2]])
+> [!abstract] 高等教育应用
+> Hattie（2015）在高等教育语境中提炼出六项高影响条件，并汇总了各类教学活动的效应量证据。
 
-> [!citation-card]
-> "Understanding the essence of successful teachers and teaching has been the quest of the Visible Learning series." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.88]])
+### 高等教育的六项关键发现
+
+Hattie（2015, pp.80–81）在高等教育语境中概括了六项高影响条件：
+
+| 条件 | d | 说明 |
+|------|---|------|
+| 评估自身影响力 | 0.91 | 教师相信主要角色是评估自身的影响力 |
+| 教师合作 | 0.91 | 合作了解和评估自身影响 |
+| 先前学习 | 0.85 | 基于学生带到课堂的先前知识进行教学 |
+| 明确成功标准 | 0.77 | 在系列课程开始时告知学生成功标准 |
+| 最优表深层比例 | 0.71 | 实施具有最优[[Surface and Deep Learning\|表层/深层学习]]比例的方案 |
+| 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
+
+影响不仅通过测试分数衡量，也通过学生投入程度、对错误的容忍度、合作意愿与高度兴趣体现（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]]）。
 
 ### 高等教育情境中的应用发现
 
@@ -331,6 +343,7 @@ Hattie & Yates 早期在书中声称好教师不能以特定人格类型定义�
 > - **综合效果**（197项大学教学活动，Tomcho & Foels, 2008）：几乎全部正向；知识 d=0.57、态度 d=0.27、行为/技能 d=0.39、成绩 d=0.31（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.80]]）。
 
 ---
+
 
 ## 概念发展
 
