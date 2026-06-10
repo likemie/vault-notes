@@ -11,6 +11,14 @@ tags:
   - theme/interdisciplinary
   - theme/innovation
   - level/higher-education
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Responsible Innovation]]"
+related_facts:
+  - "[[National Science Foundation]]"
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10
@@ -33,7 +41,7 @@ updated: 2026-06-10
 
 ## 典型案例
 
-> [!example] NSF Future of Work at the Human Technology Frontier
+> [!example] [[National Science Foundation|NSF]] Future of Work at the Human Technology Frontier
 > 美国国家科学基金会（NSF）的"人类技术前沿的未来工作"项目是融合研究的典型案例。该研究在工作的未来、技术的未来和劳动者的未来三者的交汇处运作，需要来自广泛学科的不同类型专业知识、研究工具和技术（p.15）：
 > - **未来劳动者**：个体劳动者的基本原则和支持、工作团队、工作场所和工作组织
 > - **未来技术**：工程和计算机科学技术以创建人与技术的工作伙伴关系
@@ -42,7 +50,7 @@ updated: 2026-06-10
 ## 实施建议
 
 > [!tip]
-> 峰会代表提出了一系列加速 SSH 融入产学合作的行动方向（pp.15–16）：
+> 峰会代表提出了一系列加速 SSH 融入[[University-Industry Collaboration|产学合作]]的行动方向（pp.15–16）：
 
 **大学层面**：在学术界的奖励和认可方面推动进一步的文化变革——特别针对那些历史上没有与产业互动传统的 SSH 领域。这可能需要改变终身教职和晋升过程、改变任命方式，以及创建包容有效参与企业所需专业知识的新职业结构和路径。投资安全数据设施以增强产业伙伴参与合作的信心。
 

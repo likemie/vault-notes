@@ -41,10 +41,13 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Netherlands Top-sector Policy]]"
+  - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -136,7 +139,7 @@ updated: 2026-06-10
 - 创新政策分析 — 用于评估不同国家的国家创新体系（[[Systems of Innovation|NIS]]）和政策工具的有效性
 - **国际 UI 合作障碍评估** — Rossoni et al.（2023）从三重螺旋、关系社会资本和[[Technology Transfer|技术转移]]三个[[Theoretical Perspective|理论视角]]，系统评估了产学研发与创新合作的障碍因素([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, p.316]])
 - **[[Public-Private Partnership in Research|PPP]] 作为 Triple Helix 的组织制度化** — 公私合作伙伴关系（PPP） 是 Triple Helix 理论在组织层面的制度化实现形式：它规定了政产学三方在具体合作中的资金分担、决策权和知识产权归属规则。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.233–236)]]从企业 [[Academic Engagement Team|AET]] 实践者角度识别了 PPP 设计的四个关键维度——治理、竞争理论、技术战略和知识产权——并展示了美国半导体行业三代 PPP 模式（[[Universal Parallel Computing Research Centers|UPCRC]] 企业先行 → [[Semiconductor Research Corporation|SRC]] 行业联盟 → NSTC 国家制度化）如何构成 Triple Helix 从一次性项目到持久制度安排的递进演化
-- **荷兰顶级行业政策与 Triple Helix 实践** — 2019 年 Oxford UIDP Summit 详细讨论了荷兰以顶级行业（top-sector）政策推动 Triple Helix 运作的经验([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, pp.31–32]])。[[Netherlands Top-sector Policy]] 于 2010 年后确立，选择九个基于高生产力、高知识强度、出口导向和解决社会挑战能力的顶级行业，通过"使三重螺旋运作"——将企业、研究机构和政府的力量更有效地联合起来。2013–2017 年间，尽管荷兰研发强度几乎未变（从 1.93% 微升至 1.99%），但公私合作项目规模翻倍（从 6.22 亿欧元增至 12.5 亿欧元），私营部门贡献份额从 35% 升至 46%，全球竞争力排名从第 8 升至第 4。这一经验表明 Triple Helix 的质量——而非仅仅研发投入量——才是提升创新和经济结果的关键驱动力
+- **[[Netherlands Top-sector Policy|荷兰顶级行业政策]]与 Triple Helix 实践** — 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 详细讨论了荷兰以顶级行业（top-sector）政策推动 Triple Helix 运作的经验([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford UIDP Summit, 2019, pp.31–32]])。[[Netherlands Top-sector Policy]] 于 2010 年后确立，选择九个基于高生产力、高知识强度、出口导向和解决社会挑战能力的顶级行业，通过"使三重螺旋运作"——将企业、研究机构和政府的力量更有效地联合起来。2013–2017 年间，尽管荷兰研发强度几乎未变（从 1.93% 微升至 1.99%），但公私合作项目规模翻倍（从 6.22 亿欧元增至 12.5 亿欧元），私营部门贡献份额从 35% 升至 46%，全球竞争力排名从第 8 升至第 4。这一经验表明 Triple Helix 的质量——而非仅仅研发投入量——才是提升创新和经济结果的关键驱动力
 
 ---
 

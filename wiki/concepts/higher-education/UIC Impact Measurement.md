@@ -15,6 +15,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[University Spin-Out]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Responsible Innovation]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -91,7 +92,7 @@ Cohen 等人（2025）通过对 92 篇文献的[[Systematic Review|系统综述]
 - I.19 区域经济与社会发展的促进
 - I.20 就业创造
 - I.21 生活质量的改善
-- I.22 社会负责任创新与创业的增加
+- I.22 社会[[Responsible Innovation|负责任创新]]与创业的增加
 
 **战略影响**（p.359）：
 - I.23 声誉提升

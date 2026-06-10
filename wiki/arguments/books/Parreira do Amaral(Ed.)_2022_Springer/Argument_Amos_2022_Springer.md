@@ -57,6 +57,7 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[OECD]]"
   - "[[Regional University Alliances]]"
+  - "[[League of European Research Universities]]"
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
@@ -153,7 +154,7 @@ citation_aliases:
 >
 > **(3) 教师专业发展与新工作机会**：[[Learning Analytics]]（learning analytics）和个性化学习（personalized learning）被宣称为改善学习质量的技术手段。这同时创造了一个新的劳动力市场——数据科学家、学习设计师、教育技术开发者。
 >
-> 数字化也在重新绘制大学的组织地图：[[Regional University Alliances]]——欧洲研究型大学联盟（LERU）、The GUILD、以及欧盟委员会框架下的欧洲大学联盟（European University Alliances）——跨越国界甚至大洲边界，合作研究、推动学生和教职流动、开发联合学位项目。Bologna Process 在欧洲高等教育区内的多样化实施证明，即便在标准化压力下，大学仍然有强大的力量维持各自的运作方式(p.57)。
+> 数字化也在重新绘制大学的组织地图：[[Regional University Alliances]]——[[League of European Research Universities|欧洲研究型大学联盟]]（LERU）、The GUILD、以及欧盟委员会框架下的欧洲大学联盟（European University Alliances）——跨越国界甚至大洲边界，合作研究、推动学生和教职流动、开发联合学位项目。Bologna Process 在欧洲高等教育区内的多样化实施证明，即便在标准化压力下，大学仍然有强大的力量维持各自的运作方式(p.57)。
 >
 > > 例：想象一所德国中型大学。它既要在 Bologna 框架下确保学位被欧洲各国承认（标准化压力），又坚持自己的考试制度和课程传统（制度惯性）。同时它加入了两个跨国联盟——一个是研究导向的 LERU，另一个是欧盟资助的欧洲大学联盟——在不同联盟中扮演不同角色。这就是 Amos 所说的"多层级地缘政治教育空间"：不是单一逻辑在运作，而是多种力量在同时拉扯。(pp.57–58)
 >

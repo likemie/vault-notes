@@ -1101,6 +1101,14 @@
     ]
   },
   {
+    "title": "Responsible Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Responsible Innovation.md",
+    "aliases": [
+      "负责任创新"
+    ]
+  },
+  {
     "title": "Scientism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Scientism.md",
@@ -9233,6 +9241,15 @@
     ]
   },
   {
+    "title": "League of European Research Universities",
+    "type": "fact",
+    "path": "wiki/facts/europe/League of European Research Universities.md",
+    "aliases": [
+      "LERU",
+      "欧洲研究型大学联盟"
+    ]
+  },
+  {
     "title": "SveaSus Project",
     "type": "fact",
     "path": "wiki/facts/finland/SveaSus Project.md",
@@ -9801,6 +9818,15 @@
     ]
   },
   {
+    "title": "Netherlands Top-sector Policy",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Netherlands Top-sector Policy.md",
+    "aliases": [
+      "Dutch Top-sector Policy",
+      "荷兰顶级行业政策"
+    ]
+  },
+  {
     "title": "Top Institute for Evidence-Based Education Research",
     "type": "fact",
     "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
@@ -10125,6 +10151,15 @@
     ]
   },
   {
+    "title": "Industrial Strategy Challenge Fund",
+    "type": "fact",
+    "path": "wiki/facts/uk/Industrial Strategy Challenge Fund.md",
+    "aliases": [
+      "ISCF",
+      "英国产业战略挑战基金"
+    ]
+  },
+  {
     "title": "Institute for Effective Education",
     "type": "fact",
     "path": "wiki/facts/uk/Institute for Effective Education.md",
@@ -10157,6 +10192,14 @@
     "aliases": [
       "Selective Schools Expansion Fund 2018",
       "选择性学校扩张基金"
+    ]
+  },
+  {
+    "title": "Strength in Places Fund",
+    "type": "fact",
+    "path": "wiki/facts/uk/Strength in Places Fund.md",
+    "aliases": [
+      "英国地方优势基金"
     ]
   },
   {
@@ -10613,6 +10656,11 @@
     ]
   },
   {
+    "title": "Social Science One",
+    "type": "fact",
+    "path": "wiki/facts/us/Social Science One.md"
+  },
+  {
     "title": "Sputnik Shock 1957",
     "type": "fact",
     "path": "wiki/facts/us/Sputnik Shock 1957.md",
@@ -10816,6 +10864,14 @@
     ]
   },
   {
+    "title": "Manufacturing USA",
+    "type": "fact",
+    "path": "wiki/facts/us/Manufacturing USA.md",
+    "aliases": [
+      "Manufacturing USA Initiative"
+    ]
+  },
+  {
     "title": "Nelson Memo of 2022",
     "type": "fact",
     "path": "wiki/facts/us/Nelson Memo of 2022.md",
@@ -10844,6 +10900,24 @@
       "Uniform Guidance",
       "OMB Uniform Guidance",
       "2 CFR 200"
+    ]
+  },
+  {
+    "title": "Public Impact-Focused Research",
+    "type": "fact",
+    "path": "wiki/facts/us/Public Impact-Focused Research.md",
+    "aliases": [
+      "PIR",
+      "公共影响导向研究"
+    ]
+  },
+  {
+    "title": "ROI Initiative for Unleashing American Innovation",
+    "type": "fact",
+    "path": "wiki/facts/us/ROI Initiative for Unleashing American Innovation.md",
+    "aliases": [
+      "ROI Initiative",
+      "美国释放创新倡议"
     ]
   },
   {

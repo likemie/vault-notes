@@ -19,9 +19,11 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Social Science One]]"
 related_arguments:
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -57,7 +59,7 @@ updated: 2026-06-10
 
 > 这一结构的关键设计原则是：公司放弃对研究提案选择和研究结果发表的事前控制，换取一个受信任的委员会机制来确保数据安全和专有利益保护。研究者获得数据访问的渠道但不需要直接接触原始隐私数据。基金会提供中立的资金来源，进一步保障了研究的独立性。
 
-该模型已在 Social Science One 实施，并在哈佛大学定量社会科学研究所内部孵化。
+该模型已在 [[Social Science One]] 实施，并在哈佛大学定量社会科学研究所内部孵化。
 
 ## 在生物医学创新中的适用性
 

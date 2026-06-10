@@ -21,6 +21,7 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
+  - "[[League of European Research Universities]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 > [!example] 主要联盟
 > [[Argument_Amos_2022_Springer|Amos (2022, pp.57–58)]] 在讨论数字化的地缘政治影响时列举了三个代表性联盟：
 >
-> - **欧洲研究型大学联盟（LERU, League of European Research Universities）**：以研究为导向的精英大学联盟，强调基础研究和学术卓越。LERU 在欧盟研究框架计划（[[Horizon Europe Missions]]）的政策制定中发挥重要影响
+> - **[[League of European Research Universities|欧洲研究型大学联盟]]（LERU, League of European Research Universities）**：以研究为导向的精英大学联盟，强调基础研究和学术卓越。LERU 在欧盟研究框架计划（[[Horizon Europe Missions]]）的政策制定中发挥重要影响
 > - **The GUILD**：以"对社会负责的大学"为定位的研究型大学网络，关注研究与公共利益的结合。与 LERU 相比，GUILD 更强调大学的社会责任和包容性
 > - **欧洲大学联盟（European University Alliances）**：欧盟委员会（European Commission）框架下推动的跨国大学联盟计划，旨在通过深度制度合作创建"欧洲大学"——联合课程、无缝流动、共享资源和共同战略愿景
 >
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 > - **政治议程**：联盟作为集体游说力量在国家和超国家层面影响教育政策
 > - **多层级运作**：大学同时参与多个联盟，在不同联盟中扮演不同角色
 >
-> > 例：Amos 构想了一所德国中型大学。它既要在 Bologna 框架下确保学位被欧洲各国承认（标准化压力），又坚持自己的考试制度和课程传统（制度惯性）。同时它加入了两个跨国联盟——一个是研究导向的 LERU，另一个是欧盟资助的欧洲大学联盟——在不同联盟中扮演不同角色。这就是"多层级地缘政治教育空间"的具体运作：不是单一逻辑在运作，而是多种力量在同时拉扯([[Argument_Amos_2022_Springer|Amos, 2022, pp.57–58]])。
+> > 例：Amos 构想了一所德国中型大学。它既要在 Bologna 框架下确保学位被欧洲各国承认（标准化压力），又坚持自己的考试制度和课程传统（制度惯性）。同时它加入了两个跨国联盟——一个是研究导向的 [[League of European Research Universities|LERU]]，另一个是欧盟资助的欧洲大学联盟——在不同联盟中扮演不同角色。这就是"多层级地缘政治教育空间"的具体运作：不是单一逻辑在运作，而是多种力量在同时拉扯([[Argument_Amos_2022_Springer|Amos, 2022, pp.57–58]])。
 >
 
 ## 地缘政治意义
