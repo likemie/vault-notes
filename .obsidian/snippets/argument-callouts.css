@@ -1412,6 +1412,29 @@
   margin-bottom: 0;
 }
 
+/* ─── 嵌入 line-a 时两栏颜色区分 ───────────────────── */
+.callout[data-callout="line-a"] .callout[data-callout="col-l"] {
+  --callout-color: 88, 96, 180;
+  background: rgba(88, 96, 180, 0.07);
+  border-color: rgba(88, 96, 180, 0.18);
+  border-left-color: rgba(88, 96, 180, 0.30);
+}
+
+.callout[data-callout="line-a"] .callout[data-callout="col-r"] {
+  --callout-color: 125, 115, 90;
+  background: rgba(125, 115, 90, 0.07);
+  border-color: rgba(125, 115, 90, 0.18);
+  border-left-color: rgba(125, 115, 90, 0.30);
+}
+
+.callout[data-callout="line-a"] .callout[data-callout="col-l"] > .callout-title {
+  color: rgb(70, 78, 150);
+}
+
+.callout[data-callout="line-a"] .callout[data-callout="col-r"] > .callout-title {
+  color: rgb(100, 90, 65);
+}
+
 /* ─── 移动端：单列堆叠 ──────────────────────────────── */
 @media (max-width: 640px) {
   .callout:has(> .callout-content > .callout[data-callout="col-l"]
