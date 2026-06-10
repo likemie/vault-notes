@@ -2240,3 +2240,131 @@
 .theme-dark .callout[data-callout="layer"] .callout[data-callout="col-r"] > .callout-title {
   color: rgb(215, 160, 95);
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   CRITIQUE — 编号批评论证列表（板岩蓝 · CSS counter 自动徽章）
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="critique"] {
+  --callout-color: 48, 78, 120;
+  --callout-icon: lucide-list-checks;
+  background: var(--background-primary);
+  border: 1px solid rgba(48, 78, 120, 0.18);
+  border-left: 6px solid rgb(48, 78, 120);
+  border-radius: 7px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 3px 12px rgba(48, 78, 120, 0.07);
+}
+
+.callout[data-callout="critique"] > .callout-title {
+  color: rgb(48, 78, 120);
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.6rem 1.1rem;
+  background: linear-gradient(
+    90deg,
+    rgba(48, 78, 120, 0.07) 0%,
+    rgba(48, 78, 120, 0.02) 100%
+  );
+  border-bottom: 1px solid rgba(48, 78, 120, 0.12);
+}
+
+.callout[data-callout="critique"] > .callout-title .callout-title-inner::before {
+  content: "CRITIQUE";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(48, 78, 120, 0.11);
+  color: rgb(48, 78, 120);
+  font-size: 0.67em;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  vertical-align: middle;
+}
+
+/* ── 列表容器 ── */
+.callout[data-callout="critique"] > .callout-content {
+  padding: 0;
+}
+
+.callout[data-callout="critique"] > .callout-content > ul {
+  counter-reset: critique-n;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── 每一条批评 ── */
+.callout[data-callout="critique"] > .callout-content > ul > li {
+  counter-increment: critique-n;
+  position: relative;
+  padding: 0.85rem 1.2rem 0.85rem 3.4rem;
+  border-bottom: 1px solid rgba(48, 78, 120, 0.08);
+  line-height: 1.65;
+}
+
+.callout[data-callout="critique"] > .callout-content > ul > li:last-child {
+  border-bottom: none;
+}
+
+/* 悬停高亮 */
+.callout[data-callout="critique"] > .callout-content > ul > li:hover {
+  background: rgba(48, 78, 120, 0.04);
+}
+
+/* ── 圆形数字徽章 ── */
+.callout[data-callout="critique"] > .callout-content > ul > li::before {
+  content: counter(critique-n);
+  position: absolute;
+  left: 1rem;
+  top: 0.95rem;
+  width: 1.65rem;
+  height: 1.65rem;
+  border-radius: 50%;
+  background: rgb(48, 78, 120);
+  color: #fff;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.65rem;
+  text-align: center;
+  letter-spacing: 0;
+  box-shadow: 0 1px 4px rgba(48, 78, 120, 0.25);
+}
+
+/* ── 深色模式 ── */
+.theme-dark .callout[data-callout="critique"] {
+  border-left-color: rgb(110, 148, 200);
+  border-color: rgba(110, 148, 200, 0.22);
+  box-shadow: 0 3px 12px rgba(0,0,0,0.18);
+}
+
+.theme-dark .callout[data-callout="critique"] > .callout-title {
+  color: rgb(120, 158, 210);
+  background: linear-gradient(
+    90deg,
+    rgba(110, 148, 200, 0.09) 0%,
+    rgba(110, 148, 200, 0.02) 100%
+  );
+  border-bottom-color: rgba(110, 148, 200, 0.16);
+}
+
+.theme-dark .callout[data-callout="critique"] > .callout-title .callout-title-inner::before {
+  background: rgba(120, 158, 210, 0.15);
+  color: rgb(120, 158, 210);
+}
+
+.theme-dark .callout[data-callout="critique"] > .callout-content > ul > li {
+  border-bottom-color: rgba(110, 148, 200, 0.10);
+}
+
+.theme-dark .callout[data-callout="critique"] > .callout-content > ul > li:hover {
+  background: rgba(110, 148, 200, 0.06);
+}
+
+.theme-dark .callout[data-callout="critique"] > .callout-content > ul > li::before {
+  background: rgb(100, 140, 195);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}

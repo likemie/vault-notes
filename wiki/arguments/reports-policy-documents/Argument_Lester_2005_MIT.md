@@ -108,6 +108,9 @@ updated: 2026-06-10
 
 Lester 的核心论点：大学的经济贡献应该**匹配**本地产业正在发生的转型类型，而不是预设一种放之四海而皆准的模式。他的经验基础来自 [[Local Innovation Systems Project]]——覆盖 6 个国家 22 个地区，从芬兰的无线通信到俄亥俄的先进聚合物，从挪威的油气产业到南卡罗来纳的汽车制造。
 
+> [!example]- 图1：MIT 教师专利持有者对技术转移渠道相对重要性的认知
+> ![](https://img.mylikemie.icu/sources/Lester_2005_MIT/figures/Lester_2005_MIT_Fig1_Faculty_Perceptions.jpg)
+
 ---
 
 ### 论证步骤二：四种产业转型类型与对应的大学贡献

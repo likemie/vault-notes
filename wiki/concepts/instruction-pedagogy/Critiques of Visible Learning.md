@@ -177,7 +177,7 @@ updated: 2026-05-21
 
 Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] 出版同年以 Massey University 教育哲学与研究方法论团队的立场，提出五大批评（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.93–105]]）：
 
-> [!finding-cards] 五大核心批评
+> [!critique] 五大核心批评
 > - **（1）研究质量未被评估**：Hattie 声称"不是一本关于研究批评的书"，但任何未排除低质量研究的[[Meta-analysis|元分析]]都是误导性的——"垃圾进垃圾出"（Eysenk）（p.94–95）。Hattie 在处理 charter schools 和 learning styles 时选择性排除低质量研究，暴露了其标准的不一致（p.95）。
 >
 > - **（2）[[Effect Size|效应量]] d=0.40 截断值武断**：0.4 的关节点选择任意，小效应量在高质量大规模研究中意义重大——医学中阿司匹林降低心脏病风险的效应量仅 **d=0.07**，却意味着每 1000 人拯救 34 人（p.99）。Hattie 本人在户外教育的"跟进"效应中因效应量 0.17 而兴奋，暴露了其阈值应用的不一致（p.99–100）。
