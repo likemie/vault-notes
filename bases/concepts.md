@@ -49,4 +49,36 @@ views:
     sort:
       - property: related_count
         direction: DESC
+
+  - type: table
+    name: By Domain
+    groupBy:
+      property: domain
+      direction: ASC
+    order:
+      - file.name
+      - related_stars
+      - related_count
+      - tags
+      - updated
+    sort:
+      - property: domain
+        direction: ASC
+      - property: related_count
+        direction: DESC
+
+  - type: cards
+    name: Hubs
+    image: related_color
+    filters:
+      and:
+        - 'related_count >= 50'
+    order:
+      - file.name
+      - domain
+      - related_stars
+      - related_count
+    sort:
+      - property: related_count
+        direction: DESC
 ```
