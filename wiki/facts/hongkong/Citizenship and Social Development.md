@@ -28,6 +28,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
 related_arguments:
@@ -86,7 +87,7 @@ updated: '2026-05-25'
 > 关于"表达意见的自由和权利"的讨论仅占半页篇幅，并以粗体提醒："**这些权利不是绝对的。法律在保障表达意见的自由和权利的同时，也限制这些权利的行使**"（第 122 页）([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
 
 > [!abstract] 作者与顾问人员重组
-> LS 教科书（New Horizon 系列）的顾问为社会史学家 Lui Tai-lok（吕大乐）。CSD 教科书的相应"审阅者"被替换为 Tang Fei（邓飞，香港教育工作者联会副会长、2021 年起为立法会议员，由北京任命的"选举委员会"选出）和 Hoey Simon Lee（华润集团大湾区首席战略官、清华大学法学博士，专业为香港基本法和宪制研究，同为委任立法会议员）。CSD《香港今日》分册的作者之一 Hui Tai Mei Har 也被替换为 Wong Chi Fai([[Argument_Vickers_2024_CE|Vickers, 2024, pp.147–148]])。
+> LS 教科书（New Horizon 系列）的顾问为社会史学家 Lui Tai-lok（吕大乐）。CSD 教科书的相应"审阅者"被替换为 Tang Fei（邓飞，香港教育工作者联会副会长、2021 年起为立法会议员，由北京任命的"选举委员会"选出）和 Hoey Simon Lee（华润集团[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]首席战略官、清华大学法学博士，专业为香港基本法和宪制研究，同为委任立法会议员）。CSD《香港今日》分册的作者之一 Hui Tai Mei Har 也被替换为 Wong Chi Fai([[Argument_Vickers_2024_CE|Vickers, 2024, pp.147–148]])。
 
 ---
 

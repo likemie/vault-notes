@@ -37,6 +37,7 @@ related_persons: []
 related_facts:
   - "[[German Dual Education System]]"
   - "[[China S&T Innovation Policy Evolution]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Open Competition Mechanism]]"
   - "[[US Innovation Policy System]]"
   - "[[DARPA]]"
@@ -222,7 +223,7 @@ citation_aliases:
 >
 > 二是**强化创新成果迭代应用**：运用技术路线图、产业竞争地图等工具精准识别共性技术。在人工智能领域通过统一加速器接口标准、深度学习框架与多硬件适配，缩短从"算法模型"到"产业赋能"的周期，降低中小企业应用成本(p.29)。
 >
-> 三是**以前沿颠覆性技术开辟新赛道**：实施"X技术+N"跨界融通计划，依托怀柔、张江、合肥和大湾区四个综合性国家科学中心，针对量子科技、类脑智能、未来网络等高投入长周期领域建立动态立项机制(p.29)。
+> 三是**以前沿颠覆性技术开辟新赛道**：实施"X技术+N"跨界融通计划，依托怀柔、张江、合肥和[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]四个综合性国家科学中心，针对量子科技、类脑智能、未来网络等高投入长周期领域建立动态立项机制(p.29)。
 
 ---
 

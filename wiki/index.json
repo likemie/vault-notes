@@ -6293,6 +6293,17 @@
     ]
   },
   {
+    "title": "Lefebvre's Spatial Triad",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Lefebvre's Spatial Triad.md",
+    "aliases": [
+      "Lefebvre 空间三元辩证法",
+      "spatial triad",
+      "production of space",
+      "空间的产生"
+    ]
+  },
+  {
     "title": "Rational Action Theory",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Rational Action Theory.md",
@@ -9099,6 +9110,17 @@
     ]
   },
   {
+    "title": "Guangdong-Hong Kong-Macau Greater Bay Area",
+    "type": "fact",
+    "path": "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md",
+    "aliases": [
+      "粤港澳大湾区",
+      "GBA",
+      "Greater Bay Area",
+      "大湾区"
+    ]
+  },
+  {
     "title": "Hukou System",
     "type": "fact",
     "path": "wiki/facts/china/Hukou System.md",
@@ -11477,6 +11499,11 @@
     "title": "Argument_Beech_2015_GSE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md"
+  },
+  {
+    "title": "Argument_Cai_Gao_Liu_2025_HE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education/Argument_Cai_Gao_Liu_2025_HE.md"
   },
   {
     "title": "Argument_Schulze-Cleven_2017_HighEduc",
