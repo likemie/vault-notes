@@ -21,6 +21,7 @@ related_concepts:
   - "[[Probes]]"
   - "[[Central Question]]"
   - "[[Reflexivity]]"
+  - "[[University-Industry Collaboration]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
@@ -37,10 +38,12 @@ related_methods:
 related_persons:
   - "[[Max Weber]]"
 related_facts:
+  - "[[Synthesis and Solid State Pharmaceutical Centre]]"
   - "[[Peidu]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
@@ -184,6 +187,9 @@ updated: 2026-06-02
 
 > [!example] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]——精英大学学生出路分化研究
 > 以半结构式深度访谈为核心资料收集方法，研究中国两所精英大学学生的毕业出路分化机制。两阶段共 62 名毕业班学生，覆盖南方大学和北方大学；每次 2.5–3.5 小时，最长 6 小时。采用渐进式聚焦法——个人生活史→大学过程→毕业选择。累计转录超过 150 万字。辅助来源包括背景信息问卷、实地观察笔记、官方文件/典礼讲话、网络论坛讨论。效度保障使用人员校验法+三角互证法+跟踪式[[Case Study|个案研究]]。
+
+> [!example] [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer 等 (2023)]]——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] [[University-Industry Collaboration|产学合作]]网络演化研究
+> 单一站点案例研究中使用半结构化深度访谈，追踪 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 13 年以上的演化过程。共 10 次访谈，每次 50-105 分钟，覆盖 10 家跨国制药企业的高级研发管理者和 8 所学术机构的项目负责人。通过开放式[[Coding in Qualitative Research|编码]]到抽象编码再到概念与理论编码的三阶段主题分析过程，识别了产学合作演化的四个阶段（胚胎期、启动期、参与期、确立期）以及各阶段对应的障碍和促进因素。所有受访者使用化名以保护匿名性。
 >
 > 详见 [[Argument_Zheng_2023_ShanghaiSanlian]]。
 

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
 related_theories:
   - "[[Evolutionary Economics]]"
+  - "[[Social Capital Theory]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -128,5 +129,5 @@ updated: 2026-06-10
 
 > [!tip]
 > - **[[Evolutionary Economics|演化经济学]]** — 四阶段模型的核心[[Theoretical Perspective|理论视角]]，将[[University-Industry Collaboration|产学合作]]视为一个随时间演化的动态过程，而非静态状态
-> - **社会资本理论** — 信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化
+> - **[[Social Capital Theory|社会资本理论]]** — 信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化
 > - **交易成本经济学** — 知识产权协议作为一种降低交易成本的制度安排

@@ -1916,3 +1916,105 @@
   background: rgba(175, 169, 236, 0.15);
   color: rgb(175, 169, 236);
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   REF-TABLE — 参考表格（钢蓝）
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="ref-table"] {
+  --callout-color: 45, 100, 160;
+  --callout-icon: lucide-table;
+  background: var(--background-primary);
+  border: 1px solid rgba(45, 100, 160, 0.18);
+  border-left: 6px solid rgb(45, 100, 160);
+  padding: 0;
+  overflow: hidden;
+}
+
+.callout[data-callout="ref-table"] > .callout-title {
+  color: rgb(45, 100, 160);
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.55rem 1rem;
+  border-bottom: 1px solid rgba(45, 100, 160, 0.15);
+  background: rgba(45, 100, 160, 0.05);
+}
+
+.callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before {
+  content: "TABLE";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(45, 100, 160, 0.12);
+  color: rgb(45, 100, 160);
+  font-size: 0.68em;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="ref-table"] > .callout-content {
+  padding: 0;
+}
+
+/* 表格本体 */
+.callout[data-callout="ref-table"] table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.callout[data-callout="ref-table"] thead th {
+  background: rgba(45, 100, 160, 0.09);
+  color: rgb(45, 100, 160);
+  font-weight: 650;
+  padding: 0.5rem 1rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(45, 100, 160, 0.22);
+  white-space: nowrap;
+}
+
+.callout[data-callout="ref-table"] tbody td {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  vertical-align: top;
+  line-height: 1.55;
+}
+
+.callout[data-callout="ref-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="ref-table"] tbody tr:nth-child(even) td {
+  background: rgba(45, 100, 160, 0.03);
+}
+
+/* 深色模式 */
+.theme-dark .callout[data-callout="ref-table"] {
+  border-left-color: rgb(110, 165, 220);
+  border-color: rgba(110, 165, 220, 0.25);
+}
+
+.theme-dark .callout[data-callout="ref-table"] > .callout-title {
+  color: rgb(110, 165, 220);
+  background: rgba(110, 165, 220, 0.07);
+  border-bottom-color: rgba(110, 165, 220, 0.18);
+}
+
+.theme-dark .callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(110, 165, 220, 0.15);
+  color: rgb(110, 165, 220);
+}
+
+.theme-dark .callout[data-callout="ref-table"] thead th {
+  background: rgba(110, 165, 220, 0.10);
+  color: rgb(110, 165, 220);
+  border-bottom-color: rgba(110, 165, 220, 0.25);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody tr:nth-child(even) td {
+  background: rgba(110, 165, 220, 0.04);
+}

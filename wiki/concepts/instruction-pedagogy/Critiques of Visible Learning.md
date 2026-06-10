@@ -15,10 +15,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Didaktik]]"
-  - "[[Bildung]]"
-  - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -33,6 +29,8 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Constructivist Paradigm]]"
   - "[[Technical Rationality]]"
+  - "[[Didaktik]]"
+  - "[[Bildung]]"
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
@@ -42,9 +40,11 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Evidence-Based Education]]"
   - "[[Reflexivity]]"
+  - "[[Cult of the Guru]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
   - "[[Scientism]]"
+  - "[[Neo-Taylorism]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Global Education Reform Movement]]"
   - "[[Cargo Cult Science]]"
@@ -81,27 +81,27 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Rømer_2018]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Grace_2010_NZJES]]"
-  - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Snook_2009]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Rømer_2018]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Hansen_2015_Paideia]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Blass_2020_JESP]]"
+  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: medium
 status: draft
@@ -113,20 +113,23 @@ updated: 2026-05-21
 
 ## 定义
 
-> [!def] Critiques of [[Visible Learning]]
+> [!def] 对可见的学习的批评
 > Critiques of [[Visible Learning]] 指围绕 [[John Hattie]] 的 [[Visible Learning]] 所形成的批评谱系。它不只是质疑某一个[[Effect Size|效应量]]或某一项排名，而是从统计方法、教育理论、教育哲学、可见性政治、教师专业性、政策使用和商业化网络等多个层面，追问 VL 如何把”学习影响”变成可排序、可管理、可推广的证据对象。
 >
 > 为减少重复，本条目集中呈现批评文献；VL 本身的定义、核心要素、发展脉络和学校改进语境见 [[Visible Learning]]。
 
 ## 批评谱系
 
-> [!frames-ref] 六条批评线索
-> 1. **方法论批评** — [[Effect Size|效应量]]阈值武断、二级[[Meta-analysis|元分析]]统计缺陷、研究质量未筛选；批评贯穿整个时期，[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 最系统
-> 2. **[[Didaktik|教学理论]]批评** — [[Visible Learning|VL]] 的教学概念空洞、教育乐观主义；[[Argument_Terhart_2011_JCS|Terhart (2011)]]
-> 3. **教育哲学批判** — [[Appraisal Theory|评价理论]]替代教育目的、[[Bildung]] 被遮蔽、学习变为可测对象；[[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]]
-> 4. **文化政治批评** — Foucault 视角、可见性作为支配形式、知识/权力再生产；[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]
-> 5. **[[Cult of the Guru|大师崇拜]]与 [[Neo-Taylorism]]** — 制度权力集中、教师自主性被压缩、教育还原为管理技术；[[Argument_Eacott_2017_SLM|Eacott (2017)]]
-> 6. **政策与制度批评** — 政策外推正当性、非学校因素排除、商业化网络；[[Argument_Grace_2010_NZJES|Grace (2010)]]、[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]
+> [!ref-table] 六条批评线索
+>
+> | 批评线索 | 核心问题 | 代表文献 |
+> |---|---|---|
+> | **方法论批评** | 效应量阈值武断、二级元分析统计缺陷、研究质量未筛选 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
+> | **教学理论批评** | 教学概念空洞、教育乐观主义、教师角色浪漫化 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
+> | **教育哲学批判** | 评价理论替代教育目的、Bildung 被遮蔽 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |
+> | **文化政治批评** | 可见性作为支配形式、知识／权力再生产 | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] |
+> | **大师崇拜与新泰勒主义** | 制度权力集中、教师自主性被压缩 | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
+> | **政策与制度批评** | 政策外推正当性、非学校因素排除、商业化 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] |
 
 ## 方法论批评
 
