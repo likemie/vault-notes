@@ -124,7 +124,21 @@ updated: 2026-06-10
 
 ---
 
-## 方法论
+## 核心框架
+
+> [!logic-map] 五层结构
+> 
+> ```mermaid
+> flowchart LR
+>     A["证据基础：统计 / 循证教育 / 学习科学"] --> B["核心理念：可见性 / Know thy impact"]
+>     B --> C["教学：教师判断 / DIE / 思维框架 / 反馈文化"]
+>     C --> D["学校改进：忠实实施 / 协作 / VL 第三面"]
+>     D --> E["高等教育：高影响条件"]
+> ```
+
+---
+
+> [!abstract] 证据基础：统计学 / 循证教育 / 学习科学
 
 ### 元分析综合
 
@@ -158,30 +172,45 @@ updated: 2026-06-10
 > | 同伴效应 | 潜力未发挥 | 可发挥比目前更大的影响 |
 > | 领导力 | 间接影响 | 通过营造学校文化与组织条件间接影响学习 |
 
+### 学习科学：九条原则（Hattie & Yates, 2014）
+
+Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英文本 *Visible Learning and the Science of How We Learn*）中提出九条贯穿全书的学习原则，以 Dan Willingham"大脑不是为思考而建、学习是艰苦工作"的命题为出发点([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.70–71]])：
+
+1. "天赋""先天能力"和"智力"等概念有用，但不足以解释学习或表现
+2. 通过感官接触信息来学习——但增加知识需要信息具备与心智结构匹配的组织水平，且组织方式随年龄变化
+3. 心智有局限——达到局限时深度学习不可能，此后仅发生表层学习
+4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性反馈中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
+5. 努力（effort）对动机至关重要——努力难以激活但可学习
+6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足重要
+7. 学习需要坚持——包括自尊需求和与他人互动
+8. 我们拥有显著的社会脑
+9. 错误的关于学习的观念在公共和专业语境中持续传播，尽管有科学证据——许多错误是破坏性的，由虚假承诺、经济利益和对轶事的过度信任驱动
+
+([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.70–71]])
+
+#### 社会脑与镜像神经元
+
+[[Argument_Fredens_2015_Paideia|Fredens (2015, p.72)]] 补充 Yates 的认知神经科学贡献：镜像神经元不仅让我们观察他人的行为和沟通，也让我们镜像他人的情感。Damasio 称此为"as-if loop"——看到朋友洋溢热情，我们不必然感受同样的情感，但共情体验仍激活脑中相同区域。积极的社会关系——尤其是早期[[Student-Teacher Relationship|师生关系]]——对学校发展至关重要。Fredens 补充指出，当注意力中断时，大脑转入默认网络（default network，即"社会脑"），在恢复的同时产生联想和创意发展——这种注意力"缺失"在创造性过程中具有关键功能，而 Hattie & Yates 仅强调注意力中断的缺点([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.71–72]])。
+
+#### 教师人格的争论
+
+Hattie & Yates 早期在书中声称好教师不能以特定人格类型定义。[[Argument_Fredens_2015_Paideia|Fredens (2015, p.73)]] 质疑这一立场，引用 Lambert & Barley (2001) 的[[Meta-analysis|元分析]]——治疗师人格是治疗关系中最重要的因素，比所用方法更重要——提出"教师的人格性表现（personlige ageren）在师生关系中是否比所用方法更具决定性？"
+
 ---
 
-## 核心框架
-
-> [!logic-map] 三层结构
-> 
-> ```mermaid
-> flowchart LR
->     A["测量层：效应量排名 / d=0.40 关节点"] --> B["教学层：Know thy impact / DIE 循环 / 八项思维框架"]
->     B --> C["实施层：忠实实施 / 反馈文化 / 学校协作改进"]
-> ```
+> [!abstract] 核心理念：可见性与 Know thy impact
 
 ### 教与学的可见性
 
 教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]])。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]])。
 
----
-
-> [!abstract] 教学层：从证据到教师判断
-> 以下三节从核心口号出发，经由判断逻辑到操作循环，最后落到八项思维框架。
-
 ### "Know thy impact"
 
 Hattie 的核心口号，要求教师以可见证据评估自身教学对学生成绩的影响（Hattie, Masters, & Birch, 2016, p.3，引自 McKnight & Whitburn, 2020, p.40）。
+
+---
+
+> [!abstract] 教学：教师判断 / DIE / 思维框架 / 反馈文化
 
 ### 作为评价性专业判断而非方法清单
 
@@ -219,10 +248,13 @@ Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成�
 >
 > ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]])
 
+### 反馈文化
+
+[[Argument_Fredens_2015_Paideia|Fredens (2015, p.74)]] 将 Hattie & Yates（2014）的核心信息概括为一项文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈不仅是教学技术，更应成为学校文化工具——促进学校文化发展和专业合作。这与 Hattie 后期强调的"安全、信任的学校文化"一致，但 Fredens 进一步指出实现这一目标需要教师与研究之间的伙伴关系（partnerskab mellem lærer og forskning），而非单向的知识传递([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.75]])。
+
 ---
 
-> [!abstract] 实施层：从教师判断到学校改进
-> 以下几节集中回答 VL 如何通过忠实实施、学习意图和学校协作把证据逻辑落地，以及斯堪的纳维亚语境中如何把它重写为自下而上的改进起点。
+> [!abstract] 学校改进 / 实施
 
 ### 忠实实施（Fidelity）
 
@@ -251,39 +283,6 @@ Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成�
 3. **从外部问责转向能力建设**：真正稀缺的不是改革口号，而是把研究知识转进课堂的中介机制，例如能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.65–67]])。
 
 与其只把"Know thy impact"写进 PPT 或墙上海报，更关键的是教师是否真的一起看学生作业、比较不同反馈方式、讨论"学生到底哪里没学会"——前者只是口号，后者才是 [[Visible Learning]] 被转成学校改进实践的形式（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]]）。
-
----
-
-> [!abstract] 学习科学基础
-> Hattie & Yates（2014）从认知神经科学角度为 VL 提供心理学依据，核心主张是学习是艰苦工作，反馈文化是学校改进的关键机制。
-
-### 学习科学基础：九条原则（Hattie & Yates, 2014）
-
-Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英文本 *Visible Learning and the Science of How We Learn*）中提出九条贯穿全书的学习原则，以 Dan Willingham"大脑不是为思考而建、学习是艰苦工作"的命题为出发点([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.70–71]])：
-
-1. "天赋""先天能力"和"智力"等概念有用，但不足以解释学习或表现
-2. 通过感官接触信息来学习——但增加知识需要信息具备与心智结构匹配的组织水平，且组织方式随年龄变化
-3. 心智有局限——达到局限时深度学习不可能，此后仅发生表层学习
-4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性反馈中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
-5. 努力（effort）对动机至关重要——努力难以激活但可学习
-6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足重要
-7. 学习需要坚持——包括自尊需求和与他人互动
-8. 我们拥有显著的社会脑
-9. 错误的关于学习的观念在公共和专业语境中持续传播，尽管有科学证据——许多错误是破坏性的，由虚假承诺、经济利益和对轶事的过度信任驱动
-
-([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.70–71]])
-
-#### 社会脑与镜像神经元
-
-[[Argument_Fredens_2015_Paideia|Fredens (2015, p.72)]] 补充 Yates 的认知神经科学贡献：镜像神经元不仅让我们观察他人的行为和沟通，也让我们镜像他人的情感。Damasio 称此为"as-if loop"——看到朋友洋溢热情，我们不必然感受同样的情感，但共情体验仍激活脑中相同区域。积极的社会关系——尤其是早期[[Student-Teacher Relationship|师生关系]]——对学校发展至关重要。Fredens 补充指出，当注意力中断时，大脑转入默认网络（default network，即"社会脑"），在恢复的同时产生联想和创意发展——这种注意力"缺失"在创造性过程中具有关键功能，而 Hattie & Yates 仅强调注意力中断的缺点([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.71–72]])。
-
-#### 反馈文化
-
-[[Argument_Fredens_2015_Paideia|Fredens (2015, p.74)]] 将书中信息概括为一项核心文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈不仅是教学技术，更应成为学校文化工具——促进学校文化发展和专业合作。这与 Hattie 后期强调的"安全、信任的学校文化"一致，但 Fredens 进一步指出实现这一目标需要教师与研究之间的伙伴关系（partnerskab mellem lærer og forskning），而非单向的知识传递([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.75]])。
-
-#### 教师人格的争论
-
-Hattie & Yates 早期在书中声称好教师不能以特定人格类型定义。[[Argument_Fredens_2015_Paideia|Fredens (2015, p.73)]] 质疑这一立场，引用 Lambert & Barley (2001) 的[[Meta-analysis|元分析]]——治疗师人格是治疗关系中最重要的因素，比所用方法更重要——提出"教师的人格性表现（personlige ageren）在师生关系中是否比所用方法更具决定性？"
 
 ---
 

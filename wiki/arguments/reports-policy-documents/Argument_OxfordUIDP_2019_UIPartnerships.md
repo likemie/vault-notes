@@ -163,23 +163,21 @@ updated: 2026-06-10
 
 ### 论证步骤二：政策环境正在转向"有影响的知识"
 
-> [!abstract] 政策重心的根本转向
-> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖基础研究、应用与[[Translational Research|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到社会经济影响的路径（p.5）。
+> [!abstract] 政策重心转向"有影响的知识"
+> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖基础研究、应用与[[Translational Research|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到社会经济影响的路径。
+>
+> 在英国，研究卓越框架（[[Research Excellence Framework]], REF）现在同时评估学术产出的学术标准和研究组合的影响，学者在资助申请中被要求阐明影响路径。英国科学预算在 2021/22 前的四年期间追加 47 亿英镑，其中大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|Industrial Strategy Challenge Fund]], ISCF）投入产业主导、产业参与的研究和创新优先领域。这些政策发展反映出资助者越来越认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果（pp.5–6）。
 
-在英国，研究卓越框架（[[Research Excellence Framework]], REF）现在同时评估学术产出的学术标准和研究组合的影响。学者在资助申请中被要求阐明影响路径。英国科学预算近年来大幅增加，在 2021/22 前的四年期间追加 47 亿英镑，其中大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|Industrial Strategy Challenge Fund]], ISCF）投入产业主导、产业参与的研究和创新优先领域。
+> [!case] 英国：[[Strength in Places Fund]]
+> 2.35 亿英镑的 Strength in Places Fund 旨在解决英国各地区经济表现上的显著差距。该基金鼓励大学、企业、地方政府和其他机构组成的区域联盟申请资源进行本地研究和创新投资——这标志着从传统的基于全国"卓越"标准分配研发资金，向考虑地域因素的重大转变。峰会强调长期战略规划对研发和[[Knowledge Exchange|知识交流]]的重要性——它们提供了识别实现特定长期目标所需的各种互补活动和投资的框架（pp.5–6）。
 
-> [!example] 基于地点的资助：[[Strength in Places Fund]]
-> 2.35 亿英镑的 Strength in Places Fund 旨在解决英国各地区经济表现上的显著差距。该基金鼓励大学、企业、地方政府和其他机构组成的区域联盟申请资源进行本地研究和创新投资——这标志着从传统的基于全国"卓越"标准分配研发资金，向考虑地域因素的重大转变（pp.5–6）。
-
-> [!info] 美国：[[Return on Investment|ROI]] Initiative 与[[Technology Transfer|技术转移]]障碍
+> [!case] 美国：ROI Initiative 与[[Technology Transfer|技术转移]]障碍
 > 联邦政府每年约 1,500 亿美元的研发投资需要更有效地转化和扩散。由商务部主导的 [[ROI Initiative for Unleashing American Innovation|ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦科技投资的价值转化，其核心工作领域包括：
 > - 识别监管障碍和行政改进
 > - 增加与私营部门专家的互动
 > - 建立更具创业精神的研发劳动力
 > - 支持技术转移的创新工具和服务
 > - 改善对全球科技趋势和基准的理解（pp.6–7）
-
-峰会强调长期战略规划对研发和[[Knowledge Exchange|知识交流]]的重要性——它们提供了识别实现特定长期目标所需的各种互补活动和投资的框架。同时，这些政策发展反映出资助者越来越认识到需要向纳税人证明：投资不仅产生了发现，而且这些发现正在转化为积极的社会成果（pp.6–7）。
 
 ---
 

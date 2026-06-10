@@ -559,6 +559,39 @@
   line-height: 1.72;
 }
 
+/* ─── case（案例 — 琥珀金，独立于 line-a 序号系统） ─── */
+.callout[data-callout="case"] {
+  --callout-color: 178, 126, 44;
+  --callout-icon: lucide-map-pin;
+  background:
+    linear-gradient(135deg, rgba(178, 126, 44, 0.10), rgba(178, 126, 44, 0.025)),
+    var(--background-primary);
+  border: 1px solid rgba(178, 126, 44, 0.24);
+  border-left: 5px solid rgb(178, 126, 44);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(178, 126, 44, 0.09);
+  overflow: hidden;
+}
+
+.callout[data-callout="case"] > .callout-title {
+  color: rgb(148, 102, 28);
+  font-weight: 650;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="case"] > .callout-title .callout-title-inner::before {
+  content: "CASE";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.06em 0.4em;
+  border-radius: 4px;
+  background: rgba(178, 126, 44, 0.18);
+  color: rgb(148, 102, 28);
+  font-size: 0.68em;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
 /* ─── evidence-grid / -a / -b ─────────────────────────── */
 .callout[data-callout="evidence-grid"] {
   --callout-color: 66, 120, 150;
