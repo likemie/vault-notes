@@ -1177,8 +1177,8 @@
 .callout[data-callout="timeline"] {
   --callout-color: 72, 95, 145;
   --callout-icon: lucide-history;
-  background: color-mix(in srgb, var(--background-primary) 94%, rgb(72, 95, 145) 6%);
-  border: 1px solid rgba(72, 95, 145, 0.22);
+  background: color-mix(in srgb, var(--background-primary) 82%, rgb(72, 95, 145) 18%);
+  border: 1px solid rgba(72, 95, 145, 0.28);
   border-left: 3.5px solid rgb(72, 95, 145);
   border-radius: 10px;
   padding: 0.85rem 1.1rem 0.7rem;
@@ -1186,9 +1186,9 @@
 
 /* ─── 标题行 ─────────────────────────────────────── */
 .callout[data-callout="timeline"] > .callout-title {
-  color: rgb(72, 95, 145);
+  color: #fff;
   padding-bottom: 0.45rem;
-  border-bottom: 1px solid rgba(72, 95, 145, 0.18);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.22);
   margin-bottom: 0.55rem;
 }
 
@@ -1269,8 +1269,12 @@
 
 /* ─── 暗模式微调 ─────────────────────────────────── */
 .theme-dark .callout[data-callout="timeline"] {
-  background: color-mix(in srgb, var(--background-primary) 88%, rgb(72, 95, 145) 12%);
-  border-color: rgba(72, 95, 145, 0.32);
+  background: color-mix(in srgb, var(--background-primary) 78%, rgb(72, 95, 145) 22%);
+  border-color: rgba(72, 95, 145, 0.36);
+}
+
+.theme-dark .callout[data-callout="timeline"] > .callout-title {
+  color: #fff;
 }
 
 .theme-dark .callout[data-callout="timeline"] .callout-content ul > li::before {
