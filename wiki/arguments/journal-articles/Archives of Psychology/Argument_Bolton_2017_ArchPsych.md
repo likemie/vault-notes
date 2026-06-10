@@ -117,6 +117,9 @@ citation_aliases:
 >     E -->|逻辑推论| F
 > ```
 
+> [!example]- 图1：脑发育、执行功能各成分发展与皮亚杰认知阶段的时间对齐关系对照图
+> ![](https://img.mylikemie.icu/sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg)
+
 ### 步骤一：感觉运动阶段（0-2岁）——PFC早期连结与执行功能萌芽
 
 在婴儿期，认知表现为动作与思维的高度交织，自我中心主义主导。然而，在 0–2 岁期间，儿童开始发展出基本的[[Working Memory|客体永久性]]，这直接对应于 [[Prefrontal Cortex|PFC]] 的早期快速连结和执行功能微弱的萌芽（pp.2–3, p.9）。
