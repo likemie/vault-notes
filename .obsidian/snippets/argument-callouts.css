@@ -1509,6 +1509,43 @@
   white-space: nowrap;
 }
 
+/* ─── 子事件：障碍（红） + 促进因素（绿） ────────────── */
+/* 在 timeline 的 li 内使用缩进嵌套列表，第一项为障碍，第二项为促进因素 */
+.callout[data-callout="timeline"] ul ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  padding-left: 0;
+  margin: 0.35rem 0 0 0;
+  list-style: none;
+}
+
+.callout[data-callout="timeline"] ul ul > li:first-child {
+  padding: 0.35rem 0.55rem 0.35rem 0.7rem;
+  border-left: 3px solid rgb(192, 57, 43);
+  background: rgba(192, 57, 43, 0.06);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.89em;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.callout[data-callout="timeline"] ul ul > li:last-child {
+  padding: 0.35rem 0.55rem 0.35rem 0.7rem;
+  border-left: 3px solid rgb(39, 174, 96);
+  background: rgba(39, 174, 96, 0.06);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.89em;
+  line-height: 1.55;
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .callout[data-callout="timeline"] ul ul {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ─── 暗模式微调 ─────────────────────────────────── */
 .theme-dark .callout[data-callout="timeline"] {
   background: color-mix(in srgb, var(--background-primary) 78%, rgb(72, 95, 145) 22%);
