@@ -1367,28 +1367,32 @@
 }
 
 /* ─── li 内 col-l + col-r（timeline 等列表内分栏）───── */
-/* 当 <li> 内包含相邻 col-l + col-r 时，li 变为双列 grid */
-.callout li:has(> .callout[data-callout="col-l"]
-                + .callout[data-callout="col-r"]) {
+/* Obsidian 在 li 内嵌套 callout 时会插入 <blockquote> 包装， */
+/* 因此用后代选择器而非 > 直接子选择器 */
+.callout li:has(.callout[data-callout="col-l"]
+              + .callout[data-callout="col-r"]) {
   display: grid !important;
   grid-template-columns: 1fr 1fr;
   gap: 0.75rem;
   align-items: start;
 }
 
-/* li 内的导语段落跨满两列 */
-.callout li:has(> .callout[data-callout="col-l"]
-                + .callout[data-callout="col-r"]) > :first-child {
+/* li 内第一个子元素（导语段落）跨满两列 */
+.callout li:has(.callout[data-callout="col-l"]
+              + .callout[data-callout="col-r"]) > :first-child {
   grid-column: 1 / -1;
 }
 
-/* li 内 col-l / col-r 不额外占边距 */
-.callout li:has(> .callout[data-callout="col-l"]
-                + .callout[data-callout="col-r"]) > .callout[data-callout="col-l"],
-.callout li:has(> .callout[data-callout="col-l"]
-                + .callout[data-callout="col-r"]) > .callout[data-callout="col-r"] {
+/* li 内 col-l / col-r：不管嵌套多深，min-width 防溢出 */
+.callout li:has(.callout[data-callout="col-l"]
+              + .callout[data-callout="col-r"])
+  .callout[data-callout="col-l"],
+.callout li:has(.callout[data-callout="col-l"]
+              + .callout[data-callout="col-r"])
+  .callout[data-callout="col-r"] {
   min-width: 0;
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* ─── 移动端：单列堆叠 ──────────────────────────────── */
@@ -1396,8 +1400,8 @@
   .callout:has(> .callout-content > .callout[data-callout="col-l"]
                       + .callout[data-callout="col-r"])
     > .callout-content,
-  .callout li:has(> .callout[data-callout="col-l"]
-                   + .callout[data-callout="col-r"]) {
+  .callout li:has(.callout[data-callout="col-l"]
+                 + .callout[data-callout="col-r"]) {
     grid-template-columns: 1fr;
   }
 }
@@ -1807,4 +1811,61 @@
   border-radius: 50%;
   background: rgb(185, 140, 55);
   box-shadow: 0 0 0 2px rgba(185, 140, 55, 0.22);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   CONCEPT DEFINITION — def（概念定义 · 靛蓝锚点）
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="def"] {
+  --callout-color: 75, 60, 150;
+  --callout-icon: lucide-book-2;
+  background:
+    linear-gradient(135deg, rgba(75, 60, 150, 0.07), rgba(75, 60, 150, 0.01) 60%),
+    var(--background-primary);
+  border: 1px solid rgba(75, 60, 150, 0.20);
+  border-left: 6px solid rgb(75, 60, 150);
+  box-shadow: 0 4px 12px rgba(75, 60, 150, 0.07);
+}
+
+.callout[data-callout="def"] > .callout-title {
+  color: rgb(75, 60, 150);
+  font-weight: 650;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="def"] > .callout-title .callout-title-inner::before {
+  content: "DEF";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(75, 60, 150, 0.12);
+  color: rgb(75, 60, 150);
+  font-size: 0.68em;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="def"] > .callout-content {
+  line-height: 1.70;
+}
+
+.theme-dark .callout[data-callout="def"] {
+  border-left-color: rgb(175, 169, 236);
+  border-color: rgba(175, 169, 236, 0.28);
+  background:
+    linear-gradient(135deg, rgba(175, 169, 236, 0.10), rgba(175, 169, 236, 0.02) 60%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="def"] > .callout-title {
+  color: rgb(175, 169, 236);
+}
+
+.theme-dark .callout[data-callout="def"] > .callout-title .callout-title-inner::before {
+  background: rgba(175, 169, 236, 0.15);
+  color: rgb(175, 169, 236);
 }
