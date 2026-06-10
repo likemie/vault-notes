@@ -69,7 +69,7 @@ Total entries: **141**
 > - [[Argument_Bolton_2017_ArchPsych]] — 将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数
 
 > [!summary]- Assessment & Evaluation in Higher Education (1)
-> - [[Argument_SpronkenSmith_2024_AEHE]] — 通过美新三国 PhD 毕业生调查与访谈，比较 HASS 与科学学科博士特质发展与职场应用的差距，识别出团队合作等五大薄弱领域，提出含全球公民维度的七域分类框架
+> - [[Argument_SpronkenSmith_2024_AEHE]] — 基于美国和新西兰三所大学博士毕业生的调查与访谈，比较人文与社会科学及科学学科毕业生的能力发展与职场应用差距，提出包含全球公民维度的博士毕业生特质七域分类框架
 
 > [!summary]- Australian Educational Researcher (1)
 > - [[Argument_Skourdoumbis_2024_AER]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。
