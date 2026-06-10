@@ -296,88 +296,40 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 > [!dev-timeline] 概念发展
 > 
-> 1. **1987–1992 — 前史：元综合积累**  Hattie 参与 Fraser-Walberg 团队首次大规模元综合（1987），1992 年独立完成 134 项元分析、22,155 个效应量，确立 d=0.40 关节点和"通用连续体"概念，奠定 2009 年著作的核心量化框架。
+> 1. **1987–1992 — 前史：元综合积累**
 > 
-> 2. **1999–2009 — 新西兰起源与出版**  受教育部委托开发 asTTle/e-asTTle（1999/2000）积累测量工具；2006 年 Auckland Uniservices 注册商标、创建 VL Labs；2009 年 *Visible Learning* 出版，*Sunday STAR Times* 头版引发媒体风暴；Hattie 同年系统性回应 Snook 等人的早期批评。
+>    《可见的学习》并非凭空出现。Hattie 在 1987 年参与了 Fraser、Walberg 团队的首次大规模[[Meta-meta-analysis|元综合]]，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]]）。1992 年，Hattie 首次独立进行元综合：134 项元分析、22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生，引入通用连续体（universal continuum）概念，平均效应量 d=0.40（标准差 0.13）（[[Argument_Higgins_2016_RE|Higgins, 2016, p.42]]）。
 > 
-> 3. **2010–2018 — 商业化与跨国品牌扩张**  Cognition Education 接手商业平台（2010），第一年收入近 2M；通过 Macmillan、James Nottingham Associates、Osiris、Corwin 区域授权将 VL 变成工作坊与认证品牌；品牌家族扩展为 VL for Literacy / Mathematics / Wellbeing；2018 年 Corwin（Sage 集团）收购 VLplus，完成从教育研究到全球专业发展产品的转手。
+>    > [!stat-cards] 1992 年关键发现（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.43–44]]）
+>    > | 结论 | 数据 |
+>    > |------|------|
+>    > | 关节点 d=0.40 自 1992 至 2008 年保持稳定，Hattie 将其设为所有可见影响的平均基准 | 与 2009 年著作核心结论高度一致 |
+>    > | 反馈是最强大单一影响 | 强化 1.13，补救与反馈 0.65，掌握学习 0.50 |
+>    > | 最不成功的创新 | [[Individualised Instruction\|个别化教学]]（d=0.14）和程序化教学（d=0.18）|
 > 
-> 4. **2014–　全球政策采纳与制度化反弹**  VL 进入至少 23 国政策话语；澳大利亚与新西兰触发自下而上的"第三面"；丹麦 2014 年公立学校改革引用 VL 后引发激烈反弹；斯堪的纳维亚研究者将 VL 重写为"改进起点而非技术菜单"；Hattie 本人开始与"结果的暴政"保持距离，但品牌对学术批评表现出显著免疫力。
-
-
-### 前史：Hattie 的元综合积累（1987–1992）
-
-> [!phase] 前史：元综合积累（1987–1992）
-> 《可见的学习》并非凭空出现。Hattie 在 1987 年参与了 Fraser、Walberg 团队的首次大规模[[Meta-meta-analysis|元综合]]，综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
->
-> 1992 年，Hattie 首次独立进行元综合：134 项元分析、22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生。他引入通用连续体（universal continuum）概念，以标准差单位为尺度将结果置于同一量表上。平均效应量为 0.40（标准差 0.13）([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
->
-> **1992 年的关键发现：**
-> - 反馈是最强大的单一影响（强化 1.13，补救与反馈 0.65，掌握学习 0.50）
-> - 最不成功的创新是[[Individualised Instruction|个别化教学]]（0.14）和程序化教学（0.18）
-> - 创新作为改善学习的有意识尝试，是大多数效果背后的共同主题
->
-> 这些发现与 2009 年《可见的学习》的核心结论高度一致。平均效应量 0.40 自 1992 年至 2008 年保持稳定，Hattie 将此作为关节点（hinge point）([[Argument_Higgins_2016_RE|Higgins, 2016, pp.43–44]])。
-
----
-
-### 新西兰起源与早期发展（2006–2011）
-
-VL 的技术前身 asTTle/e-asTTle（1999/2000 年 Hattie 受教育部委托开发的国家课程测试系统）和早期商标注册（2006 年 Auckland Uniservices 注册 VL 商标、创建 VL Labs），详见 [[Visible Learning Branding and Global Influences]]。
-
-2009 年 Hattie 出版 *Visible Learning*，迅速成为全球教育畅销书。2009 年 1 月 *Sunday STAR Times* 头版报道后引发媒体风暴，[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。详见 [[Visible Learning Branding and Global Influences]]。
-
-**Hattie 对早期批评的回应**：[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.88–91)]] 系统性回应了 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 等批评：（1）研究质量——凡已知研究质量有影响之处均已标注，[[Meta-analysis|元分析]]方法本身处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明控制偏差是元分析核心关切；（3）d=0.40 关节点——"或许武断但绝非任意"，基于 800+ 元分析经验平均值；（4）新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]，既然平均 0.20 必然存在大负面效应才能达到均值。
-
----
-
-### 商业化与品牌扩张
-
-2009 年 Hattie 出版 VL 后，真正把它转成可销售产品的并不是大学，而是 [[Cognition Education]]。这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]在 2010 年末接手 VL 的商业平台，把研究原则重写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum；Hattie 取得 VL 相关收入版税，而新 division 在 2011 年第一年收入已接近 2M，次年接近 2.7M，利润率高于公司原先长期依赖的 payroll 业务([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30]])。
-
-Cognition 随后没有在各国自建重型组织，而是通过 Macmillan、James Nottingham Associates、Osiris 和 Corwin 等伙伴做区域授权，使 VL 从书籍迅速变成工作坊、认证和学校改进方案的跨国品牌。2018 年 Corwin（[[Sage]] 集团）收购 VLplus，说明这套模式最后完成了从教育研究到全球专业发展产品的转手。完整商业化轨迹、商标时间线、产品体系、Hattie 第三方付款和 Cognition 财务数据，详见 [[Visible Learning Branding and Global Influences]]。
-
-### 传播网络与品牌衍生
-
-VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cognition Education、奥克兰大学 Visible Learning 实验室和墨尔本大学之间的多层商业伙伴关系网络。ACEL–Corwin 2015 年合作伙伴关系形成了自我强化的推广循环。"Visible Learning"已扩展为品牌家族（Visible Learning for Literacy / Mathematics / Wellbeing 等），部分学校自我标识为"Hattie 学校"。Visible Classroom App 将 VL 逻辑延伸至教师劳动的实时监控。完整传播网络分析、品牌衍生清单和 Visible Classroom 详情，详见 [[Visible Learning Branding and Global Influences]]。
-
----
-
-### 对政策工具的影响
-
-[[EEF Teaching and Learning Toolkit]] 的设计部分受到 Hattie（1992/2008）工作的启发，特别是他将多元研究发现置于同一量表上的比较性研究地图思路。Toolkit 还借鉴了 Sipe 和 Curlette（1996）的共同纳入标准和系统搜索策略，以及 Marzano（1998）的实用目标（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
-
----
-
-### 各国政策采纳
-
-截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量（[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]]）；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）；瑞典在 2010 年代中期出现了 Håkansson 所说的"教学复兴"路径，VL 更像重组改进议程的催化剂（[[Visible Learning in Sweden]]；Håkansson, 2015, pp.52–59）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。详见 [[Visible Learning Branding and Global Influences]]。
-
-#### 澳大利亚与新西兰：VL 的"第三面"
-
-[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 除研究和政策之外的第三维度——在澳大利亚和新西兰触发了一场自下而上的运动，鼓励教师反思和改变学校实践，无论 Hattie 理论的争议如何。变革的核心是将教育理解为两种独立活动的协同：教师的教学与学生的学习在课程目标的指引下交汇，呼应了 [[Dietrich Benner]] 的修正版教学三角模型。政策层面，新西兰和澳大利亚的重点从家庭背景、校舍、技术投入，转向研究本位策略实施、校内外有效协作、学生领导力与课程审查改进。
-
-#### 瑞典
-
-Håkansson（2015）提供了一条与丹麦和俄罗斯都不同的瑞典路径。VL 在瑞典最重要的作用，不是推动一场围绕"学习目标"或"国家标准"的显性政治冲突，也不是作为一本译著引发方法论争论，而是把学校改进的重心重新拉回课堂教学本身（pp.52–53, 58）。在"教学必须建立在科学基础与经验证据之上"的制度要求下，学校改进越来越常通过课堂试验、同伴观察、课后反思和围绕单一教学主题的教师协作来推进（pp.56–58）。
-
-这意味着瑞典对 VL 的吸收更像一种"工作方式的转向"。学校不只是问"学生成绩有没有上升"，而是更具体地问"这节课里教师是怎样提问的""学生是否明白学习目标""反馈是否帮助学生知道下一步怎么改"。Håkansson 跟踪的 5 所学校显示，这种课堂近端改进只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话、学校具备长期组织学习能力时才会真正发生（pp.58–59）。参见 [[Visible Learning in Sweden]]。
-
-#### 斯堪的纳维亚诠释：改进起点而非技术菜单
-
-[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 在斯堪的纳维亚语境中把 [[Visible Learning]] 重写成一种学校改进起点，而非可直接照搬的教学技术菜单——核心不是"把排行榜前几名方法搬进课堂"，而是承认不同教学做法不等效，学校必须持续追问哪些做法更可能改善学生学习（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–64]]）。
-
-> [!finding-cards] 三项核心转变（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）
-> 1. **从个人技巧转向集体改进** — 焦点从单个教师"会不会某种方法"转向学校能否形成围绕学习结果的教师协作、课堂观察和持续反思工作方式。
-> 2. **从证据排名转向概率判断** — 证据不是保证课堂成功的配方，而是帮助教师减少"全凭习惯和直觉"的空间、提高成功概率的判断资源。
-> 3. **从外部问责转向能力建设** — 真正稀缺的是把研究知识转进课堂的中介机制：能力建设、[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习。
-
----
-
-### 品牌对批评的免疫与制度化反弹
-
-VL 品牌对学术批评表现出显著的免疫力——[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被期刊两天内接收发表，而 Eacott 原论文经历数月多轮评审([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。Hattie 本人已在某种程度上与 VL 保持距离，表示如果重新来过会避免"结果的暴政"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])。一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]])。详见 [[Visible Learning Branding and Global Influences]]。
-
+> 2. **1999–2009 — 新西兰起源与出版**
+> 
+>    技术前身 asTTle/e-asTTle（1999/2000，Hattie 受教育部委托开发的国家课程测试系统）和早期商标注册（2006 年 Auckland Uniservices 注册 VL 商标、创建 VL Labs），详见 [[Visible Learning Branding and Global Influences]]。2009 年 *Visible Learning* 出版，迅速成为全球教育畅销书；*Sunday STAR Times* 头版报道引发媒体风暴，[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
+> 
+>    [[Argument_Hattie_2010_NZJES|Hattie (2010, pp.88–91)]] 系统性回应 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 等批评：①研究质量——凡已知研究质量有影响之处均已标注；②d=0.40 关节点——"或许武断但绝非任意"，基于 800+ 元分析经验均值；③新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；④[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]。
+> 
+> 3. **2010–2018 — 商业化与品牌扩张**
+> 
+>    真正把 VL 转成可销售产品的并不是大学，而是 [[Cognition Education]]。这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]在 2010 年末接手商业平台，把研究原则重写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum；Hattie 取得 VL 相关收入版税，新 division 第一年收入接近 2M，次年接近 2.7M（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, pp.59–60；Johnson & Janzen, 2023, p.30]]）。
+> 
+>    Cognition 通过 Macmillan、James Nottingham Associates、Osiris 和 Corwin 做区域授权，使 VL 从书籍变成工作坊、认证和学校改进方案的跨国品牌；2018 年 Corwin（[[Sage]] 集团）收购 VLplus，完成从教育研究到全球专业发展产品的转手。品牌传播依赖 ACEL、奥克兰大学 VL 实验室与墨尔本大学之间的多层伙伴关系网络，扩展为 VL for Literacy / Mathematics / Wellbeing 等品牌家族；Visible Classroom App 将 VL 逻辑延伸至教师劳动的实时监控。完整商业化轨迹详见 [[Visible Learning Branding and Global Influences]]。
+> 
+> 4. **2014– — 全球政策采纳与制度化反弹**
+> 
+>    [[EEF Teaching and Learning Toolkit]] 设计部分受 Hattie（1992/2008）启发，借鉴其将多元研究发现置于同一量表的比较性研究地图思路（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。截至 2017 年 VL 已在至少 23 个国家被采用。
+> 
+>    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别 VL 的"第三面"——触发自下而上的教师反思运动，无论 Hattie 理论的争议如何；变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策重心从家庭背景、校舍、技术投入转向研究本位策略、师生互动质量与学生领导力。
+> 
+>    **丹麦**：2014 年公立学校改革明确引用 VL，随后引发激烈反弹（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。**俄罗斯**：2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。**瑞典**：Håkansson（2015）记录了"工作方式的转向"——VL 将学校改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话时才会发生（pp.52–59；参见 [[Visible Learning in Sweden]]）。
+> 
+>    **斯堪的纳维亚研究者再诠释**：[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 VL 重写为学校改进起点而非技术菜单，提出三项核心转变：①个人技巧→集体改进（教师协作、课堂观察、持续反思）；②证据排名→概率判断（减少"全凭直觉"空间）；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用和校本专业学习）（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）。
+> 
+>    **制度化反弹**：VL 品牌对学术批评表现出显著免疫力——[[Argument_Hattie_2017_SLM|Hattie (2017)]] 对 Eacott 的回应被期刊两天内接收，而 Eacott 原论文经历数月多轮评审（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]]）。Hattie 本人开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。详见 [[Visible Learning Branding and Global Influences]]。
 ---
 
 ## 理论基础
