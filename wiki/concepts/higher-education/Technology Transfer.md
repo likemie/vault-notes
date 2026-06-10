@@ -18,6 +18,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Knowledge Exchange]]"
   - "[[Theoretical Perspective]]"
+  - "[[Knowledge Transfer]]"
   - "[[Foreground IP]]"
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
@@ -33,11 +34,14 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Nagoya Protocol]]"
+  - "[[Oxford UIDP Summit 2019]]"
+  - "[[ROI Initiative for Unleashing American Innovation]]"
   - "[[MN-IP Create]]"
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
@@ -123,6 +127,13 @@ updated: 2026-06-05
 Bayh-Dole 法案构成一个具体的制度摩擦点：该法案要求美国赠地大学保留专利所有权，而 1980 年前联邦资助的专利归政府所有。对惯于不同 IP 模式的外国公司而言，这一制度安排可能构成认知和谈判障碍（p.314）。
 
 此外，[[Nagoya Protocol|名古屋议定书]]（2014）对涉及遗传资源的国际研究合作施加了额外的合规要求：利用遗传资源产生的惠益须与来源国公平分享，各国立法和操作规范不统一进一步增加了行政复杂性（p.315）。从理论层面，Rossoni et al.（2023）将技术转移作为评估国际 UI 合作障碍的三个[[Theoretical Perspective|理论视角]]之一（另两个为[[Triple Helix]]和关系社会资本），系统梳理了技术转移在国际合作场景中的特有障碍（p.316）。
+
+---
+
+### 国家层面的技术转移度量
+
+> [!info]
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 审查了多个国家的技术转移系统层面数据收集：英国的高等教育商业与社区互动调查（Higher Education Business and Community Interaction，HEBCI）、美国的大学技术管理者协会 STATT 数据库、爱尔兰的 KTI AKTS [[Knowledge Transfer|知识转移]]调查、欧洲 ASTP 的知识转移活动调查和澳大利亚的国家研究商业化调查。美国联邦政府通过 [[ROI Initiative for Unleashing American Innovation]] 将识别技术转移监管障碍和行政改进列为核心工作领域之一，致力于最大化联邦每年约 1,500 亿美元研发投资的价值转化([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.6-7, 25-26]])。
 
 ---
 

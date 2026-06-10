@@ -72,8 +72,11 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[TUFF]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Oxford UIDP Summit 2019]]"
+  - "[[Industrial Strategy Challenge Fund]]"
+  - "[[ROI Initiative for Unleashing American Innovation]]"
+  - "[[TUFF]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[Inventor-Owned IP Policy (University of Waterloo)]]"
   - "[[Network of Academic Corporate Relations Officers]]"
@@ -84,6 +87,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
@@ -150,6 +154,7 @@ updated: 2026-06-05
 > - 近几十年来，"界面"上的创新速度加快，产生了大量的回报（p.4）
 - 1980 年代后，在冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落和全球竞争加剧的背景下，大学经历了从与产业"脱钩"到重新"嵌入"[[Systems of Innovation|创新系统]]的转变。美国 1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 给予大学对联邦资助研究成果的知识产权所有权；英国 1983 年取消 British Technology Group 对大学 IP 的垄断、1993 年发布 *Realising Our Potential* 白皮书；中国 1993 年通过《科学技术进步法》建立了相当于 Bayh-Dole 的制度框架([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.38–41]])
 - 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 Ulrichsen, 2025, p.42）。这催生了正式的制度化的[[Third Mission (Universities)|大学第三使命]]([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])
+- 2019 年，牛津大学与 [[University Industry Demonstration Partnership|UIDP]] 联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名产学政高层代表。峰会识别了政策环境的根本转向——从"资助科学"转向"催化影响"，美英欧的科学政策日益强调"有影响的知识"（knowledge with impact）。英国在 2021/22 前的四年期间追加 47 亿英镑科学预算，大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|ISCF]]）投入产业主导的研究与创新优先领域；美国通过 [[ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦约 1,500 亿美元年度研发投资的价值转化([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.5-7]])
 - 同期，产学互动的规模大幅增长：美国大学来自产业的研发资金从 1990 年的 22 亿美元增至 2022 年的 57 亿美元（按 2022 年不变价）；英国大学[[Knowledge Transfer|知识转移]]活动收入从 2004 年的 43 亿美元增至 2022 年的 87 亿美元([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])
 
 ## 核心要素
@@ -211,6 +216,21 @@ updated: 2026-06-05
 > 在互动层次上，UIDP（2012）通过 [[Partnership Continuum|伙伴关系连续体]] 将每个合作领域内的互动区分为三个层级：交易（Transaction）——战术性的价值交换；协作（Collaboration）——双方分享想法预期互惠；联盟（Alliance）——共享愿景、长期实质性承诺。这三个层级不是线性的阶段模型——合作可以从任何层级开始，也可以在不同层级之间双向移动。详见 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, p.7]])。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
 
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–45]])。
+
+### 两类合作逻辑：前沿生成 vs 前沿内扩散
+
+> [!abstract]
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 揭示了一个关键区分——现有产学合作以"前沿科学对接前沿创新组织"为中心，但政策制定者越来越意识到需要加强大学与技术前沿内部企业之间的联系。两类合作需要不同的模式、度量和期望管理([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.18-19]])：
+
+> [!contrast-table] 两类合作逻辑
+> | | 前沿生成 | 前沿内扩散 |
+> |------|----------|----------|
+> | **合作对象** | 技术前沿的大型研发密集型企业 | 前沿内部广大企业，包括中小企业 |
+> | **合作目的** | 技术生成——创造新知识 | 技术适应与吸收——采用已有技术 |
+> | **典型伙伴** | 颠覆性科技公司、前沿研发企业 | 法律服务、金融服务、建筑业、新兴本地生态 |
+> | **关键机制** | 前沿科学对接前沿创新，共同研发 | 知识扩散、供应链传导、网络效应、标准推广 |
+
+> 峰会识别了触达前沿内部企业的五条可行路径：供应链传导、中介导航、偶遇设计、网络效应和标准推广（pp.18-19）。
 
 ### 机构协议类型
 
@@ -437,6 +457,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 - **创新的高成本与薄利润**：在医疗等领域，机构的利润率极为微薄（2023 年医院利润率 −6.8% 到 12.2%），独立的创新投资——尤其商业化前景不确定的早期创新——很难获得内部资源支持。产学合作可以将创新成本在伙伴之间分摊，但前提是各方对 [[Return on Investment|ROI]] 的定义能够对齐([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.183–184]])
 - **超亚专业化与 T 型技能需求**：当代专家的超亚专业化使他们"看不到全局"，围绕志同道合者组成的团队只能产生渐进式改进。产学合作需要兼具专业深度和跨领域广度的 T 型技能人才来充当翻译者和整合者([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.185–186]])
 - **技术变革速度超出单一组织能力**：在深度学习时代，计算能力每 6 个月翻一番。投资技术以保持创新前沿是昂贵但必要的，单一组织很难独立承担这种投入速度([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.186]])
+- **新模式实验的系统性障碍**：2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 指出，实施新合作模式需要克服维护现状的多重障碍——找到愿意共同承担实验风险的合适伙伴更加困难；需要说服内外部利益相关者离开传统工作方式；新模式涉及更多参与方和更复杂的协调。小型试点实验可展示解锁新价值的潜力，所有参与方应承诺定期审查、灵活调整甚至必要时终止项目([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.16-17]])
 - **[[Research Security|研究安全]]与地缘政治风险**：地缘政治紧张使产学合作面临新的安全审查维度。大学需要在保持学术开放和防止外国干预之间寻求平衡。滑铁卢大学的"保障研究"（Safeguarding Research）团队提供了一个制度化的应对模式——为研究者的国际合作关系提供持续支持和风险评估，在学术自由与安全合规之间建立可操作的中间地带([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])
 - **终身教职评审低估产学合作产出**：现行研究评估制度中，教师的工作产出几乎完全由同行评审出版物衡量，导致专利、技术转移、产业合作等商业化活动被系统性地低估——教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注研究影响力而非文献计量指标——为将产学合作"计入正资产"提供了改革方向。更全面的评估也有助于解决公平问题：发展产学合作耗时费力，而女性、种族化群体和残障人士在校内外面临更紧迫的时间压力([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.250–251]])
 
