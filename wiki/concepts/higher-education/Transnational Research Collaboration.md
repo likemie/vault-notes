@@ -8,9 +8,9 @@ summary: "高等教育中的跨国研究合作形式，涉及学者、机构和�
 type: concept
 domain: "higher-education"
 related_count: 16
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - research-collaboration
 - higher-education

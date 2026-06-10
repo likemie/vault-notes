@@ -6,9 +6,9 @@ summary: "研究者在样本选择、变量处理、模型设定和案例排除�
 type: concept
 domain: "research-methodology"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - researcher-degrees-of-freedom
 - research-methodology

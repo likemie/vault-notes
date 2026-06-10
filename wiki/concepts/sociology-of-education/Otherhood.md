@@ -7,9 +7,9 @@ summary: "组织为其他行动者、非行动者实体或抽象原则行使代�
 type: concept
 domain: "sociology-of-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - level/higher-ed
 - region/global

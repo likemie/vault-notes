@@ -7,9 +7,9 @@ summary: "Astin 提出的概念，指学生投入到学习和校园生活中的�
 type: concept
 domain: "higher-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - student-involvement
 - higher-education

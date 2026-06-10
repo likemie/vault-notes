@@ -7,9 +7,9 @@ summary: "以复杂问题驱动学习过程的教学方法，强调学生围绕�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - problem-based-learning
 - subject/instruction

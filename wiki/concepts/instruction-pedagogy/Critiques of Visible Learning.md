@@ -8,9 +8,9 @@ summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 85
-related_level: 6
-related_stars: "★★★★★★"
-related_color: "#ddd6fe"
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - visible-learning
   - evidence-based-education

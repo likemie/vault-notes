@@ -6,9 +6,9 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: concept
 domain: "research-methodology"
 related_count: 60
-related_level: 6
-related_stars: "★★★★★★"
-related_color: "#ddd6fe"
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
 - effect-size
 - meta-analysis

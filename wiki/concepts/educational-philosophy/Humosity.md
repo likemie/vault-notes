@@ -6,9 +6,9 @@ summary: "将人类去中心化并置入物质循环之中的后人类主义概�
 type: concept
 domain: "educational-philosophy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - humosity
 - posthumanism

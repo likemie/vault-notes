@@ -7,9 +7,9 @@ summary: "强调儿童在真实完整语境中整体学习语言与读写的教�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - whole-language
   - literacy

@@ -5,9 +5,9 @@ summary: "描述 21 世纪组织与社会环境的四维概念，分别指波动
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: ["theme/global-governance", "theme/21st-century-skills", "theme/risk", "theme/uncertainty"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"

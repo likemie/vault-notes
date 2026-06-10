@@ -10,9 +10,9 @@ summary: "西方学习传统第一主题，以数学和演绎逻辑为模型追�
 type: concept
 domain: "educational-philosophy"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/western
 - field/educational-philosophy

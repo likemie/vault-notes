@@ -7,9 +7,9 @@ summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - theme/spatiality
 - theme/power

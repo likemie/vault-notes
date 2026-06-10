@@ -49,10 +49,10 @@ function countRelated(data) {
 }
 
 function starsFor(count) {
-  if (count <= 5) return { level: 0, stars: "☆" }
-  if (count > 50) return { level: 6, stars: "★★★★★★" }
-  const level = Math.min(5, Math.ceil((count - 5) / 5))
-  return { level, stars: "★".repeat(level) }
+  if (count <= 9) return { level: 0, stars: "☆" }
+  if (count >= 100) return { level: 6, stars: "⭐".repeat(6) }
+  const level = Math.min(5, Math.floor(count / 10))
+  return { level, stars: "⭐".repeat(level) }
 }
 
 function quoteYamlString(value) {

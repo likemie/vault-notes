@@ -9,7 +9,7 @@ type: concept
 domain: "educational-policy-reform"
 related_count: 10
 related_level: 1
-related_stars: "★"
+related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
   - evidence-based-education

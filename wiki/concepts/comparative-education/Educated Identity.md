@@ -7,9 +7,9 @@ summary: "比较教育的核心概念之一，指教育系统所塑造的理想�
 type: concept
 domain: "comparative-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/comparative-education
   - theme/educated-identity

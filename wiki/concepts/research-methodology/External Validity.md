@@ -9,9 +9,9 @@ summary: "实验研究中因受试者特征、实验情境或时间限制，导�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/experimental
   - quantitative-research

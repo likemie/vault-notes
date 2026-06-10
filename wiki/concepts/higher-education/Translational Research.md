@@ -9,9 +9,9 @@ summary: "将学术实验室中的研究发现转化为可商业化产品或规�
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/research-commercialization

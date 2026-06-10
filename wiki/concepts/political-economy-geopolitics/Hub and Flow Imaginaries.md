@@ -8,9 +8,9 @@ summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 24
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - hub-and-flow
 - geopolitical-imaginaries

@@ -6,9 +6,9 @@ summary: "指大学在民主社会中承担独立批判和公共良知角色的�
 type: concept
 domain: "higher-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - critic-and-conscience-of-society
 - region/new-zealand

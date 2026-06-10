@@ -6,9 +6,9 @@ summary: "把责任理解为对他者和共同世界保持敏感并具备回应�
 type: concept
 domain: "educational-philosophy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - response-ability
 - care-ethics

@@ -9,9 +9,9 @@ summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/western
   - theme/learning-process

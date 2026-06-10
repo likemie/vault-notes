@@ -10,9 +10,9 @@ summary: "Castells 提出的空间二分法，将社会空间区分为无需领�
 type: concept
 domain: "comparative-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/comparative-education
   - theme/global-education-governance

@@ -7,9 +7,9 @@ summary: "基于布迪厄关系社会学的核心概念，指行动者惯习与�
 type: concept
 domain: "sociology-of-education"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/sociology-of-education
   - theory/bourdieu

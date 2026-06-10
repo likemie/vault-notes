@@ -6,9 +6,9 @@ summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形
 type: concept
 domain: "sociology-of-education"
 related_count: 18
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - habitus
   - bourdieu

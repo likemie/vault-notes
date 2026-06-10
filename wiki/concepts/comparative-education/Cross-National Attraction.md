@@ -7,9 +7,9 @@ summary: "政策借用过程中外部教育经验之所以显得有吸引力的�
 type: concept
 domain: "comparative-education"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - cross-national-attraction
   - policy-borrowing

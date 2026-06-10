@@ -6,9 +6,9 @@ summary: "描述国家机器、社会分层和政治愿景在转型时期同时�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - transitology
   - comparative-education

@@ -6,9 +6,9 @@ summary: "综合性教学质量概念，关注教师如何通过明确领导、�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - effective-teaching
 - subject/instruction

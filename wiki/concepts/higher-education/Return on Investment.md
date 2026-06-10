@@ -9,9 +9,9 @@ summary: "Swick 与 Jones（2025）在产学合作语境中提出的概念，指
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

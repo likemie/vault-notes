@@ -10,9 +10,9 @@ summary: "大学研究成果通过知识产权许可、初创企业或企业合�
 type: concept
 domain: "higher-education"
 related_count: 24
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/technology-transfer"
   - "level/higher-education"

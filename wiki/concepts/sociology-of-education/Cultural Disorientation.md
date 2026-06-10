@@ -6,9 +6,9 @@ summary: "弱势背景学生在场域转换过程中出现的自我冲突、目�
 type: concept
 domain: "sociology-of-education"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - cultural-disorientation
   - higher-education

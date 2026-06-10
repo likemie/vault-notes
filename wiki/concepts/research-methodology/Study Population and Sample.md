@@ -11,9 +11,9 @@ summary: "量化研究中研究总体指推论目标全部人群，研究样本�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/sampling
   - quantitative-research

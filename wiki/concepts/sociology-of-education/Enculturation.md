@@ -7,9 +7,9 @@ summary: "个体在成长过程中通过日常互动吸收本文化价值观、�
 type: concept
 domain: "sociology-of-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/cultural-transmission
 - theme/child-development

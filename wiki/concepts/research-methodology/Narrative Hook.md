@@ -5,9 +5,9 @@ summary: "学术引言中用于吸引读者进入研究的开篇语句，通过�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Question]]"

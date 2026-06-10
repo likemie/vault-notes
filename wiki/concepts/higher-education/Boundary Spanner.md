@@ -13,9 +13,9 @@ summary: "在产学合作中充当学术界与产业界之间桥梁的专业角�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

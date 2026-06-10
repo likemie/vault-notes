@@ -8,9 +8,9 @@ summary: "将数字设备和资源常规嵌入课堂教学的系统性改革，�
 type: concept
 domain: "educational-technology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - educational-technology
   - technology-integration

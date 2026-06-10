@@ -8,9 +8,9 @@ summary: "大学基于产业经验而非传统学术资质聘任的全职或兼�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

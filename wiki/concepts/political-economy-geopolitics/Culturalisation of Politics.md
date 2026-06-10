@@ -6,9 +6,9 @@ summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - culturalisation-of-politics
   - depoliticisation

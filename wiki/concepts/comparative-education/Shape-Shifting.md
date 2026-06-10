@@ -8,9 +8,9 @@ summary: "教育制度、思想或实践在跨国移动过程中发生的形态�
 type: concept
 domain: "comparative-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/comparative-education
   - theme/knowledge-transfer

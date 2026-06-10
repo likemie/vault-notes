@@ -9,9 +9,9 @@ summary: "通过 OSA 和学习分析把学生特征转化为一组可归因于�
 type: concept
 domain: "educational-technology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - digital-self
 - datafication

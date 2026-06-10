@@ -9,9 +9,9 @@ summary: "算法理性在持续优化评估环境中产生的理想学生参照�
 type: concept
 domain: "educational-technology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - digital-optimum
   - algorithmic-governance

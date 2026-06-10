@@ -7,9 +7,9 @@ summary: "量化研究中可被测量或观察且在不同个体或组织之间�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/positivist

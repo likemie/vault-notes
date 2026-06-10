@@ -8,9 +8,9 @@ summary: "以排名、指标化和审计文化为基础设施的高等教育竞�
 type: concept
 domain: "higher-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - competitiveness
 - higher-education-governance

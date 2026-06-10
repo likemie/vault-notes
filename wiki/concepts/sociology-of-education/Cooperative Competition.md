@@ -8,9 +8,9 @@ summary: "Fülöp 提出的竞争概念，在日本，匈牙利，美国比较�
 type: concept
 domain: "sociology-of-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/competition
   - theme/peer-culture

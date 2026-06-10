@@ -6,9 +6,9 @@ summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/global
 - theme/geopolitics

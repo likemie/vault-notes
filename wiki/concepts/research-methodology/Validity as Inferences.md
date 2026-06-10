@@ -6,9 +6,9 @@ summary: "效度被理解为推论的属性而非测试或实验本身的属性�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - validity
 - educational-assessment

@@ -8,9 +8,9 @@ summary: "政府通过标准化产出指标和竞争性评选来分配高等教�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - quasi-markets
   - higher-education

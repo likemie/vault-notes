@@ -7,9 +7,9 @@ summary: "参与公立学校教育政策制定、管理支持和服务交付的�
 type: concept
 domain: "educational-policy-reform"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - emo
 - subject/curriculum

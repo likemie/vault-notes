@@ -7,9 +7,9 @@ summary: "围绕数字平台、软件服务、数据基础设施和政策叙事�
 type: concept
 domain: "educational-technology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - edtech
 - educational-technology

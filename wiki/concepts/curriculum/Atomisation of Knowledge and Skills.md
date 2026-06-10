@@ -6,9 +6,9 @@ summary: "在测量、问责和经济竞争逻辑下，教育内容被拆分为�
 type: concept
 domain: "curriculum"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - atomisation-of-knowledge
 - accountability

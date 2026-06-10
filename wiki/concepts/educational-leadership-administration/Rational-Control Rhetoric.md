@@ -8,9 +8,9 @@ summary: "管理修辞分类学中的核心概念，指在组织面临慢性、�
 type: concept
 domain: "educational-leadership-administration"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-leadership-administration
   - theory/management-rhetoric

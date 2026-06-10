@@ -9,9 +9,9 @@ summary: "Crotty (1998) 提出的研究设计四层框架，从最抽象到最�
 type: concept
 domain: "research-methodology"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
 related_concepts:

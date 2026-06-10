@@ -9,9 +9,9 @@ summary: "以标准化考试成绩为教育质量核心衡量指标的教学与�
 type: concept
 domain: "educational-policy-reform"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theme/examination

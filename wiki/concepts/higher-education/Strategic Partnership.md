@@ -9,9 +9,9 @@ summary: "区别于战术/交易型和协作型互动的最高层次产学关系
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/partnership"

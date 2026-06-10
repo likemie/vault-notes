@@ -6,9 +6,9 @@ summary: "Eacott 提出的概念，描述教育行政研究中学者各自在子
 type: concept
 domain: "educational-leadership-administration"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - parallel-monologues
   - educational-administration

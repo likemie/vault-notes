@@ -8,9 +8,9 @@ summary: "由人与组织通过网络互动进行创新的系统，大学常作�
 type: concept
 domain: "higher-education"
 related_count: 22
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/innovation"
   - "level/higher-education"

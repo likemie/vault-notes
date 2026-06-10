@@ -8,9 +8,9 @@ summary: "Jessop (2007) 从 Polanyi 视角提出的概念，描述知识被定�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - quasi-commodification
   - knowledge-economy

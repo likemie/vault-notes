@@ -6,9 +6,9 @@ summary: "将人类从世界中心位置移开并强调人与非人共同生成�
 type: concept
 domain: "educational-philosophy"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - posthumanism
 - relational-ontology

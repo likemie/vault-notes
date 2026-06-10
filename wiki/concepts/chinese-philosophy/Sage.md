@@ -12,9 +12,9 @@ summary: "儒学学习传统的最高理想人格，超越君子、以仁爱关�
 type: concept
 domain: "chinese-philosophy"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theory/confucianism

@@ -6,9 +6,9 @@ summary: "教育系统把内部问题投射到外部参照框架中加以理解�
 type: concept
 domain: "comparative-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - externalization
 - comparative-education

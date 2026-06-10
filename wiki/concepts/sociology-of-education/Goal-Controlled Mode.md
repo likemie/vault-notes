@@ -6,9 +6,9 @@ summary: "大学生活组织实践的一种模式，以较早确立生涯目标�
 type: concept
 domain: "sociology-of-education"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - goal-controlled-mode
   - higher-education

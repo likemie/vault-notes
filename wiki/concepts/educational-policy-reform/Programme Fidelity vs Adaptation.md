@@ -7,9 +7,9 @@ summary: "证据本位方案实施中的核心张力，指忠实复制原始方�
 type: concept
 domain: "educational-policy-reform"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - evidence-based-education
 - implementation

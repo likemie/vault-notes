@@ -6,9 +6,9 @@ summary: "神经系统在经验、练习和环境作用下持续改变连接、�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - neuroplasticity
 - learning-science

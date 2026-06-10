@@ -6,9 +6,9 @@ summary: "元分析中以图形方式展示各研究效应量及其置信区间�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - forest-plot
 - meta-analysis

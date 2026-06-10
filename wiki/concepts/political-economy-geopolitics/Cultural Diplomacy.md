@@ -8,9 +8,9 @@ summary: "通过教育、文化机构和精英培育来提升国家软实力、�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - cultural-diplomacy
 - soft-power

@@ -9,9 +9,9 @@ summary: "设立于高校和研究机构内部的伦理审查委员会，依据�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance

@@ -8,9 +8,9 @@ summary: "毛利知识体系，在新西兰课程改革中被用作规约性话�
 type: concept
 domain: "curriculum"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum
   - region/new-zealand

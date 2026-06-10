@@ -8,9 +8,9 @@ summary: "儒学学习传统第二主题，从修身出发承担社会与天下�
 type: concept
 domain: "chinese-philosophy"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theory/confucianism

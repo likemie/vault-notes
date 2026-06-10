@@ -8,9 +8,9 @@ summary: "区分以记忆事实和任务完成为主的表层学习与以理解�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - surface-learning
   - deep-learning

@@ -5,9 +5,9 @@ summary: "期刊论文或学位论文中为读者提供研究背景信息的第�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Narrative Hook]]"

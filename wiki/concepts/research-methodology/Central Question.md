@@ -11,9 +11,9 @@ summary: "质性研究中询问核心现象的主要开放性问题，通常一�
 type: concept
 domain: "research-methodology"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
 related_concepts:

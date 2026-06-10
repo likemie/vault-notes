@@ -9,9 +9,9 @@ summary: "跨文化学习研究中的分析概念，指特定文化偏好的最�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/cross-cultural
 - theme/cross-cultural-learning

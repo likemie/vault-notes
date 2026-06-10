@@ -10,9 +10,9 @@ summary: "混合方法研究中将质性编码或主题转化为量化变量后�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - mixed-methods

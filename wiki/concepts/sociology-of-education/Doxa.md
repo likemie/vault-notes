@@ -7,9 +7,9 @@ summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然�
 type: concept
 domain: "sociology-of-education"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - doxa
   - bourdieu

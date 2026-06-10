@@ -8,9 +8,9 @@ summary: "大学医学院及其合作教学医院组成的高教与医疗机构�
 type: concept
 domain: "higher-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials

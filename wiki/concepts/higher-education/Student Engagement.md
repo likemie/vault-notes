@@ -7,9 +7,9 @@ summary: "学生在教育性活动中投入时间、精力和参与质量的概�
 type: concept
 domain: "higher-education"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - student-engagement
 - higher-education

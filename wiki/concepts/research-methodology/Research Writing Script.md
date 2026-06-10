@@ -9,9 +9,9 @@ summary: "研究写作中的填空式模板工具，包含陈述的主要词语�
 type: concept
 domain: "research-methodology"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
 related_concepts:

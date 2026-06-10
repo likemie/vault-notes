@@ -7,9 +7,9 @@ summary: "德语教学理论传统，关注什么知识值得教、为什么教�
 type: concept
 domain: "curriculum"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - didaktik
 - subject/curriculum

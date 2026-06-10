@@ -9,9 +9,9 @@ summary: "质性研究中以有限方式使用的概念，指将案例研究发�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

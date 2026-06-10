@@ -9,9 +9,9 @@ summary: "Campbell和Stanley（1963）提出的用于图示实验设计的经典
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/experimental
   - quantitative-research

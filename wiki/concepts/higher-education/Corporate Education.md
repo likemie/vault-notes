@@ -10,9 +10,9 @@ summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初�
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - level/adult
   - region/global

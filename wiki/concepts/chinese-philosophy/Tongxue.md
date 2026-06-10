@@ -8,9 +8,9 @@ summary: "中文对学校同伴的称谓，字面意为一起学习的人，与�
 type: concept
 domain: "chinese-philosophy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/east-asia
   - region/china

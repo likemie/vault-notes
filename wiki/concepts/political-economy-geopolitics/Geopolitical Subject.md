@@ -7,9 +7,9 @@ summary: "被政治权力塑造成具有特定技能、行为取向和空间心�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - geopolitical-subject
 - knowledge-based-economization

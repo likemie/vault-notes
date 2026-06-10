@@ -8,9 +8,9 @@ summary: "实验研究中因程序、处理或受试者经历而威胁研究者�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/experimental
   - quantitative-research

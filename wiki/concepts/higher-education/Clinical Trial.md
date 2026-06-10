@@ -11,9 +11,9 @@ summary: "以人为研究对象、按预设方案分阶段评估新药或新疗�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-research

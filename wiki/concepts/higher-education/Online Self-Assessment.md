@@ -10,9 +10,9 @@ summary: "用于入学前咨询和项目匹配的数字化自我评估工具，�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - osas
 - student-admission

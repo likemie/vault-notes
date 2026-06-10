@@ -9,9 +9,9 @@ summary: "儒学四超越德目之一，指在具体情境中做正确之事并�
 type: concept
 domain: "chinese-philosophy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theory/confucianism

@@ -6,9 +6,9 @@ summary: "跨文化学习研究中的核心争议，中国学习者将记忆作�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/memorization
   - theme/deep-learning

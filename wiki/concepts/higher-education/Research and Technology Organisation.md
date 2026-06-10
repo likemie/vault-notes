@@ -10,9 +10,9 @@ summary: "政府投资建立的桥接大学研究与产业应用之间的中介�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/innovation
   - theme/technology-transfer

@@ -8,9 +8,9 @@ summary: "质性研究中理论作为研究终点的运用方式，指从数据�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

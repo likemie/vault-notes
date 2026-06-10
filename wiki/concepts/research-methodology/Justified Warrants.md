@@ -6,9 +6,9 @@ summary: "研究结论应提供暂定、可修正的担保断言而非确定性�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - justified-warrants
 - evidence-based-policy

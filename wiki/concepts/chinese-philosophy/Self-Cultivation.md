@@ -10,9 +10,9 @@ summary: "儒家学习传统的核心目标，指以自我而非外部世界为�
 type: concept
 domain: "chinese-philosophy"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/china
   - theory/confucianism

@@ -6,9 +6,9 @@ summary: "Pierre Bourdieu 的核心概念，指个体通过社会化获得并在
 type: concept
 domain: "sociology-of-education"
 related_count: 18
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - cultural-capital
   - bourdieu

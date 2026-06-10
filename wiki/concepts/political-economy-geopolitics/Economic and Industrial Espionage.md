@@ -9,9 +9,9 @@ summary: "围绕商业技术、产业知识和经济情报获取展开的秘密�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - geopolitics-of-knowledge
 - knowledge-transfer

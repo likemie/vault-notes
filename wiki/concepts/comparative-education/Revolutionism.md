@@ -9,9 +9,9 @@ summary: "Wight 国际关系三大传统之一，以 Kant 为代表，将政治�
 type: concept
 domain: "comparative-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/international-relations
   - subject/comparative-education

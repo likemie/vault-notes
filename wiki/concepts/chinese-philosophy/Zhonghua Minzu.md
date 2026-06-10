@@ -9,9 +9,9 @@ summary: "由梁启超 1902 年引入的现代概念，经费孝通 1988 年以�
 type: concept
 domain: "chinese-philosophy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theme/national-identity

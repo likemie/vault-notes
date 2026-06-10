@@ -10,9 +10,9 @@ summary: "大学或政府资助的转化研究孵化项目，通过非稀释性�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/entrepreneurship"
   - "theme/university-industry-collaboration"

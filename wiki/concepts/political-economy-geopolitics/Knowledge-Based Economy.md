@@ -8,9 +8,9 @@ summary: "以知识、创新、高等教育和研发作为价值创造与全球�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 31
-related_level: 5
-related_stars: "★★★★★"
-related_color: "#fecdd3"
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - knowledge-based-economy
 - knowledge-economy

@@ -11,9 +11,9 @@ summary: "Malkov et al.（2024）提出的大学代际演化框架，第四代�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

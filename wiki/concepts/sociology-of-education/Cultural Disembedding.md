@@ -6,9 +6,9 @@ summary: "弱势背景学生进入精英大学后对物理环境与社会文化�
 type: concept
 domain: "sociology-of-education"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - cultural-disembedding
   - higher-education

@@ -11,9 +11,9 @@ summary: "两种智力信念的区分，实体观视智力为固定不变，增�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/motivation
   - theme/mindset

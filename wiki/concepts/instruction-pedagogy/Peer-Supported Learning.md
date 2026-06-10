@@ -10,9 +10,9 @@ summary: "东亚学校文化中以同伴互助为核心的学习方式，包括�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/east-asia
   - theme/peer-culture

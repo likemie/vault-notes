@@ -8,9 +8,9 @@ summary: "混合方法研究中从社会科学、行为科学或健康科学文�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/pragmatic

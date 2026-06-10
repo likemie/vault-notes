@@ -8,9 +8,9 @@ summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - sociology-of-evaluation
   - higher-education

@@ -8,9 +8,9 @@ summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信�
 type: concept
 domain: "sociology-of-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - value-conformist-mode
   - higher-education

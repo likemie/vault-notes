@@ -6,9 +6,9 @@ summary: "个体依据内在声音和核心价值观主导认知、自我认同�
 type: concept
 domain: "higher-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - self-authorship
   - higher-education

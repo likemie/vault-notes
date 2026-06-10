@@ -7,9 +7,9 @@ summary: "以儒家传统与实证研究为基础的学习者模型，强调向�
 type: concept
 domain: "chinese-philosophy"
 related_count: 37
-related_level: 5
-related_stars: "★★★★★"
-related_color: "#fecdd3"
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - region/china
   - region/hongkong

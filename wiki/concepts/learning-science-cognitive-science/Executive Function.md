@@ -7,9 +7,9 @@ summary: "执行功能是一组用于目标导向控制的高阶认知过程，�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - executive-function
 - learning-science

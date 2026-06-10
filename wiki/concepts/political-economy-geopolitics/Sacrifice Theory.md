@@ -7,9 +7,9 @@ summary: "哈尔伯塔尔提出的政治哲学理论，认为政治共同体通�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/political-theory
   - theme/sacrifice

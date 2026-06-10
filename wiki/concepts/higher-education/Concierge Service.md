@@ -10,9 +10,9 @@ summary: "产学合作中的一站式导航服务模式，通过为产业伙伴�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

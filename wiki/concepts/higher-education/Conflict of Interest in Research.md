@@ -9,9 +9,9 @@ summary: "当研究者或机构的财务利益可能损害研究客观性、学�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"

@@ -6,9 +6,9 @@ summary: "产学合作中系统梳理区域内利益相关者优势与需求的�
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

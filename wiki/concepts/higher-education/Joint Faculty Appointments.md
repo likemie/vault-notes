@@ -10,9 +10,9 @@ summary: "产学合作中的新兴模式，研究人员同时持有企业雇员�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

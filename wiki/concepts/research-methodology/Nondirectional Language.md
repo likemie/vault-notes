@@ -9,9 +9,9 @@ summary: "质性研究中不使用暗示结果方向的词语的原则，由 McC
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

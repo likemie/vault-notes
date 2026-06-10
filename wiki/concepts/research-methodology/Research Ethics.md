@@ -5,9 +5,9 @@ summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研�
 type: concept
 domain: "research-methodology"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Institutional Review Board]]"

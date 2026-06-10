@@ -6,9 +6,9 @@ summary: "Feynman 提出的概念，指看起来像科学却缺乏认识论诚�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - cargo-cult-science
 - pseudoscience

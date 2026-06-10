@@ -12,9 +12,9 @@ summary: "评估多项目量表中各条目测量同一构念程度的信度指�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/measurement
   - quantitative-research

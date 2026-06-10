@@ -9,9 +9,9 @@ summary: "利用校友对母校研究优势和产业需求的双重了解，以�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/alumni"

@@ -9,9 +9,9 @@ summary: "Clark (1983) 三角协调模型中专业寡头一极的当代延伸，
 type: concept
 domain: "higher-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - academic-oligarchy
   - higher-education

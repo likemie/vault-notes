@@ -6,9 +6,9 @@ summary: "批判教育被学习结果和效果逻辑全面重写的概念，指�
 type: concept
 domain: "educational-philosophy"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - learnification
 - stance/critique

@@ -5,9 +5,9 @@ summary: "学术研究中引导研究需求的难题或议题，区别于通过�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [method/research-process, source/textbook]
 related_concepts:
   - "[[Research Question]]"

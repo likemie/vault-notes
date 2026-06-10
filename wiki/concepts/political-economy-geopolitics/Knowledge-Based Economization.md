@@ -6,9 +6,9 @@ summary: "指知识密集型资本主义的物质过程如何通过想象、指�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 33
-related_level: 5
-related_stars: "★★★★★"
-related_color: "#fecdd3"
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - knowledge-based-economization
 - knowledge-based-economy

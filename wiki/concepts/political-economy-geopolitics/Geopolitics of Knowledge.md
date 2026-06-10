@@ -7,9 +7,9 @@ summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 64
-related_level: 6
-related_stars: "★★★★★★"
-related_color: "#ddd6fe"
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - geopolitics-of-knowledge
   - higher-education

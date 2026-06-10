@@ -7,9 +7,9 @@ summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨�
 type: concept
 domain: "curriculum"
 related_count: 16
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - phenomenon-based-learning
 - subject/curriculum

@@ -6,9 +6,9 @@ summary: "通过减少系统中的可用选项数量使社会情境变得更可�
 type: concept
 domain: "educational-philosophy"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - complexity-reduction
 - social-systems

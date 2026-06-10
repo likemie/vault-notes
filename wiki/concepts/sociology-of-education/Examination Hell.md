@@ -8,9 +8,9 @@ summary: "描述东亚应试教育体系的术语，指高风险考试压力、�
 type: concept
 domain: "sociology-of-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - region/east-asia

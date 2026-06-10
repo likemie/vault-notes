@@ -8,9 +8,9 @@ summary: "研究伦理的核心程序，研究者在数据收集前向参与者�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "method/research-ethics"
   - "theme/research-procedure"

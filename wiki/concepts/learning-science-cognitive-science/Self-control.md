@@ -6,9 +6,9 @@ summary: "学生调节注意、情绪和行为反应以维持目标导向行动�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - self-control
 - self-regulation

@@ -11,9 +11,9 @@ summary: "以学生为学习主体、强调学生自主性、对话教学和批�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/pedagogy
   - theme/educational-reform

@@ -9,9 +9,9 @@ summary: "治理中的结构性偏向机制，使某些政策选项、行动者�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - governance
 - policy-instruments

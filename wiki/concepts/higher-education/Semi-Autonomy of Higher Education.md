@@ -9,9 +9,9 @@ summary: "指高等教育相对于国家和经济既受塑造又保有部分独�
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/power
 - theme/geopolitics

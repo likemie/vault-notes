@@ -8,9 +8,9 @@ summary: "将全球与地方视为对立两极的分析框架，被批评为过�
 type: concept
 domain: "comparative-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/social-theory
   - theme/comparative-education

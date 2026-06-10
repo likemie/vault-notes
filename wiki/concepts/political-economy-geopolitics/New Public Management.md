@@ -6,9 +6,9 @@ summary: "以企业管理逻辑重塑公共部门的改革浪潮，强调绩效�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 23
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - new-public-management
 - paradigm/neoliberal

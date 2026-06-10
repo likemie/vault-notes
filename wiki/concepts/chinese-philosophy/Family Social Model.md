@@ -8,9 +8,9 @@ summary: "儒家将家庭等级关系扩展到社会关系中的文化模式，�
 type: concept
 domain: "chinese-philosophy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theory/confucianism

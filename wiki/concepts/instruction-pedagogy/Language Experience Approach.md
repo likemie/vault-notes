@@ -6,9 +6,9 @@ summary: "基于学生自身口语经验生成阅读与写作材料的早期读�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - language-experience-approach
 - literacy

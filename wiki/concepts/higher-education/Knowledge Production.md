@@ -6,9 +6,9 @@ summary: "围绕谁生产知识、以何种视角生产以及知识服务于谁�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - geopolitics-of-knowledge
 - knowledge-economy

@@ -7,9 +7,9 @@ summary: "跨学科研究领域，主张科学是一种社会实践，核心关�
 type: concept
 domain: "curriculum"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - sts
   - science-and-technology-studies

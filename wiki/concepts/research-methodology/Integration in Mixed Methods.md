@@ -9,9 +9,9 @@ summary: "混合方法研究的核心概念，指在研究中将量化与质性�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - mixed-methods

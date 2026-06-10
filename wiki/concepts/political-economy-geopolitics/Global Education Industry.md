@@ -7,9 +7,9 @@ summary: "教育实践、供给、研究和政策被市场逻辑、投资关系�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 19
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - global-education-industry
 - privatization

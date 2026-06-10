@@ -6,9 +6,9 @@ summary: "用于判断观察到的差异是否足以拒绝零假设的统计判�
 type: concept
 domain: "research-methodology"
 related_count: 16
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - statistical-significance
 - p-value

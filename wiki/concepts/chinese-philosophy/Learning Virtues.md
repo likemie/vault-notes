@@ -8,9 +8,9 @@ summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻�
 type: concept
 domain: "chinese-philosophy"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/china
 - theory/confucianism

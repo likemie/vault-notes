@@ -8,9 +8,9 @@ summary: "中国 1990 年代后期提出的教育改革理念，旨在替代以�
 type: concept
 domain: "educational-policy-reform"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theme/educational-reform

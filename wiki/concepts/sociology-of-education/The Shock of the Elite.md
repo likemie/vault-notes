@@ -6,9 +6,9 @@ summary: "弱势背景学生进入精英大学后经历的剧烈文化冲击与�
 type: concept
 domain: "sociology-of-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - elite-shock
   - higher-education

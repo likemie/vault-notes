@@ -8,9 +8,9 @@ summary: "欧裔美国家庭中一种以心智能力与积极情感为中心的�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/learning
   - theme/parenting

@@ -7,7 +7,7 @@ type: concept
 domain: "sociology-of-education"
 related_count: 10
 related_level: 1
-related_stars: "★"
+related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
 - gender

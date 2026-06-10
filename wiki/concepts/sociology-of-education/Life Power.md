@@ -7,9 +7,9 @@ summary: "Dell Delambre 提出的概念，指个体在新旧张力中为自身�
 type: concept
 domain: "sociology-of-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/brazil
 - region/global

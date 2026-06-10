@@ -6,9 +6,9 @@ summary: "Lamont 的概念，指通过赋予行为、品味和价值观以道德
 type: concept
 domain: "sociology-of-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - symbolic-boundary
 - cultural-sociology

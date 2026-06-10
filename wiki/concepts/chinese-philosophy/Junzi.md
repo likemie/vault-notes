@@ -9,9 +9,9 @@ summary: "儒学中仅次于圣人的理想人格，通过终身学习与修身�
 type: concept
 domain: "chinese-philosophy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/china
 - theory/confucianism

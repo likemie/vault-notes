@@ -9,9 +9,9 @@ summary: "混合方法研究方案或报告中必须包含的陈述，说明整�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - mixed-methods

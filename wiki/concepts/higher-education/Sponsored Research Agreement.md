@@ -10,9 +10,9 @@ summary: "产学合作中最常见的合同类型，企业从内部资金中向�
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/intellectual-property
   - theme/university-industry-collaboration

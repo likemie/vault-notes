@@ -6,9 +6,9 @@ summary: "对科学方法和科学权威的过度美化，以及将其轻率扩�
 type: concept
 domain: "educational-philosophy"
 related_count: 18
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - scientism
 - scientific-method

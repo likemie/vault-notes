@@ -9,9 +9,9 @@ summary: "东亚课堂中以倾听为核心的学习方式，强调通过专注�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/east-asia
   - theme/speaking

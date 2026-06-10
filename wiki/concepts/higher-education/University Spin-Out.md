@@ -12,9 +12,9 @@ summary: "基于大学研究项目产生的知识产权而创建的初创企业�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/entrepreneurship"
   - "theme/university-industry-collaboration"

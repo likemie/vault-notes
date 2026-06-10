@@ -6,9 +6,9 @@ summary: "Lundvall和Johnson提出的经济分析视角，强调在全球化与�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/innovation-studies
   - theme/learning-economy

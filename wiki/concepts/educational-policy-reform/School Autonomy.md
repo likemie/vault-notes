@@ -6,9 +6,9 @@ summary: "教育决策权从中央官僚机构向个别学校下放的制度安�
 type: concept
 domain: "educational-policy-reform"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - school-autonomy
 - school-autonomy

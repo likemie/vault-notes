@@ -6,9 +6,9 @@ summary: "Massey 的空间理论概念，指空间中差异、关系和多重轨
 type: concept
 domain: "educational-philosophy"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/spatiality
 - region/global

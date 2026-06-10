@@ -9,9 +9,9 @@ summary: "教育研究利用领域的概念，指研究知识通过传播、翻�
 type: concept
 domain: "educational-policy-reform"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - knowledge-mobilisation
 - evidence-informed-practice

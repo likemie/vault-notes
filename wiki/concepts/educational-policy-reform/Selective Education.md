@@ -6,9 +6,9 @@ summary: "依据学术能力考试将中学生分流至不同学校类型的制�
 type: concept
 domain: "educational-policy-reform"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - selective-education
 - grammar-schools

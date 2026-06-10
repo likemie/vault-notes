@@ -7,9 +7,9 @@ summary: "指大学从相对封闭的学术共同体转变为连接学生、教�
 type: concept
 domain: "higher-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - stakeholder-university
   - higher-education-governance

@@ -7,9 +7,9 @@ summary: "指超国家组织通过指标、排名和协调机制对区域内高�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - regulatory-regionalism
 - higher-education-governance

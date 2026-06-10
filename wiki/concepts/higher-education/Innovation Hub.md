@@ -13,9 +13,9 @@ summary: "基于地点的跨部门联合体，将区域内大学、企业、投�
 type: concept
 domain: "higher-education"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

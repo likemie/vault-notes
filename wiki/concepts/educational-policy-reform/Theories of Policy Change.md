@@ -7,9 +7,9 @@ summary: "把政策理解为承载特定因果机制叙事的分析概念，用�
 type: concept
 domain: "educational-policy-reform"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - policy-instruments
   - governance

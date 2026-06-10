@@ -11,9 +11,9 @@ summary: "Schot 与 Steinmueller（2018）识别的创新政策三大范式—�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/innovation-policy"
   - "theme/innovation"

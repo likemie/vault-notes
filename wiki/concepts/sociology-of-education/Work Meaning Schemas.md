@@ -7,9 +7,9 @@ summary: "大学生理解工作意义的三角图式结构，由地位保障与�
 type: concept
 domain: "sociology-of-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - work-meaning
   - higher-education

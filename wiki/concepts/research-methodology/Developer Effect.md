@@ -6,9 +6,9 @@ summary: "指项目开发者委托、参与或实施的评估往往得到系统�
 type: concept
 domain: "research-methodology"
 related_count: 15
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - developer-effect
 - program-evaluation

@@ -9,9 +9,9 @@ summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 22
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/east-asia
   - theme/learning-process

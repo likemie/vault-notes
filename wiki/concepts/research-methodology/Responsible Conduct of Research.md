@@ -8,9 +8,9 @@ summary: "研究者对研究质量的基本义务，涵盖伦理规范、数据�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/research-governance"
   - "method/research-ethics"

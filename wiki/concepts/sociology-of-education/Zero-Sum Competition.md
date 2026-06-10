@@ -9,9 +9,9 @@ summary: "美国学生将学业竞争视为零和博弈的文化信念，是 ner
 type: concept
 domain: "sociology-of-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/western
   - region/east-asia

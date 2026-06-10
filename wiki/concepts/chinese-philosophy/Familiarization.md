@@ -9,9 +9,9 @@ summary: "中国学习过程中勤奋美德的第一阶段，通过反复接触�
 type: concept
 domain: "chinese-philosophy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - field/chinese-philosophy

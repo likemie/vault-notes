@@ -7,9 +7,9 @@ summary: "描述全球教育改革向标准化、问责、市场化和私有化�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - germ
   - global-education-reform-movement

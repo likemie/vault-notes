@@ -7,9 +7,9 @@ summary: "儒家四书之一，提出格物致知诚意正心修身齐家治国�
 type: concept
 domain: "chinese-philosophy"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theory/confucianism

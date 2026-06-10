@@ -8,9 +8,9 @@ summary: 大学为保护研究免受外国干预和经济间谍活动威胁而�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/research-security
   - theme/higher-education

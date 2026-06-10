@@ -6,9 +6,9 @@ summary: "Håkansson 综合教学研究后使用的宽课堂组织概念，涵�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - classroom-management
   - subject/instruction

@@ -8,9 +8,9 @@ summary: "Swick 与 Jones（2025）定义的创新类型，指整合医学、自
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

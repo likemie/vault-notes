@@ -9,9 +9,9 @@ summary: "中国学习过程的终极目标，指从熟悉到练习再到精炼�
 type: concept
 domain: "chinese-philosophy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - field/chinese-philosophy

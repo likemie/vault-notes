@@ -8,9 +8,9 @@ summary: "高等教育跨越国家边界组织流动、合作和制度安排的�
 type: concept
 domain: "higher-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - internationalization
 - higher-education

@@ -7,9 +7,9 @@ summary: "Dell Delambre 对当代社会的诊断，指新与旧之间的意义�
 type: concept
 domain: "sociology-of-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/global
 related_concepts:

@@ -6,9 +6,9 @@ summary: "源自德国精神科学传统的品格陶成概念，主张教育应�
 type: concept
 domain: "educational-philosophy"
 related_count: 24
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - bildung
   - paradigm/critical

@@ -7,9 +7,9 @@ summary: 把民族国家视为现代社会自然单位的方法论立场，容�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/global
   - theme/geopolitics

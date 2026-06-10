@@ -8,9 +8,9 @@ summary: "质性研究中所探索或理解的单一概念或想法，是质性�
 type: concept
 domain: "research-methodology"
 related_count: 15
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

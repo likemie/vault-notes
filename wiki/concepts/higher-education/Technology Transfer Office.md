@@ -10,9 +10,9 @@ summary: "大学内部负责知识产权许可谈判、商业化路径评估和�
 type: concept
 domain: "higher-education"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/technology-transfer"
   - "level/higher-education"

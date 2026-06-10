@@ -9,9 +9,9 @@ summary: "以学习结果为中心的课程设计范式，强调可测量的学�
 type: concept
 domain: "curriculum"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - paradigm/neoliberalism

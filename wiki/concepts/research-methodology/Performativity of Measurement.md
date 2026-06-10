@@ -7,9 +7,9 @@ summary: "指测量不仅描述现实，也会通过分类、比较和激励机�
 type: concept
 domain: "research-methodology"
 related_count: 23
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - performativity-of-measurement
 - performativity

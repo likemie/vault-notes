@@ -12,9 +12,9 @@ summary: "大学为产业伙伴设立的会员制合作计划，企业通过缴�
 type: concept
 domain: "higher-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

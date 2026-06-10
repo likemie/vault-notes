@@ -7,9 +7,9 @@ summary: "比较教育的理论挑战，指分析教育思想和实践从一个�
 type: concept
 domain: "comparative-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/comparative-education
   - theory/transfer-frameworks

@@ -7,9 +7,9 @@ summary: "一种将研究证据视为多种决策资源之一的实践取向，�
 type: concept
 domain: "educational-policy-reform"
 related_count: 23
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - evidence-informed-practice
 - evidence-based-education

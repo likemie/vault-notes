@@ -12,9 +12,9 @@ summary: "由全球教育治理中的多边组织、国家政府和私营伙伴�
 type: concept
 domain: "educational-policy-reform"
 related_count: 24
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/global-education-governance
   - theme/skills

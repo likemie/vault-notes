@@ -5,9 +5,9 @@ summary: "已有研究中存在的缺口、不足或忽略之处，用于为新�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Deficiencies Model for an Introduction]]"

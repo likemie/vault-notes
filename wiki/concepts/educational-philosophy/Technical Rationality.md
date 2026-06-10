@@ -6,9 +6,9 @@ summary: "把专业实践理解为以手段目的计算解决问题的实证主�
 type: concept
 domain: "educational-philosophy"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - technical-rationality
 - positivism

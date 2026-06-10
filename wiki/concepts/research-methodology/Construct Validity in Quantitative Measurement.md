@@ -10,9 +10,9 @@ summary: "量化研究中评估测量工具是否准确测量了其意图测量�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/measurement
   - quantitative-research

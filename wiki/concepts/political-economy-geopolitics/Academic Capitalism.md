@@ -7,9 +7,9 @@ summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - academic-capitalism
   - political-economy

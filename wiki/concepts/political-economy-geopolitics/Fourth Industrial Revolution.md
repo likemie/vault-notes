@@ -8,9 +8,9 @@ summary: "围绕人工智能、区块链和自动化等技术集群构成新一�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - geopolitics-of-knowledge
 - knowledge-economy

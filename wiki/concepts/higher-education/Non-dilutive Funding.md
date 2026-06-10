@@ -10,9 +10,9 @@ summary: "不需要创始团队出让股权的资助形式，包括大学内部�
 type: concept
 domain: "higher-education"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/entrepreneurship"
   - "theme/innovation"

@@ -9,9 +9,9 @@ summary: "以学生标准化考试成绩来评估、监督和规制学校与教�
 type: concept
 domain: "educational-policy-reform"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/accountability
   - theme/examination

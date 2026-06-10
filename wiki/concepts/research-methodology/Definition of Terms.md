@@ -5,9 +5,9 @@ summary: "研究计划中对关键术语的精确界定，遵循操作化、首�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Multiplicity]]"

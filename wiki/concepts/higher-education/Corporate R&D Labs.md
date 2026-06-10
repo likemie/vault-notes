@@ -11,9 +11,9 @@ summary: "二十世纪早中期大企业建立的内部中央研发机构，以�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/innovation"
   - "theme/university-industry-collaboration"

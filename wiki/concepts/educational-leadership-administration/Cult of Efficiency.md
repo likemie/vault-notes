@@ -9,9 +9,9 @@ summary: "雷蒙德·卡拉汉提出的概念，指20世纪初美国公立学校
 type: concept
 domain: "educational-leadership-administration"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-leadership-administration
   - theme/efficiency-cult

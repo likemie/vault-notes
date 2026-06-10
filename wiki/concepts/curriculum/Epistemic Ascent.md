@@ -9,9 +9,9 @@ summary: "学习者在学科中从具体经验向抽象概念逐步发展的认�
 type: concept
 domain: "curriculum"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum
   - epistemology

@@ -9,9 +9,9 @@ summary: "Polanyi 虚拟商品理论在知识领域的延伸，揭示知识因�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - fictitious-commodity
   - knowledge-economy

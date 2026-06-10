@@ -10,9 +10,9 @@ summary: "Foucault 的权力分析概念，指通过塑造主体自我理解而�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 23
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - foucault
   - governmentality

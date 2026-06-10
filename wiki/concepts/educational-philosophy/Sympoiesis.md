@@ -6,9 +6,9 @@ summary: "强调存在总是在与他者共同制造中生成的后人类主义�
 type: concept
 domain: "educational-philosophy"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - sympoiesis
 - posthumanism

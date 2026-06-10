@@ -8,9 +8,9 @@ summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，�
 type: concept
 domain: "chinese-philosophy"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/learning
   - theme/parenting

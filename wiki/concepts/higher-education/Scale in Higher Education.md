@@ -8,9 +8,9 @@ summary: "用于分析高等教育活动如何在全球、区域、国家、地�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/spatiality
 - level/higher-ed

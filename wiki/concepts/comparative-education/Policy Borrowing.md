@@ -6,9 +6,9 @@ summary: "教育改革选择性参照外部政策经验并在本地重新解释�
 type: concept
 domain: "comparative-education"
 related_count: 33
-related_level: 5
-related_stars: "★★★★★"
-related_color: "#fecdd3"
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - policy-borrowing
 - policy-referencing

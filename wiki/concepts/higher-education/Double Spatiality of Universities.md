@@ -6,9 +6,9 @@ summary: "大学同时扎根于具体城市与国家，又通过学术流动、�
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/spatiality
 - level/higher-ed

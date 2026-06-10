@@ -6,9 +6,9 @@ summary: "Wiley提出的学习对象可重用性悖论，被Pellegrini与Vivanet
 type: concept
 domain: "educational-policy-reform"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/evidence-based-education
   - theme/external-validity

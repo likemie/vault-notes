@@ -10,9 +10,9 @@ summary: "对高等教育机构进行比较性评估和排序的工具系统，�
 type: concept
 domain: "higher-education"
 related_count: 24
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - university-rankings
 - higher-education

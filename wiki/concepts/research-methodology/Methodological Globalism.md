@@ -6,9 +6,9 @@ summary: "把全球尺度视为完全决定国家尺度的方法论立场，常�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/geopolitics
 - theme/spatiality

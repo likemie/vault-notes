@@ -6,9 +6,9 @@ summary: "Klafki 提出的课程组织概念，以环境危机、社会不平等
 type: concept
 domain: "curriculum"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - epochal-key-problems
 - didaktik

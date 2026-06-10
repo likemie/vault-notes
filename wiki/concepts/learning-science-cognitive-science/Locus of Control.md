@@ -9,9 +9,9 @@ summary: "Rotter (1966) 提出的动机概念，指个体将成败原因感知�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/motivation
   - theme/attribution

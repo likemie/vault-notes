@@ -6,9 +6,9 @@ summary: "以国家领土控制、势力范围和硬实力竞争为中心的传�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - classical-geopolitics
 - geopolitics

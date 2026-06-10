@@ -8,9 +8,9 @@ summary: "指知识在生产之后进入传授、挪用、流通、审查、窃�
 type: concept
 domain: "higher-education"
 related_count: 27
-related_level: 5
-related_stars: "★★★★★"
-related_color: "#fecdd3"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - geopolitics-of-knowledge
 - knowledge-economy

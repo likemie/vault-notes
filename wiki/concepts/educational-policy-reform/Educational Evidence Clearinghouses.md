@@ -7,9 +7,9 @@ summary: "证据本位教育中的制度化中介机构，通过设定证据标�
 type: concept
 domain: "educational-policy-reform"
 related_count: 56
-related_level: 6
-related_stars: "★★★★★★"
-related_color: "#ddd6fe"
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
 - educational-evidence-clearinghouses
 - evidence-based-education

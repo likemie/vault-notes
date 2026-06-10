@@ -8,9 +8,9 @@ summary: "Swick 与 Jones（2025）描述的兼具医学博士与哲学博士学
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/talent-development"
   - "theme/university-industry-collaboration"

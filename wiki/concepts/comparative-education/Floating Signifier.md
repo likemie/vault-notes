@@ -6,9 +6,9 @@ summary: "一种被剥离具体历史语境含义的符号，其传播力来自�
 type: concept
 domain: "comparative-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-transfer
   - theme/global-education-governance

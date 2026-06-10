@@ -5,9 +5,9 @@ summary: "学术写作中两种功能不同的文本类型：文献综述中加�
 type: concept
 domain: "research-methodology"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"

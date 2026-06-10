@@ -9,9 +9,9 @@ summary: "研究计划中传达研究总体意图和目标的陈述，是连接�
 type: concept
 domain: "research-methodology"
 related_count: 22
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
 related_concepts:

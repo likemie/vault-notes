@@ -7,9 +7,9 @@ summary: "班级学生人数这一教育组织变量，其影响不仅取决于�
 type: concept
 domain: "educational-policy-reform"
 related_count: 26
-related_level: 5
-related_stars: "★★★★★"
-related_color: "#fecdd3"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - class-size
 - subject/curriculum

@@ -7,9 +7,9 @@ summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与�
 type: concept
 domain: "sociology-of-education"
 related_count: 17
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - cultural-barrier
   - higher-education

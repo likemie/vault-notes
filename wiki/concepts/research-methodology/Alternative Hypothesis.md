@@ -11,9 +11,9 @@ summary: "正式假设检验中预测变量间存在显著关系的假设形式�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/positivist

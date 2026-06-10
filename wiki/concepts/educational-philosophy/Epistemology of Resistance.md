@@ -7,9 +7,9 @@ summary: "从被排斥群体的具体经验出发构建替代性知识形式的�
 type: concept
 domain: "educational-philosophy"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/brazil
 - theme/epistemology

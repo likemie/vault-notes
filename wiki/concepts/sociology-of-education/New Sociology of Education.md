@@ -7,9 +7,9 @@ summary: "1970年代英国教育社会学的问题转向，将学校知识、课
 type: concept
 domain: "sociology-of-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/sociology-of-education
   - theme/curriculum

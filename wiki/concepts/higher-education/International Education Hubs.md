@@ -8,9 +8,9 @@ summary: "Knight 提出的概念，指国家战略性地把自身定位为教育
 type: concept
 domain: "higher-education"
 related_count: 20
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - international-education-hubs
 - higher-education

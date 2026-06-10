@@ -5,9 +5,9 @@ summary: "研究过程中的核心步骤，指对某一主题已有研究进行�
 type: concept
 domain: "research-methodology"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Topic]]"

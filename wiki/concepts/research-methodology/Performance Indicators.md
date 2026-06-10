@@ -9,9 +9,9 @@ summary: "经目的性选择和加工的派生统计量，合并多数据源；L
 type: concept
 domain: "research-methodology"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - policy-instruments
 - governance

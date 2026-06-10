@@ -6,9 +6,9 @@ summary: "跨越单一国家边界组织、流动或想象的教育形式，涵�
 type: concept
 domain: "higher-education"
 related_count: 15
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/global
 - level/k12

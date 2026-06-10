@@ -9,9 +9,9 @@ summary: "Cohen、Fernandes 与 Godinho（2025）通过系统综述 92 篇文献
 type: concept
 domain: "higher-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/research-impact-assessment

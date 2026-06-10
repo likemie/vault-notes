@@ -8,9 +8,9 @@ summary: "西方文化学习者模型，以心智为首要、好奇心为驱动�
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 16
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/western
 - field/educational-philosophy

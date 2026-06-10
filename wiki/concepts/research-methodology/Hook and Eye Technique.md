@@ -5,9 +5,9 @@ summary: "Wilkinson (1991) 提出的写作一致性检查技术，通过圈出�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/academic-writing, method/writing-technique]
 related_concepts:
   - "[[Coherence in Writing]]"

@@ -7,9 +7,9 @@ summary: "教育思想从生产场所到课程和学校的转化过程，Bernste
 type: concept
 domain: "comparative-education"
 related_count: 21
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/educational-transfer
   - theme/recontextualization

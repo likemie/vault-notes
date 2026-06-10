@@ -9,9 +9,9 @@ summary: "把项目投入、实施活动、即时输出、短期结果和长期�
 type: concept
 domain: "research-methodology"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - method/logic-model
 - method/mixed

@@ -7,9 +7,9 @@ summary: "围绕点估计给出的可能取值范围，用于表示估计不确�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - confidence-interval
 - standard-error

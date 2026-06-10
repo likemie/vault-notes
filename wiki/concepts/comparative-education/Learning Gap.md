@@ -8,9 +8,9 @@ summary: "跨国学习比较中的概念，指美国学生倾向以能力解释�
 type: concept
 domain: "comparative-education"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/us
 - region/china

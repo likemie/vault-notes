@@ -6,9 +6,9 @@ summary: "把学习理解为具身存在与向外延展之间双向运动的框�
 type: concept
 domain: "educational-philosophy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - incarnation-extension-dialectics
 - paradigm/phenomenological

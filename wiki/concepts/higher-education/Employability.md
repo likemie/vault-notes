@@ -7,9 +7,9 @@ summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻�
 type: concept
 domain: "higher-education"
 related_count: 19
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - employability
 - higher-education

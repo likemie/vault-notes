@@ -8,9 +8,9 @@ summary: Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/academic-writing
 related_concepts:

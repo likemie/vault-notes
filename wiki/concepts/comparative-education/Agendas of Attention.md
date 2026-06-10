@@ -8,9 +8,9 @@ summary: "Klerides（2023）从国际关系理论角度提出的概念，指比�
 type: concept
 domain: "comparative-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/comparative-education
   - theme/geopolitics

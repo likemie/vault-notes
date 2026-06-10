@@ -8,9 +8,9 @@ summary: "解释大学生毕业出路分化的 2×2 四分类模型，以目的�
 type: concept
 domain: "sociology-of-education"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - graduation-pathway
   - higher-education

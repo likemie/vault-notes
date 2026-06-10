@@ -8,9 +8,9 @@ summary: "Randall Collins 提出的概念，指学历数量扩张导致文凭在
 type: concept
 domain: "sociology-of-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - credential-inflation
 - higher-education

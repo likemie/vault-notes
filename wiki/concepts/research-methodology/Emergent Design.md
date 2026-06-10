@@ -8,9 +8,9 @@ summary: "质性研究的核心特征之一：研究计划在研究者进入现�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research

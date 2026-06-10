@@ -8,9 +8,9 @@ summary: "中国对香港和澳门特别行政区的宪制框架，在主张中�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/hong-kong
   - region/china

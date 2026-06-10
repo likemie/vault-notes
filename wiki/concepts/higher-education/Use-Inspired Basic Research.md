@@ -10,9 +10,9 @@ summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解�
 type: concept
 domain: "higher-education"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/innovation"
   - "theme/research-policy"

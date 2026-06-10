@@ -9,9 +9,9 @@ summary: "以规范、认知和知识为基础的治理机制，用于说明高�
 type: concept
 domain: "higher-education"
 related_count: 15
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/global
 - level/higher-ed

@@ -6,9 +6,9 @@ summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威
 type: concept
 domain: "educational-leadership-administration"
 related_count: 24
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - cult-of-the-guru
   - school-leadership

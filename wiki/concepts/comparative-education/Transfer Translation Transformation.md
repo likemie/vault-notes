@@ -9,9 +9,9 @@ summary: "Cowen（2009）用于分析教育知识跨国流动的三阶段框架�
 type: concept
 domain: "comparative-education"
 related_count: 18
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/knowledge-transfer
   - theme/comparative-education

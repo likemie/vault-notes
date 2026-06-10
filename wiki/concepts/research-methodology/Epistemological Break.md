@@ -6,9 +6,9 @@ summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界�
 type: concept
 domain: "research-methodology"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - epistemological-break
   - epistemology

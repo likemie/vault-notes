@@ -7,9 +7,9 @@ summary: 20世纪末兴起的教育政策取向，主张用随机对照试验等
 type: concept
 domain: "educational-policy-reform"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - policy/evidence-based
   - region/australia

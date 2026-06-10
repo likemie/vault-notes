@@ -7,9 +7,9 @@ summary: "Etzkowitz 等（2000）提出的大学模式，大学通过文化适�
 type: concept
 domain: "higher-education"
 related_count: 15
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

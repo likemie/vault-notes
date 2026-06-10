@@ -10,9 +10,9 @@ summary: "Bishop兄弟描述的美国学校中在同伴面前遵守try but not t
 type: concept
 domain: "sociology-of-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/western
   - theme/peer-culture

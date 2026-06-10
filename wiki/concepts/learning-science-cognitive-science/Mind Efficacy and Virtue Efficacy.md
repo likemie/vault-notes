@@ -9,9 +9,9 @@ summary: "Li (2012) 识别的两种文化特有的学习因果归因模式，西
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 13
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/attribution
   - theme/parental-belief

@@ -10,9 +10,9 @@ summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - theory/political-economy
 - theme/power

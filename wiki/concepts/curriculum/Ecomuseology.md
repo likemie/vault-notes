@@ -9,9 +9,9 @@ summary: "将整个地域视为博物馆并由社区主导保护和阐释自然�
 type: concept
 domain: "curriculum"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/brazil
 - region/global

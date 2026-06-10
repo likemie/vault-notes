@@ -7,9 +7,9 @@ summary: "Taylor 科学管理原理在教育行政领域的当代复兴，用于
 type: concept
 domain: "educational-leadership-administration"
 related_count: 22
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - neo-taylorism
 - educational-administration

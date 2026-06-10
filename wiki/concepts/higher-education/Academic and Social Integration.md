@@ -8,9 +8,9 @@ summary: "解释大学生如何通过学术融入与社交融入逐步稳定留�
 type: concept
 domain: "higher-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - student-integration
 - higher-education

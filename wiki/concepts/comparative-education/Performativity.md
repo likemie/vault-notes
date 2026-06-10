@@ -6,9 +6,9 @@ summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断�
 type: concept
 domain: "comparative-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/global-education-governance
   - theme/network-society

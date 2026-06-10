@@ -7,9 +7,9 @@ summary: "从业者对本地情境、关系网络和实际约束的深入了解�
 type: concept
 domain: "educational-policy-reform"
 related_count: 19
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - evidence-based-policy
 - local-knowledge

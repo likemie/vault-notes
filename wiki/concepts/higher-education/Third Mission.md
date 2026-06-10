@@ -10,9 +10,9 @@ summary: "大学在教学和研究之外的正式创新与经济发展使命，�
 type: concept
 domain: "higher-education"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

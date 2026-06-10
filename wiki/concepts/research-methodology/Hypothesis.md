@@ -9,9 +9,9 @@ summary: "对特定事件或变量间关系的预测性陈述，通过重复检�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist

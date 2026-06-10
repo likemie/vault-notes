@@ -11,9 +11,9 @@ summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研�
 type: concept
 domain: "higher-education"
 related_count: 82
-related_level: 6
-related_stars: "★★★★★★"
-related_color: "#ddd6fe"
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

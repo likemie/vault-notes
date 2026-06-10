@@ -10,9 +10,9 @@ summary: "评估多位独立评判者或专家使用同一工具评分时彼此�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/measurement
   - quantitative-research

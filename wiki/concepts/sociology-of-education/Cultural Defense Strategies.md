@@ -7,9 +7,9 @@ summary: "Li 提出的文化面对外来价值冲击时维持核心的三种策�
 type: concept
 domain: "sociology-of-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/cultural-transmission
   - theme/cultural-persistence

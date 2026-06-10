@@ -9,9 +9,9 @@ summary: "学校管理中关注课程、教学与评估等核心系统，并直�
 type: concept
 domain: "educational-leadership-administration"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-leadership-administration
   - theme/instructional-leadership

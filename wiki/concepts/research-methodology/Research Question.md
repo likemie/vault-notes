@@ -7,9 +7,9 @@ summary: 研究设计中紧随目的陈述之后的路标，将研究目的进�
 type: concept
 domain: "research-methodology"
 related_count: 17
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
 related_concepts:

@@ -7,9 +7,9 @@ summary: "以多主体网络协作、关系协调和分布式控制替代单一�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 16
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - network-governance
 - subject/curriculum

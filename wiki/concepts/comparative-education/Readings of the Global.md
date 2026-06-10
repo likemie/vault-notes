@@ -9,9 +9,9 @@ summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五�
 type: concept
 domain: "comparative-education"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/comparative-education
   - theory/comparative-education

@@ -9,9 +9,9 @@ summary: "正式假设检验中的一种基本假设形式，预测在总体中�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/positivist

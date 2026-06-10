@@ -7,9 +7,9 @@ summary: "实验中向受试者提供的关于研究目的和程序的一个表�
 type: concept
 domain: "research-methodology"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/experimental
   - quantitative-research

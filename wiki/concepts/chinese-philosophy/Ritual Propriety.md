@@ -8,9 +8,9 @@ summary: "儒学四超越德目之一，是一种社会语法，涵盖从最高�
 type: concept
 domain: "chinese-philosophy"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/china
 - theory/confucianism

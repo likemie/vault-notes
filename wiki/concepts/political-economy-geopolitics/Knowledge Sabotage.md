@@ -8,9 +8,9 @@ summary: "通过破坏、削弱或扰乱敌对方知识资产和知识基础设�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - geopolitics-of-knowledge
 - knowledge-transfer

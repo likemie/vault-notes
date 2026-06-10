@@ -7,9 +7,9 @@ summary: "学生在校外完成的学习任务，但其定义在不同研究中�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - homework
 - instruction

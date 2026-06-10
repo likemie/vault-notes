@@ -5,9 +5,9 @@ summary: "基于文献缺口构建研究必要性的四部分引言写作模板�
 type: concept
 domain: "research-methodology"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Introduction]]"

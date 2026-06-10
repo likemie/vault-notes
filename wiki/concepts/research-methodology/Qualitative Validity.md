@@ -9,9 +9,9 @@ summary: "质性研究中研究者通过特定程序检查研究发现准确性�
 type: concept
 domain: "research-methodology"
 related_count: 14
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research

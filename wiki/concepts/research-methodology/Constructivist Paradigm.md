@@ -12,9 +12,9 @@ summary: "一种研究哲学立场，主张个体通过与世界的互动和社�
 type: concept
 domain: "research-methodology"
 related_count: 8
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-philosophy
   - qualitative-research

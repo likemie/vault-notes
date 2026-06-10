@@ -7,9 +7,9 @@ summary: "指研究者和学术机构将研究议程系统性对齐外部资助�
 type: concept
 domain: "higher-education"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/global
 - level/higher-ed

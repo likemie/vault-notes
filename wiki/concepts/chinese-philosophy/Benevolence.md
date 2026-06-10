@@ -9,9 +9,9 @@ summary: "儒学核心概念，指通过终身修养达到的最高道德境界�
 type: concept
 domain: "chinese-philosophy"
 related_count: 12
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/china
 - theory/confucianism

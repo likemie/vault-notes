@@ -6,9 +6,9 @@ summary: "在教育系统内外通过网络、合作和机会识别推动政策�
 type: concept
 domain: "educational-policy-reform"
 related_count: 7
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - policy-entrepreneur
 - subject/curriculum

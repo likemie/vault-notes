@@ -9,9 +9,9 @@ summary: "量化研究数据分析的第一步，报告所有变量的均值、�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/statistical
   - quantitative-research

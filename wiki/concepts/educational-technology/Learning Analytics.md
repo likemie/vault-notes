@@ -10,9 +10,9 @@ summary: "通过收集、分析和报告学习过程中的数字痕迹来理解�
 type: concept
 domain: "educational-technology"
 related_count: 16
-related_level: 3
-related_stars: "★★★"
-related_color: "#fde68a"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - learning-analytics
   - educational-data-mining

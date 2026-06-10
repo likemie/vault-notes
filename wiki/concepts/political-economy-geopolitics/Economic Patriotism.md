@@ -6,9 +6,9 @@ summary: "将爱国情感与特定领土利益绑定并通过政策把资源集�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 9
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - economic-patriotism
 - knowledge-based-economization

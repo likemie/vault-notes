@@ -9,9 +9,9 @@ summary: "一个在教育研究中有歧义的术语：在学生学习研究中�
 type: concept
 domain: "higher-education"
 related_count: 25
-related_level: 4
-related_stars: "★★★★"
-related_color: "#fdba74"
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - academic-engagement
 - student-engagement

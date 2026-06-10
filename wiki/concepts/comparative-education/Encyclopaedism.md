@@ -6,9 +6,9 @@ summary: "一种将学校知识定义为对按学科分类的事实信息进行�
 type: concept
 domain: "comparative-education"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum-theory
   - theme/educational-tradition

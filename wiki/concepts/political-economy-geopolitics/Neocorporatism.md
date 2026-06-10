@@ -8,9 +8,9 @@ summary: "政府、雇主和工会三方之间制度化合作与协商的治理�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 11
-related_level: 2
-related_stars: "★★"
-related_color: "#99f6e4"
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - governance
 - region/eu

@@ -8,9 +8,9 @@ summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 81
-related_level: 6
-related_stars: "★★★★★★"
-related_color: "#ddd6fe"
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - visible-learning
   - evidence-based-education

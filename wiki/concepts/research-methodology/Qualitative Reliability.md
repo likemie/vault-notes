@@ -8,9 +8,9 @@ summary: "质性研究中指示研究者方法在不同研究者和不同项目�
 type: concept
 domain: "research-methodology"
 related_count: 6
-related_level: 1
-related_stars: "★"
-related_color: "#bfdbfe"
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research
