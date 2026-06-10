@@ -5950,6 +5950,16 @@
     ]
   },
   {
+    "title": "UIC Evolutionary Phases",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/UIC Evolutionary Phases.md",
+    "aliases": [
+      "产学合作演化阶段",
+      "UIC evolution phases",
+      "UIC 四阶段模型"
+    ]
+  },
+  {
     "title": "Values Alignment Model",
     "type": "theory",
     "path": "wiki/theories/higher-education/Values Alignment Model.md",
@@ -11676,6 +11686,11 @@
     "title": "Argument_Cohen_2025_JTT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Cohen_2025_JTT.md"
+  },
+  {
+    "title": "Argument_ODwyer_Filieri_OMalley_2023_JTT",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_ODwyer_Filieri_OMalley_2023_JTT.md"
   },
   {
     "title": "Argument_Ball_2008_SR",
