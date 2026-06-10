@@ -15,12 +15,10 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Doxa]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Didaktik]]"
-  - "[[Recommendations for Practice]]"
-  - "[[Whole Language]]"
+  - "[[Bildung]]"
+  - "[[Cult of the Guru]]"
+  - "[[Neo-Taylorism]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -31,20 +29,19 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
   - "[[Constructivist Paradigm]]"
   - "[[Technical Rationality]]"
-  - "[[Bildung]]"
-  - "[[Learnification]]"
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Neuroplasticity]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
+  - "[[Doxa]]"
+  - "[[Evidence-Based Education]]"
   - "[[Reflexivity]]"
-  - "[[Neo-Taylorism]]"
-  - "[[Cult of the Guru]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
   - "[[Scientism]]"
@@ -84,19 +81,20 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Nielsen_2021_NordPsych]]"
-  - "[[Argument_Snook_2009]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Rømer_2018]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Grace_2010_NZJES]]"
+  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Allerup_2015_Paideia]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Hansen_2015_Paideia]]"
@@ -104,8 +102,6 @@ related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Blass_2020_JESP]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: medium
 status: draft
@@ -117,16 +113,26 @@ updated: 2026-05-21
 
 ## 定义
 
-> [!def] Critiques of Visible Learning
+> [!def] Critiques of [[Visible Learning]]
 > Critiques of [[Visible Learning]] 指围绕 [[John Hattie]] 的 [[Visible Learning]] 所形成的批评谱系。它不只是质疑某一个[[Effect Size|效应量]]或某一项排名，而是从统计方法、教育理论、教育哲学、可见性政治、教师专业性、政策使用和商业化网络等多个层面，追问 VL 如何把”学习影响”变成可排序、可管理、可推广的证据对象。
 >
 > 为减少重复，本条目集中呈现批评文献；VL 本身的定义、核心要素、发展脉络和学校改进语境见 [[Visible Learning]]。
+
+## 批评谱系
+
+> [!frames-ref] 六条批评线索
+> 1. **方法论批评** — [[Effect Size|效应量]]阈值武断、二级[[Meta-analysis|元分析]]统计缺陷、研究质量未筛选；批评贯穿整个时期，[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 最系统
+> 2. **[[Didaktik|教学理论]]批评** — [[Visible Learning|VL]] 的教学概念空洞、教育乐观主义；[[Argument_Terhart_2011_JCS|Terhart (2011)]]
+> 3. **教育哲学批判** — [[Appraisal Theory|评价理论]]替代教育目的、[[Bildung]] 被遮蔽、学习变为可测对象；[[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]]
+> 4. **文化政治批评** — Foucault 视角、可见性作为支配形式、知识/权力再生产；[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]
+> 5. **[[Cult of the Guru|大师崇拜]]与 [[Neo-Taylorism]]** — 制度权力集中、教师自主性被压缩、教育还原为管理技术；[[Argument_Eacott_2017_SLM|Eacott (2017)]]
+> 6. **政策与制度批评** — 政策外推正当性、非学校因素排除、商业化网络；[[Argument_Grace_2010_NZJES|Grace (2010)]]、[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]
 
 ## 方法论批评
 
 ### [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 最早的系统性批判
 
-Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 VL 出版同年发表了该著作最早的学术批判之一。他们以 Massey University 教育哲学和研究方法论团队的立场，对 VL 提出了五大核心批评([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.93–105]])：
+Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] 出版同年发表了该著作最早的学术批判之一。他们以 Massey University 教育哲学和研究方法论团队的立场，对 VL 提出了五大核心批评([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.93–105]])：
 
 **（1）研究质量未被评估**：Hattie 声称"不是一本关于研究批评的书"，但任何未排除低质量研究的[[Meta-analysis|元分析]]都是误导性的——"垃圾进垃圾出"（Eysenk）（p.94–95）。Hattie 在处理 charter schools 和 learning styles 时选择性排除低质量研究，暴露了其标准的不一致（p.95）。
 
@@ -567,13 +573,13 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 ### 教育乐观主义与浪漫化的教师理想
 
-[[Argument_Terhart_2011_JCS|Terhart (2011, p.434-435)]]注意到 VL 中一种奇特的风格混合：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"——"确实有时非常困难和无聊地逐一浏览 138 个因素"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学和——最重要的——关于一个好的和有效的教师工作特征的段落"。
+[[Argument_Terhart_2011_JCS|Terhart (2011, p.434-435)]]注意到 [[Visible Learning|VL]] 中一种奇特的风格混合：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"——"确实有时非常困难和无聊地逐一浏览 138 个因素"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学和——最重要的——关于一个好的和有效的教师工作特征的段落"。
 
 这种"压倒性的、旺盛的乐观主义"和"对通过好的教学实现成功学习的可达成性的深深的（美国的？新西兰的？——还是仅仅是教育学的？）信念"让读者"看着数据中常常相当怀疑和悲观的意涵，有点困惑"（p.435）。Terhart 将此诊断为"以更心理学的方式建立的、对通过正确的、好的教学实现无限学习促进的信念"——一种现代版的浪漫化"天生教师"理想，只是这次建立在"科学证据和高涨的教育精神"之上（p.435）。
 
 ## 教育哲学批判
 
-[[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 和 Nielsen & Klitmøller (2021) 三位丹麦学者从不同角度提供了 VL 的教育哲学批判，三者构成递进关系：VL 的基本理论是什么？→ VL 能看到什么、不能看到什么？→ 为什么有严重缺陷的 VL 仍然主导政策？
+[[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 和 Nielsen & Klitmøller (2021) 三位丹麦学者从不同角度提供了 [[Visible Learning|VL]] 的教育哲学批判，三者构成递进关系：VL 的基本理论是什么？→ VL 能看到什么、不能看到什么？→ 为什么有严重缺陷的 VL 仍然主导政策？
 
 ### 评价理论取代教育([[Argument_Rømer_2018_EPT|Rømer, 2018]])
 
@@ -586,7 +592,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 **四个子论证**：
 
 1. **评价支配了教育过程**：VL 的教育目标是学习者成为"自我监控、自我评价、自我评估、自我学习"——评价不是教育之后的事，教育直接被定义为评价本身([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2]])
-2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、Bildung、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2-3]])
+2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、[[Bildung]]、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2-3]])
 3. **"Know thy impact" 作为评价座右铭**：教师成为"自身效果的学徒"，教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3]])
 4. **元评价的全球形式**：Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3]])
 
@@ -599,7 +605,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018, p.5-6)]] 指出 Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但未讨论它们之间的概念关系或如何对应实证分析中的操作化。作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，"学业成就"究竟测量的是哪个层次——无人知晓。这导致从教育研究的角度看，理论和实证数据之间没有系统性关系。
 
-Rømer 将此诊断为"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]的系统，但因变量和自变量相互循环定义，与研究对象本身没有任何接触。代价是高效度牺牲换取了高信度([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6]])。
+Rømer 将此诊断为"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]的系统，但因[[Variable|变量]]和自变量相互循环定义，与研究对象本身没有任何接触。代价是高效度牺牲换取了高信度([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6]])。
 
 丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 Popper）重建因变量([[Argument_Rømer_2018_EPT|Rømer, 2018, p.5-6]])。
 
@@ -673,7 +679,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 作者指出 Hattie 自己明确表示**数据不是重点，理论综合才是**。Hattie 承认："I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259, cited in Nielsen & Klitmøller, 2021, p. 80]])。但 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，却对 VL 施加了巨大影响。
 
-作者论证这个"无意识理论"的内核是 技术理性（Technical Rationality）（Schön, 1983, 1987）。技术理性是**实证主义的遗产**（Nielsen & Klitmøller, 2021, pp. 81-82）：
+作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**实证主义的遗产**（Nielsen & Klitmøller, 2021, pp. 81-82）：
 
 > "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."（Schön, 1983, p. 31, cited in Nielsen & Klitmøller, 2021, p. 82）
 
@@ -858,7 +864,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 ## "大师崇拜"与 Neo-Taylorism 批评（Eacott, 2017a, 2019）
 
-Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 VL 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
+Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 [[Visible Learning|VL]] 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
 
 **核心论证**：Hattie 的 VL 是"新时代的泰勒主义"（Taylorism for a new time）([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。其与 Taylor（1911）科学管理的结构同源性体现在：
 - Taylor 追求消除"soldiering"（磨洋工），Hattie 追求消除"coasting"（得过且过）
@@ -877,7 +883,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发
 
 ## 政策与制度争议
 
-VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；[[Argument_Terhart_2011_JCS|Terhart (2011)]] 记录了 VL 在新西兰政策语境中的早期争议；[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 和 [[Argument_Blass_2020_JESP|Blass (2020)]] 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
+[[Visible Learning|VL]] 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；[[Argument_Terhart_2011_JCS|Terhart (2011)]] 记录了 VL 在新西兰政策语境中的早期争议；[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 和 [[Argument_Blass_2020_JESP|Blass (2020)]] 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
 
 ### [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 四角度系统批判：方法论、新泰勒主义、新自由主义、Cargo Cult Science
 
@@ -918,7 +924,7 @@ Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于
 
 ## 非学校因素的排除：[[Argument_Grace_2010_NZJES|Grace (2010)]] 的批评
 
-[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者——在回应 Hattie (2010) 时指出，VL 刻意将非学校因素排除在分析范围之外，这与其声称的"critic and conscience of society"角色存在根本矛盾([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Hattie 在 VL 前言中明确表示："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
+[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的"critic and conscience of society"角色存在根本矛盾([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Hattie 在 VL 前言中明确表示："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
 
 Grace 的核心论点是：这种排除产生了一个"还原主义和天真的观点"——认为仅靠改变教育安排就能解决教育成就不平等——这使政治家和政策制定者得以回避更根本的社会和经济不平等问题([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash（2003）的工作为对照，说明真正的教育学术批评应当将非学校因素置于分析的核心([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
 
@@ -926,7 +932,7 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 
 > [!abstract] 共同结论
 > 尽管批评者的方法和立场差异很大，但大致收束到几条共同判断：
-> - VL 不能被当作无中介、无争议的“科学结论”。
+> - [[Visible Learning|VL]] 不能被当作无中介、无争议的“科学结论”。
 > - 把教育压缩成单一影响值，会系统性抹平情境、内容和意义。
 > - VL 的流行不能只用经验质量解释，还必须结合政策、治理和合法化需求来理解。
 > - 如果继续使用 VL，也需要通过 [[Professional Judgment]]、更清晰的学习理论和更强的情境化解释来限制其扩张。
@@ -934,7 +940,7 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Visible Learning Branding and Global Influences]] — 承接 VL 在品牌化、顾问市场、工具链和制度传播上的具体案例。
+> - [[Visible Learning Branding and Global Influences]] — 承接 [[Visible Learning|VL]] 在品牌化、顾问市场、工具链和制度传播上的具体案例。
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 展示 VL 式证据如何被财政和政策逻辑选择性使用。
 > - [[EEF Teaching and Learning Toolkit]] — 作为与 VL 共享“排名式证据地图”逻辑的平行案例，方便比较相似的批评为何反复出现。
 > - [[Danish Public School Reform]] — 展示 VL 进入国家改革后如何迅速引发支持与反弹。
@@ -951,13 +957,13 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 
 ## VL 支持者的辩护：[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 的三重论证
 
-[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]以 VL 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
+[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]以 [[Visible Learning|VL]] 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 
 **论证一：批评者形成了意识形态驱动的解释社群，而非进行学术反驳。** Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评文献，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-4]])。
 
 **论证二：定量与定性方法的对立源于混淆认识论与本体论。** Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证认识论维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。这一论证直接回应了批评者对 VL 定量方法论的根本质疑。
 
-**论证三：专业判断是教学与学习之间的"缺失环节"。** Qvortrup 的核心理论贡献是提出 VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6-7]])。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p.247）。
+**论证三：[[Professional Judgment|专业判断]]是教学与学习之间的"缺失环节"。** Qvortrup 的核心理论贡献是提出 VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6-7]])。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p.247）。
 
 **Qvortrup 辩护的局限**：批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作实践中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
 

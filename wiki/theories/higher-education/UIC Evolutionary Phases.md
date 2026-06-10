@@ -21,7 +21,8 @@ related_theories:
   - "[[Evolutionary Economics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Synthesis and Solid State Pharmaceutical Centre]]"
 related_arguments:
   - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
 confidence: medium
@@ -36,7 +37,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!abstract]
-> O'Dwyer、Filieri 和 O'Malley（2023）基于对爱尔兰合成与固态制药中心（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度案例研究——涉及 10 家跨国制药企业和 8 所学术机构——提出了[[University-Industry Collaboration|产学合作]]网络演化的四阶段模型。核心主张是：产学合作的障碍和促进因素**并非静态存在，而是随时间演化**——在合作的不同阶段出现、转变或被克服[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(O'Dwyer et al., 2023)]]。
+> O'Dwyer、Filieri 和 O'Malley（2023）基于对[[Synthesis and Solid State Pharmaceutical Centre|爱尔兰合成与固态制药中心]]（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度案例研究——涉及 10 家跨国制药企业和 8 所学术机构——提出了[[University-Industry Collaboration|产学合作]]网络演化的四阶段模型。核心主张是：产学合作的障碍和促进因素**并非静态存在，而是随时间演化**——在合作的不同阶段出现、转变或被克服[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(O'Dwyer et al., 2023)]]。
 
 该模型直接回应的理论缺口是：已有研究虽然识别了产学合作的各种障碍和促进因素，但都是横截面分析——"对障碍和促进因素的分析局限于单一[[Theoretical Perspective|理论视角]]"，没有捕捉到合作关系发展过程中这些因素的动态演化（pp.902-903）。四阶段模型将时间维度引入障碍分析，使政策制定者和实践者能够**在正确的时间采取正确的干预措施**。
 
@@ -51,7 +52,7 @@ updated: 2026-06-10
 > [!line-a] 产业-产业界面
 > **障碍**：强不信任、强知识泄露恐惧（核心能力）、不愿与竞争对手合作。
 > **促进因素**：政府资助的可能性、先前合作经验、机会识别、知识互补性。
-> **关键机制**：产业伙伴之间的先前合作经验是胚胎期最关键的促进因素——SSPC 案例中，多数产业伙伴在参与前已通过爱尔兰商业与雇主联合会的研发小组（IBEC R&D group）建立了熟悉度和信任基础。
+> **关键机制**：产业伙伴之间的先前合作经验是胚胎期最关键的促进因素——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 案例中，多数产业伙伴在参与前已通过爱尔兰商业与雇主联合会的研发小组（IBEC R&D group）建立了熟悉度和信任基础。
 
 > [!line-a] 产业-大学界面
 > **障碍**：中度不信任、强知识泄露恐惧、怀疑态度。
