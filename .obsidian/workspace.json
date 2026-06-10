@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-argument.md",
+                "file": "wiki/arguments/journal-articles/Economia Politica/Argument_Bogliacino_Pianta_2016_EP.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-argument"
+              "title": "Argument_Bogliacino_Pianta_2016_EP"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/templates/template-argument.md",
     "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
     "wiki/facts/europe/Sectoral Innovation Database.md",
     "wiki/facts/europe/Community Innovation Survey.md",
@@ -222,7 +223,6 @@
     "wiki/templates/template-concept.md",
     "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md",
     "wiki/concepts/higher-education/Technology Transfer.md",
-    "wiki/facts/uk/Research Excellence Framework.md",
     "bases",
     "wiki/facts/europe",
     "wiki/arguments/reports-policy-documents/Argument_OxfordUIDP_2019_UIPartnerships.md.tmp.76091.9c6f2cced3af",
