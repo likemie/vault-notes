@@ -1521,22 +1521,32 @@
 
 .callout[data-callout="timeline"] ul ul > li:first-child {
   padding: 0.4rem 0.6rem;
-  border-left: 3px solid rgb(180, 45, 35);
-  background: rgba(192, 57, 43, 0.10);
+  border: 1px solid rgba(192, 57, 43, 0.30);
+  border-left: 4px solid rgb(185, 45, 35);
+  background: rgba(200, 60, 45, 0.14);
   border-radius: 6px;
   font-size: 0.88em;
   line-height: 1.55;
   margin: 0;
 }
 
+.callout[data-callout="timeline"] ul ul > li:first-child > strong:first-child {
+  color: rgb(180, 40, 30);
+}
+
 .callout[data-callout="timeline"] ul ul > li:last-child {
   padding: 0.4rem 0.6rem;
-  border-left: 3px solid rgb(30, 150, 80);
-  background: rgba(39, 174, 96, 0.10);
+  border: 1px solid rgba(39, 174, 96, 0.30);
+  border-left: 4px solid rgb(25, 145, 80);
+  background: rgba(40, 175, 100, 0.14);
   border-radius: 6px;
   font-size: 0.88em;
   line-height: 1.55;
   margin: 0;
+}
+
+.callout[data-callout="timeline"] ul ul > li:last-child > strong:first-child {
+  color: rgb(20, 135, 70);
 }
 
 @media (max-width: 640px) {
