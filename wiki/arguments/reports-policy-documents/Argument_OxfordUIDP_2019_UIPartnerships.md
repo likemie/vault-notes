@@ -31,6 +31,7 @@ related_concepts:
   - "[[Fourth Industrial Revolution]]"
   - "[[Logic Model]]"
   - "[[Partnership Continuum]]"
+  - "[[Knowledge Transfer]]"
   - "[[University Spin-Out]]"
   - "[[Research Question]]"
   - "[[Research and Technology Organisation]]"
@@ -288,13 +289,11 @@ updated: 2026-06-10
 
 > [!info] 各国系统层面数据收集
 > 多个国家正在加强大学-产业互动的系统层面数据：
-> | 国家/地区 | 数据集 |
-> |----------|--------|
-> | 英国 | 高等教育商业与社区互动调查（HEBCI） |
-> | 美国 | 大学技术管理者协会 STATT 数据库 |
-> | 爱尔兰 | [[Knowledge Transfer\|知识转移]]调查（KTI AKTS） |
-> | 欧洲 | ASTP 知识转移活动调查 |
-> | 澳大利亚 | 国家研究商业化调查 |
+> - **英国**：高等教育商业与社区互动调查（HEBCI）
+> - **美国**：大学技术管理者协会 STATT 数据库
+> - **爱尔兰**：[[Knowledge Transfer|知识转移]]调查（KTI AKTS）
+> - **欧洲**：ASTP 知识转移活动调查
+> - **澳大利亚**：国家研究商业化调查
 
 这些数据集在技术转移和产学互动活动方面提供大学层面的数据，但覆盖范围各不相同（pp.25–26）。
 
