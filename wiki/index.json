@@ -9251,12 +9251,30 @@
     ]
   },
   {
+    "title": "Community Innovation Survey",
+    "type": "fact",
+    "path": "wiki/facts/europe/Community Innovation Survey.md",
+    "aliases": [
+      "CIS",
+      "欧洲社区创新调查"
+    ]
+  },
+  {
     "title": "League of European Research Universities",
     "type": "fact",
     "path": "wiki/facts/europe/League of European Research Universities.md",
     "aliases": [
       "LERU",
       "欧洲研究型大学联盟"
+    ]
+  },
+  {
+    "title": "Sectoral Innovation Database",
+    "type": "fact",
+    "path": "wiki/facts/europe/Sectoral Innovation Database.md",
+    "aliases": [
+      "SID",
+      "部门创新数据库"
     ]
   },
   {
