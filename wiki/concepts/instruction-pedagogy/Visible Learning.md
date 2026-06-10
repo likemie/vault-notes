@@ -202,23 +202,28 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 
 ### 教与学的可见性
 
-教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]])。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]])。
+> [!finding-cards] 核心命题
+> - **通过学生眼睛看课堂**：教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
+> - **教师话语的盲点**：Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言转录并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
 
 ### "Know thy impact"
 
-Hattie 的核心口号，要求教师以可见证据评估自身教学对学生成绩的影响（Hattie, Masters, & Birch, 2016, p.3，引自 McKnight & Whitburn, 2020, p.40）。
+> [!abstract] Know thy impact
+> Hattie 的核心口号，要求教师以可见证据评估自身教学对学生成绩的影响（Hattie, Masters & Birch, 2016, p.3，引自 McKnight & Whitburn, 2020, p.40）。核心问题不是"用哪种方法"，而是"我的教学对学生产生了什么影响、幅度是否足够大、是否覆盖了足够多的学生"。
 
 ---
 
-> [!abstract] 教学：教师判断 / DIE / 思维框架 / 反馈文化
+> [!abstract] 教学：学习意图 / 教师判断 / DIE / 思维框架 / 反馈文化
+
+### 学习意图与成功标准
+
+> [!abstract] 成功标准优先于学习意图（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]；[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.256–257]]）
+> 教师须在每节课开始时将有限且可测量的学习目标写在白板上。Hattie 在访谈中承认学习意图常被误用——过于原子化和低水平——表示如果重新来过"可能只使用成功标准（success criteria）概念"。成功标准在系列课程开始时向学生展示"什么意味着成功"，建议以 10–12 周为一个周期；少于此时段则过于狭窄或导致过度测试。
 
 ### 作为评价性专业判断而非方法清单
 
-Hattie (2015) 对 VL 的自我解释把重点从"选择排名最高的教学法"转回教师和学校的评价性[[Professional Judgment|专业判断]]。核心问题不是"哪一种方法排名最高"，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生（Hattie, 2015, pp.11-13, 19）。
-
-这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要追问提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
-
-一个学校若只是把"高效应量策略"列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是"Know thy impact"的实践含义（Hattie, 2015, pp.12-13）。
+> [!abstract] 评价性专业判断（Hattie, 2015, pp.11–14）
+> Hattie 对 VL 的自我解释把重点从"选择排名最高的教学法"转回教师和学校的评价性[[Professional Judgment|专业判断]]。核心问题不是"哪一种方法排名最高"，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生。教师不是数据录入员，而是证据解释者——一个班测验成绩提高并不自动说明教学成功，还要追问提高的是表层记忆还是深层理解、哪些学生没有受益、反馈是否真正帮助学生知道下一步怎么改。更符合这一逻辑的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预——这种循环才是"Know thy impact"的实践含义。
 
 ### DIE 模型
 
@@ -234,23 +239,27 @@ Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成�
 
 ### 八项教师思维框架（Mind Frames）
 
-> [!finding-cards] 思维框架一至四
-> 1. **Know thy impact**（知晓影响力）— 核心问题："我今天如何知道我的影响？"包括影响的含义、幅度与覆盖学生比例
-> 2. **I am a change agent**（变革推动者）— 教师视自己为积极改变学生学习轨迹的推动者
-> 3. **Inform students of successful impact from the outset**（明确成功标准）— 在课程开始明确告知学生成功意味着什么
-> 4. **Assessment as feedback on my impact**（评估即反馈）— 将评估视为了解自身影响力的反馈机制，而非学生排名工具
+> [!abstract] 框架的逻辑
+> 八项框架不是行为清单，而是对教师心理定向的系统描述：前四项着重于教师如何定位自身角色与影响力，后四项着重于如何通过对话、协作和高要求建立课堂与学校文化（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]]）。
 
-> [!finding-cards] 思维框架五至八
-> 5. **Work with others to develop conceptions of progress**（共同建立进步概念）— 与同事合作建立关于学生进步的共识标准
-> 6. **Dialogue not monologue**（对话而非独白）— 课堂以双向对话为主，而非教师单向讲授
-> 7. **Strive for challenge, not "doing your best"**（挑战而非"尽力"）— 设置明确高要求，而非接受模糊的努力目标
-> 8. **Language of learning; errors as opportunities**（学习语言与错误观）— 以成长框架而非表现评判看待课堂，将错误视为学习机会
+> [!finding-cards] 教师的角色定位（框架 1–4）
+> 1. **Know thy impact（知晓影响力）** — 每日追问"我今天的教学产生了什么影响、幅度如何、覆盖了哪些学生"。这是整个框架的认识论核心，其余七项均以此为前提。
+> 2. **I am a change agent（变革推动者）** — 教师定位为主动改变学生学习轨迹的推动者，而非被动传递课程内容的容器——背后的假设是学生的学习轨迹是可以改变的。
+> 3. **Inform students of successful impact from the outset（明确成功标准）** — 课程开始时向学生透明地说明"成功意味着什么"，将目标从隐性变为显性，减少学生的不确定性焦虑。
+> 4. **Assessment as feedback on my impact（评估即对我的反馈）** — 评估结果首先是教师了解自身影响力的数据，而非对学生排名的工具——这一框架要求教师把低分视为教学信号而非学生问题。
+
+> [!finding-cards] 课堂与学校文化（框架 5–8）
+> 5. **Work with others to develop conceptions of progress（协作建立进步概念）** — 与同事共同校准对"学生进步"的理解，而非各自为政——单人判断的参照系过窄，容易固化偏见。
+> 6. **Dialogue not monologue（对话而非独白）** — 课堂以双向对话为主；研究显示教师话语实际占 70–80% 时间，而教师自认为仅 20–30%——这一认知盲点是此框架的直接起点。
+> 7. **Strive for challenge, not "doing your best"（挑战而非模糊努力）** — 模糊的"尽力而为"无法产生明确的努力方向；有效的挑战需要明确的高要求与成功标准配合。
+> 8. **Language of learning; errors as opportunities（学习语言与错误观）** — 将课堂错误纳入成长叙事而非表现评判，将错误视为诊断学习的信息来源，而非需要压制的失败。
 >
 > ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]])
 
 ### 反馈文化
 
-[[Argument_Fredens_2015_Paideia|Fredens (2015, p.74)]] 将 Hattie & Yates（2014）的核心信息概括为一项文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈不仅是教学技术，更应成为学校文化工具——促进学校文化发展和专业合作。这与 Hattie 后期强调的"安全、信任的学校文化"一致，但 Fredens 进一步指出实现这一目标需要教师与研究之间的伙伴关系（partnerskab mellem lærer og forskning），而非单向的知识传递([[Argument_Fredens_2015_Paideia|Fredens, 2015, p.75]])。
+> [!abstract] 使学校成为反馈文化（[[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.74–75]]）
+> [[Argument_Fredens_2015_Paideia|Fredens (2015, p.74)]] 将 Hattie & Yates（2014）的核心信息概括为文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈不仅是教学技术，更应成为学校文化工具——促进文化发展和专业合作。这与 Hattie 后期强调的"安全、信任的学校文化"一致，但 Fredens 进一步指出实现这一目标需要教师与研究之间的伙伴关系（partnerskab mellem lærer og forskning），而非单向的知识传递。
 
 ---
 
@@ -259,10 +268,6 @@ Hattie (2015, p.81) 提出"教师是 DIE for"的首字母缩略词来描述成�
 ### 忠实实施（Fidelity）
 
 教师须严格按脚本执行，Hattie 称培训中"五人中仅一人通过"，因为"几乎每个教师都想讲自己的故事、轶事和课堂，我们不允许"（Hattie, in Knudsen, 2017, p.254）。
-
-### 学习意图与成功标准（Learning intentions & success criteria）
-
-教师须在每节课开始时将有限且可测量的学习目标写在白板上([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])。Hattie 在 Knudsen（2017, p.256）访谈中承认学习意图常被误用——过于原子化和低水平——表示如果重新来过"可能只使用成功标准（success criteria）概念"。成功标准在系列课程开始时向学生展示"什么意味着成功"，建议以 10–12 周为一个周期；少于此时段则过于狭窄或导致过度测试([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.256–257]])。
 
 ### VL 的"第三面"——自下而上的学校实践变革
 
