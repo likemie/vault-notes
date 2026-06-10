@@ -17,24 +17,26 @@ tags:
 - neuroscience
 - learning-science
 related_concepts:
-  - "[[Research Question]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
-  - "[[Literature Review]]"
-  - "[[Updating and Monitoring]]"
   - "[[Synaptogenesis]]"
-  - "[[Synaptic Pruning]]"
   - "[[Myelination]]"
-  - "[[Causality]]"
+  - "[[Working Memory]]"
+  - "[[Cognitive Shifting]]"
+  - "[[Cognitive Inhibition]]"
+  - "[[Attentional Inertia]]"
+  - "[[Synaptic Pruning]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Neo-Piagetian Theories]]"
-  - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"
 related_persons:
   - "[[Jean Piaget]]"
+  - "[[Robbie Case]]"
+  - "[[Kurt Fischer]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -61,8 +63,8 @@ citation_aliases:
 > 其核心追问在于：经典发展心理学所观察到的“认知发展阶段过渡”这一质变过程，其底层的物理与生理机制是什么？是否能将认知阶段的过渡解释为执行功能 (Executive Function, EF) 随着大脑成熟发育而提高的函数？（pp.3–4）
 
 > [!stat-cards]+ 一页读懂
-> - **对象**：0–16岁儿童的认知发展阶段与脑神经发育 (前额叶皮层解剖生理、突触发生与修剪及髓鞘化) 以及执行功能 (抑制、转换、更新)。
-> - **工具**：将传统经验观察的认知阶段，与硬核脑成像数据 (功能性磁共振成像 [[Functional Magnetic Resonance Imaging|fMRI]]、脑电图 [[Electroencephalography|EEG]]、近红外光谱 NIRS、正电子发射断层扫描 PET) 及脑解剖数据进行横向对齐。
+> - **对象**：0–16岁儿童的认知发展阶段与脑神经发育 (前额叶皮层解剖生理、[[Synaptogenesis|突触发生]]与修剪及[[Myelination|髓鞘化]]) 以及执行功能 (抑制、转换、更新)。
+> - **工具**：将传统经验观察的认知阶段，与硬核脑成像数据 ([[Functional Magnetic Resonance Imaging|功能性磁共振成像]] [[Functional Magnetic Resonance Imaging|fMRI]]、[[Electroencephalography|脑电图]] [[Electroencephalography|EEG]]、近红外光谱 NIRS、正电子发射断层扫描 PET) 及脑解剖数据进行横向对齐。
 > - **张力**：心理学对阶段过渡物理层机制解释力的匮乏，同大脑生理学对高阶认知控制缺乏宏观阶段性发展视野之间的张力。
 > - **结论**：皮亚杰认知发展阶段与 PFC 的解剖生理发育及 EF 发展轨迹存在高度时间平行性；认知发展阶段过渡是执行功能随脑成熟发育而发展的函数（p.1, p.13）。
 
@@ -85,7 +87,7 @@ citation_aliases:
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **研究方法**<br>文献综述 (Literature Review) | 文献综述 (Literature Review)。对跨越发展心理学、认知神经科学和教育科学的多领域文献进行多学科整合分析（p.2）。 |
-> | **脑发育数据来源**<br>神经生物学证据 (Neurobiological Evidence) | 整合分析已发表的尸检脑解剖数据 (突触连结与细胞生长) 及各年龄段儿童的[[electroencephalography\|脑电图 (Electroencephalography, EEG)]]、[[Functional Magnetic Resonance Imaging\|功能性磁共振成像 (Functional Magnetic Resonance Imaging, fMRI)]]、正电子发射断层扫描 (Positron Emission Tomography, PET)、和近红外光谱 (Near-infrared Spectroscopy, NIRS) 扫描数据（p.2, pp.9–13）。 |
+> | **脑发育数据来源**<br>神经生物学证据 (Neurobiological Evidence) | 整合分析已发表的尸检脑解剖数据 (突触连结与细胞生长) 及各年龄段儿童的[[Electroencephalography\|脑电图 (Electroencephalography, EEG)]]、[[Functional Magnetic Resonance Imaging\|功能性磁共振成像 (Functional Magnetic Resonance Imaging, fMRI)]]、正电子发射断层扫描 (Positron Emission Tomography, PET)、和近红外光谱 (Near-infrared Spectroscopy, NIRS) 扫描数据（p.2, pp.9–13）。 |
 > | **执行功能行为任务**<br>执行功能任务 (Executive Function Tasks) | 汇总分析维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS)、Stroop式日夜任务 (Stroop-like Day-Night Task)、Go/No-Go任务 (Go/No-Go Task)、A非B任务 (A-not-B Task)、数字广度任务 (Digit Span Task)、威斯康星卡片分类任务 (Wisconsin Card Sorting Test, WCST) 等行为学范式（pp.9–15）。 |
 > | **认知发展测试**<br>皮亚杰测试任务 (Piagetian Tasks) | 锚定经典守恒任务 (如液体守恒任务 [[Piaget's Theory of Cognitive Development\|Liquid Conservation Task]]、类包含任务 [[Piaget's Theory of Cognitive Development\|Class Inclusion Task]]) 和新皮亚杰平衡木测试 (Balancing Beam Test) 的心理学数据（pp.2–4）。 |
 
@@ -117,19 +119,19 @@ citation_aliases:
 >     E -->|逻辑推论| F
 > ```
 
-> [!example]- 图1：脑发育、执行功能各成分发展与皮亚杰认知阶段的时间对齐关系对照图
+> [!example]- 图1：脑发育、[[Executive Function|执行功能]]各成分发展与[[Jean Piaget|皮亚杰]]认知阶段的时间对齐关系对照图
 > ![](https://img.mylikemie.icu/sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg)
 
 ### 步骤一：感觉运动阶段（0-2岁）——PFC早期连结与执行功能萌芽
 
-在婴儿期，认知表现为动作与思维的高度交织，自我中心主义主导。然而，在 0–2 岁期间，儿童开始发展出基本的客体永久性 (Object Permanence)，这直接对应于前额叶皮层 (Prefrontal Cortex, PFC) 的早期快速连结 and 执行功能 (Executive Function, EF) 微弱的萌芽（pp.2–3, p.9）。
+在婴儿期，认知表现为动作与思维的高度交织，自我中心主义主导。然而，在 0–2 岁期间，儿童开始发展出基本的客体永久性 (Object Permanence)，这直接对应于[[Prefrontal Cortex|前额叶皮层]] (Prefrontal Cortex, PFC) 的早期快速连结 and 执行功能 (Executive Function, EF) 微弱的萌芽（pp.2–3, p.9）。
 
 > [!line-a] 行为表征与实验案例
-> - **A非B任务 (A-not-B Task)**：在 7–12 个月之间，婴儿在完成经典的 A非B任务（物体被隐藏在A处，婴儿数次找到；随后当面将其隐藏在B处，婴儿依然去A处寻找）和客体检索任务 (Object Retrieval Task) 时表现出逐步改善。多通道脑电图 (Electroencephalography, EEG) 研究显示，在成功执行此类任务时 PFC 被显著激活（p.9）。若 PFC 区域受损，则无法完成这两个任务（p.9）。
-> - **注意力与 EF 预测**：注意力 (Attention) 在约 4–6 个月开始显现，被认为是后期 EF 表现（如抑制控制和工作记忆广度）的底层预测指标；12个月至4岁儿童的认知转换 (Cognitive Shifting) 表现高度依赖注意力控制（p.10）。
+> - **A非B任务 (A-not-B Task)**：在 7–12 个月之间，婴儿在完成经典的 A非B任务（物体被隐藏在A处，婴儿数次找到；随后当面将其隐藏在B处，婴儿依然去A处寻找）和客体检索任务 (Object Retrieval Task) 时表现出逐步改善。多通道[[Electroencephalography|脑电图]] (Electroencephalography, EEG) 研究显示，在成功执行此类任务时 PFC 被显著激活（p.9）。若 PFC 区域受损，则无法完成这两个任务（p.9）。
+> - **注意力与 EF 预测**：注意力 (Attention) 在约 4–6 个月开始显现，被认为是后期 EF 表现（如抑制控制和[[Working Memory|工作记忆]]广度）的底层预测指标；12个月至4岁儿童的[[Cognitive Shifting|认知转换]] (Cognitive Shifting) 表现高度依赖注意力控制（p.10）。
 
 > [!line-b] 脑发育生理机制
-> - **爆发性突触发生 (Synaptogenesis)**：7–12 个月期间，背外侧前额叶皮层 (Dorsolateral Prefrontal Cortex, dlPFC) 第 III 层锥体细胞 (Layer III Pyramidal Cells) 的树突突触连结迅速延伸并达到成人长度，该长度将维持到至少 27 岁（p.9）。
+> - **爆发性[[Synaptogenesis|突触发生]] (Synaptogenesis)**：7–12 个月期间，背外侧前额叶皮层 (Dorsolateral Prefrontal Cortex, dlPFC) 第 III 层锥体细胞 (Layer III Pyramidal Cells) 的树突突触连结迅速延伸并达到成人长度，该长度将维持到至少 27 岁（p.9）。
 > - **PFC 整体发育的延迟性**：尽管 dlPFC 锥体细胞连结生长迅速，但 PFC 整体树突连结到 2 岁时仅达到成人水平的一半，凸显了 PFC 发育的Protracted（延时）特征（p.9）。
 > - **神经元体积与神经化学变化**：7.5–12 个月间 PFC 神经元胞体增大。多巴胺和乙酰胆碱等神经递质在 PFC 相对其他脑区发生快速的化学重组（p.9）。至 12 个月时，PFC 的葡萄糖代谢 (Glucose Metabolism) 水平已达到成人水平，表明细胞代谢活动加剧，支撑了早期 EF 任务的执行（p.9）。
 
@@ -137,20 +139,20 @@ citation_aliases:
 
 ### 步骤二：前运算阶段（2-7岁）——PFC结构 Hinge Point 与执行功能爆发
 
-2–7 岁是从动作思维转向符号思维的关键期。新皮亚杰理论家将阶段转换点（例如[[Robbie Case\|凯斯 (Robbie Case)]]的关系阶段 (Inter-relational) 向维度阶段 (Dimensional) 转换，[[Kurt Fischer\|菲舍尔 (Kurt Fischer)]]的单一表征阶段 (Single Representations) 向表征映射阶段 (Representational Mapping) 转换）定位在 4–5 岁左右，这恰好与执行功能 (Executive Function, EF) 的第一个关键转折点 (Hinge Point) 和 PFC 脑结构的物理突变完全共振（p.10）。
+2–7 岁是从动作思维转向符号思维的关键期。[[Neo-Piagetian Theories|新皮亚杰理论]]家将阶段转换点（例如凯斯 ([[Robbie Case]])的关系阶段 (Inter-relational) 向维度阶段 (Dimensional) 转换，菲舍尔 ([[Kurt Fischer]])的单一表征阶段 (Single Representations) 向表征映射阶段 (Representational Mapping) 转换）定位在 4–5 岁左右，这恰好与执行功能 (Executive Function, EF) 的第一个关键转折点 (Hinge Point) 和 PFC 脑结构的物理突变完全共振（p.10）。
 
 > [!line-a] 行为表征与实验案例
 > - **EF 三成分的 Hinge Point**：3–5 岁是执行功能（抑制、转换、更新）经历显著改善的关键时期（p.10）。
 > - **抑制功能的跳跃（延迟满足与日夜任务）**：
 >   - *糖果延迟满足任务 (Treat Delay Task)*：卡尔森 (Carlson, 2005) 发现，2岁儿童仅 50% 能坚持等待 20 秒不吃糖；而 3 岁儿童则有 85% 能坚持等待 1 分钟（p.10）。
->   - *日夜任务 (Day-Night Task)*：要求看到月亮说“日”，看到太阳说“夜”。4岁是一个绝对的 Hinge Point，4岁以下儿童觉得极度困难，而 4岁以上儿童则能轻易完成，体现了主动压制优势反应的抑制控制 (Cognitive Inhibition) 能力的跳跃（p.10）。
-> - **认知转换的阻碍（DCCS 任务）**：维度变化卡片分类任务 (DCCS) 要求按颜色或形状分类卡片。3-4岁儿童在 切换前 (Pre-switch)（如按颜色）完美通关，但在 切换后 (Post-switch)（要求改按形状分类）时遇到极强的 [[Attentional Inertia\|注意力惯性 (Attentional Inertia)]] 而失败（p.11）。即使 3 岁儿童能流利说出新规则，手指却依然把卡片分类到旧维度下。这与额叶受损成人的“言行脱节”表现一致，直到 5 岁时多数儿童才能完成转换。
+>   - *日夜任务 (Day-Night Task)*：要求看到月亮说“日”，看到太阳说“夜”。4岁是一个绝对的 Hinge Point，4岁以下儿童觉得极度困难，而 4岁以上儿童则能轻易完成，体现了主动压制优势反应的抑制控制 ([[Cognitive Inhibition]]) 能力的跳跃（p.10）。
+> - **认知转换的阻碍（DCCS 任务）**：维度变化卡片分类任务 (DCCS) 要求按颜色或形状分类卡片。3-4岁儿童在 切换前 (Pre-switch)（如按颜色）完美通关，但在 切换后 (Post-switch)（要求改按形状分类）时遇到极强的 [[Attentional Inertia|注意力惯性]] (Attentional Inertia) 而失败（p.11）。即使 3 岁儿童能流利说出新规则，手指却依然把卡片分类到旧维度下。这与额叶受损成人的“言行脱节”表现一致，直到 5 岁时多数儿童才能完成转换。
 > - **更新功能的脑与行为变化**：有声书任务 (Noisy Book Task)（按动物声音按钮并重复序列）显示3-4岁更新能力记增。数字广度任务 (Digit Span Task) 在4-6岁显著增长（倒背从1.58个词增加到2.88个词）（pp.10-11）。
 
 > [!line-b] 脑发育生理机制
-> - **灰质峰值与突触修剪 (Synaptic Pruning)**：PFC 灰质密度在大约 3 岁时达到最大密度（p.12）。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结（p.12）。
-> - **髓鞘化 (Myelination) 与白质线性增长**：由于轴突髓鞘化开始，白质体积增加（p.12）。dlPFC 第 III 层锥体细胞的树突轴突在 2–5 岁间迅速扩张，电信号传导被显著加速（p.12）。
-> - **脑激活的右侧偏向 (NIRS/fMRI)**：Moriguchi & Hiraki (2013) 利用功能成像发现，5 岁儿童只有在完美通过 DCCS 任务时才会激活右下 PFC，而成人通常激活左下 PFC；若儿童出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力（p.11）。
+> - **灰质峰值与[[Synaptic Pruning|突触修剪]] (Synaptic Pruning)**：PFC 灰质密度在大约 3 岁时达到最大密度（p.12）。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结（p.12）。
+> - **[[Myelination|髓鞘化]] (Myelination) 与白质线性增长**：由于轴突髓鞘化开始，白质体积增加（p.12）。dlPFC 第 III 层锥体细胞的树突轴突在 2–5 岁间迅速扩张，电信号传导被显著加速（p.12）。
+> - **脑激活的右侧偏向 (NIRS/[[Functional Magnetic Resonance Imaging|fMRI]])**：Moriguchi & Hiraki (2013) 利用功能成像发现，5 岁儿童只有在完美通过 DCCS 任务时才会激活右下 PFC，而成人通常激活左下 PFC；若儿童出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力（p.11）。
 
 ---
 
@@ -190,9 +192,9 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **阶段划分的时间共振 (Hinge Point)**：皮亚杰认知发展四阶段的时间节点与 PFC 生理发育的三个 Hinge Point（0-2岁突触暴发、3-5岁灰质达峰及抑制与转换突破、11-12岁灰质体积逆U形顶点）完全吻合，说明心理阶段的划分具有神经底座的支持（pp.9-13）。
-> 2. **执行功能 (EF) 作为阶段过渡的机制变量**：经典四阶段过渡本质上是执行功能（特别是抑制、转换、更新）随大脑成熟发育的函数。抑制最早在3-5岁突破，转换在11岁左右，而更新则在15-16岁登顶（p.13, p.15）。
-> 3. **脑解剖与环路化 (Frontostriatal) 决定认知控制**：脑发育通过双向运作（Progressive-突触增殖与髓鞘化；Regressive-突触修剪与皮层变薄）优化网络。具体运算阶段依赖 frontostriatal 环路的建立，形式运算阶段则与 dlPFC 锥体细胞成熟及皮层选择性变薄紧密关联（p.13, p.15）。
+> 1. **阶段划分的时间共振 (Hinge Point)**：[[Jean Piaget|皮亚杰]]认知发展四阶段的时间节点与 [[Prefrontal Cortex|PFC]] 生理发育的三个 Hinge Point（0-2岁突触暴发、3-5岁灰质达峰及抑制与转换突破、11-12岁灰质体积逆U形顶点）完全吻合，说明心理阶段的划分具有神经底座的支持（pp.9-13）。
+> 2. **[[Executive Function|执行功能]] (EF) 作为阶段过渡的机制[[Variable|变量]]**：经典四阶段过渡本质上是执行功能（特别是抑制、转换、更新）随大脑成熟发育的函数。抑制最早在3-5岁突破，转换在11岁左右，而更新则在15-16岁登顶（p.13, p.15）。
+> 3. **脑解剖与环路化 (Frontostriatal) 决定认知控制**：脑发育通过双向运作（Progressive-突触增殖与[[Myelination|髓鞘化]]；Regressive-[[Synaptic Pruning|突触修剪]]与皮层变薄）优化网络。具体运算阶段依赖 frontostriatal 环路的建立，形式运算阶段则与 dlPFC 锥体细胞成熟及皮层选择性变薄紧密关联（p.13, p.15）。
 
 > [!stat-cards]- 核心数据
 > - **7–12个月**：PFC 发生剧烈的突触增殖，dlPFC layer III 锥体细胞树突长度达到成人长度（p.9）。
@@ -205,13 +207,13 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card] 认知阶段过渡是脑发育中 EF 发展的函数
+> [!citation-card] 认知阶段过渡是脑发育中 [[Executive Function|EF]] 发展的函数
 > 本文的主张是，这些变化是随着大脑发育，执行功能发展的一个函数。（pp.3–4）
 > 
 > Original: It is the claim of this article that the changes are a function of the development of executive functioning as the brain develops.
 
 > [!citation-card] Piaget与前额叶的对齐
-> 本综述表明，皮亚杰的发展理论可能与大脑解剖和生理发展的变化——特别是前额叶皮层及其相关连接的变化——紧密一致。（p.1）
+> 本综述表明，[[Jean Piaget|皮亚杰]]的发展理论可能与大脑解剖和生理发展的变化——特别是[[Prefrontal Cortex|前额叶皮层]]及其相关连接的变化——紧密一致。（p.1）
 > 
 > Original: This review suggests that Piagetian development theory may be closely aligned with changes in the anatomical and physiological development of the brain—in particular, the prefrontal cortex and its associated connections.
 
@@ -220,9 +222,9 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **心理学与神经影像学的年龄鸿沟**：大部分功能性磁共振成像 (fMRI) 和正电子发射断层扫描 (PET) 研究仅招募 7 岁以上的儿童，导致 7 岁以下（如感觉运动与前运算早期）脑区功能的实时影像学数据极为匮乏，尚待高密度脑电图 (EEG) 等技术进一步补充（p.9）。
-> - **认知执行功能界定的变动性与测量困境**：执行功能 (EF) 成分界定复杂，测量任务也高度混杂，不同任务形式的发展进程因特定知识素养要求而不同（pp.19–20）。
-> - **个体差异与外部环境干扰**：该模型仅描述普遍发展轨迹，未考虑巨大个体差异。例如双语环境能显著加速儿童 EF 发展，而低社会经济地位 (Low Socioeconomic Status, Low SES)、压力、药物或虐待则会导致 PFC 结构与 EF 表现缩水（pp.19–20）。
+> - **心理学与神经影像学的年龄鸿沟**：大部分[[Functional Magnetic Resonance Imaging|功能性磁共振成像]] (fMRI) 和正电子发射断层扫描 (PET) 研究仅招募 7 岁以上的儿童，导致 7 岁以下（如感觉运动与前运算早期）脑区功能的实时影像学数据极为匮乏，尚待高密度[[Electroencephalography|脑电图]] (EEG) 等技术进一步补充（p.9）。
+> - **认知[[Executive Function|执行功能]]界定的变动性与测量困境**：执行功能 (EF) 成分界定复杂，测量任务也高度混杂，不同任务形式的发展进程因特定知识素养要求而不同（pp.19–20）。
+> - **个体差异与外部环境干扰**：该模型仅描述普遍发展轨迹，未考虑巨大个体差异。例如双语环境能显著加速儿童 EF 发展，而低社会经济地位 (Low Socioeconomic Status, Low SES)、压力、药物或虐待则会导致 [[Prefrontal Cortex|PFC]] 结构与 EF 表现缩水（pp.19–20）。
 > - **教育干预与年龄推迟**：未探讨特定教育教学干预的影响。例如研究显示，由于学校过度强调浅表思维，学生进入形式运算阶段的平均年龄已推迟至约 15 岁，不能生硬死板地将特定认知能力与生理年龄挂钩（p.20）。
 
 ---
