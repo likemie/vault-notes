@@ -8,5 +8,6 @@
   "automatic-linker",
   "obsidian-linter",
   "floating-toc",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "mermaid-tools"
 ]

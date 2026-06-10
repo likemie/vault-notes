@@ -157,12 +157,29 @@
 }
 
 .callout[data-callout="logic-map"] .mermaid {
-  max-width: 720px;
-  margin: 0 auto;
+  overflow: auto;
+  max-height: 380px;
+  padding: 0.5rem 0;
+  cursor: default;
+  /* 双向滚动：Obsidian 和 Quartz 均有效 */
 }
 
 .callout[data-callout="logic-map"] .mermaid svg {
-  max-height: 260px;
+  min-width: 640px;
+  height: auto;
+  max-height: none;
+  display: block;
+  font-size: 15px;
+}
+
+/* Mermaid SVG 节点文字放大 */
+.callout[data-callout="logic-map"] .mermaid svg text,
+.callout[data-callout="logic-map"] .mermaid svg .label foreignObject div {
+  font-size: 14px !important;
+}
+
+.callout[data-callout="logic-map"] .mermaid svg .edgeLabel .label {
+  font-size: 12px !important;
 }
 
 /* ─── line-a（靛蓝点阵）+ line-b（玫红网格） ─────────── */
