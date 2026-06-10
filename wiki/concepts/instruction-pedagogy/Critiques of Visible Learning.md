@@ -27,14 +27,14 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Technical Rationality]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
+  - "[[Technical Rationality]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
   - "[[Doxa]]"
@@ -88,12 +88,12 @@ related_arguments:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Rømer_2018]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Hansen_2015_Paideia]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Eacott_2017_SLM]]"
@@ -138,6 +138,24 @@ updated: 2026-05-21
 ---
 
 ## 方法论批评
+
+> [!logic-map] 方法论批评结构：问题如何在各层级叠加
+> ```mermaid
+> flowchart TD
+>     PS["初级研究"] --> MA["元分析"]
+>     MA --> SMA["二级元分析"]
+>     SMA --> RANK["效应量排名"]
+> 
+>     P1["研究质量未筛选"] -. "Snook 2009" .-> PS
+>     P2["选择性纳入与先验偏见"] -. "O'Connor 2020" .-> PS
+>     P3["概念异质性：不同现象混入同一标签"] -. "Nielsen 2021" .-> MA
+>     P4["不加权平均"] -. "Wecker 2016" .-> MA
+>     P5["效应量公式混用"] -. "Bergeron 2017" .-> MA
+>     P6["固定效应模型假设违反"] -. "Wecker 2016" .-> SMA
+>     P7["研究样本重叠未处理"] -. "Wecker 2016" .-> SMA
+>     P8["d=0.40 阈值武断"] -. "Snook / Bergeron" .-> RANK
+>     P9["整体方差极度失控"] -. "Golovchin 2019" .-> RANK
+> ```
 
 ### [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 最早的系统性批判
 
@@ -535,19 +553,10 @@ O'Connor 引用了 Hattie 本人关于其方法论的关键陈述：
 
 O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）提出提供"对研究叙述性讨论的严谨替代方案"——直接矛盾([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])。
 
-#### Hattie 的先验立场
 
-[[Argument_OConnor_2020_AJLL|O'Connor (2020, pp.149-150)]]记录了 Hattie 在 VL 中表达的明确立场：
-- 对直接教学的热情支持，对"[[Jean-Jacques Rousseau|卢梭]]式方法"（Rousseian inspired methods, p.258）、"促进和探究方法"（facilitative and inquiry methods）、"[[Constructivist Paradigm|建构主义]]潮流"（constructivist fad, p.243）的明确敌意
-- 将教师分为"作为激活者的教师"（teacher as activator，基于直接教学）vs."作为促进者的教师"（teacher as facilitator，包括探究式教学、小班教学、问题式学习、全语言）
-- 明确排除校外因素："关于阶级、贫困、家庭资源、家庭健康和营养的批判性讨论未被纳入"（Hattie, 2009, p.viii，引自 O'Connor, 2020, p.150）
-- 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp.7-32，引自 O'Connor, 2020, p.150）
-
-### Nielsen & Klitmøller (2021, NordPsych) — 反馈元分析细读审查与"Hattie 是教育理论家"论证
+### Nielsen & Klitmøller (2021, NordPsych) — 反馈元分析：概念异质性审查
 
 Nielsen & Klitmøller（2021, NordPsych）在方法论批评中提出了一个此前被忽略的维度：**不追问 VL 的效应量或统计方法是否有问题（已知有问题），而是进入 Hattie 最核心的反馈效应（d=0.73，位居第 10），逐项审查其基础元分析是否在研究 Hattie 所声称的现象**。
-
-**论证一：Hattie 是教育理论家，而非纯统计学家。** Hattie 自称"我是统计学家，不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.259]])。Nielsen & Klitmøller 反驳：所有研究都基于理论假设——定义问题、选择方法、解释结果都需要理论框架。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的客观性假象。其隐含理论是[[Technical Rationality|技术理性]]（Schön, 1983）加上通过 Glaser 中介的行为主义传统（Nielsen & Klitmøller, 2021, p.2-3）。
 
 **论证二：Hattie 的反馈效应基础——5 项最重元分析的逐项审查。** Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），d=0.73。Nielsen & Klitmøller（2021, pp.9-12）对其最重的 5 项（62,761 人，92% 样本）进行了细读审查：
 
@@ -803,6 +812,16 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 
 此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 批判理论出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 
+
+### Hattie 的先验立场（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）
+
+[[Argument_OConnor_2020_AJLL|O'Connor (2020, pp.149-150)]]记录了 Hattie 在 VL 中表达的明确意识形态立场：
+- 对直接教学的热情支持，对"[[Jean-Jacques Rousseau|卢梭]]式方法"（Rousseian inspired methods, p.258）、"促进和探究方法"（facilitative and inquiry methods）、"[[Constructivist Paradigm|建构主义]]潮流"（constructivist fad, p.243）的明确敌意
+- 将教师分为"作为激活者的教师"（teacher as activator，基于直接教学）vs."作为促进者的教师"（teacher as facilitator，包括探究式教学、小班教学、问题式学习、全语言）
+- 明确排除校外因素："关于阶级、贫困、家庭资源、家庭健康和营养的批判性讨论未被纳入"（Hattie, 2009, p.viii，引自 O'Connor, 2020, p.150）
+- 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp.7-32，引自 O'Connor, 2020, p.150）
+
+O'Connor 的结论：这些先验立场直接决定了数据选择与效应量修正——全语言案例中唯一被 Hattie 通过选择性删除研究来修正效应量的操作，正是在与其明确立场相符的方向上进行的。
 
 ---
 

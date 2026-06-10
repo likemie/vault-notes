@@ -21,12 +21,14 @@ tags:
   - source/report
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Public Space (University Role)]]"
 related_theories:
-  - "[[Systems of Innovation]]"
   - "[[Lester's Typology of University Contributions to Local Industry]]"
+  - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Local Innovation Systems Project]]"
 related_arguments: []
 sources:
   - "[[Lester_2005_MIT]]"
@@ -41,7 +43,7 @@ updated: 2026-06-10
 ## 研究问题
 
 > [!question]
-> 大学如何通过贡献于本地产业创新过程来支持地方经济发展？本地经济的活力取决于本地企业能否通过持续引入商业化产品、服务和生产流程来适应不断变化的市场和技术。但并非所有地方经济都能同样成功地适应。Lester（2005）在 MIT 工业绩效中心（Industrial Performance Center）的 Local [[Systems of Innovation|innovation systems]] 项目第一阶段中，通过对 6 个国家 22 个地区的产业转型案例研究，提出了一个核心问题：**大学对本地经济的贡献方式是否取决于本地正在发生什么类型的产业转型？**
+> 大学如何通过贡献于本地产业创新过程来支持地方经济发展？本地经济的活力取决于本地企业能否通过持续引入商业化产品、服务和生产流程来适应不断变化的市场和技术。但并非所有地方经济都能同样成功地适应。Lester（2005）在 MIT 工业绩效中心（Industrial Performance Center）的 [[Local Innovation Systems Project]]（Local Innovation Systems Project）第一阶段中，通过对 6 个国家 22 个地区的产业转型案例研究，提出了一个核心问题：**大学对本地经济的贡献方式是否取决于本地正在发生什么类型的产业转型？**
 
 > [!stat-cards]+ 一页读懂
 > - **对象**：22 个地区，6 个国家（高技术区和欠发达区兼具，成熟产业和新兴产业兼具）
@@ -119,7 +121,7 @@ Lester 的核心发现：不同类型的地方经济需要不同类型大学贡�
 ### 论证步骤三：大学作为公共空间
 
 > [!success] 超越技术转移的间接贡献
-> Lester 特别强调了大学的"公共空间"（public space）角色——大学作为本地持续对话的场所，讨论技术、市场和产业未来的方向。这一角色往往被低估，但它对于本地[[Systems of Innovation|创新系统]]的凝聚、方向设定和信任建立至关重要。大学作为通常稳定、基本没有政治和产业议程的组织，可以充当中性空间，催化创新系统内不同行动者之间的互动。
+> Lester 特别强调了大学的[[Public Space (University Role)|公共空间]]（public space）角色，大学作为本地持续对话的场所，讨论技术、市场和产业未来的方向。这一角色往往被低估，但它对于本地[[Systems of Innovation|创新系统]]的凝聚、方向设定和信任建立至关重要。大学作为通常稳定、基本没有政治和产业议程的组织，可以充当中性空间，催化创新系统内不同行动者之间的互动。
 
 其他常被低估的间接贡献包括：吸引新的人才、知识和金融资源从外部进入本地；帮助将源自外部的知识适配到本地条件；帮助整合此前分离的技术活动领域；以及帮助解锁和重新导向已经存在于本地区但未被有效利用的知识。
 

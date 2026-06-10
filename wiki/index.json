@@ -2532,6 +2532,15 @@
     ]
   },
   {
+    "title": "Public Space (University Role)",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Public Space (University Role).md",
+    "aliases": [
+      "大学公共空间角色",
+      "public space role of university"
+    ]
+  },
+  {
     "title": "Public-Private Partnership in Research",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Public-Private Partnership in Research.md",
@@ -10539,6 +10548,15 @@
       "剑桥创新中心",
       "CIC",
       "Kendall Square CIC"
+    ]
+  },
+  {
+    "title": "Local Innovation Systems Project",
+    "type": "fact",
+    "path": "wiki/facts/us/Local Innovation Systems Project.md",
+    "aliases": [
+      "LIS Project",
+      "本地创新系统项目"
     ]
   },
   {
