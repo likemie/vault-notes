@@ -1088,6 +1088,75 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   SIDE COLUMNS — 左右分栏（用于 info / abstract 内嵌并列内容）
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── col-l / col-r — 自动左右分栏 ───────────────────── */
+/* 两个相邻时自动拼合为并排 2 列；嵌套在父 callout 内使用 */
+/* 用法：> > [!col-l] 标题\n> > 正文    > > [!col-r] 标题\n> > 正文 */
+
+.callout[data-callout="col-l"],
+.callout[data-callout="col-r"] {
+  --callout-color: 95, 121, 149;
+  --callout-icon: none;
+  display: inline-block;
+  width: calc(50% - 0.55rem);
+  vertical-align: top;
+  background: rgba(95, 121, 149, 0.05);
+  border: 1px solid rgba(95, 121, 149, 0.13);
+  border-radius: 8px;
+  padding: 0.45rem 0.8rem 0.4rem;
+  margin: 0.2rem 0 0.3rem;
+  box-shadow: none;
+  overflow: visible;
+}
+
+.callout[data-callout="col-l"] + .callout[data-callout="col-r"] {
+  margin-left: 1rem;
+}
+
+.callout[data-callout="col-l"] > .callout-title,
+.callout[data-callout="col-r"] > .callout-title {
+  font-size: 0.94em;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid rgba(95, 121, 149, 0.12);
+  margin-bottom: 0.35rem;
+  letter-spacing: 0.025em;
+  font-weight: 650;
+  color: rgb(95, 121, 149);
+}
+
+.callout[data-callout="col-l"] > .callout-content,
+.callout[data-callout="col-r"] > .callout-content {
+  line-height: 1.65;
+  font-size: 0.95em;
+}
+
+/* 当 col-l 和 col-r 不在父 callout 内，而是顶层时，保留间距 */
+.callout[data-callout="col-l"]:not(.callout .callout) {
+  margin-bottom: 0.5rem;
+}
+
+/* 移动端堆叠 */
+@media (max-width: 640px) {
+  .callout[data-callout="col-l"],
+  .callout[data-callout="col-r"] {
+    display: block;
+    width: 100%;
+  }
+  .callout[data-callout="col-l"] + .callout[data-callout="col-r"] {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}
+
+/* ─── 强制清除 inline-block 间隙 ───────────────────── */
+.callout-content:has(> .callout[data-callout="col-l"] + .callout[data-callout="col-r"]) {
+  word-spacing: 0;
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CONCEPT TIMELINE — 概念演变时间线
    用途：概念条目发展脉络，垂直时间轴可视化
    颜色：slate-indigo rgb(72, 95, 145)
