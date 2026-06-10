@@ -913,7 +913,7 @@
 .callout[data-callout="contrast-table"] th:nth-child(2) { color: #c0954a; }
 .callout[data-callout="contrast-table"] th:nth-child(3) { color: #bd788d; }
 
-/* ─── stat-cards（数据卡 — 横向刻度线） ─────────────── */
+/* ─── stat-cards（数据卡 — 横向刻度线，数量自适应排列） ── */
 .callout[data-callout="stat-cards"] {
   --callout-color: 72, 132, 112;
   --callout-icon: lucide-bar-chart-3;
@@ -930,16 +930,19 @@
   box-shadow: 0 8px 20px rgba(72, 132, 112, 0.09);
 }
 
+/* 容器：6 列精度网格，统一通过 span 控制每项宽度 */
 .callout[data-callout="stat-cards"] .callout-content > ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(6, 1fr);
   gap: 0.7rem;
   padding-inline-start: 0;
   margin-block: 0.65rem 0.25rem;
   list-style: none;
 }
 
+/* 单项：默认 span 2 = 3 列（6/2=3） */
 .callout[data-callout="stat-cards"] .callout-content > ul > li {
+  grid-column: span 2;
   margin: 0;
   padding: 1rem 1rem 0.8rem;
   border: 1px solid rgba(72, 132, 112, 0.18);
@@ -949,16 +952,59 @@
   line-height: 1.55;
 }
 
-/* 数字：infographic 风格 — 超大、紧字距、等宽数字、极粗 */
+/* ─── 数量自适应排列 ────────────────────────────────── */
+
+/* 4 项 → 2×2：span 3 = 半宽 */
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(4):last-child) > li {
+  grid-column: span 3;
+}
+
+/* 5 项 → 3-2：前三 span 2，后二 span 3 居中 */
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+3) {
+  grid-column: span 2;
+}
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+4) {
+  grid-column: span 3;
+}
+
+/* 7 项 → 2-3-2 */
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n+2),
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+6) {
+  grid-column: span 3;
+}
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5) {
+  grid-column: span 2;
+}
+
+/* 8 项 → 3-2-3 */
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li:nth-child(-n+3),
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li:nth-child(n+6) {
+  grid-column: span 2;
+}
+.callout[data-callout="stat-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li:nth-child(n+4):nth-child(-n+5) {
+  grid-column: span 3;
+}
+
+/* ─── 数字：infographic 风格 — 加粗加大 ─────────────── */
 .callout[data-callout="stat-cards"] .callout-content > ul > li strong:first-child {
   display: block;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.2rem;
   color: rgb(72, 132, 112);
-  font-size: 1.2em;
-  line-height: 1.4;
-  letter-spacing: 0.01em;
-  font-weight: 700;
+  font-size: 1.55em;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  font-weight: 800;
   font-variant-numeric: tabular-nums;
+}
+
+/* 移动端：通栏 */
+@media (max-width: 640px) {
+  .callout[data-callout="stat-cards"] .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+  .callout[data-callout="stat-cards"] .callout-content > ul > li {
+    grid-column: span 1 !important;
+  }
 }
 
 /* ─── finding-cards（核心发现 — 暖铜 + 星芒角） ──────── */
