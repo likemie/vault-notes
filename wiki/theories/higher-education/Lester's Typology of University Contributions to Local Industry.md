@@ -13,6 +13,7 @@ tags:
   - theme/regional-development
   - level/higher-education
 related_concepts:
+  - "[[Structural Holes]]"
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
 related_theories:
@@ -54,7 +55,7 @@ updated: 2026-06-10
 
 **类型 3 — 现有产业的多样化（Diversification of existing industries into technologically related new ones）**：当现有产业向技术相关的新领域多元化时，大学的贡献包括：
 - 桥接断开的行动者（bridging between disconnected actors）
-- 填补"结构洞"（filling structural holes）
+- 填补"[[Structural Holes|结构洞]]"（filling structural holes）
 - 创建产业认同
 
 **类型 4 — 现有产业的升级（Upgrading of existing industries）**：当成熟产业需要升级以适应竞争时，大学的贡献包括：
