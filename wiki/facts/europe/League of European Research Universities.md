@@ -11,12 +11,17 @@ tags:
   - theme/researcher-careers
   - policy/higher-education
   - level/higher-education
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Professors of Practice]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Oxford UIDP Summit 2019]]"
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10

@@ -15,6 +15,12 @@ tags:
   - policy/innovation
   - region/uk
   - level/higher-education
+related_concepts:
+  - "[[Knowledge Exchange]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Third Mission (Universities)]]"
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10

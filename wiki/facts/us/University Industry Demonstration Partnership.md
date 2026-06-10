@@ -30,12 +30,14 @@ related_facts:
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Innovation Network]]"
   - "[[National Science Foundation]]"
+  - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-26

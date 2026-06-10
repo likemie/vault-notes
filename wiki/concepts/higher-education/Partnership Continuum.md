@@ -28,6 +28,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 confidence: medium
 status: draft

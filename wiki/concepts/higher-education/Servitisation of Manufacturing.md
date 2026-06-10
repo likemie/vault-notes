@@ -11,6 +11,10 @@ tags:
   - theme/innovation
   - theme/business-model
   - level/higher-education
+related_concepts:
+  - "[[Innovation Ecosystem]]"
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10

@@ -12,6 +12,12 @@ tags:
   - theme/university-industry-collaboration
   - theme/regional-development
   - level/higher-education
+related_concepts:
+  - "[[Innovation Ecosystem]]"
+related_theories:
+  - "[[Triple Helix]]"
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10

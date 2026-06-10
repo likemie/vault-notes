@@ -13,6 +13,16 @@ tags:
   - level/higher-education
   - region/uk
   - region/us
+related_concepts:
+  - "[[Innovation Ecosystem]]"
+related_theories:
+  - "[[King-Persily Model]]"
+  - "[[Lester's Typology of University Contributions to Local Industry]]"
+  - "[[Triple Helix]]"
+related_facts:
+  - "[[University Industry Demonstration Partnership]]"
+related_arguments:
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-10
