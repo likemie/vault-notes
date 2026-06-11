@@ -2737,3 +2737,100 @@
   background: rgb(100, 140, 195);
   box-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   ARGUMENT CHAIN-LINK — 论证链节
+   用途：论证步骤内的独立证据→分析结论单元
+   颜色：金琥珀 rgb(180, 140, 60)
+   特征：斜纹底 + 左重边 + LINK 角标
+   每个 chain-link 是一个完整的"数据→推论"环节，
+   连续排列形成论证链
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="chain-link"] {
+  --callout-color: 180, 140, 60;
+  --callout-icon: lucide-link-2;
+  position: relative;
+  overflow: hidden;
+  background:
+    repeating-linear-gradient(
+      45deg,
+      transparent 0px, transparent 16px,
+      rgba(180, 140, 60, 0.035) 16px, rgba(180, 140, 60, 0.035) 18px
+    ),
+    linear-gradient(135deg, rgba(180, 140, 60, 0.09), rgba(180, 140, 60, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(180, 140, 60, 0.24);
+  border-left: 6px solid rgb(180, 140, 60);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(180, 140, 60, 0.09);
+}
+
+.callout[data-callout="chain-link"] > .callout-title {
+  color: rgb(150, 110, 35);
+  font-weight: 650;
+  letter-spacing: 0.025em;
+}
+
+.callout[data-callout="chain-link"] > .callout-title .callout-title-inner::before {
+  content: "LINK";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.06em 0.4em;
+  border-radius: 4px;
+  background: rgba(180, 140, 60, 0.18);
+  color: rgb(150, 110, 35);
+  font-size: 0.68em;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  vertical-align: 0.05em;
+}
+
+.callout[data-callout="chain-link"] > .callout-content {
+  position: relative;
+  z-index: 1;
+  overflow-x: auto;
+}
+
+.callout[data-callout="chain-link"] table {
+  display: table;
+  width: 100%;
+  min-width: 360px;
+  margin-block: 0.5rem 0.2rem;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.callout[data-callout="chain-link"] th {
+  background: rgba(180, 140, 60, 0.14);
+  font-weight: 700;
+}
+
+.callout[data-callout="chain-link"] th,
+.callout[data-callout="chain-link"] td {
+  border-color: rgba(180, 140, 60, 0.18);
+  vertical-align: top;
+  line-height: 1.65;
+}
+
+/* 连续链节吸顶 — 视觉连续性 */
+.callout[data-callout="chain-link"] + .callout[data-callout="chain-link"] {
+  margin-top: -6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-top-color: rgba(180, 140, 60, 0.10);
+}
+
+/* 暗模式微调 */
+.theme-dark .callout[data-callout="chain-link"] {
+  background:
+    repeating-linear-gradient(
+      45deg,
+      transparent 0px, transparent 16px,
+      rgba(180, 140, 60, 0.05) 16px, rgba(180, 140, 60, 0.05) 18px
+    ),
+    linear-gradient(135deg, rgba(180, 140, 60, 0.12), rgba(180, 140, 60, 0.03)),
+    var(--background-primary);
+  border-color: rgba(180, 140, 60, 0.32);
+}
