@@ -14,7 +14,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -32,7 +33,7 @@ updated: 2026-06-12
 > [!quote]
 > 信息化是一种发展模式，其主要生产力来源在于基于知识和信息优化生产要素组合与使用的质化能力。
 >
-> Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information. (Castells, 2011; 转引自 Chan, 2015, p.7)
+> Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
 
 > [!boundary]- 概念边界
 > - 不等于工业化 — 工业化以物质投入为核心驱动力，信息化以知识和信息处理为驱动力；成功完成工业化不保证进入信息化。
@@ -58,7 +59,7 @@ updated: 2026-06-12
 > - **1970年代中期** 信息技术革命在全球范围成形，信息化作为一个新的发展现象开始被关注。
 > - **1980年代** 个人计算机革命在美国将信息化推向新阶段，苏联则因体制障碍被推到技术外围。
 > - **1990年代–2000年代** Castells 完成《信息时代》三部曲（1996–1998初版，2010再版），系统阐述信息化作为新发展模式的理论框架。
-> - **2010年代** 信息化概念被用于分析后共产主义国家的转型挑战，解释[[Soviet Statism|国家主义]]体制在新信息环境中的结构性困境（Bellows, 1993; Chan, 2015）。
+> - **2010年代** 信息化概念被用于分析后共产主义国家的转型挑战，解释[[Soviet Statism|国家主义]]体制在新信息环境中的结构性困境[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015）]]。
 
 ---
 ## 理论语境

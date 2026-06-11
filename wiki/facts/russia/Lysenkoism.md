@@ -15,7 +15,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -57,7 +58,7 @@ updated: 2026-06-12
 ## 争议与评论
 
 > [!warning]
-> Lysenkoism 不是孤立的个人事件，而是苏联科学意识形态化的极端产物。同一时期，爱因斯坦的相对论也被斥为"资产阶级的、反动的、与马克思列宁主义不相容"（Vucinich, 2001，转引自 Chan, 2015, p.5）——直到制造核弹的实际需求迫使苏联科学家接受爱因斯坦物理学的工具价值。因此，Lysenkoism 应被理解为苏联科学从属于[[Soviet Statism|国家主义]]意识形态逻辑的制度性病症，而非单纯的个人投机或权力滥用。
+> Lysenkoism 不是孤立的个人事件，而是苏联科学意识形态化的极端产物。同一时期，爱因斯坦的相对论也被斥为"资产阶级的、反动的、与马克思列宁主义不相容"[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.5）]]——直到制造核弹的实际需求迫使苏联科学家接受爱因斯坦物理学的工具价值。因此，Lysenkoism 应被理解为苏联科学从属于[[Soviet Statism|国家主义]]意识形态逻辑的制度性病症，而非单纯的个人投机或权力滥用。
 
 ---
 ## 相关概念／政策

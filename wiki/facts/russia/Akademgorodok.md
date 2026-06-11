@@ -16,7 +16,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -57,13 +58,13 @@ updated: 2026-06-12
 > [!quote]
 > 这个有前途的西伯利亚科学城变成了日益吱吱作响的苏联工业机器中的又一个齿轮。
 >
-> Original: The promising Siberian science city became just another cog in an increasingly creaky Soviet industrial machine. (Josephson, 1998, 转引自 Chan, 2015, p.9)
+> Original: The promising Siberian science city became just another cog in an increasingly creaky Soviet industrial machine.
 
 ---
 ## 争议与评论
 
 > [!warning]
-> Akademgorodok 的失败也包含一个悖论：如果科学院不是独立于中央指令经济发展，它会被[[State Vertical|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标（Chan, 2015, p.9n4）。这一悖论揭示了在[[Soviet Statism|国家主义]]体制内进行局部改革的根本困境。
+> Akademgorodok 的失败也包含一个悖论：如果科学院不是独立于中央指令经济发展，它会被[[State Vertical|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在[[Soviet Statism|国家主义]]体制内进行局部改革的根本困境。
 
 ---
 ## 相关概念／政策

@@ -18,7 +18,8 @@ related_persons:
   - "[[Manuel Castells]]"
 related_facts:
   - "[[Akademgorodok]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -31,12 +32,12 @@ updated: 2026-06-12
 ## 定义
 
 > [!info] 核心定义
-> Soviet Statism（苏联国家主义）由 [[Manuel Castells]] 在分析信息时代国家转型时提出。国家主义社会系统的核心定义是"围绕国家机器权力持有者对社会经济剩余的占有而组织起来"（Castells, 2011）。与资本主义追求利润最大化不同，国家主义追求国家机器权力最大化。在苏联案例中，这一逻辑表现为党对国家、国家对社会的全面控制，通过中央计划经济以马克思列宁主义意识形态为支撑。
+> Soviet Statism（苏联国家主义）由 [[Manuel Castells]] 在分析信息时代国家转型时提出。国家主义社会系统的核心定义是"围绕国家机器权力持有者对社会经济剩余的占有而组织起来"[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.3）]]。与资本主义追求利润最大化不同，国家主义追求国家机器权力最大化。在苏联案例中，这一逻辑表现为党对国家、国家对社会的全面控制，通过中央计划经济以马克思列宁主义意识形态为支撑。
 
 > [!quote]
 > 国家主义社会系统是围绕国家机器权力持有者对社会所生产的经济剩余的占有而组织起来的。
 >
-> Original: A statist social system is one organized around the appropriation of the economic surplus produced in a society by the holders of power in the state apparatus. (Castells, 2011)
+> Original: A statist social system is one organized around the appropriation of the economic surplus produced in a society by the holders of power in the state apparatus.
 
 > [!boundary]- 概念边界
 > - 不等于一般的国家干预 — 国家干预（state intervention）是资本主义国家也可能采取的政策工具，苏联国家主义则是国家机器对社会经济生活的全面占有和直接控制。
