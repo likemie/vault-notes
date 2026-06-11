@@ -100,37 +100,55 @@
 }
 
 
-/* ─── chapter-question（章节问题 — 紧凑问号 badge） ──── */
+/* ─── chapter-question（章节问题 — 大号 ? 水印 + 粗边） ── */
 .callout[data-callout="chapter-question"] {
-  --callout-color: 155, 115, 55;
-  --callout-icon: lucide-help-circle;
-  background: linear-gradient(135deg, rgba(155, 115, 55, 0.07), rgba(155, 115, 55, 0.015)), var(--background-primary);
-  border: 1px solid rgba(155, 115, 55, 0.18);
-  border-left: 3px solid rgb(155, 115, 55);
-  border-radius: 8px;
-  padding: 0.4rem 0.8rem;
-  box-shadow: none;
-  font-size: 0.94em;
-  line-height: 1.6;
+  --callout-color: 165, 110, 45;
+  --callout-icon: none;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(165, 110, 45, 0.09), rgba(165, 110, 45, 0.025)), var(--background-primary);
+  border: 1px solid rgba(165, 110, 45, 0.22);
+  border-left: 5px solid rgb(165, 110, 45);
+  border-radius: 10px;
+  padding: 0.55rem 0.9rem;
+  box-shadow: 0 4px 12px rgba(165, 110, 45, 0.06);
+  font-size: 0.96em;
+  line-height: 1.65;
+}
+.callout[data-callout="chapter-question"]::after {
+  content: "?";
+  position: absolute;
+  top: -0.6rem;
+  right: 0.5rem;
+  color: rgba(165, 110, 45, 0.10);
+  font-size: 5rem;
+  font-weight: 900;
+  font-style: italic;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
 }
 .callout[data-callout="chapter-question"] > .callout-title {
   display: none;
 }
 .callout[data-callout="chapter-question"] .callout-content {
+  position: relative;
+  z-index: 1;
   padding: 0;
+  font-weight: 500;
 }
 .callout[data-callout="chapter-question"] .callout-content > p:first-child::before {
   content: "Q";
   display: inline-block;
-  margin-right: 0.5rem;
-  padding: 0.04em 0.4em;
+  margin-right: 0.45rem;
+  padding: 0.03em 0.35em;
   border-radius: 3px;
-  background: rgba(155, 115, 55, 0.15);
-  color: rgb(155, 115, 55);
-  font-size: 0.8em;
+  background: rgb(165, 110, 45);
+  color: #fff;
+  font-size: 0.75em;
   font-weight: 800;
   letter-spacing: 0.04em;
-  vertical-align: 0.05em;
+  vertical-align: 0.06em;
 }
 
 /* ─── step（论证步骤 — 箭头纹 + STEP 角标） ─────────── */
