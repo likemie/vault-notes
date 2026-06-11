@@ -182,30 +182,12 @@ updated: 2026-06-02
 
 ## 使用此方法的研究
 
-> [!example] Miller（1992）——新校长[[Ethnography|民族志研究]]
-> 在一项关于四年制学院新校长第一年经历的[[Ethnography|民族志研究]]中，对校长进行了每两月一次、每次 45 分钟的录音访谈，持续四个月（2–5 月）。初始访谈问题作为附录纳入研究方案。研究还安排了两次后续访谈（5 月底），用于澄清和补充信息。该研究同时结合了观察、文件分析和参与者录音日记作为[[Triangulation|三角验证]]来源（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
-
-> [!example] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]——精英大学学生出路分化研究
-> 以半结构式深度访谈为核心资料收集方法，研究中国两所精英大学学生的毕业出路分化机制。两阶段共 62 名毕业班学生，覆盖南方大学和北方大学；每次 2.5–3.5 小时，最长 6 小时。采用渐进式聚焦法——个人生活史→大学过程→毕业选择。累计转录超过 150 万字。辅助来源包括背景信息问卷、实地观察笔记、官方文件/典礼讲话、网络论坛讨论。效度保障使用人员校验法+三角互证法+跟踪式[[Case Study|个案研究]]。
-
-> [!example] [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer 等 (2023)]]——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] [[University-Industry Collaboration|产学合作]]网络演化研究
-> 单一站点案例研究中使用半结构化深度访谈，追踪 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 13 年以上的演化过程。共 10 次访谈，每次 50-105 分钟，覆盖 10 家跨国制药企业的高级研发管理者和 8 所学术机构的项目负责人。通过开放式[[Coding in Qualitative Research|编码]]到抽象编码再到概念与理论编码的三阶段主题分析过程，识别了产学合作演化的四个阶段（胚胎期、启动期、参与期、确立期）以及各阶段对应的障碍和促进因素。所有受访者使用化名以保护匿名性。
->
-> > [!example] [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]——[[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 高等教育空间生产研究
-> 对 39 名来自深圳、广州、香港和澳门的大学教师进行半结构化访谈（2023 年 9-11 月，平均每次 1 小时），其中 30 人通过目的性抽样确认为具有跨部门经验的活跃关键节点。线上线下结合，学科覆盖 STEM 和社会科学与人文（SSH）。
-
-> [!example] [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]——多元文化中国视角下的儒家传统研究
-> 以半结构化深度访谈收集边缘群体的文化理解经验。样本为 37 名来自 15 个民族的大学生，约 65% 有宗教信仰（佛教、伊斯兰教、基督教等），来自西北和东南地区两所大学。采用最大变异抽样覆盖民族、宗教、性别和学科背景的多样性。与 217 册教科书的批判话语分析互补——教科书揭示官方叙事，访谈揭示边缘群体的接收与抵制。该研究展示了深度访谈在获取文化边缘群体声音方面的独特功能。
->
-> 详见 [[Argument_Yu_2024_CE]]。
-
-> [!example] [[Argument_Teng_2025_CE|Teng & Wang (2025)]]——中国农村[[Peidu|陪读]][[School Choice|择校]]研究
-> 以半结构化深度访谈为核心质性方法，研究农村家庭的[[School Choice|择校]]选择和社会分层机制。样本为 128 人——县城[[Peidu|陪读]]家长 65 人、乡镇陪读家长 35 人、农村非陪读家长 45 人、城乡教师与校长 95 人、教育官员 8 人。通过教师协助和滚雪球抽样招募。2018 年首次调研，2023 年回访以追踪变化。问卷数据用于验证和量化分层梯度，访谈用于揭示家庭资本如何具体影响择校过程（如关系运作的具体方式）。
->
-> 详见 [[Argument_Teng_2025_CE]]。
-
-> [!example] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]——中国学校 [[Learner-Centred Education|LCE]] 本土化研究
-> 以半结构化深度访谈为核心方法，研究中国四所学校在[[Test-Based Accountability|考试问责]]压力下推进 [[Learner-Centred Education|LCE]] 的过程。样本为 4 位校长、9 位骨干教师，来自两所城市学校和两所农村学校。教师每人两轮、三位校长两轮、一位校长一轮，每次约 50 分钟。第一轮聚焦 LCE 实施和考试问责机制的运作；第二轮深入教师评价标准对改革态度的影响。分析方法使用 Nvivo 11 辅助[[Coding in Qualitative Research|编码]]——开放编码后按[[Third Generation Activity Theory|活动理论]]六要素框架重组为解释性主题。辅助数据包括教育局评价标准文件、学校课堂教学观摩方案、田野笔记。
->
-> 详见 [[Argument_Wang_2025_CE]]。
+> [!example]- 研究案例索引
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]：Miller (1992) 新校长民族志，每两月一次 45 分钟录音访谈，持续四个月
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]：精英大学学生出路分化，两阶段 62 名毕业生，每次 2.5–3.5 小时，累计 150 万字
+> - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer 等 (2023)]]：SSPC 产学合作网络演化，10 次访谈 50–105 分钟，10 家跨国企业 + 8 所学术机构
+> - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：GBA 高等教育空间生产，39 名教师（30 名关键节点），四城，2023 年
+> - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]：多元文化视角儒家传统，37 名 15 个民族大学生，与 217 册教科书分析互补
+> - [[Argument_Teng_2025_CE|Teng & Wang (2025)]]：农村陪读择校，128 人（家长、教师、官员），2018 + 2023 回访
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]：中国学校 LCE 本土化，4 位校长 9 位教师，两轮访谈，Nvivo 11
 
