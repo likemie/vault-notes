@@ -830,6 +830,16 @@
     ]
   },
   {
+    "title": "EST Integrated Development",
+    "type": "concept",
+    "path": "wiki/concepts/education-economics/EST Integrated Development.md",
+    "aliases": [
+      "教育科技人才一体化发展",
+      "Education-Science-Technology-Talent Integration",
+      "EST一体化"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -5776,6 +5786,15 @@
     ]
   },
   {
+    "title": "Coupling Coordination Theory",
+    "type": "theory",
+    "path": "wiki/theories/education-economics/Coupling Coordination Theory.md",
+    "aliases": [
+      "耦合协调理论",
+      "Theory of Coupling Coordination"
+    ]
+  },
+  {
     "title": "Autopoiesis",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
@@ -6889,6 +6908,26 @@
     ]
   },
   {
+    "title": "Combined Weighting AHP-EWM",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Combined Weighting AHP-EWM.md",
+    "aliases": [
+      "AHP-熵权法组合赋权",
+      "AHP-EWM Combined Weighting Method",
+      "主客观组合赋权"
+    ]
+  },
+  {
+    "title": "Coupling Coordination Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Coupling Coordination Model.md",
+    "aliases": [
+      "耦合协调模型",
+      "CCDM",
+      "Coupling Coordination Degree Model"
+    ]
+  },
+  {
     "title": "Covariate Adjustment",
     "type": "method",
     "path": "wiki/methods/quantitative/Covariate Adjustment.md",
@@ -6977,6 +7016,27 @@
     "path": "wiki/methods/quantitative/Intervention Research.md",
     "aliases": [
       "干预研究"
+    ]
+  },
+  {
+    "title": "LISA Spatiotemporal Transition",
+    "type": "method",
+    "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md",
+    "aliases": [
+      "LISA时空转移",
+      "LISA Spatiotemporal Transition Matrix",
+      "空间转移矩阵",
+      "LISA时空跃迁"
+    ]
+  },
+  {
+    "title": "LISA Time Path",
+    "type": "method",
+    "path": "wiki/methods/quantitative/LISA Time Path.md",
+    "aliases": [
+      "LISA时空路径",
+      "LISA时间路径",
+      "Local Indicators of Spatial Association Time Path"
     ]
   },
   {

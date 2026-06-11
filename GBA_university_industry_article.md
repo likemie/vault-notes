@@ -1,4 +1,12 @@
-# 迈向国际科创中心：粤港澳大湾区高校—产业创新协同的机制与路径
+# 产学创新深度融合的异质性机制与渐进路径：以粤港澳大湾区为例
+
+**摘要**：既有研究对粤港澳大湾区产学协同困境的解释多止于制度摩擦与资源短缺，忽视了不同产业在创新逻辑上的根本差异。本文以Pavitt分类学与多通道互动学习模型为框架，识别四类产业创新模式与三类协同接口，提出"非均质三重螺旋配置"概念以刻画港澳内地三套制度体系的结构性差异，并从产学关系连续体视角分析差异化协同路径的机制设计与渐进建设逻辑。本文的贡献在于以产业异质性为起点，整合接口类型、制度配置与关系演进三个维度，为大湾区产学深度融合提供兼顾精准诊断与渐进建设的分析框架。
+
+**关键词**：产学协同；产业异质性；非均质三重螺旋；接口类型；粤港澳大湾区
+
+**Abstract**: Existing accounts of university-industry collaboration (UIC) failures in the Greater Bay Area focus on institutional friction and resource gaps, overlooking the heterogeneity of innovation logics across industry types. Drawing on Pavitt's sectoral taxonomy and the multi-channel interactive learning model, this paper identifies four industry innovation types and three corresponding UIC interface types, introduces the concept of *Heterogeneous Triple Helix Configuration* to characterize the structurally distinct university-government-industry systems of Hong Kong, Mainland China, and Macau, and designs differentiated collaboration mechanisms grounded in a graduated, trust-dependent partnership continuum. The framework integrates interface differentiation, institutional configuration, and relational progression into a coherent approach to deep UIC in the GBA.
+
+**Keywords**: university-industry collaboration; industry heterogeneity; heterogeneous triple helix; interface types; Greater Bay Area
 
 ---
 
