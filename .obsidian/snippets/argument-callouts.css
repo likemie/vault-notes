@@ -151,6 +151,63 @@
   vertical-align: 0.06em;
 }
 
+
+/* ─── swot（SWOT 分析 — 四象限色块 + 粗体标签） ───── */
+.callout[data-callout="swot"] {
+  --callout-color: 75, 100, 130;
+  --callout-icon: lucide-grid-2x2;
+  background: linear-gradient(135deg, rgba(75, 100, 130, 0.08), rgba(75, 100, 130, 0.02)), var(--background-primary);
+  border: 1px solid rgba(75, 100, 130, 0.20);
+  border-left: 4px solid rgb(75, 100, 130);
+  border-radius: 10px;
+  box-shadow: 0 6px 16px rgba(75, 100, 130, 0.06);
+}
+.callout[data-callout="swot"] > .callout-title {
+  color: rgb(55, 75, 100);
+  font-weight: 650;
+  font-size: 0.95em;
+  letter-spacing: 0.01em;
+}
+.callout[data-callout="swot"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+  padding-left: 0;
+  list-style: none;
+  margin: 0.4rem 0 0;
+}
+.callout[data-callout="swot"] .callout-content > ul > li {
+  padding: 0.5rem 0.65rem;
+  border-radius: 6px;
+  font-size: 0.9em;
+  line-height: 1.55;
+  margin: 0;
+}
+.callout[data-callout="swot"] .callout-content > ul > li:nth-child(1) {
+  background: rgba(46, 160, 90, 0.10);
+  border: 1px solid rgba(46, 160, 90, 0.20);
+  border-left: 3px solid rgb(46, 160, 90);
+}
+.callout[data-callout="swot"] .callout-content > ul > li:nth-child(2) {
+  background: rgba(200, 60, 45, 0.10);
+  border: 1px solid rgba(200, 60, 45, 0.20);
+  border-left: 3px solid rgb(200, 60, 45);
+}
+.callout[data-callout="swot"] .callout-content > ul > li:nth-child(3) {
+  background: rgba(46, 120, 190, 0.10);
+  border: 1px solid rgba(46, 120, 190, 0.20);
+  border-left: 3px solid rgb(46, 120, 190);
+}
+.callout[data-callout="swot"] .callout-content > ul > li:nth-child(4) {
+  background: rgba(210, 160, 40, 0.10);
+  border: 1px solid rgba(210, 160, 40, 0.20);
+  border-left: 3px solid rgb(210, 160, 40);
+}
+@media (max-width: 640px) {
+  .callout[data-callout="swot"] .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
 /* ─── step（论证步骤 — 箭头纹 + STEP 角标） ─────────── */
 .callout[data-callout="step"] {
   --callout-color: 175, 105, 55;
