@@ -99,6 +99,40 @@
   z-index: 1;
 }
 
+
+/* ─── chapter-question（章节问题 — 紧凑问号 badge） ──── */
+.callout[data-callout="chapter-question"] {
+  --callout-color: 155, 115, 55;
+  --callout-icon: lucide-help-circle;
+  background: linear-gradient(135deg, rgba(155, 115, 55, 0.07), rgba(155, 115, 55, 0.015)), var(--background-primary);
+  border: 1px solid rgba(155, 115, 55, 0.18);
+  border-left: 3px solid rgb(155, 115, 55);
+  border-radius: 8px;
+  padding: 0.4rem 0.8rem;
+  box-shadow: none;
+  font-size: 0.94em;
+  line-height: 1.6;
+}
+.callout[data-callout="chapter-question"] > .callout-title {
+  display: none;
+}
+.callout[data-callout="chapter-question"] .callout-content {
+  padding: 0;
+}
+.callout[data-callout="chapter-question"] .callout-content > p:first-child::before {
+  content: "Q";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.04em 0.4em;
+  border-radius: 3px;
+  background: rgba(155, 115, 55, 0.15);
+  color: rgb(155, 115, 55);
+  font-size: 0.8em;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  vertical-align: 0.05em;
+}
+
 /* ─── step（论证步骤 — 箭头纹 + STEP 角标） ─────────── */
 .callout[data-callout="step"] {
   --callout-color: 175, 105, 55;
