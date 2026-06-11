@@ -22,6 +22,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Jason Beech]]"
+  - "[[Manuel Castells]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -49,7 +50,7 @@ updated: 2026-06-09
 ## 概念演变
 
 > [!note]
-> 漂浮能指概念起源于符号学传统。Claude Lévi-Strauss 在分析马塞尔·莫斯的礼物理论时首次使用该术语，Jacques Lacan 将其引入精神分析领域。在教育研究中，[[Jason Beech]]（2009）通过 Manuel Castells 对[[Space of Flows and Space of Places|流动空间]]文化的描述将这一概念引入比较教育分析。
+> 漂浮能指概念起源于符号学传统。Claude Lévi-Strauss 在分析马塞尔·莫斯的礼物理论时首次使用该术语，Jacques Lacan 将其引入精神分析领域。在教育研究中，[[Jason Beech]]（2009）通过 [[Manuel Castells]] 对[[Space of Flows and Space of Places|流动空间]]文化的描述将这一概念引入比较教育分析。
 
 > [!note]- 从符号学到教育政策分析
 > Castells（2000c）在描述流动空间中的文化特征时指出符号在流动空间中共存而不参照经验，任何被赋予的意义立即变得过时，被无数不同视角和替代[[Coding in Qualitative Research|编码]]所再加工。Beech 将这一观察引入教育政策分析：全球教育政策话语在流动空间中被再生产时，经历了同样的过程——脱离地方历史经验，失去特定含义，成为漂浮能指。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–355)]]

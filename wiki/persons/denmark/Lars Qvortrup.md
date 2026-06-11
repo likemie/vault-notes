@@ -61,7 +61,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Qvortrup 的学术立场是从 VL 支持者角度为其提供理论辩护：
+> Qvortrup 的学术立场是从 [[Visible Learning|VL]] 支持者角度为其提供理论辩护：
 >
 > > "The aim of [[Visible Learning]] is to support teachers' professional judgement. (...) The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247)."([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.7]])
 >
@@ -76,7 +76,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Argument_Qvortrup_2015_Paideia]] — VL 支持者立场讨论论文，提出[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]以回应学习结果概念问题
+> - [[Argument_Qvortrup_2015_Paideia]] — [[Visible Learning|VL]] 支持者立场讨论论文，提出[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]以回应学习结果概念问题
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup 为修正 VL 的学习结果概念而提出的四阶知识模型
 > - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文
 > - [[Professional Judgment]] — Qvortrup 提出专业判断作为 VL 中教学干预与学习成果之间的"缺失环节"
@@ -85,12 +85,12 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 其 2019 年论文是 VL 学术批评文献中罕见的系统性支持方回应——大多数已发表的 VL 相关学术文献采取批评立场
+> - 其 2019 年论文是 [[Visible Learning|VL]] 学术批评文献中罕见的系统性支持方回应——大多数已发表的 VL 相关学术文献采取批评立场
 > - 与丹麦 VL 批评者（[[Thomas Aastrup Rømer]]、[[Steen Nepper Larsen]] 等）形成对立立场
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Qvortrup 作为 VL 丹麦引介者（与 Egelund 共同撰写导言），其辩护者的立场可能影响其分析的中立性
+> - Qvortrup 作为 [[Visible Learning|VL]] 丹麦引介者（与 Egelund 共同撰写导言），其辩护者的立场可能影响其分析的中立性
 > - 将丹麦批评者整体定性为"解释社群"可能过度简化——部分批评（如 Rømer 2018 的五线哲学批评）提出了实质性学术论点
 > - 其"观察透镜"认识论可能面临相对主义批评——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何判断哪种图像更可靠？

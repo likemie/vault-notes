@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Recontextualization]]"
+  - "[[Soviet Statism]]"
   - "[[Relational Space]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Multiplicity]]"
@@ -65,7 +66,7 @@ updated: 2026-05-18
 > - **与规范性民族主义的共生** — 二者相互倚靠，Massey（2005）称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]])
 > - **在高等教育中的具体表现** — 比较教育研究中以国家为唯一比较单位；大学排名将"国家表现"作为关键指标；政策研究将跨境流动视为国家政策的附属物([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])
 > - **在比较教育中的具体表现** — 大多数比较教育研究基于领土和地缘政治的空间定义，以民族国家为分析单位。[[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 指出，这种「静态的转移解释」将教育思想的生产地和接收地视为固定的国家领土，忽视了知识在流通过程中被建构的关系性维度。从 Jullien 以来，比较教育的主流传统都在寻找「在一个语境中有效」的制度、思想或实践，然后试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应和[[Recontextualization|再脉络化]]过程，仍然基于地缘政治和领土性的空间定义。
-> - **方法论国家主义、方法论国家中心主义和方法论教育主义的叠加** — Dale & Robertson（2009）进一步扩展了这一批判，指出在全球化世界中仅关注国家教育系统不仅是方法论国家主义（methodological nationalism），还是方法论国家中心主义（methodological statism）和方法论教育主义（methodological educationism）：将国家视为唯一或最关键的教育行动者、将教育等同于大众学校教育([[Argument_Klerides_2023_CE|Klerides, 2023, p.423]])。三者的叠加效应使得比较教育在方法论层面系统性地遮蔽了跨国治理网络、非国家行动者和非学校形式的教育实践。
+> - **方法论[[Soviet Statism|国家主义]]、方法论国家中心主义和方法论教育主义的叠加** — Dale & Robertson（2009）进一步扩展了这一批判，指出在全球化世界中仅关注国家教育系统不仅是方法论国家主义（methodological nationalism），还是方法论国家中心主义（methodological statism）和方法论教育主义（methodological educationism）：将国家视为唯一或最关键的教育行动者、将教育等同于大众学校教育([[Argument_Klerides_2023_CE|Klerides, 2023, p.423]])。三者的叠加效应使得比较教育在方法论层面系统性地遮蔽了跨国治理网络、非国家行动者和非学校形式的教育实践。
 
 ---
 

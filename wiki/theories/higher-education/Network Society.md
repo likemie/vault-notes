@@ -22,7 +22,8 @@ related_concepts:
   - "[[Floating Signifier]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Manuel Castells]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education International]]"
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1996** — Manuel Castells 出版 *The Rise of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
+> - **1996** — [[Manuel Castells]] 出版 *The Rise of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
 > - **2000** — Castells 在 *British Journal of Sociology* 发表网络社会探索性理论，进一步阐述网络的二元纳入／排除逻辑和权力动态（Castells, 2000c）
 > - **2006** — Yochai Benkler 出版 *The Wealth of Networks*，将网络社会理论延伸至[[Knowledge Production|知识生产]]领域，论证网络化的知识生产（如开源软件、维基百科式的协作）正在挑战传统的、等级化的知识生产模式
 > - **2009** — Beech 将 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区分和网络逻辑应用于比较教育中的话语流通分析，提出[[Global Policy Space|全球政策空间]]概念([[Argument_Beech_2009_CE|Beech, 2009]])

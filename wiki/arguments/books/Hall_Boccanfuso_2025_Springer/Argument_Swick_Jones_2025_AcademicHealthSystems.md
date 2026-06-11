@@ -20,6 +20,7 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
   - "[[Technology Transfer Office]]"
+  - "[[Valley of Death]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[T-Shaped Skills]]"
@@ -126,7 +127,7 @@ citation_aliases:
 ---
 
 > [!success] AHS 在产学合作中的独特能力
-> 基于上述结构，AHS 具备传统 AMC 难以复制的四项能力(pp.181–182)：雇佣跨学术-产业角色的非典型人员；建立专用设施与数据安全标准；在多样化患者基础上部署解决方案；利用真实世界验证实现规模化。此外，AHS 可通过[[Technology Transfer Office|技术转移办公室]]和慈善支持的专门基础设施（内部转化基金、临床前验证设施等）弥合医学翻译循环中的"死亡之谷"（valley of death）。详见 [[Academic Health System]]。
+> 基于上述结构，AHS 具备传统 AMC 难以复制的四项能力(pp.181–182)：雇佣跨学术-产业角色的非典型人员；建立专用设施与数据安全标准；在多样化患者基础上部署解决方案；利用真实世界验证实现规模化。此外，AHS 可通过[[Technology Transfer Office|技术转移办公室]]和慈善支持的专门基础设施（内部转化基金、临床前验证设施等）弥合医学翻译循环中的"[[Valley of Death|死亡之谷]]"（valley of death）。详见 [[Academic Health System]]。
 
 ---
 

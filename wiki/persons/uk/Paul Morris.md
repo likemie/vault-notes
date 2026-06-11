@@ -17,6 +17,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Soviet Statism]]"
   - "[[International Schools]]"
   - "[[Analytic Framework]]"
 related_theories: []
@@ -46,7 +47,7 @@ updated: '2026-06-08'
 >
 > 1. **[[Policy Borrowing|政策借用]]中的修辞性参照**：国家引用全球教育趋势（如 [[PISA]]、[[Lifelong Learning|终身学习]]、[[Knowledge-Based Economy|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
 >
-> 2. **威权国家主义与教育的国安化**：在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris 与 Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
+> 2. **威权[[Soviet Statism|国家主义]]与教育的国安化**：在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris 与 Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 Yan & Morris, 2025, p. 483)
 
@@ -73,5 +74,5 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 受 **Steiner-Khamsi** 的[[Policy Borrowing|政策借用]]理论和 **Cuban** 的课程变革政治分析影响
-> - 与 **Edward Vickers** 的合作建立了香港教育与威权国家主义之间联系的[[Analytic Framework|分析框架]]
+> - 与 **Edward Vickers** 的合作建立了香港教育与威权[[Soviet Statism|国家主义]]之间联系的[[Analytic Framework|分析框架]]
 > - 与 **Kin Cheung Adrian Yan** 的合作将 Cuban 的框架扩展到后《国安法》时代
