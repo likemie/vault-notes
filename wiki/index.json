@@ -9851,6 +9851,16 @@
     ]
   },
   {
+    "title": "Tokyo Bay Area",
+    "type": "fact",
+    "path": "wiki/facts/japan/Tokyo Bay Area.md",
+    "aliases": [
+      "东京湾区",
+      "产业湾区",
+      "京滨工业区"
+    ]
+  },
+  {
     "title": "American Society for Cultural Relations with Russia",
     "type": "fact",
     "path": "wiki/facts/multi/American Society for Cultural Relations with Russia.md",
@@ -11083,6 +11093,25 @@
       "MN-IP Create",
       "明尼苏达大学IP创新计划",
       "University of Minnesota MN-IP Create"
+    ]
+  },
+  {
+    "title": "New York Bay Area",
+    "type": "fact",
+    "path": "wiki/facts/us/New York Bay Area.md",
+    "aliases": [
+      "纽约湾区",
+      "金融湾区"
+    ]
+  },
+  {
+    "title": "San Francisco Bay Area",
+    "type": "fact",
+    "path": "wiki/facts/us/San Francisco Bay Area.md",
+    "aliases": [
+      "旧金山湾区",
+      "科技湾区",
+      "Silicon Valley Bay Area"
     ]
   },
   {

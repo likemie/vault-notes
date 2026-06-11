@@ -32,6 +32,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[San Francisco Bay Area]]"
   - "[[California Master Plan for Higher Education]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -69,7 +70,7 @@ updated: 2026-06-10
 ## 两种形态
 
 > [!abstract]
-- **基于地点的生态系统（Place-based ecosystem）**：由特定地理区域内的高校、企业、研究实验室和政府投资共同构成。典型案例是硅谷和旧金山湾区，以及波士顿的 Route 128 走廊。其特点是面对面互动密度高、人才在区域内流动便捷、风投资本集中（pp.12–13）。[[Innovation Hub|创新中心]]是基于地点的生态系统中最制度化的组织形态——它将区域关键利益相关者组织起来，围绕共同愿景进行大规模协调性投资([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.112–113]])
+- **基于地点的生态系统（Place-based ecosystem）**：由特定地理区域内的高校、企业、研究实验室和政府投资共同构成。典型案例是硅谷和[[San Francisco Bay Area|旧金山湾区]]，以及波士顿的 Route 128 走廊。其特点是面对面互动密度高、人才在区域内流动便捷、风投资本集中（pp.12–13）。[[Innovation Hub|创新中心]]是基于地点的生态系统中最制度化的组织形态——它将区域关键利益相关者组织起来，围绕共同愿景进行大规模协调性投资([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.112–113]])
 - **全球性生态系统（Global ecosystem）**：围绕特定研究方法、技术平台或科学问题形成的跨国网络。例如围绕 AlphaFold 等蛋白质结构预测方法形成的全球研究社区，不受地理边界限制（p.12）
 
 两种形态并非互斥——一个地点生态系统中的参与者（如硅谷的 AI 研究员）往往同时是多个全球生态系统的成员。

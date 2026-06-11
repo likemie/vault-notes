@@ -37,6 +37,7 @@ related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
+  - "[[San Francisco Bay Area]]"
   - "[[California Master Plan for Higher Education]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -219,7 +220,7 @@ citation_aliases:
 
 **步骤 11：[[Innovation Ecosystem|创新生态系统]]——大学作为"锚点"**
 
-创新生态系统是"通过相互互动进行创新的人和组织的网络"。它可以基于地点（如硅谷和旧金山湾区），也可以是全球性的（如围绕 AlphaFold 的研究方法网络）。其核心原则来自 Schumpeter(1942)的创新理论和 Ridley(2020)的论述——创新发生在自由思考、实验和推测的环境中，需要允许外来者和挑战者获得立足点(pp.12–13)。
+创新生态系统是"通过相互互动进行创新的人和组织的网络"。它可以基于地点（如硅谷和[[San Francisco Bay Area|旧金山湾区]]），也可以是全球性的（如围绕 AlphaFold 的研究方法网络）。其核心原则来自 Schumpeter(1942)的创新理论和 Ridley(2020)的论述——创新发生在自由思考、实验和推测的环境中，需要允许外来者和挑战者获得立足点(pp.12–13)。
 
 一个关键洞见是：即使是营利性企业也从创意和人员流动中受益。硅谷的工程师从 Google 跳槽到 Apple、从 Apple 跳槽到创业公司，这种人才流动恰恰是创新传播的核心机制。"创新不容易在孤立中发生"(p.12)。
 
