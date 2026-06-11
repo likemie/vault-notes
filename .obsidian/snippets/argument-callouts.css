@@ -919,29 +919,55 @@
   padding-left: 0;
   list-style: none;
   margin: 0.4rem 0 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 0.6rem;
+  counter-reset: indicator;
 }
 .callout[data-callout="indicators"] .callout-content > ul > li {
-  padding: 0.5rem 0.65rem;
-  border-radius: 6px;
-  font-size: 0.88em;
-  line-height: 1.55;
-  margin: 0;
-  background: rgba(80, 110, 140, 0.05);
-  border: 1px solid rgba(80, 110, 140, 0.12);
+  counter-increment: indicator;
+  padding: 0.35rem 0.5rem 0.35rem 2rem;
+  font-size: 0.9em;
+  line-height: 1.6;
+  margin: 0.15rem 0;
+  position: relative;
+  border-radius: 4px;
+}
+.callout[data-callout="indicators"] .callout-content > ul > li::before {
+  content: counter(indicator);
+  position: absolute;
+  left: 0.3rem;
+  top: 0.3rem;
+  display: inline-grid;
+  place-items: center;
+  width: 1.15rem;
+  height: 1.15rem;
+  border-radius: 999px;
+  background: rgb(80, 110, 140);
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: 700;
 }
 .callout[data-callout="indicators"] .callout-content > ul > li > strong:first-child {
   display: block;
   color: rgb(55, 80, 105);
-  margin-bottom: 0.2rem;
-  font-size: 0.95em;
+  margin-bottom: 0.1rem;
+  font-size: 0.93em;
 }
-@media (max-width: 640px) {
-  .callout[data-callout="indicators"] .callout-content > ul {
-    grid-template-columns: 1fr;
-  }
+.callout[data-callout="indicators"] .callout-content > ul > li:hover {
+  background: rgba(80, 110, 140, 0.05);
+}
+.callout[data-callout="indicators"] .callout-content > ul > li > ul {
+  margin: 0.15rem 0 0 0.5rem;
+  padding-left: 0;
+  color: var(--text-muted);
+  font-size: 0.93em;
+}
+.callout[data-callout="indicators"] .callout-content > ul > li > ul > li {
+  margin: 0.05rem 0;
+  padding: 0;
+}
+.callout[data-callout="indicators"] .callout-content > ul > li > ul > li::before {
+  content: "·";
+  margin-right: 0.3rem;
+  color: rgb(80, 110, 140);
 }
 
 /* ─── lessons（经验启示 — 金色列表 + 编号） ──────── */
