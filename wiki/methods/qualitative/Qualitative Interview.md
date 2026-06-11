@@ -191,7 +191,8 @@ updated: 2026-06-02
 > [!example] [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer 等 (2023)]]——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] [[University-Industry Collaboration|产学合作]]网络演化研究
 > 单一站点案例研究中使用半结构化深度访谈，追踪 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 13 年以上的演化过程。共 10 次访谈，每次 50-105 分钟，覆盖 10 家跨国制药企业的高级研发管理者和 8 所学术机构的项目负责人。通过开放式[[Coding in Qualitative Research|编码]]到抽象编码再到概念与理论编码的三阶段主题分析过程，识别了产学合作演化的四个阶段（胚胎期、启动期、参与期、确立期）以及各阶段对应的障碍和促进因素。所有受访者使用化名以保护匿名性。
 >
-> 详见 [[Argument_Zheng_2023_ShanghaiSanlian]]。
+> > [!example] [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]——[[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 高等教育空间生产研究
+> 对 39 名来自深圳、广州、香港和澳门的大学教师进行半结构化访谈（2023 年 9-11 月，平均每次 1 小时），其中 30 人通过目的性抽样确认为具有跨部门经验的活跃关键节点。线上线下结合，学科覆盖 STEM 和社会科学与人文（SSH）。
 
 > [!example] [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]——多元文化中国视角下的儒家传统研究
 > 以半结构化深度访谈收集边缘群体的文化理解经验。样本为 37 名来自 15 个民族的大学生，约 65% 有宗教信仰（佛教、伊斯兰教、基督教等），来自西北和东南地区两所大学。采用最大变异抽样覆盖民族、宗教、性别和学科背景的多样性。与 217 册教科书的批判话语分析互补——教科书揭示官方叙事，访谈揭示边缘群体的接收与抵制。该研究展示了深度访谈在获取文化边缘群体声音方面的独特功能。
