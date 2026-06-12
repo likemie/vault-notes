@@ -4,7 +4,7 @@ aliases:
   - 奥古斯特·孔德
   - Comte
   - Isidore Auguste Marie François Xavier Comte
-summary: "19世纪法国哲学家，实证主义（Positivism）的创始人，首次将"实证主义"一词用于哲学立场，并催生了作为独立学科的社会学。"
+summary: "19世纪法国哲学家，实证主义（Positivism）的创始人，首次将实证主义一词用于哲学立场，并催生了作为独立学科的社会学。"
 type: person
 tags:
   - person/philosopher
