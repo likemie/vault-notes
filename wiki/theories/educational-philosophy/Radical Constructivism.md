@@ -10,7 +10,9 @@ tags:
 - learning-theory
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Constructive Alignment]]"
   - "[[Posthumanism]]"
   - "[[Evidence-Based Education]]"
@@ -33,7 +35,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 激进[[Constructivist Paradigm|建构主义]]的基本立场是：**所有学习和知识都是主观建构**，外部环境、内容、政治和文化在认识论上退场。其哲学出发点是唯我论（solipsism）——"学习最终必须由个体自己完成——唯我论的！"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）。
+> 激进[[Constructivist Paradigm|建构主义]]的基本立场是：**所有学习和知识都是主观建构**，外部环境、内容、政治和文化在[[Epistemology|认识论]]上退场。其哲学出发点是唯我论（solipsism）——"学习最终必须由个体自己完成——唯我论的！"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）。
 >
 > > "All learning and knowledge are subjective constructions. The external environment, content, politics, and culture fade away and are often reconstructed in or reduced to an authoritarian teacher filling empty vessels, or to individually constructed learning targets."([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])
 >
@@ -62,21 +64,21 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - 1710 [[George Berkeley]] 提出唯我论哲学基础
-> - 1781/1787 Kant 的认识论（Glasersfeld 选择性阅读，剔除了审美和规范性维度）
+> - 1781/1787 Kant 的[[Epistemology|认识论]]（Glasersfeld 选择性阅读，剔除了审美和规范性维度）
 > - 1950s-1970s Piaget 的认知发展理论（[[Constructivist Paradigm|建构主义]]的主要灵感来源）
 > - 1974 von Glasersfeld 开始发展激进建构主义
 > - 1995 von Glasersfeld 出版 *Radical Constructivism: A Way of Knowing and Learning*
-> - 1990s 激进建构主义成为学习理论的重要范式
+> - 1990s 激进建构主义成为学习理论的重要[[Paradigm|范式]]
 > - 2000 Bjørgen 提出"对自己学习负责"，将唯我论前提推至极致
-> - 2009 Hattie 的 VL 以 Glasersfeld 为出发点，添加教师中心教学
+> - 2009 Hattie 的 [[Visible Learning|VL]] 以 Glasersfeld 为出发点，添加教师中心教学
 > - 2011 Biggs & Tang 的"[[Constructive Alignment|建构性对齐]]"（constructive alignment）
 
 ## 研究范式
 
-> [!info] 研究范式
-> - 认识论立场：主观唯心论／唯我论，与 Popper 的科学实在论完全对立
+> [!info] 研究[[Paradigm|范式]]
+> - [[Epistemology|认识论]]立场：主观唯心论／唯我论，与 Popper 的科学实在论完全对立
 > - 封闭系统：一切发生在学习者认知系统内部，无社会、政治、经济分析
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 VL 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被[[Luhmann's Systems Theory|系统理论]]、"竞争国家理论"、后结构主义甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 [[Visible Learning|VL]] 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被[[Luhmann's Systems Theory|系统理论]]、"竞争国家理论"、后结构主义甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
 
 ## 争议与批评
 

@@ -11,8 +11,12 @@ tags:
 - epistemology
 - paradigm/interpretivist
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Champ]]"
+  - "[[Reflexivity]]"
+  - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
@@ -34,7 +38,7 @@ updated: '2026-06-12'
 ## 核心主张
 
 > [!info] 核心主张
-> 现象学（Phenomenology）把人的经验、生活世界和意识指向性放在认识论与本体论分析的中心。在 Husserl、Heidegger、Sartre 与 Merleau-Ponty 等传统中，现象不是独立于人类意识的"纯对象"；人总是在生活世界中、通过身体、情感和与他人的关系来经验世界并生成意义([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
+> 现象学（Phenomenology）把人的经验、生活世界和意识指向性放在[[Epistemology|认识论]]与[[Ontology|本体论]]分析的中心。在 Husserl、Heidegger、Sartre 与 Merleau-Ponty 等传统中，现象不是独立于人类意识的"纯对象"；人总是在生活世界中、通过身体、情感和与他人的关系来经验世界并生成意义([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
 >
 > 在教育中，现象学把学习理解为人与世界之间的存在性意义生成，而不是可被量化或拆分为项目的产出。学习过程同时是认知的、感官的、响应性的、个人的和集体的，并可能引发个体与社会层面的转化([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.3]])。
 >
@@ -55,7 +59,7 @@ updated: '2026-06-12'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **19-20 世纪之交**：Husserl 以"回到事物本身"为口号开出现象学传统，并把生活主体置于认识论问题的中心([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
+> - **19-20 世纪之交**：Husserl 以"回到事物本身"为口号开出现象学传统，并把生活主体置于[[Epistemology|认识论]]问题的中心([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
 > - **20 世纪**：Heidegger、Sartre 与 Merleau-Ponty 等大陆哲学家继续发展现象学，特别是存在、身体和社会关系等主题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.3]])。
 > - **当代教育理论**：Biesta、Küpers、Thorburn & Stolz 等将现象学用于反思教育、学习和具身/主体间经验，批评把学习量化、项目化的政策倾向([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 10-11]])。
 
@@ -74,14 +78,14 @@ Curtis（1978）总结了现象学家的三个普遍认同点（pp.535–543）�
 
 舒茨（Alfred Schutz）关注的是将胡塞尔的思想引入社会学议题和对社会行为的科学研究（pp.546–550）。他的核心关注是理解日常生活世界的意义结构：
 
-- **意义的来源**：舒茨在"意识流"（stream of consciousness）中寻找意义的起源——本质上是一股不间断的活经验之流，这些经验本身没有意义。人们只能通过**反思性**（reflexivity）来回顾性地赋予意义——即回到自身并审视已经发生的事情。对舒茨而言，通过反思性赋予意义取决于人们识别他们所寻求的目的或目标。
+- **意义的来源**：舒茨在"意识流"（stream of consciousness）中寻找意义的起源——本质上是一股不间断的活经验之流，这些经验本身没有意义。人们只能通过**[[Reflexivity|反思性]]**（reflexivity）来回顾性地赋予意义——即回到自身并审视已经发生的事情。对舒茨而言，通过反思性赋予意义取决于人们识别他们所寻求的目的或目标。
 - **类型化**（typification）：我们理解他人行为的方式依赖于类型化过程——观察者利用类似"理想类型"的概念来理解人们的行为。这些概念来源于我们对日常生活的经验，我们通过它们来分类和组织我们的日常世界。我们在自身**传记位置**（biographical locations）和社会语境中学习这些类型化（Burrell and Morgan, 1979）。
 - **多重实在**：日常知识的储备库因情境而异。因此我们生活在一个**多重实在**（multiple realities）的世界中，社会行动者自如地穿梭于这些实在之间，遵守每个世界的游戏规则。
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：反对把知识理解为主体之外的中立对象；知识总与意识、身体、生活世界和主体间关系纠缠。
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：反对把知识理解为主体之外的中立对象；知识总与意识、身体、生活世界和主体间关系纠缠。
 > - **教育研究取向**：适合[[Philosophical Analysis in Education|哲学分析]]、现象学教育研究、具身学习研究和地方/[[Champ|场域]]本位学习研究。
 > - **与政策研究的张力**：现象学强调开放、情境化和难以量化的经验，而标准化问责体系倾向于预设结果并拆分可测量技能([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
 
@@ -95,7 +99,7 @@ Curtis（1978）总结了现象学家的三个普遍认同点（pp.535–543）�
 
 > [!example] 相关研究
 > - [[Argument_Schaffar_2024_CogentEdu]] — 将现象学作为理解芬兰 [[Phenomenon-Based Learning|PhBL]] 的关键哲学根源，并用它批评测量和问责逻辑下的知识碎片化。
-> - [[Argument_Larsen_2019_EducSci]] — 以现象学自由、[[Neuroplasticity|神经可塑性]]和 [[Bildung]] 批评 [[Visible Learning]] 范式对学习可见性的假定。
+> - [[Argument_Larsen_2019_EducSci]] — 以现象学自由、[[Neuroplasticity|神经可塑性]]和 [[Bildung]] 批评 [[Visible Learning]] [[Paradigm|范式]]对学习可见性的假定。
 
 ## 应用领域
 

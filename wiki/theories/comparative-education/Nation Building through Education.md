@@ -18,6 +18,8 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Sinicisation]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
 related_methods:
@@ -91,8 +93,8 @@ updated: '2026-05-21'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：批判理论、后殖民研究——将教育视为国家权力的延伸和身份政治的工具
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：批判理论、后殖民研究——将教育视为国家权力的延伸和身份政治的工具
 > - **常用方法**：跨国比较案例分析、政策文件分析、历史分析
 
 ## 争议与批评

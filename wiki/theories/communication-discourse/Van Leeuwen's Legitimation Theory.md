@@ -13,9 +13,11 @@ tags:
 - evidence-based-policy
 - critical-discourse-analysis
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Justified Warrants]]"
   - "[[Constructivist Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -42,7 +44,7 @@ updated: '2026-05-18'
 >
 > > "Evidence will be interpreted as legitimate and more likely accepted and acted on if it aligns with and is beneficial towards existing social values."([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9，综述 Van Leeuwen, 2007]])
 >
-> 合法化不是一个纯粹的认识论过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
+> 合法化不是一个纯粹的[[Epistemology|认识论]]过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
 >
 > [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
 >
@@ -85,10 +87,10 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [!info] 认识论立场
+> [!info] [[Epistemology|认识论]]立场
 > 合法化理论属于**批判话语分析（Critical Discourse Analysis）**传统。其认识论立场是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
-> 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的实证主义认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable|变量]]([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9, 27]])。
+> 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的[[Positivism|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable|变量]]([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9, 27]])。
 >
 
 ## 争议与批评

@@ -30,6 +30,8 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Hegemony]]"
   - "[[National Competitive Advantage]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -134,8 +136,8 @@ Dodds (2019, p.36) 强调要关注"人们的日常经验以及他们为应对地
 
 ## 认识论立场
 
-- **本体论**：空间不是天然实体，而是通过社会关系和话语实践被关系性建构——空间是过程而非容器
-- **认识论**：关注政治想象、话语和分类的履行性力量——它们不仅"反映"现实，更主动"生产"现实
+- **[[Ontology|本体论]]**：空间不是天然实体，而是通过社会关系和话语实践被关系性建构——空间是过程而非容器
+- **[[Epistemology|认识论]]**：关注政治想象、话语和分类的履行性力量——它们不仅"反映"现实，更主动"生产"现实
 - **常用方法**：话语分析、政治想象分析、空间政策分析
 
 ---

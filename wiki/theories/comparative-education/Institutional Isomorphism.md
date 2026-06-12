@@ -16,6 +16,8 @@ related_concepts:
   - "[[Corporate Education]]"
   - "[[Causality]]"
   - "[[Corporate University]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
   - "[[Otherhood]]"
   - "[[Analytic Framework]]"
   - "[[New Public Management]]"
@@ -86,7 +88,7 @@ updated: 2026-05-18
 ## 认识论立场
 
 > [!info]
-> - **本体论与认识论立场**：社会建构论（social constructionist），强调组织结构和实践并非由技术效率或市场竞争单一决定，而是通过共享规范、合法性和制度环境被社会性地建构
+> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场**：社会建构论（social constructionist），强调组织结构和实践并非由技术效率或市场竞争单一决定，而是通过共享规范、合法性和制度环境被社会性地建构
 > - **分析层次**：组织[[Champ|场域]]（organizational field），而非单个组织或国家/全球层面
 
 ---

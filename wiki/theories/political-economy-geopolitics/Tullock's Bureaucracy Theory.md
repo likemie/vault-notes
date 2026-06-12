@@ -18,6 +18,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Formative Assessment]]"
   - "[[Progressive Education]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -80,7 +82,7 @@ updated: '2026-05-18'
 ## Cowen 的扩展：EBE 作为主权委托机制
 
 
-[[Argument_Cowen_2019_ERE|Cowen (2019)]] 将 Tullock 模型应用于[[Evidence-Based Education|证据本位教育]]（EBE），论证 EBE 的吸引力不在于认识论优越性，而在于**官僚便利性**（bureaucratic convenience）：
+[[Argument_Cowen_2019_ERE|Cowen (2019)]] 将 Tullock 模型应用于[[Evidence-Based Education|证据本位教育]]（EBE），论证 EBE 的吸引力不在于[[Epistemology|认识论]]优越性，而在于**官僚便利性**（bureaucratic convenience）：
 
 - [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]要求事先确定标准（假设、结果指标、检索协议），对主权者**透明**
 - 主权者无需评估专家资质、理解研究细节或判断特定干预 —— 只需要求"什么有效"（what works）
@@ -97,19 +99,19 @@ updated: '2026-05-18'
 > [!note-] 发展脉络
 > - **1965/2005** — Tullock 在 *The Politics of Bureaucracy* 中提出官僚制的知识问题模型
 > - **1968/1994** — Niskanen 提出官僚预算最大化模型（与 Tullock 不同，Niskanen 假设官僚自利）；Dunleavy (1991) 提出官僚 career-driven 模型
-> - **2019** — Cowen 将 Tullock 模型扩展至 [[Evidence-Based Education|EBE]]，从公共选择角度解释[[Experimental Research|实验研究]]范式为何占据主导
+> - **2019** — Cowen 将 Tullock 模型扩展至 [[Evidence-Based Education|EBE]]，从公共选择角度解释[[Experimental Research|实验研究]][[Paradigm|范式]]为何占据主导
 
 ## 与其他理论的对比
 
 
 - **vs Niskanen 预算最大化** — Tullock 关注的不是自利/寻租，而是**纯粹认知挑战**：即使所有官僚真诚追求共同善，知识问题依然存在
 - **vs 委托代理理论（Principal-Agent Theory）** — 重叠但有区别：Tullock 更强调信息处理的认知局限（[[Bounded Rationality]]），而非激励冲突
-- **vs Biesta 的 [[Evidence-Based Education|EBE]] 批判** — 互补：Biesta 从认识论/存在论识别 EBE 的缺陷；Cowen 从**制度逻辑**解释 EBE 为何在缺陷已知的情况下仍被选择
+- **vs Biesta 的 [[Evidence-Based Education|EBE]] 批判** — 互补：Biesta 从[[Epistemology|认识论]]/存在论识别 EBE 的缺陷；Cowen 从**制度逻辑**解释 EBE 为何在缺陷已知的情况下仍被选择
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：方法个体主义（methodological individualism）+ [[Bounded Rationality|有限理性]]（bounded rationality）
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：方法个体主义（methodological individualism）+ [[Bounded Rationality|有限理性]]（bounded rationality）
 > - **所属传统**：公共选择理论（Public Choice）、奥地利经济学知识问题传统（Hayek, 1945）
 
 ## 争议与批评

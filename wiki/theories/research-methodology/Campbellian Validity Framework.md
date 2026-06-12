@@ -17,6 +17,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[External Validity]]"
   - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Multimethod Research]]"
   - "[[Construct]]"
@@ -121,8 +123,8 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
 > - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[Single-Case Design|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **常用方法**：RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
 
@@ -131,7 +133,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - **[[External Validity|外部效度]]的结构性不对称**：[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462, 467)]] 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
 > - **在实践中更多是门控工具而非推广工具**：[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
-> - **[[Single-Case Design|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])——这意味着框架在面对 SCD 时面临额外的社会认识论障碍，不仅仅是方法论障碍
+> - **[[Single-Case Design|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])——这意味着框架在面对 SCD 时面临额外的社会[[Epistemology|认识论]]障碍，不仅仅是方法论障碍
 
 ## 相关研究
 

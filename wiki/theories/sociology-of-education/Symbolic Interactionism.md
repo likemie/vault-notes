@@ -11,8 +11,12 @@ tags:
   - theory/sociological
   - paradigm/interpretive
   - theme/social-psychology
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Interpretive Paradigm]]"
+  - "[[Student-Teacher Relationship]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Ethnomethodology]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -73,7 +77,7 @@ Woods（1983: 15–16）进一步总结了符号互动论的重点强调（pp.57
 
 ## 与其他诠释传统的区别
 
-符号互动论与现象学和俗民方法学同属诠释范式的三大研究传统。它们之间的区别在于（pp.534–586）：
+符号互动论与[[Phenomenology|现象学]]和[[Ethnomethodology|俗民方法学]]同属[[Interpretive Paradigm|诠释范式]]的三大研究传统。它们之间的区别在于（pp.534–586）：
 
 - **现象学**关注意识的结构和经验的直接把握，通过"悬置"（epoché）摆脱日常预设
 - **俗民方法学**关注人们如何使日常世界变得"理性上可说明"，聚焦于语言使用和社会情境的协商
@@ -83,7 +87,7 @@ Woods（1983: 15–16）进一步总结了符号互动论的重点强调（pp.57
 
 ## 在教育研究中的应用
 
-符号互动论为教育研究者提供了一套分析课堂互动、师生关系、同伴文化和学校组织生活的有力工具。例如：
+符号互动论为教育研究者提供了一套分析课堂互动、[[Student-Teacher Relationship|师生关系]]、同伴文化和学校组织生活的有力工具。例如：
 
 - 分析课堂中的"协商秩序"——教师和学生如何通过互动共同建构课堂规则和期望
 - 理解学生如何"定义情境"并据此行动——例如"学校无聊"的定义如何塑造逃学行为

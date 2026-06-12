@@ -15,6 +15,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Professional Judgment]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Luhmann's Systems Theory]]"
@@ -65,4 +66,4 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管理学（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学实践的认识论基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学实践的[[Epistemology|认识论]]基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置

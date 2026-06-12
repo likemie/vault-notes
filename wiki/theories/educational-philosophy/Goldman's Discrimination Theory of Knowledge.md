@@ -15,7 +15,10 @@ tags:
 related_concepts:
   - "[[Tracking]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Causality]]"
+  - "[[Ontology]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -67,8 +70,8 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - 认识论立场：分析认识论（Analytic Epistemology），外部主义（Externalism）——知识不仅依赖于主体内部状态（信念、证成），还依赖于外部环境中的事实（是否存在相关替代状态）
+> [!info] 研究[[Paradigm|范式]]
+> - [[Epistemology|认识论]]立场：分析认识论（Analytic Epistemology），外部主义（Externalism）——知识不仅依赖于主体内部状态（信念、证成），还依赖于外部环境中的事实（是否存在相关替代状态）
 > - 常用方法：思想实验、概念分析
 
 ## 争议与批评
@@ -78,7 +81,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 对教育研究的适用
-> Goldman 的理论最初针对感知知识（perceptual knowledge），Wiliam 将其延伸至教育[[Causality|因果推断]]。这一延伸是否合法？感知知识的替代方案（纸糊谷仓 vs 真谷仓）与教育因果推断的替代方案（教师质量效应 vs [[Tracking|能力分组]]效应）在本体论上有显著差异。前者是二元的（真假），后者涉及多因素交互的复杂因果场。
+> Goldman 的理论最初针对感知知识（perceptual knowledge），Wiliam 将其延伸至教育[[Causality|因果推断]]。这一延伸是否合法？感知知识的替代方案（纸糊谷仓 vs 真谷仓）与教育因果推断的替代方案（教师质量效应 vs [[Tracking|能力分组]]效应）在[[Ontology|本体论]]上有显著差异。前者是二元的（真假），后者涉及多因素交互的复杂因果场。
 
 
 > [!warning] 过于严格的标准？

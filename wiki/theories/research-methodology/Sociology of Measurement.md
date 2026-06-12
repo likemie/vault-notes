@@ -17,6 +17,7 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Science and Technology Studies]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 从批判到干预
-> Gorur 论证，仅指出数字是"简化论的"或"不准确的"是不够的——那些批判来自再现论（representationalist）而非生产论（productive/performative）的理解。测量社会学要求从认识论批判转向政治论和存在论（ontological）的干预([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])。
+> Gorur 论证，仅指出数字是"简化论的"或"不准确的"是不够的——那些批判来自再现论（representationalist）而非生产论（productive/performative）的理解。测量社会学要求从[[Epistemology|认识论]]批判转向政治论和存在论（ontological）的干预([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])。
 
 
 > [!warning] 道德使命

@@ -12,10 +12,14 @@ tags:
 - epistemology
 - paradigm/constructivist
 related_concepts:
+  - "[[Ontology]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Classroom Management]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Interpretive Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -40,13 +44,13 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 批判实在论（Critical Realism）是由 [[Roy Bhaskar]] (1978, 1979) 发展的科学哲学，主张实在（real）、实际（actual）和经验（empirical/phenomenal）之间的本体论区分。因果力属于"深层实在"（deep real），可能在开放系统中被其他力量或环境因素触发或阻断，以致未能实际化（actualise）或被感知。
+> 批判实在论（Critical [[Ontology|realism]]）是由 [[Roy Bhaskar]] (1978, 1979) 发展的科学哲学，主张实在（real）、实际（actual）和经验（empirical/phenomenal）之间的本体论区分。因果力属于"深层实在"（deep real），可能在开放系统中被其他力量或环境因素触发或阻断，以致未能实际化（actualise）或被感知。
 >
 > > "Causal forces belong to the 'deep' reality, and may be triggered or blocked by other forces or by aspects of the environment in which they attempt to materialise." ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117, summarising Bhaskar, 1978]]; Sayer, 2000, pp. 10–19)
 
 ## 理论内部结构
 
-> [!abstract] 三层本体论（Bhaskar, 1978）
+> [!abstract] 三层[[Ontology|本体论]]（Bhaskar, 1978）
 > 批判实在论区分三个本体论层次([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])：
 >
 > 1. **实在（The Real）**：深层因果机制和结构——无论我们是否感知到它们。这些因果力可能被触发或阻断，可能无法实际化。
@@ -77,7 +81,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1978** — [[Roy Bhaskar]] 出版 *A Realist Theory of Science*，提出批判实在论的科学哲学基础，区分三层本体论和开放/封闭系统
+> - **1978** — [[Roy Bhaskar]] 出版 *A Realist Theory of Science*，提出批判实在论的科学哲学基础，区分三层[[Ontology|本体论]]和开放/封闭系统
 > - **1979** — Bhaskar 在 *The Possibility of Naturalism* 中将批判实在论扩展至人文科学和社会科学，论证社会结构的涌现性和因果解释在社会领域的特殊性
 > - **2000** — Andrew Sayer 出版 *Realism and Social Science*，为社会科学研究者提供批判实在论的方法论指南，系统讨论还原论问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])
 > - **2006** — [[Ray Pawson]] 出版 *Evidence-based Policy: A Realist Perspective*，将批判实在论应用于证据本位政策的分析，提出实在论综合（realist synthesis）作为[[Meta-analysis|元分析]]的替代方案([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115, 122]])
@@ -86,8 +90,8 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：反经验主义、反实证主义。知识不是对世界的透明再现——观察总是在概念框架内进行，且深层因果机制可能不直接可观察。
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：反经验主义、[[Interpretive Paradigm|反实证主义]]。知识不是对世界的透明再现——观察总是在概念框架内进行，且深层因果机制可能不直接可观察。
 > - **常用方法**：强调因果机制的解释（而非仅规则性测量）、[[Qualitative Observation|质性观察]]和理论建构的作用。与 Pawson 的实在论综合（realist synthesis）兼容——研究综述应基于因果理论而非统计平均。
 
 ## 争议与批评
@@ -106,5 +110,5 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Evidence-Based Education]] — 批判实在论为 EBE 方法论批判提供了认识论和本体论基础
+> - [[Evidence-Based Education]] — 批判实在论为 EBE 方法论批判提供了[[Epistemology|认识论]]和[[Ontology|本体论]]基础
 

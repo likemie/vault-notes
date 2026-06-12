@@ -13,6 +13,8 @@ tags:
 related_concepts:
   - "[[Progressive Education]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
@@ -49,7 +51,7 @@ updated: '2026-06-02'
 > [!abstract] 1. [[Progressive Education|进步教育]]运动
 > 以学生参与和[[Constructivist Paradigm|建构主义]]学习观为核心的进步教育运动在全球传播，被广泛推广为各国课程改革的核心方向。在 [[Liberal Studies|LS]] 案例中，这是创立阶段的主要论述资源。
 >
-> > 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 记录了 LS 创立阶段教育文件中对**以学生为中心**、**跨学科探究**、**批判性思维**、**独立专题探究（IES）**的反复强调——这些措辞直接源自进步教育运动的全球话语，并通过 IBDP 的课程框架（Extended Essay、Theory of Knowledge）获得具体形式。然而，当 LS 在 2021 年被 [[Citizenship and Social Development|CSD]] 取代时，这些进步教育话语被爱国守法、国家认同等国家安全话语完全覆盖——说明进步教育运动作为课程变革驱动力在高压政治语境下的脆弱性。
+> > 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 记录了 LS 创立阶段教育文件中对**以学生为中心**、**跨学科探究**、**批判性思维**、**独立专题探究（IES）**的反复强调——这些措辞直接源自进步教育运动的全球话语，并通过 IBDP 的课程框架（Extended Essay、[[Epistemology|theory of knowledge]]）获得具体形式。然而，当 LS 在 2021 年被 [[Citizenship and Social Development|CSD]] 取代时，这些进步教育话语被爱国守法、国家认同等国家安全话语完全覆盖——说明进步教育运动作为课程变革驱动力在高压政治语境下的脆弱性。
 
 
 > [!abstract] 2. 冷战与国防
@@ -89,8 +91,8 @@ updated: '2026-06-02'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：批判理论 —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：批判理论 —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
 > - **常用方法**：[[Historical Document Analysis of Curriculum]]、Document Analysis
 
 ## 争议与批评

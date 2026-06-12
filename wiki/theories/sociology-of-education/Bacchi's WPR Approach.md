@@ -16,7 +16,9 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
+  - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Postpositivism]]"
 related_theories: []
 related_methods: []
@@ -62,8 +64,8 @@ updated: 2026-06-06
 ## 认识论立场
 
 > [!info]
-> - 本体论：[[Constructivist Paradigm|社会建构主义]]，问题不是客观存在而是通过话语被建构
-> - 认识论：[[Postpositivism|后实证主义]]，质疑政策的中立性和客观性
+> - [[Ontology|本体论]]：[[Constructivist Paradigm|社会建构主义]]，问题不是客观存在而是通过话语被建构
+> - [[Epistemology|认识论]]：[[Postpositivism|后实证主义]]，质疑政策的中立性和客观性
 > - 分析立场：关注被沉默的议题往往比被纳入的议题更能揭示权力运作的方向
 
 ---

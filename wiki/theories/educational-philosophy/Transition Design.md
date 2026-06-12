@@ -11,8 +11,11 @@ tags:
 - wicked-problems
 - social-change
 related_concepts:
+  - "[[Ontology]]"
   - "[[Variable]]"
+  - "[[Epistemology]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Paradigm]]"
   - "[[Posthumanism]]"
   - "[[Mondialisation]]"
 related_theories:
@@ -33,7 +36,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 转型设计（Transition Design）是 [[Arturo Escobar]] 在 *Designs for the Pluriverse* (2018) 中系统阐述的社会变革框架。其核心主张是一个本体论命题：**转型不是被设计出来的，而是涌现的**。
+> 转型设计（Transition Design）是 [[Arturo Escobar]] 在 *Designs for the Pluriverse* (2018) 中系统阐述的社会变革框架。其核心主张是一个[[Ontology|本体论]]命题：**转型不是被设计出来的，而是涌现的**。
 >
 > > "The literature on transitions makes it clear that transitions are not designed but emergent. They depend on a mix of interacting processes, both self-organizing and other-organized (by humans)."（Escobar, 2018, p.152，引自 Amos, 2022, p.61）
 >
@@ -70,10 +73,10 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [!info] 认识论立场
-> - 本体论：反本质主义——世界不是由一个单一世界（universe）构成，而是由多元世界（pluriverse）构成。设计不创造"解决方案"（在单一世界中优化），而是参与"世界的制造"（在多元世界中共同生成）
+> [!info] [[Epistemology|认识论]]立场
+> - [[Ontology|本体论]]：反本质主义——世界不是由一个单一世界（universe）构成，而是由多元世界（pluriverse）构成。设计不创造"解决方案"（在单一世界中优化），而是参与"世界的制造"（在多元世界中共同生成）
 > - 认识论：强调跨学科和跨知识传统的整合——科学知识与[[Local Knowledge in Evidence-Based Policy|地方知识]]、原住民宇宙论、替代叙事（非进步和非完美性）应该自由整合
-> - 方法论核心：从"设计作为问题解决"到"设计作为世界制造"的范式转换
+> - 方法论核心：从"设计作为问题解决"到"设计作为世界制造"的[[Paradigm|范式转换]]
 >
 
 ## 争议与批评

@@ -14,6 +14,9 @@ tags:
 related_concepts:
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
   - "[[Professional Judgment]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
@@ -75,8 +78,8 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - 认识论立场：科学实在论——承认因果机制真实存在且可被研究，但反对简单的实证主义归纳
+> [!info] 研究[[Paradigm|范式]]
+> - [[Epistemology|认识论]]立场：科学实在论——承认因果机制真实存在且可被研究，但反对简单的[[Positivism|实证主义]]归纳
 > - 分析方法：概念分析 + 案例研究 + 政策分析
 > - 不依赖定量数据，而是对 [[Randomised Controlled Trials|RCT]] 方法论的逻辑结构进行哲学剖析
 

@@ -17,6 +17,8 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemic Governance]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -115,7 +117,7 @@ updated: '2026-06-08'
 > [!success]
 > - 在比较教育和高等教育研究领域：Meyer 的[[World Society Theory|世界社会理论]]是 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 分析大学在全球治理中角色的核心理论资源——Zapp 用 [[Otherhood]] 解释大学为何在去中心化的全球治理中占据独特位置，用 actorhood 解释大学从象牙塔向完全组织的转型，用世界社会理论解释全球治理为何依赖大学的知识权威([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145, 148–149]])
 > - 在组织社会学领域：Bromley & Meyer (2015) 的 [[Organizational Actorhood]] 四维度模型已成为分析大学、国际组织、NGO 等非国家行动者组织变迁的标准化框架
-> - 在国际关系学领域：世界社会理论与[[Constructivist Paradigm|建构主义]] IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从硬治理向 [[Epistemic Governance|知识治理]] 的范式转移——观念、规范和[[Cultural Models|文化模型]]而非军事和经济实力，成为分析全球化与全球治理的核心范畴([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
+> - 在国际关系学领域：世界社会理论与[[Constructivist Paradigm|建构主义]] IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从硬治理向 [[Epistemic Governance|知识治理]] 的[[Paradigm|范式转移]]——观念、规范和[[Cultural Models|文化模型]]而非军事和经济实力，成为分析全球化与全球治理的核心范畴([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 > - 斯坦福学派的研究网络——包括 Francisco Ramirez、David P. Baker、Patricia Bromley、David John Frank 等——持续扩展和深化了世界社会理论在跨国比较研究中的应用，覆盖教育、组织、人权、环境等多个政策领域
 
 ---
@@ -123,6 +125,6 @@ updated: '2026-06-08'
 
 > [!warning]
 > - **对权力和冲突的低估**：[[Argument_Zapp_2022_Springer|Zapp (2022)]] 指出，[[World Society Theory|世界社会理论]]倾向于强调全球[[Cultural Models|文化模型]]的扩散与同构，可能低估国家权力、地缘政治冲突和市场逻辑对组织行为的持续塑造作用（pp.155–157）
-> - **去殖民批判**：后殖民和去殖民学者可能批评 Meyer 的普世主义隐含了西方中心的认识论预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
+> - **去殖民批判**：后殖民和去殖民学者可能批评 Meyer 的普世主义隐含了西方中心的[[Epistemology|认识论]]预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
 
 ---

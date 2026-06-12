@@ -12,8 +12,10 @@ tags:
   - subject/comparative-education
   - theme/geopolitics
 related_concepts:
+  - "[[Ontology]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -33,7 +35,7 @@ updated: 2026-06-08
 ## 核心主张
 
 > [!tip]
-> Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（realism）、理性主义（rationalism）和[[Revolutionism|革命主义]]（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能([[Argument_Klerides_2023_CE|Klerides, 2023, p.417]])。
+> Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（[[Ontology|realism]]）、理性主义（rationalism）和[[Revolutionism|革命主义]]（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能([[Argument_Klerides_2023_CE|Klerides, 2023, p.417]])。
 
 > [!quote]
 > "international society is nothing but the great powers"（Wight, 1992, p.32）
@@ -80,7 +82,7 @@ updated: 2026-06-08
 ## 认识论立场
 
 > [!info]
-> - 分析层次：宏观的国际体系层次，关注国际社会的结构形态如何塑造其中行动者的行为可能性和思维范式。
+> - 分析层次：宏观的国际体系层次，关注国际社会的结构形态如何塑造其中行动者的行为可能性和思维[[Paradigm|范式]]。
 > - 三大传统作为"理想类型"，并非对经验现实的直接描述，而是用于揭示思想传统如何塑造认知和实践的分析工具。
 
 ---

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Ontology]]"
   - "[[Spatial Sortings]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -69,7 +70,7 @@ updated: 2026-06-02
 ## 认识论立场
 
 > [!info]
-> - **[[Critical Realism|批判实在论]]**（Critical Realism）：文化政治经济学承认符号和物质维度都是实在的，但拒绝将任何一方还原为另一方。这与后结构主义（仅承认话语/文本的实在性）和经济决定论（仅承认物质/经济基础的实在性）形成区别。
+> - **[[Critical Realism|批判实在论]]**（Critical [[Ontology|realism]]）：文化政治经济学承认符号和物质维度都是实在的，但拒绝将任何一方还原为另一方。这与后结构主义（仅承认话语/文本的实在性）和经济决定论（仅承认物质/经济基础的实在性）形成区别。
 > - **常用研究方法**：批判话语分析（Critical Discourse Analysis, Fairclough, 2003）、[[Comparative Case Study|比较案例研究]]（Bartlett & Vavrus, 2017）——[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 即结合此二方法操作化文化政治经济学框架（pp.202–204）。
 
 ---

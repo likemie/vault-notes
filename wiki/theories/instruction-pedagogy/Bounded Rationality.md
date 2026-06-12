@@ -9,6 +9,8 @@ tags:
 - decision-making
 - organizational-theory
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
@@ -53,14 +55,14 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - 认识论立场：认知心理学与组织理论交叉——拒绝完全理性假设，但保留理性作为[[Analytic Framework|分析框架]]
+> [!info] 研究[[Paradigm|范式]]
+> - [[Epistemology|认识论]]立场：认知心理学与组织理论交叉——拒绝完全理性假设，但保留理性作为[[Analytic Framework|分析框架]]
 > - 与教育学的关系：[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 将有限的理性与 Luhmann & Schorr 的"技术赤字"概念并置，共同构成[[Professional Judgment|专业判断]]的理论基础
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 有限理性理论虽然挑战了完全理性假设，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、实践认识论）可能从根本上质疑"理性"作为理解专业实践的核心概念
+> - 有限理性理论虽然挑战了完全理性假设，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、实践[[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
 
 ## 应用领域
 
