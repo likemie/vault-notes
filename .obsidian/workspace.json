@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
+                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Critiques of Visible Learning"
+              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge"
             }
           }
         ]
@@ -192,9 +192,10 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
+    "wiki/facts/russia/Akademgorodok.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
     "wiki/research-map.md",
-    "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
     "wiki/templates/template-argument.md",
     "wiki/persons/france/Auguste Comte.md",
     "wiki/persons/usa/Thomas Kuhn.md",
@@ -215,7 +216,6 @@
     "books/Cohen_Manion_Morrison_2011_Routledge",
     "raw/Louis Cohen, Lawrence Manion, Keith Morrison, Richard Bell - Research Methods in Education (Routledge Ltd) - libgen.li.epub",
     "raw/013_1 The nature of enquiry_ setting the field.txt",
-    "wiki/facts/russia/Akademgorodok.md",
     "wiki/concepts/political-economy-geopolitics/State Vertical.md",
     "wiki/persons/russia/Trofim Lysenko.md",
     "wiki/concepts/political-economy-geopolitics/Ideological Capture of Science.md",
