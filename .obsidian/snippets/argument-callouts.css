@@ -2313,45 +2313,118 @@
 
 .callout[data-callout="def"] {
   --callout-color: 75, 60, 150;
-  --callout-icon: lucide-book-2;
+  --callout-icon: lucide-bookmark;
+  position: relative;
+  overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(75, 60, 150, 0.07), rgba(75, 60, 150, 0.01) 60%),
+    linear-gradient(135deg, rgba(75, 60, 150, 0.08), rgba(75, 60, 150, 0.02) 55%),
     var(--background-primary);
   border: 1px solid rgba(75, 60, 150, 0.20);
   border-left: 6px solid rgb(75, 60, 150);
-  box-shadow: 0 4px 12px rgba(75, 60, 150, 0.07);
+  border-radius: 10px;
+  padding: 1.0rem 1.15rem;
+  box-shadow:
+    0 4px 12px rgba(75, 60, 150, 0.07),
+    inset 1px 0 0 rgba(75, 60, 150, 0.04);
+}
+
+/* 左侧色条发光 */
+.callout[data-callout="def"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 6px;
+  height: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(75, 60, 150, 0.55) 0%,
+    rgba(75, 60, 150, 0.25) 40%,
+    rgba(75, 60, 150, 0.10) 100%
+  );
+  border-radius: 10px 0 0 10px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* 右上角 § 水印 */
+.callout[data-callout="def"]::after {
+  content: "§";
+  position: absolute;
+  top: -0.6rem;
+  right: 0.4rem;
+  color: rgba(75, 60, 150, 0.06);
+  font-size: 6rem;
+  font-weight: 900;
+  font-style: italic;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
 }
 
 .callout[data-callout="def"] > .callout-title {
   color: rgb(75, 60, 150);
   font-weight: 650;
+  font-size: 1.02em;
   letter-spacing: 0.01em;
+  position: relative;
+  z-index: 1;
 }
 
 .callout[data-callout="def"] > .callout-title .callout-title-inner::before {
   content: "DEF";
   display: inline-block;
   margin-right: 0.5rem;
-  padding: 2px 7px;
+  padding: 2px 8px;
   border-radius: 4px;
-  background: rgba(75, 60, 150, 0.12);
+  background: rgba(75, 60, 150, 0.14);
   color: rgb(75, 60, 150);
-  font-size: 0.68em;
+  font-size: 0.66em;
   font-weight: 750;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.10em;
   vertical-align: middle;
 }
 
 .callout[data-callout="def"] > .callout-content {
-  line-height: 1.70;
+  line-height: 1.72;
+  position: relative;
+  z-index: 1;
 }
 
+.callout[data-callout="def"] > .callout-content p:first-of-type {
+  font-weight: 520;
+  color: rgba(var(--color-base-100), 0.92);
+}
+
+/* ─── 嵌套：def 内部的概念对 ─── */
+.callout[data-callout="def"] .callout[data-callout="line-a"],
+.callout[data-callout="def"] .callout[data-callout="line-b"] {
+  border-left-color: rgba(75, 60, 150, 0.45);
+}
+
+/* ─── Dark theme ─── */
 .theme-dark .callout[data-callout="def"] {
   border-left-color: rgb(175, 169, 236);
   border-color: rgba(175, 169, 236, 0.28);
   background:
-    linear-gradient(135deg, rgba(175, 169, 236, 0.10), rgba(175, 169, 236, 0.02) 60%),
+    linear-gradient(135deg, rgba(175, 169, 236, 0.11), rgba(175, 169, 236, 0.02) 55%),
     var(--background-primary);
+  box-shadow:
+    0 4px 12px rgba(175, 169, 236, 0.08),
+    inset 1px 0 0 rgba(175, 169, 236, 0.05);
+}
+
+.theme-dark .callout[data-callout="def"]::before {
+  background: linear-gradient(
+    180deg,
+    rgba(175, 169, 236, 0.55) 0%,
+    rgba(175, 169, 236, 0.25) 40%,
+    rgba(175, 169, 236, 0.10) 100%
+  );
+}
+
+.theme-dark .callout[data-callout="def"]::after {
+  color: rgba(175, 169, 236, 0.07);
 }
 
 .theme-dark .callout[data-callout="def"] > .callout-title {
@@ -2359,8 +2432,12 @@
 }
 
 .theme-dark .callout[data-callout="def"] > .callout-title .callout-title-inner::before {
-  background: rgba(175, 169, 236, 0.15);
+  background: rgba(175, 169, 236, 0.17);
   color: rgb(175, 169, 236);
+}
+
+.theme-dark .callout[data-callout="def"] > .callout-content p:first-of-type {
+  color: rgba(235, 235, 245, 0.92);
 }
 
 
