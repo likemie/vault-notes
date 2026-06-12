@@ -49,7 +49,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在认识论、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
+> [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在[[Epistemology|认识论]]、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
 >
 > > “因此，重要的问题不在于证据在专业行动中是否应该发挥作用，而在于它应该发挥什么样的作用。”
 > ("The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play.") (p. 492)
@@ -57,7 +57,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **Dewey 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research|实验研究]]无法产生未来确定性的知识
+> - **Dewey 的交易[[Epistemology|认识论]]（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research|实验研究]]无法产生未来确定性的知识
 > - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
 > - **教育的 teleological 特征** — 教育是目的性（telos-driven）实践，价值先于效果
@@ -67,7 +67,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：[[Philosophical Analysis in Education]] — 以三个维度（认识论、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
+> - **方法**：[[Philosophical Analysis in Education]] — 以三个维度（[[Epistemology|认识论]]、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构**：每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
 > - **数据来源**：哲学文献（Dewey、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
 
@@ -76,7 +76,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 三重缺陷框架
 >
-> Biesta 在认识论、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提假设。
+> Biesta 在[[Epistemology|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提假设。
 >
 > **第一重：知识缺陷（Knowledge Deficit）——认识论维度**
 >
@@ -90,7 +90,7 @@ citation_aliases:
 >
 > **第二重：效力缺陷（Efficacy Deficit）——存在论维度**
 >
-> - "什么有效"的讨论假设了**机械论存在论**（mechanistic ontology）：在封闭的决定论系统中，[[Causality|因果关系]]是线性的、可预测的
+> - "什么有效"的讨论假设了**机械论存在论**（mechanistic [[Ontology]]）：在封闭的决定论系统中，[[Causality|因果关系]]是线性的、可预测的
 > - 但教育是**开放的、递归的、符号的系统**：
 >   - 开放：与外部环境互动
 >   - 递归：学生和教师基于自己的理解和解释行动（[[Reflexivity|反思性]]）
@@ -163,7 +163,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > ### 哲学论证的实操距离
 >
-> **批评内容**：Biesta 的论证停留在哲学层面（认识论、存在论、实践论的概念分析），未提供[[Value-Based Education|价值本位教育]]如何在教师教育和课堂实践层面具体操作的路线图。Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。
+> **批评内容**：Biesta 的论证停留在哲学层面（[[Epistemology|认识论]]、存在论、实践论的概念分析），未提供[[Value-Based Education|价值本位教育]]如何在教师教育和课堂实践层面具体操作的路线图。Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。
 >
 > **影响**：此局限使得 Biesta 的论文更多被用作批判武器（"为什么 [[Evidence-Based Education|EBE]] 不可行"），而非建设性方案（"如何实施价值本位教育"）。其在教师群体中的直接影响力有限。
 >

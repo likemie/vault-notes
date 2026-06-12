@@ -53,7 +53,7 @@ updated: '2026-06-08'
 > - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
 > - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础([[Argument_Simpson_2017_JEP|Simpson, 2017]])
 > - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（category error）**（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）
-> - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education|EBE]] 支持者防御策略分析，将效应量批判推进为完整的认识论论证([[Argument_Simpson_2019_ERE|Simpson, 2019]])
+> - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education|EBE]] 支持者防御策略分析，将效应量批判推进为完整的[[Epistemology|认识论]]论证([[Argument_Simpson_2019_ERE|Simpson, 2019]])
 > - **2021** — 以技术评论"Benchmarking a Misnomer"批评 Kraft（2020）的效应量基准，核心批评包括跨研究效应量本质不可比、经验基准过低；[[Argument_Kraft_2023_ER|Kraft (2023)]]回应称两人共同警惕按效应量强弱制作教育干预"联盟表"，但仍在基准是否有政策解释价值上存在分歧([[Argument_Kraft_2023_ER|Kraft, 2023, p.184]])
 
 ## 主要著作
@@ -66,7 +66,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Simpson 的[[Effect Size|效应量]]批判在 2017–2019 年间经历了从技术论证到认识论论证的演进，以下按时序呈现。
+> Simpson 的[[Effect Size|效应量]]批判在 2017–2019 年间经历了从技术论证到[[Epistemology|认识论]]论证的演进，以下按时序呈现。
 
 
 > [!info] 三大系统性偏差：效应量是试验灵敏度而非有效性（2017）
@@ -135,7 +135,7 @@ updated: '2026-06-08'
 >
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE]]
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])——详见 Argument_Wiliam_2019_ERE
-> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 VL 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 [[Visible Learning|VL]] 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
 >
 > **对政策工具的直接影响**：Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本分析单位，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
 

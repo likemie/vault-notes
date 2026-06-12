@@ -111,8 +111,8 @@ updated: '2026-05-21'
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
-> 元分析隐含经验主义认识论：假设通过对多个研究的[[Effect Size|效应量]]进行统计平均，可以产生关于干预有效性的可靠知识。[[Critical Realism|批判实在论]]从三层本体论（实在/实际/经验）角度批评这一假设——元分析停留在"经验"层面（观察到的效应量），未能深入"实在"层面（产生效应的因果机制及其激活条件）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 116–117]])。
+> [!abstract] [[Epistemology|认识论]]立场
+> 元分析隐含经验主义认识论：假设通过对多个研究的[[Effect Size|效应量]]进行统计平均，可以产生关于干预有效性的可靠知识。[[Critical Realism|批判实在论]]从三层[[Ontology|本体论]]（实在/实际/经验）角度批评这一假设——元分析停留在"经验"层面（观察到的效应量），未能深入"实在"层面（产生效应的因果机制及其激活条件）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 116–117]])。
 
 ## 操作步骤
 
@@ -155,7 +155,7 @@ updated: '2026-05-21'
 >
 > **[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 元分析在教育领域的五项方法论问题**
 >
-> [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp.96–98)]]在《可见的学习》出版同年识别了元分析在教育中应用的五项特有局限：
+> [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp.96–98)]]在《[[Visible Learning|可见的学习]]》出版同年识别了元分析在教育中应用的五项特有局限：
 >
 > 1. **偏差不受控**：设计不良研究的元分析（无论设计多好）不可避免地导致不可靠结论（p.96–97）
 > 2. **[[Publication Bias|发表偏差]]**：支持有利结论的研究更可能被发表——在药物公司资助的研究和利润丰厚的教育时尚（如学习风格）中尤其严重（p.97）
@@ -224,7 +224,7 @@ updated: '2026-05-21'
 >
 > > "如何为[[Purpose Statement|研究目的]]清晰区分一个'以教师为中心'和一个'以学生为中心'的课堂？在比较它们时，如何在一个嘈杂繁忙、可能有 30 多个参与者的课堂中控制所有变量？"([[Argument_Snook_2010_NZJES|Snook et al., 2010, p.96]])
 >
-> 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"([[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]])。Snook et al. 以 Nuthall 的 The Hidden Lives of Learners（基于数十年新西兰课堂研究）与 Hattie 的《可见的学习》（基于国际元分析）的书名对比，暗示两者在认识论取向上存在本质差异([[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]])。
+> 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"([[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]])。Snook et al. 以 Nuthall 的 The Hidden Lives of Learners（基于数十年新西兰课堂研究）与 Hattie 的《可见的学习》（基于国际元分析）的书名对比，暗示两者在[[Epistemology|认识论]]取向上存在本质差异([[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]])。
 >
 > 这一批评的核心在于：元分析在医学中成功运作的条件（概念清晰、设计标准化、机制可分离）在教育领域经常不成立——这不是方法论执行缺陷的问题，而是方法本身与研究对象之间的基础性不匹配。
 
@@ -330,7 +330,7 @@ updated: '2026-05-21'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Hattie_2015_Paideia]] — Hattie 回应《可见的学习》批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
+> - [[Argument_Hattie_2015_Paideia]] — Hattie 回应《[[Visible Learning|可见的学习]]》批评时把元分析解释为寻找调节[[Variable|变量]]和竞争解释的证据地图，而不是直接替教师做决策的排名表
 > - [[Argument_Hattie_2015_SOTLP]] — Hattie 将 1200 项元分析（65,000 多项研究）综合应用于高等教育，提出六项关键发现和八项思维框架
 > - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判

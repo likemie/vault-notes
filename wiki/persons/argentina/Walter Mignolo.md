@@ -47,7 +47,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家，杜克大学（Duke University）文学与文化研究教授，拉丁美洲现代性/殖民性研究项目（M/C Project）的核心成员。他是去殖民理论（decolonial theory）的奠基性人物，从 1990 年代起系统发展了"[[Geopolitics of Knowledge|知识地缘政治]]"（geopolitics of knowledge）概念的批判性分支，提出"殖民差异"（colonial difference）、"殖民性"（coloniality）、"边界思维"（border thinking）和"认识论不服从"（epistemic disobedience）等核心概念([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38, 50]])。
+> Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家，杜克大学（Duke University）文学与文化研究教授，拉丁美洲现代性/殖民性研究项目（M/C Project）的核心成员。他是去殖民理论（decolonial theory）的奠基性人物，从 1990 年代起系统发展了"[[Geopolitics of Knowledge|知识地缘政治]]"（geopolitics of knowledge）概念的批判性分支，提出"殖民差异"（colonial difference）、"殖民性"（coloniality）、"边界思维"（border thinking）和"[[Epistemology|认识论]]不服从"（epistemic disobedience）等核心概念([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38, 50]])。
 
 > Mignolo 的核心论证是：西方现代性与其"黑暗面"——殖民性——是同一历史进程的构成性两面。西方认识论通过殖民扩张获得了虚假的普遍性，系统性地压抑和否定了非西方世界的替代性知识传统和存在方式。因此，去殖民不仅是政治经济任务，更是认识论任务——需要在[[Knowledge Production|知识生产]]层面"去链接"（delink）西方认识论框架（Mignolo, 2002, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）。
 
@@ -69,7 +69,7 @@ updated: '2026-06-08'
 ### 1995 — *The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization*
 
 - APA：Mignolo, W. D. (1995). *The darker side of the Renaissance: Literacy, territoriality, and colonization*. University of Michigan Press.
-- 核心内容：通过分析文艺复兴时期语言、书写和地图制作在西班牙殖民美洲中的作用，揭示西方现代性从一开始就与殖民扩张和认识论暴力内在绑定。提出了"殖民差异"概念的早期形态。
+- 核心内容：通过分析文艺复兴时期语言、书写和地图制作在西班牙殖民美洲中的作用，揭示西方现代性从一开始就与殖民扩张和[[Epistemology|认识论]]暴力内在绑定。提出了"殖民差异"概念的早期形态。
 - 思想位置：代表早期思想形成阶段——从文学和符号学研究转向殖民性批判。
 
 ### 2000 — *Local Histories/Global Designs: Coloniality, Subaltern Knowledges, and Border Thinking*
@@ -107,7 +107,7 @@ updated: '2026-06-08'
 
 **2. [[Geopolitics of Knowledge|知识地缘政治]]与殖民差异（Colonial Difference）**
 
-西方认识论并非天然普遍，而是通过殖民扩张被强制普遍化的。知识地缘政治通过"殖民差异"——殖民者与被殖民者之间被建构的绝对等级差异——组织起来，系统性地将非西方知识贬低为"传统"、"民间"或"非科学"（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）。
+西方[[Epistemology|认识论]]并非天然普遍，而是通过殖民扩张被强制普遍化的。知识地缘政治通过"殖民差异"——殖民者与被殖民者之间被建构的绝对等级差异——组织起来，系统性地将非西方知识贬低为"传统"、"民间"或"非科学"（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）。
 
 **3. 边界思维与认识论不服从（Epistemic Disobedience）**
 
@@ -123,7 +123,7 @@ updated: '2026-06-08'
 > - 与 Enrique Dussel、Aníbal Quijano 共同开创了拉丁美洲现代性/殖民性（M/C）研究项目，将"殖民性"建立为一个独立于"殖民主义"的分析范畴
 > - 其"[[Geopolitics of Knowledge|知识地缘政治]]"概念被 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 整合进"新知识地缘政治"的[[Analytic Framework|分析框架]]，与[[Critical Geopolitics|批判地缘政治学]]并列为两大理论支柱([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–39]])
 > - [[Arturo Escobar]]（2018）和 Reiter（2019）将 Mignolo 的去殖民视角延伸至"多元世界"（pluriverse）的设计和建构
-> - [[Dell Delambre]] (2022) 将 Mignolo 的去殖民认识论从学术批判层面转化为社区实践层面的 [[Ganz-Methode]]——以巴西里约热内卢贫民窟剧场和[[Social Museology|社会博物馆学]]为实践[[Champ|场域]]，试图在"批判"和"建构"之间架设桥梁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–107, 109–110]])
+> - [[Dell Delambre]] (2022) 将 Mignolo 的去殖民[[Epistemology|认识论]]从学术批判层面转化为社区实践层面的 [[Ganz-Methode]]——以巴西里约热内卢贫民窟剧场和[[Social Museology|社会博物馆学]]为实践[[Champ|场域]]，试图在"批判"和"建构"之间架设桥梁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–107, 109–110]])
 > - [[Chen Kuan-Hsing]] (2010) 在 *Asia as Method* 中将 Mignolo 的去殖民思想应用于亚洲语境，提出"去帝国化、去殖民化、去冷战"三重任务
 
 ## 格言／关键表述
@@ -136,6 +136,6 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方认识论框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？[[Argument_Delambre_2022_Springer|Delambre (2022)]] 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证
+> - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方[[Epistemology|认识论]]框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？[[Argument_Delambre_2022_Springer|Delambre (2022)]] 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证
 > - 有批评者认为 Mignolo 的论证有时以西方认识论为唯一靶子，对非西方社会内部的认识论霸权和知识排斥（如性别、种姓、阶级）关注不足
 > - 其"边界思维"概念的操作性有限——如何在学术写作和教学中具体实践"在边界地带思考"，缺乏明确的方法论指引

@@ -55,7 +55,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Visible Learning]] — Terhart 接受 VL 综合的广度是空前的，但质疑其方法论严谨性和理论深度
-> - [[Evidence-Based Education|证据本位教育]]的认识论问题 — [[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]作为证据生产工具的根本局限
+> - [[Evidence-Based Education|证据本位教育]]的[[Epistemology|认识论]]问题 — [[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]作为证据生产工具的根本局限
 
 ## 研究方法
 
@@ -104,7 +104,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 本文是一篇书评，未提供独立的实证研究，论证基于对 Hattie 文本的批判性阅读
 > - 对 Hattie [[Didaktik|教学理论]]的批评部分基于德国 [[Bildung]]/Didaktik 传统，可能对英语读者不够直接可理解
-> - 承认 VL 的广度是空前的，且许多[[Effective Teaching|有效教学]]因素已被反复验证——"几乎所有的……都是近 10 年来……教科书的标准组成部分"(p.436)
+> - 承认 [[Visible Learning|VL]] 的广度是空前的，且许多[[Effective Teaching|有效教学]]因素已被反复验证——"几乎所有的……都是近 10 年来……教科书的标准组成部分"(p.436)
 
 ## 来源
 

@@ -2834,3 +2834,108 @@
     var(--background-primary);
   border-color: rgba(180, 140, 60, 0.32);
 }
+
+/* ─── proc（标准操作程序 — 步骤链） ──────────────────────
+   设计：slate-cyan 底色；ol > li 自动编号圆徽章；
+   垂直连接线贯穿步骤列表；白底环形隔离连接线与徽章
+   适用：多步操作程序、算法流程、实验步骤
+   ─────────────────────────────────────────────────────── */
+.callout[data-callout="proc"] {
+  --callout-color: 30, 100, 130;
+  --callout-icon: lucide-list-ordered;
+  background:
+    linear-gradient(135deg, rgba(30, 100, 130, 0.08), rgba(30, 100, 130, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(30, 100, 130, 0.22);
+  border-left: 6px solid rgb(30, 100, 130);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(30, 100, 130, 0.07);
+}
+
+.callout[data-callout="proc"] > .callout-title {
+  color: rgb(25, 88, 115);
+  font-weight: 650;
+  letter-spacing: 0.015em;
+  border-bottom: 1px solid rgba(30, 100, 130, 0.14);
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.1rem;
+}
+
+/* ─── 步骤列表容器 ──────────────────────────────────── */
+.callout[data-callout="proc"] > .callout-content > ol {
+  counter-reset: proc-n;
+  list-style: none;
+  padding-left: 3rem;
+  margin: 0.5rem 0 0.2rem;
+  position: relative;
+}
+
+/* 垂直连接线 — 两端渐隐，与徽章中心对齐 */
+.callout[data-callout="proc"] > .callout-content > ol::before {
+  content: "";
+  position: absolute;
+  left: 0.82rem;
+  top: 1.55rem;
+  bottom: 1.45rem;
+  width: 2px;
+  border-radius: 1px;
+  background: linear-gradient(
+    to bottom,
+    rgba(30, 100, 130, 0)    0%,
+    rgba(30, 100, 130, 0.38) 10%,
+    rgba(30, 100, 130, 0.38) 90%,
+    rgba(30, 100, 130, 0)   100%
+  );
+}
+
+/* ─── 单步条目 ──────────────────────────────────────── */
+.callout[data-callout="proc"] > .callout-content > ol > li {
+  counter-increment: proc-n;
+  position: relative;
+  padding: 0.58rem 1rem 0.58rem 0.5rem;
+  margin-bottom: 0.14rem;
+  border-radius: 6px;
+  line-height: 1.74;
+  transition: background 0.12s ease;
+}
+
+.callout[data-callout="proc"] > .callout-content > ol > li:hover {
+  background: rgba(30, 100, 130, 0.06);
+}
+
+/* 步骤编号徽章 — 白色环形隔离，使徽章浮于连接线之上 */
+.callout[data-callout="proc"] > .callout-content > ol > li::before {
+  content: counter(proc-n);
+  position: absolute;
+  left: -2.18rem;
+  top: 0.65rem;
+  width: 1.58rem;
+  height: 1.58rem;
+  border-radius: 50%;
+  background: rgb(30, 100, 130);
+  color: #fff;
+  font-size: 0.72em;
+  font-weight: 800;
+  line-height: 1.58rem;
+  text-align: center;
+  box-shadow: 0 0 0 3px var(--background-primary);
+  z-index: 1;
+}
+
+/* ─── 暗模式 ────────────────────────────────────────── */
+.theme-dark .callout[data-callout="proc"] {
+  --callout-color: 80, 160, 195;
+  background:
+    linear-gradient(135deg, rgba(30, 100, 130, 0.14), rgba(30, 100, 130, 0.04)),
+    var(--background-primary);
+  border-color: rgba(80, 160, 195, 0.28);
+  border-left-color: rgb(80, 160, 195);
+}
+
+.theme-dark .callout[data-callout="proc"] > .callout-title {
+  color: rgb(100, 175, 210);
+}
+
+.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li::before {
+  background: rgb(70, 145, 180);
+}

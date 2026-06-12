@@ -63,7 +63,7 @@ updated: '2026-06-08'
 > Bourdieu 的社会学不是单一“再生产理论”，而是一套关系性实践理论：行动者并非完全自由的选择者，也不是结构的机械产物；实践是在特定[[Champ|场域]]中，由[[Habitus|习性]]、资本分布和场域规则共同生成的。
 
 > [!warning]- 来源边界
-> 当前正式来源主要支撑三部分：Bourdieu 在教育领导力/教育行政研究中的应用（Eacott 2011）、其认识论预备在教育行政中的意义（Eacott 2015）、以及中国高等教育研究中对其实践理论的再运用（[[Yajun Zheng|郑雅君]] 2023）。通用传记与完整书目主要据现有 clipping 整理，待后续补入正式传记或 Bourdieu 原典 source record 后可继续补页码。
+> 当前正式来源主要支撑三部分：Bourdieu 在教育领导力/教育行政研究中的应用（Eacott 2011）、其[[Epistemology|认识论]]预备在教育行政中的意义（Eacott 2015）、以及中国高等教育研究中对其实践理论的再运用（[[Yajun Zheng|郑雅君]] 2023）。通用传记与完整书目主要据现有 clipping 整理，待后续补入正式传记或 Bourdieu 原典 source record 后可继续补页码。
 
 ---
 
@@ -75,7 +75,7 @@ updated: '2026-06-08'
 ### 早年与哲学训练
 
 - **1930** — 出生于法国 Béarn 地区 Denguin 小镇，家庭出身使其始终对阶层上升、学校选拔和文化合法性问题保持敏感。
-- **1951–1954** — 就读巴黎高等师范学院，接受哲学训练；在萨特式存在主义与马克思主义主导的法国学术环境中，转向哲学史和认识论传统。
+- **1951–1954** — 就读巴黎高等师范学院，接受哲学训练；在萨特式存在主义与马克思主义主导的法国学术环境中，转向哲学史和[[Epistemology|认识论]]传统。
 - **1954** — 通过哲学教师资格考试，随后短暂注册哲学博士论文，但最终没有沿纯哲学道路发展。
 
 ---
@@ -129,7 +129,7 @@ updated: '2026-06-08'
 
 ### 场域、语言与反思性社会学
 
-- Bourdieu, P., Chamboredon, J.-C., & Passeron, J.-C. (1968/1991). *The Craft of Sociology: Epistemological Preliminaries*. — 阐述[[Epistemological Break|认识论断裂]]、[[Epistemological Vigilance|认识论警觉]]和研究对象建构问题；[[Argument_Eacott_2015_EPT|Eacott (2015, p.313)]]将其视为教育行政研究中常被忽略的 Bourdieu 认识论维度。
+- Bourdieu, P., Chamboredon, J.-C., & Passeron, J.-C. (1968/1991). *The Craft of Sociology: Epistemological Preliminaries*. — 阐述[[Epistemological Break|认识论断裂]]、[[Epistemological Vigilance|认识论警觉]]和研究对象建构问题；[[Argument_Eacott_2015_EPT|Eacott (2015, p.313)]]将其视为教育行政研究中常被忽略的 Bourdieu [[Epistemology|认识论]]维度。
 - Bourdieu, P. (1982). *Ce que parler veut dire: l'économie des échanges linguistiques*. Fayard. — 将资本和场域框架延伸至语言交换，分析语言的符号权力。
 - Bourdieu, P. (1984). *Homo academicus*. Minuit. — 以学术世界为对象实践[[Reflexivity|反思性]]社会学。
 - Bourdieu, P. (1989). *La Noblesse d'État: grandes écoles et esprit de corps*. Minuit. — 分析法国精英大学校与国家权力的关系，提出学校化再生产模式。
@@ -175,7 +175,7 @@ updated: '2026-06-08'
 
 ### 认识论预备
 
-Bourdieu 的社会理论包含一套系统的认识论预备。[[Argument_Eacott_2015_EPT|Eacott (2015)]]指出，教育行政研究中许多 Bourdieu 式研究只使用[[Champ|场域]]、[[Habitus|习性]]和资本等工具，却忽略了更根本的认识论预备问题([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.313–314]])。
+Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。[[Argument_Eacott_2015_EPT|Eacott (2015)]]指出，教育行政研究中许多 Bourdieu 式研究只使用[[Champ|场域]]、[[Habitus|习性]]和资本等工具，却忽略了更根本的认识论预备问题([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.313–314]])。
 
 - **[[Epistemological Break|认识论断裂]]**：科学研究必须与日常语言、自发理解和既有分类决裂，否则只是认可 doxa([[Argument_Eacott_2015_EPT|Eacott, 2015, p.320]])。
 - **[[Epistemological Vigilance|认识论警觉]]**：社会科学研究者必须持续警惕日常语言和熟悉经验对研究对象建构的渗透([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.322–323]])。
@@ -250,7 +250,7 @@ Bourdieu 的社会理论包含一套系统的认识论预备。[[Argument_Eacott
 
 - [[Argument_Eacott_2011_JEAH|Eacott (2011)]]将 Bourdieu 的[[Champ|场域]]、[[Habitus|习性]]、[[Doxa]]和资本框架用于分析澳大利亚 NSW 校长培养，指出管理主义将校长建构为“国家改革的交付者”，而非公共教育问题的提出者和争辩者([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
 - 该研究将[[School Leadership|学校领导力]] doxa 描述为一套经济语言、证据本位、最佳实践和绩效问责组合，说明教育场域正在被经济和政治场域渗透([[Argument_Eacott_2011_JEAH|Eacott, 2011, pp.49–54]])。
-- [[Argument_Eacott_2015_EPT|Eacott (2015)]]进一步把 Bourdieu 的认识论预备引入教育行政研究，主张教育行政学者需要反思自身对研究对象的熟悉性、领域身份和“领导力”神圣标签([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.317–324]])。
+- [[Argument_Eacott_2015_EPT|Eacott (2015)]]进一步把 Bourdieu 的[[Epistemology|认识论]]预备引入教育行政研究，主张教育行政学者需要反思自身对研究对象的熟悉性、领域身份和“领导力”神圣标签([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.317–324]])。
 
 ---
 
@@ -314,6 +314,6 @@ Bourdieu 的写作以密度高、句子复杂著称，增加了经验应用和�
 
 ### 与英美教育研究的距离
 
-尽管 Bourdieu 在欧洲大陆影响深远，英美主流教育领导力研究（尤其是科学/实证主义流派）长期忽视其工作。
+尽管 Bourdieu 在欧洲大陆影响深远，英美主流教育领导力研究（尤其是科学/[[Positivism|实证主义]]流派）长期忽视其工作。
 
 ---

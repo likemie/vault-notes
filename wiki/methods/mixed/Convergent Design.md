@@ -80,7 +80,7 @@ updated: 2026-06-02
 ## 3. 认识论立场
 
 > [!abstract] [[Pragmatic Paradigm|实用主义]] ([[Pragmatism in China|pragmatism]])
-> 聚敛式设计通常扎根于[[Pragmatic Paradigm|实用主义范式]]，强调什么有效（what works）来解决[[Research Question|研究问题]]。它不追求量化或质性范式的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
+> 聚敛式设计通常扎根于[[Pragmatic Paradigm|实用主义范式]]，强调什么有效（what works）来解决[[Research Question|研究问题]]。它不追求量化或质性[[Paradigm|范式]]的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
 
 ---
 

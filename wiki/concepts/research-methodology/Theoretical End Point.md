@@ -76,5 +76,5 @@ updated: 2026-05-31
 
 - [[Theoretical Standpoint]] — 与研究起点的理论透镜相对
 - [[Grounded Theory]] — 扎根理论是理论终点最典型的实现形式
-- [[Qualitative Research]] — 质性研究的归纳逻辑是理论终点的认识论基础
+- [[Qualitative Research]] — 质性研究的归纳逻辑是理论终点的[[Epistemology|认识论]]基础
 

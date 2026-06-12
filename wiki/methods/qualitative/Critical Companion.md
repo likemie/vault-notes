@@ -32,7 +32,7 @@ updated: 2026-05-21
 > [!info]
 > 批判性伴随（critical companion）是 Zelinka（2022, p.254）在分析 21 世纪技能与素养话语（[[Single-Case Design|SCD]]）时采用的一种质性话语分析方法。其核心特征是与所分析的全球话语保持"伴随"关系——不提供传统的系统性[[Literature Review|文献综述]]，而是对政策框架进行批判性检视，识别其核心特征、共同模式和盲点([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]])。
 
-该方法的命名暗示了其认识论姿态：研究者不是站在话语外部进行"客观分析"，而是以批判性的态度"伴随"话语运作，揭示话语如何框定思维与行动的可能性——即[[Discursive Opportunity Structures|话语性机会结构]]（Parreira do Amaral & Dale, 2015, cit. by Zelinka, 2022, p.253）。
+该方法的命名暗示了其[[Epistemology|认识论]]姿态：研究者不是站在话语外部进行"客观分析"，而是以批判性的态度"伴随"话语运作，揭示话语如何框定思维与行动的可能性——即[[Discursive Opportunity Structures|话语性机会结构]]（Parreira do Amaral & Dale, 2015, cit. by Zelinka, 2022, p.253）。
 
 ## 认识论立场
 

@@ -69,17 +69,17 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **居民作为主角**（protagonism of residents）：社会博物馆学的第一原则——社区成员自己选择展品、自己讲述故事、自己决定什么记忆值得保存。这与专家策展的传统博物馆模式构成根本对立([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
-> - **口述性作为[[Knowledge Production|知识生产]]核心**（orality as knowledge production）：口述传统（而非书写文本）是知识生产和智慧传播的核心方式。这与非洲和拉丁美洲的口述传统一脉相承，在认识论层面抵抗了欧洲中心主义的书写至上假设([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
+> - **口述性作为[[Knowledge Production|知识生产]]核心**（orality as knowledge production）：口述传统（而非书写文本）是知识生产和智慧传播的核心方式。这与非洲和拉丁美洲的口述传统一脉相承，在[[Epistemology|认识论]]层面抵抗了欧洲中心主义的书写至上假设([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - **抵抗记忆抹除**（resistance to memory erasure）：社会博物馆学的实践动力来自对霸权系统系统性抹除地方历史的抵抗。巴西贫民窟、原住民社区和非裔巴西人社区通过博物馆实践为其被边缘化的历史创造可见性和合法性([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
 > - **与[[Life Power|生命力量]]的关联**：当居民通过博物馆选择什么记忆值得保存、什么故事值得讲述时，他们正在实践性地定义"什么使我们的存在有意义"——这一过程被 Delambre 分析为 [[Life Power|生命力量]] 的发现和培育([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 113–116]])
-> - **与 [[Ganz-Methode]] 的契合**：社会博物馆学的操作逻辑与 Ganz-Methode 两步法 高度对应——承载新旧博物馆学范式的张力（步骤一），通过居民自主策展和叙事发现生命力量（步骤二）。详见 [[Ganz-Methode]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 112–113]])
+> - **与 [[Ganz-Methode]] 的契合**：社会博物馆学的操作逻辑与 Ganz-Methode 两步法 高度对应——承载新旧博物馆学[[Paradigm|范式]]的张力（步骤一），通过居民自主策展和叙事发现生命力量（步骤二）。详见 [[Ganz-Methode]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 112–113]])
 
 ## 理论基础
 
 > [!tip]
-> - [[Creative Tension of Sense]] — 新旧博物馆学范式之间的张力是"意义张力"在文化制度领域的呈现。社会博物馆学实践展示了一种在旧秩序（专家权威）内部培育新范式（社区权威）的方式([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–111]])
+> - [[Creative Tension of Sense]] — 新旧博物馆学[[Paradigm|范式]]之间的张力是"意义张力"在文化制度领域的呈现。社会博物馆学实践展示了一种在旧秩序（专家权威）内部培育新范式（社区权威）的方式([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–111]])
 > - [[Ganz-Methode]] — 社会博物馆学的操作逻辑与 Ganz-Methode 两步法契合，是该方法的实证基础之一([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 112–113]])
-> - [[Decolonial Geopolitics of Knowledge]] — 社会博物馆学是 Mignolo 式去殖民认识论在博物馆制度内的具体实践：以社区居民的知识权威替代西方博物馆学的专家权威([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 110]])
+> - [[Decolonial Geopolitics of Knowledge]] — 社会博物馆学是 Mignolo 式去殖民[[Epistemology|认识论]]在博物馆制度内的具体实践：以社区居民的知识权威替代西方博物馆学的专家权威([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 110]])
 
 ## 实证发现
 

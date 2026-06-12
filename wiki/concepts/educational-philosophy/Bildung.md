@@ -67,7 +67,7 @@ updated: 2026-05-20
 
 Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互作用（interdependency）"——这一交互既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界（Humboldt, 1956/1793, p.29, cited in Jornitz & Klinge, 2022, p.239）。Nordenbo（2002, p.341）则强调 Bildung 概念包含一个"主动内核"——一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung；换言之，Bildung 不能被外部灌输，只能由主体主动参与其自身的形成过程([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.237]])。
 >
-> 1960-70 年代，Bildung 概念以批判性教育学的形式进入丹麦语境，被用于批判威权式、自上而下的教育决策和强制社会化模式。但自 1990 年代起，学习范式被资本主义逻辑吸收，Bildung 的批判性被边缘化([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8]])。
+> 1960-70 年代，Bildung 概念以批判性教育学的形式进入丹麦语境，被用于批判威权式、自上而下的教育决策和强制社会化模式。但自 1990 年代起，学习[[Paradigm|范式]]被资本主义逻辑吸收，Bildung 的批判性被边缘化([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8]])。
 >
 > [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 将 Bildung 置入芬兰教育史：18 世纪末以来，德国唯心主义和浪漫主义通过 Fichte、Schelling、Herder、Hegel 等思想传入芬兰，并由 Johan Jakob Tengström 和 Johan Wilhelm Snellman 等人继续发展。Bildung 在芬兰现代教育想象中把个体自我形成、代际文化传递和开放未来联系起来：教育既要把文化交给下一代，又不能把教育简化为对既有规范的再生产([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.5-6]])。
 
@@ -94,7 +94,7 @@ Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互�
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Luhmann's Systems Theory]] — Larsen 运用 Luhmann 的盲点概念论证 VL 范式对教育本体论的盲视
+> - [[Luhmann's Systems Theory]] — Larsen 运用 Luhmann 的盲点概念论证 [[Visible Learning|VL]] [[Paradigm|范式]]对教育[[Ontology|本体论]]的盲视
 > - 德国精神科学传统 — Humboldt, Herder, Kant, Hegel, Nietzsche 等构成 Bildung 的思想渊源([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])
 > - [[Dietrich Benner]] — 当代德国教育学家，继承并发展 Bildung 传统，区分 Bildung 与 Erziehung，提出修正版教学三角模型([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.122–123]])
 > - [[Phenomenology]] — Bildung 与现象学都把教育理解为生活经验、意义生成和人与世界对话的实践([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 11]])
@@ -103,7 +103,7 @@ Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互�
 ## 实证发现
 
 > [!success] 实证发现
-> 丹麦 Maglegård School（Gentofte）曾悬挂"我们的学习是可见的"巨幅标语并采用 VL 项目，这一案例可作为 Bildung 被学习范式取代的具象例证([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.1]])。
+> 丹麦 Maglegård School（Gentofte）曾悬挂"我们的学习是可见的"巨幅标语并采用 [[Visible Learning|VL]] 项目，这一案例可作为 Bildung 被学习[[Paradigm|范式]]取代的具象例证([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.1]])。
 
 ## 争议与批评
 
@@ -116,6 +116,6 @@ Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互�
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Danish Public School Reform]] — 丹麦 2014 年公立学校改革将近 3000 个"学习目标"嵌入课程，Larsen 以此作为学习范式制度化、Bildung 被挤压的典型案例([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2]])
+> - [[Danish Public School Reform]] — 丹麦 2014 年公立学校改革将近 3000 个"学习目标"嵌入课程，Larsen 以此作为学习[[Paradigm|范式]]制度化、Bildung 被挤压的典型案例([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2]])
 > - [[Finnish National Core Curriculum]] — 芬兰课程中的 [[Phenomenon-Based Learning|PhBL]] 可理解为 Bildung、[[Didaktik]]、[[Phenomenology|现象学]]和[[Constructivist Paradigm|建构主义]]等多重传统的汇合，同时也受到全球测量与问责话语的牵引([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.8-10]])
 

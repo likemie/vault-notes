@@ -89,7 +89,7 @@ updated: '2026-05-18'
 > - **Steiner-Khamsi (2012)** — 主编 *World Yearbook of Education 2012*，系统化政策借用与借出分析框架；区分"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流）
 > - **Forestier & Crossley (2015)** — 将框架应用于香港与英格兰之间的"双向借用"
 > - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 IBDP 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科整合和独立探究元素，但排除其国际化知识观和批判性哲学内核
-> - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** — 以 VL 在俄罗斯的翻译出版引入、学界争论到被建议拒绝为案例，展示政策借用的完整分析逻辑：全球论述引入 → 本地支持者以"科学合法性"论证 → 本地批评者基于方法论、文化和制度匹配度建议拒绝
+> - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** — 以 [[Visible Learning|VL]] 在俄罗斯的翻译出版引入、学界争论到被建议拒绝为案例，展示政策借用的完整分析逻辑：全球论述引入 → 本地支持者以"科学合法性"论证 → 本地批评者基于方法论、文化和制度匹配度建议拒绝
 > - **[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]** — 以香港 LS 创立（2009）与废除（2021）为案例，展示政策借用框架对创立阶段的解释力，同时揭示其在高压政治语境下的失效边界
 
 ## 核心要素
@@ -103,7 +103,7 @@ updated: '2026-05-18'
 
 2. **合法化功能**：全球话语的主要功能是为有争议的国内决定提供合法性保护——政府不是"从外部学习"，而是用外部话语给已决定的方案穿上"国际认可"的外衣。
 
-> 例：香港 [[Liberal Studies|LS]] 的课程设计大量引用 IBDP 的跨学科探究和[[Constructivist Paradigm|建构主义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"知识理论"（Theory of Knowledge）相类比——不是为了准确复制 [[International Baccalaureate|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])
+> 例：香港 [[Liberal Studies|LS]] 的课程设计大量引用 IBDP 的跨学科探究和[[Constructivist Paradigm|建构主义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"知识理论"（[[Epistemology|theory of knowledge]]）相类比——不是为了准确复制 [[International Baccalaureate|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])
 
 3. **问题的社会建构**：Steiner-Khamsi (2012) 揭示的核心机制——政府往往是**先确定"解决方案"（如跨学科必修科设计），再建构与之匹配的"问题"（教育体系陈旧、不适应[[Knowledge-Based Economy|知识经济]]）**。这一"方案先行、问题后建"的顺序是政策借用框架区别于"理性政策学习"模型的关键经验预测。
 
@@ -179,15 +179,15 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 
 ## 研究范式
 
-> [!info] 研究范式
-> - **认识论立场**：批判理论、比较教育政治学 —— 政策不是中立的"最佳实践"转移，而是政治权力的运作；研究者的任务是揭示借用行为背后的权力关系和政治动机
+> [!info] 研究[[Paradigm|范式]]
+> - **[[Epistemology|认识论]]立场**：批判理论、比较教育政治学 —— 政策不是中立的"最佳实践"转移，而是政治权力的运作；研究者的任务是揭示借用行为背后的权力关系和政治动机
 > - **常用方法**：跨国[[Comparative Case Study|比较案例研究]]、过程追踪、[[Historical Document Analysis of Curriculum]]、政策文件分析、话语分析
 
 ## 实证发现
 
 > [!success] 实证发现
 > - **香港 [[Liberal Studies|LS]] 创立与废除（最完整案例）**：[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。创立阶段（2009）：港府以"[[Lifelong Learning|终身学习]]""[[Knowledge-Based Economy|知识经济]]"和 IBDP 话语论证改革的必要性，但这些全球论述被用来解决本地政治问题——政府合法性下降、过剩教师就业缺口、学制调整需求。废除阶段（2021）：全球论述完全消失，《国安法》后的"国家安全"成为唯一逻辑，政策借用框架失去分析对象。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–491]])
-> - **VL 在俄罗斯的借用与拒绝**：Hattie 的 VL 于 2017 年在俄罗斯翻译出版后受到学界热烈欢迎，Borisenko（2018）称其为"主要出版事件"，Sokolova（2017）将 VL 与 FSES 标准联系起来。然而 Golovchin（2019）基于三重理由——方法论缺陷（变差系数 Vσ=56.87% 远超 33% 同质性阈值）、文化不匹配（教师"去专业化"风险）、官僚化威胁（RANEPA 2018 年全俄监测 79% 教师报告报表工作量显著增加）——建议俄教育政策不予采用。该案例展示了政策借用框架的完整分析逻辑：全球论述被引入 → 本地支持者以"科学合法性"论证必要性 → 本地批评者基于方法论、文化、制度匹配度分析建议拒绝。([[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp. 229–241]])
+> - **[[Visible Learning|VL]] 在俄罗斯的借用与拒绝**：Hattie 的 VL 于 2017 年在俄罗斯翻译出版后受到学界热烈欢迎，Borisenko（2018）称其为"主要出版事件"，Sokolova（2017）将 VL 与 FSES 标准联系起来。然而 Golovchin（2019）基于三重理由——方法论缺陷（变差系数 Vσ=56.87% 远超 33% 同质性阈值）、文化不匹配（教师"去专业化"风险）、官僚化威胁（RANEPA 2018 年全俄监测 79% 教师报告报表工作量显著增加）——建议俄教育政策不予采用。该案例展示了政策借用框架的完整分析逻辑：全球论述被引入 → 本地支持者以"科学合法性"论证必要性 → 本地批评者基于方法论、文化、制度匹配度分析建议拒绝。([[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp. 229–241]])
 > - **芬兰 [[PISA]] 借用**：英国、新加坡等全球教育体系大量借用芬兰模式的话语，但实际转化有限，说明"借用话语"与"实施实践"之间存在显著鸿沟。（You & Morris, 2016）
 > - **中国晚清对日本教育的借用（历史案例）**：[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 记录了中国在甲午战争后大规模借用日本教育体系的案例——改革派视日本为现代化成功典范，保守派视日本为保存儒家秩序的范例，这种"不可能联盟"使借用得以大规模推进（Abe, 1987; Hayhoe, 1992，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233–234]]）。该案例表明，当对立阵营出于不同理由都同意外国范例是好模型时，吸引力最有可能转化为实际借用。
 
@@ -231,5 +231,5 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 > - [[Argument_Rappleye_2006_RCIE]] — 提出[[Cross-National Attraction|跨国吸引]]力情境概念地图，为政策借用第一阶段提供系统化分析工具
 > - Forestier et al. (2016) — LS 与 IBDP 的系统逐项比较，揭示选择性借用的具体机制
 > - You & Morris (2016) — 英格兰如何参照东亚模式论证[[School Autonomy|学校自主权]]改革
-> - [[Argument_Golovchin_2019_ESC]] — VL 在俄罗斯的政策借用分析，展示方法论与文化匹配度如何导致建议拒绝借用
+> - [[Argument_Golovchin_2019_ESC]] — [[Visible Learning|VL]] 在俄罗斯的政策借用分析，展示方法论与文化匹配度如何导致建议拒绝借用
 

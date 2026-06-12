@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 技术理性（Technical Rationality）是实证主义（Positivism）的遗产——一种在 19 世纪兴起的强大哲学教条，既是科学和技术崛起的叙事，也是旨在将科学和技术的成就应用于人类福祉的社会运动（Schön, 1983, p. 31, cited in Nielsen & Klitmøller, 2021, p. 82）。
+> 技术理性（Technical Rationality）是[[Positivism|实证主义]]（Positivism）的遗产——一种在 19 世纪兴起的强大哲学教条，既是科学和技术崛起的叙事，也是旨在将科学和技术的成就应用于人类福祉的社会运动（Schön, 1983, p. 31, cited in Nielsen & Klitmøller, 2021, p. 82）。
 >
 > > "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind." (Schön, 1983, p. 31)
 >
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **19 世纪** — 实证主义哲学兴起，科学和技术被视为解决人类问题的根本途径
+> - **19 世纪** — [[Positivism|实证主义]]哲学兴起，科学和技术被视为解决人类问题的根本途径
 > - **1983** — [[Donald A. Schön|Donald Schön]] 出版 *The Reflective Practitioner*，系统阐述技术理性概念及其在专业实践中的局限，提出"[[Reflexivity|反思性]]实践者"作为替代模型
 > - **1976** — Habermas 出版 *Legitimation Crisis*，论证技术理性作为国家治理媒介替代传统共识理性的过程
 > - **1984** — Habermas 出版 *The Theory of Communicative Action*，发展系统/生活世界的二元框架，进一步阐述技术理性的制度功能
@@ -80,8 +80,8 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
-> - 认识论立场：实证主义——假设关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
+> [!info] 研究[[Paradigm|范式]]
+> - [[Epistemology|认识论]]立场：[[Positivism|实证主义]]——假设关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
 > - 与[[Evidence-Based Education|证据本位教育]]（EBE）的关系：技术理性是 EBE 运动的深层理论内核——EBE 的医学类比和方法论偏好（[[Randomised Controlled Trials|RCT]]、[[Effect Size|效应量]]、[[Systematic Review|系统综述]]）都源于技术理性对专业实践的理解
 
 ## 争议与批评
@@ -90,7 +90,7 @@ updated: '2026-05-18'
 > Schön 论证技术理性在"无序"实践情境中存在根本局限——真实世界的专业实践充满了不确定性、不稳定性和价值冲突，这些"沼泽地"问题正是技术理性的方法无法处理的。他提出**[[Reflexivity|反思性]]实践（reflective practice）**作为替代模型。
 
 
-> [!warning] 教育本体论的不兼容性
+> [!warning] 教育[[Ontology|本体论]]的不兼容性
 > Nielsen & Klitmøller (2021, pp. 88-89) 论证技术理性在教育中产生系统性盲点：
 > - **消除意向性（Intentionality）**：学生和教师被原子化为[[Variable|变量]]，作为意义寻求者和解释者的主体性被消除（Nielsen & Klitmøller, 2021, p. 88）
 > - **学习目标不容讨论**：在技术理性框架下，学习目标被预设且不可讨论——"the learning objective sanctifies the means of teaching"（Nielsen & Klitmøller, 2021, pp. 88-89）

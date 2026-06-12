@@ -134,8 +134,8 @@ updated: '2026-05-21'
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
-> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主义认识论假设——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层本体论（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])。
+> [!abstract] [[Epistemology|认识论]]立场
+> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主义认识论假设——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层[[Ontology|本体论]]（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])。
 >
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]从认识论角度提出根本性质疑：将已聚合的结果再次聚合在原则上是否合理——"当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？"
 >
@@ -296,7 +296,7 @@ updated: '2026-05-21'
 > **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——数据库质量异质性与纳入标准不透明。** 三个具体问题([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.428–429]])：(1) **质量异质性**——纳入的元分析"可能有且确实有不同的针对个体研究的严格纳入标准"，数据库的纯粹规模令人印象深刻但质量非常异质；(2) **纳入标准不透明**——Hattie 未"向读者提供关于他在决定某研究是否纳入时使用的质量标准的准确信息"；(3) **时效性问题**——多数元分析来自 1980s–1990s，考虑原始研究平均约 5 年前发表，"原始数据库的大部分大概不是最新的"。
 
 
-> [!warning] 认识论困境与角色争议
+> [!warning] [[Epistemology|认识论]]困境与角色争议
 > **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——稳定性与变异性的双重困境。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在《可见的学习》出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。
 >
 > **[[Argument_Wiliam_2019_ERE|Wiliam (2019)]]——元-元分析在教育政策中绝对没有任何角色。** [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]做出了[[Evidence-Based Education|证据本位教育]]批判文献中对元-元分析最彻底的否定：
@@ -351,8 +351,8 @@ updated: '2026-05-21'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education|证据本位教育]]的认识论假设 — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了证据本位教育的根本问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
-> - [[Critical Realism|批判实在论]] — 从三层本体论角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])
+> - [[Evidence-Based Education|证据本位教育]]的[[Epistemology|认识论假设]] — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了证据本位教育的根本问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
+> - [[Critical Realism|批判实在论]] — 从三层[[Ontology|本体论]]角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])
 
 ---
 

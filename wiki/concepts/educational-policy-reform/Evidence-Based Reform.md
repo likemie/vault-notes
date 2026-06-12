@@ -140,7 +140,7 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 
 ### 开发-评估-推广范式（Development-Evaluation-Dissemination Paradigm）
 
-[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 提出：一旦建立了**可复制的开发→严格评估→复制→推广范式**，这一机制可适用于任何教育干预领域——从各科各级教学到特殊教育、资优教育、辍学预防、英语学习者、种族关系、毒品预防、暴力预防等。随着时间推移，每个领域都将经历医学和农业所特有的"逐步、不可逆的进步"，因为创新在被推荐广泛应用之前将受到严格评估标准的约束。
+[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 提出：一旦建立了**可复制的开发→严格评估→复制→推广[[Paradigm|范式]]**，这一机制可适用于任何教育干预领域——从各科各级教学到特殊教育、资优教育、辍学预防、英语学习者、种族关系、毒品预防、暴力预防等。随着时间推移，每个领域都将经历医学和农业所特有的"逐步、不可逆的进步"，因为创新在被推荐广泛应用之前将受到严格评估标准的约束。
 
 > 例：Slavin 本人的 [[Success for All]] 项目被用作此范式的案例——该项目基于 1970s–1980s 的过程-产品[[Observational and Correlational Research|相关性研究]]开发，经过多轮实验评估和改进，最终成为 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]]; Slavin & Madden, 2001)。
 
@@ -178,7 +178,7 @@ Ross 与 Morrison 对三条件框架作了一个实践层面的补充：即使�
 
 - **1998** — CSR 项目：首次将联邦教育拨款与有效性证据挂钩([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 通过，"科学本位研究"进入联邦教育法律核心文本([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **2002** — Slavin 在 *Educational Researcher* 发表 "[[Evidence-Based Education]] Policies"，首次系统主张证据本位改革，提出开发-评估-推广范式和"基于研究 vs 经评估"的区分
+- **2002** — Slavin 在 *Educational Researcher* 发表 "[[Evidence-Based Education]] Policies"，首次系统主张证据本位改革，提出开发-评估-推广[[Paradigm|范式]]和"基于研究 vs 经评估"的区分
 - **2009** — [[Investing in Innovation Program|i3]]（Investing in Innovation）拨款项目启动，采用分层证据结构（scale-up / validation / development），累计投入 USD 1.4B，资助 171 项目
 - **2015** — ESSA（Every Student Succeeds Act）通过，正式定义强、中、有希望、基于原理四级证据标准，替代 NCLB([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 - **2017** — Evidence for ESSA 网站上线，与 ESSA 标准对齐
@@ -245,7 +245,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 ### 中国学者对证据本位研究的质疑
 
-[[Argument_Slavin_2021_ROE|Slavin et al. (2021, p.15-17)]] 首次在英文文献中系统翻译和呈现了中国学者对证据本位研究范式的五类内部质疑（所有引用均来自中文文献）：
+[[Argument_Slavin_2021_ROE|Slavin et al. (2021, p.15-17)]] 首次在英文文献中系统翻译和呈现了中国学者对证据本位研究[[Paradigm|范式]]的五类内部质疑（所有引用均来自中文文献）：
 
 **1. 定义之争：广义 vs 狭义"实证"**
 
@@ -290,7 +290,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 - **[[Argument_Slavin_2019_EP|Slavin (2019, p. 9)]]**：这不是对方法的特权，而是"方法匹配问题"——当问题是"与替代方案相比这个项目是否有效"时，实验是最佳设计。不同的[[Research Question|研究问题]]需要不同的方法。
 - **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]**：提出平衡立场——"长期来看，随机化和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的证据标准"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
 - **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]**：问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
-- **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：从制度逻辑出发——RCT 的"优先地位"并非认识论优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
+- **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：从制度逻辑出发——RCT 的"优先地位"并非[[Epistemology|认识论]]优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
 
 **目前状态**：方法多元论的呼声在学术界广泛存在([[Argument_Cowen_2019_ERE|Cowen, 2019]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]]; Hammersley, 2005)，但 ESSA 证据标准的法律效力已赋予 RCT 制度化的优先地位。
 

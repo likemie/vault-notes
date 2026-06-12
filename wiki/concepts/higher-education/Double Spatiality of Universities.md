@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Methodological Nationalism|方法论民族主义]]的"国家容器"观 — 方法论民族主义只看到大学的在地性（民族国家内的机构），双重空间性则同时承认大学的国家嵌入和全球开放性。Marginson 强调，批判方法论民族主义不等于否定国家的重要性——大学"几乎不可能不是国家的"([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]])
-> - vs 跨国高等教育（TNE） — TNE 通常指跨境办学和合作项目等具体活动形式，双重空间性则是对大学本体论特征的更深层描述：跨国活动只是这一双重性的外在表现
+> - vs 跨国高等教育（TNE） — TNE 通常指跨境办学和合作项目等具体活动形式，双重空间性则是对大学[[Ontology|本体论]]特征的更深层描述：跨国活动只是这一双重性的外在表现
 
 ---
 
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - [[Geopolitics of Knowledge]] — 双重空间性是理解大学如何在国家地缘政治竞争和全球知识合作之间运作的关键
-> - [[Internationalization of Higher Education]] — 国际化的深层基础正在于大学的双重空间性：大学的本体论特征使其天然倾向于跨境连接
+> - [[Internationalization of Higher Education]] — 国际化的深层基础正在于大学的双重空间性：大学的[[Ontology|本体论]]特征使其天然倾向于跨境连接
 
 ---
 

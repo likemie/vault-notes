@@ -65,7 +65,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> - [[Stokes' Quadrant Model of Scientific Research]]，以[[Use-Inspired Basic Research|巴斯德象限]]（[[Use-Inspired Basic Research|Pasteur's Quadrant]]）为国际 UI 合作提供认识论定位。大学的基础研究能力与产业的应用问题驱动相结合，合作自然落在"应用启发的基础研究"（use-inspired basic research）区间(p.310)
+> - [[Stokes' Quadrant Model of Scientific Research]]，以[[Use-Inspired Basic Research|巴斯德象限]]（[[Use-Inspired Basic Research|Pasteur's Quadrant]]）为国际 UI 合作提供[[Epistemology|认识论]]定位。大学的基础研究能力与产业的应用问题驱动相结合，合作自然落在"应用启发的基础研究"（use-inspired basic research）区间(p.310)
 > - [[Dollinger et al. Framework for UI Collaboration]]，从环境、技术和管理三个因素评估国际合作，提供操作性基准工具(pp.316–317)
 > - [[Triple Helix]]，Rossoni et al.(2023)以此为第一个[[Theoretical Perspective|理论视角]]评估 UI 合作的障碍因素，另两个视角为关系社会资本和[[Technology Transfer|技术转移]](p.316)
 
@@ -105,7 +105,7 @@ citation_aliases:
 ---
 
 > [!warning] 第二层：合作经验与渠道（Know-how）
-> 即使双方目标对齐，许多机构仍缺乏启动国际合作的实务经验(p.312)。具体表现为：不知道如何找到合适的技术专家、不了解对方的预算和决策日历、不清楚国际项目的合同范式和合规要求。
+> 即使双方目标对齐，许多机构仍缺乏启动国际合作的实务经验(p.312)。具体表现为：不知道如何找到合适的技术专家、不了解对方的预算和决策日历、不清楚国际项目的合同[[Paradigm|范式]]和合规要求。
 >
 > 可用的辅助工具包括 Halo（AI 驱动的产学研对接平台）、Elsevier SciVal（覆盖 24000 所研究机构的合作分析工具）、EU Funding and Tenders Portal（欧盟资助项目与研究者检索），以及美国 [[National Science Foundation|NSF]]、NIH、DOE 的资助数据库(pp.312–313)。这些工具解决的是"找谁合作"的问题，前提是双方已有初步合作意向。"为什么要合作"需要回到第一层的目标对齐。
 

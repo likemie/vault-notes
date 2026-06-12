@@ -43,7 +43,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 四种理解形式（Four Forms of Understanding）是 [[Robert Cowen]]（Cowen 2023）对比较教育学科长期并存的四种认识论立场的诊断。这四种形式同时存在、相互矛盾，每一种都带有不同的政治预设，但学科从未认真审视它们之间的冲突。
+> 四种理解形式（Four Forms of Understanding）是 [[Robert Cowen]]（Cowen 2023）对比较教育学科长期并存的四种[[Epistemology|认识论]]立场的诊断。这四种形式同时存在、相互矛盾，每一种都带有不同的政治预设，但学科从未认真审视它们之间的冲突。
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-06-06
 ### 第三种：[[Policy Science in Comparative Education|政策科学]]
 
 > [!info]
-> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典本体论争论中非常可见，代表人物包括 Brian Holmes 和 [[Edmund King]]，也出现在 2010 年后的世界教育年鉴中([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> 认为比较教育可以且应该是政策科学。这一理解形式在 1960 年代的经典[[Ontology|本体论]]争论中非常可见，代表人物包括 Brian Holmes 和 [[Edmund King]]，也出现在 2010 年后的世界教育年鉴中([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > 政治上并非中性。它是与权力的联盟，即与自由民主国家中所谓民主权力的联盟，这些国家应该在关键决策时刻寻求比较教育学者的建议([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 
@@ -103,7 +103,7 @@ updated: 2026-06-06
 
 > [!warning]
 > - **政治预设的隐蔽性**。四种理解形式都带有政治预设，但学科长期忽视这一点。求同存异的形式中性掩盖了对政治现象的忽视，[[Convergence Theory in Comparative Education|趋同理论]]的中性掩盖了对权力关系的忽视，[[Policy Science in Comparative Education|政策科学]]明确认同权力，结果导向服务于新自由主义定义([[Argument_Cowen_2023_CE|Cowen, 2023, pp.332–334]])。
-> - **共存而非替代**。这四种形式不是历史替代关系，而是同时并存的。学科从未认真审视它们之间的矛盾，也从未选择其中一种作为主导范式([[Argument_Cowen_2023_CE|Cowen, 2023, p.332]])。
+> - **共存而非替代**。这四种形式不是历史替代关系，而是同时并存的。学科从未认真审视它们之间的矛盾，也从未选择其中一种作为主导[[Paradigm|范式]]([[Argument_Cowen_2023_CE|Cowen, 2023, p.332]])。
 
 ---
 

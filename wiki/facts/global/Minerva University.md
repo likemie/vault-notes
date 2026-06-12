@@ -74,7 +74,7 @@ Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座
 - **有效沟通**（Effective Communication）
 - **有效互动**（Effective Interaction）
 
-Nelson 明确主张高等教育不应该是"艺术与科学"（arts and sciences）而应该是"科学与科学"（science and science）——将人文和艺术从高等教育目标中排除，仅保留可被"科学方法"验证的实用智识工具（Thompson & Parreira do Amaral, 2022, p.3）。
+Nelson 明确主张高等教育不应该是"艺术与科学"（arts and sciences）而应该是"科学与科学"（science and science）——将人文和艺术从高等教育目标中排除，仅保留可被"[[Scientific Method|科学方法]]"验证的实用智识工具（Thompson & Parreira do Amaral, 2022, p.3）。
 
 ### 技术平台：积极学习论坛（ALF）
 

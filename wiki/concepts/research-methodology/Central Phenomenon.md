@@ -78,7 +78,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]
-> 核心现象这一概念根植于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]]认识论立场。建构主义认为意义是个体通过与世界的互动和社会历史背景建构的，研究的价值在于理解参与者的多元和复杂视角。核心现象正是研究者进入这一理解过程的聚焦点——它不是一个需要"检验"的预设定理，而是一个需要"探索"的意义空间。
+> 核心现象这一概念根植于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]立场。建构主义认为意义是个体通过与世界的互动和社会历史背景建构的，研究的价值在于理解参与者的多元和复杂视角。核心现象正是研究者进入这一理解过程的聚焦点——它不是一个需要"检验"的预设定理，而是一个需要"探索"的意义空间。
 >
 > 在具体研究设计中，核心现象的定位方式因质性路径而异。[[Phenomenology|现象学]]中的核心现象是参与者共享的生活经验"本质"（essence）；[[Grounded Theory|扎根理论]]中核心现象可能演变为核心范畴（core category）；[[Ethnography|民族志]]中它嵌入文化群体共享的行为模式；[[Narrative Research|叙事研究]]中它是个体生活故事的组织线索([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.125–128]])。
 

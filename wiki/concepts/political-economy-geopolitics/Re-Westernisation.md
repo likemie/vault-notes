@@ -41,7 +41,7 @@ updated: 2026-06-08
 ## 定义
 
 > [!info]
-> 再西方化（re-Westernisation）是后殖民和去殖民批判中的一个概念，指世界在去殖民化之后并非走向真正的多元平等，而是按新资本主义知识积累教义重新回到西方的认识论和政治控制之下。这一概念与去西方化（dewesternisation）形成对照，在比较教育中用于揭示全球化主流话语如何忽视殖民遗产并沉默殖民性的当代延续([[Argument_Klerides_2023_CE|Klerides, 2023, p.428]])。
+> 再西方化（re-Westernisation）是后殖民和去殖民批判中的一个概念，指世界在去殖民化之后并非走向真正的多元平等，而是按新资本主义知识积累教义重新回到西方的[[Epistemology|认识论]]和政治控制之下。这一概念与去西方化（dewesternisation）形成对照，在比较教育中用于揭示全球化主流话语如何忽视殖民遗产并沉默殖民性的当代延续([[Argument_Klerides_2023_CE|Klerides, 2023, p.428]])。
 
 > [!quote]
 > "China's 'dewesternisation' shares with the 'rewesternisation' of the US 'the survival of capitalism', the confrontation takes place at other levels of the colonial matrix of power: the sphere of authority, of knowledge, and of subjectivity"（Mignolo 2011, p.47, cited in Klerides, 2023, p.430）

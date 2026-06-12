@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的认识论逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入高等教育地缘政治分析，用以解释"为什么高等教育的地缘政治关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
+> 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的[[Epistemology|认识论]]逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入高等教育地缘政治分析，用以解释"为什么高等教育的地缘政治关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
 
 > [!quote]
 > "Higher education and science have a partial autonomy — or 'semi-autonomy' — in the Gramscian sense. They are shaped by political economy, yet also evolve in their own right."([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
@@ -62,7 +62,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> - **认识论自主性** — 科学领域有自己独立的规范和评估标准（同行评议、引用影响、可重复性），不完全随政治风向变化。2018–2024 年中美政治紧张期间，中美科学家联合发表依然巨大——科学合作的惯性来自认识论层面的自主逻辑([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])
+> - **[[Epistemology|认识论]]自主性** — 科学领域有自己独立的规范和评估标准（同行评议、引用影响、可重复性），不完全随政治风向变化。2018–2024 年中美政治紧张期间，中美科学家联合发表依然巨大——科学合作的惯性来自认识论层面的自主逻辑([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])
 > - **制度自主性** — 大学有自己的治理结构、学术传统和组织身份。这些制度特征不会因拨款政策的短期变化而立即改变。例如，一所大学的学术文化可能需要数十年才能形成或改变，远长于政治或经济周期([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8, 13–14]])
 > - **知识分子的双重角色** — Gramsci 指出，文化部门的知识分子既可以服务于霸权（有机知识分子，organic intellectuals），也可以生产反霸权思想。同一位科学家可能上午为政府的国防项目提供咨询，下午在学术期刊上批评政府的科技政策——这种双重能力正是半自主性的具体体现([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 13–14]])
 > - **半自主性的历史基础** — 大学的双重空间性——同时扎根在地和国家又跨越边界——是半自主性在制度层面的历史基础。从北印度佛教寺院到中世纪伊斯兰宗教学校到欧洲大学，高等教育机构从未完全从属于单一政治权威([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]])
@@ -72,7 +72,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> 半自主性概念源自 Gramsci（1971）对[[Hegemony|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的认识论自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom|学术自由]]才能培养有创造力的精英。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入高等教育地缘政治分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受地缘政治影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
+> 半自主性概念源自 Gramsci（1971）对[[Hegemony|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的[[Epistemology|认识论]]自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom|学术自由]]才能培养有创造力的精英。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入高等教育地缘政治分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受地缘政治影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
 
 ---
 
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > - [[Hegemony|霸权理论]]（Gramsci） — 半自主性是 Gramsci 文化霸权理论的核心推论，详见 [[Hegemony#核心命题]]
-> - [[Double Spatiality of Universities]] — 大学双重空间性为半自主性提供了空间本体论基础：大学扎根于国家又超越国家
+> - [[Double Spatiality of Universities]] — 大学双重空间性为半自主性提供了空间[[Ontology|本体论]]基础：大学扎根于国家又超越国家
 > - [[Scale in Higher Education]] — 尺度不可化约性论证了为什么国家尺度的分析不能替代其他尺度的分析
 > - [[Multiplicity]] — "总是有松散的末端"从本体论上排除了完全决定论的可能
 

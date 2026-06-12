@@ -89,7 +89,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - **教育的 Teleological 特征** — 教育的核心特征是它是由 *telos*（目的）框定的实践
-> - [[Transactional Epistemology]] — Dewey 的交易认识论揭示证据只能提供关于过去的可能性，强化了价值判断的必要性
+> - [[Transactional Epistemology]] — Dewey 的交易[[Epistemology|认识论]]揭示证据只能提供关于过去的可能性，强化了价值判断的必要性
 > - **Carr (1992)** — 教育手段与目的的内在联系
 
 ## 争议与批评

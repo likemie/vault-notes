@@ -29,14 +29,14 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的认识论基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的[[Epistemology|认识论]]基础提出挑战而闻名。他的介入（通常以 1974 年在英国 Bristol 的国际互访项目为标志，但也有观点认为实际上始于 1973 年 New Orleans 的 AERA 年会）深刻改变了教育行政的认识论辩论格局([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 
 ## 核心思想
 
 > [!info] 核心思想
 > **主观性的不可还原性**
 >
-> Greenfield 的核心认识论主张是：**我们所有关于现实的知识——自然和社会的——都包含无法还原的主观成分**。换言之，客观性是一个神话——在自然科学和社会科学中都是如此([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> Greenfield 的核心[[Epistemology|认识论]]主张是：**我们所有关于现实的知识——自然和社会的——都包含无法还原的主观成分**。换言之，客观性是一个神话——在自然科学和社会科学中都是如此([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
 > > "all our knowledge of reality, natural and social, contains an irreducible subjective component"（引自 Eacott, 2015, p.316）
 >
@@ -57,20 +57,20 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **挑战教育行政的逻辑经验主义范式** — 1974 Bristol 国际互访项目上的介入，打破了理论运动构建的客观科学共识
-> - **"人性科学"的愿景** — 主张以主观主义和[[Phenomenology|现象学]]取代实证主义作为教育行政研究的基础
+> - **挑战教育行政的逻辑经验主义[[Paradigm|范式]]** — 1974 Bristol 国际互访项目上的介入，打破了理论运动构建的客观科学共识
+> - **"人性科学"的愿景** — 主张以主观主义和[[Phenomenology|现象学]]取代[[Positivism|实证主义]]作为教育行政研究的基础
 > - **Greenfield & Ribbins（1993）** — *Greenfield on Educational Administration*，汇集其主要论述
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Greenfield, T. B., & Ribbins, P. (Eds.). (1993). *Greenfield on Educational Administration*. London: Routledge. — 系统呈现 Greenfield 对教育行政认识论的主观主义/[[Phenomenology|现象学]]取向
+> - Greenfield, T. B., & Ribbins, P. (Eds.). (1993). *Greenfield on Educational Administration*. London: Routledge. — 系统呈现 Greenfield 对教育行政[[Epistemology|认识论]]的主观主义/[[Phenomenology|现象学]]取向
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
 > - 其批判直接回应了以 **Halpin** 和 **Griffiths** 为代表的美国理论运动
-> - 与 **Richard Bates** 的批判理论构成 1970s–1980s 教育行政认识论转向的两大主力
+> - 与 **Richard Bates** 的批判理论构成 1970s–1980s 教育行政[[Epistemology|认识论]]转向的两大主力
 > - 为后来 Gunter（2010）记录的教育行政社会学方法的"重新出现"铺平了道路
 > - 其立场被 Evers & Lakomski 作为"需要回应但需要超越"的关键辩论方
 
@@ -78,5 +78,5 @@ updated: '2026-06-08'
 
 > [!warning] 争议与批评
 > - **"怎么都行"的问题**：[[Argument_Eacott_2015_EPT|Eacott (2015, p.316)]]指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
-> - **消极后果**：Greenfield 的批判（与 Bates 等人一起）在打破实证主义垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
+> - **消极后果**：Greenfield 的批判（与 Bates 等人一起）在打破[[Positivism|实证主义]]垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
 > - **Eacott 的定位**：[[Argument_Eacott_2015_EPT|Eacott (2015)]]在 Greenfield 与 Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"

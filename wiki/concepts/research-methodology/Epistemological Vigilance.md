@@ -34,7 +34,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 认识论警觉（Epistemological Vigilance）是 Bourdieu, Chamboredon & Passeron（1968/1991）在 *The Craft of Sociology* 中提出的概念，指社会科学家在研究中**持续保持对日常语言、自发理解和前科学概念的批判性警觉**。[[Argument_Eacott_2015_EPT|Eacott (2015)]]将其引入教育行政研究，论证由于教育行政学者与研究对象之间存在深层的嵌入关系，认识论警觉不是一次性的操作，而是终身的智识项目。
+> [[Epistemology|认识论]]警觉（Epistemological Vigilance）是 Bourdieu, Chamboredon & Passeron（1968/1991）在 *The Craft of Sociology* 中提出的概念，指社会科学家在研究中**持续保持对日常语言、自发理解和前科学概念的批判性警觉**。[[Argument_Eacott_2015_EPT|Eacott (2015)]]将其引入教育行政研究，论证由于教育行政学者与研究对象之间存在深层的嵌入关系，认识论警觉不是一次性的操作，而是终身的智识项目。
 >
 > > "Epistemological vigilance is particularly necessary in the social sciences, where the separation between the everyday language and opinion of the spontaneous sociologist and the scientific discourse of the researcher is more blurred than elsewhere"（Bourdieu et al., 1968/1991，引自 Eacott, 2015, p.322）
 
@@ -43,7 +43,7 @@ updated: 2026-05-18
 > [!abstract] 核心要素
 > **为何尤其需要警觉：熟悉性即障碍**
 >
-> "对社会世界的熟悉性、与日常自发理解的持续斗争，是教育行政的**核心认识论障碍**"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。这是因为熟悉性持续生产着概念化（如组织结构、领导力），同时生产着合法化并维持这些概念化的条件。
+> "对社会世界的熟悉性、与日常自发理解的持续斗争，是教育行政的**核心[[Epistemology|认识论]]障碍**"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。这是因为熟悉性持续生产着概念化（如组织结构、领导力），同时生产着合法化并维持这些概念化的条件。
 >
 > > 例：研究者用"教学质量"一词分析学校时，这个词本身就是其作为一个受过教育的社会行动者在长期社会化中获得的常识概念——它自带了一个关于"什么是好教学"的先验判断，而这一判断往往不加审查地进入了研究设计和分析([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322-323]])。
 >
@@ -63,7 +63,7 @@ updated: 2026-05-18
 >
 > "社会的常识或理所当然会持续再现（如果它曾经消失的话），因此学术中需要不断的警觉"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。这使得认识论警觉是一个"永无止境"的任务——与物理学家的实验室与日常生活的分离相比，社会科学家更不可能实现彻底的分离，"部分因为学科的智识资源——在此例中为教育行政——很少提供有意义的工具来突破日常语言"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322-323]])。
 >
-> **Bourdieu 的批判：实证主义的无辜幻想**
+> **Bourdieu 的批判：[[Positivism|实证主义]]的无辜幻想**
 >
 > > "The positivists dream of an epistemological state of perfect innocence papers over the fact that the crucial difference is not between a science that effects construction and one that does not, but between a science that does this without knowing it and one that, being aware of the work of construction, strives to discover and master as completely as possible the nature of its inevitable acts of construction and the equally inevitable effects those acts produce."（Bourdieu et al., 1993/1999, p.608，引自 Eacott, 2015, p.323）
 >
@@ -73,22 +73,22 @@ updated: 2026-05-18
 
 > [!example] 与相关概念的区别
 > - vs [[Epistemological Break]] — 断裂是**初始的决裂**，警觉是**持续的维护**。断裂是"转身"的动作，警觉是"不往回走"的努力
-> - vs [[Reflexivity]]（反思性） — 两者高度相关但侧重不同：反思性更广泛地指研究者对自身社会位置的审视，认识论警觉特别聚焦于**日常语言和前科学概念**的渗透问题
+> - vs [[Reflexivity]]（反思性） — 两者高度相关但侧重不同：反思性更广泛地指研究者对自身社会位置的审视，[[Epistemology|认识论]]警觉特别聚焦于**日常语言和前科学概念**的渗透问题
 
 ## 理论基础
 
 > [!info] 理论基础
-> - wiki-[[Pierre Bourdieu]] — 认识论警觉是 Bourdieu 反思社会学的核心实践原则，与"参与性对象化"（participant objectivation）密切相关
+> - wiki-[[Pierre Bourdieu]] — [[Epistemology|认识论]]警觉是 Bourdieu 反思社会学的核心实践原则，与"参与性对象化"（participant objectivation）密切相关
 
 ## 实证发现
 
 > [!success] 实证发现
-> - [[Argument_Eacott_2015_EPT|Eacott (2015)]]以教育行政领域为例论证：该领域很少对其规范性主旨（如"领导力"）提出认识论层面的质疑——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.324]])
+> - [[Argument_Eacott_2015_EPT|Eacott (2015)]]以教育行政领域为例论证：该领域很少对其规范性主旨（如"领导力"）提出[[Epistemology|认识论]]层面的质疑——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.324]])
 > - Gunter（2012, 2013）的描述支持这一判断：管理主义项目的一个核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）贬低为异国情调、放纵和非公共利益"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **操作化困难**：如何在 6000 字期刊论文或 20 分钟会议报告中展示认识论警觉？[[Argument_Eacott_2015_EPT|Eacott (2015, p.322)]]承认这种警觉"在 6000 字期刊论文或 20 分钟会议报告中尤其困难，更不用说大学和学术排名系统中'时钟'时间（出版输出）的特权化"
+> - **操作化困难**：如何在 6000 字期刊论文或 20 分钟会议报告中展示[[Epistemology|认识论]]警觉？[[Argument_Eacott_2015_EPT|Eacott (2015, p.322)]]承认这种警觉"在 6000 字期刊论文或 20 分钟会议报告中尤其困难，更不用说大学和学术排名系统中'时钟'时间（出版输出）的特权化"
 > - **与知识普及的张力**：持续的警觉导致文本复杂、难以进入公共话语。Bourdieu 后期转向公共知识分子写作（如 *On Television*、*Acts of Resistance*）体现了这一张力——警觉的要求与"被听到"之间存在实际矛盾([[Argument_Eacott_2015_EPT|Eacott, 2015, p.320, note 8]])
 

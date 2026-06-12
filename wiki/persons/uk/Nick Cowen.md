@@ -52,7 +52,7 @@ updated: '2026-06-08'
 > Cowen 的学术贡献集中在**将公共选择理论和科学哲学引入教育政策分析**，持续在两个维度上做出贡献：
 >
 > **维度一：[[Evidence-Based Education|EBE]] 的官僚功能（理论分析）**
-> [[Argument_Cowen_2019_ERE|Cowen (2019)]] 论证 EBE（[[Randomised Controlled Trials|RCT]] + [[Systematic Review|系统综述]]）的吸引力不在于认识论优越性，而在于它为决策者提供了一种**便于信息过滤与问责**的工具——即使其研究结果对一线教师的实际价值有限。
+> [[Argument_Cowen_2019_ERE|Cowen (2019)]] 论证 EBE（[[Randomised Controlled Trials|RCT]] + [[Systematic Review|系统综述]]）的吸引力不在于[[Epistemology|认识论]]优越性，而在于它为决策者提供了一种**便于信息过滤与问责**的工具——即使其研究结果对一线教师的实际价值有限。
 >
 > **维度二：EBE 的实施困境（实证研究）**
 > [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 通过对 22 位英国教师的精英访谈，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
@@ -68,9 +68,9 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的官僚制知识问题应用于 [[Evidence-Based Education|EBE]]，解释实验范式的主导地位
+> - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的官僚制知识问题应用于 [[Evidence-Based Education|EBE]]，解释实验[[Paradigm|范式]]的主导地位
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 与 Cartwright 合作将 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段框架应用于教育政策实施分析
-> - [[Evidence-Based Education]] — 从两个维度补充 Biesta 的认识论批判：制度逻辑维度（2019）和实施实践维度（2015）
+> - [[Evidence-Based Education]] — 从两个维度补充 Biesta 的[[Epistemology|认识论]]批判：制度逻辑维度（2019）和实施实践维度（2015）
 > - [[Local Knowledge in Evidence-Based Policy]] — 通过实证访谈确立本地知识在 EBP 实施中的核心地位
 > - [[Programme Fidelity vs Adaptation]] — 提出"流动性而非忠实执行"（fluidity, not fidelity）作为理解证据实施的新框架
 
@@ -79,7 +79,7 @@ updated: '2026-06-08'
 
 - 深受 **Gordon Tullock** 和公共选择传统影响
 - 与 **[[Nancy Cartwright]]** 密切合作，将科学哲学（[[Causality|因果推断]]、[[Randomised Controlled Trials|RCT]] [[External Validity|外部效度]]）应用于教育政策
-- 与 **[[Gert Biesta]]** 对 [[Evidence-Based Education|EBE]] 的批判互补：Biesta 提供哲学批判（EBE 为什么在认识论上是错的），Cowen 提供政治经济学解释（EBE 为什么在制度上被选择）和实践分析（EBE 为什么在实施中受阻）
+- 与 **[[Gert Biesta]]** 对 [[Evidence-Based Education|EBE]] 的批判互补：Biesta 提供哲学批判（EBE 为什么在[[Epistemology|认识论]]上是错的），Cowen 提供政治经济学解释（EBE 为什么在制度上被选择）和实践分析（EBE 为什么在实施中受阻）
 
 ## 主要著作
 

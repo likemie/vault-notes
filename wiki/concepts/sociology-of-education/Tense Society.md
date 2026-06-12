@@ -53,7 +53,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Creative Tension of Sense]] — 张力社会是该理论对当代社会状态的总体诊断，是张力认识论得以成立的经验基础([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–112]])
+> - [[Creative Tension of Sense]] — 张力社会是该理论对当代社会状态的总体诊断，是张力[[Epistemology|认识论]]得以成立的经验基础([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–112]])
 
 ## 实证发现
 

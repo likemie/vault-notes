@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-12
 ---
 
 # Hypothesis
@@ -43,7 +43,13 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 假设（hypothesis）是对特定事件或[[Variable|变量]]间关系的预测性陈述([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。在[[Quantitative Research|量化研究]]中，研究者使用理论和变量界定生成假设，再从参与者收集关于这些变量的数据来检验假设。假设是连接理论与经验数据的桥梁。
+> 假设（hypothesis）是对特定事件或[[Variable|变量]]间关系的预测性陈述。Kerlinger（1970）将其定义为两个或多个变量之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"——但不同于普通猜测，假设往往是大量研究、[[Reflexivity|反思性]]思考和观察的结果（p.357）。在[[Quantitative Research|量化研究]]中，研究者使用理论和变量界定生成假设，再从参与者收集关于这些变量的数据来检验假设。假设是连接理论与经验数据的桥梁。
+
+Medawar（1972: 22）从创造性思维的角度对假设做了精辟描述：
+
+> [!quote]
+> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略（有时远远）超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的对话，如果愿意的话，在提议与处理之间，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。
+> Original: All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. It is the invention of a possible world, or of a tiny fraction of that world.
 
 ---
 
@@ -71,11 +77,22 @@ updated: 2026-05-31
 ## 核心要素
 
 > [!abstract]
-> 一个好假设应具备以下特征([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
-> - **方向性**：指明[[Variable|变量]]间关系的预期方向（正向、负向或未知）
-> - **可检验性**：变量必须可测量或可观察
-> - **理论基础**：假设应从已有理论中推导而来，而非凭空产生
-> - **具体性**：明确指定涉及的变量以及关系的性质
+> Kerlinger（1970）提出好假设的两条主要标准（pp.363–364）：
+> - **关系陈述**：假设是[[Variable|变量]]之间关系的陈述
+> - **可检验性**：假设必须蕴含明确的检验含义来检验所述关系
+>
+> 两条辅助标准：假设应与现有知识兼容；表述应尽可能经济。
+>
+> Kerlinger 进一步指出假设作为研究工具的四个重要性理由：
+> 1. **组织研究者的努力**——假设所表达的关系指示研究者应当做什么
+> 2. **理论的工作工具**——假设可以从理论或其他假设中推导出来
+> 3. **可被检验**——导致证实或拒绝；一个被支持和确立的假设可能成为法则
+> 4. **推动知识进步**——假设使我们能够"走到自身之外"
+>
+> Medawar（1981）强调好假设必须具有**逻辑即时性**（logical immediacy）：它必须为需要解释的现象提供解释，而不是为其他现象提供解释。它还必须是"可溶的"——能够通过比较直接和可行的手段进行检验。
+
+> [!warning] 好假设的关键
+> "一个假设如果松散到可以容纳任何现象，它就精确地告诉了我们零信息；它禁止的现象越多，它提供的信息就越多。"（Medawar, 1981）
 
 ---
 

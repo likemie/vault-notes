@@ -32,7 +32,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Gilbert Ryle (1900–1976) 是英国哲学家，以其 1946 年的会长演讲「Knowing How and Knowing That」闻名。该演讲提出了[[Knowledge-that and Know-how-to|知其然]]与知其所用的经典区分，对认识论和教育哲学产生了深远影响（Ryle, 1946, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）。
+> Gilbert Ryle (1900–1976) 是英国哲学家，以其 1946 年的会长演讲「Knowing How and Knowing That」闻名。该演讲提出了[[Knowledge-that and Know-how-to|知其然]]与知其所用的经典区分，对[[Epistemology|认识论]]和教育哲学产生了深远影响（Ryle, 1946, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）。
 
 ---
 

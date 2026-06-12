@@ -285,9 +285,9 @@ citation_aliases:
 > “我们选择使用‘世界观’一词，意思是‘指导行动的一套基本信念’(Guba, 1990, p. 17)。”
 > ("We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' (Guba, 1990, p. 17).")（第1章, p.7）
 
-- [[Postpositivism|后实证主义]] 持决定论和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 Comte、Mill、Durkheim、Newton、Locke，以及 Phillips & Burbules(2000)，是量化研究的主导哲学。
+- [[Postpositivism|后实证主义]] 持决定论和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 [[Auguste Comte|Comte]]、Mill、Durkheim、Newton、Locke，以及 Phillips & Burbules(2000)，是量化研究的主导哲学。
 - [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger & Luckmann(1967)、Lincoln & Guba(1985)、Crotty (1998) 等。它是质性研究的主导哲学。
-- [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后实证主义无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖批判理论、女性主义、参与式行动研究、原住民方法论等群体。
+- [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后[[Positivism|实证主义]]无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖批判理论、女性主义、参与式行动研究、原住民方法论等群体。
 - [[Pragmatic Paradigm|实用主义]] 源自 Peirce、James、Mead、Dewey。不以任何单一哲学体系为皈依，关注"什么有效"——以研究问题为中心，自由选择最能满足目的的方法。真理是当下有效的，研究始终发生在社会历史情境中。它是混合方法研究的主导哲学。
 
 > [!abstract] 表1.2：四种世界观（Four Worldviews）
@@ -415,7 +415,7 @@ citation_aliases:
 
 ---
 
-**第四步：三种路径的组织逻辑。** 核心论断：文献综述的组织方式由认识论立场决定。
+**第四步：三种路径的组织逻辑。** 核心论断：文献综述的组织方式由[[Epistemology|认识论]]立场决定。
 
 量化研究以演绎方式使用文献，五部分结构围绕变量组织。关键在于第三部分（连接自变量与因变量的文献）——应相对简短且极其接近计划研究。
 
@@ -990,7 +990,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 | [[Case Study\|案例研究]] | 可包含对案例的描述及研究涌现的主题 | Yin (2009, 2014) |
 | [[Narrative Research\|叙事研究]] | 报告或反思故事 | Clandinin & Connelly (2000) |
 
-质性研究问题的九条写作指南：① 提出一至两个核心问题；② 辅以五至七个子问题；③ 关联特定质性路径；④ 以 what 或 how 开头（why 暗示因果解释思维，属于量化范式）；⑤ 聚焦单一核心现象；⑥ 使用探索性动词（report/reflect, describe the essence, discover/generate, seek to understand, explore, describe the themes）；⑦ 预计问题会演变；⑧ 使用开放性问题，不引用文献或理论；⑨ 指定参与者和研究场所。
+质性研究问题的九条写作指南：① 提出一至两个核心问题；② 辅以五至七个子问题；③ 关联特定质性路径；④ 以 what 或 how 开头（why 暗示因果解释思维，属于量化[[Paradigm|范式]]）；⑤ 聚焦单一核心现象；⑥ 使用探索性动词（report/reflect, describe the essence, discover/generate, seek to understand, explore, describe the themes）；⑦ 预计问题会演变；⑧ 使用开放性问题，不引用文献或理论；⑨ 指定参与者和研究场所。
 
 > [!quote]
 > “要预见到研究问题在研究期间会演变和改变。在质性研究中，问题往往处于持续的审查和重新构思之中（正如在扎根理论研究中那样）。对于习惯于量化设计的个体来说，这种方法可能会造成困扰，因为在量化设计中，研究问题保持固定并在整个研究过程中从不改变。”

@@ -60,11 +60,11 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - 知识建构理论的创始人
-> - 将 Popper 的认识论引入教育研究
-> - 为 Hattie 的 VL 提供了连接 Popper 的哲学通道（尽管 Hattie 进一步扭曲了这一通道）
+> - 将 Popper 的[[Epistemology|认识论]]引入教育研究
+> - 为 Hattie 的 [[Visible Learning|VL]] 提供了连接 Popper 的哲学通道（尽管 Hattie 进一步扭曲了这一通道）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Rømer_2018_EPT|Rømer (2018, p.10)]] 指出 Bereiter 对 Popper 的化简——将 World 3 缩减为"真理与非真理"——为 Hattie 的进一步误读打开了大门，后者最终将 World 3 的客观性完全塌缩为 World 2 的主观学习。Hattie (2015) 在此误读基础上将表层/深层/建构性学习映射到 Popper 三个世界，形成 VL 的认识论框架
+> - [[Argument_Rømer_2018_EPT|Rømer (2018, p.10)]] 指出 Bereiter 对 Popper 的化简——将 World 3 缩减为"真理与非真理"——为 Hattie 的进一步误读打开了大门，后者最终将 World 3 的客观性完全塌缩为 World 2 的主观学习。Hattie (2015) 在此误读基础上将表层/深层/建构性学习映射到 Popper 三个世界，形成 [[Visible Learning|VL]] 的[[Epistemology|认识论]]框架
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从较温和的内部修正角度指出，Hattie 借 Bereiter/Popper 得到的三类知识，与 Bloom 修订版四类知识、SOLO 模型之间的对应关系并不清楚；因此需要转向[[Dynamic Knowledge and Learning Model]]，用一阶到四阶知识说明不同知识形式之间的动态关系([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])

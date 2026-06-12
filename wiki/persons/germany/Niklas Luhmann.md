@@ -64,14 +64,14 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Luhmann's Systems Theory]] — 将社会视为[[Autopoiesis|自创生]]（autopoietic）沟通系统的宏大理论框架，彻底重构了社会学对"社会是什么"的理解
-> - [[Blind Spot in Observation]] — 观察的盲点概念，对认识论和社会科学方法论有深远影响
+> - [[Blind Spot in Observation]] — 观察的盲点概念，对[[Epistemology|认识论]]和社会[[Scientific Method|科学方法]]论有深远影响
 > - [[Structural Coupling]] — 结构耦合概念，描述封闭、自我指涉系统之间的非因果链接关系，被应用于描述教学与学习之间、教育系统与其他社会子系统之间的关系
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
 > [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 将 Luhmann 的概念系统应用于教育研究，论证：
-> - VL 范式因忽视 Luhmann 的盲点论断而陷入"无边界的超积极可见性意识形态"
+> - [[Visible Learning|VL]] [[Paradigm|范式]]因忽视 Luhmann 的盲点论断而陷入"无边界的超积极可见性意识形态"
 > - 教育系统的社会沟通逻辑与学生的心理系统逻辑之间存在根本性鸿沟，无法通过[[Effect Size|效应量]]和[[Visible Learning|可见学习]]策略来弥合
 > - Luhmann 的洞见为理解教育中"观看中的盲视"提供了理论基础([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 >

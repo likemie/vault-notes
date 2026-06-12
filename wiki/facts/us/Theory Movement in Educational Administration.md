@@ -74,11 +74,11 @@ updated: 2026-05-18
 > [!success] 影响与后果
 > **对教育行政研究的影响**
 >
-> 理论运动标志着**教育行政系统化传统（自然）科学方法的开始**([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]])。它将"科学"标签与教育行政研究建立了长期关联，使实证主义范式在之后几十年中成为美国教育行政研究的主流。
+> 理论运动标志着**教育行政系统化传统（自然）[[Scientific Method|科学方法]]的开始**([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]])。它将"科学"标签与教育行政研究建立了长期关联，使[[Positivism|实证主义]][[Paradigm|范式]]在之后几十年中成为美国教育行政研究的主流。
 >
 > **反叛：Greenfield 的挑战（1974）**
 >
-> 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的知识论假设([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的[[Epistemology|知识论]]假设([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
 > Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]]）。
 >
@@ -92,7 +92,7 @@ updated: 2026-05-18
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **实证主义遗产的持续**：[[Argument_Eacott_2015_EPT|Eacott (2015)]]认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对实践有直接影响的"研究话语的形式出现（p.312-313）
+> - **[[Positivism|实证主义]]遗产的持续**：[[Argument_Eacott_2015_EPT|Eacott (2015)]]认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对实践有直接影响的"研究话语的形式出现（p.312-313）
 > - **变形的重演**：[[Argument_Eacott_2015_EPT|Eacott (2015, p.320-321)]]指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Question|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
 > - **拒绝而非重构**：Greenfield 和 Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
 

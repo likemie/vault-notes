@@ -39,7 +39,7 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemology|认识论]]立场
 > 协[[Variable|变量]]控制承认教育数据中的因素往往相互纠缠：一个看似由教师或教学因素造成的成绩差异，可能部分来自学生背景、学校规模或其他未被控制的条件。未控制的边际[[Effect Size|效应量]]不应直接被当作干预本身的效果([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.49–51]])。
 
 ## 操作步骤

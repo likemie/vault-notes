@@ -51,7 +51,7 @@ related_facts:
 confidence: low
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-12
 ---
 
 # Mixed Methods Research
@@ -116,9 +116,72 @@ updated: 2026-06-02
 > - **2020**：APA 出版手册首次纳入混合方法研究标准，标志着该方法论进入国际主流风格手册。
 > - **至今**：各领域大量实证研究使用混合方法，方法论文献持续创新，大量相关书籍出版（Molina-Azorin & Fetters, 2022）。
 
+## 范式战争的背景
+
+混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm|范式]]战争"（paradigm wars, Gage, 1989）的历史语境。在这场战争中，研究者常常站在量化或质性方法论的阵营中，这一局面一方面推动了质性方法的兴起和纯粹数值方法的局部式微（Denzin, 2008: 316），另一方面也促使了混合方法的出现（pp.603–604）。
+
+混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61），主张不同研究范式之间采取更少的对抗、更多的趋同（Brannen, 2005）和更大的对话。它被称为"第三种方法论运动"（Teddlie and Tashakkori, 2009）、"第三种研究范式"（Johnson and Onwuegbuzie, 2004; Denscombe, 2008）和"第三条道路"（Gorard and Taylor, 2004）。
+
+## 哲学基础：实用主义
+
+> [!abstract] [[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]
+> [[Positivism|实证主义]]取向以科学的、客观主义的[[Ontology|本体论]]和认识论为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以**实用主义**（[[Pragmatism in China|pragmatism]]）的本体论和认识论为前提（pp.646–647）。
+
+实用主义本质上是实践的（practice-driven, Denscombe, 2008: 280）而非理想化的。它主张：
+
+> [!finding-cards]
+> - 真理和实在可能同时存在**单一版本和多重版本**，有时主观有时客观，有时科学有时人文
+> - 以**效用**（utility）、实践后果和结果以及启发法（heurism）优先于对"实在"最准确再现的单一追求
+> - 不参与量化或质性的自我沉溺式辩论，而是直接判断研究是否帮助研究者发现了想了解的东西——无论数据和方法论是量化的还是质性的（Feilzer, 2010: 14）
+> - 采用方法论上**折中主义、多元主义**的取向，基于"适合目的"（fitness for purpose）和"适用性"（applicability）的标准（Johnson and Onwuegbuzie, 2004）
+> - 不是"怎么都行"的无原则取向——有自己的严格标准：研究必须回答[[Research Question|研究问题]]并且"交付"有用的答案（Denscombe, 2008）
+
+Denscombe（2008）还从库恩的[[Paradigm|范式]]论出发，主张将混合方法范式定义为一个新的**"实践共同体"**（community of practice）——由采纳混合方法研究原则的志同道合的研究者组成，这尊重了该取向的实用主义底蕴。
+
+## 混合方法设计的类型
+
+Teddlie 和 Tashakkori（2009）提出了六种混合方法设计（pp.685–696），构成了一套与 Creswell 三种核心设计互补的分类体系：
+
+> [!finding-cards]
+> a. **平行[[Between-Subjects and Within-Subjects Designs|混合设计]]**（parallel mixed designs，也称 concurrent designs）：量化和质性方法同时独立运行，处理[[Research Question|研究问题]]（类似于[[Triangulation|三角验证]]的传统概念）
+> b. **顺序混合设计**（sequential mixed designs）：量化和质性方法先后运行，一条研究线索决定后续线索
+> c. **准混合设计**（quasi-mixed designs）：量化和质性数据都收集，但**不整合**来回答同一个研究问题——量化数据回答一个研究问题，质性数据回答另一个
+> d. **转换混合设计**（conversion mixed designs）：数据被转换（质性转量化或反之），在平行混合设计中进行
+> e. **多层次混合设计**（multilevel mixed designs，也称 hierarchical designs）：不同类型的数据在不同层次上整合和／或使用（如学生层用数值数据，学校层用质性数据）
+> f. **完全整合混合设计**（fully integrated mixed designs）：混合方法在研究的**每一个阶段**和**每一个层次**都使用（可能是迭代式的：一个阶段影响下一个阶段）
+
+## 数据整合策略
+
+Caracelli 和 Greene（1993）提出了在混合方法研究中整合数据的四种策略（pp.669–678）：
+
+> [!finding-cards]
+> 1. **[[Data Transformation in Mixed Methods|数据转换]]**（data transformation）：质性数据被"量化"（quantitized）或量化数据被"质化"（qualitized）。例如给特定回应、[[Coding in Qualitative Research|编码]]或主题赋予频率计数或强度评定量表（Sandelowski et al., 2009: 210; Teddlie and Tashakkori, 2009: 269）
+> 2. **类型学发展**（typology development）：从一组数据类型中产生的分类被应用到另一组数据类型
+> 3. **极端案例分析**（extreme case analysis）：在一种数据中发现的极端值使用不同的数据和方法来探索
+> 4. **数据合并**（data consolidation/merging）：通过合并数据创建新的[[Variable|变量]]
+
+## 混合方法研究的关键决策
+
+混合方法研究需要关注若干重要决策（Ivankova et al., 2006: 9–11; Greene, 2008: 14–17）（pp.697–715）：
+
+> [!finding-cards]
+> a. **优先级**（priority）：量化还是质性取向占主导地位，还是在数据收集和分析阶段被赋予同等权重
+> b. **实施时机**（implementation/timing）：量化和质性数据收集与分析是同时进行还是一先一后进行
+> c. **整合阶段**（integration）：量化和质性方法的整合发生在哪个阶段
+> d. **焦点议题**（issues）：混合方法围绕哪些议题展开（如[[Construct|构念]]、[[Variable|变量]]、[[Research Question|研究问题]]、[[Purpose Statement|研究目的]]）
+> e. **独立性／互动性**（independence/interaction）：不同方法在多大程度上被独立地或互动地概念化、设计和实施（Greene, 2008: 14）
+> f. **变革意图**（transformative intention）：研究是否具有明确的政治议程
+> g. **范围**（scope）：方法的混合发生在单一研究中还是跨越一个研究项目中的多个研究
+> h. **股数**（strands）：在研究中混合的不同股数（Greene, 2008: 14）
+> i. **方法特征**（methods characteristics）：被混合的方法之间在视角、立场等方面的差异性质和程度
+
+## 是否为真正的新范式
+
+关于混合方法研究是否真正构成一个新[[Paradigm|范式]]仍存在开放争论（pp.720–724）。一方面，其倡导者推崇它是由[[Pragmatic Paradigm|实用主义]]驱动的、能对真实问题给出真实答案的重要取向；另一方面，混合方法研究在实践中已经存在多年——不同方法在研究的不同阶段甚至同一阶段被使用并非罕见。此外，混合方法之下的深层结构仍然是量化和质性两种现有范式，而它们在[[Epistemology|认识论]]上是有差异的。尽管如此，该教材强调在规划和实施研究时，只要有必要和相关，就应当结合使用多种方法。
+
 ## 认识论立场
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemology|认识论]]立场
 > [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示[[Postpositivism|后实证主义]]之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.7-8]])。
 
 ## 操作步骤

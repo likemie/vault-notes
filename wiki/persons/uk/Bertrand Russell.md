@@ -36,7 +36,7 @@ updated: '2026-06-08'
 > 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与怀特海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 知识确定性理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])。
 
 > [!warning]
-> 第 2 章对罗素本人的思想未做分析——他主要作为来源和引用对象出现。本条目目前以 Li 的引用为基础，罗素在逻辑哲学、语言哲学、认识论等领域的完整贡献需从其他来源补充。
+> 第 2 章对罗素本人的思想未做分析——他主要作为来源和引用对象出现。本条目目前以 Li 的引用为基础，罗素在逻辑哲学、语言哲学、[[Epistemology|认识论]]等领域的完整贡献需从其他来源补充。
 
 ---
 
@@ -59,7 +59,7 @@ updated: '2026-06-08'
 
 > [!abstract]
 > - Russell, B., & Whitehead, A. N. (1910–1913). *Principia Mathematica* (3 vols.). Cambridge University Press. — 20 世纪最具雄心的逻辑—数学工程：试图证明全部数学可还原为少数逻辑公理（待核）
-> - Russell, B. (1912). *The Problems of Philosophy*. — 面向公众的哲学导论，涵盖知识论、实在论、归纳法等内容。清晰的文风使哲学为普通读者所理解（待核）
+> - Russell, B. (1912). *The Problems of Philosophy*. — 面向公众的哲学导论，涵盖[[Epistemology|知识论]]、实在论、归纳法等内容。清晰的文风使哲学为普通读者所理解（待核）
 > - Russell, B. (1945). *A History of Western Philosophy and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day*. Simon & Schuster. — 从古希腊到 20 世纪的哲学通史。Li 将其作为梳理西方智识传统的主要架构性参考来源([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])
 > - Russell, B. (1948). *Human Knowledge: Its Scope and Limits*. — 晚期知识论著作（待核）
 > - Russell, B. (1957–1959). *Why I Am Not a Christian and Other Essays*. — 宗教批评论文集，体现其反教权立场（待核）

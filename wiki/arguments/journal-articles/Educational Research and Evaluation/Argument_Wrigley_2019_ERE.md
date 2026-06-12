@@ -54,7 +54,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的科学方法。本文质疑 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
+> 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的[[Scientific Method|科学方法]]。本文质疑 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
 >
 > > “我们的观点是，这些对科学的诉诸为了修辞效果，使用了一种有缺陷且刻板的自然科学的白话形象或‘民间观点’(Thomas, 2012, p. 28)，但未能充分探究科学的真正特征。”
 > ("It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science.") (p. 111)
@@ -62,7 +62,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层本体论；开放系统与封闭系统的区分；对经验主义的批判
+> - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层[[Ontology|本体论]]；开放系统与封闭系统的区分；对经验主义的批判
 > - [[Evidence-Based Education]] — 本文的直接批判对象，从科学哲学角度解构其方法论基础
 
 ## 研究方法
@@ -79,9 +79,9 @@ citation_aliases:
 >
 > EBT 倡导者将科学等同于实验，但许多科学领域（天文学、气象学、进化论、生物学的大部分）极少使用实验。实验通常用于验证知识而非推进知识，许多重大发现（青霉素、尼龙、超导性、飞机）并非来自系统程序(p. 111)。Thomas (2004, p. 10) 区分了证据使用的不同阶段——拼凑/直觉阶段、灵感阶段、发现阶段、确认阶段——而 EBT 只关注确认阶段(p. 111)。
 >
-> ### 2. 本体论层次混淆与还原论
+> ### 2. [[Ontology|本体论]]层次混淆与还原论
 >
-> Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次科学方法研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力(p. 112)。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"(p. 112)。
+> Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次[[Scientific Method|科学方法]]研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力(p. 112)。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"(p. 112)。
 >
 > ### 3. 涌现与开放系统
 >
@@ -132,7 +132,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - EBT 的科学宣称基于"民间科学观"——它捕捉了科学的表面特征，但缺乏对科学方法的理论理解(p. 111)
+> - EBT 的科学宣称基于"民间科学观"——它捕捉了科学的表面特征，但缺乏对[[Scientific Method|科学方法]]的理论理解(p. 111)
 > - 教育作为开放、递归、符号系统，其因果结构与实验室封闭系统有本质区别(p. 113, 123)
 > - [[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]的统计聚合在每一级简化中丢失了关于干预如何以及为何起作用的因果信息(pp. 118–123)
 > - 医学 [[Randomised Controlled Trials|RCT]] 建立在大量先期理论工作之上，而教育领域常将 RCT 视为知识的唯一来源(p. 117)

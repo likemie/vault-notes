@@ -167,7 +167,7 @@ updated: '2026-05-24'
 
 ### 起源：从循证医学到教育政策信号（1992–1996）
 
-- **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定范式
+- **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定[[Paradigm|范式]]
 - **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])
 - **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
 - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系。Davies 以牛津大学循证健康照护硕士项目为例说明核心特征：学生通过尝试解决自己带入课程的临床和人口问题来学习——"这种学习和教学方法明确基于问题解决、自我指导的成人教育模式"（Davies, 1999, p.110, cited in Sarbiewska, 2019, p.120–121）。Davies 强调：就像医生除了学术研究证据外还需收集患者病史、设置额外控制测试一样，教育者也需使用多种形式和来源的证据
@@ -204,7 +204,7 @@ updated: '2026-05-24'
 - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为整合媒介([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），RCT 领域弥漫"萎靡感"（p.233），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
 - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性（详见 [[Argument_Cowen_2019_ERE]]）；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观（详见 [[Argument_Wrigley_2019_ERE]]）；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的（详见 Argument_Wiliam_2019_ERE）
-- **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"认识论论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]; 详见 [[Argument_Qvortrup_2019_NordSTEP]]）
+- **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]; 详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 
 ## 核心要素
 
@@ -221,7 +221,7 @@ updated: '2026-05-24'
 
 2. 最可靠的证据产生于**[[Experimental Research|实验研究]]**，特别是**[[Randomised Controlled Trials|随机对照试验]]（RCT）**
 
-> 例：[[Argument_Slavin_2002_ER|Slavin (2002)]] 以医学类比论证——随机[[Clinical Trial|临床试验]]比任何单一医学突破"更彻底地改变了医学"（Doll, 1998, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]）。但 [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]] 指出教育的本体论特征与土豆种植或化学实验有根本不同。Cartwright & Munro (2010, p.265) 从[[Causality|因果推断]]角度补充：RCT 本身不足以满足政策或实践决策者的需求。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.6)]] 以 Tennessee STAR 项目的实证案例进一步论证：即使是最受推崇的教育 RCT（被 Mosteller 称为"有史以来最重要的教育调查之一"），其向其他情境的外推也在三个层面失败——(1) 参与学校不具代表性；(2) [[Random Assignment|随机分配]]被破坏；(3) 大规模推广时教师质量成为关键混淆因素。
+> 例：[[Argument_Slavin_2002_ER|Slavin (2002)]] 以医学类比论证——随机[[Clinical Trial|临床试验]]比任何单一医学突破"更彻底地改变了医学"（Doll, 1998, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]）。但 [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]] 指出教育的[[Ontology|本体论]]特征与土豆种植或化学实验有根本不同。Cartwright & Munro (2010, p.265) 从[[Causality|因果推断]]角度补充：RCT 本身不足以满足政策或实践决策者的需求。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.6)]] 以 Tennessee STAR 项目的实证案例进一步论证：即使是最受推崇的教育 RCT（被 Mosteller 称为"有史以来最重要的教育调查之一"），其向其他情境的外推也在三个层面失败——(1) 参与学校不具代表性；(2) [[Random Assignment|随机分配]]被破坏；(3) 大规模推广时教师质量成为关键混淆因素。
 
 3. 教育应模拟"医学模式"——通过研究确定有效干预，然后推广至课堂
 
@@ -237,7 +237,7 @@ updated: '2026-05-24'
 
 | 假设 | 对应领域 | 缺陷 |
 |------|---------|------|
-| 实验证据能预测未来效果 | 认识论 | 知识缺陷 |
+| 实验证据能预测未来效果 | [[Epistemology\|认识论]] | 知识缺陷 |
 | 教育因果是线性的、可确定的 | 存在论 | 效力缺陷 |
 | 科学进步来自知识的"应用" | 实践论 | 应用缺陷 |
 
@@ -320,7 +320,7 @@ Bainbridge et al. 认为混战模型最接近教育研究的情境，但教育�
 
 [[Argument_Peterson_2016_IJRME|Peterson (2016, pp. 300–302)]] 系统诊断了以黑箱 RCT 为核心的当前"什么有效"策略：
 
-1. **与教师主导干预不匹配**：黑箱 RCT 将教师视为项目交付管道而非专业判断者，引导资金流向更程序化、更少教师主导的干预——"虽然此范式可能适合小范围的教育干预类型，如计算机软件或盒装社会和情感学习课程，但它仅适用于潜在有用教育实践的一个窄小部分"（p. 301, citing Howe, 2004, p. 45）
+1. **与教师主导干预不匹配**：黑箱 RCT 将教师视为项目交付管道而非专业判断者，引导资金流向更程序化、更少教师主导的干预——"虽然此[[Paradigm|范式]]可能适合小范围的教育干预类型，如计算机软件或盒装社会和情感学习课程，但它仅适用于潜在有用教育实践的一个窄小部分"（p. 301, citing Howe, 2004, p. 45）
 2. **实施薄弱与规模扩展失败**：美国超 90% 教育有效性试验未显示影响（C4E, 2013），约为医学二期临床试验成功率的一半（Kane, 2015），指示零效果的关键来源是干预移出初始情境时的不完整实施
 3. **低采纳率**：现有回应（"打包"发现、设立"研究冠军"）"假设试验或评估过程本身不可能改变，但使研究更易获得并不能解决采纳问题，如果证据不够清晰或强到能回应他们的问题"（p. 302）
 4. **仅适用于二选一决策**：Cartwright & Hardie (2012) 指出 RCT 证据仅适用于评估是否采用项目 X，但教育情境中因素的相互依赖使单一二选一决策极少可行（p. 300）
@@ -384,19 +384,19 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 ## 理论基础
 
 > [!tip]
-> EBE 的学术讨论跨越教育哲学、科学哲学、政治经济学和分析认识论等多个学科领域，各理论传统为理解 EBE 的合法性、局限性和制度韧性提供了不同的批判资源和替代方案。
+> EBE 的学术讨论跨越教育哲学、科学哲学、政治经济学和分析[[Epistemology|认识论]]等多个学科领域，各理论传统为理解 EBE 的合法性、局限性和制度韧性提供了不同的批判资源和替代方案。
 
 - [[Epistemic Governance]] — [[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度：当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不仅仅是决策的信息来源，而成为治理合法性的构成性要素，大学和研究者因此进入全球治理的核心([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
 - [[Tullock's Bureaucracy Theory]] — [[Argument_Cowen_2019_ERE|Cowen (2019)]] 用来解释 EBE 制度韧性：[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为对主权者透明的过滤机制
 - [[Cartwright's Three-Stage Knowledge Framework]] — 揭示 RCT 证据从"在某处有效"到"对我们有效"外推所需的三个知识阶段
-- [[Critical Realism]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 用作批判 EBE 方法论的哲学框架，区分三层本体论和开放/封闭系统
+- [[Critical Realism]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 用作批判 EBE 方法论的哲学框架，区分三层[[Ontology|本体论]]和开放/封闭系统
 - [[Goldman's Discrimination Theory of Knowledge]] — [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 运用此理论论证教育知识需要区分真实状态与相关替代状态的能力
 - [[Campbellian Validity Framework]] — Shadish, Cook & Campbell (2002) 的实验效度理论：[[Causality|因果推断]]需通过排除[[Internal Validity|内部效度]]威胁建立因果关系
 
 ## 争议与批评
 
 > [!warning]
-> EBE 面临来自认识论、方法论、实施、制度、政治经济学和文化政治等多个维度的系统性质疑，构成了教育研究中规模最大、持续时间最长的学术争议之一。以下按维度梳理各批判阵营的核心论点和论据。
+> EBE 面临来自[[Epistemology|认识论]]、方法论、实施、制度、政治经济学和文化政治等多个维度的系统性质疑，构成了教育研究中规模最大、持续时间最长的学术争议之一。以下按维度梳理各批判阵营的核心论点和论据。
 
 ### 认识论与哲学基础批评
 
@@ -446,7 +446,7 @@ Berk 提出了三条操作层面的对策：(1) 中立专家委员会审查；(2
 
 #### 元-元分析：EBE 方法论雄心的顶峰与局限([[Argument_Terhart_2011_JCS|Terhart, 2011]])
 
-[[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]在 VL 出版仅两年后就识别了[[Meta-meta-analysis|元-元分析]]（mega-analysis）作为 EBE 最雄心勃勃的方法论工具所面临的根本困境：元-元分析扩大了参照范围，"但同时也变得更加复杂、混乱和充满不一致。此外，许多来自原始调查的信息丢失或被扭曲。通过反复累积，原始的详细经验信息消失"（p.436）。
+[[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]在 [[Visible Learning|VL]] 出版仅两年后就识别了[[Meta-meta-analysis|元-元分析]]（mega-analysis）作为 EBE 最雄心勃勃的方法论工具所面临的根本困境：元-元分析扩大了参照范围，"但同时也变得更加复杂、混乱和充满不一致。此外，许多来自原始调查的信息丢失或被扭曲。通过反复累积，原始的详细经验信息消失"（p.436）。
 
 Terhart 提出**稳定性与变异性的双重困境**([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])：如果进一步研究只产生对已知结果的渐近逼近（稳定性假说），继续累积的意义何在？但如果某些领域的发现已被新的结果超越（变异性假说），则元-元分析的结论始终是临时的。Terhart 的质疑"你能用来自不同项目、不同方法的研究结果做同样的事吗？……还是你累积的越多……证据的稳健性就越降低？"（p.436）构成了 EBE 方法论批评中最早的认识论反思之一。
 
@@ -473,7 +473,7 @@ Terhart 提出**稳定性与变异性的双重困境**([[Argument_Terhart_2011_J
 
 1. **科学 ≠ 实验**：许多科学领域不使用实验（天文学、气象学、进化论）。许多重大发现并非来自系统程序（青霉素、尼龙、超导性、飞机）。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])
 
-2. **本体论层次混淆**：用低层次科学方法研究高层次教育现象是"从根本上不科学的"（Thomas, 2012, p. 28）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–113]])
+2. **[[Ontology|本体论]]层次混淆**：用低层次[[Scientific Method|科学方法]]研究高层次教育现象是"从根本上不科学的"（Thomas, 2012, p. 28）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–113]])
 
 3. **Taylorist 类比**：EBT 将复杂的人类教学互动分解为可测量的离散"干预"，在此过程中压制了师生的创造性过程——与科学管理运动将工人劳动分解为简单重复动作的逻辑相同([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])
 
@@ -557,7 +557,7 @@ Cowen 主张：EBE 应(a) 切断与行政问责机制的捆绑；(b) 拥抱从�
 3. **拒绝对话**：教师知识被提取→处理→打包→作为"外部专家建议"卖回——一种"多平台资本主义"。Hattie 的培训中五人仅一人通过，因为教师被禁止分享自己的故事和课堂经验（Hattie, in Knudsen, 2017, p.254）([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37-38]])
 4. **忽视关怀伦理**：爱、同僚情谊、慷慨——难以测量和货币化的维度——被 VL 边缘化。Noddings（1986）的关怀问题被替代为"Know thy impact"。最具渗透力的权力属于能进行元分析和 RCT 的人，而非教师或学生([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
 5. **接近法西斯主义**：VL 被描述为"极权主义有组织的遗忘"（Kundera, 1981）——系统性忘记其做法原本就是教师的做法。Pinar（2011）警告不加理解地应用课程→法西斯主义。VL 殖民教师的"表演性教学想象"（McKnight, 2016）([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38-39]])
-6. **过度简化**："Impact"一词意为"有力的接触"（子弹、炮弹的词典释义）。"Know thy impact"带有圣经式语气——在后结构主义质疑之后对确定性的加固。实证主义科学的纪律只是"另一种虚构"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39-41]])
+6. **过度简化**："Impact"一词意为"有力的接触"（子弹、炮弹的词典释义）。"Know thy impact"带有圣经式语气——在后结构主义质疑之后对确定性的加固。[[Positivism|实证主义]]科学的纪律只是"另一种虚构"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39-41]])
 7. **能力主义假设**："只有可见的才重要"——对人们应具备何种能力才能被算作成功做出了规范性假设。能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（Campbell, 2009, p.8）。有视觉障碍的教师和学生被系统性排斥——这种对公平的"影响"未被计入 VL 的效应量([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
 
 **对 EBE 批判框架的补充**：McKnight & Whitburn 的贡献补充了 EBE 批判的**第六个维度——文化政治维度**：
@@ -649,7 +649,7 @@ Biesta 说 EBE **在哲学上是错的**；Cowen 说它**在制度上被选择�
 
 ### 澳大利亚与新西兰
 
-- [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估，VL 和 EBE 理念的制度化载体([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
+- [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估，[[Visible Learning|VL]] 和 EBE 理念的制度化载体([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
 - [[Australian Curriculum]] — 2012 年 ACARA 批准，三维度框架，系统性地以证据本位逻辑运作([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
 - [[Gonski Reforms]] — 以个体进步替代年龄基准衡量成功学习，体现 EBE 的"什么有效"逻辑([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
 - [[Victorian HITS and Literacy Toolkit]] — 以 VL 为首要参考的 10 项教学策略，EBE 在课堂层面的直接政策输出([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])

@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!example] 概念辨析
 > - vs Responsibility — Responsibility 通常被理解为对既定规范和义务的遵守（"我负责任，因为我做到了我应该做的"）；response-ability 是一种需要被持续培育和练习的**能力**——你可以在形式上履行了所有责任，但仍然缺乏回应他者实际需求的能力
-> - vs [[Sympoiesis]] — Sympoiesis 是本体论概念（"世界通过共同制造而存在"），response-ability 是这一本体论的伦理推论（"既然世界是共同制造的，我必须发展出回应共同制造者的能力"）
+> - vs [[Sympoiesis]] — Sympoiesis 是[[Ontology|本体论]]概念（"世界通过共同制造而存在"），response-ability 是这一本体论的伦理推论（"既然世界是共同制造的，我必须发展出回应共同制造者的能力"）
 >
 
 ## 核心要素
@@ -63,7 +63,7 @@ updated: '2026-05-18'
 > [!info] 理论基础
 > - [[Posthumanism]] — response-ability 是后人类主义伦理的核心概念：去人类中心之后的伦理不再是"人类如何对待其他存在"，而是"各种存在如何彼此回应"
 > - [[Sympoiesis]] — response-ability 是 sympoiesis 的伦理表达："共同制造"要求"共同回应"
-> - [[Humosity]] — response-ability 的本体论基础：只有接受人类并非宇宙中心（而只是腐殖质循环中的一环），"回应他者需求"才成为根本伦理要求，而非"强者对弱者的施舍"
+> - [[Humosity]] — response-ability 的[[Ontology|本体论]]基础：只有接受人类并非宇宙中心（而只是腐殖质循环中的一环），"回应他者需求"才成为根本伦理要求，而非"强者对弱者的施舍"
 > - [[SF (Haraway)]] — Haraway 实践 response-ability 的方法论：通过讲故事和编织关系模式，发展出感知和回应他者（包括非人类他者）需求的能力
 >
 

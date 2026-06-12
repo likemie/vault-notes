@@ -166,7 +166,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 > [!info] 理论基础
 > - [[Cultural Political Economy|文化政治经济学]]（CPE, Jessop & Sum）——为该概念提供了核心分析语言：特别是想象在资本积累体制中的构成性和履行性角色。
-> - [[Critical Geopolitics|批判地缘政治学]]——空间和空间性的关系性重新理论化（空间性不限于领土性）（Kuus, 2017）为其提供了认识论基础。
+> - [[Critical Geopolitics|批判地缘政治学]]——空间和空间性的关系性重新理论化（空间性不限于领土性）（Kuus, 2017）为其提供了[[Epistemology|认识论]]基础。
 > - [[Fixity-Motion Tension]]（Harvey, 1985/2001）——为[[Knowledge-Based Economy|知识经济]]化的空间再领土化动态提供了结构性解释：资本积累既需要地方锚定（固着）又不断破坏既有空间配置（流动）。
 > - Polanyi（1982）的经济作为制度化过程——论证经济依赖于被标记为非经济的制度。
 > - Ҫalişkan & Callon（2009）的 economization 概念——提供从经济到经济化过程的方法论转向。
@@ -201,7 +201,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 ---
 
-**第二层：[[Innovation Policy Paradigms|创新政策范式]]作为经济化的制度机制。** Schot 和 Steinmueller (2018) 与 Lindner 等人 (2024) 识别的三个政策范式，展示了国家如何通过不同的政策框架将知识系统地经济化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])：
+**第二层：[[Innovation Policy Paradigms|创新政策范式]]作为经济化的制度机制。** Schot 和 Steinmueller (2018) 与 Lindner 等人 (2024) 识别的三个政策[[Paradigm|范式]]，展示了国家如何通过不同的政策框架将知识系统地经济化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])：
 
 1. **科学促增长 (1940s–1980s)**：以科学→技术→增长的线性模型为框架，大规模投资大学基础研究，同时通过强化知识产权（如 1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）、研发税收抵免和风险投资促进等手段，将知识从公共产品转化为可私有化和商业化的资产。核心经济化机制：**将科学发现与国家安全和经济增长绑定**。
 

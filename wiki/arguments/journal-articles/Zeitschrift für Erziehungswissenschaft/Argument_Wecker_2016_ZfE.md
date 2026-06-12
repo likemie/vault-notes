@@ -72,7 +72,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**：方法论评估（methodological evaluation）——通过对 Hattie 方法的数学重构和逐步骤对照检查
 > - **数据来源**：Hattie (2009) *[[Visible Learning]]* 的附录 A、附录 B 以及其所引用的一级[[Meta-analysis|元分析]]出版物
-> - **认识论定位**：Wecker et al.明确声明所给出的例子"不代表一种系统的方法"(p.23)，而是通过**基于示例的重构**（example-based reconstruction）来揭示系统性的模式——所发现的缺陷是**系统性的模式证据**而非穷尽的错误清单
+> - **[[Epistemology|认识论]]定位**：Wecker et al.明确声明所给出的例子"不代表一种系统的方法"(p.23)，而是通过**基于示例的重构**（example-based reconstruction）来揭示系统性的模式——所发现的缺陷是**系统性的模式证据**而非穷尽的错误清单
 >
 > ### 六步检查程序
 >

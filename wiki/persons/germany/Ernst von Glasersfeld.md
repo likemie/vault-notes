@@ -33,7 +33,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm|建构主义]]认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
+> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
 
 ## 生平与职涯
 
@@ -52,7 +52,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> [[Radical Constructivism|激进建构主义]]的核心立场：所有学习和知识都是主观建构，外部世界、文化、政治和规范在认识论上被排除([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])。
+> [[Radical Constructivism|激进建构主义]]的核心立场：所有学习和知识都是主观建构，外部世界、文化、政治和规范在[[Epistemology|认识论]]上被排除([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])。
 >
 > > "Learning must in the last instance be done by the individual himself—solipsistic!"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）
 >
@@ -62,8 +62,8 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Radical Constructivism]] — 创始人，将知识定义为个体主观建构，排除外部世界
-> - 影响了 1990 年代学习理论的重要范式转向
-> - 其认识论立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
+> - 影响了 1990 年代学习理论的重要[[Paradigm|范式]]转向
+> - 其[[Epistemology|认识论]]立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])
 > - 也被 [[Niklas Luhmann]] 的[[Luhmann's Systems Theory|系统理论]]引用和赞赏（Luhmann, 1998，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, p.11, note 6]]）
 
 ## 争议与批评

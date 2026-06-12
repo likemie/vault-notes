@@ -101,7 +101,7 @@ updated: '2026-05-18'
 >
 > #### asTTle / e-asTTle：数据与技术前身
 >
-> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])。
+> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 [[Visible Learning|VL]] 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])。
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])。
 >
@@ -208,7 +208,7 @@ updated: '2026-05-18'
 >
 > **Visible Learning 实验室（奥克兰大学）**：提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。
 >
-> **墨尔本大学**：Hattie 于 2011 年转至墨尔本大学教育研究所后，该大学开发了 TeacherSelector 工具，声称以"科学方法"评估和筛选潜在教师教育申请人——将"教学的科学"延伸至教师选拔和培训领域([[Argument_Eacott_2017_SLM|Eacott, 2017, p.420-421]])。
+> **墨尔本大学**：Hattie 于 2011 年转至墨尔本大学教育研究所后，该大学开发了 TeacherSelector 工具，声称以"[[Scientific Method|科学方法]]"评估和筛选潜在教师教育申请人——将"教学的科学"延伸至教师选拔和培训领域([[Argument_Eacott_2017_SLM|Eacott, 2017, p.420-421]])。
 >
 > #### Hattie 的经济利益
 >
@@ -295,7 +295,7 @@ updated: '2026-05-18'
 > [!success] 影响与后果
 > ### 品牌对批评的免疫
 >
-> VL 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
+> [[Visible Learning|VL]] 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
 >
 > **出版过程的双重标准**：[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
 >
@@ -356,7 +356,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]质疑全球有多少公共资金被转移到 VL 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
+> - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]质疑全球有多少公共资金被转移到 [[Visible Learning|VL]] 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
 > - 品牌对学术批评的免疫力——Hattie 的回应被期刊两天内接收发表，批评者原论文经历数月多轮评审([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])
 > - Eacott 被编辑拒绝发表对 Hattie 回应的再回应，揭示了学术出版中对话和辩论的低优先级([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 > - [[Cognition Education|Cognition Education Trust]] 的慈善捐赠仅占集团总收入的 0.9%（2015 年），引发对其慈善信托地位的质疑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71–73]])
@@ -366,7 +366,7 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - **1999/2000** — Hattie 受教育部委托开发 asTTle（VL 的数据与技术前身）
+> - **1999/2000** — Hattie 受教育部委托开发 asTTle（[[Visible Learning|VL]] 的数据与技术前身）
 > - **2006** — Hattie 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事；Auckland Uniservices Ltd 注册 [[Visible Learning]] 商标（2008 年"放弃"），同时创建 Visible Learning Labs
 > - **2007** — Multi Serve Education Trust 注册全资子机构 Multi Serve Limited
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事

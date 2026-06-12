@@ -42,7 +42,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 神经可塑性（Neuroplasticity）指人类大脑在生命全过程中不断重新连接突触的能力——大脑不是一个固定的器官，而是一个始终处于"成为"过程中的动态系统。[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 将其视为学习的前提条件，但同时论证：正是神经可塑性的极度复杂性使得任何试图将学习简化为可见、可测量现象的尝试在科学上都不成立。
 >
-> > "The plasticity of the human brain is a precondition for learning, but it is always already embedded in delicate corporeal and sociological patterns. What goes on in the brain can never be directly depicted in the [[Visible Learning]] paradigm."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.6]])
+> > "The plasticity of the human brain is a precondition for learning, but it is always already embedded in delicate corporeal and sociological patterns. What goes on in the brain can never be directly depicted in the [[Visible Learning]] [[Paradigm]]."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.6]])
 
 ## 核心要素
 
@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > - **规模性复杂性** — 人脑约含 860 亿个神经元，每个神经元可连接多达 10,000 个其他神经元，估计有约 13 万亿个突触（连接点）。Larsen 强调，甚至使用"are"来描述这些数字也是误导性的，因为"人类及其大脑始终处于成为的过程中"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])
 >   > 例：试想一个拥有 13 万亿个相互关联的'未知数'的数学方程，且这些未知数极其灵活且不可预测——这就是试图精确定位大脑中学习所面临的挑战。
 > - **大脑作为"无指挥的乐团"** — Larsen 引用 Thomas Fuchs 的概念：大脑是一个中介器官（mediating organ），一个没有中央指挥的乐团（orchestra without a central conductor）。大脑不是漂浮在缸中的独立器官，而是人体的一部分([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])
-> - **大脑-身体-世界的不可分割性** — 复杂的脑-身体互动无法被即时描绘或累积截屏展示个体整个生命历程中的每个学习面向。Larsen 将此称为"最动态的脑-in-身体-in-世界过程本体论"——这是 21 世纪思维的重大任务和挑战之一([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])
+> - **大脑-身体-世界的不可分割性** — 复杂的脑-身体互动无法被即时描绘或累积截屏展示个体整个生命历程中的每个学习面向。Larsen 将此称为"最动态的脑-in-身体-in-世界过程[[Ontology|本体论]]"——这是 21 世纪思维的重大任务和挑战之一([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])
 > - **去学校读书的是人，不是大脑** — "brains do not go to school—whole, incarnated, situated, and thinking individual human beings go to school—nor do brains learn in and for themselves—humans learn, deeply embedded and embodied in complex existential, social, historical, educational, political and, not least, neuroplastic contexts and settings."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])
 
 

@@ -981,6 +981,19 @@
     ]
   },
   {
+    "title": "Epistemology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Epistemology.md",
+    "aliases": [
+      "认识论",
+      "epistemological assumptions",
+      "认识论假设",
+      "theory of knowledge",
+      "知识论",
+      "nature of knowledge"
+    ]
+  },
+  {
     "title": "Epistemology of Resistance",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
@@ -1081,6 +1094,20 @@
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
     "aliases": [
       "叙事知识"
+    ]
+  },
+  {
+    "title": "Ontology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ontology.md",
+    "aliases": [
+      "本体论",
+      "ontological assumptions",
+      "本体论假设",
+      "nature of reality",
+      "实在的本质",
+      "realism",
+      "nominalism"
     ]
   },
   {
@@ -4625,6 +4652,23 @@
     ]
   },
   {
+    "title": "Interpretive Paradigm",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Interpretive Paradigm.md",
+    "aliases": [
+      "诠释范式",
+      "解释主义范式",
+      "anti-positivism",
+      "反实证主义",
+      "naturalistic inquiry",
+      "自然主义探究",
+      "qualitative paradigm",
+      "interpretive approach",
+      "naturalistic approach",
+      "subjectivist approach"
+    ]
+  },
+  {
     "title": "Inverted Triangle Literature Search",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Inverted Triangle Literature Search.md",
@@ -4812,6 +4856,19 @@
     ]
   },
   {
+    "title": "Paradigm",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Paradigm.md",
+    "aliases": [
+      "范式",
+      "paradigms",
+      "paradigm shift",
+      "范式转换",
+      "范式转移",
+      "Kuhn's paradigm"
+    ]
+  },
+  {
     "title": "Performance Indicators",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Performance Indicators.md",
@@ -4829,6 +4886,17 @@
     "aliases": [
       "测量的生产性",
       "测量的施行性"
+    ]
+  },
+  {
+    "title": "Positivism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Positivism.md",
+    "aliases": [
+      "实证主义",
+      "positivist approach",
+      "positivist paradigm",
+      "positivist science"
     ]
   },
   {
@@ -5080,6 +5148,18 @@
       "测量量表",
       "measurement scale",
       "scales of measurement"
+    ]
+  },
+  {
+    "title": "Scientific Method",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Scientific Method.md",
+    "aliases": [
+      "科学方法",
+      "empirical science",
+      "经验科学",
+      "scientific approach",
+      "hypothetico-deductive method"
     ]
   },
   {
@@ -5855,6 +5935,19 @@
     ]
   },
   {
+    "title": "Complexity Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Complexity Theory.md",
+    "aliases": [
+      "复杂性理论",
+      "complexity science",
+      "复杂理论",
+      "complex adaptive systems",
+      "复杂适应系统",
+      "chaos theory"
+    ]
+  },
+  {
     "title": "Critical Realism",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Critical Realism.md",
@@ -6383,6 +6476,17 @@
     ]
   },
   {
+    "title": "Ethnomethodology",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Ethnomethodology.md",
+    "aliases": [
+      "俗民方法学",
+      "常人方法学",
+      "ethnomethodological",
+      "ethnomethodologist"
+    ]
+  },
+  {
     "title": "Lefebvre's Spatial Triad",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Lefebvre's Spatial Triad.md",
@@ -6416,6 +6520,17 @@
     "aliases": [
       "社会资本理论",
       "social capital"
+    ]
+  },
+  {
+    "title": "Symbolic Interactionism",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Symbolic Interactionism.md",
+    "aliases": [
+      "符号互动论",
+      "symbolic interaction",
+      "symbolic interactionist",
+      "符号互动"
     ]
   },
   {
@@ -7903,6 +8018,16 @@
     ]
   },
   {
+    "title": "Auguste Comte",
+    "type": "person",
+    "path": "wiki/persons/france/Auguste Comte.md",
+    "aliases": [
+      "奥古斯特·孔德",
+      "Comte",
+      "Isidore Auguste Marie François Xavier Comte"
+    ]
+  },
+  {
     "title": "Andreas Helmke",
     "type": "person",
     "path": "wiki/persons/germany/Andreas Helmke.md",
@@ -8708,6 +8833,17 @@
       "Bandura, A.",
       "阿尔伯特·班杜拉",
       "班杜拉"
+    ]
+  },
+  {
+    "title": "Thomas Kuhn",
+    "type": "person",
+    "path": "wiki/persons/usa/Thomas Kuhn.md",
+    "aliases": [
+      "托马斯·库恩",
+      "Kuhn",
+      "T. S. Kuhn",
+      "Thomas S. Kuhn"
     ]
   },
   {
@@ -11290,6 +11426,11 @@
     "title": "Argument_Cheng_2026_KeJiChuangXin",
     "type": "argument",
     "path": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

@@ -68,7 +68,7 @@ updated: '2026-06-08'
 > [!info] 国际化理性的双重结构：发展主义 vs 市场理性
 > Rizvi 识别了驱动[[Internationalization of Higher Education|高等教育国际化]]的两种根本不同的理性（详见 高等教育国际化 > 概念演变）：
 >
-> - **发展主义理性**（旧范式）：国际化被理解为现代化援助、能力建设和国际理解的工具——西方大学招收国际学生被视为帮助发展中国家培养人才
+> - **发展主义理性**（旧[[Paradigm|范式]]）：国际化被理解为现代化援助、能力建设和国际理解的工具——西方大学招收国际学生被视为帮助发展中国家培养人才
 > - **市场理性**（新范式）：国际化被重新定义为出口产业——国际学生被视为收入来源和市场份额，成功以招收全额付费学生的数量衡量([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])
 
 
@@ -85,7 +85,7 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success] 影响
-> - 为[[Geopolitics of Knowledge|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了[[Knowledge-Based Economization|知识经济化]]、[[Spatial Sortings|空间分选]]和认识论治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])
+> - 为[[Geopolitics of Knowledge|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了[[Knowledge-Based Economization|知识经济化]]、[[Spatial Sortings|空间分选]]和[[Epistemology|认识论]]治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])
 > - 为[[International Education Hubs|国际教育枢纽]]的分析提供了亚洲视角——IEHs 集中体现了亚洲国家从国际化的被动接受者到主动塑造者的角色转变
 > - 对NPM 在高等教育中的运作机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
 >

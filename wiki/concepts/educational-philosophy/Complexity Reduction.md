@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **2010** — Biesta 使用该概念解释教育系统的可预测性从何而来
-> - **2010b** — Biesta 在 *Complexity Theory and the Politics of Education* 中进一步探讨复杂性化简的政治维度
+> - **2010b** — Biesta 在 *[[Complexity Theory]] and the Politics of Education* 中进一步探讨复杂性化简的政治维度
 > - **理论根源**：来自[[Luhmann's Systems Theory|系统理论]]（systems theory）对封闭/开放/递归/符号系统的区分
 
 ## 核心要素

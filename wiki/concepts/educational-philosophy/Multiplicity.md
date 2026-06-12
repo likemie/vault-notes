@@ -38,7 +38,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 多重性（multiplicity）是 [[Doreen Massey]]（2005）空间理论中最重要的概念，指空间中"差异的共存"（the co-existence of difference）。空间是"共存[[Heterogeneity|异质性]]"（co-existing heterogeneity）的领域，不同行动者的轨迹在此交汇，空间因此必然包含复数性。多重性是 Massey 开放本体论的直接推论：如果空间不是预先给定的容器而是关系性产物，那么它必然包含不可化约的复数性([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–6]])。
+> 多重性（multiplicity）是 [[Doreen Massey]]（2005）空间理论中最重要的概念，指空间中"差异的共存"（the co-existence of difference）。空间是"共存[[Heterogeneity|异质性]]"（co-existing heterogeneity）的领域，不同行动者的轨迹在此交汇，空间因此必然包含复数性。多重性是 Massey 开放[[Ontology|本体论]]的直接推论：如果空间不是预先给定的容器而是关系性产物，那么它必然包含不可化约的复数性([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 5–6]])。
 
 > [!quote]
 > "Conceptualizing space as open, multiple and relational, unfinished and always becoming, is a prerequisite for history to be open and thus … for the possibility of politics"（Massey, 2005, p. 59）
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 > [!abstract]
 > - **差异共存** — 差异涵盖"多样性、从属关系、[[Conflict of Interest in Research|利益冲突]]"等所有意义（Massey, 2005, p. 61）。在特定情境中，相关区分的轴线可以不同：例如在全球科学中可以是语言和引用网络，在国际学生市场中可以是学费和移民政策([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 6]])
 > - **全球化加剧多重性** — 全球化是"一个通过连接来分化世界的共享历史过程"（Gupta & Ferguson, 1992, p. 16）。趋同产生越来越频繁的与他者相遇——例如[[International Education|国际教育]]使学生和学者接触不同的知识传统，但这并不导致同质化，反而使差异更加可见([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 6]])
-> - **权力系统的非永久性** — 在不断涌现的本体论中，任何权力系统都不是永久固定的。Massey（2003）指出"总是有松散的末端"（loose ends），包括那些通过想象和实践塑造空间的人和机构行动者。Marginson 以中国和新加坡大学的崛起为例，说明即使在英美主导的全球高等教育格局中，松动末端始终存在([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 6–7]])
+> - **权力系统的非永久性** — 在不断涌现的[[Ontology|本体论]]中，任何权力系统都不是永久固定的。Massey（2003）指出"总是有松散的末端"（loose ends），包括那些通过想象和实践塑造空间的人和机构行动者。Marginson 以中国和新加坡大学的崛起为例，说明即使在英美主导的全球高等教育格局中，松动末端始终存在([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 6–7]])
 > - **不可控的新差异** — 一些差异不会闭合为同一性，新的差异不断出现。社会（及文化、政治）多样性随时间推移是不可阻挡的事实([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 7]])
 
 ---
@@ -73,7 +73,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放本体论之上，详见 Massey > 核心思想
+> - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放[[Ontology|本体论]]之上，详见 Massey > 核心思想
 > - Lefebvre（1991）空间生产理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的开放性和未完成性
 
 ---

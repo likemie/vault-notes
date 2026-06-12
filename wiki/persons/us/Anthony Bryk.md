@@ -28,7 +28,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Anthony S. Bryk，Carnegie Foundation for the Advancement of Teaching 高级研究员，将[[Improvement Science|改进科学]]引入美国教育研究领域的关键人物。领导开发了网络化改进社区（Networked Improvement Communities）模型，将来自组织研究的改进科学方法论（Langley et al., 2009）系统性地应用于教育领域。
+> Anthony S. Bryk，Carnegie Foundation for the Advancement of Teaching 高级研究员，将[[Improvement Science|改进科学]]引入美国教育研究领域的关键人物。领导开发了网络化改进社区（Networked Improvement Communities）模型，将来自组织研究的改进[[Scientific Method|科学方法]]论（Langley et al., 2009）系统性地应用于教育领域。
 
 ## 核心思想
 
@@ -37,7 +37,7 @@ updated: '2026-06-08'
 >
 > > "Key aspects of [[Improvement Science]] involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306, summarizing Bryk et al., 2015]])
 >
-> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 将 Bryk 等人的[[Improvement Science|改进科学]]定位为"什么有效"范式的最突出替代方案。
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 将 Bryk 等人的[[Improvement Science|改进科学]]定位为"什么有效"[[Paradigm|范式]]的最突出替代方案。
 
 ## 主要著作
 

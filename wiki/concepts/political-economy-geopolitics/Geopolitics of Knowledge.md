@@ -106,7 +106,7 @@ updated: 2026-05-20
 
 > [!boundary]- 概念边界
 > - **不等于[[Classical Geopolitics|古典地缘政治]]**：古典地缘政治以领土控制、军事力量和民族国家为中心；GPK 关注[[Relational Space|关系性空间]]构型，核心维度是政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]（Thompson & Parreira do Amaral, 2022, pp.9–11）。
-> - **不等于地缘经济学**（geoeconomics）：地缘经济学强调贸易、投资和市场逻辑，与 GPK 共享经济竞争关注但较少涉及[[Knowledge Production|知识生产]]的政治和认识论维度（Thompson & Parreira do Amaral, 2022, p.11）。
+> - **不等于地缘经济学**（geoeconomics）：地缘经济学强调贸易、投资和市场逻辑，与 GPK 共享经济竞争关注但较少涉及[[Knowledge Production|知识生产]]的政治和[[Epistemology|认识论]]维度（Thompson & Parreira do Amaral, 2022, p.11）。
 > - **不限于[[International Education|国际教育]]政策**：GPK 渗透到认识论治理（研究资助分配机制）和主体性生产的微观层面，远超出国际教育政策范畴。
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-05-20
 > - **2000s–2010s** GPK 话语快速强化；空间转向深化，地缘政治分析从领土性转向关系性、网络化视角（Thompson & Parreira do Amaral, 2022, p.10）
 > - **2010s** 知识明显超越能源、石油等自然资源，成为"geopolitics of"语境中书写最密集的主题（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
 > - **2018** [[Sami Moisio]] 提出[[Knowledge-Based Economization|知识经济化]]概念，整合 Harvey 的[[Fixity-Motion Tension|固着-流动张力]]与 Porter 的[[National Competitive Advantage|国家竞争优势]]，将批判地缘政治学与全球经济过程相链接
-> - **2022a** [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两条脉络综合为"新知识地缘政治"[[Analytic Framework|分析框架]]，以 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合为认识论治理的典型案例
+> - **2022a** [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两条脉络综合为"新知识地缘政治"[[Analytic Framework|分析框架]]，以 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合为[[Epistemology|认识论]]治理的典型案例
 > - **2022b** [[Argument_Thompson_2022_Promising_Student|Thompson et al.（2022）]]将 GPK 延伸至数字教学治理微观层面；[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示远距治理的三重机制
 > - **2025** [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Massey [[Relational Space|关系性空间]]理论，将 1990–2015 与 2015 至今界定为 GPK 的两个历史阶段，理论化西方部分去全球化与中美脱钩
 
@@ -169,7 +169,7 @@ updated: 2026-05-20
 ## 核心命题
 
 > [!abstract]
-> GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心地缘政治装置，治理通过认识论控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge|叙事知识]]衰退），决定话语权力的全球格局。
+> GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心地缘政治装置，治理通过[[Epistemology|认识论]]控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge|叙事知识]]衰退），决定话语权力的全球格局。
 
 > [!logic-map] 核心命题关系
 >
@@ -193,7 +193,7 @@ updated: 2026-05-20
 > 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑操作化为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过远距治理机制运作。详见 [[Governmentality#全球治理技术]]。
 
 > [!line-b] 认识论治理与治理理性转换
-> GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论范式固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换**：从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
+> GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换**：从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
 
 ---
 
@@ -210,8 +210,8 @@ updated: 2026-05-20
 > [!logic-map] 理论归属
 > - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy|知识经济]]话语层面转向物质过程和实践
 > - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space|关系性空间]]分析和话语建构分析工具；[[Sami Moisio]] 为 GPK 批判地缘政治学方向的核心代表
-> - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示当前知识经济化在认识论层面的殖民性延续
-> - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心本体论基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
+> - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology|认识论]]层面的殖民性延续
+> - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心[[Ontology|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
 > - [[Space-Making]] — [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践）
 > - [[Multiplicity]] — Massey 的多重性概念预测并解释全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
 > - [[Global Regionalisms]] — Robertson et al.（2016）揭示高等教育如何通过区域整合项目成为地缘政治想象的核心支柱
@@ -261,7 +261,7 @@ updated: 2026-05-20
 > [!finding-cards]
 > 1. **[[Knowledge-Based Economization|知识经济化]]与城市空间竞争**：大型城市日益体现国家竞争力，国家将资源转向首都和城市基础设施。[[Economic Patriotism|经济爱国主义]]将特定领土的利益推进作为核心策略（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]]）
 > 2. **[[Spatial Sortings|空间分选]]的系统性效应**：增长潜力集中在[[Knowledge-Based Economy|知识经济]]城市枢纽，枢纽之外地区经历相对衰退。关键[[Research Problem|研究议题]]：包容与排斥机制、被排斥人群的后果、国家的中介角色（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]]）
-> 3. **[[Global Regionalisms|全球区域主义]]中教育角色转变**：从"国际组织如何影响教育"到"教育项目如何参与想象和建构世界区域本身"的认识论转向（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.41]]）
+> 3. **[[Global Regionalisms|全球区域主义]]中教育角色转变**：从"国际组织如何影响教育"到"教育项目如何参与想象和建构世界区域本身"的[[Epistemology|认识论]]转向（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.41]]）
 > 4. **[[International Education Hubs|国际教育枢纽]]作为 GPK 的物质化**：IEHs 集中于东亚和中东，从学生→人才→知识/[[Innovation Hub|创新枢纽]]的梯级代表与知识经济逻辑越来越深度的整合；高等教育治理理性从社会/教育范畴转向经济范畴（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]]）
 > 5. **[[Global Education Industry|全球教育产业]]作为独立运作领域**："教育已成为一项经济事业，无数行动者在此基础上生产、交换和消费教育商品和服务"；其经济逻辑已渗透全球教育改革和重组（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.42–43]]）
 
@@ -395,7 +395,7 @@ updated: 2026-05-20
 
 > [!tension] 核心争议
 > GPK 内部存在三组理论张力：
-> - **[[Critical Geopolitics|批判地缘政治学]] vs 去殖民传统**：谁的问题更根本？建构地缘政治秩序的空间想象（批判传统）vs 认识论本身的殖民性（去殖民传统）。二者可综合互补（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）
+> - **[[Critical Geopolitics|批判地缘政治学]] vs 去殖民传统**：谁的问题更根本？建构地缘政治秩序的空间想象（批判传统）vs [[Epistemology|认识论]]本身的殖民性（去殖民传统）。二者可综合互补（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）
 > - **Partaken 的两面批判**：后殖民 GPK 传统是否过度聚焦[[Knowledge Production|知识生产]]而忽视[[Knowledge Transfer|知识转移]]的动态现实——挪用、间谍、审查和破坏才是当代 GPK 竞争的主战场？（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75]]）
 > - **经济中心化争议**：GPK 框架是否过度强调经济逻辑，从而系统性地忽视高等教育的文化、伦理和民主功能？（Thompson & Parreira do Amaral, 2022, pp.12–13）
 
@@ -415,7 +415,7 @@ updated: 2026-05-20
 > - Made in China 2025 — 对 AI、量子计算、半导体注入专项资金，直接重塑大学研究优先级，体现国家赞助机制决定"有价值的知识"（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.71, 74–75]]）
 
 > [!evidence-grid-b] 制度-政策案例
-> - [[Horizon 2020 SSH Integration]] — 取消 SSH 独立资助渠道，横向嵌入并要求"直接为政策制定的证据基础做贡献"——认识论治理的典型案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）
+> - [[Horizon 2020 SSH Integration]] — 取消 SSH 独立资助渠道，横向嵌入并要求"直接为政策制定的证据基础做贡献"——[[Epistemology|认识论]]治理的典型案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）
 > - [[International Education Hubs|国际教育枢纽]] — 集中在东亚和中东（香港、新加坡、阿联酋等），学生枢纽→人才枢纽→知识/[[Innovation Hub|创新枢纽]]的梯级代表与[[Knowledge-Based Economy|知识经济]]逻辑越来越深度的整合（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]]）
 > - [[Minerva University]] — 无校园、全球化营利性大学，学生四年在七个世界城市轮转，体现高等教育彻底"脱嵌"民族国家框架（Thompson & Parreira do Amaral, 2022, pp.2–3）
 > - [[University Industry Innovation Network|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示话语如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）

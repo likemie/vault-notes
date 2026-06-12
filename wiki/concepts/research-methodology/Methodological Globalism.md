@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 方法论全球主义（methodological globalism）是 Marginson（2025）提出的批判性概念，指一种与 [[Methodological Nationalism|方法论民族主义]] 对称但方向相反的认识论错误：认为国家尺度和地方现象完全由全球尺度决定，否定了国家和其他尺度的相对自主性。如果说方法论民族主义"只看见国家"，方法论全球主义则"只看见全球系统"——两者都犯了将复杂多重空间还原为单一尺度的错误([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])。
+> 方法论全球主义（methodological globalism）是 Marginson（2025）提出的批判性概念，指一种与 [[Methodological Nationalism|方法论民族主义]] 对称但方向相反的[[Epistemology|认识论]]错误：认为国家尺度和地方现象完全由全球尺度决定，否定了国家和其他尺度的相对自主性。如果说方法论民族主义"只看见国家"，方法论全球主义则"只看见全球系统"——两者都犯了将复杂多重空间还原为单一尺度的错误([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])。
 
 > [!quote]
 > "[[World-Systems Theory]] commits the error of methodological globalism, whereby the national scale is wholly determined by the global."([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Methodological Nationalism|方法论民族主义]] — 二者是对称的认识论错误：方法论民族主义认为只有国家尺度是真实的（全球现象被遮蔽），方法论全球主义认为只有全球尺度是真实的（国家能动性被否定）。Marginson 指出，[[Scale in Higher Education|尺度分析]]的真正要求是容纳多重尺度的共存和互动，不将任何尺度还原为其他尺度([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8, 13]])
+> - vs [[Methodological Nationalism|方法论民族主义]] — 二者是对称的[[Epistemology|认识论]]错误：方法论民族主义认为只有国家尺度是真实的（全球现象被遮蔽），方法论全球主义认为只有全球尺度是真实的（国家能动性被否定）。Marginson 指出，[[Scale in Higher Education|尺度分析]]的真正要求是容纳多重尺度的共存和互动，不将任何尺度还原为其他尺度([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8, 13]])
 > - vs 全球化理论中的"全球决定论" — 方法论全球主义不是一般的"重视全球因素"，而是特定的**还原论**立场：将国家现象视为全球结构的单纯函数，排除了国家和其他尺度的相对自主演化能力
 > - vs [[Scale in Higher Education|尺度分析]] — 尺度分析坚持尺度的不可化约性，是最直接的方法论替代方案
 
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Scale in Higher Education]] — 尺度不可化约理论提供了最直接的反驳工具：不同尺度有不同的运作逻辑，全球尺度不能代替国家尺度
 > - [[Semi-Autonomy of Higher Education]] — 高等教育和科学的半自主性概念为理解国家尺度的相对独立性提供了理论依据
-> - [[Multiplicity]] — Massey 的多重性概念从本体论层面排除了单一尺度决定论的可能：如果空间总是多重的，那么任何单一尺度都不可能完全决定其他尺度
+> - [[Multiplicity]] — Massey 的多重性概念从[[Ontology|本体论]]层面排除了单一尺度决定论的可能：如果空间总是多重的，那么任何单一尺度都不可能完全决定其他尺度
 
 ---
 

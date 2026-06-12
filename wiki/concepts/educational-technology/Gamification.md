@@ -89,5 +89,5 @@ Zichermann & Cunningham（2011, pp.ix–x）的设计目标——使体验"可�
 > [!example]
 > - vs [[Feedback]]（教学反馈）——教学反馈的目标是帮助学生理解错误、克服误解；Gamification 反馈的目标是维持用户交互和平台黏性。前者以内容为中心，后者以行为调节为中心。详见 [[Feedback#数字学习工具中的算法反馈]]
 > - vs [[Bildung]]——Bildung 要求时间、反思和容纳歧义的空间；Gamification 依赖即时性、确定性和连续的正反馈循环。两者在目标上根本对立
-> - vs [[Data Behaviorism|数据行为主义]]——数据行为主义是 Gamification 的深层知识论基础：Gamification 是数据行为主义在界面设计层面的具体实现，通过积分和徽章追踪和调节行为，不需要理解"为什么"
+> - vs [[Data Behaviorism|数据行为主义]]——数据行为主义是 Gamification 的深层[[Epistemology|知识论]]基础：Gamification 是数据行为主义在界面设计层面的具体实现，通过积分和徽章追踪和调节行为，不需要理解"为什么"
 

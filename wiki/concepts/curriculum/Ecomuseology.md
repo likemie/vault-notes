@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs **[[Social Museology]]**（社会博物馆学）：共享"社区居民作为主角"的核心原则，但焦点不同——生态博物馆学聚焦**地域**（territory），社会博物馆学聚焦**社区**（community）。生态博物馆学更强调空间和生态维度，社会博物馆学更强调社会动员和制度变革维度。详见 [[Social Museology#概念辨析]]
-> - vs **传统博物馆（Traditional Museum）**：传统博物馆以建筑和藏品为中心，由专家策展，观众被动观看。生态博物馆以地域和社区为中心，由居民策展——二者在"什么是博物馆"的本体论问题上根本对立
+> - vs **传统博物馆（Traditional Museum）**：传统博物馆以建筑和藏品为中心，由专家策展，观众被动观看。生态博物馆以地域和社区为中心，由居民策展——二者在"什么是博物馆"的[[Ontology|本体论]]问题上根本对立
 
 ## 概念演变
 
@@ -73,9 +73,9 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Creative Tension of Sense]] — 新旧博物馆学范式之间的张力是"意义张力"在文化遗产制度领域的呈现。生态博物馆学在旧秩序（建筑中心、专家权威）内部培育了一种以地域和社区为核心的新范式([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–112]])
+> - [[Creative Tension of Sense]] — 新旧博物馆学[[Paradigm|范式]]之间的张力是"意义张力"在文化遗产制度领域的呈现。生态博物馆学在旧秩序（建筑中心、专家权威）内部培育了一种以地域和社区为核心的新范式([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–112]])
 > - [[Ganz-Methode]] — 生态博物馆学的操作逻辑与 Ganz-Methode 两步法对应。详见 [[Ganz-Methode#核心要素]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 112–113]])
-> - [[Decolonial Geopolitics of Knowledge]] — 生态博物馆学以地域和社区的知识权威替代西方博物馆学的专家权威，是去殖民认识论在文化遗产制度中的实践
+> - [[Decolonial Geopolitics of Knowledge]] — 生态博物馆学以地域和社区的知识权威替代西方博物馆学的专家权威，是去殖民[[Epistemology|认识论]]在文化遗产制度中的实践
 
 ## 实证发现
 

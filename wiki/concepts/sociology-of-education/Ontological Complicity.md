@@ -44,7 +44,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info] 核心定义
-> **本体论共谋**（Ontological Complicity）是法国社会学家[[Pierre Bourdieu|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的惯习（[[Habitus]]）与他们所处的社会[[Champ|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
+> **[[Ontology|本体论]]共谋**（Ontological Complicity）是法国社会学家[[Pierre Bourdieu|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的惯习（[[Habitus]]）与他们所处的社会[[Champ|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
 
 > [!quote]
 > 在布迪厄的社会学中，本体论共谋是指客观结构与主观认知图式之间的前反思性吻合。这种深植于惯习中的共谋，使得行动者几乎不可能自发与他们所习以为常的世界割裂。
@@ -59,7 +59,7 @@ updated: 2026-06-10
 ## 概念辨析
 
 > [!contrast-table] 共谋与顺从的机制辨析
-> | 维度 | 本体论共谋 (Ontological Complicity) | 理性共谋 (Rational Complicity) | 盲目顺从 (Blind Conformity) |
+> | 维度 | [[Ontology\|本体论]]共谋 (Ontological Complicity) | 理性共谋 (Rational Complicity) | 盲目顺从 (Blind Conformity) |
 > |------|--------|----------------|----------------|
 > | **认知维度** | 前[[Reflexivity\|反思性]]、具身化的潜意识契合。 | 意识层面的工具理性算计。 | 外部压力下的被动合规行为。 |
 > | **核心机制** | 惯习与[[Champ\|场域]]的同构性（共鸣）。 | 利益交换、合规性策略选择。 | 规训、奖惩与行政问责。 |
@@ -70,7 +70,7 @@ updated: 2026-06-10
 ## 核心命题
 
 > [!abstract]
-> 本体论共谋确立了行动者对[[Champ|场域]]秩序的前反思认可，从而转化为在教育场域中对特定“大师品牌”和管理框架的无意识维护与制度深锁。
+> [[Ontology|本体论]]共谋确立了行动者对[[Champ|场域]]秩序的前反思认可，从而转化为在教育场域中对特定“大师品牌”和管理框架的无意识维护与制度深锁。
 
 > [!logic-map] 命题关系
 > 
@@ -94,7 +94,7 @@ updated: 2026-06-10
 ## 理论语境
 
 > [!logic-map] 理论归属
-> - **[[Pierre Bourdieu|布迪厄]]关系社会学** — 本体论共谋是解释[[Champ|场域]]再生产（reproduction）和象征暴力（symbolic violence）的微观认知基础。
+> - **[[Pierre Bourdieu|布迪厄]]关系社会学** — [[Ontology|本体论]]共谋是解释[[Champ|场域]]再生产（reproduction）和象征暴力（symbolic violence）的微观认知基础。
 > - **关系社会学（Relational Sociology）** — [[Scott Eacott|斯科特·伊科特]]将本体论共谋引入教育行政学，强调以“关系”而非“实体”视角分析[[School Leadership|学校领导力]]的霸权网络，打破实体主义（substantialist）将个体或品牌孤立看待的盲区。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
 
 ---

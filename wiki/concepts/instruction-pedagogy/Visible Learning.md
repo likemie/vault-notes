@@ -127,7 +127,7 @@ updated: 2026-06-10
 > | 核心机制 | [[Meta-meta-analysis\|元-元分析]] + 教师思维框架（mind frames）+ 忠实实施培训 | Cohen's d 等标准化差异量，d=0.40 为 Hattie 所设"铰链点" | 研究-政策-实践传播链；包含 [[Education Endowment Foundation\|EEF]]、[[What Works Clearinghouse]] 等机构 |
 > | 边界说明 | VL 以效应量为骨架，但效应量本身是工具而非 VL 的全部 | 方法论工具，不含实施逻辑；统计假设与解释边界见 [[Effect Size]] | VL 是 EBE 运动中最具全球品牌影响力的具体项目 |
 
-其他相关条目消歧：[[Critiques of Visible Learning]] 处理 VL 的批评谱系；[[Visible Learning Branding and Global Influences]] 处理品牌扩张与商业网络；[[Evidence-Based Reform]] 是 Slavin 的开发-评估-推广范式，与 VL 侧重不同；[[Dynamic Knowledge and Learning Model]] 要求区分 VL 所忽略的不同知识形态上的学习结果；[[Scientism]] 是对 VL 的外部批判框架之一。
+其他相关条目消歧：[[Critiques of Visible Learning]] 处理 VL 的批评谱系；[[Visible Learning Branding and Global Influences]] 处理品牌扩张与商业网络；[[Evidence-Based Reform]] 是 Slavin 的开发-评估-推广[[Paradigm|范式]]，与 VL 侧重不同；[[Dynamic Knowledge and Learning Model]] 要求区分 VL 所忽略的不同知识形态上的学习结果；[[Scientism]] 是对 VL 的外部批判框架之一。
 
 ---
 
@@ -152,7 +152,7 @@ updated: 2026-06-10
 
 [[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–234)]] 描述了 Hattie [[Meta-meta-analysis|元-元分析]]（mega-analysis）的操作步骤：
 
-> [!step] 操作步骤
+> [!proc] 操作步骤
 > 1. **确定 6 个影响源**（sources of influence）：家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
 > 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
 > 3. **对每个因素综合各[[Meta-analysis|元分析]]，计算平均[[Effect Size|效应量]]**（d），范围 -2 到 2
@@ -236,7 +236,7 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 ### 八项教师思维框架（Mind Frames）
 
 > [!frames-ref] 八项教师思维框架（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]]）
-> 1. **Know thy impact** — 每日追问影响的含义、幅度与覆盖学生比例；是所有框架的认识论核心
+> 1. **Know thy impact** — 每日追问影响的含义、幅度与覆盖学生比例；是所有框架的[[Epistemology|认识论]]核心
 > 2. **I am a change agent** — 教师是主动改变学生学习轨迹的推动者，而非被动传递者
 > 3. **Inform from the outset** — 课程开始明确成功标准，将目标从隐性变为显性
 > 4. **Assessment as [[Feedback]] on my impact** — 评估首先是教师了解自身影响力的数据，而非排名工具
@@ -346,9 +346,9 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 > 
->    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与[[Student Agency|学生领导力]]。
+>    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
 > 
->    **丹麦**：2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *Hattie på dansk*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
+>    **丹麦**：2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *[[Hattie på dansk]]*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
 > 
 >    **俄罗斯**：2017 年翻译出版 VL 俄文版。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–233)]] 评估后指出 VL 元分析主要基于 1980s–2000s 三个英语国家的研究，跨文化迁移性有限，建议俄教育政策不予直接采用。
 > 
@@ -360,10 +360,10 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 ## 理论基础
 
 > [!logic-map] 理论归属
-> - 实证主义／行为主义 → VL：假设所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
+> - [[Positivism|实证主义]]／行为主义 → VL：假设所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
 > - [[New Public Management]] ←→ VL：VL 被描述为"新管理全景监狱主义"的完美工具，使每个人可监视其他所有人（Ball, 2003, p.219）；同时借用[[Progressive Education|进步主义教育]]哲学语言（"学习必须被学习者分享、承诺和理解"），使其难以抵制（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）
 > - [[Radical Constructivism]] ←→ VL：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 Hattie 完全接受 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]学习观，但在其上叠加"教师中心教学"，导致教学概念双重瓦解（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp.7–8]]）
-> - [[Popper's Three Worlds Theory]] — Hattie 以 Popper 三个世界理论为认识论基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清
+> - [[Popper's Three Worlds Theory]] — Hattie 以 Popper 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清
 
 ---
 
@@ -405,11 +405,11 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - **Hattie & Yates** — 好教师不能以特定人格类型定义。
 > - **Fredens（引 Lambert & Barley, 2001）** — 治疗师人格是治疗关系中最重要的因素，比所用方法更重要；由此质疑：教师的人格性表现（personlige ageren）在[[Student-Teacher Relationship|师生关系]]中是否比所用方法更具决定性？（[[Argument_Fredens_2015_Paideia|Fredens, 2015, p.73]]）
 
-> [!tension] Neo-Taylorism 批评与学术体制免疫（Eacott, 2017–2019）
+> [!tension] [[Neo-Taylorism]] 批评与学术体制免疫（Eacott, 2017–2019）
 > - **Hattie** — VL 把"影响教育成就的因素"转化为可按[[Effect Size|效应量]]排名的离散干预列表，告诉教育者"做什么以获得最大回报"（maximum return）；用行政语言说话的数据填补了 NAPLAN/[[PISA]]/TIMSS 问责压力与操作细节之间的空缺（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
 > - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学实践；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
 >
-> **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 Popper 证伪主义否认"大师崇拜"，其回应被 *School Leadership & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
+> **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 Popper 证伪主义否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
 ---
 
 > [!citation-card]

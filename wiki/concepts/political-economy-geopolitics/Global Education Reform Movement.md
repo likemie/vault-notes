@@ -52,7 +52,7 @@ updated: 2026-05-18
 
 > [!info] 理论基础
 > - [[New Public Management]] — 新管理主义为 GERM 提供制度操作框架
-> - [[Technical Rationality]] — 手段-目的思维为 GERM 的效率追求提供认识论基础
+> - [[Technical Rationality]] — 手段-目的思维为 GERM 的效率追求提供[[Epistemology|认识论]]基础
 
 ## 实证发现
 

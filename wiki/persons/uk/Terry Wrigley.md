@@ -46,7 +46,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism|批判实在论]]（critical realism）分析 [[Evidence-Based Education|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials|RCT]] → [[Meta-analysis|元分析]] → [[Meta-meta-analysis|元-元分析]]）著称。
+> Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism|批判实在论]]（critical [[Ontology|realism]]）分析 [[Evidence-Based Education|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials|RCT]] → [[Meta-analysis|元分析]] → [[Meta-meta-analysis|元-元分析]]）著称。
 
 ## 生平与职涯
 
@@ -72,13 +72,13 @@ updated: '2026-06-08'
 >
 > 1. **三层批判框架**：Wrigley 独特之处在于不只在 [[Randomised Controlled Trials|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（Hattie / [[Education Endowment Foundation|EEF]] Toolkit）中进一步失真。
 >
-> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层本体论（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
+> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层[[Ontology|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
 > 3. **新自由主义框架分析**：Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 >
-> 4. **"简单科学观"批判**（与 McCusker 合作，2019）：[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 将批判从方法论层次提升至**科学哲学**层次——论证 EBT 倡导者的"科学"宣称依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012, p. 28），它捕捉了科学的表面特征（实验、测量、统计）但缺乏对科学方法的理论理解。通过 [[EEF Teaching and Learning Toolkit]] 体育参与条目的深度案例追踪，展示了元-元分析如何在多级统计聚合中系统性消除因果解释信息。详见 [[Argument_Wrigley_2019_ERE]]。
+> 4. **"简单科学观"批判**（与 McCusker 合作，2019）：[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 将批判从方法论层次提升至**科学哲学**层次——论证 EBT 倡导者的"科学"宣称依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012, p. 28），它捕捉了科学的表面特征（实验、测量、统计）但缺乏对[[Scientific Method|科学方法]]的理论理解。通过 [[EEF Teaching and Learning Toolkit]] 体育参与条目的深度案例追踪，展示了元-元分析如何在多级统计聚合中系统性消除因果解释信息。详见 [[Argument_Wrigley_2019_ERE]]。
 >
 > > "It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science." ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])
 
@@ -89,7 +89,7 @@ updated: '2026-06-08'
 > - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 Hattie [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford 教学助理被误用、体育参与案例等）
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
 > - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
-> - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的本体论框架
+> - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的[[Ontology|本体论]]框架
 > - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
 
 ## 思想发展与影响

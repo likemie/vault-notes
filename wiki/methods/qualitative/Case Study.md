@@ -51,7 +51,7 @@ updated: 2026-06-01
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemology|认识论]]立场
 > - 个案研究不追求统计代表性的"普遍化"（generalization），但追求在地方性知识基础上"以小见大"，建立**社会意义的理论推论**（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - 研究逻辑：宏观社会过程会以不同方式投射到不同个人身上，影响其生命历程并反映在个人意义建构中——因此可以通过对少数典型个案的深度考察，发现超越个案的社会机制（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引生活史社会学传统）
 > - Yin（2009）从方法论角度提出，个案研究结果可以通过**复制逻辑**（replication logic）推广到更广泛的理论——类似于[[Experimental Research|实验研究]]中通过重复实验来验证理论的方式。当[[Qualitative Research|质性研究]]者研究额外的案例并将发现应用于新案例时，推广就发生了。前提是需要对质性程序进行详细记录，包括案例研究协议和全面的案例研究数据库（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.215）。

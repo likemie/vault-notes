@@ -39,7 +39,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 社会实在论（Social Realism）是教育研究中的认识论框架，强调学科知识的重要性。它认为知识是社会建构的，同时承认知识独立于知者存在且具有在世界中的效果。社会实在论主张为所有学生提供接触学科概念性认知方式的机会，同时认识到知识是社会建构的且会变化([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> 社会实在论（Social [[Ontology|realism]]）是教育研究中的[[Epistemology|认识论]]框架，强调学科知识的重要性。它认为知识是社会建构的，同时承认知识独立于知者存在且具有在世界中的效果。社会实在论主张为所有学生提供接触学科概念性认知方式的机会，同时认识到知识是社会建构的且会变化([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 > [!quote]
 > "Social realism emphasizes the importance of providing access for all students to the conceptual ways of knowing subjects, while recognizing that knowledge is socially constructed and subject to change."([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])
@@ -52,7 +52,7 @@ updated: 2026-06-06
 
 > [!example]
 > - vs [[Constructivist Paradigm|社会建构主义]]（Social Constructivism） — 社会建构主义强调知识是社会建构的，但可能忽视知识的独立存在和效果。社会实在论承认知识是社会建构的，但坚持知识独立于知者存在且具有在世界中的效果。
-> - vs [[Powerful Knowledge|有力知识]] — 有力知识是社会实在论框架中的一个核心概念，描述来自学科的、具有独特禀赋的知识。社会实在论是更广泛的认识论框架，有力知识是其在课程研究中的具体应用。
+> - vs [[Powerful Knowledge|有力知识]] — 有力知识是社会实在论框架中的一个核心概念，描述来自学科的、具有独特禀赋的知识。社会实在论是更广泛的[[Epistemology|认识论]]框架，有力知识是其在课程研究中的具体应用。
 
 ---
 

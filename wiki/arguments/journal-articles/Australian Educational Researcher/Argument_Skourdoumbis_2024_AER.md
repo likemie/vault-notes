@@ -64,7 +64,7 @@ citation_aliases:
 > [!question] 核心关切与政策谜题
 > 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查(Louden, 2008, p. 357)，被Mockler(2023)称为"检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤"(p. 115)。2023年联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，在延续2015年《行动立即开始》（[[TEMAG|Teacher Education Ministerial Advisory Group]], TEMAG）和2022年《优质初始教师教育》审查逻辑的基础上，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为ITE的必修核心内容，代表了一个重要的政策转折点。这一改革的深层逻辑是什么？
 >
-> 更具体地说，一场因教师严重短缺而发起的政策审查，为何最终将问题界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为价值中立的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）等证据中介组织和[[Centre for Independent Studies|澳大利亚独立研究中心]]（CIS）等保守智库的私人利益？
+> 更具体地说，一场因教师严重短缺而发起的政策审查，为何最终将问题界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为价值中立的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO）等证据中介组织和[[Centre for Independent Studies|澳大利亚独立研究中心]]（[[Community Innovation Survey|CIS]]）等保守智库的私人利益？
 
 ---
 
@@ -89,7 +89,7 @@ citation_aliases:
 > [!info] 分析设计
 > - **方法**：政策文本分析（policy text analysis），运用Bacchi的[[Bacchi's WPR Approach|WPR]]框架对《强劲开端》报告进行批判性解读
 > - **核心数据来源**：澳大利亚政府(2023)《强劲开端：教师教育专家小组报告》及其附录D（ITE项目核心内容）
-> - **辅助数据来源**：[[OECD]]相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和CIS出版物
+> - **辅助数据来源**：[[OECD]]相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和[[Community Innovation Survey|CIS]]出版物
 > - **分析重点**：优先改革1中"大脑与学习"内容的指定参考文献、核心内容规范，以及政策行动者之间的关联网络
 
 报告提出四项优先改革（共14条建议），本文聚焦优先改革1(pp.17–21)。
@@ -132,7 +132,7 @@ citation_aliases:
 > [!note] 核心内容的简化逻辑链
 > 新手大脑 ≠ 专家大脑 → 教学必须按照大脑的认知规律设计 → 自主学习和探究式学习不符合新手大脑的特征 → 因此必须被排除。这一链条将教育决策的依据从多元的教学研究转向了单一的脑科学叙事。
 
-但这种脑科学方法将学习简化为大脑内部的信息处理活动，忽视了[[Lev Vygotsky|维果茨基]]社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose(1976)所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"(p.121)。OECD(2007)也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法(p.7)。更早的OECD(2002)报告则警告，神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"(p.17)。OECD(2007)进一步指出，神经科学可以被滥用。曾率先倡导"[[Educational Neuroscience|基于脑的教育]]"的Bruer后来成为了这一概念最强烈的批评者之一(p.132)。
+但这种脑[[Scientific Method|科学方法]]将学习简化为大脑内部的信息处理活动，忽视了[[Lev Vygotsky|维果茨基]]社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose(1976)所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"(p.121)。OECD(2007)也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法(p.7)。更早的OECD(2002)报告则警告，神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"(p.17)。OECD(2007)进一步指出，神经科学可以被滥用。曾率先倡导"[[Educational Neuroscience|基于脑的教育]]"的Bruer后来成为了这一概念最强烈的批评者之一(p.132)。
 
 Choudhury和Wannyn(2022)指出，许多脑科学教育的倡导者或游说者缺乏认知神经科学方面的正式训练(p.35)，倾向于代表各种议程和商业利益，将脑科学视为通过营销现成解决方案来获利的工具(p.35)。
 
@@ -178,7 +178,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 
 ### 第五步：私人利益的嵌入：CIS与指定参考文献
 
-报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库CIS（[[Centre for Independent Studies]]）资助的研究(pp.9-10)。
+报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库[[Community Innovation Survey|CIS]]（[[Centre for Independent Studies]]）资助的研究(pp.9-10)。
 
 [[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和[[Education Endowment Foundation|EEF]]推广(EEF, 2023)，其理论被呈现为ITE教师必须掌握的"科学基础"。特别值得注意的是，指定参考文献中包括Sweller(2021)由CIS资助出版的《为什么探究式学习有害学生学习》（Why inquiry-based approaches harm students' learning, Analysis Paper 24），这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
 
@@ -212,9 +212,9 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 > [!success] 核心结论
 > - 《强劲开端》报告首次在澳大利亚全国范围内将神经科学强制纳入ITE核心课程，代表了一个重要的政策转折点(p.2)
 > - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将问题重新界定为教师质量和课堂准备度不足(pp.4-5)。2022年[[Graduate Outcomes Survey|毕业生结果调查]]的满意度数据（75%）并不支持"教师培训质量低下"的判断
-> - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险(pp.6-7)。[[OECD]]（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
+> - 脑[[Scientific Method|科学方法]]将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险(pp.6-7)。[[OECD]]（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
 > - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的未发表研究综合设计(pp.8-9)。AERO董事会与专家组之间存在分歧，前者推动更具权威性的惩罚性立场
-> - 指定参考文献中包含CIS资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物(pp.9-10)。Jennifer Buckingham同时在CIS和[[Australian Institute for Teaching and School Leadership|AITSL]]拥有影响力
+> - 指定参考文献中包含[[Community Innovation Survey|CIS]]资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物(pp.9-10)。Jennifer Buckingham同时在CIS和[[Australian Institute for Teaching and School Leadership|AITSL]]拥有影响力
 > - 改革将扩大AITSL的职权范围和认证权力，反映了[[What Works Movement|什么有效运动]]的惩罚性问责逻辑(p.10)。标准化核心内容与"回应性教学"之间存在智识上的不一致
 > - 这些改革代表了一场关于知识的斗争，从"教育作为人类沟通、意义建构和解释的事件"转向"[[Causality|因果关系]]"(Biesta et al., 2015, p.11)，从根本上削弱了教学和学习的本质
 
@@ -242,9 +242,9 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 ## 自述局限
 
 > [!note] 作者的理论边界
-> 作者明确指出，他们并非论证科学是无效的调查工具，而是认为"rigid positivistic principles and a mechanistic worldview cannot account for the multifaceted human actions that form the human experience"。他们也承认需要承认学校和课堂的社会学需要广泛的认识论基础，反映对"证据时代"中证据如何被建构的关注(Helgetun & Menter, 2022)。
+> 作者明确指出，他们并非论证科学是无效的调查工具，而是认为"rigid positivistic principles and a mechanistic worldview cannot account for the multifaceted human actions that form the human experience"。他们也承认需要承认学校和课堂的社会学需要广泛的[[Epistemology|认识论]]基础，反映对"证据时代"中证据如何被建构的关注(Helgetun & Menter, 2022)。
 >
-> 作者同时指出，这些改革的影响超越澳大利亚国境。在英格兰，学校主导的ITE体系的嵌入以及对"什么有效"运动和神经科学确定性的依赖，正在对大学为基础的ITE的本体论、价值论和实践论进行"积极的破坏和推翻"(Biesta et al., 2015;引自 p.10)。
+> 作者同时指出，这些改革的影响超越澳大利亚国境。在英格兰，学校主导的ITE体系的嵌入以及对"什么有效"运动和神经科学确定性的依赖，正在对大学为基础的ITE的[[Ontology|本体论]]、价值论和实践论进行"积极的破坏和推翻"(Biesta et al., 2015;引自 p.10)。
 
 ---
 

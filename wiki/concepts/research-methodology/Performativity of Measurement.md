@@ -86,7 +86,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 对批判实践的意义
-> 如果测量是 productive 而非 descriptive，那么对测量的批判就不仅仅是认识论练习，而是政治论和存在论（ontological）的干预，是一种道德事业([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])。
+> 如果测量是 productive 而非 descriptive，那么对测量的批判就不仅仅是[[Epistemology|认识论]]练习，而是政治论和存在论（ontological）的干预，是一种道德事业([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])。
 
 ## 与相关概念的区别
 
@@ -102,7 +102,7 @@ updated: '2026-05-18'
 > - **Latour 的"科学在行动"** — 关注科学实践如何制造事实，而非科学作为成品([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界(Scott, 1998; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **Bottani 的认识论** — "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> - **Bottani 的[[Epistemology|认识论]]** — "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 
 ## 实证发现
 
@@ -150,13 +150,13 @@ updated: '2026-05-18'
 >
 > **测量如何制造服从**：
 >
-> - 教师被保持在"本体论上不安全"的状态（Ball, 2003, p.220，引自 McKnight & Whitburn, 2020, p.34），从而被去政治化
+> - 教师被保持在"[[Ontology|本体论]]上不安全"的状态（Ball, 2003, p.220，引自 McKnight & Whitburn, 2020, p.34），从而被去政治化
 > - 在这种情况下，"专业主义变成了服从的表演"（McKnight, 2016，引自 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]），而非基于专业知识、自主和利他的经典民主专业主义（Sachs, 2003; Locke, 2015）
 > - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020, p.39)]]进一步论证 VL"殖民教师的表演性教学想象"（colonises the performative pedagogical imagination），使教师"看见"自己以特定方式教学——这是测量施行性的一个微观案例：测量框架（[[Effect Size|效应量]]排名、"什么有效"清单）不仅描述教学，更是重塑教师如何想象自己的教学实践
 >
 > **对批判实践的意义**：
 >
-> VL 案例将 Gorur 的"两个层面的生产性"框架拓展至第三个维度——**隐喻层面的生产性**：不仅是测量行为本身制造世界（层面一），不仅是赋予可计算性特征改变世界（层面二），命名和隐喻的选择本身也在制造世界——"Visible Learning"这个名字不是中性的描述，而是一种施行性行动，为多层监控提供了合法性语言([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33-34]])。该隐喻将视觉特权化为唯一的认知方式，同时系统性抹除不可见、不可量化的教育维度——关怀、关系、情感、包容。对 VL 的批判因此不仅是认识论练习，而是"道德事业"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])，必须同时审问测量隐喻的文化政治。
+> VL 案例将 Gorur 的"两个层面的生产性"框架拓展至第三个维度——**隐喻层面的生产性**：不仅是测量行为本身制造世界（层面一），不仅是赋予可计算性特征改变世界（层面二），命名和隐喻的选择本身也在制造世界——"Visible Learning"这个名字不是中性的描述，而是一种施行性行动，为多层监控提供了合法性语言([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33-34]])。该隐喻将视觉特权化为唯一的认知方式，同时系统性抹除不可见、不可量化的教育维度——关怀、关系、情感、包容。对 VL 的批判因此不仅是[[Epistemology|认识论]]练习，而是"道德事业"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])，必须同时审问测量隐喻的文化政治。
 >
 > > 例：维多利亚州教育部要求职前教师进入教室后立即走向白板张贴学习意图（learning intentions），学校管理层禁止以任何其他方式开始上课（McKnight, 2016，引自 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39]]）。这不是因为研究表明这一做法最有效，而是因为"可见性"的施行逻辑要求学习必须是可展示的——测量的存在（学习意图的可见证据）改变了教学行为本身。
 

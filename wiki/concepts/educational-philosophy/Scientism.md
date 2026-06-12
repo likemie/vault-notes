@@ -41,13 +41,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-06-12'
 ---
 
 ## 定义
 
 > [!info] 定义
-> 科学主义（Scientism）可概括为对科学方法的过度美化，以及在其原始范围之外轻率地应用科学方法（Gasparatou, 2017; Hayek, 1942; Ross et al., 2018; Sergiovanni, 1989）。
+> 科学主义（Scientism）可概括为对[[Scientific Method|科学方法]]的过度美化，以及在其原始范围之外轻率地应用科学方法（Gasparatou, 2017; Hayek, 1942; Ross et al., 2018; Sergiovanni, 1989）。
 >
 > > "Scientism can be summarized as the glorification and subsequent imprudent application of scientific methods outside their original scope"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
 
@@ -57,12 +57,13 @@ updated: '2026-05-18'
 > - **还原主义（Reductionism）**：将复杂现象简化为可测量的少数[[Variable|变量]]，忽视不可量化的维度（Hayek, 1942; Sergiovanni, 1989）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
 > - **过度重视经验数据**：将实证数据视为唯一或最高形式的知识，排斥其他认知方式（O'Mahony, 2017）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
 > - **源头**：源于二战后 R&D 模式的兴起——企业科学家和工程师从研发进入管理层，技术决定论、管理主义、社会工程和自由市场理念渗透政治思想，最终成为新自由主义的基础理念([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
-> - **在教育的体现**：将物理科学方法强行移植到多元变量的教室环境中，忽视教育的人本属性([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])
+> - **在教育的体现**：将物理[[Scientific Method|科学方法]]强行移植到多元变量的教室环境中，忽视教育的人本属性([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])
 
 ## 概念谱系
 
 > [!note-] 概念谱系
-> - **Hayek (1942/1943/1944)**：早期系统批评"scientistic"取向，核心不是反科学，而是反对把自然科学方法机械移植到社会科学。
+> - **法兰克福学派**：哈贝马斯（Habermas, 1972）和霍克海默（Horkheimer, 1972）提供了对科学主义的有力批判，认为科学心态已被提升至近乎一种宗教的地位——作为西方唯一合法的[[Epistemology|认识论]]。在这种观点下，所有知识都被等同于科学知识，忽视了诠释学、审美、批判、道德和创造性等其他知识形式。科学解释似乎是解释行为的唯一手段，这严重削弱了使人之为人的特征（pp.437–439）。
+- **Hayek (1942/1943/1944)**：早期系统批评"scientistic"取向，核心不是反科学，而是反对把自然[[Scientific Method|科学方法]]机械移植到社会科学。
 > - **Stenmark (2001)**：将 scientism 分析为关于"科学能力边界"的主张，强调其哲学立场属性，而非单一研究方法问题。
 > - **Ross et al. (2018)**：提示 scientism 在当代也可能以"只有科学能给出最终可信知识"的强断言形式出现。
 > - **教育[[Champ|场域]][[Transfer Translation Transformation|转译]]([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]])**：在教育政策与改进话语中，scientism 常与"可量化=可改进"的治理逻辑绑定。
@@ -70,16 +71,16 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Cargo Cult Science]] — 科学主义是一种意识形态（过度推崇科学方法），cargo cult science 是这种意识形态产生的具体伪科学实践（看起来像科学但缺乏认识论诚信）
+> - vs [[Cargo Cult Science]] — 科学主义是一种意识形态（过度推崇[[Scientific Method|科学方法]]），cargo cult science 是这种意识形态产生的具体伪科学实践（看起来像科学但缺乏[[Epistemology|认识论]]诚信）
 > - vs [[Evidence-Based Education]] — EBE 可以有"弱版本"（证据与[[Professional Judgment|专业判断]]并重）和"强版本"（证据等级一元化）；只有后者更容易滑向 scientism
-> - vs [[Technical Rationality]] — Technical Rationality 关注"手段-目的"控制逻辑；scientism 更强调知识合法性被单一科学范式垄断。两者可重叠但不等同。
+> - vs [[Technical Rationality]] — Technical Rationality 关注"手段-目的"控制逻辑；scientism 更强调知识合法性被单一科学[[Paradigm|范式]]垄断。两者可重叠但不等同。
 > - vs [[Dynamic Knowledge and Learning Model]] — scientism 倾向于把学习结果压缩为统一指标；动态模型强调学习结果的类型差异与递归关系。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 论证 Hattie 的 [[Visible Learning]] 是教育领域科学主义的典型案例：以庞大的数据库、图表、参考书目营造科学外观，但方法论不透明、不可验证，却宣称找到了教育的"圣杯"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34-35]])
-> - Phillips (2014) 指出物理科学方法无法转移到多元[[Variable|变量]]的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])
+> - Phillips (2014) 指出物理[[Scientific Method|科学方法]]无法转移到多元[[Variable|变量]]的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])
 
 ## 争议与批评
 

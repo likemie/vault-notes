@@ -57,7 +57,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 为什么以 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]为核心的[[Evidence-Based Education|证据本位教育]]（EBE）在教育中占据主导地位，尽管其认识论局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
+> 为什么以 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]为核心的[[Evidence-Based Education|证据本位教育]]（EBE）在教育中占据主导地位，尽管其[[Epistemology|认识论]]局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
 >
 > > “我在这里提出的是，EBE（循证教育）的某些特征使其对政策制定者具有吸引力，或者至少是无争议和安全的。”
 > ("What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers.") (p. 3)
@@ -76,7 +76,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**：理论综合 + 制度分析
 > - **论证结构**：
->   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的认识论限度
+>   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的[[Epistemology|认识论]]限度
 >   2. 引入 Tullock 官僚制模型作为[[Analytic Framework|分析框架]]
 >   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 [[Education Endowment Foundation|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
@@ -86,7 +86,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> ### 1. 认识论限度（承接 Cartwright 传统）
+> ### 1. [[Epistemology|认识论]]限度（承接 Cartwright 传统）
 >
 > [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决[[External Validity|外部效度]]，但：
 >
@@ -140,7 +140,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **[[Evidence-Based Education|EBE]] 的持续影响力不能用认识论优越性来解释**——需要从制度逻辑（官僚委托需求）来理解
+> 1. **[[Evidence-Based Education|EBE]] 的持续影响力不能用[[Epistemology|认识论]]优越性来解释**——需要从制度逻辑（官僚委托需求）来理解
 >
 > 2. **[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为"透明度技术"**：对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
 >

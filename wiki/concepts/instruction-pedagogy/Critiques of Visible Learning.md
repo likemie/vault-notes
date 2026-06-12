@@ -190,7 +190,7 @@ Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] �
 >
 > - **平均化掩盖复杂性**：以[[Homework|家庭作业]]为例，总体 $d=0.29$ 掩盖了小学 $d=0.15$、中学 $d=0.64$ 的巨大差异，以及数学（高效应）vs 科学和社会（低效应）的学科差异（p.97）；[[Class Size|班级规模]]的平均效应量掩盖了高质量[[Randomised Controlled Trials|随机对照试验]]（[[Tennessee STAR Project 1985-1989|田纳西STAR项目]]）中发现的 $d=0.62$–$0.66$ 效应量（p.100–101）。
 >
-> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p.103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p.104）。
+> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p.103）。论文引 Dewey 的[[Epistemology|知识论]]为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p.104）。
 
 Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评文献中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
 
@@ -274,7 +274,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）
 
 Wecker, Vogel & Hetmanek（2016), ZfE）发表了迄今为止对 Hattie 二级元分析方法最系统的技术评估。他们构建了一个三层[[Analytic Framework|分析框架]]([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.23-24]])：
 
-> [!framework-table] 三层分析框架（Wecker et al., 2016, p.23–24）
+> [!framework-table] 三层分析框架（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.23–24]]）
 > 1. **对数据基础的批评**（§3.1）——Hattie 使用的元分析数据库是否满足方法要求？
 > 2. **内部批判**（§3.2）——在给定所选方法的条件下，Hattie 是否正确执行了该方法？按 Hattie 自身的标准衡量
 > 3. **外部批判**（§3.3）——Hattie 所选的方法本身在原则上是否适当？从外部方法论立场评估
@@ -285,12 +285,12 @@ Wecker, Vogel & Hetmanek（2016), ZfE）发表了迄今为止对 Hattie 二级�
 
 Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确声明"应用了[[Fixed-Effect and Random-Effects Models|固定效应模型]]"（Hattie, 2009, p.12），他从方法论上承诺了该模型的所有数学约束。Wecker 等人从固定效应模型的数学基础（Hedges & Olkin, 1985; Borenstein et al., 2009）推导出二级元分析必须满足的 6 项要求（详见 [[Meta-meta-analysis]]），然后逐一对照 Hattie 的实际执行情况。
 
-**检查程序**：对每个要求：
-(a) 陈述该要求的数学基础（来自公式 1-6）
-(b) 描述 Hattie 的声称程序（[[Visible Learning]] 文本中描述的方法）
-(c) 从附录 A/B 中提取具体例子重构 Hattie 的实际程序
-(d) 对照要求记录偏差
-(e) 评估偏差对效应量估计和可靠性的方向性影响
+> [!timeline] 检查程序：五步验证流程（对每项方法论要求）
+> - **(a) 数学基础** 陈述该要求的数学基础（来自 Hedges & Olkin 公式 1–6）
+> - **(b) 声称程序** 描述 Hattie 在 [[Visible Learning]] 文本中说明的方法
+> - **(c) 实际重构** 从附录 A/B 提取具体例子，重构 Hattie 的实际执行
+> - **(d) 偏差记录** 对照要求逐项记录偏差
+> - **(e) 可靠性评估** 评估偏差对效应量估计和可靠性结论的方向性影响
 
 > [!citation-card] Wecker et al., 2016, p.23
 > 「从'可见学习'中给出的例子并不代表一种系统的方法，这是来自文本。相反，它们被选为示例，其方式是讲清楚。因此，我们通常不提供进一步的文件。」
@@ -303,16 +303,18 @@ Wecker 等人首先检查 Hattie 使用的一级元分析数据库是否满足�
 
 **（a）主要研究表的系统缺失**
 
-Hattie 的方法论要求每个一级元分析提供完整的主要研究表，包含每项主要研究的：
-- 实验组和对照组的样本量（n_E, n_C）
-- 效应量估计值（d）
-- 效应量估计的标准误（SE_d）或方差（v_d）或置信区间
+> [!ref-table] 方法论要求：主要研究表必须包含
+> | 字段 | 符号 | 说明 |
+> |-----|------|------|
+> | 样本量 | $n_E$, $n_C$ | 实验组与对照组各自的受试者数量 |
+> | 效应量估计 | $d$ | 每项主要研究的效应量值 |
+> | 统计精度 | $SE_d$、$v_d$ 或 CI | 标准误、方差或置信区间（三选一）|
 
-Wecker 等人的发现（p.26-27）：
-- "许多一级元分析缺乏完整的主要研究表"——"但情况往往并非如此，因为在这两种情况下"（p.27）
-- Hattie 引用的关于"间隔与大规模实践"的元分析（Lee & Genovese, 1988）和关于"直接指导"的元分析（White, 1988）的效应量被报告但无主要研究表
-- 即使存在主要研究表，"它也经常缺乏必要的信息，尤其是关于实验和控制条件下的样本量"（p.27）
-- "有时在没有可识别的系统学的情况下计算不正确"（p.27）
+> [!critique] 四项系统缺陷（Wecker et al., p.26-27）
+> - **主要研究表缺失**："许多一级元分析缺乏完整的主要研究表"——Hattie 的方法在数据透明度的第一道门槛就已失守（p.27）
+> - **具名案例**：Lee & Genovese（1988，"间隔与大规模实践"）和 White（1988，"直接指导"）的元分析效应量被报告，但无主要研究表
+> - **表存在但信息残缺**："即使存在主要研究表，它也经常缺乏必要的信息，尤其是关于实验和控制条件下的样本量"（p.27）
+> - **计算不规范**："有时在没有可识别的系统学的情况下计算不正确"（p.27）
 
 **（b）效应量测度的交替混淆**
 
@@ -330,7 +332,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 **Fisher's z 转换的省略**（p.28）
 
 当 Hattie 将同一元分析中报告的多个效应量（如针对不同因变量）汇总为一个时，如果原始效应量以相关系数 r 报告，正确的程序是：
-> [!step] 正确汇总相关系数的标准程序
+> [!proc] 正确汇总相关系数的标准程序
 > 1. 将每个 $r$ 转换为 Fisher's z：$z = \frac{1}{2}\ln\left(\frac{1+r}{1-r}\right)$
 > 2. 计算 z 值的**算术平均值** $\bar{z}$
 > 3. 将 $\bar{z}$ 转回 r：$r = \frac{e^{2\bar{z}} - 1}{e^{2\bar{z}} + 1}$
@@ -364,9 +366,9 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 > | Hattie 的"$SD$" | **1.65** | **实为标准误 $SE$**，非标准差 |
 > | 错误效应量 | $d = (80.21-66.53)/1.65 = -8.291$ | ← 以 SE 代入 SD 公式 |
 > 
-> **正确计算**：$SD_C = SE \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
+> **正确计算**：$SD_C = [[School Effectiveness|SE]] \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
 >
-> **误差倍率：约 10 倍** | "显然不是标准差的标准误差"（Wecker et al., 2016, p.27）
+> **误差倍率：约 10 倍** | "显然不是标准差的标准误差"（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.27]]）
 
 这一案例说明：将标准误（SE）误作标准差（SD）使用会导致效应量被放大或缩小数倍——在此案例中，效应量被放大了约 10 倍。如果这样的极端值被纳入 Hattie 的排名，它们会对平均效应量产生不成比例的影响。
 
@@ -461,7 +463,7 @@ Wecker 等人发现了两个相关的问题（p.30）：
 2. "此外，无法确定在排名中占据接近位置的预测变量的相对有效性，因为它们的效应大小的置信区间在大多数情况下可能会重叠，但对于 Hattie 没有给出"
 3. "由于标准误差的错误信息，它们也不容易被读者确定"——附录 A 的系统性信息缺失使读者无法自行计算
 
-> [!ref-table] Table 1 — 六个分析步骤的方法论不足（Wecker et al., 2016, p.26）
+> [!ref-table] Table 1 — 六个分析步骤的方法论不足（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.26]]）
 > 
 > | 分析步骤 | 方法要求 | Hattie 实际执行的缺陷 |
 > |---------|---------|-------------------|
@@ -578,7 +580,7 @@ Wecker 等人最终的可靠性判断是层次化的（p.34-36）：
 
 **聚合的任意性**："Hattie 混淆了两个不同的总体：(1) 影响学业成功的因素和 (2) 对这些因素进行的研究"（p.241）。VL 中的"疾病"效应将癌症、糖尿病、镰刀型贫血症和消化问题合并为一个效应量。性别效应 $d=0.12$ 偏向男孩，但"这在魁北克或大多数工业化国家都不是事实"（p.242）。
 
-**结论**："很明显 John Hattie 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学"（p.245）。解决方案：在研究的每一步咨询统计学家。
+**结论**："很明显 [[John Hattie]] 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学"（p.245）。解决方案：在研究的每一步咨询统计学家。
 
 
 ---
@@ -740,7 +742,7 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 
 - Bereiter 已经将 Popper 的 World 3"文化对象"缩减为"真理与非真理"，排除人文学科——这与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致
 - Hattie 进一步消除了 Bereiter 仍保留的 World 2（学习）与 World 3（知识建构）之间的关键区分
-- Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在认识论上精确对立
+- Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology|认识论]]上精确对立
 
 **后果**：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。"我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.11]])。
 
@@ -788,7 +790,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 作者指出 Hattie 自己明确表示**数据不是重点，理论综合才是**。Hattie 承认："I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259, cited in Nielsen & Klitmøller, 2021, p. 80]])。但 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，却对 VL 施加了巨大影响。
 
-作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**实证主义的遗产**（Nielsen & Klitmøller, 2021, pp. 81-82）：
+作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**[[Positivism|实证主义]]的遗产**（Nielsen & Klitmøller, 2021, pp. 81-82）：
 
 > "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."（Schön, 1983, p. 31, cited in Nielsen & Klitmøller, 2021, p. 82）
 
@@ -928,7 +930,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 - "可见的学习"在新自由主义语境中并非中性选择。视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975）
 - 暗示教师和学生是全能的行动者、命运在自己手中，否定了国家强制课程、测试制度、排名表等的多重暴力([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
 - 创造了多层监控文化：教师监控学生、家长监控教师、校长监控教师、学者监控教师、国家监控教师、国家监控学者——"科学凌驾于社会科学之上"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
-- 教师被保持在"本体论上不安全"的状态（Ball, 2003, p.220），从而被去政治化
+- 教师被保持在"[[Ontology|本体论]]上不安全"的状态（Ball, 2003, p.220），从而被去政治化
 - 专业性变成了服从的表演（McKnight, 2016）
 - Springer（2016）的新自由主义分析四问被应用于 VL：什么在 VL 周围凝结？VL 的暴力是什么？资本如何流动？抵抗在哪里？([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
 
@@ -974,12 +976,12 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 - "Impact"一词（VL 的核心关注）意为"有力的接触"（Merriam-Webster, 2018），剑桥和牛津词典均以子弹和炮弹为例说明
 - "Know thy impact"带有圣经式语气，是在后结构主义和后现代对知识的质疑之后对确定性的加固——当确定性即将消融时的支撑([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40]])
 - 眼睛将其不足隐藏在傲慢背后，坚持看是唯一的方式；眼睛需要好斗，因为它本质上是由玻璃体冻胶构成的([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40-41]])
-- 实证主义科学研究的纪律只是另一种虚构，众多研究叙事之一([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
+- [[Positivism|实证主义]]科学研究的纪律只是另一种虚构，众多研究叙事之一([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
 
 **7. Visible Learning 基于能力主义假设**
 - VL 坚持"只有可见的才重要"，对人们应具备何种能力才能被视为成功和被纳入做出了规范性和能力主义的假设([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
 - 能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（Campbell, 2009, p.8）
-- 在 VL 中，通过视觉感知的能力是被正常化的区域，而通过其他方式感知则在本体论和认识论上被抹除
+- 在 VL 中，通过视觉感知的能力是被正常化的区域，而通过其他方式感知则在本体论和[[Epistemology|认识论]]上被抹除
 - 有视觉障碍的教师或学生通过缺乏视力被建构，不可避免地遭受排斥——这种对公平的"影响"并未被计入 VL 的效应量
 - 视觉长期以来承载着作为意识的定义性和统治性能力的粗暴声誉；对视觉傲慢假设的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979）
 - 包容性教育理论已展示排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）
@@ -989,7 +991,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 ## "大师崇拜"与 Neo-Taylorism 批评（Eacott, 2017a, 2019）
 
-Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 [[Visible Learning|VL]] 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
+Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识论]]角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 [[Visible Learning|VL]] 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
 
 **核心论证**：Hattie 的 VL 是"新时代的泰勒主义"（Taylorism for a new time）([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。其与 Taylor（1911）科学管理的结构同源性体现在：
 - Taylor 追求消除"soldiering"（磨洋工），Hattie 追求消除"coasting"（得过且过）
@@ -1087,7 +1089,7 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 
 - McKnight & Whitburn 指出 Hattie 的统计学术研究本身和对教师的有用提醒值得肯定，但 VL 的论述转移了对教育中平等问题的关注([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
 - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级文献系统性忽略
-- [[Argument_Terhart_2011_JCS|Terhart (2011)]]从认识论（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证"很明显 Hattie 事实上没有找到圣杯"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
+- [[Argument_Terhart_2011_JCS|Terhart (2011)]]从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证"很明显 Hattie 事实上没有找到圣杯"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
 - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]虽然承认 Hattie 的愿景"有远见"且"为他赢得了宝贵而持久的优点"，但方法"在当前出版条件下以科学合理的方式是不可行的"（p.1, p.34-35）
 - 作者提出学校中本应出现但缺席的论述：抵制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
 - Nielsen & Klitmøller（2021）从 Habermas 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
@@ -1101,7 +1103,7 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 
 **论证一：批评者形成了意识形态驱动的解释社群，而非进行学术反驳。** Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评文献，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-4]])。
 
-**论证二：定量与定性方法的对立源于混淆认识论与本体论。** Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证认识论维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。这一论证直接回应了批评者对 VL 定量方法论的根本质疑。
+**论证二：定量与定性方法的对立源于混淆[[Epistemology|认识论]]与[[Ontology|本体论]]。** Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证认识论维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。这一论证直接回应了批评者对 VL 定量方法论的根本质疑。
 
 **论证三：[[Professional Judgment|专业判断]]是教学与学习之间的"缺失环节"。** Qvortrup 的核心理论贡献是提出 VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6-7]])。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p.247）。
 

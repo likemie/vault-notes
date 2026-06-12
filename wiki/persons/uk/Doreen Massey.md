@@ -38,7 +38,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放本体论和[[Multiplicity|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
+> Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。她的开放[[Ontology|本体论]]和[[Multiplicity|多重性]]概念对高等教育研究中的空间分析和地缘政治理论产生了重要影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]以 Massey 的 *For Space*（2005）作为理解[[Space-Making|高等教育空间制造]]和地缘政治的核心理论基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
 
 ---
 
@@ -62,7 +62,7 @@ updated: '2026-06-08'
 ### 2005 — *For Space*
 
 - APA：Massey, D. (2005). *For Space*. [[Sage]].
-- 核心内容：系统阐述[[Relational Space|关系性空间]]理论，提出空间作为[[Multiplicity|多重性]]、开放本体论、[[Power-Geometries|权力几何学]]（power-geometries）和轨迹交汇等核心概念。
+- 核心内容：系统阐述[[Relational Space|关系性空间]]理论，提出空间作为[[Multiplicity|多重性]]、开放[[Ontology|本体论]]、[[Power-Geometries|权力几何学]]（power-geometries）和轨迹交汇等核心概念。
 - 思想位置：Massey 空间理论的成熟综合，代表其最系统的理论表达。
 
 ---
@@ -70,7 +70,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]
-> Massey 的空间理论以**开放本体论**为根基，其核心主张可概括为三条互相关联的命题：（1）空间是关系性的、不断被制造的，而非静态容器；（2）空间本质上是[[Multiplicity|多重性]]的——是"共存[[Heterogeneity|异质性]]"的领域；（3）空间关系必然包含权力不对称（[[Power-Geometries|权力几何学]]）。以下逐一展开，但详细论述见各概念条目。
+> Massey 的空间理论以**开放[[Ontology|本体论]]**为根基，其核心主张可概括为三条互相关联的命题：（1）空间是关系性的、不断被制造的，而非静态容器；（2）空间本质上是[[Multiplicity|多重性]]的——是"共存[[Heterogeneity|异质性]]"的领域；（3）空间关系必然包含权力不对称（[[Power-Geometries|权力几何学]]）。以下逐一展开，但详细论述见各概念条目。
 
 ### 开放本体论与关系性空间
 
@@ -100,7 +100,7 @@ Massey 反复论证全球空间不是预先给定的、"在外面的"、外在�
 ## 影响
 
 > [!success]
-> - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space|关系性空间]]理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放本体论为基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])
+> - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space|关系性空间]]理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放[[Ontology|本体论]]为基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])
 > - [[Multiplicity]] — 多重性概念直接来自 Massey 的理论，Marginson 以此挑战高等教育研究中[[Methodological Nationalism|方法论民族主义]]和[[World-Systems Theory|世界体系理论]]的封闭空间假设
 > - [[Geopolitics of Knowledge]] — Massey 的空间理论为理解高等教育地缘政治中的权力关系（"区域和全球尺度上制度化的权力关系"）提供了核心概念工具([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])
 > - **全球化理论** — Massey 引 Stuart Hall（1996）认为全球化是"一个重大的、扩展性的、断裂性的世界历史事件"，它去中心化了欧洲和殖民性，使全球南方不再是欧洲的次要副产品([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 9]])

@@ -44,12 +44,12 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 教育行政学者作为嵌入且具身于其研究对象（教育行政）中的行动者，其"智识凝视"（intellectual gaze）如何被这一嵌入位置所塑造？教育行政研究如何通过 Bourdieu 的认识论框架重新建立"科学"探究的可能性？
+> 教育行政学者作为嵌入且具身于其研究对象（教育行政）中的行动者，其"智识凝视"（intellectual gaze）如何被这一嵌入位置所塑造？教育行政研究如何通过 Bourdieu 的[[Epistemology|认识论]]框架重新建立"科学"探究的可能性？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的认识论维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*(p.313)。
+> 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的[[Epistemology|认识论]]维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*(p.313)。
 >
 > Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情**(p.313)。
 >
@@ -59,7 +59,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：理论介入（theoretical intervention），非经验研究
-> - **进路**：以 Bourdieu 的认识论框架审视教育行政学术的认识论预备
+> - **进路**：以 Bourdieu 的[[Epistemology|认识论]]框架审视教育行政学术的认识论预备
 > - **风格**：Eacott (p.314)明确表示"不提供完整的理论、研究纲领甚至'如何做'的描述"，而是"勾勒一个以审视研究对象的建构为核心论点以将教育行政辩论推向新的和更富有成果的方向"——借用 Berger(1966)的话，这篇文章是"对读者的邀请，因此值得生成性阅读"
 
 ## 核心论证
@@ -81,8 +81,8 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ|场域]]、[[Habitus|习性]]、资本）的使用**，忽略了更根本的认识论预备问题(p.313-314)
-> - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在范式分歧，而在**作为[[Knowledge Production|知识生产]]场域与实践场域的关系**(p.323-324)
+> - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ|场域]]、[[Habitus|习性]]、资本）的使用**，忽略了更根本的[[Epistemology|认识论]]预备问题(p.313-314)
+> - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在[[Paradigm|范式]]分歧，而在**作为[[Knowledge Production|知识生产]]场域与实践场域的关系**(p.323-324)
 > - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"(p.324)
 > - 管理主义项目的核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"(Gunter, 2013, p.323)
 

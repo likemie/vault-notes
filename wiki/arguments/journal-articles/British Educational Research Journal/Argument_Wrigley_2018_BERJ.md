@@ -67,7 +67,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[Critical Realism|批判实在论]](Bhaskar, 1978; Sayer, 2000)** — 区分 real / actual / empirical 三层本体论；教育作为开放系统，规律性需人为封闭条件才出现
+> - **[[Critical Realism|批判实在论]](Bhaskar, 1978; Sayer, 2000)** — 区分 real / actual / empirical 三层[[Ontology|本体论]]；教育作为开放系统，规律性需人为封闭条件才出现
 > - **Pawson (2006) 的现实主义[[Appraisal Theory|评估理论]]** — 社会项目通过人的推理（而非物理因果）产生效果；呼吁"实在论综合"取代统计平均
 > - **新自由主义批判框架(Ball, 2013; Sears, 2003)** — [[Evidence-Based Education|EBE]] 定位于审计文化(Power, 1997)和市场化的效率要求中
 >

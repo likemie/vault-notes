@@ -42,8 +42,8 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
-> - 属于[[Constructivist Paradigm|建构主义]]（Constructivism）研究范式，强调研究者的前见和理论关注是分析过程的有机组成部分——"我是带着自己的前见和理论关注点进入分析过程的"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> [!abstract] [[Epistemology|认识论]]立场
+> - 属于[[Constructivist Paradigm|建构主义]]（Constructivism）研究[[Paradigm|范式]]，强调研究者的前见和理论关注是分析过程的有机组成部分——"我是带着自己的前见和理论关注点进入分析过程的"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - 与诠释学（Hermeneutics）兼容：研究目标是对行动者的意义世界进行理解性阐释
 >
 

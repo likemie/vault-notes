@@ -67,7 +67,7 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 ### 文化模型框架（Cultural Models Framework）
 
 > [!abstract]
-> 原型方法的另一个认识论支柱是 [[Cultural Models|文化模型]]这一人类学概念。文化模型由文化的历史过程建立并随文化演进而修订，作为共享的概念框架塑造成员的体验和行为([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。详见 [[Cultural Models]]。
+> 原型方法的另一个[[Epistemology|认识论]]支柱是 [[Cultural Models|文化模型]]这一人类学概念。文化模型由文化的历史过程建立并随文化演进而修订，作为共享的概念框架塑造成员的体验和行为([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。详见 [[Cultural Models]]。
 
 Li 强调文化模型**影响和引导（但不决定）**成员的思维和行动。因此，原型方法产出的文化学习模型不应被等同于任何具体个人的学习信念——它描绘的是**文化层面的共享理解**，而非个体层面的心理测量([[Argument_Li_2012_Cambridge|Li, 2012, pp.104-105]])。这一区分的详细讨论见 [[Cultural Models#概念辨析]]。
 

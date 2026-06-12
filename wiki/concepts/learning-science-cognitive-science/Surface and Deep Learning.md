@@ -50,7 +50,7 @@ updated: '2026-06-06'
 > [!info]
 > 表层学习（surface learning）与深层学习（deep learning）是教育研究中区分学习质量的两个核心概念。表层学习涉及知晓事实、想法和内容，深层学习涉及知晓想法之间的关系和连接、并将这些想法扩展到其他情境（Hattie, 2015, p.80）。表层学习是实现深层学习的必要第一步（Hattie, 2015, p.84）。
 >
-> 在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，深层学习被定义为看到学科认识论部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> 在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，深层学习被定义为看到学科[[Epistemology|认识论]]部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 
@@ -60,7 +60,7 @@ updated: '2026-06-06'
 > - **表层学习**。知晓事实、想法和内容。学生发现课程评估实际测量的是知晓很多和复述教科书或教师的主要观点，尽管教师宣称课程关乎理解、建立关系和扩展知识（Hattie, 2015, p.80）。
 > - **深层学习**。知晓想法之间的关系和连接，并将这些想法扩展到其他情境。在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，深层学习是[[Knowledge-that and Know-how-to|知其然]]和[[Knowledge-that and Know-how-to|知其所用]]连接的结果，当学生能够展示和阐述两种知识形式之间的联系时，深层学习才真正发生([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **表层到深层的路径**。表层学习是实现深层学习的必要第一步，但学生需要经过深层处理（回顾和重新组织）才能产生最大效果。记笔记对学习只有 modest 改善（d=0.34），但回顾笔记 dramatically 提高了学习（d=1.56）（Hattie, 2015, p.84）。
-> - **课程设计的条件**。深层学习需要课程设计与知识的认识论结构对齐。[[Curriculum Design Coherence Model|课程设计连贯性模型]]主张，知其然和知其所用的连接应在教学开始之前的课程设计阶段被明确处理，而非留给教师在课堂上自行完成([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> - **课程设计的条件**。深层学习需要课程设计与知识的[[Epistemology|认识论]]结构对齐。[[Curriculum Design Coherence Model|课程设计连贯性模型]]主张，知其然和知其所用的连接应在教学开始之前的课程设计阶段被明确处理，而非留给教师在课堂上自行完成([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 

@@ -60,7 +60,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta）为对照审视 Hattie 的理论
 > - [[Radical Constructivism]] — 识别为 Hattie 的学习理论根基
-> - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的认识论声称基础，论证其被严重误读
+> - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的[[Epistemology|认识论]]声称基础，论证其被严重误读
 > - [[Technical Rationality]] — [[Appraisal Theory|评价理论]]作为技术理性的运作机制
 
 ## 研究方法
@@ -108,7 +108,7 @@ citation_aliases:
 > 2. Hattie 通过 Bereiter 的中介接触 Popper
 > 3. Bereiter 已经做出关键化简：将 World 3 的"文化对象"缩减为"真理与非真理"，排除人文学科（与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致）
 > 4. Hattie 进一步化简：World 3 的客观性完全塌缩为主观学习（World 2）
-> 5. Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在认识论上精确对立
+> 5. Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology|认识论]]上精确对立
 > 6. 后果：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面(p.10-11)
 
 ## 主要发现

@@ -42,14 +42,14 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Scott Eacott 是澳大利亚 UNSW Sydney 教育学院的学者，专注于教育行政与领导力领域的社会认识论、组织理论和学术实践逻辑研究。他将 Bourdieu 的社会理论和认识论概念引入教育行政研究，提出了关于教育领导力[[Knowledge Production|知识生产]]条件的系统性反思([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])。
+> Scott Eacott 是澳大利亚 UNSW Sydney 教育学院的学者，专注于教育行政与领导力领域的社会[[Epistemology|认识论]]、组织理论和学术实践逻辑研究。他将 Bourdieu 的社会理论和认识论概念引入教育行政研究，提出了关于教育领导力[[Knowledge Production|知识生产]]条件的系统性反思([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])。
 >
 > Eacott 自称"从不害怕一点无耻的自我推广"，这一自我认知与他在学术界的争议性地位形成呼应——他的工作常引发正面与负面两极反应([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]])。
 
 ## 核心思想
 
 > [!info] 核心思想
-> - **社会认识论（social epistemology）在教育行政中的应用**：Eacott 发展了教育行政与领导力领域的社会认识论框架（Eacott, 2017b），关注[[Knowledge Production|知识生产]]的社会条件和学术工作的逻辑——即知识主张如何在特定的社会安排中被生成、被接受（或被拒绝）([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
+> - **社会[[Epistemology|认识论]]（social epistemology）在教育行政中的应用**：Eacott 发展了教育行政与领导力领域的社会认识论框架（Eacott, 2017b），关注[[Knowledge Production|知识生产]]的社会条件和学术工作的逻辑——即知识主张如何在特定的社会安排中被生成、被接受（或被拒绝）([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
 > - **学术工作的逻辑 = 论证与反驳（argument and refutation）**：遵循 Bourdieu 的规范性立场，Eacott 主张学术实践应当以论证和反驳为核心逻辑，而非 thesis-antithesis-synthesis。区别在于：反驳要求在对对方论证进行实质性参与的基础上，检验其稳健性和[[Internal Consistency and Cronbach's Alpha|内部一致性]]；而非仅仅从自身规范立场出发进行否定([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.779]])
 > - **[[Parallel Monologues|平行独白]]（Parallel Monologues）**：Eacott 识别并命名了教育行政与领导力领域的结构性现象——学者们在各自子领域内发表、引用和建立事业，但很少认真尝试与他人的知识主张进行实质性交锋([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
 > - **"[[Cult of the Guru|大师崇拜]]"与 [[Neo-Taylorism]] 批评**：Eacott 将 Hattie 的 [[Visible Learning]] 称为"[[Neo-Taylorism|新泰勒主义]]"（Neo-Taylorism），认为其核心逻辑与 Taylor 的科学管理原理同构——寻找"唯一正确方法"、将实践拆解为最小操作单元、最大化效率([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418-422]])。他同时批评澳大利亚教育系统对"Hattie 品牌"的不加批判的接受为"澳大利亚[[School Leadership|学校领导力]]的悲剧"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413]])
@@ -63,13 +63,13 @@ updated: '2026-06-08'
 > - [[Neo-Taylorism]] — 将 Taylor 科学管理原理重新应用于分析当代教育领导力的知识政治
 > - [[Cult of the Guru]] — 以 Callahan (1962) 为框架分析教育领导力领域对单一权威人物的不加批判的接受
 > - 以 Bourdieu 的[[Champ|场域]]/[[Habitus|习性]]/[[Doxa]] 框架分析 NSW 校长培养项目，论证其将校长建构为"国家改革的交付者"并提出替代性领导习性([[Argument_Eacott_2011_JEAH|Eacott, 2011]])
-> - 在 *Beyond Leadership*（2018）中提出教育组织理论的关系取向，试图超越传统的领导力研究范式
+> - 在 *Beyond Leadership*（2018）中提出教育组织理论的关系取向，试图超越传统的领导力研究[[Paradigm|范式]]
 
 ## 主要著作
 
 > [!abstract] 主要著作
 > - Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: An Australian case. *Journal of Educational Administration and History*, 43(1), 43–59. — 以 Bourdieu 框架分析 NSW 校长培养（详见 [[Argument_Eacott_2011_JEAH]]）
-> - Eacott, S. (2015). The problem with the structures of [[Knowledge Production]] in educational administration: An interrogation of the social epistemological conditions. *Educational Philosophy and Theory*, 47(10), 1067–1082. — 以 Bourdieu 认识论论证教育行政学者的嵌入具身性塑造其智识凝视（详见 [[Argument_Eacott_2015_EPT]]）
+> - Eacott, S. (2015). The problem with the structures of [[Knowledge Production]] in educational administration: An interrogation of the social epistemological conditions. *Educational Philosophy and Theory*, 47(10), 1067–1082. — 以 Bourdieu [[Epistemology|认识论]]论证教育行政学者的嵌入具身性塑造其智识凝视（详见 [[Argument_Eacott_2015_EPT]]）
 > - Eacott, S. (2017a). [[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of Hattie. *[[School Leadership]] & Management*, 37(4), 413–426. — 将 Hattie 的工作定性为[[Neo-Taylorism|新泰勒主义]]，引发学界广泛争议和两极反应（详见 [[Argument_Eacott_2017_SLM]]）
 > - Eacott, S. (2017b). A social epistemology for educational administration and leadership. *Journal of Educational Administration and History*, 49(3), 196–214. — 提出教育行政的社会认识论框架
 > - Eacott, S. (2018). *Beyond leadership: A relational approach to organizational theory in education*. Singapore: Springer. — 系统阐述教育组织理论的关系取向

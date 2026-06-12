@@ -62,7 +62,7 @@ updated: 2026-05-18
 > - RCT = 科学、严格、可靠
 > - 其他方法（定性研究、案例研究、行动研究等）= 不够严格、不可靠
 >
-> ### Bennett 的"科学方法"描述
+> ### Bennett 的"[[Scientific Method|科学方法]]"描述
 >
 > [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, pp. 117–118)]] 详细引用了 Bennett (2013, p. 21) 的"科学方法"描述，以说明 ResearchED 背后的"民间科学观"（folk-view of science）：
 >

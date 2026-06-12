@@ -79,7 +79,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的核心概念，建立在其开放本体论和[[Multiplicity|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
+> - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的核心概念，建立在其开放[[Ontology|本体论]]和[[Multiplicity|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
 > - [[Geopolitics of Knowledge]] — 知识地缘政治中的权力关系分析直接使用权力几何学作为分析工具，揭示[[Knowledge Production|知识生产]]和流动中的不对称控制
 
 ---

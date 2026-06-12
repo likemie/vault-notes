@@ -37,21 +37,21 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Cargo cult science（货物崇拜科学）是物理学家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的认识论诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
+> Cargo cult science（货物崇拜科学）是物理学家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的[[Epistemology|认识论]]诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
 >
 > > "I'm talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist"（Feynman, 1974, p.12, cited in Johnson & Janzen, 2023, p.34）
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **外观像科学但实质缺失**：具备科学的外在形式（数据、图表、术语），但缺少科学的核心——认识论诚信和自我纠错机制([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
+> - **外观像科学但实质缺失**：具备科学的外在形式（数据、图表、术语），但缺少科学的核心——[[Epistemology|认识论]]诚信和自我纠错机制([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
 > - **缺乏"过度纠正"态度**：真正的科学要求研究者不仅不撒谎，还要"弯腰向后倾"来展示自己可能如何出错；伪科学则隐藏方法论缺陷而非主动暴露(Feynman, 1974, p.12; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
 > - **恐吓外行**：伪科学以其数学复杂性和科学外观恐吓普通人，使他们不敢质疑。Feynman 写道："一个有如何教孩子阅读的好主意的老师，被学校系统强迫用另一种方式——甚至被学校系统愚弄，认为她的方法不一定好"(Feynman, 1974, p.10; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]])
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Scientism]] — 科学主义是前提和土壤（过度推崇科学方法），cargo cult science 是产物（具体伪科学实践）
+> - vs [[Scientism]] — 科学主义是前提和土壤（过度推崇[[Scientific Method|科学方法]]），cargo cult science 是产物（具体伪科学实践）
 > - vs [[Evidence-Based Education]] — EBE 在方法论诚信缺失时会退化为 cargo cult science
 > - vs [[Dynamic Knowledge and Learning Model]] — 动态模型要求先区分学习结果类型，再比较效果大小；这有助于抑制"只保留科学外观而忽视概念清晰度"的倾向。
 

@@ -39,7 +39,7 @@ updated: '2026-05-18'
 > [!info]
 > 知识生产（knowledge production）在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中指知识的创造、建构和合法化过程。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将其界定为 GPK 的"两面"（two faces）之一（另一面为[[Knowledge Transfer|知识转移]]）：知识生产关注谁生产知识、以何种视角、为谁的利益。它是后殖民 GPK 传统——从 Fanon 到 Mignolo 到 [[Chen Kuan-Hsing]]——的核心分析维度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72–75]])。
 
-知识生产概念涵盖的不仅是认识论问题（何种知识被认定为知识），更是政治经济问题：何种知识被视为"有价值的"生产，已经由国家和市场共同决定。例如，硬科学"绝对主导"全球可专利知识的生产，而软科学（社科人文）对专利数据的贡献"非常罕见"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]])。
+知识生产概念涵盖的不仅是[[Epistemology|认识论]]问题（何种知识被认定为知识），更是政治经济问题：何种知识被视为"有价值的"生产，已经由国家和市场共同决定。例如，硬科学"绝对主导"全球可专利知识的生产，而软科学（社科人文）对专利数据的贡献"非常罕见"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]])。
 
 ---
 
@@ -54,7 +54,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **殖民知识生产的批判传统**：Fanon（1952/1963）最早揭示了殖民暴力如何通过语言和文化等级结构"制造"殖民地主体——殖民教育系统生产了一套将西方知识优越化、本地知识贬低化的知识体系。[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]传统（Mignolo, Dussel）进一步论证：西方认识论通过殖民差异系统性地压制替代性认知方式，知识生产本身就是殖民性的核心运作场所([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72]])
+> - **殖民知识生产的批判传统**：Fanon（1952/1963）最早揭示了殖民暴力如何通过语言和文化等级结构"制造"殖民地主体——殖民教育系统生产了一套将西方知识优越化、本地知识贬低化的知识体系。[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]传统（Mignolo, Dussel）进一步论证：西方[[Epistemology|认识论]]通过殖民差异系统性地压制替代性认知方式，知识生产本身就是殖民性的核心运作场所([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72]])
 > - **"知识生产"术语的商业化同步**：Partaken 指出"knowledge production"这一英文术语本身直到 1960 年代之后才出现在书籍中，1980 年代才流行——与国际专利法律体系（1970 年 Patent Cooperation Treaty、2000 年 Patent Law Treaty）的建立几乎同步。这一时间上的重合暗示：该概念的兴起与知识产权的商业化紧密交织([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70]])
 > - **[[Chen Kuan-Hsing]] 的"亚洲作为方法"**：[[Chen Kuan-Hsing]]（2010）将知识生产批判推进到当代亚洲——论证知识本身是"帝国主义运作和行使权力的主要场所之一"，呼吁将亚洲从分析对象转变为知识生产的主体，推进"去帝国化、去殖民化和去冷战"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.73–74]])
 > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]] 的转向批评**：Partaken 对"知识生产"中心地位的批评建立在一个经验观察之上——[[Narrative Knowledge|叙事知识]]（社科人文知识）在全球范围内急剧衰退，这不是因为后现代对元叙事的怀疑（Lyotard 的原初诊断），而是因为具有商业价值的科学知识得到了国家和产业的有力赞助。后殖民传统关注的知识生产（尤其是谁生产、为谁生产的批判）属于叙事知识范畴，其自身也在这场衰退中被边缘化([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 > Partaken 对知识生产作为 [[Geopolitics of Knowledge|GPK]] 分析维度进行了系统梳理([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70–75]])：
 > - **所有权 ≠ 生产权**：欧洲学术专利的 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7%——"学术专利"这一标签不能揭示知识的实际所有权。知识由大学学者生产但由企业拥有，是 GPK 中的常态而非例外（Lissoni, 2012; 引自 Partaken, 2022, p.71）
 > - **知识类型的不对称**：Lyotard 的[[Narrative Knowledge|叙事知识]] vs 科学知识区分在 GPK 中至关重要——硬科学"绝对主导"全球可专利知识的生产，软科学对专利数据的贡献"非常罕见"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]])
-> - **认识论的政治性**：知识生产问题因而不仅是认识论的（什么是知识），更是政治经济的（何种知识被国家和市场认定为"有价值"的生产）。研究资助框架（如 Horizon 2020 将 SSH 从独立渠道改为横向嵌入）通过制度设计将特定认识论范式固化为唯一合理的选择
+> - **[[Epistemology|认识论]]的政治性**：知识生产问题因而不仅是认识论的（什么是知识），更是政治经济的（何种知识被国家和市场认定为"有价值"的生产）。研究资助框架（如 Horizon 2020 将 SSH 从独立渠道改为横向嵌入）通过制度设计将特定认识论[[Paradigm|范式]]固化为唯一合理的选择
 
 ---
 
