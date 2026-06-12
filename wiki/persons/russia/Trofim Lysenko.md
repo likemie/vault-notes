@@ -9,12 +9,16 @@ tags:
   - theme/ideology-and-science
   - theme/history-of-science
   - region/ussr
-related_concepts: []
+related_concepts:
+  - "[[Ideological Capture of Science]]"
+  - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Lysenkoism]]"
+related_arguments:
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -27,7 +31,7 @@ updated: 2026-06-12
 ## 简介
 
 > [!info]
-> Trofim Lysenko（特罗菲姆·李森科，1898–1976）是苏联农学家，以创立和推广以其名字命名的李森科主义（[[Lysenkoism]]）而闻名。他在斯大林的支持下崛起，以马克思主义意识形态正统的名义公开否定孟德尔遗传学，主导苏联生物学和农业科学研究长达数十年。他的学说缺乏科学依据，却因其政治正统性而成为苏联农业科学的官方教条，导致苏联生物科学长期与全球前沿脱节[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
+> Trofim Lysenko（特罗菲姆·李森科，1898–1976）是苏联农学家，以创立和推广以其名字命名的[[Lysenkoism|李森科主义]]（[[Lysenkoism]]）而闻名。他在斯大林的支持下崛起，以马克思主义意识形态正统的名义公开否定孟德尔遗传学，主导苏联生物学和农业科学研究长达数十年。他的学说缺乏科学依据，却因其政治正统性而成为苏联农业科学的官方教条，导致苏联生物科学长期与全球前沿脱节[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
 
 ---
 ## 生平与职涯
@@ -54,7 +58,7 @@ updated: 2026-06-12
 ## 影响
 
 > [!success]
-> - Lysenkoism 成为苏联[[Ideological Capture of Science|科学意识形态化]]的标志性事件，展示了政治权力如何系统性地瓦解一个学科领域。
+> - [[Lysenkoism]] 成为苏联[[Ideological Capture of Science|科学意识形态化]]的标志性事件，展示了政治权力如何系统性地瓦解一个学科领域。
 > - 苏联生物学和农业科学在1930至1960年代整体陷入谬误，与当时世界遗传学和分子生物学的前沿发展完全脱节。与之形成对比的是，苏联在数学、物理学和计算机科学领域仍然保持竞争力——这一差异说明科学意识形态化的破坏程度因学科而异[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
 > - Lysenkoism 至今仍是科学史上政治干预科学的最著名案例之一，被广泛引为科学自主性重要性的警示。
 
@@ -62,4 +66,4 @@ updated: 2026-06-12
 ## 争议与批评
 
 > [!warning]
-> Lysenko 不是孤立的个人投机者，而是苏联[[Soviet Statism|国家主义]]体制下科学意识形态化的制度性产物。他将政治正统凌驾于科学方法之上，利用政权力量清除学术对手，造成的人才损失和知识倒退是苏联科学史上最具破坏性的篇章之一。其学说最终在1960年代被苏联科学界正式否定，但已造成的损害持续了数十年。
+> Lysenko 不是孤立的个人投机者，而是苏联[[Soviet Statism|国家主义]]体制下[[Ideological Capture of Science|科学意识形态化]]的制度性产物。他将政治正统凌驾于科学方法之上，利用政权力量清除学术对手，造成的人才损失和知识倒退是苏联科学史上最具破坏性的篇章之一。其学说最终在1960年代被苏联科学界正式否定，但已造成的损害持续了数十年。

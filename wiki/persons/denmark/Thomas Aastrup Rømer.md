@@ -47,7 +47,7 @@ updated: '2026-06-08'
 > - 2012 年：在 *Educational Philosophy and Theory* 发表以 Dewey 视角探讨想象力与判断力的论文
 > - 2014 年：与 Tanggaard 和 Brinkmann 合编 *Uren Pædagogik 2*，提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - 2015 年：出版 *Pædagogikkens to verdener*，探讨教育学的哲学连接
-> - 2017 年：在丹麦批评文集 *[[Hattie på dansk]]*（[[Hattie på dansk]]）中撰文批评 VL 的反馈概念
+> - 2017 年：在丹麦批评文集 *[[Hattie på dansk]]*（[[Hattie på dansk]]）中撰文批评 [[Visible Learning|VL]] 的反馈概念
 > - 2018 年：在 *Educational Philosophy and Theory* 发表对 Hattie VL 的五线哲学批判（Argument_Rømer_2018_EPT）
 > - 现任奥胡斯大学（Department of Education, University of Aarhus）教育哲学副教授，研究兴趣为广义的教育理论
 
@@ -64,7 +64,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Rømer 的学术立场立基于欧洲 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta），以此为对照审视当代教育中"评价取代教育"的趋势。他的 VL 批评的独特性在于：不参与经验方法论争论（[[Effect Size|效应量]]是否计算正确），而是追问 VL 的基本教育理论前提是否正确。
+> Rømer 的学术立场立基于欧洲 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta），以此为对照审视当代教育中"评价取代教育"的趋势。他的 [[Visible Learning|VL]] 批评的独特性在于：不参与经验方法论争论（[[Effect Size|效应量]]是否计算正确），而是追问 VL 的基本教育理论前提是否正确。
 >
 > > "[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation."([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2]])
 
@@ -72,7 +72,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Pure Evaluation]] — 与 Tanggaard & Brinkmann (2014) 共同提出的概念，描述声称在自调节系统中独立于时空运作的评价实践
-> - Argument_Rømer_2018_EPT — 对 Hattie VL 理论基础的第一个系统性哲学批判
+> - Argument_Rømer_2018_EPT — 对 Hattie [[Visible Learning|VL]] 理论基础的第一个系统性哲学批判
 > - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（[[Appraisal Theory|评价理论]]取代教育理论、[[Radical Constructivism|激进建构主义]]根基、误读 Popper、反馈集权化）
 > - [[Surface and Deep Learning]] — Hattie 将表层/深层/建构性学习映射到 Popper 三个世界，[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证此映射构成对 Popper 的系统误读
 
@@ -80,14 +80,14 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 立基于 Dewey 的[[Pragmatic Paradigm|实用主义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
-> - 在丹麦批评文集 *[[Hattie på dansk]]*（[[Hattie på dansk]]）中撰文批评 VL 的反馈概念——[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.4)]] 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
+> - 在丹麦批评文集 *[[Hattie på dansk]]*（[[Hattie på dansk]]）中撰文批评 [[Visible Learning|VL]] 的反馈概念——[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.4)]] 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
 > - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评文献谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
 > - 与丹麦教育研究界内部的 VL 接受者（[[Lars Qvortrup]]、Laursen、Egelund）形成争论，[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 以解释社群分析将丹麦批评者整体定性为短期内形成广泛误解的社群
 
 ## 争议与批评
 
 > [!warning] Qvortrup 对 Rømer 反馈集权化论断的事实性质疑
-> [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 在以 VL 支持者立场回应丹麦批评时，专门针对 Rømer 在 [[Hattie på dansk]] 中的反馈批评提出反驳：
+> [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 在以 [[Visible Learning|VL]] 支持者立场回应丹麦批评时，专门针对 Rømer 在 [[Hattie på dansk]] 中的反馈批评提出反驳：
 >
 > - **Qvortrup 的立场**：Rømer 声称 VL 的反馈概念具有"集权化效应"——即反馈机制从学生到教师到校长到市政府到国家层面逐级收集信息并以此控制下层——这一论断"without any kind of factual support"([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])。Qvortrup 认为这是丹麦 Hattie 批评者"解释社群"对 VL 产生广泛误解的典型案例。
 > - **Rømer 的立场**：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 的论证基于对 Hattie 反馈概念的概念分析——Hattie 本人将反馈重新定义为"从学生到教师"最有力（Hattie, 2009, p.173），这一转向使教学实践从"文化对学生可见"逆转为"学生对教师可见"，其逻辑后果是层级监控结构的建立。Rømer 的论证属于哲学推论而非经验主张。
