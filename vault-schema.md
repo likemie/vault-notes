@@ -95,7 +95,6 @@ schema/                      专项工作流 schema，按任务触发读取
   schema-edited-volume.md
   schema-monograph.md
   schema-textbook.md
-templater/                   Obsidian Templater 插件模板镜像；AI 工作流读取 wiki/templates/
 scripts/
   vault_index.py
   wiki_index.py
@@ -110,7 +109,7 @@ citation/
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
-  templates/                  AI / Claude Code 条目模板
+  templates/                  AI / Claude Code 与 Obsidian Templater 共用条目模板
   concepts/<field>/
   theories/<field>/
   methods/qualitative/

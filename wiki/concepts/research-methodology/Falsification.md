@@ -7,8 +7,7 @@ aliases:
   - 可证伪性
   - falsificationism
   - severe test
-  - 严格检验
-summary: "波普尔提出的科学与非科学的划界标准，主张科学理论的标志不是可被证实而是可被证伪——理论必须明确什么经验证据将构成对它的反驳。"
+summary: 波普尔提出的科学与非科学的划界标准，主张科学理论的标志不是可被证实而是可被证伪——理论必须明确什么经验证据将构成对它的反驳。
 type: concept
 tags:
   - theme/epistemology
