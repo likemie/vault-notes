@@ -3393,16 +3393,20 @@
   grid-column: span 2;
 }
 
-/* ─── 特征名标签：strong:first-child ────────────────── */
+/* ─── 特征名标签：badge 样式（深底白字大写角标） ────── */
 .callout[data-callout="feature"] .callout-content > ul > li strong:first-child,
 .callout[data-callout="feature"] .callout-content > ul > li p:first-child > strong:first-child {
-  display: block;
-  color: rgb(15, 115, 84);
-  font-weight: 700;
-  font-size: 0.9em;
-  margin-bottom: 0.28rem;
-  padding-bottom: 0.22rem;
-  border-bottom: 1px solid rgba(20, 148, 108, 0.18);
+  display: inline-block;
+  background: rgb(18, 100, 72);
+  color: rgb(230, 255, 245);
+  font-size: 0.65em;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  padding: 2px 8px 2px 7px;
+  border-radius: 4px;
+  margin-bottom: 0.42rem;
+  line-height: 1.6;
 }
 
 /* ─── 暗模式 ────────────────────────────────────────── */
@@ -3430,8 +3434,8 @@
 
 .theme-dark .callout[data-callout="feature"] .callout-content > ul > li strong:first-child,
 .theme-dark .callout[data-callout="feature"] .callout-content > ul > li p:first-child > strong:first-child {
-  color: rgb(70, 215, 165);
-  border-bottom-color: rgba(60, 210, 160, 0.22);
+  background: rgb(25, 120, 88);
+  color: rgb(210, 255, 238);
 }
 
 @media (max-width: 640px) {
