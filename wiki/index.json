@@ -4478,6 +4478,19 @@
     ]
   },
   {
+    "title": "Epoché",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Epoché.md",
+    "aliases": [
+      "悬置",
+      "现象学悬置",
+      "bracketing",
+      "放入括号",
+      "phenomenological reduction",
+      "现象学还原"
+    ]
+  },
+  {
     "title": "Exogenous and Endogenous Variables",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Exogenous and Endogenous Variables.md",
@@ -4936,6 +4949,17 @@
       "paradigm shift",
       "范式转换",
       "Kuhn's paradigm"
+    ]
+  },
+  {
+    "title": "Paradigm Wars",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Paradigm Wars.md",
+    "aliases": [
+      "范式战争",
+      "paradigm war",
+      "范式之争",
+      "quantitative-qualitative debate"
     ]
   },
   {
