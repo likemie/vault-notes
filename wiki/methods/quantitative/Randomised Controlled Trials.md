@@ -15,9 +15,13 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
   - "[[Variable]]"
+  - "[[Emergence]]"
   - "[[Effect Size]]"
   - "[[Research Question]]"
+  - "[[Ontology]]"
   - "[[Tracking]]"
   - "[[Publication Bias]]"
   - "[[External Validity]]"
@@ -26,6 +30,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
+  - "[[Paradigm]]"
   - "[[School Leadership]]"
   - "[[Validity as Inferences]]"
   - "[[Recommendations for Practice]]"
@@ -88,7 +93,7 @@ updated: '2026-05-18'
 > [!abstract] [[Epistemology|认识论]]立场
 > RCT 隐含经验主义和[[Positivism|实证主义]]认识论：假设通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的因果过程([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]])。
 >
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充了此批判：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性。这意味着即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充了此批判：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性。这意味着即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
 
 ---
 
@@ -314,7 +319,7 @@ updated: '2026-05-18'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、涌现性、三层[[Ontology|本体论]]
+> - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence|涌现]]性、三层[[Ontology|本体论]]
 > - [[Validity as Inferences]] — [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 运用 Cronbach/Messick 的效度理论论证：即使 RCT 设计良好，其推论的效度也永远是临时且局部的
 
 ---

@@ -20,6 +20,7 @@ related_concepts:
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Otherhood]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Literature Review]]"
@@ -67,7 +68,7 @@ updated: 2026-05-20
 ### 全球治理研究的认识论转向
 
 - 传统国际关系学（现实主义、古典马克思主义、自由主义）长期忽视知识维度在全球治理中的作用，关注焦点限于国家间权力竞争和理性协调。在这种视角下，大学根本不值得被讨论——它没有军队、GDP 或投票权([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
-- 1990 年代以来，[[Constructivist Paradigm|建构主义]]国际关系学（Wendt, 1999; Barnett & Finnemore, 2004）和 [[World Society Theory]]（Meyer et al., 1997）的兴起推动了从"硬"治理到"软"治理的[[Paradigm|范式转移]]。核心发现是：观念、知识、意义、规范和[[Cultural Models|文化模型]]本身具有建构性力量——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"——这就是知识治理的基本运作逻辑([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
+- 1990 年代以来，[[Constructivist Paradigm|建构主义]]国际关系学（Wendt, 1999; Barnett & Finnemore, 2004）和 [[World Society Theory]]（Meyer et al., 1997）的兴起推动了从"硬"治理到"软"治理的[[Paradigm|范式]]转移。核心发现是：观念、知识、意义、规范和[[Cultural Models|文化模型]]本身具有建构性力量——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"——这就是知识治理的基本运作逻辑([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 - 伴随这一转向，全球治理的分析范围从传统的安全与经济领域扩展到社会政策、卫生、环境以及教育与科学——恰好是大学最擅长的领域([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 
 ### 在教育治理中的应用

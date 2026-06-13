@@ -15,6 +15,7 @@ tags:
 - school/analytic-philosophy
 - theme/knowledge
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
@@ -59,7 +60,7 @@ updated: '2026-06-08'
 
 > [!abstract]
 > - Russell, B., & Whitehead, A. N. (1910–1913). *Principia Mathematica* (3 vols.). Cambridge University Press. — 20 世纪最具雄心的逻辑—数学工程：试图证明全部数学可还原为少数逻辑公理（待核）
-> - Russell, B. (1912). *The Problems of Philosophy*. — 面向公众的哲学导论，涵盖[[Epistemology|知识论]]、实在论、归纳法等内容。清晰的文风使哲学为普通读者所理解（待核）
+> - Russell, B. (1912). *The Problems of Philosophy*. — 面向公众的哲学导论，涵盖知识论、实在论、归纳法等内容。清晰的文风使哲学为普通读者所理解（待核）
 > - Russell, B. (1945). *A History of Western Philosophy and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day*. Simon & Schuster. — 从古希腊到 20 世纪的哲学通史。Li 将其作为梳理西方智识传统的主要架构性参考来源([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])
 > - Russell, B. (1948). *Human Knowledge: Its Scope and Limits*. — 晚期知识论著作（待核）
 > - Russell, B. (1957–1959). *Why I Am Not a Christian and Other Essays*. — 宗教批评论文集，体现其反教权立场（待核）

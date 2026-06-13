@@ -16,6 +16,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Classroom Management]]"
+  - "[[Emergence]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 批判实在论（Critical [[Ontology|realism]]）是由 [[Roy Bhaskar]] (1978, 1979) 发展的科学哲学，主张实在（real）、实际（actual）和经验（empirical/phenomenal）之间的本体论区分。因果力属于"深层实在"（deep real），可能在开放系统中被其他力量或环境因素触发或阻断，以致未能实际化（actualise）或被感知。
+> 批判实在论（Critical realism）是由 [[Roy Bhaskar]] (1978, 1979) 发展的科学哲学，主张实在（real）、实际（actual）和经验（empirical/phenomenal）之间的[[Ontology|本体论]]区分。因果力属于"深层实在"（deep real），可能在开放系统中被其他力量或环境因素触发或阻断，以致未能实际化（actualise）或被感知。
 >
 > > "Causal forces belong to the 'deep' reality, and may be triggered or blocked by other forces or by aspects of the environment in which they attempt to materialise." ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117, summarising Bhaskar, 1978]]; Sayer, 2000, pp. 10–19)
 
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 > > 例：教师试图复制一项成功的阅读理解干预。在一个课堂中它有效（因果力被触发），在另一个课堂中无效（因果力被阻断——可能是由于学生先前知识不足、[[Classroom Management|课堂管理]]问题或学校文化不支持独立阅读）。仅知道平均效应量无法帮助教师判断她的课堂属于哪种情况。
 
 
-> [!abstract] 社会结构的涌现性（Bhaskar, 1979）
+> [!abstract] 社会结构的[[Emergence|涌现]]性（Bhaskar, 1979）
 > 社会结构拥有不是个体行动简单聚合的涌现权力。Bhaskar 的经典表述："军队不只是士兵的复数"（p. 34）——它依赖于结构和目的。虽然个体活动是维持和再生产社会结构所必需的，但社会和文化中固有的结构先于我们作为个体而存在："社会结构……总是已经被制造出来的"（p. 42）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。
 
 
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - **1978** — [[Roy Bhaskar]] 出版 *A Realist Theory of Science*，提出批判实在论的科学哲学基础，区分三层[[Ontology|本体论]]和开放/封闭系统
-> - **1979** — Bhaskar 在 *The Possibility of Naturalism* 中将批判实在论扩展至人文科学和社会科学，论证社会结构的涌现性和因果解释在社会领域的特殊性
+> - **1979** — Bhaskar 在 *The Possibility of Naturalism* 中将批判实在论扩展至人文科学和社会科学，论证社会结构的[[Emergence|涌现]]性和因果解释在社会领域的特殊性
 > - **2000** — Andrew Sayer 出版 *Realism and Social Science*，为社会科学研究者提供批判实在论的方法论指南，系统讨论还原论问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])
 > - **2006** — [[Ray Pawson]] 出版 *Evidence-based Policy: A Realist Perspective*，将批判实在论应用于证据本位政策的分析，提出实在论综合（realist synthesis）作为[[Meta-analysis|元分析]]的替代方案([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115, 122]])
 > - **2010** — Sayer 在 *Questioning Nineteenth-Century Assumptions about Knowledge, II: Reductionism* 中进一步讨论社会科学中的还原论问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])
@@ -99,7 +100,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - **方法论操作性不足**：批判实在论提供了丰富的哲学框架，但将其转化为具体研究实践操作的指导相对薄弱。Wrigley 推崇的"实在论综合"（Pawson, 2006）比"计算平均[[Effect Size|效应量]]"复杂得多，尚未被证明可简化为一线教师可用的工具。
 > - **与实证研究的张力**：批判实在论对"经验层面"规则的怀疑可能被误解为对量化方法的全面拒绝——尽管 Bhaskar 和 Wrigley 均明确否认这一点。
-> - **在 [[Evidence-Based Education|EBE]] 辩论中的接受度**：批判实在论为 EBE 的方法论批判提供了最系统的哲学基础，但其在政策制定者和 EBE 倡导者中的影响力有限——部分原因是其术语体系（"深层实在"、"涌现"、"实际化"）对非哲学背景的读者构成理解障碍。
+> - **在 [[Evidence-Based Education|EBE]] 辩论中的接受度**：批判实在论为 EBE 的方法论批判提供了最系统的哲学基础，但其在政策制定者和 EBE 倡导者中的影响力有限——部分原因是其术语体系（"深层实在"、"[[Emergence|涌现]]"、"实际化"）对非哲学背景的读者构成理解障碍。
 
 ## 相关研究
 

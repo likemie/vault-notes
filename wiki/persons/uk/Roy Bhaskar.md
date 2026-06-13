@@ -14,6 +14,10 @@ tags:
 - epistemology
 - region/uk
 related_concepts:
+  - "[[Ontology]]"
+  - "[[Emergence]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Positivism]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -32,7 +36,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Roy Bhaskar (1944–2014) 是英国哲学家，**[[Critical Realism|批判实在论]]（Critical [[Ontology|realism]]）**的创始人。他的工作横跨科学哲学和人文社会科学哲学，核心关注是发展一种既反对经验主义还原论、又反对后现代相对主义的科学哲学立场。
+> Roy Bhaskar (1944–2014) 是英国哲学家，**[[Critical Realism|批判实在论]]（Critical realism）**的创始人。他的工作横跨科学哲学和人文社会科学哲学，核心关注是发展一种既反对经验主义还原论、又反对后现代相对主义的科学哲学立场。
 
 ## 核心思想
 
@@ -48,7 +52,7 @@ updated: '2026-06-08'
 > Bhaskar (1978, 1979) 论证："封闭系统"解释在自然界中很少充分，在社会情境中则肯定不充分。多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。教育属于开放系统——涉及人的意志、习惯、解释和互动([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。
 
 
-> [!info] 社会结构的涌现性
+> [!info] 社会结构的[[Emergence|涌现]]性
 > Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的涌现权力。他的经典表述："军队不只是士兵的复数"（p. 34）——军队依赖于结构和目的。社会结构"总是已经被制造出来的"（p. 42）——它们先于我们作为个体而存在，虽然需要个体活动来维持和再生产([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。
 
 
@@ -78,5 +82,5 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **术语的可及性**：Bhaskar 的写作以高度抽象和术语密集著称（"深层实在"、"涌现"、"实际化"），对非哲学背景的研究者和实践者构成严重的可及性障碍
+> - **术语的可及性**：Bhaskar 的写作以高度抽象和术语密集著称（"深层实在"、"[[Emergence|涌现]]"、"实际化"），对非哲学背景的研究者和实践者构成严重的可及性障碍
 > - **方法论转化的困难**：[[Critical Realism|批判实在论]]提供了丰富的哲学框架，但从[[Ontology|本体论]]原则到具体研究方法的转化路径一直存在争议——Pawson 的"实在论综合"是少数系统尝试之一

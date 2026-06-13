@@ -18,6 +18,8 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Evidence-Based Education]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Otherhood]]"
   - "[[Epistemic Drift]]"
@@ -68,7 +70,7 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 
 ### 全球治理研究的知识转向
 
-1990 年代以来，国际关系学（International Relations, IR）经历了从现实主义/自由主义向[[Constructivist Paradigm|建构主义]]的[[Paradigm|范式转移]]。传统国际关系学将世界视为强者博弈的棋盘，关注军事和经济实力；建构主义国际关系学（Barnett & Finnemore, 2004; Wendt, 1999）和[[World Society Theory|世界社会理论]]（Meyer et al., 1997）将分析焦点转向观念、规范和知识的治理力量——当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"，这就是观念的治理力量([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])。
+1990 年代以来，国际关系学（International Relations, IR）经历了从现实主义/自由主义向[[Constructivist Paradigm|建构主义]]的[[Paradigm|范式]]转移。传统国际关系学将世界视为强者博弈的棋盘，关注军事和经济实力；建构主义国际关系学（Barnett & Finnemore, 2004; Wendt, 1999）和[[World Society Theory|世界社会理论]]（Meyer et al., 1997）将分析焦点转向观念、规范和知识的治理力量——当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"，这就是观念的治理力量([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])。
 
 这一范式转移的实践后果是全球治理的分析焦点从传统的"安全"和"经济"两个领域扩展到了社会政策、卫生、环境、教育和科学——恰好是大学最擅长的领域。政策的科学化正是在这一宏观背景下成为全球治理的核心机制([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])。
 

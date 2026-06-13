@@ -928,7 +928,6 @@
     "aliases": [
       "价值论",
       "axiological assumptions",
-      "价值论假设",
       "values in research"
     ]
   },
@@ -999,9 +998,7 @@
       "认识论",
       "epistemological assumptions",
       "认识论假设",
-      "theory of knowledge",
-      "知识论",
-      "nature of knowledge"
+      "theory of knowledge"
     ]
   },
   {
@@ -1115,10 +1112,7 @@
       "本体论",
       "ontological assumptions",
       "本体论假设",
-      "nature of reality",
-      "实在的本质",
-      "realism",
-      "nominalism"
+      "nature of reality"
     ]
   },
   {
@@ -4440,7 +4434,6 @@
     "aliases": [
       "涌现",
       "emergent properties",
-      "涌现性",
       "emergent order",
       "涌现秩序"
     ]
@@ -4715,15 +4708,12 @@
     "path": "wiki/concepts/research-methodology/Interpretive Paradigm.md",
     "aliases": [
       "诠释范式",
-      "解释主义范式",
       "anti-positivism",
       "反实证主义",
       "naturalistic inquiry",
       "自然主义探究",
       "qualitative paradigm",
-      "interpretive approach",
-      "naturalistic approach",
-      "subjectivist approach"
+      "interpretive approach"
     ]
   },
   {
@@ -4884,12 +4874,10 @@
     "path": "wiki/concepts/research-methodology/Nomothetic and Idiographic.md",
     "aliases": [
       "通则式与个例式",
-      "nomothetic approach",
-      "idiographic approach",
-      "通则研究",
-      "个例研究",
       "nomothetic",
-      "idiographic"
+      "idiographic",
+      "nomothetic approach",
+      "idiographic approach"
     ]
   },
   {
@@ -4936,7 +4924,6 @@
       "paradigms",
       "paradigm shift",
       "范式转换",
-      "范式转移",
       "Kuhn's paradigm"
     ]
   },
@@ -4967,8 +4954,7 @@
     "aliases": [
       "实证主义",
       "positivist approach",
-      "positivist paradigm",
-      "positivist science"
+      "positivist paradigm"
     ]
   },
   {
@@ -5230,8 +5216,7 @@
       "科学方法",
       "empirical science",
       "经验科学",
-      "scientific approach",
-      "hypothetico-deductive method"
+      "scientific approach"
     ]
   },
   {
@@ -6013,10 +5998,8 @@
     "aliases": [
       "复杂性理论",
       "complexity science",
-      "复杂理论",
       "complex adaptive systems",
-      "复杂适应系统",
-      "chaos theory"
+      "复杂适应系统"
     ]
   },
   {
@@ -6502,7 +6485,6 @@
     "aliases": [
       "伯勒尔和摩根四组假设框架",
       "Burrell and Morgan framework",
-      "Burrell and Morgan's four assumptions",
       "四组假设框架"
     ]
   },
@@ -6564,9 +6546,7 @@
     "path": "wiki/theories/sociology-of-education/Ethnomethodology.md",
     "aliases": [
       "俗民方法学",
-      "常人方法学",
-      "ethnomethodological",
-      "ethnomethodologist"
+      "ethnomethodological"
     ]
   },
   {
@@ -6611,9 +6591,7 @@
     "path": "wiki/theories/sociology-of-education/Symbolic Interactionism.md",
     "aliases": [
       "符号互动论",
-      "symbolic interaction",
-      "symbolic interactionist",
-      "符号互动"
+      "symbolic interaction"
     ]
   },
   {
@@ -7643,7 +7621,6 @@
     "aliases": [
       "卡尔·波普尔",
       "Popper",
-      "Karl R. Popper",
       "Sir Karl Popper"
     ]
   },
@@ -8136,8 +8113,7 @@
     "path": "wiki/persons/france/Auguste Comte.md",
     "aliases": [
       "奥古斯特·孔德",
-      "Comte",
-      "Isidore Auguste Marie François Xavier Comte"
+      "Comte"
     ]
   },
   {
@@ -9003,7 +8979,6 @@
     "aliases": [
       "托马斯·库恩",
       "Kuhn",
-      "T. S. Kuhn",
       "Thomas S. Kuhn"
     ]
   },

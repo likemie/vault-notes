@@ -26,12 +26,12 @@ related_concepts:
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
-  - "[[Epistemology]]"
   - "[[Language Experience Approach]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
+  - "[[Epistemology]]"
   - "[[School Effectiveness]]"
   - "[[Falsification]]"
   - "[[Study Population and Sample]]"
@@ -198,7 +198,7 @@ Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] �
 >
 > - **平均化掩盖复杂性**：以[[Homework|家庭作业]]为例，总体 $d=0.29$ 掩盖了小学 $d=0.15$、中学 $d=0.64$ 的巨大差异，以及数学（高效应）vs 科学和社会（低效应）的学科差异（p.97）；[[Class Size|班级规模]]的平均效应量掩盖了高质量[[Randomised Controlled Trials|随机对照试验]]（[[Tennessee STAR Project 1985-1989|田纳西STAR项目]]）中发现的 $d=0.62$–$0.66$ 效应量（p.100–101）。
 >
-> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p.103）。论文引 Dewey 的[[Epistemology|知识论]]为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p.104）。
+> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p.103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p.104）。
 
 Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评文献中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
 
@@ -326,7 +326,7 @@ Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确�
 > [!citation-card] Wecker et al., 2016, p.23
 > 「从'可见学习'中给出的例子并不代表一种系统的方法，这是来自文本。相反，它们被选为示例，其方式是讲清楚。因此，我们通常不提供进一步的文件。」
 
-这意味着 Wecker 等人的检查是**基于示例的重构（example-based reconstruction）**而非对所有 800+ 元分析的全面再分析——这一点的认识论意义在于：所发现的缺陷是**系统性的模式证据**（systematic pattern evidence），而非穷尽的错误清单。
+这意味着 Wecker 等人的检查是**基于示例的重构（example-based reconstruction）**而非对所有 800+ 元分析的全面再分析——这一点的[[Epistemology|认识论]]意义在于：所发现的缺陷是**系统性的模式证据**（systematic pattern evidence），而非穷尽的错误清单。
 
 #### 内部批判步骤 1：数据基础的检查
 

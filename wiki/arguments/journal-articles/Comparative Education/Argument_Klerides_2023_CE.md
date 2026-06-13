@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Cross-National Attraction]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Government to Governance Shift]]"
   - "[[Methodological Nationalism]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Orientalism]]"
   - "[[Revoicing]]"
   - "[[Knowledge Exchange]]"
+  - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
@@ -113,7 +115,7 @@ citation_aliases:
 
 **1. 国际关系的三大思想传统**
 
-> [!abstract] 现实主义（[[Ontology|realism]]）
+> [!abstract] 现实主义（realism）
 > 现实主义是 Niccolò Machiavelli 的传统。它把主权领土国家视为国际政治的主要行动者，国际政治是自利国家之间的权力斗争。由于不存在保护各国免于相互侵犯的中央权威，国际社会是一个自助的竞技场（self-help arena），竞争和寻求优势是关系的基础。在无政府状态下，不安全与冲突是常态，霸权或均势是稳定的来源(pp.417–418)。
 >
 > 核心概念是权力（power）。权力是国家对外获取服从和资源、对内施加意志的能力。跨国公司和多边组织都被视为最强大国家外交政策的工具。在国内政策中，权力是国家在领土范围内施加意志并从社会中提取资源以支持国际竞争的能力。Anderson(1983)指出，无论一国成员在阶级、性别或族裔上如何不同，民族身份都将他们呈现为统一体，并赋予国家代表民族行动的天然权利(p.418)。

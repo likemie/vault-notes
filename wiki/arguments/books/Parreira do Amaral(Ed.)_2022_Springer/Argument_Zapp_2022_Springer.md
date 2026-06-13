@@ -19,6 +19,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Literature Review]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
@@ -169,7 +170,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 - 高等教育是世界贸易组织（World Trade Organization, WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS）中被最频繁纳入的行业(WTO, 2020)，详见 [[GATS and Trade in Education Services]]
 - 二十国集团（G20）开始实施研究计分卡评估各国研究系统表现(Web of Science Group, 2019)
 
-> 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于人工智能（Artificial Intelligence, AI）的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的[[Epistemology|知识论]]文，就这样被卷入了地缘政治的漩涡。Moisio & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
+> 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于人工智能（Artificial Intelligence, AI）的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的知识论文，就这样被卷入了地缘政治的漩涡。Moisio & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
 
 ### 第六步：结论——大学必须从"追随者"变成"塑造者"
 

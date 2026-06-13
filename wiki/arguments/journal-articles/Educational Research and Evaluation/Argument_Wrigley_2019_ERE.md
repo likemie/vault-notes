@@ -20,7 +20,10 @@ tags:
 - region/uk
 related_concepts:
   - "[[Research Question]]"
+  - "[[Scientific Method]]"
+  - "[[Ontology]]"
   - "[[Evidence-Based Education]]"
+  - "[[Emergence]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Visible Learning]]"
@@ -83,7 +86,7 @@ citation_aliases:
 >
 > Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次[[Scientific Method|科学方法]]研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力(p. 112)。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"(p. 112)。
 >
-> ### 3. 涌现与开放系统
+> ### 3. [[Emergence|涌现]]与开放系统
 >
 > Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"(p. 34)。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现(p. 113)。
 >

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
@@ -76,7 +77,7 @@ citation_aliases:
 
 论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争(Hazelkorn, 2017)、发展新型商业模式(Kehm & Lanzendorf, 2005)、不断追求卓越和全球领导地位(Altbach & Salmi, 2011)。教育被转型为以经济增长和提高生产力为主要目标(Spring, 2015)。
 
-这一全球转型同时被理解为[[Epistemology|知识论]]转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性**（rationality），重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现**远距治理**(governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
+这一全球转型同时被理解为知识论转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性**（rationality），重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现**远距治理**(governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
 
 注意这里的论证前提：因为新自由主义治理术运作于"远处"，所以它不能通过直接命令来塑造行为，而是必须**生产特定的主体性**——即个体将主动采纳的思维和行动模式。这就将分析焦点引向了主体性生产。
 
