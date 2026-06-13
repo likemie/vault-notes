@@ -6,6 +6,7 @@
 
 ## 核心原则
 
+- 模板读取顺序统一为 `wiki/templates/TEMPLATE-SPEC.md` → `wiki/templates/CALLOUTS.md` → 对应 `wiki/templates/template-*.md`。
 - 论文集 overview 是整本书的结构入口，使用 `wiki/templates/template-argument-edited-volume.md`。
 - 论文集章节是主要可引用单元，使用 `wiki/templates/template-argument.md`。
 - 章节 Argument 的 citation 字段按章节作者、章节年份和章节标题填写。
@@ -36,12 +37,12 @@ wiki/arguments/books/<book-folder>/
 
 ## Overview 处理流程
 
-1. 读取 `vault-schema.md` 和 `schema/schema-edited-volume.md`。
+1. 读取 `vault-schema.md`、`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和 `schema/schema-edited-volume.md`。
 2. 建立 `books/<book-folder>/`。
 3. 读取前言、导论或编者说明。
 4. 读取 `wiki/index.json` 判断候选条目是否已存在。
-5. 更新已有条目或按模板新建条目。
-6. 使用 `wiki/templates/template-argument-edited-volume.md` 新建或更新 overview Argument。
+5. 更新已有条目；新建条目时读取对应 `wiki/templates/template-*.md`。
+6. 读取并使用 `wiki/templates/template-argument-edited-volume.md` 新建或更新 overview Argument。
 7. 使用 `source_record.py edited-volume-overview` 创建 overview source 记录：
 
 ```bash
@@ -61,12 +62,12 @@ wiki/arguments/books/<book-folder>/
 
 ## 章节处理流程
 
-1. 读取 `vault-schema.md` 和 `schema/schema-edited-volume.md`。
+1. 读取 `vault-schema.md`、`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和 `schema/schema-edited-volume.md`。
 2. 确认章节所属 `<book-folder>`。
 3. 读取 overview source 记录，确认归属。
 4. 根据章节 PDF 或章节文本判断章节编号、标题和作者。
 5. 读取 `wiki/index.json` 判断候选条目是否已存在。
-6. 更新已有条目或按模板新建条目。
+6. 更新已有条目；新建条目时读取对应 `wiki/templates/template-*.md`。
 7. 使用 `source_record.py book-chapter` 创建章节 source 记录：
 
 ```bash
@@ -78,7 +79,7 @@ wiki/arguments/books/<book-folder>/
   --part-of "[[<book-folder>]]"
 ```
 
-8. 使用 `wiki/templates/template-argument.md` 新建章节 Argument：
+8. 读取并使用 `wiki/templates/template-argument.md` 新建章节 Argument：
    - 文件名：`Argument_ChapterAuthor_Year_关键词.md`
    - `subtype: book-chapter`
    - `publication_type: book-chapter`

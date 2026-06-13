@@ -1,6 +1,6 @@
 # Vault Schema
 
-本文件只保留 AI / Claude Code 处理 Obsidian vault 时必须遵守的规则。具体页面结构以 `wiki/templates/` 中对应模板为准；脚本实现细节以 `scripts/` 为准。
+本文件只保留 AI / Claude Code 处理 Obsidian vault 时必须遵守的规则。模板规范以 `wiki/templates/TEMPLATE-SPEC.md` 与 `wiki/templates/CALLOUTS.md` 为入口；具体页面骨架以 `wiki/templates/` 中对应模板为准；脚本实现细节以 `scripts/` 为准。
 
 ---
 
@@ -31,7 +31,7 @@
 6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
 7. 将候选分为待更新和待新建。
 8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
-9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
+9. 新建条目：读取 `wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
 10. 判断研究方法，除非是思辨类或评论文章，更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
 11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
 12. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；政策、报告、白皮书用 `source_record.py report --record-name <论文命名>`。
@@ -110,6 +110,8 @@ wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
   templates/                  AI / Claude Code 与 Obsidian Templater 共用条目模板
+    TEMPLATE-SPEC.md          模板字段、写作、来源和类型结构主规范
+    CALLOUTS.md               callout 语义和 CSS contract
   concepts/<field>/
   theories/<field>/
   methods/qualitative/
@@ -207,7 +209,7 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按对应 Argument 模板执行。Argument 保留 `year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式；中文原始文献同时生成英文 APA 版本和中文作者年版本。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式同样只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式；中文原始文献同时生成英文 APA 版本和中文作者年版本。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式同样只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
 
 `doi` 用于论文、报告或有 DOI 的书籍；著作、教材、论文集或章节没有 DOI 时，`doi` 可留空，若能确认 ISBN，则写入 `isbn`。
 
@@ -398,29 +400,12 @@ Argument 引用规则：
 
 ### Writing and Template Rules
 
-- 新建条目必须读取对应 `wiki/templates/template-*.md`。
-- 模板提供结构和样式；有内容才写，没有内容可省略空章节。
-- Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，如 `"[[Louis Cohen|Cohen, L.]]"` 或 `"[[Cohen, L.]]"`，不要写成 `"[[Louis Cohen]]"`；否则 `citation_index.py` 会生成错误短引。
-- 写正文时先按模板逻辑组织主题，再在每个主题内按时间、发展阶段或论证顺序排列。
-- `summary` 只用于索引说明，不是摘要；必须围绕条目本身写，不围绕某篇论文或章节写。
-- `summary` 外层必须使用双引号包裹；内容可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。
-- `summary` 需要断句时优先使用中文逗号，不要为了规避字符而省略标点。
-- 重要定义、关键数据、关键引用、争议、例子等，按模板使用 callout。
-- 常用 callout：`[!info]` 定义、背景、方法说明；`[!abstract]` 理论框架、结构、政策摘要；`[!success]` 主要发现、影响、效果；`[!warning]` 争议、局限、批评；`[!quote]` 原文引用；`[!example]` 案例、教育情境例子；`[!note]-` 可折叠补充说明。
-- `## 关键引用` 与 `[!quote]` callout 使用双语格式，不给引用内容额外加外层引号。外文材料先写中文译文并标注页码，下一行写 `Original:` 加原文；中文材料先写中文原文并标注页码，下一行写 `English:` 加英文译文。不要省略原文，也不要只写中文意译。
-- callout 应服务阅读体验：用来区分定义、论证框架、数据、例子、争议和原文引用；普通说明段不要强行包进 callout。
-- `---` 分割线用于主要章节之间，以及 Argument 论证步骤之间；不要在同一小段内部频繁插入。
-- 理论或哲学内容要避免纯定义堆砌；抽象主张后应有例子或说明。
-- 写作必须自然中文，不直译英文，不写欧化长句。
-- 句子不要中英混合。中文正文中，除专名、引文、公式、代码、APA citation 和无法翻译的固定术语外，句子主体使用中文表达。
-- 人名第一次出现必须使用全名；中文正文优先写成中文全名（英文全名），后文再出现可按语境使用中文名、姓氏或代称。
-- 缩写第一次出现必须写成中文（英文全称，缩写），例如“经合组织（Organisation for Economic Co-operation and Development，OECD）”；后文才可单独使用缩写。
-- 术语首次出现时使用中文（English）格式；如果该术语有缩写，使用中文（English Full Name，ABBR）格式。后文优先使用中文或已解释过的缩写。
-- 少用破折号和冒号；优先用短句、逗号或句号。
-- 少用“不是/并非……而是……”句式。只有纠正常见误解时才使用；普通说明直接写正面陈述。
-- 删除没有信息量的元话语，如“这不是简单的 X，而是复杂的 Y”。保留具体判断、机制、证据或例子。
-- 写完后检查“不是、并非、而是、——、：”。没有新增判断或纠错价值的句子必须改写或拆句。
-- 避免 Markdown 加粗语法 `**...**`，用标题、列表或 callout 表达重点。
+- 新建或重写条目必须读取三个文件：`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md`、对应 `wiki/templates/template-*.md`。
+- `TEMPLATE-SPEC.md` 规定字段、写作、来源和类型结构规则。
+- `CALLOUTS.md` 规定 callout 语义和 CSS contract。
+- `template-*.md` 只提供具体页面骨架；有内容才写，没有内容可省略空章节。
+- 模板与规范冲突时，以 `TEMPLATE-SPEC.md` 和 `CALLOUTS.md` 为准。
+- 正式条目正文不要复制模板中的说明注释。
 
 ---
 

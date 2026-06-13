@@ -34,7 +34,7 @@ Total entries: **78**
 > - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
 > - [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
 > - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
-> - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
+> - [[Phenomenology]] — 以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。
 > - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 > - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑

@@ -6,6 +6,7 @@
 
 ## 核心原则
 
+- 模板读取顺序统一为 `wiki/templates/TEMPLATE-SPEC.md` → `wiki/templates/CALLOUTS.md` → 对应 `wiki/templates/template-*.md`。
 - 每次只处理用户当前发送的一章。
 - 处理开始时确定 `<book-folder>`，并使用 `books/<book-folder>/` 与 `wiki/arguments/books/<book-folder>/`。
 - 整本书处理完成前，不创建 source 记录，不创建阅读页面。
@@ -56,14 +57,14 @@ wiki/arguments/books/<book-folder>/
 
 ## 单章处理流程
 
-1. 读取 `vault-schema.md` 和 `schema/schema-monograph.md`。
+1. 读取 `vault-schema.md`、`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和 `schema/schema-monograph.md`。
 2. 只处理当前章节文本。
 3. 扫描可提取或更新的 Concept / Theory / Method / Person / Fact / Argument。
 4. 读取 `wiki/index.json` 判断候选条目是否已存在。
-5. 更新已有条目或按模板新建条目。
-6. 更新或新建 `wiki/arguments/books/<book-folder>/Argument_<book-folder>.md`。
+5. 更新已有条目；新建条目时读取对应 `wiki/templates/template-*.md`。
+6. 读取并使用 `wiki/templates/template-argument-monograph.md` 更新或新建 `wiki/arguments/books/<book-folder>/Argument_<book-folder>.md`。
 7. 将当前章节整合进「各章概览」，将代表性引用整合进「关键引用」。
-8. 在 `## 来源` 列出 source wikilink。
+8. 若整本书 source record 已创建，在 `## 来源` 列出 source wikilink；尚未创建时暂不编造来源链接。
 9. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。
 10. 当前章节处理完成后停止。
 
@@ -106,7 +107,7 @@ EPUB source record 使用已配置的 epub.js 阅读器容器：
 ## 整合全书 Argument
 
 1. 读取全书 Argument 的「各章概览」。
-2. 读取 `wiki/templates/template-argument-monograph.md`。
+2. 读取 `wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和 `wiki/templates/template-argument-monograph.md`。
 3. 提炼全书研究问题、理论框架、研究方法、论证结构、主要发现、关键引用和自述局限。
 4. 从各章概览筛选代表性发现与引用，不机械搬运全部章节记录。
 5. 保留「各章概览」作为章节处理记录。
