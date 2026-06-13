@@ -9,17 +9,15 @@
 - 模板读取顺序统一为 `wiki/templates/TEMPLATE-SPEC.md` → `wiki/templates/CALLOUTS.md` → 对应 `wiki/templates/template-*.md`。
 - 每次只处理用户当前发送的一章。
 - 处理开始时确定 `<book-folder>`，并使用 `books/<book-folder>/` 与 `wiki/arguments/books/<book-folder>/`。
-- Argument 粒度由用户判断并指定，教材和专著规则一致；AI 不根据章节长度自行决定拆分。
+- Argument 粒度按用户指定。
 - 合法粒度：
   - `single-argument`：整本教材只维护 `Argument_<book-folder>.md`，章节处理结果累积到该页。
   - `chapter-arguments`：`Argument_<book-folder>.md` 作为全书 overview，每章另建或更新独立章节 Argument。
-- 所有章节处理完成前，不创建 source 记录，不创建阅读页面。
 - 教材 Argument 使用 `wiki/templates/template-argument-textbook.md`。
 - 采用 `single-argument` 时，章节处理结果累积到「章节结构」「章节概览」和「重要摘录」。
 - 采用 `chapter-arguments` 时，全书 Argument 只记录章节结构、章节索引和跨章知识结构；章节细节写入章节 Argument。
 - 具体定义、分类、争议、例子、方法步骤和理论说明优先沉淀到对应 Concept / Theory / Method / Fact / Person 条目。
 - 教材来源的新条目面向初学者，说明应适当详细。
-- Concept / Theory / Method / Fact / Person 条目不写 YAML `sources` 和正文 `## 来源`；来源性陈述通过 Argument 链接进入 `related_arguments`。
 - 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行；基础索引统一运行 `.venv/bin/python3 scripts/vault_index.py`。
 
 ---
@@ -44,7 +42,7 @@ wiki/arguments/books/<book-folder>/
 
 ---
 
-## 教材 Argument 记录
+## 教材 Argument
 
 `template-argument-textbook.md` 固定保留：
 
@@ -82,7 +80,7 @@ wiki/arguments/books/<book-folder>/
 
 1. 读取 `vault-schema.md`、`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和 `schema/schema-textbook.md`。
 2. 只处理当前章节文本。
-3. 确认用户指定的 Argument 粒度：`single-argument` 或 `chapter-arguments`。若用户未指定，先询问，不自行决定。
+3. 确认用户指定的 Argument 粒度：`single-argument` 或 `chapter-arguments`；未指定则先询问。
 4. 扫描可提取或更新的 Concept / Theory / Method / Person / Fact / Argument。
 5. 读取 `wiki/index.json` 判断候选条目是否已存在。
 6. 更新已有条目；新建条目时读取对应 `wiki/templates/template-*.md`。

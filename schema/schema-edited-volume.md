@@ -11,7 +11,6 @@
 - 论文集章节是主要可引用单元，使用 `wiki/templates/template-argument.md`。
 - 章节 Argument 的 citation 字段按章节作者、章节年份和章节标题填写。
 - overview source 与章节 source 都放在 `books/<book-folder>/`，不放 `sources/`。
-- Concept / Theory / Method / Fact / Person 条目不写 YAML `sources` 和正文 `## 来源`；来源性陈述通过 Argument 链接进入 `related_arguments`。
 - 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行；基础索引统一运行 `.venv/bin/python3 scripts/vault_index.py`。
 
 ---
