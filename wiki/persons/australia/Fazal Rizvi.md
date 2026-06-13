@@ -79,7 +79,7 @@ updated: '2026-06-08'
 > [!info] [[Critical Geopolitics|批判地缘政治学]]作为分析透镜
 > Rizvi 选择[[Critical Geopolitics|批判地缘政治学]]而非古典（现实主义）地缘政治作为核心分析工具。他的理由是：[[Classical Geopolitics|古典地缘政治]]只能看到国家间的权力斗争，看不到跨国社会想象、网络化关系和全球教育市场中意识形态与文化的维度。批判地缘政治学对"日常经验"的关注——亚洲中产阶级家庭送孩子去西方读书的日常决策如何汇聚成重塑全球高等教育架构的巨大力量——是其分析的关键创新([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91, 95–97]])。
 >
-> > "geopolitical relations are 'saturated with social and cultural meaning'"（Dodds, 2019, p.34, cited in Rizvi, 2022, p.91）
+> > "geopolitical relations are 'saturated with social and cultural meaning'"（Dodds, 2019, p.34, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.91]]）
 >
 
 ## 影响

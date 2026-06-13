@@ -61,7 +61,7 @@ updated: 2026-06-10
 > - **1950s末** 理查德·尼尔森（Richard Nelson）和肯尼斯·阿罗（Kenneth Arrow）基于公共品理论，论证了由于科学知识的非排他性和非竞争性，政府必须主导对基础研究的公共投入，为线性模型确立了主流经济学理论基础。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
 > - **1986** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）提出[[Chain-linked Model|链式模型]]，系统批评了线性模型单向因果的谬误，主张创新是一个包含复杂反馈的学习过程。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
 > - **2000s** 欧盟里斯本议程设定巴塞罗那目标（R&D 占比达到 GDP 的 2% 私人和 1% 公共投入），说明线性模型至今依然在主导着当代国家级的宏观政策指针。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
-> - **2009** 若昂·卡拉萨（João Caraça）等人提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，批判线性模型诱导的“大学专利化”误区，指出应在学习经济和多层创新生态系统中重新审视科学的作用。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 865]]
+> - **2009** 若昂·卡拉萨（João Caraça）等人提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，批判线性模型诱导的“大学专利化”误区，指出应在[[Learning Economy|学习经济]]和多层[[Innovation Ecosystem|创新生态系统]]中重新审视科学的作用。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 865]]
 
 ---
 
@@ -70,7 +70,7 @@ updated: 2026-06-10
 > [!abstract] 线性模型的假设基石
 > 线性模型在理论和政策实践中主要依赖以下三个相互关联的核心假设：[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
 >
-> 1. **单向因果性**：假定创新遵循“基础科学 → 应用研究 → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
+> 1. **单向[[Causality|因果性]]**：假定创新遵循“基础科学 → 应用研究 → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
 > 2. **科学的支配性**：将基础研究置于层级结构的顶端，预设研发中“研究”天然高于且支配“开发”。
 > 3. **投入的充分性**：假定科学投入与经济产出存在自动转化关系——即只要政府持续增加公共 R&D 经费投入，产业创新与经济持续增长就会自动发生。
 
@@ -95,7 +95,7 @@ updated: 2026-06-10
 
 > [!warning] 理论与政策维度的系统反思
 > - **单向路径局限**：斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）指出创新始于市场需求而非研究，基础研究是在既有知识储备无法解决技术难题时才被按需调用的。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
-> - **政策扭曲效应**：受线性模型误导，政府倾向于反向要求科学“证明”其即时经济价值，强制大学转变为专利生产者、甚至直接参与商业孵化，这严重忽视了大学培养批判性毕业生这一更为根本的日常知识交流功能。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862, 866–867]]
+> - **政策扭曲效应**：受线性模型误导，政府倾向于反向要求科学“证明”其即时经济价值，强制大学转变为专利生产者、甚至直接参与商业孵化，这严重忽视了大学培养批判性毕业生这一更为根本的日常[[Knowledge Exchange|知识交流]]功能。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862, 866–867]]
 > - **指标依赖与惯性**：伯努瓦·戈丁（Benoît Godin）指出，由于国家 R&D 投入与专利数等量化指标相比于复杂的“组织学习”、“界面质量”等更容易被收集和测量，这种指标便利性反过来强化了线性模型在政策制定者心中的顽固影响力。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862, footnote 3]]
 
 ---
@@ -106,6 +106,6 @@ updated: 2026-06-10
 > 欧盟为回应美国竞争，在里斯本议程中设定了私人研发投入占 GDP 的 2%、公共投入占 1% 的量化指标。这直接体现了线性模型关于“增加科学投入即可带来增长”的政策说服力。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
 
 > [!example] 大学商业化与欧洲悖论
-> 欧洲在面临研发投入高而创新产出低的矛盾（即“欧洲悖论”）时，并未反思线性模型前提，反而反向逼迫学术体系直接进入 market。例如在各经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）国家中强力推行要求大学创办科技园、出售专利等政策，试图把大学重塑为直接经济转化中心。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
+> 欧洲在面临研发投入高而创新产出低的矛盾（即“欧洲悖论”）时，并未反思线性模型前提，反而反向逼迫学术体系直接进入 market。例如在各[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国家中强力推行要求大学创办科技园、出售专利等政策，试图把大学重塑为直接经济转化中心。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
 
 

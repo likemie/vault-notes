@@ -82,7 +82,7 @@ updated: 2026-06-01
 
 ### 微观社会学实践理论
 
-包括科学社会学的实验室研究（Latour & Woolgar, 1979; Knorr Cetina, 1999）和对高等教育的 Foucault 式权力知识分析（Ball, 1990; Rose, 1996; Angermuller, 2015）。这些后结构主义取向打破了将经济斗争或制度效应置于优先地位的社会学传统（Bourdieu, Weber, Marx），转而强调历史偶然性和权力-知识配置的变迁特征([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])。
+包括科学社会学的实验室研究（Latour & Woolgar, 1979; Knorr Cetina, 1999）和对高等教育的 Foucault 式权力知识分析（Ball, 1990; Rose, 1996; Angermuller, 2015）。这些[[Post-structuralism|后结构主义]]取向打破了将经济斗争或制度效应置于优先地位的社会学传统（Bourdieu, Weber, Marx），转而强调历史偶然性和权力-知识配置的变迁特征([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])。
 
 ### 评估与赋值社会学
 

@@ -94,9 +94,9 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **知识作为首要资本形式**：财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、人力资本）（Dunning, 2000, p.8, cited in Moisio, 2022, p.23）
+> - **知识作为首要资本形式**：财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、人力资本）（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]]）
 > - **高等教育的资本化**：大学被重新定位为[[Knowledge-Based Economy|知识经济]]中产生价值和比较优势的核心基础设施——教学和研究优先级被市场价值所主导([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])。详见 知识经济 > 核心要素
-> - **知识的商品化**：知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in Parreira do Amaral, 2022, p.39）
+> - **知识的商品化**：知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.39]]）
 > - **教育作为人力资本投资**：教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一话语深刻影响了从亚洲中产阶级的教育消费到国家教育出口战略的各层面决策([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
 >
 

@@ -31,7 +31,7 @@ updated: 2026-06-13
 ## 定义
 
 > [!def] 证伪主义（Falsificationism）
-> 波普尔（Karl Popper, 1968）提出的科学划界标准：科学理论的标志不是它能被证实，而是它能被证伪——理论必须明确什么样的经验证据将构成对它的反驳。一个无法被任何可能观察到的事实所反驳的理论，不属于科学。科学进步通过大胆的推测（conjectures）和严格的驳斥（refutations）——即推测与反驳的循环来实现。知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）（Cohen et al., 2011, Ch. 1）——即"推测与反驳"的循环来实现（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 波普尔（Karl Popper, 1968）提出的科学划界标准：科学理论的标志不是它能被证实，而是它能被证伪——理论必须明确什么样的经验证据将构成对它的反驳。一个无法被任何可能观察到的事实所反驳的理论，不属于科学。科学进步通过大胆的推测（conjectures）和严格的驳斥（refutations）——即推测与反驳的循环来实现。知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）——即"推测与反驳"的循环来实现（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 严格检验
 

@@ -60,7 +60,7 @@ updated: 2026-06-06
 > [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 将这一概念发展为分析教育思想跨国转移的核心工具，指接受者根据自身的集体经验、意识形态议程和个人网络，主动从外来思想中选择性拾取、忽略或扭曲某些元素，再将其重新嵌入本土话语结构的过程（pp.68–69）。
 
 > [!quote]
-> "Recontextualization... selectively appropriates, relocates, refocuses and relates other discourses to constitute its own order."（Bernstein, 2000, p.33, 引自 McPhail et al., 2023）
+> "Recontextualization... selectively appropriates, relocates, refocuses and relates other discourses to constitute its own order."（Bernstein, 2000, p.33, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）
 >
 > 再脉络化选择性地挪用、重新定位、重新聚焦其他话语并将其关联以构成自身秩序。
 

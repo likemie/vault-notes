@@ -43,7 +43,7 @@ updated: 2026-05-27
 > 关键洞见是：这五种模型在现实中并非简单的代际替代，而是共存——不同行业、不同技术、不同创新阶段适用不同模型（Caraça et al., 2009）（p.29）。
 
 > [!quote]
-> "Innovation processes were 'neither smooth nor linear, nor often well behaved'."（Kline & Rosenberg, 1986, p.285，引自 Ulrichsen, 2025, p.28）
+> "Innovation processes were 'neither smooth nor linear, nor often well behaved'."（Kline & Rosenberg, 1986, p.285，引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.28]]）
 
 ---
 

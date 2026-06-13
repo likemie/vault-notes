@@ -90,7 +90,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> - 澳大利亚政府基于《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in Rizvi, 2022, pp.99–100）
+> - 澳大利亚政府基于《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
 > - 澳大利亚《[[International Education|国际教育]]国家战略 2025》以"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"为目标([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])
 > - COVID-19 和中美地缘政治紧张改变了跨国研究合作的条件——知识流动的自由受到新的政治限制([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.100–101]])
 > - [[University-Industry Co-location|产学共同选址]]是促进国际[[University-Industry Collaboration|产学合作]]的有效空间策略：通过将产业人员嵌入大学校园，缩短物理距离以降低沟通和文化壁垒。典型案例包括联合利华在瓦赫宁根大学的 Hive 食品[[Innovation Hub|创新中心]]（500 名员工驻校）和 Mars 在 UC Davis 的 Mars 高级研究院（MARI）([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - 跨国研究合作中多重理性的融合可能掩盖权力不对称——发达国家机构和国家在议程设置、资源分配和成果归属上占据优势地位([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
-> - Collins (2007) 对 [[GATS and Trade in Education Services|GATS]] 的批评可延伸至研究合作领域：合作话语可能"反映了一种新帝国主义，其中更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
+> - Collins (2007) 对 [[GATS and Trade in Education Services|GATS]] 的批评可延伸至研究合作领域：合作话语可能"反映了一种新帝国主义，其中更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）
 
 ## 相关案例／政策
 

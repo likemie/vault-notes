@@ -85,7 +85,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - 学生发展理论（Student Development Theory）— Astin 的涉入理论属于"大学冲击"（college impact）研究范式，关注大学环境如何通过学生的主动参与来影响其发展结果
+> - 学生发展理论（Student Development Theory）— Astin 的涉入理论属于"大学冲击"（college impact）研究[[Paradigm|范式]]，关注大学环境如何通过学生的主动参与来影响其发展结果
 > - 该理论为后续 [[Student Engagement]]（Kuh, 1991）和 [[Academic and Social Integration]]（Tinto, 1993）的实证操作化提供了"能量"维度的理论基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 
 ---

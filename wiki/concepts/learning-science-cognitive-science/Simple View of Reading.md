@@ -36,9 +36,9 @@ updated: 2026-05-18
 > [!info] 定义
 > Simple View of Reading（简单阅读观）是 Gough & Tunmer（1986）提出的阅读理论模型，主张：
 >
-> > "学会解码等于学会阅读"（learning to decode is tantamount to learning to read）（Gough & Tunmer, 1986, p.6，引自 O'Connor, 2020, p.149）
+> > "学会解码等于学会阅读"（learning to decode is tantamount to learning to read）（Gough & Tunmer, 1986, p.6，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]]）
 >
-> 该模型认为阅读能力可以从两个独立成分中预测：解码能力（如读出伪词的能力）和听力理解能力（Gough & Tunmer, 1986, p.7，引自 O'Connor, 2020, p.149）。
+> 该模型认为阅读能力可以从两个独立成分中预测：解码能力（如读出伪词的能力）和听力理解能力（Gough & Tunmer, 1986, p.7，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]]）。
 
 ## 核心主张
 

@@ -240,6 +240,42 @@ def author_label(author: str) -> str:
     return re.sub(r"\s+", " ", author).strip()
 
 
+def wikilink_target_and_display(value: str) -> Optional[Tuple[str, str]]:
+    m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", value.strip())
+    if not m:
+        return None
+    target = m.group(1).strip()
+    display = (m.group(2) or m.group(1)).strip()
+    return target, display
+
+
+def looks_like_forward_western_person_name(value: str) -> bool:
+    value = re.sub(r"\s+", " ", value).strip()
+    if not value or "," in value or has_cjk(value):
+        return False
+    parts = value.split()
+    if len(parts) < 2:
+        return False
+    return all(re.fullmatch(r"[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]*", part) for part in parts)
+
+
+def check_argument_creator_apa_display(path: Path, fm: str, field: str, item: str, issues: List[Issue]) -> None:
+    parsed = wikilink_target_and_display(item)
+    if not parsed:
+        return
+    target, display = parsed
+    if "|" in item or "," in display:
+        return
+    if looks_like_forward_western_person_name(target):
+        issues.append(Issue(
+            "ERROR",
+            rel(path),
+            f"{field} Person wikilink should use APA inverted display name, e.g. [[{target}|{target.split()[-1]}, X.]]: {item!r}",
+            line=frontmatter_line_number(fm, field),
+            code=f"{field.upper()}_APA_DISPLAY",
+        ))
+
+
 def has_cjk(text: str) -> bool:
     return bool(re.search(r"[\u3400-\u9fff]", text))
 
@@ -910,6 +946,8 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 for item in val:
                     if not isinstance(item, str):
                         issues.append(Issue("ERROR", rel(path), f"{field} items must be strings: {item!r}", line=frontmatter_line_number(fm, field), code=f"{field.upper()}_ITEM"))
+                    elif typ == "argument":
+                        check_argument_creator_apa_display(path, fm, field, item, issues)
 
     # Argument entries should include authors field for AI-filled creator metadata.
     if typ == "argument" and "authors" not in data:

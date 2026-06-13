@@ -43,7 +43,7 @@ updated: 2026-06-08
 ## 定义
 
 > [!info]
-> 革命主义（revolutionism）是 Martin Wight [[Wight's Three Traditions of International Theory|国际关系三大传统]]中对应 Kant 的思想传统。与现实主义（以国家为中心）和理性主义（以制度为中心）不同，革命主义将政治的终极现实置于个体与群体之间——而非国家之间。终极现实是一个普遍的人类共同体（universal human community），其表达可能要求人类"将国际社会硬化、定义和构建为一个世界国家，一个超国家"（Wight, 1992, p.41, cited in Klerides, 2023, p.418）。
+> 革命主义（revolutionism）是 Martin Wight [[Wight's Three Traditions of International Theory|国际关系三大传统]]中对应 Kant 的思想传统。与现实主义（以国家为中心）和理性主义（以制度为中心）不同，革命主义将政治的终极现实置于个体与群体之间——而非国家之间。终极现实是一个普遍的人类共同体（universal human community），其表达可能要求人类"将国际社会硬化、定义和构建为一个世界国家，一个超国家"（Wight, 1992, p.41, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.418]]）。
 
 > [!quote]
 > "The deepest element in the Kantian tradition is the moral passion to abolish suffering"（Bull, in Wight, 1992, p.xvii）

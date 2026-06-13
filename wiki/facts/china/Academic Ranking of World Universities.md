@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!warning]
 > - ARWU 的指标体系被批评为过度偏重研究产出和精英奖项（诺贝尔奖、菲尔兹奖），忽视教学质量和高等教育的社会功能([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–136]])
 > - ARWU 是唯一将校友获奖作为指标纳入的全球排名——这使其成为仅有的试图直接反映"教育结果质量"的排名系统，但该指标仅捕获了极端精英层的成就([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])
-> - 全球排名体系之间的差异极大——"没有任何两个系统是相似的，甚至在系统之间找不到一个重合的指标"（Usher & Savino, 2007, p.28, cited in Boyadjieva, 2022, p.135）
+> - 全球排名体系之间的差异极大——"没有任何两个系统是相似的，甚至在系统之间找不到一个重合的指标"（Usher & Savino, 2007, p.28, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]]）
 
 ---
 

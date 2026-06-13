@@ -36,7 +36,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224，引自 Yan & Morris, 2025, p. 480)
+> > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]])
 >
 > Cuban 的核心主张是**课程变革从根本上说是政治行为**——而非教学或[[Epistemology|认识论]]的决策。课程政策的制定涉及权力、控制、联盟、协商和妥协。
 

@@ -42,7 +42,7 @@ updated: 2026-05-26
 > 牺牲理论（Sacrifice Theory）是摩西·哈尔伯塔尔（Moshe Halbertal）在《论牺牲》（On Sacrifice, 2012）中提出的政治哲学理论。其核心主张是：政治共同体的成员必须为该政治秩序做出自我牺牲或殉道（martyrdom）。烈士的牺牲赋予了该共同体道德价值，而幸存者对烈士的债务感（indebtedness）又反过来要求进一步的自我牺牲([[Argument_Bulag_2024_CE|Bulag, 2024, p.109]])。
 
 > [!quote]
-> "既然善的标志是它值得牺牲，那么反过来也必然为真——牺牲使得某物成为善"（Halbertal, 2012, p.69，引自 Bulag, 2024, p.109）
+> "既然善的标志是它值得牺牲，那么反过来也必然为真——牺牲使得某物成为善"（Halbertal, 2012, p.69，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.109]]）
 
 
 ## 核心机制

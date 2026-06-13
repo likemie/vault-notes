@@ -44,17 +44,17 @@ updated: '2026-06-08'
 > [!info] 人的能动性作为社会变革的核心
 > Pawson 对 [[Randomised Controlled Trials|RCT]] 在教育和社会领域的适用性提出了一项根本性批评：药物试验试图消除人的因素（双盲），因为"人的意志被视为污染物"——但社会变革恰恰通过人的能动性实现([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])。
 >
-> > "Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent." (Pawson, 2006, p. 27, cited in Wrigley & McCusker, 2019, p. 114)
+> > "Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent." (Pawson, 2006, p. 27, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])
 
 
 > [!info] [[Meta-analysis|元分析]]的系统性简化
 > Pawson 对元分析的程序进行了严厉批评——论证在元分析综述的每一阶段，解释干预如何起作用的关键特征都被系统性地消除([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])：
 >
-> > "At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made. … In this purgative progress the very features that explain how interventions work are eliminated from the reckoning. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged." (Pawson, 2006, pp. 42–43, cited in Wrigley & McCusker, 2019, p. 122)
+> > "At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made. … In this purgative progress the very features that explain how interventions work are eliminated from the reckoning. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged." (Pawson, 2006, pp. 42–43, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])
 
 
 > [!info] 控制组的模糊性
-> Pawson 指出教育 RCT 中控制组的根本性模糊——"这不是静止的世界。这不是真空……控制组或控制区域实际上非常忙碌"（Pawson, 2006, p. 51, cited in Wrigley & McCusker, 2019, p. 115）。
+> Pawson 指出教育 RCT 中控制组的根本性模糊——"这不是静止的世界。这不是真空……控制组或控制区域实际上非常忙碌"（Pawson, 2006, p. 51, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]]）。
 
 
 > [!info] 开放系统不可封闭
@@ -62,7 +62,7 @@ updated: '2026-06-08'
 
 
 > [!info] 医学研究的理论先行性
-> Pawson 提出关键对比：医学 RCT 建立在大量先期理论工作之上——"医学治疗是多年理论检验的体现。在第一个 III 期 RCT 设计之前，它们就已经是科学探究的化身。到这个阶段，医学科学已经相当清楚治疗如何起作用"（Pawson, 2006, p. 47, cited in Wrigley & McCusker, 2019, p. 117）。这与教育领域 RCT 通常被期望提供干预的全部科学知识基础形成鲜明对比（Hammersley, 2015, p. 4）。
+> Pawson 提出关键对比：医学 RCT 建立在大量先期理论工作之上——"医学治疗是多年理论检验的体现。在第一个 III 期 RCT 设计之前，它们就已经是科学探究的化身。到这个阶段，医学科学已经相当清楚治疗如何起作用"（Pawson, 2006, p. 47, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]]）。这与教育领域 RCT 通常被期望提供干预的全部科学知识基础形成鲜明对比（Hammersley, 2015, p. 4）。
 
 
 > [!info] 替代方案：实在论综合（Realist Synthesis）

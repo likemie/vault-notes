@@ -46,7 +46,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> [[Outcomes-based Education|结果导向教育]]（Outcomes-based Education, OBE）是一种以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容本身。在过去三十年中，新西兰和许多国际管辖区的课程呈现出从明确的知识识别转向结果导向课程、通用能力和 21 世纪学习的趋势([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> [[Outcomes-based Education|结果导向教育]]（Outcomes-based Education, OBE）是一种以学习结果为中心的课程设计[[Paradigm|范式]]，强调可测量的学习成果而非知识内容本身。在过去三十年中，新西兰和许多国际管辖区的课程呈现出从明确的知识识别转向结果导向课程、通用能力和 21 世纪学习的趋势([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 > [!quote]
 > "The irony is that on this model of understanding in comparative education – measuring the results of schooling – comparative education is emptied of all forms of academic understanding and of all complexities except those of the technicalities of measurement: it becomes an adjunct to efficiency movements, a social thermometer indicating one measure of health while in practice reinforcing the politics of one definition of a proper world-order."([[Argument_Cowen_2023_CE|Cowen, 2023, p.334]])
@@ -67,7 +67,7 @@ updated: 2026-06-06
 ## 概念演变
 
 > [!note]
-> **Lauwerys 时期（1965）**。[[Joseph Lauwerys]] 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界范式具有影响力。此时结果导向是学术性的文化理解努力([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> **Lauwerys 时期（1965）**。[[Joseph Lauwerys]] 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界[[Paradigm|范式]]具有影响力。此时结果导向是学术性的文化理解努力([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **IEA 研究时期**。结果变成了通过[[International Education|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >

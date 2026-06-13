@@ -70,9 +70,9 @@ updated: '2026-05-18'
 >
 > > "The analytical focus of the policy borrowing approach is on the legitimation of the need for reform rather than the converging patterns of diffusion of 'world culture'." ([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 >
-> Steiner-Khamsi 进一步揭示这种关系的反直觉性——"本地问题有时是为包装好的全球解决方案定制的，而非相反"（Steiner-Khamsi, 2012, p. 7，引自 Yan & Morris, 2025, p. 482）。这意味着研究政策借用时，分析焦点应从"借用了什么内容"转向"谁在借用、为何借用、借用效果如何"。Steiner-Khamsi (2000) 论证了这一转向的必要性：
+> Steiner-Khamsi 进一步揭示这种关系的反直觉性——"本地问题有时是为包装好的全球解决方案定制的，而非相反"（Steiner-Khamsi, 2012, p. 7，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]）。这意味着研究政策借用时，分析焦点应从"借用了什么内容"转向"谁在借用、为何借用、借用效果如何"。Steiner-Khamsi (2000) 论证了这一转向的必要性：
 >
-> > "If researchers focus on the content of transfer, there is no doubt that they will find a common denominator ... however, if we choose to bring the local context to the fore, direct our attention to agencies of lending and borrowing, and ask why some idea or discourse has been transferred, we gain a completely different understanding of transfer." (Steiner-Khamsi, 2000, p. 158，引自 Rappleye, 2006, p. 224)
+> > "If researchers focus on the content of transfer, there is no doubt that they will find a common denominator ... however, if we choose to bring the local context to the fore, direct our attention to agencies of lending and borrowing, and ask why some idea or discourse has been transferred, we gain a completely different understanding of transfer." (Steiner-Khamsi, 2000, p. 158，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 224]])
 >
 > 在本库中，Rappleye 2006 的集中论证条目见 [[Argument_Rappleye_2006_RCIE]]，其两组核心案例见 [[American Attraction to Japanese Education 1980s]] 与 [[Late Qing Borrowing of Japanese Education]]。
 
@@ -97,7 +97,7 @@ updated: '2026-05-18'
 
 ### 外化与话语机制
 
-1. **[[Externalization|外化]]**：[[Externalization]] 概念，由 Schriewer (2003) 提出——教育系统将内部问题构型投射到国际参照系中的过滤过程（Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230）。[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 发展为双向运作：改革方外化到国际趋势以推动改革，抵制方外化到"传统"以维护现状([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230–232]])。
+1. **[[Externalization|外化]]**：[[Externalization]] 概念，由 Schriewer (2003) 提出——教育系统将内部问题构型投射到国际参照系中的过滤过程（Schriewer & Martinez, 2004, p. 32，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]]）。[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 发展为双向运作：改革方外化到国际趋势以推动改革，抵制方外化到"传统"以维护现状([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230–232]])。
 
 > 例：2000 年香港教统会《教育蓝图》反复引用 [[OECD]]、UNESCO 和"[[International Education|国际教育]]趋势"论证通识教育改革的必要性，将国内有争议的改革包装为"全球教育改革浪潮的一部分"——这实质上是 Schriewer 所描述的将国内有争议的需求投射到国际参照系中，使批评者难以反对（反对改革即反对"全球进步趋势"）。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 486]])
 

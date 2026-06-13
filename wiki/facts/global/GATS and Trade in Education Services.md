@@ -47,7 +47,7 @@ updated: '2026-05-18'
 > GATS 将高等教育视为一种商品（commodity），使其像其他商品和服务一样受到商业竞争的约束。虽然 GATS 不包含强有力的合规机制，但其意识形态影响不可忽视——它帮助植入并合法化了高等教育的新自由主义转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])。
 
 > [!quote]
-> "language and text can create, shift, or maintain ideologies. In the case of GATS, the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
+> "language and text can create, shift, or maintain ideologies. In the case of GATS, the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"（Collins, 2007, p.283, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）
 
 ## 时间线
 
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning]
-> - Collins (2007) 批判 GATS 反映了"新帝国主义"——"更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
+> - Collins (2007) 批判 GATS 反映了"新帝国主义"——"更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）
 > - Rizvi 指出 GATS 的核心效应不在于强制合规，而在于其意识形态影响——它使新自由主义的高等教育议程获得了"常识"地位([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
 > - Robertson, Bonal & Dale (2002) 分析了 GATS 在教育服务产业中的规模政治和全球再领土化效应
 

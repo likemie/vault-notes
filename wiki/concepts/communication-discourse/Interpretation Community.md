@@ -50,10 +50,10 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.3-4)]]以丹麦教育研究界对 Hattie [[Visible Learning]] 的误读为案例：一个由研究者、政治家和工会代表组成的强解释社群在短时间内形成，将 Hattie 从"教育英雄"转变为"教育敌人"
-> - 在丹麦，2014 年学校改革后反对者形成了对 Hattie 的共同误解：将其等同于"反理论"的原始实证主义立场，而实际上 Hattie 明确表示提供的是"假设"而非"食谱"([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
+> - 在丹麦，2014 年学校改革后反对者形成了对 Hattie 的共同误解：将其等同于"反理论"的原始[[Positivism|实证主义]]立场，而实际上 Hattie 明确表示提供的是"假设"而非"食谱"([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Qvortrup 的解释社群分析本身来自 VL 辩护者的立场——批评者可能反驳说，对 Hattie 的批评是基于方法论实质问题而非意识形态驱动的误解
+> - Qvortrup 的解释社群分析本身来自 [[Visible Learning|VL]] 辩护者的立场——批评者可能反驳说，对 Hattie 的批评是基于方法论实质问题而非意识形态驱动的误解
 

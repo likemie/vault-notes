@@ -72,7 +72,7 @@ issuing_organization: ""
 > 文件名和 `title` 使用稳定技术命名，通常保持一致。APA 短引用不写入 `title` 或 `aliases`。
 
 > [!info]- Citation 字段规则
-> - `authors` 使用 YAML 列表；已有 Person 条目时使用 wikilink，如 `"[[Ball, S. J.]]"`。
+> - `authors` 使用 YAML 列表；已有 Person 条目时使用 wikilink，但英文个人作者必须保留 APA 倒置显示名，如 `"[[Ball, S. J.]]"` 或 `"[[Louis Cohen|Cohen, L.]]"`，不要写成 `"[[Louis Cohen]]"`。
 > - `year` 写出版年份。
 > - `doi` 可留空；著作、教材或论文集章节若能确认 ISBN，可写入 `isbn`。
 > - `citation_aliases` 只保留基本作者年份形式：`Author, Year` 与 `Author (Year)`。

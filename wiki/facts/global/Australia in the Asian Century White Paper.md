@@ -44,10 +44,10 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract]
-> 白皮书的核心主张是：亚洲的崛起不是威胁而是澳大利亚的机遇——"距离的暴政正在被邻近的前景所取代"（the tyranny of distance is being replaced by the prospects of proximity）（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）。
+> 白皮书的核心主张是：亚洲的崛起不是威胁而是澳大利亚的机遇——"距离的暴政正在被邻近的前景所取代"（the tyranny of distance is being replaced by the prospects of proximity）（Henry, 2012, p.1, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）。
 
 > [!quote]
-> "The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity."（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）
+> "The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity."（Henry, 2012, p.1, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
 
 ## 时间线
 
@@ -60,7 +60,7 @@ updated: '2026-05-18'
 > [!example]
 > 白皮书推动了澳大利亚在高等教育和研究领域与亚洲的系统性对接([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])：
 > - **AISRF**（澳印战略研究基金）— 旨在维持和加强与印度的研究关系
-> - **ACSRF**（澳中科学与研究基金）— 旨在与"高绩效国家"合作，"增强我们的表现"，与具有"互补研究优先事项和挑战"的亚洲国家合作（Barlow, 2014, p.13, cited in Rizvi, 2022, pp.99–100）
+> - **ACSRF**（澳中科学与研究基金）— 旨在与"高绩效国家"合作，"增强我们的表现"，与具有"互补研究优先事项和挑战"的亚洲国家合作（Barlow, 2014, p.13, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
 > - 更广泛的《[[International Education|国际教育]]国家战略 2025》延续了白皮书的方向，旨在"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越来使澳大利亚教育机构参与全球竞争"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])
 
 ## 效果与评价

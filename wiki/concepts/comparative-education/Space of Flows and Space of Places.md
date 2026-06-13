@@ -49,10 +49,10 @@ updated: 2026-06-08
 >
 > **地方空间**（Space of Places）指附着于特定领土的社会互动场所。在传统社会中，时间共享的社会实践只能在同一地点的人之间发生，因此空间附着于地方（Giddens, 1990, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p.349]]）。大多数人的生活、工作、学习和意义建构仍然围绕地方空间展开。
 >
-> **流动空间**（Space of Flows）指"允许社会实践在无需领土毗连的条件下同时发生的物质安排"（Castells, 2000b, p.19, 引自 Beech, 2009, p.349）。信息技术的持续发展为流动空间提供了基础设施支持——这一过程与现代性相联，并被技术发展不断强化。
+> **流动空间**（Space of Flows）指"允许社会实践在无需领土毗连的条件下同时发生的物质安排"（Castells, 2000b, p.19, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p.349]]）。信息技术的持续发展为流动空间提供了基础设施支持——这一过程与现代性相联，并被技术发展不断强化。
 
 > [!quote]
-> "the material arrangements that allow for simultaneity of social practices without territorial contiguity"（Castells, 2000b, p.19, 引自 Beech, 2009, p.349）
+> "the material arrangements that allow for simultaneity of social practices without territorial contiguity"（Castells, 2000b, p.19, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p.349]]）
 
 ---
 
@@ -63,7 +63,7 @@ updated: 2026-06-08
 > - **流动空间的基础设施**。信息技术是构成流动空间的主要物质支撑，但网络的节点是真实的机构和个人。流动空间也有其领土中心——如全球金融网络中的华尔街和伦敦、国际机构网络中的巴黎和华盛顿（Castells, 2000a, 引自 p.349）。
 > - **流动空间在比较教育中的重要性**。在正规教育领域，大部分议程设定发生在流动空间中，其目标是影响以地方为基础的教育政策和学校实践。理解这两种空间逻辑的关系由此成为比较教育的核心智识挑战之一（p.349）。
 > - **流动空间不是精英独享的**。随着技术基础设施的普及，流动空间的逻辑正在转变，成为一个竞争性的、多元化的、有争议的空间。全球教师工会网络 [[Education International]]（覆盖172个国家和地区的401个成员组织）的参与便是例证（Castells, 2000b, 引自 p.352；Beech, 2009, p.352）。
-> - **流动空间中的文化特征**。在流动空间中，符号共存而不参照经验。"文化成为真实虚拟的文化——以电子超文本中的互动网络形式存在，混合一切，并掏空任何具体信息在这一语境之外的意义"（Castells, 2000c, p.22, 引自 Beech, 2009, p.353）。任何被赋予的意义立即变得过时，被无数的不同视角和替代[[Coding in Qualitative Research|编码]]所再加工。
+> - **流动空间中的文化特征**。在流动空间中，符号共存而不参照经验。"文化成为真实虚拟的文化——以电子超文本中的互动网络形式存在，混合一切，并掏空任何具体信息在这一语境之外的意义"（Castells, 2000c, p.22, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p.353]]）。任何被赋予的意义立即变得过时，被无数的不同视角和替代[[Coding in Qualitative Research|编码]]所再加工。
 
 ---
 

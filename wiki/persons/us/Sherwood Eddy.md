@@ -56,7 +56,7 @@ updated: '2026-06-08'
 > 在教育章节中，Eddy 将 Dewey 1928 年访苏观察作为关键经验证据，用 Dewey 的结论——苏联人民营养良好、普及教育规模巨大——来表明苏联并非美国公众想象中的落后和混乱，而是一个值得认真对待和接触的国家([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
 
 > [!quote]
-> "an experiment by all means the most interesting one going on upon our globe"（Eddy, 1931, p.119, cited in Ryabyy, 2024, p.107）
+> "an experiment by all means the most interesting one going on upon our globe"（Eddy, 1931, p.119, cited in [[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.107]]）
 > 
 > 在我们的地球上正在进行的各种实验中，毫无疑问是最有趣的一个。
 

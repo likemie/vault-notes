@@ -47,7 +47,7 @@ updated: 2026-05-25
 > 汉化（Sinicisation）指以汉文化传统为核心重新界定"中国性"（Chinese-ness），并通过制度性手段将非汉民族群体纳入这一文化框架的过程。在中国语境中，这一过程体现为将汉族的语言、历史叙事和文化规范确立为国家的标准，同时将少数民族的语言、宗教和文化实践边缘化或压制([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.62–64]])。
 
 > [!quote]
-> 这一汉化过程"[[Construct|constructs]] an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 Yu & Zhao, 2024, p.64）。
+> 这一汉化过程"[[Construct|constructs]] an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 [[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.64]]）。
 
 ## 核心要素
 
@@ -78,7 +78,7 @@ updated: 2026-05-25
 > 西方后殖民批评将中国少数民族框定为"族裔"（ethnicity／zuqun）而非"民族"（nationality／minzu）的做法，与中共推动汉化的努力形成了一种非意图的合谋([[Argument_Bulag_2024_CE|Bulag, 2024, p.101–103]])：
 > - 遵循社会建构论的逻辑，西方学者关注于中共在 1950 年代"发明"或"建构"少数民族分类的过程（Gladney, 1991; Schein, 2000; Mullaney, 2010）。
 > - 这一逻辑被中国政策学者挪用，要求对民族政策"去政治化"（马戎，Ma Rong, 2004）甚至废除——理由是苏联和南斯拉夫正是因为共产党"发明"的民族政策而分裂的([[Argument_Bulag_2024_CE|Bulag, 2024, p.102–103]])。
-> - [[Argument_Bulag_2024_CE|Bulag (2024)]]将少数民族的处境概括为"弗兰肯斯坦的怪物"（Frankenstein's monsters）：它们被视为共产党国家创造的产物，如今已成为威胁其创造者的存在——"不仅忘恩负义，而且是'邪恶或其无数替代物之一'，对[[Zhonghua Minzu|中华民族]]自我的存在构成威胁"（Connolly, 1991, p.64，引自 Bulag, 2024, p.103）。
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]]将少数民族的处境概括为"弗兰肯斯坦的怪物"（Frankenstein's monsters）：它们被视为共产党国家创造的产物，如今已成为威胁其创造者的存在——"不仅忘恩负义，而且是'邪恶或其无数替代物之一'，对[[Zhonghua Minzu|中华民族]]自我的存在构成威胁"（Connolly, 1991, p.64，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.103]]）。
 
 ## 实证发现
 

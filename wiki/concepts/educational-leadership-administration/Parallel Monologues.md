@@ -48,7 +48,7 @@ updated: 2026-05-18
 > - **缺乏真正的学术交锋**：即使在期刊和会议中进行"辩论"，学者们也往往只致力于将自己的意见强加于他人，而非理解对方的知识主张([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
 > - **学术社区的自我封闭**：学者们找到志同道合的同行社区及其对应的期刊、会议，在各自的子领域内建立事业，"常常愉快地不知晓其内外正在发生的学术对话和辩论"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774-775]])
 > - **良性忽视而非[[Academic Engagement|学术参与]]**：Eacott 援引 Donmoyer（2001）、Thrupp & Willmott（2003）和 Blackmore（2010）的观点，指出在教育行政与领导力中，对待不同意见者的方式更多是"良性忽视和冷漠"而非智识参与([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
-> - **多学科／跨学科的呼吁停留于表面**：尽管学界呼吁多学科和跨学科方法，但范式战争的痕迹使得即使是最资深的教授也难以与不同立场的研究者进行有意义的交流([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
+> - **多学科／跨学科的呼吁停留于表面**：尽管学界呼吁多学科和跨学科方法，但[[Paradigm|范式]]战争的痕迹使得即使是最资深的教授也难以与不同立场的研究者进行有意义的交流([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
 
 ## 历史沿革
 
@@ -81,5 +81,5 @@ updated: 2026-05-18
 
 > [!warning] 争议与批评
 > - Bush（2017）发表了针对 Eacott Parallel Monologues 论断的反驳（rebuttal），但 Eacott 认为这并非对核心论点的驳斥（refutation）([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
-> - [[Argument_Hattie_2017_SLM|Hattie (2017, p.428)]]主张学术界应遵循 thesis-antithesis-synthesis 且"每个范式或猜想的集合都应被测试到毁灭"——Eacott 在原则上同意但对 Hattie 的实际执行提出批评([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.779]])
+> - [[Argument_Hattie_2017_SLM|Hattie (2017, p.428)]]主张学术界应遵循 thesis-antithesis-synthesis 且"每个[[Paradigm|范式]]或猜想的集合都应被测试到毁灭"——Eacott 在原则上同意但对 Hattie 的实际执行提出批评([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.779]])
 

@@ -12,8 +12,6 @@ doi: 10.1016/j.techfore.2008.08.003
 citation_aliases:
   - "João Caraça et al., 2009"
   - "João Caraça et al. (2009)"
-  - "Caraça et al., 2009"
-  - "Caraça et al. (2009)"
 tags:
   - theme/innovation-studies
   - theme/science-policy

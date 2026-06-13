@@ -56,11 +56,11 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Phillips 的核心学术贡献在于将教育政策转移从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
 >
-> > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... creates for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 Rappleye, 2006, p. 226)
+> > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... creates for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 226]])
 >
 > Phillips 对方法论模型持审慎态度，承认其局限：
 >
-> > "Models seek to provide a concrete representation of processes described in the [[Abstract]]... They can, however, appear immutable, they can mislead (through the injudicious use of arrows, for example), and they can impede the investigation of complex issues by trapping the analysis within what appears to be a limited framework of possibilities." (Phillips & Ochs, 2004a, p. 781，引自 Rappleye, 2006, p. 228)
+> > "Models seek to provide a concrete representation of processes described in the [[Abstract]]... They can, however, appear immutable, they can mislead (through the injudicious use of arrows, for example), and they can impede the investigation of complex issues by trapping the analysis within what appears to be a limited framework of possibilities." (Phillips & Ochs, 2004a, p. 781，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 228]])
 
 ## 主要贡献
 

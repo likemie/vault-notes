@@ -41,7 +41,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 外化（Externalization）是 [[Jurgen Schriewer]] 在比较教育研究中提出的核心分析概念，描述教育系统如何将内部的问题构型和反思情境投射到国际环境中，从而通过参照"外部"来为内部的改革或抵制提供论证。外化不是对国际环境的客观描述，而是一个**过滤过程**——内部系统根据自身的需求选择性地接收和描述国际环境。
 >
-> > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230)
+> > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]])
 >
 > [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 将外化概念发展为双向运作：不仅改革方"外化"到国际趋势以推动改革，抵制方同样"外化"到"传统"以维护现状。（p. 232）
 >
@@ -68,7 +68,7 @@ updated: '2026-05-18'
 > **抵制侧 — 外化到传统：**
 > 抵制行动者同样从"传统""历史""文化"中选择性地援引元素，将维持现状包装为"保护独特遗产"的必然选择。Schriewer & Martinez 指出：
 >
-> > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 232)
+> > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
 >
 > > 例：二战后盟军占领当局试图改革德国教育时，德国抵制者质疑美国是否有任何东西可以"教"德国——鉴于德国教育传统的辉煌历史（Phillips, 1995）。这是将外化到"历史荣耀"来抵制外部驱动的改革。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
 

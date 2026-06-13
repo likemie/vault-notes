@@ -72,10 +72,10 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 ## 核心思想
 
 > [!tip]
-Knight 提出[[International Education Hubs|国际教育枢纽]]（IEH）超越了传统的跨境高等教育概念，代表了一种"更广泛且更具战略性的行动者和活动配置"（Knight, 2014a, p.84, cited in Parreira do Amaral, 2022, p.43）。她将 IEHs 定义为国家层面的战略项目——将自身建设和定位为"有吸引力和公认的教育、培训、[[Knowledge Production|知识生产]]和创新活动中心"。
+Knight 提出[[International Education Hubs|国际教育枢纽]]（IEH）超越了传统的跨境高等教育概念，代表了一种"更广泛且更具战略性的行动者和活动配置"（Knight, 2014a, p.84, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]]）。她将 IEHs 定义为国家层面的战略项目——将自身建设和定位为"有吸引力和公认的教育、培训、[[Knowledge Production|知识生产]]和创新活动中心"。
 
 > [!quote]
-> "A country-level hub where a country is building and positioning itself as an attractive and acknowledged center of education, training, knowledge production, and innovation activities."（Knight, 2014b, p.5, cited in Parreira do Amaral, 2022, p.43）
+> "A country-level hub where a country is building and positioning itself as an attractive and acknowledged center of education, training, knowledge production, and innovation activities."（Knight, 2014b, p.5, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]]）
 
 三类型学的核心区分在于枢纽的主要驱动力：**学生枢纽**以吸引国际学生和扩大教育出口为核心；**人才枢纽**以培养和留住高技能劳动力为重心；**知识/[[Innovation Hub|创新枢纽]]**以知识生产、研发和创新活动为引擎。这一分类框架使原本模糊的"[[International Education|国际教育]]枢纽"政策话语具有了可比较、可分析的研究维度。
 

@@ -21,7 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -40,10 +41,10 @@ updated: 2026-06-13
 沿主观–客观维度，认识论呈现两种对立的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!line-a] [[Positivism|实证主义]]认识论
-> 知识是硬性的（hard）、客观的、可触知的（tangible）。要求研究者扮演观察者角色，效忠于自然科学的方法。将知识视为某种能够被传递的、具有可触知形式的东西。
+> 知识是硬性的、客观的、可触知的（hard, objective and tangible）。要求研究者扮演观察者角色（an observer role），效忠于自然科学的方法（allegiance to the methods of natural science）。将知识视为某种能够被传递的、具有可触知形式的东西。
 
 > [!line-b] [[Interpretive Paradigm|反实证主义]]认识论
-> 知识是个人的（personal）、主观的（subjective）、独特的（unique）。要求研究者投入研究对象之中，拒绝自然科学家的方式。将知识视为某种个人经验、洞察和理解的东西。
+> 知识是个人的、主观的、独特的（personal, subjective and unique）。要求研究者投入研究对象之中（an involvement with their subjects），拒绝自然科学家的方式（a rejection of the ways of the natural scientist）。将知识视为某种个人经验、洞察和理解的东西。
 
 ## 在研究层级中的位置
 

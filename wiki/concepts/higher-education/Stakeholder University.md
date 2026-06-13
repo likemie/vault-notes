@@ -45,7 +45,7 @@ updated: 2026-05-20
 > 利益相关者大学（stakeholder university）是 Wæraas 和 Solbakk（2009, p.450）提出的概念，指现代大学从传统的学术共同体（academic community）转变为一种多利益相关者的网络节点形态。在这一形态中，学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性（connectivity）将大学转化为"地缘政治的机会节点"（node of geopolitical opportunities），可能从根本上改变大学作为学术共同体的本质([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
 > [!quote]
-> "modern universities are becoming 'stakeholder universities' where connectivity between students, faculty, government agencies, commercial service providers, and automated computer agents is turning the university into 'a node of geopolitical opportunities'"（Wæraas & Solbakk, 2009, p.450, cited in Thompson et al., 2022, p.221）
+> "modern universities are becoming 'stakeholder universities' where connectivity between students, faculty, government agencies, commercial service providers, and automated computer agents is turning the university into 'a node of geopolitical opportunities'"（Wæraas & Solbakk, 2009, p.450, cited in [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]]）
 
 ## 核心要素
 

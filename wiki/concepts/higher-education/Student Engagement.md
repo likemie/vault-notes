@@ -91,7 +91,7 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Student Involvement]]（Astin, 1984）— 提供投入的"能量"维度基础
 > - [[Academic and Social Integration]]（Tinto, 1993）— 提供投入的"心理机制"维度基础
-> - 学生发展理论（College Impact 范式）— 将投入作为连接大学环境与教育产出的关键中介[[Variable|变量]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - 学生发展理论（College Impact [[Paradigm|范式]]）— 将投入作为连接大学环境与教育产出的关键中介[[Variable|变量]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 
 ---
 

@@ -55,10 +55,10 @@ updated: '2026-05-19'
 ## 定义
 
 > [!info]
-> [[International Education|国际教育]]枢纽（[[Internationalization of Higher Education|international education]] Hubs, IEHs）指一个国家或地区将自身建设并定位为教育、培训、[[Knowledge Production|知识生产]]和创新活动中心的地缘政治项目。IEHs 被视为跨境高等教育的最新发展，代表了"一种更广泛且更具战略性的行动者和活动配置，它建立在并包含了许多近期跨境高等教育的发展"（Knight, 2014a, p.84, cited in Parreira do Amaral, 2022, p.43）。
+> [[International Education|国际教育]]枢纽（[[Internationalization of Higher Education|international education]] Hubs, IEHs）指一个国家或地区将自身建设并定位为教育、培训、[[Knowledge Production|知识生产]]和创新活动中心的地缘政治项目。IEHs 被视为跨境高等教育的最新发展，代表了"一种更广泛且更具战略性的行动者和活动配置，它建立在并包含了许多近期跨境高等教育的发展"（Knight, 2014a, p.84, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]]）。
 
 > [!quote]
-> "A country-level hub where a country is building and positioning itself as an attractive and acknowledged center of education, training, knowledge production, and innovation activities." (Knight, 2014b, p.5, cited in Parreira do Amaral, 2022, p.43)
+> "A country-level hub where a country is building and positioning itself as an attractive and acknowledged center of education, training, knowledge production, and innovation activities." (Knight, 2014b, p.5, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]])
 
 ---
 
@@ -90,7 +90,7 @@ Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采�
 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲崛起的视角为 IEHs 提供了关键的再概念化。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–100]])。
 
 > [!note] 从被动接受到主动塑造
-> 在旧的发展主义范式下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])。
+> 在旧的发展主义[[Paradigm|范式]]下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])。
 
 Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移**：其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。
 
@@ -113,7 +113,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移**：其正当�
 
 ### 三类枢纽模型
 
-Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cited in Parreira do Amaral, 2022, p.44）：
+Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]]）：
 
 - **学生枢纽（Student Hub）**：旨在扩大高等教育入学机会、现代化和国际化本国高校、提升国家高等教育系统形象、并通过外国学生流入创造收入。主要功能聚焦于教育服务出口
 - **人才枢纽（Talent Hub）**：旨在扩大技能劳动力储备、为服务型和/或[[Knowledge-Based Economy|知识型经济]]做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向人力资本积累

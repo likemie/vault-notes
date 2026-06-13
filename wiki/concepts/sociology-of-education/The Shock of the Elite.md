@@ -68,7 +68,7 @@ updated: 2026-05-18
 >
 > - **习性滞后（Habitus Hysteresis）**：布迪厄用以解释"机遇被错过"的概念——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（Bourdieu, 1990，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。精英休克就是习性滞后在主观体验层面的表征
 > - **习性错置（Habitus Dislocation）**：习性进入不配合的[[Champ|场域]]时产生的如同"鱼离了水"的感觉（Bourdieu & Wacquant, 1992，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **习性分裂（Habitus Divided Against Itself）**：最严重的情形——个体需要不断调和自身与新场域的矛盾，同时维持与旧有场域的联系，"产生一种习性分裂的体验"（Bourdieu, 1999, p.511，引自郑雅君，2023）
+> - **习性分裂（Habitus Divided Against Itself）**：最严重的情形——个体需要不断调和自身与新场域的矛盾，同时维持与旧有场域的联系，"产生一种习性分裂的体验"（Bourdieu, 1999, p.511，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 >
 
 ## 在郑雅君（2023）中的应用

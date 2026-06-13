@@ -107,7 +107,7 @@ updated: '2026-06-08'
 
 **2. [[Geopolitics of Knowledge|知识地缘政治]]与殖民差异（Colonial Difference）**
 
-西方[[Epistemology|认识论]]并非天然普遍，而是通过殖民扩张被强制普遍化的。知识地缘政治通过"殖民差异"——殖民者与被殖民者之间被建构的绝对等级差异——组织起来，系统性地将非西方知识贬低为"传统"、"民间"或"非科学"（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）。
+西方[[Epistemology|认识论]]并非天然普遍，而是通过殖民扩张被强制普遍化的。知识地缘政治通过"殖民差异"——殖民者与被殖民者之间被建构的绝对等级差异——组织起来，系统性地将非西方知识贬低为"传统"、"民间"或"非科学"（Mignolo, 2002, p.59, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）。
 
 **3. 边界思维与认识论不服从（Epistemic Disobedience）**
 

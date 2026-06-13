@@ -82,7 +82,7 @@ updated: '2026-05-18'
 ## 关键文件
 
 > [!quote] 关键文件
-> > "Pupils who attend are given an opportunity that makes them the envy of their friends." (Sharp et al., 2003, pp. 113–120, cited in Wrigley & McCusker, 2019, p. 121)
+> > "Pupils who attend are given an opportunity that makes them the envy of their friends." (Sharp et al., 2003, pp. 113–120, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 121]])
 
 ## 影响与后果
 

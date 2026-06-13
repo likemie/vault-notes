@@ -181,7 +181,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文自身承认论证聚焦于标准化均值差（Cohen's d 及其变体）——使用原始（非标准化）[[Effect Size|效应量]]可以解决部分但非全部问题(p.4)
-> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、Hattie VL），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
+> - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation|EEF]] Toolkit、Hattie [[Visible Learning|VL]]），对非英语国家[[Meta-analysis|元分析]]实践的适用性需进一步验证
 > - 论文是技术论证而非实证研究——未提供定量估计每个偏差来源对排名影响幅度的元分析
 
 ## 来源

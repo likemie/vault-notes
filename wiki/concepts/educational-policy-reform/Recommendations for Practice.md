@@ -46,7 +46,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 沿用 Reinhart et al. (2013) 的[[Coding in Qualitative Research|编码]]标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 >
-> > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in Brady et al., 2023, p.4）
+> > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in [[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]]）
 
 ## 历史沿革
 

@@ -39,7 +39,7 @@ updated: 2026-05-31
 Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scientists have sharply defined terms with which to think clearly about their research and to communicate their findings and ideas accurately"（p.22）。Firestone (1987) 则从语言哲学的角度解释了为何需要定义：
 
 > [!quote]
-> "The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision. This is the reason common terms are given 'technical meanings' for scientific purposes."（Firestone, 1987, p.17，引自 Creswell & Creswell, 2022）
+> "The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision. This is the reason common terms are given 'technical meanings' for scientific purposes."（Firestone, 1987, p.17，引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
 
 ---
 

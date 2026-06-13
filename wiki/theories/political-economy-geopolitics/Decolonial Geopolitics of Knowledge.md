@@ -49,7 +49,7 @@ updated: '2026-05-18'
 >
 > 去殖民知识地缘政治（Decolonial Geopolitics of Knowledge）是 1990 年代至 2000 年代初在拉丁美洲去殖民思想传统中发展起来的批判理论，核心主张是：西方资本主义的全球扩张不仅意味着经济关系和政治控制的扩张，更密切地、互补地与一种特定的西方认识论（Western epistemology）及认知和存在方式相连——这种认识论通过殖民差异（colonial difference）维持并稳定了全球权力的空间表达（即殖民性, coloniality），同时系统地压制和消声了替代性的认识论、认知方式和存在方式([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]])。
 >
-> > "The geopolitics of knowledge was organized around the diversification, through history, of the colonial and the imperial differences."（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）
+> > "The geopolitics of knowledge was organized around the diversification, through history, of the colonial and the imperial differences."（Mignolo, 2002, p.59, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）
 >
 > 该理论的根本立场是：现代性与殖民性（coloniality）不是先后关系而是同一历史过程的构成性两面——西方通过"发现"和"征服"美洲建立了现代世界体系，同时将非欧洲的知识和认知方式系统性地排除在"合理的"知识范畴之外。因此，社会科学需要的不是"开放"（邀请非西方学者加入既定框架），而是"去殖民化"（decolonization）——从根本上动摇西方认识论的基础，为替代性的认识论和存在方式开辟空间([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.38–39]])。
 
@@ -59,9 +59,9 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **殖民性不同于殖民主义**：殖民主义（colonialism）是历史上的政治军事统治形式，殖民性（coloniality）则是持续运作的权力逻辑——即使殖民行政体系已结束，殖民性通过[[Knowledge Production|知识生产]]、分类系统和制度安排继续塑造全球不平等秩序。例：今天的高等教育排名系统以英美研究型大学为基准模板，即使前殖民地国家已独立，其大学仍被按照西方标准评价和排序，这正是殖民性的持续运作
-> - **殖民差异（Colonial Difference）**：殖民者与被殖民者之间的绝对差异——不仅是政治经济的，更是[[Epistemology|认识论]]的。殖民差异将非欧洲的知识体系标注为"传统的""本土的""非科学的"，从而将其排除在全球知识生产的合法范畴之外（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）。例：中医学在西方医学教育体系中长期不被承认为"科学知识"，尽管其具有数千年的临床实践传统——这是殖民差异在知识分类中的表现
+> - **殖民差异（Colonial Difference）**：殖民者与被殖民者之间的绝对差异——不仅是政治经济的，更是[[Epistemology|认识论]]的。殖民差异将非欧洲的知识体系标注为"传统的""本土的""非科学的"，从而将其排除在全球知识生产的合法范畴之外（Mignolo, 2002, p.59, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）。例：中医学在西方医学教育体系中长期不被承认为"科学知识"，尽管其具有数千年的临床实践传统——这是殖民差异在知识分类中的表现
 > - **认识论不服从（Epistemic Disobedience）**：Mignolo 提出的去殖民实践策略——主动"去链接"（delink）西方认识论框架，拒绝在其话语体系内部寻求承认和合法性，转而从被边缘化的知识传统中建构替代性认知方式（Mignolo, 2009, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）
-> - **对"开放社会科学"的批判**：Gulbenkian Commission (1996) 倡导将社会科学向世界"开放"，吸纳更多非西方声音和议题；Mignolo 等去殖民学者批评这一方案不足以动摇西方认识论的霸权地位——因为它只是在现有框架内增加多样性，而非挑战框架本身的认识论前提。"开放"的做法只会将社会科学维持为一项全球学术事业（planetary academic enterprise），而不改变其知识生产的深层逻辑（Mignolo, 2002, p.64, cited in Parreira do Amaral, 2022, p.38）
+> - **对"开放社会科学"的批判**：Gulbenkian Commission (1996) 倡导将社会科学向世界"开放"，吸纳更多非西方声音和议题；Mignolo 等去殖民学者批评这一方案不足以动摇西方认识论的霸权地位——因为它只是在现有框架内增加多样性，而非挑战框架本身的认识论前提。"开放"的做法只会将社会科学维持为一项全球学术事业（planetary academic enterprise），而不改变其知识生产的深层逻辑（Mignolo, 2002, p.64, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）
 > - **多元世界（Pluriverse）而非单一世界（Universe）**：近年该脉络的发展方向——以 [[Arturo Escobar]] (2018) 的 *Designs for the Pluriverse* 和 Reiter (2019) 的 *Constructing the Pluriverse* 为代表，主张不再追求单一的全球知识秩序，而是为多种[[Ontology|本体论]]、认识论和方法论的共存开辟空间([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.38–39]])
 
 ---

@@ -90,7 +90,7 @@ updated: '2026-06-02'
 > 
 > 有史以来开展过的最重要的教育调查之一。
 >
-> "One implication stands out above all: That schools bring little influence to bear on a child's achievement that is independent of his background and general social context; and that this very lack of independent effect means that the inequalities imposed on children by their home, neighborhood, and peer environment are carried along to become the inequalities with which they confront adult life at the end of school." (Coleman et al., 1966, p. 325, cited in Downey & Condron, 2016, p. 2)
+> "One implication stands out above all: That schools bring little influence to bear on a child's achievement that is independent of his background and general social context; and that this very lack of independent effect means that the inequalities imposed on children by their home, neighborhood, and peer environment are carried along to become the inequalities with which they confront adult life at the end of school." (Coleman et al., 1966, p. 325, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p. 2]])
 > 
 > 有一个启示比其他所有都更为突出：学校对儿童成就的影响几乎没有独立于其背景和一般社会情境的部分；正是这种独立效应的缺失，意味着由家庭、邻里和同伴环境施加于儿童的不平等被一路携带，成为他们在学校教育结束时面对成人世界的不平等。
 
@@ -101,7 +101,7 @@ updated: '2026-06-02'
 >
 > #### Jencks (1972) 的独立验证
 >
-> 哈佛社会学家 Christopher Jencks 使用不同于 Coleman 的数据集探索同一问题，得出了与 Coleman Report 广泛一致的结论：教育不平等在显著程度上不能解释认知不平等（Educational inequality does not explain cognitive inequality to any significant extent）（Jencks, 1972, p.53, cited in Downey & Condron, 2016, p.2）。
+> 哈佛社会学家 Christopher Jencks 使用不同于 Coleman 的数据集探索同一问题，得出了与 Coleman Report 广泛一致的结论：教育不平等在显著程度上不能解释认知不平等（Educational inequality does not explain cognitive inequality to any significant extent）（Jencks, 1972, p.53, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]]）。
 >
 > Jencks 的著作 *Inequality: A Reassessment of the Effect of Family and Schooling in America* (1972) 成为该领域的第二座里程碑，与 Coleman Report 共同奠定了"非学校因素主导"的研究路线。
 >

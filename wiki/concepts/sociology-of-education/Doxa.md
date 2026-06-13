@@ -54,10 +54,10 @@ updated: 2026-05-24
 > Doxa 是 wiki-[[Pierre Bourdieu]] 社会理论的核心概念，指[[Champ|场域]]中被行动者视为**理所当然、不言自明**的正统信念或"常识"。当行动者对世界的感知与世界的客观结构完美匹配时，社会秩序的任意性被**自然化**为"事情本身就是如此"——doxa 由此产生并维持（Bourdieu，引自 Wikipedia）。
 
 > [!quote]
-> "某些知识和资本被特权化，提供了 Bourdieu 称之为 doxa 的常识或正统"（Blackmore, 2010, p.102，引自 Eacott, 2011, p.50）
+> "某些知识和资本被特权化，提供了 Bourdieu 称之为 doxa 的常识或正统"（Blackmore, 2010, p.102，引自 [[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]]）
 
 > [!quote]
-> "问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 doxa 的认可"（Bourdieu & Wacquant, 1992, p.248，引自 Eacott, 2015, p.320）
+> "问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 doxa 的认可"（Bourdieu & Wacquant, 1992, p.248，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.320]]）
 
 Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质疑它**。它不是被辩护的立场，而是被预设的前提。
 
@@ -125,7 +125,7 @@ NPM 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域
 
 ### 认识论断裂与 doxa
 
-Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的首要对象——"将使得对世界的 doxic 体验成为可能的一切事物提交给科学审查——不仅包括社会的前科学表征，还包括构成这些意象的认知图式"（Bourdieu & Wacquant, 1992, p.248，引自 Eacott, 2015, p.320）。这意味着研究者必须首先识别自身所在场域的 doxa，才能开始真正的科学建构。参见 [[Epistemological Break]]。
+Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的首要对象——"将使得对世界的 doxic 体验成为可能的一切事物提交给科学审查——不仅包括社会的前科学表征，还包括构成这些意象的认知图式"（Bourdieu & Wacquant, 1992, p.248，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.320]]）。这意味着研究者必须首先识别自身所在场域的 doxa，才能开始真正的科学建构。参见 [[Epistemological Break]]。
 
 ---
 

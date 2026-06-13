@@ -38,7 +38,7 @@ updated: 2026-06-08
 ## 定义
 
 > [!info]
-> 国际心智（international mind）是两次世界大战之间国际联盟（League of Nations）知识合作组织推动的一个概念。国际知识合作研究所（International Institute of Intellectual Co-operation）首任副主任 Alfred Zimmern 将其定义为：世界各国人民中间一种比民族主义心态更适合合作的普遍心态（a general mentality among the peoples of the world more appropriate to cooperation than the nationalistic mentality）（Klerides, 2018, p.227, cited in Klerides, 2023, p.424）。
+> 国际心智（international mind）是两次世界大战之间国际联盟（League of Nations）知识合作组织推动的一个概念。国际知识合作研究所（International Institute of Intellectual Co-operation）首任副主任 Alfred Zimmern 将其定义为：世界各国人民中间一种比民族主义心态更适合合作的普遍心态（a general mentality among the peoples of the world more appropriate to cooperation than the nationalistic mentality）（Klerides, 2018, p.227, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.424]]）。
 
 > [!quote]
 > "a general mentality among the peoples of the world more appropriate to cooperation than the nationalistic mentality"（Zimmern, cited in Klerides, 2018, p.227）

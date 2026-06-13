@@ -38,7 +38,7 @@ updated: '2026-06-02'
 > [!info] 核心主张
 > 所有意图课程（intended curriculum）的变革从根本上说是政治行为。课程政策涉及权力、控制、联盟、协商和妥协，这些力量在分权化的学校治理体系内外运作。
 >
-> > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224, cited in Yan & Morris, 2025, p. 480)
+> > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224, cited in [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]])
 > > 
 > > 课程政策问题涉及权力、控制、联盟、协商以及在分权化学校治理体系内外运作的各团体之间的妥协。
 

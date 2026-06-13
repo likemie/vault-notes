@@ -73,7 +73,7 @@ updated: 2026-05-19
 
 ### 第一阶段：领导层更替与方向确立（2004 年前后）
 
-- **2004 年及随后几年**：阿布扎比和阿联酋联邦层面经历领导层更替。谢赫穆罕默德·本·扎耶德·阿勒纳哈扬（Sheikh Mohammed bin Zayed al Nahyan）成为阿布扎比王储，谢赫穆罕默德·本·拉希德·阿勒马克图姆（Sheikh Mohammed bin Rashid al Maktoum）成为迪拜统治者兼阿联酋副总统和总理。两人继承其父亲开启的现代化议程（Jones, 2017, pp.49–50, cited in Erfurth, 2022, p.206）
+- **2004 年及随后几年**：阿布扎比和阿联酋联邦层面经历领导层更替。谢赫穆罕默德·本·扎耶德·阿勒纳哈扬（Sheikh Mohammed bin Zayed al Nahyan）成为阿布扎比王储，谢赫穆罕默德·本·拉希德·阿勒马克图姆（Sheikh Mohammed bin Rashid al Maktoum）成为迪拜统治者兼阿联酋副总统和总理。两人继承其父亲开启的现代化议程（Jones, 2017, pp.49–50, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.206]]）
 - 教育枢纽项目的确切起点"仍然模糊"，但最可能在 2004 年前后领导层更替时启动（p.206）
 
 ### 第二阶段：迪拜的商业化扩张（2004–2006）

@@ -52,7 +52,7 @@ updated: '2026-06-08'
 > [!info] [[Externalization|外化]]（Externalization）
 > 外化是 Schriewer 最具影响力的概念贡献。核心洞见是：教育系统不是直接对环境变化做出反应，而是通过"外化"——将内部问题构型投射到国际参照系中——来建构其改革（或抵制）的论证。
 >
-> > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230)
+> > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 230]])
 
 
 > [!info] 进化过程 vs 语义建构
@@ -67,7 +67,7 @@ updated: '2026-06-08'
 > [!info] 双向外化
 > [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 发扬了 Schriewer 框架中隐含但未充分展开的洞见——外化是双向的：不仅改革方外化到国际趋势，抵制方同样外化到"传统"、"历史"、"文化"以维护现状。Schriewer & Martinez 明确指出：
 >
-> > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 232)
+> > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
 
 ## 主要贡献
 

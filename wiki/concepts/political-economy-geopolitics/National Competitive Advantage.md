@@ -43,7 +43,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 国家竞争优势（National Competitive Advantage）是 [[Michael Porter]]（1990）在 *The Competitive Advantage of Nations* 中提出的理论：国家在全球市场中的竞争优势并非源于宏观层面的要素禀赋（如劳动力、自然资源），而是通过高度本地化的过程被创造和维持——国家独特的价值、文化、经济结构、制度和历史深刻贡献于竞争成功（Porter, 1990, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]]）。
 >
-> Porter 理论的核心是一个悖论性主张：**全球化反而使国家角色变得更加重要**——"虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"（Porter, 1990, p.19, cited in Moisio, 2022, p.27）。这一悖论深刻影响了 1990 年代以来[[Knowledge-Based Economization|知识经济化]]的空间政策逻辑。
+> Porter 理论的核心是一个悖论性主张：**全球化反而使国家角色变得更加重要**——"虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"（Porter, 1990, p.19, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]]）。这一悖论深刻影响了 1990 年代以来[[Knowledge-Based Economization|知识经济化]]的空间政策逻辑。
 >
 
 ## 概念辨析

@@ -45,7 +45,7 @@ updated: 2026-06-06
 > - AERO董事会倾向于更"权威的"（即惩罚性的）政策立场，如取消认证或惩罚性资金
 
 > [!quote]
-> "The AERO Board highlighted a preference for authoritative national elaborations of core content. It argued that anything less would be insufficient to underpin consistent national understanding of these practices by accreditation panels and ITE program developers."（Australian Government, 2023, pp.31, 引自Skourdoumbis & Rowe, 2024, p.8）
+> "The AERO Board highlighted a preference for authoritative national elaborations of core content. It argued that anything less would be insufficient to underpin consistent national understanding of these practices by accreditation panels and ITE program developers."（Australian Government, 2023, pp.31, 引自[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p.8]]）
 
 ---
 

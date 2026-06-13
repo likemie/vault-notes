@@ -47,7 +47,7 @@ updated: '2026-05-21'
 >
 > [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 将[[National Education|香港国民教育]]与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
 >
-> > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 Yan & Morris, 2025, p. 483)
+> > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]])
 
 > [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]从课程**文化内容**维度推进了这一框架：国族建构不仅通过语言统一和叙事标准化运作，还通过对[[Official Knowledge|官方知识]]的选择性阐释来建构文化等级。在六门必修科目的教科书中，儒家传统被呈现为中华文化的核心，非汉政权被塑造为"向先进汉文化学习"的对象——这种"学习"叙事在教育层面将汉文化定位为文明"中心"、将非汉文化定位为"边缘"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67–68]])。而约 86% 的少数民族和宗教背景学生视儒家仅为中国文化多元组成之一——其详细论证揭示的官方-边缘叙事断裂，暴露了单一文化国族建构在多元社会中的内在矛盾([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.68–70]])。
 

@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Incarnation-Extension Dialectics（具身化-扩展辩证法）是 [[Steen Nepper Larsen]] (2019) 提出的概念框架，作为对 [[Visible Learning]] 范式的替代方案，描述学习过程中身体具身化（incarnation）与心智扩展（extension）之间的双向运动。
+> Incarnation-Extension Dialectics（具身化-扩展辩证法）是 [[Steen Nepper Larsen]] (2019) 提出的概念框架，作为对 [[Visible Learning]] [[Paradigm|范式]]的替代方案，描述学习过程中身体具身化（incarnation）与心智扩展（extension）之间的双向运动。
 >
 > > "Every time you learn something, you, both consciously and unconsciously, both visibly and invisibly, incarnate it in your bodily being and not only in your 'inner' mental cognitive structure. And every time you incarnate something that is worthy of incarnation, you extend your bodily and mental synthesis."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9-10]])
 

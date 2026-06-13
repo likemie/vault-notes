@@ -97,7 +97,7 @@ citation_aliases:
 > 2. **不对称审查**：Jeynes & Littell 的 d=-0.65 被不加批判地接受；Gee 的 d=+0.65 被选择性修正为零(pp.145-148)
 > 3. **先验偏见**：Hattie 对[[Direct Instruction|直接教学]]的热情和对"[[Constructivist Paradigm|建构主义]]潮流"、"[[Jean-Jacques Rousseau|卢梭]]式方法"的明确敌意——加上对 Jeynes（福音派牧师、共和党关联）潜在偏见的忽视—��表明其结论更多反映立场而非数据(pp.147-150)
 > 4. **对 Jeynes & Littell 的作者偏见问题**：William H. Jeynes 是福音派牧师和 God's Love Ministries 创始人，有密切的共和党关联，曾进入 Trump 教育部长 12 人选名单。其学术出版物包括宗教学校的元分析、父母再婚对儿童影响、圣经读写与学业成绩关系等。Hattie 未考虑 Jeynes 的潜在偏见——尽管 Hattie 自己强调了研究者"镜头"的重要性(pp.147-148)
-> 5. **对政策的影响**：维多利亚州教育部以 VL 为首要参考的 10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 和 Literacy Toolkit 表明，方法论上有缺陷的研究正在直接影响教师实践(p.141)
+> 5. **对政策的影响**：维多利亚州教育部以 [[Visible Learning|VL]] 为首要参考的 10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 和 Literacy Toolkit 表明，方法论上有缺陷的研究正在直接影响教师实践(p.141)
 
 ## 关键引用
 
@@ -111,7 +111,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文仅审查了 VL 中[[Whole Language|全语言]]这一方面（4 项[[Meta-analysis|元分析]]，64 项研究），未对 VL 其他领域进行系统审查
+> - 论文仅审查了 [[Visible Learning|VL]] 中[[Whole Language|全语言]]这一方面（4 项[[Meta-analysis|元分析]]，64 项研究），未对 VL 其他领域进行系统审查
 > - 论文作者是小学教师和全语言实践者，可能被视为具有自身立场偏向——但作者明确公开了自身立场（曾在 RMIT 大学学习，导师包括全语言倡导者）
 > - 论文未进行独立的重新元分析——它依赖对 Hattie 方法的批判性审查和既有的次级文献
 

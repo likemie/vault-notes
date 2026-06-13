@@ -34,15 +34,15 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> 怀旧乌托邦（Retrotopia）是齐格蒙特·鲍曼（Zygmunt Bauman, 2017）在其遗著中提出的概念，指一种"将理想社会定位于被偷走、被遗弃或已死但未亡的过去，而非尚未诞生因而尚不存在的未来"的乌托邦想象（Bauman, 2017, p.5，引自 Bulag, 2024, p.104）。
+> 怀旧乌托邦（Retrotopia）是齐格蒙特·鲍曼（Zygmunt Bauman, 2017）在其遗著中提出的概念，指一种"将理想社会定位于被偷走、被遗弃或已死但未亡的过去，而非尚未诞生因而尚不存在的未来"的乌托邦想象（Bauman, 2017, p.5，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.104]]）。
 
 > [!quote]
-> "Retrotopia is a community 'located in the lost/stolen/abandoned but undead past, instead of being tied to the not-yet-unborn and so inexistent future'"（Bauman, 2017, p.5，引自 Bulag, 2024, p.104）
+> "Retrotopia is a community 'located in the lost/stolen/abandoned but undead past, instead of being tied to the not-yet-unborn and so inexistent future'"（Bauman, 2017, p.5，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.104]]）
 
 ## 理论基础
 
 > [!tip]
-> Retrotopia 建立在 Svetlana Boym（2007）的"修复性怀旧"（restorative nostalgia）概念之上。修复性怀旧"强调 nostos（归家），试图以跨历史的方式重建失落的家园"，并以"真理与传统"的名义进行（Boym, 2007, p.13，引自 Bulag, 2024, p.104）。
+> Retrotopia 建立在 Svetlana Boym（2007）的"修复性怀旧"（restorative nostalgia）概念之上。修复性怀旧"强调 nostos（归家），试图以跨历史的方式重建失落的家园"，并以"真理与传统"的名义进行（Boym, 2007, p.13，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.104]]）。
 >
 > 怀旧情绪与右翼民粹主义密切相关，其特征包括反建制话语和对社会秩序曾得以维持、"人民"未受移民影响的时代渴望。这种怀旧依赖于既定的、不容置疑的集体记忆，这些记忆将世界本质上划分为"我们"和"他们"（Betz, 2021; Brubaker, 2020，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.104]]）。
 

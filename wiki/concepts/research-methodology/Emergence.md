@@ -10,7 +10,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-13
@@ -35,7 +36,7 @@ updated: 2026-06-13
 ## 经典案例
 
 > [!example] 雨林生态
-> 在热带雨林中，蚂蚁吃树叶，鸟吃蚂蚁并留下粪便，粪便肥沃土壤，长出树木和树叶供蚂蚁食用（Lewin, 1993: 86）。这个循环中没有一个"中央规划者"——营养循环、物种多样性和生态平衡都是从局部生物之间的简单互动中涌现的全局模式。
+> 在热带雨林（rainforest）中，蚂蚁吃树叶（ants eat leaves），鸟吃蚂蚁并留下粪便（birds eat ants and leave droppings），粪便肥沃土壤（which fertilize the soil），长出树木和树叶供蚂蚁食用（Lewin, 1993: 86）。这个循环中没有一个"中央规划者"——营养循环、物种多样性和生态平衡都是从局部生物之间的简单互动中涌现的全局模式。
 
 > [!example] 学校作为涌现系统
 > 学校的"文化"——如"这所学校的学生很勤奋"——不是一个可以被直接设计或灌输的属性。它从师生的日常互动、课堂规范的反复协商、个别教师的率先突破和同伴模仿、考试结果的反馈放大等局部互动中层层涌现出来。改变校长的行政命令不等于改变学校文化（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

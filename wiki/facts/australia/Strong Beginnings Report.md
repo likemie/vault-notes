@@ -51,7 +51,7 @@ updated: 2026-06-06
 > - **优先改革4**：改进研究生ITE项目以吸引更多职业转换者
 
 > [!quote]
-> "The brain and learning"作为核心内容的三个焦点：新手与专家学习者的大脑区别、大脑如何学习和保留信息、大脑如何掌握知识（Australian Government, 2023, p.95, 引自Skourdoumbis & Rowe, 2024, p.6）。
+> "The brain and learning"作为核心内容的三个焦点：新手与专家学习者的大脑区别、大脑如何学习和保留信息、大脑如何掌握知识（Australian Government, 2023, p.95, 引自[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p.6]]）。
 
 ---
 

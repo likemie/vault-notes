@@ -53,9 +53,9 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 批判地缘政治学（Critical Geopolitics）是 1990 年代以来在人文地理学和政治地理学中发展起来的理论传统，核心主张是：空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意义建构被持续生产和再生产（Kuus, 2017, p.5, cited in Parreira do Amaral, 2022, p.37）。
+> 批判地缘政治学（Critical Geopolitics）是 1990 年代以来在人文地理学和政治地理学中发展起来的理论传统，核心主张是：空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意义建构被持续生产和再生产（Kuus, 2017, p.5, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.37]]）。
 >
-> > "Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation."（Moisio, 2018, p.7, cited in Parreira do Amaral, 2022, pp.37–38）
+> > "Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation."（Moisio, 2018, p.7, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]]）
 
 该理论的突破在于：将地缘政治从以民族国家领土控制为中心的古典理解，扩展至涵盖[[Relational Space|关系性空间]]构型和话语—符号维度([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
 
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 批判地缘政治学作为对[[Classical Geopolitics|古典地缘政治]]的批判性回应而兴起。其发展可追溯以下关键节点：
 
 - **1990 年代**：在英语世界人文地理学和政治地理学中形成。核心推动力来自人文和文化研究中的空间转向（spatial turn）——空间不再被视为天然预设之物，而被理解为通过社会空间关系网络被持续建构的过程（Thompson & Parreira do Amaral, 2022, p.10）
-- **Dodds (2019)**：为批判地缘政治学提供了系统的教科书框架。强调地缘政治关系是"浸透了社会和文化意义"的建构物——国家间的关系不是客观存在的实体，而是通过话语和意义建构被"制造"出来的。将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p.36, cited in Rizvi, 2022, p.91）
+- **Dodds (2019)**：为批判地缘政治学提供了系统的教科书框架。强调地缘政治关系是"浸透了社会和文化意义"的建构物——国家间的关系不是客观存在的实体，而是通过话语和意义建构被"制造"出来的。将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p.36, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.91]]）
 - **Sharp (2009)**：强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语实践"生产"世界的政治行为
 - **Kuus (2017)**：提出"空间性不限于领土性"的核心命题——"空间性不限于领土性"（Kuus, 2017, p.5）——将地缘政治分析从领土框架扩展至关系性和网络化空间
 

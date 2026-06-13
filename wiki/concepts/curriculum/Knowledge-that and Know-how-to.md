@@ -46,7 +46,7 @@ updated: 2026-06-06
 > 知其然（Knowledge-that）和知其所用（Know-how-to）是 Ryle (1946) 提出的知识区分。知其然是关于某事是什么的命题性知识，知其所用是关于如何做某事的应用性知识。在 [[Curriculum Design Coherence Model|课程设计连贯性模型]]中，这两种知识形式的连接被操作化为课程设计的核心要素([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 > [!quote]
-> "Effective possession of a piece of 'knowledge-that' involves knowing how to use that knowledge, when required, for the solution of other theoretical or practical problems."（Ryle, 1946, p.16, 引自 McPhail et al., 2023）
+> "Effective possession of a piece of 'knowledge-that' involves knowing how to use that knowledge, when required, for the solution of other theoretical or practical problems."（Ryle, 1946, p.16, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）
 >
 > 真正掌握一块知其然，意味着在需要时能够运用该知识来解决其他理论或实践问题。
 

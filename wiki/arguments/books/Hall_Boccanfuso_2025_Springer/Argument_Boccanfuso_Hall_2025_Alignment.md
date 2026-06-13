@@ -150,7 +150,7 @@ citation_aliases:
 四个案例展示了产学合作的可能性和多样性(pp.7–8)：
 - **IBM-斯坦福**：合作研发无需铂等贵金属的催化技术，发现了回收 PET 塑料瓶和聚酯纤维的新方法
 - **波音-谢菲尔德大学**：建立[[Advanced Manufacturing Research Centre (AMRC)|先进制造研究中心]]（AMRC），截至 2024 年拥有 600+ 研究人员、120+ 行业成员、年经费约 4000 万英镑
-- **Houston Methodist-Medtronic**：合作开展经导管主动脉瓣置换术（TAVR）的临床试验，改变了心脏瓣膜修复的范式
+- **Houston Methodist-Medtronic**：合作开展经导管主动脉瓣置换术（TAVR）的临床试验，改变了心脏瓣膜修复的[[Paradigm|范式]]
 - **Mars-UC Davis-阿肯色大学**：合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不减产
 
 但这些成功案例的背后，是大量未能完成的合作尝试。挑战来自以下几个层面：

@@ -20,13 +20,13 @@ updated: 2026-06-14
 
 ## 定义
 
-客观主义（Objectivism）是 Burrell and Morgan（1979）在四组假设框架中识别的主观–客观维度的一端。持客观主义取向的研究者将社会世界视为如同自然世界——仿佛它是一种外部的、客观的实在（as if it were an external and objective reality）。科学探究被导向分析该世界中选定因素之间的关系和规律性，以量化为主（predominantly quantitative），涉及识别和定义元素并发现其关系如何被表达。方法论的核心问题是概念本身、其测量以及通过寻找普遍法则（universal laws）来识别底层主题（Burrell and Morgan, 1979）（Cohen et al., 2011, Ch. 1）。
+客观主义（Objectivism）是 Burrell and Morgan（1979）在四组假设框架中识别的主观–客观维度的一端。持客观主义取向的研究者将社会世界视为如同自然世界——仿佛它是一种外部的、客观的实在（as if it were an external and objective reality）。科学探究被导向分析该世界中选定因素之间的关系和规律性，以量化为主（predominantly quantitative），涉及识别和定义元素并发现其关系如何被表达。方法论的核心问题是概念本身、其测量以及通过寻找普遍法则（universal laws）来识别底层主题（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 这种以发现普遍法则为特征的方法论取向被称为**通则式**（nomothetic）。
 
 ## 四组假设
 
-沿 Burrell and Morgan（1979）的维度，客观主义对应以下四组假设（Cohen et al., 2011, Ch. 1）：
+沿 Burrell and Morgan（1979）的维度，客观主义对应以下四组假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 客观主义的四组假设
 > - **本体论：实在论**（realism）社会实在是外在于个体的客观存在，强加于意识之上（imposing itself on their consciousness from without）。组织是真实的实体，有自身的生命（Organizations are real entities with a life of their own）
@@ -36,7 +36,7 @@ updated: 2026-06-14
 
 ## Table 1.1 十维度特征
 
-基于 Barr Greenfield（1975），客观主义在社会和组织层面呈现以下立场（Cohen et al., 2011, Ch. 1）：
+基于 Barr Greenfield（1975），客观主义在社会和组织层面呈现以下立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 - **哲学基础**：实在论——世界如其本身存在并可被认识。组织是真实的实体，有自身的生命
 - **社会科学的角色**：发现社会及其中人类行为的普遍法则

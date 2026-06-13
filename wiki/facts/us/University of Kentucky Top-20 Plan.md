@@ -42,14 +42,14 @@ updated: '2026-05-18'
 > - 肯塔基州立法机构指令大学达到 Top-20 排名目标
 > - 大学制定了战略计划并修订了使命和价值声明（DeYoung & Baas, 2012, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]]）
 > - **2010 年**：USNWR"最佳国家大学"排名揭晓——肯塔基大学排名第 **129** 名，远未达到目标
-> - 失败的核心原因：USNWR 评分系统"惩罚收招大量毕业概率较低的学生的院校——即低收入、非传统或少数族裔学生"（DeYoung & Baas, 2012, p.103, cited in Boyadjieva, 2022, p.126）
+> - 失败的核心原因：USNWR 评分系统"惩罚收招大量毕业概率较低的学生的院校——即低收入、非传统或少数族裔学生"（DeYoung & Baas, 2012, p.103, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]]）
 
 ---
 
 ## 影响与后果
 
 > [!success]
-> 肯塔基大学面临根本性两难：要么放弃达到 USNWR Top-20 地位的排名目标，要么放弃其赠地大学使命——"为弱势群体增加教育机会，同时坚定致力于区域和州经济发展"（DeYoung & Baas, 2012, p.82, cited in Boyadjieva, 2022, p.126）。这一案例被 Boyadjieva（2022）用作整章的核心例证，生动展示了排名逻辑与高等教育使命之间的不可调和冲突。
+> 肯塔基大学面临根本性两难：要么放弃达到 USNWR Top-20 地位的排名目标，要么放弃其赠地大学使命——"为弱势群体增加教育机会，同时坚定致力于区域和州经济发展"（DeYoung & Baas, 2012, p.82, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]]）。这一案例被 Boyadjieva（2022）用作整章的核心例证，生动展示了排名逻辑与高等教育使命之间的不可调和冲突。
 
 ---
 

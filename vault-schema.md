@@ -401,7 +401,7 @@ Argument 引用规则：
 
 - 新建条目必须读取对应 `wiki/templates/template-*.md`。
 - 模板提供结构和样式；有内容才写，没有内容可省略空章节。
-- Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。
+- Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，如 `"[[Louis Cohen|Cohen, L.]]"` 或 `"[[Cohen, L.]]"`，不要写成 `"[[Louis Cohen]]"`；否则 `citation_index.py` 会生成错误短引。
 - 写正文时先按模板逻辑组织主题，再在每个主题内按时间、发展阶段或论证顺序排列。
 - `summary` 只用于索引说明，不是摘要；必须围绕条目本身写，不围绕某篇论文或章节写。
 - `summary` 外层必须使用双引号包裹；内容可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。

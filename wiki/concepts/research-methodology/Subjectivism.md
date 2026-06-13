@@ -20,13 +20,13 @@ updated: 2026-06-14
 
 ## 定义
 
-主观主义（Subjectivism）是 Burrell and Morgan（1979）在四组假设框架中识别的主观–客观维度的另一端。持主观主义取向的研究者强调个体主观经验在社会世界创造中的重要性。主要关注点在于理解个体如何创造、修改和解释他们所置身的世界（how individuals create, modify and interpret the world in which they find themselves）。这一取向兼顾量化和质性（takes on a qualitative as well as quantitative aspect）；重点放在对独特的、个别案例的解释和理解上，而非一般的、普遍的情况（explanation and understanding of the unique and the particular individual case rather than the general and the universal）；兴趣在于一个主观的、相对主义的社会世界，而非一个绝对主义的外部实在（a subjective, relativistic social world rather than an absolutist, external reality）（Burrell and Morgan, 1979; Kirk and Miller, 1986: 14）（Cohen et al., 2011, Ch. 1）。
+主观主义（Subjectivism）是 Burrell and Morgan（1979）在四组假设框架中识别的主观–客观维度的另一端。持主观主义取向的研究者强调个体主观经验在社会世界创造中的重要性。主要关注点在于理解个体如何创造、修改和解释他们所置身的世界（how individuals create, modify and interpret the world in which they find themselves）。这一取向兼顾量化和质性（takes on a qualitative as well as quantitative aspect）；重点放在对独特的、个别案例的解释和理解上，而非一般的、普遍的情况（explanation and understanding of the unique and the particular individual case rather than the general and the universal）；兴趣在于一个主观的、相对主义的社会世界，而非一个绝对主义的外部实在（a subjective, relativistic social world rather than an absolutist, external reality）（Burrell and Morgan, 1979; Kirk and Miller, 1986: 14）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 这种以关注独特个体案例为特征的方法论取向被称为**个例式**（idiographic）。
 
 ## 四组假设
 
-沿 Burrell and Morgan（1979）的维度，主观主义对应以下四组假设（Cohen et al., 2011, Ch. 1）：
+沿 Burrell and Morgan（1979）的维度，主观主义对应以下四组假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 主观主义的四组假设
 > - **本体论：唯名论**（nominalism）思想的对象仅仅是词语（objects of thought are merely words），不存在独立于知者的、构成一个词语意义的可及事物。组织是被发明的社会实在（Organizations are invented social reality）
@@ -36,7 +36,7 @@ updated: 2026-06-14
 
 ## Table 1.1 十维度特征
 
-基于 Barr Greenfield（1975），主观主义在社会和组织层面呈现以下立场（Cohen et al., 2011, Ch. 1）：
+基于 Barr Greenfield（1975），主观主义在社会和组织层面呈现以下立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 - **哲学基础**：观念论——世界存在但不同人以非常不同的方式解释它。组织是被发明的社会实在
 - **社会科学的角色**：发现不同人如何解释他们所生活的世界

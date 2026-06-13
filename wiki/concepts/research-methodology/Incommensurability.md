@@ -17,7 +17,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -29,7 +30,7 @@ updated: 2026-06-13
 ## 定义
 
 > [!def] 不可通约性（Incommensurability）
-> 库恩（Thomas Kuhn, 1962）[[Paradigm|范式]]理论的核心机制：不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式。不可通约性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 库恩（Thomas Kuhn, 1962）[[Paradigm|范式]]理论的核心机制：不同范式之间不存在共同的原则、标准或衡量尺度（there is no common asset of principles, standards or measures），因此一个人不能同时持有两个截然不同的范式（one cannot hold two distinct paradigms simultaneously）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。不可通约性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 经典体现
 

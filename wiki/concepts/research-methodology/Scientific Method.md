@@ -9,7 +9,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -41,7 +42,7 @@ Mouly（1978）将经验科学进程分为五步：经验 → 分类 → 量化 
 
 ## 科学的两种观点
 
-Kerlinger（1970）区分了两种科学观（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：静态观（科学是系统化知识的积累）和动态观（科学是发现的活动，重点是科学的启发式性质）。Maslow（1954）列举了科学的九大功能，从问题寻找和假设产生到对人类用途的应用。
+Kerlinger（1970）区分了两种科学观（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：静态观（the static view）——科学是系统化知识的积累，重点是当前的知识状态和知识的添加；动态观（the dynamic view）——科学是发现的活动，重点是科学的启发式性质（the heuristic nature of science）。Maslow（1954）列举了科学的九大功能，从问题寻找和假设产生到对人类用途的应用。
 
 ## 科学的九大功能（Maslow, 1954）
 

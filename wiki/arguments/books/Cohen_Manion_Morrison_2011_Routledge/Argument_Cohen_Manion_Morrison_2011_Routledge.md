@@ -1,9 +1,9 @@
 ---
 title: Argument_Cohen_Manion_Morrison_2011_Routledge
 authors:
-  - "[[Louis Cohen]]"
-  - "[[Lawrence Manion]]"
-  - "[[Keith Morrison]]"
+  - "[[Louis Cohen|Cohen, L.]]"
+  - "[[Lawrence Manion|Manion, L.]]"
+  - "[[Keith Morrison|Morrison, K.]]"
 summary: "教育研究方法的综合性教材(第七版)，涵盖研究范式、研究设计、资料收集与分析方法，以及不同类型研究方法的操作指南。"
 type: argument
 subtype: textbook
@@ -14,8 +14,6 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases:
-  - "Louis Cohen et al., 2011"
-  - "Louis Cohen et al. (2011)"
   - "Cohen et al., 2011"
   - "Cohen et al. (2011)"
 tags:
@@ -39,6 +37,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Rich and Thick Description]]"
+  - "[[Objectivism]]"
+  - "[[Subjectivism]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Scientism]]"
@@ -51,6 +51,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Data Transformation in Mixed Methods]]"
   - "[[Purpose Statement]]"
+  - "[[Postmodernism]]"
+  - "[[Post-structuralism]]"
   - "[[Feedback]]"
   - "[[Causality]]"
   - "[[School Leadership]]"
@@ -234,7 +236,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 
 ### 步骤 3：通过 Burrell and Morgan 的四组假设对比两大范式
 
-Burrell and Morgan (1979)的[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]系统对比了客观主义(实证主义)与主观主义(诠释主义)两种社会实在观的哲学根基(pp.145–163)。这四组假设沿一条**主观–客观维度**排列：
+Burrell and Morgan (1979)的[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]系统对比了[[Objectivism|客观主义]](实证主义)与[[Subjectivism|主观主义]](诠释主义)两种社会实在观的哲学根基(pp.145–163)。这四组假设沿一条**主观–客观维度**排列：
 
 > [!contrast-table] 四组假设：客观主义 vs 主观主义
 >
@@ -610,7 +612,7 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 
 但三者在挑战方式和程度上各有侧重：
 
-> [!contrast-table] 后实证主义 vs 后现代主义 vs 后结构主义
+> [!contrast-table] 后实证主义 vs [[Postmodernism|后现代主义]] vs [[Post-structuralism|后结构主义]]
 >
 > | 维度 | 后实证主义(Post-positivism) | 后现代主义(Postmodernism) | 后结构主义(Post-structuralism) |
 > |---|---|---|---|

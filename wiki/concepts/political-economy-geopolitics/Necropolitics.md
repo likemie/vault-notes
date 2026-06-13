@@ -37,7 +37,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> 死亡政治（Necropolitics）是阿奇勒·姆本贝（Achille Mbembe, 2003）提出的概念，指"主权的最终表达在很大程度上存在于决定谁可以活、谁必须死的权力和能力之中"（Mbembe, 2003, p.11，引自 Bulag, 2024, p.98）。这一概念是对福柯（Foucault）生命政治（biopolitics）的延伸和批判：生命政治关注的是对生命的管理和优化，而死亡政治关注的是主权权力如何生产和强加死亡。
+> 死亡政治（Necropolitics）是阿奇勒·姆本贝（Achille Mbembe, 2003）提出的概念，指"主权的最终表达在很大程度上存在于决定谁可以活、谁必须死的权力和能力之中"（Mbembe, 2003, p.11，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.98]]）。这一概念是对福柯（Foucault）生命政治（biopolitics）的延伸和批判：生命政治关注的是对生命的管理和优化，而死亡政治关注的是主权权力如何生产和强加死亡。
 
 ## 概念辨析
 
@@ -58,7 +58,7 @@ updated: 2026-05-25
 
 > [!warning]
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]]虽然对死亡政治范式表示广泛同情，但认为它存在一个悖论性的政治后果：这种范式虽然有力地批判了中国的主权政治，却"奇怪地"去政治化了中国少数民族，因为它实际上并不呼吁反殖民的自决([[Argument_Bulag_2024_CE|Bulag, 2024, p.98]])。
-> - 将中国少数民族重新定义为"土著人民"（indigenous peoples）的[[Settler Colonialism|定居殖民主义]]框架，实际上与国家内部的自治权框架相适应，而非要求独立自决（Alberts, 2015, pp.96–97，引自 Bulag, 2024, p.100）。
+> - 将中国少数民族重新定义为"土著人民"（indigenous peoples）的[[Settler Colonialism|定居殖民主义]]框架，实际上与国家内部的自治权框架相适应，而非要求独立自决（Alberts, 2015, pp.96–97，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.100]]）。
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]]认为，中国死亡政治的独特之处在于，它不仅包括对少数民族文化和身份的清除，还要求少数民族"自愿"为[[Zhonghua Minzu|中华民族]]做出自我牺牲，即内在化了对自身文化消亡的接受([[Argument_Bulag_2024_CE|Bulag, 2024, p.98]])。
 
 ## 相关案例

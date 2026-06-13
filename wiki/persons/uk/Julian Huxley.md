@@ -51,7 +51,7 @@ Julian Huxley（1887–1975），英国生物学家和科学管理者，UNESCO �
 
 Huxley 的[[Transhumanism|超人类主义]]定义包含一个至今仍被引用的核心表述：
 
-> "The human species can, if it wishes, transcend itself — not just sporadically, an individual here in one way, an individual there in another way, but in its entirety, as humanity. We need a name for his new belief. Perhaps transhumanism will serve: man remains man but transcends himself, by realizing new possibilities of and for human nature."（Huxley, 1957, p.17，引自 Amos, 2022, p.59）
+> "The human species can, if it wishes, transcend itself — not just sporadically, an individual here in one way, an individual there in another way, but in its entirety, as humanity. We need a name for his new belief. Perhaps transhumanism will serve: man remains man but transcends himself, by realizing new possibilities of and for human nature."（Huxley, 1957, p.17，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.59]]）
 
 Amos 特别指出 Huxley 身份的一个内在矛盾：他同时是科学人文主义（强调理性、科学和人类进步）的倡导者、UNESCO 人权议程的推动者，以及优生学（选择性"改良"人类种群）的支持者。[[Transhumanism]] 的"普世人道"宣称与优生学的"选择性分类"逻辑之间存在着一脉相承的连续性——这一矛盾在当代超人类主义论述中仍然存在，也是 Amos 将其与 [[Posthumanism]] 对立的根本原因：超人类主义的"谁值得被增强"与后人类主义的"人类只是物质循环中的一环"构成两种不可调和的世界观([[Argument_Amos_2022_Springer|Amos, 2022, p.59, 62]])。
 

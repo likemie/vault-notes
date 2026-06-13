@@ -36,7 +36,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 想象的共同体（Imagined Community）是 Benedict Anderson (2006) 在其同名著作中提出的民族（nation）定义：民族是一个**被想象的、有边界和主权的政治共同体**。它是"想象的"，因为即使最小民族的成员也永远不会认识、遇见甚至听说过大多数其他成员——但在每个人的心中，都活着他们共属一个共同体的图像（Anderson, 2006, p.6，引自 Xu, 2024, p.575）。
+> 想象的共同体（Imagined Community）是 Benedict Anderson (2006) 在其同名著作中提出的民族（nation）定义：民族是一个**被想象的、有边界和主权的政治共同体**。它是"想象的"，因为即使最小民族的成员也永远不会认识、遇见甚至听说过大多数其他成员——但在每个人的心中，都活着他们共属一个共同体的图像（Anderson, 2006, p.6，引自 [[Argument_Xu_2024_CE|Xu, 2024, p.575]]）。
 
 > [!quote]
 > "It is imagined because the members of even the smallest nation will never know most of their fellow members, meet them, or even hear of them, yet in the minds of each lives the image of their communion."（Anderson, 2006, p.6）

@@ -57,7 +57,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]
-> Glass 的核心贡献是将[[Meta-analysis|元分析]]确立为一种独立的研究方法。他认为元分析的价值不仅在于给出平均效果的估计，更在于呈现效果的分布——"元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in Higgins, 2016, p.37）。
+> Glass 的核心贡献是将[[Meta-analysis|元分析]]确立为一种独立的研究方法。他认为元分析的价值不仅在于给出平均效果的估计，更在于呈现效果的分布——"元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）。
 >
 > Glass 将[[Effect Size|效应量]]（标准差单位）作为跨研究比较的通用尺度，这一度量方式至今是教育和心理学元分析的标准。他承认 Robert Rosenthal 发展了效应量的基础度量，Benjamin Bloom 也对其思想产生了影响——Bloom 的"两个标准差问题"（two sigma problem）正是以标准差单位表述的([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])。
 >

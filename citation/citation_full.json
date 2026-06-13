@@ -769,82 +769,6 @@
       "title": "Argument_Cai_Gao_Liu_2025_HE",
       "year": "2025"
     },
-    "Caraça et al. (2009)": {
-      "aliases": [
-        "João Caraça et al., 2009",
-        "João Caraça et al. (2009)",
-        "Caraça et al., 2009",
-        "Caraça et al. (2009)"
-      ],
-      "argument": "Argument_Caraca_2009_TFSC",
-      "authors": [
-        "João Caraça",
-        "Bengt-Åke Lundvall",
-        "Sandro Mendonça"
-      ],
-      "citation": "Caraça, J., Lundvall, B.-Å., & Mendonça, S. (2009). The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867. https://doi.org/10.1016/j.techfore.2008.08.003",
-      "doi": "10.1016/j.techfore.2008.08.003",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Technological Forecasting and Social Change/Argument_Caraca_2009_TFSC.md",
-      "title": "Argument_Caraca_2009_TFSC",
-      "year": "2009"
-    },
-    "Caraça et al., 2009": {
-      "aliases": [
-        "João Caraça et al., 2009",
-        "João Caraça et al. (2009)",
-        "Caraça et al., 2009",
-        "Caraça et al. (2009)"
-      ],
-      "argument": "Argument_Caraca_2009_TFSC",
-      "authors": [
-        "João Caraça",
-        "Bengt-Åke Lundvall",
-        "Sandro Mendonça"
-      ],
-      "citation": "Caraça, J., Lundvall, B.-Å., & Mendonça, S. (2009). The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867. https://doi.org/10.1016/j.techfore.2008.08.003",
-      "doi": "10.1016/j.techfore.2008.08.003",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Technological Forecasting and Social Change/Argument_Caraca_2009_TFSC.md",
-      "title": "Argument_Caraca_2009_TFSC",
-      "year": "2009"
-    },
-    "Chan (2015)": {
-      "aliases": [
-        "Chi Ling Chan, 2015",
-        "Chi Ling Chan (2015)",
-        "Chan, 2015",
-        "Chan (2015)"
-      ],
-      "argument": "Argument_Chan_2015_Intersect",
-      "authors": [
-        "Chi Ling Chan"
-      ],
-      "citation": "Chan, C. L. (2015). Fallen behind: Science, technology, and Soviet statism. *Intersect*, *8*(3).",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md",
-      "title": "Argument_Chan_2015_Intersect",
-      "year": "2015"
-    },
-    "Chan, 2015": {
-      "aliases": [
-        "Chi Ling Chan, 2015",
-        "Chi Ling Chan (2015)",
-        "Chan, 2015",
-        "Chan (2015)"
-      ],
-      "argument": "Argument_Chan_2015_Intersect",
-      "authors": [
-        "Chi Ling Chan"
-      ],
-      "citation": "Chan, C. L. (2015). Fallen behind: Science, technology, and Soviet statism. *Intersect*, *8*(3).",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md",
-      "title": "Argument_Chan_2015_Intersect",
-      "year": "2015"
-    },
     "Cheung & Xie (2021)": {
       "aliases": [
         "Cheung & Xie, 2021",
@@ -882,9 +806,7 @@
     "Chi Ling Chan (2015)": {
       "aliases": [
         "Chi Ling Chan, 2015",
-        "Chi Ling Chan (2015)",
-        "Chan, 2015",
-        "Chan (2015)"
+        "Chi Ling Chan (2015)"
       ],
       "argument": "Argument_Chan_2015_Intersect",
       "authors": [
@@ -900,9 +822,7 @@
     "Chi Ling Chan, 2015": {
       "aliases": [
         "Chi Ling Chan, 2015",
-        "Chi Ling Chan (2015)",
-        "Chan, 2015",
-        "Chan (2015)"
+        "Chi Ling Chan (2015)"
       ],
       "argument": "Argument_Chan_2015_Intersect",
       "authors": [
@@ -917,16 +837,14 @@
     },
     "Cohen et al. (2011)": {
       "aliases": [
-        "Louis Cohen et al., 2011",
-        "Louis Cohen et al. (2011)",
         "Cohen et al., 2011",
         "Cohen et al. (2011)"
       ],
       "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "authors": [
-        "[[Louis Cohen]]",
-        "[[Lawrence Manion]]",
-        "[[Keith Morrison]]"
+        "[[Louis Cohen|Cohen, L.]]",
+        "[[Lawrence Manion|Manion, L.]]",
+        "[[Keith Morrison|Morrison, K.]]"
       ],
       "citation": "",
       "doi": "",
@@ -955,16 +873,14 @@
     },
     "Cohen et al., 2011": {
       "aliases": [
-        "Louis Cohen et al., 2011",
-        "Louis Cohen et al. (2011)",
         "Cohen et al., 2011",
         "Cohen et al. (2011)"
       ],
       "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "authors": [
-        "[[Louis Cohen]]",
-        "[[Lawrence Manion]]",
-        "[[Keith Morrison]]"
+        "[[Louis Cohen|Cohen, L.]]",
+        "[[Lawrence Manion|Manion, L.]]",
+        "[[Keith Morrison|Morrison, K.]]"
       ],
       "citation": "",
       "doi": "",
@@ -2166,9 +2082,7 @@
     "João Caraça et al. (2009)": {
       "aliases": [
         "João Caraça et al., 2009",
-        "João Caraça et al. (2009)",
-        "Caraça et al., 2009",
-        "Caraça et al. (2009)"
+        "João Caraça et al. (2009)"
       ],
       "argument": "Argument_Caraca_2009_TFSC",
       "authors": [
@@ -2186,9 +2100,7 @@
     "João Caraça et al., 2009": {
       "aliases": [
         "João Caraça et al., 2009",
-        "João Caraça et al. (2009)",
-        "Caraça et al., 2009",
-        "Caraça et al. (2009)"
+        "João Caraça et al. (2009)"
       ],
       "argument": "Argument_Caraca_2009_TFSC",
       "authors": [
@@ -2594,46 +2506,6 @@
       "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
       "title": "Argument_Li_2012_Cambridge",
       "year": "2012"
-    },
-    "Louis Cohen et al. (2011)": {
-      "aliases": [
-        "Louis Cohen et al., 2011",
-        "Louis Cohen et al. (2011)",
-        "Cohen et al., 2011",
-        "Cohen et al. (2011)"
-      ],
-      "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "authors": [
-        "[[Louis Cohen]]",
-        "[[Lawrence Manion]]",
-        "[[Keith Morrison]]"
-      ],
-      "citation": "",
-      "doi": "",
-      "isbn": "978-0-415-58336-7",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
-      "title": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "year": "2011"
-    },
-    "Louis Cohen et al., 2011": {
-      "aliases": [
-        "Louis Cohen et al., 2011",
-        "Louis Cohen et al. (2011)",
-        "Cohen et al., 2011",
-        "Cohen et al. (2011)"
-      ],
-      "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "authors": [
-        "[[Louis Cohen]]",
-        "[[Lawrence Manion]]",
-        "[[Keith Morrison]]"
-      ],
-      "citation": "",
-      "doi": "",
-      "isbn": "978-0-415-58336-7",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
-      "title": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "year": "2011"
     },
     "Marginson (2025)": {
       "aliases": [

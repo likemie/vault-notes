@@ -42,7 +42,7 @@ updated: '2026-06-08'
 > [!info] 证据的阶段论
 > Thomas (2004, pp. 1–6, 10) 区分了科学探究中证据使用的不同阶段：拼凑/直觉阶段（bricolage/hunch）、灵感阶段（inspirational）、发现阶段（discovery）和确认/证实阶段（corroborative/confirmatory）。他的核心观点是 EBT 只关注证据的最后阶段——确认阶段——而忽视了科学发现过程中同样重要的前几个阶段([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])。
 >
-> > "The notion of evidence-based practice focuses on evidence at the confirmatory stage, on the systematic collation of research studies for use by practitioners and policy-makers." (Thomas, 2004, p. 10, cited in Wrigley & McCusker, 2019, p. 111)
+> > "The notion of evidence-based practice focuses on evidence at the confirmatory stage, on the systematic collation of research studies for use by practitioners and policy-makers." (Thomas, 2004, p. 10, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])
 
 
 > [!info] 实验验证知识而非推进知识
@@ -52,7 +52,7 @@ updated: '2026-06-08'
 > [!info] 最佳解释推理
 > Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立[[Causality|因果性]]的方法论公式——"他们基于先前知识、批判性观察、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])。
 >
-> > "Natural scientists don't slavishly pursue methodological formulae about establishing causation. They infer, based on their prior knowledge, their critical observation, their conjecture, and their testing of these conjectures, in a process that has come to be called by philosophers of science inference to the best explanation." (Thomas, 2016, p. 406, cited in Wrigley & McCusker, 2019, p. 117)
+> > "Natural scientists don't slavishly pursue methodological formulae about establishing causation. They infer, based on their prior knowledge, their critical observation, their conjecture, and their testing of these conjectures, in a process that has come to be called by philosophers of science inference to the best explanation." (Thomas, 2016, p. 406, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])
 
 
 > [!info] 每个科学领域的独特性

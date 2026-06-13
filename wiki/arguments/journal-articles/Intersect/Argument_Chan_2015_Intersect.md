@@ -10,8 +10,6 @@ doi: ""
 citation_aliases:
   - "Chi Ling Chan, 2015"
   - "Chi Ling Chan (2015)"
-  - "Chan, 2015"
-  - "Chan (2015)"
 isbn: ""
 tags:
   - region/ussr

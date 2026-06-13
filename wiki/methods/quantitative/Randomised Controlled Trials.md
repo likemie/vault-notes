@@ -126,7 +126,7 @@ updated: '2026-05-18'
 >
 > [[Argument_Møller_2017_EERJ|Møller (2017, p.379)]]援引 Berliner (2002) 的核心论证来阐明为何 RCT 在教育中面临结构性障碍：
 >
-> 教育研究是"难以完成的科学"（hard-to-do-science），因为"教育研究者'在物理科学家认为无法容忍的条件下做科学……[教育研究者]必须处理限制推广的本地条件'"（Berliner, 2002: 18, cited in Møller, 2017, p.379）。
+> 教育研究是"难以完成的科学"（hard-to-do-science），因为"教育研究者'在物理科学家认为无法容忍的条件下做科学……[教育研究者]必须处理限制推广的本地条件'"（Berliner, 2002: 18, cited in [[Argument_Møller_2017_EERJ|Møller, 2017, p.379]]）。
 >
 > **Berliner 论证的核心要素**([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])：
 > - 学校中的学生、教师和校长嵌套在**复杂且不断变化的社会互动网络**中

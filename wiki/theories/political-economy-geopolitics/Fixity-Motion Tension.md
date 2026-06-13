@@ -39,7 +39,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 固着-流动张力（Fixity-Motion Tension）是 David Harvey（1985/2001）在其资本主义地缘政治理论中揭示的资本主义空间悖论：**资本积累同时需要两个相互矛盾的东西——空间固着（锚定于特定地方的基础设施和制度）和空间流动（资本跨越地理边界寻求最高回报的自由）**。这两者之间存在不可消除的结构性张力，因为固着的条件恰恰被流动的逻辑不断破坏([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])。
 >
-> > "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in Moisio, 2022, p.28）
+> > "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]]）
 >
 > Moisio 将该张力定位为[[Knowledge-Based Economization|知识经济化]]地缘政治的根本动力来源："[[Knowledge-Based Economy|知识经济]]化的地缘政治正源于资本主义空间流通过程内部的这一张力——积累地理中固着与流动之间的张力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])。
 >
@@ -116,7 +116,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 > - **领土逻辑**：国家需要稳定的税收基础、持续的经济活动和人口定居——这要求资本*留在*特定领土上
 > - **资本逻辑**：资本需要自由移动到回报最高的地方——这意味着对任何特定领土的承诺都是暂时的
 >
-> 这两组逻辑之间的冲突是普遍的、不可消除的：资本主义不断努力创造一个符合其自身需求的社会和物质景观，却又在随后的时间点削弱、扰乱甚至摧毁该景观（Harvey, 2001, p.333, cited in Moisio, 2022, p.28）。
+> 这两组逻辑之间的冲突是普遍的、不可消除的：资本主义不断努力创造一个符合其自身需求的社会和物质景观，却又在随后的时间点削弱、扰乱甚至摧毁该景观（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]]）。
 
 
 > [!success] 城市形态：张力的空间表现

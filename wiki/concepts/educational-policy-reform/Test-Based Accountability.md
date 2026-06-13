@@ -47,7 +47,7 @@ updated: 2026-05-26
 > "a condition in which individual role holders are liable to review and the application of sanctions if their actions fail to satisfy those with whom they are in an accountability relationship"（Kogan, 1986, p.25）
 
 > [!quote]
-> 问责强调"the duty to account for one's actions"（Solbrekke & Englund, 2011, p.854，引自 Wang & McLaughlin, 2025, p.588）
+> 问责强调"the duty to account for one's actions"（Solbrekke & Englund, 2011, p.854，引自 [[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.588]]）
 
 ---
 

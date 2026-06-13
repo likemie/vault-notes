@@ -749,7 +749,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教学理论]]、一种学生学习和教师工作的理论。[[Argument_Terhart_2011_JCS|Terhart (2011, p.430-431)]]详细审查了这一宣称后发现严重的内容缺失：
 
-> [!critique-logic] 理论框架的三处内容缺失（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.430–431]]）
+> [!critique] 理论框架的三处内容缺失（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.430–431]]）
 > - **[[Karl Popper|Popper]] 三个世界理论的误用** Hattie 通过 Bereiter（2002）连接 Popper 的三个世界区分学习层次。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——段落"以相当联想和顽固的方式穿越学习理论领域"
 > - **[[Bildung]] 实质面的系统缺席** Hattie 仅发展了 Bildung 的形式理解，实质面（教育的具体内容）被完全忽略。全书仅抛出一句话："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p.27），而后不再展开
 > - **课程章节的内容真空** 名为"课程"的章节读者"再次发现关于某些专门化教学方法及其[[Effect Size|效应量]]的报告"——内容问题、学科教学意义、课程决策的合法化依据，"被完全忽略"
@@ -759,7 +759,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 ### 教育乐观主义与浪漫化的教师理想
 
-> [!critique-logic] 风格矛盾与结构性乐观主义（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]]）
+> [!tension] 风格矛盾与结构性乐观主义（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]]）
 > [[Argument_Terhart_2011_JCS|Terhart]] 注意到 [[Visible Learning|VL]] 中奇特的双重风格：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学"的段落。这种"压倒性的、旺盛的乐观主义"被诊断为现代版浪漫化"天生教师"理想——建立在"科学证据和高涨的教育精神"之上，却与数据中"常常相当怀疑和悲观的意涵"形成矛盾（p.435）。
 
 
@@ -982,8 +982,8 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 [[Argument_OConnor_2020_AJLL|O'Connor (2020, pp.149-150)]]记录了 Hattie 在 VL 中表达的明确意识形态立场：
 - 对[[Direct Instruction|直接教学]]的热情支持，对"[[Jean-Jacques Rousseau|卢梭]]式方法"（Rousseian inspired methods, p.258）、"促进和探究方法"（facilitative and inquiry methods）、"[[Constructivist Paradigm|建构主义]]潮流"（constructivist fad, p.243）的明确敌意
 - 将教师分为"作为激活者的教师"（teacher as activator，基于直接教学）vs."作为促进者的教师"（teacher as facilitator，包括探究式教学、小班教学、问题式学习、[[Whole Language|全语言]]）
-- 明确排除校外因素："关于阶级、贫困、家庭资源、家庭健康和营养的批判性讨论未被纳入"（Hattie, 2009, p.viii，引自 O'Connor, 2020, p.150）
-- 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp.7-32，引自 O'Connor, 2020, p.150）
+- 明确排除校外因素："关于阶级、贫困、家庭资源、家庭健康和营养的批判性讨论未被纳入"（Hattie, 2009, p.viii，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]]）
+- 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp.7-32，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]]）
 
 O'Connor 的结论：这些先验立场直接决定了数据选择与效应量修正——全语言案例中唯一被 Hattie 通过选择性删除研究来修正效应量的操作，正是在与其明确立场相符的方向上进行的。
 
@@ -1051,7 +1051,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 - 将成长仅定义为"达到下一个水平"（Hattie, in Waack, 2018）——窄化了成功的潜在含义
 - VL 诞生于 Brexit 和 Donald Trump 时代——民粹主义、能力主义、沙文主义和排外主义上升的时代——这些运动以对被视为外来的或他者的事物的侵略性和敌意政策为特征([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39]])
 - "Impact"一词（VL 的核心关注）意为"有力的接触"（Merriam-Webster, 2018），剑桥和牛津词典均以子弹和炮弹为例说明
-- "Know thy impact"带有圣经式语气，是在后结构主义和后现代对知识的质疑之后对确定性的加固——当确定性即将消融时的支撑([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40]])
+- "Know thy impact"带有圣经式语气，是在[[Post-structuralism|后结构主义]]和后现代对知识的质疑之后对确定性的加固——当确定性即将消融时的支撑([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40]])
 - 眼睛将其不足隐藏在傲慢背后，坚持看是唯一的方式；眼睛需要好斗，因为它本质上是由玻璃体冻胶构成的([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40-41]])
 - [[Positivism|实证主义]]科学研究的纪律只是另一种虚构，众多研究叙事之一([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
 
@@ -1134,7 +1134,7 @@ Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于
 
 ## 非学校因素的排除：[[Argument_Grace_2010_NZJES|Grace (2010)]] 的批评
 
-[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的"critic and conscience of society"角色存在根本矛盾([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Hattie 在 VL 前言中明确表示："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
+[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的"critic and conscience of society"角色存在根本矛盾([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Hattie 在 VL 前言中明确表示："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 [[Argument_Grace_2010_NZJES|Grace, 2010, p.90–91]]）。
 
 Grace 的核心论点是：这种排除产生了一个"还原主义和天真的观点"——认为仅靠改变教育安排就能解决教育成就不平等——这使政治家和政策制定者得以回避更根本的社会和经济不平等问题([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash（2003）的工作为对照，说明真正的教育学术批评应当将非学校因素置于分析的核心([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
 

@@ -51,9 +51,9 @@ updated: '2026-05-18'
 
 ## 定义
 
-全球教育产业（Global Education Industry, GEI）指教育实践、供给、研究和政策日益被经济理性渗透和形塑的现象——涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程。Verger et al. (2016) 将其定义为一种关于教育的新观念：教育被视为一个"日益全球化并由私营组织管理的部门"（Verger et al., 2016, p.3, cited in Parreira do Amaral, 2022, p.42）。
+全球教育产业（Global Education Industry, GEI）指教育实践、供给、研究和政策日益被经济理性渗透和形塑的现象——涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程。Verger et al. (2016) 将其定义为一种关于教育的新观念：教育被视为一个"日益全球化并由私营组织管理的部门"（Verger et al., 2016, p.3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。
 
-> "Education has become an economic enterprise unto itself, in which myriad actors produce, exchange, and consume educational goods and services, often on a for-profit basis." (Verger et al., 2016, p.4, cited in Parreira do Amaral, 2022, p.42)
+> "Education has become an economic enterprise unto itself, in which myriad actors produce, exchange, and consume educational goods and services, often on a for-profit basis." (Verger et al., 2016, p.4, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]])
 
 ---
 
@@ -79,7 +79,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 - **多重经济理性**：GEI 在经济化、市场化、私有化、商品化和金融化等多重过程中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）
-- **独立的规则系统**：GEI "由其自身的过程集合、规则系统和社会力量构成，这些要素相互作用于教育服务和商品的生产、供给和需求的产生中"（Verger et al., 2016, p.4, cited in Parreira do Amaral, 2022, p.42）
+- **独立的规则系统**：GEI "由其自身的过程集合、规则系统和社会力量构成，这些要素相互作用于教育服务和商品的生产、供给和需求的产生中"（Verger et al., 2016, p.4, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）
 - **多样化的行动者**：GEI 包含从跨国公司、慈善基金会、社会企业到私营教育提供者等多元行动者，它们通过平台、联盟和连接形成影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]]）
 - **教育想象的生产**：GEI 不仅是物质过程，也是话语生产——建构关于创新、现代化的教育想象，这些想象呼吁对我们已知的教育系统进行替代或颠覆([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.42–43]])
 - **全球渗透性**：GEI 的核心特征是建立在"以经济为基础的立论基础"上的概念已渗透到全球教育改革和重组之中([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]])
@@ -121,7 +121,7 @@ updated: '2026-05-18'
 
 ### 算法技术对教学关系的重塑
 
-[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022, pp.231–232)]]从 [[Bildung]] 的角度指出，GEI 中的数字技术——学习软件、App、学习平台——并非教育学上中立的工具。开发者、[[Coding in Qualitative Research|编码]]者和设计者通过编程将特定的学习主体假设和对教育的理解写入技术产品之中。Dieter 等人（2019, p.12）将特定企业的这种主导地位称为"硅谷帝国主义"（Silicon Valley imperialism）。这些"专有"（proprietorial）数字技术将"[[Knowledge Production|知识生产]]的手段集中在自己的手中"（Williamson, 2017, p.118, cited in Jornitz & Klinge, 2022, p.231）。
+[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022, pp.231–232)]]从 [[Bildung]] 的角度指出，GEI 中的数字技术——学习软件、App、学习平台——并非教育学上中立的工具。开发者、[[Coding in Qualitative Research|编码]]者和设计者通过编程将特定的学习主体假设和对教育的理解写入技术产品之中。Dieter 等人（2019, p.12）将特定企业的这种主导地位称为"硅谷帝国主义"（Silicon Valley imperialism）。这些"专有"（proprietorial）数字技术将"[[Knowledge Production|知识生产]]的手段集中在自己的手中"（Williamson, 2017, p.118, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.231]]）。
 
 这种集中不仅是经济上的——更是教育性的。因为这些技术在全球范围内流通时，同时传输了一种特定的教学实践和关于学习是什么的假设。数字学习平台具有"流线化全球教学设置的力量"([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.246]])，构成了数字[[Geopolitics of Knowledge|知识地缘政治]]的核心机制——它们否认文化和课程的差异，将学习标准化为全球统一的行为模式。详见 [[Argument_Jornitz_2022_Bildung_algorithmic]]。
 

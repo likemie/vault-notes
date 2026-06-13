@@ -48,7 +48,7 @@ updated: '2026-05-18'
 > - **学术领域的批评者（critic of the quality of research in an academic [[Champ|field]]）**：在学科内部对研究质量和假设进行技术性批判——这是教授们正常的"技术性和批判性学术工作"，关注的是教育系统内部的事务（如评估、教学、学习质量）
 > - **社会的批评者与良知（critic and conscience of society）**：必须将非学校因素（non-school factors）纳入所有关于教育成就差异的分析——因为这些因素"代表社会"，包括儿童和年轻人的生命机会（life chances）在文化和经济社会条件中的结构性分布
 >
-> Grace 指出，如果学术人选择了"critic and conscience of society"的角色，就无法合理地说出 Hattie 曾经说过的话："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
+> Grace 指出，如果学术人选择了"critic and conscience of society"的角色，就无法合理地说出 Hattie 曾经说过的话："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 [[Argument_Grace_2010_NZJES|Grace, 2010, p.90–91]]）。
 >
 > 这种"还原主义和天真的观点"——认为仅靠改变教育安排就能解决现有的教育成就不平等——对政治家和政策制定者来说非常方便，因为它转移了对更根本的社会和经济不平等问题的关注([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
 

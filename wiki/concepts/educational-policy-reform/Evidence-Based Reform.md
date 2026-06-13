@@ -133,7 +133,7 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 
 **教育处于"下降螺旋"**：政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决定性研究 → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"**：严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16–17]])
 
-[[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在涌现的政策窗口：
+[[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在[[Emergence|涌现]]的政策窗口：
 - **CSR 项目（1998）**：首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **No Child Left Behind（2001）**：全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 - **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的因果研究使用[[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])

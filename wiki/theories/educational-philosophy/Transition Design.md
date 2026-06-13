@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > 转型设计（Transition Design）是 [[Arturo Escobar]] 在 *Designs for the Pluriverse* (2018) 中系统阐述的社会变革框架。其核心主张是一个[[Ontology|本体论]]命题：**转型不是被设计出来的，而是涌现的**。
 >
-> > "The literature on transitions makes it clear that transitions are not designed but emergent. They depend on a mix of interacting processes, both self-organizing and other-organized (by humans)."（Escobar, 2018, p.152，引自 Amos, 2022, p.61）
+> > "The literature on transitions makes it clear that transitions are not designed but emergent. They depend on a mix of interacting processes, both self-organizing and other-organized (by humans)."（Escobar, 2018, p.152，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.61]]）
 >
 > 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出观察者看来是一个"新的整合整体的结构"，但这一结构没有中央计划者或智能引导整个过程([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
 >
