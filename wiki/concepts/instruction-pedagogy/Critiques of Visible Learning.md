@@ -729,6 +729,22 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 ## 教学理论与内容批评
 
+
+> [!logic-map] 批评结构：三路内容缺失 + 风格内部矛盾
+> ```mermaid
+> flowchart LR
+>     CLAIM["VL 声称具有教学理论框架"]
+>     P1["Popper 三世界理论误用"]
+>     P2["Bildung 实质面缺席"]
+>     P3["课程章节内容真空"]
+>     VERDICT["理论框架名存实亡"]
+>     OPT["枯燥数据 + 浪漫教师理想"]
+>     CONTRA["内部风格矛盾"]
+>     CLAIM --> P1 & P2 & P3
+>     P1 & P2 & P3 --> VERDICT
+>     OPT --> CONTRA
+> ```
+
 ### [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 教学理论的内容空洞
 
 Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教学理论]]、一种学生学习和教师工作的理论。[[Argument_Terhart_2011_JCS|Terhart (2011, p.430-431)]]详细审查了这一宣称后发现严重的内容缺失：

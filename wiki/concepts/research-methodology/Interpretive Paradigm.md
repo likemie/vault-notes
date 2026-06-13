@@ -38,11 +38,11 @@ updated: 2026-06-13
 ## 定义
 
 > [!def] 诠释[[Paradigm|范式]]（Interpretive Paradigm）
-> 与[[Positivism|实证主义]]相对的研究传统，其核心立场是：社会世界只能从参与行动的个体的立场来理解，研究者必须分享参与者的参照框架（frame of reference），从内部而非外部来理解人们对世界的解释（Cohen et al., 2011, Ch. 1）。
+> 与[[Positivism|实证主义]]相对的研究传统，其核心立场是：社会世界只能从参与行动的个体的立场来理解，研究者必须分享参与者的参照框架（frame of reference），从内部而非外部来理解人们对世界的解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心特征
 
-诠释／自然主义取向的共同特征包括（Cohen et al., 2011, Ch. 1）：
+诠释／自然主义取向的共同特征包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!finding-cards]
 > - **人的能动性** 人有意识地、创造性地行动，通过活动建构意义（Blumer, 1969）；人不是被动的"文化傀儡"（cultural dopes, Garfinkel, 1967）
@@ -54,7 +54,7 @@ updated: 2026-06-13
 
 ## 与规范性范式的区分
 
-Douglas（1973）提出了一对关键概念区分（Cohen et al., 2011, Ch. 1）：
+Douglas（1973）提出了一对关键概念区分（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!contrast-table] 规范性[[Paradigm|范式]] vs 诠释范式
 >
@@ -68,7 +68,7 @@ Douglas（1973）提出了一对关键概念区分（Cohen et al., 2011, Ch. 1�
 
 ## 三大研究传统
 
-在诠释[[Paradigm|范式]]之下，[[Phenomenology|现象学]]（Phenomenology）、[[Ethnomethodology|俗民方法学]]（Ethnomethodology）和[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）是三种核心的研究传统（Cohen et al., 2011, Ch. 1）。
+在诠释[[Paradigm|范式]]之下，[[Phenomenology|现象学]]（Phenomenology）、[[Ethnomethodology|俗民方法学]]（Ethnomethodology）和[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）是三种核心的研究传统（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 批评
 

@@ -16,6 +16,8 @@ citation: ""
 citation_aliases:
   - "Louis Cohen et al., 2011"
   - "Louis Cohen et al. (2011)"
+  - "Cohen et al., 2011"
+  - "Cohen et al. (2011)"
 tags:
   - method/research-methods
   - source/textbook

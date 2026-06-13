@@ -21,11 +21,11 @@ updated: 2026-06-13
 ## 定义
 
 > [!def] 科学方法（Scientific Method）
-> 一套系统性、经验性的研究程序。如果科学最显著的特征是其经验性质，那么第二重要的特征就是程序的可复制性——不仅显示发现是如何得出的，而且足够清晰，使同行科学家可以重复这些程序来检验结果（Cuff and Payne, 1979: 4）（Cohen et al., 2011, Ch. 1）。
+> 一套系统性、经验性的研究程序。如果科学最显著的特征是其经验性质，那么第二重要的特征就是程序的可复制性——不仅显示发现是如何得出的，而且足够清晰，使同行科学家可以重复这些程序来检验结果（Cuff and Payne, 1979: 4）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 科学的发展阶段
 
-Mouly（1978）将经验科学进程分为五步：经验 → 分类 → 量化 → 发现关系 → 逐步逼近真理。Hitchcock and Hughes（1995: 23）进一步提出八阶段科学方法模型（Cohen et al., 2011, Ch. 1）：
+Mouly（1978）将经验科学进程分为五步：经验 → 分类 → 量化 → 发现关系 → 逐步逼近真理。Hitchcock and Hughes（1995: 23）进一步提出八阶段科学方法模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!logic-map] 科学方法八阶段（Hitchcock & Hughes, 1995）
 > ```mermaid
@@ -41,7 +41,7 @@ Mouly（1978）将经验科学进程分为五步：经验 → 分类 → 量化 
 
 ## 科学的两种观点
 
-Kerlinger（1970）区分了两种科学观（Cohen et al., 2011, Ch. 1）：静态观（科学是系统化知识的积累）和动态观（科学是发现的活动，重点是科学的启发式性质）。Maslow（1954）列举了科学的九大功能，从问题寻找和假设产生到对人类用途的应用。
+Kerlinger（1970）区分了两种科学观（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：静态观（科学是系统化知识的积累）和动态观（科学是发现的活动，重点是科学的启发式性质）。Maslow（1954）列举了科学的九大功能，从问题寻找和假设产生到对人类用途的应用。
 
 ## 科学的九大功能（Maslow, 1954）
 

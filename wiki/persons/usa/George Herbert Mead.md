@@ -22,7 +22,7 @@ updated: 2026-06-13
 
 ## 基本信息
 
-乔治·赫伯特·米德（George Herbert Mead, 1934）是[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）的理论奠基者，其思想后经布卢默（Blumer）、休斯（Hughes）、贝克尔（Becker）和戈夫曼（Goffman）的发展，形成了[[Interpretive Paradigm|诠释范式]]中最具影响力的研究传统之一（Cohen et al., 2011, Ch. 1）。
+乔治·赫伯特·米德（George Herbert Mead, 1934）是[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）的理论奠基者，其思想后经布卢默（Blumer）、休斯（Hughes）、贝克尔（Becker）和戈夫曼（Goffman）的发展，形成了[[Interpretive Paradigm|诠释范式]]中最具影响力的研究传统之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心贡献
 
@@ -31,6 +31,6 @@ updated: 2026-06-13
 
 ### 扮演他人的角色
 
-米德提出的"扮演他人的角色"（taking the role of the other）是[[Symbolic Interactionism|符号互动论]]的核心机制：个体通过想象自己处于他人的位置、建构他人可能如何行动以及自己可能如何回应，来将自己的行动与他人的行动对齐（Cohen et al., 2011, Ch. 1）。
+米德提出的"扮演他人的角色"（taking the role of the other）是[[Symbolic Interactionism|符号互动论]]的核心机制：个体通过想象自己处于他人的位置、建构他人可能如何行动以及自己可能如何回应，来将自己的行动与他人的行动对齐（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
-Woods（1979）将米德的遗产概括为三个层层递进的基本假设：（1）人基于事物对其具有的意义来行动；（2）这一意义赋予是通过符号进行的持续过程；（3）这一过程发生在社会语境中，个体通过扮演他人角色来协调行动（Cohen et al., 2011, Ch. 1）。
+Woods（1979）将米德的遗产概括为三个层层递进的基本假设：（1）人基于事物对其具有的意义来行动；（2）这一意义赋予是通过符号进行的持续过程；（3）这一过程发生在社会语境中，个体通过扮演他人角色来协调行动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

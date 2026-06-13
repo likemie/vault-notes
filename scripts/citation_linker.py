@@ -31,6 +31,7 @@ OBSIDIAN_COMMENT_RE = re.compile(r"%%.*?%%", re.S)
 CODE_FENCE_RE = re.compile(r"```.*?```", re.S)
 
 AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]*(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
+LOCATOR_PATTERN = r"(?:\s*[,，]\s*(?:(?:p|pp|ch|chap)\.?\s*|chapter\s+)[^,，;）)]+|\s*:\s*[^,，;）)]+)"
 PAREN_GROUP_RE = re.compile(r"(?<!\[)\(([^()\n]*\b\d{4}[a-z]?[^()\n]*)\)")
 FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（([^（）\n]*\b\d{4}[a-z]?[^（）\n]*)）")
 PAREN_ITEM_RE = re.compile(
@@ -38,7 +39,7 @@ PAREN_ITEM_RE = re.compile(
     rf"(?P<author>{AUTHOR_PATTERN})"
     r"\s*(?P<sep>[,，])\s*"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*.+)?"
+    rf"(?P<locator>{LOCATOR_PATTERN})?"
     r"\s*$"
 )
 PAREN_ITEM_PREFIX_RE = re.compile(
@@ -46,7 +47,7 @@ PAREN_ITEM_PREFIX_RE = re.compile(
     rf"(?P<author>{AUTHOR_PATTERN})"
     r"\s*(?P<sep>[,，])\s*"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^,，;]+)?"
+    rf"(?P<locator>{LOCATOR_PATTERN})?"
     r"(?P<tail>\s*[,，].+)"
     r"\s*$"
 )
@@ -55,7 +56,7 @@ WIKILINK_PAREN_ITEM_RE = re.compile(
     r"(?P<link>\[\[[^\]\n]+\]\])"
     r"\s*(?P<sep>[,，])\s*"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^,，;]+)?"
+    rf"(?P<locator>{LOCATOR_PATTERN})?"
     r"(?P<tail>\s*[,，].+)?"
     r"\s*$"
 )
@@ -64,7 +65,7 @@ NARRATIVE_RE = re.compile(
     rf"(?P<author>{AUTHOR_PATTERN})"
     r"\s*[（(]"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?"
+    rf"(?P<locator>{LOCATOR_PATTERN})?"
     r"[）)]"
 )
 WIKILINK_NARRATIVE_RE = re.compile(
@@ -72,15 +73,15 @@ WIKILINK_NARRATIVE_RE = re.compile(
     r"(?P<link>\[\[[^\]\n]+\]\])"
     r"\s*[（(]"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^)）]+)?"
+    rf"(?P<locator>{LOCATOR_PATTERN})?"
     r"[）)]"
 )
 TAIL_CITATION_RE = re.compile(
-    r"(?P<label>(?:[,，]\s*)?(?:引自|引|cited in)\s*)"
+    r"(?P<label>(?:[,，]\s*(?:(?:引自|引|cited in)\s*)?|(?:引自|引|cited in)\s*))"
     rf"(?P<author>{AUTHOR_PATTERN})"
     r"\s*(?P<sep>[,，])\s*"
     r"(?P<year>\d{4}[a-z]?)"
-    r"(?P<locator>\s*[,，]\s*(?:p\.|pp\.)\s*[^;）)]+)?",
+    rf"(?P<locator>{LOCATOR_PATTERN})?",
     re.IGNORECASE,
 )
 
@@ -104,7 +105,18 @@ def run_git_changed() -> list[Path] | None:
     return paths
 
 
-def iter_target_markdown(full: bool) -> list[Path]:
+def iter_target_markdown(full: bool, paths: list[str] | None = None) -> list[Path]:
+    if paths:
+        targets: list[Path] = []
+        for raw in paths:
+            path = (ROOT / raw).resolve() if not Path(raw).is_absolute() else Path(raw).resolve()
+            try:
+                path.relative_to(ROOT)
+            except ValueError:
+                continue
+            if path.suffix.lower() == ".md" and WIKI_DIR in path.parents and path.exists():
+                targets.append(path)
+        return sorted(set(targets))
     if full:
         return sorted(WIKI_DIR.rglob("*.md")) if WIKI_DIR.exists() else []
     changed = run_git_changed()
@@ -340,6 +352,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Link APA short citations to Argument pages.")
     parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing.")
     parser.add_argument("--full", action="store_true", help="Process all wiki Markdown files.")
+    parser.add_argument("paths", nargs="*", help="Optional wiki Markdown files to process.")
     args = parser.parse_args()
 
     if not CITATION_FULL_JSON.exists():
@@ -350,7 +363,7 @@ def main() -> int:
     stats = {"linked_parenthetical": 0, "linked_narrative": 0}
     missing: list[str] = []
     changed = 0
-    for path in iter_target_markdown(full=args.full):
+    for path in iter_target_markdown(full=args.full, paths=args.paths):
         if should_skip(path):
             continue
         text = path.read_text(encoding="utf-8", errors="replace")

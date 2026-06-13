@@ -1,102 +1,50 @@
 ---
 title: Postpositivism
-aliases:
-  - 后实证主义
-  - post-positivism
-  - postpositivist worldview
-  - postpositivist
-summary: "一种主张知识具有推测性而非绝对性的研究哲学立场，持决定论和还原论，通过经验观察、测量和理论检验来逐步逼近对世界的理解"
+aliases: [后实证主义, post-positivism, postpositivist]
+summary: "一种挑战实证主义知识确定性的研究哲学立场，主张知识是推测性的、可证伪的、理论负载的，事实与价值不可分离。"
 type: concept
-domain: "research-methodology"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
-tags:
-  - research-philosophy
-  - quantitative-research
-  - epistemology
-  - paradigm/postpositivist
-related_concepts:
-  - "[[Positivism]]"
-  - "[[Scientific Method]]"
-  - "[[Variable]]"
-  - "[[Research Question]]"
-  - "[[Causality]]"
-  - "[[Falsification]]"
-  - "[[Paradigm]]"
-  - "[[Epistemology]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Pragmatic Paradigm]]"
-related_theories:
-  - "[[Phenomenology]]"
-related_methods:
-  - "[[Quantitative Research]]"
-  - "[[Qualitative Research]]"
-  - "[[Mixed Methods Research]]"
-related_persons:
-  - "[[Auguste Comte]]"
+tags: [paradigm/postpositivist, theme/epistemology, theme/research-philosophy]
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-confidence: medium
+confidence: high
 status: draft
-created: 2026-05-30
-updated: 2026-06-12
+created: 2026-06-13
+updated: 2026-06-14
 ---
 
 # Postpositivism
 
 ## 定义
 
-> [!info]
-> 后[[Positivism|实证主义]]（Postpositivism）是[[Quantitative Research|量化研究]]传统中最主要的研究哲学立场，有时也被称为[[Scientific Method|科学方法]]（scientific method）、实证科学（empirical science）或后实证主义研究。之所以称为"后"实证主义，是因为它代表了实证主义之后的思想转变，挑战了知识绝对真理的传统观念，承认在探究人类行为和行动时无法对知识主张获得绝对的确定性（Phillips & Burbules, 2000）。
+后实证主义挑战了现代主义的实证世界观——后者将世界描绘为一个有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、非人格的、基本不灵活的封闭系统（an ordered, controllable, predictable, standardized, mechanistic, deterministic, stable, objective, rational, impersonal, largely inflexible, closed system），其研究产生不可变的、普遍的法则和行为模式——一种"宏大叙事""元叙事"（a 'grand narrative', a 'metanarrative'），可通过科学方法直接研究（Cohen et al., 2011, Ch. 1）。
 
-## 核心要素
+与此相对，后实证主义遵循波普尔（Popper, 1968）的立场（Cohen et al., 2011, Ch. 1）：
 
-> [!abstract]
-> 后[[Positivism|实证主义]]世界观包含以下核心假设。
-> - **决定论（Determination）** 原因（可能地）决定效果或结果，研究旨在识别和评估影响结果的因果因素。
-> - **还原论（Reductionism）** 研究意图在于将思想还原为一组小型的、离散的[[Variable|变量]]来进行检验，如构成假设和[[Research Question|研究问题]]的变量。
-> - **经验观察与测量（Empirical Observation and Measurement）** 对客观世界中"存在那里"的现实进行仔细的观察和数值测量。
-> - **理论检验（Theory Verification）** 法则或理论支配着世界，这些理论需要被检验、验证和完善。研究者从理论出发，收集支持或反驳理论的数据，然后进行修正和进一步检验。
+> [!def] 后实证主义的核心立场
+> 关于世界的知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）。安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被尝试性的推测（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple perspectives and multiple warrants）；世界是多层次的（multilayered），能够容纳多重解释。
 
-## 理论基础
-
-> [!tip]
-> 后[[Positivism|实证主义]]传统可追溯至 19 世纪的 [[Auguste Comte|Comte]]、Mill、Durkheim、Newton 和 Locke（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键假设。
-> - 知识是推测性的（反基础主义的），绝对真理永远无法被找到。因此，研究者不"证明"假设，只指出未能拒绝假设。
-> - 研究是提出主张、然后完善或放弃一些主张以换取更有力证据支持的主张的过程。
-> - 数据、证据和理性考量塑造知识。
-> - 研究寻求发展相关的、真实的陈述，以解释关注的情境或描述感兴趣的[[Causality|因果关系]]。
-> - 客观性是合格探究的基本要素，研究者必须检查方法和结论是否存在偏见（如量化的效度和信度标准）。
-
-## 对实证主义核心假设的挑战
-
-后[[Positivism|实证主义]]对现代主义的实证世界观提出了根本性挑战。实证主义的现代主义世界观将世界描绘为一个有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、非人格的、基本不灵活的封闭系统（一种"宏大叙事""元叙事"），可通过[[Scientific Method|科学方法]]直接研究（pp.729–734）。后实证主义反对这一图景：
+## 核心主张
 
 > [!finding-cards]
-> - 遵循波普尔（Popper, 1968），我们关于世界的知识是**推测性的**（conjectural）、**可[[Falsification|证伪]]的**（falsifiable）、**可挑战的**、**变化中的**
-> - 安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被**尝试性的推测**（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple warrants）
-> - **事实和观察是理论负载和价值负载的**（theory-laden and value-laden, Popper, 1980; Feyerabend, 1975; Reichardt and Rallis, 1994）
-> - 事实和理论是**可错的**（fallible），不同理论可能支持特定的观察/事实
-> - 社会事实，甚至思维方式和观察方式，都是**社会建构**，而非客观和普遍真实的（Nisbett, 2005）
-> - 实证主义中**事实与价值的分离不可持续**：我们的价值观、视角、[[Paradigm|范式]]，甚至研究共同体，决定了我们关注什么、如何研究、什么算作知识以及如何解释研究发现
+> - **事实与观察是理论负载和价值负载的**（facts and observations are theory-laden and value-laden, Popper, 1980; Feyerabend, 1975; Reichardt and Rallis, 1994）——实证主义中事实与价值的分离（the separation of fact and value）不可持续
+> - **事实和理论是可错的**（facts and theories are fallible），不同理论可能支持特定的观察或事实
+> - **社会事实是社会的建构**（social constructions rather than objectively and universally true）——甚至思维方式和观察方式都是社会建构（Nisbett, 2005）
+> - **研究受价值观驱动**——研究者的价值观、视角、范式乃至研究共同体，决定了关注什么、如何研究、什么算作重要、什么算作知识、研究"显示"了什么、如何解释研究发现，以及什么构成"好的"研究
 
-## 客体实在与多重诠释之间
+## 两种取向
 
-后[[Positivism|实证主义]]在这一问题上呈现两种取向（pp.733–734）：
+后实证主义在实在观上呈现两种取向（Cohen et al., 2011, Ch. 1）：
 
 > [!line-a] 多元实在论
-> 主张客观实在的持续存在，但采取**多元主义**（pluralist）的观点——存在多重共存的实在，而非单一实在。
+> 主张客观实在持续存在（the continuing existence of an objective reality），但采取多元主义观点——存在多重共存的实在（multiple, coexisting realities），而非单一实在。
 
 > [!line-b] 主观诠释取向
-> 与[[Phenomenology|现象学]]、诠释的研究取向有亲缘性，主张研究者和研究参与者对现象的**主观的、多元的诠释**的中心地位。
+> 与现象学、诠释的研究取向有亲缘性（an affinity with the phenomenological, interpretive approaches），主张研究者和研究参与各方对现象的主观、多元诠释的中心地位（the centrality of the subjective and multiple interpretations）。
 
-这种双重取向使后实证主义既与传统的实证主义保持了连续性，又为诠释、[[Qualitative Research|质性研究]]打开了大门，并为[[Mixed Methods Research|混合方法研究]]提供了[[Epistemology|认识论]]桥梁。
+## 共同主张
 
-## 概念辨析
-
-> [!example]
-> - vs [[Constructivist Paradigm]] — 后[[Positivism|实证主义]]从既有理论出发进行演绎检验，建构主义从数据出发进行归纳生成。前者追求客观性和可推广性，后者注重参与者的主观意义和情境理解。
-> - vs [[Pragmatic Paradigm]] — 实用主义不以任何单一哲学体系为皈依，关注问题的实际解决，不追求理论的真伪检验。
-
+后实证主义、后现代主义与后结构主义三者之间存在亲和性：它们共同支撑着诠释和质性研究取向、复杂性理论和批判理论；共同强调个体和主观叙述在研究过程中的重要性以及研究者的反思性。三者主张为多重解释提供空间（multiple interpretations of a phenomenon to be provided），赋予个体声音以合法性（accord legitimacy to individual voices），放弃对决定论的、简单的线性因果行为法则的寻求。但教材也审慎指出，许多后实证主义者会拒绝如此简单的亲缘归类（Cohen et al., 2011, Ch. 1）。

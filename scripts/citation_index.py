@@ -162,9 +162,35 @@ def author_label(author: str) -> str:
     return author
 
 
+def western_surname_label(author: str) -> str:
+    author = author_label(author)
+    if not author or has_cjk(author) or "," in author:
+        return ""
+    if not re.search(r"[A-Za-zÀ-ÖØ-öø-ÿ]", author):
+        return ""
+    parts = author.split()
+    if len(parts) < 2:
+        return ""
+    for idx, part in enumerate(parts):
+        if idx > 0 and part[:1].islower():
+            return " ".join(parts[idx - 1:])
+    return parts[-1]
+
+
 def author_part(authors: list[str]) -> str:
     labels = [author_label(a) for a in authors if author_label(a)]
     if not labels:
+        return ""
+    if len(labels) == 1:
+        return labels[0]
+    if len(labels) == 2:
+        return f"{labels[0]} & {labels[1]}"
+    return f"{labels[0]} et al."
+
+
+def surname_author_part(authors: list[str]) -> str:
+    labels = [western_surname_label(a) for a in authors if western_surname_label(a)]
+    if len(labels) != len(authors) or not labels:
         return ""
     if len(labels) == 1:
         return labels[0]
@@ -217,7 +243,7 @@ def aliases_for_parts(parts: list[str], year: str) -> list[str]:
 
 
 def aliases_for(authors: list[str], year: str, citation: str = "") -> list[str]:
-    parts = [author_part(authors)]
+    parts = [author_part(authors), surname_author_part(authors)]
     chinese_part = chinese_author_part(citation, re.sub(r"[a-z]$", "", year))
     if chinese_part:
         parts.append(chinese_part)

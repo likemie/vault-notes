@@ -4877,7 +4877,9 @@
       "nomothetic",
       "idiographic",
       "nomothetic approach",
-      "idiographic approach"
+      "idiographic approach",
+      "通则式",
+      "个例式"
     ]
   },
   {
@@ -4900,6 +4902,16 @@
       "虚无假设",
       "无差异假设",
       "null hypotheses"
+    ]
+  },
+  {
+    "title": "Objectivism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Objectivism.md",
+    "aliases": [
+      "客观主义",
+      "objectivist approach",
+      "objectivist paradigm"
     ]
   },
   {
@@ -4958,13 +4970,32 @@
     ]
   },
   {
+    "title": "Post-structuralism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Post-structuralism.md",
+    "aliases": [
+      "后结构主义",
+      "post-structuralist",
+      "poststructuralism"
+    ]
+  },
+  {
+    "title": "Postmodernism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Postmodernism.md",
+    "aliases": [
+      "后现代主义",
+      "postmodern",
+      "postmodernist"
+    ]
+  },
+  {
     "title": "Postpositivism",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Postpositivism.md",
     "aliases": [
       "后实证主义",
       "post-positivism",
-      "postpositivist worldview",
       "postpositivist"
     ]
   },
@@ -5288,6 +5319,16 @@
       "目标总体",
       "研究样本",
       "target population"
+    ]
+  },
+  {
+    "title": "Subjectivism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Subjectivism.md",
+    "aliases": [
+      "主观主义",
+      "subjectivist approach",
+      "subjectivist paradigm"
     ]
   },
   {
