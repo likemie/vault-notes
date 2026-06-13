@@ -21,7 +21,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Sampling]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Between-Subjects and Within-Subjects Designs]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -72,5 +71,5 @@ updated: 2026-05-31
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 [[Between-Subjects and Within-Subjects Designs|混合设计]]的价值肯定压力研究为例，说明实验者使用随机数生成器将受试者随机分配到价值肯定条件或控制条件中。（Ch8, Example 8.5）
+> - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 混合设计的价值肯定压力研究为例，说明实验者使用随机数生成器将受试者随机分配到价值肯定条件或控制条件中。（Ch8, Example 8.5）
 

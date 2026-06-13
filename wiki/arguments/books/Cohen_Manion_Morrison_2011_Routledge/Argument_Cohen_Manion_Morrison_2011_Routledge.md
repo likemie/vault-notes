@@ -30,7 +30,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Scientific Method]]"
   - "[[Multiplicity]]"
-  - "[[Falsification]]"
   - "[[Postpositivism]]"
   - "[[Reflexivity]]"
   - "[[Incommensurability]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Variable]]"
+  - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Scientism]]"
   - "[[Self-Efficacy]]"
@@ -49,7 +49,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
   - "[[Research Question]]"
-  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Data Transformation]]"
   - "[[Purpose Statement]]"
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
@@ -71,7 +71,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Triangulation]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:
@@ -150,7 +149,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 > [!timeline]
 > - **古希腊至文艺复兴**：亚里士多德的三段论(syllogism)——大前提(先验命题)+ 小前提(特例)+ 结论。例如："所有行星绕太阳运行；地球是行星；因此地球绕太阳运行。"局限在于：前提可能是先入之见，脱离观察后沦为纯粹的心智练习，经验证据被权威引用所取代，科学变得贫瘠
 > - **17世纪(培根革命)**：[[Francis Bacon|弗朗西斯·培根]]([[Francis Bacon]])批评演绎法的前提偏见，提出归纳推理(inductive reasoning)——从大量个别案例的观察出发，逐步形成假设和概括。核心信念：即使没有关于数据意义的先入之见，警觉的观察者也能够发现重要的关系和法则
-> - **现代**：归纳–演绎结合法(inductive-deductive approach)——研究者在归纳(从观察到假设、从具体到一般)和演绎(从假设到推论)之间反复往返，[[Falsification|严格检验]]假设并根据需要修正
+> - **现代**：归纳–演绎结合法(inductive-deductive approach)——研究者在归纳(从观察到假设、从具体到一般)和演绎(从假设到推论)之间反复往返，严格检验假设并根据需要修正
 
 **研究(research)** 被 Kerlinger (1970)定义为"对关于自然现象之间假定关系的假设性命题的系统、受控、经验与批判性考察"。与日常经验相比，研究有三个独特特征(pp.115–116)：
 
@@ -358,7 +357,7 @@ Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990
 > - **解释与预测力** 应具有相当大的解释力和预测潜力
 > - **回应异常** 应能回应观察到的异常，被反驳的假设构成理论不充分的间接证据
 > - **生育力** 应能催生研究事业(Siegel, 1987 称之为 fertility)
-> - **可证伪性** 应阐明自身的[[Falsification|证伪]]和验证条件，识别"严格检验"(severe test)的性质和操作(Popper, 1968)，在与产生理论不同的语境中进行检验
+> - **[[Falsification|可证伪性]]** 应阐明自身的[[Falsification|证伪]]和验证条件，识别"严格检验"(severe test)的性质和操作(Popper, 1968)，在与产生理论不同的语境中进行检验
 > - **可操作化** 必须可精确操作化
 > - **可复制性** 理论的检验必须是可复制的
 
@@ -544,7 +543,7 @@ Denscombe (2008)还从库恩的范式论出发，主张将混合方法范式定�
 Caracelli and Greene (1993)提出四种整合策略(pp.669–678)：
 
 > [!finding-cards]
-> - **[[Data Transformation in Mixed Methods|数据转换]]**(data transformation) 质性数据被"量化"(quantitized)——例如给特定回应、编码或主题赋予频率计数或强度评定量表；量化数据被"质化"(qualitized)——转换为叙事然后用质性分析程序处理
+> - **[[Data Transformation|数据转换]]**(data transformation) 质性数据被"量化"(quantitized)——例如给特定回应、编码或主题赋予频率计数或强度评定量表；量化数据被"质化"(qualitized)——转换为叙事然后用质性分析程序处理
 > - **类型学发展**(typology development) 从一组数据产生的分类被应用到另一组数据
 > - **极端案例分析**(extreme case analysis) 在一种数据中发现的极端值使用不同数据和方法探索
 > - **数据合并**(data consolidation/merging) 通过合并数据创建新变量
@@ -578,7 +577,7 @@ Caracelli and Greene (1993)提出四种整合策略(pp.669–678)：
 Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一套与 Creswell 三种核心设计互补的体系：
 
 > [!designs] 六种混合方法设计 (Teddlie & Tashakkori, 2009)
-> - **平行[[Between-Subjects and Within-Subjects Designs|混合设计]]**(parallel / concurrent) 量化和质性方法同时独立运行(类似于[[Triangulation|三角验证]])
+> - **平行混合设计**(parallel / concurrent) 量化和质性方法同时独立运行(类似于[[Triangulation|三角验证]])
 > - **顺序混合设计**(sequential) 量化和质性方法一先一后，一条研究线索决定后续线索
 > - **准混合设计**(quasi-mixed) 两种数据都收集但**不整合**——量化数据回答一个问题，质性数据回答另一个
 > - **转换混合设计**(conversion) 数据在平行设计中被转换(质性转量化或反之)

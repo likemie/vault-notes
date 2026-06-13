@@ -94,7 +94,7 @@ related_concepts:
   - "[[Qualitative Generalization]]"
   - "[[Multimethod Research]]"
   - "[[Open-Ended and Closed-Ended Data]]"
-  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Data Transformation]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Attribution Theory]]"
@@ -505,7 +505,7 @@ citation_aliases:
 > “彩虹的比喻可以帮助想象理论是如何运作的。假设彩虹在自变量和因变量（或构念）之间架起了一座桥梁。这条彩虹将变量联系在一起，并为我们为何以及如何预期自变量能解释或预测因变量提供了一个总体解释。”
 > ("The metaphor of a rainbow can help visualize how a theory operates. Assume that the rainbow bridges the independent and dependent variables (or constructs). This rainbow ties together the variables and provides an overarching explanation for how and why one would expect the independent variables to explain or predict the dependent variables.")（第3章, p.53）
 
-理论通过反复检验预测而发展。研究者将变量组合为基于不同测量形式的问题，形成[[Hypothesis|预测性假设]]，在不同情境和人群中反复检验，最终理论浮现并被命名（如[[Attribution Theory|归因理论]]）。
+理论通过反复检验预测而发展。研究者将变量组合为基于不同测量形式的问题，形成预测性假设，在不同情境和人群中反复检验，最终理论浮现并被命名（如[[Attribution Theory|归因理论]]）。
 
 > [!quote]
 > “理论作为一种解释而发展，以推进各个领域的知识。”
@@ -1299,7 +1299,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > Source: Creswell & Creswell, 2022, Ch8
 
 > [!example] Example 8.5：价值肯定压力研究(Creswell et al., 2005)
-> 检验自我肯定活动能否缓冲实验室压力挑战任务的应激反应（唾液皮质醇），采用 2 × 4 [[Between-Subjects and Within-Subjects Designs|混合设计]]（价值肯定条件为受试者间变量，时间四水平为受试者内变量）。85 名本科生样本基于 G*Power 功效分析预先计算；实验程序控制皮质醇昼夜节律（下午 2:30–7:30）；使用随机数生成器分配条件；[[Cover Story|封面故事]]告知研究关注"生理反应对实验室表现任务的响应"；最后解除欺骗。
+> 检验自我肯定活动能否缓冲实验室压力挑战任务的应激反应（唾液皮质醇），采用 2 × 4 混合设计（价值肯定条件为受试者间变量，时间四水平为受试者内变量）。85 名本科生样本基于 G*Power 功效分析预先计算；实验程序控制皮质醇昼夜节律（下午 2:30–7:30）；使用随机数生成器分配条件；[[Cover Story|封面故事]]告知研究关注"生理反应对实验室表现任务的响应"；最后解除欺骗。
 
 ---
 
@@ -1590,7 +1590,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 #### 三种核心设计：聚敛、解释性序列、探索性序列
 
-三种核心设计的划分依据是整合的意图和程序。[[Convergent Design|聚敛式设计]]通过**合并**（merging）来比较量化与质性结果，源于 Campbell & Fiske (1959) 的多方法多特质思想，为单阶段设计，整合分析有并排比较、[[Data Transformation in Mixed Methods|数据转换]]和[[Joint Display|联合展示]]三种方式。[[Explanatory Sequential Design|解释性序列设计]]通过**连接**（connecting）来用质性数据解释量化结果，两阶段设计，质性样本必须是量化样本的子集。[[Exploratory Sequential Design|探索性序列设计]]通过**连接**让质性探索指导量化工具的开发与检验，三阶段设计，质性样本不应包含在量化阶段中——与解释性序列正相反。
+三种核心设计的划分依据是整合的意图和程序。[[Convergent Design|聚敛式设计]]通过**合并**（merging）来比较量化与质性结果，源于 Campbell & Fiske (1959) 的多方法多特质思想，为单阶段设计，整合分析有并排比较、[[Data Transformation|数据转换]]和[[Joint Display|联合展示]]三种方式。[[Explanatory Sequential Design|解释性序列设计]]通过**连接**（connecting）来用质性数据解释量化结果，两阶段设计，质性样本必须是量化样本的子集。[[Exploratory Sequential Design|探索性序列设计]]通过**连接**让质性探索指导量化工具的开发与检验，三阶段设计，质性样本不应包含在量化阶段中——与解释性序列正相反。
 
 三种设计的整合分析都使用联合展示作为标准工具，从中提取[[Metainferences|元推论]]——聚敛式聚焦于确认或分歧，解释性序列聚焦于延伸和细化，探索性序列聚焦于检验和适切性。每种设计有其特有的效度威胁：聚敛式需注意未跟进分歧、比较基础不明确、样本量差异；解释性序列需注意未穷尽跟进选项、仅关注人口学变量、两阶段样本不一致；探索性序列需注意测量工具开发不严谨、质性发现未被充分利用、样本混淆。详细讨论与联合展示模板（表10.2–10.4）见各设计条目：[[Convergent Design]]、[[Explanatory Sequential Design]]、[[Exploratory Sequential Design]]。
 

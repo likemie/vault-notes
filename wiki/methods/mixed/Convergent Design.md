@@ -17,7 +17,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Paradigm]]"
   - "[[Central Phenomenon]]"
-  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Data Transformation]]"
   - "[[Metainferences]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Qualitative Validity]]"
@@ -113,7 +113,7 @@ updated: 2026-06-02
 **阶段 2：混合方法合并 (Merging)**
 这是整合的核心，有三种主流方式：
 - **并排比较 (Side-by-side comparison)**：在讨论部分先后报告量化和质性发现。在今日混合方法文献中已较少见。
-- **[[Data Transformation in Mixed Methods|数据转换]] (Data transformation)**：将质性主题或编码转化为量化变量（计数并分组），然后合并两个量化数据库。在量化训练背景的研究者中较受欢迎；具体转换程序可参考 Onwuegbuzie & Leech (2006)。
+- **[[Data Transformation|数据转换]] (Data transformation)**：将质性主题或编码转化为量化变量（计数并分组），然后合并两个量化数据库。在量化训练背景的研究者中较受欢迎；具体转换程序可参考 Onwuegbuzie & Leech (2006)。
 - **[[Joint Display|联合展示]] (Joint display)**：在表格或图表中合并呈现两组数据。已成为[[Mixed Methods Research|混合方法研究]]整合的标准程序。
 
 **阶段 3：提取[[Metainferences|元推论]]**

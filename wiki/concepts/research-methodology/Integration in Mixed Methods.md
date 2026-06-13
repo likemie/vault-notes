@@ -18,7 +18,7 @@ tags:
   - data-integration
 related_concepts:
   - "[[Metainferences]]"
-  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Data Transformation]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -80,7 +80,7 @@ updated: 2026-06-02
 > 2. 分析量化数据库（统计结果）
 > 3. 进行[[Mixed Methods Research|混合方法]]整合分析，有三种方式：
 >    - 并排比较（side-by-side）：在讨论部分先后报告两组发现
->    - [[Data Transformation in Mixed Methods|数据转换]]（data transformation）：将质性主题转化为量化[[Variable|变量]]后合并分析
+>    - [[Data Transformation|数据转换]]（data transformation）：将质性主题转化为量化[[Variable|变量]]后合并分析
 >    - [[Joint Display|联合展示]]（joint display）：在表格或图表中合并呈现两组数据
 >
 > **序列设计的整合分析**：在分别分析两个阶段的数据后，通过联合展示将前一阶段的结果与后一阶段的数据并排，从左到右（或从前到后）追踪设计程序中的连接关系。

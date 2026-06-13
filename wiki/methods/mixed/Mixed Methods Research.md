@@ -14,14 +14,13 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
-  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Data Transformation]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Purpose Statement]]"
   - "[[Multimethod Research]]"
 related_theories: []
 related_methods:
-  - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Triangulation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Convergent Design]]"
@@ -76,7 +75,7 @@ updated: 2026-06-14
 Teddlie and Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!designs] 六种混合方法设计（Teddlie & Tashakkori, 2009）
-> - **平行[[Between-Subjects and Within-Subjects Designs|混合设计]]**（parallel / concurrent）量化和质性方法同时独立运行（类似于[[Triangulation|三角验证]]的传统概念）
+> - **平行混合设计**（parallel / concurrent）量化和质性方法同时独立运行（类似于[[Triangulation|三角验证]]的传统概念）
 > - **顺序混合设计**（sequential）量化和质性方法一先一后，一条研究线索决定后续线索
 > - **准混合设计**（quasi-mixed）两种数据都收集但不整合——量化数据回答一个问题，质性数据回答另一个
 > - **转换混合设计**（conversion）数据在平行设计中被转换（质性转量化或反之）
@@ -90,7 +89,7 @@ Teddlie and Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Mo
 Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!finding-cards]
-> - **[[Data Transformation in Mixed Methods|数据转换]]**（data transformation）质性数据被"量化"（quantitized）——给特定回应、[[Coding in Qualitative Research|编码]]或主题赋予频率计数或强度评定量表；量化数据被"质化"（qualitized）——转换为叙事后用质性分析程序处理
+> - **[[Data Transformation|数据转换]]**（data transformation）质性数据被"量化"（quantitized）——给特定回应、[[Coding in Qualitative Research|编码]]或主题赋予频率计数或强度评定量表；量化数据被"质化"（qualitized）——转换为叙事后用质性分析程序处理
 > - **类型学发展**（typology development）从一组数据产生的分类被应用到另一组数据
 > - **极端案例分析**（extreme case analysis）在一种数据中发现的极端值使用不同数据和方法探索
 > - **数据合并**（data consolidation/merging）通过合并数据创建新[[Variable|变量]]
