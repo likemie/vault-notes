@@ -21,6 +21,7 @@ related_concepts:
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Fourth Industrial Revolution]]"
+  - "[[Incommensurability]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Junzi]]"

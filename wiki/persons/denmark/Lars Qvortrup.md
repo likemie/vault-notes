@@ -14,6 +14,7 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Epistemology]]"
   - "[[Structural Coupling]]"
   - "[[Didaktik]]"
   - "[[Hypothesis]]"

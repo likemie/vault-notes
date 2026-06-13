@@ -17,7 +17,9 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
+  - "[[Epistemology]]"
   - "[[Narrative Knowledge]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []

@@ -18,11 +18,15 @@ related_concepts:
   - "[[Causality]]"
   - "[[Chain-linked Model]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Learning Economy]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Knowledge Exchange]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
 confidence: medium

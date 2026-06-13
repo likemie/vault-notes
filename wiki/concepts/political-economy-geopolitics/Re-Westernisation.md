@@ -19,6 +19,7 @@ tags:
   - subject/comparative-education
   - region/global
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Revolutionism]]"
 related_theories: []
 related_methods: []

@@ -18,6 +18,7 @@ tags:
   - level/higher-ed
   - region/china
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Western Learner]]"
   - "[[Problem-Based Learning]]"

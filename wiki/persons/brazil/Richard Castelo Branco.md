@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemology of Resistance]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Ganz-Methode]]"
   - "[[Life Power]]"
 related_theories:

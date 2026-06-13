@@ -36,8 +36,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
-  - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-09

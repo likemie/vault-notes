@@ -20,6 +20,7 @@ tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
   - "[[Absorptive Capacity]]"
@@ -48,7 +49,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 创新政策范式（Innovation Policy Paradigms）指 Schot 和 Steinmueller（2018）与 Lindner 等人（2024）识别的、自 1940 年代以来美国、英国和欧洲国家科技创新政策所经历的三个范式阶段。每个范式代表了国家对"创新应该如何被推动"这一根本问题的不同回答，以及与之对应的不同政策工具、制度安排和大学角色定位([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])。
+> 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms）指 Schot 和 Steinmueller（2018）与 Lindner 等人（2024）识别的、自 1940 年代以来美国、英国和欧洲国家科技创新政策所经历的三个范式阶段。每个范式代表了国家对"创新应该如何被推动"这一根本问题的不同回答，以及与之对应的不同政策工具、制度安排和大学角色定位([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])。
 
 > 三个范式的递进逻辑不是后者否定前者，而是**每一次递进都发现了前一个范式的盲区**——先认识到科学能推动增长 → 然后发现光有科学不够，整个系统都得配好套 → 再然后发现光配好套还不够，还得有人指方向([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])。
 
@@ -79,7 +80,7 @@ updated: 2026-05-27
 
 **核心逻辑**：创新是在特定制度环境下，多行动者（大学、企业、政府实验室、投资者等）通过市场和非市场互动进行知识交换和集体学习的系统活动（Lundvall et al., 2002; Edquist, 1997）。
 
-**范式转换的驱动力**（pp.29–31）：
+**[[Paradigm|范式转换]]的驱动力**（pp.29–31）：
 - 创新不是线性的——它涉及多行动者的双向互动
 - 制度不只是背景——法律、金融、文化本身构成创新的"硬件"
 - 隐性知识不能忽略——人与人之间的 know-how 与论文专利同样关键
@@ -117,14 +118,14 @@ updated: 2026-05-27
 | **大学角色** | [[Knowledge Production\|知识生产]]者+人才培养 | 系统催化剂+互动伙伴 | 中立召集者+方向贡献者 |
 | **关键机制** | 政府拨款、IP 保护、税收抵免 | 网络建设、[[Absorptive Capacity\|吸收能力]]、创业催化 | 使命设定、实验学习、多方联盟 |
 | **核心失灵** | 市场失灵 | 系统失灵（6 种） | 转型失灵（4 种） |
-| **成熟度** | 已验证但被超越 | 当前主导范式 | 规范性愿景，证据有限 |
+| **成熟度** | 已验证但被超越 | 当前主导[[Paradigm\|范式]] | 规范性愿景，证据有限 |
 
 ---
 
 ## 理论基础
 
 > [!tip]
-> - Schot & Steinmueller（2018）"Three Frames for Innovation Policy"——三范式框架的原始出处，发表于 Research Policy
+> - Schot & Steinmueller（2018）"Three Frames for Innovation Policy"——三[[Paradigm|范式]]框架的原始出处，发表于 Research Policy
 > - Lindner et al.（2024）——将三范式定位于"科学推动与政策拉动之间"的更广历史分析中
 > - [[Systems of Innovation]]——第二个范式的理论基础
 > - [[Transformative Change]]——第三个范式的核心内容
@@ -135,7 +136,7 @@ updated: 2026-05-27
 ## 实证发现
 
 > [!success]
-> - 系统创新政策范式当前在包括英国、美国和大部分欧洲国家在内的许多国家占据主导地位（p.34）
+> - 系统创新政策[[Paradigm|范式]]当前在包括英国、美国和大部分欧洲国家在内的许多国家占据主导地位（p.34）
 > - 三范式在现实中并非纯粹存在——一个国家可能同时运行多个范式的政策工具。例如：美国同时拥有大规模的大学基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]（范式二）和 [[CHIPS and Science Act|CHIPS Act]] 的区域创新引擎计划（范式三要素）（pp.43–44）
 > - 英国从范式一向范式二的过渡尤为清晰：1993 年白皮书 *Realising Our Potential* 是转折点，1999 年引入的公式化长期[[Knowledge Exchange|知识交流]]拨款标志着系统范式的制度化（pp.40–43）
 
@@ -144,7 +145,7 @@ updated: 2026-05-27
 ## 争议与批评
 
 > [!warning]
-> - **范式递进是否过于简化？** 三范式框架将复杂的历史政策演变压缩为三个阶段，可能低估了各国政策路径的差异和非线性特征
+> - **[[Paradigm|范式]]递进是否过于简化？** 三范式框架将复杂的历史政策演变压缩为三个阶段，可能低估了各国政策路径的差异和非线性特征
 > - **[[Transformative Change|变革转型范式]]的可行性**：要求政府具备远超传统政策工具的战略规划、跨部门协调和社会选择能力——在政治极化和短期选举周期下是否可行存在疑问（详见 [[Transformative Change#争议与批评]]）
 > - **大学角色扩展的边界**：从"[[Knowledge Production|知识生产]]者"到"系统催化剂"再到"方向贡献者"——大学是否具备承担所有这些角色的制度能力和组织意愿？是否存在角色过载的风险？
 

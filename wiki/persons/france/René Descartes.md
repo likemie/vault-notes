@@ -16,7 +16,9 @@ tags:
 - theme/knowledge
 - theme/learning
 - theme/metaphysics
-related_concepts: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
 related_theories: []
 related_methods: []
 related_persons:

@@ -14,6 +14,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Whole Language]]"
+  - "[[Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
 related_theories: []
@@ -74,7 +75,7 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 在社会文化层面，[[Whole Language|全语言]]运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]])
-> - Goodman 的心理语言学阅读模型挑战了当时主导的行为主义阅读教学范式，将焦点从可观察的技能表现转向读者的认知过程
+> - Goodman 的心理语言学阅读模型挑战了当时主导的行为主义阅读教学[[Paradigm|范式]]，将焦点从可观察的技能表现转向读者的认知过程
 > - 全语言运动深刻影响了英语国家的读写教学，同时也引发了激烈的"阅读战争"——与系统合成语音（synthetic phonics）支持者之间的长期公开辩论
 
 ## 争议与批评

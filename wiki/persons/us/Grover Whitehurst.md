@@ -13,6 +13,7 @@ tags:
 - oeri
 - region/us
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -45,7 +46,7 @@ updated: '2026-06-08'
 >
 > 3. **战略计划 2002–2007**：制定了到 2004 年 75% 的 OERI 资助的因果研究使用[[Random Assignment|随机分配]]设计的目标——当时该比例估计不足 5%。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 >
-> > Whitehurst 的行动标志着联邦教育研究政策的分水岭——从宽松的"方法多元"范式转向以 RCT 为中心的严格证据等级制。
+> > Whitehurst 的行动标志着联邦教育研究政策的分水岭——从宽松的"方法多元"[[Paradigm|范式]]转向以 RCT 为中心的严格证据等级制。
 
 ## 主要贡献
 

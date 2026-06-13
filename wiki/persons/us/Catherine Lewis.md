@@ -11,7 +11,9 @@ tags:
 - improvement-science
 - education-research
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Scientific Method]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Improvement Science]]"

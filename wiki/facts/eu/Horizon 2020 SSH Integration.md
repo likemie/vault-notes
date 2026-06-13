@@ -17,11 +17,14 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Regionalisms]]"
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
   - "[[Regulatory Regionalism]]"
 related_theories:
   - "[[Critical Geopolitics]]"

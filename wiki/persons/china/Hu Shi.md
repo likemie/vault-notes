@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
+  - "[[Scientific Method]]"
   - "[[Scientism]]"
 related_theories: []
 related_methods: []

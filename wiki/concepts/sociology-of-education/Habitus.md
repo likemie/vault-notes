@@ -17,6 +17,8 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
+  - "[[Subjectivism]]"
+  - "[[Objectivism]]"
   - "[[Reflexivity]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
@@ -79,7 +81,7 @@ updated: 2026-05-18
 - **亚里士多德 *hexis*** — 经 Thomas Aquinas 翻译为拉丁语 *habitus*，指一种稳定的品质或状态，使行动者倾向于以特定方式行动
 - **Marcel Mauss（1934）** — 在"身体技术"（techniques du corps）概念中使用了 habitus 一词，指不同社会中人们使用身体方式的习得性差异
 - **Bourdieu 在 Béarn 的早期使用** — 最早出现于 Bourdieu 对 Béarn 农民社会单身现象的考察，用于解释婚姻策略的持久模式（*Le Bal des célibataires* 的前期研究）
-- ***Esquisse d'une théorie de la pratique*（1972）** — 在 Kabylie 民族志基础上首次系统阐述习性概念，旨在超越主观主义与客观主义的二元对立
+- ***Esquisse d'une théorie de la pratique*（1972）** — 在 Kabylie 民族志基础上首次系统阐述习性概念，旨在超越[[Subjectivism|主观主义]]与[[Objectivism|客观主义]]的二元对立
 - ***Le Sens pratique*（1980）** — 进一步发展习性的"生成性"面向，引入"实践感"（sens pratique）以批判理性选择理论
 
 ---

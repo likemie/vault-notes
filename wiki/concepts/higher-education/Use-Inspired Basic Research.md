@@ -22,6 +22,7 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Epistemology]]"
   - "[[Technology Transfer]]"
 related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"

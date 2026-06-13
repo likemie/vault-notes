@@ -15,6 +15,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
+  - "[[Paradigm]]"
   - "[[Central Phenomenon]]"
   - "[[Data Transformation in Mixed Methods]]"
   - "[[Metainferences]]"

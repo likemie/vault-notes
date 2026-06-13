@@ -14,8 +14,11 @@ tags:
 - paradigm/systems-theory
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Humility in Learning]]"
   - "[[Effect Size]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
   - "[[School Leadership]]"
   - "[[Structural Coupling]]"
 related_theories:

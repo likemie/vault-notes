@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Champ]]"
+  - "[[Paradigm]]"
   - "[[Discursive Stratification]]"
   - "[[Academic Oligarchy]]"
 related_theories: []

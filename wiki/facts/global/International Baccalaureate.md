@@ -15,6 +15,7 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
+  - "[[Epistemology]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 
 > [!abstract] 三项核心要素
 > - **拓展论文（Extended Essay）**：4,000 字的研究论文，展示写作能力
-> - **知识理论（Theory of Knowledge）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
+> - **知识理论（[[Epistemology|theory of knowledge]]）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
 > - **创造、行动与服务（CAS, Creativity, Action, Service）**：要求学生参与社区服务活动
 
 ## 意识形态中立性争议

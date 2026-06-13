@@ -15,6 +15,8 @@ tags:
 - paradigm/cognitivist
 - level/higher-ed
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []

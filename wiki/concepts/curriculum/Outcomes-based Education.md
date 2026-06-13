@@ -17,6 +17,7 @@ tags:
   - paradigm/neoliberalism
   - critique/curriculum
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Powerful Knowledge]]"
   - "[[Educated Identity]]"
   - "[[International Education]]"

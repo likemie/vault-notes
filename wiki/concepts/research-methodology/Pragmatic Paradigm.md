@@ -23,11 +23,15 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Postpositivism]]"
   - "[[Research Question]]"
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-related_persons: []
+related_persons:
+  - "[[George Herbert Mead]]"
 related_facts: []
 related_arguments: []
 confidence: medium
@@ -41,7 +45,7 @@ updated: 2026-06-12
 ## 定义
 
 > [!info]
-> 实用主义（[[Pragmatism in China|pragmatism]]）作为一种研究世界观，起源于 Peirce、James、Mead 和 Dewey 的著作（Cherryholmes, 1992）。它不执着于任何单一哲学或现实体系，关注的是行动、情境和后果，区别于关注先在条件的[[Postpositivism|后实证主义]]。实用主义的核心关切是"什么有效"，研究者以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（Rossman & Wilson, 1985）。它是[[Mixed Methods Research|混合方法研究]]的主要哲学基础。
+> 实用主义（[[Pragmatism in China|pragmatism]]）作为一种研究世界观，起源于 Peirce、James、[[George Herbert Mead|Mead]] 和 Dewey 的著作（Cherryholmes, 1992）。它不执着于任何单一哲学或现实体系，关注的是行动、情境和后果，区别于关注先在条件的[[Postpositivism|后实证主义]]。实用主义的核心关切是"什么有效"，研究者以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（Rossman & Wilson, 1985）。它是[[Mixed Methods Research|混合方法研究]]的主要哲学基础。
 
 ## 核心要素
 

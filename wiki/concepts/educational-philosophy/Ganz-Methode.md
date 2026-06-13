@@ -20,6 +20,7 @@ related_concepts:
   - "[[Tense Society]]"
   - "[[Life Power]]"
   - "[[Ecomuseology]]"
+  - "[[Epistemology]]"
   - "[[Whole Sustainability]]"
   - "[[Epistemology of Resistance]]"
   - "[[Social Museology]]"

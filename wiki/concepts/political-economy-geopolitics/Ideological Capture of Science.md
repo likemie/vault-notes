@@ -7,12 +7,20 @@ tags:
   - theme/ideology-and-science
   - theme/history-of-science
   - paradigm/statism
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Knowledge Production]]"
+  - "[[Soviet Statism]]"
+  - "[[Informationalization]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Trofim Lysenko]]"
+related_facts:
+  - "[[Lysenkoism]]"
+related_arguments:
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -35,7 +43,7 @@ updated: 2026-06-12
 > [!boundary]- 概念边界
 > - 不等于一般的科学政策 — 政府对科研经费分配、优先领域的规划属于正常的科学政策。科学意识形态化特指以政治标准取代科学标准来判断科学命题的真伪。
 > - 不等于科研不端行为 — 科研不端是个别研究者的行为失范；科学意识形态化是制度层面的政治权力对科学自主性的系统性压制。
-> - 不适用于 — 科学界内部的范式竞争和学派争论（如爱因斯坦与玻尔的量子力学争论），这些争论遵循的是科学内部的证据和论证标准，而非政治命令。
+> - 不适用于 — 科学界内部的[[Paradigm|范式]]竞争和学派争论（如爱因斯坦与玻尔的量子力学争论），这些争论遵循的是科学内部的证据和论证标准，而非政治命令。
 
 ---
 ## 核心命题

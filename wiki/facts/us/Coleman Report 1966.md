@@ -15,6 +15,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Causality]]"
+  - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
@@ -117,7 +118,7 @@ updated: '2026-06-02'
 >
 > [[Argument_Downey_2016_SoE|Downey & Condron (2016, p.2)]] 揭示了一个经常被忽略的学术史事实：**Coleman Report（1966）的发表比 Bowles & Gintis 的 *Schooling in Capitalist America*（1976）早了整整十年**。在批判视角（再生产理论和加剧理论）兴起之前，Coleman 已经提供了经验证据表明非学校环境是成就差距的主要驱动力。
 >
-> 在随后的几十年里，教育社会学逐渐转向关注学校因素，Coleman Report 失宠——这源于方法论的、政治的和学术范式的多重原因（见争议与评论章节）。
+> 在随后的几十年里，教育社会学逐渐转向关注学校因素，Coleman Report 失宠——这源于方法论的、政治的和学术[[Paradigm|范式]]的多重原因（见争议与评论章节）。
 >
 > ### Jencks 之后的再验证：Downey, von Hippel & Hughes (2008)
 >

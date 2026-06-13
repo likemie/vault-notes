@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Ideological Capture of Science]]"
   - "[[Soviet Statism]]"
+  - "[[Scientific Method]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Transformative Leadership]]"
   - "[[School Leadership]]"
+  - "[[Paradigm]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
@@ -43,7 +44,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Transformative Leadership|变革型领导力]]框架** — 提出以权力为出发点的教育领导力研究范式（Shields, 2010, 2011）
+> - **[[Transformative Leadership|变革型领导力]]框架** — 提出以权力为出发点的教育领导力研究[[Paradigm|范式]]（Shields, 2010, 2011）
 > - **社会正义导向的领导力研究** — 将社会正义从辅助议题转变为核心分析范畴
 > - **对去政治化教育政策的批判** — 指出表面中立的政策如何在实践中排斥差异性和社会正义
 

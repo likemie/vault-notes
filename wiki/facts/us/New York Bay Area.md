@@ -12,7 +12,8 @@ tags:
   - theme/innovation-ecosystem
   - theme/regional-development
   - theme/financial-technology
-related_concepts: []
+related_concepts:
+  - "[[Emergence]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -48,4 +49,4 @@ updated: 2026-06-11
 > [!features] 科技金融生态
 > - **金融创新实验室**：纽约市投资基金与埃森哲成立金融科技创新实验室，摩根大通成立金融解决方案实验室，花旗银行成立花旗银行创新实验室
 > - **金融大数据**：帮助银行更好地对小企业进行信用评定，促进银行发放信贷
-> - **科技金融公司**：涌现大批科技金融公司，与高新技术产业发展相互依存，运用新技术和大数据为中小微科技企业量身打造投融资方案
+> - **科技金融公司**：[[Emergence|涌现]]大批科技金融公司，与高新技术产业发展相互依存，运用新技术和大数据为中小微科技企业量身打造投融资方案

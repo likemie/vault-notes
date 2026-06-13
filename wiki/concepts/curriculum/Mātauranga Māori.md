@@ -18,6 +18,8 @@ tags:
 related_concepts:
   - "[[Regulative and Instructional Discourse]]"
   - "[[Causality]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

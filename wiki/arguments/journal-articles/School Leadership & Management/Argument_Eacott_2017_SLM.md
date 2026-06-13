@@ -36,6 +36,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Reflexivity]]"
   - "[[Ontological Complicity]]"
+  - "[[Positivism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
 related_theories: []

@@ -17,6 +17,7 @@ tags:
   - theme/knowledge-structure
   - theory/bernstein
 related_concepts:
+  - "[[Paradigm]]"
   - "[[New Sociology of Education]]"
   - "[[Political Arithmetic]]"
 related_theories: []
@@ -42,7 +43,7 @@ updated: 2026-05-23
 ## 核心问题
 
 > [!abstract] 问题意识
-> 横向知识结构解释了为什么社会学和教育社会学容易出现范式争论、理论片段化和“新语言”的竞争。知识发展不一定表现为更高层次的整合，而常常表现为新的理论语言、新的问题、新的连接方式和新的说话者出现([[Argument_Ball_2008_SR|Ball, 2008, p.651]])。
+> 横向知识结构解释了为什么社会学和教育社会学容易出现[[Paradigm|范式]]争论、理论片段化和“新语言”的竞争。知识发展不一定表现为更高层次的整合，而常常表现为新的理论语言、新的问题、新的连接方式和新的说话者出现([[Argument_Ball_2008_SR|Ball, 2008, p.651]])。
 
 ## 核心要素
 

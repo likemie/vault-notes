@@ -13,6 +13,8 @@ tags:
 - paradigm/critical
 - paradigm/interpretivist
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
   - "[[Lifelong Learning]]"
   - "[[Causality]]"
   - "[[Externalization]]"

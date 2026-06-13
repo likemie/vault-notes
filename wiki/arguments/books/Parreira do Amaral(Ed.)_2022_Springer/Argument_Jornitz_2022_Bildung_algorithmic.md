@@ -23,6 +23,7 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
+  - "[[Emergence]]"
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"

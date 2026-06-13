@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Technical Rationality]]"
+  - "[[Positivism]]"
   - "[[Professional Judgment]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
@@ -59,7 +60,7 @@ updated: '2026-06-08'
 
 
 > [!info] [[Technical Rationality|技术理性]]的批判
-> Schön（1983）识别了技术理性（[[Technical Rationality]]）作为实证主义遗产在专业实践中的主导地位——它将实践问题理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决。工程师的材料分析和医生的疾病诊疗成为所有专业实践（包括教育）的模型。
+> Schön（1983）识别了技术理性（[[Technical Rationality]]）作为[[Positivism|实证主义]]遗产在专业实践中的主导地位——它将实践问题理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决。工程师的材料分析和医生的疾病诊疗成为所有专业实践（包括教育）的模型。
 
 ## 主要贡献
 

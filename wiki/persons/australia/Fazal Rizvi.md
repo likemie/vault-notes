@@ -18,10 +18,12 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Knowledge Capitalism]]"
+  - "[[Paradigm]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
+  - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
 related_theories:

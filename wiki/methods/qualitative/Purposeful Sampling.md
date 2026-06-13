@@ -21,9 +21,11 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cai_Gao_Liu_2025_HE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -95,5 +97,5 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 ## 使用此方法的研究
 
 > [!example]- 研究案例索引
-> - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：分析教师档案、机构网站和媒体报道，识别 GBA 四城 39 名教师中 30 名跨部门关键节点。
+> - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：分析教师档案、机构网站和媒体报道，识别 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 四城 39 名教师中 30 名跨部门关键节点。
 

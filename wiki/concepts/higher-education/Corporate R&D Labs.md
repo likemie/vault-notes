@@ -23,6 +23,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []

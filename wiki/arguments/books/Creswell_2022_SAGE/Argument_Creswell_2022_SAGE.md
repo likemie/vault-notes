@@ -54,8 +54,11 @@ related_concepts:
   - "[[Integration in Mixed Methods]]"
   - "[[Metainferences]]"
   - "[[Integration Statement]]"
+  - "[[Emergence]]"
   - "[[Variable]]"
+  - "[[Positivism]]"
   - "[[Research Topic]]"
+  - "[[Epistemology]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
@@ -65,6 +68,7 @@ related_concepts:
   - "[[Narrative Thought Types]]"
   - "[[Self-Efficacy]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
   - "[[Descriptive Analysis]]"
   - "[[Preregistration]]"
@@ -134,6 +138,8 @@ related_methods:
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
+  - "[[Auguste Comte]]"
+  - "[[George Herbert Mead]]"
   - "[[Herbert Blalock]]"
 related_facts:
   - "[[Mixed Methods International Research Association]]"

@@ -13,6 +13,7 @@ tags:
 - causal-inference
 - paradigm/positivist
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:

@@ -10,6 +10,8 @@ tags:
 - qualitative-research
 - paradigm/critical
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
   - "[[Descriptive Analysis]]"
 related_theories: []
 related_methods:

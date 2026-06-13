@@ -15,12 +15,14 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Research Question]]"
+  - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Doxa]]"
   - "[[Epistemological Break]]"
   - "[[Definition of Terms]]"
   - "[[Epistemological Vigilance]]"
+  - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Reflexivity]]"
 related_theories: []

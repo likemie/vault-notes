@@ -10,12 +10,16 @@ tags:
   - theme/education-economics
   - theme/innovation-policy
   - theme/systems-theory
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Quality Education]]"
+  - "[[Causality]]"
+related_theories:
+  - "[[Coupling Coordination Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"
 confidence: medium
 status: draft
 created: 2026-06-12

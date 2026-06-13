@@ -20,6 +20,7 @@ tags:
   - theory/social-realism
 related_concepts:
   - "[[Surface and Deep Learning]]"
+  - "[[Epistemology]]"
   - "[[Powerful Knowledge]]"
   - "[[Big Ideas]]"
 related_theories:

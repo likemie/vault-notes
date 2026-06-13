@@ -11,13 +11,16 @@ tags:
 - field/human-geography
 - field/higher-education
 related_concepts:
+  - "[[Ontology]]"
   - "[[Multiplicity]]"
   - "[[Space-Making]]"
   - "[[Relational Space]]"
+  - "[[Post-structuralism]]"
   - "[[Methodological Nationalism]]"
   - "[[Sage]]"
   - "[[Power-Geometries]]"
   - "[[Heterogeneity]]"
+  - "[[Emergence]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Scale in Higher Education]]"
@@ -53,7 +56,7 @@ updated: '2026-06-08'
 > - 2005 出版 *For Space*，系统阐述其[[Relational Space|关系性空间]]理论，代表其最成熟的理论综合
 > - 2016 逝世，享年 72 岁
 >
-> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和后结构主义的影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
+> Massey 的学术生涯与英国新自由主义转型、全球化加速和冷战结束后的地缘政治重构同期。她的空间理论深受马克思主义政治经济学、女性主义地理学和[[Post-structuralism|后结构主义]]的影响。[[Argument_Marginson_2025_ROE|Marginson (2025)]]特别关注的是 Massey 在 *For Space* 中对全球尺度关系性空间的理论化——这一工作为超越[[Methodological Nationalism|方法论民族主义]]、理解高等教育的全球地缘政治提供了核心概念工具([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–11]])。
 
 ---
 
@@ -74,7 +77,7 @@ updated: '2026-06-08'
 
 ### 开放本体论与关系性空间
 
-Massey 反对将空间视为静态容器。社会空间不是预先存在的、等待被填充的空容器（如空体育场），而是处于持续运动之中，由人类行动者不断构建。每个人的生命是在时间中移动的轨迹，这些轨迹在空间中交汇——"如果时间作为变化展开，那么空间作为互动展开"（Massey, 2005, p. 61）。现实从未固定或完成，而是持续涌现的([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 3]])。这一立场是 空间制造 框架的直接理论基础。
+Massey 反对将空间视为静态容器。社会空间不是预先存在的、等待被填充的空容器（如空体育场），而是处于持续运动之中，由人类行动者不断构建。每个人的生命是在时间中移动的轨迹，这些轨迹在空间中交汇——"如果时间作为变化展开，那么空间作为互动展开"（Massey, 2005, p. 61）。现实从未固定或完成，而是持续[[Emergence|涌现]]的([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 3]])。这一立场是 空间制造 框架的直接理论基础。
 
 > [!quote]
 > "If time unfolds as change then space unfolds as interaction"（Massey, 2005, p. 61）

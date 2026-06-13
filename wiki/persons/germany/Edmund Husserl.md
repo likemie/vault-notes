@@ -11,11 +11,14 @@ tags:
   - person/phenomenologist
   - theme/phenomenology
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alfred Schutz]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -26,7 +29,7 @@ updated: 2026-06-13
 
 ## 基本信息
 
-埃德蒙德·胡塞尔（Edmund Husserl）被许多人视为现象学（Phenomenology）的创始人。他关注的是探究科学基础的来源，质疑日常生活中"视为理所当然"的常识假设（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+埃德蒙德·胡塞尔（Edmund Husserl）被许多人视为[[Phenomenology|现象学]]（Phenomenology）的创始人。他关注的是探究科学基础的来源，质疑日常生活中"视为理所当然"的常识假设（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心贡献
 
@@ -39,7 +42,7 @@ updated: 2026-06-13
 
 ### 现象学共识
 
-Curtis（1978）总结了现象学家的三个普遍认同点（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+Curtis（1978）总结了[[Phenomenology|现象学]]家的三个普遍认同点（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 1. 相信主观意识的重要性——在某种意义上，其首要性
 2. 将意识理解为主动的、意义赋予的（meaning bestowing）
@@ -47,4 +50,4 @@ Curtis（1978）总结了现象学家的三个普遍认同点（[[Argument_Cohen
 
 ## 对后续研究的影响
 
-胡塞尔代表现象学的先验现象学（transcendental phenomenology）一脉。另一脉络是舒茨（Alfred Schutz）的存在现象学（existential phenomenology），后者将胡塞尔的思想引入社会学领域，关注日常生活世界的意义结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+胡塞尔代表[[Phenomenology|现象学]]的先验现象学（transcendental phenomenology）一脉。另一脉络是舒茨（[[Alfred Schutz]]）的存在现象学（existential phenomenology），后者将胡塞尔的思想引入社会学领域，关注日常生活世界的意义结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

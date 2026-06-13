@@ -19,6 +19,7 @@ tags:
   - region/global
 related_concepts:
   - "[[International Education]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []

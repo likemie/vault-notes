@@ -15,6 +15,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:

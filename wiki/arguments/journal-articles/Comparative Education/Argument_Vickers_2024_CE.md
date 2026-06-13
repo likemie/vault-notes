@@ -30,6 +30,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
+  - "[[Paradigm]]"
   - "[[Orientalism]]"
   - "[[Descriptive Analysis]]"
   - "[[Progressive Education]]"

@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Scientific Method]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
 related_theories: []

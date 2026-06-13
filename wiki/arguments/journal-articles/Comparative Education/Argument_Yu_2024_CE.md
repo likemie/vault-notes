@@ -27,6 +27,7 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"
   - "[[Cultural Disembedding]]"
+  - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
 related_theories: []

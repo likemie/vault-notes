@@ -7,7 +7,9 @@ method_type: qualitative
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Epistemology]]"
   - "[[Discursive Opportunity Structures]]"
+  - "[[Post-structuralism]]"
   - "[[Governmentality]]"
   - "[[Self-Entrepreneur]]"
 related_theories: []
@@ -37,7 +39,7 @@ updated: 2026-05-21
 ## 认识论立场
 
 > [!abstract]
-> 批判性伴随方法建立在后结构主义话语分析的预设之上：社会现实具有话语性质，社会问题是话语建构的产物（Kitsuse & Spector, 1973, cit. by Zelinka, 2022, p.253）。话语生产知识、组织特定语境中的意义制造过程。因此，分析方法不能脱离分析对象——研究者始终处于话语之中，只能以批判性检视的方式"伴随"话语运作。
+> 批判性伴随方法建立在[[Post-structuralism|后结构主义]]话语分析的预设之上：社会现实具有话语性质，社会问题是话语建构的产物（Kitsuse & Spector, 1973, cit. by Zelinka, 2022, p.253）。话语生产知识、组织特定语境中的意义制造过程。因此，分析方法不能脱离分析对象——研究者始终处于话语之中，只能以批判性检视的方式"伴随"话语运作。
 
 ## 研究程序
 

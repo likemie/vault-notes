@@ -13,6 +13,7 @@ tags:
   - paradigm/critical
   - region/australia
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Parallel Monologues]]"
@@ -23,6 +24,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Doxa]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons:

@@ -19,7 +19,9 @@ tags:
 related_concepts:
   - "[[Posthumanism]]"
   - "[[Transhumanism]]"
+  - "[[Emergence]]"
   - "[[Buen Vivir]]"
+  - "[[Ontology]]"
 related_theories: []
 related_methods: []
 related_persons: []

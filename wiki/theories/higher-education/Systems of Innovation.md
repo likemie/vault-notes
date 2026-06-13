@@ -18,6 +18,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Transfer]]"
   - "[[Transformative Change]]"
@@ -65,7 +66,7 @@ updated: 2026-05-27
 
 ### 前史："科学促增长"范式及其局限（1940s–1980s）
 
-创新[[Luhmann's Systems Theory|系统理论]]之前的主导政策范式——"科学促增长"（Science for Growth）——诞生于二战经验与冷战需求。大规模政府研发投资（尤其在研究型大学）在二战期间催生了重大发现和创新（如曼哈顿计划、MIT 辐射实验室的雷达研究），向政策制定者展示了科学的巨大回报潜力（Arora et al., 2020; Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.28]])。
+创新[[Luhmann's Systems Theory|系统理论]]之前的主导政策[[Paradigm|范式]]——"科学促增长"（Science for Growth）——诞生于二战经验与冷战需求。大规模政府研发投资（尤其在研究型大学）在二战期间催生了重大发现和创新（如曼哈顿计划、MIT 辐射实验室的雷达研究），向政策制定者展示了科学的巨大回报潜力（Arora et al., 2020; Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.28]])。
 
 > 该范式建立在 Arrow（1962）和 Solow（1957）等经济学家的理论之上，核心逻辑简洁有力：基础科学发现 → 技术开发 → 市场创新 → 经济增长。政府的角色是资助[[Knowledge Production|知识生产]]以弥补市场失灵——因为知识具有公共品属性，私人部门会对其投资不足。
 
@@ -110,7 +111,7 @@ updated: 2026-05-27
 | **能力与资源失败** | 行动者缺乏获取、共同开发和应用新知识的能力 | 中小企业缺乏吸收大学研究成果的技术人才 |
 | **探索与开发失衡** | 系统过度偏重新技术创造或过度偏重现有技术应用 | 过多资金投入基础研究但缺乏[[Transfer Translation Transformation\|转化]]机制，或相反 |
 
-> 与"科学促增长"范式的关键区别在于：系统范式认识到缓解这些失败需要来自多个政策领域的协调行动——不仅是科技政策，还包括产业政策、教育政策、财政政策、竞争政策等——要同时强化供给端、需求端、互动能力和制度环境([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.30–31]])。
+> 与"科学促增长"[[Paradigm|范式]]的关键区别在于：系统范式认识到缓解这些失败需要来自多个政策领域的协调行动——不仅是科技政策，还包括产业政策、教育政策、财政政策、竞争政策等——要同时强化供给端、需求端、互动能力和制度环境([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.30–31]])。
 
 > 在这一范式下，大学被重新定位为创新系统的核心行动者：不仅需要从事[[Technology Transfer|技术转移]]，还需要与初创企业、大公司、投资者等形成更紧密、更互动的伙伴关系，以整合[[Knowledge Production|知识生产]]与转化应用。大学的角色从"知识供给方"扩展为"系统催化剂"——创造连接、提供公共空间、催化互动（p.31）。
 
@@ -121,14 +122,14 @@ updated: 2026-05-27
 > [!tip]
 > - [[Triple Helix]]：三螺旋模型（Etzkowitz & Leydesdorff, 1995）可以视为创新[[Luhmann's Systems Theory|系统理论]]在大学-产业-政府关系中的具体应用——两者共享"创新发生在多行动者互动中"的核心立场，但 Triple Helix 更聚焦于大学角色的历史性转变
 > - [[Innovation Ecosystem|创新生态系统]]：共享多行动者网络的分析视角，但"生态系统"隐喻更强调参与者之间的相互依存和共同演化
-> - [[Transformative Change|变革转型]]理论（Transformative Change, Schot & Steinmueller, 2018）：创新系统理论的当代延伸——认为系统范式在应对"棘手问题"时仍过于被动，需要更主动的方向性干预
+> - [[Transformative Change|变革转型]]理论（Transformative Change, Schot & Steinmueller, 2018）：创新系统理论的当代延伸——认为系统[[Paradigm|范式]]在应对"棘手问题"时仍过于被动，需要更主动的方向性干预
 
 ---
 
 ## 批评与局限
 
 > [!warning]
-> 创新[[Luhmann's Systems Theory|系统理论]]虽然在许多国家已成为主导政策范式，但近年受到"[[Transformative Change|变革转型]]"学者批评：该范式对气候变化、生物多样性丧失、人口老龄化等重大社会挑战的回应过于被动和反应性——它擅长诊断系统失灵，但在积极推动方向性变革方面能力有限（Schot & Steinmueller, 2018; Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.32–34]])。
+> 创新[[Luhmann's Systems Theory|系统理论]]虽然在许多国家已成为主导政策[[Paradigm|范式]]，但近年受到"[[Transformative Change|变革转型]]"学者批评：该范式对气候变化、生物多样性丧失、人口老龄化等重大社会挑战的回应过于被动和反应性——它擅长诊断系统失灵，但在积极推动方向性变革方面能力有限（Schot & Steinmueller, 2018; Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.32–34]])。
 
 ---
 

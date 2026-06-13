@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
+  - "[[Paradigm]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Return on Investment]]"
 related_theories:

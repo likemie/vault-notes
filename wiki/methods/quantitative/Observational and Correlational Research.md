@@ -14,6 +14,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"

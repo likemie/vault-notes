@@ -16,7 +16,9 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Structural Coupling]]"
+  - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Learnification]]"
   - "[[Reflexivity]]"

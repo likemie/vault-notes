@@ -21,6 +21,7 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
+  - "[[Scientific Method]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"

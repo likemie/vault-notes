@@ -31,6 +31,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: low
 status: draft

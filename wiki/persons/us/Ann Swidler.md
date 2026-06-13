@@ -11,6 +11,7 @@ tags:
   - cultural-sociology
   - region/us
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Symbolic Boundary]]"
   - "[[Goal-Controlled Mode]]"
@@ -31,7 +32,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 Weber-Parsons 价值观驱动范式并立的经典范式。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该理论作为"大学过程"[[Analytic Framework|分析框架]]的核心理论支柱之一。
+> Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 Weber-Parsons 价值观驱动[[Paradigm|范式]]并立的经典范式。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该理论作为"大学过程"[[Analytic Framework|分析框架]]的核心理论支柱之一。
 >
 
 ## 生平与职涯
@@ -69,14 +70,14 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Culture as Toolkit]] — 文化社会学的经典理论范式，重新定义了"文化如何影响行动"这一核心问题
+> - [[Culture as Toolkit]] — 文化社会学的经典理论[[Paradigm|范式]]，重新定义了"文化如何影响行动"这一核心问题
 > - 为 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 的区分提供了理论基础：[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将两种模式理解为不同阶层在文化工具箱可及性和熟练程度上的系统性差异
 >
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 与 Weber-Parsons 价值观驱动范式构成当代文化社会学的核心争论
+> - 与 Weber-Parsons 价值观驱动[[Paradigm|范式]]构成当代文化社会学的核心争论
 > - Vaisey（2009）在 Swidler 的基础上提出 [[Dual-Process Model of Culture in Action]]，论证工具箱范式与价值观驱动范式在不同意识层次上并存——属于对 Swidler 的修正而非推翻（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该理论为"价值选择过程"的核心理论资源，并以 Vaisey 模型整合两种范式
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第五章将工具箱理论延伸至择业决策领域，发现大学生[[Culture as Toolkit|文化工具箱]]中三种可供调用的工作意义图式——地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达——及其在不同阶层学生中的分布差异

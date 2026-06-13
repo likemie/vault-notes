@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[Paradigm]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[Analytic Framework]]"

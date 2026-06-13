@@ -29,6 +29,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Emergence]]"
   - "[[Academic Oligarchy]]"
 related_theories: []
 related_methods: []

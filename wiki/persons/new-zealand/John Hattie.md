@@ -49,6 +49,7 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
+  - "[[Post-structuralism]]"
   - "[[Technical Rationality]]"
   - "[[Falsification]]"
   - "[[Problem-Based Learning]]"
@@ -357,7 +358,7 @@ updated: '2026-06-08'
 > - **[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]** — 以"政策创业"框架系统追踪 Hattie 从 asTTle 到 Visible Classroom 的商业化轨迹，记录 2010–2014 年从 [[Cognition Education|Cognition Education]] 获得第三方付款（USD 10K → USD 223K），定性为公共福利、非营利和营利创业的"无缝融合"（详见 [[Argument_ONeill_2016_Report]]、[[Visible Learning Branding and Global Influences]]）
 > - **[[Argument_Eacott_2017_SLM|Eacott (2017)]]** — 以 Callahan (1962) 为历史框架论证澳大利亚[[School Leadership|学校领导力]]已屈服于"Hattie [[Cult of the Guru|大师崇拜]]"，定性 VL 为 [[Neo-Taylorism]]：将教学拆解为最小可测量单元，"与 100 多年前 Taylor 的工作相差不远"（详见 [[Argument_Eacott_2017_SLM]]、[[Visible Learning#大师崇拜]]）
 > - **[[Argument_Eacott_2019_IJLE|Eacott (2019)]]** — 以自身经历记录 Hattie 回应过程中的学术对话质量问题：Hattie 回应两天内被接收 vs 原论文"数月和多轮评审"；Eacott 被拒绝发表再回应（详见 [[Argument_Eacott_2019_IJLE]]、[[Visible Learning#Eacott (2019)]])
-> - **[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]** — 从女性主义、后结构主义和能力批判视角提出七点文化政治批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设（详见 [[Argument_McKnight_2020_Discourse]]、[[Visible Learning#文化政治七点批评]]）
+> - **[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]** — 从女性主义、[[Post-structuralism|后结构主义]]和能力批判视角提出七点文化政治批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设（详见 [[Argument_McKnight_2020_Discourse]]、[[Visible Learning#文化政治七点批评]]）
 > - **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]** — 从[[Neo-Taylorism|新泰勒主义]]视角记录 asTTle 的全景监控设计（"允许管理者监控全校六个科目"）和 Hattie 对教师的系统性贬低；从新自由主义视角追踪 VL 商业化中的利益冲突和"饥饿-危机-私有化"循环（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
 
 

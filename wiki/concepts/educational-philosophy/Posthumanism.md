@@ -24,7 +24,9 @@ related_concepts:
   - "[[Mondialisation]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
+  - "[[Ontology]]"
   - "[[Humility in Learning]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Transition Design]]"
   - "[[Autopoiesis]]"

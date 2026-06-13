@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
   - "[[Effect Size]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Student Involvement]]"
   - "[[Academic and Social Integration]]"
+  - "[[Paradigm]]"
   - "[[Cultural Capital]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"

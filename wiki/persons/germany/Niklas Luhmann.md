@@ -13,10 +13,14 @@ tags:
 - region/germany
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Incommensurability]]"
   - "[[Blind Spot in Observation]]"
+  - "[[Epistemology]]"
+  - "[[Scientific Method]]"
   - "[[Structural Coupling]]"
-  - "[[Effect Size]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
@@ -58,7 +62,7 @@ updated: '2026-06-08'
 > - **盲点（Blinder Fleck）** — "Der Beobachter kann sich selbst beim Beobachten nicht sehen"（观察者在观察时无法看见自身）（Luhmann, 1997, p.69）。每一次观察都基于一个盲点：看到某物的条件是你建立了看见与看不见之间的区分([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 > - **对不可知的无知** — 一个个体完全不可能知道自己不知道什么（es ist völlig unrealistisch, dass ein Individuum weiß, was es nicht weiß）（Luhmann, 1997, p.39; 引自 Larsen, 2019, p.10）
 > - **社会系统与心理系统的不可通约** — 社会沟通系统（教师、[[School Leadership|学校领导]]、研究者、教育政策制定者）永远无法观察个体学生/儿童的心理系统。这两个系统不共享[[Coding in Qualitative Research|编码]]，彼此不透明([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])
->   > 例：在教育情境中，教师看到的是学生外显的行为和表达，但永远无法直接观察学生的心理过程——学生的思考、感受、大脑中的突触连接。教师的社会沟通系统与学生个人的心理系统之间存在根本的不可通约性。
+>   > 例：在教育情境中，教师看到的是学生外显的行为和表达，但永远无法直接观察学生的心理过程——学生的思考、感受、大脑中的突触连接。教师的社会沟通系统与学生个人的心理系统之间存在根本的[[Incommensurability|不可通约性]]。
 
 ## 主要贡献
 

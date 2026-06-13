@@ -18,6 +18,7 @@ tags:
   - period/republican-china
   - theme/knowledge-transfer
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []

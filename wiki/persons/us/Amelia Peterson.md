@@ -12,7 +12,8 @@ tags:
 - improvement-science
 - mechanism-experiments
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Mechanism Experiments]]"
@@ -31,7 +32,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论([[Argument_Peterson_2016_IJRME|Peterson, 2016]])。
+> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"[[Paradigm|范式]]战争"，加速关于系统性教育研究基础设施和资金的国际讨论([[Argument_Peterson_2016_IJRME|Peterson, 2016]])。
 
 ## 核心思想
 
@@ -42,7 +43,7 @@ updated: '2026-06-08'
 > 2. **改进网络**为机制实验的发现提供实施和反馈基础设施
 > 3. 两者通过共享的**"构建块"**（关键的教育变革机制）形成连续性
 >
-> > "This article builds on current efforts to strengthen approaches to evidence-based practice and policy in a range of international contexts. It provides a foundation for those who aim to avoid another paradigm war and to accelerate international discussions on the design of systemic education research infrastructure and funding." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 299]])
+> > "This article builds on current efforts to strengthen approaches to evidence-based practice and policy in a range of international contexts. It provides a foundation for those who aim to avoid another [[Paradigm]] war and to accelerate international discussions on the design of systemic education research infrastructure and funding." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 299]])
 
 
 > [!info] "什么有效 2.0"的三项起步行动
@@ -62,5 +63,5 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 受 **Cartwright & Hardie (2012)** 关于 [[Randomised Controlled Trials|RCT]] 仅适用于二选一决策的论证影响——这是 Peterson 论证"什么有效"需要改革的核心前提
 > - 受发展经济学随机化传统（**Duflo, Glennerster, & Kremer, 2006**）启发——[[Mechanism Experiments|机制实验]]的概念直接源自此传统
-> - 与 **Bryk et al. (2015)** 的[[Improvement Science|改进科学]]议程形成对话——Peterson 的整合方案试图桥接这两大对立范式
+> - 与 **Bryk et al. (2015)** 的[[Improvement Science|改进科学]]议程形成对话——Peterson 的整合方案试图桥接这两大对立[[Paradigm|范式]]
 > - 其"机制作为证据单位"的提案预示了后续教育研究中关于"核心成分"（core components）和"活性成分"（active ingredients）的讨论

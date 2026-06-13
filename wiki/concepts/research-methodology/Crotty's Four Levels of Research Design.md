@@ -15,6 +15,7 @@ related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Theoretical Standpoint]]"
   - "[[Postpositivism]]"
   - "[[Constructivist Paradigm]]"

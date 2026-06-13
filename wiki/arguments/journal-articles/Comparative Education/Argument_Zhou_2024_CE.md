@@ -25,6 +25,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Champ]]"
   - "[[Knowledge Transfer]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

@@ -27,6 +27,26 @@ tags:
 sources:
   - "[[Zhang_2023_PHEI]]"
 part_of:
+related_concepts:
+  - "[[Innovation Hub]]"
+  - "[[Literature Review]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Research Question]]"
+  - "[[Analytic Framework]]"
+  - "[[Technology Transfer]]"
+  - "[[Emergence]]"
+  - "[[Innovation Park]]"
+  - "[[International Education]]"
+related_theories:
+  - "[[Systems of Innovation]]"
+related_facts:
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[San Francisco Bay Area]]"
+  - "[[New York Bay Area]]"
+  - "[[Tokyo Bay Area]]"
+  - "[[Sino-American Trade War]]"
+  - "[[Tsukuba Science City]]"
+  - "[[Open Competition Mechanism]]"
 status: draft
 created: 2026-06-11
 updated: 2026-06-11

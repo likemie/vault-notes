@@ -27,6 +27,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Scientism]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Scientific Method]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
   - "[[Analytic Framework]]"

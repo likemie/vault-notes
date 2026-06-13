@@ -14,6 +14,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Constructive Alignment]]"
+  - "[[Post-structuralism]]"
   - "[[Posthumanism]]"
   - "[[Evidence-Based Education]]"
 related_theories:
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 > [!info] 研究[[Paradigm|范式]]
 > - [[Epistemology|认识论]]立场：主观唯心论／唯我论，与 [[Karl Popper|Popper]] 的科学实在论完全对立
 > - 封闭系统：一切发生在学习者认知系统内部，无社会、政治、经济分析
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 [[Visible Learning|VL]] 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被[[Luhmann's Systems Theory|系统理论]]、"竞争国家理论"、后结构主义甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] 指出 Hattie 的 [[Visible Learning|VL]] 因此可以与任何利益体系结合——在丹麦，激进[[Constructivist Paradigm|建构主义]]的大脑被[[Luhmann's Systems Theory|系统理论]]、"竞争国家理论"、[[Post-structuralism|后结构主义]]甚至[[Posthumanism|后人类主义]]同时捕获([[Argument_Rømer_2018_EPT|Rømer, 2018, p.8]])
 
 ## 争议与批评
 

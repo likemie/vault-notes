@@ -20,9 +20,12 @@ tags:
 - theme/community
 related_concepts:
   - "[[Social Museology]]"
+  - "[[Ontology]]"
   - "[[Ganz-Methode]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology of Resistance]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"

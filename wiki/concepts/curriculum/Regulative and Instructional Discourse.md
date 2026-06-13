@@ -22,6 +22,8 @@ related_concepts:
   - "[[Mātauranga Māori]]"
   - "[[Causality]]"
   - "[[Global Citizenship]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
   - "[[Epistemic Ascent]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"

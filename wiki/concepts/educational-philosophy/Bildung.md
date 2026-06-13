@@ -14,6 +14,7 @@ tags:
   - paradigm/critical
   - stance/critique
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Epochal Key Problems]]"
   - "[[Analytic Framework]]"
   - "[[Visible Learning]]"
@@ -21,6 +22,7 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Ontology]]"
   - "[[Didaktik]]"
   - "[[Online Self-Assessment]]"
   - "[[Learning Analytics]]"

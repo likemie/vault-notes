@@ -16,9 +16,11 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Classical Geopolitics]]"
+  - "[[Epistemology]]"
   - "[[Recontextualization]]"
   - "[[Soviet Statism]]"
   - "[[Relational Space]]"
+  - "[[Ontology]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Multiplicity]]"
   - "[[Analytic Framework]]"

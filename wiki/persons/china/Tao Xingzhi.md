@@ -16,6 +16,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Recontextualization]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -72,7 +73,7 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success]
-> - 其"[[Scientific Attitude|科学态度]]"路线标志着[[New Education Movement|新教育运动]]从以民主为原则转向以科学态度为依据的范式转换([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–621]])。
+> - 其"[[Scientific Attitude|科学态度]]"路线标志着[[New Education Movement|新教育运动]]从以民主为原则转向以科学态度为依据的[[Paradigm|范式转换]]([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–621]])。
 > - 改造[[John Dewey|杜威]]理论以适应中国国情，使杜威的渐进实验方法与中国的社会政治现实得以衔接（Zhang & Sheese 2017, pp.402–404，引自 Zhou & Westberg, 2024, p.621）。
 > - 平民教育实践影响了民国时期教育的大众化进程([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.621]])。
 - 1980 年代初，陶行知第二次充当了杜威的中介人：当时直接恢复杜威在政治上仍不可行，对杜威思想的重新评价是通过"重新欣赏陶行知的教育思想及其对中国的贡献"而间接进行的。1981 年陈汉才（Chen Hancai）的文章描述了陶行知如何"批判性地接受了杜威教育理论中有意义的内容，但抛弃了其余部分"，这为 1980 年代关于民主、科学、马克思主义与改革的思想讨论奠定了基础([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–85]])。

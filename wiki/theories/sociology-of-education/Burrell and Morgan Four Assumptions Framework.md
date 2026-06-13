@@ -7,11 +7,14 @@ tags: [theory/sociological, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Objectivism]]"
+  - "[[Subjectivism]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -27,7 +30,7 @@ updated: 2026-06-13
 
 ## 四组假设
 
-> [!contrast-table] 四组假设：客观主义 vs 主观主义
+> [!contrast-table] 四组假设：[[Objectivism|客观主义]] vs [[Subjectivism|主观主义]]
 >
 > | 维度 | 客观主义（Objectivist） | 主观主义（Subjectivist） |
 > |---|---|---|
@@ -46,7 +49,7 @@ updated: 2026-06-13
 
 > [!framework-table] 诠释社会实在的两种基础
 >
-> | 比较维度 | 客观主义 | 主观主义 |
+> | 比较维度 | [[Objectivism\|客观主义]] | [[Subjectivism\|主观主义]] |
 > |---|---|---|
 > | **哲学基础** | 实在论：世界如其本身存在并可被认识 | 观念论：不同人以不同方式解释世界 |
 > | **社会科学的角色** | 发现社会及其中人类行为的普遍法则 | 发现不同人如何解释他们所生活的世界 |

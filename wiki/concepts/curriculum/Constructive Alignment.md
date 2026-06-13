@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons:

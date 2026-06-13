@@ -23,11 +23,13 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
   - "[[Causality]]"
+  - "[[Epistemology]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[Visible Learning]]"
   - "[[Analytic Framework]]"
+  - "[[Ontology]]"
   - "[[Effect Size]]"
   - "[[Neo-Taylorism]]"
 related_theories:

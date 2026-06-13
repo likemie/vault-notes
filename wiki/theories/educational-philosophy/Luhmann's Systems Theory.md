@@ -17,6 +17,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Professional Judgment]]"
+  - "[[Incommensurability]]"
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Autopoiesis]]"
@@ -81,6 +82,6 @@ updated: '2026-05-18'
 
 > [!success] 应用领域
 > - [[Visible Learning]] — Larsen 以 Luhmann 的盲点和系统区分概念论证 VL [[Paradigm|范式]]的根本性限制
-> - 教育治理分析 — 社会系统与心理系统的不可通约性解释了为何教育政策（社会沟通）与课堂实际学习（心理过程）之间总是存在鸿沟
+> - 教育治理分析 — 社会系统与心理系统的[[Incommensurability|不可通约性]]解释了为何教育政策（社会沟通）与课堂实际学习（心理过程）之间总是存在鸿沟
 > - [[Knowledge-Based Economization]] — Moisio (2018) 的概念与系统理论共享对知识密集型资本主义的话语建构与物质实践双重关注，可用于分析经济想象如何通过沟通系统被客观化
 

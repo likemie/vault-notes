@@ -17,6 +17,7 @@ tags:
   - theme/knowledge
   - theme/learning
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Humility in Learning]]"
   - "[[Mind and Its Wonders]]"

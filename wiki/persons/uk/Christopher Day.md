@@ -11,6 +11,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Champ]]"
 related_theories: []
@@ -46,7 +47,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - **ISSPP 项目的领导** — 自 2002 年起领导和协调跨国[[School Leadership|学校领导力]]研究网络
 > - **成功学校领导力的跨国知识基础** — 通过案例研究构建了对成功校长工作的系统性理解
-> - **情境敏感的学校领导力研究范式** — 推动超越"一刀切"领导力清单的研究取向
+> - **情境敏感的学校领导力研究[[Paradigm|范式]]** — 推动超越"一刀切"领导力清单的研究取向
 
 ## 主要著作
 

@@ -17,7 +17,9 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Emergence]]"
   - "[[Construct]]"
+  - "[[Ontology]]"
   - "[[Tracking]]"
 related_theories: []
 related_methods:
@@ -45,7 +47,7 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > - **1971** — Cronbach 在 *Educational Measurement*（第二版）中提出效度是推论属性而非测试属性的经典表述
 > - **1989** — Messick 在 *Educational Measurement*（第三版）中将效度概念进一步发展为"验证作为过程"：验证是永无止境的证据汇总过程——一方面支持首选解释，另一方面证明替代解释较不合理
-> - **2019** — Wiliam 将心理测量学的效度概念应用于教育研究方法论：效度标准意味着即使是设计良好的 [[Randomised Controlled Trials|RCT]]，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。效度"不能是实验的属性，甚至不能是实验结果的属性，而只能是我们从那些结果中得出推论的属性"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]])
+> - **2019** — Wiliam 将心理测量学的效度概念应用于教育研究方法论：效度标准意味着即使是设计良好的 [[Randomised Controlled Trials|RCT]]，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的[[Emergence|涌现]]而持续演变。效度"不能是实验的属性，甚至不能是实验结果的属性，而只能是我们从那些结果中得出推论的属性"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]])
 
 ## 核心要素
 
@@ -59,7 +61,7 @@ updated: '2026-05-18'
 > Messick (1989) 的核心贡献：验证不是一次性完成的活动，而是一个**永无止境的过程**——持续汇总支持首选解释的证据，同时证明替代解释较不合理。Wiliam 将此框架应用于教育 [[Randomised Controlled Trials|RCT]]：
 >
 > - 当一个 RCT 产生结果时，其推论的效度取决于当前已知的替代解释是否被排除
-> - 随着新证据涌现（如关于教师质量变异性的研究），先前被排除的替代解释可能变得相关——此时原先的推论不再有效
+> - 随着新证据[[Emergence|涌现]]（如关于教师质量变异性的研究），先前被排除的替代解释可能变得相关——此时原先的推论不再有效
 > - 这不是原 RCT 设计的缺陷，而是效度作为过程的[[Ontology|本体论]]特征
 >
 > > 例：Wiliam 自身的[[Tracking|能力分组]]研究是一个例证——Boaler, Wiliam, & Brown (2000) 和 Wiliam & Bartholomew (2004) 的推论（能力分组降低成就）在当时是有效的，因为当时没有显著的替代解释。但当 Hanushek & Rivkin (2010) 等研究建立了教师间差异的量级证据后，"教师分配效应"成为相关的替代状态——原推论的效度因此被削弱。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.8]])

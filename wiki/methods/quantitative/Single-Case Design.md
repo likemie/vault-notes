@@ -13,6 +13,7 @@ tags:
 - experimental-design
 - evidence-based-education
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"

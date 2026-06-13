@@ -15,11 +15,14 @@ tags:
   - theory/comparative-education
   - paradigm/epistemology
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Ontology]]"
   - "[[Educated Identity]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons:

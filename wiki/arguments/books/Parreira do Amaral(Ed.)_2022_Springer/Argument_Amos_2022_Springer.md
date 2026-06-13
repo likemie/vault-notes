@@ -30,6 +30,7 @@ related_concepts:
   - "[[Educational Technology Industry]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
+  - "[[Emergence]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[New Public Management]]"
   - "[[Didaktik]]"
+  - "[[Ontology]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"

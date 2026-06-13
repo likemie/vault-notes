@@ -12,6 +12,8 @@ tags:
 - educational-research-methodology
 - region/uk
 related_concepts:
+  - "[[Scientific Method]]"
+  - "[[Ontology]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:

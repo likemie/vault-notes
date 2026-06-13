@@ -16,9 +16,11 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[University-Industry Co-location]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
   - "[[Return on Investment]]"
+  - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
 related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"

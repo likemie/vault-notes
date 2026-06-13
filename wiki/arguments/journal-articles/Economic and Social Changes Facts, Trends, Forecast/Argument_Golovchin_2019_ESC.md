@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"

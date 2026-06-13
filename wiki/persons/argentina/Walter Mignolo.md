@@ -15,6 +15,7 @@ tags:
   - field/literary-theory
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Ganz-Methode]]"

@@ -13,6 +13,7 @@ tags:
   - interpretivism
   - region/germany
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Causality]]"
   - "[[Analytic Framework]]"

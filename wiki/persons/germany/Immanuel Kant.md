@@ -17,6 +17,7 @@ tags:
 - theme/ethics
 - theme/metaphysics
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Revolutionism]]"

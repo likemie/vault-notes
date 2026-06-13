@@ -16,7 +16,9 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Paradigm]]"
   - "[[Official Knowledge]]"
+  - "[[Emergence]]"
   - "[[Imagined Community]]"
 related_theories: []
 related_methods:
@@ -73,7 +75,7 @@ updated: 2026-05-26
 >
 > ### 5. 从编码到主题——比较性归纳
 >
-> 对两套教科书的编码类别进行比较，归纳生成叙事主题。[[Argument_Xu_2024_CE|Xu (2024)]]的四个主题——族群、领土、政治冲突、文化互动——是通过比较两套教科书的编码类别而生成的。**比较发生在主题生成阶段，而非仅在主题生成之后——比较本身驱动了主题的涌现**([[Argument_Xu_2024_CE|Xu, 2024, pp.580, Table 1]])。
+> 对两套教科书的编码类别进行比较，归纳生成叙事主题。[[Argument_Xu_2024_CE|Xu (2024)]]的四个主题——族群、领土、政治冲突、文化互动——是通过比较两套教科书的编码类别而生成的。**比较发生在主题生成阶段，而非仅在主题生成之后——比较本身驱动了主题的[[Emergence|涌现]]**([[Argument_Xu_2024_CE|Xu, 2024, pp.580, Table 1]])。
 >
 > ### 6. 定量比较与定性叙述相结合
 >

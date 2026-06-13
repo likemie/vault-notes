@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Confidence Interval]]"
+  - "[[Ontology]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Space of Flows and Space of Places]]"
   - "[[Global Policy Space]]"
   - "[[Recontextualization]]"
+  - "[[Postmodernism]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

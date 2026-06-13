@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Epistemology]]"
   - "[[Regulatory Regionalism]]"
   - "[[Champ]]"
   - "[[Geopolitics of Knowledge]]"

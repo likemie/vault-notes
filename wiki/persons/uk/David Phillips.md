@@ -21,7 +21,8 @@ related_methods: []
 related_persons:
   - "[[Kimberly Ochs]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

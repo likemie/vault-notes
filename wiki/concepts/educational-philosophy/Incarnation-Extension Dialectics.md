@@ -15,6 +15,7 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Effect Size]]"
   - "[[Bildung]]"
 related_theories:

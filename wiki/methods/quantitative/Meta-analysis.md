@@ -15,6 +15,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Forest Plot]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
   - "[[Variable]]"

@@ -17,6 +17,7 @@ tags:
   - theme/innovation
   - level/higher-education
 related_concepts:
+  - "[[Epistemology]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Responsible Innovation]]"

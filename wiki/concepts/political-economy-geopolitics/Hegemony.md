@@ -18,6 +18,7 @@ tags:
 - theme/power
 - region/global
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"

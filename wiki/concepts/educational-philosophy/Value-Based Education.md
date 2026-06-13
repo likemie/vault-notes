@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods: []

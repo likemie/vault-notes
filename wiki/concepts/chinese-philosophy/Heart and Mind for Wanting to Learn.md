@@ -21,6 +21,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Lifelong Learning]]"
+  - "[[Incommensurability]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:

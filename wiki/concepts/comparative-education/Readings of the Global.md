@@ -17,6 +17,7 @@ tags:
   - theory/comparative-education
   - paradigm/historical
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Transitology]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"

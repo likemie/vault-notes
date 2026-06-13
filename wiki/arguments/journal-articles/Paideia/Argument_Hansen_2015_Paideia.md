@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
   - "[[New Public Management]]"

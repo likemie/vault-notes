@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"

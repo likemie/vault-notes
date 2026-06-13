@@ -34,6 +34,7 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Faust]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
@@ -183,7 +184,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 ## 影响
 
 > [!success]
-> - 对跨文化学习研究领域的贡献：以中国本土概念而非西方心理学框架为出发点研究[[Chinese Learner|中国学习者]]，推动了从"[[Deficiencies Model for an Introduction|缺陷模型]]"向"文化差异模型"的范式转变
+> - 对跨文化学习研究领域的贡献：以中国本土概念而非西方心理学框架为出发点研究[[Chinese Learner|中国学习者]]，推动了从"[[Deficiencies Model for an Introduction|缺陷模型]]"向"文化差异模型"的[[Paradigm|范式]]转变
 > - 师从 Howard Gardner 与 [[Kurt Fischer]]，深受其理论影响；Gardner 对 Li 的指导被 Li 描述为"西方学习的典范"([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii]])
 
 ---

@@ -16,6 +16,7 @@ tags:
   - theme/globalization
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Incommensurability]]"
   - "[[Learning Virtues]]"
   - "[[Enculturation]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -57,7 +58,7 @@ updated: 2026-05-25
 > [!abstract]
 > ### 策略一：直接拒绝（Direct Rejection）
 
-当外来思想与既有[[Cultural Models|文化模型]]完全不可通约（incommensurable）时，文化会直接排斥。
+当外来思想与既有[[Cultural Models|文化模型]]完全不可通约（[[Incommensurability|incommensurable]]）时，文化会直接排斥。
 
 > [!example]
 > 西方绘画初次传入中国时，被中国水墨画家判定为"匠气"（crafty）。郎世宁（Giuseppe Castiglione, 1688–1766），一位意大利传教士、后来的中国宫廷画师，因试图融合两种画风而遭到排斥（Song, 1995，转引自 [[Argument_Li_2012_Cambridge|Li, 2012, p.337, note 25]]）。如今，中国画作为传统形式继续繁荣，而西方绘画在中国被接受为独立的审美领域——二者并未融合，而是并存。Li 用这个例子说明：拒绝并不意味着外来事物永远无法进入——它可以以"不威胁本文化核心"的方式被接纳为平行存在([[Argument_Li_2012_Cambridge|Li, 2012, pp.336-337]])。

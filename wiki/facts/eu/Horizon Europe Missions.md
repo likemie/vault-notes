@@ -15,6 +15,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Entrepreneurial University]]"
+  - "[[Epistemology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"

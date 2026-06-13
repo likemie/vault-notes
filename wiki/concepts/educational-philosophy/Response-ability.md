@@ -16,6 +16,7 @@ tags:
 - relational-ontology
 related_concepts:
   - "[[Sympoiesis]]"
+  - "[[Ontology]]"
   - "[[Posthumanism]]"
   - "[[Humosity]]"
   - "[[SF (Haraway)]]"

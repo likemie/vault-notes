@@ -15,6 +15,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Methodological Nationalism]]"
+  - "[[Ontology]]"
   - "[[Space-Making]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"

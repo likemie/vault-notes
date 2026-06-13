@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

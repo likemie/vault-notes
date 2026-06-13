@@ -18,6 +18,7 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Preregistration]]"
   - "[[Developer Effect]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **支持立场**：REES 代表了教育研究从"信任研究者自我约束"到"制度性透明度要求"的范式转变([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 444]])
+> - **支持立场**：REES 代表了教育研究从"信任研究者自我约束"到"制度性透明度要求"的[[Paradigm|范式]]转变([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 444]])
 > - **批评立场**：[[Preregistration|预注册]]不能消除所有偏倚；[[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 444)]] 主张预注册应与开放数据（open data）结合——"开放获取研究数据是减轻偏倚的最大希望，当作者发布完整数据集时（包括缺失值和所有初始参与者），其他研究者可以重新分析数据并尝试复制研究发现"
 
 ## 相关概念／政策

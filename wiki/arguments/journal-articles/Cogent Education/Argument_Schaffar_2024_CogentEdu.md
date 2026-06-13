@@ -30,6 +30,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Wolfgang Klafki]]"
+  - "[[George Herbert Mead]]"
 related_facts:
   - "[[SveaSus Project]]"
   - "[[OECD]]"

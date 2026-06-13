@@ -17,11 +17,13 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Relational Space]]"
+  - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Global Universities Rankings]]"
   - "[[Internationalization of Higher Education]]"
-related_theories: []
+related_theories:
+  - "[[Lefebvre's Spatial Triad]]"
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"

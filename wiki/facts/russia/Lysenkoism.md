@@ -10,10 +10,12 @@ tags:
   - theme/ideology-and-science
   - theme/history-of-science
 related_concepts:
+  - "[[Ideological Capture of Science]]"
   - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Trofim Lysenko]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"

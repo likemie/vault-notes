@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Technology Infusion]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"

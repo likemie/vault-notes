@@ -15,6 +15,7 @@ tags:
   - theme/university-industry-collaboration
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Emergence]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -63,7 +64,7 @@ updated: 2026-06-11
 
 > [!features] 风险投资生态
 > - **多样化风投**：小企业可从政府小企业管理局获得低息贷款；合作制风投公司可参与投资计划；股份制风险投资公司按股份分配收益
-> - **科技金融**：旧金山市和硅谷涌现大批科技金融创业公司，与传统风投、银行、债券、证券公司交织形成强大科技金融生态
+> - **科技金融**：旧金山市和硅谷[[Emergence|涌现]]大批科技金融创业公司，与传统风投、银行、债券、证券公司交织形成强大科技金融生态
 > - **中介服务**：完善的科技中介服务体系，包含管理信息咨询、人力资源服务、金融资本、技术转移、财务和法律服务等
 
 > [!features] 创新文化

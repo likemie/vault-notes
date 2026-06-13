@@ -15,6 +15,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Epistemology]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Recommendations for Practice]]"

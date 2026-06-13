@@ -23,6 +23,7 @@ related_concepts:
   - "[[Circular Transfer]]"
   - "[[Normal School]]"
   - "[[Grammar of Schooling]]"
+  - "[[Epistemology]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
   - "[[Posthumanism]]"

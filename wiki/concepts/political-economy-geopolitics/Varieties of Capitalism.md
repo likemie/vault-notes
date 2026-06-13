@@ -20,6 +20,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Corporate University]]"
   - "[[Academic Capitalism]]"
+  - "[[Emergence]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods: []
@@ -101,7 +102,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 
 > [!tip]
 > Schulze-Cleven & Olson将 VoC 框架应用于高等教育部门，展示了[[Academic Capitalism|学术资本主义]]的多样性如何映射 [[Varieties of Capitalism|资本主义多样性]] 的类型差异([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])：
 >
-> - **自由市场经济体（LMEs，以美国为代表）**：亲市场规制传统，高等教育市场化最为深入——营利性院校大量涌现，学费和学生贷款驱动的金融化程度最高，州政府拨款占比在 2003–2012 年间下降近半
+> - **自由市场经济体（LMEs，以美国为代表）**：亲市场规制传统，高等教育市场化最为深入——营利性院校大量[[Emergence|涌现]]，学费和学生贷款驱动的金融化程度最高，州政府拨款占比在 2003–2012 年间下降近半
 > - **保守主义协调经济体（以德国为代表）**：允许社会群体自我规制，市场化改革的引入和撤回呈现拉锯——部分州在 2000 年代初引入学费后被学生抗议撤销，改革的结果不一
 > - **社会民主主义协调经济体（以挪威为代表）**：强国家干预和进步主义传统，高等教育市场化程度较低，公共供给仍占主导，但也经历了自由化进程
 >

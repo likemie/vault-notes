@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
+  - "[[Epistemology]]"
   - "[[Opportunist Mode]]"
   - "[[External Validity]]"
   - "[[Analytic Framework]]"

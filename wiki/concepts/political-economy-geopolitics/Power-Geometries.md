@@ -19,6 +19,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
   - "[[Relational Space]]"
+  - "[[Ontology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"

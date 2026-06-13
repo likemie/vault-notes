@@ -19,6 +19,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[School Effectiveness]]"
+  - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Effect Size]]"
   - "[[Transfer Translation Transformation]]"

@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Naturalistic Generalization]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

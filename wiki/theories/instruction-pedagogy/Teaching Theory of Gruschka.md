@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
+  - "[[Emergence]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
@@ -49,7 +50,7 @@ updated: 2026-05-20
 
 教学行动不可分割地包含三个维度（Gruschka, 2019, pp.675–676, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.238–239]]）：
 
-1. **[[Bildung]]——教学的理由与目标**：Bildung 是教学存在的根本理由和终极指向。它处理所有从课程内容中涌现的理解问题（Gruschka, 2019, p.675）。这意味着 Bildung 不是一个教完之后才出现的副产品——它是教学从一开始就朝向的目标。每一节课、每一个教学决策，都应被 Bildung 的目标所引导。
+1. **[[Bildung]]——教学的理由与目标**：Bildung 是教学存在的根本理由和终极指向。它处理所有从课程内容中[[Emergence|涌现]]的理解问题（Gruschka, 2019, p.675）。这意味着 Bildung 不是一个教完之后才出现的副产品——它是教学从一开始就朝向的目标。每一节课、每一个教学决策，都应被 Bildung 的目标所引导。
 
 2. **Erziehung（教育／教养）——朝向 Bildung 的定向**：Erziehung 不仅对儿童和青少年的整体发展必不可少，在学校的教学语境中，教师的 Erziehung 任务具体表现为：帮助学生将自身定向于 Bildung 的目标——即帮助学生形成我愿意理解、我应该投入努力去理解的态度和习惯。
 

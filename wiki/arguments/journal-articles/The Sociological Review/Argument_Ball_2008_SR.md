@@ -16,11 +16,13 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Horizontal Knowledge Structure]]"
+  - "[[Paradigm]]"
   - "[[Governmentality]]"
   - "[[Knowledge Production]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Postmodernism]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []

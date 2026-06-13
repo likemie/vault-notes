@@ -29,6 +29,7 @@ related_facts:
   - "[[Finnish National Core Curriculum]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: low
 status: draft
 created: '2026-05-06'

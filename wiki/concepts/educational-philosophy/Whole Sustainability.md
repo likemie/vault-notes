@@ -16,7 +16,9 @@ tags:
 - theme/development
 related_concepts:
   - "[[Life Power]]"
+  - "[[Paradigm]]"
   - "[[Ganz-Methode]]"
+  - "[[Epistemology]]"
   - "[[Ecomuseology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"

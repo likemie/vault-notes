@@ -19,6 +19,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Methodological Globalism]]"
   - "[[Relational Space]]"
+  - "[[Ontology]]"
   - "[[Space-Making]]"
 related_theories: []
 related_methods: []

@@ -17,6 +17,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
+  - "[[Visible Learning]]"
+  - "[[Epistemology]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"

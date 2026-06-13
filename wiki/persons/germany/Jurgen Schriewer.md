@@ -14,6 +14,7 @@ tags:
 - region/germany
 related_concepts:
   - "[[Externalization]]"
+  - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
 related_theories:

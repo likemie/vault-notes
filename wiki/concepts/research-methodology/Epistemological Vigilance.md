@@ -15,7 +15,9 @@ tags:
   - bourdieu
   - paradigm/critical
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Effective Teaching]]"
+  - "[[Positivism]]"
   - "[[Epistemological Break]]"
   - "[[Reflexivity]]"
 related_theories: []

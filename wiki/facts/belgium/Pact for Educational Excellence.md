@@ -19,6 +19,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Paradigm]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
@@ -84,7 +85,7 @@ updated: 2026-05-24
 ## 争议与评论
 
 > [!warning]
-> 公约处在纯粹证据本位范式与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 的证据等级([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176, 181-182]])。
+> 公约处在纯粹证据本位[[Paradigm|范式]]与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 的证据等级([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176, 181-182]])。
 
 [[Grade Retention|留级]]政策展示了“有证据但改革不够强”的一面。大量综述未能识别留级的平均正效应，但法语比利时案例中的改革目标只是到 2030 年降低 50%，仍允许共同核心课程阶段使用留级；这体现了自上而下禁令与自下而上软性改变之间的政策取舍([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.174]])。
 

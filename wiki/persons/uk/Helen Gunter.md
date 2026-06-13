@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Production]]"
+  - "[[Emergence]]"
   - "[[Transformative Leadership]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
@@ -49,7 +50,7 @@ updated: '2026-06-08'
 >
 > 5. **反智识文化与[[Knowledge Production|知识生产]]的专业化**：Gunter（2012）认为，"理论"和"实践"等标签被**使用和滥用来塑造职业内部以及商业和高等教育中'教育领导力产业'的反智识文化**([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])。Gunter（2013）进一步论证，管理主义项目的核心特征是："将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
 >
-> 6. **社会学进路**：Gunter（2010）指出，Bourdieusian 社会理论日益增长的使用是教育行政中社会学方法"重新出现"（re-emergence）的一部分([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])。Gunter（2002）早期已运用 Bourdieu 分析教育管理领域的"目的与位置"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
+> 6. **社会学进路**：Gunter（2010）指出，Bourdieusian 社会理论日益增长的使用是教育行政中社会学方法"重新出现"（re-[[Emergence]]）的一部分([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])。Gunter（2002）早期已运用 Bourdieu 分析教育管理领域的"目的与位置"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
 
 ## 主要贡献
 

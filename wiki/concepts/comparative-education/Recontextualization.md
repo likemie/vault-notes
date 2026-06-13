@@ -25,6 +25,8 @@ related_concepts:
   - "[[Mātauranga Māori]]"
   - "[[Causality]]"
   - "[[Global Citizenship]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
   - "[[Global Policy Space]]"
   - "[[Floating Signifier]]"
 related_theories: []

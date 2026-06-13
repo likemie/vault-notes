@@ -11,6 +11,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Epistemology]]"
   - "[[Naturalistic Generalization]]"
   - "[[Research Question]]"
   - "[[Variable]]"

@@ -13,6 +13,7 @@ tags:
 - learnification
 - stance/critique
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Lifelong Learning]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"

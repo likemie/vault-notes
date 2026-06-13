@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Epistemology]]"
   - "[[Cult of Efficiency]]"
   - "[[Transformative Leadership]]"
   - "[[New Public Management]]"
@@ -25,6 +26,8 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
+  - "[[Positivism]]"
+  - "[[Scientific Method]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"

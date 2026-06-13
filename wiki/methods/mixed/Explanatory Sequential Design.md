@@ -13,6 +13,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Positivism]]"
   - "[[Pragmatism in China]]"
   - "[[Research Question]]"
   - "[[Descriptive Analysis]]"

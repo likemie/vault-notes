@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Grade Retention]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -61,7 +62,7 @@ updated: 2026-05-24
 ## 争议与评论
 
 > [!warning]
-> 该系统是[[Evidence-Based Reform|证据本位改革]]的困难案例：它面临清晰的绩效与公平压力，但历史上很少从证据本位范式中汲取教育改革灵感。[[Grade Retention|留级]]尤其体现这种断裂，因为自 1970 年代以来已有大量反对留级有效性的证据，但该做法在过去 20 年反而更加常见，并在 [[PISA]] 2015 中影响 1 至 10 年级 46% 的学生([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
+> 该系统是[[Evidence-Based Reform|证据本位改革]]的困难案例：它面临清晰的绩效与公平压力，但历史上很少从证据本位[[Paradigm|范式]]中汲取教育改革灵感。[[Grade Retention|留级]]尤其体现这种断裂，因为自 1970 年代以来已有大量反对留级有效性的证据，但该做法在过去 20 年反而更加常见，并在 [[PISA]] 2015 中影响 1 至 10 年级 46% 的学生([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
 
 ## 相关概念／政策
 

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Clinical Trial]]"
+  - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"

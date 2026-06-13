@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Objectivism]]"
   - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - **1929** — Dewey 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
-> - **1983** — Bernstein 在 *Beyond Objectivism and Relativism* 中重新阐释 Dewey 的[[Epistemology|认识论]]，挑战客观主义/相对主义的二元对立
+> - **1983** — Bernstein 在 *Beyond [[Objectivism]] and Relativism* 中重新阐释 Dewey 的[[Epistemology|认识论]]，挑战客观主义/相对主义的二元对立
 > - **2003** — Biesta & Burbules 在 *[[Pragmatism in China|pragmatism]] and Educational Research* 中系统阐述交易认识论对教育研究的意义
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次将交易认识论应用于对[[Evidence-Based Education|证据本位教育]]的批判
 > - **2010** — 本文将交易认识论确立为三重缺陷框架的认识论支柱

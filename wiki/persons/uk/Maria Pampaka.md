@@ -9,7 +9,8 @@ nationality: uk
 tags:
 - maria-pampaka
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -50,6 +51,6 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 与 [[Julian Williams]] 合作研究"什么有效"议程及其方法论局限
-> - 关注以学习者能动性为中心的替代评估范式
+> - 关注以学习者能动性为中心的替代评估[[Paradigm|范式]]
 
 ## 争议与批评

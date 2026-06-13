@@ -28,10 +28,13 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
+  - "[[Postmodernism]]"
   - "[[Governance by Spin]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Technical Rationality]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
   - "[[Readings of the Global]]"
 related_theories:

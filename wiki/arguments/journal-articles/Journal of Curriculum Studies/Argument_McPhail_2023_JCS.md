@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Social Realism]]"
+  - "[[Epistemology]]"
   - "[[Recontextualization]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Knowledge-that and Know-how-to]]"
@@ -25,11 +26,13 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Postmodernism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Powerful Knowledge]]"
   - "[[Mātauranga Māori]]"
   - "[[Causality]]"
   - "[[Global Citizenship]]"
+  - "[[Ontology]]"
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
 related_theories:

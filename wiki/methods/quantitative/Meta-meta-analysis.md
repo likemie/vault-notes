@@ -25,6 +25,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Direct Instruction]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"

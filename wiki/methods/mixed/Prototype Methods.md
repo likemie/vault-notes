@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Emic and Etic]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Epistemology]]"
   - "[[Ideal Learner]]"
   - "[[Study Population and Sample]]"
 related_theories:

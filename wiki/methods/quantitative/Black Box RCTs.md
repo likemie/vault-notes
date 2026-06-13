@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Clinical Trial]]"
+  - "[[Paradigm]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 > 黑箱 RCT 的产出仅适用于单一的二选一决策（Cartwright & Hardie, 2012）——是否采用项目 X。但学校情境中因素的相互依赖意味着行动者很少处于做出此类决策的位置([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])。
 
 
-> [!abstract] 黑箱 RCT 的机制性根源：从医学到教育的范式错配
+> [!abstract] 黑箱 RCT 的机制性根源：从医学到教育的[[Paradigm|范式]]错配
 > > "While this paradigm might suit a small range of educational intervention types, such as computer software or boxed social and emotional learning curricula, it applies only to a narrow portion of potentially helpful educational practices." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301, citing Howe, 2004, p. 45]])
 >
 > 医学 RCT 建立在大量先期理论工作之上——"医学治疗是多年理论检验的体现"（Pawson, 2006, p. 47）。而教育 RCT"通常被期望提供'治疗'的全部科学知识基础"（Hammersley, 2015, p. 4）——黑箱 RCT 在教育中运行在一个远未充分理论化的领域。
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - **医学药物试验范式** — 黑箱 [[Randomised Controlled Trials|RCT]] 的起源范式，其假设（标准化产品可被认证后分发）在教育中适用范围极度有限
+> - **医学药物试验[[Paradigm|范式]]** — 黑箱 [[Randomised Controlled Trials|RCT]] 的起源范式，其假设（标准化产品可被认证后分发）在教育中适用范围极度有限
 > - **Cartwright & Hardie (2012)** — 揭示黑箱 RCT 产出的知识仅适用于"二选一"决策类型
 
 ## 实证发现

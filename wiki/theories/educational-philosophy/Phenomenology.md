@@ -18,6 +18,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Objectivism]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
   - "[[Visible Learning]]"
@@ -26,6 +27,7 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Edmund Husserl]]"
+  - "[[Alfred Schutz]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
@@ -77,7 +79,7 @@ Curtis（1978）总结了现象学家的三个普遍认同点（pp.535–543）�
 
 ## 舒茨的存在现象学
 
-舒茨（Alfred Schutz）关注的是将胡塞尔的思想引入社会学议题和对社会行为的科学研究（pp.546–550）。他的核心关注是理解日常生活世界的意义结构：
+舒茨（[[Alfred Schutz]]）关注的是将胡塞尔的思想引入社会学议题和对社会行为的科学研究（pp.546–550）。他的核心关注是理解日常生活世界的意义结构：
 
 - **意义的来源**：舒茨在"意识流"（stream of consciousness）中寻找意义的起源——本质上是一股不间断的活经验之流，这些经验本身没有意义。人们只能通过**[[Reflexivity|反思性]]**（reflexivity）来回顾性地赋予意义——即回到自身并审视已经发生的事情。对舒茨而言，通过反思性赋予意义取决于人们识别他们所寻求的目的或目标。
 - **类型化**（typification）：我们理解他人行为的方式依赖于类型化过程——观察者利用类似"理想类型"的概念来理解人们的行为。这些概念来源于我们对日常生活的经验，我们通过它们来分类和组织我们的日常世界。我们在自身**传记位置**（biographical locations）和社会语境中学习这些类型化（Burrell and Morgan, 1979）。
@@ -94,7 +96,7 @@ Curtis（1978）总结了现象学家的三个普遍认同点（pp.535–543）�
 
 > [!warning] 争议与批评
 > - **操作化困难**：现象学提供了强大的教育理解框架，但很难被直接转换为标准化课程指标或评估量表。它因此常被用来批评当代政策把知识和能力拆成可测量单元的倾向([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
-> - **与[[Constructivist Paradigm|建构主义]]的关系**：芬兰 [[Phenomenon-Based Learning|PhBL]] 同时继承现象学与建构主义。二者都反对简单客观主义，但建构主义常被课程心理学吸收为学习理论；现象学则更强调存在、身体、情感、生活世界和世界对人的召唤([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 8, 11]])。
+> - **与[[Constructivist Paradigm|建构主义]]的关系**：芬兰 [[Phenomenon-Based Learning|PhBL]] 同时继承现象学与建构主义。二者都反对简单[[Objectivism|客观主义]]，但建构主义常被课程心理学吸收为学习理论；现象学则更强调存在、身体、情感、生活世界和世界对人的召唤([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 8, 11]])。
 
 ## 相关研究
 

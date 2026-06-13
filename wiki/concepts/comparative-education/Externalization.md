@@ -16,6 +16,7 @@ tags:
 - discourse-formation
 - region/global
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
 related_theories:

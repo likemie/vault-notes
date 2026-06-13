@@ -24,6 +24,7 @@ related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[Global Universities Rankings]]"
   - "[[New Public Management]]"
+  - "[[Post-structuralism]]"
   - "[[Sociology of Valuation and Evaluation]]"
 related_theories:
   - "[[Neo-feudalism in Higher Education]]"

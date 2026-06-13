@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Research Question]]"
+  - "[[Paradigm]]"
   - "[[Discipline-Based Theory]]"
   - "[[Variable]]"
   - "[[Theoretical Standpoint]]"
@@ -61,7 +62,7 @@ updated: 2026-05-31
 ## 应用示例
 
 > [!example]
-> Hodgkin (2008) 在[[Mixed Methods Research|混合方法研究]]中展示了女性主义解放透镜的使用。她考察了澳大利亚男性和女性是否拥有不同的社会资本概况，以及为何女性更多参与社会和社区活动而非公民活动。其明确目标是"demonstrate the use of mixed methods in feminist research"（p.296）。在文章开头，她讨论了女性主义视角：关注社会资本研究中性别视角的缺失、使用量化和[[Qualitative Research|质性研究]]为女性经验发声、将研究置于变革性范式之中。研究发现男女社会资本存在差异后，她在第二阶段探索了女性的观点，揭示了女性希望成为"好母亲"、避免社会隔离、成为积极公民等主题([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.70]])。
+> Hodgkin (2008) 在[[Mixed Methods Research|混合方法研究]]中展示了女性主义解放透镜的使用。她考察了澳大利亚男性和女性是否拥有不同的社会资本概况，以及为何女性更多参与社会和社区活动而非公民活动。其明确目标是"demonstrate the use of mixed methods in feminist research"（p.296）。在文章开头，她讨论了女性主义视角：关注社会资本研究中性别视角的缺失、使用量化和[[Qualitative Research|质性研究]]为女性经验发声、将研究置于变革性[[Paradigm|范式]]之中。研究发现男女社会资本存在差异后，她在第二阶段探索了女性的观点，揭示了女性希望成为"好母亲"、避免社会隔离、成为积极公民等主题([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.70]])。
 
 ## 概念辨析
 

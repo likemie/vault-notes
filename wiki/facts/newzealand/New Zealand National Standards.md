@@ -80,7 +80,7 @@ updated: '2026-05-18'
 >
 > Hattie 的独特立场是他同时看到了政策的优点和实施的风险——这种非二元立场"似乎让一些批评者感到困惑"（p.93）。
 >
-> 随后，[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 Treasury 2011 年简报为案例，揭示了 Hattie 的 VL 证据如何被政策制定者从语境中剥离以支持增加生师比的建议——而这一建议直接与 Hattie 本人的明确结论矛盾（详见 [[Treasury Briefing on Student-Teacher Ratios]]、[[Argument_ONeill_2012_NZJES]]）。
+> 随后，[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 Treasury 2011 年简报为案例，揭示了 Hattie 的 [[Visible Learning|VL]] 证据如何被政策制定者从语境中剥离以支持增加生师比的建议——而这一建议直接与 Hattie 本人的明确结论矛盾（详见 [[Treasury Briefing on Student-Teacher Ratios]]、[[Argument_ONeill_2012_NZJES]]）。
 
 ## 相关概念／理论
 

@@ -11,7 +11,9 @@ tags:
   - method/mixed-methods
 related_concepts:
   - "[[Postpositivism]]"
+  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Positivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"

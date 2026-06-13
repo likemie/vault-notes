@@ -21,6 +21,7 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Absorptive Capacity]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Habitus]]"
   - "[[Knowledge Exchange]]"

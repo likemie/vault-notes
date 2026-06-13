@@ -11,6 +11,7 @@ tags:
   - region/uk
   - level/higher-ed
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -31,7 +32,7 @@ updated: 2026-05-18
 ## 核心主张
 
 > [!info] 核心主张
-> 理性行动理论（Rational Action Theory, RAT）在教育分层研究中的应用，以 Breen & Goldthorpe（1997）的模型最具影响力。该理论将教育选择理解为不同阶层在理性衡量自身能力、成本和收益之后的差异化结果，其核心机制在于：不同阶层对向下流动风险的规避程度不同，因此即使能力相同，也会作出不同的教育决策。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将该理论纳入"价值选择过程"的理论讨论，作为文化社会学范式争论的对话方之一。
+> 理性行动理论（Rational Action Theory, RAT）在教育分层研究中的应用，以 Breen & Goldthorpe（1997）的模型最具影响力。该理论将教育选择理解为不同阶层在理性衡量自身能力、成本和收益之后的差异化结果，其核心机制在于：不同阶层对向下流动风险的规避程度不同，因此即使能力相同，也会作出不同的教育决策。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将该理论纳入"价值选择过程"的理论讨论，作为文化社会学[[Paradigm|范式]]争论的对话方之一。
 >
 > > 在使用理性选择视角理解学生的目标和选择行为时，社会学家将人们不同的选择看作是不同人在理性地衡量自身能力、成本和收益之后的差异化结果（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Breen & Goldthorpe, 1997; Boudon, 2001, 2008）
 >
@@ -71,7 +72,7 @@ updated: 2026-05-18
 ## 相关理论
 
 > [!example] 相关理论
-> - [[Culture as Toolkit]] — Swidler（1986）的工具箱理论提供了与 RAT 对话的文化社会学替代范式：文化作为工具被使用以达到预定目的，但"预定目的是从何而来的"这一问题则指向价值观驱动的文化范式（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - [[Culture as Toolkit]] — Swidler（1986）的工具箱理论提供了与 RAT 对话的文化社会学替代[[Paradigm|范式]]：文化作为工具被使用以达到预定目的，但"预定目的是从何而来的"这一问题则指向价值观驱动的文化范式（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - wiki-[[Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的[[Pragmatic Paradigm|实用主义]]性质同时揭示其受结构性条件制约
 >
 

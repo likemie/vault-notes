@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Innovation Hub]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Paradigm]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"

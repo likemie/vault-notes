@@ -12,10 +12,13 @@ tags:
 - region/denmark
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Learnification]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
   - "[[Effect Size]]"
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Blind Spot in Observation]]"

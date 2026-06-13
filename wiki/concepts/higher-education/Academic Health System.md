@@ -19,6 +19,7 @@ related_concepts:
   - "[[Academic Medical Center]]"
   - "[[University-Industry Collaboration]]"
   - "[[Applied Medical Innovation]]"
+  - "[[Valley of Death]]"
 related_theories: []
 related_methods: []
 related_persons: []

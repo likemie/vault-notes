@@ -20,6 +20,16 @@ related_concepts:
   - "[[Variable]]"
   - "[[Multimethod Research]]"
   - "[[Research Question]]"
+  - "[[Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
+  - "[[Objectivism]]"
+  - "[[Ontology]]"
+  - "[[Pragmatism in China]]"
+  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Construct]]"
+  - "[[Purpose Statement]]"
   - "[[Postpositivism]]"
   - "[[Theoretical Perspective]]"
   - "[[Metainferences]]"
@@ -29,6 +39,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Between-Subjects and Within-Subjects Designs]]"
+  - "[[Triangulation]]"
   - "[[Qualitative Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
@@ -125,7 +137,7 @@ updated: 2026-06-12
 ## 哲学基础：实用主义
 
 > [!abstract] [[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]
-> [[Positivism|实证主义]]取向以科学的、客观主义的[[Ontology|本体论]]和认识论为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以**实用主义**（[[Pragmatism in China|pragmatism]]）的本体论和认识论为前提（pp.646–647）。
+> [[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和认识论为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以**实用主义**（[[Pragmatism in China|pragmatism]]）的本体论和认识论为前提（pp.646–647）。
 
 实用主义本质上是实践的（practice-driven, Denscombe, 2008: 280）而非理想化的。它主张：
 

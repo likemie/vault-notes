@@ -18,8 +18,10 @@ tags:
 related_concepts:
   - "[[New Public Management]]"
   - "[[Technical Rationality]]"
+  - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Emergence]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,5 +60,5 @@ updated: 2026-05-18
 
 > [!success] 实证发现
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 论证 [[Visible Learning]] 在 GERM 中扮演推手角色：VL 以"什么有效"的科学外观为标准化问责提供了实证合法性，同时压制了关于教育目的的更广泛辩论（p.24-25, 36）
-> - GERM 的典型表现包括：师生比增加、[[Public-Private Partnership in Research|公私合作伙伴关系]]涌现、筹款弥补资金缺口常态化、企业赞助增加、国际化项目推广（Yoon, Young & Livingston, 2020; Elnagar & Young, 2021）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31-32]])
+> - GERM 的典型表现包括：师生比增加、[[Public-Private Partnership in Research|公私合作伙伴关系]][[Emergence|涌现]]、筹款弥补资金缺口常态化、企业赞助增加、国际化项目推广（Yoon, Young & Livingston, 2020; Elnagar & Young, 2021）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31-32]])
 

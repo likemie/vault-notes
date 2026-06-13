@@ -15,6 +15,7 @@ tags:
   - bourdieu
   - paradigm/critical
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Doxa]]"
   - "[[Definition of Terms]]"
   - "[[Knowledge Production]]"
@@ -23,6 +24,8 @@ related_concepts:
   - "[[Complexity Reduction]]"
   - "[[Champ]]"
   - "[[Habitus]]"
+  - "[[Positivism]]"
+  - "[[Ontology]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods: []

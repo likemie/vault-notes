@@ -18,16 +18,20 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Reflexivity]]"
   - "[[Cultural Capital]]"
+  - "[[Epistemology]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
   - "[[School Leadership]]"
   - "[[Relational Space]]"
+  - "[[Subjectivism]]"
+  - "[[Objectivism]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Non-monetary Competition]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Positivism]]"
 related_theories:
   - "[[Neo-feudalism in Higher Education]]"
 related_methods:
@@ -211,7 +215,7 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 ### 1972–1980 — 实践理论的建构
 
 - **核心著作**：*Esquisse d'une théorie de la pratique*（1972）、*Le Sens pratique*（1980）
-- **思想发展**：以 Kabylie 民族志为基础，Bourdieu 系统发展[[Habitus|习性]]概念以超越主观主义（萨特式自由主体）与客观主义（Lévi-Strauss 式无主体结构）的二元对立。*Le Sens pratique* 进一步引入"实践感"概念，将时间性、模糊性和策略性纳入实践分析，批判理性选择理论将实践简化为有意识的成本收益计算。
+- **思想发展**：以 Kabylie 民族志为基础，Bourdieu 系统发展[[Habitus|习性]]概念以超越[[Subjectivism|主观主义]]（萨特式自由主体）与[[Objectivism|客观主义]]（Lévi-Strauss 式无主体结构）的二元对立。*Le Sens pratique* 进一步引入"实践感"概念，将时间性、模糊性和策略性纳入实践分析，批判理性选择理论将实践简化为有意识的成本收益计算。
 - **相关概念／理论**：[[Habitus]]、实践感、策略
 
 ---

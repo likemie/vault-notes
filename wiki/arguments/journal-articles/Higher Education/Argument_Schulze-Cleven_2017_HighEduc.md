@@ -23,6 +23,7 @@ tags:
   - region/western-europe
   - level/higher-ed
 related_concepts:
+  - "[[Emergence]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Capitalism]]"
   - "[[New Public Management]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Non-monetary Competition]]"
   - "[[Elitism Dispositif]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Paradigm]]"
   - "[[Discursive Stratification]]"
   - "[[Entrepreneurial University]]"
   - "[[Global Universities Rankings]]"

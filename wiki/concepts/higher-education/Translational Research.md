@@ -21,6 +21,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Valley of Death]]"
   - "[[Clinical Trial]]"
   - "[[Contract Research Organization]]"
   - "[[Academic Medical Center]]"

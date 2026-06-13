@@ -18,9 +18,12 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Value-Based Education]]"
+  - "[[Paradigm]]"
   - "[[Learnification]]"
   - "[[Complexity Reduction]]"
+  - "[[Ontology]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Transactional Epistemology]]"

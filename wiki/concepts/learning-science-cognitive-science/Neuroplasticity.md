@@ -15,6 +15,8 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
+  - "[[Ontology]]"
   - "[[Synaptogenesis]]"
   - "[[Executive Function]]"
   - "[[Synaptic Pruning]]"

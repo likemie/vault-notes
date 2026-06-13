@@ -15,6 +15,7 @@ tags:
   - theme/educated-identity
   - theme/knowledge-transfer
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Global Policy Space]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Lifelong Learning]]"

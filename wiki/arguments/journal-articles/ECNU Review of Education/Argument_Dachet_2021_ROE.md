@@ -18,8 +18,10 @@ tags:
   - policy/compulsory-education
 related_concepts:
   - "[[Research Question]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"

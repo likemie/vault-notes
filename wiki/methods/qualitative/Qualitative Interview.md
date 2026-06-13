@@ -16,34 +16,35 @@ tags:
   - research-methodology
   - paradigm/interpretivist
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Emergence]]"
   - "[[Probes]]"
   - "[[Central Question]]"
   - "[[Reflexivity]]"
   - "[[University-Industry Collaboration]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
-  - "[[Test-Based Accountability]]"
-related_theories:
-  - "[[Third Generation Activity Theory]]"
+related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Interview Protocol]]"
   - "[[Member Checking]]"
   - "[[Triangulation]]"
   - "[[Ethnography]]"
-  - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Max Weber]]"
 related_facts:
   - "[[Synthesis and Solid State Pharmaceutical Centre]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Peidu]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
+  - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
@@ -106,7 +107,7 @@ updated: 2026-06-02
 > - **开放性**：以开放问题为主导，让受访者在自身框架内组织叙述，而非被迫选择预设答案
 > - **深度追问**：研究者持续追问"为什么""然后呢""能举个例子吗"，直至理解受访者的行动逻辑和意义赋予
 > - **语境敏感性**：关注受访者叙述的社会情境和个人生活史——同一句话在不同人生阶段可能有完全不同的含义
-> - **弹性结构**：[[Interview Protocol|访谈提纲]]是导航而非脚本——研究者根据受访者的叙述灵活调整追问方向，允许意外主题的涌现
+> - **弹性结构**：[[Interview Protocol|访谈提纲]]是导航而非脚本——研究者根据受访者的叙述灵活调整追问方向，允许意外主题的[[Emergence|涌现]]
 > - **意义优先**：目标是理解"这对受访者意味着什么"，而非收集可量化的态度数据
 
 ---

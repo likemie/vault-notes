@@ -14,6 +14,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Ganz-Methode]]"
   - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
@@ -21,6 +22,7 @@ related_concepts:
   - "[[Ecomuseology]]"
   - "[[Epistemology of Resistance]]"
   - "[[Tense Society]]"
+  - "[[Paradigm]]"
   - "[[Official Knowledge]]"
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"

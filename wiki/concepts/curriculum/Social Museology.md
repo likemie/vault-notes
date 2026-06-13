@@ -22,7 +22,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Ganz-Methode]]"
   - "[[Official Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Life Power]]"
+  - "[[Paradigm]]"
   - "[[Epistemology of Resistance]]"
 related_theories:
   - "[[Creative Tension of Sense]]"

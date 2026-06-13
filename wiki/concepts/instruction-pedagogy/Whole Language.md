@@ -17,6 +17,7 @@ tags:
   - level/k12
   - paradigm/constructivist
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Language Experience Approach]]"

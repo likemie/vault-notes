@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Naturalistic Generalization]]"
   - "[[Sage]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -54,6 +55,6 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success]
-> - Stake 的案例研究方法论与 Yin 的系统化案例研究路径共同构成质性社会科学中最主流的两种案例研究范式
+> - Stake 的案例研究方法论与 Yin 的系统化案例研究路径共同构成质性社会科学中最主流的两种案例研究[[Paradigm|范式]]
 > - 回应性评价（responsive evaluation）对教育项目和政策评价领域产生了深远影响
 > - [[Naturalistic Generalization|自然主义概括]]概念为[[Qualitative Research|质性研究]]提供了一种区别于统计概括的替代性推广逻辑

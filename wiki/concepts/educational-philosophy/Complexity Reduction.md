@@ -23,6 +23,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Analytic Framework]]"
 related_theories:
+  - "[[Complexity Theory]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

@@ -16,6 +16,7 @@ tags:
   - region/uk
   - region/us
 related_concepts:
+  - "[[Scientific Method]]"
   - "[[Causality]]"
   - "[[Return on Investment]]"
   - "[[Professional Judgment]]"

@@ -17,6 +17,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Grade Retention]]"
+  - "[[Paradigm]]"
   - "[[Literature Review]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -39,7 +40,7 @@ updated: 2026-05-24
 ## 背景
 
 > [!info]
-> 该页记录[[Grade Retention|留级]]在法语比利时的具体制度案例。法语比利时长期把留级用于管理学生学习困难；Dachet 与 Baye 将其称为该系统很少从证据本位范式中汲取改革灵感的最佳例子，因为自 1970 年代以来已有大量证据反对留级有效性，但这种实践在过去 20 年反而更加常见([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
+> 该页记录[[Grade Retention|留级]]在法语比利时的具体制度案例。法语比利时长期把留级用于管理学生学习困难；Dachet 与 Baye 将其称为该系统很少从证据本位[[Paradigm|范式]]中汲取改革灵感的最佳例子，因为自 1970 年代以来已有大量证据反对留级有效性，但这种实践在过去 20 年反而更加常见([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
 
 ## 实施情况
 

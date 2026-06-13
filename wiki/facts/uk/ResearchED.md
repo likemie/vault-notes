@@ -13,6 +13,7 @@ tags:
   - synthetic-phonics
   - region/uk
 related_concepts:
+  - "[[Scientific Method]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:

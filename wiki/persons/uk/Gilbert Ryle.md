@@ -12,6 +12,7 @@ tags:
   - philosophy
 related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Epistemology]]"
   - "[[Surface and Deep Learning]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"

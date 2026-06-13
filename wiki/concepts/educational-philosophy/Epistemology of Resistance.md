@@ -16,9 +16,11 @@ tags:
 - theme/resistance
 - theme/decolonial
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
   - "[[Ganz-Methode]]"
+  - "[[Paradigm]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
   - "[[Champ]]"

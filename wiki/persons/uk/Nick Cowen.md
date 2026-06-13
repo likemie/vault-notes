@@ -16,6 +16,8 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Causality]]"

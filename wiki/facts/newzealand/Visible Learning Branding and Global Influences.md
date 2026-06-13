@@ -27,6 +27,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Further Education]]"
+  - "[[Scientific Method]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"

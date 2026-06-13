@@ -12,6 +12,7 @@ tags:
 - theory/critical
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Post-structuralism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -60,7 +61,7 @@ updated: 2026-06-02
 ## 发展脉络
 
 > [!note]
-> - **2013 年**：Sum & Jessop 在 Towards a Cultural Political Economy 中系统提出文化政治经济学框架，作为对传统政治经济学忽略文化维度的回应，同时也区别于后结构主义完全消解物质性的倾向([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])。
+> - **2013 年**：Sum & Jessop 在 Towards a Cultural Political Economy 中系统提出文化政治经济学框架，作为对传统政治经济学忽略文化维度的回应，同时也区别于[[Post-structuralism|后结构主义]]完全消解物质性的倾向([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])。
 > - **2018 年**：Moisio（2018）在 Geopolitics of the [[Knowledge-Based Economy]] 中运用 Jessop 的想象概念分析[[Knowledge-Based Economization|知识经济化]]的空间维度，提出 [[Hub and Flow Imaginaries|枢纽与流动想象]]，将文化政治经济学的履行性想象逻辑引入地缘政治分析([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
 > - **2022 年**：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]]将文化政治经济学应用于[[International Education Hubs|国际教育枢纽]]的比较分析，从中导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，提供了文化政治经济学在高等教育研究中最系统的实证应用之一([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 205–211]])。
 
@@ -69,7 +70,7 @@ updated: 2026-06-02
 ## 认识论立场
 
 > [!info]
-> - **[[Critical Realism|批判实在论]]**（Critical realism）：文化政治经济学承认符号和物质维度都是实在的，但拒绝将任何一方还原为另一方。这与后结构主义（仅承认话语/文本的实在性）和经济决定论（仅承认物质/经济基础的实在性）形成区别。
+> - **[[Critical Realism|批判实在论]]**（Critical realism）：文化政治经济学承认符号和物质维度都是实在的，但拒绝将任何一方还原为另一方。这与[[Post-structuralism|后结构主义]]（仅承认话语/文本的实在性）和经济决定论（仅承认物质/经济基础的实在性）形成区别。
 > - **常用研究方法**：批判话语分析（Critical Discourse Analysis, Fairclough, 2003）、[[Comparative Case Study|比较案例研究]]（Bartlett & Vavrus, 2017）——[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 即结合此二方法操作化文化政治经济学框架（pp.202–204）。
 
 ---

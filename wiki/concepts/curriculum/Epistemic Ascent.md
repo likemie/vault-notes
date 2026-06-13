@@ -17,6 +17,7 @@ tags:
   - epistemology
   - theory/social-realism
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Big Ideas]]"
   - "[[Surface and Deep Learning]]"
   - "[[Knowledge-that and Know-how-to]]"

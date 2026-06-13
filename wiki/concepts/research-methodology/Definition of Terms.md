@@ -12,6 +12,7 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Literature Review]]"
+  - "[[Emergence]]"
   - "[[Metainferences]]"
 related_theories: []
 related_methods:
@@ -78,7 +79,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ### 质性研究
 
-因归纳式、涌现式的研究设计，[[Qualitative Research|质性研究]]在研究开头可能只定义少量术语，或提出暂定（tentative）定义。主题（或视角、维度）在数据分析过程中涌现，术语在研究发现中出现时才被定义。因此，质性研究计划通常不包含单独的术语定义章节，而是将暂定的质性定义贯穿全文。
+因归纳式、[[Emergence|涌现]]式的研究设计，[[Qualitative Research|质性研究]]在研究开头可能只定义少量术语，或提出暂定（tentative）定义。主题（或视角、维度）在数据分析过程中涌现，术语在研究发现中出现时才被定义。因此，质性研究计划通常不包含单独的术语定义章节，而是将暂定的质性定义贯穿全文。
 
 ### 混合方法研究
 

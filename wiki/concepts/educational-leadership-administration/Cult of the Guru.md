@@ -24,6 +24,7 @@ related_concepts:
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
+  - "[[Emergence]]"
   - "[[Neo-Taylorism]]"
   - "[[Ontological Complicity]]"
   - "[[Critic and Conscience of Society]]"

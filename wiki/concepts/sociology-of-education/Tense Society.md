@@ -16,6 +16,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Ganz-Methode]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods: []

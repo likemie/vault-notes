@@ -14,6 +14,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Intercoder Agreement]]"
+  - "[[Emergence]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -92,14 +93,14 @@ updated: 2026-06-01
 > [!warning]
 > - 手动编码极为耗时，即使只有少数参与者的数据也需要大量时间和精力（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.206）
 > - 编码的一致性（信度）需要特别关注——不同编码者可能对同一段文本给出不同编码，应通过 [[Intercoder Agreement|编码者间一致性]] 检验来确保信度（Miles & Huberman, 1994 建议 ≥80%）
-> - 预设编码虽有结构优势，但如果过于僵化，可能限制研究者对数据中新涌现模式的发现
+> - 预设编码虽有结构优势，但如果过于僵化，可能限制研究者对数据中新[[Emergence|涌现]]模式的发现
 
 ---
 
 ## 使用此方法的研究
 
 > [!example]
-> - Asmussen & Creswell（1995）对校园枪击案反应的[[Qualitative Research|质性研究]]中，编码发现了"再触发"这一非预期主题，展示了涌现式编码如何揭示参与者经验中被忽视的维度（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
+> - Asmussen & Creswell（1995）对校园枪击案反应的[[Qualitative Research|质性研究]]中，编码发现了"再触发"这一非预期主题，展示了[[Emergence|涌现]]式编码如何揭示参与者经验中被忽视的维度（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 
 ---
 

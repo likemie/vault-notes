@@ -31,6 +31,7 @@ related_theories:
 related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
+  - "[[George Herbert Mead]]"
   - "[[Wolfgang Klafki]]"
 related_facts:
   - "[[Finnish National Core Curriculum]]"

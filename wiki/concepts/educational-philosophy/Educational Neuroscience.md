@@ -21,7 +21,8 @@ tags:
   - learning-science
   - cognitive-science
   - policy-analysis
-related_concepts: []
+related_concepts:
+  - "[[Scientific Method]]"
 related_theories: []
 related_methods: []
 related_persons:

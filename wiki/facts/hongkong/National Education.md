@@ -22,6 +22,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
   - "[[Psychologisation]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Nation Building through Education]]"
 related_methods:
@@ -137,7 +138,7 @@ updated: '2026-05-25'
 >
 > > 在 EdUHK 的政策对话中，Lui Tai-lok 和 Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使如此含蓄的批评也因暗示青年需要政治对话和能动性而显得无力([[Argument_Vickers_2024_CE|Vickers, 2024, pp.153–154]])。
 >
-> **目前状态**：《青年发展蓝图》已在实施中，其将政治问题心理化的框架已成为官方处理青年事务的主导范式。
+> **目前状态**：《青年发展蓝图》已在实施中，其将政治问题心理化的框架已成为官方处理青年事务的主导[[Paradigm|范式]]。
 
 ---
 

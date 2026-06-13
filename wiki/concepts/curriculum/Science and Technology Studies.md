@@ -20,6 +20,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[Descriptive Analysis]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"

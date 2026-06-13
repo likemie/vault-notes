@@ -16,6 +16,7 @@ related_concepts:
   - "[[Cognitive Inhibition]]"
   - "[[Updating and Monitoring]]"
   - "[[Working Memory]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
 related_methods: []
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 
 ## 研究范式
 
-> [!info] 研究范式
+> [!info] 研究[[Paradigm|范式]]
 > 该框架主要通过认知任务测量来检验，包括：
 > - 抑制：Stroop 测验、昼夜任务
 > - 转换：威斯康星卡片分类任务（WCST）、维度变化卡片分类任务（DCCS）

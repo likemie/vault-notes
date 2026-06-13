@@ -14,6 +14,7 @@ tags:
 - quantitative-methods
 related_concepts:
   - "[[Variable]]"
+  - "[[Epistemology]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
 related_theories:

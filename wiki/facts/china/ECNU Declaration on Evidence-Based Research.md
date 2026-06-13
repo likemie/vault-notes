@@ -13,6 +13,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
   - "[[Conflict of Interest in Research]]"
@@ -37,7 +38,7 @@ updated: '2026-06-02'
 ## 经过
 
 > [!note]- 经过
-> 2017 年 1 月，华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布了华东师范大学宣言（The East China Normal University Declaration），旨在加强教育实证研究并推动研究范式转变([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.14]])。
+> 2017 年 1 月，华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布了华东师范大学宣言（The East China Normal University Declaration），旨在加强教育实证研究并推动研究[[Paradigm|范式]]转变([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.14]])。
 >
 > 宣言识别的 10 条推进措施 (p.14-15)：
 > 1. 加强青年教师的证据本位研究课程建设与培训

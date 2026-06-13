@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Response-ability]]"
+  - "[[Emergence]]"
+  - "[[Ontology]]"
   - "[[Posthumanism]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"

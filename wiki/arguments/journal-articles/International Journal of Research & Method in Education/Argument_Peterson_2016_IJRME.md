@@ -17,6 +17,7 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Research Question]]"
+  - "[[Paradigm]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"

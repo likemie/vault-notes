@@ -16,6 +16,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Manuel Castells]]"
+  - "[[Trofim Lysenko]]"
 related_facts:
   - "[[Akademgorodok]]"
 related_arguments:

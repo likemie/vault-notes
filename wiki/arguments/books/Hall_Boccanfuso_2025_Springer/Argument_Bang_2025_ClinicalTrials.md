@@ -24,7 +24,9 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Paradigm]]"
   - "[[Research Question]]"
+  - "[[Emergence]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []

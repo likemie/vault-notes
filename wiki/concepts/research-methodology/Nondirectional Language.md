@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Emergent Design]]"
   - "[[Transformative Paradigm]]"
 related_theories: []

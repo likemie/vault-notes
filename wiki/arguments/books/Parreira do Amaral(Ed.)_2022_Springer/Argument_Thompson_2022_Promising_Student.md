@@ -30,6 +30,7 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Bildung]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods: []

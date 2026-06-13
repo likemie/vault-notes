@@ -24,6 +24,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Lifelong Learning]]"
+  - "[[Emergence]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
@@ -112,7 +113,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 
 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示了 KBE 话语对[[Further Education|继续教育]]——尤其是[[Corporate Education|企业教育]]——的驱动作用。Morris-Suzuki（1997）将后福特经济称为"永久创新经济"（perpetual innovation economy）：知识生命周期不断缩短，劳动力需要持续再技能化（re-skilling），这使继续教育从边缘走向中心([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])。在此逻辑下，KBE 不仅推动了高等教育的大众化，也同时推动了继续教育的扩张——两者构成后福特经济中[[Lifelong Learning|终身学习]]的两大支柱。
 
-> 例：一家制药公司十年前的核心产品知识可能十年不变；但在 KBE 逻辑下，新药研发周期缩短、基因治疗等新技术不断涌现，销售代表和研发人员每隔几年就需要系统性更新知识——这不是"可选的进修"，而是"不更新就会被淘汰"的结构性压力。这就是 Morris-Suzuki 所说的"永久创新"：不是创新了一次就停下来，而是创新本身变成了常态。（基于 Hartmann, 2022, p.179）
+> 例：一家制药公司十年前的核心产品知识可能十年不变；但在 KBE 逻辑下，新药研发周期缩短、基因治疗等新技术不断[[Emergence|涌现]]，销售代表和研发人员每隔几年就需要系统性更新知识——这不是"可选的进修"，而是"不更新就会被淘汰"的结构性压力。这就是 Morris-Suzuki 所说的"永久创新"：不是创新了一次就停下来，而是创新本身变成了常态。（基于 Hartmann, 2022, p.179）
 
 ### 多样化的标签体系
 

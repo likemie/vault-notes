@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
+  - "[[Epistemology]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity]]"

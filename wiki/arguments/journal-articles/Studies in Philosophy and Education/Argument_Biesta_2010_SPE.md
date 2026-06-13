@@ -20,6 +20,8 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Complexity Reduction]]"

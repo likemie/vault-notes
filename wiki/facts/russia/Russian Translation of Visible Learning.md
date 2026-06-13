@@ -54,7 +54,7 @@ updated: '2026-05-18'
 
 > [!success] 影响与后果
 > **学术层面**：
-> - VL 成为俄罗斯教育学术讨论的热点话题，被用于论证 FSES 标准的合理性
+> - [[Visible Learning|VL]] 成为俄罗斯教育学术讨论的热点话题，被用于论证 FSES 标准的合理性
 > - 但同时，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]指出"由于某些原因，批评者的论点在俄语文献中未被提及"（p.229），造成俄罗斯学界对 VL 的认知偏向正面
 >
 > **政策风险**：
@@ -64,7 +64,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **俄语支持阵营**（Borisenko, Vachkov, Sokolova）：VL 为教师效能提供了科学基础，与 FSES 标准一致
+> - **俄语支持阵营**（Borisenko, Vachkov, Sokolova）：[[Visible Learning|VL]] 为教师效能提供了科学基础，与 FSES 标准一致
 > - **俄语批评阵营**（Golovchin）：VL 的方法论基础不可靠、文化不适配、可能加剧教师流失
 > - **西方批评阵营**（Snook et al., Terhart, Myburgh, McKnight & Whitburn）：方法论缺陷（异构数据、"苹果与橘子"比较、d=0.40 阈值任意）和文化政治问题（新自由主义监控、能力主义、性别歧视）
 

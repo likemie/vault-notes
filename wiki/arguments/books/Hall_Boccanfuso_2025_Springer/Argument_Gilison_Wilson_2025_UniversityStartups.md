@@ -28,6 +28,7 @@ related_concepts:
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
   - "[[Membership-based Research Consortium]]"
+  - "[[Emergence]]"
   - "[[Tracking]]"
 related_theories: []
 related_methods:

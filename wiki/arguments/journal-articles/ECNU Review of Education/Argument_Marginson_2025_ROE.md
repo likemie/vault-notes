@@ -15,6 +15,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Ontology]]"
+  - "[[Emergence]]"
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
   - "[[Power-Geometries]]"

@@ -18,6 +18,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
   - "[[Academic Engagement Team]]"
+  - "[[Paradigm]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
@@ -71,7 +72,7 @@ updated: 2026-06-03
 > - 从 UPCRC 研究的 Berkeley 实验室中产出了 Apache Spark 和 Ray 等重要分布式计算框架，后者分别支撑了 Databricks 和 Anyscale 等独角兽企业，并成为 OpenAI ChatGPT 的基础设施（Ray）（McManus, 2023，转引自 p.232）
 
 > [!abstract]
-> UPCRC 案例的核心教训：只有成熟行业领导者（Intel 和 Microsoft 当时的情况）才有视野感知"全行业级别"的问题、有资源进行"扭转局面"级别的大规模投资。在公司生命周期（参见 [[Academic Engagement Team|AET]] 的组织演化框架）的特定阶段，[[University-Industry Collaboration|产学合作]]的最高价值不是单个公司的产品回报，而是推动整个技术生态系统的范式转换（p.235）。
+> UPCRC 案例的核心教训：只有成熟行业领导者（Intel 和 Microsoft 当时的情况）才有视野感知"全行业级别"的问题、有资源进行"扭转局面"级别的大规模投资。在公司生命周期（参见 [[Academic Engagement Team|AET]] 的组织演化框架）的特定阶段，[[University-Industry Collaboration|产学合作]]的最高价值不是单个公司的产品回报，而是推动整个技术生态系统的[[Paradigm|范式转换]]（p.235）。
 
 ---
 

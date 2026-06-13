@@ -14,6 +14,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Epistemology of Resistance]]"
   - "[[Ganz-Methode]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods: []

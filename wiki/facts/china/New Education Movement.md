@@ -16,6 +16,7 @@ tags:
   - period/republican-china
 related_concepts:
   - "[[Scientific Attitude]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -49,7 +50,7 @@ updated: 2026-05-26
 > - **1919–1921 年** — 杜威在华讲学，新教育运动达到鼎盛。《新教育》杂志成为普及杜威思想的阵地，杜威的哲学和教育思想成为运动的理论基础([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。
 > - **1919 年[[May Fourth Movement|五四运动]]后** — 新教育受到激进政治行动主义的推动，教育改革和社会政治变革诉求相融合——新教育被寄予厚望，被视为"改造政治与社会的根本手段"([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614–615]])。
 > - **1922–1923 年** — 1922 年学制改革与 1923 年课程改革成为新教育运动的具体成果([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.617–618]])。
-> - **1923 年后** — 运动转向温和路线，重心从"民主"转向"[[Scientific Attitude|科学态度]]"。[[Tao Xingzhi|陶行知]]创办的《新教育评论》（1925–1928）取代《新教育》（1919–1925），标志着范式转换([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.619]])。
+> - **1923 年后** — 运动转向温和路线，重心从"民主"转向"[[Scientific Attitude|科学态度]]"。[[Tao Xingzhi|陶行知]]创办的《新教育评论》（1925–1928）取代《新教育》（1919–1925），标志着[[Paradigm|范式转换]]([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.619]])。
 
 ## 核心张力
 

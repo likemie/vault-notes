@@ -13,6 +13,7 @@ tags:
 - implementation
 - paradigm/interpretivist
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Spirals of Inquiry]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
@@ -37,7 +38,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代范式（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育实践作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
+> 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代[[Paradigm|范式]]（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育实践作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 >
 > > "Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 >
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 > - 改进科学的方法论起源于**组织研究**领域（Langley et al., 2009）
 > - **公共健康领域**的广泛应用为改进科学积累了关于识别和追踪机制的专业知识([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
 > - 近年来在美国，Carnegie Foundation for the Advancement of Teaching 推动了改进科学在教育中的系统应用（Bryk et al., 2015）
-> - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 将改进科学定位为"什么有效"范式的**主要替代方案**——两者各有弱点但高度互补
+> - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 将改进科学定位为"什么有效"[[Paradigm|范式]]的**主要替代方案**——两者各有弱点但高度互补
 
 ## 核心要素
 
@@ -122,7 +123,7 @@ updated: '2026-05-18'
 > 改进科学和探究网络假定教师具备研究方法素养和充足的时间参与持续探究——在资源不足的学校系统中这些条件可能不成立。[[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 承认"这需要时间、资源和专业知识，这些可能并不可用"，并将其作为为何也应改革试验设计的论点——产出更可用的证据以降低对教师专业研究能力的依赖。
 
 
-> [!warning] 与"什么有效"范式的范式战争
+> [!warning] 与"什么有效"[[Paradigm|范式]]的范式战争
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation|EEF]]、IES、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
 
 ## 相关案例／政策

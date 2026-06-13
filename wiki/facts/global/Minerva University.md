@@ -15,6 +15,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Homework]]"
+  - "[[Scientific Method]]"
   - "[[Global Citizenship]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"

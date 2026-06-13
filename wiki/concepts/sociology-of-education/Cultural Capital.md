@@ -29,6 +29,7 @@ related_concepts:
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
 related_theories:
+  - "[[Social Capital Theory]]"
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Quantitative Research]]"
@@ -64,7 +65,7 @@ updated: 2026-05-18
 
 > [!example]
 > - vs **人力资本（Human Capital）** — 人力资本（Becker, 1964）以个体理性投资为[[Analytic Framework|分析框架]]，将教育视为通过有意识投入获取的市场回报；文化资本则强调资本的阶层根源和传递的隐蔽性——家庭社会化的无意识过程而非个体的理性投资是文化资本积累的主要机制
-> - vs **社会资本（Social Capital）** — 社会资本是嵌入社会网络中的实际或潜在资源的总和；文化资本是内化于个体身心或制度化于文凭中的文化资源。二者可相互转化：社会网络可加速文化资本的获取，文化能力可拓展社会网络的进入机会
+> - vs **社会资本（[[Social Capital Theory|social capital]]）** — 社会资本是嵌入社会网络中的实际或潜在资源的总和；文化资本是内化于个体身心或制度化于文凭中的文化资源。二者可相互转化：社会网络可加速文化资本的获取，文化能力可拓展社会网络的进入机会
 > - vs 符号资本（Symbolic Capital） — 符号资本是任何一种资本在被感知和承认为正当性时所获得的形式；制度化文化资本（如名校文凭）在被普遍承认为"能力"的客观指标时，即发挥着符号资本的功能
 
 ---

@@ -39,8 +39,8 @@ related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Minerva University]]"
 related_arguments:
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: low

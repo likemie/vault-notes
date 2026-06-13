@@ -36,6 +36,9 @@ related_concepts:
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
   - "[[Digital Self]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Post-structuralism]]"
   - "[[Competitiveness]]"
   - "[[Performance Indicators]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -129,7 +132,7 @@ updated: 2026-05-23
 ## 认识论立场
 
 > [!info]
-> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场**：治理术属于后结构主义认识论传统——拒绝权力/自由的二元对立，将治理视为一种"在自由中的治理"；拒绝将主体视为权力的被动承受者，而是关注权力如何积极地"生产"主体
+> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场**：治理术属于[[Post-structuralism|后结构主义]]认识论传统——拒绝权力/自由的二元对立，将治理视为一种"在自由中的治理"；拒绝将主体视为权力的被动承受者，而是关注权力如何积极地"生产"主体
 > - **常用分析方法**：话语分析、政策文本分析、非参与式观察
 
 ---

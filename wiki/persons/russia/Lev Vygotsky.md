@@ -13,6 +13,7 @@ tags:
   - theory/social-cultural-theory
 related_concepts:
   - "[[Social Realism]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods: []

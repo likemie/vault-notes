@@ -15,6 +15,7 @@ tags:
   - theory/bourdieu
   - theme/power-reproduction
 related_concepts:
+  - "[[Ontology]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"

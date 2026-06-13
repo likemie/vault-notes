@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Epistemology]]"
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"

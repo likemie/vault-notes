@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
+  - "[[Positivism]]"
   - "[[Research Question]]"
   - "[[Causality]]"
 related_theories: []

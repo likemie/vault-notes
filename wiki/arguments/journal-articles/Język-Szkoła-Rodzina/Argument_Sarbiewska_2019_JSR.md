@@ -20,6 +20,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Literature Review]]"
+  - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Radical Constructivism]]"

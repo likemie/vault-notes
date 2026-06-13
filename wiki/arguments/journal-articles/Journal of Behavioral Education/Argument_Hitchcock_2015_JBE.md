@@ -26,6 +26,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
   - "[[Theories of Policy Change]]"
+  - "[[Epistemology]]"
   - "[[Conflict of Interest in Research]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"

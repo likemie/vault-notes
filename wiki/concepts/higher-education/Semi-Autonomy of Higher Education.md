@@ -19,9 +19,11 @@ tags:
 - region/global
 related_concepts:
   - "[[Hegemony]]"
+  - "[[Epistemology]]"
   - "[[Methodological Globalism]]"
   - "[[Academic Freedom]]"
   - "[[Double Spatiality of Universities]]"
+  - "[[Ontology]]"
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"
 related_theories:

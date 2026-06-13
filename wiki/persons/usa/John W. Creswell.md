@@ -15,6 +15,7 @@ tags:
   - research-design
 related_concepts:
   - "[[Sage]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -66,7 +67,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]
-> Creswell 的核心贡献在于将[[Mixed Methods Research|混合方法研究]]系统化为独立的方法论路径。他主张混合方法不只是量化与质性技术的简单拼接，而是以数据整合为核心特征的第三种研究范式。他提出了聚敛式、解释性序列和探索性序列三种核心混合方法设计，并发展了[[Joint Display|联合展示]]（Joint Display）作为整合分析的关键工具。在[[Qualitative Research|质性研究]]方面，他的五路径框架（[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、案例研究）已成为广泛使用的教学分类。
+> Creswell 的核心贡献在于将[[Mixed Methods Research|混合方法研究]]系统化为独立的方法论路径。他主张混合方法不只是量化与质性技术的简单拼接，而是以数据整合为核心特征的第三种研究[[Paradigm|范式]]。他提出了聚敛式、解释性序列和探索性序列三种核心混合方法设计，并发展了[[Joint Display|联合展示]]（Joint Display）作为整合分析的关键工具。在[[Qualitative Research|质性研究]]方面，他的五路径框架（[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、案例研究）已成为广泛使用的教学分类。
 
 ## 影响
 

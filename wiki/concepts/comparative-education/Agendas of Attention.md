@@ -19,6 +19,7 @@ related_concepts:
   - "[[Readings of the Global]]"
   - "[[Cross-National Attraction]]"
   - "[[Global Citizenship]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"

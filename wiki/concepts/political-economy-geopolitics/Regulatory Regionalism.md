@@ -24,6 +24,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Scientization of Politics]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods: []
 related_persons: []

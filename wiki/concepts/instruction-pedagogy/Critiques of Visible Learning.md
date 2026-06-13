@@ -51,6 +51,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
+  - "[[Post-structuralism]]"
   - "[[Cult of the Guru]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
@@ -769,6 +770,17 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 和 Nielsen & Klitmøller (2021) 三位丹麦学者从不同角度提供了 [[Visible Learning|VL]] 的教育哲学批判，三者构成递进关系：VL 的基本理论是什么？→ VL 能看到什么、不能看到什么？→ 为什么有严重缺陷的 VL 仍然主导政策？
 
+> [!logic-map] 批评结构：三位学者的递进追问
+> ```mermaid
+> flowchart LR
+>     R["Rømer 2018"]
+>     L["Larsen 2019"]
+>     N["Nielsen & Klitmøller 2021"]
+>     R -- "VL 的基本教育理论是什么？" --> RA["评价理论殖民教育"]
+>     L -- "VL 能看到 / 不能看到什么？" --> LA["盲视是观看的构成性条件"]
+>     N -- "缺陷 VL 为何仍主导政策？" --> NA["合法化危机 + 技术理性"]
+> ```
+
 ### 评价理论取代教育([[Argument_Rømer_2018_EPT|Rømer, 2018]])
 
 [[Argument_Rømer_2018_EPT|Rømer (2018)]]从教育哲学角度对 Hattie 的 VL 进行了五线批评，其独特贡献在于追问 VL 的**基本教育理论本身是什么**，而非其经验方法论。
@@ -777,17 +789,17 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018, p.2-5)]] 论证 VL 不是一个学习理论甚至不是一个[[Didaktik|教学理论]]——它是当教育和学习被置于一种简单化的[[Appraisal Theory|评价理论]]之下时所发生的事情。评价被定义为"对给定干预目标达成度的回溯性审查"，这要求目标、干预和评估必须被定义为分离的、可测量的、不允许概念上互动的实体。
 
-**四个子论证**：
+> [!critique] 评价殖民教育的四个子论证
+>
+> 1. **评价支配了教育过程**：VL 的教育目标是学习者成为"自我监控、自我评价、自我评估、自我学习"——评价不是教育之后的事，教育直接被定义为评价本身([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2]])
+> 2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、[[Bildung]]、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2-3]])
+> 3. **"Know thy impact" 作为评价座右铭**：教师成为"自身效果的学徒"，教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3]])
+> 4. **元评价的全球形式**：Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3]])
 
-1. **评价支配了教育过程**：VL 的教育目标是学习者成为"自我监控、自我评价、自我评估、自我学习"——评价不是教育之后的事，教育直接被定义为评价本身([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2]])
-2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、[[Bildung]]、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, p.2-3]])
-3. **"Know thy impact" 作为评价座右铭**：教师成为"自身效果的学徒"，教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3]])
-4. **元评价的全球形式**：Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3]])
-
-**评价吞噬教育的逻辑过程**([[Argument_Rømer_2018_EPT|Rømer, 2018, p.5]])：
-1. 开始于一个通过 200 年的争论和延续发展而来的教育传统
-2. Hattie 从传统的有机本质中重构出 138 个简单、原子化的概念，逐个检查每个是否 d>0.40
-3. Hattie 带着统计发现返回传统——但传统已被撕裂，对评价者的眼睛不可见；教育传统的内在本质和运动现在必须通过对简单指标的表现来执行
+> [!proc] 评价吞噬教育的逻辑过程（Rømer, 2018, p.5）
+> 1. 开始于一个通过 200 年的争论和延续发展而来的教育传统
+> 2. Hattie 从传统的有机本质中重构出 138 个简单、原子化的概念，逐个检查每个是否 d>0.40
+> 3. Hattie 带着统计发现返回传统——但传统已被撕裂，对评价者的眼睛不可见；教育传统的内在本质和运动现在必须通过对简单指标的表现来执行
 
 #### 批评二：因变量（学习）缺乏概念清晰性
 
@@ -838,6 +850,9 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 **批评三：教师[[Visible Learning|可见学习]] ≠ 学生有意识/无意识学习。** Larsen 区分了三个"世界"：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2]])。
 
 **批评四：学习不是价值中立的概念——Bildung 要求更多。** Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：1960–70 年代'læring'（学习）最初是批判性、解放性的术语 → 1990 年代起被资本主义逻辑吸收 → 当代学习已成为不可逃避、无所不在的状态和"自然"要求([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8-9]])。Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念——"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])。作为 VL 的替代方案，Larsen 提出了 具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8-10]])。
+
+> [!citation-card] Larsen, 2019, p.9
+> "Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."
 
 [[Argument_Larsen_2019_EducSci|Larsen (2019)]]的独特贡献在于将四个不同学科领域（现象学、神经科学、自由哲学、概念史）整合为一个统一的哲学批判框架——盲视。与 Rømer 追问"VL 的基本理论是什么？"、Nielsen & Klitmøller 追问"为什么有严重缺陷的 VL 仍主导政策？"不同，Larsen 追问的是一阶问题：**"VL 在原则上能看到什么、不能看到什么？"**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
 
@@ -929,7 +944,8 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 **(3) 关键洞察——承诺（promises）而非科学：**
 
-> "It was not the scientific discoveries or the original data produced by Hattie or the evidence-based movement in itself that made a difference but the promises embedded in the theory of technical rationality that could legitimize the educational system."（p. 87）
+> [!citation-card] Nielsen & Klitmøller, 2021, p.87
+> "It was not the scientific discoveries or the original data produced by Hattie or the evidence-based movement in itself that made a difference but the promises embedded in the theory of technical rationality that could legitimize the educational system."
 
 **这正是回答"为什么有严重方法论缺陷的 VL 仍然主导政策"的关键**：政策制定者不是在购买科学的确定性，而是在购买**合法化承诺**——嵌入技术理性理论中的、关于"稳定学习成果"的承诺。正如论文所述，"nobody seems to be concerned about the scientific quality of the data Hattie based his theory on. It is Hattie's response to the legitimation crisis of the educational system that turned him and his visible learning approach into a cult in the educational system"（p. 87）。
 
@@ -960,7 +976,8 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 - 出发点不是从学生视角理解教学情境，而是"finding aspects of student activities that may be subject to correction so the image of students as problem solvers can be maintained"（p. 88）
 - "there is little focus on giving reasons for the students to learn what they should learn"（p. 89）
 
-**总体诊断**：VL 的理论具有 **"意识形态功能"** ——使技术的、工具性的学习方法变得[[Doxa|不言自明]]和主导性的（Nielsen & Klitmøller, 2021, p. 89, citing Kvale, 1976, p. 106）。它不只是一套关于"什么有效"的技术说明——它是一种关于教育**应该是什么**的规范性论述，而这一论述使竞争性理解（如教育作为 [[Bildung]]、民主公民培养、个人意义探索）被边缘化。
+> [!conclusion] 总体诊断：意识形态功能
+> VL 的理论具有 **"意识形态功能"** ——使技术的、工具性的学习方法变得[[Doxa|不言自明]]和主导性的（Nielsen & Klitmøller, 2021, p. 89, citing Kvale, 1976, p. 106）。它不只是一套关于"什么有效"的技术说明——它是一种关于教育**应该是什么**的规范性论述，而这一论述使竞争性理解（如教育作为 [[Bildung]]、民主公民培养、个人意义探索）被边缘化。
 
 > "The study of how teaching can be improved should begin with research on how schools and teaching are conducted in everyday practice, meaning researching how and why pupils, teachers, and parents participate in educational practice."（Nielsen & Klitmøller, 2021, p. 89）
 
@@ -968,11 +985,12 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的合唱（方法论批评），而是追问"为什么错了还如此成功"。这开辟了 VL 批评的**社会-政治功能维度**：
 
-| 批评者 | 追问的问题 | 答案 |
-|--------|-----------|------|
-| [[Argument_Terhart_2011_JCS\|Terhart (2011)]], [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]], Bergeron (2017), Simpson (2017-2019) | VL 的方法论有什么问题？ | 效应量类别错误、统计计算错误、模型假设违反等 |
-| [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
-| **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
+> [!ref-table] Nielsen & Klitmøller 在 VL 批评文献中的位置
+> | 批评者 | 追问的问题 | 答案 |
+> |--------|-----------|------|
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]], [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]], Bergeron (2017), Simpson (2017-2019) | VL 的方法论有什么问题？ | 效应量类别错误、统计计算错误、模型假设违反等 |
+> | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
+> | **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
 
 此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 批判理论出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 

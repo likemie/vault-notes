@@ -24,6 +24,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
+  - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Ryan_2010_HKUP]]"
 related_facts:
   - "[[PISA]]"

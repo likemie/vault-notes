@@ -13,7 +13,9 @@ tags:
 - paradigm/critical
 - paradigm/pragmatist
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Value-Based Education]]"
   - "[[Pragmatic Paradigm]]"

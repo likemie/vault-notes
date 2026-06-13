@@ -23,6 +23,8 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Literature Review]]"
   - "[[Clinical Trial]]"
+  - "[[Emergence]]"
+  - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"

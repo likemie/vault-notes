@@ -14,6 +14,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Champ]]"
+  - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
 related_theories:
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 >
 > > "Mechanism experiments are small-scale [[Champ|field]] experiments to test a specific behavioural theory." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011]])
 >
-> 在教育的反事实范式内，一个可操作的机制定义是：**机制是影响学习行为或理解变化的最直接且最显著的因素**([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303]])。
+> 在教育的反事实[[Paradigm|范式]]内，一个可操作的机制定义是：**机制是影响学习行为或理解变化的最直接且最显著的因素**([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303]])。
 
 ## 历史沿革
 
@@ -60,7 +61,7 @@ updated: '2026-05-18'
 > | 分析单位 | 整个项目/干预包 | 特定因果机制/行为变化 |
 > | 对教师实践的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可[[Transfer Translation Transformation\|迁移]]的行为原则 |
 > | 适用决策类型 | 二选一（采用或不采用） | 持续小决策（如何调整、组合、适应） |
-> | 来源范式 | 医学药物试验 | 发展经济学现场实验 |
+> | 来源[[Paradigm\|范式]] | 医学药物试验 | 发展经济学现场实验 |
 >
 > > 例：在教师反馈项目中，黑箱 RCT 仅评估"反馈培训包"的整体效果。机制实验则隔离测试一个关键机制——例如教师是否使用详细反馈而非通用反馈——通过[[Random Assignment|随机分配]]教师接受不同形式的初始培训([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 304]])。
 
@@ -113,7 +114,7 @@ updated: '2026-05-18'
 > - **反事实/[[Variable|变量]]取向**：机制等同于可观测的中介变量——可通过统计方法（如因果中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）
 > - **实在论取向**：机制大多是"隐藏的"且不能被直接研究——实在论评估者寻求"未言明的"机制和小的"推动"式特征，这些特征塑造决策和行为（Pawson, 2013, pp. 127–128; Astbury & Leeuw, 2010, p. 368）
 >
-> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 303)]] 承认这一争论在"什么有效"指导中"未解决"，但提出务实的中间立场：在教育反事实范式中，将机制定义为"影响学习的最直接因素"是可操作的。
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 303)]] 承认这一争论在"什么有效"指导中"未解决"，但提出务实的中间立场：在教育反事实[[Paradigm|范式]]中，将机制定义为"影响学习的最直接因素"是可操作的。
 
 
 > [!warning] 教育研究经费不足的限制

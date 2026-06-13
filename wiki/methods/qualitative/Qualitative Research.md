@@ -15,12 +15,14 @@ tags:
 - research-methodology
 - paradigm/interpretivist
 related_concepts:
+  - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Emergent Design]]"
   - "[[Reflexivity]]"
   - "[[Backyard Research]]"
+  - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Recommendations for Practice]]"
   - "[[Story Line]]"
@@ -28,6 +30,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Winnowing]]"
   - "[[Multimethod Research]]"
+  - "[[Paradigm]]"
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
   - "[[External Auditor]]"
@@ -58,7 +61,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info] 定义
-> 质性研究（Qualitative Research）是探索和理解个体或群体赋予社会或人类问题之意义的研究路径。研究过程包含涌现式问题和程序、在参与者自然情境中收集数据、从具体到一般主题的归纳式数据分析，以及研究者对数据意义的解释。最终书面报告具有灵活的结构。从事这一形式探究的人使用从数据到主题的归纳风格，关注个体意义，并强调报告情境复杂性的重要性。
+> 质性研究（Qualitative Research）是探索和理解个体或群体赋予社会或人类问题之意义的研究路径。研究过程包含[[Emergence|涌现]]式问题和程序、在参与者自然情境中收集数据、从具体到一般主题的归纳式数据分析，以及研究者对数据意义的解释。最终书面报告具有灵活的结构。从事这一形式探究的人使用从数据到主题的归纳风格，关注个体意义，并强调报告情境复杂性的重要性。
 > 
 > 在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的[[Coding in Qualitative Research|编码]]中指不操纵自[[Variable|变量]]、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 

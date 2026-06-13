@@ -15,6 +15,7 @@ tags:
   - region/latin-america
   - region/europe
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Educated Identity]]"
   - "[[Recontextualization]]"
 related_theories: []

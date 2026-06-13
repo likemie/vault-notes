@@ -12,9 +12,11 @@ tags:
 - field/higher-education
 - field/sustainability
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Ganz-Methode]]"
   - "[[Social Museology]]"
   - "[[Ecomuseology]]"
+  - "[[Paradigm]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Life Power]]"
   - "[[Whole Sustainability]]"

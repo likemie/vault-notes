@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Flow]]"
+  - "[[Paradigm]]"
   - "[[Economic Patriotism]]"
   - "[[Classical Geopolitics]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 
 
 > [!note-] Moisio 的批判性分析
-> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 理论从管理学和经济学话语中"解放"出来，分析为一种地缘政治想象——即按照 Jessop（2005）的定义，一种塑造叙事和维持政策范式的偏好未来图景。在此分析中，Porter 理论的功能不仅是解释经济现实，更是通过影响政策制定者的认知框架，参与制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
+> [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 理论从管理学和经济学话语中"解放"出来，分析为一种地缘政治想象——即按照 Jessop（2005）的定义，一种塑造叙事和维持政策[[Paradigm|范式]]的偏好未来图景。在此分析中，Porter 理论的功能不仅是解释经济现实，更是通过影响政策制定者的认知框架，参与制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])。
 >
 
 ## 实证表现
