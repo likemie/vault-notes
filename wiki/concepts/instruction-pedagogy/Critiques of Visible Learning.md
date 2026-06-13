@@ -653,8 +653,6 @@ Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），$d=0.73$�
 > | Witt et al. (2004) | ✗ | 24,474 | **1.15** | **教师即时性**（verbal & nonverbal immediacy）；"文本中未提及反馈"；22/34 项未发表 |
 > | Swanson & Lussier (2001) | ✗ | 5,104 | **1.12** | **考官辅助／动态评估**；研究考官在测试中提供的"线索、暗示或提示" |
 > 
-> *缩写：L&W = Lysakowski & Walberg；K&D = Kluger & DeNisi；S&L = Swanson & Lussier*
-
 > [!conclusion] 反馈效应 *d* = 0.73 建立在概念不一致的基础上
 > 5 项中仅 Kluger & DeNisi（1996）与 Hattie 反馈定义一致——其效应量 **0.38** 不到综合结果（**0.73**）的一半。Hattie 将强化、线索、即时性、考官辅助统一纳入"反馈"汇总，**结论因此无效**。
 

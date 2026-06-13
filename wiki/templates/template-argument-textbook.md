@@ -35,7 +35,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 3. Then use this template.
 %%
 
-%% 教材 Argument 记录教材的知识推进结构；具体定义、分类、方法步骤、理论说明和案例优先沉淀到对应 wiki 条目。 %%
+%% 教材 Argument 粒度由用户指定：整本书一个 Argument，或全书 overview + 分章节 Argument。具体定义、分类、方法步骤、理论说明和案例优先沉淀到对应 wiki 条目。 %%
 
 >
 > [!info]- 自动维护字段
@@ -54,6 +54,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - 正文引用其他已处理文献使用 APA 短引用，如 `(Ball, 2008a, p. 12)` 或 `Ball (2008a, p. 12)`。
 
 > [!info]- 教材写作规则
+> - Argument 粒度由用户指定；AI 不根据篇幅自行拆分。
+> - 若采用整本教材一个 Argument，章节处理结果累积到「章节结构」「章节概览」和「重要摘录」。
+> - 若采用分章节 Argument，本页作为全书 overview，只保留章节结构、章节短摘要和跨章知识结构；详细章节内容写入章节 Argument。
 > - 「章节结构」只保留 3–5 个最核心关联条目；不同章节尽量拉开差异。
 > - 「章节概览」跟随教材自身知识推进逻辑，记录概念、理论、证据、案例、表格、图片和结论如何展开。
 > - 已建条目只简单提及，详细内容写入具体 Concept / Theory / Method / Fact / Person 条目。

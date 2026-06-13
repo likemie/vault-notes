@@ -51,7 +51,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 | 用户说明「论文集」/「编著」 | `schema/schema-edited-volume.md` |
 | 用户说明「教材」/「教科书」/「课程用书」/「入门读本」 | `schema/schema-textbook.md` |
 
-书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。
+书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著和教材的 Argument 粒度由用户判断并明确指定：可以使用整本书一个 Argument，也可以使用全书 overview + 分章节 Argument；AI 不根据篇幅自行决定拆分。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。
 
 ### Figure 和 Table 处理
 

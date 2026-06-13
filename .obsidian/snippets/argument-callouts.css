@@ -3272,11 +3272,16 @@
   table-layout: fixed;
 }
 
-.callout[data-callout="meta-table"] col:nth-child(1) { width: 25%; }
-.callout[data-callout="meta-table"] col:nth-child(2) { width: 5%;  }
-.callout[data-callout="meta-table"] col:nth-child(3) { width: 10%; }
-.callout[data-callout="meta-table"] col:nth-child(4) { width: 8%;  }
-.callout[data-callout="meta-table"] col:nth-child(5) { width: 52%; }
+.callout[data-callout="meta-table"] th:nth-child(1),
+.callout[data-callout="meta-table"] td:nth-child(1) { width: 22%; }
+.callout[data-callout="meta-table"] th:nth-child(2),
+.callout[data-callout="meta-table"] td:nth-child(2) { width: 5%;  }
+.callout[data-callout="meta-table"] th:nth-child(3),
+.callout[data-callout="meta-table"] td:nth-child(3) { width: 10%; }
+.callout[data-callout="meta-table"] th:nth-child(4),
+.callout[data-callout="meta-table"] td:nth-child(4) { width: 8%;  }
+.callout[data-callout="meta-table"] th:nth-child(5),
+.callout[data-callout="meta-table"] td:nth-child(5) { width: 55%; }
 
 .callout[data-callout="meta-table"] thead th {
   background: rgba(45, 100, 160, 0.08);
