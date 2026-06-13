@@ -4,12 +4,17 @@ aliases: [研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁，好假设必须陈述变量关系且蕴含明确的检验含义。"
 type: concept
 tags: [subject/research-methodology, paradigm/positivist]
-related_concepts: []
+related_concepts:
+  - "[[Variable]]"
+  - "[[Reflexivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: high
 status: draft
 created: 2026-06-14
@@ -21,11 +26,11 @@ updated: 2026-06-14
 ## 定义
 
 > [!def] 假设（Hypothesis）
-> Kerlinger（1970）将假设定义为两个或多个变量之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess）——但不同于普通猜测，假设往往是大量研究、反思性思考和观察的结果（Cohen et al., 2011, Ch. 1）。
+> Kerlinger（1970）将假设定义为两个或多个[[Variable|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess）——但不同于普通猜测，假设往往是大量研究、[[Reflexivity|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 假设在科学推理中的角色
 
-Medawar（1972: 22）从创造性思维的角度描述了假设在科学推理中的核心地位（Cohen et al., 2011, Ch. 1）：
+Medawar（1972: 22）从创造性思维的角度描述了假设在科学推理中的核心地位（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!citation-card]
 > 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略（有时远远）超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的对话，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。
@@ -36,10 +41,10 @@ Medawar（1972: 22）从创造性思维的角度描述了假设在科学推理�
 
 ## 好假设的标准
 
-Kerlinger（1970）提出好假设的两条主要标准和两条辅助标准（Cohen et al., 2011, Ch. 1）：
+Kerlinger（1970）提出好假设的两条主要标准和两条辅助标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] Kerlinger 的好假设标准
-> - **关系陈述** 假设是变量之间关系的陈述——例如"社会阶级背景决定学业成就"就陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
+> - **关系陈述** 假设是[[Variable|变量]]之间关系的陈述——例如"社会阶级背景决定学业成就"就陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
 > - **可检验性** 假设必须蕴含明确的检验含义来检验所述关系——上述例子中，社会阶级和学业成就都可被测量，因此满足这一标准
 > - **兼容性**（辅助）假设应与现有知识兼容
 > - **经济性**（辅助）假设应被尽可能经济地表述
@@ -48,7 +53,7 @@ Kerlinger（1970）提出好假设的两条主要标准和两条辅助标准（C
 
 ## 假设的四重重要性
 
-Kerlinger（1970）进一步指出假设作为研究工具的四个重要性理由（Cohen et al., 2011, Ch. 1）：
+Kerlinger（1970）进一步指出假设作为研究工具的四个重要性理由（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!finding-cards]
 > - **组织研究者的努力** 假设所表达的关系指示研究者应当做什么，为收集、分析和解释数据提供框架
@@ -69,15 +74,15 @@ Kerlinger（1970）进一步指出假设作为研究工具的四个重要性理�
 
 ## 补充：假设在理论发展中的角色
 
-> 以下内容基于 Creswell & Creswell (2022)，补充假设在当代量化研究设计中的操作化应用。
+> 以下内容基于 Creswell & Creswell (2022)，补充假设在当代[[Quantitative Research|量化研究]]设计中的操作化应用。
 
-理论的发展过程与假设的反复检验密不可分。研究者将自变量、中介变量和因变量组合为预测性陈述（即假设）。当研究者在不同情境和不同人群中反复检验此类假设时，一个理论便逐渐浮现并被赋予名称（Creswell & Creswell, 2022, p.54）。
+理论的发展过程与假设的反复检验密不可分。研究者将自[[Variable|变量]]、中介变量和因变量组合为预测性陈述（即假设）。当研究者在不同情境和不同人群中反复检验此类假设时，一个理论便逐渐浮现并被赋予名称（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]]）。
 
-研究者在研究方案中以多种方式陈述理论，假设是其中最基本的形式之一（Creswell & Creswell, 2022, pp.57–60）：
+研究者在研究方案中以多种方式陈述理论，假设是其中最基本的形式之一（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.57–60]]）：
 
 > [!taxonomy] 理论陈述的三种形式
 > | 形式 | 说明 | 示例 |
 > |---|---|---|
 > | **假设链**（interconnected hypotheses） | 以一系列相互关联的假设陈述理论 | Hopkins (1964) 将影响力过程理论表述为 15 条假设 |
 > | **"如果—那么"逻辑陈述**（if-then logic statements） | 解释为何自变量会影响因变量 | Homans (1950): "如果互动频率增加，好感程度也会增加" |
-> | **视觉模型**（visual model） | 将变量关系转化为可视化图示 | 路径分析、结构方程建模 |
+> | **视觉模型**（visual model） | 将变量关系转化为可视化图示 | 路径分析、[[Causal Modeling\|结构方程建模]] |
