@@ -3127,3 +3127,191 @@
 .theme-dark .callout[data-callout="proc"] > .callout-content > ol > li::before {
   background: rgb(70, 145, 180);
 }
+
+/* ════════════════════════════════════════════════════════════════════
+   [!formula]  —  单公式展示卡
+   Color : deep indigo  rgb(95, 45, 185)
+   Icon  : lucide-sigma
+   特性  : block math 公式岛居中 · 变量列表自动编号徽章
+   ════════════════════════════════════════════════════════════════════ */
+.callout[data-callout="formula"] {
+  --callout-color: 95, 45, 185;
+  --callout-icon: lucide-sigma;
+  background:
+    linear-gradient(135deg, rgba(95, 45, 185, 0.07), rgba(95, 45, 185, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(95, 45, 185, 0.20);
+  border-left: 6px solid rgb(95, 45, 185);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(95, 45, 185, 0.07);
+}
+
+.callout[data-callout="formula"] > .callout-title {
+  color: rgb(95, 45, 185);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* ─── 公式岛：block math 居中高亮 ─────────────────────── */
+.callout[data-callout="formula"] .callout-content mjx-container[display="true"],
+.callout[data-callout="formula"] .callout-content .math-block {
+  display: block !important;
+  text-align: center;
+  margin: 0.85rem 0 !important;
+  padding: 0.85rem 1.2rem;
+  background: rgba(95, 45, 185, 0.06);
+  border: 1px solid rgba(95, 45, 185, 0.15);
+  border-radius: 8px;
+  font-size: 1.1em;
+  overflow-x: auto;
+}
+
+/* ─── 变量注释列表：自动编号徽章 ────────────────────────── */
+.callout[data-callout="formula"] .callout-content > ul {
+  counter-reset: formula-var;
+  list-style: none;
+  padding-left: 2.4rem;
+  margin: 0.2rem 0 0.1rem;
+}
+
+.callout[data-callout="formula"] .callout-content > ul > li {
+  counter-increment: formula-var;
+  position: relative;
+  padding: 0.28rem 0.4rem 0.28rem 0.3rem;
+  font-size: 0.9em;
+  line-height: 1.85;
+  border-bottom: 1px solid rgba(95, 45, 185, 0.07);
+}
+
+.callout[data-callout="formula"] .callout-content > ul > li:last-child {
+  border-bottom: none;
+}
+
+.callout[data-callout="formula"] .callout-content > ul > li::before {
+  content: counter(formula-var);
+  position: absolute;
+  left: -1.85rem;
+  top: 0.5rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  border-radius: 50%;
+  background: rgba(95, 45, 185, 0.14);
+  color: rgb(95, 45, 185);
+  font-size: 0.65em;
+  font-weight: 700;
+  line-height: 1.35rem;
+  text-align: center;
+}
+
+/* ─── 暗模式 ────────────────────────────────────────────── */
+.theme-dark .callout[data-callout="formula"] {
+  --callout-color: 155, 120, 255;
+  background:
+    linear-gradient(135deg, rgba(95, 45, 185, 0.14), rgba(95, 45, 185, 0.04)),
+    var(--background-primary);
+  border-color: rgba(155, 120, 255, 0.25);
+  border-left-color: rgb(140, 100, 240);
+}
+
+.theme-dark .callout[data-callout="formula"] > .callout-title {
+  color: rgb(170, 140, 255);
+}
+
+.theme-dark .callout[data-callout="formula"] .callout-content mjx-container[display="true"],
+.theme-dark .callout[data-callout="formula"] .callout-content .math-block {
+  background: rgba(95, 45, 185, 0.14);
+  border-color: rgba(155, 120, 255, 0.22);
+}
+
+.theme-dark .callout[data-callout="formula"] .callout-content > ul > li::before {
+  background: rgba(155, 120, 255, 0.20);
+  color: rgb(170, 140, 255);
+}
+
+/* ════════════════════════════════════════════════════════════════════
+   [!formula-set]  —  多公式对比网格
+   Color : deep indigo  rgb(95, 45, 185)  （同 formula）
+   Icon  : lucide-layout-grid
+   特性  : ul > li 自动网格 · strong:first-child 为公式标签
+           li 内 mjx-container 放大显示
+   ════════════════════════════════════════════════════════════════════ */
+.callout[data-callout="formula-set"] {
+  --callout-color: 95, 45, 185;
+  --callout-icon: lucide-layout-grid;
+  background:
+    linear-gradient(135deg, rgba(95, 45, 185, 0.07), rgba(95, 45, 185, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(95, 45, 185, 0.20);
+  border-left: 6px solid rgb(95, 45, 185);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(95, 45, 185, 0.07);
+}
+
+.callout[data-callout="formula-set"] > .callout-title {
+  color: rgb(95, 45, 185);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* ─── 网格容器 ─────────────────────────────────────────── */
+.callout[data-callout="formula-set"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+  gap: 0.65rem;
+  padding-inline-start: 0;
+  margin-block: 0.55rem 0.2rem;
+  list-style: none;
+}
+
+/* ─── 单公式卡 ─────────────────────────────────────────── */
+.callout[data-callout="formula-set"] .callout-content > ul > li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0.85rem 0.75rem 0.9rem;
+  background: rgba(95, 45, 185, 0.06);
+  border: 1px solid rgba(95, 45, 185, 0.16);
+  border-radius: 8px;
+  line-height: 1.55;
+  margin: 0;
+}
+
+/* 公式名标签：strong:first-child → 小号全大写标签 */
+.callout[data-callout="formula-set"] .callout-content > ul > li strong:first-child {
+  display: block;
+  font-size: 0.71em;
+  font-weight: 700;
+  color: rgb(95, 45, 185);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  margin-bottom: 0.45rem;
+}
+
+/* 卡内行内公式放大 */
+.callout[data-callout="formula-set"] .callout-content > ul > li mjx-container {
+  font-size: 1.08em;
+}
+
+/* ─── 暗模式 ────────────────────────────────────────────── */
+.theme-dark .callout[data-callout="formula-set"] {
+  --callout-color: 155, 120, 255;
+  background:
+    linear-gradient(135deg, rgba(95, 45, 185, 0.14), rgba(95, 45, 185, 0.04)),
+    var(--background-primary);
+  border-color: rgba(155, 120, 255, 0.25);
+  border-left-color: rgb(140, 100, 240);
+}
+
+.theme-dark .callout[data-callout="formula-set"] > .callout-title {
+  color: rgb(170, 140, 255);
+}
+
+.theme-dark .callout[data-callout="formula-set"] .callout-content > ul > li {
+  background: rgba(95, 45, 185, 0.13);
+  border-color: rgba(155, 120, 255, 0.22);
+}
+
+.theme-dark .callout[data-callout="formula-set"] .callout-content > ul > li strong:first-child {
+  color: rgb(170, 140, 255);
+}
