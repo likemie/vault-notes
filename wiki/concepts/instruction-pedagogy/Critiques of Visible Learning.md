@@ -814,9 +814,9 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018, p.6-8)]] 论证 Hattie 的学习理论根植于 von Glasersfeld 的 [[Radical Constructivism|激进建构主义]]（唯我论前提）。Hattie 不批评[[Constructivist Paradigm|建构主义]]本身，而是完全接受之，试图在其上添加"教师中心的教学"。
 
-但这导致了**教学概念的双重瓦解**：
-1. 建构主义首先消解了作为文化和专业权威的教师
-2. Hattie 再在消解的废墟上重建教师——"教师通过学生的眼睛看学习，学生将自己视为自己的教师"（SEE, capitalization in original, Hattie, 2009, p.238）
+> [!critique-logic] 教学概念的双重瓦解
+> 1. 建构主义首先消解了作为文化和专业权威的教师
+> 2. Hattie 再在消解的废墟上重建教师——"教师通过学生的眼睛看学习，学生将自己视为自己的教师"（SEE, capitalization in original, Hattie, 2009, p.238）
 
 外部世界在 Hattie 的理论中完全缺席——没有社会、科学、政治或经济分析。激进建构主义和 VL 因此是封闭系统内的理论，对教育中的社会正义、不平等和文化维度保持系统性的盲目([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7-8]])。
 
@@ -824,17 +824,22 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018, p.9)]] 论证 Hattie 的反馈概念（$d=0.73$）具有内置的集权化效应。Hattie 本人声明其关键洞察是"反馈最有力的是从学生到教师"（Hattie, 2009, p.173）——反馈不是让文化、艺术和科学对学生可见，而是让学习对教师可见。
 
-这与 Peters 的"教育即启蒙"相反。反馈变成了从学习者那里向教师收集 d>0.4 的信息，以便教师、年级团队、校长、市政府、国家逐级上收集权化数据，最终"从学习者眼中找到的目标中产生数据，用于确认和巩固目标"——形成一个巨大的计算性大数据系统([[Argument_Rømer_2018_EPT|Rømer, 2018, p.9]])。
+> [!proc] 反馈的集权化链条（Rømer, 2018, p.9）
+> 学习者 → 教师 → 年级团队 → 校长 → 市政府 → 国家：逐级上收数据，最终“从学习者眼中找到的目标中产生数据，用于确认和巩固目标”——形成巨大的计算性大数据系统。这与 Peters 的“教育即启蒙”相反：反馈让学习对教师可见，而非让世界对学生可见。
 
 #### 批评五：误读 Popper 三个世界理论
 
 Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化与科学对象）映射到表层/深层/建构性学习。但 Rømer (2018, p.10-11) 论证 Hattie 通过 Bereiter (2002) 这一中介严重误读了 Popper：
 
-- Bereiter 已经将 Popper 的 World 3"文化对象"缩减为"真理与非真理"，排除人文学科——这与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致
-- Hattie 进一步消除了 Bereiter 仍保留的 World 2（学习）与 World 3（知识建构）之间的关键区分
-- Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology|认识论]]上精确对立
+> [!critique] 误读链：Popper → Bereiter → Hattie
+> - Bereiter 已经将 Popper 的 World 3"文化对象"缩减为"真理与非真理"，排除人文学科——这与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致
+> - Hattie 进一步消除了 Bereiter 仍保留的 World 2（学习）与 World 3（知识建构）之间的关键区分
+> - Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在[[Epistemology|认识论]]上精确对立
 
-**后果**：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。"我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.11]])。
+**后果**：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。"我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界"。
+
+> [!citation-card] Rømer, 2018, p.11
+> 「我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界。」
 
 ### 观看中的盲视与 Bildung 替代([[Argument_Larsen_2019_EducSci|Larsen, 2019]])
 
