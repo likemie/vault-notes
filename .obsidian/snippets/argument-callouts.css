@@ -2316,6 +2316,81 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   ASSUMPTIONS — assumptions（理论假设 · 青绿层递）
+   用途：呈现一组层层递进的理论假设或前提命题
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="assumptions"] {
+  --callout-color: 25, 130, 120;
+  --callout-icon: lucide-layers-3;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(135deg, rgba(25, 130, 120, 0.06), rgba(25, 130, 120, 0.01) 70%),
+    var(--background-primary);
+  border: 1px solid rgba(25, 130, 120, 0.22);
+  border-left: 6px solid rgb(25, 130, 120);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(25, 130, 120, 0.08);
+}
+
+.callout[data-callout="assumptions"] > .callout-title {
+  color: rgb(20, 110, 100);
+  font-weight: 650;
+  font-size: 1.0em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="assumptions"] > .callout-title .callout-title-inner::before {
+  content: "假设";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(25, 130, 120, 0.14);
+  color: rgb(20, 110, 100);
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="assumptions"] > .callout-content {
+  line-height: 1.72;
+  counter-reset: assumption;
+}
+
+/* 每个假设条目自动编号 + 层级缩进 */
+.callout[data-callout="assumptions"] > .callout-content > p > strong:first-child,
+.callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(20, 110, 100);
+}
+
+/* ─── Dark theme ─── */
+.theme-dark .callout[data-callout="assumptions"] {
+  border-left-color: rgb(80, 200, 180);
+  border-color: rgba(80, 200, 180, 0.28);
+  background:
+    linear-gradient(135deg, rgba(80, 200, 180, 0.08), rgba(80, 200, 180, 0.02) 70%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="assumptions"] > .callout-title {
+  color: rgb(80, 200, 180);
+}
+
+.theme-dark .callout[data-callout="assumptions"] > .callout-title .callout-title-inner::before {
+  background: rgba(80, 200, 180, 0.18);
+  color: rgb(80, 200, 180);
+}
+
+.theme-dark .callout[data-callout="assumptions"] > .callout-content > p > strong:first-child,
+.theme-dark .callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(100, 215, 195);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    EXEGESIS — exegesis（解读与举例 · 琥珀光）
    用途：为抽象概念或论证步骤配解读和例子
    默认折叠（[!exegesis]-），打开后可见逐段解读 + 教育情境例子
