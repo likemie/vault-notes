@@ -19,12 +19,12 @@ tags:
   - theme/university-industry-relations
   - region/global
 related_concepts:
-  - "[[Linear Model of Innovation]]"
   - "[[Chain-linked Model]]"
   - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Absorptive Capacity]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Paradigm]]"
   - "[[Knowledge Exchange]]"
   - "[[Variable]]"
 related_theories:
@@ -33,7 +33,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Pavitt_1984_RP]]"
 sources:
   - "[[Caraca_2009_TFSC]]"
 part_of:
@@ -53,11 +54,11 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question] 核心关切与经验谜题
-> 科学在创新过程中的角色在过去五十年里发生了什么变化，是核心关切。[[Linear Model of Innovation|线性模型]]至今仍是政策制定者配置研究资源的主导想象，但创新研究已揭示出远比单向因果更复杂的图景 (p.862)。
+> 科学在创新过程中的角色在过去五十年里发生了什么变化，是核心关切。线性模型至今仍是政策制定者配置研究资源的主导想象，但创新研究已揭示出远比单向因果更复杂的图景 (p.862)。
 >
-> 经验层面的谜题在于：当[[Linear Model of Innovation|线性模型]]预期的科学投入与经济增长之间的自动转化在现实中反复落空时，政策制定者的反应不是反思模型本身，反而要求科学直接证明其经济价值。正向因果断言（科学→产业）被颠倒为反向规范性要求（市场→学术）。这一反应引出了标题中的隐喻：科学的角色究竟是从女王降为灰姑娘，还是同时经历了两种方向的变化？
+> 经验层面的谜题在于：当线性模型预期的科学投入与经济增长之间的自动转化在现实中反复落空时，政策制定者的反应不是反思模型本身，反而要求科学直接证明其经济价值。正向因果断言（科学→产业）被颠倒为反向规范性要求（市场→学术）。这一反应引出了标题中的隐喻：科学的角色究竟是从女王降为灰姑娘，还是同时经历了两种方向的变化？
 >
-> 两个相互关联的问题贯穿全文。第一，科学在创新过程中的角色从[[Linear Model of Innovation|线性模型]]到[[Chain-linked Model|链式模型]]再到更完整框架，每一步突破了什么、遗漏了什么。第二，科学与大学在今天的[[Learning Economy|学习经济]]中应当如何重新定位。
+> 两个相互关联的问题贯穿全文。第一，科学在创新过程中的角色从线性模型到[[Chain-linked Model|链式模型]]再到更完整框架，每一步突破了什么、遗漏了什么。第二，科学与大学在今天的[[Learning Economy|学习经济]]中应当如何重新定位。
 
 > [!stat-cards]+ 一页读懂
 > - **对象**：过去五十年对科学在创新中角色的三种定义方式——线性模型、链式模型、[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
@@ -221,7 +222,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 > > [!example] 界面在不同产业中的形态
 > > - **低技术产业**（食品加工、纺织）：企业与用户紧密合作改进产品，用户界面最关键。
 > > - **金融服务业**：相对更多地使用经济学研究成果（计量经济学、风险理论），科学界面更重要。
-> > - **以上产业共性**：都相当依赖设备供应商（机械、信息技术），供应链界面同样不可或缺 (p.865, 引自 von Tunzelmann & Acha, 2004; Miles, 2004; Pavitt, 1984)。
+> > - **以上产业共性**：都相当依赖设备供应商（机械、信息技术），供应链界面同样不可或缺 (p.865, 引自 von Tunzelmann & Acha, 2004; Miles, 2004; [[Argument_Pavitt_1984_RP|Pavitt, 1984]])。
 >
 > 界面多样性意味着没有适用于所有产业的统一创新政策模板。
 
@@ -239,7 +240,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 - **共同构成[[Innovation Ecosystem|创新生态]]**：复杂的多层次选择环境，对企业创新施加持续变化的压力。
 
 > [!tension] 制度节奏与错配
-> 内部创新速度快于制度调整时，微观或宏观制度设置可能滞后并产生阻尼效应——制度跟不上技术变化的节奏，形成创新推力与制度惯性的冲突。组织层面创新方向与既有制度框架不匹配时，可预见动荡的过渡和调整期，最终导向新的技术经济范式（Freeman & Louçã, 2001, 引自 p.865）。该框架整合了部门[[Systems of Innovation|创新系统]]（Malerba, 2002）、区域创新系统（Asheim & Gertler, 2004）和国家创新系统（Freeman, 2002; Lundvall et al., 2002）的多层分析。
+> 内部创新速度快于制度调整时，微观或宏观制度设置可能滞后并产生阻尼效应——制度跟不上技术变化的节奏，形成创新推力与制度惯性的冲突。组织层面创新方向与既有制度框架不匹配时，可预见动荡的过渡和调整期，最终导向新的技术经济[[Paradigm|范式]]（Freeman & Louçã, 2001, 引自 p.865）。该框架整合了部门[[Systems of Innovation|创新系统]]（Malerba, 2002）、区域创新系统（Asheim & Gertler, 2004）和国家创新系统（Freeman, 2002; Lundvall et al., 2002）的多层分析。
 
 ---
 

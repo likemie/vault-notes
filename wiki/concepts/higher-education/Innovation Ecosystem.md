@@ -42,6 +42,7 @@ related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Lester_2005_MIT]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
@@ -136,7 +137,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 > 发展有效的本地创新生态系统需要强大的领导力，以及建立涉及大学、产业和地方政府关键利益相关者的本地联盟——特别是要发展共同的本地创新愿景和实现这一愿景的战略。关键参与者之间的信任和认同至关重要（p.10）。
 
 > [!tip] Lester 分类框架
-> Lester 的大学贡献分类（Lester, 2005）为理解大学如何根据本地产业的类型和产业生命周期阶段提供差异化的贡献提供了分析工具。峰会讨论中将该框架与本地生态系统建设策略相结合——指出思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献，是建设更有效生态系统的前提（pp.8–9）。
+> Lester 的大学贡献分类（[[Argument_Lester_2005_MIT|Lester, 2005]]）为理解大学如何根据本地产业的类型和产业生命周期阶段提供差异化的贡献提供了分析工具。峰会讨论中将该框架与本地生态系统建设策略相结合——指出思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献，是建设更有效生态系统的前提（pp.8–9）。
 
 ### 衍生企业与创业输出
 

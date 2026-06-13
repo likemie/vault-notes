@@ -2329,6 +2329,125 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   AXIOMS — axioms（公理 · 金律）
+   用途：呈现一组自明的、作为推理起点的公理性命题
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="axioms"] {
+  --callout-color: 185, 140, 55;
+  --callout-icon: lucide-sparkles;
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 95% 5%, rgba(185, 140, 55, 0.14), transparent 50%),
+    linear-gradient(135deg, rgba(185, 140, 55, 0.05), rgba(185, 140, 55, 0.01) 70%),
+    var(--background-primary);
+  border: 1px solid rgba(185, 140, 55, 0.24);
+  border-left: 6px solid rgb(185, 140, 55);
+  border-radius: 10px;
+  box-shadow:
+    0 8px 20px rgba(185, 140, 55, 0.09),
+    inset 1px 0 0 rgba(185, 140, 55, 0.04);
+}
+
+/* ∀ 水印 */
+.callout[data-callout="axioms"]::after {
+  content: "∀";
+  position: absolute;
+  top: -0.4rem;
+  right: 0.5rem;
+  color: rgba(185, 140, 55, 0.06);
+  font-size: 5.5rem;
+  font-weight: 900;
+  font-style: italic;
+  font-family: "Times New Roman", serif;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.callout[data-callout="axioms"] > .callout-title {
+  color: rgb(160, 115, 40);
+  font-weight: 650;
+  font-size: 1.02em;
+  letter-spacing: 0.03em;
+  position: relative;
+  z-index: 1;
+}
+
+.callout[data-callout="axioms"] > .callout-title .callout-title-inner::before {
+  content: "公理";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(185, 140, 55, 0.15);
+  color: rgb(160, 115, 40);
+  font-size: 0.68em;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="axioms"] > .callout-content {
+  line-height: 1.72;
+  position: relative;
+  z-index: 1;
+}
+
+/* 金色菱形前缀 */
+.callout[data-callout="axioms"] > .callout-content > ul > li {
+  list-style: none;
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+.callout[data-callout="axioms"] > .callout-content > ul > li::before {
+  content: "◆";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: rgba(185, 140, 55, 0.55);
+  font-size: 0.55em;
+}
+
+.callout[data-callout="axioms"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(160, 115, 40);
+}
+
+/* ─── Dark ─── */
+.theme-dark .callout[data-callout="axioms"] {
+  border-left-color: rgb(225, 175, 80);
+  border-color: rgba(225, 175, 80, 0.28);
+  background:
+    radial-gradient(circle at 95% 5%, rgba(225, 175, 80, 0.12), transparent 50%),
+    linear-gradient(135deg, rgba(225, 175, 80, 0.07), rgba(225, 175, 80, 0.02) 70%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="axioms"]::after {
+  color: rgba(225, 175, 80, 0.06);
+}
+
+.theme-dark .callout[data-callout="axioms"] > .callout-title {
+  color: rgb(225, 175, 80);
+}
+
+.theme-dark .callout[data-callout="axioms"] > .callout-title .callout-title-inner::before {
+  background: rgba(225, 175, 80, 0.18);
+  color: rgb(225, 175, 80);
+}
+
+.theme-dark .callout[data-callout="axioms"] > .callout-content > ul > li::before {
+  color: rgba(225, 175, 80, 0.5);
+}
+
+.theme-dark .callout[data-callout="axioms"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(225, 175, 80);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    ASSUMPTIONS — assumptions（理论假设 · 青绿层递）
    用途：呈现一组层层递进的理论假设或前提命题
    ═══════════════════════════════════════════════════════════ */
@@ -2954,7 +3073,7 @@
 .callout[data-callout="critique"] > .callout-content > ul > li {
   counter-increment: critique-n;
   position: relative;
-  padding: 0.85rem 1.2rem 0.85rem 3.4rem;
+  padding: 0.7rem 1rem 0.7rem 2.7rem;
   border-bottom: 1px solid rgba(48, 78, 120, 0.08);
   line-height: 1.65;
 }
@@ -2972,16 +3091,16 @@
 .callout[data-callout="critique"] > .callout-content > ul > li::before {
   content: counter(critique-n);
   position: absolute;
-  left: 1rem;
-  top: 0.95rem;
-  width: 1.65rem;
-  height: 1.65rem;
+  left: 0.9rem;
+  top: 0.88rem;
+  width: 1.22rem;
+  height: 1.22rem;
   border-radius: 50%;
   background: rgb(48, 78, 120);
   color: #fff;
-  font-size: 0.72em;
+  font-size: 0.64em;
   font-weight: 700;
-  line-height: 1.65rem;
+  line-height: 1.22rem;
   text-align: center;
   letter-spacing: 0;
   box-shadow: 0 1px 4px rgba(48, 78, 120, 0.25);
@@ -3574,7 +3693,7 @@
 .callout[data-callout^="critique-"] > .callout-content > ul > li {
   counter-increment: critique-n;
   position: relative;
-  padding: 0.85rem 1.2rem 0.85rem 3.4rem;
+  padding: 0.7rem 1rem 0.7rem 2.7rem;
   border-bottom: 1px solid rgba(var(--callout-color), 0.08);
   line-height: 1.65;
 }
@@ -3590,16 +3709,16 @@
 .callout[data-callout^="critique-"] > .callout-content > ul > li::before {
   content: counter(critique-n);
   position: absolute;
-  left: 1rem;
-  top: 0.95rem;
-  width: 1.65rem;
-  height: 1.65rem;
+  left: 0.9rem;
+  top: 0.88rem;
+  width: 1.22rem;
+  height: 1.22rem;
   border-radius: 50%;
   background: rgb(var(--callout-color));
   color: #fff;
-  font-size: 0.72em;
+  font-size: 0.64em;
   font-weight: 700;
-  line-height: 1.65rem;
+  line-height: 1.22rem;
   text-align: center;
   box-shadow: 0 1px 4px rgba(var(--callout-color), 0.25);
 }

@@ -13,6 +13,7 @@ tags:
   - theme/taxonomy
 related_concepts:
   - "[[Heterogeneity]]"
+  - "[[Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
@@ -25,6 +26,7 @@ related_facts:
   - "[[Community Innovation Survey]]"
   - "[[Sectoral Innovation Database]]"
 related_arguments:
+  - "[[Argument_Pavitt_1984_RP]]"
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
 confidence: medium
 status: draft
@@ -38,7 +40,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!abstract]
-> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。Pavitt（1984）基于对英国制造业企业的实证研究，根据创新的**来源**（内部研发 vs 外部供应商）、**性质**（产品创新 vs 流程创新）和**企业规模与市场结构**，将制造业分为四个类别。Bogliacino 和 Pianta（2016）利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016)]]。
+> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源**（内部研发 vs 外部供应商）、**性质**（产品创新 vs 流程创新）和**企业规模与市场结构**，将制造业分为四个类别。Bogliacino 和 Pianta（2016）利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016)]]。
 
 ---
 ## 理论框架
@@ -46,7 +48,7 @@ updated: 2026-06-10
 ### 原始 Pavitt 分类法（1984）
 
 > [!info] 四个产业类别
-> Pavitt（1984）基于对英国 SPRU 创新数据库的分析，识别了四种创新模式（pp.156-157）：
+> [[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国 SPRU 创新数据库的分析，识别了四种创新模式（pp.156-157）：
 
 > [!line-a] 科学基础型（Science Based, SB）
 > 创新直接源于科学发现和基础研究。典型行业包括制药、电子和化学品。企业通常规模较大，拥有强大的内部研发能力，与大学和研究机构的联系紧密。创新产出以产品创新和专利为主。
@@ -87,7 +89,7 @@ updated: 2026-06-10
 > [!tip]
 > - **[[Evolutionary Economics|演化经济学]]**（Evolutionary Economics）— Pavitt 分类法的理论基础来自 Nelson 和 Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity|异质性]]以及[[Technological Trajectories|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
 > - **[[Systems of Innovation|创新系统理论]]** — Pavitt 分类法通过揭示不同产业在创新来源和知识流动上的系统性差异，为创新系统分析提供了微观基础
-> - **技术范式与技术轨迹**（Dosi, 1982, 1988）— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
+> - **技术[[Paradigm|范式]]与技术轨迹**（Dosi, 1982, 1988）— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
 
 ---
 ## 实证验证

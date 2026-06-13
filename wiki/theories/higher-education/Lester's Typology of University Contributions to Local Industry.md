@@ -20,6 +20,7 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
 related_arguments:
+  - "[[Argument_Lester_2005_MIT]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 related_facts:
   - "[[Oxford UIDP Summit 2019]]"
@@ -34,7 +35,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!tip]
-> Richard Lester（MIT）在 2005 年对大学如何贡献于本地经济的研究中提出了一项核心主张：大学对本地[[Systems of Innovation|创新系统]]的贡献方式并非千篇一律，而是**取决于本地产业的类型以及这些产业所处的产业生命周期阶段**。这一框架挑战了"大学在任何地方都可以通过相同方式推动经济发展"的假设（Lester, 2005; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp.8–9)]]）。
+> Richard Lester（MIT）在 2005 年对大学如何贡献于本地经济的研究中提出了一项核心主张：大学对本地[[Systems of Innovation|创新系统]]的贡献方式并非千篇一律，而是**取决于本地产业的类型以及这些产业所处的产业生命周期阶段**。这一框架挑战了"大学在任何地方都可以通过相同方式推动经济发展"的假设（[[Argument_Lester_2005_MIT|Lester, 2005]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp.8–9)]]）。
 
 ## 核心命题
 
