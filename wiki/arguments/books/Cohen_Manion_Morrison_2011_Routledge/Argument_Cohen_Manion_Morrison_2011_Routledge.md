@@ -282,9 +282,28 @@ Kerlinger (1970: 9)对理论的定义被引用为实证主义科学观的终极�
 > 一套相互关联的构念(概念)、定义和命题，通过明确变量之间的关系来呈现对现象的系统看法，目的是解释和预测现象。
 > a set of interrelated constructs [concepts], definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining and predicting the phenomena.
 
-Morrison (1995a)区分了三种理论类型(pp.291–292)：**经验理论**(empirical theories)、**宏大理论**(grand theory，元叙事，如马克思主义和功能主义——被批评为"科学上贫瘠")和**批判理论**(critical theory)。宏大理论虽然具有"拜占庭式的建筑辉煌和逻辑一致性"，但却脱离开放、流动、异质和碎片化的真实世界(Merton, 1949; Layder, 1994)。
+Morrison (1995a)区分了三种理论类型(pp.291–292)：
 
-Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990)综合提出有效经验理论的九大特征：可推导出能经验检验的法则 → 与观察和已验证理论兼容 → 表述简洁(但不错过变量)→ 具有解释力和预测力 → 能回应异常 → 能催生研究事业 → 阐明自身的证伪条件 → 可精确操作化 → 可复制检验。
+> [!taxonomy] 三种理论类型
+>
+> | 类型 | 特征 | 举例与评价 |
+> |---|---|---|
+> | **经验理论**(empirical theories) | 通过经验证据检验和支撑 | 本书后续章节讨论的具体研究方法 |
+> | **宏大理论**(grand theory) | 元叙事(metanarrative)，定义研究领域，思辨性的；经验材料用于"说明"而非"证明" | 马克思主义、共识理论、功能主义。虽有"拜占庭式的建筑辉煌和逻辑一致性"，却被批评为科学上贫瘠、脱离开放和碎片化的真实世界(Merton, 1949; Layder, 1994) |
+> | **批判理论**(critical theory) | 关注知识–权力的关系，具有政治议程 | 第2章讨论 |
+
+Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990)综合提出有效经验理论的九大特征(p.271, pp.316–334)：
+
+> [!finding-cards] 有效经验理论的九大特征
+> 1. 理论系统必须可推导出能经验检验的法则——提供证实或拒绝的手段
+> 2. 必须与观察和先前验证的理论兼容，建立在经验数据基础上
+> 3. 表述简洁(简约法则)——但不能因难解释而忽略变量
+> 4. 应具有相当大的解释力和预测潜力
+> 5. 应能回应观察到的异常
+> 6. 应能催生研究事业(Siegel, 1987 称之为"生育力"，fertility)
+> 7. 应阐明自身的证伪和验证条件，识别"严格检验"(severe test)的性质和操作(Popper, 1968)
+> 8. 必须可精确操作化
+> 9. 理论的检验必须是可复制的
 
 > [!abstract] 科学家的两个关键工具
 > **概念**(concepts)表达从个别到一般的概括。每个概念是一个词(或符号)与一个观念之间的关系。概念赋予世界意义、秩序和连贯性——我们知觉世界的能力高度依赖于我们可支配的概念库(pp.349–352)。概念数量有限，却要解释无限多样的现象。

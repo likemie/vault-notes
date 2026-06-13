@@ -1341,10 +1341,11 @@
   z-index: 1;
 }
 
+
 .callout[data-callout="finding-cards"] .callout-content > ol,
 .callout[data-callout="finding-cards"] .callout-content > ul {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(6, 1fr);
   gap: 0.75rem;
   padding-inline-start: 0;
   margin-block: 0.7rem 0.25rem;
@@ -1352,8 +1353,10 @@
   counter-reset: finding;
 }
 
+/* 默认：span 3 = 2 列（适合 2 / 4 项） */
 .callout[data-callout="finding-cards"] .callout-content > ol > li,
 .callout[data-callout="finding-cards"] .callout-content > ul > li {
+  grid-column: span 3;
   counter-increment: finding;
   margin: 0;
   padding: 0.9rem 1rem;
@@ -1363,20 +1366,30 @@
   line-height: 1.65;
 }
 
-.callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(3):last-child,
-.callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(3):last-child {
-  grid-column: 1 / -1;
-  background:
-    linear-gradient(135deg, rgba(192, 108, 56, 0.16), rgba(192, 108, 56, 0.055)),
-    var(--background-primary);
-  box-shadow: 0 8px 20px rgba(192, 108, 56, 0.09);
+/* 3 项 → span 2 = 3 列 */
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+  grid-column: span 2;
 }
 
-.callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(n + 5),
-.callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(n + 5) {
-  grid-column: 1 / -1;
-  border-style: dashed;
-  opacity: 0.72;
+/* 5 项 → 3 + 2（前 3 span 2，后 2 span 3） */
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(-n+3),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+3) {
+  grid-column: span 2;
+}
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(n+4),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+4) {
+  grid-column: span 3;
+}
+
+/* 6 / 7 / 8 项 → span 2 = 3 列 */
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(6):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(6):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(8):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li {
+  grid-column: span 2;
 }
 
 .callout[data-callout="finding-cards"] .callout-content > ol > li::before,
@@ -1406,10 +1419,9 @@
   .callout[data-callout="finding-cards"] .callout-content > ul {
     grid-template-columns: 1fr;
   }
-
-  .callout[data-callout="finding-cards"] .callout-content > ol > li:nth-child(3):last-child,
-  .callout[data-callout="finding-cards"] .callout-content > ul > li:nth-child(3):last-child {
-    grid-column: auto;
+  .callout[data-callout="finding-cards"] .callout-content > ol > li,
+  .callout[data-callout="finding-cards"] .callout-content > ul > li {
+    grid-column: span 1;
   }
 }
 
@@ -3314,4 +3326,121 @@
 
 .theme-dark .callout[data-callout="formula-set"] .callout-content > ul > li strong:first-child {
   color: rgb(170, 140, 255);
+}
+
+/* ════════════════════════════════════════════════════════════════════
+   [!feature]  —  特征 / 特点卡片列表
+   Color : jade  rgb(20, 148, 108)
+   Icon  : lucide-layers
+   特性  : 蓝图网格背景 · 左侧色条 · strong:first-child = 属性标签
+           6 列自适应网格（2 / 3 / 4 / 5 / 6+ 项均可）
+   ════════════════════════════════════════════════════════════════════ */
+.callout[data-callout="feature"] {
+  --callout-color: 20, 148, 108;
+  --callout-icon: lucide-layers;
+  background:
+    linear-gradient(rgba(20,148,108,0.042) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20,148,108,0.042) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(20, 148, 108, 0.07), rgba(20, 148, 108, 0.01)),
+    var(--background-primary);
+  background-size: 22px 22px, 22px 22px, 100% 100%, 100% 100%;
+  border: 1px solid rgba(20, 148, 108, 0.22);
+  border-left: 6px solid rgb(20, 148, 108);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(20, 148, 108, 0.07);
+}
+
+.callout[data-callout="feature"] > .callout-title {
+  color: rgb(15, 115, 84);
+  font-weight: 700;
+}
+
+/* ─── 6 列自适应网格 ─────────────────────────────────── */
+.callout[data-callout="feature"] .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.65rem;
+  padding-inline-start: 0;
+  margin-block: 0.6rem 0.2rem;
+  list-style: none;
+}
+
+/* 默认：span 3 = 2 列（2 / 4 项） */
+.callout[data-callout="feature"] .callout-content > ul > li {
+  grid-column: span 3;
+  margin: 0;
+  padding: 0.72rem 0.9rem 0.78rem 0.8rem;
+  border: 1px solid rgba(20, 148, 108, 0.16);
+  border-left: 3px solid rgb(20, 148, 108);
+  border-radius: 0 8px 8px 0;
+  background: color-mix(in srgb, var(--background-primary) 92%, rgb(20, 148, 108) 8%);
+  line-height: 1.65;
+}
+
+/* 3 项 → span 2 = 3 列 */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+  grid-column: span 2;
+}
+
+/* 5 项 → 3 + 2（前 3 span 2，后 2 span 3） */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+3) {
+  grid-column: span 2;
+}
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+4) {
+  grid-column: span 3;
+}
+
+/* 6 / 7 / 8 项 → span 2 = 3 列 */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(6):last-child) > li,
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(8):last-child) > li {
+  grid-column: span 2;
+}
+
+/* ─── 特征名标签：strong:first-child ────────────────── */
+.callout[data-callout="feature"] .callout-content > ul > li strong:first-child {
+  display: block;
+  color: rgb(15, 115, 84);
+  font-weight: 700;
+  font-size: 0.9em;
+  margin-bottom: 0.28rem;
+  padding-bottom: 0.22rem;
+  border-bottom: 1px solid rgba(20, 148, 108, 0.18);
+}
+
+/* ─── 暗模式 ────────────────────────────────────────── */
+.theme-dark .callout[data-callout="feature"] {
+  --callout-color: 60, 210, 160;
+  background:
+    linear-gradient(rgba(20,148,108,0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20,148,108,0.07) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(20, 148, 108, 0.13), rgba(20, 148, 108, 0.03)),
+    var(--background-primary);
+  background-size: 22px 22px, 22px 22px, 100% 100%, 100% 100%;
+  border-color: rgba(60, 210, 160, 0.25);
+  border-left-color: rgb(50, 190, 145);
+}
+
+.theme-dark .callout[data-callout="feature"] > .callout-title {
+  color: rgb(70, 215, 165);
+}
+
+.theme-dark .callout[data-callout="feature"] .callout-content > ul > li {
+  border-color: rgba(60, 210, 160, 0.18);
+  border-left-color: rgb(50, 190, 145);
+  background: color-mix(in srgb, var(--background-primary) 90%, rgb(20, 148, 108) 10%);
+}
+
+.theme-dark .callout[data-callout="feature"] .callout-content > ul > li strong:first-child {
+  color: rgb(70, 215, 165);
+  border-bottom-color: rgba(60, 210, 160, 0.22);
+}
+
+@media (max-width: 640px) {
+  .callout[data-callout="feature"] .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+  .callout[data-callout="feature"] .callout-content > ul > li {
+    grid-column: span 1;
+  }
 }
