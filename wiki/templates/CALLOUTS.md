@@ -14,6 +14,9 @@
 - 列表项内嵌套 callout 使用 `>    > [!type]`，即外层 `>` 加 3 个空格再加内层 `>`。
 - Mermaid 节点标签保持单行简短，流程图默认使用 `flowchart LR`。
 - `---` 分割线用于主要章节之间，以及 Argument 论证步骤之间；不要在同一小段内部频繁插入。
+- 样式库只提供可复制的版式，不要求每篇 Argument 全部使用；优先服务论证清晰度。
+- `[!logic-map]` 内节点标签不使用 `\n`，保持单行简短标签。
+- `---` 的视觉语义：`##` 之前用于模块级切割；`###` 之前用于步骤间流程延续。
 
 ---
 
@@ -58,6 +61,26 @@
 | `[!voice]` | 边缘声音、访谈引述、立场陈述 |
 | `[!case]` | 独立政策或实证案例 |
 | `[!ref-table]` | 参考速查表，适合地区、案例或指标一览 |
+
+Argument 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 研究问题 | `[!question]`、`[!stat-cards]` |
+| 理论框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]` |
+| 研究方法 | `[!method-panel]`、`[!sample-panel]` |
+| 论证结构 | `[!logic-map]`、`[!line-a]`、`[!chain-link]`、`[!contrast-table]` |
+| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]` |
+| 讨论与批评 | `[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]`、`[!conclusion]` |
+| 关键引用 | `[!citation-card]` |
+
+注意：
+
+- `[!line-a]` 连续使用时表示并列线索或证据链，序号自动递增。
+- `[!line-b]` 只在需要与前一个 `[!line-a]` 构成左右拼合或对照时使用。
+- `[!chain-link]` 用于完整的“证据 → 分析结论”链节，各块内容应自足。
+- `[!stat-cards]` 在方法章节可写样本量；在主要发现章节应优先写结果数据，不把受访人数等样本背景混入核心发现。
+- `[!finding-cards]` 适合 3–4 条核心发现；超过 4 条时改用小节或证据网格。
 
 ---
 

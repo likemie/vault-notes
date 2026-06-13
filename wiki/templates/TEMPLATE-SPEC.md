@@ -46,6 +46,8 @@
 - 新建 Concept / Theory / Method / Fact / Person 默认不写 YAML `sources`，也不写正文 `## 来源`。
 - Argument YAML `sources` 由脚本维护；正文 `## 来源` 只列 source record wikilink。
 - Argument 不使用 `aliases`；Concept / Theory / Method / Fact / Person 使用 `aliases` 作为检索和自动补链白名单。
+- `related_*`、Argument YAML `sources`、source record 的 `extracted_to` 都是生成字段，不手动维护。
+- `part_of` 若引用条目，必须写成带引号的 wikilink。
 
 ---
 
@@ -58,8 +60,27 @@
 - Argument 条目引用当前文献之外的已处理文献时，使用 APA 短引用。
 - Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。
 - 英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，例如 `"[[Louis Cohen|Cohen, L.]]"` 或 `"[[Cohen, L.]]"`。
+- `year` 写出版年份。
+- `doi` 可留空；著作、教材或论文集章节若能确认 ISBN，可写入 `isbn`。
 - `citation_aliases` 由 `scripts/citation_index.py` 自动生成，AI 不手动维护。
+- `citation_aliases` 只保留基本作者年份形式：`Author, Year` 与 `Author (Year)`。
+- 不把页码形式写进 `citation_aliases`；页码由 `scripts/citation_linker.py` 在正文补链时动态识别。
+- 英文文献按 APA 生成英文 alias：双作者用 `&`，三位及以上用 `et al.`。
+- 中文论文或著作若 `citation` 字段含中文作者名，`scripts/citation_index.py` 会额外生成中文 alias，例如 `郑雅君, 2023` 与 `郑雅君 (2023)`；中文双作者用“和”，三位及以上用“等”。
+- 同一作者同一年多篇文献时，`scripts/citation_index.py` 自动追加 `a`、`b`、`c` 后缀。
+- 正文 APA 短引用补链由 `scripts/citation_linker.py` 完成。
 - 处理完成后只自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。补链、关系同步和 lint 需要先询问用户。
+
+---
+
+## Editing Rules
+
+- 确定新内容属于哪个 `##` 章节。
+- 先判断新内容属于哪个主题、子主题或论证步骤，再判断该主题内部的时间位置或推理位置。
+- 写入前声明“归属章节 > 子主题 > 插入位置”，再精确替换相关段落。
+- 插入位置优先级：同主题已有段落或列表 → 对应章节末尾 → 新增 `###` 子主题 → 新增模板允许的章节。
+- 不要把新内容按出现顺序直接堆到文件末尾。
+- 正式条目正文不要写任何模板说明注释。
 
 ---
 
@@ -83,9 +104,15 @@ Argument 页写某篇论文、章节、报告、政策文件或书籍的论证�
 规则：
 
 - `summary` 用一句话说明文献核心论证，写法为“研究对象/问题 + 理论视角/方法 + 核心论证或发现”。
+- `summary` 好例子：`从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量且排名缺少置信区间。`
+- 直接陈述论证思路，不让摘要围绕论文、研究或作者展开；无法概括时留空：`summary: ""`。
 - `## 论证结构` 中每个步骤独立成段，步骤之间使用 `---`。
 - 逐步拆解论证，不跳过中间环节直接给结论。
 - 抽象理论必须配例子；例子优先来自原文，原文没有时可用简短教育情境说明。
+- `## 论证结构` 顶部可用 Mermaid 图呈现核心逻辑链；图后必须跟 `---` 分割线。
+- 论证步骤建议默认使用 `[!line-a]` 包装；需要对比或结构化展示数据时，在 callout 内部使用 Markdown 表格或卡片。
+- `## 主要发现` 不超过四点；三点时按两短一长编排，更多细节放入数据卡、证据卡或正文小节。
+- `## 自述局限` 只写原文明确自述的局限、边界条件或未来研究方向，不补写外部批评。
 - `## 来源` 只列 source record wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。
 - 期刊论文文件名格式：`Argument_作者姓_年份_期刊缩写.md`。
 - 论文集章节文件名格式：`Argument_章节作者姓_年份_关键词.md`。
