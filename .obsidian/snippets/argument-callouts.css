@@ -2547,6 +2547,77 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   TERM — term（术语 · 石板绿）
+   用途：标记和解释关键术语，中英文对照 + 简要释义
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="term"] {
+  --callout-color: 80, 130, 110;
+  --callout-icon: lucide-book-open;
+  background:
+    linear-gradient(135deg, rgba(80, 130, 110, 0.05), rgba(80, 130, 110, 0.01) 60%),
+    var(--background-primary);
+  border: 1px solid rgba(80, 130, 110, 0.16);
+  border-left: 4px solid rgb(80, 130, 110);
+  border-radius: 8px;
+  padding: 0.5rem 0.85rem;
+  box-shadow: 0 2px 8px rgba(80, 130, 110, 0.05);
+}
+
+.callout[data-callout="term"] > .callout-title {
+  color: rgb(60, 105, 90);
+  font-weight: 600;
+  font-size: 0.95em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="term"] > .callout-title .callout-title-inner::before {
+  content: "术语";
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 1px 7px;
+  border-radius: 3px;
+  background: rgba(80, 130, 110, 0.12);
+  color: rgb(60, 105, 90);
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="term"] > .callout-content {
+  line-height: 1.62;
+  font-size: 0.94em;
+}
+
+.callout[data-callout="term"] > .callout-content > p:first-child > strong:first-child {
+  color: rgb(60, 105, 90);
+}
+
+/* ─── Dark ─── */
+.theme-dark .callout[data-callout="term"] {
+  border-left-color: rgb(130, 185, 155);
+  border-color: rgba(130, 185, 155, 0.22);
+  background:
+    linear-gradient(135deg, rgba(130, 185, 155, 0.07), rgba(130, 185, 155, 0.02) 60%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="term"] > .callout-title {
+  color: rgb(130, 185, 155);
+}
+
+.theme-dark .callout[data-callout="term"] > .callout-title .callout-title-inner::before {
+  background: rgba(130, 185, 155, 0.15);
+  color: rgb(130, 185, 155);
+}
+
+.theme-dark .callout[data-callout="term"] > .callout-content > p:first-child > strong:first-child {
+  color: rgb(130, 185, 155);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    AXIOMS — axioms（公理 · 金律）
    用途：呈现一组自明的、作为推理起点的公理性命题
    ═══════════════════════════════════════════════════════════ */
@@ -4033,10 +4104,10 @@
   --callout-color: 28, 58, 102;
   --callout-icon: lucide-flag;
   background: var(--background-primary);
-  border: 1px solid rgba(28, 58, 102, 0.18);
-  border-top: 3px solid rgb(28, 58, 102);
+  border: 1.5px solid rgba(28, 58, 102, 0.30);
+  border-left: 5px solid rgb(28, 58, 102);
   border-radius: 8px;
-  box-shadow: 0 2px 12px rgba(28, 58, 102, 0.10);
+  box-shadow: 0 2px 12px rgba(28, 58, 102, 0.12);
   padding: 0;
   overflow: hidden;
 }
@@ -4079,8 +4150,8 @@
 
 /* ── 暗模式 ── */
 .theme-dark .callout[data-callout="conclusion"] {
-  border-top-color: rgb(80, 130, 200);
-  border-color: rgba(80, 130, 200, 0.20);
+  border-color: rgba(80, 130, 200, 0.30);
+  border-left-color: rgb(80, 130, 200);
 }
 .theme-dark .callout[data-callout="conclusion"] > .callout-title {
   background: rgb(32, 58, 105);
