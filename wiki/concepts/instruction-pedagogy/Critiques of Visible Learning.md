@@ -850,7 +850,8 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 > [!critique-logic] 批评一：学习对学习主体并非即时可见
 > Larsen 提出的第一个哲学论证是：学习从来不能是一种即时的、简单的、可见的现象——无论对教师还是对学习主体本身。你在此刻可能正在学习某件事，但你不知道它会在 10 年或 20 年后对你的生活产生微小影响还是重大冲击。因此，"学习不能作为一种可在当下把握和描绘的可见现象来理解"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.3]])。Larsen 援引 Knud Illeris 的核心定义——"学习广义上可定义为能力的永久性变化"——来论证"定性存在性时间因素（即个体对时间和意义的[[Phenomenology|现象学]]经验）和独特生命经验远比学习结果数字、分数和其他'快照'重要得多"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.3]])。
 
-> 例：一个学生此刻在课堂上感到极度无聊和烦躁——"哦，语法，这有什么意义？发霉的历史书、社会分层研究、没完没了的科学课……为什么我要关心这些科目？"但在未来某个时刻，那天、那月或那年发生的事情可能被证明非常重要。Hattie 的[[Effect Size|效应量]]在学期末的标准化测试中测量——但学习的真正影响可能在 20 年后才显现。
+> [!example] 例
+> 一个学生此刻在课堂上感到极度无聊和烦躁——"哦，语法，这有什么意义？发霉的历史书、社会分层研究、没完没了的科学课……为什么我要关心这些科目？"但在未来某个时刻，那天、那月或那年发生的事情可能被证明非常重要。Hattie 的[[Effect Size|效应量]]在学期末的标准化测试中测量——但学习的真正影响可能在 20 年后才显现。
 
 Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie & Zierer, 2018, p.90）——被 Larsen 指出即使是这一估计也过高，且"未以论证、证据或参考文献支撑"。而更关键的是，Hattie 和 Zierer 将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——Larsen 诊断这恰恰落入了 Luhmann 所描述的盲点困境([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.3-4]])。
 
@@ -858,7 +859,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.5]])。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.6]])。
 
 > [!tension] 批评三：教师可见学习 ≠ 学生有意识／无意识学习
-> Larsen 区分了三个“世界”："世界"：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2]])。
+> Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2]])。
 
 > [!critique-logic] 批评四：学习不是价值中立——Bildung 要求更多
 > Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：1960–70 年代'læring'（学习）最初是批判性、解放性的术语 → 1990 年代起被资本主义逻辑吸收 → 当代学习已成为不可逃避、无所不在的状态和"自然"要求([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8-9]])。Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念——"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])。作为 VL 的替代方案，Larsen 提出了 具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8-10]])。
