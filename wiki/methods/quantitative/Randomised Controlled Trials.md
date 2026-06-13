@@ -6,15 +6,64 @@ type: method
 method_type: quantitative
 tags: [method/experimental, paradigm/positivist, theme/causality]
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Variable]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
   - "[[Emergence]]"
+  - "[[Effect Size]]"
+  - "[[Research Question]]"
+  - "[[Ontology]]"
+  - "[[Tracking]]"
+  - "[[Publication Bias]]"
+  - "[[External Validity]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Internal Validity]]"
+  - "[[Clinical Trial]]"
+  - "[[Side Effects]]"
+  - "[[Paradigm]]"
+  - "[[School Leadership]]"
+  - "[[Validity as Inferences]]"
+  - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Complexity Theory]]"
-related_methods: []
-related_persons: []
-related_facts: []
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Random Assignment]]"
+  - "[[Meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Intervention Research]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Experimental Research]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Mechanism Experiments]]"
+  - "[[Black Box RCTs]]"
+  - "[[Non-intervention Research]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Quasi-Experimental Designs]]"
+related_persons:
+  - "[[Karl Pearson]]"
+related_facts:
+  - "[[What Works Clearinghouse]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments:
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Wiliam_2019]]"
+  - "[[Argument_Møller_2017]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Kraft_2023_ER]]"
+  - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_Pampaka_2016_IJRME]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: draft
 created: 2026-06-14
@@ -23,41 +72,41 @@ updated: 2026-06-14
 
 # Randomised Controlled Trials
 
+
+
 ## 定义
 
-随机对照试验（RCT）是一种实验设计方法，通过将参与者随机分配到干预组和对照组来评估干预措施的效果。在证据本位教育中，RCT 被倡导为教育研究的"黄金标准"（the 'gold standard' of research）。
+> [!info] 定义
+> 随机对照试验是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组来评估干预措施的效果。在[[Evidence-Based Education|证据本位教育]]中，随机对照试验被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]])。
+
+> [!note] 历史背景
+> [[Karl Pearson|Karl Pearson]] 在 1904 年的伤寒疫苗分析中就提出了"每隔一位志愿者接种"的随机化试验方案，预见了随机对照试验的发展方向——尽管这一方法在 60 年后才被正式确立([[Argument_Higgins_2016_RE|Higgins, 2016, p.33]])。
+>
+> 医学中随机对照试验的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量。Richard Peto 推广了[[Fixed-Effect and Random-Effects Models|固定效应模型]]，Larry Hedges（1983）倡导随机效应模型([[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]])。
 
 ---
 
-## 复杂性理论的挑战
 
-> 以下内容基于 Cohen et al. (2011) 第1章，呈现复杂性理论对 RCT 作为黄金标准的根本性质疑。
+### 复杂性理论的挑战
 
-> [!tension] RCT 作为黄金标准的局限
-> 复杂性理论对随机对照试验构成了根本性挑战（Cohen et al., 2011, Ch. 1）。
-
-> [!finding-cards]
-> - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、模式化的、可普遍化的、原子化的、受控的、封闭的系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
-> - **反变量控制** 即使能够进行实验，其在持续涌现、互动的、关系性的开放情境中的适用性也是有限的（Morrison, 2001）。在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history）
+> [!tension] [[Complexity Theory|复杂性理论]]对 RCT 黄金标准的根本性质疑
+> 复杂性理论对随机对照试验构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+>
+> - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
+> - **反[[Variable|变量]]控制** 在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
 > - **整体论** 现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动（Morrison, 2008）
 > - **分析单位转向** 复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996: 301）
 > - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
 
 > [!warning] 赫拉克利特的名言
-> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流**（we never jump into the same river twice）（Cohen et al., 2011, Ch. 1）。
-
----
-
-## 补充：RCT 在教育研究中的操作与批评
-
-> 以下内容整合自 Wrigley & McCusker (2019)、Higgins (2016)、Wiliam (2019)、Møller (2017)、Biesta (2010)、Brady et al. (2023)、Kraft (2023) 等多来源。
+> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流**（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
-> RCT 隐含经验主义和实证主义认识论：假设通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的因果过程([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]])。
+> [!abstract] [[Epistemology|认识论]]立场
+> RCT 隐含经验主义和[[Positivism|实证主义]]认识论：假设通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的因果过程([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]])。
 >
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充了此批判：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性。这意味着即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充了此批判：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性。这意味着即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
 
 ---
 
@@ -83,14 +132,14 @@ updated: 2026-06-14
 
 ## 局限性
 
-> [!warning] 认识论与本体论基础问题
+> [!warning] [[Epistemology|认识论]]与[[Ontology|本体论]]基础问题
 > 以下批评从根本层面质疑 RCT 假设与教育现实之间的结构性不匹配。
 >
 > #### 教育作为"难以完成的科学"(Berliner, 2002; [[Argument_Møller_2017_EERJ|Møller, 2017]])
 >
 > [[Argument_Møller_2017_EERJ|Møller (2017, p.379)]]援引 Berliner (2002) 的核心论证来阐明为何 RCT 在教育中面临结构性障碍：
 >
-> 教育研究是"难以完成的科学"（hard-to-do-science），因为"教育研究者'在物理科学家认为无法容忍的条件下做科学……[教育研究者]必须处理限制推广的本地条件'"（Berliner, 2002: 18, cited in Møller, 2017, p.379）。
+> 教育研究是"难以完成的科学"（hard-to-do-science），因为"教育研究者'在物理科学家认为无法容忍的条件下做科学……[教育研究者]必须处理限制推广的本地条件'"（Berliner, 2002: 18, cited in [[Argument_Møller_2017_EERJ|Møller, 2017, p.379]]）。
 >
 > **Berliner 论证的核心要素**([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])：
 > - 学校中的学生、教师和校长嵌套在**复杂且不断变化的社会互动网络**中
@@ -256,7 +305,7 @@ updated: 2026-06-14
 > 当前"什么有效"策略默认的 RCT 设计取向——仅输出效应量估计，不提供关于干预**如何**、**为什么**或在**什么条件下**产生效果的信息（Scriven, 1994）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
 >
 > 关键局限（详见 [[Black Box RCTs]]）：
-> - 引导资金流向更程序化、更少教师主导的"治疗"——源于医学药物试验范式的直接移植（p. 301）
+> - 引导资金流向更程序化、更少教师主导的"治疗"——源于医学药物试验[[Paradigm|范式]]的直接移植（p. 301）
 > - 医生角色类比揭示错配：医学 RCT 测试标准化产品（药物）由医生按处方分发，但教育变革需要教师理解和改编方法而非仅仅"分发"——"在黑箱方法中，教师是向学生受试者成功交付项目设计的管道"（p. 301）
 > - 实施问题被黑箱放大：由于不了解干预的关键成分，即使改进实施过程评估（IPE）也因"通常缺乏对干预关键成分或实施必要条件的了解"而极具挑战性（p. 302, citing Darrow & Goodson, forthcoming）
 >
@@ -283,7 +332,7 @@ updated: 2026-06-14
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、涌现性、三层本体论
+> - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence|涌现]]性、三层[[Ontology|本体论]]
 > - [[Validity as Inferences]] — [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 运用 Cronbach/Messick 的效度理论论证：即使 RCT 设计良好，其推论的效度也永远是临时且局部的
 
 ---
@@ -306,5 +355,4 @@ updated: 2026-06-14
 > - [[Tennessee STAR Project 1985-1989]] — 被 Mosteller 称为"有史以来最重要的教育调查之一"，但 Wiliam (2019) 揭示了其 RCT 外推的三重失败
 
 ---
-
 

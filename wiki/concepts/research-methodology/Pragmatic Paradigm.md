@@ -12,6 +12,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Postpositivism]]"
+  - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -38,13 +40,24 @@ updated: 2026-06-14
 
 ---
 
-## 核心原则
+## 核心要素
+
+### Ch.1 核心原则
 
 > [!finding-cards]
 > - **真理的多元性** 真理和实在可能同时存在单一版本和多重版本（both singular and multiple versions of the truth and reality），有时主观有时客观，有时科学有时人文
 > - **效用优先** 以效用（utility）、实践后果和结果以及启发法（heurism）优先于对"实在"最准确再现的单一追求——是一种实事求是的态度，以解决实际世界中的实际问题为导向
-> - **适合目的** 采用方法论上折中主义、多元主义的取向（a methodologically eclectic, pluralist approach），基于适合目的（fitness for purpose）和适用性（applicability）的标准，借鉴[[Positivism|实证主义]]和诠释[[Epistemology|认识论]]（Johnson and Onwuegbuzie, 2004）
+> - **适合目的** 采用方法论上折中主义、多元主义的取向（a methodologically eclectic, pluralist approach），基于适合目的（fitness for purpose）和适用性（applicability）的标准（Johnson and Onwuegbuzie, 2004）
 > - **[[Research Question|研究问题]]驱动** 不参与量化或质性的自我沉溺式辩论——直接判断研究是否帮助研究者发现了想了解的东西，无论数据和方法论是量化的还是质性的（Feilzer, 2010: 14）
+
+### 补充原则
+
+> [!features] Cherryholmes (1992)、Morgan (2007)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 补充原则
+> - **不执著于单一体系** [[Mixed Methods Research|混合方法研究]]者可以自由地从量化和质性假设中汲取资源
+> - **选择自由** 研究者有自由选择最能满足其需求和目的的方法、技术和研究程序
+> - **非绝对统一观** 实用主义者不将世界视为一个绝对统一体，研究者寻求多种数据收集和分析方法
+> - **关注后果** 基于预期后果来审视研究的内容（what）和方式（how）
+> - **情境中的研究** 研究始终发生在社会、历史、政治和其他情境中，混合方法研究可以包含后现代转折以及反映社会正义和政治目标的理论透镜
 
 ---
 
@@ -61,15 +74,15 @@ Denscombe（2008）从库恩的[[Paradigm|范式]]论出发，主张将[[Mixed M
 
 ---
 
-## 补充：实用主义在当代方法论文献中的发展
+## 理论基础
 
-> 以下内容整合自 Cherryholmes (1992)、Morgan (2007)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 等来源。
+实用主义作为一种研究世界观，起源于 Peirce、James、[[George Herbert Mead|Mead]] 和 Dewey 的著作（Cherryholmes, 1992）。它为[[Mixed Methods Research|混合方法研究]]提供了多元方法、不同世界观、多种假设和多种数据收集与分析形式的大门。Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动了实用主义作为混合方法研究哲学基础的建立。
 
-实用主义作为一种研究世界观，起源于 Peirce、James、[[George Herbert Mead|Mead]] 和 Dewey 的著作（Cherryholmes, 1992）。它为[[Mixed Methods Research|混合方法研究]]提供了多元方法、不同世界观、多种假设和多种数据收集与分析形式的大门：
+---
 
-> [!features] 实用主义的补充原则
-> - **不执著于单一体系** 混合方法研究者可以自由地从量化和质性假设中汲取资源
-> - **选择自由** 研究者有自由选择最能满足其需求和目的的方法、技术和研究程序
-> - **非绝对统一观** 实用主义者不将世界视为一个绝对统一体，混合方法研究者寻求多种数据收集和分析方法
-> - **关注后果** 基于预期后果来审视研究的内容（what）和方式（how）
-> - **情境中的研究** 研究始终发生在社会、历史、政治和其他情境中，混合方法研究可以包含后现代转折以及反映社会正义和政治目标的理论透镜
+## 概念辨析
+
+> [!example] 与相关概念的区别
+> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]以理论检验和因果识别为核心，实用主义以[[Research Question|研究问题]]为中心、以方法多元为手段，不以单一[[Ontology|本体论]]为皈依
+> - vs [[Constructivist Paradigm]] — 建构主义专注于参与者的主观意义，实用主义则关注行动的实际后果和问题的有效解决
+> - vs [[Pragmatism in China]] — Pragmatism in China 讨论的是实用主义哲学（尤其是 Dewey 的实用主义）在中国的传播与接受史，属比较教育领域；本条目聚焦于实用主义作为研究哲学立场在方法论层面的应用
