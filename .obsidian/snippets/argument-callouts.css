@@ -3402,7 +3402,8 @@
 }
 
 /* ─── 特征名标签：strong:first-child ────────────────── */
-.callout[data-callout="feature"] .callout-content > ul > li strong:first-child {
+.callout[data-callout="feature"] .callout-content > ul > li strong:first-child,
+.callout[data-callout="feature"] .callout-content > ul > li p:first-child > strong:first-child {
   display: block;
   color: rgb(15, 115, 84);
   font-weight: 700;
@@ -3435,7 +3436,8 @@
   background: color-mix(in srgb, var(--background-primary) 90%, rgb(20, 148, 108) 10%);
 }
 
-.theme-dark .callout[data-callout="feature"] .callout-content > ul > li strong:first-child {
+.theme-dark .callout[data-callout="feature"] .callout-content > ul > li strong:first-child,
+.theme-dark .callout[data-callout="feature"] .callout-content > ul > li p:first-child > strong:first-child {
   color: rgb(70, 215, 165);
   border-bottom-color: rgba(60, 210, 160, 0.22);
 }
@@ -3448,3 +3450,162 @@
     grid-column: span 1;
   }
 }
+
+/* ════════════════════════════════════════════════════════════════════
+   CRITIQUE VARIANTS  —  四种批评类型变体
+   共享结构：[data-callout^="critique-"]
+   各自颜色 + 标签徽章不同
+
+   [!critique-method] — 方法论/统计错误   steel  rgb(55, 95, 145)
+   [!critique-logic]  — 逻辑/概念矛盾    violet rgb(105, 55, 170)
+   [!critique-data]   — 实证/数据反例    amber  rgb(178, 98, 28)
+   [!critique-fatal]  — 根本性致命缺陷   crimson rgb(152, 32, 42)
+   ════════════════════════════════════════════════════════════════════ */
+
+/* ── 共享结构基础（仅 critique- 变体，不影响原 critique） ── */
+.callout[data-callout^="critique-"] {
+  background: var(--background-primary);
+  border: 1px solid rgba(var(--callout-color), 0.18);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 7px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 3px 12px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout^="critique-"] > .callout-title {
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.6rem 1.1rem;
+  background: linear-gradient(90deg, rgba(var(--callout-color), 0.07) 0%, rgba(var(--callout-color), 0.02) 100%);
+  border-bottom: 1px solid rgba(var(--callout-color), 0.12);
+}
+
+.callout[data-callout^="critique-"] > .callout-content {
+  padding: 0;
+}
+
+.callout[data-callout^="critique-"] > .callout-content > ul {
+  counter-reset: critique-n;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.callout[data-callout^="critique-"] > .callout-content > ul > li {
+  counter-increment: critique-n;
+  position: relative;
+  padding: 0.85rem 1.2rem 0.85rem 3.4rem;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.08);
+  line-height: 1.65;
+}
+
+.callout[data-callout^="critique-"] > .callout-content > ul > li:last-child {
+  border-bottom: none;
+}
+
+.callout[data-callout^="critique-"] > .callout-content > ul > li:hover {
+  background: rgba(var(--callout-color), 0.04);
+}
+
+.callout[data-callout^="critique-"] > .callout-content > ul > li::before {
+  content: counter(critique-n);
+  position: absolute;
+  left: 1rem;
+  top: 0.95rem;
+  width: 1.65rem;
+  height: 1.65rem;
+  border-radius: 50%;
+  background: rgb(var(--callout-color));
+  color: #fff;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.65rem;
+  text-align: center;
+  box-shadow: 0 1px 4px rgba(var(--callout-color), 0.25);
+}
+
+/* 标签徽章通用样式 */
+.callout[data-callout^="critique-"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(var(--callout-color), 0.11);
+  color: rgb(var(--callout-color));
+  font-size: 0.67em;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  vertical-align: middle;
+}
+
+/* ── [!critique-method]  方法论/统计错误 ─────────────────── */
+.callout[data-callout="critique-method"] {
+  --callout-color: 55, 95, 145;
+  --callout-icon: lucide-test-tube;
+}
+.callout[data-callout="critique-method"] > .callout-title {
+  color: rgb(55, 95, 145);
+}
+.callout[data-callout="critique-method"] > .callout-title .callout-title-inner::before {
+  content: "METHOD";
+}
+
+/* ── [!critique-logic]  逻辑/概念矛盾 ───────────────────── */
+.callout[data-callout="critique-logic"] {
+  --callout-color: 105, 55, 170;
+  --callout-icon: lucide-git-merge;
+}
+.callout[data-callout="critique-logic"] > .callout-title {
+  color: rgb(105, 55, 170);
+}
+.callout[data-callout="critique-logic"] > .callout-title .callout-title-inner::before {
+  content: "LOGIC";
+}
+
+/* ── [!critique-data]  实证/数据反例 ────────────────────── */
+.callout[data-callout="critique-data"] {
+  --callout-color: 178, 98, 28;
+  --callout-icon: lucide-database;
+}
+.callout[data-callout="critique-data"] > .callout-title {
+  color: rgb(178, 98, 28);
+}
+.callout[data-callout="critique-data"] > .callout-title .callout-title-inner::before {
+  content: "DATA";
+}
+
+/* ── [!critique-fatal]  根本性致命缺陷 ──────────────────── */
+.callout[data-callout="critique-fatal"] {
+  --callout-color: 152, 32, 42;
+  --callout-icon: lucide-alert-triangle;
+  border-left-width: 8px;
+}
+.callout[data-callout="critique-fatal"] > .callout-title {
+  color: rgb(152, 32, 42);
+  background: linear-gradient(90deg, rgba(152, 32, 42, 0.10) 0%, rgba(152, 32, 42, 0.03) 100%);
+}
+.callout[data-callout="critique-fatal"] > .callout-title .callout-title-inner::before {
+  content: "FATAL";
+  background: rgba(152, 32, 42, 0.14);
+}
+.callout[data-callout="critique-fatal"] > .callout-content > ul > li::before {
+  border-radius: 4px;  /* 方形徽章，区别于其他圆形 */
+}
+
+/* ── 暗模式（四种变体共享） ──────────────────────────────── */
+.theme-dark .callout[data-callout^="critique-"] {
+  box-shadow: 0 3px 12px rgba(0,0,0,0.18);
+}
+
+.theme-dark .callout[data-callout="critique-method"] { --callout-color: 100, 148, 210; }
+.theme-dark .callout[data-callout="critique-method"] > .callout-title { color: rgb(120, 165, 220); }
+
+.theme-dark .callout[data-callout="critique-logic"] { --callout-color: 162, 115, 230; }
+.theme-dark .callout[data-callout="critique-logic"] > .callout-title { color: rgb(175, 130, 240); }
+
+.theme-dark .callout[data-callout="critique-data"] { --callout-color: 220, 145, 70; }
+.theme-dark .callout[data-callout="critique-data"] > .callout-title { color: rgb(230, 158, 82); }
+
+.theme-dark .callout[data-callout="critique-fatal"] { --callout-color: 210, 80, 90; }
+.theme-dark .callout[data-callout="critique-fatal"] > .callout-title { color: rgb(220, 95, 105); }
