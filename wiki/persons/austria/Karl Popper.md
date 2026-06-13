@@ -11,7 +11,12 @@ tags:
   - person/philosopher
   - person/philosopher-of-science
   - theme/epistemology
-related_concepts: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Falsification]]"
+  - "[[Positivism]]"
+  - "[[Postpositivism]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -34,14 +39,14 @@ updated: 2026-06-13
 ### 证伪主义
 
 > [!def] [[Falsification|证伪主义]]（Falsificationism）
-> 波普尔以"可证伪性"（falsifiability）作为科学与非科学的划界标准：科学理论的标志不是它能被证实，而是它能被证伪——理论必须明确什么样的经验证据将构成对它的反驳（pp.316–334）。这与逻辑[[Positivism|实证主义]]的"可证实性"原则截然对立。
+> 波普尔以"可证伪性"（falsifiability）作为科学与非科学的划界标准：科学理论的标志不是它能被证实，而是它能被证伪——理论必须明确什么样的经验证据将构成对它的反驳(Cohen et al., 2011, Ch. 1)。这与逻辑[[Positivism|实证主义]]的"可证实性"原则截然对立。
 >
 > 波普尔（1968）进一步提出"严格检验"（severe test）概念：有效的经验理论应在与产生它的语境不同的语境中进行检验，而非仅仅在相同条件下进行证实和归纳。
 
 ### 推测性知识
 
 > [!abstract] 推测性知识观
-> 我们关于世界的知识是**推测性的**（conjectural）、**可证伪的**、**可挑战的**、**变化中的**。安全的、一劳永逸的基础知识让位于尝试性的推测（tentative speculation）（pp.731–732）。这一立场成为[[Postpositivism|后实证主义]]的哲学基石。
+> 我们关于世界的知识是**推测性的**（conjectural）、**可证伪的**、**可挑战的**、**变化中的**。安全的、一劳永逸的基础知识让位于尝试性的推测（tentative speculation）(Cohen et al., 2011, Ch. 1)。这一立场成为[[Postpositivism|后实证主义]]的哲学基石。
 
 ### 三个世界理论
 
@@ -52,9 +57,10 @@ updated: 2026-06-13
 波普尔的[[Falsification|证伪主义]]对教育研究方法论产生了以下影响：
 
 > [!finding-cards]
-> - **事实与价值的不可分离** 波普尔（1980）与其他[[Postpositivism|后实证主义]]者（Feyerabend, 1975; Reichardt and Rallis, 1994）论证，事实和观察是**理论负载和价值负载**的（theory-laden and value-laden），研究者的价值体系和[[Paradigm|范式]]决定了研究焦点、方法和解释（p.135）
+> - **事实与价值的不可分离** 波普尔（1980）与其他[[Postpositivism|后实证主义]]者（Feyerabend, 1975; Reichardt and Rallis, 1994）论证，事实和观察是**理论负载和价值负载**的（theory-laden and value-laden），研究者的价值体系和[[Paradigm|范式]]决定了研究焦点、方法和解释(Cohen et al., 2011, Ch. 1)
 > - **反对宏大叙事** 波普尔的推测性知识观与后现代主义共享对一劳永逸的基础知识的拒斥
-> - **有效理论的标准** 波普尔对理论应阐明自身证伪条件的主张，成为有效经验理论九大特征之一（p.334）
+> - **有效理论的标准** 波普尔对理论应阐明自身证伪条件的主张，成为有效经验理论九大特征之一(Cohen et al., 2011, Ch. 1)
+
 
 ## 关键引用
 

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Postpositivism]]"
+  - "[[Incommensurability]]"
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
@@ -43,7 +44,7 @@ updated: 2026-06-12
 
 ### 范式概念
 
-库恩最具影响力的贡献是其在《科学革命的结构》（*The Structure of Scientific Revolutions*, 1962）中提出的**[[Paradigm|范式]]**（Paradigm）概念。他将范式定义为"一种被接受的模型或模式"（Kuhn, 1962: 23），包含以下多重含义（pp.133–134）：
+库恩最具影响力的贡献是其在《科学革命的结构》（*The Structure of Scientific Revolutions*, 1962）中提出的**[[Paradigm|范式]]**（Paradigm）概念。他将范式定义为"一种被接受的模型或模式"（Kuhn, 1962: 23），包含以下多重含义(Cohen et al., 2011, Ch. 1)：
 
 - 一种看待或研究现象的方式
 - 一种世界观
@@ -68,7 +69,7 @@ updated: 2026-06-12
 
 ### 不可通约性
 
-库恩指出范式之间具有**不可通约性**（incommensurability）：不同范式之间没有共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式（p.137）。
+库恩指出范式之间具有**[[Incommensurability|不可通约性]]**（incommensurability）：不同范式之间没有共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式(Cohen et al., 2011, Ch. 1)。
 
 ### 范式共同体与权威
 
@@ -76,11 +77,12 @@ updated: 2026-06-12
 
 ## 对教育研究的影响
 
-自库恩的奠基性工作以来，教育研究中的方法论取向一直被理解为存在于不同的[[Paradigm|范式]]和学者共同体中（p.133）。他的工作为理解以下议题提供了框架：
+自库恩的奠基性工作以来，教育研究中的方法论取向一直被理解为存在于不同的[[Paradigm|范式]]和学者共同体中(Cohen et al., 2011, Ch. 1)。他的工作为理解以下议题提供了框架：
 
 - 量化与[[Qualitative Research|质性研究]]之间的"范式战争"（Gage, 1989）
 - [[Mixed Methods Research|混合方法研究]]作为"第三种研究范式"（Johnson and Onwuegbuzie, 2004）
 - [[Complexity Theory|复杂性理论]]作为一种"新兴范式"（Morrison, 2008）
+
 
 ## 关键引用
 

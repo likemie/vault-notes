@@ -28,14 +28,14 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Epistemology]]"
   - "[[Language Experience Approach]]"
-  - "[[Confidence Interval]]"
+  - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
+  - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
   - "[[Falsification]]"
   - "[[Study Population and Sample]]"
   - "[[Feedback]]"
-  - "[[Publication Bias]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Pure Evaluation]]"
@@ -248,7 +248,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）
 >
 > > [!col-r] 代表批评
 > > Myburgh 等：二级元分析的六项慢性问题（经 Golovchin 汇编）
-> > Nielsen & Klitmøller (2021)：概念异质性与元分析有效性审查
+> > Nielsen & Klitmøller (2021)：概念[[Heterogeneity|异质性]]与元分析有效性审查
 
 
 #### 二级元分析的六项慢性问题（Myburgh 等）
@@ -265,7 +265,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p.3）
 
 ### 元-元分析层（二级元分析）：跨层聚合的方法论断裂
 
-> [!layer] 元-元分析层
+> [!layer] [[Meta-meta-analysis|元-元分析]]层
 > 批评再上移一级，审查 Hattie 如何将数百项元分析聚合为 VL——效应量公式混用、研究不加权平均、方差与[[Confidence Interval|置信区间]]未报告、概念[[Heterogeneity|异质性]]（不同现象归入同一标签）、信息在聚合层级间系统损失。这一层的核心争议是：**跨元分析的二次聚合在统计上是否成立**。
 >
 > > [!col-l] 核心问题
@@ -719,7 +719,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 > |---------|---------|-----------|
 > | 数据质量 | 元分析包含设计差、计划差的研究（"垃圾进垃圾出"）；基础数据已过时（1980s-1990s） | Lupton, Myburgh, Terhart |
 > | 统计方法 | 效应量平均化不当；异构研究"苹果与橘子"比较；*d* = 0.40 阈值任意；低于 0.40 的效应量不应忽略 | Brown, Kamenetz, Snook et al., Jones, Slavin |
-> | 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；因果关系被统计显著性替代 | Terhart, Snook et al. |
+> | 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；[[Causality\|因果关系]]被[[Statistical Significance\|统计显著性]]替代 | Terhart, Snook et al. |
 > | 推广局限 | 结论来自英语国家不可全球推广；效应量不适用于普通教师在普通课堂 | Snook et al. |
 > | 效度缺失 | 未评估基础研究的效度；未提供质量标准信息；无预测功能 | Snook et al., Terhart |
 > | 文化政治 | VL 与新自由主义、性别歧视、能力主义议程结盟 | McKnight & Whitburn |
@@ -733,17 +733,18 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教学理论]]、一种学生学习和教师工作的理论。[[Argument_Terhart_2011_JCS|Terhart (2011, p.430-431)]]详细审查了这一宣称后发现严重的内容缺失：
 
-**[[Karl Popper|Popper]] 三个世界理论的误用**：Hattie 通过 Bereiter（2002）的中介连接 Karl Popper 的三个世界（物理事物/主观观念/客观知识）来区分学校学习的三个层次——表面信息（第一世界）、深度理解（第二世界）、"可辩护的关于知识和现实的理论"（第三世界）。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——这些段落"以一种相当联想和顽固的方式穿越学习理论领域"（p.430-431）。
+> [!critique-logic] 理论框架的三处内容缺失（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.430–431]]）
+> - **[[Karl Popper|Popper]] 三个世界理论的误用** Hattie 通过 Bereiter（2002）连接 Popper 的三个世界区分学习层次。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——段落"以相当联想和顽固的方式穿越学习理论领域"
+> - **[[Bildung]] 实质面的系统缺席** Hattie 仅发展了 Bildung 的形式理解，实质面（教育的具体内容）被完全忽略。全书仅抛出一句话："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p.27），而后不再展开
+> - **课程章节的内容真空** 名为"课程"的章节读者"再次发现关于某些专门化教学方法及其[[Effect Size|效应量]]的报告"——内容问题、学科教学意义、课程决策的合法化依据，"被完全忽略"
 
-**[[Bildung]] 的实质面被完全忽略**：Terhart 从德国 Didaktik 传统出发，指出 Hattie 的讨论可关联到 Bildung（教化）概念——但 Hattie 只发展了形式上的理解，Bildung 的实质面（教育的具体内容）被忽略。Hattie 仅在书中一句话抛出："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p.27）。Terhart 追问："这可能是一个起点……但 Hattie 没有沿着这条可能的思路走下去。所以人们想知道：肉在哪里？"（p.430-431）
-
-**课程内容完全缺失**：在名为"课程"的章节中，读者"再次发现关于某些专门化教学方法及其[[Effect Size|效应量]]的报告。内容问题、学科的教学意义问题、关于合法化课程决策的问题和可能性的反思（为什么包括这个——为什么排除那个？）被完全忽略"（p.431）。
+> [!citation-card] Terhart, 2011, p.431
+> 「这可能是一个起点……但 Hattie 没有沿着这条可能的思路走下去。所以人们想知道：**肉在哪里？**」
 
 ### 教育乐观主义与浪漫化的教师理想
 
-[[Argument_Terhart_2011_JCS|Terhart (2011, p.434-435)]]注意到 [[Visible Learning|VL]] 中一种奇特的风格混合：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"——"确实有时非常困难和无聊地逐一浏览 138 个因素"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学和——最重要的——关于一个好的和有效的教师工作特征的段落"。
-
-这种"压倒性的、旺盛的乐观主义"和"对通过好的教学实现成功学习的可达成性的深深的（美国的？新西兰的？——还是仅仅是教育学的？）信念"让读者"看着数据中常常相当怀疑和悲观的意涵，有点困惑"（p.435）。Terhart 将此诊断为"以更心理学的方式建立的、对通过正确的、好的教学实现无限学习促进的信念"——一种现代版的浪漫化"天生教师"理想，只是这次建立在"科学证据和高涨的教育精神"之上（p.435）。
+> [!critique-logic] 风格矛盾与结构性乐观主义（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]]）
+> [[Argument_Terhart_2011_JCS|Terhart]] 注意到 [[Visible Learning|VL]] 中奇特的双重风格：一方面是"相当枯燥、几乎是机械地写成的关于 138 个影响因素的段落"；另一方面是"更文学化、甚至强调性乐观地构建的关于好的教学"的段落。这种"压倒性的、旺盛的乐观主义"被诊断为现代版浪漫化"天生教师"理想——建立在"科学证据和高涨的教育精神"之上，却与数据中"常常相当怀疑和悲观的意涵"形成矛盾（p.435）。
 
 
 ---

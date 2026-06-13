@@ -13,9 +13,18 @@ tags:
   - theme/epistemology
   - theme/research-philosophy
   - theme/philosophy-of-science
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Positivism]]"
+  - "[[Postpositivism]]"
+  - "[[Reflexivity]]"
+  - "[[Incommensurability]]"
+  - "[[Scientific Method]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Phenomenology]]"
+  - "[[Complexity Theory]]"
+related_methods:
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -36,7 +45,7 @@ updated: 2026-06-12
 > [!info] 核心含义
 > 范式（Paradigm）是库恩（Thomas Kuhn, 1962）在其开创性著作《科学革命的结构》中提出的概念，指一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点。
 
-库恩（1962: 23）将范式描述为"一种被接受的模型或模式"（an accepted model or pattern）。更具体地说，范式包含以下多个维度（pp.133–134）：
+库恩（1962: 23）将范式描述为"一种被接受的模型或模式"（an accepted model or pattern）。更具体地说，范式包含以下多个维度(Cohen et al., 2011, Ch. 1)：
 
 > [!finding-cards]
 > - 一种看待或研究现象的方式（a way of looking at or researching phenomena）
@@ -72,15 +81,15 @@ updated: 2026-06-12
 
 ## 范式的不可通约性
 
-范式的一个重要特征是它们之间的**不可通约性**（incommensurability）：一个人不能同时持有两个截然不同的范式，因为它们之间没有共同的原则、标准或衡量尺度（p.137）。不过，本章后半部分引入的[[Mixed Methods Research|混合方法研究]]作为一种"新范式"，在某种程度上挑战了这一不可通约性论点。
+范式的一个重要特征是它们之间的**[[Incommensurability|不可通约性]]**（incommensurability）：一个人不能同时持有两个截然不同的范式，因为它们之间没有共同的原则、标准或衡量尺度(Cohen et al., 2011, Ch. 1)。不过，本章后半部分引入的[[Mixed Methods Research|混合方法研究]]作为一种"新范式"，在某种程度上挑战了这一不可通约性论点。
 
 ## 范式与知识权威
 
-库恩的观点将研究对象与学者共同体联系起来。一个知识领域或范式的有效性，取决于支持它的证据的质量以及它在"权威人士"中所受到的尊重（p.140）。这意味着范式不仅关乎认知，也关乎权力和社会组织。
+库恩的观点将研究对象与学者共同体联系起来。一个知识领域或范式的有效性，取决于支持它的证据的质量以及它在"权威人士"中所受到的尊重(Cohen et al., 2011, Ch. 1)。这意味着范式不仅关乎认知，也关乎权力和社会组织。
 
 ## 在教育研究中的应用
 
-自库恩的奠基性工作以来，教育研究中的方法论取向被视为存在于不同的"范式"和学者共同体中。教育研究吸收了社会科学的多种竞争性观点（pp.131–141）：
+自库恩的奠基性工作以来，教育研究中的方法论取向被视为存在于不同的"范式"和学者共同体中。教育研究吸收了社会科学的多种竞争性观点(Cohen et al., 2011, Ch. 1)：
 
 - 既定的、传统的观点（[[Positivism|实证主义]]、[[Scientific Method|科学方法]]）
 - 诠释观点（自然主义、质性方法）
@@ -89,6 +98,7 @@ updated: 2026-06-12
 - [[Mixed Methods Research|混合方法研究]]（被称为"第三种研究范式"）
 
 混合方法研究的兴起（Johnson and Onwuegbuzie, 2004; Denscombe, 2008）代表了范式多元化的最新发展。Denscombe（2008）甚至主张将混合方法范式定义为一种新的"实践共同体"（community of practice），由采纳混合方法研究原则的志同道合的研究者组成。
+
 
 ## 关键引用
 

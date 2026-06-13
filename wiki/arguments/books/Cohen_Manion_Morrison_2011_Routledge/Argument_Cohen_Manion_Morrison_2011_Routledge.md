@@ -33,6 +33,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Postpositivism]]"
   - "[[Reflexivity]]"
+  - "[[Incommensurability]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Rich and Thick Description]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Indexicality]]"
   - "[[Homework]]"
+  - "[[Emergence]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
   - "[[Research Question]]"
@@ -54,6 +56,7 @@ related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Realism]]"
   - "[[Phenomenology]]"
+  - "[[Burrell and Morgan Four Assumptions Framework]]"
   - "[[Ethnomethodology]]"
   - "[[Symbolic Interactionism]]"
 related_methods:
@@ -71,9 +74,12 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Thomas Kuhn]]"
   - "[[Auguste Comte]]"
+  - "[[Søren Kierkegaard]]"
   - "[[Jürgen Habermas]]"
   - "[[Edmund Husserl]]"
+  - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
+  - "[[George Herbert Mead]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -206,7 +212,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 > 2. 牛顿机械宇宙观 → 爱因斯坦相对论的、演化的宇宙观
 > 3. 价值无涉、中立、客观的实证主义科学观 → [[Postpositivism|后实证主义]]、[[Critical Realism|批判实在论]]的科学观，以推测(Popper, 1980)、研究者的主观价值体系、[[Phenomenology|现象学]]、主体性和[[Reflexivity|反思性]]为特征
 
-> [!def] 不可通约性(incommensurability)
+> [!def] [[Incommensurability|不可通约性]](incommensurability)
 > 不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式(p.137)。
 >
 > 不可通约性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具。
@@ -226,7 +232,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 
 ### 步骤 3：通过 Burrell and Morgan 的四组假设对比两大范式
 
-Burrell and Morgan (1979)的四组假设框架系统对比了客观主义(实证主义)与主观主义(诠释主义)两种社会实在观的哲学根基(pp.145–163)。这四组假设沿一条**主观–客观维度**排列：
+Burrell and Morgan (1979)的[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]系统对比了客观主义(实证主义)与主观主义(诠释主义)两种社会实在观的哲学根基(pp.145–163)。这四组假设沿一条**主观–客观维度**排列：
 
 > [!contrast-table] 四组假设：客观主义 vs 主观主义
 >
@@ -481,7 +487,7 @@ Woods (1979)识别出三个层层递进的基本假设：
 
 > [!assumptions] 符号互动论的三个基本假设(Woods, 1979)
 > - **意义赋予** 人基于事物对其具有的意义来行动。人生活在两个世界——"自然"世界(由驱力和本能支配的有机体)和**社会世界**(符号——如语言——使人们能够赋予对象以意义)。互动论者聚焦于主观意义的世界，认真对待、甚至优先考虑内部人士自身的描述
-> - **持续过程** 通过符号赋予意义是一个持续的过程。行动不仅由心理属性(驱力、态度、人格)或外部社会事实(社会结构、角色)决定，而是来自一个始终在涌现、处于流动状态的持续意义赋予过程。个体在不断**建构、修改、拼凑、权衡利弊和讨价还价**
+> - **持续过程** 通过符号赋予意义是一个持续的过程。行动不仅由心理属性(驱力、态度、人格)或外部社会事实(社会结构、角色)决定，而是来自一个始终在[[Emergence|涌现]]、处于流动状态的持续意义赋予过程。个体在不断**建构、修改、拼凑、权衡利弊和讨价还价**
 > - **社会语境中的互动** 意义赋予发生在社会语境中。个体通过**"扮演他人的角色"**(taking the role of the other)来协调行动——建构他人希望如何行动以及自己可能如何行动。他们可能试图**"管理"印象**，进行**"表演"**，试图影响他人的**"情境定义"**(definition of the situation)
 
 Woods (1983: 15–16)进一步总结了互动论的核心焦点：个体作为自身行动的**建构者**；自我的各组成部分及其互动；**协商过程**(meanings are continually being constructed)；社会语境；以及通过扮演他人角色来对齐行动。
@@ -623,12 +629,12 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 
 #### 11.1 核心概念
 
-> [!abstract] 复杂性理论的关键术语
-> - **反馈**([[Feedback]])：**负反馈**起调节作用(得知考试不及格)；**正反馈**放大微小变化，带来递增回报——一个孩子一旦开始阅读就沉迷其中，读得更多，以指数速率学习(Wheatley, 1999: 78)
-> - **连接性**(connectedness)：在热带雨林中，蚂蚁吃树叶，鸟吃蚂蚁并留下粪便，粪便肥沃土壤，长出树木和树叶供蚂蚁食用(Lewin, 1993: 86)。在学校中，孩子与家庭、教师、同伴、社会相连；教师与其他教师、支持机构、政策制定机构、资助机构、立法机构相连
-> - **涌现**(emergence)：系统从低层复杂性产生高层复杂性和新形式，源于相对简单的规则——局部规则产生涌现的复杂全局秩序和多样性(Waldrop, 1992: 16–17)
-> - **自组织**(self-organization)：秩序是免费的，它取代了控制(Kauffman, 1995)。自组织是内部生成的，是对外部控制的对立面
-> - **自组织临界性**(self-organized criticality, Bak, 1996)：在转折点(tipping point)，单个事件的效应可能非常大——压垮骆驼的最后一根稻草
+> [!term] 复杂性理论的关键术语
+> - **反馈**([[Feedback]]) **负反馈**起调节作用(得知考试不及格)；**正反馈**放大微小变化，带来递增回报——一个孩子一旦开始阅读就沉迷其中，读得更多，以指数速率学习(Wheatley, 1999: 78)
+> - **连接性**(connectedness) 在热带雨林中，蚂蚁吃树叶，鸟吃蚂蚁并留下粪便，粪便肥沃土壤，长出树木和树叶供蚂蚁食用(Lewin, 1993: 86)。在学校中，孩子与家庭、教师、同伴、社会相连；教师与其他教师、支持机构、政策制定机构、资助机构、立法机构相连
+> - **涌现**([[Emergence]]) 系统从低层复杂性产生高层复杂性和新形式，源于相对简单的规则——局部规则产生涌现的复杂全局秩序和多样性(Waldrop, 1992: 16–17)
+> - **自组织**(self-organization) 秩序是免费的，它取代了控制(Kauffman, 1995)。自组织是内部生成的，是对外部控制的对立面
+> - **自组织临界性**(self-organized criticality, Bak, 1996) 在转折点(tipping point)，单个事件的效应可能非常大——压垮骆驼的最后一根稻草
 
 两个有机比喻说明了这些概念：
 
@@ -716,7 +722,7 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 > [[Mixed Methods Research|混合方法研究]]认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"(Gorard and Smith, 2006: 61)。(1.13节，p.603)
 
 > [!citation-card]
-> 在[[Complexity Theory|复杂性理论]]中，秩序是免费的，它取代了控制。秩序不是被强加的，而是涌现的。(1.16节，p.792)
+> 在[[Complexity Theory|复杂性理论]]中，秩序是免费的，它取代了控制。秩序不是被强加的，而是[[Emergence|涌现]]的。(1.16节，p.792)
 
 ---
 

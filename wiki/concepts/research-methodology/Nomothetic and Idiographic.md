@@ -21,7 +21,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Class Size]]"
-related_theories: []
+related_theories:
+  - "[[Burrell and Morgan Four Assumptions Framework]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
@@ -41,7 +42,7 @@ updated: 2026-06-13
 ## 定义
 
 > [!info] 核心含义
-> 通则式（nomothetic）与个例式（idiographic）是 Burrell and Morgan（1979）在四组假设框架的方法论维度上识别的一对基本区分，代表了[[Quantitative Research|量化研究]][[Paradigm|范式]]与[[Qualitative Research|质性研究]]范式在方法论层面的根本分歧（pp.155–157）。
+> 通则式（nomothetic）与个例式（idiographic）是 Burrell and Morgan（1979）在[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]的方法论维度上识别的一对基本区分，代表了[[Quantitative Research|量化研究]][[Paradigm|范式]]与[[Qualitative Research|质性研究]]范式在方法论层面的根本分歧(Cohen et al., 2011, Ch. 1)。
 
 > [!line-a] 通则式（Nomothetic）
 > 以发现**普遍法则**（universal laws）为目标的方法论取向。研究聚焦于分析选定因素之间的关系和规律性，以量化为主，涉及识别和定义元素、发现其关系如何被表达。核心关注是概念本身、其测量以及通过寻找解释和支配所观察现象的普遍法则来识别底层主题（Burrell and Morgan, 1979）。
@@ -51,7 +52,7 @@ updated: 2026-06-13
 
 ## 在四组假设中的位置
 
-这对概念是 Burrell and Morgan（1979）四组假设推导链的终点（pp.153–157）：
+这对概念是 Burrell and Morgan（1979）四组假设推导链的终点(Cohen et al., 2011, Ch. 1)：
 
 > [!logic-map] 从[[Ontology|本体论]]到方法论的推导
 > ```mermaid
@@ -79,3 +80,4 @@ updated: 2026-06-13
 - **个例式研究**：使用案例研究、[[Ethnography|民族志]]和叙事方法来理解"特定教师在特定课堂中如何理解自己的教学实践""某所学校独特的文化生态"
 
 [[Mixed Methods Research|混合方法研究]]的兴起试图弥合这一鸿沟——在同一个研究中同时追求"什么有效"（通则式）和"为什么及如何有效"（个例式）。
+
