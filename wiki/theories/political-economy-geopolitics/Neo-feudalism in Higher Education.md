@@ -16,6 +16,7 @@ tags:
   - paradigm/critical
   - level/higher-ed
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Knowledge Rents]]"
   - "[[Champ]]"
   - "[[Knowledge Capitalism]]"
@@ -24,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Jürgen Habermas]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:
@@ -39,9 +41,9 @@ updated: 2026-06-01
 ## 核心主张
 
 > [!tip]
-> 高等教育新封建主义（Neo-feudalism in Higher Education）是 Schulze-Cleven et al.（2017）引入高等教育研究的范式概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])。
+> 高等教育新封建主义（Neo-feudalism in Higher Education）是 Schulze-Cleven et al.（2017）引入高等教育研究的[[Paradigm|范式]]概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])。
 
-这一概念借用了 Habermas（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注(Neckel, 2013; Zinn, 2015; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
+这一概念借用了 [[Jürgen Habermas|Habermas]]（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注(Neckel, 2013; Zinn, 2015; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
 > [!quote]
 > "the ongoing restructuring of academic dependencies and loyalties (as pictured by Bourdieu, 1984) appears to have generated not just free-market dynamics but also a system of neo-feudal power relations"([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])
 > 
@@ -85,12 +87,12 @@ updated: 2026-06-01
 ## 发展脉络
 
 > [!note]
-> - **1962 年**：Habermas 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
+> - **1962 年**：[[Jürgen Habermas|Habermas]] 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
 > - **1984 年**：Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 ... Applied fuzzy match at line 48-112.
 > - **2013 年**：Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
 > - **2015 年**：Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
-> - **2017 年**：Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析范式
+> - **2017 年**：Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析[[Paradigm|范式]]
 
 ## 与相关理论的关系
 

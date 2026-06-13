@@ -13,17 +13,20 @@ tags:
 related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Construct]]"
+  - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
 related_persons:
   - "[[David Watkins]]"
+  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018]]"
@@ -72,4 +75,4 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 属于 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分，与 von Glasersfeld 和 Bjørgen 共享[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]前提([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])
 > - [[Constructive Alignment|建构性对齐]]被纳入 Hattie 的 [[Visible Learning|VL]] 评价体系
-> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 将 Biggs & Collis 的 SOLO 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 Popper/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 将 Biggs & Collis 的 SOLO 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 [[Karl Popper|Popper]]/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])

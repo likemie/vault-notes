@@ -3253,12 +3253,12 @@
 .callout[data-callout="formula"] .callout-content .math-block {
   display: block !important;
   text-align: center;
-  margin: 0.85rem 0 !important;
-  padding: 0.85rem 1.2rem;
+  margin: 0.45rem 0 0.5rem !important;
+  padding: 0.55rem 1rem;
   background: rgba(95, 45, 185, 0.06);
   border: 1px solid rgba(95, 45, 185, 0.15);
-  border-radius: 8px;
-  font-size: 1.1em;
+  border-radius: 6px;
+  font-size: 1.08em;
   overflow-x: auto;
 }
 
@@ -3266,36 +3266,31 @@
 .callout[data-callout="formula"] .callout-content > ul {
   counter-reset: formula-var;
   list-style: none;
-  padding-left: 2.4rem;
-  margin: 0.2rem 0 0.1rem;
+  padding-left: 2rem;
+  margin: 0 0 0.05rem;
 }
 
 .callout[data-callout="formula"] .callout-content > ul > li {
   counter-increment: formula-var;
   position: relative;
-  padding: 0.28rem 0.4rem 0.28rem 0.3rem;
-  font-size: 0.9em;
-  line-height: 1.85;
-  border-bottom: 1px solid rgba(95, 45, 185, 0.07);
-}
-
-.callout[data-callout="formula"] .callout-content > ul > li:last-child {
-  border-bottom: none;
+  padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+  font-size: 0.88em;
+  line-height: 1.62;
 }
 
 .callout[data-callout="formula"] .callout-content > ul > li::before {
   content: counter(formula-var);
   position: absolute;
-  left: -1.85rem;
-  top: 0.5rem;
-  width: 1.35rem;
-  height: 1.35rem;
+  left: -1.65rem;
+  top: 0.28rem;
+  width: 1.18rem;
+  height: 1.18rem;
   border-radius: 50%;
-  background: rgba(95, 45, 185, 0.14);
+  background: rgba(95, 45, 185, 0.13);
   color: rgb(95, 45, 185);
-  font-size: 0.65em;
+  font-size: 0.62em;
   font-weight: 700;
-  line-height: 1.35rem;
+  line-height: 1.18rem;
   text-align: center;
 }
 

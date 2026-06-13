@@ -23,9 +23,13 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Reform]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Visible Learning]]"
+  - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Clinical Trial]]"
+  - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Tracking]]"
   - "[[Professional Judgment]]"
@@ -41,13 +45,14 @@ related_concepts:
   - "[[Scientization of Politics]]"
   - "[[Side Effects]]"
   - "[[Internal Validity]]"
+  - "[[Scientific Method]]"
   - "[[Recommendations for Practice]]"
   - "[[Multimethod Research]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Direct Instruction]]"
   - "[[Material Fallacies]]"
-  - "[[Visible Learning]]"
+  - "[[Positivism]]"
   - "[[Moral Sidestep]]"
   - "[[Technology Infusion]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -618,7 +623,7 @@ Ross 与 Morrison 从美国 ESSA 证据标准和 Baltimore County Public Schools
 | [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] | 分析认识论（知识的局部性与临时性） | Goldman 区分理论、Cronbach/Messick 效度理论 |
 | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] | 文化政治 | 女性主义 + 能力批判 + 后结构主义 |
 | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 政策评估框架 | 五要素框架（方法论/情境/假设/领导力/时效性） |
-| Nielsen & Klitmøller (2021) | 合法化功能 | Habermas 合法化危机 + Schön 技术理性 |
+| Nielsen & Klitmøller (2021) | 合法化功能 | [[Jürgen Habermas\|Habermas]] 合法化危机 + Schön 技术理性 |
 
 Biesta 说 EBE **在哲学上是错的**；Cowen 说它**在制度上被选择并非因为对**；Wrigley & McCusker 说它**在方法论上逐级失真**且**对科学的理解本身就是片面的**；Wiliam 说**即使以上所有问题都被解决，EBE 在原则上仍然不可能成功**——因为教育知识本质上是局部且临时的；Peterson 说**接受 RCT 但从根本上改革其设计**；Zhao 说**只衡量效果不衡量副作用是系统性的盲点**；Blass 说**学术研究在政策中应用前须经五要素评估**；Nielsen & Klitmøller 说**VL 的流行满足了教育系统的合法化需求而非依靠科学质量**。
 

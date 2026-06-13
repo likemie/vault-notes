@@ -23,6 +23,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Falsification]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
 related_theories: []
@@ -30,7 +31,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Karl Popper]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -60,7 +62,7 @@ citation_aliases:
 > - [[Visible Learning]] — 作为整篇文章的核心框架，被解释为“认识并评估自身影响”的教学改进模式，而不是一套固定教学法或高[[Effect Size|效应量]]清单(pp.11-13)。
 > - [[Effect Size]] — 作为比较不同教育影响的共同尺度，尤其通过 d = 0.40 这个平均参考点帮助判断某项影响是否高于所有可见教育影响的平均水平(pp.10-11)。
 > - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — 作为 Visible Learning 的证据基础。文章承认这些综合需要更好地处理调节[[Variable|变量]]、研究质量和结果类型，但仍主张它们能为教育实践提供可讨论的证据起点(pp.10-18)。
-> - Popper 式证伪观 — 研究进步来自主动寻找反例，而不是保护理论不受挑战。Hattie 将 Visible Learning 称为一种可被课堂证据检验、也可被修正的解释模型(p.14)。
+> - [[Karl Popper|Popper]] 式[[Falsification|证伪]]观 — 研究进步来自主动寻找反例，而不是保护理论不受挑战。Hattie 将 Visible Learning 称为一种可被课堂证据检验、也可被修正的解释模型(p.14)。
 
 ## 研究方法
 

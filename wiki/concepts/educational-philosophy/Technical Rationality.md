@@ -15,11 +15,15 @@ tags:
 - means-ends-thinking
 - paradigm/positivist
 related_concepts:
+  - "[[Positivism]]"
   - "[[Effect Size]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
+  - "[[Ontology]]"
   - "[[Variable]]"
   - "[[Effective Teaching]]"
 related_theories: []
@@ -28,6 +32,7 @@ related_methods:
   - "[[Systematic Review]]"
 related_persons:
   - "[[Donald A. Schön]]"
+  - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments: []
@@ -73,7 +78,7 @@ updated: '2026-05-18'
 > [!note-] 发展脉络
 > - **19 世纪** — [[Positivism|实证主义]]哲学兴起，科学和技术被视为解决人类问题的根本途径
 > - **1983** — [[Donald A. Schön|Donald Schön]] 出版 *The Reflective Practitioner*，系统阐述技术理性概念及其在专业实践中的局限，提出"[[Reflexivity|反思性]]实践者"作为替代模型
-> - **1976** — Habermas 出版 *Legitimation Crisis*，论证技术理性作为国家治理媒介替代传统共识理性的过程
+> - **1976** — [[Jürgen Habermas|Habermas]] 出版 *Legitimation Crisis*，论证技术理性作为国家治理媒介替代传统共识理性的过程
 > - **1984** — Habermas 出版 *The Theory of Communicative Action*，发展系统/生活世界的二元框架，进一步阐述技术理性的制度功能
 > - **2009** — Hattie 出版 *[[Visible Learning]]*，被 Nielsen & Klitmøller (2021) 识别为教育领域技术理性的典型体现——将教学分解为可测量、可排名的技术干预
 > - **2021** — Nielsen & Klitmøller 在 *Nordic Psychology* 发表论文，进一步追溯 Hattie 技术理性的行为主义谱系：Hattie (1987) 借鉴 Glaser 的学习理论，而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名（Nielsen & Klitmøller, 2021, p.3）。这建立了 Skinner→Glaser→Hattie 的理论传承链

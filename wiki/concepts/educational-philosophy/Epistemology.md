@@ -12,9 +12,21 @@ type: concept
 tags:
   - theme/epistemology
   - theme/research-philosophy
-related_concepts: []
+related_concepts:
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Postpositivism]]"
+  - "[[Construct]]"
+  - "[[Nomothetic and Idiographic]]"
+  - "[[Falsification]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Pragmatism in China]]"
+  - "[[Research Question]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -52,14 +64,14 @@ Burrell 和 Morgan（1979）将认识论假设作为识别研究[[Paradigm|范�
 [[Ontology|本体论]]和认识论的立场组合构成了研究[[Paradigm|范式]]的哲学基石，决定了研究者在整个研究过程中的每一个选择。不同的认识论立场会导致（pp.150–157）：
 
 - 采用完全不同的**研究方法**——客观主义认识论产生调查、实验等传统方法；主观主义认识论产生参与观察、个人[[Construct|构念]]等质性方法
-- 追求不同类型的**研究目标**——客观主义寻求普遍法则（通则式，nomothetic）；主观主义寻求对独特案例的深入理解（个例式，idiographic）
+- 追求不同类型的**研究目标**——客观主义寻求普遍法则（通则式，[[Nomothetic and Idiographic|nomothetic]]）；主观主义寻求对独特案例的深入理解（个例式，idiographic）
 - 对**知识贡献**的不同理解——是一套可以积累和传递的普遍性发现，还是对特定情境中特定人群的行动和意义的深度说明
 
 ## 后实证主义对认识论的挑战
 
 [[Postpositivism|后实证主义]]者对传统认识论提出了重要挑战（pp.729–734）：
 
-- 事实和理论是**可错的**（fallible）——我们的知识是推测性的、可证伪的、可挑战的、变化中的
+- 事实和理论是**可错的**（fallible）——我们的知识是推测性的、可[[Falsification|证伪]]的、可挑战的、变化中的
 - 不同的理论可能支持特定的观察／事实
 - 社会事实，甚至思维方式和观察方式，都是**社会建构**而非客观和普遍真实的（Nisbett, 2005）
 - 事实与价值的分离不可持续——研究者的价值观、视角、[[Paradigm|范式]]，甚至研究共同体，决定了他们关注什么、如何研究、什么算是"好的"研究

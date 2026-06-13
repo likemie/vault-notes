@@ -19,9 +19,13 @@ tags:
 related_concepts:
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
+  - "[[Scientific Method]]"
   - "[[Educational Neuroscience]]"
   - "[[School Leadership]]"
   - "[[Causality]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Axiology]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Cognitive Load Theory]]"
@@ -33,6 +37,7 @@ related_facts:
   - "[[TEMAG]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Centre for Independent Studies]]"
+  - "[[Community Innovation Survey]]"
   - "[[OECD]]"
   - "[[Graduate Outcomes Survey]]"
   - "[[Comparative Education Society in Europe]]"
@@ -244,7 +249,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 > [!note] 作者的理论边界
 > 作者明确指出，他们并非论证科学是无效的调查工具，而是认为"rigid positivistic principles and a mechanistic worldview cannot account for the multifaceted human actions that form the human experience"。他们也承认需要承认学校和课堂的社会学需要广泛的[[Epistemology|认识论]]基础，反映对"证据时代"中证据如何被建构的关注(Helgetun & Menter, 2022)。
 >
-> 作者同时指出，这些改革的影响超越澳大利亚国境。在英格兰，学校主导的ITE体系的嵌入以及对"什么有效"运动和神经科学确定性的依赖，正在对大学为基础的ITE的[[Ontology|本体论]]、价值论和实践论进行"积极的破坏和推翻"(Biesta et al., 2015;引自 p.10)。
+> 作者同时指出，这些改革的影响超越澳大利亚国境。在英格兰，学校主导的ITE体系的嵌入以及对"什么有效"运动和神经科学确定性的依赖，正在对大学为基础的ITE的[[Ontology|本体论]]、[[Axiology|价值论]]和实践论进行"积极的破坏和推翻"(Biesta et al., 2015;引自 p.10)。
 
 ---
 

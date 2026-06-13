@@ -16,7 +16,7 @@ Total entries: **150**
 > - [[Argument_Cheng_2026_KeJiChuangXin]] — 本研究报告系统梳理了中国科技创新与产业创新深度融合的发展脉络、现状成效及面临的挑战，分析了提升科技供给、强化企业创新主体地位以及促进科技成果转化的关键路径。
 
 > [!summary]- Cohen_Manion_Morrison_2011_Routledge (1)
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge]] — 教育研究方法的综合性教材（第七版），涵盖研究范式、研究设计、资料收集与分析方法，以及不同类型研究方法的操作指南。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge]] — 教育研究方法的综合性教材(第七版)，涵盖研究范式、研究设计、资料收集与分析方法，以及不同类型研究方法的操作指南。
 
 > [!summary]- Creswell_2022_SAGE (1)
 > - [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程

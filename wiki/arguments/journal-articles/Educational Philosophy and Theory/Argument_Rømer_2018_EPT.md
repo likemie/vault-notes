@@ -19,6 +19,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Bildung]]"
+  - "[[Epistemology]]"
   - "[[Technical Rationality]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
@@ -35,7 +36,9 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Karl Popper]]"
   - "[[Socrates]]"
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -68,7 +71,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
 > - 路径：概念分析和哲学论证，通过对 Hattie (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - 对话对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
+> - 对话对象：[[Karl Popper|Popper]] 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
 
 ## 核心论证
 
@@ -103,7 +106,7 @@ citation_aliases:
 > 5. 逐级上收集权化效应：学生→教师→年级团队→校长→市政府→国家/欧盟——每一层都收集下层的 d>0.4 信息并以此控制下层
 > 6. 最终形成一个全国性的、分级的数据驱动有机体，连儿童和家庭的私生活都纳入其中(p.9)
 >
-> ### 论证五：Hattie 误读 Popper 三个世界理论
+> ### 论证五：Hattie 误读 [[Karl Popper|Popper]] 三个世界理论
 > 1. Popper 的三个世界：World 1（物理）、World 2（主观）、World 3（文化与科学对象，"客观地伟大的"）
 > 2. Hattie 通过 Bereiter 的中介接触 Popper
 > 3. Bereiter 已经做出关键化简：将 World 3 的"文化对象"缩减为"真理与非真理"，排除人文学科（与 Popper 反复使用贝多芬交响乐作为 World 3 例子不一致）
@@ -116,7 +119,7 @@ citation_aliases:
 > [!success] 主要发现
 > - [[Visible Learning|VL]] 的理论基础存在系统性的哲学缺陷，这些缺陷不是经验方法论的细节问题，而是概念结构本身的范畴错误
 > - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的[[Appraisal Theory|评价理论]]结构从前提上排除了教育作为一种有内容、有规范、有文化传统的实践
-> - Hattie 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 Habermas 分析间接支持此观点, note 5/8）
+> - Hattie 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 [[Jürgen Habermas|Habermas]] 分析间接支持此观点, note 5/8）
 
 ## 关键引用
 

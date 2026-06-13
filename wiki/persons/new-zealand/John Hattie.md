@@ -26,6 +26,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
   - "[[Progressive Education]]"
+  - "[[Positivism]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Transfer Translation Transformation]]"
@@ -49,8 +50,11 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Technical Rationality]]"
+  - "[[Falsification]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Structural Coupling]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
@@ -69,6 +73,8 @@ related_persons:
   - "[[John Biggs]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
+  - "[[Karl Popper]]"
+  - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
@@ -337,7 +343,7 @@ updated: '2026-06-08'
 
 
 > [!warning] 方法论批评
-> - **[[Argument_Terhart_2011_JCS|Terhart (2011)]]** — 《可见的学习》最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（Popper 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
+> - **[[Argument_Terhart_2011_JCS|Terhart (2011)]]** — 《可见的学习》最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（[[Karl Popper|Popper]] 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
 > - **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]** — 从统计学角度批评 Hattie 用效应量给教学干预排序：d=0.40 与显著性的关系依赖样本量，排名未系统报告[[Confidence Interval|置信区间]]、标准误或相邻 d 值的显著性检验，且 TIMSS 2011 例子显示边际效应量在[[Societies of Control|控制社会]]经济背景后可明显下降（详见 [[Effect Size#基本公式与构成逻辑]]、[[Meta-meta-analysis#技术方法论缺陷]]）
 > - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** — 迄今最系统的技术评估：构建三层[[Analytic Framework|分析框架]]，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示[[Fixed-Effect and Random-Effects Models|固定效应模型]]不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
 > - **[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]]** — 统计学家视角定性为伪科学：CLE 计算错误（负概率）、基线比较任意性、三种效应量公式产生矛盾排名、r→d 转换危险、聚合任意性。结论："任何人都不应该复制这种方法论"（详见 [[Argument_Bergeron_2017_MJE]]、[[Visible Learning#Bergeron & Rivard (2017)]])
@@ -359,7 +365,7 @@ updated: '2026-06-08'
 > - **[[Argument_Rømer_2018_EPT|Rømer (2018)]]** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
 > - **[[Argument_Larsen_2019_EducSci|Larsen (2019)]]** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"《可见的学习》在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **[[Argument_Zhao_2017_JEC|Zhao (2017)]]** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
-> - **Nielsen & Klitmøller (2021, IRTP)** — 以 Habermas 合法化危机理论解释 《可见的学习》全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
+> - **Nielsen & Klitmøller (2021, IRTP)** — 以 [[Jürgen Habermas|Habermas]] 合法化危机理论解释 《可见的学习》全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
 > - **Nielsen & Klitmøller (2021, NordPsych)** — 论证 Hattie 是教育理论家而非纯统计学家：追溯行为主义理论谱系（Skinner→Glaser→Hattie, 1987），对 《可见的学习》反馈效应（d=0.73）的 5 项最重元分析逐项审查，发现 4/5 未研究 Hattie 所定义的反馈（详见 [[Argument_Nielsen_2021_NordPsych]]）
 
 
@@ -369,7 +375,7 @@ updated: '2026-06-08'
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 以新西兰《教育法》赋予学者的"critic and conscience of society"法定角色为其公共参与的伦理基础，并制定三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身的阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业（详见 [[Argument_Hattie_2010_NZJES]]）
 > - 承认"很少有人对其提出质疑"（Hattie, Masters, & Birch, 2016，引自 McKnight & Whitburn, 2020, p.33）
 > - 针对 Eacott (2017)，[[Argument_Hattie_2017_SLM|Hattie (2017)]]发表回应"Educators are not uncritical believers of a cult figure"，援引 Popper 和 Said 为学术批评传统，逐条反驳 Eacott 的三项主张（详见 [[Argument_Hattie_2017_SLM]]、[[Cult of the Guru#争议与批评]]）
-> - 声称《可见的学习》由持续的元分析过程支撑以识别潜在的可证伪性([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
+> - 声称《可见的学习》由持续的元分析过程支撑以识别潜在的[[Falsification|可证伪性]]([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
 > - 在回应方法论批评时承认"错误"但坚持"它们均未减少支撑《可见的学习》信息的故事的影响"（Hattie, n.d.，引自 O'Connor, 2020, p.141-142）
 >
 > #### 立场演变与距离感

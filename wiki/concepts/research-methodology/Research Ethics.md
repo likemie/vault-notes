@@ -14,6 +14,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
+  - "[[Falsification]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -134,7 +135,7 @@ updated: 2026-05-31
 
 ### 数据分析阶段
 
-- **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视证伪个人假设的数据
+- **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视[[Falsification|证伪]]个人假设的数据
 - **避免选择性报告**：质性研究需报告完整的发现范围，包括与主题相反的结果；量化研究的数据分析应完整呈现统计检验结果
 - **保护参与者隐私**：[[Survey Research|调查研究]]中在[[Coding in Qualitative Research|编码]]和记录阶段将姓名与回答分离；质性研究中使用化名或假名
 

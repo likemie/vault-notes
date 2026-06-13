@@ -21,6 +21,7 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[John Hattie]]"
   - "[[Thomas Aastrup Rømer]]"
+  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
@@ -63,11 +64,11 @@ updated: '2026-05-18'
 
 > [!success] 影响与后果
 > - 该书成为丹麦 Hattie 批评的核心文本，与更广泛的公众和政治辩论互动
-> - Qvortrup 将其中部分文章定性为不属于科学游戏——不符合 Popper 的可反驳性理想([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
+> - Qvortrup 将其中部分文章定性为不属于科学游戏——不符合 [[Karl Popper|Popper]] 的可反驳性理想([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
 
 ## 争议与评论
 
 > [!warning] 争议与评论
 > - **Qvortrup（批评立场）**：部分作者以"情绪化的"和"高度修辞性的"话语替代了严肃的学术反驳，将对 Hattie 的批评转化为了文化战争([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
-> - **隐含争议**：Qvortrup 本人是丹麦 Hattie 引介者之一（与 Niels Egelund 共同撰写 VL 丹麦语译本导言），因此他对 *Hattie på dansk* 的批评来自 VL 辩护者而非中立观察者的立场
+> - **隐含争议**：Qvortrup 本人是丹麦 Hattie 引介者之一（与 Niels Egelund 共同撰写 [[Visible Learning|VL]] 丹麦语译本导言），因此他对 *Hattie på dansk* 的批评来自 VL 辩护者而非中立观察者的立场
 

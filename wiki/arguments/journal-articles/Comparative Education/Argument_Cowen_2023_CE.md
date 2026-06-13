@@ -15,6 +15,7 @@ tags:
   - theme/educated-identity
 related_concepts:
   - "[[Educated Identity]]"
+  - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Sage]]"
   - "[[Big Ideas]]"
@@ -23,6 +24,8 @@ related_concepts:
   - "[[Readings of the Global]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
   - "[[Deductive Rationality]]"
   - "[[Research Question]]"
   - "[[Totally Pedagogised Society]]"
@@ -31,6 +34,8 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
+  - "[[Jürgen Habermas]]"
+  - "[[Francis Bacon]]"
   - "[[Edmund King]]"
   - "[[Stephen Ball]]"
   - "[[Joseph Lauwerys]]"
@@ -90,7 +95,7 @@ citation_aliases:
 >
 > 这些版本的比较教育，作为紧急社会管道的高级形式（以 Sadler 之名弱合法化）、作为实证科学（以 Jullien 之名弱合法化）、以及作为如何对比苹果和橘子的精妙视角（以 Mill 之名弱合法化），构成了我们的历史包袱，也是许多学者日常教学和专业视角的一部分(p.327)。
 
-学科还对[[Epistemology|认识论]]边界犹豫不决。一个危险的新形式是通过演绎来定义自己，援引一位理论家（Bourdieu、Foucault、Habermas、Luhmann、Derrida、Deleuze and Guattari），在该理论框架内建构比较教育。另一个极端是将比较教育分散为若干社会科学概念，从每个概念演绎出一种比较教育。结果是理论工作碎裂为认识论的细流，其累积连贯性不如潮水退去时的波痕。甚至学科的名称也在旋转和变形，从比较教育到比较与[[International Education|国际教育]]，再到国际比较教育，以及颇具想象力的超越比较教育(pp.327–328)。
+学科还对[[Epistemology|认识论]]边界犹豫不决。一个危险的新形式是通过演绎来定义自己，援引一位理论家（Bourdieu、Foucault、[[Jürgen Habermas|Habermas]]、Luhmann、Derrida、Deleuze and Guattari），在该理论框架内建构比较教育。另一个极端是将比较教育分散为若干社会科学概念，从每个概念演绎出一种比较教育。结果是理论工作碎裂为认识论的细流，其累积连贯性不如潮水退去时的波痕。甚至学科的名称也在旋转和变形，从比较教育到比较与[[International Education|国际教育]]，再到国际比较教育，以及颇具想象力的超越比较教育(pp.327–328)。
 
 学科已经变得膨胀（bloated），充斥着过多分散的想法，一个隐喻性的巴别塔召唤了过多的救世[[Sage|圣人]]，并有被学术农业（academic agriculture）琐碎化的危险，即在荒芜的外国田野中挖掘经验结果，然后将结果报告投给期刊，仿佛它们就是比较教育文章。学科还通过在遥远国度给人们提供大量建议的行动议程，获得了相当大的自我重要感(p.332)。
 
@@ -108,7 +113,7 @@ citation_aliases:
 >
 > **借用成瘾**。进口[[Big Ideas|大概念]]（如全球化），在文献中被视为[[Doxa|不言自明]]、不加限定地使用。快速引用几个来源，这类借用就能保护我们免于复杂性。模式[[Variable|变量]]、第三世界、多元文化社会、儒学等都是如此(p.328)。
 >
-> **科学混乱**。科学是学科最不稳定、最混乱的概念之一。它分别意味着计量经济学模型的采用（Noah 1973）、像物理学一样准确预测（Holmes 1984）、认识事物的原因（如 Roger Bacon 所希望的）、以及拥有大量硬数据(p.328)。
+> **科学混乱**。科学是学科最不稳定、最混乱的概念之一。它分别意味着计量经济学模型的采用（Noah 1973）、像物理学一样准确预测（Holmes 1984）、认识事物的原因（如 Roger [[Francis Bacon|Bacon]] 所希望的）、以及拥有大量硬数据(p.328)。
 
 在世界范围的流行病、气候危机、乌克兰的非核战争和太平洋的经典大国竞争的历史时刻，学科仍在用旧假设确认自己的身份。政治假设包括渴望向教育部长提供建议、国际机构是善意的、工作的政治支点是改善教育政策。认识论假设包括如果坚持下去，最终会实现强力知识、跨学科性或科学地位(pp.328–329)。
 

@@ -13,7 +13,11 @@ type: concept
 tags:
   - theme/epistemology
   - theme/research-philosophy
-related_concepts: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Axiology]]"
+  - "[[Paradigm]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -36,7 +40,7 @@ updated: 2026-06-12
 > [!info] 核心含义
 > 本体论（Ontology）关注的是"实在的本质"（the nature of reality）和"事物的性质"（the nature of things）——社会现象是否外在于个体而存在，还是个体意识的产物？实在是客观的，还是个体认知的结果？它是在世界"那里"给定的，还是由人的心灵创造的？
 
-Hitchcock 和 Hughes（1995: 21）提出了一个层级框架：**本体论假设**（关于实在本质的假设）衍生出**[[Epistemology|认识论假设]]**（探究实在的方式），进而衍生出**方法论考量**，最终导向研究工具和资料收集的具体问题。此外，还应加上**价值论**（axiology，研究者持有的价值和信念）（p.105）。
+Hitchcock 和 Hughes（1995: 21）提出了一个层级框架：**本体论假设**（关于实在本质的假设）衍生出**[[Epistemology|认识论假设]]**（探究实在的方式），进而衍生出**方法论考量**，最终导向研究工具和资料收集的具体问题。此外，还应加上**[[Axiology|价值论]]**（axiology，研究者持有的价值和信念）（p.105）。
 
 ## 实在论与唯名论之争
 

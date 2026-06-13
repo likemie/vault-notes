@@ -21,11 +21,13 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Epistemology]]"
   - "[[Feedback]]"
   - "[[Professional Judgment]]"
   - "[[Homework]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Educational Management Organisation]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Positivism]]"
   - "[[New Public Management]]"
   - "[[Progressive Education]]"
   - "[[Constructivist Paradigm]]"
@@ -53,6 +56,9 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Technical Rationality]]"
   - "[[Ganz-Methode]]"
+  - "[[Neo-Taylorism]]"
+  - "[[Cult of the Guru]]"
+  - "[[Falsification]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Walberg's Educational Productivity Model]]"
@@ -67,6 +73,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
+  - "[[Karl Popper]]"
   - "[[Jill Mehlbye]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -74,11 +81,12 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Cognition Education]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Hattie på dansk]]"
   - "[[Visible Learning in Sweden]]"
+  - "[[PISA]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Contestable School Support Services]]"
   - "[[Danish Public School Reform]]"
-  - "[[Hattie på dansk]]"
   - "[[SFI Report]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[The New Zealand Curriculum]]"
@@ -98,11 +106,12 @@ related_arguments:
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Rømer_2018]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -339,7 +348,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    *VL 进入至少 23 国政策文本；英语国家政策工具箱、北欧学术再诠释与丹麦制度反弹三条线索并行推进。*
 > 
->    - 2014 — 丹麦公立学校改革明确引用 VL，Hattie 在当地从"教育英雄"变为"教育敌人"；[[EEF Teaching and Learning Toolkit]] 借鉴 Hattie 比较性研究地图
+>    - 2014 — 丹麦公立学校改革明确引用 VL，Hattie 在当地从"教育英雄"变为"教育敌人"；[[EEF Teaching and Learning Toolkit]] 借鉴 Hattie 比较性[[研究地图]]
 >    - 2015 — Håkansson 记录瑞典"工作方式转向"；[[Argument_Nordahl_2015_Paideia|Nordahl]] 发表斯堪的纳维亚再诠释
 >    - 2017 — VL 俄文版出版；[[Argument_Golovchin_2019_ESC|Golovchin]] 等评估后建议俄教育政策不予直接采用
 >    - 2019 — Sarbiewska"第三面"研究、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup]] 丹麦反弹分析相继发表
@@ -363,7 +372,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - [[Positivism|实证主义]]／行为主义 → VL：假设所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
 > - [[New Public Management]] ←→ VL：VL 被描述为"新管理全景监狱主义"的完美工具，使每个人可监视其他所有人（Ball, 2003, p.219）；同时借用[[Progressive Education|进步主义教育]]哲学语言（"学习必须被学习者分享、承诺和理解"），使其难以抵制（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）
 > - [[Radical Constructivism]] ←→ VL：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 Hattie 完全接受 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]学习观，但在其上叠加"教师中心教学"，导致教学概念双重瓦解（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp.7–8]]）
-> - [[Popper's Three Worlds Theory]] — Hattie 以 Popper 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清
+> - [[Popper's Three Worlds Theory]] — Hattie 以 [[Karl Popper|Popper]] 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清
 
 ---
 
@@ -409,7 +418,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - **Hattie** — VL 把"影响教育成就的因素"转化为可按[[Effect Size|效应量]]排名的离散干预列表，告诉教育者"做什么以获得最大回报"（maximum return）；用行政语言说话的数据填补了 NAPLAN/[[PISA]]/TIMSS 问责压力与操作细节之间的空缺（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
 > - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学实践；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
 >
-> **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 Popper 证伪主义否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
+> **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
 ---
 
 > [!citation-card]

@@ -26,11 +26,14 @@ related_concepts:
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Epistemology]]"
   - "[[Language Experience Approach]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
+  - "[[Falsification]]"
+  - "[[Study Population and Sample]]"
   - "[[Feedback]]"
   - "[[Publication Bias]]"
   - "[[Didaktik]]"
@@ -41,10 +44,12 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
   - "[[Technical Rationality]]"
+  - "[[Positivism]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
   - "[[Doxa]]"
   - "[[Evidence-Based Education]]"
+  - "[[Ontology]]"
   - "[[Reflexivity]]"
   - "[[Cult of the Guru]]"
   - "[[Cult of Efficiency]]"
@@ -76,6 +81,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Gene Glass]]"
+  - "[[Karl Popper]]"
+  - "[[Jürgen Habermas]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
@@ -419,7 +426,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 > - "正确的估计是方差的反比例"——正确加权后 $d = 0.23$（排名从第 26 位降至第 98 位）
 > - 重叠未被中和是效应量虚高的直接原因（p.29）
 
-> [!tension] 重叠程度的争议：辩护 vs 证伪
+> [!tension] 重叠程度的争议：辩护 vs [[Falsification|证伪]]
 > - **Hattie 的辩护**：承认可能重叠但辩称程度有限——"假设每项主要研究中近 84 人的纳入研究的平均样本量"（p.29）
 > - **Wecker 的证伪**："Hattie 完全忽略了重复的问题，尽管有时重叠明显更大"（p.29）——Cooper & Koenka（2012）记录教育综述通常排除 25% 以上重叠，而 Hattie 容忍 **93%**
 
@@ -437,7 +444,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > [!case] 权重计算案例："直接指导"主题（Haas, 2005）
 > - 元分析效应量 $d = 0.59$，$SD_d = 0.59$，$k = 19$
 > - **Hattie 的 $SE$**：$SD_d/\sqrt{k} = 0.59/\sqrt{19} \approx 0.135$ → 权重 $w = 1/0.135^2 \approx 54.9$
-> - **正确的 $SE$**（基于主要研究样本量）：$0.092$ → 权重 $w = 1/0.092^2 \approx 118.1$
+> - **正确的 $SE$**（基于主要[[Study Population and Sample|研究样本]]量）：$0.092$ → 权重 $w = 1/0.092^2 \approx 118.1$
 > - **权重低估约 53%**——该元分析在二级加权中的影响力被系统性压缩
 
 > [!case] 排名剧变案例：基于网络的学习
@@ -658,13 +665,13 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 从统计学角度看，Hattie 以[[Effect Size|效应量]]给教学干预排序的做法要求若干技术前提成立([[Argument_Allerup_2015_Paideia|Allerup, 2015]])：：d 值必须可比较，效应量估计需要伴随误差信息，且边际效应不能被误读为控制第三变量后的稳健效应([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.42]])。
 
 > [!critique-method] *d* = 0.40 阈值无法脱离样本量解读
-> *d* 不能直接接受显著性判断；只有形成 $t = d\sqrt{n}$ 后才近似检验均值差异的 t 统计量。以 $n=25$ 为例，$d=0.40 \Rightarrow t=2.00$，接近双侧临界值 $t_{0.05}(48) \approx 2.060$——故 0.40 阈值在此样本量下*恰好*接近 $p=0.05$；但样本量一变，对应关系随之消失。VL 的"期望效应区"不是固定判断边界，而是与研究规模深度耦合的相对值（Allerup, 2015, pp.45–46）。
+> *d* 不能直接接受显著性判断；只有形成 $t = d\sqrt{n}$ 后才近似检验均值差异的 t 统计量。以 $n=25$ 为例，$d=0.40 \Rightarrow t=2.00$，接近双侧临界值 $t_{0.05}(48) \approx 2.060$——故 0.40 阈值在此样本量下*恰好*接近 $p=0.05$；但样本量一变，对应关系随之消失。VL 的"期望效应区"不是固定判断边界，而是与研究规模深度耦合的相对值（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–46]]）。
 
 > [!critique-method] 排名未附置信区间——相邻效应量无法比较
-> [[PISA]] 排名附有置信区间，读者可判断数值相邻的国家是否真有显著差异；Hattie 的排名只给出 *d* 值，未系统报告置信区间、标准误或相邻项的显著性检验（Allerup, 2015, pp.47–48）。像 [[Feedback]] $d=0.71$ 与 teacher-student relationship $d=0.72$ 这样的相邻排名，无法凭数值判断是否存在统计上可区分的差异（Allerup, 2015, p.47）。
+> [[PISA]] 排名附有置信区间，读者可判断数值相邻的国家是否真有显著差异；Hattie 的排名只给出 *d* 值，未系统报告置信区间、标准误或相邻项的显著性检验（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]]）。像 [[Feedback]] $d=0.71$ 与 teacher-student relationship $d=0.72$ 这样的相邻排名，无法凭数值判断是否存在统计上可区分的差异（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]]）。
 
 > [!critique-method] 边际效应被第三变量改变
-> 多变量控制会实质性地改变效应量：TIMSS 2011 丹麦四年级数据中，教师学科专业资格的未控制效应量约为 $0.15$；控制学生社会经济背景后，效应量降至 $0.08$ 且不再显著（Allerup, 2015, pp.49–51）。这直接挑战了 VL 用单一边际 *d* 排序的实践——同一因素的效应量会随控制变量、统计模型和结果分布改变；更完整的统计解释见 [[Effect Size#基本公式与构成逻辑]] 与 [[Meta-meta-analysis#技术方法论缺陷]]。
+> 多变量控制会实质性地改变效应量：TIMSS 2011 丹麦四年级数据中，教师学科专业资格的未控制效应量约为 $0.15$；控制学生社会经济背景后，效应量降至 $0.08$ 且不再显著（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.49–51]]）。这直接挑战了 VL 用单一边际 *d* 排序的实践——同一因素的效应量会随控制变量、统计模型和结果分布改变；更完整的统计解释见 [[Effect Size#基本公式与构成逻辑]] 与 [[Meta-meta-analysis#技术方法论缺陷]]。
 
 ---
 
@@ -673,7 +680,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]以变差系数（coefficient of variation, Vσ）对 Hattie 的效应量数据集进行了前人未做的统计检验，为方法论批评提供了定量证据。
 
-> [!stat-cards] 变差系数（Vσ）检验结果（Golovchin, 2019, pp.238–239）
+> [!stat-cards] 变差系数（Vσ）检验结果（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp.238–239]]）
 > - **整体 Vσ = 56.87%** 133 个正值效应量的总体变差系数，属"极端不均匀"——远超同质性阈值 33%
 > - **分类峰值：学生 71.24%** 学校 65.97%、教师 51.01%、教学方法 50.65%、课程 41.95%、家庭 38.57%——**六大影响源全部超阈值**
 > - **Vσ 判读** <17% 绝对均匀；17–33% 充分均匀；35–40% 不够均匀；>40% 高震荡
@@ -683,14 +690,16 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 [[Argument_Golovchin_2019_ESC|Golovchin (2019, p.236, Table 2)]]同时汇编了 10+ 位学者的批评，可归纳为六个维度：
 
-| 批评维度 | 主要论点 | 代表性学者 |
-|---------|---------|-----------|
-| 数据质量 | 元分析包含设计差、计划差的研究（"垃圾进垃圾出"）；基础数据已过时（1980s-1990s） | Lupton, Myburgh, Terhart |
-| 统计方法 | 效应量平均化不当；异构研究"苹果与橘子"比较；d=0.40 阈值任意；低于 0.40 的效应量不应忽略 | Brown, Kamenetz, Snook et al., Jones, Slavin |
-| 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；因果关系被[[Statistical Significance\|统计显著性]]替代 | Terhart, Snook et al. |
-| 推广局限 | 结论来自英语国家不可全球推广；效应量不适用于普通教师在普通课堂 | Snook et al. |
-| 效度缺失 | 未评估基础研究的效度；未提供质量标准信息；无预测功能 | Snook et al., Terhart |
-| 文化政治 | VL 与新自由主义、性别歧视、能力主义议程结盟（详见文化政治批评） | McKnight & Whitburn |
+> [!ref-table] 学界批评的六个维度（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.236, Table 2]]）
+> | 批评维度 | 主要论点 | 代表性学者 |
+> |---------|---------|-----------|
+> | 数据质量 | 元分析包含设计差、计划差的研究（"垃圾进垃圾出"）；基础数据已过时（1980s-1990s） | Lupton, Myburgh, Terhart |
+> | 统计方法 | 效应量平均化不当；异构研究"苹果与橘子"比较；*d* = 0.40 阈值任意；低于 0.40 的效应量不应忽略 | Brown, Kamenetz, Snook et al., Jones, Slavin |
+> | 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；因果关系被[[Statistical Significance\|统计显著性]]替代 | Terhart, Snook et al. |
+> | 推广局限 | 结论来自英语国家不可全球推广；效应量不适用于普通教师在普通课堂 | Snook et al. |
+> | 效度缺失 | 未评估基础研究的效度；未提供质量标准信息；无预测功能 | Snook et al., Terhart |
+> | 文化政治 | VL 与新自由主义、性别歧视、能力主义议程结盟（详见[[#文化政治与意识形态批评|文化政治批评]]） | McKnight & Whitburn |
+
 Myburgh 等识别了元-元分析的六项"慢性问题"：(1) 垃圾进垃圾出；(2) [[Publication Bias|发表偏倚]]；(3) 苹果与橘子比较；(4) 效应量误用；(5) 经验偏见（仅使用经验可得的指标）；(6) 应用局限（忽视社会互动因素）([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])
 
 
@@ -702,7 +711,7 @@ Myburgh 等识别了元-元分析的六项"慢性问题"：(1) 垃圾进垃圾�
 
 Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教学理论]]、一种学生学习和教师工作的理论。[[Argument_Terhart_2011_JCS|Terhart (2011, p.430-431)]]详细审查了这一宣称后发现严重的内容缺失：
 
-**Popper 三个世界理论的误用**：Hattie 通过 Bereiter（2002）的中介连接 Karl Popper 的三个世界（物理事物/主观观念/客观知识）来区分学校学习的三个层次——表面信息（第一世界）、深度理解（第二世界）、"可辩护的关于知识和现实的理论"（第三世界）。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——这些段落"以一种相当联想和顽固的方式穿越学习理论领域"（p.430-431）。
+**[[Karl Popper|Popper]] 三个世界理论的误用**：Hattie 通过 Bereiter（2002）的中介连接 Karl Popper 的三个世界（物理事物/主观观念/客观知识）来区分学校学习的三个层次——表面信息（第一世界）、深度理解（第二世界）、"可辩护的关于知识和现实的理论"（第三世界）。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——这些段落"以一种相当联想和顽固的方式穿越学习理论领域"（p.430-431）。
 
 **[[Bildung]] 的实质面被完全忽略**：Terhart 从德国 Didaktik 传统出发，指出 Hattie 的讨论可关联到 Bildung（教化）概念——但 Hattie 只发展了形式上的理解，Bildung 的实质面（教育的具体内容）被忽略。Hattie 仅在书中一句话抛出："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p.27）。Terhart 追问："这可能是一个起点……但 Hattie 没有沿着这条可能的思路走下去。所以人们想知道：肉在哪里？"（p.430-431）
 
@@ -747,7 +756,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 Rømer 将此诊断为"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]的系统，但因[[Variable|变量]]和自变量相互循环定义，与研究对象本身没有任何接触。代价是高效度牺牲换取了高信度([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6]])。
 
-丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 Popper）重建因变量([[Argument_Rømer_2018_EPT|Rømer, 2018, p.5-6]])。
+丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 [[Karl Popper|Popper]]）重建因变量([[Argument_Rømer_2018_EPT|Rømer, 2018, p.5-6]])。
 
 #### 批评三：激进建构主义消解教学概念——双重瓦解
 
@@ -827,7 +836,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 #### 论证步骤三：现代学校教育面临合法化危机——这是理解 VL 流行的关键背景
 
-**合法化危机从何而来？** 作者运用 Habermas（1976, 1984）的框架（Nielsen & Klitmøller, 2021, pp. 83-86）：
+**合法化危机从何而来？** 作者运用 [[Jürgen Habermas|Habermas]]（1976, 1984）的框架（Nielsen & Klitmøller, 2021, pp. 83-86）：
 
 **第一步：传统学校的合法化基础——共识理性**
 
@@ -1031,7 +1040,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 **"[[Cult of the Guru|大师崇拜]]"的[[Analytic Framework|分析框架]]**：Eacott 以 Callahan（1962）*Education and the [[Cult of Efficiency]]* 为历史框架，识别了使"大师崇拜"成为可能的三个历史条件（详见 [[Cult of the Guru]]）：(1) 时间条件——NAPLAN/[[PISA]]/TIMSS 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚；(2) 桥梁——Robinson et al.（2008）向教育行政社区引入效应量语言但仍缺操作细节；(3) 填补——Hattie 提供了"用行政语言说话"的数据([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414-419]])。
 
-**Hattie 回应的不充分性**：[[Argument_Hattie_2017_SLM|Hattie (2017)]]以 Popper 证伪主义为旗帜否认"大师崇拜"的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
+**Hattie 回应的不充分性**：[[Argument_Hattie_2017_SLM|Hattie (2017)]]以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]为旗帜否认"大师崇拜"的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
 **编辑决策的体制含义**：Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应。Eacott 认为这一决策本身"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
 
@@ -1075,8 +1084,8 @@ Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 
 Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
 
 - VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p.35）
-- Hattie 引用 Popper 以增强科学可信度，但 Popper 的 fallibilism 旨在区分科学与伪科学——"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"（p.35）
-- Hattie 十年后声称"no one has contested the explanation"——但 VL 并未提出可被实验证伪的理论（p.35）
+- Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的 fallibilism 旨在区分科学与伪科学——"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"（p.35）
+- Hattie 十年后声称"no one has contested the explanation"——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p.35）
 - Metax 数据库呈现为典型科学数据集，但未阐明数字来源、包含的偏差和被掩盖的细微差别（p.35-36）
 
 **整体定性**：Johnson & Janzen 将 VL 定性为"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"（p.35）。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"（p.30）。
@@ -1121,7 +1130,7 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 - [[Argument_Terhart_2011_JCS|Terhart (2011)]]从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证"很明显 Hattie 事实上没有找到圣杯"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
 - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]虽然承认 Hattie 的愿景"有远见"且"为他赢得了宝贵而持久的优点"，但方法"在当前出版条件下以科学合理的方式是不可行的"（p.1, p.34-35）
 - 作者提出学校中本应出现但缺席的论述：抵制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
-- Nielsen & Klitmøller（2021）从 Habermas 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
+- Nielsen & Klitmøller（2021）从 [[Jürgen Habermas|Habermas]] 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 
 ---
@@ -1130,7 +1139,7 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 
 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]以 [[Visible Learning|VL]] 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 
-**论证一：批评者形成了意识形态驱动的解释社群，而非进行学术反驳。** Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评文献，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-4]])。
+**论证一：批评者形成了意识形态驱动的解释社群，而非进行学术反驳。** Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评文献，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 [[Karl Popper|Popper]] 的"科学游戏"之外([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-4]])。
 
 **论证二：定量与定性方法的对立源于混淆[[Epistemology|认识论]]与[[Ontology|本体论]]。** Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证认识论维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])。这一论证直接回应了批评者对 VL 定量方法论的根本质疑。
 

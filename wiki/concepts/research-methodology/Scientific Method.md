@@ -12,8 +12,13 @@ tags:
   - theme/research-methodology
   - paradigm/positivism
   - method/quantitative
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Variable]]"
+  - "[[Hypothesis]]"
+  - "[[Falsification]]"
+  - "[[Positivism]]"
+related_theories:
+  - "[[Complexity Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -73,7 +78,7 @@ Hitchcock 和 Hughes（1995: 23）提出一个八阶段模型（Box 1.4，pp.403
 > 阶段2: 设计实验、抽取样本、隔离[[Variable|变量]]（Experiment designed; samples taken; variables isolated）
 > 阶段3: 观察相关、识别模式（Correlations observed; patterns identified）
 > 阶段4: 形成假设以解释规律（Hypotheses formed to explain regularities）
-> 阶段5: 检验解释和预测、可证伪性（Explanations and predictions tested; falsifiability）
+> 阶段5: 检验解释和预测、[[Falsification|可证伪性]]（Explanations and predictions tested; falsifiability）
 > 阶段6: 发展法则或证伪（假设被拒绝）（Laws developed or disconfirmation）
 > 阶段7: 做出概括（Generalizations made）
 > 阶段8: 新理论（New theories）

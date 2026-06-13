@@ -17,16 +17,19 @@ tags:
 - region/new-zealand
 related_concepts:
   - "[[Research Question]]"
+  - "[[Visible Learning]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Falsification]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Karl Popper]]"
 related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -51,7 +54,7 @@ citation_aliases:
 > [!info] [[Research Question|研究问题]]
 > Hanne Knudsen（奥胡斯大学丹麦教育学院）对 [[John Hattie]] 进行了 Skype 访谈，围绕四个核心问题展开(p.253–254)：
 >
-> 1. **实施与翻译**：Hattie 如何反思 VL 在丹麦的实施？他和团队对丹麦学校传统了解多少，是否认为本地情境知识很重要？
+> 1. **实施与翻译**：Hattie 如何反思 [[Visible Learning|VL]] 在丹麦的实施？他和团队对丹麦学校传统了解多少，是否认为本地情境知识很重要？
 > 2. **基本概念**：Hattie 如何定义"可见性"和"学习"？这些概念对课堂实践、动机、好奇心、教师角色和儿童观的含义是什么？
 > 3. **理论与证据**：VL 著作中几乎没有教育理论（教育心理学、教育哲学）的引用——Hattie 如何看待理论与证据的关系？
 > 4. **John Hattie 作为关键人物**：VL 同时运作于科学、教育、政治和经济[[Champ|场域]]——Hattie 认为自己主要是研究者、政治家还是商人？
@@ -76,7 +79,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question|研究问题]]的背景：丹麦 [[Visible Learning|VL]] 实施现状、现有批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -84,7 +87,7 @@ citation_aliases:
 > [!success] 主要发现
 > ### 规模化与翻译
 >
-> - Hattie 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"(p.254)
+> - Hattie 自称"我是测量人员，我是统计学家"，[[Visible Learning|VL]] 的工作最初是"业余爱好"(p.254)
 > - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型(p.254)
 > - 通过 [[Cognition Education|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同(p.254)
 > - VL 工作坊是脚本化的（"scripted. To the word"），禁止教师分享自己的故事和课堂经验(p.254)
@@ -140,7 +143,7 @@ citation_aliases:
 > - 证据是"被争夺的"（contested），不同人根据自身视角做出不同解释(p.259)
 > - 证据也可与经验相关——教师的广泛经验是合法的证据(p.259)
 > - 声称 VL 模型迄今未被质疑——"没有人提出更好的数据解释"(p.259)
-> - 持续更新[[Meta-analysis|元分析]]（已到 1400 项），目的是"第一个发现错误"——援引 Popper 的证伪主义(p.259)
+> - 持续更新[[Meta-analysis|元分析]]（已到 1400 项），目的是"第一个发现错误"——援引 [[Karl Popper|Popper]] 的[[Falsification|证伪主义]](p.259)
 >
 > ### 政策、研究与商业
 >

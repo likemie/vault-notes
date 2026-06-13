@@ -20,6 +20,8 @@ related_concepts:
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Structural Coupling]]"
   - "[[Effect Size]]"
@@ -29,6 +31,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Herbert A. Simon]]"
+  - "[[Karl Popper]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -73,7 +76,7 @@ citation_aliases:
 > 1. **前提／观察**：在丹麦，Hattie 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie et al.于古典行为主义）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人(p.3-5)
 >
 > 2. **论证步骤**：
->    - **步骤一**：批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法话语"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外(p.3-4)
+>    - **步骤一**：批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法话语"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 [[Karl Popper|Popper]] 所定义的"科学游戏"之外(p.3-4)
 >    - **步骤二**：定量与定性方法的对立源于将[[Epistemology|认识论]]与[[Ontology|本体论]]混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥(p.5)
 >    - **步骤三**：教学与学习之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正(p.6-7)
 >

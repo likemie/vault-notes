@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Theoretical Standpoint]]"
   - "[[Technical Rationality]]"
+  - "[[Positivism]]"
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Homework]]"
@@ -31,7 +32,8 @@ related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -58,7 +60,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Technical Rationality]] — 论文论证 Hattie 的工作深受 Schön (1983) 所描述的技术理性影响，这构成其隐含的理论内核。技术理性是实证主义的遗产，铺平了教育中的手段-目的思维
+> - [[Technical Rationality]] — 论文论证 Hattie 的工作深受 Schön (1983) 所描述的技术理性影响，这构成其隐含的理论内核。技术理性是[[Positivism|实证主义]]的遗产，铺平了教育中的手段-目的思维
 > - 论文同时将 Hattie 的理论追溯到行为主义：Hattie (1987) 明确表示借鉴了 Glaser 的学习理论，而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名
 
 ## 研究方法
@@ -71,7 +73,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／观察**：Hattie 自称"我是统计学家，不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，其追随者将 VL 呈现为"不可否认的事实"
+> 1. **前提／观察**：Hattie 自称"我是统计学家，不是理论家"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，其追随者将 [[Visible Learning|VL]] 呈现为"不可否认的事实"
 >
 > 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论假设（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
 >
@@ -121,7 +123,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文主要聚焦于 Hattie (2009) 的原始著作，后续扩展(Hattie, 2012; Hattie & Yates, 2014)可能对某些问题有所回应
-> - 论文未对其自身的[[Theoretical Standpoint|理论立场]]（Habermas 批判理论）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
+> - 论文未对其自身的[[Theoretical Standpoint|理论立场]]（[[Jürgen Habermas|Habermas]] 批判理论）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
 > - 反馈[[Meta-analysis|元分析]]的"细读"审查仅覆盖最重的 5 项（而非全部 23 项），但覆盖了 92% 的样本
 
 ## 来源

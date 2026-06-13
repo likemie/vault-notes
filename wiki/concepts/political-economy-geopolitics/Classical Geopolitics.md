@@ -26,7 +26,8 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Francis Bacon]]"
 related_facts:
   - "[[Sino-American Trade War]]"
 related_arguments:
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 
 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 追溯了该词更早的词源：英文名词"geopolitics"首次出现于 Emil Reich 1901 年在 *The International Monthly* 杂志上发表的论文 *England at close of Nineteenth Century*，可能是对瑞典政治哲学家 Rudolf Kjellén 一年前创造的德文词"Geopolitik"的翻译。该词在数十年间保持沉寂，二战期间重新浮现，1980 年代迎来第二次使用高潮([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67]])。
 
-前缀"geo-"强调地理在政治中的至高重要性，可追溯至欧洲殖民主义。Francis Bacon 的"knowledge is power"（1597/1825）在 17 世纪表现为神学中的神圣属性（potestas Dei）——上帝全知故而全能。1871 年德国统一后，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）成为德国地理教育和公共话语中的口号，为威廉德国和纳粹时期的扩张主义与霸权政治服务——同一句"知识即权力"，从神学属性演变为地缘政治教义([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.67–68]])。
+前缀"geo-"强调地理在政治中的至高重要性，可追溯至欧洲殖民主义。[[Francis Bacon]] 的"knowledge is power"（1597/1825）在 17 世纪表现为神学中的神圣属性（potestas Dei）——上帝全知故而全能。1871 年德国统一后，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）成为德国地理教育和公共话语中的口号，为威廉德国和纳粹时期的扩张主义与霸权政治服务——同一句"知识即权力"，从神学属性演变为地缘政治教义([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.67–68]])。
 
 ### 殖民与帝国遗产
 

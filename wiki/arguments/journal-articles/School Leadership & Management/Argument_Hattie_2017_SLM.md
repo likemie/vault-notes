@@ -20,11 +20,16 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
+  - "[[Falsification]]"
+  - "[[Visible Learning]]"
   - "[[Critic and Conscience of Society]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-related_persons: []
+related_persons:
+  - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
@@ -50,7 +55,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - Popper(1959) — 证伪主义（falsifiability）：做出大胆猜想并接受证伪是学术进步的本质。Hattie 声称 [[Visible Learning|VL]] 包含许多"大胆猜想"，因此"容易被证伪"(p.428)
+> - Popper(1959) — [[Falsification|证伪主义]]（falsifiability）：做出大胆猜想并接受证伪是学术进步的本质。Hattie 声称 [[Visible Learning|VL]] 包含许多"大胆猜想"，因此"容易被证伪"(p.428)
 > - Alexander(2010)的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）——加上 Eacott(2017)新增的 cult 话语，Hattie 以此框架分析批评模式(p.427)
 > - Said(1993)的公共知识分子概念——学者需站在社会与制度之外积极扰动现状，同时面向尽可能广泛的公众(p.427)
 
@@ -64,7 +69,7 @@ citation_aliases:
 
 > [!example] 论证结构
 > 1. 援引学术批评传统：以 Said(1993)的公共知识分子角色和新西兰《教育法》的"[[Critic and Conscience of Society]]"条款为学术批评的伦理基础，主张"每个[[Paradigm|范式]]或猜想都应被测试至毁灭"，正反合（thesis-antithesis-synthesis）是学术之水的本然成分(p.427–428)
-> 2. 以 Popper 证伪主义定位 [[Visible Learning|VL]]：声称 VL 包含许多"大胆猜想"，因此"容易被证伪"，但迄今尚未有批评者证伪其核心猜想(p.428)
+> 2. 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]定位 [[Visible Learning|VL]]：声称 VL 包含许多"大胆猜想"，因此"容易被证伪"，但迄今尚未有批评者证伪其核心猜想(p.428)
 > 3. 列举 VL 核心猜想（声称未被批评的部分）：通过学生眼睛看学习、学生成为自身教师、成功标准、"Know thy impact"、关系与信任以允许错误浮现、给予与接收反馈、学科语境下的学习策略、学校成为邀请性场所、关注学生学习生活(p.428)
 > 4. 逐条回应 Eacott 的三项主张：
 >    - 主张一（条件使[[Cult of the Guru|大师崇拜]]成为可能）：Hattie 反驳 Eacott 嘲笑严谨性、稳健性和效率追求(p.428–429)
@@ -75,7 +80,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - Hattie 声称 Popper 的证伪主义是其方法论的核心哲学基础(p.428)
+> - Hattie 声称 [[Karl Popper|Popper]] 的[[Falsification|证伪主义]]是其方法论的核心哲学基础(p.428)
 > - 将 Snook et al.(2009)的批评用作自身课程的教学文本，以此论证自己欢迎批评(p.428)
 > - 声称 [[Visible Learning|VL]] 的核心猜想——通过学生眼睛看学习、学生成为自身教师、成功标准、Know thy impact、信任关系、反馈、学习策略、邀请性学校——"so far no critique (that I know about)" 证伪了这些猜想(p.428)
 > - 指出 Hattie, Masters & Birch(2016)已共同撰写了关于 VL 实施效果的案例书(p.427–428)

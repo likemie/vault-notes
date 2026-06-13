@@ -11,10 +11,20 @@ tags:
   - paradigm/positivism
   - theme/epistemology
   - theme/research-philosophy
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Scientific Method]]"
+  - "[[Variable]]"
+  - "[[Falsification]]"
+  - "[[Hypothesis]]"
+  - "[[Scientism]]"
+related_theories:
+  - "[[Complexity Theory]]"
+related_methods:
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[Auguste Comte]]"
 related_facts: []
 related_arguments: []
 confidence: high
@@ -104,7 +114,7 @@ Popper（1968）、Lakatos（1970）、Mouly（1978）、Laudan（1990）和 Ras
 > 4. 理论应具有相当大的解释力和预测潜力
 > 5. 理论应能回应观察到的异常
 > 6. 理论应能催生研究事业（Siegel, 1987 称之为"生育力"）
-> 7. 理论应阐明自身的证伪和验证条件（Popper, 1968）
+> 7. 理论应阐明自身的[[Falsification|证伪]]和验证条件（Popper, 1968）
 > 8. 理论必须可精确操作化
 > 9. 理论的检验必须是可复制的
 

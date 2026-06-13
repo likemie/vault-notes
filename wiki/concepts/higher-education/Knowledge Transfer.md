@@ -22,6 +22,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Junzi]]"
   - "[[Champ]]"
+  - "[[Paradigm]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Knowledge Sabotage]]"
@@ -38,6 +39,7 @@ related_methods: []
 related_persons:
   - "[[Plato]]"
   - "[[Confucius]]"
+  - "[[Francis Bacon]]"
   - "[[Chen Kuan-Hsing]]"
 related_facts:
   - "[[Kokutai no Hongi]]"
@@ -91,9 +93,9 @@ updated: '2026-05-18'
 > "知识转移"作为地缘政治概念的分析重心转移，经历了从哲学命题到地缘教义再到 [[Geopolitics of Knowledge|GPK]] 分析工具的演变：
 > - **希腊形而上学根基**：关于 agathos（善）的理论经新[[Plato|柏拉图]]主义（Pseudo-Dionysius）和新亚里士多德主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; McClymond, 2010, p.92)
 > - **古典等级制的障碍**：然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"[[Junzi|君子]] junzi"以来，知识始终与智识和社会等级制相联系([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; Park, 2016)
-> - **Bacon 到德国地缘教义**：Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
+> - **[[Francis Bacon|Bacon]] 到德国地缘教义**：Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
 > - **Katz 的权力独立冲突源**：Katz (1965) 论证权力不仅是获取经济优势或意识形态最大化的手段，"它本身就是冲突的独立来源"（p.374）——这一论断将知识转移从"工具"提升为 GPK 中独立的地缘政治冲突[[Champ|场域]]([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]])
-> - **Partaken 的范式转换**：2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是解码当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
+> - **Partaken 的[[Paradigm|范式转换]]**：2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是解码当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
 
 ---
 

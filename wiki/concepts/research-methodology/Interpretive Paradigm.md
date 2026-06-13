@@ -18,10 +18,21 @@ tags:
   - theme/epistemology
   - theme/research-philosophy
   - method/qualitative
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Scientific Method]]"
+  - "[[Nomothetic and Idiographic]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Ethnomethodology]]"
+  - "[[Symbolic Interactionism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
 confidence: high
@@ -81,7 +92,7 @@ updated: 2026-06-12
 1. **[[Ontology|本体论]]**：社会实在是个人意识的产物（唯名论，nominalism），而非外在于个体的客观存在
 2. **[[Epistemology|认识论]]**：知识是个人的、主观的、独特的；要求研究者投入研究对象并拒绝自然[[Scientific Method|科学方法]]
 3. **人性**：人是自身行动的发起者，具有自由意志和创造力，创造自己的环境（意志论，voluntarism），而非机械地、决定性地对环境做出反应
-4. **方法论**：关注理解个体如何创造、修改和解释他们所处的世界；是**个例式**（idiographic）的——强调对独特个体案例的解释和理解，而非寻求普遍法则（**通则式**，nomothetic）
+4. **方法论**：关注理解个体如何创造、修改和解释他们所处的世界；是**个例式**（[[Nomothetic and Idiographic|idiographic]]）的——强调对独特个体案例的解释和理解，而非寻求普遍法则（**通则式**，nomothetic）
 
 这四组假设沿一条主观–客观维度排列（Chapter 1, Figure 1.1），诠释[[Paradigm|范式]]位于主观一端。
 

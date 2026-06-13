@@ -21,13 +21,17 @@ related_concepts:
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Fourth Industrial Revolution]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Junzi]]"
+  - "[[Axiology]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
   - "[[Knowledge Sabotage]]"
+  - "[[Positivism]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
@@ -35,6 +39,8 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Chen Kuan-Hsing]]"
+  - "[[Francis Bacon]]"
+  - "[[Thomas Kuhn]]"
   - "[[Plato]]"
   - "[[Confucius]]"
 related_facts:
@@ -93,7 +99,7 @@ citation_aliases:
 
 **观察 1**：知识已成为当代世界各种自我描述的核心——[[Knowledge-Based Economy|知识经济]]、信息社会、[[Network Society|网络社会]]、监视资本主义——这些标签都以"知识"为关键词。因此，围绕知识展开的地缘政治是真实且高度重要的，直接影响可持续发展、和平与安全(p.67)。
 
-**观察 2**：这一判断并非新见。Bacon 在 17 世纪即已指出"knowledge is power"（知识即权力）——但在 Bacon 的神学语境中，知识是神圣属性（potestas Dei），不带有地缘政治含义。到了 19 世纪德国，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）已明确演变为地缘政治教义——服务于威廉德国和纳粹时期的扩张主义与霸权政治(p.67–68)。
+**观察 2**：这一判断并非新见。[[Francis Bacon|Bacon]] 在 17 世纪即已指出"knowledge is power"（知识即权力）——但在 Bacon 的神学语境中，知识是神圣属性（potestas Dei），不带有地缘政治含义。到了 19 世纪德国，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）已明确演变为地缘政治教义——服务于威廉德国和纳粹时期的扩张主义与霸权政治(p.67–68)。
 
 > 这一步建立了分析的历史纵轴：同一句"知识即权力"，在 Bacon 笔下是上帝全知的神学属性，到 19 世纪德国地理学家手中则成为帝国扩张的行动纲领——说明知识与权力的关系本身就是历史地变迁的，概念被不同时代的力量重新定义和征用。
 
@@ -165,7 +171,7 @@ Søilen (2016) 的区分进一步精确化了分析工具：经济间谍（政�
 Partaken 将中美技术紧张作为整个论证的经验验证案例嵌入此处(pp.78–79)，具体论证链如下：
 
 1. 2018 年 3 月，美国与所有其他盟友的贸易争端都结束了——"唯独中国除外"。这揭示中国不是一般贸易伙伴，而是被识别为 GPK 的核心对手(p.78)。
-2. 贸易战迅速升级为"新冷战"标签，但 Partaken 指出这个标签既"少说了什么"（中国没有苏联式的盟友集团，四十年"自我中心的商业实践"——国际合作伙伴关系经常以知识挪用和消灭伙伴告终——使其缺乏"患难之交"），也"多说了什么"（真正的断层线可能在于心态、文化、价值论和实践的差异——Huntington 的文明冲突论在此被援引作为[[Analytic Framework|分析框架]]）(p.78)。
+2. 贸易战迅速升级为"新冷战"标签，但 Partaken 指出这个标签既"少说了什么"（中国没有苏联式的盟友集团，四十年"自我中心的商业实践"——国际合作伙伴关系经常以知识挪用和消灭伙伴告终——使其缺乏"患难之交"），也"多说了什么"（真正的断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异——Huntington 的文明冲突论在此被援引作为[[Analytic Framework|分析框架]]）(p.78)。
 3. 在知识转移维度上，美国的终极目标（超越 Trump 任期）是"限制从美国向中国的[[Technology Transfer|技术转让]]，无论是合法还是非法"(p.78)。
 4. 制度证据链：[[US-China Economic and Security Review Commission|USCC]]（2000 年由国会立法设立，系统监控中美知识转移）→ FBI 调查（165 家公司中 50% 承认知识产权被盗，95% 怀疑中国；截至 2019 年 7 月约 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的立案调查）→ [[Thousand Talents Program]]（被美方视为知识盗窃的国家制度化）(p.78–79)。
 5. 理论综合：回归 Katz (1965) 的三因素——中美 GPK 冲突可归因于权力（中共与国家科技领导小组）、资源（Made in China 2025 战略）、意识形态（中国梦）三种不可化约的冲突源(p.79)。

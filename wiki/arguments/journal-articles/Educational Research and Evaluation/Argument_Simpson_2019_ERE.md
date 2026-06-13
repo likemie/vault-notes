@@ -22,6 +22,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
+  - "[[Falsification]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
@@ -122,7 +123,7 @@ citation_aliases:
 > - **[[Effect Size|效应量]]不是教育有效性的测量**：同一干预可以产生从 0 到无穷大的效应量，取决于研究者的设计选择(p.102)
 > - **效应量是试验清晰度的测量**：它反映的是研究设计的信噪比，而非干预的教育价值(p.104)
 > - **[[Direct Instruction|直接教学]]干预在[[Meta-meta-analysis|元-元分析]]排名中位居前列，仅仅说明研究者更容易在这些领域进行低噪声的试验**——而非这些干预更具教育影响力(p.105)
-> - **[[Evidence-Based Education|EBE]] 支持者使用 Freedman (2009) 识别的多种防御策略**：列举假设（但不检验）、声称批评者未能证伪假设、质问"有什么危害"(pp.106-108)
+> - **[[Evidence-Based Education|EBE]] 支持者使用 Freedman (2009) 识别的多种防御策略**：列举假设（但不检验）、声称批评者未能[[Falsification|证伪]]假设、质问"有什么危害"(pp.106-108)
 
 ## 关键引用
 

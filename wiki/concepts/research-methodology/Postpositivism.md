@@ -18,15 +18,24 @@ tags:
   - epistemology
   - paradigm/postpositivist
 related_concepts:
+  - "[[Positivism]]"
+  - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Causality]]"
+  - "[[Falsification]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Quantitative Research]]"
-related_persons: []
+  - "[[Qualitative Research]]"
+  - "[[Mixed Methods Research]]"
+related_persons:
+  - "[[Auguste Comte]]"
 related_facts: []
 related_arguments: []
 confidence: medium
@@ -66,7 +75,7 @@ updated: 2026-06-12
 后[[Positivism|实证主义]]对现代主义的实证世界观提出了根本性挑战。实证主义的现代主义世界观将世界描绘为一个有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、非人格的、基本不灵活的封闭系统（一种"宏大叙事""元叙事"），可通过[[Scientific Method|科学方法]]直接研究（pp.729–734）。后实证主义反对这一图景：
 
 > [!finding-cards]
-> - 遵循波普尔（Popper, 1968），我们关于世界的知识是**推测性的**（conjectural）、**可证伪的**（falsifiable）、**可挑战的**、**变化中的**
+> - 遵循波普尔（Popper, 1968），我们关于世界的知识是**推测性的**（conjectural）、**可[[Falsification|证伪]]的**（falsifiable）、**可挑战的**、**变化中的**
 > - 安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被**尝试性的推测**（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple warrants）
 > - **事实和观察是理论负载和价值负载的**（theory-laden and value-laden, Popper, 1980; Feyerabend, 1975; Reichardt and Rallis, 1994）
 > - 事实和理论是**可错的**（fallible），不同理论可能支持特定的观察/事实

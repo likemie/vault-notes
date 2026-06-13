@@ -20,8 +20,11 @@ tags:
 related_concepts:
   - "[[Soviet Statism]]"
   - "[[Informationalization]]"
+  - "[[Falsification]]"
   - "[[Governance by Spin]]"
   - "[[Military-Industrial Black Hole]]"
+  - "[[Ideological Capture of Science]]"
+  - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology Transfer]]"
   - "[[State Vertical]]"
@@ -32,6 +35,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Manuel Castells]]"
+  - "[[Trofim Lysenko]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Lysenkoism]]"
@@ -140,7 +144,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!line-a] 工业化成功不保证[[Informationalization|信息化]]成功
 > 苏联的工业化是20世纪的奇迹。从1928年到1987年，中央计划经济在短短两代人时间内将一个农业社会转变为重工业强国。到1980年代，苏联重工业产量全面超越美国：钢铁多80%，水泥多78%，石油多42%（Walker, 1986, p.2）。国家在科技上的投入极为慷慨：到1980年代，苏联拥有超过全球人均比例的科学家和工程师，是当时世界上科研人员密度最高的国家之一（Fortescue, 1986, p.2）。除生物学被[[Lysenkoism|李森科主义]]严重破坏外，在数学、物理学和计算机科学领域，苏联保持了与国际前沿的竞争力（Thomas and Kruse-Vaucienne, 1977, p.2）。
 >
-> 然而这一判断成立的前提是工业化积累会自动导向技术领先，但这一假设在1980年代被证伪。个人计算机革命从苏联身旁呼啸而过，苏联被完全绕过。真正的信息时代奖杯是硅，而非生铁和钢铁。苏联将所有能量集中在满足工业产量指标上，错过了1970年代中期在全球范围内成形的信息技术革命（pp.2–3）。
+> 然而这一判断成立的前提是工业化积累会自动导向技术领先，但这一假设在1980年代被[[Falsification|证伪]]。个人计算机革命从苏联身旁呼啸而过，苏联被完全绕过。真正的信息时代奖杯是硅，而非生铁和钢铁。苏联将所有能量集中在满足工业产量指标上，错过了1970年代中期在全球范围内成形的信息技术革命（pp.2–3）。
 >
 > 这一错过的代价极其沉重。到1980年代末，苏联不仅在计算机数量上与美国差距悬殊，更在计算能力上落后了超过两个数量级。新西伯利亚的科研机构使用的计算设备比美日工业界落后整整20年（Kuleshov and Castells, 1993, p.2）。以物质投入的线性扩张为核心的工业化，与以信息处理和知识优化为核心的信息化，是两种性质根本不同的发展模式。前者向后者转型不是量的延续，而是质的断裂，需要根本性的制度变革。
 

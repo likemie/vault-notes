@@ -12,6 +12,7 @@ tags:
   - paradigm/interpretive
   - theme/micro-sociology
 related_concepts:
+  - "[[Indexicality]]"
   - "[[Homework]]"
   - "[[Positivism]]"
   - "[[Reflexivity]]"
@@ -22,6 +23,7 @@ related_theories:
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
+  - "[[Harold Garfinkel]]"
   - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
@@ -40,7 +42,7 @@ updated: 2026-06-12
 ## 定义与起源
 
 > [!info] 核心含义
-> 俗民方法学（Ethnomethodology）由哈罗德·加芬克尔（Harold Garfinkel, 1967）创立，其目标是将"实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）。
+> 俗民方法学（Ethnomethodology）由[[Harold Garfinkel|哈罗德·加芬克尔]]（Harold Garfinkel, 1967）创立，其目标是将"实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）。
 
 与[[Phenomenology|现象学]]一样，俗民方法学关注日常生活的世界。但加芬克尔对社会世界的研究者提出了一个更激进的挑战：社会世界的研究者必须怀疑那个世界的实在性。他认为，正是因为未能以更加怀疑的态度来看待人类行为，社会学家们创造了一个**有序的社会实在**，而这个实在与真实情况几乎没有什么关系。由此，他挑战了社会学最基本的秩序概念（pp.552–553）。
 
@@ -54,7 +56,7 @@ updated: 2026-06-12
 
 ### 索引性
 
-**索引性**（indexicality）指行动和陈述与产生它们的社会语境相关联的方式，以及它们的意义为参与者所共享但不一定被明确陈述的方式。**索引表达式**（indexical expressions）因此是参与者为一个特定社会场合赋予的名称，以便将该事件定位在实在的领域中。简单来说，同样的词或行为，在不同的语境中可以意味着完全不同的事情；而参与者通常不需要明确说出这些语境含义——它们是共享的隐性知识。
+**[[Indexicality|索引性]]**（indexicality）指行动和陈述与产生它们的社会语境相关联的方式，以及它们的意义为参与者所共享但不一定被明确陈述的方式。**索引表达式**（indexical expressions）因此是参与者为一个特定社会场合赋予的名称，以便将该事件定位在实在的领域中。简单来说，同样的词或行为，在不同的语境中可以意味着完全不同的事情；而参与者通常不需要明确说出这些语境含义——它们是共享的隐性知识。
 
 > [!example] 课堂例子
 > 课堂中老师和学生之间的简短对话，例如"Wilson, we'll have to put you away if you don't change your ways"后学生回答"Strawberries, strawberries"并引发哄堂大笑——这一互动只有在了解该班级共享的历史（老师曾多次说学生的[[Homework|作业]]"像草莓——好的地方很好，但持续的时间远远不够长"）后才能被理解。一个仅进行[[Coding in Qualitative Research|编码]]的[[Positivism|实证主义]]研究者无法理解为什么这句话好笑（Chapter 1, Box 1.5）。
@@ -67,7 +69,7 @@ updated: 2026-06-12
 
 可以方便地区分两种类型的俗民方法学者（pp.558–559）：
 
-1. **语言取向**（linguistic ethnomethodologists）：聚焦于语言使用以及日常生活中对话如何被结构化。他们的分析大量使用未说出的"视为理所当然"的意义、索引表达式的使用，以及对话如何传达远比字面意思更多的内容。
+1. **语言取向**（linguistic ethnomethodologists）：聚焦于语言使用以及日常生活中对话如何被结构化。他们的分析大量使用未说出的"视为理所当然"的意义、[[Indexicality|索引表达式]]的使用，以及对话如何传达远比字面意思更多的内容。
 
 2. **情境取向**（situational ethnomethodologists）：将其目光投射到更广泛的社会活动范围，寻求理解人们如何协商他们所置身的社会语境。他们关注人们如何使其环境具有意义和秩序。作为一种经验方法，俗民方法学者可能**有意识地、刻意地扰乱或质疑**日常情境中有序的"视为理所当然"的元素，以揭示其背后运作的过程。
 

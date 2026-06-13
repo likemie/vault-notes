@@ -24,7 +24,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
-related_persons: []
+related_persons:
+  - "[[Edmund Husserl]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
@@ -38,7 +39,7 @@ updated: '2026-06-12'
 ## 核心主张
 
 > [!info] 核心主张
-> 现象学（Phenomenology）把人的经验、生活世界和意识指向性放在[[Epistemology|认识论]]与[[Ontology|本体论]]分析的中心。在 Husserl、Heidegger、Sartre 与 Merleau-Ponty 等传统中，现象不是独立于人类意识的"纯对象"；人总是在生活世界中、通过身体、情感和与他人的关系来经验世界并生成意义([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
+> 现象学（Phenomenology）把人的经验、生活世界和意识指向性放在[[Epistemology|认识论]]与[[Ontology|本体论]]分析的中心。在 [[Edmund Husserl|Husserl]]、Heidegger、Sartre 与 Merleau-Ponty 等传统中，现象不是独立于人类意识的"纯对象"；人总是在生活世界中、通过身体、情感和与他人的关系来经验世界并生成意义([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
 >
 > 在教育中，现象学把学习理解为人与世界之间的存在性意义生成，而不是可被量化或拆分为项目的产出。学习过程同时是认知的、感官的、响应性的、个人的和集体的，并可能引发个体与社会层面的转化([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.3]])。
 >
@@ -59,13 +60,13 @@ updated: '2026-06-12'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **19-20 世纪之交**：Husserl 以"回到事物本身"为口号开出现象学传统，并把生活主体置于[[Epistemology|认识论]]问题的中心([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
+> - **19-20 世纪之交**：[[Edmund Husserl|Husserl]] 以"回到事物本身"为口号开出现象学传统，并把生活主体置于[[Epistemology|认识论]]问题的中心([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
 > - **20 世纪**：Heidegger、Sartre 与 Merleau-Ponty 等大陆哲学家继续发展现象学，特别是存在、身体和社会关系等主题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.3]])。
 > - **当代教育理论**：Biesta、Küpers、Thorburn & Stolz 等将现象学用于反思教育、学习和具身/主体间经验，批评把学习量化、项目化的政策倾向([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 10-11]])。
 
 ## 胡塞尔的先验现象学
 
-胡塞尔（Edmund Husserl）被许多人视为现象学的创始人。他关注的是探究科学基础的来源，质疑日常生活中"视为理所当然"的常识假设（Burrell and Morgan, 1979）（pp.544–545）。
+胡塞尔（[[Edmund Husserl]]）被许多人视为现象学的创始人。他关注的是探究科学基础的来源，质疑日常生活中"视为理所当然"的常识假设（Burrell and Morgan, 1979）（pp.544–545）。
 
 胡塞尔的核心方法：
 

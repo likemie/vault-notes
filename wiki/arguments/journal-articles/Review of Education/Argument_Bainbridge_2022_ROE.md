@@ -21,6 +21,7 @@ related_concepts:
   - "[[Justified Warrants]]"
   - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"
+  - "[[Falsification]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
@@ -217,7 +218,7 @@ citation_aliases:
 
 **研究范围极小**：聚焦于一项仅影响少数地方当局的短暂政策（SSEF）和一个国家（英国）的议会辩论，外部推广性有限。但作者论证小案例为分析更大现象提供了"肥沃土壤"(p.2–3)。
 
-**时间滞后**：数据来源于 2015–2019 年，论文发表时许多政治角色已变动。但作者指出该辩论处于"关键节点"——[[Grammar School|文法学校]]的社会流动性承诺正被鼓吹、辩论并最终被证伪的时刻(p.29)。
+**时间滞后**：数据来源于 2015–2019 年，论文发表时许多政治角色已变动。但作者指出该辩论处于"关键节点"——[[Grammar School|文法学校]]的社会流动性承诺正被鼓吹、辩论并最终被[[Falsification|证伪]]的时刻(p.29)。
 
 **[[Descriptive Analysis|描述统计]]的局限**："未被说出的东西无法被计数"(p.14)。统计只能捕捉被言说的主题，无法捕捉被系统性沉默的内容。例如，未被评为"good"的学校（隐性"坏学校"）如何在此话语中被剥夺资源和能动性——这一点未被深入探讨(p.10)。
 

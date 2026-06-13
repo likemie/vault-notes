@@ -15,11 +15,14 @@ tags:
 - trade
 - technology-transfer
 related_concepts:
+  - "[[Axiology]]"
   - "[[Knowledge Transfer]]"
   - "[[Technology Transfer]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Epistemology]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Analytic Framework]]"
 related_theories: []
@@ -49,7 +52,7 @@ updated: '2026-05-18'
 > [!note]-
 > - 2018 年 7 月：中美贸易战正式爆发([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
 > - 贸易战迅速升级为外交对抗和军事重新部署，政治分析人士和记者迅速将该现象标记为"新冷战"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
-> - Partaken 认为"新冷战"的标签既"少说了什么"也"多说了什么"：少说了，因为中国没有名副其实的盟友来形成权力集团（与美苏冷战不同，当时每个国家都选边站或保持不结盟）；多说了，因为中美紧张关系的真正断层线可能在于心态、文化、价值论和实践的差异([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
+> - Partaken 认为"新冷战"的标签既"少说了什么"也"多说了什么"：少说了，因为中国没有名副其实的盟友来形成权力集团（与美苏冷战不同，当时每个国家都选边站或保持不结盟）；多说了，因为中美紧张关系的真正断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
 > - 在[[Knowledge Transfer|知识转移]]维度上，美国的最终目标（可能在 Trump 任期之后仍延续）是限制从美国向中国的[[Technology Transfer|技术转让]]，无论是合法还是非法的([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
 
 ## 关键文件／声明

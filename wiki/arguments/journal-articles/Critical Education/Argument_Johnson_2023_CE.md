@@ -24,6 +24,8 @@ related_concepts:
   - "[[Homework]]"
   - "[[Neo-Taylorism]]"
   - "[[Class Size]]"
+  - "[[Epistemology]]"
+  - "[[Falsification]]"
   - "[[Effect Size]]"
   - "[[Bildung]]"
   - "[[Reflexivity]]"
@@ -77,7 +79,7 @@ citation_aliases:
 > [!success] 主要发现
 > - [[Visible Learning|VL]] 的[[Meta-meta-analysis|元-元分析]]方法论以 obscurity 为特征：仅一段话解释、无公式、无纳入标准说明(p.25-26)
 > - [[Homework]] 效应（d=0.29）掩盖了内部的极端变异性：高中作业 d=0.64（排名可达 17th），小学作业 d=0.15(p.26-27)
-> - Hattie 声称"no one has contested the explanation"，但 VL 并未提出可被实验证伪的理论(p.35)
+> - Hattie 声称"no one has contested the explanation"，但 VL 并未提出可被实验[[Falsification|证伪]]的理论(p.35)
 > - [[Class Size|班级规模]]效应仅使用 3 项[[Meta-analysis|元分析]]，其中 Glass & Smith (1979) 的原始解释（"40 人和 1 人之间相差超过 30 个百分位等级"）被一个不源自原文的 d=0.09 替代(p.32-33)
 > - Hattie 在 Cognition Trust 董事会任职同时从 VL 商业化中获取版税(p.30-31)
 

@@ -26,7 +26,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
+  - "[[Epistemology]]"
   - "[[Quality Education]]"
+  - "[[Falsification]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
@@ -349,7 +351,7 @@ Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾
 > - **非实证研究**：Ryan 采取的是文献批判综述和[[Reflexivity|反思性]]论述的论证形式，未提供系统的实证数据来支持其主张；论证主要依赖对既有文献的二次分析和作者个人经历的叙述
 > - **立场单一**：虽以"平衡"为目标，但论证明显偏向批判西方刻板印象，对中国教育体系内部的问题（如腐败、guanxi 关系文化）仅一笔带过
 > - **缺乏替代框架**：有效解构了刻板印象，但对"教师在实践中应具体如何操作"仅给出原则性建议（[[Meta-Cultural Sensitivity|元文化敏感度]]），未提供可操作的教学策略或实证验证的方案
-> - **"文化内差异大于文化间差异"命题**：虽频繁被重复，但未提供系统的跨文化比较数据来严格检验
+> - **"文化内差异大于文化间差异"命题**：虽频繁被重复，但未提供系统的跨文化比较数据来[[Falsification|严格检验]]
 
 ## 来源
 

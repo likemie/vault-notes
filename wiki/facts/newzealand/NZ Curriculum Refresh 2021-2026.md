@@ -15,9 +15,12 @@ tags:
 related_concepts:
   - "[[Outcomes-based Education]]"
   - "[[Big Ideas]]"
+  - "[[Epistemology]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Recontextualization]]"
+  - "[[Ontology]]"
   - "[[Mātauranga Māori]]"
+  - "[[Axiology]]"
   - "[[Knowledge-that and Know-how-to]]"
 related_theories: []
 related_methods: []
@@ -109,7 +112,7 @@ updated: 2026-06-06
 >   - **双文化主义**：[[Mātauranga Māori|毛利知识体系]]被用来创造主题和隐喻凝聚力，但其与课程声称转向关注学习进步和增长之间存在潜在矛盾
 >   - **地方化**：强调与当地社区共同设计课程，但可能与「不能留给偶然的学习」产生冲突
 >   - **道德原则**：义务论伦理和美德伦理塑造了课程对理想公民的想象
-> - **[[Big Ideas|大概念]]构想不一致**。不同学科的大概念构想不同：历史学科的大概念捕捉了应学习的知识，数学学科的大概念更多表达社会文化概念而非应学习的内容，英语学科的大概念混合了知识陈述和价值论证([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> - **[[Big Ideas|大概念]]构想不一致**。不同学科的大概念构想不同：历史学科的大概念捕捉了应学习的知识，数学学科的大概念更多表达社会文化概念而非应学习的内容，英语学科的大概念混合了知识陈述和[[Axiology|价值论]]证([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **概念识别不足**。概念很少被明确标记，其重要性可能被忽视。专业读者可以推测哪些是概念，但这些概念可能被不同方式解读，导致教师对关键学习理念的理解产生分歧([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **知识边界模糊**。[[Knowledge-that and Know-how-to|知其然]]和知其所用的边界在某些学科中模糊。数学学科的「知道」部分包含了本应属于「做」部分的陈述，属于认识论上的类别错误([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **内容特异性不足**。不同学科写作小组对内容特异性的决定不一致：数学和统计课程比英语或社会科学更具体和详细；新西兰历史课程的内容特异性最高；社会科学和英语课程的内容更为宽泛，可能导致不同学校之间学生所学内容存在差异([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。

@@ -922,6 +922,17 @@
     ]
   },
   {
+    "title": "Axiology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Axiology.md",
+    "aliases": [
+      "价值论",
+      "axiological assumptions",
+      "价值论假设",
+      "values in research"
+    ]
+  },
+  {
     "title": "Bildung",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Bildung.md",
@@ -4513,6 +4524,20 @@
     ]
   },
   {
+    "title": "Falsification",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Falsification.md",
+    "aliases": [
+      "证伪主义",
+      "证伪",
+      "falsifiability",
+      "可证伪性",
+      "falsificationism",
+      "severe test",
+      "严格检验"
+    ]
+  },
+  {
     "title": "Forest Plot",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Forest Plot.md",
@@ -4559,6 +4584,16 @@
       "预测性假设",
       "research hypothesis",
       "hypotheses"
+    ]
+  },
+  {
+    "title": "Indexicality",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Indexicality.md",
+    "aliases": [
+      "索引性",
+      "indexical expressions",
+      "索引表达式"
     ]
   },
   {
@@ -4818,6 +4853,20 @@
     "aliases": [
       "自然主义概括",
       "naturalistic generalizations"
+    ]
+  },
+  {
+    "title": "Nomothetic and Idiographic",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Nomothetic and Idiographic.md",
+    "aliases": [
+      "通则式与个例式",
+      "nomothetic approach",
+      "idiographic approach",
+      "通则研究",
+      "个例研究",
+      "nomothetic",
+      "idiographic"
     ]
   },
   {
@@ -7545,6 +7594,17 @@
     ]
   },
   {
+    "title": "Karl Popper",
+    "type": "person",
+    "path": "wiki/persons/austria/Karl Popper.md",
+    "aliases": [
+      "卡尔·波普尔",
+      "Popper",
+      "Karl R. Popper",
+      "Sir Karl Popper"
+    ]
+  },
+  {
     "title": "Camilla de Hollanda Amado",
     "type": "person",
     "path": "wiki/persons/brazil/Camilla de Hollanda Amado.md",
@@ -8120,6 +8180,25 @@
     ]
   },
   {
+    "title": "Edmund Husserl",
+    "type": "person",
+    "path": "wiki/persons/germany/Edmund Husserl.md",
+    "aliases": [
+      "埃德蒙德·胡塞尔",
+      "Husserl",
+      "Edmund G. A. Husserl"
+    ]
+  },
+  {
+    "title": "Jürgen Habermas",
+    "type": "person",
+    "path": "wiki/persons/germany/Jürgen Habermas.md",
+    "aliases": [
+      "尤尔根·哈贝马斯",
+      "Habermas"
+    ]
+  },
+  {
     "title": "Andreas Kazamias",
     "type": "person",
     "path": "wiki/persons/greece/Andreas Kazamias.md",
@@ -8637,6 +8716,16 @@
     ]
   },
   {
+    "title": "Francis Bacon",
+    "type": "person",
+    "path": "wiki/persons/uk/Francis Bacon.md",
+    "aliases": [
+      "弗朗西斯·培根",
+      "Bacon",
+      "Sir Francis Bacon"
+    ]
+  },
+  {
     "title": "John Dewey",
     "type": "person",
     "path": "wiki/persons/us/John Dewey.md",
@@ -8833,6 +8922,15 @@
       "Bandura, A.",
       "阿尔伯特·班杜拉",
       "班杜拉"
+    ]
+  },
+  {
+    "title": "Harold Garfinkel",
+    "type": "person",
+    "path": "wiki/persons/usa/Harold Garfinkel.md",
+    "aliases": [
+      "哈罗德·加芬克尔",
+      "Garfinkel"
     ]
   },
   {
@@ -12161,5 +12259,10 @@
     "title": "Argument_UIDP_2012_PartnershipContinuum",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md"
+  },
+  {
+    "title": "研究地图",
+    "type": "unknown",
+    "path": "wiki/research-map.md"
   }
 ]
