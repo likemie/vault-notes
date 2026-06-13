@@ -1353,7 +1353,7 @@
   counter-reset: finding;
 }
 
-/* 默认：span 3 = 2 列（适合 2 / 4 项） */
+/* ── 默认：span 3 = 2 列（2 / 4 项整齐） ── */
 .callout[data-callout="finding-cards"] .callout-content > ol > li,
 .callout[data-callout="finding-cards"] .callout-content > ul > li {
   grid-column: span 3;
@@ -1366,31 +1366,39 @@
   line-height: 1.65;
 }
 
-/* 3 项 → span 2 = 3 列 */
+/* ── 1 项 → 全宽 ── */
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(1):last-child) > li { grid-column: span 6; }
+
+/* ── 3 项 → span 2（3 列，正好铺满） ── */
 .callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(3):last-child) > li,
-.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
-  grid-column: span 2;
-}
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(3):last-child) > li { grid-column: span 2; }
 
-/* 5 项 → 3 + 2（前 3 span 2，后 2 span 3） */
-.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(-n+3),
-.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+3) {
-  grid-column: span 2;
-}
-.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(n+4),
-.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+4) {
-  grid-column: span 3;
-}
+/* ── 5 项 → 3 列，第 4/5 项居中（留 1 空格 × 2） ── */
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li { grid-column: span 2; }
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(4),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(4) { grid-column: 2 / 4; }
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(5),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(5) { grid-column: 4 / 6; }
 
-/* 6 / 7 / 8 项 → span 2 = 3 列 */
+/* ── 6 项 → span 2（3×2，完美铺满） ── */
 .callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(6):last-child) > li,
-.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(6):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(6):last-child) > li { grid-column: span 2; }
+
+/* ── 7 项 → 3 列，第 7 项居中 ── */
 .callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(7):last-child) > li,
-.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li { grid-column: span 2; }
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(7):last-child) > li:nth-child(7),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(7) { grid-column: 3 / 5; }
+
+/* ── 8 项 → 3 列，第 7/8 项居中 ── */
 .callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(8):last-child) > li,
-.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li {
-  grid-column: span 2;
-}
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li { grid-column: span 2; }
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(8):last-child) > li:nth-child(7),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li:nth-child(7) { grid-column: 2 / 4; }
+.callout[data-callout="finding-cards"] .callout-content > ol:has(> li:nth-child(8):last-child) > li:nth-child(8),
+.callout[data-callout="finding-cards"] .callout-content > ul:has(> li:nth-child(8):last-child) > li:nth-child(8) { grid-column: 4 / 6; }
 
 .callout[data-callout="finding-cards"] .callout-content > ol > li::before,
 .callout[data-callout="finding-cards"] .callout-content > ul > li::before {
@@ -1416,13 +1424,9 @@
 
 @media (max-width: 640px) {
   .callout[data-callout="finding-cards"] .callout-content > ol,
-  .callout[data-callout="finding-cards"] .callout-content > ul {
-    grid-template-columns: 1fr;
-  }
+  .callout[data-callout="finding-cards"] .callout-content > ul { grid-template-columns: 1fr; }
   .callout[data-callout="finding-cards"] .callout-content > ol > li,
-  .callout[data-callout="finding-cards"] .callout-content > ul > li {
-    grid-column: span 1;
-  }
+  .callout[data-callout="finding-cards"] .callout-content > ul > li { grid-column: span 1 !important; }
 }
 
 
