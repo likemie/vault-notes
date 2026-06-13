@@ -2329,6 +2329,224 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   DESIGNS — designs（研究设计 · 蓝紫谱系）
+   用途：呈现一组并列的研究设计类型，每项含中英文名称 + 简要说明
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="designs"] {
+  --callout-color: 100, 85, 165;
+  --callout-icon: lucide-layout-template;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(135deg, rgba(100, 85, 165, 0.06), rgba(100, 85, 165, 0.01) 70%),
+    var(--background-primary);
+  border: 1px solid rgba(100, 85, 165, 0.22);
+  border-left: 6px solid rgb(100, 85, 165);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(100, 85, 165, 0.08);
+}
+
+.callout[data-callout="designs"] > .callout-title {
+  color: rgb(80, 65, 140);
+  font-weight: 650;
+  font-size: 1.0em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="designs"] > .callout-title .callout-title-inner::before {
+  content: "设计";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(100, 85, 165, 0.14);
+  color: rgb(80, 65, 140);
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="designs"] > .callout-content {
+  line-height: 1.68;
+}
+
+.callout[data-callout="designs"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.35rem 1.2rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.callout[data-callout="designs"] > .callout-content > ul > li {
+  padding: 0.35rem 0.5rem;
+  border-radius: 6px;
+  background: rgba(100, 85, 165, 0.04);
+  border-left: 3px solid rgba(100, 85, 165, 0.18);
+}
+
+.callout[data-callout="designs"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(80, 65, 140);
+}
+
+/* ─── Dark ─── */
+.theme-dark .callout[data-callout="designs"] {
+  border-left-color: rgb(160, 145, 210);
+  border-color: rgba(160, 145, 210, 0.28);
+  background:
+    linear-gradient(135deg, rgba(160, 145, 210, 0.08), rgba(160, 145, 210, 0.02) 70%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="designs"] > .callout-title {
+  color: rgb(160, 145, 210);
+}
+
+.theme-dark .callout[data-callout="designs"] > .callout-title .callout-title-inner::before {
+  background: rgba(160, 145, 210, 0.18);
+  color: rgb(160, 145, 210);
+}
+
+.theme-dark .callout[data-callout="designs"] > .callout-content > ul > li {
+  background: rgba(160, 145, 210, 0.06);
+  border-left-color: rgba(160, 145, 210, 0.22);
+}
+
+.theme-dark .callout[data-callout="designs"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(160, 145, 210);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   DECISIONS — decisions（研究决策 · 琥珀深色）
+   用途：呈现一组研究设计中的关键决策维度，每项含中英文术语 + 说明
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="decisions"] {
+  --callout-color: 170, 110, 40;
+  --callout-icon: lucide-git-branch;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(135deg, rgba(170, 110, 40, 0.05), rgba(170, 110, 40, 0.01) 70%),
+    var(--background-primary);
+  border: 1px solid rgba(170, 110, 40, 0.20);
+  border-left: 6px solid rgb(170, 110, 40);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(170, 110, 40, 0.08);
+}
+
+/* 决策树分支线装饰 */
+.callout[data-callout="decisions"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 6px;
+  width: 1px;
+  height: 100%;
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    rgba(170, 110, 40, 0.18) 8%,
+    rgba(170, 110, 40, 0.18) 92%,
+    transparent 100%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+.callout[data-callout="decisions"] > .callout-title {
+  color: rgb(145, 90, 30);
+  font-weight: 650;
+  font-size: 1.0em;
+  letter-spacing: 0.02em;
+  position: relative;
+  z-index: 1;
+}
+
+.callout[data-callout="decisions"] > .callout-title .callout-title-inner::before {
+  content: "决策";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(170, 110, 40, 0.14);
+  color: rgb(145, 90, 30);
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="decisions"] > .callout-content {
+  line-height: 1.68;
+  position: relative;
+  z-index: 1;
+}
+
+.callout[data-callout="decisions"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.35rem 0.8rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.callout[data-callout="decisions"] > .callout-content > ul > li {
+  padding: 0.4rem 0.55rem;
+  border-radius: 6px;
+  background: rgba(170, 110, 40, 0.04);
+  border-left: 3px solid rgba(170, 110, 40, 0.20);
+  font-size: 0.92em;
+}
+
+.callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  color: rgb(145, 90, 30);
+  margin-bottom: 0.1rem;
+}
+
+/* ─── Dark ─── */
+.theme-dark .callout[data-callout="decisions"] {
+  border-left-color: rgb(220, 165, 85);
+  border-color: rgba(220, 165, 85, 0.28);
+  background:
+    linear-gradient(135deg, rgba(220, 165, 85, 0.07), rgba(220, 165, 85, 0.02) 70%),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="decisions"]::before {
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    rgba(220, 165, 85, 0.20) 8%,
+    rgba(220, 165, 85, 0.20) 92%,
+    transparent 100%
+  );
+}
+
+.theme-dark .callout[data-callout="decisions"] > .callout-title {
+  color: rgb(220, 165, 85);
+}
+
+.theme-dark .callout[data-callout="decisions"] > .callout-title .callout-title-inner::before {
+  background: rgba(220, 165, 85, 0.18);
+  color: rgb(220, 165, 85);
+}
+
+.theme-dark .callout[data-callout="decisions"] > .callout-content > ul > li {
+  background: rgba(220, 165, 85, 0.05);
+  border-left-color: rgba(220, 165, 85, 0.22);
+}
+
+.theme-dark .callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(220, 165, 85);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    AXIOMS — axioms（公理 · 金律）
    用途：呈现一组自明的、作为推理起点的公理性命题
    ═══════════════════════════════════════════════════════════ */
@@ -3814,45 +4032,46 @@
 .callout[data-callout="conclusion"] {
   --callout-color: 28, 58, 102;
   --callout-icon: lucide-flag;
-  background: linear-gradient(135deg, rgba(28, 58, 102, 0.08), rgba(28, 58, 102, 0.02)),
-              var(--background-primary);
-  border: 1px solid rgba(28, 58, 102, 0.20);
-  border-left: 6px solid rgb(28, 58, 102);
+  background: var(--background-primary);
+  border: 1px solid rgba(28, 58, 102, 0.18);
+  border-top: 3px solid rgb(28, 58, 102);
   border-radius: 8px;
-  box-shadow: 0 3px 14px rgba(28, 58, 102, 0.09);
+  box-shadow: 0 2px 12px rgba(28, 58, 102, 0.10);
   padding: 0;
   overflow: hidden;
 }
 
-/* ── 标题区：独立底色 ── */
+/* ── 标题区：实色填充 ── */
 .callout[data-callout="conclusion"] > .callout-title {
-  background: rgba(28, 58, 102, 0.08);
-  border-bottom: 1px solid rgba(28, 58, 102, 0.14);
-  padding: 0.5rem 1rem;
-  color: rgb(28, 58, 102);
-  font-weight: 680;
+  background: rgb(28, 58, 102);
+  border-bottom: none;
+  padding: 0.55rem 1.1rem;
+  color: rgb(220, 232, 252);
+  font-weight: 650;
+  line-height: 1.5;
 }
 
-/* ── CONC 角标 ── */
+/* ── CONCLUSION 标签 ── */
 .callout[data-callout="conclusion"] > .callout-title .callout-title-inner::before {
-  content: "CONC";
+  content: "CONCLUSION";
   display: inline-block;
-  margin-right: 0.55rem;
-  padding: 2px 7px;
-  border-radius: 4px;
-  background: rgb(28, 58, 102);
-  color: rgb(210, 225, 248);
-  font-size: 0.65em;
+  margin-right: 0.6rem;
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 0.6em;
   font-weight: 750;
-  letter-spacing: 0.09em;
+  letter-spacing: 0.1em;
+  line-height: 1.8;
   vertical-align: middle;
 }
 
 /* ── 正文 ── */
 .callout[data-callout="conclusion"] > .callout-content {
-  padding: 0.9rem 1.1rem 1rem;
-  font-size: 0.97em;
-  line-height: 1.78;
+  padding: 0.75rem 1.1rem 0.8rem;
+  font-size: 0.96em;
+  line-height: 1.65;
 }
 .callout[data-callout="conclusion"] > .callout-content strong {
   color: rgb(28, 58, 102);
@@ -3860,21 +4079,18 @@
 
 /* ── 暗模式 ── */
 .theme-dark .callout[data-callout="conclusion"] {
-  --callout-color: 100, 148, 220;
-  border-left-color: rgb(80, 130, 200);
-  background: linear-gradient(135deg, rgba(55, 95, 165, 0.13), rgba(55, 95, 165, 0.03)),
-              var(--background-primary);
-  border-color: rgba(80, 130, 200, 0.22);
+  border-top-color: rgb(80, 130, 200);
+  border-color: rgba(80, 130, 200, 0.20);
 }
 .theme-dark .callout[data-callout="conclusion"] > .callout-title {
-  background: rgba(55, 95, 165, 0.12);
-  border-bottom-color: rgba(80, 130, 200, 0.18);
-  color: rgb(140, 185, 240);
+  background: rgb(32, 58, 105);
+  color: rgb(190, 215, 252);
 }
 .theme-dark .callout[data-callout="conclusion"] > .callout-title .callout-title-inner::before {
-  background: rgb(65, 110, 180);
-  color: rgb(205, 225, 255);
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.85);
 }
+
 .theme-dark .callout[data-callout="conclusion"] > .callout-content strong {
   color: rgb(130, 178, 238);
 }
