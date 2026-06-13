@@ -111,7 +111,7 @@ issuing_organization: ""
 > - **可折叠规则**：任何 callout 加 `+`（默认展开可折叠）或 `-`（默认折叠），适用于 `[!stat-cards]-`、`[!sample-panel]-` 等次要信息块。
 > - **嵌套语法**：列表项内嵌套 callout 用 `>    > [!type]`（外层 `>` + 3 空格 + 内层 `>`）；`[!info]` 内嵌 `[!timeline]` 是典型二层用法。
 > - **新增样式**：`[!frames-ref]`（紧凑 2 列参考网格，适合框架/原则列表，6–12 项）、`[!dev-timeline]`（大型分阶段时间轴，含斜体摘要 + 琥珀色子事件点 + 散文详情）——详见下方示例库。
-> - **新增样式**：`[!feature]`（特征/属性卡片，**粗体**自动渲染为有色标签，蓝图网格背景）、`[!formula]` / `[!formula-set]`（公式岛 + 变量注释）、`[!critique-method]` / `[!critique-logic]` / `[!critique-data]` / `[!critique-fatal]`（四种批评变体）——详见下方示例库。
+> - **新增样式**：`[!feature]`（特征/属性卡片，**粗体**自动渲染为有色标签，蓝图网格背景）、`[!formula]` / `[!formula-set]`（公式岛 + 变量注释）、`[!critique-method]` / `[!critique-logic]` / `[!critique-data]` / `[!critique-fatal]`（四种批评变体）、`[!conclusion]`（结论裁定，CONC 角标）——详见下方示例库。
 
 > [!reading-lens]- Callout 样例库
 > | 类型 | 用途 | 建议位置 |
@@ -137,6 +137,7 @@ issuing_organization: ""
 > | `[!critique-logic]` | 逻辑/概念矛盾，LOGIC 角标，紫罗兰 | 讨论节的概念批评 |
 > | `[!critique-data]` | 实证/数据反例，DATA 角标，琥珀 | 讨论节的数据质疑 |
 > | `[!critique-fatal]` | 根本性致命缺陷，FATAL 角标，深红，方形徽章 | 讨论节的根本性质疑 |
+> | `[!conclusion]` | 论证结论／批评裁定，CONC 角标，深海蓝，标题区独立背景 | 每节批评末尾的裁定句 |
 > | `[!citation-card]` | 中文译文与英文原文（衬线斜体）分隔展示 | 关键引用章节 |
 > | `[!boundary]` | 分类、排除或象征边界的判断 | 嵌入证据线索内部 |
 > | `[!tension]` | 两种解释或规范目标之间的冲突（鱼骨纹） | 嵌入证据线索内部 |
@@ -347,6 +348,9 @@ issuing_organization: ""
 >
 > > [!critique-fatal] 量表互比性的根本缺陷
 > > - 不同研究测量不同构念，合并结果在逻辑上不成立，无法通过修正修复。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!conclusion] 结论标题
+> > 总结性裁定句，关键数字和核心判断用 **粗体** 标出。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 %% CONTENT_START: 以上为写作参考，以下为实际条目内容 %%
 ---

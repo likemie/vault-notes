@@ -1165,39 +1165,52 @@
   margin-block: 0.55rem 0.2rem;
   border-collapse: separate;
   border-spacing: 0;
+  font-size: 0.88em;
 }
 
 .callout[data-callout="contrast-table"] th,
 .callout[data-callout="contrast-table"] td {
   vertical-align: top;
   border-color: rgba(126, 137, 150, 0.12);
-  line-height: 1.65;
+  line-height: 1.55;
+  padding: 0.45rem 0.55rem;
+  font-size: 0.92em;
 }
 
 .callout[data-callout="contrast-table"] th {
   font-weight: 700;
   text-align: center;
   letter-spacing: 0.02em;
+  font-size: 0.88em;
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(1),
 .callout[data-callout="contrast-table"] td:nth-child(1) {
-  width: 9rem;
+  width: 6.2rem;
   background: transparent;
   color: rgb(126, 137, 150);
   font-weight: 700;
+  font-size: 0.88em;
+  white-space: nowrap;
 }
 
 .callout[data-callout="contrast-table"] td:nth-child(1) strong { color: rgb(150, 161, 174); }
 
+/* 2列: 左栏(amber) */
 .callout[data-callout="contrast-table"] th:nth-child(2),
 .callout[data-callout="contrast-table"] td:nth-child(2) { background: rgba(181, 139, 69, 0.1); }
 
+/* 3列: 右栏(rose) */
 .callout[data-callout="contrast-table"] th:nth-child(3),
 .callout[data-callout="contrast-table"] td:nth-child(3) { background: rgba(159, 100, 117, 0.1); }
 
+/* 4列: 中栏(teal) — 三栏对比时使用 */
+.callout[data-callout="contrast-table"] th:nth-child(4),
+.callout[data-callout="contrast-table"] td:nth-child(4) { background: rgba(45, 130, 120, 0.08); }
+
 .callout[data-callout="contrast-table"] th:nth-child(2) { color: #c0954a; }
 .callout[data-callout="contrast-table"] th:nth-child(3) { color: #bd788d; }
+.callout[data-callout="contrast-table"] th:nth-child(4) { color: rgb(30, 120, 110); }
 
 /* ─── stat-cards（数据卡 — 横向刻度线，数量自适应排列） ── */
 .callout[data-callout="stat-cards"] {
@@ -3680,3 +3693,74 @@
 
 .theme-dark .callout[data-callout="critique-fatal"] { --callout-color: 210, 80, 90; }
 .theme-dark .callout[data-callout="critique-fatal"] > .callout-title { color: rgb(220, 95, 105); }
+
+/* ══════════════════════════════════════════════════════════════
+   [!conclusion]  论证结论 / 批评裁定 — 深海蓝
+   ══════════════════════════════════════════════════════════════ */
+.callout[data-callout="conclusion"] {
+  --callout-color: 28, 58, 102;
+  --callout-icon: lucide-flag;
+  background: linear-gradient(135deg, rgba(28, 58, 102, 0.08), rgba(28, 58, 102, 0.02)),
+              var(--background-primary);
+  border: 1px solid rgba(28, 58, 102, 0.20);
+  border-left: 6px solid rgb(28, 58, 102);
+  border-radius: 8px;
+  box-shadow: 0 3px 14px rgba(28, 58, 102, 0.09);
+  padding: 0;
+  overflow: hidden;
+}
+
+/* ── 标题区：独立底色 ── */
+.callout[data-callout="conclusion"] > .callout-title {
+  background: rgba(28, 58, 102, 0.08);
+  border-bottom: 1px solid rgba(28, 58, 102, 0.14);
+  padding: 0.5rem 1rem;
+  color: rgb(28, 58, 102);
+  font-weight: 680;
+}
+
+/* ── CONC 角标 ── */
+.callout[data-callout="conclusion"] > .callout-title .callout-title-inner::before {
+  content: "CONC";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgb(28, 58, 102);
+  color: rgb(210, 225, 248);
+  font-size: 0.65em;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  vertical-align: middle;
+}
+
+/* ── 正文 ── */
+.callout[data-callout="conclusion"] > .callout-content {
+  padding: 0.9rem 1.1rem 1rem;
+  font-size: 0.97em;
+  line-height: 1.78;
+}
+.callout[data-callout="conclusion"] > .callout-content strong {
+  color: rgb(28, 58, 102);
+}
+
+/* ── 暗模式 ── */
+.theme-dark .callout[data-callout="conclusion"] {
+  --callout-color: 100, 148, 220;
+  border-left-color: rgb(80, 130, 200);
+  background: linear-gradient(135deg, rgba(55, 95, 165, 0.13), rgba(55, 95, 165, 0.03)),
+              var(--background-primary);
+  border-color: rgba(80, 130, 200, 0.22);
+}
+.theme-dark .callout[data-callout="conclusion"] > .callout-title {
+  background: rgba(55, 95, 165, 0.12);
+  border-bottom-color: rgba(80, 130, 200, 0.18);
+  color: rgb(140, 185, 240);
+}
+.theme-dark .callout[data-callout="conclusion"] > .callout-title .callout-title-inner::before {
+  background: rgb(65, 110, 180);
+  color: rgb(205, 225, 255);
+}
+.theme-dark .callout[data-callout="conclusion"] > .callout-content strong {
+  color: rgb(130, 178, 238);
+}

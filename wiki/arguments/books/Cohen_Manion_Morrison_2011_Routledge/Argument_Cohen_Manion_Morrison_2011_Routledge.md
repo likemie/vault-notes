@@ -46,8 +46,6 @@ updated: 2026-06-12
 
 ## 论证结构
 
-本章并非提出一个单一的线性论证，而是按照四层递进结构，为后续各章的具体研究方法提供认识论定位。
-
 > [!logic-map] 第1章总体论证结构
 > ```mermaid
 > flowchart LR
@@ -278,7 +276,7 @@ Hitchcock and Hughes (1995: 23)进一步提出八阶段科学方法模型(Box 1.
 
 Kerlinger (1970: 9)对理论的定义被引用为实证主义科学观的终极目标：
 
-> [!quote]
+> [!citation-card]
 > 一套相互关联的构念(概念)、定义和命题，通过明确变量之间的关系来呈现对现象的系统看法，目的是解释和预测现象。
 > a set of interrelated constructs [concepts], definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining and predicting the phenomena.
 
@@ -551,31 +549,22 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 
 ### 步骤 10：后实证主义、后现代主义与后结构主义
 
-这三种思想构成了连接前文的范式讨论与后文的复杂性理论的桥梁(pp.729–776)：
+这三种思想共同挑战了现代主义的实证世界观——将世界视为有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、封闭的系统("宏大叙事""元叙事")，其研究产生不可变的、普遍的法则和线性因果律(p.729)。三者的共同主张是：**为多重解释提供空间，赋予个体声音以合法性，放弃对决定论的、简单的线性因果行为法则的寻求**(p.776)。
 
-#### 10.1 后实证主义
+但三者在挑战方式和程度上各有侧重：
 
-[[Postpositivism]]挑战了现代主义的世界图景：将世界视为有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、封闭的系统(一种"宏大叙事""元叙事")(pp.729–734)。后实证主义的核心主张：
+> [!contrast-table] 后实证主义 vs 后现代主义 vs 后结构主义
+>
+> | 维度 | 后实证主义(Post-positivism) | 后现代主义(Postmodernism) | 后结构主义(Post-structuralism) |
+> |---|---|---|---|
+> | **实在观** | 客观实在仍存在，但采取多元观点——多重共存的实在；另一取向则与现象学亲缘，主张主观诠释的中心地位(pp.733–734) | 多重实在(及多重浅表性)，个体解释与意义具有正当性；知识是人的社会建构(Jameson, 1991)(pp.752–759) | 不存在单一的"本质"意义——现象中内嵌不同的意义层次，某些意义被特权化而其他被忽视(pp.774–775) |
+> | **知识观** | 知识是推测性的(conjectural)、可证伪的、可挑战的、变化中的(Popper, 1968)；事实和观察是理论负载和价值负载的(Popper, 1980; Feyerabend, 1975)(pp.731–732) | 相对主义而非绝对主义——什么构成有价值的知识取决于视角和立场；拒绝普遍法则和宏大叙事(pp.755–759) | 知识和意义通过话语(discourses)被生产、合法化和使用；数据甚至人工制品都可视为文本，对不同的意义和解释开放(Francis, 2010)(p.773) |
+> | **核心概念** | 推测、可证伪性、理论负载、多元理据(multiple warrants)、事实与价值的不可分离(p.732) | 反宏大叙事、差异与多样性、地方性与个体性、当下的自指性(autoreferentiality)、时间性与语境依赖(Jameson, 1991)(pp.737–751) | 能动性(agency)、解构(deconstruction)、话语(discourse)、文本(text)——个体不是系统的提线木偶，而是多元且内在矛盾的(Foucault, Derrida)(pp.774–775) |
+> | **对立的靶子** | 实证主义的事实–价值分离和知识的绝对确定性 | 现代主义的宏大叙事、普遍法则、单一真理 | 结构功能主义——将人视为社会结构中类法则地嵌套的被动角色承载者(p.772) |
+> | **方法论含义** | 研究者提出多重视角和多重理据；研究焦点、方法和解释受价值观和范式影响(pp.731–732) | 赋予个体声音以合法性；通过参与者的眼睛审视情境；警惕研究者的权威和对某些解释的特权化(pp.765–768) | 研究的任务是"解构"——揭示不同的意义层次、意义的特权化过程，理解意义和知识如何被生产、合法化和使用(pp.774–775) |
+> | **亲缘性** | 与现象学、诠释取向有亲和力(pp.733–734) | 同时支持诠释范式、复杂性理论和批判理论——具有"变色龙"般的性质(p.770) | 通过知识–权力的关系与批判理论相连，但哈贝马斯(Habermas, 1987)反对批判理论与后现代主义或后结构主义的亲缘性(p.775) |
 
-> [!finding-cards]
-> - 遵循波普尔(Popper, 1968)，知识是**推测性的**(conjectural)、**可证伪的**、可挑战的、变化中的
-> - 一劳永逸的基础知识让位于**尝试性的推测**——研究者提出多重视角和多重理据
-> - **事实和观察是理论负载和价值负载的**(Popper, 1980; Feyerabend, 1975)——事实与价值的分离不可持续
-> - 社会事实，甚至思维方式和观察方式，都是**社会建构**，而非客观和普遍真实的(Nisbett, 2005)
-
-后实证主义呈现两种取向：一是主张客观实在持续存在但采取多元观点(多重共存的实在)；二是与现象学、诠释取向有亲缘性，主张主观和多元诠释的中心地位。
-
-#### 10.2 后现代主义
-
-詹姆逊(Jameson, 1991)识别出后现代主义的若干标志(pp.736–770)：拒绝"宏大叙事"和普遍法则；重视不连续性、差异、多样性、独特性；强调地方性和个体性；倡导相对主义而非绝对主义；多重且有时矛盾的解读共存；以及知识–权力的关系——对某些解释的特权化而忽视其他解释。
-
-#### 10.3 后结构主义
-
-后结构主义(pp.772–776)反对结构功能主义的系统观——人在其中被视为系统角色的被动承载者。后结构主义者(如福柯 Foucault、德里达 Derrida)主张：
-
-- 个人能动性优先——人不是系统的提线木偶，而是多元的、甚至内在矛盾的
-- 研究的任务是**"解构"**(deconstruct)现象——揭示不同的意义层次以及某些意义被赋予特权的过程
-- 没有单一的"本质"意义，而是多重意义
+三者的共性大于差异：它们共同为质性、诠释的研究取向提供了哲学支撑，强调了个体和主观叙述在研究过程中的重要性，以及研究者自身的反思性(reflexivity)。但许多后实证主义者、后现代主义者和后结构主义者会拒绝如此简单的亲缘归类，甚至否认自己的观点与现象学或解释主义之间的联系(p.776)。
 
 ---
 
@@ -670,29 +659,23 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 
 ## 重要摘录
 
-> [!quote]
+> [!citation-card]
 > 本体论假设(关于实在本质和事物性质的假设)衍生出认识论假设(探究实在本质和事物性质的方式)；这些又衍生出方法论考量；而这些再衍生出工具和资料收集的问题。(1.1节，p.105)
-> Original: ontological assumptions (assumptions about the nature of reality and the nature of things) give rise to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection.
 
-> [!quote]
+> [!citation-card]
 > 主观、个人信念必须经过客观、经验事实和检验的"现实核查"。(1.2节，pp.115–116)
-> Original: subjective, personal belief has to have a reality check against objective, empirical facts and tests.
 
-> [!quote]
+> [!citation-card]
 > 一个假设如果松散到可以容纳任何现象，它就精确地告诉了我们零信息；它禁止的现象越多，它提供的信息就越多。(Box 1.2，p.373)
-> Original: A hypothesis that is so loose as to accommodate any phenomenon tells us precisely nothing; the more phenomena it prohibits, the more informative it is.
 
-> [!quote]
+> [!citation-card]
 > 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的对话，在提议与处理之间，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。(1.7节，p.359，引自Medawar, 1972: 22)
-> Original: Scientific reasoning is therefore at all levels an interaction between two episodes of thought – a dialogue between two voices, the one imaginative and the other critical; a dialogue, if you like, between the possible and the actual, between proposal and disposal, conjecture and criticism, between what might be true and what is in fact the case.
 
-> [!quote]
+> [!citation-card]
 > 混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"(Gorard and Smith, 2006: 61)。(1.13节，p.603)
-> Original: 'qualitative or quantitative represents only one, perhaps not very useful, way of classifying methods' (Gorard and Smith, 2006: 61)
 
-> [!quote]
+> [!citation-card]
 > 在复杂性理论中，秩序是免费的，它取代了控制。秩序不是被强加的，而是涌现的。(1.16节，p.792)
-> Original: order comes for free and replaces control. Order is not imposed; it emerges.
 
 ---
 
