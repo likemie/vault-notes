@@ -886,15 +886,16 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 作者首先排除了最直接的假设——"VL 流行是因为它的数据质量好"。实际上，作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷，以 Table 1 系统呈现（Nielsen & Klitmøller, 2021, pp. 80-81）：
 
-| 问题 | 描述 | 例 |
-|------|------|----|
-| 复杂性还原 | 聚焦单一因果因素对应单一效应 | 作业、[[Class Size\|班级规模]]、反馈 |
-| 消除调节因素 | 忽略如学生 SES 等重要调节变量 | 学生 SES 是学习的重要调节因素 |
-| 去情境化标准 | d=0.40 截断点武断设定 | 低剂量阿司匹林预防心脏病 |
-| 任意划分 | 效应量的划分隐藏重要区分 | [[Homework\|作业]]的多种形式被聚合 |
-| 苹果与橘子 | 不同现象被聚合在同一效应量下 | 反馈的多种形式 |
-| 垃圾进垃圾出 | 纳入低质量研究 | 同上 |
-| 统计问题 | 效应量计算错误 | Bergeron (2017); [[Argument_Simpson_2017_JEP\|Simpson (2017)]] |
+> [!critique] VL 的七项方法论缺陷（Nielsen & Klitmøller, 2021, pp.80–81）
+> | 问题 | 描述 | 例 |
+> |------|------|----|---|
+> | 复杂性还原 | 聚焦单一因果因素对应单一效应 | 作业、[[Class Size\|班级规模]]、反馈 |
+> | 消除调节因素 | 忽略如学生 SES 等重要调节变量 | 学生 SES 是学习的重要调节因素 |
+> | 去情境化标准 | d=0.40 截断点武断设定 | 低剂量阿司匹林预防心脏病 |
+> | 任意划分 | 效应量的划分隐藏重要区分 | [[Homework\|作业]]的多种形式被聚合 |
+> | 苹果与橘子 | 不同现象被聚合在同一效应量下 | 反馈的多种形式 |
+> | 垃圾进垃圾出 | 纳入低质量研究 | 同上 |
+> | 统计问题 | 效应量计算错误 | Bergeron (2017); [[Argument_Simpson_2017_JEP\|Simpson (2017)]] |
 
 尽管存在这些问题，Hattie 仍被 Mansell（2008）称为"教学的圣杯"的发现者，Evans（2012）称其为"possibly the world's most influential education academic"。丹麦学者警告："拒绝使用 Hattie 和其他人结果的人承担了实质性的道德责任"([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, p. 7, cited in Nielsen & Klitmøller, 2021, p. 80]])。
 
@@ -906,7 +907,8 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**[[Positivism|实证主义]]的遗产**（Nielsen & Klitmøller, 2021, pp. 81-82）：
 
-> "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."（Schön, 1983, p. 31, cited in Nielsen & Klitmøller, 2021, p. 82）
+> [!citation-card] Schön, 1983, p.31（引自 Nielsen & Klitmøller, 2021, p.82）
+> "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."
 
 技术理性铺平了教育中的**手段-目的思维（means-ends thinking）**——问题被理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决（p. 82）。工程师的材料分析、医生的疾病诊疗成为所有专业实践（包括教育）的模型。
 
@@ -926,14 +928,16 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 - 这一转变的关键特征是**价值中立的工具理性**取代了传统共识理性——"This kind of rationality is characterized by being instrumental and value neutral"（p. 85）
 - 现代国家机构通过**咨询专家**（而非公民积极参与）并应用技术科学逻辑来解决复杂的经济、政治和文化问题——"modern state institutions seek to solve the complex economic, political, and cultural problems of society by consulting experts (not through citizens' active participation) and applying technical scientific logic"（Habermas, 1976, p. 34, cited in Nielsen & Klitmøller, 2021, p. 85）
 
-> 例：丹麦在 [[PISA]] 冲击后的教育政策转变——前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"，从以儿童为中心的教育学转向以可测量的学习成果为中心的技术管理模式（Nielsen & Klitmøller, 2021, p. 82）。
+> [!example]- 丹麦：PISA 冲击后的政策转向（Nielsen & Klitmøller, 2021, p.82）
+> 前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"，从以儿童为中心的教育学转向以可测量的学习成果为中心的技术管理模式。
 
 **第三步：合法化危机的结构性矛盾**
 
 Habermas（1976, 1984）论证这一转变不可避免地引发合法化危机，因为现代国家机构面临**两个利益对立的主人的矛盾**（Nielsen & Klitmøller, 2021, pp. 85-86）：
 
-- **市场的特殊利益** — 教育系统需要培养具备特定技能的劳动力，以维持国家经济竞争力
-- **公民的公共利益** — 教育系统需要通过公民可认同的价值观和目的来获得合法性（"为什么要把孩子送到学校？为什么要学习这些内容？"）
+> [!tension] 合法化危机的结构性矛盾：两个利益对立的主人
+> - **市场的特殊利益** — 教育系统需要培养具备特定技能的劳动力，以维持国家经济竞争力
+> - **公民的公共利益** — 教育系统需要通过公民可认同的价值观和目的来获得合法性（"为什么要把孩子送到学校？为什么要学习这些内容？"）
 
 当教育机构越来越以"提高市场效率"的名义运作、用技术科学逻辑替代传统共识理性时，国家机构必须"primarily of a technical, instrumental, and value-neutral nature"（Habermas, 1976, p. 34）来为其干预辩护——但这与公民基于共同价值的共识理性产生冲突。
 
@@ -941,9 +945,10 @@ Habermas（1976, 1984）论证这一转变不可避免地引发合法化危机�
 
 Habermas（1984）将此过程理论化为**系统（system）对生活世界（lifeworld）的殖民化**（Nielsen & Klitmøller, 2021, pp. 85-86）：
 
-- **生活世界（lifeworld）** — 由交往理性（communicative rationality）治理，涉及公民的意义生产、动机维持和身份认同。"The communicative lifeworld is governed by a struggle for consensus"（p. 86）
-- **系统世界（system world）** — 由**权力**和**金钱**作为控制媒介匿名治理，优化物质生产和制度协调
-- **殖民化机制**：行政系统不断从生活世界中提取价值——"the administrative systems continually extract the values of the lifeworld to justify strategic interventions aimed at the market"（p. 86）——这系统性**削弱了公民参与学校教育的共同价值基础**。"The paradox is that the technical rationality reinforces the effectiveness of institutional systems and at the same time weakens the normative structures that guide the actions of the individuals committed to the same institutions"（Ewert, 1991, cited in Nielsen & Klitmøller, 2021, p. 86）
+> [!critique-logic] 系统对生活世界的殖民化：三重机制
+> - **生活世界（lifeworld）** — 由交往理性（communicative rationality）治理，涉及公民的意义生产、动机维持和身份认同。"The communicative lifeworld is governed by a struggle for consensus"（p. 86）
+> - **系统世界（system world）** — 由**权力**和**金钱**作为控制媒介匿名治理，优化物质生产和制度协调
+> - **殖民化机制**：行政系统不断从生活世界中提取价值——"the administrative systems continually extract the values of the lifeworld to justify strategic interventions aimed at the market"（p. 86）——这系统性**削弱了公民参与学校教育的共同价值基础**。"The paradox is that the technical rationality reinforces the effectiveness of institutional systems and at the same time weakens the normative structures that guide the actions of the individuals committed to the same institutions"（Ewert, 1991, cited in Nielsen & Klitmøller, 2021, p. 86）
 
 学校处于系统与生活世界的"再生产十字路口"（Borman, 2011, p. 7, cited in Nielsen & Klitmøller, 2021, p. 84）——当系统逻辑过度侵入时，公民对学校的内在承诺（动机）被削弱，出现"缺乏动机"症状——这恰是 Habermas 所说的合法化丧失的标志（Nielsen & Klitmøller, 2021, p. 84）。
 
@@ -960,7 +965,8 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 **(2) VL 将教育实践转化为可管理和可控制的技术操作单元：**
 
-> "Hattie's division of teaching sessions into easy accessible technical, piecemeal input and output interventions that can be hierarchized, controlled, and measured was just what was needed for optimizing the educational system's efficiency."（p. 87）
+> [!citation-card] Nielsen & Klitmøller, 2021, p.87
+> "Hattie's division of teaching sessions into easy accessible technical, piecemeal input and output interventions that can be hierarchized, controlled, and measured was just what was needed for optimizing the educational system's efficiency."
 
 这意味着教育政策制定者、[[School Leadership|学校领导]]者和教师可以用 VL 的框架向公众**证明它正在产生稳定的学习成果**，同时**控制教育机构**——这两个功能正好同时回应了市场效率和公民问责的双重要求（p. 87）。
 
@@ -975,33 +981,36 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 这场合法化交易有其代价。Nielsen & Klitmøller（2021, pp. 88-89）识别了 VL/技术理性框架在教育中产生的**三重系统性后果**：
 
-**第一重：学生和教师被原子化为变量**
+> [!critique] 第一重：学生和教师被原子化为变量
+>
+>> [!citation-card] Nielsen & Klitmøller, 2021, p.88
+>> "The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables."
+>
+> 在 Hattie 的作品中，不存在将学生或教师理解为"寻求意义的"（meaning-seeking）或"解释性的"（interpretive）存在的概念。虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——他们只机械地对反馈做出反应。Hattie 用[[Self-Efficacy|自我效能]]、自我设障、自我动机、自我目标、自我依赖等概念**替代**了学生对其学校体验的诠释——"served Hattie's ambition of supporting the students in becoming their own teachers"（p. 88），而非真正理解教学情境对学生的意义。
+>
+>> [!example]- 反馈效应无法解释动机失效的原因
+>> Hattie 谈论"反馈"的强大效应（$d=0.73$，排名前十）——但反馈之所以有效的前提是学生**在意**他们收到的反馈。如果一个学生对"为什么要学这个"有根本怀疑，仅仅增加反馈的频率和精确性不会解决动机问题。技术理性框架无法提出"这个反馈对学生意味着什么？"的问题——因为这种问题不在手段-目的范畴之内。
 
-> "The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables."（p. 88）
+> [!critique] 第二重：学习目标被神圣化——封闭系统的创造
+>
+>> [!citation-card] Nielsen & Klitmøller, 2021, pp.88-89
+>> "In Hattie's theory of visible learning, the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students, through the reinforcement that lies in the feedback system, direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching."
+>
+> 在这个封闭系统中：
+> - 教师的工作是通过反馈-前馈-前进将学生活动导向**预设的**学习目标
+> - 教育问题被理解为纯粹技术性的目标-手段理性范畴内的问题
+> - 关于学习目标本身的讨论——"这些目标值得追求吗？""为什么要学这个？""有没有其他更重要的东西？"——被认为无关（p. 89）
 
-在 Hattie 的作品中，不存在将学生或教师理解为"寻求意义的"（meaning-seeking）或"解释性的"（interpretive）存在的概念。虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——他们只机械地对反馈做出反应。Hattie 用[[Self-Efficacy|自我效能]]、自我设障、自我动机、自我目标、自我依赖等概念**替代**了学生对其学校体验的诠释——"served Hattie's ambition of supporting the students in becoming their own teachers"（p. 88），而非真正理解教学情境对学生的意义。
-
-> 例：Hattie 谈论"反馈"的强大效应（$d=0.73$，排名前十）——但反馈之所以有效的前提是学生**在意**他们收到的反馈。如果一个学生对"为什么要学这个"有根本怀疑，仅仅增加反馈的频率和精确性不会解决动机问题。技术理性框架无法提出"这个反馈对学生意味着什么？"的问题——因为这种问题不在手段-目的范畴之内。
-
-**第二重：学习目标被神圣化——封闭系统的创造**
-
-> "In Hattie's theory of visible learning, the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students, through the reinforcement that lies in the feedback system, direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching."（pp. 88-89）
-
-在这个封闭系统中：
-- 教师的工作是通过反馈-前馈-前进将学生活动导向**预设的**学习目标
-- 教育问题被理解为纯粹技术性的目标-手段理性范畴内的问题
-- 关于学习目标本身的讨论——"这些目标值得追求吗？""为什么要学这个？""有没有其他更重要的东西？"——被认为无关（p. 89）
-
-**第三重：人际对话被反馈机制取代**
-
-技术理性在教育中的实践后果是，基于交往理性的人际对话被"反馈→学习"的因果链条替代（pp. 88-89）：
-- 出发点不是从学生视角理解教学情境，而是"finding aspects of student activities that may be subject to correction so the image of students as problem solvers can be maintained"（p. 88）
-- "there is little focus on giving reasons for the students to learn what they should learn"（p. 89）
+> [!critique] 第三重：人际对话被反馈机制取代
+> 技术理性在教育中的实践后果是，基于交往理性的人际对话被"反馈→学习"的因果链条替代（pp. 88-89）：
+> - 出发点不是从学生视角理解教学情境，而是"finding aspects of student activities that may be subject to correction so the image of students as problem solvers can be maintained"（p. 88）
+> - "there is little focus on giving reasons for the students to learn what they should learn"（p. 89）
 
 > [!conclusion] 总体诊断：意识形态功能
 > VL 的理论具有 **"意识形态功能"** ——使技术的、工具性的学习方法变得[[Doxa|不言自明]]和主导性的（Nielsen & Klitmøller, 2021, p. 89, citing Kvale, 1976, p. 106）。它不只是一套关于"什么有效"的技术说明——它是一种关于教育**应该是什么**的规范性论述，而这一论述使竞争性理解（如教育作为 [[Bildung]]、民主公民培养、个人意义探索）被边缘化。
 
-> "The study of how teaching can be improved should begin with research on how schools and teaching are conducted in everyday practice, meaning researching how and why pupils, teachers, and parents participate in educational practice."（Nielsen & Klitmøller, 2021, p. 89）
+> [!citation-card] Nielsen & Klitmøller, 2021, p.89
+> "The study of how teaching can be improved should begin with research on how schools and teaching are conducted in everyday practice, meaning researching how and why pupils, teachers, and parents participate in educational practice."
 
 #### 此批判在 VL 批评文献中的位置
 

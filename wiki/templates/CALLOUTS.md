@@ -108,6 +108,28 @@ Argument 页面常用位置：
 | `[!actor-grid]` | 行动者或利益相关者类型网格 |
 | `[!col-l]` + `[!col-r]` | 父 callout 内两个并列子主题 |
 
+Concept 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 定义 | `[!info]`、`[!def]`、`[!boundary]`、`[!quote]` |
+| 概念辨析 | `[!contrast-table]` |
+| 核心命题 | `[!abstract]`、`[!logic-map]`、`[!line-a]`、`[!line-b]`、`[!finding-cards]`、`[!feature]` |
+| 概念演变 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
+| 理论语境 | `[!logic-map]`、`[!frames-ref]`、`[!quad-grid]`、`[!col-l]` + `[!col-r]` |
+| 实证发现 | `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
+| 争议与批评 | `[!tension]`、`[!warning]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]` |
+| 应用案例 | `[!case]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
+| 关键引用 | `[!citation-card]` |
+
+注意：
+
+- `[!line-a]` + `[!line-b]` 适合概念对或命题与延伸的层级关系；内容简短时改用 `[!finding-cards]`。
+- `[!frames-ref]` 适合 6–12 个固定并列条目；有层级或需要散文延伸时改用 `[!finding-cards]`。
+- `[!dev-timeline]+` 适合有丰富子事件的概念发展；内容少时降级为 `[!timeline]` 或 `[!phase]`。
+- `[!citation-card]` 每节最多 1–2 个，优先集中到页面后部。
+- `[!contrast-table]` 是 `## 概念辨析` 的首选样式。
+
 ---
 
 ## Method and Critique Callouts
