@@ -70,7 +70,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |---------|----------|----------|
 > | `[!line-a]` + `[!line-b]`（嵌套）| 概念对：每项内容≥2句，命题→延伸的层级关系；内容简短时展平为 `[!finding-cards]` | 核心命题 |
 > | `[!finding-cards]` | 3–8条分点，每点1–2行；机制列举、发现清单；点数>8 → 建 `###` 子主题 | 核心命题、实证发现 |
+> | `[!feature]` | 并列特征/属性卡片，`**粗体**` 为有色属性标签 + 描述；蓝图网格背景；2/3/4/5/6+ 项自适应 | 核心命题、核心框架 |
 > | `[!stat-cards]` | 纯数据：数字、百分比、统计量、效应量 | 实证发现、概念发展内嵌 |
+> | `[!formula]` | 单个公式：公式岛居中高亮 + 编号变量注释列表；深靛紫 | 核心命题公式、实证发现 |
+> | `[!formula-set]` | 多公式对比网格，粗体标签 + 公式卡片并排；深靛紫 | 核心框架公式对比 |
 > | `[!quad-grid]` | 恰好4项、权重相当的类型/案例/框架，2×2布局；项数≠4 或各项长度差距大时不用 | 应用案例、理论语境 |
 > | `[!abstract]` | 章节开头的核心主张摘要；核心框架各组块的开头说明 | 核心框架顶层、各子节开头 |
 > | `[!logic-map]` | 因果链、机制图（Mermaid flowchart）；先识别逻辑链再动笔 | 核心框架开头、理论语境 |
@@ -79,6 +82,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | `[!phase]` | 有明确起止年代的历史阶段叙事；需要段落级叙述的单一阶段 | 概念发展内嵌 |
 > | `[!timeline]` | 概念演变的年代里程碑列表；每项一行，无需段落叙事 | 概念演变 |
 > | `[!warning]` | 方法论局限、适用边界、重要例外 | 争议与批评 |
+> | `[!critique]` | 编号批评列表，深海蓝；通用学术批评 | 争议与批评 |
+> | `[!critique-method]` | 方法论/统计错误；METHOD 标签，钢蓝 | 争议与批评 |
+> | `[!critique-logic]` | 逻辑/概念矛盾；LOGIC 标签，紫罗兰 | 争议与批评 |
+> | `[!critique-data]` | 实证/数据反例；DATA 标签，琥珀 | 争议与批评 |
+> | `[!critique-fatal]` | 根本性致命缺陷；FATAL 标签，深红，方形徽章 | 争议与批评 |
 > | `[!nav]` | 阅读导览与导航：告知读者本节组织逻辑或指向相关条目；内容是核心主张摘要时改用 `[!abstract]` | 长节开头或子主题群之间 |
 > | `[!frames-ref]` | 紧凑 2 列参考网格：数量固定的并列条目（框架、原则、要点），6–12 个；条目有层级或需散文延伸时改用 `[!finding-cards]` | 核心框架内固定框架列表 |
 > | `[!dev-timeline]` | 大型分阶段时间轴：斜体摘要 + 琥珀色子事件点（`ul`）+ 详细散文；支持嵌套 callout；`+`/`-` 控制折叠；内容少时降级为 `[!timeline]` | 概念发展（有丰富子事件时）|
@@ -232,6 +240,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!warning] 方法论批评与适用局限
 > - 批评描述，说明批评对象和立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!critique-method] 方法论批评标题
+> - 具体方法论问题描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!critique-logic] 逻辑/概念批评标题
+> - 概念矛盾或推论跳跃的具体描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!critique-data] 实证批评标题
+> - 与主张相悖的数据或研究描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!critique-fatal] 根本性缺陷标题
+> - 无法修补的根本性问题描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
