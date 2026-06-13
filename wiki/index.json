@@ -4434,6 +4434,18 @@
     ]
   },
   {
+    "title": "Emergence",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Emergence.md",
+    "aliases": [
+      "涌现",
+      "emergent properties",
+      "涌现性",
+      "emergent order",
+      "涌现秩序"
+    ]
+  },
+  {
     "title": "Emergent Design",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Emergent Design.md",
@@ -4584,6 +4596,17 @@
       "预测性假设",
       "research hypothesis",
       "hypotheses"
+    ]
+  },
+  {
+    "title": "Incommensurability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Incommensurability.md",
+    "aliases": [
+      "不可通约性",
+      "incommensurable",
+      "范式不可通约性",
+      "paradigm incommensurability"
     ]
   },
   {
@@ -6473,6 +6496,17 @@
     ]
   },
   {
+    "title": "Burrell and Morgan Four Assumptions Framework",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Burrell and Morgan Four Assumptions Framework.md",
+    "aliases": [
+      "伯勒尔和摩根四组假设框架",
+      "Burrell and Morgan framework",
+      "Burrell and Morgan's four assumptions",
+      "四组假设框架"
+    ]
+  },
+  {
     "title": "Capability Approach",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Capability Approach.md",
@@ -7594,6 +7628,15 @@
     ]
   },
   {
+    "title": "Alfred Schutz",
+    "type": "person",
+    "path": "wiki/persons/austria/Alfred Schutz.md",
+    "aliases": [
+      "阿尔弗雷德·舒茨",
+      "Schutz"
+    ]
+  },
+  {
     "title": "Karl Popper",
     "type": "person",
     "path": "wiki/persons/austria/Karl Popper.md",
@@ -7991,6 +8034,16 @@
     "aliases": [
       "Rømer, T. A.",
       "托马斯·奥斯特鲁普·勒默"
+    ]
+  },
+  {
+    "title": "Søren Kierkegaard",
+    "type": "person",
+    "path": "wiki/persons/denmark/Søren Kierkegaard.md",
+    "aliases": [
+      "索伦·克尔凯郭尔",
+      "Kierkegaard",
+      "S. Kierkegaard"
     ]
   },
   {
@@ -8922,6 +8975,16 @@
       "Bandura, A.",
       "阿尔伯特·班杜拉",
       "班杜拉"
+    ]
+  },
+  {
+    "title": "George Herbert Mead",
+    "type": "person",
+    "path": "wiki/persons/usa/George Herbert Mead.md",
+    "aliases": [
+      "乔治·赫伯特·米德",
+      "Mead",
+      "G. H. Mead"
     ]
   },
   {

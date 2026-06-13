@@ -367,7 +367,7 @@ Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990
 
 **(一)存在主义与反[[Scientism|科学主义]]批评**
 
-> [!voice] 克尔凯郭尔(Søren Kierkegaard)
+> [!voice] 克尔凯郭尔([[Søren Kierkegaard]])
 > 这位丹麦哲学家、存在主义起源者之一，关注个体实现自身最高发展水平的需要。他认为客观性是最大的幻觉——它意味着将行为和思想的规则强加于人，将人变为一个旨在发现普遍法则的旁观者。他主张恢复和保持"主观性的能力"(capacity for subjectivity)，即考虑自己与研究对象之间关系的能力。对于克尔凯郭尔，"主观性和真理的具体性一起构成了光。任何献身于科学或规则支配的道德的人，都处于黑暗之中，需要被从中拯救出来"(Warnock, 1970)(pp.423–428)。
 
 > [!voice] 其他批评者
@@ -447,7 +447,7 @@ Douglas (1973)提出了一对关键概念区分(pp.524–531)：
 >
 > Curtis (1978)总结了现象学家的三个共识：(1)相信主观意识的重要性乃至首要性；(2)将意识理解为主动的、意义赋予的；(3)主张意识具有可通过反思直接获得知识的本质结构。
 
-> [!info] 舒茨(Alfred Schutz)的存在现象学
+> [!info] 舒茨([[Alfred Schutz]])的存在现象学
 > 将胡塞尔的思想引入社会学(pp.546–550)。核心关注是理解日常生活世界的意义结构：
 >
 > - **意义的来源** 在"意识流"(stream of consciousness)中——本质上是一股不间断的活经验之流，本身没有意义。人们只能通过**[[Reflexivity|反思性]]**(reflexivity)回顾性地赋予意义
@@ -477,7 +477,7 @@ Douglas (1973)提出了一对关键概念区分(pp.524–531)：
 
 #### 7.3 符号互动论(Symbolic Interactionism)
 
-[[Symbolic Interactionism]]源自米德(George Herbert Mead, 1934)，后经布卢默(Blumer)、休斯(Hughes)、贝克尔(Becker)和戈夫曼(Goffman)发展(pp.562–568)。
+[[Symbolic Interactionism]]源自米德([[George Herbert Mead]], 1934)，后经布卢默(Blumer)、休斯(Hughes)、贝克尔(Becker)和戈夫曼(Goffman)发展(pp.562–568)。
 
 Woods (1979)识别出三个层层递进的基本假设：
 
