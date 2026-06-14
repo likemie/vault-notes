@@ -110,8 +110,8 @@ Argument 页写某篇论文、章节、报告、政策文件或书籍的论证�
 - 逐步拆解论证，不跳过中间环节直接给结论。
 - 抽象理论必须配例子；例子优先来自原文，原文没有时可用简短教育情境说明。
 - `## 论证结构` 顶部可用 Mermaid 图呈现核心逻辑链；图后必须跟 `---` 分割线。
-- `## 论证结构` 内根据论文实际论证方式综合运用多种 callout，例如 `[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]`、`[!logic-map]`。
-- 需要并列线索时使用 `[!line-a]`；需要对比或结构化展示数据时，使用 `[!contrast-table]`、`[!evidence-grid]` 或普通 Markdown 表格。
+- `## 论证结构` 内根据论文实际论证方式综合运用多种 callout，例如 `[!argument-map]`、`[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]`、`[!logic-map]`。
+- 需要并列线索时使用 `[!line-a]`；需要对比或结构化展示数据时，使用 `[!contrast-table]`、`[!evidence-grid]`、`[!ref-table]`、`[!meta-table]` 或普通 Markdown 表格。
 - `## 主要发现` 不超过四点；三点时按两短一长编排，更多细节放入数据卡、证据卡或正文小节。
 - `## 自述局限` 只写原文明确自述的局限、边界条件或未来研究方向，不补写外部批评。
 - Argument 主要任务是如实记录论文内容，不默认设置外部评价性的“讨论与批评”章节。
@@ -212,7 +212,7 @@ Concept 页写一个概念、术语、机制、分类或分析对象。它不是
 - `## 定义` 推荐使用 `[!def]` + `[!concept-lens]` + `[!boundary]`：先给定义，再说明含义、用途和边界。
 - `## 概念辨析` 用于区分相近概念；没有相近概念时可省略。
 - `## 核心要素` 是 Concept 条目的重点，用于拆解概念包含的构成要素、判断标准、条件和边界。
-- `## 核心要素` 可综合使用 `[!feature]`、`[!logic-map]`、`[!taxonomy]`、`[!frames-ref]`、`[!contrast-table]` 等 callout。
+- `## 核心要素` 可综合使用 `[!feature]`、`[!logic-map]`、`[!taxonomy]`、`[!frames-ref]`、`[!contrast-table]`、`[!ref-table]` 等 callout。
 - `## 核心命题` 写围绕该概念形成的可争辩命题，组织机制、条件、结果或分类体系。
 - `## 核心命题` 可综合使用 `[!claim]`、`[!warrant]`、`[!implication]`、`[!line-a]`、`[!finding-cards]` 和 `[!logic-map]`。
 - `## 概念演变` 写接受史、扩展史、领域迁移或概念转向。

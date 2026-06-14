@@ -39,6 +39,7 @@
 | `[!note]-` | 可折叠补充说明 |
 | `[!nav]` | 长节开头的阅读导览 |
 | `[!reading-lens]` | 页面级阅读镜头或样式库导览，主要用于模板说明 |
+| `[!argument-map]` | 页面或章节级论证地图，适合放 Mermaid 或路径表 |
 
 ---
 
@@ -65,6 +66,7 @@
 | `[!voice]` | 边缘声音、访谈引述、立场陈述 |
 | `[!case]` | 独立政策或实证案例 |
 | `[!ref-table]` | 参考速查表，适合地区、案例或指标一览 |
+| `[!meta-table]` | 5 列元分析或研究综述表，适合“研究 / 是否纳入 / N / 效应量 / 结论” |
 
 Argument 页面常用位置：
 
@@ -73,8 +75,8 @@ Argument 页面常用位置：
 | 研究问题 | `[!question]`、`[!stat-cards]` |
 | 理论框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]`、`[!warrant]` |
 | 研究方法 | `[!method-panel]`、`[!sample-panel]` |
-| 论证结构 | 按论文实际论证综合使用 `[!logic-map]`、`[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]` |
-| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]` |
+| 论证结构 | 按论文实际论证综合使用 `[!argument-map]`、`[!logic-map]`、`[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]` |
+| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]`、`[!meta-table]` |
 | 自述局限 | `[!warning]` |
 | 关键引用 | `[!citation-card]` |
 
@@ -88,6 +90,29 @@ Argument 页面常用位置：
 - `[!claim]` 必须写可争辩判断，不写材料描述。
 - `[!warrant]` 必须解释“为什么证据能支持主张”，不重复证据。
 - `[!implication]` 用于收束意义，避免把所有延伸讨论塞进主要发现。
+
+---
+
+## Table Callouts
+
+| Callout | 适合内容 | 表格结构 |
+|---|---|---|
+| `[!framework-table]` | 理论镜头、概念工具箱、分析维度 | 通常 2 列：工具 / 用法 |
+| `[!method-panel]` | 研究设计、材料处理、分析策略 | 通常 2 列：环节 / 说明 |
+| `[!sample-panel]` | 样本构成、材料快照、访谈信息 | 通常 2 列：维度 / 信息 |
+| `[!contrast-table]` | 概念辨析、案例对比、理论路径对比 | 2–4 列，多维比较 |
+| `[!evidence-grid]` | 多项证据、指标或发现一览 | 列表或表格均可 |
+| `[!ref-table]` | 地区、案例、指标、文献速查 | 通常 3 列：对象 / 说明 / 来源 |
+| `[!meta-table]` | 元分析、系统综述、研究纳入表 | 固定 5 列：研究 / 纳入 / N / d / 结论 |
+| `[!chain-link]` | 证据到结论的链节 | 可用 2–3 列拆“证据 / 推理 / 结论” |
+| `[!line-a]` | 并列线索中的结构化材料 | 可用短表格承载单条线索 |
+
+注意：
+
+- 表格型 callout 只在“维度清楚、列名稳定”时使用；否则优先用普通列表或散文。
+- `[!ref-table]` 用于查阅，不承担论证推进；`[!contrast-table]` 用于比较，必须有明确比较维度。
+- `[!meta-table]` 是 5 列专用样式，不要挪作普通参考表。
+- Concept 的 `## 实证发现` 和 `## 应用案例` 默认仍是一句话索引；只有需要横向比较时才升级为表格型 callout。
 
 ---
 
@@ -120,12 +145,12 @@ Concept 页面常用位置：
 | 位置 | 推荐 callout |
 |---|---|
 | 定义 | `[!def]`、`[!concept-lens]`、`[!boundary]`、`[!quote]` |
-| 概念辨析 | `[!contrast-table]` |
-| 核心要素 | `[!feature]`、`[!logic-map]`、`[!taxonomy]`、`[!frames-ref]`、`[!contrast-table]` |
+| 概念辨析 | `[!contrast-table]`、`[!ref-table]` |
+| 核心要素 | `[!feature]`、`[!logic-map]`、`[!taxonomy]`、`[!frames-ref]`、`[!contrast-table]`、`[!ref-table]` |
 | 核心命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!line-a]`、`[!logic-map]`、`[!finding-cards]` |
 | 概念演变 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
 | 理论语境 | `[!logic-map]`、`[!frames-ref]`、`[!quad-grid]`、`[!col-l]` + `[!col-r]` |
-| 实证发现 | 默认用 `[!evidence-grid-a]` 承载一句话索引；材料丰富时可选 `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-b]` |
+| 实证发现 | 默认用 `[!evidence-grid-a]` 承载一句话索引；材料丰富时可选 `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-b]`、`[!meta-table]` |
 | 争议与批评 | 根据实际材料选用 `[!tension]`、`[!warning]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]` |
 | 应用案例 | 默认用 `[!case]` 承载一句话索引；材料丰富时可选 `[!evidence-grid-a]`、`[!evidence-grid-b]` |
 | 关键引用 | `[!citation-card]` |

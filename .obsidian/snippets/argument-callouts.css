@@ -3109,14 +3109,16 @@
   width: 100%;
   border-collapse: collapse;
   margin: 0;
-  font-size: 0.895em;
-  table-layout: auto;
+  table-layout: fixed;
 }
 
-/* 列宽提示：第一列窄、第二列宽、第三列中 */
-.callout[data-callout="ref-table"] col:nth-child(1) { width: 18%; }
-.callout[data-callout="ref-table"] col:nth-child(2) { width: 50%; }
-.callout[data-callout="ref-table"] col:nth-child(3) { width: 32%; }
+/* 列宽：直接设在 th/td 上，绕开 Obsidian 不支持 col 元素的问题 */
+.callout[data-callout="ref-table"] th:nth-child(1),
+.callout[data-callout="ref-table"] td:nth-child(1) { width: 28%; font-size: 0.88em; }
+.callout[data-callout="ref-table"] th:nth-child(2),
+.callout[data-callout="ref-table"] td:nth-child(2) { width: 34%; font-size: 0.88em; }
+.callout[data-callout="ref-table"] th:nth-child(3),
+.callout[data-callout="ref-table"] td:nth-child(3) { width: 38%; font-size: 0.88em; }
 
 /* ── 表头 ── */
 .callout[data-callout="ref-table"] thead th {
@@ -3137,6 +3139,8 @@
   border-bottom: 1px solid rgba(var(--mono-rgb-100, 0,0,0), 0.06);
   vertical-align: top;
   line-height: 1.6;
+  word-break: break-word;
+  overflow-wrap: anywhere;
   transition: background 0.12s ease;
 }
 
@@ -3145,7 +3149,9 @@
   font-weight: 600;
   color: var(--text-normal);
   border-right: 1px solid rgba(45, 100, 160, 0.10);
-  white-space: nowrap;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 /* 末行无底线 */
