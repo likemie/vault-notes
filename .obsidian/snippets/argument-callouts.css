@@ -5417,6 +5417,175 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   METHOD-POSITION — 方法定位四格
+   固定 2×2：知识观 / 研究者角色 / 有效性标准 / 不声称回答的问题
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="method-position"] {
+  --callout-color: 70, 118, 158;
+  --callout-icon: lucide-compass;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 96% 12%, rgba(var(--callout-color), 0.13), transparent 34%),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.10), transparent 44%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="method-position"] > .callout-title,
+.callout[data-callout="method-stack"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="method-position"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="method-stack"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="method-position"] > .callout-title .callout-title-inner::before {
+  content: "POSITION";
+}
+
+.callout[data-callout="method-position"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-areas:
+    "knowledge role"
+    "validity boundary";
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="method-position"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.78rem 0.86rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
+    color-mix(in srgb, var(--background-primary) 91%, rgb(var(--callout-color)) 9%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(1) { grid-area: knowledge; }
+.callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(2) { grid-area: role; }
+.callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(3) { grid-area: validity; }
+.callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(4) { grid-area: boundary; }
+
+.callout[data-callout="method-position"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="method-stack"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   METHOD-STACK — 方法层级纵向栈
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="method-stack"] {
+  --callout-color: 72, 132, 118;
+  --callout-icon: lucide-layers-3;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.10), transparent 42%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="method-stack"] > .callout-title .callout-title-inner::before {
+  content: "STACK";
+}
+
+.callout[data-callout="method-stack"] > .callout-content > ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0.35rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="method-stack"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.72rem 0.85rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="method-stack"] > .callout-content > ul > li > ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.45rem;
+  margin: 0.45rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="method-stack"] > .callout-content > ul > li > ul > li {
+  margin: 0;
+  padding: 0.18rem 0.48rem;
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  line-height: 1.45;
+}
+
+.callout[data-callout="method-stack"] a.internal-link {
+  font-weight: 650;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="method-position"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "knowledge"
+      "role"
+      "validity"
+      "boundary";
+  }
+}
+
+.theme-dark .callout[data-callout="method-position"] {
+  --callout-color: 126, 170, 212;
+}
+
+.theme-dark .callout[data-callout="method-stack"] {
+  --callout-color: 110, 188, 168;
+}
+
+.theme-dark .callout[data-callout="method-position"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="method-stack"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
    用途：McKnight 式长散文段落批评列表（点间需清晰分割）
    颜色：酒红 rgb(138, 52, 78)

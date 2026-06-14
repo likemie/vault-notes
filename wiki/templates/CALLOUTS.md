@@ -198,7 +198,7 @@ Method 页面常用位置：
 | 认识论立场 | `[!method-position]`、`[!assumptions]`、`[!axioms]` |
 | 方法层级 | `[!method-stack]`、`[!method-panel]` |
 | 研究程序 | `[!proc]`、`[!formula-step]`、`[!method-panel]` |
-| 资料与分析 | `[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]`、`[!math-principle]`、`[!result-reading]`、`[!software-impl]` |
+| 资料与分析 | `[!method-stack]`、`[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]`、`[!math-principle]`、`[!result-reading]`、`[!software-impl]` |
 | 适用场景 | `[!method-fit]`、`[!decisions]`、`[!pathways]` |
 | 局限性 | `[!method-limits]`、`[!critique-method]`、`[!warning]` |
 | 相关理论 | `[!frames-ref]`、`[!ref-table]` |
@@ -209,6 +209,7 @@ Method 页面常用位置：
 - Method 的 `## 定义` 优先用 `[!method-scope]` 固定四格，避免把方法对象、问题类型、分析单位和输出形式混写在同一段。
 - Method 的 `## 方法定位` 优先用 `[!method-position]`，方法层级优先用 `[!method-stack]`。相关方法链接不要挤在表格单元格里，优先写成子列表。
 - Method 的 `## 适用场景` 优先用 `[!method-fit]` 固定三格，分别写适合使用、谨慎使用和不适合使用。
+- Method 默认少用表格。只有需要横向比较、指标清单或固定列结构时才用 `[!method-panel]`、`[!ref-table]` 或普通表格；普通说明优先用 `[!method-stack]` 或散文。
 - 量化 Method 面向新手时，优先使用“流程总览 + 多个 `[!formula-step]`”的结构。每个公式步骤只解释一个核心公式，并紧接数学原理和结果读法。
 - `[!formula-step]` 固定顺序为：公式 → 这个公式在做什么 → 数学直觉 → 嵌套 `[!result-reading]` → 嵌套 `[!method-limits]` 或 `[!warning]`。不要把 4 个以上公式塞进一张大表。
 - `[!formula]` 适合一个独立核心公式，公式下方可放简短符号说明；`[!formula-set]` 只作为多公式链总览，优先用 Mermaid 流程图，不替代逐个公式解释。
