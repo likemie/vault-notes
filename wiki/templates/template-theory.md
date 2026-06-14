@@ -24,95 +24,134 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 3. Then use this template.
 %%
 
-%% Theory 页写可作为理论框架、解释机制或分析视角的理论、模型或框架。具体字段、引用、写入和 callout 规则见 TEMPLATE-SPEC.md 与 CALLOUTS.md；正式条目不得保留这些说明注释。 %%
+%% Theory 页写可作为理论框架、解释机制或分析视角的理论、模型、框架或范式。正式条目必须删除所有模板说明注释；资料不足的章节可删。 %%
 
-%% TEMPLATE BODY: 生成正式条目时删除所有模板说明注释。 %%
 ---
 
-## 核心主张
+## 理论定位
+
+> [!theory-position] 理论定位
+> - **解释对象**：该理论主要解释什么现象、关系、机制或问题。
+> - **理论问题**：它回应什么经典争论、经验谜题、政策问题或方法论困境。
+> - **理论类型**：说明它更像宏观理论、中层理论、机制模型、分析框架、规范理论还是方法论框架。
+> - **知识位置**：说明它所属的学科传统、范式、代表人物或关键文本。
 
 > [!claim] 核心主张
-> 理论的基本立场、解释对象和核心问题，附 Argument citation。
-
-> [!concept-lens]- 理论透镜
-> - **解释对象**：该理论主要解释什么现象。
-> - **核心机制**：该理论认为关键机制是什么。
-> - **适用边界**：该理论在哪些情境下更有解释力。
+> 用一段话概括该理论最核心、最可争辩、最能组织后续内容的主张。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!citation-card]- 关键表述
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
 > Original text or English translation.
 
 ---
 
-## 核心命题
+## 核心命题与机制
 
-> [!finding-cards] 核心命题
-> - **基本前提**：说明理论如何界定行动者、制度、知识或社会关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **解释机制**：说明理论认为现象如何发生、维持或变化。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **结果判断**：说明该理论通常推出什么解释或预测。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!proposition-chain] 命题链
+> - **前提一**：该理论如何界定行动者、制度、知识、心理过程、权力关系或社会结构。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   > [!warrant]- 为什么这个前提重要
+>   > 说明该前提如何支撑后续机制，而不是重复定义。
+> - **前提二**：该理论还依赖什么关键条件、分类或假设。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **机制**：该理论认为现象如何发生、维持、变化或失效。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **结果判断**：该理论通常推出什么解释、预测、批评或规范判断。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!logic-map]- 命题关系
+> [!mechanism-map]- 机制图
 > ```mermaid
 > flowchart LR
->   A["前提"] --> B["机制"]
->   B --> C["结果"]
+>   A["理论前提"] --> B["关键机制"]
+>   B --> C["中介条件"]
+>   C --> D["解释结果"]
+>   C -.边界条件.-> E["可能失效"]
 > ```
+
+%% 抽象理论必须配例子。例子可以来自原文，也可以是简短教育情境；不要只堆概念名。 %%
+
+> [!exegesis]- 教育研究例子
+> 用一个具体教育情境说明这条命题链如何工作。例子必须帮助读者理解理论机制，不写成泛泛应用。
+
+---
+
+## 关键概念与理论构件
+
+> [!theory-components] 理论构件
+> - **[[Concept]]**：该概念在理论中承担什么功能，例如定义对象、区分类型、连接机制或提供评价标准。
+> - **[[Concept]]**：说明它与其他构件的关系。
+> - **[[Method]]**：如该理论隐含特定研究方法、测量方式或解释程序，说明其角色。
+
+%% 理论构件不是相关条目列表。只写没有它就无法理解该理论的核心概念、机制、分类或方法。 %%
+
+---
+
+## 认识论与方法含义
+
+> [!theory-stance] 认识论与方法含义
+> - **本体论**：该理论如何理解社会、心智、制度、知识、文化或行动者。
+> - **认识论**：该理论如何理解证据、解释、因果、意义或批判。
+> - **方法含义**：它通常支持或要求什么研究设计、材料类型、测量方式或解释策略。
+> - **不能直接推出的东西**：说明该理论不能自动证明什么，例如因果效果、普遍规律、规范正当性或个体心理状态。
+
+---
+
+## 分析框架与使用方式
+
+> [!theory-use] 如何用于研究
+> - **作为理论框架**：说明它如何组织研究问题、变量、概念或解释路径。
+> - **作为分析工具**：说明它如何转化为分析维度、编码框架、机制识别、案例比较或模型设定。
+> - **作为批判视角**：说明它如何揭示盲点、权力关系、规范预设、测量风险或政策后果。
+> - **报告方式**：说明写作时应如何呈现该理论与证据之间的关系。
+
+> [!logic-map]- 分析流程图
+> ```mermaid
+> flowchart LR
+>   Q["研究问题"] --> L["理论镜头"]
+>   L --> O["观察对象"]
+>   O --> E["证据材料"]
+>   E --> I["解释或批判"]
+> ```
+
+---
+
+## 适用边界
+
+> [!theory-boundary] 适用边界
+> - **适合解释**：哪些现象、尺度、材料或问题类型更适合用该理论。
+> - **谨慎使用**：哪些情境需要补充理论、额外证据或方法检查。
+> - **不适合解释**：哪些问题不应由该理论直接回答。
+> - **常见误用**：说明新手最容易怎样误读、过度推广或把理论当作结论。
 
 ---
 
 ## 发展脉络
 
-> [!timeline] 发展脉络
-> - YYYY [[Person, A. A.]] 提出关键问题或概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - YYYY 理论被用于新的教育议题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
----
-
-## 认识论立场
-
-> [!assumptions] 理论前提
-> - **本体论**：简述该理论如何理解社会、制度或行动者。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **认识论**：简述该理论如何理解知识和证据。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **方法论含义**：常用研究方法，如 [[质性研究]]、[[民族志]]。
-
----
-
-## 分析框架
-
-> [!framework-table] 分析框架
-> 只有资料足够时写。说明该理论如何转化为分析维度、变量、机制或解释路径。
-> | 维度 | 用法 |
-> |---|---|
-> | 分析对象 | 该理论通常观察什么对象。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
-> | 关键机制 | 如何识别机制或关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
-> | 经验指标 | 可观察材料、变量或文本线索。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
+> [!dev-timeline] 发展脉络
+> - **YYYY — 起点或经典文本**：提出关键问题、概念或理论命题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **YYYY-YYYY — 扩展阶段**：理论被修正、扩展、迁移或制度化。
+> - **YYYY — 教育研究应用**：说明该理论如何进入教育研究、政策研究或方法论讨论。
 
 ---
 
 ## 争议与批评
 
-%% 根据实际材料选用 tension、critique-*、contrast-table；没有充分材料时可删除本节。 %%
-
-> [!tension] 理论争议
-> 按批评立场组织，说明批评针对理论前提、解释范围、方法论还是政治立场。
-> - **立场 A**：观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场 B**：观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!tension] 争议焦点
+> - **理论前提争议**：批评者质疑哪些本体论、认识论或规范前提。
+> - **解释范围争议**：该理论是否过度推广、忽视条件、不能解释反例。
+> - **方法转化争议**：该理论用于经验研究时是否难以操作化、测量或验证。
+> - **政治／规范争议**：该理论是否隐含特定价值立场、权力效果或政策后果。
 
 > [!critique] 批评索引
-> - 批评描述，附立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评、修正或限制该理论。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> 链接到以此理论为框架的 Argument，并用一句话说明该研究如何使用理论。
-> - [[Argument_Thomas_2000_RER]] — 使用该理论解释课程改革中的教师实践。
+> - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何使用、检验、修正或批评该理论。
 
 ---
 
 ## 应用领域
 
 > [!case] 应用领域索引
-> - [[项目式学习]] — 一句话说明该理论如何支持该领域的研究或实践。
+> - [[Concept]] / [[Fact]] / [[Method]] — 一句话说明该理论如何支持该领域的研究、实践或批判。

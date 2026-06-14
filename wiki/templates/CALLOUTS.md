@@ -142,6 +142,13 @@ Argument 页面常用位置：
 | `[!quad-grid]` | 恰好 4 项且权重相当的类型、案例或框架 |
 | `[!actor-grid]` | 行动者或利益相关者类型网格 |
 | `[!col-l]` + `[!col-r]` | 父 callout 内两个并列子主题 |
+| `[!theory-position]` | 理论定位四格，固定写解释对象、理论问题、理论类型和知识位置 |
+| `[!proposition-chain]` | 核心命题链，按前提、机制、条件和结果判断组织理论推理 |
+| `[!mechanism-map]` | 理论机制图，优先放 Mermaid 或短机制链，不替代逐条命题解释 |
+| `[!theory-components]` | 理论构件，说明关键概念、分类、机制或方法在理论中的功能 |
+| `[!theory-stance]` | 认识论与方法含义，说明本体论、认识论、方法含义和不能推出的东西 |
+| `[!theory-use]` | 理论使用方式，说明如何作为框架、工具、批判视角和报告逻辑 |
+| `[!theory-boundary]` | 理论适用边界，固定写适合、谨慎、不适合和常见误用 |
 
 Concept 页面常用位置：
 
@@ -222,14 +229,26 @@ Theory 页面常用位置：
 
 | 位置 | 推荐 callout |
 |---|---|
-| 核心主张 | `[!claim]`、`[!concept-lens]`、`[!citation-card]` |
-| 核心命题 | `[!finding-cards]`、`[!claim]`、`[!warrant]`、`[!logic-map]` |
+| 理论定位 | `[!theory-position]`、`[!claim]`、`[!citation-card]` |
+| 核心命题与机制 | `[!proposition-chain]`、`[!mechanism-map]`、`[!warrant]`、`[!exegesis]` |
+| 关键概念与理论构件 | `[!theory-components]`、`[!frames-ref]`、`[!taxonomy]` |
+| 认识论与方法含义 | `[!theory-stance]`、`[!assumptions]`、`[!axioms]` |
+| 分析框架与使用方式 | `[!theory-use]`、`[!logic-map]`、`[!frames-ref]` |
+| 适用边界 | `[!theory-boundary]`、`[!boundary]`、`[!decisions]` |
 | 发展脉络 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
-| 认识论立场 | `[!assumptions]`、`[!axioms]` |
-| 分析框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]` |
 | 争议与批评 | `[!tension]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]` |
 | 相关研究 | 默认用 `[!evidence-grid-a]` 承载一句话索引 |
 | 应用领域 | 默认用 `[!case]` 承载一句话索引 |
+
+注意：
+
+- Theory 默认少用大表格。理论构件、命题链和使用方式优先用专用 callout；只有比较多个理论、分类稳定或需要速查时才使用 `[!contrast-table]`、`[!framework-table]` 或普通表格。
+- `[!theory-position]` 是入口模块，不写成文献背景；它只回答理论解释什么、回应什么问题、属于什么理论类型、站在哪个知识传统中。
+- `[!proposition-chain]` 必须有推理方向，不能只是核心观点列表。命题之间应能读出“前提 → 机制 → 条件 → 结果”的关系。
+- `[!mechanism-map]` 只放机制总览，优先用 Mermaid 图；图后仍要用 `[!proposition-chain]` 或散文解释关键命题。
+- `[!theory-components]` 不是相关条目列表。每个链接都要说明它在理论中承担定义、分类、机制、证据或方法功能。
+- `[!theory-stance]` 必须写“不能直接推出的东西”，防止把理论主张误写成因果证明、普遍规律或规范结论。
+- `[!theory-boundary]` 用于集中提醒适用边界和常见误用，尤其适合学习科学、政策理论、批判理论和方法论框架。
 
 ---
 

@@ -5226,6 +5226,293 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   THEORY CALLOUTS — 理论定位、命题链、机制、构件、边界
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="theory-position"],
+.callout[data-callout="proposition-chain"],
+.callout[data-callout="mechanism-map"],
+.callout[data-callout="theory-components"],
+.callout[data-callout="theory-stance"],
+.callout[data-callout="theory-use"],
+.callout[data-callout="theory-boundary"] {
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.10), transparent 42%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="theory-position"] {
+  --callout-color: 80, 104, 158;
+  --callout-icon: lucide-compass;
+}
+
+.callout[data-callout="proposition-chain"] {
+  --callout-color: 122, 82, 142;
+  --callout-icon: lucide-list-tree;
+}
+
+.callout[data-callout="mechanism-map"] {
+  --callout-color: 58, 126, 132;
+  --callout-icon: lucide-git-branch;
+}
+
+.callout[data-callout="theory-components"] {
+  --callout-color: 126, 104, 58;
+  --callout-icon: lucide-blocks;
+}
+
+.callout[data-callout="theory-stance"] {
+  --callout-color: 84, 126, 104;
+  --callout-icon: lucide-scale;
+}
+
+.callout[data-callout="theory-use"] {
+  --callout-color: 62, 112, 150;
+  --callout-icon: lucide-route;
+}
+
+.callout[data-callout="theory-boundary"] {
+  --callout-color: 150, 86, 86;
+  --callout-icon: lucide-shield-alert;
+}
+
+.callout[data-callout="theory-position"] > .callout-title,
+.callout[data-callout="proposition-chain"] > .callout-title,
+.callout[data-callout="mechanism-map"] > .callout-title,
+.callout[data-callout="theory-components"] > .callout-title,
+.callout[data-callout="theory-stance"] > .callout-title,
+.callout[data-callout="theory-use"] > .callout-title,
+.callout[data-callout="theory-boundary"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="theory-position"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="proposition-chain"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="mechanism-map"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="theory-components"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="theory-stance"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="theory-use"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="theory-boundary"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="theory-position"] > .callout-title .callout-title-inner::before {
+  content: "POSITION";
+}
+
+.callout[data-callout="proposition-chain"] > .callout-title .callout-title-inner::before {
+  content: "CHAIN";
+}
+
+.callout[data-callout="mechanism-map"] > .callout-title .callout-title-inner::before {
+  content: "MECHANISM";
+}
+
+.callout[data-callout="theory-components"] > .callout-title .callout-title-inner::before {
+  content: "PARTS";
+}
+
+.callout[data-callout="theory-stance"] > .callout-title .callout-title-inner::before {
+  content: "STANCE";
+}
+
+.callout[data-callout="theory-use"] > .callout-title .callout-title-inner::before {
+  content: "USE";
+}
+
+.callout[data-callout="theory-boundary"] > .callout-title .callout-title-inner::before {
+  content: "BOUNDARY";
+}
+
+.callout[data-callout="theory-position"] > .callout-content,
+.callout[data-callout="theory-components"] > .callout-content,
+.callout[data-callout="theory-stance"] > .callout-content,
+.callout[data-callout="theory-use"] > .callout-content,
+.callout[data-callout="theory-boundary"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="theory-position"] > .callout-content > ul,
+.callout[data-callout="theory-stance"] > .callout-content > ul,
+.callout[data-callout="theory-use"] > .callout-content > ul,
+.callout[data-callout="theory-boundary"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="theory-position"] > .callout-content > ul > li,
+.callout[data-callout="theory-components"] > .callout-content > ul > li,
+.callout[data-callout="theory-stance"] > .callout-content > ul > li,
+.callout[data-callout="theory-use"] > .callout-content > ul > li,
+.callout[data-callout="theory-boundary"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.72rem 0.85rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="theory-position"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="theory-components"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="theory-stance"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="theory-use"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="theory-boundary"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content {
+  padding: 0.8rem 1rem 0.95rem;
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content > ul {
+  position: relative;
+  display: grid;
+  gap: 0.58rem;
+  margin: 0;
+  padding: 0 0 0 1.15rem;
+  list-style: none;
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  top: 0.4rem;
+  bottom: 0.4rem;
+  left: 0.28rem;
+  width: 2px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.24);
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li {
+  position: relative;
+  margin: 0;
+  padding: 0.7rem 0.82rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0.95rem;
+  left: -1.03rem;
+  width: 0.56rem;
+  height: 0.56rem;
+  border: 2px solid rgb(var(--callout-color));
+  border-radius: 50%;
+  background: var(--background-primary);
+}
+
+.callout[data-callout="proposition-chain"] .callout[data-callout="warrant"] {
+  margin-top: 0.55rem;
+  margin-bottom: 0;
+}
+
+.callout[data-callout="mechanism-map"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="mechanism-map"] .mermaid,
+.callout[data-callout="mechanism-map"] pre {
+  margin: 0.35rem 0 0;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+}
+
+.callout[data-callout="theory-components"] > .callout-content > ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="theory-components"] a.internal-link {
+  font-weight: 650;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="theory-position"] > .callout-content > ul,
+  .callout[data-callout="theory-stance"] > .callout-content > ul,
+  .callout[data-callout="theory-use"] > .callout-content > ul,
+  .callout[data-callout="theory-boundary"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="theory-position"] {
+  --callout-color: 140, 164, 226;
+}
+
+.theme-dark .callout[data-callout="proposition-chain"] {
+  --callout-color: 184, 140, 210;
+}
+
+.theme-dark .callout[data-callout="mechanism-map"] {
+  --callout-color: 112, 190, 196;
+}
+
+.theme-dark .callout[data-callout="theory-components"] {
+  --callout-color: 196, 170, 104;
+}
+
+.theme-dark .callout[data-callout="theory-stance"] {
+  --callout-color: 130, 190, 154;
+}
+
+.theme-dark .callout[data-callout="theory-use"] {
+  --callout-color: 118, 172, 214;
+}
+
+.theme-dark .callout[data-callout="theory-boundary"] {
+  --callout-color: 218, 132, 132;
+}
+
+.theme-dark .callout[data-callout="theory-position"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="proposition-chain"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="theory-components"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="theory-stance"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="theory-use"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="theory-boundary"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    METHOD-SCOPE — 方法范围四格
    固定 2×2：研究对象 / 问题类型 / 分析单位 / 输出形式
    ═══════════════════════════════════════════════════════════ */
