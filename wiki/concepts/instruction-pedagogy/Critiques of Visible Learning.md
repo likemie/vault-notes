@@ -1061,65 +1061,59 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]从文化政治视角提出七点系统批评：
 
 > [!critique]- McKnight & Whitburn (2020) 文化政治七点批评
-> **1. VL 承载政治包袱**
-> - "可见的学习"在新自由主义语境中并非中性选择。视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975）
-> - 暗示教师和学生是全能的行动者、命运在自己手中，否定了国家强制课程、测试制度、排名表等的多重暴力([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
-> - 创造了多层监控文化：教师监控学生、家长监控教师、校长监控教师、学者监控教师、国家监控教师、国家监控学者——"科学凌驾于社会科学之上"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
-> - 教师被保持在"[[Ontology|本体论]]上不安全"的状态（Ball, 2003, p.220），从而被去政治化
-> - 专业性变成了服从的表演（McKnight, 2016）
-> - Springer（2016）的新自由主义分析四问被应用于 VL：什么在 VL 周围凝结？VL 的暴力是什么？资本如何流动？抵抗在哪里？([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
->
-> **2. VL 模拟色情片逻辑**
-> - VL 被一位单一的、上帝般的男性权威主导（Hattie），痴迷于"射精式的结果"（ejaculatory outcomes），否认对此类新自由主义痴迷的批评（Connell, 2013; Eisner, 2017; Grumet, 1988）
-> - 在以女性为主的职业中，教师服从于异性恋规范、性别歧视和能力主义的建构（Apple, 1986/2013）
-> - 看与被看历史上是男性的领域（Berger, 1972），女性被定位为男性凝视的对象（Mulvey, 1975）
-> - 教育的色情化通过为决定性的男性化凝视生产可见证据而实现——痴迷于在短时间内可被看见和知晓的东西([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])
-> - "pornography"源自希腊语 *pornographos*，意为对女性奴隶的视觉描绘以供他人愉悦（Harper, 2018）
-> - 新自由主义教育中的"金钱镜头"（money shots）是国家测试结果或在线发布的排名表；在课堂中意味着获取更好的分数，而非例如接纳一个曾被排斥的学生（后者不易量化和记录）([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])
-> - McKnight & Whitburn 将青少年色情自查问题改编为数据成瘾自查："你是否发现自己寻找越来越极端的数据？曾经令你震惊的数据现在似乎很平常？"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]])
-> - 将数据量与洞察力混淆（Kitchin, 2014），成瘾在加剧：800 项[[Meta-analysis|元分析]]仍不够([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]])
->
-> **3. VL 拒绝对话**
-> - VL 崇拜不是关于教师和学生，而是关于 VL 品牌本身。它不容辩论，被商标和专有符号所固化和束缚([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37]])
-> - 将教师知识从原始研究中提取出来，作为外部专家建议返还给教师，将教师定位为自身教学法的顺从消费者([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37]])
-> - VL 的教师-客户被建构为知识匮乏、自主权被限制在铁一般的"研究验证"数据之内、对学业成绩负全部责任——仿佛没有其他因素在起作用([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37]])
-> - 经典的民主专业主义（Locke, 2015; Sachs, 2003）关乎专长、自主和利他——VL 颠覆了这些概念
-> - 教师被禁止在 VL 培训中分享自己的故事和课堂经验（Hattie, in Knudsen, 2017, p.254）
->
-> **4. VL 忽视关怀伦理**
-> - VL 将对社区和他人的关怀伦理推入女性化和贬值的地位。爱、同僚情谊、慷慨——这些难以测量和货币化([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
-> - Noddings（1986）的问题"这对我们正在努力建立的关怀社区会有什么影响？"被 VL 边缘化
-> - VL 将知识的中心从课堂和学校转移到大学和学者手中；Hattie 没有突出他从合作教师那里学到了什么([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
-> - 最具渗透力的权力属于那些能进行元分析和[[Randomised Controlled Trials|随机对照试验]]的人——这不是教师知识或学生知识
-> - "忠实"（fidelity）对 Noddings（1986）而言意味着对学生的忠诚，但 VL 将其重新定义为对外部概念的忠诚
->
-> **5. VL 接近法西斯主义**
-> - 单一教义是否应该统治教师、课堂和学校？VL 的专业学习项目是否包含对 VL 的批评？未发现任何[[Reflexivity|反思性]]的证据([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
-> - VL 是极权主义"有组织的遗忘"（Kundera, 1981）的一部分——方便地忘记其做法原本就是教师的做法
-> - 忽视了 Foucault（1975/1995）的警告：可见性是一个陷阱，"将规训渗透到最微小的细节中"是危险的（p.200）
-> - Pinar（2011）警告：如果教师"不加理解地"应用课程，"只有景观，即我们时代的法西斯主义"（p.214，引自 McKnight & Whitburn, 2020, p.39）
-> - VL 在 Gramsci 意义上是景观式的霸权性的：教师可见地默许一个规训制度
-> - 在新自由主义坚持"专业教师即服从教师"的压力下，职前教师被要求在进入教室后立即走向白板张贴学习意图；学校管理层禁止以任何其他方式开始上课（McKnight, 2016）
-> - VL 作为隐喻旨在殖民教师的"表演性教学想象"（performative pedagogical imagination），使教师"看见"自己以特定方式教学（McKnight, 2016）
-> - 教师在一个女性化的职业中被煽动"将自己生产为凝视的对象"（Walkerdine & Ringrose, 2006, p.37）
->
-> **6. VL 过度简化**
-> - 尽管有复杂的[[Effect Size|效应量]]、方程和数字，VL 最终是一个过于简单的咒语
-> - 假设教师能看到学生所看到的——这既是能力主义的也是性别歧视的（基于男性化视觉），同时也是傲慢的([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39]])
-> - 将成长仅定义为"达到下一个水平"（Hattie, in Waack, 2018）——窄化了成功的潜在含义
-> - VL 诞生于 Brexit 和 Donald Trump 时代——民粹主义、能力主义、沙文主义和排外主义上升的时代——这些运动以对被视为外来的或他者的事物的侵略性和敌意政策为特征([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39]])
-> - "Impact"一词（VL 的核心关注）意为"有力的接触"（Merriam-Webster, 2018），剑桥和牛津词典均以子弹和炮弹为例说明
-> - "Know thy impact"带有圣经式语气，是在[[Post-structuralism|后结构主义]]和后现代对知识的质疑之后对确定性的加固——当确定性即将消融时的支撑([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40]])
-> - 眼睛将其不足隐藏在傲慢背后，坚持看是唯一的方式；眼睛需要好斗，因为它本质上是由玻璃体冻胶构成的([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40-41]])
-> - [[Positivism|实证主义]]科学研究的纪律只是另一种虚构，众多研究叙事之一([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
->
-> **7. VL 基于能力主义假设**
-> - VL 坚持"只有可见的才重要"，对人们应具备何种能力才能被视为成功和被纳入做出了规范性和能力主义的假设([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
-> - 能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（Campbell, 2009, p.8）
-> - 在 VL 中，通过视觉感知的能力是被正常化的区域，而通过其他方式感知则在本体论和[[Epistemology|认识论]]上被抹除
-> - 有视觉障碍的教师或学生通过缺乏视力被建构，不可避免地遭受排斥——这种对公平的"影响"并未被计入 VL 的效应量
-> - 视觉长期以来承载着作为意识的定义性和统治性能力的粗暴声誉；对视觉傲慢假设的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979）
-> - 包容性教育理论已展示排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）
+> 1. VL 承载政治包袱
+>    - "可见的学习"在新自由主义语境中并非中性选择。视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975）
+>    - 暗示教师和学生是全能的行动者、命运在自己手中，否定了国家强制课程、测试制度、排名表等的多重暴力([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
+>    - 创造了多层监控文化：教师监控学生、家长监控教师、校长监控教师、学者监控教师、国家监控教师、国家监控学者——"科学凌驾于社会科学之上"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
+>    - 教师被保持在"[[Ontology|本体论]]上不安全"的状态（Ball, 2003, p.220），从而被去政治化
+>    - 专业性变成了服从的表演（McKnight, 2016）
+>    - Springer（2016）的新自由主义分析四问被应用于 VL：什么在 VL 周围凝结？VL 的暴力是什么？资本如何流动？抵抗在哪里？([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
+> 2. VL 模拟色情片逻辑
+>    - VL 被一位单一的、上帝般的男性权威主导（Hattie），痴迷于"射精式的结果"（ejaculatory outcomes），否认对此类新自由主义痴迷的批评（Connell, 2013; Eisner, 2017; Grumet, 1988）
+>    - 在以女性为主的职业中，教师服从于异性恋规范、性别歧视和能力主义的建构（Apple, 1986/2013）
+>    - 看与被看历史上是男性的领域（Berger, 1972），女性被定位为男性凝视的对象（Mulvey, 1975）
+>    - 教育的色情化通过为决定性的男性化凝视生产可见证据而实现——痴迷于在短时间内可被看见和知晓的东西([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])
+>    - "pornography"源自希腊语 *pornographos*，意为对女性奴隶的视觉描绘以供他人愉悦（Harper, 2018）
+>    - 新自由主义教育中的"金钱镜头"（money shots）是国家测试结果或在线发布的排名表；在课堂中意味着获取更好的分数，而非例如接纳一个曾被排斥的学生（后者不易量化和记录）([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])
+>    - McKnight & Whitburn 将青少年色情自查问题改编为数据成瘾自查："你是否发现自己寻找越来越极端的数据？曾经令你震惊的数据现在似乎很平常？"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]])
+>    - 将数据量与洞察力混淆（Kitchin, 2014），成瘾在加剧：800 项[[Meta-analysis|元分析]]仍不够([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]])
+> 3. VL 拒绝对话
+>    - VL 崇拜不是关于教师和学生，而是关于 VL 品牌本身。它不容辩论，被商标和专有符号所固化和束缚([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37]])
+>    - 将教师知识从原始研究中提取出来，作为外部专家建议返还给教师，将教师定位为自身教学法的顺从消费者([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37]])
+>    - VL 的教师-客户被建构为知识匮乏、自主权被限制在铁一般的"研究验证"数据之内、对学业成绩负全部责任——仿佛没有其他因素在起作用([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.37]])
+>    - 经典的民主专业主义（Locke, 2015; Sachs, 2003）关乎专长、自主和利他——VL 颠覆了这些概念
+>    - 教师被禁止在 VL 培训中分享自己的故事和课堂经验（Hattie, in Knudsen, 2017, p.254）
+> 4. VL 忽视关怀伦理
+>    - VL 将对社区和他人的关怀伦理推入女性化和贬值的地位。爱、同僚情谊、慷慨——这些难以测量和货币化([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
+>    - Noddings（1986）的问题"这对我们正在努力建立的关怀社区会有什么影响？"被 VL 边缘化
+>    - VL 将知识的中心从课堂和学校转移到大学和学者手中；Hattie 没有突出他从合作教师那里学到了什么([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
+>    - 最具渗透力的权力属于那些能进行元分析和[[Randomised Controlled Trials|随机对照试验]]的人——这不是教师知识或学生知识
+>    - "忠实"（fidelity）对 Noddings（1986）而言意味着对学生的忠诚，但 VL 将其重新定义为对外部概念的忠诚
+> 5. VL 接近法西斯主义
+>    - 单一教义是否应该统治教师、课堂和学校？VL 的专业学习项目是否包含对 VL 的批评？未发现任何[[Reflexivity|反思性]]的证据([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.38]])
+>    - VL 是极权主义"有组织的遗忘"（Kundera, 1981）的一部分——方便地忘记其做法原本就是教师的做法
+>    - 忽视了 Foucault（1975/1995）的警告：可见性是一个陷阱，"将规训渗透到最微小的细节中"是危险的（p.200）
+>    - Pinar（2011）警告：如果教师"不加理解地"应用课程，"只有景观，即我们时代的法西斯主义"（p.214，引自 McKnight & Whitburn, 2020, p.39）
+>    - VL 在 Gramsci 意义上是景观式的霸权性的：教师可见地默许一个规训制度
+>    - 在新自由主义坚持"专业教师即服从教师"的压力下，职前教师被要求在进入教室后立即走向白板张贴学习意图；学校管理层禁止以任何其他方式开始上课（McKnight, 2016）
+>    - VL 作为隐喻旨在殖民教师的"表演性教学想象"（performative pedagogical imagination），使教师"看见"自己以特定方式教学（McKnight, 2016）
+>    - 教师在一个女性化的职业中被煽动"将自己生产为凝视的对象"（Walkerdine & Ringrose, 2006, p.37）
+> 6. VL 过度简化
+>    - 尽管有复杂的[[Effect Size|效应量]]、方程和数字，VL 最终是一个过于简单的咒语
+>    - 假设教师能看到学生所看到的——这既是能力主义的也是性别歧视的（基于男性化视觉），同时也是傲慢的([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39]])
+>    - 将成长仅定义为"达到下一个水平"（Hattie, in Waack, 2018）——窄化了成功的潜在含义
+>    - VL 诞生于 Brexit 和 Donald Trump 时代——民粹主义、能力主义、沙文主义和排外主义上升的时代——这些运动以对被视为外来的或他者的事物的侵略性和敌意政策为特征([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.39]])
+>    - "Impact"一词（VL 的核心关注）意为"有力的接触"（Merriam-Webster, 2018），剑桥和牛津词典均以子弹和炮弹为例说明
+>    - "Know thy impact"带有圣经式语气，是在[[Post-structuralism|后结构主义]]和后现代对知识的质疑之后对确定性的加固——当确定性即将消融时的支撑([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40]])
+>    - 眼睛将其不足隐藏在傲慢背后，坚持看是唯一的方式；眼睛需要好斗，因为它本质上是由玻璃体冻胶构成的([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.40-41]])
+>    - [[Positivism|实证主义]]科学研究的纪律只是另一种虚构，众多研究叙事之一([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
+> 7. VL 基于能力主义假设
+>    - VL 坚持"只有可见的才重要"，对人们应具备何种能力才能被视为成功和被纳入做出了规范性和能力主义的假设([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
+>    - 能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（Campbell, 2009, p.8）
+>    - 在 VL 中，通过视觉感知的能力是被正常化的区域，而通过其他方式感知则在本体论和[[Epistemology|认识论]]上被抹除
+>    - 有视觉障碍的教师或学生通过缺乏视力被建构，不可避免地遭受排斥——这种对公平的"影响"并未被计入 VL 的效应量
+>    - 视觉长期以来承载着作为意识的定义性和统治性能力的粗暴声誉；对视觉傲慢假设的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979）
+>    - 包容性教育理论已展示排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）
 
 ---
 

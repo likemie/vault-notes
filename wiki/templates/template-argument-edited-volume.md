@@ -33,27 +33,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 3. Then use this template.
 %%
 
-%% 论文集 overview 是结构入口，记录编者论点、全书结构和已处理章节关系；可引用文献以各章 Argument 为主。overview 不进入 citation 索引。 %%
+%% Edited volume overview 是论文集结构入口，记录编者论点、全书结构和已处理章节关系。具体字段、引用、写入和 callout 规则见 TEMPLATE-SPEC.md、CALLOUTS.md 与 schema/schema-edited-volume.md；正式条目不得保留这些说明注释。 %%
 
->
-> [!info]- Overview 规则
-> - `title` 保持与文件名一致，使用稳定技术命名。
-> - `editors` 使用 Person wikilink，每位编者单独一项。
-> - `citation` 写整本论文集的 APA 完整引用，用于 source record。
-> - overview 不填写 `citation_aliases`，不进入 `citation_full.json`。
-> - 各章使用普通 Argument 模板，按章节作者和年份生成 citation 字段。
-> - 正文引用当前 overview 对应材料时只写页码，如（p.12）或（pp.12–15）。
-> - 正文引用其他已处理文献使用 APA 短引用，如 `(Ball, 2008a, p. 12)` 或 `Ball (2008a, p. 12)`。
-
-> [!info]- Summary 规则
-> `summary` 用一句话说明论文集的组织问题、编者立场和全书结构，不写成图书简介。
-
-> [!warning]- 表达规则
-> - 句子不要中英混合；除专名、引文、公式、代码、APA citation 和无法翻译的固定术语外，句子主体使用中文表达。
-> - 人名第一次出现必须使用全名；中文正文优先写成中文全名（英文全名），后文再出现可按语境使用中文名、姓氏或代称。
-> - 缩写第一次出现必须写成中文（英文全称，缩写）；后文才可单独使用缩写。
-
-%% CONTENT_START: 以上为写作参考，以下为实际条目内容 %%
+%% TEMPLATE BODY: 生成正式条目时删除所有模板说明注释。 %%
 ---
 
 ## 编者论点

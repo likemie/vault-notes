@@ -25,52 +25,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 3. Then use this template.
 %%
 
-%% 正文先按人物思想主题组织，再在生平、著作与思想发展章节内按时间排列。用 callout 区分简介、核心思想、影响、引用和争议。 %%
+%% Person 页写学者、政策人物或关键行动者的生平、思想、著作和影响。具体字段、引用、写入和 callout 规则见 TEMPLATE-SPEC.md 与 CALLOUTS.md；正式条目不得保留这些说明注释。 %%
 
->
-> [!info]- 自动维护字段（对齐脚本）
-> - `related_*` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
-> - 正文中的 wikilink 会同步到对应 `related_*`。
-> - 非 Argument 条目不写 YAML `sources`，也不写正文 `## 来源`。
-> - 来源性陈述使用 APA 短引用链接到对应 Argument，例如 `[[Argument_Ball_2008a_JEP|(Ball, 2008a, p. 12)]]`。
-> - 正文自动补链由 `scripts/wiki_linker.py sync` 完成；`aliases` 是自动补链白名单。
-> - 处理完成后只自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。
-> - 如需继续维护链接、关系和检查，先询问用户是否运行标准脚本流程。
-
-> [!info]- Summary 规则（索引用，不是摘要）
-> `summary` 只用于索引说明，让读者一眼看出此人的身份、代表贡献和相关理论/概念。
-> 写法：`国籍/身份 + 代表著作/理论贡献 + 对教育研究的意义`。
-> 不写成传记摘要，不堆生平细节；无法概括时留空：`summary: ""`。
->
-> [!warning]- Summary YAML 安全规则
-> `summary` 外层必须使用双引号包裹：`summary: "一句话索引说明"`。
-> 内容内部避开英文冒号 `:`、双引号 `"`、单引号 `'`；需要断句时优先使用中文标点。
-
-> [!warning]- 表达规则
-> - 句子不要中英混合；除专名、引文、公式、代码、APA citation 和无法翻译的固定术语外，句子主体使用中文表达。
-> - 人名第一次出现必须使用全名；中文正文优先写成中文全名（英文全名），后文再出现可按语境使用中文名、姓氏或代称。
-> - 缩写第一次出现必须写成中文（英文全称，缩写）；后文才可单独使用缩写。
-
-> [!info]- 筛选标准
-> - 有独立理论或概念贡献，提出有名称的理论、概念或框架。
-> - 在领域内有持续影响力，被多篇论文反复引用，或代表一个学派／立场。
-> - 文献专门讨论其思想，以该人物的思想作为主要理论资源并详细介绍。
-> - 只是论文作者、顺带引用一次或只是受访者时，不建 Person 条目。
-
-> [!info]- Frontmatter 格式规范
-> - `tags` 用方括号列表，内容 tag 建议使用英文小写连字符。
-> - 推荐 tag 前缀：`region/`、`field/`、`theory/`、`method/`、`discipline/`、`school/`。
-> - `related_*` 由脚本自动同步；需要建立关系时在正文使用 wikilink。
-> - 非 Argument 条目不写 YAML `sources`，不写正文 `## 来源`。
-
-> [!info]- Person 命名与 aliases 规则
-> Person 文件名和 `title` 使用常用英文全名，如 `Stephen Ball`、`Michael W. Apple`。
-> `aliases` 写 APA 作者名、英文全名变体、中文全称和必要中文简称，如 `Ball, S. J.`、`Stephen J. Ball`、`斯蒂芬·鲍尔`。
-> 不写单独英文姓氏作为 alias，如 `Ball`、`Apple`、`Young`。
-> 中文简称只在人物非常著名或中文文献中常用时写，如 `杜威`、`皮亚杰`、`布迪厄`、`阿普尔`、`哈蒂`。
-
-
-%% CONTENT_START: 以上为写作参考，以下为实际条目内容 %%
+%% TEMPLATE BODY: 生成正式条目时删除所有模板说明注释。 %%
 ---
 
 ## 简介
