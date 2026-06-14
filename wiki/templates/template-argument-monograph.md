@@ -130,7 +130,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!citation-card] 关键引用
 > 中文译文。（第X章，p.X）
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 

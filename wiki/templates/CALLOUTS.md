@@ -227,13 +227,14 @@ Fact 页面常用位置：
 | 关键文件 / 政策文本 | `[!claim]`、`[!citation-card]`、`[!quote]` |
 | 实施情况 | `[!actor-grid]`、`[!pathways]`、`[!ref-table]` |
 | 影响 / 效果 | `[!finding-cards]`、`[!stat-cards]`、`[!lessons]` |
-| 争议与评论 | `[!actor-grid]`、`[!tension]`、`[!voice]`、`[!critique]`、`[!warning]` |
+| 争议与评论 | `[!actor-grid]`、`[!tension]`、`[!citation-card]`、`[!critique]`、`[!warning]` |
 | 相关条目 | `[!ref-table]` |
 
 注意：
 
+- Event 的 `## 经过` 简单时用 `[!timeline]`；节点多、阶段差异明显或有多轮转折时，用 `[!phase]` 或 `[!dev-timeline]` 分阶段。
 - Event 的 `## 争议与评论` 优先区分评论视角，而不是只写正反两方；可用 `[!actor-grid]` 记录当事方、制度、学术、公共或媒体视角。
-- `[!tension]` 用于整理争议焦点；`[!voice]` 用于保留有代表性的评论原文或译文；`[!critique-*]` 只在评论明确针对方法、逻辑或数据时使用。
+- `[!tension]` 用于整理争议焦点；`[!citation-card]` 用于保留有代表性的评论原文或译文，视觉上与关键文件或声明保持一致；`[!critique-*]` 只在评论明确针对方法、逻辑或数据时使用。
 
 Person 页面常用位置：
 
@@ -259,7 +260,7 @@ Person 页面常用位置：
 > [!citation-card] 引用标题
 > 中文译文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> Original: Original text.
+> Original text.
 ```
 
 中文材料：
@@ -268,7 +269,7 @@ Person 页面常用位置：
 > [!citation-card] 引用标题
 > 中文原文。[[Argument_Author_Year_Journal|(作者, 年份, p. X)]]
 >
-> English: English translation.
+> English translation.
 ```
 
 不要只写中文意译；重要逐字引用必须保留原文。

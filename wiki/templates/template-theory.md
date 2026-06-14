@@ -41,7 +41,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!citation-card]- 关键表述
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 

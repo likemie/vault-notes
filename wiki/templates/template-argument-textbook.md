@@ -68,7 +68,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!citation-card]- 重要图表或摘录
 > 中文译文或图表说明。（第X章，p.X）
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 
@@ -76,7 +76,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!citation-card] 重要摘录
 > 中文译文或中文原文。（第X章，p.X）
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 

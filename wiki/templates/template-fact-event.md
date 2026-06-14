@@ -41,12 +41,17 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 经过
 
 > [!timeline] 事件经过
-> 事件的主要经过，按时间顺序呈现。
+> 事件的主要经过，按时间顺序呈现；如果节点很多、阶段差异明显，改用下方 `[!phase]` 或 `[!dev-timeline]` 分阶段，不要把复杂过程挤成单条时间线。
 > - YYYY-MM-DD 事件节点：主体、行动和直接结果。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!phase]- 阶段名或时间段
 > - YYYY-MM 关键节点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - YYYY-MM 后续发展。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!dev-timeline]- 复杂阶段时间线
+> - **YYYY–YYYY 阶段一**：说明阶段主题、关键行动者和转折点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   - YYYY-MM 子事件或关键节点。
+>   - YYYY-MM 后续发展。
 
 ---
 
@@ -54,7 +59,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!citation-card] 关键文件或声明
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 
@@ -70,7 +75,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 争议与评论
 
-%% 根据材料选择保留：如果只有单一争议焦点，用 tension；如果有多类行动者或评论者，先用 actor-grid 区分视角，再用 tension 或 voice 展开。 %%
+%% 根据材料选择保留：如果只有单一争议焦点，用 tension；如果有多类行动者或评论者，先用 actor-grid 区分视角，再用 tension 展开；代表性评论原文用 citation-card。 %%
 
 > [!actor-grid] 评论视角图
 > - **当事方 / 机构视角**：说明该主体如何界定事件、责任或后果。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -82,9 +87,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **焦点一**：不同评论者在哪个事实、责任、价值或解释上发生分歧。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **焦点二**：说明另一组分歧，或删除本条。
 
-> [!voice]- 代表性评论
+> [!citation-card]- 代表性评论
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 

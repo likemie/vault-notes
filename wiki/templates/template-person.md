@@ -74,7 +74,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!citation-card]- 关键表述
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 
@@ -106,7 +106,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 可选模块。只有能确认出处时才写。记录最能代表该人物思想的短句、格言或高频引用；无法确认原文出处时标注“待核”，不要编造。
 
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original/English: Original text or English translation.
+> Original text or English translation.
 
 ---
 
