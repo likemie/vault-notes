@@ -48,8 +48,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 核心命题
 
 > [!finding-cards] 核心命题
-> - **命题一**：说明其解释什么现象。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **命题二**：说明其与命题一的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **基本前提**：说明理论如何界定行动者、制度、知识或社会关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **解释机制**：说明理论认为现象如何发生、维持或变化。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **结果判断**：说明该理论通常推出什么解释或预测。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!logic-map]- 命题关系
 > ```mermaid
@@ -83,7 +84,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 只有资料足够时写。说明该理论如何转化为分析维度、变量、机制或解释路径。
 > | 维度 | 用法 |
 > |---|---|
-> | 分析维度一 | 说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
+> | 分析对象 | 该理论通常观察什么对象。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
+> | 关键机制 | 如何识别机制或关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
+> | 经验指标 | 可观察材料、变量或文本线索。[[Argument_Author_Year_Journal|(Author, Year, p. X)]] |
 
 ---
 

@@ -54,11 +54,21 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ### 第X章 章节标题
 
 > [!chapter-question]
-> 一句话说明本章在教材知识推进中的位置。
+> 一句话说明本章在教材知识推进中的位置，以及本章引入的核心概念或方法。
 
 #### 概览
 
-跟随教材自身逻辑，记录知识如何展开。figure 写图片占位；table 只要可读就复刻为 Markdown 表格。已建条目只简单提及，详细内容写入具体条目。
+跟随教材自身逻辑，记录知识如何展开。已建条目只简单提及，详细内容写入具体条目。
+
+> [!ref-table]- 本章知识索引
+> | 类型 | 条目 | 本章作用 |
+> |---|---|---|
+> | Concept | [[Concept A]] | 一句话说明本章如何定义或使用该概念。 |
+> | Theory | [[Theory B]] | 一句话说明该理论在本章中的作用。 |
+
+> [!citation-card]- 重要图表或摘录
+> 中文译文或图表说明。（第X章，p.X）
+> Original/English: Original text or English translation.
 
 ---
 

@@ -42,7 +42,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 核心条款、政策目标、适用对象和实施机制，附 Argument citation。
+> 用一两句话说明政策目标、适用对象、约束方式和制度工具，附 Argument citation。
 
 > [!citation-card]- 关键条文
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -66,6 +66,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **发布主体**：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **执行主体**：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **适用对象**：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政策工具**：经费、评价、问责、课程、准入或其他实施工具。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
@@ -75,6 +76,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 有据可查的结果、政策影响和评价，尽量说明评价依据。
 > - **结果一**：结果描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **结果二**：结果描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **边界条件**：效果在哪些地区、群体或执行条件下成立。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!stat-cards]- 核心数据
 > 关键比例、人数、时间跨度、经费、覆盖范围等。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

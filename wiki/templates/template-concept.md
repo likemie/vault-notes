@@ -121,15 +121,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 理论语境
-
-> [!logic-map] 理论归属
-> - [[理论 A]] — 本概念如何源自或扩展该理论。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - [[理论 B]] ←→ 本概念 — 对话或张力关系说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - [[研究传统 C]] — 本概念在该传统中的位置。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
----
-
 ## 实证发现
 
 > [!evidence-grid-a] 实证发现索引

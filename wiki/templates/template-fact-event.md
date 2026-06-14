@@ -34,7 +34,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 背景
 
 > [!abstract] 事件背景
-> 事件发生的社会、政治、教育或制度背景。说明为什么这一事件值得作为 Fact 条目记录。
+> 说明事件发生的时间、地点、主体和社会、政治、教育或制度背景。只写可由来源支持的事实。
 
 ---
 
@@ -42,7 +42,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!timeline] 事件经过
 > 事件的主要经过，按时间顺序呈现。
-> - YYYY-MM 事件节点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - YYYY-MM-DD 事件节点：主体、行动和直接结果。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!phase]- 阶段名或时间段
 > - YYYY-MM 关键节点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -64,6 +64,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 对政策、学界、学校实践、社会舆论或制度安排的影响。
 > - **政策影响**：影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **实践影响**：影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **知识影响**：对概念、理论或研究议程的影响。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 

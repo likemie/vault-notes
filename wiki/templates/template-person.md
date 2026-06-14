@@ -35,6 +35,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!abstract] 人物简介
 > 身份、国籍、时代背景、主要活跃领域简述。重点说明此人在教育学、社会学、哲学或相关领域中的位置。
 
+> [!concept-lens]- 人物透镜
+> - **身份位置**：学科、机构、学派或公共角色。
+> - **代表贡献**：最重要的概念、理论、方法或政策影响。
+> - **相关条目**：与哪些 Concept / Theory / Method / Argument 关联。
+
 ---
 
 ## 生平与职涯
@@ -90,7 +95,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!evidence-grid-a] 影响索引
 > 记录此人对后续理论、教育研究、政策话语、研究方法或具体学者的影响。
-> - 影响了 [[理论名]] 在教育研究中的使用。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - [[理论名]] — 一句话说明此人如何影响该理论在教育研究中的使用。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、讨论或批评此人的思想。
 
 ---
 

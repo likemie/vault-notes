@@ -88,7 +88,7 @@ issuing_organization: ""
 
 ## 论证结构
 
-> [!info] 写法提示
+> [!argument-map] 写法提示
 > 根据论文实际论证方式，综合运用 `[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]`、`[!logic-map]` 等 callout。下面只是最小骨架，不要求每篇都保留同样组合。
 
 > [!logic-map] 核心论证逻辑链
@@ -138,6 +138,9 @@ issuing_organization: ""
 
 > [!claim] 步骤三主张
 > 写出最终论证收束。
+
+> [!warrant]- 最终推理桥梁
+> 说明作者如何从前面材料收束到最终判断，避免只写结论。
 
 ---
 
