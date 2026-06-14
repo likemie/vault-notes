@@ -1120,14 +1120,14 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - **[[Homework]] 效应的逐步解构**：Hattie 仅用一段话解释方法——综合 5 项[[Meta-analysis|元分析]]（161 项研究、100K+ 学生）→ $d=0.29$。通过手动搜索附录 A，Johnson & Janzen 找到 5 个被隐藏的 d 值（$0.36, 0.21, 0.39, 0.21, 0.28$），确认算术平均为 $0.29$——但指出这在方法论上是无加权、无质量评估的简单平均（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.25-26]]）
 > - **Homework 内部的极端变异性**：$d=0.29$ 掩盖了小学 $d=0.15$ vs 高中 $d=0.64$ 的巨大差异——高中作业若单独排名可达 17/138（p.26-27）
 > - **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 $d=0.09$ 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（p.32-33）
-> - **方法论不透明定性**："We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
+> - **方法论不透明定性**："我们认为这种不透明的方法论陈述有悖科学探究的精神"（"We view this opaque exposition of methodology as outside the spirit of scientific inquiry"）（p.26）
 
 > [!critique] 角度二：新泰勒主义——教师监视与去专业化
 > Johnson & Janzen 详细追溯了从 Taylor 科学管理到 VL 全景监控的历史链条（参见 [[Neo-Taylorism]]）：
 > - **asTTle 的全景设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具（p.28）
 > - **Hattie 对教师的贬低**：记录 Hattie 在 VL 中将教学定性为"不成熟的职业"、将教师的故事贬为"战争故事和轶事"的多处原文（p.28-29）
 > - **贬低修辞服务于私有化议程**：如果教学可被打造为不成熟、不专业、简单和技术性的，对教师及其工会的支持就会软化，私人利益便以"廉价解决方案"的承诺渗透（p.29）
-> - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果**：在基于 VL 的 HITS 实施地区，教师被强迫执行 simplistic performative technical actions（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（p.29-30）
+> - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果**：在基于 VL 的 HITS 实施地区，教师被强迫执行 简单化的表演性技术操作（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（p.29-30）
 
 > [!critique] 角度三：新自由主义商业化——经济利益追踪
 > Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及"饥饿-危机-私有化"循环。详见 [[Visible Learning Branding and Global Influences]]。
@@ -1135,12 +1135,12 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] 角度四：Cargo Cult Science——科学的误用
 > Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
 > - VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p.35）
-> - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的 fallibilism 旨在区分科学与伪科学——"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"（p.35）
-> - Hattie 十年后声称"no one has contested the explanation"——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p.35）
+> - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的可错论（fallibilism）旨在区分科学与伪科学——"Popper 当然不是在暗示科学是由提出毫无根据的主张、留待他人反驳所构成的"（"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"）（p.35）
+> - Hattie 十年后声称"无人质疑这一解释"（"no one has contested the explanation"）——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p.35）
 > - Metax 数据库呈现为典型科学数据集，但未阐明数字来源、包含的偏差和被掩盖的细微差别（p.35-36）
 
 > [!conclusion] 整体定性
-> Johnson & Janzen 将 VL 定性为"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"（p.35）。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"（p.30）。
+> Johnson & Janzen 将 VL 定性为"一个存在于教育大师与万能药时尚所构成的市场化世界中的产品，与审慎实验和同行评审的学术传统相去甚远"（"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"）（p.35）。VL 是"质量存疑的研究、统计把戏与作者自以为是的观点的可疑大杂烩"（"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"）（p.30）。
 
 ---
 
