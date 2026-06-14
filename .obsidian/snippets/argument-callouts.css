@@ -3961,6 +3961,174 @@
   color: rgb(170, 140, 255);
 }
 
+/* ─── 公式变量表、结果表、软件实现表 ───────────────────── */
+.callout[data-callout="formula"] .callout-content table,
+.callout[data-callout="formula-set"] .callout-content table,
+.callout[data-callout="result-reading"] .callout-content table,
+.callout[data-callout="software-impl"] .callout-content table {
+  display: table;
+  width: 100%;
+  margin: 0.65rem 0 0.2rem;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-radius: 8px;
+}
+
+.callout[data-callout="formula"] .callout-content th,
+.callout[data-callout="formula-set"] .callout-content th,
+.callout[data-callout="result-reading"] .callout-content th,
+.callout[data-callout="software-impl"] .callout-content th {
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+}
+
+.callout[data-callout="formula"] .callout-content td,
+.callout[data-callout="formula"] .callout-content th,
+.callout[data-callout="formula-set"] .callout-content td,
+.callout[data-callout="formula-set"] .callout-content th,
+.callout[data-callout="result-reading"] .callout-content td,
+.callout[data-callout="result-reading"] .callout-content th,
+.callout[data-callout="software-impl"] .callout-content td,
+.callout[data-callout="software-impl"] .callout-content th {
+  border-color: rgba(var(--callout-color), 0.13);
+  padding: 0.48rem 0.62rem;
+  vertical-align: top;
+}
+
+/* ════════════════════════════════════════════════════════════════════
+   量化公式解释配套卡：数学原理 / 结果解读 / 软件实现
+   ════════════════════════════════════════════════════════════════════ */
+.callout[data-callout="math-principle"],
+.callout[data-callout="result-reading"],
+.callout[data-callout="software-impl"] {
+  border-radius: 8px;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.08), rgba(var(--callout-color), 0.02)),
+    var(--background-primary);
+  box-shadow: 0 2px 10px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="math-principle"] {
+  --callout-color: 112, 84, 168;
+  --callout-icon: lucide-ruler;
+}
+
+.callout[data-callout="result-reading"] {
+  --callout-color: 42, 126, 118;
+  --callout-icon: lucide-bar-chart-3;
+}
+
+.callout[data-callout="software-impl"] {
+  --callout-color: 92, 118, 48;
+  --callout-icon: lucide-terminal;
+}
+
+.callout[data-callout="math-principle"] > .callout-title,
+.callout[data-callout="result-reading"] > .callout-title,
+.callout[data-callout="software-impl"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="math-principle"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="result-reading"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="software-impl"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="math-principle"] > .callout-title .callout-title-inner::before {
+  content: "MATH";
+}
+
+.callout[data-callout="result-reading"] > .callout-title .callout-title-inner::before {
+  content: "READ";
+}
+
+.callout[data-callout="software-impl"] > .callout-title .callout-title-inner::before {
+  content: "RUN";
+}
+
+.callout[data-callout="math-principle"] > .callout-content > ul,
+.callout[data-callout="software-impl"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: 0.4rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="math-principle"] > .callout-content > ul > li,
+.callout[data-callout="software-impl"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.78rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
+    color-mix(in srgb, var(--background-primary) 91%, rgb(var(--callout-color)) 9%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="math-principle"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="software-impl"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="formula"] .callout-content table,
+  .callout[data-callout="formula-set"] .callout-content table,
+  .callout[data-callout="result-reading"] .callout-content table,
+  .callout[data-callout="software-impl"] .callout-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .callout[data-callout="math-principle"] > .callout-content > ul,
+  .callout[data-callout="software-impl"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="math-principle"] {
+  --callout-color: 174, 140, 235;
+}
+
+.theme-dark .callout[data-callout="result-reading"] {
+  --callout-color: 88, 184, 172;
+}
+
+.theme-dark .callout[data-callout="software-impl"] {
+  --callout-color: 162, 190, 90;
+}
+
+.theme-dark .callout[data-callout="math-principle"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="software-impl"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
 /* ════════════════════════════════════════════════════════════════════
    [!feature]  —  特征 / 特点卡片列表
    Color : jade  rgb(20, 148, 108)

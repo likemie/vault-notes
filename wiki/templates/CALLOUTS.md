@@ -175,8 +175,11 @@ Concept 页面常用位置：
 | `[!proc]` | 标准操作程序、研究步骤链、方法执行流程 |
 | `[!method-scope]` | Method 范围四格，固定为研究对象、问题类型、分析单位、输出形式 |
 | `[!method-fit]` | Method 适用判断三格，固定为适合、谨慎、不适合 |
-| `[!formula]` | 单个公式与变量说明 |
-| `[!formula-set]` | 多公式对比 |
+| `[!formula]` | 单个核心公式、变量表和计算顺序 |
+| `[!formula-set]` | 多公式链、公式体系或模型计算流程 |
+| `[!math-principle]` | 公式的数学直觉、关键性质和隐含假设 |
+| `[!result-reading]` | 量化结果的正确解读、报告方式和常见误读 |
+| `[!software-impl]` | 软件实现、核心包/命令、复现步骤和报告标准 |
 | `[!critique]` | 通用学术批评 |
 | `[!critique-method]` | 方法论或统计错误 |
 | `[!critique-logic]` | 逻辑或概念矛盾 |
@@ -190,7 +193,7 @@ Method 页面常用位置：
 | 定义 | `[!def]`、`[!method-scope]`、`[!citation-card]` |
 | 认识论立场 | `[!assumptions]`、`[!axioms]` |
 | 研究程序 | `[!proc]`、`[!method-panel]` |
-| 资料与分析 | `[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]` |
+| 资料与分析 | `[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]`、`[!math-principle]`、`[!result-reading]`、`[!software-impl]` |
 | 适用场景 | `[!method-fit]`、`[!decisions]`、`[!pathways]` |
 | 局限性 | `[!critique-method]`、`[!warning]` |
 | 相关理论 | `[!frames-ref]`、`[!ref-table]` |
@@ -200,6 +203,11 @@ Method 页面常用位置：
 
 - Method 的 `## 定义` 优先用 `[!method-scope]` 固定四格，避免把方法对象、问题类型、分析单位和输出形式混写在同一段。
 - Method 的 `## 适用场景` 优先用 `[!method-fit]` 固定三格，分别写适合使用、谨慎使用和不适合使用。
+- 量化 Method 的公式不能只贴数学表达式。`[!formula]` 或 `[!formula-set]` 后应尽量接 `[!math-principle]` 解释数学原理，再用 `[!result-reading]` 说明结果如何读，最后用 `[!software-impl]` 说明实现和报告。
+- `[!formula]` 适合一个核心公式，公式下方优先放“符号 / 含义 / 取值或单位”三列表；`[!formula-set]` 适合耦合协调模型、结构方程、空间模型、面板模型等多步骤公式链。
+- `[!math-principle]` 不重复变量定义，重点写平均、加权、标准化、距离、似然、惩罚、方差分解、空间邻接等数学直觉，以及公式的取值范围、边界条件和隐含假设。
+- `[!result-reading]` 必须区分“能说明什么”和“不能说明什么”。描述性指数、分类结果、空间相关和预测结果不得直接写成因果效果。
+- `[!software-impl]` 写实际可复现路径，优先包括数据处理、推荐软件、核心包或命令、运行顺序、诊断检查、导出和版本信息。
 
 Theory 页面常用位置：
 

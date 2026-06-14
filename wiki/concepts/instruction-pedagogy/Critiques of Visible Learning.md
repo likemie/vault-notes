@@ -1146,21 +1146,22 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 ## 非学校因素的排除：[[Argument_Grace_2010_NZJES|Grace (2010)]] 的批评
 
-[[Gerald Grace]]——*"[[Critic and Conscience of Society]]"*概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的*"critic and conscience of society"*角色存在根本矛盾([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Hattie 在 VL 前言中明确表示：*"许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"*（Hattie, 2009, pp.viii–xi，引自 [[Argument_Grace_2010_NZJES|Grace, 2010, p.90–91]]）。
+[[Gerald Grace]]——*"「[[Critic and Conscience of Society]]」"*概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的 *"critic and conscience of society"* 角色存在根本矛盾（[[Argument_Grace_2010_NZJES|Grace, 2010, p.90]]）。
 
-Grace 的核心论点是：这种排除产生了一个*"还原主义和天真的观点"*——认为仅靠改变教育安排就能解决教育成就不平等——这使政治家和政策制定者得以回避更根本的社会和经济不平等问题([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash（2003）的工作为对照，说明真正的教育学术批评应当将非学校因素置于分析的核心([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
+> [!citation-card] Hattie, 2009, pp.viii–xi（引自 Grace, 2010, p.90–91）
+> *“许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这‘不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道。’”*
+
+> [!critique] Grace 的核心批评
+> 这种排除产生了一个*“还原主义和天真的观点”*——认为仅靠改变教育安排就能解决教育成就不平等——使政治家和政策制定者得以回避更根本的社会和经济不平等问题（[[Argument_Grace_2010_NZJES|Grace, 2010, p.91]]）。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash（2003）的工作为对照，论证真正的教育学术批评应将非学校因素置于分析的核心。
 
 
----
-
-## 总结性批评
-
-> [!abstract] 共同结论
-> 尽管批评者的方法和立场差异很大，但大致收束到几条共同判断：
-> - [[Visible Learning|VL]] 不能被当作无中介、无争议的“科学结论”。
-> - 把教育压缩成单一影响值，会系统性抹平情境、内容和意义。
-> - VL 的流行不能只用经验质量解释，还必须结合政策、治理和合法化需求来理解。
-> - 如果继续使用 VL，也需要通过 [[Professional Judgment]]、更清晰的学习理论和更强的情境化解释来限制其扩张。
+> [!critique] 各批评者的核心判断
+> - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 指出 Hattie 的统计学术研究本身和对教师的有用提醒値得肯定，但 VL 的论述转移了对教育中平等问题的关注（p.42）
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级文献系统性忽略
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] 从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证*“很明显 Hattie 事实上没有找到圣杯”*（[[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]]）
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 虽然承认 Hattie 的愿景“有远见”且“为他赢得了宝贵而持久的优点”，但方法*“在当前出版条件下以科学合理的方式是不可行的”*（p.1, p.34-35）
+> - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 提出学校中本应出现但缺席的论述：抗制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂（p.42）
+> - Nielsen & Klitmøller（2021）从 [[Jürgen Habermas|Habermas]] 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 
 ---
@@ -1178,12 +1179,6 @@ Grace 的核心论点是：这种排除产生了一个*"还原主义和天真的
 
 
 
-- McKnight & Whitburn 指出 Hattie 的统计学术研究本身和对教师的有用提醒值得肯定，但 VL 的论述转移了对教育中平等问题的关注([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
-- [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级文献系统性忽略
-- [[Argument_Terhart_2011_JCS|Terhart (2011)]]从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证"很明显 Hattie 事实上没有找到圣杯"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
-- [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]虽然承认 Hattie 的愿景"有远见"且"为他赢得了宝贵而持久的优点"，但方法"在当前出版条件下以科学合理的方式是不可行的"（p.1, p.34-35）
-- 作者提出学校中本应出现但缺席的论述：抵制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
-- Nielsen & Klitmøller（2021）从 [[Jürgen Habermas|Habermas]] 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 
 ---

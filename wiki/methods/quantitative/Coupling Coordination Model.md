@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12T18:30:00
+updated: 2026-06-14
 ---
 
 # Coupling Coordination Model
@@ -35,131 +35,173 @@ updated: 2026-06-12T18:30:00
 
 ## 定义
 
-> [!info]
-> 耦合协调模型（Coupling Coordination Degree Model, CCDM）是一种基于系统论的多子系统协同发展水平测度方法。它同时评估两个维度：耦合度（$C$）衡量子系统之间相互作用的强度，协调度（$D$）综合评估耦合强度与发展水平的协同演进程度。该模型的核心贡献在于避免了仅使用耦合度可能出现的"低水平高耦合"误判————当所有子系统均处于低发展水平时，耦合度仍可接近最大值。
+> [!def] 方法定义
+> 耦合协调模型（Coupling Coordination Degree Model, CCDM）是一种基于系统论的多子系统协同发展水平测度方法。它先用耦合度 $C$ 衡量若干子系统发展水平之间的相互贴合程度，再用协调度 $D$ 将耦合强度与综合发展水平 $T$ 合成，用于判断系统是否处于高水平协同、低水平贴合或失调状态。该模型的核心用途不是识别因果机制，而是把多维指标体系压缩为可比较的综合评价结果。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 66-68)]]
 
-> [!quote]
+> [!method-scope] 方法范围
+> - **研究对象**：由两个或多个相互关联子系统构成的复杂系统，例如教育、科技、人才三系统。
+> - **问题类型**：适合回答综合测度、时空比较、区域分异和协同状态评价问题。
+> - **分析单位**：地区、年份、城市、省份、国家、政策单元或其他可构建指标体系的空间/组织单元。
+> - **输出形式**：子系统发展水平 $e_j$、耦合度 $C$、综合发展指数 $T$、协调度 $D$、等级分类和时空格局。
+
+> [!citation-card]- 关键定义
 > 耦合指两个或多个子系统之间相互影响和相互作用的程度，也可以反映不同子系统之间的约束程度。耦合度可以衡量不同子系统之间的协同发展水平，并在一定程度上描述不同子系统发展水平的差异。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]]
+>
 > Original: Coupling refers to the extent of mutual influence and interaction among two or more subsystems, and it can also reflect the degree of constraint between different subsystems. The degree of coupling can measure the level of collaborative development between different subsystems.
+
+---
+
+## 方法定位
+
+> [!assumptions] 认识论与方法定位
+> - **知识观**：耦合协调模型把复杂系统状态视为可通过指标体系近似测量的综合发展水平。它依赖后实证主义式的量化表示，但不等同于对系统因果机制的完整解释。
+> - **研究者角色**：研究者在子系统划分、指标选择、正负向指标处理、权重设定和等级阈值选择中发挥实质判断作用。这些判断会影响 $D$ 值和空间分类。
+> - **有效性标准**：评价重点包括指标体系的内容效度、权重设定的透明度、标准化口径的一致性、分类阈值的可解释性和敏感性检查。
+> - **不声称回答的问题**：$D$ 值只能描述综合协调状态，不能直接证明教育促进科技、科技吸引人才或人才反哺教育等[[Causality|因果关系]]。
+
+> [!method-panel] 方法层级
+> | 层级 | 说明 |
+> |---|---|
+> | 研究设计 | 综合评价设计，常与面板数据、空间分析或政策区域比较结合。 |
+> | 数据收集 | 公开统计数据、行政数据、地区年度指标、政策或行业统计指标。 |
+> | 分析方法 | 指标标准化、综合赋权、耦合度计算、协调度计算、等级划分。 |
+> | 辅助技术 | [[Combined Weighting AHP-EWM|AHP-熵权法组合赋权]]、自然断点分类、地图可视化、[[LISA Time Path|LISA时空路径]]和[[LISA Spatiotemporal Transition|LISA时空转移]]。 |
 
 ---
 
 ## 研究程序
 
-> [!abstract] 核心公式体系
-> 耦合协调模型将 $K$ 个子系统的发展水平 $e_1, e_2, \dots, e_K$ 作为输入，先后计算耦合度 $C$ 和协调度 $D$。以下以最常见的三系统情形（$K=3$）为例说明。
+> [!proc] 通用程序
+> 1. 确定需要评价的复杂系统及其子系统，例如教育、科技和人才。
+> 2. 为每个子系统建立指标体系，区分正向指标和负向指标。
+> 3. 对原始指标进行标准化，得到可比较的无量纲指标 $g_{ij}$。
+> 4. 确定指标权重 $f_i$，并计算各子系统发展水平 $e_j$。
+> 5. 计算耦合度 $C$，判断子系统发展水平之间的贴合程度。
+> 6. 计算综合发展指数 $T$ 和协调度 $D$，避免低水平高耦合误判。
+> 7. 按自然断点、分位数、等距或理论阈值对 $D$ 进行等级划分。
+> 8. 结合地图、时序图或空间统计方法解释区域差异和时间演变。
 
-> [!line-a] 步骤一：指标标准化与有序度计算
-> 设共有 $n$ 个空间单元、$m$ 个评价指标分布在 $K$ 个子系统中。第一步对原始指标值 $X_{ij}$ 进行 min-max 归一化：
-> $$g_{ij} = \frac{X_{ij} - \min X_{ij}}{\max X_{ij} - \min X_{ij}} \quad \text{(正指标)} \qquad g_{ij} = \frac{\max X_{ij} - X_{ij}}{\max X_{ij} - \min X_{ij}} \quad \text{(负指标)}$$
-> 归一化后 $g_{ij} \in [0, 1]$。然后按子系统汇总为有序度 $G_j = \sum_{i \in \text{subsystem}_j} f_i g_{ij}$，其中 $f_i$ 为综合权重（$\sum f_i = 1, f_i \geq 0$）。$G_j$ 即为子系统 $j$ 的发展水平 $e_j$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 66–67)]]
+> [!formula-set] 公式体系
+> | 步骤 | 公式或计算 | 变量含义 |
+> |---|---|---|
+> | 指标标准化 | 正向指标：$g_{ij}=\frac{X_{ij}-\min X_{ij}}{\max X_{ij}-\min X_{ij}}$；负向指标：$g_{ij}=\frac{\max X_{ij}-X_{ij}}{\max X_{ij}-\min X_{ij}}$。 | $X_{ij}$ 为原始指标值，$g_{ij}$ 为标准化后指标，取值通常在 $[0,1]$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 66-67)]] |
+> | 子系统发展水平 | $e_j=\sum_{i \in j}f_i g_{ij}$。 | $e_j$ 为第 $j$ 个子系统的发展水平，$f_i$ 为指标权重，$\sum f_i=1$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 66-67)]] |
+> | 耦合度 | $C=\left[\frac{\prod_{j=1}^{K}e_j}{\left(\frac{1}{K}\sum_{j=1}^{K}e_j\right)^K}\right]^{1/K}$。三系统时，$C=\left[\frac{e_1e_2e_3}{\left(\frac{e_1+e_2+e_3}{3}\right)^3}\right]^{1/3}$。 | $K$ 为子系统数量，$C$ 衡量各子系统发展水平的均衡贴合程度。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]] |
+> | 综合发展指数 | $T=\sum_{j=1}^{K}\alpha_j e_j$。 | $\alpha_j$ 为子系统权重。Fan et al. 在教育、科技、人才三系统中采用等权设定。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 67-68)]] |
+> | 协调度 | $D=\sqrt{C \times T}$。 | $D$ 同时受耦合度 $C$ 和综合发展指数 $T$ 约束，用于评价协调发展水平。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 67-68)]] |
 
-> [!line-b] 权重确定：AHP + EWM + LSD 组合赋权
-> 权重 $f_i$ 的确定直接影响 $G_j$ 的值。常用的组合赋权路径：层次分析法（AHP）通过专家两两比较获取主观权重 $v_i$；熵权法（EWM）通过 $e_i = -k\sum p_{ij}\ln p_{ij}$ 计算信息熵获取客观权重 $g_i$；最小二乘决策（LSD）模型求解 $\min H(f) = \sum_i[(g_i-f_i)X_{ij}]^2 + [(v_i-f_i)X_{ij}]^2$，约束 $\sum f_i = 1$，得到折中权重 $f_i$。详见 [[Combined Weighting AHP-EWM|AHP-熵权法组合赋权]]。
+> [!math-principle] 模型数学原理
+> - **标准化的作用**：min-max 标准化把不同量纲、不同单位的指标转为同一尺度，使教育投入、科研产出和人才数量等指标可以进入同一个评价体系。
+> - **耦合度的数学直觉**：$C$ 本质上比较几何均值与算术均值。由均值不等式可知，几何均值不大于算术均值；当各子系统水平越接近，二者差距越小，$C$ 越接近 1。
+> - **耦合度陷阱**：如果 $e_1=e_2=e_3=0.1$，$C$ 仍可达到 1，因为三个子系统同样低但高度均衡。因此 $C$ 不能单独代表高水平协同。
+> - **协调度的短板惩罚**：$D=\sqrt{C \times T}$ 使用几何平均连接 $C$ 和 $T$。只要耦合强度或综合发展水平任一偏低，$D$ 都会被拉低，比算术平均更能惩罚短板。
+> - **隐含假设**：指标经过标准化后可比较，指标权重可被合理设定，子系统发展水平可加总，$C$ 和 $T$ 可通过几何平均合成为协调状态。
 
----
+> [!ref-table] 参数、权重与分类
+> | 项目 | 取值或规则 | 解释 |
+> |---|---|---|
+> | 子系统数量 $K$ | 通常为 2 或 3，也可扩展到更多子系统。 | $K$ 改变会影响耦合度公式的阶数和解释。 |
+> | 指标权重 $f_i$ | 可用等权、AHP、熵权法、AHP-EWM-LSD 组合赋权等。 | 权重直接影响子系统发展水平 $e_j$，是最重要的敏感性来源之一。 |
+> | 子系统权重 $\alpha_j$ | 常见做法为等权，例如三系统各取 $1/3$。 | 等权表达“同等重要”的规范判断，不是数据自动给出的事实。 |
+> | 等级阈值 | Fan et al. 使用 ArcGIS 10.8 的自然断点法。 | 自然断点最小化组内差异、最大化组间差异，但分类结果依赖样本分布。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 68)]] |
+> | 空间分析扩展 | LISA 时空路径和 LISA 时空转移。 | 用于分析协调度的空间关联、路径移动和类型转移，不属于 CCDM 本体公式。 |
 
-> [!line-a] 步骤二：计算耦合度 $C$
-> 耦合度衡量 $K$ 个子系统之间的离散程度。通用公式：$C = \left[ \dfrac{\prod_{j=1}^{K} e_j}{\left(\frac{1}{K}\sum_{j=1}^{K} e_j\right)^K} \right]^{\frac{1}{K}}$。当 $K=3$ 时：$C = \left[ \dfrac{e_1 \times e_2 \times e_3}{\left(\frac{e_1+e_2+e_3}{3}\right)^3} \right]^{\frac{1}{3}}$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]]
-
-> [!line-b] 数学直觉
-> 分子是几何平均值（$\sqrt[3]{e_1 e_2 e_3}$）的立方，分母是算术平均值（$\frac{e_1+e_2+e_3}{3}$）的立方，开三次方后 $C$ 实质是几何均值与算术均值之比。由均值不等式可知几何均值 $\leq$ 算术均值，因此 $C \in [0, 1]$。当 $e_1 = e_2 = e_3$ 时两者相等，$C = 1$（完美耦合）；值差异越大，几何均值越小于算术均值，$C$ 趋近于 $0$。这一结构源自物理学中的容量耦合（Capacitive Coupling）概念——系统间的协同程度取决于它们的"对齐"程度。
-
-> [!warning] 耦合度陷阱
-> 当 $e_1 = e_2 = e_3 = 0.1$（三个子系统均处于极低水平）时，$C = 1$（完美耦合），但这显然不是研究者期望的"高协同发展"。仅用 $C$ 无法区分"共同繁荣的高水平耦合"和"共同贫困的低水平耦合"。因此必须引入协调度 $D$ 进行修正。
-
----
-
-> [!line-a] 步骤三：计算协调度 $D$
-> $D = \sqrt{C \times T}$，其中 $T = \sum_{j=1}^{K} \alpha_j e_j$ 为加权综合发展指数，$\alpha_j$ 为各子系统重要性权重（$\sum \alpha_j = 1$）。当各子系统同等重要时，$\alpha_1 = \alpha_2 = \alpha_3 = 1/3$。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 67–68)]]
-
-> [!line-b] 为何用几何平均（$\sqrt{C \times T}$）而非算术平均（$(C+T)/2$）
-> 几何平均具有天然的"短板惩罚"特性。假设 $C=0.9$（高耦合）但 $T=0.2$（低发展），算术平均 $(0.9+0.2)/2 = 0.55$ 会掩盖 $T$ 的严重不足；而几何平均 $\sqrt{0.9 \times 0.2} \approx 0.42$ 被拉低至接近 $T$ 的水平。反之亦然——$T=0.9$ 但 $C=0.2$ 时，几何平均同样压低得分。只有 $C$ 和 $T$ 同时达到较高水平时 $D$ 才得高分——这正是"协调发展"的数学含义：既不能偏废耦合性，也不能忽视各自的发展水平。
-
-> [!line-a] 步骤四：等级划分
-> 得到每个空间单元每年的 $D$ 值后，需将其划分为便于解读的等级。常用方法：**自然断点法（Natural Breaks / Jenks）**：通过最小化组内方差、最大化组间方差自动寻找最优断点——ArcGIS 10.8 内置此功能。替代方案包括等间距法（固定间隔）和分位数法（每级等量单元）。等级数量通常取 3（低-中-高）或 5（低-较低-中等-较高-高），依据研究需要和数据分布特征确定。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 68)]]
+> [!result-reading] 结果解读
+> | 输出 | 正确解读 | 需要避免 |
+> |---|---|---|
+> | $e_j$ | 某一子系统的相对发展水平，可比较不同地区或年份的系统短板。 | 把标准化得分解释为绝对真实水平。 |
+> | $C$ | 各子系统发展水平是否均衡贴合。高 $C$ 表示水平接近，不必然表示整体发展高。 | 把高耦合度直接解释成高质量协调发展。 |
+> | $T$ | 多子系统综合发展水平，反映整体基础水平。 | 忽略其中某个子系统可能严重滞后。 |
+> | $D$ | 同时考虑均衡贴合和综合发展水平的协调度。 | 把 $D$ 解释为因果效果或政策净影响。 |
+> | 等级分类 | 便于展示空间格局和区域分层。 | 把自然断点分类误读为客观存在的自然边界。 |
+> | LISA 结果 | 显示协调度的空间关联和时空转移。 | 把空间相关直接解释为空间溢出因果。 |
 
 ---
 
 ## 资料与分析
 
-> [!info] 数据结构
-> 输入为面板数据：$N$ 个空间单元 $\times$ $T$ 个年份 $\times$ $m$ 个指标。每个子系统至少需要 3–6 项指标覆盖其主要维度，指标需包含正向指标（越大越好）和负向指标（越小越好）以便 min-max 归一化区分处理。所有指标必须在全样本范围内标准化而非分组标准化。
+> [!method-panel] 数据、变量与模型
+> | 环节 | 说明 |
+> |---|---|
+> | 数据结构 | 面板数据，通常为 $N$ 个空间单元 $\times$ $T$ 个年份 $\times$ $m$ 个指标。 |
+> | 样本与单位 | 省份、城市、国家、学校系统或其他可持续观测的空间/组织单元。 |
+> | 变量或指标 | 每个子系统至少需要若干可解释指标，并说明正向指标与负向指标。 |
+> | 模型或统计量 | 标准化指标 $g_{ij}$、子系统水平 $e_j$、耦合度 $C$、综合发展指数 $T$、协调度 $D$。 |
+> | 诊断与检验 | 权重敏感性、指标替换、分类阈值敏感性、缺失值处理、异常值和空间自相关检查。 |
 
-> [!info] 软件实现
-> 耦合协调模型不依赖单一商业软件，以下为常用实现路径：
+> [!software-impl] 软件实现
+> | 环节 | 说明 |
+> |---|---|
+> | 数据处理 | 用 R、Python、Stata 或 Excel 完成指标清洗、正负向识别、min-max 标准化和权重合成。 |
+> | 推荐软件 | Python 和 R 适合可复现计算；ArcGIS 或 GeoDa 适合空间可视化和 LISA 扩展；Stata 适合面板数据整理。 |
+> | 核心包或命令 | Python 可用 `pandas`、`numpy`、`jenkspy`、`geopandas`；R 可用 `tidyverse`、`classInt`、`sf`、`spdep`。 |
+> | 实现流程 | 先生成标准化指标矩阵，再按权重计算 $e_j$，随后计算 $C$、$T$、$D$，最后进行等级分类和地图展示。 |
+> | 报告标准 | 报告指标清单、正负向规则、权重来源、标准化范围、等级阈值、软件版本和敏感性检查。 |
 
-> [!line-a] Python（推荐 — 可复现、可扩展）
-> 使用 `numpy` 和 `pandas` 即可完整实现。核心代码结构：
+> [!formula] Python 计算骨架
 > ```python
 > import numpy as np
 > import pandas as pd
 > 
-> # 1. Min-max 归一化
-> def minmax_normalize(X, positive=True):
+> def minmax_normalize(x, positive=True):
+>     denom = x.max() - x.min()
+>     if denom == 0:
+>         return np.zeros_like(x, dtype=float)
 >     if positive:
->         return (X - X.min()) / (X.max() - X.min())
->     return (X.max() - X) / (X.max() - X.min())
+>         return (x - x.min()) / denom
+>     return (x.max() - x) / denom
 > 
-> # 2. 有序度：加权求和
-> G = normalized_data @ weights  # shape: (n_units, n_years, K)
-> 
-> # 3. 耦合度 C — K=3
-> geo_mean = np.prod(G, axis=-1) ** (1/3)
-> arith_mean = np.mean(G, axis=-1)
-> C = (geo_mean / arith_mean)  # 等价于完整公式
-> 
-> # 4. 协调度 D
-> T = np.average(G, axis=-1, weights=alphas)
+> # normalized_data shape: n_observations x K_subsystems
+> # each subsystem score e_j is already a weighted sum of its indicators
+> E = normalized_subsystem_scores
+> geo_mean = np.prod(E, axis=1) ** (1 / E.shape[1])
+> arith_mean = np.mean(E, axis=1)
+> C = geo_mean / arith_mean
+> T = np.average(E, axis=1, weights=system_weights)
 > D = np.sqrt(C * T)
-> 
-> # 5. 自然断点 — 使用 jenkspy 库
-> from jenkspy import JenksNaturalBreaks
-> jnb = JenksNaturalBreaks(n_classes=3)
-> labels = jnb.fit_predict(D.flatten())
 > ```
-
-> [!line-b] Stata / MATLAB / R 等其他工具
-> - **Stata**：通过 `generate`、`egen` 和循环命令实现归一化和公式计算，适合不熟悉 Python 的研究者，缺点是循环效率低
-> - **MATLAB**：矩阵运算天然适合批量计算 $C$ 和 $D$，语法与 Python/NumPy 高度相似
-> - **R**：可使用 `tidyverse` + `BAMMtools`（含 `getJenksBreaks` 函数）实现 Jenks 自然断点分级
-> - 论文明确使用的可视化工具为 **ArcGIS 10.8**，利用其内置的自然断点法进行地图分级渲染
-
-> [!line-a] 计算复杂度
-> 设 $N$ 个单元 $\times$ $T$ 个年份。每单元每年需计算 $K$ 个子系统有序度（$O(K \cdot m)$ 加权求和）、$C$（$O(K)$ 几何与算术均值）、$D$（$O(1)$）。总复杂度为 $O(NTKm)$。中国 30 省 $\times$ 22 年 $\times$ 15 指标 $\times$ 3 系统，全部计算在 Python 中瞬间完成（毫秒级）。自然断点分级在 $N=30$ 时计算也极快。瓶颈通常在数据清洗和指标权重确定阶段。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 66–68)]]
+>
+> 这段代码只展示 $C$ 和 $D$ 的核心计算。完整复现还需要报告指标表、权重向量、缺失值处理和等级分类规则。
 
 ---
 
 ## 适用场景
 
-> [!success]
-> 适合回答"多个系统之间的协同发展程度如何？在哪些区域/时间段协同水平较高或较低？"这类综合评价问题。尤其适合以下场景：
-> - 教育、科技、人才等社会子系统的耦合协调评价
-> - 经济-环境-能源等可持续发展系统评价
-> - 城镇化与生态环境的交互关系测度
-> - 不适合回答[[Causality|因果性]]问题————高 $D$ 值不能推断因果关系，可能由第三个共同因素同时驱动
+> [!method-fit] 适用判断
+> - **适合使用**：多个子系统都有稳定指标，研究目标是比较协同发展水平、空间分异或时间演变。教育-科技-人才、经济-环境-能源、城镇化-生态环境等综合评价问题都适合。
+> - **谨慎使用**：指标体系不稳定、权重依据不足、地区之间统计口径不一致、或研究者希望解释因果机制时，需要补充理论解释、稳健性检查或因果识别设计。
+> - **不适合使用**：不适合单独回答“哪个子系统导致另一个子系统变化”“某项政策是否提高协调度”或“空间高值是否由邻近地区溢出造成”等因果问题。
 
 ---
 
 ## 局限性
 
-> [!warning]
-> - **耦合度陷阱**：当子系统均处于低发展水平时 $C$ 可能虚高，必须结合 $D$ 综合判断。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]]
-> - **[[Causality|因果性]]缺失**：$D$ 是描述性指标而非因果推断工具，高耦合协调度不等于存在因果关系
-> - **权重敏感性**：$T$ 中子系统权重 $\alpha$、$\beta$、$\gamma$ 的选择影响 $D$ 值，不同权重设定可能导致不同等级划分
-> - **时间不变性假设**：当权重基于全时段数据计算时，未考虑指标重要性随时间的变化
+> [!critique-method] 方法局限
+> - **耦合度陷阱**：当子系统均处于低发展水平时，$C$ 可能虚高，必须结合 $T$ 和 $D$ 综合判断。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 67)]]
+> - **[[Causality|因果性]]缺失**：$D$ 是描述性综合指标，高协调度不等于子系统之间存在因果促进关系。
+> - **权重敏感性**：指标权重 $f_i$ 和子系统权重 $\alpha_j$ 会影响 $e_j$、$T$ 和 $D$，不同权重设定可能改变区域排序和等级分类。
+> - **分类阈值依赖样本**：自然断点、分位数和等距分类会产生不同的等级边界，地图展示可能放大边界附近地区的差异。
+> - **时间可比性问题**：如果标准化范围或权重基于全时段数据，结果隐含时间不变性假设；如果逐年标准化，又会削弱跨年绝对比较。
+> - **指标体系主观性**：模型的数学部分看似客观，但指标选择、正负向设定和缺失值处理都带有研究者判断。
 
 ---
 
-## 相关理论
+## 相关理论与方法
 
-> [!tip]
-> - General Systems Theory — 耦合协调模型以系统论为理论基础，将各子系统视为相互关联、相互制约的组成部分
-> - [[Coupling Coordination Theory]] — 耦合协调理论为模型提供了机制层面的解释框架
+> [!frames-ref] 相关理论
+> - [[Coupling Coordination Theory]] — 为模型提供系统论解释框架，将教育、科技、人才等对象理解为相互关联的子系统。
+> - General Systems Theory — 为“子系统相互作用构成整体状态”的基本假设提供理论背景。
+
+> [!ref-table] 相关方法
+> | 方法 | 关系 | 区别 |
+> |---|---|---|
+> | [[Combined Weighting AHP-EWM]] | 前置或子模块。 | 决定指标权重 $f_i$，不直接计算协调度 $D$。 |
+> | [[LISA Time Path]] | 空间分析扩展。 | 分析协调度的时空移动路径，不替代 CCDM 的综合评价。 |
+> | [[LISA Spatiotemporal Transition]] | 空间分析扩展。 | 分析局部空间关联类型转移，不直接构建综合指数。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!example]
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用耦合协调模型测度中国30个省份教育-科技-人才（EST）一体化发展水平，结合[[LISA Time Path|LISA时空路径]]和[[LISA Spatiotemporal Transition|空间转移矩阵]]分析时空格局演变
+> [!evidence-grid-a] 研究索引
+> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用耦合协调模型测度中国 30 个省份教育-科技-人才一体化发展水平，并结合[[LISA Time Path|LISA时空路径]]和[[LISA Spatiotemporal Transition|LISA时空转移]]分析时空格局演变。
