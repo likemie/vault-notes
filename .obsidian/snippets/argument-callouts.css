@@ -4607,6 +4607,232 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   POLICY-CONTEXT — 政策背景档案
+   用于发布主体、适用对象、政策问题和制度位置
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="policy-context"] {
+  --callout-color: 58, 105, 166;
+  --callout-icon: lucide-landmark;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(120deg, rgba(var(--callout-color), 0.13), transparent 45%),
+    repeating-linear-gradient(90deg, rgba(var(--callout-color), 0.045) 0, rgba(var(--callout-color), 0.045) 1px, transparent 1px, transparent 18px),
+    var(--background-primary);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.045);
+}
+
+.callout[data-callout="policy-context"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 38%;
+  height: 100%;
+  pointer-events: none;
+  background:
+    linear-gradient(135deg, transparent 0 34%, rgba(var(--callout-color), 0.08) 34% 36%, transparent 36% 100%),
+    linear-gradient(45deg, transparent 0 44%, rgba(var(--callout-color), 0.07) 44% 46%, transparent 46% 100%);
+  opacity: 0.8;
+}
+
+.callout[data-callout="policy-context"] > .callout-title {
+  position: relative;
+  padding: 0.68rem 1rem 0.55rem;
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.13);
+}
+
+.callout[data-callout="policy-context"] > .callout-title .callout-title-inner::before {
+  content: "POLICY";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="policy-context"] > .callout-content {
+  position: relative;
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="policy-context"] > .callout-content > p:first-child {
+  margin-top: 0;
+  margin-bottom: 0.78rem;
+  color: var(--text-normal);
+  font-weight: 520;
+  line-height: 1.7;
+}
+
+.callout[data-callout="policy-context"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.62rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="policy-context"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.74rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 7px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.38), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="policy-context"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.9em;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="policy-context"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="policy-context"] {
+  --callout-color: 112, 164, 225;
+  border-color: rgba(var(--callout-color), 0.22);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
+.theme-dark .callout[data-callout="policy-context"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   POLICY-DESIGN — 政策设计四格
+   固定 2×2：目标 / 对象 / 工具 / 约束方式
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="policy-design"] {
+  --callout-color: 58, 105, 166;
+  --callout-icon: lucide-git-branch-plus;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.11), transparent 44%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="policy-design"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="policy-design"] > .callout-title .callout-title-inner::before {
+  content: "DESIGN";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="policy-design"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="policy-design"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-areas:
+    "goal target"
+    "tool constraint";
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="policy-design"] > .callout-content > ul > li {
+  min-height: 5.6rem;
+  margin: 0;
+  padding: 0.78rem 0.86rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(1) { grid-area: goal; }
+.callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(2) { grid-area: target; }
+.callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(3) { grid-area: tool; }
+.callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(4) { grid-area: constraint; }
+
+.callout[data-callout="policy-design"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(n + 5) {
+  grid-column: 1 / -1;
+  min-height: auto;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="policy-design"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "goal"
+      "target"
+      "tool"
+      "constraint";
+  }
+}
+
+.theme-dark .callout[data-callout="policy-design"] {
+  --callout-color: 112, 164, 225;
+}
+
+.theme-dark .callout[data-callout="policy-design"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
    用途：McKnight 式长散文段落批评列表（点间需清晰分割）
    颜色：酒红 rgb(138, 52, 78)
@@ -4658,7 +4884,7 @@
 .callout[data-callout="critique-essay"] .callout-content ol {
   margin: 0;
   padding: 0.95rem 1.4rem 0.95rem 3.0rem;
-  border-top: 1px solid rgba(138, 52, 78, 0.13);
+  border-top: 1px solid rgba(138, 52, 78, 0.35);
   line-height: 1.74;
   list-style-position: outside;
   transition: background 0.15s;
@@ -4716,7 +4942,7 @@
 }
 
 .theme-dark .callout[data-callout="critique-essay"] .callout-content ol {
-  border-top-color: rgba(192, 104, 132, 0.15);
+  border-top-color: rgba(192, 104, 132, 0.38);
 }
 
 .theme-dark .callout[data-callout="critique-essay"] .callout-content ol:hover {

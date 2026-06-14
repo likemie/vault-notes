@@ -1101,11 +1101,8 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] Hattie 回应的不充分性
 > [[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]为旗帜否认"大师崇拜"的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 随即被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
-> [!conclusion] 编辑决策的体制含义
+> [!critique] 编辑决策的体制含义
 > Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应。Eacott 认为这一决策本身"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。
-
----
-
 
 ---
 
@@ -1182,8 +1179,10 @@ Grace 的核心论点是：这种排除产生了一个"还原主义和天真的�
 > - [[EEF Teaching and Learning Toolkit]] — 作为与 VL 共享“排名式证据地图”逻辑的平行案例，方便比较相似的批评为何反复出现。
 > - [[Danish Public School Reform]] — 展示 VL 进入国家改革后如何迅速引发支持与反弹。
 
-> [!tip] 这一节怎么用
-> 如果前面的批评显得太抽象，可以先跳到这些案例条目，再回来看各类批评如何在真实政策和学校情境里落地。
+
+
+
+
 
 - McKnight & Whitburn 指出 Hattie 的统计学术研究本身和对教师的有用提醒值得肯定，但 VL 的论述转移了对教育中平等问题的关注([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.42]])
 - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级文献系统性忽略

@@ -68,6 +68,8 @@
 | `[!ref-table]` | 参考速查表，适合地区、案例或指标一览 |
 | `[!meta-table]` | 5 列元分析或研究综述表，适合“研究 / 是否纳入 / N / 效应量 / 结论” |
 | `[!event-context]` | Event 背景档案，适合时间、地点、主体、制度背景和触发条件 |
+| `[!policy-context]` | Policy 背景档案，适合发布主体、适用对象、政策问题和制度位置 |
+| `[!policy-design]` | Policy 设计四格，固定为目标、对象、工具、约束方式 |
 
 Argument 页面常用位置：
 
@@ -223,11 +225,11 @@ Fact 页面常用位置：
 
 | 位置 | 推荐 callout |
 |---|---|
-| 背景 | Event 用 `[!event-context]`；Policy 可用 `[!abstract]`、`[!info]` |
+| 背景 | Event 用 `[!event-context]`；Policy 用 `[!policy-context]` |
 | 经过 / 时间线 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
 | 关键文件 / 政策文本 | `[!claim]`、`[!citation-card]`、`[!quote]` |
-| 实施情况 | `[!actor-grid]`、`[!pathways]`、`[!ref-table]` |
-| 影响 / 效果 | `[!finding-cards]`、`[!stat-cards]`、`[!lessons]` |
+| 实施情况 | `[!actor-grid]`、`[!pathways]`、`[!policy-design]`、`[!decisions]`、`[!ref-table]` |
+| 影响 / 效果 | `[!indicators]`、`[!finding-cards]`、`[!stat-cards]`、`[!lessons]` |
 | 争议与评论 | `[!actor-grid]`、`[!tension]`、`[!citation-card]`、`[!critique]`、`[!warning]` |
 | 相关条目 | `[!ref-table]` |
 
@@ -235,6 +237,8 @@ Fact 页面常用位置：
 
 - Event 的 `## 经过` 简单时用 `[!timeline]`；节点多、阶段差异明显或有多轮转折时，用 `[!phase]` 或 `[!dev-timeline]` 分阶段。
 - Event 的 `## 背景` 优先使用 `[!event-context]`，用短列表交代时间地点、关键主体、制度背景和触发条件；不要写成泛泛历史介绍。
+- Policy 的 `## 背景` 优先使用 `[!policy-context]`，用短列表交代发布时间、发布主体、适用对象、政策问题和制度位置。
+- Policy 的 `## 政策文本摘要` 可用 `[!policy-design]` 拆政策目标、对象、工具和约束方式；该 callout 固定为 2×2 四格，移动端单列；`## 效果与评价` 可用 `[!indicators]` 先说明评价指标。
 - Event 的 `## 争议与评论` 优先区分评论视角，而不是只写正反两方；可用 `[!actor-grid]` 记录当事方、制度、学术、公共或媒体视角。
 - `[!tension]` 用于整理争议焦点；`[!citation-card]` 用于保留有代表性的评论原文或译文，视觉上与关键文件或声明保持一致；`[!critique-*]` 只在评论明确针对方法、逻辑或数据时使用。
 

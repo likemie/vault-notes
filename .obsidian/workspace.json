@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-fact-policy.md",
+                "file": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-fact-policy"
+              "title": "Critiques of Visible Learning"
             }
           }
         ]
@@ -192,10 +192,14 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
-    "wiki/templates/template-fact-event.md",
     "wiki/templates/template-fact-policy.md",
-    "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
+    "wiki/templates/template-fact-event.md",
     "wiki/templates/template-concept.md",
+    "wiki/templates/template-argument-monograph.md",
+    "wiki/research-map.md",
+    "wiki/theories/index.md",
+    "wiki/index.md",
+    "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
     "wiki/templates/template-method.md",
     "wiki/templates/template-person.md",
     "wiki/templates/template-theory.md",
@@ -206,7 +210,6 @@
     "wiki/templates/template-argument-textbook.md",
     "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
     "wiki/templates/template-argument-edited-volume.md",
-    "wiki/templates/template-argument-monograph.md",
     "schema/schema-textbook.md",
     "schema/schema-monograph.md",
     "schema/schema-edited-volume.md",
@@ -216,9 +219,6 @@
     "wiki/methods/quantitative/Randomised Controlled Trials.md",
     "wiki/methods/quantitative/Cluster Randomized Trials.md",
     "wiki/methods/quantitative/Randomised Controlled Trials.md.tmp.10807.735755f8affe",
-    "wiki/concepts/research-methodology/Falsification.md",
-    "wiki/concepts/educational-philosophy/Scientism.md",
-    "wiki/concepts/research-methodology/Hypothesis.md",
     "wiki/concepts/educational-philosophy/Scientism.md.tmp.10807.ada1daae7cc8",
     "scripts/__pycache__/citation_index.cpython-313.pyc",
     "wiki/persons/austria",
