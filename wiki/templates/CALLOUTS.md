@@ -233,6 +233,39 @@ Theory 页面常用位置：
 
 ---
 
+## Person Callouts
+
+| Callout | 用途 |
+|---|---|
+| `[!person-profile]` | 人物档案四格，固定写身份位置、建条目理由、代表贡献和阅读边界 |
+| `[!contribution-map]` | 贡献地图，连接人物对概念、理论、方法和制度／政策的具体贡献 |
+| `[!work-line]` | 主要著作线，按年份说明著作的问题意识、核心贡献和思想转向 |
+| `[!influence-path]` | 影响路径，区分理论、方法、政策和跨国／跨领域传播 |
+| `[!person-network]` | 关系网络，记录师承、合作、继承、批评、机构或运动关系 |
+
+Person 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 简介 | `[!person-profile]`、`[!citation-card]` |
+| 贡献地图 | `[!contribution-map]` |
+| 生平与职涯 | `[!timeline]`、`[!phase]` |
+| 主要著作与思想发展 | `[!work-line]`、`[!phase]` |
+| 核心思想 | `[!claim]`、`[!concept-lens]`、`[!citation-card]` |
+| 影响路径 | `[!influence-path]`、`[!evidence-grid-a]` |
+| 关系网络 | `[!person-network]` |
+| 争议与批评 | `[!tension]`、`[!critique]`、`[!warning]` |
+
+注意：
+
+- `[!person-profile]` 是入口模块，不写成长篇传记；它只回答“此人是谁、为什么建条目、贡献在哪里、本文读哪一面”。
+- `[!contribution-map]` 不是相关条目列表。每一项都必须说明此人与对应 Concept / Theory / Method / Fact 的贡献关系。
+- `[!work-line]` 用于新手友好的著作线索，优先一书一条说明问题意识、贡献和转向；只有书目信息需要横向比较时才改用表格。
+- `[!influence-path]` 要区分影响类型，避免把“很有影响”写成泛泛评价。
+- `[!person-network]` 只收录能解释思想、影响或争议的关系；普通共现作者和偶然引用不放入。
+
+---
+
 ## Book and Evaluation Callouts
 
 | Callout | 用途 |
@@ -265,20 +298,6 @@ Fact 页面常用位置：
 - Policy 的 `## 政策文本摘要` 可用 `[!policy-design]` 拆政策目标、对象、工具和约束方式；该 callout 固定为 2×2 四格，移动端单列；`## 效果与评价` 可用 `[!indicators]` 先说明评价指标。
 - Event 的 `## 争议与评论` 优先区分评论视角，而不是只写正反两方；可用 `[!actor-grid]` 记录当事方、制度、学术、公共或媒体视角。
 - `[!tension]` 用于整理争议焦点；`[!citation-card]` 用于保留有代表性的评论原文或译文，视觉上与关键文件或声明保持一致；`[!critique-*]` 只在评论明确针对方法、逻辑或数据时使用。
-
-Person 页面常用位置：
-
-| 位置 | 推荐 callout |
-|---|---|
-| 简介 | `[!abstract]`、`[!concept-lens]` |
-| 生平与职涯 | `[!timeline]`、`[!phase]` |
-| 主要著作 | `[!ref-table]` |
-| 核心思想 | `[!claim]`、`[!concept-lens]`、`[!citation-card]` |
-| 思想发展 | `[!phase]`、`[!timeline]`、`[!dev-timeline]` |
-| 影响 | `[!evidence-grid-a]`、`[!case]`、`[!ref-table]` |
-| 争议与批评 | `[!critique]`、`[!tension]`、`[!warning]` |
-
----
 
 ## Citation Cards
 

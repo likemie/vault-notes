@@ -5586,6 +5586,245 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   PERSON CALLOUTS — 人物档案、贡献、著作线、影响路径、关系网络
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="person-profile"],
+.callout[data-callout="contribution-map"],
+.callout[data-callout="work-line"],
+.callout[data-callout="influence-path"],
+.callout[data-callout="person-network"] {
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.10), transparent 42%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="person-profile"] {
+  --callout-color: 92, 103, 154;
+  --callout-icon: lucide-user-round;
+}
+
+.callout[data-callout="contribution-map"] {
+  --callout-color: 126, 91, 150;
+  --callout-icon: lucide-network;
+}
+
+.callout[data-callout="work-line"] {
+  --callout-color: 135, 89, 68;
+  --callout-icon: lucide-library;
+}
+
+.callout[data-callout="influence-path"] {
+  --callout-color: 56, 122, 134;
+  --callout-icon: lucide-route;
+}
+
+.callout[data-callout="person-network"] {
+  --callout-color: 86, 126, 82;
+  --callout-icon: lucide-share-2;
+}
+
+.callout[data-callout="person-profile"] > .callout-title,
+.callout[data-callout="contribution-map"] > .callout-title,
+.callout[data-callout="work-line"] > .callout-title,
+.callout[data-callout="influence-path"] > .callout-title,
+.callout[data-callout="person-network"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="person-profile"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="contribution-map"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="work-line"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="influence-path"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="person-network"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="person-profile"] > .callout-title .callout-title-inner::before {
+  content: "PERSON";
+}
+
+.callout[data-callout="contribution-map"] > .callout-title .callout-title-inner::before {
+  content: "CONTRIB";
+}
+
+.callout[data-callout="work-line"] > .callout-title .callout-title-inner::before {
+  content: "WORKS";
+}
+
+.callout[data-callout="influence-path"] > .callout-title .callout-title-inner::before {
+  content: "IMPACT";
+}
+
+.callout[data-callout="person-network"] > .callout-title .callout-title-inner::before {
+  content: "NETWORK";
+}
+
+.callout[data-callout="person-profile"] > .callout-content,
+.callout[data-callout="contribution-map"] > .callout-content,
+.callout[data-callout="influence-path"] > .callout-content,
+.callout[data-callout="person-network"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="person-profile"] > .callout-content > ul,
+.callout[data-callout="contribution-map"] > .callout-content > ul,
+.callout[data-callout="influence-path"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="person-profile"] > .callout-content > ul > li,
+.callout[data-callout="contribution-map"] > .callout-content > ul > li,
+.callout[data-callout="influence-path"] > .callout-content > ul > li,
+.callout[data-callout="person-network"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.72rem 0.85rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="contribution-map"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="work-line"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="influence-path"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="person-network"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="work-line"] > .callout-content {
+  padding: 0.75rem 1rem 0.95rem;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul {
+  position: relative;
+  display: grid;
+  gap: 0.58rem;
+  margin: 0;
+  padding: 0 0 0 1.1rem;
+  list-style: none;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  top: 0.35rem;
+  bottom: 0.35rem;
+  left: 0.25rem;
+  width: 2px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.24);
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li {
+  position: relative;
+  margin: 0;
+  padding: 0.68rem 0.8rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0.95rem;
+  left: -1.02rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border: 2px solid rgb(var(--callout-color));
+  border-radius: 50%;
+  background: var(--background-primary);
+}
+
+.callout[data-callout="person-network"] > .callout-content > ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="person-network"] > .callout-content > ul > li > a.internal-link {
+  display: inline-block;
+  margin: 0.08rem 0.08rem 0.08rem 0;
+  padding: 0.12rem 0.42rem;
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  font-weight: 650;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="person-profile"] > .callout-content > ul,
+  .callout[data-callout="contribution-map"] > .callout-content > ul,
+  .callout[data-callout="influence-path"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="person-profile"] {
+  --callout-color: 154, 166, 225;
+}
+
+.theme-dark .callout[data-callout="contribution-map"] {
+  --callout-color: 184, 142, 214;
+}
+
+.theme-dark .callout[data-callout="work-line"] {
+  --callout-color: 198, 144, 108;
+}
+
+.theme-dark .callout[data-callout="influence-path"] {
+  --callout-color: 110, 184, 196;
+}
+
+.theme-dark .callout[data-callout="person-network"] {
+  --callout-color: 132, 188, 126;
+}
+
+.theme-dark .callout[data-callout="person-profile"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="contribution-map"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="work-line"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="influence-path"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="person-network"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
    用途：McKnight 式长散文段落批评列表（点间需清晰分割）
    颜色：酒红 rgb(138, 52, 78)
