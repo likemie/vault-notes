@@ -58,10 +58,31 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 核心命题
+## 核心要素
 
-> [!claim] 核心命题总览
-> 用一两句话说明各命题的内在逻辑，例如"命题 A 确立机制 → 命题 B 说明条件 → 命题 C 延伸至空间尺度"。
+> [!feature] 核心要素
+> - **要素一**：说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **要素二**：说明该要素与其他要素的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **要素三**：说明该要素的边界、条件或典型表现。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart LR
+>     A["要素一"]
+>     B["要素二"]
+>     C["要素三"]
+>     D["概念整体"]
+>     A --> D
+>     B --> D
+>     C --> D
+> ```
+
+---
+
+## 围绕概念形成的命题
+
+> [!claim] 命题总览
+> 用一两句话说明围绕该概念形成了哪些可争辩命题，以及这些命题如何相互连接。
 
 > [!logic-map] 命题关系
 > 
@@ -107,23 +128,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - [[理论 B]] ←→ 本概念 — 对话或张力关系说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - [[研究传统 C]] — 本概念在该传统中的位置。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!warrant]- 理论位置说明
-> 说明为什么这个概念应归入这些理论传统，而不是只列相关理论名称。
-
 ---
 
 ## 实证发现
 
-> [!stat-cards]-
-> - **数字或比例**
->   简短说明适用条件。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!finding-cards]
-> 1. 发现描述，说明适用条件（学段、地区、样本或研究设计）。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+- [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念。
+- [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明关键发现或适用条件。
 
 ---
 
 ## 争议与批评
+
+%% 根据实际材料选用 tension、warning、critique-*、contrast-table 等 callout；没有充分材料时可删除本节。 %%
 
 > [!tension] 核心争议
 > 争议焦点说明——各方立场不是孰对孰错，而是理论路径差异。
@@ -133,28 +149,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!warning] 方法论批评与适用局限
 > - 批评描述，说明批评对象和立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!critique-method] 方法论批评标题
-> - 具体方法论问题描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!critique-logic] 逻辑/概念批评标题
-> - 概念矛盾或推论跳跃的具体描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!critique-data] 实证批评标题
-> - 与主张相悖的数据或研究描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!critique-fatal] 根本性缺陷标题
-> - 无法修补的根本性问题描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
 ---
 
 ## 应用案例
 
-> [!case] 案例 A
-> - [[案例或研究]] — 说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!case] 案例 B
-> - [[案例或研究]] — 说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!implication]- 可迁移性
-> - **可迁移条件**：这个概念可以迁移到哪些相似情境。
-> - **不可迁移边界**：哪些情境中使用它会造成误读。
+- [[案例或研究]] — 一句话说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+- [[案例或研究]] — 一句话说明可迁移条件或使用边界。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

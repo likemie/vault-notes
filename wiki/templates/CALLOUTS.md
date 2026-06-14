@@ -73,9 +73,9 @@ Argument 页面常用位置：
 | 研究问题 | `[!question]`、`[!stat-cards]` |
 | 理论框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]`、`[!warrant]` |
 | 研究方法 | `[!method-panel]`、`[!sample-panel]` |
-| 论证结构 | `[!logic-map]`、`[!claim]`、`[!chain-link]`、`[!warrant]`、`[!contrast-table]` |
-| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]`、`[!implication]` |
-| 讨论与批评 | `[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]`、`[!conclusion]` |
+| 论证结构 | 按论文实际论证综合使用 `[!logic-map]`、`[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]` |
+| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]` |
+| 自述局限 | `[!warning]` |
 | 关键引用 | `[!citation-card]` |
 
 注意：
@@ -121,12 +121,13 @@ Concept 页面常用位置：
 |---|---|
 | 定义 | `[!def]`、`[!concept-lens]`、`[!boundary]`、`[!quote]` |
 | 概念辨析 | `[!contrast-table]` |
-| 核心命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!logic-map]`、`[!finding-cards]`、`[!feature]` |
+| 核心要素 | `[!feature]`、`[!logic-map]`、`[!taxonomy]`、`[!frames-ref]`、`[!contrast-table]` |
+| 核心命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!line-a]`、`[!logic-map]`、`[!finding-cards]` |
 | 概念演变 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
 | 理论语境 | `[!logic-map]`、`[!frames-ref]`、`[!quad-grid]`、`[!col-l]` + `[!col-r]` |
-| 实证发现 | `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
-| 争议与批评 | `[!tension]`、`[!warning]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]` |
-| 应用案例 | `[!case]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
+| 实证发现 | 默认一句话索引；材料丰富时可选 `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
+| 争议与批评 | 根据实际材料选用 `[!tension]`、`[!warning]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]` |
+| 应用案例 | 默认一句话索引；材料丰富时可选 `[!case]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
 | 关键引用 | `[!citation-card]` |
 
 注意：
