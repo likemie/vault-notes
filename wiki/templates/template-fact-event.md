@@ -79,18 +79,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 背景
 
-> [!info]
+> [!abstract] 事件背景
 > 事件发生的社会、政治、教育或制度背景。说明为什么这一事件值得作为 Fact 条目记录。
 
 ---
 
 ## 经过
 
-> [!note]
+> [!timeline] 事件经过
 > 事件的主要经过，按时间顺序呈现。
 > - YYYY-MM 事件节点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!note]- 阶段名或时间段
+> [!phase]- 阶段名或时间段
 > - YYYY-MM 关键节点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - YYYY-MM 后续发展。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
@@ -98,7 +98,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 关键文件／声明
 
-> [!quote]
+> [!citation-card] 关键文件或声明
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > Original/English: Original text or English translation.
 
@@ -106,21 +106,25 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 影响与后果
 
-> [!success]
+> [!finding-cards] 影响与后果
 > 对政策、学界、学校实践、社会舆论或制度安排的影响。
-> - 影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政策影响**：影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **实践影响**：影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
 ## 争议与评论
 
-> [!warning]
+> [!tension] 争议与评论
 > 按立场组织不同解释和评论。
-> - 立场一：评论描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **立场一**：评论描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **立场二**：评论描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
 ## 相关概念／政策
 
-> [!example]
-> - [[国际比较评估]] — 一句话说明关系。
+> [!ref-table] 相关条目索引
+> | 条目 | 关系 | 来源 |
+> |---|---|---|
+> | [[国际比较评估]] | 一句话说明关系。 | [[Argument_Author_Year_Journal|(Author, Year, p. X)]] |

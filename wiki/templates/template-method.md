@@ -70,10 +70,15 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 定义
 
-> [!info]
+> [!def] 方法定义
 > 方法的核心定义、研究对象、适用问题和基本单位，附 Argument citation。
 
-> [!quote]
+> [!concept-lens] 方法透镜
+> - **对象**：此方法研究什么材料、行动或关系。
+> - **用途**：此方法适合回答什么类型的研究问题。
+> - **边界**：此方法不适合回答什么问题。
+
+> [!citation-card]- 关键定义
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > Original/English: Original text or English translation.
 
@@ -81,15 +86,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 认识论立场
 
-> [!abstract]
-> 属于哪个研究范式，依赖什么知识观、证据观和研究者角色。
-> - 认识论立场：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!assumptions] 认识论前提
+> - **知识观**：说明此方法如何理解知识和证据。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **研究者角色**：说明研究者与对象之间的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **有效性标准**：说明该方法如何判断解释、测量或分析是否可信。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
 ## 研究程序
 
-> [!example]
+> [!proc] 研究程序
 > 说明如何执行，按步骤、材料、样本、编码或分析单位组织。
 > 1. 步骤一：说明。
 > 2. 步骤二：说明。
@@ -99,37 +105,40 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 资料与分析
 
-> [!info]
-> 说明常见资料类型、分析策略、质量控制方式和报告要求。
-> - 资料类型：访谈、观察、文本、问卷、行政数据等。
-> - 分析策略：编码、比较、建模、统计检验等。
+> [!method-panel] 资料与分析
+> | 环节 | 说明 |
+> |---|---|
+> | 资料类型 | 访谈、观察、文本、问卷、行政数据等。 |
+> | 分析策略 | 编码、比较、建模、统计检验等。 |
+> | 质量控制 | 说明信度、效度、可信度、三角互证或稳健性检查。 |
 
 ---
 
 ## 适用场景
 
-> [!success]
-> 适合回答什么类型的问题，不适合回答什么类型的问题。
-> - 适用场景：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!decisions] 适用判断
+> - **适合使用**：说明适合回答的问题类型。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **谨慎使用**：说明需要额外条件或补充资料的场景。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **不适合使用**：说明不适合回答的问题类型。
 
 ---
 
 ## 局限性
 
-> [!warning]
-> 方法的主要限制、偏误来源、可推广性边界和伦理问题。
-> - 局限描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!critique-method] 方法局限
+> - **偏误来源**：局限描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **适用边界**：说明可推广性、样本、资料或伦理边界。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
 ## 相关理论
 
-> [!tip]
+> [!frames-ref] 相关理论
 > - [[建构主义]] — 一句话说明该理论如何支撑此方法。
 
 ---
 
 ## 使用此方法的研究
 
-> [!example]
+> [!evidence-grid-a] 研究索引
 > - [[Argument_Lave_1991]] — 该研究使用此方法分析学习如何嵌入实践共同体。

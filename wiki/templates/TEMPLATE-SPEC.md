@@ -243,6 +243,8 @@ Theory 页写可作为理论框架、解释机制或分析视角的理论、模�
 规则：
 
 - 区分理论的基本立场、解释机制、适用对象和方法论含义。
+- `## 核心主张` 使用 `[!claim]`；`## 核心命题` 使用 `[!finding-cards]`、`[!claim]`、`[!warrant]` 或 `[!logic-map]`。
+- `## 分析框架` 适合使用 `[!framework-table]`、`[!logic-map]` 或 `[!frames-ref]`；不要把框架写成散乱列表。
 - 发展脉络按时间排列，争议与批评按立场或问题分组。
 - 相关研究链接到使用该理论的 Argument。
 
@@ -265,6 +267,7 @@ Method 页写研究方法、研究设计、资料收集方法、分析方法或�
 - 课堂教学法不放 Method，通常放 Concept。
 - `method_type` 使用 `qualitative`、`quantitative` 或 `mixed`。
 - `## 研究程序` 写可执行步骤；`## 适用场景` 写适合回答的问题类型。
+- `## 研究程序` 优先用 `[!proc]`；`## 资料与分析` 优先用 `[!method-panel]`；`## 使用此方法的研究` 默认作为一句话索引。
 
 ### Fact
 
@@ -279,6 +282,8 @@ Fact 页写事件、政策、项目、组织、制度安排或可核查事实。
 
 - `region` 必须尽量具体；全球性事实用 `global`，多国比较用 `multi`。
 - 经过、实施和演变类内容按时间顺序排列。
+- 经过和时间线优先使用 `[!timeline]` 或 `[!phase]`；影响、效果和评价优先使用 `[!finding-cards]`、`[!stat-cards]` 或 `[!lessons]`。
+- 相关概念、政策和理论默认使用 `[!ref-table]` 做一句话关系索引。
 - 不把理论解释写成事实本身；解释放到对应 Concept / Theory 或 Argument 中。
 
 ### Person
@@ -299,4 +304,6 @@ Person 页写学者、政策人物或关键行动者的生平、思想、著作�
 
 - `nationality` 按国籍或主要学术归属填写；不明或跨国身份放 `global` 文件夹。
 - `aliases` 写中文名、英文全名变体、常见缩写或不同拼写。
+- `## 主要著作` 默认使用 `[!ref-table]`；`## 生平与职涯` 和 `## 思想发展` 优先使用 `[!timeline]` 或 `[!phase]`。
+- `## 核心思想` 使用 `[!claim]`、`[!concept-lens]` 或 `[!citation-card]`，不与著作列表重复。
 - 相关研究链接到讨论此人物或使用其思想的 Argument。

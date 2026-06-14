@@ -170,6 +170,7 @@ Concept 页面常用位置：
 
 | Callout | 用途 |
 |---|---|
+| `[!proc]` | 标准操作程序、研究步骤链、方法执行流程 |
 | `[!formula]` | 单个公式与变量说明 |
 | `[!formula-set]` | 多公式对比 |
 | `[!critique]` | 通用学术批评 |
@@ -177,6 +178,32 @@ Concept 页面常用位置：
 | `[!critique-logic]` | 逻辑或概念矛盾 |
 | `[!critique-data]` | 实证或数据反例 |
 | `[!critique-fatal]` | 根本性缺陷 |
+
+Method 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 定义 | `[!def]`、`[!concept-lens]`、`[!citation-card]` |
+| 认识论立场 | `[!assumptions]`、`[!axioms]` |
+| 研究程序 | `[!proc]`、`[!method-panel]` |
+| 资料与分析 | `[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]` |
+| 适用场景 | `[!decisions]`、`[!pathways]` |
+| 局限性 | `[!critique-method]`、`[!warning]` |
+| 相关理论 | `[!frames-ref]`、`[!ref-table]` |
+| 使用此方法的研究 | 默认用 `[!evidence-grid-a]` 承载一句话索引 |
+
+Theory 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 核心主张 | `[!claim]`、`[!concept-lens]`、`[!citation-card]` |
+| 核心命题 | `[!finding-cards]`、`[!claim]`、`[!warrant]`、`[!logic-map]` |
+| 发展脉络 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
+| 认识论立场 | `[!assumptions]`、`[!axioms]` |
+| 分析框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]` |
+| 争议与批评 | `[!tension]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]` |
+| 相关研究 | 默认用 `[!evidence-grid-a]` 承载一句话索引 |
+| 应用领域 | 默认用 `[!case]` 承载一句话索引 |
 
 ---
 
@@ -191,6 +218,30 @@ Concept 页面常用位置：
 | `[!threat]` | SWOT 或评价中的威胁 |
 | `[!indicators]` | 评价指标体系或分层指标 |
 | `[!lessons]` | 案例分析后的经验、启示或教训 |
+
+Fact 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 背景 | `[!abstract]`、`[!info]` |
+| 经过 / 时间线 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
+| 关键文件 / 政策文本 | `[!claim]`、`[!citation-card]`、`[!quote]` |
+| 实施情况 | `[!actor-grid]`、`[!pathways]`、`[!ref-table]` |
+| 影响 / 效果 | `[!finding-cards]`、`[!stat-cards]`、`[!lessons]` |
+| 争议与评论 | `[!tension]`、`[!warning]`、`[!critique]` |
+| 相关条目 | `[!ref-table]` |
+
+Person 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 简介 | `[!abstract]`、`[!concept-lens]` |
+| 生平与职涯 | `[!timeline]`、`[!phase]` |
+| 主要著作 | `[!ref-table]` |
+| 核心思想 | `[!claim]`、`[!concept-lens]`、`[!citation-card]` |
+| 思想发展 | `[!phase]`、`[!timeline]`、`[!dev-timeline]` |
+| 影响 | `[!evidence-grid-a]`、`[!case]`、`[!ref-table]` |
+| 争议与批评 | `[!critique]`、`[!tension]`、`[!warning]` |
 
 ---
 
