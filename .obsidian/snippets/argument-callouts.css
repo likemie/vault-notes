@@ -3680,9 +3680,12 @@
    ─────────────────────────────────────────────────────── */
 .callout[data-callout="proc"] {
   --callout-color: 30, 100, 130;
-  --callout-icon: lucide-list-ordered;
+  --callout-icon: lucide-route;
+  position: relative;
+  overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(30, 100, 130, 0.08), rgba(30, 100, 130, 0.02)),
+    radial-gradient(circle at 96% 10%, rgba(30, 100, 130, 0.16), transparent 30%),
+    linear-gradient(135deg, rgba(30, 100, 130, 0.10), rgba(30, 100, 130, 0.025)),
     var(--background-primary);
   border: 1px solid rgba(30, 100, 130, 0.22);
   border-left: 6px solid rgb(30, 100, 130);
@@ -3692,11 +3695,25 @@
 
 .callout[data-callout="proc"] > .callout-title {
   color: rgb(25, 88, 115);
-  font-weight: 650;
+  font-weight: 760;
   letter-spacing: 0.015em;
   border-bottom: 1px solid rgba(30, 100, 130, 0.14);
   padding-bottom: 0.4rem;
   margin-bottom: 0.1rem;
+}
+
+.callout[data-callout="proc"] > .callout-title .callout-title-inner::before {
+  content: "FLOW";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(30, 100, 130, 0.13);
+  color: rgb(25, 88, 115);
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
 }
 
 /* ─── 步骤列表容器 ──────────────────────────────────── */
@@ -3730,15 +3747,20 @@
 .callout[data-callout="proc"] > .callout-content > ol > li {
   counter-increment: proc-n;
   position: relative;
-  padding: 0.58rem 1rem 0.58rem 0.5rem;
-  margin-bottom: 0.14rem;
-  border-radius: 6px;
-  line-height: 1.74;
-  transition: background 0.12s ease;
+  padding: 0.72rem 1rem 0.72rem 0.75rem;
+  margin-bottom: 0.42rem;
+  border: 1px solid rgba(30, 100, 130, 0.12);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
+    color-mix(in srgb, var(--background-primary) 93%, rgb(30, 100, 130) 7%);
+  line-height: 1.68;
+  transition: background 0.12s ease, transform 0.12s ease;
 }
 
 .callout[data-callout="proc"] > .callout-content > ol > li:hover {
   background: rgba(30, 100, 130, 0.06);
+  transform: translateX(2px);
 }
 
 /* 步骤编号徽章 — 白色环形隔离，使徽章浮于连接线之上 */
@@ -3760,6 +3782,18 @@
   z-index: 1;
 }
 
+.callout[data-callout="proc"] > .callout-content > ol > li:not(:last-child)::after {
+  content: "↓";
+  position: absolute;
+  left: -1.73rem;
+  bottom: -0.78rem;
+  color: rgba(30, 100, 130, 0.58);
+  font-weight: 900;
+  font-size: 0.9em;
+  line-height: 1;
+  z-index: 2;
+}
+
 /* ─── 暗模式 ────────────────────────────────────────── */
 .theme-dark .callout[data-callout="proc"] {
   --callout-color: 80, 160, 195;
@@ -3772,6 +3806,18 @@
 
 .theme-dark .callout[data-callout="proc"] > .callout-title {
   color: rgb(100, 175, 210);
+}
+
+.theme-dark .callout[data-callout="proc"] > .callout-title .callout-title-inner::before {
+  background: rgba(80, 160, 195, 0.18);
+  color: rgb(125, 195, 225);
+}
+
+.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(80, 160, 195) 12%);
+  border-color: rgba(80, 160, 195, 0.18);
 }
 
 .theme-dark .callout[data-callout="proc"] > .callout-content > ol > li::before {
@@ -4024,6 +4070,16 @@
   border-top: 1px solid rgba(78, 92, 168, 0.10);
 }
 
+.callout[data-callout="formula-step"] .callout-content > .callout {
+  margin: 0.65rem 0 0;
+  box-shadow: none;
+  border-left-width: 4px;
+}
+
+.callout[data-callout="formula-step"] .callout-content > .callout .callout-title {
+  font-size: 0.94em;
+}
+
 .theme-dark .callout[data-callout="formula-step"] {
   --callout-color: 136, 146, 230;
   background:
@@ -4047,6 +4103,87 @@
 .theme-dark .callout[data-callout="formula-step"] .callout-content .math-block {
   background: rgba(78, 92, 168, 0.13);
   border-color: rgba(136, 146, 230, 0.22);
+}
+
+/* ════════════════════════════════════════════════════════════════════
+   [!method-limits] — 方法局限与误用风险
+   用途：参数边界、权重敏感性、阈值风险、因果边界、适用范围
+   ════════════════════════════════════════════════════════════════════ */
+.callout[data-callout="method-limits"] {
+  --callout-color: 150, 72, 60;
+  --callout-icon: lucide-shield-alert;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 98% 0%, rgba(var(--callout-color), 0.14), transparent 28%),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.09), rgba(var(--callout-color), 0.02)),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.08);
+}
+
+.callout[data-callout="method-limits"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.015em;
+}
+
+.callout[data-callout="method-limits"] > .callout-title .callout-title-inner::before {
+  content: "LIMIT";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="method-limits"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: 0.4rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="method-limits"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.78rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="method-limits"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="method-limits"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="method-limits"] {
+  --callout-color: 218, 118, 102;
+}
+
+.theme-dark .callout[data-callout="method-limits"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
 }
 
 /* ─── 公式变量表、结果表、软件实现表 ───────────────────── */

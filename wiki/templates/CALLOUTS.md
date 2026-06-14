@@ -174,13 +174,16 @@ Concept 页面常用位置：
 |---|---|
 | `[!proc]` | 标准操作程序、研究步骤链、方法执行流程 |
 | `[!method-scope]` | Method 范围四格，固定为研究对象、问题类型、分析单位、输出形式 |
+| `[!method-position]` | Method 的认识论定位、研究者角色、有效性标准和不能回答的问题 |
+| `[!method-stack]` | Method 层级结构，适合研究设计、数据收集、分析方法和辅助技术 |
 | `[!method-fit]` | Method 适用判断三格，固定为适合、谨慎、不适合 |
 | `[!formula]` | 单个核心公式、变量表和计算顺序 |
 | `[!formula-step]` | 一个公式步骤，固定写公式、数学解释、结果解读和注意事项 |
-| `[!formula-set]` | 多公式链总览，只在需要快速索引公式体系时使用 |
+| `[!formula-set]` | 多公式链总览，优先放 Mermaid 流程图或短流程，不放大公式表 |
 | `[!math-principle]` | 公式的数学直觉、关键性质和隐含假设 |
 | `[!result-reading]` | 量化结果的正确解读、报告方式和常见误读 |
 | `[!software-impl]` | 软件实现、核心包/命令、复现步骤和报告标准 |
+| `[!method-limits]` | 方法局限、参数边界、权重敏感性、阈值风险和误用提醒 |
 | `[!critique]` | 通用学术批评 |
 | `[!critique-method]` | 方法论或统计错误 |
 | `[!critique-logic]` | 逻辑或概念矛盾 |
@@ -192,24 +195,27 @@ Method 页面常用位置：
 | 位置 | 推荐 callout |
 |---|---|
 | 定义 | `[!def]`、`[!method-scope]`、`[!citation-card]` |
-| 认识论立场 | `[!assumptions]`、`[!axioms]` |
+| 认识论立场 | `[!method-position]`、`[!assumptions]`、`[!axioms]` |
+| 方法层级 | `[!method-stack]`、`[!method-panel]` |
 | 研究程序 | `[!proc]`、`[!formula-step]`、`[!method-panel]` |
 | 资料与分析 | `[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]`、`[!math-principle]`、`[!result-reading]`、`[!software-impl]` |
 | 适用场景 | `[!method-fit]`、`[!decisions]`、`[!pathways]` |
-| 局限性 | `[!critique-method]`、`[!warning]` |
+| 局限性 | `[!method-limits]`、`[!critique-method]`、`[!warning]` |
 | 相关理论 | `[!frames-ref]`、`[!ref-table]` |
 | 使用此方法的研究 | 默认用 `[!evidence-grid-a]` 承载一句话索引 |
 
 注意：
 
 - Method 的 `## 定义` 优先用 `[!method-scope]` 固定四格，避免把方法对象、问题类型、分析单位和输出形式混写在同一段。
+- Method 的 `## 方法定位` 优先用 `[!method-position]`，方法层级优先用 `[!method-stack]`。相关方法链接不要挤在表格单元格里，优先写成子列表。
 - Method 的 `## 适用场景` 优先用 `[!method-fit]` 固定三格，分别写适合使用、谨慎使用和不适合使用。
 - 量化 Method 面向新手时，优先使用“流程总览 + 多个 `[!formula-step]`”的结构。每个公式步骤只解释一个核心公式，并紧接数学原理和结果读法。
-- `[!formula-step]` 固定顺序为：公式 → 这个公式在做什么 → 数学直觉 → 结果怎么读 → 常见误读或注意事项。不要把 4 个以上公式塞进一张大表。
-- `[!formula]` 适合一个独立核心公式，公式下方可放简短符号说明；`[!formula-set]` 只作为多公式链总览，不替代逐个公式解释。
+- `[!formula-step]` 固定顺序为：公式 → 这个公式在做什么 → 数学直觉 → 嵌套 `[!result-reading]` → 嵌套 `[!method-limits]` 或 `[!warning]`。不要把 4 个以上公式塞进一张大表。
+- `[!formula]` 适合一个独立核心公式，公式下方可放简短符号说明；`[!formula-set]` 只作为多公式链总览，优先用 Mermaid 流程图，不替代逐个公式解释。
 - `[!math-principle]` 不重复变量定义，重点写平均、加权、标准化、距离、似然、惩罚、方差分解、空间邻接等数学直觉，以及公式的取值范围、边界条件和隐含假设。
 - `[!result-reading]` 必须区分“能说明什么”和“不能说明什么”。描述性指数、分类结果、空间相关和预测结果不得直接写成因果效果。
 - `[!software-impl]` 写实际可复现路径，优先包括数据处理、推荐软件、核心包或命令、运行顺序、诊断检查、导出和版本信息。
+- `[!method-limits]` 用于集中呈现局限性，也可嵌套在 `[!formula-step]` 中说明该公式的参数、权重、阈值、分类和误用风险。
 
 Theory 页面常用位置：
 
