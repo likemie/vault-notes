@@ -70,10 +70,21 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 争议与评论
 
-> [!tension] 争议与评论
-> 按立场组织不同解释和评论。
-> - **立场一**：评论描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场二**：评论描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+%% 根据材料选择保留：如果只有单一争议焦点，用 tension；如果有多类行动者或评论者，先用 actor-grid 区分视角，再用 tension 或 voice 展开。 %%
+
+> [!actor-grid] 评论视角图
+> - **当事方 / 机构视角**：说明该主体如何界定事件、责任或后果。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政策 / 制度视角**：说明评论如何指向规则、治理、资源或问责。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **学术 / 方法视角**：说明研究者如何解释事件机制、证据或概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **公共 / 媒体视角**：说明舆论、媒体或公众如何框定事件。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!tension] 争议焦点
+> - **焦点一**：不同评论者在哪个事实、责任、价值或解释上发生分歧。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **焦点二**：说明另一组分歧，或删除本条。
+
+> [!voice]- 代表性评论
+> 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> Original/English: Original text or English translation.
 
 ---
 

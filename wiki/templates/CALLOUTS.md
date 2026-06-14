@@ -147,9 +147,8 @@ Concept 页面常用位置：
 | 定义 | `[!def]`、`[!concept-lens]`、`[!boundary]`、`[!quote]` |
 | 概念辨析 | `[!contrast-table]`、`[!ref-table]` |
 | 核心要素 | `[!feature]`、`[!logic-map]`、`[!taxonomy]`、`[!frames-ref]`、`[!contrast-table]`、`[!ref-table]` |
-| 核心命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!line-a]`、`[!logic-map]`、`[!finding-cards]` |
+| 围绕概念形成的命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!line-a]`、`[!logic-map]`、`[!finding-cards]` |
 | 概念演变 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
-| 理论语境 | `[!logic-map]`、`[!frames-ref]`、`[!quad-grid]`、`[!col-l]` + `[!col-r]` |
 | 实证发现 | 默认用 `[!evidence-grid-a]` 承载一句话索引；材料丰富时可选 `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-b]`、`[!meta-table]` |
 | 争议与批评 | 根据实际材料选用 `[!tension]`、`[!warning]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]` |
 | 应用案例 | 默认用 `[!case]` 承载一句话索引；材料丰富时可选 `[!evidence-grid-a]`、`[!evidence-grid-b]` |
@@ -228,8 +227,13 @@ Fact 页面常用位置：
 | 关键文件 / 政策文本 | `[!claim]`、`[!citation-card]`、`[!quote]` |
 | 实施情况 | `[!actor-grid]`、`[!pathways]`、`[!ref-table]` |
 | 影响 / 效果 | `[!finding-cards]`、`[!stat-cards]`、`[!lessons]` |
-| 争议与评论 | `[!tension]`、`[!warning]`、`[!critique]` |
+| 争议与评论 | `[!actor-grid]`、`[!tension]`、`[!voice]`、`[!critique]`、`[!warning]` |
 | 相关条目 | `[!ref-table]` |
+
+注意：
+
+- Event 的 `## 争议与评论` 优先区分评论视角，而不是只写正反两方；可用 `[!actor-grid]` 记录当事方、制度、学术、公共或媒体视角。
+- `[!tension]` 用于整理争议焦点；`[!voice]` 用于保留有代表性的评论原文或译文；`[!critique-*]` 只在评论明确针对方法、逻辑或数据时使用。
 
 Person 页面常用位置：
 
