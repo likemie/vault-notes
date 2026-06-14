@@ -73,14 +73,17 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **YYYY — *Title***：一句话说明该著作的问题意识、核心贡献和关联条目。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY — *Title***：一句话说明它相对于前一阶段的延续、转向或扩展。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!phase] 思想发展
-> 可选模块。资料足够时，按阶段说明此人的问题意识、概念工具、方法取向或政治位置如何变化。
+> [!thought-timeline] 思想发展时间线
+> - **YYYY-YYYY — 阶段名**：此阶段主要回应什么学术、方法、政策或实践问题。
+>   - **代表著作**：*Title*；*Title*。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   - **关键概念／方法**：[[Concept]]、[[Theory]]、[[Method]]。
+>   - **阶段转向**：相较前后阶段，问题意识、概念工具、方法取向或政治位置发生了什么变化。
+> - **YYYY-YYYY — 阶段名**：此阶段的核心问题。
+>   - **代表著作**：*Title*。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   - **关键概念／方法**：[[Concept]]、[[Theory]]、[[Method]]。
+>   - **阶段转向**：说明延续、突破、修正或后续影响。
 
-### YYYY-YYYY — 阶段名
-
-- **核心问题**：此阶段主要回应什么学术或实践问题。
-- **关键概念／方法**：此阶段形成或使用了哪些 Concept / Theory / Method。
-- **延续与转向**：相较前后阶段发生了什么变化。
+%% 思想发展时间线不是普通生平时间线。它按思想阶段组织：阶段名 + 代表著作 + 概念／方法 + 转向。资料不足时只保留主要著作线。 %%
 
 ---
 

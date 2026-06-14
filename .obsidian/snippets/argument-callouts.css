@@ -5592,6 +5592,7 @@
 .callout[data-callout="person-profile"],
 .callout[data-callout="contribution-map"],
 .callout[data-callout="work-line"],
+.callout[data-callout="thought-timeline"],
 .callout[data-callout="influence-path"],
 .callout[data-callout="person-network"] {
   border: 1px solid rgba(var(--callout-color), 0.20);
@@ -5618,6 +5619,11 @@
   --callout-icon: lucide-library;
 }
 
+.callout[data-callout="thought-timeline"] {
+  --callout-color: 112, 96, 156;
+  --callout-icon: lucide-milestone;
+}
+
 .callout[data-callout="influence-path"] {
   --callout-color: 56, 122, 134;
   --callout-icon: lucide-route;
@@ -5631,6 +5637,7 @@
 .callout[data-callout="person-profile"] > .callout-title,
 .callout[data-callout="contribution-map"] > .callout-title,
 .callout[data-callout="work-line"] > .callout-title,
+.callout[data-callout="thought-timeline"] > .callout-title,
 .callout[data-callout="influence-path"] > .callout-title,
 .callout[data-callout="person-network"] > .callout-title {
   color: rgb(var(--callout-color));
@@ -5641,6 +5648,7 @@
 .callout[data-callout="person-profile"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="contribution-map"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="work-line"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="thought-timeline"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="influence-path"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="person-network"] > .callout-title .callout-title-inner::before {
   display: inline-block;
@@ -5665,6 +5673,10 @@
 
 .callout[data-callout="work-line"] > .callout-title .callout-title-inner::before {
   content: "WORKS";
+}
+
+.callout[data-callout="thought-timeline"] > .callout-title .callout-title-inner::before {
+  content: "THOUGHT";
 }
 
 .callout[data-callout="influence-path"] > .callout-title .callout-title-inner::before {
@@ -5710,6 +5722,7 @@
 .callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="contribution-map"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="work-line"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="influence-path"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="person-network"] > .callout-content > ul > li > strong:first-child {
   display: block;
@@ -5723,7 +5736,8 @@
   padding: 0.75rem 1rem 0.95rem;
 }
 
-.callout[data-callout="work-line"] > .callout-content > ul {
+.callout[data-callout="work-line"] > .callout-content > ul,
+.callout[data-callout="thought-timeline"] > .callout-content > ul {
   position: relative;
   display: grid;
   gap: 0.58rem;
@@ -5732,7 +5746,8 @@
   list-style: none;
 }
 
-.callout[data-callout="work-line"] > .callout-content > ul::before {
+.callout[data-callout="work-line"] > .callout-content > ul::before,
+.callout[data-callout="thought-timeline"] > .callout-content > ul::before {
   content: "";
   position: absolute;
   top: 0.35rem;
@@ -5743,7 +5758,8 @@
   background: rgba(var(--callout-color), 0.24);
 }
 
-.callout[data-callout="work-line"] > .callout-content > ul > li {
+.callout[data-callout="work-line"] > .callout-content > ul > li,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li {
   position: relative;
   margin: 0;
   padding: 0.68rem 0.8rem;
@@ -5755,7 +5771,8 @@
   line-height: 1.6;
 }
 
-.callout[data-callout="work-line"] > .callout-content > ul > li::before {
+.callout[data-callout="work-line"] > .callout-content > ul > li::before,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li::before {
   content: "";
   position: absolute;
   top: 0.95rem;
@@ -5765,6 +5782,26 @@
   border: 2px solid rgb(var(--callout-color));
   border-radius: 50%;
   background: var(--background-primary);
+}
+
+.callout[data-callout="thought-timeline"] > .callout-content {
+  padding: 0.75rem 1rem 0.95rem;
+}
+
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li > ul {
+  display: grid;
+  gap: 0.28rem;
+  margin: 0.48rem 0 0;
+  padding: 0.5rem 0.72rem;
+  border-left: 2px solid rgba(var(--callout-color), 0.22);
+  border-radius: 0 8px 8px 0;
+  background: color-mix(in srgb, var(--background-primary) 94%, rgb(var(--callout-color)) 6%);
+  list-style: none;
+}
+
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li > ul > li {
+  margin: 0;
+  line-height: 1.55;
 }
 
 .callout[data-callout="person-network"] > .callout-content > ul {
@@ -5805,6 +5842,10 @@
   --callout-color: 198, 144, 108;
 }
 
+.theme-dark .callout[data-callout="thought-timeline"] {
+  --callout-color: 174, 158, 224;
+}
+
 .theme-dark .callout[data-callout="influence-path"] {
   --callout-color: 110, 184, 196;
 }
@@ -5816,6 +5857,7 @@
 .theme-dark .callout[data-callout="person-profile"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="contribution-map"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="work-line"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="thought-timeline"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="influence-path"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="person-network"] > .callout-content > ul > li {
   background:
