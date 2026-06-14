@@ -35,10 +35,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!def] 方法定义
 > 方法的核心定义、研究对象、适用问题和基本单位，附 Argument citation。
 
-> [!concept-lens] 方法透镜
-> - **对象**：此方法研究什么材料、行动或关系。
-> - **用途**：此方法适合回答什么类型的研究问题。
-> - **边界**：此方法不适合回答什么问题。
+> [!method-scope] 方法范围
+> - **研究对象**：此方法研究什么材料、行动、关系或制度过程。
+> - **问题类型**：此方法适合回答描述、解释、比较、评价还是预测问题。
+> - **分析单位**：个体、课堂、学校、文本、政策、地区、时间段或案例。
+> - **输出形式**：主题、分类、机制解释、指标、模型、估计结果或评价结论。
 
 > [!citation-card]- 关键定义
 > 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -80,7 +81,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 适用场景
 
-> [!decisions] 适用判断
+> [!method-fit] 适用判断
 > - **适合使用**：说明适合回答的问题类型。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **谨慎使用**：说明需要额外条件或补充资料的场景。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **不适合使用**：说明不适合回答的问题类型。

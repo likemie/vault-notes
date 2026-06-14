@@ -173,6 +173,8 @@ Concept 页面常用位置：
 | Callout | 用途 |
 |---|---|
 | `[!proc]` | 标准操作程序、研究步骤链、方法执行流程 |
+| `[!method-scope]` | Method 范围四格，固定为研究对象、问题类型、分析单位、输出形式 |
+| `[!method-fit]` | Method 适用判断三格，固定为适合、谨慎、不适合 |
 | `[!formula]` | 单个公式与变量说明 |
 | `[!formula-set]` | 多公式对比 |
 | `[!critique]` | 通用学术批评 |
@@ -185,14 +187,19 @@ Method 页面常用位置：
 
 | 位置 | 推荐 callout |
 |---|---|
-| 定义 | `[!def]`、`[!concept-lens]`、`[!citation-card]` |
+| 定义 | `[!def]`、`[!method-scope]`、`[!citation-card]` |
 | 认识论立场 | `[!assumptions]`、`[!axioms]` |
 | 研究程序 | `[!proc]`、`[!method-panel]` |
 | 资料与分析 | `[!method-panel]`、`[!sample-panel]`、`[!formula]`、`[!formula-set]` |
-| 适用场景 | `[!decisions]`、`[!pathways]` |
+| 适用场景 | `[!method-fit]`、`[!decisions]`、`[!pathways]` |
 | 局限性 | `[!critique-method]`、`[!warning]` |
 | 相关理论 | `[!frames-ref]`、`[!ref-table]` |
 | 使用此方法的研究 | 默认用 `[!evidence-grid-a]` 承载一句话索引 |
+
+注意：
+
+- Method 的 `## 定义` 优先用 `[!method-scope]` 固定四格，避免把方法对象、问题类型、分析单位和输出形式混写在同一段。
+- Method 的 `## 适用场景` 优先用 `[!method-fit]` 固定三格，分别写适合使用、谨慎使用和不适合使用。
 
 Theory 页面常用位置：
 

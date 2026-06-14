@@ -1106,47 +1106,41 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 ---
 
+
 ## 政策与制度争议
 
 [[Visible Learning|VL]] 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；[[Argument_Terhart_2011_JCS|Terhart (2011)]] 记录了 VL 在新西兰政策语境中的早期争议；[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 和 [[Argument_Blass_2020_JESP|Blass (2020)]] 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
 
 ### [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 四角度系统批判：方法论、新泰勒主义、新自由主义、Cargo Cult Science
 
-[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]在 *Critical Education* 发表了对 VL 的四角度系统批判，其独特贡献在于将方法论批判、Taylorism 分析、商业化追踪和[[Scientism|科学主义]]批判整合为一个统一框架。
+[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 在 *Critical Education* 发表了对 VL 的四角度系统批判，其独特贡献在于将方法论批判、Taylorism 分析、商业化追踪和[[Scientism|科学主义]]批判整合为一个统一框架。
 
-#### 角度一：方法论不透明——"Bullying by Numbers"
+> [!critique] 角度一：方法论不透明——"Bullying by Numbers"
+> Johnson & Janzen 对 Hattie 的[[Meta-meta-analysis|元-元分析]]方法论进行了从读者视角的透明度批判（详见 [[Argument_Johnson_2023_CE]]）：
+> - **[[Homework]] 效应的逐步解构**：Hattie 仅用一段话解释方法——综合 5 项[[Meta-analysis|元分析]]（161 项研究、100K+ 学生）→ $d=0.29$。通过手动搜索附录 A，Johnson & Janzen 找到 5 个被隐藏的 d 值（$0.36, 0.21, 0.39, 0.21, 0.28$），确认算术平均为 $0.29$——但指出这在方法论上是无加权、无质量评估的简单平均（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.25-26]]）
+> - **Homework 内部的极端变异性**：$d=0.29$ 掩盖了小学 $d=0.15$ vs 高中 $d=0.64$ 的巨大差异——高中作业若单独排名可达 17/138（p.26-27）
+> - **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 $d=0.09$ 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（p.32-33）
+> - **方法论不透明定性**："We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
 
-Johnson & Janzen 对 Hattie 的[[Meta-meta-analysis|元-元分析]]方法论进行了从读者视角的透明度批判（详见 [[Argument_Johnson_2023_CE]]）：
+> [!critique] 角度二：新泰勒主义——教师监视与去专业化
+> Johnson & Janzen 详细追溯了从 Taylor 科学管理到 VL 全景监控的历史链条（参见 [[Neo-Taylorism]]）：
+> - **asTTle 的全景设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具（p.28）
+> - **Hattie 对教师的贬低**：记录 Hattie 在 VL 中将教学定性为"不成熟的职业"、将教师的故事贬为"战争故事和轶事"的多处原文（p.28-29）
+> - **贬低修辞服务于私有化议程**：如果教学可被打造为不成熟、不专业、简单和技术性的，对教师及其工会的支持就会软化，私人利益便以"廉价解决方案"的承诺渗透（p.29）
+> - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果**：在基于 VL 的 HITS 实施地区，教师被强迫执行 simplistic performative technical actions（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（p.29-30）
 
-- **[[Homework]] 效应的逐步解构**：Hattie 仅用一段话解释方法——综合 5 项[[Meta-analysis|元分析]]（161 项研究、100K+ 学生）→ $d=0.29$。通过手动搜索附录 A，Johnson & Janzen 找到 5 个被隐藏的 d 值（$0.36, 0.21, 0.39, 0.21, 0.28$），确认算术平均为 $0.29$——但指出这在方法论上是无加权、无质量评估的简单平均([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.25-26]])
-- **Homework 内部的极端变异性**：$d=0.29$ 掩盖了小学 $d=0.15$ vs 高中 $d=0.64$ 的巨大差异——高中作业若单独排名可达 17/138（p.26-27）
-- **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 $d=0.09$ 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（p.32-33）
-- **方法论不透明定性**："We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
+> [!critique] 角度三：新自由主义商业化——经济利益追踪
+> Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及"饥饿-危机-私有化"循环。详见 [[Visible Learning Branding and Global Influences]]。
 
-#### 角度二：新泰勒主义——教师监视与去专业化
+> [!critique] 角度四：Cargo Cult Science——科学的误用
+> Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
+> - VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p.35）
+> - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的 fallibilism 旨在区分科学与伪科学——"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"（p.35）
+> - Hattie 十年后声称"no one has contested the explanation"——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p.35）
+> - Metax 数据库呈现为典型科学数据集，但未阐明数字来源、包含的偏差和被掩盖的细微差别（p.35-36）
 
-Johnson & Janzen 详细追溯了从 Taylor 科学管理到 VL 全景监控的历史链条（参见 [[Neo-Taylorism]]）：
-
-- **asTTle 的全景设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具（p.28）
-- **Hattie 对教师的贬低**：记录 Hattie 在 VL 中将教学定性为"不成熟的职业"、将教师的故事贬为"战争故事和轶事"的多处原文（p.28-29）
-- **贬低修辞服务于私有化议程**：如果教学可被打造为不成熟、不专业、简单和技术性的，对教师及其工会的支持就会软化，私人利益便以"廉价解决方案"的承诺渗透（p.29）
-- **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果**：在基于 VL 的 HITS 实施地区，教师被强迫执行 simplistic performative technical actions（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（p.29-30）
-
-#### 角度三：新自由主义商业化——经济利益追踪
-
-Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及"饥饿-危机-私有化"循环。详见 [[Visible Learning Branding and Global Influences]]。
-
-#### 角度四：Cargo Cult Science——科学的误用
-
-Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
-
-- VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p.35）
-- Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的 fallibilism 旨在区分科学与伪科学——"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"（p.35）
-- Hattie 十年后声称"no one has contested the explanation"——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p.35）
-- Metax 数据库呈现为典型科学数据集，但未阐明数字来源、包含的偏差和被掩盖的细微差别（p.35-36）
-
-**整体定性**：Johnson & Janzen 将 VL 定性为"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"（p.35）。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"（p.30）。
-
+> [!conclusion] 整体定性
+> Johnson & Janzen 将 VL 定性为"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"（p.35）。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"（p.30）。
 
 ---
 

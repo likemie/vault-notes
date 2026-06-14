@@ -4833,6 +4833,197 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   METHOD-SCOPE — 方法范围四格
+   固定 2×2：研究对象 / 问题类型 / 分析单位 / 输出形式
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="method-scope"] {
+  --callout-color: 42, 128, 118;
+  --callout-icon: lucide-crosshair;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 96% 12%, rgba(var(--callout-color), 0.14), transparent 34%),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.12), transparent 44%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="method-scope"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="method-scope"] > .callout-title .callout-title-inner::before {
+  content: "SCOPE";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="method-scope"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="method-scope"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-areas:
+    "object question"
+    "unit output";
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="method-scope"] > .callout-content > ul > li {
+  min-height: 5.4rem;
+  margin: 0;
+  padding: 0.78rem 0.86rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(1) { grid-area: object; }
+.callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(2) { grid-area: question; }
+.callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(3) { grid-area: unit; }
+.callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(4) { grid-area: output; }
+
+.callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(n + 5) {
+  grid-column: 1 / -1;
+  min-height: auto;
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   METHOD-FIT — 方法适用判断三格
+   固定 3 列：适合 / 谨慎 / 不适合
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="method-fit"] {
+  --callout-color: 126, 104, 42;
+  --callout-icon: lucide-gauge;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.11), transparent 42%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="method-fit"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before {
+  content: "FIT";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="method-fit"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="method-fit"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="method-fit"] > .callout-content > ul > li {
+  min-height: 6rem;
+  margin: 0;
+  padding: 0.78rem 0.86rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(n + 4) {
+  grid-column: 1 / -1;
+  min-height: auto;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="method-scope"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "object"
+      "question"
+      "unit"
+      "output";
+  }
+
+  .callout[data-callout="method-fit"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="method-scope"] {
+  --callout-color: 88, 184, 172;
+}
+
+.theme-dark .callout[data-callout="method-fit"] {
+  --callout-color: 212, 174, 82;
+}
+
+.theme-dark .callout[data-callout="method-scope"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
    用途：McKnight 式长散文段落批评列表（点间需清晰分割）
    颜色：酒红 rgb(138, 52, 78)
