@@ -125,9 +125,9 @@ Concept 页面常用位置：
 | 核心命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!line-a]`、`[!logic-map]`、`[!finding-cards]` |
 | 概念演变 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
 | 理论语境 | `[!logic-map]`、`[!frames-ref]`、`[!quad-grid]`、`[!col-l]` + `[!col-r]` |
-| 实证发现 | 默认一句话索引；材料丰富时可选 `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
+| 实证发现 | 默认用 `[!evidence-grid-a]` 承载一句话索引；材料丰富时可选 `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-b]` |
 | 争议与批评 | 根据实际材料选用 `[!tension]`、`[!warning]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]` |
-| 应用案例 | 默认一句话索引；材料丰富时可选 `[!case]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
+| 应用案例 | 默认用 `[!case]` 承载一句话索引；材料丰富时可选 `[!evidence-grid-a]`、`[!evidence-grid-b]` |
 | 关键引用 | `[!citation-card]` |
 
 注意：

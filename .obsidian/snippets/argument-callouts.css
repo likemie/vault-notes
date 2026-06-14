@@ -3265,7 +3265,6 @@
   width: 100%;
   border-collapse: collapse;
   margin: 0;
-  font-size: 0.80em;
   table-layout: fixed;
 }
 
@@ -3307,6 +3306,7 @@
   padding: 0.55rem 0.7rem;
   border-bottom: 1px solid rgba(var(--mono-rgb-100, 0,0,0), 0.06);
   vertical-align: top;
+  font-size: 0.82em;
   line-height: 1.6;
   word-break: break-word;
   overflow-wrap: anywhere;

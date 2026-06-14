@@ -132,8 +132,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 实证发现
 
-- [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念。
-- [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明关键发现或适用条件。
+> [!evidence-grid-a] 实证发现索引
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明关键发现或适用条件。
 
 ---
 
@@ -153,5 +154,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 应用案例
 
-- [[案例或研究]] — 一句话说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-- [[案例或研究]] — 一句话说明可迁移条件或使用边界。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!case] 应用案例索引
+> - [[案例或研究]] — 一句话说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - [[案例或研究]] — 一句话说明可迁移条件或使用边界。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
