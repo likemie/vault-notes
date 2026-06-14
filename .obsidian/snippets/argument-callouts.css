@@ -3961,6 +3961,94 @@
   color: rgb(170, 140, 255);
 }
 
+/* ════════════════════════════════════════════════════════════════════
+   [!formula-step]  —  单公式教学步骤
+   用途：一个公式对应一个数学解释和结果解读，避免新手被公式总表淹没
+   ════════════════════════════════════════════════════════════════════ */
+.callout[data-callout="formula-step"] {
+  --callout-color: 78, 92, 168;
+  --callout-icon: lucide-square-function;
+  background:
+    linear-gradient(135deg, rgba(78, 92, 168, 0.08), rgba(78, 92, 168, 0.02)),
+    var(--background-primary);
+  border: 1px solid rgba(78, 92, 168, 0.20);
+  border-left: 6px solid rgb(78, 92, 168);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(78, 92, 168, 0.07);
+}
+
+.callout[data-callout="formula-step"] > .callout-title {
+  color: rgb(78, 92, 168);
+  font-weight: 760;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="formula-step"] > .callout-title .callout-title-inner::before {
+  content: "STEP";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(78, 92, 168, 0.13);
+  color: rgb(78, 92, 168);
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="formula-step"] .callout-content mjx-container[display="true"],
+.callout[data-callout="formula-step"] .callout-content .math-block {
+  display: block !important;
+  text-align: center;
+  margin: 0.45rem 0 0.75rem !important;
+  padding: 0.6rem 1rem;
+  background: rgba(78, 92, 168, 0.06);
+  border: 1px solid rgba(78, 92, 168, 0.15);
+  border-radius: 6px;
+  font-size: 1.06em;
+  overflow-x: auto;
+}
+
+.callout[data-callout="formula-step"] .callout-content p > strong:first-child {
+  color: rgb(78, 92, 168);
+  font-weight: 760;
+}
+
+.callout[data-callout="formula-step"] .callout-content p {
+  margin-block: 0.45rem;
+}
+
+.callout[data-callout="formula-step"] .callout-content p + p {
+  padding-top: 0.42rem;
+  border-top: 1px solid rgba(78, 92, 168, 0.10);
+}
+
+.theme-dark .callout[data-callout="formula-step"] {
+  --callout-color: 136, 146, 230;
+  background:
+    linear-gradient(135deg, rgba(78, 92, 168, 0.14), rgba(78, 92, 168, 0.04)),
+    var(--background-primary);
+  border-color: rgba(136, 146, 230, 0.25);
+  border-left-color: rgb(136, 146, 230);
+}
+
+.theme-dark .callout[data-callout="formula-step"] > .callout-title,
+.theme-dark .callout[data-callout="formula-step"] .callout-content p > strong:first-child {
+  color: rgb(156, 166, 245);
+}
+
+.theme-dark .callout[data-callout="formula-step"] > .callout-title .callout-title-inner::before {
+  background: rgba(136, 146, 230, 0.18);
+  color: rgb(176, 184, 255);
+}
+
+.theme-dark .callout[data-callout="formula-step"] .callout-content mjx-container[display="true"],
+.theme-dark .callout[data-callout="formula-step"] .callout-content .math-block {
+  background: rgba(78, 92, 168, 0.13);
+  border-color: rgba(136, 146, 230, 0.22);
+}
+
 /* ─── 公式变量表、结果表、软件实现表 ───────────────────── */
 .callout[data-callout="formula"] .callout-content table,
 .callout[data-callout="formula-set"] .callout-content table,
