@@ -27,6 +27,10 @@
 | `[!info]` | 定义、背景、方法说明、前提条件 |
 | `[!abstract]` | 核心主张摘要、理论框架、政策摘要、章节结构 |
 | `[!question]` | 研究问题、经验谜题、核心关切 |
+| `[!claim]` | 核心主张、局部命题、论证步骤中的可争辩判断 |
+| `[!warrant]` | 证据与主张之间的推理桥梁、理论支撑理由 |
+| `[!implication]` | 发现、命题或论证的理论、方法和实践后果 |
+| `[!concept-lens]` | 概念的含义、用途和边界三联透镜 |
 | `[!success]` | 主要发现、影响、效果 |
 | `[!warning]` | 局限、风险、重要例外 |
 | `[!tip]` | 理论提示、相关理论、可迁移经验 |
@@ -67,10 +71,10 @@ Argument 页面常用位置：
 | 位置 | 推荐 callout |
 |---|---|
 | 研究问题 | `[!question]`、`[!stat-cards]` |
-| 理论框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]` |
+| 理论框架 | `[!framework-table]`、`[!logic-map]`、`[!frames-ref]`、`[!warrant]` |
 | 研究方法 | `[!method-panel]`、`[!sample-panel]` |
-| 论证结构 | `[!logic-map]`、`[!line-a]`、`[!chain-link]`、`[!contrast-table]` |
-| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]` |
+| 论证结构 | `[!logic-map]`、`[!claim]`、`[!chain-link]`、`[!warrant]`、`[!contrast-table]` |
+| 主要发现 | `[!finding-cards]`、`[!stat-cards]`、`[!evidence-grid]`、`[!implication]` |
 | 讨论与批评 | `[!critique-method]`、`[!critique-logic]`、`[!critique-data]`、`[!critique-fatal]`、`[!conclusion]` |
 | 关键引用 | `[!citation-card]` |
 
@@ -81,6 +85,9 @@ Argument 页面常用位置：
 - `[!chain-link]` 用于完整的“证据 → 分析结论”链节，各块内容应自足。
 - `[!stat-cards]` 在方法章节可写样本量；在主要发现章节应优先写结果数据，不把受访人数等样本背景混入核心发现。
 - `[!finding-cards]` 适合 3–4 条核心发现；超过 4 条时改用小节或证据网格。
+- `[!claim]` 必须写可争辩判断，不写材料描述。
+- `[!warrant]` 必须解释“为什么证据能支持主张”，不重复证据。
+- `[!implication]` 用于收束意义，避免把所有延伸讨论塞进主要发现。
 
 ---
 
@@ -112,9 +119,9 @@ Concept 页面常用位置：
 
 | 位置 | 推荐 callout |
 |---|---|
-| 定义 | `[!info]`、`[!def]`、`[!boundary]`、`[!quote]` |
+| 定义 | `[!def]`、`[!concept-lens]`、`[!boundary]`、`[!quote]` |
 | 概念辨析 | `[!contrast-table]` |
-| 核心命题 | `[!abstract]`、`[!logic-map]`、`[!line-a]`、`[!line-b]`、`[!finding-cards]`、`[!feature]` |
+| 核心命题 | `[!claim]`、`[!warrant]`、`[!implication]`、`[!logic-map]`、`[!finding-cards]`、`[!feature]` |
 | 概念演变 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
 | 理论语境 | `[!logic-map]`、`[!frames-ref]`、`[!quad-grid]`、`[!col-l]` + `[!col-r]` |
 | 实证发现 | `[!stat-cards]`、`[!finding-cards]`、`[!evidence-grid-a]`、`[!evidence-grid-b]` |
@@ -129,6 +136,7 @@ Concept 页面常用位置：
 - `[!dev-timeline]+` 适合有丰富子事件的概念发展；内容少时降级为 `[!timeline]` 或 `[!phase]`。
 - `[!citation-card]` 每节最多 1–2 个，优先集中到页面后部。
 - `[!contrast-table]` 是 `## 概念辨析` 的首选样式。
+- `[!concept-lens]` 适合定义章节开头，用三点快速说明“含义、用途、边界”。
 
 ---
 

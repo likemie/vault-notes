@@ -32,12 +32,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 定义
 
-> [!info] 核心定义
+> [!def] 核心定义
 > 用一段话说明概念的核心含义、适用范围和边界，附 Argument citation。
 
-> [!quote]
-> 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original/English: Original text or English translation.
+> [!concept-lens] 概念透镜
+> - **含义**：这个概念指向什么对象、关系或机制。
+> - **用途**：它帮助研究者看见什么问题。
+> - **边界**：它不适合解释什么，或容易与什么概念混淆。
 
 > [!boundary]- 概念边界
 > 说明本概念不等于什么、不适用于什么。
@@ -59,7 +60,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 核心命题
 
-> [!abstract]
+> [!claim] 核心命题总览
 > 用一两句话说明各命题的内在逻辑，例如"命题 A 确立机制 → 命题 B 说明条件 → 命题 C 延伸至空间尺度"。
 
 > [!logic-map] 命题关系
@@ -73,19 +74,20 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 >     E -- 关系标签 --> F["⑤ 命题九"]
 > ```
 
-> [!line-a] 命题一（英文名）
+> [!claim] 命题一（英文名）
 > 命题内容说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!line-b] 命题二 / 延伸（英文名）
-> 与命题一的逻辑关系，以及具体说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!warrant]- 命题一的支撑理由
+> 说明该命题依赖什么理论前提、经验材料或分类标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
-> [!line-a] 命题三（英文名）
+> [!claim] 命题二（英文名）
 > 命题内容说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!line-b] 命题四 / 延伸（英文名）
-> 内容说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!implication]- 命题后果
+> - **解释后果**：该命题改变了什么解释路径。
+> - **应用后果**：该命题适合用于哪些研究对象或案例。
 
 ---
 
@@ -104,6 +106,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - [[理论 A]] — 本概念如何源自或扩展该理论。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - [[理论 B]] ←→ 本概念 — 对话或张力关系说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - [[研究传统 C]] — 本概念在该传统中的位置。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!warrant]- 理论位置说明
+> 说明为什么这个概念应归入这些理论传统，而不是只列相关理论名称。
 
 ---
 
@@ -144,8 +149,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 应用案例
 
-> [!evidence-grid-a] 领域 A
+> [!case] 案例 A
 > - [[案例或研究]] — 说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!evidence-grid-b] 领域 B
+> [!case] 案例 B
 > - [[案例或研究]] — 说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!implication]- 可迁移性
+> - **可迁移条件**：这个概念可以迁移到哪些相似情境。
+> - **不可迁移边界**：哪些情境中使用它会造成误读。

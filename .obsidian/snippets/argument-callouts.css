@@ -229,9 +229,6 @@
     grid-template-columns: 1fr;
   }
 }
-}
-}
-}
 /* ─── step（论证步骤 — 箭头纹 + STEP 角标） ─────────── */
 .callout[data-callout="step"] {
   --callout-color: 175, 105, 55;
@@ -3268,7 +3265,7 @@
   width: 100%;
   border-collapse: collapse;
   margin: 0;
-  font-size: 0.895em;
+  font-size: 0.83em;
   table-layout: fixed;
 }
 
@@ -3321,7 +3318,6 @@
   color: var(--text-normal);
   border-right: 1px solid rgba(45, 100, 160, 0.10);
   white-space: normal;
-  font-size: 0.9em;
 }
 
 .callout[data-callout="meta-table"] tbody tr:last-child td { border-bottom: none; }
@@ -4309,3 +4305,177 @@
 .theme-dark .callout[data-callout="conclusion"] > .callout-content strong {
   color: rgb(130, 178, 238);
 }
+
+/* ══════════════════════════════════════════════════════════════
+   CLAIM / WARRANT / IMPLICATION / CONCEPT-LENS
+   功能型写作 callout：主张、推理桥梁、意义后果、概念透镜
+   ══════════════════════════════════════════════════════════════ */
+
+.callout[data-callout="claim"],
+.callout[data-callout="warrant"],
+.callout[data-callout="implication"],
+.callout[data-callout="concept-lens"] {
+  background: var(--background-primary);
+  border: 1px solid rgba(var(--callout-color), 0.18);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(var(--callout-color), 0.07);
+  overflow: hidden;
+}
+
+.callout[data-callout="claim"] > .callout-title,
+.callout[data-callout="warrant"] > .callout-title,
+.callout[data-callout="implication"] > .callout-title,
+.callout[data-callout="concept-lens"] > .callout-title {
+  padding: 0.56rem 1rem;
+  background: linear-gradient(90deg, rgba(var(--callout-color), 0.10), rgba(var(--callout-color), 0.025));
+  border-bottom: 1px solid rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-weight: 700;
+}
+
+.callout[data-callout="claim"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="warrant"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="implication"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-size: 0.64em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="claim"] {
+  --callout-color: 38, 96, 145;
+  --callout-icon: lucide-badge-check;
+}
+
+.callout[data-callout="claim"] > .callout-title .callout-title-inner::before {
+  content: "CLAIM";
+}
+
+.callout[data-callout="claim"] > .callout-content {
+  padding: 0.85rem 1.05rem;
+  font-size: 1.01em;
+  line-height: 1.7;
+}
+
+.callout[data-callout="claim"] > .callout-content > p:first-child {
+  margin-top: 0;
+  font-weight: 560;
+}
+
+.callout[data-callout="warrant"] {
+  --callout-color: 172, 118, 42;
+  --callout-icon: lucide-waypoints;
+}
+
+.callout[data-callout="warrant"] > .callout-title .callout-title-inner::before {
+  content: "WARRANT";
+}
+
+.callout[data-callout="warrant"] > .callout-content {
+  padding: 0.75rem 1.05rem;
+  line-height: 1.68;
+  background:
+    linear-gradient(90deg, rgba(var(--callout-color), 0.055), transparent 42%),
+    var(--background-primary);
+}
+
+.callout[data-callout="warrant"] > .callout-content > p:first-child::before {
+  content: "because";
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 0 0.38rem;
+  border-radius: 4px;
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-size: 0.72em;
+  font-weight: 760;
+  letter-spacing: 0.04em;
+}
+
+.callout[data-callout="implication"] {
+  --callout-color: 42, 128, 96;
+  --callout-icon: lucide-corner-down-right;
+}
+
+.callout[data-callout="implication"] > .callout-title .callout-title-inner::before {
+  content: "SO WHAT";
+}
+
+.callout[data-callout="implication"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0.75rem;
+  list-style: none;
+}
+
+.callout[data-callout="implication"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-radius: 7px;
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="implication"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.18rem;
+  color: rgb(var(--callout-color));
+}
+
+.callout[data-callout="concept-lens"] {
+  --callout-color: 92, 82, 168;
+  --callout-icon: lucide-focus;
+}
+
+.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::before {
+  content: "LENS";
+}
+
+.callout[data-callout="concept-lens"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.6rem;
+  margin: 0;
+  padding: 0.8rem;
+  list-style: none;
+}
+
+.callout[data-callout="concept-lens"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.7rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  background:
+    radial-gradient(circle at top right, rgba(var(--callout-color), 0.10), transparent 44%),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.96em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="concept-lens"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="claim"] { --callout-color: 92, 156, 220; }
+.theme-dark .callout[data-callout="warrant"] { --callout-color: 218, 158, 78; }
+.theme-dark .callout[data-callout="implication"] { --callout-color: 82, 180, 138; }
+.theme-dark .callout[data-callout="concept-lens"] { --callout-color: 150, 136, 230; }
