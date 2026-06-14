@@ -58,10 +58,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 编者论点
 
-> [!question]
+> [!question] 编者问题
 > 前言、导论或编者说明中的核心问题与组织立场，附页码。
 
-> [!quote]
+> [!citation-card]- 编者关键表述
 > 中文译文或中文原文。（p.X）
 > Original/English: Original text or English translation.
 
@@ -69,22 +69,27 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 全书结构
 
-> [!abstract]
+> [!framework-table] 全书结构
 > 编者对各章的分组逻辑与组织框架，说明全书如何回应编者论点。
+> | 部分 | 组织逻辑 |
+> |---|---|
+> | Part I | 一句话说明该部分如何回应编者论点。（p.X） |
 
 ---
 
 ## 理论框架
 
-> [!tip]
+> [!framework-table] 理论框架
 > 全书共用的理论视角或分析框架（如有），附来源。
-> - [[理论名]] — 一句话说明在全书中的角色
+> | 理论 / 概念 | 在全书中的角色 |
+> |---|---|
+> | [[理论名]] | 一句话说明在全书中的角色。（p.X） |
 
 ---
 
 ## 各章概览
 
-> [!example]
+> [!evidence-grid-a] 章节索引
 > - [[Argument_ChapterAuthor_Year_关键词]] — 该章核心贡献简述，涵盖主要论点、证据和发现。
 
 ---

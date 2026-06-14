@@ -138,6 +138,7 @@ Edited volume overview 是论文集或编著的结构入口，不是主要可引
 - `subtype` 使用 `edited-volume-overview`，`publication_type` 使用 `edited-volume`。
 - overview 不填写 `citation_aliases`，不进入 citation 索引。
 - `summary` 说明论文集的组织问题、编者立场和全书结构，不写成图书简介。
+- `## 全书结构` 和 `## 理论框架` 优先使用 `[!framework-table]`。
 - `## 各章概览` 只记录章节 Argument 链接和核心贡献。
 - `## 来源` 只列 overview source record wikilink。
 
@@ -162,6 +163,7 @@ Monograph Argument 是整本专著的论证入口。章节处理阶段先累积�
 - 使用 `template-argument-monograph.md`。
 - `subtype` 使用 `monograph`，`publication_type` 使用 `book`。
 - 每章处理结果追加到 `## 各章概览`，不写成完整小型笔记。
+- `## 理论框架` 优先使用 `[!framework-table]`；`## 研究方法` 优先使用 `[!method-panel]`；`## 论证结构` 可用 `[!argument-map]` 承载全书论证路径。
 - 关键引用持续补充到 `## 关键引用`，标注章节与页码；没有页码时只标注章节，不编造页码。
 - 整本书 source record 创建前，可以暂时省略 `## 来源` 的 source wikilink；source record 创建后再补入。
 - `summary` 说明全书核心论证，写法为“研究对象/核心问题 + 理论视角/材料 + 全书论证或发现”。
@@ -182,6 +184,7 @@ Textbook Argument 记录教材的知识推进结构。具体定义、分类、�
 - 使用 `template-argument-textbook.md`。
 - `subtype` 使用 `textbook`，`publication_type` 使用 `book`。
 - `## 章节结构` 只保留三列：章节、内容概要、主要关联条目。
+- `## 章节结构` 优先使用 `[!ref-table]`；`## 章节概览` 每章可用 `[!chapter-question]` 标出本章位置。
 - 主要关联条目只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person。
 - `## 章节概览` 跟随教材自身知识推进逻辑，记录概念、理论、证据、案例、表格、图片和结论如何展开。
 - 已建条目只简单提及，详细内容写入具体条目。

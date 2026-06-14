@@ -73,15 +73,19 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 章节结构
 
-| 章节 | 内容概要 | 主要关联条目 |
-|---|---|---|
-| 第X章 章节标题 | 用一两句话说明这一章主要讲什么。 | Concept A、Theory B、Fact C |
+> [!ref-table] 章节结构
+> | 章节 | 内容概要 | 主要关联条目 |
+> |---|---|---|
+> | 第X章 章节标题 | 用一两句话说明这一章主要讲什么。 | Concept A、Theory B、Fact C |
 
 ---
 
 ## 章节概览
 
 ### 第X章 章节标题
+
+> [!chapter-question]
+> 一句话说明本章在教材知识推进中的位置。
 
 #### 概览
 
@@ -91,7 +95,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 重要摘录
 
-> [!quote]
+> [!citation-card] 重要摘录
 > 中文译文或中文原文。（第X章，p.X）
 > Original/English: Original text or English translation.
 
