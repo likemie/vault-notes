@@ -287,6 +287,7 @@ Fact 页写事件、政策、项目、组织、制度安排或可核查事实。
 
 - `region` 必须尽量具体；全球性事实用 `global`，多国比较用 `multi`。
 - Event 必须有明确时间、地点和主体；Policy 必须说明出台时间、发布主体、适用地区和制度对象。
+- Event 的 `## 背景` 优先使用 `[!event-context]`，交代时间地点、关键主体、制度背景和触发条件。
 - 经过、实施和演变类内容按时间顺序排列；简单时间线用 `[!timeline]`，复杂事件用 `[!phase]` 或 `[!dev-timeline]` 分阶段呈现。
 - 影响、效果和评价优先使用 `[!finding-cards]`、`[!stat-cards]` 或 `[!lessons]`。
 - Event 的 `## 争议与评论` 按评论视角和争议焦点组织；不同人或机构的评论可先用 `[!actor-grid]` 区分视角，再用 `[!tension]`、`[!citation-card]` 或 `[!critique-*]` 展开。

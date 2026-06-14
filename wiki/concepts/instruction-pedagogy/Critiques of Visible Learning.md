@@ -1060,7 +1060,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]从文化政治视角提出七点系统批评：
 
-> [!critique]- McKnight & Whitburn (2020) 文化政治七点批评
+> [!critique-essay] McKnight & Whitburn (2020) 文化政治七点批评
 >
 > 1. **VL 承载政治包袱** — "可见的学习"在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在"[[Ontology|本体论]]上不安全"的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
 >

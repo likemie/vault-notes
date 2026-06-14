@@ -33,8 +33,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 背景
 
-> [!abstract] 事件背景
+> [!event-context] 事件背景
 > 说明事件发生的时间、地点、主体和社会、政治、教育或制度背景。只写可由来源支持的事实。
+> - **时间 / 地点**：事件发生的时间范围与空间范围。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **关键主体**：行动者、机构、群体或受影响对象。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **制度背景**：相关政策、规则、组织环境或历史条件。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **触发条件**：直接诱因、争议起点或前置事件。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 

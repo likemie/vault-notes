@@ -4485,3 +4485,249 @@
 .theme-dark .callout[data-callout="warrant"] { --callout-color: 218, 158, 78; }
 .theme-dark .callout[data-callout="implication"] { --callout-color: 82, 180, 138; }
 .theme-dark .callout[data-callout="concept-lens"] { --callout-color: 150, 136, 230; }
+
+
+/* ═══════════════════════════════════════════════════════════
+   EVENT-CONTEXT — 事件背景档案
+   用于时间、地点、主体、制度背景和触发条件
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="event-context"] {
+  --callout-color: 36, 111, 118;
+  --callout-icon: lucide-map-pinned;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.13), transparent 42%),
+    radial-gradient(circle at 94% 10%, rgba(var(--callout-color), 0.14), transparent 36%),
+    var(--background-primary);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.045);
+}
+
+.callout[data-callout="event-context"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(rgba(var(--callout-color), 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--callout-color), 0.035) 1px, transparent 1px);
+  background-size: 22px 22px;
+  mask-image: linear-gradient(90deg, transparent, black 18%, black 82%, transparent);
+}
+
+.callout[data-callout="event-context"] > .callout-title {
+  position: relative;
+  padding: 0.68rem 1rem 0.55rem;
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.13);
+}
+
+.callout[data-callout="event-context"] > .callout-title .callout-title-inner::before {
+  content: "CONTEXT";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="event-context"] > .callout-content {
+  position: relative;
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="event-context"] > .callout-content > p:first-child {
+  margin-top: 0;
+  margin-bottom: 0.78rem;
+  color: var(--text-normal);
+  font-weight: 520;
+  line-height: 1.7;
+}
+
+.callout[data-callout="event-context"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.62rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="event-context"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.74rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 7px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.38), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
+
+.callout[data-callout="event-context"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.9em;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="event-context"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="event-context"] {
+  --callout-color: 82, 174, 184;
+  border-color: rgba(var(--callout-color), 0.22);
+  box-shadow:
+    0 3px 10px rgba(var(--callout-color), 0.07),
+    0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
+.theme-dark .callout[data-callout="event-context"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   CRITIQUE-ESSAY — 散文式多点批评
+   用途：McKnight 式长散文段落批评列表（点间需清晰分割）
+   颜色：酒红 rgb(138, 52, 78)
+   特征：点间分割线 + 标题着色 + 宽松间距 + marker 着色
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="critique-essay"] {
+  background: var(--background-primary);
+  border: 1px solid rgba(138, 52, 78, 0.18);
+  border-left: 6px solid rgb(138, 52, 78);
+  border-radius: 7px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 3px 12px rgba(138, 52, 78, 0.07);
+}
+
+.callout[data-callout="critique-essay"] > .callout-title {
+  color: rgb(138, 52, 78);
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  padding: 0.6rem 1.1rem;
+  background: linear-gradient(
+    90deg,
+    rgba(138, 52, 78, 0.07) 0%,
+    rgba(138, 52, 78, 0.02) 100%
+  );
+  border-bottom: 1px solid rgba(138, 52, 78, 0.14);
+}
+
+.callout[data-callout="critique-essay"] > .callout-title .callout-title-inner::before {
+  content: "CRITIQUE";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(138, 52, 78, 0.10);
+  color: rgb(138, 52, 78);
+  font-size: 0.67em;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="critique-essay"] > .callout-content {
+  padding: 0;
+}
+
+/* ── 每个点：blank-line 分隔 → 各自一个 <ol> ── */
+.callout[data-callout="critique-essay"] .callout-content ol {
+  margin: 0;
+  padding: 0.95rem 1.4rem 0.95rem 3.0rem;
+  border-top: 1px solid rgba(138, 52, 78, 0.13);
+  line-height: 1.74;
+  list-style-position: outside;
+  transition: background 0.15s;
+}
+
+.callout[data-callout="critique-essay"] .callout-content ol:first-of-type {
+  border-top: none;
+}
+
+/* 若 items 在同一 ol 内（无空行格式）*/
+.callout[data-callout="critique-essay"] .callout-content ol > li + li {
+  margin-top: 0.9rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid rgba(138, 52, 78, 0.10);
+}
+
+/* 悬停时轻微背景 */
+.callout[data-callout="critique-essay"] .callout-content ol:hover {
+  background: rgba(138, 52, 78, 0.028);
+}
+
+/* ── 数字 marker 着色 ── */
+.callout[data-callout="critique-essay"] .callout-content ol > li::marker {
+  color: rgb(138, 52, 78);
+  font-weight: 720;
+  font-size: 0.97em;
+}
+
+/* ── 每点首个 <strong>（标题）着色 ── */
+.callout[data-callout="critique-essay"] .callout-content li > strong:first-child,
+.callout[data-callout="critique-essay"] .callout-content li > p > strong:first-child {
+  color: rgb(138, 52, 78);
+}
+
+/* ── 深色模式 ── */
+.theme-dark .callout[data-callout="critique-essay"] {
+  border-left-color: rgb(192, 104, 132);
+  border-color: rgba(192, 104, 132, 0.22);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.22);
+}
+
+.theme-dark .callout[data-callout="critique-essay"] > .callout-title {
+  color: rgb(202, 114, 142);
+  background: linear-gradient(
+    90deg,
+    rgba(192, 104, 132, 0.10) 0%,
+    rgba(192, 104, 132, 0.02) 100%
+  );
+  border-bottom-color: rgba(192, 104, 132, 0.18);
+}
+
+.theme-dark .callout[data-callout="critique-essay"] > .callout-title .callout-title-inner::before {
+  background: rgba(202, 114, 142, 0.15);
+  color: rgb(202, 114, 142);
+}
+
+.theme-dark .callout[data-callout="critique-essay"] .callout-content ol {
+  border-top-color: rgba(192, 104, 132, 0.15);
+}
+
+.theme-dark .callout[data-callout="critique-essay"] .callout-content ol:hover {
+  background: rgba(192, 104, 132, 0.05);
+}
+
+.theme-dark .callout[data-callout="critique-essay"] .callout-content ol > li::marker {
+  color: rgb(202, 114, 142);
+}
+
+.theme-dark .callout[data-callout="critique-essay"] .callout-content li > strong:first-child,
+.theme-dark .callout[data-callout="critique-essay"] .callout-content li > p > strong:first-child {
+  color: rgb(210, 128, 156);
+}
