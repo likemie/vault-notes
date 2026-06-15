@@ -37,6 +37,7 @@ related_concepts:
   - "[[School Autonomy]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Critical Theory]]"
   - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Comparative Case Study]]"
@@ -183,7 +184,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - **[[Epistemology|认识论]]立场**：批判理论、比较教育政治学 —— 政策不是中立的"最佳实践"转移，而是政治权力的运作；研究者的任务是揭示借用行为背后的权力关系和政治动机
+> - **[[Epistemology|认识论]]立场**：[[Critical Theory|批判理论]]、比较教育政治学 —— 政策不是中立的"最佳实践"转移，而是政治权力的运作；研究者的任务是揭示借用行为背后的权力关系和政治动机
 > - **常用方法**：跨国[[Comparative Case Study|比较案例研究]]、过程追踪、[[Historical Document Analysis of Curriculum]]、政策文件分析、话语分析
 
 ## 实证发现

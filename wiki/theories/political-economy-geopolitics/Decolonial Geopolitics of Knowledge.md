@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Archival Correspondence Analysis]]"
 related_persons:
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 > [!tip]
 > 去殖民[[Geopolitics of Knowledge|知识地缘政治]]是 Parreira do Amaral（2022）"新[[Geopolitics of Knowledge|知识地缘政治]]"[[Analytic Framework|分析框架]]的**两大理论支柱之一**（另一支柱为[[Critical Geopolitics|批判地缘政治学]]）。它发源于拉丁美洲去殖民思想传统，将注意力引向[[Epistemology|认识论]]本身的政治性，与发源于英语世界人文地理学的另一脉络并列互补。详见 知识地缘政治 > 概念演变。
 >
-> 去殖民知识地缘政治（Decolonial Geopolitics of Knowledge）是 1990 年代至 2000 年代初在拉丁美洲去殖民思想传统中发展起来的批判理论，核心主张是：西方资本主义的全球扩张不仅意味着经济关系和政治控制的扩张，更密切地、互补地与一种特定的西方认识论（Western epistemology）及认知和存在方式相连——这种认识论通过殖民差异（colonial difference）维持并稳定了全球权力的空间表达（即殖民性, coloniality），同时系统地压制和消声了替代性的认识论、认知方式和存在方式([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]])。
+> 去殖民知识地缘政治（Decolonial Geopolitics of Knowledge）是 1990 年代至 2000 年代初在拉丁美洲去殖民思想传统中发展起来的[[Critical Theory|批判理论]]，核心主张是：西方资本主义的全球扩张不仅意味着经济关系和政治控制的扩张，更密切地、互补地与一种特定的西方认识论（Western epistemology）及认知和存在方式相连——这种认识论通过殖民差异（colonial difference）维持并稳定了全球权力的空间表达（即殖民性, coloniality），同时系统地压制和消声了替代性的认识论、认知方式和存在方式([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]])。
 >
 > > "The geopolitics of knowledge was organized around the diversification, through history, of the colonial and the imperial differences."（Mignolo, 2002, p.59, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）
 >

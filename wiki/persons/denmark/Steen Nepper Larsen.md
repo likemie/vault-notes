@@ -26,6 +26,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Systematic Review]]"
 related_persons:
@@ -93,7 +94,7 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 深受 [[Niklas Luhmann]] 社会[[Luhmann's Systems Theory|系统理论]]影响，尤其是盲点、[[Structural Coupling|结构耦合]]和社会系统/心理系统区分等概念
 > - 借鉴 Thomas Fuchs 的身体[[Phenomenology|现象学]]和大脑生态学视角
-> - 继承德国 [[Bildung]] 传统（Humboldt, Herder, Kant, Hegel, Nietzsche 至批判理论和概念史）
+> - 继承德国 [[Bildung]] 传统（Humboldt, Herder, Kant, Hegel, Nietzsche 至[[Critical Theory|批判理论]]和概念史）
 > - 与 [[Gert Biesta]] 共享对 [[Learnification]] 的批判立场，但 Larsen 更侧重将 Bildung 作为建构性替代方案和具身化维度
 
 ## 争议与批评

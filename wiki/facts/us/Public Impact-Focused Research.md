@@ -16,7 +16,8 @@ related_concepts:
   - "[[Convergence Research]]"
   - "[[Responsible Innovation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Participatory Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> 在美国，越来越多的社会响应型和影响驱动型研究倡议正在开展，但它们往往是各自独立的、各自使用自己的术语——例如围绕"大挑战"（grand challenges）、社区参与式研究（community-based participatory research）、[[Convergence Research|融合研究]]（convergence research）和高度整合的基础与响应研究（highly integrative basic and responsive research）。这种碎片化和术语不一致阻碍了系统性推广。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 40-41)]]
+> 在美国，越来越多的社会响应型和影响驱动型研究倡议正在开展，但它们往往是各自独立的、各自使用自己的术语——例如围绕"大挑战"（grand challenges）、社区[[Participatory Research|参与式研究]]（community-based participatory research）、[[Convergence Research|融合研究]]（convergence research）和高度整合的基础与响应研究（highly integrative basic and responsive research）。这种碎片化和术语不一致阻碍了系统性推广。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 40-41)]]
 
 ---
 ## 政策文本摘要

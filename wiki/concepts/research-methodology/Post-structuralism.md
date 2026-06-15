@@ -6,7 +6,8 @@ type: concept
 tags: [paradigm/poststructural, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Postmodernism]]"
-related_theories: []
+related_theories:
+  - "[[Critical Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -35,4 +36,4 @@ updated: 2026-06-14
 
 ## 与批判理论的关系
 
-后结构主义通过知识–权力的关系与批判理论相连，但哈贝马斯（Habermas, 1987）反对批判理论与[[Postmodernism|后现代主义]]或后结构主义的亲缘性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+后结构主义通过知识–权力的关系与[[Critical Theory|批判理论]]相连，但哈贝马斯（Habermas, 1987）反对批判理论与[[Postmodernism|后现代主义]]或后结构主义的亲缘性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

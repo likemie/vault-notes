@@ -50,13 +50,12 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
-  - "[[Reflexivity]]"
   - "[[Post-structuralism]]"
+  - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
   - "[[Scientism]]"
-  - "[[Neo-Taylorism]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Global Education Reform Movement]]"
   - "[[Cargo Cult Science]]"
@@ -64,10 +63,12 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Causality]]"
   - "[[Structural Coupling]]"
+  - "[[Reflexivity]]"
 related_theories:
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"
+  - "[[Critical Theory]]"
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -932,7 +933,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 - 这一转变的关键特征是**价值中立的工具理性**取代了传统共识理性——*"This kind of rationality is characterized by being instrumental and value neutral"*（p. 85）
 - 现代国家机构通过**咨询专家**（而非公民积极参与）并应用技术科学逻辑来解决复杂的经济、政治和文化问题——*"modern state institutions seek to solve the complex economic, political, and cultural problems of society by consulting experts (not through citizens' active participation) and applying technical scientific logic"*（Habermas, 1976, p. 34, cited in Nielsen & Klitmøller, 2021, p. 85）
 
-> [!example]- 丹麦：PISA 冲击后的政策转向（Nielsen & Klitmøller, 2021, p. 82）
+> [!example]- 丹麦：[[PISA]] 冲击后的政策转向（Nielsen & Klitmøller, 2021, p. 82）
 > 前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"，从以儿童为中心的教育学转向以可测量的学习成果为中心的技术管理模式。
 
 **第三步：合法化危机的结构性矛盾**
@@ -974,7 +975,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 **(2) VL 将教育实践转化为可管理和可控制的技术操作单元：**
 
 > [!citation-card] Nielsen & Klitmøller, 2021, p. 87
-> *"哈蒂将教学过程拆解为易于获取的技术性、零碎的输入与输出干预——这些干预可被层级化、控制与测量——恰恰满足了优化教育系统效率的需要。"*
+> *"[[John Hattie|哈蒂]]将教学过程拆解为易于获取的技术性、零碎的输入与输出干预——这些干预可被层级化、控制与测量——恰恰满足了优化教育系统效率的需要。"*
 > 
 > *"Hattie's division of teaching sessions into easy accessible technical, piecemeal input and output interventions that can be hierarchized, controlled, and measured was just what was needed for optimizing the educational system's efficiency."*
 
@@ -1008,7 +1009,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 > [!critique] 第二重：学习目标被神圣化——封闭系统的创造
 >
 >> [!citation-card] Nielsen & Klitmøller, 2021, pp. 88–89
->> *"在哈蒂的可见学习理论中，教师必须借助[[Feedback|反馈]]、前馈与前进，创造一种环境：学生在反馈系统所提供的强化机制作用下，将自身活动引向已预先制定的学习目标。这是一个封闭系统，其中学习目标使教学手段变得神圣不可质疑。"*
+>> *"在哈蒂的可见学习理论中，教师必须借助反馈、前馈与前进，创造一种环境：学生在反馈系统所提供的强化机制作用下，将自身活动引向已预先制定的学习目标。这是一个封闭系统，其中学习目标使教学手段变得神圣不可质疑。"*
 >> 
 >> *"In Hattie's theory of visible learning, the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students, through the reinforcement that lies in the feedback system, direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching."*
 >
@@ -1041,7 +1042,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 > | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
 > | **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
 
-此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 批判理论出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
+此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 [[Critical Theory|批判理论]]出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 
 
 ### Hattie 的先验立场（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）
@@ -1076,7 +1077,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 > [!critique-essay] McKnight & Whitburn (2020) 文化政治七点批评
 >
-> 1. **VL 承载政治包袱** — *"可见的学习"*在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在*"[[Ontology|本体论]]上不安全"*的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
+> 1. **[[Visible Learning|VL]] 承载政治包袱** — *"可见的学习"*在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在*"[[Ontology|本体论]]上不安全"*的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
 >
 > 2. **VL 模拟色情片逻辑** — VL 由单一男性权威（Hattie）主导，痴迷于*"射精式的结果"*（ejaculatory outcomes）（Connell, 2013）。在以女性为主的职业中，教师被置于异性恋规范与能力主义的建构之下（Apple, 1986/2013）；看与被看历史上是男性领域（Berger, 1972），女性被定位为凝视的对象（Mulvey, 1975）。新自由主义的*"金钱镜头"*（money shots）是国家测试分数与排名表，而非不可量化的关怀行为（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 35]]）。作者将此改编为数据成瘾自查：*"你是否发现自己寻找越来越极端的数据？"*——将数据量与洞察力混淆，成瘾在加剧（p. 36）。
 >
@@ -1088,7 +1089,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——假设教师能看到学生所看到的（既是能力主义的也是傲慢的），将成长仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
 >
-> 7. **VL 基于能力主义假设** — VL 坚持*"只有可见的才重要"*，对*"成功"*和*"被纳入"*做出了规范性和能力主义的假设（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 41]]）。能力主义*"设定两个截然不同的本体论区域：残疾的和健全的"*（Campbell, 2009, p. 8）；在 VL 框架中，通过视觉感知的能力被正常化，其他感知方式在认识论上被抹除。有视觉障碍的教师或学生通过*"缺乏视力"*被建构为排斥对象——而这种排斥从未被计入效应量。对视觉傲慢的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979），包容性教育理论亦指出排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）。
+> 7. **VL 基于能力主义假设** — VL 坚持*"只有可见的才重要"*，对*"成功"*和*"被纳入"*做出了规范性和能力主义的假设（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 41]]）。能力主义*"设定两个截然不同的本体论区域：残疾的和健全的"*（Campbell, 2009, p. 8）；在 VL 框架中，通过视觉感知的能力被正常化，其他感知方式在[[Epistemology|认识论]]上被抹除。有视觉障碍的教师或学生通过*"缺乏视力"*被建构为排斥对象——而这种排斥从未被计入效应量。对视觉傲慢的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979），包容性教育理论亦指出排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）。
 
 ---
 
@@ -1097,7 +1098,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识论]]角度出发，提出了与前述方法论和文化政治批评维度互补的批评路径。关于 [[Visible Learning|VL]] 品牌的具体传播网络和制度嵌入，详见上方[[#历史沿革|历史沿革]]章节。
 
-> [!critique] Neo-Taylorism 论题
+> [!critique] [[Neo-Taylorism]] 论题
 > Hattie 的 VL 是*"新时代的泰勒主义"*（Taylorism for a new time）（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。其与 Taylor（1911）科学管理的结构同源性体现在三个平行：
 > - Taylor 追求消除*"soldiering"*（磨洋工），Hattie 追求消除*"coasting"*（得过且过）
 > - Taylor 将工作拆解为最小组件以标准化执行，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表
@@ -1136,7 +1137,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 $d=0.09$ 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（pp. 32–33）
 > - **方法论不透明定性**：*"我们认为这种不透明的方法论陈述有悖科学探究的精神"*（*"We view this opaque exposition of methodology as outside the spirit of scientific inquiry"*）（p. 26）
 
-> [!critique] 角度二：新泰勒主义——教师监视与去专业化
+> [!critique] 角度二：[[Neo-Taylorism|新泰勒主义]]——教师监视与去专业化
 > Johnson & Janzen 详细追溯了从 Taylor 科学管理到 VL 全景监控的历史链条（参见 [[Neo-Taylorism]]）：
 > - **asTTle 的全景设计**：Hattie 等（2003）明确写道*"允许管理者监控全校六个科目的 asTTle 使用情况"*——VL 的气压计图形直接进口自此工具（p. 28）
 > - **Hattie 对教师的贬低**：记录 Hattie 在 VL 中将教学定性为*"不成熟的职业"*、将教师的故事贬为*"战争故事和轶事"*的多处原文（pp. 28–29）
@@ -1146,7 +1147,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] 角度三：新自由主义商业化——经济利益追踪
 > Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及*"饥饿-危机-私有化"*循环。详见 [[Visible Learning Branding and Global Influences]]。
 
-> [!critique] 角度四：Cargo Cult Science——科学的误用
+> [!critique] 角度四：[[Cargo Cult Science]]——科学的误用
 > Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
 > - VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p. 35）
 > - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的可错论（fallibilism）旨在区分科学与伪科学——*"Popper 当然不是在暗示科学是由提出毫无根据的主张、留待他人反驳所构成的"*（*"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"*）（p. 35）
@@ -1187,7 +1188,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!tension] 论证一：批评者形成了意识形态驱动的解释社群
 > Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评文献，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 [[Karl Popper|Popper]] 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 3–4]]）。
 
-> [!logic-map] 论证二：定量与定性的对立源于混淆认识论与本体论
+> [!logic-map] 论证二：定量与定性的对立源于混淆[[Epistemology|认识论]]与[[Ontology|本体论]]
 > Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证[[Epistemology|认识论]]维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。此论证直接回应了批评者对 VL 定量方法论的根本质疑。
 
 > [!logic-map] 论证三：[[Professional Judgment|专业判断]]是教学与学习之间的缺失环节

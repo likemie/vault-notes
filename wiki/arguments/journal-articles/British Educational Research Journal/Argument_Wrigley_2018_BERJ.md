@@ -33,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
   - "[[Appraisal Theory]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
@@ -215,7 +216,7 @@ citation_aliases:
 >
 > **复杂性**：
 > - ResearchED 确实获得了政府部长的背书（Nick Gibb 在多届会议上发言），其 RCT 偏好与 EBE 政策议程高度一致
-> - 但同时，ResearchED 的参与者（一线教师）可能真诚地认为"直接听研究者讲 RCT 结果"比"大学教育学院的批判理论"对他们的课堂实践更有帮助
+> - 但同时，ResearchED 的参与者（一线教师）可能真诚地认为"直接听研究者讲 RCT 结果"比"大学教育学院的[[Critical Theory|批判理论]]"对他们的课堂实践更有帮助
 > - Wrigley 将前者解读为"新自由主义的草根捕获"，但这一解读可能低估了教师作为知情主体的选择能力
 >
 > **目前状态**：此张力反映了 EBE 辩论中的一个更深层问题——当教师的"自主选择"恰好与政府的问责偏好一致时，分析者如何区分"真正的专业自主"和"被捕获的虚假自主"？此问题在批判教育文献中尚无共识框架。

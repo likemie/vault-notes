@@ -18,6 +18,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Participatory Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -60,5 +61,5 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> 适合当研究者希望超越文字和语言、捕捉视觉和听觉维度的经验时；适合参与式研究中让参与者通过拍摄或创作来[[Assertiveness|主动表达]]；适合需要记录物质环境、仪式物件或非语言行为的研究情境。
+> 适合当研究者希望超越文字和语言、捕捉视觉和听觉维度的经验时；适合[[Participatory Research|参与式研究]]中让参与者通过拍摄或创作来[[Assertiveness|主动表达]]；适合需要记录物质环境、仪式物件或非语言行为的研究情境。
 

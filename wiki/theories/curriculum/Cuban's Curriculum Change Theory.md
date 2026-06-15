@@ -15,7 +15,8 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
 related_persons:
@@ -92,7 +93,7 @@ updated: '2026-06-02'
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - **[[Epistemology|认识论]]立场**：批判理论 —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
+> - **[[Epistemology|认识论]]立场**：[[Critical Theory|批判理论]] —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
 > - **常用方法**：[[Historical Document Analysis of Curriculum]]、Document Analysis
 
 ## 争议与批评

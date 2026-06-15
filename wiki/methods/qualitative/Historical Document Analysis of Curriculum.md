@@ -20,6 +20,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Analytic Framework]]"
 related_theories:
+  - "[[Critical Theory]]"
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 属于**批判理论**[[Paradigm|范式]]。此方法不假设文件提供中立的"事实记录"，而是将文件视为**政治建构**——每一份课程指引、政策文件和媒体报道都是一定政治立场和权力的产物。分析的目标不仅是"描述发生了什么"，更是揭示**为何以这种方式叙述**以及**何种权力关系在运作**。
+> 属于**[[Critical Theory|批判理论]]**[[Paradigm|范式]]。此方法不假设文件提供中立的"事实记录"，而是将文件视为**政治建构**——每一份课程指引、政策文件和媒体报道都是一定政治立场和权力的产物。分析的目标不仅是"描述发生了什么"，更是揭示**为何以这种方式叙述**以及**何种权力关系在运作**。
 
 ## 操作步骤
 

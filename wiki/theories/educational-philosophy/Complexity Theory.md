@@ -12,7 +12,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Participatory Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -50,7 +51,7 @@ updated: 2026-06-13
 
 ## 方法论含义
 
-复杂性理论倡导案例研究方法论、叙事、行动研究和参与式研究——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元[[Causality|因果性]]、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+复杂性理论倡导案例研究方法论、叙事、行动研究和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元[[Causality|因果性]]、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!axioms] 复杂性研究的五条公理（Kuhn, 2007: 172–3）
 > - **动态实在** 实在是动态的、[[Emergence|涌现]]的、自组织的，需要多重视角来把握

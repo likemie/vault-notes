@@ -6073,6 +6073,14 @@
     ]
   },
   {
+    "title": "Critical Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Critical Theory.md",
+    "aliases": [
+      "批判理论"
+    ]
+  },
+  {
     "title": "Goldman's Discrimination Theory of Knowledge",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md",
@@ -6915,6 +6923,14 @@
     ]
   },
   {
+    "title": "Feminist Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Feminist Research.md",
+    "aliases": [
+      "女性主义研究"
+    ]
+  },
+  {
     "title": "Grounded Theory",
     "type": "method",
     "path": "wiki/methods/qualitative/Grounded Theory.md",
@@ -6931,6 +6947,14 @@
     "aliases": [
       "课程历史文献分析",
       "历史文献分析"
+    ]
+  },
+  {
+    "title": "Ideology Critique",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Ideology Critique.md",
+    "aliases": [
+      "意识形态批判"
     ]
   },
   {
@@ -6994,6 +7018,15 @@
       "观察协议",
       "观察记录表",
       "observational protocol"
+    ]
+  },
+  {
+    "title": "Participatory Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Participatory Research.md",
+    "aliases": [
+      "参与式研究",
+      "PR"
     ]
   },
   {
@@ -11632,6 +11665,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

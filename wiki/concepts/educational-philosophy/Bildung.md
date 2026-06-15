@@ -30,6 +30,7 @@ related_concepts:
   - "[[Digital Optimum]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
+  - "[[Critical Theory]]"
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
@@ -65,7 +66,7 @@ updated: 2026-05-20
 > [!note-] 历史沿革
 > Bildung 概念有深厚的神学根源——《圣经·创世记》1:22 中"人是按上帝的形象（Bild）造的"，但在当代世俗世界中，Bildung 已脱离了神学语境([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])。
 >
-> 其哲学传统贯穿德国思想史，经由 Humboldt、Herder、Kant、Hegel、Schlegel、Nietzsche、批判理论、诠释学、[[Phenomenology|现象学]]和概念史（Begriffsgeschichte）的持续发展。当代对 Bildung 的复兴依赖于这一丰富的接受史（Hans-Georg Gadamer 所称的 Wirkungsgeschichte），其目标是"继承并超越"这一传统，以创造新的思维和行动方式([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])。
+> 其哲学传统贯穿德国思想史，经由 Humboldt、Herder、Kant、Hegel、Schlegel、Nietzsche、[[Critical Theory|批判理论]]、诠释学、[[Phenomenology|现象学]]和概念史（Begriffsgeschichte）的持续发展。当代对 Bildung 的复兴依赖于这一丰富的接受史（Hans-Georg Gadamer 所称的 Wirkungsgeschichte），其目标是"继承并超越"这一传统，以创造新的思维和行动方式([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])。
 
 Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互作用（interdependency）"——这一交互既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界（Humboldt, 1956/1793, p.29, cited in Jornitz & Klinge, 2022, p.239）。Nordenbo（2002, p.341）则强调 Bildung 概念包含一个"主动内核"——一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung；换言之，Bildung 不能被外部灌输，只能由主体主动参与其自身的形成过程([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.237]])。
 >

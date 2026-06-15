@@ -97,6 +97,7 @@ related_concepts:
   - "[[Data Transformation]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Critical Theory]]"
   - "[[Attribution Theory]]"
   - "[[Social Learning Theory]]"
 related_methods:
@@ -122,6 +123,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Causal Modeling]]"
   - "[[Qualitative Interview]]"
+  - "[[Feminist Research]]"
   - "[[Interview Protocol]]"
   - "[[Case Study]]"
   - "[[Explanatory Sequential Design]]"
@@ -293,7 +295,7 @@ citation_aliases:
 
 - [[Postpositivism|后实证主义]] 持决定论和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 [[Auguste Comte|Comte]]、Mill、Durkheim、Newton、Locke，以及 Phillips & Burbules(2000)，是量化研究的主导哲学。
 - [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger & Luckmann(1967)、Lincoln & Guba(1985)、Crotty (1998) 等。它是质性研究的主导哲学。
-- [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后[[Positivism|实证主义]]无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖批判理论、女性主义、参与式行动研究、原住民方法论等群体。
+- [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后[[Positivism|实证主义]]无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖[[Critical Theory|批判理论]]、女性主义、参与式行动研究、原住民方法论等群体。
 - [[Pragmatic Paradigm|实用主义]] 源自 Peirce、James、[[George Herbert Mead|Mead]]、Dewey。不以任何单一哲学体系为皈依，关注"什么有效"——以研究问题为中心，自由选择最能满足目的的方法。真理是当下有效的，研究始终发生在社会历史情境中。它是混合方法研究的主导哲学。
 
 > [!abstract] 表1.2：四种世界观（Four Worldviews）
@@ -614,7 +616,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 **学科理论**从社会、行为或健康科学文献中提取，识别变量或[[Construct|构念]]并将它们相互关联，形成并解释对个人和组织的预期结果。常见例子包括组织理论、领导力理论、采纳理论、归因理论和健康促进理论。Kennett et al. (2008) 在慢性疼痛管理混合方法研究中，使用 Rosenbaum (1990) 的 [[Self-control|自我控制]]理论指导量化测量（SCS 量表）和[[Qualitative Interview|质性访谈]]，在开头段落即宣告研究目的，在末尾以图表回顾最显著的因素。Clark & Plano Clark (2019) 则使用积极心理学理论来框架化研究设计、个案选择以及结果和发现的解释(p.104)。
 
-**社会正义理论**帮助为社会中边缘化和未被充分代表的人群发声，涵盖女性主义研究、种族研究、残障研究和生活方式研究等。Hodgkin (2008) 考察了澳大利亚男女社会资本的性别差异，将研究定位为"展示混合方法在女性主义研究中的使用"(p.296)，在文章开头讨论女性主义视角，在第二阶段通过女性声音探索"好母亲""社会隔离""积极公民"等主题。
+**社会正义理论**帮助为社会中边缘化和未被充分代表的人群发声，涵盖[[Feminist Research|女性主义研究]]、种族研究、残障研究和生活方式研究等。Hodgkin (2008) 考察了澳大利亚男女社会资本的性别差异，将研究定位为"展示混合方法在女性主义研究中的使用"(p.296)，在文章开头讨论女性主义视角，在第二阶段通过女性声音探索"好母亲""社会隔离""积极公民"等主题。
 
 社会正义理论融入混合方法研究的方式包括：在开头段落指明框架、将框架置于理论文献体系之中、在研究问题中采取倡导性立场、在变革性框架内推进两类数据的收集分析和整合、以倡导变革来结束研究。
 

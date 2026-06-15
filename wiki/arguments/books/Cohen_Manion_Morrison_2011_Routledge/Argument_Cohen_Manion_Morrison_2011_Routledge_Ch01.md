@@ -75,6 +75,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Participatory Research]]"
 related_persons:
   - "[[Francis Bacon]]"
   - "[[Thomas Kuhn]]"
@@ -340,7 +341,7 @@ Morrison (1995a)区分了三种理论类型(pp.291–292)：
 > |---|---|---|
 > | **经验理论**(empirical theories) | 通过经验证据检验和支撑 | 本书后续章节讨论的具体研究方法 |
 > | **宏大理论**(grand theory) | 元叙事(metanarrative)，定义研究领域，思辨性的；经验材料用于"说明"而非"证明" | 马克思主义、共识理论、功能主义。虽有"拜占庭式的建筑辉煌和逻辑一致性"，却被批评为科学上贫瘠、脱离开放和碎片化的真实世界(Merton, 1949; Layder, 1994) |
-> | **批判理论**(critical theory) | 关注知识–权力的关系，具有政治议程 | 第2章讨论 |
+> | **[[Critical Theory\|批判理论]]**(critical theory) | 关注知识–权力的关系，具有政治议程 | 第2章讨论 |
 
 Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990)综合提出有效经验理论的九大特征(p.271, pp.316–334)：
 
@@ -657,7 +658,7 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 复杂性理论为教育研究提出了一套替代性方法论(pp.804–808)：
 
 > [!success] 复杂性理论的研究取向
-> - 倡导**案例研究方法论**、叙事、行动研究和参与式研究——通过尽可能多的参与者的眼睛来看待情境
+> - 倡导**案例研究方法论**、叙事、行动研究和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境
 > - 需要追踪**多元[[Causality|因果性]]**、多元视角和多元效应
 > - 主张**教师即研究者**运动，以及内部与外部研究者的共生关系和伙伴关系
 > - 倡导方法论、范式和理论的**多元主义**(pluralism)

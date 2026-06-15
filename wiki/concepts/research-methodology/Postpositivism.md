@@ -15,6 +15,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
 related_persons: []
@@ -58,4 +59,4 @@ updated: 2026-06-14
 
 ## 共同主张
 
-后[[Positivism|实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]三者之间存在亲和性：它们共同支撑着诠释和[[Qualitative Research|质性研究]]取向、[[Complexity Theory|复杂性理论]]和批判理论；共同强调个体和主观叙述在研究过程中的重要性以及研究者的[[Reflexivity|反思性]]。三者主张为多重解释提供空间（multiple interpretations of a phenomenon to be provided），赋予个体声音以合法性（accord legitimacy to individual voices），放弃对决定论的、简单的线性因果行为法则的寻求。但教材也审慎指出，许多后实证主义者会拒绝如此简单的亲缘归类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+后[[Positivism|实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]三者之间存在亲和性：它们共同支撑着诠释和[[Qualitative Research|质性研究]]取向、[[Complexity Theory|复杂性理论]]和[[Critical Theory|批判理论]]；共同强调个体和主观叙述在研究过程中的重要性以及研究者的[[Reflexivity|反思性]]。三者主张为多重解释提供空间（multiple interpretations of a phenomenon to be provided），赋予个体声音以合法性（accord legitimacy to individual voices），放弃对决定论的、简单的线性因果行为法则的寻求。但教材也审慎指出，许多后实证主义者会拒绝如此简单的亲缘归类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

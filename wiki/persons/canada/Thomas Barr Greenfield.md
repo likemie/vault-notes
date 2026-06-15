@@ -20,6 +20,7 @@ related_concepts:
   - "[[Positivism]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Critical Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -74,7 +75,7 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 其批判直接回应了以 **Halpin** 和 **Griffiths** 为代表的美国理论运动
-> - 与 **Richard Bates** 的批判理论构成 1970s–1980s 教育行政[[Epistemology|认识论]]转向的两大主力
+> - 与 **Richard Bates** 的[[Critical Theory|批判理论]]构成 1970s–1980s 教育行政[[Epistemology|认识论]]转向的两大主力
 > - 为后来 Gunter（2010）记录的教育行政社会学方法的"重新出现"铺平了道路
 > - 其立场被 Evers & Lakomski 作为"需要回应但需要超越"的关键辩论方
 

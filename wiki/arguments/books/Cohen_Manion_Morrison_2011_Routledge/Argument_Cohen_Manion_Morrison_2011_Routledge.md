@@ -28,11 +28,16 @@ related_concepts:
   - "[[Effect Size]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Ideology Critique]]"
+  - "[[Participatory Research]]"
+  - "[[Feminist Research]]"
   - "[[Meta-analysis]]"
   - "[[Grounded Theory]]"
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -53,7 +58,7 @@ updated: 2026-06-16
 > |---|---|---|
 > | **Part 1 教育研究的语境** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|第1章 The nature of enquiry: setting the field]] | 建立本体论→认识论→方法论的层级框架，以库恩范式概念统摄实证主义与诠释范式之争，引入混合方法研究、后实证主义、后现代主义、后结构主义和复杂性理论等新兴取向。 | [[Paradigm]]、[[Positivism]]、[[Interpretive Paradigm]]、[[Mixed Methods Research]]、[[Complexity Theory]] |
-> | 第2章 Critical educational research | 以哈贝马斯的认识兴趣三分法为框架，介绍批判理论、意识形态批判与参与式行动研究及其在教育研究中的应用。 | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|第2章 Critical educational research]] | 以哈贝马斯认识兴趣三分法为框架，系统介绍批判理论、意识形态批判、参与式研究和女性主义研究在教育研究中的应用、批评与课程实践。 | [[Critical Theory]]、[[Ideology Critique]]、[[Participatory Research]]、[[Feminist Research]]、[[Jürgen Habermas]] |
 > | 第3章 Theory in educational research | | |
 > | 第4章 Evaluation and research | | |
 > | 第5章 The search for [[Causality\|causation]] | | |

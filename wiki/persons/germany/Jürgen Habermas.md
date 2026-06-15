@@ -10,7 +10,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Post-structuralism]]"
   - "[[Postmodernism]]"
-related_theories: []
+related_theories:
+  - "[[Critical Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -39,4 +40,4 @@ updated: 2026-06-13
 > - 科学解释似乎成为解释行为的唯一手段，严重削弱了使人之为人的特征
 
 > [!tension] 与[[Post-structuralism|后结构主义]]的关系
-> 哈贝马斯（1987）反对将批判理论与[[Postmodernism|后现代主义]]或后结构主义联系起来的做法，坚持现代性作为"未完成的计划"的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 哈贝马斯（1987）反对将[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]或后结构主义联系起来的做法，坚持现代性作为"未完成的计划"的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

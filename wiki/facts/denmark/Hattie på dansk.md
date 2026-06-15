@@ -15,7 +15,8 @@ tags:
 - critique
 related_concepts:
   - "[[Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Critical Theory]]"
 related_methods: []
 related_persons:
   - "[[Steen Nepper Larsen]]"
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 > Larsen 在 *Hattie på dansk* 中撰写章节 "Know Thy Impact – blinde vinkler i John Hatties evidenscredo"（"了解你的影响——[[John Hattie]] 证据信条的盲区"）([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])：
 >
 > - 声称 Hattie 的模型"似乎是以盲目性书写的"（Bjerre et al., 2017, p.103，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
-> - 写道"不仅德国哲学家和社会学家 Theodor Wiesengrund Adorno 在绝望和痛苦中从坟墓深处哭泣，所有后来的批判理论家也是如此……"（Bjerre et al., 2017, p.107，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
+> - 写道"不仅德国哲学家和社会学家 Theodor Wiesengrund Adorno 在绝望和痛苦中从坟墓深处哭泣，所有后来的[[Critical Theory|批判理论]]家也是如此……"（Bjerre et al., 2017, p.107，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
 > - 将 Hattie 的分析与简单的因果系统（如"台球游戏"或机械清洁系统）进行比较，得出 Hattie 将教学简化为教学干预与学习成果之间机械关系的结论（Bjerre et al., 2017, p.104，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
 >
 > [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.3-4)]]使用 Robin Alexander 的四种批判性政策话语框架分析 Larsen 的批评，识别了其中至少两种话语：

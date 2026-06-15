@@ -21,7 +21,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
-related_theories: []
+related_theories:
+  - "[[Critical Theory]]"
 related_methods: []
 related_persons:
   - "[[Herbert A. Simon]]"
@@ -87,7 +88,7 @@ updated: 2026-05-18
 >
 > **后续发展**
 >
-> - Bates（1980, 1983）的**教育行政批判理论**也对逻辑经验主义提出了批判
+> - Bates（1980, 1983）的**教育行政[[Critical Theory|批判理论]]**也对逻辑经验主义提出了批判
 > - Gunter（2010）记录的**教育行政社会学方法**进一步挑战了实证主义范式
 > - Evers & Lakomski（1991, 1996, 2000, 2012）一致论证：**问题不在科学，而在科学的模型**——是逻辑经验主义这一狭窄操作化的问题，而非科学探究本身的追求不值得或不可能([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
 > - 这些批判导致许多人相信教育行政科学的追求既不值得也不可行

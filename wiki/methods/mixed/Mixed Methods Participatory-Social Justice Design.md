@@ -19,6 +19,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Participatory Research]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Qualitative Interview]]"
 related_persons: []
@@ -36,7 +37,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> [[Mixed Methods Research|混合方法]]参与式社会正义设计（Mixed Methods Participatory-Social Justice Design）是一种[[Mixed Methods Research|复杂混合方法设计]]，将量化和质性数据以及核心混合方法设计嵌入参与式或社会正义框架中。参与式研究（participatory study）指社区成员等参与者在研究中与研究者积极协作；社会正义研究（social justice study）在此基础上加入社会变革和行动的目标，旨在改善个体的生活([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.247]])。
+> [[Mixed Methods Research|混合方法]]参与式社会正义设计（Mixed Methods Participatory-Social Justice Design）是一种复杂混合方法设计，将量化和质性数据以及核心混合方法设计嵌入参与式或社会正义框架中。[[Participatory Research|参与式研究]]（participatory study）指社区成员等参与者在研究中与研究者积极协作；社会正义研究（social justice study）在此基础上加入社会变革和行动的目标，旨在改善个体的生活([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.247]])。
 
 ---
 

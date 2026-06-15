@@ -30,6 +30,7 @@ related_concepts:
   - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
@@ -123,7 +124,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文主要聚焦于 Hattie (2009) 的原始著作，后续扩展(Hattie, 2012; Hattie & Yates, 2014)可能对某些问题有所回应
-> - 论文未对其自身的[[Theoretical Standpoint|理论立场]]（[[Jürgen Habermas|Habermas]] 批判理论）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
+> - 论文未对其自身的[[Theoretical Standpoint|理论立场]]（[[Jürgen Habermas|Habermas]] [[Critical Theory|批判理论]]）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
 > - 反馈[[Meta-analysis|元分析]]的"细读"审查仅覆盖最重的 5 项（而非全部 23 项），但覆盖了 92% 的样本
 
 ## 来源

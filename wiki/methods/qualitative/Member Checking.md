@@ -20,6 +20,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Participatory Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -52,7 +53,7 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> 成员核查特别适用于参与者具备足够反思能力、且研究涉及对参与者经验和视角的理解和呈现的研究设计。在参与式研究或行动研究中，成员核查不仅是效度策略，也是[[Research Ethics|研究伦理]]和参与者赋权的一部分。
+> 成员核查特别适用于参与者具备足够反思能力、且研究涉及对参与者经验和视角的理解和呈现的研究设计。在[[Participatory Research|参与式研究]]或行动研究中，成员核查不仅是效度策略，也是[[Research Ethics|研究伦理]]和参与者赋权的一部分。
 
 ## 局限性
 
