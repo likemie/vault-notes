@@ -122,14 +122,18 @@ Argument 页写某篇论文、章节、报告、政策文件或书籍的论证�
 
 ### Edited Volume Overview
 
-Edited volume overview 是论文集或编著的结构入口，不是主要可引用单元。可引用文献以各章 Argument 为主。
+Edited volume overview 是论文集或编著的结构入口，不是主要可引用单元。它记录编者问题意识、全书组织逻辑、跨章主题线索和章节处理路线；可引用文献以各章 Argument 为主。
 
 推荐结构：
 
-- `## 编者论点`
-- `## 全书结构`
-- `## 理论框架`
+- `## 编著定位`
+- `## 编者问题与组织主张`
+- `## 全书结构与章节路线`
+- `## 理论、方法与关键词`
+- `## 跨章主题线索`
+- `## 章节处理路线`
 - `## 各章概览`
+- `## 整体贡献与使用边界`
 - `## 来源`
 
 规则：
@@ -138,8 +142,14 @@ Edited volume overview 是论文集或编著的结构入口，不是主要可引
 - `subtype` 使用 `edited-volume-overview`，`publication_type` 使用 `edited-volume`。
 - overview 不填写 `citation_aliases`，不进入 citation 索引。
 - `summary` 说明论文集的组织问题、编者立场和全书结构，不写成图书简介。
-- `## 全书结构` 和 `## 理论框架` 优先使用 `[!framework-table]`。
-- `## 各章概览` 只记录章节 Argument 链接和核心贡献。
+- `## 编著定位` 使用 `[!volume-profile]`，说明核心议题、材料边界、章节关系和本页使用方式。
+- `## 编者问题与组织主张` 使用 `[!question]` 和 `[!volume-argument]`，区分共同问题、组织逻辑和整体贡献；不要把编者导论改写成普通摘要。
+- `## 全书结构与章节路线` 使用 `[!volume-structure]` 和 `[!volume-map]`，优先用分部分列表和 Mermaid 图呈现组织逻辑；不要把目录压成大表格。
+- `## 理论、方法与关键词` 使用 `[!volume-tools]`，只写能解释全书结构或跨章关系的理论、概念、方法和关键词。
+- `## 跨章主题线索` 使用 `[!cross-chapter]`，记录跨章节共享的概念、案例、争议或方法线索，服务后续组合阅读。
+- `## 章节处理路线` 使用 `[!chapter-roadmap]`，说明已处理、优先处理、可暂缓和缺口提醒，帮助持续拆分章节 Argument。
+- `## 各章概览` 使用 `[!chapter-index]`，只写导航性索引：章节编号、章节标题、Argument 链接或候选文件名、一句话说明其位置和贡献。
+- `## 整体贡献与使用边界` 使用 `[!volume-contribution]` 和 `[!volume-limits]`，明确 overview 不能替代单章论证，也不能默认当作系统综述。
 - `## 来源` 只列 overview source record wikilink。
 
 ### Monograph Argument

@@ -292,12 +292,46 @@ Person 页面常用位置：
 | Callout | 用途 |
 |---|---|
 | `[!chapter-question]` | 章节研究问题或章节在全书论证中的位置 |
+| `[!volume-profile]` | 编著档案，固定写核心议题、材料边界、章节关系和使用方式 |
+| `[!volume-argument]` | 编者组织主张，区分共同问题、组织逻辑和整体贡献 |
+| `[!volume-structure]` | 全书结构，按部分或章节组说明全书推进关系 |
+| `[!volume-map]` | 编著结构图，优先放 Mermaid 流程图或短结构链 |
+| `[!volume-tools]` | 编著理论、方法与关键词工具箱 |
+| `[!cross-chapter]` | 跨章主题线索，记录章节之间的横向概念、案例、方法或争议关系 |
+| `[!chapter-roadmap]` | 章节处理路线，说明已处理、优先处理、可暂缓和缺口 |
+| `[!chapter-index]` | 章节索引，记录章节 Argument 链接、候选文件名和一句话贡献 |
+| `[!volume-contribution]` | 编著整体贡献，说明研究议题、理论方法和资料价值 |
+| `[!volume-limits]` | 编著使用边界，提醒 overview 不能替代单章论证或系统综述 |
 | `[!strength]` | SWOT 或评价中的优势 |
 | `[!weakness]` | SWOT 或评价中的劣势 |
 | `[!opportunity]` | SWOT 或评价中的机会 |
 | `[!threat]` | SWOT 或评价中的威胁 |
 | `[!indicators]` | 评价指标体系或分层指标 |
 | `[!lessons]` | 案例分析后的经验、启示或教训 |
+
+Edited volume overview 常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 编著定位 | `[!volume-profile]` |
+| 编者问题与组织主张 | `[!question]`、`[!volume-argument]`、`[!citation-card]` |
+| 全书结构与章节路线 | `[!volume-structure]`、`[!volume-map]` |
+| 理论、方法与关键词 | `[!volume-tools]`、`[!frames-ref]` |
+| 跨章主题线索 | `[!cross-chapter]` |
+| 章节处理路线 | `[!chapter-roadmap]` |
+| 各章概览 | `[!chapter-index]`、`[!evidence-grid-a]` |
+| 整体贡献与使用边界 | `[!volume-contribution]`、`[!volume-limits]` |
+
+注意：
+
+- Edited volume overview 是导航入口，不是单章论证替代品；完整论证、方法、发现和引用回到章节 Argument。
+- `[!volume-profile]` 要说明材料边界。只读过前言、导论或部分章节时，必须让读者知道 overview 的判断依据。
+- `[!volume-structure]` 优先用分部分列表说明推进关系；只有目录信息非常规则时才使用表格。
+- `[!volume-map]` 只显示全书组织逻辑，优先用 Mermaid，节点保持短句。
+- `[!cross-chapter]` 用于横向阅读线索，不重复目录；每条线索都要说明哪些章节应放在一起读以及为什么。
+- `[!chapter-roadmap]` 是工作流模块，帮助持续拆分章节；正式成熟 overview 可以保留，也可以在章节全部处理后压缩。
+- `[!chapter-index]` 只写一句话导航，不展开章节论证链。
+- `[!volume-limits]` 必须提醒 overview 不能默认代表章节作者观点，也不能默认等同系统综述。
 
 Fact 页面常用位置：
 
