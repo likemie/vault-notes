@@ -292,17 +292,7 @@ Person 页面常用位置：
 | Callout | 用途 |
 |---|---|
 | `[!chapter-question]` | 章节研究问题或章节在全书论证中的位置 |
-| `[!textbook-profile]` | 教材档案，固定写学习对象、知识范围、组织方式和处理粒度 |
-| `[!learning-path]` | 全书学习路径，说明起点模块、核心模块、应用模块和收束模块 |
-| `[!knowledge-map]` | 教材知识路线图，优先放 Mermaid 学习路径 |
-| `[!textbook-chapter-map]` | 教材章节路线，说明每章的知识功能和核心关联条目 |
-| `[!chapter-learning]` | 本章学习目标，固定写章节位置、核心问题和应掌握内容 |
-| `[!knowledge-index]` | 本章知识索引，连接本章涉及的 Concept / Theory / Method / Fact / Person |
-| `[!learning-sequence]` | 本章知识推进，按引入、定义分类、方法步骤、例子图表和迁移组织 |
-| `[!textbook-artifact]` | 教材图表、模板、脚本或练习说明 |
-| `[!textbook-synthesis]` | 跨章知识结构，提炼概念线索、方法线索、比较线索和学习难点 |
-| `[!textbook-extract]` | 教材重要摘录，适合定义来源、精炼表述或关键教学说明 |
-| `[!textbook-limits]` | 教材使用边界，提醒教材定位、知识更新和条目沉淀边界 |
+| `[!knowledge-map]` | 教材总览知识地图或章节概念地图，通常可先占位 |
 | `[!monograph-profile]` | 专著档案，固定写核心对象、论证类型、处理粒度和材料边界 |
 | `[!monograph-thesis]` | 全书核心主张，区分问题起点、核心解释和最终贡献 |
 | `[!monograph-tools]` | 专著理论与概念工具，说明理论、概念、类型或框架如何贯穿全书 |
@@ -356,24 +346,21 @@ Textbook 页面常用位置：
 
 | 位置 | 推荐 callout |
 |---|---|
-| 教材定位 | `[!textbook-profile]` |
-| 学习路径 | `[!learning-path]`、`[!knowledge-map]` |
-| 章节路线 | `[!textbook-chapter-map]`、`[!chapter-index]` |
-| 章节概览 | `[!chapter-learning]`、`[!knowledge-index]`、`[!learning-sequence]`、`[!textbook-artifact]` |
-| 跨章知识结构 | `[!textbook-synthesis]` |
-| 重要摘录 | `[!textbook-extract]`、`[!citation-card]` |
-| 使用边界 | `[!textbook-limits]` |
+| 总览知识地图 | `[!knowledge-map]` |
+| 章节概念地图 | `[!knowledge-map]`、`[!example]` |
+| 章节内容结构 | `[!abstract]`、`[!info]`、`[!note]` |
+| 图表、案例、练习 | `[!example]`、`[!tip]` |
+| 易错点或限制 | `[!warning]`、`[!note]` |
+| 关键引用 | `[!quote]`、`[!citation-card]` |
 
 注意：
 
-- Textbook Argument 是学习路径和知识索引，不是教材逐段摘要。稳定定义、分类、步骤、争议和案例应沉淀到具体 wiki 条目。
-- `[!textbook-profile]` 必须说明学习对象和教材层级，避免把入门教材当成完整研究综述。
-- `[!learning-path]` 说明全书如何把读者从基础概念带到应用任务，不重复目录。
-- `[!textbook-chapter-map]` 记录章节知识功能；章节很多且信息规则时才用表格。
-- `[!knowledge-index]` 不是相关条目堆叠，每个链接都要说明本章如何定义、使用或示范该条目。
-- `[!learning-sequence]` 适合每章内部，按教材教学顺序记录知识如何展开。
-- `[!textbook-synthesis]` 只写跨章节才成立的概念线索、方法线索、比较线索和学习难点。
-- `[!textbook-limits]` 应提醒知识更新风险，尤其是软件工具、统计规则、政策制度和快速发展的研究方法。
+- Textbook Argument 是教材总览和章节整理页，不是逐段摘要。稳定定义、分类、步骤、争议和案例应沉淀到具体 wiki 条目。
+- 总览页使用“章节表格 + 知识地图”。知识地图通常可以先占位，等章节处理较完整后再绘制。
+- 每章固定按“概念地图 → 章节内容 → 关键引用”组织。概念地图通常也可以先占位。
+- 章节内容按教科书自身思路整理，不强行套固定小标题；根据材料自然使用通用 callout。
+- 图表、案例、练习和表格应说明“它帮助读者理解什么”，不要只粘贴材料。
+- 关键引用只保留有启发、表述精炼或可作为条目定义来源的句子；没有页码时只标注章节，不编造页码。
 
 Edited volume overview 常用位置：
 

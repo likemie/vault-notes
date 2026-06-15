@@ -14,8 +14,8 @@
   - `single-argument`：整本教材只维护 `Argument_<book-folder>.md`，章节处理结果累积到该页。
   - `chapter-arguments`：`Argument_<book-folder>.md` 作为全书 overview，每章另建或更新独立章节 Argument。
 - 教材 Argument 使用 `wiki/templates/template-argument-textbook.md`。
-- 采用 `single-argument` 时，章节处理结果累积到「章节路线」「章节概览」和「重要摘录」。
-- 采用 `chapter-arguments` 时，全书 Argument 只记录教材定位、学习路径、章节路线、章节索引和跨章知识结构；章节细节写入章节 Argument。
+- 采用 `single-argument` 时，章节处理结果累积到「总览」和「章节」。
+- 采用 `chapter-arguments` 时，全书 Argument 作为总览页，保留章节表格和知识地图；章节细节写入章节 Argument。
 - 具体定义、分类、争议、例子、方法步骤和理论说明优先沉淀到对应 Concept / Theory / Method / Fact / Person 条目。
 - 教材来源的新条目面向初学者，说明应适当详细。
 - 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行；基础索引统一运行 `.venv/bin/python3 scripts/vault_index.py`。
@@ -47,36 +47,30 @@ wiki/arguments/books/<book-folder>/
 `template-argument-textbook.md` 固定保留：
 
 ```markdown
-## 教材定位
-## 学习路径
-## 章节路线
-## 章节概览
-## 跨章知识结构
-## 重要摘录
-## 使用边界
+## 总览
+## 章节
 ## 来源
 ```
 
-「章节路线」默认使用 `[!textbook-chapter-map]` 和 `[!chapter-index]`，不默认使用大表格。只有课程大纲、章节很多且信息高度规则时，才可降级为三列表格：
+「总览」使用普通表格和知识地图占位。表格只保留三列：
 
 ```markdown
-> [!ref-table] 章节路线
-> | 章节 | 内容概要 | 主要关联条目 |
-> |---|---|---|
-> | 第X章 章节标题 | 用一两句话说明这一章主要讲什么。 | Concept A、Theory B、Fact C |
+| 章节 | 内容概要 | 主要关联条目 |
+|---|---|---|
+| 第X章 章节标题 | 用一两句话说明这一章主要讲什么。 | Concept A、Method B、Theory C |
 ```
 
 `主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person；不同章节尽量拉开差异。
 
-「章节概览」跟随教材自身知识推进逻辑，记录学习目标、知识索引、概念/理论/方法展开顺序、例子、表格、图片和练习如何帮助学习。已建条目只简单提及，详细内容写入具体条目。
+表格下方使用 `[!knowledge-map]` 放全书知识地图，通常先占位，等章节处理较完整后再画。
 
-「重要摘录」只保留有启发或表述精炼的观点，优先使用 `[!citation-card]`，标注章节与页码。没有页码时只标注章节，不编造页码。
+「章节」下每章固定使用三段：`#### 概念地图`、`#### 章节内容`、`#### 关键引用`。概念地图通常先占位；章节内容按教材自身思路整理，可综合使用通用 callout；关键引用只保留有启发或表述精炼的观点，标注章节与页码。没有页码时只标注章节，不编造页码。
 
 采用 `chapter-arguments` 时：
 
-- `Argument_<book-folder>.md` 是全书 overview，「章节路线」列出每章链接、内容概要和 3–5 个核心关联条目。
+- `Argument_<book-folder>.md` 是全书 overview，「总览」列出每章链接、内容概要和 3–5 个核心关联条目，并保留全书知识地图占位。
 - 章节 Argument 文件名使用 `Argument_<book-folder>_ChXX.md`；若章节需要更强可读性，可在 `ChXX` 后追加稳定英文短标题。
-- 章节 Argument 记录该章学习目标、知识结构、核心概念、分类/步骤/方法、例子/表格/图和重要摘录。
+- 章节 Argument 按“概念地图 → 章节内容 → 关键引用”记录该章知识结构、核心概念、分类/步骤/方法、例子/表格/图和关键引用。
 - 当前章节新建的 Concept / Theory / Method / Fact / Person 必须在对应章节 Argument 正文中至少出现一次 wikilink；overview 可只链接章节 Argument 和最核心跨章条目。
 
 ---
@@ -90,8 +84,8 @@ wiki/arguments/books/<book-folder>/
 5. 读取 `wiki/index.json` 判断候选条目是否已存在。
 6. 更新已有条目；新建条目时读取对应 `wiki/templates/template-*.md`。
 7. 读取并使用 `wiki/templates/template-argument-textbook.md`。
-8. 若采用 `single-argument`，更新或新建 `wiki/arguments/books/<book-folder>/Argument_<book-folder>.md`，将当前章节整合进「章节路线」「章节概览」和「重要摘录」。
-9. 若采用 `chapter-arguments`，更新或新建当前章节 Argument，并在 `Argument_<book-folder>.md` 中维护章节路线、章节短摘要和跨章知识结构。
+8. 若采用 `single-argument`，更新或新建 `wiki/arguments/books/<book-folder>/Argument_<book-folder>.md`，将当前章节整合进「总览」和「章节」。
+9. 若采用 `chapter-arguments`，更新或新建当前章节 Argument，并在 `Argument_<book-folder>.md` 中维护章节表格和知识地图。
 10. 若整本教材 source record 已创建，在相关 Argument 的 `## 来源` 列出 source wikilink；尚未创建时暂不编造来源链接。
 11. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。
 12. 当前章节处理完成后停止。
