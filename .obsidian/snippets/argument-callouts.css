@@ -481,6 +481,329 @@
 }
 
 
+/* ═══════════════════════════════════════════════════════════
+   MONOGRAPH — 专著入口、全书论证地图、章节推进、跨章综合
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="monograph-profile"],
+.callout[data-callout="monograph-thesis"],
+.callout[data-callout="monograph-tools"],
+.callout[data-callout="monograph-method"],
+.callout[data-callout="book-argument-map"],
+.callout[data-callout="argument-steps"],
+.callout[data-callout="chapter-arc"],
+.callout[data-callout="book-synthesis"],
+.callout[data-callout="book-limits"] {
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.10), transparent 42%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="monograph-profile"] {
+  --callout-color: 86, 110, 150;
+  --callout-icon: lucide-book-open-check;
+}
+
+.callout[data-callout="monograph-thesis"] {
+  --callout-color: 124, 86, 142;
+  --callout-icon: lucide-message-square-text;
+}
+
+.callout[data-callout="monograph-tools"] {
+  --callout-color: 128, 104, 54;
+  --callout-icon: lucide-tool-case;
+}
+
+.callout[data-callout="monograph-method"] {
+  --callout-color: 66, 126, 116;
+  --callout-icon: lucide-microscope;
+}
+
+.callout[data-callout="book-argument-map"] {
+  --callout-color: 70, 124, 150;
+  --callout-icon: lucide-route;
+}
+
+.callout[data-callout="argument-steps"] {
+  --callout-color: 118, 88, 150;
+  --callout-icon: lucide-list-ordered;
+}
+
+.callout[data-callout="chapter-arc"] {
+  --callout-color: 70, 130, 98;
+  --callout-icon: lucide-milestone;
+}
+
+.callout[data-callout="book-synthesis"] {
+  --callout-color: 84, 122, 154;
+  --callout-icon: lucide-git-merge;
+}
+
+.callout[data-callout="book-limits"] {
+  --callout-color: 150, 84, 76;
+  --callout-icon: lucide-shield-alert;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-title,
+.callout[data-callout="monograph-thesis"] > .callout-title,
+.callout[data-callout="monograph-tools"] > .callout-title,
+.callout[data-callout="monograph-method"] > .callout-title,
+.callout[data-callout="book-argument-map"] > .callout-title,
+.callout[data-callout="argument-steps"] > .callout-title,
+.callout[data-callout="chapter-arc"] > .callout-title,
+.callout[data-callout="book-synthesis"] > .callout-title,
+.callout[data-callout="book-limits"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="monograph-thesis"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="monograph-tools"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="monograph-method"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="book-argument-map"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="argument-steps"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="chapter-arc"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="book-synthesis"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="book-limits"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-title .callout-title-inner::before { content: "BOOK"; }
+.callout[data-callout="monograph-thesis"] > .callout-title .callout-title-inner::before { content: "THESIS"; }
+.callout[data-callout="monograph-tools"] > .callout-title .callout-title-inner::before { content: "TOOLS"; }
+.callout[data-callout="monograph-method"] > .callout-title .callout-title-inner::before { content: "METHOD"; }
+.callout[data-callout="book-argument-map"] > .callout-title .callout-title-inner::before { content: "MAP"; }
+.callout[data-callout="argument-steps"] > .callout-title .callout-title-inner::before { content: "STEPS"; }
+.callout[data-callout="chapter-arc"] > .callout-title .callout-title-inner::before { content: "ARC"; }
+.callout[data-callout="book-synthesis"] > .callout-title .callout-title-inner::before { content: "SYNTH"; }
+.callout[data-callout="book-limits"] > .callout-title .callout-title-inner::before { content: "LIMITS"; }
+
+.callout[data-callout="monograph-profile"] > .callout-content,
+.callout[data-callout="monograph-thesis"] > .callout-content,
+.callout[data-callout="monograph-tools"] > .callout-content,
+.callout[data-callout="monograph-method"] > .callout-content,
+.callout[data-callout="book-argument-map"] > .callout-content,
+.callout[data-callout="argument-steps"] > .callout-content,
+.callout[data-callout="chapter-arc"] > .callout-content,
+.callout[data-callout="book-synthesis"] > .callout-content,
+.callout[data-callout="book-limits"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul,
+.callout[data-callout="monograph-method"] > .callout-content > ul,
+.callout[data-callout="book-limits"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul > li,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul > li,
+.callout[data-callout="monograph-tools"] > .callout-content > ul > li,
+.callout[data-callout="monograph-method"] > .callout-content > ul > li,
+.callout[data-callout="argument-steps"] > .callout-content > ul > li,
+.callout[data-callout="chapter-arc"] > .callout-content > ul > li,
+.callout[data-callout="book-synthesis"] > .callout-content > ul > li,
+.callout[data-callout="book-limits"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.72rem 0.85rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul > li,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul > li,
+.callout[data-callout="monograph-method"] > .callout-content > ul > li,
+.callout[data-callout="book-limits"] > .callout-content > ul > li {
+  grid-column: span 3;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(1):last-child) > li {
+  grid-column: span 6;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+  grid-column: span 2;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n + 2) {
+  grid-column: span 3;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n + 3),
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n + 3),
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n + 3),
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n + 3) {
+  grid-column: span 2;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6),
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6),
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6),
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6) {
+  grid-column: span 3;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5),
+.callout[data-callout="monograph-thesis"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5),
+.callout[data-callout="monograph-method"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5),
+.callout[data-callout="book-limits"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5) {
+  grid-column: span 2;
+}
+
+.callout[data-callout="monograph-profile"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="monograph-tools"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="monograph-method"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="argument-steps"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="chapter-arc"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="book-synthesis"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="book-limits"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="monograph-tools"] > .callout-content > ul,
+.callout[data-callout="book-synthesis"] > .callout-content > ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="argument-steps"] > .callout-content > ul,
+.callout[data-callout="chapter-arc"] > .callout-content > ul {
+  position: relative;
+  display: grid;
+  gap: 0.58rem;
+  margin: 0;
+  padding: 0 0 0 1.15rem;
+  list-style: none;
+}
+
+.callout[data-callout="argument-steps"] > .callout-content > ul::before,
+.callout[data-callout="chapter-arc"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  top: 0.4rem;
+  bottom: 0.4rem;
+  left: 0.28rem;
+  width: 2px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.24);
+}
+
+.callout[data-callout="argument-steps"] > .callout-content > ul > li,
+.callout[data-callout="chapter-arc"] > .callout-content > ul > li {
+  position: relative;
+}
+
+.callout[data-callout="argument-steps"] > .callout-content > ul > li::before,
+.callout[data-callout="chapter-arc"] > .callout-content > ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0.95rem;
+  left: -1.03rem;
+  width: 0.56rem;
+  height: 0.56rem;
+  border: 2px solid rgb(var(--callout-color));
+  border-radius: 50%;
+  background: var(--background-primary);
+}
+
+.callout[data-callout="book-argument-map"] .mermaid,
+.callout[data-callout="book-argument-map"] pre {
+  margin: 0.35rem 0 0;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+}
+
+.callout[data-callout="monograph-tools"] a.internal-link,
+.callout[data-callout="book-synthesis"] a.internal-link {
+  font-weight: 650;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="monograph-profile"] > .callout-content > ul,
+  .callout[data-callout="monograph-thesis"] > .callout-content > ul,
+  .callout[data-callout="monograph-method"] > .callout-content > ul,
+  .callout[data-callout="book-limits"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+
+  .callout[data-callout="monograph-profile"] > .callout-content > ul > li,
+  .callout[data-callout="monograph-thesis"] > .callout-content > ul > li,
+  .callout[data-callout="monograph-method"] > .callout-content > ul > li,
+  .callout[data-callout="book-limits"] > .callout-content > ul > li {
+    grid-column: 1 / -1;
+  }
+}
+
+.theme-dark .callout[data-callout="monograph-profile"] { --callout-color: 140, 166, 216; }
+.theme-dark .callout[data-callout="monograph-thesis"] { --callout-color: 184, 140, 208; }
+.theme-dark .callout[data-callout="monograph-tools"] { --callout-color: 200, 170, 104; }
+.theme-dark .callout[data-callout="monograph-method"] { --callout-color: 116, 190, 176; }
+.theme-dark .callout[data-callout="book-argument-map"] { --callout-color: 126, 178, 214; }
+.theme-dark .callout[data-callout="argument-steps"] { --callout-color: 174, 150, 218; }
+.theme-dark .callout[data-callout="chapter-arc"] { --callout-color: 126, 196, 154; }
+.theme-dark .callout[data-callout="book-synthesis"] { --callout-color: 146, 178, 214; }
+.theme-dark .callout[data-callout="book-limits"] { --callout-color: 220, 134, 122; }
+
+.theme-dark .callout[data-callout="monograph-profile"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="monograph-thesis"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="monograph-tools"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="monograph-method"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="argument-steps"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="chapter-arc"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="book-synthesis"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="book-limits"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
 /* ─── S/W/O/T 四象限 — 独立 callout，各有配色 ──── */
 .callout[data-callout="strength"] {
   --callout-color: 34, 180, 80;

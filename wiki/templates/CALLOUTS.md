@@ -292,6 +292,15 @@ Person 页面常用位置：
 | Callout | 用途 |
 |---|---|
 | `[!chapter-question]` | 章节研究问题或章节在全书论证中的位置 |
+| `[!monograph-profile]` | 专著档案，固定写核心对象、论证类型、处理粒度和材料边界 |
+| `[!monograph-thesis]` | 全书核心主张，区分问题起点、核心解释和最终贡献 |
+| `[!monograph-tools]` | 专著理论与概念工具，说明理论、概念、类型或框架如何贯穿全书 |
+| `[!monograph-method]` | 专著研究方法与材料，说明研究设计、资料来源、分析策略和方法边界 |
+| `[!book-argument-map]` | 全书论证图，优先放 Mermaid 论证路径 |
+| `[!argument-steps]` | 全书论证步骤，按问题、工具、前提、证据、推论、结论和谨慎处组织 |
+| `[!chapter-arc]` | 章节推进线，说明各章在全书连续论证中的功能 |
+| `[!book-synthesis]` | 跨章综合，提炼跨章节主题、机制、案例、方法或反例关系 |
+| `[!book-limits]` | 专著自述局限与使用边界 |
 | `[!volume-profile]` | 编著档案，固定写核心议题、材料边界、章节关系和使用方式 |
 | `[!volume-argument]` | 编者组织主张，区分共同问题、组织逻辑和整体贡献 |
 | `[!volume-structure]` | 全书结构，按部分或章节组说明全书推进关系 |
@@ -308,6 +317,29 @@ Person 页面常用位置：
 | `[!threat]` | SWOT 或评价中的威胁 |
 | `[!indicators]` | 评价指标体系或分层指标 |
 | `[!lessons]` | 案例分析后的经验、启示或教训 |
+
+Monograph 页面常用位置：
+
+| 位置 | 推荐 callout |
+|---|---|
+| 全书定位 | `[!monograph-profile]` |
+| 研究问题与核心主张 | `[!question]`、`[!monograph-thesis]`、`[!citation-card]` |
+| 理论、概念与方法工具 | `[!monograph-tools]`、`[!monograph-method]` |
+| 全书论证地图 | `[!book-argument-map]`、`[!argument-steps]` |
+| 章节推进 | `[!chapter-arc]`、`[!chapter-index]`、`[!chapter-question]` |
+| 跨章综合 | `[!book-synthesis]`、`[!finding-cards]`、`[!stat-cards]` |
+| 自述局限与使用边界 | `[!book-limits]`、`[!warning]` |
+
+注意：
+
+- Monograph Argument 是整本书的论证入口。`single-argument` 可以累积简短章节小节；`chapter-arguments` 只在本页维护章节索引和跨章综合。
+- `[!monograph-profile]` 必须说明处理粒度和材料边界，避免把部分章节读法误写成全书结论。
+- `[!monograph-thesis]` 不是摘要，必须区分问题起点、核心解释和最终贡献。
+- `[!monograph-tools]` 只写贯穿全书的理论、概念或类型工具；单章局部工具回到章节 Argument。
+- `[!monograph-method]` 必须写方法边界，尤其是质性专著、历史专著、政策分析和理论建构类专著。
+- `[!book-argument-map]` 放全书路径总览，优先用 Mermaid；细节用 `[!argument-steps]` 展开。
+- `[!chapter-arc]` 强调章节如何推进全书论证，不重复目录。
+- `[!book-synthesis]` 只写跨章节才成立的综合判断，不机械汇总每章小结。
 
 Edited volume overview 常用位置：
 

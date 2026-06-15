@@ -154,27 +154,33 @@ Edited volume overview 是论文集或编著的结构入口，不是主要可引
 
 ### Monograph Argument
 
-Monograph Argument 是整本专著的论证入口。章节处理阶段先累积材料，整合阶段再提炼全书论证。
+Monograph Argument 是整本专著的论证入口。它可以作为 `single-argument` 的章节累积页，也可以作为 `chapter-arguments` 的全书 overview。章节处理阶段先沉淀章节位置和关键材料，整合阶段再提炼全书论证、跨章综合和使用边界。
 
 推荐结构：
 
-- `## 研究问题`
-- `## 理论框架`
-- `## 研究方法`
-- `## 论证结构`
-- `## 主要发现`
-- `## 各章概览`
+- `## 全书定位`
+- `## 研究问题与核心主张`
+- `## 理论、概念与方法工具`
+- `## 全书论证地图`
+- `## 章节推进`
+- `## 跨章综合`
 - `## 关键引用`
-- `## 自述局限`
+- `## 自述局限与使用边界`
 - `## 来源`
 
 规则：
 
 - 使用 `template-argument-monograph.md`。
 - `subtype` 使用 `monograph`，`publication_type` 使用 `book`。
-- 每章处理结果追加到 `## 各章概览`，不写成完整小型笔记。
-- `## 理论框架` 优先使用 `[!framework-table]`；`## 研究方法` 优先使用 `[!method-panel]`；`## 论证结构` 可用 `[!argument-map]` 承载全书论证路径。
+- `## 全书定位` 使用 `[!monograph-profile]`，说明核心对象、论证类型、处理粒度和材料边界。
+- `## 研究问题与核心主张` 使用 `[!question]` 和 `[!monograph-thesis]`，区分问题起点、核心解释和最终贡献。
+- `## 理论、概念与方法工具` 使用 `[!monograph-tools]` 和 `[!monograph-method]`，说明理论概念如何贯穿全书、材料如何支撑论证、方法不能支持什么推断。
+- `## 全书论证地图` 使用 `[!book-argument-map]` 和 `[!argument-steps]`，先用 Mermaid 图显示全书路径，再用步骤说明问题、工具、前提、证据、推论、结论和谨慎处理处。
+- `## 章节推进` 使用 `[!chapter-arc]` 和 `[!chapter-index]`，记录章节在全书论证中的功能和链接；不要把章节写成完整小型笔记。
+- `single-argument` 时，可在 `## 章节推进` 下为已处理章节保留简短 `### 第X章` 小节；`chapter-arguments` 时，章节细节写入章节 Argument，本页只维护章节索引和跨章综合。
+- `## 跨章综合` 使用 `[!book-synthesis]`、`[!finding-cards]` 和必要的 `[!stat-cards]`，只提炼能跨章节成立的主题线索、综合发现和核心数据。
 - 关键引用持续补充到 `## 关键引用`，标注章节与页码；没有页码时只标注章节，不编造页码。
+- `## 自述局限与使用边界` 使用 `[!book-limits]`，区分作者自述局限、材料边界、推断边界和引用提醒。
 - 整本书 source record 创建前，可以暂时省略 `## 来源` 的 source wikilink；source record 创建后再补入。
 - `summary` 说明全书核心论证，写法为“研究对象/核心问题 + 理论视角/材料 + 全书论证或发现”。
 
