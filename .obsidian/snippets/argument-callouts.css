@@ -805,8 +805,89 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   TEXTBOOK — 总览知识地图、章节概念地图
+   TEXTBOOK — 章节总览表、知识地图、章节概念地图
    ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="textbook-overview"] {
+  --callout-color: 72, 118, 150;
+  --callout-icon: lucide-book-open-check;
+  border: 1px solid rgba(var(--callout-color), 0.18);
+  border-left: 5px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.08), transparent 46%),
+    var(--background-primary);
+}
+
+.callout[data-callout="textbook-overview"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+}
+
+.callout[data-callout="textbook-overview"] > .callout-content {
+  overflow-x: auto;
+  padding-bottom: 0.35rem;
+}
+
+.callout[data-callout="textbook-overview"] table {
+  display: table;
+  width: 100%;
+  min-width: 760px;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0.25rem 0 0;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+}
+
+.callout[data-callout="textbook-overview"] th:nth-child(1),
+.callout[data-callout="textbook-overview"] td:nth-child(1) { width: 20%; }
+.callout[data-callout="textbook-overview"] th:nth-child(2),
+.callout[data-callout="textbook-overview"] td:nth-child(2) { width: 20%; }
+.callout[data-callout="textbook-overview"] th:nth-child(3),
+.callout[data-callout="textbook-overview"] td:nth-child(3) { width: 36%; }
+.callout[data-callout="textbook-overview"] th:nth-child(4),
+.callout[data-callout="textbook-overview"] td:nth-child(4) { width: 24%; }
+
+.callout[data-callout="textbook-overview"] thead th {
+  padding: 0.62rem 0.78rem;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.78em;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.16);
+}
+
+.callout[data-callout="textbook-overview"] tbody td {
+  padding: 0.72rem 0.78rem;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.10);
+  background: color-mix(in srgb, var(--background-primary) 95%, rgb(var(--callout-color)) 5%);
+  font-size: 0.9em;
+  line-height: 1.55;
+  vertical-align: top;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.callout[data-callout="textbook-overview"] tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--background-primary) 91%, rgb(var(--callout-color)) 9%);
+}
+
+.callout[data-callout="textbook-overview"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="textbook-overview"] tbody td:first-child {
+  font-weight: 720;
+}
+
+.callout[data-callout="textbook-overview"] a.internal-link {
+  font-weight: 760;
+}
 
 .callout[data-callout="knowledge-map"] {
   --callout-color: 80, 118, 156;
@@ -833,6 +914,18 @@
 
 .theme-dark .callout[data-callout="knowledge-map"] {
   --callout-color: 140, 178, 218;
+}
+
+.theme-dark .callout[data-callout="textbook-overview"] {
+  --callout-color: 134, 178, 210;
+}
+
+.theme-dark .callout[data-callout="textbook-overview"] tbody td {
+  background: color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+}
+
+.theme-dark .callout[data-callout="textbook-overview"] tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--background-primary) 86%, rgb(var(--callout-color)) 14%);
 }
 
 

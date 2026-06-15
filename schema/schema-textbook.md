@@ -52,15 +52,18 @@ wiki/arguments/books/<book-folder>/
 ## 来源
 ```
 
-「总览」使用普通表格和知识地图占位。表格只保留三列：
+「总览」使用 `[!textbook-overview]` 表格和知识地图占位。表格保留四列：
 
 ```markdown
-| 章节 | 内容概要 | 主要关联条目 |
-|---|---|---|
-| 第X章 章节标题 | 用一两句话说明这一章主要讲什么。 | Concept A、Method B、Theory C |
+> [!textbook-overview] 章节总览
+> | 章节 | 学习功能 | 内容概要 | 主要关联条目 |
+> |---|---|---|---|
+> | [[Argument_BookFolder_Ch01\|第1章 章节标题]] | 建立基础概念 / 提出核心问题 / 引入方法框架 | 用一两句话说明这一章主要讲什么。 | Concept A、Method B、Theory C |
 ```
 
 `主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person；不同章节尽量拉开差异。
+
+采用 `chapter-arguments` 时，第一列必须链接到章节 Argument，格式为 `[[Argument_BookFolder_ChXX\|第X章 章节标题]]`。采用 `single-argument` 时，第一列可保留普通章节名。章节链接由处理流程显式写入，不依赖 linker 自动生成；`wiki_linker.py` 已能保护表格里的 wikilink alias pipe。
 
 表格下方使用 `[!knowledge-map]` 放全书知识地图，通常先占位，等章节处理较完整后再画。
 
