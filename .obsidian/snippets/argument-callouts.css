@@ -811,60 +811,86 @@
 .callout[data-callout="textbook-overview"] {
   --callout-color: 72, 118, 150;
   --callout-icon: lucide-book-open-check;
-  border: 1px solid rgba(var(--callout-color), 0.18);
-  border-left: 5px solid rgb(var(--callout-color));
+  position: relative;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-left: 0;
   border-radius: 8px;
   background:
-    linear-gradient(135deg, rgba(var(--callout-color), 0.08), transparent 46%),
+    linear-gradient(90deg, rgba(var(--callout-color), 0.16), transparent 1.4rem),
+    linear-gradient(135deg, rgba(var(--callout-color), 0.09), transparent 48%),
     var(--background-primary);
+  overflow: hidden;
+}
+
+.callout[data-callout="textbook-overview"]::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 0.42rem;
+  background: linear-gradient(180deg, rgb(var(--callout-color)), rgba(var(--callout-color), 0.38));
 }
 
 .callout[data-callout="textbook-overview"] > .callout-title {
+  position: relative;
   color: rgb(var(--callout-color));
-  font-weight: 760;
+  font-weight: 800;
+}
+
+.callout[data-callout="textbook-overview"] > .callout-title .callout-title-inner::before {
+  content: "OVERVIEW";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
 }
 
 .callout[data-callout="textbook-overview"] > .callout-content {
+  position: relative;
   overflow-x: auto;
-  padding-bottom: 0.35rem;
+  padding: 0.15rem 0.9rem 0.9rem 1.05rem;
 }
 
 .callout[data-callout="textbook-overview"] table {
   display: table;
   width: 100%;
-  min-width: 760px;
+  min-width: 680px;
   table-layout: fixed;
   border-collapse: separate;
   border-spacing: 0;
-  margin: 0.25rem 0 0;
+  margin: 0.2rem 0 0;
   overflow: hidden;
-  border: 1px solid rgba(var(--callout-color), 0.14);
+  border: 1px solid rgba(var(--callout-color), 0.18);
   border-radius: 8px;
+  box-shadow: 0 10px 24px rgba(var(--callout-color), 0.08);
 }
 
 .callout[data-callout="textbook-overview"] th:nth-child(1),
-.callout[data-callout="textbook-overview"] td:nth-child(1) { width: 20%; }
+.callout[data-callout="textbook-overview"] td:nth-child(1) { width: 24%; }
 .callout[data-callout="textbook-overview"] th:nth-child(2),
-.callout[data-callout="textbook-overview"] td:nth-child(2) { width: 20%; }
+.callout[data-callout="textbook-overview"] td:nth-child(2) { width: 48%; }
 .callout[data-callout="textbook-overview"] th:nth-child(3),
-.callout[data-callout="textbook-overview"] td:nth-child(3) { width: 36%; }
-.callout[data-callout="textbook-overview"] th:nth-child(4),
-.callout[data-callout="textbook-overview"] td:nth-child(4) { width: 24%; }
+.callout[data-callout="textbook-overview"] td:nth-child(3) { width: 28%; }
 
 .callout[data-callout="textbook-overview"] thead th {
-  padding: 0.62rem 0.78rem;
-  background: rgba(var(--callout-color), 0.13);
-  color: rgb(var(--callout-color));
+  padding: 0.62rem 0.85rem;
+  background:
+    linear-gradient(180deg, rgba(var(--callout-color), 0.18), rgba(var(--callout-color), 0.10));
+  color: color-mix(in srgb, rgb(var(--callout-color)) 88%, black 12%);
   font-size: 0.78em;
   font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  border-bottom: 1px solid rgba(var(--callout-color), 0.16);
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.20);
 }
 
 .callout[data-callout="textbook-overview"] tbody td {
-  padding: 0.72rem 0.78rem;
-  border-bottom: 1px solid rgba(var(--callout-color), 0.10);
+  padding: 0.78rem 0.85rem;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.11);
   background: color-mix(in srgb, var(--background-primary) 95%, rgb(var(--callout-color)) 5%);
   font-size: 0.9em;
   line-height: 1.55;
@@ -877,12 +903,28 @@
   background: color-mix(in srgb, var(--background-primary) 91%, rgb(var(--callout-color)) 9%);
 }
 
+.callout[data-callout="textbook-overview"] tbody tr:hover td {
+  background: color-mix(in srgb, var(--background-primary) 86%, rgb(var(--callout-color)) 14%);
+}
+
 .callout[data-callout="textbook-overview"] tbody tr:last-child td {
   border-bottom: none;
 }
 
 .callout[data-callout="textbook-overview"] tbody td:first-child {
-  font-weight: 720;
+  border-right: 1px solid rgba(var(--callout-color), 0.14);
+  background:
+    linear-gradient(90deg, rgba(var(--callout-color), 0.14), transparent 0.45rem),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  color: rgb(var(--callout-color));
+  font-weight: 780;
+}
+
+.callout[data-callout="textbook-overview"] tbody td:last-child {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.22), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  font-size: 0.86em;
 }
 
 .callout[data-callout="textbook-overview"] a.internal-link {
@@ -926,6 +968,15 @@
 
 .theme-dark .callout[data-callout="textbook-overview"] tbody tr:nth-child(even) td {
   background: color-mix(in srgb, var(--background-primary) 86%, rgb(var(--callout-color)) 14%);
+}
+
+.theme-dark .callout[data-callout="textbook-overview"] thead th {
+  color: rgb(var(--callout-color));
+}
+
+.theme-dark .callout[data-callout="textbook-overview"] tbody td:first-child,
+.theme-dark .callout[data-callout="textbook-overview"] tbody td:last-child {
+  background: color-mix(in srgb, var(--background-primary) 82%, rgb(var(--callout-color)) 18%);
 }
 
 

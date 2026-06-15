@@ -52,13 +52,13 @@ wiki/arguments/books/<book-folder>/
 ## 来源
 ```
 
-「总览」使用 `[!textbook-overview]` 表格和知识地图占位。表格保留四列：
+「总览」使用 `[!textbook-overview]` 表格和知识地图占位。表格保留三列：
 
 ```markdown
 > [!textbook-overview] 章节总览
-> | 章节 | 学习功能 | 内容概要 | 主要关联条目 |
-> |---|---|---|---|
-> | [[Argument_BookFolder_Ch01\|第1章 章节标题]] | 建立基础概念 / 提出核心问题 / 引入方法框架 | 用一两句话说明这一章主要讲什么。 | Concept A、Method B、Theory C |
+> | 章节 | 内容概要 | 主要关联条目 |
+> |---|---|---|
+> | [[Argument_BookFolder_Ch01\|第1章 章节标题]] | 用一两句话说明这一章主要讲什么。 | Concept A、Method B、Theory C |
 ```
 
 `主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person；不同章节尽量拉开差异。

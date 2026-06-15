@@ -198,7 +198,7 @@ Textbook Argument 是教材总览和章节整理页。总览页保留章节表�
 
 - 使用 `template-argument-textbook.md`。
 - `subtype` 使用 `textbook`，`publication_type` 使用 `book`。
-- `## 总览` 使用 `[!textbook-overview]` 表格列出章节、学习功能、内容概要和主要关联条目；表格下面放 `[!knowledge-map]`，通常先占位，等章节处理较完整后再画全书知识地图。
+- `## 总览` 使用 `[!textbook-overview]` 表格列出章节、内容概要和主要关联条目；表格下面放 `[!knowledge-map]`，通常先占位，等章节处理较完整后再画全书知识地图。
 - 若采用 `chapter-arguments`，总览表格第一列必须链接到章节 Argument，写作格式为 `[[Argument_BookFolder_Ch01\|第1章 章节标题]]`；若采用 `single-argument`，第一列可保留普通章节名。
 - 章节链接由处理流程显式写入，不依赖 linker 自动生成；`wiki_linker.py` 已能保护表格里的 wikilink alias pipe。
 - 主要关联条目只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person。
