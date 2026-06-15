@@ -160,6 +160,56 @@ updated: '2026-06-10'
 
 > [!line-a] 探索公民属性的融合与七域分类工具
 > 虽然全球公民属性（如环境素养、文化理解、全球视野）的发展得分和职场应用评分均偏低，但访谈表明学生普遍认可其重要性，倾向于将其视为融入具体学科日常实践中的隐性成分，而非脱离学科单独开设的课程（p. 96）。鉴于这些核心能力的脱节，需要建立一个更具系统性的评估框架，将毕业生特质整合为七个维度：知识、研究、沟通、人际技能、高阶思维、个人资源丰富性（包含职业生涯管理）和全球公民素养，以实现博士培养质量的系统提升与评估（p. 98, Table 5）。
+> 
+> > [!logic-map] 博士毕业生特质七域分类框架
+> > ```mermaid
+> > flowchart LR
+> >     Root["博士毕业生特质<br>七域分类框架"] --> K["知识<br>Knowledge"]
+> >     Root --> R["研究<br>Research"]
+> >     Root --> C["沟通<br>Communication"]
+> >     Root --> I["人际技能<br>Interpersonal"]
+> >     Root --> H["高阶思维<br>Higher-order"]
+> >     Root --> P["个人资源丰富性<br>Personal Resourcefulness"]
+> >     Root --> G["全球公民素养<br>Global Citizenship"]
+> > 
+> >     K --> K1["学科特定 (Discipline-specific)"]
+> >     K --> K2["跨学科 (Interdisciplinary)"]
+> >     K --> K3["专业职业 (Professional)"]
+> > 
+> >     R --> R1["研究方法 (Methods)"]
+> >     R --> R2["研究技能 (Skills)"]
+> >     R --> R3["研究管理与伦理 (Management)"]
+> > 
+> >     C --> C1["原则与受众表达 (Principles)"]
+> >     C --> C2["媒介与语言技能 (Media/Language)"]
+> >     C --> C3["学术发表与教学指导"]
+> >     C --> C4["公众参与、政策与商业化"]
+> > 
+> >     I --> I1["合作与团队工作 (Teamwork)"]
+> >     I --> I2["领导力开发 (Leadership)"]
+> > 
+> >     H --> H1["批判性思维与问题解决"]
+> >     H --> H2["认知能力、好奇心与创新"]
+> > 
+> >     P --> P1["个人品质与诚信 (Qualities)"]
+> >     P --> P2["自我管理与身心平衡"]
+> >     P --> P3["职业生涯管理 (Career)"]
+> >     P --> P4["学术身份与终身学习"]
+> > 
+> >     G --> G1["社会正义与倡议 (Advocacy)"]
+> >     G --> G2["数字、文化与社会沟通素养"]
+> >     G --> G3["环境素养与可持续发展"]
+> > ```
+> 
+> | 素养维度 (Domain) | 子维度 (Subdomain) | 典型技能与品质示例 (Examples of attributes and skills) |
+> |---|---|---|
+> | **知识 (Knowledge)** | • 学科特定 (Discipline-specific)<br>• 跨学科 (Interdisciplinary)<br>• 专业职业 (Professional) | 评估自身原创性贡献的相关性与价值；整合两门或多门学科知识的能力；理解工作环境中的行政与运营流程。（p. 98） |
+> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判文献、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。（p. 98） |
+> | **沟通 (Communication)** | • 沟通原则 (Principles)<br>• 媒介与语言 (Media/Language)<br>• 学术发表 (Publication)<br>• 教学指导 (Teaching)<br>• 公众与企业 (Public/Enterprise) | 构建连贯论证、进行知识交换、向不同受众介绍研究；跨媒介与多语种沟通；理解发表流程；发展教学哲学、参与教学指导；促进公众理解、提升政策意识、了解学术成果商业化的可能性。（p. 98） |
+> | **人际技能 (Interpersonal)** | • 协作团队 (Teamwork)<br>• 领导力 (Leadership) | 公开、直接且公正地与他人沟通，理解自身行为对他人的影响，有效管理关系与成功谈判，倾听他人；支持他人的学习。（p. 98） |
+> | **高阶思维 (Higher-order)** | • 认知与创新 (Cognitive/Innovation) | 批判性思维、问题解决、认知能力、创造力与好奇心。（p. 98） |
+> | **个人资源丰富性 (Resourcefulness)** | • 个人品质 (Qualities)<br>• 自我管理 (Self-management)<br>• 职业生涯管理 (Career)<br>• 学术身份 (Scholarship) | 保持研究热情与动力，诚信行事，自我反思与具备能动性，坚持不懈；自我与时间管理，关注工作与生活平衡；主动规划职业生涯、调研职业选项、建立并维护网络；终身学习，具有批判和反思实践的能力。（p. 98） |
+> | **全球公民素养 (Global Citizenship)** | • 倡议与正义 (Advocacy)<br>• 多元素养 (Literacies) | 倡导与面向社会正义的倾向；具备数字素养、文化素养、社会沟通素养与环境素养。（p. 98） |
 
 ---
 
