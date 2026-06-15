@@ -186,25 +186,33 @@ Monograph Argument 是整本专著的论证入口。它可以作为 `single-argu
 
 ### Textbook Argument
 
-Textbook Argument 记录教材的知识推进结构。具体定义、分类、争议、例子、方法步骤和理论说明优先沉淀到对应 wiki 条目。
+Textbook Argument 记录教材的知识推进结构、学习路径和章节知识索引。具体定义、分类、争议、例子、方法步骤和理论说明优先沉淀到对应 wiki 条目。
 
 固定结构：
 
-- `## 章节结构`
+- `## 教材定位`
+- `## 学习路径`
+- `## 章节路线`
 - `## 章节概览`
+- `## 跨章知识结构`
 - `## 重要摘录`
+- `## 使用边界`
 - `## 来源`
 
 规则：
 
 - 使用 `template-argument-textbook.md`。
 - `subtype` 使用 `textbook`，`publication_type` 使用 `book`。
-- `## 章节结构` 只保留三列：章节、内容概要、主要关联条目。
-- `## 章节结构` 优先使用 `[!ref-table]`；`## 章节概览` 每章可用 `[!chapter-question]` 标出本章位置。
+- `## 教材定位` 使用 `[!textbook-profile]`，说明学习对象、知识范围、组织方式和处理粒度。
+- `## 学习路径` 使用 `[!learning-path]` 和 `[!knowledge-map]`，说明教材从入门概念到应用任务的知识路线。
+- `## 章节路线` 使用 `[!textbook-chapter-map]` 和 `[!chapter-index]`，记录章节知识功能和章节 Argument 链接；不默认使用大表格。
+- 只有课程大纲、章节很多且信息非常规则时，才用 `[!ref-table]` 或普通表格承载章节结构。
 - 主要关联条目只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person。
-- `## 章节概览` 跟随教材自身知识推进逻辑，记录概念、理论、证据、案例、表格、图片和结论如何展开。
+- `## 章节概览` 每章使用 `[!chapter-learning]`、`[!knowledge-index]`、`[!learning-sequence]` 和必要的 `[!textbook-artifact]`，跟随教材自身知识推进逻辑，记录概念、理论、证据、案例、表格、图片和结论如何展开。
+- `## 跨章知识结构` 使用 `[!textbook-synthesis]`，记录跨章节概念线索、方法线索、比较线索和学习难点。
 - 已建条目只简单提及，详细内容写入具体条目。
-- `## 重要摘录` 只保留有启发或表述精炼的观点，标注章节与页码；没有页码时只标注章节，不编造页码。
+- `## 重要摘录` 使用 `[!textbook-extract]`，只保留有启发、表述精炼或可作为条目定义来源的观点，标注章节与页码；没有页码时只标注章节，不编造页码。
+- `## 使用边界` 使用 `[!textbook-limits]`，提醒教材定位边界、知识更新边界和条目沉淀边界。
 - 整本教材 source record 创建前，可以暂时省略 `## 来源` 的 source wikilink；source record 创建后再补入。
 
 ### Concept
