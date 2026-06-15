@@ -152,6 +152,266 @@
 }
 
 
+/* ═══════════════════════════════════════════════════════════
+   EDITED VOLUME — 编著入口、结构地图、跨章线索、章节路线
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="volume-profile"],
+.callout[data-callout="volume-argument"],
+.callout[data-callout="volume-structure"],
+.callout[data-callout="volume-map"],
+.callout[data-callout="volume-tools"],
+.callout[data-callout="cross-chapter"],
+.callout[data-callout="chapter-roadmap"],
+.callout[data-callout="chapter-index"],
+.callout[data-callout="volume-contribution"],
+.callout[data-callout="volume-limits"] {
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.10), transparent 42%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
+}
+
+.callout[data-callout="volume-profile"] {
+  --callout-color: 86, 112, 152;
+  --callout-icon: lucide-book-open;
+}
+
+.callout[data-callout="volume-argument"] {
+  --callout-color: 126, 86, 138;
+  --callout-icon: lucide-message-square-quote;
+}
+
+.callout[data-callout="volume-structure"] {
+  --callout-color: 56, 126, 130;
+  --callout-icon: lucide-panels-top-left;
+}
+
+.callout[data-callout="volume-map"] {
+  --callout-color: 74, 128, 104;
+  --callout-icon: lucide-route;
+}
+
+.callout[data-callout="volume-tools"] {
+  --callout-color: 132, 106, 56;
+  --callout-icon: lucide-wrench;
+}
+
+.callout[data-callout="cross-chapter"] {
+  --callout-color: 92, 118, 154;
+  --callout-icon: lucide-git-merge;
+}
+
+.callout[data-callout="chapter-roadmap"] {
+  --callout-color: 72, 126, 88;
+  --callout-icon: lucide-map;
+}
+
+.callout[data-callout="chapter-index"] {
+  --callout-color: 104, 104, 146;
+  --callout-icon: lucide-list;
+}
+
+.callout[data-callout="volume-contribution"] {
+  --callout-color: 78, 132, 104;
+  --callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="volume-limits"] {
+  --callout-color: 150, 86, 76;
+  --callout-icon: lucide-octagon-alert;
+}
+
+.callout[data-callout="volume-profile"] > .callout-title,
+.callout[data-callout="volume-argument"] > .callout-title,
+.callout[data-callout="volume-structure"] > .callout-title,
+.callout[data-callout="volume-map"] > .callout-title,
+.callout[data-callout="volume-tools"] > .callout-title,
+.callout[data-callout="cross-chapter"] > .callout-title,
+.callout[data-callout="chapter-roadmap"] > .callout-title,
+.callout[data-callout="chapter-index"] > .callout-title,
+.callout[data-callout="volume-contribution"] > .callout-title,
+.callout[data-callout="volume-limits"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="volume-profile"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="volume-argument"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="volume-structure"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="volume-map"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="volume-tools"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="cross-chapter"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="chapter-roadmap"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="chapter-index"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="volume-contribution"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="volume-limits"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: 0.66em;
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="volume-profile"] > .callout-title .callout-title-inner::before { content: "VOLUME"; }
+.callout[data-callout="volume-argument"] > .callout-title .callout-title-inner::before { content: "EDITORS"; }
+.callout[data-callout="volume-structure"] > .callout-title .callout-title-inner::before { content: "STRUCTURE"; }
+.callout[data-callout="volume-map"] > .callout-title .callout-title-inner::before { content: "MAP"; }
+.callout[data-callout="volume-tools"] > .callout-title .callout-title-inner::before { content: "TOOLS"; }
+.callout[data-callout="cross-chapter"] > .callout-title .callout-title-inner::before { content: "CROSS"; }
+.callout[data-callout="chapter-roadmap"] > .callout-title .callout-title-inner::before { content: "ROADMAP"; }
+.callout[data-callout="chapter-index"] > .callout-title .callout-title-inner::before { content: "CHAPTERS"; }
+.callout[data-callout="volume-contribution"] > .callout-title .callout-title-inner::before { content: "VALUE"; }
+.callout[data-callout="volume-limits"] > .callout-title .callout-title-inner::before { content: "LIMITS"; }
+
+.callout[data-callout="volume-profile"] > .callout-content,
+.callout[data-callout="volume-argument"] > .callout-content,
+.callout[data-callout="volume-structure"] > .callout-content,
+.callout[data-callout="volume-map"] > .callout-content,
+.callout[data-callout="volume-tools"] > .callout-content,
+.callout[data-callout="cross-chapter"] > .callout-content,
+.callout[data-callout="chapter-roadmap"] > .callout-content,
+.callout[data-callout="chapter-index"] > .callout-content,
+.callout[data-callout="volume-contribution"] > .callout-content,
+.callout[data-callout="volume-limits"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
+}
+
+.callout[data-callout="volume-profile"] > .callout-content > ul,
+.callout[data-callout="volume-argument"] > .callout-content > ul,
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul,
+.callout[data-callout="volume-contribution"] > .callout-content > ul,
+.callout[data-callout="volume-limits"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="volume-profile"] > .callout-content > ul > li,
+.callout[data-callout="volume-argument"] > .callout-content > ul > li,
+.callout[data-callout="volume-structure"] > .callout-content > ul > li,
+.callout[data-callout="volume-tools"] > .callout-content > ul > li,
+.callout[data-callout="cross-chapter"] > .callout-content > ul > li,
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul > li,
+.callout[data-callout="chapter-index"] > .callout-content > ul > li,
+.callout[data-callout="volume-contribution"] > .callout-content > ul > li,
+.callout[data-callout="volume-limits"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.72rem 0.85rem;
+  border: 1px solid rgba(var(--callout-color), 0.14);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
+    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  line-height: 1.6;
+}
+
+.callout[data-callout="volume-profile"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="volume-argument"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="volume-structure"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="volume-tools"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="cross-chapter"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="chapter-index"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="volume-contribution"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="volume-limits"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.22rem;
+  color: rgb(var(--callout-color));
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="volume-structure"] > .callout-content > ul,
+.callout[data-callout="volume-tools"] > .callout-content > ul,
+.callout[data-callout="cross-chapter"] > .callout-content > ul,
+.callout[data-callout="chapter-index"] > .callout-content > ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="cross-chapter"] > .callout-content > ul > li > ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.45rem;
+  margin: 0.45rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="cross-chapter"] > .callout-content > ul > li > ul > li {
+  margin: 0;
+  padding: 0.18rem 0.48rem;
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  line-height: 1.45;
+}
+
+.callout[data-callout="volume-map"] .mermaid,
+.callout[data-callout="volume-map"] pre {
+  margin: 0.35rem 0 0;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+}
+
+.callout[data-callout="chapter-index"] a.internal-link,
+.callout[data-callout="volume-tools"] a.internal-link,
+.callout[data-callout="cross-chapter"] a.internal-link {
+  font-weight: 650;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="volume-profile"] > .callout-content > ul,
+  .callout[data-callout="volume-argument"] > .callout-content > ul,
+  .callout[data-callout="chapter-roadmap"] > .callout-content > ul,
+  .callout[data-callout="volume-contribution"] > .callout-content > ul,
+  .callout[data-callout="volume-limits"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="volume-profile"] { --callout-color: 138, 164, 214; }
+.theme-dark .callout[data-callout="volume-argument"] { --callout-color: 184, 138, 204; }
+.theme-dark .callout[data-callout="volume-structure"] { --callout-color: 112, 190, 196; }
+.theme-dark .callout[data-callout="volume-map"] { --callout-color: 126, 188, 152; }
+.theme-dark .callout[data-callout="volume-tools"] { --callout-color: 200, 170, 104; }
+.theme-dark .callout[data-callout="cross-chapter"] { --callout-color: 146, 170, 214; }
+.theme-dark .callout[data-callout="chapter-roadmap"] { --callout-color: 126, 190, 142; }
+.theme-dark .callout[data-callout="chapter-index"] { --callout-color: 164, 164, 214; }
+.theme-dark .callout[data-callout="volume-contribution"] { --callout-color: 132, 198, 160; }
+.theme-dark .callout[data-callout="volume-limits"] { --callout-color: 220, 134, 122; }
+
+.theme-dark .callout[data-callout="volume-profile"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="volume-argument"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="volume-structure"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="volume-tools"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="cross-chapter"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="chapter-roadmap"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="chapter-index"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="volume-contribution"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="volume-limits"] > .callout-content > ul > li {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
+    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+
 /* ─── S/W/O/T 四象限 — 独立 callout，各有配色 ──── */
 .callout[data-callout="strength"] {
   --callout-color: 34, 180, 80;

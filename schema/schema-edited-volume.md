@@ -7,7 +7,7 @@
 ## 核心原则
 
 - 模板读取顺序统一为 `wiki/templates/TEMPLATE-SPEC.md` → `wiki/templates/CALLOUTS.md` → 对应 `wiki/templates/template-*.md`。
-- 论文集 overview 是整本书的结构入口，使用 `wiki/templates/template-argument-edited-volume.md`。
+- 论文集 overview 是整本书的结构入口，使用 `wiki/templates/template-argument-edited-volume.md`，负责维护编者问题意识、全书组织逻辑、跨章主题线索和章节处理路线。
 - 论文集章节是主要可引用单元，使用 `wiki/templates/template-argument.md`。
 - 章节 Argument 的 citation 字段按章节作者、章节年份和章节标题填写。
 - overview source 与章节 source 都放在 `books/<book-folder>/`，不放 `sources/`。
@@ -85,6 +85,6 @@ wiki/arguments/books/<book-folder>/
    - `book_title` 写论文集标题
    - `part_of` 指向 overview source
    - citation 字段以章节作者和章节年份为准
-9. 更新 overview Argument 的「各章概览」，加入章节 Argument 链接和核心贡献。
+9. 更新 overview Argument 的「章节处理路线」和「各章概览」，加入章节 Argument 链接和核心贡献；若该章改变对全书结构的理解，同步更新「跨章主题线索」。
 10. 在 `## 来源` 列出章节 source wikilink。
 11. 执行 `vault-schema.md` 的脚本运行规则，即运行 `.venv/bin/python3 scripts/vault_index.py`。
