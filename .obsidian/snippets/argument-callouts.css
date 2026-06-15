@@ -1014,6 +1014,24 @@
   grid-column: span 2;
 }
 
+.callout[data-callout="textbook-profile"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="learning-path"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="chapter-learning"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="textbook-limits"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(-n + 2),
+.callout[data-callout="textbook-profile"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6),
+.callout[data-callout="learning-path"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6),
+.callout[data-callout="chapter-learning"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6),
+.callout[data-callout="textbook-limits"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 6) {
+  grid-column: span 3;
+}
+
+.callout[data-callout="textbook-profile"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5),
+.callout[data-callout="learning-path"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5),
+.callout[data-callout="chapter-learning"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5),
+.callout[data-callout="textbook-limits"] > .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n + 3):nth-child(-n + 5) {
+  grid-column: span 2;
+}
+
 .callout[data-callout="textbook-profile"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="learning-path"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="textbook-chapter-map"] > .callout-content > ul > li > strong:first-child,
