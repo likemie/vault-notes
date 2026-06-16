@@ -13,9 +13,7 @@ publisher: "Routledge"
 year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
-citation_aliases:
-  - "Cohen et al., 2011b"
-  - "Cohen et al. (2011b)"
+citation_aliases: []
 tags:
   - method/research-methods
   - source/textbook

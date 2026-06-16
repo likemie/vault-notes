@@ -14,8 +14,8 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases:
-  - "Cohen et al., 2011a"
-  - "Cohen et al. (2011a)"
+  - "Cohen et al., 2011"
+  - "Cohen et al. (2011)"
 tags:
   - method/research-methods
   - source/textbook

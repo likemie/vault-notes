@@ -60,6 +60,7 @@ wiki/arguments/books/<book-folder>/
 
 - `Argument_<book-folder>.md` 是全书 overview，保留章节索引表或「各章概览」短条目，每章链接到对应章节 Argument。
 - 章节 Argument 文件名使用 `Argument_<book-folder>_ChXX.md`；若章节需要更强可读性，可在 `ChXX` 后追加稳定英文短标题。
+- 章节 Argument 属于同一本专著，不是独立文献；章节归属和引用短名由 `scripts/citation_index.py` 自动维护。
 - 章节 Argument 记录该章问题、论证链条、证据/案例、关键引用和本章创建或更新的知识条目。
 - 当前章节新建的 Concept / Theory / Method / Fact / Person 必须在对应章节 Argument 正文中至少出现一次 wikilink；overview 可只链接章节 Argument 和最核心跨章条目。
 

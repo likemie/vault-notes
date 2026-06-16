@@ -73,6 +73,7 @@ wiki/arguments/books/<book-folder>/
 
 - `Argument_<book-folder>.md` 是全书 overview，「总览」列出每章链接、内容概要和 3–5 个核心关联条目，并保留全书知识地图占位。
 - 章节 Argument 文件名使用 `Argument_<book-folder>_ChXX.md`；若章节需要更强可读性，可在 `ChXX` 后追加稳定英文短标题。
+- 章节 Argument 属于同一本教材，不是独立文献；章节归属和引用短名由 `scripts/citation_index.py` 自动维护。
 - 章节 Argument 按“概念地图 → 章节内容 → 关键引用”记录该章知识结构、核心概念、分类/步骤/方法、例子/表格/图和关键引用。
 - 当前章节新建的 Concept / Theory / Method / Fact / Person 必须在对应章节 Argument 正文中至少出现一次 wikilink；overview 可只链接章节 Argument 和最核心跨章条目。
 

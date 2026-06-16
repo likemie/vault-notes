@@ -74,6 +74,19 @@ class ArgumentCitation:
         }
 
 
+@dataclass
+class InheritedBookChapter:
+    path: Path
+    title: str
+    aliases: list[str]
+    parent_target: str
+    current_part_of: str
+
+    @property
+    def rel_path(self) -> str:
+        return self.path.relative_to(ROOT).as_posix()
+
+
 def parse_scalar(value: str) -> str:
     value = value.strip()
     if value in {"", "null", "None", "~"}:
@@ -153,6 +166,13 @@ def display_from_wikilink(value: str) -> str:
     return (m.group(2) or m.group(1)).strip()
 
 
+def target_from_wikilink(value: str) -> str:
+    m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", value.strip())
+    if not m:
+        return ""
+    return m.group(1).strip()
+
+
 def author_label(author: str) -> str:
     author = display_from_wikilink(author)
     author = author.replace("''", "'")
@@ -230,18 +250,52 @@ def is_citation_eligible(meta: dict[str, Any], path: Path) -> bool:
         return False
     if meta.get("subtype") == "edited-volume-overview":
         return False
+    if inherited_book_chapter_parent(meta, path):
+        return False
     if "templates" in path.parts:
         return False
     return bool(str(meta.get("year") or "").strip() and list_value(meta.get("authors")))
 
 
-def load_arguments() -> list[ArgumentCitation]:
+def inferred_parent_target_from_filename(path: Path) -> str:
+    m = re.match(r"^(Argument_.+)_Ch\d{1,3}(?:[_-].+)?$", path.stem)
+    if not m:
+        return ""
+    parent_target = m.group(1)
+    parent_path = path.with_name(f"{parent_target}.md")
+    return parent_target if parent_path.exists() else ""
+
+
+def inherited_book_chapter_parent(meta: dict[str, Any], path: Path) -> str:
+    """Chapter Argument for a single authored book; cite the parent book instead."""
+    if meta.get("publication_type") != "book-chapter":
+        return ""
+    if meta.get("subtype") not in {"textbook", "monograph"}:
+        return ""
+    part_of = str(meta.get("part_of") or "").strip()
+    if part_of.startswith("[[Argument_") and part_of.endswith("]]"):
+        return target_from_wikilink(part_of)
+    return inferred_parent_target_from_filename(path)
+
+
+def load_arguments() -> tuple[list[ArgumentCitation], list[InheritedBookChapter]]:
     items: list[ArgumentCitation] = []
+    inherited_chapters: list[InheritedBookChapter] = []
     if not ARG_DIR.exists():
-        return items
+        return items, inherited_chapters
     for path in sorted(ARG_DIR.rglob("*.md")):
         text = path.read_text(encoding="utf-8", errors="replace")
         meta, _, _ = parse_frontmatter(text)
+        parent_target = inherited_book_chapter_parent(meta, path)
+        if parent_target:
+            inherited_chapters.append(InheritedBookChapter(
+                path=path,
+                title=str(meta.get("title") or path.stem).strip(),
+                aliases=list_value(meta.get("citation_aliases")),
+                parent_target=parent_target,
+                current_part_of=str(meta.get("part_of") or "").strip(),
+            ))
+            continue
         if not is_citation_eligible(meta, path):
             continue
         authors = list_value(meta.get("authors"))
@@ -260,7 +314,7 @@ def load_arguments() -> list[ArgumentCitation]:
             base_aliases=base,
             aliases=base,
         ))
-    return items
+    return items, inherited_chapters
 
 
 def assign_suffixes(items: list[ArgumentCitation]) -> None:
@@ -322,6 +376,38 @@ def replace_frontmatter(text: str, aliases: list[str]) -> str:
     return new_fm + text[m.end():]
 
 
+def replace_scalar_frontmatter_field(text: str, field: str, value: str, after_keys: set[str] | None = None) -> str:
+    m = FRONTMATTER_RE.match(text)
+    if not m:
+        return text
+    lines = m.group(1).splitlines()
+    output: list[str] = []
+    inserted = False
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        m_key = KEY_RE.match(line)
+        key = m_key.group(1) if m_key else ""
+        if key == field:
+            output.append(f"{field}: {yaml_quote(value)}")
+            inserted = True
+            i += 1
+            while i < len(lines) and re.match(r"^\s*-\s+", lines[i]):
+                i += 1
+            continue
+        output.append(line)
+        if not inserted and after_keys and key in after_keys:
+            next_is_list_item = i + 1 < len(lines) and re.match(r"^\s*-\s+", lines[i + 1])
+            if not next_is_list_item:
+                output.append(f"{field}: {yaml_quote(value)}")
+                inserted = True
+        i += 1
+    if not inserted:
+        output.append(f"{field}: {yaml_quote(value)}")
+    new_fm = "---\n" + "\n".join(output).rstrip() + "\n---\n"
+    return new_fm + text[m.end():]
+
+
 def update_argument_files(items: list[ArgumentCitation], dry_run: bool) -> int:
     changed = 0
     for item in items:
@@ -332,6 +418,25 @@ def update_argument_files(items: list[ArgumentCitation], dry_run: bool) -> int:
             print(f"✏️  {item.rel_path} aliases={item.aliases}")
             if not dry_run:
                 item.path.write_text(new_text, encoding="utf-8")
+    return changed
+
+
+def clear_inherited_chapter_aliases(chapters: list[InheritedBookChapter], dry_run: bool) -> int:
+    changed = 0
+    for chapter in chapters:
+        text = chapter.path.read_text(encoding="utf-8", errors="replace")
+        new_text = replace_frontmatter(text, [])
+        new_text = replace_scalar_frontmatter_field(
+            new_text,
+            "part_of",
+            f"[[{chapter.parent_target}]]",
+            after_keys={"sources"},
+        )
+        if new_text != text:
+            changed += 1
+            print(f"✏️  {chapter.rel_path} aliases=[] part_of=[[{chapter.parent_target}]]")
+            if not dry_run:
+                chapter.path.write_text(new_text, encoding="utf-8")
     return changed
 
 
@@ -377,6 +482,19 @@ def check(items: list[ArgumentCitation]) -> int:
     return errors
 
 
+def check_inherited_chapters(chapters: list[InheritedBookChapter]) -> int:
+    errors = 0
+    for chapter in chapters:
+        if chapter.aliases:
+            print(f"❌ inherited book chapter should not have citation_aliases: {chapter.rel_path} aliases={chapter.aliases}")
+            errors += 1
+        expected_part_of = f"[[{chapter.parent_target}]]"
+        if chapter.current_part_of != expected_part_of:
+            print(f"❌ inherited book chapter part_of should be {expected_part_of}: {chapter.rel_path} got={chapter.current_part_of!r}")
+            errors += 1
+    return errors
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Maintain Argument citation aliases and citation JSON indexes.")
     parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing.")
@@ -384,15 +502,17 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="Check generated alias uniqueness and exit.")
     args = parser.parse_args()
 
-    items = load_arguments()
+    items, inherited_chapters = load_arguments()
     assign_suffixes(items)
     print(f"📚 citation-eligible arguments: {len(items)}")
+    print(f"📖 inherited book chapters: {len(inherited_chapters)}")
 
-    errors = check(items)
+    errors = check(items) + check_inherited_chapters(inherited_chapters)
     if args.check:
         return 1 if errors else 0
 
     changed = update_argument_files(items, dry_run=args.dry_run)
+    changed += clear_inherited_chapter_aliases(inherited_chapters, dry_run=args.dry_run)
     print(f"{'[dry-run] ' if args.dry_run else ''}frontmatter files changed: {changed}")
     full, ambiguous = build_indexes(items)
     write_json(full, ambiguous, dry_run=args.dry_run)

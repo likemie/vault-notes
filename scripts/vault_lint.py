@@ -216,6 +216,10 @@ def is_citation_eligible_argument(data: Optional[Dict[str, Any]]) -> bool:
         return False
     if data.get("subtype") == "edited-volume-overview":
         return False
+    if data.get("publication_type") == "book-chapter" and data.get("subtype") in {"textbook", "monograph"}:
+        part_of = str(data.get("part_of") or "").strip()
+        if part_of.startswith("[[Argument_") and part_of.endswith("]]"):
+            return False
     authors = data.get("authors")
     has_authors = bool(authors) if isinstance(authors, list) else bool(str(authors or "").strip())
     return bool(has_authors and str(data.get("year") or "").strip())
