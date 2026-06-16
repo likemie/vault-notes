@@ -6,12 +6,13 @@ from __future__ import annotations
 vault_index.py
 
 Run the vault's base index maintenance in the required order:
-  1. scripts/wiki_index.py
-  2. scripts/citation_index.py
+  1. scripts/book_overview.py
+  2. scripts/wiki_index.py
+  3. scripts/citation_index.py
 
-The two underlying scripts stay separate because they maintain different
-generated surfaces: wiki indexes versus Argument citation aliases/indexes.
-This file is the daily unified entry point.
+The underlying scripts stay separate because they maintain different generated
+surfaces: book overview skeletons, wiki indexes, and Argument citation
+aliases/indexes. This file is the daily unified entry point.
 """
 
 import argparse
@@ -43,6 +44,9 @@ def run_script(script_name: str, extra_args: list[str] | None = None) -> int:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Run wiki and citation base indexes.")
+    parser.add_argument("--book-only", action="store_true", help="Run only scripts/book_overview.py.")
+    parser.add_argument("--book-check", action="store_true", help="Pass --check to scripts/book_overview.py.")
+    parser.add_argument("--book-dry-run", action="store_true", help="Pass --dry-run to scripts/book_overview.py.")
     parser.add_argument("--wiki-only", action="store_true", help="Run only scripts/wiki_index.py.")
     parser.add_argument("--citation-only", action="store_true", help="Run only scripts/citation_index.py.")
     parser.add_argument("--citation-check", action="store_true", help="Pass --check to scripts/citation_index.py.")
@@ -50,8 +54,15 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--full", action="store_true", help="Pass --full to scripts/citation_index.py for workflow symmetry.")
     args = parser.parse_args(argv)
 
-    if args.wiki_only and args.citation_only:
-        parser.error("--wiki-only and --citation-only cannot be used together")
+    only_flags = [args.book_only, args.wiki_only, args.citation_only]
+    if sum(1 for flag in only_flags if flag) > 1:
+        parser.error("--book-only, --wiki-only, and --citation-only cannot be combined")
+
+    book_args: list[str] = []
+    if args.book_check:
+        book_args.append("--check")
+    if args.book_dry_run:
+        book_args.append("--dry-run")
 
     citation_args: list[str] = []
     if args.citation_check:
@@ -61,12 +72,20 @@ def main(argv: list[str] | None = None) -> int:
     if args.full:
         citation_args.append("--full")
 
-    if not args.citation_only:
+    if args.book_only:
+        return run_script("book_overview.py", book_args)
+
+    if not args.wiki_only and not args.citation_only:
+        code = run_script("book_overview.py", book_args)
+        if code:
+            return code
+
+    if not args.citation_only and not args.book_only:
         code = run_script("wiki_index.py")
         if code:
             return code
 
-    if not args.wiki_only:
+    if not args.wiki_only and not args.book_only:
         code = run_script("citation_index.py", citation_args)
         if code:
             return code

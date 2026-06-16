@@ -63,7 +63,7 @@ wiki/arguments/books/<book-folder>/
 
 `主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person；不同章节尽量拉开差异。
 
-采用 `chapter-arguments` 时，第一列必须链接到章节 Argument，格式为 `[[Argument_BookFolder_ChXX\|第X章 章节标题]]`。采用 `single-argument` 时，第一列可保留普通章节名。章节链接由处理流程显式写入，不依赖 linker 自动生成；`wiki_linker.py` 已能保护表格里的 wikilink alias pipe。
+采用 `chapter-arguments` 时，第一列必须链接到章节 Argument，格式为 `[[Argument_BookFolder_ChXX\|第X章 章节标题]]`。采用 `single-argument` 时，第一列可保留普通章节名。章节链接骨架由 `scripts/book_overview.py` 自动维护；AI/人只维护 `内容概要` 和 `主要关联条目`。
 
 表格下方使用 `[!knowledge-map]` 放全书知识地图，通常先占位，等章节处理较完整后再画。
 
@@ -71,7 +71,7 @@ wiki/arguments/books/<book-folder>/
 
 采用 `chapter-arguments` 时：
 
-- `Argument_<book-folder>.md` 是全书 overview，「总览」列出每章链接、内容概要和 3–5 个核心关联条目，并保留全书知识地图占位。
+- `Argument_<book-folder>.md` 是全书 overview，「总览」列出每章链接、内容概要和 3–5 个核心关联条目，并保留全书知识地图占位；章节链接骨架和一致性检查由 `scripts/book_overview.py` 维护。
 - 章节 Argument 文件名使用 `Argument_<book-folder>_ChXX.md`；若章节需要更强可读性，可在 `ChXX` 后追加稳定英文短标题。
 - 章节 Argument 属于同一本教材，不是独立文献；章节归属和引用短名由 `scripts/citation_index.py` 自动维护。
 - 章节 Argument 按“概念地图 → 章节内容 → 关键引用”记录该章知识结构、核心概念、分类/步骤/方法、例子/表格/图和关键引用。
