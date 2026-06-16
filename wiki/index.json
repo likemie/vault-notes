@@ -9300,20 +9300,20 @@
     ]
   },
   {
-    "title": "Australian Curriculum",
-    "type": "fact",
-    "path": "wiki/facts/australia/Australian Curriculum.md",
-    "aliases": [
-      "澳大利亚课程"
-    ]
-  },
-  {
     "title": "Educational Services Australia",
     "type": "fact",
     "path": "wiki/facts/australia/Educational Services Australia.md",
     "aliases": [
       "澳大利亚教育服务公司",
       "ESA"
+    ]
+  },
+  {
+    "title": "Australian Curriculum",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Curriculum.md",
+    "aliases": [
+      "澳大利亚课程"
     ]
   },
   {
@@ -10754,16 +10754,6 @@
     ]
   },
   {
-    "title": "Education Endowment Foundation",
-    "type": "fact",
-    "path": "wiki/facts/uk/Education Endowment Foundation.md",
-    "aliases": [
-      "EEF",
-      "教育捐赠基金会",
-      "Education Endowment Foundation (EEF)"
-    ]
-  },
-  {
     "title": "Girls Into Science and Technology Project",
     "type": "fact",
     "path": "wiki/facts/uk/Girls Into Science and Technology Project.md",
@@ -10815,6 +10805,16 @@
     "title": "ResearchED",
     "type": "fact",
     "path": "wiki/facts/uk/ResearchED.md"
+  },
+  {
+    "title": "Education Endowment Foundation",
+    "type": "fact",
+    "path": "wiki/facts/uk/Education Endowment Foundation.md",
+    "aliases": [
+      "EEF",
+      "教育捐赠基金会",
+      "Education Endowment Foundation (EEF)"
+    ]
   },
   {
     "title": "Centre for the Use of Research and Evidence in Education",

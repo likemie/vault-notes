@@ -7338,3 +7338,422 @@
 .theme-dark .callout[data-callout="critique-essay"] .callout-content li > p > strong:first-child {
   color: rgb(210, 128, 156);
 }
+
+/* ═══════════════════════════════════════════════════════════
+   COLON-SAFE LABELS
+   These callouts use Markdown like **标签**：正文. If the first strong
+   element is block-level, the Chinese colon is stranded on the next line.
+   Keep these labels inline so punctuation stays attached to the label.
+   ═══════════════════════════════════════════════════════════ */
+.callout:is(
+  [data-callout="volume-profile"],
+  [data-callout="volume-argument"],
+  [data-callout="volume-structure"],
+  [data-callout="volume-tools"],
+  [data-callout="cross-chapter"],
+  [data-callout="chapter-roadmap"],
+  [data-callout="chapter-index"],
+  [data-callout="volume-contribution"],
+  [data-callout="volume-limits"],
+  [data-callout="monograph-profile"],
+  [data-callout="monograph-thesis"],
+  [data-callout="monograph-tools"],
+  [data-callout="monograph-method"],
+  [data-callout="argument-steps"],
+  [data-callout="chapter-arc"],
+  [data-callout="book-synthesis"],
+  [data-callout="book-limits"],
+  [data-callout="formula-step"],
+  [data-callout="method-limits"],
+  [data-callout="math-principle"],
+  [data-callout="software-impl"],
+  [data-callout="implication"],
+  [data-callout="concept-lens"],
+  [data-callout="event-context"],
+  [data-callout="policy-context"],
+  [data-callout="policy-design"],
+  [data-callout="theory-position"],
+  [data-callout="proposition-chain"],
+  [data-callout="theory-components"],
+  [data-callout="theory-stance"],
+  [data-callout="theory-use"],
+  [data-callout="theory-boundary"],
+  [data-callout="method-scope"],
+  [data-callout="method-fit"],
+  [data-callout="method-position"],
+  [data-callout="method-stack"],
+  [data-callout="person-profile"],
+  [data-callout="contribution-map"],
+  [data-callout="influence-path"],
+  [data-callout="person-network"]
+) > .callout-content :is(li, p) > strong:first-child {
+  display: inline;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   TIMELINE REDESIGN
+   Restore a visible rail, milestone nodes, connectors, and staged flow.
+   ═══════════════════════════════════════════════════════════ */
+.callout[data-callout="timeline"] {
+  --timeline-rgb: 72, 95, 145;
+  --callout-color: var(--timeline-rgb);
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--timeline-rgb), 0.26);
+  border-left: 6px solid rgb(var(--timeline-rgb));
+  border-radius: 10px;
+  background:
+    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.10), transparent 42%),
+    radial-gradient(circle at 1.15rem 4.4rem, rgba(var(--timeline-rgb), 0.18), transparent 1.8rem),
+    var(--background-primary);
+  box-shadow: 0 8px 22px rgba(var(--timeline-rgb), 0.08);
+}
+
+.callout[data-callout="timeline"] > .callout-title {
+  color: rgb(var(--timeline-rgb));
+  border-bottom: 1px solid rgba(var(--timeline-rgb), 0.16);
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul {
+  position: relative;
+  margin: 0.2rem 0 0;
+  padding: 0.25rem 0 0.1rem 2.7rem;
+  list-style: none;
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  left: 1.06rem;
+  top: 0.55rem;
+  bottom: 0.9rem;
+  width: 3px;
+  border-radius: 999px;
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(var(--timeline-rgb), 0),
+      rgba(var(--timeline-rgb), 0.80) 10%,
+      rgba(var(--timeline-rgb), 0.65) 86%,
+      rgba(var(--timeline-rgb), 0)
+    );
+  box-shadow: 0 0 0 1px rgba(var(--timeline-rgb), 0.08);
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li {
+  position: relative;
+  margin: 0 0 0.72rem;
+  padding: 0.68rem 0.82rem 0.72rem;
+  border: 1px solid rgba(var(--timeline-rgb), 0.14);
+  border-left: 3px solid rgba(var(--timeline-rgb), 0.48);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
+    color-mix(in srgb, var(--background-primary) 93%, rgb(var(--timeline-rgb)) 7%);
+  line-height: 1.68;
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li::before {
+  content: "";
+  position: absolute;
+  left: -2.03rem;
+  top: 1.05rem;
+  width: 0.78rem;
+  height: 0.78rem;
+  border: 3px solid var(--background-primary);
+  border-radius: 999px;
+  background: rgb(var(--timeline-rgb));
+  box-shadow:
+    0 0 0 2px rgba(var(--timeline-rgb), 0.44),
+    0 0 0 7px rgba(var(--timeline-rgb), 0.10);
+  z-index: 2;
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li::after {
+  content: "";
+  position: absolute;
+  left: -1.28rem;
+  top: 1.39rem;
+  width: 1.18rem;
+  height: 2px;
+  border-radius: 999px;
+  background: rgba(var(--timeline-rgb), 0.45);
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li:last-child {
+  margin-bottom: 0;
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li > strong:first-child {
+  display: inline-block;
+  margin: 0 0.42em 0 0;
+  padding: 0.08em 0.55em 0.12em;
+  border-radius: 999px;
+  background: rgb(var(--timeline-rgb));
+  color: #fff;
+  font-size: 0.78em;
+  font-weight: 780;
+  letter-spacing: 0.03em;
+  line-height: 1.55;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li > ul {
+  margin: 0.58rem 0 0;
+}
+
+.callout[data-callout="timeline"] > .callout-content > ul > li > ul::before,
+.callout[data-callout="timeline"] > .callout-content > ul > li > ul::after,
+.callout[data-callout="timeline"] > .callout-content > ul > li > ul > li::before,
+.callout[data-callout="timeline"] > .callout-content > ul > li > ul > li::after {
+  content: none;
+  display: none;
+}
+
+.callout[data-callout="timeline-compact"] {
+  --timeline-rgb: 85, 125, 160;
+  --callout-color: var(--timeline-rgb);
+  border-left-width: 5px;
+  background:
+    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.09), transparent 48%),
+    var(--background-primary);
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul {
+  padding-left: 2.25rem;
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul::before {
+  left: 0.82rem;
+  top: 0.35rem;
+  bottom: 0.72rem;
+  width: 2px;
+  background: linear-gradient(to bottom, rgba(var(--timeline-rgb), 0.70), rgba(var(--timeline-rgb), 0.38));
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul::after {
+  left: calc(0.82rem - 4px);
+  bottom: 0.08rem;
+  border-top-color: rgba(var(--timeline-rgb), 0.68);
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul > li {
+  margin-bottom: 0.36rem;
+  padding: 0.42rem 0.58rem;
+  border: 1px solid rgba(var(--timeline-rgb), 0.13);
+  border-left: 2.5px solid rgba(var(--timeline-rgb), 0.44);
+  border-radius: 7px;
+  background: color-mix(in srgb, var(--background-primary) 94%, rgb(var(--timeline-rgb)) 6%);
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul > li::before {
+  left: -1.70rem;
+  top: 0.78rem;
+  width: 0.58rem;
+  height: 0.58rem;
+  border: 2.5px solid var(--background-primary);
+  background: rgb(var(--timeline-rgb));
+  box-shadow:
+    0 0 0 2px rgba(var(--timeline-rgb), 0.36),
+    0 0 0 5px rgba(var(--timeline-rgb), 0.09);
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul > li::after {
+  content: "";
+  position: absolute;
+  left: -1.16rem;
+  top: 1.02rem;
+  width: 0.96rem;
+  height: 1.5px;
+  background: rgba(var(--timeline-rgb), 0.40);
+}
+
+.callout[data-callout="dev-timeline"] {
+  --timeline-rgb: 75, 115, 155;
+  --callout-color: var(--timeline-rgb);
+  border-left-width: 6px;
+  background:
+    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.10), transparent 48%),
+    var(--background-primary);
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol {
+  position: relative;
+  margin: 0;
+  padding: 0.2rem 0 0.1rem 2.9rem;
+  list-style: none;
+  counter-reset: dev-phase;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol::before {
+  left: 1.13rem;
+  top: 0.65rem;
+  bottom: 0.95rem;
+  width: 3px;
+  border-radius: 999px;
+  background: linear-gradient(to bottom, rgba(var(--timeline-rgb), 0.82), rgba(var(--timeline-rgb), 0.32));
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li {
+  counter-increment: dev-phase;
+  position: relative;
+  margin: 0 0 0.85rem;
+  padding: 0.75rem 0.9rem 0.82rem;
+  border: 1px solid rgba(var(--timeline-rgb), 0.15);
+  border-left: 3px solid rgba(var(--timeline-rgb), 0.50);
+  border-radius: 9px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
+    color-mix(in srgb, var(--background-primary) 93%, rgb(var(--timeline-rgb)) 7%);
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li::before {
+  content: counter(dev-phase);
+  left: -2.28rem;
+  top: 0.82rem;
+  width: 1.15rem;
+  height: 1.15rem;
+  border: 3px solid var(--background-primary);
+  border-radius: 999px;
+  background: rgb(var(--timeline-rgb));
+  color: #fff;
+  font-size: 0.68em;
+  font-weight: 760;
+  line-height: 1.15rem;
+  text-align: center;
+  box-shadow:
+    0 0 0 2px rgba(var(--timeline-rgb), 0.42),
+    0 0 0 7px rgba(var(--timeline-rgb), 0.10);
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li::after {
+  content: "";
+  position: absolute;
+  left: -1.18rem;
+  top: 1.38rem;
+  width: 1.12rem;
+  height: 2px;
+  background: rgba(var(--timeline-rgb), 0.45);
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child::before {
+  background: var(--background-primary);
+  color: rgb(var(--timeline-rgb));
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child > strong:first-child {
+  display: inline;
+  margin: 0;
+  color: rgb(var(--timeline-rgb));
+  font-size: 1em;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul,
+.callout[data-callout="thought-timeline"] > .callout-content > ul {
+  padding-left: 2.65rem;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul::before,
+.callout[data-callout="thought-timeline"] > .callout-content > ul::before {
+  left: 1.02rem;
+  top: 0.7rem;
+  bottom: 0.95rem;
+  width: 3px;
+  background: linear-gradient(to bottom, rgba(var(--callout-color), 0.74), rgba(var(--callout-color), 0.28));
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li {
+  border-left: 3px solid rgba(var(--callout-color), 0.44);
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li::before,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li::before {
+  left: -2.02rem;
+  top: 1rem;
+  width: 0.78rem;
+  height: 0.78rem;
+  border: 3px solid var(--background-primary);
+  background: rgb(var(--callout-color));
+  box-shadow:
+    0 0 0 2px rgba(var(--callout-color), 0.38),
+    0 0 0 6px rgba(var(--callout-color), 0.09);
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li::after,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li::after {
+  content: "";
+  position: absolute;
+  left: -1.28rem;
+  top: 1.36rem;
+  width: 1.16rem;
+  height: 2px;
+  background: rgba(var(--callout-color), 0.40);
+}
+
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li > ul {
+  position: relative;
+  margin-top: 0.62rem;
+  border-left: 3px solid rgba(var(--callout-color), 0.24);
+}
+
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul {
+  counter-reset: roadmap-step;
+}
+
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul > li {
+  counter-increment: roadmap-step;
+  position: relative;
+  padding-left: 3.15rem;
+  border-left: 3px solid rgba(var(--callout-color), 0.42);
+}
+
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul > li::before {
+  content: counter(roadmap-step);
+  position: absolute;
+  left: 0.78rem;
+  top: 0.78rem;
+  width: 1.38rem;
+  height: 1.38rem;
+  border-radius: 999px;
+  background: rgb(var(--callout-color));
+  color: #fff;
+  font-size: 0.72em;
+  font-weight: 780;
+  line-height: 1.38rem;
+  text-align: center;
+  box-shadow:
+    0 0 0 3px color-mix(in srgb, var(--background-primary) 76%, rgb(var(--callout-color)) 24%),
+    0 0 0 7px rgba(var(--callout-color), 0.08);
+}
+
+.theme-dark .callout:is(
+  [data-callout="timeline"],
+  [data-callout="timeline-compact"],
+  [data-callout="dev-timeline"]
+) {
+  background:
+    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.15), transparent 50%),
+    var(--background-primary);
+}
+
+@media (max-width: 640px) {
+  .callout[data-callout="timeline"] > .callout-content > ul,
+  .callout[data-callout="timeline-compact"] > .callout-content > ul,
+  .callout[data-callout="dev-timeline"] .callout-content > ol,
+  .callout[data-callout="work-line"] > .callout-content > ul,
+  .callout[data-callout="thought-timeline"] > .callout-content > ul {
+    padding-left: 2.1rem;
+  }
+
+  .callout[data-callout="timeline"] > .callout-content > ul::before,
+  .callout[data-callout="timeline-compact"] > .callout-content > ul::before,
+  .callout[data-callout="dev-timeline"] .callout-content > ol::before,
+  .callout[data-callout="work-line"] > .callout-content > ul::before,
+  .callout[data-callout="thought-timeline"] > .callout-content > ul::before {
+    left: 0.72rem;
+  }
+}

@@ -11,17 +11,17 @@ Total entries: **259**
 
 ## Australia
 
-> [!summary]- Organization (6)
+> [!summary]- Organization (7)
 > - [[Australian Council for Educational Research]] — 澳大利亚教育研究与评估组织，独立于政府，负责开发和管理初始教师教育学生读写与算术统考（LANTITE）。在初始教师教育改革问责链条中充当核心中介，通过运营统考每年获得数百万澳元的巨大商业利益。
 > - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为“什么是有效”（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广“循证”教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（ITE）标准化和惩罚性问责的重要政策节点。
 > - [[Australian Institute for Teaching and School Leadership]] — 澳大利亚联邦政府设立的全国性教师专业机构，成立于2011年。负责制定全国教师专业标准及初始教师教育（ITE）项目的认证程序。在2023年《强劲开端》改革中，其职权被大幅扩张，受托将“大脑与学习”等标准化核心内容强制嵌入国家认证大纲，成为推行绩效问责与监视治理的关键治理节点。
 > - [[BHP Foundation]] — 由全球矿业与跨国资源巨头必和必拓集团（BHP Group）全资资助的慈善基金会。作为典型的风险慈善（Venture Philanthropy）组织，基金会通过资助英国教育捐赠基金会（EEF）全球证据生态项目，在全球推广复制标准化循证教育机构（如AERO），深刻介入主权国家教育知识生产与准入政策流动的隐形重塑。
 > - [[Centre for Evidence and Implementation]] — 总部位于澳大利亚的跨国非营利证据中介机构（Evidence Intermediary）。在2023年《强劲开端》教师教育改革前夕，受AERO委托撰写了教育循证实践桌面审查，为国家核心大纲的强制出台提供了关键的底层证据支撑，同时也因证据链条的封闭和局限性受到政策社会学者的批评。
 > - [[Centre for Independent Studies]] — 澳大利亚右翼保守主义游说智库，成立于1976年。该智库通过资助教育出版物、推广认知负荷理论并运作跨界政策精英（如Jennifer Buckingham），在《强劲开端》教师教育改革中实现了私人游说文献的强制消费，成为理念编排权力的典型节点。
-
-> [!summary]- Policy (12)
-> - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
 > - [[Educational Services Australia]] — 澳大利亚注册慈善机构，作为AITSL、ACARA和AERO的母体组织，是ITE改革中介组织网络的制度基础。
+
+> [!summary]- Policy (11)
+> - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
 > - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
 > - [[Graduate Outcomes Survey]] — 澳大利亚年度毕业生调查，由QILT运营，2022年数据显示教师教育整体满意度为75%，被用于评估ITE项目质量。
 > - [[Independent Public Schools Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
@@ -296,16 +296,18 @@ Total entries: **259**
 
 ## UK
 
-> [!summary]- Event (9)
+> [!summary]- Event (8)
 > - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
-> - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球what works运动在教育领域的制度化标杆。
 > - [[Girls Into Science and Technology Project]] — 1980年代英国为期三年的女性主义行动研究项目，涉及2,000名学生和十所学校，通过同步整合行动研究刻意改变女孩的科学科目选择与职业抱负。
 > - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 > - [[Oxford UIDP Summit 2019]] — 2019 年牛津大学与 UIDP 联合举办的首届产学合作高层峰会，汇集 149 名英国、美国、欧洲及其他地区的大学、企业和政府代表，围绕十大关键议题产出峰会报告 Developing University-Industry Partnerships Fit for the Future
 > - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
 > - [[Research Excellence Framework]] — 2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 QR 研究拨款的分配，是高等教育准市场最成熟也最具影响力的制度形式
 > - [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
+
+> [!summary]- Organization (1)
+> - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球what works运动在教育领域的制度化标杆。
 
 > [!summary]- Policy (16)
 > - [[Centre for the Use of Research and Evidence in Education]] — 英国证据传播机构，主要把研究报告转化为教师和政策制定者可理解、可用于学校真实情境的材料。
