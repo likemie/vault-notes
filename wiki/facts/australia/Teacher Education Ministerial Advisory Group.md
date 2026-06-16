@@ -6,7 +6,7 @@ aliases:
   - 教师教育部长级咨询小组
   - Action Now
   - Classroom Ready Teachers
-  - Action Now: Classroom Ready Teachers
+  - "Action Now: Classroom Ready Teachers"
 summary: "2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是澳大利亚初始教师教育（ITE）标准化改革的起点。"
 type: fact
 subtype: policy

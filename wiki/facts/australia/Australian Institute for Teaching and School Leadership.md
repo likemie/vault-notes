@@ -96,7 +96,7 @@ updated: 2026-06-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[Strong Beginnings Report]] | AITSL 职权急剧扩张、受托设计强制认证附表的直接政策来源。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Teacher Education Ministerial Advisory Group|TEMAG]] | 前期改革文本，为 AITSL 确立在初始教师 education 认证中的主导地位奠定了基础。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Teacher Education Ministerial Advisory Group|TEMAG]] | 前期改革文本，为 AITSL 确立在初始教师教育认证中的主导地位奠定了基础。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[Australian Education Research Organisation]] | 共同起草核心大纲，并与 AITSL 相互配合进行标准监管的证据中介组织。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Centre for Independent Studies]] | 其非执行董事巴金汉同时任职的保守智库。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[LANTITE]] | AITSL 认证体系下，由 ACER 运行并产生高额营收的职前教师标准化统考项目。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
