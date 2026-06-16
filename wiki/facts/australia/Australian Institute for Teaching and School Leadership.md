@@ -13,7 +13,11 @@ tags:
   - policy/teacher-education
   - accreditation
   - theme/accountability
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Effective Teaching]]"
+  - "[[Classroom Management]]"
+  - "[[What Works Movement]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
 related_methods: []
@@ -21,10 +25,10 @@ related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Educational Services Australia]]"
-  - "[[Centre for Independent Studies]]"
-  - "[[LANTITE]]"
   - "[[TEMAG]]"
+  - "[[Centre for Independent Studies]]"
   - "[[Strong Beginnings Report]]"
+  - "[[LANTITE]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
@@ -37,48 +41,66 @@ updated: 2026-06-16
 
 ---
 
-## 背景与历史渊源
+## 背景
 
-> [!info] 机构设立与权力定位
-> - **受托设立与标准制定**：澳大利亚教学与学校领导力协会（Australian Institute for Teaching and School Leadership, AITSL）成立于2011年，最初受托制定《澳大利亚教师专业标准》（Australian Professional Standards for Teachers）。这使其迅速成为“彻底改革ITE项目的关键参与者”（Barnes & Cross, 2021, p. 460）。
-> - **底层支持技术架构**：AITSL 与负责大纲的 ACARA 以及负责证据的 [[Australian Education Research Organisation|AERO]] 一样，在底层技术和行政运作上均由注册慈善机构——澳大利亚教育服务公司（[[Educational Services Australia|ESA]]）提供底座支持。
-> - **权力失衡警告**：早在2016年，Savage 指出 AITSL 等中介机构获得了“前所未有的政策制定职能”（p. 2），并警告这种权力向非政府外部中介的集中可能会“制造新的权力失衡”（p. 15），剥夺大学教师教育者的学术专业自主权（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
-
----
-
-## 《强劲开端》改革与职权大幅扩张
-
-在2023年《强劲开端》政策中，AITSL 被赋予了将标准化核心内容落实为法定准入标准的监管职能：
-
-### 1. 强制性认证附表的增加（建议一）
-- **核心课程的法制化**：《强劲开端》报告建议一明确授权 AITSL 将“大脑与学习”、“有效教学实践”、“课堂管理”和“回应性教学”四项核心内容，作为正式的“附表”（Schedule）添加到《国家ITE项目认证标准与程序》中（Australian Government, 2023, p. 17）。
-- **课程准入硬约束**：此项改变剥夺了大学教师教育者自主决定课程结构与大纲的权力，要求所有大学提供商在2025年底前强制完成大纲改造，将 ITE 毕业准入与上述标准化知识点直接挂钩（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]]）。
-
-### 2. 外部审核与惩罚性问责网络的构建
-- **双重监视网络**：AITSL 的准入标准制定权，与报告建议三新设立的“初始教师教育质量保证委员会”（ITE Quality Assurance Board）相互咬合。AITSL 负责开发并强制推行课程规范，新成立的委员会则确保这些规范被绝对遵从，并直接与大学绩效资金（优先改革二）挂钩（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
-- **监视蔓延与脚本化教学**：政策社会学家批评指出，这一机制反映了“监视蔓延与绩效问责”（Daliri-Ngametua et al., 2022）的升级，它迫使教师走向“脚本化教学法”（Scripted forms of pedagogy），从而将教师矮化为国家标准的机械执行者（Hickey et al., 2022, p. 294; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
+> [!event-context] 机构背景
+> - **时间 / 地点**：2011年受托成立，总部位于澳大利亚。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **关键主体**：澳大利亚教学与学校领导力协会（AITSL）、非执行董事詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **制度背景**：起初负责制定《澳大利亚教师专业标准》，成为彻底改革初始教师教育（ITE）认证流程的关键参与者；底层运作与 AERO、ACARA 一起，由慈善公司[[Educational Services Australia|ESA]]提供底层技术与系统支撑。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **触发条件**：国家教育治理从多元化大学教师教育体系向全国标准化、问责考核机制转轨的政策需要。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 
 ---
 
-## 争议与政策社会学批判
+## 经过
 
-> [!tension] 理念编排、商业化与智识矛盾
-> 
-> AITSL 作为国家教师标准的把关人，其在中立性、商业运作和理论逻辑上存在重大的政策社会学张力：
-> 
-> 1. **利益冲突与“理念编排”网络**  
->    在《强劲开端》改革中穿梭的跨界政策精英詹妮弗·巴金汉博士（Dr Jennifer Buckingham）是该项改革的核心推广者。她一方面长期担任保守派右翼智库[[Centre for Independent Studies|澳大利亚独立研究中心]]（CIS）的董事会成员和高级研究员（CIS, 2024）；另一方面，她同时担任 AITSL 的非执行董事（AITSL, 2017）。这使得 CIS 资助的非同行评审文献（Sweller, 2021）得以通过 AITSL 转化为全国大学的法定必修大纲，暴露了“理念编排”（Idea Orchestration）网络在保守派智库与国家准入机构之间的直接通道（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
-> 
-> 2. **标准化背后的商业化与利润链条**  
->    教师培训标准的强制化和测试化，为相关商业和中介机构创造了庞大的利润空间。例如，由 ACER（澳大利亚教育研究理事会）实施的 ITE 学生读写算术强制性统考（[[LANTITE]]），每年为 ACER 带来约 **370万澳元** 的丰厚营业收入。AITSL 推行的课程标准化进一步固化了这种教育测评市场的利益闭环（Barnes & Cross, 2020; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
-> 
-> 3. **智识上的自我矛盾**  
->    AITSL 认证大纲在要求将大一统的“大脑与学习”标准文献强制灌输给职前教师的同时，又在另一项标准中要求教师掌握“在文化和情境上适当的回应性教学”（Responsive Teaching）。批判学者指出，将复杂的、根植于具体社区情境的教育活动，约化为外部规定、一成不变的生物脑科学客观真理，与追求情境适应性的“回应性教学”在智识逻辑上是背道而驰、完全冲突的（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6, p. 11]]）。
+> [!timeline] 机构发展与关键活动
+> - 2011 受命开发《澳大利亚教师专业标准》，确立对全国教师和教师培训体系的官方标准话语权（Barnes & Cross, 2021, p. 460）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - 2015 [[TEMAG]] 改革报告出台，进一步巩固和扩大了 AITSL 在全国初始教师教育（ITE）认证与合规管理中的地位。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - 2017 巴金汉博士获任 AITSL 非执行董事，开始在官方教师标准把关机构中任职。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - 2023 《强劲开端》报告出台（建议一），授权 AITSL 将“核心内容”以附表形式强制嵌入《国家ITE项目认证标准与程序》中，其职权正式扩张至具体的大学课程设计监控。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11)]]
 
 ---
 
-## 关联概念与理论
+## 关键文件／声明
 
-> [!tip] 延伸阅读概念地图
-> - **概念重构工具**：[[Bacchi's WPR Approach]] — 审视 AITSL 专业标准背后所隐藏的认识论假设；[[TEMAG]] — 澳大利亚初始教师教育改革的前续历史文本。
-> - **政策核心关联**：[[Strong Beginnings Report]] — 其职权扩张的直接政策来源；[[Centre for Independent Studies|澳大利亚独立研究中心 (CIS)]] — 与其有人事交叉重叠的保守派智库；[[Educational Services Australia|澳大利亚教育服务公司 (ESA)]] — 其底层的行政系统支撑平台。
+> [!citation-card] ITE 强制认证附表要求
+> “澳大利亚教学与学校领导力协会将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。”[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 5)]]
+> 
+> “The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should teach and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)
+
+---
+
+## 影响与后果
+
+> [!finding-cards] 政策影响与后果
+> - **教师教育机构自主权的缩减**：通过法定制式附表，实质上剥夺了大学教师教育者独立开发课程大纲和评价职前学习效果的传统能动权。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11)]]
+> - **政策制定角色的史无前例转移**：AITSL 从一个单纯的“行业标准合规检查者”转变为可以直接插手并规定教学大纲的“课程决定者”，在政策网络中形成了前所未有的不对称权力平衡。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **监视治理与脚本化教学的蔓延**：通过与毕业生毕业考核（毕业生标准 1.1/1.2）及绩效经费挂钩，加剧了对教师工作的“绩效监视”，迫使课堂教学走向死板的脚本化模式。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+
+---
+
+## 争议与评论
+
+> [!actor-grid] 权力重组的评论视角
+> - **官方监管 / 绩效主义视角**：强调核心大纲的法制化是为了保障国家新任教师质量，降低毕业生质量的地区差异，并提供可客观度量的质量保证指标。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **学术自主 / 批判社会学视角**：指出其职权扩张侵害了大学的学术自主，把复杂的社会交往活动简化为一成不变的生物脑科学客观真理，并建立起了高度监视性的惩罚机制。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **政策分析 / 制度变迁视角**：Savage (2016) 指出，AITSL 获得了空前强大的政策开发功能，与 AERO 等共同在制度上排挤了传统的学术治理，重组了主权国家的教育权力网络。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **市场运作者 / 商业化视角**：标准的不断强化直接喂养了庞大的教育测评和认证商业链条，如 ACER 实施的 LANTITE 教师统考每年仅考试费就产生约 370 万澳元的营收。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+
+> [!tension] 争议焦点
+> - **巴金汉的“双重跨界与理念编排”**：巴金汉一方面长期担任右翼保守智库 [[Centre for Independent Studies|CIS]] 的董事和高级研究员，该智库出资并出版了核心参考文献 Sweller (2021) 报告；另一方面，她同时担任 AITSL 的非执行董事。这为智库大纲的法定转换和官方合规把关构建了利益高度纠缠的通路。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **大一统标准与“回应性教学”的智识矛盾**：AITSL 大纲在强力灌输脑科学一统大纲与指定教材的同时，又在大纲中保留了“基于地方文化和情境的回应性教学”。批判学者指出，将复杂的教学活动机械化和客观真理化，与尊重本土特殊情境的回应性教学在理智和逻辑上是完全冲突且不可兼容的。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 6, p. 11)]]
+
+---
+
+## 相关概念／政策
+
+> [!ref-table] 相关条目索引
+> | 条目 | 关系 | 来源 |
+> |---|---|---|
+> | [[Strong Beginnings Report]] | AITSL 职权急剧扩张、受托设计强制认证附表的直接政策来源。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]] |
+> | [[TEMAG]] | 前期改革文本，为 AITSL 确立在初始教师教育认证中的主导地位奠定了基础。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]] |
+> | [[Australian Education Research Organisation]] | 共同起草核心大纲，并与 AITSL 相互配合进行标准监管的证据中介组织。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]] |
+> | [[Centre for Independent Studies]] | 其非执行董事巴金汉同时任职的保守智库。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]] |
+> | [[LANTITE]] | AITSL 认证体系下，由 ACER 运行并产生高额营收的职前教师标准化统考项目。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]] |
+> | [[Educational Services Australia]] | 在底层提供共享的技术和行政支撑架构的注册慈善公司。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]] |

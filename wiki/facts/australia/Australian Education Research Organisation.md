@@ -15,17 +15,20 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[What Works Movement]]"
-  - "[[Venture Philanthropy]]"
-related_theories: []
+  - "[[Evidence-Based Education]]"
+  - "[[Knowledge Production]]"
+related_theories:
+  - "[[Bacchi's WPR Approach]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Sweller]]"
 related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[Strong Beginnings Report]]"
+  - "[[Centre for Evidence and Implementation]]"
+  - "[[BHP Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Educational Services Australia]]"
-  - "[[Education Endowment Foundation]]"
-  - "[[BHP Foundation]]"
-  - "[[Centre for Evidence and Implementation]]"
-  - "[[Strong Beginnings Report]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
@@ -38,57 +41,67 @@ updated: 2026-06-16
 
 ---
 
-## 背景与建制定位
+## 背景
 
-> [!info] 机构建制与历史渊源
-> - **设立定位**：澳大利亚教育研究组织（Australian Education Research Organisation, AERO）成立于2010年代后期，定位为国家级教育证据中介机构（Evidence Intermediary），明确将自身作为跨国“什么有效”（what works）运动在澳大利亚的制度化化身。
-> - **ESA资金与技术支持**：在行政与法人架构上，AERO与负责标准的 [[Australian Institute for Teaching and School Leadership|AITSL]] 和课程大纲的 ACARA 类似，均由注册慈善机构——澳大利亚教育服务公司（[[Educational Services Australia|ESA]]）提供底层的行政与技术系统支撑，形成了相对集中的公私合营政策网络。
-> - **效仿英国 EEF**：早在2016年，澳大利亚生产力委员会（Productivity Commission）关于教育证据的报告中，就明确建议效仿英国的[[Education Endowment Foundation|教育捐赠基金会]]（EEF）来建立澳大利亚本土的教育证据机构。这一倡议最终促成了 AERO 的诞生（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
-
----
-
-## 在《强劲开端》改革中的角色
-
-AERO 在2023年《强劲开端》教师教育专家小组报告的起草与决策中发挥了双重核心作用：
-
-### 1. 政策起草的直接参与与大纲设计
-- **首席执行官的身份重叠**：AERO 的首席执行官杰妮·多诺万（Jenny Donovan，曾任新南威尔士州教育统计与评估中心 CESE 主任）直接作为专家小组起草成员参与了《强劲开端》报告的撰写。
-- **核心课程的科学依据提供**：专家小组设计职前教师“核心内容”课程方案的主要依据，直接来源于 AERO 为本次审查撰写的一份**未发表的研究综合报告**（Unpublished Research Synthesis）。这使 AERO 获得了对什么是“有效知识”的实质性定义权（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
-
-### 2. 推动惩罚性问责制的升级
-- **董事会的强硬游说立场**：在政策博弈过程中，AERO 董事会强烈主张采取“权威的”（Authoritative，实质上是惩罚性的）国家大纲规范。AERO 董事会强调，任何非强制性的指南都无法在认证专家组和大学课程开发者之间建立一致的全国执行（Australian Government, 2023, p. 31）。这一游说最终促成了“将课程内容合规度与大学联邦教育资金直接挂钩”的强硬政策设计（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
+> [!event-context] 机构背景
+> - **时间 / 地点**：成立于2010年代后期，总部设在澳大利亚。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **关键主体**：澳大利亚教育研究组织（AERO）、首席执行官杰妮·多诺万（Jenny Donovan，曾任新南威尔士州教育统计与评估中心 CESE 主任）、专家委员会委员柯文·科林斯爵士（Sir Kevan Collins）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **制度背景**：2016年生产力委员会建议以英国教育捐赠基金会（[[Education Endowment Foundation|EEF]]）为蓝本建立本土机构；与 ACARA、[[Australian Institute for Teaching and School Leadership|AITSL]] 类似，其技术与行政底层由注册慈善机构[[Educational Services Australia|ESA]]支撑。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8, p. 11)]]
+> - **触发条件**：跨国“什么有效”（what works）运动在澳大利亚推进教育政策“循证改革”的制度化需要。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 ---
 
-## 跨国政策网络与风险慈善的纽带
+## 经过
 
-AERO 从诞生到运作，在国际和私营资本层面上与全球循证网络深度嵌合：
-
-> [!actor-grid] 跨国风险慈善网络追踪
-> - **EEF 全球证据生态扩张**：2018年，英国 [[Education Endowment Foundation|EEF]] 启动了为期五年的“在教学中构建全球证据生态系统”项目。该项目获得了全球采矿巨头必和必拓集团旗下的[[BHP Foundation|必和必拓基金会]]的巨额注资，旨在全球复制“EEF模式的循证中介机构”，推广标准化的测评与证据评级工具。AERO 的成立和运作模式在此背景下诞生，体现了风险慈善资本对主权国家教育体系的隐形治理。
-> - **人事交叉重叠**：[[Education Endowment Foundation|EEF]] 的创始人及前任首席执行官柯文·科林斯爵士（Sir Kevan Collins）直接在 AERO 的“专家委员会”（Expert Board）任职。这种政策精英的跨国穿梭，加速了英澳两国“什么有效”教学大纲与问责标准的跨国复制（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
-
----
-
-## 争议与证据基础批判
-
-> [!tension] 证据闭环生产与自证清白
-> 
-> AERO 宣称其推广的教育实践具有“坚实的客观证据”，但批评政策社会学家指出了其证据链条的局限性与利益自循环特征：
-> 
-> 1. **桌面审查的本土实证匮乏**  
->    在《强劲开端》报告发布前夕，AERO 在其官网上发布了一项关于学校如何采纳证据的桌面审查报告（Abdo et al., 2021）。然而，该研究并非由 AERO 自行开展，而是委托给另一家全球证据 intermediary——证据与实施中心（[[Centre for Evidence and Implementation|CEI]]）。该报告坦承，关于澳大利亚学校实际采纳证据的本地实证研究“极为有限”（Abdo et al., 2021, p. 41; [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
-> 
-> 2. **自给自足的“专家咨询圈”**  
->    CEI 开展的上述审查在咨询外部专家时，绝大多数所谓的专家均来自于 CEI 组织内部以及国际上的“什么有效”中介中心本身（Abdo et al., 2021, p. 15）。这一闭环的专家咨询模式，被批评为构成了自我引用、自我评估、自证其罪的封闭利益集团（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
-> 
-> 3. **学术文献来源极其狭窄**  
->    该桌面审查的文献基础几乎完全集中在发表于《实施科学》（*Implementation Science*）和《实施科学通讯》（*Implementation Science Communications*）两本期刊上的文章。这种文献基底被质疑过于狭窄和带有强烈的技术理性偏执，缺乏更广泛教育学与社会学同行评审学术界的公开审议（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]）。
+> [!timeline] 机构发展与关键活动
+> - 2016 生产力委员会发布报告，明确建议效仿英国 EEF 筹建澳大利亚全国教育证据中介机构。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - 2018 必和必拓基金会（BHP Foundation）注资启动 EEF 为期五年的“全球证据生态扩张”项目，AERO 在此契机下成立并积极融入全球网络，邀请 EEF 创始人科林斯爵士加入专家委员会。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - 2021 AERO 委托外部中介机构[[Centre for Evidence and Implementation|证据与实施中心 (CEI)]] 开展针对澳大利亚学校采纳证据现状的桌面审查（Desktop Review），并于当年12月在官网上线报告。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - 2023 AERO 深度介入《强劲开端》改革；CEO Donovan 成为 TEEP 专家小组成员，AERO 撰写的一份未发表的“证据综合报告”成为全国教师教育“核心课程大纲”的直接科学依据。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 ---
 
-## 关联概念与理论
+## 关键文件／声明
 
-> [!tip] 延伸阅读概念地图
-> - **概念重构工具**：[[What Works Movement]] — 解释 AERO 所属的跨国循证运动背景；[[Venture Philanthropy]] — 解释必和必拓基金会（BHP Foundation）资助跨国政策网络运作的逻辑。
-> - **政策核心关联**：[[Strong Beginnings Report]] — AERO 政策构想的落地文本；[[Centre for Evidence and Implementation|证据与实施中心 (CEI)]] — 实际承担其证据生产的外部中介；[[Educational Services Australia|澳大利亚教育服务公司 (ESA)]] — 其底层的行政支撑底座。
+> [!citation-card] AERO 董事会强硬问责声明
+> “AERO 董事会强调其偏好全国权威的核心内容大纲。它认为任何非强制性的举措，都无法促使认证组和 ITE 项目开发者对这些教学实践建立一致的全国性理解。”[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> 
+> “The AERO Board highlighted a preference for authoritative national elaborations of core content. It argued that anything less would be insufficient to underpin consistent national understanding of these practices by accreditation panels and ITE program developers.” (Australian Government, 2023, p. 31)
+
+---
+
+## 影响与后果
+
+> [!finding-cards] 影响与政策成效
+> - **教师教育大纲的隐形设计者**：AERO 成功通过其证据评估体系和未公开文献，掌控了职前教师大纲“大脑与学习”板块知识的官方定义权。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **问责机制行政强硬化的主要推手**：董事会在起草过程中代表了倾向于“资金惩罚和剥夺认证”的立场，成功将柔性政策升级为大学必须对齐的硬性问责大纲。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **跨国证据垄断生态的本土复制**：将英国 EEF 的证据框架和专家网络本地化，完成了“什么有效中介模式”在澳大利亚公共教育决策层面的制度性嵌入。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+
+---
+
+## 争议与评论
+
+> [!actor-grid] 评论视角图
+> - **自我呈现 / 官方视角**：声称扮演价值中性、基于科学的客观第三方机构，为学校和政策提供客观、无意识形态偏见的“最佳循证实践指南”。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **学术批判 / 教师自主视角**：指出其推行的全国大纲涉嫌以脑科学简化论取代大学教师的教育学专业判断，并主导了向大学教师施压的惩罚性问责。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **政策治理 / 制度架构视角**：通过与 AITSL 和 ACARA 共享 ESA 底层架构，使 AERO 等少数外部中介实体绕过正常的学术和民主监督，直接塑造公共大学的核心课程。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8, p. 11)]]
+> - **跨国资本 / 风险慈善视角**：BHP 基金会通过定向注资跨国项目催生和塑造 AERO 的运行轨迹，表明跨国资本如何作为隐形底流，推动主权国家教育体系向合规审计治理转型。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+
+> [!tension] 争议焦点
+> - **自证清白的“专家闭环”**：其桌面审查（Abdo et al., 2021）所咨询并声称达成共识的外部专家，大多数来自其委托的 CEI 机构内部和“什么有效”分支中心，构成高度自我引用的封闭网络。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **证据来源极其狭窄**：该作为大纲科学底座的审查报告，其学术基底窄化为仅发表于《实施科学》（*Implementation Science*）等两本期刊上的文章，排除了更广泛的教育科学文献。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **同行评审程序的缺失**：指导《强劲开端》核心课程设计的 AERO 研究综合至今仍是“未发表文献”（Unpublished Synthesis），免于学术共同体的审议和双盲评审，却被强加为法律标准。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+
+---
+
+## 相关概念／政策
+
+> [!ref-table] 相关条目索引
+> | 条目 | 关系 | 来源 |
+> |---|---|---|
+> | [[What Works Movement]] | AERO 自我定位为此全球循证运动的澳大利亚执行分支。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]] |
+> | [[BHP Foundation]] | 资助 EEF 全球扩张项目并间接促成 AERO 等“EEF 模式机构”建立的跨国基金会。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]] |
+> | [[Centre for Evidence and Implementation]] | 受 AERO 委托起草循证实践桌面审查报告的全球证据中介机构。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]] |
+> | [[Strong Beginnings Report]] | AERO CEO Donovan 作为专家小组成员直接参与起草的联邦改革文本。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]] |
+> | [[Australian Institute for Teaching and School Leadership]] | AERO 开发的核心内容需要呈送给 AITSL 并落实到具体的认证规程中。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]] |
+> | [[Educational Services Australia]] | 为 AERO 运作提供底层行政与技术支撑的注册慈善公司。 | [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]] |
