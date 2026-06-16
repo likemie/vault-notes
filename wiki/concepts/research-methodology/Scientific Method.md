@@ -3,6 +3,11 @@ title: Scientific Method
 aliases: [科学方法, empirical science, 经验科学, scientific approach]
 summary: "以经验证据为基础的系统性研究程序，通过假设检验、受控观察和逻辑推理来建立、验证或拒绝关于现象之间关系的理论，是实证主义研究的核心方法论。"
 type: concept
+domain: "research-methodology"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/research-methodology, paradigm/positivism]
 related_concepts: []
 related_theories: []

@@ -3,6 +3,11 @@ title: Incommensurability
 aliases: [不可通约性, incommensurable, 范式不可通约性, paradigm incommensurability]
 summary: "库恩范式理论的核心机制，指不同范式之间不存在共同的原则、标准或衡量尺度，因此无法用同一套标准比较优劣。"
 type: concept
+domain: "research-methodology"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/philosophy-of-science, theme/epistemology, paradigm/postpositivist]
 related_concepts:
   - "[[Paradigm]]"

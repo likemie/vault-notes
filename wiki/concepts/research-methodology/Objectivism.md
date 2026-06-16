@@ -3,6 +3,11 @@ title: Objectivism
 aliases: [客观主义, objectivist approach, objectivist paradigm]
 summary: "研究社会现实的客观主义取向，持实在论本体论和实证主义认识论，将社会世界视为外在于个体的客观实在，以发现普遍法则为研究目标。"
 type: concept
+domain: "research-methodology"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [paradigm/positivist, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Nomothetic and Idiographic]]"

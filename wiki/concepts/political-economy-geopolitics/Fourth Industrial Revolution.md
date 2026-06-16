@@ -7,10 +7,10 @@ aliases:
 summary: "围绕人工智能、区块链和自动化等技术集群构成新一轮社会经济变革的概念，常用于组织技术未来叙事和政策动员。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - geopolitics-of-knowledge
 - knowledge-economy

@@ -7,6 +7,11 @@ aliases:
   - nature of reality
 summary: "关于实在本质和事物性质的哲学假设，在教育研究中决定研究者如何看待社会现象的存在方式——是外在于个体的客观存在，还是个体意识的产物。"
 type: concept
+domain: "educational-philosophy"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/epistemology
   - theme/research-philosophy

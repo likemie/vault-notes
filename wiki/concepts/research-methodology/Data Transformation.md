@@ -3,6 +3,11 @@ title: Data Transformation
 aliases: [数据转换, data conversion, quantitizing, qualitizing, 量化转换, 质化转换]
 summary: "混合方法研究中的数据整合策略之一，将质性数据转换为数值形式（量化）或将量化数据转换为叙事形式（质化），以实现两类数据的整合分析。"
 type: concept
+domain: "research-methodology"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [mixed-methods, research-methodology, data-analysis]
 related_concepts:
   - "[[Variable]]"

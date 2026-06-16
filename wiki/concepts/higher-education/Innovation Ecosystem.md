@@ -7,7 +7,7 @@ aliases:
 summary: "由人与组织通过网络互动进行创新的系统，大学常作为区域锚点，具有基于地点和全球性两种形态，依赖创意与人员的自由流动，其理论基础来自 Schumpeter 的创新理论和 Ridley 的论述"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

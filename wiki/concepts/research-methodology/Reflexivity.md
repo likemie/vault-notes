@@ -3,6 +3,11 @@ title: Reflexivity
 aliases: [反身性, 反思性, researcher reflexivity, 研究者反身性]
 summary: "研究者反思自身角色、背景和立场如何塑造研究解释的核心概念，在现象学和俗民方法学中有双重哲学根基。"
 type: concept
+domain: "research-methodology"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [research-methodology, qualitative-research, paradigm/interpretive]
 related_concepts:
   - "[[Research Question]]"

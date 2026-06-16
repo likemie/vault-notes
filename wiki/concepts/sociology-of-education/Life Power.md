@@ -6,7 +6,7 @@ aliases:
 summary: "Dell Delambre 提出的概念，指个体在新旧张力中为自身存在重新赋予意义的实践性再定位能力，用于理解行动可能性和生命力重组。"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

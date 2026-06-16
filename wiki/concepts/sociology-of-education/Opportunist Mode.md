@@ -7,7 +7,7 @@ aliases:
 summary: "毕业出路分化中的一种类型，以目标掌控和弱价值信念结合为特征，擅长策略性配置资源但缺乏深层价值认同，偏向工具性收益最大化"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

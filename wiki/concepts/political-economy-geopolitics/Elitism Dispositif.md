@@ -6,7 +6,7 @@ aliases:
 summary: "Maesse 借 Foucault 的 dispositif 概念分析经济学学科精英生产的机制，统一评估、资源集中和院系规模化共同运作，系统性地制造学科的中心-边缘分化并溢出至政治和媒体场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

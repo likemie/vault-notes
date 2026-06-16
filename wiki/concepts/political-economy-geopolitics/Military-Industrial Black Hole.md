@@ -3,6 +3,11 @@ title: Military-Industrial Black Hole
 aliases: ["军工黑洞", "military-industrial black hole", "军事工业黑洞"]
 summary: "苏联国家主义体制中军工复合体持续消耗国家资源的极端现象，将科学人才和技术创新封锁在与民用经济隔绝的军事系统内，使科技发展沦为只能服务国防部门而无法产生民用溢出效应的封闭循环"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/military-industrial-complex
   - region/ussr

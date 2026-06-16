@@ -6,7 +6,7 @@ aliases:
 summary: 20世纪末兴起的教育政策取向，主张用随机对照试验等科学方法识别有效干预并推广，通过证据中介组织将研究发现转化为政策建议，但也因简化教育复杂性和服务私人利益而受到批评。
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

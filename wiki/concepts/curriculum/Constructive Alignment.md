@@ -5,7 +5,7 @@ aliases:
 summary: "Biggs 提出的课程设计原则，强调学习结果、教学活动和评估三者之间的逻辑一致性，用于协调课程目标、教学过程和评价方式。"
 type: concept
 domain: "curriculum"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

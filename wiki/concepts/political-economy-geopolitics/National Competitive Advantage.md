@@ -5,7 +5,7 @@ aliases:
 summary: "Porter 提出的理论，认为国家竞争优势通过高度本地化的产业、制度和创新条件被创造和维持。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

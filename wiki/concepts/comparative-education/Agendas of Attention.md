@@ -7,10 +7,10 @@ aliases:
 summary: "Klerides（2023）从国际关系理论角度提出的概念，指比较教育在特定国际关系传统（现实主义、理性主义、革命主义）影响下选择性关注某些问题而忽略另一些问题的模式，揭示了比较教育知识生产的政治条件"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/comparative-education
   - theme/geopolitics

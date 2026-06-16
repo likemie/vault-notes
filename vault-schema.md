@@ -99,6 +99,7 @@ scripts/
   vault_index.py
   wiki_index.py
   citation_index.py
+  citation_linker.py
   wiki_linker.py
   wiki_relations.py
   vault_lint.py
@@ -218,7 +219,7 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 - `citation_full.json`：所有 `citation_aliases` 到 Argument 的查询索引。
 - `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。
 
-正文 citation 补链由 `scripts/citation_linker.py` 完成，只读取 `citation_full.json` 与 `citation_ambiguous.json`，不扫描或修改 Argument frontmatter。
+正文 citation 补链由 `scripts/citation_linker.py` 完成，只读取 `citation_full.json` 与 `citation_ambiguous.json`，不扫描或修改 Argument frontmatter；日常通过 `scripts/vault_index.py --standard-workflow` 统一触发。
 
 正文引用当前 Argument 之外的已处理文献时，优先沿用原始文献的 author-year 格式。英文文献使用英文 APA，如 `Lindblad & Popkewitz (2004)`；中文文献可以使用中文作者年，如 `郑雅君 (2023)`、双作者 `作者甲和作者乙 (2023)`、三位及以上 `作者甲等 (2023)`。如果原文采用 APA 引用格式，优先保留原文中的短引用，再由 `citation_linker.py` 自动补链。
 

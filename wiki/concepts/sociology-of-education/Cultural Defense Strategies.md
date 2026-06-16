@@ -6,7 +6,7 @@ aliases:
 summary: "Li 提出的文化面对外来价值冲击时维持核心的三种策略，包括直接拒绝、选择性吸收与大尺度采纳，以及同化表层改变不等于根本改变的区分"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

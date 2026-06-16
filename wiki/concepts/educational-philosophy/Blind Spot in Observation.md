@@ -5,7 +5,7 @@ aliases:
 summary: "Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

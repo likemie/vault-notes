@@ -7,6 +7,11 @@ aliases:
   - theory of knowledge
 summary: "关于知识的本质、形式和获取方式的哲学假设，在教育研究中决定什么是合法的知识以及如何获得和交流知识。"
 type: concept
+domain: "educational-philosophy"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/epistemology
   - theme/research-philosophy

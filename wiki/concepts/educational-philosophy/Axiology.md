@@ -6,6 +6,11 @@ aliases:
   - values in research
 summary: "研究者在研究中所持有的价值与信念的哲学维度，决定什么被视为有价值、理解的目的是什么，与本体论和认识论共同构成研究层级框架的基础。"
 type: concept
+domain: "educational-philosophy"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/epistemology
   - theme/research-philosophy

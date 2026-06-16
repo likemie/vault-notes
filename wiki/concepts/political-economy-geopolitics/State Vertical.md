@@ -3,6 +3,11 @@ title: State Vertical
 aliases: ["国家垂直结构", "vertical structures", "state vertical", "垂直行政结构"]
 summary: "国家主义体制中主导性的垂直行政层级结构，以牺牲水平部门联结为代价，使科研、应用和生产在封闭回路中运行，阻碍了信息化所要求的跨组织知识流动和创新协同"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/bureaucracy
   - theme/organizational-structure

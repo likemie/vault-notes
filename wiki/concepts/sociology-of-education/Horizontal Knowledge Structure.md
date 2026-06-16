@@ -8,7 +8,7 @@ aliases:
 summary: "Bernstein 用于分析社会科学知识结构的概念，指由多个难以整合和翻译的专门语言组成的知识形态。"
 type: concept
 domain: "sociology-of-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

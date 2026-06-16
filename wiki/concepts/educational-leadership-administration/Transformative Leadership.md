@@ -5,7 +5,7 @@ aliases:
 summary: "Shields 提出的教育领导力框架，以权力、正义和社会转化为分析起点，用于超越仅关注什么有效的工具主义领导观。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

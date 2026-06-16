@@ -9,7 +9,7 @@ aliases:
 summary: "Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -6,7 +6,7 @@ aliases:
 summary: "Dell Delambre 对当代社会的诊断，指新与旧之间的意义张力在不同领域中加速扩散并高度互联，用于理解现代生活中的持续不稳定与重组。"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

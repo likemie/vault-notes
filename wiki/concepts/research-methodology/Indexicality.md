@@ -3,6 +3,11 @@ title: Indexicality
 aliases: [索引性, indexical expressions, 索引表达式]
 summary: "俗民方法学的核心概念，指行动和陈述的意义深嵌于产生它们的社会语境中，为参与者所共享但不一定被明确陈述。"
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/micro-sociology, paradigm/interpretive, theme/ethnomethodology]
 related_concepts:
   - "[[Reflexivity]]"

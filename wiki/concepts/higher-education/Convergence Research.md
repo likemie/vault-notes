@@ -7,7 +7,7 @@ aliases:
 summary: "将 STEM 学科与社会科学和人文学科（SSH）深度整合的研究模式，旨在解决需要多学科视角才能应对的复杂社会技术挑战，区别于传统多学科/跨学科研究，强调知识的深度融合而非并列"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

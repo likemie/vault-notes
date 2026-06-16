@@ -3,6 +3,11 @@ title: Post-structuralism
 aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义的反驳，强调个体能动性优先于系统结构，主张解构现象以揭示不同的意义层次和意义的特权化过程。"
 type: concept
+domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [paradigm/poststructural, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Postmodernism]]"

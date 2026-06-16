@@ -6,6 +6,11 @@ aliases:
   - "结构性空洞"
 summary: "Ronald Burt（2000）提出的社会网络理论概念，指社会网络中不同群体之间的断连位置，占据这些位置的个体获得信息优势和控制优势。Cai 等（2025）将其从社会网络扩展到空间维度，分析关键节点教师如何填补粤港澳大湾区三个空间维度之间的结构性空洞"
 type: concept
+domain: "sociology-of-education"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/social-network
   - theme/social-capital

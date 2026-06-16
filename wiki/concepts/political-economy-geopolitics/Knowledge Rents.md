@@ -7,7 +7,7 @@ aliases:
 summary: "Drahos & Braithwaite (2002) 提出的概念，描述精英大学通过控制知识产权的法律框架和学术评估的价值标准，从公共生产的知识中持续提取超额经济回报的租金机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

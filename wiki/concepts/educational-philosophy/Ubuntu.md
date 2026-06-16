@@ -5,7 +5,7 @@ aliases:
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。"
 type: concept
 domain: "educational-philosophy"
-related_count: 4
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

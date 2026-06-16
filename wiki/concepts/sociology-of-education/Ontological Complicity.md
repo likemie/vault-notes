@@ -6,7 +6,7 @@ aliases:
 summary: "基于布迪厄关系社会学的核心概念，指行动者惯习与社会场域之间前反思性的具身共谋，解释教育场域中行动者如何潜意识地维护现有体制与权力现状。"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

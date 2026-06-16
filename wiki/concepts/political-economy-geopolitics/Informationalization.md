@@ -3,6 +3,11 @@ title: Informationalization
 aliases: ["信息化", "信息化的", "informationalisation"]
 summary: "一种以知识和信息为基础优化生产要素组合与使用的发展模式，与依赖重工业物质投入的工业化形成对比，强调信息自由流动是其运作的核心前提"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - paradigm/information-society
   - theme/development

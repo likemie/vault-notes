@@ -10,6 +10,11 @@ aliases:
   - 个例式
 summary: 源自 Burrell and Morgan 的方法论维度区分，通则式以量化分析和普遍法则为目标，个例式以对独特个体案例的质性理解为目标，是量化与质性研究分野的方法论根基。
 type: concept
+domain: "research-methodology"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/research-methodology
   - paradigm/positivist

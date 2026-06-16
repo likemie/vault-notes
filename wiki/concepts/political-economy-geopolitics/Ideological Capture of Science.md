@@ -3,6 +3,11 @@ title: Ideological Capture of Science
 aliases: ["科学意识形态化", "科学意识形态俘虏", "ideological capture of science"]
 summary: "政治意识形态凌驾于科学理性之上的制度性现象，在苏联表现为以革命例外论名义拒绝西方科学、将马克思主义正统延伸至自然科学领域，通过李森科事件和相对论风波等案例展示了意识形态对科学自主性的系统性压制"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/ideology-and-science
   - theme/history-of-science

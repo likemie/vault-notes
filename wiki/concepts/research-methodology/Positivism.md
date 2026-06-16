@@ -6,6 +6,11 @@ aliases:
   - positivist paradigm
 summary: "一种认为真正的知识只能来自感官经验、观察和实验的哲学立场，主张将自然科学方法直接应用于社会现象研究，以发现普遍法则为目标。"
 type: concept
+domain: "research-methodology"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - paradigm/positivism
   - theme/epistemology

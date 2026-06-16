@@ -3,6 +3,11 @@ title: Epoché
 aliases: [悬置, 现象学悬置, bracketing, 放入括号, phenomenological reduction, 现象学还原]
 summary: "胡塞尔先验现象学的核心方法，将世界放入括号以摆脱一切先入之见，使意识得以直面现象本身。"
 type: concept
+domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [theme/phenomenology, paradigm/interpretive, theme/research-philosophy]
 related_concepts: []
 related_theories:

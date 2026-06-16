@@ -7,7 +7,7 @@ aliases:
 summary: "1920 年代中国新教育运动后期由赵乃传系统化的教育改革原则，以客观事实、实验渐进精神和精细研究三个层面取代此前以民主为核心的教育变革范式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
