@@ -19,6 +19,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Classroom Management]]"
   - "[[Transformative Paradigm]]"
+  - "[[Tyler Rationale]]"
 related_theories: []
 related_methods:
   - "[[Ideology Critique]]"
@@ -155,7 +156,7 @@ updated: 2026-06-16
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 117–149)]] — 第2.3节展示了批判理论在课程研究中的应用：Tyler原理的[[Positivism|实证主义]]预设被批判，课程被重读为意识形态选择。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 117–149)]] — 第2.3节展示了批判理论在课程研究中的应用：[[Tyler Rationale|Tyler原理]]的[[Positivism|实证主义]]预设被批判，课程被重读为意识形态选择。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 151–203)]] — 第2.4节介绍了[[Participatory Research|参与式研究]]作为批判理论的实践表达。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 205–408)]] — 第2.5节讨论了[[Feminist Research|女性主义研究]]对批判理论传统的延续与拓展。
 

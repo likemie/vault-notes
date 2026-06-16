@@ -19,6 +19,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Critical Pedagogy]]"
   - "[[Ganz-Methode]]"
   - "[[Paradigm]]"
   - "[[Life Power]]"
@@ -59,12 +60,12 @@ updated: '2026-05-18'
 > [!example]
 > - vs **去殖民[[Epistemology|认识论]]**（Mignolo）：Mignolo 的"认识论不服从"在学术话语层面论证去链接西方认识论的必要性；抵抗认识论则在具体实践（剧场、博物馆、口述传统）中实际执行这种不服从。前者提供理论框架，后者提供实践形态，两者互补([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 109–110]])
 > - vs **替代性认识论（Alternative Epistemology）**：替代性认识论是一个更宽泛的范畴，涵盖所有不同于西方主流认识论的知识体系（如原住民知识、安第斯宇宙观）。抵抗认识论特指那些在与霸权认识论的**直接对抗中**被锻造的认识论形式——它因抵抗而生，在抵抗中获取形态，不仅仅是"不同的"而是"对抗性的"
-> - vs **批判教育学（Critical Pedagogy, Freire）**：Freire 关注被压迫者通过教育过程获得批判意识（conscientização）；抵抗认识论关注被压迫者通过[[Knowledge Production|知识生产]]实践直接制造与霸权知识竞争的替代知识。两者共享政治承诺但操作路径不同——前者走教育，后者走知识生产本身
+> - vs **[[Critical Pedagogy|批判教育学]]（Critical Pedagogy, Freire）**：Freire 关注被压迫者通过教育过程获得批判意识（conscientização）；抵抗认识论关注被压迫者通过[[Knowledge Production|知识生产]]实践直接制造与霸权知识竞争的替代知识。两者共享政治承诺但操作路径不同——前者走教育，后者走知识生产本身
 
 ## 概念演变
 
 > [!note]
-> - 抵抗认识论的早期形态可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 的批判教育学
+> - 抵抗认识论的早期形态可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 的[[Critical Pedagogy|批判教育学]]
 > - 在拉丁美洲去殖民思想（Mignolo、Dussel、Quijano）中，"[[Epistemology|认识论]]抵抗"被理论化为去殖民认识论的核心策略，但主要停留在理论论证层面
 > - [[Richard Castelo Branco]] (2020) 在里约热内卢 Rocinha 贫民窟剧场实践中开发了 EspectAtor 方法，将抵抗认识论从理论话语带入具体的艺术实践([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Branco, 2020]])
 > - [[Dell Delambre]] (2022) 将抵抗认识论整合进 [[Ganz-Methode]] 的实证基础，将其定位为"从意义张力中产生的知识形式"在实践中的具体呈现([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109–110, 112–113]])

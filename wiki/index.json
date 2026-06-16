@@ -690,6 +690,14 @@
     ]
   },
   {
+    "title": "Critical Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Critical Pedagogy.md",
+    "aliases": [
+      "批判教育学"
+    ]
+  },
+  {
     "title": "Didaktik",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Didaktik.md",
@@ -817,6 +825,16 @@
       "sociomuseology",
       "sociomuseologia",
       "new museology"
+    ]
+  },
+  {
+    "title": "Tyler Rationale",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Tyler Rationale.md",
+    "aliases": [
+      "Tyler原理",
+      "Tyler的课程四问",
+      "Tyler课程原理"
     ]
   },
   {
@@ -10716,6 +10734,16 @@
       "EEF",
       "教育捐赠基金会",
       "Education Endowment Foundation (EEF)"
+    ]
+  },
+  {
+    "title": "Girls Into Science and Technology (GIST) Project",
+    "type": "fact",
+    "path": "wiki/facts/uk/Girls Into Science and Technology (GIST) Project.md",
+    "aliases": [
+      "GIST项目",
+      "GIST行动研究",
+      "Girls Into Science and Technology"
     ]
   },
   {

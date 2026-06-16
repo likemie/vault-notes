@@ -25,6 +25,7 @@ related_concepts:
   - "[[Complexity Reduction]]"
   - "[[Ontology]]"
   - "[[Visible Learning]]"
+  - "[[Critical Pedagogy]]"
 related_theories:
   - "[[Transactional Epistemology]]"
   - "[[Luhmann's Systems Theory]]"
@@ -112,7 +113,7 @@ updated: '2026-06-08'
 
 
 > [!note-] 学术对话与影响
-> - 与 **Carlos Alberto Torres**、**Michael Apple** 等批判教育学学者的思想有对话但方向不同——Biesta 更强调教育的**存在论意义**而非政治解放
+> - 与 **Carlos Alberto Torres**、**Michael Apple** 等[[Critical Pedagogy|批判教育学]]学者的思想有对话但方向不同——Biesta 更强调教育的**存在论意义**而非政治解放
 > - 对全球教师教育（特别是英国、北欧、荷兰）的教育哲学课程产生了深远影响
 
 ## 争议与批评

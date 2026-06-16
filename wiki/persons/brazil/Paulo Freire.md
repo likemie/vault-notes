@@ -14,6 +14,7 @@ tags:
 - adult-education
 - geopolitics-of-knowledge
 related_concepts:
+  - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge Transfer]]"
@@ -35,7 +36,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Paulo Freire（1921–1997），巴西教育家、哲学家，批判教育学（critical pedagogy）的奠基人，以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）闻名全球。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引 Freire 的银行概念（banking concept）作为[[Forced Knowledge Transfer|强制知识转移]]的理论锚点——揭示教学关系中不可化约的权力梯度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])。
+> Paulo Freire（1921–1997），巴西教育家、哲学家，[[Critical Pedagogy|批判教育学]]（critical pedagogy）的奠基人，以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）闻名全球。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引 Freire 的银行概念（banking concept）作为[[Forced Knowledge Transfer|强制知识转移]]的理论锚点——揭示教学关系中不可化约的权力梯度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])。
 
 ---
 
