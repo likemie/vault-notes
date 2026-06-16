@@ -63,7 +63,7 @@ status: active
 - 叙述式引用写作 `&#91;&#91;Argument_Thomas_2000_RER&#124;Thomas (2000, p. 4)&#93;&#93;`。
 - Argument 条目引用当前对应文献时只写页码，例如（p.147）或（pp.147–148）。
 - Argument 条目引用当前文献之外的已处理文献时，使用 APA 短引用。
-- 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，保留原文编号；未独立处理该文献前不自动补链，可在 `citation/citation_external_refs.json` 只登记 `key` 与 `title` 备用。
+- 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，清除原文后缀，只保留作者、年份和页码，例如将 `Tandon (2005c: 30)` 写作 `Tandon (2005: 30)`；未独立处理该文献前不自动补链。
 - Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。
 - 英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，例如 `"&#91;&#91;Louis Cohen&#124;Cohen, L.&#93;&#93;"` 或 `"&#91;&#91;Cohen, L.&#93;&#93;"`。
 - `year` 写出版年份。
