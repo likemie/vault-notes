@@ -37,10 +37,11 @@ related_persons:
   - "[[John Sweller]]"
 related_facts:
   - "[[Strong Beginnings Report]]"
-  - "[[TEMAG]]"
+  - "[[Teacher Education Ministerial Advisory Group]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Centre for Independent Studies]]"
+  - "[[Community Innovation Survey]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[BHP Foundation]]"
@@ -69,7 +70,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] 核心关切与政策谜题
-> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[TEMAG|Teacher Education Ministerial Advisory Group]], [[TEMAG]]）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
+> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group]], TEMAG）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
 >
 > 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师流失的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的话语策略如何通过政策网络进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
@@ -78,7 +79,7 @@ citation_aliases:
 
 > [!concept-lens]- 阅读透镜
 > - **对象**：澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
-> - **张力**：一方面，教师流失与短缺的核心原因是“工作量过大”和“行政繁文缛节”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（CIS）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
+> - **张力**：一方面，教师流失与短缺的核心原因是“工作量过大”和“行政繁文缛节”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（[[Community Innovation Survey|CIS]]）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
 > - **贡献**：运用批判政策社会学视角与Bacchi的[[Bacchi's WPR Approach|WPR方法]]，去除了神经科学在教育政策中“价值中立”的伪装，揭示了“[[What Works Movement|什么有效运动]]”如何通过中介组织（AERO）、评估机构（AITSL）和保守智库（CIS）的权力网络进行“理念编排”，实现了对初始教师教育的监视蔓延与惩罚性问责，进而削弱了教师的专业自主权与大学教师教育者的专业地位。
 
 ---
@@ -108,7 +109,7 @@ citation_aliases:
 > | 样本层面 | 构成与细节说明 |
 > |----------|------|
 > | **核心政策文本** | 澳大利亚政府教师教育专家小组报告《强劲开端》（*Strong Beginnings*, 2023）及其核心内容附录D（pp. 95–96）。 |
-> | **历史背景文本** | 1979年以来的澳大利亚教师教育审查文献（Louden, 2008）；2015年[[TEMAG]]报告《行动立即开始》；2021年QITE审查报告《下一步：优质初始教师教育审查报告》。 |
+> | **历史背景文本** | 1979年以来的澳大利亚教师教育审查文献（Louden, 2008）；2015年[[Teacher Education Ministerial Advisory Group|TEMAG]]报告《行动立即开始》；2021年QITE审查报告《下一步：优质初始教师教育审查报告》。 |
 > | **循证与中介文献** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation\|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Centre for Independent Studies\|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
 > | **实证与满意度数据** | 2022年澳大利亚毕业生结果调查数据（GOS, 2023）；[[Australian Institute for Teaching and School Leadership\|AITSL]]教师工作量与流失率调查数据（AITSL, 2021）。 |
 
@@ -227,13 +228,13 @@ citation_aliases:
 > 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 [[Centre for Independent Studies|CIS]]）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
-> 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 CIS 出资赞助并出版的游说政策册子（Analysis Paper 24）。
+> 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 [[Community Innovation Survey|CIS]] 出资赞助并出版的游说政策册子（Analysis Paper 24）。
 
 > [!line-a] 游说与监管权力的网状穿梭
 > 政策网络中的核心人物 Jennifer Buckingham 在保守智库、官方行业监管部门与政策游说网络中实现了身份穿梭：她既是 CIS 的高级研究员与董事会成员（CIS, 2024），又是 [[Australian Institute for Teaching and School Leadership|AITSL]]（负责将核心课程落实到标准的监管机构）的非执行董事（AITSL, 2017），打通了游说、决策到合规推广的通道。
 
 > [!line-a] 循证政策的市场化变现
-> 循证改革的行政强制化蕴含着巨大的商业利益。例如，被教师教育部长级咨询组（[[TEMAG]]）强制嵌入的初始教师教育读写与算术测试（[[LANTITE|Literacy and Numeracy Test for Initial Teacher Education]], [[LANTITE]]）为独家运营机构[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, [[Australian Council for Educational Research|ACER]]）每年带来估算高达 370 万澳元的商业性营收（Barnes & Cross, 2020），而 AITSL、ACARA 与 AERO 在底层系统上均受注册慈善机构[[Educational Services Australia|澳大利亚教育服务公司]]（Educational Services Australia, ESA）的支撑，形成了商业与制度上的共生利益圈。
+> 循证改革的行政强制化蕴含着巨大的商业利益。例如，被教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）强制嵌入的初始教师教育读写与算术测试（[[LANTITE|Literacy and Numeracy Test for Initial Teacher Education]], [[LANTITE]]）为独家运营机构[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, [[Australian Council for Educational Research|ACER]]）每年带来估算高达 370 万澳元的商业性营收（Barnes & Cross, 2020），而 AITSL、ACARA 与 AERO 在底层系统上均受注册慈善机构[[Educational Services Australia|澳大利亚教育服务公司]]（Educational Services Australia, ESA）的支撑，形成了商业与制度上的共生利益圈。
 
 ---
 

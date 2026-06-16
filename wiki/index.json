@@ -1134,6 +1134,14 @@
     ]
   },
   {
+    "title": "Post-colonial Theory",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Post-colonial Theory.md",
+    "aliases": [
+      "后殖民理论"
+    ]
+  },
+  {
     "title": "Posthumanism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Posthumanism.md",
@@ -1150,6 +1158,14 @@
       "progressive educational reform",
       "进步教育",
       "progressive education movement"
+    ]
+  },
+  {
+    "title": "Queer Theory",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Queer Theory.md",
+    "aliases": [
+      "酷儿理论"
     ]
   },
   {
@@ -9373,14 +9389,16 @@
     ]
   },
   {
-    "title": "TEMAG",
+    "title": "Teacher Education Ministerial Advisory Group",
     "type": "fact",
-    "path": "wiki/facts/australia/TEMAG.md",
+    "path": "wiki/facts/australia/Teacher Education Ministerial Advisory Group.md",
     "aliases": [
+      "TEMAG",
       "教师教育专家咨询小组",
-      "Teacher Education Ministerial Advisory Group",
+      "教师教育部长级咨询小组",
       "Action Now",
-      "Classroom Ready Teachers"
+      "Classroom Ready Teachers",
+      "Action Now: Classroom Ready Teachers"
     ]
   },
   {

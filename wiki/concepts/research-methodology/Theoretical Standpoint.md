@@ -19,10 +19,12 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Research Problem]]"
   - "[[Knowledge Production]]"
+  - "[[Queer Theory]]"
   - "[[Theoretical End Point]]"
   - "[[Analytic Framework]]"
   - "[[Transformative Paradigm]]"
-related_theories: []
+related_theories:
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -58,8 +60,8 @@ updated: 2026-05-31
 > [!abstract]
 > - **女性主义视角（Feminist perspectives）**：视女性的压迫性处境及其制度框架为问题所在，[[Research Problem|研究议题]]包括改变政策以实现社会正义或消除女性的压迫性状况（Olesen, 2000）。
 > - **种族化话语（Racialized discourses）**：提出关于谁控制[[Knowledge Production|知识生产]]的重要问题，尤其关注有色人种群体和社区（Ladson-Billings, 2000）。
-> - **批判[[Theoretical Perspective|理论视角]]（Critical theory perspectives）**：关注赋权人类超越种族、阶级和性别所施加的约束（Fay, 1987）。
-> - **酷儿理论（Queer theory）**：聚焦女同性恋、男同性恋、双性恋、跨性别者等（LGBTQ2A+）的个体身份，反对将这些个体客体化，寻求改善其文化与政治处境，突出个体的声音和经验（Gamson, 2000）。
+> - **批判[[Theoretical Perspective|理论视角]]（[[Critical Theory]] perspectives）**：关注赋权人类超越种族、阶级和性别所施加的约束（Fay, 1987）。
+> - **[[Queer Theory|酷儿理论]]（Queer theory）**：聚焦女同性恋、男同性恋、双性恋、跨性别者等（LGBTQ2A+）的个体身份，反对将这些个体客体化，寻求改善其文化与政治处境，突出个体的声音和经验（Gamson, 2000）。
 > - **残障探究（Disability inquiry）**：关注从社会文化视角理解残障人群，让他们掌控自己的生活，而非从生物学角度理解残障（Mertens, 2009）。
 
 ## 理论基础

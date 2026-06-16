@@ -62,6 +62,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
+  - "[[Queer Theory]]"
   - "[[Theoretical End Point]]"
   - "[[Naturalistic Generalization]]"
   - "[[Self-control]]"
@@ -578,7 +579,7 @@ citation_aliases:
 - **女性主义视角**（Feminist perspectives）：视女性的压迫性处境及其制度框架为问题所在(Olesen, 2000)
 - **种族化话语**（Racialized discourses）：提出谁控制[[Knowledge Production|知识生产]]的问题，尤其关注有色人种群体(Ladson-Billings, 2000)
 - **批判理论视角**（Critical theory perspectives）：赋权人类超越种族、阶级和性别约束(Fay, 1987)
-- **酷儿理论**（Queer theory）：聚焦 LGBTQ2A+ 个体身份，反对客体化(Gamson, 2000)
+- **[[Queer Theory|酷儿理论]]**（Queer theory）：聚焦 LGBTQ2A+ 个体身份，反对客体化(Gamson, 2000)
 - **残障探究**（Disability inquiry）：从社会文化视角理解残障人群(Mertens, 2009)
 
 Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联的主张：研究本质上涉及权力问题；研究报告由具有种族、性别、阶级和政治取向的个体所撰写；种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；传统研究历史上压制了受压迫和边缘化群体的声音(p.91)。

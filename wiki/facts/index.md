@@ -30,7 +30,7 @@ Total entries: **259**
 > - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 > - [[Strong Beginnings Report]] — 澳大利亚政府于2023年发布的教师教育专家小组报告。该报告提出14项政策建议与四项优先改革，首次将“大脑与学习”（脑科学与认知科学）强制列为全国初始教师教育（ITE）的法定制式核心课程与认证标准，标志着澳大利亚教师教育向惩罚性问责与生物简化主义标准化的重大转折。
-> - [[TEMAG]] — 2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是ITE标准化改革的起点。
+> - [[Teacher Education Ministerial Advisory Group]] — 2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是澳大利亚初始教师教育（ITE）标准化改革的起点。
 > - [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
 
 ## Belgium
