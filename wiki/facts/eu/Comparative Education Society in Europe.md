@@ -2,9 +2,8 @@
 title: Comparative Education Society in Europe
 aliases:
   - 欧洲比较教育学会
-  - CESE
   - 欧洲比较教育学会成立
-summary: "1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革"
+summary: 1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革
 type: fact
 subtype: event
 region: eu
