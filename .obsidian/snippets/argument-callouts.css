@@ -2645,6 +2645,21 @@
   z-index: 1;
 }
 
+/* 节点间箭头 — 每个节点圆点下方加一个小三角 */
+.callout[data-callout="timeline"] .callout-content ul > li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  left: calc(-1.59rem + 4px);
+  top: calc(0.78rem + 8px + 1px);
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 4.5px solid transparent;
+  border-right: 4.5px solid transparent;
+  border-top: 6px solid rgba(72, 95, 145, 0.45);
+  z-index: 2;
+}
+
 /* ─── 年份徽章 — li 内首个 strong ───────────────────
    适配格式：- **1978–1979**：正文
    **1980s**：正文 */

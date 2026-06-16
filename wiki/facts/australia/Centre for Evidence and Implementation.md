@@ -3,7 +3,7 @@ title: Centre for Evidence and Implementation
 aliases:
   - CEI
   - 证据与实施中心
-summary: "成立于澳大利亚的全球性非营利证据中介组织，致力于促进研究证据在公共服务和教育政策中的应用，曾受澳大利亚教育研究组织（AERO）委托进行循证桌面审查。"
+summary: "总部位于澳大利亚的跨国非营利证据中介机构（Evidence Intermediary）。在2023年《强劲开端》教师教育改革前夕，受AERO委托撰写了教育循证实践桌面审查，为国家核心大纲的强制出台提供了关键的底层证据支撑，同时也因证据链条的封闭和局限性受到政策社会学者的批评。"
 type: fact
 subtype: organization
 region: australia
@@ -15,16 +15,16 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[What Works Movement]]"
-  - "[[Technical Rationality]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
+  - "[[Strong Beginnings Report]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: 2026-06-16
 updated: 2026-06-16
 ---
@@ -35,25 +35,57 @@ updated: 2026-06-16
 
 ## 背景
 
-> [!info] 机构定位与性质
-> 证据与实施中心（Centre for Evidence and Implementation, CEI）自我定位为一个全球性的、非营利的证据中介机构（global, not-for-profit evidence intermediary）。该机构致力于将研究证据转化为具体的公共政策与社会服务实践，特别是在教育、儿童福祉和公共服务系统整合领域。
+> [!event-context] 机构背景
+> - **时间 / 地点**：成立于澳大利亚，具有全球分支机构。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **关键主体**：证据与实施中心（CEI）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **制度背景**：自我定位为一个“全球性的、非营利证据中介机构”（global, not-for-profit evidence intermediary），旨在通过中介评估和知识转换，推动研究证据在公共服务和教育政策中的应用。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **触发条件**：新自由主义治理下，政府部门与决策委员会倾向于向外部非政府专业证据中介机构（Evidence brokers）外包研究审查。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 ---
 
-## 政策文本摘要
+## 经过
 
-> [!abstract] 主要活动与 [[Australian Education Research Organisation|AERO]] 桌面审查
-> - **循证桌面审查**：在2023年《强劲开端》报告发布前夕，CEI 受澳大利亚教育研究组织（AERO）委托，针对澳大利亚在教育中采纳“循证实践”的现状进行了一项桌面审查（Desktop Review）（Abdo et al., 2021）。
-> - **封闭[[Knowledge Production|知识生产]]循环**：该项审查是在“关于澳大利亚教育循证实践实施情况的研究证据表达十分有限”的基础上进行的（Abdo et al., 2021, p. 41）。其所咨询并参与的外部专家，绝大多数来自 CEI 组织内部以及国际上的“什么有效”（what works）中介中心，因而被批评为构成了相对封闭的、自证其罪的政策证据生产循环。
-> - **专业领域焦点**：该桌面审查的学术范围相对狭窄，主要学术聚焦于发表在《实施科学》（*Implementation Science*）和《实施科学通讯》（*Implementation Science Communications*）两本期刊上的文献。
+> [!timeline] 机构发展与关键活动
+> - 2021 受官方教育证据中介[[Australian Education Research Organisation|澳大利亚教育研究组织 (AERO)]] 委托，针对澳大利亚在教育中采纳“循证实践”的现状开展桌面审查（Desktop Review），并于当年完成撰写。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - 2023 该桌面审查报告被 TEEP 专家小组采纳，成为起草《强劲开端》全国教师教育“大脑与学习”核心内容规范的隐藏大纲设计依据。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+
+---
+
+## 关键文件／声明
+
+> [!citation-card] 桌面审查的核心结论与局限
+> “针对教育中采纳和实施证据知情实践的本土实证研究证据非常有限。”[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> 
+> “...empirical evidence on the uptake of evidence-informed practices in education is extremely limited.” (Abdo et al., 2021, p. 41)
+
+---
+
+## 影响与后果
+
+> [!finding-cards] 影响与政策成效
+> - **闭环式政策科学大纲的构建**：其桌面审查报告虽然承认本地证据有限，但仍然被 AERO 作为强推大一统“脑科学”核心课程的隐藏大纲设计基础。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **证据决策垄断的演化**：作为外部中介，其研究免受学术共同体和大学教师教育者的同行评审，却依靠政策网络直接在全国教师教育大纲中获得了法定真理的优先引述地位。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 ---
 
 ## 争议与评论
 
-> [!warning] 循证网络中的垄断与偏见
-> - **缺乏同行评审与证据局限**：作为证据中介，CEI 的桌面审查被 [[Australian Education Research Organisation|AERO]] 用作指导联邦教师教育专家小组设计核心课程的隐藏科学底座。然而这一桌面审查本身所基于的本地实证极为有限，且未经学术同行的公开审议和双盲评审，却在政策网络中获得了法定的客观真理地位（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]]）。
-> - **利益自循环与跨国利益渗透**：CEI 等非营利中介组织的泛滥，反映了新自由主义治理下公共教育决策向外部非政府 evidence brokers（证据经纪人）的转移，这些机构自我推荐、相互评估，强化了“[[What Works Movement|什么有效运动]]”的[[Technical Rationality|技术理性]]偏执。
+> [!actor-grid] 评论视角图
+> - **自我宣传视角**：强调其方法论的系统性，致力于打破象牙塔与中小学校园的壁垒，通过严格实施科学（Implementation Science）促进实证证据的落地与转化。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **批判社会学视角**：揭示了 CEI 作为公私合营证据经纪人的一部分，协助 AERO 垄断了什么是有效证据的解释权，将公共决策重构为闭环的技术化运作。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **学术评审视角**：指出其桌面审查未经广泛学术共同体的双盲同行评审，且文献仅仅锚定于特定的小众期刊上，科学可靠度存疑。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+
+> [!tension] 争议焦点
+> - **自说自话的“闭环专家组”**：该审查所咨询并依赖的“外部专家”，绝大多数均是来自于 CEI 机构内部自身的人员，以及其他友好“什么有效”（what works）中介中心，形成了一个高度闭环、自我背书的自循环网络。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **文献窄化与技术理性偏向**：该报告的文献索引几乎完全限制在《实施科学》（*Implementation Science*）和《实施科学通讯》（*Implementation Science Communications*）两本期刊上，被指涉嫌人为收窄证据范围，为强推预设大纲量身定制。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 ---
 
+## 相关概念／政策
+
+> [!ref-table] 相关条目索引
+> | 条目 | 关系 | 来源 |
+> |---|---|---|
+> | [[Australian Education Research Organisation]] | 委托 CEI 进行桌面审查，并在政策网络中推广其报告的官方教育证据机构。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[Strong Beginnings Report]] | 强制指定核心课程附表、以 CEI 的桌面审查作为隐藏科学底座的改革文本。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[What Works Movement]] | CEI 和 AERO 共同隶属并推动的跨国标准化教学证据评级运动。 | ([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]]) |
