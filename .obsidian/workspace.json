@@ -192,6 +192,7 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "citation/citation_external_refs.json",
     "wiki/methods/qualitative/Participatory Research.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
     "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
@@ -224,7 +225,6 @@
     "wiki/templates/template-argument-monograph.md",
     "wiki/templates/template-argument-edited-volume.md",
     "wiki/templates/template-argument.md",
-    "wiki/templates/TEMPLATE-SPEC.md",
     "wiki/methods/quantitative/Randomised Controlled Trials.md.tmp.10807.735755f8affe",
     "wiki/concepts/educational-philosophy/Scientism.md.tmp.10807.ada1daae7cc8",
     "scripts/__pycache__/citation_index.cpython-313.pyc",

@@ -107,6 +107,7 @@ scripts/
 citation/
   citation_full.json          可引用 Argument 的全量索引
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
+  citation_external_refs.json 原文内部引用的备用索引，不参与自动补链
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -208,6 +209,7 @@ OECD_2018_GlobalCompetence
 citation/
   citation_full.json          可引用 Argument 的全量索引
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
+  citation_external_refs.json 原文内部引用的备用索引，不参与自动补链
 ```
 
 Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据 `authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式；中文原始文献同时生成英文 APA 版本和中文作者年版本。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式同样只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
@@ -218,10 +220,13 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 
 - `citation_full.json`：所有 `citation_aliases` 到 Argument 的查询索引。
 - `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。
+- `citation_external_refs.json`：原文参考文献体系中出现、但尚未独立处理为 Argument 的备用引用记录，例如 `Tandon (2005c: 30)`。该文件不由 `citation_index.py` 生成，不被 `citation_linker.py` 读取，也不参与 `a/b/c` 自动分配。
 
 正文 citation 补链由 `scripts/citation_linker.py` 完成，只读取 `citation_full.json` 与 `citation_ambiguous.json`，不扫描或修改 Argument frontmatter；日常通过 `scripts/vault_index.py --standard-workflow` 统一触发。
 
 正文引用当前 Argument 之外的已处理文献时，优先沿用原始文献的 author-year 格式。英文文献使用英文 APA，如 `Lindblad & Popkewitz (2004)`；中文文献可以使用中文作者年，如 `郑雅君 (2023)`、双作者 `作者甲和作者乙 (2023)`、三位及以上 `作者甲等 (2023)`。如果原文采用 APA 引用格式，优先保留原文中的短引用，再由 `citation_linker.py` 自动补链。
+
+原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，保留原文编号；未独立处理该文献前不写入 `citation_aliases`，不放入 `citation_ambiguous.json`，也不自动补链。若该引用后续可能有用，记录到 `citation_external_refs.json`；只需记录 `key` 与 `title`，用标题区分同一年后缀。题名待核时可留空并标记 `status: title-needed`。
 
 正文引用当前 Argument 之外的已处理文献时，统一使用 APA 短引用：
 
