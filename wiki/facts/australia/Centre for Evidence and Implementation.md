@@ -21,7 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Australian Education Research Organisation]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-16
@@ -51,7 +52,7 @@ updated: 2026-06-16
 ## 争议与评论
 
 > [!warning] 循证网络中的垄断与偏见
-> - **缺乏同行评审与证据局限**：作为证据中介，CEI 的桌面审查被 [[Australian Education Research Organisation|AERO]] 用作指导联邦教师教育专家小组设计核心课程的隐藏科学底座。然而这一桌面审查本身所基于的本地实证极为有限，且未经学术同行的公开审议和双盲评审，却在政策网络中获得了法定的客观真理地位（Skourdoumbis & Rowe, 2024）。
+> - **缺乏同行评审与证据局限**：作为证据中介，CEI 的桌面审查被 [[Australian Education Research Organisation|AERO]] 用作指导联邦教师教育专家小组设计核心课程的隐藏科学底座。然而这一桌面审查本身所基于的本地实证极为有限，且未经学术同行的公开审议和双盲评审，却在政策网络中获得了法定的客观真理地位（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]]）。
 > - **利益自循环与跨国利益渗透**：CEI 等非营利中介组织的泛滥，反映了新自由主义治理下公共教育决策向外部非政府 evidence brokers（证据经纪人）的转移，这些机构自我推荐、相互评估，强化了“[[What Works Movement|什么有效运动]]”的[[Technical Rationality|技术理性]]偏执。
 
 ---

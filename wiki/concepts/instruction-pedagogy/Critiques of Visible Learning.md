@@ -865,7 +865,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > [!critique-logic] 批评四：学习不是价值中立——Bildung 要求更多
 > Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：
 >
->> [!timeline] "学习"在丹麦语境中的语义演变（Larsen, 2019, p. 8–9）
+>> [!timeline] "学习"在丹麦语境中的语义演变（[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8–9]]）
 >> - **1960–70年代** 'læring'（学习）最初是批判性、解放性的术语
 >> - **1990年代起** 被资本主义逻辑吸收，转向以效率为核心的话语
 >> - **当代** 成为不可逃避、无所不在的状态和"自然"要求
@@ -878,7 +878,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > *"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."*
 
 > [!conclusion] Larsen 的独特贡献：盲视框架
-> Larsen (2019) 将四个学科领域（现象学、神经科学、自由哲学、概念史）整合为一个统一批判框架——**盲视**。Larsen 追问的是一阶问题：**“VL 在原则上能看到什么、不能看到什么？”**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
+> [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 将四个学科领域（现象学、神经科学、自由哲学、概念史）整合为一个统一批判框架——**盲视**。Larsen 追问的是一阶问题：**“VL 在原则上能看到什么、不能看到什么？”**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
 
 ---
 ### 合法化危机与技术理性（Nielsen & Klitmøller, 2021）
@@ -1075,7 +1075,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 
 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]从文化政治视角提出七点系统批评：
 
-> [!critique-essay] McKnight & Whitburn (2020) 文化政治七点批评
+> [!critique-essay] [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 文化政治七点批评
 >
 > 1. **[[Visible Learning|VL]] 承载政治包袱** — *"可见的学习"*在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在*"[[Ontology|本体论]]上不安全"*的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
 >
