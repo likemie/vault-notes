@@ -357,7 +357,15 @@ Tyler（1949）的课程四问原理如下：
 > [!example]- 图2.1：理想参与式研究方法的步骤（Tandon, 2005c: 30）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_2-1_Steps_in_Participatory_Research.jpg)
 
-Tandon（2005c: 30）的序列包含：社区识别自身问题 → 与研究者建立平等伙伴关系 → 集体设计研究方案 → 集体实施资料收集 → 集体分析数据 → 集体决定行动方案 → 实施行动并评估效果 → 反思并持续改进（pp.165–169）。
+> [!timeline] Tandon（2005c: 30）的理想 PR 步骤序列（Figure 2.1）
+> - 社区识别自身问题
+> - 社区与研究者建立平等伙伴关系
+> - 集体设计研究方案
+> - 集体实施资料收集
+> - 集体分析数据
+> - 集体决定行动方案
+> - 实施行动并评估效果
+> - 反思并持续改进
 
 #### Hall 的六条 PR 原则
 

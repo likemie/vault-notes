@@ -15,20 +15,16 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[What Works Movement]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Knowledge Production]]"
-related_theories:
-  - "[[Bacchi's WPR Approach]]"
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Sweller]]"
+related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
-  - "[[Strong Beginnings Report]]"
-  - "[[Centre for Evidence and Implementation]]"
-  - "[[BHP Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Educational Services Australia]]"
+  - "[[Centre for Evidence and Implementation]]"
+  - "[[BHP Foundation]]"
+  - "[[Strong Beginnings Report]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high

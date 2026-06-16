@@ -13,21 +13,16 @@ tags:
   - policy/teacher-education
   - accreditation
   - theme/accountability
-related_concepts:
-  - "[[School Leadership]]"
-  - "[[Effective Teaching]]"
-  - "[[Classroom Management]]"
-  - "[[What Works Movement]]"
-related_theories:
-  - "[[Bacchi's WPR Approach]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Australian Education Research Organisation]]"
   - "[[Educational Services Australia]]"
   - "[[TEMAG]]"
   - "[[Centre for Independent Studies]]"
   - "[[Strong Beginnings Report]]"
+  - "[[Australian Education Research Organisation]]"
   - "[[LANTITE]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"

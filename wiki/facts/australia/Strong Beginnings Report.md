@@ -16,23 +16,18 @@ tags:
   - theme/neuroscience
   - theme/accountability
 related_concepts:
-  - "[[Effective Teaching]]"
-  - "[[Classroom Management]]"
-  - "[[School Leadership]]"
   - "[[What Works Movement]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Causality]]"
 related_theories:
-  - "[[Cognitive Load Theory]]"
   - "[[Bacchi's WPR Approach]]"
 related_methods: []
 related_persons:
   - "[[John Sweller]]"
 related_facts:
+  - "[[TEMAG]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Centre for Independent Studies]]"
-  - "[[OECD]]"
+  - "[[Educational Services Australia]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
