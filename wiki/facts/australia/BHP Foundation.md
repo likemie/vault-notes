@@ -13,14 +13,13 @@ tags:
   - theme/venture-philanthropy
 related_concepts:
   - "[[Venture Philanthropy]]"
-  - "[[Knowledge Production]]"
-  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Strong Beginnings Report]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high

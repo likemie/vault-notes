@@ -13,7 +13,6 @@ tags:
   - policy/evidence-based
   - theme/intermediary-organisation
 related_concepts:
-  - "[[Knowledge Production]]"
   - "[[What Works Movement]]"
 related_theories: []
 related_methods: []

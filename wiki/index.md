@@ -1143,22 +1143,22 @@ Total entries: **1337**
 
 ### Australia
 
-> [!summary]- Organization (4)
+> [!summary]- Organization (6)
+> - [[Australian Council for Educational Research]] — 澳大利亚教育研究与评估组织，独立于政府，负责开发和管理初始教师教育学生读写与算术统考（LANTITE）。在初始教师教育改革问责链条中充当核心中介，通过运营统考每年获得数百万澳元的巨大商业利益。
 > - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为“什么是有效”（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广“循证”教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（ITE）标准化和惩罚性问责的重要政策节点。
 > - [[Australian Institute for Teaching and School Leadership]] — 澳大利亚联邦政府设立的全国性教师专业机构，成立于2011年。负责制定全国教师专业标准及初始教师教育（ITE）项目的认证程序。在2023年《强劲开端》改革中，其职权被大幅扩张，受托将“大脑与学习”等标准化核心内容强制嵌入国家认证大纲，成为推行绩效问责与监视治理的关键治理节点。
-> - [[BHP Foundation]] — 由全球采矿巨头必和必拓集团资助的慈善基金会，致力于推动资源治理和人类发展。资助了英国教育捐赠基金会（EEF）的全球扩张项目，以在全球复制和嵌入标准化教学证据机构。
-> - [[Centre for Evidence and Implementation]] — 成立于澳大利亚的全球性非营利证据中介组织，致力于促进研究证据在公共服务和教育政策中的应用，曾受澳大利亚教育研究组织（AERO）委托进行循证桌面审查。
+> - [[BHP Foundation]] — 由全球矿业与跨国资源巨头必和必拓集团（BHP Group）全资资助的慈善基金会。作为典型的风险慈善（Venture Philanthropy）组织，基金会通过资助英国教育捐赠基金会（EEF）全球证据生态项目，在全球推广复制标准化循证教育机构（如AERO），深刻介入主权国家教育知识生产与准入政策流动的隐形重塑。
+> - [[Centre for Evidence and Implementation]] — 总部位于澳大利亚的跨国非营利证据中介机构（Evidence Intermediary）。在2023年《强劲开端》教师教育改革前夕，受AERO委托撰写了教育循证实践桌面审查，为国家核心大纲的强制出台提供了关键的底层证据支撑，同时也因证据链条的封闭和局限性受到政策社会学者的批评。
+> - [[Centre for Independent Studies]] — 澳大利亚右翼保守主义游说智库，成立于1976年。该智库通过资助教育出版物、推广认知负荷理论并运作跨界政策精英（如Jennifer Buckingham），在《强劲开端》教师教育改革中实现了私人游说文献的强制消费，成为理念编排权力的典型节点。
 
-> [!summary]- Policy (14)
-> - [[Australian Council for Educational Research]] — 澳大利亚教育研究机构，管理LANTITE测试，每年从中获得约370万澳元收入，是ITE改革中受益的中介组织之一。
+> [!summary]- Policy (12)
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
-> - [[Centre for Independent Studies]] — 1976年成立于悉尼的澳大利亚保守派智库，资助教育研究出版物并通过政策网络影响ITE改革，其研究被纳入《强劲开端》报告的指定参考文献。
 > - [[Educational Services Australia]] — 澳大利亚注册慈善机构，作为AITSL、ACARA和AERO的母体组织，是ITE改革中介组织网络的制度基础。
 > - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
 > - [[Graduate Outcomes Survey]] — 澳大利亚年度毕业生调查，由QILT运营，2022年数据显示教师教育整体满意度为75%，被用于评估ITE项目质量。
 > - [[Independent Public Schools Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
 > - [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
-> - [[LANTITE]] — 2016年实施的澳大利亚ITE入学门槛测试，由ACER管理，每年为ACER带来约370万澳元收入，被批评者视为守门机制。
+> - [[LANTITE]] — 初始教师教育生读写算术测试（LANTITE）是澳大利亚初始教师教育（ITE）项目的毕业准入统考，由ACER负责管理。该统考是2016年基于TEMAG报告建议实施的核心问责工具，作为标准化的守门机制运作，同时每年为ACER带来数百万澳元的高额测试营收。
 > - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 > - [[Strong Beginnings Report]] — 澳大利亚政府于2023年发布的教师教育专家小组报告。该报告提出14项政策建议与四项优先改革，首次将“大脑与学习”（脑科学与认知科学）强制列为全国初始教师教育（ITE）的法定制式核心课程与认证标准，标志着澳大利亚教师教育向惩罚性问责与生物简化主义标准化的重大转折。

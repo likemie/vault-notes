@@ -13,14 +13,13 @@ tags:
   - policy/teacher-education
   - assessment
   - theme/intermediary-organisation
-related_concepts:
-  - "[[What Works Movement]]"
-  - "[[Evidence-Based Education]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[LANTITE]]"
+  - "[[TEMAG]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:

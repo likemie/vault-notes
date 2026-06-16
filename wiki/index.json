@@ -9204,6 +9204,15 @@
     ]
   },
   {
+    "title": "Australian Council for Educational Research",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Council for Educational Research.md",
+    "aliases": [
+      "澳大利亚教育研究委员会",
+      "ACER"
+    ]
+  },
+  {
     "title": "Australian Education Research Organisation",
     "type": "fact",
     "path": "wiki/facts/australia/Australian Education Research Organisation.md",
@@ -9239,12 +9248,12 @@
     ]
   },
   {
-    "title": "Australian Council for Educational Research",
+    "title": "Centre for Independent Studies",
     "type": "fact",
-    "path": "wiki/facts/australia/Australian Council for Educational Research.md",
+    "path": "wiki/facts/australia/Centre for Independent Studies.md",
     "aliases": [
-      "澳大利亚教育研究委员会",
-      "ACER"
+      "澳大利亚独立研究中心",
+      "CIS"
     ]
   },
   {
@@ -9253,14 +9262,6 @@
     "path": "wiki/facts/australia/Australian Curriculum.md",
     "aliases": [
       "澳大利亚课程"
-    ]
-  },
-  {
-    "title": "Centre for Independent Studies",
-    "type": "fact",
-    "path": "wiki/facts/australia/Centre for Independent Studies.md",
-    "aliases": [
-      "澳大利亚独立研究中心"
     ]
   },
   {

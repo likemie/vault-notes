@@ -15,15 +15,14 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[What Works Movement]]"
-  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[TEMAG]]"
   - "[[Australian Council for Educational Research]]"
-  - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Strong Beginnings Report]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
