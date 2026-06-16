@@ -238,7 +238,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格，并依次运行 `wiki_index.py` 与 `citation_index.py`；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格，并依次运行 `wiki_index.py` 与 `citation_index.py`；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
 
 ### Python Environment
 
@@ -253,7 +253,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/vault_index.py
 ```
 
-不要自动运行 `wiki_linker.py`、`wiki_relations.py` 或 `vault_lint.py`。完成基础索引后，询问用户是否运行标准脚本流程。
+不要自动运行 `--standard-workflow`。完成基础索引后，询问用户是否运行标准脚本流程。
 
 ### Standard Script Flow
 
@@ -261,12 +261,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-.venv/bin/python3 scripts/vault_index.py
-.venv/bin/python3 scripts/citation_linker.py
-.venv/bin/python3 scripts/wiki_linker.py sync
-.venv/bin/python3 scripts/wiki_relations.py sync
-.venv/bin/python3 scripts/vault_index.py --wiki-only
-.venv/bin/python3 scripts/vault_lint.py
+.venv/bin/python3 scripts/vault_index.py --standard-workflow
 ```
 
 ### Full Sync
@@ -284,12 +279,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-.venv/bin/python3 scripts/vault_index.py
-.venv/bin/python3 scripts/citation_linker.py --full
-.venv/bin/python3 scripts/wiki_linker.py sync --full
-.venv/bin/python3 scripts/wiki_relations.py sync --full
-.venv/bin/python3 scripts/vault_index.py --wiki-only
-.venv/bin/python3 scripts/vault_lint.py --full
+.venv/bin/python3 scripts/vault_index.py --full-workflow
 ```
 
 严格检查只在发布、备份或重要提交前运行：
