@@ -1,3 +1,8 @@
+---
+title: TEMPLATE-SPEC
+type: template
+status: active
+---
 # Template Spec
 
 本文件是 `wiki/templates/` 的主规范入口。AI 新建或重写条目时最多读取三类文件：
@@ -54,12 +59,12 @@
 ## Source and Citation Rules
 
 - 来源性陈述优先链接到已处理 Argument，而不是直接链接 source record。
-- 非 Argument 条目引用来源时使用 APA 短引用链接到 Argument，例如 `[[Argument_Thomas_2000_RER|(Thomas, 2000, p. 4)]]`。
-- 叙述式引用写作 `[[Argument_Thomas_2000_RER|Thomas (2000, p. 4)]]`。
+- 非 Argument 条目引用来源时使用 APA 短引用链接到 Argument，例如 `&#91;&#91;Argument_Thomas_2000_RER&#124;(Thomas, 2000, p. 4)&#93;&#93;`。
+- 叙述式引用写作 `&#91;&#91;Argument_Thomas_2000_RER&#124;Thomas (2000, p. 4)&#93;&#93;`。
 - Argument 条目引用当前对应文献时只写页码，例如（p.147）或（pp.147–148）。
 - Argument 条目引用当前文献之外的已处理文献时，使用 APA 短引用。
 - Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。
-- 英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，例如 `"[[Louis Cohen|Cohen, L.]]"` 或 `"[[Cohen, L.]]"`。
+- 英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，例如 `"&#91;&#91;Louis Cohen&#124;Cohen, L.&#93;&#93;"` 或 `"&#91;&#91;Cohen, L.&#93;&#93;"`。
 - `year` 写出版年份。
 - `doi` 可留空；著作、教材或论文集章节若能确认 ISBN，可写入 `isbn`。
 - `citation_aliases` 由 `scripts/citation_index.py` 自动生成，AI 不手动维护。
@@ -199,7 +204,7 @@ Textbook Argument 是教材总览和章节整理页。总览页保留章节表�
 - 使用 `template-argument-textbook.md`。
 - `subtype` 使用 `textbook`，`publication_type` 使用 `book`。
 - `## 总览` 使用 `[!textbook-overview]` 表格列出章节、内容概要和主要关联条目；表格下面放 `[!knowledge-map]`，通常先占位，等章节处理较完整后再画全书知识地图。
-- 若采用 `chapter-arguments`，总览表格第一列必须链接到章节 Argument，写作格式为 `[[Argument_BookFolder_Ch01\|第1章 章节标题]]`；若采用 `single-argument`，第一列可保留普通章节名。
+- 若采用 `chapter-arguments`，总览表格第一列必须链接到章节 Argument，写作格式为 `&#91;&#91;Argument_BookFolder_Ch01\&#124;第1章 章节标题&#93;&#93;`；若采用 `single-argument`，第一列可保留普通章节名。
 - 章节链接骨架由 `.venv/bin/python3 scripts/vault_index.py` 自动维护，不依赖 linker 生成；`wiki_linker.py` 已能保护表格里的 wikilink alias pipe。
 - 主要关联条目只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person。
 - `## 章节` 下每章固定使用 `### 第X章 章节标题`，并保留 `#### 概念地图`、`#### 章节内容`、`#### 关键引用` 三个小节。

@@ -1,4 +1,9 @@
-# CLAUDE.md
+---
+title: GEMINI
+type: workflow
+status: active
+---
+# GEMINI.md
 
 You are a knowledge management assistant for an academic wiki vault on educational research.
 
