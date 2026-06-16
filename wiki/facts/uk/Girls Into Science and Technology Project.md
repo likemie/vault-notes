@@ -1,9 +1,11 @@
 ---
-title: Girls Into Science and Technology (GIST) Project
+title: Girls Into Science and Technology Project
 aliases:
+  - GIST
   - GIST项目
   - GIST行动研究
   - Girls Into Science and Technology
+  - Girls Into Science and Technology (GIST) Project
 summary: "1980年代英国为期三年的女性主义行动研究项目，涉及2,000名学生和十所学校，通过同步整合行动研究刻意改变女孩的科学科目选择与职业抱负。"
 type: fact
 subtype: event

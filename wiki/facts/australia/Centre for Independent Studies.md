@@ -56,7 +56,7 @@ updated: 2026-06-16
 ## 关键文件／声明
 
 > [!citation-card] 智库理念生产机制批判
-> “与美国智库不同，CIS 不仅推广他人提出的思想，还主动生产伪装成研究的出版物。”[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 9)]]
+> “与美国智库不同，CIS 不仅推广他人提出的思想，还主动生产伪装成研究的出版物。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
 > 
 > “...the CIS in education in terms of its active funding of research publications, but also how research ideas are promoted... not only promote ideas that are put forward, rather than produce ideas... produce publications that are 'dressed up as research'” (Lingard, 2015, p. 15)
 

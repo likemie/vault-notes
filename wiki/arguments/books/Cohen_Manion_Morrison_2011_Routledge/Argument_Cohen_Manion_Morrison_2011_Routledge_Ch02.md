@@ -30,6 +30,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
+  - "[[Tyler Rationale]]"
   - "[[Constructivist Paradigm]]"
   - "[[Emergence]]"
   - "[[Critical Pedagogy]]"
@@ -59,7 +60,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts:
-  - "[[Girls Into Science and Technology (GIST) Project]]"
+  - "[[Girls Into Science and Technology Project]]"
 related_arguments: []
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
@@ -464,7 +465,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > - **政治化是赋权还是风险？** Gillies and Alldred（2002: 45）的警告：许多女性主义者苦苦思索将参与者政治化是否必然有帮助。提升对约束的意识却无法提供解决方案或挑战结构性原因，可能**实际上削弱力量而非赋权**。它可能使女性比之前更脆弱。解放是一场斗争。
 
 > [!case] GIST 项目：女性主义行动研究的标志性案例
-> **[[Girls Into Science and Technology (GIST) Project|Girls Into Science and Technology]]（GIST）**行动研究项目是本章中描述最详细的实证案例（pp.408–409）：
+> **[[Girls Into Science and Technology Project|Girls Into Science and Technology]]（GIST）**行动研究项目是本章中描述最详细的实证案例（pp.408–409）：
 >
 > - **规模与设计**：历时三年，涉及英国一个地区十所男女同校综合学校的 2,000 名学生及其教师。八所学校作为行动基础，两所作为对照组。被项目联合主任描述为**同步整合行动研究**（simultaneous-integrated action research, Kelly, 1987）。
 > - **公开的女性主义导向**：项目组公开承认其女性主义取向，刻意寻求改变女孩的选修选择与职业抱负。研究者的行动被视为改善女性从属社会地位的一次小型尝试（Kelly, 1987）。
@@ -506,7 +507,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > | **研究者角色** | 外部、中立观察者 | 内部、参与式理解者 | 变革推动者、批判者、促进者 |
 > | **[[Purpose Statement\|研究目的]]** | 发现普遍法则；解释、预测和控制 | 理解主观意义；诠释社会世界的复杂性 | 揭露权力运作；赋权被压迫者；改变社会走向平等与民主 |
 > | **权力观** | 权力不被视为分析类别 | 关注参与者主观视角中的权力体验 | 权力是分析的核心——揭示谁受益、谁被压制、如何改变 |
-> | **合法性标准** | 信度、效度、可复制性、可推广性 | 可信度、可转移性、确认性、厚描述 | 变革效果（结果效度）、赋权程度、利益分析的穿透力 |
+> | **合法性标准** | 信度、效度、可复制性、可推广性 | 可信度、可转移性、确认性、厚描述 | 变革效果（[[Consequential Validity|结果效度]]）、赋权程度、利益分析的穿透力 |
 > | **局限** | 忽视自我解释能力、忽视能动性；实验室发现琐碎化 | 微观封闭风险、忽视权力结构；主观报告可能不可靠 | 批判与解放的因果链未经验证；理论可能停留在思辨；自身无法避免意识形态立场 |
 > | **典型方法** | [[Randomised Controlled Trials\|随机对照试验]]、调查、[[Causal Modeling\|结构方程建模]] | 深度访谈、参与观察、叙事分析、[[Grounded Theory\|扎根理论]] | 意识形态批判、参与式行动研究、女性主义/批判民族志 |
 > | **教育研究实例** | 测量"教师反馈对学生成绩的[[Effect Size\|效应量]]" | 理解"教师和学生如何体验课堂互动" | 追问"课程大纲服务于谁的利益，如何改变它" |
