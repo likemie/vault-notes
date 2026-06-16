@@ -41,7 +41,6 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Centre for Independent Studies]]"
-  - "[[Community Innovation Survey]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[BHP Foundation]]"

@@ -9213,6 +9213,15 @@
     ]
   },
   {
+    "title": "Australian Institute for Teaching and School Leadership",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Institute for Teaching and School Leadership.md",
+    "aliases": [
+      "澳大利亚教学与学校领导力协会",
+      "AITSL"
+    ]
+  },
+  {
     "title": "BHP Foundation",
     "type": "fact",
     "path": "wiki/facts/australia/BHP Foundation.md",
@@ -9244,15 +9253,6 @@
     "path": "wiki/facts/australia/Australian Curriculum.md",
     "aliases": [
       "澳大利亚课程"
-    ]
-  },
-  {
-    "title": "Australian Institute for Teaching and School Leadership",
-    "type": "fact",
-    "path": "wiki/facts/australia/Australian Institute for Teaching and School Leadership.md",
-    "aliases": [
-      "澳大利亚教学与学校领导力协会",
-      "AITSL"
     ]
   },
   {

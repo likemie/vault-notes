@@ -35,7 +35,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Axiology]]"
   - "[[Research Topic]]"
-  - "[[Research Translation]]"
   - "[[Postmodernism]]"
   - "[[Orientalism]]"
   - "[[Heterogeneity]]"

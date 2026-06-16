@@ -19,7 +19,6 @@ related_methods: []
 related_persons:
   - "[[John Sweller]]"
 related_facts:
-  - "[[Community Innovation Survey]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"

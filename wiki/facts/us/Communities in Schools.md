@@ -21,7 +21,6 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:
-  - "[[Community Innovation Survey]]"
   - "[[Promising Practices Network]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"

@@ -11,17 +11,15 @@ Total entries: **258**
 
 ## Australia
 
-> [!summary]- Event (1)
-> - [[Australian Education Research Organisation]] — 澳大利亚的教育证据中介组织，成立于2010年代后期，定位为what works运动在澳大利亚的制度化载体，推动基于证据的教育实践，并与英国EEF保持紧密联系。
-
-> [!summary]- Organization (2)
+> [!summary]- Organization (4)
+> - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为“什么是有效”（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广“循证”教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（ITE）标准化和惩罚性问责的重要政策节点。
+> - [[Australian Institute for Teaching and School Leadership]] — 澳大利亚联邦政府设立的全国性教师专业机构，成立于2011年。负责制定全国教师专业标准及初始教师教育（ITE）项目的认证程序。在2023年《强劲开端》改革中，其职权被大幅扩张，受托将“大脑与学习”等标准化核心内容强制嵌入国家认证大纲，成为推行绩效问责与监视治理的关键治理节点。
 > - [[BHP Foundation]] — 由全球采矿巨头必和必拓集团资助的慈善基金会，致力于推动资源治理和人类发展。资助了英国教育捐赠基金会（EEF）的全球扩张项目，以在全球复制和嵌入标准化教学证据机构。
 > - [[Centre for Evidence and Implementation]] — 成立于澳大利亚的全球性非营利证据中介组织，致力于促进研究证据在公共服务和教育政策中的应用，曾受澳大利亚教育研究组织（AERO）委托进行循证桌面审查。
 
-> [!summary]- Policy (15)
+> [!summary]- Policy (14)
 > - [[Australian Council for Educational Research]] — 澳大利亚教育研究机构，管理LANTITE测试，每年从中获得约370万澳元收入，是ITE改革中受益的中介组织之一。
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
-> - [[Australian Institute for Teaching and School Leadership]] — 2011年成立的澳大利亚机构，负责制定教师专业标准和ITE认证程序，《强劲开端》改革将其职权范围扩大至核心内容的认证管理。
 > - [[Centre for Independent Studies]] — 1976年成立于悉尼的澳大利亚保守派智库，资助教育研究出版物并通过政策网络影响ITE改革，其研究被纳入《强劲开端》报告的指定参考文献。
 > - [[Educational Services Australia]] — 澳大利亚注册慈善机构，作为AITSL、ACARA和AERO的母体组织，是ITE改革中介组织网络的制度基础。
 > - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
@@ -31,7 +29,7 @@ Total entries: **258**
 > - [[LANTITE]] — 2016年实施的澳大利亚ITE入学门槛测试，由ACER管理，每年为ACER带来约370万澳元收入，被批评者视为守门机制。
 > - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-> - [[Strong Beginnings Report]] — 澳大利亚政府2023年发布的教师教育专家小组报告，提出14项建议，首次将神经科学和大脑与学习作为初始教师教育的核心内容强制纳入国家认证标准。
+> - [[Strong Beginnings Report]] — 澳大利亚政府于2023年发布的教师教育专家小组报告。该报告提出14项政策建议与四项优先改革，首次将“大脑与学习”（脑科学与认知科学）强制列为全国初始教师教育（ITE）的法定制式核心课程与认证标准，标志着澳大利亚教师教育向惩罚性问责与生物简化主义标准化的重大转折。
 > - [[TEMAG]] — 2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是ITE标准化改革的起点。
 > - [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
 

@@ -18,7 +18,7 @@ related_persons:
   - "[[John Sweller]]"
   - "[[Lev Vygotsky]]"
 related_facts:
-  - "[[Community Innovation Survey]]"
+  - "[[Centre for Independent Studies]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:

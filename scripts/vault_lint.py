@@ -784,7 +784,6 @@ def check_required_files(issues: List[Issue]) -> None:
         INDEX_JSON,
         WIKI_DIR / "index.md",
         ROOT / "scripts" / "vault_index.py",
-        ROOT / "scripts" / "book_overview.py",
         ROOT / "scripts" / "wiki_index.py",
         ROOT / "scripts" / "citation_index.py",
         ROOT / "scripts" / "citation_linker.py",
