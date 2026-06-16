@@ -24,6 +24,7 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
+  - "[[Policy Network]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 > [!success]
 > 以下发现全部来自 Rambla（2022）基于 [[YOUNG_ADULLLT]] 项目的分析：
 
-- 在德国及新社团主义传统较强的邻国，[[Lifelong Learning|终身学习]]政策网络包含政府、雇主协会和工会等传统三方伙伴。相较于南欧和东欧的政策网络，这些国家的治理安排表现出更高的制度多元性([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])
+- 在德国及新社团主义传统较强的邻国，[[Lifelong Learning|终身学习]][[Policy Network|政策网络]]包含政府、雇主协会和工会等传统三方伙伴。相较于南欧和东欧的政策网络，这些国家的治理安排表现出更高的制度多元性([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])
 - 新社团主义国家的专业人员系统性地发展了本地变革理论（如"学徒制系统"），为终身学习服务提供了连贯的行动逻辑；相比之下，制度薄弱国家的专业人员更倾向于将政策简化为"帮助青年尽快找到任何工作"（p.173）
 - [[Selectivity]] 效应在新社团主义国家中受到制度多元性的缓冲——多元行动者的参与使得就业优先的逻辑无法完全主导政策实践（p.173–174）
 

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Evaluation Research]]"
 related_theories:
   - "[[Attribution Theory]]"
   - "[[Social Learning Theory]]"
@@ -94,7 +95,7 @@ updated: 2026-06-06
 > [!warning]
 > [[Construct Validity in Quantitative Measurement|构念效度]]（construct validity）指测量工具是否真正测量了它声称测量的理论构念。当不同测量工具声称测量不同构念但本质上测量的是同一个构念时，构念效度就成为问题。
 >
-> Rindermann (2007) 的大规模分析发现，不同学生评估研究（[[PISA]]、TIMSS、PIRLS）和不同认知测试方法之间的跨国家相关性普遍很高。因子分析支持一个强 g 因子。不同的学生评估研究量表和不同的认知测试方法本质上测量的是同一个构念，即一般国家认知能力（引自 Zhao, 2020）。
+> Rindermann (2007) 的大规模分析发现，不同学生[[Evaluation Research|评估研究]]（[[PISA]]、TIMSS、PIRLS）和不同认知测试方法之间的跨国家相关性普遍很高。因子分析支持一个强 g 因子。不同的学生评估研究量表和不同的认知测试方法本质上测量的是同一个构念，即一般国家认知能力（引自 Zhao, 2020）。
 >
 > 这一发现对 [[PISA]] 的声称构成了挑战。PISA 声称测量的是未来生活所需的基本技能，不同于 IEA 赞助的研究（如 TIMSS）所测量的课程相关知识。但如果两者本质上测量的是同一个构念，PISA 声称测量独特内容的主张就缺乏构念效度的支持([[Argument_Zhao_2020_JEC|Zhao, 2020]])。
 

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Academic Medical Center]]"
   - "[[Academic Health System]]"
   - "[[Physician-Scientist]]"
+  - "[[Evaluation Research]]"
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
   - "[[Technology Transfer Office]]"
@@ -68,7 +69,7 @@ citation_aliases:
 > - [[Academic Health System|学术健康系统]] — 核心概念。区别于传统[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC），指在优先患者诊疗之后同时追求学术研究和产业创新、兼具科研基础设施和区域性临床网络的独立组织实体(pp.179–181)。
 > - **[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）** — 定义为"整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新"(p.175)。AHS 正是 AMI 类[[University-Industry Collaboration|产学合作]]的理想促进者。
 > - [[Physician-Scientist|医师科学家]] — AMI 的关键催化者，同时具备医学博士（Doctor of Medicine, MD）和哲学博士（Doctor of Philosophy, PhD）学位，在临床前线识别问题、与基础科学家合作翻译发现、并在学界和产业之间充当联络者(pp.176–177)。
-> - **医学翻译循环（Cycle of Medical Translation）** — 驱动 AMI 的闭环反馈回路：从临床需求识别→发现研究→发明→应用研究→产品开发→临床前验证→[[Clinical Trial|临床试验]]→试点与教育→质量评估→规模化部署→回到新的临床需求(pp.176–178, Fig. 10.1)。
+> - **医学翻译循环（Cycle of Medical Translation）** — 驱动 AMI 的闭环反馈回路：从临床需求识别→发现研究→发明→[[Evaluation Research|应用研究]]→产品开发→临床前验证→[[Clinical Trial|临床试验]]→试点与教育→质量评估→规模化部署→回到新的临床需求(pp.176–178, Fig. 10.1)。
 > - T 型技能 — 医师科学家所需的双重能力结构：纵向深度（|）用于识别专业领域的临床问题，横向广度（—）用于与不同学科的合作伙伴有效沟通。在超亚专业化时代，两个维度缺一不可(pp.185–186)。
 > - [[Team Science|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才(pp.178–179)。
 > - [[Partnership Continuum|伙伴关系连续体]] — [[University Industry Demonstration Partnership|大学产业示范伙伴关系]](University Industry Demonstration Partnership, UIDP, 2012)的合作分类框架，从交易型（共享策略）到协作型（共享想法）再到联盟型（共享愿景）。AHS 可以在所有三个级别上与同一伙伴同时维持多个合作关系(p.188)。
@@ -93,7 +94,7 @@ citation_aliases:
 ### 第一步：AMI 以三个相互关联的要素为驱动力：医学翻译循环、团队科学和创新文化
 
 > [!note]- 医学翻译循环：[[Applied Medical Innovation|AMI]] 的闭环运转机制
-> [[Applied Medical Innovation|AMI]] 的核心是一个闭环反馈回路：[[Physician-Scientist|医师科学家]]在临床前线识别未满足的医疗需求，与跨学科团队合作开展发现研究，产出可开发的发明，经过应用研究、产品开发、临床前验证和[[Clinical Trial|临床试验]]后，通过试点、教育和质量评估最终部署到患者诊疗中(pp.176–178, Fig. 10.1)。详见 [[Applied Medical Innovation]]。
+> [[Applied Medical Innovation|AMI]] 的核心是一个闭环反馈回路：[[Physician-Scientist|医师科学家]]在临床前线识别未满足的医疗需求，与跨学科团队合作开展发现研究，产出可开发的发明，经过[[Evaluation Research|应用研究]]、产品开发、临床前验证和[[Clinical Trial|临床试验]]后，通过试点、教育和质量评估最终部署到患者诊疗中(pp.176–178, Fig. 10.1)。详见 [[Applied Medical Innovation]]。
 >
 > 论证关键在于：循环的每一步都深度依赖不同类型的[[University-Industry Collaboration|产学合作]]——需求识别在医院、研究在大学、开发依赖产业、扩散从学术流向临床。循环隐含两个不可或缺的要素：**有效的产学伙伴关系和医师科学家**。没有前者，循环在每个阶段之间断裂；没有后者，循环无法从临床前线启动(pp.177–178)。
 

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
+  - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
   - "[[External Validity]]"
@@ -92,7 +93,7 @@ updated: '2026-05-18'
 
 
 > [!example] 2. [[Internal Validity|内部效度]]评估（Internal Validity Evaluation）
-> 评估研究的实验控制水平，包括([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])：
+> [[Evaluation Research|评估研究]]的实验控制水平，包括([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])：
 > - 阶段对比（phase contrasts）的数量
 > - 每个阶段的数据点数量
 > - 结果是否被可靠测量

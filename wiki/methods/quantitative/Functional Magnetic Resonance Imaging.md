@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Electroencephalography]]"
@@ -56,5 +57,5 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 
 ## 相关研究
 
-- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项研究使用 fMRI 检验 [[Prefrontal Cortex|PFC]] 在 [[Executive Function|EF]] 任务中的激活模式
+- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项[[Research Utilization|研究使用]] fMRI 检验 [[Prefrontal Cortex|PFC]] 在 [[Executive Function|EF]] 任务中的激活模式
 

@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Epistemology]]"
+  - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Recommendations for Practice]]"
@@ -48,7 +49,7 @@ updated: '2026-05-31'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 因果建模隐含一种强假设：研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_ER|Berk (2011, p.196)]] 认为因果建模对评估研究的影响"最好说是好坏参半的"（mixed at best）。
+> 因果建模隐含一种强假设：研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_ER|Berk (2011, p.196)]] 认为因果建模对[[Evaluation Research|评估研究]]的影响"最好说是好坏参半的"（mixed at best）。
 
 ## 操作步骤
 

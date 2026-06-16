@@ -13,6 +13,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Direct Instruction]]"
   - "[[Positivism]]"
+  - "[[Policy Network]]"
   - "[[Evidence-Based Education]]"
   - "[[Progressive Education]]"
 related_theories:
@@ -22,6 +23,7 @@ related_persons: []
 related_facts:
   - "[[Strong Beginnings Report]]"
   - "[[Centre for Independent Studies]]"
+  - "[[Community Innovation Survey]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -56,8 +58,8 @@ updated: 2026-06-16
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **2021**：受澳大利亚保守智库独立研究中心（[[Centre for Independent Studies|CIS]]）资助并出版了政策分析报告《为什么探究式学习有害学生学习》（Sweller, 2021），为政策网络攻击进步主义教学法提供了学术弹药。
-> - **2023**：其学术贡献和CIS出版物被强制嵌入澳大利亚联邦政府《强劲开端》教师教育专家小组报告，成为全国职前教师培训的标准教材之一。
+> - **2021**：受澳大利亚保守智库独立研究中心（[[Centre for Independent Studies|CIS]]）资助并出版了政策分析报告《为什么探究式学习有害学生学习》（Sweller, 2021），为[[Policy Network|政策网络]]攻击进步主义教学法提供了学术弹药。
+> - **2023**：其学术贡献和[[Community Innovation Survey|CIS]]出版物被强制嵌入澳大利亚联邦政府《强劲开端》教师教育专家小组报告，成为全国职前教师培训的标准教材之一。
 
 ---
 
@@ -92,5 +94,5 @@ updated: 2026-06-16
 > [!tension] 争议焦点
 > - **争议对象**：其认知科学模型在教育政策中的普适性，以及其著作背后的智库意识形态倾向。
 > - **批评立场**：批判政策社会学家与[[Progressive Education|进步主义教育]]学者（如 Skourdoumbis & Rowe, 2024）指出，Sweller 的理论将复杂的、情境化的教育活动约化为脑部内部的机械信息处理，剥离了社会学与关系性维度。
-> - **证据依据**：其 [[Centre for Independent Studies|CIS]] 资助的研究《为什么探究式学习有害学生学习》（Sweller, 2021）并非同行评审学术文献，而是由保守派智库出资并带有明确党派色彩的游说手册，其强制列为必修被质疑为私人和智库利益对公共教师教育的侵蚀与“理念编排”。
+> - **证据依据**：其 [[Centre for Independent Studies|CIS]] 资助的研究《为什么探究式学习有害学生学习》（Sweller, 2021）并非同行评审学术文献，而是由保守派智库出资并带有明确党派色彩的游说手册，其强制列为必修被质疑为私人和智库利益对公共教师教育的侵蚀与“[[Policy Network|理念编排]]”。
 > - **回应或余留问题**：Sweller 的理论支持者强调其理论具有坚实的量化心理学实验证据支持；而批评者则认为，其在政策层面的垄断和强制消费侵犯了大学教师教育者的学术与课程自主权。

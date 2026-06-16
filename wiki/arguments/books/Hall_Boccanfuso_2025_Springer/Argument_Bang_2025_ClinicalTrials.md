@@ -26,6 +26,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
+  - "[[Research Utilization]]"
   - "[[Emergence]]"
   - "[[Literature Review]]"
 related_theories: []
@@ -296,7 +297,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 > [!success] 伞式试验（Umbrella Trial）：一种疾病，多种治疗方案
 > 对同一种疾病评估多种治疗方案，根据生物标志物或其他疾病特征将患者分配至大试验中的不同子研究。核心逻辑是：在同一疾病框架下，通过生物标志物将患者精准分层，匹配不同治疗路径。
 >
-> **案例：白血病与淋巴瘤协会（Leukemia & Lymphoma Society, LLS）的 Beat AML 主方案**——针对急性髓性白血病（Acute Myeloid Leukemia, AML）。这是一个多中心、多产业方的大规模协作：联合了 11 个学术医学中心基地、12 个产业申办方和 4 个基因组实验室。患者入组后，先进技术在数天内完成基因组分析，根据每位患者 AML 的遗传特征将其匹配到不同的子研究治疗路径。不同子研究使用不同产业方提供的不同治疗方案，实现了传统单方试验无法达到的覆盖广度和匹配精度(p.213)。
+> **案例：白血病与淋巴瘤协会（Leukemia & Lymphoma Society, LLS）的 Beat AML 主方案**——针对急性髓性白血病（Acute Myeloid Leukemia, AML）。这是一个多中心、多产业方的大规模协作：联合了 11 个学术医学中心基地、12 个产业申办方和 4 个基因组实验室。患者入组后，先进技术在数天内完成基因组分析，根据每位患者 AML 的遗传特征将其匹配到不同的子研究治疗路径。不同子[[Research Utilization|研究使用]]不同产业方提供的不同治疗方案，实现了传统单方试验无法达到的覆盖广度和匹配精度(p.213)。
 
 > [!success] 平台试验（Platform Trial）：持续进化的适应性框架
 > 允许随着试验进展持续添加新治疗方案或研究组，同时根据实时结果淘汰无效方案。核心逻辑是：试验设计不是静态的，而是持续迭代的——有效的方案留下并扩展，无效的方案被淘汰，新的方案可以随时加入。

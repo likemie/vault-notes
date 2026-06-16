@@ -19,6 +19,7 @@ tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Corporate R&D Labs]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
@@ -44,7 +45,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 应用启发的基础研究（Use-Inspired Basic Research）是 Stokes（1997）在 [[Stokes' Quadrant Model of Scientific Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出的概念，指一种同时追求对现象的基本理解（basic understanding）和实际应用（considerations of use）的研究模式。它打破了基础研究与应用研究之间的传统二分法——研究表明，两者并非对立的两端，而是可以共存的独立维度([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。
+> 应用启发的基础研究（Use-Inspired Basic Research）是 Stokes（1997）在 [[Stokes' Quadrant Model of Scientific Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出的概念，指一种同时追求对现象的基本理解（basic understanding）和实际应用（considerations of use）的研究模式。它打破了基础研究与[[Evaluation Research|应用研究]]之间的传统二分法——研究表明，两者并非对立的两端，而是可以共存的独立维度([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。
 
 > 这一概念以路易·巴斯德（Louis Pasteur）命名和典范化：巴斯德在微生物学领域的基础发现（如发酵机制、疾病的细菌理论）既是纯粹的基础科学突破，同时直接服务于食品保存、酿酒和疾病治疗等实际需求。
 
@@ -70,7 +71,7 @@ updated: 2026-05-27
 
 > [!example]
 > - **vs 纯基础研究**（basic research）：纯基础研究由好奇心驱动，不以应用为目的——如玻尔对原子结构的研究。应用启发的基础研究保留了基础理解的目标，但同时以社会需求为导向——如巴斯德的微生物研究（Stokes, 1997）。
-> - **vs 应用研究**（applied research）：应用研究以解决具体问题为首要目标，不一定追求深层机制理解。应用启发的基础研究则要求两者兼顾。
+> - **vs [[Evaluation Research|应用研究]]**（applied research）：应用研究以解决具体问题为首要目标，不一定追求深层机制理解。应用启发的基础研究则要求两者兼顾。
 > - **vs [[Technology Transfer|技术转移]]**：技术转移是大学已有研究成果的商业化路径；应用启发的基础研究强调在研究设计阶段就融入应用考量——它改变了研究"从何开始"的问题，而非仅在"结束之后"才考虑转化。
 > - **vs [[Stokes' Quadrant Model of Scientific Research]]**：巴斯德象限是 Stokes 四象限模型的一个象限；Stokes 模型是容纳玻尔象限、巴斯德象限和爱迪生象限的完整理论框架。二者是部分与整体的关系
 

@@ -17,6 +17,7 @@ tags:
 - source/book
 related_concepts:
   - "[[Educational Management Organisation]]"
+  - "[[Policy Network]]"
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
@@ -46,7 +47,7 @@ updated: '2026-05-23'
 > [!info]
 > Cognition Education 起源于 1989 年 [[Tomorrow's Schools Reforms]] 创造出来的学校支持服务准市场。改革把原奥克兰（Auckland）区域教育行政中的工资与校车运输等职能从公共体系中剥离出来，交由新设的教育服务中心（education service centre）承接，Multi Serve 就是在这一背景下成立的组织之一。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.11-12]])
 >
-> O'Neill 等将其视为新西兰最大的 [[Educational Management Organisation]]，并把它作为国家学校体系中慈善信托、营利公司和政策网络彼此交织的典型案例。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.65]])
+> O'Neill 等将其视为新西兰最大的 [[Educational Management Organisation]]，并把它作为国家学校体系中慈善信托、营利公司和[[Policy Network|政策网络]]彼此交织的典型案例。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.65]])
 
 ## 经过
 

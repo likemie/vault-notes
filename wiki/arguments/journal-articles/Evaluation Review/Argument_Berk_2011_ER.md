@@ -17,6 +17,7 @@ tags:
 - subject/research-methodology
 related_concepts:
   - "[[Research Question]]"
+  - "[[Evaluation Research]]"
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
@@ -50,12 +51,12 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思评估研究中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在因果效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
+> 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思[[Evaluation Research|评估研究]]中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在因果效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> Berk 不依赖单一理论框架，而是基于评估研究方法论的演进历史进行[[Reflexivity|反思性]]分析。他的论证锚定在：
+> Berk 不依赖单一理论框架，而是基于[[Evaluation Research|评估研究]]方法论的演进历史进行[[Reflexivity|反思性]]分析。他的论证锚定在：
 > - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为因果效应定义的概念基础
 > - **Campbell & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
@@ -64,7 +65,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：[[Reflexivity|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
-> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、[[Causality|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
+> - **数据来源**：作为创始编辑经手的数百篇[[Evaluation Research|评估研究]]论文、[[Causality|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 ## 核心论证
 
@@ -133,7 +134,7 @@ citation_aliases:
 >
 > 1. **中立专家委员会审查**：在有重要政策问题和矛盾证据时，由知识渊博的中立委员会（如美国国家科学院国家研究理事会）进行审查。Pew Charitable Trust 等基金会有时也支持独立小组或员工审查。
 >
-> 2. **团队评估研究**：评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC 和 Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
+> 2. **团队[[Evaluation Research|评估研究]]**：评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC 和 Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
 >
 > 3. **保持与"数据科学"同步**：评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"(p.200)。在社会科学的评估研究相关研究生培养中，至少需要硕士水平的数据科学训练。
 

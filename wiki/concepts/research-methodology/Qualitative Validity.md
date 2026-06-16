@@ -18,6 +18,7 @@ tags:
   - validity
 related_concepts:
   - "[[External Validity]]"
+  - "[[Evaluation Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Champ]]"
@@ -53,7 +54,7 @@ updated: 2026-06-01
 
 ## 核心要素：八种效度策略
 
-Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究者评估研究发现准确性的能力和说服读者。八种策略按使用频率和实施难度排列：
+Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究者[[Evaluation Research|评估研究]]发现准确性的能力和说服读者。八种策略按使用频率和实施难度排列：
 
 1. **[[Triangulation|三角验证]]**：通过多个数据来源的证据汇聚来构建主题的一致性基础。
 2. **[[Member Checking|成员核查]]**：将最终报告或特定描述和主题带回参与者确认准确性。

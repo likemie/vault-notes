@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Paradigm]]"
+  - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Scientization of Politics]]"
   - "[[Side Effects]]"
   - "[[Internal Validity]]"
+  - "[[Evaluation Research]]"
   - "[[Scientific Method]]"
   - "[[Recommendations for Practice]]"
   - "[[Multimethod Research]]"
@@ -183,7 +185,7 @@ updated: '2026-05-24'
 - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.3]])
-- **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果研究使用[[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+- **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards (Kratochwill et al.)，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
 - **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 
@@ -418,7 +420,7 @@ EBE 将"什么有效"的问题技术化——将教育决策从民主协商的�
 
 **争议背景**：[[Argument_Berk_2011_ER|Berk (2011)]] 从 35 年担任 *Evaluation Review* 创始编辑的经验出发，为 EBE 补充了一个此前未被充分讨论的维度——**证据概念本身的操作性空泛**。此前的批判主要聚焦于哲学前提（Biesta），但 Berk 的问题更前置：即使接受 EBE 的原则，政策制定者实际上**无法区分真正的证据与"垃圾科学"**（junk science）。
 
-[[Argument_Berk_2011_ER|Berk (2011, p.192)]] 基于经手数百篇评估研究论文的经验判断："每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作"。关键问题是"太多评估研究的使用者难以区分二者"([[Argument_Berk_2011_ER|Berk, 2011, p.192]])。Berk 明确指出**不存在简单的解码装置**来区分证据与垃圾——"任何易于实施的规则集都有扼杀创新的风险"([[Argument_Berk_2011_ER|Berk, 2011, pp.192–193]])。
+[[Argument_Berk_2011_ER|Berk (2011, p.192)]] 基于经手数百篇[[Evaluation Research|评估研究]]论文的经验判断："每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作"。关键问题是"太多评估研究的使用者难以区分二者"([[Argument_Berk_2011_ER|Berk, 2011, p.192]])。Berk 明确指出**不存在简单的解码装置**来区分证据与垃圾——"任何易于实施的规则集都有扼杀创新的风险"([[Argument_Berk_2011_ER|Berk, 2011, pp.192–193]])。
 
 Berk 提出了三条操作层面的对策：(1) 中立专家委员会审查；(2) 团队评估研究（如 Rand、MDRC、Mathematica 的模式）；(3) 数据科学训练至少需要硕士水平([[Argument_Berk_2011_ER|Berk, 2011, pp.199–200]])。其"精英专家模式"对策与 Cowen (2019) 后来提出的官僚知识问题存在未解决的张力。（参见 [[Argument_Berk_2011_ER]]）
 

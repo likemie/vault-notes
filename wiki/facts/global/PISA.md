@@ -17,6 +17,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
   - "[[Structured Teaching]]"
+  - "[[Evaluation Research]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
@@ -92,7 +93,7 @@ updated: "2026-06-06"
 > [!warning] 捏造的主张
 > PISA 声称测量未来生活所需的基本技能，但这一声称没有任何实证依据。PISA 题目基于其研究者的实际推理和[[Pilot Testing|预测试]]中在大多数或所有情境中有效的内容，而非基于对当前或未来知识结构和需求的系统研究。没有研究能够证明这一断言，除了知道一些东西总是好的、知道更多更好之外（Hopmann 2008, p.438, 引自 Zhao, 2020）。
 >
-> 有实证证据表明 PISA 测量的内容与其他国际评估或智力测试没有显著差异。PISA 表现与 TIMSS 显著相关（Wu 2009）。Rindermann (2007) 的大规模分析发现，不同学生评估研究和不同认知测试方法本质上测量的是同一个[[Construct|构念]]，即一般国家认知能力。
+> 有实证证据表明 PISA 测量的内容与其他国际评估或智力测试没有显著差异。PISA 表现与 TIMSS 显著相关（Wu 2009）。Rindermann (2007) 的大规模分析发现，不同学生[[Evaluation Research|评估研究]]和不同认知测试方法本质上测量的是同一个[[Construct|构念]]，即一般国家认知能力。
 
 ---
 

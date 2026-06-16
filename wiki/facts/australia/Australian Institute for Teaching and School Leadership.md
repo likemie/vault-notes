@@ -15,6 +15,7 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Policy Network]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -71,7 +72,7 @@ updated: 2026-06-16
 
 > [!finding-cards] 政策影响与后果
 > - **教师教育机构自主权的缩减**：通过法定制式附表，实质上剥夺了大学教师教育者独立开发课程大纲和评价职前学习效果的传统能动权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
-> - **政策制定角色的史无前例转移**：AITSL 从一个单纯的“行业标准合规检查者”转变为可以直接插手并规定教学大纲的“课程决定者”，在政策网络中形成了前所未有的不对称权力平衡。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **政策制定角色的史无前例转移**：AITSL 从一个单纯的“行业标准合规检查者”转变为可以直接插手并规定教学大纲的“课程决定者”，在[[Policy Network|政策网络]]中形成了前所未有的不对称权力平衡。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **监视治理与脚本化教学的蔓延**：通过与毕业生毕业考核（毕业生标准 1.1/1.2）及绩效经费挂钩，加剧了对教师工作的“绩效监视”，迫使课堂教学走向死板的脚本化模式。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-06-16
 > - **市场运作者 / 商业化视角**：标准的不断强化直接喂养了庞大的教育测评和认证商业链条，如 [[Australian Council for Educational Research|ACER]] 实施的 [[LANTITE]] 教师统考每年仅考试费就产生约 370 万澳元的营收。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 > [!tension] 争议焦点
-> - **巴金汉的“双重跨界与理念编排”**：巴金汉一方面长期担任右翼保守智库 [[Centre for Independent Studies|CIS]] 的董事和高级研究员，该智库出资并出版了核心参考文献 Sweller (2021) 报告；另一方面，她同时担任 AITSL 的非执行董事。这为智库大纲的法定转换和官方合规把关构建了利益高度纠缠的通路。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **巴金汉的“双重跨界与[[Policy Network|理念编排]]”**：巴金汉一方面长期担任右翼保守智库 [[Centre for Independent Studies|CIS]] 的董事和高级研究员，该智库出资并出版了核心参考文献 Sweller (2021) 报告；另一方面，她同时担任 AITSL 的非执行董事。这为智库大纲的法定转换和官方合规把关构建了利益高度纠缠的通路。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **大一统标准与“回应性教学”的智识矛盾**：AITSL 大纲在强力灌输脑科学一统大纲与指定教材的同时，又在大纲中保留了“基于地方文化和情境的回应性教学”。批判学者指出，将复杂的教学活动机械化和客观真理化，与尊重本土特殊情境的回应性教学在理智和逻辑上是完全冲突且不可兼容的。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6, p. 11]])
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-06-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[Strong Beginnings Report]] | AITSL 职权急剧扩张、受托设计强制认证附表的直接政策来源。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Teacher Education Ministerial Advisory Group|TEMAG]] | 前期改革文本，为 AITSL 确立在初始教师教育认证中的主导地位奠定了基础。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 前期改革文本，为 AITSL 确立在初始教师教育认证中的主导地位奠定了基础。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[Australian Education Research Organisation]] | 共同起草核心大纲，并与 AITSL 相互配合进行标准监管的证据中介组织。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Centre for Independent Studies]] | 其非执行董事巴金汉同时任职的保守智库。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[LANTITE]] | AITSL 认证体系下，由 ACER 运行并产生高额营收的职前教师标准化统考项目。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |

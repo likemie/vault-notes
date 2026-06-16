@@ -20,6 +20,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
   - "[[Variable]]"
+  - "[[Research Utilization]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
   - "[[Homework]]"
@@ -138,7 +139,7 @@ updated: '2026-05-21'
 
 > [!success] 作为追问变异和调节[[Variable|变量]]的工具
 > - Hattie（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）
-> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp.25–27)]]从支持者立场认为，教育元分析不需要等待所有研究使用完全相同的学习结果定义才可比较；[[Effect Size|效应量]]提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp.25–27)]]从支持者立场认为，教育元分析不需要等待所有[[Research Utilization|研究使用]]完全相同的学习结果定义才可比较；[[Effect Size|效应量]]提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.5)]]从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行，元分析透镜产生的图像与定性[[Observational and Correlational Research|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]的谨慎立场：如果且仅当满足 11 项条件，元分析才可能值得严肃对待
 
@@ -276,7 +277,7 @@ updated: '2026-05-21'
 > 2. **可合并性假设**：不同研究的效应量可被合并产生有意义的估计
 >
 > 三个系统性偏差来源（详细论证见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]）：
-> - **比较组的不对等性**：不同研究使用不同比较基线（无干预 vs 替代处理 vs 照常教学），使效应量不可比——"一个分析的实验组是另一个分析的控制组"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.7]])；Camilli et al. (2010) 发现比较"无干预"的效应量是"替代处理"的 3 倍以上
+> - **比较组的不对等性**：不同[[Research Utilization|研究使用]]不同比较基线（无干预 vs 替代处理 vs 照常教学），使效应量不可比——"一个分析的实验组是另一个分析的控制组"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.7]])；Camilli et al. (2010) 发现比较"无干预"的效应量是"替代处理"的 3 倍以上
 > - **范围限制**：选择窄化样本减小方差→放大效应量，10,000 次模拟显示中等能力组效应量膨胀 40%([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.8–9]])；Elbaum et al. (2000) 故意选择阅读失败风险学生的元分析在 EEF Toolkit 中与未限制范围的元分析合并且未调整
 > - **测量设计（聚焦度+精确度）**：研究者自编测试效应量比标准化测试平均高约 40%([[Argument_Simpson_2017_JEP|Simpson, 2017, p.12]])；测试长度翻倍可膨胀效应量 ~20%–100%+（Figure 3）——Kluger & DeNisi (1996) 中测试从 6 任务到 300 算术题，未调整
 >

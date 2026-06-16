@@ -30,6 +30,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Purpose Statement]]"
   - "[[Visible Learning]]"
+  - "[[Evaluation Research]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -98,7 +99,7 @@ citation_aliases:
 > - 与 Hattie 一致认为学术批评应聚焦观点而非人身攻击，双方均声称遵循此原则(p.94)
 > - [[Meta-analysis|元分析]]的方法论常模糊而非照亮良好政策决策所需的信息，"[[Effect Size|效应量]]"清单鼓励对复杂教育问题的银弹式回应(p.97)
 > - 许多成功学校和课堂的案例研究展示了实际互动效应的运作——一个有洞察力的干预可以抵消其他影响，即使后者有更大的效应量(p.97)
-> - 教师教育应教学生了解研究过程及其局限性，而非教他们简单地应用研究发现(p.97)
+> - 教师教育应教学生了解研究过程及其局限性，而非教他们简单地[[Evaluation Research|应用研究]]发现(p.97)
 
 ## 关键引用
 

@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 
 > [!info] 关键组件
 > ### [[Single-Case Design|SCD]] 设计标准
-> 评估研究是否建立了充分的实验控制（[[Internal Validity|内部效度]]），包括([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])：
+> [[Evaluation Research|评估研究]]是否建立了充分的实验控制（[[Internal Validity|内部效度]]），包括([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])：
 > - 阶段对比（phase contrasts）的数量和设计
 > - 每个阶段的数据点数量（需足够以建立稳定的基线模式）
 > - 结果是否被可靠测量（信度证据）

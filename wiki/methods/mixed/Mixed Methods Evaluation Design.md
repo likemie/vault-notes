@@ -14,6 +14,7 @@ tags:
   - method/complex-design
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -34,7 +35,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> [[Mixed Methods Research|混合方法]]评价设计（Mixed Methods Evaluation Design）是一种[[Mixed Methods Research|复杂混合方法设计]]，将量化和质性数据以及它们的整合嵌入评价框架的各个步骤中。这一方法的意图是在一个研究过程中，使用量化和质性两种方法及其整合来支持项目的开发、调整和评价。通常用于项目评价（program evaluation），研究者使用量化和质性取向来支持项目、实验或政策的开发、调整和评估([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.248]])。
+> [[Mixed Methods Research|混合方法]]评价设计（Mixed Methods Evaluation Design）是一种复杂混合方法设计，将量化和质性数据以及它们的整合嵌入评价框架的各个步骤中。这一方法的意图是在一个研究过程中，使用量化和质性两种方法及其整合来支持项目的开发、调整和评价。通常用于项目评价（program evaluation），研究者使用量化和质性取向来支持项目、实验或政策的开发、调整和评估([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.248]])。
 
 在评价过程中，经常出现多个核心混合方法设计贯穿整个项目的情况。
 
@@ -82,7 +83,7 @@ updated: 2026-06-02
 ## 适用场景
 
 > [!success]
-> - 适合大规模、多阶段的政策或项目评价研究。
+> - 适合大规模、多阶段的政策或项目[[Evaluation Research|评价研究]]。
 > - 适合需要同时回应"项目是否有效"（量化检验）和"项目如何运作、参与者体验如何"（质性理解）的评价需求。
 > - 适合有充足资金和时间支持多年期评价项目的情境。
 > - 适合需要持续循环改进（需求评估→实施→评价→改进→再评估）的项目管理框架。

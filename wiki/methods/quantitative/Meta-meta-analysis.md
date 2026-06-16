@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
+  - "[[Policy Network]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Direct Instruction]]"
@@ -80,7 +81,7 @@ updated: '2026-05-21'
 >
 > > 例：Hattie (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将效应量转换为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
 >
-> Hattie 本人坚持其工作不是"元分析的元分析"，而是"综合"（synthesis）——但 Snook et al.（2009, p.94）指出，根据 Evidence Informed Policy Network 的定义，"研究综合"必须包含协议制定、系统和明确方法的使用、数据收集、分析、解释和结果报告，而 Hattie 声称不关心纳入研究的质量，这与综合的方法论要求直接矛盾。
+> Hattie 本人坚持其工作不是"元分析的元分析"，而是"综合"（synthesis）——但 Snook et al.（2009, p.94）指出，根据 Evidence Informed [[Policy Network]] 的定义，"研究综合"必须包含协议制定、系统和明确方法的使用、数据收集、分析、解释和结果报告，而 Hattie 声称不关心纳入研究的质量，这与综合的方法论要求直接矛盾。
 >
 > [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者角度为 Hattie 的综合方式辩护：元-元分析可以比较跨研究的相对学习结果，因为[[Effect Size|效应量]]把具体测量转换为共同表达式([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。但他同时指出，这一共同表达式的代价是结果层次变得抽象，研究者难以判断总体效应究竟来自表层知识、深层理解还是概念性学习；因此未来元-元分析需要借助[[Dynamic Knowledge and Learning Model]]更精确地区分学习结果([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.27–33]])。
 

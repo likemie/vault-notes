@@ -16,6 +16,7 @@ tags:
   - theme/research-policy
 related_concepts:
   - "[[Causality]]"
+  - "[[Evaluation Research]]"
   - "[[Chain-linked Model]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Learning Economy]]"
@@ -42,7 +43,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info] 核心定义
-> 线性创新模型（linear model of innovation）是一种假设从基础科学到技术开发再到经济增长存在单向[[Causality|因果关系]]的概念模型。其基本公式为：基础科学 → 应用研究 → 技术开发 → 经济增长。该模型将基础研究视为创新过程的首要推动力，假定公共财政对科学的投入既是创新驱动增长的必要条件，也是充分条件。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
+> 线性创新模型（linear model of innovation）是一种假设从基础科学到技术开发再到经济增长存在单向[[Causality|因果关系]]的概念模型。其基本公式为：基础科学 → [[Evaluation Research|应用研究]] → 技术开发 → 经济增长。该模型将基础研究视为创新过程的首要推动力，假定公共财政对科学的投入既是创新驱动增长的必要条件，也是充分条件。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
 
 > [!quote]
 > "该模型包含一个不言自明的科学研究（Research，以白大褂科学为象征）对技术开发（Development，以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。"[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]
@@ -74,7 +75,7 @@ updated: 2026-06-10
 > [!abstract] 线性模型的假设基石
 > 线性模型在理论和政策实践中主要依赖以下三个相互关联的核心假设：[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
 >
-> 1. **单向[[Causality|因果性]]**：假定创新遵循“基础科学 → 应用研究 → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
+> 1. **单向[[Causality|因果性]]**：假定创新遵循“基础科学 → [[Evaluation Research|应用研究]] → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
 > 2. **科学的支配性**：将基础研究置于层级结构的顶端，预设研发中“研究”天然高于且支配“开发”。
 > 3. **投入的充分性**：假定科学投入与经济产出存在自动转化关系——即只要政府持续增加公共 R&D 经费投入，产业创新与经济持续增长就会自动发生。
 

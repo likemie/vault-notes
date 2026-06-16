@@ -19,6 +19,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
+  - "[[Evaluation Research]]"
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
@@ -88,7 +89,7 @@ citation_aliases:
 ### 第一步：国际 UI 合作的特殊性来自基础研究与应用研究在跨国条件下的张力叠加
 
 > [!note] [[Use-Inspired Basic Research|巴斯德象限]]的定位功能
-> 学术界专长于基础研究，追求对现象的根本科学理解；产业界聚焦于应用研究，以解决现实问题为首要目标(p.310)。两者的自然交汇点正是 Stokes(1997)四象限模型中的[[Use-Inspired Basic Research|巴斯德象限]]：[[Use-Inspired Basic Research|应用启发的基础研究]]，同时追求深层机制理解和实际需求驱动。
+> 学术界专长于基础研究，追求对现象的根本科学理解；产业界聚焦于[[Evaluation Research|应用研究]]，以解决现实问题为首要目标(p.310)。两者的自然交汇点正是 Stokes(1997)四象限模型中的[[Use-Inspired Basic Research|巴斯德象限]]：[[Use-Inspired Basic Research|应用启发的基础研究]]，同时追求深层机制理解和实际需求驱动。
 >
 > 这种双重目标在国内合作中已产生张力：大学需要发表自由，产业需要商业保密。当合作跨越国界时，每一重张力都被额外叠加了跨境维度。发表自由不仅受产业合同约束，还受出口管制和国家安全审查约束；知识产权不仅涉及双方谈判，还涉及多国法律体系的不兼容。
 

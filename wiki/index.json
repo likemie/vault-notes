@@ -1494,6 +1494,21 @@
     ]
   },
   {
+    "title": "Policy Network",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Network.md",
+    "aliases": [
+      "政策网络",
+      "global policy networks",
+      "全球政策网络",
+      "policy networks",
+      "heterarchy",
+      "异质治理",
+      "idea orchestration",
+      "理念编排"
+    ]
+  },
+  {
     "title": "Professional Judgment",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
@@ -1534,6 +1549,16 @@
     "path": "wiki/concepts/educational-policy-reform/Recommendations for Practice.md",
     "aliases": [
       "实践建议"
+    ]
+  },
+  {
+    "title": "Research Utilization",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research Utilization.md",
+    "aliases": [
+      "研究利用",
+      "Research Use",
+      "研究使用"
     ]
   },
   {
@@ -4258,6 +4283,18 @@
     ]
   },
   {
+    "title": "Categorical Funding",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Categorical Funding.md",
+    "aliases": [
+      "分类资助",
+      "Commissioned Research",
+      "委托研究",
+      "Categorical Research",
+      "分类研究"
+    ]
+  },
+  {
     "title": "Causality",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Causality.md",
@@ -4309,6 +4346,15 @@
     "aliases": [
       "置信区间",
       "CI"
+    ]
+  },
+  {
+    "title": "Conformative Evaluation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Conformative Evaluation.md",
+    "aliases": [
+      "顺应性评估",
+      "顺应式评估"
     ]
   },
   {
@@ -4531,6 +4577,18 @@
       "放入括号",
       "phenomenological reduction",
       "现象学还原"
+    ]
+  },
+  {
+    "title": "Evaluation Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Evaluation Research.md",
+    "aliases": [
+      "评估研究",
+      "Applied Research",
+      "应用研究",
+      "Evaluative Research",
+      "评价研究"
     ]
   },
   {
@@ -11752,6 +11810,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

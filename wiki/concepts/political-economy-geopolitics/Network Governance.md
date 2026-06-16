@@ -21,6 +21,7 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Lifelong Learning]]"
   - "[[Neocorporatism]]"
+  - "[[Policy Network]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
   - "[[Return on Investment]]"
@@ -121,7 +122,7 @@ updated: '2026-05-18'
 
 ### 新社团主义网络（制度传统较强的国家）
 
-在德国及拥有[[Neocorporatism|新社团主义]]（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity]] 效应在一定程度上被制度多元性所缓冲([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])。
+在德国及拥有[[Neocorporatism|新社团主义]]（neocorporatism）传统的邻国，[[Policy Network|政策网络]]包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity]] 效应在一定程度上被制度多元性所缓冲([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])。
 
 ### 公私民合作与就业管道
 

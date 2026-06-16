@@ -19,6 +19,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Further Education]]"
   - "[[Formative Assessment]]"
+  - "[[Policy Network]]"
   - "[[Individualised Instruction]]"
   - "[[Constructivist Paradigm]]"
   - "[[Heterogeneity]]"
@@ -163,7 +164,7 @@ updated: '2026-06-08'
 > - **2013 年** 成为 1600 万澳元科学学习研究中心副主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
 > - **2014 年** 被任命为澳大利亚教学与[[School Leadership|学校领导力]]研究院董事会主席([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.50]])
 > - **2015 年** 开发 Visible Classroom 应用，原始试点由英国[[Education Endowment Foundation|教育捐赠基金会]]资助 36 万英镑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.49–50]])
-> - **2015 年** 培生集团在其网站发布 Hattie 的两篇思想领导力文章，致谢名单揭示了横跨学术界、全球教育商业和《可见的学习》商业运营的政策网络连接([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.50–51]])
+> - **2015 年** 培生集团在其网站发布 Hattie 的两篇思想领导力文章，致谢名单揭示了横跨学术界、全球教育商业和《可见的学习》商业运营的[[Policy Network|政策网络]]连接([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.50–51]])
 
 > [!quote] O'Neill 等人的评价
 > "Hattie 如今的全球社交网络方式可以被合理地描述为公共福利、非营利和营利性政策创业与倡导的无缝融合。"([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.viii–ix]])

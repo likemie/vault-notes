@@ -21,6 +21,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
   - "[[Lifelong Learning]]"
+  - "[[Policy Network]]"
   - "[[Neocorporatism]]"
   - "[[Selectivity]]"
 related_theories: []
@@ -88,7 +89,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（n=168，16 个欧盟地区）揭示了 Skills Agenda 在地方层面的差异化接受([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])：
 
-- **奥地利和德国**：地方专业人员以"学徒制系统"的变革理论来理解和实施[[Lifelong Learning|终身学习]]政策。政策网络包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
+- **奥地利和德国**：地方专业人员以"学徒制系统"的变革理论来理解和实施[[Lifelong Learning|终身学习]]政策。[[Policy Network|政策网络]]包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
 - **芬兰**：以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被视为对所有人开放的人类发展服务，而非仅针对失业青年的就业工具（p.173）
 - **苏格兰**：采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
 

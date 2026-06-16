@@ -15,6 +15,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Research Utilization]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods:
@@ -33,7 +34,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和研究使用经验化方面的作用([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–133]])。
+> Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和[[Research Utilization|研究使用]]经验化方面的作用([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–133]])。
 
 ## 核心思想
 
@@ -42,7 +43,7 @@ updated: '2026-06-08'
 >
 > - **把 [[Evidence-Informed Practice|EIP]] 概念做清楚**：与 [[Carol Campbell]] 共同主张 EIP 应被理解成[[Professional Judgment|专业判断]]、系统数据、课堂数据和研究证据的整合，而不是“多看一点研究”的宽泛口号([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.129]])。
 > - **把问题从供给-需求推进到条件问题**：EIP 的关键不只是研究供给是否充足，也不只是教师是否愿意使用研究，而是教育者是否“准备好”面对证据，包括时间、能力、文化与中介条件是否到位([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.127]])。
-> - **把研究使用做成可测量对象**：Nelson 代表当前 vault 中 EIP 讨论最经验化的一面，即不只讨论证据使用应该是什么，也尝试开发工具去测量它在学校中是否真的发生([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
+> - **把[[Research Utilization|研究使用]]做成可测量对象**：Nelson 代表当前 vault 中 EIP 讨论最经验化的一面，即不只讨论证据使用应该是什么，也尝试开发工具去测量它在学校中是否真的发生([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。
 >
 > > "EIP is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes."([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.128]])
 
@@ -50,7 +51,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - **[[Evidence-Informed Practice|EIP]] 概念框架** — 与 [[Carol Campbell]] 一起把 [[Evidence-Informed Practice]] 系统整合为定义、应用、测量三维问题域。
-> - **NFER 研究使用调查** — 将教师和学校的研究参与、证据使用行为转成可调查、可比较的经验对象。
+> - **NFER [[Research Utilization|研究使用]]调查** — 将教师和学校的研究参与、证据使用行为转成可调查、可比较的经验对象。
 
 ## 影响
 
@@ -68,6 +69,6 @@ updated: '2026-06-08'
 ## 生平与职涯
 
 > [!note]
-> - 任英国 NFER 研究者，工作集中于研究使用、教师研究参与和[[Evidence-Informed Practice|证据知情实践]]。
+> - 任英国 NFER 研究者，工作集中于[[Research Utilization|研究使用]]、教师研究参与和[[Evidence-Informed Practice|证据知情实践]]。
 > - 与 [[Carol Campbell]] 合作推进 EIP 的概念整合与测量工作。
 > - **2017** 年参与 EIP 特刊与教师研究参与度测量项目，使 EIP 讨论更具经验研究取向。

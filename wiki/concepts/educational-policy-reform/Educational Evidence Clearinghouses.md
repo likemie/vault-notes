@@ -32,6 +32,7 @@ related_concepts:
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
+  - "[[Research Utilization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[5-3-20 Rule]]"
   - "[[Internal Validity]]"
@@ -187,7 +188,7 @@ updated: '2026-05-24'
 - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
 - [[Campbell Collaboration]] — [[Systematic Review|系统综述]]型证据组织，2007 年将国际总部迁至挪威。
 - [[Danish Clearinghouse for Educational Research]] — 丹麦国家语境中的系统综述型教育证据中心。
-- [[EPPI-Centre]] — 英国系统综述和研究使用指导中心。
+- [[EPPI-Centre]] — 英国系统综述和[[Research Utilization|研究使用]]指导中心。
 - [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief 和 Evidence 4 Impact 的证据机构。
 - [[Swedish Institute for Educational Research]] — 瑞典系统综述、传播和研究资助机构。
 - [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学[[Evidence-Based Education|证据本位教育]]研究所。

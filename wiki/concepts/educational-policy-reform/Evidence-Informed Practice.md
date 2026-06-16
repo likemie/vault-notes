@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Based Education]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -113,7 +114,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 历史沿革
 
 > [!note]
-> - **1979** — Weiss 的研究利用工作为后续“研究如何进入实践”的讨论提供早期基础。
+> - **1979** — Weiss 的[[Research Utilization|研究利用]]工作为后续“研究如何进入实践”的讨论提供早期基础。
 > - **1996** — Hargreaves 提出“教学作为研究本位专业”，为教育领域的证据使用争论提供政策起点。
 > - **2000s–2010s** — 英国 Teaching and Learning Research Programme、美国问责政策变化以及加拿大安大略省教育研究与评估战略等，共同推动 EIP 的制度化讨论。
 > - **2013** — 英国 [[ResearchED]] 兴起，草根教师研究使用运动增强。
@@ -130,7 +131,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 
 > [!success] 实证发现
 > - **教师间传播占主导**：教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
-> - **实践产生的证据使用比研究使用更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **实践产生的证据使用比[[Research Utilization|研究使用]]更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **同伴推荐和本地试点仍然重要**：教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 > - **复杂改革需要多目标解释**：[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 > - **EIP 的积极影响已有初步证据，但仍不足**：关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]])。

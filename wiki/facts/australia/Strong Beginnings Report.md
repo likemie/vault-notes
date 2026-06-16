@@ -19,6 +19,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
+  - "[[Policy Network]]"
   - "[[What Works Movement]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -92,7 +93,7 @@ updated: 2026-06-16
 > [!pathways]- 实施路径
 > - **中央设计与控制**：通过 AITSL 将四大领域的“核心内容”制度化为国家认证程序中的约束性指令。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **机构对齐与压力**：大学被迫重新设计其教师培训课程，引入认知神经科学内容并以指定的 Sweller 文献作为基本参考文献。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
-> - **反馈与抵抗**：面临来自批判学者与大学教育者的反对意见，被质疑侵犯大学教师学术自主权并进行“监视治理”；然而政策网络通过 [[Australian Education Research Organisation|AERO]] 董事会的强硬表态（倾向于惩罚性资金），坚持推行权威性的国家规范。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **反馈与抵抗**：面临来自批判学者与大学教育者的反对意见，被质疑侵犯大学教师学术自主权并进行“监视治理”；然而[[Policy Network|政策网络]]通过 [[Australian Education Research Organisation|AERO]] 董事会的强硬表态（倾向于惩罚性资金），坚持推行权威性的国家规范。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 

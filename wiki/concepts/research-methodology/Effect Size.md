@@ -31,6 +31,7 @@ related_concepts:
   - "[[Developer Effect]]"
   - "[[Heterogeneity]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Research Utilization]]"
   - "[[Class Size]]"
   - "[[School Leadership]]"
   - "[[Material Fallacies]]"
@@ -367,7 +368,7 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 
 > [!success] 支持者的核心论证
 
-**[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]]的"相对效果"论证**：[[Lars Qvortrup]]（2015, pp.25–27）从支持者立场认为，教育[[Meta-analysis|元分析]]不需要等待所有研究使用完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。他同时承认这种比较的代价是学习结果变得抽象，因此提出[[Dynamic Knowledge and Learning Model]]来区分不同知识形式([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。
+**[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]]的"相对效果"论证**：[[Lars Qvortrup]]（2015, pp.25–27）从支持者立场认为，教育[[Meta-analysis|元分析]]不需要等待所有[[Research Utilization|研究使用]]完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。他同时承认这种比较的代价是学习结果变得抽象，因此提出[[Dynamic Knowledge and Learning Model]]来区分不同知识形式([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。
 
 **Hattie（2009）的关节点论证**：Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和实践者能够在一个统一的标尺上比较不同教育干预的相对效果，从而为政策制定和课堂实践提供"什么最有效"的实证指引。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。
 

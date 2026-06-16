@@ -13,6 +13,7 @@ tags:
   - synthetic-phonics
   - region/uk
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Scientific Method]]"
   - "[[Causality]]"
 related_theories: []
@@ -51,7 +52,7 @@ updated: 2026-05-18
 > [!warning] 核心矛盾
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出 ResearchED 的内在矛盾：
 >
-> - **声称**：赋予教师"声音"，使他们能独立评估研究
+> - **声称**：赋予教师"声音"，使他们能独立[[Evaluation Research|评估研究]]
 > - **实效**：将教师的注意力锁定在单一方法论标准（[[Randomised Controlled Trials|RCT]]）上，同时攻击大学本位的研究——实际上替代了一种权威（大学学术）以另一种符合政府偏好的权威（"证据"标准）
 > - 这在英国的具体体现：ResearchED 反复援引 [[Education Endowment Foundation|EEF]] Toolkit 为权威证据来源，尽管 Toolkit 面临来自方法论学者的日益增多的批评（Simpson 2017, Wrigley 2018）
 

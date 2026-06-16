@@ -22,6 +22,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Analytic Framework]]"
+  - "[[Policy Network]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -86,7 +87,7 @@ updated: 2026-06-16
 ## 分析框架与使用方式
 
 > [!theory-use] 政策解构工具
-> WPR方法作为一种强大的[[Analytic Framework|分析框架]]，帮助研究者跳出政策制定者设定的“问题-解决”闭环。在教育政策研究中，它被广泛用于揭示教育改革背后的“理念编排”（idea orchestration）和新自由主义问责网络的形成（Ozga, 2021）。
+> WPR方法作为一种强大的[[Analytic Framework|分析框架]]，帮助研究者跳出政策制定者设定的“问题-解决”闭环。在教育政策研究中，它被广泛用于揭示教育改革背后的“[[Policy Network|理念编排]]”（idea orchestration）和新自由主义问责网络的形成（Ozga, 2021）。
 > 
 > 例如，在分析标准化教师教育改革时，研究者使用 WPR 方法不仅能够识别政策如何将教师短缺危机窄化表征为“培训质量缺陷”，还能进一步分析这种表征如何为引进外部商业化测试和强力国家审计开路（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])）。
 

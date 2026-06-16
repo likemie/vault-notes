@@ -22,6 +22,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Evidence-Based Education]]"
   - "[[Emergence]]"
+  - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -139,7 +140,7 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 [[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在[[Emergence|涌现]]的政策窗口：
 - **CSR 项目（1998）**：首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **No Child Left Behind（2001）**：全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的因果研究使用[[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+- **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 
 ### 开发-评估-推广范式（Development-Evaluation-Dissemination Paradigm）
 
@@ -351,7 +352,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
 
-- **混合苹果和橙子**：不同性质的研究以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项研究使用不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
+- **混合苹果和橙子**：不同性质的研究以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项[[Research Utilization|研究使用]]不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
 - **效应量失真**：三个系统性偏差来源——(1) 控制组性质不明（一切照旧 vs 零条件）；(2) 研究人口范围受限自动放大效应量（SD在分母中缩小）；(3) 窄化成果测量比一般测量产生更大效应量
 - **研究误读**：Blatchford 的教学助理研究实际揭示的是结构性使用不当，Toolkit 却将其简化为"低影响/高成本"——可在预算削减中被用于错误的人事决策
 - **实证结果错误**：Fresh Start [[Randomised Controlled Trials|RCT]] 声称 +0.24SD 进步在匹配子集分析中消失——"三个月的额外进步"是随机化失败的幻象

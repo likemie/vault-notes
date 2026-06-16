@@ -19,6 +19,7 @@ tags:
   - theme/clinical-research
   - level/higher-education
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Blinding]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Medical Center]]"
@@ -41,7 +42,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 临床试验（Clinical Trial）是以人为研究对象、按预设方案分阶段评估研究性药物、器械、生物制品、基因或细胞疗法安全性、疗效和风险收益比的前瞻性研究。随机双盲临床试验（randomized [[Blinding|double-blind]] clinical trial）被视为确定最有效创新疗法、器械和操作的金标准（p.201）。新药上市须获得监管批准，而监管批准通常要求提供成功临床试验的科学有效性证据（p.201）。
+> 临床试验（Clinical Trial）是以人为研究对象、按预设方案分阶段[[Evaluation Research|评估研究]]性药物、器械、生物制品、基因或细胞疗法安全性、疗效和风险收益比的前瞻性研究。随机双盲临床试验（randomized [[Blinding|double-blind]] clinical trial）被视为确定最有效创新疗法、器械和操作的金标准（p.201）。新药上市须获得监管批准，而监管批准通常要求提供成功临床试验的科学有效性证据（p.201）。
 
 ---
 

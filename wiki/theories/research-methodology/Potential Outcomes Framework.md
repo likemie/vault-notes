@@ -14,6 +14,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -71,7 +72,7 @@ updated: '2026-05-18'
 > 潜在结果框架的一个关键假定是稳定单位处理价值假设（SUTVA），其违反——即主体间干扰（subject interference）——会导致因果效应不再被唯一地定义（详见 [[Stable Unit Treatment Value Assumption]]）。
 
 
-> [!abstract] 在评估研究中的传播
+> [!abstract] 在[[Evaluation Research|评估研究]]中的传播
 > [[Argument_Berk_2011_ER|Berk (2011, p.194)]] 观察到潜在结果公式已逐渐在评估研究实践中取得重要进展，尤其在经济学家中，但进展"非常缓慢"。
 
 ## 与相关概念的区别

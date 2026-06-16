@@ -12,6 +12,7 @@ tags:
 - privatisation
 - region/uk
 related_concepts:
+  - "[[Policy Network]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Network Governance]]"
@@ -34,7 +35,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
+> Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和[[Policy Network|政策网络]]著称。
 
 ## 核心贡献
 
@@ -58,7 +59,7 @@ Ball（2012）将 Mintrom（2000）的政策创业者概念扩展至跨国维度
 
 ### 网络治理
 
-Ball 的工作为理解教育中[[Network Governance|网络治理]]模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
+Ball 的工作为理解教育中[[Network Governance|网络治理]]模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的[[Policy Network|政策网络]]形式所补充或取代。参见 [[Network Governance]]。
 
 ### 教育社会学史与治理视角([[Argument_Ball_2008_SR|Ball, 2008]])
 

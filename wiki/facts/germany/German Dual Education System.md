@@ -15,6 +15,7 @@ tags:
   - subject/vocational-education
   - theme/university-industry-collaboration
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Entrepreneurial University]]"
 related_theories: []
 related_methods: []
@@ -58,7 +59,7 @@ updated: 2026-06-05
 ## 与高等教育的互补
 
 > [!note] 研究型大学与应用技术大学
-> 研究型大学强调"教学与研究相结合"，注重将最新科研成果融入教学实践，鼓励学生尽早参与科研项目。应用技术大学则专注于应用研究和实践技能培养，与行业发展保持紧密联系。部分工业技术大学（如慕尼黑工业大学和柏林工业大学）更将办学定位明确为[[Entrepreneurial University|创业型大学]]，进一步强化教育与产业实践的深度融合（p.48）。
+> 研究型大学强调"教学与研究相结合"，注重将最新科研成果融入教学实践，鼓励学生尽早参与科研项目。应用技术大学则专注于[[Evaluation Research|应用研究]]和实践技能培养，与行业发展保持紧密联系。部分工业技术大学（如慕尼黑工业大学和柏林工业大学）更将办学定位明确为[[Entrepreneurial University|创业型大学]]，进一步强化教育与产业实践的深度融合（p.48）。
 
 ---
 

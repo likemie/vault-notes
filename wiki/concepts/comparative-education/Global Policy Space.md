@@ -23,6 +23,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
   - "[[Methodological Nationalism]]"
+  - "[[Policy Network]]"
 related_theories:
   - "[[Network Society]]"
 related_methods: []
@@ -82,7 +83,7 @@ updated: 2026-06-08
 > [!example]
 > - vs 跨国空间（Transnational Space） — 跨国空间以民族国家为参照（跨国 = 跨越国家之间），仍隐含[[Methodological Nationalism|方法论民族主义]]的预设。全球政策空间则以 Castells 的[[Space of Flows and Space of Places|流动空间]]为参照，不以国家为空间定义的基础([[Argument_Beech_2009_CE|Beech, 2009, pp.348–350]])。
 > - vs 超国家空间（Supranational Space） — Dale（2005）的超国家概念试图以"在国家之上"来超越民族国家框架，但"之上"仍以国家为基准来理解该空间。全球政策空间使用网络而非层级作为空间的组织逻辑（p.349）。
-> - vs 国际关系中的政策网络 — 全球政策空间不是单纯的机构间网络，而是由流动空间逻辑和[[Performativity|操演性]]原则共同塑造的一种特定社会空间形态，其中话语的生产方式受到空间属性的约束。
+> - vs 国际关系中的[[Policy Network|政策网络]] — 全球政策空间不是单纯的机构间网络，而是由流动空间逻辑和[[Performativity|操演性]]原则共同塑造的一种特定社会空间形态，其中话语的生产方式受到空间属性的约束。
 
 ---
 

@@ -15,6 +15,7 @@ tags:
   - theme/university-industry-collaboration
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Evaluation Research]]"
   - "[[Innovation Park]]"
 related_theories: []
 related_methods: []
@@ -59,7 +60,7 @@ updated: 2026-06-05
 ## 人才培育
 
 > [!info]
-> 瑞士颁布《联邦理工大学法》和《联邦职业教育法》，构建独具特色的"三元制"职业教育模式，持续完善多层次、多元化的人才培养体系，为基础研究和应用研究奠定人才基础。
+> 瑞士颁布《联邦理工大学法》和《联邦职业教育法》，构建独具特色的"三元制"职业教育模式，持续完善多层次、多元化的人才培养体系，为基础研究和[[Evaluation Research|应用研究]]奠定人才基础。
 
 ---
 

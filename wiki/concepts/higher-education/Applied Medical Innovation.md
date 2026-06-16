@@ -16,6 +16,7 @@ tags:
   - "theme/innovation"
   - "level/higher-education"
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Clinical Trial]]"
   - "[[University-Industry Collaboration]]"
   - "[[Physician-Scientist]]"
@@ -53,7 +54,7 @@ updated: 2026-06-02
 
 ### 医学翻译循环（Cycle of Medical Translation）
 
-AMI 通过一个闭环反馈回路实现从需求到解决方案的转化（pp.176–178, Fig. 10.1）：临床需求识别 → 发现研究（discovery research）→ 发明（invention）→ 应用研究（applied research）→ 产品开发 → 临床前验证（preclinical validation）→ [[Clinical Trial|临床试验]]（clinical trials）→ 试点部署（piloting）与提供者教育（provider education）→ 质量与安全评估 → 规模化部署 → 反馈回新的临床需求。
+AMI 通过一个闭环反馈回路实现从需求到解决方案的转化（pp.176–178, Fig. 10.1）：临床需求识别 → 发现研究（discovery research）→ 发明（invention）→ [[Evaluation Research|应用研究]]（applied research）→ 产品开发 → 临床前验证（preclinical validation）→ [[Clinical Trial|临床试验]]（clinical trials）→ 试点部署（piloting）与提供者教育（provider education）→ 质量与安全评估 → 规模化部署 → 反馈回新的临床需求。
 
 循环的每一步深度依赖不同类型的[[University-Industry Collaboration|产学合作]]：临床需求识别发生在医院；发现研究和应用研究在大学和研究机构中进行；产品开发与临床前验证依赖产业伙伴支持；教育和技术扩散从研究机构和大学流向医院。循环隐含两个不可或缺的要素：有效的产学伙伴关系和[[Physician-Scientist|医师科学家]]（Physician-Scientist）（pp.177–178）。
 

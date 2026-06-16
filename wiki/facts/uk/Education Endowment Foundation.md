@@ -16,8 +16,10 @@ tags:
 related_concepts:
   - "[[What Works Movement]]"
   - "[[Learning Gap]]"
+  - "[[Scientific Method]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
+  - "[[Policy Network]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -58,6 +60,7 @@ updated: 2026-06-16
 > - 2018 EEF 启动了为期五年、旨在向全球输出标准化证据治理体系的“在教学中构建全球证据生态系统”（Building a global evidence ecosystem in teaching）扩张计划。该计划由澳大利亚跨国矿业巨头必和必拓集团旗下的**[[BHP Foundation|必和必拓基金会]]**注资，核心目标是在各伙伴国建立“EEF式”的本地证据组织。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - 2018–2020 EEF 积极渗透澳大利亚的“什么有效”实验，通过联合资助澳大利亚社会风险投资公司（Social Ventures Australia）旗下的子公司“学习证据”（Evidence for Learning, E4L），将 EEF 的证据评估模型平移复制到澳洲本土。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - 2020 随着澳大利亚国家教育研究组织（[[Australian Education Research Organisation|AERO]]）正式设立，EEF 创始人柯林斯爵士直接获任 AERO 专家委员会成员，形成了跨国治理的人事交叉和知识的制度化衔接。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - 2023 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》（*Cognitive science approaches in the classroom*），积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学实践。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 
@@ -71,7 +74,7 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **跨国政策网络构建**：EEF 通过在美、澳、新等多国扶植镜像组织，成功地将英国的话语体系转化为全球证据标准，成为跨国“理念编排”（idea orchestration）的制度化中介。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **跨国[[Policy Network|政策网络]]构建**：EEF 通过在美、澳、新等多国扶植镜像组织，成功地将英国的话语体系转化为全球证据标准，成为跨国“理念编排”（idea orchestration）的制度化中介。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **研究大纲标准化**：在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学文献被直接列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **生物学化与认知学霸权**：极力推广认知心理学和脑科学作为课堂“什么有效”的唯一定理（例如促进[[Cognitive Load Theory|认知负荷理论]]的政策化落地），边缘化了关注社会背景和反思实践的经典教育学说。
 

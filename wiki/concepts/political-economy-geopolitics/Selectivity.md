@@ -22,6 +22,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Spatial Sortings]]"
   - "[[Neocorporatism]]"
+  - "[[Policy Network]]"
   - "[[Scientization of Politics]]"
 related_theories: []
 related_methods: []
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 
 ### 制度传统对选择性的缓冲效应
 
-在德国和 [[Neocorporatism]] 传统较强的邻国，政策网络包含政府、雇主协会和工会等传统伙伴，选择性在一定程度上被制度多元性所缓冲——多元行动者的参与使更多维度的政策考量得以进入议程([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])。
+在德国和 [[Neocorporatism]] 传统较强的邻国，[[Policy Network|政策网络]]包含政府、雇主协会和工会等传统伙伴，选择性在一定程度上被制度多元性所缓冲——多元行动者的参与使更多维度的政策考量得以进入议程([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])。
 
 ### 制度薄弱环境中选择性的放大效应
 

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Literature Review]]"
   - "[[Professional Judgment]]"
+  - "[[Evaluation Research]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Tullock's Bureaucracy Theory]]"
@@ -91,7 +92,7 @@ citation_aliases:
 > - 教师呼吁建立批判性审视研究证据的实践社群，而非被动接受学术指导(p.33)
 > - [[Ofsted]] 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学，构成 EBP 实施的制度性障碍(p.37-38)
 > - CPD 现状令人不满：传统"做给你看"模式无效，更有效的是每周固定时段的校内持续性专业发展(p.39)
-> - 许多教师缺乏研究方法训练，无法批判性评估研究证据(p.44-45)
+> - 许多教师缺乏研究方法训练，无法批判性[[Evaluation Research|评估研究]]证据(p.44-45)
 
 ## 关键引用
 

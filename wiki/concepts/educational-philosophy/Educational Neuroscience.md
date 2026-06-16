@@ -17,9 +17,13 @@ tags:
   - learning-science
   - cognitive-science
   - policy-analysis
-related_concepts: []
+related_concepts:
+  - "[[What Works Movement]]"
+  - "[[Working Memory]]"
+  - "[[Scientific Method]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Functional Magnetic Resonance Imaging]]"
 related_persons:
   - "[[Lev Vygotsky]]"
 related_facts:

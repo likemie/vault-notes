@@ -20,6 +20,7 @@ related_concepts:
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
   - "[[Response Bias]]"
   - "[[Descriptive Analysis]]"
@@ -84,7 +85,7 @@ updated: 2026-05-31
 > - **工具的信度**：报告分数的[[Internal Consistency and Cronbach's Alpha|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值 .7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α = .84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）**：当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
 > - **工具内容**：包括封面信（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
-> - **[[Pilot Testing|试点测试]]（Pilot Testing）**：评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时评估研究耗时和受试者疲劳风险。说明测试人数和修改计划（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **[[Pilot Testing|试点测试]]（Pilot Testing）**：评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **调查施测**：邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
 
 ### 变量

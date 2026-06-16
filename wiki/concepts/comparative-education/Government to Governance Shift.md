@@ -20,6 +20,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Global-Local Binary]]"
   - "[[Policy Borrowing]]"
+  - "[[Policy Network]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []
@@ -74,7 +75,7 @@ updated: 2026-06-07
 
 > [!example]
 > - vs [[Policy Borrowing|政策借用]] — 政策借用倾向于只关注国家政策。从统治到治理的转变表明，权力的部署方式已经多样化，只关注国家政策会错过大部分机制。
-> - vs [[Network Governance|网络治理]] — 网络治理是分析这一转变的具体概念工具，关注政策网络和治理的变化。从统治到治理的转变是更广泛的现象描述。
+> - vs [[Network Governance|网络治理]] — 网络治理是分析这一转变的具体概念工具，关注[[Policy Network|政策网络]]和治理的变化。从统治到治理的转变是更广泛的现象描述。
 > - vs [[Actor-Network Theory|行动者网络理论]] — ANT 提供了追踪多元行动者网络的方法论工具，有助于使绕过国家政策的权力关系变得可见。
 
 ---

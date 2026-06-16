@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Research Translation]]"
   - "[[Research and Technology Organisation]]"
+  - "[[Evaluation Research]]"
   - "[[Proof of Concept Programs]]"
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
@@ -56,7 +57,7 @@ updated: 2026-06-10
 > 峰会上讨论的桥接死亡之谷的主要机制包括（pp.10–11）：
 
 - **新的组织载体（organisational vehicles）**：大学、企业和政府机构正在实验各种创新组织形式来桥接死亡之谷。这些结构可以承载传统大学结构中难以进行的转化性研发活动，灵活雇佣不同专业背景的科学家、工程师和技术人员，并部署不同类型的设施、设备和数据安全措施
-- **[[Research and Technology Organisation|研究与技术组织]]（RTOs）**：如英国的 Catapult、德国的 Fraunhofer 研究所和美国的 [[Manufacturing USA]] 研究所——通过开展应用研究、为企业提供技术问题解决服务和发展劳动力来桥接学术研究与产业应用之间的鸿沟（pp.33–34）
+- **[[Research and Technology Organisation|研究与技术组织]]（RTOs）**：如英国的 Catapult、德国的 Fraunhofer 研究所和美国的 [[Manufacturing USA]] 研究所——通过开展[[Evaluation Research|应用研究]]、为企业提供技术问题解决服务和发展劳动力来桥接学术研究与产业应用之间的鸿沟（pp.33–34）
 - **有针对性的商业化支持**：大学通过[[Proof of Concept Programs|概念验证项目]]、[[Innovation Hub|创新中心]]和本地[[Innovation Ecosystem|创新生态系统]]建设，为技术从实验室向市场过渡提供系统性支持（pp.8–10）
 
 > [!warning]

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
+  - "[[Research Utilization]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
@@ -59,7 +60,7 @@ updated: 2026-06-03
 ## 概念演变
 
 > [!note]
-> 当前 vault 中可确认的知识动员演变线索，主要集中在教育研究利用与安大略学校改进语境中：
+> 当前 vault 中可确认的知识动员演变线索，主要集中在教育[[Research Utilization|研究利用]]与安大略学校改进语境中：
 >
 > - **2010s** — 在[[Evidence-Informed Practice|证据知情实践]]讨论中，KMb 被用来解释“研究-实践鸿沟”不只是供给或需求问题，而是中介、传播和组织条件问题([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127, 130–131]])。
 > - **2015** — [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 KMb 放进北欧 [[Visible Learning]] 支持路径中，用来说明学校改进的难点不在“有没有研究”，而在“研究怎样进入课堂并变成教师行动”([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。

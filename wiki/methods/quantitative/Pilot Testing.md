@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Study Population and Sample]]"
+  - "[[Evaluation Research]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Variable]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: 2026-05-31
 1. 招募少量与正式研究[[Study Population and Sample|目标总体]]特征相似的受试者。
 2. 在接近正式研究的条件下施测全部研究材料和程序。
 3. 收集中间过程的反馈——包括受试者对问题理解、格式清晰度、说明完整性的意见。
-4. 评估研究总耗时和受试者疲劳风险——一次过长的测试可能导致正式研究中退出率升高。
+4. [[Evaluation Research|评估研究]]总耗时和受试者疲劳风险——一次过长的测试可能导致正式研究中退出率升高。
 5. 对试点数据检查条目[[Internal Consistency and Cronbach's Alpha|内部一致性]]（Cronbach's α）。
 6. 基于试点反馈修订问题措辞、量表格式、施测说明和程序流程。
 
@@ -63,7 +64,7 @@ updated: 2026-05-31
 > - 使用新开发或修改过的调查工具时。
 > - [[Experimental Research|实验研究]]中使用新的处理材料和程序时。
 > - 目标受试者群体与工具原始开发样本可能有显著差异时。
-> - 需要预先评估研究总耗时和受试者负担时。
+> - 需要预先[[Evaluation Research|评估研究]]总耗时和受试者负担时。
 
 ## 局限性
 

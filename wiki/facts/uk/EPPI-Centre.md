@@ -15,6 +15,7 @@ tags:
   - theme/systematic-review
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Transfer Translation Transformation]]"
   - "[[External Validity]]"
@@ -44,7 +45,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> EPPI-Centre 的核心任务有两类：发展[[Systematic Review|系统综述]]研究证据的方法，开展不同领域研究的系统综述。除此之外，它还研究证据如何进入政策、实践和日常生活中的决策，并为研究使用提供指导([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> EPPI-Centre 的核心任务有两类：发展[[Systematic Review|系统综述]]研究证据的方法，开展不同领域研究的系统综述。除此之外，它还研究证据如何进入政策、实践和日常生活中的决策，并为[[Research Utilization|研究使用]]提供指导([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 时间线
 

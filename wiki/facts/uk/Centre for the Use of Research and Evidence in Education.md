@@ -14,6 +14,7 @@ tags:
   - theme/evidence-informed-practice
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"
@@ -35,7 +36,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Centre for the Use of Research and Evidence in Education（CUREE）是英国面向研究使用和证据传播的机构。它的核心目标是把研究报告和出版物转化为教师与政策制定者容易理解的语言，以及可以在真实学校情境中使用的材料([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> Centre for the Use of Research and Evidence in Education（CUREE）是英国面向[[Research Utilization|研究使用]]和证据传播的机构。它的核心目标是把研究报告和出版物转化为教师与政策制定者容易理解的语言，以及可以在真实学校情境中使用的材料([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 政策文本摘要
 
@@ -60,7 +61,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> CUREE 的传播功能能够降低研究使用门槛，但并不能替代对证据适用条件的判断。关于欧洲证据复用和情境适配的限制，详见 [[Argument_Pellegrini_2021_ROE]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
+> CUREE 的传播功能能够降低[[Research Utilization|研究使用]]门槛，但并不能替代对证据适用条件的判断。关于欧洲证据复用和情境适配的限制，详见 [[Argument_Pellegrini_2021_ROE]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
 
 ## 相关概念／理论
 

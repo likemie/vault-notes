@@ -12,6 +12,7 @@ tags:
   - theme/industrial-economics
   - theme/taxonomy
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Analytic Framework]]"
@@ -24,6 +25,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"
+  - "[[Centre for Independent Studies]]"
   - "[[Sectoral Innovation Database]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
@@ -65,7 +67,7 @@ updated: 2026-06-10
 ### 修订版 Pavitt 分类法（2016）
 
 > [!abstract]
-> Bogliacino 和 Pianta（2016）基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，CIS） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。研究使用主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
+> Bogliacino 和 Pianta（2016）基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，[[Centre for Independent Studies|CIS]]） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。[[Research Utilization|研究使用]]主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
 
 > [!success] 修订版的主要贡献
 > - **保留原始四类的核心结构**：实证检验确认 Pavitt 的四个类别在不同国家和时间段仍然稳健，能够解释产业间创新模式的主要差异
@@ -99,7 +101,7 @@ updated: 2026-06-10
 > - **创新来源维度**：不同 Pavitt 类别在内部研发支出、外部知识获取和设备采购等创新投入上呈现显著差异
 > - **创新目标维度**：科学基础型以产品创新为主，规模与信息密集型以流程创新为主，专业供应商型在两者之间平衡
 > - **创新产出维度**：科学基础型在专利和新产品占比上显著高于其他类别
-> - **跨国家与跨时间稳定性**：主成分分析和回归结果在七个国家和三轮 社区创新调查（[[Community Innovation Survey]]，CIS） 调查中保持稳定，表明分类法具有跨情境的通用性
+> - **跨国家与跨时间稳定性**：主成分分析和回归结果在七个国家和三轮 社区创新调查（[[Community Innovation Survey]]，[[Centre for Independent Studies|CIS]]） 调查中保持稳定，表明分类法具有跨情境的通用性
 
 > [!info] 数据与方法
 > 研究基于 Sectoral Innovation Database（SID），涵盖三轮社区创新调查（CIS 2、3、4），覆盖 22 个制造业和 17 个服务业的两位数 NACE 行业。分析方法包括主成分分析（检验创新维度的分组有效性）和回归分析（检验分组在创新-绩效关系中的解释力）。数据按两位数 NACE 行业（Rev. 1）聚合（pp.165-170）。

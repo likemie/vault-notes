@@ -13,7 +13,9 @@ tags:
 - oeri
 - region/us
 related_concepts:
+  - "[[Research Utilization]]"
   - "[[Paradigm]]"
+  - "[[Evaluation Research]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -44,7 +46,7 @@ updated: '2026-06-08'
 >
 > 2. **早期儿童项目随机化评估的 RFP**：Whitehurst 发布了一份被 [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]] 称为"本身就是一份革命性文件"的征求建议书（RFP），邀请早期儿童项目接受由第三方评估者收集数据的随机化评估。
 >
-> 3. **战略计划 2002–2007**：制定了到 2004 年 75% 的 OERI 资助的因果研究使用[[Random Assignment|随机分配]]设计的目标——当时该比例估计不足 5%。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> 3. **战略计划 2002–2007**：制定了到 2004 年 75% 的 OERI 资助的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计的目标——当时该比例估计不足 5%。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 >
 > > Whitehurst 的行动标志着联邦教育研究政策的分水岭——从宽松的"方法多元"[[Paradigm|范式]]转向以 RCT 为中心的严格证据等级制。
 
@@ -53,7 +55,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - **教育科学研究所（IES）的建立**：Whitehurst 领导了将 OERI 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
 > - **[[What Works Clearinghouse]]（[[What Works Clearinghouse|WWC]]）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
-> - **学前课程评估研究拨款项目**：首个大规模要求随机化评估的联邦教育研究拨款
+> - **学前课程[[Evaluation Research|评估研究]]拨款项目**：首个大规模要求随机化评估的联邦教育研究拨款
 
 ## 主要著作
 

@@ -9,6 +9,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Multimethod Research]]"
   - "[[Paradigm Wars]]"
+  - "[[Research Utilization]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
   - "[[Ontology]]"
@@ -115,7 +116,7 @@ updated: 2026-06-14
 > - **2007** Journal of Mixed Methods Research 创刊
 > - **2014** [[Mixed Methods International Research Association|MMIRA]]（Mixed Methods International Research Association）成立
 > - **2020** APA 出版手册首次纳入混合方法研究标准
-> - **至今** 各领域大量实证研究使用混合方法（Molina-Azorin & Fetters, 2022）
+> - **至今** 各领域大量实证[[Research Utilization|研究使用]]混合方法（Molina-Azorin & Fetters, 2022）
 
 ---
 

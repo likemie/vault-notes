@@ -14,6 +14,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Convergence Research]]"
+  - "[[Evaluation Research]]"
   - "[[Responsible Innovation]]"
 related_theories: []
 related_methods:
@@ -46,7 +47,7 @@ updated: 2026-06-10
 > - 识别和传播最佳实践
 > - 识别和缓解大学及伙伴开展此类活动的障碍
 
-PIR 的核心主张是："基础"与"应用"研究的区分已经过时——问题常常不是研究是否会产生影响，而是何时产生影响。该概念试图传达：越来越多的基础和应用研究是与公众合作并为公众服务的。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 40-41)]]
+PIR 的核心主张是："基础"与"应用"研究的区分已经过时——问题常常不是研究是否会产生影响，而是何时产生影响。该概念试图传达：越来越多的基础和[[Evaluation Research|应用研究]]是与公众合作并为公众服务的。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 40-41)]]
 
 ---
 ## 相关概念／政策

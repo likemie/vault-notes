@@ -14,6 +14,7 @@ tags:
   - theme/network-society
   - theory/postmodernism
 related_concepts:
+  - "[[Policy Network]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity of Measurement]]"
   - "[[Global Policy Space]]"
@@ -41,7 +42,7 @@ updated: 2026-06-09
 ## 定义
 
 > [!info] 核心定义
-> 操演性（performativity）是 [[Jean-François Lyotard]]（1984）在《后现代状况》中提出的概念，指一种以输入和输出逻辑为核心的社会运作原则。社会系统持续被评估表现，最终目标是优化其产出。该原则渗透社会关系时带来一种恐怖，表达为"要么可操作（即可通约），要么消失"。在教育研究中，[[Argument_Beech_2009_CE|Beech (2009)]]将操演性引入全球教育政策空间的分析，用以解释为什么参与全球政策网络的机构以影响力广度为评估标准、以[[Pragmatic Paradigm|实用主义]]压倒意识形态来决定协作与竞争。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]]
+> 操演性（performativity）是 [[Jean-François Lyotard]]（1984）在《后现代状况》中提出的概念，指一种以输入和输出逻辑为核心的社会运作原则。社会系统持续被评估表现，最终目标是优化其产出。该原则渗透社会关系时带来一种恐怖，表达为"要么可操作（即可通约），要么消失"。在教育研究中，[[Argument_Beech_2009_CE|Beech (2009)]]将操演性引入全球教育政策空间的分析，用以解释为什么参与[[Policy Network|全球政策网络]]的机构以影响力广度为评估标准、以[[Pragmatic Paradigm|实用主义]]压倒意识形态来决定协作与竞争。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]]
 
 > [!quote]
 > "The principle of performativity implies a logic of input/output in which the final objective is to optimise the performance of a given social system. The pervasion of this principle through social relations implies a certain level of terror expressed in the phrase 'be operational (that is, commensurable) or disappear'." [[Argument_Beech_2009_CE|(Lyotard, 1984, p. xxiv, 引自 Beech, 2009, p. 352)]]

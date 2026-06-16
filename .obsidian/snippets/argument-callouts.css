@@ -7756,4 +7756,26 @@
   .callout[data-callout="thought-timeline"] > .callout-content > ul::before {
     left: 0.72rem;
   }
+
+  .callout[data-callout="timeline"] > .callout-content > ul > li::before,
+  .callout[data-callout="work-line"] > .callout-content > ul > li::before,
+  .callout[data-callout="thought-timeline"] > .callout-content > ul > li::before {
+    left: -1.78rem;
+  }
+
+  .callout[data-callout="dev-timeline"] .callout-content > ol > li::before {
+    left: -1.96rem;
+  }
+
+  .callout[data-callout="timeline"] > .callout-content > ul > li::after,
+  .callout[data-callout="work-line"] > .callout-content > ul > li::after,
+  .callout[data-callout="thought-timeline"] > .callout-content > ul > li::after {
+    left: -1.05rem;
+    width: 0.95rem;
+  }
+
+  .callout[data-callout="dev-timeline"] .callout-content > ol > li::after {
+    left: -0.86rem;
+    width: 0.82rem;
+  }
 }

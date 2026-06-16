@@ -14,6 +14,7 @@ tags:
   - "policy/agricultural-extension"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
@@ -37,7 +38,7 @@ updated: 2026-05-27
 > [!info]
 Hatch Act of 1887 是美国联邦立法，在 [[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）建立的赠地大学体系中进一步设立了农业实验站（agricultural experiment stations），直接服务于农场和食品加工者（farms and food processors）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.51]]）。
 
-Hatch Act 的意义在于：它比 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地大学的实践教育使命）更进一步，在大学内部建立了直接面向产业需求的制度化研发机构。如果说 Morrill Act 的核心是"教"，Hatch Act 的核心是"研"——而且是直接服务于农业和制造业现代化的应用研究。
+Hatch Act 的意义在于：它比 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地大学的实践教育使命）更进一步，在大学内部建立了直接面向产业需求的制度化研发机构。如果说 Morrill Act 的核心是"教"，Hatch Act 的核心是"研"——而且是直接服务于农业和制造业现代化的[[Evaluation Research|应用研究]]。
 
 ## 在产学合作历史中的位置
 

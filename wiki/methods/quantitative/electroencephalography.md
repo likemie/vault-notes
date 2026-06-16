@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
@@ -59,5 +60,5 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 
 ## 相关研究
 
-- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项研究使用 EEG 检验 [[Executive Function|EF]] 发展中的 [[Prefrontal Cortex|PFC]] 激活
+- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项[[Research Utilization|研究使用]] EEG 检验 [[Executive Function|EF]] 发展中的 [[Prefrontal Cortex|PFC]] 激活
 

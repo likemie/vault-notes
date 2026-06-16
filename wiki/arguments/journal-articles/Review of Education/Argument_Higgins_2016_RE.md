@@ -28,6 +28,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Visible Learning]]"
   - "[[Abstract]]"
+  - "[[Evaluation Research]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
@@ -393,7 +394,7 @@ Toolkit 的灵感来自多个来源(pp.47–48)。
 
 ### 23. 从"什么有效"到"什么曾经有效"
 
-Toolkit 和 Visible Learning 中跨所有领域的效果变异表明，元综合永远无法精确预测在任何新情境中应用研究发现将产生什么效果(p.49)。
+Toolkit 和 Visible Learning 中跨所有领域的效果变异表明，元综合永远无法精确预测在任何新情境中[[Evaluation Research|应用研究]]发现将产生什么效果(p.49)。
 
 > [!abstract] 元综合的正确定位
 > 元综合不能提供"什么有效"的确定性声明。它试图提供的是基于现有证据对"什么可能有益"的最佳估计。这些研究总结了"什么曾经有效"，作为未来"什么可能有效"的指示或"最佳赌注"。但效果的分布（而不仅是平均值）都应被考虑(p.49)。

@@ -14,6 +14,7 @@ tags:
   - theme/evaluation
   - theme/competition
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Quasi-markets in Higher Education]]"
 related_theories: []
 related_methods: []
@@ -41,7 +42,7 @@ updated: 2026-06-01
 ## 政策演变：纳入影响评估
 
 > [!abstract]
-> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 REF 置于更广泛的国际政策转向背景下——从"资助科学"转向"催化影响"。REF 现在不仅评估学术产出的学术标准（outputs），还评估研究组合的**影响**（impact）。学者在资助申请中被要求阐明**影响路径**（pathways to impact）。这一变化反映了资助者日益认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.5-6]])。
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 REF 置于更广泛的国际政策转向背景下——从"资助科学"转向"催化影响"。REF 现在不仅评估学术产出的学术标准（outputs），还[[Evaluation Research|评估研究]]组合的**影响**（impact）。学者在资助申请中被要求阐明**影响路径**（pathways to impact）。这一变化反映了资助者日益认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.5-6]])。
 
 ---
 

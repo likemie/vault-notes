@@ -40,6 +40,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Responsible Innovation]]"
   - "[[Research and Technology Organisation]]"
+  - "[[Evaluation Research]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Professors of Practice]]"
   - "[[Literature Review]]"
@@ -403,7 +404,7 @@ updated: 2026-06-10
 
 > [!abstract] 创新挑战不止于技术——RTO 的多重功能
 > 应对产业和社会创新挑战往往不仅涉及解决技术难题和推动技术向实际应用发展，还需要解决一系列其他瓶颈：
-> - 开展必要的应用研究以桥接学术研究与产业应用
+> - 开展必要的[[Evaluation Research|应用研究]]以桥接学术研究与产业应用
 > - 为企业提供技术问题解决服务
 > - 发展企业和供应链的劳动力以吸收和部署新兴技术
 > - 开发新的生产工具和技术
