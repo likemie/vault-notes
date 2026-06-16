@@ -70,7 +70,7 @@ updated: 2026-06-16
 
 ### Tandon 的理想 PR 步骤
 
-> [!timeline] Tandon（2005c: 30）的 PR 步骤序列（Figure 2.1）
+> [!timeline-compact] Tandon（2005c: 30）的 PR 步骤序列（Figure 2.1）
 > - 社区识别自身问题
 > - 社区与研究者建立平等伙伴关系
 > - 集体设计研究方案

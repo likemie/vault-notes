@@ -2645,21 +2645,6 @@
   z-index: 1;
 }
 
-/* 节点间箭头 — 每个节点圆点下方加一个小三角 */
-.callout[data-callout="timeline"] .callout-content ul > li:not(:last-child)::after {
-  content: "";
-  position: absolute;
-  left: calc(-1.59rem + 4px);
-  top: calc(0.78rem + 8px + 1px);
-  transform: translateX(-50%);
-  width: 0;
-  height: 0;
-  border-left: 4.5px solid transparent;
-  border-right: 4.5px solid transparent;
-  border-top: 6px solid rgba(72, 95, 145, 0.45);
-  z-index: 2;
-}
-
 /* ─── 年份徽章 — li 内首个 strong ───────────────────
    适配格式：- **1978–1979**：正文
    **1980s**：正文 */
@@ -2742,6 +2727,127 @@
     0 0 0 4.5px rgba(72, 95, 145, 0.18);
 }
 
+
+/* ─── timeline-compact（紧凑型流程时间线 — 底端箭头收束） ─── */
+.callout[data-callout="timeline-compact"] {
+  --tc-rgb: 85, 125, 160;
+  --callout-color: 85, 125, 160;
+  --callout-icon: lucide-arrow-down-to-line;
+  background: linear-gradient(155deg,
+    rgba(85, 125, 160, 0.045) 0%,
+    rgba(85, 125, 160, 0.01) 70%
+  ), var(--background-primary);
+  border: 1px solid rgba(85, 125, 160, 0.16);
+  border-left: 3px solid rgb(85, 125, 160);
+  border-radius: 8px;
+  padding: 0.55rem 0.8rem 0.55rem;
+}
+
+.callout[data-callout="timeline-compact"] > .callout-title {
+  font-size: 0.82em;
+  color: rgb(70, 105, 140);
+  padding-bottom: 0.25rem;
+}
+
+/* 列表 — 紧凑轨道 */
+.callout[data-callout="timeline-compact"] .callout-content ul {
+  list-style: none;
+  padding-left: 1.85rem;
+  margin: 0.15rem 0 0;
+  position: relative;
+}
+
+/* 垂直轨道线 — 顶部断口，底部收于箭头 */
+.callout[data-callout="timeline-compact"] .callout-content ul::before {
+  content: "";
+  position: absolute;
+  left: 0.48rem;
+  top: 0.5rem;
+  bottom: 1.2rem;
+  width: 1.5px;
+  border-radius: 1px;
+  background: linear-gradient(
+    to bottom,
+    rgba(85, 125, 160, 0.45) 0%,
+    rgba(85, 125, 160, 0.45) 92%,
+    rgba(85, 125, 160, 0)   100%
+  );
+}
+
+/* 底端箭头 — 收束标志 */
+.callout[data-callout="timeline-compact"] .callout-content ul::after {
+  content: "";
+  position: absolute;
+  left: calc(0.48rem - 3.5px);
+  bottom: 0.2rem;
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 7px solid rgba(85, 125, 160, 0.55);
+  z-index: 2;
+}
+
+/* 节点条目 — 紧凑 */
+.callout[data-callout="timeline-compact"] .callout-content ul > li {
+  position: relative;
+  padding: 0.22rem 0.45rem 0.22rem 0.35rem;
+  margin-bottom: 0.04rem;
+  border-radius: 4px;
+  font-size: 0.875em;
+  line-height: 1.55;
+  transition: background 0.14s ease;
+}
+
+.callout[data-callout="timeline-compact"] .callout-content ul > li:hover {
+  background: rgba(85, 125, 160, 0.06);
+}
+
+/* 节点圆点 — 小巧 */
+.callout[data-callout="timeline-compact"] .callout-content ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.40rem;
+  top: 0.62rem;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgb(85, 125, 160);
+  box-shadow:
+    0 0 0 2px color-mix(in srgb, var(--background-primary) 82%, rgb(85, 125, 160) 18%),
+    0 0 0 3.5px rgba(85, 125, 160, 0.12);
+  z-index: 1;
+}
+
+/* 子标题 — 紧凑徽章 */
+.callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-child {
+  display: inline-block;
+  padding: 0.04em 0.42em 0.06em;
+  margin-right: 0.28em;
+  border-radius: 3px;
+  background: rgb(85, 125, 160);
+  color: #fff;
+  font-size: 0.78em;
+  font-weight: 700;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+
+/* 暗模式 */
+.theme-dark .callout[data-callout="timeline-compact"] {
+  background: linear-gradient(155deg,
+    rgba(85, 125, 160, 0.10) 0%,
+    rgba(85, 125, 160, 0.03) 70%
+  ), var(--background-primary);
+}
+.theme-dark .callout[data-callout="timeline-compact"] > .callout-title {
+  color: rgb(120, 160, 200);
+}
+.theme-dark .callout[data-callout="timeline-compact"] .callout-content ul > li::before {
+  box-shadow:
+    0 0 0 2px color-mix(in srgb, var(--background-primary) 70%, rgb(85, 125, 160) 30%),
+    0 0 0 3.5px rgba(85, 125, 160, 0.22);
+}
 
 /* ═══════════════════════════════════════════════════════════
    [!phase]  历史阶段叙事块

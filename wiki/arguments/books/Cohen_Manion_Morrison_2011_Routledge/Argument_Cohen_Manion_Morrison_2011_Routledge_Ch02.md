@@ -357,7 +357,7 @@ Tyler（1949）的课程四问原理如下：
 > [!example]- 图2.1：理想参与式研究方法的步骤（Tandon, 2005: 30）
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_2-1_Steps_in_Participatory_Research.jpg)
 
-> [!timeline] Tandon（2005: 30）的理想 PR 步骤序列（Figure 2.1）
+> [!timeline-compact] Tandon（2005: 30）的理想 PR 步骤序列（Figure 2.1）
 > - 社区识别自身问题
 > - 社区与研究者建立平等伙伴关系
 > - 集体设计研究方案
@@ -381,8 +381,7 @@ Hall（2005: 17–19）提出的六条原则完整地表述了 PR 的[[Axiology|
 
 BRYCESON 等（2005: 183）将 PR 概括为**三管齐下的活动**：社会调查方法（以社区充分和积极参与的方式进行）、发展行动手段、以及动员发展的教育过程，三者紧密交织（p.163）。
 
-> [!warning] PR 的内部模糊性与风险
-> Brown（2005）指出 PR 在四个关键方面存在根本模糊性：
+> [!quad-grid] Brown（2005）：PR 的四个模糊性维度
 > - **研究目标**：是社会变革、意识提升、发展工作，还是挑战传统研究范式？不同的目标指向完全不同的实践。
 > - **研究者-参与者关系**：可能过度强调相似性而忽视差异。PR 挑战现有权力结构，参与者可能面临**实质性风险**（Brown and Tandon, 2005: 65）。
 > - **方法和技术**：PR 对传统方法的过度批判可能使其忽视那些实际上能为 PR 利益服务的方法；同时 PR 自身缺乏明确的数据收集方法。
