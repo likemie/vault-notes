@@ -21,6 +21,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Strong Beginnings Report]]"
+  - "[[Centre for Evidence and Implementation]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
@@ -62,7 +63,7 @@ updated: 2026-06-06
 ## 争议与评论
 
 > [!warning]
-> - AERO委托的"what works"桌面审查由外部机构CEI完成，基于"有限的澳大利亚证据"
+> - AERO委托的"what works"桌面审查由外部机构[[Centre for Evidence and Implementation|CEI]]完成，基于"有限的澳大利亚证据"
 > - 该审查的"专家"主要来自CEI自身组织和"what works"机构，代表性有限
 > - AERO作为证据中介组织，在政策制定中获得了越来越大的影响力，但其证据基础和利益关联受到质疑
 

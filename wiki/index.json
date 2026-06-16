@@ -7690,6 +7690,14 @@
     ]
   },
   {
+    "title": "John Sweller",
+    "type": "person",
+    "path": "wiki/persons/australia/John Sweller.md",
+    "aliases": [
+      "约翰·斯威勒"
+    ]
+  },
+  {
     "title": "Scott Eacott",
     "type": "person",
     "path": "wiki/persons/australia/Scott Eacott.md",
@@ -9205,6 +9213,23 @@
     ]
   },
   {
+    "title": "BHP Foundation",
+    "type": "fact",
+    "path": "wiki/facts/australia/BHP Foundation.md",
+    "aliases": [
+      "必和必拓基金会"
+    ]
+  },
+  {
+    "title": "Centre for Evidence and Implementation",
+    "type": "fact",
+    "path": "wiki/facts/australia/Centre for Evidence and Implementation.md",
+    "aliases": [
+      "CEI",
+      "证据与实施中心"
+    ]
+  },
+  {
     "title": "Australian Council for Educational Research",
     "type": "fact",
     "path": "wiki/facts/australia/Australian Council for Educational Research.md",
@@ -9745,7 +9770,6 @@
     "path": "wiki/facts/eu/Comparative Education Society in Europe.md",
     "aliases": [
       "欧洲比较教育学会",
-      "CESE",
       "欧洲比较教育学会成立"
     ]
   },

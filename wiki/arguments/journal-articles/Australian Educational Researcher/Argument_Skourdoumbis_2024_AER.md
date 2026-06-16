@@ -33,7 +33,8 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
-related_persons: []
+related_persons:
+  - "[[John Sweller]]"
 related_facts:
   - "[[Strong Beginnings Report]]"
   - "[[TEMAG]]"
@@ -42,8 +43,9 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[Community Innovation Survey]]"
   - "[[OECD]]"
-  - "[[Comparative Education Society in Europe]]"
   - "[[Education Endowment Foundation]]"
+  - "[[BHP Foundation]]"
+  - "[[Centre for Evidence and Implementation]]"
   - "[[LANTITE]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Educational Services Australia]]"
@@ -73,7 +75,7 @@ citation_aliases:
 > 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师流失的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的话语策略如何通过政策网络进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
 > [!claim] 核心主张
-> 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、价值中立的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Community Innovation Survey|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
+> 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、价值中立的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Centre for Independent Studies|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
 
 > [!concept-lens]- 阅读透镜
 > - **对象**：澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
@@ -91,7 +93,7 @@ citation_aliases:
 > | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）分析框架（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
 
 > [!warrant]- 理论如何支撑论证
-> 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至政策网络，勾勒出[[Australian Education Research Organisation|AERO]]、[[Australian Institute for Teaching and School Leadership|AITSL]]、[[Community Innovation Survey|CIS]]等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
+> 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至政策网络，勾勒出[[Australian Education Research Organisation|AERO]]、[[Australian Institute for Teaching and School Leadership|AITSL]]、[[Centre for Independent Studies|CIS]]等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
 
 ---
 
@@ -108,7 +110,7 @@ citation_aliases:
 > |----------|------|
 > | **核心政策文本** | 澳大利亚政府教师教育专家小组报告《强劲开端》（*Strong Beginnings*, 2023）及其核心内容附录D（pp. 95–96）。 |
 > | **历史背景文本** | 1979年以来的澳大利亚教师教育审查文献（Louden, 2008）；2015年[[TEMAG]]报告《行动立即开始》；2021年QITE审查报告《下一步：优质初始教师教育审查报告》。 |
-> | **循证与中介文献** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation\|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Community Innovation Survey\|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
+> | **循证与中介文献** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation\|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Centre for Independent Studies\|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
 > | **实证与满意度数据** | 2022年澳大利亚毕业生结果调查数据（GOS, 2023）；[[Australian Institute for Teaching and School Leadership\|AITSL]]教师工作量与流失率调查数据（AITSL, 2021）。 |
 
 ---
@@ -210,10 +212,10 @@ citation_aliases:
 > 神经科学这一问题表征并非自发形成，而是由[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）这一证据中介机构深度编排并直接起草的。AERO在改革中扮演了“自己出题、自己答题、自己判卷”的封闭角色，其背后潜藏着庞大的英澳跨国政策移动网络与惩罚性问责的制度偏好。
 
 > [!actor-grid] 循证政策移动的核心行动者与利益网络
-> - **跨界专家 (Jenny Donovan)**：既是 AERO 首席执行官，又是本次审查的专家起草小组成员（p. 94），曾任新南威尔士州教育评估中心（Centre for Education Statistics and Evaluation, [[Comparative Education Society in Europe|CESE]]）主任，具有极强的量化绩效管理偏好。
+> - **跨界专家 (Jenny Donovan)**：既是 AERO 首席执行官，又是本次审查的专家起草小组成员（p. 94），曾任新南威尔士州教育评估中心（Centre for Education Statistics and Evaluation, CESE）主任，具有极强的量化绩效管理偏好。
 > - **跨国中介代表 (Sir Kevan Collins)**：英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）创始人，直接在 AERO 的专家委员会任职（AERO, 2022），为英澳两国循证政策的跨国移动穿针引线。
-> - **跨国私人资本 (BHP Foundation)**：资助了英国 EEF 的“全球循证生态建设计划”，旨在合作国家扶植“EEF式组织”（如 AERO）以推广标准化的证据垄断（EEF, 2024）。
-> - **封闭自我评级方 (CEI)**：受 AERO 委托做桌面审查，但评估结论和专家的咨询多出自其自身组织和已有的“什么有效”中心，构成封闭的知识在生产循环。
+> - **跨国私人资本 ([[BHP Foundation]])**：资助了英国 EEF 的“全球循证生态建设计划”，旨在合作国家扶植“EEF式组织”（如 AERO）以推广标准化的证据垄断（EEF, 2024）。
+> - **封闭自我评级方 ([[Centre for Evidence and Implementation|CEI]])**：受 AERO 委托做桌面审查，但评估结论和专家的咨询多出自其自身组织和已有的“什么有效”中心，构成封闭的知识在生产循环。
 
 > [!warrant]- 推理桥梁
 > 证据中介机构（IOs）如 AERO，其制度生存极其依赖“将研究证据标准化、工具化和垄断化”的业务需求。它们必须不断向政府证明，大学生产的教育研究是“无用的、非科学的”，只有经过它们评级、包装的“证据”才是“有效的”。Jenny Donovan 等人同时跨越“证据生产方”、“证据评级方”和“政策制定方”的边界，促成了利益生态的闭环。通过将未发表的内部报告上升为国家法律层面的必修标准，AERO 成功确立了自己在澳大利亚教育证据生态中的垄断性权力。
@@ -223,10 +225,10 @@ citation_aliases:
 ### 论证步骤五：私人利益的隐形嵌入：保守智库（CIS）文献的强制消费
 
 > [!claim] 步骤五主张
-> 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 [[Community Innovation Survey|CIS]]）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
+> 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 [[Centre for Independent Studies|CIS]]）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
-> 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT）和 John Sweller 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 CIS 出资赞助并出版的游说政策册子（Analysis Paper 24）。
+> 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 CIS 出资赞助并出版的游说政策册子（Analysis Paper 24）。
 
 > [!line-a] 游说与监管权力的网状穿梭
 > 政策网络中的核心人物 Jennifer Buckingham 在保守智库、官方行业监管部门与政策游说网络中实现了身份穿梭：她既是 CIS 的高级研究员与董事会成员（CIS, 2024），又是 [[Australian Institute for Teaching and School Leadership|AITSL]]（负责将核心课程落实到标准的监管机构）的非执行董事（AITSL, 2017），打通了游说、决策到合规推广的通道。
@@ -256,7 +258,7 @@ citation_aliases:
 > 1. **首次全国强制脑科学入课**：报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有初始教师教育（ITE）的必修课程，成为核心内容的法定标准（p. 2）。
 > 2. **教师危机的问题置换**：报告通过选择性利用 [[Graduate Outcomes Survey|GOS]] 调查数据（以 32% 的改进期盼代替 75% 的高满意度真相），成功将全国性教师短缺的原因从“过度工作量”这一劳动环境本质，置换为“教师教育质量缺陷”的个体能力问题（pp. 4–5）。
 > 3. **脑科学的简化主义和国际警示遗忘**：报告强制灌输“新手 vs 专家大脑”等生物简化二元论，排斥探究式学习，无视社会文化情境，且完全隐瞒了 [[OECD]] (2002, 2007) 关于神经科学可能导致过度顺从、科学神话与被滥用（如 eugenics 历史）的警示（pp. 6–7）。
-> 4. **未发表证据与跨国“什么有效”网络的知识垄断**：必修核心课程的设计完全基于 [[Australian Education Research Organisation|AERO]] 准备的、从未经过同行评审的未发表研究综合，其背后交织着英国 [[Education Endowment Foundation|EEF]]、必和必拓基金会的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
+> 4. **未发表证据与跨国“什么有效”网络的知识垄断**：必修核心课程的设计完全基于 [[Australian Education Research Organisation|AERO]] 准备的、从未经过同行评审的未发表研究综合，其背后交织着英国 [[Education Endowment Foundation|EEF]]、[[BHP Foundation|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
 > 5. **保守智库私人利益的强制消费**：附录D指定的必读参考文献直接包含了由右翼保守智库 CIS 资助的 Sweller (2021) 报告，暴露了 Jennifer Buckingham 等跨界政策精英如何在智库、[[Australian Institute for Teaching and School Leadership|AITSL]] 和改革推广中进行利益闭环的“理念编排”（pp. 9–10）。
 > 6. **惩罚性行政监控闭环与教育本质异化**：AITSL认证权力的扩张、QA委员会的成立与绩效拨付挂钩，锁死了职前教师“脚本化教学”的监控闭环，将教育从“意义建构的人文事件”异化为“因果机制”的工业化监控（p. 10）。
 
