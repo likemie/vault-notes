@@ -2954,7 +2954,7 @@
 
 .callout[data-callout="frames-ref"] > .callout-title {
   font-size: 0.85em;
-  color: rgb(52, 88, 130);
+  color: rgb(65, 130, 195);
   padding-bottom: 0.3rem;
 }
 
@@ -2993,7 +2993,7 @@
   place-items: center;
   border-radius: 50%;
   background: rgba(72, 108, 150, 0.18);
-  color: rgb(45, 80, 125);
+  color: rgb(65, 130, 195);
   font-size: 0.72em;
   font-weight: 800;
   margin-top: 0.1rem;
@@ -3001,7 +3001,7 @@
 
 .callout[data-callout="frames-ref"] .callout-content > ol > li strong:first-child,
 .callout[data-callout="frames-ref"] .callout-content > ul > li strong:first-child {
-  color: rgb(45, 80, 125);
+  color: rgb(65, 130, 195);
   font-size: 0.93em;
 }
 
