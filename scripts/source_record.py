@@ -76,6 +76,13 @@ FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
 SOURCE_SECTION_RE = re.compile(r"(^##\s+(?:来源|Sources)\s*$)(.*?)(?=^##\s+|\Z)", re.DOTALL | re.MULTILINE)
 
 FORBIDDEN_FILENAME_CHARS = r'<>:"/\\|?*'
+EPUB_VIEWER_HEIGHT = 560
+EPUB_VIEWER_SCRIPTS = (
+    '<script defer src="/static/jszip.min.js"></script> '
+    '<script defer src="/static/epub.min.js"></script> '
+    '<script defer src="/static/epub-loader.js"></script> '
+    '<script defer src="/static/epub-init.js"></script>'
+)
 
 
 def rel(path: Path) -> str:
@@ -458,7 +465,15 @@ def create_book_source_record(
     fm = book_source_frontmatter(citation, processed_date, part_of)
     body = f"# {record_title}\n"
     if embedded_file:
-        body += f"\n![[{embedded_file}]]\n"
+        if embedded_file.lower().endswith(".epub"):
+            epub_path = f"/books/{md_path.parent.name}/{embedded_file}"
+            body += (
+                f'\n<div id="epub-viewer" style="width:100%;height:{EPUB_VIEWER_HEIGHT}px;'
+                f'border:1px solid rgb(204,204,204);" data-epub="{epub_path}"></div> '
+                f"{EPUB_VIEWER_SCRIPTS}\n"
+            )
+        else:
+            body += f"\n![[{embedded_file}]]\n"
     content = f"{fm}\n\n{body}"
     write_text(md_path, content, overwrite=overwrite, dry_run=dry_run)
 

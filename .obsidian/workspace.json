@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
-                "mode": "preview",
+                "file": "wiki/methods/qualitative/Feminist Research.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Skourdoumbis_2024_AER"
+              "title": "Feminist Research"
             }
           }
         ]
@@ -192,8 +192,19 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
-    "wiki/facts/australia/Teacher Education Ministerial Advisory Group.md",
+    "scripts/__pycache__/source_record.cpython-313.pyc",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
+    "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.md",
+    "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.epub",
+    "books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian.md",
+    "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
+    "schema/schema-edited-volume.md",
     "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
+    "raw/015_3 Evaluation and the politics of educational research.txt",
+    "wiki/facts/australia/Teacher Education Ministerial Advisory Group.md",
     "wiki/facts/australia/Centre for Independent Studies.md",
     "wiki/facts/australia/Australian Institute for Teaching and School Leadership.md",
     "wiki/facts/australia/Australian Education Research Organisation.md",
@@ -201,7 +212,6 @@
     "wiki/facts/australia/Strong Beginnings Report.md",
     "wiki/concepts/educational-leadership-administration/School Leadership.md",
     "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
     "wiki/concepts/educational-philosophy/Queer Theory.md",
     "wiki/concepts/educational-philosophy/Post-colonial Theory.md",
     "wiki/concepts/research-methodology/Consequential Validity.md",
@@ -212,22 +222,12 @@
     "wiki/facts/uk/Girls Into Science and Technology Project.md",
     "wiki/facts/uk/Girls Into Science and Technology (GIST) Project.md",
     "wiki/methods/qualitative/Ideology Critique.md",
-    "wiki/concepts/curriculum/Critical Pedagogy.md",
     "citation/citation_external_refs.json",
-    "wiki/templates/template-fact-event.md",
-    "wiki/templates/template-fact-policy.md",
     "raw/夸克扫描王_座废市第一人民翳院.pdf",
     "scripts/__pycache__/vault_lint.cpython-313.pyc",
     "scripts/__pycache__/vault_index.cpython-313.pyc",
     "scripts/__pycache__/book_overview.cpython-313.pyc",
     "scripts/__pycache__",
-    "scripts/book_overview.py",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
-    "wiki/facts/australia/Graduate Outcomes Survey.md",
-    "raw/014_2 Critical educational research.txt",
-    "wiki/methods/quantitative/Randomised Controlled Trials.md.tmp.10807.735755f8affe",
-    "wiki/concepts/educational-philosophy/Scientism.md.tmp.10807.ada1daae7cc8",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]

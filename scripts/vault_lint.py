@@ -187,6 +187,7 @@ TAG_RE = re.compile(r"^[a-z0-9]+(?:[-/][a-z0-9]+)*$")
 
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+)\]\]")
 EMBED_RE = re.compile(r"!\[\[([^\]\n]+)\]\]")
+EPUB_VIEWER_RE = re.compile(r'data-epub="([^"]+\.epub)"')
 
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 URL_RE = re.compile(r"https?://[^\s)>\]]+")
@@ -649,6 +650,14 @@ def is_source_record_path(path: Path) -> bool:
     except Exception:
         parts = path.parts
     return bool(parts and parts[0] in SOURCE_RECORD_DIRS)
+
+
+def is_book_source_record_path(path: Path) -> bool:
+    try:
+        parts = path.relative_to(ROOT).parts
+    except Exception:
+        parts = path.parts
+    return bool(len(parts) >= 2 and parts[0] == "books")
 
 
 def strip_code_blocks(text: str) -> str:
@@ -1140,9 +1149,10 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
 
 
 def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
-    if not is_source_record_path(path) and not ("/books/" in rel(path)):
+    is_book_source = is_book_source_record_path(path)
+    if not is_source_record_path(path) and not is_book_source:
         return
-    fm, body, _ = split_frontmatter(text)
+    fm, body, body_start_line = split_frontmatter(text)
     if fm is None:
         return
     data = parse_yaml_fm(fm, path, issues)
@@ -1173,6 +1183,24 @@ def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
     # Source record should embed a PDF or EPUB viewer, unless it is some special source.
     if "![[ " in body:
         issues.append(Issue("WARN", rel(path), "possible malformed embed with space after [[", code="EMBED_SPACE"))
+    clean_body = strip_code_blocks(body)
+    for m in EMBED_RE.finditer(clean_body):
+        target = extract_wikilink_target(m.group(1))
+        if target.lower().endswith(".epub"):
+            issues.append(Issue("WARN", rel(path), "EPUB source records should use the epub.js viewer instead of Obsidian embed", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_EPUB_OBSIDIAN_EMBED"))
+
+    if is_book_source:
+        sibling_epub = path.with_suffix(".epub")
+        body_mentions_epub = ".epub" in clean_body.lower()
+        if sibling_epub.exists() or body_mentions_epub:
+            viewer_matches = list(EPUB_VIEWER_RE.finditer(clean_body))
+            if not viewer_matches:
+                issues.append(Issue("WARN", rel(path), "book EPUB source record missing data-epub viewer", code="SOURCE_EPUB_VIEWER_MISSING"))
+            elif sibling_epub.exists():
+                expected = f"/books/{path.parent.name}/{sibling_epub.name}"
+                for m in viewer_matches:
+                    if m.group(1) != expected:
+                        issues.append(Issue("WARN", rel(path), f"book EPUB viewer path should be {expected!r}", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_EPUB_VIEWER_PATH"))
 
 
 def check_path_and_index_consistency(path: Path, data: Optional[Dict[str, Any]], path_to_title: Dict[str, str], issues: List[Issue]) -> None:
