@@ -10,12 +10,17 @@ tags:
   - subject/research-methodology
   - topic/causation
   - topic/qualitative-research
-related_concepts: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Causality]]"
+  - "[[Multiplicity]]"
+  - "[[Action Narratives]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -32,7 +37,7 @@ updated: 2026-06-17
 > [!concept-lens] 概念透镜
 > - **含义**：一个效果（事件）有多个互相矛盾的因果解释——每个解释都服务于讲述者的利益、感知和立场。
 > - **用途**：它在教育研究中提醒研究者，因果叙事是多方建构的——研究者不能假设存在单一"真实"的因果链，而应揭示多重因果路径。
-> - **边界**：罗生门效应不是认识论虚无主义——它不意味着所有叙事同等有效或因果性完全不存在，而是说因果性必须通过不同行动者的眼睛来审视。
+> - **边界**：罗生门效应不是[[Epistemology|认识论]]虚无主义——它不意味着所有叙事同等有效或[[Causality|因果性]]完全不存在，而是说因果性必须通过不同行动者的眼睛来审视。
 
 ## 核心要素
 
@@ -45,8 +50,8 @@ updated: 2026-06-17
 
 ## 围绕概念形成的命题
 
-> [!claim] 因果解释的多重性
-> 在一个情境中存在不止一个因果解释——研究者的任务是揭示这些多重因果叙事，而非寻找唯一正确的因果链。行动叙事（action narratives）和能动性（agency）在解释因果与效果中具有核心重要性。
+> [!claim] 因果解释的[[Multiplicity|多重性]]
+> 在一个情境中存在不止一个因果解释——研究者的任务是揭示这些多重因果叙事，而非寻找唯一正确的因果链。[[Action Narratives|行动叙事]]（action narratives）和能动性（agency）在解释因果与效果中具有核心重要性。
 
 > [!claim] 多重因果路径
 > 正是由于情境中多重行动叙事和个体动机的存在，因果路径不是简单的输入-输出模型，而是**多重因果路径**——不同行动者的动机、价值观、目标和情境共同产生和解释效果。

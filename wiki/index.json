@@ -4208,6 +4208,15 @@
     ]
   },
   {
+    "title": "Action Narratives",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Action Narratives.md",
+    "aliases": [
+      "行动叙事",
+      "action narratives"
+    ]
+  },
+  {
     "title": "Alternative Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Alternative Hypothesis.md",
@@ -4317,6 +4326,15 @@
     ]
   },
   {
+    "title": "Causal Processes",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Causal Processes.md",
+    "aliases": [
+      "因果过程",
+      "causal processes"
+    ]
+  },
+  {
     "title": "Causality",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Causality.md",
@@ -4359,6 +4377,15 @@
       "写作连贯性",
       "writing coherence",
       "textual coherence"
+    ]
+  },
+  {
+    "title": "Compound Causes",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Compound Causes.md",
+    "aliases": [
+      "复合原因",
+      "compound causes"
     ]
   },
   {
@@ -4695,6 +4722,18 @@
     "path": "wiki/concepts/research-methodology/Forest Plot.md",
     "aliases": [
       "森林图"
+    ]
+  },
+  {
+    "title": "Fundamental Problem of Causal Inference",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Fundamental Problem of Causal Inference.md",
+    "aliases": [
+      "霍兰德因果推断基本问题",
+      "因果推断的基本问题",
+      "fundamental problem of causal inference",
+      "Holland's fundamental problem",
+      "Fundamental Problem of Causal Inference"
     ]
   },
   {

@@ -13,12 +13,16 @@ domain: "research-methodology"
 tags:
   - subject/research-methodology
   - topic/causation
-related_concepts: []
+related_concepts:
+  - "[[Compound Causes]]"
+  - "[[Causality]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -42,13 +46,13 @@ updated: 2026-06-17
 > [!feature] 条件类型与例示
 > - **必要条件**："没有 X 就没有 Y"。如：没有氧气，火柴不会燃烧——氧气是燃烧的必要条件。
 > - **充分条件**："有 X 就有 Y"。如：火柴划过粗糙表面足够使其点燃——但这不是必要条件，其他点火方式也能达到同样效果。
-> - **复合原因**（compound causes）：某些原因只有共同作用时才施加因果力——它们不是独立充分也不是独立必要的，而是组合在一起才构成充分条件。
+> - **[[Compound Causes|复合原因]]**（compound causes）：某些原因只有共同作用时才施加因果力——它们不是独立充分也不是独立必要的，而是组合在一起才构成充分条件。
 > - **交互效应**（interaction effects）：原因之间可能相互增强或削弱，改变彼此在因果组合中的相对强度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
 
 ## 概念辨析
 
 > [!contrast-table] 必要条件的意义与局限
-> | 条件类型 | 逻辑关系 | 在教育因果推断中的意义 | 局限 |
+> | 条件类型 | 逻辑关系 | 在教育[[Causality\|因果推断]]中的意义 | 局限 |
 > |---------|---------|---------------------|------|
 > | 必要条件 | 无之必不然 | 有助于排除非原因——没有因果力的因素 | 单独不能建立因果性 |
 > | 充分条件 | 有之必然 | 有助于确认因果——但教育中几乎不存在纯粹充分条件 | 过度简化了多重因果现实 |
@@ -58,7 +62,7 @@ updated: 2026-06-17
 ## 围绕概念形成的命题
 
 > [!claim] 因果效果依赖于条件组合
-> 发现变量 X 在何种条件下对 Y 产生因果影响，是理解因果性的关键——是必要条件和/或充分条件的**特定组合**产生了效果，而非单个原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 57]]）。孤立地寻找单个原因在语境化的情境中可能是徒劳的——原因最好与其他原因、情境和条件放在一起考虑。
+> 发现[[Variable|变量]] X 在何种条件下对 Y 产生因果影响，是理解[[Causality|因果性]]的关键——是必要条件和/或充分条件的**特定组合**产生了效果，而非单个原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 57]]）。孤立地寻找单个原因在语境化的情境中可能是徒劳的——原因最好与其他原因、情境和条件放在一起考虑。
 
 > [!claim] 因果触发 vs 因果条件
 > 效果的直接触发因素（trigger）——因果链条中的"最后一击"——可能不是唯一的原因，甚至不是最重要的原因。在冰面摔倒的例子中，冰是触发因素，但使效果发生的是一系列条件：骨质脆、平衡差、光线暗、鞋底滑。触发因素只是因果链条中最后一个原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 59]]）。

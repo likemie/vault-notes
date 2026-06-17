@@ -10,12 +10,17 @@ domain: "research-methodology"
 tags:
   - subject/research-methodology
   - topic/causation
-related_concepts: []
+related_concepts:
+  - "[[Counterfactual]]"
+  - "[[Homework]]"
+  - "[[Compound Causes]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Intervention Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -31,7 +36,7 @@ updated: 2026-06-17
 
 > [!concept-lens] 概念透镜
 > - **含义**：一个效果由多个同时运作的原因共同或替代性地产生，任何单一原因都能独立导致该效果。
-> - **用途**：它挑战了教育干预研究中常见的主张——即"某项干预独自改善了表现"；它揭示了因果归因的结构性困难。
+> - **用途**：它挑战了教育[[Intervention Research|干预研究]]中常见的主张——即"某项干预独自改善了表现"；它揭示了因果归因的结构性困难。
 > - **边界**：过度决定不意味着所有原因具有同等因果力——在某些情境中，一项原因可能比其他原因"更充分"；也不意味着原因的识别是徒劳的——而是说单一原因的归因需要更谨慎的论证。
 
 ## 核心要素
@@ -39,19 +44,19 @@ updated: 2026-06-17
 > [!feature] 因果过度决定的特征
 > - **多因一果**：多个独立原因指向同一个效果。
 > - **各自充分**：每个原因本身在给定情境中都足以独立产生该效果。
-> - **归因困难**：无法判断究竟是哪个原因实际产生了效果——甚至可能在反事实意义上，即使去掉任何一个原因，效果仍会发生。
+> - **归因困难**：无法判断究竟是哪个原因实际产生了效果——甚至可能在[[Counterfactual|反事实]]意义上，即使去掉任何一个原因，效果仍会发生。
 
 ## 围绕概念形成的命题
 
 > [!claim] 过度决定使单一归因不成立
-> 在教育情境中，声称某一干预"独自"导致某个效果的主张面临过度决定的挑战。例如，学生数学成绩的提高可能同时源于更多家庭作业、家长施压、金钱奖励、学校压力和大学录取条件——任何一项单独都可能产生效果。效果是"过度决定的"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 63–64]]）。
+> 在教育情境中，声称某一干预"独自"导致某个效果的主张面临过度决定的挑战。例如，学生数学成绩的提高可能同时源于更多[[Homework|家庭作业]]、家长施压、金钱奖励、学校压力和大学录取条件——任何一项单独都可能产生效果。效果是"过度决定的"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 63–64]]）。
 
 > [!claim] 学校中过度决定的日常运作
-> 为什么年幼学童在学校中表现得如此规矩，尽管没有人明确教过他们隐性课程（[[Hidden Curriculum|hidden curriculum]]）？答案是过度决定：许多事件——无论是单独还是组合——都通向同一结果：幼童必须按被告知的去做，而拥有愉快的学校体验取决于他们如何有效地学会这些规则并遵守它们。多个原因，同一效果：好行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 63]]）。
+> 为什么年幼学童在学校中表现得如此规矩，尽管没有人明确教过他们隐性课程（hidden curriculum）？答案是过度决定：许多事件——无论是单独还是组合——都通向同一结果：幼童必须按被告知的去做，而拥有愉快的学校体验取决于他们如何有效地学会这些规则并遵守它们。多个原因，同一效果：好行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 63]]）。
 
 ## 概念辨析
 
-> [!contrast-table] 过度决定 vs 多重因果 vs 复合原因
+> [!contrast-table] 过度决定 vs 多重因果 vs [[Compound Causes|复合原因]]
 > | 维度 | 因果过度决定 | 多重因果 | 复合原因 |
 > |------|------------|---------|---------|
 > | 每个原因单独充分性 | 每个都足够 | 不一定——通常每个原因单独不充分 | 原因单独不充分 |

@@ -22,15 +22,19 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
   - "[[Counterfactual]]"
+  - "[[Fundamental Problem of Causal Inference]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Compound Causes]]"
   - "[[Screening Off]]"
   - "[[Causal Over-determination]]"
   - "[[Homework]]"
+  - "[[Causal Processes]]"
   - "[[Rashomon Effect]]"
   - "[[Multiplicity]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Random Assignment]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Intervention Research]]"
@@ -41,6 +45,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -88,11 +93,11 @@ updated: 2026-06-17
 
 区分因果是否发生的一个关键指标是**[[Counterfactual|反事实]]**（[[Counterfactual|counterfactuals]]）：如果 X（假设的原因）不存在，那么 Y（效果）也不会发生（Mackie, 1993）。反事实推理追问："如果那个假设的原因不存在，效果还会发生或还是原来那样吗？"如果答案是"否"，则 X 是真正的原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
 
-在真实验中，反事实问题通过**控制组**来回答——控制组被假定为表明如果干预未发生会发生什么。但大量教育研究并非实验性的，反事实推理因此依赖更不确定的假设和统计建模。Holland（1986: 947）提出了"因果推断的基本问题"——同一个人不能同时处于接受和未接受处理的状态——这一问题即使在随机化实验中也无法完全解决（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
+在真实验中，反事实问题通过**控制组**来回答——控制组被假定为表明如果干预未发生会发生什么。但大量教育研究并非实验性的，反事实推理因此依赖更不确定的假设和统计建模。Holland（1986: 947）提出了"[[Fundamental Problem of Causal Inference|因果推断的基本问题]]"——同一个人不能同时处于接受和未接受处理的状态——这一问题即使在[[Random Assignment|随机化]]实验中也无法完全解决（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
 
 ### 必要条件与充分条件
 
-原因的效果依赖于**条件组合**：是[[Necessary and Sufficient Conditions|必要条件]]与充分条件的特定组合产生了效果，而非单个原因。原因可能需要组合在一起才能发挥因果力——**复合原因**（compound causes）只有在共同作用时才施加因果力，且原因之间可能存在**交互效应**（interaction effects）。单个原因在语境化情境中可能既不充分也不必要（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
+原因的效果依赖于**条件组合**：是[[Necessary and Sufficient Conditions|必要条件]]与充分条件的特定组合产生了效果，而非单个原因。原因可能需要组合在一起才能发挥因果力——**[[Compound Causes|复合原因]]**（compound causes）只有在共同作用时才施加因果力，且原因之间可能存在**交互效应**（interaction effects）。单个原因在语境化情境中可能既不充分也不必要（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
 
 ### 混淆变量与筛选隔离
 
@@ -125,7 +130,7 @@ updated: 2026-06-17
 
 ## 因果过程与行动叙事
 
-因果性不仅是[[Variable|变量]]的输入-输出关系，更应当被视为**动态过程**而非静态事件。X 如何导致 Y？在 X 中发生了什么才导致了 Y？理解因果过程需要高粒度地考察动机、意志、理由、理解、感知、个体性、条件和语境，以及因素之间的动态互动——通常是历时性的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 71–72]]）。
+因果性不仅是[[Variable|变量]]的输入-输出关系，更应当被视为**动态过程**而非静态事件。X 如何导致 Y？在 X 中发生了什么才导致了 Y？理解[[Causal Processes|因果过程]]需要高粒度地考察动机、意志、理由、理解、感知、个体性、条件和语境，以及因素之间的动态互动——通常是历时性的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 71–72]]）。
 
 ### 罗生门效应与多重因果路径
 
@@ -143,7 +148,7 @@ updated: 2026-06-17
 > | **方向** | 前向——施加干预，观察效果 | 后向——从效果回溯寻找原因 |
 > | **典型方法** | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | 事后回溯研究、七步推理过程（Morrison, 2009） |
 > | **确定性** | 相对较高——能操纵[[Variable\|变量]] | 更尝试性和推断性——数据不完整 |
-> | **核心挑战** | 隔离与控制全部变量、因果过程可能被忽视 | 从海量潜在原因中确定真正原因、竞争假设的检验 |
+> | **核心挑战** | 隔离与控制全部变量、[[Causal Processes\|因果过程]]可能被忽视 | 从海量潜在原因中确定真正原因、竞争假设的检验 |
 
 > [!tip] [[Mixed Methods Research|混合方法]]路径
 > 本章主张混合方法论和混合方法在研究和建立因果性方面的独特力量：量化方法（实验、调查）检验规律性和变量间的关联，质性方法（观察、访谈、[[Ethnography|民族志]]）揭示因果过程如何在具体情境中运作——即因果的"如何"。二者结合能同时回答因果的"是什么"和"如何"（pp.91–92）。
