@@ -73,12 +73,12 @@ citation_aliases:
 
 > [!question] [[Research Question|研究问题]]
 > 本文聚焦于循证教学中将“证据”窄化为统计平均值时，所产生的多重方法论与[[Epistemology|认识论]]危机：
-> 1. 当教育研究中的证据被窄化为[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCT]]）与[[Effect Size|效应量]]（[[Effect Size|效应量]]）的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
+> 1. 当教育研究中的证据被窄化为[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCT]]）与[[Effect Size|效应量]]的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
 > 2. 从单一实验（Level 1）到[[Meta-analysis|元分析]]（Level 2）、再到[[Meta-meta-analysis|元-元分析]]（Level 3，如 Hattie 的 [[Visible Learning|可见学习]] 与 [[Education Endowment Foundation|EEF]] 的 教学与学习工具包）的逐级递进中，统计数据是如何层层复合、放大失真的？
 > 3. [[Evidence-Based Education|证据本位教育]]（[[Evidence-Based Education|EBE]]）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
-> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类施为（Agency），其本质是新自由主义审计文化的体现，旨在用[[Value Neutrality in Research|价值中立]]的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
+> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用[[Value Neutrality in Research|价值中立]]的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
 > - **对象**：证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
@@ -263,22 +263,22 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card] 教育项目的现实主义因果观
-> 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。(Wrigley, 2018, p. 7)
+> 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
 >
 > Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006: 45)
 
 > [!citation-card] [[Meta-analysis|元分析]]的净化与空洞化
-> 在元分析综述的每个阶段，都在进行简化。……在这一“清洗”过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。(Wrigley, 2018, p. 13)
+> 在元分析综述的每个阶段，都在进行简化。……在这一“清洗”过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 >
 > At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning. (Pawson, 2006: 42–43)
 
 > [!citation-card] 均值指标的荒谬性
-> 元分析的结果绝不应该是一个平均数；它应该是一张图表。(Wrigley, 2018, p. 9)
+> 元分析的结果绝不应该是一个平均数；它应该是一张图表。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])
 >
 > The result of a meta-analysis should never be an average; it should be a graph. ([[Gene Glass]])
 
 > [!citation-card] [[Visible Learning|可见学习]]对 [[Bildung]] 的遮蔽
-> 让学习可见的尝试，使人们对教育作为陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。(Wrigley, 2018, p. 16)
+> 让学习可见的尝试，使人们对教育作为陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 >
 > The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation).
 

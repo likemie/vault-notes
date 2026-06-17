@@ -7833,3 +7833,108 @@
 .callout[data-callout="tension-table"] td:first-child strong {
   color: rgb(130, 90, 65);
 }
+
+/* ─── 表格通用支持：Ch04 论证页表格所在 callout ────────── */
+.callout[data-callout="question"] table,
+.callout[data-callout="decisions"] table,
+.callout[data-callout="feature"] table,
+.callout[data-callout="claim"] table,
+.callout[data-callout="warning"] table,
+.callout[data-callout="case"] table,
+.callout[data-callout="assumptions"] table,
+.callout[data-callout="pathways"] table,
+.callout[data-callout="conclusion"] table,
+.callout[data-callout="def"] table,
+.callout[data-callout="success"] table,
+.callout[data-callout="note"] table,
+.callout[data-callout="tip"] table,
+.callout[data-callout="abstract"] table,
+.callout[data-callout="exegesis"] table,
+.callout[data-callout="warrant"] table,
+.callout[data-callout="stat-cards"] table,
+.callout[data-callout="finding-cards"] table,
+.callout[data-callout="nav"] table,
+.callout[data-callout="proc"] table,
+.callout[data-callout="example"] table {
+  display: table;
+  width: 100%;
+  table-layout: auto;
+  margin-block: 0.4rem 0.2rem;
+  border-collapse: collapse;
+  font-size: 0.88em;
+}
+
+.callout[data-callout="question"] th,
+.callout[data-callout="question"] td,
+.callout[data-callout="decisions"] th,
+.callout[data-callout="decisions"] td,
+.callout[data-callout="feature"] th,
+.callout[data-callout="feature"] td,
+.callout[data-callout="claim"] th,
+.callout[data-callout="claim"] td,
+.callout[data-callout="warning"] th,
+.callout[data-callout="warning"] td,
+.callout[data-callout="case"] th,
+.callout[data-callout="case"] td,
+.callout[data-callout="assumptions"] th,
+.callout[data-callout="assumptions"] td,
+.callout[data-callout="pathways"] th,
+.callout[data-callout="pathways"] td,
+.callout[data-callout="conclusion"] th,
+.callout[data-callout="conclusion"] td,
+.callout[data-callout="def"] th,
+.callout[data-callout="def"] td,
+.callout[data-callout="success"] th,
+.callout[data-callout="success"] td,
+.callout[data-callout="note"] th,
+.callout[data-callout="note"] td,
+.callout[data-callout="tip"] th,
+.callout[data-callout="tip"] td,
+.callout[data-callout="abstract"] th,
+.callout[data-callout="abstract"] td,
+.callout[data-callout="exegesis"] th,
+.callout[data-callout="exegesis"] td,
+.callout[data-callout="warrant"] th,
+.callout[data-callout="warrant"] td,
+.callout[data-callout="stat-cards"] th,
+.callout[data-callout="stat-cards"] td,
+.callout[data-callout="finding-cards"] th,
+.callout[data-callout="finding-cards"] td,
+.callout[data-callout="nav"] th,
+.callout[data-callout="nav"] td,
+.callout[data-callout="proc"] th,
+.callout[data-callout="proc"] td,
+.callout[data-callout="example"] th,
+.callout[data-callout="example"] td {
+  vertical-align: top;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.12);
+  line-height: 1.5;
+  padding: 0.35rem 0.5rem;
+}
+
+.callout[data-callout="question"] th,
+.callout[data-callout="decisions"] th,
+.callout[data-callout="feature"] th,
+.callout[data-callout="claim"] th,
+.callout[data-callout="warning"] th,
+.callout[data-callout="case"] th,
+.callout[data-callout="assumptions"] th,
+.callout[data-callout="pathways"] th,
+.callout[data-callout="conclusion"] th,
+.callout[data-callout="def"] th,
+.callout[data-callout="success"] th,
+.callout[data-callout="note"] th,
+.callout[data-callout="tip"] th,
+.callout[data-callout="abstract"] th,
+.callout[data-callout="exegesis"] th,
+.callout[data-callout="warrant"] th,
+.callout[data-callout="stat-cards"] th,
+.callout[data-callout="finding-cards"] th,
+.callout[data-callout="nav"] th,
+.callout[data-callout="proc"] th,
+.callout[data-callout="example"] th {
+  font-weight: 700;
+  font-size: 0.85em;
+  letter-spacing: 0.02em;
+  background: rgba(128, 128, 128, 0.06);
+}
