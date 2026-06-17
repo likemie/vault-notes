@@ -128,14 +128,14 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 > | 6 | 基于收集的数据检验[[Null Hypothesis\|零假设]] | 统计分析或质性检验 |
 > | 7 | 基于假设检验结果修正或支持原有理论 | 将结果反馈到理论层面 |
 >
-> 表中核心概念参见：[[Research Question|研究问题]]、[[Hypothesis|研究假设]]、[[Construct|构念]]、[[Null Hypothesis|零假设]]。
+
 
 > [!chain-link] 关键洞察：删除步骤1和7即消除研究与评估的操作差异
 > **证据**：科学方法7步骤中，步骤1（理论起点）和步骤7（理论反馈）是仅有的两个将研究与评估区分开的步骤。其余步骤（2–6）涵盖：提出问题与假设、选择样本、操纵和测量[[Variable|变量]]、计算统计量和数据、陈述结论，这些是两者完全共享的。
 > **推理**：只看操作层面（步骤2–6），研究与评估几乎没有区别，仅凭出版物表面无法判断一项调查究竟是研究还是评估（p.31）。
 > **结论**：出版物通常不会披露引发调查的背景事件、报告材料的用途以及传播权（dissemination rights）的归属（Sanday, 1993），而这些恰恰是区分研究与评估的关键信息。
 >
-> 相关概念：[[Variable|变量]]。
+
 
 ---
 
@@ -157,7 +157,7 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 > | **评判标准** | 方法论标准和对领域的贡献（[[Internal Validity\|内部效度]]与[[External Validity\|外部效度]]） | 效用（utility）和可信度（credibility） |
 > | **议程设定** | 研究者自定议程 | 评估者议程由委托方给定 |
 >
-> 核心概念参见：价值中立、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
+
 
 > [!logic-map] 这8个差异构成从内在动机到外部约束的连续体
 > ```mermaid
@@ -189,7 +189,7 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 > | **评价活动的标准** | 内部效度与外部效度 | 效用（utility）与可信度（credibility） |
 > | **学科基础** | 研究者可限于单一学科 | 评估者不能限于单一学科——因为评估问题通常跨越多个学科边界 |
 >
-> 核心概念参见：nomothetic / idiographic、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
+
 > Smith 和 Glass（1987）的8点与 Glass 和 Worthen（引自 Norris, 1990）的11点之间存在大量重叠（如动机、目标、自主性、普遍性、评判标准），但也有各自的独特贡献。8点框架增加了**调查范围**（scope）维度，评估通常比研究更全面地覆盖项目的多个方面。11点框架则增加了两个独特维度：**解释的角色**（评估可以不提供解释而进行有效评估）和**学科基础**（评估者必须跨学科），这两个维度指向评估的本质特征：它以**判断和决策**为终点，不以**理论解释**为必要环节。
 
 ---
@@ -208,7 +208,7 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 Morrison（1993: 2）由此给出评估的简洁定义：
 > 评估是就特定议题提供信息，在此基础上做出判断，并据此采取行动决策。
 
-> [!quote] MacDonald 论评估者的政治处境
+> [!citation-card] MacDonald 论评估者的政治处境
 > 评估者面对相互竞争的利益群体、分歧的情境界定和冲突的信息需求……他必须决定服务于哪些决策者、哪些信息最有价值、何时需要以及如何获取……这些议题的解决使评估者承诺于一种政治立场，一种对教育治理的态度。研究者则无需做出此类承诺。他站在政治过程之外，珍视其超脱。对他而言，新知识的生产与其社会使用是分离的。评估者则卷入行动之中，嵌入一个关乎权力分配的政治过程——即资源的配置与目标、角色和任务的确定……当评估数据影响权力关系时，评估者被迫仔细权衡其任务说明的后果……研究者可以自由选择问题和寻求答案。评估者则绝不可犯这样的错误：回答没有人——除了他自己——在问的问题。（MacDonald, 1987: 42）
 >
 > *The evaluator is faced with competing interest groups, with divergent definitions of the situation and conflicting informational needs. ... He has to decide which decision makers he will serve, what information will be of most use, when it is needed and how it can be obtained. ... The resolution of these issues commits the evaluator to a political stance, an attitude to the government of education. No such commitment is required of the researcher. He stands outside the political process, and values his detachment from it. For him the production of new knowledge and its social use are separated. The evaluator is embroiled in the action, built into a political process which concerns the distribution of power, i.e. the allocation of resources and the determination of goals, roles and tasks. ... When evaluation data influences power relationships the evaluator is compelled to weight carefully the consequences of his task specification. ... The researcher is free to select his questions, and to seek answers to them. The evaluator, on the other hand, must never fall into the error of answering questions which no one but he is asking.*
@@ -221,7 +221,7 @@ Morrison（1993: 2）由此给出评估的简洁定义：
 
 MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 
-> [!quote] MacDonald 论"倒转"研究-评估关系
+> [!citation-card] MacDonald 论"倒转"研究-评估关系
 > 将评估概念化为研究的分支是危险的——评估者会陷入研究体面的束缚性触角中。纯粹可能替代效用，琐碎证明可能替代对复杂意义的笨拙把握。将研究定义为评估的一个分支——其任务是解决评估者遇到的技术问题——将会多么更有成效。（MacDonald, 1987: 43）
 >
 > *The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.*
@@ -245,7 +245,7 @@ Norris（1990: 99）指出，将研究视为不受日常政治污染的纯净活
 > - **结果**：研究议程从"研究者指定[[Research Topic|研究主题]]"转向"赞助方指定研究焦点"（Burgess, 1993）（pp.36–37）。
 
 Burgess（1993: 1）概括了这一趋势的极端表达：
-> [!quote] Burgess 论研究者的合同工化
+> [!citation-card] Burgess 论研究者的合同工化
 > 研究者不过是合同工……教育研究必须与政策相关……研究必须更加贴近实践者的需求。（Burgess, 1993: 1）
 >
 > *Researchers are little more than contract workers ... research in education must become policy relevant ... research must come closer to the requirement of practitioners.*
@@ -263,7 +263,7 @@ Burgess（1993: 1）概括了这一趋势的极端表达：
 Anderson 和 Biddle（1991）编著的文集进一步印证了这一判断：研究与政治难以和谐共处，因为研究者有更长的时间尺度并试图处理情境的复杂性，而政治人物出于短期生存考虑，需要压缩的时间尺度、简单的方案和与其政治议程一致的研究（p.37）。
 
 James（1993: 135）对评估证据政治命运的冷峻判断：
-> [!quote] James 论评估证据的政治命运
+> [!citation-card] James 论评估证据的政治命运
 > 基于研究的评估为理性决策提供证据的力量是相当有限的。如果信息不支持当时主导的政治议程，决策者总能找到理由忽视或高度选择性地使用评估结果。（James, 1993: 135）
 >
 > *The power of research-based evaluation to provide evidence on which rational decisions can be expected to be made is quite limited. Policy-makers will always find reasons to ignore, or be highly selective of, evaluation findings if the information does not support the particular political agenda operating at the time when decisions have to be made.*
@@ -381,7 +381,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > [!claim] 研究利用的政治性是一个共识（truism）
 > Selleck（1991）、Kamin（1991）、Horowitz 和 Katz（1991）以及 Wineburg（1991）一致确认：研究对政策的影响是**强烈且不可逃避地政治性的**。这是一个被反复印证的共识（truism）。
 
-> [!quote] Wineburg（1991）论研究如何沦为"确认性文本"
+> [!citation-card] Wineburg（1991）论研究如何沦为"确认性文本"
 > 研究太容易成为仅仅一种"确认性文本"（affirmatory text）——一种"为体制开脱"（exonerates the system）的文本——被那些在其中只寻求自己声音和愿望的回声的人所使用。（Wineburg, 1991; Kogan & Atkin, 1991）
 >
 > *Research too easily becomes simply an "affirmatory text" which "exonerates the system" and is used by those who seek to hear in it only echoes of their own voices and wishes.*
@@ -415,7 +415,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 > [!tension] 研究者的回应：简单化是对复杂现实的歪曲
 > 研究者一方则反驳说：决策者对快速解决的偏好**误读了研究的本质**（Shavelson & Berliner, 1991），掩盖了研究者试图调查的**复杂社会现实**（Blalock, 1991）。捕捉社会复杂性与服务于政治效用，这两种价值可能根本性地相互冲突。
 
-> [!quote] Radford（2008: 506）的终极概括
+> [!citation-card] Radford（2008: 506）的终极概括
 > 研究者的工作由客观性（objectivity）和对意识形态的独立性或不关心（disinterestedness）驱动，而决策者由利益、意识形态和价值（interests, ideologies and values）驱动。（Radford, 2008: 506）
 >
 > *The work of researchers is driven by objectivity, and independence from, or disinterestedness in, ideology, whereas policy makers are driven by interests, ideologies and values.*
