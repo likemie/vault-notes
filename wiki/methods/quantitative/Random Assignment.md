@@ -5,7 +5,9 @@ aliases:
   - 随机分组
   - randomisation
   - randomized assignment
-summary: "将受试者按概率均等原则分配到实验处理条件中，以消除系统性偏差并支持因果推断的实验技术"
+  - 随机化
+  - randomization
+summary: 将受试者按概率均等原则分配到实验处理条件中，以消除系统性偏差并支持因果推断的实验技术
 type: method
 method_type: quantitative
 tags:
