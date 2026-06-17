@@ -6,7 +6,6 @@ type: person
 tags: [person/philosopher, person/philosopher-of-science, theme/research-methodology]
 related_concepts:
   - "[[Scientific Method]]"
-  - "[[Falsification]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -38,4 +37,4 @@ updated: 2026-06-13
 
 ### 归纳–演绎结合法
 
-培根的归纳法最终发展为归纳–演绎结合法（inductive-deductive approach），将亚里士多德的演绎与培根的归纳结合起来——研究者在归纳（从观察到假设）和演绎（从假设到推论）之间反复往返，对假设进行[[Falsification|严格检验]]并根据需要修正（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+培根的归纳法最终发展为归纳–演绎结合法（inductive-deductive approach），将亚里士多德的演绎与培根的归纳结合起来——研究者在归纳（从观察到假设）和演绎（从假设到推论）之间反复往返，对假设进行严格检验并根据需要修正（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

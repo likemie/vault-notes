@@ -10,7 +10,8 @@ tags:
   - person/philosopher
   - person/phenomenologist
   - theme/phenomenology
-related_concepts: []
+related_concepts:
+  - "[[Epoché]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -35,7 +36,7 @@ updated: 2026-06-13
 
 ### 回到事物本身
 
-胡塞尔的核心口号是"**回到事物本身！**"（back to the things!）——发现事物如何直接向我们显现，而不是通过文化和符号结构的中介。为此，他提出**悬置**（epoché）方法：将"世界放入括号"（put the world in brackets），从日常的感知方式中解放出来，摆脱关于世界的一切先入之见（Warnock, 1970）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+胡塞尔的核心口号是"**回到事物本身！**"（back to the things!）——发现事物如何直接向我们显现，而不是通过文化和符号结构的中介。为此，他提出**[[Epoché|悬置]]**（epoché）方法：将"世界放入括号"（put the world in brackets），从日常的感知方式中解放出来，摆脱关于世界的一切先入之见（Warnock, 1970）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!info] 悬置后的意识三元素
 > 通过悬置还原之后剩下的，是我们的意识，由三个元素构成：（1）进行思考的"我"（the 'I' who thinks）；（2）这个思考主体的心理活动（mental acts）；（3）这些心理活动的意向对象（intentional objects）。悬置的目的是解构对象的构成方式，使我们能够以全新的、不受预设污染的方式面对现象本身。

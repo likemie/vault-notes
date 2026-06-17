@@ -320,7 +320,7 @@ updated: '2026-05-21'
 > | 元分析 | Hattie 使用的 d |
 > |--------|----------------|
 > | Stahl & Miller (1989) | 0.09 |
-> | Stahl, McKenna & Pagnucco (1994) | 0.15 |
+> | [[Steven Stahl\|Stahl]], McKenna & Pagnucco (1994) | 0.15 |
 > | Gee (1995) | 0.65 |
 > | Jeynes & Littell (2000) | −0.65 |
 >
@@ -328,7 +328,7 @@ updated: '2026-05-21'
 >
 > **第一项元分析：研究的是另一回事。** Stahl & Miller（1989）的标题明确包含"Whole language **and language experience** approaches"。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl 本人在五年后承认将[[Language Experience Approach|语言经验法]]等同于全语言是"时代错误的"（anachronistic），并明确排除了纯粹涉及语言经验法的研究。Hattie 在《可见的学习》中对此只字不提([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144–145]])。
 >
-> **第二项元分析：Jeynes & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell（2000）的 d=−0.65 是《可见的学习》800 多项元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
+> **第二项元分析：[[William Jeynes|Jeynes]] & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell（2000）的 d=−0.65 是《可见的学习》800 多项元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
 >
 > *被掩盖的正面发现*：Jeynes & Littell 自己区分了四类全语言研究，其中被定义为"全语言热衷者会同意"的 2 项"纯粹"全语言研究效应量为 d=0.83。Hattie 只报告了四类汇总的总体负值([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
 >
