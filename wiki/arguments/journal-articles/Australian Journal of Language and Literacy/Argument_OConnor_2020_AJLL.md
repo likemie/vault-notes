@@ -100,7 +100,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | 《可见学习》(Hattie, 2009) 中关于[[Whole Language\|全语言]]的 1.5 页文本，及 4 项相关[[Meta-analysis\|元分析]]：Stahl & Miller (1989)、Stahl et al. (1994)、Gee (1995)、Jeynes & Littell (2000)，涉及 64 项原始研究 (p.143)。 |
+> | **文本样本** | 《可见学习》(Hattie, 2009) 中关于[[Whole Language\|全语言]]的 1.5 页文本，及 4 项相关[[Meta-analysis\|元分析]]：[[Steven Stahl\|Stahl]] & Miller (1989)、[[Steven Stahl\|Stahl]] et al. (1994)、Gee (1995)、[[William Jeynes\|Jeynes]] & Littell (2000)，涉及 64 项原始研究 (p.143)。 |
 > | **评论与次级文献** | 斯蒂芬·克拉申（Stephen Krashen, 2002）对威廉·杰恩斯（[[William Jeynes\|William H. Jeynes]]）与萨拉·利特尔（Sara W. Littell）元分析的量化重算、杰恩斯的个人学术与政治宗教背景档案 (p.147)。 |
 > | **政策文件样本** | 澳大利亚维多利亚州教育部发布的 10 项“高影响教学策略”（High Impact Teaching Strategies, [[Victorian HITS and Literacy Toolkit\|HITS]]）指南及读写教学工具箱（Literacy Teaching Toolkit）(p.141)。 |
 
@@ -231,7 +231,7 @@ citation_aliases:
 > - **d = 0.06**：哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然成长率 (pp.142-143)。
 > - **d = 0.60**：哈蒂为拼读教学程序（Phonics）计算出的高效益值，常被拼读倡导者用作“阅读战争”获胜的证据 (p.142)。
 > - **d = -0.65**：Jeynes & Littell (2000) 报告的极度异常的负面效应量，被哈蒂直接采纳，但克拉申指出其原始计算多处方向反转 (pp.145-147)。
-> - **d = 0.83**：Jeynes & Littell (2000) 报告中被哈蒂忽略 of“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。
+> - **d = 0.83**：Jeynes & Littell (2000) 报告中被哈蒂忽略的“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。
 > - **d = 0.65 修正为 0**：Gee (1995) 元分析的原始向正效应量，被哈蒂以剔除 Trachtenburg (d=1.7) 等三项正面研究为手段强行清零 (p.148)。
 
 ---
