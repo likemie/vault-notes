@@ -246,8 +246,8 @@ updated: '2026-06-17'
 
 | 核心假设 | 对应领域 | 批判者与批判内容 |
 |---|---|---|
-| **休谟因果观**：因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借助[[Critical Realism|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
-| **机械干预假设**：干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
+| **休谟因果观**：因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 借助[[Critical Realism\|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
+| **机械干预假设**：干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
 | **科学应用假设**：研究证据从"在某处有效"到"在这里有效"是线性的 | 认识论（Epistemology） | Cartwright & Hardie (2012) 提出三阶段知识框架，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
 
 > [!warning] 教师质量作为 RCT 的结构性混淆因素
@@ -746,31 +746,3 @@ Biesta 说 EBE **在哲学上是错的**；Cowen 说它**在制度上被选择�
 - [[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]] — 以 Benner 教学三角为框架系统记录 EBE/VL 在 NZ 和 AU 的政策采纳轨迹
 
 ---
-
-## 参考文献
-
-- [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]. "evidence-based" policy or "evidence-informed" practice? ECNU Review of Education.
-- [[Argument_Berk_2011_ER|Berk (2011)]]. You can't tell the evidence without a program. Educational Researcher.
-- [[Argument_Biesta_2010_SPE|Biesta (2010)]]. Why 'what works' still won't work: From evidence-based education to value-based education. Studies in Philosophy and Education.
-- [[Argument_Blass_2020_JESP|Blass (2020)]]. Using academic research in educational policy-making. Journal of Educational Administration and History.
-- [[Argument_Brady_2023_EPR|Brady et al. (2023)]]. Recommendations for practice in non-intervention research. Educational Psychology Review.
-- [[Argument_Cowen_2019_ERE|Cowen (2019)]]. The political economy of evidence-based education. Educational Research and Evaluation.
-- [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]]. What works works here? CHESS Working Paper.
-- [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]. The cultural politics of John Hattie's Visible Learning. Discourse: Studies in the Cultural Politics of Education.
-- [[Argument_Møller_2017|Møller (2017)]]. The cultural politics of evidence-based education. European Educational Research Journal.
-- [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]]. Evidence-informed practice in education. Educational Research.
-- [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]]. School improvement and research evidence. Paideia.
-- [[Argument_ONeill_2012_NZJES|O'Neill (2012)]]. The material fallacies of evidence-based educational policy. New Zealand Journal of Educational Studies.
-- [[Argument_Peterson_2016_IJRME|Peterson (2016)]]. "What works" 2.0: Mechanism experiments and improvement networks. International Journal of Research & Method in Education.
-- [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]. Local evidence and stakeholder interpretations. ECNU Review of Education.
-- [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]]. Evidence-based education in Australia and New Zealand. Język-Szkoła-Rodzina.
-- [[Argument_Slavin_2002_ER|Slavin (2002)]]. Evidence-based education policies. Educational Researcher.
-- [[Argument_Slavin_2019_EP|Slavin (2019)]]. Three decades of evidence-based education. Educational Psychologist.
-- [[Argument_Slavin_2021_ROE|Slavin et al. (2021)]]. Evidence-based reform in China, the US, and the UK. ECNU Review of Education.
-- [[Argument_Terhart_2011_JCS|Terhart (2011)]]. Has John Hattie really found the holy grail of pedagogy? Journal of Curriculum Studies.
-- [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]]. Clearinghouses rating consistency in educational programs. Review of Educational Research.
-- [[Argument_Wiliam_2019|Wiliam (2019)]]. Why evidence-based education will never work. Educational Research and Evaluation.
-- [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]. The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal.
-- [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]]. Fake theory, fake evidence? The 'science' of education. Educational Research and Evaluation.
-- [[Argument_Zhao_2017_JEC|Zhao (2017)]]. What works may hurt: Side effects in education. Journal of Educational Change.
-- [[Argument_Zapp_2022_Springer|Zapp (2022)]]. The scientization of education. In: The Palgrave Handbook of Global Education Policy Research.
