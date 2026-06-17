@@ -8049,3 +8049,121 @@
   color: rgb(210, 150, 55);
   border-color: rgba(220, 150, 60, 0.35);
 }
+
+/* ─── data-table（数据表格 — 蓝灰数位感，紧凑行） ───────── */
+.callout[data-callout="data-table"] {
+  --callout-color: 80, 100, 140;
+  --callout-icon: lucide-table;
+  background:
+    linear-gradient(180deg, rgba(80, 100, 140, 0.04), rgba(80, 100, 140, 0.01)),
+    var(--background-primary);
+  border-top: 3px solid rgba(80, 100, 140, 0.35);
+  border-left: 1px solid rgba(80, 100, 140, 0.15);
+  border-right: 1px solid rgba(80, 100, 140, 0.08);
+  border-bottom: 1px solid rgba(80, 100, 140, 0.08);
+  padding: 0.65rem 0.9rem 0.5rem;
+  margin-block: 0.8rem 0.5rem;
+}
+
+.callout[data-callout="data-table"] > .callout-title {
+  color: rgb(60, 75, 110);
+  font-weight: 700;
+  font-size: 0.9em;
+  margin-bottom: 0.3rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px dashed rgba(80, 100, 140, 0.18);
+}
+
+.callout[data-callout="data-table"] > .callout-title .callout-title-inner::before {
+  content: "DATA";
+  display: inline-block;
+  font-size: 0.66em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: rgba(80, 100, 140, 0.5);
+  margin-right: 0.45rem;
+  vertical-align: middle;
+}
+
+.callout[data-callout="data-table"] table {
+  display: table;
+  width: 100%;
+  table-layout: auto;
+  margin-block: 0.3rem 0.1rem;
+  border-collapse: collapse;
+  font-size: 0.88em;
+  line-height: 1.35;
+}
+
+.callout[data-callout="data-table"] th,
+.callout[data-callout="data-table"] td {
+  padding: 0.28rem 0.55rem;
+  vertical-align: middle;
+  border-bottom: 1px solid rgba(80, 100, 140, 0.08);
+  text-align: center;
+}
+
+.callout[data-callout="data-table"] th {
+  font-weight: 700;
+  font-size: 0.82em;
+  letter-spacing: 0.03em;
+  color: rgb(60, 75, 110);
+  background: rgba(80, 100, 140, 0.06);
+  white-space: nowrap;
+}
+
+.callout[data-callout="data-table"] td {
+  font-size: 0.87em;
+  color: rgb(50, 50, 55);
+}
+
+.callout[data-callout="data-table"] th:first-child,
+.callout[data-callout="data-table"] td:first-child {
+  text-align: left;
+  font-weight: 600;
+  color: rgb(60, 75, 110);
+}
+
+.callout[data-callout="data-table"] tbody tr:nth-child(even) td {
+  background: rgba(80, 100, 140, 0.025);
+}
+
+.callout[data-callout="data-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="data-table"] .callout-content > p {
+  font-size: 0.85em;
+  color: rgb(100, 100, 110);
+  margin-block: 0.25rem 0;
+  line-height: 1.45;
+}
+
+/* dark */
+.theme-dark .callout[data-callout="data-table"] {
+  background:
+    linear-gradient(180deg, rgba(100, 120, 170, 0.06), rgba(100, 120, 170, 0.015)),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="data-table"] > .callout-title {
+  color: rgb(130, 150, 200);
+}
+
+.theme-dark .callout[data-callout="data-table"] th {
+  color: rgb(130, 150, 200);
+  background: rgba(100, 120, 170, 0.1);
+}
+
+.theme-dark .callout[data-callout="data-table"] td {
+  color: rgb(190, 195, 205);
+}
+
+.theme-dark .callout[data-callout="data-table"] th:first-child,
+.theme-dark .callout[data-callout="data-table"] td:first-child {
+  color: rgb(140, 160, 210);
+}
+
+.theme-dark .callout[data-callout="data-table"] tbody tr:nth-child(even) td {
+  background: rgba(100, 120, 170, 0.04);
+}

@@ -14,39 +14,63 @@ def normalize(text):
 
 cur_normalized = normalize(cur)
 
-paragraphs = [p.strip() for p in old.split('\n\n') if p.strip()]
+# Split old version into paragraphs, ignoring yaml frontmatter
+sections = old.split('\n\n')
+paragraphs = []
+in_yaml = False
+for s in sections:
+    s = s.strip()
+    if not s:
+        continue
+    if s == '---':
+        in_yaml = not in_yaml
+        continue
+    if in_yaml:
+        continue
+    # Skip headings (lines starting with #)
+    if s.startswith('#'):
+        continue
+    paragraphs.append(s)
 
-missing_paras = []
+missing = []
 for p in paragraphs:
-    if p.startswith('title:') or p.startswith('aliases:') or p.startswith('tags:') or p.startswith('summary:') or p.startswith('type:') or p.startswith('domain:') or p.startswith('related_'):
-        continue
-    # skip if it is just a frontmatter block or YAML
-    if p.strip().startswith('---'):
-        continue
     p_norm = normalize(p)
     if len(p_norm) < 15:
         continue
-    # Let's search if the paragraph's normalized text is inside cur_normalized.
-    # To handle small edits/additions within the paragraph, let's see if 80% of its sentences are in the current text
+    
+    # Try splitting by sentence to see how many are present
     sentences = re.split(r'[。！？.!?\n]', p)
     sentences = [s.strip() for s in sentences if len(s.strip()) > 10]
     if not sentences:
         continue
     
-    found_count = 0
+    # Check if ANY sentence has a substantial match in the current file.
+    # If not even a single sentence is matched, or the match ratio is 0.0, it is fully deleted.
+    found_any = False
     for s in sentences:
         s_norm = normalize(s)
-        if s_norm in cur_normalized:
-            found_count += 1
+        # Check if this sentence's normalized text is contained in cur_normalized.
+        # Let's check for fuzzy match: if a 20-character substring of s_norm is in cur_normalized
+        if len(s_norm) > 20:
+            for j in range(len(s_norm) - 20):
+                if s_norm[j:j+20] in cur_normalized:
+                    found_any = True
+                    break
+        else:
+            if s_norm in cur_normalized:
+                found_any = True
+        if found_any:
+            break
             
-    ratio = found_count / len(sentences)
-    if ratio < 0.3: # less than 30% of sentences matched
-        missing_paras.append((p, ratio))
+    if not found_any:
+        missing.append(p)
 
-print(f"Total paragraphs analyzed in old: {len(paragraphs)}")
-print(f"Missing paragraphs count: {len(missing_paras)}")
-print("\n--- MISSING PARAGRAPHS DETAIL ---")
-for i, (p, ratio) in enumerate(missing_paras):
-    print(f"--- Missing Paragraph {i+1} (Match Ratio: {ratio:.2f}, Length: {len(p)}) ---")
-    print(p[:500] + ("..." if len(p) > 500 else ""))
-    print()
+with open('scratch/truly_deleted_paragraphs.txt', 'w') as f:
+    f.write(f"Total paragraphs analyzed: {len(paragraphs)}\n")
+    f.write(f"Truly deleted paragraphs count: {len(missing)}\n\n")
+    for i, p in enumerate(missing):
+        f.write(f"=== Paragraph {i+1} (Length: {len(p)}) ===\n")
+        f.write(p)
+        f.write("\n\n")
+
+print(f"Analysis complete. Found {len(missing)} truly deleted paragraphs. Written to scratch/truly_deleted_paragraphs.txt")

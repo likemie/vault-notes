@@ -1,0 +1,87 @@
+Total paragraphs analyzed: 141
+Truly deleted paragraphs count: 27
+
+=== Paragraph 1 (Length: 203) ===
+[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 则将 EBE 关于"什么有效"的核心问题本身判定为**错误的问题**："在教育研究中，'什么有效'通常是错误的问题，因为几乎任何事情在某个地方都有效，但没有事情在所有地方都有效。更好的问题是'在什么条件下这个干预有效？'"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])
+
+=== Paragraph 2 (Length: 116) ===
+英国教育部在 Coldwell et al.（2017）报告 *Evidence-informed teaching: an evaluation of progress in England Research* 中给出了官方定义：
+
+=== Paragraph 3 (Length: 115) ===
+> [!note]
+> EBE 从 1990 年代的循证医学类比出发，经历了英美制度化建设、批判性文献兴起和中国作为[[Evidence-Based Reform|证据本位改革]]新兴力量的崛起，至今仍在方法论与哲学层面持续激辩。
+
+=== Paragraph 4 (Length: 109) ===
+> [!abstract]
+> EBE 的理论结构由基本主张与隐含假设、证据转化模型、证据实施维度和改革替代方案四个层面构成，各层面均存在支持者与批判者的持续对话，构成了一个动态演化的学术辩论[[Champ|场域]]。
+
+=== Paragraph 5 (Length: 27) ===
+1. 教育决策应基于关于"什么有效"的**科学证据**
+
+=== Paragraph 6 (Length: 34) ===
+3. 教育应模拟"医学模式"——通过研究确定有效干预，然后推广至课堂
+
+=== Paragraph 7 (Length: 69) ===
+[[Argument_Biesta_2010_SPE|Biesta (2010)]] 识别了证据本位教育的三个隐含假设，分别对应三重缺陷：
+
+=== Paragraph 8 (Length: 153) ===
+[[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了教育研究资助的动态循环：下降螺旋（政策制定者看不到相关性 → 资助不足 → 缺少大型决定性研究 → 更不愿投资）和上升螺旋（严格研究证明可复制项目有效 → 增加资助 → 更多更好的研究 → 更多资助和更广泛的应用）。
+
+=== Paragraph 9 (Length: 147) ===
+4. **它在这里有效吗？** 只有拥有 Hayek (1945) 所谓"特定时间和地点环境的知识"的人才能决定哪些创新可能有效，哪些虽然在其他地方有效但在特定情境中可能无效甚至适得其反。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.12–13]])
+
+=== Paragraph 10 (Length: 92) ===
+**共享"构建块"作为整合媒介**：随机化评估转移性机制产生因果估计 → 这些机制作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制假设进入新实验测试（p. 307）。
+
+=== Paragraph 11 (Length: 80) ===
+Peterson 的贡献补充了 EBE 批判的第五个维度——**改革建设维度**：在接受 RCT 方法的前提下主张从内部改革其设计和制度基础，而非仅从外部批判。
+
+=== Paragraph 12 (Length: 202) ===
+Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，这种萎靡感源于"该方法未能识别大规模有效的干预"（p.233）。特刊中 Spybrook 等的 [[Cluster Randomized Trials|CRT]] 精度研究和 Schweig & Pane 的部分嵌套 RCT 方法改进提供了技术层面的回应，但编者质疑这些技术改进"是否真的能产生必要的差异"（p.233）。
+
+=== Paragraph 13 (Length: 188) ===
+**关键盲点**：Pampaka 等指出，"可以说，这两种方法都未将学习者视为具有能动性：这一问题在此新兴辩论中尚待充分考量"（p.235）。在编者先前的研究中（Williams & Ryan, 2013; Pampaka et al., 2013），他们主张除成就外还需测量态度、倾向和抱负等替代性学习结果，以"从学习者能动性的角度捕捉教学-学习关系的复杂性"（p.235）
+
+=== Paragraph 14 (Length: 220) ===
+**争议背景**：[[Argument_Berk_2011_ER|Berk (2011)]] 从 35 年担任 *Evaluation Review* 创始编辑的经验出发，为 EBE 补充了一个此前未被充分讨论的维度——**证据概念本身的操作性空泛**。此前的批判主要聚焦于哲学前提（Biesta），但 Berk 的问题更前置：即使接受 EBE 的原则，政策制定者实际上**无法区分真正的证据与"垃圾科学"**（junk science）。
+
+=== Paragraph 15 (Length: 107) ===
+1. **知识的局部性**（locality）：Goldman 对相关替代方案的关注意味着知识可以因地点不同而不同。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.10]])
+
+=== Paragraph 16 (Length: 281) ===
+2. **知识的临时性**（provisionality）：Wiliam 以自身的[[Tracking|能力分组]]研究为例——Boaler, Wiliam, & Brown (2000) 和 Wiliam & Bartholomew (2004) 发现能力分组降低成就。但当 Hanushek & Rivkin (2010) 建立了教师间差异的量级后，"教师分配效应"成为相关替代状态——原先的知识不再成立。"教育研究只告诉我们曾经是什么，而非可能是什么。"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.7–9]])
+
+=== Paragraph 17 (Length: 160) ===
+3. **效度作为推论的属性**：继承 Cronbach (1971) 和 Messick (1989)，Wiliam 论证效度"不能是实验的属性，甚至不能是实验结果的属性，而只能是我们从那些结果中得出推论的属性"。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
+
+=== Paragraph 18 (Length: 64) ===
+**目前状态**：Wiliam 的论证构成 EBE 批判的三维框架（哲学-制度-认识论），但"永远不会成功"的断言可能过于绝对。
+
+=== Paragraph 19 (Length: 141) ===
+[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]] 在此批判的基础上做出了更彻底的断言："将多个元分析的结果通过某种加权合并——即所谓的元-元分析——在教育政策制定中绝对没有任何角色。"（详见 [[Meta-analysis]] 条目）
+
+=== Paragraph 20 (Length: 35) ===
+5. **统计综合的程序缺陷**：详见上文"元-元分析的三级统计失真"
+
+=== Paragraph 21 (Length: 70) ===
+**目前状态**：实施维度的批判补充了哲学和政治经济学批判，构成 EBE 批判的三维框架（认识论-制度-实践），但政策建议尚未经过实证检验。
+
+=== Paragraph 22 (Length: 236) ===
+**医学类比**：Zhao 以 Pfizer 终止开发 Torcetrapib 为例——该药早期显示有效预防心脏病和中风，但[[Clinical Trial|临床试验]]中引发更高比例的胸痛和心力衰竭，Pfizer 因此终止了超过 USD 800M 的投资。相比之下，"我未找到任何教育产品附带类似药品的警告标签——如'本项目能提高你学生的阅读考试成绩，但可能使他们永远厌恶阅读'"([[Argument_Zhao_2017_JEC|Zhao, 2017, p.4]])。
+
+=== Paragraph 23 (Length: 254) ===
+**6 项行动建议**([[Argument_Zhao_2017_JEC|Zhao, 2017, p.15-16]])：(1) 教育干预提供者应主动识别和报告潜在副作用；(2) 研究资助机构应要求副作用分析作为拨款条件；(3) 研究综合机构（如 WWC、EEF）应包含副作用信息；(4) 政策制定者应在推广前评估副作用风险；(5) 教育者应在选择干预时权衡效果与副作用；(6) 建立类似 FDA 上市后监测的持续跟踪机制。详见 [[Side Effects]]、[[Direct Instruction]]。
+
+=== Paragraph 24 (Length: 102) ===
+答案在于 EBE 的**官僚功能**：RCT + [[Systematic Review|系统综述]]提供了一套**对主权者透明的过滤机制**——事先注册的研究协议和形式化的效应量产生看似客观的决策依据。
+
+=== Paragraph 25 (Length: 70) ===
+Cowen 主张：EBE 应(a) 切断与行政问责机制的捆绑；(b) 拥抱从准实验到定性分析的方法多元论；(c) 承认物质资源的系统性影响。
+
+=== Paragraph 26 (Length: 70) ===
+**对 EBE 批判框架的补充**：McKnight & Whitburn 的贡献补充了 EBE 批判的**第六个维度——文化政治维度**：
+
+=== Paragraph 27 (Length: 93) ===
+> [!example]
+> EBE 的理念在英国、美国、澳大利亚和新西兰等英语国家通过政策立法、制度建设、评估排名和草根运动等多种路径得到制度化实施，各国的采纳方式和制度载体各有不同。
+
