@@ -27,7 +27,8 @@ related_methods:
 related_persons:
   - "[[Max Weber]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -69,7 +70,7 @@ updated: 2026-06-17
 ---
 
 > [!claim] 命题二：价值中立的声称本身就是意识形态立场
-> [[Critical Theory|批判理论]]传统（参见第2章）对价值中立提出了根本性质疑：声称研究者应保持意识形态中立的呼吁，本身就是意识形态饱和的——它蕴含着放任自流的价值观，让现状得以再生产。价值中立的研究恰好服务于那些从现状中受益的群体，因为它从不质疑现状的合法性。正如第2章所论证的：对于批判理论家而言，研究者不能再声称中立和意识形态或政治上的无辜（Cohen et al., 2011: 29）。
+> [[Critical Theory|批判理论]]传统（参见第2章）对价值中立提出了根本性质疑：声称研究者应保持意识形态中立的呼吁，本身就是意识形态饱和的——它蕴含着放任自流的价值观，让现状得以再生产。价值中立的研究恰好服务于那些从现状中受益的群体，因为它从不质疑现状的合法性。正如第2章所论证的：对于批判理论家而言，研究者不能再声称中立和意识形态或政治上的无辜（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011: 29]]）。
 
 > [!tension] 核心争议
 > - **[[Positivism|实证主义]]立场**：价值中立是方法论规范，通过严格的研究程序可以实现。排除价值偏见的干扰，是科学研究可靠性的基础。
