@@ -7938,3 +7938,114 @@
   letter-spacing: 0.02em;
   background: rgba(128, 128, 128, 0.06);
 }
+
+/* ─── challenges（论证困难/挑战 — 琥珀色编号列表） ──────── */
+.callout[data-callout="challenges"] {
+  --callout-color: 200, 130, 40;
+  --callout-icon: lucide-triangle-alert;
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 3px,
+      rgba(200, 130, 40, 0.025) 3px,
+      rgba(200, 130, 40, 0.025) 5px
+    ),
+    linear-gradient(160deg, rgba(200, 130, 40, 0.07), rgba(200, 130, 40, 0.015)),
+    var(--background-primary);
+  border-left: 4px solid rgba(200, 130, 40, 0.45);
+  padding: 0.75rem 1rem;
+  margin-block: 0.9rem 0.6rem;
+}
+
+.callout[data-callout="challenges"] > .callout-title {
+  color: rgb(160, 100, 25);
+  font-weight: 700;
+  font-size: 0.95em;
+  margin-bottom: 0.35rem;
+}
+
+.callout[data-callout="challenges"] > .callout-title .callout-title-inner::before {
+  content: "CHALLENGES";
+  display: inline-block;
+  font-size: 0.68em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: rgba(200, 130, 40, 0.55);
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.callout[data-callout="challenges"] .callout-content {
+  counter-reset: challenge-counter;
+  padding-left: 0.2rem;
+}
+
+.callout[data-callout="challenges"] .callout-content > ol {
+  list-style: none;
+  counter-reset: challenge-counter;
+  padding-inline-start: 0;
+  margin-block: 0.3rem 0.1rem;
+}
+
+.callout[data-callout="challenges"] .callout-content > ol > li {
+  counter-increment: challenge-counter;
+  position: relative;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  margin-bottom: 0.35rem;
+  border-bottom: 1px dashed rgba(200, 130, 40, 0.15);
+  line-height: 1.6;
+  font-size: 0.92em;
+}
+
+.callout[data-callout="challenges"] .callout-content > ol > li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.callout[data-callout="challenges"] .callout-content > ol > li::before {
+  content: counter(challenge-counter);
+  position: absolute;
+  left: 0;
+  top: 0.35rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: rgba(200, 130, 40, 0.12);
+  color: rgb(160, 100, 25);
+  font-size: 0.78em;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.5rem;
+  border: 1.5px solid rgba(200, 130, 40, 0.25);
+}
+
+/* 嵌套 strong 标题高亮 */
+.callout[data-callout="challenges"] .callout-content > ol > li > strong {
+  color: rgb(160, 100, 25);
+}
+
+/* 明暗主题 */
+.theme-dark .callout[data-callout="challenges"] {
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 3px,
+      rgba(200, 130, 40, 0.04) 3px,
+      rgba(200, 130, 40, 0.04) 5px
+    ),
+    linear-gradient(160deg, rgba(200, 130, 40, 0.1), rgba(200, 130, 40, 0.02)),
+    var(--background-primary);
+  border-left-color: rgba(220, 150, 60, 0.45);
+}
+
+.theme-dark .callout[data-callout="challenges"] > .callout-title {
+  color: rgb(210, 150, 55);
+}
+
+.theme-dark .callout[data-callout="challenges"] .callout-content > ol > li::before {
+  background: rgba(200, 130, 40, 0.18);
+  color: rgb(210, 150, 55);
+  border-color: rgba(220, 150, 60, 0.35);
+}
