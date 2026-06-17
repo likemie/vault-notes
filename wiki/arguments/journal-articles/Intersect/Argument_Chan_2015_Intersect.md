@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Soviet Statism]]"
   - "[[Informationalization]]"
+  - "[[State Vertical]]"
   - "[[Falsification]]"
   - "[[Governance by Spin]]"
   - "[[Military-Industrial Black Hole]]"
@@ -27,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology Transfer]]"
-  - "[[State Vertical]]"
   - "[[Evaluation Research]]"
   - "[[Flow]]"
 related_theories:

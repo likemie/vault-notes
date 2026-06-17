@@ -20,6 +20,7 @@ related_concepts:
   - "[[Four Sprouts]]"
   - "[[Benevolence]]"
   - "[[Rightness]]"
+  - "[[Ritual Propriety]]"
   - "[[Junzi]]"
   - "[[Take the World Upon Oneself]]"
 related_theories:

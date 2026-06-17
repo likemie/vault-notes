@@ -224,7 +224,9 @@ def source_section_and_body_without_sources(body: str) -> tuple[str, str]:
 
 
 def parse_wikilink(raw: str) -> tuple[str, str | None]:
-    if "|" in raw:
+    if "\\|" in raw:
+        target, display = raw.split("\\|", 1)
+    elif "|" in raw:
         target, display = raw.split("|", 1)
     else:
         target, display = raw, None

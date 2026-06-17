@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
 related_theories:

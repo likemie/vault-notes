@@ -25,6 +25,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
   - "[[Research Utilization]]"
+  - "[[Responsible Innovation]]"
   - "[[UIC Impact Measurement]]"
   - "[[Clinical Trial]]"
   - "[[Knowledge Transfer]]"

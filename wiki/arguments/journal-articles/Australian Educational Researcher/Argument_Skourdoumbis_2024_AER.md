@@ -21,8 +21,10 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Causality]]"
   - "[[What Works Movement]]"
+  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Educational Neuroscience]]"
+  - "[[Classroom Management]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
   - "[[Theoretical Standpoint]]"
@@ -35,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
 related_persons:
+  - "[[Lev Vygotsky]]"
   - "[[John Sweller]]"
 related_facts:
   - "[[Strong Beginnings Report]]"
@@ -43,8 +46,8 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Centre for Independent Studies]]"
   - "[[Community Innovation Survey]]"
-  - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
+  - "[[OECD]]"
   - "[[BHP Foundation]]"
   - "[[Centre for Evidence and Implementation]]"
   - "[[LANTITE]]"

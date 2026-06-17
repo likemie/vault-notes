@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Emergence]]"
   - "[[Posthumanism]]"
+  - "[[Epoché]]"
 related_theories:
   - "[[Autopoiesis]]"
   - "[[Luhmann's Systems Theory]]"

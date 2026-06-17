@@ -25,6 +25,8 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Doxa]]"
   - "[[Self-Driven Mode]]"
+  - "[[Reflexivity]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Value Conformist Mode]]"
 related_theories: []
 related_methods: []

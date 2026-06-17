@@ -39,10 +39,11 @@ related_concepts:
   - "[[Joint Faculty Appointments]]"
   - "[[University-Industry Co-location]]"
   - "[[Partnership Continuum]]"
+  - "[[Clinical Trial]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Concierge Service]]"
   - "[[Research Security]]"
-  - "[[Sponsored Research Agreement]]"
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
@@ -50,13 +51,14 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Strategic Partnership]]"
   - "[[Industry Affiliate Program]]"
+  - "[[University-Based Research Center]]"
   - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
   - "[[Academic Engagement Team]]"
   - "[[Academic Engagement]]"
   - "[[Research Translation]]"
   - "[[Public-Private Partnership in Research]]"
-  - "[[Clinical Trial]]"
+  - "[[Absorptive Capacity]]"
   - "[[Multi-University]]"
   - "[[Innovation Park]]"
   - "[[Background IP]]"
@@ -283,7 +285,7 @@ updated: 2026-06-05
 
 ### 关系建设路径
 
-Burrus 和 Patera（2025）将产学关系建设归纳为三个相互关联的阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.74–79]])：
+[[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera (2025)]]将产学关系建设归纳为三个相互关联的阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.74–79]])：
 
 **连接（Connecting）**：找到组织中正确的人是第一步。产学关系的拥护者可通过以下渠道识别——参与学术研讨会和[[Industry Advisory Board|行业咨询委员会]]、出席 UIDP 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动、担任 [[Professors of Practice|实践教授]]、参加[[Trade Mission|政府贸易代表团]]，以及参与校友活动。其中，校友网络是启动产业合作的特别有效策略：校友熟悉大学的研究优势，在产业中拥有信誉和网络，可以充当倡导者、连接者、赞助者和合作者。具体方式包括组建行业咨询委员会和圆桌讨论、鼓励校友推动公司内部研究合作、建立结构化校友指导计划、按公司组织校友员工群体、连接校友创业者与大学研究人员、以及开发以校友专长为基础的行业高管教育项目（pp.74–75）。
 
@@ -329,7 +331,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 ### 产业在创业项目中的非货币参与
 
 > [!abstract]
-> Gilison 和 Wilson（2025, pp.148-151）指出，产业在催生[[University Spin-Out|大学衍生企业]]方面最有价值的贡献不是直接投资，而是提供"市场声音"（voice of the market）——包括客户需求、竞争格局、分销渠道、制造/部署成本和销售周期等商业洞察。产业直接发起衍生企业"是扼杀真正颠覆性创新的必然方式"（p.148）：企业天然偏好增量创新以保护现有业务，颠覆性创新如果威胁其产品线，内部激励机制会自动压制它。
+> [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025, pp.148-151)]]指出，产业在催生[[University Spin-Out|大学衍生企业]]方面最有价值的贡献不是直接投资，而是提供"市场声音"（voice of the market）——包括客户需求、竞争格局、分销渠道、制造/部署成本和销售周期等商业洞察。产业直接发起衍生企业"是扼杀真正颠覆性创新的必然方式"（p.148）：企业天然偏好增量创新以保护现有业务，颠覆性创新如果威胁其产品线，内部激励机制会自动压制它。
 
 产业以非货币形式参与大学创业项目的两种关键杠杆：
 
@@ -337,7 +339,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - **人才杠杆**：企业最需要从大学获取的是熟练劳动力，招聘是最直接的商业利益。大学可以将产业对创业项目的参与（做评审、做导师、做顾问）打包为产业伙伴关系的一部分。对企业而言，花时间指导创业者同时也是"人才的早期侦察"（early talent scouting）（p.148）。
 
 > [!abstract]
-> Gilison 和 Wilson（2025, pp.151-152）将产业在大学衍生企业生命周期中的参与归纳为七个层级，从最轻量到最重度：前瞻性市场输入 → 早期项目评审 → 拨款申请指导 → 挑战与黑客马拉松 → 联盟投资与专家派驻 → 展示会与竞赛评委 → 直接投资。核心发现是：产业与大学的互动"很少直接催生初创企业"，但其价值在于"广泛意义上刺激了有意义的创新和创业"（p.151），通过市场声音和人力资本积累间接发挥作用。详见 [[Argument_Gilison_Wilson_2025_UniversityStartups]]。
+> [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025, pp.151-152)]]将产业在大学衍生企业生命周期中的参与归纳为七个层级，从最轻量到最重度：前瞻性市场输入 → 早期项目评审 → 拨款申请指导 → 挑战与黑客马拉松 → 联盟投资与专家派驻 → 展示会与竞赛评委 → 直接投资。核心发现是：产业与大学的互动"很少直接催生初创企业"，但其价值在于"广泛意义上刺激了有意义的创新和创业"（p.151），通过市场声音和人力资本积累间接发挥作用。详见 [[Argument_Gilison_Wilson_2025_UniversityStartups]]。
 
 ---
 
@@ -399,7 +401,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.67–68]]）。
 
 > [!note] [[Academic Health System|学术健康系统]]：组织模式的补充
-> Swick 和 Jones（2025, pp.179–181）在传统五种大学组织模式之外，识别了[[Academic Health System|学术健康系统]]（Academic Health System, AHS）作为一种独特的产学合作组织载体。AHS 混合了学术、临床和产业三种逻辑，以"中心辐射"网络和双向学术管线为结构特征，在产学合作中扮演促进者（facilitator）而非仅仅是参与者。这一组织形态突破了前述五种模式的分类框架（均以大学为中心），提示产学合作的组织载体可能不限于传统的大学结构。详见 [[Academic Health System]]。
+> [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.179–181)]]在传统五种大学组织模式之外，识别了[[Academic Health System|学术健康系统]]（Academic Health System, AHS）作为一种独特的产学合作组织载体。AHS 混合了学术、临床和产业三种逻辑，以"中心辐射"网络和双向学术管线为结构特征，在产学合作中扮演促进者（facilitator）而非仅仅是参与者。这一组织形态突破了前述五种模式的分类框架（均以大学为中心），提示产学合作的组织载体可能不限于传统的大学结构。详见 [[Academic Health System]]。
 
 ---
 
@@ -424,7 +426,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环理解为相互支撑的三重螺旋。产学合作是 Triple Helix 中大学-产业这一边的具体互动形式，其运作深受政府政策（如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、[[National Science Foundation|NSF]] 资助机制）的塑造（p.13）
 > - [[Innovation Ecosystem]] — 产学合作发生在创新生态系统内部；大学作为生态系统的"锚点"，通过与企业和其他机构的互动催化知识创造和商业化（pp.12–13）
 > - Kerr 的 [[Multi-University]] 概念（2001）— 多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报（研究与学术、教育与学习、公共效益），同时财务资源和声誉是维持多元大学运转的必要条件（pp.5–7）
-> - [[Values Alignment Model|价值对齐模型]] — Swick 和 Jones（2025, pp.190–191）提出以促进者（如 [[Academic Health System|AHS]]）为枢纽，通过终端用户中心的透镜重新对齐大学、产业和医院各方的优先差异与 [[Return on Investment|ROI]] 定义。该模型为理解产学合作中目标对齐的操作机制提供了框架
+> - [[Values Alignment Model|价值对齐模型]] — [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.190–191)]]提出以促进者（如 [[Academic Health System|AHS]]）为枢纽，通过终端用户中心的透镜重新对齐大学、产业和医院各方的优先差异与 [[Return on Investment|ROI]] 定义。该模型为理解产学合作中目标对齐的操作机制提供了框架
 > - [[King-Persily Model|King-Persily 模型]] — King 和 Persily（2019）提出通过独立第三方委员会解耦研究者对产业数据的完全访问，解决产学合作中的数据治理与专有信息保护矛盾([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.188–189]])
 > - 合作光谱 — Swick 和 Jones（2025, p.187, Fig. 10.4）从创新来源和伙伴角色的角度补充了另一种视角：合作从"交易型"（产业出创新、大学出场景）到"创新型"（大学出创新、产业出规模化能力）。详见 [[Partnership Continuum]]
 

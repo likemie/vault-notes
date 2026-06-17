@@ -13,6 +13,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
+  - "[[Consequential Validity]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Informed Consent]]"
@@ -29,7 +30,8 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Qualitative Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Girls Into Science and Technology Project]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
 confidence: medium

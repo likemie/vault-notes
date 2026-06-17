@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"
   - "[[Governmentality]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"

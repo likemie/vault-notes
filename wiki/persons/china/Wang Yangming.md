@@ -26,6 +26,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Mencius]]"
+  - "[[Cheng Brothers]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments:

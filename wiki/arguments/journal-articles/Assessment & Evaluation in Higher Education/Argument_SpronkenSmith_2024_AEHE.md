@@ -22,6 +22,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Outcomes-based Education]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Lifelong Learning]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"

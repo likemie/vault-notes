@@ -23,6 +23,8 @@ related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Paradigm]]"
   - "[[Absorptive Capacity]]"
+  - "[[Reflexivity]]"
+  - "[[Probes]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Systems of Innovation]]"

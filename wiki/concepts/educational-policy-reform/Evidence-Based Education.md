@@ -48,6 +48,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Evaluation Research]]"
   - "[[Scientific Method]]"
+  - "[[Variable]]"
   - "[[Recommendations for Practice]]"
   - "[[Multimethod Research]]"
   - "[[Construct Validity in Quantitative Measurement]]"
@@ -56,8 +57,11 @@ related_concepts:
   - "[[Material Fallacies]]"
   - "[[Post-structuralism]]"
   - "[[Positivism]]"
+  - "[[Pragmatism in China]]"
+  - "[[Technical Rationality]]"
   - "[[Moral Sidestep]]"
   - "[[Technology Infusion]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -79,6 +83,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-analysis]]"
+  - "[[Pilot Testing]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
   - "[[Mixed Methods Research]]"
@@ -87,6 +92,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Grover Whitehurst]]"
+  - "[[John Dewey]]"
+  - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"

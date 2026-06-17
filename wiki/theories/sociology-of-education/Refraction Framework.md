@@ -19,7 +19,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Coleman Report 1966]]"
   - "[[No Child Left Behind Act 2001]]"

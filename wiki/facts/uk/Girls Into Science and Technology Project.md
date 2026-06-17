@@ -22,7 +22,8 @@ related_methods:
   - "[[Feminist Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-06-17

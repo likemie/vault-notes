@@ -21,20 +21,23 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Synaptogenesis]]"
   - "[[Myelination]]"
-  - "[[Working Memory]]"
-  - "[[Cognitive Shifting]]"
   - "[[Cognitive Inhibition]]"
+  - "[[Cognitive Shifting]]"
+  - "[[Updating and Monitoring]]"
+  - "[[Working Memory]]"
   - "[[Attentional Inertia]]"
   - "[[Synaptic Pruning]]"
   - "[[Variable]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Neo-Piagetian Theories]]"
+  - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"
 related_persons:
   - "[[Jean Piaget]]"
+  - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
 related_facts: []

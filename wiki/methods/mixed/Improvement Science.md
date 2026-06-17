@@ -14,11 +14,15 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Internal Validity]]"
+  - "[[Effect Size]]"
   - "[[Spirals of Inquiry]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Paradigm Wars]]"
 related_theories: []
 related_methods:
+  - "[[Randomised Controlled Trials]]"
   - "[[Mechanism Experiments]]"
 related_persons: []
 related_facts:

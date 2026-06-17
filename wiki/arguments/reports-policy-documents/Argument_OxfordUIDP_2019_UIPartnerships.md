@@ -33,6 +33,8 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Convergence Research]]"
   - "[[Fourth Industrial Revolution]]"
+  - "[[Technology Readiness Level]]"
+  - "[[Absorptive Capacity]]"
   - "[[Logic Model]]"
   - "[[Partnership Continuum]]"
   - "[[Knowledge Transfer]]"

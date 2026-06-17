@@ -16,6 +16,7 @@ tags:
   - research-methodology
   - paradigm/interpretivist
 related_concepts:
+  - "[[Epoché]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
@@ -23,6 +24,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Probes]]"
   - "[[Central Question]]"
+  - "[[Research Topic]]"
   - "[[Reflexivity]]"
   - "[[University-Industry Collaboration]]"
   - "[[School Choice]]"

@@ -9,6 +9,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
+  - "[[Nomothetic and Idiographic]]"
 related_theories: []
 related_methods: []
 related_persons: []

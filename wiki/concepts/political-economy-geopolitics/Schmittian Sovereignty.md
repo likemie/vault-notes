@@ -17,7 +17,8 @@ tags:
   - state-of-exception
   - political-theory
   - constitutional-law
-related_concepts: []
+related_concepts:
+  - "[[Epoché]]"
 related_theories: []
 related_methods: []
 related_persons: []

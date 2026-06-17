@@ -20,6 +20,8 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Industry Advisory Board]]"
+  - "[[Innovation Park]]"
   - "[[Technology Transfer Office]]"
   - "[[Academic Health System]]"
   - "[[Academic Medical Center]]"

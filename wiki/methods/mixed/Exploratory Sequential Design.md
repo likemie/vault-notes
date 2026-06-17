@@ -18,6 +18,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
+  - "[[Metainferences]]"
   - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:

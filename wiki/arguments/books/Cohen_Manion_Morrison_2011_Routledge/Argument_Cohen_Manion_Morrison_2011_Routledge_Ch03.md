@@ -21,18 +21,28 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Categorical Funding]]"
+  - "[[Research Question]]"
+  - "[[Hypothesis]]"
+  - "[[Construct]]"
+  - "[[Null Hypothesis]]"
   - "[[Variable]]"
+  - "[[Internal Validity]]"
+  - "[[External Validity]]"
+  - "[[Nomothetic and Idiographic]]"
   - "[[Knowledge Production]]"
   - "[[Research Topic]]"
   - "[[Conformative Evaluation]]"
+  - "[[Theoretical Perspective]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Evaluation Research]]"
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Research Problem]]"
+  - "[[Confidence Interval]]"
   - "[[Positivism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []

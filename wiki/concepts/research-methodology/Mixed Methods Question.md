@@ -16,6 +16,9 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Research Question]]"
+  - "[[Variable]]"
+  - "[[Central Phenomenon]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Research Topic]]"
   - "[[Research Writing Script]]"
   - "[[Purpose Statement]]"
@@ -23,6 +26,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
+  - "[[Quantitative Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"

@@ -14,13 +14,15 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Pilot Testing]]"
+  - "[[Interview Protocol]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Pilot Testing]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Coding in Qualitative Research]]"

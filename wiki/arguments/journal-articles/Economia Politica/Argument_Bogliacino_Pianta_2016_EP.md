@@ -28,12 +28,14 @@ related_concepts:
   - "[[Competitiveness]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
+  - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"
   - "[[Centre for Independent Studies]]"
+  - "[[Sectoral Innovation Database]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
 sources:
@@ -155,7 +157,7 @@ updated: 2026-06-10
 
 ### 论证步骤四：修订版分类法的实证检验
 
-Bogliacino 和 Pianta（2016）通过三个层次的实证检验论证了修订的合理性，每一层都比上一层更深入：
+[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]通过三个层次的实证检验论证了修订的合理性，每一层都比上一层更深入：
 
 > [!line-a] PCA 揭示两类创新策略
 > [[Research Utilization|研究使用]]六个创新[[Variable|变量]]进行主成分分析，根据 Kaiser 准则保留两个主成分，累计解释 $71.36\%$ 的总方差（$\lambda_1 = 3.06$，$\lambda_2 = 1.22$）。两个成分精确对应了 Schumpeter 关于产品创新和流程创新的经典区分（pp.163-165）。

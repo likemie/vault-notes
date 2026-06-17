@@ -34,10 +34,10 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
-  - "[[Case Study]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Convergent Design]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:

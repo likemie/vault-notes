@@ -16,10 +16,10 @@ tags:
   - theory/management-rhetoric
   - theme/managerialism
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Technical Rationality]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
-  - "[[Effect Size]]"
   - "[[Cult of Efficiency]]"
   - "[[Visible Learning]]"
 related_theories: []

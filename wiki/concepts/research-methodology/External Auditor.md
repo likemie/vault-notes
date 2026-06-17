@@ -20,6 +20,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Peer Debriefing]]"
 related_persons: []
 related_facts: []
 related_arguments:

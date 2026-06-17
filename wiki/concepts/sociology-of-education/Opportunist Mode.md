@@ -21,6 +21,7 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Driven Mode]]"
+  - "[[Probes]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Culture as Toolkit]]"

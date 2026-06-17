@@ -21,6 +21,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
+  - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -33,9 +34,12 @@ related_methods:
 related_persons:
   - "[[Sean McCusker]]"
   - "[[Bob Lingard]]"
+  - "[[John Dewey]]"
 related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"

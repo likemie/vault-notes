@@ -21,6 +21,8 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
+  - "[[Study Population and Sample]]"
+  - "[[Tracking]]"
   - "[[5-3-20 Rule]]"
   - "[[Research Question]]"
 related_theories:

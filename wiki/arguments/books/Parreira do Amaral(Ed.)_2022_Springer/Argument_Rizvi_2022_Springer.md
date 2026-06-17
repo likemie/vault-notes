@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Knowledge Capitalism]]"
   - "[[Classical Geopolitics]]"
+  - "[[Post-colonial Theory]]"
   - "[[Orientalism]]"
   - "[[Knowledge Production]]"
   - "[[International Education]]"

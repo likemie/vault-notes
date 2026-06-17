@@ -16,10 +16,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

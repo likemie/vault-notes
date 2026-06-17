@@ -15,11 +15,16 @@ tags:
   - research-methodology
   - qualitative-research
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Descriptive Methods]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Narrative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Ethnography]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -29,8 +29,12 @@ related_concepts:
   - "[[Conformative Evaluation]]"
   - "[[Research Utilization]]"
   - "[[Scientific Method]]"
+  - "[[Causality]]"
+  - "[[Research Question]]"
+  - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Descriptive Analysis]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
@@ -39,12 +43,16 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
+  - "[[Ethnography]]"
   - "[[Meta-analysis]]"
   - "[[Grounded Theory]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:

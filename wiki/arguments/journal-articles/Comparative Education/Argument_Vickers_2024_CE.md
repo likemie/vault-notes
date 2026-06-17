@@ -23,6 +23,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Sinicisation]]"
   - "[[Schmittian Sovereignty]]"
+  - "[[Epoché]]"
   - "[[Culturalisation of Politics]]"
   - "[[Psychologisation]]"
   - "[[Zhonghua Minzu]]"

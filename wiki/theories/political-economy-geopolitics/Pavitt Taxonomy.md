@@ -42,7 +42,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!abstract]
-> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源**（内部研发 vs 外部供应商）、**性质**（产品创新 vs 流程创新）和**企业规模与市场结构**，将制造业分为四个类别。Bogliacino 和 Pianta（2016）利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016)]]。
+> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源**（内部研发 vs 外部供应商）、**性质**（产品创新 vs 流程创新）和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016)]]。
 
 ---
 ## 理论框架
@@ -67,7 +67,7 @@ updated: 2026-06-10
 ### 修订版 Pavitt 分类法（2016）
 
 > [!abstract]
-> Bogliacino 和 Pianta（2016）基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，[[Centre for Independent Studies|CIS]]） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。[[Research Utilization|研究使用]]主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
+> [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，[[Centre for Independent Studies|CIS]]） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。[[Research Utilization|研究使用]]主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
 
 > [!success] 修订版的主要贡献
 > - **保留原始四类的核心结构**：实证检验确认 Pavitt 的四个类别在不同国家和时间段仍然稳健，能够解释产业间创新模式的主要差异
@@ -97,7 +97,7 @@ updated: 2026-06-10
 ## 实证验证
 
 > [!success]
-> Bogliacino 和 Pianta（2016）使用 [[Sectoral Innovation Database|SID]] 数据库对修订版分类法进行了多维度实证检验（pp.165-175）：
+> [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]使用 [[Sectoral Innovation Database|SID]] 数据库对修订版分类法进行了多维度实证检验（pp.165-175）：
 > - **创新来源维度**：不同 Pavitt 类别在内部研发支出、外部知识获取和设备采购等创新投入上呈现显著差异
 > - **创新目标维度**：科学基础型以产品创新为主，规模与信息密集型以流程创新为主，专业供应商型在两者之间平衡
 > - **创新产出维度**：科学基础型在专利和新产品占比上显著高于其他类别

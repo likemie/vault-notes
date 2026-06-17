@@ -49,6 +49,7 @@ related_methods:
   - "[[Comparative Meta-synthesis]]"
   - "[[Intervention Research]]"
 related_persons:
+  - "[[Steven Stahl]]"
   - "[[William Jeynes]]"
   - "[[Gene Glass]]"
 related_arguments:

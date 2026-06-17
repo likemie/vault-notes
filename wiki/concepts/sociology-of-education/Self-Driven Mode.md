@@ -22,6 +22,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Social Engagement]]"
   - "[[Opportunist Mode]]"
+  - "[[Probes]]"
   - "[[Self-Authorship]]"
 related_theories:
   - "[[Culture as Toolkit]]"

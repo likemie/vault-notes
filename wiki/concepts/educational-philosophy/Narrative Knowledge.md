@@ -21,6 +21,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Performativity]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Paradigm Wars]]"
 related_theories: []
 related_methods: []
 related_persons: []

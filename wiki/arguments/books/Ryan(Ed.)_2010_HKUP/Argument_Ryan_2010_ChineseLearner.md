@@ -28,9 +28,9 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Epistemology]]"
   - "[[Quality Education]]"
-  - "[[Falsification]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"

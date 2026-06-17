@@ -11,6 +11,7 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
+  - "[[Qualitative Codebook]]"
   - "[[Descriptive Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Intercoder Agreement]]"

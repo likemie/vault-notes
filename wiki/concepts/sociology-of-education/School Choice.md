@@ -24,6 +24,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Peidu]]"
+  - "[[Rural School Consolidation]]"
+  - "[[Partnership Schools Kura Hourua]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
 confidence: medium

@@ -12,7 +12,10 @@ tags:
   - method/spatial-analysis
   - theme/systems-theory
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Postpositivism]]"
   - "[[Causality]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Coupling Coordination Theory]]"
 related_methods:

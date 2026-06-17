@@ -16,6 +16,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Whole Language]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
 related_theories: []

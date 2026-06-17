@@ -21,16 +21,16 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
+  - "[[Language Experience Approach]]"
+  - "[[Simple View of Reading]]"
+  - "[[Direct Instruction]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Homework]]"
   - "[[Self-Efficacy]]"
-  - "[[Language Experience Approach]]"
-  - "[[Direct Instruction]]"
   - "[[Variable]]"
   - "[[Global Education Reform Movement]]"
-  - "[[Simple View of Reading]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Ken Goodman]]"
   - "[[John Hattie]]"
   - "[[William Jeynes]]"
+  - "[[Steven Stahl]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"

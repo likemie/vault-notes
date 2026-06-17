@@ -23,6 +23,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
+  - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
 related_theories:

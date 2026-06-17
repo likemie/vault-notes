@@ -21,6 +21,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
+  - "[[Employability]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"

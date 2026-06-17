@@ -25,6 +25,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Joint Display]]"
+  - "[[Explanatory Sequential Design]]"
+  - "[[Exploratory Sequential Design]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []

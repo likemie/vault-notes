@@ -22,6 +22,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"
+  - "[[Centre for Independent Studies]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
@@ -68,4 +69,4 @@ updated: 2026-06-10
 ## 研究应用
 
 > [!note]
-> SID 已被用于多项创新经济学研究。Bogliacino 和 Pianta（2016）使用 SID 数据系统检验了修订版 [[Pavitt Taxonomy]] 的有效性，通过主成分分析和回归分析验证了四类创新模式——科学基础型（Science Based，SB）、专业供应商型（Specialized Suppliers，SS）、规模与信息密集型（Scale and Information Intensive，SII）、供应商主导型（Supplier Dominated，SD）——在八个国家和三轮调查中的稳健性。其他应用包括创新与就业关系（Bogliacino & Pianta, 2010）和创新与生产率关系（Bogliacino & Pianta, 2011）的跨行业分析。
+> SID 已被用于多项创新经济学研究。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]使用 SID 数据系统检验了修订版 [[Pavitt Taxonomy]] 的有效性，通过主成分分析和回归分析验证了四类创新模式——科学基础型（Science Based，SB）、专业供应商型（Specialized Suppliers，SS）、规模与信息密集型（Scale and Information Intensive，SII）、供应商主导型（Supplier Dominated，SD）——在八个国家和三轮调查中的稳健性。其他应用包括创新与就业关系（Bogliacino & Pianta, 2010）和创新与生产率关系（Bogliacino & Pianta, 2011）的跨行业分析。

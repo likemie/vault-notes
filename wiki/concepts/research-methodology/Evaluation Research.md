@@ -13,6 +13,7 @@ tags:
   - topic/evaluation
 related_concepts:
   - "[[Pure Evaluation]]"
+  - "[[External Validity]]"
   - "[[Variable]]"
   - "[[Categorical Funding]]"
   - "[[Research Topic]]"

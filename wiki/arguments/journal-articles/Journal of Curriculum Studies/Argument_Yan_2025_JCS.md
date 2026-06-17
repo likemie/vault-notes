@@ -28,6 +28,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Externalization]]"
+  - "[[Epistemology]]"
   - "[[Class Size]]"
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"

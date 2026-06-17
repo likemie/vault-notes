@@ -26,11 +26,13 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Spatial Sortings]]"
   - "[[Causality]]"
-related_theories: []
+related_theories:
+  - "[[Coupling Coordination Theory]]"
 related_methods:
   - "[[Coupling Coordination Model]]"
   - "[[LISA Time Path]]"
   - "[[LISA Spatiotemporal Transition]]"
+  - "[[Combined Weighting AHP-EWM]]"
 related_persons: []
 related_facts: []
 related_arguments: []

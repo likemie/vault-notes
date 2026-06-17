@@ -21,6 +21,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Academic Health System]]"
   - "[[Institutional Review Board]]"
+  - "[[Performance Indicators]]"
   - "[[Translational Research]]"
   - "[[Contract Research Organization]]"
 related_theories: []
@@ -52,7 +53,7 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 ## 与学术健康系统的区分
 
 > [!example]
-> Swick 和 Jones（2025, pp.179–180）明确区分了 AMC 与[[Academic Health System|学术健康系统]]（Academic Health System, AHS）：
+> [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.179–180)]]明确区分了 AMC 与[[Academic Health System|学术健康系统]]（Academic Health System, AHS）：
 >
 > | 维度 | AMC | AHS |
 > |------|-----|-----|

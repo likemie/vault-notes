@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Rents]]"
+  - "[[Evaluation Research]]"
   - "[[Champ]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"

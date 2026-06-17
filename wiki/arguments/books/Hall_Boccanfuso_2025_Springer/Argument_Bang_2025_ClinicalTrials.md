@@ -24,6 +24,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Informed Consent]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Research Utilization]]"

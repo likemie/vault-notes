@@ -22,6 +22,7 @@ related_concepts:
   - "[[Chain-linked Model]]"
   - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Linear Model of Innovation]]"
   - "[[Absorptive Capacity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"

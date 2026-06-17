@@ -21,6 +21,14 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
+  - "[[Employability]]"
+  - "[[Cooperative Education]]"
+  - "[[Sponsored Research Agreement]]"
+  - "[[Clinical Trial]]"
+  - "[[Executive Education]]"
+  - "[[Innovation Park]]"
+  - "[[Entrepreneur in Residence]]"
   - "[[Further Education]]"
 related_theories: []
 related_methods: []

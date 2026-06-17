@@ -22,6 +22,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
+  - "[[Epoché]]"
 related_theories:
   - "[[Autopoiesis]]"
 related_methods: []

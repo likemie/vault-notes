@@ -23,6 +23,7 @@ related_concepts:
   - "[[New Public Management]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons:
   - "[[John W. Meyer]]"

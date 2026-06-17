@@ -19,6 +19,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods:

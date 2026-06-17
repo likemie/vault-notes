@@ -16,13 +16,15 @@ tags:
   - region/west
 related_concepts:
   - "[[Variable]]"
-  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Pride in Learning]]"
   - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+  - "[[Homework]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Causality]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
-  - "[[Pride in Learning]]"
   - "[[Research Question]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"

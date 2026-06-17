@@ -17,6 +17,7 @@ tags:
   - quantitative-research
   - notation
 related_concepts:
+  - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
 related_theories:
@@ -24,6 +25,7 @@ related_theories:
 related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
+  - "[[Random Assignment]]"
   - "[[Solomon Four-Group Design]]"
 related_persons: []
 related_facts: []

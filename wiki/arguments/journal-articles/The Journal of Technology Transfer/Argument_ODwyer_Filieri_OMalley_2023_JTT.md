@@ -23,10 +23,12 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Academic Engagement]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer Office]]"
 related_theories:
   - "[[UIC Evolutionary Phases]]"
+  - "[[Social Capital Theory]]"
 related_methods:
   - "[[Qualitative Interview]]"
 related_persons: []

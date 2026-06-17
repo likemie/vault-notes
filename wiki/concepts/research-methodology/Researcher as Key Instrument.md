@@ -14,7 +14,8 @@ related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research
-related_concepts: []
+related_concepts:
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

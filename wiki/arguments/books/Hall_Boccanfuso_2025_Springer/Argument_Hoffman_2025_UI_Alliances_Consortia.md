@@ -24,8 +24,8 @@ related_concepts:
   - "[[Master Agreement]]"
   - "[[Foreground IP]]"
   - "[[Pre-negotiated IP Rights]]"
-  - "[[Research Translation]]"
   - "[[Product-Specific Research]]"
+  - "[[Research Translation]]"
   - "[[Research Topic]]"
 related_theories: []
 related_methods: []

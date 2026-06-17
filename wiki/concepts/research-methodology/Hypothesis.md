@@ -20,6 +20,7 @@ related_concepts:
   - "[[Purpose Statement]]"
 related_theories: []
 related_methods:
+  - "[[Causal Modeling]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []

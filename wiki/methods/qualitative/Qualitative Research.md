@@ -32,7 +32,10 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Multimethod Research]]"
   - "[[Paradigm]]"
+  - "[[Qualitative Generalization]]"
+  - "[[Further Education]]"
   - "[[Institutional Review Board]]"
+  - "[[Rich and Thick Description]]"
   - "[[Internal Validity]]"
   - "[[External Auditor]]"
 related_theories:
@@ -49,7 +52,15 @@ related_methods:
   - "[[Descriptive Methods]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Interview]]"
-related_persons: []
+  - "[[Qualitative Observation]]"
+  - "[[Qualitative Documents]]"
+  - "[[Triangulation]]"
+  - "[[Member Checking]]"
+  - "[[Peer Debriefing]]"
+  - "[[Participatory Research]]"
+related_persons:
+  - "[[Yvonna S. Lincoln]]"
+  - "[[Egon G. Guba]]"
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Creswell_2022_SAGE]]"

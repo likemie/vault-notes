@@ -22,6 +22,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"
+  - "[[Post-colonial Theory]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Analytic Framework]]"

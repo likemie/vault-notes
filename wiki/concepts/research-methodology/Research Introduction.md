@@ -12,6 +12,7 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Narrative Hook]]"
   - "[[Research Question]]"
+  - "[[Variable]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Purpose Statement]]"
   - "[[Literature Review]]"

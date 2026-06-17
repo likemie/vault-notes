@@ -10,6 +10,7 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [theme/academic-writing, theme/writing-style]
 related_concepts:
+  - "[[Literature Review]]"
   - "[[Sage]]"
 related_theories: []
 related_methods:

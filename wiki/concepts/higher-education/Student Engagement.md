@@ -24,6 +24,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
+  - "[[Probes]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"

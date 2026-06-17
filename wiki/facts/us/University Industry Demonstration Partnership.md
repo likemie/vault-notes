@@ -34,6 +34,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -55,7 +56,7 @@ updated: 2026-06-10
 UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者——不为单个合作项目牵线搭桥，而是为整个产学合作社区提供降低交易成本的公共品（合同模板、度量指标、交流平台）。[[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]将 UIDP 的工作归入产学联盟与联合体的基础设施层面——与价值主张、关系经理和[[Master Agreement|主协议]]并列，这类组织化资源使大学和企业之间的重复合作成为可能（pp.103–108）。
 
 > [!note] UIDP 使命的生物医学实例：[[Physician-Scientist|医师科学家]]
-> Swick 和 Jones（2025, pp.176–177）将[[Physician-Scientist|医师科学家]]（Physician-Scientist）描述为 UIDP 使命在生物医学领域的具体体现：医师科学家必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系（"speakers of both health system and industry vernacular"），成为学术、产业和其他关键伙伴之间的联络者（liaison）。这一角色直接呼应了 UIDP 降低跨部门沟通壁垒、促进产学互译的核心任务，将 UIDP 的桥梁功能从制度层面落实到了具体专业人员的日常实践中。详见 [[Physician-Scientist]]。
+> [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.176–177)]]将[[Physician-Scientist|医师科学家]]（Physician-Scientist）描述为 UIDP 使命在生物医学领域的具体体现：医师科学家必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系（"speakers of both health system and industry vernacular"），成为学术、产业和其他关键伙伴之间的联络者（liaison）。这一角色直接呼应了 UIDP 降低跨部门沟通壁垒、促进产学互译的核心任务，将 UIDP 的桥梁功能从制度层面落实到了具体专业人员的日常实践中。详见 [[Physician-Scientist]]。
 
 ---
 
@@ -100,7 +101,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 **工具开发者**。通过 Contract Accords、Collaboration Metrics 等出版物，将产学合作的共同摩擦点转化为标准化的解决方案模板。这些工具的价值在于跨组织可迁移——一个大学开发的合同条款方案可以被另一个大学直接使用（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.16–19]]）。
 
-**社区召集者**。UIDP 年度会议和项目活动是产学专业人员识别潜在合作者、交流最佳实践和建立同行网络的核心平台。Burrus 和 Patera（2025, p.74）将 UIDP 与 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Innovation Network|UIIN]] 并列为产学关系"拥护者"集中的关键交汇空间。
+**社区召集者**。UIDP 年度会议和项目活动是产学专业人员识别潜在合作者、交流最佳实践和建立同行网络的核心平台。[[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera (2025, p.74)]]将 UIDP 与 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Innovation Network|UIIN]] 并列为产学关系"拥护者"集中的关键交汇空间。
 
 **研究基础设施**。UIDP 的会员网络为产学合作研究提供了独特的数据来源。Boccanfuso & Hall（2025，第三章）以 UIDP 成员大学为样本，对 65 所研究活跃的成员大学进行了[[Website Content Analysis|网站内容分析]]，并向 124 名大学指定代表和 600 名企业代表发放了问卷调查（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.56–57]]）。
 

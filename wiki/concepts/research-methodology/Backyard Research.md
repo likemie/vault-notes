@@ -18,6 +18,8 @@ related_concepts: []
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Triangulation]]"
+  - "[[Member Checking]]"
 related_persons: []
 related_facts: []
 related_arguments:

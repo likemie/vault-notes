@@ -20,6 +20,7 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Knowledge Transfer]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Positivism]]"
   - "[[Knowledge-Based Economization]]"
 related_theories:

@@ -13,6 +13,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Postpositivism]]"
   - "[[Abstract]]"
   - "[[Deficiencies in Past Literature]]"
   - "[[APA Style]]"

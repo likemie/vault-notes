@@ -15,11 +15,16 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Saturation]]"
   - "[[Naturalistic Generalization]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
+  - "[[Narrative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Ethnography]]"
+  - "[[Descriptive Methods]]"
 related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"

@@ -31,6 +31,7 @@ related_arguments:
   - "[[Argument_Simpson_2019]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Wiliam_2019]]"
   - "[[Argument_OConnor_2020_AJLL]]"
 related_facts:

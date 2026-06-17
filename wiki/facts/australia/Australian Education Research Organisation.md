@@ -14,6 +14,8 @@ tags:
   - theme/intermediary-organisation
   - theme/accountability
 related_concepts:
+  - "[[Professional Judgment]]"
+  - "[[Venture Philanthropy]]"
   - "[[What Works Movement]]"
 related_theories: []
 related_methods: []
@@ -22,8 +24,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Educational Services Australia]]"
-  - "[[Centre for Evidence and Implementation]]"
   - "[[BHP Foundation]]"
+  - "[[Centre for Evidence and Implementation]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"

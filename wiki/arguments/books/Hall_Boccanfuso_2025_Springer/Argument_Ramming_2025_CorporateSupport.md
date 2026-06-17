@@ -22,14 +22,18 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
   - "[[Paradigm]]"
+  - "[[Joint Faculty Appointments]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Precompetitive Research]]"
   - "[[Return on Investment]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Technological Trajectories]]"
 related_methods: []
 related_facts:
   - "[[DARPA]]"
   - "[[Universal Parallel Computing Research Centers]]"
+  - "[[University Industry Demonstration Partnership]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Semiconductor Research Corporation]]"

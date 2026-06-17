@@ -18,6 +18,7 @@ tags:
   - validity
 related_concepts:
   - "[[Study Population and Sample]]"
+  - "[[Tracking]]"
   - "[[Class Size]]"
   - "[[Internal Validity]]"
   - "[[Construct Validity in Quantitative Measurement]]"

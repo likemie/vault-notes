@@ -33,6 +33,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Gene Glass]]"
 related_facts: []
 related_arguments: []
 sources:

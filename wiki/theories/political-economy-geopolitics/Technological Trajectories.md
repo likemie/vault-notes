@@ -21,6 +21,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
+  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
 confidence: medium
 status: draft
 created: 2026-06-11
@@ -68,4 +69,4 @@ updated: 2026-06-11
 - **生产密集型**：轨迹由生产工程能力的累积和与用户/供应商的互动共同驱动。规模密集型子类的轨迹偏向流程创新的持续改进，专业化供应商子类的轨迹偏向产品设计的逐步精进
 - **科学基础型**：轨迹由基础科学进步驱动，创新以产品创新为主，累积性强且具有跨行业的溢出效应
 
-Bogliacino 和 Pianta（2016）后来通过主成分分析将这三类轨迹操作化为两个统计维度：成本竞争力（cost [[Competitiveness]]）和技术竞争力（technological competitiveness），为技术轨迹概念提供了定量验证。
+[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]后来通过主成分分析将这三类轨迹操作化为两个统计维度：成本竞争力（cost [[Competitiveness]]）和技术竞争力（technological competitiveness），为技术轨迹概念提供了定量验证。

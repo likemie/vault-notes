@@ -20,6 +20,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Fourth Generation University]]"
   - "[[Research Translation]]"
+  - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []

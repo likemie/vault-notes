@@ -23,6 +23,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
+  - "[[Innovation Hub]]"
 related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"

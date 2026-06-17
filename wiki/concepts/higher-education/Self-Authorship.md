@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Lost Mode]]"
   - "[[Habitus]]"
 related_theories:
   - "[[Culture as Toolkit]]"

@@ -30,11 +30,12 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Cooperative Education]]"
+  - "[[Governance by Spin]]"
+  - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[Concierge Service]]"
   - "[[Clinical Trial]]"
   - "[[Academic Engagement Team]]"
-  - "[[Technology Transfer]]"
   - "[[Executive Education]]"
   - "[[Innovation Park]]"
 related_theories: []

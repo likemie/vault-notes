@@ -18,6 +18,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Didaktik]]"
   - "[[Effect Size]]"
+  - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"

@@ -15,7 +15,8 @@ related_color: "#e5e7eb"
 tags:
   - research-methodology
   - mixed-methods
-related_concepts: []
+related_concepts:
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"

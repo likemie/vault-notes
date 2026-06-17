@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Sympoiesis]]"
   - "[[Ontology]]"
+  - "[[Epoché]]"
   - "[[Posthumanism]]"
   - "[[Humosity]]"
   - "[[SF (Haraway)]]"

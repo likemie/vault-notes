@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
+  - "[[Research Translation]]"
 related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
 related_arguments:

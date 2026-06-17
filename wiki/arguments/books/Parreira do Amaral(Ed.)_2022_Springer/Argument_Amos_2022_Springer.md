@@ -34,6 +34,7 @@ related_concepts:
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
+  - "[[Epoché]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
   - "[[New Public Management]]"

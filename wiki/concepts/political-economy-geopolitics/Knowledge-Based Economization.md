@@ -23,6 +23,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Economic Patriotism]]"
   - "[[Analytic Framework]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Doxa]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"

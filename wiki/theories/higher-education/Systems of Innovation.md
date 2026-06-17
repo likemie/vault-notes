@@ -22,6 +22,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Knowledge Transfer]]"
   - "[[Transformative Change]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
