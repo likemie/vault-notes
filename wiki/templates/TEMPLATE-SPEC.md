@@ -59,7 +59,7 @@ status: active
 ## Source and Citation Rules
 
 - 来源性陈述优先链接到已处理 Argument，而不是直接链接 source record。
-- 非 Argument 条目引用来源时使用 APA 短引用链接到 Argument，例如 `&#91;&#91;Argument_Thomas_2000_RER&#124;(Thomas, 2000, p. 4)&#93;&#93;`。
+- 非 Argument 条目引用来源时使用 APA 短引用链接到 Argument，例如 `&#91;&#91;Argument_Thomas_2000_RER&#124;(Thomas, 2000, p. 4)&#93;&#93;`。显示文本必须包含作者与年份，可继续附页码或章节；不得只写 `p. X`、`pp. X–Y`、`Ch. X` 或裸 `Argument` 链接。
 - 叙述式引用写作 `&#91;&#91;Argument_Thomas_2000_RER&#124;Thomas (2000, p. 4)&#93;&#93;`。
 - Argument 条目引用当前对应文献时只写页码，例如（p.147）或（pp.147–148）。
 - Argument 条目引用当前文献之外的已处理文献时，使用 APA 短引用。

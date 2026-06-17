@@ -55,7 +55,7 @@ updated: 2026-06-17
 
 ## 递归与非递归因果模型
 
-外生[[Variable|变量]]和内生变量的区分在两种因果模型结构中扮演不同角色（pp.66–67）：
+外生[[Variable|变量]]和内生变量的区分在两种因果模型结构中扮演不同角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 66–67]]）：
 
 > [!contrast-table] 递归模型 vs 非递归模型
 > | 维度 | 递归模型（Recursive） | 非递归模型（Non-Recursive） |

@@ -1443,6 +1443,22 @@ def fix_english_author_and(text: str) -> str:
     return ENGLISH_AUTHOR_AND_RE.sub(" & ", text)
 
 
+def citation_display_has_author_year(display: str) -> bool:
+    text = re.sub(r"\s+", " ", display).strip()
+    m = re.search(r"(?:19|20)\d{2}[a-z]?", text)
+    if not m:
+        return False
+    prefix = text[:m.start()].strip(" \t([{（【,，")
+    prefix_key = prefix.strip().lower().rstrip(" .:：")
+    if not prefix_key:
+        return False
+    if re.match(r"^(?:p|pp|ch|chap|chapter)\.?(?:\s*\d+.*)?$", prefix_key):
+        return False
+    if re.match(r"^第.+[页章節节]$", prefix_key):
+        return False
+    return any(ch.isalpha() or "\u3400" <= ch <= "\u9fff" for ch in prefix)
+
+
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
     display = display.strip()
     normalized_display = normalize_citation_alias_text(display)
@@ -1487,10 +1503,13 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         if not target or target not in argument_citations:
             continue
         display = raw.split("|", 1)[1].strip() if "|" in raw else ""
+        aliases = argument_citations[target]["aliases"]
+        if is_non_argument_semantic_entry(data) and not citation_display_has_author_year(display):
+            expected = aliases[0] if aliases else f"{target.replace('Argument_', '')}, YEAR"
+            issues.append(Issue("WARN", rel(path), f"non-Argument entries should cite Argument links with author-year display, not page-only display: {display!r}; expected like {expected!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="ARGUMENT_LINK_AUTHOR_YEAR_MISSING"))
         if display and citation_display_text(display):
             if has_english_author_and(display):
                 issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {display!r} -> {fix_english_author_and(display)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
-            aliases = argument_citations[target]["aliases"]
             if not citation_display_matches_aliases(display, aliases):
                 issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_aliases {aliases!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
 
