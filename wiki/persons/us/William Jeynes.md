@@ -4,6 +4,9 @@ aliases:
   - "William H. Jeynes"
   - "Jeynes, W."
   - "Jeynes, W. H."
+  - "威廉·杰恩斯"
+  - "威廉·杰恩斯（William H. Jeynes）"
+  - "杰尼斯"
 summary: "美国保守派教育学者、元分析专家与福音派传教士，其关于全语言、特许学校和家庭结构的研究在《可见学习》中被大量引用，并引发了方法论与意识形态层面的广泛争议。"
 type: person
 nationality: "USA"

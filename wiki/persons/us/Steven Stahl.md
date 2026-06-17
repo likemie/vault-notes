@@ -4,6 +4,9 @@ aliases:
   - "Steven A. Stahl"
   - "Stahl, S. A."
   - "Stahl, S."
+  - "史蒂芬·斯塔尔"
+  - "史蒂芬·斯塔尔（Steven Stahl）"
+  - "斯塔尔"
 summary: "美国著名阅读研究专家与元分析学者，因其主持的 1989 年与 1994 年全语言教学元分析而处于识字教学与“阅读战争”争论的核心位置。"
 type: person
 nationality: "USA"
