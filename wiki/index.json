@@ -6823,7 +6823,8 @@
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Rational Action Theory.md",
     "aliases": [
-      "教育中的理性行动理论"
+      "理性行动理论",
+      "理性选择理论"
     ]
   },
   {
@@ -7710,7 +7711,9 @@
       "随机分配",
       "随机分组",
       "randomisation",
-      "randomized assignment"
+      "randomized assignment",
+      "随机化",
+      "randomization"
     ]
   },
   {
