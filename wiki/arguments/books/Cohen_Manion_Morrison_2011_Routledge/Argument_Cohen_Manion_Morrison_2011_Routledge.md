@@ -73,8 +73,7 @@ updated: 2026-06-17
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|第1章 The nature of enquiry: setting the field]] | 建立本体论→认识论→方法论的层级框架，以库恩范式概念统摄实证主义与诠释范式之争，引入混合方法研究、后实证主义、后现代主义、后结构主义和复杂性理论等新兴取向。 | [[Paradigm]]、[[Positivism]]、[[Interpretive Paradigm]]、[[Mixed Methods Research]]、[[Complexity Theory]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|第2章 Critical educational research]] | 以哈贝马斯认识兴趣三分法为框架，系统介绍批判理论、意识形态批判、参与式研究和女性主义研究在教育研究中的应用、批评与课程实践。 | [[Critical Theory]]、[[Ideology Critique]]、[[Participatory Research]]、[[Feminist Research]]、[[Jürgen Habermas]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|第3章 Evaluation and the politics of educational research]] | 区分研究（research）与评估（evaluation）在意图、受众、议程、所有权和政治立场上的异同，以 Smith & Glass 和 Glass & Worthen 的多维比较框架系统呈现二者差异，分析分类资助和政治化如何模糊二者边界，讨论研究利用模型和研究者与决策者的系统性张力。 | [[Evaluation Research]]、[[Categorical Funding]]、[[Conformative Evaluation]]、[[Research Utilization]]、[[Scientific Method]] |
-> | 第4章 Evaluation and research | | |
-> | 第5章 The search for [[Causality\|causation]] | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|第4章 The search for causation]] | 系统介绍教育研究中因果推断的关键议题：原因与条件、概率因果性、反事实推理、因果过度决定、筛选隔离、因果方向与因果网络、行动叙事与罗生门效应，以及研究原因之效果和研究效果之原因两种策略。 | [[Causality]]、[[Probabilistic Causation]]、[[Counterfactual]]、[[Screening Off]]、[[Causal Over-determination]] |
 > | **Part 2 教育研究的规划** | | |
 > | 第6章 The ethics of educational and social research | | |
 > | 第7章 Choosing a research project | | |

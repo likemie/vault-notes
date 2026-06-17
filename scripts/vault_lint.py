@@ -192,6 +192,7 @@ EPUB_VIEWER_RE = re.compile(r'data-epub="([^"]+\.epub)"')
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 URL_RE = re.compile(r"https?://[^\s)>\]]+")
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.IGNORECASE)
+TEMPLATER_PLACEHOLDER_RE = re.compile(r"<%.*?%>")
 
 # Schema-constrained APA short citations used for links to Argument pages.
 CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
@@ -1321,6 +1322,13 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
             issues.append(Issue("WARN", rel(path), f"HTML hex color found; prefer rgb(...): {m.group(0)}", line=line_of_pos(text, m.start()), code="HTML_HEX_COLOR"))
 
 
+def check_templater_placeholders(path: Path, text: str, issues: List[Issue]) -> None:
+    if TEMPLATES_DIR in path.parents:
+        return
+    for m in TEMPLATER_PLACEHOLDER_RE.finditer(text):
+        issues.append(Issue("ERROR", rel(path), f"Templater placeholder left in non-template file: {m.group(0)!r}", line=line_of_pos(text, m.start()), code="TEMPLATER_PLACEHOLDER"))
+
+
 
 def load_citation_full(issues: List[Issue]) -> Dict[str, Dict[str, Any]]:
     result: Dict[str, Dict[str, Any]] = {}
@@ -1508,6 +1516,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_old_references(path, text, issues)
     check_quartz_safety(path, text, issues)
     check_markdown_misc(path, text, issues)
+    check_templater_placeholders(path, text, issues)
 
     data = check_frontmatter(path, text, by_title, issues)
     check_wikilinks(path, text, by_title, issues)
