@@ -1,0 +1,11 @@
+Total paragraphs analyzed in original_ebe: 18
+Truly deleted paragraphs count: 2
+
+=== Paragraph 1 (Length: 261) ===
+> [!case] 美国：Tennessee STAR 与 California Class Size 推广失败
+> 1985–1989 年田纳西州开展的小班化 RCT 实验被誉为教育学最重要的试验。然而，1996 年加州政府在没有做好充足准备的情况下全州推广该“循证证据”，导致合格教师和教室不足，新增的大量代课教师严重稀释了教学质量，最终以零成效乃至负成效收场。这一经典案例常被用作证明 RCT 外部效度与外推局限性的证据。[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 7]]
+
+=== Paragraph 2 (Length: 254) ===
+> [!case] 澳大利亚：Gonski 改革与维多利亚州 HITS Toolkit
+> 澳大利亚 Gonski 改革主张以证据为本的逻辑，强调评估个体的实质进步而非年龄基准，其直接课堂落地形式为维多利亚州教育部的 HITS 教学包（以 Hattie 可见学习的 10 项策略为首要参考）。[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] 指出，这种基于 Benner 教学三角的技术移植在实施层面缺乏对本地学校文化和师资准备的考量，面临强烈的教师抵制。
+

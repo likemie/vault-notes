@@ -1,6 +1,6 @@
 import re
 
-with open('scratch/old_version.md') as f:
+with open('scratch/original_ebe.md') as f:
     old = f.read()
 with open('wiki/concepts/educational-policy-reform/Evidence-Based Education.md') as f:
     cur = f.read()
@@ -14,7 +14,6 @@ def normalize(text):
 
 cur_normalized = normalize(cur)
 
-# Split old version into paragraphs, ignoring yaml frontmatter
 sections = old.split('\n\n')
 paragraphs = []
 in_yaml = False
@@ -27,7 +26,6 @@ for s in sections:
         continue
     if in_yaml:
         continue
-    # Skip headings (lines starting with #)
     if s.startswith('#'):
         continue
     paragraphs.append(s)
@@ -38,19 +36,14 @@ for p in paragraphs:
     if len(p_norm) < 15:
         continue
     
-    # Try splitting by sentence to see how many are present
     sentences = re.split(r'[。！？.!?\n]', p)
     sentences = [s.strip() for s in sentences if len(s.strip()) > 10]
     if not sentences:
         continue
     
-    # Check if ANY sentence has a substantial match in the current file.
-    # If not even a single sentence is matched, or the match ratio is 0.0, it is fully deleted.
     found_any = False
     for s in sentences:
         s_norm = normalize(s)
-        # Check if this sentence's normalized text is contained in cur_normalized.
-        # Let's check for fuzzy match: if a 20-character substring of s_norm is in cur_normalized
         if len(s_norm) > 20:
             for j in range(len(s_norm) - 20):
                 if s_norm[j:j+20] in cur_normalized:
@@ -65,12 +58,12 @@ for p in paragraphs:
     if not found_any:
         missing.append(p)
 
-with open('scratch/truly_deleted_paragraphs.txt', 'w') as f:
-    f.write(f"Total paragraphs analyzed: {len(paragraphs)}\n")
+with open('scratch/original_ebe_deleted.txt', 'w') as f:
+    f.write(f"Total paragraphs analyzed in original_ebe: {len(paragraphs)}\n")
     f.write(f"Truly deleted paragraphs count: {len(missing)}\n\n")
     for i, p in enumerate(missing):
         f.write(f"=== Paragraph {i+1} (Length: {len(p)}) ===\n")
         f.write(p)
         f.write("\n\n")
 
-print(f"Analysis complete. Found {len(missing)} truly deleted paragraphs. Written to scratch/truly_deleted_paragraphs.txt")
+print(f"Analysis complete. Found {len(missing)} truly deleted paragraphs from original_ebe.md. Written to scratch/original_ebe_deleted.txt")
