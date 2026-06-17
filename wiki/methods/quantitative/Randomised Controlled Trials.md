@@ -302,16 +302,16 @@ updated: 2026-06-17
 > | [[Validity as Inferences]] | 继承 Cronbach 和 Messick 的效度理论，论证 RCT 推论的效度永远临时且局部 |
 
 > [!ref-table] 相关方法
-> | 方法 | 关系 | 说明 |
-> |------|------|------|
-> | [[Intervention Research]] | 父类 | RCT 是其随机分配版本，区分变量操纵与随机分配两种证据要求 |
-> | [[Experimental Research]] | 父类 | 真实验是检验因果主张的最强设计，RCT 是真实验在教育中的主要形式 |
-> | [[Cluster Randomized Trials]] | 变体 | 教育 RCT 的标准实践，处理班级或学校层面的嵌套结构 |
-> | [[Intent-to-Treat Analysis]] | 配套 | 处理非合规问题的核心分析策略 |
-> | [[Mechanism Experiments]] | 替代 | 测试可迁移的特定因果机制而非完整项目包 |
-> | [[Quasi-Experimental Designs]] | 替代 | 随机分配不可行时提供外部效度可能改善的替代设计 |
-> | [[Non-intervention Research]] | 对照 | 不操纵自变量，以此对照批评强实践建议的因果证据不足 |
-> | [[Observational and Correlational Research]] | 前置 | 可生成干预假设，但无随机分配和变量操纵 |
+> | 方法 | 说明 |
+> |------|------|
+> | [[Intervention Research]]（父类） | RCT 是其随机分配版本，区分变量操纵与随机分配两种证据要求 |
+> | [[Experimental Research]]（父类） | 真实验是检验因果主张的最强设计，RCT 是真实验在教育中的主要形式 |
+> | [[Cluster Randomized Trials]]（变体） | 教育 RCT 的标准实践，处理班级或学校层面的嵌套结构 |
+> | [[Intent-to-Treat Analysis]]（配套） | 处理非合规问题的核心分析策略 |
+> | [[Mechanism Experiments]]（替代） | 测试可迁移的特定因果机制而非完整项目包 |
+> | [[Quasi-Experimental Designs]]（替代） | 随机分配不可行时提供外部效度可能改善的替代设计 |
+> | [[Non-intervention Research]]（对照） | 不操纵自变量，以此对照批评强实践建议的因果证据不足 |
+> | [[Observational and Correlational Research]]（前置） | 可生成干预假设，但无随机分配和变量操纵 |
 
 ---
 
