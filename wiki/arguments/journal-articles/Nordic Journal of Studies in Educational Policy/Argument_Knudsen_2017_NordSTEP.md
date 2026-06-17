@@ -34,7 +34,7 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Biesta_2010_SPE]]"
 sources:

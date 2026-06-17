@@ -80,7 +80,7 @@ related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_ONeill_2012_NZJES]]"
 confidence: medium
 status: draft

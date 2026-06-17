@@ -39,7 +39,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[Nielsen_2021_NordPsych]]"

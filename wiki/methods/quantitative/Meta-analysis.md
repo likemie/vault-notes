@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_Wiliam_2019]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Simpson_2017_JEP]]"

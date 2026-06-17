@@ -38,7 +38,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[Snook_2010_NZJES]]"

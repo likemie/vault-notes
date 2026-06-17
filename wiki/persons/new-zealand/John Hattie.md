@@ -93,7 +93,7 @@ related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Allerup_2015_Paideia]]"

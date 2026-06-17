@@ -30,7 +30,7 @@ related_facts:
   - "[[California Class Size Reduction 1996]]"
 related_arguments:
   - "[[Argument_Wiliam_2019]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Downey_2016_SoE]]"
 confidence: medium
 status: draft

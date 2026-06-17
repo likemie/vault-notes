@@ -35,7 +35,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"

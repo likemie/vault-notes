@@ -39,7 +39,7 @@ related_facts:
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Wiliam_2019]]"
   - "[[Argument_Pellegrini_2021_ROE]]"

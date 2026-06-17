@@ -97,7 +97,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_OConnor_2020_AJLL]]"

@@ -32,7 +32,7 @@ related_persons:
 related_facts:
   - "[[New Zealand National Standards]]"
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
 sources:

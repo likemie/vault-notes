@@ -28,7 +28,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
 confidence: medium
 status: draft
 created: '2026-06-08'

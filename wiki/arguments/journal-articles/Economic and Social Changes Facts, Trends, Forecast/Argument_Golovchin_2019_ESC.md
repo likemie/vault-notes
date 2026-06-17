@@ -35,7 +35,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Eacott_2017_SLM]]"

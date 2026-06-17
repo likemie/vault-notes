@@ -6,10 +6,10 @@ aliases:
   - VL
 summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
 type: concept
-domain: "instruction-pedagogy"
+domain: instruction-pedagogy
 related_count: 91
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: ⭐⭐⭐⭐⭐
 related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -102,7 +102,7 @@ related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
