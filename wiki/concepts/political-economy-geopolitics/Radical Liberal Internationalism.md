@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Classical Geopolitics]]"
+  - "[[Interventionist Strategy]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 > [!abstract]
 > - **美国例外论** — 以美国价值和制度为普世标准，不承认其他政治体系的合法性([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])
 > - **"基于规则的秩序"** — 从未成为全球共识的标准，而是一个霸权集团的信条，其拥护者假定自身在所有方面优越([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])
-> - **干预主义策略** — 支持基于人道主义目标和政权更迭的干预。Marginson 指出，这种征伐式自由主义令人联想到 19 世纪英国帝国主义([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])
+> - **[[Interventionist Strategy|干预主义策略]]** — 支持基于人道主义目标和政权更迭的干预。Marginson 指出，这种征伐式自由主义令人联想到 19 世纪英国帝国主义([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])
 > - **对非自由政权的排斥** — Fukuyama（1992）在《历史的终结与最后之人》中宣称西方自由民主为最终政府形式。Marginson 引 Heather & Rapley（2023）的评价："这在当时听来已是傲慢，今天看来则属妄想"([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 15]])
 
 ---

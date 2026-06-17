@@ -4482,7 +4482,7 @@
 .callout[data-callout="critique"] {
   --callout-color: 48, 78, 120;
   --callout-icon: lucide-list-checks;
-  background: var(--background-primary);
+  background: rgba(48, 78, 120, 0.04);
   border: 1px solid rgba(48, 78, 120, 0.18);
   border-left: 6px solid rgb(48, 78, 120);
   border-radius: 7px;
@@ -4571,7 +4571,10 @@
 .theme-dark .callout[data-callout="critique"] {
   border-left-color: rgb(110, 148, 200);
   border-color: rgba(110, 148, 200, 0.22);
-  box-shadow: 0 3px 12px rgba(0,0,0,0.18);
+  background: rgba(110, 148, 200, 0.05);
+  box-shadow:
+    -3px 0 6px rgba(110, 148, 200, 0.08),
+    0 3px 12px rgba(0,0,0,0.18);
 }
 
 .theme-dark .callout[data-callout="critique"] > .callout-title {
@@ -5516,7 +5519,7 @@
 
 /* ── 共享结构基础（仅 critique- 变体，不影响原 critique） ── */
 .callout[data-callout^="critique-"] {
-  background: var(--background-primary);
+  background: rgba(var(--callout-color), 0.04);
   border: 1px solid rgba(var(--callout-color), 0.18);
   border-left: 6px solid rgb(var(--callout-color));
   border-radius: 7px;
@@ -5662,7 +5665,10 @@
 
 /* ── 暗模式（四种变体共享） ──────────────────────────────── */
 .theme-dark .callout[data-callout^="critique-"] {
-  box-shadow: 0 3px 12px rgba(0,0,0,0.18);
+  background: rgba(var(--callout-color), 0.05);
+  box-shadow:
+    -3px 0 6px rgba(var(--callout-color), 0.10),
+    0 3px 12px rgba(0,0,0,0.18);
 }
 
 .theme-dark .callout[data-callout="critique-method"] { --callout-color: 100, 148, 210; }

@@ -24,6 +24,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -66,6 +67,10 @@ updated: 2026-06-17
 > | **典型应用** | 简单因果链 | 结构方程模型 |
 
 在递归模型中，[[Causality|因果关系]]是单向的——外生变量只向内生变量施加因果影响。在非递归模型中，一个变量可以同时作为原因和效果——它是上游变量的内生变量（被引起），同时又是下游变量的外生变量（引起者）。许多结构方程模型是非递归的，因为它们捕捉了变量之间更复杂的双向或多向因果依赖关系。
+
+### 因果网络（Causal Nets）
+
+因果网络（causal nets）是非递归因果模型的自然延伸——它描述的不是单条因果链，而是原因集群以多方向共同作用的网络结构。在因果网络中，变量之间不仅有链式关系，还有互向关系，以及多个原因同时对多个效果施加因果力的网状结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 66–67]]）。因果网络不预设单一的因果方向或线性关系，而是承认在多因多果的情境中，关系及其分析是概率性、条件性和虚拟的——因果网络和因果条件比因果线或因果事件链更恰切地描述因果性。
 
 ## 概念辨析
 

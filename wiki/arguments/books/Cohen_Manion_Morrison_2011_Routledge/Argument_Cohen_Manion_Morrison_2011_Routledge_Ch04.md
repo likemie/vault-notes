@@ -37,6 +37,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Epistemology]]"
   - "[[Action Narratives]]"
+  - "[[Interventionist Strategy]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Further Education]]"
   - "[[Cultural Capital]]"
@@ -550,7 +551,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > 4. 因果推断将基于**什么依据**做出？
 > 5. 什么构成**一个原因是一个原因**的证据？什么构成**一个效果是一个效果**的证据？
 > 6. 什么构成一个原因是**那个**原因（而不是另一个原因）的证据？
-> 7. 研究的是**效果的原因**（事后回溯）还是**原因的效果**（干预主义策略）？
+> 7. 研究的是**效果的原因**（事后回溯）还是**原因的效果**（[[Interventionist Strategy|干预主义策略]]）？
 > 8. 如何**分离出**一系列可能的原因和效果？如何做出纳入/排除可能原因和效果的决策？
 > 9. 将选择什么**方法论**来检验原因的效果？
 > 10. 将选择什么**方法论**来检验效果的原因？
@@ -618,8 +619,8 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 
 ### 4.10 研究原因之效果
 
-> [!abstract] 干预主义策略
-> 研究原因之效果通常采用**干预主义策略**（interventionist strategy）——施加一项干预，目的有两种可能：检验假设的因果影响或因果模型，或者利用已知的因果效应来产生预期效果（pp.74, 79–82）。非干预本身也可以是原因——不浇水导致植物死亡（p.79）。
+> [!abstract] [[Interventionist Strategy|干预主义策略]]
+> 研究原因之效果通常采用**[[Interventionist Strategy|干预主义策略]]**（interventionist strategy）——施加一项干预，目的有两种可能：检验假设的因果影响或因果模型，或者利用已知的因果效应来产生预期效果（pp.74, 79–82）。非干预本身也可以是原因——不浇水导致植物死亡（p.79）。
 
 ---
 

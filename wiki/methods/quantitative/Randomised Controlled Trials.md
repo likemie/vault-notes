@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"
+  - "[[Interventionist Strategy]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Causality]]"
@@ -94,7 +95,7 @@ updated: 2026-06-17
 
 > [!method-scope] 方法范围
 > - **研究对象**：可被离散定义的教育干预及其效果，通常涉及学生成就、行为或态度等可测量结果。
-> - **问题类型**：适合回答因果识别问题——"这项干预是否产生了效果？"属于研究原因之效果（effects of causes）的干预主义策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
+> - **问题类型**：适合回答因果识别问题——"这项干预是否产生了效果？"属于研究原因之效果（effects of causes）的[[Interventionist Strategy|干预主义策略]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
 > - **分析单位**：个体学生、班级或学校（集群随机化）。
 > - **输出形式**：标准化[[Effect Size|效应量]]估计、[[Statistical Significance|统计显著性]]检验结果、干预-对照比较。
 

@@ -4902,6 +4902,15 @@
     ]
   },
   {
+    "title": "Interventionist Strategy",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Interventionist Strategy.md",
+    "aliases": [
+      "干预主义策略",
+      "interventionist strategy"
+    ]
+  },
+  {
     "title": "Inverted Triangle Literature Search",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Inverted Triangle Literature Search.md",
@@ -6863,7 +6872,8 @@
     "path": "wiki/theories/sociology-of-education/Rational Action Theory.md",
     "aliases": [
       "理性行动理论",
-      "理性选择理论"
+      "理性选择理论",
+      "rational choice theory"
     ]
   },
   {
