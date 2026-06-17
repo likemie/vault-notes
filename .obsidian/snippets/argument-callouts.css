@@ -2574,19 +2574,22 @@
 .callout[data-callout="timeline"] {
   --callout-color: 72, 95, 145;
   --callout-icon: lucide-history;
-  background: color-mix(in srgb, var(--background-primary) 82%, rgb(72, 95, 145) 18%);
-  border: 1px solid rgba(72, 95, 145, 0.28);
-  border-left: 3.5px solid rgb(72, 95, 145);
+  background:
+    linear-gradient(135deg, rgba(72, 95, 145, 0.07) 0%, transparent 55%),
+    var(--background-primary);
+  border: 1px solid rgba(72, 95, 145, 0.20);
+  border-left: 4px solid rgb(72, 95, 145);
   border-radius: 10px;
-  padding: 0.85rem 1.1rem 0.7rem;
+  padding: 0.85rem 1.1rem 0.75rem;
 }
 
 /* ─── 标题行 ─────────────────────────────────────── */
 .callout[data-callout="timeline"] > .callout-title {
-  color: #fff;
+  color: rgb(72, 95, 145);
+  font-weight: 700;
   padding-bottom: 0.45rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.22);
-  margin-bottom: 0.55rem;
+  border-bottom: 1px solid rgba(72, 95, 145, 0.16);
+  margin-bottom: 0.5rem;
 }
 
 /* ─── 列表：去掉默认缩进，建立轨道坐标系 ──────────── */
@@ -2601,24 +2604,24 @@
 .callout[data-callout="timeline"] .callout-content ul::before {
   content: "";
   position: absolute;
-  left: 0.65rem;
-  top: 0.6rem;
-  bottom: 0.6rem;
-  width: 2px;
+  left: 0.63rem;
+  top: 0.7rem;
+  bottom: 0.7rem;
+  width: 1.5px;
   border-radius: 1px;
   background: linear-gradient(
     to bottom,
-    rgba(72, 95, 145, 0)    0%,
-    rgba(72, 95, 145, 0.50) 12%,
-    rgba(72, 95, 145, 0.50) 88%,
-    rgba(72, 95, 145, 0)   100%
+    transparent                0%,
+    rgba(72, 95, 145, 0.45)  10%,
+    rgba(72, 95, 145, 0.45)  90%,
+    transparent               100%
   );
 }
 
 /* ─── 节点条目 ───────────────────────────────────── */
 .callout[data-callout="timeline"] .callout-content ul > li {
   position: relative;
-  padding: 0.38rem 0.6rem 0.38rem 0.5rem;
+  padding: 0.40rem 0.6rem 0.40rem 0.5rem;
   margin-bottom: 0.08rem;
   border-radius: 6px;
   line-height: 1.72;
@@ -2626,22 +2629,21 @@
 }
 
 .callout[data-callout="timeline"] .callout-content ul > li:hover {
-  background: color-mix(in srgb, var(--background-primary) 88%, rgb(72, 95, 145) 12%);
+  background: rgba(72, 95, 145, 0.06);
 }
 
 /* 节点圆点 — 与轨道线垂直对齐 */
 .callout[data-callout="timeline"] .callout-content ul > li::before {
   content: "";
   position: absolute;
-  left: -1.59rem;
-  top: 0.78rem;
-  width: 8px;
-  height: 8px;
+  left: -1.58rem;
+  top: 0.80rem;
+  width: 7px;
+  height: 7px;
   border-radius: 50%;
   background: rgb(72, 95, 145);
-  box-shadow:
-    0 0 0 2.5px color-mix(in srgb, var(--background-primary) 78%, rgb(72, 95, 145) 22%),
-    0 0 0 4.5px rgba(72, 95, 145, 0.10);
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(72, 95, 145, 0.30);
   z-index: 1;
 }
 
@@ -2650,12 +2652,13 @@
    **1980s**：正文 */
 .callout[data-callout="timeline"] .callout-content ul > li > strong:first-child {
   display: inline-block;
-  padding: 0.06em 0.48em 0.09em;
-  margin-right: 0.35em;
+  padding: 0.05em 0.50em 0.08em;
+  margin-right: 0.38em;
   border-radius: 4px;
-  background: rgb(72, 95, 145);
-  color: #fff;
-  font-size: 0.79em;
+  background: rgba(72, 95, 145, 0.11);
+  border: 1px solid rgba(72, 95, 145, 0.22);
+  color: rgb(55, 75, 122);
+  font-size: 0.80em;
   font-weight: 700;
   letter-spacing: 0.04em;
   vertical-align: middle;
@@ -2668,84 +2671,108 @@
 .callout[data-callout="timeline"] ul ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.55rem;
+  gap: 0.5rem;
   padding-left: 0;
-  margin: 0.4rem 0 0.15rem 1.2rem;
+  margin: 0.45rem 0 0.2rem 1.0rem;
   list-style: none;
 }
 
 .callout[data-callout="timeline"] ul ul > li:first-child {
-  padding: 0.4rem 0.6rem;
-  border: 1px solid rgba(192, 57, 43, 0.30);
-  border-left: 4px solid rgb(185, 45, 35);
-  background: rgba(200, 60, 45, 0.14);
+  padding: 0.4rem 0.65rem;
+  border: 1px solid rgba(185, 45, 35, 0.22);
+  border-left: 3px solid rgb(185, 45, 35);
+  background: rgba(200, 60, 45, 0.07);
   border-radius: 6px;
-  font-size: 0.88em;
+  font-size: 0.875em;
   line-height: 1.55;
   margin: 0;
 }
 
 .callout[data-callout="timeline"] ul ul > li:first-child > strong:first-child {
-  color: rgb(180, 40, 30);
+  color: rgb(165, 35, 25);
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 1em;
 }
 
 .callout[data-callout="timeline"] ul ul > li:last-child {
-  padding: 0.4rem 0.6rem;
-  border: 1px solid rgba(39, 174, 96, 0.30);
-  border-left: 4px solid rgb(25, 145, 80);
-  background: rgba(40, 175, 100, 0.14);
+  padding: 0.4rem 0.65rem;
+  border: 1px solid rgba(25, 145, 80, 0.22);
+  border-left: 3px solid rgb(25, 145, 80);
+  background: rgba(40, 175, 100, 0.07);
   border-radius: 6px;
-  font-size: 0.88em;
+  font-size: 0.875em;
   line-height: 1.55;
   margin: 0;
 }
 
 .callout[data-callout="timeline"] ul ul > li:last-child > strong:first-child {
-  color: rgb(20, 135, 70);
+  color: rgb(18, 120, 65);
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 1em;
 }
 
 @media (max-width: 640px) {
   .callout[data-callout="timeline"] ul ul {
     grid-template-columns: 1fr;
-    margin-left: 0.8rem;
+    margin-left: 0.6rem;
   }
 }
 
-/* ─── 暗模式微调 ─────────────────────────────────── */
+/* ─── 暗模式 ─────────────────────────────────────── */
 .theme-dark .callout[data-callout="timeline"] {
-  background: color-mix(in srgb, var(--background-primary) 78%, rgb(72, 95, 145) 22%);
-  border-color: rgba(72, 95, 145, 0.36);
+  background:
+    linear-gradient(135deg, rgba(72, 95, 145, 0.14) 0%, transparent 55%),
+    var(--background-primary);
+  border-color: rgba(72, 95, 145, 0.30);
 }
 
 .theme-dark .callout[data-callout="timeline"] > .callout-title {
-  color: #fff;
+  color: rgb(140, 165, 220);
+  border-bottom-color: rgba(72, 95, 145, 0.24);
+}
+
+.theme-dark .callout[data-callout="timeline"] .callout-content ul > li > strong:first-child {
+  background: rgba(72, 95, 145, 0.22);
+  border-color: rgba(72, 95, 145, 0.32);
+  color: rgb(160, 185, 240);
 }
 
 .theme-dark .callout[data-callout="timeline"] .callout-content ul > li::before {
-  box-shadow:
-    0 0 0 2.5px color-mix(in srgb, var(--background-primary) 70%, rgb(72, 95, 145) 30%),
-    0 0 0 4.5px rgba(72, 95, 145, 0.18);
+  background: rgb(100, 130, 195);
+  border-color: var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(72, 95, 145, 0.40);
+}
+
+.theme-dark .callout[data-callout="timeline"] ul ul > li:first-child > strong:first-child {
+  color: rgb(220, 90, 80);
+}
+
+.theme-dark .callout[data-callout="timeline"] ul ul > li:last-child > strong:first-child {
+  color: rgb(55, 185, 115);
 }
 
 
 /* ─── timeline-compact（紧凑型流程时间线 — 底端箭头收束） ─── */
 .callout[data-callout="timeline-compact"] {
-  --tc-rgb: 85, 125, 160;
   --callout-color: 85, 125, 160;
   --callout-icon: lucide-arrow-down-to-line;
-  background: linear-gradient(155deg,
-    rgba(85, 125, 160, 0.045) 0%,
-    rgba(85, 125, 160, 0.01) 70%
-  ), var(--background-primary);
-  border: 1px solid rgba(85, 125, 160, 0.16);
+  background:
+    linear-gradient(155deg, rgba(85, 125, 160, 0.06) 0%, transparent 65%),
+    var(--background-primary);
+  border: 1px solid rgba(85, 125, 160, 0.18);
   border-left: 3px solid rgb(85, 125, 160);
   border-radius: 8px;
-  padding: 0.55rem 0.8rem 0.55rem;
+  padding: 0.55rem 0.85rem 0.6rem;
 }
 
 .callout[data-callout="timeline-compact"] > .callout-title {
-  font-size: 0.82em;
-  color: rgb(70, 105, 140);
+  font-size: 0.83em;
+  color: rgb(85, 125, 160);
+  font-weight: 650;
   padding-bottom: 0.25rem;
 }
 
@@ -2761,16 +2788,16 @@
 .callout[data-callout="timeline-compact"] .callout-content ul::before {
   content: "";
   position: absolute;
-  left: 0.48rem;
+  left: 0.47rem;
   top: 0.5rem;
-  bottom: 1.2rem;
+  bottom: 1.1rem;
   width: 1.5px;
   border-radius: 1px;
   background: linear-gradient(
     to bottom,
     rgba(85, 125, 160, 0.45) 0%,
-    rgba(85, 125, 160, 0.45) 92%,
-    rgba(85, 125, 160, 0)   100%
+    rgba(85, 125, 160, 0.45) 90%,
+    transparent              100%
   );
 }
 
@@ -2778,13 +2805,13 @@
 .callout[data-callout="timeline-compact"] .callout-content ul::after {
   content: "";
   position: absolute;
-  left: calc(0.48rem - 3.5px);
-  bottom: 0.2rem;
+  left: calc(0.47rem - 3.5px);
+  bottom: 0.22rem;
   width: 0;
   height: 0;
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
-  border-top: 7px solid rgba(85, 125, 160, 0.55);
+  border-top: 7px solid rgba(85, 125, 160, 0.50);
   z-index: 2;
 }
 
@@ -2795,7 +2822,7 @@
   margin-bottom: 0.04rem;
   border-radius: 4px;
   font-size: 0.875em;
-  line-height: 1.55;
+  line-height: 1.58;
   transition: background 0.14s ease;
 }
 
@@ -2808,45 +2835,54 @@
   content: "";
   position: absolute;
   left: -1.40rem;
-  top: 0.62rem;
+  top: 0.60rem;
   width: 6px;
   height: 6px;
   border-radius: 50%;
   background: rgb(85, 125, 160);
-  box-shadow:
-    0 0 0 2px color-mix(in srgb, var(--background-primary) 82%, rgb(85, 125, 160) 18%),
-    0 0 0 3.5px rgba(85, 125, 160, 0.12);
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(85, 125, 160, 0.28);
   z-index: 1;
 }
 
-/* 子标题 — 紧凑徽章 */
+/* 子标题徽章 — 轻描边风格 */
 .callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-child {
   display: inline-block;
-  padding: 0.04em 0.42em 0.06em;
+  padding: 0.04em 0.44em 0.06em;
   margin-right: 0.28em;
   border-radius: 3px;
-  background: rgb(85, 125, 160);
-  color: #fff;
-  font-size: 0.78em;
+  background: rgba(85, 125, 160, 0.10);
+  border: 1px solid rgba(85, 125, 160, 0.22);
+  color: rgb(65, 105, 145);
+  font-size: 0.79em;
   font-weight: 700;
   vertical-align: middle;
   line-height: 1.5;
+  white-space: nowrap;
 }
 
 /* 暗模式 */
 .theme-dark .callout[data-callout="timeline-compact"] {
-  background: linear-gradient(155deg,
-    rgba(85, 125, 160, 0.10) 0%,
-    rgba(85, 125, 160, 0.03) 70%
-  ), var(--background-primary);
+  background:
+    linear-gradient(155deg, rgba(85, 125, 160, 0.12) 0%, transparent 65%),
+    var(--background-primary);
+  border-color: rgba(85, 125, 160, 0.26);
 }
+
 .theme-dark .callout[data-callout="timeline-compact"] > .callout-title {
-  color: rgb(120, 160, 200);
+  color: rgb(120, 165, 205);
 }
+
+.theme-dark .callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-child {
+  background: rgba(85, 125, 160, 0.20);
+  border-color: rgba(85, 125, 160, 0.32);
+  color: rgb(145, 190, 230);
+}
+
 .theme-dark .callout[data-callout="timeline-compact"] .callout-content ul > li::before {
-  box-shadow:
-    0 0 0 2px color-mix(in srgb, var(--background-primary) 70%, rgb(85, 125, 160) 30%),
-    0 0 0 3.5px rgba(85, 125, 160, 0.22);
+  background: rgb(110, 155, 195);
+  border-color: var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(85, 125, 160, 0.38);
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -3134,24 +3170,22 @@
 
 /* ─── dev-timeline（概念发展大型分阶段时间线） ──────────── */
 .callout[data-callout="dev-timeline"] {
-  --dt-rgb: 115, 80, 50;
   --callout-color: 115, 80, 50;
   --callout-icon: lucide-git-commit-vertical;
-  background: linear-gradient(160deg,
-    rgba(115, 80, 50, 0.06) 0%,
-    rgba(115, 80, 50, 0.01) 60%
-  ), var(--background-primary);
+  background:
+    linear-gradient(160deg, rgba(115, 80, 50, 0.07) 0%, transparent 55%),
+    var(--background-primary);
   border: 1px solid rgba(115, 80, 50, 0.18);
-  border-left: 5px solid rgb(115, 80, 50);
-  border-radius: 8px;
+  border-left: 4px solid rgb(115, 80, 50);
+  border-radius: 10px;
 }
 
 .callout[data-callout="dev-timeline"] > .callout-title {
-  color: rgb(90, 60, 35);
+  color: rgb(100, 68, 38);
   font-weight: 700;
   letter-spacing: 0.01em;
-  padding-bottom: 0.6rem;
-  border-bottom: 1px solid rgba(115, 80, 50, 0.12);
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid rgba(115, 80, 50, 0.14);
 }
 
 /* ── 列表容器 + 竖线 ── */
@@ -3159,21 +3193,21 @@
   list-style: none;
   padding-inline-start: 0;
   position: relative;
-  margin: 0.75rem 0 0.25rem;
+  margin: 0.75rem 0 0.3rem;
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol::before {
   content: "";
   position: absolute;
   left: 0.52rem;
-  top: 0.6rem;
-  bottom: 1.2rem;
-  width: 2px;
+  top: 0.75rem;
+  bottom: 1.0rem;
+  width: 1.5px;
   background: linear-gradient(
     to bottom,
-    rgb(115, 80, 50) 0%,
-    rgba(115, 80, 50, 0.35) 75%,
-    transparent 100%
+    rgb(115, 80, 50)          0%,
+    rgba(115, 80, 50, 0.40)  75%,
+    transparent               100%
   );
   pointer-events: none;
 }
@@ -3185,7 +3219,6 @@
   margin: 0;
 }
 
-
 .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child {
   padding-bottom: 0.2rem;
 }
@@ -3195,13 +3228,13 @@
   content: "";
   position: absolute;
   left: 0.52rem;
-  top: 0.28rem;
-  width: 0.95rem;
-  height: 0.95rem;
+  top: 0.30rem;
+  width: 0.90rem;
+  height: 0.90rem;
   border-radius: 50%;
   background: rgb(115, 80, 50);
   border: 2.5px solid var(--background-primary);
-  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.3);
+  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.28);
   transform: translateX(-50%);
   z-index: 1;
 }
@@ -3210,16 +3243,16 @@
 .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child::before {
   background: var(--background-primary);
   border-color: rgb(115, 80, 50);
-  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.2);
+  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.22);
 }
 
 /* ── 阶段标题（列表项首行 strong） ── */
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child > strong:first-child {
   display: block;
-  color: rgb(90, 60, 35);
+  color: rgb(100, 68, 38);
   font-size: 0.96em;
   font-weight: 700;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.38rem;
   letter-spacing: 0.005em;
 }
 
@@ -3240,7 +3273,7 @@
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p > em:only-child,
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:has(> em:only-child) {
   color: rgb(115, 80, 50);
-  opacity: 0.85;
+  opacity: 0.80;
   font-style: italic;
   font-size: 0.88em;
   display: block;
@@ -3254,17 +3287,67 @@
   margin: 0.4rem 0 0.55rem 0.1rem;
 }
 
+/* 修正：子列表 li 本身需要 position:relative，否则 ::before 定位错误 */
+.callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li {
+  position: relative;
+  padding-left: 1.2rem;
+  margin-bottom: 0.2rem;
+  font-size: 0.89em;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li::before {
   content: "";
   position: absolute;
-  left: 0.25rem;
-  top: 0.46em;
+  left: 0.22rem;
+  top: 0.52em;
   width: 6px;
   height: 6px;
   border-radius: 50%;
   background: rgb(185, 140, 55);
-  box-shadow: 0 0 0 2px rgba(185, 140, 55, 0.22);
+  border: 1.5px solid var(--background-primary);
+  box-shadow: 0 0 0 1.5px rgba(185, 140, 55, 0.30);
+}
+
+/* ── 暗模式 ── */
+.theme-dark .callout[data-callout="dev-timeline"] {
+  background:
+    linear-gradient(160deg, rgba(115, 80, 50, 0.13) 0%, transparent 55%),
+    var(--background-primary);
+  border-color: rgba(115, 80, 50, 0.28);
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] > .callout-title {
+  color: rgb(195, 145, 90);
+  border-bottom-color: rgba(115, 80, 50, 0.22);
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child > strong:first-child {
+  color: rgb(205, 155, 100);
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li::before {
+  background: rgb(155, 110, 70);
+  border-color: var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.40);
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child::before {
+  background: var(--background-primary);
+  border-color: rgb(155, 110, 70);
+  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.35);
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li > p > em:only-child,
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:has(> em:only-child) {
+  color: rgb(185, 140, 80);
+}
+
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li::before {
+  background: rgb(215, 170, 75);
+  border-color: var(--background-primary);
+  box-shadow: 0 0 0 1.5px rgba(215, 170, 75, 0.35);
 }
 
 
@@ -7019,8 +7102,8 @@
   border: 1px solid rgba(var(--callout-color), 0.14);
   border-radius: 8px;
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
-    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+    linear-gradient(180deg, rgba(var(--callout-color), 0.04), transparent),
+    rgba(var(--callout-color), 0.06);
   line-height: 1.6;
 }
 
@@ -7116,8 +7199,8 @@
   border: 1px solid rgba(var(--callout-color), 0.14);
   border-radius: 8px;
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.34), transparent),
-    color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+    linear-gradient(180deg, rgba(var(--callout-color), 0.04), transparent),
+    rgba(var(--callout-color), 0.06);
   line-height: 1.6;
 }
 
@@ -7145,7 +7228,7 @@
   padding: 0.5rem 0.72rem;
   border-left: 2px solid rgba(var(--callout-color), 0.22);
   border-radius: 0 8px 8px 0;
-  background: color-mix(in srgb, var(--background-primary) 94%, rgb(var(--callout-color)) 6%);
+  background: rgba(var(--callout-color), 0.05);
   list-style: none;
 }
 
@@ -7402,33 +7485,20 @@
 }
 
 /* ═══════════════════════════════════════════════════════════
-   TIMELINE REDESIGN
-   Restore a visible rail, milestone nodes, connectors, and staged flow.
+   TIMELINE UNIFIED OVERRIDES
+   卡片轨道布局：rail + 节点圆 + 水平连接线 + 卡片内容
+   所有 timeline 变体共用此结构，各自通过前面章节定义色彩
    ═══════════════════════════════════════════════════════════ */
+
+/* ── [!timeline] 卡片轨道 ── */
 .callout[data-callout="timeline"] {
   --timeline-rgb: 72, 95, 145;
-  --callout-color: var(--timeline-rgb);
-  position: relative;
-  overflow: hidden;
-  border: 1px solid rgba(var(--timeline-rgb), 0.26);
-  border-left: 6px solid rgb(var(--timeline-rgb));
-  border-radius: 10px;
-  background:
-    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.10), transparent 42%),
-    radial-gradient(circle at 1.15rem 4.4rem, rgba(var(--timeline-rgb), 0.18), transparent 1.8rem),
-    var(--background-primary);
-  box-shadow: 0 8px 22px rgba(var(--timeline-rgb), 0.08);
-}
-
-.callout[data-callout="timeline"] > .callout-title {
-  color: rgb(var(--timeline-rgb));
-  border-bottom: 1px solid rgba(var(--timeline-rgb), 0.16);
 }
 
 .callout[data-callout="timeline"] > .callout-content > ul {
   position: relative;
   margin: 0.2rem 0 0;
-  padding: 0.25rem 0 0.1rem 2.7rem;
+  padding: 0.3rem 0 0.15rem 2.7rem;
   list-style: none;
 }
 
@@ -7436,82 +7506,88 @@
   content: "";
   position: absolute;
   left: 1.06rem;
-  top: 0.55rem;
+  top: 0.65rem;
   bottom: 0.9rem;
-  width: 3px;
+  width: 2px;
   border-radius: 999px;
-  background:
-    linear-gradient(
-      to bottom,
-      rgba(var(--timeline-rgb), 0),
-      rgba(var(--timeline-rgb), 0.80) 10%,
-      rgba(var(--timeline-rgb), 0.65) 86%,
-      rgba(var(--timeline-rgb), 0)
-    );
-  box-shadow: 0 0 0 1px rgba(var(--timeline-rgb), 0.08);
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgba(var(--timeline-rgb), 0.70) 10%,
+    rgba(var(--timeline-rgb), 0.55) 86%,
+    transparent
+  );
 }
 
 .callout[data-callout="timeline"] > .callout-content > ul > li {
   position: relative;
-  margin: 0 0 0.72rem;
-  padding: 0.68rem 0.82rem 0.72rem;
+  margin: 0 0 0.65rem;
+  padding: 0.65rem 0.85rem 0.70rem;
   border: 1px solid rgba(var(--timeline-rgb), 0.14);
-  border-left: 3px solid rgba(var(--timeline-rgb), 0.48);
+  border-left: 3px solid rgba(var(--timeline-rgb), 0.45);
   border-radius: 8px;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
-    color-mix(in srgb, var(--background-primary) 93%, rgb(var(--timeline-rgb)) 7%);
+  background: rgba(var(--timeline-rgb), 0.05);
   line-height: 1.68;
+  transition: background 0.14s ease;
 }
 
-.callout[data-callout="timeline"] > .callout-content > ul > li::before {
-  content: "";
-  position: absolute;
-  left: -2.03rem;
-  top: 1.05rem;
-  width: 0.78rem;
-  height: 0.78rem;
-  border: 3px solid var(--background-primary);
-  border-radius: 999px;
-  background: rgb(var(--timeline-rgb));
-  box-shadow:
-    0 0 0 2px rgba(var(--timeline-rgb), 0.44),
-    0 0 0 7px rgba(var(--timeline-rgb), 0.10);
-  z-index: 2;
-}
-
-.callout[data-callout="timeline"] > .callout-content > ul > li::after {
-  content: "";
-  position: absolute;
-  left: -1.28rem;
-  top: 1.39rem;
-  width: 1.18rem;
-  height: 2px;
-  border-radius: 999px;
-  background: rgba(var(--timeline-rgb), 0.45);
+.callout[data-callout="timeline"] > .callout-content > ul > li:hover {
+  background: rgba(var(--timeline-rgb), 0.08);
 }
 
 .callout[data-callout="timeline"] > .callout-content > ul > li:last-child {
   margin-bottom: 0;
 }
 
+/* 节点圆 */
+.callout[data-callout="timeline"] > .callout-content > ul > li::before {
+  content: "";
+  position: absolute;
+  left: -2.03rem;
+  top: 1.02rem;
+  width: 0.76rem;
+  height: 0.76rem;
+  border: 2.5px solid var(--background-primary);
+  border-radius: 999px;
+  background: rgb(var(--timeline-rgb));
+  box-shadow:
+    0 0 0 2px rgba(var(--timeline-rgb), 0.38),
+    0 0 0 5px rgba(var(--timeline-rgb), 0.09);
+  z-index: 2;
+}
+
+/* 水平连接线 */
+.callout[data-callout="timeline"] > .callout-content > ul > li::after {
+  content: "";
+  position: absolute;
+  left: -1.28rem;
+  top: 1.36rem;
+  width: 1.18rem;
+  height: 1.5px;
+  border-radius: 999px;
+  background: rgba(var(--timeline-rgb), 0.40);
+}
+
+/* 年份徽章 */
 .callout[data-callout="timeline"] > .callout-content > ul > li > strong:first-child {
   display: inline-block;
   margin: 0 0.42em 0 0;
-  padding: 0.08em 0.55em 0.12em;
+  padding: 0.07em 0.52em 0.10em;
   border-radius: 999px;
-  background: rgb(var(--timeline-rgb));
-  color: #fff;
-  font-size: 0.78em;
-  font-weight: 780;
-  letter-spacing: 0.03em;
+  background: rgba(var(--timeline-rgb), 0.12);
+  border: 1px solid rgba(var(--timeline-rgb), 0.24);
+  color: rgb(var(--timeline-rgb));
+  font-size: 0.79em;
+  font-weight: 760;
+  letter-spacing: 0.04em;
   line-height: 1.55;
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 
+/* 子列表：禁用轨道伪元素继承 */
 .callout[data-callout="timeline"] > .callout-content > ul > li > ul {
-  margin: 0.58rem 0 0;
+  margin: 0.55rem 0 0;
 }
 
 .callout[data-callout="timeline"] > .callout-content > ul > li > ul::before,
@@ -7522,13 +7598,9 @@
   display: none;
 }
 
+/* ── [!timeline-compact] 卡片轨道 ── */
 .callout[data-callout="timeline-compact"] {
   --timeline-rgb: 85, 125, 160;
-  --callout-color: var(--timeline-rgb);
-  border-left-width: 5px;
-  background:
-    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.09), transparent 48%),
-    var(--background-primary);
 }
 
 .callout[data-callout="timeline-compact"] > .callout-content > ul {
@@ -7537,56 +7609,61 @@
 
 .callout[data-callout="timeline-compact"] > .callout-content > ul::before {
   left: 0.82rem;
-  top: 0.35rem;
-  bottom: 0.72rem;
-  width: 2px;
-  background: linear-gradient(to bottom, rgba(var(--timeline-rgb), 0.70), rgba(var(--timeline-rgb), 0.38));
+  top: 0.4rem;
+  bottom: 0.75rem;
+  width: 1.5px;
+  background: linear-gradient(
+    to bottom,
+    rgba(var(--timeline-rgb), 0.60),
+    rgba(var(--timeline-rgb), 0.32)
+  );
 }
 
 .callout[data-callout="timeline-compact"] > .callout-content > ul::after {
   left: calc(0.82rem - 4px);
-  bottom: 0.08rem;
-  border-top-color: rgba(var(--timeline-rgb), 0.68);
+  bottom: 0.10rem;
+  border-top-color: rgba(var(--timeline-rgb), 0.55);
 }
 
 .callout[data-callout="timeline-compact"] > .callout-content > ul > li {
-  margin-bottom: 0.36rem;
+  margin-bottom: 0.34rem;
   padding: 0.42rem 0.58rem;
   border: 1px solid rgba(var(--timeline-rgb), 0.13);
-  border-left: 2.5px solid rgba(var(--timeline-rgb), 0.44);
+  border-left: 2.5px solid rgba(var(--timeline-rgb), 0.42);
   border-radius: 7px;
-  background: color-mix(in srgb, var(--background-primary) 94%, rgb(var(--timeline-rgb)) 6%);
+  background: rgba(var(--timeline-rgb), 0.05);
+  transition: background 0.14s ease;
+}
+
+.callout[data-callout="timeline-compact"] > .callout-content > ul > li:hover {
+  background: rgba(var(--timeline-rgb), 0.08);
 }
 
 .callout[data-callout="timeline-compact"] > .callout-content > ul > li::before {
-  left: -1.70rem;
-  top: 0.78rem;
+  left: -1.68rem;
+  top: 0.75rem;
   width: 0.58rem;
   height: 0.58rem;
-  border: 2.5px solid var(--background-primary);
+  border: 2px solid var(--background-primary);
   background: rgb(var(--timeline-rgb));
   box-shadow:
-    0 0 0 2px rgba(var(--timeline-rgb), 0.36),
-    0 0 0 5px rgba(var(--timeline-rgb), 0.09);
+    0 0 0 2px rgba(var(--timeline-rgb), 0.34),
+    0 0 0 4px rgba(var(--timeline-rgb), 0.09);
 }
 
 .callout[data-callout="timeline-compact"] > .callout-content > ul > li::after {
   content: "";
   position: absolute;
-  left: -1.16rem;
-  top: 1.02rem;
+  left: -1.14rem;
+  top: 1.00rem;
   width: 0.96rem;
   height: 1.5px;
-  background: rgba(var(--timeline-rgb), 0.40);
+  background: rgba(var(--timeline-rgb), 0.38);
 }
 
+/* ── [!dev-timeline] 带编号卡片轨道 ── */
 .callout[data-callout="dev-timeline"] {
   --timeline-rgb: 115, 80, 50;
-  --callout-color: var(--timeline-rgb);
-  border-left-width: 6px;
-  background:
-    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.10), transparent 48%),
-    var(--background-primary);
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol {
@@ -7601,22 +7678,29 @@
   left: 1.13rem;
   top: 0.65rem;
   bottom: 0.95rem;
-  width: 3px;
+  width: 2px;
   border-radius: 999px;
-  background: linear-gradient(to bottom, rgba(var(--timeline-rgb), 0.82), rgba(var(--timeline-rgb), 0.32));
+  background: linear-gradient(
+    to bottom,
+    rgba(var(--timeline-rgb), 0.75),
+    rgba(var(--timeline-rgb), 0.28)
+  );
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li {
   counter-increment: dev-phase;
   position: relative;
-  margin: 0 0 0.85rem;
-  padding: 0.75rem 0.9rem 0.82rem;
+  margin: 0 0 0.82rem;
+  padding: 0.72rem 0.9rem 0.78rem;
   border: 1px solid rgba(var(--timeline-rgb), 0.15);
-  border-left: 3px solid rgba(var(--timeline-rgb), 0.50);
+  border-left: 3px solid rgba(var(--timeline-rgb), 0.48);
   border-radius: 9px;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.32), transparent),
-    color-mix(in srgb, var(--background-primary) 93%, rgb(var(--timeline-rgb)) 7%);
+  background: rgba(var(--timeline-rgb), 0.05);
+  transition: background 0.14s ease;
+}
+
+.callout[data-callout="dev-timeline"] .callout-content > ol > li:hover {
+  background: rgba(var(--timeline-rgb), 0.08);
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li::before {
@@ -7625,7 +7709,7 @@
   top: 0.82rem;
   width: 1.15rem;
   height: 1.15rem;
-  border: 3px solid var(--background-primary);
+  border: 2.5px solid var(--background-primary);
   border-radius: 999px;
   background: rgb(var(--timeline-rgb));
   color: #fff;
@@ -7634,8 +7718,8 @@
   line-height: 1.15rem;
   text-align: center;
   box-shadow:
-    0 0 0 2px rgba(var(--timeline-rgb), 0.42),
-    0 0 0 7px rgba(var(--timeline-rgb), 0.10);
+    0 0 0 2px rgba(var(--timeline-rgb), 0.38),
+    0 0 0 5px rgba(var(--timeline-rgb), 0.09);
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li::after {
@@ -7644,13 +7728,16 @@
   left: -1.18rem;
   top: 1.38rem;
   width: 1.12rem;
-  height: 2px;
-  background: rgba(var(--timeline-rgb), 0.45);
+  height: 1.5px;
+  background: rgba(var(--timeline-rgb), 0.42);
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child::before {
   background: var(--background-primary);
   color: rgb(var(--timeline-rgb));
+  box-shadow:
+    0 0 0 2px rgba(var(--timeline-rgb), 0.35),
+    0 0 0 5px rgba(var(--timeline-rgb), 0.08);
 }
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child > strong:first-child {
@@ -7660,6 +7747,7 @@
   font-size: 1em;
 }
 
+/* ── work-line / thought-timeline 卡片轨道覆盖 ── */
 .callout[data-callout="work-line"] > .callout-content > ul,
 .callout[data-callout="thought-timeline"] > .callout-content > ul {
   padding-left: 2.65rem;
@@ -7670,26 +7758,32 @@
   left: 1.02rem;
   top: 0.7rem;
   bottom: 0.95rem;
-  width: 3px;
-  background: linear-gradient(to bottom, rgba(var(--callout-color), 0.74), rgba(var(--callout-color), 0.28));
+  width: 2px;
+  background: linear-gradient(
+    to bottom,
+    rgba(var(--callout-color), 0.65),
+    rgba(var(--callout-color), 0.24)
+  );
 }
 
 .callout[data-callout="work-line"] > .callout-content > ul > li,
 .callout[data-callout="thought-timeline"] > .callout-content > ul > li {
-  border-left: 3px solid rgba(var(--callout-color), 0.44);
+  border-left: 3px solid rgba(var(--callout-color), 0.42);
+  background:
+    rgba(var(--callout-color), 0.05);
 }
 
 .callout[data-callout="work-line"] > .callout-content > ul > li::before,
 .callout[data-callout="thought-timeline"] > .callout-content > ul > li::before {
   left: -2.02rem;
   top: 1rem;
-  width: 0.78rem;
-  height: 0.78rem;
-  border: 3px solid var(--background-primary);
+  width: 0.76rem;
+  height: 0.76rem;
+  border: 2.5px solid var(--background-primary);
   background: rgb(var(--callout-color));
   box-shadow:
-    0 0 0 2px rgba(var(--callout-color), 0.38),
-    0 0 0 6px rgba(var(--callout-color), 0.09);
+    0 0 0 2px rgba(var(--callout-color), 0.34),
+    0 0 0 5px rgba(var(--callout-color), 0.09);
 }
 
 .callout[data-callout="work-line"] > .callout-content > ul > li::after,
@@ -7699,8 +7793,8 @@
   left: -1.28rem;
   top: 1.36rem;
   width: 1.16rem;
-  height: 2px;
-  background: rgba(var(--callout-color), 0.40);
+  height: 1.5px;
+  background: rgba(var(--callout-color), 0.38);
 }
 
 .callout[data-callout="thought-timeline"] > .callout-content > ul > li > ul {
@@ -7735,18 +7829,25 @@
   line-height: 1.38rem;
   text-align: center;
   box-shadow:
-    0 0 0 3px color-mix(in srgb, var(--background-primary) 76%, rgb(var(--callout-color)) 24%),
+    0 0 0 3px rgba(var(--callout-color), 0.20),
     0 0 0 7px rgba(var(--callout-color), 0.08);
 }
 
+/* ── 暗模式：卡片背景增强 ── */
 .theme-dark .callout:is(
   [data-callout="timeline"],
   [data-callout="timeline-compact"],
   [data-callout="dev-timeline"]
-) {
-  background:
-    linear-gradient(90deg, rgba(var(--timeline-rgb), 0.15), transparent 50%),
-    var(--background-primary);
+) > .callout-content > ul > li,
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ol > li {
+  background: rgba(var(--timeline-rgb), 0.10);
+  border-color: rgba(var(--timeline-rgb), 0.20);
+}
+
+.theme-dark .callout[data-callout="work-line"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="thought-timeline"] > .callout-content > ul > li {
+  background: rgba(var(--callout-color), 0.10);
+  border-color: rgba(var(--callout-color), 0.20);
 }
 
 @media (max-width: 640px) {
