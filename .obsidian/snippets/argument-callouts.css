@@ -3134,24 +3134,24 @@
 
 /* ─── dev-timeline（概念发展大型分阶段时间线） ──────────── */
 .callout[data-callout="dev-timeline"] {
-  --dt-rgb: 130, 100, 55;
-  --callout-color: 130, 100, 55;
+  --dt-rgb: 115, 80, 50;
+  --callout-color: 115, 80, 50;
   --callout-icon: lucide-git-commit-vertical;
   background: linear-gradient(160deg,
-    rgba(130, 100, 55, 0.06) 0%,
-    rgba(130, 100, 55, 0.01) 60%
+    rgba(115, 80, 50, 0.06) 0%,
+    rgba(115, 80, 50, 0.01) 60%
   ), var(--background-primary);
-  border: 1px solid rgba(130, 100, 55, 0.18);
-  border-left: 5px solid rgb(130, 100, 55);
+  border: 1px solid rgba(115, 80, 50, 0.18);
+  border-left: 5px solid rgb(115, 80, 50);
   border-radius: 8px;
 }
 
 .callout[data-callout="dev-timeline"] > .callout-title {
-  color: rgb(100, 75, 35);
+  color: rgb(90, 60, 35);
   font-weight: 700;
   letter-spacing: 0.01em;
   padding-bottom: 0.6rem;
-  border-bottom: 1px solid rgba(130, 100, 55, 0.12);
+  border-bottom: 1px solid rgba(115, 80, 50, 0.12);
 }
 
 /* ── 列表容器 + 竖线 ── */
@@ -3171,8 +3171,8 @@
   width: 2px;
   background: linear-gradient(
     to bottom,
-    rgb(130, 100, 55) 0%,
-    rgba(130, 100, 55, 0.35) 75%,
+    rgb(115, 80, 50) 0%,
+    rgba(115, 80, 50, 0.35) 75%,
     transparent 100%
   );
   pointer-events: none;
@@ -3185,6 +3185,7 @@
   margin: 0;
 }
 
+
 .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child {
   padding-bottom: 0.2rem;
 }
@@ -3193,28 +3194,29 @@
 .callout[data-callout="dev-timeline"] .callout-content > ol > li::before {
   content: "";
   position: absolute;
-  left: 0;
+  left: 0.52rem;
   top: 0.28rem;
-  width: 1.05rem;
-  height: 1.05rem;
+  width: 0.95rem;
+  height: 0.95rem;
   border-radius: 50%;
-  background: rgb(130, 100, 55);
+  background: rgb(115, 80, 50);
   border: 2.5px solid var(--background-primary);
-  box-shadow: 0 0 0 2px rgba(130, 100, 55, 0.3);
+  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.3);
+  transform: translateX(-50%);
   z-index: 1;
 }
 
 /* 最后一个节点用空心圆（表示延续中） */
 .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child::before {
   background: var(--background-primary);
-  border-color: rgb(130, 100, 55);
-  box-shadow: 0 0 0 2px rgba(130, 100, 55, 0.2);
+  border-color: rgb(115, 80, 50);
+  box-shadow: 0 0 0 2px rgba(115, 80, 50, 0.2);
 }
 
 /* ── 阶段标题（列表项首行 strong） ── */
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child > strong:first-child {
   display: block;
-  color: rgb(48, 88, 132);
+  color: rgb(90, 60, 35);
   font-size: 0.96em;
   font-weight: 700;
   margin-bottom: 0.4rem;
@@ -3237,7 +3239,7 @@
 /* ── 阶段描述行（斜体摘要） ── */
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p > em:only-child,
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:has(> em:only-child) {
-  color: rgb(130, 100, 55);
+  color: rgb(115, 80, 50);
   opacity: 0.85;
   font-style: italic;
   font-size: 0.88em;
@@ -3252,14 +3254,6 @@
   margin: 0.4rem 0 0.55rem 0.1rem;
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li {
-  position: relative;
-  padding: 0.05rem 0 0.05rem 1.35rem;
-  font-size: 0.83em;
-  color: var(--text-muted);
-  line-height: 1.55;
-  margin-bottom: 0.18rem;
-}
 
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > ul > li::before {
   content: "";
@@ -7587,7 +7581,7 @@
 }
 
 .callout[data-callout="dev-timeline"] {
-  --timeline-rgb: 130, 100, 55;
+  --timeline-rgb: 115, 80, 50;
   --callout-color: var(--timeline-rgb);
   border-left-width: 6px;
   background:
