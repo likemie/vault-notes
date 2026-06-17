@@ -4307,6 +4307,16 @@
     ]
   },
   {
+    "title": "Causal Over-determination",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Causal Over-determination.md",
+    "aliases": [
+      "因果过度决定",
+      "过度决定",
+      "over-determination"
+    ]
+  },
+  {
     "title": "Causality",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Causality.md",
@@ -4412,6 +4422,17 @@
       "social constructivism",
       "constructivist worldview",
       "interpretivism"
+    ]
+  },
+  {
+    "title": "Counterfactual",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Counterfactual.md",
+    "aliases": [
+      "反事实",
+      "反事实推理",
+      "counterfactuals",
+      "counterfactual reasoning"
     ]
   },
   {
@@ -4994,6 +5015,19 @@
     ]
   },
   {
+    "title": "Necessary and Sufficient Conditions",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Necessary and Sufficient Conditions.md",
+    "aliases": [
+      "必要条件和充分条件",
+      "必要条件",
+      "充分条件",
+      "necessary condition",
+      "sufficient condition",
+      "necessary and sufficient conditions"
+    ]
+  },
+  {
     "title": "Nomothetic and Idiographic",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Nomothetic and Idiographic.md",
@@ -5155,6 +5189,16 @@
     ]
   },
   {
+    "title": "Probabilistic Causation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Probabilistic Causation.md",
+    "aliases": [
+      "概率因果性",
+      "概率因果关系",
+      "probabilistic causality"
+    ]
+  },
+  {
     "title": "Probes",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Probes.md",
@@ -5225,6 +5269,15 @@
       "qualitative validity",
       "trustworthiness",
       "质性研究效度"
+    ]
+  },
+  {
+    "title": "Rashomon Effect",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Rashomon Effect.md",
+    "aliases": [
+      "罗生门效应",
+      "Rashomon effect"
     ]
   },
   {
@@ -5382,6 +5435,16 @@
       "empirical science",
       "经验科学",
       "scientific approach"
+    ]
+  },
+  {
+    "title": "Screening Off",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Screening Off.md",
+    "aliases": [
+      "筛选隔离",
+      "屏蔽",
+      "screening off"
     ]
   },
   {
@@ -11865,6 +11928,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

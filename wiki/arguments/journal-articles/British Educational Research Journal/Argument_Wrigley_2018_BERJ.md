@@ -51,175 +51,217 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: '2026-06-17'
 year: 2018
-doi: ""
+doi: "10.1002/berj.3338"
 citation_aliases:
   - "Wrigley, 2018"
   - "Wrigley (2018)"
 ---
 ## 研究问题
 
-> [!info] [[Research Question|研究问题]]
-> 本文追问当"证据"被简化为 [[Randomised Controlled Trials|RCT]] 和统计平均时，在**三个方法论层级**分别产生了哪些技术缺陷、哲学困境和意识形态后果？每一级聚合如何进一步放大前一级的失真？
->
-> > “当‘证据’被简化为一个平均[[Effect Size|效应量]]时，个体或事件被拒之门外，复杂性消失了，价值观也被抹去了。”
-> ("When 'evidence' is reduced to a mean [[Effect Size]], the individual person or event is shut out, complexity is lost and values are erased.") (p. 2)
+> [!question] 研究问题
+> 本文探究以下核心问题：
+> 1. 当教育研究中的“证据”被窄化为随机对照试验（[[Randomised Controlled Trials|RCT]]）与效应量（[[Effect Size|效应量]]）的统计平均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
+> 2. 统计聚合在从单一实验（Level 1）到元分析（Level 2）、再到元-元分析（Level 3，如 Hattie 的 [[Visible Learning|可见学习]] 与 EEF 的 [[EEF Teaching and Learning Toolkit|教学与学习工具包]]）的逐级递进中，是如何复合并放大前一级的数据失真的？
+> 3. 证据本位教育（[[Evidence-Based Education|EBE]]）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
+
+> [!claim] 核心主张
+> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类施为（Agency），其本质是新自由主义管理主义的体现，旨在用价值中立的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
+
+> [!concept-lens]- 阅读透镜
+> - **对象**：证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials|RCT]]、[[Meta-analysis|元分析]]（Meta-analysis）以及 [[Meta-meta-analysis|元-元分析]]。
+> - **张力**：统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践本身作为“开放系统”所固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
+> - **贡献**：借助[[Critical Realism|批判实在论]]的分层本体论，解构了 EBE 统计聚合的三级失真机制；分析了 Fresh Start 等关键项目，揭示了政治压力下的“糟糕随机化”幻象；提出了以“实在论综合（Realist Synthesis）”和“方法论多元主义”作为重建教师专业反思能力的替代方案。
+
+---
 
 ## 理论框架
 
-> [!abstract] 理论框架
-> - **[[Critical Realism|批判实在论]](Bhaskar, 1978; Sayer, 2000)** — 区分 real / actual / empirical 三层[[Ontology|本体论]]；教育作为开放系统，规律性需人为封闭条件才出现
-> - **Pawson (2006) 的现实主义[[Appraisal Theory|评估理论]]** — 社会项目通过人的推理（而非物理因果）产生效果；呼吁"实在论综合"取代统计平均
-> - **新自由主义批判框架(Ball, 2013; Sears, 2003)** — [[Evidence-Based Education|EBE]] 定位于审计文化(Power, 1997)和市场化的效率要求中
->
-> 方法：概念分析 + 方法论解构 + 实证案例拆解（Fresh Start [[Randomised Controlled Trials|RCT]]、[[Education Endowment Foundation|EEF]] Toolkit、Hattie [[Visible Learning]]）
+> [!framework-table] 理论工具箱
+> | 理论工具 | 解释功能 |
+> |----------|----------|
+> | **[[Critical Realism\|批判实在论]]**<br>Roy Bhaskar (1978)<br>Andrew Sayer (2000) | 区分“深层实在（Real，因果机制与结构）”、“实际发生（Actual，事件与结果）”与“经验现象（Empirical，观察到的规则性）”的三层分层本体论 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
+> | **[[Appraisal Theory\|现实主义评估理论]]**<br>Ray Pawson (2006) | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批判只算平均值的做法，呼吁探索“机制-背景-结果（CMO）”配置的实在论综合。 |
+> | **新自由主义审计文化**<br>Stephen Ball (2013)<br>Michael Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育陶冶（[[Bildung]]）转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
-## 核心论证
+> [!warrant]- 理论如何支撑论证
+> 批判实在论和现实主义评估理论为解构 EBE 提供了强大的认识论武器。通过这套理论，作者能指出教育是一个“ semiotic / recursive ”的开放系统，人类意志和信念在其中具有因果效应（Aristotle 的“最终原因”）。这打破了 RCT 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
 
-> [!example] 核心论证
-> 论文按三个方法论层级逐一展开：
->
-> ### Level 1: [[Randomised Controlled Trials|RCT]] 的简化
->
-> **技术问题**：
-> - **控制组模糊性**：教育中没有"安慰剂"——对照组的活动是"一切照旧"还是特意排除干预元素？两者产生截然不同的[[Effect Size|效应量]]
-> - **分配问题**：无法双盲；学校在分配学生时可能扭曲随机化
-> - **施为问题（Agency）**：教师热情是"必要但也是污染的"——人类意志既使干预生效又使其不可复制
-> - **开放系统困境**：教育是开放、递归、符号系统（直接引用 Biesta 2010），无法被实验封闭
->
-> **Fresh Start 案例解构**：
-> - [[Education Endowment Foundation|EEF]] 行政摘要声称效应量 +0.24SD（相当于 3 个月额外进步）
-> - 细读发现：[[Random Assignment|随机分配]]严重失真（治疗组前测远低于控制组前测）
-> - 匹配子集分析显示：治疗组和控制组的低分学生进步几乎完全相同
-> - **"三个月的额外进步"是随机化失败的幻象**
-> - 此外：参与[[School Leadership|学校领导]]在随机化前已对项目抱有热情；对控制组情况缺乏描述
->
-> > “事实上，没有证据表明 Fresh Start 项目相比对照组有任何益处：头条新闻中所谓的‘三个月的额外进展’仅仅是糟糕随机化的幻影。”
-> ("There is, in truth, no evidence of benefit from Fresh Start compared with the control group: the headlined 'three months additional progress' is simply a phantom of poor randomisation.") (p. 6)
->
-> ### Level 2: [[Meta-analysis|元分析]]的混淆
->
-> 元分析用技术标准（是否有对照组、是否有标准化测试）而非理论标准决定纳入哪些研究，产生两个核心问题：
->
-> 1. **苹果和橙子**：不同定义、年龄、学科、地区的异质研究被混合计算平均效应量。Feinstein (1995) 称之为 "statistical alchemy for the 21st Century"，差异被"埋在统计泥浆中"。
->
-> 2. **缺失因果理论**：与医学不同——医学在启动 III 期 RCT 前已有多年的理论建设——教育统计研究往往缺乏理论（Pawson 2006: 47）。元分析应追求的解释性问题（"干预如何运作？"）被效果性问题（"效果多大？"）取代。
->
-> **Toolkit 的"反馈"类别案例**：大量差异极大的研究（有些正向、有些负向）被聚合为最高效应量的"反馈"标签——没有解释为什么效应量差异如此巨大。
->
-> > “通过计算得出的效应量聚合平均值……得出的结论是‘反馈’是提高成绩最有效的方法。由于反馈在任何教学互动中都会以某种方式不可避免地存在，因此研究差异产生的原因会更具启发性。”
-> ("An aggregate mean of effect sizes calculated ... the conclusion drawn that '[[Feedback]]' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences.") (p. 10)
->
-> ### Level 3: [[Meta-meta-analysis|元-元分析]]的失真（Hattie & EEF Toolkit）
->
-> 聚合到第三级时，技术问题被进一步放大：
->
-> **Hattie's [[Visible Learning]] 的问题**：
-> - 来源研究以美国为主，多数过时（达 50 年）
-> - 窄化的结果测量（如用单个词朗读代理阅读能力）
-> - 效应量的"关节点"（0.4）忽视干预持续时间、学生年龄、结果类型
-> - 效应量有时指"与对照比"，有时指"与前测比"——计算基准不统一
->
-> **EEF Toolkit 的问题**（基于 Simpson, 2017 的分析）：
-> 1. **比较组效应**：控制组的性质（零条件 vs 一切照旧）系统性地扭曲效应量
-> 2. **范围限制（Range Restriction）**：窄化的研究人口（如11岁阅读困难男孩）自动放大效应量（SD在分母中缩小）
-> 3. **测量设计**：与干预密切相关的窄化结果测试产生比对一般结果测量的研究更大的效应量
->
-> **Blatchford 教学助理案例**：研究实际揭示的是结构性使用不当（无预留备课/课后评估时间、总被分配给低成就学生），但 Toolkit 将其简单化标签为"低影响/高成本"——可能在预算削减中导致 TA 被解雇。
->
-> > “将课堂助教置于工具包排行榜底部附近……可能会导致学校和学院联盟终止对他们的聘用，尤其是在预算削减时期。”
-> ("Placing classroom assistants near the bottom of the Toolkit's league table...could result in schools and academy chains terminating their employment, especially in times of budget cuts.") (p. 12)
->
-> ### 政治定位
->
-> Wrigley 将 [[Evidence-Based Education|EBE]] 方法论精简定位于**新自由主义政策框架**：
-> - EBE 是"审计文化"(Power, 1997)的延伸——从评估问责到"政策作为数字"(Ozga & Lingard, 2007)再到现在"证据本位教学"
-> - "什么有效"的口号将教育价值问题转化为技术效率问题，与 Biesta 的"teleological 特征"互补
-> - 教师的去专业化：声称赋予教师"声音"的 [[ResearchED]] 实际上将教师引向单一的 RCT 方法论——学术大学研究的替代者是符合政府偏好的"草根运动"
-> - 自然化的统计范畴（如"white British"、"FSMever"、"expected progress"）通过重复使用变成自明实体，抹除个体传记和文化资产
->
-> > “口号式的‘什么有效’反映了新自由主义从教育中榨取最大效率的需求，同时将人的塑造（human formation）的质性维度和政治维度边缘化了。”
-> ("The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation.") (p. 13)
+---
 
-## 替代方案
+## 研究方法
 
-> [!abstract] 替代方案
-> Wrigley 推崇 **Pawson (2006) 的"实在论综合"**而非统计[[Meta-analysis|元分析]]：
-> - 深入理解每次干预的"受试者"、研究者提出的因果理论、结果质量、测量充分性和过程障碍
-> - 研究综述应以因果理论构建为核心，而非以平均[[Effect Size|效应量]]计算为核心
-> - 需要承认教育的多层次分层（治理→学校文化→课堂→个体）以及因素间的非线性交互
->
-> 方法论多元原则：比较研究、历史研究、话语分析、立法质询、行动研究、解放性研究均需被纳入证据基础。
+> [!method-panel] 研究设计
+> | 模块 | 材料与处理方式 |
+> |------|----------------|
+> | **概念批判与哲学解构**<br>Conceptual Critique | 对 EBE 的实证主义前提（以 RCT 为金标准）进行方法论解构，将统计学偏误与科学哲学（如休谟的因果归纳困境）及批判实在论进行交叉分析。 |
+> | **案例剖析与政策还原**<br>Case Analysis | 针对三个方法论聚合层级，分别抽取核心案例进行高精度技术解构（如 Fresh Start RCT 的前测/后测差异、EEF Toolkit 中的反馈与教学助理类目、Hattie 的效应量计算基准）。 |
+> | **医学循证史比照**<br>Comparative Analysis | 比照循证医学（EBM）内部对教条化规则遵循的批判，指出医学在做 RCT 前已有深厚的理论建构，而教育学 RCT 往往面临“缺失因果理论”的盲目经验主义困境。 |
+
+> [!sample-panel]- 样本与材料快照
+> | 样本层面 | 构成 |
+> |----------|------|
+> | **评估报告样本** | 英国教育捐赠基金会（[[Education Endowment Foundation\|EEF]]）Fresh Start 评估报告（EEF, 2015）及其学术发表版本（Gorard等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
+> | **聚合工具样本** | John Hattie (2009) 《[[Visible Learning\|可见学习]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》（Toolkit）；Adrian Simpson (2017) 对 Toolkit 效应量偏差的测量学分析；Peter Blatchford 等关于课堂教学助理（TA）的大型实证研究。 |
+> | **理论文献样本** | Trish Greenhalgh (2014, 2015) 循证医学危机文献；Roy Bhaskar (1978)、Ray Pawson (2006) 的社会科学方法论论著。 |
+
+---
+
+## 论证结构
+
+> [!logic-map] 核心论证逻辑链
+> ```mermaid
+> flowchart TD
+>     A["EBE/ResearchED 倡导<br>（Tom Bennett, Nick Gibb）"] -->|声称 RCT 为唯一科学| B["Level 1: RCT 实验研究<br>（Fresh Start 案例）"]
+>     B -->|技术局限与偏误复合| C["Level 2: 元分析<br>（Feedback 案例）"]
+>     C -->|过度简化与排行榜修辞| D["Level 3: 元-元分析<br>（Hattie 与 EEF Toolkit）"]
+>     D -->|过滤背景与机制| E["新自由主义审计文化<br>（以数字治理，去专业化）"]
+>     E -->|消解 Bildung 与陶冶价值| F["走向去情境的扁平化经验主义"]
+>     F -->|重建替代方案| G["方法论多元主义 & 实在论综合<br>（CMO 机制分析）"]
+>     
+>     style B fill:#f9f,stroke:#333,stroke-width:2px
+>     style C fill:#ccf,stroke:#333,stroke-width:2px
+>     style D fill:#cfc,stroke:#333,stroke-width:2px
+>     style G fill:#ffc,stroke:#333,stroke-width:2px
+> ```
+
+---
+
+### 论证步骤一：RCT 与 Level 1 统计简化的局限性
+
+> [!claim] RCT 作为教育研究金标准面临不可逾越的技术与哲学困境
+> 随机对照试验（RCT）试图在复杂的教育社会场景中复制实验室的“封闭系统”，但由于无法实现“双盲”、缺乏类似安慰剂的对照设计，以及将人类主动施为（Agency）视为干扰，导致其效应量计算极易扭曲。
+
+> [!chain-link] 证据与案例分析：Fresh Start 捕获性实验的失败
+> 1. **对照组模糊性与安慰剂缺失**：教育实验中无法提供“空白安慰剂”，控制组（通常为“一切照旧”）实际上也在进行高强度的教学活动 (p. 5)。对照组具体做什么、是否接受了类似培训，对效应量（[[Effect Size\|Effect Size]]）的计算具有决定性影响，但在报告中往往被隐去。
+> 2. **Fresh Start 案例深度解构**：
+>    - **数据包装**：[[Education Endowment Foundation\|EEF]] 行政摘要宣称该项目（针对中一阅读困难学生的合成拼读干预）带来了 $+0.24SD$ 的效应量，等同于“3 个月的额外进步”。
+>    - **随机化失败的幻象**：深读技术报告会发现，由于学校自主分配，治疗组的前测成绩远低于控制组的前测成绩。治疗组的后测均值甚至仅略高于控制组的前测均值。
+>    - **匹配子集拆解**：当研究者从中筛选出前测成绩完全相同的低分学生子集时，治疗组和控制组的平均进步幅度和后测成绩**几乎完全相同** (p. 5)。所谓的“3 个月额外进步”纯粹是糟糕随机化带来的数据偏误幻象。
+>    - **黑箱操作与机制缺失**：研究完全没有诊断**为什么**这些学生会出现阅读困难（批判实在论所要求揭示的深层“因果机制”），而是将其塞入数据黑箱 (p. 6)。
+> 3. **施为者悖论**：报告指出“参与学校领导在随机化前已非常 enthusiastic ”，“合成拼读的成功离不开教师的热情、赞美与动态节奏”。这意味着干预的效果很大程度上依赖情感与意志，而 RCT 却必须将“人类意志”视为需要控制的“污染源” (p. 6)。
+
+> [!warrant]- 推理桥梁：开放系统与休谟因果观的局限
+> 统计方法默认了休谟式的因果观，即因果关系等于观察到的恒常规则性（X 发生则 Y 发生）。然而批判实在论指出，社会场景是高度复杂的开放系统，同样的因果机制（如某种教学法）在不同的背景（学校文化、师生关系、学生 biographies）下会产生完全不同的结果。这解释了为什么不能简单地把特定试验的“效应量”直接推广为放之四海而皆准的“黄金标准”。
+
+---
+
+### 论证步骤二：元分析与 Level 2 异质性混淆
+
+> [!claim] 元分析通过技术标准强行聚合异质研究，造成“苹果与橙子”的混淆
+> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选文献。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义。
+
+> [!chain-link] 证据与分析：“反馈（Feedback）”类目的盲目聚合
+> 1. **苹果与橙子的炼金术**：医学统计学家 Feinstein (1995) 曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键变量剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。
+> 2. **反馈的虚妄标签**：EEF Toolkit 将大量形式迥异（有些是口头启发，有些是书面改错，有些结果是正向、有些是负向）的研究统统归入“反馈”这一庞大类目下，算出了一个极高的平均效应量。然而，反馈在任何教学交互中都是不可避免且无处不在的，粗暴地给出一个“反馈最有效”的均值数字，根本无法告诉教师在具体课堂情境中“什么样”的反馈才是有效的 (p. 10)。
+> 3. **创始人与专家的警告**：元分析概念的创始人 Gene Glass 曾明确警告：“元分析的结果绝不应该是一个平均数，而应该是一张显示变异性的图表” (p. 9)。著名测量学者 Robert Coe (2002) 亦指出，如果实验所用的结果测量工具、执行强度和人群差异极大，将这些效应量进行平均在数学上是完全没有意义的。
+
+> [!warrant]- 推理桥梁：因果理论的缺位
+> 在医学领域，进行大规模临床 RCT 之前，通常已经过多年的“基础科学理论检验”，医生对药物如何作用于人体的生物学因果机制已了然于胸。而教育学 RCT 往往跳过理论构建，直接进行量化测量。缺乏因果机制理论支撑的元分析，将“干预如何运作”（How）的解释性问题，偷换成了“效果多大”（How well）的单纯数字游戏。
+
+---
+
+### 论证步骤三：元-元分析与 Level 3 双重失真
+
+> [!claim] 元-元分析（Hattie/EEF Toolkit）建立的“排行榜修辞”存在严重的测量学系统偏差
+> 将元分析进一步聚合为“元-元分析”时，前几级的技术缺陷被无限放大。以 Hattie 的 0.40 阀值和 EEF Toolkit 的“进步月份表”为代表的排行榜修辞，严重误导了教育决策。
+
+> [!chain-link] 证据与分析：Hattie 与 Simpson 的测量学拆解
+> 1. **John Hattie《可见学习》的五大硬伤**：
+>    - **数据老化与地域局限**：数据源 overwhelmingly 集中于美国，且许多研究已过时半个世纪。
+>    - **测量工具窄化**：大量采用与学习目标脱节的窄化结果测试（例如用朗读单个单词来代表阅读能力） (p. 11)。
+>    - **铰链点（0.40）逻辑漏洞**：无视干预时长（短期强化干预的效应量系统性高于长期项目）、学生年龄（平均效应量随 student 年龄增长而呈非线性递减）以及计算基准（混用对照组比较法与前-后测比较法）。
+> 2. **EEF Toolkit 的三大系统偏差** (Simpson, 2017)：
+>    - **比较组效应（Comparison groups）**：控制组如果处于“零干预”状态，测出的效应量会被系统性放大。
+>    - **范围限制（Range Restriction）**：如果研究对象局限于窄化人群（如11岁阅读障碍男孩），由于其标准差（分母）急剧缩小，计算出的效应量会急剧膨胀，这并非项目本身效果更好 (p. 12)。
+>    - **测量设计（Measure design）**：开发者自行设计的、与干预内容高度契合的测试（如特定代数测验），其测得的效应量远大于第三方标准测试。
+> 3. **教学助理（TA）类目的政策性误导**：
+>    - EEF Toolkit 将 TA 归入“低影响、高成本”（效应量仅 $+0.08$）排行榜底部。
+>    - Blatchford 的实证研究表明，TA 的低效是因为“学校没有给他们预留与教师沟通和备课的时间，且系统性地将低成就学生甩给 TA 处理，剥夺了他们接受合格教师授课的机会” (p. 12)。
+>    - Toolkit 的扁平化排行直接过滤掉了这一关键的“结构性使用不当”情境，在财政预算缩减时期，极易被决策者用作裁减教学助理的错误依据 (p. 12)。
+
+> [!warrant]- 推理桥梁：统计排行的社会后果
+> Pawson 指出，统计聚合是一场“洗涤过程（purgative process）”：假设被精简、情境被过滤、利益相关者的推理被抹除。越是向高级别聚合，信息就越空洞化。最终呈现在校长和决策者面前的是极具修辞威力的“速度表指针”和“月份排行”，但这些“钝器”不仅无法指导复杂的学校治理，反而会引发灾难性的人事决策。
+
+---
+
+### 论证步骤四：EBE 的政治定位与意识形态后果
+
+> [!claim] EBE 证据本位教育本质上是新自由主义管理主义与审计文化的权力延伸
+> 科学中立的修辞掩盖了其新自由主义的政治图谋。它将教育的根本目的（陶冶与价值）转化为纯粹的技术传递，消解了教师的专业判断力，使其沦为国家的流水线工人。
+
+> [!chain-link] 证据与分析：ResearchED 与统计范畴的权力合谋
+> 1. **草根运动的捕获**：Tom Bennett 创立的 ResearchED 表面上是赋予一线教师声音，实际上将教师引导向单一的 RCT 量化范式。这种“伪草根运动”得到了前教育部部长 Nick Gibb 的强力背书。其本质是用符合政府偏好的“草根”来边缘化大学教育学院的学术研究与批判力量。
+> 2. **自明范畴与个体消解**：在 EBE 数据驱动的审计体制中，“白人英国人（white British）”、“免费学校餐（FSMever）”、“期望进步值”等发明出来的统计学标签被重复使用并自明化，学生的个人 biography、文化资产与情感特征被彻底抹去 (p. 4)。
+> 3. **对 Bildung（陶冶）与价值追问的规避**：Gert Biesta (2010) 指出，面对任何“干预”，教育首先应该追问的是价值问题——“为了什么目的（to what ends）”与“对谁有效” (p. 4)。EBE 宣扬的“什么有效（what works）”口号故意避开了价值讨论，因为价值是 contested 的，新自由主义更倾向于将一切窄化为可测量的技术传递效率。
+
+> [!warrant]- 推理桥梁：技术效率对民主讨论的剥夺
+> 新自由主义政策通过“以数字治理”，制造了“别无选择的专政（dictatorship of no alternatives）”。当教育政策被包装成“无党派偏见、客观中立的科学证据”时，关于教育目的、社会阶级、不平等和解放的民主讨论就被技术性地压制了。教师从具有反思能力的专业人员，退化为被动接受“最佳证据”并流水线操作的技术工。
+
+---
+
+### 论证步骤五：方法论多元主义与替代方案
+
+> [!claim] 必须跳出扁平经验主义，转向方法论多元主义与现实主义综合
+> 真正的教育改善不能依赖单调的均值表，而必须承认教育是包含多层分层（治理-学校文化-课堂-个体）的开放系统，通过多元方法探究复杂的因果机制与涌现结果。
+
+> [!chain-link] 证据与分析：实在论综合与改进共同体的实践
+> 1. **实在论综合（Realist Synthesis）**：Pawson (2006) 提倡的替代路径不寻求单一均值，而是深入理解每次干预的“受试者（subjects）”特征、原始研究者的因果理论、测量充分性以及过程中的结构性障碍，探求因果机制如何在不同背景下产生不同的结果 (p. 14)。
+> 2. **网络化改进共同体（NICs）**：Lingenfelter (2016) 介绍的 Bryk 等人的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包” (p. 14)。
+> 3. **方法论多元光谱**：因果机制的探索需要引入质性观察、历史研究、话语分析、解放性研究与行动研究 (p. 16)。数字可以帮助我们看到复杂的现状（如温室效应），但如果将价值窄化为仅能被轻易测量的指标，将是教育研究的灾难。
+
+> [!warrant]- 推理桥梁：分层世界与因果涌现性
+> 批判实在论认为世界是分层的，不同层级（Strata，如国家政策、学校制度、课堂互动、个体信念）的要素相互作用，其产生的整体力量是非线性的涌现过程（Emergence）——即“整体大于部分之和” (p. 15)。承认人类的意图、信念和反思（Aristotle 最终原因）是因果关系的关键部分，这为教育的解放性与民主协商提供了哲学基石，彻底超越了 EBE 那种干预即“注射”的被动银行模型。
+
+---
 
 ## 主要发现
 
-> [!success] 主要发现
-> 1. **统计聚合逐级失真**：[[Randomised Controlled Trials|RCT]] 的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（Hattie/Toolkit）中进一步被隐藏——"越聚合越空洞化"
->
-> 2. **Fresh Start 案例显示"政治压力下的方法论妥协"**：[[Education Endowment Foundation|EEF]] 作为政府资助方可能为迎合教育部长的偏好而突显统计上不存在的结果
->
-> 3. **Toolkit 的[[Effect Size|效应量]]排名可能产生反效果**：将教学助理（因结构性使用不当而非方法无效）标签为"低影响"可在预算削减中被用于错误的人事决策
->
-> 4. **教育中的"人类意志既是必要又是污染"悖论**使 RCT 方法论从根本上不适合——教学中的人类意图、信念和互动恰是教育效果产生的途径，不应被视为需要消除的噪声
->
-> 5. **[[Critical Realism|批判实在论]]为教育研究提供了超越 Hume 经验论的因果模型**：区分 real/actual/empirical 三层，追问 causal mechanisms 而非 regularity patterns
+> [!finding-cards] 核心发现
+> 1. **统计聚合的逐级失真机制**：RCT 实验在 Level 1 的简化偏误，在 Level 2 元分析中复合，并在 Level 3 元-元分析（如 Hattie 的可见学习与 EEF Toolkit）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
+> 2. **Fresh Start 案例揭示糟糕随机化的数据幻象**：经过 matched subset 分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24SD$（3个月额外进步）仅是糟糕随机化造成的前测失衡幻象 (p. 5)。
+> 3. **教学助理类目警示扁平化排行诱发反效果**：EEF Toolkit 将 TA 排入底部，完全剥离了其“无沟通备课时间”、“系统性安排给低成就生”等结构性不当情境，在预算裁剪时期极易诱发错误的裁员决策 (p. 12)。
+> 4. **教育实验中“人类意志既是必要又是污染”的悖论**：RCT 将人类意志视为污染源，但教学效果的产生恰恰依赖教师的热情与学生的推理交互，这使得 RCT 从根本上不适合作为教育学的唯一科学标准 (p. 6)。
+
+> [!stat-cards]- 核心数据
+> - **+0.24SD**：Fresh Start 报告声称的效应量（等同于 3 个月额外进步），技术解构证实该效应量是由于对照组和干预组前测样本失衡产生的伪像。(p. 5)
+> - **0.40**：John Hattie 提出的教学干预“铰链点”（Hinge point），用于区分高效与低效项目，但该数值因忽视干预持续时间、学生年龄及计算基准差异而备受测量学质疑。(p. 11)
+> - **800 与 50,000**：Hattie 的元-元分析研究所宣称囊括的元分析数量与基础研究数量，这种宏大聚合付出了剥离所有情境信息的代价。(p. 10)
+
+---
 
 ## 关键引用
 
-> [!quote] 关键引用
-> > “社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。”
-> ("Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals.") (Pawson, 2006: 45, p. 7)
+> [!citation-card] 教育项目的现实主义因果观
+> 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。[[Wrigley_2018_BERJ|(Wrigley, 2018, p. 7)]]
 >
-> > “在[[Meta-analysis|元分析]]综述的每个阶段，都在进行简化。……在这一‘清洗’过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。”
-> ("At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning.") (Pawson, 2006: 42–43, p. 13)
->
-> > “[[Meta-analysis|元分析]]的结果绝不应该是一个平均数；它应该是一张图表。”
-> ("The result of a [[Meta-analysis]] should never be an average; it should be a graph.") (Gene Glass, p. 9)
->
-> > “让学习可见的尝试，使人们对教育作为陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。”
-> ("The attempt to make learning visible eclipses older understandings of education as [[Bildung]] and pedagogy (both words carrying the sense of human formation).") (p. 16)
+> Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006: 45)
 
-## 局限性与批评
+> [!citation-card] 元分析的净化与空洞化
+> 在元分析综述的每个阶段，都在进行简化。……在这一“清洗”过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。[[Wrigley_2018_BERJ|(Wrigley, 2018, p. 13)]]
+>
+> At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning. (Pawson, 2006: 42–43)
 
-> [!warning] 局限性与批评
-> ### 替代方案的具体性不足：从"实在论综合"到可操作的教师工具
+> [!citation-card] 均值指标 of 荒谬性
+> 元分析的结果绝不应该是一个平均数；它应该是一张图表。[[Wrigley_2018_BERJ|(Wrigley, 2018, p. 9)]]
 >
-> **批评内容**：Wrigley 推崇 Pawson (2006) 的"实在论综合"（realist synthesis）作为统计[[Meta-analysis|元分析]]的替代方案——但这比"计算平均[[Effect Size|效应量]]并放入排名表"复杂得多。实在论综合要求逐项理解每次干预的"受试者"特征、因果理论、结果质量、测量充分性和过程障碍——这对研究综述者是可操作的要求，但对于时间有限的一线教师和[[School Leadership|学校领导]]，如何将这种复杂性转化为可用的决策支持工具？
+> The result of a meta-analysis should never be an average; it should be a graph. (Gene Glass)
+
+> [!citation-card] 可见学习对 Bildung 的遮蔽
+> 让学习可见的尝试，使人们对教育作为陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。[[Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
 >
-> **Wrigley 可能的回应**：Wrigley 会回应说，教师不需要自己进行实在论综合——这应该是研究者的工作。问题是研究者的产出（如 [[Education Endowment Foundation|EEF]] Toolkit 的效应量排名表）对教师"易用"但"误导"——实在论综合的目标是提供更准确（虽然更复杂）的综述。但这一回应的确承认了"可及性"与"准确性"之间的固有张力。
->
-> **目前状态**：实在论综合在方法论学者中获得认可(Pawson, 2006; Pawson & Tilley, 1997)，但其在政策审议中的实际影响力远不及 Toolkit/Hattie 的效应量排名——后者之所以流行恰恰因为其简单性（参见 Cowen, 2019 对"对主权者透明"的分析）。
->
-> ### 对量化方法的全面不信任：批判的边界
->
-> **批评内容**：Wrigley 对"方法论多元"的论证在实践中可能被解读为拒绝所有统计研究——尽管他承认"数字本身不是问题"(p. 14)，但论文的论证火力几乎全部指向统计方法的缺陷，而鲜有讨论（已发表的）高质量的[[Quantitative Research|量化研究]]案例以及其在特定教育问题上的有效应用。
->
-> **影响**：此全面不信任的基调使 Wrigley 的论文在 [[Evidence-Based Education|EBE]] 方法论辩论中容易被对手定位为"反量化"而非"方法多元"——削弱了其作为建设性替代方案的可信度。[[Argument_Slavin_2019_EP|Slavin (2019)]] 可以将 Wrigley 的立场所概括为"怀疑论者认为我们根本不应该进行教育实验"——尽管 Wrigley 的立场更为精细。
->
-> **目前状态**：Wrigley 的批判以高精度的 Fresh Start 解构为亮点（具体到单个 [[Randomised Controlled Trials|RCT]] 的数据分析），但其方法多元论的建设性阐述相对薄弱。在方法论辩论中，"批判方"与"建构方"的篇幅不对称是常见现象，但确实限制了论文在 EBE 支持者中的说服力。
->
-> ### EEF Toolkit 受到过度简化对待
->
-> **批评内容**：Wrigley 对 EEF Toolkit 的批评（将教学助理标记为"低影响/高成本"、Fresh Start 案例的行政摘要与全报告差异）具有方法论价值。但读者可能注意：Toolkit 的官方文档明确声明其效应量排名"应补充而非替代[[Professional Judgment|专业判断]]"，且全报告（而非行政摘要）通常包含 Wrigley 要求的更细致的条件分析。
->
-> **EEF 可用的回应**：
-> - Toolkit 的行政摘要确实进行了简化和正面表述（"三个月额外进步"），但全报告在技术层面有更谨慎的讨论
-> - Toolkit 从未声称效应量排名是决策的唯一或主要依据——Wrigley 批评的实际上是简化形式在政策传播中产生的实际效果，而非 Toolkit 的正式声明
-> - 这一张力——"形式上的谨慎声明 vs. 实际使用中的简化传播"——是 Wrigley 批评的核心，但论文未充分区分"文本说了什么"和"文本被如何使用"
->
-> **目前状态**：此批评指出了批判文献中的一个常见问题——当分析对象（如 Toolkit）在文本层面已包含自我限定的保留声明时，批判需要更精确地定位"批判的对象是文本本身还是文本的使用方式"。
->
-> ### [[ResearchED]] 的复杂定位：草根运动还是政府工具？
->
-> **批评内容**：Wrigley 将 ResearchED（Tom Bennett 2013 年创立的教师草根运动，以 RCT 为黄金标准）定位于服务于政府议程——前教育部长 Nick Gibb 对其背书，其 RCT 偏好恰好与政府问责需求对齐。但此分析未充分讨论 ResearchED 内部教师的真实自主性——许多参与 ResearchED 的教师并非"被政府捕获的草根"，而是主动选择了他们认为比大学教育学院更"实用"的证据来源。
->
-> **复杂性**：
-> - ResearchED 确实获得了政府部长的背书（Nick Gibb 在多届会议上发言），其 RCT 偏好与 EBE 政策议程高度一致
-> - 但同时，ResearchED 的参与者（一线教师）可能真诚地认为"直接听研究者讲 RCT 结果"比"大学教育学院的[[Critical Theory|批判理论]]"对他们的课堂实践更有帮助
-> - Wrigley 将前者解读为"新自由主义的草根捕获"，但这一解读可能低估了教师作为知情主体的选择能力
->
-> **目前状态**：此张力反映了 EBE 辩论中的一个更深层问题——当教师的"自主选择"恰好与政府的问责偏好一致时，分析者如何区分"真正的专业自主"和"被捕获的虚假自主"？此问题在批判教育文献中尚无共识框架。
+> The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation).
+
+---
+
+## 自述局限
+
+> [!warning] 自述局限
+> 1. **数字与量化方法本身并不是问题**：作者明确指出，数字和测量本身是有用的（如同测量全球变暖的指标一样），问题在于将统计研究的角色无限泛化，并在缺乏反思的情况下追求表面上的“科学规律性”修辞 (p. 16)。
+> 2. **实在论综合的操作复杂性**：作者承认，替代方案“实在论综合（Realist Synthesis）”在实操上比单纯看效应量排行榜要复杂得多，无法提供像 EEF Toolkit 仪表盘那样供政策制定者或校长一瞥即得的瞬间决策工具 (p. 15)。
+
+---
 
 ## 来源
 

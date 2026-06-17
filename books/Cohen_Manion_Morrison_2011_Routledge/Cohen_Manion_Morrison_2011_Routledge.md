@@ -5,6 +5,7 @@ extracted_to:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 processed_date: 2026-06-16
 ---
 
