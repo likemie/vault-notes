@@ -294,23 +294,24 @@ updated: 2026-06-17
 
 ## 相关理论与方法
 
-> [!frames-ref] 相关理论
-> - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence|涌现]]性、三层[[Ontology|本体论]]
-> - [[Complexity Theory]] — 从非线性、涌现和整体论角度根本性地质疑 RCT 封闭系统假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）
-> - [[Validity as Inferences]] — [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 运用 Cronbach/Messick 的效度理论论证：即使 RCT 设计良好，其推论的效度也永远是临时且局部的
+> [!ref-table] 相关理论
+> | 理论 | 与该方法的关联 |
+> |------|--------------|
+> | [[Critical Realism]] | 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、涌现性、三层本体论 |
+> | [[Complexity Theory]] | 从非线性、涌现和整体论角度根本性质疑 RCT 封闭系统假设 |
+> | [[Validity as Inferences]] | 继承 Cronbach 和 Messick 的效度理论，论证 RCT 推论的效度永远临时且局部 |
 
----
-
-### 相关方法
-
-- [[Intervention Research]] — RCT 是干预研究的[[Random Assignment|随机分配]]版本；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将二者区分[[Coding in Qualitative Research|编码]]，以显示"有自[[Variable|变量]]操纵"和"有随机分配"不是同一层证据要求（[[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]]）。
-- [[Non-intervention Research]] — 非干预研究不操纵自变量；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 以 RCT/[[Experimental Research|实验研究]]作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4, 9]]）。
-- [[Observational and Correlational Research]] — 观察/相关研究可生成干预假设，但没有随机分配和变量操纵；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的趋势数据表明，此类研究中的 RFP 比例持续上升（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）。
-- [[Experimental Research]] — 真实验是检验因果主张的最强设计；RCT 是真实验在教育中的主要形式。
-- [[Cluster Randomized Trials]] — 教育 RCT 的标准实践变体，处理干预在班级或学校层面实施的嵌套结构。
-- [[Intent-to-Treat Analysis]] — RCT 中处理非合规问题的核心分析策略。
-- [[Mechanism Experiments]] — 替代黑箱 RCT 的设计取向，测试可迁移的特定因果机制而非完整项目包。
-- [[Quasi-Experimental Designs]] — 在随机分配不可行时提供内部效度低于 RCT 但外部效度可能改善的替代设计（[[Argument_Berk_2011_ER|Berk, 2011, p.195]]）。
+> [!ref-table] 相关方法
+> | 方法 | 关系 | 说明 |
+> |------|------|------|
+> | [[Intervention Research]] | 父类 | RCT 是其随机分配版本，区分变量操纵与随机分配两种证据要求 |
+> | [[Experimental Research]] | 父类 | 真实验是检验因果主张的最强设计，RCT 是真实验在教育中的主要形式 |
+> | [[Cluster Randomized Trials]] | 变体 | 教育 RCT 的标准实践，处理班级或学校层面的嵌套结构 |
+> | [[Intent-to-Treat Analysis]] | 配套 | 处理非合规问题的核心分析策略 |
+> | [[Mechanism Experiments]] | 替代 | 测试可迁移的特定因果机制而非完整项目包 |
+> | [[Quasi-Experimental Designs]] | 替代 | 随机分配不可行时提供外部效度可能改善的替代设计 |
+> | [[Non-intervention Research]] | 对照 | 不操纵自变量，以此对照批评强实践建议的因果证据不足 |
+> | [[Observational and Correlational Research]] | 前置 | 可生成干预假设，但无随机分配和变量操纵 |
 
 ---
 
