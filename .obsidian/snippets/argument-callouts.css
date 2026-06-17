@@ -3134,24 +3134,24 @@
 
 /* ─── dev-timeline（概念发展大型分阶段时间线） ──────────── */
 .callout[data-callout="dev-timeline"] {
-  --dt-rgb: 75, 115, 155;
-  --callout-color: 75, 115, 155;
+  --dt-rgb: 130, 100, 55;
+  --callout-color: 130, 100, 55;
   --callout-icon: lucide-git-commit-vertical;
   background: linear-gradient(160deg,
-    rgba(75, 115, 155, 0.06) 0%,
-    rgba(75, 115, 155, 0.01) 60%
+    rgba(130, 100, 55, 0.06) 0%,
+    rgba(130, 100, 55, 0.01) 60%
   ), var(--background-primary);
-  border: 1px solid rgba(75, 115, 155, 0.18);
-  border-left: 5px solid rgb(75, 115, 155);
+  border: 1px solid rgba(130, 100, 55, 0.18);
+  border-left: 5px solid rgb(130, 100, 55);
   border-radius: 8px;
 }
 
 .callout[data-callout="dev-timeline"] > .callout-title {
-  color: rgb(50, 90, 135);
+  color: rgb(100, 75, 35);
   font-weight: 700;
   letter-spacing: 0.01em;
   padding-bottom: 0.6rem;
-  border-bottom: 1px solid rgba(75, 115, 155, 0.12);
+  border-bottom: 1px solid rgba(130, 100, 55, 0.12);
 }
 
 /* ── 列表容器 + 竖线 ── */
@@ -3171,8 +3171,8 @@
   width: 2px;
   background: linear-gradient(
     to bottom,
-    rgb(75, 115, 155) 0%,
-    rgba(75, 115, 155, 0.35) 75%,
+    rgb(130, 100, 55) 0%,
+    rgba(130, 100, 55, 0.35) 75%,
     transparent 100%
   );
   pointer-events: none;
@@ -3198,17 +3198,17 @@
   width: 1.05rem;
   height: 1.05rem;
   border-radius: 50%;
-  background: rgb(75, 115, 155);
+  background: rgb(130, 100, 55);
   border: 2.5px solid var(--background-primary);
-  box-shadow: 0 0 0 2px rgba(75, 115, 155, 0.3);
+  box-shadow: 0 0 0 2px rgba(130, 100, 55, 0.3);
   z-index: 1;
 }
 
 /* 最后一个节点用空心圆（表示延续中） */
 .callout[data-callout="dev-timeline"] .callout-content > ol > li:last-child::before {
   background: var(--background-primary);
-  border-color: rgb(75, 115, 155);
-  box-shadow: 0 0 0 2px rgba(75, 115, 155, 0.2);
+  border-color: rgb(130, 100, 55);
+  box-shadow: 0 0 0 2px rgba(130, 100, 55, 0.2);
 }
 
 /* ── 阶段标题（列表项首行 strong） ── */
@@ -3237,7 +3237,7 @@
 /* ── 阶段描述行（斜体摘要） ── */
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p > em:only-child,
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:has(> em:only-child) {
-  color: rgb(75, 115, 155);
+  color: rgb(130, 100, 55);
   opacity: 0.85;
   font-style: italic;
   font-size: 0.88em;
@@ -7587,7 +7587,7 @@
 }
 
 .callout[data-callout="dev-timeline"] {
-  --timeline-rgb: 75, 115, 155;
+  --timeline-rgb: 130, 100, 55;
   --callout-color: var(--timeline-rgb);
   border-left-width: 6px;
   background:

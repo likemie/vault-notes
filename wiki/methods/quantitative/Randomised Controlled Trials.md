@@ -85,10 +85,21 @@ updated: 2026-06-17
 > - **分析单位**：个体学生、班级或学校（集群随机化）。
 > - **输出形式**：标准化[[Effect Size|效应量]]估计、统计显著性检验结果、干预-对照比较。
 
-> [!note] 历史背景
-> [[Karl Pearson|Karl Pearson]] 在 1904 年的伤寒疫苗分析中就提出了"每隔一位志愿者接种"的随机化试验方案，预见了 RCT 的发展方向——尽管这一方法在 60 年后才被正式确立（[[Argument_Higgins_2016_RE|Higgins, 2016, p.33]]）。
->
-> 医学中 RCT 的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量。Richard Peto 推广了[[Fixed-Effect and Random-Effects Models|固定效应模型]]，Larry Hedges（1983）倡导随机效应模型（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]]）。
+> [!dev-timeline]+ 历史背景
+> 1. **起源与医学奠基（1904–1980s）**
+>    - 1904 — [[Karl Pearson|Karl Pearson]] 在伤寒疫苗分析中提出"每隔一位志愿者接种"的随机化试验方案，预见了 RCT 的发展方向——尽管这一方法在 60 年后才被正式确立（[[Argument_Higgins_2016_RE|Higgins, 2016, p.33]]）
+>    - 1940s–1960s — 医学中 RCT 的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量
+>    - 1980s — Richard Peto 推广[[Fixed-Effect and Random-Effects Models|固定效应模型]]；Larry Hedges（1983）倡导随机效应模型，为教育 RCT 的元分析提供方法基础（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]]）
+> 2. **教育领域的兴起与黄金期（1983–2002）**
+>    - 1983 — 教育心理学期刊中近一半经验文章使用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
+>    - 1985–1989 — [[Tennessee STAR Project 1985-1989]] 实施，被 Mosteller 称为"有史以来最重要的教育调查之一"
+>    - 2000 — 教育心理学期刊中[[Intervention Research|干预研究]]比例约 40%，其中随机实验仍占显著份额
+>    - 2002 — 美国教育部成立[[What Works Clearinghouse]]，将 RCT 确立为教育证据金字塔的顶端
+> 3. **扩张与反思期（2010–2023）**
+>    - 2010 — 干预研究比例降至 25%，随机实验占比降至 23%
+>    - 2011 — [[Education Endowment Foundation|EEF]] 成立，此后资助了 100 项涉及 50 万以上学生的 RCT（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
+>    - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
+>    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业成就测验，36% 的效应量小于 0.05，整体中位数约为 0.10
 
 > [!citation-card]- 关键定义
 > 实验技术，尤其是随机对照试验（RCT），在建立因果性方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|(Cohen et al., 2011, pp. 78, 81)]]
