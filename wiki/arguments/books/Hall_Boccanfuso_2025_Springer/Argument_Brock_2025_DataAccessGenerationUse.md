@@ -17,6 +17,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Analytic Framework]]"
   - "[[Academic Freedom]]"
+  - "[[Blue Skies Research]]"
   - "[[FAIR Principles]]"
 related_theories: []
 related_methods: []
@@ -180,7 +181,7 @@ citation_aliases:
 安全层面，美国国家标准与技术研究院（National Institute of Standards and Technology, NIST）通过国家网络安全卓越中心（National Cybersecurity Center of Excellence, NCCoE）发布自愿性网络安全框架，同时 NIST SP 800-53 为联邦信息系统发布强制性安全控制目录。联邦采购法规（Federal Acquisition Regulation, FAR）和国防联邦采购法规补充条款（Defense Federal Acquisition Regulation Supplement, DFARS）将这些安全标准延伸至联邦承包商。
 
 > [!example]
-> 一个典型的法规溢出案例：一家国防承包商与大学签订分包合同，开展与国防应用相关的基础算法研究。该承包商的主合同受 DFARS 约束，要求所有分包商遵守基于 NIST SP 800-171 的网络安全标准——包括对整个 IT 系统进行安全审计、限制外国公民访问技术数据、以及实施多因素认证。大学的研究环境以开放共享为设计原则，实验室网络中同时有来自多个国家的研究生和博士后使用共享的计算资源。实施 DFARS 级别的安全控制意味着大学要么为该项目建立物理隔离的计算环境（成本数十万美元、数月部署），要么限制外国学生参与该项目（与[[Academic Freedom|学术自由]]和大学政策冲突）。在谈判中，大学可能辩称该项目属于"基础研究"而非"国防应用开发"，DFARS 不适用；但企业作为主承包商，其合规义务不允许它在未确保下游合规的情况下转包工作。这种僵局在当前的产学国防合作中频繁出现(pp.299–300)。
+> 一个典型的法规溢出案例：一家国防承包商与大学签订分包合同，开展与国防应用相关的基础算法研究。该承包商的主合同受 DFARS 约束，要求所有分包商遵守基于 NIST SP 800-171 的网络安全标准——包括对整个 IT 系统进行安全审计、限制外国公民访问技术数据、以及实施多因素认证。大学的研究环境以开放共享为设计原则，实验室网络中同时有来自多个国家的研究生和博士后使用共享的计算资源。实施 DFARS 级别的安全控制意味着大学要么为该项目建立物理隔离的计算环境（成本数十万美元、数月部署），要么限制外国学生参与该项目（与[[Academic Freedom|学术自由]]和大学政策冲突）。在谈判中，大学可能辩称该项目属于"[[Blue Skies Research|基础研究]]"而非"国防应用开发"，DFARS 不适用；但企业作为主承包商，其合规义务不允许它在未确保下游合规的情况下转包工作。这种僵局在当前的产学国防合作中频繁出现(pp.299–300)。
 
 ---
 

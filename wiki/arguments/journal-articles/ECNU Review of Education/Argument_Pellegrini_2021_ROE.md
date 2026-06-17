@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Literature Review]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Blue Skies Research]]"
   - "[[Reusability Paradox]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[External Validity]]"
@@ -103,7 +104,7 @@ citation_aliases:
 5. EIPPEE 发现欧洲活动很多、路径多样，但跨欧洲层面的合作和协调较少；它建议加强研究证据与政策之间的联系、提升研究质量和可用性、扩展系统综述、建设研究生产到使用系统中的能力，并增加政治和财政承诺(p.30)。
 6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF 和 TLIF 等机制推动证据使用(p.31)。
 
-例子：EEF 既生成新证据，也通过 Teaching and Learning Toolkit 和 Research Schools Network 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单纯研究机构，而是在研究、学校和政策之间承担翻译功能(pp.31-33)。
+例子：EEF 既生成新证据，也通过 Teaching and Learning Toolkit 和 Research Schools Network 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单[[Blue Skies Research|纯研究]]机构，而是在研究、学校和政策之间承担翻译功能(pp.31-33)。
 
 文章列举的欧洲证据基础设施可分为两组：证据生成与综述机构包括 [[Campbell Collaboration]]、[[Danish Clearinghouse for Educational Research]]、[[EPPI-Centre]]、[[Institute for Effective Education]]、[[Swedish Institute for Educational Research]] 和 [[Top Institute for Evidence-Based Education Research]]；证据传播和实践者网络包括 [[Centre for the Use of Research and Evidence in Education]] 与 [[Evidence-Based Teachers Network]](pp.32-34)。各机构细节写在对应条目中，这里只保留它们在论证链中的功能位置。
 

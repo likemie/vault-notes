@@ -31,6 +31,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[International Mind]]"
   - "[[Lifelong Learning]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Global Citizenship]]"
   - "[[Policy Entrepreneur]]"
   - "[[Re-Westernisation]]"
@@ -268,7 +269,7 @@ citation_aliases:
 > 理性主义照亮了跨国和全球治理网络的[[Actor-Network Theory|多行动者分析]]，国际组织、慈善事业、商业和 NGO 的角色，以及教育在地区和国家层面的多重影响。它也照亮了比较教育在和平政治中的历史参与、学科的大学和学会制度化过程，以及"比较与国际教育"或"国际与跨文化比较教育"作为学科名称的巩固。
 
 > [!warning] 缺席
-> 理性主义遮蔽了治理网络背后的权力集中。国际组织和基准测试的议程不是凭空产生的，它们往往有特定的国家权力推动。技术的、科学中立的面纱下，是去政治化的治理话语将比较包装为价值中立的科学工具。理性主义的乐观主义使其难以看到：制度化的国际合作可以同时是权力行使的更精细形式。
+> 理性主义遮蔽了治理网络背后的权力集中。国际组织和基准测试的议程不是凭空产生的，它们往往有特定的国家权力推动。技术的、科学中立的面纱下，是去政治化的治理话语将比较包装为[[Value Neutrality in Research|价值中立]]的科学工具。理性主义的乐观主义使其难以看到：制度化的国际合作可以同时是权力行使的更精细形式。
 
 ---
 

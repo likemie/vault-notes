@@ -12,6 +12,7 @@ tags:
   - theme/industrial-economics
   - theme/taxonomy
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
@@ -53,7 +54,7 @@ updated: 2026-06-10
 > [[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国 SPRU 创新数据库的分析，识别了四种创新模式（pp.156-157）：
 
 > [!line-a] 科学基础型（Science Based, SB）
-> 创新直接源于科学发现和基础研究。典型行业包括制药、电子和化学品。企业通常规模较大，拥有强大的内部研发能力，与大学和研究机构的联系紧密。创新产出以产品创新和专利为主。
+> 创新直接源于科学发现和[[Blue Skies Research|基础研究]]。典型行业包括制药、电子和化学品。企业通常规模较大，拥有强大的内部研发能力，与大学和研究机构的联系紧密。创新产出以产品创新和专利为主。
 
 > [!line-a] 专业供应商型（Specialized Suppliers, SS）
 > 生产资本品（设备和仪器）供给其他行业使用。创新主要通过设计改进和与客户的持续互动产生。典型行业包括机械工程和精密仪器。企业通常为中小企业，研发密集度中等偏高。
@@ -116,4 +117,4 @@ updated: 2026-06-10
 > - **区域创新研究**：Pavitt 类别已被用于分析意大利区域创新和专利活动的空间分布
 > - **合作创新研究**：Freel（2003）使用 Pavitt 分组研究合作对不同类型企业创新性的影响
 
-该分类法的核心价值在于：它将产业从"计量单位"转化为"[[Analytic Framework|分析框架]]"——不同 Pavitt 类别对应不同的创新政策需求：科学基础型产业需要基础研究支持和[[University-Industry Collaboration|产学合作]]，供应商主导型产业需要技术扩散和设备升级支持。这一区分对创新政策设计具有直接的操作含义（p.175）。
+该分类法的核心价值在于：它将产业从"计量单位"转化为"[[Analytic Framework|分析框架]]"——不同 Pavitt 类别对应不同的创新政策需求：科学基础型产业需要[[Blue Skies Research|基础研究]]支持和[[University-Industry Collaboration|产学合作]]，供应商主导型产业需要技术扩散和设备升级支持。这一区分对创新政策设计具有直接的操作含义（p.175）。

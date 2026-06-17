@@ -18,6 +18,7 @@ related_concepts:
   - "[[Scientization of Politics]]"
   - "[[Epistemic Governance]]"
   - "[[Responsible Conduct of Research]]"
+  - "[[Blue Skies Research]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []
@@ -68,7 +69,7 @@ Zapp 将认识漂移与 [[Epistemic Governance|知识治理]] 的内在风险直
 
 - **学术自主性的渐进侵蚀**：认识漂移的危险在于其隐蔽性——研究者通常认为自己在做出独立的研究选择，但选择的范围已经被资助结构预先限定了。不同于公开压制（研究者明确知道自己在受到限制），认识漂移中的研究者可能真诚地相信自己仍然具有学术自主性([[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]])
 
-- **累积效应的系统性后果**：单个研究者将兴趣对齐 SDGs 无可厚非——甚至可能是[[Responsible Conduct of Research|负责任的研究行为]]。但 Zapp 的担忧在于宏观层面：当这种对齐成为整个研究领域的系统性趋势时，由好奇心驱动的、不服务于任何外部议程的基础研究和批判性研究可能被系统性边缘化([[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]])
+- **累积效应的系统性后果**：单个研究者将兴趣对齐 SDGs 无可厚非——甚至可能是[[Responsible Conduct of Research|负责任的研究行为]]。但 Zapp 的担忧在于宏观层面：当这种对齐成为整个研究领域的系统性趋势时，由好奇心驱动的、不服务于任何外部议程的[[Blue Skies Research|基础研究]]和批判性研究可能被系统性边缘化([[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]])
 
 ---
 ## 理论基础
@@ -80,7 +81,7 @@ Zapp 将认识漂移与 [[Epistemic Governance|知识治理]] 的内在风险直
 ## 争议与批评
 
 > [!warning]
-> - **"漂移"的规范性预设**：认识漂移概念隐含了"存在一个不受外部影响的纯学术方向"的预设——这一预设本身可被质疑。来自科学知识社会学（SSK）和[[Actor-Network Theory|行动者网络理论]]（ANT）的研究传统可能指出：所有的研究议程都是社会建构的产物，不存在纯"内在于科学"的研究方向，"漂移"概念可能过度浪漫化了基础研究
+> - **"漂移"的规范性预设**：认识漂移概念隐含了"存在一个不受外部影响的纯学术方向"的预设——这一预设本身可被质疑。来自科学知识社会学（SSK）和[[Actor-Network Theory|行动者网络理论]]（ANT）的研究传统可能指出：所有的研究议程都是社会建构的产物，不存在纯"内在于科学"的研究方向，"漂移"概念可能过度浪漫化了[[Blue Skies Research|基础研究]]
 > - **证据局限性**：[[Argument_Zapp_2022_Springer|Zapp (2022)]] 对认识漂移的讨论属于概念性论述，未提供系统性的实证证据证明认识漂移的实际发生频率和程度。Elzinga (1997) 的原始论证需要在其自身的研究语境中评估
 
 ---

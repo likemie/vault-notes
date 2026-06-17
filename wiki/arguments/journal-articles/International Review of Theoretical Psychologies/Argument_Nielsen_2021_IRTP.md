@@ -25,6 +25,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Doxa]]"
@@ -108,7 +109,7 @@ citation_aliases:
 >
 > - **系统（system）vs. 生活世界（lifeworld）**：学校处于两者的"再生产十字路口"(Borman, 2011, p. 7)
 > - 传统现代社会中，学校课程与日常生活的价值观和权威体系紧密相连，参与者容易认同
-> - 晚期现代社会中，国家机构逐渐从传统的共识理性转向**价值中立的工具理性**进行治理——这为合法化危机打开了大门
+> - 晚期现代社会中，国家机构逐渐从传统的共识理性转向**[[Value Neutrality in Research|价值中立]]的工具理性**进行治理——这为合法化危机打开了大门
 > - 危机的核心：国家机构必须同时服务于两个利益对立的"主人"——市场的特殊利益和公民的公共利益
 > - **生活世界的殖民化（colonization of the lifeworld）**：行政系统不断提取生活世界的价值来为面向市场的策略性干预辩护，系统性削弱公民参与的共同价值
 >

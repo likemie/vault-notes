@@ -23,6 +23,7 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Blue Skies Research]]"
   - "[[Absorptive Capacity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
@@ -130,7 +131,7 @@ issuing_organization: ""
 标题中的问号——"From Queen to Cinderella?"——不是修辞装饰，而是全文论证的起点。这个隐喻意在表达：科学在创新中的角色不是从一种身份单向转变为另一种身份，而是同时经历着两种方向相反的变化。隐喻的两个角色各自对应一种变化，二者并行不悖而非非此即彼 (p.862)。
 
 > [!evidence-grid] 女王的含义
-> 在二战之后长达数十年的时间里，科学——尤其是自然科学——在创新过程中占据着近乎自主和不容置疑的主导地位。线性模型将基础研究置于创新链条的起点，赋予其推动一切后续环节的初始动力。政策制定者据此配置公共资源，工业组织据此构建研发层级。科学拥有独立于市场和政治的自主性、至高的符号地位和优先的资源配置权。将科学称为女王，指向的正是这种自主性、优先性和符号统治力。
+> 在二战之后长达数十年的时间里，科学——尤其是自然科学——在创新过程中占据着近乎自主和不容置疑的主导地位。线性模型将[[Blue Skies Research|基础研究]]置于创新链条的起点，赋予其推动一切后续环节的初始动力。政策制定者据此配置公共资源，工业组织据此构建研发层级。科学拥有独立于市场和政治的自主性、至高的符号地位和优先的资源配置权。将科学称为女王，指向的正是这种自主性、优先性和符号统治力。
 
 > [!evidence-grid] 灰姑娘的含义
 > 童话中的灰姑娘有两个看似矛盾的特征：她承担了家中所有劳作，无处不在却毫无地位；直到王子出现她才被看见和承认。这个隐喻借用的是前一个特征——灰姑娘式的有用。科学的角色在最近几十年里发生了深刻的泛化。在供给端，营销研究、管理研究和组织研究对创新越来越重要，自然科学不再是唯一的知识来源。在需求端，越来越多传统意义上的低技术产业——食品加工、纺织——也需要依靠科学来保持竞争力。科学变得无处不在，渗透进创新的每一个环节，按需被调用。它比以前更有用了。
@@ -289,7 +290,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 >
 > Science tends to be employed at all points of the central-chain-of-innovation, as needed.
 
-> [!citation-card] 将大学和基础研究从属于市场或政治指令是错误的
+> [!citation-card] 将大学和[[Blue Skies Research|基础研究]]从属于市场或政治指令是错误的
 > 将大学和基础研究置于市场或政治指令之下是错误的。它破坏了创新过程的长期可持续性，并且忽视了创新过程中最重要的瓶颈可能与不支持面向市场和生产的经验型学习的组织形式有关 (p.867)。
 >
 > It would be a mistake to use this as an argument to make universities and basic research subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.

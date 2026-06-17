@@ -59,6 +59,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
+  - "[[Blue Skies Research]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
@@ -357,7 +358,7 @@ updated: 2026-05-20
 [[Global Universities Rankings|全球大学排名]]不是中立的评估工具，而是知识地缘政治的核心运作机制之一。
 
 > [!citation-card] Hazelkorn, 2018
-> 排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"。
+> 排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"。
 >
 > Hazelkorn, 2018, p.10, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]]
 

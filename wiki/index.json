@@ -4264,6 +4264,18 @@
     ]
   },
   {
+    "title": "Blue Skies Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Blue Skies Research.md",
+    "aliases": [
+      "蓝天研究",
+      "Pure Research",
+      "纯研究",
+      "Basic Research",
+      "基础研究"
+    ]
+  },
+  {
     "title": "Campbell and Stanley Notation System",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Campbell and Stanley Notation System.md",
@@ -5514,6 +5526,18 @@
     "path": "wiki/concepts/research-methodology/Validity as Inferences.md",
     "aliases": [
       "作为推论的效度"
+    ]
+  },
+  {
+    "title": "Value Neutrality in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Value Neutrality in Research.md",
+    "aliases": [
+      "研究中的价值中立",
+      "Value Neutrality",
+      "价值中立",
+      "Value Freedom",
+      "价值无涉"
     ]
   },
   {

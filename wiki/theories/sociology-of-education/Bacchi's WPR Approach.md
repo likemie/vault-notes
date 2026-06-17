@@ -23,6 +23,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Analytic Framework]]"
   - "[[Policy Network]]"
+  - "[[Value Neutrality in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -105,7 +106,7 @@ updated: 2026-06-16
 
 > [!tension] 争议焦点
 > - **线性结构的张力**：虽然六个问题在逻辑上是递进的，但在实际分析中，问题表征的形成（Q3）、沉默（Q4）与效果（Q5）通常是高度共生且互为因果的，难以在文本分析中做绝对的线性割裂。
-> - **价值中立性的挑战**：WPR方法本身自带强烈的解构色彩和批判立场，使得它难以用于以“政策优化”或“工具理性改进”为直接目标的研究项目。
+> - **[[Value Neutrality in Research|价值中立]]性的挑战**：WPR方法本身自带强烈的解构色彩和批判立场，使得它难以用于以“政策优化”或“工具理性改进”为直接目标的研究项目。
 
 ---
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Postpositivism]]"
   - "[[Reflexivity]]"
   - "[[Incommensurability]]"
@@ -208,7 +209,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 > [!case] 范式转换的三个历史案例
 > 1. 托勒密地心说(旧范式)→ 哥白尼日心说(新范式)。旧正统之所以维持了几代人，不仅因为证据，还因为它受到有威望、有权力的科学家的支持——天主教会甚至试图让伽利略在倡导日心说时保持沉默
 > 2. 牛顿机械宇宙观 → 爱因斯坦相对论的、演化的宇宙观
-> 3. 价值无涉、中立、客观的实证主义科学观 → [[Postpositivism|后实证主义]]、[[Critical Realism|批判实在论]]的科学观，以推测(Popper, 1980)、研究者的主观价值体系、[[Phenomenology|现象学]]、主体性和[[Reflexivity|反思性]]为特征
+> 3. [[Value Neutrality in Research|价值无涉]]、中立、客观的实证主义科学观 → [[Postpositivism|后实证主义]]、[[Critical Realism|批判实在论]]的科学观，以推测(Popper, 1980)、研究者的主观价值体系、[[Phenomenology|现象学]]、主体性和[[Reflexivity|反思性]]为特征
 
 > [!def] [[Incommensurability|不可通约性]](incommensurability)
 > 不同范式之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式(p.137)。

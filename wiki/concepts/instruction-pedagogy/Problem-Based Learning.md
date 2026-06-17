@@ -23,6 +23,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
+  - "[[Blue Skies Research]]"
   - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
@@ -110,7 +111,7 @@ updated: '2026-05-18'
 
 
 > [!warning] Hattie 的 PBL [[Meta-analysis|元分析]]数据库质量争议
-> [[Argument_Blass_2020_JESP|Blass (2020, pp.92–93)]]对 Hattie (2009) [[Visible Learning|VL]] 中 PBL 效应量背后的 8 项基础研究进行了详细的附录审查，发现严重的情境错配和纳入标准问题：
+> [[Argument_Blass_2020_JESP|Blass (2020, pp.92–93)]]对 Hattie (2009) [[Visible Learning|VL]] 中 PBL 效应量背后的 8 项[[Blue Skies Research|基础研究]]进行了详细的附录审查，发现严重的情境错配和纳入标准问题：
 >
 > **8 项研究的内容分析**：
 >

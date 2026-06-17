@@ -20,6 +20,7 @@ tags:
   - "source/edited-volume"
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
   - "[[Heterogeneity]]"
@@ -133,7 +134,7 @@ citation_aliases:
 全书从第一章起就建立了一个贯穿始终的[[Analytic Framework|分析框架]]：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化(p.4)。
 
 > [!example]
-> 2024 年诺贝尔奖的三个科学奖项被用作说明这一趋势的关键证据：物理学奖表彰了神经网络的基础研究（得主 Geoffrey Hinton 曾在 Google 工作十年），化学奖表彰了 AlphaFold 蛋白质结构预测软件（得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发）；生理学与医学奖得主虽未曾在产业工作，但其 MicroRNA 研究通过治疗开发对生物医学公司产生了变革性影响(pp.3–4)。换一个角度看：如果 Hinton 从未进入 Google，或 Hassabis 和 Jumper 不在 DeepMind 工作，这些诺贝尔奖级别的成果可能根本不会以同样的方式出现。
+> 2024 年诺贝尔奖的三个科学奖项被用作说明这一趋势的关键证据：物理学奖表彰了神经网络的[[Blue Skies Research|基础研究]]（得主 Geoffrey Hinton 曾在 Google 工作十年），化学奖表彰了 AlphaFold 蛋白质结构预测软件（得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发）；生理学与医学奖得主虽未曾在产业工作，但其 MicroRNA 研究通过治疗开发对生物医学公司产生了变革性影响(pp.3–4)。换一个角度看：如果 Hinton 从未进入 Google，或 Hassabis 和 Jumper 不在 DeepMind 工作，这些诺贝尔奖级别的成果可能根本不会以同样的方式出现。
 
 ### 目标对齐的逻辑
 

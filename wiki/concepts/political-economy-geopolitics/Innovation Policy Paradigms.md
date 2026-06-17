@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"
@@ -64,7 +65,7 @@ updated: 2026-05-27
 **核心逻辑**：科学发现 → 技术开发 → 市场创新 → 经济增长。政府角色是资助基础[[Knowledge Production|知识生产]]以弥补"市场失灵"（market failure）——知识具有公共品属性，私人市场对其投资不足（Arrow, 1962; Solow, 1957）。
 
 **政策工具**（pp.28–29）：
-- 大规模资助大学基础研究（美国 [[National Science Foundation|NSF]]、国防部）
+- 大规模资助大学[[Blue Skies Research|基础研究]]（美国 [[National Science Foundation|NSF]]、国防部）
 - 强化知识产权以促进[[Technology Transfer|技术转移]]（1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）
 - 研发税收抵免和公共采购激励私人研发
 - 发展风险投资市场
@@ -113,7 +114,7 @@ updated: 2026-05-27
 |------|----------|----------|----------|
 | **时期** | 1940s–1980s | 1980s–1990s | 2010s 至今 |
 | **核心问题** | "怎么让科学推动增长？" | "怎么让整个系统配好套？" | "系统在解决对的问题吗？" |
-| **政府角色** | 资助基础研究，弥补市场失灵 | 管理系统失灵，协调多领域政策 | 主动引导方向，推动系统性转型 |
+| **政府角色** | 资助[[Blue Skies Research\|基础研究]]，弥补市场失灵 | 管理系统失灵，协调多领域政策 | 主动引导方向，推动系统性转型 |
 | **创新观** | 线性：科学→技术→市场 | 系统：多行动者+制度+反馈 | 转型：方向性+实验+深度学习 |
 | **大学角色** | [[Knowledge Production\|知识生产]]者+人才培养 | 系统催化剂+互动伙伴 | 中立召集者+方向贡献者 |
 | **关键机制** | 政府拨款、IP 保护、税收抵免 | 网络建设、[[Absorptive Capacity\|吸收能力]]、创业催化 | 使命设定、实验学习、多方联盟 |
@@ -137,7 +138,7 @@ updated: 2026-05-27
 
 > [!success]
 > - 系统创新政策[[Paradigm|范式]]当前在包括英国、美国和大部分欧洲国家在内的许多国家占据主导地位（p.34）
-> - 三范式在现实中并非纯粹存在——一个国家可能同时运行多个范式的政策工具。例如：美国同时拥有大规模的大学基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]（范式二）和 [[CHIPS and Science Act|CHIPS Act]] 的区域创新引擎计划（范式三要素）（pp.43–44）
+> - 三范式在现实中并非纯粹存在——一个国家可能同时运行多个范式的政策工具。例如：美国同时拥有大规模的大学[[Blue Skies Research|基础研究]]资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]（范式二）和 [[CHIPS and Science Act|CHIPS Act]] 的区域创新引擎计划（范式三要素）（pp.43–44）
 > - 英国从范式一向范式二的过渡尤为清晰：1993 年白皮书 *Realising Our Potential* 是转折点，1999 年引入的公式化长期[[Knowledge Exchange|知识交流]]拨款标志着系统范式的制度化（pp.40–43）
 
 ---

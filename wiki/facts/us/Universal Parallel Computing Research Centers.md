@@ -15,6 +15,7 @@ tags:
   - "theme/corporate-innovation"
   - "theme/semiconductor"
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
   - "[[Academic Engagement Team]]"
@@ -44,7 +45,7 @@ updated: 2026-06-03
 ## 经过
 
 > [!note]
-> - **2008 年 3 月**：Intel 和 Microsoft 联合宣布启动通用并行计算研究中心（UPCRC），资助 UC Berkeley 和 UIUC 两所大学进行大规模并行编程基础研究（Green, 2008，转引自 p.234）
+> - **2008 年 3 月**：Intel 和 Microsoft 联合宣布启动通用并行计算研究中心（UPCRC），资助 UC Berkeley 和 UIUC 两所大学进行大规模并行编程[[Blue Skies Research|基础研究]]（Green, 2008，转引自 p.234）
 > - **2008–2013 年**：UPCRC 在两个站点运行，产出大量并行编程技术（如 Berkeley 的 Spark 和 Ray 等分布式计算框架的前身研究）
 > - **2012 年 10 月**：[[National Science Foundation|NSF]] 启动 XPS（Exploiting Parallelism and Scalability）项目，以政府资金接力和放大 Intel-Microsoft 的先期投入（p.235）
 > - **后续影响**：并行编程技术逐步成熟并被纳入全球计算机科学课程，完成了从全行业危机到普及化技术基础的过渡（p.235）

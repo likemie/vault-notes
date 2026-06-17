@@ -10,6 +10,7 @@ tags:
   - topic/educational-policy
   - topic/evaluation
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Positivism]]"
 related_theories: []
@@ -39,7 +40,7 @@ updated: 2026-06-17
 ## 核心要素
 
 > [!feature] 研究利用的四种经典模型（Weiss, 1991b）
-> - **研究与开发模型**（R&D Model）：研究通过线性阶段——基础研究→[[Evaluation Research|应用研究]]→开发→推广——逐步转化为政策方案。隐喻是"流水线"。
+> - **研究与开发模型**（R&D Model）：研究通过线性阶段——[[Blue Skies Research|基础研究]]→[[Evaluation Research|应用研究]]→开发→推广——逐步转化为政策方案。隐喻是"流水线"。
 > - **问题解决模型**（Problem-Solving Model）：当政策制定者面临特定问题时，他们主动调用现有研究来寻找答案。隐喻是"工具箱"。
 > - **互动模型**（Interactive Model）：研究与政策在持续对话中相互塑造——研究者提供证据和框架，决策者提供问题和实践约束。隐喻是"对话"。
 > - **战术模型**（Tactical Model）：研究被策略性地引用，不是作为决策的信息基础，而是作为支持既定立场的修辞资源或拖延决策的工具。隐喻是"武器"。

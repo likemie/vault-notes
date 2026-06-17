@@ -17,6 +17,7 @@ tags:
   - "theme/entrepreneurship"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Blue Skies Research]]"
   - "[[Corporate University]]"
   - "[[Academic Capitalism]]"
   - "[[Quasi-markets in Higher Education]]"
@@ -61,7 +62,7 @@ updated: 2026-06-02
 
 > [!example]
 - **vs [[University-Industry Collaboration]]**：产学合作是大学与企业之间的互动关系和活动；创业型大学是大学一方为促进这种互动而采取的组织形态和战略取向
-- **vs 传统研究型大学**：传统研究型大学以基础研究和学术发表为核心使命；创业型大学在不放弃学术使命的前提下，将经济发展和产业参与提升为战略优先事项
+- **vs 传统研究型大学**：传统研究型大学以[[Blue Skies Research|基础研究]]和学术发表为核心使命；创业型大学在不放弃学术使命的前提下，将经济发展和产业参与提升为战略优先事项
 - **vs 企业化大学（[[Corporate University]]）**：[[Corporate University]] 是由企业设立或主导的教育培训机构；创业型大学仍是学术机构，只是采用更主动的产学合作战略
 
 

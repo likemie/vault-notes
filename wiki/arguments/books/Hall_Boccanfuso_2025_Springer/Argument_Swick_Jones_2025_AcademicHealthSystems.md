@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Applied Medical Innovation]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Blue Skies Research]]"
   - "[[Clinical Trial]]"
   - "[[Academic Medical Center]]"
   - "[[Academic Health System]]"
@@ -57,7 +58,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> [[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI），即整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，其[[University-Industry Collaboration|产学合作]]面临一个结构性矛盾：从临床需求识别、基础研究发现、产品开发到[[Clinical Trial|临床试验]]和规模化部署，每个阶段都要求大学、产业和医院之间深度协作，但三者的治理模式、核心目标和回报定义截然不同。大学追求研究发表和学生培养，产业追求市场和利润，医院追求患者安全和当前最佳标准的诊疗。谁来充当各方之间的翻译者和促进者？什么样的组织载体能够同时容纳科学、医学、教学和创新四种逻辑，使产学合作在医用创新中高效运转，而不是在各方的优先级冲突中停滞？
+> [[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI），即整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，其[[University-Industry Collaboration|产学合作]]面临一个结构性矛盾：从临床需求识别、[[Blue Skies Research|基础研究]]发现、产品开发到[[Clinical Trial|临床试验]]和规模化部署，每个阶段都要求大学、产业和医院之间深度协作，但三者的治理模式、核心目标和回报定义截然不同。大学追求研究发表和学生培养，产业追求市场和利润，医院追求患者安全和当前最佳标准的诊疗。谁来充当各方之间的翻译者和促进者？什么样的组织载体能够同时容纳科学、医学、教学和创新四种逻辑，使产学合作在医用创新中高效运转，而不是在各方的优先级冲突中停滞？
 
 回答指向一种与[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）不同的组织形态，即[[Academic Health System|学术健康系统]]（Academic Health System, AHS）。以 Houston Methodist 健康系统（Houston Methodist Health System）为范例，结合经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的案例研究，论证 AHS 如何在医用创新的产学合作中克服成本、监管、专业化和目标差异等结构性障碍，并提出[[Values Alignment Model|价值对齐模型]]作为一般性合作框架。
 

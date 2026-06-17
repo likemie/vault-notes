@@ -20,6 +20,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Return on Investment]]"
   - "[[Professional Judgment]]"
+  - "[[Value Neutrality in Research]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -73,7 +74,7 @@ updated: 2026-06-06
 > - **简化主义**：将教育简化为[[Causality|因果关系]]，忽视教育作为人类沟通和意义建构活动的复杂性（Biesta et al., 2015）
 > - **私人利益**：该运动与智库、基金会等私人机构的利益交织，证据生产受到[[Return on Investment|投资回报]]逻辑的影响([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]])
 > - **权力集中**：中介组织通过证据标准的制定权获得对教育实践的控制力，削弱了教师和教师教育者的[[Professional Judgment|专业判断]]
-> - **价值中立幻象**：声称"价值中立"的[[Scientific Method|科学方法]]实际上承载着特定的意识形态假设
+> - **[[Value Neutrality in Research|价值中立]]幻象**：声称"价值中立"的[[Scientific Method|科学方法]]实际上承载着特定的意识形态假设
 
 ---
 

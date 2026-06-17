@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Effect Size]]"
+  - "[[Value Neutrality in Research]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -135,7 +136,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - **论文自认局限**：非实证课堂研究，而是理论性参与；由于专门批评 [[Visible Learning|VL]] 文化政治的文献匮乏，未进行常规[[Literature Review|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
-> - **立场**：作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称价值中立
+> - **立场**：作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称[[Value Neutrality in Research|价值中立]]
 > - **可能被驳回的方式**：作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"(p.42)，并呼吁"不回避审问论述的文化政治的、有力的辩论"
 
 ## 来源

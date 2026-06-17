@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
+  - "[[Blue Skies Research]]"
   - "[[Precompetitive Research]]"
   - "[[Academic Engagement Team]]"
 related_theories:
@@ -48,7 +49,7 @@ updated: 2026-06-04
 > [!quote]
 > "An AET practitioner can leverage government partnering to increase the scale of available funding, which can help defray costs. At the same time, broader partnering sometimes comes with complications that can hinder support within companies."（p.233）
 
-PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC）作为一个大规模 PPP，[[National Science Foundation|NSF]] 启动技术、创新与合作（TIP）理事会将 PPP 作为加速[[Research Translation|研究转化]]和实现基础研究经济效益的核心工具（pp.233–234）。
+PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC）作为一个大规模 PPP，[[National Science Foundation|NSF]] 启动技术、创新与合作（TIP）理事会将 PPP 作为加速[[Research Translation|研究转化]]和实现[[Blue Skies Research|基础研究]]经济效益的核心工具（pp.233–234）。
 
 ---
 

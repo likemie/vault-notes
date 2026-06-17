@@ -18,6 +18,7 @@ tags:
   - theme/commercialization
   - level/higher-education
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
   - "[[Research and Technology Organisation]]"
   - "[[Evaluation Research]]"
@@ -47,7 +48,7 @@ updated: 2026-06-10
 ## 核心特征
 
 > [!abstract]
-> - **资金缺口**：基础研究通常由公共资金支持，商业化由私人资本支持，中间阶段缺乏明确的资金来源
+> - **资金缺口**：[[Blue Skies Research|基础研究]]通常由公共资金支持，商业化由私人资本支持，中间阶段缺乏明确的资金来源
 > - **能力缺口**：学术研究者通常缺乏将[[Research Translation|技术转化]]为可制造产品的工程和商业能力
 > - **风险过高**：技术风险和市场风险在这一阶段同时存在且都较高，使私人投资者望而却步
 

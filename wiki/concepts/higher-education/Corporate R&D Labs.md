@@ -20,6 +20,7 @@ tags:
   - "level/higher-education"
   - "theme/corporate-innovation"
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Production]]"
@@ -44,7 +45,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 企业中央研发实验室（Corporate R&D Labs）指二十世纪早中期大型企业建立的内部中央研究机构，其核心特征是：在一个组织内部涵盖从基础研究到产品开发的全链条科研活动——不仅做产品改进，也从事足以与顶尖大学匹敌的基础科学发现。AT&T 贝尔实验室、Xerox PARC 和 IBM Research 是其黄金时代的典型代表（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.35–37]])。
+> 企业中央研发实验室（Corporate R&D Labs）指二十世纪早中期大型企业建立的内部中央研究机构，其核心特征是：在一个组织内部涵盖从[[Blue Skies Research|基础研究]]到产品开发的全链条科研活动——不仅做产品改进，也从事足以与顶尖大学匹敌的基础科学发现。AT&T 贝尔实验室、Xerox PARC 和 IBM Research 是其黄金时代的典型代表（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.35–37]])。
 
 > 企业中央实验室的逻辑基础是一种朴素但有力的信念：科学知识——甚至是看似远离商业应用的基础知识——对于指导产品开发、解锁新的商业机会至关重要（Arora et al., 2020）（p.35）。
 
@@ -85,7 +86,7 @@ updated: 2026-05-27
 
 | 角色 | 承担者 | 核心活动 |
 |------|--------|----------|
-| 基础研究 | **大学**（及公共研究机构） | 联邦资助的知识发现 |
+| [[Blue Skies Research\|基础研究]] | **大学**（及公共研究机构） | 联邦资助的知识发现 |
 | 高风险商业化 | **小型初创企业** | 利用风险投资将发明推向市场 |
 | 产品开发与集成 | **大型成熟企业** | 系统集成、市场部署、规模制造 |
 

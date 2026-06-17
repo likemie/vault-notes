@@ -15,6 +15,7 @@ tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -41,12 +42,12 @@ updated: 2026-05-26
 
 > [!success]
 > 该报告在美国科学政策讨论中产生了持续影响：
-> - 在二战后科学政策传统（Endless Frontier → [[National Science Foundation|NSF]] → [[Triple Helix]]）的链条中，Rising Above the Gathering Storm 是二十一世纪初重申基础研究战略价值的关键节点（p.13）
+> - 在二战后科学政策传统（Endless Frontier → [[National Science Foundation|NSF]] → [[Triple Helix]]）的链条中，Rising Above the Gathering Storm 是二十一世纪初重申[[Blue Skies Research|基础研究]]战略价值的关键节点（p.13）
 > - 报告的关切推动了后续联邦研发投资和 STEM 人才政策的讨论
 
 ## 相关概念／政策
 
-- [[Science, The Endless Frontier 1945]] — 该报告沿袭了 Endless Frontier 的基础研究投资逻辑
+- [[Science, The Endless Frontier 1945]] — 该报告沿袭了 Endless Frontier 的[[Blue Skies Research|基础研究]]投资逻辑
 - [[Innovation Ecosystem]] — 政府投资是创新生态系统的关键催化要素
 - [[Triple Helix]] — 政府-大学-产业的反馈循环
 

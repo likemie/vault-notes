@@ -18,6 +18,7 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Blue Skies Research]]"
   - "[[Fourth Generation University]]"
   - "[[Research Translation]]"
   - "[[Technology Transfer]]"
@@ -108,7 +109,7 @@ citation_aliases:
 
 ### 第二步：气候与可持续发展高管教育的课程设计案例
 
-9. 哥伦比亚大学气候学院提供了一个完整的跨学科高管教育课程设计样本。哥伦比亚大学在地球和环境科学基础研究方面拥有悠久历史，商学院、国际与公共事务学院、法学院、公共卫生学院和职业学院各自设有研究机构和学位项目，方向覆盖气候、可持续发展和[[UN Sustainable Development Goals|可持续发展目标]]。大学管理层与资深教授共同设计了新的气候学院，作为一所专业学院协调各学术部门和研究所的跨学科研究与学位项目(pp.161-162)。
+9. 哥伦比亚大学气候学院提供了一个完整的跨学科高管教育课程设计样本。哥伦比亚大学在地球和环境科学[[Blue Skies Research|基础研究]]方面拥有悠久历史，商学院、国际与公共事务学院、法学院、公共卫生学院和职业学院各自设有研究机构和学位项目，方向覆盖气候、可持续发展和[[UN Sustainable Development Goals|可持续发展目标]]。大学管理层与资深教授共同设计了新的气候学院，作为一所专业学院协调各学术部门和研究所的跨学科研究与学位项目(pp.161-162)。
 
    这所学院的组建体现了哥伦比亚大学所说的"[[Fourth Generation University|第四宗旨]]"（Fourth Purpose），在教学、研究和学科服务三项传统职能之外，大学应当承担起加速[[Research Translation|研究转化]]和应用、参与应对重大挑战所需创新的社会责任。Malkov et al.(2024)提出的"[[Fourth Generation University|第四代大学]]"（Fourth Generation University）概念与此呼应(pp.161-162)。
 

@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Blue Skies Research]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
   - "[[Clinical Trial]]"
@@ -91,7 +92,7 @@ citation_aliases:
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_14-1_Mechanics_of_Successful_UI_Relationships.jpg)
 
 > [!example]
-> 一个典型转化场景：一位化工系教授在某次学术会议上遇到一家材料公司的研发总监。两人发现教授实验室在催化方面的基础研究与公司的新型聚合物开发高度相关。经过几次互访和初步数据共享（非正式阶段），双方决定推进为正式的[[Sponsored Research Agreement|赞助研究协议]]。此时，谈判从"我们能不能一起做"变成了"谁拥有什么权利、什么可以发表、什么必须保密"——这正是协议需要回答的问题。
+> 一个典型转化场景：一位化工系教授在某次学术会议上遇到一家材料公司的研发总监。两人发现教授实验室在催化方面的[[Blue Skies Research|基础研究]]与公司的新型聚合物开发高度相关。经过几次互访和初步数据共享（非正式阶段），双方决定推进为正式的[[Sponsored Research Agreement|赞助研究协议]]。此时，谈判从"我们能不能一起做"变成了"谁拥有什么权利、什么可以发表、什么必须保密"——这正是协议需要回答的问题。
 
 ---
 

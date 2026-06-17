@@ -13,6 +13,7 @@ tags:
   - policy/research-governance
   - theme/comparative-governance
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods: []
@@ -33,7 +34,7 @@ updated: 2026-06-01
 ## 内容
 
 > [!info]
-> CNRS（Centre National de la Recherche Scientifique，法国国家科学研究中心）是 1939 年成立的法国国家级公共科研机构，也是欧洲最大的基础研究机构之一。CNRS 拥有独特的制度特征：其研究人员是终身制公务员（fonctionnaires），享有独立于大学的职业身份和拨款渠道——与美国研究型大学以项目拨款（grant-based）为核心的体系、以及英国以 [[Research Excellence Framework|REF]] 评估驱动拨款的体系形成显著差异([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.809]])。
+> CNRS（Centre National de la Recherche Scientifique，法国国家科学研究中心）是 1939 年成立的法国国家级公共科研机构，也是欧洲最大的[[Blue Skies Research|基础研究]]机构之一。CNRS 拥有独特的制度特征：其研究人员是终身制公务员（fonctionnaires），享有独立于大学的职业身份和拨款渠道——与美国研究型大学以项目拨款（grant-based）为核心的体系、以及英国以 [[Research Excellence Framework|REF]] 评估驱动拨款的体系形成显著差异([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.809]])。
 
 ## 制度特征
 

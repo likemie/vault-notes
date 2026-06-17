@@ -18,6 +18,7 @@ tags:
   - innovation/commercialization
   - industry/manufacturing
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Proof of Concept Programs]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ updated: 2026-06-05
 ## 定义
 
 > [!info]
-> 中试平台是科技成果从实验室走向产业化的关键中间环节，提供技术熟化、工艺验证和小批量试生产服务。它连接基础研究与产业化应用，通过放大试验验证技术可行性、经济合理性和工艺稳定性，降低成果转化风险。
+> 中试平台是科技成果从实验室走向产业化的关键中间环节，提供技术熟化、工艺验证和小批量试生产服务。它连接[[Blue Skies Research|基础研究]]与产业化应用，通过放大试验验证技术可行性、经济合理性和工艺稳定性，降低成果转化风险。
 
 ---
 

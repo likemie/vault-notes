@@ -15,6 +15,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Ontology]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
 related_theories: []
@@ -82,7 +83,7 @@ updated: 2026-06-08
 > [!info]
 > - [[Ontology|本体论]]立场：国际社会被理解为资本主义世界体系中支配群体与从属群体之间不平等的权力关系，而非主权国家之间的竞争或合作关系。
 > - 分析层次：跨国和全球层次，关注资本主义世界体系的中心—边缘结构如何塑造教育制度和实践。
-> - 规范立场：明确承诺于社会转型和解放，拒绝价值中立的学术姿态。研究的目的不仅是理解世界，更是改变世界。
+> - 规范立场：明确承诺于社会转型和解放，拒绝[[Value Neutrality in Research|价值中立]]的学术姿态。研究的目的不仅是理解世界，更是改变世界。
 
 ---
 

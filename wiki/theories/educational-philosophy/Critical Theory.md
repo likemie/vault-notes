@@ -12,6 +12,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
@@ -60,7 +61,7 @@ updated: 2026-06-16
 > [!proposition-chain] 命题链
 > - **前提一：知识不中立** 知识——包括研究知识——服务于不同利益。利益是"知识构成性的"（knowledge-constitutive），因为它们塑造和决定了什么算作知识的对象和类型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, p. 35)]]
 >   > [!warrant]- 为什么这个前提重要
->   > 这一前提瓦解了[[Positivism|实证主义]]声称的价值中立和客观性。研究者不再能声称中立和意识形态上的无辜——研究本身是一种政治活动。
+>   > 这一前提瓦解了[[Positivism|实证主义]]声称的[[Value Neutrality in Research|价值中立]]和客观性。研究者不再能声称中立和意识形态上的无辜——研究本身是一种政治活动。
 > - **前提二：社会情境是问题性的而非自然的** 教育现象不是自然发生的，而是特定利益和权力被保护和压制的产物或过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, p. 63)]]
 > - **机制：[[Ideology Critique|意识形态批判]]** 通过揭示虚假意识和破碎意识（false/fragmented consciousness），暴露服务于特定群体利益而压制其他群体的意识形态运作，使被压迫者认识到自身处境的社会根源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 29, 63)]]
 > - **结果判断：解放与社会民主** 研究的最终目的是使个人和群体从压迫中解放，走向平等主义的民主社会。变革是批判理论的实践核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 27–28)]]
@@ -94,7 +95,7 @@ updated: 2026-06-16
 
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
 > - **[[Ontology|本体论]]**：社会实在是权力斗争的产物，由政治和意识形态力量塑造而非自然存在。多重实在并存，但某些实在被权力结构特权化、其他被压制。
-> - **认识论**：知识不可能是价值中立的。研究者和被研究者都是政治主体。"客观性"的主张本身是一种维护现状的意识形态姿态。
+> - **认识论**：知识不可能是[[Value Neutrality in Research|价值中立]]的。研究者和被研究者都是政治主体。"客观性"的主张本身是一种维护现状的意识形态姿态。
 > - **方法含义**：主张[[Ideology Critique|意识形态批判]]和行动研究作为核心方法，强调参与、赋权和变革，而非仅仅观察和描述。
 > - **不能直接推出的东西**：不能从批判理论直接推出任何特定群体必然处于"虚假意识"中；意识形态批判与解放之间的[[Causality|因果关系]]是经验的而非逻辑的问题。
 
@@ -105,7 +106,7 @@ updated: 2026-06-16
 > [!theory-use] 如何用于研究
 > - **作为理论框架**：以哈贝马斯三种认识兴趣为分析维度，追问教育政策、课程或制度服务于哪一种兴趣——是寻求控制（技术兴趣）、寻求理解（实践兴趣），还是寻求解放（解放兴趣）。
 > - **作为分析工具**：追问"谁的知识""服务于谁的利益""谁从现状中受益"——将课程文本、政策文件、学校制度视为意识形态文本进行解读。
-> - **作为批判视角**：揭示"价值中立"研究背后的政治预设，暴露研究资助和制度安排中隐藏的权力关系。
+> - **作为批判视角**：揭示"[[Value Neutrality in Research|价值中立]]"研究背后的政治预设，暴露研究资助和制度安排中隐藏的权力关系。
 > - **报告方式**：研究者应公开声明自身的价值立场和政治意图，承认研究的非中立性。
 
 > [!logic-map]- 分析流程图

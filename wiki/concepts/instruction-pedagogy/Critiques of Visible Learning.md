@@ -29,6 +29,7 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
+  - "[[Blue Skies Research]]"
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
   - "[[School Leadership]]"
@@ -85,8 +87,6 @@ related_methods:
   - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"
-  - "[[Steven Stahl]]"
-  - "[[William Jeynes]]"
   - "[[Gene Glass]]"
   - "[[Karl Popper]]"
   - "[[Jürgen Habermas]]"
@@ -221,9 +221,9 @@ Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡�
 Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，在 VL 中占 **5 段文字、1.5 页**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 143]])。Hattie 报告的效应量 $d=0.06$ 是通过对四项元分析效应量进行简单算术平均得出：$(0.09+0.15+0.65+(-0.65))/4=0.06$([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 145]])。
 
 > [!critique] 四项具体问题
-> - **分类错误**：四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。[[Steven Stahl|Stahl]], McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 144–145]]）。
+> - **分类错误**：四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl, McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 144–145]]）。
 >
-> - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 $d=-0.65$ 是 VL 800+ 元分析中的极端异常值（仅两项低于 $-0.5$）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 [[William Jeynes|Jeynes]] 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 147–148]]）。
+> - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 $d=-0.65$ 是 VL 800+ 元分析中的极端异常值（仅两项低于 $-0.5$）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 Jeynes 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 147–148]]）。
 >
 >   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性次级文献的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 146–147]]）。
 >
@@ -261,7 +261,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 #### 二级元分析的六项慢性问题（Myburgh 等）
 
 > [!finding-cards] Golovchin, 2019, p. 237
-> - **垃圾进垃圾出** 基础研究设计差、质量低，综合后缺陷被放大
+> - **垃圾进垃圾出** [[Blue Skies Research|基础研究]]设计差、质量低，综合后缺陷被放大
 > - **[[Publication Bias|发表偏倚]]** 正面结果优先发表，效应量系统性高估
 > - **苹果与橘子比较** 异质研究不加区分地合并平均
 > - **效应量误用** *d* 的计算与解释存在系统性错误
@@ -867,7 +867,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > [!tension] 批评三：教师可见学习 ≠ 学生有意识／无意识学习
 > Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]])。
 
-> [!critique-logic] 批评四：学习不是价值中立——Bildung 要求更多
+> [!critique-logic] 批评四：学习不是[[Value Neutrality in Research|价值中立]]——Bildung 要求更多
 > Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：
 >
 >> [!timeline] "学习"在丹麦语境中的语义演变（[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8–9]]）

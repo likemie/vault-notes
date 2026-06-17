@@ -37,6 +37,8 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Steven Stahl]]"
+  - "[[William Jeynes]]"
   - "[[Gene Glass]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
@@ -140,12 +142,12 @@ citation_aliases:
 > [!claim] 步骤一主张
 > 哈蒂在计算全语言效应量时，直接引入了将全语言与早期“[[Language Experience Approach|语言经验法]]”（LEA）混为一谈的元分析，导致底层数据存在严重的分类错误与时代错误 (p.144)。
 
-> [!critique-method] 斯塔尔与米勒的分类混淆 (Stahl & Miller, 1989)
-> 史蒂芬·斯塔尔（Steven Stahl）与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。斯塔尔本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的文献 (p.145)。但哈蒂在 15 年后出版《[[Visible Learning|可见学习]]》时，依然对此分类漏洞未加任何纠正与说明 (p.145)。
+> [!critique-method] [[Steven Stahl|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
+> [[Steven Stahl|史蒂芬·斯塔尔（Steven Stahl）]]与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的文献 (p.145)。但哈蒂在 15 年后出版《[[Visible Learning|可见学习]]》时，依然对此分类漏洞未加任何纠正与说明 (p.145)。
 
 > [!case] Case 1: Brazziel & Terrell (1962) 行为主义“假全语言”研究
 > 该研究仅针对田纳西州 26 名低收入非裔一年级学生，其实验干预是为期 6 周的“家长-教师合作”，并让儿童阅读传统的“阅读准备教材” (readiness readers) 以训练感知、词汇和服从指令 (p.144)。
-> W. F. 布拉齐尔（W. F. Brazziel）与 M. 泰瑞尔（M. Terrell, 1962）仅仅因为教师在活动中制作了反映儿童日常口头分享的“经验图表” (experience charts)，就被斯塔尔与米勒归入全语言。这与古德曼倡导的以儿童为主体、反对机械切片的全语言哲学完全背道而驰 (p.144)。
+> W. F. 布拉齐尔（W. F. Brazziel）与 M. 泰瑞尔（M. Terrell, 1962）仅仅因为教师在活动中制作了反映儿童日常口头分享的“经验图表” (experience charts)，就被[[Steven Stahl|斯塔尔]]与米勒归入全语言。这与古德曼倡导的以儿童为主体、反对机械切片的全语言哲学完全背道而驰 (p.144)。
 
 > [!warrant]- 推理桥梁
 > 将非全语言的行为主义早期干预数据强行塞入“全语言”的效应量统计，使得最终合成的低效应量（d = 0.06）沦为“垃圾输入，垃圾输出”（Garbage In, Garbage Out）的统计数字，哈蒂直接套用该数据，使其科学合法性从源头受损。
@@ -158,7 +160,7 @@ citation_aliases:
 > 哈蒂在面对报告全语言产生极度负面效应（d = -0.65）的元分析时，完全放弃了方法论审查与学术警惕，选择性忽略了其中的计算错误以及作者强烈的右翼宗教政治偏见 (p.145)。
 
 > [!critique-data] 极端负面离群值与克拉申的数据重算 (Jeynes & Littell, 2000)
-> 威廉·杰恩斯（William H. Jeynes）与萨拉·利特尔（Sara W. Littell, 2000）报告低社会经济地位（Socioeconomic Status, SES）学生的纯全语言干预效果为 d = -0.65，是整个《可见学习》中最极端的负值之一，意味着全语言教学会导致学生严重的“倒退”（unlearning）(p.145)。
+> [[William Jeynes|威廉·杰恩斯（William H. Jeynes）]]与萨拉·利特尔（Sara W. Littell, 2000）报告低社会经济地位（Socioeconomic Status, SES）学生的纯全语言干预效果为 d = -0.65，是整个《可见学习》中最极端的负值之一，意味着全语言教学会导致学生严重的“倒退”（unlearning）(p.145)。
 > 斯蒂芬·克拉申（Stephen Krashen, 2002）对其原始研究重算后发现多处方向反转的计算错误：
 > - D. 卡林（D. Carline）与 J. 霍夫曼（J. Hoffman, 1976）从 **-0.23** 应修正为 **+0.68**；
 > - P. 兰姆（P. Lamb, 1972）从 **-0.75** 应修正为 **+0.44**；
@@ -171,7 +173,7 @@ citation_aliases:
 > 其中的卡林·达尔（Karin Dahl）与彭妮·弗雷蓬（Penny Freppon, 1994）追踪了低收入内城区学校两年，发现全语言班学生在自主读写意愿、自我认知和学习坚持性 (disposition for learning) 上显著优于以练习册为主的技能本位班。[[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell）承认这说明清晰实施全语言能改善学生表现，但哈蒂在《可见学习》中却只字未提这一积极侧面 (p.147)。
 
 > [!warning] 第一作者威廉·杰恩斯的宗教与右翼政治镜头
-> 第一作者 威廉·杰恩斯（William H. Jeynes） 是一位福音派传教士，与美国共和党保守派关系密切（曾位列特朗普教育部长候选名单），他公开表示其进入学术界是为了在公立学校施加基督教影响力 (p.147)。
+> 第一作者 [[William Jeynes|威廉·杰恩斯（William H. Jeynes）]] 是一位福音派传教士，与美国共和党保守派关系密切（曾位列特朗普教育部长候选名单），他公开表示其进入学术界是为了在公立学校施加基督教影响力 (p.147)。
 > 1990 年代反全语言运动正是由美国宗教右翼发起并促成了强制拼读的政策。哈蒂对如此明显的作者潜在偏见（研究者“透镜”）采取了完全忽视的态度 (p.147)。
 
 > [!warrant]- 推理桥梁

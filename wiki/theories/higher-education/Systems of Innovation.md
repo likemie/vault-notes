@@ -15,6 +15,7 @@ tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
@@ -45,7 +46,7 @@ updated: 2026-05-27
 ## 核心主张
 
 > [!tip]
-> 创新[[Luhmann's Systems Theory|系统理论]]（Systems of Innovation）的核心主张是：创新不是一个从基础研究到商业产品的线性过程，而是多个行动者（大学、企业、政府实验室、投资者等）在特定制度环境（法律框架、金融系统、文化规范等）下，通过市场和非市场互动进行知识交换和集体学习的系统活动（Lundvall et al., 2002; Edquist, 1997）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.29–31]])。
+> 创新[[Luhmann's Systems Theory|系统理论]]（Systems of Innovation）的核心主张是：创新不是一个从[[Blue Skies Research|基础研究]]到商业产品的线性过程，而是多个行动者（大学、企业、政府实验室、投资者等）在特定制度环境（法律框架、金融系统、文化规范等）下，通过市场和非市场互动进行知识交换和集体学习的系统活动（Lundvall et al., 2002; Edquist, 1997）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.29–31]])。
 
 > 这一[[Theoretical Perspective|理论视角]]的独特之处在于：它将分析单位从"单个创新者"或"单个组织"提升到"系统"层面——创新绩效不仅取决于系统中各行动者的能力，还取决于它们之间的链接质量、知识流动效率以及制度"游戏规则"的适配性。
 
@@ -72,7 +73,7 @@ updated: 2026-05-27
 > 该范式建立在 Arrow（1962）和 Solow（1957）等经济学家的理论之上，核心逻辑简洁有力：基础科学发现 → 技术开发 → 市场创新 → 经济增长。政府的角色是资助[[Knowledge Production|知识生产]]以弥补市场失灵——因为知识具有公共品属性，私人部门会对其投资不足。
 
 这一时期的具体政策工具包括([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–29]])：
-- 大规模资助大学基础研究（美国 [[National Science Foundation|NSF]] 和国防部）
+- 大规模资助大学[[Blue Skies Research|基础研究]]（美国 [[National Science Foundation|NSF]] 和国防部）
 - 强化知识产权以促进[[Technology Transfer|技术转移]]（如 1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）
 - 研发税收抵免和公共采购激励私人研发
 - 发展风险投资市场

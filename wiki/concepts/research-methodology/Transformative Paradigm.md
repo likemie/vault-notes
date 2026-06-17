@@ -27,6 +27,7 @@ related_concepts:
   - "[[Queer Theory]]"
   - "[[Constructivist Paradigm]]"
   - "[[Positivism]]"
+  - "[[Value Neutrality in Research]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -65,5 +66,5 @@ updated: 2026-05-30
 
 > [!example]
 > - vs [[Constructivist Paradigm]] — 建构主义专注于理解和解释参与者的意义，变革主义认为仅理解是不够的，还必须推动社会变革和赋权。
-> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]追求客观性和价值中立，变革主义明确将政治立场和价值承诺置于研究的核心位置。
+> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]追求客观性和[[Value Neutrality in Research|价值中立]]，变革主义明确将政治立场和价值承诺置于研究的核心位置。
 

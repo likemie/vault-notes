@@ -16,6 +16,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Research Question]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -69,7 +70,7 @@ updated: 2026-05-30
 > [!warning]
 > - 量化研究的预设和封闭式结构可能限制对新现象的发现。
 > - 对情境和参与者意义的深层理解不如[[Qualitative Research|质性研究]]。
-> - 研究者的个人偏见虽被程序性控制，但完全的价值中立难以实现。
+> - 研究者的个人偏见虽被程序性控制，但完全的[[Value Neutrality in Research|价值中立]]难以实现。
 
 ## 方法变体与相近方法
 

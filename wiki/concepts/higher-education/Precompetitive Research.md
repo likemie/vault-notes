@@ -12,6 +12,7 @@ tags: ["theme/university-industry-collaboration", "theme/research-commercializat
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
+  - "[[Blue Skies Research]]"
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
   - "[[Public-Private Partnership in Research]]"
@@ -45,7 +46,7 @@ updated: 2026-05-28
 > [!example]
 > - vs 竞争型研究（competitive research） — 竞争型研究的产出接近商业化，IP 保护具有战略价值，需要明确的商业使用条款。前竞争研究离商业化尚有距离，IP 的商业价值有限，过度谈判 IP 条款的代价（时间和信任损耗）超过收益。
 > - vs [[Translational Research]]（转化研究） — 转化研究是从实验室发现到可商业化产品之间的桥梁环节。前竞争研究侧重于研究阶段的性质判断（离商业化有多远），转化研究侧重于从研究到产品的过渡能力和过程。前竞争研究的产出可能需要经过转化研究才能进入竞争型阶段。
-> - vs 基础研究（basic research） — 基础研究追求根本性的理论理解而不考虑应用。前竞争研究可以是应用导向的，只是其产出尚未达到可商业化的成熟度。
+> - vs [[Blue Skies Research|基础研究]]（basic research） — 基础研究追求根本性的理论理解而不考虑应用。前竞争研究可以是应用导向的，只是其产出尚未达到可商业化的成熟度。
 
 ---
 

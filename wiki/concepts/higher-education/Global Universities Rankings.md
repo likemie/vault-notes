@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Blue Skies Research]]"
   - "[[Knowledge Production]]"
   - "[[Competitiveness]]"
   - "[[Promising Student]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Value Neutrality in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -124,7 +126,7 @@ updated: 2026-05-20
 ## 作为地缘政治机制
 
 > [!success]
-> 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量基础研究和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]])。
+> 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]])。
 
 排名通过以下机制运作于高等教育地缘政治之中([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–138]])：
 
@@ -206,7 +208,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 对质量的狭隘定义
 
-所有排名都声称按"质量"排序——"最好的大学""前 100 大学""前 500 大学"——但没有一个排名体系给出了高等教育质量的定义，也不存在关于这一概念的共同理解和测量方法的国际共识([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]])。Hazelkorn（2015, p.xvi）指出："大量数据被收集，有很多指标，但没有国际公认的定义或方法论，没有客观或价值中立的指标组合，也没有共同的国际数据集"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.135–136]])。
+所有排名都声称按"质量"排序——"最好的大学""前 100 大学""前 500 大学"——但没有一个排名体系给出了高等教育质量的定义，也不存在关于这一概念的共同理解和测量方法的国际共识([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]])。Hazelkorn（2015, p.xvi）指出："大量数据被收集，有很多指标，但没有国际公认的定义或方法论，没有客观或[[Value Neutrality in Research|价值中立]]的指标组合，也没有共同的国际数据集"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.135–136]])。
 
 ### 对社会公共利益的忽视
 

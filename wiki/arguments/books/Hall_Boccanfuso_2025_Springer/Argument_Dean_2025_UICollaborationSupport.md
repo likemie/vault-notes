@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Research Problem]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Blue Skies Research]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
 related_methods: []
@@ -251,7 +252,7 @@ citation_aliases:
 3. **加速**（Acceleration）——在新环境中扩展和评估创新
 4. **动员**（Mobilization）——分享知识以惠及各地老年人
 
-四个阶段在同一物理空间（共同选址）中同时发生，这正是 RIA 区别于传统研究机构的根本特征。图解见 [[RIA Model for Innovation|RIA 创新模型]] 条目。传统大学研究通常止步于第一阶段（知识生成），将后续阶段交给其他组织。RIA 将四个阶段全部内置在同一组织中，通过共同选址和嵌入式知识动员网络实现了从基础研究到终端影响的完整链条(p.254)。
+四个阶段在同一物理空间（共同选址）中同时发生，这正是 RIA 区别于传统研究机构的根本特征。图解见 [[RIA Model for Innovation|RIA 创新模型]] 条目。传统大学研究通常止步于第一阶段（知识生成），将后续阶段交给其他组织。RIA 将四个阶段全部内置在同一组织中，通过共同选址和嵌入式知识动员网络实现了从[[Blue Skies Research|基础研究]]到终端影响的完整链条(p.254)。
 
 ---
 

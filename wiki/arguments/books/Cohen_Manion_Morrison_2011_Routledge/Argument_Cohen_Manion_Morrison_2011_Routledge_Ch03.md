@@ -26,11 +26,13 @@ related_concepts:
   - "[[Construct]]"
   - "[[Null Hypothesis]]"
   - "[[Variable]]"
+  - "[[Value Neutrality in Research]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Nomothetic and Idiographic]]"
   - "[[Knowledge Production]]"
   - "[[Research Topic]]"
+  - "[[Blue Skies Research]]"
   - "[[Conformative Evaluation]]"
   - "[[Theoretical Perspective]]"
   - "[[Conflict of Interest in Research]]"
@@ -154,7 +156,7 @@ Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作
 > |------|------|------|
 > | **意图与目的** | 推进知识前沿，贡献理论，追求概括性 | 较少关心理论贡献或普遍知识体。评估比研究更偏狭（parochial）而非普遍（universal）（pp.33–34） |
 > | **调查范围** | 范围较集中、聚焦 | 更全面（comprehensive），涵盖项目更多方面的数量和种类（p.34） |
-> | **价值立场** | 追求价值中立（value neutrality） | 必须呈现**多重价值立场**并包含关于这些价值的数据 |
+> | **价值立场** | 追求[[Value Neutrality in Research\|价值中立]]（value neutrality） | 必须呈现**多重价值立场**并包含关于这些价值的数据 |
 > | **调查起源** | 源于研究者的好奇心和求知欲（p.34）；研究者向同行和科学界问责；研究者自主 | 源于委托方（client）；评估者向委托方和利益相关者问责；评估者受委托驱动，动机是解决问题、分配资源和做出决策。研究是公开的，评估面向受限受众 |
 > | **调查用途** | 用于推进知识 | 用于为决策提供信息 |
 > | **时间性** | 不必受时间限制 | 必须及时（timely），时间表由委托方给定 |
@@ -263,7 +265,7 @@ Norris（1990: 99）指出，将研究视为不受日常政治污染的纯净活
 > [!claim] [[Categorical Funding|分类资助]]的结构性影响
 > 过去二十余年，分类资助项目大幅增长，即由政府或研究赞助方以各种名目预先设定好[[Research Topic|研究主题]]、范围和边界，研究者通过竞标承接。这看似是研究资助的正常运作，但其结构性后果深远：
 > - **政府机构**的资助有明确的政策导向——研究被期望"指导政策决策、改善政策制定者关注的领域质量、促进政策实施、评估政策执行效果"。
-> - **非政府组织**（如英国经济与社会研究理事会（Economic and Social Research Council，ESRC））也出现向政策导向项目的倾斜，远离"蓝天研究"（blue skies research）。
+> - **非政府组织**（如英国经济与社会研究理事会（Economic and Social Research Council，ESRC））也出现向政策导向项目的倾斜，远离[[Blue Skies Research|蓝天研究]]（blue skies research）。
 > - **结果**：研究议程从"研究者指定[[Research Topic|研究主题]]"转向"赞助方指定研究焦点"（Burgess, 1993）（pp.36–37）。
 
 Burgess（1993: 1）概括了这一趋势的极端表达：
@@ -301,7 +303,7 @@ James（1993: 135）对评估证据政治命运的冷峻判断：
 > | 2 | **忽视长期结果** | 忽略对更长期学习结果或项目预期经济或社会后果的评估 |
 > | 3 | **过度倚重项目参与者感知** | 过度重视负责项目成功开发与实施者的看法，倾向于过度报告（over-report）变化 |
 > | 4 | **忽视课堂实践者和项目批评者** | 系统性低报（under-reporting）一线教师和批评者的观点 |
-> | 5 | **无[[Theoretical Perspective\|理论取向]]**（atheoretical approach） | 采用非理论化的方法，将意见的聚合等同于整体显著性的确定，不追问不同意见的权重和意见聚合与证据质量的关系 |
+> | 5 | **非理论化**（atheoretical approach） | 采用非理论化的方法，将意见的聚合等同于整体显著性的确定，不追问不同意见的权重和意见聚合与证据质量的关系 |
 > | 6 | **紧密的合同关系** | 与项目赞助方建立禁止公开发表或鼓励自我审查的合同关系，以保护未来资助前景 |
 > | 7 | **隐性的项目辩护**（implicit advocacy） | 在报告风格中以各种形式为项目进行隐性倡导，包括语言选择、框架设定、强调或淡化特定发现的模式 |
 > | 8 | **职业精神分裂**（professional schizophrenia） | 研究者和评估者形成分裂的公开与私下意见，在合同评估活动中顺应项目叙事，在学术写作或私下交流中进行批判，个体在批判自我和顺应自我之间交替 |

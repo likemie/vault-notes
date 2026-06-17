@@ -18,6 +18,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
   - "[[Corporate R&D Labs]]"
+  - "[[Blue Skies Research]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
   - "[[Third Mission (Universities)]]"
@@ -91,7 +92,7 @@ updated: 2026-06-10
 
 ### 二战后：政府主导的三重螺旋（1940s–1970s）
 
-二战经验——曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）、MIT 辐射实验室的雷达研究——戏剧性地展示了三方协作的巨大潜力。战后，Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）将基础研究确立为国家战略优先事项，催生了 [[National Science Foundation|NSF]] 和国防部对大学的大规模研究资助([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–29]])。
+二战经验——曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）、MIT 辐射实验室的雷达研究——戏剧性地展示了三方协作的巨大潜力。战后，Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）将[[Blue Skies Research|基础研究]]确立为国家战略优先事项，催生了 [[National Science Foundation|NSF]] 和国防部对大学的大规模研究资助([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–29]])。
 
 然而这一时期的三重螺旋存在一个悖论：政府资金大幅扩张了大学研究能力，但大学与产业的具体需求反而**脱钩**（decoupled）——大学更聚焦于教师主导的基础研究和人才培养，对与产业密切合作日益怀疑甚至撤退（Arora et al., 2020; Youtie & Shapira, 2008）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.38]])。
 

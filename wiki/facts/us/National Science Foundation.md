@@ -16,6 +16,7 @@ tags:
   - theme/innovation
   - policy/economic-development
 related_concepts:
+  - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Convergence Research]]"
   - "[[Innovation Hub]]"
@@ -46,7 +47,7 @@ updated: 2026-06-05
 ## 背景
 
 > [!info]
-> 美国国家科学基金会（National Science Foundation, NSF）是 1950 年根据 Vannevar Bush 报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）的建议创建的美国独立联邦机构（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.13]]）。该报告强调基础研究和开放式研究对美国国家战略的重要性，NSF 由此成为联邦政府资助大学基础研究的核心渠道。NSF 的资助机制深刻塑造了二战后美国大学的研究体系，也是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等后续[[University-Industry Collaboration|产学合作]]政策运作的制度基础（p.13）。
+> 美国国家科学基金会（National Science Foundation, NSF）是 1950 年根据 Vannevar Bush 报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）的建议创建的美国独立联邦机构（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.13]]）。该报告强调[[Blue Skies Research|基础研究]]和开放式研究对美国国家战略的重要性，NSF 由此成为联邦政府资助大学基础研究的核心渠道。NSF 的资助机制深刻塑造了二战后美国大学的研究体系，也是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等后续[[University-Industry Collaboration|产学合作]]政策运作的制度基础（p.13）。
 
 ## 在产学合作中的角色
 
@@ -56,7 +57,7 @@ updated: 2026-06-05
 
 
 > [!abstract]
-> NSF 与大学基础研究的关系构成了[[University-Industry Collaboration|产学合作]]的底层资助基础设施。大学研究者依赖 NSF 资助进行基础研究，产生可商业化的发现后，再通过产业伙伴或许可协议进行转化。从 [[Triple Helix]] 的视角来看，NSF 是"政府"螺旋中推动大学-产业互动的关键杠杆（p.13）。
+> NSF 与大学[[Blue Skies Research|基础研究]]的关系构成了[[University-Industry Collaboration|产学合作]]的底层资助基础设施。大学研究者依赖 NSF 资助进行基础研究，产生可商业化的发现后，再通过产业伙伴或许可协议进行转化。从 [[Triple Helix]] 的视角来看，NSF 是"政府"螺旋中推动大学-产业互动的关键杠杆（p.13）。
 
 近年来，NSF 的角色从纯基础研究资助扩展到创新和商业化领域。NSF 与美国经济发展署（Economic Development Agency, EDA）共同承担推动区域[[Innovation Hub|创新枢纽]]的联邦使命，两者的资助对象超越单一锚定机构（anchor institution），要求涵盖多所大学和更广泛的地理区域([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.134–135]])。
 
@@ -88,7 +89,7 @@ updated: 2026-06-05
 ## 国家AI研究院建设
 
 > [!example]
-> NSF联合农业部、教育部等多个部门，围绕10余个重点研究方向设立了25所国家人工智能研究院。这些研究院由世界一流大学和领先科技企业共同组成，通过整合研发链上的各类创新主体，有效缩短了从基础研究到产业应用的距离，显著提升了技术迭代速度和成果转化效率。
+> NSF联合农业部、教育部等多个部门，围绕10余个重点研究方向设立了25所国家人工智能研究院。这些研究院由世界一流大学和领先科技企业共同组成，通过整合研发链上的各类创新主体，有效缩短了从[[Blue Skies Research|基础研究]]到产业应用的距离，显著提升了技术迭代速度和成果转化效率。
 
 > [!example]- 大规模学习优化AI研究院案例
 > 该机构采用"产学研用"协同创新模式：由加利福尼亚大学圣迭戈分校主导，联合麻省理工学院、耶鲁大学等学术机构组成核心研发团队；与英伟达、楷登电子、三星奥斯汀研发中心等企业在软件研发、系统设计和制造环节深度合作；同时引入斯威特沃特联合高中学区等应用场景提供方。这种创新模式有力促进了人工智能优化技术与芯片设计、机器人等领域的交叉融合（Cheng_2026_KeJiChuangXin）。
