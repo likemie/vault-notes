@@ -158,7 +158,7 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 > | **评判标准** | 方法论标准和对领域的贡献（[[Internal Validity\|内部效度]]与[[External Validity\|外部效度]]） | 效用（utility）和可信度（credibility） |
 > | **议程设定** | 研究者自定议程 | 评估者议程由委托方给定 |
 >
-> 维度英文：Intents and Purposes / Scope / Values / Origins / Uses / Timeliness / Criteria for Judging / Agendas。核心概念参见：价值中立、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
+> 核心概念参见：价值中立、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
 
 > [!logic-map] 这8个差异构成从内在动机到外部约束的连续体
 > ```mermaid
@@ -190,7 +190,7 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 > | **评价活动的标准** | 内部效度与外部效度 | 效用（utility）与可信度（credibility） |
 > | **学科基础** | 研究者可限于单一学科 | 评估者不能限于单一学科——因为评估问题通常跨越多个学科边界 |
 >
-> 维度英文：Motivation of the Enquirer / Objectives of the Search / Laws vs Description / Role of Explanation / Autonomy of the Enquiry / Properties of Phenomena Assessed / Universality of Phenomena / Salience of the Value Question / Investigative Techniques / Criteria for Assessing the Activity / Disciplinary Base。核心概念参见：nomothetic / idiographic、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
+> 核心概念参见：nomothetic / idiographic、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
 > Smith 和 Glass（1987）的8点与 Glass 和 Worthen（引自 Norris, 1990）的11点之间存在大量重叠（如动机、目标、自主性、普遍性、评判标准），但也有各自的独特贡献。8点框架增加了**调查范围**（scope）维度——评估通常比研究更全面地覆盖项目的多个方面。11点框架则增加了两个独特维度：**解释的角色**（评估可以不提供解释而进行有效评估）和**学科基础**（评估者必须跨学科）——这两个维度指向评估的本质特征：它以**判断和决策**为终点，不以**理论解释**为必要环节。
 
 ---
@@ -212,6 +212,8 @@ Morrison（1993: 2）由此给出评估的简洁定义：
 > [!quote] MacDonald 论评估者的政治处境
 > 评估者面对相互竞争的利益群体、分歧的情境界定和冲突的信息需求……他必须决定服务于哪些决策者、哪些信息最有价值、何时需要以及如何获取……这些议题的解决使评估者承诺于一种政治立场，一种对教育治理的态度。研究者则无需做出此类承诺。他站在政治过程之外，珍视其超脱。对他而言，新知识的生产与其社会使用是分离的。评估者则卷入行动之中，嵌入一个关乎权力分配的政治过程——即资源的配置与目标、角色和任务的确定……当评估数据影响权力关系时，评估者被迫仔细权衡其任务说明的后果……研究者可以自由选择问题和寻求答案。评估者则绝不可犯这样的错误：回答没有人——除了他自己——在问的问题。
 >
+> The evaluator is faced with competing interest groups, with divergent definitions of the situation and conflicting informational needs. ... He has to decide which decision makers he will serve, what information will be of most use, when it is needed and how it can be obtained. ... The resolution of these issues commits the evaluator to a political stance, an attitude to the government of education. No such commitment is required of the researcher. He stands outside the political process, and values his detachment from it. For him the production of new knowledge and its social use are separated. The evaluator is embroiled in the action, built into a political process which concerns the distribution of power, i.e. the allocation of resources and the determination of goals, roles and tasks. ... When evaluation data influences power relationships the evaluator is compelled to weight carefully the consequences of his task specification. ... The researcher is free to select his questions, and to seek answers to them. The evaluator, on the other hand, must never fall into the error of answering questions which no one but he is asking.
+>
 > (MacDonald, 1987: 42)
 
 > [!taxonomy] MacDonald（1987）的评估政治类型学
@@ -224,6 +226,8 @@ MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 
 > [!quote] MacDonald 论"倒转"研究-评估关系
 > 将评估概念化为研究的分支是危险的——评估者会陷入研究体面的束缚性触角中。纯粹可能替代效用，琐碎证明可能替代对复杂意义的笨拙把握。将研究定义为评估的一个分支——其任务是解决评估者遇到的技术问题——将会多么更有成效。
+>
+> The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.
 >
 > (MacDonald, 1987: 43)
 

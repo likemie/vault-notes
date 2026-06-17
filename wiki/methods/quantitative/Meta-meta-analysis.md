@@ -49,6 +49,7 @@ related_methods:
   - "[[Comparative Meta-synthesis]]"
   - "[[Intervention Research]]"
 related_persons:
+  - "[[William Jeynes]]"
   - "[[Gene Glass]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
@@ -62,7 +63,7 @@ related_arguments:
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_Snook_2009]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -341,7 +342,7 @@ updated: '2026-05-21'
 >
 > Krashen 的结论与 Jeynes & Littell "几乎完全相反"。该批评发表于 2002 年，比《可见的学习》早 7 年，Hattie 未提及。
 >
-> *作者背景*：William H. Jeynes 是福音派牧师、God's Love Ministries 创始人，与共和党关系密切，曾进入 Trump 教育部长候选名单。Jeynes 的 −0.65 不仅是一个统计异常值——它嵌入了特定的政治议程([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147–148]])。
+> *作者背景*：[[William Jeynes|William H. Jeynes]] 是福音派牧师、God's Love Ministries 创始人，与共和党关系密切，曾进入 Trump 教育部长候选名单。Jeynes 的 −0.65 不仅是一个统计异常值——它嵌入了特定的政治议程([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147–148]])。
 >
 > **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee（1995）报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
 >
