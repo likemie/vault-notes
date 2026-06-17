@@ -194,9 +194,10 @@ URL_RE = re.compile(r"https?://[^\s)>\]]+")
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.IGNORECASE)
 
 # Schema-constrained APA short citations used for links to Argument pages.
-CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
-CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&-]+\s*\((?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
-RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|[A-Z][A-Za-z0-9 .&-]+\s*\((?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\))")
+CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
+CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]$")
+RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|（[A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?）|[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)])")
+ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])")
 
 EMBED_FILE_EXISTS_CACHE: Dict[str, bool] = {}
 
@@ -1422,7 +1423,16 @@ def expected_citation_prefix(short: str) -> str:
 
 def normalize_citation_alias_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
-    return re.sub(r"\s+(?:&|and)\s+", " & ", text)
+    text = re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*&\s*(?=[A-ZÀ-ÖØ-Þ])", " & ", text)
+    return ENGLISH_AUTHOR_AND_RE.sub(" & ", text)
+
+
+def has_english_author_and(text: str) -> bool:
+    return bool(ENGLISH_AUTHOR_AND_RE.search(text))
+
+
+def fix_english_author_and(text: str) -> str:
+    return ENGLISH_AUTHOR_AND_RE.sub(" & ", text)
 
 
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
@@ -1470,6 +1480,8 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             continue
         display = raw.split("|", 1)[1].strip() if "|" in raw else ""
         if display and citation_display_text(display):
+            if has_english_author_and(display):
+                issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {display!r} -> {fix_english_author_and(display)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
             aliases = argument_citations[target]["aliases"]
             if not citation_display_matches_aliases(display, aliases):
                 issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_aliases {aliases!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
@@ -1481,6 +1493,8 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         # Avoid matching page-only references and obvious template/examples.
         if not citation_display_text(txt):
             continue
+        if has_english_author_and(txt):
+            issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
         issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument: {txt}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_UNLINKED"))
 
 
@@ -1565,7 +1579,7 @@ def main() -> int:
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
     args = parser.parse_args()
 
-    paths = [Path(p) for p in args.path]
+    paths = [(ROOT / p).resolve() if not Path(p).is_absolute() else Path(p).resolve() for p in args.path]
     issues = lint_vault(paths, strict=args.strict, full=args.full)
 
     errors = [i for i in issues if i.severity == "ERROR"]

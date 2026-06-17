@@ -30,7 +30,7 @@ HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
 OBSIDIAN_COMMENT_RE = re.compile(r"%%.*?%%", re.S)
 CODE_FENCE_RE = re.compile(r"```.*?```", re.S)
 
-AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]*(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
+AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]*(?:\s+(?:&|and|和)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
 LOCATOR_PATTERN = r"(?:\s*[,，]\s*(?:(?:p|pp|ch|chap)\.?\s*|chapter\s+)[^,，;）)]+|\s*:\s*[^,，;）)]+)"
 PAREN_GROUP_RE = re.compile(r"(?<!\[)\(([^()\n]*\b\d{4}[a-z]?[^()\n]*)\)")
 FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（([^（）\n]*\b\d{4}[a-z]?[^（）\n]*)）")
@@ -147,7 +147,7 @@ def load_lookup() -> dict[str, dict[str, Any]]:
 
 def normalize_citation_alias(alias: str) -> str:
     alias = re.sub(r"\s+", " ", alias).strip()
-    return re.sub(r"\s+(?:&|and)\s+", " & ", alias)
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:&|and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", " & ", alias)
 
 
 def normalize_author(author: str) -> str:
@@ -155,7 +155,8 @@ def normalize_author(author: str) -> str:
 
 
 def normalize_display_author(author: str) -> str:
-    return re.sub(r"\s+", " ", author).strip()
+    author = re.sub(r"\s+", " ", author).strip()
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", " & ", author)
 
 
 def normalize_locator(locator: str) -> str:

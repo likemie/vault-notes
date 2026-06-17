@@ -63,7 +63,7 @@ updated: 2026-06-16
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**：所谓客观、价值中立的研究只是维护现有压迫现状的烟幕。研究者的个人经验是研究过程不可分割的组成部分，客观性声称是虚假的（Ezzy, 2002: 153）。
 > - **研究者角色**：研究者与参与者建立平等、互惠的关系——"与她们在一起并支持她们，而非观察她们"（De Laine, 2000: 16）。打破传统的研究者/参与者等级。
-> - **有效性标准**：是否赋权了女性参与者、是否挑战了压迫性知识结构、是否推动了实际变革（Lather 的"结果效度" consequential validity）。
+> - **有效性标准**：是否赋权了女性参与者、是否挑战了压迫性知识结构、是否推动了实际变革（Lather 的"[[Consequential Validity|结果效度]]" consequential validity）。
 > - **不声称回答的问题**：不声称任何单一研究方法可以代表所有女性的经验；不声称研究者可以"为"她不属于的群体代言。
 
 > [!method-stack] 方法层级
@@ -120,7 +120,7 @@ updated: 2026-06-16
 > - **资料类型**：个人证词、口述叙事、长访谈、引导式对话、自传体材料、敏感议题的[[Qualitative Interview|深度访谈]]。
 > - **资料质量**：女性主义研究质疑传统"rapport"（融洽关系）的概念——标准化的非互惠访谈关系利用了被访者（Oakley, 1981）。[[Informed Consent|知情同意]]需在探索性访谈中持续重新协商（Duncombe and Jessop, 2002）。
 > - **分析策略**：[[Ideology Critique|意识形态批判]]——揭示性别权力关系；文本解构——分析关于女性的文本中的权力运作；意识提升——将个人经验政治化。
-> - **质量控制**：关注研究对参与者的政治后果（结果效度）；警惕"假装友谊"以获取数据的不诚实做法（Duncombe and Jessop, 2002: 108）。
+> - **质量控制**：关注研究对参与者的政治后果（[[Consequential Validity|结果效度]]）；警惕"假装友谊"以获取数据的不诚实做法（Duncombe and Jessop, 2002: 108）。
 > - **输出形式**：女性经验的[[Rich and Thick Description|厚描述]]、性别权力分析、赋权行动方案、女性主义批判性政策分析。
 
 ---
@@ -154,11 +154,11 @@ updated: 2026-06-16
 > |---|---|---|
 > | [[Ideology Critique]] | 理论基础 | 女性主义研究将意识形态批判聚焦于性别权力和父权制知识生产。 |
 > | [[Participatory Research]] | 亲缘方法 | 两者都强调赋权和平等参与；PR 更聚焦社区发展，女性主义研究更聚焦性别压迫。 |
-> | 行动研究 | 实践工具 | 女性主义行动研究（如 GIST 项目）将性别意识融入行动和研究的整合中。 |
+> | 行动研究 | 实践工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 GIST 项目案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 [[Girls Into Science and Technology Project|GIST]] 项目案例。

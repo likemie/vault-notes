@@ -88,7 +88,7 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
-> | [[Teacher Education Ministerial Advisory Group|TEMAG]] | 建议设立并直接催生 LANTITE 测试的前序教师教育政策报告。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Teacher Education Ministerial Advisory Group\|TEMAG]] | 建议设立并直接催生 LANTITE 测试的前序教师教育政策报告。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[Australian Council for Educational Research]] | LANTITE 测试的具体开发、运营与高额经费营收管理的非政府中介机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[Strong Beginnings Report]] | 2023年后续改革文本，进一步继承了以 LANTITE 为代表的准入认证收紧策略。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
 > | [[Australian Institute for Teaching and School Leadership]] | 负责设计教师专业标准，并与 LANTITE 考核指标相配合实施准入问责的机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |

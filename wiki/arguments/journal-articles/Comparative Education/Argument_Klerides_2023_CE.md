@@ -258,7 +258,7 @@ citation_aliases:
 > [!example] 二战后：Lauwerys 与比较教育的制度化
 > 二战后，比较教育对通过教育实现社会民主化和改善人类生活的改革承诺，促进了它进一步整合进 UNESCO 等组织。UNESCO 早期将"[[Lifelong Learning|终身学习]]"作为核心关注，拥抱了这些教育目标(Elfert, 2023)。
 >
-> 这种承诺最鲜明的体现是 [[Joseph Lauwerys]]。他是英国第一位比较教育教授(1947)，也是[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）首任主席（1961–1967）。Cowen(2020)指出，Lauwerys 作为 UNESCO 最早的顾问之一，深刻致力于"国际理解"、"民主理想"和"科学人道主义"。比较教育与和平、民主和人道的国际政治的纠缠在学科的大学制度化中发挥了关键作用。随着比较教育者（如 Brian Holmes）参与 UNESCO 的专家会议和教育使命，伦敦大学教育学院设立了专门的比较教育系(Unterhalter and Kadiwal, 2022)。CESE 同样诞生于国际合作政治，特别是 Lauwerys 与 UNESCO 教育研究所所长、后任 CESE 主席（1971–1972）的 Saul Robinsohn 之间的合作。CESE 的早期目标之一是促进国际学术交流以推动欧洲教育改革(Cowen, 2020)。
+> 这种承诺最鲜明的体现是 [[Joseph Lauwerys]]。他是英国第一位比较教育教授(1947)，也是[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）首任主席（1961–1967）。Cowen(2020)指出，Lauwerys 作为 UNESCO 最早的顾问之一，深刻致力于"国际理解"、"民主理想"和"科学人道主义"。比较教育与和平、民主和人道的国际政治的纠缠在学科的大学制度化中发挥了关键作用。随着比较教育者（如 Brian Holmes）参与 UNESCO 的专家会议和教育使命，伦敦大学教育学院设立了专门的比较教育系(Unterhalter and Kadiwal, 2022)。CESE 同样诞生于国际合作政治，特别是 Lauwerys 与 UNESCO 教育研究所所长、后任 CESE 主席（1971–1972）的 Saul Robinsohn 之间的合作。CESE 的早期目标之一是促进国际学术交流以推动欧洲教育改革(Cowen, 2020)。
 
 ---
 

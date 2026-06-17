@@ -199,5 +199,5 @@ updated: 2026-05-31
 - [[Exploratory Sequential Design]] — 探索性序列脚本、Enosh et al. (2015) 范例 ("develop a behavior-based tool that can be used to compare differences between different types of workplaces and services." pp.274, 283)
 
 > [!info] 复杂混合方法设计的目的陈述
-> 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类[[Mixed Methods Research|复杂混合方法设计]]详见 Creswell & Plano Clark (2018)。
+> 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类复杂混合方法设计详见 Creswell & Plano Clark (2018)。
 

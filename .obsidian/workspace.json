@@ -192,6 +192,7 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "scripts/__pycache__/citation_linker.cpython-313.pyc",
     "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md",
     "wiki/templates/template-argument-textbook.md",
@@ -220,7 +221,6 @@
     "wiki/methods/qualitative/Feminist Research.md",
     "scripts/__pycache__/source_record.cpython-313.pyc",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
-    "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.md",
     "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.epub",
     "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",

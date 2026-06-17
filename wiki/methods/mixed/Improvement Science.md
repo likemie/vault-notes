@@ -123,7 +123,7 @@ updated: '2026-05-18'
 > 改进科学和探究网络假定教师具备研究方法素养和充足的时间参与持续探究——在资源不足的学校系统中这些条件可能不成立。[[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 承认"这需要时间、资源和专业知识，这些可能并不可用"，并将其作为为何也应改革试验设计的论点——产出更可用的证据以降低对教师专业研究能力的依赖。
 
 
-> [!warning] 与"什么有效"[[Paradigm|范式]]的范式战争
+> [!warning] 与"什么有效"[[Paradigm|范式]]的[[Paradigm Wars|范式战争]]
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation|EEF]]、IES、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
 
 ## 相关案例／政策
