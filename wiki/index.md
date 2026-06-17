@@ -407,7 +407,7 @@ Total entries: **1349**
 > - [[Geopolitical Subject]] — 被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。
 > - [[Geopolitics of Knowledge]] — 围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。
 > - [[Global Education Industry]] — 教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域
-> - [[Global Education Reform Movement]] — 描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度
+> - [[Global Education Reform Movement]] — 描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度。
 > - [[Governmentality]] — Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制
 > - [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 > - [[Hub and Flow Imaginaries]] — 把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。
@@ -1173,7 +1173,7 @@ Total entries: **1349**
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 > - [[Strong Beginnings Report]] — 澳大利亚政府于2023年发布的教师教育专家小组报告。该报告提出14项政策建议与四项优先改革，首次将“大脑与学习”（脑科学与认知科学）强制列为全国初始教师教育（ITE）的法定制式核心课程与认证标准，标志着澳大利亚教师教育向惩罚性问责与生物简化主义标准化的重大转折。
 > - [[Teacher Education Ministerial Advisory Group]] — 2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是澳大利亚初始教师教育（ITE）标准化改革的起点。
-> - [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
+> - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部发布的高影响教学策略和识字工具包，以可见学习效应量排名为最高证据支持，在澳洲教育政策中引发了证据本位与教师自主权的激烈争议。
 
 ### Belgium
 
@@ -1787,7 +1787,7 @@ Total entries: **1349**
 > - [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾
 > - [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
 > - [[Argument_ONeill_2012_NZJES]] — 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
-> - [[Argument_Snook_2009]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
+> - [[Argument_Snook_2009_NZJES]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
 > - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 
 > [!summary]- Nordic Journal of Studies in Educational Policy (2)

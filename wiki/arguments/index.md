@@ -226,7 +226,7 @@ Total entries: **153**
 > - [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾
 > - [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
 > - [[Argument_ONeill_2012_NZJES]] — 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
-> - [[Argument_Snook_2009]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
+> - [[Argument_Snook_2009_NZJES]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
 > - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 
 > [!summary]- Nordic Journal of Studies in Educational Policy (2)

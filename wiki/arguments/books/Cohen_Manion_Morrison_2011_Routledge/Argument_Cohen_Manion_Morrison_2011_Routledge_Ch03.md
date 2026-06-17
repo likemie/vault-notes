@@ -92,13 +92,6 @@ updated: 2026-06-17
 > - **概念差异**：在意图与目的、受众与问责、议程设定、数据所有权、价值立场、评判标准和政治立场等维度上存在系统性差异（Smith & Glass, 1987 的8点差异；Glass & Worthen, 引自 Norris, 1990 的11点差异；MacDonald, 1987 的政治类型学）。
 > - **政治化与边界模糊**：[[Categorical Funding|分类资助]]的兴起使研究越来越"评估化"——研究议程不再由研究者自定，而是由赞助方和政策需求驱动。政治力量同时从宏观（资助、传播控制）和微观（学校内部资源分配）两个层面渗透研究和评估，使二者的概念边界在实践层面大幅模糊。
 
-> [!example]- 图3.1：研究与评估的相似性概览
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-1_Similarities_Between_Research_and_Evaluation.jpg)
-> *本图以要点框列出研究与评估的共享特征：澄清调查目的、操作化调查领域、以及处理研究设计原则的八个子项（操作性问题、方法论、工具、抽样、信效度、伦理、数据分析、报告与解释）。*
-
-> [!example]- 图3.2：研究与评估的差异性概览
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-2_Differences_Between_Research_and_Evaluation.jpg)
-> *本图以要点框列出研究与评估在多个维度上的差异，包括受众、范围、目的、议程设定、数据使用、数据所有权、政策导向、项目控制和权力关系。*
 
 ---
 
@@ -121,15 +114,6 @@ updated: 2026-06-17
 >    - f. 处理调查过程中的伦理问题
 >    - g. 决定数据分析技术
 >    - h. 决定报告和解释结果的方式
-
-> [!example]- 图3.3：澄清调查目的与操作化
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-3_Clarify_and_Operationalize_Purposes.jpg)
-> *左侧框：澄清调查目的。右侧框：将调查目的和领域操作化。评估和研究都需要经历这两个环节。*
-
-> [!example]- 图3.4：研究设计原则的8个子项
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-4_Principles_of_Research_Design.jpg)
-> *本图列出研究设计的8项关键原则 a–h，研究与评估共享这整套方法论工具。*
-
 Norris（1990: 97）认为，评估是将研究方法应用于行动问题以提供启示的活动。他主张**评估可以视为研究的延伸**（an extension of research），因为二者共享方法论和方法，且评估者与研究者拥有相似的调查技能。在操作层面，上述8项特征涵盖了科学方法的诸多要素（p.31）。
 
 Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操作程序概括为**科学方法的7个步骤**：
@@ -163,18 +147,18 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 **Smith 和 Glass（1987）的8点差异**。Smith 和 Glass 系统比较了研究与评估在8个维度上的差异（pp.31–34）：
 
 > [!contrast-table] Table 3.2：研究与评估的差异（Smith & Glass, 1987）
-> | 维度 | 研究（Research） | 评估（Evaluation） |
-> |------|------------------|-------------------|
-> | **意图与目的**（Intents and Purposes） | 推进知识前沿，贡献理论，追求概括性（generalizations） | 较少关心理论贡献或普遍知识体。评估比研究更偏狭（parochial）而非普遍（universal）（pp.33–34） |
-> | **调查范围**（Scope） | 范围较集中、聚焦 | 更全面（comprehensive），涵盖项目更多方面的数量和种类（p.34） |
-> | **价值立场**（Values） | 追求价值中立（value neutrality） | 必须呈现**多重价值立场**并包含关于这些价值的数据 |
-> | **调查起源**（Origins） | 源于研究者的好奇心和求知欲（p.34）；研究者向同行和科学界问责；研究者自主 | 源于委托方（client）；评估者向委托方和利益相关者问责；评估者受委托驱动——动机是解决问题、分配资源和做出决策。研究是公开的，评估面向受限受众 |
-> | **调查用途**（Uses） | 用于推进知识 | 用于为决策提供信息 |
-> | **时间性**（Timeliness） | 不必受时间限制 | 必须及时（timely），时间表由委托方给定 |
-> | **评判标准**（Criteria for Judging） | 方法论标准和对领域的贡献（[[Internal Validity\|内部效度]]与[[External Validity\|外部效度]]） | 效用（utility）和可信度（credibility） |
-> | **议程设定**（Agendas） | 研究者自定议程 | 评估者议程由委托方给定 |
+> | 维度 | 研究 | 评估 |
+> |------|------|------|
+> | **意图与目的** | 推进知识前沿，贡献理论，追求概括性 | 较少关心理论贡献或普遍知识体。评估比研究更偏狭（parochial）而非普遍（universal）（pp.33–34） |
+> | **调查范围** | 范围较集中、聚焦 | 更全面（comprehensive），涵盖项目更多方面的数量和种类（p.34） |
+> | **价值立场** | 追求价值中立（value neutrality） | 必须呈现**多重价值立场**并包含关于这些价值的数据 |
+> | **调查起源** | 源于研究者的好奇心和求知欲（p.34）；研究者向同行和科学界问责；研究者自主 | 源于委托方（client）；评估者向委托方和利益相关者问责；评估者受委托驱动——动机是解决问题、分配资源和做出决策。研究是公开的，评估面向受限受众 |
+> | **调查用途** | 用于推进知识 | 用于为决策提供信息 |
+> | **时间性** | 不必受时间限制 | 必须及时（timely），时间表由委托方给定 |
+> | **评判标准** | 方法论标准和对领域的贡献（[[Internal Validity\|内部效度]]与[[External Validity\|外部效度]]） | 效用（utility）和可信度（credibility） |
+> | **议程设定** | 研究者自定议程 | 评估者议程由委托方给定 |
 >
-> 表中核心概念参见：价值中立、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
+> 维度英文：Intents and Purposes / Scope / Values / Origins / Uses / Timeliness / Criteria for Judging / Agendas。核心概念参见：价值中立、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
 
 > [!logic-map] 这8个差异构成从内在动机到外部约束的连续体
 > ```mermaid
@@ -194,19 +178,19 @@ Smith 和 Glass（1987）将研究（以及与之共享方法的评估）的操�
 > [!contrast-table] Table 3.3：研究与评估的差异（Glass & Worthen, 引自 Norris, 1990）
 > | 维度 | 研究 | 评估 |
 > |------|------|------|
-> | **探究动机**（Motivation of the Enquirer） | 满足好奇心 | 贡献于解决实际问题 |
-> | **探究目标**（Objectives of the Search） | 寻求结论（conclusions） | 导向决策（decisions） |
-> | **法则与描述**（Laws vs Description） | 追求法则（[[Nomothetic and Idiographic\|nomothetic]]），寻找普遍规律 | 仅寻求描述特定事物（idiographic），不追求普遍法则 |
-> | **解释的角色**（Role of Explanation） | 需要解释为何如此 | 可以在不提供解释的情况下进行有效评估——即判断好坏而不必然解释原因 |
-> | **探究自主性**（Autonomy of the Enquiry） | 研究者自设问题 | 受客户委托（at the behest of a client） |
-> | **评估对象的属性**（Properties of Phenomena Assessed） | 间接提供社会效用证据 | 直接评估社会效用 |
-> | **研究对象的普遍性**（Universality of Phenomena） | 构念具有广泛流通性和适用范围 | 研究对象相对偏狭（parochial） |
-> | **价值问题的突出性**（Salience of the Value Question） | 价值问题较弱 | 价值问题居于中心，通常决定寻求什么信息 |
-> | **调查技术**（Investigative Techniques） | 相似性远多于差异性 | 方法与效度判断程序高度相似 |
-> | **评价活动的标准**（Criteria for Assessing the Activity） | 内部效度与外部效度 | 效用（utility）与可信度（credibility） |
-> | **学科基础**（Disciplinary Base） | 研究者可限于单一学科 | 评估者不能限于单一学科——因为评估问题通常跨越多个学科边界 |
+> | **探究动机** | 满足好奇心 | 贡献于解决实际问题 |
+> | **探究目标** | 寻求结论（conclusions） | 导向决策（decisions） |
+> | **法则与描述** | 追求法则（[[Nomothetic and Idiographic\|nomothetic]]），寻找普遍规律 | 仅寻求描述特定事物（idiographic），不追求普遍法则 |
+> | **解释的角色** | 需要解释为何如此 | 可以在不提供解释的情况下进行有效评估——即判断好坏而不必然解释原因 |
+> | **探究自主性** | 研究者自设问题 | 受客户委托（at the behest of a client） |
+> | **评估对象的属性** | 间接提供社会效用证据 | 直接评估社会效用 |
+> | **研究对象的普遍性** | 构念具有广泛流通性和适用范围 | 研究对象相对偏狭（parochial） |
+> | **价值问题的突出性** | 价值问题较弱 | 价值问题居于中心，通常决定寻求什么信息 |
+> | **调查技术** | 相似性远多于差异性 | 方法与效度判断程序高度相似 |
+> | **评价活动的标准** | 内部效度与外部效度 | 效用（utility）与可信度（credibility） |
+> | **学科基础** | 研究者可限于单一学科 | 评估者不能限于单一学科——因为评估问题通常跨越多个学科边界 |
 >
-> 表中核心概念参见：nomothetic / idiographic、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
+> 维度英文：Motivation of the Enquirer / Objectives of the Search / Laws vs Description / Role of Explanation / Autonomy of the Enquiry / Properties of Phenomena Assessed / Universality of Phenomena / Salience of the Value Question / Investigative Techniques / Criteria for Assessing the Activity / Disciplinary Base。核心概念参见：nomothetic / idiographic、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]。
 > Smith 和 Glass（1987）的8点与 Glass 和 Worthen（引自 Norris, 1990）的11点之间存在大量重叠（如动机、目标、自主性、普遍性、评判标准），但也有各自的独特贡献。8点框架增加了**调查范围**（scope）维度——评估通常比研究更全面地覆盖项目的多个方面。11点框架则增加了两个独特维度：**解释的角色**（评估可以不提供解释而进行有效评估）和**学科基础**（评估者必须跨学科）——这两个维度指向评估的本质特征：它以**判断和决策**为终点，不以**理论解释**为必要环节。
 
 ---
@@ -251,11 +235,6 @@ MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 #### 边界的模糊化：分类资助与政治化
 
 尽管存在上述概念区分，本章的核心论证是：**实践中研究与评估的边界已经大幅模糊**。两个主要原因推动着这一模糊化：**资助方式**的变化和**政治化**的加深（p.36）。
-
-> [!example]- 图3.5：评估、政治与政策制定的连结
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-5_Connections_Evaluation_Politics_Policymaking.jpg)
-> *本图展示评估如何嵌入政治与政策制定的关系网络：评估由政策制定者委托、评估结果影响资源分配和决策、政治议程又反过来决定哪些评估获得资助和关注。*
-
 ##### 分类资助的兴起
 
 Norris（1990: 99）指出，将研究视为不受日常政治污染的纯净活动是天真而简化的。研究嵌入大学和研究社区的等级体系中，嵌入政府选择性资助某些项目而非另一些项目的政治决策中——这一批评脉络可以追溯到 Kuhn（1962）。
@@ -324,9 +303,6 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 > [!tip] Burgess 的务实策略
 > 面对分类资助和政治化的双重压力，Burgess（1993）提出了一种务实策略：研究者需要**在满足赞助方评估要求的同时，也产生研究数据**——这就涉及在合同谈判阶段就明确**数据所有权**（ownership of the data）和**知识产权**（intellectual property rights）的归属。这是在政治现实中为学术自主争取空间的策略性行动（p.41）。
 
-> [!example]- 图3.6：5个总结要点的图示
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-6_Five_Summary_Points.jpg)
-> *五组图示分别对应：研究-评估重叠、概念差异但实践模糊、资助与控制反映政治偏好、评估研究增长回应分类资助、评估利用取决于政治吸引力。*
 
 ---
 
@@ -458,9 +434,6 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 >
 > 本章的配套网站（www.routledge.com/textbooks/cohen7e）提供了 PowerPoint 幻灯片，列出本章结构和各节要点总结。
 
-> [!example]- 图3.7：配套网站
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_3-7_Companion_Website.jpg)
-> *配套网站提供本章 PowerPoint 幻灯片，含章节结构和各节要点总结。*
 
 ---
 

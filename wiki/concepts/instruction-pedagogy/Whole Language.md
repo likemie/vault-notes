@@ -18,121 +18,135 @@ tags:
   - paradigm/constructivist
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Rote Learning]]"
+  - "[[Technical Rationality]]"
+  - "[[Professional Judgment]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Homework]]"
+  - "[[Self-Efficacy]]"
   - "[[Language Experience Approach]]"
-  - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
-  - "[[Constructivist Paradigm]]"
   - "[[Variable]]"
+  - "[[Global Education Reform Movement]]"
+  - "[[Simple View of Reading]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Ken Goodman]]"
+  - "[[John Hattie]]"
+  - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Rose Report]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
-  - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Snook_2009]]"
-confidence: medium
+  - "[[Argument_Snook_2009_NZJES]]"
+part_of: ''
 status: draft
 created: 2026-05-03
-updated: 2026-05-18
+updated: 2026-06-17
+year: 2020
+doi: ""
+citation_aliases: []
+---
+
+# Whole Language
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> Whole Language（全语言）是一种读写教学哲学和方法论，强调语言学习应在真实、完整的语境中进行，而非通过孤立的技能训练。Goodman（2005, pp.35-36）明确指出全语言"坚决拒绝"以下做法：孤立技能序列、将读写切分为年级碎片、通过控制句子结构和词汇简化文本、将阅读等同于子技能测试成绩、将读写教学与其在实际学习或读写中的使用相隔离([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
->
-> 全语言被不同学者描述为一种哲学、一种[[Epistemology|认识论]]和一场运动（Wilson, 1997，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]]）。
->
-> Goodman（2005, p.42）进一步阐述：
->
-> > "全语言学习围绕完整的学习者在完整的情境中学习完整的语言而构建；全语言学习假设对语言、学习者和教师的尊重；重点在意义而非语言本身，集中于真实的言语和读写事件；学习者被鼓励冒险并被邀请以其所有变体为自身目的使用语言；在全语言课堂中，口头和书面语言的所有多样功能都是适当的并被鼓励。"（Goodman, 2005, p.42，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]]）
+> [!def] 定义
+> 全语言（Whole Language）是一种关于儿童语言习得与读写教学的哲学、[[Epistemology|认识论]]与教育运动。它强调语言学习应当在真实（authentic）、完整的情境中进行，重点在于意义的构建，而非将读写能力拆解为孤立的技能序列（如拼读规则、单字列表、无情境练习册）进行[[Rote Learning|死记硬背]] (pp.143-144)。
+
+> [!concept-lens]- 概念透镜
+> - **含义**：语言是整体的，口语和书面语的所有多样功能都是学习的合理路径；阅读不是解码的简单累加，而是读者主动利用语义、句法和字形线索预测和建构意义的“心理语言学猜测游戏” (p.143)。
+> - **用途**：指导以儿童文学大书、自主阅读工坊、创意写作和真实性日常沟通为核心的课堂读写教学设计 (pp.143-144)。
+> - **边界**：它坚决排斥脱离情境的、教条化的拼读技能切片灌输，但并不排斥在文学共享阅读与写作的过程中，自然、流动地讲授拼读与拼写解码规则 (p.148)。
+
+> [!boundary] 概念边界
+> 全语言不仅是教学方法，也是对教育测量[[Technical Rationality|技术理性]]的挑战。它坚决拒绝将阅读与写作教学退化为标准化考试中的“子技能”测试成绩，主张尊重学习者的主体性以及教师的教学[[Professional Judgment|专业判断]]力 (p.143)。
 
 ---
 
-## 历史沿革
+## 概念辨析
 
-> [!note-] 历史沿革
-> - **1967** — [[Ken Goodman]] 发表里程碑文章 *Reading: A Psycholinguistic Guessing Game*，为 1970 年代全语言运动的兴起奠定基础([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])
-> - **1970s** — 全语言运动在美国兴起，其产生不仅是读写理论和研究发展的产物，也与更广泛的政治发展相关，包括民权运动和其他社会运动（Y. Goodman, 1989; Ryan & Goodman, 2016，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]]）
-> - **1980s–1990s** — 全语言在英语国家广泛传播，同时引发"阅读战争"（Reading Wars）——全语言倡导者与系统合成语音（systematic synthetic phonics）支持者之间的激烈公开辩论
-> - **1990s** — 美国福音派基督教团体和共和党右翼发起对全语言的强烈反弹，最终导致 Bush 政府 2001 年 [[No Child Left Behind Act 2001|NCLB]] 法案禁止联邦资助不支持合成语音项目的学区（Weaver & Brinkley, 1998，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]]）
-> - **2009** — Hattie 在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，称其"对学习阅读的影响可忽略不计"，引发争议([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])
-> - **2020** — O'Connor 发表详细审查，论证 Hattie 对全语言的评估存在方法论缺陷和先验偏见([[Argument_OConnor_2020_AJLL|O'Connor, 2020]])
+> [!contrast-table] 全语言与相关识字教学概念的对比
+> | 对比维度 | 全语言 (Whole Language) | [[Language Experience Approach\|语言经验法]] (LEA) | [[Simple View of Reading\|简单阅读观]] (Simple View) | [[Direct Instruction\|直接教学]] (Direct Instruction) |
+> | :--- | :--- | :--- | :--- | :--- |
+> | **核心定义** | 基于真实语境和文学作品整体习得语言的教学哲学 (Goodman, 2005)。 | 基于儿童自身口语经验和记录生成读写材料的早期方法 (Allen, 1964)。 | 认为阅读理解等于解码与听力理解的乘积 (Gough & Tunmer, 1986)。 | 教师主导的、高度结构化的明确技能训练序列。 |
+> | **拼读地位** | 拼读是自然融入共享阅读和写作情境的技能，非孤立传授 (Hornsby, 1993)。 | 拼读和写作结合，主要基于儿童口语词汇来建立音形关联 (Allen, 1964)。 | 拼读（解码）是阅读的必要前提和物理核心，必须“先、快、且唯一” (Rose, 2006)。 | 拼读被切分为细小步骤进行显性、系统和脱离情境的强化训练。 |
+> | **阅读理解观** | 阅读即理解，理解是读者主动利用多重线索建构意义的猜测游戏 (Goodman, 1967)。 | 阅读是儿童将自我思想与他人文字连接的口语连续体 (p.144)。 | 理解与解码分离，解码是阅读的必要前提 (p.149)。 | 理解被拆解为可单独测量的词汇、段落归纳等子技能。 |
 
 ---
 
 ## 核心要素
 
-> [!abstract] 核心要素
-> - **意义优先**：重点在于意义而非语言本身，学习发生在真实的言语和读写事件中（Goodman, 2005, p.42）
-> - **完整语境**：学习者围绕完整语言在完整情境中学习，拒绝将读写技能从实际使用中隔离（Goodman, 2005, pp.35-36）
-> - **学习者中心**：鼓励学习者冒险，以自身目的使用语言的所有变体（Goodman, 2005, p.42）
-> - **整合技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]]）——这与批评者声称全语言不教具体技能的说法相反
-> - **读写作为社会文化实践**：Bloome, Harris & Ludlam（1991, p.15）指出读写构成复杂的社会文化活动网络，"理解读写作为社会和文化实践的总体含义是承认教学法始终是政治的（涉及权力关系）"（引自 O'Connor, 2020, p.150）
+> [!frames-ref] 全语言哲学的五大核心原则
+> 1. **意义优先（Meaning Priority）**：读写教学的重点在于构建意义，而非操练语言工具本身；所有的口头和书面语言功能在课堂中均被适当鼓励 (p.143)。
+> 2. **完整语境（Whole Context）**：坚决反对为了教学便利而将句子结构和词汇进行人工限制与简化，提倡使用完整的、真实的儿童文学作品 (p.143)。
+> 3. **学习者中心（Learner-Centered）**：尊重儿童的发展步伐与语言变体差异，鼓励儿童在真实的言语和读写事件中承担风险、自主表达 (p.143)。
+> 4. **技能情境化融入（Contextualized Skills）**：全语言理论家（如 Hornsby & Powell, 1993）撰写了大量如何在全语言框架内，在大书（Big Books）阅读情境下流动性地讲授拼读、拼写和解码技巧的指南 (p.148)。
+> 5. **读写作为社会文化实践（Sociocultural Practice）**：承认读写不是中立的认知技能，而是一张复杂的社会文化网络，读写教学法本身就是政治性的，涉及教室内的权力关系 (p.149)。
 
 ---
 
-## 与相关概念的区别
+## 概念演变
 
-> [!example] 与相关概念的区别
-> - vs **[[Language Experience Approach]]** — 语言经验法是全语言的重要前身（1960 年代出现），公式为"我能想的就能说，我能说的就能写，我能写的就能读"（Allen, 1964）。Stahl, McKenna & Pagnucco（1994）承认将两者等同是"时代错误的"（anachronistic）([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144-145]])
-> - vs **[[Simple View of Reading]]** — 简单阅读观认为"学会解码等于学会阅读"（Gough & Tunmer, 1986, p.6），从一开始就明确针对全语言理论。全语言坚持阅读即理解（Cambourne, 1988），拒绝将解码与理解分离([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])
-> - vs **Synthetic Phonics**（合成语音） — 合成语音强调系统的、显性的字母-声音关系教学，被描述为符合"新保守主义的传统知识观和课程观"，同时"满足新自由主义对自上而下交付的中央控制模式的理性化议程"（Soler, 2016, p.431，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]]）
-> - vs **[[Direct Instruction]]** — 全语言与直接教学代表教学连续体上的两个对立端：DI 强调教师主导的结构化讲解和明确技能序列，全语言强调在真实完整语境中学习。Hattie (2009) 将全语言评为 d=0.06 而 DI 评为 d=0.59，但 Zhao (2017) 的副作用框架指出两者各有"效果+副作用"组合——选择取决于教育消费者对风险和收益的权衡
-
----
-
-## 理论基础
-
-> [!info] 理论基础
-> - Goodman（1967）的心理语言学阅读模型：阅读是一个"心理语言学猜测游戏"，读者利用语义、句法和字形线索预测和建构意义
-> - [[Constructivist Paradigm|建构主义]]学习理论：知识由学习者在真实情境中主动建构
-> - 读写作为社会文化实践的理论：理解读写不能脱离其社会、文化和政治语境
+> [!dev-timeline] 全语言的历史发展与政治斗争
+> - **1967年：猜测游戏假说的提出**
+>   - [[Ken Goodman|肯·古德曼]]（Ken Goodman）发表里程碑文章《阅读：心理语言学的猜测游戏》（Reading: A Psycholinguistic Guessing Game），为全语言奠定心理语言学与认知[[Constructivist Paradigm|建构主义]]理论基础 (p.143)。
+> - **1970年代：社会与教育运动兴起**
+>   - 全语言运动在美、澳等国兴起。其诞生不仅是教学法的发展，更吸收了民权运动等进步社会运动的养分，强调 child-centered（以儿童为中心）教学对不同阶层和种族背景儿童的尊重 (p.149-150)。
+> - **1980年代－1990年代：阅读战争爆发**
+>   - 全语言在英语国家广泛传播并进入主流政策，但在 1990 年代遭到保守派猛烈反弹，围绕“系统拼读”与“全语言”爆发了持久的“阅读战争”（Reading Wars）(p.144)。
+> - **2001年：[[No Child Left Behind Act 2001|NCLB]] 法案政策清洗**
+>   - 在美国福音派基督教团体与共和党右翼推动下，布什政府颁布《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB），禁止联邦资金流向不推广系统合成拼读的学区，全语言在政策层面遭到清洗 (p.147)。
+> - **2009年：[[Visible Learning|可见学习]]的低效应评估**
+>   - [[John Hattie|约翰·哈蒂]] (John Hattie) 在其代表作《可见学习》中将全语言的[[Effect Size|效应量]]评为 d = 0.06，宣告全语言对阅读阅读“影响可忽略不计”，引起全球证据本位政策的震荡 (p.142)。
+> - **2020年：方法论偏见揭示**
+>   - 帕特里克·奥康纳 (Patrick O'Connor) 细读哈蒂所用[[Meta-analysis|元分析]]，揭示哈蒂通过数据混淆、非对称修剪将全语言效应量清零的方法论偏见与政治底色 (p.148)。
 
 ---
 
 ## 实证发现
 
-> [!success] 实证发现
-> - Hattie（2009）在 *[[Visible Learning]]* 中将全语言的[[Effect Size|效应量]]评为 d=0.06，远低于其 d=0.40 的"关节点"阈值。但 O'Connor（2020）的审查发现这一结论基于方法论上有缺陷的[[Meta-analysis|元分析]]聚合：
->   - 四项元分析的效应量分别为 0.09、0.15、0.65 和 -0.65，Hattie 对其进行简单算术平均得出 0.06([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])
->   - 其中一项"全语言"元分析（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]而非全语言([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]])
->   - 唯一报告正面效应量（d=0.65）的元分析（Gee, 1995）被 Hattie 通过选择性删除三项研究将其效应量修正为零——这是 *Visible Learning* 800+ 元分析中唯一被 Hattie 如此处理的案例([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])
-> - Jeynes & Littell（2000）在其全语言元分析中区分了"纯粹"全语言研究——被定义为"全语言热衷者会同意的代表全语言最佳特征"的研究——并发现这两项"纯粹"研究具有高正面效应量 d=0.83([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])
+> [!finding-cards] 围绕全语言[[Effect Size|效应量]]的实证争议
+> 1. **合成低效应量的假象**：[[John Hattie|哈蒂]]宣称全语言 d = 0.06（几乎无效果）。但帕特里克·奥康纳 (Patrick O'Connor, 2020) 证实，该数值是通过对 4项分化严重的[[Meta-analysis|元分析]]进行不加权算术平均（0.09, 0.15, 0.65, -0.65）得出的粗糙结果，遮蔽了底层数据的张力 (p.145)。
+> 2. **纯粹全语言的高收益**：杰尼斯与利特尔（Jeynes & Littell, 2000）的研究显示，如果完全符合严格定义（无技能切片、无全班统一[[Homework|作业]]、无孤立技能操练），“纯粹全语言”对低社会经济地位 (SES) 学童的**效应量高达正向 0.83** (p.146-147)。
+> 3. **质性与情感维度的优势**：达尔与弗雷蓬（Dahl & Freppon, 1994）的对比实验显示，全语言班儿童在自主读写兴趣、[[Self-Efficacy|自我效能感]]、语言的句法与词汇特征生成上显著优于以练习册为主的传统班级。
 
 ---
 
 ## 争议与批评
 
-> [!warning] [[Visible Learning]] 对全语言的评估争议
-> [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]对 Hattie 评估全语言的详细审查揭示了系统性偏见：
->
-> - **将[[Language Experience Approach|语言经验法]]等同于全语言**：Stahl & Miller（1989）的[[Meta-analysis|元分析]]包含 1960 年代早期和中期的多项研究——在全语言运动 1970 年代首次出现之前。Stahl 本人后来承认这种等同是"时代错误的"（Stahl, McKenna, & Pagnucco, 1994），但 Hattie 仍不加解释地将其纳入([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144-145]])
-> - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告 d=-0.65（极端异常值）时，Hattie 未对其方法或潜在作者偏见进行任何审查。Krashen（2002）后来指出多项[[Effect Size|效应量]]计算错误，认为自己的分析得出的结论"几乎完全相反"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])
-> - **对正面发现的选择性修正**：Gee（1995）报告 d=+0.65 时，Hattie 以某些研究包含语音教学为由删除三项研究，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])
-> - **仅有的独特处理**：在 *Visible Learning* 超过 800 项元分析中，仅此一项——发现全语言有正面影响的元分析——被 Hattie 通过选择性删除研究而修正了效应量([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])
+> [!critique-method] 评估方法论偏见（O'Connor 对 Hattie 的指控）
+> - **分类错误**：哈蒂采纳的 Stahl & Miller (1989) [[Meta-analysis|元分析]]将早期“[[Language Experience Approach|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
+> - **非对称审查与选择性修正**：[[John Hattie|哈蒂]]对报告极端负面（d = -0.65）的 Jeynes & Littell (2000) 算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size|效应量]]修正为零 (p.148)。
+> - **研究者偏见与政治镜头**：哈蒂对[[Direct Instruction|直接教学]]偏爱，对[[Jean-Jacques Rousseau|卢梭]]式[[Constructivist Paradigm|建构主义]]敌视，导致其选择性忽略了 Jeynes 福音派传教士身份的保守派右翼政治偏见，并在《[[Visible Learning|可见学习]]》中对正反数据采取了双重审查标准 (p.147-148)。
 
-
-> [!warning] 政治争议
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.97)]]早在 VL 出版同年即指出全语言元分析中的[[Variable|变量]]界定问题："全语言教学"的操作定义在不同元分析中差异巨大——Hattie 本人承认两项元分析使用了大量重叠的研究，但"差异源于作者对某些关键研究的分类方式以及对'什么构成全语言'的[[Coding in Qualitative Research|编码]]方式"（Hattie, 2008, p.137）。这揭示了一个可能广泛存在的问题：教育变量的模糊定义使得元分析间的比较失去可靠性。
-> - 全语言在美国成为文化战争的战场：福音派基督教团体和共和党右翼领导了 1990 年代的反全语言运动。Phyllis Schlafly 的 Eagle Forum 敦促成员推动支持语音的立法（Weaver & Brinkley, 1998，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]]）
-> - Wolf & Poynor（2001, p.15）挑战流行的"钟摆摆动"隐喻，论证全语言的兴衰"更接近一场与霸权控制冲突密不可分的社会政治运动"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.150]])
+> [!critique-logic] [[Technical Rationality|技术理性]]与标准化问责的劫持
+> - **[[Variable|变量]][[Coding in Qualitative Research|编码]]的模糊性**：[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
+> - **教育工业化与绩效管理**：新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
 
 ---
 
-## 相关案例／政策
+## 应用案例
 
-> [!example] 相关案例／政策
-> - [[No Child Left Behind Act 2001]] — 禁止联邦资助不支持合成语音项目的学区
-> - [[Rose Report]] — 英国政府报告，推广"[[Simple View of Reading|简单阅读观]]"并促成强制合成语音教学
-> - [[Visible Learning]] — Hattie 对全语言的争议性评估
+> [!case] Case 1: Dahl & Freppon (1994) 双城追踪研究
+> 该研究追踪了低收入内城区学校的 8 个班级两年（幼儿园到一年级），结果表明虽然量化阅读测试得分相似，但全语言班学生能生成更多故事语言的句法与词汇特征，并建立起极强的读写坚持性与 ownership（学习所有权），而技能本位班只有最 proficiency 的学生才有此类倾向 (p.146-147)。
+
+> [!case] Case 2: Trachtenburg & Ferruggia (1989) 共享大书实验
+> 该研究针对高风险初学者，通过故事大书进行“共享阅读体验”。学生每天自主选择想学的词，教师基于儿童口头复述材料制作拼读教具，实现技能教学在文学情境下的自然流动，达成了 d = 1.7 的高效益，但被[[John Hattie|哈蒂]]以“使用了单词表和解码技术”为由选择性剔除 (p.148)。
 
 ---
 
+## 相关事实与政策
+
+- [[No Child Left Behind Act 2001]] — 2001年美国法案，要求强制推行系统拼读以取消全语言拨款。
+- [[Rose Report]] — 2006年英国报告，以“[[Simple View of Reading|简单阅读观]]”为依据，推广强制合成语音教学。
+- [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州官方教学政策，以[[Visible Learning|可见学习]][[Effect Size|效应量]]排名为最高证据支持。

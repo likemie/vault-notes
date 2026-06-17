@@ -1,5 +1,5 @@
 ---
-title: Argument_Snook_2009
+title: Argument_Snook_2009_NZJES
 authors:
   - "Snook, I."
   - "O''Neill, J."
