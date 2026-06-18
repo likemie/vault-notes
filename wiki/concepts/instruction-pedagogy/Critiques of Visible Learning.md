@@ -68,7 +68,7 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Reflexivity]]"
 related_theories:
-  - "[[Appraisal Theory]]"
+  - "[[Pure Evaluation]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"
   - "[[Critical Theory]]"
@@ -794,7 +794,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 #### 批评一：VL 是评价理论取代（colonize）教育理论
 
-[[Argument_Rømer_2018_EPT|Rømer (2018, pp. 2–5)]] 论证 VL 不是一个学习理论甚至不是一个[[Didaktik|教学理论]]——它是当教育和学习被置于一种简单化的[[Appraisal Theory|评价理论]]之下时所发生的事情。评价被定义为"对给定干预目标达成度的回溯性审查"，这要求目标、干预和评估必须被定义为分离的、可测量的、不允许概念上互动的实体。
+[[Argument_Rømer_2018_EPT|Rømer (2018, pp. 2–5)]] 论证 VL 不是一个学习理论甚至不是一个[[Didaktik|教学理论]]——它是当教育和学习被置于一种简单化的[[Pure Evaluation|评价理论]]之下时所发生的事情。评价被定义为"对给定干预目标达成度的回溯性审查"，这要求目标、干预和评估必须被定义为分离的、可测量的、不允许概念上互动的实体。
 
 > [!critique] 评价殖民教育的四个子论证
 >

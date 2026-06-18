@@ -41,7 +41,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
 related_theories:
   - "[[Critical Realism]]"
-  - "[[Appraisal Theory]]"
+  - "[[Realist Evaluation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
@@ -92,7 +92,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Critical Realism\|批判实在论]]**<br>Roy Bhaskar (1978)<br>Andrew Sayer (2000) | 区分“深层实在（Real，因果机制与结构）”、“实际发生（Actual，事件与结果）”与“经验现象（Empirical，观察到的规则性）”的三层 ontological 结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
-> | **[[Appraisal Theory\|现实主义评估理论]]**<br>Ray Pawson (2006) | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“机制-背景-结果（CMO）”配置的实在论综合。 |
+> | **[[Realist Evaluation\|实在论评估]]**<br>Ray Pawson (2006) | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“机制-背景-结果（CMO）”配置的实在论综合。 |
 > | **新自由主义审计文化**<br>Stephen Ball (2013)<br>Michael Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育陶冶（[[Bildung]]）转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证

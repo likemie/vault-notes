@@ -37,7 +37,7 @@ related_concepts:
   - "[[Value Neutrality in Research]]"
   - "[[Scientization of Politics]]"
 related_theories:
-  - "[[Appraisal Theory]]"
+  - "[[Realist Evaluation]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Comparative Case Study]]"
@@ -75,7 +75,7 @@ citation_aliases:
 
 ## 理论框架
 
-Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏观语境构成，综合了政策工具社会学、实在论[[Appraisal Theory|评估理论]]和策略关系国家理论。
+Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏观语境构成，综合了政策工具社会学、[[Realist Evaluation|实在论评估]]和策略关系国家理论。
 
 > [!abstract]- [[Performance Indicators|绩效指标]]作为政策工具(Le Galès, 2016; Collins, 2018; Jessop, 2007)
 > Rambla 综合三位学者的工作，将绩效指标界定为同时包含技术成分和权力成分的复合政策工具，并分解为四个操作维度（Table 10.1, p.165–166）。详见 [[Performance Indicators]]：

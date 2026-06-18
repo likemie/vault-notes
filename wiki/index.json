@@ -6610,8 +6610,6 @@
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Appraisal Theory.md",
     "aliases": [
-      "评估理论",
-      "评价理论",
       "Frijda's appraisal theory",
       "appraisal theory of emotion",
       "情感评估理论"
@@ -6830,6 +6828,19 @@
     "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md",
     "aliases": [
       "潜在结果框架"
+    ]
+  },
+  {
+    "title": "Realist Evaluation",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Realist Evaluation.md",
+    "aliases": [
+      "实在论评估",
+      "现实主义评估",
+      "Realist Evaluation",
+      "实在论评估理论",
+      "现实主义评估理论",
+      "realist appraisal"
     ]
   },
   {
