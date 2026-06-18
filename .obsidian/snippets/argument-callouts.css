@@ -8372,3 +8372,84 @@
 .theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) > strong { color: rgb(220, 160, 50); }
 .theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) > strong { color: rgb(220, 90, 75); }
 
+
+/* ─── ethical-pyramid（伦理金字塔 — Seedhouse 四层结构） ── */
+.callout[data-callout="ethical-pyramid"] {
+  --callout-color: 168, 128, 58;
+  --callout-icon: lucide-pyramid;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(180deg,
+      rgba(168, 128, 58, 0.10) 0%,
+      rgba(168, 128, 58, 0.06) 25%,
+      rgba(168, 128, 58, 0.035) 50%,
+      rgba(168, 128, 58, 0.015) 100%
+    ),
+    var(--background-primary);
+  border: 1px solid rgba(168, 128, 58, 0.22);
+  border-left: 6px solid rgb(168, 128, 58);
+  box-shadow: 0 8px 20px rgba(168, 128, 58, 0.09);
+}
+
+.callout[data-callout="ethical-pyramid"] > .callout-title {
+  letter-spacing: 0.03em;
+}
+
+.callout[data-callout="ethical-pyramid"] > .callout-title .callout-title-inner::before {
+  content: "PYRAMID";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.38rem;
+  border-radius: 999px;
+  background: rgba(168, 128, 58, 0.16);
+  color: rgb(168, 128, 58);
+  font-size: 0.7em;
+  font-weight: 700;
+}
+
+.callout[data-callout="ethical-pyramid"] table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid rgba(168, 128, 58, 0.14);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.callout[data-callout="ethical-pyramid"] table th {
+  background: rgba(168, 128, 58, 0.10);
+  color: rgb(120, 90, 40);
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid rgba(168, 128, 58, 0.20);
+}
+
+.callout[data-callout="ethical-pyramid"] table tr:nth-child(2) td { background: rgba(168, 128, 58, 0.06); }
+.callout[data-callout="ethical-pyramid"] table tr:nth-child(3) td { background: rgba(168, 128, 58, 0.04); }
+.callout[data-callout="ethical-pyramid"] table tr:nth-child(4) td { background: rgba(168, 128, 58, 0.025); }
+.callout[data-callout="ethical-pyramid"] table tr:nth-child(5) td { background: rgba(168, 128, 58, 0.012); }
+
+.callout[data-callout="ethical-pyramid"] table td:first-child strong {
+  color: rgb(140, 105, 45);
+}
+
+.theme-dark .callout[data-callout="ethical-pyramid"] {
+  background:
+    linear-gradient(180deg,
+      rgba(200, 160, 80, 0.10) 0%,
+      rgba(200, 160, 80, 0.05) 25%,
+      rgba(200, 160, 80, 0.025) 50%,
+      rgba(200, 160, 80, 0.008) 100%
+    ),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="ethical-pyramid"] table th {
+  color: rgb(200, 160, 100);
+}
+
+.theme-dark .callout[data-callout="ethical-pyramid"] table td:first-child strong {
+  color: rgb(210, 170, 110);
+}

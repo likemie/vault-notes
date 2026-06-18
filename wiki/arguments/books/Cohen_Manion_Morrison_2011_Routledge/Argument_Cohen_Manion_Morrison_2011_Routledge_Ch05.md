@@ -48,13 +48,13 @@ updated: 2026-06-18
 > [!logic-map] 论证结构
 > ```mermaid
 > flowchart LR
->   A["5.1 引言<br>研究伦理的问题来源<br>伦理三理论<br>Seedhouse金字塔<br>Figure 5.1"] --> B["5.2 知情同意<br>四要素 · 合理知情同意<br>儿童/弱势群体<br>反对论证 · Wax批评"]
->   A --> C["5.3 研究准入与接纳<br>层级协商 · 信息透明<br>Box 5.3-5.5"]
+>   A["5.1 引言<br>伦理问题来源<br>三种伦理立场<br>Seedhouse金字塔"] --> B["5.2 知情同意<br>四要素 · 合理知情同意<br>儿童/弱势群体<br>反对论证 · Wax批评"]
+>   A --> C["5.3 研究准入与接纳<br>层级协商 · 信息透明<br>Foster案例 · Bell清单"]
 >   B --> D["5.4 伦理领域<br>连续体判断<br>数据所有权争论"]
 >   C --> D
->   D --> E["5.5 张力来源<br>不伤害/行善/尊严<br>绝对主义vs相对主义<br>Box 5.6"]
+>   D --> E["5.5 张力来源<br>不伤害/行善/尊严<br>绝对主义vs相对主义"]
 >   E --> F["5.6 经验之声<br>Milgram后效<br>研究者胜任伦理"]
->   F --> G["5.7 伦理困境<br>Robson十项可疑实践<br>质性方法的伦理纠结<br>行动研究原则 Box 5.7"]
+>   F --> G["5.7 伦理困境<br>Robson十项可疑实践<br>质性方法的伦理纠结<br>行动研究者原则"]
 >   G --> H["5.8 隐私<br>三维度分析框架"]
 >   G --> I["5.9 匿名<br>匿名化技术 · 局限"]
 >   G --> J["5.10 保密<br>四项保密技术"]
@@ -63,28 +63,28 @@ updated: 2026-06-18
 >   J --> K
 >   K --> L["5.12 电子研究伦理<br>AoIR指南"]
 >   L --> M["5.13 背信<br>真理vs信任冲突"]
->   M --> N["5.14 欺骗与隐蔽研究<br>Kelman三种处理方式<br>Box 5.8 · debriefing<br>overt/covert辩论"]
->   N --> O["5.15 评估研究伦理<br>Strike两个原则<br>八项操作原则"]
+>   M --> N["5.14 欺骗与隐蔽研究<br>Kelman三种路径 · debriefing<br>极端案例 · overt/covert辩论"]
+>   N --> O["5.15 评估研究伦理<br>Strike两原则<br>八项操作原则"]
 >   O --> P["5.16 伦理守则与审查委员会<br>七协会守则对比<br>Hammersley三点批评"]
 >   P --> Q["5.17 资助研究伦理"]
 >   Q --> R["5.18 对研究共同体的责任"]
->   R --> S["5.19 结论<br>个人伦理守则六优势<br>Box 5.9-5.10"]
+>   R --> S["5.19 结论<br>个人伦理守则六优势"]
 > ```
 
 > [!knowledge-map]- 概念地图
 > ```mermaid
 > flowchart LR
 >   subgraph 伦理理论基础
->     A["成本/收益比<br>Box 5.1"] --> B["道义论"]
+>     A["成本/收益比"] --> B["道义论"]
 >     A --> C["后果论/功利主义"]
 >     A --> D["德性伦理"]
->     B --> E["Seedhouse金字塔<br>四层伦理决策<br>Figure 5.1"]
+>     B --> E["Seedhouse金字塔<br>四层伦理决策"]
 >     C --> E
 >     D --> E
 >     E --> F["情境伦理<br>Simons & Usher 2000"]
 >   end
 >   subgraph 程序性伦理
->     G["[[Informed Consent\|知情同意]]<br>四要素 + 合理知情同意<br>Box 5.2"] --> H["[[Access and Acceptance in Research\|研究准入]]<br>层级协商 + 透明策略<br>Box 5.3-5.5"]
+>     G["[[Informed Consent\|知情同意]]<br>四要素 + 合理知情同意"] --> H["[[Access and Acceptance in Research\|研究准入]]<br>层级协商 + 透明策略"]
 >   end
 >   subgraph 保护性伦理
 >     I["隐私<br>三维度框架"] --> J["匿名<br>五项技术"]
@@ -93,12 +93,12 @@ updated: 2026-06-18
 >     K --> L
 >   end
 >   subgraph 争议性实践
->     M["欺骗<br>Kelman三路径<br>Box 5.8"] --> N["[[Covert Research\|隐蔽研究]]<br>overt/covert辩论"]
+>     M["欺骗<br>Kelman三路径"] --> N["[[Covert Research\|隐蔽研究]]<br>overt/covert辩论"]
 >     N --> O["背信<br>真理vs信任"]
 >   end
 >   subgraph 制度层面
 >     P["评估研究伦理<br>Strike八原则"] --> Q["[[Institutional Review Board\|IRB]] + 伦理守则<br>Hammersley批评"]
->     Q --> R["个人伦理守则<br>Box 5.9-5.10"]
+>     Q --> R["个人伦理守则"]
 >   end
 >   伦理理论基础 --> 程序性伦理 --> 保护性伦理 --> 争议性实践 --> 制度层面
 > ```
@@ -167,17 +167,17 @@ updated: 2026-06-18
 
 ---
 
-#### 5.1.4 Seedhouse 的伦理金字塔与 Figure 5.1
+#### 5.1.4 Seedhouse 的伦理金字塔
 
-> [!framework-table] Seedhouse 的伦理决策四层结构
-> Seedhouse (1998a) 提出伦理决策的四层结构，共同构成思考[[Research Ethics|研究伦理]]问题的"[[Epistemology|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）（pp.76–78）：
+> [!ethical-pyramid] Seedhouse 的伦理决策四层结构（pp.76–78）
+> Seedhouse (1998a) 提出，构成思考[[Research Ethics|研究伦理]]问题的"[[Epistemology|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）。伦理决策必须同时在所有层次中运作。
 >
-> | 层次 | 核心问题 | 典型载体 |
+> | 层次 | 追问 | 体现于 |
 > |---|---|---|
-> | **外部层**（External） | 基于什么外部规范？ | 实践守则、法律、制度规定 |
-> | **后果层**（Consequential） | 对谁产生什么后果？ | 对个人、群体、社会的后果分析 |
-> | **道义层**（Deontological） | 我的义务是什么？ | 义务判断的达成方式（基本不考虑后果） |
-> | **个体层**（Individual） | 尊重个人自由和自主吗？ | 尊重个体自由与自主的核心原则 |
+> | ▸ **外部层** External | 基于什么外部规范？ | 实践守则、法律、制度规定 |
+> | ▸ **后果层** Consequential | 对谁产生什么后果？ | 对个人、群体、社会的后果分析 |
+> | ▸ **道义层** Deontological | 我的义务是什么？ | 义务判断的达成方式 |
+> | ▸ **个体层** Individual | 尊重个人自由和自主吗？ | 核心原则：尊重个体自由与自主 |
 
 > [!example]- Figure 5.1：Seedhouse 的伦理金字塔网格
 > > [!note]- 图5.1：Seedhouse's ethical pyramidal grid
@@ -185,8 +185,14 @@ updated: 2026-06-18
 >
 > 来源：改编自 Seedhouse, 1998b
 
-> [!logic-map] 金字塔的运作逻辑
-> 伦理决策必须同时在所有四个层次中运作，这可能在不同层次内部和之间产生冲突点。例如个体层与外部层的冲突：如果我发现我的校长朋友正在将学校资金用于可疑用途——我是否应该举报并失去朋友，还是保持沉默从而共谋阻止公众听到他们需要听到的事情？（p.78）Stutchbury & Fox (2009) 对 Seedhouse 的金字塔网格提供了清晰的分析，并指出每个层次上需要提出的重要问题。
+> [!tension] 金字塔各层之间的冲突
+> 四个层次可能产生冲突。例如个体层与外部层的冲突：发现身为校长的朋友将学校资金用于可疑用途，应当举报而失去朋友，还是保持沉默而共谋阻止公众知情？（p.78）Stutchbury & Fox (2009) 对金字塔各层需要提出的重要问题给出了清晰分析。
+
+> [!example]- Figure 5.1：Seedhouse 的伦理金字塔网格
+> > [!note]- 图5.1：Seedhouse's ethical pyramidal grid
+> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_5-1_Seedhouse_Ethical_Pyramidal_Grid.jpg)
+>
+> 来源：改编自 Seedhouse, 1998b
 
 ---
 
