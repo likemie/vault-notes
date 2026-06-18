@@ -14,14 +14,12 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Ontology]]"
-  - "[[Effect Size]]"
-  - "[[Variable]]"
-  - "[[Classroom Management]]"
   - "[[Emergence]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
-  - "[[Paradigm]]"
-  - "[[Epistemology]]"
-  - "[[Interpretive Paradigm]]"
+  - "[[Bildung]]"
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -31,8 +29,6 @@ related_methods:
 related_persons:
   - "[[Roy Bhaskar]]"
   - "[[Ray Pawson]]"
-  - "[[Andrew Sayer]]"
-  - "[[Margaret Archer]]"
   - "[[Terry Wrigley]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -52,7 +48,7 @@ updated: '2026-06-19'
 > - **解释对象**：社会与自然系统（特别是教育等开放社会系统）中的因果关系、深层因果机制与结构涌现现象。
 > - **理论问题**：回应实证主义将因果关系窄化为经验观察规则性（即休谟因果观）的方法论困境，并克服建构主义与阐释学完全否认客观结构与因果解释的相对主义倾向。
 > - **理论类型**：科学哲学、社会科学方法论基础框架。
-> - **知识位置**：由英国哲学家 [[Roy Bhaskar]] 于20世纪70年代中后期开创，后由 Andrew Sayer、Margaret Archer 等人扩展至社会科学领域，并由 [[Ray Pawson]]、Terry Wrigley 等学者引入政策评估与循证教育批判。
+> - **知识位置**：由英国哲学家 [[Roy Bhaskar]] 于20世纪70年代中后期开创，后由 Andrew Sayer、Margaret Archer 等人扩展至社会科学领域，并由 [[Ray Pawson]]、[[Terry Wrigley]] 等学者引入政策评估与循证教育批判。
 
 > [!claim] 核心主张
 > 批判实在论（Critical realism）主张实在（real）、实际（actual）和经验（empirical）之间的[[Ontology|本体论]]分层。它指出社会世界是一个由多重因果力量交互作用的“开放系统”；因果力属于深层实在，可能在具体环境背景下被其他力量触发或阻断，以至于未能实际化或被观察到。因此，科学解释的本质在于探究深层的因果机制，而非仅测量表面的经验规则性。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 117)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]

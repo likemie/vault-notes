@@ -112,6 +112,7 @@ updated: 2026-06-17
 > | 第37章 Inferential statistics: difference tests | | |
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
 > | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|第5章]] | | |
 
 > [!knowledge-map]- 知识路线图
 > 全书知识推进关系：研究哲学基础(Part 1) → 研究规划与伦理(Part 2) → 研究设计类型选择(Part 3) → 资料收集工具(Part 4) → 数据分析方法(Part 5)。待各章处理较完整后补充详细知识地图。
