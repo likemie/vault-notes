@@ -4284,6 +4284,17 @@
     ]
   },
   {
+    "title": "Betrayal in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Betrayal in Research.md",
+    "aliases": [
+      "研究中的背信",
+      "betrayal",
+      "breach of trust in research",
+      "研究信任违反"
+    ]
+  },
+  {
     "title": "Blinding",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Blinding.md",
@@ -5169,6 +5180,18 @@
     ]
   },
   {
+    "title": "Non-maleficence and Beneficence in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Non-maleficence and Beneficence in Research.md",
+    "aliases": [
+      "不伤害与行善",
+      "non-maleficence",
+      "beneficence",
+      "primum non nocere",
+      "研究中的不伤害原则"
+    ]
+  },
+  {
     "title": "Nondirectional Language",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Nondirectional Language.md",
@@ -5198,6 +5221,17 @@
       "客观主义",
       "objectivist approach",
       "objectivist paradigm"
+    ]
+  },
+  {
+    "title": "Online Research Ethics",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Online Research Ethics.md",
+    "aliases": [
+      "电子研究伦理",
+      "互联网研究伦理",
+      "internet research ethics",
+      "线上研究伦理"
     ]
   },
   {
@@ -6825,6 +6859,17 @@
       "社会学习理论",
       "Bandura's social learning theory",
       "Rotter's social learning theory"
+    ]
+  },
+  {
+    "title": "Absolutist and Relativist Ethics in Research",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Absolutist and Relativist Ethics in Research.md",
+    "aliases": [
+      "绝对主义与相对主义伦理",
+      "absolute and relative ethics",
+      "absolutist ethics",
+      "relativist ethics"
     ]
   },
   {

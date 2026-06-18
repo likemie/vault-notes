@@ -510,7 +510,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 
 ### 5.5 张力来源（Sources of Tension）
 
-#### 5.5.1 不伤害、行善与人的尊严
+#### 5.5.1 [[Non-maleficence and Beneficence in Research|不伤害、行善]]与人的尊严
 
 > [!tension] 第一重张力：科学探究 vs 人的尊严
 > Aronson & Carlsmith (1969) 表达的核心张力是两种社会价值之间的紧张（pp.89–93）：
@@ -571,7 +571,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 
 ---
 
-#### 5.5.2 绝对主义与相对主义伦理
+#### 5.5.2 [[Absolutist and Relativist Ethics in Research|绝对主义与相对主义伦理]]
 
 > [!tension] 第二重张力：绝对主义 vs 相对主义
 > （pp.92–93）：
@@ -802,7 +802,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 ---
 
-### 5.12 电子研究中的伦理（Ethics in Electronic Research）
+### 5.12 [[Online Research Ethics|电子研究中的伦理]]（Ethics in Electronic Research）
 
 > [!warning] 线上研究的新挑战
 > 隐私和匿名在新兴的线上研究领域中相互关联（pp.105–108）。James & Busher (2007) 认为：
@@ -840,7 +840,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 ---
 
-### 5.13 背信（Betrayal）
+### 5.13 [[Betrayal in Research|背信]]（Betrayal）
 
 > [!def] 背信的定义
 > "背信"一词通常适用于那些在信赖中披露的数据被公开透露以致引起披露信息的参与者尴尬、焦虑或痛苦的场合（pp.108–109）。这是对信任的违反，与保密相反，往往是出于自私的个人或职业动机的后果。正如 Plummer (1983) 评论："在社会学中，当一个社会学家可以进入一个群体和一个人的生活很长一段时间，学习他们最严密保守的秘密，然后以批判的眼光向公众暴露一切，这有点不对劲。"（p.108）
