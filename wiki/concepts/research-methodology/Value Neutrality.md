@@ -6,19 +6,47 @@ aliases:
   - 价值自由
   - Wertfreiheit
   - Value Freedom
-  - 研究中的价值中立
-summary: "主张科学研究应排除研究者主观价值与偏见、保持客观中立的认识论规范；实证主义视其为科学基石，而批判理论与循证教育批判则指出其声称本身即是维护现状或推行数字治理的意识形态立场。"
+summary: 主张科学研究应排除研究者主观价值与偏见、保持客观中立的认识论规范；实证主义视其为科学基石，而批判理论与循证教育批判则指出其声称本身即是维护现状或推行数字治理的意识形态立场。
 type: concept
 tags:
   - method/research-methods
   - topic/evaluation
   - paradigm/positivism
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Positivism]]"
+  - "[[Epistemology]]"
+  - "[[Knowledge Production]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Evidence-Based Education]]"
+  - "[[What Works Movement]]"
+  - "[[Effect Size]]"
+  - "[[Bildung]]"
+  - "[[Professional Judgment]]"
+  - "[[Scientific Method]]"
+  - "[[Post-colonial Theory]]"
+  - "[[Evaluation Research]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Research Question]]"
+  - "[[Variable]]"
+  - "[[Ontology]]"
+  - "[[Technical Rationality]]"
+related_theories:
+  - "[[Critical Theory]]"
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Random Assignment]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Feminist Research]]"
+related_persons:
+  - "[[Jürgen Habermas]]"
+  - "[[Terry Wrigley]]"
+  - "[[Max Weber]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: 2026-06-17
