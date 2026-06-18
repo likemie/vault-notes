@@ -4427,8 +4427,8 @@
     "aliases": [
       "研究保密",
       "研究中的保密性",
-      "confidentiality",
-      "保密承诺"
+      "保密承诺",
+      "Confidentiality"
     ]
   },
   {
@@ -4483,6 +4483,17 @@
       "social constructivism",
       "constructivist worldview",
       "interpretivism"
+    ]
+  },
+  {
+    "title": "Costs Benefits Ratio in Research Ethics",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Costs Benefits Ratio in Research Ethics.md",
+    "aliases": [
+      "成本收益比",
+      "cost-benefit ratio",
+      "costs/benefits ratio",
+      "costs/benefits analysis in research"
     ]
   },
   {
@@ -4694,6 +4705,17 @@
       "放入括号",
       "phenomenological reduction",
       "现象学还原"
+    ]
+  },
+  {
+    "title": "Ethics Debriefing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Ethics Debriefing.md",
+    "aliases": [
+      "伦理事后说明",
+      "debriefing",
+      "研究事后说明",
+      "post-experimental debriefing"
     ]
   },
   {
@@ -6841,6 +6863,27 @@
       "实在论评估理论",
       "现实主义评估理论",
       "realist appraisal"
+    ]
+  },
+  {
+    "title": "Seedhouse's Ethical Pyramid",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Seedhouse's Ethical Pyramid.md",
+    "aliases": [
+      "Seedhouse伦理金字塔",
+      "Seedhouse's ethical grid",
+      "伦理金字塔网格",
+      "Seedhouse金字塔"
+    ]
+  },
+  {
+    "title": "Situated Ethics",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Situated Ethics.md",
+    "aliases": [
+      "情境伦理",
+      "situational ethics",
+      "situated ethical practice"
     ]
   },
   {

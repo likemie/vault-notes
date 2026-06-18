@@ -128,7 +128,7 @@ updated: 2026-06-18
 > | 数据的报告方式 | 例如报告方式是否能让参与者理解 |
 
 > [!tension] 贯穿始终的核心张力
-> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**成本/收益比**（costs/benefits ratio），反复回归的核心概念（pp.75–76）。
+> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**[[Costs Benefits Ratio in Research Ethics|成本/收益比]]**（costs/benefits ratio），反复回归的核心概念（pp.75–76）。
 
 ---
 
@@ -163,11 +163,11 @@ updated: 2026-06-18
 > | **来源** | Howe & Moses (1999, p. 22) | Howe & Moses (1999, p. 23) | Hammersley (2009, p. 213) |
 
 > [!exegesis] 三种立场为何不可调和
-> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向核心方法论立场：**情境伦理**（situated ethics）（pp.76–77）。
+> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向核心方法论立场：**[[Situated Ethics|情境伦理]]**（situated ethics）（pp.76–77）。
 
 ---
 
-#### 5.1.4 Seedhouse 的伦理金字塔
+#### 5.1.4 [[Seedhouse's Ethical Pyramid|Seedhouse 的伦理金字塔]]
 
 > [!ethical-pyramid] Seedhouse 的伦理决策四层结构（pp.76–78）
 > Seedhouse (1998a) 提出，构成思考[[Research Ethics|研究伦理]]问题的"[[Epistemology|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）。伦理决策必须同时在所有层次中运作。
@@ -376,8 +376,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 
 #### 5.3.3 进入策略与信息透明
 
-> [!feature] 研究者需要事先明确的要素
-> （pp.86–87）：
+> [!feature] 研究者需要事先明确的要素（pp.86–87）：
 >
 > - 研究的目标及其实际应用（如有）
 > - 设计、方法和程序
@@ -928,7 +927,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 #### 5.14.4 Debriefing（事后说明）
 
-> [!tip] Debriefing 的四项内容
+> [!tip] [[Ethics Debriefing|Debriefing]] 的四项内容
 > 抵消使用欺骗的研究负面效果的主要方式（pp.112–113）。Cooper & Schindler (2001, p. 116) 列出 debriefing 可包括：
 >
 > 1. 解释任何欺骗及其原因（explaining any [[Deception in Research|deception]] and the reasons for it）
@@ -1237,7 +1236,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 >
 > Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
-> [!citation-card] Debriefing 的核心（Aronson & Carlsmith）
+> [!citation-card] [[Ethics Debriefing|Debriefing]] 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）
 >
 > 'debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all.' 'No amount of postexperimental gentleness is as effective in relieving a subject's discomfort as an honest accounting of the experimenter's own discomfort in the situation' (Aronson and Carlsmith, 1969: 31).
