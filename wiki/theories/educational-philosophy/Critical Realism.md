@@ -45,10 +45,10 @@ updated: '2026-06-19'
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象**：社会与自然系统（特别是教育等开放社会系统）中的因果关系、深层因果机制与结构涌现现象。
-> - **理论问题**：回应实证主义将因果关系窄化为经验观察规则性（即休谟因果观）的方法论困境，并克服建构主义与阐释学完全否认客观结构与因果解释的相对主义倾向。
-> - **理论类型**：科学哲学、社会科学方法论基础框架。
-> - **知识位置**：由英国哲学家 [[Roy Bhaskar]] 于20世纪70年代中后期开创，后由 Andrew Sayer、Margaret Archer 等人扩展至社会科学领域，并由 [[Ray Pawson]]、[[Terry Wrigley]] 等学者引入政策评估与循证教育批判。
+> - **解释对象**：社会与自然系统（特别是教育等开放社会系统）中的[[Causality|因果关系]]、深层因果机制与结构[[Emergence|涌现]]现象。
+> - **理论问题**：回应[[Positivism|实证主义]]将因果关系窄化为经验观察规则性（即休谟因果观）的方法论困境，并克服[[Constructivist Paradigm|建构主义]]与阐释学完全否认客观结构与因果解释的相对主义倾向。
+> - **理论类型**：科学哲学、社会[[Scientific Method|科学方法]]论基础框架。
+> - **知识位置**：由英国哲学家 [[Roy Bhaskar]] 于20世纪70年代中后期开创，后由 Andrew Sayer、Margaret Archer 等人扩展至社会科学领域，并由 [[Ray Pawson]]、[[Terry Wrigley]] 等学者引入政策评估与[[Evidence-Based Education|循证教育]]批判。
 
 > [!claim] 核心主张
 > 批判实在论（Critical realism）主张实在（real）、实际（actual）和经验（empirical）之间的[[Ontology|本体论]]分层。它指出社会世界是一个由多重因果力量交互作用的“开放系统”；因果力属于深层实在，可能在具体环境背景下被其他力量触发或阻断，以至于未能实际化或被观察到。因此，科学解释的本质在于探究深层的因果机制，而非仅测量表面的经验规则性。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 117)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]
@@ -89,14 +89,14 @@ updated: '2026-06-19'
 >   style F fill:#fbb,stroke:#333,stroke-width:2px
 > ```
 
-> [!exegesis]- 教育研究案例一：EEF Toolkit 的“体育参与”
+> [!exegesis]- 教育研究案例一：[[Education Endowment Foundation|EEF]] Toolkit 的“体育参与”
 > 在英国教育捐赠基金会（[[Education Endowment Foundation|EEF]]）Toolkit 中，“体育参与”的“经验”层面表现为 $+0.17$（+2个月）的平均[[Effect Size|效应量]]。然而，追溯到“实际”层面可以发现：产生高效应量的 [[Playing for Success]] 项目包含了 1对1 辅导、个性化课程以及足球明星见面会等，这与普通“体育参与”截然不同。而“实在”层面（为什么以及哪些机制在起作用）在数据均值化和去情境化的统计炼金术中完全消失了。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, pp. 120–123)]]
 
 > [!exegesis]- 教育研究案例二：阅读理解干预课堂复制的阻断
 > 教师试图在一所新学校复制一项经实验证实的阅读理解干预。该干预在 A 学校有效（因果力被触发），但在 B 学校无效，其因果力被环境阻断——阻断因素可能是 B 学校学生的先前知识不足、课堂秩序混乱，或学校文化不支持独立阅读。单纯的平均效应量无法告诉教师为什么该干预在她的课堂中失败。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 113)]]
 
 > [!exegesis]- 教育研究案例三：Fresh Start 的匹配子集分析与数据幻象
-> [[Education Endowment Foundation|EEF]] 宣称针对中一阅读困难学生的“Fresh Start”合成拼读项目带来了 $+0.24SD$ 的效应量。但深读技术报告后会发现，由于治疗组的前测成绩远低于控制组，所谓的“进步”仅是糟糕随机化带来的偏误。当研究者从中筛选出前测分数完全相同的学生子集进行匹配分析时，治疗组和控制组的平均进步幅度和后测成绩**几乎完全相同**（效应量为 $+0.00SD$）。实验没有触及任何深层因果机制，仅在经验层面用数字黑箱包装了数据幻象。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
+> [[Education Endowment Foundation|EEF]] 宣称针对中一阅读困难学生的“Fresh Start”合成拼读项目带来了 $+0.24SD$ 的效应量。但深读技术报告后会发现，由于治疗组的前测成绩远低于控制组，所谓的“进步”仅是糟糕[[Random Assignment|随机化]]带来的偏误。当研究者从中筛选出前测分数完全相同的学生子集进行匹配分析时，治疗组和控制组的平均进步幅度和后测成绩**几乎完全相同**（效应量为 $+0.00SD$）。实验没有触及任何深层因果机制，仅在经验层面用数字黑箱包装了数据幻象。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
 
 > [!exegesis]- 教育研究案例四：教学助理（TA）类目的结构性误导
 > EEF Toolkit 将教学助理（Teaching Assistant, TA）分类为“低影响、高成本”（平均效应量 $+0.08$），导致许多学校在预算裁剪时直接解雇 TA。然而，实证研究表明 TA 的低效实际上是因为学校没有为其预留备课和与教师沟通的时间，且系统性地将低成就学生甩给 TA，剥夺了他们接受专业教师授课的机会。统计均值忽略了这一关键的结构性（在实在层面的权力关系和管理结构）因素，直接导致了决策扭曲。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
@@ -107,29 +107,29 @@ updated: '2026-06-19'
 
 > [!theory-components] 关键构件
 > - **实在界 / 实际界 / 经验界（Strata of Reality）**：定位研究关注的对象层次，用以区分表面的统计规则性与深层的因果结构。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 117)]]
-> - **开放系统与封闭系统（Open/Closed Systems）**：说明社会情境中因果关系的异质性与不确定性，批判 [[Randomised Controlled Trials|RCT]] 模拟封闭系统的盲目性。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]
-> - **涌现与因果机制（Emergence & Causal Mechanisms）**：主张社会现象是由分层结构（如国家政策-学校文化-师生互动-个体信念）非线性交互生成的。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
+> - **开放系统与封闭系统（Open/Closed Systems）**：说明社会情境中[[Causality|因果关系]]的[[Heterogeneity|异质性]]与不确定性，批判 [[Randomised Controlled Trials|RCT]] 模拟封闭系统的盲目性。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]
+> - **[[Emergence|涌现]]与因果机制（Emergence & Causal Mechanisms）**：主张社会现象是由分层结构（如国家政策-学校文化-师生互动-个体信念）非线性交互生成的。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
 > - **CMO 配置与实在论综合（CMO Configuration & Realist Synthesis）**：作为方法论构件，将“机制（M）”在何种“背景（C）”下起作用并产生何种“结果（O）”的配置，作为替代传统统计[[Meta-analysis|元分析]]的综合研究路线。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]
 
 ---
 
 ## 认识论与方法含义
 
-> [!theory-stance] 认识论与方法 stance
-> - **本体论**：深度现实主义。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的涌现因果力。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
+> [!theory-stance] [[Epistemology|认识论]]与方法 stance
+> - **[[Ontology|本体论]]**：深度现实主义。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的[[Emergence|涌现]]因果力。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
 > - **认识论**：反经验主义、非绝对相对主义。知识是被概念中介的，观察并非中立，因此不能仅靠累加经验事实来获得因果解释；但通过批判性探究，人类能够获得对深层机制的合理且可靠的认识。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]
-> - **方法含义**：主张“方法论多元主义”与“实在论综合”。研究应揭示机制如何在特定背景下发挥作用，强调质性研究（如[[Qualitative Observation|质性观察]]、历史分析、行动研究）与量化工具的协同使用，尊重行动者（教师与学生）的推理过程。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
-> - **不能直接推出的东西**：无法自动推导出一个在任何情境下都产生恒定效应量（如 $+0.40$）的黄金教学法则，也不能直接推出能流水线式复制的去情境干预指南。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 11)]]
+> - **方法含义**：主张“方法论多元主义”与“实在论综合”。研究应揭示机制如何在特定背景下发挥作用，强调[[Qualitative Research|质性研究]]（如[[Qualitative Observation|质性观察]]、历史分析、行动研究）与量化工具的协同使用，尊重行动者（教师与学生）的推理过程。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
+> - **不能直接推出的东西**：无法自动推导出一个在任何情境下都产生恒定[[Effect Size|效应量]]（如 $+0.40$）的黄金教学法则，也不能直接推出能流水线式复制的去情境干预指南。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 11)]]
 
 ---
 
 ## 分析框架与使用方式
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架**：用以批评主流循证教育（[[Evidence-Based Education|EBE]]）的过度简化倾向，打破其将医学 RCT 范式盲目照搬到复杂教育开放系统中的科学主义幻想。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 4)]]
-> - **作为分析工具**：在教育项目评估中，将分析焦点从“平均效应量是多少”转向“该项目在哪些学校背景中触发了教师/学生的哪些推理过程，从而产生了何种差异化结果”。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]
+> - **作为理论框架**：用以批评主流[[Evidence-Based Education|循证教育]]（[[Evidence-Based Education|EBE]]）的过度简化倾向，打破其将医学 [[Randomised Controlled Trials|RCT]] [[Paradigm|范式]]盲目照搬到复杂教育开放系统中的[[Scientism|科学主义]]幻想。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 4)]]
+> - **作为分析工具**：在教育项目评估中，将分析焦点从“平均[[Effect Size|效应量]]是多少”转向“该项目在哪些学校背景中触发了教师/学生的哪些推理过程，从而产生了何种差异化结果”。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 14)]]
 > - **作为批判视角**：审查新自由主义管理主义下的审计文化（Audit Culture）与“数字治理”（Governance by Numbers）。揭示统计排行榜如何将复杂的“教育陶冶（[[Bildung]]）”异化为纯粹的技术效率传递，从而剥夺关于教育价值与民主目的的政治讨论，消解教师的[[Professional Judgment|专业判断]]力。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
-> - **报告方式**：写作时应避免单纯汇报均值与 p 值，而应提供多层级背景描述（阶级、学校制度、文化）与过程追踪，呈现干预和反思交互的涌现轨迹。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
+> - **报告方式**：写作时应避免单纯汇报均值与 p 值，而应提供多层级背景描述（阶级、学校制度、文化）与过程追踪，呈现干预和反思交互的[[Emergence|涌现]]轨迹。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
 
 > [!logic-map]- 批判实在论研究流程图
 > ```mermaid
@@ -148,45 +148,45 @@ updated: '2026-06-19'
 
 > [!theory-boundary] 适用边界
 > - **适合解释**：复杂的、层级交织的社会政策评估；解析宏观社会结构（如阶级不平等、新自由主义审计体制）对微观教育实践的制约与交互机制。
-> - **谨慎使用**：在进行局部、短期、局限于特定技术维度的测量（如单纯的班级出勤率统计）时，需防范由于本体论的无限延伸而稀释了量化描述性指标的指示作用；必须配合中层理论（Middle-range Theory）进行实操。
+> - **谨慎使用**：在进行局部、短期、局限于特定技术维度的测量（如单纯的班级出勤率统计）时，需防范由于[[Ontology|本体论]]的无限延伸而稀释了量化描述性指标的指示作用；必须配合中层理论（Middle-range Theory）进行实操。
 > - **不适合解释**：无法为教师提供即刻生效的“百宝箱式”教学动作指南；在极端不可控或剧烈变动的情境中，无法进行精确的线性行为预测。
-> - **常见误用**：将批判实在论对经验主义与实证主义局限性的解构，误解为对统计、测量或 RCT 的全盘否定；或陷入形而上学话语，仅在哲学层面打转，而不去具体搜集经验和实际层面的运作证据。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
+> - **常见误用**：将批判实在论对经验主义与[[Positivism|实证主义]]局限性的解构，误解为对统计、测量或 [[Randomised Controlled Trials|RCT]] 的全盘否定；或陷入形而上学话语，仅在哲学层面打转，而不去具体搜集经验和实际层面的运作证据。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
 
 ---
 
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1978 — 经典文本奠定科学哲学基础**：[[Roy Bhaskar]] 出版 *A Realist Theory of Science*，区分三层本体论和开放/封闭系统，提出批判实在论的自然科学哲学基础。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 112)]]
-> - **1979 — 扩展至人文社会科学**：Bhaskar 出版 *The Possibility of Naturalism*，系统论证社会结构的涌现性，为人文与社会科学建构了独特的反实证主义实在论框架。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 112)]]
-> - **2000 — 社会科学方法论指南**：Andrew Sayer 出版 *Realism and Social Science*，为社会科学研究者将批判实在论转化为具体方法论提供了操作指南，深入讨论了还原论与异质性。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 112)]]
-> - **2006 — 应用于循证政策批判与方法替代**：[[Ray Pawson]] 出版 *Evidence-based Policy: A Realist Perspective*，将批判实在论应用于社会政策分析，系统性地构建了“实在论综合（Realist Synthesis）”与 CMO 分析配置，提供替代元分析的路径。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 114)]]
-> - **2018 — 循证教育方法论的三层解构**：[[Argument_Wrigley_2018_BERJ|Terry Wrigley]] 发表 *The power of 'evidence': Reliable science or a set of blunt tools?*，以批判实在论作为分析框架，解构了教育实验中统计均值三层失真机制，并直指其新自由主义意识形态本质。
-> - **2019 — 对证据本位教学科学观的全面剖析**：[[Argument_Wrigley_2019_ERE|Wrigley & McCusker]] 发表研究，以批判实在论系统解构 EEF Toolkit 的科学观缺陷，提供体育参与等经典案例 of 实在论分析。
+> - **1978 — 经典文本奠定科学哲学基础**：[[Roy Bhaskar]] 出版 *A Realist Theory of Science*，区分三层[[Ontology|本体论]]和开放/封闭系统，提出批判实在论的自然科学哲学基础。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 112)]]
+> - **1979 — 扩展至人文社会科学**：Bhaskar 出版 *The Possibility of Naturalism*，系统论证社会结构的[[Emergence|涌现]]性，为人文与社会科学建构了独特的[[Interpretive Paradigm|反实证主义]]实在论框架。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 112)]]
+> - **2000 — 社会[[Scientific Method|科学方法]]论指南**：Andrew Sayer 出版 *Realism and Social Science*，为社会科学研究者将批判实在论转化为具体方法论提供了操作指南，深入讨论了还原论与[[Heterogeneity|异质性]]。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 112)]]
+> - **2006 — 应用于循证政策批判与方法替代**：[[Ray Pawson]] 出版 *Evidence-based Policy: A Realist Perspective*，将批判实在论应用于社会政策分析，系统性地构建了“实在论综合（Realist Synthesis）”与 CMO 分析配置，提供替代[[Meta-analysis|元分析]]的路径。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 114)]]
+> - **2018 — [[Evidence-Based Education|循证教育]]方法论的三层解构**：[[Argument_Wrigley_2018_BERJ|Terry Wrigley]] 发表 *The power of 'evidence': Reliable science or a set of blunt tools?*，以批判实在论作为[[Analytic Framework|分析框架]]，解构了教育实验中统计均值三层失真机制，并直指其新自由主义意识形态本质。
+> - **2019 — 对证据本位教学科学观的全面剖析**：[[Argument_Wrigley_2019_ERE|Wrigley & McCusker]] 发表研究，以批判实在论系统解构 [[Education Endowment Foundation|EEF]] Toolkit 的科学观缺陷，提供体育参与等经典案例 of 实在论分析。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **方法论操作难度大**：批判实在论虽然提供了高度精确的哲学概念（如涌现、机制、实在分层），但在转化为经验研究的具体操作时，其难度远高于实证主义的标准化量化指标；实在论综合在实践中耗时费力，难以成为政策制定者快速决策的工具。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
-> - **本体论地位的科学性张力**：部分偏向实证主义的批评者认为，批判实在论假设的“深层实在”和“潜在因果机制”属于不可直接观察的范畴，这使得该理论带有一层形而上学色彩，不易被传统科学标准所证伪。
-> - **在实证界接受度受限**：由于其对“经验规则性”进行了强力批判，极易被量化阵营误解为对数据科学的全面排斥，这导致其在政策决策主流（偏好简单效应量与百分比排行）中的接受度和影响力相对有限。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
+> - **方法论操作难度大**：批判实在论虽然提供了高度精确的哲学概念（如[[Emergence|涌现]]、机制、实在分层），但在转化为经验研究的具体操作时，其难度远高于[[Positivism|实证主义]]的标准化量化指标；实在论综合在实践中耗时费力，难以成为政策制定者快速决策的工具。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
+> - **[[Ontology|本体论]]地位的科学性张力**：部分偏向实证主义的批评者认为，批判实在论假设的“深层实在”和“潜在因果机制”属于不可直接观察的范畴，这使得该理论带有一层形而上学色彩，不易被传统科学标准所[[Falsification|证伪]]。
+> - **在实证界接受度受限**：由于其对“经验规则性”进行了强力批判，极易被量化阵营误解为对数据科学的全面排斥，这导致其在政策决策主流（偏好简单[[Effect Size|效应量]]与百分比排行）中的接受度和影响力相对有限。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wrigley_2018_BERJ]] — 以批判实在论对循证教育（EBE）方法论进行三层技术解构，分析了 Fresh Start 和教学助理等典型案例。
-> - [[Argument_Wrigley_2019_ERE]] — 将批判实在论作为核心哲学框架，批判证据本位教学的简化科学观，并对 EEF Toolkit 的“体育参与”进行实在论剖析。
+> - [[Argument_Wrigley_2018_BERJ]] — 以批判实在论对[[Evidence-Based Education|循证教育]]（EBE）方法论进行三层技术解构，分析了 Fresh Start 和教学助理等典型案例。
+> - [[Argument_Wrigley_2019_ERE]] — 将批判实在论作为核心哲学框架，批判证据本位教学的简化科学观，并对 [[Education Endowment Foundation|EEF]] Toolkit 的“体育参与”进行实在论剖析。
 
 ---
 
 ## 应用领域
 
 > [!case] 应用领域索引
-> - [[Evidence-Based Education]] — 批判实在论为循证教育与循证政策的批判性反思提供了本体论和认识论武器。
+> - [[Evidence-Based Education]] — 批判实在论为循证教育与循证政策的批判性反思提供了[[Ontology|本体论]]和[[Epistemology|认识论]]武器。
 > - [[Randomised Controlled Trials]] — 用以解构 RCT 试图在复杂的开放系统中模拟封闭实验室环境的方法论妄想。
 > - [[Meta-analysis]] / [[Meta-meta-analysis]] — 用于批评去情境化的统计数据聚合与“苹果和橙子”的混淆。
 

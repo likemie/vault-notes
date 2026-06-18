@@ -108,7 +108,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 内部效度与外部效度的关系
-> **内部效度优先原则**：Shadish et al. (2002) 论证内部效度是实验设计的"必要条件"（sin qua non），因为"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。这一原则直接解释了 [[What Works Clearinghouse|WWC]] 为何采用[[Gating Procedure]]——先用内部效度门槛筛选研究，再评估通过者的推广性。
+> **内部效度优先原则**：Shadish et al. (2002) 论证内部效度是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non），因为"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。这一原则直接解释了 [[What Works Clearinghouse|WWC]] 为何采用[[Gating Procedure]]——先用内部效度门槛筛选研究，再评估通过者的推广性。
 >
 > **非互斥性**：内外部效度问题并非总是可以完全分离的。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.463)]] 给出了一个具体例子：
 >

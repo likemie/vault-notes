@@ -68,7 +68,7 @@ updated: '2026-05-18'
 >
 > 在美国，超过 90% 的教育干预有效性试验未显示影响（C4E, 2013）——约为医学二期[[Clinical Trial|临床试验]]成功率的一半（Kane, 2015）。这指示零效果的关键来源是：**当干预被移出初始情境时，实施不完整或不准确**([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302]])。
 >
-> 虽然 [[Education Endowment Foundation|EEF]] 和 IES 正在开发改进的实施过程评估（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的必要条件通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 302]])
+> 虽然 [[Education Endowment Foundation|EEF]] 和 IES 正在开发改进的实施过程评估（IPE）方案（Dhillon, Darrow, & Meyers, 2015; Lendrum & Humphrey, 2012），但这显著提高了每次试验的成本，且由于对干预的"关键成分"或实施的[[Necessary and Sufficient Conditions|必要条件]]通常缺乏了解，IPE 方案的制定本身极具挑战性（Darrow & Goodson, forthcoming）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 302]])
 >
 > **3. 低采纳率**
 >
@@ -109,7 +109,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 Peterson (2016) 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与教师探究实践兼容的因果知识。
 >
-> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 明确声明其提案从"随机化评估将继续是教育研究的主要组成部分"这一立场出发——部分原因是随机化评估"更不易腐败和'伪评估'（Fowler, 2012）且与其他影响评估相比未显示[[Publication Bias|发表偏差]]（Vivalt, forthcoming）"。
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 明确声明其提案从"[[Random Assignment|随机化]]评估将继续是教育研究的主要组成部分"这一立场出发——部分原因是随机化评估"更不易腐败和'伪评估'（Fowler, 2012）且与其他影响评估相比未显示[[Publication Bias|发表偏差]]（Vivalt, forthcoming）"。
 
 ## 相关案例／政策
 

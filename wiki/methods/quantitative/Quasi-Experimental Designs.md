@@ -50,7 +50,7 @@ updated: 2026-05-23
 ## 研究程序
 
 > [!example]
-> 在证据审查中，QED 的关键不是“有没有对照组”这么简单，而是反事实条件是否可信、潜在偏误是否被控制。干预组面对的比较条件也会影响解释：如果对照条件是低质量或低强度项目，干预更容易显示优势；如果对照条件本身已经很强，干预效果就更难显示出来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
+> 在证据审查中，QED 的关键不是“有没有对照组”这么简单，而是[[Counterfactual|反事实]]条件是否可信、潜在偏误是否被控制。干预组面对的比较条件也会影响解释：如果对照条件是低质量或低强度项目，干预更容易显示优势；如果对照条件本身已经很强，干预效果就更难显示出来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
 
 ### 反事实条件的可行性
 
@@ -72,7 +72,7 @@ updated: 2026-05-23
 > QED 和 [[Randomised Controlled Trials|RCT]] 一样，若只报告对学生成就的统计显著效果，仍可能遗漏实践者真正需要的信息，如实施要求、用户满意度、成本、情境限制和项目使用强度。对低强度补充项目或复杂改革而言，这类信息会直接影响学校是否采用和持续使用项目([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112, 120-121]])。
 
 > [!warning]
-> QED 的“中等证据”地位不等于所有 QED 证据都同样可用。若比较组反事实较弱、[[Implementation Fidelity|实施忠实度]]不清楚、结果测量过窄，研究仍可能给实践者留下过度乐观或难以迁移的效果判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
+> QED 的“中等证据”地位不等于所有 QED 证据都同样可用。若比较组[[Counterfactual|反事实]]较弱、[[Implementation Fidelity|实施忠实度]]不清楚、结果测量过窄，研究仍可能给实践者留下过度乐观或难以迁移的效果判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
 
 ## 使用此方法的研究
 

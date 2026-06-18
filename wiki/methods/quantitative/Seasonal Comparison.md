@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 季节性比较属于准实验[[Causality|因果推断]]传统，其认识论核心是反事实推理（counterfactual reasoning）。设计试图回答的问题不是传统的"学校 A vs 学校 B 哪个更好"，而是更根本的："如果学校不存在，不平等会是什么样？"（Raudenbush & Eschmann, 2015, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]]）。暑假被用作这一反事实的经验近似([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.4]])。
+> 季节性比较属于准实验[[Causality|因果推断]]传统，其认识论核心是[[Counterfactual|反事实推理]]（counterfactual reasoning）。设计试图回答的问题不是传统的"学校 A vs 学校 B 哪个更好"，而是更根本的："如果学校不存在，不平等会是什么样？"（Raudenbush & Eschmann, 2015, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]]）。暑假被用作这一反事实的经验近似([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.4]])。
 >
 > 这种设计绕过了传统方法面临的三个核心难题([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.3–4]])：
 > 1. 如何分离学校效应与非学校效应
@@ -54,7 +54,7 @@ updated: '2026-05-18'
 >    - 比较两者 → 推断学校的净效应
 > 3. **判断标准**：如果 SES 成就差距在学年期间增长更慢（或缩小），而在暑假期间增长更快 → 学校是补偿性的；反之 → 学校是加剧性的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.5–6]])
 >
-> > 例：即便高 SES 和低 SES 儿童在学年期间以大致相同的速度学习（差距保持不变而非缩小），只要暑假期间差距加速扩大，学校仍被判定为补偿性的——因为相对于反事实（无学校状态），学校减少了差距本应扩大的幅度。这类似于减肥项目：即使治疗组体重未下降，只要对照组体重增加了，治疗就是有效的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.6]])。
+> > 例：即便高 SES 和低 SES 儿童在学年期间以大致相同的速度学习（差距保持不变而非缩小），只要暑假期间差距加速扩大，学校仍被判定为补偿性的——因为相对于[[Counterfactual|反事实]]（无学校状态），学校减少了差距本应扩大的幅度。这类似于减肥项目：即使治疗组体重未下降，只要对照组体重增加了，治疗就是有效的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.6]])。
 
 
 > [!example] 主要数据来源
@@ -86,7 +86,7 @@ updated: '2026-05-18'
 > 比较起点低（A 组）和起点高（B 组）的增长需要等距量表（interval-level scales），即底部的增长与顶部的增长可比较（如同等距台阶）。某些较好的认知技能量表可能接近此要求，能减少困扰纵向比较的天花板效应问题，但该领域需要更多讨论，或许更大程度使用不依赖等距假设的非参数方法（Ho & Reardon, 2011）([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.4–5]])。
 
 
-> [!warning] 暑假作为反事实的效度
+> [!warning] 暑假作为[[Counterfactual|反事实]]的效度
 > 暑假模式真的是无学校状态的好的指标吗？如果家长知道孩子不会在秋季返校，他们的行为会与暑假期间不同吗？Downey & Condron 承认需要对这些假设进行更有力的学术讨论，但认为这些假设比传统方法要求的假设（模型可成功分离学校效应、我们知道所有机制的净效应、学校不平等大于非学校不平等）更为合理([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.5]])。
 
 

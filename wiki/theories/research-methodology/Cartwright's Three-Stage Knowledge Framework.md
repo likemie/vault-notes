@@ -38,7 +38,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Cartwright & Munro (2010) 提出，[[Randomised Controlled Trials|RCT]] 结果的外推需要经过三个不同层级的知识阶段。因为 RCT 的设计前提恰恰是"我们不知道所有重要的因果因素"——随机化用以控制未知因素——所以 RCT 结果本身不能直接外推到环境不同的新情境。外推需要额外的因果机制知识来弥补 RCT 的设计性无知。
+> Cartwright & Munro (2010) 提出，[[Randomised Controlled Trials|RCT]] 结果的外推需要经过三个不同层级的知识阶段。因为 RCT 的设计前提恰恰是"我们不知道所有重要的因果因素"——[[Random Assignment|随机化]]用以控制未知因素——所以 RCT 结果本身不能直接外推到环境不同的新情境。外推需要额外的因果机制知识来弥补 RCT 的设计性无知。
 >
 > > "The primary purpose of an RCT is to make a judgement on effectiveness where the contribution of other circumstantial factors are unknown... Since an RCT is necessary, that knowledge of generalisability to different circumstances is likely to be absent."（Cartwright and Munro, 2010, 引自 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.10-11]]）
 

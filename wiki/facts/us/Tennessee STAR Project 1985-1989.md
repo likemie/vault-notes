@@ -66,7 +66,7 @@ updated: 2026-06-02
 >
 > ### [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 以 STAR 反驳 Hattie 的班级规模结论
 >
-> [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.100–101)]]在 [[Visible Learning|VL]] 最早的学术批判中详细引用 STAR 研究以反驳 Hattie 班级规模[[Effect Size|效应量]]仅 0.2 不重要这一结论。STAR 采用严格随机化设计——将学生和教师均[[Random Assignment|随机分配]]至小班（13–17 人）和大班（22–25 人），两年后效应量达 0.62–0.66（Finn & Achilles, 1990）——远超 Hattie 的 d=0.40 阈值。Snook et al. 指出，Hattie 报告的较低效应量与 STAR 原始研究的结果不一致，且 Hattie 的[[Meta-analysis|元分析]]因距离原始研究较远而难以有效纳入 STAR 的设计质量差异。
+> [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.100–101)]]在 [[Visible Learning|VL]] 最早的学术批判中详细引用 STAR 研究以反驳 Hattie 班级规模[[Effect Size|效应量]]仅 0.2 不重要这一结论。STAR 采用严格[[Random Assignment|随机化]]设计——将学生和教师均[[Random Assignment|随机分配]]至小班（13–17 人）和大班（22–25 人），两年后效应量达 0.62–0.66（Finn & Achilles, 1990）——远超 Hattie 的 d=0.40 阈值。Snook et al. 指出，Hattie 报告的较低效应量与 STAR 原始研究的结果不一致，且 Hattie 的[[Meta-analysis|元分析]]因距离原始研究较远而难以有效纳入 STAR 的设计质量差异。
 
 ## 争议与评论
 

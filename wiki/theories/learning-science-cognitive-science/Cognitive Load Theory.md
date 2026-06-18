@@ -81,7 +81,7 @@ updated: 2026-06-16
 ## 适用边界
 
 > [!theory-boundary] 理论边界与缺失
-> - **社会与情境维度的遮蔽**：CLT 将学习完全还原为个体大脑内部的生理机制，系统性地屏蔽了学习的社会性、文化背景以及人际互动。[[Lev Vygotsky|维果茨基]]的社会文化理论强调，学习是一个深植于社会历史和人际交流的动态过程，单纯的因果生理逻辑无法解释意义的共同生成（Biesta et al., 2015; Vygotsky）。
+> - **社会与情境维度的遮蔽**：CLT 将学习完全还原为个体大脑内部的生理机制，系统性地[[Screening Off|屏蔽]]了学习的社会性、文化背景以及人际互动。[[Lev Vygotsky|维果茨基]]的社会文化理论强调，学习是一个深植于社会历史和人际交流的动态过程，单纯的因果生理逻辑无法解释意义的共同生成（Biesta et al., 2015; Vygotsky）。
 > - **新手限制**：CLT 的许多教学建议仅适用于新手的初始学习阶段。随着学习者转化为专家，原本有效的明确指导可能产生“专业反转效应”（Expertise Reversal Effect），反而增加外在负荷。
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-06-16
 > [!critique-fatal] 生物简化主义与赤字思维的政治风险
 > 批判政策社会学者指出，CLT 在被转换为政策话语时，暴露出深层的生物简化主义（Biological Reductionism）风险（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–7]])）：
 > 1. **隐性种族主义与“赤字思维”（Deficit Tropes）**：将复杂的社会经济不平等和[[Learning Gap|学习差距]]硬套入大脑结构和[[Working Memory|工作记忆]]容量的生物学解释，容易固化针对低社会经济地位（SES）或少数族裔学生的“赤字固定形象”（deficit fixed tropes），暗示其认知能力天生落后，从而为教育公平的推卸提供伪科学依据。
-> 2. **屏蔽历史局限与优生学阴影**：政策文本在强推基于大脑和认知负荷的科学话语时，系统性地对脑科学历史上曾与优生学（Eugenics）和心智测量歧视绑定的黑历史保持沉默，也完全忽视了[[OECD]]（2002, 2007）关于“神经科学绝非教育万能药”的严肃警告（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 7]])）。
+> 2. **[[Screening Off|屏蔽]]历史局限与优生学阴影**：政策文本在强推基于大脑和认知负荷的科学话语时，系统性地对脑科学历史上曾与优生学（Eugenics）和心智测量歧视绑定的黑历史保持沉默，也完全忽视了[[OECD]]（2002, 2007）关于“神经科学绝非教育万能药”的严肃警告（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 7]])）。
 
 > [!tension] 政策工具化与智库的[[Policy Network|理念编排]]
 > 在当前的教育治理中，CLT 被英澳等国的保守智库（如[[Centre for Independent Studies|CIS]]）和官方证据中介（如[[Education Endowment Foundation|EEF]]、[[Australian Education Research Organisation|AERO]]）高度工具化。

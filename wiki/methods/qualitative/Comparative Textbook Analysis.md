@@ -49,7 +49,7 @@ updated: 2026-05-26
 ## 认识论立场
 
 > [!abstract]
-> 属于**[[Constructivist Paradigm|社会建构主义]]和[[Critical Theory|批判理论]][[Paradigm|范式]]**。此方法的核心前提是：教科书不是[[Value Neutrality in Research|价值中立]]的"知识传递工具"，而是支配群体将其文化视角合法化为"[[Official Knowledge|官方知识]]"的场所（Apple & Christian-Smith, 1991，引自 [[Argument_Xu_2024_CE|Xu, 2024, pp.575–576]]）。不同社会政治情境下的教科书建构出不同的"国家想象"——比较分析的任务不仅是描述差异，更是追溯差异的社会政治根源。
+> 属于**[[Constructivist Paradigm|社会建构主义]]和[[Critical Theory|批判理论]][[Paradigm|范式]]**。此方法的核心前提是：教科书不是[[Value Neutrality|价值中立]]的"知识传递工具"，而是支配群体将其文化视角合法化为"[[Official Knowledge|官方知识]]"的场所（Apple & Christian-Smith, 1991，引自 [[Argument_Xu_2024_CE|Xu, 2024, pp.575–576]]）。不同社会政治情境下的教科书建构出不同的"国家想象"——比较分析的任务不仅是描述差异，更是追溯差异的社会政治根源。
 
 ## 研究程序
 

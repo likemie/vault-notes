@@ -277,7 +277,7 @@ updated: '2026-06-08'
 >
 > **斯堪的纳维亚的学校改进[[Transfer Translation Transformation|转译]]**：[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 提供了一条与商业化品牌扩张不同的接受路径。这里的 Hattie 既不是单纯的[[Effect Size|效应量]]排行榜作者，也不是外部问责工具的代名词，而是被转译为“学校为何必须围绕学习结果重组改进工作”的论据来源。其关键影响不在推广某个单一方法，而在推动学校把 [[Professional Judgment]]、教师协作、[[Knowledge Mobilisation|知识动员]]与学习结果评估重新绑在一起([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–69]])。
 >
-> **2009 年新西兰媒体风暴**：[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述 2009 年 1 月 *Sunday STAR Times* 头版报道《可见的学习》后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
+> **2009 年新西兰媒体风暴**：[[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述 2009 年 1 月 *Sunday STAR Times* 头版报道《可见的学习》后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是[[Counterfactual|反事实]]"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
 >
 > **丹麦**：2014 年学校改革明确引用《可见的学习》后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。[[Argument_Fredens_2015_Paideia|Fredens (2015)]] 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 认为 《可见的学习》核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *[[Hattie på dansk]]* (2017) 汇集多篇批评；[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
 >
@@ -366,7 +366,7 @@ updated: '2026-06-08'
 
 > [!warning] 教育哲学批评
 > - **[[Argument_Rømer_2018_EPT|Rømer (2018)]]** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
-> - **[[Argument_Larsen_2019_EducSci|Larsen (2019)]]** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是[[Value Neutrality in Research|价值中立]]的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"《可见的学习》在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
+> - **[[Argument_Larsen_2019_EducSci|Larsen (2019)]]** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是[[Value Neutrality|价值中立]]的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"《可见的学习》在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **[[Argument_Zhao_2017_JEC|Zhao (2017)]]** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
 > - **Nielsen & Klitmøller (2021, IRTP)** — 以 [[Jürgen Habermas|Habermas]] 合法化危机理论解释 《可见的学习》全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
 > - **Nielsen & Klitmøller (2021, NordPsych)** — 论证 Hattie 是教育理论家而非纯统计学家：追溯行为主义理论谱系（Skinner→Glaser→Hattie, 1987），对 《可见的学习》反馈效应（d=0.73）的 5 项最重元分析逐项审查，发现 4/5 未研究 Hattie 所定义的反馈（详见 [[Argument_Nielsen_2021_NordPsych]]）

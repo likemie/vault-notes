@@ -69,7 +69,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Success for All]]** — Slavin 与 Nancy Madden 共同创立的整体学校改革模式，在 48 个州超过 1,500 所学校实施，是 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一（ES = +0.41）。2002 年论文详细描述了 SFA 随机化评估的招募困难——最初 USD 30,000/校的激励不够，最终改为免费提供项目和延迟处理对照组设计。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]])
+> - **[[Success for All]]** — Slavin 与 Nancy Madden 共同创立的整体学校改革模式，在 48 个州超过 1,500 所学校实施，是 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一（ES = +0.41）。2002 年论文详细描述了 SFA [[Random Assignment|随机化]]评估的招募困难——最初 USD 30,000/校的激励不够，最终改为免费提供项目和延迟处理对照组设计。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]])
 > - **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])** — 免费网站，[[Systematic Review|系统综述]]各领域教育项目有效性研究
 > - **Evidence for ESSA** — 面向教育领导者、与 ESSA 证据标准对齐的项目信息网站，截至 2019 年 1 月月活用户超 7 万
 > - [[Evidence-Based Reform]] — 提出并持续推动该政策框架
@@ -102,4 +102,4 @@ Slavin 的立场代表 EBE 运动**最强版本**（evidence-based, not evidence
 > - **[[Conflict of Interest in Research|利益冲突]]**：Slavin 同时是 [[Success for All]] 创始者、[[Best Evidence Encyclopedia|BEE]] 创建者、Evidence for ESSA 创建者和 EBR 倡导者——倡导者与受益者的角色重叠在 [[Evidence-Based Education|EBE]] 辩论中引发对独立性的质疑。支持者回应：正因为他开发了成功的项目，才有信誉倡导 EBR。
 > - **对批判文献的回避**：Slavin 将 Biesta、Cowen、Deaton & Cartwright 等的系统批评笼统归为"怀疑论"，未进行实质性回应——形成与批判阵营平行的、互不对话的话语体系。
 > - **良性循环叙事的政治天真**：假设政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
-> - **方法论立场的演变**：Slavin 2002 年持平衡立场（"长期来看随机化和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。
+> - **方法论立场的演变**：Slavin 2002 年持平衡立场（"长期来看[[Random Assignment|随机化]]和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。

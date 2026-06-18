@@ -70,7 +70,7 @@ updated: '2026-05-18'
 
 [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 认为当目标是向从业者和政策制定者提供信息时——这正是 [[What Works Clearinghouse|WWC]] 的明示意图——门控程序是"合理的一个选择"（arguably a reasonable one）。
 
-其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是实验设计的必要条件（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
+其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是实验设计的[[Necessary and Sufficient Conditions|必要条件]]（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
 
 > 例：如果一项 [[Single-Case Design|SCD]] 研究的基线阶段只有 2 个数据点（不足以建立稳定的基线模式），即使其场所描述和参与者特征记录得非常详细，WWC 也不会将其纳入后续的推广性分析，因为"首先需要确保有一个可靠的效果存在"。
 

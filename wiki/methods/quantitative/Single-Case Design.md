@@ -127,7 +127,7 @@ updated: '2026-05-18'
 ## 内部效度与外部效度的关系
 
 
-[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
 
 > 例：如果一项 ABAB 设计的基线阶段数据点不足或测量信度存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 

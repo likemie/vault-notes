@@ -62,6 +62,6 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 受 **Cartwright & Hardie (2012)** 关于 [[Randomised Controlled Trials|RCT]] 仅适用于二选一决策的论证影响——这是 Peterson 论证"什么有效"需要改革的核心前提
-> - 受发展经济学随机化传统（**Duflo, Glennerster, & Kremer, 2006**）启发——[[Mechanism Experiments|机制实验]]的概念直接源自此传统
+> - 受发展经济学[[Random Assignment|随机化]]传统（**Duflo, Glennerster, & Kremer, 2006**）启发——[[Mechanism Experiments|机制实验]]的概念直接源自此传统
 > - 与 **Bryk et al. (2015)** 的[[Improvement Science|改进科学]]议程形成对话——Peterson 的整合方案试图桥接这两大对立[[Paradigm|范式]]
 > - 其"机制作为证据单位"的提案预示了后续教育研究中关于"核心成分"（core components）和"活性成分"（active ingredients）的讨论
