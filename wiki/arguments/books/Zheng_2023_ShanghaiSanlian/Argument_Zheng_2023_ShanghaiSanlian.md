@@ -72,6 +72,7 @@ related_concepts:
   - "[[Statistical Significance]]"
 related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
+  - "[[Rational Action Theory]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual Elite Career Paths]]"
   - "[[Social Capital Theory]]"
@@ -196,7 +197,7 @@ citation_aliases:
 
 作者[[Epoché|悬置]]"经济人"假设和再生产假设，转向从行动者层面理解：学生为何这样选择？其选择意图是如何在大学过程中形成的？
 
-前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭理性选择理论），但不一定仅基于经济利益计算——还可能受[[Max Weber|韦伯]]意义上的文化因素和价值理性引导。大学校园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
+前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭[[Rational Action Theory|理性选择理论]]），但不一定仅基于经济利益计算——还可能受[[Max Weber|韦伯]]意义上的文化因素和价值理性引导。大学校园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
 
 **第四步：建构理论框架**
 

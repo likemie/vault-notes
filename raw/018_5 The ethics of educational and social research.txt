@@ -1,0 +1,1012 @@
+5 The ethics of educational and social research
+===============================================
+
+The ethics of educational and social research
+
+CHAPTER 5
+
+In this chapter we review seriatim several issues in the ethical field. These constitute a set of initial considerations that researchers should address in planning research:
+
+[图片: images/018_5 The ethics of educational and social research/001_box.jpg | image]
+ informed consent
+
+[图片: images/018_5 The ethics of educational and social research/002_box.jpg | image]
+ gaining access to and acceptance in the research setting
+
+[图片: images/018_5 The ethics of educational and social research/003_box.jpg | image]
+ the nature of ethics in social research generally
+
+[图片: images/018_5 The ethics of educational and social research/004_box.jpg | image]
+ sources of tension in the ethical debate, including non-maleficence, beneficence and human dignity, absolutist and relativist ethics
+
+[图片: images/018_5 The ethics of educational and social research/005_box.jpg | image]
+ problems and dilemmas confronting the researcher, including matters of privacy, anonymity, confidentiality, internet ethics, betrayal and deception
+
+[图片: images/018_5 The ethics of educational and social research/006_box.jpg | image]
+ ethical problems endemic in particular research methods
+
+[图片: images/018_5 The ethics of educational and social research/007_box.jpg | image]
+ ethics and evaluative research
+
+[图片: images/018_5 The ethics of educational and social research/008_box.jpg | image]
+ regulatory ethical frameworks, guidelines, codes of practice for research and university ethics committees
+
+[图片: images/018_5 The ethics of educational and social research/009_box.jpg | image]
+ personal codes of practice
+
+[图片: images/018_5 The ethics of educational and social research/010_box.jpg | image]
+ sponsored research
+
+[图片: images/018_5 The ethics of educational and social research/011_box.jpg | image]
+ responsibilities to the research community
+
+These provide a useful overview of key considerations planning educational research, and are intended to guide the reader through a maze of ethical concerns in educational research, and the foundations on which they are built. The chapter provides practical examples of checklists of ethics considerations.
+
+5.1 Introduction
+
+The awareness of ethical concerns in research is reflected in the growth of relevant literature and in the appearance of regulatory codes of research practice formulated by various agencies and professional bodies.1 A major ethical dilemma is that which requires researchers to strike a balance between the demands placed on them as professional scientists in pursuit of truth, and their subjects’ rights and values potentially threatened by the research. This is known as the ‘costs/benefits ratio’, the essence of which is outlined by Frankfort-Nachmias and Nachmias (1992) in Box 5.1, and is a concept we return to later in the chapter. Ethical problems for researchers can multiply surprisingly when they move from the general to the particular, and from the abstract to the concrete.
+
+BOX 5.1 THE COSTS/BENEFITS RATIO
+
+The costs/benefits ratio is a fundamental concept expressing the primary ethical dilemma in social research. In planning their proposed research, social scientists have to consider the likely social benefits of their endeavours against the personal costs to the individuals taking part. Possible benefits accruing from the research may take the form of crucial findings leading to significant advances in theoretical and applied knowledge. Failure to do the research may cost society the advantages of the research findings and ultimately the opportunity to improve the human condition. The costs to participants may include affronts to dignity, embarrassment, loss of trust in social relations, loss of autonomy and self-determination and lowered self-esteem. On the other hand, the benefits to participants could take the form of satisfaction in having made a contribution to science and a greater personal understanding of the research area under scrutiny. The process of balancing benefits against possible costs is chiefly a subjective one and not at all easy. There are few or no absolutes and researchers have to make decisions about research content and procedures in accordance with professional and personal values. This costs/benefits ratio is the basic dilemma residual in a great deal of social research.
+
+Source: Adapted from Frankfort-Nachmias and Nachmias, 1992
+
+Ethical issues may stem from the kinds of problems investigated by social scientists and the methods they use to obtain valid and reliable data. This means that each stage in the research sequence raises ethical issues. They may arise from the nature of the research project itself (ethnic differences in school achievement, for example); the context for the research (a home for young offenders); the procedures to be adopted (producing high levels of anxiety); methods of data collection (covert observation); the nature of the participants (emotionally challenged adolescents); the type of data collected (highly personal and sensitive information); and what is to be done with the data (publishing in a manner that may cause participants embarrassment or harm); reporting the data (e.g. in a way that the participants will understand) (Oliver, 2003: 17).
+
+In this chapter we present a conspectus of the main issues that may confront researchers. Each research undertaking is an event sui generis, and the conduct of researchers cannot be, indeed should not be, forced into a Procrustean system of ethics. When it comes to the resolution of a specific moral problem, each situation frequently offers a spectrum of possibilities. Ethics are ‘situated’, i.e. they have to be interpreted in specific, local situations (Simons and Usher, 2000).
+
+Whilst many of the issues addressed in this chapter concern procedural ethics, we have to recall that ethics concern right and wrong, good and bad, and so procedural ethics are not enough; one has to consider how the research purposes, contents, methods, reporting and outcomes abide by ethical principles and practices.
+
+For example, a deontological view of ethics concerns what one has a duty or obligation to undertake. It involves treating people as ends in themselves rather than as means (Howe and Moses, 1999: 22). By contrast, a consequentialist view of ethics concerns the outcomes of actions, for example the utilitarian view that ethical behaviour is that which produces the greatest good for the greatest number. In this view a costs/benefits analysis is considered, but this is problematical, as (a) it is unclear which costs and which benefits should be factored into the analysis, and (b) it assumes that all costs and all benefits are of the same strength (Howe and Moses, 1999: 23).
+
+A third view is a virtue ethics basis, in which one pursues what is good simply because it is good and right. These may not sit comfortably together; for example a utilitarian view might argue that a person who has a healthy body and healthy organs should be killed, and his organs used to save five or six lives of those who would otherwise die, whereas a virtue ethics viewpoint (Hammersley, 2009: 213) would argue that this is murder and cannot be justified.
+
+A further example of values clashing is where a deontological view might argue that a failing school should be closed, whereas a utilitarian view would argue against its closure because those 2,000 students would go to an even worse school. An argument from the standpoint of situational ethics (e.g. Simons and Usher, 2000; Oliver, 2003), i.e. that what we should do or what is right to do depends on the situation in question, could be challenged on the grounds that it sanctions relativist ethics over absolutist principles (e.g. in debates on euthanasia or abortion).
+
+Seedhouse (1998a) suggests that there are four layers of ethical decisions which, together, constitute an ‘epistemological device’ (Stutchbury and Fox, 2009: 492) for considering ethical issues in research:
+
+[图片: images/018_5 The ethics of educational and social research/012_box.jpg | image]
+ external (e.g. codes of practice, laws);
+
+[图片: images/018_5 The ethics of educational and social research/013_box.jpg | image]
+ consequential (consequences for individuals, groups, society);
+
+[图片: images/018_5 The ethics of educational and social research/014_box.jpg | image]
+ deontological (what is one’s duty to do, largely regardless of consequences, and how decisions about this are reached, rather than the consequences of these actions);
+
+[图片: images/018_5 The ethics of educational and social research/015_box.jpg | image]
+ individual (the core rationale of respect for individual freedom and autonomy).
+
+These can be presented in an ethical grid, a three-dimensional pyramid (Figure 5.1) (one has to imagine that one is looking down on a pyramid) (see also Stutchbury and Fox, 2009: 492).
+
+Ethical decisions have to work in all four layers of the pyramid simultaneously, and this may give rise to points of conflict within and between the different layers of the pyramid, for example, individual and external layers might conflict (e.g. if I find that my friend, who is a school principal, is putting school funds to questionable use, should I report it and lose a friend, or keep silent and, thereby, collude to prevent the public from hearing what it needs to hear). Stutchbury and Fox (2009) provide a clear analysis of Seedhouse’s pyramidal grid and indicate important questions to be raised at each level of the grid.
+
+Ethical decisions are built on ethical principles, but different ethical principles may conflict (Hammersley, 2009), and we explore this in the chapter.
+
+This chapter exposes the problematic nature of many key ethical issues in educational research, and, in a sense, though we devote a particular section of the chapter to ethical dilemmas, the whole of the chapter suggests that ethics in educational research is fraught with dilemmas. We start with one of the fundamental concepts in research: informed consent.
+
+[图片: images/018_5 The ethics of educational and social research/016_f0077-01.jpg | image]
+
+FIGURE 5.1 Seedhouse’s ethical pyramidal grid
+
+Source: Adapted from seedhouse, 1998b
+
+5.2 Informed consent
+
+Much social research necessitates obtaining the consent and cooperation of subjects who are to assist in investigations and of significant others in the institutions or organizations providing the research facilities. Whilst some cultures may not be stringent about informed consent, in others there are strict protocols for informed consent. Frankfort-Nachmias and Nachmias (1992) suggest that informed consent is particularly important if participants are going to be exposed to any stress, pain, invasion of privacy, or if they are going to lose control over what happens (e.g. in drug research); such informed consent requires full information about the possible consequences and dangers. Informed consent, aver Howe and Moses (1999), is a cornerstone of ethical behaviour, as it respects the right of individuals to exert control over their lives and to take decisions for themselves.
+
+The principle of informed consent arises from the subject’s right to freedom and self-determination. Being free is a condition of living in a democracy, and when restrictions and limitations are placed on that freedom they must be justified and consented to, as in research. Consent thus protects and respects the right of self-determination and places some of the responsibility on the participant should anything go wrong in the research. Self-determination requires participants to have the right to weigh up the risks and benefits of being involved in a piece of research, and deciding for themselves whether to take part (Howe and Moses, 1999: 24). As part of the right to self-determination, the subject has the right to refuse to take part, or to withdraw once the research has begun (see Frankfort-Nachmias and Nachmias, 1992). Thus informed consent implies informed refusal.
+
+Informed consent has been defined by Diener and Crandall as ‘the procedures in which individuals choose whether to participate in an investigation after being informed of facts that would be likely to influence their decisions’ (Diener and Crandall, 1978: 57). This definition involves four elements: competence, voluntarism, full information and comprehension. ‘Competence’ implies that responsible, mature individuals will make correct decisions if they are given the relevant information. It is incumbent on researchers to ensure they do not engage individuals incapable of making such decisions either because of immaturity or some form of psychological impairment.
+
+‘Voluntarism’ entails applying the principle of informed consent and thus ensuring that participants freely choose to take part (or not) in the research and guarantees that exposure to risks is undertaken knowingly and voluntarily. This element can be problematical, especially in the field of medical research where unknowing patients are used as guinea pigs. ‘Full information’ implies that consent is fully informed, though in practice it is often impossible for researchers to inform subjects on everything, e.g. on the statistical treatment of data; and, as we shall see below, on those occasions when the researchers themselves do not know everything about the investigation. In such circumstances, the strategy of reasonably informed consent has to be applied. Box 5.2 illustrates a set of guidelines used in the USA that are based on the idea of reasonably informed consent.2 ‘Comprehension’ refers to the fact that participants fully understand the nature of the research project, even when procedures are complicated and entail risks. Suggestions have been made to ensure that subjects fully comprehend the situation they are putting themselves into, e.g. by using highly educated subjects, by engaging a consultant to explain difficulties, or by building into the research scheme a time lag between the request for participation and decision time.
+
+If these four elements are present, researchers can be assured that subjects’ rights will have been given appropriate consideration. As Frankfort-Nachmias and Nachmias (1992) note, however, informed consent may not always be necessary (e.g. deception may be justified), but that, as a general rule, the greater the risk, the more important it is to gain informed consent.
+
+Ruane (2005: 21) also raises the question of ‘how much information is enough’; she argues that this may be an unknown, not necessarily deliberately withheld. Further, just as providing information may bias the results (i.e. it is important for the integrity of the research not to disclose its purposes or contents, e.g. the Milgram experiments, see Chapter 26), she argues that it may actually confuse the respondents.
+
+From the remarks on informed consent so far, we may appear to be assuming relationships between peers – researcher and teachers, for example, or research professor and postgraduate students and this assumption would seem to underpin many of the discussions of an ethical nature in the research literature generally. However, much educational research involves children who cannot be regarded as being on equal terms with the researcher and it is important to keep this in mind at all stages in the research process including the point where informed consent is sought. In this connection we refer to the important work of Fine and Sandstrom (1988), whose ethnographic and participant observational studies of children and young people focus, among other issues, on this asymmetry with respect to the problems of obtaining informed consent from their young subjects and explaining the research in a comprehensible fashion. As a guiding principle, they advise that, while it is desirable to lessen the power differential between children and adult researchers, the difference will remain and its elimination may be ethically inadvisable.
+
+BOX 5.2 GUIDELINES FOR REASONABLY INFORMED CONSENT
+
+1 A fair explanation of the procedures to be followed and their purposes.
+
+2 A description of the attendant discomforts and risks reasonably to be expected.
+
+3 A description of the benefits reasonably to be expected.
+
+4 A disclosure of appropriate alternative procedures that might be advantageous to the participants.
+
+5 An offer to answer any enquiries concerning the procedures.
+
+6 An instruction that the person is free to withdraw consent and to discontinue participation in the project at any time without prejudice to the participant.
+
+Source: US Department of Health, Education and Welfare,
+Institutional Guide to DHEW Policy, 1971
+
+There are other aspects of the problem of informed consent (or refusal) in relation to young, or very young, children (Greig and Taylor, 1999: 143–55), not the least of which is to abide by the requirements of legislation on working with children and on child protection. Greig and Taylor argue (1999: 150) that non-therapeutic research should only be conducted with children where there is negligible risk and where the informed consent of gatekeepers (e.g. guardians and parents) has been obtained in advance, including how data will be stored (e.g. ICT-related issues), destroyed (e.g. of confidential data or audio/visual recordings) upon completion of the research and, indeed, how recording data may be switched off during an interview, and how data will be used. For a fuller guide on ethical issues in conducting research on early childhood education see Mukherji and Albon (2010).
+
+Gatekeepers are in a very responsible position and they should not be overlooked. Oliver (2003: 39) comments that they have much more at stake – to lose – than researchers, since, whereas researchers can move on from one participant or research field to another, gatekeepers live with the daily consequences of the research and its effects on participants. Researchers, therefore, have an ethical obligation to seek informed consent of gatekeepers.
+
+Seeking informed consent with regard to minors involves two stages. First, researchers consult and seek permission from those adults responsible for the prospective subjects and second, they approach the young people themselves. The adults in question will be, for example, parents, teachers, tutors or psychiatrists, youth leaders or team coaches, depending on the research context. The point of the research will be explained, questions invited and permission to proceed to the next stage sought. Objections, for whatever reason, will be duly respected. Obtaining approval from relevant adults may be more difficult than in the case of the children, but, being sensitive to children’s welfare, it is vital that researchers secure such approval. It may be useful if, in seeking the consent of children, researchers bear in mind the provisory comments below.
+
+While seeking children’s permission and cooperation is an automatic part of quantitative research (a child cannot unknowingly complete a simple questionnaire), the importance of informed consent in qualitative research is not always recognized. Speaking of participant observation, for example, Fine and Sandstrom (1988) say that researchers must provide a credible and meaningful explanation of their research intentions, especially in situations where they have little authority, and that children must be given a real and legitimate opportunity to say that they do not want to take part. The authors advise that where subjects do refuse, they should not be questioned, their actions should not be recorded and they should not be included in any book or article (even under a pseudonym). Where they form part of a group, they may be included as part of a collectivity. Fine and Sandstrom consider that such rejections are sometimes a result of mistrust of the researcher. They suggest that at a later date, when the researcher has been able to establish greater rapport with the group, those who refused initially may be approached again, perhaps in private.
+
+Two particular groups of children require special mention: very young children, and those not capable of making a decision. Researchers intending to work with pre-school or nursery children may dismiss the idea of seeking informed consent from their would-be subjects because of their age, but Fine and Sandstrom (1988) would recommend otherwise. Even though such children would not understand what research was, the authors advise that the children be given some explanation. For example, one to the effect that an adult will be watching and playing with them might be sufficient to provide a measure of informed consent consistent with the children’s understanding. As Fine and Sandstrom (1988) comment, ‘children should be told as much as possible, even if some of them cannot understand the full explanation. Their age should not diminish their rights, although their level of understanding must be taken into account in the explanations that are shared with them.’
+
+The second group consists of those children who are to be used in a research project and who may not meet Diener and Crandall’s (1978) criterion of ‘competence’ (a group of psychologically impaired children, for example – the issue of ‘advocacy’ applies here). In such circumstances there may be institutional or local authority guidelines to follow. In the absence of these, the requirements of informed consent would be met by obtaining the permission of headteachers acting in loco parentis or who have had delegated to them the responsibility for providing informed consent by the parents.
+
+Two cautions: first, where an extreme form of research is planned, parents would have to be fully informed in advance and their consent obtained; and second, whatever the nature of the research and whoever is involved, should a child show signs of discomfort or stress, the research should be terminated immediately. For further discussion on the care that needs to be exercised in working with children we refer readers to Greig and Taylor (1999); Holmes (1998) and Graue and Walsh (1998).
+
+Informed consent not only applies to children, but to a range of vulnerable groups (adults, the disabled, those who cannot speak, see or hear, those in hospital, those in care, those suffering from autism (cf. Waltz, 2007), even children undergoing neuroimaging research (Coch, 2007)). Oliver (2003: 35–6) defines vulnerable groups as ‘those individuals or categories of people who may not have the required degree of understanding (for whatever reason) to give their informed consent to participation in research’. In many cases ethics committees will require a full indication of how the ethics of the research will be addressed, and this requires researchers to ‘think hard’ about ethical issues (Crow et al., 2006: 86).
+
+Informed consent requires an explanation and description of several factors, including, for example:
+
+[图片: images/018_5 The ethics of educational and social research/017_box.jpg | image]
+ the purposes, contents, procedures, reporting and dissemination of the research;
+
+[图片: images/018_5 The ethics of educational and social research/018_box.jpg | image]
+ any foreseeable risks and negative outcomes, discomfort or consequences and how they will be handled;
+
+[图片: images/018_5 The ethics of educational and social research/019_box.jpg | image]
+ benefits that might derive from the research;
+
+[图片: images/018_5 The ethics of educational and social research/020_box.jpg | image]
+ incentives to participate and rewards from participating;
+
+[图片: images/018_5 The ethics of educational and social research/021_box.jpg | image]
+ right to voluntary non-participation, withdrawal and re-joining the project;
+
+[图片: images/018_5 The ethics of educational and social research/022_box.jpg | image]
+ rights and obligations to confidentiality and nondisclosure of the research, participants and outcomes;
+
+[图片: images/018_5 The ethics of educational and social research/023_box.jpg | image]
+ disclosure of any alternative procedures that may be advantageous;
+
+[图片: images/018_5 The ethics of educational and social research/024_box.jpg | image]
+ opportunities for participants to ask questions about any aspect of the research;
+
+[图片: images/018_5 The ethics of educational and social research/025_box.jpg | image]
+ signed contracts for participation.
+
+Researchers who seek informed consent must ensure – check – that participants really do understand the implications of the research, not mindlessly sign a consent form. There are many more issues, and researchers will need to decide what to include in informed consent. Not least amongst these is the issue of volunteering. Participants may feel coerced or pressurized to volunteer (e.g. by a school principal), or may not wish to offend a researcher by refusing to participate, or may succumb to peer pressure to volunteer (or not to volunteer), or may wish to volunteer for reasons other than the researcher’s (e.g. to malign a school principal or senior colleagues, to gain resources for his or her department, or to gain approval from colleagues). Indeed it is important to ensure that participants are not ‘railroaded’ into participating, e.g. by a school principal who makes the decision for the staff, or where staff are not given sufficient time to come to a decision on whether or not to participate, or where staff do not wish to appear unhelpful to researchers (who, indeed, may be friends or acquaintances of the researcher), even though they actually would rather not take part in the research (Oliver, 2003: 27). The choice on whether or not to participate must be genuinely free, with no negative repercussions for not taking part, and no feelings of researchers having taken advantage of powerless participants.
+
+The issue is also raised here of whether participants should be given inducements to participate, such as payment, gifts or the opportunity to enter a ‘lucky draw’. On the one hand the argument runs that any kind of material inducement distorts a genuine relationship between the researcher and the participants, such that participants may say something only because they will be paid for it, or may give perfunctory information just to be able to obtain the reward, and whose commitment is actually very small. On the other hand participants are giving their time and effort to the research, so they should be paid for it, just as in other kinds of work (cf. Oliver, 2003: 23 and 59). Researchers have to ensure that volunteers have real freedom of choice if informed consent is to be fulfilled.
+
+Arguments against informed consent
+
+It must also be remembered that there are some research methods where it is impossible to seek informed consent. Covert observation, for example, as used in Patrick’s study of a Glasgow gang (Chapter 11), or experimental techniques involving deception, as in Milgram’s Obedience-to-authority experiments (Chapter 26) would, by their very nature, rule out the option. And, of course, there may be occasions when problems arise even though consent has been obtained. Burgess (1989), for example, cites his own research in which teachers had been informed that research was taking place but in which it was not possible to specify exactly what data would be collected or how they would be used. It could be said, in this particular case, that individuals were not fully informed, that consent had not been obtained and that privacy had been violated.
+
+Some researchers advocate informed consent on the grounds that it yields better data because it is a consequence of establishing rapport and trust between researchers and participants (e.g. Crow et al., 2006: 76). Indeed it might bring better participation rates in research, as participants might be more likely to agree to being involved if they are given the ‘full picture’ of the research or if assurances of confidentiality are given.
+
+On the other hand, informed consent is seen less positively, as it renders some research (e.g. necessarily covert research) unresearchable, as it provides poorer participation rates where some participants may be reluctant to sign a consent form or may regard the research as too bureaucratic (Crow et al., 2006: 88), antagonistic, coercive and alienating. Indeed it might be seen as bringing a level of formality into what some cultures and communities would prefer to keep on an informal footing (Crow et al., 2006: 88–9), be they lower social groups or powerful persons (and the latter might find several ways of concealing their true views). Indeed Howe and Moses (1999: 33–4) argue that informed consent does not only mean that of the individual but of the community; they write: ‘it is not up to the individual community members to give informed consent to have social researchers peering into the social life of the community, for it is not always theirs to give’.
+
+Informing people of the research might provoke the Hawthorne effect (discussed in Chapter 10) or might disturb the natural behaviour of participants (Oliver, 2003: 53) as they will be conscious of being watched.
+
+Seeking formal informed consent might lead to a narrow range of data and a neglect of the richest, most authentic data, as participants might become more guarded in what they disclose (e.g. about relationships). Indeed in some cultures, Oliver (2003: 103) writes, participants may find it an unusual experience to be asked to complete a questionnaire, and they may regard it as a ‘test’. Howe and Moses (1999: 89) ask how realistic it is to obtain informed consent from both parents, to interview their child, if the parents are separated. The effects of all of these difficulties might lead to research only concerning itself with ‘safe’, easily researchable topics and to the neglect of research into vulnerable and excluded groups. As Humphreys (1975), the author of the celebrated study Tearoom Trade (1970), a study of homosexual meeting arrangements, wrote in his 1975 postscript on ethics: ‘the greatest harm a social scientist could do to this man would be to ignore him’ (p. 169).
+
+Informed consent may not be possible in covert research, or research in which important yet sensitive issues or groups are being investigated (see Chapter 9), as it is only through covert research and perhaps deception that one can gain access to such sensitive groups or practices. It might be important to research such groups (see Mitchell’s (1993) defence of secrecy in research for the public good).
+
+Wax (1982: 44) holds a powerful position against informed consent, arguing that it offers both ‘too much and too little’: ‘too much’ in the sense that it is ‘overscrupulous and disruptive’, particularly in emergent situations and qualitative research where casual conversations figure highly as field notes, and ‘too little’ in the sense that field researchers often require much more than informed consent, for example they seek trust, ‘active assistance’ from participants and ‘colleagueship’. Indeed he suggests that informed consent reinforces asymmetries of power between researchers and participants, rather than equalizing them. Wax makes a telling point (p. 42) that informed consent in many kinds of research is not a ‘one-shot, once-and-for-all’ affair (as befits experimental research rather than qualitative or ethnographic research), but has to be continuously negotiated in qualitative, emergent research.
+
+As a general rule, however, informed consent is an important principle. It is this principle that will form the basis of an implicit contractual relationship between the researcher and the researched and will serve as a foundation on which subsequent ethical considerations can be structured.
+
+5.3 Access and acceptance
+
+The relevance of the principle of informed consent becomes apparent at the initial stage of the research project – that of access to the institution or organization where the research is to be conducted, and acceptance by those whose permission one needs before embarking on the task. We highlight this stage of access and acceptance in particular at this point because it offers the best opportunity for researchers to present their credentials as serious investigators and establish their own ethical position with respect to their proposed research.
+
+Investigators cannot expect access to a nursery, school, college or university as a matter of right. They have to demonstrate that they are worthy, as researchers and human beings, of being accorded the facilities needed to carry out their investigations. The advice of Bell (1991: 37) is to gain permission early on, with fully informed consent gained, and indicating to participants the possible benefits of the research.
+
+The first stage thus involves the gaining of official permission to undertake one’s research in the target community. This will mean contacting, in person or in writing, an appropriate official and/or the chairperson of the governors if one is to work in a school, along with the headteacher or principal. At a later point, significant figures who will be responsible for, or assist in, the organization and administration of the research will also need to be contacted – the deputy head or senior teacher, for instance, and most certainly the class teacher if children are to be used in the research. Since the researcher’s potential for intrusion and perhaps disruption is considerable, amicable relations with the classteacher in particular should be fostered as expeditiously as possible. If the investigation involves teachers as participants, propositions may have to be put to the stakeholders and conditions negotiated. Where the research is to take place in another kind of institution, the approach will be similar, although the organizational structure will be different.
+
+Achieving goodwill and cooperation is especially important where the proposed research extends over a period of time: days, perhaps, in the case of an ethnographic study; months (or perhaps years) where longitudinal research is involved. Access does not present quite such a problem when, for example, a one-off survey requires respondents to give up half-an-hour of their time or when a researcher is normally a member of the organization where the research is taking place (an insider), though in the case of the latter, it is generally unwise to take cooperation for granted. Where research procedures are extensive and complicated, however, or where the design is developmental or longitudinal, or where researchers are not normally based in the target community, the problems of access are more involved and require greater preparation. Box 5.3 gives a flavour of the kinds of accessibility problems that can be experienced (Foster, 1989).
+
+Having identified the official and significant figures whose permission must be sought, and before actually meeting them, researchers will need to clarify in their own minds the precise nature and scope of their research. It is desirable that they have a total picture of what it all entails, even if the overall scheme is a provisional one (though we have to bear in mind that this may cause diffculties later). In this respect researchers could, for instance, identify the aims of the research; its practical applications, if any, the design, methods and procedures to be used, the nature and size of samples or groups, what tests are to be administered and how, what activities are to be observed, which subjects are to be interviewed, observational needs, the time involved, the degree of disruption envisaged, arrangements to guarantee confidentiality with respect to data (if this is necessary), the role of feedback and how findings can best be disseminated, the overall timetable within which the research is to be encompassed, and finally, whether assistance will be required in the organization and administration of the research.
+
+By such planning and foresight, both researchers and institutions will have a good idea of the demands likely to be made on both subjects (be they children or teachers) and organizations. It is also a good opportunity to anticipate and resolve likely problems, especially those of a practical kind. A long, complicated questionnaire, for example, may place undue demands on the comprehension skills and attention spans of a particular class of 13-year-olds or a relatively inexperienced teacher could feel threatened by sustained research scrutiny. Once this kind of information has been sorted out and clarified, researchers will be in a stronger position to discuss their proposed plans in an informed, open and frank manner (though not necessarily too open, as we shall see) and may thereby more readily gain permission, acceptance, and support. It must be remembered that hosts will have perceptions of researchers and their intentions and that these need to be positive. Researchers can best influence such perceptions by presenting themselves as competent, trustworthy and accommodating.
+
+Once this preliminary information has been collected, researchers are duly prepared for the next stage: making actual contact in person, perhaps after an introductory letter, with appropriate people in the organization with a view to negotiating access. If the research is university-based, they will have the support of their university and supervisor. Festinger and Katz (1966) consider that there is real economy in going to the very top of the organization or system in question to obtain assent and cooperation. This is particularly so where the structure is clearly hierarchical and where lower levels are always dependent on their superiors. They consider it likely that the nature of the research will be referred to the top of the organization sooner or later, and that there is a much better chance for a favourable decision if leaders are consulted at the outset. It may also be the case that heads will be more open-minded than those lower down, who because of their insecurity may be less cooperative.
+
+BOX 5.3 CLOSE ENCOUNTERS OF A RESEARCHER KIND
+
+My first entry into a staffroom at the college was the occasion of some shuffling and shifting of books and chairs so that I could be given a comfortable seat whilst the tutor talked to me from a standing position. As time progressed my presence was almost taken for granted and later, when events threatened the security of the tutors, I was ignored. No one enquired as to whether they could assist me and my own enquiries were met with cursory answers and confused looks, followed by the immediate disappearance of the individuals concerned, bearing a pile of papers. I learned not to make too many enquiries. Unfortunately, when individuals feel insecure, when their world is threatened with change that is beyond their control, they are likely to respond in an unpredictable manner to persons within their midst whose role is unclear, and the role of the researcher is rarely understood by those not engaged in research.
+
+Source: Foster, 1989: 194
+
+The authors also warn against using the easiest entrances into the organization when seeking permission. Researchers may perhaps seek to come in as allies of individuals or groups who have a special interest to exploit and who see research as a means to their ends, rather than entering the situation in the common interests of all parties, with findings equally available to all groups and persons (Festinger and Katz, 1966). Investigators should thus seek as broad a basis for their support as possible. Other potential problems may be circumvented by making use of accepted channels of communication in the institution or organization. Festinger and Katz caution (1966) that if information is limited to a single channel then the study risks becoming identified with the interests that are associated with that channel.
+
+Following contact, there will be a negotiation process. At this point researchers will give as much information about the aims, nature and procedures of the research as is appropriate. This is very important: information that may prejudice the results of the investigation may have to be withheld. Aronson and Carlsmith (1969), for instance, note that one cannot imagine researchers who are studying the effects of group pressure on conformity announcing their intentions in advance. On the other hand, researchers may find themselves on dangerous ground if they go to the extreme of maintaining a ‘conspiracy of silence’, because, as Festinger and Katz (1966) note, such a stance is hard to keep up if the research is extensive and lasts over several days or weeks, and trying to preserve secrecy might lead to an increase in the spread and wildness of rumours. If researchers do not want their potential hosts and/or subjects to know too much about specific hypotheses and objectives, then a simple way out is to present an explicit statement at a fairly general level with one or two examples of items that are not crucial to the study as a whole. As most research entails some risks, especially where field studies are concerned, and as the presence of an observer scrutinizing various aspects of community or school life may not be relished by all in the group, investigators must at all times manifest a sensitive appreciation of their hosts’ and subjects’ position and reassure anyone who feels threatened by the work. Such reassurance could take the form of a statement of conditions and guarantees given by researchers at this negotiation stage. By way of illustration, Box 5.4 contains conditions laid down for the Open University students’ school-based research project.
+
+Ethical considerations pervade the whole process of research; these will be no more so than at the stage of access and acceptance, where appropriateness of topic, design, methods, guarantees of confidentiality, analysis and dissemination of findings must be negotiated with relative openness, sensitivity, honesty, accuracy and scientific impartiality. There can be no rigid rules in this context. It will be a case of formulating and abiding by one’s own situated ethics. These will determine what is acceptable and what is not acceptable. As Hitchcock and Hughes say in this regard:
+
+Individual circumstances must be the final arbiter. As far as possible it is better if the teacher can discuss the research with all parties involved. On other occasions it may be better for the teacher to develop a pilot study and uncover some of the problems in advance of the research proper. If it appears that the research is going to come into conflict with aspects of school policy, management styles, or individual personalities, it is better to confront the issues head on, consult relevant parties, and make rearrangements in the research design where possible or necessary.
+
+(Hitchcock and Hughes, l995: 41)
+
+BOX 5.4 CONDITIONS AND GUARANTEES PROFFERED FOR A SCHOOL-BASED RESEARCH PROJECT
+
+1 All participants must be given the chance to remain anonymous.
+
+2 All data must be given strict confidentiality.
+
+3 Interviewees should have the chance to verify statements at the stage of drafting the report (respondent validation).
+
+4 Participants should be given a copy of the final report.
+
+5 Permission for publication must be gained from the participants.
+
+6 If possible, the research report should be of benefit to the school and participants.
+
+Source: Adapted from Bell, 1991
+
+A pilot study can be useful to judge the effects of a piece of research on participants (Oliver, 2003: 37). Where a pilot study is not feasible it may be possible to arrange one or two scouting forays to assess possible problems and risks. By way of summary, we refer the reader to Box 5.5.
+
+5.4 The field of ethics
+
+Whatever the specific nature of their work, social researchers must take into account the effects of the research on participants, and act in such a way as to preserve their dignity as human beings: this is their responsibility to participants. Such is ethical behaviour. Indeed, ethics has been defined as ‘a matter of principled sensitivity to the rights of others’, and that ‘while truth is good, respect for human dignity is better’ (Cavan, 1977: 810).
+
+Kimmel (1988) has pointed out that it is important we recognize that the distinction between ethical and unethical behaviour is not dichotomous, even though the normative code of prescribed (‘ought’) and proscribed (‘ought not’) behaviours, as represented by the ethical standards of a profession, seem to imply that it is. Judgements about whether behaviour conflicts with professional values lie on a continuum that ranges from the clearly ethical to the clearly unethical. The point here is that ethical principles are not absolute, generally speaking, though some maintain that they are as we shall see shortly, but must be interpreted in the light of the research context and of other values at stake.
+
+BOX 5.5 NEGOTIATING ACCESS CHECKLIST
+
+1 Clear official channels by formally requesting permission to carry out your investigation as soon as you have an agreed project outline.
+
+Some local education authorities (LEAs) insist that requests to carry out research are channelled through the LEA office. Check what is required in your area.
+
+2 Speak to the people who will be asked to cooperate.
+
+Getting the LEA or head’s permission is one thing, but you need to have the support of the people who will be asked to give interviews or complete questionnaires.
+
+3 Submit the project outline to the head, if you are carrying out a study in your or another educational institution.
+
+List people you would like to interview or to whom you wish to send questionnaires and state conditions under which the study will be conducted.
+
+4 Decide what you mean by anonymity and confidentiality.
+
+Remember that if you are writing about ‘the head of English’ and there is only one head of English in the school, the person concerned is immediately recognizable.
+
+5 Decide whether participants will receive a copy of the report and/or see drafts or interview transcripts.
+
+There are cost and time implications. Think carefully before you make promises.
+
+6 Inform participants what is to be done with the information they provide.
+
+For your eyes and those of the examiner only? Shown to the head, the LEA, etc.?
+
+7 Prepare an outline of intentions and conditions under which the study will be carried out to hand to the participants.
+
+Even if you explain the purpose of the study the conditions and the guarantees, participants may forget.
+
+8 Be honest about the purpose of the study and about the conditions of the research.
+
+If you say an interview will last ten minutes, you will break faith if it lasts an hour. If you are conducting the investigation as part of a degree or diploma course, say so.
+
+9 Remember that people who agree to help are doing you a favour.
+
+Make sure you return papers and books in good order and on time. Letters of thanks should be sent, no matter how busy you are.
+
+10 Never assume ‘it will be all right’. Negotiating access is an important stage in your investigation.
+
+If you are an inside researcher, you will have to live with your mistakes, so take care.
+
+Source: Adapted from Bell, 1991
+
+Of course, a considerable amount of research does not cause pain or indignity to the participants, self-esteem is not necessarily undermined nor confidences betrayed, and the social scientist may only infrequently be confronted with an unresolvable ethical dilemma. Where research is ethically sensitive, however, many factors may need to be taken into account and these may vary from situation to situation, for example: the age of those being researched; whether the subject matter of the research is a sensitive area; whether the aims of the research are in any way subversive (vis-à-vis subjects, teachers or institution); the extent to which the researcher and researched can participate and collaborate in planning the research; how the data are to be processed, interpreted and used.
+
+Ethics also features in discussions of ownership of the data, and when the ownership passes from the participants to the researcher, and with what constraints, requirements, conditions and powers over the use and dissemination of the findings placed upon the data by the participants (cf. Howe and Moses, 1999: 43). Researchers need to be clear whether they own the data, once the data have been given, or whether the participants have control over what is released, and to whom; this should be agreed, where possible, before the research commences. Oliver (2003: 63), for example, argues that the raw data are still the property of the participants, but once the data have been analysed and interpreted, they become the property of the researcher. This is unclear, however, as it does not cover, for example, observational data, field notes and suchlike, which are written by the researcher though often about other people. Negotiating ownership rights, rights to release or withdraw data, rights to control access to data, rights to verify and validate data, rights to vet data or see interim or incomplete or uncompleted reports, rights to select data and decide on their representativeness, rights to own or change the final report, rights to retain data after the research (e.g. for other purposes, as in the ongoing compilation of a longitudinal or comparative study), move the conduct of research beyond being a mechanical exercise to being an ethical exercise (cf. Oliver, 2003: 63–5).
+
+5.5 Sources of tension
+
+Non-maleficence, beneficence and human dignity
+
+The first tension, as expressed by Aronson and Carlsmith (1969), is that which exists between two sets of related values held by society: a belief in the value of free scientific enquiry in pursuit of truth and knowledge; and a belief in the dignity of individuals and their right to those considerations that follow from it. It is this polarity that we referred to earlier as the costs/benefits ratio and by which ‘greater consideration must be given to the risks to physical, psychological, humane, proprietary and cultural values than to the potential contribution of research to knowledge’ (Social Sciences and Humanities Research Council of Canada, 1981), i.e. the issue of ‘non-malefcence’ (where no harm is wished upon subjects or occurs).
+
+Non-maleficence (do no harm) is enshrined in the Hippocratic oath, in which the principle of primum non nocere (first of all, do no harm) is held as a guiding precept. So also with research. The research should not damage the participants at all, physically, psychologically, emotionally, professionally, personally and so on (e.g. participants may find it very distressing to relive the experience of being bullied by students or other staff and this must either be avoided, pointed out in advance in terms of informed consent, or participants should be given the opportunity not to take part in that area of the research) (cf. Oliver, 2003: 32). It requires researchers and the participants to consider carefully the possible consequences of the research on both participants and the researchers (e.g. the negative effects on the participants and the researchers in Scheper-Hughes’s (1979) study of a village in Ireland, or the possible effects of ‘whistle-blowing’). Indeed Oliver (2003: 89) raises the question of whether private organizations, such as those with trade secrets, should be permitted to keep those secrets private.
+
+This moves beyond the costs/benefits analysis of utilitarianism, as it considers the need to avoid doing moral harm to participants. At first sight this seems uncontentious; of course we do not wish to bring harm to our research subjects, and it is a golden rule that the research must ensure that participants are no worse off at the end of the research than they were at the start of the research. However, what constitutes ‘harm’ is unclear, one person’s harm is a society’s benefit, and whether a little harm for a few is tolerable in the interests of a major benefit for all, or even for the person concerned, throws into relief the tension involved here. The question is whether the end justifies the means. As a general principle we would advocate the application of primum non nocere, and, indeed, ethics regulatory boards, for example in universities perusing research proposals (discussed later), are guided heavily by this principle. However, there could be tensions here. What do you do if you discover that the headteacher has a serious alcohol problem or is having an affair with a parent? What do you do if your research shows teachers in the school with very serious weaknesses, such that their contracts should be terminated in the interests of the students?
+
+When researchers are confronted with dilemmas such as these (though they are likely to occur much less in education than in social psychology or medicine), it is generally considered that they resolve them in a manner that avoids the extremes of, on the one hand, giving up the idea of research and, on the other, ignoring the rights of the subjects. At all times the welfare of subjects should be kept in mind (cf. British Educational Research Association, 2004), even if it involves compromising the impact of the research. Researchers should never lose sight of the obligations they owe to those who are helping, and should constantly be alert to alternative techniques should the ones they are employing at the time prove controversial. Sikes (2006: 112) quotes the words of Lather (1986) in describing ‘rape research’ as ‘research in which the researcher gets what they want and then clears off, giving little or nothing in return and maybe even causing damage’. This is unethical.
+
+Laing (1967: 53) offers a cautionary view of data where he writes that they are ‘not so much given as taken out of a constantly elusive matrix of happenings. We should speak of capta rather than data’, or as ‘vanity ethnography’ (to boost the researcher’s self-image) (Maynard, 1993: 329, cited in Sikes, 2006: 114), ‘narrative catharsis’ (Tierney, 2002: 393, cited in Sikes, 2006: 114) or ‘narcissism’ (Reed-Danahay, 2002: 424, cited in Sikes, 2006: 114).
+
+The relationship between the research and the researched is reflected in the principles of the American Psychological Association which, as Zechmeister and Shaughnessy (1992) show, attempt to strike a balance between the rights of investigators to seek an understanding of human behaviour, and the rights and welfare of individuals who participate in the research. In the final reckoning, the decision to go ahead with a research project rests on a subjective evaluation of the costs both to the individual and society.
+
+The corollary of non-maleficence is beneficence: what benefits will the research bring, and to whom? Many would-be participants could be persuaded to take part in research if it is made clear that it will, or may, bring personal, educational and social benefits. For example, it may lead to the improvement of learning, increased funding and resources for a particular curriculum area, improved approaches to the teaching of a subject, increased self-esteem for students, or additional teachers in a school, increased self-awareness in the participants (Oliver, 2003: 35) and so on. Whilst it is sometimes worth including a statement of potential benefit when contacting schools and individuals, it may also be an actual requirement for ethics regulatory boards or sponsors.
+
+The recipients of the benefit also have to be factored into the discussion here. A researcher may gain promotion, publications, a degree, research sponsorship and celebrity from a piece of research. However, the research might still leave the participants untouched, underprivileged, living and working in squalid and under-resourced conditions, under-supported, and with no material, educational or other improvements brought to the quality of their lives and work. As one of Whyte’s contacts remarked ruefully in his celebrated study of an Italian slum in Street Corner Society (1955), the locals had helped many researchers to become famous and get their doctorates, though leaving the locals’ quality of life with no improvement.
+
+On the one hand it could be argued that research that did not lead to such benefits is unethical; on the other hand it could be that the research helps to place the issue on the agenda of decision makers and that, in the long run, it could contribute to a groundswell of opinion that, itself, brings change. Whilst it may be fanciful to believe that a single piece of research will automatically lead to improvement, the ethical question raised here – who benefits? – suggests that a selfish approach to the benefits of the research by the researcher is unethical.
+
+This latter point requires researchers to do more than pay lip service to the notion of treating research participants as subjects rather than as objects to be used instrumentally – research fodder, so to speak – imbuing them with self-esteem and respect. One can treat people with respect but still the research may make no material difference to their lives. Whilst it is surely impossible to argue against treating people with dignity and respect, it raises the issue of the obligations and commitments of the researcher. Let us say that the researcher has been working closely in a school for one or two years; surely that researcher has an obligation to improve the lives of those being researched, rather than simply gathering data instrumentally? To do the latter would be inhumane and deeply disrespectful. The issue is tension-ridden: is the research for people and issues or about people and issues? We have to be clear about our answer to the question ‘what will this research do for the participants and the wider community, not just for the researcher?’.
+
+Bailey (1994: 457) suggests that there are several approaches that can be used to avoid harming research subjects, including:
+
+[图片: images/018_5 The ethics of educational and social research/026_box.jpg | image]
+ using computer simulations;
+
+[图片: images/018_5 The ethics of educational and social research/027_box.jpg | image]
+ finding a situation in which the negative effects of harm already exist, i.e. where the research does not have the responsibility for having produced these conditions;
+
+[图片: images/018_5 The ethics of educational and social research/028_box.jpg | image]
+ applying only a very low level of potential harm, or for only a short period of time, so that any effects are minimal;
+
+[图片: images/018_5 The ethics of educational and social research/029_box.jpg | image]
+ informed consent (providing details of the potential negative effects and securing participants’ consent);
+
+[图片: images/018_5 The ethics of educational and social research/030_box.jpg | image]
+ justifying the research on the grounds that the small amount of harm caused is much less than the harm caused by the existing situation (which the research is trying to improve);
+
+[图片: images/018_5 The ethics of educational and social research/031_box.jpg | image]
+ using samples rather than complete populations, so that fewer people are exposed to the harm;
+
+[图片: images/018_5 The ethics of educational and social research/032_box.jpg | image]
+ maintaining the privacy of participants through the use of aggregated or anonymized data.
+
+Whilst some of these are uncontentious, others in this list are debatable, and researchers will need to be able to justify the decision they reach.
+
+With regard to respecting dignity, there is the need to treat participants as equals, not as objects or as subordinate to the researcher. This may mean to avoid treating them as ‘subjects’ rather than as equals (Oliver, 2003).3 It also means avoiding stigmatizing groups (e.g. the unemployed, the homeless, religious groups, ethnic groups, those considered deviant by virtue of their sexual orientation, dress, beliefs). On a larger scale, the researcher has to ensure that the research does not raise issues and difficulties where none might exist (e.g. raising an issue of ethnic conflicts in a community in which ethnic conflicts do not exist and where harmonious relations obtain between the ethnic groups in the community).
+
+Absolutist and relativist ethics
+
+The second source of tension in this context is that generated by the competing absolutist and relativist positions. The absolutist view holds that clear, set principles should guide the researchers in their work and that these should determine what ought and what ought not to be done (see Box 5.6). To have taken a wholly absolutist stance, for example, in the case of the Stanford Prison Experiment (see Chapter 26) where the researchers studied interpersonal dynamics in a simulated prison, would have meant that the experiment should not have taken place at all or that it should have been terminated well before the sixth day. Zimbardo (1984) has stated that the absolutist ethical position, in which it is unjustified to induce any human suffering, would bring about the end of much psychological or medical research, regardless of its possible benefits to society. By this absolute principle, the Stanford Prison Experiment must be regarded as unethical because the participants suffered considerably.
+
+In absolutist principles – ‘duty ethics of principles’ (Edwards and Mauthner, 2002: 20), a deontological model – research is governed by universal precepts such as justice, honesty and respect (amongst others). In the ‘utilitarian ethics of consequences’ (ibid.), ethical research is judged in terms of its consequences, e.g. increased knowledge, benefit for many.
+
+Those who hold a relativist position would argue that there can be no absolute guidelines and that ethical considerations will arise from the very nature of the particular research being pursued at the time: situation determines behaviour. Indeed they would argue that it is essential to respect the context in which the research takes place, culturally, ethnically, socio-economically, and that these should be judged in their own terms (Oliver, 2003: 53). This underlines the significance of ‘situated ethics’ (Simons and Usher, 2000), where overall guidelines may offer little help when confronted with a very specific situation.
+
+There are some contexts, however, where neither the absolutist nor the relativist position is clear-cut. Writing of the application of the principle of informed consent with respect to life history studies, Plummer says:
+
+Both sides have a weakness. If, for instance, as the absolutists usually insist, there should be informed consent, it may leave relatively privileged groups under-researched (since they will say ‘no’) and underprivileged groups over-researched (they have nothing to lose and say ‘yes’ in hope). If the individual conscience is the guide, as the relativists insist, the door is wide open for the unscrupulous – even immoral – researcher.
+
+(Plummer, 1983)
+
+BOX 5.6 ABSOLUTE ETHICAL PRINCIPLES IN SOCIAL RESEARCH
+
+Ethics embody individual and communal codes of conduct based upon a set of explicit or implicit principles and which may be abstract and impersonal or concrete and personal. Ethics can be ‘absolute’ and ‘relative’. When behaviour is guided by absolute ethical standards, a higher-order moral principle is invoked which does not vary with regard to the situation in hand. Such absolutist ethics permit no degree of freedom for ends to justify means or for any beneficial or positive outcomes to justify occasions where the principle is suspended, altered or diluted, i.e. there are no special or extenuating circumstances which can be considered as justifying a departure from, or modification to, the ethical standard.
+
+Source: Adapted from Zimbardo, 1984
+
+He suggests that broad guidelines laid down by professional bodies which offer the researcher room for personal ethical choice are a way out of the problem. We consider these later in this chapter.
+
+5.6 Voices of experience
+
+Whatever the ethical stance one assumes and no matter what forethought one brings to bear on one’s work, there will always be unknown, unforeseen problems and difficulties lying in wait (Kimmel, 1988). Baumrind (1964), for example, warns of the possible failure on the researchers’ part to perceive a positive indebtedness to their subjects for their services, perhaps, she suggests, because the detachment which investigators bring to their task prevents appreciation of subjects as individuals. This kind of omission can be averted if the experimenters are prepared to spend a few minutes with subjects afterwards in order to thank them for their participation, answer their questions, reassure them that they did well and generally talk to them for a time. If the research involves subjects in a failure experience, isolation or loss of self-esteem, for example, researchers must ensure that the subjects do not leave the situation more humiliated, insecure and alienated than when they arrived. From the subject’s point of view, procedures which involve loss of dignity, injury to self-esteem or affect trust in rational authority are probably most harmful in the long run and may require the most carefully organized ways of recompensing the subject in some way if the researcher chooses to carry on with those methods.
+
+With particularly sensitive areas, participants need to be fully informed of the dangers of serious aftereffects. There is reason to believe that at least some of the obedient subjects in Milgram’s (1963) experiments (see Chapter 26) came away from the experience with a lower self-esteem, having to live with the realization that they were willing to yield to destructive authority to the point of inflicting extreme pain on a fellow human being (Kelman, 1967). It follows that researchers need to reflect attitudes of compassion, respect, gratitude and common sense without being too effusive. Subjects clearly have a right to expect that the researchers with whom they are interacting have some concern for the welfare of participants.
+
+Further, the subject’s sensibilities need also to be taken into account when the researcher comes to write up the research. It is unacceptable for researchers to show scant regard for subjects’ feelings at the report stage. A related and not insignificant issue concerns the formal recognition of those who have assisted in the investigation, if such be the case. This means that whatever form the written account takes, be it a report, article, chapter or thesis, and no matter the readership for which it is intended, its authors must acknowledge and thank all who helped in the research, even to the extent of identifying by name those whose contribution was significant. This can be done in a foreword, introduction or footnote. All this is really a question of common-sensical ethics.
+
+Ethical problems in educational research can often result from thoughtlessness, oversight or taking matters for granted. Again, researchers engaged in sponsored research may feel they do not have to deal with ethical issues, believing their sponsors to have them in hand. Likewise, each researcher in a collaborative venture may take it for granted, wrongly, that colleagues have the relevant ethical questions in mind, consequently appropriate precautions go by default. A student whose research is part of a course requirement and who is motivated wholly by self-interest, or academic researchers with professional advancement in mind, may overlook the ‘oughts’ and ‘ought nots’.
+
+A related issue here is that it is unethical for the researcher to be incompetent in the area of research. Competence may require training (Ticehurst and Veal, 2000: 55). Indeed an ethical piece of research must demonstrate rigour in the design, conduct, analysis and reporting of the research (Morrison, 1996b).
+
+An ethical dilemma that is frequently discussed is in the experiment. Gorard (2001b: 146) summarizes the issue as being that the design is discriminatory, in that the control group is being denied access to a potentially better treatment (e.g. curriculum, teaching style). Of course, the response to this is that, in a genuine experiment, we do not know which treatment is better, and that, indeed, this is the point of the experiment.
+
+5.7 Ethical dilemmas
+
+Robson (1993: 33) raises ten questionable practices in social research:
+
+[图片: images/018_5 The ethics of educational and social research/033_box.jpg | image]
+ Involving people without their knowledge or consent.
+
+[图片: images/018_5 The ethics of educational and social research/034_box.jpg | image]
+ Coercing them to participate.
+
+[图片: images/018_5 The ethics of educational and social research/035_box.jpg | image]
+ Withholding information about the true nature of the research.
+
+[图片: images/018_5 The ethics of educational and social research/036_box.jpg | image]
+ Otherwise deceiving participants.
+
+[图片: images/018_5 The ethics of educational and social research/037_box.jpg | image]
+ Inducing them to commit acts diminishing their self-esteem.
+
+[图片: images/018_5 The ethics of educational and social research/038_box.jpg | image]
+ Violating rights of self-determination (e.g. in studies seeking to promote individual change).
+
+[图片: images/018_5 The ethics of educational and social research/039_box.jpg | image]
+ Exposing participants to physical or mental stress.
+
+[图片: images/018_5 The ethics of educational and social research/040_box.jpg | image]
+ Invading their privacy.
+
+[图片: images/018_5 The ethics of educational and social research/041_box.jpg | image]
+ Withholding benefits from some participants (e.g. in comparison groups).
+
+[图片: images/018_5 The ethics of educational and social research/042_box.jpg | image]
+ Not treating participants fairly, or with consideration, or with respect.
+
+Interestingly, he calls these ‘questionable practices’ rather than areas to be proscribed, indicating that they are not black and white, right or wrong matters. They constitute the problem of ethical dilemmas.
+
+At the beginning of this chapter, we spoke of the costs/benefits ratio. Frankfort-Nachmias and Nachmias (1992) express this as a conflict between two rights: the rights to conduct research in order to gain knowledge versus the rights of participants to self-determination, privacy and dignity. This constitutes the fundamental ethical dilemma of the social scientist for whom there are no absolute right or wrong answers. Which proposition is favoured or how a balance between the two is struck will depend very much on the background, experience and personal values of the individual researcher. We examine here other dilemmas that may confront investigators once they have come to some accommodation with this fundamental dilemma and decided to proceed with their research.
+
+Sikes (2006) argues that ethical issues not only rear their head at every turn in educational research, but that they are problematic. She cites examples that touch the researcher – his or her career prospects, motives, promotion opportunities, even sexuality, that may be affected by the research, particularly if it is ‘insider research’ in which a researcher researches her/his own institution, which might affect professional relationships, as issues of power (and knowledge from research may give power) may be present (p. 110), and that ethics touch ‘researchers and their research choices, research topics, methodologies and methods, and writing styles’ (p. 106).
+
+Newcomers to the field need to be aware of those kinds of research which, by their nature, lead from one problem to another. Indeed, the researcher will frequently find that methodological and ethical issues are inextricably interwoven in much of the research we have designated as qualitative or interpretive. As Hitchcock and Hughes note:
+
+Doing participant observation or interviewing one’s peers raises ethical problems that are directly related to the nature of the research technique employed. The degree of openness or closure of the nature of the research and its aims is one that directly faces the teacher researcher.
+
+(Hitchcock and Hughes, 1989)
+
+They go on to pose the kinds of question that may arise in such a situation. ‘Where for the researcher does formal observation end and informal observation begin?’ ‘Is it justifiable to be open with some teachers and closed with others?’ ‘How much can the researcher tell the pupils about a particular piece of research?’ ‘When is a casual conversation part of the research data and when is it not?’ ‘Is gossip legitimate data and can the researcher ethically use material that has been passed on in confidence?’ As Hitchcock and Hughes conclude, the list of questions is endless yet they can be related to the nature of both the research technique involved and the social organization of the setting being investigated. The key to the successful resolution of such questions lies in establishing good relations. This will involve the development of a sense of rapport between researchers and their subjects that will lead to feelings of trust and confidence.
+
+Fine and Sandstrom (1988) discuss in some detail the ethical and practical aspects of doing fieldwork with children. In particular they show how the ethical implications of participant observation research differ with the age of the children. Another feature of qualitative methods in this connection has been identified by Finch (1985: 116–17) who comments on the possible acute political and ethical dilemmas arising from how data are used, both by the researcher and others, and that the researcher has a duty of trust placed in him/her by the participants to use privileged data appropriately, not least for improvement of the condition of the participants.
+
+Kelly (1989a) suggests that the area in qualitative research where one’s ethical antennae need to be especially sensitive is that of action research, and it is here that researchers, be they teachers or outsiders, must show particular awareness of the traps that lie in wait. These difficulties have been summed up by Hopkins (1985: 135) when he suggests that, as the researcher’s actions are deeply embedded in the organization, it is important to work within these, and this throws into relief issues of confidentiality and personal respect.
+
+Box 5.7 presents a set of principles specially formulated for action researchers by Kemmis and McTaggart (1981) and quoted by Hopkins (1985).
+
+BOX 5.7 ETHICAL PRINCIPLES FOR THE GUIDANCE OF ACTION RESEARCHERS
+
+Observe protocol: Take care to ensure that the relevant persons, committees, and authorities have been consulted, informed and that the necessary permission and approval have been obtained.
+
+Involve participants: Encourage others who have a stake in the improvement you envisage to shape and form the work.
+
+Negotiate with those affected: Not everyone will want to be directly involved; your work should take account of the responsibilities and wishes of others.
+
+Report progress: Keep the work visible and remain open to suggestions so that unforeseen and unseen ramifications can be taken account of; colleagues must have the opportunity to lodge a protest to you.
+
+Obtain explicit authorizations: This applies where you wish to observe your professional colleagues; and where you wish to examine documentation.
+
+Negotiate descriptions of people’s work: Always allow those described to challenge your accounts on the grounds of fairness, relevance and accuracy.
+
+Negotiate accounts of others’ points of view (e.g. in accounts of communication): Always allow those involved in interviews, meetings and written exchanges to require amendments which enhance fairness, relevance and accuracy.
+
+Obtain explicit authorization before using quotations: Verbatim transcripts, attributed observations, excerpts of audio and video recordings, judgements, conclusions or recommendations in reports (written or to meetings).
+
+Negotiate reports for various levels of release: Remember that different audiences require different kinds of reports; what is appropriate for an informal verbal report to a faculty meeting may not be appropriate for a staff meeting, a report to council, a journal article, a newspaper, a newsletter to parents; be conservative if you cannot control distribution.
+
+Accept responsibilitv for maintaining confidentiality.
+
+Retain the right to report your work: Provided that those involved are satisfied with the fairness, accuracy and relevance of accounts which pertain to them, and that the accounts do not unnecessarily expose or embarrass those involved, then accounts should not be subject to veto or be sheltered by prohibitions of confidentiality.
+
+Make your principles of procedure binding and known: All the people involved in your action research project must agree to the principles before the work begins; others must be aware of their rights in the process.
+
+Source: Adapted from Kemmis and McTaggart, 1981, and quoted in Hopkins, 1985: 134–6
+
+5.8 Privacy
+
+For the most part, individual ‘right to privacy’ is usually contrasted with public ‘right to know’ (Pring, 1984) and this has been defined in the Ethical Guidelines for the Institutional Review Committee for Research with Human Subjects as that which:
+
+extends to all information relating to a person’s physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others.
+
+(Social Sciences and Humanities Research Council of Canada, 1981)
+
+In the context of research, therefore, ‘right to privacy’ may easily be violated during the course of an investigation or denied after it has been completed. At either point the participant is vulnerable.
+
+Privacy is a primordial value, a ‘basic human need’ (Caplan, 1982: 320), which, like the right to self-determination, ‘trumps’ utilitarian calculations (Howe and Moses, 1999: 24). Its corollaries are anonymity, confidentiality and informed consent. It has been considered from three different perspectives by Diener and Crandall (1978). These are: the sensitivity of the information being given, the setting being observed and dissemination of information. Sensitivity of information refers to how personal or potentially threatening the information is that is being collected by the researcher. Certain kinds of information are more personal than others and may be more threatening. According to a report by the American Psychological Association, for example, ‘Religious preferences, sexual practices, income, racial prejudices, and other personal attributes such as intelligence, honesty, and courage are more sensitive items than “name, rank and serial number”’ (American Psychological Association, 1973). Thus, the greater the sensitivity of the information, the more safeguards are called for to protect the privacy of the participants.
+
+The setting being observed may vary from very private to completely public. The home, for example, is considered one of the most private settings and intrusions into people’s homes without their consent are forbidden by law. Dissemination of information concerns the ability to match personal information with the identity of the research participants. Indeed, personal data are defined at law as those data which uniquely identify the individual providing them. When such information is publicized with names through the media, for example, privacy is seriously violated. The more people there are who can learn about the information, the more concern there must be about privacy (see Diener and Crandall, 1978).
+
+As is the case with most rights, privacy can be voluntarily relinquished. Research participants may choose to give up their right to privacy by either allowing a researcher access to sensitive topics or settings or by agreeing that the research report may identify them by name. The latter case at least would be an occasion where informed consent would need to be sought.
+
+Generally speaking, if researchers intend to probe into the private aspects or affairs of individuals, their intentions should be made clear and explicit and informed consent should be sought from those who are to be observed or scrutinized in private contexts. Other methods to protect participants are anonymity and confidentiality and our examination of these follows.
+
+Privacy is more than simple confidentiality (discussed below). The right to privacy means that a person has the right not to take part in the research, not to answer questions, not to be interviewed, not to have their home intruded into, not to answer telephones or emails, and to engage in private behaviour in their own private place without fear of being observed. It is freedom from as well as freedom for. This is frequently an issue with intrusive journalism. Hence researchers may have an obligation to inform participants of their rights to refuse to take part in any or all of the research, to obtain permission to conduct the research, to limit the time needed for participation and to limit the observation to public behaviour.
+
+5.9 Anonymity
+
+Frankfort-Nachmias and Nachmias (1992) underline the need for confidentiality of participants’ identities, and that any violations of this should be made with the agreement of the participants. The essence of anonymity is that information provided by participants should in no way reveal their identity. The obverse of this is, as we saw earlier, personal data that uniquely identify their supplier. A participant or subject is therefore considered anonymous when the researcher or another person cannot identify the participant or subject from the information provided. For example, a questionnaire might only contain a number instead of a person’s name. Where this situation holds, a participant’s privacy is guaranteed, no matter how personal or sensitive the information is. Thus a respondent completing a questionnaire that bears absolutely no identifying marks – names, addresses, occupational details or coding symbols – is ensured complete and total anonymity. A subject agreeing to a face-to-face interview, on the other hand, can in no way expect anonymity. At most, the interviewer can promise confidentiality. Non-traceability is an important matter, and this extends to aggregating data in some cases, so that an individual’s response is unknowable.
+
+The principal means of ensuring anonymity, then, is not using the names of the participants or any other personal means of identification. Further ways of achieving anonymity have been listed by Frankfort-Nachmias and Nachmias (1992), such as the use of aliases, the use of codes for identifying people (to keep the information on individuals separate from access to them) and the use of password-protected files.
+
+These may work satisfactorily in most situations, but as Raffe et al. (1989) have shown, there is sometimes the difficulty of maintaining an assurance of anonymity when, for example, combining data may uniquely identify an individual or institution or when there is access to incoming returns by support staff. Plummer (1983), likewise, refers to life studies in which names have been changed, places shifted, and fictional events added to prevent acquaintances of subjects discovering their identity. Although one can go a long way down this path, there is no absolute guarantee of total anonymity as far as life studies are concerned. In experimental research the experimenter is interested in ‘human’ behaviour rather than in the behaviour of specific individuals (Aronson and Carlsmith, 1969). Consequently the researcher has absolutely no interest in linking the person as a unique, named individual to actual behaviour, and the research data can be transferred to coded, unnamed data sheets. As they comment, ‘the very impersonality of the process is a great advantage ethically because it eliminates some of the negative consequences of the invasion of privacy’ (Aronson and Carlsmith, 1969).
+
+5.10 Confidentiality
+
+The second way of protecting a participant’s right to privacy is through the promise of confidentiality: not disclosing information from a participant in any way that might identify that individual or that might enable the individual to be traced. It can also mean not discussing an individual with anybody else. This means that although researchers know who has provided the information or are able to identify participants from the information given, they will in no way make the connection known publicly; the boundaries surrounding the shared secret will be protected. The essence of the matter is the extent to which investigators keep faith with those who have helped them. It is generally at the access stage or at the point where researchers collect their data that they make their position clear to the hosts and/or subjects. They will thus be quite explicit in explaining to subjects what the meaning and limits of confidentiality are in relation to the particular research project. On the whole, the more sensitive, intimate or discrediting the information, the greater is the obligation on the researcher’s part to make sure that guarantees of confidentiality are carried out in spirit and letter. Promises must be kept.
+
+Kimmel (1988) notes that some potential respondents in research on sensitive topics will refuse to cooperate when an assurance of confidentiality is weak, vague, not understood or thought likely to be breached. He concludes that the usefulness of data in sensitive research areas may be seriously affected by the researcher’s inability to provide a credible promise of confidentiality. Assurances do not appear to affect cooperation rates in innocuous studies perhaps because, as Kimmel suggests, there is expectation on the part of most potential respondents that confidentiality will be protected.
+
+A number of techniques have been developed to allow public access to data and information without confidentiality being betrayed. These have been listed by Frankfort-Nachmias and Nachmias (1992) as follows:
+
+[图片: images/018_5 The ethics of educational and social research/043_box.jpg | image]
+ deletion of identifiers (for example, deleting the names, addresses or other means of identification from the data released on individuals);
+
+[图片: images/018_5 The ethics of educational and social research/044_box.jpg | image]
+ crude report categories (for example, releasing the year of birth rather than the specific date, profession but not the speciality within that profession, general information rather than specific);
+
+[图片: images/018_5 The ethics of educational and social research/045_box.jpg | image]
+ microaggregation (that is, the construction of ‘average persons’ from data on individuals and the release of these data, rather than data on individuals);
+
+[图片: images/018_5 The ethics of educational and social research/046_box.jpg | image]
+ error inoculation (deliberately introducing errors into individual records while leaving the aggregate data unchanged).
+
+Cooper and Schindler (2001: 117) suggest that confidentiality can be protected by obtaining signed statements indicating nondisclosure of the research, restricting access to data which identify respondents, seeking the approval of the respondents before any disclosure about respondents takes place, nondisclosure of data (e.g. subsets that may be able to be combined to identify an individual).
+
+5.11 Against privacy, confidentiality and anonymity
+
+Whilst a deontological and ‘virtue ethics’ approach to the ethics of educational research might demand that rights to privacy be respected, on the other hand a utilitarian, consequentialist approach might argue that privacy could be violated if it is in the public good. Lincoln (1990) suggests that privacy protects the powerful and reproduces inequalities of power, whilst Howe and Moses (1999: 43) give examples where privacy should not be able to cloak wrongdoing (e.g. ‘an abusive teacher . . . a sexist curriculum’).
+
+Wiles et al. (2008: 419) indicate some of the complexities of the ethical issues of confidentiality in their discussion of whether confidentiality should be broken in the interests of public or private safety, issues of actual or predicted criminal activity, if a person is at risk (e.g. a child who reports being abused), and with vulnerable groups such as children, those with special needs, the recently bereaved, children whose parents have separated or who come from violent families. In many cases the researcher makes it clear before any interview commences that any information of a legal nature may be disclosed if the interviewer thinks the interviewee is at risk or if there is a legal matter at stake, but it is not always as simple as this, as an interviewee may reveal some information that had not been anticipated. In other cases the researcher may want to give advice to a participant about seeking counselling or therapy. Oliver (2003: 71) however cautions that the researcher is not herself/himself a counsellor or therapist.
+
+Further, in the case of covert research, there are no guarantees of confidentiality given in the first place. At issue here is where the duty of the researcher lies – to the research, to the individual, to the public or to whom, and the possible tensions between illegality, morality and the need to bring a matter to the public awareness or knowledge. For example, if one is deliberately researching criminal activity it may be necessary to ensure confidentiality or else the research will not take place at all. What does the researcher do if a court order is issued that requires the release of the data?
+
+If researchers decide to opt for confidentiality then this can place them in a difficult situation where the research is emotionally draining, because, as Wiles et al. (2008: 421) remark, it means that researchers cannot ‘offload’ their difficulties onto any other person.
+
+Walford (2005: 84–5) suggests that, whilst confi-dentiality, anonymity and non-traceability may be accepted or desirable norms or educational research, in some cases these norms may not apply or be achievable. For example, some participants or institutions may wish, or have a right, to be identified, as it might advance their cause or institution. Schools and headteachers might welcome publicity (Oliver, 2003: 77). As Wiles et al. (2008: 426) remark, in an age of increasing individualization, some individuals will insist on being identified. Further, the researcher is placed in a difficult situation with regard to confidentiality if a participant comments about another person who is not in the research and/or from whom no informed consent has been sought or obtained (Crow et al., 2006: 92): does the investigator use the data? Is it fair to exclude or include data about a third party because that third party has not been approached for informed consent?
+
+Anonymity is also a double-edged sword. Whilst it might protect people, that may not be the main question; rather the question should be ‘protect them from what?’, as anonymity might become a cloak behind which participants can hide whilst making a range of negative, unsupported, even slanderous or libellous comments (cf. Oliver, 2003: 81). Maybe confidentiality and anonymity are only confined to certain forms of research.
+
+However, more problematic is the question of what confidentiality actually means if the data are to be used for the research; if data are to be confidential and cannot be used or passed on, then what is the point of collecting or having the data? In this case it is perhaps anonymity that should be addressed rather than confi-dentiality, or that the scope of confidentiality (its boundaries) should be clarified rather than a guarantee be given of absolute confidentiality (e.g. Oliver, 2003: 15).
+
+However, it is often simply impossible to guarantee the anonymity of a person or an institution, as people can reassemble or combine data to identify an individual or an institution can be identified by the ‘locals’ or indeed it can be identified by entering a few simple key words from the research into an internet search (Walford, 2005). Oliver (2003: 80) writes that ‘there are no absolute guarantees of anonymity, particularly in the case of people who hold named posts’.
+
+Here the commonly used advocacy of pseudonyms is no guarantee of anonymity. Walford (2005: 88) argues that promises of anonymity are often used by the researcher in order to gain access, though anonymity cannot actually be guaranteed, and, hence, it is ethically questionable whether anonymity should be promised. Whilst anonymity may bring data that are richer, keener and more acute or poignant than more anodyne research data given where there are no promises of anonymity, this is not necessarily a justification for making promises of anonymity that cannot be kept.
+
+Many devices can be used in the protection of anonymity, to ‘put people off the scent’, for example, using pseudonyms, reporting a different geographical location from the one in which the research is actually carried out, providing misinformation (deliberately giving incorrect details of ages or sex), concealing identifying details (cf. Howe and Moses, 1999: 45), i.e. moving from ‘disguise’ to ‘distortion’ (Wiles et al., 2008: 422), in short, removing context and, further, not always indicating that this has been done.
+
+However, this is problematic, as not only does it smack of telling lies and dishonesty, but it actually removes some of the very contextual data that are important for the research (Walford, 2005: 90), particularly for ethnographic research. To omit such necessary contextual details for a researcher to understand the situation gives a spurious generalizability to the research. As Walford writes, each school and its development ‘can only be understood in the context of its history and socio-political location’ (2005: 90). He suggests that it may be important to identify institutions and individuals, but that they should be given the right to reply in the research report, though this, in turn, is problematic. Who has the right to reply? (all the participants?); what if very different replies are given? How are transparency, frankness and trust addressed in the relations between researchers and participants? These are knotty problems.
+
+Howe and Moses (1999: 44–5) make a cogent case against privacy and confidentiality, arguing that the ‘thick descriptions’ of interpretive research require a level of detail that cannot be obtained if privacy, confidentiality and anonymity are required. They argue that as descriptions move towards becoming more ‘objective’ they become more anodyne and lose the very richness that they are intended to demonstrate, i.e. they become ‘thin’. For example, consider the contrast between stating that ‘the secondary school girls alternated between being bored, intimidated and silent in English discussion sessions’ and ‘the girls participated less than boys in the English discussion sessions’ (cf. Howe and Moses, 1999: 45). Where the former provides a rich description, the latter, being sanitized, is thin.
+
+5.12 Ethics in electronic research
+
+Privacy and anonymity are linked in the burgeoning field of online research. James and Busher (2007) argue that online research poses difficult issues of confirming the authenticity of respondents and responses, and of the protection of vulnerable groups’ privacy, confiden-tiality and anonymity, particularly if emails are being used, as these are susceptible to others’ viewing them either deliberately or accidentally (e.g. if mails are forwarded or shared). There is a need for researchers to establish not only their own bona fide status but that of their correspondents.
+
+Further, there is a possibility that online correspondents may or may not distort their stated views, or, indeed withhold them (James and Busher, 2007: 107), in ways that may not be so likely in face-to-face research.
+
+Hudson and Bruckman (2005: 298) suggest that ‘people in public, online environments often act as if these environments were private’, and that, furthermore, they feel that their privacy has been violated if data from public chatrooms are used for research purposes and, indeed, the public remove them from their chatrooms, even though the data cannot not be traced back to anonymous chatroom participants.
+
+Lewis (2006) indicted that, as a researcher, he took time (five months) to establish a relation of trust with online contacts. In that way he developed a relationship of trust with his participants as a member of an online community before he approached them to participate in his research.
+
+The Association of Internet Researchers (Ess and the Association of Internet Researchers, 2002) has established some ethical guidelines for researchers using the internet for data collection and research, including, for example:
+
+[图片: images/018_5 The ethics of educational and social research/047_box.jpg | image]
+ Do not assume that emails are secure.
+
+[图片: images/018_5 The ethics of educational and social research/048_box.jpg | image]
+ Ensure that nobody is harmed by the research.
+
+[图片: images/018_5 The ethics of educational and social research/049_box.jpg | image]
+ Enable participants to correspond in private if they wish.
+
+[图片: images/018_5 The ethics of educational and social research/050_box.jpg | image]
+ Indicate the steps taken to ensure privacy.
+
+[图片: images/018_5 The ethics of educational and social research/051_box.jpg | image]
+ Check where the communication comes from.
+
+[图片: images/018_5 The ethics of educational and social research/052_box.jpg | image]
+ Determine the most suitable online method of requesting and receiving informed consent.
+
+[图片: images/018_5 The ethics of educational and social research/053_box.jpg | image]
+ The greater is the acknowledged publicity of the venue, the less obligation there may be to protect individual privacy, confidentiality and rights to informed consent.
+
+[图片: images/018_5 The ethics of educational and social research/054_box.jpg | image]
+ The greater is the vulnerability of the researcher to the participant, the greater is the obligation of the researcher to protect the participant.
+
+[图片: images/018_5 The ethics of educational and social research/055_box.jpg | image]
+ Indicate clearly how material will be used and whether or how it will be attributed, and whether data will be used verbatim, aggregated or summarized.
+
+[图片: images/018_5 The ethics of educational and social research/056_box.jpg | image]
+ Work within the framework of legal obligations of protection (e.g. data protection and privacy laws).
+
+[图片: images/018_5 The ethics of educational and social research/057_box.jpg | image]
+ Indicate who has access to the communication, and whether it is private.
+
+[图片: images/018_5 The ethics of educational and social research/058_box.jpg | image]
+ Consider the possible outcomes to individuals if private data are made public.
+
+Similarly, in telephone interviewing, Gwartney (2007) argues for professional ethics to be respected, and she indicates a range of websites that can provide guidance to researchers on this (p. 53), including codes of conduct, informed consent, confidentiality, privacy, avoidance of harassment, email solicitation, active agent technology (e.g. behind-the-scenes data mining), installing software and setting cookies or hard-to-uninstall software, codes and standards for minimal disclosure, unsolicited telephone calls and setting up ‘Do Not Call’ lists, professional responsibilities in working with people, how to handle people who break down in a telephone interview, and the need for training for telephone interviewers. Such organizations include:
+
+American Association for Public Opinion Research: http://www.aapor.org and www.aapor.org and www.aapor.org/AM/Template.cfm?Section=AAPOR_Code&Template=/CM/ContentDisplay.cfm&ContentID=1806
+
+Council of American Survey Research Organizations: www.casro.org and www.casro.org/codeofstandards.cfm
+
+American Evaluation Association: www.eval.org and www.eval.org/Publications/GuidingPrinciplesPrintable.asp
+
+American Statistical Association, Survey Methods Section: http://amstat.org and www.amstat.org/about/ethicalguidelines.cfm.
+
+Gwartney (2007) reproduces some of these ethical guidelines (pp. 57–69).
+
+5.13 Betrayal
+
+The term ‘betrayal’ is usually applied to those occasions where data disclosed in confidence are revealed publicly in such a way as to cause embarrassment, anxiety or perhaps suffering to the subject or participant disclosing the information. It is a breach of trust, in contrast to confidentiality, and is often a consequence of selfish motives of either a personal or professional nature. As Plummer comments, ‘in sociology, there is something slightly awry when a sociologist can enter a group and a person’s life for a lengthy period, learn their most closely guarded secrets, and then expose all in a critical light to the public’ (Plummer, 1983).
+
+One of the research methods that is perhaps most vulnerable to betrayal is action research. As Kelly (1989a) notes, this can produce several ethical problems. She says that if we treat teachers as collaborators in our day-to-day interactions, it may seem like betrayal of trust if these interactions are recorded and used as evidence. This is particularly the case where the evidence is negative. One way out, Kelly suggests, could be to submit reports and evaluations of teachers’ reactions to the teachers involved for comment; to get them to assess their own changing attitudes. She warns, however, that this might work well with teachers who have become converts, but is more problematic where teachers remain indifferent or hostile to the aims of the research project. How does one write an honest but critical report of teachers’ attitudes, she asks, if one hopes to continue to work with those involved?
+
+Similarly Morrison (2006) considers the case of a school that is underperforming, poorly managed or badly led. Does not the consumer, indeed the state, have a right or a duty respectively to know or address this, such action typically involving the exposure to the public of a school’s shortcomings, and will this not damage individuals working in the school, the principal and the teachers? What ‘fiduciary trust’ (Mitchell, 1993) not to harm individuals (the ethical issue of ‘non-maleficence’) does the researcher have to the school or to the public, and how can these two potentially contradictory demands be reconciled? Should the researcher expose the school’s weaknesses, which almost certainly could damage individuals but which may be in the public interest, or, in the interests of primum non nocere, remain silent? The issue hinges on trust: the pursuit of truth and the pursuit of trust may run counter to each other (Kelly, 1985: 147); indeed Kelly herself writes that ‘I do not think we have yet found a satisfactory way of resolving this dilemma.’
+
+Finch (1985: 117) raises ethical issues in the consequences of reporting. In her research she worried that her reporting ‘could well mean that I was further reinforcing those assumptions deeply embedded in our culture and political life that working class women (especially the urban poor) are inadequate mothers and too incompetent to be able to organize facilities that most normal women could manage’. Indeed she uses the word ‘betrayal’ (p. 118) in her concern that she might be betraying the trust of the women with whom she had worked for three years, not least because they were in a far worse economic and personal state than she herself was.
+
+Sikes (2006: 111) argues that, whilst some researchers may place an embargo on having their research made available to the public (e.g. for five years), this calls into question the values, purposes and ethical justifiability of research that cannot be disseminated and hence ‘cannot contribute to the cumulativeness of knowledge’ (p. 111).
+
+5.14 Deception
+
+The use of deception in social psychological and sociological research has attracted a certain amount of adverse publicity. Deception may occur in not telling people that they are being researched (in some people’s eyes this is tantamount to spying), not telling the truth, telling lies or compromising the truth. It may also occur in using people in a degrading or dehumanizing way (e.g. as a rat in an experiment). In social psychological research, the term is applied to that kind of experimental situation where the researcher knowingly conceals the true purpose and conditions of the research, or else positively misinforms the subjects, or exposes them to unduly painful, stressful or embarrassing experiences, without the subjects having knowledge of what is going on. The deception occurs in not telling the whole truth. Bailey (1994: 463) gives a clear example here, where respondents may be asked to complete a postal questionnaire, and believe that they are being asked for information about length and type of postage, whereas, in fact, the study is designed to compare different kinds of questionnaire. He reports that 88 per cent of studies from a sample of 457 studies used deception.
+
+Advocates of the method feel that if a deception experiment is the only way to discover something of real importance, the truth so discovered is worth the lies told in the process, so long as no harm comes to the subject (see Aronson et al., 1990). Deception may be justified on the grounds that the research serves the public good, and that the deception prevents any bias from entering the research, and also that it may protect the confidentiality of a third party (for example, a sponsor). The problem from the researcher’s point of view is: ‘What is the proper balance between the interests of science and the thoughtful, humane treatment of people who, innocently, provide the data?’ In other words, the problem again hinges on the costs/benefits ratio.
+
+The pervasiveness of the issue of deception becomes even more apparent when we remember that it is even built into many of our measurement devices, since it is important to keep the respondent ignorant of the personality and attitude dimensions that we wish to investigate. There are many problems that cannot be investigated without deception and, although there is some evidence that most subjects accept without resentment the fact of having been duped once they understand the necessity for it (e.g. the Milgram Obedience-to-authority experiment; see Chapter 26), it is important to keep in the forefront of one’s mind the question of whether the amount and type of deception is justified by the significance of the study and the un availability of alternative procedures.
+
+The use of deception resulting in particularly harmful consequences is another occasion where ethical considerations need to be given priority. An example here is the study by Campbell et al. (1964) which created extremely stressful conditions by using drugs to induce temporary interruption of breathing (see Box 5.8).
+
+Kelman (1967) has suggested three ways of dealing with the problem of deception. First, it is important that we increase our active awareness that it exists as a problem. It is crucial that we always ask ourselves the question whether deception is necessary and justified. We must be wary of the tendency to dismiss the question as irrelevant and to accept deception as a matter of course. Active awareness is thus in itself part of the solution, for it makes the use of deception a focus for discussion, deliberation, investigation and choice.
+
+The second way of approaching the problem concerns counteracting and minimizing the negative effects of deception. For example, subjects must be selected in a way that will exclude individuals who are especially vulnerable; any potentially harmful manipulation must be kept to a moderate level of intensity; researchers must be sensitive to danger signals in the reactions of subjects and be prepared to deal with crises when they arise; and at the conclusion of the research, researchers must take time not only to reassure subjects, but also help them work through their feelings about the experience to whatever degree may be required. The principle that subjects ought not to leave the research situation with greater anxiety or lower levels of self-esteem than they came with is a good one to follow (the issue of non-maleficence again). Desirably, subjects should be enriched by the experience and should leave it with the feeling that they have learned something.
+
+The primary way of counteracting negative effects of research employing deception is to ensure that adequate feedback is provided at the end of the research or research session. Feedback must be kept inviolable and in no circumstances should subjects be given false feedback or be misled into thinking they are receiving feedback when the researcher is in fact introducing another experimental manipulation. Debriefing may include (Cooper and Schindler, 2001: 116):
+
+[图片: images/018_5 The ethics of educational and social research/059_box.jpg | image]
+ explaining any deception and the reasons for it;
+
+[图片: images/018_5 The ethics of educational and social research/060_box.jpg | image]
+ description of the purposes, hypotheses, objectives and methods of the research;
+
+[图片: images/018_5 The ethics of educational and social research/061_box.jpg | image]
+ sharing of the results after the research;
+
+[图片: images/018_5 The ethics of educational and social research/062_box.jpg | image]
+ follow-up psychological or medical attention after the research.
+
+Even here, however, there are dangers. As Aronson and Carlsmith say:
+
+debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all. There are vast differences in how this is accomplished, and it is precisely these differences that are of crucial importance in determining whether or not a subject is uncomfortable when he leaves the experimental room.
+
+(Aronson and Carlsmith, 1969: 31)
+
+BOX 5.8 AN EXTREME CASE OF DECEPTION
+
+In an experiment designed to study the establishment of a conditioned response in a situation that is traumatic but not painful, Campbell, Sanderson and Laverty induced – through the use of a drug – a temporary interruption of respiration in their subjects. The subjects’ reports confirmed that this was a ‘horrific’ experience for them. All the subjects thought they were dying. The subjects, male alcoholic patients who had volunteered for the experiment when they were told that it was connected with a possible therapy for alcoholism, were not warned in advance about the effect of the drug, since this information would have reduced the traumatic impact of the experience.
+
+Source: Adapted from Kelman, 1967
+
+They consider that the one essential aspect of the debriefing process is that researchers communicate their own sincerity as scientists seeking the truth and their own discomfort about the fact that they found it necessary to resort to deception in order to uncover the truth. As they say, ‘No amount of postexperimental gentleness is as effective in relieving a subject’s discomfort as an honest accounting of the experimenter’s own discomfort in the situation’ (Aronson and Carlsmith, 1969).
+
+The third way of dealing with the problem of deception is to ensure that new procedures and novel techniques are developed. It is a question of tapping one’s own creativity in the quest for alternative methods. It has been suggested that role-playing, or ‘as-if’ experiments, could prove a worthwhile avenue to explore – the ‘role-playing versus deception’ debate we raise in Chapter 26. By this method, as we shall see, the subject is asked to behave as if he/she were a particular person in a particular situation. Whatever form they take, however, new approaches will involve a radically different set of assumptions about the role of the subject in this type of research. They require us to use subjects’ motivations rather than bypassing them. They may even call for increasing the sophistication of potential subjects, rather than maintaining their naivety.
+
+Plummer (1983) informs us that even in an unlikely area like life history, deceptions of a lesser nature occur. Thus, for example, the general description given of research may leave out some key issues; indeed, to tell the subject what it is you are looking for may bias the outcome quite substantially. Further, different accounts of the research may have to be presented to different groups. He quotes an instance from his own research, a study of sexual minorities, which required various levels of release – for the subjects, for colleagues, for general enquiries and for outside friends. None of these accounts actually lied, they merely emphasized a different aspect of the research.
+
+In the social sciences, the dilemma of deception has played an important part in experimental social psychology where subjects are not told the true nature of the experiment. Another area where it is used is that of sociology, where researchers conceal their identities and ‘con’ their way into alien groups – the overt/covert debate (Mitchell, 1993). Covert or secret participation, then, refers to that kind of research where researchers spend an extended period of time in particular research settings, concealing the fact that they are researchers and pretending to play some other role.
+
+Bulmer (1982) notes that there are no simple and universally agreed answers to the ethical issues that covert research produces. Erikson (1967), for example, suggests that sociologists have responsibilities to their subjects and that secret research can injure other people in ways that cannot be anticipated or compensated for afterwards; and that sociologists have responsibilities towards fellow-sociologists. Hornsby-Smith (1993: 65) argues that covert research violates informed consent, invades personal privacy, deceives people, risks harming participants when the research is published (e.g. Scheper-Hughes, 1979), and impairs the likelihood of other researchers researching the issue in the future, not least when overt research might have been used instead.
+
+Douglas (1976), by contrast, argues that covert observation is necessary, useful and revealing. Bulmer (1982), too, concludes that the most compelling argument in favour of covert research is that it has produced good social science which would not have been possible without the method. It would be churlish, he adds, not to recognize that the use of covert methods has advanced our understanding of society.
+
+Kimmel (1988) claims that few researchers feel that they can do without deception entirely, since the adoption of an overtly conservative approach could render the study of important research hardly worth the effort. A study of racial prejudice, for example, accurately labelled as such, would certainly affect the behaviour of the subjects taking part. Deception studies, he considers, differ so greatly that even the harshest critics would be hard-pressed to state unequivocally that all deception has potentially harmful effects on participants or is wrong. Indeed whilst the American Educational Research Association’s standards on ethics (discussed below) discourages deception in research, it also recognizes that, in some cases, it may be necessary and useful, but that this requires careful justification.
+
+Covert research may be justified, for example, if the important data gathered could not have been gathered in any other way, or if it is necessary in order to gain access to organizations which would deny access (Mitchell, 1993), or to uncover questionable practices that, otherwise, would not come to light (e.g. sexist employment practices) (cf. Oliver, 2003: 6). The consequentialist argument for covert research is powerful.
+
+5.15 Ethics and evaluative research
+
+Strike (1990), discussing the ethics of educational evaluation, offers two broad principles which may form the basis of further considerations in the field of evaluation. These are the principle of benefit maximization and the principle of equal respect. The principle of benefit maximization holds that the best decision is the one that results in the greatest benefit for most people. It is pragmatic in the sense that it judges the rightness of our actions by their consequences or, as Strike says, the best action is the one with the best results. The principle of utilitarianism requires us to identify the particular bene-fits we wish to maximize, to identify a suitable population for maximization, specify what is to count as maximization and fully understand the consequences of our actions. The second principle, that of equal respect, demands that we respect the equal worth of all people. This requires us to treat people as ends rather than means, to regard them as free and rational, and to accept that they are entitled to the same basic rights as others.
+
+Strike lists the following ethical principles which he regards as particularly important to evaluative research and which may be seen in the light of the two broad principles outlined above:
+
+[图片: images/018_5 The ethics of educational and social research/063_box.jpg | image]
+ Due process Evaluative procedures must ensure that judgements are reasonable: that known and accepted standards are consistently applied from case to case, that evidence is reasonable and that there are systematic and reasonable procedures for collecting and testing evidence.
+
+[图片: images/018_5 The ethics of educational and social research/064_box.jpg | image]
+ Privacy This involves a right to control information about oneself, and protects people from unwarranted interference in their affairs. In evaluation, it requires that procedures are not overtly intrusive and that such evaluation pertains only to those aspects of a teacher’s activity which are job related. It also protects the confidentiality of evaluation information.
+
+[图片: images/018_5 The ethics of educational and social research/065_box.jpg | image]
+ Equality In the context of evaluation, this can best be understood as a prohibition against making decisions on irrelevant grounds, such as race, religion, gender, ethnicity or sexual orientation.
+
+[图片: images/018_5 The ethics of educational and social research/066_box.jpg | image]
+ Public perspicuity This principle requires openness to the public concerning evaluative procedures, their purposes and their results.
+
+[图片: images/018_5 The ethics of educational and social research/067_box.jpg | image]
+ Humaneness This principle requires that consideration is shown to the feelings and sensitivities of those in evaluative contexts.
+
+[图片: images/018_5 The ethics of educational and social research/068_box.jpg | image]
+ Client benefit This principle requires that evaluative decisions are made in a way that respects the interests of students, parents and the public, in preference to those of educational institutions and their staff. This extends to treating participants as subjects rather than as ‘research fodder’.
+
+[图片: images/018_5 The ethics of educational and social research/069_box.jpg | image]
+ Academic freedom This requires that an atmosphere of intellectual openness is maintained in the classroom for both teachers and students. Evaluation should not be conducted in a way that chills this environment.
+
+[图片: images/018_5 The ethics of educational and social research/070_box.jpg | image]
+ Respect for autonomy Teachers are entitled to reasonable discretion in, and to exercise reasonable judgement about, their work. Evaluations should not be conducted so as to unreasonably restrict discretion and judgement.
+
+Strike (1990) develops these principles in a more extended and systematic form in his article.
+
+5.16 Research and regulation: ethical codes and review boards
+
+Ethical regulation exists at several levels: legislation, ethics review committees to oversee research in universities and other institutions (these can constitute a major hurdle for those planning to undertake research), ethical codes of the professional bodies and associations as well as the personal ethics of individual researchers are all important regulatory mechanisms. All investigators, from undergraduates pursuing a course-based research project to professional researchers striving at the frontiers of knowledge, must take cognizance of the ethical codes and regulations governing their practice. Failure to meet these responsibilities on the part of researchers is perceived as undermining the whole scientific process and may lead to legal and financial penalties and liabilities for individuals and institutions.
+
+Professional societies and associations have formulated codes of practice which express the consensus of values within a particular group and which help individual researchers in indicating what is desirable and what is to be avoided. Of course, this does not solve all problems, for there are few absolutes and in consequence ethical principles may be open to a wide range of interpretations. The establishment of comprehensive regulatory mechanisms is well founded in the UK, but it is perhaps in the field of information and data – how they are stored and the uses to which they are put, for example – that educational researchers are likely to find growing interest. This category would include, for instance, statistical data, data used as the basis for evaluation, curricular records, written records, transcripts, data sheets, personal documents, research data, computer files, and audio and video recordings.
+
+As information technology establishes itself in a centre-stage position and as society has become increasingly dependent on information, the concept of information is important not only for what it is, but for what it can do. Numerous writers have pointed out the connection between information and power (e.g. Harris et al. (1992) comment on the power over individuals through the control of personal information and its relationship to power of professionalism in which submission to expert knowledge is required). Data misuse, therefore, or disclosure at the wrong time or to the wrong client or organ, can result in the most unfortunate consequences for an individual, group or institution. And matters are greatly exacerbated if it is the wrong information, or incomplete, or deliberately misleading.
+
+In an increasingly information-rich world, it is essential that safeguards be established to protect data from misuse or abuse. The UK’s Data Protection Acts of 1984 and 1998 are designed to achieve such an end. These cover the principles of data protection, the responsibilities of data users and the rights of data subjects. Data held for ‘historical and research’ purposes are exempted from the principle which gives individuals the right of access to personal data about themselves, provided the data are not made available in a form which identifies individuals. Research data also have partial exemption from two further principles, with the effect that such data may be held indefinitely and the use of the data for research purposes need not be disclosed at the time of data collection.
+
+Of the two most important principles which do concern research data, one states that personal data (i.e. data that uniquely identify the person supplying them) shall be held only for specified and lawful purposes. The second principle states that appropriate security measures shall be taken against unauthorized access to, or alteration, disclosure or destruction of personal data and against accidental loss or destruction of personal data.
+
+Most institutions of higher education have their own ethics committees, and these usually have their own codes of ethics against which they evaluate research proposals. In addition, some important codes of practice and guidelines are published by research associations, for example the British Educational Research Association (www.bera.ac.uk), the British Psychological Society (www.bps.org.uk), the British Sociological Association (www.britsoc.co.uk), the Social Research Association (www.the-sra.org.uk), the American Educational Research Association (www.aera.net), the American Psychological Association (www.apa.org), and the American Sociological Association (www.asanet.org). We advise readers to consult these in detail.
+
+The British Psychological Society’s Code of Conduct, Ethical Principles and Guidelines (2005) includes, amongst many others, sections on competence, obtaining consent, confidentiality and personal conduct. Its section on ‘Ethical Principles for Conducting Research with Human Participants’ first discusses deception, debriefing, risk and implementation (pp. 6–7) and then moves to eleven main sections: introduction; general principles (including the guiding precept that ‘the essential principle is that the investigation should be considered from the standpoint of all the participants; foreseeable threats to their psychological well-being, health, values or dignity should be eliminated’ (p. 8)); consent; deception; debriefing; withdrawal from the investigation; confidentiality; protection of participants; observational research; giving advice; and colleagues. Interestingly it does not insist on informed consent, rather expressing it as ‘wherever possible, the investigator should inform all participants of the objectives of the investigation’ (para. 3.1). Similarly it does not proscribe deception, indicating that ‘it may be impossible to study some psychological processes without withholding information about the true object of the study or deliberately misleading the participants’ (para. 4.3). However, it says that these need to be rigorously justified, and alternatives must have been explored and found to be unavailable.
+
+The American Psychological Association’s Ethical Principles and Code of Conduct (2002) states five general principles: beneficence and non-maleficence, fidelity and responsibility, integrity, justice, and respect for people’s rights and dignity. These principles then become the basis for ten sections of ‘ethical standards’: resolving ethical issues; competence; human relations (including ‘avoiding harm’, ‘exploitative relationships’ and ‘informed consent’); privacy and confidentiality; advertising and other public statements; record keeping and fees; education and training; research and publication; assessment; and therapy.
+
+The American Sociological Association’s Code of Ethics and Policies and Procedures of the ASA Committee on Professional Ethics (1999) has five general principles: professional competence; integrity; professional and scientific responsibility; respect for people’s rights, dignity and diversity; and social responsibility. These are then devolved onto 20 ethical standards, including non-exploitation, confidentiality, informed consent, deception, offering inducements and many others.
+
+The British Sociological Association’s Statement of Ethical Practice for the British Sociological Association (2002) (Appendix update 2004) includes sections on: professional integrity; relations with and responsibilities towards research participants; relationships with research participants; covert research; anonymity, privacy and confidentiality; relations with and responsibilities towards sponsors and/or funders; carrying obligations, roles and rights; pre-empting outcomes and negotiations about research; and obligations to sponsors and/or funders during the research process.
+
+The Social Research Association’s Ethical Guidelines (2003) draws on European law (www.respect-project.org) and indicates four levels of obligations: (1) to society; (2) to funders and employer; (3) to colleagues; and (4) to subjects (including avoiding undue intrusion, obtaining informed consent, modifications to informed consent, protecting the interests of subjects, enabling participation, maintaining confidentiality of records and preventing disclosure of identities).
+
+The British Educational Research Association’s (2004) Revised Ethical Guidelines are devolved onto: responsibilities to the research profession; responsibility to the participants (including working with children, informed consent, rights to withdrawal); responsibility to the public; relationships with funding agencies; publication; intellectual ownership; relationship with host institutions. Similarly, the American Educational Research Association’s (2000) Ethical Standards of the American Educational Research Association includes: (a) responsibilities to the field; (b) research populations, educational institutions and the public (including working with children, informed consent, confidentiality, honesty (‘deception is discouraged’ and ‘should be used only when clearly necessary’, after which the reasons for the deception should be explained (para. B3)), rights of withdrawal, exploitation for personal gain, sensitivity to local circumstances (e.g. culture, religion, gender), avoidance of negative consequences, dissemination, anonymity); (c) intellectual ownership; (d) editing, reviewing and appraising research; (e) sponsors, policy makers and other users of research; and (f) students and student researchers.
+
+The UK’s Economic and Social Research Council’s Research Ethics Framework (2009) includes sections on: minimum requirements; identifying risk in social research; governance, ethics and ethical principles; context for the research ethics framework; illustrative case studies; a research ethics review checklist; and a flowchart of the review process.
+
+Websites of these research associations’ and organizations’ ethical principles and guidelines can be found either on the homepage of each association or as follows:
+
+American Sociological Association:
+
+www.asanet.org/about/ethics.cfm
+
+American Psychological Association:
+
+www.apa.org/ethics/code/index.aspx
+
+British Educational Research Association:
+
+www.bera.ac.uk/files/guidelines/ethica1.pdf
+
+www.bera.ac.uk/ethics-and-educational-research/literature-on-ethical-regulation/
+
+British Sociological Association:
+
+www.britsoc.co.uk/equality/Statement+Ethical+Practice.htm
+
+British Psychological Society:
+
+www.bps.org.uk/document-download-area/documentdownload$.cfm?file_uuid=E6917759–9799–434A-F313–9C35698E1864&ext=pdf
+
+Economic and Social Research Council:
+
+www.esrc.ac.uk/ESRCInfoCentre/Images/ESRC_Re_Ethics_Frame_tcm6–11291.pdf
+
+Social Research Association:
+
+www.the-sra.org.uk/ethical.htm
+
+American Educational Research Association:
+
+www.aera.net/aboutaera/?id=222
+
+Against ethical codes and regulation
+
+Ethical regulation of research is often conducted by university ethical committees. Whilst the intentions here might be honourable in protecting individuals and institutions, they may not fulfil these high ideals in practice. In a blistering paper against ethical regulation by ethical committees, Hammersley (2009: 212–19) argues that research ethics committees:
+
+a are incapable of making sound or ‘superior’ ethical decisions, such that their work will not improve the ethical quality of research. This is because: (i) ethical issues are contentious and there is a lack of consensus amongst social scientists on ethical matters, principles, priorities of principles and practices, or consequences (discussed early on in this chapter); (ii) ethical issues and practical research are complex (e.g. secrecy and deception in research); (iii) ethical answers cannot simply be cranked out, mechanistically or algorithmically, but are framed in specific contexts (which may be unknown to ethical committees); (iv) the remit of ethical committees is unclear (e.g. whether to approve, prevent, control methodology or topics); (v) ethical committees only need to be persuaded that the researcher has the ethical capability to conduct the research but this confuses ethical audit with ethical decision making and confuses substance and procedures of ethical review;
+
+b have no legitimacy to control researchers, and that this is inherent in ethical principles themselves: (i) researchers should have their autonomy respected; (ii) it is the researchers themselves – and not ethics committees – who have the responsibility for the ethical conduct of research and such responsibility cannot and should not be passed to a committee; (iii) ethics committees must apply the principle of ‘informed consent’ to researchers, and not just to those being researched; (iv) ethics committees operate prospectively, not only retrospectively, and this kind of prospective regulation is highly unusual in most areas of life; (v) there is almost no evidence that researchers operate unethically apart from some illegal cases, and so the processes of ethics committees is unnecessary, i.e. there is no problem that needs to be fixed;
+
+c lead to undesirable consequences in research: (i) the bureaucratization of research; (ii) the time and effort required to meet bureaucratic requirements will deter many researchers from proceeding; (iii) researchers will avoid sensitive, difficult or contested yet important areas and marginalized or powerful groups, i.e. where informed consent may not be possible, and we may not discover important data; (iv) researchers will avoid important research areas because they may consider it difficult to obtain the consent of the ethics committee.
+
+Hammerlsey argues that if ethics committees – as seems likely – are here to stay, then their roles should be clipped to providing advice, providing a forum for discussion on ethical matters and initiating such discussions. This echoes the comment from Howe and Moses (1999: 46–5) that research ethics committees have no special expertise to judge many educational research issues about such-and-such a project, and that they are bureaucratic and tend to discharge their duties in a perfunctory manner. They may provide advice and guidance, but not prospective judgements about specific research projects (Howe and Moses, 1999: 53).
+
+The difficulty with and yet strength of ethical codes is that they cannot and do not provide specific advice for what to do in specific situations. And the difficulty for ethics committees is that their operations are seen as impractical and, ultimately, anti-ethical, anti-research and anti-researchers. Ultimately, it is researchers themselves, their integrity, conscience, informed by an acute awareness of ethical issues, underpinned by guideline codes and regulated practice, which should decide what to do in a specific situation, and this should be justified, justifiable, thought through and defensible.
+
+There is a certain degree of homogeneity between the codes and guidelines cited above. Whilst they are helpful in providing guidance, they cannot tell the researcher what to do in every unique circumstance. The issue here is that ethics are ‘situated’, to quote Simons and Usher (2000); indeed, they state at the outset that
+
+while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices.
+
+(Simons and Usher, 2000: 1)
+
+The authors state that this implies that situated ethics are ‘immune to universalization’, because
+
+researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes.
+
+(Simons and Usher, 2000: 2)
+
+As was observed earlier, many ethical codes and guidelines themselves avoid univalency and unambiguity, arguing, for example, that deception, covert research and the lack of informed consent may be justi-fied. The need for polyvalency (multiple interpretations of what is worthwhile, acceptable and valuable) and situated ethics, Simons and Usher (2000: 11) argue, arises from the practicality of conducting research, the need for sensitivity to socio-political contexts and to be fair to disadvantaged groups, and to take account of the diversity and uniqueness of different research practices. What this suggests, then, is that whilst codes and guidelines may be useful in raising issues and orienting researchers, they cannot decide what should and should not be done in a specific situation; that is for individual researchers and their informed conscience to decide.
+
+5.17 Sponsored research
+
+Sponsored research does not absolve the researcher from ethical behaviour. For example, it may be considered unethical for the sponsor to tell the researcher:
+
+[图片: images/018_5 The ethics of educational and social research/071_box.jpg | image]
+ how to conduct the research;
+
+[图片: images/018_5 The ethics of educational and social research/072_box.jpg | image]
+ what results he/she should look for and what find-ings should be suppressed;
+
+[图片: images/018_5 The ethics of educational and social research/073_box.jpg | image]
+ what should and should not be reported;
+
+[图片: images/018_5 The ethics of educational and social research/074_box.jpg | image]
+ to conceal who the sponsor is;
+
+[图片: images/018_5 The ethics of educational and social research/075_box.jpg | image]
+ what are the purposes of the research.
+
+On the other hand sponsors do have the right to remain confidential; they may have the right to nondisclosure of who they are, and the purposes and findings of the research.
+
+Whilst sponsored research is usually contractual between the researcher and the sponsor, and between the researcher and the participants, and whilst the research may be for the sponsor alone and not for the public, this does not privilege the sponsor in dictating how the research should be conducted and what it should find; in short, ‘fixing’ the study.
+
+Of course the researcher’s responsibilities may lie only in conducting the study and providing the sponsor with a report; what happens to the report after that (e.g. whether it is released completely, selectively or not at all to the public or other parties within the sponsor’s organization) is a matter for the sponsor. However, this does not absolve the researcher from decisions about the conduct of the study, and the researcher must retain the right to conduct the study as she or he thinks fit, informed by, but not decided by, the sponsor. The researcher’s integrity must be absolute. It is often the case that researchers will negotiate publication rights with the sponsor in advance of the research and what confidentiality the researcher must respect.
+
+The sponsor has a right to expect high-quality, rigorous and useable research. The researcher should not succumb to pressure to:
+
+[图片: images/018_5 The ethics of educational and social research/076_box.jpg | image]
+ betray the confidentiality of the respondents;
+
+[图片: images/018_5 The ethics of educational and social research/077_box.jpg | image]
+ tamper with data, their analysis or presentation to meet a particular objective;
+
+[图片: images/018_5 The ethics of educational and social research/078_box.jpg | image]
+ present selective and unrepresentative data and conclusions;
+
+[图片: images/018_5 The ethics of educational and social research/079_box.jpg | image]
+ make recommendations that do not arise from the data themselves;
+
+[图片: images/018_5 The ethics of educational and social research/080_box.jpg | image]
+ use the data for non-negotiated personal interests, agendas, purposes and advancement;
+
+[图片: images/018_5 The ethics of educational and social research/081_box.jpg | image]
+ conduct a study in which personal research objectives influence the nature, contents and conduct of the research.
+
+The researcher has obligations to the sponsor, but not to doctor or compromise the research.
+
+5.18 Responsibilities to the research community
+
+The researcher has responsibilities to the research community, for example not to jeopardize the reputation of the research community (e.g. the university) or spoil the opportunities for further research. Thus, a novice researcher working for a higher degree may approach a school directly, using a clumsy approach, with inadequate data collection instruments and a poor research design, and then proceed to publicize the results as though they are valid and reliable. It is questionable whether he or she deserves the degree! At the very least the novice should have sought and gained advice from the supervisor, modified the research as necessary, gained approval for the research, made suitably sensitive overtures to the school and agreed rights of disclosure. Not to do so puts the researcher’s institution at risk of being denied further access, of damaging the reputation of the institution, and, if word spreads, of being publicly vilified and denied the opportunity for further research to be conducted. In this case the novice researcher has behaved unethically.
+
+Further, what responsibility to the research community does the researcher have? If a negative research report is released will schools retrench, preventing future research in schools from being undertaken? Negative research data, such as reported evidence on deliberate grade inflation by schools in order to preserve reputation (Morrison and Tang, 2002) may not endear researchers to schools.
+
+The researcher has a responsibility to colleagues to:
+
+[图片: images/018_5 The ethics of educational and social research/082_box.jpg | image]
+ protect their safety (e.g. in conducting sensitive research or research in dangerous locations);
+
+[图片: images/018_5 The ethics of educational and social research/083_box.jpg | image]
+ protect their well-being;
+
+[图片: images/018_5 The ethics of educational and social research/084_box.jpg | image]
+ protect their reputation;
+
+[图片: images/018_5 The ethics of educational and social research/085_box.jpg | image]
+ enable further research to be conducted;
+
+[图片: images/018_5 The ethics of educational and social research/086_box.jpg | image]
+ expect them to behave ethically;
+
+[图片: images/018_5 The ethics of educational and social research/087_box.jpg | image]
+ ensure that they adhere to correct and agreed procedures;
+
+[图片: images/018_5 The ethics of educational and social research/088_box.jpg | image]
+ protect the anonymity and confidentiality of sponsors if so agreed.
+
+The researcher is a member of a research community, and this brings ethical responsibilities.
+
+5.19 Conclusion
+
+In this chapter we have attempted to acquaint readers with some of the ethical difficulties they are likely to experience in the conduct of such research. It is not possible to identify all potential ethical questions or adjudicate on what is correct researcher behaviour.4 It is hoped that these pages will have induced in readers a certain disposition that will enable them to approach their own projects with a greater awareness and fuller understanding of the ethical dilemmas and moral issues lurking in the interstices of the research process. However inexperienced in these matters researchers are, they bring to social research a sense of rightness (Huizinga, 1949) on which they can construct a set of rational principles appropriate to their own circumstances and based on personal, professional and societal values (we stress the word ‘rational’ since reason is a prime ingredient of ethical thinking and it is the combination of reason and a sense of rightness that researchers must keep faith with if they are to bring a rich ethical quality to their work).
+
+Although no code of practice can anticipate or resolve all problems, there is a six-fold advantage in fashioning a personal code of ethical practice. First, such a code establishes one as a member of the wider scientific community having a shared interest in its values and concerns. Second, a code of ethical practice makes researchers aware of their obligations to their subjects and also to those problem areas where there is a general consensus about what is acceptable and what is not. In this sense it has a clarificatory value. Third, when one’s professional behaviour is guided by a principled code of ethics, then it is possible to consider that there may be alternative ways of doing the same thing, ways that are more ethical or less unethical should one be confronted by a moral challenge. Fourth, a balanced code can be an important organizing factor in researchers’ perceptions of the research situation, and as such may assist them in their need to anticipate and prepare. Fifth, a code of practice validated by their own sense of rightness will help researchers to develop an intuitive sensitivity that will be particularly helpful to them in dealing with the unknown and the unexpected, especially where the more fluidic methods such as ethnography and participant observation are concerned. And sixth, a code of practice will bring discipline to researchers’ awareness. Box 5.10 gives a short ethical code, by way of example. It must be stressed, however, that bespoke items, i.e. those designed to meet the needs of a specific project, are preferable to standard ones. The items in Box 5.9 are illustrative, and in no way exhaustive.
+
+BOX 5.9 AN ETHICAL CODE – AN ILLUSTRATION
+
+1 It is important for the researcher to reveal fully his or her identity and background.
+
+2 The purpose and procedures of the research should be fully explained to the subjects at the outset.
+
+3 The research and its ethical consequences should be seen from the subjects’ and institution’s point of view.
+
+4 Possible controversial findings need to be anticipated and where they ensue, handled with great sensitivity.
+
+5 The research should be as objective as possible. This will require careful thought being given to the design, conduct and reporting of research.
+
+6 Informed consent should be sought from all participants. All agreements reached at this stage should be honoured.
+
+7 Sometimes it is desirable to obtain informed consent in writing.
+
+8 Subjects should have the option to refuse to take part and know this; and the right to terminate their involvement at any time and know this also.
+
+9 Arrangements should be made during initial contacts to provide feedback for participants who request it. This may take the form of a written résumé of findings.
+
+10 The dignity, privacy and interests of the participants should be respected and protected at all times.
+
+11 Deceit should only be used when absolutely necessary.
+
+12 When ethical dilemmas arise, the researcher may need to consult other researchers or teachers.
+
+Source: Adapted from Reynolds, 1979
+
+BOX 5.10 ETHICAL PRINCIPLES FOR EDUCATIONAL RESEARCH (TO BE AGREED BEFORE THE RESEARCH COMMENCES)
+
+Responsibility to research
+
+[图片: images/018_5 The ethics of educational and social research/089_box.jpg | image]
+ The researcher should be competent and aware of what is involved in conducting research.
+
+[图片: images/018_5 The ethics of educational and social research/090_box.jpg | image]
+ The research must be conducted rigorously and with the correct procedures – avoid misuse of procedures at all stages.
+
+[图片: images/018_5 The ethics of educational and social research/091_box.jpg | image]
+ Report procedures accurately and publicly (rigour).
+
+[图片: images/018_5 The ethics of educational and social research/092_box.jpg | image]
+ Don’t jeopardize future research(ers).
+
+[图片: images/018_5 The ethics of educational and social research/093_box.jpg | image]
+ Report clearly and make data available for checking.
+
+[图片: images/018_5 The ethics of educational and social research/094_box.jpg | image]
+ Tell the truth (do not tell lies or falsify data, avoid being unfairly selective, e.g. to support a case, do not misrepresent data).
+
+[图片: images/018_5 The ethics of educational and social research/095_box.jpg | image]
+ Maintain the integrity and autonomy of the research, e.g. avoid censorship of, or interference with, the research by sponsors/those who give permission for the research to be undertaken.
+
+Responsibility to participants and audience(s)
+
+[图片: images/018_5 The ethics of educational and social research/096_box.jpg | image]
+ Gain fully informed consent where appropriate (usually in writing), in order to respect self-determination and autonomy; provide information on all aspects of the research and its possible consequences.
+
+[图片: images/018_5 The ethics of educational and social research/097_box.jpg | image]
+ Decide whether, and how, overt or covert research is required/justified.
+
+[图片: images/018_5 The ethics of educational and social research/098_box.jpg | image]
+ Decide whether, and how, deception is required/justified; be honest or justify dishonesty.
+
+[图片: images/018_5 The ethics of educational and social research/099_box.jpg | image]
+ Ensure non-maleficence (no harm, hurt or suffering to be caused to participants and those who might be affected by the research); be humane.
+
+[图片: images/018_5 The ethics of educational and social research/100_box.jpg | image]
+ Ensure beneficence (the research will bring benefit to the participants or will contribute to the welfare of participants).
+
+[图片: images/018_5 The ethics of educational and social research/101_box.jpg | image]
+ Ensure that participants do not leave the research worse off than when they started it.
+
+[图片: images/018_5 The ethics of educational and social research/102_box.jpg | image]
+ Respect people’s rights and dignity and interests, and be respectful – research participants are subjects, not objects to be exploited. Treat people as subjects, not objects.
+
+[图片: images/018_5 The ethics of educational and social research/103_box.jpg | image]
+ Agree individual’s rights to privacy.
+
+[图片: images/018_5 The ethics of educational and social research/104_box.jpg | image]
+ Ensure participants have the right to withdraw at any time.
+
+[图片: images/018_5 The ethics of educational and social research/105_box.jpg | image]
+ Inform participants who will have access to the data/report, i.e. the audiences of the research, how public it will be, when it will become public and how it will be disseminated; negotiate levels of release (i.e. who see which parts of the research).
+
+[图片: images/018_5 The ethics of educational and social research/106_box.jpg | image]
+ Ensure anonymity/confidentiality/non-traceability; if these are not possible then tell participants in advance.
+
+[图片: images/018_5 The ethics of educational and social research/107_box.jpg | image]
+ Indicate how anonymity will be addressed (e.g. by confidentiality, aggregation of data).
+
+[图片: images/018_5 The ethics of educational and social research/108_box.jpg | image]
+ Inform participants how data will be collected and how files/questionnaires/audio data/video data/computer files will be stored during the research and destroyed after use.
+
+[图片: images/018_5 The ethics of educational and social research/109_box.jpg | image]
+ Ensure sensitivity to people (e.g. age, ethnicity, gender, culture, religion, language, socio-economic status, etc.).
+
+[图片: images/018_5 The ethics of educational and social research/110_box.jpg | image]
+ Gain permission from all relevant parties (e.g. parents/guardians, school, principals, etc.) for access.
+
+[图片: images/018_5 The ethics of educational and social research/111_box.jpg | image]
+ Respect vulnerability (e.g. in interviewing children/those without power).
+
+[图片: images/018_5 The ethics of educational and social research/112_box.jpg | image]
+ Agree respondent validation.
+
+[图片: images/018_5 The ethics of educational and social research/113_box.jpg | image]
+ Agree ownership of the data (and when ownership passes from participants to researcher).
+
+[图片: images/018_5 The ethics of educational and social research/114_box.jpg | image]
+ Allow time for review.
+
+[图片: images/018_5 The ethics of educational and social research/115_box.jpg | image]
+ Avoid causing unnecessary offence. Thank the participants.
+
+[图片: images/018_5 The ethics of educational and social research/116_box.jpg | image]
+ Ensure that participants and sponsors have the right to dissent/distance themselves from the research.
+
+[图片: images/018_5 The ethics of educational and social research/117_box.jpg | image]
+ Demonstrate social responsibility and obligations.
+
+[图片: images/018_5 The ethics of educational and social research/118_box.jpg | image]
+ Consider indemnification, liabilities and disclaimers.
+
+[图片: images/018_5 The ethics of educational and social research/119_box.jpg | image]
+ Don’t abuse your position/power as a researcher.
+
+In more detail, one can suggest that the considerations outlined in Box 5.10 have to be borne in mind in planning, conducting and reporting research. Box 5.10 raises issues and suggestions, not solutions or decisions. These will have to be decided by each researcher in respect of the particular situation he or she faces. For a summary of ethical principles for social research see the accompanying website.
+
+[图片: images/018_5 The ethics of educational and social research/120_common.jpg | image]
+Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. In addition there is further information on ethical principles for social research. These resources can be found online at www.routledge.com/textbooks/cohen7e.

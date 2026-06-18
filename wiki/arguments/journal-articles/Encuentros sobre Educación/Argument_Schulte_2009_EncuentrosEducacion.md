@@ -22,6 +22,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Progressive Education]]"
   - "[[Rote Learning]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Normal School]]"
   - "[[Sage]]"
   - "[[Pragmatism in China]]"
@@ -121,7 +122,7 @@ citation_aliases:
 
 > - **1910–1920 年代**：被视为"发现了儿童作为独立个体的权利"，是[[Progressive Education|进步教育]]家反对传统[[Rote Learning|死记硬背]]的核心武器(p.75)
 > - **1950 年代**：被定性为"个人主义"——"以儿童为中心的原则是个人主义的，我们反对个人主义"（Cao Fu 1950，引自 p.81）
-> - **1980 年代**：重新被肯定为培养"创造力"和"主动性"的必要条件，尽管仍有人担心过度自由会导致"混乱"(p.86)
+> - **1980 年代**：重新被肯定为培养"创造力"和"主动性"的[[Necessary and Sufficient Conditions|必要条件]]，尽管仍有人担心过度自由会导致"混乱"(p.86)
 
 > 这个概念本身的含义没有变化。变化的是每一个时期的主导政治议程，而这个议程决定了该概念是被视为"亲和"还是"不可兼容"。
 

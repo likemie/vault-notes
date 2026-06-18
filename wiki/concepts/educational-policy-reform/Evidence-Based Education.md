@@ -22,94 +22,85 @@ tags:
 - paradigm/positivist
 - region/global
 related_concepts:
-  - "[[Evidence-Based Reform]]"
-  - "[[Paradigm]]"
-  - "[[Research Utilization]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Visible Learning]]"
-  - "[[Epistemology]]"
-  - "[[Champ]]"
-  - "[[Clinical Trial]]"
-  - "[[Ontology]]"
-  - "[[Causality]]"
-  - "[[Tracking]]"
   - "[[Professional Judgment]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[New Public Management]]"
-  - "[[Effect Size]]"
-  - "[[Spirals of Inquiry]]"
   - "[[Value-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
   - "[[Epistemic Governance]]"
   - "[[Scientization of Politics]]"
   - "[[Side Effects]]"
+  - "[[Clinical Trial]]"
+  - "[[Ontology]]"
+  - "[[Causality]]"
   - "[[Internal Validity]]"
+  - "[[Tracking]]"
+  - "[[New Public Management]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Paradigm]]"
+  - "[[Research Utilization]]"
+  - "[[Visible Learning]]"
+  - "[[Epistemology]]"
   - "[[Evaluation Research]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Recommendations for Practice]]"
   - "[[Multimethod Research]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
-  - "[[Construct]]"
   - "[[Direct Instruction]]"
   - "[[Material Fallacies]]"
-  - "[[Post-structuralism]]"
-  - "[[Positivism]]"
-  - "[[Pragmatism in China]]"
-  - "[[Technical Rationality]]"
-  - "[[Moral Sidestep]]"
-  - "[[Technology Infusion]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Technical Rationality]]"
+  - "[[Spirals of Inquiry]]"
+  - "[[Technology Infusion]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
-  - "[[Tullock's Bureaucracy Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-  - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Critical Realism]]"
+  - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Qualitative Research]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Random Assignment]]"
+  - "[[Systematic Review]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
-  - "[[Systematic Review]]"
-  - "[[Improvement Science]]"
-  - "[[Cluster Randomized Trials]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-analysis]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Pilot Testing]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
+  - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[Quasi-Experimental Designs]]"
+  - "[[Improvement Science]]"
   - "[[Formative Program Evaluation]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Grover Whitehurst]]"
-  - "[[John Dewey]]"
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"
+  - "[[Investing in Innovation Program]]"
+  - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Comprehensive School Reform Program]]"
-  - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[What Works Network]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[ResearchED]]"
-  - "[[Investing in Innovation Program]]"
   - "[[Playing for Success]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
-  - "[[Grammar School]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Tennessee STAR Project 1985-1989]]"
@@ -123,33 +114,33 @@ related_facts:
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Slavin_2002_ER]]"
+  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wiliam_2019]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
-  - "[[Argument_Møller_2017]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Hitchcock_2015_JBE]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
-  - "[[Argument_Slavin_2021_ROE]]"
-  - "[[Argument_Cowen_2015_CHESS]]"
-  - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Pampaka_2016_IJRME]]"
-  - "[[Argument_Cowen_2019_ERE]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Nelson_2017_ER]]"
-  - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Nordahl_2015_Paideia]]"
+  - "[[Argument_Blass_2020_JESP]]"
+  - "[[Argument_Møller_2017]]"
+  - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Slavin_2021_ROE]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Pampaka_2016_IJRME]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Blass_2020_JESP]]"
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -219,7 +210,7 @@ updated: '2026-06-17'
 ## 核心要素
 
 > [!abstract]
-> EBE 的理论与实践结构由证据转化模型、证据实施的实践转译维度、替代性改革方案以及方法论上的统计失真框架共同构成，呈现出支持者、反思者与解构者之间的多维对话。
+> EBE 的理论与实践结构由核心主张与隐含假设、证据到政策与实践的转化模型构成，与之对应的改革方案和方法论批评分别在本页后续章节展开。
 
 ### EBE 的基本主张与假设
 
@@ -244,6 +235,13 @@ updated: '2026-06-17'
 
    > [!info] 政策筛选的门槛
    > 这是 [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 提出的关键概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现的"基于科学本位研究"是一个不足的标准——任何项目都能找到支持其原则的某些零散研究。Slavin 论证真正需要的是项目**本身**已经过严格实验评估并被证明有效。这一区分直接影响了后续 ESSA (2015) 的证据标准设计。
+
+> [!claim] 命题一：随机对照试验（RCT）等严格实验研究，是确立教育"什么有效"的黄金标准。
+> 教育实践决策必须依赖于通过随机分配与控制变量确立的实验证据，以排除外部偏误，证明干预项目的可复制效果。[[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]; [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]].
+
+> [!warrant]- 命题一的支撑理由
+> 随机对照试验通过随机化将未测量的混淆变量均匀分配在干预组与对照组中，是目前社会科学确立因果推断[[Internal Validity|内部效度]]最强大的工具，能防止因"相关性不等于因果性"导致的无效改革。[[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]].
+> - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，前测失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
 
 #### 隐含假设
 
@@ -321,109 +319,6 @@ updated: '2026-06-17'
 
 > [!note] Blass (2020) — 五要素评估框架
 > 学术证据在政策采纳前，须接受对**方法论、情境、假设、领导力和时效性**五个维度的系统性交叉评估——仅凭"在表面上似乎适用"而采纳学术论证可能是危险的。[[Argument_Blass_2020_JESP|Blass, 2020, p. 96]]
-
----
-
-### EBE 的改革与替代方案
-
-#### Peterson 的"什么有效 2.0"改革提案
-
-[[Argument_Peterson_2016_IJRME|Peterson (2016)]] 提出了不同于 Biesta（放弃 EBE）和 Wrigley（揭露方法论缺陷）的改革路径——她接受 RCT 将继续是教育研究的主要组成部分，但主张从根本上改革其**设计方式**和**制度基础设施**。
-
-**诊断：黑箱 RCT 的四重局限**（[[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 300–302]]）：
-
-1. *与教师主导干预不匹配*：黑箱 RCT 将教师视为项目交付管道而非专业判断者，引导资金流向更程序化、更少教师主导的干预（citing Howe, 2004, p. 45）。
-2. *实施薄弱与规模扩展失败*：美国超 90% 教育有效性试验未显示影响（C4E, 2013），关键在于干预移出初始情境时的不完整实施。
-3. *低采纳率*：单纯使研究更易获得并不能解决采纳问题，如果证据不够清晰或强到能回应实践者的问题。
-4. *仅适用于二选一决策*：Cartwright & Hardie (2012) 指出 RCT 证据仅适用于评估是否采用项目 X，但教育情境中因素的相互依赖使单一二选一决策极少可行。
-
-> [!pathways] 处方：双组件整合
-> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立因果贡献，产出更细粒度、更可迁移的知识。
-> 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将网络化改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
-> 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制假设进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
-
-Peterson 的贡献补充了 EBE 批判的改革建设维度：在接受 RCT 方法的前提下主张从内部改革其设计和制度基础，而非仅从外部批判。
-
-#### Agency 作为核心哲学分歧
-
-[[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, p.235)]] 识别了"什么有效"辩论中一个此前未被充分阐明的根本维度——**能动性（agency）的分配**：
-
-> [!line-a] 正统立场：教师-proof 执行管道
-> 假定所有能动性在政策和干预项目手中，追求"teacher-proof"方案，要求绝对忠实执行以排除教师个人变异。
-
-> [!line-b] 替代整合立场：教师与本地因素的能动性
-> 将能动性分配给教师和本地因素，承认教师的情感、热情和自主调适是干预成功的前提，允许教师作为中介根据情境微调项目（Hanley et al., 2016; Peterson, 2016）。
-
-> [!implication] 核心盲点：学习者的能动性
-> Pampaka et al. 指出，两种立场都系统性忽略了"学习者同样是具有能动性的主体"这一核心事实。为了捕捉复杂的教与学关系，评估中除了学业成就指标外，必须测量学生对该学科的**态度、倾向（dispositions）和学业抱负（aspirations）**等非智力维度的替代性学习结果（Williams & Ryan, 2013; Pampaka et al., 2013）。
-
-#### 从"什么有效"到"什么曾经有效，在哪里，如何，对谁"
-
-[[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, pp. 234–235)]] 总结指出，实践需要的知识基础远比政策制定要宽阔和复杂得多。政策因为需要行政便利而倾向于寻求"简单性"（即单一排行榜和标准化干预）；但实践需要解答的是"为什么有效"、"在什么情境下有效"。Hanley et al. (2016, p. 296) 对此提出了极具代表性的呼吁：
-
-> "也许，'什么有效'（what works）议程的迟钝性（bluntness）是时候演化为进一步确定'什么对谁有效（what works for whom）、通过什么方式、在什么情境下'。" (cited in [[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 234]])
-
-这一共识取向与 EIP 促进多源证据融合的主张([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]])，以及 Wiliam (2019) 指出的"在什么条件下这个干预有效"的追问高度契合，标志着批判性循证研究正走向实证层面的范式整合。
-
----
-
-### EBE 的三级统计失真与实在论机制
-
-> [!logic-map] 证据到政策与实践的扭曲路径
-> ```mermaid
-> flowchart TD
->     A["Level 1: 实验/RCT 层面"] -->|去情境化与黑箱操作| B["Level 2: 元分析 层面"]
->     B -->|异质性混淆与统计炼金术| C["Level 3: 元-元分析 层面"]
->     C -->|排行榜修辞与速度表指针| D["去情境化行政决策 (去专业化)"]
-> 
->     subgraph Level1 ["Level 1 失真 (RCT)"]
->         A1["对照组模糊 (placebo缺失)"]
->         A2["前测样本失衡 (匹配偏误)"]
->         A3["排除教师能动性 (意志排斥)"]
->     end
-> 
->     subgraph Level2 ["Level 2 失真 (Meta-Analysis)"]
->         B1["强行拼合异质研究 (苹果橙子)"]
->         B2["掩盖实证变异性 (均值泥浆)"]
->         B3["因果机制缺失 (纯数字测量)"]
->     end
-> 
->     subgraph Level3 ["Level 3 失真 (Meta-Meta-Analysis)"]
->         C1["Hattie 0.40阀值逻辑偏误"]
->         C2["Simpson 测量学三系统偏差"]
->         C3["排行榜过滤结构情境 (如 TA 案例)"]
->     end
-> 
->     A -.-> Level1
->     B -.-> Level2
->     C -.-> Level3
-> ```
-
-[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制，批判了其对教育因果关系的简化：
-
-- **Level 1（RCT 层面：实验简化与安慰剂缺失）**：控制组通常是"常规教学"（business as usual）的真实高强度教学而非医学上的空白安慰剂，这使效应量失去了绝对参考。此外，RCT 将教师的教学热情和学生的推理施为（Agency）视为干扰项进行严格屏蔽，形成了没有深层因果机制的"数据黑箱"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 5–6]]。
-- **Level 2（元分析层面：异质性混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异质的研究，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
-- **Level 3（元-元分析层面：双重失真与排行榜修辞）**：以 Hattie 阀值和 EEF Toolkit 为代表的元-元分析，将前几级的统计偏误进一步累积和放大。其产出的"排行榜修辞"和"月份排行"彻底过滤掉了干预措施发挥作用的具体结构性与情境因素，为决策者提供了极具误导性的粗暴"钝器"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 11–12]]。
-
-
----
-
-## 围绕概念形成的命题
-
-> [!abstract] 命题总览
-> 围绕证据本位教育形成了关于研究方法（RCT 黄金标准）、证据整合（元分析排行榜）以及证据认证（清算中心）的一系列核心命题。支持者强调其客观性与普适效率，批评者则解构了其方法论偏误与局限。
-
----
-
-> [!claim] 命题一：随机对照试验（RCT）等严格实验研究，是确立教育"什么有效"的黄金标准。
-> 教育实践决策必须依赖于通过随机分配与控制变量确立的实验证据，以排除外部偏误，证明干预项目的可复制效果。[[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]; [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]].
-
-> [!warrant]- 命题一的支撑理由
-> 随机对照试验通过随机化将未测量的混淆变量均匀分配在干预组与对照组中，是目前社会科学确立因果推断[[Internal Validity|内部效度]]最强大的工具，能防止因"相关性不等于因果性"导致的无效改革。[[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]].
-> - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，前测失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
-
----
-
 ## 概念演变
 
 > [!timeline] 概念演变时间线
@@ -439,60 +334,71 @@ Peterson 的贡献补充了 EBE 批判的改革建设维度：在接受 RCT 方�
 > [!phase] 1992–1996 · 奠基期
 > Guyatt 等人建立循证医学范式；Hargreaves 在英国发起教育类比；OECD 开始关注研究-政策脱节问题。
 
-- **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定[[Paradigm|范式]]
-- **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题([[Argument_Møller_2017|Møller, 2017, p.377]])
-- **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
-- **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系，强调教育者也需使用多种形式和来源的证据
+> [!timeline] 关键事件
+> - **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定[[Paradigm|范式]]
+> - **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题([[Argument_Møller_2017|Møller, 2017, p.377]])
+> - **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
+> - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系，强调教育者也需使用多种形式和来源的证据
 
 ### 美国的制度化建设（1998–2015）
 
 > [!phase] 1998–2015 · 制度化建设期
 > 联邦立法将证据与拨款挂钩（NCLB, ESSA），WWC 创建，证据标准从原则走向层级化政策框架。
 
-- **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
-- **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019|Wiliam, 2019, p.3]])
-- **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
-- **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
-- **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
+> [!timeline] 关键事件
+> - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
+> - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019|Wiliam, 2019, p.3]])
+> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> - **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
+> - **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 
 ### 英国与国际组织的制度化推动（2007–2016）
 
 > [!phase] 2007–2016 · 国际扩散期
 > OECD 和欧盟强化"什么有效"议程；EEF 成立；What Works Network 建立；批判性文献开始反扑。
 
-- **2007** — OECD 发布 *Evidence in Education: Linking Research and Policy*（Burns & Schuller, 2007），强化了"什么有效"议程；报告主张识别"什么有效"对教育政策制定至关重要，最佳方法是 RCT（Cook & Gorard, 2007）([[Argument_Møller_2017|Møller, 2017, p.377–378]])
-- **2006–2009** — [[EU Evidence-Informed Education Policy Initiatives]] 开始成形：2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出知识创造、知识应用和知识中介三类挑战，2009 年 ET 2020 将进展监测视为证据本位政策制定的重要基础([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28–30]])
-- **2011** — 英国 Pupil Premium Toolkit 创建，为 Cowen 的"官僚知识问题"论证提供了具体案例([[Argument_Wiliam_2019|Wiliam, 2019, p.4]])
-- **2013** — 英国 [[What Works Network]] 建立，[[EEF Teaching and Learning Toolkit]] 成为旗舰产品；同年 [[ResearchED]] 由 Tom Bennett 创立为教师草根 [[Evidence-Informed Practice|EIP]] 运动。然而，[[Argument_Wrigley_2018_BERJ|Wrigley (2018, p. 4)]] 指出这一草根运动迅速被前教育部大臣 Nick Gibb 背书与收编，用于宣扬符合官方偏好的传统教学和拼读产品，实质上成为边缘化大学教育学院批判性研究的"伪草根"治理工具。
-- **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。[[Argument_Møller_2017|Møller (2017, p.378)]] 追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
+> [!timeline] 关键事件
+> - **2007** — OECD 发布 *Evidence in Education: Linking Research and Policy*（Burns & Schuller, 2007），强化了"什么有效"议程；报告主张识别"什么有效"对教育政策制定至关重要，最佳方法是 RCT（Cook & Gorard, 2007）([[Argument_Møller_2017|Møller, 2017, p.377–378]])
+> - **2006–2009** — [[EU Evidence-Informed Education Policy Initiatives]] 开始成形：2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出知识创造、知识应用和知识中介三类挑战，2009 年 ET 2020 将进展监测视为证据本位政策制定的重要基础([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28–30]])
+> - **2011** — 英国 Pupil Premium Toolkit 创建，为 Cowen 的"官僚知识问题"论证提供了具体案例([[Argument_Wiliam_2019|Wiliam, 2019, p.4]])
+> - **2013** — 英国 [[What Works Network]] 建立，[[EEF Teaching and Learning Toolkit]] 成为旗舰产品；同年 [[ResearchED]] 由 Tom Bennett 创立为教师草根 [[Evidence-Informed Practice|EIP]] 运动。然而，[[Argument_Wrigley_2018_BERJ|Wrigley (2018, p. 4)]] 指出这一草根运动迅速被前教育部大臣 Nick Gibb 背书与收编，用于宣扬符合官方偏好的传统教学和拼读产品，实质上成为边缘化大学教育学院批判性研究的"伪草根"治理工具。
+> - **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。[[Argument_Møller_2017|Møller (2017, p.378)]] 追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
 
 ### 支持者阵营的纲领性论述（2002–2021）
 
 > [!phase] 2002–2021 · 支持者的理论建构
 > Slavin 系统论证 EBE 的必要性与路径；ESSA 证据标准制度化；中国被纳入国际比较框架。
 
-- **2002** — Slavin 在 *Educational Researcher* 上发表"Evidence-Based Educational Policies"（AERA 杰出讲座），系统论证证据本位教育政策的必要性、方法论基础和政策路径
-- **2019** — Slavin 从支持者立场总结三项进展（项目存量增长、ESSA 证据标准制度化、国际扩散）
-- **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位教育改革国际比较，系统记录中国教育实证研究的快速增长、制度化建设以及中国学者对证据本位研究范式的五类内部质疑([[Argument_Slavin_2021_ROE|Slavin et al., 2021]])
+> [!timeline] 关键事件
+> - **2002** — Slavin 在 *Educational Researcher* 上发表"Evidence-Based Educational Policies"（AERA 杰出讲座），系统论证证据本位教育政策的必要性、方法论基础和政策路径
+> - **2019** — Slavin 从支持者立场总结三项进展（项目存量增长、ESSA 证据标准制度化、国际扩散）
+> - **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位教育改革国际比较，系统记录中国教育实证研究的快速增长、制度化建设以及中国学者对证据本位研究范式的五类内部质疑([[Argument_Slavin_2021_ROE|Slavin et al., 2021]])
 
 ### 批判性文献的兴起与演进（2004–2019）
 
 > [!phase] 2004–2019 · 批判性反思期
 > Biesta、Wiliam、Wrigley、Cowen 等从哲学、方法论、制度和认识论多维系统解构 EBE，推动范式整合走向"证据知情"。
 
-- **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
-- **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
-- **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE|Biesta, 2010]]）
-- **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
-- **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
-- **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
-- **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
-- **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
+> [!timeline] 关键事件
+> - **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
+> - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
+> - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE|Biesta, 2010]]）
+> - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
+> - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
+> - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
+> - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
+> - **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
 
 ---
 
-## 实证发现
+## 争议与批评
+
+> [!tension] 核心争议
+> EBE 构成了当代教育研究领域中历时最久、多学科卷入最深的主流争议。其核心在于工具主义科学主义管理（什么有效）与解放主义人本价值论（为了什么目的）的根本张力。
+
+> [!warning] 方法论批评与适用局限
+> EBE 面临来自[[Epistemology|认识论]]、方法论、实施、制度、政治经济学和文化政治等多个维度的系统性质疑，构成了教育研究中规模最大、持续时间最长的学术争议之一。以下按维度梳理各批判阵营的核心论点和论据。
 
 > [!finding-cards] 实证发现总览
 > 1. **清算中心结论不一致**：Wadhwa 等发现不同教育证据清理机构对同一项目的评级一致性极低，仅为 30% 左右。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
@@ -505,45 +411,6 @@ Peterson 的贡献补充了 EBE 批判的改革建设维度：在接受 RCT 方�
 > - **30%**：多重评级项目中，不同机构给出一致有效性结论的比例。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
 > - **+0.24SD vs +0.00SD**：Fresh Start 实验组前测低分偏差带来的官方效应量 vs 排除失衡后的真实匹配效应量。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
 > - **0.40**：John Hattie 元-元分析用来划定教学法是否有影响的 Hingepoint 铰链点阀值。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]]
-
-#### 大规模有效干预的缺失与"萎靡感"
-
-> [!chain-link] 大规模资助 → 90% 零效应 → "什么有效"议程的经验基础被动摇
-
-Pampaka, Williams & Homer (2016, p.231) 在 IJRME "什么有效"特刊导言中诊断了一个关键经验事实：尽管 [[Education Endowment Foundation|EEF]]（最初约 £125M）和美国 DOE 等机构对 RCT 进行了大量且主导性的资助，"至今很少有显著正向的教育实践在大规模上出现"。这一发现直接动摇了 EBE 核心推动力的经验基础——如果大规模投入未能产生大规模效果，则"什么有效"议程本身的有效性需要被重新审视。
-
-Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，这种萎靡感源于"该方法未能识别大规模有效的干预"（p.233）。特刊中 Spybrook 等的 [[Cluster Randomized Trials|CRT]] 精度研究和 Schweig & Pane 的部分嵌套 RCT 方法改进提供了技术层面的回应，但编者质疑这些技术改进"是否真的能产生必要的差异"（p.233）。
-
-#### 非干预研究中的实践建议增长
-
-> [!chain-link] 非干预研究占四分之三 → 66% 含实践建议（RFP）→ 相关性被过度转译为因果行动命令
-
-**争议背景**：[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将 EBE 的"证据到实践"问题推进到期刊论文写作层面：教育心理学研究者常希望研究能改善学生学习，但如果[[Non-intervention Research|非干预研究]]直接给出"教师应如何做"的建议，就可能把相关性、观察性或质性发现转化为未经检验的因果行动命令([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2–4]])。
-
-**核心发现**：作者审查 2020 年五本经验教育心理学期刊，发现非[[Intervention Research|干预研究]]仍约占全部研究的四分之三；随机实验比例从 2010 年的 23% 降至 2020 年的 20%，而非干预文章中约三分之二包含 [[Recommendations for Practice|实践建议]]。在观察/相关研究中，含实践建议比例从 2000 年 41%、2010 年 46% 上升到 2020 年 66%；[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6–7]])。
-
-**方法论含义**：问题并非[[Non-intervention Research|非干预研究]]没有价值，而是它在研究序列中更适合描述情境、识别变量关系和生成干预假设；若直接提出"采用某实践会改善某结果"的 RFP，就把本应由[[Intervention Research|干预研究]]或[[Experimental Research|实验研究]]检验的因果关系提前写成实践处方([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2–3, 9]])。
-
-#### 清算中心评级一致性与"evidence-based"的构念效度
-
-> [!chain-link] 12个清算中心比较 → 83%项目单机构评级 → 多重评级中仅30%一致 → "evidence-based"标签缺乏稳定含义
-
-**争议背景**：Wadhwa, Zheng & Cook 将 EBE 中"什么算作 evidence-based"这一问题转化为清算中心实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题。如果这些机构对同一项目很少达成一致，就说明"evidence-based"的实践含义并不稳定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
-
-**核心发现**：作者比较 12 个教育清算中心，并在 10 个清算中心的 1,359 个项目中估计跨机构一致性。结果显示，83.2% 的项目只被一个清算中心评级，只有 17% 有多重评级可供比较；在被多个清算中心评级的项目中，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。评级不一致主要来自清算中心对高等级证据标准的差异，尤其是是否要求复制、独立复制和治疗后持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26–27]])。
-
-**方法论含义**：即使暂时接受 RCT、[[Quasi-Experimental Designs|QED]] 和研究综合可以产生项目有效性知识，仍然存在一个更后设的问题：哪些效果、哪些研究、哪些复制条件足以使项目被公共机构标记为"有证据"？在清算中心语境中，"evidence-based"只有有限的实践[[Construct|构念]]效度，使用者不应把单一清算中心评级视为高效度、已认证的知识([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
-
-
----
-
-## 争议与批评
-
-> [!tension] 核心争议
-> EBE 构成了当代教育研究领域中历时最久、多学科卷入最深的主流争议。其核心在于工具主义科学主义管理（什么有效）与解放主义人本价值论（为了什么目的）的根本张力。
-
-> [!warning] 方法论批评与适用局限
-> EBE 面临来自[[Epistemology|认识论]]、方法论、实施、制度、政治经济学和文化政治等多个维度的系统性质疑，构成了教育研究中规模最大、持续时间最长的学术争议之一。以下按维度梳理各批判阵营的核心论点和论据。
 
 ### 关联理论背景
 
@@ -638,6 +505,28 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 2. **开放系统与因果涌现性（Emergence）**：教育是一个多层分层交互的"开放系统"（涵盖国家政策、学校制度、课堂互动、个体信念与 biographies）。整体的效果不能等同于各部分的线性累加，而是一个非线性的涌现过程。
 > 3. **施为者悖论（Teacher Agency Paradox）**：RCT 实验在设计上试图排除教师和学生的个人意志对干预的影响，以实现标准化交付。然而在真实课堂中，项目的成功完全依赖教师的情感、热情和主动调节，以及学生对项目资源的推理（Reasoning）。这意味着，**RCT 极力控制并视为"污染源"的人类意志，恰恰是产生教学效果的"必要因果机制"**。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 7, 15]]
 
+
+#### 大规模有效干预的缺失与"萎靡感"
+
+> [!chain-link] 大规模资助 → 90% 零效应 → "什么有效"议程的经验基础被动摇
+
+Pampaka, Williams & Homer (2016, p.231) 在 IJRME "什么有效"特刊导言中诊断了一个关键经验事实：尽管 [[Education Endowment Foundation|EEF]]（最初约 £125M）和美国 DOE 等机构对 RCT 进行了大量且主导性的资助，"至今很少有显著正向的教育实践在大规模上出现"。这一发现直接动摇了 EBE 核心推动力的经验基础——如果大规模投入未能产生大规模效果，则"什么有效"议程本身的有效性需要被重新审视。
+
+Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，这种萎靡感源于"该方法未能识别大规模有效的干预"（p.233）。特刊中 Spybrook 等的 [[Cluster Randomized Trials|CRT]] 精度研究和 Schweig & Pane 的部分嵌套 RCT 方法改进提供了技术层面的回应，但编者质疑这些技术改进"是否真的能产生必要的差异"（p.233）。
+
+#### 清算中心评级一致性与"evidence-based"的构念效度
+
+> [!chain-link] 12个清算中心比较 → 83%项目单机构评级 → 多重评级中仅30%一致 → "evidence-based"标签缺乏稳定含义
+
+**争议背景**：Wadhwa, Zheng & Cook 将 EBE 中"什么算作 evidence-based"这一问题转化为清算中心实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题。如果这些机构对同一项目很少达成一致，就说明"evidence-based"的实践含义并不稳定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+
+**核心发现**：作者比较 12 个教育清算中心，并在 10 个清算中心的 1,359 个项目中估计跨机构一致性。结果显示，83.2% 的项目只被一个清算中心评级，只有 17% 有多重评级可供比较；在被多个清算中心评级的项目中，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。评级不一致主要来自清算中心对高等级证据标准的差异，尤其是是否要求复制、独立复制和治疗后持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26–27]])。
+
+**方法论含义**：即使暂时接受 RCT、[[Quasi-Experimental Designs|QED]] 和研究综合可以产生项目有效性知识，仍然存在一个更后设的问题：哪些效果、哪些研究、哪些复制条件足以使项目被公共机构标记为"有证据"？在清算中心语境中，"evidence-based"只有有限的实践[[Construct|构念]]效度，使用者不应把单一清算中心评级视为高效度、已认证的知识([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
+
+
+---
+
 ### 方法论与科学哲学批评
 
 #### 元-元分析：EBE 方法论雄心的顶峰与局限
@@ -652,11 +541,48 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 #### 元-元分析的三级统计失真
 
+> [!logic-map] 证据到政策与实践的扭曲路径
+> ```mermaid
+> flowchart TD
+>     A["Level 1: 实验/RCT 层面"] -->|去情境化与黑箱操作| B["Level 2: 元分析 层面"]
+>     B -->|异质性混淆与统计炼金术| C["Level 3: 元-元分析 层面"]
+>     C -->|排行榜修辞与速度表指针| D["去情境化行政决策 (去专业化)"]
+> 
+>     subgraph Level1 ["Level 1 失真 (RCT)"]
+>         A1["对照组模糊 (placebo缺失)"]
+>         A2["前测样本失衡 (匹配偏误)"]
+>         A3["排除教师能动性 (意志排斥)"]
+>     end
+> 
+>     subgraph Level2 ["Level 2 失真 (Meta-Analysis)"]
+>         B1["强行拼合异质研究 (苹果橙子)"]
+>         B2["掩盖实证变异性 (均值泥浆)"]
+>         B3["因果机制缺失 (纯数字测量)"]
+>     end
+> 
+>     subgraph Level3 ["Level 3 失真 (Meta-Meta-Analysis)"]
+>         C1["Hattie 0.40阀值逻辑偏误"]
+>         C2["Simpson 测量学三系统偏差"]
+>         C3["排行榜过滤结构情境 (如 TA 案例)"]
+>     end
+> 
+>     A -.-> Level1
+>     B -.-> Level2
+>     C -.-> Level3
+> ```
+
+
+> [!note] 三级失真机制详解（Wrigley, 2018）
+> [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制：
+> - **Level 1（RCT 层面：实验简化与安慰剂缺失）**：控制组通常是"常规教学"（business as usual）的真实高强度教学而非医学上的空白安慰剂，这使效应量失去了绝对参考。此外，RCT 将教师的教学热情和学生的推理施为（Agency）视为干扰项进行严格屏蔽，形成了没有深层因果机制的"数据黑箱"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 5–6]]。
+> - **Level 2（元分析层面：异质性混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异质的研究，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
+> - **Level 3（元-元分析层面：双重失真与排行榜修辞）**：以 Hattie 阀值和 EEF Toolkit 为代表的元-元分析，将前几级的统计偏误进一步累积和放大。其产出的"排行榜修辞"和"月份排行"彻底过滤掉了干预措施发挥作用的具体结构性与情境因素，为决策者提供了极具误导性的粗暴"钝器"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 11–12]]。
+
 > [!critique-method] 从 RCT 到元分析到元-元分析：证据在三层聚合中系统性失真
 > RCT 层（安慰剂缺失/能动性排斥）→ 元分析层（异质性混淆/"21世纪统计炼金术"）→ 元-元分析层（Hattie 排行榜彻底过滤情境因素）。Wrigley (2018, 2019)
 
 > [!note] 体育参与案例追踪与三级失真
-> [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Wrigley & McCusker (2019) 通过理论和案例两种路径揭示了证据综合中的系统性失真（三级流程图详见下文"EBE 的三级统计失真与实在论机制"）。
+> [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Wrigley & McCusker (2019) 通过理论和案例两种路径揭示了证据综合中的系统性失真（三级流程图参见上方 [!logic-map]）。
 > 
 > **体育参与案例**（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 120–123]]）：EEF Toolkit 报告体育参与效应量 0.17（+2 个月）。追踪来源揭示：最高效应量（0.80）来自 [[Playing for Success]]——足球场一对一辅导项目，与普通"体育参与"几乎毫无共同之处；Shulruf (2010) 源元分析主要结论恰恰是"**没有稳健证据表明课外活动与学生成果之间存在因果关系**"。
 > 
@@ -693,6 +619,17 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > | 系统综述 / 元分析 | 工具[[Variable\|变量]]估计、合成控制、差异中差 |
 > | 效应量呈现（如 EEF Toolkit） | 调查、参与观察、访谈、案例研究 |
 > | 学校/课堂层面干[[Pilot Testing\|预测试]] | 过程追踪、分析性叙事 |
+
+
+#### 非干预研究中的实践建议增长
+
+> [!chain-link] 非干预研究占四分之三 → 66% 含实践建议（RFP）→ 相关性被过度转译为因果行动命令
+
+**争议背景**：[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将 EBE 的"证据到实践"问题推进到期刊论文写作层面：教育心理学研究者常希望研究能改善学生学习，但如果[[Non-intervention Research|非干预研究]]直接给出"教师应如何做"的建议，就可能把相关性、观察性或质性发现转化为未经检验的因果行动命令([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2–4]])。
+
+**核心发现**：作者审查 2020 年五本经验教育心理学期刊，发现非[[Intervention Research|干预研究]]仍约占全部研究的四分之三；随机实验比例从 2010 年的 23% 降至 2020 年的 20%，而非干预文章中约三分之二包含 [[Recommendations for Practice|实践建议]]。在观察/相关研究中，含实践建议比例从 2000 年 41%、2010 年 46% 上升到 2020 年 66%；[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6–7]])。
+
+**方法论含义**：问题并非[[Non-intervention Research|非干预研究]]没有价值，而是它在研究序列中更适合描述情境、识别变量关系和生成干预假设；若直接提出"采用某实践会改善某结果"的 RFP，就把本应由[[Intervention Research|干预研究]]或[[Experimental Research|实验研究]]检验的因果关系提前写成实践处方([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2–3, 9]])。
 
 ### 实施、制度与政治批评
 
@@ -813,6 +750,55 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 
 ---
+
+
+---
+
+## EBE 的改革与替代方案
+
+### Peterson 的"什么有效 2.0"改革提案
+
+> [!note] Peterson (2016) 改革路径
+> 不同于 Biesta（放弃 EBE）和 Wrigley（揭露方法论缺陷），Peterson 接受 RCT 将继续是教育研究的主要组成部分，但主张从根本上改革其**设计方式**和**制度基础设施**。
+
+> [!warning] 诊断：黑箱 RCT 的四重局限（Peterson, 2016, pp. 300–302）
+> 1. *与教师主导干预不匹配*：黑箱 RCT 将教师视为项目交付管道而非专业判断者，引导资金流向更程序化、更少教师主导的干预（Howe, 2004, p. 45）。
+> 2. *实施薄弱与规模扩展失败*：美国超 90% 教育有效性试验未显示影响（C4E, 2013），关键在于干预移出初始情境时的不完整实施。
+> 3. *低采纳率*：单纯使研究更易获得并不能解决采纳问题，如果证据不够清晰或强到能回应实践者的问题。
+> 4. *仅适用于二选一决策*：Cartwright & Hardie (2012) 指出 RCT 证据仅适用于评估是否采用项目 X，但教育情境中因素的相互依赖使单一二选一决策极少可行。
+
+> [!pathways] 处方：双组件整合
+> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立因果贡献，产出更细粒度、更可迁移的知识。
+> 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将网络化改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
+> 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制假设进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
+
+> [!implication] Peterson 的改革立场
+> 在接受 RCT 方法的前提下主张从内部改革其设计和制度基础，而非仅从外部批判。这补充了 EBE 批判的改革建设维度。
+
+### Agency 作为核心哲学分歧
+
+> [!note] 能动性分配：[[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, p.235)]]
+> 识别了"什么有效"辩论中一个此前未被充分阐明的根本维度——**能动性（agency）的分配**：
+
+> [!line-a] 正统立场：教师-proof 执行管道
+> 假定所有能动性在政策和干预项目手中，追求"teacher-proof"方案，要求绝对忠实执行以排除教师个人变异。
+
+> [!line-b] 替代整合立场：教师与本地因素的能动性
+> 将能动性分配给教师和本地因素，承认教师的情感、热情和自主调适是干预成功的前提，允许教师作为中介根据情境微调项目（Hanley et al., 2016; Peterson, 2016）。
+
+> [!implication] 核心盲点：学习者的能动性
+> Pampaka et al. 指出，两种立场都系统性忽略了"学习者同样是具有能动性的主体"这一核心事实。为了捕捉复杂的教与学关系，评估中除了学业成就指标外，必须测量学生对该学科的**态度、倾向（dispositions）和学业抱负（aspirations）**等非智力维度的替代性学习结果（Williams & Ryan, 2013; Pampaka et al., 2013）。
+
+### 从"什么有效"到"什么曾经有效，在哪里，如何，对谁"
+
+> [!implication] 实践知识需要超越政策便利
+> [[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, pp. 234–235)]] 总结指出，实践需要的知识基础远比政策制定要宽阔和复杂得多。政策因为需要行政便利而倾向于寻求"简单性"（即单一排行榜和标准化干预）；但实践需要解答的是"为什么有效"、"在什么情境下有效"。Hanley et al. (2016, p. 296) 对此提出了极具代表性的呼吁：
+
+> "也许，'什么有效'（what works）议程的迟钝性（bluntness）是时候演化为进一步确定'什么对谁有效（what works for whom）、通过什么方式、在什么情境下'。" (cited in [[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 234]])
+
+> [!implication] 范式整合的方向
+> 这一共识取向与 EIP 促进多源证据融合的主张([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]])，以及 Wiliam (2019) 指出的"在什么条件下这个干预有效"的追问高度契合，标志着批判性循证研究正走向实证层面的范式整合。
+
 
 ## 应用案例
 
