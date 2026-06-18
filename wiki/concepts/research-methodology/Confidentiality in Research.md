@@ -1,13 +1,13 @@
 ---
 title: Confidentiality in Research
 aliases:
-  - "研究保密"
-  - "研究中的保密性"
-  - "confidentiality"
-  - "保密承诺"
-summary: "研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一"
+  - 研究保密
+  - 研究中的保密性
+  - 保密承诺
+  - Confidentiality
+summary: 研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一
 type: concept
-domain: "research-methodology"
+domain: research-methodology
 tags:
   - method/research-ethics
   - theme/research-governance
