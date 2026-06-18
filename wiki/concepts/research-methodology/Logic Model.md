@@ -48,7 +48,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 
 在复杂教育改革中，逻辑模型的价值不只是画流程图，而是建立共享预期。若利益相关者一开始就从项目投入跳到学生成就增益，很多中间过程会被忽略；逻辑模型可以说明教师专业发展、课堂环境变化、数字资源使用、学生参与和长期成就之间需要经历哪些阶段([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-124]])。
 
-在[[University-Industry Collaboration|产学合作]]领域，逻辑模型被应用于评估伙伴关系的绩效——迫使评估者明确投资的理由和目标，区分计划工作（包括所需投入和由此实现的活动）、产生的输出，以及这些输出最终对组织和更广泛系统产生的影响。任何伙伴关系投资绩效的评估还应反思考量的”反事实”——在没有这些投资的情况下会实现什么结果和影响（即”影响的额外性”，additionality of impacts）（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.23]]）。
+在[[University-Industry Collaboration|产学合作]]领域，逻辑模型被应用于评估伙伴关系的绩效——迫使评估者明确投资的理由和目标，区分计划工作（包括所需投入和由此实现的活动）、产生的输出，以及这些输出最终对组织和更广泛系统产生的影响。任何伙伴关系投资绩效的评估还应反思考量的”[[Counterfactual|反事实]]”——在没有这些投资的情况下会实现什么结果和影响（即”影响的额外性”，additionality of impacts）（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.23]]）。
 
 ## 认识论立场
 

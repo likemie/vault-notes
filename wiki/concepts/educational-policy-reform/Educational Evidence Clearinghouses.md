@@ -115,7 +115,7 @@ updated: '2026-05-24'
 
 ### 证据标准制定
 
-清算中心首先决定“什么样的研究能算证据”。在 12 个教育清算中心的比较中，全部把 [[Randomised Controlled Trials|RCT]] 放在首选研究设计位置，但对随机化层级、流失、基线等值、分析层级和 [[Intent-to-Treat Analysis|ITT]] 的要求不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。对 [[Quasi-Experimental Designs|QED]] 的处理更不一致：所有机构都承认一般 QED 类型，但对回归断点设计和中断时间序列的重视程度不同，[[What Works Clearinghouse|WWC]] 是少数为这些设计制定较详细标准的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-11]])。
+清算中心首先决定“什么样的研究能算证据”。在 12 个教育清算中心的比较中，全部把 [[Randomised Controlled Trials|RCT]] 放在首选研究设计位置，但对[[Random Assignment|随机化]]层级、流失、基线等值、分析层级和 [[Intent-to-Treat Analysis|ITT]] 的要求不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。对 [[Quasi-Experimental Designs|QED]] 的处理更不一致：所有机构都承认一般 QED 类型，但对回归断点设计和中断时间序列的重视程度不同，[[What Works Clearinghouse|WWC]] 是少数为这些设计制定较详细标准的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-11]])。
 
 ### 项目与研究纳入
 
@@ -209,7 +209,7 @@ updated: '2026-05-24'
 
 ### 方法与标准
 
-- [[Randomised Controlled Trials]] — 12 个清算中心全部将 RCT 作为首选设计，但对随机化层级、流失、基线等值和分析要求不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-10]])。
+- [[Randomised Controlled Trials]] — 12 个清算中心全部将 RCT 作为首选设计，但对[[Random Assignment|随机化]]层级、流失、基线等值和分析要求不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-10]])。
 - [[Intent-to-Treat Analysis]] — Blueprints、[[Social Programs That Work|SPTW]] 和 [[Promise Neighborhoods Research Consortium|PNRC]] 明确要求 ITT 分析；WWC 在特定条件下允许 CACE([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 - [[Effect Size]] — [[Promising Practices Network|PPN]] 最高评级要求至少 0.25 SD，BEE 要求至少 0.20 SD，显示清算中心会把效应量阈值写入证据标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
 - [[Single-Case Design]] — WWC 的综述协议将 [[Single-Case Design|SCD]] 列为可纳入设计之一，HomVEE 也为 single case designs 设置单独标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8-11]])。

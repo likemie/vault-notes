@@ -308,7 +308,7 @@ updated: 2026-06-10
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig3_Partner_Choice_Factors.jpg)
 
 > [!success] 绩效评估框架：[[Logic Model|逻辑模型]]与 [[University Industry Demonstration Partnership|UIDP]] 指标指南
-> [[Logic Model|逻辑模型]]（Kellogg 基金会）提供了有用的结构来指导数据收集：将投资理由、目标与投入资源、活动、产出、中间结果和最终影响区分开来。评估还必须考虑"反事实"——在没有这些投资的情况下会实现什么结果和影响（即影响的"额外性"）（p.23）。
+> [[Logic Model|逻辑模型]]（Kellogg 基金会）提供了有用的结构来指导数据收集：将投资理由、目标与投入资源、活动、产出、中间结果和最终影响区分开来。评估还必须考虑"[[Counterfactual|反事实]]"——在没有这些投资的情况下会实现什么结果和影响（即影响的"额外性"）（p.23）。
 >
 > UIDP 于 2017 年发布的 Collaboration Metrics Guide 提供了可供选择的指标菜单，其核心原则：
 > - 指标需要根据利益相关者定制并成为叙事的一部分

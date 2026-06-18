@@ -867,7 +867,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > [!tension] 批评三：教师可见学习 ≠ 学生有意识／无意识学习
 > Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]])。
 
-> [!critique-logic] 批评四：学习不是[[Value Neutrality in Research|价值中立]]——Bildung 要求更多
+> [!critique-logic] 批评四：学习不是[[Value Neutrality|价值中立]]——Bildung 要求更多
 > Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：
 >
 >> [!timeline] "学习"在丹麦语境中的语义演变（[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8–9]]）

@@ -295,7 +295,7 @@ citation_aliases:
 
 > [!warning]
 > - 四种模式的分类属于实践类型学（practitioner typology），基于三位作者的经验归纳而非系统的理论推导或大规模实证检验(pp.103–121)
-> - 深度案例仅包括 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 一个成功案例，其他联合体（TPRC、SERC Aerospace Program）仅简要提及作为补充——缺少失败案例的对照，可能仅捕捉了成功的必要条件而非充要条件(pp.113–119)
+> - 深度案例仅包括 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 一个成功案例，其他联合体（TPRC、SERC Aerospace Program）仅简要提及作为补充——缺少失败案例的对照，可能仅捕捉了成功的[[Necessary and Sufficient Conditions|必要条件]]而非充要条件(pp.113–119)
 > - 作者专业背景主要在航空航天和先进制造领域，对生物医药、信息技术和教育等领域的产学联合体适用性未经验证(pp.119–120)
 > - 九条经验教训来自 AMRC 全球复制过程中的实践总结，其可迁移性取决于目标联合体的制度环境与 AMRC 的相似程度(pp.116–119)
 

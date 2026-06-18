@@ -148,7 +148,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - **"生产 vs 转移"是否构成虚假对立**：Partaken 将[[Knowledge Production|知识生产]]与知识转移呈现为"两面"（two faces），但两者在实际中是否可清晰分离存疑——知识在生产过程中已包含转移（如合作研究、学术出版），而知识在转移过程中也发生着生产（如教学中的知识重构）。Partaken 本人承认后殖民传统关注知识生产有其历史合法性，但他将两者作为分析范畴对立起来的做法，可能低估了二者的交织程度([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.72–75]])
-> - **知识转移作为[[Analytic Framework|分析框架]]的[[Value Neutrality in Research|价值中立]]问题**：Partaken 将六种模态从"强制转移"到"知识交换"按合法性递减排列，但"交换"本身在不对等权力结构中也可能是不平等的——如南北学术合作中的知识提取。该框架对"交换"的理想化预设需要进一步检视([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
+> - **知识转移作为[[Analytic Framework|分析框架]]的[[Value Neutrality|价值中立]]问题**：Partaken 将六种模态从"强制转移"到"知识交换"按合法性递减排列，但"交换"本身在不对等权力结构中也可能是不平等的——如南北学术合作中的知识提取。该框架对"交换"的理想化预设需要进一步检视([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
 > - **经验基础的限制**：Partaken 主要依赖中美案例验证知识转移框架，但六模态类型学是否适用于其他 [[Geopolitics of Knowledge|GPK]] 情境（如欧盟内部知识流动、南南合作、非国家行为者之间的知识转移）尚待检验
 
 ---

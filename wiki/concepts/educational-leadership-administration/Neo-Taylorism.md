@@ -105,7 +105,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 - Taylor（1911）*The Principles of Scientific Management* — 经典源头：科学管理的四原则（寻找唯一正确方法、任务拆解、消除磨洋工、最大化效率）
 - Callahan（1962）*Education and the [[Cult of Efficiency]]* — 历史[[Analytic Framework|分析框架]]：论证美国公立教育曾被效率崇拜渗透，Eacott 将其类比于当代 Hattie 现象
-- [[Technical Rationality]] — Schön（1983）的[[Positivism|实证主义]]专业实践模型是 Neo-Taylorism 的[[Epistemology|认识论]]内核：手段-目的思维、[[Value Neutrality in Research|价值中立]]、工程/医学模式
+- [[Technical Rationality]] — Schön（1983）的[[Positivism|实证主义]]专业实践模型是 Neo-Taylorism 的[[Epistemology|认识论]]内核：手段-目的思维、[[Value Neutrality|价值中立]]、工程/医学模式
 - Foucault（1977）*Discipline and Punish* — 全景监狱（panopticon）隐喻为理解 asTTle/[[Visible Learning|VL]] 的监控逻辑提供理论框架
 - [[New Public Management]] — 更广泛的制度语境：NPM 创造了绩效标准、产出控制和市场竞争的制度条件，Neo-Taylorism 是 NPM 中与科学管理原理直接对应的部分
 

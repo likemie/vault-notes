@@ -208,7 +208,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 对质量的狭隘定义
 
-所有排名都声称按"质量"排序——"最好的大学""前 100 大学""前 500 大学"——但没有一个排名体系给出了高等教育质量的定义，也不存在关于这一概念的共同理解和测量方法的国际共识([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]])。Hazelkorn（2015, p.xvi）指出："大量数据被收集，有很多指标，但没有国际公认的定义或方法论，没有客观或[[Value Neutrality in Research|价值中立]]的指标组合，也没有共同的国际数据集"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.135–136]])。
+所有排名都声称按"质量"排序——"最好的大学""前 100 大学""前 500 大学"——但没有一个排名体系给出了高等教育质量的定义，也不存在关于这一概念的共同理解和测量方法的国际共识([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]])。Hazelkorn（2015, p.xvi）指出："大量数据被收集，有很多指标，但没有国际公认的定义或方法论，没有客观或[[Value Neutrality|价值中立]]的指标组合，也没有共同的国际数据集"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.135–136]])。
 
 ### 对社会公共利益的忽视
 

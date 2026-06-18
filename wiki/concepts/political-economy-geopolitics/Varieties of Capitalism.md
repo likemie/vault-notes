@@ -95,7 +95,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 
 
 > [!warning]
 > - **二分法的局限性**：Hartmann 本人也承认，CME vs LME 的二分法无法涵盖中国、印度等不属于这两种类别的经济体中的 MNC [[Corporate Education|企业教育]]策略——这些国家可能构成 VoC 之外的第三种或更多制度类型([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.194, 263]])
-> - **过度决定论风险**：将 MNC 的培训策略直接归因于其母国的 VoC 类型，可能忽视了行业特性、企业规模、管理层决策等其他因素的作用
+> - **[[Causal Over-determination|过度决定]]论风险**：将 MNC 的培训策略直接归因于其母国的 VoC 类型，可能忽视了行业特性、企业规模、管理层决策等其他因素的作用
 
 ## 在高等教育学术资本主义多样性分析中的应用
 

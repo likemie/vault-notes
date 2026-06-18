@@ -44,7 +44,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info] 核心定义
-> 线性创新模型（linear model of innovation）是一种假设从基础科学到技术开发再到经济增长存在单向[[Causality|因果关系]]的概念模型。其基本公式为：基础科学 → [[Evaluation Research|应用研究]] → 技术开发 → 经济增长。该模型将[[Blue Skies Research|基础研究]]视为创新过程的首要推动力，假定公共财政对科学的投入既是创新驱动增长的必要条件，也是充分条件。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
+> 线性创新模型（linear model of innovation）是一种假设从基础科学到技术开发再到经济增长存在单向[[Causality|因果关系]]的概念模型。其基本公式为：基础科学 → [[Evaluation Research|应用研究]] → 技术开发 → 经济增长。该模型将[[Blue Skies Research|基础研究]]视为创新过程的首要推动力，假定公共财政对科学的投入既是创新驱动增长的[[Necessary and Sufficient Conditions|必要条件]]，也是充分条件。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
 
 > [!quote]
 > "该模型包含一个不言自明的科学研究（Research，以白大褂科学为象征）对技术开发（Development，以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。"[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]

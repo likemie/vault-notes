@@ -295,7 +295,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 **各方立场**：
 - **[[Argument_Slavin_2019_EP|Slavin (2019, p. 9)]]**：这不是对方法的特权，而是"方法匹配问题"——当问题是"与替代方案相比这个项目是否有效"时，实验是最佳设计。不同的[[Research Question|研究问题]]需要不同的方法。
-- **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]**：提出平衡立场——"长期来看，随机化和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的证据标准"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
+- **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]**：提出平衡立场——"长期来看，[[Random Assignment|随机化]]和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的证据标准"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
 - **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]**：问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
 - **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：从制度逻辑出发——RCT 的"优先地位"并非[[Epistemology|认识论]]优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
 
@@ -349,7 +349,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 > [!example] 与相关概念的比较
 > - **vs [[Evidence-Based Education]]** — EBE 是理念，EBR 是政策实现机制
 > - **vs [[Evidence-Informed Practice]]** — Slavin 明确反对"证据知情"的弱版本：教师难以将通用原则转化为有效实践，不使用结构化材料和专业培训就会退回惯常方法
-> - **vs Cowen/Biesta 的批判** — 直接对立：Biesta 说"价值先于证据"，Slavin 说"不实验比较就是在黑暗中飞行"；Cowen 说"切断问责捆绑"，Slavin 说"政府激励是必要条件"
+> - **vs Cowen/Biesta 的批判** — 直接对立：Biesta 说"价值先于证据"，Slavin 说"不实验比较就是在黑暗中飞行"；Cowen 说"切断问责捆绑"，Slavin 说"政府激励是[[Necessary and Sufficient Conditions|必要条件]]"
 
 ### Toolkit 和 Hattie 的方法论批评
 
@@ -358,5 +358,5 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 - **混合苹果和橙子**：不同性质的研究以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项[[Research Utilization|研究使用]]不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
 - **效应量失真**：三个系统性偏差来源——(1) 控制组性质不明（一切照旧 vs 零条件）；(2) 研究人口范围受限自动放大效应量（SD在分母中缩小）；(3) 窄化成果测量比一般测量产生更大效应量
 - **研究误读**：Blatchford 的教学助理研究实际揭示的是结构性使用不当，Toolkit 却将其简化为"低影响/高成本"——可在预算削减中被用于错误的人事决策
-- **实证结果错误**：Fresh Start [[Randomised Controlled Trials|RCT]] 声称 +0.24SD 进步在匹配子集分析中消失——"三个月的额外进步"是随机化失败的幻象
+- **实证结果错误**：Fresh Start [[Randomised Controlled Trials|RCT]] 声称 +0.24SD 进步在匹配子集分析中消失——"三个月的额外进步"是[[Random Assignment|随机化]]失败的幻象
 

@@ -89,7 +89,7 @@ citation_aliases:
 > - Hattie 尽管鼓励学校参与者多听彼此，却从不与他的研究"对象"——学习者——对话(p.7)
 > - 学习测量体制被比作奥古斯丁以来"全视上帝"权威的世俗化版本：从宗教的全能凝视，到科学家的穿透性观察，再到当代自动化算法和 [[PISA]] 分数(p.7)
 >
-> **4. 学习不是[[Value Neutrality in Research|价值中立]]的概念——[[Bildung]] 要求更多（Section 4）**
+> **4. 学习不是[[Value Neutrality|价值中立]]的概念——[[Bildung]] 要求更多（Section 4）**
 > - 学习概念的历史语义学分析：在丹麦，1960-70 年代"læring"曾是批判性、解放性的术语；1990 年代后被资本主义逻辑吸收，成为不可逃避的状况和强制要求(p.8-9)
 > - 教育的目的必须超越战略性国家和国际学习目标的目的论执行
 > - Bildung 作为替代：品格形成不可操作化或形式化，"Bildung belongs to life. It is autonomous, auto-telic."(p.9)

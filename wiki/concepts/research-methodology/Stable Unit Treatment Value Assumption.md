@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 违反机制：集群随机化中的主体间干扰
+> [!abstract] 违反机制：集群[[Random Assignment|随机化]]中的主体间干扰
 > SUTVA 在教育研究中最重要的违反场景是**[[Cluster Randomized Trials|集群随机试验]]（CRT）**。在典型的教室集群随机化中：
 >
 > - 整个教室的学生被分配至一种干预，但政策兴趣聚焦于个体学生如何回应（即政策利益单位是学生，但[[Random Assignment|随机分配]]单位是教室）([[Argument_Berk_2011_ER|Berk, 2011, p.194]])

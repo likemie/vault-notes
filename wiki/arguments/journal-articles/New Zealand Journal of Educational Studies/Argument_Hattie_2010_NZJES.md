@@ -115,7 +115,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为第一人称叙事，无法声称[[Value Neutrality in Research|价值中立]]或系统性
+> - 论文为第一人称叙事，无法声称[[Value Neutrality|价值中立]]或系统性
 > - 未回应 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size|效应量]]计算中对研究质量的处理等）
 > - 对"学术批评应当针对观点而非个人"的强调可能被批评者视为回避实质性方法论问题的修辞策略
 > - Alexander (2010) 在墨尔本课程研讨会上发表，当时尚未正式出版——Hattie 使用尚未正式出版的会议报告作为[[Analytic Framework|分析框架]]

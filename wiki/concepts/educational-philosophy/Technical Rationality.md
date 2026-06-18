@@ -60,7 +60,7 @@ updated: '2026-05-18'
 > 技术理性铺平了教育中的手段-目的思维——问题被理解为独立于其所属情境的实体，可以通过查阅和应用基础科学知识来解决（Nielsen & Klitmøller, 2021, p. 82）。核心目标是识别因果——必然导致特定效果的"原因"——从而产生能解决手头实践问题的理论。
 
 
-> [!abstract] [[Value Neutrality in Research|价值中立]]（Value-Neutrality）
+> [!abstract] [[Value Neutrality|价值中立]]（Value-Neutrality）
 > 技术理性是工具性的和价值中立的——不追问目标本身是否值得追求，只关注"以最有效的手段达成给定目标"（Nielsen & Klitmøller, 2021, p. 84-85）。这种价值中立性使其在现代国家机构中被广泛采纳——国家机构需要客观、科学的外观来为其干预提供合法性。
 
 

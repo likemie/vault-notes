@@ -77,12 +77,12 @@ citation_aliases:
 > 3. [[Evidence-Based Education|证据本位教育]]（[[Evidence-Based Education|EBE]]）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
-> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用[[Value Neutrality in Research|价值中立]]的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
+> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用[[Value Neutrality|价值中立]]的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
 > - **对象**：证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
 > - **张力**：统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
-> - **贡献**：借助[[Critical Realism|批判实在论]]的分层[[Ontology|本体论]]，解构了 EBE 统计聚合的三级失真机制；剖析了 Fresh Start 等关键项目，揭示了政治压力下的“糟糕随机化”幻象；提出了以“实在论综合（Realist Synthesis）”和“方法论多元主义”作为重建教师专业反思能力的替代方案。
+> - **贡献**：借助[[Critical Realism|批判实在论]]的分层[[Ontology|本体论]]，解构了 EBE 统计聚合的三级失真机制；剖析了 Fresh Start 等关键项目，揭示了政治压力下的“糟糕[[Random Assignment|随机化]]”幻象；提出了以“实在论综合（Realist Synthesis）”和“方法论多元主义”作为重建教师专业反思能力的替代方案。
 
 ---
 
@@ -148,7 +148,7 @@ citation_aliases:
 > [!claim] [[Randomised Controlled Trials|RCT]] 作为教育研究金标准面临不可逾越的技术与哲学困境
 > 随机对照试验（RCT）试图在复杂的教育社会场景中复制实验室的“封闭系统”，但由于无法实现“双盲”、缺乏类似安慰剂的对照设计，以及将人类主动施为（Agency）视为干扰，导致其[[Effect Size|效应量]]计算极易扭曲。
 
-> [!case] Fresh Start 案例解构：数据包装与随机化失败
+> [!case] Fresh Start 案例解构：数据包装与[[Random Assignment|随机化]]失败
 > 1. **对照组模糊性与安慰剂缺失**：教育实验中无法提供“空白安慰剂”，控制组（通常为“一切照旧”）实际上也在进行高强度的教学活动 (p. 5)。对照组具体做什么、是否接受了类似培训，对效应量（[[Effect Size\|Effect Size]]）的计算具有决定性影响，但在报告中往往被隐去。
 > 2. **Fresh Start 案例深度解构**：
 >    - **数据包装**：[[Education Endowment Foundation\|EEF]] 行政摘要宣称该项目（针对中一阅读困难学生的合成拼读干预）带来了 $+0.24SD$ 的效应量，等同于“3 个月的额外进步”。
@@ -248,7 +248,7 @@ citation_aliases:
 
 > [!finding-cards] 核心发现
 > 1. **统计聚合的逐级失真机制**：[[Randomised Controlled Trials|RCT]] 实验在 Level 1 的简化偏误，在 Level 2 [[Meta-analysis|元分析]]中复合，并在 Level 3 [[Meta-meta-analysis|元-元分析]]（如 Hattie 的[[Visible Learning|可见学习]]与 [[Education Endowment Foundation|EEF]] Toolkit）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
-> 2. **Fresh Start 案例揭示糟糕随机化的数据幻象**：经过 matched subset 分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24SD$（3个月额外进步）仅是糟糕随机化造成的前测失衡幻象 (p. 5)。
+> 2. **Fresh Start 案例揭示糟糕[[Random Assignment|随机化]]的数据幻象**：经过 matched subset 分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24SD$（3个月额外进步）仅是糟糕随机化造成的前测失衡幻象 (p. 5)。
 > 3. **教学助理类目警示扁平化排行诱发反效果**：EEF Toolkit 将 TA 排入底部，完全剥离了其“无沟通备课时间”、“系统性安排给低成就生”等结构性不当情境，在预算裁剪时期极易诱发错误的裁员决策 (p. 12)。
 > 4. **教育实验中“人类意志既是必要又是污染”的悖论**：RCT 将人类意志视为污染源，但教学效果的产生恰恰依赖教师的热情与学生的推理交互，这使得 RCT 从根本上不适合作为教育学的唯一科学标准 (p. 6)。
 

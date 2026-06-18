@@ -80,7 +80,7 @@ citation_aliases:
 > 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师流失的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的话语策略如何通过[[Policy Network|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
 > [!claim] 核心主张
-> 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality in Research|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Centre for Independent Studies|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
+> 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Centre for Independent Studies|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
 
 > [!concept-lens]- 阅读透镜
 > - **对象**：澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
@@ -180,7 +180,7 @@ citation_aliases:
 ### 论证步骤二：神经科学作为“价值中立”知识的生物简化主义偏误
 
 > [!claim] 步骤二主张
-> 优先改革1强制将“大脑与学习”（脑科学）列为核心课程，预设该学说是客观、[[Value Neutrality in Research|价值中立]]且能解决教育痛点的“银弹”。然而，这种脑科学推理不仅完全排斥了社会文化与情境维度的教学法，而且极度简化了学习过程，直接违背了国际政策组织（如[[OECD|经济合作与发展组织]]，Organisation for Economic Co-operation and Development, OECD）对脑科学过度科学化及被滥用风险的历史警示。
+> 优先改革1强制将“大脑与学习”（脑科学）列为核心课程，预设该学说是客观、[[Value Neutrality|价值中立]]且能解决教育痛点的“银弹”。然而，这种脑科学推理不仅完全排斥了社会文化与情境维度的教学法，而且极度简化了学习过程，直接违背了国际政策组织（如[[OECD|经济合作与发展组织]]，Organisation for Economic Co-operation and Development, OECD）对脑科学过度科学化及被滥用风险的历史警示。
 
 > [!critique-logic] 生物学决定论与国际组织预警的冲突
 > - **教育的社会性丧失**：脑科学将复杂的、情境化的学习活动约化为脑部神经元的信息处理过程，完全忽视了 [[Lev Vygotsky\|维果茨基]] 社会文化理论所强调的关系和情境维度。Rose & Rose (1976) 批判指出，脑科学不能被用来消解社会学，两者应当是辩证的互动（p. 121）。

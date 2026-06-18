@@ -70,7 +70,7 @@ updated: 2026-06-13
 > [!case] 三次科学革命
 > 1. 托勒密地心说 → 哥白尼日心说。旧正统维持了几代人，不仅因为证据，还因为它受到有权力的科学家的支持——天主教会试图让伽利略沉默
 > 2. 牛顿机械宇宙观 → 爱因斯坦相对论的、演化的宇宙观
-> 3. [[Value Neutrality in Research|价值无涉]]、中立、客观的[[Positivism|实证主义]]科学观 → [[Postpositivism|后实证主义]]、[[Critical Realism|批判实在论]]的科学观，以推测（Popper, 1980）、研究者的主观价值体系、[[Phenomenology|现象学]]、主体性和[[Reflexivity|反思性]]为特征
+> 3. [[Value Neutrality|价值无涉]]、中立、客观的[[Positivism|实证主义]]科学观 → [[Postpositivism|后实证主义]]、[[Critical Realism|批判实在论]]的科学观，以推测（Popper, 1980）、研究者的主观价值体系、[[Phenomenology|现象学]]、主体性和[[Reflexivity|反思性]]为特征
 
 ## 范式的社会维度
 

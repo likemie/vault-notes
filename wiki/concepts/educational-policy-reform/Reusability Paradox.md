@@ -45,7 +45,7 @@ Pellegrini & Vivanet 将这一悖论移用到 [[Evidence-Based Education|证据�
 
 > [!example]
 > - vs [[External Validity|外部效度]] — 外部效度关注研究结果能否推广到其他人群、地点和条件；可重用性悖论进一步指出，项目的“有效性”和“可复用性”之间本身可能存在张力([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.35-36]])。
-> - vs [[Local Knowledge in Evidence-Based Policy]] — 地方知识不是对证据的附加装饰，而是处理可重用性悖论的必要条件：学校需要判断已有证据与本地课程、语言、学生和教师条件是否足够相似。
+> - vs [[Local Knowledge in Evidence-Based Policy]] — 地方知识不是对证据的附加装饰，而是处理可重用性悖论的[[Necessary and Sufficient Conditions|必要条件]]：学校需要判断已有证据与本地课程、语言、学生和教师条件是否足够相似。
 
 ## 核心要素
 

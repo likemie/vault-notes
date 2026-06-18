@@ -63,7 +63,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > 论文以 **[[Campbellian Validity Framework]]**(Shadish, 1995; Shadish, Cook & Campbell, 2002)为理论基础：
 >
-> - **[[Internal Validity|内部效度]]**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"必要条件"（sin qua non）(p.461)
+> - **[[Internal Validity|内部效度]]**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）(p.461)
 > - **[[External Validity|外部效度]]**：因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂(p.462)
 > - 内外部效度并非完全互斥：例如基线描述既用于建立实验控制（内部效度），也描述现状从而为推广性提供信息(p.463)
 >

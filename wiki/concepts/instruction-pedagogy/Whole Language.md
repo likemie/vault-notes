@@ -127,7 +127,7 @@ citation_aliases: []
 ## 争议与批评
 
 > [!critique-method] 评估方法论偏见（O'Connor 对 Hattie 的指控）
-> - **分类错误**：哈蒂采纳的 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis|元分析]]将早期“[[Language Experience Approach|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
+> - **分类错误**：[[John Hattie|哈蒂]]采纳的 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis|元分析]]将早期“[[Language Experience Approach|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
 > - **非对称审查与选择性修正**：[[John Hattie|哈蒂]]对报告极端负面（d = -0.65）的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size|效应量]]修正为零 (p.148)。
 > - **研究者偏见与政治镜头**：哈蒂对[[Direct Instruction|直接教学]]偏爱，对[[Jean-Jacques Rousseau|卢梭]]式[[Constructivist Paradigm|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《[[Visible Learning|可见学习]]》中对正反数据采取了双重审查标准 (p.147-148)。
 

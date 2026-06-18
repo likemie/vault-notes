@@ -62,7 +62,7 @@ updated: 2026-06-06
 > - **从具体到抽象**。[[Epistemology|认识论]]上升强调学习者应从具体的经验和事实逐步发展到抽象的概念和理论。这一过程不是自然发生的，而是需要通过精心设计的课程和教学来实现([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **学科结构的引导**。学科知识的结构为认识论上升提供了路径。学科的概念层次（从具体概念到抽象概念）为课程设计提供了内在逻辑([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **[[Knowledge-that and Know-how-to|知其然]]与知其所用的连接**。认识论上升不仅是掌握更多知识，更是将[[Knowledge-that and Know-how-to|知其然]]和[[Knowledge-that and Know-how-to|知其所用]]连接起来的过程。当学习者能够将抽象概念应用于具体情境时，认识论上升才真正实现([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
-> - **课程设计的必要条件**。认识论上升是[[Curriculum Design Coherence Model|课程设计连贯性模型]]的关键目标之一。课程设计应明确标识概念层次，为教师和学生提供清晰的认知发展路径([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> - **课程设计的[[Necessary and Sufficient Conditions|必要条件]]**。认识论上升是[[Curriculum Design Coherence Model|课程设计连贯性模型]]的关键目标之一。课程设计应明确标识概念层次，为教师和学生提供清晰的认知发展路径([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 
