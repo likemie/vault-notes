@@ -972,15 +972,14 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 
 ### 5.15 评估研究中的伦理（Ethics and Evaluative Research）
 
-> [!framework-table] Strike (1990) 的两个广泛原则
-> （pp.114–116）：
+> [!framework-table] Strike (1990) 的两个广泛原则（pp.114–116）
 >
-> | 原则 | 英文 | 核心主张 | 操作要求 |
-> |---|---|---|---|
-> | **收益最大化原则** | Principle of benefit maximization | 最好的决定是对最大多数人产生最大收益的决定——以结果判断正确性 | 识别要最大化的特定收益、识别适当的最大化人群、指定什么算作最大化、充分理解行为的后果 |
-> | **平等尊重原则** | Principle of equal respect | 尊重所有人的平等价值——将人视为目的而非手段，视他们为自由和理性的，接受他们有权享有与他人相同的基本权利 | 不将参与者工具化、尊重其自主判断 |
+> | 原则 | 核心主张 | 操作含义 |
+> |---|---|---|
+> | **收益最大化**<br>Principle of benefit maximization | 最好的决定是对最大多数人产生最大收益的决定，以结果判断行为的正确性 | 识别要最大化的特定收益和适当人群，指定最大化标准，充分理解行为后果 |
+> | **平等尊重**<br>Principle of equal respect | 尊重所有人的平等价值，将人视为目的而非手段，视其为自由理性的，有权享有同等基本权利 | 不将参与者工具化，尊重其自主判断 |
 
-> [!frames-ref] Strike 的八项评估伦理原则（pp.115–116）
+> [!ref-table] Strike 的八项评估伦理原则（pp.115–116）
 >
 > | 原则 | 说明 |
 > |---|------|
@@ -990,7 +989,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > | **公共透明** Public perspicuity | 对公众公开评估程序、目的和结果 |
 > | **人道** Humaneness | 对评估情境中参与者的感受和敏感性给予考虑 |
 > | **客户利益** Client benefit | 评估决定应尊重学生、家长和公众的利益，优先于教育机构及其员工的利益；将参与者视为主体而非研究饲料 |
-> | **[[Academic Freedom|学术自由]]** Academic freedom | 维护课堂中教师和学生的思想开放氛围，评估不应冷却这一环境 |
+> | **[[Academic Freedom\|学术自由]]** Academic freedom | 维护课堂中教师和学生的思想开放氛围，评估不应冷却这一环境 |
 > | **尊重自主** Respect for autonomy | 教师有权在工作中享有合理的自由裁量和判断，评估不应不合理地限制这种自由裁量和判断 |
 
 ---
@@ -1011,15 +1010,15 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > [!ref-table] 七家专业协会伦理守则对比
 > （pp.119–126）：
 >
-> | 协会 | 年份 | 核心结构 | 对欺骗/知情同意的立场 |
-> |---|---|---|---|
-> | **British Psychological Society (BPS)** | 2005 | 胜任、征得同意、保密、个人行为；11个主要章节 | **不强制要求知情同意**（"尽可能告知"）；**不禁绝欺骗**，承认"可能无法在不隐瞒真实目标或故意误导参与者的情况下研究某些心理过程"，但需要严格证成 |
-> | **American Psychological Association (APA)** | 2002 | 五项总原则→十节伦理标准 | 五项原则：行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
-> | **American Sociological Association (ASA)** | 1999 | 五项总原则→20条伦理标准 | 包括不剥削、保密、知情同意、欺骗、提供诱导等 |
-> | **British Sociological Association (BSA)** | 2002 (2004更新) | 多章节 | 包括**隐蔽研究**、匿名隐私保密、资助方责任；对参与者和资助方的义务 |
-> | **Social Research Association ([[Sponsored Research Agreement\|SRA]])** | 2003 | 四个层级义务（社会→资助方/雇主→同事→参与者） | 借鉴欧洲法律（www.respect-project.org） |
-> | **British Educational Research Association (BERA)** | 2004 | 多章节 | 责任对象：研究专业、参与者（儿童工作、知情同意、退出权利）、公众、资助机构、出版、知识产权、宿主机构 |
-> | **American Educational Research Association (AERA)** | 2000 | 六节 | **"不鼓励欺骗"**，"仅当明确必要时使用"——之后应解释欺骗原因；需对当地情况敏感（文化、宗教、性别）；包括学生和研究生研究者 |
+> | 协会 | 结构 | 关键立场 |
+> |---|---|---|
+> | **BPS** (British Psychological Society, 2005) | 11个章节，涵盖胜任、同意、保密、个人行为 | 不强制要求知情同意（尽可能告知）；不禁绝欺骗，但需严格证成 |
+> | **APA** (American Psychological Association, 2002) | 五项总原则 → 十节伦理标准 | 行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
+> | **ASA** (American Sociological Association, 1999) | 五项总原则 → 20条伦理标准 | 涵盖不剥削、保密、知情同意、欺骗、提供诱导等 |
+> | **BSA** (British Sociological Association, 2002) | 多章节，含隐蔽研究、资助方责任 | 对参与者和资助方的双重义务；匿名、隐私、保密章节 |
+> | **SRA** (Social Research Association, 2003) | 四个层级义务：社会 → 资助方 → 同事 → 参与者 | 借鉴欧洲法律框架（www.respect-project.org） |
+> | **BERA** (British Educational Research Association, 2004) | 多章节责任体系 | 覆盖研究专业、参与者（含儿童）、公众、资助机构、出版、知识产权、宿主机构 |
+> | **AERA** (American Educational Research Association, 2000) | 六节，含学生和研究生研究者 | 不鼓励欺骗，仅当明确必要时使用，需解释原因；对文化、宗教、性别等当地情况敏感 |
 
 ---
 
