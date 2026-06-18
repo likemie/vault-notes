@@ -1024,7 +1024,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 
 #### 5.16.3 Hammersley 对伦理委员会的系统批评
 
-> [!critique] Hammersley (2009, pp. 212–219) 对伦理委员会的三点系统批评
+> [!warning] Hammersley (2009, pp. 212–219) 对伦理委员会的三点系统批评
 > （pp.126–127）：
 >
 > **a. 伦理委员会不能做出合理或"优越"的伦理决策**
@@ -1122,20 +1122,20 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 
 #### 5.19.1 Box 5.9：个人伦理守则范例
 
-> [!checklist] Box 5.9：一份伦理守则——示例（An Ethical Code — An Illustration）
+> [!ethical-code] Box 5.9：一份伦理守则示例（An Ethical Code — An Illustration）
 >
-> 1. 研究者充分揭示自己的身份和背景（reveal fully his or her identity and background）
-> 2. 研究的目的和程序应在开始前向参与者充分解释（fully explained to the subjects at the outset）
-> 3. 研究及其伦理后果应从参与者和机构的角度看待（seen from the subjects' and institution's point of view）
-> 4. 可能的争议性发现需要被预见，一旦出现以高度敏感处理（anticipated and handled with great sensitivity）
-> 5. 研究应尽可能客观——需要对设计、实施和报告进行仔细思考（as objective as possible）
-> 6. 应寻求所有参与者的知情同意；在此阶段达成的所有协议应被履行（Informed consent should be sought; all agreements honoured）
-> 7. 有时以书面形式获得知情同意是可取的（obtain informed consent in writing）
-> 8. 参与者应有拒绝参与的选择并知晓这一权利；有权在任何时候终止参与并知晓这一权利（the option to refuse and right to terminate）
-> 9. 在初步接触时应安排为请求反馈的参与者提供反馈——可以书面摘要形式（provide [[Feedback]] for participants who request it）
-> 10. 参与者的尊严、隐私和利益应在任何时候被尊重和保护（dignity, privacy and interests respected and protected）
-> 11. 欺骗仅在绝对必要时使用（Deceit should only be used when absolutely necessary）
-> 12. 当伦理困境出现时，研究者可能需要咨询其他研究者或教师（consult other researchers or teachers）
+> 1. 研究者充分揭示自己的身份和背景
+> 1. 研究的目的和程序应在开始前向参与者充分解释
+> 1. 研究及其伦理后果应从参与者和机构的角度看待
+> 1. 可能的争议性发现需要被预见，一旦出现以高度敏感处理
+> 1. 研究应尽可能客观，需要对设计、实施和报告进行仔细思考
+> 1. 应寻求所有参与者的知情同意，在此阶段达成的所有协议应被履行
+> 1. 有时以书面形式获得知情同意是可取的
+> 1. 参与者应有拒绝参与的选择并知晓这一权利，有权在任何时候终止参与并知晓这一权利
+> 1. 在初步接触时应安排为请求反馈的参与者提供反馈，可以书面摘要形式
+> 1. 参与者的尊严、隐私和利益应在任何时候被尊重和保护
+> 1. 欺骗仅在绝对必要时使用
+> 1. 当伦理困境出现时，研究者可能需要咨询其他研究者或教师
 >
 > 来源：改编自 Reynolds, 1979
 
@@ -1143,44 +1143,44 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 
 #### 5.19.2 Box 5.10：教育研究伦理原则
 
-> [!checklist] Box 5.10：教育研究伦理原则（研究开始前达成一致）
+> [!ethical-code] Box 5.10：教育研究伦理原则（研究开始前达成一致）
 >
 > **对研究的责任（Responsibility to research）**
 >
-> - 研究者应胜任并意识到开展研究涉及什么（competent and aware）
-> - 研究必须以严谨和正确的程序进行——在所有阶段避免误用程序（conducted rigorously）
-> - 准确、公开地报告程序——严谨（Report procedures accurately and publicly — rigour）
-> - 不要危害未来研究（者）——Don't jeopardize future research(ers)
-> - 清晰报告并使数据可供核查（Report clearly and make data available for checking）
-> - 说真话——不撒谎或伪造数据、避免不公平地选择性呈现（如支持某个案例）、不误传数据（Tell the truth）
-> - 维护研究的诚信和自主——避免资助方/许可方对研究的审查或干扰（Maintain the integrity and autonomy of the research）
+> - 研究者应胜任并意识到开展研究涉及什么
+> - 研究必须以严谨和正确的程序进行，在所有阶段避免误用程序
+> - 准确、公开地报告程序
+> - 不要危害未来研究（者）
+> - 清晰报告并使数据可供核查
+> - 说真话：不撒谎或伪造数据、避免不公平地选择性呈现、不误传数据
+> - 维护研究的诚信和自主，避免资助方或许可方对研究的审查或干扰
 >
 > **对参与者和受众的责任（Responsibility to participants and audience(s)）**
 >
-> - 在适当情况下获得充分知情同意（通常书面形式），以尊重自决和自主；提供研究所有方面及其可能后果的信息
-> - 决定公开或隐蔽研究是否被要求/证成（Decide whether, and how, overt or covert research is required/justified）
-> - 决定欺骗是否被要求/证成；诚实或证成不诚实（Decide whether, and how, deception is required/justified）
-> - 确保不伤害——不对参与者和可能受研究影响者造成伤害、痛苦或折磨；人道（Ensure non-maleficence）
-> - 确保行善——研究将给参与者带来收益或将有助于参与者的福利（Ensure beneficence）
-> - 确保参与者不会比研究开始时更糟（Ensure no worse off）
-> - 尊重人的权利、尊严和利益，保持尊重——研究参与者是主体（subjects）而非被利用的客体（objects）
-> - 同意个人的隐私权（Agree individual's rights to privacy）
-> - 确保参与者有权在任何时候退出（right to withdraw at any time）
-> - 告知参与者谁将访问数据/报告——研究的受众、公开程度、何时公开、如何传播；协商发布层级
-> - 确保匿名/保密/不可追踪性；如果这些不可能则在事前告知参与者
+> - 在适当情况下获得充分知情同意（通常书面形式），以尊重自决和自主
+> - 决定公开或隐蔽研究是否被要求或证成
+> - 决定欺骗是否被要求或证成；诚实或证成不诚实
+> - 确保不伤害：不对参与者和可能受研究影响者造成伤害、痛苦或折磨
+> - 确保行善：研究将给参与者带来收益或将有助于参与者的福利
+> - 确保参与者不会比研究开始时更糟
+> - 尊重人的权利、尊严和利益：参与者是主体而非被利用的客体
+> - 同意个人的隐私权
+> - 确保参与者有权在任何时候退出
+> - 告知参与者谁将访问数据或报告，以及公开程度、时间和传播方式
+> - 确保匿名、保密、不可追踪性；如果不可能则在事前告知参与者
 > - 说明如何实现匿名（如通过保密、数据聚合）
-> - 告知参与者数据将如何收集以及文件/问卷/音频数据/视频数据/计算机文件在研究期间如何存储和使用后销毁
-> - 确保对人的敏感性——年龄、族裔、性别、文化、宗教、语言、社会经济地位等
-> - 从所有相关方（家长/监护人、学校、校长等）获得许可用于准入
-> - 尊重脆弱性——如在访谈儿童/无权力者时
-> - 商定受访者验证（respondent validation）
-> - 商定数据所有权——以及所有权何时从参与者转移到研究者（Agree ownership of the data）
-> - 允许审查时间（Allow time for review）
-> - 避免造成不必要的冒犯。感谢参与者
-> - 确保参与者和资助方有权异议/与研究保持距离（right to dissent/distance themselves）
-> - 展示社会责任和义务（Demonstrate social responsibility and obligations）
-> - 考虑赔偿、责任和免责声明（Consider indemnification, liabilities and disclaimers）
-> - 不要滥用你作为研究者的位置/权力（Don't abuse your position/power as a researcher）
+> - 告知参与者数据收集、存储和销毁方式
+> - 确保对人的年龄、族裔、性别、文化、宗教、语言、社会经济地位的敏感性
+> - 从所有相关方获得许可用于准入
+> - 尊重脆弱性（如在访谈儿童或无权力者时）
+> - 商定受访者验证
+> - 商定数据所有权及其转移时间
+> - 允许审查时间
+> - 避免造成不必要的冒犯，感谢参与者
+> - 确保参与者和资助方有权异议或保持距离
+> - 展示社会责任和义务
+> - 考虑赔偿、责任和免责声明
+> - 不要滥用你作为研究者的位置或权力
 >
 > 来源：补充网站（Accompanying website: www.routledge.com/textbooks/cohen7e）
 
