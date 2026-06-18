@@ -30,6 +30,15 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Scientific Method]]"
   - "[[Causality]]"
+  - "[[Probabilistic Causation]]"
+  - "[[Counterfactual]]"
+  - "[[Screening Off]]"
+  - "[[Causal Over-determination]]"
+  - "[[Informed Consent]]"
+  - "[[Research Ethics]]"
+  - "[[Privacy in Research]]"
+  - "[[Covert Research]]"
+  - "[[Institutional Review Board]]"
   - "[[Research Question]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
@@ -53,12 +62,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-06-17
+updated: 2026-06-18
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -75,7 +86,7 @@ updated: 2026-06-17
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|第3章 Evaluation and the politics of educational research]] | 区分研究（research）与评估（evaluation）在意图、受众、议程、所有权和政治立场上的异同，以 Smith & Glass 和 Glass & Worthen 的多维比较框架系统呈现二者差异，分析分类资助和政治化如何模糊二者边界，讨论研究利用模型和研究者与决策者的系统性张力。 | [[Evaluation Research]]、[[Categorical Funding]]、[[Conformative Evaluation]]、[[Research Utilization]]、[[Scientific Method]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|第4章 The search for causation]] | 系统介绍教育研究中因果推断的关键议题：原因与条件、概率因果性、反事实推理、因果过度决定、筛选隔离、因果方向与因果网络、行动叙事与罗生门效应，以及研究原因之效果和研究效果之原因两种策略。 | [[Causality]]、[[Probabilistic Causation]]、[[Counterfactual]]、[[Screening Off]]、[[Causal Over-determination]] |
 > | **Part 2 教育研究的规划** | | |
-> | 第6章 The ethics of educational and social research | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|第5章 The ethics of educational and social research]] | 系统介绍教育与社会研究中的核心伦理议题：成本/收益比、知情同意四要素、研究准入与接纳、隐私/匿名/保密、欺骗与隐蔽研究、电子与评估研究伦理、伦理守则与审查委员会（含Hammersley批评），以及研究者对参与者、资助方和研究共同体的多层次责任。 | [[Informed Consent]]、[[Research Ethics]]、[[Privacy in Research]]、[[Covert Research]]、[[Institutional Review Board]] |
 > | 第7章 Choosing a research project | | |
 > | 第8章 [[Research Question\|research questions]] | | |
 > | 第9章 Research design and planning | | |
@@ -112,7 +123,6 @@ updated: 2026-06-17
 > | 第37章 Inferential statistics: difference tests | | |
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
 > | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|第5章]] | | |
 
 > [!knowledge-map]- 知识路线图
 > 全书知识推进关系：研究哲学基础(Part 1) → 研究规划与伦理(Part 2) → 研究设计类型选择(Part 3) → 资料收集工具(Part 4) → 数据分析方法(Part 5)。待各章处理较完整后补充详细知识地图。

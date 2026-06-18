@@ -19,20 +19,25 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
   - "[[Purpose Statement]]"
+  - "[[Emergence]]"
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-04
+updated: 2026-06-18
 ---
 
 # Informed Consent
@@ -86,11 +91,11 @@ Diener & Crandall (1978, p. 57) 将知情同意定义为"个体在被告知可�
 ## 知情同意与儿童及弱势群体
 
 > [!warning] 与儿童的权力不对称
-> 许多教育研究涉及无法与研究者处于平等地位的儿童。Fine & Sandstrom (1988) 的人种志和参与观察研究建议：尽管缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 79–82]]）。
+> 许多教育研究涉及无法与研究者处于平等地位的儿童。Fine & Sandstrom (1988) 的[[Ethnography|人种志]]和参与[[Observational and Correlational Research|观察研究]]建议：尽管缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 79–82]]）。
 
 涉及未成年人的知情同意分两阶段：
 
-1. **先征询负责成年人的许可**：家长、教师、导师、心理医生、青年领袖或团队教练。研究目的被解释，问题被邀请，异议被尊重
+1. **先征询负责成年人的许可**：家长、教师、导师、心理医生、青年领袖或团队教练。[[Purpose Statement|研究目的]]被解释，问题被邀请，异议被尊重
 2. **再征询儿童本人的许可**：儿童必须被给予真实和合法的机会说他们不想参加
 
 > [!tip] 针对年幼儿童和无法决策的儿童
@@ -106,9 +111,9 @@ Oliver (2003, pp. 35–36) 将弱势群体定义为"那些可能没有所需的�
 > [!warning] 主要反对意见
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 82–84]]）：
 
-1. **某些研究方法使知情同意不可能**：如[[Covert Research|隐蔽观察]]（Patrick 的格拉斯哥帮派研究）、涉及[[Deception in Research|欺骗]]的实验技术（Milgram 服从权威实验）
+1. **某些研究方法使知情同意不可能**：如隐蔽观察（Patrick 的格拉斯哥帮派研究）、涉及欺骗的实验技术（Milgram 服从权威实验）
 2. **知情同意可能带来霍桑效应**：告知参与者研究可能干扰其自然行为（Oliver, 2003, p. 53）
-3. **Wax (1982, p. 44) 的"既太多又太少"论证**：在质性研究的涌现性情境中"过度谨慎且具有破坏性"，同时田野研究者往往需要比知情同意多得多的东西——信任、参与者的"积极协助"和"同事关系"
+3. **Wax (1982, p. 44) 的"既太多又太少"论证**：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，同时田野研究者往往需要比知情同意多得多的东西——信任、参与者的"积极协助"和"同事关系"
 4. **知情同意不是"一锤子买卖"**：在质性的、涌现性的研究中必须持续协商，而非一次性签署
 5. **破坏数据的丰富性**：寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容
 6. **可能导致只研究"安全"主题**：正式知情同意可能导致研究只关注"安全"、容易研究的主题，忽视脆弱和排斥群体。Humphreys (1975, p. 169) 回应："一个社会科学家对这个人能做的最大的伤害就是忽视他"

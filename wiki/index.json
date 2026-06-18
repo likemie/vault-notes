@@ -4208,6 +4208,18 @@
     ]
   },
   {
+    "title": "Access and Acceptance in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Access and Acceptance in Research.md",
+    "aliases": [
+      "研究准入",
+      "研究准入与接纳",
+      "access and acceptance",
+      "negotiating access",
+      "研究场所准入"
+    ]
+  },
+  {
     "title": "Action Narratives",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Action Narratives.md",
@@ -4237,6 +4249,17 @@
       "分析框架",
       "analytic tradition",
       "analytic frameworks in qualitative research"
+    ]
+  },
+  {
+    "title": "Anonymity in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Anonymity in Research.md",
+    "aliases": [
+      "研究匿名",
+      "研究中的匿名性",
+      "anonymity",
+      "non-traceability"
     ]
   },
   {
@@ -4398,6 +4421,17 @@
     ]
   },
   {
+    "title": "Confidentiality in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Confidentiality in Research.md",
+    "aliases": [
+      "研究保密",
+      "研究中的保密性",
+      "confidentiality",
+      "保密承诺"
+    ]
+  },
+  {
     "title": "Conformative Evaluation",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Conformative Evaluation.md",
@@ -4472,6 +4506,18 @@
     ]
   },
   {
+    "title": "Covert Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Covert Research.md",
+    "aliases": [
+      "隐蔽研究",
+      "秘密研究",
+      "covert observation",
+      "秘密参与",
+      "隐蔽参与"
+    ]
+  },
+  {
     "title": "Crotty's Four Levels of Research Design",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Crotty's Four Levels of Research Design.md",
@@ -4493,6 +4539,17 @@
       "qualitizing",
       "量化转换",
       "质化转换"
+    ]
+  },
+  {
+    "title": "Deception in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Deception in Research.md",
+    "aliases": [
+      "研究欺骗",
+      "研究中的欺骗",
+      "deception",
+      "隐瞒研究目的"
     ]
   },
   {

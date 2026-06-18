@@ -22,19 +22,25 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Informed Consent]]"
   - "[[Purpose Statement]]"
+  - "[[Sponsored Research Agreement]]"
+  - "[[Covert Research]]"
+  - "[[Research Ethics]]"
+  - "[[Research Question]]"
   - "[[Academic Medical Center]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Common Rule 2018]]"
   - "[[Clinical Trials Transformation Initiative]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Bang_2025_ClinicalTrials]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-03
+updated: 2026-06-18
 ---
 
 # Institutional Review Board
@@ -88,6 +94,49 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 3. **获取参与者[[Informed Consent|知情同意]]**：在数据收集前，确保每位参与者签署[[Informed Consent|知情同意书]]
 4. **获取现场许可**：同时需要获得研究场所负责人（[[Gatekeepers]]）的准入许可
 5. **持续合规**：研究过程中遵守 IRB 批准的方案，如有变更需重新报批
+
+---
+
+---
+
+## 伦理审查的多层监管体系
+
+伦理监管存在于多个层面（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 116–129]]）：
+
+1. **立法层面**：如英国的 Data Protection Acts (1984, 1998)、美国的 [[Common Rule 2018|Common Rule]]
+2. **机构伦理审查委员会**：大学和研究机构内部的 IRB
+3. **专业协会伦理守则**：BERA、APA、ASA、BPS、BSA、[[Sponsored Research Agreement|SRA]]、AERA、ESRC 等
+4. **研究者个人伦理**：研究者自身的诚信、良心和情境判断
+
+### 主要专业协会伦理守则
+
+（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 119–126]]）：
+
+| 协会 | 守则特点 |
+|---|---|
+| **British Psychological Society** (2005) | 涵盖胜任、征得同意、保密和个人行为；不强制要求[[Informed Consent\|知情同意]]（"尽可能告知"），不禁绝欺骗（承认在某些情况下必要） |
+| **American Psychological Association** (2002) | 五项总原则：行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
+| **American Sociological Association** (1999) | 五项总原则：专业胜任、诚信、专业和科学责任、尊重人的权利尊严和多样性、社会责任 |
+| **British Sociological Association** (2002, 2004更新) | 包括[[Covert Research\|隐蔽研究]]、匿名隐私保密、资助方责任等 |
+| **Social Research Association** (2003) | 四个层级的义务：对社会、对资助方和雇主、对同事、对参与者 |
+| **BERA** (2004) | 责任对象：研究专业、参与者、公众、资助机构、出版、知识产权、宿主机构 |
+| **AERA** (2000) | "不鼓励欺骗"，"仅当明确必要时使用"；需对当地情况敏感（文化、宗教、性别） |
+
+### 对伦理委员会的批评
+
+> [!warning] Hammersley 对伦理委员会的批评
+> Hammersley (2009, pp. 212–219) 论证[[Research Ethics|研究伦理]]委员会存在三个根本性问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 126–127]]）：
+>
+> **a. 不能做出合理或"优越"的伦理决策**，因为：(i) 社会科学家之间在伦理事项上缺乏共识；(ii) 伦理问题和实践研究是复杂的；(iii) 伦理答案不能机械地或按算法产出，而是框定在特定情境中（伦理委员会可能不了解）；(iv) 伦理委员会的职责范围不明确；(v) 伦理委员会混淆了伦理审计与伦理决策
+>
+> **b. 没有合法性来控制研究者**：(i) 研究者的自主性应被尊重；(ii) 伦理责任应由研究者自己承担，不能也不应被交给委员会；(iii) 伦理委员会必须将"知情同意"原则应用于研究者，而非仅应用于被研究者；(iv) 前瞻性监管在生活大多数领域中是极不寻常的；(v) 几乎没有证据表明研究者在不伦理地运作
+>
+> **c. 导致研究中的不良后果**：(i) 研究的官僚化；(ii) 时间和精力成本将阻止许多研究者继续；(iii) 研究者将回避敏感、困难或有争议但重要的领域；(iv) 研究者将回避重要研究领域，因为他们认为获得伦理委员会同意困难
+>
+> Hammersley 建议伦理委员会的角色应被削减为提供建议和伦理讨论的论坛。Howe & Moses (1999, pp. 46–55) 也认为伦理委员会没有特殊专长来判断许多教育[[Research Question|研究问题]]，应提供建议和指导，而非对特定研究项目做出前瞻性判断。
+
+> [!tip] 伦理守则的困难与优势
+> 伦理守则不能也不提供在特定情境中做什么的具体建议。最终，是研究者自己——其诚信、良心，在对伦理问题的敏锐意识、指导性守则和规范实践的支撑下——应该决定在特定情境中做什么，而这应该是经过证成、可证成、经过深思熟虑和可辩护的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 128]]）。
 
 ---
 

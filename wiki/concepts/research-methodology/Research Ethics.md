@@ -10,12 +10,15 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Institutional Review Board]]"
   - "[[Gatekeepers]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
+  - "[[Informed Consent]]"
+  - "[[Academic Freedom]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -30,10 +33,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-18
 ---
 
 # Research Ethics
@@ -67,7 +71,7 @@ updated: 2026-05-31
 > 这一平衡过程主要是主观的，几乎不存在绝对标准。来源：改编自 Frankfort-Nachmias & Nachmias (1992)
 
 > [!info] Seedhouse 的伦理金字塔四层
-> Seedhouse (1998a) 提出了伦理决策的四层结构，构成思考研究伦理问题的"认识论装置"（Stutchbury & Fox, 2009, p. 492）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77]]）：
+> Seedhouse (1998a) 提出了伦理决策的四层结构，构成思考研究伦理问题的"[[Epistemology|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77]]）：
 >
 > | 层次 | 核心问题 |
 > |---|---|
@@ -192,6 +196,95 @@ updated: 2026-05-31
 - **不得重复或拆分发表**：不应发表含有来自同一研究的重复或冗余信息的论文（Israel & Hay, 2006）
 - **提交合规证明和利益冲突声明**：部分学术机构要求作者提交无利益冲突声明
 - **明确数据所有权**：在研究计划中预先讨论数据所有权问题，在研究团队、参与者和导师之间通过个人协议明确所有权归属（Berg, 2001; Punch, 2014）
+
+---
+
+---
+
+## 不伤害、行善与人的尊严
+
+> [!info] 不伤害（Non-maleficence）
+> 希波克拉底誓言中的 primum non nocere（首先，不伤害）在研究中同样适用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 89–93]]）。研究不应在身体、心理、情感、职业或个人层面损害参与者。但"什么构成伤害"是不清楚的——一个人的伤害可能是社会的收益，一点小伤害对少数人是否在为所有人（甚至为当事人）带来重大利益的情况下可容忍，这凸显了其中的张力。核心问题是：**目的正当化手段吗？**
+
+> [!info] 行善（Beneficence）
+> 不伤害的对应面是行善：研究将带来什么收益，对谁？许多潜在参与者如果清楚地知道研究会带来个人、教育和社会收益，可能被说服参与。但核心伦理问题是——**谁受益？** 研究者可能从研究中获得晋升、出版、学位和名声，而参与者仍然生活和工作在肮脏和资源不足的条件下。Whyte (1955) 在《Street Corner Society》中的线人苦涩地评论：当地人帮助了许多研究者成名和获得博士学位，却未改善当地人的生活质量。
+
+> [!warning] Bailey 的七种避免伤害方法
+> Bailey (1994, p. 457) 提出（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 92]]）：
+> 1. 使用计算机模拟
+> 2. 寻找已存在负面效果的情境（研究不对制造这些条件负责）
+> 3. 只施加极低水平的潜在伤害，或只持续很短时间
+> 4. [[Informed Consent|知情同意]]——提供潜在负面效果的详细信息并征得参与者同意
+> 5. 以研究试图改善的现有情境造成的更大伤害来证成小伤害
+> 6. 使用样本而非全总体，减少暴露于伤害的人数
+> 7. 通过聚合或匿名化数据保护参与者隐私
+
+> [!info] 尊重人的尊严
+> 需要将参与者视为平等者，而非"对象"或从属于研究者。包括：避免使用"受试者"而非平等者；避免污名化群体；确保研究不在不存在问题的地方制造问题（如在一个族裔关系和谐的社区中提出族裔冲突问题）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 91–93]]）。
+
+---
+
+## 绝对主义与相对主义伦理
+
+> [!tension] 两种立场的张力
+> （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 92–93]]）：
+>
+> **绝对主义立场（absolutist view）**：应由清晰、固定的原则指导研究者工作——"原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），一种道义论模型。研究受普遍准则如正义、诚实和尊重所管辖。例如 Stanford Prison Experiment 按照绝对原则必须被视为不伦理的。
+>
+> **相对主义立场（relativist view）**：不可能有绝对指导方针——情境决定行为。尊重研究发生的文化、族裔、社会经济背景（Oliver, 2003, p. 53）。在"后果的功利主义伦理"中，伦理研究根据其后果（如知识增加、多数人受益）来判断。
+>
+> Plummer (1983) 指出双方都有弱点：绝对主义者坚持[[Informed Consent|知情同意]]可能导致特权群体研究不足（他们会说"不"）、弱势群体研究过度（他们抱希望说"是"）；而如果个体良心是指导，不道德的——甚至是不择手段的——研究者的大门就敞开了。他建议由专业机构制定的广泛指导方针，为研究者留下个人伦理选择的空间，是走出困境的方法。
+
+---
+
+## 伦理困境与背信
+
+> [!warning] Robson 的十项可疑实践
+> Robson (1993, p. 33) 列出了十项在伦理上存疑但并非黑白分明的实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 95–98]]）：
+> 1. 在人们不知情或未经同意的情况下将其卷入研究
+> 2. 强迫他们参与
+> 3. 隐瞒研究的真实性质
+> 4. 以其他方式欺骗参与者
+> 5. 诱导他们做出损害自尊的行为
+> 6. 侵犯自决权
+> 7. 使参与者暴露于身体或精神压力
+> 8. 侵犯他们的隐私
+> 9. 剥夺部分参与者的收益（如对照组）
+> 10. 不公平、不体谅或不尊重地对待参与者
+
+> [!tension] 背信（Betrayal）
+> "背信"适用于那些在信赖中披露的数据被公开透露以致引起参与者尴尬、焦虑或痛苦的场合。Morrison (2006) 提出了核心困境：一所表现不佳、管理不善的学校——消费者乃至国家是否有权利或义务分别知情或解决这一问题？研究者对学校或对公众有什么"信义信任"，两个潜在的矛盾要求如何调和？**追求真理和追求信任可能相互冲突**（Kelly, 1985, p. 147）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 108–109]]）。
+
+---
+
+## 电子研究伦理
+
+> [!warning] 在线研究的特殊挑战
+> （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 105–108]]）：
+>
+> - **身份认证困难**：James & Busher (2007) 认为在线研究带来了确认受访者和回答真实性的困难问题
+> - **公共与私密的模糊**：Hudson & Bruckman (2005, p. 298) 发现"公共在线环境中的人往往表现得好像这些环境是私密的"，即使数据无法被追溯，他们仍然感到隐私被侵犯
+> - **信任建立**：Lewis (2006) 描述了在请求参与研究之前花了五个月时间建立在线社区的信任关系——先成为在线社区成员
+> - **AoIR 伦理指南**（Ess & AoIR, 2002）：不要假设电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
+
+---
+
+## 评估研究伦理
+
+> [!info] Strike 的两个广泛原则
+> Strike (1990) 提出了评估伦理的两个广泛原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 114–116]]）：
+>
+> 1. **收益最大化原则（principle of benefit maximization）**：最好的决定是对最大多数人产生最大收益的决定——以结果判断正确性
+> 2. **平等尊重原则（principle of equal respect）**：要求尊重所有人的平等价值——将人视为目的而非手段，视他们为自由和理性的，接受他们有权享有与他人相同的基本权利
+>
+> 在此基础上，Strike 提出了八项评估伦理原则：正当程序、隐私、平等、公共透明、人道、客户利益、[[Academic Freedom|学术自由]]、尊重自主。
+
+---
+
+## 资助研究伦理
+
+> [!warning]
+> 资助研究不免除研究者的伦理行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 129–131]]）。资助方不该告诉研究者如何开展研究、应该寻找什么结果、应该压制什么发现。研究者不应屈服于压力而背叛受访者的保密性、篡改数据、呈现有选择性的数据、做出并非源自数据本身的建议、或将数据用于个人利益。研究者的诚信必须是绝对的。
 
 ---
 
