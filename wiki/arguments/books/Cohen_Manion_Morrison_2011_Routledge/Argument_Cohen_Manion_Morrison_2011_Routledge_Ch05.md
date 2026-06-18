@@ -163,7 +163,7 @@ updated: 2026-06-18
 > | **来源** | Howe & Moses (1999, p. 22) | Howe & Moses (1999, p. 23) | Hammersley (2009, p. 213) |
 
 > [!exegesis] 三种立场为何不可调和
-> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向全章的核心方法论立场：**情境伦理**（situated ethics）（pp.76–77）。
+> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向核心方法论立场：**情境伦理**（situated ethics）（pp.76–77）。
 
 ---
 
@@ -172,12 +172,12 @@ updated: 2026-06-18
 > [!framework-table] Seedhouse 的伦理决策四层结构
 > Seedhouse (1998a) 提出伦理决策的四层结构，共同构成思考[[Research Ethics|研究伦理]]问题的"[[Epistemology|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）（pp.76–78）：
 >
-> | 层次 | 英文 | 核心问题 | 典型载体 |
-> |---|---|---|---|
-> | **外部层** | External | 基于什么外部规范？ | 实践守则、法律、制度规定 |
-> | **后果层** | Consequential | 对谁产生什么后果？ | 对个人、群体、社会的后果分析 |
-> | **道义层** | Deontological | 我的义务是什么？ | 义务判断的达成方式（基本不考虑后果） |
-> | **个体层** | Individual | 尊重个人自由和自主吗？ | 尊重个体自由与自主的核心原则 |
+> | 层次 | 核心问题 | 典型载体 |
+> |---|---|---|
+> | **外部层**（External） | 基于什么外部规范？ | 实践守则、法律、制度规定 |
+> | **后果层**（Consequential） | 对谁产生什么后果？ | 对个人、群体、社会的后果分析 |
+> | **道义层**（Deontological） | 我的义务是什么？ | 义务判断的达成方式（基本不考虑后果） |
+> | **个体层**（Individual） | 尊重个人自由和自主吗？ | 尊重个体自由与自主的核心原则 |
 
 > [!example]- Figure 5.1：Seedhouse 的伦理金字塔网格
 > > [!note]- 图5.1：Seedhouse's ethical pyramidal grid
@@ -1210,7 +1210,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > Ethics has been defined as 'a matter of principled sensitivity to the rights of others', and that 'while truth is good, respect for human dignity is better' (Cavan, 1977: 810).
 
 > [!citation-card] 隐私权的定义（SSHRC Canada）
-> 隐私权"延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由"（第5章, p.99）。
+> 隐私权"延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由"（p.99）。
 >
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences and Humanities Research Council of Canada, 1981).
 
@@ -1225,22 +1225,22 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > 'researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes' (Simons and Usher, 2000: 2).
 
 > [!citation-card] Wax 对知情同意的批评
-> Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但田野研究者往往需要比知情同意多得多的东西——"信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（第5章, pp.83–84）
+> Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但田野研究者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
 >
 > Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
 > [!citation-card] Debriefing 的核心（Aronson & Carlsmith）
-> "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（第5章, p.113）
+> "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）
 >
 > 'debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all.' 'No amount of postexperimental gentleness is as effective in relieving a subject's discomfort as an honest accounting of the experimenter's own discomfort in the situation' (Aronson and Carlsmith, 1969: 31).
 
 > [!citation-card] [[Rich and Thick Description|厚描述]] vs 薄描述（Howe & Moses）
-> "中学女生在英语讨论课上交替感到无聊、被胁迫和沉默"vs"女生在英语讨论课上参与少于男生"——前者是厚描述，后者是被净化的薄描述。解释性研究需要厚描述所需的细节层次，而隐私、保密和匿名要求可能使其无法获得。（第5章, p.105）
+> "中学女生在英语讨论课上交替感到无聊、被胁迫和沉默"vs"女生在英语讨论课上参与少于男生"：前者是厚描述，后者是被净化的薄描述。解释性研究需要厚描述所需的细节层次，而隐私、保密和匿名要求可能使其无法获得。（p.105）
 >
 > 'the secondary school girls alternated between being bored, intimidated and silent in English discussion sessions' vs 'the girls participated less than boys in the English discussion sessions' (Howe and Moses, 1999: 45). Where the former provides a rich description, the latter, being sanitized, is thin.
 
 > [!citation-card] Foster 的研究者"亲密接触"
-> "当个体感到不安全、当他们的世界面临超出他们控制的变革威胁时，他们很可能以不可预测的方式回应他们中间角色不明确的人——而研究者的角色很少被那些不从事研究的人理解。"（第5章, p.86）
+> "当个体感到不安全、当他们的世界面临超出他们控制的变革威胁时，他们很可能以不可预测的方式回应他们中间角色不明确的人，而研究者的角色很少被那些不从事研究的人理解。"（p.86）
 >
 > 'when individuals feel insecure, when their world is threatened with change that is beyond their control, they are likely to respond in an unpredictable manner to persons within their midst whose role is unclear, and the role of the researcher is rarely understood by those not engaged in research' (Foster, 1989: 194).
 
