@@ -45,7 +45,7 @@ updated: 2026-06-18
 
 ## 概念地图
 
-> [!logic-map] 全章论证结构
+> [!logic-map] 论证结构
 > ```mermaid
 > flowchart LR
 >   A["5.1 引言<br>研究伦理的问题来源<br>伦理三理论<br>Seedhouse金字塔<br>Figure 5.1"] --> B["5.2 知情同意<br>四要素 · 合理知情同意<br>儿童/弱势群体<br>反对论证 · Wax批评"]
@@ -71,7 +71,7 @@ updated: 2026-06-18
 >   R --> S["5.19 结论<br>个人伦理守则六优势<br>Box 5.9-5.10"]
 > ```
 
-> [!knowledge-map]- 第5章概念地图
+> [!knowledge-map]- 概念地图
 > ```mermaid
 > flowchart LR
 >   subgraph 伦理理论基础
@@ -111,8 +111,8 @@ updated: 2026-06-18
 
 #### 5.1.1 问题起点：伦理从何而来？
 
-> [!nav] 本章导览
-> 本章逐一审视教育与社会研究中研究者需要面对的核心伦理议题。伦理意识在近年的增长反映在相关文献的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
+> [!nav] 导览
+> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关文献的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
 
 > [!chapter-question] 伦理问题的六个来源
 > 伦理问题可能出现在研究的每个阶段（Oliver, 2003, p. 17）（pp.75–76）：
@@ -127,8 +127,8 @@ updated: 2026-06-18
 > | 数据的类型与处理 | 高度个人化和敏感的信息；以可能使参与者尴尬或受伤害的方式发表 |
 > | 数据的报告方式 | 例如报告方式是否能让参与者理解 |
 
-> [!tension] 本章的核心张力
-> 研究者面临一个根本性的伦理困境：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**成本/收益比**（costs/benefits ratio），本章反复回归的核心概念（pp.75–76）。
+> [!tension] 贯穿始终的核心张力
+> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**成本/收益比**（costs/benefits ratio），反复回归的核心概念（pp.75–76）。
 
 ---
 
@@ -163,7 +163,7 @@ updated: 2026-06-18
 > | **来源** | Howe & Moses (1999, p. 22) | Howe & Moses (1999, p. 23) | Hammersley (2009, p. 213) |
 
 > [!exegesis] 三种立场为何不可调和
-> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。本章并不试图在它们之间做出裁断，而是在全章中不断展示研究者如何在这些立场之间做出**情境化的**选择。这引向全章的核心方法论立场：**情境伦理**（situated ethics）（pp.76–77）。
+> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向全章的核心方法论立场：**情境伦理**（situated ethics）（pp.76–77）。
 
 ---
 
@@ -336,7 +336,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 #### 5.3.1 准入的伦理意义
 
 > [!info]
-> 知情同意原则的相关性在研究项目的最初阶段就显现出来：进入研究机构和获得许可。本章特别强调这一阶段，因为它提供了研究者展示其作为严肃研究者的资质并建立自身伦理立场的最佳机会（pp.84–85）。
+> 知情同意原则的相关性在研究项目的最初阶段就显现出来：进入研究机构和获得许可。这一阶段尤其值得注意，因为它提供了展示研究者资质并建立伦理立场的最佳机会（pp.84–85）。
 
 研究者不能将进入托儿所、学校、学院或大学视为一种理所当然的权利。他们必须证明自己作为研究者和人值得被赋予开展调查所需的设施。Bell (1991, p. 37) 的建议是尽早获得许可——获得充分知情同意，并向参与者说明研究可能带来的收益（p.85）。
 
@@ -448,7 +448,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > 来源：改编自 Bell, 1991
 
-> [!warrant] 准入检查清单的论证功能
+> [!warrant] 清单的论证功能
 > Bell (1991) 的这份清单将伦理从抽象原则转化为可执行的操作步骤。10 条中的每一条都对应一个具体的伦理风险：第4条对应匿名失效、第5条对应过度承诺、第8条对应信任破坏、第10条对应研究者自以为是的盲区。Hitchcock & Hughes (1995, p. 41) 将这些操作归结为更根本的原则："个体情境必须是最终的裁决者……如果研究似乎将与学校政策、管理风格或个人人格发生冲突，最好直面问题、征询相关方，并在可能或必要时重新安排研究设计。"（p.88）
 
 ---
@@ -812,7 +812,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 > Lewis (2006) 描述了作为一个研究者，他花了时间（五个月）与在线联系人建立信任关系。通过这种方式，他在接触他们参与研究之前先作为在线社区成员发展了与参与者的信任关系（p.107）。
 
 > [!info] 互联网研究者协会（AoIR）伦理指南
-> Ess & the Association of Internet Researchers (2002) 制定了研究者使用互联网收集数据和开展研究的伦理指南（pp.107–108）：
+> Ess & the Association of Internet Researchers (2002) 制定的使用互联网收集数据和开展研究的伦理指南（pp.107–108）：
 >
 > | # | 指南 |
 > |---|------|
@@ -1192,20 +1192,20 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 >
 > 必须强调的是，**定制项目**（即旨在满足特定项目需求的）优于标准项目。Box 5.9 中的条目是说明性的，绝非穷尽的（p.135）。
 
-> [!quote] 全章结语
-> 本章期望能在读者中引发某种性情，使他们能够以更大的觉知和更充分的理解来对待自己的项目，认识到潜伏在研究过程缝隙中的伦理困境和道德议题。无论研究者在这些事务上多么没有经验，他们都带着一种**是非感**（a sense of rightness, Huizinga, 1949），在此基础上他们可以构建适合自己情境的**理性原则**体系，基于个人、专业和社会价值观——**正是理性与是非感的结合，研究者必须守信的，如果他们要为工作带来丰富的伦理品质**（p.133）。
+> [!quote] 结语
+> 期望读者能带着更大的觉知和更充分的理解来对待自己的项目，认识到潜伏在研究过程缝隙中的伦理困境和道德议题。无论在这些事务上多么没有经验，每个研究者都带着一种**是非感**（a sense of rightness, Huizinga, 1949），在此基础上他们可以构建适合自己情境的**理性原则**体系，基于个人、专业和社会价值观——**正是理性与是非感的结合，研究者必须守信的，如果他们要为工作带来丰富的伦理品质**（p.133）。
 
 ---
 
 ## 关键引用
 
 > [!citation-card] [[Informed Consent|知情同意]]的定义（Diener & Crandall）
-> 知情同意是"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（第5章, p.77）。
+> 知情同意是"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（p.77）。
 >
 > Informed consent is 'the procedures in which individuals choose whether to participate in an investigation after being informed of facts that would be likely to influence their decisions' (Diener and Crandall, 1978: 57).
 
 > [!citation-card] 伦理的定义（Cavan）
-> 伦理是"对他人权利的原则性敏感"，而"虽然真理是好的，但尊重人的尊严更好"（第5章, p.87）。
+> 伦理是"对他人权利的原则性敏感"，而"虽然真理是好的，但尊重人的尊严更好"（p.87）。
 >
 > Ethics has been defined as 'a matter of principled sensitivity to the rights of others', and that 'while truth is good, respect for human dignity is better' (Cavan, 1977: 810).
 
@@ -1215,12 +1215,12 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences and Humanities Research Council of Canada, 1981).
 
 > [!citation-card] 情境伦理的核心主张（Simons & Usher）
-> "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（第5章, p.128）
+> "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons and Usher, 2000: 1).
 
 > [!citation-card] 情境伦理的不可普遍化（Simons & Usher）
-> "研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到。"（第5章, p.128）
+> "研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到。"（p.128）
 >
 > 'researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes' (Simons and Usher, 2000: 2).
 
