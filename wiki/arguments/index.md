@@ -21,7 +21,7 @@ Total entries: **155**
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]] — 第2章以哈贝马斯认识兴趣三分法为理论框架，系统介绍批判理论、意识形态批判、参与式研究和女性主义研究在教育研究中的应用、内部批评与课程实践。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]] — 第3章以研究（research）与评估（evaluation）的概念比较为主线，从意图、受众、议程、所有权、政治立场等维度系统区分二者，进而追踪分类资助（categorical funding）和评估政治化如何模糊二者边界，最后分析研究、政治与政策制定的复杂关系。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 第4章系统介绍教育研究中因果推断的关键议题，包括原因与条件、概率因果性、反事实推理、因果过度决定、筛选隔离、因果方向、行动叙事在因果解释中的作用，以及研究原因之效果与回溯效果之原因的两种策略。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]] — 第5章系统介绍教育与社会研究中的伦理议题，涵盖知情同意、研究准入、隐私、匿名与保密、欺骗与隐蔽研究、电子研究伦理、评估研究伦理、伦理守则与审查委员会，以及利益相关者责任。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]] — 第5章系统拆解教育与社会研究伦理的19个议题，从伦理理论基础（道义论/后果论/德性伦理、成本/收益比、Seedhouse金字塔）出发，逐层推进知情同意、研究准入、隐私/匿名/保密、欺骗与隐蔽研究、电子与评估研究伦理、伦理守则与审查委员会，最终落脚于个人伦理守则的建构。
 
 > [!summary]- Creswell_2022_SAGE (1)
 > - [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程

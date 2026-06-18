@@ -65,8 +65,8 @@ updated: 2026-06-17
 year: 2018
 doi: 10.1002/berj.3338
 citation_aliases:
-  - Wrigley, 2018
-  - Wrigley (2018)
+  - "Wrigley, 2018"
+  - "Wrigley (2018)"
 ---
 ## 研究问题
 
