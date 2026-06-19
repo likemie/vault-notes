@@ -15,28 +15,30 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
-  - "[[Variable]]"
-  - "[[Effect Size]]"
-  - "[[Recommendations for Practice]]"
+  - "[[Statistical Significance]]"
   - "[[Exogenous and Endogenous Variables]]"
+  - "[[Recommendations for Practice]]"
+  - "[[Research Question]]"
   - "[[Screening Off]]"
+  - "[[Causal Processes]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
+  - "[[Multiple Regression]]"
   - "[[Matching]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Covariate Adjustment]]"
-  - "[[Multiple Regression]]"
 related_persons:
   - "[[Herbert Blalock]]"
 related_arguments:
   - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -190,7 +192,7 @@ updated: 2026-06-18
 > | 方法 | 关系 | 说明 |
 > |------|------|------|
 > | [[Observational and Correlational Research]] | 数据来源 | 因果建模通常在此类数据中估计因果路径，推论风险直接相关 |
-> | [[Matching]] | 替代策略 | Berk (2011) 推荐的替代方法，以协变量平衡降低混杂风险 |
+> | [[Matching]] | 替代策略 | [[Argument_Berk_2011_ER\|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
 > | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响效应量与显著性 |
 > | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；SEM 扩展了多元回归以同时处理多方程系统 |
-> | [[Recommendations for Practice]] | 风险关联 | Brady et al. (2023) 关注建模语汇推动越界实践建议的风险 |
+> | [[Recommendations for Practice]] | 风险关联 | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 关注建模语汇推动越界实践建议的风险 |
