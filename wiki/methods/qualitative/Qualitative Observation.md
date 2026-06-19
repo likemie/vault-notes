@@ -125,5 +125,5 @@ updated: '2026-06-19'
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 介绍了 Miller (1992) 在一项关于四年制学院新校长第一年经历的民族志研究中，对校长行政内阁会议和日常活动进行系统现场观察的案例。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 介绍了米勒（Miller）于 1992 年在关于四年制学院新校长第一年经历的民族志研究中，对校长行政内阁会议和日常活动进行系统现场观察的案例。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 指出在教育开放系统与复杂背景下探索因果涌现，必须引入质性观察以配合多元改进和方法论实在论。

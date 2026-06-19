@@ -1355,7 +1355,7 @@
 /* ─── framework-table（理论框架 — 扇形辐射纹） ──────── */
 .callout[data-callout="framework-table"] {
   --callout-color: 82, 145, 214;
-  --callout-icon: lucide-telescope;
+  --callout-icon: lucide-frame;
   position: relative;
   overflow: hidden;
   background:
@@ -1393,6 +1393,19 @@
 .callout[data-callout="framework-table"] > .callout-content {
   position: relative;
   z-index: 1;
+}
+
+.callout[data-callout="framework-table"] > .callout-title .callout-title-inner::before {
+  content: "FRAME";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 6px;
+  background: rgba(82, 145, 214, 0.14);
+  color: rgb(52, 105, 175);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
 }
 
 .callout[data-callout="framework-table"] table {
@@ -2008,7 +2021,6 @@
   margin-block: 0.55rem 0.2rem;
   border-collapse: separate;
   border-spacing: 0;
-  font-size: var(--fs-table);
 }
 
 .callout[data-callout="contrast-table"] th,
@@ -2017,14 +2029,13 @@
   border-color: rgba(126, 137, 150, 0.12);
   line-height: 1.55;
   padding: 0.45rem 0.55rem;
-  font-size: var(--fs-body);
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="contrast-table"] th {
   font-weight: 700;
   text-align: center;
   letter-spacing: 0.02em;
-  font-size: var(--fs-table);
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(1),
@@ -2033,7 +2044,6 @@
   background: transparent;
   color: rgb(126, 137, 150);
   font-weight: 700;
-  font-size: var(--fs-table);
   white-space: nowrap;
 }
 
@@ -2054,6 +2064,42 @@
 .callout[data-callout="contrast-table"] th:nth-child(2) { color: #c0954a; }
 .callout[data-callout="contrast-table"] th:nth-child(3) { color: #bd788d; }
 .callout[data-callout="contrast-table"] th:nth-child(4) { color: rgb(30, 120, 110); }
+
+.callout[data-callout="contrast-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="contrast-table"] tbody tr:hover td {
+  background: rgba(95, 114, 133, 0.07) !important;
+}
+
+.theme-dark .callout[data-callout="contrast-table"] {
+  --callout-color: 140, 152, 168;
+  background:
+    linear-gradient(var(--background-primary), var(--background-primary)) padding-box,
+    linear-gradient(
+      90deg,
+      rgba(140, 152, 168, 0.5),
+      rgba(140, 152, 168, 0.15) 24%,
+      rgba(140, 152, 168, 0.15) 76%,
+      rgba(140, 152, 168, 0.5)
+    ) border-box;
+  border: 1px solid transparent;
+  border-top-width: 10px;
+}
+.theme-dark .callout[data-callout="contrast-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(140, 152, 168, 0.2);
+  color: rgb(180, 192, 208);
+}
+.theme-dark .callout[data-callout="contrast-table"] th:nth-child(1),
+.theme-dark .callout[data-callout="contrast-table"] td:nth-child(1) {
+  color: rgb(160, 172, 186);
+}
+.theme-dark .callout[data-callout="contrast-table"] th:nth-child(2) { color: #e0b060; }
+.theme-dark .callout[data-callout="contrast-table"] th:nth-child(3) { color: #d8909a; }
+.theme-dark .callout[data-callout="contrast-table"] th:nth-child(4) { color: rgb(60, 180, 165); }
+.theme-dark .callout[data-callout="contrast-table"] tbody tr:hover td {
+  background: rgba(140, 152, 168, 0.1) !important;
+}
 
 /* ─── stat-cards（数据卡 — 横向刻度线，数量自适应排列） ── */
 .callout[data-callout="stat-cards"] {
@@ -3094,43 +3140,6 @@
 }
 .callout[data-callout="features"] li strong:first-child {
   color: rgb(80, 92, 105);
-}
-
-/* ─── ref-table（参考速查表 — 紧凑行 + 淡底） ────────── */
-.callout[data-callout="ref-table"] {
-  --callout-color: 95, 110, 130;
-  --callout-icon: lucide-table;
-  background: linear-gradient(135deg, rgba(95, 110, 130, 0.08), rgba(95, 110, 130, 0.02)), var(--background-primary);
-  border: 1px solid rgba(95, 110, 130, 0.20);
-  border-left: 4px solid rgb(95, 110, 130);
-  border-radius: 10px;
-  box-shadow: 0 6px 16px rgba(95, 110, 130, 0.07);
-  font-size: var(--fs-body);
-}
-.callout[data-callout="ref-table"] > .callout-title {
-  color: rgb(70, 82, 100);
-  font-weight: 650;
-}
-.callout[data-callout="ref-table"] table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0 0.2rem;
-}
-.callout[data-callout="ref-table"] th {
-  background: rgba(95, 110, 130, 0.12);
-  font-weight: 650;
-  font-size: var(--fs-body);
-}
-.callout[data-callout="ref-table"] th, .callout[data-callout="ref-table"] td {
-  border-color: rgba(95, 110, 130, 0.14);
-  vertical-align: top;
-  line-height: 1.5;
-  padding: 0.3rem 0.5rem;
-}
-.callout[data-callout="ref-table"] td:first-child {
-  font-weight: 650;
-  color: rgb(70, 82, 100);
-  white-space: nowrap;
 }
 
 /* ─── frames-ref（思维框架参考卡 — 紧凑双列 + 钢蓝） ──────── */
@@ -8998,7 +9007,7 @@
 /* ─── tension-table（三列张力表 — 均衡列宽） ──── */
 .callout[data-callout="tension-table"] {
   --callout-color: 148, 108, 82;
-  --callout-icon: lucide-columns-3;
+  --callout-icon: lucide-scale;
   background: rgba(148, 108, 82, 0.04);
   border: 1px solid rgba(148, 108, 82, 0.22);
   border-top-width: 6px;
@@ -9009,13 +9018,25 @@
   letter-spacing: 0.01em;
 }
 
+.callout[data-callout="tension-table"] > .callout-title .callout-title-inner::before {
+  content: "TENSION";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 6px;
+  background: rgba(148, 108, 82, 0.12);
+  color: rgb(115, 78, 52);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
 .callout[data-callout="tension-table"] table {
   display: table;
   width: 100%;
   table-layout: fixed;
   margin-block: 0.5rem 0.2rem;
   border-collapse: collapse;
-  font-size: var(--fs-table);
 }
 
 .callout[data-callout="tension-table"] th,
@@ -9024,14 +9045,13 @@
   border-bottom: 1px solid rgba(148, 108, 82, 0.12);
   line-height: 1.55;
   padding: 0.5rem 0.6rem;
-  font-size: var(--fs-body);
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="tension-table"] th {
   font-weight: 700;
   text-align: center;
   letter-spacing: 0.02em;
-  font-size: var(--fs-table);
   background: rgba(148, 108, 82, 0.08);
 }
 
@@ -9042,11 +9062,33 @@
 .callout[data-callout="tension-table"] td:first-child {
   font-weight: 700;
   color: rgb(148, 108, 82);
-  font-size: var(--fs-table);
 }
 
 .callout[data-callout="tension-table"] td:first-child strong {
   color: rgb(130, 90, 65);
+}
+
+.callout[data-callout="tension-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="tension-table"] tbody tr:hover td {
+  background: rgba(148, 108, 82, 0.07);
+}
+
+.theme-dark .callout[data-callout="tension-table"] {
+  --callout-color: 210, 168, 132;
+  background: rgba(148, 108, 82, 0.06);
+  border-color: rgba(148, 108, 82, 0.3);
+}
+.theme-dark .callout[data-callout="tension-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(210, 168, 132, 0.18);
+  color: rgb(210, 168, 132);
+}
+.theme-dark .callout[data-callout="tension-table"] td:first-child {
+  color: rgb(210, 168, 132);
+}
+.theme-dark .callout[data-callout="tension-table"] tbody tr:hover td {
+  background: rgba(148, 108, 82, 0.12);
 }
 
 /* ─── 表格通用支持：Ch04 论证页表格所在 callout ────────── */
