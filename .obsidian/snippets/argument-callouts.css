@@ -4255,65 +4255,155 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   REF-TABLE — 参考表格（钢蓝）
+   REF-TABLE / META-TABLE — 共享基础（钢蓝 45,100,160）
+   ref-table：3列参考表  meta-table：5列元分析数据表
    ═══════════════════════════════════════════════════════════ */
 
-.callout[data-callout="ref-table"] {
+.callout[data-callout="ref-table"],
+.callout[data-callout="meta-table"] {
   --callout-color: 45, 100, 160;
   --callout-icon: lucide-table;
   background: var(--background-primary);
-  border: 1px solid rgba(45, 100, 160, 0.16);
-  border-left: 5px solid rgb(45, 100, 160);
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-left: 5px solid rgb(var(--callout-color));
   border-radius: 8px;
   padding: 0;
   overflow: hidden;
   box-shadow:
-    0 2px 6px rgba(45, 100, 160, 0.06),
+    0 2px 6px rgba(var(--callout-color), 0.06),
     0 6px 18px rgba(0, 0, 0, 0.05);
 }
 
-/* ── 标题栏 ── */
-.callout[data-callout="ref-table"] > .callout-title {
-  color: rgb(45, 100, 160);
+.callout[data-callout="ref-table"] > .callout-title,
+.callout[data-callout="meta-table"] > .callout-title {
+  color: rgb(var(--callout-color));
   font-weight: 650;
   letter-spacing: 0.01em;
   padding: 0.6rem 1.1rem;
-  border-bottom: 1px solid rgba(45, 100, 160, 0.13);
+  border-bottom: 1px solid rgba(var(--callout-color), 0.13);
   background: linear-gradient(
     90deg,
-    rgba(45, 100, 160, 0.07) 0%,
-    rgba(45, 100, 160, 0.02) 100%
+    rgba(var(--callout-color), 0.07) 0%,
+    rgba(var(--callout-color), 0.02) 100%
   );
 }
 
-.callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before {
-  content: "TABLE";
+.callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="meta-table"] > .callout-title .callout-title-inner::before {
   display: inline-block;
   margin-right: 0.5rem;
   padding: 2px 7px;
   border-radius: 4px;
-  background: rgba(45, 100, 160, 0.12);
-  color: rgb(45, 100, 160);
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
   font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.08em;
   vertical-align: middle;
 }
 
-/* ── 内容区去内边距，让表格边靠边 ── */
-.callout[data-callout="ref-table"] > .callout-content {
+.callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before { content: "TABLE"; }
+.callout[data-callout="meta-table"] > .callout-title .callout-title-inner::before { content: "META"; }
+
+.callout[data-callout="ref-table"] > .callout-content,
+.callout[data-callout="meta-table"] > .callout-content {
   padding: 0;
 }
 
-/* ── 表格本体 ── */
-.callout[data-callout="ref-table"] table {
+.callout[data-callout="ref-table"] table,
+.callout[data-callout="meta-table"] table {
   width: 100%;
   border-collapse: collapse;
   margin: 0;
   table-layout: fixed;
 }
 
-/* 列宽：直接设在 th/td 上，绕开 Obsidian 不支持 col 元素的问题 */
+/* ── 共享表头基础 ── */
+.callout[data-callout="ref-table"] thead th,
+.callout[data-callout="meta-table"] thead th {
+  background: rgba(var(--callout-color), 0.08);
+  color: rgb(var(--callout-color));
+  font-weight: 650;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-align: left;
+  border-bottom: 1.5px solid rgba(var(--callout-color), 0.20);
+}
+
+/* ── 共享：末行 / 条纹 / 悬停 ── */
+.callout[data-callout="ref-table"] tbody tr:last-child td,
+.callout[data-callout="meta-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="ref-table"] tbody tr:nth-child(even) td,
+.callout[data-callout="meta-table"] tbody tr:nth-child(even) td {
+  background: rgba(var(--callout-color), 0.025);
+}
+
+.callout[data-callout="ref-table"] tbody tr:hover td,
+.callout[data-callout="meta-table"] tbody tr:hover td {
+  background: rgba(var(--callout-color), 0.06);
+}
+
+/* ── 深色模式共享 ── */
+.theme-dark .callout[data-callout="ref-table"],
+.theme-dark .callout[data-callout="meta-table"] {
+  border-left-color: rgb(100, 160, 220);
+  border-color: rgba(100, 160, 220, 0.22);
+}
+
+.theme-dark .callout[data-callout="ref-table"] {
+  box-shadow:
+    0 2px 6px rgba(100, 160, 220, 0.07),
+    0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.theme-dark .callout[data-callout="ref-table"] > .callout-title,
+.theme-dark .callout[data-callout="meta-table"] > .callout-title {
+  color: rgb(110, 170, 230);
+  background: linear-gradient(
+    90deg,
+    rgba(100, 160, 220, 0.10) 0%,
+    rgba(100, 160, 220, 0.03) 100%
+  );
+  border-bottom-color: rgba(100, 160, 220, 0.16);
+}
+
+.theme-dark .callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before,
+.theme-dark .callout[data-callout="meta-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(110, 170, 230, 0.15);
+  color: rgb(110, 170, 230);
+}
+
+.theme-dark .callout[data-callout="ref-table"] thead th,
+.theme-dark .callout[data-callout="meta-table"] thead th {
+  background: rgba(100, 160, 220, 0.09);
+  color: rgb(110, 170, 230);
+  border-bottom-color: rgba(100, 160, 220, 0.22);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody td,
+.theme-dark .callout[data-callout="meta-table"] tbody td {
+  border-bottom-color: rgba(255, 255, 255, 0.05);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody td:first-child,
+.theme-dark .callout[data-callout="meta-table"] tbody td:first-child {
+  border-right-color: rgba(100, 160, 220, 0.12);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody tr:nth-child(even) td,
+.theme-dark .callout[data-callout="meta-table"] tbody tr:nth-child(even) td {
+  background: rgba(100, 160, 220, 0.04);
+}
+
+.theme-dark .callout[data-callout="ref-table"] tbody tr:hover td,
+.theme-dark .callout[data-callout="meta-table"] tbody tr:hover td {
+  background: rgba(100, 160, 220, 0.08);
+}
+
+/* ── REF-TABLE 独有 ── */
 .callout[data-callout="ref-table"] th:nth-child(1),
 .callout[data-callout="ref-table"] td:nth-child(1) { width: 28%; font-size: var(--fs-table); }
 .callout[data-callout="ref-table"] th:nth-child(2),
@@ -4321,20 +4411,11 @@
 .callout[data-callout="ref-table"] th:nth-child(3),
 .callout[data-callout="ref-table"] td:nth-child(3) { width: 38%; font-size: var(--fs-table); }
 
-/* ── 表头 ── */
 .callout[data-callout="ref-table"] thead th {
-  background: rgba(45, 100, 160, 0.08);
-  color: rgb(45, 100, 160);
-  font-weight: 650;
   font-size: var(--fs-table);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
   padding: 0.5rem 1.1rem;
-  text-align: left;
-  border-bottom: 1.5px solid rgba(45, 100, 160, 0.20);
 }
 
-/* ── 数据行 ── */
 .callout[data-callout="ref-table"] tbody td {
   padding: 0.55rem 1.1rem;
   border-bottom: 1px solid rgba(var(--mono-rgb-100, 0,0,0), 0.06);
@@ -4345,136 +4426,16 @@
   transition: background 0.12s ease;
 }
 
-/* 第一列：标签列，加重 */
 .callout[data-callout="ref-table"] tbody td:first-child {
   font-weight: 600;
   color: var(--text-normal);
-  border-right: 1px solid rgba(45, 100, 160, 0.10);
+  border-right: 1px solid rgba(var(--callout-color), 0.10);
   white-space: normal;
   word-break: break-word;
   overflow-wrap: anywhere;
 }
 
-/* 末行无底线 */
-.callout[data-callout="ref-table"] tbody tr:last-child td {
-  border-bottom: none;
-}
-
-/* 偶数行淡底 */
-.callout[data-callout="ref-table"] tbody tr:nth-child(even) td {
-  background: rgba(45, 100, 160, 0.025);
-}
-
-/* hover 高亮 */
-.callout[data-callout="ref-table"] tbody tr:hover td {
-  background: rgba(45, 100, 160, 0.06);
-}
-
-/* ── 深色模式 ── */
-.theme-dark .callout[data-callout="ref-table"] {
-  border-left-color: rgb(100, 160, 220);
-  border-color: rgba(100, 160, 220, 0.22);
-  box-shadow:
-    0 2px 6px rgba(100, 160, 220, 0.07),
-    0 6px 18px rgba(0, 0, 0, 0.18);
-}
-
-.theme-dark .callout[data-callout="ref-table"] > .callout-title {
-  color: rgb(110, 170, 230);
-  background: linear-gradient(
-    90deg,
-    rgba(100, 160, 220, 0.10) 0%,
-    rgba(100, 160, 220, 0.03) 100%
-  );
-  border-bottom-color: rgba(100, 160, 220, 0.16);
-}
-
-.theme-dark .callout[data-callout="ref-table"] > .callout-title .callout-title-inner::before {
-  background: rgba(110, 170, 230, 0.15);
-  color: rgb(110, 170, 230);
-}
-
-.theme-dark .callout[data-callout="ref-table"] thead th {
-  background: rgba(100, 160, 220, 0.09);
-  color: rgb(110, 170, 230);
-  border-bottom-color: rgba(100, 160, 220, 0.22);
-}
-
-.theme-dark .callout[data-callout="ref-table"] tbody td {
-  border-bottom-color: rgba(255, 255, 255, 0.05);
-}
-
-.theme-dark .callout[data-callout="ref-table"] tbody td:first-child {
-  border-right-color: rgba(100, 160, 220, 0.12);
-}
-
-.theme-dark .callout[data-callout="ref-table"] tbody tr:nth-child(even) td {
-  background: rgba(100, 160, 220, 0.04);
-}
-
-.theme-dark .callout[data-callout="ref-table"] tbody tr:hover td {
-  background: rgba(100, 160, 220, 0.08);
-}
-
-
-/* ═══════════════════════════════════════════════════════════
-   META-TABLE — 元分析数据表（固定列宽 · 5列专用）
-   列比例：元分析 25% · ✓ 5% · N 10% · d 8% · 内容 52%
-   ═══════════════════════════════════════════════════════════ */
-
-.callout[data-callout="meta-table"] {
-  --callout-color: 45, 100, 160;
-  --callout-icon: lucide-table;
-  background: var(--background-primary);
-  border: 1px solid rgba(45, 100, 160, 0.16);
-  border-left: 5px solid rgb(45, 100, 160);
-  border-radius: 8px;
-  padding: 0;
-  overflow: hidden;
-  box-shadow:
-    0 2px 6px rgba(45, 100, 160, 0.06),
-    0 6px 18px rgba(0, 0, 0, 0.05);
-}
-
-.callout[data-callout="meta-table"] > .callout-title {
-  color: rgb(45, 100, 160);
-  font-weight: 650;
-  letter-spacing: 0.01em;
-  padding: 0.6rem 1.1rem;
-  border-bottom: 1px solid rgba(45, 100, 160, 0.13);
-  background: linear-gradient(
-    90deg,
-    rgba(45, 100, 160, 0.07) 0%,
-    rgba(45, 100, 160, 0.02) 100%
-  );
-}
-
-.callout[data-callout="meta-table"] > .callout-title .callout-title-inner::before {
-  content: "META";
-  display: inline-block;
-  margin-right: 0.5rem;
-  padding: 2px 7px;
-  border-radius: 4px;
-  background: rgba(45, 100, 160, 0.12);
-  color: rgb(45, 100, 160);
-  font-size: var(--fs-label);
-  font-weight: 750;
-  letter-spacing: 0.08em;
-  vertical-align: middle;
-}
-
-.callout[data-callout="meta-table"] > .callout-content {
-  padding: 0;
-}
-
-/* 固定布局 + 列宽比例 */
-.callout[data-callout="meta-table"] table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0;
-  table-layout: fixed;
-}
-
+/* ── META-TABLE 独有 ── */
 .callout[data-callout="meta-table"] th:nth-child(1),
 .callout[data-callout="meta-table"] td:nth-child(1) { width: 22%; }
 .callout[data-callout="meta-table"] th:nth-child(2),
@@ -4487,15 +4448,8 @@
 .callout[data-callout="meta-table"] td:nth-child(5) { width: 55%; }
 
 .callout[data-callout="meta-table"] thead th {
-  background: rgba(45, 100, 160, 0.08);
-  color: rgb(45, 100, 160);
-  font-weight: 650;
   font-size: var(--fs-caption);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
   padding: 0.5rem 0.7rem;
-  text-align: left;
-  border-bottom: 1.5px solid rgba(45, 100, 160, 0.20);
   overflow: hidden;
 }
 
@@ -4519,48 +4473,16 @@
   overflow-wrap: anywhere;
 }
 
-/* 元分析列：加重但允许换行 */
 .callout[data-callout="meta-table"] tbody td:first-child {
   font-weight: 600;
   color: var(--text-normal);
-  border-right: 1px solid rgba(45, 100, 160, 0.10);
+  border-right: 1px solid rgba(var(--callout-color), 0.10);
   white-space: normal;
 }
 
-.callout[data-callout="meta-table"] tbody tr:last-child td { border-bottom: none; }
-.callout[data-callout="meta-table"] tbody tr:nth-child(even) td {
-  background: rgba(45, 100, 160, 0.025);
-}
 .callout[data-callout="meta-table"] tbody tr {
   transition: background 0.13s ease;
 }
-.callout[data-callout="meta-table"] tbody tr:hover td {
-  background: rgba(45, 100, 160, 0.06);
-}
-
-/* 深色模式 */
-.theme-dark .callout[data-callout="meta-table"] {
-  border-left-color: rgb(100, 160, 220);
-  border-color: rgba(100, 160, 220, 0.22);
-}
-.theme-dark .callout[data-callout="meta-table"] > .callout-title {
-  color: rgb(110, 170, 230);
-  background: linear-gradient(90deg, rgba(100,160,220,0.10) 0%, rgba(100,160,220,0.03) 100%);
-  border-bottom-color: rgba(100, 160, 220, 0.16);
-}
-.theme-dark .callout[data-callout="meta-table"] > .callout-title .callout-title-inner::before {
-  background: rgba(110, 170, 230, 0.15);
-  color: rgb(110, 170, 230);
-}
-.theme-dark .callout[data-callout="meta-table"] thead th {
-  background: rgba(100, 160, 220, 0.09);
-  color: rgb(110, 170, 230);
-  border-bottom-color: rgba(100, 160, 220, 0.22);
-}
-.theme-dark .callout[data-callout="meta-table"] tbody td { border-bottom-color: rgba(255,255,255,0.05); }
-.theme-dark .callout[data-callout="meta-table"] tbody td:first-child { border-right-color: rgba(100,160,220,0.12); }
-.theme-dark .callout[data-callout="meta-table"] tbody tr:nth-child(even) td { background: rgba(100,160,220,0.04); }
-.theme-dark .callout[data-callout="meta-table"] tbody tr:hover td { background: rgba(100,160,220,0.08); }
 
 /* ─── effect-table（一级研究效应量表 — 青蓝） ──── */
 .callout[data-callout="effect-table"] {
@@ -7035,29 +6957,7 @@
   box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
 }
 
-.callout[data-callout="method-scope"] > .callout-title {
-  color: rgb(var(--callout-color));
-  font-weight: 760;
-  letter-spacing: 0.01em;
-}
-
-.callout[data-callout="method-scope"] > .callout-title .callout-title-inner::before {
-  content: "SCOPE";
-  display: inline-block;
-  margin-right: 0.55rem;
-  padding: 1px 7px;
-  border-radius: 999px;
-  background: rgba(var(--callout-color), 0.13);
-  color: rgb(var(--callout-color));
-  font-size: var(--fs-label);
-  font-weight: 820;
-  letter-spacing: 0.08em;
-  vertical-align: middle;
-}
-
-.callout[data-callout="method-scope"] > .callout-content {
-  padding: 0.85rem 1rem 0.95rem;
-}
+.callout[data-callout="method-scope"] > .callout-title .callout-title-inner::before { content: "SCOPE"; }
 
 .callout[data-callout="method-scope"] > .callout-content > ul {
   display: grid;
@@ -7071,30 +6971,12 @@
   list-style: none;
 }
 
-.callout[data-callout="method-scope"] > .callout-content > ul > li {
-  min-height: 5.4rem;
-  margin: 0;
-  padding: 0.78rem 0.86rem;
-  border: 1px solid rgba(var(--callout-color), 0.15);
-  border-radius: 8px;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
-    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
-  line-height: 1.58;
-}
+.callout[data-callout="method-scope"] > .callout-content > ul > li { min-height: 5.4rem; }
 
 .callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(1) { grid-area: object; }
 .callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(2) { grid-area: question; }
 .callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(3) { grid-area: unit; }
 .callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(4) { grid-area: output; }
-
-.callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-child {
-  display: block;
-  margin-bottom: 0.22rem;
-  color: rgb(var(--callout-color));
-  font-size: var(--fs-body);
-  letter-spacing: 0.02em;
-}
 
 .callout[data-callout="method-scope"] > .callout-content > ul > li:nth-child(n + 5) {
   grid-column: 1 / -1;
@@ -7119,29 +7001,7 @@
   box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
 }
 
-.callout[data-callout="method-fit"] > .callout-title {
-  color: rgb(var(--callout-color));
-  font-weight: 760;
-  letter-spacing: 0.01em;
-}
-
-.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before {
-  content: "FIT";
-  display: inline-block;
-  margin-right: 0.55rem;
-  padding: 1px 7px;
-  border-radius: 999px;
-  background: rgba(var(--callout-color), 0.13);
-  color: rgb(var(--callout-color));
-  font-size: var(--fs-label);
-  font-weight: 820;
-  letter-spacing: 0.08em;
-  vertical-align: middle;
-}
-
-.callout[data-callout="method-fit"] > .callout-content {
-  padding: 0.85rem 1rem 0.95rem;
-}
+.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before { content: "FIT"; }
 
 .callout[data-callout="method-fit"] > .callout-content > ul {
   display: grid;
@@ -7152,25 +7012,7 @@
   list-style: none;
 }
 
-.callout[data-callout="method-fit"] > .callout-content > ul > li {
-  min-height: 6rem;
-  margin: 0;
-  padding: 0.78rem 0.86rem;
-  border: 1px solid rgba(var(--callout-color), 0.15);
-  border-radius: 8px;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
-    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
-  line-height: 1.58;
-}
-
-.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-child {
-  display: block;
-  margin-bottom: 0.22rem;
-  color: rgb(var(--callout-color));
-  font-size: var(--fs-body);
-  letter-spacing: 0.02em;
-}
+.callout[data-callout="method-fit"] > .callout-content > ul > li { min-height: 6rem; }
 
 .callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(n + 4) {
   grid-column: 1 / -1;
@@ -7200,13 +7042,25 @@
   --callout-color: 212, 174, 82;
 }
 
-.theme-dark .callout[data-callout="method-scope"] > .callout-content > ul > li,
-.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li {
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent),
-    color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+
+
+/* scope+fit 共享：内容内边距 · li 基础 */
+.callout[data-callout="method-scope"] > .callout-content,
+.callout[data-callout="method-fit"] > .callout-content {
+  padding: 0.85rem 1rem 0.95rem;
 }
 
+.callout[data-callout="method-scope"] > .callout-content > ul > li,
+.callout[data-callout="method-fit"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.78rem 0.86rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent),
+    color-mix(in srgb, var(--background-primary) 90%, rgb(var(--callout-color)) 10%);
+  line-height: 1.58;
+}
 
 /* ═══════════════════════════════════════════════════════════
    METHOD-POSITION — 方法定位四格
@@ -7226,6 +7080,8 @@
   box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
 }
 
+.callout[data-callout="method-scope"] > .callout-title,
+.callout[data-callout="method-fit"] > .callout-title,
 .callout[data-callout="method-position"] > .callout-title,
 .callout[data-callout="method-stack"] > .callout-title {
   color: rgb(var(--callout-color));
@@ -7233,6 +7089,8 @@
   letter-spacing: 0.01em;
 }
 
+.callout[data-callout="method-scope"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="method-fit"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="method-position"] > .callout-title .callout-title-inner::before,
 .callout[data-callout="method-stack"] > .callout-title .callout-title-inner::before {
   display: inline-block;
@@ -7279,6 +7137,8 @@
 .callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(3) { grid-area: validity; }
 .callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(4) { grid-area: boundary; }
 
+.callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="method-position"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="method-stack"] > .callout-content > ul > li > strong:first-child {
   display: block;
@@ -7369,6 +7229,8 @@
   --callout-color: 110, 188, 168;
 }
 
+.theme-dark .callout[data-callout="method-scope"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="method-fit"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="method-position"] > .callout-content > ul > li,
 .theme-dark .callout[data-callout="method-stack"] > .callout-content > ul > li {
   background:
@@ -7943,11 +7805,15 @@
   border-right: 1px solid rgba(42, 120, 108, 0.13);
 }
 
-.callout[data-callout="col1-table"] tbody tr:last-child td {
+.callout[data-callout="col1-table"] tbody tr:last-child td,
+.callout[data-callout="seq-table"] tbody tr:last-child td,
+.callout[data-callout="dual-header"] tbody tr:last-child td {
   border-bottom: none;
 }
 
-.callout[data-callout="col1-table"] tbody tr {
+.callout[data-callout="col1-table"] tbody tr,
+.callout[data-callout="seq-table"] tbody tr,
+.callout[data-callout="dual-header"] tbody tr {
   transition: background 0.13s ease;
 }
 
@@ -8067,7 +7933,6 @@
 
 .callout[data-callout="seq-table"] tbody tr {
   counter-increment: seq-n;
-  transition: background 0.13s ease;
 }
 
 .callout[data-callout="seq-table"] tbody tr:hover {
@@ -8080,10 +7945,6 @@
   border-bottom: 1px solid rgba(70, 88, 165, 0.08);
   vertical-align: middle;
   line-height: 1.62;
-}
-
-.callout[data-callout="seq-table"] tbody tr:last-child td {
-  border-bottom: none;
 }
 
 /* 首列：隐藏用户填写内容，注入序号圆形徽章 */
@@ -8243,14 +8104,6 @@
   color: rgb(75, 48, 122);
   font-weight: 620;
   border-right: 1.5px solid rgba(100, 68, 155, 0.18);
-}
-
-.callout[data-callout="dual-header"] tbody tr:last-child td {
-  border-bottom: none;
-}
-
-.callout[data-callout="dual-header"] tbody tr {
-  transition: background 0.13s ease;
 }
 
 .callout[data-callout="dual-header"] tbody tr:hover {
