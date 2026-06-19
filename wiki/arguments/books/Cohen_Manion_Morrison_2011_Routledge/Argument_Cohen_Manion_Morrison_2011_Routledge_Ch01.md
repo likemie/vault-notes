@@ -116,6 +116,9 @@ updated: 2026-06-16
 >   J --> K["复杂性理论<br>新兴范式"]
 > ```
 
+> [!knowledge-map]- 第1章概念地图
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_1_Concept_Map.jpg)
+
 ---
 
 ## 章节内容

@@ -110,6 +110,9 @@ updated: 2026-06-16
 >   I --> K
 > ```
 
+> [!knowledge-map]- 第2章概念地图
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_2_Concept_Map.jpg)
+
 ---
 
 ## 研究问题

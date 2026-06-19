@@ -79,6 +79,9 @@ updated: 2026-06-17
 >   M --> N
 > ```
 
+> [!knowledge-map]- 第3章概念地图
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_3_Concept_Map.jpg)
+
 ---
 
 ## 章节内容

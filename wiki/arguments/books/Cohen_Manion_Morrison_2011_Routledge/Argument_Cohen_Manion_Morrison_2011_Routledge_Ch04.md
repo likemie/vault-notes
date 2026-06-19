@@ -85,28 +85,7 @@ updated: 2026-06-17
 > ```
 
 > [!knowledge-map]- 第4章概念地图
-> ```mermaid
-> flowchart LR
->   subgraph 概念基础
->     A["原因 vs 条件"] --> B["反事实推理"]
->     A --> C["必要/充分条件"]
->     B --> D["多重因果与<br>复合原因"]
->   end
->   subgraph 因果性质
->     E["决定论因果"] --> F["概率因果性"]
->     F --> G["因果 ≠ 解释/预测/相关"]
->     G --> H["筛选隔离"]
->   end
->   subgraph 结构复杂性
->     I["因果过度决定"] --> J["时间与范围边界"]
->     J --> K["因果方向<br>递归/非递归"]
->   end
->   subgraph 方法与策略
->     L["行动叙事<br>罗生门效应"] --> M["研究原因之效果<br>干预主义/实验"]
->     M --> N["研究效果之原因<br>事后回溯/七步法"]
->   end
->   概念基础 --> 因果性质 --> 结构复杂性 --> 方法与策略
-> ```
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_4_Concept_Map.jpg)
 
 ---
 
