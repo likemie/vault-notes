@@ -757,7 +757,7 @@ Total entries: **1385**
 > - [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 > - [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
-> - [[Realist Evaluation]] — 由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景（Context）下为受试者提供资源并激活其推理（Mechanism）来产生结果（Outcome）。
+> - [[Realist Evaluation]] — 由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。
 > - [[Seedhouse's Ethical Pyramid]] — Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置
 > - [[Situated Ethics]] — 一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境
 > - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
