@@ -7347,6 +7347,160 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   DATA-TABLE — 专属表格 callout
+   用于贡献地图及其他需要展示结构化数据的区段。
+   设计要点：
+     · 表格满宽、内容区零内边距，边到边呈现数据
+     · thead：着色背景 + 大写细标签字体 + 双线底边
+     · tbody：隔行浅底色 + hover 高亮 + 末行无边框
+     · 首列（类型／维度）：颜色强调 + caption 字号
+     · 右上角 ⊞ 水印（极淡装饰）
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="data-table"] {
+  --callout-color: 100, 112, 158;
+  --callout-icon: lucide-table-2;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(158deg, rgba(100, 112, 158, 0.08) 0%, transparent 46%),
+    var(--background-primary);
+  border: 1px solid rgba(100, 112, 158, 0.18);
+  border-left: 5px solid rgb(100, 112, 158);
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(100, 112, 158, 0.09);
+}
+
+/* 右上角水印 */
+.callout[data-callout="data-table"]::after {
+  content: "⊞";
+  position: absolute;
+  top: -0.6rem;
+  right: 0.8rem;
+  color: rgba(100, 112, 158, 0.06);
+  font-size: 6rem;
+  font-weight: 900;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* 标题栏 */
+.callout[data-callout="data-table"] > .callout-title {
+  color: rgb(100, 112, 158);
+  font-weight: 760;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid rgba(100, 112, 158, 0.12);
+}
+
+.callout[data-callout="data-table"] > .callout-title .callout-title-inner::before {
+  content: "TABLE";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(100, 112, 158, 0.13);
+  color: rgb(100, 112, 158);
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+/* 内容区：零内边距，表格边到边 */
+.callout[data-callout="data-table"] > .callout-content {
+  padding: 0;
+  overflow-x: auto;
+}
+
+/* ─── 表格基础 ───────────────────────────────────────── */
+.callout[data-callout="data-table"] table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-table);
+  line-height: 1.55;
+  margin: 0;
+}
+
+/* thead */
+.callout[data-callout="data-table"] thead tr {
+  background: rgba(100, 112, 158, 0.10);
+}
+
+.callout[data-callout="data-table"] thead th {
+  padding: 0.58rem 1.05rem;
+  border-bottom: 2px solid rgba(100, 112, 158, 0.28);
+  color: rgb(100, 112, 158);
+  font-size: var(--fs-caption);
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* tbody */
+.callout[data-callout="data-table"] tbody td {
+  padding: 0.54rem 1.05rem;
+  border-bottom: 1px solid rgba(100, 112, 158, 0.07);
+  vertical-align: top;
+}
+
+.callout[data-callout="data-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* 隔行底色 */
+.callout[data-callout="data-table"] tbody tr:nth-child(even) {
+  background: rgba(100, 112, 158, 0.035);
+}
+
+/* hover 高亮 */
+.callout[data-callout="data-table"] tbody tr:hover {
+  background: rgba(100, 112, 158, 0.075);
+  transition: background 0.12s ease;
+}
+
+/* 首列：类型／维度标签，颜色强调 */
+.callout[data-callout="data-table"] tbody td:first-child {
+  color: rgb(100, 112, 158);
+  font-size: var(--fs-caption);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+/* ─── Dark mode ─────────────────────────────────────── */
+.theme-dark .callout[data-callout="data-table"] {
+  --callout-color: 152, 164, 212;
+}
+
+.theme-dark .callout[data-callout="data-table"] thead tr {
+  background: rgba(152, 164, 212, 0.09);
+}
+
+.theme-dark .callout[data-callout="data-table"] thead th {
+  border-bottom-color: rgba(152, 164, 212, 0.26);
+  color: rgb(152, 164, 212);
+}
+
+.theme-dark .callout[data-callout="data-table"] tbody td {
+  border-bottom-color: rgba(152, 164, 212, 0.07);
+}
+
+.theme-dark .callout[data-callout="data-table"] tbody tr:nth-child(even) {
+  background: rgba(152, 164, 212, 0.04);
+}
+
+.theme-dark .callout[data-callout="data-table"] tbody tr:hover {
+  background: rgba(152, 164, 212, 0.09);
+}
+
+.theme-dark .callout[data-callout="data-table"] tbody td:first-child {
+  color: rgb(152, 164, 212);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    PERSON-PROFILE — 专项视觉增强
    在共享 person callout 基础上单独强化 person-profile：
      · 双层辐射渐变背景（右上光晕 + 斜向叠层）
