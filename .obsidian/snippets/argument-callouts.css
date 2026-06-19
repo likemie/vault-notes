@@ -8950,6 +8950,94 @@
   border-color: rgba(24, 121, 121, 0.30);
 }
 
+/* ─── AA. [!taxonomy] 条目右移 ───────────────────────────── */
+.callout[data-callout="taxonomy"] .callout-content ul > li {
+  transition:
+    background   0.14s ease,
+    transform    0.15s ease;
+}
+
+.callout[data-callout="taxonomy"] .callout-content ul > li:hover {
+  transform: translateX(4px);
+  background: rgba(56, 135, 115, 0.10);
+}
+
+/* ─── AB. [!frames-ref] 卡片 hover ───────────────────────── */
+.callout[data-callout="frames-ref"] .callout-content > ul > li,
+.callout[data-callout="frames-ref"] .callout-content > ol > li {
+  transition:
+    background    0.14s ease,
+    border-color  0.14s ease,
+    transform     0.15s ease;
+}
+
+.callout[data-callout="frames-ref"] .callout-content > ul > li:hover,
+.callout[data-callout="frames-ref"] .callout-content > ol > li:hover {
+  transform: translateY(-1px);
+  background: rgba(72, 108, 150, 0.11);
+  border-color: rgba(72, 108, 150, 0.22);
+}
+
+/* ─── AC. [!formula-set] 容器 + 公式卡 hover ─────────────── */
+.callout[data-callout="formula-set"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="formula-set"]:hover {
+  border-left-color: rgb(115, 65, 210);
+  box-shadow:
+    -3px 0 16px rgba(95, 45, 185, 0.26),
+    0 6px 20px rgba(95, 45, 185, 0.10);
+}
+
+.callout[data-callout="formula-set"] .callout-content > ul > li {
+  transition:
+    transform     0.16s ease,
+    box-shadow    0.16s ease,
+    border-color  0.16s ease;
+}
+
+.callout[data-callout="formula-set"] .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(95, 45, 185, 0.18);
+  border-color: rgba(95, 45, 185, 0.30);
+}
+
+/* ─── AD. [!mechanism-map] [!result-reading] [!software-impl]
+   容器 hover — 左边框发光（颜色跟随 --callout-color） ───── */
+.callout[data-callout="mechanism-map"],
+.callout[data-callout="result-reading"],
+.callout[data-callout="software-impl"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="mechanism-map"]:hover,
+.callout[data-callout="result-reading"]:hover,
+.callout[data-callout="software-impl"]:hover {
+  border-left-color: rgb(var(--callout-color));
+  box-shadow:
+    -3px 0 16px rgba(var(--callout-color), 0.24),
+    0 6px 20px rgba(var(--callout-color), 0.10);
+}
+
+/* ─── AE. [!warning] 容器 hover ─────────────────────────── */
+.callout[data-callout="warning"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="warning"]:hover {
+  border-left-color: rgb(var(--callout-color));
+  box-shadow:
+    -3px 0 14px rgba(var(--callout-color), 0.22),
+    0 4px 16px rgba(var(--callout-color), 0.09);
+}
+
 
 /* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评

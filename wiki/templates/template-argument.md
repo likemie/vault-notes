@@ -29,15 +29,6 @@ issuing_organization: ""
 
 # <% tp.file.title %>
 
-%% BEFORE USE:
-1. Read wiki/templates/TEMPLATE-SPEC.md.
-2. Read wiki/templates/CALLOUTS.md.
-3. Then use this template.
-%%
-
-%% Argument 页写某篇论文、章节、报告或政策文件的论证结构。具体字段、引用、写入和 callout 规则见 TEMPLATE-SPEC.md 与 CALLOUTS.md；正式条目不得保留这些说明注释。 %%
-
-%% TEMPLATE BODY: 生成正式条目时删除所有模板说明注释。 %%
 ---
 
 ## 研究问题
@@ -60,8 +51,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **理论名**<br>[[理论名]] | 概念的简短定义、来源或核心命题。说明它如何帮助解释问题、组织证据或推出判断。 |
-> | **理论名**<br>[[理论名]] | 概念的简短定义、来源或核心命题。说明它如何帮助解释问题、组织证据或推出判断。 |
+> | **理论名**<br>[[理论名]] | 简短定义或核心命题。说明它如何帮助解释问题、组织证据或推出判断。 |
+> | **理论名**<br>[[理论名]] | 简短定义或核心命题。说明它如何帮助解释问题、组织证据或推出判断。 |
 
 > [!warrant]- 理论如何支撑论证
 > 说明理论工具如何把研究问题、材料证据和核心主张连接起来。不要只列理论名，要写出推理桥梁。
@@ -88,8 +79,7 @@ issuing_organization: ""
 
 ## 论证结构
 
-> [!argument-map] 写法提示
-> 根据论文实际论证方式，综合运用 `[!claim]`、`[!chain-link]`、`[!warrant]`、`[!line-a]`、`[!contrast-table]`、`[!evidence-grid]`、`[!logic-map]` 等 callout。下面只是最小骨架，不要求每篇都保留同样组合。
+%% 根据论文实际论证方式，综合运用 [!claim]、[!chain-link]、[!warrant]、[!line-a]、[!contrast-table]、[!evidence-grid]、[!logic-map] 等 callout。下面只是最小骨架，不要求每篇都保留同样组合。 %%
 
 > [!logic-map] 核心论证逻辑链
 > ```mermaid
@@ -163,7 +153,7 @@ issuing_organization: ""
 > [!citation-card] 引用主题
 > 中文译文。（p.X）
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 
