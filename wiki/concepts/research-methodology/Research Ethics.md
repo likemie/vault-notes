@@ -16,6 +16,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -113,7 +114,7 @@ updated: 2026-06-18
 > | **数据收集阶段**（Collecting data） | 尊重研究场所、减少干扰 | 建立信任，与参与者讨论预期干扰程度 |
 > | | 确保所有参与者获得同等对待 | 为控制组设立等候名单条款以使其获得处理 |
 > | | 与利益相关者和社区伙伴合作招募 | 招募以支持特殊群体的代表性、获取多元网络 |
-> | | 避免欺骗参与者 | 讨论研究目的和数据用途 |
+> | | 避免欺骗参与者 | 讨论[[Research Purpose\|研究目的]]和数据用途 |
 > | | 尊重权力失衡、避免剥削 | 避免诱导性提问、不透露个人意见、不披露敏感信息、将参与者作为合作者 |
 > | | 不"利用"参与者 | 为参与提供奖励 |
 > | | 避免收集对参与者有害的信息 | 严格遵循[[Interview Protocol\|访谈协议]]中的问题 |

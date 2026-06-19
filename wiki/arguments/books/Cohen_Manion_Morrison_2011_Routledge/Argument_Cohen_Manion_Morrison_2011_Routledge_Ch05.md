@@ -19,19 +19,20 @@ tags:
   - source/textbook
   - topic/ethics
 related_concepts:
-  - "[[Informed Consent]]"
-  - "[[Access and Acceptance in Research]]"
-  - "[[Covert Research]]"
-  - "[[Institutional Review Board]]"
   - "[[Emergence]]"
+  - "[[Covert Research]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Research Ethics]]"
   - "[[Epistemology]]"
+  - "[[Informed Consent]]"
   - "[[Purpose Statement]]"
   - "[[Gatekeepers]]"
-  - "[[Confidentiality in Research]]"
+  - "[[Confidentiality]]"
+  - "[[Access and Acceptance in Research]]"
+  - "[[Research Purpose]]"
   - "[[Research Topic]]"
   - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Institutional Review Board]]"
   - "[[Rich and Thick Description]]"
   - "[[Betrayal in Research]]"
   - "[[Ethics Debriefing]]"
@@ -45,7 +46,7 @@ related_concepts:
 related_theories:
   - "[[Situated Ethics]]"
   - "[[Seedhouse's Ethical Pyramid]]"
-  - "[[Absolutist and Relativist Ethics in Research]]"
+  - "[[Absolutist and Relativist Ethics]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Observational and Correlational Research]]"
@@ -406,7 +407,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > [!info] Box 5.4：为学校研究项目提供的条件与保证
 >
 > 1. 所有参与者必须有机会保持匿名（All participants must be given the chance to remain anonymous）
-> 2. 所有数据必须被严格保密（All data must be given strict [[Confidentiality in Research|Confidentiality]]）
+> 2. 所有数据必须被严格保密（All data must be given strict [[Confidentiality]]）
 > 3. 受访者应有机会在报告起草阶段核实陈述——受访者验证（[[Member Checking|respondent validation]]）
 > 4. 参与者应获得最终报告副本
 > 5. 出版许可必须从参与者处获得
@@ -432,7 +433,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > **6. 告知参与者所提供信息的用途** —— 只有你和考官看？给校长、LEA 看？
 >
-> **7. 准备一份意图和条件的书面大纲交给参与者** —— 即使你解释了研究目的、条件和保证，参与者可能会忘记。
+> **7. 准备一份意图和条件的书面大纲交给参与者** —— 即使你解释了[[Research Purpose|研究目的]]、条件和保证，参与者可能会忘记。
 >
 > **8. 对研究目的和研究条件诚实** —— 如果说访谈持续十分钟，结果持续了一小时，你就失信了。如果研究是学位或文凭课程的一部分，如实说明。
 >
@@ -558,7 +559,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 
 ---
 
-#### 5.5.2 [[Absolutist and Relativist Ethics in Research|绝对主义与相对主义伦理]]
+#### 5.5.2 绝对主义与相对主义伦理
 
 > [!tension] 第二重张力：绝对主义 vs 相对主义
 > （pp.92–93）：
@@ -568,7 +569,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > | **绝对主义** | 清晰、固定的原则应指导研究者工作，决定什么应当做和什么不应当做 | "原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），道义论模型。研究受普遍准则如正义、诚实和尊重管辖（见 Box 5.6） | Stanford Prison Experiment（第26章）：绝对主义立场意味着实验根本不应该发生，或应在第六天之前被终止，因为参与者遭受了相当大的痛苦 |
 > | **相对主义** | 不可能有绝对指导方针，情境决定行为。尊重研究发生的文化、族裔、社会经济背景（Oliver, 2003, p. 53） | "后果的功利主义伦理"，伦理研究根据其后果判断 | 情境伦理（Simons & Usher, 2000）：总体指南在面对非常具体的情境时可能提供很少帮助 |
 >
-> Zimbardo (1984) 指出绝对主义伦理立场（诱导任何人类痛苦都是不正当的）将终结大量心理学或医学研究——**无论其对社会的可能收益如何**。
+> Zimbardo (1984) 指出[[Absolutist and Relativist Ethics|绝对主义伦理]]立场（诱导任何人类痛苦都是不正当的）将终结大量心理学或医学研究——**无论其对社会的可能收益如何**。
 
 > [!info] Box 5.6：社会研究中的绝对伦理原则
 > 伦理体现基于一套明确或隐含原则的个体和社区行为守则，可以是抽象和非个人的，也可以是具体和个人的。伦理可以是"绝对的"和"相对的"。当行为受绝对伦理标准指导时，一个更高阶的道德原则被援引，该原则不随手中情境而变化。这种绝对主义伦理不允许目的正当化手段的任何自由度，也不允许任何有益的或积极的结果来正当化原则被暂停、修改或稀释的场合——即没有任何特殊或可以减轻的情况可以被视为证成偏离或修改伦理标准。

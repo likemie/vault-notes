@@ -4807,6 +4807,17 @@
     ]
   },
   {
+    "title": "Fitness for Purpose",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Fitness for Purpose.md",
+    "aliases": [
+      "目的适配性",
+      "适合目的",
+      "fitness-for-purpose",
+      "methodological fit"
+    ]
+  },
+  {
     "title": "Forest Plot",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Forest Plot.md",
@@ -5486,12 +5497,36 @@
     ]
   },
   {
+    "title": "Research Practicability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Practicability.md",
+    "aliases": [
+      "研究可操作性",
+      "研究可行性",
+      "research feasibility",
+      "practicability of research",
+      "practical constraints in research"
+    ]
+  },
+  {
     "title": "Research Problem",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Problem.md",
     "aliases": [
       "研究议题",
       "research problems"
+    ]
+  },
+  {
+    "title": "Research Purpose",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Purpose.md",
+    "aliases": [
+      "研究目的",
+      "研究用途",
+      "research purposes",
+      "purpose of the research",
+      "research deliverables"
     ]
   },
   {
@@ -12158,6 +12193,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

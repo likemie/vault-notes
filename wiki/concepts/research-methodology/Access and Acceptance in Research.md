@@ -14,7 +14,9 @@ tags:
   - theme/research-procedure
 related_concepts:
   - "[[Informed Consent]]"
+  - "[[Research Practicability]]"
   - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
@@ -23,10 +25,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-19
 ---
 
 # Access and Acceptance in Research
@@ -43,7 +46,20 @@ updated: 2026-06-18
 
 ---
 
-## 核心要素
+## 准入的可操作性评估
+
+> [!warning] 准入是[[Research Practicability|研究可操作性]]的第一道关口
+> 获得人员和机构的准入是任何实证研究者最困难的任务之一，尤其当研究具有任何敏感性时。研究者"想做什么"和"实际上能做什么"之间往往存在显著鸿沟。准入问题可能阻止研究启动，也可能扭曲或改变研究的原始计划。在制定详细研究计划之前，研究者应先接触潜在研究场所，了解准入的可能性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+
+> [!example] 准入失败与准入极限案例
+> **逃学研究的准入失败**：一位硕士生想研究逃学问题——获得了校长许可，在研究开始当天到校，却发现逃学学生已经逃学了，根本不在场（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+>
+> **敏感议题的准入极限**：想研究小学儿童虐待的研究者——最后可能同意或甚至被识别和找到的人，可能是施虐者或被虐待儿童；即使找到了，他们为什么同意让陌生人访谈？想研究教师对医院HIV阳性儿童工作反应的研究者——这些教师在一天工作结束时可能已受创伤或情感耗尽，最不想做的就是与陌生研究者继续谈论（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+
+> [!tip] "准入什么"的关键追问
+> 准入不仅是一个"是否准入"的问题，更是"准入什么"的问题。获得校长对学校研究的许可用处不大，如果没有咨询教师或教师完全不合作（这涉及[[Informed Consent|知情同意]]问题，见第5章）。研究者在开始制定完整工作计划之前，必须先检查实际情况——因为如果无法获得有用的准入，计划可能毫无意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+
+---
 
 > [!feature] 准入的层级与阶段
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 84–88]]）：
@@ -98,7 +114,7 @@ updated: 2026-06-18
 > 5. **决定参与者是否收到报告副本和/或查阅草稿或访谈转录**——有成本和时间影响，在做出承诺前仔细考虑
 > 6. **告知参与者所提供信息的用途**——只有你和考官看？给校长、LEA 看？
 > 7. **准备一份意图和条件的书面大纲交给参与者**——即使你解释了[[Purpose Statement|研究目的]]、条件和保证，参与者可能会忘记
-> 8. **对研究目的和研究条件诚实**——如果说访谈持续十分钟，结果持续了一小时，你就失信了
+> 8. **对[[Research Purpose|研究目的]]和研究条件诚实**——如果说访谈持续十分钟，结果持续了一小时，你就失信了
 > 9. **记住同意协助的人是帮你的忙**——确保按时完好归还文件和书籍；无论多忙都应发感谢信
 > 10. **永远不要假设"会没事的"**——准入谈判是研究中的重要阶段；如果你是内部研究者，你必须与自己的错误共存
 

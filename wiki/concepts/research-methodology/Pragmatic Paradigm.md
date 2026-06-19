@@ -16,6 +16,7 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Fitness for Purpose]]"
   - "[[Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Constructivist Paradigm]]"
@@ -52,7 +53,7 @@ updated: 2026-06-14
 > [!finding-cards]
 > - **真理的多元性** 真理和实在可能同时存在单一版本和多重版本（both singular and multiple versions of the truth and reality），有时主观有时客观，有时科学有时人文
 > - **效用优先** 以效用（utility）、实践后果和结果以及启发法（heurism）优先于对"实在"最准确再现的单一追求——是一种实事求是的态度，以解决实际世界中的实际问题为导向
-> - **适合目的** 采用方法论上折中主义、多元主义的取向（a methodologically eclectic, pluralist approach），基于适合目的（fitness for purpose）和适用性（applicability）的标准（Johnson and Onwuegbuzie, 2004）
+> - **[[Fitness for Purpose|适合目的]]** 采用方法论上折中主义、多元主义的取向（a methodologically eclectic, pluralist approach），基于适合目的（fitness for purpose）和适用性（applicability）的标准（Johnson and Onwuegbuzie, 2004）
 > - **[[Research Question|研究问题]]驱动** 不参与量化或质性的自我沉溺式辩论——直接判断研究是否帮助研究者发现了想了解的东西，无论数据和方法论是量化的还是质性的（Feilzer, 2010: 14）
 
 ### 补充原则

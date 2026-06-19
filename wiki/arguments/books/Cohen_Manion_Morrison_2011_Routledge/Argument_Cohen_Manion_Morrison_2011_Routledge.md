@@ -39,7 +39,11 @@ related_concepts:
   - "[[Privacy in Research]]"
   - "[[Covert Research]]"
   - "[[Institutional Review Board]]"
+  - "[[Research Purpose]]"
+  - "[[Fitness for Purpose]]"
+  - "[[Research Practicability]]"
   - "[[Research Question]]"
+  - "[[Literature Review]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -64,12 +68,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-06-18
+updated: 2026-06-19
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -87,7 +92,7 @@ updated: 2026-06-18
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|第4章 The search for causation]] | 系统介绍教育研究中因果推断的关键议题：原因与条件、概率因果性、反事实推理、因果过度决定、筛选隔离、因果方向与因果网络、行动叙事与罗生门效应，以及研究原因之效果和研究效果之原因两种策略。 | [[Causality]]、[[Probabilistic Causation]]、[[Counterfactual]]、[[Screening Off]]、[[Causal Over-determination]] |
 > | **Part 2 教育研究的规划** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|第5章 The ethics of educational and social research]] | 系统介绍教育与社会研究中的核心伦理议题：成本/收益比、知情同意四要素、研究准入与接纳、隐私/匿名/保密、欺骗与隐蔽研究、电子与评估研究伦理、伦理守则与审查委员会（含Hammersley批评），以及研究者对参与者、资助方和研究共同体的多层次责任。 | [[Informed Consent]]、[[Research Ethics]]、[[Privacy in Research]]、[[Covert Research]]、[[Institutional Review Board]] |
-> | 第7章 Choosing a research project | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|第6章 Choosing a research project]] | 系统拆解选择研究课题时的关键决策点：研究选题的二十余种来源、研究重要性的评估（原创性≠贡献，四个维度）、研究目的与方法的适配性原则（"让尾巴摇狗"的反面论证）、研究可操作性的六个约束维度、研究问题的类型谱系与质性研究无RQ的讨论，以及文献综述的七项目的与规模考量，最后以36条操作清单收束。 | [[Research Purpose]]、[[Fitness for Purpose]]、[[Research Practicability]]、[[Research Question]]、[[Literature Review]] |
 > | 第8章 [[Research Question\|research questions]] | | |
 > | 第9章 Research design and planning | | |
 > | 第10章 Sampling | | |

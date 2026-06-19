@@ -50,6 +50,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
+  - "[[Fitness for Purpose]]"
   - "[[Research Question]]"
   - "[[Data Transformation]]"
   - "[[Purpose Statement]]"
@@ -532,7 +533,7 @@ Woods (1983: 15–16)进一步总结了互动论的核心焦点：个体作为�
 > - 真理和实在可能同时存在**单一版本和多重版本**，有时主观有时客观，有时科学有时人文
 > - 以**效用**(utility)、实践后果和结果优先于对"实在"最准确再现的单一追求
 > - 不参与量化或质性的自我沉溺式辩论，直接判断研究是否帮助研究者发现了想了解的东西——无论数据和方法论是量化的还是质性的(Feilzer, 2010: 14)
-> - 采用方法论上**折中主义、多元主义**的取向，基于"**适合目的**"(fitness for purpose)和"**适用性**"(applicability)
+> - 采用方法论上**折中主义、多元主义**的取向，基于"**[[Fitness for Purpose|适合目的]]**"(fitness for purpose)和"**适用性**"(applicability)
 > - **不是"怎么都行"**——有自己的严格标准：研究必须回答[[Research Question|研究问题]]并"交付"有用的答案(Denscombe, 2008)
 
 Denscombe (2008)还从库恩的范式论出发，主张将混合方法范式定义为一个新的"**实践共同体**"(community of practice)，由采纳混合方法原则的志同道合的研究者组成。

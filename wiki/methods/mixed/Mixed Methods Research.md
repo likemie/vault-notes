@@ -18,6 +18,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Pragmatism in China]]"
+  - "[[Fitness for Purpose]]"
   - "[[Postpositivism]]"
   - "[[Data Transformation]]"
   - "[[Variable]]"
@@ -129,7 +130,7 @@ updated: 2026-06-14
 > [!finding-cards]
 > - **真理的多元性** 真理和实在可能同时存在单一版本和多重版本，有时主观有时客观
 > - **效用优先** 以效用（utility）、实践后果和启发法（heurism）优先于对"实在"最准确再现的单一追求
-> - **适合目的** 方法论上折中主义、多元主义，基于适合目的（fitness for purpose）和适用性（applicability, Johnson and Onwuegbuzie, 2004）
+> - **[[Fitness for Purpose|适合目的]]** 方法论上折中主义、多元主义，基于适合目的（fitness for purpose）和适用性（applicability, Johnson and Onwuegbuzie, 2004）
 > - **不是"怎么都行"** 有自己的严格标准：研究必须回答[[Research Question|研究问题]]并交付有用的答案（Denscombe, 2008）
 > - **实践共同体** Denscombe（2008）从库恩[[Paradigm|范式]]论出发，将混合方法定义为一个新的"实践共同体"（community of practice）
 
