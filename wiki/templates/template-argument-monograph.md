@@ -29,14 +29,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-%% BEFORE USE:
-1. Read wiki/templates/TEMPLATE-SPEC.md.
-2. Read wiki/templates/CALLOUTS.md.
-3. Then use this template.
-%%
-
-%% Monograph Argument 是整本专著的论证入口。它可以作为 single-argument 的累积页，也可以作为 chapter-arguments 的全书 overview；正式条目必须删除所有模板说明注释。 %%
-
 ---
 
 ## 全书定位
@@ -62,7 +54,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!citation-card]- 核心表述
 > 中文译文或中文原文。（第X章，p.X）
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 
@@ -136,10 +128,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 关键引用
 
-> [!citation-card] 关键引用
+> [!citation-card]- 关键引用
 > 中文译文或中文原文。（第X章，p.X）
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 

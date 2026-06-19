@@ -29,14 +29,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-%% BEFORE USE:
-1. Read wiki/templates/TEMPLATE-SPEC.md.
-2. Read wiki/templates/CALLOUTS.md.
-3. Then use this template.
-%%
-
-%% Edited volume overview 是论文集或编著的结构入口，不是主要可引用单元。它记录编者问题意识、全书组织逻辑、跨章主题线索和章节处理路线；可引用论证优先写入各章 Argument。正式条目必须删除所有模板说明注释。 %%
-
 ---
 
 ## 编著定位
@@ -62,7 +54,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!citation-card]- 编者关键表述
 > 中文译文或中文原文。（p.X）
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 
@@ -74,15 +66,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **Part III / Ch. X-Y — 部分标题**：说明该部分如何收束、扩展或提出实践含义。（p.X）
 
 > [!volume-map]- 结构图
-> ```mermaid
-> flowchart LR
->   A["编者问题"] --> B["Part I"]
->   B --> C["Part II"]
->   C --> D["Part III"]
->   D --> E["整体贡献"]
-> ```
+> ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_Structure_Map.jpg)
 
-%% 结构图只显示全书组织逻辑，不替代各章概览。Mermaid 节点保持短句。 %%
+%% 结构图只显示全书组织逻辑，不替代各章概览。无扫描图时可改用 Mermaid flowchart。 %%
 
 ---
 
