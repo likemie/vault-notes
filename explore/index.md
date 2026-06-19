@@ -74,4 +74,8 @@ title: 探索
 ## 也可以直接看索引
 
 - [概念索引](../bases/concepts.md)
-- [枢纽概念](../bases/concepts.md)
+- [理论索引](../bases/theories.md)
+- [方法索引](../bases/methods.md)
+- [人物索引](../bases/persons.md)
+- [事实索引](../bases/facts.md)
+- [论证索引](../bases/arguments.md)
