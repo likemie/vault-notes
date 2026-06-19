@@ -124,11 +124,22 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 实证发现
+## 实证数据
+
+%% 三类数据分开记录：一级研究效应量（effect-table）、元分析汇总（ma-table）、其他零散发现或应用案例（evidence-grid-a）。没有量化数据时可只用 evidence-grid-a。 %%
+
+> [!effect-table]- 一级研究效应量
+> | 研究 | 干预 | 结果变量 | n_t | n_c | d | SE | 设计 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | 干预说明 | 结果变量 | — | — | — | — | RCT |
+
+> [!ma-table]- 元分析汇总
+> | 元分析 | k | N | ES | 95% CI | I² | GRADE |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | — | — | — | — | — | — |
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念。
-> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明关键发现或适用条件。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念，或说明应用案例与迁移条件。
 
 ---
 
@@ -144,10 +155,3 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!warning] 方法论批评与适用局限
 > - 批评描述，说明批评对象和立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
----
-
-## 应用案例
-
-> [!case] 应用案例索引
-> - [[案例或研究]] — 一句话说明该案例如何体现或应用这一概念。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - [[案例或研究]] — 一句话说明可迁移条件或使用边界。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
