@@ -7,6 +7,11 @@ aliases:
   - culture-level model
 summary: "由文化历史过程形成的共享概念框架，塑造成员对思想、情感和行为的解释、预测与理解"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 3
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
 - theory/anthropology
 - theory/cultural-psychology

@@ -4,6 +4,11 @@ aliases:
   - 折射框架
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 11
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - refraction-framework
   - inequality

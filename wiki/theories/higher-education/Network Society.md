@@ -4,6 +4,11 @@ aliases:
   - 网络社会
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - network-society
 - castells

@@ -6,6 +6,11 @@ aliases:
   - 认知发展阶段理论
 summary: "皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段"
 type: theory
+theory_field: "learning-science-cognitive-science"
+theory_related_count: 22
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/cognitive-development
   - paradigm/constructivism

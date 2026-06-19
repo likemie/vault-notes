@@ -5,6 +5,11 @@ aliases:
   - 系统理论
 summary: "社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - luhmann
 - paradigm/systems-theory

@@ -5,6 +5,11 @@ aliases:
   - 三阶段知识框架
 summary: "RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用"
 type: theory
+theory_field: "research-methodology"
+theory_related_count: 13
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - rct
 - causal-inference

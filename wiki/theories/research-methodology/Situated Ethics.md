@@ -6,6 +6,11 @@ aliases:
   - "situated ethical practice"
 summary: "一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境"
 type: theory
+theory_field: "research-methodology"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/research-ethics
   - paradigm/interpretive

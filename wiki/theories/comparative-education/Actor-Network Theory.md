@@ -7,6 +7,11 @@ aliases:
   - 多行动者分析
 summary: Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构
 type: theory
+theory_field: "comparative-education"
+theory_related_count: 12
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/social-theory
   - method/ethnography

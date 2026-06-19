@@ -8,6 +8,11 @@ aliases:
   - "scientific research quadrants"
 summary: "Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 4
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/innovation-policy
   - theme/research-policy

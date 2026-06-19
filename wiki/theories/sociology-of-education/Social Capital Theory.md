@@ -5,6 +5,11 @@ aliases:
   - "social capital"
 summary: "以 Bourdieu、Coleman 和 Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 4
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theme/social-capital
   - theme/trust

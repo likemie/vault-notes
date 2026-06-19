@@ -2,6 +2,8 @@
 title: 理论索引
 ---
 
+从这里进入理论谱系：先看连接最密的理论枢纽，再按研究领域分流。星级与连接数由 `scripts/vault_index.py` 自动刷新。
+
 ```base
 filters:
   and:
@@ -10,43 +12,83 @@ filters:
 
 properties:
   file.name:
-    displayName: Theory
-  file.folder:
-    displayName: Field
+    displayName: 理论
+  summary:
+    displayName: 摘要
+  theory_field:
+    displayName: 领域
+  theory_related_stars:
+    displayName: 亮度
+  theory_related_count:
+    displayName: 连接
+  theory_related_color:
+    displayName: 色带
   tags:
-    displayName: Tags
+    displayName: 标签
   updated:
-    displayName: Updated
+    displayName: 更新
 
 views:
-  - type: table
-    name: Theories
+  - type: cards
+    name: 理论谱系
+    image: theory_related_color
     order:
       - file.name
-      - file.folder
-      - tags
-      - updated
+      - summary
+      - theory_field
+      - theory_related_stars
+      - theory_related_count
     sort:
+      - property: theory_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: cards
-    name: Cards
+    name: 理论枢纽
+    image: theory_related_color
+    filters:
+      and:
+        - 'theory_related_count >= 20'
     order:
       - file.name
-      - file.folder
+      - summary
+      - theory_field
+      - theory_related_stars
+      - theory_related_count
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 完整清单
+    order:
+      - file.name
+      - summary
+      - theory_field
+      - theory_related_stars
+      - theory_related_count
+      - tags
       - updated
     sort:
+      - property: theory_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: table
-    name: By Field
+    name: 按领域分组
     groupBy:
-      property: file.folder
+      property: theory_field
       direction: ASC
     order:
       - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
       - tags
       - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
 ```

@@ -5,6 +5,11 @@ aliases:
   - Walberg九因素模型
 summary: "Herbert Walberg 提出的九因素教育生产力理论，试图通过量化合成识别影响学生学业成就和态度的关键因素，是教育研究中最早被大规模元综合检验的理论框架"
 type: theory
+theory_field: "learning-science-cognitive-science"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - walberg
 - educational-productivity

@@ -8,6 +8,11 @@ aliases:
   - DiMaggio and Powell isomorphism
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论"
 type: theory
+theory_field: "comparative-education"
+theory_related_count: 14
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - paradigm/interpretivist
   - subject/comparative-education

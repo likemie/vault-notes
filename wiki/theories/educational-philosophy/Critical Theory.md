@@ -4,6 +4,11 @@ aliases:
   - 批判理论
 summary: "以哈贝马斯认识兴趣三分法为核心的社会理论范式，旨在通过意识形态批判和变革实践解放被压迫群体，推动社会民主与平等。"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 17
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/critical
   - paradigm/critical

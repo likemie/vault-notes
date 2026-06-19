@@ -7,6 +7,11 @@ aliases:
   - "Triple Helix model"
 summary: "Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - "theory/triple-helix"
   - "theme/university-industry-collaboration"

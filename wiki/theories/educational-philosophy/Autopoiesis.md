@@ -4,6 +4,11 @@ aliases:
   - 自创生
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - autopoiesis
 - living-systems-theory

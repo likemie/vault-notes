@@ -7,6 +7,11 @@ aliases:
   - "国际产学合作三因素框架"
 summary: "Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 4
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/university-industry-collaboration
   - theme/university-industry-collaboration

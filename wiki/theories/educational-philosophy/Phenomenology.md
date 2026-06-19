@@ -3,6 +3,11 @@ title: Phenomenology
 aliases: [现象学]
 summary: "以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 19
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags: [phenomenology, philosophy-of-education, paradigm/interpretivist]
 related_concepts:
   - "[[Interpretive Paradigm]]"

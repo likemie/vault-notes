@@ -4,6 +4,11 @@ aliases:
   - 双重精英生涯路径
 summary: "解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - dual-elite-career-paths
 - social-stratification

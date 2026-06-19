@@ -5,6 +5,11 @@ aliases:
   - 文化维度理论
 summary: "国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响"
 type: theory
+theory_field: "comparative-education"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - culture
 - national-culture

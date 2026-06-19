@@ -6,6 +6,11 @@ aliases:
   - 合法化理论
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
+theory_field: "communication-discourse"
+theory_related_count: 13
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - legitimation-theory
 - van-leeuwen

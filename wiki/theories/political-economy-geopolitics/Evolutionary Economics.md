@@ -6,6 +6,11 @@ aliases:
   - "新熊彼特经济学"
 summary: "以 Nelson 和 Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 7
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
   - theme/innovation
   - theme/industrial-economics

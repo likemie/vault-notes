@@ -5,6 +5,11 @@ aliases:
   - Theory of Coupling Coordination
 summary: "源于系统论的多系统协同发展理论，认为若干子系统之间通过相互作用形成耦合关系，系统整体发展水平取决于耦合强度和各自发展水平的协调程度"
 type: theory
+theory_field: "education-economics"
+theory_related_count: 11
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/systems-theory
   - theme/education-economics

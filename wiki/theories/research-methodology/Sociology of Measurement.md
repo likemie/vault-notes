@@ -4,6 +4,11 @@ aliases:
   - 测量社会学
 summary: "将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。"
 type: theory
+theory_field: "research-methodology"
+theory_related_count: 11
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - sociology-of-measurement
 - measurement

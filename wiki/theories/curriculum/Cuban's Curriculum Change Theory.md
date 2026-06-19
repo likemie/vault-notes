@@ -4,6 +4,11 @@ aliases:
   - 库班课程变革理论
 summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组"
 type: theory
+theory_field: "curriculum"
+theory_related_count: 12
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - cuban
 - curriculum-change

@@ -4,6 +4,11 @@ aliases:
   - 转型设计
 summary: "把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 12
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - transition-design
 - design

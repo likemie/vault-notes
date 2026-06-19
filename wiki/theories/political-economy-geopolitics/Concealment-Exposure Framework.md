@@ -6,6 +6,11 @@ aliases:
   - Nagel concealment-exposure
 summary: "用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 5
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
 - geopolitics-of-knowledge
 - knowledge-transfer

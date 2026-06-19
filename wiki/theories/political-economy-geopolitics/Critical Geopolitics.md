@@ -5,6 +5,11 @@ aliases:
   - 批判地缘政治
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 26
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
 - critical-geopolitics
 - geopolitics-of-knowledge

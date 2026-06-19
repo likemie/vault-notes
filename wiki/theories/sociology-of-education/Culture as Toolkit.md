@@ -5,6 +5,11 @@ aliases:
   - Swidler 工具箱理论
 summary: "把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 19
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - culture-as-toolkit
   - cultural-sociology

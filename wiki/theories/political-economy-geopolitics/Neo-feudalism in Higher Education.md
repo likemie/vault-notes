@@ -7,6 +7,11 @@ aliases:
   - 学术新封建主义
 summary: "Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - neo-feudalism
   - higher-education

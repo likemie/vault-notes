@@ -7,6 +7,11 @@ aliases:
   - 国际关系理论
 summary: "Martin Wight 将国际关系思想归纳为现实主义（Machiavelli）、理性主义（Grotius）和革命主义（Kant）三大传统，分别以权力、权威和武力为核心概念，为理解国际社会的不同形态提供了分析框架"
 type: theory
+theory_field: "comparative-education"
+theory_related_count: 4
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/international-relations
   - subject/comparative-education

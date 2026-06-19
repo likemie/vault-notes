@@ -7,6 +7,11 @@ aliases:
   - "Lester local innovation typology"
 summary: "Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/innovation
   - theme/university-industry-collaboration

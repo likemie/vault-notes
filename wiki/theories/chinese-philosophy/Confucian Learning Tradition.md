@@ -6,6 +6,11 @@ aliases:
   - East Asian learning tradition
 summary: "东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题"
 type: theory
+theory_field: "chinese-philosophy"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - region/east-asia
 - region/china

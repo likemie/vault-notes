@@ -5,6 +5,11 @@ aliases:
   - CPE
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 13
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - cultural-political-economy
 - political-economy

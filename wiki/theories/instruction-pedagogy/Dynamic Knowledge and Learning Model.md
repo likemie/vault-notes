@@ -4,6 +4,11 @@ aliases:
   - 动态知识与学习模型
 summary: "用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。"
 type: theory
+theory_field: "instruction-pedagogy"
+theory_related_count: 19
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - learning-theory
 - knowledge

@@ -6,6 +6,11 @@ aliases:
   - 执行功能统一-多样性框架
 summary: "Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹"
 type: theory
+theory_field: "learning-science-cognitive-science"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - miyake
 - executive-function

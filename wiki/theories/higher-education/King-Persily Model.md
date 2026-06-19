@@ -6,6 +6,11 @@ aliases:
   - King-Persily 模型
 summary: "King 与 Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick 与 Jones（2025）讨论了其在生物医学创新中的适用性"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 7
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
   - "theory/data-governance"
   - "theme/university-industry-collaboration"

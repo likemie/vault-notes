@@ -7,6 +7,11 @@ aliases:
   - centre-periphery in comparative education
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心和边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因，代表人物包括 Carnoy、Altbach、Arnove 和 Watson"
 type: theory
+theory_field: "comparative-education"
+theory_related_count: 5
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
   - theory/dependency
   - subject/comparative-education

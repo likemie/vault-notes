@@ -5,6 +5,11 @@ aliases:
   - 新皮亚杰理论
 summary: "修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论"
 type: theory
+theory_field: "learning-science-cognitive-science"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - neo-piagetian
 - cognitive-development

@@ -7,6 +7,11 @@ aliases:
   - "Seedhouse金字塔"
 summary: "Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置"
 type: theory
+theory_field: "research-methodology"
+theory_related_count: 5
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
   - theory/research-ethics
   - theory/framework

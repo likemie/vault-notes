@@ -3,6 +3,11 @@ title: Complexity Theory
 aliases: [复杂性理论, complexity science, complex adaptive systems, 复杂适应系统]
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念。"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags: [theory/complexity, paradigm/complexity, theme/research-philosophy]
 related_concepts:
   - "[[Paradigm]]"

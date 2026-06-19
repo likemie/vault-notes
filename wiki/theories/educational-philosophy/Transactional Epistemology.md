@@ -4,6 +4,11 @@ aliases:
   - 交互认识论
 summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - transactional-epistemology
 - dewey

@@ -7,6 +7,11 @@ aliases:
   - "空间的产生"
 summary: "Henri Lefebvre（1991）提出的空间分析框架，将空间分为感知空间（空间实践）、构想空间（空间表征）和活生生空间（表征性空间）三个辩证互动的维度，为理解大学教师如何在区域空间中桥接产学政网络提供了分析工具"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 4
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theme/spatial-theory
   - theme/higher-education

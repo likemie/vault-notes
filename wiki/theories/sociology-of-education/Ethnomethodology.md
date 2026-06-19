@@ -3,6 +3,11 @@ title: Ethnomethodology
 aliases: [俗民方法学, ethnomethodological]
 summary: "加芬克尔创立的社会学研究取向，将日常生活中最普通的活动作为经验研究对象，关注人们如何运用共享的隐性知识使社会互动变得可理解和可说明。"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 3
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags: [theory/sociological, paradigm/interpretive, theme/micro-sociology]
 related_concepts:
   - "[[Indexicality]]"

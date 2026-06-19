@@ -4,6 +4,11 @@ aliases:
   - 批判实在论
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 0
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
 - critical-realism
 - bhaskar

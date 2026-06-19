@@ -5,6 +5,11 @@ aliases:
   - center-periphery model
 summary: "把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系"
 type: theory
+theory_field: "comparative-education"
+theory_related_count: 5
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
 - region/global
 - theme/geopolitics

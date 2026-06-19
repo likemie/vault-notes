@@ -4,6 +4,11 @@ aliases:
   - 潜在结果框架
 summary: "因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。"
 type: theory
+theory_field: "research-methodology"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - potential-outcomes-framework
 - causal-inference

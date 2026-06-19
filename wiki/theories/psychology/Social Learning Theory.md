@@ -6,6 +6,11 @@ aliases:
   - Rotter's social learning theory
 summary: "Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用"
 type: theory
+theory_field: "psychology"
+theory_related_count: 7
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
   - theory/psychology
   - theory/learning

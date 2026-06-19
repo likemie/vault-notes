@@ -5,6 +5,11 @@ aliases:
   - 知识辨识理论
 summary: "知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性"
 type: theory
+theory_field: "educational-philosophy"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - goldman
 - discrimination-theory

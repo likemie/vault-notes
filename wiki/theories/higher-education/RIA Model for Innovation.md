@@ -5,6 +5,11 @@ aliases:
   - Schlegel-UW RIA 创新模型
 summary: "Schlegel-UW 老龄化研究所提出的四阶段创新模型，包括知识生成、孵化、加速和动员，描述研究型产学合作从基础研究到社会影响的完整链条"
 type: theory
+theory_field: "higher-education"
+theory_related_count: 6
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags: ["theme/university-industry-collaboration", "theme/innovation", "theme/knowledge-mobilisation", "region/canada"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

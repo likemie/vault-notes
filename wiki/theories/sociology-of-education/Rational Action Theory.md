@@ -6,6 +6,11 @@ aliases:
   - rational choice theory
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 11
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - rational-action-theory
   - social-stratification

@@ -3,6 +3,11 @@ title: Informationalism
 aliases: ["信息主义", "Castells' Informationalism Theory"]
 summary: "由 Manuel Castells 提出的信息时代发展模式理论，认为信息化社会的主要生产力来源是基于知识和信息优化生产要素组合的质化能力，与依赖重工业物质投入的工业化形成对比，并论证了国家主义体制与信息化之间的深层不相容"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/informationalism
   - paradigm/information-society
