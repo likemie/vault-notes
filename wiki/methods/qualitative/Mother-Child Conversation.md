@@ -25,6 +25,7 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Question]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
@@ -220,7 +221,7 @@ Li 使用**胜算比**（odds ratio）计算某一组更可能遵循某条对话
 **[[Parental Cognitive and Affective Socialization|认知社会化]]的理论锚点**：Vygotsky 学派的**认知支架**（cognitive scaffolding）——儿童不是在真空中自主获得技能的，而是通过来自社交世界的持续引导。家庭中的照料者是儿童学习文化性认知技能的首要引导者([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 **情感社会化的理论锚点**([[Argument_Li_2012_Cambridge|Li, 2012]])：
-- Frijda 的 [[Appraisal Theory|评估理论]]（appraisal theory）：情感反应依赖于对事件的认知评估，而评估标准来自文化定义的意义和重要性。同一件事，在一个文化中被评估为"侮辱"，在另一个文化中可能被评估为"友好的表示"。
+- Frijda 的 评估理论（[[Appraisal Theory]]）：情感反应依赖于对事件的认知评估，而评估标准来自文化定义的意义和重要性。同一件事，在一个文化中被评估为"侮辱"，在另一个文化中可能被评估为"友好的表示"。
 - Gottman 的**元情感哲学**（meta-emotion philosophy）：父母持有关于"什么情感是好的、应该怎么引导"的文化信念，这些信念指导着他们对儿童情感的日常教练。
 
 ### 认知社会化的三层次分析

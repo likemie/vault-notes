@@ -61,6 +61,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Absorptive Capacity]]"
   - "[[Multi-University]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Innovation Park]]"
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"

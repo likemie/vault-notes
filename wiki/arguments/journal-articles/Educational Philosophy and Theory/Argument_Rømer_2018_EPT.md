@@ -30,7 +30,6 @@ related_concepts:
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Pure Evaluation]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-analysis]]"

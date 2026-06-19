@@ -37,6 +37,7 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Absorptive Capacity]]"
   - "[[Logic Model]]"
+  - "[[Counterfactual]]"
   - "[[Partnership Continuum]]"
   - "[[Knowledge Transfer]]"
   - "[[University Spin-Out]]"

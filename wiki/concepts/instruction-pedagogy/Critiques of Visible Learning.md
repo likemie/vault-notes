@@ -46,7 +46,7 @@ related_concepts:
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
   - "[[School Leadership]]"
@@ -68,7 +68,6 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Reflexivity]]"
 related_theories:
-  - "[[Pure Evaluation]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"
   - "[[Critical Theory]]"

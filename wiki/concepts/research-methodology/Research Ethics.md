@@ -10,6 +10,7 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
+  - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Epistemology]]"
   - "[[Institutional Review Board]]"
   - "[[Gatekeepers]]"
@@ -17,9 +18,12 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
+  - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Informed Consent]]"
+  - "[[Betrayal in Research]]"
   - "[[Academic Freedom]]"
-related_theories: []
+related_theories:
+  - "[[Situated Ethics]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Pilot Testing]]"

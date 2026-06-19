@@ -31,6 +31,7 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Rote Learning]]"
 related_theories:
   - "[[Phenomenology]]"

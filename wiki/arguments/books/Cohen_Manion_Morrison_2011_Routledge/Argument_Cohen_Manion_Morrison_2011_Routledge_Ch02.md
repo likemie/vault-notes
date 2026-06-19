@@ -22,7 +22,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Champ]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Paradigm]]"
   - "[[Transformative Paradigm]]"
   - "[[Paradigm Wars]]"

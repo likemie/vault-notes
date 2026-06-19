@@ -24,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Analytic Framework]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Champ]]"

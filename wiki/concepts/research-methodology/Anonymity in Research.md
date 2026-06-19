@@ -11,16 +11,16 @@ domain: "research-methodology"
 tags:
   - method/research-ethics
   - theme/research-governance
-related_concepts:
-  - "[[Research Ethics]]"
-  - "[[Privacy in Research]]"
-  - "[[Confidentiality in Research]]"
-  - "[[Informed Consent]]"
+related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Survey Research]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 confidence: medium
 status: draft
 created: 2026-06-18

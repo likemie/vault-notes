@@ -66,7 +66,6 @@ related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Pure Evaluation]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

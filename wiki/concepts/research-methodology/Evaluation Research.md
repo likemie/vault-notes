@@ -15,7 +15,7 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Blue Skies Research]]"
   - "[[External Validity]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Variable]]"
   - "[[Categorical Funding]]"
   - "[[Research Topic]]"

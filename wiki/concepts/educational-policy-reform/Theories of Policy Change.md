@@ -22,7 +22,8 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
   - "[[Selectivity]]"
-related_theories: []
+related_theories:
+  - "[[Realist Evaluation]]"
 related_methods: []
 related_persons: []
 related_facts:

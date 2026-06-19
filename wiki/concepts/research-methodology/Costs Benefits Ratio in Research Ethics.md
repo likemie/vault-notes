@@ -12,11 +12,9 @@ tags:
   - method/research-ethics
   - theme/research-governance
 related_concepts:
-  - "[[Research Ethics]]"
   - "[[Informed Consent]]"
-  - "[[Privacy in Research]]"
-related_theories:
-  - "[[Situated Ethics]]"
+  - "[[Research Ethics]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

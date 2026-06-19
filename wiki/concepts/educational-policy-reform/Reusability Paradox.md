@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[External Validity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []

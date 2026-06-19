@@ -11,10 +11,9 @@ domain: "research-methodology"
 tags:
   - method/research-ethics
 related_concepts:
-  - "[[Research Ethics]]"
   - "[[Confidentiality in Research]]"
-  - "[[Informed Consent]]"
-  - "[[Privacy in Research]]"
+  - "[[Knowledge Production]]"
+  - "[[Non-maleficence and Beneficence in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []

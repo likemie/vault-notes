@@ -12,11 +12,14 @@ tags:
   - method/research-ethics
   - theme/research-procedure
 related_concepts:
-  - "[[Research Ethics]]"
   - "[[Deception in Research]]"
-  - "[[Informed Consent]]"
+  - "[[Hypothesis]]"
+  - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Purpose Statement]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Peer Debriefing]]"
 related_persons: []
 related_facts: []
 related_arguments:

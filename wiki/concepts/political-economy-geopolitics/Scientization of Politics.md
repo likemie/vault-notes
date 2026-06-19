@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Otherhood]]"
   - "[[Epistemic Drift]]"
 related_theories:

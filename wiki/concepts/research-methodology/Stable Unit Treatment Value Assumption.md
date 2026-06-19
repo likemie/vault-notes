@@ -22,8 +22,8 @@ related_concepts:
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
-  - "[[Cluster Randomized Trials]]"
   - "[[Random Assignment]]"
+  - "[[Cluster Randomized Trials]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []

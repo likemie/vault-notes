@@ -21,6 +21,7 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Surface and Deep Learning]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Regulative and Instructional Discourse]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"

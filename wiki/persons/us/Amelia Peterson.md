@@ -19,6 +19,7 @@ related_methods:
   - "[[Mechanism Experiments]]"
   - "[[Improvement Science]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"

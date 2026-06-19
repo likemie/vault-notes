@@ -15,6 +15,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[Counterfactual]]"
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"

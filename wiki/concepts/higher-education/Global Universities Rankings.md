@@ -33,7 +33,7 @@ related_concepts:
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
 related_theories: []
 related_methods: []
 related_persons: []

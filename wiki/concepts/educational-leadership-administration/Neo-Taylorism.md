@@ -27,7 +27,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Scientific Method]]"
 related_theories: []
 related_methods:

@@ -19,6 +19,7 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Chi-Squared Test]]"
   - "[[Meta-analysis]]"
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []

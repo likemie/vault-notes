@@ -20,7 +20,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Return on Investment]]"
   - "[[Professional Judgment]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"

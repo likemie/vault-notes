@@ -23,6 +23,7 @@ related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
   - "[[Philosophical Analysis in Education]]"
 related_persons: []
 related_facts: []

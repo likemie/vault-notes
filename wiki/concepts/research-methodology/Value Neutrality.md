@@ -46,6 +46,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium

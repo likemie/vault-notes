@@ -33,6 +33,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
 related_theories:
+  - "[[Rational Action Theory]]"
   - "[[Neo-feudalism in Higher Education]]"
 related_methods:
   - "[[Ethnography]]"

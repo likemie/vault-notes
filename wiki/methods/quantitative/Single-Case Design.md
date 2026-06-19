@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[External Validity]]"
   - "[[Theories of Policy Change]]"
 related_theories:

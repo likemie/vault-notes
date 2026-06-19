@@ -27,6 +27,7 @@ related_concepts:
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
   - "[[Research Topic]]"
+  - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods: []
 related_persons: []

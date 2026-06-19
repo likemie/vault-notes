@@ -9,7 +9,7 @@ tags:
   - paradigm/critical
   - theme/curriculum
 related_concepts:
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Champ]]"
   - "[[Positivism]]"
 related_theories:

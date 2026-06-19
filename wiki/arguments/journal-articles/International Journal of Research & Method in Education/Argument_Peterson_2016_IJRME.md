@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
   - "[[Feedback]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:

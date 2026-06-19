@@ -19,7 +19,7 @@ tags:
   - theme/philosophy-of-science
 related_concepts:
   - "[[Incommensurability]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Positivism]]"
   - "[[Postpositivism]]"
   - "[[Reflexivity]]"

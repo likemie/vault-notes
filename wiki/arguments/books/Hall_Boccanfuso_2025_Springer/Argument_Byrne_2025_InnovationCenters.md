@@ -19,6 +19,7 @@ related_concepts:
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Internal Validity]]"
   - "[[Causality]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[External Validity]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"

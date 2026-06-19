@@ -20,10 +20,12 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Variable]]"
+  - "[[Counterfactual]]"
   - "[[Implementation Fidelity]]"
   - "[[Developer Effect]]"
 related_theories: []
 related_methods:
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:

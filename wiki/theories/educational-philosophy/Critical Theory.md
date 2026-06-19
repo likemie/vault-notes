@@ -12,7 +12,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Theoretical Perspective]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"

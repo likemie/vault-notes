@@ -28,6 +28,7 @@ related_concepts:
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
   - "[[Meta-analysis]]"

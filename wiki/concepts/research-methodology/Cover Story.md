@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Variable]]"
+  - "[[Deception in Research]]"
+  - "[[Ethics Debriefing]]"
   - "[[Blinding]]"
   - "[[Informed Consent]]"
   - "[[Institutional Review Board]]"

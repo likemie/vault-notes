@@ -18,6 +18,7 @@ related_concepts:
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Analytic Framework]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Luhmann's Systems Theory]]"

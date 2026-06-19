@@ -7,76 +7,136 @@ summary: "英国社会研究方法论学者，实在论评估与实在论综合�
 type: person
 nationality: uk
 tags:
-- ray-pawson
-- evidence-based-policy
-- realist-evaluation
-- critical-realism
-- meta-analysis
-- methodology
-- region/uk
+  - ray-pawson
+  - evidence-based-policy
+  - realist-evaluation
+  - critical-realism
+  - meta-analysis
+  - methodology
+  - region/uk
 related_concepts:
-  - "[[Hypothesis]]"
-  - "[[Effect Size]]"
+  - "[[Scientific Method]]"
   - "[[Evidence-Based Education]]"
+  - "[[Analytic Framework]]"
+  - "[[Effect Size]]"
+  - "[[Visible Learning]]"
   - "[[Sage]]"
+  - "[[Causality]]"
 related_theories:
+  - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
 related_methods:
-  - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
-related_persons: []
-related_facts: []
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Roy Bhaskar]]"
+  - "[[Terry Wrigley]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: '2026-06-19'
 ---
+
+# Ray Pawson
+
+---
+
 ## 简介
 
-> [!info] 简介
-> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
+> [!person-profile] 人物档案
+> - **身份位置**：英国利兹大学（University of Leeds）社会研究方法论教授。
+> - **为什么值得建条目**：[[Realist Evaluation|实在论评估]]（Realist Evaluation）与实在论综合（Realist Synthesis）的主要奠基人，将[[Critical Realism|批判实在论]]哲学转化为政策评估与社会研究的具体操作方法论。
+> - **代表贡献**：创立实在论评估方法体系、提出 “实在论综合” 替代传统统计[[Meta-analysis|元分析]]、系统批判 [[Randomised Controlled Trials|RCT]] 与元分析的去情境化偏误。
+> - **阅读边界**：本页主要关注其在社会[[Scientific Method|科学方法]]论领域的创新，特别是在教育政策评估、[[Evidence-Based Education|循证教育]]批判以及替代性 “背景-机制-结果” 因果合成框架的应用。
+
+---
+
+## 贡献地图
+
+> [!contribution-map] 贡献地图
+> - **方法贡献**：[[Realist Evaluation|实在论评估]]（Realist Evaluation） — 突破传统实验评估，构建 “什么对谁在何种背景下以何种方式起作用（What works for whom in what circumstances and in what respects）” 的[[Analytic Framework|分析框架]]；实在论综合（Realist Synthesis） — 以因果机制探究替代简单的[[Effect Size|效应量]]平均值计算。
+
+---
+
+## 生平与职涯
+
+> [!timeline] 生平与职涯
+> - **1997 年**：与尼克·蒂利（Nick Tilley）合作发表奠基著作 *Realistic Evaluation*，正式确立[[Realist Evaluation|实在论评估]]的学科框架。
+> - **2006 年**：发表 *Evidence-based policy: A realist perspective*，系统解构了在社会与教育政策领域套用医学 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]的不适用性。
+
+---
+
+## 主要著作与思想发展
+
+> [!work-line] 主要著作
+> - **1997 — *Realistic evaluation***：与 Nick Tilley 合作发表，是[[Realist Evaluation|实在论评估]]的宣言书，论证了社会干预的因果机制必须嵌套在具体社会背景中。
+> - **2006 — *Evidence-based policy: A realist perspective***：核心方法论著作，系统解构了 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的技术局限，并详细描绘了 “实在论综合” 的操作路线。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
+
+---
 
 ## 核心思想
 
-> [!info] 人的能动性作为社会变革的核心
-> Pawson 对 [[Randomised Controlled Trials|RCT]] 在教育和社会领域的适用性提出了一项根本性批评：药物试验试图消除人的因素（双盲），因为"人的意志被视为污染物"——但社会变革恰恰通过人的能动性实现([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])。
+> [!claim] 核心主张
+> 社会与教育干预项目绝非被动的物理 “注射” 过程，而是为行动者提供资源，其成效取决于利益相关者对这些资源的能动推理（Reasoning）。政策评估的重点绝不能是计算脱离情境的 “平均[[Effect Size|效应量]]”，而应是寻找 “背景-机制-结果”（Context-Mechanism-Outcome, CMO）的配置规则。
+
+> [!concept-lens] 思想透镜
+> - **问题意识**：如何克服循证运动将复杂社会项目简化为单一 “治疗 / 控制” 指标的倾向，还原社会变革中人的意志与结构背景。
+> - **概念工具**：能动推理、背景-机制-结果（CMO）配置、清洗过程（Purgative Process）、控制组忙碌性、医学理论先行性、实在论综合。
+> - **研究影响**：成为反思定量[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]《[[Visible Learning|可见学习]]》）的关键方法论资源，被广泛运用于批判教育政策、医疗卫生和社区治理等领域的评估改革。
+
+### 核心命题
+
+> [!axioms] 能动性作为变革的核心（Volition and Agency）
+> 波森指出，教育与社会变革是通过人的能动性实现的。医学 [[Randomised Controlled Trials|RCT]] 试图在双盲实验中将人的意志视为 “污染物” 予以清除，而在社会干预中，受试者的主动反思、情感和意志才是机制起作用的根本动力。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6-7]])
 >
-> > "Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent." (Pawson, 2006, p. 27, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])
-
-
-> [!info] [[Meta-analysis|元分析]]的系统性简化
-> Pawson 对元分析的程序进行了严厉批评——论证在元分析综述的每一阶段，解释干预如何起作用的关键特征都被系统性地消除([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])：
+> [!critique-method] 元分析的 “洗涤与净化过程”（The Purgative Process）
+> 波森强烈批评元分析在每一聚合阶段都在进行系统性简化：缩减假设、舍弃研究、过滤干预细节、抹除背景信息、提取均值、进行估算。在此净化过程中，学界所做的工作就像是将干预机制“清洗干净”一样，恰恰是解释干预如何起作用的关键特征被系统性清洗掉，使复杂的社会项目沦为一纸空洞的数字排行榜。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 >
-> > "At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made. … In this purgative progress the very features that explain how interventions work are eliminated from the reckoning. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged." (Pawson, 2006, pp. 42–43, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])
+> [!warning] 控制组的 “忙碌性” 与开放系统（Control Group Busyness）
+> 在自然科学实验室之外，社会和教育情境是无法封闭的开放系统。教育 RCT 中的控制组绝不是静止的真空，其控制班级和区域可能自身正进行着繁多、忙碌的教学自主改进，这使得以控制组为基准线计算出的效应量变得极其模糊和不可靠。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
+>
+> [!exegesis] 医学研究与教育学 RCT 的本质区别（Theory Precedence）
+> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学和生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
+>
+> [!pathways] 替代方案：实在论综合（Realist Synthesis）
+> 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校实践提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])
 
 
-> [!info] 控制组的模糊性
-> Pawson 指出教育 RCT 中控制组的根本性模糊——"这不是静止的世界。这不是真空……控制组或控制区域实际上非常忙碌"（Pawson, 2006, p. 51, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]]）。
+---
 
+## 影响路径
 
-> [!info] 开放系统不可封闭
-> Pawson 论证大多数社会情境（包括教育情境）是开放系统——超出了实验封闭和简化的能力(Pawson, 2006, p. 18; [[Argument_Biesta_2010_SPE|Biesta, 2010, p. 496, both cited in Wrigley & McCusker, 2019, p. 115]])。
+> [!influence-path] 影响路径
+> - **理论路径**：通过具体研究设计的转化，在方法论层面使[[Critical Realism|批判实在论]]在评估界落地生根。
+> - **方法路径**：[[Realist Evaluation|实在论评估]]和实在论综合已成为全球社会政策评估、医疗卫生评价的一大主流研究传统，在 [[Sage]] 等出版机构出版了大量教材。
+> - **政策路径**：为抵制去情境化的 evidence-based 绩效考核提供了替代性评估框架，深刻启发了教育研究者（如 Wrigley）对 [[Education Endowment Foundation|EEF]] 教学工具包关于教学助理（TA）类目等误导性排行的技术解构。
 
+> [!evidence-grid-a] 相关研究
+> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中 [[Randomised Controlled Trials|RCT]] 的不适用性。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用波森的实在论综合思想作为替代路线，揭示[[Meta-analysis|元分析]] “净化过程” 的危害，并以 TA 项目为例论证脱离 CMO 背景的排行榜对政策的误导。
+> - [[Argument_Biesta_2010_SPE|Biesta, 2010]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。
 
-> [!info] 医学研究的理论先行性
-> Pawson 提出关键对比：医学 RCT 建立在大量先期理论工作之上——"医学治疗是多年理论检验的体现。在第一个 III 期 RCT 设计之前，它们就已经是科学探究的化身。到这个阶段，医学科学已经相当清楚治疗如何起作用"（Pawson, 2006, p. 47, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]]）。这与教育领域 RCT 通常被期望提供干预的全部科学知识基础形成鲜明对比（Hammersley, 2015, p. 4）。
+---
 
+## 关系网络
 
-> [!info] 替代方案：实在论综合（Realist Synthesis）
-> Pawson 提出以实在论综合替代统计元分析——研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），而非计算平均[[Effect Size|效应量]]([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])。
+> [!person-network] 关系网络
+> - **师承／合作者**：[[Roy Bhaskar|罗伊·巴斯卡]] (Roy Bhaskar) — 为其奠定[[Critical Realism|批判实在论]]哲学起点；尼克·蒂利 (Nick Tilley) — 共同创立[[Realist Evaluation|实在论评估]]；[[Terry Wrigley]] — 将其评估思想与 “实在论综合” 引入教育政策批判。
 
-## 主要贡献
+---
 
-> [!success] 主要贡献
-> - [[Critical Realism]] — 将批判实在论哲学转化为社会政策评估的操作性方法论
-> - [[Evidence-Based Education]] — 为 EBE 的方法论批判提供了最系统的哲学-方法论基础
-> - **实在论评估（Realist Evaluation）** — 与 Nick Tilley 合作发展的评估方法论
+## 争议与批评
 
-## 主要著作
-
-> [!abstract] 主要著作
-> - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: [[Sage]]. — 核心批判文本，系统论述 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的不适用性([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
-> - Pawson, R., & Tilley, N. (1997). *Realistic evaluation*. London: SAGE. — 实在论评估方法论的奠基文本
+> [!tension] 争议焦点
+> - **争议对象**：实在论综合在具体操作上的高门槛与政策决策的低速配度。
+> - **批评立场**：政策制定者和定量循证研究者的批评。
+> - **证据依据**：实在论综合需要深度审阅每次干预的具体情境、利益相关者的反思理论和结构障碍，这无法像 [[Education Endowment Foundation|EEF]] 工具包那样提供一眼即得的仪表盘或平均数排行榜，在需要瞬间决策的行政体制中缺乏推广优势。
+> - **回应或余留问题**：波森强调追求简单结论的 “钝器” 会导致更严重的决策错误（如错误裁剪 TA），政策制定者必须接受社会干预[[Causality|因果关系]]的复杂性。

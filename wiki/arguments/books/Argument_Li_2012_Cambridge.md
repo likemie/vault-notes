@@ -101,7 +101,6 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
   - "[[Phenomenology]]"
-  - "[[Appraisal Theory]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
 related_methods:

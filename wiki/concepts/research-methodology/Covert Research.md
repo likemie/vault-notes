@@ -13,15 +13,13 @@ tags:
   - method/research-ethics
   - method/qualitative-research
 related_concepts:
-  - "[[Research Ethics]]"
-  - "[[Deception in Research]]"
   - "[[Informed Consent]]"
-  - "[[Privacy in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 confidence: medium
 status: draft
 created: 2026-06-18

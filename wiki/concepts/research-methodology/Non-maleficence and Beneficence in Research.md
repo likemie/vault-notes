@@ -13,11 +13,11 @@ tags:
   - method/research-ethics
 related_concepts:
   - "[[Research Ethics]]"
-  - "[[Costs Benefits Ratio in Research Ethics]]"
+  - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
-  - "[[Privacy in Research]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons: []
 related_facts: []
 related_arguments:

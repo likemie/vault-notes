@@ -22,6 +22,7 @@ related_concepts:
   - "[[Multimethod Research]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Evidence-Based Education]]"
   - "[[Descriptive Analysis]]"
   - "[[Heterogeneity]]"

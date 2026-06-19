@@ -28,6 +28,7 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[New Public Management]]"
 related_theories:
+  - "[[Rational Action Theory]]"
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Ethnography]]"

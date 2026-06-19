@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Causality]]"
+  - "[[Counterfactual]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"

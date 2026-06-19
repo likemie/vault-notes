@@ -20,6 +20,7 @@ tags:
 - theory-of-change
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Counterfactual]]"
   - "[[Technology Infusion]]"
   - "[[Implementation Fidelity]]"
   - "[[Absorptive Capacity]]"

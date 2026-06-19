@@ -19,6 +19,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Foreground IP]]"
   - "[[Research Translation]]"
+  - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods: []
 related_persons: []

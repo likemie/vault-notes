@@ -26,6 +26,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Emergence]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"

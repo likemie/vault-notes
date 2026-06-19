@@ -16,6 +16,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"

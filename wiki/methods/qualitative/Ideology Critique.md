@@ -11,7 +11,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"

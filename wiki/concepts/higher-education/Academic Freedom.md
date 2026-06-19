@@ -16,6 +16,7 @@ tags:
   - "theme/academic-culture"
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
   - "[[University Spin-Out]]"

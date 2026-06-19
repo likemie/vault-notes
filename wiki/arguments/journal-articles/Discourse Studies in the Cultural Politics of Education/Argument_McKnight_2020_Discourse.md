@@ -26,7 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Effect Size]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

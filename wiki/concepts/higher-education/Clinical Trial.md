@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Evaluation Research]]"
   - "[[Blinding]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Medical Center]]"
   - "[[Translational Research]]"

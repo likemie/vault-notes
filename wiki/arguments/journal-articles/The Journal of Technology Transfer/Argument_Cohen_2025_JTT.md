@@ -29,6 +29,7 @@ related_concepts:
   - "[[UIC Impact Measurement]]"
   - "[[Clinical Trial]]"
   - "[[Knowledge Transfer]]"
+  - "[[Counterfactual]]"
   - "[[Knowledge Exchange]]"
   - "[[Variable]]"
   - "[[Causality]]"

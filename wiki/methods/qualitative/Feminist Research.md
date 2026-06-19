@@ -13,7 +13,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Consequential Validity]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"

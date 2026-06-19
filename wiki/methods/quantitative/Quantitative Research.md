@@ -13,10 +13,11 @@ tags:
   - paradigm/postpositivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Counterfactual]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Research Question]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:

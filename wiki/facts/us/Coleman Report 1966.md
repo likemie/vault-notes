@@ -18,6 +18,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:

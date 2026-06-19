@@ -20,7 +20,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
-  - "[[Pure Evaluation]]"
   - "[[Radical Constructivism]]"
 related_methods: []
 related_persons:
@@ -61,7 +60,7 @@ updated: '2026-06-08'
 > - Tanggaard, L., Rømer, T. A., & Brinkmann, S. (2014). *Uren Pædagogik 2* [Pure Education 2]. Aarhus: Klim. — 提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - Rømer, T. A. (2014). The relationship between education and evidence. *Cursiv*, (14), 105–122. — 讨论教育与证据的关系
 > - Rømer, T. A. (2015). *Pædagogikkens to verdener* [The Two Worlds of Pedagogy]. Aalborg: Aalborg Universitetsforlag. — 探讨教育学的哲学连接
-> - Rømer, T. A. (2018). A critique of [[John Hattie]]'s theory of [[Visible Learning]]. *Educational Philosophy and Theory*. — 对 VL 的五线哲学批判：[[Pure Evaluation|评价理论]]取代教育、因[[Variable|变量]]问题、[[Radical Constructivism|激进建构主义]]、反馈集权化、误读 [[Karl Popper|Popper]]
+> - Rømer, T. A. (2018). A critique of [[John Hattie]]'s theory of [[Visible Learning]]. *Educational Philosophy and Theory*. — 对 VL 的五线哲学批判：评价理论取代教育、因[[Variable|变量]]问题、[[Radical Constructivism|激进建构主义]]、反馈集权化、误读 [[Karl Popper|Popper]]
 
 ## 核心思想
 
@@ -75,7 +74,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - [[Pure Evaluation]] — 与 Tanggaard & Brinkmann (2014) 共同提出的概念，描述声称在自调节系统中独立于时空运作的评价实践
 > - Argument_Rømer_2018_EPT — 对 Hattie [[Visible Learning|VL]] 理论基础的第一个系统性哲学批判
-> - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（[[Pure Evaluation|评价理论]]取代教育理论、[[Radical Constructivism|激进建构主义]]根基、误读 [[Karl Popper|Popper]]、反馈集权化）
+> - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（评价理论取代教育理论、[[Radical Constructivism|激进建构主义]]根基、误读 [[Karl Popper|Popper]]、反馈集权化）
 > - [[Surface and Deep Learning]] — Hattie 将表层/深层/建构性学习映射到 Popper 三个世界，[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证此映射构成对 Popper 的系统误读
 
 ## 思想发展与影响

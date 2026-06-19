@@ -27,7 +27,7 @@ related_concepts:
   - "[[Queer Theory]]"
   - "[[Constructivist Paradigm]]"
   - "[[Positivism]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []

@@ -15,7 +15,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Ontology]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
 related_theories: []

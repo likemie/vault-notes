@@ -18,6 +18,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Blue Skies Research]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Chain-linked Model]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Learning Economy]]"

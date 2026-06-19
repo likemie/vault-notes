@@ -21,7 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Learnification]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
 related_theories:

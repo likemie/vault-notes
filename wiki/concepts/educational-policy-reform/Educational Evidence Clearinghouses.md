@@ -41,6 +41,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Random Assignment]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"

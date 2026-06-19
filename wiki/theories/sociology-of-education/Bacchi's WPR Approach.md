@@ -23,7 +23,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Analytic Framework]]"
   - "[[Policy Network]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
 related_theories: []
 related_methods: []
 related_persons: []

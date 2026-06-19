@@ -23,7 +23,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Academic Engagement]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Effect Size]]"
 related_theories: []
 related_methods:

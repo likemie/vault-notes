@@ -11,7 +11,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
   - "[[Participatory Research]]"

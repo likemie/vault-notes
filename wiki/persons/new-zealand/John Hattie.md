@@ -35,6 +35,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
@@ -51,7 +52,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Post-structuralism]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Falsification]]"
   - "[[Problem-Based Learning]]"
@@ -63,7 +64,6 @@ related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Societies of Control]]"
-  - "[[Pure Evaluation]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"
 related_methods:
@@ -365,7 +365,7 @@ updated: '2026-06-08'
 
 
 > [!warning] 教育哲学批评
-> - **[[Argument_Rømer_2018_EPT|Rømer (2018)]]** — 五线哲学批判：[[Pure Evaluation|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
+> - **[[Argument_Rømer_2018_EPT|Rømer (2018)]]** — 五线哲学批判：评价理论取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
 > - **[[Argument_Larsen_2019_EducSci|Larsen (2019)]]** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是[[Value Neutrality|价值中立]]的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"《可见的学习》在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **[[Argument_Zhao_2017_JEC|Zhao (2017)]]** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
 > - **Nielsen & Klitmøller (2021, IRTP)** — 以 [[Jürgen Habermas|Habermas]] 合法化危机理论解释 《可见的学习》全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）

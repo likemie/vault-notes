@@ -17,7 +17,7 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Effect Size]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"

@@ -13,6 +13,7 @@ tags:
   - research-methodology
   - validity
 related_concepts:
+  - "[[Ethics Debriefing]]"
   - "[[External Auditor]]"
 related_theories: []
 related_methods:
@@ -32,7 +33,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 同行审议（Peer Debriefing）是[[Qualitative Research|质性研究]]中增强研究报告准确性的一种效度策略：通过寻找一位同行审议者来审查并提出关于质性研究的问题，以使研究报告能够与研究者以外的人产生共鸣。这一策略——涉及研究者的解释以外的另一个人的解读——为研究报告增加了效度（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.213）。
+> 同行审议（Peer [[Ethics Debriefing|debriefing]]）是[[Qualitative Research|质性研究]]中增强研究报告准确性的一种效度策略：通过寻找一位同行审议者来审查并提出关于质性研究的问题，以使研究报告能够与研究者以外的人产生共鸣。这一策略——涉及研究者的解释以外的另一个人的解读——为研究报告增加了效度（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.213）。
 
 ## 研究程序
 

@@ -14,9 +14,7 @@ tags:
 related_concepts:
   - "[[Research Ethics]]"
   - "[[Informed Consent]]"
-  - "[[Privacy in Research]]"
-  - "[[Anonymity in Research]]"
-  - "[[Confidentiality in Research]]"
+  - "[[Purpose Statement]]"
 related_theories: []
 related_methods: []
 related_persons: []

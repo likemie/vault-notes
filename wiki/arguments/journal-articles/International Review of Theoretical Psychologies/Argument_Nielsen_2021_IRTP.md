@@ -25,7 +25,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Doxa]]"

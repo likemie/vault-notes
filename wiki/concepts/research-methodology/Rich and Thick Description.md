@@ -1,16 +1,16 @@
 ---
 title: Rich and Thick Description
 aliases:
-  - 丰富密集描述
   - 厚描述
   - thick description
   - rich description
-summary: "质性研究中通过提供详细场所描述和多重视角来传达研究发现、增加效度的策略，能将读者'传送'到研究现场"
+  - 薄描述
+summary: 质性研究中通过提供详细场所描述和多重视角来传达研究发现、增加效度的策略，能将读者'传送'到研究现场
 type: concept
-domain: "research-methodology"
+domain: research-methodology
 related_count: 5
 related_level: 0
-related_stars: "☆"
+related_stars: ☆
 related_color: "#e5e7eb"
 tags:
   - research-methodology

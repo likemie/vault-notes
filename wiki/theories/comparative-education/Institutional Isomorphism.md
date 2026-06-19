@@ -19,7 +19,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Otherhood]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Analytic Framework]]"
   - "[[New Public Management]]"
 related_theories:

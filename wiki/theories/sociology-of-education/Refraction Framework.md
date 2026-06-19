@@ -11,6 +11,7 @@ tags:
   - stratification
   - paradigm/sociological
 related_concepts:
+  - "[[Counterfactual]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"

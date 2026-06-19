@@ -27,8 +27,8 @@ related_concepts:
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
-  - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"

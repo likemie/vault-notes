@@ -20,6 +20,7 @@ tags:
 - causal-inference
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Counterfactual]]"
   - "[[Formative Assessment]]"
   - "[[Logic Model]]"
   - "[[Statistical Significance]]"

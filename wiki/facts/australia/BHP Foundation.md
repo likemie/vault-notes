@@ -14,7 +14,7 @@ tags:
 related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Policy Network]]"
 related_theories: []
 related_methods: []

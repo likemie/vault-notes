@@ -23,7 +23,7 @@ related_concepts:
   - "[[Imagined Community]]"
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Sinicisation]]"
   - "[[One Country, Two Systems]]"
 related_theories: []

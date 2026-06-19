@@ -34,7 +34,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Heterogeneity]]"
   - "[[Spatial Sortings]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Scientization of Politics]]"
 related_theories:
   - "[[Realist Evaluation]]"

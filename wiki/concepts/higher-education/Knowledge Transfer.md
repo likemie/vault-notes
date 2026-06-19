@@ -27,7 +27,7 @@ related_concepts:
   - "[[Economic and Industrial Espionage]]"
   - "[[Knowledge Sabotage]]"
   - "[[Analytic Framework]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Technology Transfer]]"
   - "[[Cooperative Education]]"
   - "[[Professors of Practice]]"

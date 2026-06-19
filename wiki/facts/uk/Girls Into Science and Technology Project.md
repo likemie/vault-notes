@@ -15,7 +15,8 @@ tags:
   - method/feminist
   - theme/gender-equality
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:

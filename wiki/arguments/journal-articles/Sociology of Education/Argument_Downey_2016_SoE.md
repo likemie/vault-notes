@@ -23,6 +23,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[Literature Review]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:

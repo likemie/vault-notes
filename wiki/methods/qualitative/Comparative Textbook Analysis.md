@@ -17,7 +17,7 @@ tags:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Official Knowledge]]"
   - "[[Emergence]]"
   - "[[Imagined Community]]"

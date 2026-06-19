@@ -21,6 +21,7 @@ related_concepts:
   - "[[University Spin-Out]]"
   - "[[Innovation Ecosystem]]"
   - "[[Responsible Innovation]]"
+  - "[[Counterfactual]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:

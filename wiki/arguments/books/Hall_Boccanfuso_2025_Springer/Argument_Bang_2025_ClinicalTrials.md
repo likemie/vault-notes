@@ -21,6 +21,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Contract Research Organization]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
   - "[[Public-Private Partnership in Research]]"

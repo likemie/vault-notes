@@ -11,7 +11,7 @@ tags:
   - method/feminist
 related_concepts:
   - "[[Positivism]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Construct Validity in Quantitative Measurement]]"

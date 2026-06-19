@@ -15,26 +15,26 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Probabilistic Causation]]"
+  - "[[Screening Off]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
   - "[[Counterfactual]]"
   - "[[Fundamental Problem of Causal Inference]]"
-  - "[[Necessary and Sufficient Conditions]]"
   - "[[Compound Causes]]"
-  - "[[Screening Off]]"
   - "[[Causal Over-determination]]"
+  - "[[Homework]]"
   - "[[Causal Processes]]"
   - "[[Rashomon Effect]]"
+  - "[[Multiplicity]]"
   - "[[Action Narratives]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
   - "[[Experimental Research]]"
-  - "[[Survey Research]]"
-  - "[[Intervention Research]]"
-  - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"
+  - "[[Mixed Methods Research]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []

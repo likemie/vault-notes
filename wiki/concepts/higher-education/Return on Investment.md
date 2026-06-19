@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Academic Health System]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Values Alignment Model]]"
 related_methods: []

@@ -20,17 +20,39 @@ tags:
   - topic/ethics
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Research Ethics]]"
-  - "[[Institutional Review Board]]"
-  - "[[Gatekeepers]]"
-  - "[[Privacy in Research]]"
-  - "[[Anonymity in Research]]"
-  - "[[Confidentiality in Research]]"
-  - "[[Deception in Research]]"
-  - "[[Covert Research]]"
   - "[[Access and Acceptance in Research]]"
-related_theories: []
-related_methods: []
+  - "[[Covert Research]]"
+  - "[[Institutional Review Board]]"
+  - "[[Emergence]]"
+  - "[[Costs Benefits Ratio in Research Ethics]]"
+  - "[[Research Ethics]]"
+  - "[[Epistemology]]"
+  - "[[Purpose Statement]]"
+  - "[[Gatekeepers]]"
+  - "[[Confidentiality in Research]]"
+  - "[[Research Topic]]"
+  - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Betrayal in Research]]"
+  - "[[Ethics Debriefing]]"
+  - "[[Deception in Research]]"
+  - "[[Hypothesis]]"
+  - "[[Privacy in Research]]"
+  - "[[Academic Freedom]]"
+  - "[[Sponsored Research Agreement]]"
+  - "[[Research Question]]"
+  - "[[Champ]]"
+related_theories:
+  - "[[Situated Ethics]]"
+  - "[[Seedhouse's Ethical Pyramid]]"
+  - "[[Absolutist and Relativist Ethics in Research]]"
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Experimental Research]]"
+  - "[[Member Checking]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

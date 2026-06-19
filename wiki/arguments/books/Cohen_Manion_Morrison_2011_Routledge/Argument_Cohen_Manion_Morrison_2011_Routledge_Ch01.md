@@ -27,7 +27,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[Reflexivity]]"
   - "[[Incommensurability]]"

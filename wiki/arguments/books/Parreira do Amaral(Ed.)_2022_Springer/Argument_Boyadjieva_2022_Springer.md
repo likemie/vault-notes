@@ -25,7 +25,7 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
-  - "[[Value Neutrality in Research]]"
+  - "[[Value Neutrality]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Capability Approach]]"

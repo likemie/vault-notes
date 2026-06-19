@@ -14,12 +14,14 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Pragmatic Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Habitus]]"
   - "[[Champ]]"
-  - "[[Further Education]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Variable]]"
 related_theories:
-  - "[[Culture as Toolkit]]"
+  - "[[Bounded Rationality]]"
 related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"

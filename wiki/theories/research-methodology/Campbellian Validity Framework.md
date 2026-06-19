@@ -16,6 +16,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[External Validity]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
