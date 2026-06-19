@@ -96,7 +96,7 @@ updated: '2026-06-19'
 
 > [!axioms] 能动性作为变革的核心（Volition and Agency）
 > 波森指出，教育与社会变革是通过人的能动性实现的。医学 [[Randomised Controlled Trials|RCT]] 试图在双盲实验中将人的意志视为 “污染物” 予以清除，而在社会干预中，受试者的主动反思、情感和意志才是机制起作用的根本动力。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6-7]])
->
+
 > [!critique-method] 元分析的 “洗涤与净化过程”（The Purgative Process）
 > 波森强烈批评元分析在每一聚合阶段都在进行系统性简化：缩减假设、舍弃研究、过滤干预细节、抹除背景信息、提取均值、进行估算。在此净化过程中，学界所做的工作就像是将干预机制“清洗干净”一样，恰恰是解释干预如何起作用的关键特征被系统性清洗掉，使复杂的社会项目沦为一纸空洞的数字排行榜。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 >
@@ -104,7 +104,7 @@ updated: '2026-06-19'
 > 在自然科学实验室之外，社会和教育情境是无法封闭的开放系统。教育 RCT 中的控制组绝不是静止的真空，其控制班级和区域可能自身正进行着繁多、忙碌的教学自主改进，这使得以控制组为基准线计算出的效应量变得极其模糊和不可靠。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
 >
 > [!exegesis] 医学研究与教育学 RCT 的本质区别（Theory Precedence）
-> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学和生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
+> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
 >
 > [!pathways] 替代方案：实在论综合（Realist Synthesis）
 > 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校实践提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])

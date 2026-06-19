@@ -7,7 +7,25 @@
      light  : 0  4px 12px rgba(var(--callout-color), 0.06)
      medium : 0  8px 20px rgba(var(--callout-color), 0.09)
      heavy  : 0 14px 30px rgba(var(--callout-color), 0.13)
+
+   Font scale (六档，em 相对于 callout 容器字号)
+     --fs-label   : 0.68em  → 角标徽章 (MAP / STEP / badge caps)
+     --fs-caption : 0.78em  → 次级说明、图注、辅助文字
+     --fs-table   : 0.875em → 表格单元格（统一缩小，提升信息密度）
+     --fs-body    : 0.92em  → callout 正文主流字号
+     --fs-lead    : 1.05em  → 引言段 / 强调文字
+     --fs-display : 1.55em  → 数据卡大数字（stat-cards）
    ═══════════════════════════════════════════════════════════ */
+
+/* ─── CSS 变量 — 字号标度 ───────────────────────────────── */
+:root {
+  --fs-label:   0.68em;
+  --fs-caption: 0.78em;
+  --fs-table:   0.875em;
+  --fs-body:    0.92em;
+  --fs-lead:    1.05em;
+  --fs-display: 1.55em;
+}
 
 /* ─── 全局 ─────────────────────────────────────────────── */
 .callout {
@@ -48,7 +66,7 @@
   border-radius: 999px;
   background: rgba(20, 126, 121, 0.18);
   color: rgb(20, 126, 121);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
 }
 
@@ -112,7 +130,7 @@
   border-radius: 10px;
   padding: 0.55rem 0.9rem;
   box-shadow: 0 4px 12px rgba(165, 110, 45, 0.06);
-  font-size: 0.96em;
+  font-size: var(--fs-body);
   line-height: 1.65;
 }
 .callout[data-callout="chapter-question"]::after {
@@ -256,7 +274,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -391,7 +409,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -577,7 +595,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -699,7 +717,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -844,7 +862,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.14);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 850;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -882,7 +900,7 @@
   background:
     linear-gradient(180deg, rgba(var(--callout-color), 0.18), rgba(var(--callout-color), 0.10));
   color: color-mix(in srgb, rgb(var(--callout-color)) 88%, black 12%);
-  font-size: 0.78em;
+  font-size: var(--fs-caption);
   font-weight: 800;
   letter-spacing: 0.05em;
   border-bottom: 1px solid rgba(var(--callout-color), 0.20);
@@ -892,7 +910,7 @@
   padding: 0.78rem 0.85rem;
   border-bottom: 1px solid rgba(var(--callout-color), 0.11);
   background: color-mix(in srgb, var(--background-primary) 95%, rgb(var(--callout-color)) 5%);
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   line-height: 1.55;
   vertical-align: top;
   white-space: normal;
@@ -924,7 +942,7 @@
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.22), transparent),
     color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
-  font-size: 0.86em;
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="textbook-overview"] a.internal-link {
@@ -1043,7 +1061,7 @@
 .callout[data-callout="threat"] .callout-content > ul > li {
   padding: 0.45rem 0.6rem;
   border-radius: 6px;
-  font-size: 0.89em;
+  font-size: var(--fs-table);
   line-height: 1.55;
   margin: 0;
   border: 1px solid rgba(var(--callout-color), 0.15);
@@ -1089,7 +1107,7 @@
   border-radius: 4px;
   background: rgba(175, 105, 55, 0.16);
   color: rgb(175, 105, 55);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.05em;
   vertical-align: 0.05em;
@@ -1409,7 +1427,7 @@
   border-radius: 0 9px 9px 0;
 }
 
-.callout[data-callout="framework-table"] td:first-child strong { font-size: 1.03em; }
+.callout[data-callout="framework-table"] td:first-child strong { font-size: var(--fs-lead); }
 .callout[data-callout="framework-table"] td:last-child strong  { color: rgb(82, 145, 214); }
 
 /* ─── method-panel（研究方法 — 青绿） ───────────────── */
@@ -1530,7 +1548,7 @@
 }
 
 .callout[data-callout="voice"] .callout-content {
-  font-size: 1.01em;
+  font-size: var(--fs-lead);
   line-height: 1.72;
 }
 
@@ -1561,7 +1579,7 @@
   border-radius: 4px;
   background: rgba(24, 121, 121, 0.18);
   color: rgb(20, 100, 100);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.05em;
 }
@@ -1625,7 +1643,7 @@
   border-radius: 4px;
   background: rgba(178, 126, 44, 0.18);
   color: rgb(148, 102, 28);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.05em;
 }
@@ -1737,7 +1755,7 @@
 .callout[data-callout="indicators"] > .callout-title {
   color: rgb(55, 80, 105);
   font-weight: 650;
-  font-size: 0.94em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 .callout[data-callout="indicators"] .callout-content > ul {
@@ -1749,7 +1767,7 @@
 .callout[data-callout="indicators"] .callout-content > ul > li {
   counter-increment: indicator;
   padding: 0.35rem 0.5rem 0.35rem 2rem;
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   line-height: 1.6;
   margin: 0.15rem 0;
   position: relative;
@@ -1767,14 +1785,14 @@
   border-radius: 999px;
   background: rgb(80, 110, 140);
   color: #fff;
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
 }
 .callout[data-callout="indicators"] .callout-content > ul > li > strong:first-child {
   display: block;
   color: rgb(55, 80, 105);
   margin-bottom: 0.1rem;
-  font-size: 0.93em;
+  font-size: var(--fs-body);
 }
 .callout[data-callout="indicators"] .callout-content > ul > li:hover {
   background: rgba(80, 110, 140, 0.05);
@@ -1783,7 +1801,7 @@
   margin: 0.15rem 0 0 0.5rem;
   padding-left: 0;
   color: var(--text-muted);
-  font-size: 0.93em;
+  font-size: var(--fs-body);
 }
 .callout[data-callout="indicators"] .callout-content > ul > li > ul > li {
   margin: 0.05rem 0;
@@ -1808,7 +1826,7 @@
 .callout[data-callout="lessons"] > .callout-title {
   color: rgb(130, 95, 30);
   font-weight: 650;
-  font-size: 0.95em;
+  font-size: var(--fs-body);
   letter-spacing: 0.01em;
 }
 .callout[data-callout="lessons"] > .callout-title .callout-title-inner::before {
@@ -1819,7 +1837,7 @@
   border-radius: 3px;
   background: rgb(170, 130, 50);
   color: #fff;
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.06em;
 }
@@ -1835,7 +1853,7 @@
   margin-bottom: 0.25rem;
   border-radius: 6px;
   line-height: 1.6;
-  font-size: 0.93em;
+  font-size: var(--fs-body);
   position: relative;
 }
 .callout[data-callout="lessons"] .callout-content > ul > li::before {
@@ -1886,7 +1904,7 @@
   border-radius: 4px;
   background: rgba(92, 122, 82, 0.18);
   color: rgb(72, 100, 62);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.05em;
 }
@@ -1967,7 +1985,7 @@
 }
 
 .callout[data-callout="contrast-table"] > .callout-title {
-  font-size: 1.05em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.01em;
 }
 
@@ -1979,7 +1997,7 @@
   border-radius: 6px;
   background: rgba(95, 114, 133, 0.18);
   color: rgb(126, 137, 150);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.05em;
 }
@@ -1990,7 +2008,7 @@
   margin-block: 0.55rem 0.2rem;
   border-collapse: separate;
   border-spacing: 0;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="contrast-table"] th,
@@ -1999,14 +2017,14 @@
   border-color: rgba(126, 137, 150, 0.12);
   line-height: 1.55;
   padding: 0.45rem 0.55rem;
-  font-size: 0.92em;
+  font-size: var(--fs-body);
 }
 
 .callout[data-callout="contrast-table"] th {
   font-weight: 700;
   text-align: center;
   letter-spacing: 0.02em;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="contrast-table"] th:nth-child(1),
@@ -2015,7 +2033,7 @@
   background: transparent;
   color: rgb(126, 137, 150);
   font-weight: 700;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   white-space: nowrap;
 }
 
@@ -2114,7 +2132,7 @@
   display: block;
   margin-bottom: 0.2rem;
   color: rgb(72, 132, 112);
-  font-size: 1.55em;
+  font-size: var(--fs-display);
   line-height: 1.3;
   letter-spacing: -0.01em;
   font-weight: 800;
@@ -2299,13 +2317,13 @@
 }
 
 .callout[data-callout="citation-card"] .callout-content p:first-child {
-  font-size: 1.03em;
+  font-size: var(--fs-lead);
   line-height: 1.75;
 }
 
 .callout[data-callout="citation-card"] .callout-content p:last-child {
   color: var(--text-muted);
-  font-size: 0.94em;
+  font-size: var(--fs-body);
   padding-left: 0.9rem;
   border-left: 2px solid rgba(96, 113, 128, 0.28);
   line-height: 1.65;
@@ -2370,6 +2388,14 @@
          只对两类特殊内容替换字族：
            数字  → tabular-nums（等宽数字，系统字体已支持）
            英文引文 → Georgia 衬线（citation-card 原文段，无链接风险）
+
+   字号使用规范（参见头部 Font scale 变量）：
+     角标 / badge 文字    → var(--fs-label)    0.68em
+     次级说明 / 图注      → var(--fs-caption)  0.78em
+     表格单元格（全局）   → var(--fs-table)    0.875em  ← .callout table 已设
+     callout 正文         → var(--fs-body)     0.92em
+     引言 / 强调段        → var(--fs-lead)     1.05em
+     数据卡大数字         → var(--fs-display)  1.55em
    ═══════════════════════════════════════════════════════════ */
 
 /* ─── 全局 callout 抗锯齿 ─────────────────────────── */
@@ -2401,10 +2427,19 @@
   font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
 }
 
-/* ─── 表头 — 小字距 + 轻量大写质感 ──────────────────
+/* ─── 表格 — 统一缩小字号，提升信息密度 ─────────────
+   所有 callout 内表格默认用 --fs-table (0.875em)；
+   行高收紧至 1.5；各 callout 若有特殊需求可自行 override。  */
+.callout table {
+  font-size: var(--fs-table);
+  line-height: 1.5;
+}
+
+/* ─── 表头 — 小字距 + 适中字重 ──────────────────────
    不用 font-variant-caps 避免影响中文；只加字距 */
 .callout th {
   letter-spacing: 0.03em;
+  font-weight: 650;
 }
 
 /* ─── finding-cards 序号 + 数字表格对齐 ─────────────
@@ -2420,7 +2455,7 @@
 .callout[data-callout="citation-card"] .callout-content p:last-child {
   font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
-  font-size: 0.93em;
+  font-size: var(--fs-body);
   letter-spacing: 0.01em;
 }
 
@@ -2484,7 +2519,7 @@
 .callout[data-callout="col-r"] > .callout-title {
   padding: 0.4rem 0.75rem 0.28rem;
   border-bottom: 1px solid rgba(88, 110, 140, 0.10);
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   font-weight: 650;
   letter-spacing: 0.02em;
   color: rgb(88, 110, 140);
@@ -2494,7 +2529,7 @@
 .callout[data-callout="col-l"] > .callout-content,
 .callout[data-callout="col-r"] > .callout-content {
   padding: 0.4rem 0.75rem 0.45rem;
-  font-size: 0.93em;
+  font-size: var(--fs-body);
   line-height: 1.7;
 }
 
@@ -2683,7 +2718,7 @@
   border-left: 3px solid rgb(185, 45, 35);
   background: rgba(200, 60, 45, 0.07);
   border-radius: 6px;
-  font-size: 0.875em;
+  font-size: var(--fs-table);
   line-height: 1.55;
   margin: 0;
 }
@@ -2702,7 +2737,7 @@
   border-left: 3px solid rgb(25, 145, 80);
   background: rgba(40, 175, 100, 0.07);
   border-radius: 6px;
-  font-size: 0.875em;
+  font-size: var(--fs-table);
   line-height: 1.55;
   margin: 0;
 }
@@ -2821,7 +2856,7 @@
   padding: 0.22rem 0.45rem 0.22rem 0.35rem;
   margin-bottom: 0.04rem;
   border-radius: 4px;
-  font-size: 0.875em;
+  font-size: var(--fs-table);
   line-height: 1.58;
   transition: background 0.14s ease;
 }
@@ -2854,7 +2889,7 @@
   background: rgba(85, 125, 160, 0.10);
   border: 1px solid rgba(85, 125, 160, 0.22);
   color: rgb(65, 105, 145);
-  font-size: 0.79em;
+  font-size: var(--fs-caption);
   font-weight: 700;
   vertical-align: middle;
   line-height: 1.5;
@@ -2948,7 +2983,7 @@
 .callout[data-callout="quad-grid"] > .callout-content > ul > li p:first-child strong {
   display: block;
   color: rgb(56, 135, 115);
-  font-size: 0.87em;
+  font-size: var(--fs-table);
   font-weight: 750;
   margin-bottom: 0.2rem;
   letter-spacing: 0.01em;
@@ -2956,7 +2991,7 @@
 
 /* 正文段 */
 .callout[data-callout="quad-grid"] > .callout-content > ul > li p:last-child {
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   opacity: 0.82;
   margin: 0;
 }
@@ -3014,7 +3049,7 @@
   border-radius: 4px;
   background: rgb(56, 135, 115);
   color: #fff;
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
   z-index: 1;
 }
@@ -3035,12 +3070,12 @@
   border-left: 3px solid rgb(110, 125, 140);
   border-radius: 8px;
   box-shadow: none;
-  font-size: 0.93em;
+  font-size: var(--fs-body);
   padding: 0.1rem 0 1px;
 }
 .callout[data-callout="features"] > .callout-title {
   color: rgb(80, 92, 105);
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   font-weight: 650;
   padding: 0.3rem 0.7rem 0.2rem;
   border-bottom: 1px solid rgba(110, 125, 140, 0.10);
@@ -3070,7 +3105,7 @@
   border-left: 4px solid rgb(95, 110, 130);
   border-radius: 10px;
   box-shadow: 0 6px 16px rgba(95, 110, 130, 0.07);
-  font-size: 0.92em;
+  font-size: var(--fs-body);
 }
 .callout[data-callout="ref-table"] > .callout-title {
   color: rgb(70, 82, 100);
@@ -3084,7 +3119,7 @@
 .callout[data-callout="ref-table"] th {
   background: rgba(95, 110, 130, 0.12);
   font-weight: 650;
-  font-size: 0.9em;
+  font-size: var(--fs-body);
 }
 .callout[data-callout="ref-table"] th, .callout[data-callout="ref-table"] td {
   border-color: rgba(95, 110, 130, 0.14);
@@ -3136,7 +3171,7 @@
   border-radius: 5px;
   background: rgba(72, 108, 150, 0.055);
   border: 1px solid rgba(72, 108, 150, 0.10);
-  font-size: 0.875em;
+  font-size: var(--fs-table);
   line-height: 1.45;
 }
 
@@ -3159,7 +3194,7 @@
 .callout[data-callout="frames-ref"] .callout-content > ol > li strong:first-child,
 .callout[data-callout="frames-ref"] .callout-content > ul > li strong:first-child {
   color: rgb(65, 130, 195);
-  font-size: 0.93em;
+  font-size: var(--fs-body);
 }
 
 /* 最后一项若为奇数，独占全行 */
@@ -3250,7 +3285,7 @@
 .callout[data-callout="dev-timeline"] .callout-content > ol > li > p:first-child > strong:first-child {
   display: block;
   color: rgb(100, 68, 38);
-  font-size: 0.96em;
+  font-size: var(--fs-body);
   font-weight: 700;
   margin-bottom: 0.38rem;
   letter-spacing: 0.005em;
@@ -3260,7 +3295,7 @@
 .callout[data-callout="dev-timeline"] .callout-content > ol > li p {
   margin: 0;
   line-height: 1.65;
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   color: var(--text-muted);
 }
 
@@ -3275,7 +3310,7 @@
   color: rgb(115, 80, 50);
   opacity: 0.80;
   font-style: italic;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   display: block;
   margin-bottom: 0.45rem;
 }
@@ -3292,7 +3327,7 @@
   position: relative;
   padding-left: 1.2rem;
   margin-bottom: 0.2rem;
-  font-size: 0.89em;
+  font-size: var(--fs-table);
   line-height: 1.6;
   color: var(--text-muted);
 }
@@ -3373,7 +3408,7 @@
 .callout[data-callout="designs"] > .callout-title {
   color: rgb(80, 65, 140);
   font-weight: 650;
-  font-size: 1.0em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.02em;
 }
 
@@ -3385,7 +3420,7 @@
   border-radius: 4px;
   background: rgba(100, 85, 165, 0.14);
   color: rgb(80, 65, 140);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
   letter-spacing: 0.06em;
   vertical-align: middle;
@@ -3483,7 +3518,7 @@
 .callout[data-callout="decisions"] > .callout-title {
   color: rgb(145, 90, 30);
   font-weight: 650;
-  font-size: 1.0em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.02em;
   position: relative;
   z-index: 1;
@@ -3497,7 +3532,7 @@
   border-radius: 4px;
   background: rgba(170, 110, 40, 0.14);
   color: rgb(145, 90, 30);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
   letter-spacing: 0.06em;
   vertical-align: middle;
@@ -3522,7 +3557,7 @@
   border-radius: 6px;
   background: rgba(170, 110, 40, 0.04);
   border-left: 3px solid rgba(170, 110, 40, 0.20);
-  font-size: 0.92em;
+  font-size: var(--fs-body);
 }
 
 .callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-child {
@@ -3590,7 +3625,7 @@
 .callout[data-callout="term"] > .callout-title {
   color: rgb(60, 105, 90);
   font-weight: 600;
-  font-size: 0.95em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -3602,7 +3637,7 @@
   border-radius: 3px;
   background: rgba(80, 130, 110, 0.12);
   color: rgb(60, 105, 90);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
   letter-spacing: 0.06em;
   vertical-align: middle;
@@ -3610,7 +3645,7 @@
 
 .callout[data-callout="term"] > .callout-content {
   line-height: 1.62;
-  font-size: 0.94em;
+  font-size: var(--fs-body);
 }
 
 .callout[data-callout="term"] > .callout-content > p:first-child > strong:first-child {
@@ -3681,7 +3716,7 @@
 .callout[data-callout="axioms"] > .callout-title {
   color: rgb(160, 115, 40);
   font-weight: 650;
-  font-size: 1.02em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.03em;
   position: relative;
   z-index: 1;
@@ -3695,7 +3730,7 @@
   border-radius: 4px;
   background: rgba(185, 140, 55, 0.15);
   color: rgb(160, 115, 40);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -3781,7 +3816,7 @@
 .callout[data-callout="assumptions"] > .callout-title {
   color: rgb(20, 110, 100);
   font-weight: 650;
-  font-size: 1.0em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.02em;
 }
 
@@ -3793,7 +3828,7 @@
   border-radius: 4px;
   background: rgba(25, 130, 120, 0.14);
   color: rgb(20, 110, 100);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
   letter-spacing: 0.06em;
   vertical-align: middle;
@@ -3892,7 +3927,7 @@
   border-radius: 4px;
   background: rgba(200, 140, 55, 0.15);
   color: rgb(180, 115, 35);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
   letter-spacing: 0.06em;
   vertical-align: middle;
@@ -4003,7 +4038,7 @@
 .callout[data-callout="def"] > .callout-title {
   color: rgb(75, 60, 150);
   font-weight: 650;
-  font-size: 1.02em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.01em;
   position: relative;
   z-index: 1;
@@ -4017,7 +4052,7 @@
   border-radius: 4px;
   background: rgba(75, 60, 150, 0.14);
   color: rgb(75, 60, 150);
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.10em;
   vertical-align: middle;
@@ -4119,7 +4154,7 @@
   border-radius: 4px;
   background: rgba(45, 100, 160, 0.12);
   color: rgb(45, 100, 160);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -4140,18 +4175,18 @@
 
 /* 列宽：直接设在 th/td 上，绕开 Obsidian 不支持 col 元素的问题 */
 .callout[data-callout="ref-table"] th:nth-child(1),
-.callout[data-callout="ref-table"] td:nth-child(1) { width: 28%; font-size: 0.88em; }
+.callout[data-callout="ref-table"] td:nth-child(1) { width: 28%; font-size: var(--fs-table); }
 .callout[data-callout="ref-table"] th:nth-child(2),
-.callout[data-callout="ref-table"] td:nth-child(2) { width: 34%; font-size: 0.88em; }
+.callout[data-callout="ref-table"] td:nth-child(2) { width: 34%; font-size: var(--fs-table); }
 .callout[data-callout="ref-table"] th:nth-child(3),
-.callout[data-callout="ref-table"] td:nth-child(3) { width: 38%; font-size: 0.88em; }
+.callout[data-callout="ref-table"] td:nth-child(3) { width: 38%; font-size: var(--fs-table); }
 
 /* ── 表头 ── */
 .callout[data-callout="ref-table"] thead th {
   background: rgba(45, 100, 160, 0.08);
   color: rgb(45, 100, 160);
   font-weight: 650;
-  font-size: 0.78em;
+  font-size: var(--fs-caption);
   letter-spacing: 0.04em;
   text-transform: uppercase;
   padding: 0.5rem 1.1rem;
@@ -4282,7 +4317,7 @@
   border-radius: 4px;
   background: rgba(45, 100, 160, 0.12);
   color: rgb(45, 100, 160);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -4315,7 +4350,7 @@
   background: rgba(45, 100, 160, 0.08);
   color: rgb(45, 100, 160);
   font-weight: 650;
-  font-size: 0.78em;
+  font-size: var(--fs-caption);
   letter-spacing: 0.04em;
   text-transform: uppercase;
   padding: 0.5rem 0.7rem;
@@ -4420,7 +4455,7 @@
   border-radius: 4px;
   background: rgba(155, 95, 40, 0.12);
   color: rgb(155, 95, 40);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.09em;
   vertical-align: middle;
@@ -4440,7 +4475,7 @@
 
 .callout[data-callout="layer"] .callout[data-callout="col-l"] > .callout-title,
 .callout[data-callout="layer"] .callout[data-callout="col-r"] > .callout-title {
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   font-weight: 650;
   color: rgb(155, 95, 40);
 }
@@ -4512,7 +4547,7 @@
   border-radius: 4px;
   background: rgba(48, 78, 120, 0.11);
   color: rgb(48, 78, 120);
-  font-size: 0.67em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.09em;
   vertical-align: middle;
@@ -4648,7 +4683,7 @@
   border-radius: 4px;
   background: rgba(180, 140, 60, 0.18);
   color: rgb(150, 110, 35);
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.05em;
   vertical-align: 0.05em;
@@ -4739,7 +4774,7 @@
   border-radius: 999px;
   background: rgba(30, 100, 130, 0.13);
   color: rgb(25, 88, 115);
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -4818,7 +4853,7 @@
   bottom: -0.78rem;
   color: rgba(30, 100, 130, 0.58);
   font-weight: 900;
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   line-height: 1;
   z-index: 2;
 }
@@ -4903,7 +4938,7 @@
   counter-increment: formula-var;
   position: relative;
   padding: 0.1rem 0.2rem 0.1rem 0.2rem;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   line-height: 1.62;
 }
 
@@ -5066,7 +5101,7 @@
   border-radius: 999px;
   background: rgba(78, 92, 168, 0.13);
   color: rgb(78, 92, 168);
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -5081,7 +5116,7 @@
   background: rgba(78, 92, 168, 0.06);
   border: 1px solid rgba(78, 92, 168, 0.15);
   border-radius: 6px;
-  font-size: 1.06em;
+  font-size: var(--fs-lead);
   overflow-x: auto;
 }
 
@@ -5106,7 +5141,7 @@
 }
 
 .callout[data-callout="formula-step"] .callout-content > .callout .callout-title {
-  font-size: 0.94em;
+  font-size: var(--fs-body);
 }
 
 .theme-dark .callout[data-callout="formula-step"] {
@@ -5165,7 +5200,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -5195,7 +5230,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -5299,7 +5334,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -5344,7 +5379,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -5588,7 +5623,7 @@
   border-radius: 4px;
   background: rgba(var(--callout-color), 0.11);
   color: rgb(var(--callout-color));
-  font-size: 0.67em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.09em;
   vertical-align: middle;
@@ -5727,7 +5762,7 @@
 /* ── 正文 ── */
 .callout[data-callout="conclusion"] > .callout-content {
   padding: 0.75rem 1.1rem 0.8rem;
-  font-size: 0.96em;
+  font-size: var(--fs-body);
   line-height: 1.65;
 }
 .callout[data-callout="conclusion"] > .callout-content strong {
@@ -5807,7 +5842,7 @@
 
 .callout[data-callout="claim"] > .callout-content {
   padding: 0.85rem 1.05rem;
-  font-size: 1.01em;
+  font-size: var(--fs-lead);
   line-height: 1.7;
 }
 
@@ -5912,7 +5947,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.96em;
+  font-size: var(--fs-body);
 }
 
 @media (max-width: 700px) {
@@ -5978,7 +6013,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6021,7 +6056,7 @@
   display: block;
   margin-bottom: 0.2rem;
   color: rgb(var(--callout-color));
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -6099,7 +6134,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6142,7 +6177,7 @@
   display: block;
   margin-bottom: 0.2rem;
   color: rgb(var(--callout-color));
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -6198,7 +6233,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6241,7 +6276,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -6352,7 +6387,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6483,7 +6518,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -6651,7 +6686,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6694,7 +6729,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -6735,7 +6770,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6770,7 +6805,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -6843,7 +6878,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -6886,7 +6921,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -7051,7 +7086,7 @@
   border-radius: 999px;
   background: rgba(var(--callout-color), 0.13);
   color: rgb(var(--callout-color));
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 820;
   letter-spacing: 0.08em;
   vertical-align: middle;
@@ -7167,7 +7202,7 @@
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
 
@@ -7349,7 +7384,7 @@
   border-radius: 4px;
   background: rgba(138, 52, 78, 0.10);
   color: rgb(138, 52, 78);
-  font-size: 0.67em;
+  font-size: var(--fs-label);
   font-weight: 750;
   letter-spacing: 0.09em;
   vertical-align: middle;
@@ -7583,7 +7618,7 @@
   background: rgba(var(--timeline-rgb), 0.12);
   border: 1px solid rgba(var(--timeline-rgb), 0.24);
   color: rgb(var(--timeline-rgb));
-  font-size: 0.79em;
+  font-size: var(--fs-caption);
   font-weight: 760;
   letter-spacing: 0.04em;
   line-height: 1.55;
@@ -7719,7 +7754,7 @@
   border-radius: 999px;
   background: rgb(var(--timeline-rgb));
   color: #fff;
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 760;
   line-height: 1.15rem;
   text-align: center;
@@ -7906,7 +7941,7 @@
 }
 
 .callout[data-callout="tension-table"] > .callout-title {
-  font-size: 1.02em;
+  font-size: var(--fs-lead);
   letter-spacing: 0.01em;
 }
 
@@ -7916,7 +7951,7 @@
   table-layout: fixed;
   margin-block: 0.5rem 0.2rem;
   border-collapse: collapse;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="tension-table"] th,
@@ -7925,14 +7960,14 @@
   border-bottom: 1px solid rgba(148, 108, 82, 0.12);
   line-height: 1.55;
   padding: 0.5rem 0.6rem;
-  font-size: 0.92em;
+  font-size: var(--fs-body);
 }
 
 .callout[data-callout="tension-table"] th {
   font-weight: 700;
   text-align: center;
   letter-spacing: 0.02em;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   background: rgba(148, 108, 82, 0.08);
 }
 
@@ -7943,7 +7978,7 @@
 .callout[data-callout="tension-table"] td:first-child {
   font-weight: 700;
   color: rgb(148, 108, 82);
-  font-size: 0.88em;
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="tension-table"] td:first-child strong {
@@ -7977,7 +8012,7 @@
   table-layout: auto;
   margin-block: 0.4rem 0.2rem;
   border-collapse: collapse;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
 }
 
 .callout[data-callout="question"] th,
@@ -8077,14 +8112,14 @@
 .callout[data-callout="challenges"] > .callout-title {
   color: rgb(160, 100, 25);
   font-weight: 700;
-  font-size: 0.95em;
+  font-size: var(--fs-body);
   margin-bottom: 0.35rem;
 }
 
 .callout[data-callout="challenges"] > .callout-title .callout-title-inner::before {
   content: "CHALLENGES";
   display: inline-block;
-  font-size: 0.68em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.08em;
   color: rgba(200, 130, 40, 0.55);
@@ -8111,7 +8146,7 @@
   margin-bottom: 0.35rem;
   border-bottom: 1px dashed rgba(200, 130, 40, 0.15);
   line-height: 1.6;
-  font-size: 0.92em;
+  font-size: var(--fs-body);
 }
 
 .callout[data-callout="challenges"] .callout-content > ol > li:last-child {
@@ -8129,7 +8164,7 @@
   border-radius: 50%;
   background: rgba(200, 130, 40, 0.12);
   color: rgb(160, 100, 25);
-  font-size: 0.78em;
+  font-size: var(--fs-caption);
   font-weight: 700;
   text-align: center;
   line-height: 1.5rem;
@@ -8184,7 +8219,7 @@
 .callout[data-callout="data-table"] > .callout-title {
   color: rgb(60, 75, 110);
   font-weight: 700;
-  font-size: 0.9em;
+  font-size: var(--fs-body);
   margin-bottom: 0.3rem;
   padding-bottom: 0.25rem;
   border-bottom: 1px dashed rgba(80, 100, 140, 0.18);
@@ -8193,7 +8228,7 @@
 .callout[data-callout="data-table"] > .callout-title .callout-title-inner::before {
   content: "DATA";
   display: inline-block;
-  font-size: 0.66em;
+  font-size: var(--fs-label);
   font-weight: 800;
   letter-spacing: 0.08em;
   color: rgba(80, 100, 140, 0.5);
@@ -8207,7 +8242,7 @@
   table-layout: auto;
   margin-block: 0.3rem 0.1rem;
   border-collapse: collapse;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   line-height: 1.35;
 }
 
@@ -8229,7 +8264,7 @@
 }
 
 .callout[data-callout="data-table"] td {
-  font-size: 0.87em;
+  font-size: var(--fs-table);
   color: rgb(50, 50, 55);
 }
 
@@ -8298,7 +8333,7 @@
   background: rgb(70, 80, 95);
   color: #fff;
   font-weight: 700;
-  font-size: 0.88em;
+  font-size: var(--fs-table);
   letter-spacing: 0.04em;
   padding: 0.4rem 0.9rem;
   border-radius: 6px 6px 0 0;
@@ -8320,7 +8355,7 @@
 .callout[data-callout="fit-grid"] > .callout-content > ul > li {
   padding: 0.6rem 0.85rem;
   margin: 0;
-  font-size: 0.86em;
+  font-size: var(--fs-table);
   line-height: 1.55;
   border-left: 4px solid transparent;
 }
@@ -8343,7 +8378,7 @@
 }
 
 .callout[data-callout="fit-grid"] > .callout-content > ul > li > strong {
-  font-size: 0.92em;
+  font-size: var(--fs-body);
   margin-right: 0.3em;
 }
 
@@ -8404,7 +8439,7 @@
   border-radius: 999px;
   background: rgba(168, 128, 58, 0.16);
   color: rgb(168, 128, 58);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
 }
 
@@ -8478,7 +8513,7 @@
   border-radius: 999px;
   background: rgba(85, 130, 180, 0.14);
   color: rgb(85, 130, 180);
-  font-size: 0.7em;
+  font-size: var(--fs-label);
   font-weight: 700;
 }
 
@@ -8507,7 +8542,7 @@
   border-radius: 999px;
   background: rgba(85, 130, 180, 0.12);
   color: rgb(85, 130, 180);
-  font-size: 0.78em;
+  font-size: var(--fs-caption);
   font-weight: 700;
 }
 
