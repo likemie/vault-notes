@@ -5,6 +5,11 @@ aliases:
   - 后果效度
 summary: "Lather（1991）提出的效度概念，以研究的政治后果和变革效果——而非方法程序的严格性——作为评判研究质量的核心标准。"
 type: concept
+domain: "research-methodology"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/validity
   - theory/critical

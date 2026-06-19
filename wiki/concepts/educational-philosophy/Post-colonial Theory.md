@@ -4,6 +4,11 @@ aliases:
   - 后殖民理论
 summary: "一种处理殖民主义文化遗产的批判理论，审视帝国主义意识形态如何通过知识生产、价值支配和身份建构延续对非西方群体的压制与边缘化。"
 type: concept
+domain: "educational-philosophy"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/critical
   - theory/postcolonial

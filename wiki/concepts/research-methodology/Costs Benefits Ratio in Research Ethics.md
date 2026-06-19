@@ -8,6 +8,10 @@ aliases:
 summary: "社会研究中表达基本伦理困境的核心概念，指研究者必须权衡研究的可能社会收益与参与个体付出的个人成本，决策过程主要为主观判断"
 type: concept
 domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance

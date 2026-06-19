@@ -9,6 +9,10 @@ aliases:
 summary: "研究者隐瞒研究身份和目的、以伪装角色进入研究场所收集资料的研究方式，违反知情同意原则，但其支持者认为这是获取某些敏感群体或隐藏做法数据的唯一途径"
 type: concept
 domain: "research-methodology"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - method/qualitative-research

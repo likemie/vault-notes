@@ -9,7 +9,7 @@ aliases:
 summary: "库恩提出的核心概念，指研究共同体共享的看待现象的方式、世界观、信念体系和原则集合，决定了什么算作合法的科学知识和研究方法。"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

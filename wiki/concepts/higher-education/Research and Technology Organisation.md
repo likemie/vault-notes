@@ -9,7 +9,7 @@ aliases:
 summary: "政府投资建立的桥接大学研究与产业应用之间的中介组织，履行应用研究、技术问题解决、劳动力发展、设施建设等多重功能，典型如英国 Catapult、德国 Fraunhofer 和美国 Manufacturing USA"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

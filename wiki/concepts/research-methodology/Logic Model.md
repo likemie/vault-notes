@@ -8,10 +8,10 @@ aliases:
 summary: "把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具，用于形成共享预期并组织形成性反馈。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - method/logic-model
 - method/mixed

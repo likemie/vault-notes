@@ -7,6 +7,10 @@ aliases:
 summary: "Reichenbach (1956) 提出的因果分析概念，指两个看似相关的变量因被第三个共同原因隔开而彼此不存在因果关系"
 type: concept
 domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - topic/causation

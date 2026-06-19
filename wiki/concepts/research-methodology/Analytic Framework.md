@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中超越参与者日常语言、使用文献中预设解释结构来分析数据的路径，与描述性方法构成基础—进阶的层次关系"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -7,10 +7,10 @@ aliases:
 summary: "Swick 与 Jones（2025）定义的创新类型，指整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，由医学翻译循环、团队科学和创新文化三者驱动，学术健康系统是其产学合作的理想促进者"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

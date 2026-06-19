@@ -8,7 +8,7 @@ aliases:
 summary: "2012 年发布的国际倡议，主张在研究评估中关注研究本身的影响力而非机械依赖期刊影响因子等文献计量指标，推动更全面的学术评价体系"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

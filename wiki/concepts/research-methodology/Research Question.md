@@ -6,10 +6,10 @@ aliases:
 summary: 研究设计中紧随目的陈述之后的路标，将研究目的进一步收窄为可回答的具体问题或预测，量化研究使用研究问题和假设，质性研究只使用研究问题，混合方法研究兼用三类研究问题
 type: concept
 domain: "research-methodology"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
 related_concepts:

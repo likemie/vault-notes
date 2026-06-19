@@ -4,6 +4,11 @@ aliases:
   - 酷儿理论
 summary: "一种建立在但超越女性主义理论的批判视角，探讨性别身份的社会建构、规范对越轨的压制，拒绝将个人简单归类并主张尊重其个体性。"
 type: concept
+domain: "educational-philosophy"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theory/critical
   - theory/queer

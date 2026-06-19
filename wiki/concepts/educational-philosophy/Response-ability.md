@@ -5,7 +5,7 @@ aliases:
 summary: "把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

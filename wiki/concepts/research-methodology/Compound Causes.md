@@ -6,6 +6,10 @@ aliases:
 summary: "多个原因只有共同作用时才施加因果力的因果结构类型，与单一充分原因和交互效应区分明确"
 type: concept
 domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - topic/causation

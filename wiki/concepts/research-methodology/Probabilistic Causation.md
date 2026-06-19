@@ -7,6 +7,10 @@ aliases:
 summary: "教育研究中因果性的一种刻画方式，主张因果关系是概率性的而非确定性的——原因提高效果发生的可能性而非保证效果发生"
 type: concept
 domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - topic/causation

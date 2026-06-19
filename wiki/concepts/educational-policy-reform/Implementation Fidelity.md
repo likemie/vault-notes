@@ -8,7 +8,7 @@ aliases:
 summary: "项目在真实学校中是否按设计要求和足够强度实施的概念，用于解释干预效果和证据评级为何不能只看显著性。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

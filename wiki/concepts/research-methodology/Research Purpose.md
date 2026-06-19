@@ -9,6 +9,10 @@ aliases:
 summary: '研究设计中明确研究意图和预期"交付物"的核心决策点，将研究动机转化为具体可陈述的目的，并通过目的决定随后的研究类型、研究问题和资料收集方式'
 type: concept
 domain: "research-methodology"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-design
   - source/textbook

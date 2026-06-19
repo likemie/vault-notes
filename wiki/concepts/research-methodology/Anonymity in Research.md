@@ -8,6 +8,10 @@ aliases:
 summary: "研究伦理中通过移除个人标识符使参与者身份无法被追踪的保护技术，包括化名、编码和聚合等多种手段，是保护参与者隐私的基本方式之一"
 type: concept
 domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance

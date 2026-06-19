@@ -6,7 +6,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -6,7 +6,7 @@ aliases:
 summary: "指研究者和学术机构将研究议程系统性对齐外部资助方、政策方或市场偏好的漂移现象，用于分析科学自主性的弱化。"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

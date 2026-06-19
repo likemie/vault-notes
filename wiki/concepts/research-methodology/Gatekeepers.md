@@ -8,7 +8,7 @@ aliases:
 summary: "研究现场中提供研究准入并允许或批准研究进行的个体，质性研究中获得守门人许可是一项关键的准入步骤"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -6,10 +6,10 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - germ
   - global-education-reform-movement

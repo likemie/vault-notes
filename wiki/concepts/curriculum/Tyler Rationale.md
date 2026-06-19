@@ -6,6 +6,11 @@ aliases:
   - 泰勒原理
 summary: "Tyler（1949）提出的课程开发四问框架，是现代主义、实证主义课程观的经典表达，将课程视为受控、有序、预定和可预测的过程。"
 type: concept
+domain: "curriculum"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum
   - paradigm/positivism

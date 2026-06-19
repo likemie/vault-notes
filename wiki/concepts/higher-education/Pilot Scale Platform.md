@@ -9,7 +9,7 @@ aliases:
 summary: "科技成果从实验室走向产业化的关键中间环节，提供技术熟化、工艺验证和小批量试生产服务，降低成果转化风险。"
 type: concept
 domain: "higher-education"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

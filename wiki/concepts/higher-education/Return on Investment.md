@@ -8,7 +8,7 @@ aliases:
 summary: "Swick 与 Jones（2025）在产学合作语境中提出的概念，指不同合作方对合作回报的根本差异化定义，分歧本身是合作的驱动力而非障碍，须通过终端用户中心的透镜重新审视各方回报"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

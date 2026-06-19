@@ -4,7 +4,7 @@ aliases: [研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁，好假设必须陈述变量关系且蕴含明确的检验含义。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

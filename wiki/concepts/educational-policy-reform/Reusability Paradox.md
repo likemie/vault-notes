@@ -5,7 +5,7 @@ aliases:
 summary: "Wiley提出的学习对象可重用性悖论，被Pellegrini与Vivanet用于说明教育项目越贴合特定情境就越难跨情境复用，越通用则越可能难以满足具体教育需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

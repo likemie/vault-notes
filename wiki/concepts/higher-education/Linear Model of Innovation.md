@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长的单向因果链的创新过程概念模型，战后成为全球科学政策资源配置的主导理论依据，因其低估其他创新来源而受到 innovation studies 的系统性质疑"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/innovation-studies
   - theme/science-policy

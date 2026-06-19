@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 16
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

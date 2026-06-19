@@ -8,7 +8,7 @@ aliases:
 summary: "描述国家治理模式从传统科层制统治转向多元行动者网络化治理的变化，教育治理在国家、国际组织、企业和非政府机构之间分工"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

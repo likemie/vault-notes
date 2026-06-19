@@ -6,7 +6,7 @@ aliases:
 summary: "质性研究中研究者研究自身组织、朋友或直接工作环境的情境，常导致信息披露妥协和权力不平衡问题"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

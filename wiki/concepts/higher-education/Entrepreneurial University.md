@@ -6,7 +6,7 @@ aliases:
 summary: "Etzkowitz 等（2000）提出的大学模式，大学通过文化适应、组织重构和激励机制主动寻求产业合作与产业资助，区别于传统的象牙塔模式"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

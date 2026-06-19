@@ -8,6 +8,11 @@ aliases:
   - 基础研究
 summary: "由研究者好奇心驱动的开放式、探索性研究，旨在贡献原创知识、扩展理论前沿，区别于理论已被给定、议程由委托方设定的评估研究或应用研究。"
 type: concept
+domain: "research-methodology"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-methods
   - topic/evaluation

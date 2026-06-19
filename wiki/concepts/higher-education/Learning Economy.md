@@ -5,7 +5,7 @@ aliases:
 summary: "Lundvall和Johnson提出的经济分析视角，强调在全球化与技术加速变迁中，竞争力取决于学习能力而非静态知识存量，为多元知识来源和创新过程中组织学习的必要性提供了宏观语境"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

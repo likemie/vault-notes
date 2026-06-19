@@ -6,6 +6,11 @@ aliases:
   - 研究使用
 summary: "研究知识进入政策制定过程的多种路径，Weiss（1991b）将其归纳为研发、问题解决、互动和战术四种模型；研究利用的效果受政治可接受性、传播方式和研究者-决策者文化张力等多重因素影响。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - topic/educational-policy
   - topic/evaluation

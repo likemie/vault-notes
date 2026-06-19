@@ -6,7 +6,7 @@ aliases:
 summary: "实验中向受试者提供的关于研究目的和程序的一个表面可信但可能不真实的解释，用于防止受试者知晓真实研究目的后改变其行为"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

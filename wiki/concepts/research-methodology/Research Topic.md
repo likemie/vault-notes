@@ -4,7 +4,7 @@ aliases: ["研究主题", "研究选题", "research subject", "study topic", "wo
 summary: "研究设计的出发点，指计划研究的主题或题材，涉及草拟工作标题、评估研究可行性与贡献性、以及确定研究角度"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

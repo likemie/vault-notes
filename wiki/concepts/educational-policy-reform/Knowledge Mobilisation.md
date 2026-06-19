@@ -8,7 +8,7 @@ aliases:
 summary: "教育研究利用领域的概念，指研究知识通过传播、翻译、中介与共创进入实践和政策决策的过程，常用于解释证据为何不会自动转化为教学行动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

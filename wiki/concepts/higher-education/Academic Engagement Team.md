@@ -8,7 +8,7 @@ aliases:
 summary: "企业内部以预算责任负责领导和管理大学合作的团队，通常以叠加层形式嵌入既有组织结构，是产学合作在企业侧的核心组织载体"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

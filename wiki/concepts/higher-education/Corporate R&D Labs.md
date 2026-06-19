@@ -10,7 +10,7 @@ aliases:
 summary: "二十世纪早中期大企业建立的内部中央研发机构，以贝尔实验室、Xerox PARC、IBM Research 为代表，从事从基础研究到产品开发的全链条科研，1980年代后衰退并转向开放创新"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

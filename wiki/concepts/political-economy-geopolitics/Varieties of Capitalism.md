@@ -7,7 +7,7 @@ aliases:
 summary: "区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

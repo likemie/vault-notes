@@ -7,7 +7,11 @@ aliases:
   - Confidentiality
 summary: 研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一
 type: concept
-domain: research-methodology
+domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance

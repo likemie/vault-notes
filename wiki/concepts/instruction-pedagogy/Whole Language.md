@@ -6,10 +6,10 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - whole-language
   - literacy

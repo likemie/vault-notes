@@ -6,7 +6,7 @@ aliases:
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 domain: "chinese-philosophy"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

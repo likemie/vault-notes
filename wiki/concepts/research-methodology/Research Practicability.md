@@ -9,6 +9,10 @@ aliases:
 summary: "研究规划的实操评估维度，涵盖研究准入、时间资源、研究者特质与专长、资源条件和研究范围管理，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-design
   - source/textbook

@@ -8,6 +8,10 @@ aliases:
 summary: "研究中研究者有意隐瞒真实目的、条件或误导参与者的行为，涉及不告知全部真相，在社会心理学实验和隐蔽研究中尤为常见，是研究伦理中最具争议的实践之一"
 type: concept
 domain: "research-methodology"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance

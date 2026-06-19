@@ -6,6 +6,10 @@ aliases:
 summary: "研究因果性的质性路径，通过行动者自身对动机、理由和情境的叙事来揭示因果过程如何运作，与罗生门效应和多重因果路径密切相关"
 type: concept
 domain: "research-methodology"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - topic/causation

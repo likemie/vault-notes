@@ -10,6 +10,10 @@ aliases:
 summary: "因果分析中区分因果条件类型的逻辑工具：必要条件是不可缺少的前提，充分条件是单独足以产生效果的条件"
 type: concept
 domain: "research-methodology"
+related_count: 4
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - topic/causation

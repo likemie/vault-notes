@@ -8,6 +8,10 @@ aliases:
 summary: "研究规划中的核心原则，指研究方法、研究设计、资料收集工具和抽样策略应与研究目的相匹配，研究目的决定随后的方法选择而非相反"
 type: concept
 domain: "research-methodology"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-design
   - source/textbook

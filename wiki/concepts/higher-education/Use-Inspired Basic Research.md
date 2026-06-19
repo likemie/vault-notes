@@ -9,10 +9,10 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/innovation"
   - "theme/research-policy"

@@ -7,10 +7,10 @@ aliases:
 summary: "毕业出路分化中的一种类型，以目标掌控和强价值信念结合为特征，既能策略性行动又有稳定意义感支撑，倾向主动设定长期发展目标"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - self-driven-mode
   - higher-education
