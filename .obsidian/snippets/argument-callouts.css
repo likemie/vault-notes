@@ -8733,6 +8733,130 @@
   background: rgba(86, 132, 102, 0.11);
 }
 
+/* ─── O. [!def] 容器 hover — 左边框发光 + 阴影加深 ───────── */
+.callout[data-callout="def"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="def"]:hover {
+  border-left-color: rgb(90, 72, 175);
+  box-shadow:
+    -3px 0 18px rgba(75, 60, 150, 0.28),
+    0 6px 22px rgba(75, 60, 150, 0.13);
+}
+
+/* ─── P. [!concept-lens] 卡片 hover 上浮 ─────────────────── */
+.callout[data-callout="concept-lens"] > .callout-content > ul > li {
+  transition:
+    transform     0.17s ease,
+    box-shadow    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="concept-lens"] > .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(92, 82, 168, 0.20);
+  border-color: rgba(92, 82, 168, 0.28);
+}
+
+/* ─── Q. [!citation-card] 容器 hover — 边框发光 ──────────── */
+.callout[data-callout="citation-card"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="citation-card"]:hover {
+  border-left-color: rgb(115, 132, 148);
+  box-shadow:
+    -3px 0 14px rgba(96, 113, 128, 0.20),
+    0 4px 16px rgba(96, 113, 128, 0.09);
+}
+
+/* ─── R. [!boundary] 容器 hover — outline 加深 ───────────── */
+.callout[data-callout="boundary"] {
+  transition:
+    outline-color  0.18s ease,
+    box-shadow     0.18s ease;
+}
+
+.callout[data-callout="boundary"]:hover {
+  outline-color: rgba(34, 139, 94, 0.65);
+  box-shadow: 0 4px 18px rgba(34, 139, 94, 0.14);
+}
+
+/* ─── S. [!feature] 卡片 hover 上浮 ─────────────────────── */
+.callout[data-callout="feature"] > .callout-content > ul > li {
+  transition:
+    transform     0.17s ease,
+    box-shadow    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="feature"] > .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(20, 148, 108, 0.18);
+  border-color: rgba(20, 148, 108, 0.35);
+}
+
+/* ─── T. [!warrant] 容器 hover — 左边框发光 ─────────────── */
+.callout[data-callout="warrant"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="warrant"]:hover {
+  border-left-color: rgb(195, 138, 62);
+  box-shadow:
+    -3px 0 14px rgba(172, 118, 42, 0.22),
+    0 4px 16px rgba(172, 118, 42, 0.09);
+}
+
+/* ─── U. [!implication] 卡片 hover 上浮 ─────────────────── */
+.callout[data-callout="implication"] > .callout-content > ul > li {
+  transition:
+    transform     0.16s ease,
+    box-shadow    0.16s ease,
+    border-color  0.16s ease;
+}
+
+.callout[data-callout="implication"] > .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 7px 18px rgba(42, 128, 96, 0.18);
+  border-color: rgba(42, 128, 96, 0.28);
+}
+
+/* ─── V. [!exegesis] 容器 hover — 边框 + 阴影加深 ────────── */
+.callout[data-callout="exegesis"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="exegesis"]:hover {
+  border-left-color: rgb(220, 158, 65);
+  box-shadow:
+    -3px 0 16px rgba(200, 140, 55, 0.26),
+    0 6px 20px rgba(200, 140, 55, 0.11);
+}
+
+/* ─── W. [!logic-map] 容器 hover — 边框发光 ─────────────── */
+.callout[data-callout="logic-map"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="logic-map"]:hover {
+  border-left-color: rgb(105, 130, 60);
+  box-shadow:
+    -3px 0 14px rgba(85, 107, 47, 0.22),
+    0 6px 20px rgba(85, 107, 47, 0.10);
+}
+
 
 /* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
