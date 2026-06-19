@@ -4451,6 +4451,214 @@
 .theme-dark .callout[data-callout="meta-table"] tbody tr:nth-child(even) td { background: rgba(100,160,220,0.04); }
 .theme-dark .callout[data-callout="meta-table"] tbody tr:hover td { background: rgba(100,160,220,0.08); }
 
+/* ─── effect-table（一级研究效应量表 — 青蓝） ──── */
+.callout[data-callout="effect-table"] {
+  --callout-color: 35, 130, 150;
+  --callout-icon: lucide-flask-conical;
+  background: rgba(35, 130, 150, 0.03);
+  border: 1px solid rgba(35, 130, 150, 0.2);
+  border-left: 4px solid rgba(35, 130, 150, 0.6);
+  border-radius: 10px;
+}
+
+.callout[data-callout="effect-table"] > .callout-title .callout-title-inner::before {
+  content: "ES";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 6px;
+  background: rgba(35, 130, 150, 0.13);
+  color: rgb(22, 95, 112);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.callout[data-callout="effect-table"] > .callout-content { padding: 0; }
+
+.callout[data-callout="effect-table"] table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  margin-block: 0;
+  border-collapse: collapse;
+}
+
+/* 列宽：研究/干预/结果变量/n_t/n_c/d/SE/设计 = 22+14+15+9+9+9+9+13=100% */
+.callout[data-callout="effect-table"] th:nth-child(1),
+.callout[data-callout="effect-table"] td:nth-child(1) { width: 22%; }
+.callout[data-callout="effect-table"] th:nth-child(2),
+.callout[data-callout="effect-table"] td:nth-child(2) { width: 14%; }
+.callout[data-callout="effect-table"] th:nth-child(3),
+.callout[data-callout="effect-table"] td:nth-child(3) { width: 15%; }
+.callout[data-callout="effect-table"] th:nth-child(4),
+.callout[data-callout="effect-table"] td:nth-child(4) { width: 9%; text-align: center; }
+.callout[data-callout="effect-table"] th:nth-child(5),
+.callout[data-callout="effect-table"] td:nth-child(5) { width: 9%; text-align: center; }
+.callout[data-callout="effect-table"] th:nth-child(6),
+.callout[data-callout="effect-table"] td:nth-child(6) { width: 9%; text-align: center; }
+.callout[data-callout="effect-table"] th:nth-child(7),
+.callout[data-callout="effect-table"] td:nth-child(7) { width: 9%; text-align: center; }
+.callout[data-callout="effect-table"] th:nth-child(8),
+.callout[data-callout="effect-table"] td:nth-child(8) { width: 13%; text-align: center; }
+
+.callout[data-callout="effect-table"] th,
+.callout[data-callout="effect-table"] td {
+  vertical-align: middle;
+  border-bottom: 1px solid rgba(35, 130, 150, 0.1);
+  line-height: 1.45;
+  padding: 0.32rem 0.48rem;
+  font-size: var(--fs-table);
+}
+
+.callout[data-callout="effect-table"] thead th {
+  background: rgba(35, 130, 150, 0.09);
+  font-weight: 700;
+  font-size: var(--fs-caption);
+  color: rgb(22, 95, 112);
+  border-bottom: 1.5px solid rgba(35, 130, 150, 0.18);
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+.callout[data-callout="effect-table"] thead th:nth-child(1),
+.callout[data-callout="effect-table"] thead th:nth-child(2),
+.callout[data-callout="effect-table"] thead th:nth-child(3) { text-align: left; }
+
+.callout[data-callout="effect-table"] tbody tr:last-child td { border-bottom: none; }
+.callout[data-callout="effect-table"] tbody tr:nth-child(even) td {
+  background: rgba(35, 130, 150, 0.028);
+}
+.callout[data-callout="effect-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="effect-table"] tbody tr:hover td {
+  background: rgba(35, 130, 150, 0.075);
+}
+
+.theme-dark .callout[data-callout="effect-table"] {
+  --callout-color: 78, 198, 218;
+  background: rgba(35, 130, 150, 0.06);
+  border-color: rgba(35, 130, 150, 0.3);
+  border-left-color: rgba(78, 198, 218, 0.55);
+}
+.theme-dark .callout[data-callout="effect-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(78, 198, 218, 0.16);
+  color: rgb(78, 198, 218);
+}
+.theme-dark .callout[data-callout="effect-table"] thead th {
+  background: rgba(35, 130, 150, 0.13);
+  color: rgb(78, 198, 218);
+  border-bottom-color: rgba(35, 130, 150, 0.24);
+}
+.theme-dark .callout[data-callout="effect-table"] tbody tr:nth-child(even) td {
+  background: rgba(35, 130, 150, 0.05);
+}
+.theme-dark .callout[data-callout="effect-table"] tbody tr:hover td {
+  background: rgba(35, 130, 150, 0.12);
+}
+
+/* ─── ma-table（元分析汇总表 — 深紫） ──── */
+.callout[data-callout="ma-table"] {
+  --callout-color: 88, 68, 160;
+  --callout-icon: lucide-layers;
+  background: rgba(88, 68, 160, 0.03);
+  border: 1px solid rgba(88, 68, 160, 0.18);
+  border-left: 4px solid rgba(88, 68, 160, 0.55);
+  border-radius: 10px;
+}
+
+.callout[data-callout="ma-table"] > .callout-title .callout-title-inner::before {
+  content: "MA";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 6px;
+  background: rgba(88, 68, 160, 0.11);
+  color: rgb(60, 44, 128);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.callout[data-callout="ma-table"] > .callout-content { padding: 0; }
+
+.callout[data-callout="ma-table"] table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  margin-block: 0;
+  border-collapse: collapse;
+}
+
+/* 列宽：元分析/k/N/ES/95%CI/I²/GRADE = 24+7+10+10+17+10+22=100% */
+.callout[data-callout="ma-table"] th:nth-child(1),
+.callout[data-callout="ma-table"] td:nth-child(1) { width: 24%; }
+.callout[data-callout="ma-table"] th:nth-child(2),
+.callout[data-callout="ma-table"] td:nth-child(2) { width: 7%;  text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(3),
+.callout[data-callout="ma-table"] td:nth-child(3) { width: 10%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(4),
+.callout[data-callout="ma-table"] td:nth-child(4) { width: 10%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(5),
+.callout[data-callout="ma-table"] td:nth-child(5) { width: 17%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(6),
+.callout[data-callout="ma-table"] td:nth-child(6) { width: 10%; text-align: center; }
+.callout[data-callout="ma-table"] th:nth-child(7),
+.callout[data-callout="ma-table"] td:nth-child(7) { width: 22%; text-align: center; }
+
+.callout[data-callout="ma-table"] th,
+.callout[data-callout="ma-table"] td {
+  vertical-align: middle;
+  border-bottom: 1px solid rgba(88, 68, 160, 0.09);
+  line-height: 1.45;
+  padding: 0.32rem 0.48rem;
+  font-size: var(--fs-table);
+}
+
+.callout[data-callout="ma-table"] thead th {
+  background: rgba(88, 68, 160, 0.09);
+  font-weight: 700;
+  font-size: var(--fs-caption);
+  color: rgb(60, 44, 128);
+  border-bottom: 1.5px solid rgba(88, 68, 160, 0.16);
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+.callout[data-callout="ma-table"] thead th:nth-child(1) { text-align: left; }
+
+.callout[data-callout="ma-table"] tbody tr:last-child td { border-bottom: none; }
+.callout[data-callout="ma-table"] tbody tr:nth-child(even) td {
+  background: rgba(88, 68, 160, 0.028);
+}
+.callout[data-callout="ma-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="ma-table"] tbody tr:hover td {
+  background: rgba(88, 68, 160, 0.065);
+}
+
+.theme-dark .callout[data-callout="ma-table"] {
+  --callout-color: 155, 132, 230;
+  background: rgba(88, 68, 160, 0.06);
+  border-color: rgba(88, 68, 160, 0.28);
+  border-left-color: rgba(155, 132, 230, 0.5);
+}
+.theme-dark .callout[data-callout="ma-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(155, 132, 230, 0.18);
+  color: rgb(155, 132, 230);
+}
+.theme-dark .callout[data-callout="ma-table"] thead th {
+  background: rgba(88, 68, 160, 0.14);
+  color: rgb(155, 132, 230);
+  border-bottom-color: rgba(88, 68, 160, 0.22);
+}
+.theme-dark .callout[data-callout="ma-table"] tbody tr:nth-child(even) td {
+  background: rgba(88, 68, 160, 0.05);
+}
+.theme-dark .callout[data-callout="ma-table"] tbody tr:hover td {
+  background: rgba(88, 68, 160, 0.12);
+}
+
 
 /* ═══════════════════════════════════════════════════════════
    LAYER — 方法论层级导言（铜色 · 数据管道标志）
