@@ -64,7 +64,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 实施情况
 
-> [!actor-grid] 实施主体与机制
+> [!actor-grid] 实施角色分工
 > - **发布主体**：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **执行主体**：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **适用对象**：说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -74,6 +74,30 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **中央 / 上级设计**：政策如何被解释、分解或下达。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **地方 / 机构执行**：政策如何进入学校、机构、项目或地方治理。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **反馈 / 调整**：执行中如何评估、修订、扩展或收缩。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+---
+
+## 行动者与利益相关者
+
+%% 可选节。信息充分时填写，运用政策行动者理论与利益相关者理论；信息不足时整节删除。prop-table 按实际行动者数量增删行；actor-grid 四象限可根据实际调整标签。 %%
+
+> [!actor-grid] 权力—利益矩阵
+> 按「权力高低 × 利益高低」将关键利益相关者分配到四个象限。([[Argument_Author_Year_Journal|(Author, Year, p. X)]])
+> - **高权力 · 高利益 — 关键行动者**：[[Person_or_Fact]] — 资源基础、核心诉求与典型策略。
+> - **高权力 · 低利益 — 潜在否决者或盟友**：[[Person_or_Fact]] — 在何种条件下被动员或维持中立。
+> - **低权力 · 高利益 — 受影响群体**：[[Person_or_Fact]] — 利益如何被代表、被忽视或被工具化。
+> - **低权力 · 低利益 — 边缘行动者**：[[Person_or_Fact]] — 是否可能因外部冲击被激活。
+
+> [!prop-table]- 关键行动者属性
+> | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
+> |:---|:---|:---|:---|:---|
+> | [[行动者 A]] | 权威 / 资金 / 信息 / 组织 | 说明 | 支持 / 反对 / 中立 | 倡导 / 联盟 / 阻止 / 适应 |
+> | [[行动者 B]] | 权威 / 资金 / 信息 / 组织 | 说明 | 支持 / 反对 / 中立 | 倡导 / 联盟 / 阻止 / 适应 |
+
+> [!tension]- 联盟结构与冲突
+> - **支持联盟**：哪些行动者结盟推动政策，共享什么利益框架或规范叙事。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **反对联盟**：哪些行动者联盟阻止或修改政策，资源与策略是什么。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **关键分歧**：联盟之间在政策目标、工具、资源分配或执行责任上的核心争议。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
@@ -95,6 +119,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 争议与评论
+
+%% [!tension] 聚焦政策本身的目标与工具争议；行动者之间的政治冲突已在「行动者与利益相关者」节的 [!tension]- 联盟结构与冲突 中处理，不重复。 %%
 
 > [!tension] 争议焦点
 > - **目标争议**：政策目标是否合理、优先级是否恰当。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
