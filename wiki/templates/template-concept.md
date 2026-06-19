@@ -124,6 +124,19 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
+## 争议与批评
+
+%% 根据实际材料选用 [!tension]、[!warning]、[!tension-table] 等；没有充分材料时可删除本节。 %%
+
+> [!tension] 核心争议
+> 争议焦点说明——各方立场不是孰对孰错，而是理论路径差异。
+> - **立场 A** — 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **立场 B** — 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!warning] 方法论批评与适用局限
+> - 批评描述，说明批评对象和立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+---
 ## 实证数据
 
 %% 三类数据分开记录：一级研究效应量（effect-table）、元分析汇总（ma-table）、其他零散发现或应用案例（evidence-grid-a）。没有量化数据时可只用 evidence-grid-a。 %%
@@ -140,18 +153,3 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念，或说明应用案例与迁移条件。
-
----
-
-## 争议与批评
-
-%% 根据实际材料选用 [!tension]、[!warning]、[!tension-table] 等；没有充分材料时可删除本节。 %%
-
-> [!tension] 核心争议
-> 争议焦点说明——各方立场不是孰对孰错，而是理论路径差异。
-> - **立场 A** — 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场 B** — 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!warning] 方法论批评与适用局限
-> - 批评描述，说明批评对象和立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
