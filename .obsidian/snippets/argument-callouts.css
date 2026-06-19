@@ -7357,9 +7357,9 @@
      · 右上角 ⊞ 水印（极淡装饰）
    ═══════════════════════════════════════════════════════════ */
 
-.callout[data-callout="data-table"] {
+.callout[data-callout="entry-map"] {
   --callout-color: 100, 112, 158;
-  --callout-icon: lucide-table-2;
+  --callout-icon: lucide-grid-2x2;
   position: relative;
   overflow: hidden;
   background:
@@ -7372,7 +7372,7 @@
 }
 
 /* 右上角水印 */
-.callout[data-callout="data-table"]::after {
+.callout[data-callout="entry-map"]::after {
   content: "⊞";
   position: absolute;
   top: -0.6rem;
@@ -7386,15 +7386,15 @@
 }
 
 /* 标题栏 */
-.callout[data-callout="data-table"] > .callout-title {
+.callout[data-callout="entry-map"] > .callout-title {
   color: rgb(100, 112, 158);
   font-weight: 760;
   letter-spacing: 0.01em;
   border-bottom: 1px solid rgba(100, 112, 158, 0.12);
 }
 
-.callout[data-callout="data-table"] > .callout-title .callout-title-inner::before {
-  content: "TABLE";
+.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::before {
+  content: "MAP";
   display: inline-block;
   margin-right: 0.55rem;
   padding: 1px 7px;
@@ -7408,13 +7408,13 @@
 }
 
 /* 内容区：零内边距，表格边到边 */
-.callout[data-callout="data-table"] > .callout-content {
+.callout[data-callout="entry-map"] > .callout-content {
   padding: 0;
   overflow-x: auto;
 }
 
 /* ─── 表格基础 ───────────────────────────────────────── */
-.callout[data-callout="data-table"] table {
+.callout[data-callout="entry-map"] table {
   width: 100%;
   border-collapse: collapse;
   font-size: var(--fs-table);
@@ -7423,11 +7423,11 @@
 }
 
 /* thead */
-.callout[data-callout="data-table"] thead tr {
+.callout[data-callout="entry-map"] thead tr {
   background: rgba(100, 112, 158, 0.10);
 }
 
-.callout[data-callout="data-table"] thead th {
+.callout[data-callout="entry-map"] thead th {
   padding: 0.58rem 1.05rem;
   border-bottom: 2px solid rgba(100, 112, 158, 0.28);
   color: rgb(100, 112, 158);
@@ -7439,29 +7439,29 @@
 }
 
 /* tbody */
-.callout[data-callout="data-table"] tbody td {
+.callout[data-callout="entry-map"] tbody td {
   padding: 0.54rem 1.05rem;
   border-bottom: 1px solid rgba(100, 112, 158, 0.07);
   vertical-align: top;
 }
 
-.callout[data-callout="data-table"] tbody tr:last-child td {
+.callout[data-callout="entry-map"] tbody tr:last-child td {
   border-bottom: none;
 }
 
 /* 隔行底色 */
-.callout[data-callout="data-table"] tbody tr:nth-child(even) {
+.callout[data-callout="entry-map"] tbody tr:nth-child(even) {
   background: rgba(100, 112, 158, 0.035);
 }
 
 /* hover 高亮 */
-.callout[data-callout="data-table"] tbody tr:hover {
+.callout[data-callout="entry-map"] tbody tr:hover {
   background: rgba(100, 112, 158, 0.075);
   transition: background 0.12s ease;
 }
 
 /* 首列：类型／维度标签，颜色强调 */
-.callout[data-callout="data-table"] tbody td:first-child {
+.callout[data-callout="entry-map"] tbody td:first-child {
   color: rgb(100, 112, 158);
   font-size: var(--fs-caption);
   font-weight: 700;
@@ -7470,32 +7470,32 @@
 }
 
 /* ─── Dark mode ─────────────────────────────────────── */
-.theme-dark .callout[data-callout="data-table"] {
+.theme-dark .callout[data-callout="entry-map"] {
   --callout-color: 152, 164, 212;
 }
 
-.theme-dark .callout[data-callout="data-table"] thead tr {
+.theme-dark .callout[data-callout="entry-map"] thead tr {
   background: rgba(152, 164, 212, 0.09);
 }
 
-.theme-dark .callout[data-callout="data-table"] thead th {
+.theme-dark .callout[data-callout="entry-map"] thead th {
   border-bottom-color: rgba(152, 164, 212, 0.26);
   color: rgb(152, 164, 212);
 }
 
-.theme-dark .callout[data-callout="data-table"] tbody td {
+.theme-dark .callout[data-callout="entry-map"] tbody td {
   border-bottom-color: rgba(152, 164, 212, 0.07);
 }
 
-.theme-dark .callout[data-callout="data-table"] tbody tr:nth-child(even) {
+.theme-dark .callout[data-callout="entry-map"] tbody tr:nth-child(even) {
   background: rgba(152, 164, 212, 0.04);
 }
 
-.theme-dark .callout[data-callout="data-table"] tbody tr:hover {
+.theme-dark .callout[data-callout="entry-map"] tbody tr:hover {
   background: rgba(152, 164, 212, 0.09);
 }
 
-.theme-dark .callout[data-callout="data-table"] tbody td:first-child {
+.theme-dark .callout[data-callout="entry-map"] tbody td:first-child {
   color: rgb(152, 164, 212);
 }
 
@@ -8459,8 +8459,8 @@
   border-color: rgba(220, 150, 60, 0.35);
 }
 
-/* ─── data-table（数据表格 — 蓝灰数位感，紧凑行） ───────── */
-.callout[data-callout="data-table"] {
+/* ─── entry-map（条目关联表 — 蓝灰数位感，紧凑行） ───────── */
+.callout[data-callout="entry-map"] {
   --callout-color: 80, 100, 140;
   --callout-icon: lucide-table;
   background:
@@ -8474,7 +8474,7 @@
   margin-block: 0.8rem 0.5rem;
 }
 
-.callout[data-callout="data-table"] > .callout-title {
+.callout[data-callout="entry-map"] > .callout-title {
   color: rgb(60, 75, 110);
   font-weight: 700;
   font-size: var(--fs-body);
@@ -8483,7 +8483,7 @@
   border-bottom: 1px dashed rgba(80, 100, 140, 0.18);
 }
 
-.callout[data-callout="data-table"] > .callout-title .callout-title-inner::before {
+.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::before {
   content: "DATA";
   display: inline-block;
   font-size: var(--fs-label);
@@ -8494,7 +8494,7 @@
   vertical-align: middle;
 }
 
-.callout[data-callout="data-table"] table {
+.callout[data-callout="entry-map"] table {
   display: table;
   width: 100%;
   table-layout: auto;
@@ -8504,15 +8504,15 @@
   line-height: 1.35;
 }
 
-.callout[data-callout="data-table"] th,
-.callout[data-callout="data-table"] td {
+.callout[data-callout="entry-map"] th,
+.callout[data-callout="entry-map"] td {
   padding: 0.28rem 0.55rem;
   vertical-align: middle;
   border-bottom: 1px solid rgba(80, 100, 140, 0.08);
   text-align: center;
 }
 
-.callout[data-callout="data-table"] th {
+.callout[data-callout="entry-map"] th {
   font-weight: 700;
   font-size: 0.82em;
   letter-spacing: 0.03em;
@@ -8521,27 +8521,27 @@
   white-space: nowrap;
 }
 
-.callout[data-callout="data-table"] td {
+.callout[data-callout="entry-map"] td {
   font-size: var(--fs-table);
   color: rgb(50, 50, 55);
 }
 
-.callout[data-callout="data-table"] th:first-child,
-.callout[data-callout="data-table"] td:first-child {
+.callout[data-callout="entry-map"] th:first-child,
+.callout[data-callout="entry-map"] td:first-child {
   text-align: left;
   font-weight: 600;
   color: rgb(60, 75, 110);
 }
 
-.callout[data-callout="data-table"] tbody tr:nth-child(even) td {
+.callout[data-callout="entry-map"] tbody tr:nth-child(even) td {
   background: rgba(80, 100, 140, 0.025);
 }
 
-.callout[data-callout="data-table"] tbody tr:last-child td {
+.callout[data-callout="entry-map"] tbody tr:last-child td {
   border-bottom: none;
 }
 
-.callout[data-callout="data-table"] .callout-content > p {
+.callout[data-callout="entry-map"] .callout-content > p {
   font-size: 0.85em;
   color: rgb(100, 100, 110);
   margin-block: 0.25rem 0;
@@ -8549,31 +8549,31 @@
 }
 
 /* dark */
-.theme-dark .callout[data-callout="data-table"] {
+.theme-dark .callout[data-callout="entry-map"] {
   background:
     linear-gradient(180deg, rgba(100, 120, 170, 0.06), rgba(100, 120, 170, 0.015)),
     var(--background-primary);
 }
 
-.theme-dark .callout[data-callout="data-table"] > .callout-title {
+.theme-dark .callout[data-callout="entry-map"] > .callout-title {
   color: rgb(130, 150, 200);
 }
 
-.theme-dark .callout[data-callout="data-table"] th {
+.theme-dark .callout[data-callout="entry-map"] th {
   color: rgb(130, 150, 200);
   background: rgba(100, 120, 170, 0.1);
 }
 
-.theme-dark .callout[data-callout="data-table"] td {
+.theme-dark .callout[data-callout="entry-map"] td {
   color: rgb(190, 195, 205);
 }
 
-.theme-dark .callout[data-callout="data-table"] th:first-child,
-.theme-dark .callout[data-callout="data-table"] td:first-child {
+.theme-dark .callout[data-callout="entry-map"] th:first-child,
+.theme-dark .callout[data-callout="entry-map"] td:first-child {
   color: rgb(140, 160, 210);
 }
 
-.theme-dark .callout[data-callout="data-table"] tbody tr:nth-child(even) td {
+.theme-dark .callout[data-callout="entry-map"] tbody tr:nth-child(even) td {
   background: rgba(100, 120, 170, 0.04);
 }
 
