@@ -42,15 +42,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | 第X章 章节标题 | 若不分章节建页，保留普通章节名即可。 | [[Concept]]、[[Method]]、[[Theory]] |
 
 > [!knowledge-map]- 知识路线图
-> 通常先占位。等章节处理较完整后，再把全书知识推进关系画出来。
->
-> ```mermaid
-> flowchart LR
->   A["起点"] --> B["核心概念"]
->   B --> C["方法/框架"]
->   C --> D["案例/练习"]
->   D --> E["综合应用"]
-> ```
+> ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_Knowledge_Map.jpg)
 
 ---
 
@@ -60,8 +52,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 #### 概念地图
 
-> [!knowledge-map]- 第X章概念地图
-> 通常先占位。可以放章节概念图、Mermaid、图片链接，或列出待绘制的概念关系。
+> [!knowledge-map]- 第X章：概念地图
+> ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Concept_Map.jpg)
 
 #### 章节内容
 
@@ -74,8 +66,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **知识点二**：说明它与上一知识点的关系。
 > - **知识点三**：说明它如何转化为方法、案例或练习。
 
-> [!example]- 图表、案例或练习
-> 说明这个图表/案例/练习在本章中教会读者什么。必要时附图或链接到对应条目。
+> [!example]- 图X-X：图名或案例名
+> ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
+
+%% <book-folder> 与 sources/ 下的教材文件夹名一致。案例或练习无图时，删除图片行，改为说明文字或链接到对应条目。 %%
 
 #### 关键引用
 
