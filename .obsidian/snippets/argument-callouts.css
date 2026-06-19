@@ -7347,6 +7347,110 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   PERSON-PROFILE — 专项视觉增强
+   在共享 person callout 基础上单独强化 person-profile：
+     · 双层辐射渐变背景（右上光晕 + 斜向叠层）
+     · 右侧 ◎ 大字水印（衬托但不抢眼）
+     · 三卡片布局：身份位置 + 核心角色各 span 3，代表贡献满行
+     · 卡片标签底部分隔线，字号缩小至 --fs-caption
+     · 代表贡献卡：左侧强调边 + 横向渐变背景
+     · 代表贡献内 wikilink → pill 标签样式
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── 整体背景 + 水印容器 ──────────────────────────── */
+.callout[data-callout="person-profile"] {
+  --callout-color: 92, 103, 154;
+  --callout-icon: lucide-user-round;
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse at 92% 10%, rgba(92, 103, 154, 0.20) 0%, transparent 52%),
+    linear-gradient(155deg, rgba(92, 103, 154, 0.12) 0%, rgba(92, 103, 154, 0.025) 52%),
+    var(--background-primary);
+  border: 1px solid rgba(92, 103, 154, 0.22);
+  border-left: 6px solid rgb(92, 103, 154);
+  box-shadow: 0 8px 24px rgba(92, 103, 154, 0.11);
+}
+
+.callout[data-callout="person-profile"]::after {
+  content: "◎";
+  position: absolute;
+  top: -0.9rem;
+  right: 0.5rem;
+  color: rgba(92, 103, 154, 0.065);
+  font-size: 7.5rem;
+  font-weight: 900;
+  line-height: 1;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.callout[data-callout="person-profile"] > .callout-title,
+.callout[data-callout="person-profile"] > .callout-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* ─── 三卡片布局 ───────────────────────────────────────
+   共享规则把 3 items 设为 span 2（三列）；
+   person-profile 改为：前两项 span 3，末项满行。 */
+.callout[data-callout="person-profile"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+  grid-column: span 3;
+}
+
+.callout[data-callout="person-profile"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li:last-child {
+  grid-column: 1 / -1;
+  border-left: 3px solid rgba(92, 103, 154, 0.50);
+  background:
+    linear-gradient(90deg,
+      rgba(92, 103, 154, 0.12) 0%,
+      rgba(92, 103, 154, 0.04) 52%,
+      transparent 100%),
+    rgba(92, 103, 154, 0.04);
+}
+
+/* ─── 卡片标签：底部分隔线 + caption 字号 ────────────── */
+.callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.34rem;
+  padding-bottom: 0.26rem;
+  border-bottom: 1px solid rgba(92, 103, 154, 0.17);
+  color: rgb(92, 103, 154);
+  font-size: var(--fs-caption);
+  font-weight: 750;
+  letter-spacing: 0.04em;
+}
+
+/* ─── 代表贡献内 wikilink → pill 标签 ─────────────── */
+.callout[data-callout="person-profile"] > .callout-content > ul > li:last-child a.internal-link {
+  display: inline-block;
+  margin: 0.1rem 0.18rem 0.1rem 0;
+  padding: 0.07rem 0.55rem;
+  border: 1px solid rgba(92, 103, 154, 0.24);
+  border-radius: 999px;
+  background: rgba(92, 103, 154, 0.09);
+  font-weight: 650;
+  font-size: var(--fs-caption);
+  text-decoration: none;
+}
+
+/* ─── 深色模式 ─────────────────────────────────────── */
+.theme-dark .callout[data-callout="person-profile"] {
+  --callout-color: 154, 166, 225;
+}
+
+.theme-dark .callout[data-callout="person-profile"] > .callout-content > ul:has(> li:nth-child(3):last-child) > li:last-child {
+  background:
+    linear-gradient(90deg,
+      rgba(154, 166, 225, 0.16) 0%,
+      rgba(154, 166, 225, 0.05) 52%,
+      transparent 100%),
+    rgba(154, 166, 225, 0.05);
+  border-left-color: rgba(154, 166, 225, 0.44);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
    用途：McKnight 式长散文段落批评列表（点间需清晰分割）
    颜色：酒红 rgb(138, 52, 78)
