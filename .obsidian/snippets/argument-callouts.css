@@ -1425,6 +1425,7 @@
   background: color-mix(in srgb, var(--background-primary) 90%, rgb(82, 145, 214) 10%);
   vertical-align: top;
   line-height: 1.65;
+  transition: background 0.16s ease, border-color 0.16s ease;
 }
 
 .callout[data-callout="framework-table"] td:first-child {
@@ -1438,6 +1439,14 @@
 .callout[data-callout="framework-table"] td:last-child {
   border-left: 0;
   border-radius: 0 9px 9px 0;
+}
+
+.callout[data-callout="framework-table"] tbody tr:hover td {
+  background: color-mix(in srgb, var(--background-primary) 80%, rgb(82, 145, 214) 20%);
+  border-color: rgba(82, 145, 214, 0.30);
+}
+.callout[data-callout="framework-table"] tbody tr:hover td:first-child {
+  color: rgb(52, 105, 175);
 }
 
 .callout[data-callout="framework-table"] td:first-child strong { font-size: var(--fs-lead); }
@@ -4410,6 +4419,9 @@
 .callout[data-callout="meta-table"] tbody tr:last-child td { border-bottom: none; }
 .callout[data-callout="meta-table"] tbody tr:nth-child(even) td {
   background: rgba(45, 100, 160, 0.025);
+}
+.callout[data-callout="meta-table"] tbody tr {
+  transition: background 0.13s ease;
 }
 .callout[data-callout="meta-table"] tbody tr:hover td {
   background: rgba(45, 100, 160, 0.06);
@@ -7966,6 +7978,101 @@
   background: rgba(168, 130, 225, 0.13);
 }
 
+
+/* ─── prop-table（属性键值表 — 无列头，行头加粗） ──── */
+.callout[data-callout="prop-table"] {
+  --callout-color: 72, 90, 108;
+  --callout-icon: lucide-list-tree;
+  background: rgba(72, 90, 108, 0.03);
+  border: 1px solid rgba(72, 90, 108, 0.18);
+  border-left: 4px solid rgba(72, 90, 108, 0.55);
+  border-radius: 10px;
+}
+
+.callout[data-callout="prop-table"] > .callout-title .callout-title-inner::before {
+  content: "PROP";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 6px;
+  background: rgba(72, 90, 108, 0.11);
+  color: rgb(48, 68, 88);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+.callout[data-callout="prop-table"] > .callout-content {
+  padding: 0;
+}
+
+.callout[data-callout="prop-table"] table {
+  display: table;
+  width: 100%;
+  margin-block: 0;
+  border-collapse: collapse;
+}
+
+.callout[data-callout="prop-table"] thead th {
+  background: rgba(72, 90, 108, 0.07);
+  font-weight: 700;
+  font-size: var(--fs-table);
+  border-bottom: 1.5px solid rgba(72, 90, 108, 0.16);
+}
+
+.callout[data-callout="prop-table"] th,
+.callout[data-callout="prop-table"] td {
+  vertical-align: top;
+  border-bottom: 1px solid rgba(72, 90, 108, 0.09);
+  line-height: 1.6;
+  padding: 0.4rem 0.65rem;
+  font-size: var(--fs-table);
+}
+
+.callout[data-callout="prop-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="prop-table"] td:first-child {
+  width: 30%;
+  font-weight: 680;
+  color: rgb(48, 68, 88);
+  background: rgba(72, 90, 108, 0.055);
+  border-right: 1.5px solid rgba(72, 90, 108, 0.13);
+  white-space: nowrap;
+}
+
+.callout[data-callout="prop-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="prop-table"] tbody tr:hover td {
+  background: rgba(72, 90, 108, 0.07);
+}
+.callout[data-callout="prop-table"] tbody tr:hover td:first-child {
+  background: rgba(72, 90, 108, 0.11);
+}
+
+.theme-dark .callout[data-callout="prop-table"] {
+  --callout-color: 140, 165, 188;
+  background: rgba(72, 90, 108, 0.06);
+  border-color: rgba(72, 90, 108, 0.28);
+  border-left-color: rgba(140, 165, 188, 0.5);
+}
+.theme-dark .callout[data-callout="prop-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(140, 165, 188, 0.16);
+  color: rgb(140, 165, 188);
+}
+.theme-dark .callout[data-callout="prop-table"] td:first-child {
+  color: rgb(155, 180, 205);
+  background: rgba(72, 90, 108, 0.1);
+  border-right-color: rgba(72, 90, 108, 0.22);
+}
+.theme-dark .callout[data-callout="prop-table"] tbody tr:hover td {
+  background: rgba(72, 90, 108, 0.13);
+}
+.theme-dark .callout[data-callout="prop-table"] tbody tr:hover td:first-child {
+  background: rgba(72, 90, 108, 0.2);
+}
 
 /* ═══════════════════════════════════════════════════════════
    PERSON-PROFILE — 专项视觉增强
