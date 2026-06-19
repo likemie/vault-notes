@@ -91,9 +91,9 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar|罗伊·巴斯卡（Roy Bhaskar, 1978）]]<br>安德鲁·塞耶（Andrew Sayer, 2000） | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层本体论结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
-> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson|雷·波森（Ray Pawson, 2006）]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
-> | **新自由主义审计文化**<br>[[Stephen Ball|斯蒂芬·鲍尔（Stephen Ball, 2013）]]<br>迈克尔·鲍尔（Michael Power, 1997） | 剖析“审计社会”与“以数字治理”机制。揭示证据本位教育如何将复杂的教育[[Bildung|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
+> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar\|罗伊·巴斯卡（Roy Bhaskar, 1978）]]<br>安德鲁·塞耶（Andrew Sayer, 2000） | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层本体论结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
+> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson\|雷·波森（Ray Pawson, 2006）]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
+> | **新自由主义审计文化**<br>[[Stephen Ball\|斯蒂芬·鲍尔（Stephen Ball, 2013）]]<br>迈克尔·鲍尔（Michael Power, 1997） | 剖析“审计社会”与“以数字治理”机制。揭示证据本位教育如何将复杂的教育[[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证
 > 批判实在论和实在论评估理论为解构[[Evidence-Based Education|证据本位教育]]提供了强大的[[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如亚里士多德（Aristotle）所说的“目的因”）。这打破了[[Randomised Controlled Trials|随机对照试验]]将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
@@ -112,9 +112,9 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **评估报告样本** | [[Education Endowment Foundation|英国教育捐赠基金会]]“新起点”评估报告（英国教育捐赠基金会, 2015）及其学术发表版本（葛拉德等, 2016）；英国教育捐赠基金会项目制学习（Project-based Learning）评估报告（英国教育捐赠基金会, 2016）。 |
-> | **聚合工具样本** | [[John Hattie|约翰·哈蒂]]（2009）《[[Visible Learning|可见学习]]》所含 800 项元分析及 50,000 项研究；英国教育捐赠基金会发布的《教学与学习工具包》；[[Adrian Simpson|阿德里安·辛普森]]（2017）对该工具包效应量偏差的测量学分析；彼得·布拉奇福德（Peter Blatchford）等关于课堂教学助理的大型实证研究。 |
-> | **理论文献样本** | 特里什·格林哈尔希（Trish Greenhalgh, 2014, 2015）的循证医学危机文献；[[Roy Bhaskar|罗伊·巴斯卡]]（1978）、[[Ray Pawson|雷·波森]]（2006）的社会[[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
+> | **评估报告样本** | [[Education Endowment Foundation\|英国教育捐赠基金会]]“新起点”评估报告（英国教育捐赠基金会, 2015）及其学术发表版本（葛拉德等, 2016）；英国教育捐赠基金会项目制学习（Project-based Learning）评估报告（英国教育捐赠基金会, 2016）。 |
+> | **聚合工具样本** | [[John Hattie\|约翰·哈蒂]]（2009）《[[Visible Learning\|可见学习]]》所含 800 项元分析及 50,000 项研究；英国教育捐赠基金会发布的《教学与学习工具包》；[[Adrian Simpson\|阿德里安·辛普森]]（2017）对该工具包效应量偏差的测量学分析；彼得·布拉奇福德（Peter Blatchford）等关于课堂教学助理的大型实证研究。 |
+> | **理论文献样本** | 特里什·格林哈尔希（Trish Greenhalgh, 2014, 2015）的循证医学危机文献；[[Roy Bhaskar\|罗伊·巴斯卡]]（1978）、[[Ray Pawson\|雷·波森]]（2006）的社会[[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
 
