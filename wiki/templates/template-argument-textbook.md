@@ -29,14 +29,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-%% BEFORE USE:
-1. Read wiki/templates/TEMPLATE-SPEC.md.
-2. Read wiki/templates/CALLOUTS.md.
-3. Then use this template.
-%%
-
-%% Textbook Argument 是教材总览和章节整理页。总览页保留章节表格与知识地图；各章按“概念地图 → 章节内容 → 关键引用”整理。具体定义、分类、方法步骤、理论说明和案例优先沉淀到对应 wiki 条目；正式条目必须删除所有模板说明注释。 %%
-
 ---
 
 ## 总览
@@ -87,10 +79,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 #### 关键引用
 
-> [!citation-card]
+> [!citation-card]- 关键引用
 > 中文译文或中文原文。（第X章，p.X）
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 

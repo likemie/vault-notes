@@ -81,7 +81,7 @@ issuing_organization: ""
 
 %% 根据论文实际论证方式，综合运用 [!claim]、[!chain-link]、[!warrant]、[!line-a]、[!contrast-table]、[!evidence-grid]、[!logic-map] 等 callout。下面只是最小骨架，不要求每篇都保留同样组合。 %%
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["问题起点"]
@@ -158,7 +158,7 @@ issuing_organization: ""
 
 %% 可按引用数量重复 [!citation-card]，每张对应一个主题或论证节点。 %%
 
-> [!citation-card] 引用主题
+> [!citation-card]- 引用主题
 > 中文译文。（p.X）
 >
 > *Original text or English translation.*
