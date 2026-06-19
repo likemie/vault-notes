@@ -8,6 +8,11 @@ aliases:
 summary: "质性访谈中用于指导问题提问和记录回答的一至两页结构化指南，包含引言、内容问题、追问提示和结束说明四个核心部分"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

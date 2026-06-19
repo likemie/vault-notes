@@ -34,6 +34,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SCRIPTS_DIR = ROOT / "scripts"
 BOOKS_DIR = ROOT / "wiki" / "arguments" / "books"
 CONCEPTS_DIR = ROOT / "wiki" / "concepts"
+METHODS_DIR = ROOT / "wiki" / "methods"
 
 FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
 SPLIT_FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
@@ -43,6 +44,18 @@ CHAPTER_FILE_RE = re.compile(r"^(?P<parent>Argument_.+)_Ch(?P<num>\d{1,3})(?:[_-
 CHINESE_CHAPTER_RE = re.compile(r"第\s*(?P<num>\d{1,3})\s*章")
 CONCEPT_GENERATED_KEYS = {"domain", "related_count", "related_level", "related_stars", "related_color"}
 CONCEPT_COLORS = ["#e5e7eb", "#bfdbfe", "#99f6e4", "#fde68a", "#fdba74", "#fecdd3", "#ddd6fe"]
+METHOD_GENERATED_KEYS = {
+    "method_family",
+    "method_related_count",
+    "method_related_level",
+    "method_related_stars",
+    "method_related_color",
+}
+METHOD_COLORS = {
+    "qualitative": "#dbeafe",
+    "quantitative": "#dcfce7",
+    "mixed": "#fef3c7",
+}
 
 
 @dataclass
@@ -483,11 +496,122 @@ def maintain_concept_base_fields(dry_run: bool = False, check: bool = False) -> 
     return 0
 
 
+def method_family_for(path: Path, meta: dict[str, Any]) -> str:
+    method_type = str(meta.get("method_type") or "").strip()
+    if method_type:
+        return method_type
+    try:
+        return path.relative_to(METHODS_DIR).parts[0]
+    except (IndexError, ValueError):
+        return "other"
+
+
+def method_stars_for(count: int) -> tuple[int, str]:
+    if count <= 4:
+        return 0, "☆"
+    if count >= 50:
+        return 6, "⭐" * 6
+    level = min(5, count // 8)
+    return level, "⭐" * level
+
+
+def upsert_method_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
+    lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
+    filtered: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        m_key = KEY_RE.match(line)
+        if m_key and m_key.group(1) in METHOD_GENERATED_KEYS:
+            i += 1
+            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
+                i += 1
+            continue
+        filtered.append(line)
+        i += 1
+
+    insert_at = 0
+    for idx, line in enumerate(filtered):
+        if re.match(r"^method_type:\s*", line):
+            insert_at = idx + 1
+            break
+        if re.match(r"^type:\s*", line):
+            insert_at = idx + 1
+
+    generated = [
+        f"method_family: {yaml_string(str(fields['method_family']))}",
+        f"method_related_count: {int(fields['method_related_count'])}",
+        f"method_related_level: {int(fields['method_related_level'])}",
+        f"method_related_stars: {yaml_string(str(fields['method_related_stars']))}",
+        f"method_related_color: {yaml_string(str(fields['method_related_color']))}",
+    ]
+    filtered[insert_at:insert_at] = generated
+    return "\n".join(filtered).rstrip() + "\n"
+
+
+def iter_method_files() -> list[Path]:
+    if not METHODS_DIR.exists():
+        return []
+    return sorted(path for path in METHODS_DIR.rglob("*.md") if path.is_file())
+
+
+def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    split = split_frontmatter(text)
+    if not split:
+        return False, None
+    raw_frontmatter, body = split
+    meta = parse_frontmatter(text)
+    if meta.get("type") != "method":
+        return False, None
+    family = method_family_for(path, meta)
+    related_count = count_related_fields(meta)
+    related_level, related_stars = method_stars_for(related_count)
+    next_frontmatter = upsert_method_generated_fields(raw_frontmatter, {
+        "method_family": family,
+        "method_related_count": related_count,
+        "method_related_level": related_level,
+        "method_related_stars": related_stars,
+        "method_related_color": METHOD_COLORS.get(family, "#e5e7eb"),
+    })
+    next_text = f"---\n{next_frontmatter}---\n{body}"
+    changed = next_text != text
+    if changed and not dry_run and not check:
+        path.write_text(next_text, encoding="utf-8")
+    return changed, (related_count, related_stars)
+
+
+def maintain_method_base_fields(dry_run: bool = False, check: bool = False) -> int:
+    changed_count = 0
+    summaries: list[tuple[int, str, str]] = []
+    for path in iter_method_files():
+        changed, summary = update_method_base_fields(path, dry_run=dry_run, check=check)
+        if summary:
+            related_count, related_stars = summary
+            rel_path = path.relative_to(ROOT).as_posix()
+            summaries.append((related_count, related_stars, rel_path))
+        if changed:
+            changed_count += 1
+            prefix = "would update" if dry_run or check else "updated"
+            print(f"🧭 {prefix}: {path.relative_to(ROOT).as_posix()}")
+
+    summaries.sort(key=lambda item: item[0], reverse=True)
+    print(f"🧭 method base fields checked: {len(summaries)}; changed: {changed_count}")
+    for related_count, related_stars, rel_path in summaries[:10]:
+        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
+    if check:
+        return 1 if changed_count else 0
+    return 0
+
+
 def run_base_index(book_check: bool = False, book_dry_run: bool = False, citation_args: list[str] | None = None) -> int:
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code
     code = maintain_concept_base_fields()
+    if code:
+        return code
+    code = maintain_method_base_fields()
     if code:
         return code
     code = run_script("wiki_index.py")
@@ -528,6 +652,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--concept-fields-only", action="store_true", help="Run only generated concept base-field maintenance.")
     parser.add_argument("--concept-fields-check", action="store_true", help="Fail if generated concept base fields are stale.")
     parser.add_argument("--concept-fields-dry-run", action="store_true", help="Preview generated concept base-field updates without writing.")
+    parser.add_argument("--method-fields-only", action="store_true", help="Run only generated method base-field maintenance.")
+    parser.add_argument("--method-fields-check", action="store_true", help="Fail if generated method base fields are stale.")
+    parser.add_argument("--method-fields-dry-run", action="store_true", help="Preview generated method base-field updates without writing.")
     parser.add_argument("--wiki-only", action="store_true", help="Run only scripts/wiki_index.py.")
     parser.add_argument("--citation-only", action="store_true", help="Run only scripts/citation_index.py.")
     parser.add_argument("--citation-check", action="store_true", help="Pass --check to scripts/citation_index.py.")
@@ -539,9 +666,9 @@ def main(argv: list[str] | None = None) -> int:
     if sum(1 for flag in workflow_flags if flag) > 1:
         parser.error("--standard-workflow and --full-workflow cannot be combined")
 
-    only_flags = [args.book_only, args.concept_fields_only, args.wiki_only, args.citation_only]
+    only_flags = [args.book_only, args.concept_fields_only, args.method_fields_only, args.wiki_only, args.citation_only]
     if sum(1 for flag in only_flags if flag) > 1:
-        parser.error("--book-only, --concept-fields-only, --wiki-only, and --citation-only cannot be combined")
+        parser.error("--book-only, --concept-fields-only, --method-fields-only, --wiki-only, and --citation-only cannot be combined")
     if any(workflow_flags) and any(only_flags):
         parser.error("workflow options cannot be combined with --book-only, --concept-fields-only, --wiki-only, or --citation-only")
 
@@ -563,6 +690,9 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.concept_fields_only:
         return maintain_concept_base_fields(dry_run=args.concept_fields_dry_run, check=args.concept_fields_check)
+
+    if args.method_fields_only:
+        return maintain_method_base_fields(dry_run=args.method_fields_dry_run, check=args.method_fields_check)
 
     if not args.wiki_only and not args.citation_only:
         code = run_base_index(book_check=args.book_check, book_dry_run=args.book_dry_run, citation_args=citation_args)

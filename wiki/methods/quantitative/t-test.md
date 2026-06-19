@@ -10,6 +10,11 @@ aliases:
 summary: "比较两组均值的推断统计方法，包括比较两个独立组均值的独立样本t检验和比较同一组两次测量均值的配对样本t检验"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

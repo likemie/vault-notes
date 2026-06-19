@@ -5,6 +5,11 @@ aliases:
 summary: "批判理论的核心方法论，通过四阶段反思实践揭示社会情境中被压制的利益与意识形态运作，推动变革与解放。"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/critical
   - theory/critical

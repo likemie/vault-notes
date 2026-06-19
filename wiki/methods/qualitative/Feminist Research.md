@@ -5,6 +5,11 @@ aliases:
 summary: "一种以批判理论为根基的研究方法论，通过揭露父权制知识生产中的压迫、赋权女性声音、打破研究者与参与者之间的权力等级来推动性别平等。"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/feminist
   - theory/critical

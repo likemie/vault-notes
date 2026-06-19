@@ -7,6 +7,11 @@ aliases:
 summary: "一种通过采集模拟母子对话样本来研究文化学习信念社会化过程的质性研究方法，结合结构分析、序列分析与话语分析三种分析层级，适合比较不同文化中家长如何通过日常对话传递学习信念"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/discourse-analysis
   - method/sequential-analysis

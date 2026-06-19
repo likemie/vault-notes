@@ -9,6 +9,11 @@ aliases:
 summary: "一种在研究规划阶段用于估计检测特定效应量所需最小样本量的统计方法"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

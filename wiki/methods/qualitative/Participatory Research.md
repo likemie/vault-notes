@@ -6,6 +6,11 @@ aliases:
 summary: "一种批判理论驱动的研究方法，与社区和群体一起而非对其进行研究，将研究控制权归还给参与者，以知识促变革与赋权。"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/participatory
   - theory/critical

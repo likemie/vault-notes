@@ -7,6 +7,11 @@ aliases:
 summary: "一种基于系统论的多子系统协同发展水平测度方法，通过耦合度C衡量相互作用强度、协调度D综合评估协同演进水平，广泛应用于教育、经济、环境等复杂系统的综合评价"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/composite-index
   - method/spatial-analysis

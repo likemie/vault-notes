@@ -11,6 +11,11 @@ aliases:
 summary: "在更高层次汇总多个已发表元分析结果的统计综合方法，用于处理大型证据库、比较不同综合结论并评估聚合稳定性"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 45
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_color: "#dcfce7"
 tags:
 - meta-meta-analysis
 - mega-analysis

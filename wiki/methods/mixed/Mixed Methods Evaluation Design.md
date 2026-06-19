@@ -8,6 +8,11 @@ aliases:
 summary: "将量化和质性数据及核心混合方法设计嵌入评价框架的复杂混合方法设计，常用于项目评价，在需求评估、工具开发、实施检验和跟进完善等不同阶段中使用多种核心设计"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
   - method/evaluation

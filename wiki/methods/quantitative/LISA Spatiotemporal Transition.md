@@ -8,6 +8,11 @@ aliases:
 summary: "一种基于Moran散点图像限转移矩阵的探索性时空数据分析方法，通过Type0-Type3四种转移类型量化空间关联格局的惯性强度和流动性，揭示空间锁定与路径依赖特征"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 4
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 tags:
   - method/spatial-analysis
   - method/panel-data

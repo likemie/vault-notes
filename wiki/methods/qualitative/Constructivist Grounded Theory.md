@@ -5,6 +5,11 @@ aliases:
 summary: "扎根理论的建构主义变体，强调概念与意义由研究者和被研究者在互动中共同生成，适合分析行动者如何赋予经验以解释框架"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
 - constructivist-grounded-theory
 - qualitative-research

@@ -8,6 +8,11 @@ aliases:
 summary: "质性研究中贴近数据本身、使用有限框架和解释、将信息归类为主题的分析路径，被 APA 认定为独立的质性方法类型"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

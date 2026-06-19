@@ -9,6 +9,11 @@ aliases:
 summary: "用于辅助质性研究中文本和图像数据组织、排序和搜索的计算机程序，不能替代研究者的分析工作"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 2
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

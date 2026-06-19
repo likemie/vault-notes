@@ -5,6 +5,11 @@ aliases:
 summary: "通过汇总多项原始研究的效应量来综合证据的统计方法，常用于比较干预强度、估计平均效果和检验结果一致性"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 47
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_color: "#dcfce7"
 tags:
 - meta-analysis
 - effect-size

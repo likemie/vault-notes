@@ -7,6 +7,11 @@ aliases:
 summary: "将核心混合方法设计嵌入案例研究开发和比较过程中的复杂混合方法设计，有两种基本变体，即演绎法（事先确定案例再记录差异）和归纳法（从数据中形成案例再比较）"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
   - method/case-study

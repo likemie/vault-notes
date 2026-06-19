@@ -8,6 +8,11 @@ aliases:
 summary: "元分析中两种基本的统计汇总模型，前者假设所有研究估计同一真实效应并按精度加权，后者同时考虑研究内和研究间变异"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
 - fixed-effect-model
 - random-effects-model

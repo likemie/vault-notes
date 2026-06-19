@@ -10,6 +10,11 @@ aliases:
 summary: "一种在时间维度上对单个个体或少数个体施加和撤销处理、观察行为变化的实验研究设计"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - quantitative-research
   - experiment

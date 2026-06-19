@@ -7,6 +7,11 @@ aliases:
 summary: "Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 12
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
 - comparative-case-study
 - case-study

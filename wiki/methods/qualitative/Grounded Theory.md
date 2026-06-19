@@ -7,6 +7,11 @@ aliases:
 summary: "一种从社会学发展而来的质性研究设计，通过多阶段数据收集和编码，从参与者视角中归纳生成关于某一过程、行动或互动的一般性抽象理论"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - qualitative-research
   - grounded-theory

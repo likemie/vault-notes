@@ -5,6 +5,11 @@ aliases:
 summary: "不直接操纵处理条件而观察现象、关系或过程的研究集合，适合分析自然发生的教育情境与经验分布"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - non-intervention-research
 - educational-psychology

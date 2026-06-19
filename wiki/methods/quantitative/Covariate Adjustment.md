@@ -6,6 +6,11 @@ aliases:
 summary: "在统计模型中纳入协变量以重新估计处理效应或变量关系的量化方法，用于减少混杂因素对结果解释的干扰"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - covariate-adjustment
 - covariate

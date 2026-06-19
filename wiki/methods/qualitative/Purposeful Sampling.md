@@ -8,6 +8,11 @@ aliases:
 summary: "质性研究中为最佳理解研究问题而有目的地选择参与者、场所或资料的研究策略，与量化随机抽样有本质区别"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

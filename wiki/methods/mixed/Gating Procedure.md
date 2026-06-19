@@ -5,6 +5,11 @@ aliases:
 summary: "系统综述中的筛选程序，指只有内部效度达到门槛的研究才能进入后续综合和推广性评估。"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 12
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#fef3c7"
 tags:
 - gating-procedure
 - systematic-review

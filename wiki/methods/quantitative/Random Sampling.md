@@ -9,6 +9,11 @@ aliases:
 summary: "从总体中按均等概率选取样本的抽样方法，每个个体有均等概率被选中，目的是提升样本对总体的代表性并支持统计推论"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/sampling
   - quantitative-research

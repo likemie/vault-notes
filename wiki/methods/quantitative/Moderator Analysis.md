@@ -6,6 +6,11 @@ aliases:
 summary: "元分析中识别和检验研究间效果变异来源的统计方法，通过探索哪些研究特征与更大或更小的效应量相关来解释异质性"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
 - moderator-analysis
 - meta-analysis

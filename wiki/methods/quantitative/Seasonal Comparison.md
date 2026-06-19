@@ -6,6 +6,11 @@ aliases:
 summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比较学校与非学校环境对不平等的相对影响，类似医学交叉设计"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
 - seasonal-comparison
 - research-design

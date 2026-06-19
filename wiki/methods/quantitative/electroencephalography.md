@@ -7,6 +7,11 @@ aliases:
 summary: "脑电图（EEG）：通过测量相邻神经元群落激活记录脑活动，可测毫秒级增量，时间分辨率优于空间分辨率，便携式 EEG 扩大了对年幼儿童的研究可能"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
 - eeg
 - neuroimaging

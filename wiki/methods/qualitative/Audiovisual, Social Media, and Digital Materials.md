@@ -9,6 +9,11 @@ aliases:
 summary: "质性研究中以照片、录像、艺术品、网站、社交媒体文本和声音等形式收集数据的方法，是观察和访谈之外的第四种主要数据收集类型"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

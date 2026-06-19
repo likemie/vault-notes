@@ -7,6 +7,11 @@ aliases:
 summary: "系统收集和分析机构网站公开内容的研究方法，通过内容分类、关键词频率统计和权限等级评估，揭示组织如何对外呈现其结构、职能和战略定位"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - "method/website-analysis"
   - "method/content-analysis"

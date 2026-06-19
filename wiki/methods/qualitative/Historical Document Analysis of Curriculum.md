@@ -6,6 +6,11 @@ aliases:
 summary: "通过系统分析课程文件、政府政策、媒体报道和学术文献重建科目演变历程，识别课程变革的政治动力"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
 - document-analysis
 - curriculum-history

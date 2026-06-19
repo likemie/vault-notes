@@ -34,7 +34,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!citation-card]- 关键表述
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 
@@ -140,5 +140,5 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究与应用索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何使用、检验、修正或批评该理论。

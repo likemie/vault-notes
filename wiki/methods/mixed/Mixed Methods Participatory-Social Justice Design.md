@@ -9,6 +9,11 @@ aliases:
 summary: "将量化和质性数据及核心混合方法设计嵌入参与式或社会正义框架的复杂混合方法设计，社区成员与研究者协作，以社会变革和改善个体生活为目标"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
   - method/participatory

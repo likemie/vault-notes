@@ -6,6 +6,11 @@ aliases:
 summary: "一种不解释干预如何、为何以及在何种条件下有效的 RCT 设计取向，常被用于批评只报告平均效果而忽视机制、情境和专业判断的实验研究。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - black-box-rcts
 - rct

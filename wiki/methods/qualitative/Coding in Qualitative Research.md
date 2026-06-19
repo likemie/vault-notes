@@ -7,6 +7,11 @@ aliases:
 summary: "质性研究中将文本或图像数据拆分为片段并赋予类别标签的分析过程，是数据分析和主题生成的核心步骤"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

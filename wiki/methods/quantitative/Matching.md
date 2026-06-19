@@ -5,6 +5,11 @@ aliases:
 summary: "观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - matching
   - observational-studies

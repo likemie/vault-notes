@@ -8,6 +8,11 @@ aliases:
 summary: "将受试者随机分配到四组的真实验设计，通过操纵前测和处理两个因素来评估前测对处理效果的潜在干扰"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/experimental
   - quantitative-research

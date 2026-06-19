@@ -5,6 +5,11 @@ aliases:
 summary: "通过操纵教育处理、项目或实践条件来检验效果及因果影响的研究设计，常用于评估干预是否带来可观察变化"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - intervention-research
 - educational-psychology

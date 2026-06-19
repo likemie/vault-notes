@@ -10,6 +10,11 @@ aliases:
 summary: "通过随机分配和变量控制建立因果关系的实验设计，被视为证据本位教育的黄金标准，但复杂性理论和多重方法论批评对其在教育开放情境中的适用性提出了根本性挑战。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 60
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/experimental
   - paradigm/positivist

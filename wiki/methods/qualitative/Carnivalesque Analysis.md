@@ -5,6 +5,11 @@ aliases:
 summary: "通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权力关系的质性分析方法，适合拆解官方话语的自明性"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dbeafe"
 tags:
 - carnivalesque-analysis
 - qualitative-research

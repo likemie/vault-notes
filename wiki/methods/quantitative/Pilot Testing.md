@@ -10,6 +10,11 @@ aliases:
 summary: "在正式数据收集前使用少量受试者测试研究材料和程序以评估适用性、信度、耗时的质量控制程序"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/procedural
   - quantitative-research

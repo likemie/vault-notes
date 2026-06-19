@@ -4,6 +4,11 @@ aliases: ["文献地图", "文献图谱", "literature mapping", "literature diag
 summary: "Creswell 提出的文献组织工具，以层级结构、流程图或圆圈等可视化方式呈现已有研究的分组关系，并标识计划研究在文献体系中的位置"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#fef3c7"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"

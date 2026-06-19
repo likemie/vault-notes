@@ -7,6 +7,11 @@ aliases:
 summary: "系统比较不同地区或国家教科书的质性分析方法，以子句为编码单位，通过框架信息型归纳编码和主题生成揭示教科书如何在不同社会政治情境下建构知识、身份和国家叙事"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/textbook-analysis
   - method/comparative-analysis

@@ -8,6 +8,11 @@ aliases:
 summary: "质性研究中通过寻找一位同行审查并提出关于研究的问题来增强研究报告准确性的效度策略"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 4
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

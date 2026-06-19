@@ -8,6 +8,11 @@ aliases:
 summary: "Csikszentmihalyi (1970s) 开发的研究方法，通过随机信号让参与者即时记录行为、情绪和想法，捕捉日常生活中的真实心理体验"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 2
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 tags:
   - method/experience-sampling
   - method/self-report

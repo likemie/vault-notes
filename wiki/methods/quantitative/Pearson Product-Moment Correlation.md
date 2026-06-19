@@ -9,6 +9,11 @@ aliases:
 summary: "测量两个连续变量间关联强度与方向的推断统计方法，使用r统计量，适用于正态分布的连续数据"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

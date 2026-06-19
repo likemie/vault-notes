@@ -6,6 +6,11 @@ aliases:
 summary: "将测验答题数据转换到共同尺度的教育测量方法，PISA/TIMSS/PIRLS 等国际评估排名依赖这类统计转换"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - rasch-measurement
   - educational-measurement

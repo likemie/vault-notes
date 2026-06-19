@@ -7,6 +7,11 @@ aliases:
 summary: "一种将时间维度引入LISA局部空间自相关的探索性时空数据分析方法，通过相对长度和弯曲度两个几何指标追踪各空间单元在Moran散点图上的动态演化轨迹"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/spatial-analysis
   - method/panel-data

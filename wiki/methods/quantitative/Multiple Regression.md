@@ -8,6 +8,11 @@ aliases:
 summary: "将Pearson相关扩展到两个或多个预测变量的推断统计方法，用于评估多个预测变量对一个结果变量的相对预测力"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

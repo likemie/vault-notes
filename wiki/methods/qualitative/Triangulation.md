@@ -8,6 +8,11 @@ aliases:
 summary: "质性研究中通过汇聚多种数据来源的证据来构建主题一致性的效度验证策略"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

@@ -7,6 +7,11 @@ aliases:
 summary: "通过在不同条件下对个体或小群体进行重复测量并让其作为自身控制的实验方法，适合评估小样本干预效果"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dcfce7"
 tags:
 - single-case-design
 - scd

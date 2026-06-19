@@ -8,6 +8,11 @@ aliases:
 summary: "同时收集量化和质性数据、分别分析后将结果合并比较的混合方法核心设计，整合洞见在于通过多重视角获得对研究问题更完整的理解"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
 related_concepts:

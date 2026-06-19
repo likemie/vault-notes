@@ -10,6 +10,11 @@ aliases:
 summary: "将受试者按概率均等原则分配到实验处理条件中，以消除系统性偏差并支持因果推断的实验技术，在教育研究中受到开放系统和能动性视角的哲学反思"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 tags:
   - method/experimental
   - quantitative-research

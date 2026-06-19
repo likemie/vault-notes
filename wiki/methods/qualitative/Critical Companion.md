@@ -4,6 +4,11 @@ aliases: ["批判性伴随", "critical companion approach", "批判性伴随方�
 summary: "一种质性话语分析方法，通过批判性陪伴而非传统系统综述检视政策话语框架，识别其核心特征、共同模式和盲点"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]
 related_concepts:
   - "[[Literature Review]]"

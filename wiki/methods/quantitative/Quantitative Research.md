@@ -7,6 +7,11 @@ aliases:
 summary: "通过检验变量间关系或群体间比较来验证客观理论的研究路径，以演绎式理论检验、标准化测量和统计程序为特征，报告具有固定结构"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 12
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - quantitative-research
   - research-methodology

@@ -7,6 +7,11 @@ aliases:
 summary: "一种综合主观层次分析法（AHP）与客观熵权法（EWM）的指标赋权方法，通过最小二乘决策（LSD）模型最小化主客观权重偏差，平衡专家判断与数据变异两种信息来源"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 2
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 tags:
   - method/weighting
   - method/composite-index

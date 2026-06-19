@@ -9,6 +9,11 @@ aliases:
 summary: "比较两组或多组均值差异的推断统计方法族，包括ANOVA、ANCOVA和MANOVA等变体"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

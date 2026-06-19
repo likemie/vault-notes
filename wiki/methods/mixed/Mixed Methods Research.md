@@ -4,6 +4,11 @@ aliases: [混合方法研究, 混合方法, Mixed Method Research]
 summary: "结合量化与质性数据并通过特定设计进行整合的研究路径，以实用主义为哲学基础，被称为继量化和质性之后的第三种方法论运动。"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
+method_related_color: "#fef3c7"
 tags: [mixed-methods, research-methodology]
 related_concepts:
   - "[[Paradigm]]"

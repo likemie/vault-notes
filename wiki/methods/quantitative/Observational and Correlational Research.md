@@ -6,6 +6,11 @@ aliases:
 summary: "不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dcfce7"
 tags:
   - observational-research
   - correlational-research

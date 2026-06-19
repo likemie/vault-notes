@@ -7,6 +7,11 @@ aliases:
 summary: "先收集量化数据再以质性后续数据深入解释量化结果的混合方法核心设计，整合洞见在于用量化发现引导质性探究以获得对变量关系和统计结果的更深层解释"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
 related_concepts:

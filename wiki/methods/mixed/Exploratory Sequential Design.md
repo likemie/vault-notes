@@ -7,6 +7,11 @@ aliases:
 summary: "先以小样本进行质性探索、基于质性发现开发或修改量化工具、再用大样本检验的混合方法核心设计，整合洞见在于获得对特定样本和人群更具文化或情境适切性的测量工具"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
 related_concepts:

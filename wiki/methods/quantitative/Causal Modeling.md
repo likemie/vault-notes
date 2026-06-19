@@ -7,6 +7,11 @@ aliases:
 summary: "通过结构方程等统计模型表示变量之间因果路径并同时估计多重关系的量化方法，常用于检验理论结构与中介机制"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
+method_related_color: "#dcfce7"
 tags:
   - causal-modeling
   - structural-equation-modeling

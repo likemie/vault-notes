@@ -7,6 +7,11 @@ aliases:
 summary: "质性研究中收集和分析公共文件与私人文件作为数据来源的方法，是访谈和观察之外的第三种主要质性数据形式"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 2
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

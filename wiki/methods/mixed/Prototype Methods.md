@@ -7,6 +7,11 @@ aliases:
 summary: "基于认知心理学原型理论、通过语言词汇的自由联想与聚类分析来建构文化模型的混合研究方法，适合研究特定文化中成员共享的概念结构"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#fef3c7"
 tags:
 - method/cross-cultural
 - method/cluster-analysis

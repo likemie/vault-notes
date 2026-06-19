@@ -8,6 +8,11 @@ aliases:
 summary: "一种源自人文学科的质性研究设计，通过研究个体生活故事来理解其经验，将参与者的故事由研究者重新讲述为叙事性编年史"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dbeafe"
 tags:
   - qualitative-research
   - narrative

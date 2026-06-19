@@ -10,6 +10,11 @@ aliases:
 summary: "通过与参与者进行开放式对话以理解其主观经验和意义建构的质性资料收集方法，涵盖面对面、电话、焦点小组等形式，以深度访谈为最核心的变体，通过持续追问和渐进聚焦进入受访者的意义世界"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 29
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - in-depth-interview

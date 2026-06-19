@@ -8,6 +8,11 @@ aliases:
 summary: "质性研究中研究者在研究现场对个体行为和活动进行田野笔记记录的数据收集方法，观察者角色从完全参与者到完全观察者构成连续谱"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology

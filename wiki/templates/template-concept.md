@@ -33,7 +33,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!citation-card]- 关键表述
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[相近概念]] — 区别说明。
@@ -101,7 +101,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!warrant]- 命题一的支撑理由
 > 说明该命题依赖什么理论前提、经验材料或分类标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!exegesis]- 例子
+> [!exegesis]- 教育研究例子
 > 用一个具体教育情境说明这条命题如何工作。
 
 ---
@@ -126,7 +126,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 实证发现
 
-> [!evidence-grid-a] 实证发现索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念。
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明关键发现或适用条件。
 

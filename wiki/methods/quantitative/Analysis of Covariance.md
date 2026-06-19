@@ -6,6 +6,11 @@ aliases:
 summary: "在方差分析基础上加入一个或多个协变量以控制其影响后比较调整组间均值的推断统计方法，使用F统计量"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

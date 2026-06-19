@@ -9,6 +9,11 @@ aliases:
 summary: "通过访谈、观察和文本材料理解行动者经验、意义建构与实践情境的研究方法，适合解释教育过程中的复杂关系"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 45
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_color: "#dbeafe"
 tags:
 - qualitative-research
 - educational-psychology

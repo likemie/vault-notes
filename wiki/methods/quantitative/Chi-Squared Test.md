@@ -9,6 +9,11 @@ aliases:
 summary: "检验两个类别变量之间是否存在关联的推断统计方法，使用χ2统计量，适用于类别数据和期望频数比较"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/statistical
   - quantitative-research

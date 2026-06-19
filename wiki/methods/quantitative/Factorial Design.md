@@ -8,6 +8,11 @@ aliases:
 summary: "同时操纵两个或多个独立变量以检验每个变量的主效应以及变量间交互效应的实验设计"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/experimental
   - quantitative-research

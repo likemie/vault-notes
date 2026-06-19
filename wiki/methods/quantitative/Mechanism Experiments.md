@@ -5,6 +5,11 @@ aliases:
 summary: "用于测试特定行为机制或理论路径的小规模现场实验，强调解释干预为何起作用而不仅是估计其平均效果。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - mechanism-experiments
 - rct

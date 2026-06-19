@@ -6,6 +6,11 @@ aliases:
 summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评估研究文献的综述方法，旨在减少选择偏差并为元分析提供可重复的输入"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
 - systematic-review
 - research-synthesis

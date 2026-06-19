@@ -9,6 +9,11 @@ aliases:
 summary: "通过操纵处理条件、比较处理组与控制组的结果差异来确定特定处理是否影响结果的量化研究设计"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 33
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
+method_related_color: "#dcfce7"
 tags:
   - quantitative-research
   - experiment

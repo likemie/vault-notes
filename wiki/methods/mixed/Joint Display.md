@@ -7,6 +7,11 @@ aliases:
 summary: "混合方法研究中将量化与质性数据或结果并列在同一表格中，通过并排比较以提取整合性洞察的数据分析工具"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#fef3c7"
 tags:
   - mixed-methods
   - data-analysis

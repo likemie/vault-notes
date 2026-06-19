@@ -33,8 +33,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **输出形式**：主题、分类、机制解释、效应估计、系数、指标、指数、模型结果、空间格局或评价结论。
 
 > [!citation-card]- 关键定义
-> 中文译文或中文原文。 [[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> Original text or English translation.
+> 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> *Original text or English translation.*
 
 ---
 
@@ -196,5 +197,5 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal]] — 该研究如何使用此方法，只写一句话，不展开文献摘要。

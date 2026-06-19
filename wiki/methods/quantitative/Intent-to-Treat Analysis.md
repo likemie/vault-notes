@@ -6,6 +6,11 @@ aliases:
 summary: "一种按原始随机分配而非实际接受情况来分析结果的 RCT 估计方法，用于评估干预可获得性对总体结果的影响。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - method/intent-to-treat-analysis
 - method/quantitative

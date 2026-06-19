@@ -10,6 +10,11 @@ aliases:
 summary: "ESSA证据层级中对应中等证据的量化研究设计，核心判断包括比较组是否提供可信反事实和实施条件是否足以解释效果。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
   - method/quasi-experimental-design
   - method/quantitative

@@ -11,6 +11,11 @@ aliases:
 summary: "研究单一组并实施干预的实验设计类型，不设对照组或对照组不等价，内部效度最低"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 6
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dcfce7"
 tags:
   - method/experimental
   - quantitative-research

@@ -7,6 +7,11 @@ aliases:
 summary: "母子对话研究中的话语分析材料集，按认知社会化与情感社会化组织原始对话、翻译和分析操作示例"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
 tags:
   - theme/socialization
   - theme/learning

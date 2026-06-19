@@ -7,6 +7,11 @@ aliases:
 summary: "一种以学校、班级或其他群体而非个体作为随机化单位的 RCT 设计变体，常用于教育研究中处理集体干预和现场实施条件。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 tags:
 - method/cluster-randomized-trials
 - method/quantitative

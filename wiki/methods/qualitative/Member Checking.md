@@ -8,6 +8,11 @@ aliases:
 summary: "质性研究中将最终报告或特定描述和主题带回给参与者以确认其准确性的效度验证策略"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
+method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
