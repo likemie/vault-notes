@@ -1,5 +1,5 @@
 ---
-title: Confidentiality in Research
+title: Confidentiality
 aliases:
   - 研究保密
   - 研究中的保密性

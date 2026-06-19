@@ -93,37 +93,8 @@ updated: 2026-06-18
 >   R --> S["5.19 结论<br>个人伦理守则六优势"]
 > ```
 
-> [!knowledge-map]- 概念地图
-> ```mermaid
-> flowchart LR
->   subgraph 伦理理论基础
->     A["成本/收益比"] --> B["道义论"]
->     A --> C["后果论/功利主义"]
->     A --> D["德性伦理"]
->     B --> E["Seedhouse金字塔<br>四层伦理决策"]
->     C --> E
->     D --> E
->     E --> F["情境伦理<br>Simons & Usher 2000"]
->   end
->   subgraph 程序性伦理
->     G["[[Informed Consent\|知情同意]]<br>四要素 + 合理知情同意"] --> H["[[Access and Acceptance in Research\|研究准入]]<br>层级协商 + 透明策略"]
->   end
->   subgraph 保护性伦理
->     I["隐私<br>三维度框架"] --> J["匿名<br>五项技术"]
->     I --> K["保密<br>四项技术"]
->     J --> L["反匿名/保密论证<br>Walford 2005"]
->     K --> L
->   end
->   subgraph 争议性实践
->     M["欺骗<br>Kelman三路径"] --> N["[[Covert Research\|隐蔽研究]]<br>overt/covert辩论"]
->     N --> O["背信<br>真理vs信任"]
->   end
->   subgraph 制度层面
->     P["评估研究伦理<br>Strike八原则"] --> Q["[[Institutional Review Board\|IRB]] + 伦理守则<br>Hammersley批评"]
->     Q --> R["个人伦理守则"]
->   end
->   伦理理论基础 --> 程序性伦理 --> 保护性伦理 --> 争议性实践 --> 制度层面
-> ```
+> [!knowledge-map]- 第5章概念地图
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_5_Concept_Map.jpg)
 
 ---
 
@@ -210,11 +181,6 @@ updated: 2026-06-18
 > [!tension] 金字塔各层之间的冲突
 > 四个层次可能产生冲突。例如个体层与外部层的冲突：发现身为校长的朋友将学校资金用于可疑用途，应当举报而失去朋友，还是保持沉默而共谋阻止公众知情？（p.78）Stutchbury & Fox (2009) 对金字塔各层需要提出的重要问题给出了清晰分析。
 
-> [!example]- Figure 5.1：Seedhouse 的伦理金字塔网格
-> > [!note]- 图5.1：Seedhouse's ethical pyramidal grid
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_5-1_Seedhouse_Ethical_Pyramidal_Grid.jpg)
->
-> 来源：改编自 Seedhouse, 1998b
 
 ---
 

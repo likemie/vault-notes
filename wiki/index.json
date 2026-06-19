@@ -4432,9 +4432,9 @@
     ]
   },
   {
-    "title": "Confidentiality in Research",
+    "title": "Confidentiality",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Confidentiality in Research.md",
+    "path": "wiki/concepts/research-methodology/Confidentiality.md",
     "aliases": [
       "研究保密",
       "研究中的保密性",
@@ -5570,10 +5570,10 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Rich and Thick Description.md",
     "aliases": [
-      "丰富密集描述",
       "厚描述",
       "thick description",
-      "rich description"
+      "rich description",
+      "薄描述"
     ]
   },
   {
@@ -6862,14 +6862,15 @@
     ]
   },
   {
-    "title": "Absolutist and Relativist Ethics in Research",
+    "title": "Absolutist and Relativist Ethics",
     "type": "theory",
-    "path": "wiki/theories/research-methodology/Absolutist and Relativist Ethics in Research.md",
+    "path": "wiki/theories/research-methodology/Absolutist and Relativist Ethics.md",
     "aliases": [
-      "绝对主义与相对主义伦理",
       "absolute and relative ethics",
       "absolutist ethics",
-      "relativist ethics"
+      "relativist ethics",
+      "绝对主义伦理",
+      "相对主义伦理"
     ]
   },
   {

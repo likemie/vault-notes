@@ -1,5 +1,5 @@
 ---
-title: Absolutist and Relativist Ethics in Research
+title: Absolutist and Relativist Ethics
 aliases:
   - absolute and relative ethics
   - absolutist ethics

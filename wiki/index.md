@@ -480,7 +480,7 @@ Total entries: **1381**
 > - [[Coherence in Writing]] — Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本组织原则，要求观念相互联结、句子间逻辑推进、段落间自然衔接，可通过钩眼技术逐句检查，在句子、段落和章节三个层面运作
 > - [[Compound Causes]] — 多个原因只有共同作用时才施加因果力的因果结构类型，与单一充分原因和交互效应区分明确
 > - [[Confidence Interval]] — 围绕点估计给出的可能取值范围，用于表示估计不确定性并帮助判断不同结果之间差异的稳定程度。
-> - [[Confidentiality in Research]] — 研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一
+> - [[Confidentiality]] — 研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一
 > - [[Conformative Evaluation]] — Stronach 和 Morris（1994）提出的概念，描述在政治化压力下评估日益呈现顺应委托方议程的8种特征：短期导向、忽视长期结果、过度倚重项目参与者感知、忽视批评者、无理论取向、合同约束下的自我审查、隐性项目辩护和职业精神分裂。
 > - [[Consequential Validity]] — Lather（1991）提出的效度概念，以研究的政治后果和变革效果——而非方法程序的严格性——作为评判研究质量的核心标准。
 > - [[Construct]] — 变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验
@@ -750,7 +750,7 @@ Total entries: **1381**
 > - [[Social Learning Theory]] — Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用
 
 > [!summary]- Research Methodology (8)
-> - [[Absolutist and Relativist Ethics in Research]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
+> - [[Absolutist and Relativist Ethics]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
 > - [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 > - [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
