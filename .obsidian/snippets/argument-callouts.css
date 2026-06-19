@@ -1100,75 +1100,142 @@
 }
 
 
-/* ─── S/W/O/T 四象限 — 独立 callout，各有配色 ──── */
-.callout[data-callout="strength"] {
-  --callout-color: 34, 180, 80;
-  --callout-icon: lucide-trending-up;
-  background: linear-gradient(135deg, rgba(34, 180, 80, 0.07), rgba(34, 180, 80, 0.015)), var(--background-primary);
-  border: 1px solid rgba(34, 180, 80, 0.20);
-  border-left: 4px solid rgb(34, 180, 80);
+/* ═══════════════════════════════════════════════════════════
+   S/W/O/T 四象限 — 各有配色 · 升级版
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── 容器共享结构 ── */
+.callout[data-callout="strength"],
+.callout[data-callout="weakness"],
+.callout[data-callout="opportunity"],
+.callout[data-callout="threat"] {
   border-radius: 10px;
+  border-left-width: 5px;
+  box-shadow: 0 6px 18px rgba(var(--callout-color), 0.09);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
-.callout[data-callout="strength"] > .callout-title { color: rgb(25, 140, 60); }
-.callout[data-callout="strength"] ul > li { background: rgba(34, 180, 80, 0.06); }
+
+/* ── 标题共享结构 ── */
+.callout[data-callout="strength"] > .callout-title,
+.callout[data-callout="weakness"] > .callout-title,
+.callout[data-callout="opportunity"] > .callout-title,
+.callout[data-callout="threat"] > .callout-title {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* ── 徽章共享结构 ── */
+.callout[data-callout="strength"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="weakness"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="opportunity"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="threat"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 1px 7px;
+  border-radius: 4px;
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.10em;
+  vertical-align: middle;
+}
+
+/* ── 个别 callout 颜色 + 徽章文字 ── */
+.callout[data-callout="strength"] {
+  --callout-color: 34, 160, 76;
+  --callout-icon: lucide-trending-up;
+  background: linear-gradient(135deg, rgba(34, 160, 76, 0.09), rgba(34, 160, 76, 0.02)), var(--background-primary);
+  border: 1px solid rgba(34, 160, 76, 0.22);
+  border-left-color: rgb(34, 160, 76);
+}
+.callout[data-callout="strength"] > .callout-title { color: rgb(22, 128, 58); }
+.callout[data-callout="strength"] > .callout-title .callout-title-inner::before { content: "S"; }
+.callout[data-callout="strength"]:hover {
+  box-shadow: 0 0 0 2px rgba(34, 160, 76, 0.22), 0 6px 20px rgba(34, 160, 76, 0.14);
+}
 
 .callout[data-callout="weakness"] {
-  --callout-color: 220, 60, 50;
+  --callout-color: 210, 55, 48;
   --callout-icon: lucide-trending-down;
-  background: linear-gradient(135deg, rgba(220, 60, 50, 0.07), rgba(220, 60, 50, 0.015)), var(--background-primary);
-  border: 1px solid rgba(220, 60, 50, 0.20);
-  border-left: 4px solid rgb(220, 60, 50);
-  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(210, 55, 48, 0.08), rgba(210, 55, 48, 0.02)), var(--background-primary);
+  border: 1px solid rgba(210, 55, 48, 0.22);
+  border-left-color: rgb(210, 55, 48);
 }
-.callout[data-callout="weakness"] > .callout-title { color: rgb(175, 40, 35); }
-.callout[data-callout="weakness"] ul > li { background: rgba(220, 60, 50, 0.06); }
+.callout[data-callout="weakness"] > .callout-title { color: rgb(168, 38, 32); }
+.callout[data-callout="weakness"] > .callout-title .callout-title-inner::before { content: "W"; }
+.callout[data-callout="weakness"]:hover {
+  box-shadow: 0 0 0 2px rgba(210, 55, 48, 0.22), 0 6px 20px rgba(210, 55, 48, 0.14);
+}
 
 .callout[data-callout="opportunity"] {
-  --callout-color: 50, 130, 210;
+  --callout-color: 48, 124, 202;
   --callout-icon: lucide-lightbulb;
-  background: linear-gradient(135deg, rgba(50, 130, 210, 0.07), rgba(50, 130, 210, 0.015)), var(--background-primary);
-  border: 1px solid rgba(50, 130, 210, 0.20);
-  border-left: 4px solid rgb(50, 130, 210);
-  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(48, 124, 202, 0.09), rgba(48, 124, 202, 0.02)), var(--background-primary);
+  border: 1px solid rgba(48, 124, 202, 0.22);
+  border-left-color: rgb(48, 124, 202);
 }
-.callout[data-callout="opportunity"] > .callout-title { color: rgb(35, 100, 170); }
-.callout[data-callout="opportunity"] ul > li { background: rgba(50, 130, 210, 0.06); }
+.callout[data-callout="opportunity"] > .callout-title { color: rgb(32, 95, 165); }
+.callout[data-callout="opportunity"] > .callout-title .callout-title-inner::before { content: "O"; }
+.callout[data-callout="opportunity"]:hover {
+  box-shadow: 0 0 0 2px rgba(48, 124, 202, 0.22), 0 6px 20px rgba(48, 124, 202, 0.14);
+}
 
 .callout[data-callout="threat"] {
-  --callout-color: 220, 160, 35;
+  --callout-color: 210, 148, 28;
   --callout-icon: lucide-alert-triangle;
-  background: linear-gradient(135deg, rgba(220, 160, 35, 0.07), rgba(220, 160, 35, 0.015)), var(--background-primary);
-  border: 1px solid rgba(220, 160, 35, 0.20);
-  border-left: 4px solid rgb(220, 160, 35);
-  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(210, 148, 28, 0.09), rgba(210, 148, 28, 0.02)), var(--background-primary);
+  border: 1px solid rgba(210, 148, 28, 0.22);
+  border-left-color: rgb(210, 148, 28);
 }
-.callout[data-callout="threat"] > .callout-title { color: rgb(175, 125, 20); }
-.callout[data-callout="threat"] ul > li { background: rgba(220, 160, 35, 0.06); }
+.callout[data-callout="threat"] > .callout-title { color: rgb(165, 115, 15); }
+.callout[data-callout="threat"] > .callout-title .callout-title-inner::before { content: "T"; }
+.callout[data-callout="threat"]:hover {
+  box-shadow: 0 0 0 2px rgba(210, 148, 28, 0.22), 0 6px 20px rgba(210, 148, 28, 0.14);
+}
 
-/* 四象限共用 2×2 网格 */
+/* ── 共用 li 卡片 ── */
 .callout[data-callout="strength"] .callout-content > ul,
 .callout[data-callout="weakness"] .callout-content > ul,
 .callout[data-callout="opportunity"] .callout-content > ul,
 .callout[data-callout="threat"] .callout-content > ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.5rem;
+  gap: 0.55rem;
   padding-left: 0;
   list-style: none;
-  margin: 0.4rem 0 0;
+  margin: 0.5rem 0 0.1rem;
 }
+
 .callout[data-callout="strength"] .callout-content > ul > li,
 .callout[data-callout="weakness"] .callout-content > ul > li,
 .callout[data-callout="opportunity"] .callout-content > ul > li,
 .callout[data-callout="threat"] .callout-content > ul > li {
-  padding: 0.45rem 0.6rem;
-  border-radius: 6px;
+  padding: 0.52rem 0.7rem;
+  border-radius: 7px;
   font-size: var(--fs-table);
-  line-height: 1.55;
+  line-height: 1.58;
   margin: 0;
-  border: 1px solid rgba(var(--callout-color), 0.15);
-  border-left: 3px solid rgb(var(--callout-color));
+  border: 1px solid rgba(var(--callout-color), 0.16);
+  border-left: 3px solid rgba(var(--callout-color), 0.65);
+  background:
+    linear-gradient(180deg, rgba(var(--callout-color), 0.04), transparent),
+    rgba(var(--callout-color), 0.05);
+  box-shadow: 0 2px 6px rgba(var(--callout-color), 0.06);
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
 }
+
+.callout[data-callout="strength"] .callout-content > ul > li:hover,
+.callout[data-callout="weakness"] .callout-content > ul > li:hover,
+.callout[data-callout="opportunity"] .callout-content > ul > li:hover,
+.callout[data-callout="threat"] .callout-content > ul > li:hover {
+  background:
+    linear-gradient(180deg, rgba(var(--callout-color), 0.08), transparent),
+    rgba(var(--callout-color), 0.08);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(var(--callout-color), 0.12);
+}
+
 @media (max-width: 640px) {
   .callout[data-callout="strength"] .callout-content > ul,
   .callout[data-callout="weakness"] .callout-content > ul,
@@ -1177,6 +1244,39 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* ── 深色模式 ── */
+.theme-dark .callout[data-callout="strength"] {
+  --callout-color: 50, 200, 100;
+  border-color: rgba(50, 200, 100, 0.24);
+  border-left-color: rgb(50, 200, 100);
+  background: linear-gradient(135deg, rgba(50, 200, 100, 0.10), rgba(50, 200, 100, 0.025)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="strength"] > .callout-title { color: rgb(50, 200, 100); }
+
+.theme-dark .callout[data-callout="weakness"] {
+  --callout-color: 235, 80, 70;
+  border-color: rgba(235, 80, 70, 0.24);
+  border-left-color: rgb(235, 80, 70);
+  background: linear-gradient(135deg, rgba(235, 80, 70, 0.10), rgba(235, 80, 70, 0.025)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="weakness"] > .callout-title { color: rgb(235, 80, 70); }
+
+.theme-dark .callout[data-callout="opportunity"] {
+  --callout-color: 80, 155, 235;
+  border-color: rgba(80, 155, 235, 0.24);
+  border-left-color: rgb(80, 155, 235);
+  background: linear-gradient(135deg, rgba(80, 155, 235, 0.10), rgba(80, 155, 235, 0.025)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="opportunity"] > .callout-title { color: rgb(80, 155, 235); }
+
+.theme-dark .callout[data-callout="threat"] {
+  --callout-color: 240, 175, 50;
+  border-color: rgba(240, 175, 50, 0.24);
+  border-left-color: rgb(240, 175, 50);
+  background: linear-gradient(135deg, rgba(240, 175, 50, 0.10), rgba(240, 175, 50, 0.025)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="threat"] > .callout-title { color: rgb(240, 175, 50); }
 /* ─── step（论证步骤 — 箭头纹 + STEP 角标） ─────────── */
 .callout[data-callout="step"] {
   --callout-color: 175, 105, 55;
@@ -4828,7 +4928,7 @@
 
 /* ── 列表容器 ── */
 .callout[data-callout="critique"] > .callout-content {
-  padding: 0;
+  padding: 0.7rem;
 }
 
 .callout[data-callout="critique"] > .callout-content > ul {
@@ -4836,43 +4936,48 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55rem;
 }
 
-/* ── 每一条批评 ── */
+/* ── 每一条批评 — 卡片式 ── */
 .callout[data-callout="critique"] > .callout-content > ul > li {
   counter-increment: critique-n;
   position: relative;
-  padding: 0.7rem 1rem 0.7rem 2.7rem;
-  border-bottom: 1px solid rgba(48, 78, 120, 0.08);
-  line-height: 1.65;
+  padding: 0.6rem 2rem 0.6rem 0.75rem;
+  border: 1px solid rgba(48, 78, 120, 0.18);
+  border-top: 3px solid rgb(48, 78, 120);
+  border-radius: 7px;
+  background: linear-gradient(180deg, rgba(48, 78, 120, 0.07), rgba(48, 78, 120, 0.02));
+  line-height: 1.62;
+  font-size: var(--fs-table);
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.callout[data-callout="critique"] > .callout-content > ul > li:last-child {
-  border-bottom: none;
-}
-
-/* 悬停高亮 */
 .callout[data-callout="critique"] > .callout-content > ul > li:hover {
-  background: rgba(48, 78, 120, 0.04);
+  background: linear-gradient(180deg, rgba(48, 78, 120, 0.12), rgba(48, 78, 120, 0.05));
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(48, 78, 120, 0.14);
 }
 
-/* ── 圆形数字徽章 ── */
+/* ── 圆形数字徽章 — 右上角 ── */
 .callout[data-callout="critique"] > .callout-content > ul > li::before {
   content: counter(critique-n);
   position: absolute;
-  left: 0.9rem;
-  top: 0.88rem;
-  width: 1.22rem;
-  height: 1.22rem;
+  top: 0.38rem;
+  right: 0.42rem;
+  width: 1.12rem;
+  height: 1.12rem;
   border-radius: 50%;
   background: rgb(48, 78, 120);
   color: #fff;
-  font-size: 0.64em;
+  font-size: 0.62em;
   font-weight: 700;
-  line-height: 1.22rem;
+  line-height: 1.12rem;
   text-align: center;
   letter-spacing: 0;
-  box-shadow: 0 1px 4px rgba(48, 78, 120, 0.25);
+  box-shadow: 0 1px 3px rgba(48, 78, 120, 0.25);
 }
 
 /* ── 深色模式 ── */
@@ -5845,7 +5950,7 @@
 }
 
 .callout[data-callout^="critique-"] > .callout-content {
-  padding: 0;
+  padding: 0.7rem;
 }
 
 .callout[data-callout^="critique-"] > .callout-content > ul {
@@ -5853,39 +5958,45 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55rem;
 }
 
 .callout[data-callout^="critique-"] > .callout-content > ul > li {
   counter-increment: critique-n;
   position: relative;
-  padding: 0.7rem 1rem 0.7rem 2.7rem;
-  border-bottom: 1px solid rgba(var(--callout-color), 0.08);
-  line-height: 1.65;
-}
-
-.callout[data-callout^="critique-"] > .callout-content > ul > li:last-child {
-  border-bottom: none;
+  padding: 0.6rem 2rem 0.6rem 0.75rem;
+  border: 1px solid rgba(var(--callout-color), 0.18);
+  border-top: 3px solid rgb(var(--callout-color));
+  border-radius: 7px;
+  background: linear-gradient(180deg, rgba(var(--callout-color), 0.07), rgba(var(--callout-color), 0.02));
+  line-height: 1.62;
+  font-size: var(--fs-table);
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .callout[data-callout^="critique-"] > .callout-content > ul > li:hover {
-  background: rgba(var(--callout-color), 0.04);
+  background: linear-gradient(180deg, rgba(var(--callout-color), 0.12), rgba(var(--callout-color), 0.05));
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(var(--callout-color), 0.14);
 }
 
 .callout[data-callout^="critique-"] > .callout-content > ul > li::before {
   content: counter(critique-n);
   position: absolute;
-  left: 0.9rem;
-  top: 0.88rem;
-  width: 1.22rem;
-  height: 1.22rem;
+  top: 0.38rem;
+  right: 0.42rem;
+  width: 1.12rem;
+  height: 1.12rem;
   border-radius: 50%;
   background: rgb(var(--callout-color));
   color: #fff;
-  font-size: 0.64em;
+  font-size: 0.62em;
   font-weight: 700;
-  line-height: 1.22rem;
+  line-height: 1.12rem;
   text-align: center;
-  box-shadow: 0 1px 4px rgba(var(--callout-color), 0.25);
+  box-shadow: 0 1px 3px rgba(var(--callout-color), 0.25);
 }
 
 /* 标签徽章通用样式 */
@@ -5958,6 +6069,9 @@
   --callout-color: 152, 32, 42;
   --callout-icon: lucide-alert-triangle;
   border-left-width: 8px;
+}
+.callout[data-callout="critique-fatal"] > .callout-content > ul {
+  grid-template-columns: 1fr;   /* 单列，致命缺陷需完整描述 */
 }
 .callout[data-callout="critique-fatal"] > .callout-title {
   color: rgb(152, 32, 42);
@@ -10537,3 +10651,479 @@
 .callout[data-callout="col-r"] {
   transition: border-color 0.2s ease, background 0.2s ease;
 }
+
+
+/* ═══════════════════════════════════════════════════════════════════
+   AJ-20  OBSIDIAN 内置 CALLOUT 全套覆盖 — 升级为 vault 视觉语言
+   覆盖类型：note · abstract/summary/tldr · info · todo
+            tip/hint/important · success/check/done
+            question/faq/help · warning/caution/attention
+            failure/fail/missing · danger/error · bug
+            example · quote/cite
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── 共享动效基础（所有内置类型） ── */
+.callout[data-callout="note"],
+.callout[data-callout="abstract"], .callout[data-callout="summary"], .callout[data-callout="tldr"],
+.callout[data-callout="info"],
+.callout[data-callout="todo"],
+.callout[data-callout="tip"], .callout[data-callout="hint"], .callout[data-callout="important"],
+.callout[data-callout="success"], .callout[data-callout="check"], .callout[data-callout="done"],
+.callout[data-callout="question"], .callout[data-callout="faq"], .callout[data-callout="help"],
+.callout[data-callout="warning"], .callout[data-callout="caution"], .callout[data-callout="attention"],
+.callout[data-callout="failure"], .callout[data-callout="fail"], .callout[data-callout="missing"],
+.callout[data-callout="danger"], .callout[data-callout="error"],
+.callout[data-callout="bug"],
+.callout[data-callout="example"],
+.callout[data-callout="quote"], .callout[data-callout="cite"] {
+  border-left-width: 5px;
+  border-radius: 8px;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+/* ── 共享标题徽章结构 ── */
+.callout[data-callout="note"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="abstract"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="summary"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="tldr"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="info"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="todo"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="tip"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="hint"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="important"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="success"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="check"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="done"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="question"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="faq"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="help"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="warning"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="caution"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="attention"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="failure"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="fail"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="missing"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="danger"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="error"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="bug"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="example"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="quote"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="cite"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: rgba(var(--callout-color), 0.13);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  vertical-align: middle;
+}
+
+/* ── 共享标题 font-weight ── */
+.callout[data-callout="note"] > .callout-title,
+.callout[data-callout="abstract"] > .callout-title,
+.callout[data-callout="summary"] > .callout-title,
+.callout[data-callout="tldr"] > .callout-title,
+.callout[data-callout="info"] > .callout-title,
+.callout[data-callout="todo"] > .callout-title,
+.callout[data-callout="tip"] > .callout-title,
+.callout[data-callout="hint"] > .callout-title,
+.callout[data-callout="important"] > .callout-title,
+.callout[data-callout="success"] > .callout-title,
+.callout[data-callout="check"] > .callout-title,
+.callout[data-callout="done"] > .callout-title,
+.callout[data-callout="question"] > .callout-title,
+.callout[data-callout="faq"] > .callout-title,
+.callout[data-callout="help"] > .callout-title,
+.callout[data-callout="warning"] > .callout-title,
+.callout[data-callout="caution"] > .callout-title,
+.callout[data-callout="attention"] > .callout-title,
+.callout[data-callout="failure"] > .callout-title,
+.callout[data-callout="fail"] > .callout-title,
+.callout[data-callout="missing"] > .callout-title,
+.callout[data-callout="danger"] > .callout-title,
+.callout[data-callout="error"] > .callout-title,
+.callout[data-callout="bug"] > .callout-title,
+.callout[data-callout="example"] > .callout-title,
+.callout[data-callout="quote"] > .callout-title,
+.callout[data-callout="cite"] > .callout-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+/* ─────────────────────────────────────────────
+   note  — 石板蓝
+   ───────────────────────────────────────────── */
+.callout[data-callout="note"] {
+  --callout-color: 88, 108, 138;
+  background: linear-gradient(135deg, rgba(88, 108, 138, 0.07), rgba(88, 108, 138, 0.01)), var(--background-primary);
+  border: 1px solid rgba(88, 108, 138, 0.20);
+  border-left-color: rgb(88, 108, 138);
+  box-shadow: 0 4px 14px rgba(88, 108, 138, 0.07);
+}
+.callout[data-callout="note"] > .callout-title { color: rgb(65, 85, 115); }
+.callout[data-callout="note"] > .callout-title .callout-title-inner::before { content: "NOTE"; }
+.callout[data-callout="note"]:hover {
+  box-shadow: 0 0 0 2px rgba(88, 108, 138, 0.20), 0 6px 18px rgba(88, 108, 138, 0.12);
+}
+.theme-dark .callout[data-callout="note"] {
+  --callout-color: 130, 155, 190;
+  border-color: rgba(130, 155, 190, 0.22); border-left-color: rgb(130, 155, 190);
+  background: linear-gradient(135deg, rgba(130, 155, 190, 0.09), rgba(130, 155, 190, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="note"] > .callout-title { color: rgb(140, 165, 200); }
+
+/* ─────────────────────────────────────────────
+   abstract / summary / tldr — 青蓝
+   ───────────────────────────────────────────── */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --callout-color: 20, 148, 152;
+  background: linear-gradient(135deg, rgba(20, 148, 152, 0.08), rgba(20, 148, 152, 0.01)), var(--background-primary);
+  border: 1px solid rgba(20, 148, 152, 0.20);
+  border-left-color: rgb(20, 148, 152);
+  box-shadow: 0 4px 14px rgba(20, 148, 152, 0.07);
+}
+.callout[data-callout="abstract"] > .callout-title,
+.callout[data-callout="summary"] > .callout-title,
+.callout[data-callout="tldr"] > .callout-title { color: rgb(14, 118, 122); }
+.callout[data-callout="abstract"] > .callout-title .callout-title-inner::before { content: "ABSTRACT"; }
+.callout[data-callout="summary"] > .callout-title .callout-title-inner::before { content: "SUMMARY"; }
+.callout[data-callout="tldr"] > .callout-title .callout-title-inner::before { content: "TL;DR"; }
+.callout[data-callout="abstract"]:hover,
+.callout[data-callout="summary"]:hover,
+.callout[data-callout="tldr"]:hover {
+  box-shadow: 0 0 0 2px rgba(20, 148, 152, 0.20), 0 6px 18px rgba(20, 148, 152, 0.12);
+}
+.theme-dark .callout[data-callout="abstract"],
+.theme-dark .callout[data-callout="summary"],
+.theme-dark .callout[data-callout="tldr"] {
+  --callout-color: 40, 190, 195;
+  border-color: rgba(40, 190, 195, 0.22); border-left-color: rgb(40, 190, 195);
+  background: linear-gradient(135deg, rgba(40, 190, 195, 0.09), rgba(40, 190, 195, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="abstract"] > .callout-title,
+.theme-dark .callout[data-callout="summary"] > .callout-title,
+.theme-dark .callout[data-callout="tldr"] > .callout-title { color: rgb(50, 200, 205); }
+
+/* ─────────────────────────────────────────────
+   info — 钢蓝
+   ───────────────────────────────────────────── */
+.callout[data-callout="info"] {
+  --callout-color: 45, 100, 160;
+  background: linear-gradient(135deg, rgba(45, 100, 160, 0.08), rgba(45, 100, 160, 0.01)), var(--background-primary);
+  border: 1px solid rgba(45, 100, 160, 0.20);
+  border-left-color: rgb(45, 100, 160);
+  box-shadow: 0 4px 14px rgba(45, 100, 160, 0.07);
+}
+.callout[data-callout="info"] > .callout-title { color: rgb(32, 76, 130); }
+.callout[data-callout="info"] > .callout-title .callout-title-inner::before { content: "INFO"; }
+.callout[data-callout="info"]:hover {
+  box-shadow: 0 0 0 2px rgba(45, 100, 160, 0.20), 0 6px 18px rgba(45, 100, 160, 0.12);
+}
+.theme-dark .callout[data-callout="info"] {
+  --callout-color: 80, 148, 220;
+  border-color: rgba(80, 148, 220, 0.22); border-left-color: rgb(80, 148, 220);
+  background: linear-gradient(135deg, rgba(80, 148, 220, 0.09), rgba(80, 148, 220, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="info"] > .callout-title { color: rgb(90, 158, 230); }
+
+/* ─────────────────────────────────────────────
+   todo — 靛蓝
+   ───────────────────────────────────────────── */
+.callout[data-callout="todo"] {
+  --callout-color: 72, 88, 195;
+  background: linear-gradient(135deg, rgba(72, 88, 195, 0.08), rgba(72, 88, 195, 0.01)), var(--background-primary);
+  border: 1px solid rgba(72, 88, 195, 0.20);
+  border-left-color: rgb(72, 88, 195);
+  box-shadow: 0 4px 14px rgba(72, 88, 195, 0.07);
+}
+.callout[data-callout="todo"] > .callout-title { color: rgb(52, 68, 168); }
+.callout[data-callout="todo"] > .callout-title .callout-title-inner::before { content: "TODO"; }
+.callout[data-callout="todo"]:hover {
+  box-shadow: 0 0 0 2px rgba(72, 88, 195, 0.20), 0 6px 18px rgba(72, 88, 195, 0.12);
+}
+.theme-dark .callout[data-callout="todo"] {
+  --callout-color: 110, 130, 235;
+  border-color: rgba(110, 130, 235, 0.22); border-left-color: rgb(110, 130, 235);
+  background: linear-gradient(135deg, rgba(110, 130, 235, 0.09), rgba(110, 130, 235, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="todo"] > .callout-title { color: rgb(125, 145, 242); }
+
+/* ─────────────────────────────────────────────
+   tip / hint / important — 翡翠绿
+   ───────────────────────────────────────────── */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --callout-color: 28, 155, 88;
+  background: linear-gradient(135deg, rgba(28, 155, 88, 0.08), rgba(28, 155, 88, 0.01)), var(--background-primary);
+  border: 1px solid rgba(28, 155, 88, 0.20);
+  border-left-color: rgb(28, 155, 88);
+  box-shadow: 0 4px 14px rgba(28, 155, 88, 0.07);
+}
+.callout[data-callout="tip"] > .callout-title,
+.callout[data-callout="hint"] > .callout-title,
+.callout[data-callout="important"] > .callout-title { color: rgb(18, 122, 68); }
+.callout[data-callout="tip"] > .callout-title .callout-title-inner::before { content: "TIP"; }
+.callout[data-callout="hint"] > .callout-title .callout-title-inner::before { content: "HINT"; }
+.callout[data-callout="important"] > .callout-title .callout-title-inner::before { content: "IMPORTANT"; }
+.callout[data-callout="tip"]:hover,
+.callout[data-callout="hint"]:hover,
+.callout[data-callout="important"]:hover {
+  box-shadow: 0 0 0 2px rgba(28, 155, 88, 0.20), 0 6px 18px rgba(28, 155, 88, 0.12);
+}
+.theme-dark .callout[data-callout="tip"],
+.theme-dark .callout[data-callout="hint"],
+.theme-dark .callout[data-callout="important"] {
+  --callout-color: 50, 200, 118;
+  border-color: rgba(50, 200, 118, 0.22); border-left-color: rgb(50, 200, 118);
+  background: linear-gradient(135deg, rgba(50, 200, 118, 0.09), rgba(50, 200, 118, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="tip"] > .callout-title,
+.theme-dark .callout[data-callout="hint"] > .callout-title,
+.theme-dark .callout[data-callout="important"] > .callout-title { color: rgb(60, 210, 128); }
+
+/* ─────────────────────────────────────────────
+   success / check / done — 草绿
+   ───────────────────────────────────────────── */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-color: 38, 170, 100;
+  background: linear-gradient(135deg, rgba(38, 170, 100, 0.08), rgba(38, 170, 100, 0.01)), var(--background-primary);
+  border: 1px solid rgba(38, 170, 100, 0.20);
+  border-left-color: rgb(38, 170, 100);
+  box-shadow: 0 4px 14px rgba(38, 170, 100, 0.07);
+}
+.callout[data-callout="success"] > .callout-title,
+.callout[data-callout="check"] > .callout-title,
+.callout[data-callout="done"] > .callout-title { color: rgb(25, 135, 78); }
+.callout[data-callout="success"] > .callout-title .callout-title-inner::before { content: "SUCCESS"; }
+.callout[data-callout="check"] > .callout-title .callout-title-inner::before { content: "CHECK"; }
+.callout[data-callout="done"] > .callout-title .callout-title-inner::before { content: "DONE"; }
+.callout[data-callout="success"]:hover,
+.callout[data-callout="check"]:hover,
+.callout[data-callout="done"]:hover {
+  box-shadow: 0 0 0 2px rgba(38, 170, 100, 0.20), 0 6px 18px rgba(38, 170, 100, 0.12);
+}
+.theme-dark .callout[data-callout="success"],
+.theme-dark .callout[data-callout="check"],
+.theme-dark .callout[data-callout="done"] {
+  --callout-color: 62, 210, 130;
+  border-color: rgba(62, 210, 130, 0.22); border-left-color: rgb(62, 210, 130);
+  background: linear-gradient(135deg, rgba(62, 210, 130, 0.09), rgba(62, 210, 130, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="success"] > .callout-title,
+.theme-dark .callout[data-callout="check"] > .callout-title,
+.theme-dark .callout[data-callout="done"] > .callout-title { color: rgb(72, 220, 140); }
+
+/* ─────────────────────────────────────────────
+   question / faq / help — 紫罗兰
+   ───────────────────────────────────────────── */
+.callout[data-callout="question"],
+.callout[data-callout="faq"],
+.callout[data-callout="help"] {
+  --callout-color: 118, 60, 178;
+  background: linear-gradient(135deg, rgba(118, 60, 178, 0.08), rgba(118, 60, 178, 0.01)), var(--background-primary);
+  border: 1px solid rgba(118, 60, 178, 0.20);
+  border-left-color: rgb(118, 60, 178);
+  box-shadow: 0 4px 14px rgba(118, 60, 178, 0.07);
+}
+.callout[data-callout="question"] > .callout-title,
+.callout[data-callout="faq"] > .callout-title,
+.callout[data-callout="help"] > .callout-title { color: rgb(92, 42, 148); }
+.callout[data-callout="question"] > .callout-title .callout-title-inner::before { content: "Q"; }
+.callout[data-callout="faq"] > .callout-title .callout-title-inner::before { content: "FAQ"; }
+.callout[data-callout="help"] > .callout-title .callout-title-inner::before { content: "HELP"; }
+.callout[data-callout="question"]:hover,
+.callout[data-callout="faq"]:hover,
+.callout[data-callout="help"]:hover {
+  box-shadow: 0 0 0 2px rgba(118, 60, 178, 0.20), 0 6px 18px rgba(118, 60, 178, 0.12);
+}
+.theme-dark .callout[data-callout="question"],
+.theme-dark .callout[data-callout="faq"],
+.theme-dark .callout[data-callout="help"] {
+  --callout-color: 168, 108, 235;
+  border-color: rgba(168, 108, 235, 0.22); border-left-color: rgb(168, 108, 235);
+  background: linear-gradient(135deg, rgba(168, 108, 235, 0.09), rgba(168, 108, 235, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="question"] > .callout-title,
+.theme-dark .callout[data-callout="faq"] > .callout-title,
+.theme-dark .callout[data-callout="help"] > .callout-title { color: rgb(178, 118, 245); }
+
+/* ─────────────────────────────────────────────
+   warning / caution / attention — 琥珀
+   ───────────────────────────────────────────── */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --callout-color: 195, 135, 18;
+  background: linear-gradient(135deg, rgba(195, 135, 18, 0.09), rgba(195, 135, 18, 0.02)), var(--background-primary);
+  border: 1px solid rgba(195, 135, 18, 0.22);
+  border-left-color: rgb(195, 135, 18);
+  box-shadow: 0 4px 14px rgba(195, 135, 18, 0.08);
+}
+.callout[data-callout="warning"] > .callout-title,
+.callout[data-callout="caution"] > .callout-title,
+.callout[data-callout="attention"] > .callout-title { color: rgb(155, 105, 10); }
+.callout[data-callout="warning"] > .callout-title .callout-title-inner::before { content: "WARNING"; }
+.callout[data-callout="caution"] > .callout-title .callout-title-inner::before { content: "CAUTION"; }
+.callout[data-callout="attention"] > .callout-title .callout-title-inner::before { content: "ATTENTION"; }
+.callout[data-callout="warning"]:hover,
+.callout[data-callout="caution"]:hover,
+.callout[data-callout="attention"]:hover {
+  box-shadow: 0 0 0 2px rgba(195, 135, 18, 0.22), 0 6px 18px rgba(195, 135, 18, 0.14);
+}
+.theme-dark .callout[data-callout="warning"],
+.theme-dark .callout[data-callout="caution"],
+.theme-dark .callout[data-callout="attention"] {
+  --callout-color: 235, 175, 50;
+  border-color: rgba(235, 175, 50, 0.24); border-left-color: rgb(235, 175, 50);
+  background: linear-gradient(135deg, rgba(235, 175, 50, 0.10), rgba(235, 175, 50, 0.025)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="warning"] > .callout-title,
+.theme-dark .callout[data-callout="caution"] > .callout-title,
+.theme-dark .callout[data-callout="attention"] > .callout-title { color: rgb(245, 185, 62); }
+
+/* ─────────────────────────────────────────────
+   failure / fail / missing — 玫红
+   ───────────────────────────────────────────── */
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  --callout-color: 195, 55, 55;
+  background: linear-gradient(135deg, rgba(195, 55, 55, 0.08), rgba(195, 55, 55, 0.01)), var(--background-primary);
+  border: 1px solid rgba(195, 55, 55, 0.20);
+  border-left-color: rgb(195, 55, 55);
+  box-shadow: 0 4px 14px rgba(195, 55, 55, 0.07);
+}
+.callout[data-callout="failure"] > .callout-title,
+.callout[data-callout="fail"] > .callout-title,
+.callout[data-callout="missing"] > .callout-title { color: rgb(158, 38, 38); }
+.callout[data-callout="failure"] > .callout-title .callout-title-inner::before { content: "FAILURE"; }
+.callout[data-callout="fail"] > .callout-title .callout-title-inner::before { content: "FAIL"; }
+.callout[data-callout="missing"] > .callout-title .callout-title-inner::before { content: "MISSING"; }
+.callout[data-callout="failure"]:hover,
+.callout[data-callout="fail"]:hover,
+.callout[data-callout="missing"]:hover {
+  box-shadow: 0 0 0 2px rgba(195, 55, 55, 0.20), 0 6px 18px rgba(195, 55, 55, 0.12);
+}
+.theme-dark .callout[data-callout="failure"],
+.theme-dark .callout[data-callout="fail"],
+.theme-dark .callout[data-callout="missing"] {
+  --callout-color: 235, 85, 85;
+  border-color: rgba(235, 85, 85, 0.22); border-left-color: rgb(235, 85, 85);
+  background: linear-gradient(135deg, rgba(235, 85, 85, 0.09), rgba(235, 85, 85, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="failure"] > .callout-title,
+.theme-dark .callout[data-callout="fail"] > .callout-title,
+.theme-dark .callout[data-callout="missing"] > .callout-title { color: rgb(245, 95, 95); }
+
+/* ─────────────────────────────────────────────
+   danger / error — 深红
+   ───────────────────────────────────────────── */
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --callout-color: 175, 32, 40;
+  background: linear-gradient(135deg, rgba(175, 32, 40, 0.09), rgba(175, 32, 40, 0.02)), var(--background-primary);
+  border: 1px solid rgba(175, 32, 40, 0.22);
+  border-left: 6px solid rgb(175, 32, 40);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(175, 32, 40, 0.10);
+}
+.callout[data-callout="danger"] > .callout-title,
+.callout[data-callout="error"] > .callout-title { color: rgb(145, 22, 30); }
+.callout[data-callout="danger"] > .callout-title .callout-title-inner::before { content: "DANGER"; }
+.callout[data-callout="error"] > .callout-title .callout-title-inner::before { content: "ERROR"; }
+.callout[data-callout="danger"]:hover,
+.callout[data-callout="error"]:hover {
+  box-shadow: 0 0 0 2px rgba(175, 32, 40, 0.22), 0 8px 22px rgba(175, 32, 40, 0.16);
+}
+.theme-dark .callout[data-callout="danger"],
+.theme-dark .callout[data-callout="error"] {
+  --callout-color: 218, 65, 75;
+  border-color: rgba(218, 65, 75, 0.24); border-left-color: rgb(218, 65, 75);
+  background: linear-gradient(135deg, rgba(218, 65, 75, 0.10), rgba(218, 65, 75, 0.025)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="danger"] > .callout-title,
+.theme-dark .callout[data-callout="error"] > .callout-title { color: rgb(228, 75, 85); }
+
+/* ─────────────────────────────────────────────
+   bug — 橙红
+   ───────────────────────────────────────────── */
+.callout[data-callout="bug"] {
+  --callout-color: 195, 62, 28;
+  background: linear-gradient(135deg, rgba(195, 62, 28, 0.08), rgba(195, 62, 28, 0.01)), var(--background-primary);
+  border: 1px solid rgba(195, 62, 28, 0.20);
+  border-left-color: rgb(195, 62, 28);
+  box-shadow: 0 4px 14px rgba(195, 62, 28, 0.07);
+}
+.callout[data-callout="bug"] > .callout-title { color: rgb(158, 45, 18); }
+.callout[data-callout="bug"] > .callout-title .callout-title-inner::before { content: "BUG"; }
+.callout[data-callout="bug"]:hover {
+  box-shadow: 0 0 0 2px rgba(195, 62, 28, 0.20), 0 6px 18px rgba(195, 62, 28, 0.12);
+}
+.theme-dark .callout[data-callout="bug"] {
+  --callout-color: 235, 95, 55;
+  border-color: rgba(235, 95, 55, 0.22); border-left-color: rgb(235, 95, 55);
+  background: linear-gradient(135deg, rgba(235, 95, 55, 0.09), rgba(235, 95, 55, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="bug"] > .callout-title { color: rgb(245, 105, 65); }
+
+/* ─────────────────────────────────────────────
+   example — 紫蓝
+   ───────────────────────────────────────────── */
+.callout[data-callout="example"] {
+  --callout-color: 95, 58, 165;
+  background: linear-gradient(135deg, rgba(95, 58, 165, 0.08), rgba(95, 58, 165, 0.01)), var(--background-primary);
+  border: 1px solid rgba(95, 58, 165, 0.20);
+  border-left-color: rgb(95, 58, 165);
+  box-shadow: 0 4px 14px rgba(95, 58, 165, 0.07);
+}
+.callout[data-callout="example"] > .callout-title { color: rgb(72, 38, 135); }
+.callout[data-callout="example"] > .callout-title .callout-title-inner::before { content: "EXAMPLE"; }
+.callout[data-callout="example"]:hover {
+  box-shadow: 0 0 0 2px rgba(95, 58, 165, 0.20), 0 6px 18px rgba(95, 58, 165, 0.12);
+}
+.theme-dark .callout[data-callout="example"] {
+  --callout-color: 148, 105, 225;
+  border-color: rgba(148, 105, 225, 0.22); border-left-color: rgb(148, 105, 225);
+  background: linear-gradient(135deg, rgba(148, 105, 225, 0.09), rgba(148, 105, 225, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="example"] > .callout-title { color: rgb(158, 115, 235); }
+
+/* ─────────────────────────────────────────────
+   quote / cite — 中灰
+   ───────────────────────────────────────────── */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-color: 98, 108, 122;
+  background: linear-gradient(135deg, rgba(98, 108, 122, 0.07), rgba(98, 108, 122, 0.01)), var(--background-primary);
+  border: 1px solid rgba(98, 108, 122, 0.18);
+  border-left-color: rgb(98, 108, 122);
+  box-shadow: 0 4px 14px rgba(98, 108, 122, 0.06);
+  font-style: italic;
+}
+.callout[data-callout="quote"] > .callout-title,
+.callout[data-callout="cite"] > .callout-title {
+  color: rgb(72, 82, 96);
+  font-style: normal;
+}
+.callout[data-callout="quote"] > .callout-title .callout-title-inner::before { content: "QUOTE"; }
+.callout[data-callout="cite"] > .callout-title .callout-title-inner::before { content: "CITE"; }
+.callout[data-callout="quote"]:hover,
+.callout[data-callout="cite"]:hover {
+  box-shadow: 0 0 0 2px rgba(98, 108, 122, 0.18), 0 6px 18px rgba(98, 108, 122, 0.10);
+}
+.theme-dark .callout[data-callout="quote"],
+.theme-dark .callout[data-callout="cite"] {
+  --callout-color: 148, 158, 172;
+  border-color: rgba(148, 158, 172, 0.20); border-left-color: rgb(148, 158, 172);
+  background: linear-gradient(135deg, rgba(148, 158, 172, 0.08), rgba(148, 158, 172, 0.02)), var(--background-primary);
+}
+.theme-dark .callout[data-callout="quote"] > .callout-title,
+.theme-dark .callout[data-callout="cite"] > .callout-title { color: rgb(162, 172, 185); }
