@@ -11,64 +11,119 @@ method_type: qualitative
 tags:
   - method/qualitative
   - research-methodology
-related_concepts:
-  - "[[Reflexivity]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Observation Protocol]]"
-  - "[[Triangulation]]"
-  - "[[Ethnography]]"
+related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+related_arguments: []
 confidence: medium
 status: draft
-created: 2026-06-01
-updated: 2026-06-01
+created: '2026-06-01'
+updated: '2026-06-19'
 ---
 
 # Qualitative Observation
 
+---
+
 ## 定义
 
-> [!info]
-> 质性观察（Qualitative Observation）是[[Qualitative Research|质性研究]]中研究者在研究现场记录个体行为和活动并撰写田野笔记的数据收集方法。研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的问题）。质性观察者还可以在从非参与者到完全参与者的不同角色之间变化（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.199）。
+> [!def] 方法定义
+> 质性观察（Qualitative Observation）是[[Qualitative Research|质性研究]]中研究者在研究现场记录个体行为和活动并撰写田野笔记的数据收集方法。研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的问题）。([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9, p. 199]])
+
+> [!method-scope] 方法范围
+> - **研究对象**：特定教育现场或社会场景中个体与群体的言语、行为、互动以及物理环境。
+> - **问题类型**：适合回答描述性、探索性或生成因果机制的质性问题。
+> - **分析单位**：个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
+> - **输出形式**：描述性笔记、反思性笔记、田野日志、互动编码与深入的质性个案叙事。
+
+> [!citation-card]- 关键定义
+> 质性观察是研究者在研究现场记录个体行为和活动并撰写田野笔记（fieldnotes）的数据收集方法。在这项数据收集活动中，研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的开放式问题）。([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9, p. 199]])
+>
+> Qualitative observations are those in which the researcher takes fieldnotes on the behavior and activities of individuals at the research site. In these data-gathering activities, the researcher records, in an unstructured or semistructured way (using some prior questions that the inquirer wants to know), activities at the research site.
+
+---
+
+## 方法定位
+
+> [!method-position] 认识论与方法定位
+> - **知识观**：主张知识是脉络化的、建构的，强调通过近距离、浸润式的身体在场获取一手的社会学与教育学经验。
+> - **研究者角色**：作为有意识的“研究工具”，在完全参与到完全观察的谱系中动态调整，反思自身的反身性（Reflexivity）与伦理关系。
+> - **有效性标准**：主要通过可信度（Credibility）、转移性（Transferability）、确认性（Confirmability）与三角验证（Triangulation）来确立研究质量。
+> - **不声称回答的问题**：不能声称回答大规模变量之间的统计相关，也不能进行高内部效度的净因果效果识别。
+
+> [!method-stack] 方法层级
+> - **研究设计**：[[Ethnography\|民族志]]、[[Qualitative Research\|质性研究]]、个案研究。
+> - **数据收集**：参与式观察、非参与式观察、田野笔记记录。
+> - **分析方法**：[[Coding in Qualitative Research\|质性编码]]、主题分析、叙事重构。
+> - **辅助技术**：[[Triangulation\|三角互证]]、成员检查、[[Observation Protocol\|观察协议]]。
+
+---
 
 ## 研究程序
 
-### 观察者角色
+> [!proc] 通用程序
+> 1. **明确观察问题与伦理**：明确进入现场的时机、反身性与伦理关系，获取进入许可。
+> 2. **选择观察者角色**：根据现场特征确定在“参与到观察”连续谱中的位置（如完全观察者或作为参与者的观察者）。
+> 3. **记录田野数据**：利用观察协议开展实地观察，分别记录描述性笔记与反思性笔记。
+> 4. **质量控制与三角验证**：利用三角互证、成员检查等方式提高可信度。
+> 5. **提炼与叙事**：整合田野笔记，进行质性编码，提炼主题或开展个案叙事。
 
-观察者角色构成一个从完全参与到完全观察的连续谱（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
+### 质性方法模块
 
-| 角色类型 | 描述 |
-|---|---|
-| 完全参与者（Complete participant） | 研究者隐藏研究者身份，完全融入被观察群体 |
-| 作为参与者的观察者（Observer as participant） | 研究者的研究者身份是已知的，同时参与活动 |
-| 作为观察者的参与者（Participant as observer） | 观察角色次于参与者角色 |
-| 完全观察者（Complete observer） | 研究者只观察，不参与任何活动 |
+> [!sample-panel] 材料与进入现场
+> 
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 实地课堂观察记录、会议记录、校长或教师日常活动的田野笔记、物证与档案资料。 |
+> | 抽样或选案 | 目的抽样、理论抽样、最大变异或关键案例（如选取特定新校长个案进行研究）。 |
+> | 研究者位置 | 研究者需要在现场确定隐蔽程度与参与程度，保持审慎的反身性与研究伦理。 |
+> | 资料边界 | 明确限定的实地观察周期（如为期四个月）、特定物理场所以及观察对象范围。 |
 
-### 观察的优势与局限
+> [!proc] 质性分析程序
+> 1. **田野数据转录与整理**：对田野笔记、观察日志进行整理、转录和初步匿名化阅读。
+> 2. **笔记双向编码**：基于观察协议，对左侧描述性笔记进行编码，对右侧反思性笔记进行归纳。
+> 3. **反思与协商**：结合反思性日记，探讨研究者的偏见与现场互动的动态关系，必要时通过团队协商减少偏见。
+> 4. **厚描述呈现**：撰写富含情境特征的厚描述（thick description），展示行动者推理与因果机制的生成过程。
 
-| 优势 | 局限 |
-|---|---|
-| 研究者有与参与者的一手直接经验 | 研究者可能被视为侵入者 |
-| 研究者可以在信息发生时即时记录 | 可能观察到研究者不能报告的私人信息 |
-| 观察过程中可以注意到不寻常的方面 | 研究者可能不具备良好的注意力和观察技能 |
-| 对探索参与者可能不愿意讨论的话题尤为有用 | 某些参与者（如儿童）可能在建立信任方面存在特殊困难 |
-
-### 观察协议
-
-研究者通常使用[[Observation Protocol|观察协议]]来记录观察信息。该协议通常为一页纸，中间有一条分界线，左侧记录描述性笔记（参与者画像、对话重构、物理环境描述、活动记录），右侧记录[[Reflexivity|反思性]]笔记（研究者的推测、感受、问题、想法、直觉、印象和偏见）（Bogdan & Biklen, 1992, p.121; 引自 Creswell & Creswell, 2022, Ch9）。
+---
 
 ## 适用场景
 
-> [!success]
-> 质性观察适用于以下情境：需要在自然情境中直接了解参与者的行为和互动模式，而非依赖参与者的自我报告；探索参与者可能因社交期望而不愿或不擅长口头表达的话题；需要对研究现场获得整体的、具身化的理解；作为访谈数据的[[Triangulation|三角验证]]来源之一。
+> [!method-fit] 适用判断
+> - **适合使用**：需要在自然情境中直接了解参与者的实际行为和互动模式，而非仅依赖自我报告时；适合探索不愿口头表达的话题；配合访谈数据开展三角验证。
+> - **谨慎使用**：研究者可能被视为侵入者（霍桑效应）；可能观察到无法公开的私人信息；或受试者难以建立信任的场景（如儿童）。
+> - **不适合使用**：旨在识别明确变量间的因果效应量，或在大样本总体中推广统计结论时。
+
+---
+
+## 局限性
+
+> [!method-limits] 方法局限
+> - **偏误来源**：研究者自身的注意力和观察技能局限、霍桑效应（被观察者因受关注而改变行为）、研究者主观偏见污染。
+> - **适用边界**：田野观察极度依赖特定现场脉络，其发现无法直接推广到其他异质性背景。
+> - **误用风险**：将观察到的经验描述直接等同于因果证明，或忽视自身角色对现场行为产生的干扰。
+> - **补救方式**：采用观察协议（分设描述性与反思性笔记），引入第三方成员核验，结合多元数据进行三角验证（Triangulation）。
+
+---
+
+## 相关理论与方法
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Qualitative Research\|质性研究]] | 方法 | 质性观察是质性研究收集一手现场数据的主要前置方法之一。 |
+> | [[Observation Protocol\|观察协议]] | 方法 | 提供记录描述性与反思性笔记的标准一页纸格式工具。 |
+> | [[Triangulation\|三角互证]] | 方法 | 观察通常与访谈、文件分析组合使用，以实现互证和提升可信度。 |
+> | [[Ethnography\|民族志]] | 方法 | 质性观察是民族志研究中不可或缺的浸润式现场考察工具。 |
+> | [[Critical Realism\|批判实在论]] | 理论 | 里格利（Wrigley, 2018, p. 16）指出，探索复杂的因果涌现与行动者推理需要引入质性观察以配合方法论多元主义。 |
+
+---
 
 ## 使用此方法的研究
 
-> [!example] 使用此方法的研究
-> - Miller（1992）在一项关于四年制学院新校长第一年经历的[[Ethnography|民族志研究]]中，对行政内阁会议和校长日常活动分别进行了每两月一次、每次两小时的观察，持续四个月（2–5 月）。观察由研究者以参与者身份在现场进行，辅以田野日志记录时间分配、田野笔记本记录观察细节、田野日记记录研究者的思考与感受。该研究同时结合了访谈和文件分析作为[[Triangulation|三角验证]]来源（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
-
+> [!evidence-grid-a] 研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 介绍了 Miller (1992) 在一项关于四年制学院新校长第一年经历的民族志研究中，对校长行政内阁会议和日常活动进行系统现场观察的案例。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 指出在教育开放系统与复杂背景下探索因果涌现，必须引入质性观察以配合多元改进和方法论实在论。

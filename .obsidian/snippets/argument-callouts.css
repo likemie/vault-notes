@@ -7512,6 +7512,453 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   COL1-TABLE — 固定首列宽度表格
+   用途：首列为标签/术语，固定占比 28%，其余列均分。
+   用法：[!col1-table] 标题
+         | 标签 | 内容 | 备注 |
+   注意：首列内容过长会换行但不会破坏布局。
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="col1-table"] {
+  --callout-color: 42, 120, 108;
+  --callout-icon: lucide-columns-2;
+  background: var(--background-primary);
+  border: 1px solid rgba(42, 120, 108, 0.18);
+  border-left: 5px solid rgb(42, 120, 108);
+  border-radius: 8px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(42, 120, 108, 0.06), 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.callout[data-callout="col1-table"] > .callout-title {
+  color: rgb(28, 98, 88);
+  font-weight: 650;
+  padding: 0.6rem 1.1rem;
+  border-bottom: 1px solid rgba(42, 120, 108, 0.13);
+  background: linear-gradient(90deg, rgba(42, 120, 108, 0.07), rgba(42, 120, 108, 0.02));
+}
+
+.callout[data-callout="col1-table"] > .callout-title .callout-title-inner::before {
+  content: "COL1";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(42, 120, 108, 0.12);
+  color: rgb(28, 98, 88);
+  font-size: var(--fs-label);
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="col1-table"] > .callout-content {
+  padding: 0;
+}
+
+.callout[data-callout="col1-table"] table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  table-layout: fixed;
+}
+
+/* 首列固定 28% */
+.callout[data-callout="col1-table"] th:first-child,
+.callout[data-callout="col1-table"] td:first-child {
+  width: 28%;
+}
+
+.callout[data-callout="col1-table"] thead th {
+  background: rgba(42, 120, 108, 0.09);
+  color: rgb(28, 98, 88);
+  font-weight: 650;
+  font-size: var(--fs-table);
+  letter-spacing: 0.03em;
+  padding: 0.52rem 1rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(42, 120, 108, 0.22);
+}
+
+.callout[data-callout="col1-table"] tbody td {
+  padding: 0.52rem 1rem;
+  font-size: var(--fs-table);
+  border-bottom: 1px solid rgba(42, 120, 108, 0.08);
+  vertical-align: top;
+  line-height: 1.62;
+}
+
+.callout[data-callout="col1-table"] tbody td:first-child {
+  background: rgba(42, 120, 108, 0.06);
+  color: rgb(28, 98, 88);
+  font-weight: 580;
+  border-right: 1px solid rgba(42, 120, 108, 0.13);
+}
+
+.callout[data-callout="col1-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="col1-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+
+.callout[data-callout="col1-table"] tbody tr:hover {
+  background: rgba(42, 120, 108, 0.05);
+}
+
+/* Dark mode */
+.theme-dark .callout[data-callout="col1-table"] {
+  --callout-color: 78, 178, 162;
+  border-color: rgba(78, 178, 162, 0.20);
+}
+
+.theme-dark .callout[data-callout="col1-table"] > .callout-title {
+  color: rgb(78, 178, 162);
+}
+
+.theme-dark .callout[data-callout="col1-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(78, 178, 162, 0.14);
+  color: rgb(78, 178, 162);
+}
+
+.theme-dark .callout[data-callout="col1-table"] thead th {
+  background: rgba(78, 178, 162, 0.10);
+  color: rgb(78, 178, 162);
+  border-bottom-color: rgba(78, 178, 162, 0.26);
+}
+
+.theme-dark .callout[data-callout="col1-table"] tbody td {
+  border-bottom-color: rgba(78, 178, 162, 0.07);
+}
+
+.theme-dark .callout[data-callout="col1-table"] tbody td:first-child {
+  background: rgba(78, 178, 162, 0.07);
+  color: rgb(78, 178, 162);
+  border-right-color: rgba(78, 178, 162, 0.15);
+}
+
+.theme-dark .callout[data-callout="col1-table"] tbody tr:hover {
+  background: rgba(78, 178, 162, 0.06);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   SEQ-TABLE — CSS 自动序号表格
+   用途：有序列表式表格，首列由 CSS counter 自动生成编号圆圈。
+   用法：[!seq-table] 标题
+         | （空或 -） | 内容 | 备注 |
+   注意：首列在 Markdown 里留空或填占位符，CSS 自动注入序号。
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="seq-table"] {
+  --callout-color: 70, 88, 165;
+  --callout-icon: lucide-list-ordered;
+  background: var(--background-primary);
+  border: 1px solid rgba(70, 88, 165, 0.18);
+  border-left: 5px solid rgb(70, 88, 165);
+  border-radius: 8px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(70, 88, 165, 0.06), 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.callout[data-callout="seq-table"] > .callout-title {
+  color: rgb(52, 68, 142);
+  font-weight: 650;
+  padding: 0.6rem 1.1rem;
+  border-bottom: 1px solid rgba(70, 88, 165, 0.13);
+  background: linear-gradient(90deg, rgba(70, 88, 165, 0.07), rgba(70, 88, 165, 0.02));
+}
+
+.callout[data-callout="seq-table"] > .callout-title .callout-title-inner::before {
+  content: "SEQ";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(70, 88, 165, 0.12);
+  color: rgb(52, 68, 142);
+  font-size: var(--fs-label);
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="seq-table"] > .callout-content {
+  padding: 0;
+}
+
+.callout[data-callout="seq-table"] table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+.callout[data-callout="seq-table"] thead th {
+  background: rgba(70, 88, 165, 0.09);
+  color: rgb(52, 68, 142);
+  font-weight: 650;
+  font-size: var(--fs-table);
+  letter-spacing: 0.03em;
+  padding: 0.52rem 1rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(70, 88, 165, 0.22);
+}
+
+/* 首列表头缩窄 */
+.callout[data-callout="seq-table"] thead th:first-child {
+  width: 3rem;
+  text-align: center;
+}
+
+/* CSS 计数器 */
+.callout[data-callout="seq-table"] tbody {
+  counter-reset: seq-n;
+}
+
+.callout[data-callout="seq-table"] tbody tr {
+  counter-increment: seq-n;
+  transition: background 0.13s ease;
+}
+
+.callout[data-callout="seq-table"] tbody tr:hover {
+  background: rgba(70, 88, 165, 0.05);
+}
+
+.callout[data-callout="seq-table"] tbody td {
+  padding: 0.52rem 1rem;
+  font-size: var(--fs-table);
+  border-bottom: 1px solid rgba(70, 88, 165, 0.08);
+  vertical-align: middle;
+  line-height: 1.62;
+}
+
+.callout[data-callout="seq-table"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* 首列：隐藏用户填写内容，注入序号圆形徽章 */
+.callout[data-callout="seq-table"] tbody td:first-child {
+  width: 3rem;
+  min-width: 3rem;
+  max-width: 3rem;
+  text-align: center;
+  padding: 0.4rem 0.3rem;
+  font-size: 0;
+  background: rgba(70, 88, 165, 0.04);
+  border-right: 1px solid rgba(70, 88, 165, 0.11);
+  vertical-align: middle;
+}
+
+.callout[data-callout="seq-table"] tbody td:first-child::before {
+  content: counter(seq-n);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.55em;
+  height: 1.55em;
+  border-radius: 50%;
+  background: rgba(70, 88, 165, 0.12);
+  border: 1.5px solid rgba(70, 88, 165, 0.30);
+  color: rgb(52, 68, 142);
+  font-size: 0.80rem;
+  font-weight: 720;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+/* Dark mode */
+.theme-dark .callout[data-callout="seq-table"] {
+  --callout-color: 130, 148, 230;
+  border-color: rgba(130, 148, 230, 0.20);
+}
+
+.theme-dark .callout[data-callout="seq-table"] > .callout-title {
+  color: rgb(130, 148, 230);
+}
+
+.theme-dark .callout[data-callout="seq-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(130, 148, 230, 0.14);
+  color: rgb(130, 148, 230);
+}
+
+.theme-dark .callout[data-callout="seq-table"] thead th {
+  background: rgba(130, 148, 230, 0.10);
+  color: rgb(130, 148, 230);
+  border-bottom-color: rgba(130, 148, 230, 0.26);
+}
+
+.theme-dark .callout[data-callout="seq-table"] tbody td {
+  border-bottom-color: rgba(130, 148, 230, 0.07);
+}
+
+.theme-dark .callout[data-callout="seq-table"] tbody tr:hover {
+  background: rgba(130, 148, 230, 0.06);
+}
+
+.theme-dark .callout[data-callout="seq-table"] tbody td:first-child {
+  background: rgba(130, 148, 230, 0.06);
+  border-right-color: rgba(130, 148, 230, 0.13);
+}
+
+.theme-dark .callout[data-callout="seq-table"] tbody td:first-child::before {
+  background: rgba(130, 148, 230, 0.15);
+  border-color: rgba(130, 148, 230, 0.34);
+  color: rgb(150, 168, 240);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   DUAL-HEADER — 行列双标题表格
+   用途：矩阵/交叉对比表，同时需要标注行标题和列标题。
+   配色：同一主色，表头行（深）+ 首列（浅），左上角交叉格最深。
+   用法：[!dual-header] 标题
+         | （交叉标签） | 列A | 列B |
+         | 行一 | 内容 | 内容 |
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="dual-header"] {
+  --callout-color: 100, 68, 155;
+  --callout-icon: lucide-table-2;
+  background: var(--background-primary);
+  border: 1px solid rgba(100, 68, 155, 0.18);
+  border-left: 5px solid rgb(100, 68, 155);
+  border-radius: 8px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(100, 68, 155, 0.07), 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.callout[data-callout="dual-header"] > .callout-title {
+  color: rgb(78, 50, 128);
+  font-weight: 650;
+  padding: 0.6rem 1.1rem;
+  border-bottom: 1px solid rgba(100, 68, 155, 0.13);
+  background: linear-gradient(90deg, rgba(100, 68, 155, 0.07), rgba(100, 68, 155, 0.02));
+}
+
+.callout[data-callout="dual-header"] > .callout-title .callout-title-inner::before {
+  content: "GRID";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: rgba(100, 68, 155, 0.12);
+  color: rgb(78, 50, 128);
+  font-size: var(--fs-label);
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="dual-header"] > .callout-content {
+  padding: 0;
+}
+
+.callout[data-callout="dual-header"] table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+/* 表头行（深色） */
+.callout[data-callout="dual-header"] thead th {
+  background: rgba(100, 68, 155, 0.14);
+  color: rgb(65, 42, 108);
+  font-weight: 700;
+  font-size: var(--fs-table);
+  letter-spacing: 0.03em;
+  padding: 0.52rem 1rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(100, 68, 155, 0.28);
+}
+
+/* 左上角交叉格（最深） */
+.callout[data-callout="dual-header"] thead th:first-child {
+  background: rgba(100, 68, 155, 0.24);
+  color: rgb(78, 50, 128);
+}
+
+/* 数据行 */
+.callout[data-callout="dual-header"] tbody td {
+  padding: 0.52rem 1rem;
+  font-size: var(--fs-table);
+  border-bottom: 1px solid rgba(100, 68, 155, 0.08);
+  vertical-align: top;
+  line-height: 1.62;
+}
+
+/* 首列行标题（浅色） */
+.callout[data-callout="dual-header"] tbody td:first-child {
+  background: rgba(100, 68, 155, 0.07);
+  color: rgb(75, 48, 122);
+  font-weight: 620;
+  border-right: 1.5px solid rgba(100, 68, 155, 0.18);
+}
+
+.callout[data-callout="dual-header"] tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.callout[data-callout="dual-header"] tbody tr {
+  transition: background 0.13s ease;
+}
+
+.callout[data-callout="dual-header"] tbody tr:hover {
+  background: rgba(100, 68, 155, 0.04);
+}
+
+.callout[data-callout="dual-header"] tbody tr:hover td:first-child {
+  background: rgba(100, 68, 155, 0.12);
+}
+
+/* Dark mode */
+.theme-dark .callout[data-callout="dual-header"] {
+  --callout-color: 168, 130, 225;
+  border-color: rgba(168, 130, 225, 0.20);
+}
+
+.theme-dark .callout[data-callout="dual-header"] > .callout-title {
+  color: rgb(168, 130, 225);
+}
+
+.theme-dark .callout[data-callout="dual-header"] > .callout-title .callout-title-inner::before {
+  background: rgba(168, 130, 225, 0.14);
+  color: rgb(168, 130, 225);
+}
+
+.theme-dark .callout[data-callout="dual-header"] thead th {
+  background: rgba(168, 130, 225, 0.13);
+  color: rgb(195, 162, 245);
+  border-bottom-color: rgba(168, 130, 225, 0.28);
+}
+
+.theme-dark .callout[data-callout="dual-header"] thead th:first-child {
+  background: rgba(168, 130, 225, 0.22);
+}
+
+.theme-dark .callout[data-callout="dual-header"] tbody td {
+  border-bottom-color: rgba(168, 130, 225, 0.07);
+}
+
+.theme-dark .callout[data-callout="dual-header"] tbody td:first-child {
+  background: rgba(168, 130, 225, 0.08);
+  color: rgb(185, 148, 232);
+  border-right-color: rgba(168, 130, 225, 0.18);
+}
+
+.theme-dark .callout[data-callout="dual-header"] tbody tr:hover {
+  background: rgba(168, 130, 225, 0.05);
+}
+
+.theme-dark .callout[data-callout="dual-header"] tbody tr:hover td:first-child {
+  background: rgba(168, 130, 225, 0.13);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    PERSON-PROFILE — 专项视觉增强
    在共享 person callout 基础上单独强化 person-profile：
      · 双层辐射渐变背景（右上光晕 + 斜向叠层）
