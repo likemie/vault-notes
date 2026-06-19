@@ -487,6 +487,9 @@ def run_base_index(book_check: bool = False, book_dry_run: bool = False, citatio
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code
+    code = maintain_concept_base_fields()
+    if code:
+        return code
     code = run_script("wiki_index.py")
     if code:
         return code
