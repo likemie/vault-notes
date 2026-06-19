@@ -8531,6 +8531,20 @@
   border-color: rgba(var(--callout-color), 0.32);
 }
 
+/* ─── E2. [!stat-cards] 容器 hover — 左边框发光 ─────────── */
+.callout[data-callout="stat-cards"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="stat-cards"]:hover {
+  border-left-color: rgb(88, 155, 132);
+  box-shadow:
+    -3px 0 16px rgba(72, 132, 112, 0.24),
+    0 10px 24px rgba(72, 132, 112, 0.11);
+}
+
 /* ─── F. [!claim] 左边框发光 ───────────────────────────── */
 .callout[data-callout="claim"] {
   transition:
@@ -8640,6 +8654,17 @@
 
 .callout[data-callout="tension"] > .callout-content > ul > li:hover {
   transform: translateX(4px);
+  color: rgb(var(--callout-color));
+}
+
+/* 内嵌表格行 hover（联盟结构对比表等） */
+.callout[data-callout="tension"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="tension"] tbody tr:hover td {
+  background: rgba(var(--callout-color), 0.07);
+}
+.callout[data-callout="tension"] tbody tr:hover td:first-child {
   color: rgb(var(--callout-color));
 }
 
