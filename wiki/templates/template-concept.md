@@ -18,16 +18,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-%% BEFORE USE:
-1. Read wiki/templates/TEMPLATE-SPEC.md.
-2. Read wiki/templates/CALLOUTS.md.
-3. Then use this template.
-%%
-
-%% Concept 页写概念、术语、机制、分类或分析对象。具体字段、引用、写入和 callout 规则见 TEMPLATE-SPEC.md 与 CALLOUTS.md；正式条目不得保留这些说明注释。 %%
-
-%% TEMPLATE BODY: 生成正式条目时删除所有模板说明注释。 %%
-
 ---
 
 ## 定义
@@ -40,14 +30,20 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **用途**：它帮助研究者看见什么问题。
 > - **边界**：它不适合解释什么，或容易与什么概念混淆。
 
+> [!citation-card]- 关键表述
+> 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> Original text or English translation.
+
 > [!boundary]- 概念边界
-> 说明本概念不等于什么、不适用于什么。
 > - 不等于 [[相近概念]] — 区别说明。
 > - 不适用于 — 适用范围限制说明。
 
 ---
 
 ## 概念辨析
+
+%% 没有相近概念时可删除本节。可换用 [!tension-table]（强调立场差异）或 [!prop-table]（逐项比较属性）。 %%
 
 > [!contrast-table] 概念辨析
 > | 维度 | 本概念 | [[相近概念 A]] | [[相近概念 B]] |
@@ -59,6 +55,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 核心要素
+
+%% 可综合使用 [!feature]、[!logic-map]、[!taxonomy]、[!frames-ref]、[!ref-table]、[!entry-map] 等。 %%
 
 > [!feature] 核心要素
 > - **要素一**：说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -84,22 +82,27 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!claim] 命题总览
 > 用一两句话说明围绕该概念形成了哪些可争辩命题，以及这些命题如何相互连接。
 
-> [!logic-map] 命题关系
-> 
+> [!logic-map]- 命题关系
+>
 > ```mermaid
 > flowchart LR
 >     B(["条件/前提"]) -. 使得 .-> A["① 命题一"]
->     A -- 关系标签 --> C["② 命题三"]
->     C -- 关系标签 --> D["③ 命题五"]
->     A -- 关系标签 --> E["④ 命题七"]
->     E -- 关系标签 --> F["⑤ 命题九"]
+>     A -- 关系标签 --> C["② 命题二"]
+>     C -- 关系标签 --> D["③ 命题三"]
+>     A -- 关系标签 --> E["④ 命题四"]
+>     E -- 关系标签 --> F["⑤ 命题五"]
 > ```
+
+---
 
 > [!claim] 命题一（英文名）
 > 命题内容说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!warrant]- 命题一的支撑理由
 > 说明该命题依赖什么理论前提、经验材料或分类标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!exegesis]- 例子
+> 用一个具体教育情境说明这条命题如何工作。
 
 ---
 
@@ -114,10 +117,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 概念演变
 
-> [!timeline] 概念演变
-> - **YYYY–YYYY** 起源阶段：关键节点、代表人物或重要文本。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **YYYY** 关键转向：概念内涵或适用范围发生重要变化。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **YYYY** 扩展阶段：概念被引入新领域或衍生出新分支。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!dev-timeline] 概念演变
+> - **YYYY — 起源阶段**：提出关键问题、概念或理论命题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **YYYY–YYYY — 扩展阶段**：概念内涵或适用范围发生重要变化，或被引入新领域。
+> - **YYYY — 教育研究应用**：说明该概念如何进入教育研究或政策讨论。
 
 ---
 
@@ -131,7 +134,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 争议与批评
 
-%% 根据实际材料选用 tension、warning、critique-*、contrast-table 等 callout；没有充分材料时可删除本节。 %%
+%% 根据实际材料选用 [!tension]、[!warning]、[!tension-table] 等；没有充分材料时可删除本节。 %%
 
 > [!tension] 核心争议
 > 争议焦点说明——各方立场不是孰对孰错，而是理论路径差异。
