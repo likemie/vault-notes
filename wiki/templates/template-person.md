@@ -31,7 +31,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!citation-card]- 人物定位的关键来源
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 
@@ -99,7 +99,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!citation-card]- 关键表述
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> Original text or English translation.
+> *Original text or English translation.*
 
 ---
 
@@ -111,7 +111,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **政策路径**：此人如何进入政策文本、标准、组织、改革或公共话语。
 > - **跨国／跨领域传播**：思想如何被翻译、再脉络化、商业化或争议化。
 
-> [!evidence-grid-a]- 相关研究
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何使用、延伸或批评此人的思想。
 
 ---
