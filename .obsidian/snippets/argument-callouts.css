@@ -38,72 +38,20 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   NAVIGATION & META
-   ═══════════════════════════════════════════════════════════ */
-
-/* ─── argument-map ────────────────────────────────────── */
-.callout[data-callout="argument-map"] {
-  --callout-color: 20, 126, 121;
-  --callout-icon: lucide-route;
-  background:
-    radial-gradient(circle at top right, rgba(20, 126, 121, 0.22), transparent 42%),
-    linear-gradient(135deg, rgba(20, 126, 121, 0.14), rgba(20, 126, 121, 0.035) 48%),
-    var(--background-primary);
-  border: 1px solid rgba(20, 126, 121, 0.24);
-  border-left: 6px solid rgb(20, 126, 121);
-  box-shadow: 0 14px 30px rgba(20, 126, 121, 0.13);
-}
-
-.callout[data-callout="argument-map"] > .callout-title {
-  letter-spacing: 0.02em;
-}
-
-.callout[data-callout="argument-map"] > .callout-title .callout-title-inner::before {
-  content: "MAP";
-  display: inline-block;
-  margin-right: 0.55rem;
-  padding: 0.08rem 0.38rem;
-  border-radius: 999px;
-  background: rgba(20, 126, 121, 0.18);
-  color: rgb(20, 126, 121);
-  font-size: var(--fs-label);
-  font-weight: 700;
-}
-
-/* ─── reading-lens ────────────────────────────────────── */
-.callout[data-callout="reading-lens"] {
-  --callout-color: 61, 115, 180;
-  --callout-icon: lucide-scan-search;
-  background: linear-gradient(90deg, rgba(61, 115, 180, 0.13), rgba(61, 115, 180, 0.035));
-  border-left-width: 5px;
-}
-
-
-/* ═══════════════════════════════════════════════════════════
    ARGUMENT STRUCTURE — 论证骨架
    ═══════════════════════════════════════════════════════════ */
 
-/* ─── question（研究问题 — 大号 ? 水印） ──────────────── */
-.callout[data-callout="question"] {
-  --callout-color: 88, 96, 180;
-  --callout-icon: lucide-help-circle;
+/* ─── question / chapter-question — 共享 ? 水印结构 ──── */
+.callout[data-callout="question"],
+.callout[data-callout="chapter-question"] {
   position: relative;
   overflow: hidden;
-  background:
-    linear-gradient(135deg, rgba(88, 96, 180, 0.12), rgba(88, 96, 180, 0.03)),
-    var(--background-primary);
-  border: 1px solid rgba(88, 96, 180, 0.22);
-  border-left: 6px solid rgb(88, 96, 180);
-  box-shadow: 0 8px 20px rgba(88, 96, 180, 0.09);
 }
 
-.callout[data-callout="question"]::after {
+.callout[data-callout="question"]::after,
+.callout[data-callout="chapter-question"]::after {
   content: "?";
   position: absolute;
-  top: -1rem;
-  right: 0.6rem;
-  color: rgba(88, 96, 180, 0.08);
-  font-size: 7.5rem;
   font-weight: 900;
   font-style: italic;
   line-height: 1;
@@ -112,18 +60,33 @@
 }
 
 .callout[data-callout="question"] > .callout-title,
-.callout[data-callout="question"] > .callout-content {
+.callout[data-callout="question"] > .callout-content,
+.callout[data-callout="chapter-question"] > .callout-content {
   position: relative;
   z-index: 1;
 }
 
+/* question — 蓝色，大水印 */
+.callout[data-callout="question"] {
+  --callout-color: 88, 96, 180;
+  --callout-icon: lucide-help-circle;
+  background:
+    linear-gradient(135deg, rgba(88, 96, 180, 0.12), rgba(88, 96, 180, 0.03)),
+    var(--background-primary);
+  border: 1px solid rgba(88, 96, 180, 0.22);
+  border-left: 6px solid rgb(88, 96, 180);
+  box-shadow: 0 8px 20px rgba(88, 96, 180, 0.09);
+}
+.callout[data-callout="question"]::after {
+  top: -1rem; right: 0.6rem;
+  color: rgba(88, 96, 180, 0.08);
+  font-size: 7.5rem;
+}
 
-/* ─── chapter-question（章节问题 — 大号 ? 水印 + 粗边） ── */
+/* chapter-question — 琥珀色，小水印，隐藏标题，自动 Q 徽章 */
 .callout[data-callout="chapter-question"] {
   --callout-color: 165, 110, 45;
   --callout-icon: none;
-  position: relative;
-  overflow: hidden;
   background: linear-gradient(135deg, rgba(165, 110, 45, 0.09), rgba(165, 110, 45, 0.025)), var(--background-primary);
   border: 1px solid rgba(165, 110, 45, 0.22);
   border-left: 5px solid rgb(165, 110, 45);
@@ -134,24 +97,12 @@
   line-height: 1.65;
 }
 .callout[data-callout="chapter-question"]::after {
-  content: "?";
-  position: absolute;
-  top: -0.6rem;
-  right: 0.5rem;
+  top: -0.6rem; right: 0.5rem;
   color: rgba(165, 110, 45, 0.10);
   font-size: 5rem;
-  font-weight: 900;
-  font-style: italic;
-  line-height: 1;
-  pointer-events: none;
-  z-index: 0;
 }
-.callout[data-callout="chapter-question"] > .callout-title {
-  display: none;
-}
+.callout[data-callout="chapter-question"] > .callout-title { display: none; }
 .callout[data-callout="chapter-question"] .callout-content {
-  position: relative;
-  z-index: 1;
   padding: 0;
   font-weight: 500;
 }
@@ -2622,7 +2573,6 @@
 }
 
 /* 带自定义 badge 前缀的 callout 标题字距恢复正常（badge 自己有 letter-spacing） */
-.callout[data-callout="argument-map"]    > .callout-title .callout-title-inner,
 .callout[data-callout="contrast-table"]  > .callout-title .callout-title-inner,
 .callout[data-callout="line-a"]          > .callout-title .callout-title-inner,
 .callout[data-callout="line-b"]          > .callout-title .callout-title-inner,
@@ -7888,6 +7838,7 @@
 }
 
 
+
 /* ═══════════════════════════════════════════════════════════
    COL1-TABLE — 固定首列宽度表格
    用途：首列为标签/术语，固定占比 28%，其余列均分。
@@ -9272,132 +9223,6 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   CRITIQUE-ESSAY — 散文式多点批评
-   用途：McKnight 式长散文段落批评列表（点间需清晰分割）
-   颜色：酒红 rgb(138, 52, 78)
-   特征：点间分割线 + 标题着色 + 宽松间距 + marker 着色
-   ═══════════════════════════════════════════════════════════ */
-
-.callout[data-callout="critique-essay"] {
-  background: var(--background-primary);
-  border: 1px solid rgba(138, 52, 78, 0.18);
-  border-left: 6px solid rgb(138, 52, 78);
-  border-radius: 7px;
-  padding: 0;
-  overflow: hidden;
-  box-shadow: 0 3px 12px rgba(138, 52, 78, 0.07);
-}
-
-.callout[data-callout="critique-essay"] > .callout-title {
-  color: rgb(138, 52, 78);
-  font-weight: 650;
-  letter-spacing: 0.01em;
-  padding: 0.6rem 1.1rem;
-  background: linear-gradient(
-    90deg,
-    rgba(138, 52, 78, 0.07) 0%,
-    rgba(138, 52, 78, 0.02) 100%
-  );
-  border-bottom: 1px solid rgba(138, 52, 78, 0.14);
-}
-
-.callout[data-callout="critique-essay"] > .callout-title .callout-title-inner::before {
-  content: "CRITIQUE";
-  display: inline-block;
-  margin-right: 0.55rem;
-  padding: 2px 7px;
-  border-radius: 4px;
-  background: rgba(138, 52, 78, 0.10);
-  color: rgb(138, 52, 78);
-  font-size: var(--fs-label);
-  font-weight: 750;
-  letter-spacing: 0.09em;
-  vertical-align: middle;
-}
-
-.callout[data-callout="critique-essay"] > .callout-content {
-  padding: 0;
-}
-
-/* ── 每个点：blank-line 分隔 → 各自一个 <ol> ── */
-.callout[data-callout="critique-essay"] .callout-content ol {
-  margin: 0;
-  padding: 0.95rem 1.4rem 0.95rem 3.0rem;
-  border-top: 1px solid rgba(138, 52, 78, 0.35);
-  line-height: 1.74;
-  list-style-position: outside;
-  transition: background 0.15s;
-}
-
-.callout[data-callout="critique-essay"] .callout-content ol:first-of-type {
-  border-top: none;
-}
-
-/* 若 items 在同一 ol 内（无空行格式）*/
-.callout[data-callout="critique-essay"] .callout-content ol > li + li {
-  margin-top: 0.9rem;
-  padding-top: 0.9rem;
-  border-top: 1px solid rgba(138, 52, 78, 0.10);
-}
-
-/* 悬停时轻微背景 */
-.callout[data-callout="critique-essay"] .callout-content ol:hover {
-  background: rgba(138, 52, 78, 0.028);
-}
-
-/* ── 数字 marker 着色 ── */
-.callout[data-callout="critique-essay"] .callout-content ol > li::marker {
-  color: rgb(138, 52, 78);
-  font-weight: 720;
-  font-size: 0.97em;
-}
-
-/* ── 每点首个 <strong>（标题）着色 ── */
-.callout[data-callout="critique-essay"] .callout-content li > strong:first-child,
-.callout[data-callout="critique-essay"] .callout-content li > p > strong:first-child {
-  color: rgb(138, 52, 78);
-}
-
-/* ── 深色模式 ── */
-.theme-dark .callout[data-callout="critique-essay"] {
-  border-left-color: rgb(192, 104, 132);
-  border-color: rgba(192, 104, 132, 0.22);
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.22);
-}
-
-.theme-dark .callout[data-callout="critique-essay"] > .callout-title {
-  color: rgb(202, 114, 142);
-  background: linear-gradient(
-    90deg,
-    rgba(192, 104, 132, 0.10) 0%,
-    rgba(192, 104, 132, 0.02) 100%
-  );
-  border-bottom-color: rgba(192, 104, 132, 0.18);
-}
-
-.theme-dark .callout[data-callout="critique-essay"] > .callout-title .callout-title-inner::before {
-  background: rgba(202, 114, 142, 0.15);
-  color: rgb(202, 114, 142);
-}
-
-.theme-dark .callout[data-callout="critique-essay"] .callout-content ol {
-  border-top-color: rgba(192, 104, 132, 0.38);
-}
-
-.theme-dark .callout[data-callout="critique-essay"] .callout-content ol:hover {
-  background: rgba(192, 104, 132, 0.05);
-}
-
-.theme-dark .callout[data-callout="critique-essay"] .callout-content ol > li::marker {
-  color: rgb(202, 114, 142);
-}
-
-.theme-dark .callout[data-callout="critique-essay"] .callout-content li > strong:first-child,
-.theme-dark .callout[data-callout="critique-essay"] .callout-content li > p > strong:first-child {
-  color: rgb(210, 128, 156);
-}
-
-/* ═══════════════════════════════════════════════════════════
    COLON-SAFE LABELS
    These callouts use Markdown like **标签**：正文. If the first strong
    element is block-level, the Chinese colon is stranded on the next line.
@@ -9962,7 +9787,6 @@
 .callout[data-callout="warrant"] table,
 .callout[data-callout="stat-cards"] table,
 .callout[data-callout="finding-cards"] table,
-.callout[data-callout="nav"] table,
 .callout[data-callout="proc"] table,
 .callout[data-callout="example"] table {
   display: table;
@@ -10009,8 +9833,6 @@
 .callout[data-callout="stat-cards"] td,
 .callout[data-callout="finding-cards"] th,
 .callout[data-callout="finding-cards"] td,
-.callout[data-callout="nav"] th,
-.callout[data-callout="nav"] td,
 .callout[data-callout="proc"] th,
 .callout[data-callout="proc"] td,
 .callout[data-callout="example"] th,
@@ -10039,7 +9861,6 @@
 .callout[data-callout="warrant"] th,
 .callout[data-callout="stat-cards"] th,
 .callout[data-callout="finding-cards"] th,
-.callout[data-callout="nav"] th,
 .callout[data-callout="proc"] th,
 .callout[data-callout="example"] th {
   font-weight: 700;
