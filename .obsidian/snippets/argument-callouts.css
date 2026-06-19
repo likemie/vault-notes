@@ -9043,59 +9043,47 @@
     0 6px 20px rgba(85, 107, 47, 0.10);
 }
 
-/* ─── X. [!event-context] 容器 hover + 列表条目右移 ─────── */
+/* ─── X. [!event-context] 容器 glow + 卡片上浮 ─────────── */
 .callout[data-callout="event-context"] {
-  transition:
-    border-left-color  0.18s ease,
-    box-shadow         0.18s ease;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .callout[data-callout="event-context"]:hover {
-  border-left-color: rgb(45, 135, 143);
-  box-shadow:
-    -3px 0 16px rgba(36, 111, 118, 0.24),
-    0 6px 20px rgba(36, 111, 118, 0.10);
+  box-shadow: 0 0 0 2px rgba(36, 111, 118, 0.20), 0 4px 14px rgba(36, 111, 118, 0.10);
+  border-color: rgba(36, 111, 118, 0.38);
 }
 
 .callout[data-callout="event-context"] > .callout-content > ul > li {
-  transition:
-    transform  0.15s ease,
-    color      0.15s ease;
-  border-radius: 4px;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
 .callout[data-callout="event-context"] > .callout-content > ul > li:hover {
-  transform: translateX(4px);
-  color: rgb(var(--callout-color));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(36, 111, 118, 0.18);
+  border-color: rgba(36, 111, 118, 0.28);
 }
 
-/* ─── Y. [!policy-context] + [!policy-design] ────────────
-   同色系（蓝 58,105,166）：容器 hover 左边框发光，条目右移 */
+/* ─── Y. [!policy-context] 容器 glow + 卡片上浮 ─────────
+   [!policy-design] 共享卡片上浮（2×2 格，同为卡片网格） */
 .callout[data-callout="policy-context"] {
-  transition:
-    border-left-color  0.18s ease,
-    box-shadow         0.18s ease;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .callout[data-callout="policy-context"]:hover {
-  border-left-color: rgb(75, 125, 190);
-  box-shadow:
-    -3px 0 16px rgba(58, 105, 166, 0.24),
-    0 6px 20px rgba(58, 105, 166, 0.10);
+  box-shadow: 0 0 0 2px rgba(58, 105, 166, 0.20), 0 4px 14px rgba(58, 105, 166, 0.10);
+  border-color: rgba(58, 105, 166, 0.38);
 }
 
 .callout[data-callout="policy-context"] > .callout-content > ul > li,
 .callout[data-callout="policy-design"]  > .callout-content > ul > li {
-  transition:
-    transform  0.15s ease,
-    color      0.15s ease;
-  border-radius: 4px;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
 .callout[data-callout="policy-context"] > .callout-content > ul > li:hover,
 .callout[data-callout="policy-design"]  > .callout-content > ul > li:hover {
-  transform: translateX(4px);
-  color: rgb(var(--callout-color));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(var(--callout-color), 0.18);
+  border-color: rgba(var(--callout-color), 0.28);
 }
 
 /* ─── Z. [!actor-grid] 卡片 hover 上浮 ──────────────────── */
