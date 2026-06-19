@@ -11,7 +11,7 @@
    Font scale (六档，em 相对于 callout 容器字号)
      --fs-label   : 0.68em  → 角标徽章 (MAP / STEP / badge caps)
      --fs-caption : 0.78em  → 次级说明、图注、辅助文字
-     --fs-table   : 0.91em  → 表格单元格
+     --fs-table   : 0.97em  → 表格单元格
      --fs-body    : 0.92em  → callout 正文主流字号
      --fs-lead    : 1.05em  → 引言段 / 强调文字
      --fs-display : 1.55em  → 数据卡大数字（stat-cards）
@@ -21,7 +21,7 @@
 :root {
   --fs-label:   0.68em;
   --fs-caption: 0.78em;
-  --fs-table:   0.91em;
+  --fs-table:   0.97em;
   --fs-body:    0.92em;
   --fs-lead:    1.05em;
   --fs-display: 1.55em;
@@ -4186,7 +4186,7 @@
   background: rgba(45, 100, 160, 0.08);
   color: rgb(45, 100, 160);
   font-weight: 650;
-  font-size: var(--fs-caption);
+  font-size: var(--fs-table);
   letter-spacing: 0.04em;
   text-transform: uppercase;
   padding: 0.5rem 1.1rem;
@@ -7431,7 +7431,7 @@
   padding: 0.58rem 1.05rem;
   border-bottom: 2px solid rgba(100, 112, 158, 0.28);
   color: rgb(100, 112, 158);
-  font-size: var(--fs-caption);
+  font-size: var(--fs-table);
   font-weight: 800;
   letter-spacing: 0.06em;
   text-align: left;
