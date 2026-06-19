@@ -7427,11 +7427,6 @@
   box-shadow: 0 8px 20px rgba(var(--callout-color), 0.07);
 }
 
-.callout[data-callout="person-profile"] {
-  --callout-color: 92, 103, 154;
-  --callout-icon: lucide-user-round;
-}
-
 .callout[data-callout="contribution-map"] {
   --callout-color: 126, 91, 150;
   --callout-icon: lucide-network;
@@ -8721,19 +8716,25 @@
     0 4px 18px rgba(var(--callout-color), 0.10);
 }
 
-/* ─── F. [!evidence-grid-a/b] 列表条目右移 ─────────────── */
+/* ─── F. [!evidence-grid-a/b] 容器 glow + 卡片上浮 ─────── */
+.callout[data-callout="evidence-grid-a"],
+.callout[data-callout="evidence-grid-b"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="evidence-grid-a"]:hover,
+.callout[data-callout="evidence-grid-b"]:hover {
+  box-shadow: 0 0 0 2px rgba(var(--callout-color), 0.20), 0 4px 14px rgba(var(--callout-color), 0.10);
+  border-color: rgba(var(--callout-color), 0.38);
+}
 .callout[data-callout="evidence-grid-a"] > .callout-content > ul > li,
 .callout[data-callout="evidence-grid-b"] > .callout-content > ul > li {
-  transition:
-    transform     0.15s ease,
-    color         0.15s ease;
-  border-radius: 4px;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
-
 .callout[data-callout="evidence-grid-a"] > .callout-content > ul > li:hover,
 .callout[data-callout="evidence-grid-b"] > .callout-content > ul > li:hover {
-  transform: translateX(4px);
-  color: rgb(var(--callout-color));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(var(--callout-color), 0.18);
+  border-color: rgba(var(--callout-color), 0.30);
 }
 
 /* ─── G. [!dev-timeline] 发展脉络节点动效 ──────────────── */
@@ -9100,11 +9101,16 @@
   border-color: rgba(24, 121, 121, 0.30);
 }
 
-/* ─── AA. [!taxonomy] 条目右移 ───────────────────────────── */
+/* ─── AA. [!taxonomy] 容器 glow + 条目右移 ───────────────── */
+.callout[data-callout="taxonomy"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="taxonomy"]:hover {
+  box-shadow: 0 0 0 2px rgba(56, 135, 115, 0.20), 0 4px 14px rgba(56, 135, 115, 0.10);
+  border-color: rgba(56, 135, 115, 0.35);
+}
 .callout[data-callout="taxonomy"] .callout-content ul > li {
-  transition:
-    background   0.14s ease,
-    transform    0.15s ease;
+  transition: background 0.14s ease, transform 0.15s ease;
 }
 
 .callout[data-callout="taxonomy"] .callout-content ul > li:hover {
@@ -9112,13 +9118,17 @@
   background: rgba(56, 135, 115, 0.10);
 }
 
-/* ─── AB. [!frames-ref] 卡片 hover ───────────────────────── */
+/* ─── AB. [!frames-ref] 容器 glow + 卡片 hover ───────────── */
+.callout[data-callout="frames-ref"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="frames-ref"]:hover {
+  box-shadow: 0 0 0 2px rgba(72, 108, 150, 0.20), 0 4px 14px rgba(72, 108, 150, 0.10);
+  border-color: rgba(72, 108, 150, 0.35);
+}
 .callout[data-callout="frames-ref"] .callout-content > ul > li,
 .callout[data-callout="frames-ref"] .callout-content > ol > li {
-  transition:
-    background    0.14s ease,
-    border-color  0.14s ease,
-    transform     0.15s ease;
+  transition: background 0.14s ease, border-color 0.14s ease, transform 0.15s ease;
 }
 
 .callout[data-callout="frames-ref"] .callout-content > ul > li:hover,
@@ -9128,18 +9138,14 @@
   border-color: rgba(72, 108, 150, 0.22);
 }
 
-/* ─── AC. [!formula-set] 容器 + 公式卡 hover ─────────────── */
+/* ─── AC. [!formula-set] 容器 glow + 公式卡上浮 ─────────── */
 .callout[data-callout="formula-set"] {
-  transition:
-    border-left-color  0.18s ease,
-    box-shadow         0.18s ease;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .callout[data-callout="formula-set"]:hover {
-  border-left-color: rgb(115, 65, 210);
-  box-shadow:
-    -3px 0 16px rgba(95, 45, 185, 0.26),
-    0 6px 20px rgba(95, 45, 185, 0.10);
+  box-shadow: 0 0 0 2px rgba(95, 45, 185, 0.20), 0 4px 14px rgba(95, 45, 185, 0.10);
+  border-color: rgba(95, 45, 185, 0.38);
 }
 
 .callout[data-callout="formula-set"] .callout-content > ul > li {
@@ -10388,4 +10394,236 @@
 .theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li::before {
   background: rgba(120, 170, 220, 0.15);
   color: rgb(140, 180, 225);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   FORMULA — 单个核心公式展示框
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="formula"] {
+  --callout-color: 95, 45, 185;
+  --callout-icon: lucide-sigma;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(95, 45, 185, 0.22);
+  border-left: 6px solid rgb(95, 45, 185);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(95, 45, 185, 0.09), rgba(95, 45, 185, 0.02)),
+    var(--background-primary);
+  box-shadow: 0 2px 10px rgba(95, 45, 185, 0.07);
+}
+
+.callout[data-callout="formula"] > .callout-title {
+  color: rgb(95, 45, 185);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="formula"] > .callout-title .callout-title-inner::before {
+  content: "FORMULA";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(95, 45, 185, 0.13);
+  color: rgb(95, 45, 185);
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="formula"] > .callout-content {
+  font-family: var(--font-monospace);
+  font-size: 1.05em;
+  line-height: 1.8;
+}
+
+.callout[data-callout="formula"] > .callout-content strong {
+  color: rgb(95, 45, 185);
+}
+
+.theme-dark .callout[data-callout="formula"] {
+  --callout-color: 160, 120, 230;
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   DYNAMICS AJ — 补充动效批次
+   strength/weakness/opportunity/threat · line-a/b · voice · case
+   lessons · phase · quad-grid · ref-table · meta-table
+   critique-logic/data/fatal
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── AJ-1. SWOT — 容器 glow + 卡片上浮 ── */
+.callout[data-callout="strength"],
+.callout[data-callout="weakness"],
+.callout[data-callout="opportunity"],
+.callout[data-callout="threat"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="strength"]:hover {
+  box-shadow: 0 0 0 2px rgba(34, 180, 80, 0.22), 0 4px 14px rgba(34, 180, 80, 0.10);
+  border-color: rgba(34, 180, 80, 0.40);
+}
+.callout[data-callout="weakness"]:hover {
+  box-shadow: 0 0 0 2px rgba(220, 60, 50, 0.22), 0 4px 14px rgba(220, 60, 50, 0.10);
+  border-color: rgba(220, 60, 50, 0.40);
+}
+.callout[data-callout="opportunity"]:hover {
+  box-shadow: 0 0 0 2px rgba(50, 130, 210, 0.22), 0 4px 14px rgba(50, 130, 210, 0.10);
+  border-color: rgba(50, 130, 210, 0.40);
+}
+.callout[data-callout="threat"]:hover {
+  box-shadow: 0 0 0 2px rgba(220, 160, 35, 0.22), 0 4px 14px rgba(220, 160, 35, 0.10);
+  border-color: rgba(220, 160, 35, 0.40);
+}
+.callout[data-callout="strength"] .callout-content > ul > li,
+.callout[data-callout="weakness"] .callout-content > ul > li,
+.callout[data-callout="opportunity"] .callout-content > ul > li,
+.callout[data-callout="threat"] .callout-content > ul > li {
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.callout[data-callout="strength"] .callout-content > ul > li:hover,
+.callout[data-callout="weakness"] .callout-content > ul > li:hover,
+.callout[data-callout="opportunity"] .callout-content > ul > li:hover,
+.callout[data-callout="threat"] .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(var(--callout-color), 0.18);
+}
+
+/* ── AJ-2. line-a / line-b — 容器 glow ── */
+.callout[data-callout="line-a"],
+.callout[data-callout="line-b"],
+.callout[data-callout="line-c"],
+.callout[data-callout="line-d"],
+.callout[data-callout="line-e"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="line-a"]:hover,
+.callout[data-callout="line-c"]:hover,
+.callout[data-callout="line-d"]:hover,
+.callout[data-callout="line-e"]:hover {
+  box-shadow: 0 0 0 2px rgba(88, 96, 180, 0.20), 0 4px 14px rgba(88, 96, 180, 0.10);
+  border-color: rgba(88, 96, 180, 0.40);
+}
+.callout[data-callout="line-b"]:hover {
+  box-shadow: 0 0 0 2px rgba(164, 74, 102, 0.20), 0 4px 14px rgba(164, 74, 102, 0.10);
+  border-color: rgba(164, 74, 102, 0.40);
+}
+
+/* ── AJ-3. voice — 容器 glow ── */
+.callout[data-callout="voice"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="voice"]:hover {
+  box-shadow: 0 0 0 2px rgba(178, 74, 96, 0.20), 0 4px 14px rgba(178, 74, 96, 0.10);
+  border-color: rgba(178, 74, 96, 0.38);
+}
+
+/* ── AJ-4. case — 容器 glow ── */
+.callout[data-callout="case"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="case"]:hover {
+  box-shadow: 0 0 0 2px rgba(178, 126, 44, 0.20), 0 4px 14px rgba(178, 126, 44, 0.10);
+  border-color: rgba(178, 126, 44, 0.38);
+}
+
+/* ── AJ-5. lessons — 容器 glow（li hover 已有，补 transition） ── */
+.callout[data-callout="lessons"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="lessons"]:hover {
+  box-shadow: 0 0 0 2px rgba(170, 130, 50, 0.20), 0 4px 14px rgba(170, 130, 50, 0.10);
+  border-color: rgba(170, 130, 50, 0.38);
+}
+.callout[data-callout="lessons"] .callout-content > ul > li {
+  transition: background 0.15s ease;
+}
+
+/* ── AJ-6. phase — 容器 glow ── */
+.callout[data-callout="phase"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="phase"]:hover {
+  box-shadow: 0 0 0 2px rgba(155, 103, 44, 0.20), 0 4px 14px rgba(155, 103, 44, 0.10);
+  border-color: rgba(155, 103, 44, 0.38);
+}
+
+/* ── AJ-7. quad-grid — 容器 glow + 卡片上浮 ── */
+.callout[data-callout="quad-grid"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="quad-grid"]:hover {
+  box-shadow: 0 0 0 2px rgba(56, 135, 115, 0.20), 0 4px 14px rgba(56, 135, 115, 0.10);
+  border-color: rgba(56, 135, 115, 0.38);
+}
+.callout[data-callout="quad-grid"] > .callout-content > ul > li {
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.callout[data-callout="quad-grid"] > .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(56, 135, 115, 0.18);
+}
+
+/* ── AJ-8. ref-table + meta-table — 容器 glow（行 hover 已有） ── */
+.callout[data-callout="ref-table"],
+.callout[data-callout="meta-table"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="ref-table"]:hover,
+.callout[data-callout="meta-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(45, 100, 160, 0.20), 0 4px 14px rgba(45, 100, 160, 0.10);
+  border-color: rgba(45, 100, 160, 0.35);
+}
+.callout[data-callout="ref-table"] tbody tr,
+.callout[data-callout="meta-table"] tbody tr {
+  transition: background 0.18s ease;
+}
+
+/* ── AJ-9. critique-logic / critique-data / critique-fatal — 容器 glow ── */
+.callout[data-callout="critique-logic"],
+.callout[data-callout="critique-data"],
+.callout[data-callout="critique-fatal"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="critique-logic"]:hover {
+  box-shadow: 0 0 0 2px rgba(105, 55, 170, 0.20), 0 4px 14px rgba(105, 55, 170, 0.10);
+  border-color: rgba(105, 55, 170, 0.35);
+}
+.callout[data-callout="critique-data"]:hover {
+  box-shadow: 0 0 0 2px rgba(178, 98, 28, 0.20), 0 4px 14px rgba(178, 98, 28, 0.10);
+  border-color: rgba(178, 98, 28, 0.35);
+}
+.callout[data-callout="critique-fatal"]:hover {
+  box-shadow: 0 0 0 2px rgba(152, 32, 42, 0.20), 0 4px 14px rgba(152, 32, 42, 0.10);
+  border-color: rgba(152, 32, 42, 0.35);
+}
+
+/* ── AJ-10. critique-method — 容器 glow ── */
+.callout[data-callout="critique-method"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="critique-method"]:hover {
+  box-shadow: 0 0 0 2px rgba(55, 95, 145, 0.20), 0 4px 14px rgba(55, 95, 145, 0.10);
+  border-color: rgba(55, 95, 145, 0.35);
+}
+
+/* ── AJ-11. formula / math-principle / result-reading — 容器 glow ── */
+.callout[data-callout="formula"],
+.callout[data-callout="math-principle"],
+.callout[data-callout="result-reading"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="formula"]:hover {
+  box-shadow: 0 0 0 2px rgba(95, 45, 185, 0.20), 0 4px 14px rgba(95, 45, 185, 0.10);
+  border-color: rgba(95, 45, 185, 0.38);
+}
+.callout[data-callout="math-principle"]:hover,
+.callout[data-callout="result-reading"]:hover {
+  box-shadow: 0 0 0 2px rgba(var(--callout-color), 0.20), 0 4px 14px rgba(var(--callout-color), 0.10);
+  border-color: rgba(var(--callout-color), 0.38);
 }
