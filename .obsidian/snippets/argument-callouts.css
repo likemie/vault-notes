@@ -9853,30 +9853,54 @@
 }
 
 /* ─── fit-grid（适用判断三格 — 绿/琥珀/红 信号灯配色） ──── */
+/* ═══════════════════════════════════════════════════════════
+   FIT-GRID — 方法适用性速查（竖排三段：适合 / 谨慎 / 不适合）
+   ═══════════════════════════════════════════════════════════ */
+
 .callout[data-callout="fit-grid"] {
-  --callout-color: 100, 110, 120;
+  --callout-color: 62, 74, 90;
   --callout-icon: lucide-sliders-horizontal;
   background: var(--background-primary);
-  border: none;
+  border: 1px solid rgba(62, 74, 90, 0.18);
+  border-left: 5px solid rgb(62, 74, 90);
+  border-radius: 10px;
   padding: 0;
-  margin-block: 0.8rem 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(62, 74, 90, 0.08), 0 1px 3px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.callout[data-callout="fit-grid"]:hover {
+  box-shadow: 0 0 0 2px rgba(62, 74, 90, 0.16), 0 6px 18px rgba(62, 74, 90, 0.12);
+  border-color: rgba(62, 74, 90, 0.32);
 }
 
 .callout[data-callout="fit-grid"] > .callout-title {
-  background: rgb(70, 80, 95);
+  background: linear-gradient(90deg, rgba(62, 74, 90, 0.90), rgba(62, 74, 90, 0.80));
   color: #fff;
   font-weight: 700;
   font-size: var(--fs-table);
-  letter-spacing: 0.04em;
-  padding: 0.4rem 0.9rem;
-  border-radius: 6px 6px 0 0;
-  margin: 0;
+  letter-spacing: 0.05em;
+  padding: 0.45rem 1rem;
+  border-bottom: none;
 }
 
+.callout[data-callout="fit-grid"] > .callout-title .callout-title-inner::before {
+  content: "适用评估";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.18);
+  color: rgba(255, 255, 255, 0.92);
+  font-size: var(--fs-label);
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
 
 .callout[data-callout="fit-grid"] > .callout-content {
   padding: 0;
-  margin: 0;
 }
 
 .callout[data-callout="fit-grid"] > .callout-content > ul {
@@ -9885,60 +9909,86 @@
   list-style: none;
 }
 
+/* 三段共享基础 */
 .callout[data-callout="fit-grid"] > .callout-content > ul > li {
-  padding: 0.6rem 0.85rem;
+  padding: 0.62rem 1rem;
   margin: 0;
   font-size: var(--fs-table);
-  line-height: 1.55;
+  line-height: 1.6;
   border-left: 4px solid transparent;
+  transition: background 0.15s ease;
 }
 
+/* ✓ 适合 */
 .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1) {
-  background: rgba(40, 160, 80, 0.05);
-  border-left-color: rgba(40, 160, 80, 0.45);
-  border-bottom: 1px solid rgba(40, 160, 80, 0.1);
+  background: rgba(35, 148, 72, 0.05);
+  border-left-color: rgba(35, 148, 72, 0.50);
+  border-bottom: 1px solid rgba(35, 148, 72, 0.10);
 }
+.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1):hover {
+  background: rgba(35, 148, 72, 0.10);
+}
+.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1) > strong { color: rgb(20, 110, 50); }
 
+/* ⚠ 谨慎 */
 .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) {
-  background: rgba(200, 140, 30, 0.04);
-  border-left-color: rgba(200, 140, 30, 0.45);
-  border-bottom: 1px solid rgba(200, 140, 30, 0.1);
+  background: rgba(195, 135, 25, 0.045);
+  border-left-color: rgba(195, 135, 25, 0.50);
+  border-bottom: 1px solid rgba(195, 135, 25, 0.10);
 }
+.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2):hover {
+  background: rgba(195, 135, 25, 0.09);
+}
+.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) > strong { color: rgb(155, 105, 15); }
 
+/* ✗ 不适合 */
 .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) {
-  background: rgba(200, 70, 60, 0.04);
-  border-left-color: rgba(200, 70, 60, 0.4);
+  background: rgba(190, 55, 50, 0.04);
+  border-left-color: rgba(190, 55, 50, 0.48);
 }
+.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3):hover {
+  background: rgba(190, 55, 50, 0.09);
+}
+.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) > strong { color: rgb(165, 45, 40); }
 
 .callout[data-callout="fit-grid"] > .callout-content > ul > li > strong {
   font-size: var(--fs-body);
-  margin-right: 0.3em;
+  margin-right: 0.35em;
+  font-weight: 700;
 }
 
-.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1) > strong { color: rgb(25, 115, 55); }
-.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) > strong { color: rgb(165, 105, 15); }
-.callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) > strong { color: rgb(175, 50, 40); }
-
-/* dark */
+/* ── 深色模式 ── */
+.theme-dark .callout[data-callout="fit-grid"] {
+  border-left-color: rgb(110, 128, 150);
+  border-color: rgba(110, 128, 150, 0.22);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+}
 .theme-dark .callout[data-callout="fit-grid"] > .callout-title {
-  background: rgb(55, 65, 80);
+  background: linear-gradient(90deg, rgba(50, 62, 80, 0.98), rgba(45, 58, 76, 0.92));
 }
 
 .theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1) {
-  background: rgba(40, 160, 80, 0.1);
+  background: rgba(35, 148, 72, 0.10);
+}
+.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1):hover {
+  background: rgba(35, 148, 72, 0.17);
 }
 
 .theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) {
-  background: rgba(200, 140, 30, 0.08);
+  background: rgba(195, 135, 25, 0.09);
 }
-
+.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2):hover {
+  background: rgba(195, 135, 25, 0.15);
+}
 .theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) {
-  background: rgba(200, 70, 60, 0.08);
+  background: rgba(190, 55, 50, 0.09);
 }
-
-.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1) > strong { color: rgb(50, 180, 100); }
-.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) > strong { color: rgb(220, 160, 50); }
-.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) > strong { color: rgb(220, 90, 75); }
+.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3):hover {
+  background: rgba(190, 55, 50, 0.15);
+}
+.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(1) > strong { color: rgb(50, 185, 100); }
+.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(2) > strong { color: rgb(218, 162, 55); }
+.theme-dark .callout[data-callout="fit-grid"] > .callout-content > ul > li:nth-child(3) > strong { color: rgb(220, 88, 75); }
 
 
 /* ─── ethical-pyramid（伦理金字塔 — Seedhouse 四层结构） ── */
@@ -10319,4 +10369,171 @@
 .callout[data-callout="result-reading"]:hover {
   box-shadow: 0 0 0 2px rgba(var(--callout-color), 0.20), 0 4px 14px rgba(var(--callout-color), 0.10);
   border-color: rgba(var(--callout-color), 0.38);
+}
+
+/* ── AJ-12. 表格类 — 容器 glow（行 hover 已存在）── */
+.callout[data-callout="col1-table"],
+.callout[data-callout="seq-table"],
+.callout[data-callout="dual-header"],
+.callout[data-callout="effect-table"],
+.callout[data-callout="ma-table"],
+.callout[data-callout="textbook-overview"],
+.callout[data-callout="entry-map"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="col1-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(42, 120, 108, 0.18), 0 4px 14px rgba(42, 120, 108, 0.10);
+  border-color: rgba(42, 120, 108, 0.34);
+}
+.callout[data-callout="seq-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(70, 88, 165, 0.18), 0 4px 14px rgba(70, 88, 165, 0.10);
+  border-color: rgba(70, 88, 165, 0.34);
+}
+.callout[data-callout="dual-header"]:hover {
+  box-shadow: 0 0 0 2px rgba(100, 68, 155, 0.18), 0 4px 14px rgba(100, 68, 155, 0.10);
+  border-color: rgba(100, 68, 155, 0.34);
+}
+.callout[data-callout="effect-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(35, 130, 150, 0.18), 0 4px 14px rgba(35, 130, 150, 0.10);
+  border-color: rgba(35, 130, 150, 0.34);
+}
+.callout[data-callout="ma-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(88, 68, 160, 0.18), 0 4px 14px rgba(88, 68, 160, 0.10);
+  border-color: rgba(88, 68, 160, 0.34);
+}
+.callout[data-callout="textbook-overview"]:hover,
+.callout[data-callout="entry-map"]:hover {
+  box-shadow: 0 0 0 2px rgba(var(--callout-color), 0.18), 0 4px 14px rgba(var(--callout-color), 0.10);
+  border-color: rgba(var(--callout-color), 0.34);
+}
+
+/* prop-table 额外加 tbody 行 hover + 容器 glow */
+.callout[data-callout="prop-table"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="prop-table"]:hover {
+  box-shadow: 0 0 0 2px rgba(72, 90, 108, 0.18), 0 4px 14px rgba(72, 90, 108, 0.10);
+  border-color: rgba(72, 90, 108, 0.34);
+}
+.callout[data-callout="prop-table"] tbody tr {
+  transition: background 0.13s ease;
+}
+.callout[data-callout="prop-table"] tbody tr:hover td {
+  background: rgba(72, 90, 108, 0.06);
+}
+
+/* contrast-table 容器 glow（已有复杂 border-image，补 box-shadow） */
+.callout[data-callout="contrast-table"] {
+  transition: box-shadow 0.28s ease;
+}
+.callout[data-callout="contrast-table"]:hover {
+  box-shadow: 0 0 0 3px rgba(72, 82, 96, 0.18), 0 16px 36px rgba(72, 82, 96, 0.18);
+}
+
+/* ── AJ-13. evidence-grid (base) — li 卡片上浮 + 容器 glow ── */
+.callout[data-callout="evidence-grid"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="evidence-grid"]:hover {
+  box-shadow: 0 0 0 2px rgba(66, 120, 150, 0.20), 0 6px 18px rgba(66, 120, 150, 0.12);
+  border-color: rgba(66, 120, 150, 0.36);
+}
+.callout[data-callout="evidence-grid"] .callout-content > ul > li {
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.callout[data-callout="evidence-grid"] .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(66, 120, 150, 0.15);
+}
+
+/* ── AJ-14. designs / features / indicators — 容器 glow + 细节 ── */
+.callout[data-callout="designs"],
+.callout[data-callout="features"],
+.callout[data-callout="indicators"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="designs"]:hover {
+  box-shadow: 0 0 0 2px rgba(100, 85, 165, 0.20), 0 6px 18px rgba(100, 85, 165, 0.12);
+  border-color: rgba(100, 85, 165, 0.38);
+}
+.callout[data-callout="features"]:hover {
+  box-shadow: 0 0 0 2px rgba(110, 125, 140, 0.18), 0 4px 12px rgba(110, 125, 140, 0.10);
+  border-color: rgba(110, 125, 140, 0.32);
+}
+.callout[data-callout="indicators"]:hover {
+  box-shadow: 0 0 0 2px rgba(80, 110, 140, 0.18), 0 4px 14px rgba(80, 110, 140, 0.10);
+  border-color: rgba(80, 110, 140, 0.34);
+}
+/* designs li 卡片微上浮 */
+.callout[data-callout="designs"] > .callout-content > ul > li {
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+.callout[data-callout="designs"] > .callout-content > ul > li:hover {
+  background: rgba(100, 85, 165, 0.08);
+  border-left-color: rgba(100, 85, 165, 0.38);
+  transform: translateX(2px);
+}
+
+/* ── AJ-15. step / axioms — 容器 glow ── */
+.callout[data-callout="step"],
+.callout[data-callout="axioms"] {
+  transition: box-shadow 0.28s ease, border-color 0.28s ease;
+}
+.callout[data-callout="step"]:hover {
+  box-shadow: 0 0 0 2px rgba(175, 105, 55, 0.22), 0 8px 22px rgba(175, 105, 55, 0.14);
+  border-color: rgba(175, 105, 55, 0.42);
+}
+.callout[data-callout="axioms"]:hover {
+  box-shadow:
+    0 0 0 2px rgba(185, 140, 55, 0.22),
+    0 8px 22px rgba(185, 140, 55, 0.14),
+    inset 1px 0 0 rgba(185, 140, 55, 0.06);
+  border-color: rgba(185, 140, 55, 0.42);
+}
+
+/* ── AJ-16. term / critique / layer — 容器 glow ── */
+.callout[data-callout="term"],
+.callout[data-callout="critique"],
+.callout[data-callout="layer"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="term"]:hover {
+  box-shadow: 0 0 0 2px rgba(80, 130, 110, 0.18), 0 4px 12px rgba(80, 130, 110, 0.10);
+  border-color: rgba(80, 130, 110, 0.32);
+}
+.callout[data-callout="critique"]:hover {
+  box-shadow: 0 0 0 2px rgba(48, 78, 120, 0.20), 0 6px 16px rgba(48, 78, 120, 0.10);
+  border-color: rgba(48, 78, 120, 0.35);
+}
+.callout[data-callout="layer"]:hover {
+  box-shadow: 0 0 0 2px rgba(155, 95, 40, 0.20), 0 5px 14px rgba(155, 95, 40, 0.12);
+  border-color: rgba(155, 95, 40, 0.36);
+}
+
+/* ── AJ-17. 图谱 / 地图类 — 容器 glow ── */
+.callout[data-callout="knowledge-map"],
+.callout[data-callout="volume-map"],
+.callout[data-callout="book-argument-map"] {
+  transition: box-shadow 0.28s ease, border-color 0.28s ease;
+}
+.callout[data-callout="knowledge-map"]:hover,
+.callout[data-callout="volume-map"]:hover,
+.callout[data-callout="book-argument-map"]:hover {
+  box-shadow: 0 0 0 2px rgba(var(--callout-color), 0.20), 0 8px 24px rgba(var(--callout-color), 0.12);
+  border-color: rgba(var(--callout-color), 0.38);
+}
+
+/* ── AJ-18. chapter-question — 边框 glow ── */
+.callout[data-callout="chapter-question"] {
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="chapter-question"]:hover {
+  box-shadow: 0 0 0 2px rgba(var(--callout-color), 0.18), 0 4px 12px rgba(var(--callout-color), 0.10);
+  border-color: rgba(var(--callout-color), 0.36);
+}
+
+/* ── AJ-19. col-l / col-r — 内嵌列容器边框渐显 ── */
+.callout[data-callout="col-l"],
+.callout[data-callout="col-r"] {
+  transition: border-color 0.2s ease, background 0.2s ease;
 }
