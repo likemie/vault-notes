@@ -89,7 +89,6 @@ views:
       - summary
       - method_related_stars
       - method_related_count
-      - tags
     sort:
       - property: method_related_count
         direction: DESC
@@ -105,7 +104,6 @@ views:
       - summary
       - method_related_stars
       - method_related_count
-      - tags
     sort:
       - property: method_related_count
         direction: DESC
@@ -121,7 +119,6 @@ views:
       - summary
       - method_related_stars
       - method_related_count
-      - tags
     sort:
       - property: method_related_count
         direction: DESC
