@@ -7605,6 +7605,182 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   MICRO-INTERACTIONS & ANIMATIONS
+   两类效果：
+     A. 卡片网格（person-profile / influence-path 等）
+        · hover → translateY(-2px) 上浮 + 阴影加深 + 边框变亮
+     B. 时间线条目（work-line / thought-timeline）
+        · hover → translateX(4px) 右移 + 阴影 + 边框变亮
+        · ::before 节点点 → scale(1.45) + 填充主色
+        · ::before 节点点 → @keyframes timeline-pulse 脉冲圈
+   设计原则：时长 ≤ 0.2s，ease；不影响阅读节奏。
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── A. 卡片网格 hover ─────────────────────────────────── */
+.callout[data-callout="person-profile"] > .callout-content > ul > li,
+.callout[data-callout="influence-path"] > .callout-content > ul > li,
+.callout[data-callout="person-network"] > .callout-content > ul > li {
+  transition:
+    transform     0.17s ease,
+    box-shadow    0.17s ease,
+    border-color  0.17s ease,
+    background    0.17s ease;
+}
+
+.callout[data-callout="person-profile"] > .callout-content > ul > li:hover,
+.callout[data-callout="influence-path"] > .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(var(--callout-color), 0.18);
+  border-color: rgba(var(--callout-color), 0.30);
+}
+
+.callout[data-callout="person-network"] > .callout-content > ul > li:hover {
+  background: rgba(var(--callout-color), 0.09);
+  border-color: rgba(var(--callout-color), 0.26);
+}
+
+/* ─── B. 时间线条目 hover ───────────────────────────────── */
+.callout[data-callout="work-line"] > .callout-content > ul > li,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li {
+  transition:
+    transform     0.17s ease,
+    box-shadow    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li:hover,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li:hover {
+  transform: translateX(4px);
+  box-shadow: 0 4px 16px rgba(var(--callout-color), 0.15);
+  border-color: rgba(var(--callout-color), 0.30);
+}
+
+/* ─── B. 时间线节点点动效 ───────────────────────────────── */
+.callout[data-callout="work-line"] > .callout-content > ul > li::before,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li::before {
+  transition:
+    transform     0.17s ease,
+    background    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="work-line"] > .callout-content > ul > li:hover::before,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li:hover::before {
+  transform: scale(1.45);
+  background: rgb(var(--callout-color));
+  border-color: rgb(var(--callout-color));
+  animation: timeline-pulse 1.1s ease-out infinite;
+}
+
+@keyframes timeline-pulse {
+  0%   { box-shadow: 0 0 0 0   rgba(var(--callout-color), 0.45); }
+  65%  { box-shadow: 0 0 0 6px rgba(var(--callout-color), 0); }
+  100% { box-shadow: 0 0 0 0   rgba(var(--callout-color), 0); }
+}
+
+/* ─── C. [!timeline] 生平与职涯 ────────────────────────── */
+/* 扩展现有 transition：加入 transform + border-color */
+.callout[data-callout="timeline"] .callout-content ul > li {
+  transition:
+    background     0.14s ease,
+    transform      0.17s ease,
+    border-color   0.17s ease;
+}
+
+.callout[data-callout="timeline"] .callout-content ul > li:hover {
+  transform: translateX(3px);
+  border-color: rgba(72, 95, 145, 0.22);
+}
+
+/* 节点圆点：放大 + 填充 + 脉冲 */
+.callout[data-callout="timeline"] .callout-content ul > li::before {
+  transition:
+    transform   0.17s ease,
+    background  0.17s ease;
+}
+
+.callout[data-callout="timeline"] .callout-content ul > li:hover::before {
+  transform: scale(1.45);
+  background: rgb(72, 95, 145);
+  animation: timeline-pulse 1.1s ease-out infinite;
+}
+
+/* ─── D. [!proposition-chain] 命题链 ───────────────────── */
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li {
+  transition:
+    transform     0.17s ease,
+    box-shadow    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li:hover {
+  transform: translateX(4px);
+  box-shadow: 0 4px 16px rgba(var(--callout-color), 0.15);
+  border-color: rgba(var(--callout-color), 0.30);
+}
+
+/* 节点圆点：放大 + 填充 + 脉冲 */
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li::before {
+  transition:
+    transform     0.17s ease,
+    background    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li:hover::before {
+  transform: scale(1.45);
+  background: rgb(var(--callout-color));
+  border-color: rgb(var(--callout-color));
+  animation: timeline-pulse 1.1s ease-out infinite;
+}
+
+/* ─── E. [!stat-cards] / [!finding-cards] 数据卡上浮 ───── */
+.callout[data-callout="stat-cards"] .callout-content > ul > li,
+.callout[data-callout="finding-cards"] .callout-content > ul > li {
+  transition:
+    transform     0.17s ease,
+    box-shadow    0.17s ease,
+    border-color  0.17s ease;
+}
+
+.callout[data-callout="stat-cards"] .callout-content > ul > li:hover,
+.callout[data-callout="finding-cards"] .callout-content > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(var(--callout-color), 0.18);
+  border-color: rgba(var(--callout-color), 0.32);
+}
+
+/* ─── F. [!claim] 左边框发光 ───────────────────────────── */
+.callout[data-callout="claim"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="claim"]:hover {
+  border-left-color: rgb(var(--callout-color));
+  box-shadow:
+    -3px 0 14px rgba(var(--callout-color), 0.22),
+    0 4px 18px rgba(var(--callout-color), 0.10);
+}
+
+/* ─── F. [!evidence-grid-a/b] 列表条目右移 ─────────────── */
+.callout[data-callout="evidence-grid-a"] > .callout-content > ul > li,
+.callout[data-callout="evidence-grid-b"] > .callout-content > ul > li {
+  transition:
+    transform     0.15s ease,
+    color         0.15s ease;
+  border-radius: 4px;
+}
+
+.callout[data-callout="evidence-grid-a"] > .callout-content > ul > li:hover,
+.callout[data-callout="evidence-grid-b"] > .callout-content > ul > li:hover {
+  transform: translateX(4px);
+  color: rgb(var(--callout-color));
+}
+
+
+/* ═══════════════════════════════════════════════════════════
    CRITIQUE-ESSAY — 散文式多点批评
    用途：McKnight 式长散文段落批评列表（点间需清晰分割）
    颜色：酒红 rgb(138, 52, 78)
