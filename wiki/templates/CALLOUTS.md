@@ -231,24 +231,23 @@ Theory 页面常用位置：
 |---|---|
 | 理论定位 | `[!theory-position]`、`[!claim]`、`[!citation-card]` |
 | 核心命题与机制 | `[!proposition-chain]`、`[!mechanism-map]`、`[!warrant]`、`[!exegesis]` |
-| 关键概念与理论构件 | `[!theory-components]`、`[!frames-ref]`、`[!taxonomy]` |
-| 认识论与方法含义 | `[!theory-stance]`、`[!assumptions]`、`[!axioms]` |
-| 分析框架与使用方式 | `[!theory-use]`、`[!logic-map]`、`[!frames-ref]` |
+| 关键概念与理论构件 | `[!entry-map]`（表格：构件 / 类型 / 在理论中的功能） |
+| 理论立场与使用方式 | `[!theory-stance]`、`[!theory-use]`、`[!logic-map]` |
 | 适用边界 | `[!theory-boundary]`、`[!boundary]`、`[!decisions]` |
 | 发展脉络 | `[!timeline]`、`[!phase]`、`[!dev-timeline]` |
 | 争议与批评 | `[!tension]`、`[!critique]`、`[!critique-method]`、`[!critique-logic]`、`[!critique-data]` |
-| 相关研究 | 默认用 `[!evidence-grid-a]` 承载一句话索引 |
-| 应用领域 | 默认用 `[!case]` 承载一句话索引 |
+| 相关研究 | `[!evidence-grid-a]`（含使用、检验、修正与批评索引） |
 
 注意：
 
-- Theory 默认少用大表格。理论构件、命题链和使用方式优先用专用 callout；只有比较多个理论、分类稳定或需要速查时才使用 `[!contrast-table]`、`[!framework-table]` 或普通表格。
 - `[!theory-position]` 是入口模块，不写成文献背景；它只回答理论解释什么、回应什么问题、属于什么理论类型、站在哪个知识传统中。
-- `[!proposition-chain]` 必须有推理方向，不能只是核心观点列表。命题之间应能读出“前提 → 机制 → 条件 → 结果”的关系。
+- `[!proposition-chain]` 必须有推理方向，不能只是核心观点列表。命题之间应能读出”前提 → 机制 → 条件 → 结果”的关系。
 - `[!mechanism-map]` 只放机制总览，优先用 Mermaid 图；图后仍要用 `[!proposition-chain]` 或散文解释关键命题。
-- `[!theory-components]` 不是相关条目列表。每个链接都要说明它在理论中承担定义、分类、机制、证据或方法功能。
-- `[!theory-stance]` 必须写“不能直接推出的东西”，防止把理论主张误写成因果证明、普遍规律或规范结论。
+- `## 关键概念与理论构件` 使用 `[!entry-map]` 三列表格（构件 / 类型 / 在理论中的功能）；只写没有它就无法理解该理论的构件，类型可选：概念 / 分类 / 机制 / 方法 / 框架。
+- `## 理论立场与使用方式` 先用 `[!theory-stance]` 说明认识论立场（本体论、认识论、方法含义和不能推出的东西），再用 `[!theory-use]` 说明研究使用方式（框架、工具、批判视角、报告方式）。
+- `[!theory-stance]` 必须写”不能直接推出的东西”，防止把理论主张误写成因果证明、普遍规律或规范结论。
 - `[!theory-boundary]` 用于集中提醒适用边界和常见误用，尤其适合学习科学、政策理论、批判理论和方法论框架。
+- `## 相关研究` 统一用 `[!evidence-grid-a]`，同时承载使用、检验、修正和批评索引；不再单独设”应用领域”章节。
 
 ---
 
