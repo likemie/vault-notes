@@ -32,12 +32,12 @@ updated: 2026-06-19
 ## 定义
 
 > [!def] 核心定义
-> Ethics debriefing 是在涉及[[Deception in Research|欺骗]]的研究结束或研究阶段结束后，向参与者解释研究真实目的、说明所使用欺骗的原因并帮助参与者处理研究经历的程序。它是抵消欺骗研究负面效果的主要方式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 112–113]]）。
+> Ethics debriefing 是在涉及欺骗的研究结束或研究阶段结束后，向参与者解释研究真实目的、说明所使用欺骗的原因并帮助参与者处理研究经历的程序。它是抵消欺骗研究负面效果的主要方式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 112–113]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义**：Debriefing 不是简单地把真相暴露给参与者，而是一个需要研究者传达真诚和不安的精细沟通过程。
 > - **用途**：恢复参与者的知情状态、消除欺骗可能造成的心理伤害、将研究经历转化为学习体验。
-> - **边界**：Ethics debriefing 不同于质性研究中的 Peer Debriefing（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可信度。
+> - **边界**：Ethics debriefing 不同于[[Qualitative Research|质性研究]]中的 [[Peer Debriefing]]（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可信度。
 
 ---
 
@@ -46,8 +46,8 @@ updated: 2026-06-19
 > [!feature] Debriefing 的四项基本内容
 > Cooper & Schindler (2001, p. 116) 列出 debriefing 应包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）：
 
-1. **解释欺骗及其原因**（explaining any deception and the reasons for it）
-2. **描述研究的目的、假设、目标和方法**（description of the purposes, hypotheses, objectives and methods of the research）
+1. **解释欺骗及其原因**（explaining any [[Deception in Research|deception]] and the reasons for it）
+2. **描述研究的目的、假设、目标和方法**（description of the purposes, [[Hypothesis|hypotheses]], objectives and methods of the research）
 3. **研究后分享结果**（sharing of the results after the research）
 4. **跟进心理或医疗关注**（follow-up psychological or medical attention after the research）
 
@@ -63,7 +63,7 @@ updated: 2026-06-19
 ## 围绕概念形成的命题
 
 > [!claim] Debriefing 是参与者伦理权利的一部分
-> Kelman (1967) 将 debriefing 作为处理欺骗问题的三种方式之一（方式二：抵消和最小化欺骗的负面效果）。其底层原则是不伤害（non-maleficence）：受试者不应以比来时更大的焦虑或更低的自尊离开。理想情况下，受试者应当被经历所丰富，带着学到了一些东西的感觉离开（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）。
+> Kelman (1967) 将 debriefing 作为处理欺骗问题的三种方式之一（方式二：抵消和最小化欺骗的负面效果）。其底层原则是不伤害（[[Non-maleficence and Beneficence in Research|non-maleficence]]）：受试者不应以比来时更大的焦虑或更低的自尊离开。理想情况下，受试者应当被经历所丰富，带着学到了一些东西的感觉离开（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）。
 
 > [!claim] Debriefing 的有效性取决于方式而非内容
 > Aronson & Carlsmith (1969) 的核心洞察是：debriefing 的效果不在于告知了什么信息，而在于如何告知。研究者自身的真诚和不适感是比任何客观信息更有效的修复工具。这意味着 debriefing 不是可标准化的程序，而是一种需要研究者真实在场的伦理实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 113]]）。
@@ -81,11 +81,11 @@ updated: 2026-06-19
 
 ## 概念辨析
 
-> [!contrast-table] Ethics Debriefing vs Peer Debriefing
+> [!contrast-table] Ethics Debriefing vs [[Peer Debriefing]]
 > | 维度 | Ethics Debriefing | Peer Debriefing |
 > |---|---|---|
 > | 对象 | 研究参与者 | 研究者同行 |
 > | 目的 | 伦理修复、消除欺骗伤害 | 增强研究可信度和严谨性 |
 > | 时机 | 研究结束或研究阶段结束后 | 研究过程中的同行审查 |
-> | 核心内容 | 解释欺骗原因、分享研究目的和结果 | 审查研究方法、分析和解释 |
-> | 方法类型 | 伦理程序 | 质性研究可信度策略 |
+> | 核心内容 | 解释欺骗原因、分享[[Purpose Statement\|研究目的]]和结果 | 审查研究方法、分析和解释 |
+> | 方法类型 | 伦理程序 | [[Qualitative Research\|质性研究]]可信度策略 |

@@ -401,7 +401,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 >
 > 快速阅读路径：
 > - 统计与[[Effect Size|效应量]]问题：[[Effect Size]]、[[Meta-analysis]]、[[Meta-meta-analysis]]
-> - 可见性与[[Pure Evaluation|评价理论]]问题：[[Pure Evaluation]]、[[Performativity of Measurement]]、[[Blind Spot in Observation]]
+> - 可见性与评价理论问题：[[Pure Evaluation]]、[[Performativity of Measurement]]、[[Blind Spot in Observation]]
 > - 政策与商业化问题：[[Visible Learning Branding and Global Influences]]、[[Policy Entrepreneur]]、[[Educational Management Organisation]]
 > - 教育哲学与 [[Bildung]] 批评：[[Bildung]]、[[Learnification]]、[[Technical Rationality]]
 

@@ -128,7 +128,7 @@ updated: 2026-06-18
 > | 数据的报告方式 | 例如报告方式是否能让参与者理解 |
 
 > [!tension] 贯穿始终的核心张力
-> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**[[Costs Benefits Ratio in Research Ethics|成本/收益比]]**（costs/benefits ratio），反复回归的核心概念（pp.75–76）。
+> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**成本/收益比**（[[Costs Benefits Ratio in Research Ethics|costs/benefits ratio]]），反复回归的核心概念（pp.75–76）。
 
 ---
 
@@ -167,7 +167,7 @@ updated: 2026-06-18
 
 ---
 
-#### 5.1.4 [[Seedhouse's Ethical Pyramid|Seedhouse 的伦理金字塔]]
+#### 5.1.4 Seedhouse 的伦理金字塔
 
 > [!ethical-pyramid] Seedhouse 的伦理决策四层结构（pp.76–78）
 > Seedhouse (1998a) 提出，构成思考[[Research Ethics|研究伦理]]问题的"[[Epistemology|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）。伦理决策必须同时在所有层次中运作。
@@ -179,7 +179,7 @@ updated: 2026-06-18
 > | ▸ **道义层** Deontological | 我的义务是什么？ | 义务判断的达成方式 |
 > | ▸ **个体层** Individual | 尊重个人自由和自主吗？ | 核心原则：尊重个体自由与自主 |
 
-> [!example]- Figure 5.1：Seedhouse 的伦理金字塔网格
+> [!example]- Figure 5.1：Seedhouse 的[[Seedhouse's Ethical Pyramid|伦理金字塔网格]]
 > > [!note]- 图5.1：Seedhouse's ethical pyramidal grid
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_5-1_Seedhouse_Ethical_Pyramidal_Grid.jpg)
 >
@@ -419,7 +419,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > [!info] Box 5.4：为学校研究项目提供的条件与保证
 >
 > 1. 所有参与者必须有机会保持匿名（All participants must be given the chance to remain anonymous）
-> 2. 所有数据必须被严格保密（All data must be given strict [[Confidentiality in Research|confidentiality]]）
+> 2. 所有数据必须被严格保密（All data must be given strict [[Confidentiality in Research|Confidentiality]]）
 > 3. 受访者应有机会在报告起草阶段核实陈述——受访者验证（[[Member Checking|respondent validation]]）
 > 4. 参与者应获得最终报告副本
 > 5. 出版许可必须从参与者处获得
@@ -510,7 +510,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 
 ### 5.5 张力来源（Sources of Tension）
 
-#### 5.5.1 [[Non-maleficence and Beneficence in Research|不伤害、行善]]与人的尊严
+#### 5.5.1 不伤害、行善与人的尊严
 
 > [!tension] 第一重张力：科学探究 vs 人的尊严
 > Aronson & Carlsmith (1969) 表达的核心张力是两种社会价值之间的紧张（pp.89–93）：
@@ -519,7 +519,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > 这就是成本/收益比的实质："对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量"（Social Sciences and Humanities Research Council of Canada, 1981）。即**不伤害**原则。
 
-> [!feature] 不伤害（Non-maleficence）的操作含义
+> [!feature] 不伤害（[[Non-maleficence and Beneficence in Research|non-maleficence]]）的操作含义
 > 希波克拉底誓言中的 primum non nocere（首先，不伤害）在研究中也适用（pp.89–91）：
 >
 > - 研究不应在身体、心理、情感、职业、个人等任何层面损害参与者
@@ -802,7 +802,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 ---
 
-### 5.12 [[Online Research Ethics|电子研究中的伦理]]（Ethics in Electronic Research）
+### 5.12 电子研究中的伦理（Ethics in Electronic Research）
 
 > [!warning] 线上研究的新挑战
 > 隐私和匿名在新兴的线上研究领域中相互关联（pp.105–108）。James & Busher (2007) 认为：
@@ -840,12 +840,12 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 ---
 
-### 5.13 [[Betrayal in Research|背信]]（Betrayal）
+### 5.13 背信（Betrayal）
 
 > [!def] 背信的定义
 > "背信"一词通常适用于那些在信赖中披露的数据被公开透露以致引起披露信息的参与者尴尬、焦虑或痛苦的场合（pp.108–109）。这是对信任的违反，与保密相反，往往是出于自私的个人或职业动机的后果。正如 Plummer (1983) 评论："在社会学中，当一个社会学家可以进入一个群体和一个人的生活很长一段时间，学习他们最严密保守的秘密，然后以批判的眼光向公众暴露一切，这有点不对劲。"（p.108）
 
-> [!case] 行动研究中的背信风险
+> [!case] 行动[[Betrayal in Research|研究中的背信]]风险
 > Kelly (1989a) 指出，行动研究尤其容易产生背信问题。如果我们在日常互动中将教师视为合作者，当这些互动被记录并用作证据（特别是当证据是负面的时）时，就可能像背叛信任。一种出路是向相关教师提交关于教师反应的报告和评估征求评论；让他们评估自己变化的态度。但 Kelly 警告：这可能对已成为"皈依者"的教师有效，但在教师对研究项目目标保持冷漠或敌意的地方更加成问题。**如何写一份诚实但批判的教师态度报告，如果希望继续与相关人员合作？**（p.109）
 
 > [!tension] Morrison 的学校背信困境
@@ -927,7 +927,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 #### 5.14.4 Debriefing（事后说明）
 
-> [!tip] [[Ethics Debriefing|Debriefing]] 的四项内容
+> [!tip] [[Ethics Debriefing|debriefing]] 的四项内容
 > 抵消使用欺骗的研究负面效果的主要方式（pp.112–113）。Cooper & Schindler (2001, p. 116) 列出 debriefing 可包括：
 >
 > 1. 解释任何欺骗及其原因（explaining any [[Deception in Research|deception]] and the reasons for it）
@@ -1016,7 +1016,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > | **APA** (American Psychological Association, 2002) | 五项总原则 → 十节伦理标准 | 行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
 > | **ASA** (American Sociological Association, 1999) | 五项总原则 → 20条伦理标准 | 涵盖不剥削、保密、知情同意、欺骗、提供诱导等 |
 > | **BSA** (British Sociological Association, 2002) | 多章节，含隐蔽研究、资助方责任 | 对参与者和资助方的双重义务；匿名、隐私、保密章节 |
-> | **SRA** (Social Research Association, 2003) | 四个层级义务：社会 → 资助方 → 同事 → 参与者 | 借鉴欧洲法律框架（www.respect-project.org） |
+> | **[[Sponsored Research Agreement\|SRA]]** (Social Research Association, 2003) | 四个层级义务：社会 → 资助方 → 同事 → 参与者 | 借鉴欧洲法律框架（www.respect-project.org） |
 > | **BERA** (British Educational Research Association, 2004) | 多章节责任体系 | 覆盖研究专业、参与者（含儿童）、公众、资助机构、出版、知识产权、宿主机构 |
 > | **AERA** (American Educational Research Association, 2000) | 六节，含学生和研究生研究者 | 不鼓励欺骗，仅当明确必要时使用，需解释原因；对文化、宗教、性别等当地情况敏感 |
 
@@ -1222,7 +1222,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 >
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences and Humanities Research Council of Canada, 1981).
 
-> [!citation-card] 情境伦理的核心主张（Simons & Usher）
+> [!citation-card] [[Situated Ethics|情境伦理]]的核心主张（Simons & Usher）
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons and Usher, 2000: 1).
@@ -1237,7 +1237,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 >
 > Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
-> [!citation-card] [[Ethics Debriefing|Debriefing]] 的核心（Aronson & Carlsmith）
+> [!citation-card] [[Ethics Debriefing|debriefing]] 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）
 >
 > 'debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all.' 'No amount of postexperimental gentleness is as effective in relieving a subject's discomfort as an honest accounting of the experimenter's own discomfort in the situation' (Aronson and Carlsmith, 1969: 31).

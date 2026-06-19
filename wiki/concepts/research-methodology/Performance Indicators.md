@@ -125,7 +125,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 > - [[Sociology of Measurement]] — 指标构建过程体现了测量的 instrumentalism（如何在各种约束下"让事物运作"）和 [[Performativity]]（指标一旦存在就改变世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
 > - [[Performativity of Measurement]] — [[International Education|国际教育]]指标在多个层面上是 performative：影响政策制定者行为、改变国家优先级、使某些关联被物化为[[Causality|因果关系]]([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.16–18]])
 > - [[Selectivity]] — Jessop（2007）的策略关系国家理论为理解绩效指标的政策选择性提供了结构性解释
-> - [[Theories of Policy Change]] — Pawson（2006）的实在论评估框架解释了绩效指标如何承载和传播关于因果机制的信念体系
+> - [[Theories of Policy Change]] — Pawson（2006）的[[Realist Evaluation|实在论评估]]框架解释了绩效指标如何承载和传播关于因果机制的信念体系
 > - [[Regulatory Regionalism]] — 绩效指标是超国家组织通过排名和指标对区域内教育进行间接治理的核心操作机制
 
 ## 实证发现

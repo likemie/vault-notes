@@ -7,80 +7,114 @@ summary: "美国教育心理学家，1976年创造元分析一词并发展其方
 type: person
 nationality: usa
 tags:
-- gene-glass
-- meta-analysis
-- effect-size
-- evidence-based-education
-- methodology
-- region/usa
-related_concepts:
-  - "[[Effect Size]]"
+  - gene-glass
+  - meta-analysis
+  - effect-size
+  - evidence-based-education
+  - methodology
+  - region/usa
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
+related_methods: []
 related_persons: []
-related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
-related_facts:
-  - "[[EEF Teaching and Learning Toolkit]]"
+related_facts: []
+related_arguments: []
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: '2026-06-08'
+updated: '2026-06-19'
 ---
+
+# Gene Glass
+
+---
+
 ## 简介
 
-> [!info]
-> Gene V. Glass（1940–）是美国教育心理学家和统计学家。1976年，他在美国教育研究协会（AERA）主席演说中首次提出"[[Meta-analysis|元分析]]"（meta-analysis）一词，将其定义为"对大量个别研究的分析结果进行统计分析，以整合发现"。他与 Mary Lee Smith 合作的心理治疗效果研究直接挑战了当时 Hans Eysenck 主导的"心理治疗无效"共识，被誉为元分析之父([[Argument_Higgins_2016_RE|Higgins, 2016, pp.36–37]])。
+> [!person-profile] 人物档案
+> - **身份位置**：美国教育心理学家与统计学家，曾任科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院教授。
+> - **为什么值得建条目**：元分析（Meta-analysis）方法的奠基人，1976 年首次提出该术语并系统化其方法论，开创了社会科学与医学的定量研究综合规范。
+> - **代表贡献**：创造 [[Meta-analysis|元分析]] 术语、将 [[Effect Size|效应量]] 作为跨研究比较的通用尺度、推动 [[Meta-meta-analysis|元-元分析]] 与循证工具包的发展。
+> - **阅读边界**：本页主要关注其在教育与心理学研究方法论上的贡献，以及其关于元分析数据变异性的理论警告。
+
+---
+
+## 贡献地图
+
+> [!contribution-map] 贡献地图
+> - **概念贡献**：[[Effect Size|效应量（Effect Size）]] — 将其作为标准差单位，确立为跨不同量具进行效果比较的通用尺度。
+> - **方法贡献**：[[Meta-analysis|元分析（Meta-analysis）]] — 1976 年首次定义并应用该方法，整合零散研究发现；其思想间接影响了 [[Meta-meta-analysis|元-元分析（Meta-meta-analysis）]] 和 [[EEF Teaching and Learning Toolkit|EEF 教学与学习工具包]] 的形成。
 
 ---
 
 ## 生平与职涯
 
-> [!note]
-> - 1940年出生于美国
-> - 1976年在 AERA 主席演说中创造"[[Meta-analysis]]"一词
-> - 与 Mary Lee Smith 合作发表心理治疗效果元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 SD，挑战了 Eysenck 的"心理治疗无效"论([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])
-> - 曾任科罗拉多大学博尔德分校教育学院教授
+> [!timeline] 生平与职涯
+> - **1940 年**：出生于美国。
+> - **1976 年**：在美国教育研究协会（AERA）主席演说中首次创造 “元分析” 一词，将其定义为 “对大量个别研究的分析结果进行统计分析，以整合发现”。
+> - **1977 年**：与玛丽·李·史密斯（Mary Lee Smith）合作发表心理治疗效果的元分析，发现治疗组平均效应量为 0.6 个标准差（SD），直接挑战了当时 Hans Eysenck 主导的 “心理治疗无效” 学术共识。 ([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 36–37]])
 
 ---
 
-## 主要著作
+## 主要著作与思想发展
 
-> [!abstract]
-> - Smith, M. L., & Glass, G. V. (1977). [[Meta-analysis]] of psychotherapy outcome studies. *American Psychologist*, 32(9), 752–760. — 首次大规模应用元分析方法，综合心理治疗效果研究，发现平均[[Effect Size|效应量]] 0.6 SD。
-> - Glass, G. V. (2000). Meta-analysis at 25. — 元分析方法诞生 25 年后的回顾与反思。
+> [!work-line] 主要著作
+> - **1977 — *Meta-analysis of psychotherapy outcome studies***：与玛丽·李·史密斯合作发表，首次大规模应用元分析方法综合心理治疗效果，发现平均效应量为 0.6 SD。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+> - **2000 — *Meta-analysis at 25***：元分析方法诞生 25 年后的回顾与反思，强调其在探索变异性上的原始科学价值。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
 
 ---
 
 ## 核心思想
 
-> [!tip]
-> Glass 的核心贡献是将[[Meta-analysis|元分析]]确立为一种独立的研究方法。他认为元分析的价值不仅在于给出平均效果的估计，更在于呈现效果的分布——"元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）。
->
-> Glass 将[[Effect Size|效应量]]（标准差单位）作为跨研究比较的通用尺度，这一度量方式至今是教育和心理学元分析的标准。他承认 Robert Rosenthal 发展了效应量的基础度量，Benjamin Bloom 也对其思想产生了影响——Bloom 的"两个标准差问题"（two sigma problem）正是以标准差单位表述的([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])。
->
-> 对于"苹果和橙子"批评——元分析将不可比的研究混为一谈——Glass 的回应直截了当："当然它混合苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的"（Glass, 2000, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）。这一论述的核心在于：任何推论都直接取决于元分析所包含的内容，理解这一点是正确解读元分析的前提。
+> [!claim] 核心主张
+> 元分析的本质是通过将效应量标准化为通用度量，在变异中寻找规律。元分析的目的绝不应是追求单一的平均效应量，而应完整呈现效果 of 分布状况（即展示变异性的图表），通过探索苹果与橙子的差异来实现真正的科学推论。
 
-> [!quote]
-> "Of course it mixes apples and oranges; in the study of fruit nothing else is sensible; comparing apples and oranges is the only endeavor worthy of true scientists; comparing apples to apples is trivial."（Glass, 2000, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）
+> [!concept-lens] 思想透镜
+> - **问题意识**：如何跨越不同测量工具、样本背景和实验强度的局限，科学地合并与比较大量相互独立的实证研究。
+> - **概念工具**：以标准差为单位的效应量（受到罗伯特·罗森塔尔（Robert Rosenthal）和本杰明·布鲁姆（Benjamin Bloom）的影响）、异质性图表展示、变异性分析。
+> - **研究影响**：使量化研究综合成为独立的方法论门类，推动了医学和教育学证据本位运动的兴起，但也因其被后人简化为 “追求均值的数字排行” 而引发反思。
 
 ---
 
-## 影响
+## 影响路径
 
-> [!success]
-> - 创造了"[[Meta-analysis]]"一词并发展其方法论，使[[Meta-analysis|元分析]]成为教育、心理学和医学研究的标准综合方法
-> - 将[[Effect Size|效应量]]确立为跨研究比较的核心度量
-> - 其心理治疗效果研究直接挑战了学术共识，展示了元分析在解决学术争论中的力量
-> - 深刻影响了后来的教育研究综合方法，包括[[Meta-meta-analysis|元-元分析]]和[[EEF Teaching and Learning Toolkit]]的发展
+> [!influence-path] 影响路径
+> - **理论路径**：确立了经验主义效果整合的合法性，使学界接受了跨研究的效应量比较逻辑。
+> - **方法路径**：使元分析成为医学、心理学 and 教育学的标准综合方法，效应量（如 Glass's $\Delta$）至今是定量研究的标准报告指标。
+> - **政策路径**：深刻影响了后来的循证教育运动，成为约翰·哈蒂（John Hattie）的元-元分析以及 EEF 教学与学习工具包等政策决策参考工具的底层技术基础。
+
+> [!evidence-grid-a] 相关研究
+> - [[Argument_Higgins_2016_RE|Higgins, 2016]] — 追溯元分析的起源，阐述格拉斯如何开创心理治疗效果的元分析并确立效应量尺度。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用格拉斯关于 “元分析结果应是图表而非均值” 的警告，批判证据本位教育对异质性研究的强制平均和情境剥离。
+
+---
+
+## 关系网络
+
+> [!person-network] 关系网络
+> - **师承／合作者**：玛丽·李·史密斯 (Mary Lee Smith) — 合作开展心理治疗元分析；本杰明·布鲁姆 (Benjamin Bloom) — 影响了其以标准差表示效应量的思想。
+> - **继承者／重构者**：[[John Hattie]] — 进一步将元分析聚合为元-元分析，但因过度追求单一均值而偏离了格拉斯的初衷。
 
 ---
 
 ## 格言／关键表述
 
-> [!quote]
-> "元分析的结果永远不应该是平均值；它应该是一张图。"（Robinson, 2004, p. 29）
+> [!citation-card] 混合苹果与橙子的科学辩护
+> 当然它混合了苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+>
+> Of course it mixes apples and oranges; in the study of fruit nothing else is sensible; comparing apples and oranges is the only endeavor worthy of true scientists; comparing apples to apples is trivial.
+
+> [!citation-card] 元分析结果的图表化警示
+> 元分析的结果永远不应该是平均值；它应该是一张图表。 —— 罗宾逊（Robinson, 2004, p. 29）引自 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])
+>
+> The result of a meta-analysis should never be an average; it should be a graph.
 
 ---
+
+## 争议与批评
+
+> [!tension] 争议焦点
+> - **争议对象**：元分析的 “苹果与橙子” 异质性混合问题。
+> - **批评立场**：实证主义和方法论学者批评元分析将完全不可比的研究（如不同的测量指标、干预强度、目标人群）混在一起计算。
+> - **证据依据**：将完全不同的教学实践合并为一个单一均值，会导致具体的实践机制和情境变异被抹平（即 “统计炼金术” 批评）。
+> - **回应或余留问题**：格拉斯坚称，只有比较苹果和橙子（即水果整体）才是真正科学的任务，关键在于不能用均值代替图表，必须让研究者看到变异的分布。

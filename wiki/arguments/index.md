@@ -89,7 +89,7 @@ Total entries: **155**
 > - [[Argument_OConnor_2020_AJLL]] — 以《可见学习》全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
 
 > [!summary]- British Educational Research Journal (1)
-> - [[Argument_Wrigley_2018_BERJ]] — 以批判实在论对证据本位教育方法论进行三层解构：随机对照试验的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中
+> - [[Argument_Wrigley_2018_BERJ]] — 以批判实在论对证据本位教育方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中
 
 > [!summary]- Cogent Education (1)
 > - [[Argument_Schaffar_2024_CogentEdu]] — 历史与哲学综述：追溯芬兰 PhBL 的现象学、Bildung/Didaktik 和建构主义根源，并批评测量问责逻辑造成的知识碎片化

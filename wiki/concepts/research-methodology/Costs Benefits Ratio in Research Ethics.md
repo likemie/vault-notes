@@ -65,7 +65,7 @@ updated: 2026-06-19
 > [!claim] 风险评估优先于知识贡献
 > Social Sciences and Humanities Research Council of Canada (1981) 的立场："对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量。"这意味着当参与者的风险显著时，即使研究具有重大知识价值，也可能被判定为不伦理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 89]]）。
 
-> [!claim] 成本/收益比构成研究伦理的基本困境
+> [!claim] 成本/收益比构成[[Research Ethics|研究伦理]]的基本困境
 > Frankfort-Nachmias & Nachmias (1992) 将成本/收益比表述为两种权利之间的冲突：开展研究以获取知识的权利与参与者自决、隐私和尊严的权利。对于社会科学家，没有绝对的对错答案。选择偏向哪一方或如何在两者之间取得平衡，很大程度上取决于研究者的背景、经验和个人价值观（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 95]]）。
 
 ---

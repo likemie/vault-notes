@@ -64,7 +64,7 @@ citation_aliases:
 > - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（Dewey、Kant、Arendt、Biesta）为对照审视 Hattie 的理论
 > - [[Radical Constructivism]] — 识别为 Hattie 的学习理论根基
 > - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的[[Epistemology|认识论]]声称基础，论证其被严重误读
-> - [[Technical Rationality]] — [[Pure Evaluation|评价理论]]作为技术理性的运作机制
+> - [[Technical Rationality]] — 评价理论作为技术理性的运作机制
 
 ## 研究方法
 
@@ -76,7 +76,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> ### 论证一：[[Visible Learning|VL]] 是[[Pure Evaluation|评价理论]]取代教育理论
+> ### 论证一：[[Visible Learning|VL]] 是评价理论取代教育理论
 > 1. VL 的根本范畴是评价（evaluation）而非教育（education）
 > 2. 评价被定义为"对给定干预目标达成度的回溯性审查"——目标、干预和评估必须被定义为分离的、可测量的实体
 > 3. VL 将这一评价逻辑推至极致：学习者成为"自我监控、自我评价、自我评估、自我学习"的教师；"了解你的影响"（Know thy impact）成为座右铭
@@ -118,13 +118,13 @@ citation_aliases:
 
 > [!success] 主要发现
 > - [[Visible Learning|VL]] 的理论基础存在系统性的哲学缺陷，这些缺陷不是经验方法论的细节问题，而是概念结构本身的范畴错误
-> - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的[[Pure Evaluation|评价理论]]结构从前提上排除了教育作为一种有内容、有规范、有文化传统的实践
+> - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的评价理论结构从前提上排除了教育作为一种有内容、有规范、有文化传统的实践
 > - Hattie 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 [[Jürgen Habermas|Habermas]] 分析间接支持此观点, note 5/8）
 
 ## 关键引用
 
 > [!quote] 关键引用
-> > “可见的学习本身并不是一种学习理论，事实上它根本不是一种[[Didaktik|教学理论]]。相反，‘可见的学习’是教育和学习被置于一种相当简化的[[Pure Evaluation|评价理论]]之下时所产生的结果。”
+> > “可见的学习本身并不是一种学习理论，事实上它根本不是一种[[Didaktik|教学理论]]。相反，‘可见的学习’是教育和学习被置于一种相当简化的评价理论之下时所产生的结果。”
 > ("[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.")(p.2)
 >
 > > “我犯的错误是把反馈看作是教师提供给学生的东西……直到我发现当反馈是从学生传向教师时它才是最强大的，我才开始更好地理解它。”

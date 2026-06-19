@@ -62,7 +62,7 @@ updated: 2026-06-18
 
 这三种立场可能无法调和。同一个情境从不同立场出发可能得出相反的伦理判断。
 
-> [!info] 成本/收益比（Costs/Benefits Ratio）
+> [!info] 成本/收益比（[[Costs Benefits Ratio in Research Ethics|costs/benefits ratio]]）
 > 社会研究中表达基本伦理困境的核心概念（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 75–76]]）。研究者必须权衡研究的可能社会收益与参与者付出的个人成本：
 > - **可能收益**：关键发现带来理论和应用知识的重大进展；不做研究可能使社会失去改善人类状况的机会
 > - **参与者成本**：尊严受损、尴尬、社会关系中的信任丧失、自主与自决权的丧失、自尊降低
@@ -82,7 +82,7 @@ updated: 2026-06-18
 >
 > 伦理决策必须同时在金字塔的所有四个层次中运作，这可能在金字塔的不同层次内部和之间产生冲突点。
 
-> [!info] 情境伦理（Situated Ethics）
+> [!info] [[Situated Ethics|情境伦理]]（Situated Ethics）
 > Simons & Usher (2000, p. 1) 主张：虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，但恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。这意味着情境伦理是"免疫于普遍化"的——"研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到"（Simons & Usher, 2000, p. 2）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 128–129]]）。
 
 ## 核心要素
@@ -203,7 +203,7 @@ updated: 2026-06-18
 
 ## 不伤害、行善与人的尊严
 
-> [!info] 不伤害（Non-maleficence）
+> [!info] 不伤害（[[Non-maleficence and Beneficence in Research|non-maleficence]]）
 > 希波克拉底誓言中的 primum non nocere（首先，不伤害）在研究中同样适用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 89–93]]）。研究不应在身体、心理、情感、职业或个人层面损害参与者。但"什么构成伤害"是不清楚的——一个人的伤害可能是社会的收益，一点小伤害对少数人是否在为所有人（甚至为当事人）带来重大利益的情况下可容忍，这凸显了其中的张力。核心问题是：**目的正当化手段吗？**
 
 > [!info] 行善（Beneficence）
@@ -252,7 +252,7 @@ updated: 2026-06-18
 > 9. 剥夺部分参与者的收益（如对照组）
 > 10. 不公平、不体谅或不尊重地对待参与者
 
-> [!tension] 背信（Betrayal）
+> [!tension] 背信（[[Betrayal in Research|betrayal]]）
 > "背信"适用于那些在信赖中披露的数据被公开透露以致引起参与者尴尬、焦虑或痛苦的场合。Morrison (2006) 提出了核心困境：一所表现不佳、管理不善的学校——消费者乃至国家是否有权利或义务分别知情或解决这一问题？研究者对学校或对公众有什么"信义信任"，两个潜在的矛盾要求如何调和？**追求真理和追求信任可能相互冲突**（Kelly, 1985, p. 147）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 108–109]]）。
 
 ---
