@@ -1441,6 +1441,9 @@
   border-radius: 0 9px 9px 0;
 }
 
+.callout[data-callout="framework-table"] tbody tr {
+  transition: background 0.14s ease, border-color 0.14s ease;
+}
 .callout[data-callout="framework-table"] tbody tr:hover td {
   background: color-mix(in srgb, var(--background-primary) 80%, rgb(82, 145, 214) 20%);
   border-color: rgba(82, 145, 214, 0.30);
@@ -8531,8 +8534,9 @@
   border-color: rgba(var(--callout-color), 0.32);
 }
 
-/* ─── E2. [!stat-cards] 容器 hover — 左边框发光 ─────────── */
-.callout[data-callout="stat-cards"] {
+/* ─── E2. [!stat-cards] / [!finding-cards] 容器 hover ───── */
+.callout[data-callout="stat-cards"],
+.callout[data-callout="finding-cards"] {
   transition:
     border-left-color  0.18s ease,
     box-shadow         0.18s ease;
@@ -8543,6 +8547,13 @@
   box-shadow:
     -3px 0 16px rgba(72, 132, 112, 0.24),
     0 10px 24px rgba(72, 132, 112, 0.11);
+}
+
+.callout[data-callout="finding-cards"]:hover {
+  border-left-color: rgb(215, 128, 72);
+  box-shadow:
+    -3px 0 16px rgba(192, 108, 56, 0.24),
+    0 10px 24px rgba(192, 108, 56, 0.11);
 }
 
 /* ─── F. [!claim] 左边框发光 ───────────────────────────── */
@@ -9036,6 +9047,82 @@
   box-shadow:
     -3px 0 14px rgba(var(--callout-color), 0.22),
     0 4px 16px rgba(var(--callout-color), 0.09);
+}
+
+/* ─── AF. [!question] 容器 hover — 左边框发光 ───────────── */
+.callout[data-callout="question"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="question"]:hover {
+  border-left-color: rgb(105, 115, 205);
+  box-shadow:
+    -3px 0 18px rgba(88, 96, 180, 0.28),
+    0 6px 22px rgba(88, 96, 180, 0.12);
+}
+
+/* ─── AG. [!framework-table] 容器 hover ─────────────────── */
+.callout[data-callout="framework-table"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="framework-table"]:hover {
+  border-left-color: rgb(95, 160, 225);
+  box-shadow:
+    -3px 0 16px rgba(82, 145, 214, 0.22),
+    0 6px 20px rgba(82, 145, 214, 0.10);
+}
+
+/* ─── AH. [!method-panel] 容器 hover + 表格行 hover ─────── */
+.callout[data-callout="method-panel"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="method-panel"]:hover {
+  border-left-color: rgb(38, 165, 190);
+  box-shadow:
+    -3px 0 16px rgba(26, 142, 166, 0.24),
+    0 6px 20px rgba(26, 142, 166, 0.10);
+}
+
+.callout[data-callout="method-panel"] tbody tr {
+  transition: background 0.13s ease;
+}
+
+.callout[data-callout="method-panel"] tbody tr:hover td {
+  background: rgba(26, 142, 166, 0.08);
+}
+
+.callout[data-callout="method-panel"] tbody tr:hover td:first-child {
+  color: rgb(20, 115, 138);
+}
+
+/* ─── AI. [!chain-link] 容器 hover + 表格行 hover ───────── */
+.callout[data-callout="chain-link"] {
+  transition:
+    border-left-color  0.18s ease,
+    box-shadow         0.18s ease;
+}
+
+.callout[data-callout="chain-link"]:hover {
+  border-left-color: rgb(205, 162, 72);
+  box-shadow:
+    -3px 0 16px rgba(180, 140, 60, 0.24),
+    0 6px 20px rgba(180, 140, 60, 0.10);
+}
+
+.callout[data-callout="chain-link"] tbody tr {
+  transition: background 0.13s ease;
+}
+
+.callout[data-callout="chain-link"] tbody tr:hover td {
+  background: rgba(180, 140, 60, 0.08);
 }
 
 

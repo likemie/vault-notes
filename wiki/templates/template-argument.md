@@ -103,6 +103,8 @@ issuing_organization: ""
 
 ### 论证步骤一
 
+%% 本步骤可按需扩充：[!exegesis]- 加具体例子；[!contrast-table] 或 [!tension-table] 做横向比较；[!evidence-grid] 列证据索引；[!line-a]/[!line-b] 标注并置材料；[!logic-map]- 可视化局部论证链。 %%
+
 > [!claim] 步骤一主张
 > 写出这一论证步骤的局部主张。
 
@@ -116,6 +118,8 @@ issuing_organization: ""
 
 ### 论证步骤二
 
+%% 本步骤可按需扩充：[!proposition-chain] 列递进命题；[!feature] 做要素拆解；[!framework-table] 展示理论工具如何转化为分析维度；[!effect-table]- 或 [!ma-table]- 记录量化数据。 %%
+
 > [!claim] 步骤二主张
 > 写出第二步如何推进、修正或限定第一步。
 
@@ -125,6 +129,8 @@ issuing_organization: ""
 ---
 
 ### 论证步骤三
+
+%% 本步骤可按需扩充：[!implication]- 展开推论后果；[!finding-cards] 提前列核心发现；[!tension] 标记未解决张力；[!critique]- 记录外部批评。 %%
 
 > [!claim] 步骤三主张
 > 写出最终论证收束。
@@ -149,6 +155,8 @@ issuing_organization: ""
 ---
 
 ## 关键引用
+
+%% 可按引用数量重复 [!citation-card]，每张对应一个主题或论证节点。 %%
 
 > [!citation-card] 引用主题
 > 中文译文。（p.X）
