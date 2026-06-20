@@ -59,7 +59,7 @@ updated: 2026-06-20
 > - **对可用时间保持现实**
 >   可用时间内能完成什么，以及范围限制是否可能损害研究的可行性或价值，必须纳入范围决策。
 
-范围管理也是[[Research Practicability|研究可操作性]]的第六个约束维度，详见该条目（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+范围管理也是[[Research Practicability|研究可行性]]的第六个约束维度，详见该条目（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Research Practicability
 aliases:
-  - 研究可操作性
+  - 研究可行性
   - 研究可行性
   - research feasibility
   - practicability of research
@@ -44,12 +44,12 @@ updated: 2026-06-20
 ## 定义
 
 > [!def] 核心定义
-> 研究可操作性（research practicability）指研究在实际约束条件下是否可以完成的综合评估，是研究者想做什么与实际上能做什么之间的差距管理。许多新手研究者怀着无知的天真乐观（the innocence and optimism of ignorance），相信自己想做的一切都能做到——事实远非如此。在制定详细研究计划之前，必须先检查实际情况，否则计划可能因为无法获得准入而毫无意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 研究可行性（research practicability）指研究在实际约束条件下是否可以完成的综合评估，是研究者想做什么与实际上能做什么之间的差距管理。许多新手研究者怀着无知的天真乐观（the innocence and optimism of ignorance），相信自己想做的一切都能做到——事实远非如此。在制定详细研究计划之前，必须先检查实际情况，否则计划可能因为无法获得准入而毫无意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 可操作性评估涵盖六个约束维度：[[Access and Acceptance in Research|研究准入]]、研究者自身特质与专长、时间、资源、研究影响力和[[Research Scope|研究范围]]。约束条件不总是一票否决——它们可能只要求修改而非放弃研究。
-> - **用途** 在研究规划的早期阶段运行可操作性检查，防止投入大量精力制定计划后才发现不可行。关键是在制定详细计划之前识别关键瓶颈。
-> - **边界** 可操作性是保障条件而非[[Purpose Statement|研究目的]]本身。一项完全可操作但毫无贡献的研究与一个贡献巨大但不可行的研究都有问题。需要在可操作性与[[Research Purpose|研究目的]]之间取得平衡。
+> - **含义** 可行性评估涵盖六个约束维度：[[Access and Acceptance in Research|研究准入]]、研究者自身特质与专长、时间、资源、研究影响力和[[Research Scope|研究范围]]。约束条件不总是一票否决——它们可能只要求修改而非放弃研究。
+> - **用途** 在研究规划的早期阶段运行可行性检查，防止投入大量精力制定计划后才发现不可行。关键是在制定详细计划之前识别关键瓶颈。
+> - **边界** 可行性是保障条件而非[[Purpose Statement|研究目的]]本身。一项完全可操作但毫无贡献的研究与一个贡献巨大但不可行的研究都有问题。需要在可行性与[[Research Purpose|研究目的]]之间取得平衡。
 
 ---
 
@@ -128,7 +128,7 @@ updated: 2026-06-20
 
 ## 自检清单
 
-> [!decisions] 可操作性九项自检
+> [!decisions] 可行性九项自检
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]，Box 6.1 相关条目）：
 
 1. 是否能获得所需的[[Access and Acceptance in Research|研究准入]]？准入的对象是谁／什么？

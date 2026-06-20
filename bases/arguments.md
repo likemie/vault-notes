@@ -35,9 +35,7 @@ properties:
 views:
   - type: cards
     name: 论证雷达
-    image: argument_related_color
     order:
-      - argument_display_title
       - authors
       - year
       - argument_kind
@@ -51,12 +49,10 @@ views:
 
   - type: cards
     name: 核心论证
-    image: argument_related_color
     filters:
       and:
         - 'argument_related_count >= 30'
     order:
-      - argument_display_title
       - authors
       - year
       - argument_kind

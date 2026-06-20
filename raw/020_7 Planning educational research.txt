@@ -1,0 +1,1406 @@
+7 Planning educational research
+===============================
+
+Planning educational research
+
+CHAPTER 7
+
+This chapter sets out a range of key issues in planning research, including:
+
+[图片: images/020_7 Planning educational research/001_box.jpg | image]
+ approaching research planning
+
+[图片: images/020_7 Planning educational research/002_box.jpg | image]
+ a framework for planning research
+
+[图片: images/020_7 Planning educational research/003_box.jpg | image]
+ conducting and reporting a literature review
+
+[图片: images/020_7 Planning educational research/004_box.jpg | image]
+ searching for literature on the internet
+
+[图片: images/020_7 Planning educational research/005_box.jpg | image]
+ orienting decisions in planning research
+
+[图片: images/020_7 Planning educational research/006_box.jpg | image]
+ research design and methodology
+
+[图片: images/020_7 Planning educational research/007_box.jpg | image]
+ how to operationalize research questions
+
+[图片: images/020_7 Planning educational research/008_box.jpg | image]
+ data analysis
+
+[图片: images/020_7 Planning educational research/009_box.jpg | image]
+ presenting and reporting the results
+
+[图片: images/020_7 Planning educational research/010_box.jpg | image]
+ a planning matrix for research
+
+[图片: images/020_7 Planning educational research/011_box.jpg | image]
+ managing the planning of research
+
+[图片: images/020_7 Planning educational research/012_box.jpg | image]
+ ensuring quality in the planning of research
+
+It also provides an extended worked example of planning a piece of research.
+
+7.1 Introduction
+
+There is no single blueprint for planning research. Research design is governed by the notion of ‘fitness for purpose’. The purposes of the research determine the methodology and design of the research. For example, if the purpose of the research is to map the field, or to make generalizable comments then a survey approach might be desirable, using some form of stratified sample; if the effects of a specific intervention are to be evaluated then an experimental or action research model may be appropriate; if an in-depth study of a particular situation or group is important then an ethnographic model might be suitable.
+
+That said, it is possible, nevertheless, to identify a set of issues that researchers need to address, regardless of the specifics of their research. This chapter addresses this set of issues, to indicate those matters that need to be addressed in practice so that an area of research interest can become practicable and feasible. This chapter indicates how research might be operationalized, i.e. how a general set of research aims and purposes can be translated into a practical, researchable topic.
+
+It is essential to try as far as possible to plan every stage of the research. To change the ‘rules of the game’ in midstream once the research has commenced is a sure recipe for problems. The terms of the research and the mechanism of its operation must be ironed out in advance if it is to be credible, legitimate and practicable. Once they have been decided upon, the researcher is in a very positive position to undertake the research. The setting up of the research is a balancing act, for it requires the harmonizing of planned possibilities with workable, coherent practice, i.e. the resolution of the difference between what could be done/what one would like to do and what will actually work/what one can actually do, for, at the end of the day, research has to work. In planning research there are two phases: a divergent phase and a convergent phase. The divergent phase will open up a range of possible options facing the researcher, whilst the convergent phase will sift through these possibilities, see which ones are desirable, which ones are compatible with each other, which ones will actually work in the situation, and move towards an action plan that can realistically operate. This can be approached through the establishment of a framework of planning issues.
+
+7.2 Approaching research planning
+
+What the researcher does depends on what the researcher wants to know and how she or he will go about finding out about the phenomenon in question. The planning of research (the research design) depends on the kind(s) of questions being asked or investigated. This is not a mechanistic exercise, but depends on the researcher’s careful consideration of the purpose of the research (discussed in the previous chapter) and the phenomenon being investigated, for example see Table 7.1.
+
+Part 1 set out a range of paradigms which inform and underpin the planning and conduct of research, for example:
+
+[图片: images/020_7 Planning educational research/013_box.jpg | image]
+ positivist and post-positivist
+
+[图片: images/020_7 Planning educational research/014_box.jpg | image]
+ quantitative, scientific and hypothesis-testing
+
+[图片: images/020_7 Planning educational research/015_box.jpg | image]
+ qualitative
+
+[图片: images/020_7 Planning educational research/016_box.jpg | image]
+ interpretive and naturalistic
+
+[图片: images/020_7 Planning educational research/017_box.jpg | image]
+ phenomenological and existential
+
+[图片: images/020_7 Planning educational research/018_box.jpg | image]
+ interactionist and ethnographic
+
+[图片: images/020_7 Planning educational research/019_box.jpg | image]
+ experimental
+
+[图片: images/020_7 Planning educational research/020_box.jpg | image]
+ ideology critical
+
+[图片: images/020_7 Planning educational research/021_box.jpg | image]
+ participatory
+
+[图片: images/020_7 Planning educational research/022_box.jpg | image]
+ feminist
+
+[图片: images/020_7 Planning educational research/023_box.jpg | image]
+ political
+
+[图片: images/020_7 Planning educational research/024_box.jpg | image]
+ complexity theoretical
+
+[图片: images/020_7 Planning educational research/025_box.jpg | image]
+ evaluative
+
+[图片: images/020_7 Planning educational research/026_box.jpg | image]
+ mixed methods.
+
+TABLE 7.1 PURPOSES AND KINDS OF RESEARCH
+
+Kinds of research purpose
+
+Kinds of research
+
+Does the research want to test a hypothesis or theory?
+
+Experiment, survey, action research, case study
+
+Does the research want to develop a theory?
+
+Ethnography, qualitative research, grounded theory
+
+Does the research need to measure?
+
+Survey, experiment
+
+Does the research want to understand a situation?
+
+Ethnographic and interpretive/qualitative approaches
+
+Does the research want to see what happens if . . .?
+
+Experiment, participatory research, action research
+
+Does the research want to find out ‘what’ and ‘why’?
+
+Mixed methods research
+
+Does the research want to find out what happened in the past?
+
+Historical research
+
+It was argued that these paradigms rest on different ontologies (e.g. different views of the essential nature or characteristics of the phenomenon in question) and different epistemologies (e.g. theories of the nature of knowledge, its structure, organization and how we investigate knowledge and phenomena: how we know, what constitutes valid knowledge, our cognition of a phenomenon). For example:
+
+[图片: images/020_7 Planning educational research/027_box.jpg | image]
+ a positivist paradigm rests, in part, on an objectivist ontology and a scientific, empirical, hypothesistesting epistemology;
+
+[图片: images/020_7 Planning educational research/028_box.jpg | image]
+ an interpretive paradigm rests, in part, on a subjectivist, interactionist, socially constructed ontology and on an epistemology that recognized multiple realities, agentic behaviours and the importance of understanding a situation through the eyes of the participants;
+
+[图片: images/020_7 Planning educational research/029_box.jpg | image]
+ a complexity theory paradigm rests, in part, on an ontology of self-organized emergence and change through the unpredictable interactions and outcomes of constituent elements of a whole ecological entity, and on an epistemology that argues for understanding multiple directions of causality and a need to understand phenomena holistically and by examining the processes and outcomes of interactions;
+
+[图片: images/020_7 Planning educational research/030_box.jpg | image]
+ an ideology critique paradigm rests, in part, on an ontology of phenomena as organized both within, and as outcomes of, power relations and asymmetries of power, inequality and empowerment, and on an epistemology that is explicitly political, critiquing the ideological underpinnings of phenomena that perpetuate inequality and asymmetries of power to the advantage of some and the disadvantage of others, and the need to combine critique with participatory action for change to being about greater social justice;
+
+[图片: images/020_7 Planning educational research/031_box.jpg | image]
+ a mixed methods paradigm rests on an ontology that recognizes that phenomena are complex to the extent that single methods approaches might result in partial, selective and incomplete understanding, and on an epistemology that requires pragmatic combinations of methods – in sequence, in parallel or in synthesis – in order to fully embrace and comprehend the phenomenon and to do justice to its several facets.
+
+At issue here is the need for researchers not only to consider the nature of the phenomenon under study, but what are or are not the ontological premises that underpin it, the epistemological bases for investigating it and conducting the research into it. These are points of reflection and decision, turning the planning of research from being solely a mechanistic or practical exercise into a reflection on the nature of knowledge and the nature of being.
+
+7.3 A framework for planning research
+
+Planning research depends on the design of the research which, in turn, depends on (a) the kind of questions being asked or investigated; (b) the purposes of the research; (c) the research paradigms and principles in which one is working, and the philosophies, ontologies and epistemologies which underpin them. Planning research is not an arbitrary matter. There will be different designs for different types of research, and we give three examples here.
+
+For example, a piece of quantitative research that seeks to test a hypothesis could proceed thus:
+
+Literature review → generate and formulate the hypothesis/the theory to be tested/the research questions to be addressed → design the research to test the hypothesis/theory (e.g. an experiment a survey) → conduct the research → analyse results → consider alternative explanations for the findings → report whether the hypothesis/theory is supported or not supported, and/or answer the research questions → consider the generalizability of the findings.
+
+A qualitative or ethnographic piece of research could have a different sequence, for example:
+
+Identify the topic/group/phenomenon in which you are interested → literature review → design the research questions and the research and data collection → locate the fields of study and your role in the research and the situation → locate informants, gatekeepers, sources of information → develop working relations with the participants → conduct the research and the data collection simultaneously → conduct the data analysis either simultaneously, on an ongoing basis as the situation emerges and evolves, or conduct the data analysis subsequent to the research → report the results and the grounded theory or answers to the research questions that emerge from the research → generate a hypothesis for further research or testing.
+
+One can see in the examples that, for one method the hypothesis drives the research whilst for another the hypothesis (if, in fact, there is one) emerges from the research, at the end of the study (some qualitative research does not proceed to this hypothesis-raising stage).
+
+A mixed methods research might proceed thus:
+
+Identify the problem or issue that you wish to investigate → identify your research questions → identify the several kinds of data and the methods for collecting them which, together and/or separately will yield answers to the research questions → plan the mixed methods design (e.g. parallel mixed design, fully integrated mixed design, sequential mixed design (see Chapter 1)) → conduct the research → analyse results → consider alternative explanations for the findings → answer the research questions → report the results.
+
+These three examples proceed in a linear sequence; this is beguilingly deceptive, for rarely is such linearity so clear. The reality is that:
+
+[图片: images/020_7 Planning educational research/032_box.jpg | image]
+ different areas of the research design influence each other;
+
+[图片: images/020_7 Planning educational research/033_box.jpg | image]
+ research designs, particularly in qualitative, naturalistic and ethnographic research, change, evolve and emerge over time rather than being a ‘once-and-for-all’ plan that is decided and finalized at the outset of the research;
+
+[图片: images/020_7 Planning educational research/034_box.jpg | image]
+ ethnographic and qualitative research starts with a very loose set of purposes and research questions, indeed there may not be any;
+
+[图片: images/020_7 Planning educational research/035_box.jpg | image]
+ research does not always go to plan, so designs change.
+
+In recognition of this Maxwell (2005: 5–6) develops an interactive (rather than linear) model of research design (for qualitative research), in which key areas are mutually informing and shape each other. His five main areas are:
+
+1 Goals (informed by perceived problems, personal goals, participant concerns, funding and funder goals, and ethical standards);
+
+2 Conceptual framework (informed by personal experience, existing theory and prior research, exploratory and pilot research, thought experiments, and preliminary data and conclusions);
+
+3 Research questions (informed by participant concerns, funding and funder goals, ethical standards, the research paradigm);
+
+4 Methods (informed by the research paradigm, researcher skills and preferred style of research, the research setting, ethical standards, funding and funder goals, and participant concerns); and
+
+5 Validity (informed by the research paradigm, preliminary data and conclusions, thought experiments, exploratory and pilot research, and existing theory and a priori research).
+
+At the heart of Maxwell’s model lie the research questions (3), but these are heavily informed by the four other areas. Further, Maxwell attributes strong connections between goals (1) and conceptual frameworks (2), and between methods (4) and validity (5). The links between conceptual frameworks (2) and validity (5) are less strong, as are the links between goals (1) and methods (4). His model is iterative and recursive over time; the research design emerges from the interplay of these elements and as the research unfolds.
+
+Though, clearly, the set of issues that constitute a framework for planning research will need to be interpreted differently for different styles of research, nevertheless it is useful to indicate what those issues might be, and some of these are included in Box 7.1.
+
+BOX 7.1 THE ELEMENTS OF RESEARCH DESIGN
+
+1 A clear statement of the problem/need that has given rise to the research.
+
+2 A clear grounding in literature for construct and content validity: theoretically, substantively, conceptually, methodologically.
+
+3 Constraints on the research (e.g. access, time, people, politics).
+
+4 The general aims and purposes of the research.
+
+5 The intended outcomes of the research: what the research will do and what are the ‘deliverable’ outcomes.
+
+6 Reflecting on the nature of the phenomena to be investigated, and how to address their ontological and epistemological natures.
+
+7 How to operationalize research aims and purposes.
+
+8 Generating research questions (where appropriate) (specific, concrete questions to which concrete answers can be given) and hypotheses (if appropriate).
+
+9 The foci of the research.
+
+10 Identifying and setting in order the priorities for the research.
+
+11 Approaching the research design.
+
+12 Focusing the research.
+
+13 Research methodology (approaches and research styles, e.g. survey; experimental; ethnographic/naturalistic; longitudinal; cross-sectional; historical; correlational; ex post facto).
+
+14 Ethical issues and ownership of the research (e.g. informed consent; overt and covert research; anonymity; confidentiality; non-traceability; non-maleficence; beneficence; right to refuse/withdraw; respondent validation; research subjects; social responsibility; honesty and deception).
+
+15 Politics of the research: who is the researcher; researching one’s own institution; power and interests; advantage; insider and outsider research.
+
+16 Audiences of the research.
+
+17 Instrumentation, e.g. questionnaires; interviews; observation; tests; field notes; accounts; documents; personal constructs; role play.
+
+18 Sampling: size/access/representativeness; type; probability: random, systematic, stratified, cluster, stage, multi-phase; non-probability: convenience, quota, purposive, dimensional, snowball.
+
+19 Piloting: technical matters: clarity, layout and appearance, timing, length, threat, ease/difficulty, intrusiveness; questions: validity, elimination of ambiguities, types of questions (e.g. multiple choice, open-ended, closed), response categories, identifying redundancies; pre-piloting: generating categories, grouping and classification.
+
+20 Time frames and sequence (what will happen, when and with whom).
+
+21 Resources required.
+
+22 Reliability and validity: validity: construct; content; concurrent; face; ecological; internal; external; reliability: consistency (replicability); equivalence (inter-rater, equivalent forms), predictability; precision; accuracy; honesty; authenticity; richness; dependability; depth; overcoming Hawthorne and halo effects; triangulation: time; space; theoretical; investigator; instruments.
+
+23 Data analysis.
+
+24 Verifying and validating the data.
+
+25 Reporting and writing up the research.
+
+A possible sequence of consideration is:
+
+[图片: images/020_7 Planning educational research/036_f0119-01.jpg | image]
+
+Clearly this need not be the actual sequence; for example it may be necessary to consider access to a possible sample at the very outset of the research.
+
+These issues can be arranged into four main areas (Morrison, 1993):
+
+1 orienting decisions;
+
+2 research design and methodology;
+
+3 data analysis;
+
+4 presenting and reporting the results.
+
+These are discussed later in this chapter. Orienting decisions are those decisions which set the boundaries or the constraints on the research. For example, let us say that the overriding feature of the research is that it has to be completed within six months; this will exert an influence on the enterprise. On the one hand it will ‘focus the mind’, requiring priorities to be settled and data to be provided in a relatively short time. On the other hand this may reduce the variety of possibilities available to the researcher. Hence questions of timescale will affect:
+
+[图片: images/020_7 Planning educational research/037_box.jpg | image]
+ the research questions which might be answered feasibly and fairly (for example, some research questions might require a long data collection period);
+
+[图片: images/020_7 Planning educational research/038_box.jpg | image]
+ the number of data collection instruments used (for example, there might be only enough time for a few instruments to be used);
+
+[图片: images/020_7 Planning educational research/039_box.jpg | image]
+ the sources (people) to whom the researcher might go (for example, there might only be enough time to interview a handful of people);
+
+[图片: images/020_7 Planning educational research/040_box.jpg | image]
+ the number of foci which can be covered in the time (for example, for some foci it will take a long time to gather relevant data);
+
+[图片: images/020_7 Planning educational research/041_box.jpg | image]
+ the size and nature of the reporting (there might only be time to produce one interim report).
+
+By clarifying the timescale a valuable note of realism is injected into the research, which enables questions of practicability to be answered.
+
+Let us take another example. Suppose the overriding feature of the research is that the costs in terms of time, people and materials for carrying it out are to be negligible. This, too, will exert an effect on the research. On the one hand it will inject a sense of realism into proposals, identifying what is and what is not manageable. On the other hand it will reduce, again, the variety of possibilities which are available to the researcher. Questions of cost will affect:
+
+[图片: images/020_7 Planning educational research/042_box.jpg | image]
+ the research questions which might be feasibly and fairly answered (for example, some research questions might require: (a) interviewing which is costly in time both to administer and transcribe; (b) expensive commercially produced data collection instruments, e.g. tests, and costly computer services, which may include purchasing software for example);
+
+[图片: images/020_7 Planning educational research/043_box.jpg | image]
+ the number of data collection instruments used (for example, some data collection instruments, e.g. postal questionnaires, are costly for reprographics and postage);
+
+[图片: images/020_7 Planning educational research/044_box.jpg | image]
+ the people, to whom the researcher might go (for example, if teachers are to be released from teaching in order to be interviewed then cover for their teaching may need to be found);
+
+[图片: images/020_7 Planning educational research/045_box.jpg | image]
+ the number of foci which can be covered in the time (for example, in uncovering relevant data, some foci might be costly in researcher’s time);
+
+[图片: images/020_7 Planning educational research/046_box.jpg | image]
+ the size and nature of the reporting (for example, the number of written reports produced, the costs of convening meetings).
+
+Certain timescales permit certain types of research, e.g. a short timescale permits answers to short-term issues, whilst long-term or large questions might require a long-term data collection period to cover a range of foci. Costs in terms of time, resources and people might affect the choice of data collection instruments. Time and cost will require the researcher to determine, for example, what will be the minimum representative sample of teachers or students in a school, as interviews are time-consuming and questionnaires are expensive to produce. These are only two examples of the real constraints on the research which must be addressed. Planning the research early on will enable the researcher to identify the boundaries within which the research must operate and what the constraints are on it.
+
+Further, some research may be ‘front-loaded’ whilst other kinds are ‘end-loaded’. ‘Front-loaded’ research is that which takes a considerable time to set up, for example to develop, pilot and test instruments for data collection, but then the data are quick to process and analyse. Quantitative research is often of this type (e.g. survey approaches) as it involves identifying the items for inclusion on the questionnaire, writing and piloting the questionnaire, and making the final adjustments. By contrast, ‘end-loaded’ research is that which may not take too long to set up and begin, but then the data collection and analysis may take a much longer time. Qualitative research is often of this type (e.g. ethnographic research), as a researcher may not have specific research questions in mind but may wish to enter a situation, group or community and only then discover – as they emerge over time – the key dynamics, features, characteristics and issues in the group (e.g. Turnbull’s (1972) notorious study of the descent into inhumanity of the contemptible Ik tribe in their quest for daily survival as ‘The Mountain People’). Alternatively a qualitative researcher may have a research question in mind but an answer to this may require a prolonged ethnography of a group (e.g. Willis’s (1977) celebrated study of ‘how working-class kids get working-class jobs, and others let them’). Between these two types – ‘front-loaded’ and ‘end-loaded’ – are many varieties of research that may take different periods of time to set up, conduct, analyse data and report the results. For example, a mixed methods research project may have several stages (Table 7.2).
+
+In Table 7.2, in Example One, in the first two stages of the research, the mixed methods run in sequence (qualitative then quantitative), and are only integrated in the final stage. In Example Two, in the first two stages the quantitative and qualitative stages run in parallel, i.e. they are separate from each other, and they only combine in the final stage of the research. In Example Three the mixed methods are synthesized – combined – from the very start of the research.
+
+The researcher must look at the timescales that are both required and available for planning and conducting the different stages of the research project.
+
+Let us take another important set of questions: is the research feasible? Can it actually be done? Will the researchers have the necessary access to the schools, institutions and people? These issues were explored in the previous chapter. This issue becomes a major feature if the research is in any way sensitive (see Chapter 9).
+
+TABLE 7.2 THREE EXAMPLES OF PLANNING FOR TIME FRAMES FOR DATA COLLECTION IN MIXED METHODS RESEARCH
+
+Example One
+
+Example Two
+
+Example Three
+
+Qualitative data to answer research questions in total or in part, or to develop items for quantitative instruments (e.g. a numerical questionnaire survey)
+
+Quantitative data and qualitative data in parallel to answer research questions in total or in part, or to identify participants for qualitative study
+
+Quantitative and qualitative data together to answer research questions in total or in part and to raise further research questions
+
+[图片: images/020_7 Planning educational research/047_f0120-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/048_f0120-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/049_f0120-01.jpg | image]
+
+Quantitative data to answer research questions in total or in part, or to identify participants for qualitative study (e.g. interviews)
+
+Quantitative and qualitative data in parallel to answer research questions in total or in part
+
+Quantitative and qualitative data to answer research questions in total or in part
+
+[图片: images/020_7 Planning educational research/050_f0120-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/051_f0120-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/052_f0120-01.jpg | image]
+
+Quantitative and qualitative data to answer one or more research questions
+
+Quantitative and qualitative data to answer one or more research questions
+
+Quantitative and qualitative data to answer research questions in total or in part
+
+7.4 Conducting and reporting a literature review
+
+Before one can progress very far in planning research it is important to ground the project in validity and reliability. This is achieved, in part, by a thorough literature review of the state of the field and how it has been researched to date. Chapter 6 indicated that it is important for a researcher to conduct and report a literature review. A literature review should establish a theoretical framework for the research, indicating the nature and state of the theoretical and empirical fields and important research that has been conducted and policies that have been issued, defining key terms, constructs and concepts, reporting key methodologies used in other research into the topic. The literature review sets out what the key issues are in the field to be explored, and why they are, in fact, key issues, and it identifies gaps that need to be plugged in the field. As Chapter 6 indicated, all of this contributes not only to the credibility and validity of the research but to its topicality and significance, and it acts as a springboard into the study, defining the field, what needs to be addressed in it, why, and how it relates to – and extends – existing research in the field.
+
+A literature review may report contentious areas in the field and why they are contentious; contemporary problems that researchers are trying to investigate in the field; difficulties that the field is facing from a research angle; new areas that need to be explored in the field.
+
+A literature review synthesizes several different kinds of materials into an ongoing, cumulative argument that leads to a conclusion (e.g. of what needs to be researched in the present research, how and why). It can be like an extended essay that sets out clearly:
+
+[图片: images/020_7 Planning educational research/053_box.jpg | image]
+ the argument(s) that the literature review will advance;
+
+[图片: images/020_7 Planning educational research/054_box.jpg | image]
+ points in favour of the argument(s) or thesis to be advanced/supported;
+
+[图片: images/020_7 Planning educational research/055_box.jpg | image]
+ points against the argument(s) or thesis to be advanced/supported;
+
+[图片: images/020_7 Planning educational research/056_box.jpg | image]
+ a conclusion based on the points raised and evidence presented in the literature review.
+
+There are several points to consider in researching and writing a literature review (cf. University of North Carolina, 2007; Heath, 2009; University of Loughborough, 2009). A literature review:
+
+[图片: images/020_7 Planning educational research/057_box.jpg | image]
+ establishes and justifies the need for the research to be conducted, and establishes its significance and originality;
+
+[图片: images/020_7 Planning educational research/058_box.jpg | image]
+ establishes and justifies the methodology to be adopted in the research;
+
+[图片: images/020_7 Planning educational research/059_box.jpg | image]
+ establishes and justifies the focus of the research;
+
+[图片: images/020_7 Planning educational research/060_box.jpg | image]
+ is not just a descriptive summary, but an organized and developed argument, usually with subtitles, such that, if the materials were presented in a sequence other than that used, the literature review would lose meaning, coherence, cogency, logic and purpose;
+
+[图片: images/020_7 Planning educational research/061_box.jpg | image]
+ presents, contextualizes, analyses, interprets, critiques and evaluates sources and issues, not just accepting what they say (e.g. it exposes and addresses what the sources overlook, misinterpret, misrepresent, neglect, say something that is contentious, about which they are outdated);
+
+[图片: images/020_7 Planning educational research/062_box.jpg | image]
+ presents arguments and counter-arguments, evidence and counter-evidence about an issue;
+
+[图片: images/020_7 Planning educational research/063_box.jpg | image]
+ reveals similarities and differences between authors, about the same issue;
+
+[图片: images/020_7 Planning educational research/064_box.jpg | image]
+ must state its purposes, methods of working, organization and how it will move to a conclusion, i.e. what it will do, what it will argue, what it will show, what it will conclude, and how this links into or informs the subsequent research project;
+
+[图片: images/020_7 Planning educational research/065_box.jpg | image]
+ must state its areas of focus, maybe including a statement of the problem or issue that is being investigated, the hypothesis that the research will test, the themes or topics to be addressed, or the thesis that the research will defend;
+
+[图片: images/020_7 Planning educational research/066_box.jpg | image]
+ is a springboard into, and foundation for, all areas and stages of the research in question: purpose, foci, research questions, methodology, data analysis, discussion and conclusions;
+
+[图片: images/020_7 Planning educational research/067_box.jpg | image]
+ must be conclusive;
+
+[图片: images/020_7 Planning educational research/068_box.jpg | image]
+ must be focused yet comprehensive in its coverage of relevant issues;
+
+[图片: images/020_7 Planning educational research/069_box.jpg | image]
+ must present both sides of an issue or argument;
+
+[图片: images/020_7 Planning educational research/070_box.jpg | image]
+ should address theories, models (where relevant), empirical research, methodological materials, substantive issues, concepts, content and elements of the field in question;
+
+[图片: images/020_7 Planning educational research/071_box.jpg | image]
+ must include and draw on many sources and types of written material and kinds of data, for example Box 7.2.
+
+For a fuller treatment of conducting and reporting a literature review we refer readers to Ridley (2008).
+
+BOX 7.2 TYPES OF INFORMATION IN A LITERATURE REVIEW
+
+Books (hard copy and e-books)
+
+Articles in journals: academic and professional (hard copy and online)
+
+Empirical and non-empirical research
+
+Reports: from governments, NGOs, organizations, influential associations
+
+Policy documents: from governments, organizations, ‘think-tanks’
+
+Public and private records
+
+Research papers and reports, e.g. from research centres, research organizations
+
+Theses and dissertations
+
+Manuscripts
+
+Databases (searchable collections of records, electronic or otherwise)
+
+Conference papers – local, regional, national, international
+
+Primary sources (original, first-hand, contemporary source materials such as documents, speeches, diaries and personal journals, letters, emails, autobiographies, memoirs, public records and reports, emails and other correspondence, interview and raw research data, minutes and agendas of meetings, memoranda, proceedings of meetings, communiqués, charters, acts of parliament or government, legal documents, pamphlets, witness statements, oral histories, unpublished works, patents, websites, video or film footage, photographs, pictures and other visual materials, audio-recordings, artefacts, clothing or other evidence. These are usually produced directly at the time of, close to, or in connection with, the research in question.)
+
+Online databases
+
+Electronic journals or media
+
+Secondary sources (second-hand, non-original materials, materials written about primary sources, or materials based on sources that were originally elsewhere or which other people have written or gathered, where primary materials have been worked on or with, described, reported, analysed, discussed, interpreted, evaluated, summarized or commented upon, or which are at one remove from the primary sources, or which are written some time after the event, e.g. encyclopedias, dictionaries, newspaper articles, reports, critiques, commentaries, digests, textbooks, research syntheses, meta-analyses, research reviews, histories, summaries, analyses, magazine articles, pamphlets, biographies, monographs, treatises, works of criticism (e.g. literary or political))
+
+Tertiary sources (distillations, collections or compilations of primary and secondary sources, e.g. almanacs, bibliographies, catalogues, dictionaries, encyclopedias, facts books, directories, indexes, abstracts, bibliographies, manuals, guidebooks, handbooks, chronologies).
+
+7.5 Searching for literature on the internet
+
+The storage and retrieval of research data on the internet play an important role not only in keeping researchers abreast of developments across the world, but also in providing access to data which can inform literature searches to establish construct and content validity in their own research. Indeed, some kinds of research are essentially large-scale literature searches (e.g. the research papers published in the journals Review of Educational Research and Review of Research in Education, and materials from the Evidence and Policy and Practice Information and Co-ordinating Centre (EPPI-Centre) at the University of London (http://eppi.ioe.ac.uk/cms/) and the What Works Clearinghouse in the United States (http://ies.ed.gov/ncee/wwc/)). Online journals, abstracts and titles enable researchers to keep up with the cutting edge of research and to conduct a literature search of relevant material on their chosen topic. Websites and email correspondence enable networks and information to be shared. For example, researchers wishing to gain instantaneous global access to literature and recent developments in research associations can reach Australia, East Asia, the UK and America in a matter of seconds through such websites as:
+
+www.aera.net (the website of the American Educational Research Association);
+
+www.eduref.org/ (The Educators’ Reference Desk, the source of ERIC in the USA (publications of the American Educational Research Association));
+
+www.acer.edu.au/index2.html (the website of the Australian Council for Educational Research);
+
+www.bera.ac.uk (the website of the British Educational Research Association);
+
+http://scre.ac.uk (the website of the Scottish Council for Research in Education);
+
+www.scre.ac.uk/is/webjournals.html (the website of the Scottish Council for Research in Education’s links to electronic journals);
+
+www.eera.ac.uk/ (the website of the European Educational Research Association);
+
+www.cem.dur.ac.uk (the website of the Curriculum Evaluation and Management Centre, amongst the largest monitoring centres of its kind in the world);
+
+www.nfer.ac.uk (the website of the National Foundation for Educational Research in the UK);
+
+www.fed.cuhk.edu.hk/~hkera (the website of the Hong Kong Educational Research Association);
+
+www.wera-web.org/index.html (the website of the Washington Educational Research Association);
+
+www.msstate.edu/org/msera/msera.html (the website of the mid-South Educational Research Association, a very large regional association in the USA);
+
+www.esrc.ac.uk (the website of the Economic and Social Research Council in the UK).
+
+Researchers wishing to access online journal indices and references for published research results (rather than to specific research associations as in the websites above) have a variety of websites which they can visit, for example:
+
+www.leeds.ac.uk/bei (to gain access to the British Education Index);
+
+http://brs.leeds.ac.uk/~beiwww/beid.html (the website for online searching of the British Educational Research Association’s archive);
+
+www.routledge.com:9996/routledge/journal/er.html (the website of an international publisher that provides information on all its research articles);
+
+www.sagepub.co.uk (Sage publications);
+
+www.intute.ac.uk (database that gives access to several other sources of information);
+
+www.tandf.co.uk/journals/ (Taylor and Francis website of journals);
+
+www.tandf.co.uk/era/ (Educational Research Abstracts Online, an alerting service from the publisher Taylor and Francis);
+
+http://bubl.ac.uk (a national information service in the UK, provided for the higher education community);
+
+www.gashe.ac.uk (data for the archives of Scottish Higher Education);
+
+www.sosig.ac.uk (the Social Science Information Gateway, providing access to worldwide resources and information);
+
+http://sosig.ac.uk/social_science_general/social_science_methodology) (the Social Science Information Gateway’s sections on research methods, both quantitative and qualitative);
+
+http://wos.mimas.ac.uk (the website of the Web of Science, that, amongst other functions, provides access to the Social Science Citation Index, the Science Citation Index and the Arts and Humanities Citation Index);
+
+www.statistics.gov.uk (the UK’s home site for national statistics);
+
+www.dcsf.gov.uk/ (the UK Government’s Department for Children, Schools and Families);
+
+www.communities.gov.uk/corporate/ (UK website for Communities and Local Government);
+
+www.hesa.ac.uk/ (the UK’s Higher Education Statistics Agency);
+
+www.civilservice.gov.uk/my-civil-service/networks/pro-fessional/gsr/index.aspx (the UK Government’s Social Research website);
+
+http://surveynet.ac.uk/sqb/ (the Survey Question Bank for the UK’s Economic and Social Research Council);
+
+www.esds.ac.uk/ (the UK’s Economic and Social Data Service);
+
+www.unesco.org/new/en/unesco/ (UNESCO homepage);
+
+www.oecd.org/education (homepage of the Organization for Economic Cooperation and Development that can direct researchers to the statistics databases);
+
+www.coe.int/T/E/Cultural_Co-operation/education/ (The Council of Europe’s education homepage);
+
+www.cessda.org/ (The Council of European Social Science Data Archive);
+
+www.data-archive.ac.uk/ (The UK Data Archive);
+
+http://europa.eu/index_en.htm (the gateway site to the European Union);
+
+http://nces.ed.gov/ (the Unites States National Center for Educational Statistics);
+
+http://worldbank.org (World Bank, that is a gateway to its data and statistics section).
+
+With regard to searching libraries, there are several useful websites:
+
+www.loc.gov (the United States Library of Congress);
+
+www.lcweb.loc.gov/z3950 (gateway to US libraries);
+
+www.libdex.com/ (the Library Index website, linking to 18,000 libraries);
+
+www.copac.ac.uk (this enables researchers to search major UK libraries);
+
+http://catalogue.bl.uk/F/?func=file&fle_name=login-bllist (the British Library integrated catalogue);
+
+www.bl.uk/reshelp/findhelprestype/catblhold/all/allcat.html (all the British Library’s online catalogues);
+
+http://vlib.org/ (the Virtual Library, and provides online resources).
+
+For checking what is in print, www.booksinprint.com provides a comprehensive listing of current books in print, whilst www.bibliofind.com is a site of old, out-of-print and rare books. The website www.lights.com links researchers to some 6,000 publishers.
+
+Additional useful websites are:
+
+www.nap.edu (the website of the National Academies Press), and www.nap.edu/topics.php?topic=282 (the National Academies Press, Education Section);
+
+www.educationindex.com/ and www.shawmultimedia.com/links2.html (centres for the provision of free educational materials and related websites);
+
+www.ipl.org/ (this is the website of the merged internet Public Library and the Librarians’ Internet Index);
+
+www.ncrel.org/ (the website of the North Central Regional Educational Laboratories, an organization providing a range of educational resources);
+
+www.sedl.org/ (the website of the Southwest Educational Development Laboratory, an organization providing a range of educational resources).
+
+Most journals provide access to abstracts free online, though access to the full article is usually by subscription only. Providers of online journals include, for example (in alphabetical order):
+
+Bath Information and Data Services (BIDS) (www.bids.ac.uk);
+
+EBSCO (www.ebsco.com)
+
+Elsevier (www.elsevier.com)
+
+Emerald (www.emeraldinsight.com)
+
+FirstSearch (www.oclc.org)
+
+Ingenta (www.ingenta.com)
+
+JSTOR (www.jstor.org)
+
+Kluweronline (www.kluweronline.com)
+
+Northern Light (www.northernlight.com)
+
+ProQuest (www.proquest.com and www.bellhowell, infolearning.com.proquest)
+
+ProQuest Digital Dissertations and Theses (www.proquest.com/en-US/catalogs/databases/detail/pqdt.shtml)
+
+Science Direct (www.sciencedirect.com)
+
+Swets (www.swets.com)
+
+Web of Science (now Web of Knowledge) (http://wok.mimas.ac.uk/
+
+For theses, Aslib Index to Theses is useful (www.theses.com) and the Networked Digital Library of Theses and Dissertations can be located at www.theses.org and www.ndltd.org/find. Some major government websites also have a free alerting service (e.g. OFSTED).
+
+Researchers who do not possess website addresses have at their disposal a variety of search engines to locate them. At the time of writing some widely used engines are (in alphabetical order):
+
+AltaVista (www.altavista.com);
+
+AOL Search (www.search.aol.com);
+
+Ask Jeeves (www.askjeeves.com);
+
+Direct Hit (www.directhit.com);
+
+Excite (www.Excite.com);
+
+Fast Search (www.alltheweb.com);
+
+Go To (www.goto.com);
+
+Google (www.google.com);
+
+Google Scholar (http:/scholar.google.com);
+
+HotBot (www.hotbot.com);
+
+Internet Explorer (www.microsoft.com);
+
+Lycos (www.Lycos.com);
+
+Metacrawler (www.metacrawler.com);
+
+MSN Search (www.msn.com);
+
+Netscape Navigator (www.netscape.com);
+
+Northern Light (www.northernlight.com);
+
+Yahoo (www.yahoo.com).
+
+There are very many more. All of these search engines enable researchers to conduct searches by keywords. Some of these are parallel search engines (which will search several single search engines at a time), and file search engines (which will search files across the world).
+
+When searching the internet it is useful to keep in mind several points:
+
+[图片: images/020_7 Planning educational research/072_box.jpg | image]
+ placing words, phrases or sentences inside inverted commas (“. . .”) will keep those words together and in that order in searching for material; this helps to reduce an overload of returned sites;
+
+[图片: images/020_7 Planning educational research/073_box.jpg | image]
+ placing an asterisk (*) after a word or part of a word will return sites that start with that term but which have different endings, e.g. teach* will return sites on teach, teaching, teacher;
+
+[图片: images/020_7 Planning educational research/074_box.jpg | image]
+ placing a tilde mark (~) before a word will identify similar words to that which have been entered, e.g. ~English teaching will return sites on English language as well as English teaching;
+
+[图片: images/020_7 Planning educational research/075_box.jpg | image]
+ placing the words and, not, or between phrases or words will return websites where the command indicated in each one of these words is addressed.
+
+Finding research information, where not available from databases and indices on CD-ROMs, is often done through the internet by trial and error and serendipity, identifying the key words singly or in combination (between inverted commas). The system of ‘bookmarking’ websites enables rapid retrieval of these websites for future reference; this is perhaps essential, as some internet connections are slow, and a vast amount of material on it is, at best, unhelpful!
+
+Evaluating websites
+
+The use of the internet for educational research will require an ability to evaluate websites. The internet is a vast store of disorganized and largely unvetted material, and researchers will need to be able to ascertain quite quickly how far the web-based material is appropriate. There are several criteria for evaluating websites, including the following (e.g. Tweddle et al., 1998; Rodrigues and Rodriques, 2000):
+
+[图片: images/020_7 Planning educational research/076_box.jpg | image]
+ the purpose of the site, as this will enable users to establish its relevance and appropriateness;
+
+[图片: images/020_7 Planning educational research/077_box.jpg | image]
+ the authority and authenticity of the material, which should both be authoritative and declare its sources;
+
+[图片: images/020_7 Planning educational research/078_box.jpg | image]
+ the content of the material – its up-to-dateness, relevance and coverage;
+
+[图片: images/020_7 Planning educational research/079_box.jpg | image]
+ the credibility and legitimacy of the material (e.g. is it from a respected source or institution);
+
+[图片: images/020_7 Planning educational research/080_box.jpg | image]
+ the correctness, accuracy, completeness and fairness of the material;
+
+[图片: images/020_7 Planning educational research/081_box.jpg | image]
+ the objectivity and rigour of the material being presented and/or discussed.
+
+In evaluating educational research materials on the web, researchers and teachers can ask themselves several questions (Hartley et al., 1997):
+
+[图片: images/020_7 Planning educational research/082_box.jpg | image]
+ Is the author identified?
+
+[图片: images/020_7 Planning educational research/083_box.jpg | image]
+ Does the author establish her/his expertise in the area, and institutional affiliation?
+
+[图片: images/020_7 Planning educational research/084_box.jpg | image]
+ Is the organization reputable?
+
+[图片: images/020_7 Planning educational research/085_box.jpg | image]
+ Is the material referenced; does the author indicate how the material was gathered?
+
+[图片: images/020_7 Planning educational research/086_box.jpg | image]
+ What is the role that this website is designed to play (e.g. to provide information, to persuade)?
+
+[图片: images/020_7 Planning educational research/087_box.jpg | image]
+ Is the material up to date?
+
+[图片: images/020_7 Planning educational research/088_box.jpg | image]
+ Is the material free from biases, personal opinions and offence?
+
+[图片: images/020_7 Planning educational research/089_box.jpg | image]
+ How do we know that the author is authoritative on this website?
+
+It is important for the researcher to keep full bibliographic data of the website material used, including the date on which it was retrieved and the website address.
+
+With these preliminary comments, let us turn to the four main areas of the framework for planning research.
+
+7.6 Orienting decisions in planning research
+
+Decisions in this field are strategic; they set the general nature of the research, and the questions that researchers may need to consider are:
+
+[图片: images/020_7 Planning educational research/090_box.jpg | image]
+ Who wants the research?
+
+[图片: images/020_7 Planning educational research/091_box.jpg | image]
+ Who will receive the research/who is it for?
+
+[图片: images/020_7 Planning educational research/092_box.jpg | image]
+ Who are the possible/likely audiences of the research?
+
+[图片: images/020_7 Planning educational research/093_box.jpg | image]
+ What powers do the recipients of the research have?
+
+[图片: images/020_7 Planning educational research/094_box.jpg | image]
+ What are the general aims and purposes of the research?
+
+[图片: images/020_7 Planning educational research/095_box.jpg | image]
+ What are the main priorities for and constraints on the research?
+
+[图片: images/020_7 Planning educational research/096_box.jpg | image]
+ Is access realistic?
+
+[图片: images/020_7 Planning educational research/097_box.jpg | image]
+ What are the timescales and time frames of the research?
+
+[图片: images/020_7 Planning educational research/098_box.jpg | image]
+ Who will own the research?
+
+[图片: images/020_7 Planning educational research/099_box.jpg | image]
+ At what point will the ownership of the research pass from the participants to the researcher and from the researcher to the recipients of the research?
+
+[图片: images/020_7 Planning educational research/100_box.jpg | image]
+ Who owns the data?
+
+[图片: images/020_7 Planning educational research/101_box.jpg | image]
+ What ethical issues are to be faced in undertaking the research?
+
+[图片: images/020_7 Planning educational research/102_box.jpg | image]
+ What resources (e.g. physical, material, temporal, human, administrative) are required for the research?
+
+It can be seen that decisions here establish some key parameters of the research, including some political decisions (for example, on ownership and on the power of the recipients to take action on the basis of the research). At this stage the overall feasibility of the research will be addressed.
+
+7.7 Research design and methodology
+
+If the preceding orienting decisions are strategic then decisions in this field are tactical; they establish the practicalities of the research, assuming that, generally, it is feasible (i.e. that the orienting decisions have been taken). Decisions here include addressing such questions as:
+
+[图片: images/020_7 Planning educational research/103_box.jpg | image]
+ What are the specific purposes of the research?
+
+[图片: images/020_7 Planning educational research/104_box.jpg | image]
+ Does the research need research questions?
+
+[图片: images/020_7 Planning educational research/105_box.jpg | image]
+ How are the general research purposes and aims operationalized into specific research questions?
+
+[图片: images/020_7 Planning educational research/106_box.jpg | image]
+ What are the specific research questions?
+
+[图片: images/020_7 Planning educational research/107_box.jpg | image]
+ What needs to be the focus of the research in order to answer the research questions?
+
+[图片: images/020_7 Planning educational research/108_box.jpg | image]
+ What is the main methodology of the research (e.g. a quantitative survey, qualitative research, an ethnographic study, an experiment, a case study, a piece of action research, etc.)?
+
+[图片: images/020_7 Planning educational research/109_box.jpg | image]
+ Does the research need mixed methods, and if so, is the mixed methods research a parallel, sequential, combined or hierarchical approach (see Chapter 1)?
+
+[图片: images/020_7 Planning educational research/110_box.jpg | image]
+ Are mixed methods research questions formulated where appropriate?
+
+[图片: images/020_7 Planning educational research/111_box.jpg | image]
+ How will validity and reliability be addressed?
+
+[图片: images/020_7 Planning educational research/112_box.jpg | image]
+ What kinds of data are required?
+
+[图片: images/020_7 Planning educational research/113_box.jpg | image]
+ From whom will data be acquired (i.e. sampling)?
+
+[图片: images/020_7 Planning educational research/114_box.jpg | image]
+ Where else will data be available (e.g. documentary sources)?
+
+[图片: images/020_7 Planning educational research/115_box.jpg | image]
+ How will the data be gathered (i.e. instrumentation)?
+
+[图片: images/020_7 Planning educational research/116_box.jpg | image]
+ Who will undertake the research?
+
+7.8 How to operationalize research questions
+
+Chapter 6 indicated that there are many different kinds of research questions that derive from different purposes of the research. For example research questions may seek:
+
+[图片: images/020_7 Planning educational research/117_box.jpg | image]
+ to describe what a phenomenon is and what is, or was, happening in a particular situation (e.g. ethnographies, case studies, complexity theory-based studies, surveys);
+
+[图片: images/020_7 Planning educational research/118_box.jpg | image]
+ to predict what will happen (e.g. experimentation, causation studies, research syntheses);
+
+[图片: images/020_7 Planning educational research/119_box.jpg | image]
+ to investigate what should happen (e.g. evaluative research, policy research, ideology critique, participatory research);
+
+[图片: images/020_7 Planning educational research/120_box.jpg | image]
+ to examine the effects of an intervention (e.g. experimentation, ex post facto studies, case studies, action research, causation studies);
+
+[图片: images/020_7 Planning educational research/121_box.jpg | image]
+ to examine perceptions of what is happening (e.g. ethnography, survey);
+
+[图片: images/020_7 Planning educational research/122_box.jpg | image]
+ to compare the effects of an intervention in different contexts (experimentation, comparative studies);
+
+[图片: images/020_7 Planning educational research/123_box.jpg | image]
+ to develop, implement, monitor and review an intervention (e.g. participatory research, action research) (cf. Newby, 2010: 66).
+
+Indeed research questions can ask ‘what’, ‘who’, ‘why’, ‘when’, where’, and ‘how’ (cf. Newby, 2010: 65–6). In all these the task of the researcher is to turn the general purposes of the research into actual practice, i.e. to operationalize the research.
+
+The process of operationalization is critical for effective research. Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the abstract to the concrete. Thus the researcher breaks down each general research purpose or general aim into more specific research purposes and constituent elements, continuing the process until specific, concrete questions have been reached to which specific answers can be provided. Two examples of this are provided below.
+
+Let us imagine that the overall research aim is to ascertain the continuity between primary and secondary education (Morrison, 1993: 31–3). This is very general, and needs to be translated into more specific terms. Hence the researcher might deconstruct the term ‘continuity’ into several components, for example experiences, syllabus content, teaching and learning styles, skills, concepts, organizational arrangements, aims and objectives, ethos, assessment. Given the vast scope of this the decision is taken to focus on continuity of pedagogy. This is then broken down into its component areas:
+
+[图片: images/020_7 Planning educational research/124_box.jpg | image]
+ the level of continuity of pedagogy;
+
+[图片: images/020_7 Planning educational research/125_box.jpg | image]
+ the nature of continuity of pedagogy;
+
+[图片: images/020_7 Planning educational research/126_box.jpg | image]
+ the degree of success of continuity of pedagogy;
+
+[图片: images/020_7 Planning educational research/127_box.jpg | image]
+ the responsibility for continuity;
+
+[图片: images/020_7 Planning educational research/128_box.jpg | image]
+ record keeping and documentation of continuity;
+
+[图片: images/020_7 Planning educational research/129_box.jpg | image]
+ resources available to support continuity.
+
+The researcher might take this further into investigating: the nature of the continuity (i.e. the provision of information about continuity); the degree of continuity (i.e. a measure against a given criterion); the level of success of the continuity (i.e. a judgement). An operationalized set of research questions, then, might be:
+
+[图片: images/020_7 Planning educational research/130_box.jpg | image]
+ How much continuity of pedagogy is occurring across the transition stages in each curriculum area? What kind of evidence is required to answer this question? On what criteria will the level of continuity be decided?
+
+[图片: images/020_7 Planning educational research/131_box.jpg | image]
+ What pedagogical styles operate in each curriculum area? What are the most frequent and most preferred? What is the balance of pedagogical styles? How is pedagogy influenced by resources? To what extent is continuity planned and recorded? On what criteria will the nature of continuity be decided? What kind of evidence is required to answer this question?
+
+[图片: images/020_7 Planning educational research/132_box.jpg | image]
+ On what aspects of pedagogy does planning take place? By what criteria will the level of success of continuity be judged? Over how many students/teachers/curriculum areas will the incidence of continuity have to occur for it to be judged successful? What kind of evidence is required to answer this question?
+
+[图片: images/020_7 Planning educational research/133_box.jpg | image]
+ Is continuity occurring by accident or design? How will the extent of planned and unplanned continuity be gauged? What kind of evidence is required to answer this question?
+
+[图片: images/020_7 Planning educational research/134_box.jpg | image]
+ Who has responsibility for continuity at the transition points? What is being undertaken by these people?
+
+[图片: images/020_7 Planning educational research/135_box.jpg | image]
+ How are records kept on continuity in the schools? Who keeps these records? What is recorded? How frequently are the records updated and reviewed? What kind of evidence is required to answer this question?
+
+[图片: images/020_7 Planning educational research/136_box.jpg | image]
+ What resources are there to support continuity at the point of transition? How adequate are these resources? What kind of evidence is required to answer this question?
+
+It can be seen that these questions, several in number, have moved the research from simply an expression of interest (or a general aim) into a series of issues that lend themselves to being investigated in concrete terms. This is precisely what we mean by the process of operation-alization. It is now possible to identify not only the specific questions to be posed, but also the instruments that might be needed to acquire data to answer them (e.g. semi-structured interviews, rating scales on questionnaires or documentary analysis). By this process of oper-ationalization we thus make a general purpose amenable to investigation, e.g. by measurement (Rose and Sullivan, 1993: 6) or some other means. The number of oper-ationalized research questions is large here, and may have to be reduced to maybe four or five at most, in order to render the research manageable.
+
+An alternative way of operationalizing research questions takes the form of hypothesis raising and hypothesis testing. A ‘good’ hypothesis has several features:
+
+[图片: images/020_7 Planning educational research/137_box.jpg | image]
+ It is clear on whether it is directional or non-directional: a directional hypothesis states the kind or direction of difference or relationship between two conditions or two groups of participants (e.g. students’ performance increases when they are intrinsically motivated). A non-directional hypothesis simply predicts that there will be a difference or relationship between two conditions or two groups of participants (e.g. there is a difference in students’ performance according to their level of intrinsic motivation), without stating whether the difference, for example, is an increase or a decrease. (For statistical purposes, a directional hypothesis requires a one-tailed test whereas a non-directional hypothesis uses a two-tailed test, see Part 5.) Directional hypotheses are often used when past research, predictions, or theory suggest that the findings may go in a particular direction, whereas non-directional hypotheses are used when past research or theory is unclear or contradictory or where prediction is not possible, i.e. where the results are more open-ended.
+
+[图片: images/020_7 Planning educational research/138_box.jpg | image]
+ It is written in a testable form, i.e. in a way that makes it clear how the researcher will design an experiment or survey to test the hypothesis, e.g. people perform a mathematics task better when there is silence in the room than when there is not. The concept of interference by noise has been operationalized in order to produce a testable hypothesis.
+
+[图片: images/020_7 Planning educational research/139_box.jpg | image]
+ It is written in a form that can yield measurable results.
+
+For example, in the hypothesis people work better in quiet rather than noisy conditions it is important to define the operations for ‘work better’, ‘quiet’ and ‘noisy’. Here ‘perform better’ might mean ‘obtain a higher score on the mathematics test’, ‘quiet’ might mean ‘silence’, and ‘noisy’ might mean ‘having music playing’. Hence the fully operationalized hypothesis might be people obtain a higher score on a mathematics test when tested when there is silence rather than when there is music playing. One can see here that the score is measurable and that there is zero noise, i.e. a measure of the noise level.
+
+In conducting research using hypotheses one has to be prepared to use several hypotheses (Muijs, 2004: 16) in order to catch the complexity of the phenomenon being researched, and not least because mediating variables have to be included in the research. For example, the degree of ‘willing cooperation’ (dependent variable) in an organization’s staff is influenced by ‘professional leadership’ (independent variable) and the ‘personal leadership qualities of the leader’ (mediating variable) which needs to be operationalized more specifically, of course.
+
+There is also the need to consider the null hypothesis and the alternative hypothesis (discussed in Part 5) in research that is cast into a hypothesis testing model. The null hypothesis states that, for example, there is no relationship between two variables, or that there has been no difference in participants’ scores on a pre-test and a post-test of history, or that there is no difference between males and females in respect of their science examination results. The alternative hypothesis states, for example: there is a correlation between motivation and performance; there is a difference between males’ and females’ scores on science; there is a difference between the pre-test and post-test scores on history. The alternative hypothesis is often supported when the null hypothesis is ‘not supported’, i.e. if the null hypothesis is not supported then the alternative hypothesis is. The two kinds of hypothesis are usually written thus:
+
+H0: the null hypothesis
+
+H1: the alternative hypothesis
+
+We address the hypothesis-testing approach fully in Part 5.
+
+Distinguishing methods from methodologies
+
+In planning research it is important to clarify a distinction that needs to be made between methodology and methods, approaches and instruments, styles of research and ways of collecting data. Several of the later chapters of this book are devoted to specific instruments for collecting data, e.g.
+
+[图片: images/020_7 Planning educational research/140_box.jpg | image]
+ interviews
+
+[图片: images/020_7 Planning educational research/141_box.jpg | image]
+ questionnaires
+
+[图片: images/020_7 Planning educational research/142_box.jpg | image]
+ observation
+
+[图片: images/020_7 Planning educational research/143_box.jpg | image]
+ tests
+
+[图片: images/020_7 Planning educational research/144_box.jpg | image]
+ accounts
+
+[图片: images/020_7 Planning educational research/145_box.jpg | image]
+ biographies and case studies
+
+[图片: images/020_7 Planning educational research/146_box.jpg | image]
+ role playing
+
+[图片: images/020_7 Planning educational research/147_box.jpg | image]
+ simulations
+
+[图片: images/020_7 Planning educational research/148_box.jpg | image]
+ personal constructs.
+
+TABLE 7.3 ELEMENTS OF RESEARCH STYLES
+
+[图片: images/020_7 Planning educational research/149_f0128-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/150_f0129-01.jpg | image]
+
+The decision on which instrument (method) to use frequently follows from an important earlier decision on which kind (methodology) of research to undertake, for example:
+
+[图片: images/020_7 Planning educational research/151_box.jpg | image]
+ a survey
+
+[图片: images/020_7 Planning educational research/152_box.jpg | image]
+ an experiment
+
+[图片: images/020_7 Planning educational research/153_box.jpg | image]
+ an in-depth ethnography
+
+[图片: images/020_7 Planning educational research/154_box.jpg | image]
+ action research
+
+[图片: images/020_7 Planning educational research/155_box.jpg | image]
+ case study research
+
+[图片: images/020_7 Planning educational research/156_box.jpg | image]
+ testing and assessment.
+
+Subsequent chapters of this book set out each of these research styles, their principles, rationales and purposes, and the instrumentation and data types that seem suitable for them. For conceptual clarity it is possible to set out some key features of these models (Table 7.3). It is intended that, when decisions have been reached on the stage of research design and methodology, a clear plan of action will have been prepared. To this end, considering models of research might be useful (Morrison, 1993).
+
+7.9 Data analysis
+
+The prepared researcher will need to consider how the data will be analysed. This is very important, as it has a specific bearing on the form of the instrumentation. For example, a researcher will need to plan the layout and structure of a questionnaire survey very carefully in order to assist data entry for computer reading and analysis; an inappropriate layout may obstruct data entry and subsequent analysis by computer. The planning of data analysis will need to consider:
+
+[图片: images/020_7 Planning educational research/157_box.jpg | image]
+ What needs to be done with the data when they have been collected – how will they be processed and analysed?
+
+[图片: images/020_7 Planning educational research/158_box.jpg | image]
+ How will the results of the analysis be verified, cross-checked and validated?
+
+Decisions will need to be taken with regard to the statistical tests that will be used in data analysis as this will affect the layout of research items (for example in a questionnaire), and the computer packages that are available for processing quantitative and qualitative data, e.g. SPSS and N-Vivo respectively. For statistical processing the researcher will need to ascertain the level of data being processed – nominal, ordinal, interval or ratio (discussed in Chapter 34). Part 5 addresses issues of data analysis and which statistics to use: the choice is not arbitrary (Siegel, 1956; Cohen and Holli-day, 1996; Hopkins et al., 1996). For qualitative data analysis researchers have at their disposal a range of techniques, for example:
+
+[图片: images/020_7 Planning educational research/159_box.jpg | image]
+ coding and content analysis of field notes (Miles and Huberman, 1984);
+
+[图片: images/020_7 Planning educational research/160_box.jpg | image]
+ cognitive mapping (Jones, 1987; Morrison, 1993);
+
+[图片: images/020_7 Planning educational research/161_box.jpg | image]
+ seeking patterning of responses;
+
+[图片: images/020_7 Planning educational research/162_box.jpg | image]
+ looking for causal pathways and connections (Miles and Huberman, 1984);
+
+[图片: images/020_7 Planning educational research/163_box.jpg | image]
+ presenting cross-site analysis (Miles and Huberman, 1984);
+
+[图片: images/020_7 Planning educational research/164_box.jpg | image]
+ case studies;
+
+[图片: images/020_7 Planning educational research/165_box.jpg | image]
+ personal constructs;
+
+[图片: images/020_7 Planning educational research/166_box.jpg | image]
+ narrative accounts;
+
+[图片: images/020_7 Planning educational research/167_box.jpg | image]
+ action research analysis;
+
+[图片: images/020_7 Planning educational research/168_box.jpg | image]
+ analytic induction (Denzin, 1970);
+
+[图片: images/020_7 Planning educational research/169_box.jpg | image]
+ constant comparison and grounded theory (Glaser and Strauss, 1967);
+
+[图片: images/020_7 Planning educational research/170_box.jpg | image]
+ discourse analysis (Stillar, 1998);
+
+[图片: images/020_7 Planning educational research/171_box.jpg | image]
+ biographies and life histories (Atkinson, 1998).
+
+The criteria for deciding which forms of data analysis to undertake are governed both by fitness for purpose and legitimacy – the form of data analysis must be appropriate for the kinds of data gathered. For example it would be inappropriate to use certain statistics with certain kinds of numerical data (e.g. using means on nominal data), or to use causal pathways on unrelated cross-site analysis.
+
+7.10 Presenting and reporting the results
+
+As with the stage of planning data analysis, the prepared researcher will need to consider the form of the reporting of the research and its results, giving due attention to the needs of different audiences (for example an academic audience may require different contents from a wider professional audience and, a fortiori, from a lay audience). Decisions here will need to consider:
+
+[图片: images/020_7 Planning educational research/172_box.jpg | image]
+ How to write up and report the research.
+
+[图片: images/020_7 Planning educational research/173_box.jpg | image]
+ When to write up and report the research (e.g. ongoing or summative).
+
+[图片: images/020_7 Planning educational research/174_box.jpg | image]
+ How to present the results in tabular and/or written-out form.
+
+[图片: images/020_7 Planning educational research/175_box.jpg | image]
+ How to present the results in non-verbal forms.
+
+[图片: images/020_7 Planning educational research/176_box.jpg | image]
+ To whom to report (the necessary and possible audiences of the research).
+
+[图片: images/020_7 Planning educational research/177_box.jpg | image]
+ How frequently to report.
+
+For an example of setting out a research report, see the accompanying website.
+
+7.11 A planning matrix for research
+
+In planning a piece of research, the range of questions to be addressed can be set into a matrix. Table 7.4 provides such a matrix, in the left-hand column of which are the questions which figure in the four main areas set out so far:
+
+1 orienting decisions;
+
+2 research design and methodology;
+
+3 data analysis;
+
+4 presenting and reporting the results.
+
+TABLE 7.4 A MATRIX FOR PLANNING RESEARCH
+
+[图片: images/020_7 Planning educational research/178_f0131-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/179_f0132-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/180_f0133-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/181_f0134-01.jpg | image]
+
+[图片: images/020_7 Planning educational research/182_f0135-01.jpg | image]
+
+Questions 1–10 are the orienting decisions, questions 11–22 concern the research design and methodology, questions 23–4 cover data analysis, and questions 25–30 deal with presenting and reporting the results. Within each of the 30 questions there are several subquestions which research planners may need to address. For example, within question 5 (‘What are the purposes of the research?’) the researcher would have to differentiate major and minor purposes, explicit and maybe implicit purposes, whose purposes are being served by the research, and whose interests are being served by the research. An example of these sub-issues and problems is contained in the second column.
+
+At this point the planner is still at the divergent phase of the research planning, dealing with planned possibilities (Morrison, 1993: 19), opening up the research to all facets and interpretations. In the column headed ‘decisions’ the research planner is moving towards a convergent phase, where planned possibilities become visible within the terms of constraints available to the researcher. To do this the researcher has to move down the column marked ‘decisions’ to see how well the decision which is taken in regard to one issue/question fits in with the decisions in regard to other issues/questions. For one decision to fit with another, four factors must be present:
+
+1 all the cells in the ‘decisions’ column must be coherent – they must not contradict each other;
+
+2 all the cells in the ‘decisions’ column must be mutually supporting;
+
+3 all the cells in the ‘decisions’ column must be practicable when taken separately;
+
+4 all the cells in the ‘decisions’ column must be practicable when taken together.
+
+Not all the planned possibilities might be practicable when these four criteria are applied. It would be of very little use if the methods of data collection listed in the ‘decisions’ column of question 21 (‘How will the data be gathered?’) offered little opportunity to fulfil the needs of acquiring information to answer question 7 (‘What must be the focus in order to answer the research questions?’), or if the methods of data collection were impracticable within the timescales available in question 4.
+
+In the matrix of Table 7.4 the cells have been completed in a deliberately content-free way, i.e. the matrix as presented here does not deal with the specific, actual points which might emerge in a particular research proposal. If the matrix were to be used for planning an actual piece of research, then, instead of couching the wording of each cell in generalized terms, it would be more useful if specific, concrete responses were given which addressed particular issues and concerns in the research proposal in question.
+
+Many of these questions concern rights, responsibilities and the political uses (and abuses) of the research. This underlines the view that research is an inherently political and moral activity; it is not politically or morally neutral. The researcher has to be concerned with the uses as well as the conduct of the research.
+
+7.12 Managing the planning of research
+
+The preceding discussion has revealed the complexity of planning a piece of research, yet it should not be assumed that research will always go according to plan! For example, the mortality of the sample might be a feature (participants leaving during the research), or a poor response rate to questionnaires might be encountered, rendering subsequent analysis, reporting and generalization problematical; administrative support might not be forthcoming, or there might be serious slippage in the timing. This is not to say that a plan for the research should not be made; rather it is to suggest that it is dangerous to put absolute faith in it! For an example of what to include in a research proposal see the accompanying website.
+
+To manage the complexity in planning outlined above a simple four-stage model can be proposed:
+
+Stage 1: Identify the purposes of the research.
+
+Stage 2: Identify and give priority to the constraints under which the research will take place.
+
+Stage 3: Plan the possibilities for the research within these constraints.
+
+Stage 4: Decide the research design.
+
+Each stage contains several operations. Figure 7.1 clarifies this four-stage model, drawing out the various operations contained in each stage.
+
+It may be useful for research planners to consider which instruments will be used at which stage of the research and with which sectors of the sample population. Table 7.5 sets out a matrix of these for planning (see also Morrison, 1993: 109), for example, a small-scale piece of research.
+
+[图片: images/020_7 Planning educational research/183_f0136-01.jpg | image]
+
+FIGURE 7.1 A planning sequence for research
+
+TABLE 7.5 A PLANNING MATRIX FOR RESEARCH
+
+[图片: images/020_7 Planning educational research/184_f03.jpg | image]
+
+A matrix approach such as this enables research planners to see at a glance their coverage of the sample and of the instruments used at particular points in time, making omissions clear, and promoting such questions as:
+
+[图片: images/020_7 Planning educational research/185_box.jpg | image]
+ Why are certain instruments used at certain times and not at others?
+
+[图片: images/020_7 Planning educational research/186_box.jpg | image]
+ Why are certain instruments used with certain people and not with others?
+
+[图片: images/020_7 Planning educational research/187_box.jpg | image]
+ Why do certain times in the research use more instruments than other times?
+
+[图片: images/020_7 Planning educational research/188_box.jpg | image]
+ Why is there such a heavy concentration of instruments at the end of the study?
+
+[图片: images/020_7 Planning educational research/189_box.jpg | image]
+ Why are certain groups involved in more instruments than other groups?
+
+[图片: images/020_7 Planning educational research/190_box.jpg | image]
+ Why are some groups apparently neglected (e.g. parents), i.e. is there a political dimension to the research?
+
+[图片: images/020_7 Planning educational research/191_box.jpg | image]
+ Why are questionnaires the main kinds of instrument to be used?
+
+[图片: images/020_7 Planning educational research/192_box.jpg | image]
+ Why are some instruments (e.g. observation, testing) not used at all?
+
+[图片: images/020_7 Planning educational research/193_box.jpg | image]
+ What makes the five stages separate?
+
+[图片: images/020_7 Planning educational research/194_box.jpg | image]
+ Are documents only held by certain parties (and, if so, might one suspect an ‘institutional line’ to be revealed in them)?
+
+[图片: images/020_7 Planning educational research/195_box.jpg | image]
+ Are some parties more difficult to contact than others (e.g. university teacher educators)?
+
+[图片: images/020_7 Planning educational research/196_box.jpg | image]
+ Are some parties more important to the research than others (e.g. the principals)?
+
+[图片: images/020_7 Planning educational research/197_box.jpg | image]
+ Why are some parties excluded from the sample (e.g. school governors, policy makers, teachers’ associations and unions)?
+
+[图片: images/020_7 Planning educational research/198_box.jpg | image]
+ What is the difference between the three groups of teachers?
+
+Matrix planning is useful for exposing key features of the planning of research. Further matrices might be constructed to indicate other features of the research, for example:
+
+[图片: images/020_7 Planning educational research/199_box.jpg | image]
+ the timing of the identification of the sample;
+
+[图片: images/020_7 Planning educational research/200_box.jpg | image]
+ the timing of the release of interim reports;
+
+[图片: images/020_7 Planning educational research/201_box.jpg | image]
+ timing of the release of the final report;
+
+[图片: images/020_7 Planning educational research/202_box.jpg | image]
+ the timing of pre-tests and post-tests (in an experimental style of research);
+
+[图片: images/020_7 Planning educational research/203_box.jpg | image]
+ the timing of intensive necessary resource support (e.g. reprographics);
+
+[图片: images/020_7 Planning educational research/204_box.jpg | image]
+ the timing of meetings of interested parties.
+
+These examples cover timings only; other matrices might be developed to cover other combinations, for example: reporting by audiences; research team meetings by reporting; instrumentation by participants, etc. They are useful summary devices.
+
+7.13 A worked example
+
+Let us say that a school is experiencing very low morale and the researcher has been brought in to investigate the school’s organizational culture. The researcher has been given open access to the school and has five months from the start of the project to producing the report. (For a fuller version of this see the accompanying website.) She plans the research thus:
+
+1 Purposes
+
+i to present an overall and in-depth picture of the organizational culture(s) and subcultures, including the prevailing cultures and subcultures, within the school;
+
+ii to provide an indication of the strength of the organizational culture(s);
+
+iii to make suggestions and recommendations about the organizational culture of, and its development at, the school.
+
+2 Research questions
+
+i What are the major and minor elements of organizational culture in the school?
+
+ii What are the organizational cultures and subcultures in the school?
+
+iii Which (sub)cultures are the most and least prevalent in the school, and in which parts of the school are these most and least prevalent?
+
+iv How strong and intense are the (sub)cultures in the school?
+
+v What are the causes and effects of the (sub)cultures in the school?
+
+vi How can the (sub)cultures be improved in the school?
+
+3 Focus
+
+Three levels of organizational culture will be examined:
+
+i underlying values and assumptions
+
+ii espoused values and enacted behaviours
+
+iii artefacts.
+
+Organizational culture concerns values, assumptions, beliefs, espoused theories and mental models, observed practices, areas of conflict and consensus, the formal and hidden messages contained in artefacts, messages, documents and language, the ‘way we do things’, the physical environment, relationships, power, control, communication, customs and rituals, stories, the reward system and motivation, the micropolitics of the school, involvement in decision making, empowerment and exploitation/manipulation, leadership, commitment, and so on.
+
+4 Methodology
+
+Organizational culture is intangible yet its impact on a school’s operations is very tangible. This suggests that, whilst quantitative measures may be used, they are likely only to yield comparatively superficial information about the school’s culture. In order to probe beneath the surface of the school’s culture, to examine the less overt aspects of the school’s culture(s) and subcultures, it is important to combine quantitative and qualitative methodologies for data collection. A mixed methodology will be used for the empirical data collection, using numerical and verbal data, in order to gather rounded, reliable data. A survey approach will be used to gain an overall picture, and a more fine-grained analysis will be achieved through individual and group interviews and focus groups (Figure 7.2).
+
+5 Instrumentation
+
+The data gathered will be largely perception based, and will involve gathering employees’ views of the (sub) cultures. As the concept of organizational culture is derived in part from ethnography and anthropology, the research will use qualitative and ethnographic methods.
+
+One of the difficulties anticipated is that the less tangible aspects of the school might be the most difficult on which to collect data. Not only will people find it harder to articulate responses and constructs, but they may also be reluctant to reveal these in public. The more the project addresses intangible and unmeasurable elements, and the richer the data that are to be collected, the more there is a need for increased and sensitive interpersonal behaviour, face-to-face data collection methods and qualitative data.
+
+There are several instruments for data collection: questionnaires, semi-structured interviews (individual and group), observational data, documentary data and reports will constitute a necessary minimum, as follows:
+
+i questionnaire surveys, using commercially available instruments, each of which measures different aspects of school’s culture, in particular:
+
+[图片: images/020_7 Planning educational research/205_box.jpg | image]
+ the organizational culture questionnaire by Harrison and Stokes (1992), which looks at overall cultures and provides a general picture in terms of role, power, achievement and support cultures, and examines the differences between existing and preferred cultures;
+
+[图片: images/020_7 Planning educational research/206_box.jpg | image]
+ the Organizational Culture Inventory (Cooke and Lafferty, 1989), which provides a comprehensive and reliable analysis of the presenting organizational cultures.
+
+[图片: images/020_7 Planning educational research/207_f0139-01.jpg | image]
+
+FIGURE 7.2 Understanding the levels of organizational culture
+
+Questionnaires, using rating scales, will catch articulated, espoused, enacted, visible aspects of organizational culture, and will measure, for example, the extent of sharedness of culture, congruence between existing and ideal, strength and intensity of culture.
+
+ii semi-structured qualitative interviews for individuals and groups, gathering data on the more intangible aspects of the school’s culture, e.g. values, assumptions, beliefs, wishes, problems. Interviews will be semi-structured, i.e. with a given agenda and open-ended questions. As face-to-face individual interviews might be intimidating for some groups, group interviews will be used. In all the interviews the important part will be the supplementary question ‘why’.
+
+iii observational data will comment on the physical environment, and will then be followed up with interview material to discover participants’ responses to, perceptions of, messages contained in, attitudes to the physical environment. Artefacts, clothing, shared and private spaces, furniture, notices, regulations, etc. all give messages to participants.
+
+iv documentary analysis and additional stored data, reporting the formal matters in the school, examined for what they include and what they exclude.
+
+6 Sampling
+
+i the questionnaire will be given to all employees who are willing to participate;
+
+ii the semi-structured interviews will be conducted on a ‘critical case’ basis, i.e. with participants who are in key positions and who are ‘knowledgeable people’ about the activities and operations of the school.
+
+There will be stratified sampling for the survey instruments, in order to examine how perceptions of the school’s organizational culture vary according to the characteristics of the sub-samples. This will enable the levels of congruence or disjunction between the responses of the various subgroups to be charted. Nominal characteristics of the sampling will be included, e.g. age, level in the school, departments, sex, ethnicity, nationality, years of working in the school.
+
+7 Parameters
+
+i the data will be collected on a ‘one-shot’ basis rather than longitudinally;
+
+ii a multi-method approach will be used for data collection.
+
+8 Stages in the research
+
+There are five stages in the research:
+
+Stage 1: Development and operationalization, including:
+
+i a review of literature and commercially produced instruments;
+
+ii clarification of the research questions;
+
+iii clarification of methodology and sampling.
+
+Stage 2: Instrumentation and the piloting of the instruments:
+
+i questionnaire development and piloting;
+
+ii semi-structured interview schedules and piloting;
+
+iii gathering of observational data;
+
+iv analysis of documentary data.
+
+Because of the limited number of senior staff, it will not be possible to conduct pilot interviews with them, as this will preclude them from the final data collection.
+
+Stage 3: Data collection, which will proceed in the following sequence:
+
+Administration of the questionnaire → Analysis of questionnaire data to provide material for the interviews → Interviews will be conducted concurrently.
+
+Stage 4: Data analysis and interpretation:
+
+Numerical data will be analysed using SPSS, which will also enable the responses from subgroups of the school to be separated for analysis. Qualitative data will be analysed using protocols of content analysis.
+
+Stage 5: Reporting:
+
+A full report on the findings will include conclusions, implications and recommendations.
+
+9 Ethics and ownership
+
+Participation in the project will be on the basis of informed consent, and on a voluntary basis, with rights of withdrawal at any time. Given the size and scope of the cultural survey, it is likely that key people in the school will be able to be identified, even though the report is confidential. This will be made clear to the potential participants. Copies of the report will be available for all the employees. Data, once given to the researcher, are his/hers, and s/he may not use them in any way which will publicly identify the school; the report is the property of the school.
+
+10 Time frames
+
+The project will be completed in five months:
+
+[图片: images/020_7 Planning educational research/208_box.jpg | image]
+ the first month for a review of the relevant literature;
+
+[图片: images/020_7 Planning educational research/209_box.jpg | image]
+ the second month to develop the instrumentation and research design;
+
+[图片: images/020_7 Planning educational research/210_box.jpg | image]
+ the third month to gather the data;
+
+[图片: images/020_7 Planning educational research/211_box.jpg | image]
+ the fourth month to analyse the data;
+
+[图片: images/020_7 Planning educational research/212_box.jpg | image]
+ the fifth month to complete the report.
+
+The example indicates a systematic approach to the planning and conduct of the research, that springs from a perceived need in the school. It works within given constraints and makes clear what it will ‘deliver’. Though the research does not specify hypotheses to be tested, nevertheless it would not be difficult to convert the research questions into hypotheses if this style of research were preferred.
+
+7.14 Ensuring quality in the planning of research
+
+The notion of ‘fitness for purpose’ reigns in planning research; the research plan must suit the purposes of the research. If at the end of this chapter the reader is left feeling that the task of research is complex, then that is an important message, for rigour and thoughtful, thorough planning are necessary if the research is to be worthwhile and effective. For a checklist for evaluating research see Box 7.3 and the accompanying website.
+
+BOX 7.3 A CHECKLIST FOR PLANNING RESEARCH 
+
+1 How have you taken account of the ontological and epistemological characteristics of the phenomenon to be investigated?
+
+2 Have you clarified the purposes of the research?
+
+3 What do you want the research to do, to ‘deliver’, to find out?
+
+4 What are the purposes and objectives of the research?
+
+5 Have you identified the constraints on your research? What are they?
+
+6 Is your research feasible within the required time frames?
+
+7 What approaches to the research (methodologies) are most suitable for the research, in terms of the ontology and epistemology of the phenomenon under investigation, and the purposes of the research?
+
+8 What are the methodology(ies) and paradigm(s) on which the research is built? How comfortably do they fit the research purposes and the nature of the phenomena under investigation?
+
+9 Does your research seek to test a theory or hypothesis, to develop a theory, to investigate and explore, to understand, to describe, to develop specific practices, to evaluate, to investigate?
+
+10 Will your research best be accomplished by research that is naturalistic, interpretive, positivist, post-positivist, mixed methods based, participatory, evaluatory, ideology critical, feminist, complexity theory based, either alone or in combination?
+
+11 Will your research use survey, documentary research, quantitative methods, ethnographic or qualitative methods, experiments, historical sources, action research, case studies, ex post facto designs, either alone or in combination?
+
+12 Do you need to identify independent and dependent variables?
+
+13 Is your research seeking to establish causation?
+
+14 Are you seeking to generalize from your research?
+
+15 In planning your research, have you indicated how you will address validity and reliability in the conceptualization, planning, methodology, instrumentation, data analysis, discussion, the drawing of conclusions and reporting?
+
+16 Who will gather, enter, process, analyse, interpret and verify your data?
+
+17 Have you identified how you will address reflexivity?
+
+18 Have you identified what you need to focus on in order to answer the research questions and conduct the research?
+
+19 Have you identified whom you need to contact in connection with conducting the research?
+
+20 Have you checked that all the ethical issues in the research have been addressed with all the necessary parties? Have you gained ethical clearance to conduct the research?
+
+21 Is your research overt or covert? If it is covert, or involves intentional deceit, how is this justified?
+
+22 Have you conducted a literature review, and how does the literature review inform your research?
+
+23 Does your research need research questions? If not, why not? If so, what are they and have they been oper-ationalized comprehensively, concretely and fairly?
+
+24 Have you operationalized your research purposes into research questions?
+
+25 What are the timescales for the different stages of your research?
+
+26 Have you identified what kinds of data you need at different stages of the research, and why?
+
+27 Have you identified the instruments that you will need for data collection at the different stages of the research, e.g. interviews, questionnaires, observations, role plays, accounts, personal constructs, tests, case studies, field notes, diaries, documents, etc.?
+
+28 Is your research ‘front-loaded’ or ‘end-loaded’ in terms of planning, conduct and analysis?
+
+29 Who are the participants?
+
+30 Do you need a sample or a population? What is the population and what is the sample and the sampling strategy?
+
+31 Have you planned how you will analyse the data, and at what stages of the research?
+
+32 Have you planned how you will validate your data and your interpretation of the data?
+
+33 Have you planned when and how you will report and present the research findings, and to whom?
+
+34 Have you planned how you will disseminate your research findings?
+
+35 Have you identified what controls you will place on the release of your findings, and to whom, why, for how long, and who owns the research and the data?
+
+The intention of the research planning and design is to ensure that rigour, fitness for purpose and high quality are addressed. Furlong and Oancea (2005: 11–15) identify several clear dimensions of quality in educational research. For theoretical and methodological robustness (their ‘epistemic dimension’ (pp. 11–12)) they identify quality in terms of: (a) the ‘trustworthiness’ of the research; (b) its ‘contribution to knowledge’; (c) its ‘explicitness in designing and reporting’; (d) its ‘propriety’ (conformance to legal and ethical requirements); and (e) the ‘paradigm-dependence’ (fidelity to the paradigm, ontology and epistemological premises of the research) that the research demonstrates.
+
+For ‘value for use’ (their ‘technological dimension’) Furlong and Oancea (2005: 12–13) identify key indicators of quality as: (a) the ‘salience/timeliness’ of the research; (b) its ‘purposivity’ (fitness for purpose); (c) its ‘specificity and accessibility’ (scope, responsiveness to user needs and predicted usage); (d) its ‘concern for enabling impact’ (dissemination for impact); and (e) its ‘flexibility and operationalisability’ (development into practical terms and utility for audiences).
+
+For ‘capacity building and value for people’ (Furlong and Oancea, 2005: 13–14), they identify key indicators of quality as residing in: (a) ‘partnership, collaboration and engagement’; (b) ‘plausibility’ (‘from the practitioner’s perspective’); (c) ‘reflection and criticism’ (research that develops reflexivity and self-reflection); (d) ‘receptiveness’ (research that enhances the receptiveness of practitioners and a wider audience); and (e) ‘stimulating personal growth’.
+
+For their ‘economic dimension’ Furlong and Oancea (2005: 14–15) indicate six elements of quality in research: (a) ‘cost-effectiveness’; (b) ‘marketability’ and ‘competitiveness’ (e.g. in the research market); (c) ‘auditability’; (d) ‘feasibility’; (e) ‘originality’; and (f ) ‘value-efficiency’.
+
+The sections of this chapter and the preceding chapter, separately and together, have indicated how these can be addressed in the planning of research.
+
+[图片: images/020_7 Planning educational research/213_common.jpg | image]
+ Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. In addition there is further information in the form of guidelines for the contents of a research proposal, a worked example of a short research proposal, plus a checklist for evaluating a piece of research. These resources can be found online at www.routledge.com/textbooks/cohen7e.
