@@ -11756,11 +11756,25 @@
   border-left-color: rgb(195, 38, 50);
   box-shadow: none;
 }
-.callout[data-callout="question"] > .callout-title {
-  color: rgb(165, 28, 40);
+/* 压掉 "Question" 文字节点；flex 保证 badge 与中文垂直居中 */
+.callout[data-callout="question"] > .callout-title .callout-title-inner {
+  font-size: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.48rem;
 }
+/* badge */
 .callout[data-callout="question"] > .callout-title .callout-title-inner::before {
   content: "QUESTION";
+  font-size: 0.72rem;
+  color: rgb(165, 28, 40);
+}
+/* 替换标题文字 */
+.callout[data-callout="question"] > .callout-title .callout-title-inner::after {
+  content: "研究问题";
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: rgb(165, 28, 40);
 }
 .callout[data-callout="question"]:hover {
   border-left-color: rgb(218, 50, 64);
@@ -11773,7 +11787,8 @@
     linear-gradient(135deg, rgba(215, 65, 80, 0.09) 0%, rgba(215, 65, 80, 0.02) 60%),
     var(--background-primary);
 }
-.theme-dark .callout[data-callout="question"] > .callout-title {
+.theme-dark .callout[data-callout="question"] > .callout-title .callout-title-inner::before,
+.theme-dark .callout[data-callout="question"] > .callout-title .callout-title-inner::after {
   color: rgb(245, 120, 132);
 }
 
