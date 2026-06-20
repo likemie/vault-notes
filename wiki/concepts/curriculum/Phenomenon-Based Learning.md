@@ -6,105 +6,110 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
-tags:
-- phenomenon-based-learning
-- subject/curriculum
-- subject/instruction
-- region/finland
-- level/k12
-related_concepts:
-  - "[[Pragmatic Paradigm]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Champ]]"
-  - "[[Problem-Based Learning]]"
-  - "[[Bildung]]"
-  - "[[Didaktik]]"
-  - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Epochal Key Problems]]"
-related_theories:
-  - "[[Phenomenology]]"
-  - "[[Radical Constructivism]]"
-related_methods:
-  - "[[Philosophical Analysis in Education]]"
-related_persons:
-  - "[[George Herbert Mead]]"
-  - "[[Wolfgang Klafki]]"
-related_facts:
-  - "[[Finnish National Core Curriculum]]"
-  - "[[SveaSus Project]]"
-  - "[[OECD]]"
-related_arguments:
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-21'
+---
+
+# Phenomenon-Based Learning
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> Phenomenon-Based Learning（PhBL，现象本位学习）是一种以真实或抽象的"现象"为学习起点的跨学科教学取向。它要求学生围绕复杂现象调动不同学科的知识，同时保持学科自身的深度，而不是简单取消学科边界([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2, 4]])。
->
-> 在芬兰语原版 2014 年国家核心课程中，`phenomenon-based learning` 这个英语术语本身并未出现；英语译本中也只出现少数几次。课程文本更频繁使用的是芬兰语 `ilmiö`（phenomenon，现象）及其组合词，并要求学生观察、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> [!def] 核心定义
+> 现象本位学习（Phenomenon-based learning, PhBL）是一种以真实或抽象的现象为学习起点的跨学科教学取向。它要求学生围绕复杂现象调动不同学科的知识，同时保持学科自身的深度，不应简单取消学科边界。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 2, 4)]]
+> 
+> 在芬兰语原版 2014 年国家核心课程中，PhBL 这一英语术语本身并未出现，英语译本中也仅出现少数几次。课程文本更频繁使用的是芬兰语 ilmiö（现象）及其组合词，要求学生观察、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 2)]]
 
-## 历史沿革
+> [!concept-lens] 概念透镜
+> - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。
+> - **用途** 帮助研究者和实践者跳出孤立的学科界限，探究学生如何通过真实场域、协作和具身经验面对全球性挑战。
+> - **边界** 它不能等同于完全消灭学科的教学模式，也不应被窄化为促进经济竞争和标准化技能测量的工具。
 
-> [!note-] 历史沿革
-> - **1990 年代末**：芬兰显性意义上的 PhBL 开始形成。Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中发展这一取向，将 Dewey 和 [[George Herbert Mead]] 的思想整合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]，主张从课程预设的教学转向从学生自身世界观出发的学习([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.7-8]])。
-> - **2001**：Rauste-von Wright 将现象本位取向称为"课程的自我修正模型"，试图弥合理论与实践之间的传统裂缝；她强调学习总是情境化的、处境性的互动过程([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.8]])。
-> - **2014**：[[Finnish National Core Curriculum]] 纳入跨学科和现象本位学习取向，目标之一是让学习主题连接学生周边环境和经验，从而释放学生能动性([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **2016**：课程英文版出版后，PhBL 在国际社交媒体和教育改革讨论中获得广泛关注，但也产生误解：许多讨论声称芬兰已取消传统学科，实际课程仍以传统学科为结构，只是把 PhBL 增补为实现课程总体目标和价值的一种方式([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+---
+
+## 概念辨析
+
+> [!contrast-table] 教学取向辨析
+> | 维度 | PhBL（现象本位学习） | [[Problem-Based Learning\|PBL（问题导向学习）]] | 能力本位课程 |
+> |------|--------|----------------|----------------|
+> | **核心起点** | 真实或抽象的生活世界现象 (pp.2, 4) | 预设的研究问题或任务情境 | 预设的技能或横向能力清单 |
+> | **学科定位** | 保留学科内部逻辑与本体论深度 (p.5) | 学科知识服务于问题解决 | 学科边界常被能力指标拆散并碎片化 (p.10) |
+> | **哲学根源** | 现象学、教化哲学与教学论传统 (p.2) | 主要是认知心理学与建构主义 (p.8) | 人力资本理论与新自由主义绩效管理 (pp.9-10) |
+
+---
 
 ## 核心要素
 
-> [!abstract] 核心要素
-> - **以现象为起点**：学习从一个可触摸或不可触摸的现象开始，例如地方环境、气候变化、疫情、不平等或 [[SveaSus Project]] 所使用的世界遗产[[Champ|场域]]，而不是从单一学科单元开始([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.1, 3]])。
-> - **跨学科但不反学科**：PhBL 反对单向度、封闭的学科主义，却不主张抹平学科差异；复杂现象需要学科深度，也需要跨学科视角([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3-4]])。
-> - **连接学生生活世界**：芬兰课程中的 PhBL 强调将学习主题联系学生的邻近环境和经验，使学生能够从自身生活世界出发提出问题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **协作与共同责任**：PhBL 的整体取向强调合作、相互责任和共同探究，适合面对气候变化、不平等、污染、疫情、暴力、营养不良等纠缠性全球问题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
-> - **具身、情感与认知的整合**：在[[Phenomenology|现象学]]脉络中，PhBL 不只是认知活动，也涉及身体经验、情绪、响应性和共同反思([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 11]])。
-> - **让世界成为教师**：现象学取向的 PhBL 不只是让学生"研究世界"，也要求学生暂时把自己置于边缘，愿意被未知触动，并通过反思把熟悉之物重新变得陌生([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.11]])。
+> [!feature] 核心要素
+> - **以现象为学习起点** 学习从一个可触摸或不可触摸的真实现象开始（如地方环境、气候变化、或可持续性世界遗产场域），超越单一学科单元。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 1, 3)]]
+> - **跨学科与学科深度协同** PhBL 反对封闭的学科隔离，但强调学科理论具有自身本体论深度，跨学科探索必须基于对学科逻辑的尊重。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 3–5)]]
+> - **生活世界与经验关联** 强调将学习主题联系学生的邻近环境，释放能动性，使学习基于学生自身的体验。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 2)]]
+> - **协作探究与共同责任** 学生和教师在共同时空里分担责任，通过集体讨论与实践面对复杂的纠缠性全球挑战。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 1)]]
+> - **具身认知与情感整合** 现象学脉络下的学习不仅是智力活动，还涉及身体经验、情绪交互、人际信任与关系焦虑。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 3–4)]]
+> - **作为课程自我修正模型** 强调学习过程是不断调整自身世界观的动态过程，弥合教育理论与学校实践的传统隔阂。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 7–8)]]
 
-## 与相关概念的区别
+> [!logic-map]- 核心要素与学习过程
+> ```mermaid
+> flowchart LR
+>     A["生活世界现象"] --> B["具身与情感体验"]
+>     B --> C["学科深度探索"]
+>     C --> D["跨学科协作研讨"]
+>     D --> E["世界观与能动性释放"]
+> ```
 
-> [!example] 与相关概念的区别
-> - vs [[Problem-Based Learning]] — PBL 和 inquiry-based learning 都是 PhBL 在芬兰常被援引的心理学/[[Constructivist Paradigm|建构主义]]来源；但芬兰 PhBL 还扎根于 [[Phenomenology]]、existentialism、[[Bildung]] 和 [[Didaktik]]，因此不能仅还原为 PBL 或 IBL 的本土版本([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2, 8]])。
-> - vs 学科本位课程 — PhBL 不是取消学科，而是让学生在处理复杂现象时同时进入学科内部逻辑和跨学科问题空间([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.4, 11]])。
-> - vs 能力本位课程 — PhBL 可被政策话语吸收到 21 世纪技能和横向能力框架中；若只服务于可测量能力和经济竞争，它会滑向 [[Atomisation of Knowledge and Skills]]，并丧失现象学与 Bildung 传统中的开放性和教育内在目的([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-11]])。
+---
 
-## 理论基础
+## 围绕概念形成的命题
 
-> [!info] 理论基础
-> - [[Phenomenology]] — 为 PhBL 提供"现象""生活世界""具身经验"和"主体间性"的哲学基础；在这一理解中，教育是人与世界之间永不结束的意义生成对话([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2-3]])。
-> - [[Bildung]] — 为 PhBL 提供开放未来、人格形成和共同体建设的教育目的论，使 PhBL 不只是解决外部问题的工具，而是教育自身意义的实践([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.5-7, 11]])。
-> - [[Didaktik]] — [[Wolfgang Klafki]] 的 [[Epochal Key Problems]] 为 PhBL 提供课程组织原则：环境危机、社会不平等、战争等重大问题需要学科深度和跨学科能力并行([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
-> - [[Radical Constructivism]] / broader constructivism — 芬兰 PhBL 发展过程中吸收了[[Constructivist Paradigm|建构主义]]学习观，强调学生在新经验中反思既有经验并主动建构意义([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.8]])。
+> [!claim] 命题总览
+> PhBL 主张跨学科学习不能以牺牲学科自身的理论深度为代价，教育评价也不能以绩效指标的拆分而牺牲学习的开放性与主体间意义。
 
-## 实证发现
+---
 
-> [!success] 实证发现
-> 关于 PhBL 的既有讨论中，历史和[[Philosophical Analysis in Education|哲学分析]]多于干预效果评估。[[Finnish National Core Curriculum]] 中的相关概念并未形成清晰、单一的操作定义，芬兰学校和教师对 PhBL 的理解与实施方式也不一致([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> [!claim] 命题一：学科深度是跨学科整合的前提（Disciplinary Depth as Precondition）
+> 跨学科探索必须建立在尊重学科自身内在理论结构与本体论深度的基础上。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 4–5)]]
+
+> [!warrant]- 命题一的支撑理由
+> 依据批判实在论（Critical Realism）的课程视角，各学科理论秩序是人类探索世界不同现象的历史秩序，具备内在的逻辑完整性。随意将其碎片化，将损害其应有的教化价值。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 5)]]
+
+> [!exegesis]- 教育研究例子
+> 参见 [Argument_Schaffar_2024_CogentEdu](file:///Users/shaoyangwu/Documents/MyNotes/wiki/arguments/journal-articles/Cogent%20Education/Argument_Schaffar_2024_CogentEdu.md) 论证步骤二。
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 发展脉络
+> - **1990年代末 — 实用主义建构主义整合** Maijaliisa Rauste-von Wright 将 Dewey 的反思性探究与 Mead 的具身社会互动理论融合，在教师教育中提出 PhBL 模型，视其为课程的自我修正模型。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 7–8)]]
+> - **2014年 — 芬兰国家课程政策化** 跨学科和现象本位取向正式被写入芬兰国家核心课程，用以释放学生的能动性。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 2)]]
+> - **2018年–2023年 — 教师教育教学实验** 赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡世界遗产地展开具身、艺术与多语教学的 PhBL 实践。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 1)]]
+
+---
 
 ## 争议与批评
 
-> [!warning] 国际误读：芬兰是否取消学科？
-> 围绕芬兰 PhBL 的国际讨论常把它描述为"芬兰用跨学科教学取代学校科目"。这一说法并不符合芬兰课程文本：课程仍按传统学科组织，PhBL 只是实现课程总体目标和价值的一种取向([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> [!debates] 政策与舆论之争
+> 
+> > [!abstract] 国际舆论的学科取消误读
+> > 国际媒体和部分教育改革讨论常把 PhBL 宣传为芬兰学校取消传统科目的改革。芬兰国家核心课程文本表明，学校仍然按传统科目组织教学，PhBL 只是作为一种跨学科融合的教学取向被增补进来。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 2)]]
+> 
+> > [!abstract]- 整体教育价值与技能原子化的张力
+> > PhBL 扎根于现象学和教化传统，追求开放未来和难以预设的个人意义生成。但它在课程化过程中遭遇了 OECD 和欧盟关于 21世纪技能 与绩效测量的压力。全球绩效管理逻辑倾向于将知识与技能原子化，容易将 PhBL 的整体教学理想阉割为碎片化的指标清单。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 9–10)]]
 
-
-> [!warning] 整体教育理想与可测量政策逻辑的冲突
-> - **整体教育立场**：PhBL 的哲学根源要求教育面向开放未来、生活世界、具身经验、共同责任和难以预先规定的意义生成([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.3, 11]])。
-> - **政策治理压力**：芬兰课程改革同时受到 [[OECD]]、EU、21 世纪技能和横向能力话语影响；这些全球政策逻辑强化可测量结果、问责和经济竞争，反而可能造成 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.8-10]])。
->
-> PhBL 既不是救世方案，也不是可快速移植的方法；它更适合作为一种教学工具和反思入口，帮助学校重新追问当代教育的意义([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.11]])。
+---
 
 ## 相关案例／政策
 
-> [!example] 相关案例／政策
-> - [[Finnish National Core Curriculum]] — 将跨学科与现象本位学习纳入芬兰基础教育课程框架。
-> - [[SveaSus Project]] — 以 Suomenlinna 世界遗产地为学习环境，围绕可持续性开展 PhBL 的高等教育/教师教育实践。
-
+> [!evidence-grid-a] 相关研究与政策索引
+> - **[[Finnish National Core Curriculum\|芬兰基础教育国家核心课程]]** 将跨学科与现象本位学习正式整合进国家课程体系。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 2)]]
+> - **[[SveaSus Project\|SveaSus 项目]]** 围绕可持续性，在世界遗产地开展具身、艺术与多语的 PhBL 高等教师教育探索。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 1)]]
+> - **[[OECD\|经济合作与发展组织]]** 其推动的 21世纪技能 和 transversal competencies 政策构成芬兰 PhBL 课程化的全球治理背景。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 8–9)]]
