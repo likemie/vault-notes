@@ -1,11 +1,11 @@
 ---
-title: Argument_Hartmann_2022_CorporateEducation
 authors:
   - "Hartmann, E."
 summary: "Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势"
 type: argument
 subtype: book-chapter
 publication_type: book
+title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
 argument_related_count: 8

@@ -1,9 +1,9 @@
 ---
-title: Argument_Pavitt_1984_RP
 summary: "基于对英国约 2000 项战后重大创新的数据分析，提出产业技术变迁模式的三类分类法——供应商主导型、生产密集型、科学基础型，并将分类差异解释为技术来源、用户需求和专有可能性三个因素的函数"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
 argument_related_count: 5

@@ -1,11 +1,11 @@
 ---
-title: Argument_Grace_2010_NZJES
 authors:
   - "[[Gerald Grace|Grace, G.]]"
 summary: "以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_kind: "journal-article"
 argument_related_count: 5

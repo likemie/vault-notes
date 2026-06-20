@@ -1,11 +1,11 @@
 ---
-title: Argument_ONeill_2012_NZJES
 authors:
   - "O'Neill, J."
 summary: "以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Material fallacies of education research evidence and public policy advice"
 argument_display_title: "Material fallacies of education research evidence and public policy advice"
 argument_kind: "journal-article"
 argument_related_count: 10

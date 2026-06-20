@@ -1,5 +1,4 @@
 ---
-title: Argument_McKnight_2020_Discourse
 authors:
   - "McKnight, L."
   - "Whitburn, B."
@@ -7,6 +6,7 @@ summary: "从文化政治视角对 Visible Learning 提出七点系统批评：�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Seven reasons to question the hegemony of Visible Learning"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 13
@@ -40,7 +40,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
 sources:
   - "[[McKnight_2020_Discourse]]"
 part_of: ''

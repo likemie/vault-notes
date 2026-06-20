@@ -1,5 +1,4 @@
 ---
-title: Argument_Wadhwa_2024_RER
 authors:
   - "Wadhwa, M."
   - "Zheng, J."
@@ -8,6 +7,7 @@ summary: "比较 12 个教育证据清算中心的有效性标准与项目评级
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
 argument_related_count: 39

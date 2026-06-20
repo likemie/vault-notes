@@ -1,9 +1,9 @@
 ---
-title: Argument_Lester_2005_MIT
 summary: "基于对 6 个国家 22 个地区的产业转型案例研究，提出大学对本地经济的四种差异化贡献模式，论证大学的经济贡献应与其所在地区的产业转型类型相匹配，反对一刀切的专利许可和创业孵化策略"
 type: argument
 subtype: report
 publication_type: report
+title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
 argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
 argument_kind: "report"
 argument_related_count: 5

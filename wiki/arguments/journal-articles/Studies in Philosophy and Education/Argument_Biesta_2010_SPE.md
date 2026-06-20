@@ -1,11 +1,11 @@
 ---
-title: Argument_Biesta_2010_SPE
 authors:
   - "Biesta, G. J. J."
 summary: "从认识论、存在论、实践论三维度识别证据本位教育的三重缺陷（知识缺陷、效力缺陷、应用缺陷），提出价值本位教育作为替代"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
 argument_related_count: 13

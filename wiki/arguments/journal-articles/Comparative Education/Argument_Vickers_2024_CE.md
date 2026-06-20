@@ -1,11 +1,11 @@
 ---
-title: Argument_Vickers_2024_CE
 authors:
   - "Vickers, E."
 summary: "比较 LS 2020 版与 CSD 2022 版教科书在历史叙事、一国两制、文化角色和公民权利四个维度的变化，论证国安法后香港课程从培养批判性参与公民转向强制灌输单一中国身份"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
 argument_related_count: 24

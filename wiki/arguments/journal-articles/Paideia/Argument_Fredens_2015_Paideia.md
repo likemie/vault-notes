@@ -1,11 +1,11 @@
 ---
-title: Argument_Fredens_2015_Paideia
 authors:
   - "Fredens, K."
 summary: "Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
 argument_related_count: 8

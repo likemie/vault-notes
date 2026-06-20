@@ -2,6 +2,7 @@
 citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-Industry Collaboration: Innovation at the Interface. Springer."
 extracted_to:
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
+  - "[[University-Industry Collaboration: Innovation at the Interface]]"
 processed_date: 2026-06-04
 ---
 

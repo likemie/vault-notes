@@ -1,5 +1,4 @@
 ---
-title: Argument_Snook_2010_NZJES
 authors:
   - "Snook, I."
   - "Clark, J."
@@ -10,6 +9,7 @@ summary: "对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Critic and conscience of society: A reply to John Hattie"
 argument_display_title: "Critic and conscience of society: A reply to John Hattie"
 argument_kind: "journal-article"
 argument_related_count: 16
@@ -44,8 +44,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
 sources:
   - "[[Snook_2010_NZJES]]"
 part_of: ''

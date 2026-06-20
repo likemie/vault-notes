@@ -1,11 +1,11 @@
 ---
-title: Argument_Cowen_2009_CE
 authors:
   - "[[Robert Cowen|Cowen, R.]]"
 summary: "比较教育以方法论、形式和情境三个惯例转移了对教育转移的注意力，提出转移—转译—转化三阶段框架和形变问题意识，指出学科缺乏描述教育制度形状的概念词汇"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
 argument_related_count: 17

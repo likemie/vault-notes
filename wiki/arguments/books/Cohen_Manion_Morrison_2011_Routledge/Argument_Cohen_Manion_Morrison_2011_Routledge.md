@@ -1,5 +1,4 @@
 ---
-title: Argument_Cohen_Manion_Morrison_2011_Routledge
 authors:
   - "[[Louis Cohen|Cohen, L.]]"
   - "[[Lawrence Manion|Manion, L.]]"
@@ -8,9 +7,10 @@ summary: "教育研究方法的综合性教材(第七版)，涵盖研究范式�
 type: argument
 subtype: textbook
 publication_type: book
+title: "Research Methods in Education"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -68,13 +68,7 @@ related_methods:
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []
-related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+related_arguments: []
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:

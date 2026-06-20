@@ -1,5 +1,4 @@
 ---
-title: Argument_Burrus_Patera_2025_PartnershipBuilding
 authors:
   - "Burrus, C."
   - "Patera, A."
@@ -38,6 +37,7 @@ created: 2026-05-27
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Connecting, Exploring, Uncovering, and Building Partnerships"
 argument_display_title: "Connecting, Exploring, Uncovering, and Building Partnerships"
 argument_kind: "book"
 argument_related_count: 17

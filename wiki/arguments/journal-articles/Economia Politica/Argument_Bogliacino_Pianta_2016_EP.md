@@ -1,9 +1,9 @@
 ---
-title: Argument_Bogliacino_Pianta_2016_EP
 summary: "对 Pavitt（1984）分类法进行跨国家和跨时间实证检验，基于欧洲七国三轮 CIS 数据将分类法扩展至服务业和 ICT 行业，确认四类核心结构仍然稳健但需要将规模密集型修订为规模与信息密集型"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
 argument_related_count: 13
@@ -44,7 +44,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[Sectoral Innovation Database]]"
 related_arguments:
-  - "[[Argument_Pavitt_1984_RP]]"
+  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
 sources:
   - "[[Bogliacino_Pianta_2016_EP]]"
 part_of:

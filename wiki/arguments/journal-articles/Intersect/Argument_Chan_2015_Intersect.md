@@ -1,5 +1,4 @@
 ---
-title: Argument_Chan_2015_Intersect
 summary: "运用 Castells 的信息主义和国家主义框架分析苏联在拥有充足资源和人才的情况下仍错失信息革命的原因，论证国家主义体制通过军工黑洞、科学意识形态化、官僚逻辑与创新负激励、技术保守主义、封闭信息回路与国家垂直结构五个机制抑制了从工业化向信息化转型所需的制度条件"
 type: argument
 authors:
@@ -50,6 +49,7 @@ created: 2026-06-12
 updated: 2026-06-12
 subtype: journal-article
 publication_type: journal-article
+title: "Fallen behind: Science, technology, and Soviet statism"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
 argument_related_count: 19

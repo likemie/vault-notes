@@ -1,5 +1,4 @@
 ---
-title: Argument_Boccanfuso_Hall_2025_OrgStrategy
 authors:
   - "Boccanfuso, A."
   - "Hall, R."
@@ -57,6 +56,7 @@ created: 2026-05-27
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Organization and Strategy for University-Industry Relationships"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
 argument_related_count: 30

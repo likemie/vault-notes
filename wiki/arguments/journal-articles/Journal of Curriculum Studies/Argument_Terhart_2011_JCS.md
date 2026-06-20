@@ -1,11 +1,11 @@
 ---
-title: Argument_Terhart_2011_JCS
 authors:
   - "Terhart, E."
 summary: "VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 15
@@ -41,7 +41,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2010_NZJES]]"
+  - "[[Critic and conscience of society: A reply to John Hattie]]"
 sources:
   - "[[Terhart_2011_JCS]]"
 part_of: ''

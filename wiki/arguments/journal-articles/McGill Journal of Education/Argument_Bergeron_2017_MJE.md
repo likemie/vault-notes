@@ -1,5 +1,4 @@
 ---
-title: Argument_Bergeron_2017_MJE
 authors:
   - "Bergeron, P.-J."
   - "Rivard, L."
@@ -7,6 +6,7 @@ summary: "从统计学家视角系统批判 Hattie Visible Learning 方法论为
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
 argument_related_count: 9

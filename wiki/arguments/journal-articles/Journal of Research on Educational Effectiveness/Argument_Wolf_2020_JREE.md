@@ -1,5 +1,4 @@
 ---
-title: Argument_Wolf_2020_JREE
 authors:
   - "Wolf, R."
   - "Morrison, J."
@@ -10,6 +9,7 @@ summary: "以多元元回归分析 WWC 数据库 755 个效应量，发现开发
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_display_title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_kind: "journal-article"
 argument_related_count: 13

@@ -1,5 +1,4 @@
 ---
-title: Argument_Snook_2009_NZJES
 authors:
   - "Snook, I."
   - "O''Neill, J."
@@ -10,6 +9,7 @@ summary: "VL 最早的系统性批判之一（2009）：从方法论缺陷、效
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
 argument_related_count: 20
@@ -48,8 +48,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_Snook_2010_NZJES]]"
+  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[Critic and conscience of society: A reply to John Hattie]]"
 sources:
   - "[[Snook_2009_NZJES]]"
   - "[[Hattie_2010_NZJES]]"

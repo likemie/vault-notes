@@ -1,5 +1,4 @@
 ---
-title: Argument_Wecker_2016_ZfE
 authors:
   - "Wecker, C."
   - "Vogel, F."
@@ -8,6 +7,7 @@ summary: "以固定效应模型数学基础推导 6 项二级元分析方法论�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
 argument_related_count: 14

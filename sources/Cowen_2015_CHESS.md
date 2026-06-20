@@ -2,6 +2,7 @@
 citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University."
 extracted_to:
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
 processed_date: 2026-05-01
 ---
 

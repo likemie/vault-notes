@@ -2,6 +2,7 @@
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 extracted_to:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 processed_date: 2026-05-30
 ---
 

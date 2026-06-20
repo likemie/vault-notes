@@ -1,5 +1,4 @@
 ---
-title: Argument_Hall_2025_EthicalLegalFrameworks
 summary: "产学合作协议的类型学与谈判框架梳理，从法律、伦理和文化三维度分析大学与企业如何在价值差异中达成正式合作"
 type: argument
 authors:
@@ -17,7 +16,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Clinical Trial]]"
-  - "[[Confidentiality in Research]]"
   - "[[Evaluation Research]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
@@ -43,9 +41,10 @@ created: 2026-06-04
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Ethical relationships, legal frameworks, and agreements"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 20
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

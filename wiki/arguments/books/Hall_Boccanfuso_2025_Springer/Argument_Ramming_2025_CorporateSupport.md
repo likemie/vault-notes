@@ -1,11 +1,11 @@
 ---
-title: Argument_Ramming_2025_CorporateSupport
 authors:
   - "Ramming, C."
 summary: "从企业内部实践者视角分析如何在公司内部为产学合作争取支持，围绕公司哲学对齐、度量指标、资助结构、治理机制、组织设计、公司生命周期演化、时间尺度协调、研究转化和跨部门合作九个挑战维度逐一给出方案，并以 Intel UPCRC 案例说明半导体行业转折点上的策略性响应"
 type: argument
 subtype: book-chapter
 publication_type: book
+title: "Gaining Support Within Companies for Collaboration"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
 argument_related_count: 20

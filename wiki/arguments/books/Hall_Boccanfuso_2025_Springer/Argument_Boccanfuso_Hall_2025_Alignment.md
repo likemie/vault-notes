@@ -1,5 +1,4 @@
 ---
-title: Argument_Boccanfuso_Hall_2025_Alignment
 authors:
   - "Boccanfuso, A."
   - "Hall, R."
@@ -52,6 +51,7 @@ created: 2026-05-26
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Alignment, Engagement, and Public Benefits"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
 argument_related_count: 28

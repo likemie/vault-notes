@@ -1,5 +1,4 @@
 ---
-title: Argument_Hall(Ed.)_2025_Springer
 authors:
   - "Hall, R."
   - "Boccanfuso, A."
@@ -7,6 +6,7 @@ summary: "围绕产学合作的对齐（alignment）、参与（engagement）与
 type: argument
 subtype: edited-volume
 publication_type: book
+title: "University-Industry Collaboration: Innovation at the Interface"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
 argument_related_count: 84
@@ -97,23 +97,23 @@ related_facts:
   - "[[Nelson Memo of 2022]]"
   - "[[ICMJE Data Sharing Requirements 2018]]"
 related_arguments:
-  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
-  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
-  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
-  - "[[Argument_Byrne_2025_InnovationCenters]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
-  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
-  - "[[Argument_Bang_2025_ClinicalTrials]]"
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
-  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
-  - "[[Argument_Brock_2025_DataAccessGenerationUse]]"
-  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
+  - "[[Alignment, Engagement, and Public Benefits]]"
+  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Connecting, Exploring, Uncovering, and Building Partnerships]]"
+  - "[[Metrics, Incentives, Rewards, and Culture for Impact]]"
+  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Innovation Centers and Economic Development]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges]]"
+  - "[[The unique role of academic health systems in facilitating innovative UI partnerships]]"
+  - "[[University–Industry Relations in Clinical Trials]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
+  - "[[Data: Access, generation, use]]"
+  - "[[International research collaborations between universities and industry]]"
 sources:
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 part_of:

@@ -1,5 +1,4 @@
 ---
-title: Argument_Zhou_2024_CE
 authors:
   - "Zhou, Y."
   - "Westberg, J."
@@ -7,6 +6,7 @@ summary: "以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
 argument_related_count: 14

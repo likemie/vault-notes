@@ -1,5 +1,4 @@
 ---
-title: Argument_Hitchcock_2015_JBE
 authors:
   - "Hitchcock, J. H."
   - "Kratochwill, T. R."
@@ -8,6 +7,7 @@ summary: "澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
 argument_related_count: 15

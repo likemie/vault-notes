@@ -1,5 +1,4 @@
 ---
-title: Argument_Yan_2025_JCS
 authors:
   - "Yan, K. C. A."
   - "[[Paul Morris|Morris, P.]]"
@@ -7,6 +6,7 @@ summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
 argument_related_count: 21
@@ -50,7 +50,7 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[National Education]]"
 related_arguments:
-  - "[[Argument_Bulag_2024_CE]]"
+  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
 sources:
   - "[[Yan_2025_JCS]]"
 part_of: ""

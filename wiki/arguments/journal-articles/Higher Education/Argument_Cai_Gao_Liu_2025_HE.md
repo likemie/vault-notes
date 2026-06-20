@@ -1,9 +1,9 @@
 ---
-title: Argument_Cai_Gao_Liu_2025_HE
 summary: "基于对粤港澳大湾区关键节点大学教师的半结构化访谈，结合 Lefebvre 空间三元辩证法和 Burt 结构洞理论，分析 GBA 高等教育空间的生产过程，揭示早期战略行动者如何在三个空间维度间桥接产学政网络并填补结构性空洞"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_display_title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_kind: "journal-article"
 argument_related_count: 6

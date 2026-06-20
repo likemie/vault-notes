@@ -1,5 +1,4 @@
 ---
-title: Argument_LernerLam_2025_TransdisciplinaryExecutiveEd
 authors:
   - "Lerner-Lam, A."
   - "DeNoon, P."
@@ -38,6 +37,7 @@ created: 2026-05-30
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
 argument_related_count: 10

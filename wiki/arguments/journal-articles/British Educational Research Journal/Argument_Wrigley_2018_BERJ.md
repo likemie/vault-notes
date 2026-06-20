@@ -1,11 +1,11 @@
 ---
-title: Argument_Wrigley_2018_BERJ
 authors:
   - "[[Terry Wrigley|Wrigley, T.]]"
 summary: "以批判实在论对证据本位教育方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
 argument_related_count: 36
@@ -67,7 +67,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[ResearchED]]"
 related_arguments:
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
 sources:
   - "[[Wrigley_2018_BERJ]]"
 part_of: ""

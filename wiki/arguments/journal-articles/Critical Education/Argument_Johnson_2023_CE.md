@@ -1,5 +1,4 @@
 ---
-title: Argument_Johnson_2023_CE
 authors:
   - "Johnson, G. R."
   - "Janzen, M. D."
@@ -7,6 +6,7 @@ summary: "从方法论不透明、新泰勒主义教师监控、新自由主义�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Leading the blind: A critical look at Visible Learning"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 16

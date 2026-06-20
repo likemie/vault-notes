@@ -1,5 +1,4 @@
 ---
-title: Argument_Narayan_Spohrer_2025_Metrics
 authors:
   - "Narayan, S."
   - "[[Jim Spohrer|Spohrer, J.]]"
@@ -40,6 +39,7 @@ created: 2026-05-28
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
 argument_related_count: 19

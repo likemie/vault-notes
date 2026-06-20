@@ -1,5 +1,4 @@
 ---
-title: Argument_Caraca_2009_TFSC
 summary: "回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向"
 type: argument
 authors:
@@ -36,7 +35,7 @@ related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
-  - "[[Argument_Pavitt_1984_RP]]"
+  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
 sources:
   - "[[Caraca_2009_TFSC]]"
 part_of:
@@ -45,6 +44,7 @@ created: 2026-06-09
 updated: 2026-06-09
 subtype: journal-article
 publication_type: journal-article
+title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
 argument_related_count: 13

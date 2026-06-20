@@ -1,11 +1,11 @@
 ---
-title: Argument_Zhao_2017_JEC
 authors:
   - "[[Yong Zhao|Zhao, Y.]]"
 summary: "从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "What works may hurt: Side effects in education"
 argument_display_title: "What works may hurt: Side effects in education"
 argument_kind: "journal-article"
 argument_related_count: 9

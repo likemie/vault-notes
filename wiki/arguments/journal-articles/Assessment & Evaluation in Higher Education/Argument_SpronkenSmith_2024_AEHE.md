@@ -1,5 +1,4 @@
 ---
-title: Argument_SpronkenSmith_2024_AEHE
 authors:
   - "Spronken-Smith, R."
   - "Brown, K."
@@ -8,6 +7,7 @@ summary: "基于美国和新西兰三所大学博士毕业生的调查与访谈�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
 argument_related_count: 11

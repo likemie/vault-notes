@@ -1,5 +1,4 @@
 ---
-title: Argument_Wrigley_2019_ERE
 authors:
   - "[[Terry Wrigley|Wrigley, T.]]"
   - "[[Sean McCusker|McCusker, S.]]"
@@ -7,6 +6,7 @@ summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Evidence-based teaching: a simple view of 'science'"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
 argument_related_count: 19

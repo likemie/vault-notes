@@ -1,9 +1,9 @@
 ---
-title: Argument_ODwyer_Filieri_OMalley_2023_JTT
 summary: "基于爱尔兰 SSPC 制药产学合作网络的定性案例研究，提出产学合作演化的四阶段模型——胚胎期、启动期、参与期、确立期，揭示障碍和促进因素随时间演化的动态机制以及政府均等资助和协作式知识产权协议的关键作用"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
 argument_related_count: 8

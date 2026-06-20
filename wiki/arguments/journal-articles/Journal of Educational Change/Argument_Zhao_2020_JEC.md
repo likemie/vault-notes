@@ -1,11 +1,11 @@
 ---
-title: Argument_Zhao_2020_JEC
 authors:
   - "[[Yong Zhao|Zhao, Y.]]"
 summary: "系统梳理近二十年对 PISA 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷，指出批评未能阻止 PISA 影响力扩大的困境"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
 argument_related_count: 11

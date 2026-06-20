@@ -1,11 +1,11 @@
 ---
-title: Argument_Håkansson_2015_Paideia
 authors:
   - "Håkansson, J."
 summary: "追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
 argument_display_title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
 argument_kind: "journal-article"
 argument_related_count: 6

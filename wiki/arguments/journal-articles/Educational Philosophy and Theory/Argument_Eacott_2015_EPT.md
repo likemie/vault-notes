@@ -1,11 +1,11 @@
 ---
-title: Argument_Eacott_2015_EPT
 authors:
   - "[[Scott Eacott|Eacott, S.]]"
 summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
 argument_related_count: 12

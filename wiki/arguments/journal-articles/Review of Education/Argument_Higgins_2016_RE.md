@@ -1,11 +1,11 @@
 ---
-title: Argument_Higgins_2016_RE
 authors:
   - "Higgins, S."
 summary: "追溯元分析从1904年到元综合的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
 argument_related_count: 37

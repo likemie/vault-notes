@@ -1,11 +1,11 @@
 ---
-title: Argument_Klerides_2023_CE
 authors:
   - "Klerides, E."
 summary: "运用 Wight 国际理论三大传统（现实主义、理性主义、革命主义）重新解读比较教育的历史形态，论证对国际社会性质的不同理解使不同的比较教育成为可能，并揭示比较教育的注意力议程如何随国际关系变迁而转换"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Comparative education and international relations"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
 argument_related_count: 41
@@ -65,8 +65,8 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
-  - "[[Argument_Cowen_2009_CE]]"
-  - "[[Argument_Beech_2009_CE]]"
+  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
+  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
 sources:
   - "[[Klerides_2023_CE]]"
 part_of: ''

@@ -1,5 +1,4 @@
 ---
-title: Argument_Byrne_2025_InnovationCenters
 authors:
   - "Byrne, K. T."
   - "Clements, V. R."
@@ -52,6 +51,7 @@ created: 2026-05-28
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Innovation Centers and Economic Development"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
 argument_related_count: 27

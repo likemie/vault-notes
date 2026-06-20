@@ -1,11 +1,11 @@
 ---
-title: Argument_Eacott_2017_SLM
 authors:
   - "[[Scott Eacott|Eacott, S.]]"
 summary: "基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见学习品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
 argument_related_count: 30
@@ -61,8 +61,8 @@ related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
 sources:
   - "[[Eacott_2017_SLM]]"
 part_of: ""

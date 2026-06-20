@@ -1,5 +1,4 @@
 ---
-title: Argument_Bainbridge_2022_ROE
 authors:
   - "Bainbridge, A."
   - "Troppe, T."
@@ -8,6 +7,7 @@ summary: "以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
 argument_related_count: 12

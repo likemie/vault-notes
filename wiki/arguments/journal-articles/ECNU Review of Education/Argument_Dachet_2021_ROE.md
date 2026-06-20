@@ -1,5 +1,4 @@
 ---
-title: Argument_Dachet_2021_ROE
 authors:
   - "Dachet, D."
   - "Baye, A."
@@ -7,6 +6,7 @@ summary: "以法语比利时教育卓越公约为叙事案例，说明证据本�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_display_title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_kind: "journal-article"
 argument_related_count: 20
@@ -47,7 +47,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
 sources:
   - "[[Dachet_2021_ROE]]"
 part_of: ""

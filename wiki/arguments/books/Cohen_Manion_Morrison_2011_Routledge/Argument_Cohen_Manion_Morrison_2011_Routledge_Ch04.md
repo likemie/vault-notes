@@ -1,5 +1,4 @@
 ---
-title: Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 authors:
   - "[[Louis Cohen|Cohen, L.]]"
   - "[[Lawrence Manion|Manion, L.]]"
@@ -8,6 +7,7 @@ summary: "第4章系统介绍教育研究中因果推断的关键议题，包括
 type: argument
 subtype: textbook
 publication_type: book-chapter
+title: "Research Methods in Education"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book-chapter"
 argument_related_count: 32

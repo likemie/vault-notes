@@ -1,9 +1,9 @@
 ---
-title: Argument_Fan_Song_Zhai_2024_RSEE
 summary: "基于中国30个省份2001-2022年面板数据，构建教育-科技-人才耦合协调评价指标体系，运用耦合协调模型、时空格局演变和LISA时空路径方法，揭示EST一体化发展的时空分异规律"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
 argument_related_count: 9

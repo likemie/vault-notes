@@ -2,6 +2,7 @@
 citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 105–122). Springer."
 extracted_to:
   - "[[Argument_Delambre_2022_Springer]]"
+  - "[[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

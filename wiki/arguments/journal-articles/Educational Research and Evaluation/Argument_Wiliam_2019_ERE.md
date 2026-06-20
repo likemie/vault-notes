@@ -1,11 +1,11 @@
 ---
-title: Argument_Wiliam_2019
 authors:
   - "[[Dylan Wiliam|Wiliam, D.]]"
 summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Some reflections on the role of evidence in improving education"
 argument_display_title: "Some reflections on the role of evidence in improving education"
 argument_kind: "journal-article"
 argument_related_count: 13

@@ -1,11 +1,11 @@
 ---
-title: Argument_Nordahl_2015_Paideia
 authors:
   - "[[Thomas Nordahl|Nordahl, T.]]"
 summary: "把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
 argument_related_count: 13

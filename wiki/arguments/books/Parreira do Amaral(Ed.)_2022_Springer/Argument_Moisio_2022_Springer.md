@@ -1,11 +1,11 @@
 ---
-title: Argument_Moisio_2022_Springer
 authors:
   - "[[Sami Moisio|Moisio, S.]]"
 summary: "Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架"
 type: argument
 subtype: book-chapter
 publication_type: book
+title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
 argument_related_count: 26

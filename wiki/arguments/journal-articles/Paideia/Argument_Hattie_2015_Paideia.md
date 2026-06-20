@@ -1,11 +1,11 @@
 ---
-title: Argument_Hattie_2015_Paideia
 authors:
   - "[[John Hattie|Hattie, J.]]"
 summary: "以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Synlig læring i dag"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
 argument_related_count: 12

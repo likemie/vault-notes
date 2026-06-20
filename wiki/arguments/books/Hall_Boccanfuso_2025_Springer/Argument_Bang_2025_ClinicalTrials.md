@@ -1,5 +1,4 @@
 ---
-title: Argument_Bang_2025_ClinicalTrials
 summary: "以临床试验各阶段为框架，分析产学在生物制药临床试验中的合作模式、预算与启动效率瓶颈及主方案等创新解决方案"
 type: argument
 authors:
@@ -46,6 +45,7 @@ created: 2026-06-03
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "University–Industry Relations in Clinical Trials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
 argument_related_count: 23

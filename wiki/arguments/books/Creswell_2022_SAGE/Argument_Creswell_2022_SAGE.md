@@ -1,9 +1,9 @@
 ---
-title: Argument_Creswell_2022_SAGE
 summary: "Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程"
 type: argument
 subtype: textbook
 publication_type: book
+title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
 argument_related_count: 160

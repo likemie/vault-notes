@@ -1,5 +1,4 @@
 ---
-title: Argument_Keddie_2020_IJLE
 authors:
   - "Keddie, A."
   - "MacDonald, K."
@@ -13,6 +12,7 @@ summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
 argument_related_count: 5
@@ -37,7 +37,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Keddie_2020_JEAH]]"
+  - "[[School autonomy, marketisation and social justice: the plight of principals and schools]]"
 sources:
   - "[[Keddie_2020_IJLE]]"
 part_of: ''

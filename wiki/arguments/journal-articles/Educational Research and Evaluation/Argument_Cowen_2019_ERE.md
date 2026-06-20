@@ -1,11 +1,11 @@
 ---
-title: Argument_Cowen_2019_ERE
 authors:
   - "[[Nick Cowen|Cowen, N.]]"
 summary: "以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
 argument_related_count: 19

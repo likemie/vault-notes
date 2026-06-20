@@ -1,5 +1,4 @@
 ---
-title: Argument_Susalka_Carbone_2025_IP_Web
 summary: "产学合作中知识产权问题的实践指南，分析大学与产业因组织使命差异导致的 IP 利益冲突，提出通过明确界定前景 IP 与背景 IP、合理设计权利转让条款来化解冲突的策略框架"
 type: argument
 authors:
@@ -35,6 +34,7 @@ created: 2026-06-03
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
 argument_related_count: 10

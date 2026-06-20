@@ -1,5 +1,4 @@
 ---
-title: Argument_Brock_2025_DataAccessGenerationUse
 summary: "产学合作中数据的定义、所有权与使用权的法律区分、隐私安全治理框架以及 UIDP 13 条数据条款特征的系统梳理，指出数据应作为独立议题在协议中明确定义而非泛化为知识产权的附属项"
 type: argument
 authors:
@@ -35,6 +34,7 @@ created: 2026-06-04
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "Data: Access, generation, use"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
 argument_related_count: 11

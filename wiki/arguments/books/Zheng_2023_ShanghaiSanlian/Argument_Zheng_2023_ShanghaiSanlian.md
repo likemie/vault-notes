@@ -1,11 +1,11 @@
 ---
-title: Argument_Zheng_2023_ShanghaiSanlian
 authors:
   - "[[Yajun Zheng|Zheng, Y.]]"
 summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。"
 type: argument
 subtype: monograph
 publication_type: book
+title: "金榜题名之后：大学生出路分化之谜"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
 argument_related_count: 81

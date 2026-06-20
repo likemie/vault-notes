@@ -1,5 +1,4 @@
 ---
-title: Argument_Nelson_2017_ER
 authors:
   - "[[Julie Nelson|Nelson, J.]]"
   - "[[Carol Campbell|Campbell, C.]]"
@@ -7,6 +6,7 @@ summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Evidence-informed practice in education: meanings and applications"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
 argument_related_count: 8

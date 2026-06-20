@@ -1,11 +1,11 @@
 ---
-title: Argument_Boyadjieva_2022_Springer
 authors:
   - "[[Pepka Boyadjieva|Boyadjieva, P.]]"
 summary: "Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性"
 type: argument
 subtype: book-chapter
 publication_type: book
+title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
 argument_related_count: 16

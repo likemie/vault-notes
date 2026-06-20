@@ -1,9 +1,9 @@
 ---
-title: Argument_OxfordUIDP_2019_UIPartnerships
 summary: "基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论，识别大学-产业合作面临的十大关键议题，包括创新生态系统建设、新合作模式、超越传统伙伴、度量指标发展、AI 与数据驱动决策、国家研发目标、中介角色、多样性、人才流动和公众沟通"
 type: argument
 subtype: report
 publication_type: report
+title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
 argument_related_count: 44

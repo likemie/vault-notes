@@ -67,6 +67,7 @@ THEORY_GENERATED_KEYS = {
 }
 THEORY_COLORS = ["#e5e7eb", "#dbeafe", "#e0e7ff", "#ede9fe", "#fce7f3", "#ffedd5", "#fef3c7"]
 ARGUMENT_GENERATED_KEYS = {
+    "title",
     "argument_display_title",
     "argument_kind",
     "argument_related_count",
@@ -823,6 +824,7 @@ def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any
             insert_at = idx + 1
 
     generated = [
+        f"title: {yaml_string(str(fields['argument_display_title']))}",
         f"argument_display_title: {yaml_string(str(fields['argument_display_title']))}",
         f"argument_kind: {yaml_string(str(fields['argument_kind']))}",
         f"argument_related_count: {int(fields['argument_related_count'])}",

@@ -1,9 +1,9 @@
 ---
-title: Argument_Bates_2017_CognitionEducationTrust
 summary: "受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognition Education 的多次转向重写为适应性证据 并把商业扩张与公益使命组织成同一套自我解释"
 type: argument
 subtype: monograph
 publication_type: book
+title: "Darwin's Finch: A Short History of Cognition"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
 argument_related_count: 6

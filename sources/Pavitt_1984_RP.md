@@ -2,6 +2,7 @@
 citation: "Pavitt, K. (1984). Sectoral patterns of technical change: Towards a taxonomy and a theory. Research Policy, 13(6), 343–373."
 extracted_to:
   - "[[Argument_Pavitt_1984_RP]]"
+  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
 processed_date: 2026-06-11
 ---
 

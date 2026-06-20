@@ -1,5 +1,4 @@
 ---
-title: Argument_Slavin_2002_ER
 summary: "EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和“基于研究 vs 经评估“的关键区分"
 type: argument
 authors:
@@ -34,7 +33,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
 related_arguments:
-  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
 sources:
   - "[[Slavin_2002_ER]]"
 part_of: ""
@@ -43,6 +42,7 @@ created: 2026-05-01
 updated: 2026-06-08
 subtype: journal-article
 publication_type: journal-article
+title: "Evidence-based education policies: Transforming educational practice and research"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
 argument_related_count: 10

@@ -1,11 +1,11 @@
 ---
-title: Argument_Blass_2020_JESP
 authors:
   - "Blass, E."
 summary: "以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
 argument_related_count: 14
@@ -38,7 +38,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
 sources:
   - "[[Blass_2020_JESP]]"
 part_of: ''

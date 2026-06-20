@@ -1,11 +1,11 @@
 ---
-title: Argument_Rizvi_2022_Springer
 authors:
   - "[[Fazal Rizvi|Rizvi, F.]]"
 summary: "Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构"
 type: argument
 subtype: book-chapter
 publication_type: book
+title: "Rise of Asia, geopolitical shifts and higher education"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
 argument_related_count: 23

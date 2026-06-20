@@ -1,5 +1,4 @@
 ---
-title: Argument_Wolf_2025_InternationalResearchCollab
 summary: "以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链"
 type: argument
 authors:
@@ -47,6 +46,7 @@ created: 2026-06-02
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+title: "International research collaborations between universities and industry"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
 argument_related_count: 22

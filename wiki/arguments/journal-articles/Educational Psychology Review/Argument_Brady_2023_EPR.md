@@ -1,5 +1,4 @@
 ---
-title: Argument_Brady_2023_EPR
 authors:
   - "Brady, A. C."
   - "Griffin, M. M."
@@ -10,6 +9,7 @@ summary: "追踪 2020 年五本教育心理学经验期刊的方法趋势，发�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_display_title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_kind: "journal-article"
 argument_related_count: 13

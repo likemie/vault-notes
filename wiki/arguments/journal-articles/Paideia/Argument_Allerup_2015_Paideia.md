@@ -1,11 +1,11 @@
 ---
-title: Argument_Allerup_2015_Paideia
 authors:
   - "Allerup, P."
 summary: "从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser"
 argument_display_title: "Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser"
 argument_kind: "journal-article"
 argument_related_count: 14

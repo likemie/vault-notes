@@ -1,5 +1,4 @@
 ---
-title: Argument_Beech_2009_CE
 summary: "以 Castells 流动空间与地方空间的区分为分析框架，追踪教育话语从全球政策空间到国家政策再到学校实践的逐层转化，论证全球话语被抽象为脱离历史经验的漂浮能指以获取最大可接受性，并在每一层转化中发生意义与实践效果的根本变化"
 type: argument
 authors:
@@ -56,6 +55,7 @@ created: 2026-06-08
 updated: 2026-06-09
 subtype: journal-article
 publication_type: journal-article
+title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
 argument_related_count: 24

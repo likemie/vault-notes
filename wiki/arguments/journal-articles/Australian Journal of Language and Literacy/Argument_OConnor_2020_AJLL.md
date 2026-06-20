@@ -1,11 +1,11 @@
 ---
-title: Argument_OConnor_2020_AJLL
 authors:
   - "O'Connor, P."
 summary: "以《可见学习》全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
 argument_related_count: 22

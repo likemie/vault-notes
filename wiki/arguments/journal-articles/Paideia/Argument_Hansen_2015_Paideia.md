@@ -1,5 +1,4 @@
 ---
-title: Argument_Hansen_2015_Paideia
 authors:
   - "Hansen, O."
   - "Lekhal, R."
@@ -11,6 +10,7 @@ summary: "作为 Paideia 可见学习主题号导言，梳理支持、修正与�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Leder Temanummer om synlig læring"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
 argument_related_count: 8

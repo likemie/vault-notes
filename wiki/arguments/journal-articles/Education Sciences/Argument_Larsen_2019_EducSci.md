@@ -1,11 +1,11 @@
 ---
-title: Argument_Larsen_2019_EducSci
 authors:
   - "[[Steen Nepper Larsen|Larsen, S. N.]]"
 summary: "从 Bildung、神经可塑性、现象学自由和概念史四维度对 Hattie VL 范式的哲学批判，论证盲视是教育观看不可避免的组成部分"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
 argument_related_count: 16

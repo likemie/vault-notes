@@ -1,5 +1,4 @@
 ---
-title: Argument_Parreira do Amaral_2022_Springer
 authors:
   - "Parreira do Amaral, M."
   - "[[Christiane Thompson|Thompson, C.]]"
@@ -7,6 +6,7 @@ summary: "论文集整体论证：高等教育正经历知识地缘政治重构�
 type: argument
 subtype: edited-volume
 publication_type: book
+title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_display_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_kind: "book"
 argument_related_count: 28
@@ -55,10 +55,10 @@ related_facts:
   - "[[Minerva University]]"
   - "[[University Industry Innovation Network]]"
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Two faces of geopolitics of knowledge]]"
 sources:
   - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 part_of: ''

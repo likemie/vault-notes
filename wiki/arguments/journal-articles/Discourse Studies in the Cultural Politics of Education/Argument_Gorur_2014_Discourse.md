@@ -1,11 +1,11 @@
 ---
-title: Argument_Gorur_2014_Discourse
 authors:
   - "Gorur, R."
 summary: "以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Producing calculable worlds: education at a glance"
 argument_display_title: "Producing calculable worlds: education at a glance"
 argument_kind: "journal-article"
 argument_related_count: 15
