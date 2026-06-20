@@ -6398,25 +6398,10 @@
   letter-spacing: 0.04em;
 }
 
-/* ── warrant 默认折叠：内容默认隐藏 ── */
-/* 无折叠标记 / data-callout-fold="-" 且处于折叠态 → 隐藏 */
-.callout[data-callout="warrant"] > .callout-content {
-  display: none;
-}
-/* 用 [!warrant]+ 或 [!warrant]- 展开后 → 显示 */
-.callout[data-callout="warrant"][data-callout-fold="+"]:not(.is-collapsed) > .callout-content,
-.callout[data-callout="warrant"][data-callout-fold="-"]:not(.is-collapsed) > .callout-content {
-  display: block;
-}
-/* 折叠态时标题无需下边框（内容已隐）*/
-.callout[data-callout="warrant"]:not([data-callout-fold="+"]) > .callout-title,
+/* ── warrant 折叠态细节（Obsidian 原生处理 display:none） ── */
+/* 折叠时标题去掉下边框，视觉更干净 */
 .callout[data-callout="warrant"].is-collapsed > .callout-title {
   border-bottom: none;
-}
-/* 无折叠标记时，鼠标提示可交互 */
-.callout[data-callout="warrant"]:not([data-callout-fold]) > .callout-title {
-  cursor: default;
-  opacity: 0.82;
 }
 
 .callout[data-callout="implication"] {
@@ -6452,21 +6437,9 @@
   color: rgb(var(--callout-color));
 }
 
-/* ── implication 默认折叠 ── */
-.callout[data-callout="implication"] > .callout-content {
-  display: none;
-}
-.callout[data-callout="implication"][data-callout-fold="+"]:not(.is-collapsed) > .callout-content,
-.callout[data-callout="implication"][data-callout-fold="-"]:not(.is-collapsed) > .callout-content {
-  display: block;
-}
-.callout[data-callout="implication"]:not([data-callout-fold="+"]) > .callout-title,
+/* ── implication 折叠态细节 ── */
 .callout[data-callout="implication"].is-collapsed > .callout-title {
   border-bottom: none;
-}
-.callout[data-callout="implication"]:not([data-callout-fold]) > .callout-title {
-  cursor: default;
-  opacity: 0.82;
 }
 
 .callout[data-callout="concept-lens"] {
