@@ -38,6 +38,7 @@ created: 2026-05-25
 updated: '2026-06-08'
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

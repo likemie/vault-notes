@@ -7,6 +7,7 @@ summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
 argument_related_count: 19
 argument_related_level: 1

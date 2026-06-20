@@ -7,6 +7,7 @@ summary: "梳理2006年以来欧盟证据知情教育政策和证据中介组织
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
 argument_related_count: 28
 argument_related_level: 1

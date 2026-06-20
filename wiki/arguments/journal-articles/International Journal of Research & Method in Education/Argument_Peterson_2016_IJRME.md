@@ -6,6 +6,7 @@ summary: "以文献综述和美英 What Works 倡议对话为基础，提出以�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
 argument_related_count: 16
 argument_related_level: 1

@@ -4,6 +4,7 @@ summary: "基于对 6 个国家 22 个地区的产业转型案例研究，提出
 type: argument
 subtype: report
 publication_type: report
+argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
 argument_kind: "report"
 argument_related_count: 5
 argument_related_level: 0

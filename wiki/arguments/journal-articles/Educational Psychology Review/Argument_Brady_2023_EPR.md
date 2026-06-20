@@ -10,6 +10,7 @@ summary: "追踪 2020 年五本教育心理学经验期刊的方法趋势，发�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

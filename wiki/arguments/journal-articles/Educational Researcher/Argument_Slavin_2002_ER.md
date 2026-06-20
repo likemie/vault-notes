@@ -43,6 +43,7 @@ created: 2026-05-01
 updated: 2026-06-08
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
 argument_related_count: 10
 argument_related_level: 0

@@ -7,6 +7,7 @@ summary: "以法语比利时教育卓越公约为叙事案例，说明证据本�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_kind: "journal-article"
 argument_related_count: 20
 argument_related_level: 1

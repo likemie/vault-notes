@@ -6,6 +6,7 @@ summary: "Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
 argument_related_count: 21
 argument_related_level: 1

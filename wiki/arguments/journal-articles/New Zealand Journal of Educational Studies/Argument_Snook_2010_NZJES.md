@@ -10,6 +10,7 @@ summary: "对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Critic and conscience of society: A reply to John Hattie"
 argument_kind: "journal-article"
 argument_related_count: 16
 argument_related_level: 1

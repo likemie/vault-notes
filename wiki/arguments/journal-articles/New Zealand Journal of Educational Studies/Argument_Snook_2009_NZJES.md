@@ -10,6 +10,7 @@ summary: "VL 最早的系统性批判之一（2009）：从方法论缺陷、效
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
 argument_related_count: 20
 argument_related_level: 1

@@ -7,6 +7,7 @@ summary: "以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
 argument_related_count: 25
 argument_related_level: 1

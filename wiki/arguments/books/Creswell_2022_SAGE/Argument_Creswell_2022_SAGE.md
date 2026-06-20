@@ -4,6 +4,7 @@ summary: "Creswell & Creswell 研究方法教材第六版，系统讲解量化�
 type: argument
 subtype: textbook
 publication_type: book
+argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
 argument_related_count: 160
 argument_related_level: 6

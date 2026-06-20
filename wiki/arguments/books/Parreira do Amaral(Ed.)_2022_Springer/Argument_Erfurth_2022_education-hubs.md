@@ -40,6 +40,7 @@ created: 2026-05-19
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
 argument_related_count: 13
 argument_related_level: 0

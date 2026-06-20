@@ -6,6 +6,7 @@ summary: "以五要素框架（方法论、情境、假设、领导力、时效�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
 argument_related_count: 14
 argument_related_level: 0

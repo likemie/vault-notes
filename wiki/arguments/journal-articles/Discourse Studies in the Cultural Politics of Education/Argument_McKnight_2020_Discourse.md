@@ -7,6 +7,7 @@ summary: "从文化政治视角对 Visible Learning 提出七点系统批评：�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

@@ -6,6 +6,7 @@ summary: "Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE �
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
 argument_related_count: 16
 argument_related_level: 1

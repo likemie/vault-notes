@@ -8,6 +8,7 @@ summary: "本研究报告系统梳理了中国科技创新与产业创新深度�
 type: argument
 subtype: monograph
 publication_type: book
+argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
 argument_related_count: 34
 argument_related_level: 2

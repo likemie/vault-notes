@@ -6,6 +6,7 @@ summary: "Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
 argument_related_count: 8
 argument_related_level: 0

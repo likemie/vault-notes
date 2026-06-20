@@ -6,6 +6,7 @@ summary: "EBE 支持者阵营的纲领性论述：三条件框架（项目存量
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
 argument_related_count: 21
 argument_related_level: 1

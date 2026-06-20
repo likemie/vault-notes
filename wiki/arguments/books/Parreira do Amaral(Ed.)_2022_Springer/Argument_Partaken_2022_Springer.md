@@ -6,6 +6,7 @@ summary: "Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
 argument_related_count: 34
 argument_related_level: 2

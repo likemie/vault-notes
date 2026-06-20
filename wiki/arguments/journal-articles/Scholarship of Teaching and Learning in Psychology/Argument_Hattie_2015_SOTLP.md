@@ -6,6 +6,7 @@ summary: "将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The applicability of Visible Learning to higher education"
 argument_kind: "journal-article"
 argument_related_count: 8
 argument_related_level: 0

@@ -5020,128 +5020,159 @@
 
 
 /* ═══════════════════════════════════════════════════════════
-   ARGUMENT CHAIN-LINK — 论证链节
-   用途：论证步骤内的独立证据→分析结论单元
+   ARGUMENT CHAIN-LINK — 论证链
+   用途：单 callout 内用 ul > li 列举各链节
+   格式：- **链节标题** 内容……
    颜色：金琥珀 rgb(168, 130, 50)
-   链式设计：紧密堆叠 + 扁平接口 + 自动序号 + 左脊连续
-   ※ 不依赖超出容器的伪元素（Obsidian 父级会裁剪）
+   特征：垂直脊线 + 自动编号节点圆 + 卡片式链节
    ═══════════════════════════════════════════════════════════ */
-
-/* ── 全局计数器 ── */
-.markdown-preview-view,
-.cm-content {
-  counter-reset: chain-n;
-}
 
 /* ── 容器 ── */
 .callout[data-callout="chain-link"] {
   --callout-color: 168, 130, 50;
   --callout-icon: lucide-link-2;
-  counter-increment: chain-n;
   position: relative;
   overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(168, 130, 50, 0.08), rgba(168, 130, 50, 0.02)),
+    linear-gradient(135deg, rgba(168, 130, 50, 0.07), rgba(168, 130, 50, 0.01)),
     var(--background-primary);
-  border: 1.5px solid rgba(168, 130, 50, 0.24);
+  border: 1.5px solid rgba(168, 130, 50, 0.22);
   border-left: 5px solid rgb(168, 130, 50);
-  border-radius: 9px;
-  box-shadow: 0 4px 14px rgba(168, 130, 50, 0.08);
-  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+  border-radius: 10px;
+  padding: 0 0 0.9rem;
+  box-shadow: 0 4px 14px rgba(168, 130, 50, 0.07);
+  transition: box-shadow 0.25s ease;
 }
 .callout[data-callout="chain-link"]:hover {
-  box-shadow:
-    0 0 0 2px rgba(168, 130, 50, 0.18),
-    0 6px 20px rgba(168, 130, 50, 0.12);
+  box-shadow: 0 0 0 2px rgba(168, 130, 50, 0.18), 0 6px 20px rgba(168, 130, 50, 0.11);
 }
 
-/* ── 标题：带自动序号的 LINK N 徽章 ── */
+/* ── 标题行 ── */
 .callout[data-callout="chain-link"] > .callout-title {
-  color: rgb(135, 100, 28);
+  color: rgb(130, 96, 24);
   font-weight: 700;
   letter-spacing: 0.02em;
+  padding: 0.7rem 1.1rem 0.55rem;
+  border-bottom: 1px solid rgba(168, 130, 50, 0.16);
+  margin-bottom: 0.2rem;
 }
 .callout[data-callout="chain-link"] > .callout-title .callout-title-inner::before {
-  content: "LINK " counter(chain-n);
+  content: "CHAIN";
   display: inline-block;
   margin-right: 0.5rem;
-  padding: 1px 8px;
+  padding: 1px 7px;
   border-radius: 4px;
-  background: rgba(168, 130, 50, 0.16);
-  color: rgb(135, 100, 28);
+  background: rgba(168, 130, 50, 0.15);
+  color: rgb(130, 96, 24);
   font-size: var(--fs-label);
   font-weight: 800;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   vertical-align: middle;
 }
 
-/* ── 内容区 ── */
-.callout[data-callout="chain-link"] > .callout-content {
-  overflow-x: auto;
+/* ── 链表容器：建立脊线坐标系 ── */
+.callout[data-callout="chain-link"] > .callout-content > ul {
+  counter-reset: chain-n;
+  list-style: none;
+  padding: 0.55rem 1rem 0.1rem 3.5rem;
+  margin: 0;
+  position: relative;
 }
 
-/* ── 表格 ── */
-.callout[data-callout="chain-link"] table {
-  display: table;
-  width: 100%;
-  min-width: 360px;
-  margin-block: 0.5rem 0.2rem;
-  border-collapse: separate;
-  border-spacing: 0;
-}
-.callout[data-callout="chain-link"] th {
-  background: rgba(168, 130, 50, 0.12);
-  font-weight: 700;
-}
-.callout[data-callout="chain-link"] th,
-.callout[data-callout="chain-link"] td {
-  border-color: rgba(168, 130, 50, 0.18);
-  vertical-align: top;
-  line-height: 1.65;
+/* 竖向金色脊线，两端渐隐 */
+.callout[data-callout="chain-link"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  left: 1.62rem;
+  top: 1.5rem;
+  bottom: 1.1rem;
+  width: 2px;
+  border-radius: 1px;
+  background: linear-gradient(
+    to bottom,
+    transparent                        0%,
+    rgba(168, 130, 50, 0.50)         8%,
+    rgba(168, 130, 50, 0.50)         92%,
+    transparent                      100%
+  );
 }
 
-/* ══════════════════════════════════════════════════════════
-   链式连接 — 通过 .el-div 包装层实现
-   DOM: .el-div > .callout[data-callout="chain-link"]
-   相邻 .el-div 是真正的兄弟节点
-   ══════════════════════════════════════════════════════════ */
-
-/* ── 非末尾链节：内部底部加 ↓ 连接指示器 ── */
-
-/* 留出底部空间 */
-.el-div:has(> .callout[data-callout="chain-link"]):has(+ .el-div:has(> .callout[data-callout="chain-link"]))
-  > .callout[data-callout="chain-link"] > .callout-content {
-  padding-bottom: 0.2rem;
+/* ── 链节卡片 ── */
+.callout[data-callout="chain-link"] > .callout-content > ul > li {
+  counter-increment: chain-n;
+  position: relative;
+  padding: 0.6rem 0.9rem 0.68rem;
+  margin-bottom: 0.6rem;
+  border: 1px solid rgba(168, 130, 50, 0.18);
+  border-radius: 7px;
+  background: linear-gradient(180deg, rgba(168, 130, 50, 0.06), rgba(168, 130, 50, 0.01));
+  line-height: 1.68;
+  font-size: var(--fs-table);
+  transition: background 0.15s ease, box-shadow 0.15s ease;
+}
+.callout[data-callout="chain-link"] > .callout-content > ul > li:last-child {
+  margin-bottom: 0;
+}
+.callout[data-callout="chain-link"] > .callout-content > ul > li:hover {
+  background: linear-gradient(180deg, rgba(168, 130, 50, 0.10), rgba(168, 130, 50, 0.03));
+  box-shadow: 0 2px 8px rgba(168, 130, 50, 0.10);
 }
 
-/* ↓ 箭头：加在 .callout-content::after，完全在元素内 */
-.el-div:has(> .callout[data-callout="chain-link"]):has(+ .el-div:has(> .callout[data-callout="chain-link"]))
-  > .callout[data-callout="chain-link"] > .callout-content::after {
-  content: "↓";
-  display: block;
+/* 脊线上的数字节点圆 */
+.callout[data-callout="chain-link"] > .callout-content > ul > li::before {
+  content: counter(chain-n);
+  position: absolute;
+  left: -1.88rem;
+  top: 0.75rem;
+  width: 1.32rem;
+  height: 1.32rem;
+  border-radius: 50%;
+  background: rgb(168, 130, 50);
+  color: #fff;
+  font-size: 0.60em;
+  font-weight: 800;
+  line-height: 1.32rem;
   text-align: center;
-  margin-top: 0.7rem;
-  padding: 0.2rem 0 0.35rem;
-  color: rgba(168, 130, 50, 0.55);
-  font-size: 0.9rem;
-  line-height: 1;
-  border-top: 1px dashed rgba(168, 130, 50, 0.25);
+  border: 2.5px solid var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(168, 130, 50, 0.28);
+  z-index: 1;
+}
+
+/* 链节标题 — li 首个 strong（**粗体** 开头） */
+.callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-child > strong:first-child,
+.callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  color: rgb(122, 88, 18);
+  font-weight: 760;
+  font-size: 0.93em;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.32rem;
+  padding-bottom: 0.28rem;
+  border-bottom: 1px dashed rgba(168, 130, 50, 0.28);
 }
 
 /* ── 暗模式 ── */
 .theme-dark .callout[data-callout="chain-link"] {
   --callout-color: 205, 162, 68;
   background:
-    linear-gradient(135deg, rgba(205, 162, 68, 0.11), rgba(205, 162, 68, 0.03)),
+    linear-gradient(135deg, rgba(205, 162, 68, 0.09), rgba(205, 162, 68, 0.02)),
     var(--background-primary);
-  border-color: rgba(205, 162, 68, 0.30);
+  border-color: rgba(205, 162, 68, 0.28);
   border-left-color: rgb(205, 162, 68);
 }
-.theme-dark
-  .el-div:has(> .callout[data-callout="chain-link"]):has(+ .el-div:has(> .callout[data-callout="chain-link"]))
-  > .callout[data-callout="chain-link"] > .callout-content::after {
-  color: rgba(205, 162, 68, 0.60);
-  border-top-color: rgba(205, 162, 68, 0.28);
+.theme-dark .callout[data-callout="chain-link"] > .callout-title { color: rgb(205, 162, 68); }
+.theme-dark .callout[data-callout="chain-link"] > .callout-title .callout-title-inner::before {
+  background: rgba(205, 162, 68, 0.18);
+  color: rgb(205, 162, 68);
+}
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li {
+  border-color: rgba(205, 162, 68, 0.20);
+  background: linear-gradient(180deg, rgba(205, 162, 68, 0.08), rgba(205, 162, 68, 0.02));
+}
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-child > strong:first-child,
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(205, 162, 68);
+  border-bottom-color: rgba(205, 162, 68, 0.30);
 }
 
 /* ─── proc（标准操作程序 — 步骤链） ──────────────────────

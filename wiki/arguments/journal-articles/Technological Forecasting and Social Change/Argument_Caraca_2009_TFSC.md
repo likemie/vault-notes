@@ -45,6 +45,7 @@ created: 2026-06-09
 updated: 2026-06-09
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

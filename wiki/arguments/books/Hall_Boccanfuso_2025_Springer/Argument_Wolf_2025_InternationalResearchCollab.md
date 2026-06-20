@@ -47,6 +47,7 @@ created: 2026-06-02
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
 argument_related_count: 22
 argument_related_level: 1

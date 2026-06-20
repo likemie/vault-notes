@@ -7,6 +7,7 @@ summary: "将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
 argument_related_count: 20
 argument_related_level: 1

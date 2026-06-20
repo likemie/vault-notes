@@ -4,6 +4,7 @@ summary: "对 Pavitt（1984）分类法进行跨国家和跨时间实证检验�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

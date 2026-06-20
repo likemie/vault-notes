@@ -11,8 +11,8 @@ filters:
     - 'file.folder.contains("wiki/arguments")'
 
 properties:
-  file.name:
-    displayName: 论证
+  argument_display_title:
+    displayName: 标题
   summary:
     displayName: 摘要
   authors:
@@ -37,7 +37,7 @@ views:
     name: 论证雷达
     image: argument_related_color
     order:
-      - file.name
+      - argument_display_title
       - summary
       - authors
       - year
@@ -57,7 +57,7 @@ views:
       and:
         - 'argument_related_count >= 30'
     order:
-      - file.name
+      - argument_display_title
       - summary
       - authors
       - year
@@ -71,7 +71,7 @@ views:
   - type: table
     name: 完整清单
     order:
-      - file.name
+      - argument_display_title
       - summary
       - authors
       - year
@@ -92,7 +92,7 @@ views:
       property: argument_kind
       direction: ASC
     order:
-      - file.name
+      - argument_display_title
       - summary
       - authors
       - year
@@ -110,7 +110,7 @@ views:
       property: year
       direction: DESC
     order:
-      - file.name
+      - argument_display_title
       - summary
       - authors
       - argument_kind
@@ -128,7 +128,7 @@ views:
       property: journal
       direction: ASC
     order:
-      - file.name
+      - argument_display_title
       - summary
       - authors
       - year

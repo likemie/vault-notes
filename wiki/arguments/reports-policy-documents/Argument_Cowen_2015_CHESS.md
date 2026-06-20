@@ -9,6 +9,7 @@ summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有�
 type: argument
 subtype: report
 publication_type: report
+argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
 argument_related_count: 10
 argument_related_level: 0

@@ -8,6 +8,7 @@ summary: "基于系统论思想构建科技创新双循环生态系统模型，�
 type: argument
 subtype: monograph
 publication_type: book
+argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
 argument_related_count: 19
 argument_related_level: 1

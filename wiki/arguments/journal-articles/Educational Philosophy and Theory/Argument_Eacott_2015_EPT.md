@@ -6,6 +6,7 @@ summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
 argument_related_count: 12
 argument_related_level: 0

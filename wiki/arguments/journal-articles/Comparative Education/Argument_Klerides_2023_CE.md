@@ -6,6 +6,7 @@ summary: "运用 Wight 国际理论三大传统（现实主义、理性主义、
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
 argument_related_count: 41
 argument_related_level: 2

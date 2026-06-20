@@ -10,6 +10,7 @@ summary: "以多元元回归分析 WWC 数据库 755 个效应量，发现开发
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

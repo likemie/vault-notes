@@ -9,6 +9,7 @@ summary: "挪威 48 校 4128 名学生研究：性别本身对成绩直接解释
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold"
 argument_kind: "journal-article"
 argument_related_count: 16
 argument_related_level: 1

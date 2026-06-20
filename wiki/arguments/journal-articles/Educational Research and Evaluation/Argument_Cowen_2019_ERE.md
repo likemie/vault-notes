@@ -6,6 +6,7 @@ summary: "以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
 argument_related_count: 19
 argument_related_level: 1

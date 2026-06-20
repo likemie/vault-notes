@@ -52,6 +52,7 @@ created: 2026-05-29
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
 argument_related_count: 27
 argument_related_level: 1

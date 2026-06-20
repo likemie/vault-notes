@@ -6,6 +6,7 @@ summary: "以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
 argument_related_count: 6
 argument_related_level: 0

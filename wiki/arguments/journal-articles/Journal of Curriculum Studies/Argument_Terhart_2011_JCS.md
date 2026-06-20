@@ -6,6 +6,7 @@ summary: "VL 最早的学术书评之一，从元-元分析认识论困境、教
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 15
 argument_related_level: 1

@@ -13,6 +13,7 @@ summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
 argument_related_count: 5
 argument_related_level: 0

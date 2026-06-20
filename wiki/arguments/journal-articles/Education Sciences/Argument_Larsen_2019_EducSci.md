@@ -6,6 +6,7 @@ summary: "从 Bildung、神经可塑性、现象学自由和概念史四维度�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
 argument_related_count: 16
 argument_related_level: 1

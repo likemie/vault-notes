@@ -6,6 +6,7 @@ summary: "综述过去50年产学关系演变，从创新模型、国家政策�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
 argument_related_count: 30
 argument_related_level: 2

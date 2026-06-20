@@ -7,6 +7,7 @@ summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
 argument_related_count: 21
 argument_related_level: 1

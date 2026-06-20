@@ -6,6 +6,7 @@ summary: "利用 Dewey 私人通信、纽约时报报道和美国国务院外交
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
 argument_related_count: 10
 argument_related_level: 0

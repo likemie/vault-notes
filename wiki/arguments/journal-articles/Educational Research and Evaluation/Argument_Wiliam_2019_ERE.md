@@ -6,6 +6,7 @@ summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Some reflections on the role of evidence in improving education"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

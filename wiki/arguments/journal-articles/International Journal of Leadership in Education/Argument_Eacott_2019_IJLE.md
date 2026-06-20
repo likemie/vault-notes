@@ -6,6 +6,7 @@ summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Ranting, raving and complaining: reflections on working against orthodoxy"
 argument_kind: "journal-article"
 argument_related_count: 10
 argument_related_level: 0

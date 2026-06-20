@@ -50,6 +50,7 @@ created: 2026-06-12
 updated: 2026-06-12
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
 argument_related_count: 19
 argument_related_level: 1

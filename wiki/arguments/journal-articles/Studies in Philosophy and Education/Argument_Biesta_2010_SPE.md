@@ -6,6 +6,7 @@ summary: "从认识论、存在论、实践论三维度识别证据本位教育�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
 argument_related_count: 13
 argument_related_level: 0

@@ -8,6 +8,7 @@ summary: "第4章系统介绍教育研究中因果推断的关键议题，包括
 type: argument
 subtype: textbook
 publication_type: book-chapter
+argument_display_title: "Research Methods in Education"
 argument_kind: "book-chapter"
 argument_related_count: 32
 argument_related_level: 2

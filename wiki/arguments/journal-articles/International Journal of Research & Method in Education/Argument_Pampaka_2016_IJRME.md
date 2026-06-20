@@ -8,6 +8,7 @@ summary: "IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Is the educational 'what works' agenda working? Critical methodological developments"
 argument_kind: "journal-article"
 argument_related_count: 9
 argument_related_level: 0

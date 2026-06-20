@@ -6,6 +6,7 @@ summary: "Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
 argument_related_count: 8
 argument_related_level: 0

@@ -6,6 +6,7 @@ summary: "以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Material fallacies of education research evidence and public policy advice"
 argument_kind: "journal-article"
 argument_related_count: 10
 argument_related_level: 0

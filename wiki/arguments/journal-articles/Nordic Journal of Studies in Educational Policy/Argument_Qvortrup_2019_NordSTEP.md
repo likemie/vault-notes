@@ -6,6 +6,7 @@ summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
 argument_related_count: 14
 argument_related_level: 0

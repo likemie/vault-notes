@@ -67,6 +67,7 @@ THEORY_GENERATED_KEYS = {
 }
 THEORY_COLORS = ["#e5e7eb", "#dbeafe", "#e0e7ff", "#ede9fe", "#fce7f3", "#ffedd5", "#fef3c7"]
 ARGUMENT_GENERATED_KEYS = {
+    "argument_display_title",
     "argument_kind",
     "argument_related_count",
     "argument_related_level",
@@ -759,6 +760,43 @@ def argument_color_for(kind: str, level: int) -> str:
     return ARGUMENT_COLORS.get(kind, "#e5e7eb")
 
 
+def clean_citation_title(value: str) -> str:
+    value = re.sub(r"https?://\S+", "", value)
+    value = value.replace("*", "").replace("_", "")
+    value = re.sub(r"\s+", " ", value).strip()
+    return value.strip(" .")
+
+
+def title_from_citation(citation: str) -> str:
+    citation = clean_citation_title(citation)
+    if not citation:
+        return ""
+    match = re.search(r"\(\d{4}[a-z]?\)\.\s+(?P<title>.+?)(?=\.\s+(?:In\s|[A-Z][^.]*(?:Journal|Review|Education|Studies|Research|Policy|Psychology|Science|Sciences|Sociology|Forecast|Development|Philosophy|Evaluation|Economics|Paideia|Intersect)\b)|\.\s*$)", citation)
+    if match:
+        return clean_citation_title(match.group("title"))
+    match = re.search(r"\b\d{4}[a-z]?\)\.?\s+(?P<title>.+?)(?=\.\s+|$)", citation)
+    if match:
+        return clean_citation_title(match.group("title"))
+    return ""
+
+
+def argument_display_title_for(path: Path, meta: dict[str, Any]) -> str:
+    book_title = str(meta.get("book_title") or "").strip()
+    kind = argument_kind_for(path, meta)
+    subtype = str(meta.get("subtype") or "").strip()
+    if book_title and subtype in {"edited-volume", "monograph", "textbook"}:
+        return book_title
+    citation_title = title_from_citation(str(meta.get("citation") or ""))
+    if citation_title:
+        return citation_title
+    if book_title and kind == "book" and subtype != "book-chapter":
+        return book_title
+    if book_title:
+        return book_title
+    title = str(meta.get("title") or "").strip()
+    return title or path.stem
+
+
 def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
     lines = raw_frontmatter.replace("\n", "\n").rstrip("\n").splitlines()
     filtered: list[str] = []
@@ -785,6 +823,7 @@ def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any
             insert_at = idx + 1
 
     generated = [
+        f"argument_display_title: {yaml_string(str(fields['argument_display_title']))}",
         f"argument_kind: {yaml_string(str(fields['argument_kind']))}",
         f"argument_related_count: {int(fields['argument_related_count'])}",
         f"argument_related_level: {int(fields['argument_related_level'])}",
@@ -814,6 +853,7 @@ def update_argument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple
     related_count = count_related_fields(meta)
     related_level, related_stars = argument_stars_for(related_count)
     next_frontmatter = upsert_argument_generated_fields(raw_frontmatter, {
+        "argument_display_title": argument_display_title_for(path, meta),
         "argument_kind": kind,
         "argument_related_count": related_count,
         "argument_related_level": related_level,

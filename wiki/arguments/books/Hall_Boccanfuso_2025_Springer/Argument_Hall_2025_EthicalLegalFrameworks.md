@@ -43,6 +43,7 @@ created: 2026-06-04
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
 argument_related_count: 20
 argument_related_level: 1

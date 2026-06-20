@@ -6,6 +6,7 @@ summary: "以教育哲学分析对 Hattie VL 提出五线批评：评价理论�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 19
 argument_related_level: 1

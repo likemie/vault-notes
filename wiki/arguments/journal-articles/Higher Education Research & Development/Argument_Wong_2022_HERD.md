@@ -9,6 +9,7 @@ summary: "首次对 UK 大学毕业生特质进行全国性系统映射，识别
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355"
 argument_kind: "journal-article"
 argument_related_count: 7
 argument_related_level: 0

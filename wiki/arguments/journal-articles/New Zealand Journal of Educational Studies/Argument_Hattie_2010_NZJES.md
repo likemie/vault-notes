@@ -6,6 +6,7 @@ summary: "Hattie 以第一人称反思教育学者作为“社会批评者与良
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
 argument_related_count: 17
 argument_related_level: 1

@@ -9,6 +9,7 @@ summary: "以学术资本主义多样性、话语分层和新封建等级为核�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
 argument_related_count: 32
 argument_related_level: 2

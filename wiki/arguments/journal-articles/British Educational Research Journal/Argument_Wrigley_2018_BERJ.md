@@ -6,6 +6,7 @@ summary: "以批判实在论对证据本位教育方法论进行三层解构：R
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
 argument_related_count: 36
 argument_related_level: 2

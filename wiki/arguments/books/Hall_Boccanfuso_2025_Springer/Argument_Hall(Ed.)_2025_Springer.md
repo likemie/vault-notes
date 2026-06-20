@@ -7,6 +7,7 @@ summary: "围绕产学合作的对齐（alignment）、参与（engagement）与
 type: argument
 subtype: edited-volume
 publication_type: book
+argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
 argument_related_count: 84
 argument_related_level: 5

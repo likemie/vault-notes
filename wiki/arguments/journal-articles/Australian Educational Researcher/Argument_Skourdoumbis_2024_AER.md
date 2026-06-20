@@ -7,6 +7,7 @@ summary: "运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
 argument_related_count: 34
 argument_related_level: 2

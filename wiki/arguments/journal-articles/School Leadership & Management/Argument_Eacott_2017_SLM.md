@@ -6,6 +6,7 @@ summary: "基于卡拉汉的效率崇拜历史视角，批判性论证澳大利�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
 argument_related_count: 30
 argument_related_level: 2

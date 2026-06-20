@@ -35,6 +35,7 @@ created: 2026-05-20
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Subjects and Subjectivities of the (New) Geopolitics of Knowledge"
 argument_kind: "book"
 argument_related_count: 15
 argument_related_level: 1

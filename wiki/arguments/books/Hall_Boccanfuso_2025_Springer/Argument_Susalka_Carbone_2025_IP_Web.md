@@ -35,6 +35,7 @@ created: 2026-06-03
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
 argument_related_count: 10
 argument_related_level: 0

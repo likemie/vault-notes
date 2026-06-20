@@ -6,6 +6,7 @@ summary: "Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
 argument_related_count: 26
 argument_related_level: 1

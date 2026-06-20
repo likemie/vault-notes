@@ -4,6 +4,7 @@ summary: "基于对粤港澳大湾区关键节点大学教师的半结构化访�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_kind: "journal-article"
 argument_related_count: 6
 argument_related_level: 0

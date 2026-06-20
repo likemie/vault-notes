@@ -7,6 +7,7 @@ summary: "论证 Hattie 是教育理论家（非纯统计学家），追溯其�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
 argument_related_count: 18
 argument_related_level: 1

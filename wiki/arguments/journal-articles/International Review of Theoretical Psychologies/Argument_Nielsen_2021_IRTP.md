@@ -7,6 +7,7 @@ summary: "以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL �
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
 argument_related_count: 20
 argument_related_level: 1

@@ -6,6 +6,7 @@ summary: "Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
 argument_related_count: 32
 argument_related_level: 2

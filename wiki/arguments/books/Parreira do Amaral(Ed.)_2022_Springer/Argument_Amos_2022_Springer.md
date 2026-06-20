@@ -6,6 +6,7 @@ summary: "Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
 argument_related_count: 42
 argument_related_level: 2

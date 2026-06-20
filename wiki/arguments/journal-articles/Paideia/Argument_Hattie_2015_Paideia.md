@@ -6,6 +6,7 @@ summary: "以自传式方法论回顾回应 Visible Learning 的常见批评，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
 argument_related_count: 12
 argument_related_level: 0

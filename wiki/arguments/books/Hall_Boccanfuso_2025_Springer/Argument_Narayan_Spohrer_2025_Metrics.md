@@ -40,6 +40,7 @@ created: 2026-05-28
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
 argument_related_count: 19
 argument_related_level: 1

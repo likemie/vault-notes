@@ -6,6 +6,7 @@ summary: "Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_display_title: "Creative Tension of Sense and the Whole Approach to Knowledge and Practice"
 argument_kind: "book"
 argument_related_count: 18
 argument_related_level: 1
