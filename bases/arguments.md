@@ -38,7 +38,6 @@ views:
     image: argument_related_color
     order:
       - argument_display_title
-      - summary
       - authors
       - year
       - argument_kind
@@ -58,7 +57,6 @@ views:
         - 'argument_related_count >= 30'
     order:
       - argument_display_title
-      - summary
       - authors
       - year
       - argument_kind
