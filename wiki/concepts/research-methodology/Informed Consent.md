@@ -136,8 +136,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ## 争议与批评
 
-> [!tension] 反对知情同意的七项论证
-> （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 82–84]]）：
+> [!tension] 反对知情同意的七项论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 82–84]]）：
 >
 > 1. **某些研究方法使知情同意不可能**：如隐蔽观察（Patrick 的格拉斯哥帮派研究）、涉及欺骗的实验技术（Milgram 服从权威实验）
 > 2. **知情同意可能带来霍桑效应**：告知参与者研究可能干扰其自然行为（Oliver, 2003, p. 53）

@@ -134,9 +134,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    没有充分材料时可删除对应 callout。 %%
 
 > [!debates] 学术争议
-> - **立场名称（代表学者）** 观点说明——关注什么问题、依据什么前提。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场名称（代表学者）** 观点说明——与上一立场的分歧点在哪里。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场名称（代表学者）** 如有第三方立场继续添加。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **争议类型一** 一句话说明这个维度上各方争什么。
+>   - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **争议类型二** 一句话说明另一维度的分歧。
+>   - **学者 C（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 %% 若争论恰好是两方正面对立（二元范式冲突），改用 [!tension]：%%
 

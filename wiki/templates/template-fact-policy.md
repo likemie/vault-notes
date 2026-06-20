@@ -132,9 +132,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    - 外部批评 → [!critique]；政策自述局限 → [!warning] %%
 
 > [!debates] 政策争议
-> - **目标争议（立场名／代表方）** 政策目标是否合理、优先级是否恰当。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **工具争议（立场名／代表方）** 政策工具是否有效、公平或产生副作用。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **执行争议（立场名／代表方）** 责任分配、资源条件或地方执行是否导致偏差。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **目标争议** 政策目标是否合理、优先级是否恰当。
+>   - **学者／机构 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   - **学者／机构 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **工具争议** 政策工具是否有效、公平或产生副作用。
+>   - **学者／机构 C（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **执行争议** 责任分配、资源条件或地方执行是否导致偏差。
+>   - **学者／机构 D（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!citation-card]- 代表性评论
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

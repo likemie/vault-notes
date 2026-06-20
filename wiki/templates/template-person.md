@@ -136,9 +136,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    - 外部指出缺陷 → [!critique]；此人自述局限或边界 → [!warning] %%
 
 > [!debates] 学术争议
-> - **立场名称（代表学者）** 争议对象、争议焦点及依据。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场名称（代表学者）** 与上一立场的分歧点及证据依据。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **余留问题** 若有回应，说明回应；若无，说明仍待讨论的问题。
+> - **争议类型** 一句话说明围绕此人思想或方法产生争议的核心维度。
+>   - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>   - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评此人的思想、方法或影响。
+
+> [!warning] 未解问题与边界
+> 若有回应，说明回应立场；若无，说明学界目前仍存的争议或空白。
