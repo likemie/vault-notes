@@ -115,9 +115,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **结果指标**：学习结果、公平性、制度变化、行为变化或长期影响。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!finding-cards] 效果与评价
-> - **结果一**：结果描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **结果二**：结果描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **边界条件**：效果在哪些地区、群体或执行条件下成立。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **结果一** 结果描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **结果二** 结果描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **边界条件** 效果在哪些地区、群体或执行条件下成立。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!stat-cards]- 核心数据
 > 关键比例、人数、时间跨度、经费、覆盖范围等。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

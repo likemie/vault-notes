@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/research-methodology/Research Question.md",
-                "mode": "preview",
+                "file": "wiki/concepts/research-methodology/Informed Consent.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Research Question"
+              "title": "Informed Consent"
             }
           }
         ]
@@ -192,14 +192,15 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06.md",
-    "wiki/concepts/research-methodology/Research Topic.md",
     "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md",
-    "wiki/concepts/educational-policy-reform/Professional Judgment.md",
-    "wiki/concepts/research-methodology/Research Question.md",
-    "wiki/concepts/research-methodology/Research Scope.md",
-    "wiki/concepts/research-methodology/Literature Review.md",
+    "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "wiki/concepts/research-methodology/Informed Consent.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06.md",
+    "wiki/concepts/research-methodology/Research Scope.md",
+    "wiki/concepts/research-methodology/Research Question.md",
+    "wiki/concepts/research-methodology/Research Topic.md",
+    "wiki/concepts/educational-policy-reform/Professional Judgment.md",
+    "wiki/concepts/research-methodology/Literature Review.md",
     "wiki/concepts/research-methodology/Research Practicability.md",
     "wiki/concepts/research-methodology/Purpose Statement.md",
     "wiki/concepts/research-methodology/Covert Research.md",
@@ -217,7 +218,6 @@
     "wiki/concepts/research-methodology/Heterogeneity.md",
     "wiki/concepts/educational-philosophy/Ontology.md",
     "wiki/templates/template-argument.md",
-    "wiki/templates/template-argument-textbook.md",
     "wiki/concepts/research-methodology/Research Topic.md.tmp.45440.ac804ca6c1f8",
     "raw/019_6 Choosing a research project.txt",
     "wiki/concepts/research-methodology/Non-maleficence and Beneficence in Research.md.tmp.36737.5f558cdd0fa7",

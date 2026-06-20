@@ -28,7 +28,7 @@ related_facts:
   - "[[Centre for Evidence and Implementation]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-06
@@ -71,9 +71,9 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与政策成效
-> - **教师教育大纲的隐形设计者**：AERO 成功通过其证据评估体系和未公开文献，掌控了职前教师大纲“大脑与学习”板块知识的官方定义权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **问责机制行政强硬化的主要推手**：董事会在起草过程中代表了倾向于“资金惩罚和剥夺认证”的立场，成功将柔性政策升级为大学必须对齐的硬性问责大纲。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **跨国证据垄断生态的本土复制**：将英国 [[Education Endowment Foundation|EEF]] 的证据框架和专家网络本地化，完成了“什么有效中介模式”在澳大利亚公共教育决策层面的制度性嵌入。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **教师教育大纲的隐形设计者** AERO 成功通过其证据评估体系和未公开文献，掌控了职前教师大纲“大脑与学习”板块知识的官方定义权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **问责机制行政强硬化的主要推手** 董事会在起草过程中代表了倾向于“资金惩罚和剥夺认证”的立场，成功将柔性政策升级为大学必须对齐的硬性问责大纲。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **跨国证据垄断生态的本土复制** 将英国 [[Education Endowment Foundation|EEF]] 的证据框架和专家网络本地化，完成了“什么有效中介模式”在澳大利亚公共教育决策层面的制度性嵌入。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 

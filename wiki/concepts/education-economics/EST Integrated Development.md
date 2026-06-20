@@ -24,7 +24,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"
+  - "[[Education, science and technology, and talent integrated development: Evidence from China]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -82,9 +82,9 @@ updated: 2026-06-12
 ## 实证发现
 
 > [!finding-cards]
-> 1. **整体上升，教育领先**：2001-2022年中国EST整体上升，东部教育增幅（127%）远超科技（62%）和人才（76%）。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 69)]]
-> 2. **区域路径分化**：东部以教育为引擎，中部以人才为突破口（+57%），西部以科技为驱动力（+71%）。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 69–70)]]
-> 3. **空间格局高度锁定**：80.2%省份-年份观测的空间关联类型保持不变（$SC = 0.849$，$p = 0.089$），科技子系统锁定最强。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 72–73)]]
+> 1. **整体上升，教育领先** 2001-2022年中国EST整体上升，东部教育增幅（127%）远超科技（62%）和人才（76%）。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 69)]]
+> 2. **区域路径分化** 东部以教育为引擎，中部以人才为突破口（+57%），西部以科技为驱动力（+71%）。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 69–70)]]
+> 3. **空间格局高度锁定** 80.2%省份-年份观测的空间关联类型保持不变（$SC = 0.849$，$p = 0.089$），科技子系统锁定最强。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, pp. 72–73)]]
 
 ---
 

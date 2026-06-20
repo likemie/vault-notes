@@ -476,10 +476,10 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[University-Industry Collaboration|产学合作]]格局正经历根本性转型**：全球社会挑战、技术融合（STEM 与 SSH）、商业模式颠覆（如[[Servitisation of Manufacturing|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
-> 2. **政策重心从"资助科学"转向"催化影响"**：美英和欧盟的科学政策日益强调"有影响的知识"和知识转化的路径，基于地点的资助（如英国 [[Strength in Places Fund]]）和长期战略规划正在兴起（pp.5–7）。
-> 3. **合作模式需要创新，但面临系统性实施障碍**：六项关键趋势包括战略性发展本地[[Innovation Ecosystem|创新生态系统]]、新组织载体、大学作为创新连接器、更有效的联合体、企业开放资源和 SSH 整合。实验新模式需要克服既有利益相关者阻力、伙伴匹配困难和风险规避文化（pp.8–17）。
-> 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性**：缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership|UIDP]] Collaboration Metrics 和 Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
+> 1. **[[University-Industry Collaboration|产学合作]]格局正经历根本性转型** 全球社会挑战、技术融合（STEM 与 SSH）、商业模式颠覆（如[[Servitisation of Manufacturing|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
+> 2. **政策重心从"资助科学"转向"催化影响"** 美英和欧盟的科学政策日益强调"有影响的知识"和知识转化的路径，基于地点的资助（如英国 [[Strength in Places Fund]]）和长期战略规划正在兴起（pp.5–7）。
+> 3. **合作模式需要创新，但面临系统性实施障碍** 六项关键趋势包括战略性发展本地[[Innovation Ecosystem|创新生态系统]]、新组织载体、大学作为创新连接器、更有效的联合体、企业开放资源和 SSH 整合。实验新模式需要克服既有利益相关者阻力、伙伴匹配困难和风险规避文化（pp.8–17）。
+> 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性** 缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership|UIDP]] Collaboration Metrics 和 Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
 
 ---
 

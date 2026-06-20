@@ -26,7 +26,7 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-06
@@ -68,8 +68,8 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与政策成效
-> - **大纲指定文献的意识形态嵌入**：通过将 Sweller (2021) 确立为必读大纲参考文献，成功使保守智库资助的政策宣传册上升为全国大学生的法定强制消费品。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
-> - **“[[Policy Network|理念编排]]”通道的打通**：通过将董事会成员 Buckingham 送入 [[Australian Institute for Teaching and School Leadership|AITSL]] 作为董事，打通了从智库研发、政策游说、专家组撰写到国家合规审计的公私利益闭环。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **大纲指定文献的意识形态嵌入** 通过将 Sweller (2021) 确立为必读大纲参考文献，成功使保守智库资助的政策宣传册上升为全国大学生的法定强制消费品。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
+> - **“[[Policy Network|理念编排]]”通道的打通** 通过将董事会成员 Buckingham 送入 [[Australian Institute for Teaching and School Leadership|AITSL]] 作为董事，打通了从智库研发、政策游说、专家组撰写到国家合规审计的公私利益闭环。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 

@@ -24,7 +24,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-16
@@ -63,8 +63,8 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与政策成效
-> - **本土循证中介机构的催生**：必和必拓基金会资助的项目直接为澳大利亚 [[Australian Education Research Organisation|AERO]] 提供了机制蓝本与人事交叉环境，成为推动澳大利亚教师教育改革的隐形手。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **企业理性对公共教育的渗透**：通过资助推广“什么有效”的评级和数据模型，将复杂的社会互动实践降维重塑为统一的、可按绩效打分的企业化知识库。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **本土循证中介机构的催生** 必和必拓基金会资助的项目直接为澳大利亚 [[Australian Education Research Organisation|AERO]] 提供了机制蓝本与人事交叉环境，成为推动澳大利亚教师教育改革的隐形手。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **企业理性对公共教育的渗透** 通过资助推广“什么有效”的评级和数据模型，将复杂的社会互动实践降维重塑为统一的、可按绩效打分的企业化知识库。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 

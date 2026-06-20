@@ -20,7 +20,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Source_Name]]"
 part_of:
 status: draft
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -118,8 +119,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **方法／材料线索**：不同章节的材料如何互相支撑或限制。
 
 > [!finding-cards] 综合发现
-> - **发现一**：综合各章提炼的核心发现，附章节或页码来源。
-> - **发现二**：说明该发现来自哪些章节，不机械搬运所有小发现。
+> - **发现一** 综合各章提炼的核心发现，附章节或页码来源。
+> - **发现二** 说明该发现来自哪些章节，不机械搬运所有小发现。
 
 > [!stat-cards]- 核心数据
 > 有具体数字、样本量、效应量或比例时，单独放在这里。（第X章，p.X）

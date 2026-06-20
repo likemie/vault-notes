@@ -63,17 +63,19 @@ updated: 2026-06-20
 
 ## 围绕概念形成的命题
 
-> [!claim] 原创性不等于贡献
-> 研究必须是原创的（original）、重要的（significant）、非琐碎的（non-trivial）、相关的（relevant）、适时的（topical）、对更广泛受众有趣（interesting to a wider audience）且能推进领域前进（advance the [[Champ|field]]）。但仅凭原创数据和原创课题是不够的——研究需要超越原创数据，选择一个重要的课题，真正为理解和实践做出重要贡献（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> [!proposition-chain] 原创性不等于贡献
+> **前提**：研究必须是原创的、重要的、非琐碎的、相关的、适时的、对更广泛受众有趣且能推进领域前进（advance the [[Champ|field]]）。
+> **机制**：但仅凭原创数据和原创课题是不够的——研究需要超越原创数据，选择一个重要的课题，真正为理解和实践做出重要贡献。
+> **条件**：研究应该能够推动领域前进，也许只是小规模、零散、渐进（small-scale, piecemeal, incremental）的方式。
+> **结果**：没有这项研究，该领域将更加贫乏。
 
-> [!claim] 贡献的推进方式
-> 研究应该能够推动领域前进，也许只是小规模、零散、渐进（small-scale, piecemeal, incremental）的方式，但无论如何要推进它：没有这项研究，该领域将更加贫乏（without the research, the field would be poorer）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）
 
 ---
 
 ## 从贡献到影响
 
-> [!implication] 贡献与影响的区分
+> [!implication]- 贡献与影响的区分
 > [[Evaluation Research|评估研究]]价值不仅包括研究对知识做出的贡献（contribution to knowledge），还包括该知识的影响（impact）。资助机构通常要求说明：研究将产生什么影响（impact）、被谁吸收（uptake）、产生什么效果（effects）、以及对谁产生影响。此外，明确研究将带来什么益处（benefit）以及对谁有益，有助于聚焦研究及其受众（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---

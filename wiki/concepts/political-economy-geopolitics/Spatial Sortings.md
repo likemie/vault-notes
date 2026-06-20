@@ -37,9 +37,9 @@ related_persons:
   - "[[Sami Moisio]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Education, science and technology, and talent integrated development: Evidence from China]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -123,16 +123,16 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 ### 知识经济化与教育枢纽中的空间分选
 
 > [!finding-cards]
-> 1. **枢纽与边缘的分化**：增长潜力集中在 [[Knowledge-Based Economy|KBE]] 的城市枢纽中，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
-> 2. **三次演变中的空间分选模式**：从晚期凯恩斯主义技术极化到智能性城市政策再到创业经济——每次演变都重新配置了空间赢家与输家的版图([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])。
-> 3. **三个核心[[Research Problem|研究议题]]**：[[Argument_Moisio_2022_Springer|Moisio (2022, pp.31–32)]] 确定了空间分选研究的三个方向：
+> 1. **枢纽与边缘的分化** 增长潜力集中在 [[Knowledge-Based Economy|KBE]] 的城市枢纽中，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
+> 2. **三次演变中的空间分选模式** 从晚期凯恩斯主义技术极化到智能性城市政策再到创业经济——每次演变都重新配置了空间赢家与输家的版图([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])。
+> 3. **三个核心[[Research Problem|研究议题]]** [[Argument_Moisio_2022_Springer|Moisio (2022, pp.31–32)]] 确定了空间分选研究的三个方向：
 >    - KBE 通过不同种类的空间分选被根本性地构成——需要批判性地审视这些分选的包容与排斥机制。
 >    - 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的驱逐以喂养高科技和高金融。
 >    - 国家在导致空间分选的过程中扮演关键角色，但这仍是一个研究不足的议题。
 
 > [!evidence-grid-a] 教育枢纽中的空间分选
-> - **新加坡与东南亚**：[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的案例研究显示教育枢纽在有空隙的环境中繁荣——有发达高教体系的新加坡在缺乏类似条件的东南亚区域获得不对称优势。关键机制不仅是通过投资集中产生分选，还通过**维持落差**来自我强化：成功的枢纽有意维持周边地区的低高教发展水平以确保持续优势([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])。
-> - **阿联酋内部的空间分选**：阿布扎比（[[Cultural Diplomacy|文化外交]]枢纽）与迪拜（教育产业枢纽）在同一联邦体系内形成空间分工——空间分选不仅发生在国家之间，也发生在同一国家内部的不同酋长国之间（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]]）。
+> - **新加坡与东南亚** [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的案例研究显示教育枢纽在有空隙的环境中繁荣——有发达高教体系的新加坡在缺乏类似条件的东南亚区域获得不对称优势。关键机制不仅是通过投资集中产生分选，还通过**维持落差**来自我强化：成功的枢纽有意维持周边地区的低高教发展水平以确保持续优势([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])。
+> - **阿联酋内部的空间分选** 阿布扎比（[[Cultural Diplomacy|文化外交]]枢纽）与迪拜（教育产业枢纽）在同一联邦体系内形成空间分工——空间分选不仅发生在国家之间，也发生在同一国家内部的不同酋长国之间（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]]）。
 
 ---
 

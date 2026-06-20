@@ -1,15 +1,14 @@
 ---
 title: Visible Learning
 aliases:
-  - 可见学习
   - 可见的学习
   - VL
-summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
+summary: John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。
 type: concept
-domain: "instruction-pedagogy"
+domain: instruction-pedagogy
 related_count: 91
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: ⭐⭐⭐⭐⭐
 related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -94,25 +93,25 @@ related_facts:
   - "[[Australian Curriculum]]"
   - "[[Gonski Reforms]]"
 related_arguments:
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Bainbridge_2022_ROE]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Hattie_2015_SOTLP]]"
-  - "[[Argument_Fredens_2015_Paideia]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Bates_2017_CognitionEducationTrust]]"
-  - "[[Argument_Nordahl_2015_Paideia]]"
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Rømer_2018]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Argument_Laursen_2015_Paideia]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[The applicability of Visible Learning to higher education]]"
+  - "[[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]]"
+  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[Darwin's Finch: A Short History of Cognition]]"
+  - "[[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]]"
+  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
+  - "[[Er Hattie og co]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -210,8 +209,8 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 #### 社会脑与镜像神经元
 
 > [!finding-cards] 社会脑（[[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71–72]]）
-> - **镜像神经元与共情**：镜像神经元让我们镜像他人情感；Damasio 称此为"as-if loop"——共情体验激活脑中相同区域。积极社会关系（尤其是早期[[Student-Teacher Relationship|师生关系]]）对学校发展至关重要。
-> - **默认网络的创意功能**：注意力中断时大脑转入默认网络，产生联想与创意发展——Hattie & Yates 仅强调注意力中断的缺点，忽略了这一功能。
+> - **镜像神经元与共情** 镜像神经元让我们镜像他人情感；Damasio 称此为"as-if loop"——共情体验激活脑中相同区域。积极社会关系（尤其是早期[[Student-Teacher Relationship|师生关系]]）对学校发展至关重要。
+> - **默认网络的创意功能** 注意力中断时大脑转入默认网络，产生联想与创意发展——Hattie & Yates 仅强调注意力中断的缺点，忽略了这一功能。
 
 ---
 
@@ -220,8 +219,8 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 ### 教与学的可见性
 
 > [!finding-cards] 核心命题
-> - **通过学生眼睛看课堂**：教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
-> - **教师话语的盲点**：Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言转录并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
+> - **通过学生眼睛看课堂** 教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
+> - **教师话语的盲点** Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言转录并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
 
 ### "Know thy impact"
 
@@ -270,9 +269,9 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成功教师的核心循环：
 
 > [!finding-cards] DIE 循环
-> - **D — Diagnose（诊断）**：在课程开始时诊断学生状态
-> - **I — Intervene（干预）**：当前干预未见效时切换至备选干预方案
-> - **E — Evaluate（评估）**：评估学生对干预的反应
+> - **D — Diagnose（诊断）** 在课程开始时诊断学生状态
+> - **I — Intervene（干预）** 当前干预未见效时切换至备选干预方案
+> - **E — Evaluate（评估）** 评估学生对干预的反应
 
 ### 反馈文化
 

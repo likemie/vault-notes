@@ -25,7 +25,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Research Methods in Education · Ch05]]"
 confidence: medium
 status: draft
 created: 2026-06-19
@@ -84,9 +84,9 @@ updated: 2026-06-19
 > [!finding-cards] 行善的收益分配问题
 > 行善的核心困境不在于是否应当产生收益，而在于**谁受益**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 90–91]]）：
 >
-> - **研究者可能获得**：晋升、出版、学位、研究赞助和名声
-> - **参与者可能状态**：原封不动——处于弱势、在肮脏和资源不足的条件下生活和工作
-> - **Whyte 的见证**：在 Whyte (1955)《Street Corner Society》中，线人苦涩地评论：当地人帮助了许多研究者成名并获得博士学位，却未改善当地人的生活质量
+> - **研究者可能获得** 晋升、出版、学位、研究赞助和名声
+> - **参与者可能状态** 原封不动——处于弱势、在肮脏和资源不足的条件下生活和工作
+> - **Whyte 的见证** 在 Whyte (1955)《Street Corner Society》中，线人苦涩地评论：当地人帮助了许多研究者成名并获得博士学位，却未改善当地人的生活质量
 >
 > 核心伦理问题是：这项研究将为参与者和更广泛的社区做什么，而不仅仅是为研究者做什么？
 

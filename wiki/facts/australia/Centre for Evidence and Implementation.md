@@ -25,7 +25,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-16
@@ -66,8 +66,8 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与政策成效
-> - **闭环式[[Policy Science in Comparative Education|政策科学]]大纲的构建**：其桌面审查报告虽然承认本地证据有限，但仍然被 [[Australian Education Research Organisation|AERO]] 作为强推大一统“脑科学”核心课程的隐藏大纲设计基础。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **证据决策垄断的演化**：作为外部中介，其研究免受学术共同体和大学教师教育者的同行评审，却依靠[[Policy Network|政策网络]]直接在全国教师教育大纲中获得了法定真理的优先引述地位。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **闭环式[[Policy Science in Comparative Education|政策科学]]大纲的构建** 其桌面审查报告虽然承认本地证据有限，但仍然被 [[Australian Education Research Organisation|AERO]] 作为强推大一统“脑科学”核心课程的隐藏大纲设计基础。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **证据决策垄断的演化** 作为外部中介，其研究免受学术共同体和大学教师教育者的同行评审，却依靠[[Policy Network|政策网络]]直接在全国教师教育大纲中获得了法定真理的优先引述地位。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 

@@ -25,7 +25,7 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Education Research Organisation]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-06
@@ -58,8 +58,8 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与政策成效
-> - **商业红利与政策锁死**：每年稳定从 [[LANTITE]] 统考中获得约 370 万澳元的巨额营业收入，这导致政策评估极易受到非政府中介组织商业利益的隐形绑架。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **职前教师“[[Gatekeepers|守门人]]”地位确立**：凭借对读写算术测试命题、通过率与评估标准的独立控制，ACER 实质上获得了决定哪些在校生可以获得准予毕业入职门票的巨大权力。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **商业红利与政策锁死** 每年稳定从 [[LANTITE]] 统考中获得约 370 万澳元的巨额营业收入，这导致政策评估极易受到非政府中介组织商业利益的隐形绑架。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **职前教师“[[Gatekeepers|守门人]]”地位确立** 凭借对读写算术测试命题、通过率与评估标准的独立控制，ACER 实质上获得了决定哪些在校生可以获得准予毕业入职门票的巨大权力。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 

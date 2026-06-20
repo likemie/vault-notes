@@ -6,10 +6,10 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化研究问题与假设、质性研究问题、混合方法研究问题三种路径，以及30种问题类型谱系和无研究问题的边界情况"
 type: concept
 domain: "research-methodology"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
   - source/textbook
@@ -19,10 +19,7 @@ related_concepts:
   - "[[Integration in Mixed Methods]]"
   - "[[Research Problem]]"
   - "[[Variable]]"
-  - "[[Causality]]"
-  - "[[Self-Efficacy]]"
   - "[[Class Size]]"
-  - "[[Policy Borrowing]]"
   - "[[Research Utilization]]"
   - "[[Descriptive Research Question]]"
   - "[[Alternative Hypothesis]]"
@@ -42,8 +39,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Ethnography]]"
 related_persons: []
-related_facts:
-  - "[[PISA]]"
+related_facts: []
 related_arguments:
   - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
   - "[[Research Methods in Education · Ch06]]"
@@ -85,43 +81,21 @@ updated: 2026-06-20
 
 ## 研究问题的类型谱系
 
-研究问题可以关注的方面极其广泛（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；Newby, 2010；University of Berkeley, 2002）：
+研究问题可以关注的方面极其广泛，教材列举了30种类型，可归纳为六大类别（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；Newby, 2010；University of Berkeley, 2002）：
 
-> [!col1-table] 研究问题的30种类型
-> | 类型 | 核心追问 | 示例问题 |
+> [!info] 研究问题的六大类别
+> | 类别 | 包含的问题类型 | 代表性示例 |
 > |---|---|---|
-> | What?（是什么） | 这是什么？ | 什么是深度学习？ |
-> | Why?（为何） | 为什么发生？ | 为什么男教师在小学教师中比例偏低？ |
-> | How?（如何） | 如何发生／如何做？ | 校长如何在学校中建立协作文化？ |
-> | 预测（Prediction） | 将会发生什么？ | 在线学习是否会提高农村学生的大学入学率？ |
-> | 理解（Understanding） | 如何理解这一现象？ | 新手教师如何理解课堂权威的建立过程？ |
-> | 探索（Exploring） | 这个领域里有什么？ | 疫情期间教师的在线教学实践有哪些类型？ |
-> | 因果（[[Causality\|causation]]） | 什么导致了什么？ | 频繁测试是否提高了学生成绩？ |
-> | 检验（Testing） | 某个理论／假设是否成立？ | 自我决定理论能否解释中国大学生的学术拖延？ |
-> | 解释（Explanation） | 如何解释这一现象？ | 什么因素解释了不同国家[[PISA]]成绩的差异？ |
-> | 描述（Description） | 现象的特征是什么？ | 大学新生的学术适应有哪些主要特征？ |
-> | 关系（Relations） | A和B之间有什么关系？ | 教师[[Self-Efficacy\|自我效能感]]与学生参与度之间有什么关系？ |
-> | 比较（Comparisons） | A和B有什么不同？ | 公立和私立学校在校本课程实施上有何不同？ |
-> | 相关（Correlations） | A和B是否共同变化？ | [[Class Size\|班级规模]]与学生成绩之间是否存在相关？ |
-> | 过程（Processes） | 事情如何展开？ | 一项新教育政策从发布到课堂实施经过了哪些过程？ |
-> | 因素（Factors） | 哪些因素在起作用？ | 影响教师留任的关键因素有哪些？ |
-> | 评价（Evaluation） | 某个方案是否有效？ | 该课后辅导计划是否提高了学生成绩？ |
-> | 功能或目的（Function/Purpose） | 它是做什么用的？ | 学校排名系统的社会功能是什么？ |
-> | 如何达成某结果（How to achieve outcomes） | 怎么做才能成功？ | 如何在学校中有效推广协作式教学？ |
-> | 类型（Types） | 有哪些种类？ | 教育[[Policy Borrowing\|政策借用]]有哪几种类型？ |
-> | 属性与特征（Properties/Characteristics） | 它有什么特征？ | 高效教师团队有哪些共同属性？ |
-> | 阶段（Stages） | 经过哪些阶段？ | 教师专业身份发展经历了哪些阶段？ |
-> | 结构（Structures） | 内部结构是什么？ | 一个国家的教育问责体系由哪些层级构成？ |
-> | 替代方案（Alternatives） | 有什么其他选择？ | 标准化考试之外有哪些替代的评估方式？ |
-> | 如何改进或发展（How to improve or develop） | 如何变得更好？ | 如何改进初任教师的入职培训？ |
-> | What if?（假如） | 假如……会怎样？ | 假如取消标准化考试，学校教学会如何改变？ |
-> | Who?（谁） | 谁参与了？ | 谁从课外辅导中受益最多？ |
-> | When?（何时） | 什么时候发生？ | 教师职业倦怠通常在职业生涯的哪个阶段出现？ |
-> | Where?（何处） | 在哪里发生？ | 校园欺凌主要发生在学校的哪些空间？ |
-> | 如何做某事（How to do something） | 操作步骤是什么？ | 如何设计和实施一项学校改进计划？ |
-> | 如何达成某事（How to achieve something） | 实现目标的路径？ | 如何实现有效的家校合作？ |
+> | **基本疑问** | What、Why、How、What if、Who、When、Where | 为什么男教师在小学教师中比例偏低？ |
+> | **探究功能** | 预测、理解、探索、因果、检验、解释、描述 | 频繁测试是否提高了学生成绩？（因果） |
+> | **关系与分析** | 关系、比较、相关、过程、因素 | [[Class Size\|班级规模]]与学生成绩之间是否存在相关？ |
+> | **评价与判断** | 评价、功能或目的 | 该课后辅导计划是否提高了学生成绩？ |
+> | **分类与描述** | 类型、属性与特征、阶段、结构 | 教师专业身份发展经历了哪些阶段？ |
+> | **行动导向** | 如何达成某结果、如何做某事、如何改进或发展、替代方案 | 如何改进初任教师的入职培训？ |
 
-> [!tip] 研究问题与决策
+完整30种类型详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]。
+
+> [!decisions] 研究问题与决策
 > 在决定是否追求某项研究时，审视研究问题本身的清晰性、易答性、全面性、可理解性、具体性、复杂性、难度、焦点、目的、所需数据类型和答案效用。但这不是说研究必须在研究问题上一帆风顺——许多最有用的研究恰恰源于复杂问题和难以回答的研究问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---

@@ -28,7 +28,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-06
@@ -71,9 +71,9 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 政策影响与后果
-> - **教师教育机构自主权的缩减**：通过法定制式附表，实质上剥夺了大学教师教育者独立开发课程大纲和评价职前学习效果的传统能动权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
-> - **政策制定角色的史无前例转移**：AITSL 从一个单纯的“行业标准合规检查者”转变为可以直接插手并规定教学大纲的“课程决定者”，在[[Policy Network|政策网络]]中形成了前所未有的不对称权力平衡。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **监视治理与脚本化教学的蔓延**：通过与毕业生毕业考核（毕业生标准 1.1/1.2）及绩效经费挂钩，加剧了对教师工作的“绩效监视”，迫使课堂教学走向死板的脚本化模式。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **教师教育机构自主权的缩减** 通过法定制式附表，实质上剥夺了大学教师教育者独立开发课程大纲和评价职前学习效果的传统能动权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
+> - **政策制定角色的史无前例转移** AITSL 从一个单纯的“行业标准合规检查者”转变为可以直接插手并规定教学大纲的“课程决定者”，在[[Policy Network|政策网络]]中形成了前所未有的不对称权力平衡。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **监视治理与脚本化教学的蔓延** 通过与毕业生毕业考核（毕业生标准 1.1/1.2）及绩效经费挂钩，加剧了对教师工作的“绩效监视”，迫使课堂教学走向死板的脚本化模式。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 

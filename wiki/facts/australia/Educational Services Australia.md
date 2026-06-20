@@ -24,7 +24,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-06
@@ -57,8 +57,8 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **制度性利益闭环的编织**：ESA 作为统一的后台母体，同时支撑了国家课程局（ACARA）、认证把关机构（[[Australian Institute for Teaching and School Leadership|AITSL]]）和官方证据中介（[[Australian Education Research Organisation|AERO]]）的平稳运转。这为教育改革搭建起一个高度集成的、从“大纲设定 → 课程认证 → 证据判定”的跨界控制网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **证据与合规的行政强制化**：由共享底座支撑的技术网络，极大加速了标准化政策（如《强劲开端》附表的核心内容认证标准）在大学 ITE 项目中的合规审计效率，确立了数字和合规监控的统治力。
+> - **制度性利益闭环的编织** ESA 作为统一的后台母体，同时支撑了国家课程局（ACARA）、认证把关机构（[[Australian Institute for Teaching and School Leadership|AITSL]]）和官方证据中介（[[Australian Education Research Organisation|AERO]]）的平稳运转。这为教育改革搭建起一个高度集成的、从“大纲设定 → 课程认证 → 证据判定”的跨界控制网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **证据与合规的行政强制化** 由共享底座支撑的技术网络，极大加速了标准化政策（如《强劲开端》附表的核心内容认证标准）在大学 ITE 项目中的合规审计效率，确立了数字和合规监控的统治力。
 
 ---
 

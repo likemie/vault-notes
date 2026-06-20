@@ -5,10 +5,10 @@ aliases:
   - 专业判断力
 summary: 教师在复杂、开放的教学情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把概率性的研究证据转化为具体教育行动的关键解释性中介
 type: concept
-domain: educational-policy-reform
+domain: "educational-policy-reform"
 related_count: 18
 related_level: 1
-related_stars: ⭐
+related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
   - professional-judgment
@@ -35,9 +35,9 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments:
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
 confidence: medium
 status: draft
 created: 2026-05-03

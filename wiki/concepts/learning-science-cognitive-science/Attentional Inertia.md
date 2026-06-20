@@ -24,7 +24,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Bolton_2017_ArchPsych]]"
+  - "[[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]]"
 confidence: medium
 status: draft
 created: '2026-06-10'
@@ -67,5 +67,5 @@ updated: '2026-06-10'
 ## 实证发现
 
 > [!finding-cards] 发展关键期
-> 1. **4–5岁成熟转折**：注意力惯性的克服具有显著的年龄依赖性。4–5 岁是完成 DCCS 切换后阶段的转折点，此后多数儿童能够成功压制旧规则并顺利实现[[Cognitive Shifting|认知转换]]。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
-> 2. **神经发育对齐**：注意力惯性随年龄增长而降低，与[[Prefrontal Cortex|前额叶皮层]]灰质在 3 岁左右达到最大密度后开始进行选择性[[Synaptic Pruning|突触修剪]]（Synaptic Pruning），以及 2–5 岁间 dlPFC 白质体积和第 III 层锥体细胞树突轴突[[Myelination|髓鞘化]]（Myelination）的快速扩张呈同步平行轨迹。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11–12)]]
+> 1. **4–5岁成熟转折** 注意力惯性的克服具有显著的年龄依赖性。4–5 岁是完成 DCCS 切换后阶段的转折点，此后多数儿童能够成功压制旧规则并顺利实现[[Cognitive Shifting|认知转换]]。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
+> 2. **神经发育对齐** 注意力惯性随年龄增长而降低，与[[Prefrontal Cortex|前额叶皮层]]灰质在 3 岁左右达到最大密度后开始进行选择性[[Synaptic Pruning|突触修剪]]（Synaptic Pruning），以及 2–5 岁间 dlPFC 白质体积和第 III 层锥体细胞树突轴突[[Myelination|髓鞘化]]（Myelination）的快速扩张呈同步平行轨迹。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11–12)]]

@@ -230,17 +230,17 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **有缺陷的数据输入**：[[John Hattie|哈蒂]]通过对 4 项高度分化的[[Meta-analysis|元分析]]进行不加权算的算术平均，得出了[[Whole Language|全语言]][[Effect Size|效应量]]为 d = 0.06 的结论。然而，其中 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）存在将早期[[Language Experience Approach|语言经验法]]混同于全语言的分类与时代错误 (pp.144-145)。
-> 2. **非对称的数据审查**：哈蒂对极端负面值且计算存在多处反转错误的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）元分析（d = -0.65）未做任何审查即予以采纳；却唯独对显示正面效应的 Gee (1995) 元分析（d = 0.65）进行人工干预，删除三项研究并强行将其清零 (pp.145-148)。
-> 3. **意识形态与偏见驱动**：哈蒂在《[[Visible Learning|可见学习]]》中对[[Constructivist Paradigm|建构主义]]、[[Jean-Jacques Rousseau|卢梭]]（Jean-Jacques Rousseau）式方法及“教师作为便利者”表达了明确的敌意，极度偏爱[[Direct Instruction|直接教学]]与系统拼读。这种先验偏见直接导致其[[Winnowing|数据筛选]]标准的不对称 (pp.147-150)。
-> 4. **宏观数据对公共政策的绑架**：维多利亚州教育部将《可见学习》作为 [[Victorian HITS and Literacy Toolkit|HITS]] 和读写工具箱的首要实证参考，展示了这一存在方法论瑕疵的伪科学论证如何通过商业共谋，深度影响并约束了教师的教学专业自主权 (p.141)。
+> 1. **有缺陷的数据输入** [[John Hattie|哈蒂]]通过对 4 项高度分化的[[Meta-analysis|元分析]]进行不加权算的算术平均，得出了[[Whole Language|全语言]][[Effect Size|效应量]]为 d = 0.06 的结论。然而，其中 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）存在将早期[[Language Experience Approach|语言经验法]]混同于全语言的分类与时代错误 (pp.144-145)。
+> 2. **非对称的数据审查** 哈蒂对极端负面值且计算存在多处反转错误的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）元分析（d = -0.65）未做任何审查即予以采纳；却唯独对显示正面效应的 Gee (1995) 元分析（d = 0.65）进行人工干预，删除三项研究并强行将其清零 (pp.145-148)。
+> 3. **意识形态与偏见驱动** 哈蒂在《[[Visible Learning|可见学习]]》中对[[Constructivist Paradigm|建构主义]]、[[Jean-Jacques Rousseau|卢梭]]（Jean-Jacques Rousseau）式方法及“教师作为便利者”表达了明确的敌意，极度偏爱[[Direct Instruction|直接教学]]与系统拼读。这种先验偏见直接导致其[[Winnowing|数据筛选]]标准的不对称 (pp.147-150)。
+> 4. **宏观数据对公共政策的绑架** 维多利亚州教育部将《可见学习》作为 [[Victorian HITS and Literacy Toolkit|HITS]] 和读写工具箱的首要实证参考，展示了这一存在方法论瑕疵的伪科学论证如何通过商业共谋，深度影响并约束了教师的教学专业自主权 (p.141)。
 
 > [!stat-cards]- 核心数据
-> - **d = 0.06**：哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然成长率 (pp.142-143)。
-> - **d = 0.60**：哈蒂为拼读教学程序（Phonics）计算出的高效益值，常被拼读倡导者用作“阅读战争”获胜的证据 (p.142)。
-> - **d = -0.65**：[[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告的极度异常的负面效应量，被哈蒂直接采纳，但克拉申指出其原始计算多处方向反转 (pp.145-147)。
-> - **d = 0.83**：[[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告中被哈蒂忽略的“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。
-> - **d = 0.65 修正为 0**：Gee (1995) 元分析的原始向正效应量，被哈蒂以剔除 Trachtenburg (d=1.7) 等三项正面研究为手段强行清零 (p.148)。
+> - **d = 0.06** 哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然成长率 (pp.142-143)。
+> - **d = 0.60** 哈蒂为拼读教学程序（Phonics）计算出的高效益值，常被拼读倡导者用作“阅读战争”获胜的证据 (p.142)。
+> - **d = -0.65** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告的极度异常的负面效应量，被哈蒂直接采纳，但克拉申指出其原始计算多处方向反转 (pp.145-147)。
+> - **d = 0.83** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告中被哈蒂忽略的“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。
+> - **d = 0.65 修正为 0** Gee (1995) 元分析的原始向正效应量，被哈蒂以剔除 Trachtenburg (d=1.7) 等三项正面研究为手段强行清零 (p.148)。
 
 ---
 

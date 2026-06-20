@@ -46,7 +46,7 @@ related_facts:
   - "[[Rose Report]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
 part_of: ''
 status: draft
 created: 2026-05-03
@@ -118,9 +118,9 @@ citation_aliases: []
 ## 实证发现
 
 > [!finding-cards] 围绕全语言[[Effect Size|效应量]]的实证争议
-> 1. **合成低效应量的假象**：[[John Hattie|哈蒂]]宣称全语言 d = 0.06（几乎无效果）。但帕特里克·奥康纳 (Patrick O'Connor, 2020) 证实，该数值是通过对 4项分化严重的[[Meta-analysis|元分析]]进行不加权算术平均（0.09, 0.15, 0.65, -0.65）得出的粗糙结果，遮蔽了底层数据的张力 (p.145)。
-> 2. **纯粹全语言的高收益**：[[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）的研究显示，如果完全符合严格定义（无技能切片、无全班统一[[Homework|作业]]、无孤立技能操练），“纯粹全语言”对低社会经济地位 (SES) 学童的**效应量高达正向 0.83** (p.146-147)。
-> 3. **质性与情感维度的优势**：达尔与弗雷蓬（Dahl & Freppon, 1994）的对比实验显示，全语言班儿童在自主读写兴趣、[[Self-Efficacy|自我效能感]]、语言的句法与词汇特征生成上显著优于以练习册为主的传统班级。
+> 1. **合成低效应量的假象** [[John Hattie|哈蒂]]宣称全语言 d = 0.06（几乎无效果）。但帕特里克·奥康纳 (Patrick O'Connor, 2020) 证实，该数值是通过对 4项分化严重的[[Meta-analysis|元分析]]进行不加权算术平均（0.09, 0.15, 0.65, -0.65）得出的粗糙结果，遮蔽了底层数据的张力 (p.145)。
+> 2. **纯粹全语言的高收益** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）的研究显示，如果完全符合严格定义（无技能切片、无全班统一[[Homework|作业]]、无孤立技能操练），“纯粹全语言”对低社会经济地位 (SES) 学童的**效应量高达正向 0.83** (p.146-147)。
+> 3. **质性与情感维度的优势** 达尔与弗雷蓬（Dahl & Freppon, 1994）的对比实验显示，全语言班儿童在自主读写兴趣、[[Self-Efficacy|自我效能感]]、语言的句法与词汇特征生成上显著优于以练习册为主的传统班级。
 
 ---
 

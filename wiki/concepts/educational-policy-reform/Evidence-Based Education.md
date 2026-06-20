@@ -126,35 +126,34 @@ related_facts:
   - "[[Gonski Reforms]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
-  - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Slavin_2002_ER]]"
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Wiliam_2019]]"
-  - "[[Argument_Bainbridge_2022_ROE]]"
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Zapp_2022_Springer]]"
-  - "[[Argument_Zhao_2017_JEC]]"
-  - "[[Argument_Cowen_2015_CHESS]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Nelson_2017_ER]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
-  - "[[Argument_Nordahl_2015_Paideia]]"
-  - "[[Argument_Blass_2020_JESP]]"
-  - "[[Argument_Møller_2017]]"
-  - "[[Argument_Hitchcock_2015_JBE]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Slavin_2021_ROE]]"
-  - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Pampaka_2016_IJRME]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Cowen_2019_ERE]]"
-  - "[[Argument_Berk_2011_ER]]"
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Evidence-based education policies: Transforming educational practice and research]]"
+  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
+  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
+  - "[[What works may hurt: Side effects in education]]"
+  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[Evidence-informed practice in education: meanings and applications]]"
+  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]]"
+  - "[[Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia]]"
+  - "[[What Works Clearinghouse standards and generalization of single-case design evidence]]"
+  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]]"
+  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
+  - "[[Is the educational 'what works' agenda working? Critical methodological developments]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
+  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[Material fallacies of education research evidence and public policy advice]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -415,16 +414,16 @@ updated: '2026-06-17'
 > EBE 面临来自[[Epistemology|认识论]]、方法论、实施、制度、政治经济学和文化政治等多个维度的系统性质疑，构成了教育研究中规模最大、持续时间最长的学术争议之一。以下按维度梳理各批判阵营的核心论点和论据。
 
 > [!finding-cards] 实证发现总览
-> 1. **清算中心结论不一致**：Wadhwa 等发现不同教育证据清理机构对同一项目的评级一致性极低，仅为 30% 左右。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
-> 2. **大规模改革效果缺失**：英美主导的 [[Randomised Controlled Trials|RCT]] 评估投资巨大，但在大规模实施后，高达 90% 的干预实验显示零效应或未达显著影响。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 231]]
-> 3. **[[Non-intervention Research|非干预研究]]的越界 RFP**：非[[Experimental Research|实验研究]]中高达 66% 包含[[Causality|因果性]][[Recommendations for Practice|实践建议]]（RFP），将相关性或观察性发现过度[[Transfer Translation Transformation|转译]]为行动指令。[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]
-> 4. **前测失衡产生数据伪像**：Wrigley 解构发现高评级拼读项目 RCT 宣称的 $+0.24SD$ [[Effect Size|效应量]]，在匹配前测分数子集后，净效应其实是 $+0.00SD$。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
+> 1. **清算中心结论不一致** Wadhwa 等发现不同教育证据清理机构对同一项目的评级一致性极低，仅为 30% 左右。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
+> 2. **大规模改革效果缺失** 英美主导的 [[Randomised Controlled Trials|RCT]] 评估投资巨大，但在大规模实施后，高达 90% 的干预实验显示零效应或未达显著影响。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 231]]
+> 3. **[[Non-intervention Research|非干预研究]]的越界 RFP** 非[[Experimental Research|实验研究]]中高达 66% 包含[[Causality|因果性]][[Recommendations for Practice|实践建议]]（RFP），将相关性或观察性发现过度[[Transfer Translation Transformation|转译]]为行动指令。[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]
+> 4. **前测失衡产生数据伪像** Wrigley 解构发现高评级拼读项目 RCT 宣称的 $+0.24SD$ [[Effect Size|效应量]]，在匹配前测分数子集后，净效应其实是 $+0.00SD$。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
 
 > [!stat-cards] 关键数据卡片
-> - **83.2%**：清算中心被评级项目中仅由单一清算中心评级的比例，反映其标准的极端碎片化。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 18]]
-> - **30%**：多重评级项目中，不同机构给出一致有效性结论的比例。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
-> - **+0.24SD vs +0.00SD**：Fresh Start 实验组前测低分偏差带来的官方效应量 vs 排除失衡后的真实匹配效应量。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
-> - **0.40**：[[John Hattie]] [[Meta-meta-analysis|元-元分析]]用来划定教学法是否有影响的 Hingepoint 铰链点阀值。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]]
+> - **83.2%** 清算中心被评级项目中仅由单一清算中心评级的比例，反映其标准的极端碎片化。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 18]]
+> - **30%** 多重评级项目中，不同机构给出一致有效性结论的比例。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
+> - **+0.24SD vs +0.00SD** Fresh Start 实验组前测低分偏差带来的官方效应量 vs 排除失衡后的真实匹配效应量。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
+> - **0.40** [[John Hattie]] [[Meta-meta-analysis|元-元分析]]用来划定教学法是否有影响的 Hingepoint 铰链点阀值。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]]
 
 ### 关联理论背景
 

@@ -56,9 +56,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响**：影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **实践影响**：影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **知识影响**：对概念、理论或研究议程的影响。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政策影响** 影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **实践影响** 影响描述。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **知识影响** 对概念、理论或研究议程的影响。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
