@@ -8,10 +8,10 @@ aliases:
 summary: "研究设计中明确研究意图和预期交付物的核心决策点，区分研究原因与研究目的，通过目的决定随后的研究类型、方法和设计，并与目的适配性原则共同构成研究规划的逻辑起点"
 type: concept
 domain: "research-methodology"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-design
   - source/textbook
@@ -22,21 +22,15 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Research Scope]]"
   - "[[Homework]]"
-  - "[[School Leadership]]"
-  - "[[Construct]]"
-  - "[[Mentorship]]"
-  - "[[Grade Retention]]"
+  - "[[Evaluation Research]]"
   - "[[Covert Research]]"
   - "[[Fitness for Purpose]]"
 related_theories: []
 related_methods:
-  - "[[Meta-analysis]]"
-  - "[[Participatory Research]]"
   - "[[Ethnography]]"
   - "[[Observational and Correlational Research]]"
   - "[[Multiple Regression]]"
   - "[[Ideology Critique]]"
-  - "[[Comparative Case Study]]"
   - "[[Grounded Theory]]"
 related_persons: []
 related_facts: []
@@ -80,11 +74,11 @@ updated: 2026-06-20
 > [!contrast-table] 研究目的与方法的基本对应模式
 > | 目的类型 | 典型适配方法 | 示例 |
 > |---|---|---|
-> | **证明／检验效果** | 实验；行动研究；因果研究；纵向研究 | 检验某项家庭作业干预的效果 → 实验 + 行动研究 |
-> | **理解／描述现象** | 人种志；观察研究；诠释性研究；历史研究 | 理解小学课堂中的权力动态 → 人种志 + 诠释性研究 |
-> | **识别因素／关系** | 调查；多元回归；结构方程模型；网络分析 | 识别影响学习动机的各因素强弱 → 调查 + 多元回归 |
-> | **评估／审查／批判** | 意识形态批判；评估研究；话语分析；女性主义批判 | 审查政府晋升标准政策 → 意识形态批判 + 女性主义批判 |
-> | **生成理论** | 扎根理论；文献研究 | 生成教科书有效使用的理论 → 扎根理论 |
+> | **证明／检验效果** | 实验；行动研究；因果研究；纵向研究 | 检验某项[[Homework\|家庭作业]]干预的效果 → 实验 + 行动研究 |
+> | **理解／描述现象** | [[Ethnography\|人种志]]；[[Observational and Correlational Research\|观察研究]]；诠释性研究；历史研究 | 理解小学课堂中的权力动态 → 人种志 + 诠释性研究 |
+> | **识别因素／关系** | 调查；[[Multiple Regression\|多元回归]]；结构方程模型；网络分析 | 识别影响学习动机的各因素强弱 → 调查 + 多元回归 |
+> | **评估／审查／批判** | [[Ideology Critique\|意识形态批判]]；[[Evaluation Research\|评估研究]]；话语分析；女性主义批判 | 审查政府晋升标准政策 → 意识形态批判 + 女性主义批判 |
+> | **生成理论** | [[Grounded Theory\|扎根理论]]；文献研究 | 生成教科书有效使用的理论 → 扎根理论 |
 > | **比较方法或工具** | 比较方法论；工具检验；比较研究 | 比较问卷与访谈在收集药物使用数据上的效果 → 工具检验 |
 
 三种最常见的跨模式方法组合是：**调查**（横跨证明效果、识别因素、收集意见）、**案例研究**（横跨理解现象、检验效果、生成理论）和**行动研究**（横跨证明效果、评估开发）。具体组合取决于研究目的的精确表述。完整30组配对详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]（第6.4节）。

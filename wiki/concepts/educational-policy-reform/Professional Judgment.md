@@ -2,12 +2,13 @@
 title: Professional Judgment
 aliases:
   - 专业判断
-summary: "教师在复杂、开放的教学情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把概率性的研究证据转化为具体教育行动的关键解释性中介"
+  - 专业判断力
+summary: 教师在复杂、开放的教学情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把概率性的研究证据转化为具体教育行动的关键解释性中介
 type: concept
-domain: "educational-policy-reform"
+domain: educational-policy-reform
 related_count: 18
 related_level: 1
-related_stars: "⭐"
+related_stars: ⭐
 related_color: "#bfdbfe"
 tags:
   - professional-judgment

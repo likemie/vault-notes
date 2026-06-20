@@ -48,7 +48,7 @@ publication_type: book
 title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
