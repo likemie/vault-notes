@@ -2912,69 +2912,72 @@
   vertical-align: middle;
 }
 
-/* 列表容器：脊线坐标系 */
+/* 列表容器 */
 .callout[data-callout="dimension"] > .callout-content > ul {
   counter-reset: dim-n;
   list-style: none;
-  padding: 0.55rem 1rem 0.1rem 3.5rem;
+  padding: 0.3rem 0.6rem 0.1rem 0.6rem;
   margin: 0;
-  position: relative;
 }
+.callout[data-callout="dimension"] > .callout-content > ul > li::marker { display: none; }
 
-/* 竖向紫色脊线 */
-.callout[data-callout="dimension"] > .callout-content > ul::before {
-  content: "";
-  position: absolute;
-  left: 1.62rem;
-  top: 1.5rem;
-  bottom: 1.1rem;
-  width: 2px;
-  border-radius: 1px;
-  background: linear-gradient(
-    to bottom,
-    transparent                       0%,
-    rgba(108, 72, 180, 0.50)        8%,
-    rgba(108, 72, 180, 0.50)        92%,
-    transparent                     100%
-  );
-}
-
-/* 维度卡片：顶部色条（区别于 chain-link 均匀边框） */
+/* 维度卡片 */
 .callout[data-callout="dimension"] > .callout-content > ul > li {
   counter-increment: dim-n;
+  list-style: none;
   position: relative;
-  padding: 0.58rem 0.9rem 0.65rem;
-  margin-bottom: 0.58rem;
-  border: 1px solid rgba(108, 72, 180, 0.14);
-  border-top: 3px solid rgba(108, 72, 180, 0.70);
-  border-radius: 6px;
+  padding: 0.55rem 0.9rem 0.62rem 2.75rem; /* 左侧留给徽章 */
+  margin-top: 0.58rem;
+  margin-bottom: 0;
+  border: 1px solid rgba(108, 72, 180, 0.16);
+  border-top: 3px solid rgba(108, 72, 180, 0.72);
+  border-radius: 7px;
   background: linear-gradient(180deg, rgba(108, 72, 180, 0.06), rgba(108, 72, 180, 0.01));
   line-height: 1.68;
   font-size: var(--fs-table);
-  transition: background 0.15s ease, box-shadow 0.15s ease, border-top-color 0.18s ease;
+  transition: background 0.18s ease, box-shadow 0.18s ease,
+              border-top-color 0.18s ease, transform 0.20s ease;
 }
-.callout[data-callout="dimension"] > .callout-content > ul > li:last-child { margin-bottom: 0; }
-.callout[data-callout="dimension"] > .callout-content > ul > li:hover {
-  background: linear-gradient(180deg, rgba(108, 72, 180, 0.10), rgba(108, 72, 180, 0.02));
-  box-shadow: 0 2px 10px rgba(108, 72, 180, 0.12);
-  border-top-color: rgb(108, 72, 180);
+.callout[data-callout="dimension"] > .callout-content > ul > li:first-child { margin-top: 0.2rem; }
+
+/* 错落：奇数项留右边距，偶数项向右缩进 */
+.callout[data-callout="dimension"] > .callout-content > ul > li:nth-child(odd) {
+  margin-right: 1.6rem;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li:nth-child(even) {
+  margin-left: 1.6rem;
+  border-top-color: rgba(108, 72, 180, 0.50);
 }
 
-/* 方形 D# 节点（border-radius 4px，区别于 chain-link 圆形） */
+/* 卡片动效：奇数向右滑出 + 上浮，偶数向左滑出 + 上浮 */
+.callout[data-callout="dimension"] > .callout-content > ul > li:nth-child(odd):hover {
+  transform: translateX(5px) translateY(-2px);
+  background: linear-gradient(180deg, rgba(108, 72, 180, 0.10), rgba(108, 72, 180, 0.02));
+  box-shadow: 0 4px 16px rgba(108, 72, 180, 0.15);
+  border-top-color: rgb(108, 72, 180);
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li:nth-child(even):hover {
+  transform: translateX(-5px) translateY(-2px);
+  background: linear-gradient(180deg, rgba(108, 72, 180, 0.10), rgba(108, 72, 180, 0.02));
+  box-shadow: 0 4px 16px rgba(108, 72, 180, 0.15);
+  border-top-color: rgba(108, 72, 180, 0.82);
+}
+
+/* 方形 D# 徽章：内嵌在卡片左侧，与标题同行 */
 .callout[data-callout="dimension"] > .callout-content > ul > li::before {
   content: "D" counter(dim-n);
   position: absolute;
-  left: -1.92rem;
-  top: 0.68rem;
-  width: 1.38rem;
-  height: 1.38rem;
+  top: 0.50rem;
+  left: 0.72rem;
+  width: 1.52rem;
+  height: 1.52rem;
   border-radius: 4px;
   background: linear-gradient(135deg, rgb(108, 72, 180), rgb(82, 50, 158));
   color: #fff;
   font-size: 0.56rem;
   font-weight: 800;
   letter-spacing: 0.02em;
-  line-height: 1.38rem;
+  line-height: 1.52rem;
   text-align: center;
   border: 2px solid var(--background-primary);
   box-shadow: 0 0 0 2px rgba(108, 72, 180, 0.30);
@@ -2982,7 +2985,7 @@
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 .callout[data-callout="dimension"] > .callout-content > ul > li:hover::before {
-  transform: scale(1.14) rotate(-8deg);
+  transform: scale(1.18) rotate(-8deg);
   box-shadow: 0 0 0 2px rgba(108, 72, 180, 0.55), 0 0 8px rgba(108, 72, 180, 0.30);
 }
 
