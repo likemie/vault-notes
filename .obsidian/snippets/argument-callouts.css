@@ -3341,8 +3341,8 @@
 }
 .callout[data-callout="features"] > .callout-title {
   color: rgb(80, 92, 105);
-  font-size: var(--fs-body);
-  font-weight: 650;
+  font-size: var(--h6-size);
+  font-weight: 700;
   padding: 0.3rem 0.7rem 0.2rem;
   border-bottom: 1px solid rgba(110, 125, 140, 0.10);
   margin-bottom: 0;
@@ -5070,7 +5070,79 @@
   vertical-align: middle;
 }
 
-/* ── 链表容器：建立脊线坐标系 ── */
+/* ── 内容区：计数器基准（p 和 ul 两种变体共用） ── */
+.callout[data-callout="chain-link"] > .callout-content {
+  counter-reset: chain-n;
+}
+
+/* ━━ 变体 A：段落写法（直接写 > 内容，不用列表） ━━ */
+
+/* 脊线容器，仅当无 ul 子元素时激活 */
+.callout[data-callout="chain-link"] > .callout-content:not(:has(> ul)) {
+  position: relative;
+  padding: 0.55rem 1rem 0.1rem 3.5rem;
+}
+
+/* 竖向金色脊线 */
+.callout[data-callout="chain-link"] > .callout-content:not(:has(> ul))::before {
+  content: "";
+  position: absolute;
+  left: 1.62rem;
+  top: 1.5rem;
+  bottom: 1.1rem;
+  width: 2px;
+  border-radius: 1px;
+  background: linear-gradient(
+    to bottom,
+    transparent                     0%,
+    rgba(168, 130, 50, 0.50)      8%,
+    rgba(168, 130, 50, 0.50)      92%,
+    transparent                   100%
+  );
+}
+
+/* 每个 p 作为链节卡片 */
+.callout[data-callout="chain-link"] > .callout-content > p {
+  counter-increment: chain-n;
+  position: relative;
+  padding: 0.6rem 0.9rem 0.68rem;
+  margin-bottom: 0.6rem;
+  border: 1px solid rgba(168, 130, 50, 0.18);
+  border-radius: 7px;
+  background: linear-gradient(180deg, rgba(168, 130, 50, 0.06), rgba(168, 130, 50, 0.01));
+  line-height: 1.68;
+  font-size: var(--fs-table);
+  transition: background 0.15s ease, box-shadow 0.15s ease;
+}
+.callout[data-callout="chain-link"] > .callout-content > p:last-child { margin-bottom: 0; }
+.callout[data-callout="chain-link"] > .callout-content > p:hover {
+  background: linear-gradient(180deg, rgba(168, 130, 50, 0.10), rgba(168, 130, 50, 0.03));
+  box-shadow: 0 2px 8px rgba(168, 130, 50, 0.10);
+}
+
+/* 数字节点圆 (p 变体) */
+.callout[data-callout="chain-link"] > .callout-content > p::before {
+  content: counter(chain-n);
+  position: absolute;
+  left: -1.88rem;
+  top: 0.75rem;
+  width: 1.32rem;
+  height: 1.32rem;
+  border-radius: 50%;
+  background: rgb(168, 130, 50);
+  color: #fff;
+  font-size: 0.60em;
+  font-weight: 800;
+  line-height: 1.32rem;
+  text-align: center;
+  border: 2.5px solid var(--background-primary);
+  box-shadow: 0 0 0 2px rgba(168, 130, 50, 0.28);
+  z-index: 1;
+}
+
+/* ━━ 变体 B：列表写法（- **标题** 内容） ━━ */
+
+/* 链表容器：建立脊线坐标系 */
 .callout[data-callout="chain-link"] > .callout-content > ul {
   counter-reset: chain-n;
   list-style: none;
@@ -5097,7 +5169,7 @@
   );
 }
 
-/* ── 链节卡片 ── */
+/* 链节卡片 (li 变体) */
 .callout[data-callout="chain-link"] > .callout-content > ul > li {
   counter-increment: chain-n;
   position: relative;
@@ -5110,15 +5182,13 @@
   font-size: var(--fs-table);
   transition: background 0.15s ease, box-shadow 0.15s ease;
 }
-.callout[data-callout="chain-link"] > .callout-content > ul > li:last-child {
-  margin-bottom: 0;
-}
+.callout[data-callout="chain-link"] > .callout-content > ul > li:last-child { margin-bottom: 0; }
 .callout[data-callout="chain-link"] > .callout-content > ul > li:hover {
   background: linear-gradient(180deg, rgba(168, 130, 50, 0.10), rgba(168, 130, 50, 0.03));
   box-shadow: 0 2px 8px rgba(168, 130, 50, 0.10);
 }
 
-/* 脊线上的数字节点圆 */
+/* 数字节点圆 (li 变体) */
 .callout[data-callout="chain-link"] > .callout-content > ul > li::before {
   content: counter(chain-n);
   position: absolute;
@@ -6328,6 +6398,27 @@
   letter-spacing: 0.04em;
 }
 
+/* ── warrant 默认折叠：内容默认隐藏 ── */
+/* 无折叠标记 / data-callout-fold="-" 且处于折叠态 → 隐藏 */
+.callout[data-callout="warrant"] > .callout-content {
+  display: none;
+}
+/* 用 [!warrant]+ 或 [!warrant]- 展开后 → 显示 */
+.callout[data-callout="warrant"][data-callout-fold="+"]:not(.is-collapsed) > .callout-content,
+.callout[data-callout="warrant"][data-callout-fold="-"]:not(.is-collapsed) > .callout-content {
+  display: block;
+}
+/* 折叠态时标题无需下边框（内容已隐）*/
+.callout[data-callout="warrant"]:not([data-callout-fold="+"]) > .callout-title,
+.callout[data-callout="warrant"].is-collapsed > .callout-title {
+  border-bottom: none;
+}
+/* 无折叠标记时，鼠标提示可交互 */
+.callout[data-callout="warrant"]:not([data-callout-fold]) > .callout-title {
+  cursor: default;
+  opacity: 0.82;
+}
+
 .callout[data-callout="implication"] {
   --callout-color: 42, 128, 96;
   --callout-icon: lucide-corner-down-right;
@@ -6359,6 +6450,23 @@
   display: block;
   margin-bottom: 0.18rem;
   color: rgb(var(--callout-color));
+}
+
+/* ── implication 默认折叠 ── */
+.callout[data-callout="implication"] > .callout-content {
+  display: none;
+}
+.callout[data-callout="implication"][data-callout-fold="+"]:not(.is-collapsed) > .callout-content,
+.callout[data-callout="implication"][data-callout-fold="-"]:not(.is-collapsed) > .callout-content {
+  display: block;
+}
+.callout[data-callout="implication"]:not([data-callout-fold="+"]) > .callout-title,
+.callout[data-callout="implication"].is-collapsed > .callout-title {
+  border-bottom: none;
+}
+.callout[data-callout="implication"]:not([data-callout-fold]) > .callout-title {
+  cursor: default;
+  opacity: 0.82;
 }
 
 .callout[data-callout="concept-lens"] {
