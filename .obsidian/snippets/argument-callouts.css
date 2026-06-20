@@ -8168,17 +8168,11 @@
   background: rgba(70, 88, 165, 0.09);
   color: rgb(52, 68, 142);
   font-weight: 650;
-  font-size: var(--fs-table);
+  font-size: calc(var(--fs-table) * 0.93);
   letter-spacing: 0.03em;
-  padding: 0.52rem 1rem;
+  padding: 0.52rem 0.85rem;
   text-align: left;
   border-bottom: 2px solid rgba(70, 88, 165, 0.22);
-}
-
-/* 首列表头缩窄 */
-.callout[data-callout="seq-table"] thead th:first-child {
-  width: 3rem;
-  text-align: center;
 }
 
 /* CSS 计数器 */
@@ -8195,41 +8189,48 @@
 }
 
 .callout[data-callout="seq-table"] tbody td {
-  padding: 0.52rem 1rem;
-  font-size: var(--fs-table);
+  padding: 0.45rem 0.85rem;
+  font-size: calc(var(--fs-table) * 0.93);
   border-bottom: 1px solid rgba(70, 88, 165, 0.08);
   vertical-align: middle;
-  line-height: 1.62;
+  line-height: 1.58;
 }
 
-/* 首列：隐藏用户填写内容，注入序号圆形徽章 */
+/* 首列表头：加 # 前缀提示，不额外插入列 */
+.callout[data-callout="seq-table"] thead th:first-child::before {
+  content: "# ";
+  color: rgba(52, 68, 142, 0.45);
+  font-size: 0.75em;
+  font-weight: 700;
+}
+
+/* 首列数据格：左侧留空给徽章，原始内容保留 */
 .callout[data-callout="seq-table"] tbody td:first-child {
-  width: 3rem;
-  min-width: 3rem;
-  max-width: 3rem;
-  text-align: center;
-  padding: 0.4rem 0.3rem;
-  font-size: 0;
-  background: rgba(70, 88, 165, 0.04);
-  border-right: 1px solid rgba(70, 88, 165, 0.11);
-  vertical-align: middle;
+  position: relative;
+  padding-left: 2.5rem;
 }
 
+/* 圆形序号徽章，绝对定位悬浮在左侧 */
 .callout[data-callout="seq-table"] tbody td:first-child::before {
   content: counter(seq-n);
+  position: absolute;
+  left: 0.45rem;
+  top: 50%;
+  transform: translateY(-50%);
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 1.55em;
-  height: 1.55em;
+  width: 1.30rem;
+  height: 1.30rem;
   border-radius: 50%;
   background: rgba(70, 88, 165, 0.12);
   border: 1.5px solid rgba(70, 88, 165, 0.30);
   color: rgb(52, 68, 142);
-  font-size: 0.80rem;
-  font-weight: 720;
+  font-size: 0.68rem;
+  font-weight: 750;
   font-variant-numeric: tabular-nums;
-  line-height: 1;
+  line-height: 1.30rem;
+  text-align: center;
 }
 
 /* Dark mode */
