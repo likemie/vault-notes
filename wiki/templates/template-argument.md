@@ -131,7 +131,7 @@ issuing_organization: ""
 
 ### 论证步骤三
 
-%% 本步骤可按需扩充：[!implication]- 展开推论后果；[!finding-cards] 提前列核心发现；[!tension] 标记未解决张力；[!critique]- 记录外部批评。 %%
+%% 本步骤可按需扩充：[!implication]- 展开推论后果；[!finding-cards] 提前列核心发现；[!debates] 记录多方学术争论；[!tension] 仅用于两方正面对立；[!critique]- 记录外部批评。 %%
 
 > [!claim] 步骤三主张
 > 写出最终论证收束。

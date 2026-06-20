@@ -126,15 +126,29 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 争议与批评
 
-%% 根据实际材料选用 [!tension]、[!warning]、[!tension-table] 等；没有充分材料时可删除本节。 %%
+%% 三类内容分开记录，不要混用。
+   - 多方学者争论 → [!debates]（立场 P1/P2/P3，无明确对错）
+   - 两方直接对立 → [!tension]（蓝/红双栏，有 VS 感）
+   - 外部指出缺陷 → [!critique] 系列
+   - 作者自述局限 → [!warning]
+   没有充分材料时可删除对应 callout。 %%
 
-> [!tension] 核心争议
-> 争议焦点说明——各方立场不是孰对孰错，而是理论路径差异。
-> - **立场 A** — 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场 B** — 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!debates] 学术争议
+> - **立场名称（代表学者）** 观点说明——关注什么问题、依据什么前提。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **立场名称（代表学者）** 观点说明——与上一立场的分歧点在哪里。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **立场名称（代表学者）** 如有第三方立场继续添加。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!warning] 方法论批评与适用局限
-> - 批评描述，说明批评对象和立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+%% 若争论恰好是两方正面对立（二元范式冲突），改用 [!tension]：%%
+
+> [!tension] 核心张力（仅两方正面对立时使用）
+> - **立场 A（蓝方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **立场 B（红方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!critique] 外部批评
+> - **批评类型** 批评内容，说明批评者是谁、批评对象是什么。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!warning] 适用局限
+> 只写原文或学界公认的边界条件，不写你自己的评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 ## 实证数据
