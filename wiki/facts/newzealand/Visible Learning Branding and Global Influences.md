@@ -1,7 +1,7 @@
 ---
 title: Visible Learning Branding and Global Influences
 aliases:
-  - 可见学习品牌化与全球影响
+  - 可见的学习（Visible Learning，VL）品牌化与全球影响
 summary: "Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议"
 type: fact
 subtype: event
@@ -65,24 +65,24 @@ related_facts:
   - "[[Russian Translation of Visible Learning]]"
   - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_Bates_2017_CognitionEducationTrust]]"
-  - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Blass_2020_JESP]]"
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Laursen_2015_Paideia]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
+  - "[[Darwin's Finch: A Short History of Cognition]]"
+  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia]]"
+  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Er Hattie og co]]"
+  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
+  - "[[How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Material fallacies of education research evidence and public policy advice]]"
+  - "[[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

@@ -2,8 +2,8 @@
 title: Russian Translation of Visible Learning
 aliases:
   - Russian Translation of Visible Learning 2017
-  - 俄文版可见学习
-summary: "Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论"
+  - 俄文版可见的学习（Visible Learning，VL）
+summary: "Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕VL方法论和本土适用性的讨论"
 type: fact
 subtype: event
 region: russia
@@ -23,8 +23,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

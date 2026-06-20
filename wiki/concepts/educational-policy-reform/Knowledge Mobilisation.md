@@ -33,9 +33,9 @@ related_persons: []
 related_facts:
   - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments:
-  - "[[Argument_Nelson_2017_ER]]"
-  - "[[Argument_Nordahl_2015_Paideia]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Evidence-informed practice in education: meanings and applications]]"
+  - "[[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: medium
 status: draft
 created: '2026-05-21'
@@ -100,6 +100,6 @@ updated: 2026-06-03
 
 > [!example]
 > - [[Evidence-Informed Practice]] — 知识动员在教育领域最清晰的应用场景之一。
-> - [[Visible Learning]] — 在北欧学校改进语境中，知识动员被用来解释研究知识如何从可见学习论述进入教师协作与课堂行动([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
+> - [[Visible Learning]] — 在北欧学校改进语境中，知识动员被用来解释研究知识如何从可见的学习（Visible Learning，VL）论述进入教师协作与课堂行动([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
 > - [[Schlegel-UW Research Institute for Aging]] — 在[[University-Industry Collaboration|产学合作]]语境中，RIA 通过 Schlegel Villages 的退休住宅网络将研究成果直接嵌入临床评估方案，新开发的脑血管健康生物标志物检测技术被纳入常规功能性体适能评估，实现了从实验室到终端用户的快速知识动员([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.253]])。
 

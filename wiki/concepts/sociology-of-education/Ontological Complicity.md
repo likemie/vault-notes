@@ -31,7 +31,7 @@ related_persons:
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
 confidence: medium
 status: draft
 created: 2026-06-10
@@ -88,7 +88,7 @@ updated: 2026-06-10
 > 本体论共谋不是行动者对规则的机械遵从，而是由于惯习与场域客观结构的同构，行动者天然地认为现有规则是“常识”（common sense）并无意识地维护这一秩序。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
 
 > [!line-b] 命题二：制度现状的破除阻力（Resistance to Rupture）
-> 与命题一的逻辑关系在于，当前反思共谋阻碍了[[Reflexivity|反思性]]。随着本体论共谋的深化，教育决策者与研究者会将某些大师学说（如[[Visible Learning|可见学习]]品牌）内化为其专业惯习的底色。即使面对外部强烈的学术批评与技术质疑，他们也很难跳出场域的客观网格去打破现状。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
+> 与命题一的逻辑关系在于，当前反思共谋阻碍了[[Reflexivity|反思性]]。随着本体论共谋的深化，教育决策者与研究者会将某些大师学说（如[[Visible Learning|可见的学习]]（Visible Learning，VL）品牌）内化为其专业惯习的底色。即使面对外部强烈的学术批评与技术质疑，他们也很难跳出场域的客观网格去打破现状。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
 
 ---
 
@@ -103,4 +103,4 @@ updated: 2026-06-10
 ## 应用案例
 
 > [!evidence-grid-a] [[School Leadership|学校领导力]]与[[Cult of the Guru|大师崇拜]]
-> - **澳大利亚[[Visible Learning|可见学习]]品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的惯习与[[John Hattie|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–415]])
+> - **澳大利亚[[Visible Learning|VL]]品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的惯习与[[John Hattie|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–415]])

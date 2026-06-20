@@ -28,7 +28,7 @@ related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -63,7 +63,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Visible Learning]]** — VL 是 learnification 在教育研究中的典型技术实现：以[[Effect Size|效应量]]排名量化学习，将教学简化为最大化可见学习结果的方法组合。Larsen 的批评核心是 VL 作为 learnification 的终极表达([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.1-2]])
+> - **vs [[Visible Learning]]** — VL 是 learnification 在教育研究中的典型技术实现：以[[Effect Size|效应量]]排名量化学习，将教学简化为最大化可见的学习（Visible Learning，VL）结果的方法组合。Larsen 的批评核心是 VL 作为 learnification 的终极表达([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.1-2]])
 > - **vs [[Bildung]]** — Learnification 是诊断，Bildung 是替代方案。前者描述学习概念被效果逻辑吞噬的问题，后者提供超越学习[[Paradigm|范式]]的品格教育框架
 > - **vs [[Evidence-Based Education]]** — Learnification 与 EBE 共享"什么有效"的工具理性逻辑，但 learnification 概念更侧重学习话语对教育关系（特别是教师角色）的改造
 

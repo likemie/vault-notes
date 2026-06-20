@@ -85,7 +85,7 @@ citation_aliases:
 > [!question] [[Research Question|研究问题]]（Research Question）
 > 本文聚焦于循证教学中将“证据”窄化为统计平均值时，所产生的多重方法论与 [[Epistemology|认识论]]（Epistemology）危机：
 > 1. 当教育研究中的证据被窄化为 [[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）与 [[Effect Size|效应量]]（Effect Size）的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
-> 2. 从单一实验的第一级（Level 1）到 [[Meta-analysis|元分析]]（Meta-analysis）的第二级（Level 2）、再到 [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）的第三级（Level 3，如 [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见学习]]（Visible Learning）》与 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的《教学与学习工具包（Teaching and Learning Toolkit）》）的逐级递进中，统计数据是如何层层复合、放大失真的？
+> 2. 从单一实验的第一级（Level 1）到 [[Meta-analysis|元分析]]（Meta-analysis）的第二级（Level 2）、再到 [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）的第三级（Level 3，如 [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning，VL）与 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的《教学与学习工具包（Teaching and Learning Toolkit）》）的逐级递进中，统计数据是如何层层复合、放大失真的？
 > 3. [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
@@ -125,7 +125,7 @@ citation_aliases:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
-> | **聚合工具样本** | [[John Hattie\|约翰·哈蒂]]（2009）《[[Visible Learning\|可见学习]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Adrian Simpson\|阿德里安·辛普森]]（2017）对该工具包效应量偏差的测量学分析；彼得·布拉奇福德（Peter Blatchford）等关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
+> | **聚合工具样本** | [[John Hattie\|约翰·哈蒂]]（2009）《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Adrian Simpson\|阿德里安·辛普森]]（2017）对该工具包效应量偏差的测量学分析；彼得·布拉奇福德（Peter Blatchford）等关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
 > | **理论文献样本** | 特里什·格林哈尔希（Trish Greenhalgh, 2014, 2015）的循证医学危机文献；[[Roy Bhaskar\|罗伊·巴斯卡]]（1978）、[[Ray Pawson\|雷·波森]]（2006）的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
@@ -205,7 +205,7 @@ citation_aliases:
 > 将元分析进一步聚合为“元-元分析”时，前几级的技术缺陷被无限放大。以 [[John Hattie|哈蒂]]的 0.40 阈值和《教学与学习工具包》的“进步月份表”为代表的排行榜修辞，严重误导了教育决策。
 
 > [!critique-method] 聚合排行工具的系统性偏差
-> 1. **[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见学习]]》的五大硬伤**：
+> 1. **[[John Hattie|约翰·哈蒂]]《[[Visible Learning|VL]]》的五大硬伤**：
 >    - **数据老化与地域局限**：数据源绝大多数集中于美国，且许多研究已过时半个世纪。
 >    - **测量工具窄化**：大量采用与学习目标脱节的窄化结果测试（例如用朗读单个单词来代表阅读能力） (p. 11)。
 >    - **铰链点（0.40）逻辑漏洞**：无视干预时长（短期强化干预的效应量系统性高于长期项目）、学生年龄（平均效应量随学生年龄增长而呈非线性递减）以及计算基准（混用对照组比较法与前-后测比较法）。
@@ -259,7 +259,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis|元分析]]中复合，并在第三级 [[Meta-meta-analysis|元-元分析]]（如 [[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见学习]]》与 [[Education Endowment Foundation|EEF]]《教学与学习工具包》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
+> 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis|元分析]]中复合，并在第三级 [[Meta-meta-analysis|元-元分析]]（如 [[John Hattie|约翰·哈蒂]]的《[[Visible Learning|VL]]》与 [[Education Endowment Foundation|EEF]]《教学与学习工具包》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
 > 2. **“新起点”案例揭示糟糕[[Random Assignment|随机分配]]的数据幻象** 经过匹配子集分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24$ 标准差（相当于 3 个月额外进步）仅是糟糕随机分配造成的前测失衡幻象 (p. 5)。
 > 3. **TA 类目警示扁平化排行诱发反效果** EEF《教学与学习工具包》将 TA 排入底部，完全剥离了其“无沟通备课时间”、“系统性安排给低成就生”等结构性不当情境，在预算裁剪时期极易诱发错误的裁员决策 (p. 12)。
 > 4. **教育实验中“人类意志既是必要又是污染”的悖论** RCT 将人类意志视为污染源，但教学效果的产生恰恰依赖教师的热情与学生的推理交互，这使得 RCT 从根本上不适合作为教育学的唯一科学标准 (p. 6)。
@@ -288,7 +288,7 @@ citation_aliases:
 >
 > The result of a meta-analysis should never be an average; it should be a graph. ([[Gene Glass|吉恩·格拉斯]])
 
-> [!citation-card] 《[[Visible Learning|可见学习]]》对 陶冶 的遮蔽
+> [!citation-card] 《[[Visible Learning|VL]]》对 陶冶 的遮蔽
 > 让学习可见的尝试，使人们对教育作为 陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。(p. 16)
 >
 > The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation).

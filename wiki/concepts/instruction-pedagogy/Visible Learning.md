@@ -5,10 +5,10 @@ aliases:
   - VL
 summary: John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。
 type: concept
-domain: instruction-pedagogy
+domain: "instruction-pedagogy"
 related_count: 91
 related_level: 5
-related_stars: ⭐⭐⭐⭐⭐
+related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -439,4 +439,4 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - [[Victorian HITS and Literacy Toolkit]] — VL 为维多利亚州 10 项 HITS 策略的首要参考
 > - [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估 VL 相关原则的落实情况
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准，三维度课程框架，以 VL 为首要研究参考
-> - [[Gonski Reforms]] — Gonski 2.0（2018）以个体进步衡量成功学习，呼应 VL 的可见学习成果理念
+> - [[Gonski Reforms]] — Gonski 2.0（2018）以个体进步衡量成功学习，呼应 VL 的可见的学习（Visible Learning，VL）成果理念

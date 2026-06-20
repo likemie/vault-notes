@@ -35,9 +35,9 @@ related_persons:
   - "[[Gert Biesta]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -84,7 +84,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Incarnation-Extension Dialectics]] — Larsen 提出的替代性学习概念框架，以具身化与扩展的双向运动超越[[Visible Learning|可见学习]][[Paradigm|范式]]
+> - [[Incarnation-Extension Dialectics]] — Larsen 提出的替代性学习概念框架，以具身化与扩展的双向运动超越[[Visible Learning|可见的学习]]（Visible Learning，VL）[[Paradigm|范式]]
 > - [[Bildung]] — Larsen 是当代复兴 Bildung 概念的代表学者，将其作为对学习范式的批判和替代([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.7-9]])
 > - [[Blind Spot in Observation]] — 将 Luhmann 的盲点概念系统应用于教育研究和 VL 范式批判
 > - 对 [[Visible Learning]] 的哲学批判 — 从[[Ontology|本体论]]、神经科学、[[Phenomenology|现象学]]和概念史等多维度提供 VL 批评，与 Rømer (2018)、[[Argument_Eacott_2017_SLM|Eacott (2017)]]、[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 等人的批评形成互补

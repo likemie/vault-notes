@@ -29,7 +29,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -76,7 +76,7 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 将 Luhmann 的概念系统应用于教育研究，论证：
 > - [[Visible Learning|VL]] [[Paradigm|范式]]因忽视 Luhmann 的盲点论断而陷入"无边界的超积极可见性意识形态"
-> - 教育系统的社会沟通逻辑与学生的心理系统逻辑之间存在根本性鸿沟，无法通过[[Effect Size|效应量]]和[[Visible Learning|可见学习]]策略来弥合
+> - 教育系统的社会沟通逻辑与学生的心理系统逻辑之间存在根本性鸿沟，无法通过[[Effect Size|效应量]]和[[Visible Learning|可见的学习]]（Visible Learning，VL）策略来弥合
 > - Luhmann 的洞见为理解教育中"观看中的盲视"提供了理论基础([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 >
 > Luhmann 的理论还通过 Qvortrup (2019) 被用于对 VL 的辩护（以[[Structural Coupling|结构耦合]]概念论证教学与学习之间的非因果链接），与 Larsen 的用法形成有趣的对比。

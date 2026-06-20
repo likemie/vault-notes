@@ -1,7 +1,7 @@
 ---
 title: Critiques of Visible Learning
 aliases:
-  - 可见学习批评
+  - 可见的学习（Visible Learning，VL）批评
   - Visible Learning critiques
   - Criticism of Visible Learning
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
@@ -101,28 +101,28 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Rømer_2018]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Grace_2010_NZJES]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Simpson_2017_JEP]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Hansen_2015_Paideia]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_Blass_2020_JESP]]"
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Reflection on the University and the Academic as 'Critic and Conscience of Society']]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
+  - "[[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]]"
+  - "[[How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician]]"
+  - "[[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]]"
+  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Leder Temanummer om synlig læring]]"
+  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Material fallacies of education research evidence and public policy advice]]"
+  - "[[Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia]]"
+  - "[[Visible learning and its enemies – the missing link]]"
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -330,7 +330,7 @@ Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确�
 > - **(e) 可靠性评估** 评估偏差对效应量估计和可靠性结论的方向性影响
 
 > [!citation-card] Wecker et al., 2016, p. 23
-> 「从'可见学习'中给出的例子并不代表一种系统的方法，这是来自文本。相反，它们被选为示例，其方式是讲清楚。因此，我们通常不提供进一步的文件。」
+> 「从'VL'中给出的例子并不代表一种系统的方法，这是来自文本。相反，它们被选为示例，其方式是讲清楚。因此，我们通常不提供进一步的文件。」
 
 这意味着 Wecker 等人的检查是**基于示例的重构（example-based reconstruction）**而非对所有 800+ 元分析的全面再分析——这一点的[[Epistemology|认识论]]意义在于：所发现的缺陷是**系统性的模式证据**（systematic pattern evidence），而非穷尽的错误清单。
 
@@ -863,7 +863,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > [!critique-logic] 批评二：大脑-身体-社会复杂性不可还原为简单测量
 > Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 6]])。
 
-> [!tension] 批评三：教师可见学习 ≠ 学生有意识／无意识学习
+> [!tension] 批评三：教师VL ≠ 学生有意识／无意识学习
 > Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]])。
 
 > [!critique-logic] 批评四：学习不是[[Value Neutrality|价值中立]]——Bildung 要求更多
@@ -1013,7 +1013,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 > [!critique] 第二重：学习目标被神圣化——封闭系统的创造
 >
 >> [!citation-card] Nielsen & Klitmøller, 2021, pp. 88–89
->> *"在哈蒂的可见学习理论中，教师必须借助反馈、前馈与前进，创造一种环境：学生在反馈系统所提供的强化机制作用下，将自身活动引向已预先制定的学习目标。这是一个封闭系统，其中学习目标使教学手段变得神圣不可质疑。"*
+>> *"在哈蒂的VL理论中，教师必须借助反馈、前馈与前进，创造一种环境：学生在反馈系统所提供的强化机制作用下，将自身活动引向已预先制定的学习目标。这是一个封闭系统，其中学习目标使教学手段变得神圣不可质疑。"*
 >> 
 >> *"In Hattie's theory of visible learning, the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students, through the reinforcement that lies in the feedback system, direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching."*
 >

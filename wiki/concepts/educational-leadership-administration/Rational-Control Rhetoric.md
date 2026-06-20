@@ -29,7 +29,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
 confidence: medium
 status: draft
 created: 2026-06-10
@@ -99,5 +99,5 @@ updated: 2026-06-10
 
 ## 应用案例
 
-> [!evidence-grid-a] [[Visible Learning|可见学习]]与绩效责任制
-> - **可见学习的数据规训** — 在澳大利亚理性/控制修辞主导的教改语境下，Hattie 的[[Visible Learning|可见学习]]提供的 138 个[[Effect Size|效应量]]排行榜成为决策的绝对标尺。它通过[[Australian Institute for Teaching and School Leadership|AITSL]] 的国家标准，促成了“无数据即无学习，无学习即无教学”的绩效问责逻辑，将举证责任倒置给一线教师。([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 420–421]])
+> [!evidence-grid-a] [[Visible Learning|可见的学习]]（Visible Learning，VL）与绩效责任制
+> - **VL的数据规训** — 在澳大利亚理性/控制修辞主导的教改语境下，Hattie 的[[Visible Learning|VL]]提供的 138 个[[Effect Size|效应量]]排行榜成为决策的绝对标尺。它通过[[Australian Institute for Teaching and School Leadership|AITSL]] 的国家标准，促成了“无数据即无学习，无学习即无教学”的绩效问责逻辑，将举证责任倒置给一线教师。([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 420–421]])

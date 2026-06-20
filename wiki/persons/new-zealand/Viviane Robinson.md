@@ -27,7 +27,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
 confidence: medium
 status: draft
 created: 2026-06-09
@@ -71,4 +71,4 @@ updated: 2026-06-09
 
 > [!success]
 > - 影响了 [[Instructional Leadership]] 在二十一世纪的复兴与实证重构。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - 其对[[Effect Size|效应量]]的引介为后续[[John Hattie|约翰·哈蒂]]开展《[[Visible Learning|可见学习]]》[[Meta-meta-analysis|元-元分析]]（Mega-analysis）并在行政管理层面推行[[Return on Investment|投资回报]]率（ROI）式决策提供了方法论桥梁。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 417–418]])
+> - 其对[[Effect Size|效应量]]的引介为后续[[John Hattie|约翰·哈蒂]]开展《[[Visible Learning|可见的学习]]》（Visible Learning，VL）[[Meta-meta-analysis|元-元分析]]（Mega-analysis）并在行政管理层面推行[[Return on Investment|投资回报]]率（ROI）式决策提供了方法论桥梁。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 417–418]])

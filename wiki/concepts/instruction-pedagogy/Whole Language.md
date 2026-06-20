@@ -108,8 +108,8 @@ citation_aliases: []
 >   - 全语言在英语国家广泛传播并进入主流政策，但在 1990 年代遭到保守派猛烈反弹，围绕“系统拼读”与“全语言”爆发了持久的“阅读战争”（Reading Wars）(p.144)。
 > - **2001年：[[No Child Left Behind Act 2001|NCLB]] 法案政策清洗**
 >   - 在美国福音派基督教团体与共和党右翼推动下，布什政府颁布《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB），禁止联邦资金流向不推广系统合成拼读的学区，全语言在政策层面遭到清洗 (p.147)。
-> - **2009年：[[Visible Learning|可见学习]]的低效应评估**
->   - [[John Hattie|约翰·哈蒂]] (John Hattie) 在其代表作《可见学习》中将全语言的[[Effect Size|效应量]]评为 d = 0.06，宣告全语言对阅读阅读“影响可忽略不计”，引起全球证据本位政策的震荡 (p.142)。
+> - **2009年：[[Visible Learning|可见的学习]]（Visible Learning，VL）的低效应评估**
+>   - [[John Hattie|约翰·哈蒂]] (John Hattie) 在其代表作《VL》中将全语言的[[Effect Size|效应量]]评为 d = 0.06，宣告全语言对阅读阅读“影响可忽略不计”，引起全球证据本位政策的震荡 (p.142)。
 > - **2020年：方法论偏见揭示**
 >   - 帕特里克·奥康纳 (Patrick O'Connor) 细读哈蒂所用[[Meta-analysis|元分析]]，揭示哈蒂通过数据混淆、非对称修剪将全语言效应量清零的方法论偏见与政治底色 (p.148)。
 
@@ -129,7 +129,7 @@ citation_aliases: []
 > [!critique-method] 评估方法论偏见（O'Connor 对 Hattie 的指控）
 > - **分类错误**：[[John Hattie|哈蒂]]采纳的 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis|元分析]]将早期“[[Language Experience Approach|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
 > - **非对称审查与选择性修正**：[[John Hattie|哈蒂]]对报告极端负面（d = -0.65）的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size|效应量]]修正为零 (p.148)。
-> - **研究者偏见与政治镜头**：哈蒂对[[Direct Instruction|直接教学]]偏爱，对[[Jean-Jacques Rousseau|卢梭]]式[[Constructivist Paradigm|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《[[Visible Learning|可见学习]]》中对正反数据采取了双重审查标准 (p.147-148)。
+> - **研究者偏见与政治镜头**：哈蒂对[[Direct Instruction|直接教学]]偏爱，对[[Jean-Jacques Rousseau|卢梭]]式[[Constructivist Paradigm|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《[[Visible Learning|VL]]》中对正反数据采取了双重审查标准 (p.147-148)。
 
 > [!critique-logic] [[Technical Rationality|技术理性]]与标准化问责的劫持
 > - **[[Variable|变量]][[Coding in Qualitative Research|编码]]的模糊性**：[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
@@ -151,4 +151,4 @@ citation_aliases: []
 
 - [[No Child Left Behind Act 2001]] — 2001年美国法案，要求强制推行系统拼读以取消全语言拨款。
 - [[Rose Report]] — 2006年英国报告，以“[[Simple View of Reading|简单阅读观]]”为依据，推广强制合成语音教学。
-- [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州官方教学政策，以[[Visible Learning|可见学习]][[Effect Size|效应量]]排名为最高证据支持。
+- [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州官方教学政策，以[[Visible Learning|VL]][[Effect Size|效应量]]排名为最高证据支持。

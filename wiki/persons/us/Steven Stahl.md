@@ -28,7 +28,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -43,7 +43,7 @@ updated: 2026-06-17
 
 > [!person-profile] 人物档案
 > - **身份位置**：美国阅读教学研究者、教育心理学家，曾担任多所大学的阅读教育教授。他是 1980 至 1990 年代美国“阅读战争”（Reading Wars）中拼读教学与科学阅读研究阵营的关键学者之一。
-> - **为什么值得建条目**：他主持了两项对[[Whole Language|全语言]]教学具有决定性历史影响的[[Meta-analysis|元分析]]（Stahl & Miller, 1989; Stahl et al., 1994）。这两项研究为《[[Visible Learning|可见学习]]》（Visible Learning）中评估全语言低[[Effect Size|效应量]]提供了核心数据源。
+> - **为什么值得建条目**：他主持了两项对[[Whole Language|全语言]]教学具有决定性历史影响的[[Meta-analysis|元分析]]（Stahl & Miller, 1989; Stahl et al., 1994）。这两项研究为《[[Visible Learning|可见的学习]]》（Visible Learning，VL）（Visible Learning）中评估全语言低[[Effect Size|效应量]]提供了核心数据源。
 > - **代表贡献**：首次尝试对全语言与[[Language Experience Approach|语言经验法]]（Language Experience Approach, LEA）进行大规模量化合成（Stahl & Miller, 1989，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]），并在后续研究中对两者的概念混淆进行了自我修正。
 > - **阅读边界**：本页主要探讨他在全语言与语言经验法划分上的学术贡献、元分析分类的变迁、以及[[John Hattie|约翰·哈蒂]]（John Hattie）对其数据的采纳争议。
 
@@ -78,7 +78,7 @@ updated: 2026-06-17
 > [!concept-lens]- 思想透镜
 > - **问题意识** 如何科学界定全语言教学的实证范围，并利用[[Quantitative Research|量化研究]]合成工具客观评估其相对于传统基本阅读教学的实际识字成效。
 > - **概念工具** 全语言与语言经验法的分类界碑；基本阅读教学（Basal Reading Instruction）与阅读准备计划（Reading Readiness Program）的对比（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]）。
-> - **研究影响** 其 1989 年包含混淆数据的[[Meta-analysis|元分析]]被[[John Hattie|约翰·哈蒂]]直接整合进《[[Visible Learning|可见学习]]》中，导致哈蒂的全语言计算包含了严重的概念偏误。
+> - **研究影响** 其 1989 年包含混淆数据的[[Meta-analysis|元分析]]被[[John Hattie|约翰·哈蒂]]直接整合进《[[Visible Learning|VL]]》中，导致哈蒂的全语言计算包含了严重的概念偏误。
 
 ---
 
@@ -86,4 +86,4 @@ updated: 2026-06-17
 
 > [!critique-method] 时代错误（Anachronism）与证据库污染
 > 斯塔尔在其 1989 年的[[Meta-analysis|元分析]]中，将[[Language Experience Approach|语言经验法]]与[[Whole Language|全语言]]合并为“全语言/语言经验法”进行计算，导致全语言运动诞生前数十年的行为主义早期[[Intervention Research|干预研究]]（如布拉齐尔与特雷尔［Brazziel & Terrell, 1962］）被计入全语言的实证证据（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]）。
-> 麦基与洛马斯（McGee & Lomax, 1990）对此提出严厉指责，认为这是“混淆苹果与橘子”，语言经验法的研究结果变相用于对全语言进行推论 (p.144)。虽然斯塔尔在 1994 年公开承认了这一时代错误并做出了修正，但[[John Hattie|哈蒂]]在《[[Visible Learning|可见学习]]》中仍将 1989 年的争议数据和 1994 年的更新数据同时纳入合成，造成了数据的重复计算与严重污染（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]]）。
+> 麦基与洛马斯（McGee & Lomax, 1990）对此提出严厉指责，认为这是“混淆苹果与橘子”，语言经验法的研究结果变相用于对全语言进行推论 (p.144)。虽然斯塔尔在 1994 年公开承认了这一时代错误并做出了修正，但[[John Hattie|哈蒂]]在《[[Visible Learning|VL]]》中仍将 1989 年的争议数据和 1994 年的更新数据同时纳入合成，造成了数据的重复计算与严重污染（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]]）。

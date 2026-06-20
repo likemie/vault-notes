@@ -87,7 +87,7 @@ Total entries: **156**
 > - [[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。
 
 > [!summary]- Australian Journal of Language and Literacy (1)
-> - [[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]] — 以《可见学习》全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
+> - [[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]] — 以《可见的学习》（Visible Learning，VL）全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
 
 > [!summary]- British Educational Research Journal (1)
 > - [[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]] — 以批判实在论对证据本位教育方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中
@@ -244,7 +244,7 @@ Total entries: **156**
 > - [[Er Hattie og co]] — 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
 > - [[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]] — 从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变
 > - [[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]] — 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
-> - [[Leder Temanummer om synlig læring]] — 作为 Paideia 可见学习主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
+> - [[Leder Temanummer om synlig læring]] — 作为 Paideia 可见的学习（Visible Learning，VL）主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
 > - [[Synlig læring i dag]] — 以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释
 > - [[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]] — Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
 > - [[Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
@@ -271,7 +271,7 @@ Total entries: **156**
 
 > [!summary]- School Leadership & Management (2)
 > - [[Educators are not uncritical believers of a cult figure]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
-> - [[School leadership and the cult of the guru: The neo-Taylorism of Hattie]] — 基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见学习品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。
+> - [[School leadership and the cult of the guru: The neo-Taylorism of Hattie]] — 基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见的学习（Visible Learning，VL）品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。
 
 > [!summary]- Sociology of Education (1)
 > - [[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]] — 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的

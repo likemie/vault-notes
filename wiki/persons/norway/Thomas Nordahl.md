@@ -28,8 +28,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Nordahl_2015_Paideia]]"
-  - "[[Argument_Hansen_2015_Paideia]]"
+  - "[[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]]"
+  - "[[Leder Temanummer om synlig læring]]"
 confidence: low
 status: draft
 created: '2026-05-21'
@@ -38,12 +38,12 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning|可见学习]]主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把可见学习理解成干预排行榜，而把它[[Transfer Translation Transformation|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia]]；[[Argument_Hansen_2015_Paideia]]）。
+> Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它[[Transfer Translation Transformation|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia]]；[[Argument_Hansen_2015_Paideia]]）。
 
 ## 核心思想
 
 > [!tip] 核心思想
-> Nordahl 在当前材料中最稳定的思想位置，是从支持者角度把 [[John Hattie]] 的[[Visible Learning|可见学习]]重写为一条学校改进主线：
+> Nordahl 在当前材料中最稳定的思想位置，是从支持者角度把 [[John Hattie]] 的[[Visible Learning|VL]]重写为一条学校改进主线：
 >
 > - **学习结果是学校改进的中心尺度**：教育既然深刻影响个人未来和社会延续，学校改进就不能停留在价值口号或制度修补，而必须追问“学生是否真的学到了东西”([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–63]])。
 > - **研究证据是概率资源，不是自动命令**：[[Evidence-Based Education|循证教育]]的价值不在于替教师下指令，而在于提高行动成功的概率，因此它应与 [[Professional Judgment]] 结合，而非取代专业判断([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.63–65]])。
@@ -55,7 +55,7 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success] 影响
-> - 在 `Paideia` [[Visible Learning|可见学习]]主题号的内部结构中，Nordahl 提供了明显的**支持方系统改进论述**，把 [[Visible Learning]] 从[[Effect Size|效应量]]讨论推进到学校组织、教师协作与证据[[Transfer Translation Transformation|转译]]层面([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]])。
+> - 在 `Paideia` [[Visible Learning|VL]]主题号的内部结构中，Nordahl 提供了明显的**支持方系统改进论述**，把 [[Visible Learning]] 从[[Effect Size|效应量]]讨论推进到学校组织、教师协作与证据[[Transfer Translation Transformation|转译]]层面([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]])。
 > - 他的文章为本 vault 中 [[Evidence-Based Education]] 的“证据到实践转化”部分提供了一条清晰的学校改进链条，特别强化了 [[Professional Judgment]]、[[Knowledge Mobilisation]] 和组织能力之间的关系。
 
 ## 主要著作

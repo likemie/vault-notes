@@ -524,7 +524,7 @@ Total entries: **1387**
 > - [[Hypothesis]] — 对变量间关系的推测性陈述，是连接理论与经验数据的桥梁，好假设必须陈述变量关系且蕴含明确的检验含义。
 > - [[Incommensurability]] — 库恩范式理论的核心机制，指不同范式之间不存在共同的原则、标准或衡量尺度，因此无法用同一套标准比较优劣。
 > - [[Indexicality]] — 俗民方法学的核心概念，指行动和陈述的意义深嵌于产生它们的社会语境中，为参与者所共享但不一定被明确陈述。
-> - [[Informed Consent]] — 研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，在产学合作中因 Common Rule 的大学-企业适用不对称而成为协议谈判中的不可协商前提
+> - [[Informed Consent]] — 研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因 Common Rule 适用不对称而成为协议谈判中的不可协商前提
 > - [[Institutional Review Board]] — 设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点
 > - [[Integration in Mixed Methods]] — 混合方法研究的核心概念，指在研究中将量化与质性数据的信息进行组合或混合，包括整合的意图（为何组合）和程序（如何实施组合），整合方式因设计类型而异
 > - [[Integration Statement]] — 混合方法研究方案或报告中必须包含的陈述，说明整合两类数据库的意图（为何整合）和程序（如何通过具体设计实施整合），应出现在方法部分或引言部分
@@ -1152,7 +1152,7 @@ Total entries: **1387**
 
 > [!summary]- USA (2)
 > - [[Steven Stahl]] — 美国著名阅读研究专家与元分析学者，因其主持的 1989 年与 1994 年全语言教学元分析而处于识字教学与“阅读战争”争论的核心位置。
-> - [[William Jeynes]] — 美国保守派教育学者、元分析专家与福音派传教士，其关于全语言、特许学校和家庭结构的研究在《可见学习》中被大量引用，并引发了方法论与意识形态层面的广泛争议。
+> - [[William Jeynes]] — 美国保守派教育学者、元分析专家与福音派传教士，其关于全语言、特许学校和家庭结构的研究在《可见的学习》（Visible Learning，VL）中被大量引用，并引发了方法论与意识形态层面的广泛争议。
 
 ### Usa
 
@@ -1210,7 +1210,7 @@ Total entries: **1387**
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 > - [[Strong Beginnings Report]] — 澳大利亚政府于2023年发布的教师教育专家小组报告。该报告提出14项政策建议与四项优先改革，首次将“大脑与学习”（脑科学与认知科学）强制列为全国初始教师教育（ITE）的法定制式核心课程与认证标准，标志着澳大利亚教师教育向惩罚性问责与生物简化主义标准化的重大转折。
 > - [[Teacher Education Ministerial Advisory Group]] — 2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是澳大利亚初始教师教育（ITE）标准化改革的起点。
-> - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部发布的高影响教学策略和识字工具包，以可见学习效应量排名为最高证据支持，在澳洲教育政策中引发了证据本位与教师自主权的激烈争议。
+> - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部发布的高影响教学策略和识字工具包，以可见的学习（Visible Learning，VL）效应量排名为最高证据支持，在澳洲教育政策中引发了证据本位与教师自主权的激烈争议。
 
 ### Belgium
 
@@ -1453,7 +1453,7 @@ Total entries: **1387**
 > [!summary]- Event (3)
 > - [[Akademgorodok]] — 1950年代末赫鲁晓夫效仿美国大学校园模式在新西伯利亚建造的苏联科学城，旨在打破垂直行政壁垒、营造产学研协同的创新环境，但最终在勃列日涅夫时代被重新纳入官僚化和意识形态保守的体制
 > - [[Lysenkoism]] — 1930至1960年代在斯大林支持下由 Trofim Lysenko 主导的苏联生物学和农业科学运动，以意识形态正统名义否定孟德尔遗传学，导致苏联生物学研究长期陷入谬误，是苏联科学意识形态化的标志性事件
-> - [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论
+> - [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕VL方法论和本土适用性的讨论
 
 ### Singapore
 
@@ -1685,7 +1685,7 @@ Total entries: **1387**
 > - [[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。
 
 > [!summary]- Australian Journal of Language and Literacy (1)
-> - [[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]] — 以《可见学习》全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
+> - [[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]] — 以《可见的学习》（Visible Learning，VL）全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
 
 > [!summary]- British Educational Research Journal (1)
 > - [[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]] — 以批判实在论对证据本位教育方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中
@@ -1842,7 +1842,7 @@ Total entries: **1387**
 > - [[Er Hattie og co]] — 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
 > - [[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]] — 从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变
 > - [[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]] — 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
-> - [[Leder Temanummer om synlig læring]] — 作为 Paideia 可见学习主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
+> - [[Leder Temanummer om synlig læring]] — 作为 Paideia 可见的学习（Visible Learning，VL）主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
 > - [[Synlig læring i dag]] — 以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释
 > - [[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]] — Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
 > - [[Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
@@ -1869,7 +1869,7 @@ Total entries: **1387**
 
 > [!summary]- School Leadership & Management (2)
 > - [[Educators are not uncritical believers of a cult figure]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
-> - [[School leadership and the cult of the guru: The neo-Taylorism of Hattie]] — 基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见学习品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。
+> - [[School leadership and the cult of the guru: The neo-Taylorism of Hattie]] — 基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见的学习（Visible Learning，VL）品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。
 
 > [!summary]- Sociology of Education (1)
 > - [[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]] — 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的

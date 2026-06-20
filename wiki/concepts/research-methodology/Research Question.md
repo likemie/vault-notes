@@ -6,7 +6,7 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化研究问题与假设、质性研究问题、混合方法研究问题三种路径，以及30种问题类型谱系和无研究问题的边界情况"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

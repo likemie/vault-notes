@@ -31,7 +31,7 @@ Total entries: **259**
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 > - [[Strong Beginnings Report]] — 澳大利亚政府于2023年发布的教师教育专家小组报告。该报告提出14项政策建议与四项优先改革，首次将“大脑与学习”（脑科学与认知科学）强制列为全国初始教师教育（ITE）的法定制式核心课程与认证标准，标志着澳大利亚教师教育向惩罚性问责与生物简化主义标准化的重大转折。
 > - [[Teacher Education Ministerial Advisory Group]] — 2015年澳大利亚教师教育专家咨询小组发布的报告，引入LANTITE读写算术测试、教学表现评估（TPA）和新认证程序，是澳大利亚初始教师教育（ITE）标准化改革的起点。
-> - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部发布的高影响教学策略和识字工具包，以可见学习效应量排名为最高证据支持，在澳洲教育政策中引发了证据本位与教师自主权的激烈争议。
+> - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部发布的高影响教学策略和识字工具包，以可见的学习（Visible Learning，VL）效应量排名为最高证据支持，在澳洲教育政策中引发了证据本位与教师自主权的激烈争议。
 
 ## Belgium
 
@@ -274,7 +274,7 @@ Total entries: **259**
 > [!summary]- Event (3)
 > - [[Akademgorodok]] — 1950年代末赫鲁晓夫效仿美国大学校园模式在新西伯利亚建造的苏联科学城，旨在打破垂直行政壁垒、营造产学研协同的创新环境，但最终在勃列日涅夫时代被重新纳入官僚化和意识形态保守的体制
 > - [[Lysenkoism]] — 1930至1960年代在斯大林支持下由 Trofim Lysenko 主导的苏联生物学和农业科学运动，以意识形态正统名义否定孟德尔遗传学，导致苏联生物学研究长期陷入谬误，是苏联科学意识形态化的标志性事件
-> - [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论
+> - [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕VL方法论和本土适用性的讨论
 
 ## Singapore
 

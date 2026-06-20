@@ -65,10 +65,10 @@ updated: 2026-06-20
 
 ## 小样本窄聚焦的力量
 
-> [!success] Axline (1964)：一个孩子的革命性研究
+> [!case] Axline (1964)：一个孩子的革命性研究
 > Axline 在 *Dibs in Search of Self* 中研究了游戏治疗（play therapy）对一名儿童 Dibs 的修复和治疗效果，样本仅为**一个孩子**。通过深度个案追踪，她详细展示了游戏治疗如何帮助情感受创儿童重建自我意识和人际关系能力。这本著作成为心理治疗和教育领域的经典（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
-> [!success] Piaget (1932)：少数几个孩子的理论革命
+> [!case] Piaget (1932)：少数几个孩子的理论革命
 > Piaget 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为**少数几个孩子**。他没有使用大样本或标准化测验，而是通过[[Qualitative Interview|深度访谈]]和对游戏规则的细致观察，提出了从他律道德到自律道德的发展阶段模型，深刻影响了整个20世纪的发展心理学和教育学（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---

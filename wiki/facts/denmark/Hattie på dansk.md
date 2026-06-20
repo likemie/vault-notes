@@ -3,7 +3,7 @@ title: Hattie på dansk
 aliases:
   - Hattie på dansk 2017
   - Hattie på dansk 2017
-  - 丹麦版可见学习
+  - 丹麦版可见的学习（Visible Learning，VL）
 summary: "2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点"
 type: fact
 subtype: event
@@ -25,7 +25,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Visible learning and its enemies – the missing link]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

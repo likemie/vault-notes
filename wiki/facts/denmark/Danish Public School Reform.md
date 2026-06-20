@@ -30,9 +30,9 @@ related_facts:
   - "[[Hattie på dansk]]"
   - "[[SFI Report]]"
 related_arguments:
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[Er Hattie og co]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -75,7 +75,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **Qvortrup（支持方）**：批评者的反应不是基于对 Hattie 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见学习]]"扭曲为"反理论"的[[Positivism|实证主义]]([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
+> - **Qvortrup（支持方）**：批评者的反应不是基于对 Hattie 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见的学习]]（Visible Learning，VL）"扭曲为"反理论"的[[Positivism|实证主义]]([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
 > - **教师与工会（批评方）**：改革与削减教师权利的立法同时推进，挑战了传统的教师角色；研究者的批评被用作反对改革政治议程的学术合法性来源([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - 批评著作 *[[Hattie på dansk]]*（[[Hattie på dansk]]）在此争议背景下出版，汇集多篇强烈批评文章([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
 

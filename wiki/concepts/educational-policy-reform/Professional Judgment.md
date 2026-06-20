@@ -146,7 +146,7 @@ updated: 2026-06-19
 ## 实证发现
 
 > [!evidence-grid-a] 实证发现索引
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 提出专业判断是 Hattie [[Visible Learning|可见学习]]的“缺失环节”，通过 Simon 的[[Bounded Rationality|有限理性]]理论论证反馈是教师在信息赤字下做出专业判断的核心工具。
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 提出专业判断是 Hattie [[Visible Learning|可见的学习]]（Visible Learning，VL）的“缺失环节”，通过 Simon 的[[Bounded Rationality|有限理性]]理论论证反馈是教师在信息赤字下做出专业判断的核心工具。
 > - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow|STAT]] 公立学校技术改革项目指出，专业判断在评价报告出炉后同样发挥作用：不同决策者会根据各自对教育价值的理解对同一份评估报告做出截然不同的政策解读。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 分析了英国学校在面临预算缩减时，由于盲信 [[Education Endowment Foundation|EEF]] 扁平化的[[Effect Size|效应量]]排行，导致错误地大举裁减具有重要结构性支持作用的“教学助理”的实证案例，证实了抹杀专业判断的技术官僚决策的破坏性后果。
 
