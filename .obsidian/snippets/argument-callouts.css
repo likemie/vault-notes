@@ -5101,43 +5101,31 @@
 }
 
 /* ══════════════════════════════════════════════════════════
-   链式连接 — 穿透包装 div 的选择器
-   Obsidian 将每个 callout 包在独立 div 中，
-   直接 .callout + .callout 失效；需通过包装 div 的
-   :has() + 相邻兄弟选择器来实现连接视觉
+   链式连接 — 通过 .el-div 包装层实现
+   DOM: .el-div > .callout[data-callout="chain-link"]
+   相邻 .el-div 是真正的兄弟节点
    ══════════════════════════════════════════════════════════ */
 
-/* 前一个包装 div（其后紧跟另一个含 chain-link 的 div）→ 底部扁平 + 加重底边 */
-.markdown-preview-view
-  div:has(> .callout[data-callout="chain-link"])
-  :has(+ div:has(> .callout[data-callout="chain-link"]))
-  > .callout[data-callout="chain-link"],
-.markdown-preview-view
-  div:has(> .callout[data-callout="chain-link"]):has(+ div:has(> .callout[data-callout="chain-link"]))
-  > .callout[data-callout="chain-link"] {
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
-  border-bottom: 2px solid rgba(168, 130, 50, 0.52);
+/* ── 非末尾链节：内部底部加 ↓ 连接指示器 ── */
+
+/* 留出底部空间 */
+.el-div:has(> .callout[data-callout="chain-link"]):has(+ .el-div:has(> .callout[data-callout="chain-link"]))
+  > .callout[data-callout="chain-link"] > .callout-content {
+  padding-bottom: 0.2rem;
 }
 
-/* 后一个包装 div：极小间距 */
-.markdown-preview-view
-  div:has(> .callout[data-callout="chain-link"])
-  + div:has(> .callout[data-callout="chain-link"]) {
-  margin-top: 3px !important;
-}
-
-/* 后一链节本身：顶部扁平 + 金色高亮条 */
-.markdown-preview-view
-  div:has(> .callout[data-callout="chain-link"])
-  + div:has(> .callout[data-callout="chain-link"])
-  > .callout[data-callout="chain-link"] {
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
-  background:
-    linear-gradient(to bottom, rgba(168, 130, 50, 0.24) 0px, rgba(168, 130, 50, 0.07) 4px, transparent 16px),
-    linear-gradient(135deg, rgba(168, 130, 50, 0.08), rgba(168, 130, 50, 0.02)),
-    var(--background-primary);
+/* ↓ 箭头：加在 .callout-content::after，完全在元素内 */
+.el-div:has(> .callout[data-callout="chain-link"]):has(+ .el-div:has(> .callout[data-callout="chain-link"]))
+  > .callout[data-callout="chain-link"] > .callout-content::after {
+  content: "↓";
+  display: block;
+  text-align: center;
+  margin-top: 0.7rem;
+  padding: 0.2rem 0 0.35rem;
+  color: rgba(168, 130, 50, 0.55);
+  font-size: 0.9rem;
+  line-height: 1;
+  border-top: 1px dashed rgba(168, 130, 50, 0.25);
 }
 
 /* ── 暗模式 ── */
@@ -5150,20 +5138,10 @@
   border-left-color: rgb(205, 162, 68);
 }
 .theme-dark
-  .markdown-preview-view
-  div:has(> .callout[data-callout="chain-link"]):has(+ div:has(> .callout[data-callout="chain-link"]))
-  > .callout[data-callout="chain-link"] {
-  border-bottom-color: rgba(205, 162, 68, 0.55);
-}
-.theme-dark
-  .markdown-preview-view
-  div:has(> .callout[data-callout="chain-link"])
-  + div:has(> .callout[data-callout="chain-link"])
-  > .callout[data-callout="chain-link"] {
-  background:
-    linear-gradient(to bottom, rgba(205, 162, 68, 0.24) 0px, rgba(205, 162, 68, 0.08) 4px, transparent 16px),
-    linear-gradient(135deg, rgba(205, 162, 68, 0.11), rgba(205, 162, 68, 0.03)),
-    var(--background-primary);
+  .el-div:has(> .callout[data-callout="chain-link"]):has(+ .el-div:has(> .callout[data-callout="chain-link"]))
+  > .callout[data-callout="chain-link"] > .callout-content::after {
+  color: rgba(205, 162, 68, 0.60);
+  border-top-color: rgba(205, 162, 68, 0.28);
 }
 
 /* ─── proc（标准操作程序 — 步骤链） ──────────────────────

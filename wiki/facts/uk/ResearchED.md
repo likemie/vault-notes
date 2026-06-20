@@ -66,14 +66,14 @@ updated: 2026-06-20
 > [!citation-card]- Tom Bennett 的“[[Scientific Method|科学方法]]”描述
 > “形成问题（如：声音在水中比在空气中传播更快吗？）→ 做出假设 → 做出预测 → 检验预测（收集证据看真实世界是否表现得与预测相同）→ 分析证据。”
 > 
-> *“1. Form a question... 2. Form a [[Hypothesis]]... 3. Make a prediction... 4. Test the prediction... 5. Analyse...”* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]] (citing Bennett, 2013, p. 21) 
+> > *“1. Form a question... 2. Form a [[Hypothesis]]... 3. Make a prediction... 4. Test the prediction... 5. Analyse...”* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]] (citing Bennett, 2013, p. 21) 
 > 
 > **[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 批评**：该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了因果机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
 
 > [!citation-card]- 科学修辞的政治使用
 > “学习风格已被彻底揭穿，你还不如去抽塔罗牌。”（Carl Hendrick 语） / “开放大学（Open University），理清你们的脑子。学习风格 = 彩虹独角兽。”（Tom Bennett 语）
 > 
-> *“Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards.” (Carl Hendrick)* / *“Open University, sort out your life. Learning Styles = Magical unicorns.” (Tom Bennett)* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]] (citing Black, 2018)
+> > *“Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards.” (Carl Hendrick)* / *“Open University, sort out your life. Learning Styles = Magical unicorns.” (Tom Bennett)* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]] (citing Black, 2018)
 > 
 > **分析**：ResearchED 骨干成员通过极端的两极修辞（科学 = 客观 [[Randomised Controlled Trials|RCT]] vs. 非[[Experimental Research|实验研究]] = 独角兽/占星术），对定性、行动等其他研究[[Paradigm|范式]]进行边缘化，从而强化其唯[[Scientism|科学主义]]话语。
 
