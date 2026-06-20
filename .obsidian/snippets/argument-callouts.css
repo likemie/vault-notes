@@ -2117,6 +2117,7 @@
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(92, 122, 82, 0.09);
   counter-reset: pathway;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .callout[data-callout="pathways"] > .callout-title {
@@ -11049,6 +11050,7 @@
   border: 1px solid rgba(88, 108, 138, 0.20);
   border-left-color: rgb(88, 108, 138);
   box-shadow: 0 4px 14px rgba(88, 108, 138, 0.07);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
 .callout[data-callout="note"] > .callout-title { color: rgb(65, 85, 115); }
 .callout[data-callout="note"] > .callout-title .callout-title-inner::before { content: "NOTE"; }
@@ -11073,6 +11075,7 @@
   border: 1px solid rgba(20, 148, 152, 0.20);
   border-left-color: rgb(20, 148, 152);
   box-shadow: 0 4px 14px rgba(20, 148, 152, 0.07);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
 .callout[data-callout="abstract"] > .callout-title,
 .callout[data-callout="summary"] > .callout-title,
