@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
-  - "[[Champ]]"
   - "[[Research Contribution]]"
   - "[[Research Purpose]]"
   - "[[Purpose Statement]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Research Problem]]"
+  - "[[Champ]]"
   - "[[Research Ethics]]"
   - "[[Access and Acceptance in Research]]"
 related_theories: []
@@ -111,7 +111,7 @@ updated: 2026-06-19
 
 > [!chain-link] 窄化即严谨
 > - **新手从过于宏大的课题出发**
->   许多新手学生和研究者从一个过于宏大的课题出发。导师的任务是帮助新手将研究领域收窄和打磨，使其变得可行、有用、可操作。研究的纪律在于将其缩小到可管理／可研究的比例（cf. Hopkins, 1985: 47）。由此推出：课题必须被框紧，严谨性才能嵌入。
+>   许多新手学生和研究者从一个过于宏大的课题出发。导师的任务是帮助新手将研究领域收窄和打磨，使其变得可行、有用、可操作。研究的纪律在于将其缩小到可管理／可研究的比例（cf. Hopkins, 1985, p. 47）。由此推出：课题必须被框紧，严谨性才能嵌入。
 > - **研究不是个人观点的佐证**
 >   新手往往让教育研究成为自己的人生故事，或为个人观点寻找文献和经验支撑。这不是研究的任务。研究的任务是发现（find out）、调查（investigate）、发展（develop）、检验（test out）和回答（what if、how、why、how well、what、where）。由此推出：研究必须指向外部世界的问题，而非研究者自身。
 > - **框紧边界才能严谨**
@@ -361,7 +361,7 @@ updated: 2026-06-19
 > - **毅力适配**
 >   是否有足够的毅力完成这项研究
 > - **专长适配**
->   在该领域是否有足够专长。专长不足时，文献综述是建立专长的第一步
+>   在该领域是否有足够专长。专长不足时，[[Literature Review|文献综述]]是建立专长的第一步
 > - **投入适配**
 >   这项研究是否有助于专业兴趣发展、声誉建立、职业晋升或专业发展
 > - **时间承诺适配**
@@ -433,7 +433,7 @@ updated: 2026-06-19
 
 
 > [!chapter-question] 研究问题的作用与边界
-> [[Research Question|研究问题]]对调查的指导作用在决策时是有用的参考。但也需要认识到：一些研究，通常是[[Qualitative Research|质性研究]]（Bryman, 2007b），可能**没有**研究问题；研究方法并不总是由研究问题驱动（Bryman, 2007b: 18）；应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b: 14）。
+> [[Research Question|研究问题]]对调查的指导作用在决策时是有用的参考。但也需要认识到：一些研究，通常是[[Qualitative Research|质性研究]]（Bryman, 2007b），可能**没有**研究问题；研究方法并不总是由研究问题驱动（Bryman, 2007b, p. 18）；应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b, p. 14）。
 
 ---
 
@@ -500,7 +500,7 @@ updated: 2026-06-19
 > | 替代方案（Alternatives） | 有什么其他选择？ | 标准化考试之外有哪些替代的评估方式？ |
 > | 如何改进或发展（How to improve or develop） | 如何变得更好？ | 如何改进初任教师的入职培训？ |
 
-（类型框架来源：University of Berkeley, 2002；Newby, 2010: 67–9）
+（类型框架来源：University of Berkeley, 2002；Newby, 2010, pp. 67–69）
 
 > [!tip]- 复杂问题不等于坏问题
 > 研究不需要在研究问题上一帆风顺。许多最有用的研究恰恰源于**复杂问题**和**难以回答的研究问题**。关键在于是否愿意承担该问题所要求的复杂性和难度，在可用时间和资源范围内完成。
@@ -510,13 +510,13 @@ updated: 2026-06-19
 #### 混合方法研究问题
 
 > [!info] [[Mixed Methods Research|混合方法]]的特殊性
-> 第1章区分了数值型、非数值型和[[Mixed Methods Question|混合方法研究问题]]。在混合方法研究中，研究问题在设计指导中更加突出，但框定混合方法研究问题往往比单一[[Paradigm|范式]]研究更困难（Onwuegbuzie & Leech, 2006a: 477），因为它需要在**同一研究问题**中同时处理量化与质性策略。
+> 第1章区分了数值型、非数值型和[[Mixed Methods Question|混合方法研究问题]]。在混合方法研究中，研究问题在设计指导中更加突出，但框定混合方法研究问题往往比单一[[Paradigm|范式]]研究更困难（Onwuegbuzie & Leech, 2006a, p. 477），因为它需要在**同一研究问题**中同时处理量化与质性策略。
 
 > [!case] 混合方法研究问题示例一
-> "研究生阅读理解水平与他们对阅读实证研究文章的障碍感知之间存在什么关系？"（Onwuegbuzie & Leech, 2006a: 484）该问题需要**数值数据**（阅读理解水平得分）和**质性数据**（对阅读障碍的感知）来提供完整答案，将"What"（量化相关）和"Why/What barriers"（质性探索）整合在同一问题中。
+> "研究生阅读理解水平与他们对阅读实证研究文章的障碍感知之间存在什么关系？"（Onwuegbuzie & Leech, 2006a, p. 484）该问题需要**数值数据**（阅读理解水平得分）和**质性数据**（对阅读障碍的感知）来提供完整答案，将"What"（量化相关）和"Why/What barriers"（质性探索）整合在同一问题中。
 
 > [!case] 混合方法研究问题示例二
-> "男性和女性研究生在统计课程中的课堂氛围感知差异是什么？"（Onwuegbuzie & Leech, 2006a: 494）该问题可能涉及将**测验数据**（量化测量课堂氛围）与**访谈数据**（质性理解感知差异）相结合。
+> "男性和女性研究生在统计课程中的课堂氛围感知差异是什么？"（Onwuegbuzie & Leech, 2006a, p. 494）该问题可能涉及将**测验数据**（量化测量课堂氛围）与**访谈数据**（质性理解感知差异）相结合。
 
 ---
 
@@ -667,9 +667,9 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > The task of research is to find out, to investigate, to develop, to test out (e.g. a theory), to address questions that ask, for example: 'what if', 'how', 'why', 'how well', 'what' and 'where'.
 
 > [!citation-card] 窄化即严谨
-> 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985: 47），以便将严谨性（如[[Fitness for Purpose|目的适配性]]和方法论可靠性）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
+> 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose|目的适配性]]和方法论可靠性）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
 >
-> Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985: 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
+> Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 
 > [!citation-card] 原创性不够
 > 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和实践做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）

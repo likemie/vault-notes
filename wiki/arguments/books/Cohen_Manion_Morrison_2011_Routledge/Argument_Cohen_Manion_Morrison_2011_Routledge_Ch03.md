@@ -228,7 +228,7 @@ Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作
 
 #### 评估的定义与政治立场
 
-大多数评估定义包含5个关键特征（Morrison, 1993: 2）（p.35）：
+大多数评估定义包含5个关键特征（Morrison, 1993, p. 2）（p.35）：
 
 > [!feature] Morrison（1993: 2）的评估5特征
 > 1. **回答特定的、给定的问题**：评估回应已被预设的议程，属于封闭式而非开放式探索。
@@ -241,12 +241,12 @@ Morrison（1993: 2）由此给出评估的简洁定义：
 > 评估是就特定议题提供信息，在此基础上做出判断，并据此采取行动决策。
 
 > [!citation-card] MacDonald 论评估者的政治处境
-> 评估者面对相互竞争的利益群体、分歧的情境界定和冲突的信息需求……他必须决定服务于哪些决策者、哪些信息最有价值、何时需要以及如何获取……这些议题的解决使评估者承诺于一种政治立场，一种对教育治理的态度。研究者则无需做出此类承诺。他站在政治过程之外，珍视其超脱。对他而言，新知识的生产与其社会使用是分离的。评估者则卷入行动之中，嵌入一个关乎权力分配的政治过程——即资源的配置与目标、角色和任务的确定……当评估数据影响权力关系时，评估者被迫仔细权衡其任务说明的后果……研究者可以自由选择问题和寻求答案。评估者则绝不可犯这样的错误：回答没有人——除了他自己——在问的问题。（MacDonald, 1987: 42）
+> 评估者面对相互竞争的利益群体、分歧的情境界定和冲突的信息需求……他必须决定服务于哪些决策者、哪些信息最有价值、何时需要以及如何获取……这些议题的解决使评估者承诺于一种政治立场，一种对教育治理的态度。研究者则无需做出此类承诺。他站在政治过程之外，珍视其超脱。对他而言，新知识的生产与其社会使用是分离的。评估者则卷入行动之中，嵌入一个关乎权力分配的政治过程——即资源的配置与目标、角色和任务的确定……当评估数据影响权力关系时，评估者被迫仔细权衡其任务说明的后果……研究者可以自由选择问题和寻求答案。评估者则绝不可犯这样的错误：回答没有人——除了他自己——在问的问题。（MacDonald, 1987, p. 42）
 >
 > *The evaluator is faced with competing interest groups, with divergent definitions of the situation and conflicting informational needs. ... He has to decide which decision makers he will serve, what information will be of most use, when it is needed and how it can be obtained. ... The resolution of these issues commits the evaluator to a political stance, an attitude to the government of education. No such commitment is required of the researcher. He stands outside the political process, and values his detachment from it. For him the production of new knowledge and its social use are separated. The evaluator is embroiled in the action, built into a political process which concerns the distribution of power, i.e. the allocation of resources and the determination of goals, roles and tasks. ... When evaluation data influences power relationships the evaluator is compelled to weight carefully the consequences of his task specification. ... The researcher is free to select his questions, and to seek answers to them. The evaluator, on the other hand, must never fall into the error of answering questions which no one but he is asking.*
 
 > [!taxonomy] MacDonald（1987）的评估政治类型学
-> MacDonald（1987）提出了一个广被引用的三分类框架来理解评估的政治立场（p.36；另见 Chelinsky & Mulhauser, 1993: 54 论"政治的不可逃避性"）：
+> MacDonald（1987）提出了一个广被引用的三分类框架来理解评估的政治立场（p.36；另见 Chelinsky & Mulhauser, 1993, p. 54 论"政治的不可逃避性"）：
 > - **专制型评估**（Autocratic Evaluation）：评估服务于权力持有者的议程——评估结果被用于加强既有权威和决策。
 > - **官僚型评估**（Bureaucratic Evaluation）：评估服务于机构的管理需求——评估被视为组织运行的技术环节。
 > - **民主型评估**（Democratic Evaluation）：评估服务于多元利益相关者的知情参与——评估信息和判断向所有相关群体公开，支持民主审议。
@@ -254,7 +254,7 @@ Morrison（1993: 2）由此给出评估的简洁定义：
 MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 
 > [!citation-card] MacDonald 论"倒转"研究-评估关系
-> 将评估概念化为研究的分支是危险的——评估者会陷入研究体面的束缚性触角中。纯粹可能替代效用，琐碎证明可能替代对复杂意义的笨拙把握。将研究定义为评估的一个分支——其任务是解决评估者遇到的技术问题——将会多么更有成效。（MacDonald, 1987: 43）
+> 将评估概念化为研究的分支是危险的——评估者会陷入研究体面的束缚性触角中。纯粹可能替代效用，琐碎证明可能替代对复杂意义的笨拙把握。将研究定义为评估的一个分支——其任务是解决评估者遇到的技术问题——将会多么更有成效。（MacDonald, 1987, p. 43）
 >
 > *The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.*
 
@@ -278,7 +278,7 @@ Norris（1990: 99）指出，将研究视为不受日常政治污染的纯净活
 
 Burgess（1993: 1）概括了这一趋势的极端表达：
 > [!citation-card] Burgess 论研究者的合同工化
-> 研究者不过是合同工……教育研究必须与政策相关……研究必须更加贴近实践者的需求。（Burgess, 1993: 1）
+> 研究者不过是合同工……教育研究必须与政策相关……研究必须更加贴近实践者的需求。（Burgess, 1993, p. 1）
 >
 > *Researchers are little more than contract workers ... research in education must become policy relevant ... research must come closer to the requirement of practitioners.*
 
@@ -296,7 +296,7 @@ Anderson 和 Biddle（1991）编著的文集进一步印证了这一判断：研
 
 James（1993: 135）对评估证据政治命运的冷峻判断：
 > [!citation-card] James 论评估证据的政治命运
-> 基于研究的评估为理性决策提供证据的力量是相当有限的。如果信息不支持当时主导的政治议程，决策者总能找到理由忽视或高度选择性地使用评估结果。（James, 1993: 135）
+> 基于研究的评估为理性决策提供证据的力量是相当有限的。如果信息不支持当时主导的政治议程，决策者总能找到理由忽视或高度选择性地使用评估结果。（James, 1993, p. 135）
 >
 > *The power of research-based evaluation to provide evidence on which rational decisions can be expected to be made is quite limited. Policy-makers will always find reasons to ignore, or be highly selective of, evaluation findings if the information does not support the particular political agenda operating at the time when decisions have to be made.*
 
@@ -321,7 +321,7 @@ James（1993: 135）对评估证据政治命运的冷峻判断：
 
 ##### 学校微观政治与行动研究的困境
 
-Morrison（1993）进一步指出，评估的政治化不仅限于大规模政策项目，还渗透到学校的微观层面（p.39）。Hoyle（1986）提出了**学校微观政治**（micro-politics of the school）的概念：评估数据是否被用来为某个部门或院系引入资源或撤回资源？评估者必须谨慎选择其立场和忠诚对象（Barton, 2002），因为评估结果的后果可能使这些忠诚受到质疑（Barton, 2002: 377）——尽管评估者可能希望保持被动和非政治化，但委托评估的人和现实情境并不共享这种看法，尤其是当评估数据被选择性或扭曲性地使用来正当化不同选项时。
+Morrison（1993）进一步指出，评估的政治化不仅限于大规模政策项目，还渗透到学校的微观层面（p.39）。Hoyle（1986）提出了**学校微观政治**（micro-politics of the school）的概念：评估数据是否被用来为某个部门或院系引入资源或撤回资源？评估者必须谨慎选择其立场和忠诚对象（Barton, 2002），因为评估结果的后果可能使这些忠诚受到质疑（Barton, 2002, p. 377）——尽管评估者可能希望保持被动和非政治化，但委托评估的人和现实情境并不共享这种看法，尤其是当评估数据被选择性或扭曲性地使用来正当化不同选项时。
 
 > [!warning] 行动研究的政治化：问题解决与问题设定
 > 学校本位的行动研究（school-based action research）——尽管被其倡导者赋予了解放性的声称（如 Carr & Kemmis, 1986; Grundy, 1987 主张行动研究赋权教师、促进民主实践）——在实践中往往呈现出另一种面貌：它更关注于**在给定议程下**找出最成功的组织、规划、教学和评估方式，而非**设定议程**和追随自己的研究议程。这是**问题解决**（problem-solving）与**问题设定**（problem-setting）的差异。
@@ -439,7 +439,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 > | **时间尺度** | 长期、开放式，遵循研究的内在节奏 | 短期、紧迫，受选举周期驱动 |
 > | **术语** | 专业概念、方法论文本，谨慎的条件句 | 简明可传播的口号，确定性陈述 |
 > | **对不确定性的态度** | 承认复杂性，报告[[Confidence Interval\|置信区间]]和限制条件 | 要求确定性、简单因果、不含糊的数据 |
-> | **方法论偏好** | 多元方法论，根据问题选择方法 | 偏好实证主义方法，追求简单影响模型（Simple Impact Model），常通过不合法汇总降低数据质量（Cartwright, 1991; Cook, 1991; Radford, 2008: 506） |
+> | **方法论偏好** | 多元方法论，根据问题选择方法 | 偏好实证主义方法，追求简单影响模型（Simple Impact Model），常通过不合法汇总降低数据质量（Cartwright, 1991; Cook, 1991;Radford, 2008, p. 506） |
 > | **对研究的评价** | 研究是需要时间、资源和谨慎判断的复杂活动 | 研究发现太不确定（Kerlinger, 1991; Cohen & Garet, 1991）、处理的是世界观（Weltanschauung）而非具体问题、设计太复杂、适用性有限（Finn, 1991） |
 >
 
@@ -447,7 +447,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 > 研究者一方则反驳说：决策者对快速解决的偏好**误读了研究的本质**（Shavelson & Berliner, 1991），掩盖了研究者试图调查的**复杂社会现实**（Blalock, 1991）。捕捉社会复杂性与服务于政治效用，这两种价值可能根本性地相互冲突。
 
 > [!citation-card] Radford（2008: 506）的终极概括
-> 研究者的工作由客观性（objectivity）和对意识形态的独立性或不关心（disinterestedness）驱动，而决策者由利益、意识形态和价值（interests, ideologies and values）驱动。（Radford, 2008: 506）
+> 研究者的工作由客观性（objectivity）和对意识形态的独立性或不关心（disinterestedness）驱动，而决策者由利益、意识形态和价值（interests, ideologies and values）驱动。（Radford, 2008, p. 506）
 >
 > *The work of researchers is driven by objectivity, and independence from, or disinterestedness in, ideology, whereas policy makers are driven by interests, ideologies and values.*
 
@@ -483,7 +483,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 >
 > *Evaluation is the provision of information about specified issues upon which judgements are based and from which decisions for action are taken.*
 >
-> (Morrison, 1993: 2)
+> (Morrison, 1993, p. 2)
 
 ---
 

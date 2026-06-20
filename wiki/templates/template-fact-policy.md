@@ -126,12 +126,15 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 争议与评论
 
-%% [!tension] 聚焦政策本身的目标与工具争议；行动者之间的政治冲突已在「行动者与利益相关者」节的 [!tension]- 联盟结构与冲突 中处理，不重复。 %%
+%% 三类内容分开记录，不要混用。
+   - 多方立场争论政策目标/工具/执行 → [!debates]（P1/P2/P3，无明确对错）
+   - 两方联盟正面对立 → [!tension]（已在「行动者与利益相关者」节的 [!tension]- 联盟结构与冲突 中处理，不重复）
+   - 外部批评 → [!critique]；政策自述局限 → [!warning] %%
 
-> [!tension] 争议焦点
-> - **目标争议**：政策目标是否合理、优先级是否恰当。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **工具争议**：政策工具是否有效、公平或产生副作用。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **执行争议**：责任分配、资源条件或地方执行是否导致偏差。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!debates] 政策争议
+> - **目标争议（立场名／代表方）** 政策目标是否合理、优先级是否恰当。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **工具争议（立场名／代表方）** 政策工具是否有效、公平或产生副作用。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **执行争议（立场名／代表方）** 责任分配、资源条件或地方执行是否导致偏差。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!citation-card]- 代表性评论
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

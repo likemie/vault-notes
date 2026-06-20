@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,9 +18,9 @@ tags:
 related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
-  - "[[Purpose Statement]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Emergence]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Purpose Statement]]"
   - "[[Research Security]]"
   - "[[Sponsored Research Agreement]]"
 related_theories: []
@@ -45,7 +45,7 @@ updated: 2026-06-20
 > [!def] 知情同意
 > 知情同意（informed consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）。
 >
-> 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 [[Common Rule 2018|共同规则（Common Rule）]] 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
+> 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 共同规则（[[Common Rule 2018|Common Rule]]） 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
 
 > [!quote]
 > "Participation in a study is voluntary, and this needs explanation in the informed consent form instructions."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
@@ -176,7 +176,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 （[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）
 
 > [!implication]- 实践后果
-> 1. 产学合作可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
+> 1. [[University-Industry Collaboration|产学合作]]可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
 > 2. 在协议谈判中，大学应将 IRB 审查的时间线和知情同意的要求作为不可协商的前提条件，因为遵守共同规则是大学在联邦法律层面的义务
 > 3. 企业在进入涉及人类受试者的产学合作之前，需要提前了解 IRB 审查和知情同意程序的时间成本，将其纳入项目时间表的预期之中
 
@@ -188,5 +188,5 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 ## 相关案例／政策
 
 > [!info] 法规与守则
-> - 美国联邦法规（[[Common Rule 2018|共同规则]], 45 CFR 46）规定了 [[Institutional Review Board|IRB]] 审批和知情同意的法律框架
+> - 美国联邦法规（共同规则, 45 CFR 46）规定了 [[Institutional Review Board|IRB]] 审批和知情同意的法律框架
 > - 各专业协会（APA、AERA、ASA 等）的伦理守则均将知情同意列为强制性程序

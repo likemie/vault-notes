@@ -127,11 +127,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 争议与批评
 
-> [!tension] 争议焦点
-> - **理论前提争议**：批评者质疑哪些本体论、认识论或规范前提。
-> - **解释范围争议**：该理论是否过度推广、忽视条件、不能解释反例。
-> - **方法转化争议**：该理论用于经验研究时是否难以操作化、测量或验证。
-> - **政治／规范争议**：该理论是否隐含特定价值立场、权力效果或政策后果。
+%% 三类内容分开记录，不要混用。
+   - 多方学者对理论本身争论（前提/范围/方法/规范，无明确对错）→ [!debates]
+   - 两方正面对立（如结构主义 vs 能动性论争）→ [!tension]
+   - 外部指出具体缺陷 → [!critique]；理论作者自述边界 → [!warning] %%
+
+> [!debates] 理论争议
+> - **理论前提（立场名/代表学者）** 批评者质疑哪些本体论、认识论或规范前提。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **解释范围（立场名/代表学者）** 该理论是否过度推广、忽视条件、不能解释反例。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **方法转化（立场名/代表学者）** 用于经验研究时是否难以操作化、测量或验证。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **政治／规范（立场名/代表学者）** 该理论是否隐含特定价值立场、权力效果或政策后果。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评、修正或限制该理论。

@@ -103,9 +103,9 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar\|罗伊·巴斯卡（Roy Bhaskar, 1978）]]<br>安德鲁·塞耶（Andrew Sayer, 2000） | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层本体论结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
-> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson\|雷·波森（Ray Pawson, 2006）]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
-> | **新自由主义审计文化**<br>[[Stephen Ball\|斯蒂芬·鲍尔（Stephen Ball, 2013）]]<br>迈克尔·鲍尔（Michael Power, 1997） | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
+> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar\|Bhaskar (1978)]]<br>Sayer (2000) | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层本体论结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
+> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson\|Pawson (2006)]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
+> | **新自由主义审计文化**<br>[[Stephen Ball\|Ball (2013)]]<br>Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证
 > 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如亚里士多德（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
@@ -125,8 +125,8 @@ citation_aliases:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
-> | **聚合工具样本** | [[John Hattie\|约翰·哈蒂]]（2009）《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Adrian Simpson\|阿德里安·辛普森]]（2017）对该工具包效应量偏差的测量学分析；彼得·布拉奇福德（Peter Blatchford）等关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
-> | **理论文献样本** | 特里什·格林哈尔希（Trish Greenhalgh, 2014, 2015）的循证医学危机文献；[[Roy Bhaskar\|罗伊·巴斯卡]]（1978）、[[Ray Pawson\|雷·波森]]（2006）的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
+> | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEP|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
+> | **理论文献样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
 
@@ -188,8 +188,8 @@ citation_aliases:
 > 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选文献。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义。
 
 > [!critique-method] 统计炼金术与 [[Heterogeneity|异质性]]抹除
-> 1. **苹果与橘子的炼金术**：医学统计学家艾尔万·费恩斯坦（Alvan Feinstein, 1995）曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键 [[Variable|变量]]剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。
-> 2. **创始人与专家的警告**：元分析概念的创始人 [[Gene Glass|吉恩·格拉斯]]曾明确警告：“元分析的结果绝不应该是一个平均数，而应该是一张显示变异性的图表” (p. 9)。著名测量学者罗伯特·科（Robert Coe, 2002）亦指出，如果实验所用的结果测量工具、执行强度和人群差异极大，将这些效应量进行平均在数学上是完全没有意义的。
+> 1. **苹果与橘子的炼金术**：Feinstein (1995) 曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键 [[Variable|变量]]剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。
+> 2. **创始人与专家的警告**：元分析概念的创始人 [[Gene Glass|吉恩·格拉斯]]曾明确警告：“元分析的结果绝不应该是一个平均数，而应该是一张显示变异性的图表” (p. 9)。著名测量学者 Coe (2002) 亦指出，如果实验所用的结果测量工具、执行强度和人群差异极大，将这些效应量进行平均在数学上是完全没有意义的。
 
 > [!exegesis]- 反馈标签的语义空洞化
 > EEF《教学与学习工具包》将大量形式迥异（有些是口头启发，有些是书面改错，有些结果是正向、有些是负向）的研究统统归入“反馈”这一庞大类目下，算出了一个极高的平均效应量。然而，反馈在任何教学交互中都是不可避免且无处不在的，粗暴地给出一个“反馈最有效”的均值数字，根本无法告诉教师在具体课堂情境中“什么样”的反馈才是有效的 (p. 10)。
@@ -230,7 +230,7 @@ citation_aliases:
 > 科学中立的修辞规避了其新自由主义的政治图谋。它将教育的根本目的（陶冶与价值）转化为纯粹的技术传递，消解了教师的 [[Professional Judgment|专业判断]]力，使其沦为国家的流水线工人。
 
 > [!tension] “什么有效（What Works）”与“为了什么目的（To What Ends）”的冲突
-> 1. **价值讨论的剥夺**：[[Gert Biesta|格特·比斯塔]]（2010）指出，面对任何“干预”，教育首先应该追问的是价值问题——“为了什么目的”与“对谁有效” (p. 4)。EBE 宣扬的“什么有效”口号故意避开了价值讨论，因为价值是存在争议的，新自由主义更倾向于将一切窄化为可测量的技术传递效率。
+> 1. **价值讨论的剥夺**：[[Argument_Biesta_2010_SPE|Biesta (2010)]] 指出，面对任何“干预”，教育首先应该追问的是价值问题——“为了什么目的”与“对谁有效” (p. 4)。EBE 宣扬的“什么有效”口号故意避开了价值讨论，因为价值是存在争议的，新自由主义更倾向于将一切窄化为可测量的技术传递效率。
 > 2. **自明范畴与个体消解**：在 EBE 数据驱动的审计体制中，“白人英国人（white British）”、“免费学校餐（FSMever，指曾符合免费学校餐资格）”、“期望进步值”等发明出来的统计学标签被重复使用并被视为理所当然，学生的个人背景与生命历程（biography）、文化资产与情感特征被彻底抹去 (p. 4)。
 
 > [!voice] [[ResearchED]]：草根运动的政治收编
@@ -247,8 +247,8 @@ citation_aliases:
 > 真正的教育改善不能依赖单调的均值表，而必须承认教育是包含多层分层（治理-学校文化-课堂-个体）的开放系统，通过多元方法探究复杂的因果机制与 [[Emergence|涌现]]结果。
 
 > [!pathways] 走向“实在论综合”与多元改进路径
-> - **实在论综合（Realist Synthesis）**：波森（2006）提倡的替代路径不寻求单一均值，而是深入理解每次干预的“受试者（subjects）”特征、原始研究者的因果理论、测量充分性以及过程中的结构性障碍，探求因果机制如何在不同背景下产生不同的结果 (p. 14)。
-> - **网络化改进共同体（Networked Improvement Communities, NICs）**：林根费尔特（Lingenfelter, 2016）介绍的布里克等（[[Anthony Bryk]] et al.）的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包” (p. 14)。
+> - **实在论综合（Realist Synthesis）**：Pawson (2006) 提倡的替代路径不寻求单一均值，而是深入理解每次干预的“受试者（subjects）”特征、原始研究者的因果理论、测量充分性以及过程中的结构性障碍，探求因果机制如何在不同背景下产生不同的结果 (p. 14)。
+> - **网络化改进共同体（Networked Improvement Communities, NICs）**：Lingenfelter (2016) 介绍的 Bryk et al. (2015) 的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包” (p. 14)。
 > - **方法论多元光谱**：因果机制的探索需要引入 [[Qualitative Observation|质性观察]]、历史研究、话语分析、立法质询、行动研究与解放性研究 (p. 16)。
 
 > [!theory-components] 批判实在论的分层 [[Ontology|本体论]]与因果涌现性
@@ -276,12 +276,12 @@ citation_aliases:
 > [!citation-card] 教育项目的现实主义因果观
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（Reasoning）。(p. 7)
 >
-> Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006: 45)
+> Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006, p. 45)
 
 > [!citation-card] [[Meta-analysis|元分析]]的净化与空洞化
 > 在元分析综述的每个阶段，都在进行简化。……在这一“清洗”过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。(p. 13)
 >
-> At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning. (Pawson, 2006: 42–43)
+> At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning. (Pawson, 2006, pp. 42–43)
 
 > [!citation-card] 均值指标的荒谬性
 > 元分析的结果绝不应该是一个平均数；它应该是一张图表。(p. 9)
