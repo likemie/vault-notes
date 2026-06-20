@@ -28,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Probabilistic Causation]]"
   - "[[Purpose Statement]]"
+  - "[[Operationalization]]"
   - "[[Counterfactual]]"
   - "[[Compound Causes]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -127,7 +128,7 @@ updated: 2026-06-17
 > | 1 | 是否寻求建立因果性 | 如果寻求，为什么？[[Purpose Statement\|研究目的]]是否需要因果推断 |
 > | 2 | 何时认定因果性已被证明 | 因果性从来不是百分之百确定的 |
 > | 3 | 什么构成一个原因，什么构成一个效果 | 概念界定是因果推断的前提 |
-> | 4 | 什么构成原因的证据，什么构成效果的证据 | 操作化与测量问题 |
+> | 4 | 什么构成原因的证据，什么构成效果的证据 | [[Operationalization\|操作化]]与测量问题 |
 > | 5 | 需要怎样的研究类型和方法论 | 如果因果性是研究目标，方法选择必须与之匹配 |
 > | 6 | 研究的是效果的原因（cause of an effect），原因的效果（effect of a cause），还是两者兼具 | 决定了研究设计的方向 |
 > | 7 | 区分原因（cause）、理由（reasons）、动机（motives）、决定（determination）和蕴涵（entailment） | 这些可能在某些情境中施加因果力，但在另一些情境中不能 |

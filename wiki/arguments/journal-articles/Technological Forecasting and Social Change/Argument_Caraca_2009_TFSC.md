@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -318,7 +319,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 > [!warning] 概念简报的篇幅与[[Research Scope|研究范围]]
 > - [[Multi-channel Interactive Learning Model|多通道互动学习模型]]是复杂的，仅能给出简要概述 (p.866)。模型各组成部分——螺旋学习循环、三类知识池、界面概念、双层创新环境——均值得进一步独立研究和实证检验。
-> - 模型定位是代表性而非穷举性的，不假设所有因素必须就位才能实现创新 (p.865)。它是对创新过程主要[[Variable|变量]]及其相互关系的风格化表征，不是可供计量检验的操作化模型。
+> - 模型定位是代表性而非穷举性的，不假设所有因素必须就位才能实现创新 (p.865)。它是对创新过程主要[[Variable|变量]]及其相互关系的风格化表征，不是可供计量检验的[[Operationalization|操作化]]模型。
 > - 希望该模型可作为大规模研究项目的框架和灵感，也可作为政策制定者克服不同类型偏见的指南——例如只关注国际组织最新流行概念，或只关注创新指标路灯下能看到的事物 (p.867)。
 > - 现有创新指标严重偏向 R&D 投入和专利产出的测量，对组织学习、用户互动和界面质量的测量远远不足。这一测量偏误反过来强化了线性模型的持续影响力（Godin, 2006, 引自 p.862, footnote 3）。
 

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
   - "[[State Vertical]]"
+  - "[[Operationalization]]"
 related_theories:
   - "[[Network Society]]"
 related_methods: []
@@ -25,7 +26,7 @@ related_persons:
   - "[[Manuel Castells]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Chan_2015_Intersect]]"
+  - "[[Fallen behind: Science, technology, and Soviet statism]]"
 confidence: medium
 status: draft
 created: 2026-06-12
@@ -86,7 +87,7 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 > [!timeline] 理论形成与扩展
 > - **1996–1998** Castells 出版《信息时代》三部曲初版（*The Rise of the [[Network Society]]*; *The Power of Identity*; *End of Millennium*），系统提出信息主义理论框架。
 > - **2010** 三部曲再版，在第三卷 *End of Millennium* 中详细分析了[[Soviet Statism|苏联国家主义]]体制在信息时代的转型与崩溃，提出国家主义与[[Informationalization|信息化]]不相容的核心论点。
-> - **2015** Chan 运用该框架分析苏联科技落后的五个具体机制，将信息主义的理论命题操作化为可检验的历史解释[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
+> - **2015** Chan 运用该框架分析苏联科技落后的五个具体机制，将信息主义的理论命题[[Operationalization|操作化]]为可检验的历史解释[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
 
 ---
 ## 相关研究

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Ontology]]"
   - "[[Tracking]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -28,7 +29,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Wiliam_2019]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -88,6 +89,6 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **操作化困难**：如果验证是永无止境的过程，研究人员和政策制定者何时可以"足够确信"以采取行动？效度作为过程的立场提供了哲学严谨性但缺乏操作性的停止规则。
+> - **[[Operationalization|操作化]]困难**：如果验证是永无止境的过程，研究人员和政策制定者何时可以"足够确信"以采取行动？效度作为过程的立场提供了哲学严谨性但缺乏操作性的停止规则。
 > - **与证据等级体系的张力**：ESSA 的三级证据标准（强/中/有希望）将效度隐含地定位在研究设计层面而非推论层面——与 Cronbach/Messick 的立场在根本上不一致
 

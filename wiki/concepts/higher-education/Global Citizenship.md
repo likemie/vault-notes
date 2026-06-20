@@ -22,6 +22,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Revoicing]]"
   - "[[Graduate Attributes]]"
+  - "[[Operationalization]]"
   - "[[Reflexivity]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Revolutionism]]"
@@ -33,9 +34,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_SpronkenSmith_2024_AEHE]]"
-  - "[[Argument_Wong_2022_HERD]]"
-  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]]"
+  - "[[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]]"
+  - "[[Comparative education and international relations]]"
 confidence: low
 status: draft
 created: '2026-05-26'
@@ -66,7 +67,7 @@ updated: '2026-05-26'
 ## 核心要素
 
 > [!abstract]
-> O'Brien（2011）的三素养框架是当前博士教育研究中最常引用的全球公民操作化方案。Spronken-Smith（2018）的补充使框架从"跨文化沟通"扩展到"人类与自然的关系"维度。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的七域分类进一步加入了倡导（advocacy）和社会正义取向（social justice-oriented disposition）两个跨领域品质。
+> O'Brien（2011）的三素养框架是当前博士教育研究中最常引用的全球公民[[Operationalization|操作化]]方案。Spronken-Smith（2018）的补充使框架从"跨文化沟通"扩展到"人类与自然的关系"维度。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的七域分类进一步加入了倡导（advocacy）和社会正义取向（social justice-oriented disposition）两个跨领域品质。
 
 ### 数字素养（digital literacy）
 通过不同媒介和通信技术与多元受众有效沟通的能力（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。在 21 世纪的全球就业环境中，这不只是"会用数字工具"，更包括理解不同媒介的传播逻辑、在跨国虚拟团队中协作、以及跨时区和跨文化地管理数字身份和专业形象。
@@ -148,7 +149,7 @@ Spronken-Smith（2018）在 O'Brien 的三素养基础上补充的第四个维�
 ## 相关案例／政策
 
 > [!example]
-> - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民操作化为具体博士培养目标的大学之一([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.88]])
+> - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民[[Operationalization|操作化]]为具体博士培养目标的大学之一([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.88]])
 > - Manchester 大学[[Graduate Attributes|毕业生特质]]表述 — "毕业生被鼓励和赋能去面对作为地方、区域和全球公民的公民价值观和责任"([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]])
 > - Keele 大学毕业生特质 — 毕业生能够并有动力"作为积极公民负责任地和协作地参与其所生活和工作的社群"([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]])
 

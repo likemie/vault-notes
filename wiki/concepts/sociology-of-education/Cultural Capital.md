@@ -25,6 +25,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[School Leadership]]"
+  - "[[Operationalization]]"
   - "[[Cultural Barrier]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
@@ -39,8 +40,8 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -137,7 +138,7 @@ Bourdieu 区分文化资本的三种存在形态：
 > [!warning]
 > - **概念边界模糊**：文化资本与人力资本、社会资本之间的区分在实际操作中并不总是清晰——具身化文化资本（如语言能力）在劳动力市场上同样可以被分析为人力资本，这引发了对概念必要性的质疑
 > - **经验测量困难**：如何定量测量具身化文化资本一直是经验研究的主要挑战。大部分[[Quantitative Research|定量研究]]只能以制度化文化资本（如父母学历）作为代理[[Variable|变量]]，这模糊了三种形态之间的理论区分
-> - **法国中心主义**：文化资本概念主要基于法国社会的经验发展，其"高雅文化"（high culture）预设在其他社会情境中可能不适用。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在中国语境中的操作化为跨情境应用提供了范例
+> - **法国中心主义**：文化资本概念主要基于法国社会的经验发展，其"高雅文化"（high culture）预设在其他社会情境中可能不适用。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在中国语境中的[[Operationalization|操作化]]为跨情境应用提供了范例
 
 ---
 

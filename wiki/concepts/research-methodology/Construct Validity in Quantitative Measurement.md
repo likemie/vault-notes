@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -28,7 +29,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -49,7 +50,7 @@ updated: 2026-06-01
 
 > [!example]
 > - vs 效标效度（Criterion Validity） — 两者都是量化测量效度的常见形式。[[Construct|构念]]效度问"工具是否测量了目标构念本身？"；效标效度（亦称同时效度，Concurrent Validity）问"工具分数是否与同一构念的金标准测量相关联，或能否预测某一效标测量？"例如，一个新开发的抑郁量表应与已有金标准（如 Beck Depression Inventory）高度相关（同时效度），并能预测未来的临床诊断（预测效度）。
-> - vs 实验构念效度威胁（Threats to [[Construct]] Validity in Experiments） — Creswell & Creswell (2022, Ch8) 明确区分了这两种含义：前者是测量工具的质量属性（"这个工具测的准不准？"）；后者是[[Experimental Research|实验研究]]中的效度威胁类型之一——指研究者使用了不恰当的[[Variable|变量]]定义和测量方式，导致构念的操作化无法准确反映理论构念（"你对变量的操作化是否真的代表了你要研究的那个理论构念？"）。
+> - vs 实验构念效度威胁（Threats to [[Construct]] Validity in Experiments） — Creswell & Creswell (2022, Ch8) 明确区分了这两种含义：前者是测量工具的质量属性（"这个工具测的准不准？"）；后者是[[Experimental Research|实验研究]]中的效度威胁类型之一——指研究者使用了不恰当的[[Variable|变量]]定义和测量方式，导致构念的[[Operationalization|操作化]]无法准确反映理论构念（"你对变量的操作化是否真的代表了你要研究的那个理论构念？"）。
 
 ## 核心要素
 

@@ -40,6 +40,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Statistical Significance]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
@@ -199,7 +200,7 @@ citation_aliases:
 > 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果(p.124)。
 
 > [!warning] 局限性与批评
-> 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素操作化为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的证据使用模型(pp.122-124)。
+> 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素[[Operationalization|操作化]]为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的证据使用模型(pp.122-124)。
 
 ## 来源
 

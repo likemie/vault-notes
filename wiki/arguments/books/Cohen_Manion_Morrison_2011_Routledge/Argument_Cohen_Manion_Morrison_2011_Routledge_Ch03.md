@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Categorical Funding]]"
+  - "[[Operationalization]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
@@ -116,7 +117,7 @@ updated: 2026-06-17
 
 > [!feature] 研究与评估的8项共享特征
 > 1. **澄清调查目的**：两者都需要在启动调查前明确调查的目标和意图。
-> 2. **操作化调查目的和领域**：将抽象的调查目标转化为可操作的具体问题或指标。
+> 2. **[[Operationalization|操作化]]调查目的和领域**：将抽象的调查目标转化为可操作的具体问题或指标。
 > 3. **处理研究设计原则**，涵盖八个子项 (a–h)：
 >    - a. 形成操作性问题
 >    - b. 决定适当的方法论

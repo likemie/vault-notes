@@ -17,6 +17,7 @@ tags:
   - method/curriculum-design
 related_concepts:
   - "[[Social Realism]]"
+  - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Powerful Knowledge]]"
   - "[[Recontextualization]]"
@@ -30,7 +31,7 @@ related_persons:
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -44,7 +45,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 [[Basil Bernstein|伯恩斯坦]]理论框架的演绎模型，由 McPhail (2023) 提出，基于[[Social Realism|社会实在论]]的首要原则，将课程设计中概念知识和应用知识的区分及其必要连接加以操作化。模型的目标是让课程设计与知识的[[Epistemology|认识论]]结构（即层次性相互关联的抽象和可概括概念）对齐，从而实现深层设计连贯性（McPhail, 2023）。
+> 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 [[Basil Bernstein|伯恩斯坦]]理论框架的演绎模型，由 McPhail (2023) 提出，基于[[Social Realism|社会实在论]]的首要原则，将课程设计中概念知识和应用知识的区分及其必要连接加以[[Operationalization|操作化]]。模型的目标是让课程设计与知识的[[Epistemology|认识论]]结构（即层次性相互关联的抽象和可概括概念）对齐，从而实现深层设计连贯性（McPhail, 2023）。
 
 > [!quote]
 > "The Curriculum Design Coherence Model... operationalizes the differentiation and subsequent necessary connection between conceptual and applied knowledge for curriculum design."（McPhail, 2023）
@@ -56,7 +57,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs [[Powerful Knowledge|有力知识]] — 有力知识描述学科知识的独特禀赋，即来自学科的概念性知识具有可概括性。CDCM 是一个操作化工具，将有力知识的原则转化为可实施的课程设计框架。
+> - vs [[Powerful Knowledge|有力知识]] — 有力知识描述学科知识的独特禀赋，即来自学科的概念性知识具有可概括性。CDCM 是一个[[Operationalization|操作化]]工具，将有力知识的原则转化为可实施的课程设计框架。
 > - vs [[Recontextualization|再脉络化]] — 再脉络化描述知识从生产场所到课程的转化过程。CDCM 关注再脉络化之后的课程设计阶段，即如何在设计中保持知识的连贯性。
 
 ---

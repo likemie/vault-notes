@@ -16,6 +16,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
+  - "[[Operationalization]]"
   - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods:
@@ -24,7 +25,7 @@ related_persons: []
 related_facts:
   - "[[Best Evidence in Brief]]"
 related_arguments:
-  - "[[Argument_Slavin_2021_ROE]]"
+  - "[[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -72,7 +73,7 @@ updated: '2026-06-02'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> **定义分歧**：石中英 (2017) 区分广义实证（收集观察数据提出假设）与狭义实证（程序化、操作化、定量化），暗示若按广义理解中国学术一直从事证据本位研究([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.15]])。
+> **定义分歧**：石中英 (2017) 区分广义实证（收集观察数据提出假设）与狭义实证（程序化、[[Operationalization|操作化]]、定量化），暗示若按广义理解中国学术一直从事证据本位研究([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.15]])。
 >
 > **统计主义批判**：李军 (2018) 警告不应将证据本位研究等同于**统计主义** (statisticalism)——聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想，认为证据本位排斥了难以量化的教育理念、价值和情感 (p.15-16)。
 >

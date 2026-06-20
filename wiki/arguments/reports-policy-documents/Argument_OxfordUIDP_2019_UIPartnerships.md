@@ -43,6 +43,7 @@ related_concepts:
   - "[[Fourth Industrial Revolution]]"
   - "[[Technology Readiness Level]]"
   - "[[Absorptive Capacity]]"
+  - "[[Operationalization]]"
   - "[[Logic Model]]"
   - "[[Counterfactual]]"
   - "[[Partnership Continuum]]"
@@ -279,7 +280,7 @@ updated: 2026-06-10
 >
 > 这一区分意味着超越传统伙伴不能简单套用前沿合作的模式——两类逻辑需要不同的合作设计、不同的度量指标、不同的期望管理（pp.18–19）。
 
-以下五条路径正是**前沿内扩散**逻辑的操作化——峰会识别了大学触达技术前沿内部企业的具体方式：
+以下五条路径正是**前沿内扩散**逻辑的[[Operationalization|操作化]]——峰会识别了大学触达技术前沿内部企业的具体方式：
 
 > [!pathways] 前沿内扩散的五条可行路径
 > - **供应链传导**：通过大型企业的供应链工作，帮助缺乏与大学互动经验的中小企业定位合适的活动和会议、获取专业和科学网络。

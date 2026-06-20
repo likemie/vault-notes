@@ -49,6 +49,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Reflexivity]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
@@ -356,7 +357,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 例外：威斯康辛模型（Wisconsin Model of Educational Attainment）引入教育期望、同辈网络等社会心理因素，对黑箱有所突破。
 
 "作为过程"的视角兴起有三股推力（引 Stuber, 2011）：
-1. 1970s 女权主义者抗议将阶级操作化为单一职业地位——阶层是多维度的生成过程
+1. 1970s 女权主义者抗议将阶级[[Operationalization|操作化]]为单一职业地位——阶层是多维度的生成过程
 2. 分层研究的"文化转向"（cultural turn）——使意义、[[Reflexivity|反思性]]和符号重回视野
 3. Clippings/Pierre Bourdieu及其追随者——[[Cultural Capital|文化资本]]与习性对教育不平等的深刻理论化
 
@@ -1212,7 +1213,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 > **可能的批评**：
 
 > - **供给侧的相对缺席**：全书着力于学生策略和意义建构（需求侧），对雇主歧视、行业结构变化、宏观经济波动等供给侧因素着墨较少
-> - **家庭背景的可操作化**：四维度弱势指标（SES、城乡、地区、第一代大学生）内部差异较大，交叠计分方式简化了各维度的独特效应
+> - **家庭背景的可[[Operationalization|操作化]]**：四维度弱势指标（SES、城乡、地区、第一代大学生）内部差异较大，交叠计分方式简化了各维度的独特效应
 > - **"转变"的充分性**：约半数直觉依赖者发生转变的结论令人鼓舞，但"转变"本身的标准和程度在书中未作严格界定——部分转变者可能仅在特定维度上趋近[[Goal-Controlled Mode|目标掌控模式]]
 > - **[[Value Conformist Mode|价值归顺]]的再解读**：价值归顺者的"成功"可能部分来自对家国叙事的服从性内化——这究竟是一种解放性的能动性发挥，还是一种对既有权力结构的再生产？书中未充分展开这一张力
 

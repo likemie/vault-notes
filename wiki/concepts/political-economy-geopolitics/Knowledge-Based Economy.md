@@ -30,6 +30,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Operationalization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Spatial Sortings]]"
   - "[[International Schools]]"
@@ -51,12 +52,12 @@ related_facts:
   - "[[UAE Education Hub Projects]]"
   - "[[Singapore Education Hub Policy]]"
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
+  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -167,7 +168,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 > [!success]
 > - 物质性转折点（1980 年代后期）：在部分发达资本主义国家，市场经济的财富主要来源开始从自然资源→有形资产→无形资产的系统转变，知识和信息成为价值创造的根本基础（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]]）
 - 大学的战略角色转变：在 KBE 巩固过程中，"大学的战略政治角色根本性增加"——大学成为全球竞争中产生价值和比较优势的核心基础设施([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
-- **[[Single-Case Design|SCD]]：KBE 逻辑在个体层面的操作化**：21 世纪技能与素养话语（SCD）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主义知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]])。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
+- **[[Single-Case Design|SCD]]：KBE 逻辑在个体层面的[[Operationalization|操作化]]**：21 世纪技能与素养话语（SCD）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主义知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]])。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
 - KBE 的[[Spatial Sortings|空间分化]]效应：KBE 既将某些地点和人口置于发展的中心，又同时将其他地点和人口边缘化（参见 [[Spatial Sortings]]）。枢纽地区（大型城市的创新综合体）与边缘地区（较小城市群、农村）之间的分化加剧——"增长潜力集中在 KBE 的城市枢纽中，而枢纽之外地区因'经济结构变迁'经历相对衰退"([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])
 - **亚洲政府的高等教育大规模投资**：[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 记录了亚洲各国政府如何以 KBE 话语为框架大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。亚洲高等教育系统积极改革课程以对接全球劳动力市场的变化需求，同时追求对西方顶尖大学的"追赶"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.95]])
 - **KBE 话语作为亚洲中产阶级教育消费的文化推力**：[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.96]]）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地精英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
@@ -191,7 +192,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 > [!example]
 > - [[Knowledge-Based Economization]] — Moisio 提出的姊妹概念：KBE 不是给定的，而是被持续生产、建构和维持的过程性结果
 - [[Geopolitics of Knowledge]] — KBE 构成了知识地缘政治的经济基础，详见 [[Geopolitics of Knowledge#知识经济化逻辑]]
-- [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 是 KBE 逻辑在个体主体性层面的操作化：将宏观经济增长需求转化为个体技能获取义务
+- [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 是 KBE 逻辑在个体主体性层面的[[Operationalization|操作化]]：将宏观经济增长需求转化为个体技能获取义务
 - [[International Education Hubs]] — IEHs 是 KBE 逻辑在高等教育领域国家层面的战略物质化
 
 ---

@@ -17,6 +17,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[School Choice]]"
   - "[[New Public Management]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -79,6 +80,6 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — LSLD 是 NSW 版的学校自主权改革
 > - [[Independent Public Schools Western Australia]] — WA 的并行政策，可作比较
-> - [[New Public Management]] — LSLD 体现了 NPM 经济效率话语在学校治理中的操作化
+> - [[New Public Management]] — LSLD 体现了 NPM 经济效率话语在学校治理中的[[Operationalization|操作化]]
 > - [[Gonski Reforms]] — Gonski 改革与 LSLD 下的公平资金分配直接相关
 

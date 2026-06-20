@@ -20,7 +20,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Convergence Research]]"
   - "[[Innovation Hub]]"
-  - "[[Didaktik]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -32,10 +31,10 @@ related_facts:
   - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
-  - "[[Argument_Byrne_2025_InnovationCenters]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Innovation Centers and Economic Development]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -64,7 +63,7 @@ updated: 2026-06-05
 ## I-Corps 创业培训
 
 > [!info]
-> [[NSF I-Corps]]（Innovation Corps，创新兵团）是 NSF 于 2011 年启动的创业培训项目。其核心理念是[[Didaktik|教授学]]者创业思维，而非仅提供推进科学研究的资金。项目要求产业代表直接参与，在研究项目中内置产业反馈循环机制([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, p.149]])。
+> [[NSF I-Corps]]（Innovation Corps，创新兵团）是 NSF 于 2011 年启动的创业培训项目。其核心理念是教授学者创业思维，而非仅提供推进科学研究的资金。项目要求产业代表直接参与，在研究项目中内置产业反馈循环机制([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, p.149]])。
 
 > [!success]
 > 自 2011 年启动以来，I-Corps 已孵化超过 1,000 家初创企业，这些企业累计获得超过 $760 million 的后续融资（NSF, 2024，转引自 p.149）。

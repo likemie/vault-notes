@@ -18,13 +18,14 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Operationalization]]"
   - "[[Spatial Sortings]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - Moisio 的分析暗示进步新自由主义正在被挑战和替代，但他未详细描绘替代性意识形态的具体形态——这是有待进一步研究的议题([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])
-> - 进步新自由主义作为一种宽泛的意识形态标签，在经验操作化方面面临挑战——特定政策是否属于进步新自由主义往往需要细致的情境判断
+> - 进步新自由主义作为一种宽泛的意识形态标签，在经验[[Operationalization|操作化]]方面面临挑战——特定政策是否属于进步新自由主义往往需要细致的情境判断
 >
 
 ## 相关概念

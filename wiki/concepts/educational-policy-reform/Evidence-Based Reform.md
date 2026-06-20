@@ -29,6 +29,7 @@ related_concepts:
   - "[[Logic Model]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Operationalization]]"
   - "[[Conflict of Interest in Research]]"
   - "[[External Validity]]"
   - "[[Research Question]]"
@@ -70,19 +71,19 @@ related_facts:
   - "[[ECNU Declaration on Evidence-Based Research]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Slavin_2021_ROE]]"
-  - "[[Argument_Cheung_2021_ROE]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
-  - "[[Argument_Slavin_2002_ER]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Dachet_2021_ROE]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Cowen_2019_ERE]]"
-  - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
+  - "[[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]]"
+  - "[[Evidence-based reform in education: Global perspectives [Editorial]]]"
+  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Evidence-based education policies: Transforming educational practice and research]]"
+  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[Evidence-based education: The not so simple case of French-speaking Belgium]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
+  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -257,7 +258,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 **1. 定义之争：广义 vs 狭义"实证"**
 
-石中英 (2017) 区分广义"实证"（研究者收集和观察相关数据以提出和验证假设——中国学术历来从事此方面工作）与狭义"实证"（使用程序化、操作化和定量化措施对教育和社会现象得出结论——这不是大多数中国教育研究者一直在做的）。这一区分暗示了定义问题本身即是争议焦点([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.15]])。
+石中英 (2017) 区分广义"实证"（研究者收集和观察相关数据以提出和验证假设——中国学术历来从事此方面工作）与狭义"实证"（使用程序化、[[Operationalization|操作化]]和定量化措施对教育和社会现象得出结论——这不是大多数中国教育研究者一直在做的）。这一区分暗示了定义问题本身即是争议焦点([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.15]])。
 
 **2. "统计主义"（Statisticalism）批判**
 

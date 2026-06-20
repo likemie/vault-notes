@@ -30,6 +30,7 @@ related_concepts:
   - "[[Tense Society]]"
   - "[[Paradigm]]"
   - "[[Official Knowledge]]"
+  - "[[Operationalization]]"
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Social Museology]]"
@@ -113,7 +114,7 @@ Delambre 首先建立问题的紧迫性：西方现代性的知识模式——�
 
 ### 步骤 5：Ganz-Methode 两步法的具体操作
 
-[[Ganz-Methode]]（整体方法，Whole Approach）是张力理论的操作化，分两步(p.112–116)：
+[[Ganz-Methode]]（整体方法，Whole Approach）是张力理论的[[Operationalization|操作化]]，分两步(p.112–116)：
 
 **第一步：承载张力，构建运动中的"整体进路"**
 

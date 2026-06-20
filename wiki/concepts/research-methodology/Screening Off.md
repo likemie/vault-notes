@@ -17,12 +17,13 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+  - "[[Research Methods in Education · Ch04]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -47,7 +48,7 @@ updated: 2026-06-17
 > - **共同原因 C**：一个第三[[Variable|变量]]同时导致 A 和 B。
 > - **表面关联 A ↔ B**：A 和 B 在数据上表现出伴随变化，但这完全由 C 解释。
 > - **因果独立**：在控制 C 的条件下，A 和 B 之间的关联消失——它们彼此不产生因果影响。
-> - **操作化**：通过偏相关（partial correlation）或结构方程模型等技术"筛掉"不相关的因变量。
+> - **[[Operationalization|操作化]]**：通过偏相关（partial correlation）或结构方程模型等技术"筛掉"不相关的因变量。
 
 ## 围绕概念形成的命题
 

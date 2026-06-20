@@ -13,11 +13,11 @@ tags:
   - level/higher-ed
   - paradigm/positivist
 related_concepts:
-  - "[[Didaktik]]"
   - "[[Definition of Terms]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
+  - "[[Operationalization]]"
   - "[[Research Question]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
@@ -29,7 +29,7 @@ related_persons:
   - "[[Thomas Barr Greenfield]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -40,7 +40,7 @@ updated: 2026-05-18
 > [!info] 背景
 > 教育行政研究在 20 世纪初的美国大学中建制化。教育行政系科的建立与 Taylor（1911）*The Principles of Scientific Management* 的出版大体同时，这些科学管理原则被当时的主要人物——Teachers College Columbia 的 George Strayer、Wisconsin 的 Edward Elliot、Chicago 的 Franklin Bobbit 和 Stanford 的 Ellwood Cubberly——大力倡导([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315-316]])。
 >
-> > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中[[Didaktik|教授学]]校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.326]]）。
+> > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中教授学校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.326]]）。
 >
 > 然而，Taylor 和同期经典行政思想家（Lyndall Urwick、Henri Fayol）是**实践者/研究者**而非科学家。"科学"与"教育行政的科学研究"在理论运动时期（1950–1960s）才达到顶峰([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]])。
 
@@ -90,7 +90,7 @@ updated: 2026-05-18
 >
 > - Bates（1980, 1983）的**教育行政[[Critical Theory|批判理论]]**也对逻辑经验主义提出了批判
 > - Gunter（2010）记录的**教育行政社会学方法**进一步挑战了实证主义范式
-> - Evers & Lakomski（1991, 1996, 2000, 2012）一致论证：**问题不在科学，而在科学的模型**——是逻辑经验主义这一狭窄操作化的问题，而非科学探究本身的追求不值得或不可能([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
+> - Evers & Lakomski（1991, 1996, 2000, 2012）一致论证：**问题不在科学，而在科学的模型**——是逻辑经验主义这一狭窄[[Operationalization|操作化]]的问题，而非科学探究本身的追求不值得或不可能([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
 > - 这些批判导致许多人相信教育行政科学的追求既不值得也不可行
 
 ## 争议与评论

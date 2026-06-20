@@ -26,6 +26,7 @@ related_concepts:
   - "[[Talent Assumption]]"
   - "[[Epistemology]]"
   - "[[Epistemological Break]]"
+  - "[[Operationalization]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -35,9 +36,9 @@ related_persons:
   - "[[Edmund Husserl]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Eacott_2011_JEAH]]"
-  - "[[Argument_Eacott_2015_EPT]]"
-  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
+  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
 confidence: medium
 status: draft
 created: 2026-05-09
@@ -145,7 +146,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 ## 争议与批评
 
 > [!warning]
-> - **概念边界模糊**：doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易操作化——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
+> - **概念边界模糊**：doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易[[Operationalization|操作化]]——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
 > - **经验研究的困难**：如何经验地识别和测量 doxa 是主要挑战——研究者自身也嵌入了特定[[Champ|场域]]，如何区分研究者的分析范畴与被研究者体验为自然的 doxa？([[Argument_Eacott_2015_EPT|Eacott, 2015]])
 > - **变革可能性被低估**：如果 doxa 如此不言自明且被结构性地再生产，行动者如何可能挑战它？批评者指出 Bourdieu 对 doxa 的变革路径阐述不足
 > - **决定论的张力**：Bourdieu 的框架倾向于强调结构的再生产力量，这与他的实践理论中对能动性的承认存在内在张力

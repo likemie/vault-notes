@@ -25,6 +25,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods: []
@@ -32,8 +33,8 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[Research Methods in Education · Ch04]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -147,7 +148,7 @@ updated: 2026-06-18
 > [!tension] 争议焦点
 > - **理论前提争议**：工具理性之下的效用计算模式"远不能概括生涯选择的全部合理性"——思想、信念、情感、价值、信仰等内在化的人类思想生活，"和利益一样对于理解人类行动是不可或缺的"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Boudon, 2001; Weber）。
 > - **解释范围争议**：Hodkinson 和 Sparkes（1997）指出学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分。理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受[[Habitus|习性]]影响（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Hodkinson & Sparkes, 1997）。
-> - **方法转化争议**：核心[[Variable|变量]]（如风险规避程度、成本感知、成功保证的阈值）难以直接测量和操作化，通常依赖间接指标或调查自述。
+> - **方法转化争议**：核心[[Variable|变量]]（如风险规避程度、成本感知、成功保证的阈值）难以直接测量和[[Operationalization|操作化]]，通常依赖间接指标或调查自述。
 
 ---
 

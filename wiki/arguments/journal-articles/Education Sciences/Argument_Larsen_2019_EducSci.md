@@ -28,6 +28,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Learnification]]"
   - "[[Value Neutrality]]"
+  - "[[Operationalization]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
 related_theories:
@@ -98,7 +99,7 @@ citation_aliases:
 > **4. 学习不是[[Value Neutrality|价值中立]]的概念——[[Bildung]] 要求更多（Section 4）**
 > - 学习概念的历史语义学分析：在丹麦，1960-70 年代"læring"曾是批判性、解放性的术语；1990 年代后被资本主义逻辑吸收，成为不可逃避的状况和强制要求(p.8-9)
 > - 教育的目的必须超越战略性国家和国际学习目标的目的论执行
-> - Bildung 作为替代：品格形成不可操作化或形式化，"Bildung belongs to life. It is autonomous, auto-telic."(p.9)
+> - Bildung 作为替代：品格形成不可[[Operationalization|操作化]]或形式化，"Bildung belongs to life. It is autonomous, auto-telic."(p.9)
 
 ## 主要发现
 

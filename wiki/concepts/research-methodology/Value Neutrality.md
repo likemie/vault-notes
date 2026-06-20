@@ -34,6 +34,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Ontology]]"
   - "[[Technical Rationality]]"
 related_theories:
@@ -49,11 +50,11 @@ related_persons:
   - "[[Max Weber]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Skourdoumbis_2024_AER]]"
-  - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Research Methods in Education]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
+  - "[[Imaginaries of Education and Innovation in the European Union]]"
 confidence: medium
 status: draft
 created: 2026-06-17
@@ -126,7 +127,7 @@ updated: 2026-06-18
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **事实-价值二分法是否可能**：[[Positivism|实证主义]]者坚称通过程序可以实现事实与价值的隔离；而[[Interpretive Paradigm|反实证主义]]者（如[[Critical Realism|批判实在论]]者）指出，任何[[Research Question|研究问题]]的提出、[[Variable|变量]]的操作化定义以及测试工具的设计，都已经包含了“什么是有价值的”这一规范性预设，因而在[[Ontology|本体论]]上无法彻底中立。
+> - **事实-价值二分法是否可能**：[[Positivism|实证主义]]者坚称通过程序可以实现事实与价值的隔离；而[[Interpretive Paradigm|反实证主义]]者（如[[Critical Realism|批判实在论]]者）指出，任何[[Research Question|研究问题]]的提出、[[Variable|变量]]的[[Operationalization|操作化]]定义以及测试工具的设计，都已经包含了“什么是有价值的”这一规范性预设，因而在[[Ontology|本体论]]上无法彻底中立。
 > - **“什么有效”对教育价值的剥夺**：[[Evidence-Based Education|EBE]] 倡导者主张“什么有效”是一个中立的、可测量的经验事实；批评者则指出，“有效性”是一个关系性概念（即干预对什么目标有效、对谁有效），如果不回答“为了什么目的（To what ends）”的政治和价值问题，单纯的统计[[Effect Size|效应量]]就毫无意义，甚至会误导政策。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]])
 
 ---

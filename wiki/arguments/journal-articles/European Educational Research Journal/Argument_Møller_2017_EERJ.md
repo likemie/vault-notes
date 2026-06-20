@@ -28,6 +28,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[Reflexivity]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -138,7 +139,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文主要基于作者个人参与 ISSPP 和 [[OECD]] ISL 项目的反思，依赖单一研究者视角
 > - 对 ISSPP 方法论的批判虽然有力，但未提出具体的替代性研究设计方案
-> - "[[Transformative Leadership|变革型领导力]]"框架本身的操作化仍不清晰
+> - "[[Transformative Leadership|变革型领导力]]"框架本身的[[Operationalization|操作化]]仍不清晰
 > - 论文定位为 Keynote 演讲性质，论证的展开深度有限（全文约 10 页）
 > - 论证依赖于对 OECD 报告的选择性阅读——OECD 在 [[Education at a Glance|EAG]] 中也提到了历史和文化差异的适应性需求
 

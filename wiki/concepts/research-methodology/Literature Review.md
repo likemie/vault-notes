@@ -4,7 +4,7 @@ aliases: ["文献综述", "文献回顾", "literature search", "review of the li
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，在量化、质性和混合方法研究中有不同的组织方式和认识论角色"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Deficiencies in Past Literature]]"
   - "[[APA Style]]"
   - "[[Definition of Terms]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -27,12 +28,13 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Research Methods in Education · Ch06]]"
+  - "[[Research Methods in Education · Ch07]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-06-19
+updated: 2026-06-21
 ---
 
 # Literature Review
@@ -151,6 +153,51 @@ Creswell 介绍了主要学术数据库及其特征([[Argument_Creswell_2022_SAG
 
 ---
 
+## 文献综述的论证写作
+
+Cohen et al. 强调文献综述不是对材料的描述性总结，而是**有组织、有论证发展的文本**。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.123–124]]）。
+
+> [!abstract] 文献综述的论证结构
+> 文献综述如同扩展论文，清晰呈现：
+> 1. 文献综述将要推进的论证
+> 2. 支持论证的正方要点
+> 3. 反对论证的反方要点
+> 4. 基于提出的要点和证据得出的结论
+
+> [!feature] 实施与撰写要点
+> - 呈现、语境化、分析、解释、批判和评估来源，而非仅仅接受其所说
+> - 暴露和指出来源的忽略、误解、歪曲、忽视之处，以及有争议或过时的内容
+> - 呈现关于一个议题的论证与反论证、证据与反证据
+> - 揭示不同作者在同一议题上的相似与差异
+> - 必须声明目的、工作方法、组织方式以及如何导向结论
+> - 是进入研究所有领域和阶段的跳板和基础
+> - 必须具有结论性，同时聚焦且全面覆盖相关议题
+> - 必须呈现议题或论证的两面
+
+## 网络文献检索
+
+在互联网上检索文献是研究者保持全球研究进展和获取数据的重要途径（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.126–131]]）。研究者可以通过研究协会网站、期刊索引、政府与统计网站、图书馆检索、在线期刊提供商和搜索引擎获取文献。
+
+> [!tip] 网络检索技巧
+> - **引号**（"..."）：将词语保持在一起且顺序不变，减少返回网站数量
+> - **星号**（*）：在词根后加星号，返回不同结尾的网站（如 teach* → teach, teaching, teacher）
+> - **波浪号**（~）：在词前加波浪号，识别相似词（如 ~English teaching 同时返回 English language 和 English teaching）
+> - **布尔操作符**：and, not, or 连接词语或短语
+
+### 网站评估
+
+由于互联网是大量无序且大多未经审查的材料库，研究者需要评估网站的适用性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.130–131]]）：
+
+> [!feature] 网站评估标准
+> - **目的**：网站的目的，确立其相关性和适切性
+> - **权威性与真实性**：材料应具有权威性并声明来源
+> - **内容**：材料的时效性、相关性和覆盖范围
+> - **可信度与合法性**：是否来自受尊重的来源或机构
+> - **正确性、准确性、完整性和公平性**
+> - **客观性与严谨性**
+
+研究者还需询问：作者是否被识别？是否确立了专业知识和机构归属？组织是否可信？材料是否有参考文献？网站的角色是提供信息还是说服？材料是否最新？是否没有偏见、个人观点和冒犯？保持完整的网站文献书目数据，包括检索日期和网址。
+
 ## 格式手册与 APA 风格
 
 格式手册为学术写作提供统一规范。社会科学领域以 APA 格式（第7版）为通行标准，在正文引用、参考文献、标题层级和包容性语言方面有系统规定。详见 [[APA Style]] 条目。
@@ -159,7 +206,7 @@ Creswell 介绍了主要学术数据库及其特征([[Argument_Creswell_2022_SAG
 
 ## 术语定义
 
-[[Definition of Terms|术语定义]]是研究计划中对关键术语的精确界定，遵循操作化、首次出现即定义、使用文献约定语言等原则，在三种研究路径中策略不同。详见 [[Definition of Terms]] 条目。
+[[Definition of Terms|术语定义]]是研究计划中对关键术语的精确界定，遵循[[Operationalization|操作化]]、首次出现即定义、使用文献约定语言等原则，在三种研究路径中策略不同。详见 [[Definition of Terms]] 条目。
 
 ---
 

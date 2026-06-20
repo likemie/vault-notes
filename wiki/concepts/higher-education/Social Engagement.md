@@ -21,6 +21,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Economy of Experience]]"
+  - "[[Operationalization]]"
   - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Barrier]]"
@@ -36,7 +37,7 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -71,7 +72,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1993 社交融入**：Tinto 在融入理论中提出社交融入（Social integration），定义为学生发现大学社交环境与自身偏好相协调的程度（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
-> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
+> - **1991 行为[[Operationalization|操作化]]**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
 > - **2003 [[Employability|就业力]]转向**：Brown & Hesketh 将社会性投入与[[Employability|就业力]]关联——在[[Knowledge-Based Economy|知识经济]]时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003, 2004）
 > - **2023 中国研究深化**：[[Yajun Zheng|郑雅君]]揭示社会性投入在两种[[Habitus|习性]]模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
@@ -91,7 +92,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > - [[Academic and Social Integration]]（Tinto, 1993）— 社交融入维度是社会性投入的理论原型
-> - [[Student Engagement]]（Kuh, 1991）— 提供了社会性投入的操作化定义和行为指标
+> - [[Student Engagement]]（Kuh, 1991）— 提供了社会性投入的[[Operationalization|操作化]]定义和行为指标
 > - [[Employability]]（Brown & Hesketh, 2003）— 揭示了社会性投入在[[Knowledge-Based Economy|知识经济]]时代的新功能——积累就业力
 > - [[Cultural Barrier]] — 揭示了社会性投入阶层不平等的结构性根源（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 >
 > **关键发现**：社会性投入不仅是结果[[Variable|变量]]（受阶层[[Habitus|习性]]影响），更可能是触发整个模式转换的**初始杠杆**——梓桐、高程等转变者均以社会性投入为转折引擎。这意味着投入不仅是**结果变量**，也可能成为**转化机制**([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
-> [!info]- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的操作化
+> [!info]- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的[[Operationalization|操作化]]
 > 社会性投入的操作化通过量化与质性指标[[Triangulation|三角互证]]：量化方面以交友数量、师生交流频率、学生组织领导职务级别为指标，质性方面通过 P2-Q4（课外活动参与情况）和 P2-Q6（对师生的情感评价）判断投入的方向性和质量。完整操作化设计见 [[Student Engagement]]([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---

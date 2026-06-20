@@ -18,13 +18,14 @@ tags:
   - theme/epistemology
   - theme/philosophy-of-science
   - paradigm/postpositivist
-related_concepts: []
+related_concepts:
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Research Methods in Education]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -44,7 +45,7 @@ updated: 2026-06-13
 
 ## 与有效理论特征的关系
 
-证伪性是有效经验理论九大特征之一：理论应阐明自身的证伪和验证条件，识别严格检验的性质和操作。其他八个特征包括可推导性、兼容性、简约性、解释与预测力、回应异常、生育力、可操作化和可复制性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+证伪性是有效经验理论九大特征之一：理论应阐明自身的证伪和验证条件，识别严格检验的性质和操作。其他八个特征包括可推导性、兼容性、简约性、解释与预测力、回应异常、生育力、可[[Operationalization|操作化]]和可复制性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!logic-map] 科学发现的证伪循环
 > ```mermaid

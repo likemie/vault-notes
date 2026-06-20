@@ -22,13 +22,14 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
+  - "[[Operationalization]]"
   - "[[Peer-Supported Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -69,7 +70,7 @@ updated: 2026-05-25
 > [!example]
 > - vs 西方同伴关系 — 西方"peer"的核心含义是地位平等（同年龄、同年级、同身份）；同学的核心含义是"共同学习的人"，地位平等不是定义要素
 > - vs 同学 — 同学是 Family Social Model 在学校语境中的具体化：同学关系不只是偶然同窗，而是类亲属关系
-> - vs [[Five Cardinal Relationships|五伦]] — 五伦是儒家基本伦理框架，Family Social Model 是其向社会关系扩展的操作化机制
+> - vs [[Five Cardinal Relationships|五伦]] — 五伦是儒家基本伦理框架，Family Social Model 是其向社会关系扩展的[[Operationalization|操作化]]机制
 
 ## 实证发现
 

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Mixed Methods Question]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -29,7 +30,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -93,7 +94,7 @@ updated: 2026-06-02
 
 图 10.8 的决策链：是否同时收集量化和质性数据？→ 是合并数据还是连接数据？→ 合并 → 聚敛式；连接 → 质性在先 → 探索性序列；量化在先 → 解释性序列 → 是否将核心设计嵌入更大的过程或框架？→ 复杂设计。
 
-两张流程图从意图和程序两个互补角度为设计选择提供操作化路径。
+两张流程图从意图和程序两个互补角度为设计选择提供[[Operationalization|操作化]]路径。
 
 ---
 

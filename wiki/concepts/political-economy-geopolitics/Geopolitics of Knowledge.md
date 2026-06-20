@@ -38,6 +38,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Geopolitical Subject]]"
   - "[[Online Self-Assessment]]"
+  - "[[Operationalization]]"
   - "[[Promising Student]]"
   - "[[Paradigm]]"
   - "[[International Education Hubs]]"
@@ -194,7 +195,7 @@ updated: 2026-05-20
 ---
 
 > [!line-a] [[Geopolitical Subject|地缘政治主体]]的生产与[[Governmentality|治理术]]
-> 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑操作化为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过远距治理机制运作。详见 [[Governmentality#全球治理技术]]。
+> 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑[[Operationalization|操作化]]为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过远距治理机制运作。详见 [[Governmentality#全球治理技术]]。
 
 > [!line-b] 认识论治理与治理理性转换
 > GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换**：从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
@@ -232,7 +233,7 @@ updated: 2026-05-20
 >
 > 两条脉络并非前后替代——从不同学术起点出发，分别抵达"地缘政治与知识的关系"这一共同问题域。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两者整合为"新知识地缘政治"[[Analytic Framework|分析框架]]，主张批判地缘政治学提供空间配置和话语建构的分析工具，去殖民传统则将注意力引向认识论本身的政治性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）。
 
-[[Argument_Marginson_2025_ROE|Marginson（2025）]]补充了一个关键分析维度：高等教育地缘政治关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了操作化工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ROE|Marginson, 2025, p.14]]）。
+[[Argument_Marginson_2025_ROE|Marginson（2025）]]补充了一个关键分析维度：高等教育地缘政治关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ROE|Marginson, 2025, p.14]]）。
 
 ---
 
@@ -324,7 +325,7 @@ updated: 2026-05-20
 
 > [!finding-cards]
 > 1. **竞争力作为地缘政治装置** 大学通过排名、指标化和审计文化被重塑为竞争者。教学领域中，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]]）
-> 2. **[[Online Self-Assessment|OSA]] 作为 GPK 治理工具** 将 GPK 的竞争逻辑操作化为个体化的自我评估实践——潜在学生被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]之间的差距驱动着永不停息的自我优化（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]]）
+> 2. **[[Online Self-Assessment|OSA]] 作为 GPK 治理工具** 将 GPK 的竞争逻辑[[Operationalization|操作化]]为个体化的自我评估实践——潜在学生被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]之间的差距驱动着永不停息的自我优化（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]]）
 > 3. **[[Promising Student|有前景的学生]]：[[Geopolitical Subject|地缘政治主体]]的教学变体** GPK 在教学治理层面产出的主体形态——通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]]）
 
 详见 [[Argument_Thompson_2022_Promising_Student]]。
@@ -405,7 +406,7 @@ updated: 2026-05-20
 
 > [!warning] 方法论批评与适用局限
 > - 后殖民和去殖民学者批评西方中心的 GPK 概念本身即带有殖民性，需通过"认识论不服从"和转换"推理的地理"加以解构（Mignolo, 2009; Thompson & Parreira do Amaral, 2022, p.10）
-> - GPK 分析高度依赖理论话语分析，实证操作化路径尚不清晰；[[Argument_Marginson_2025_ROE|Marginson (2025)]]提出的"尺度-行动者-利益-机会结构"框架是少数较成熟的操作化工具之一
+> - GPK 分析高度依赖理论话语分析，实证[[Operationalization|操作化]]路径尚不清晰；[[Argument_Marginson_2025_ROE|Marginson (2025)]]提出的"尺度-行动者-利益-机会结构"框架是少数较成熟的操作化工具之一
 
 ---
 

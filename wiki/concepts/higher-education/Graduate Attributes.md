@@ -24,6 +24,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Operationalization]]"
   - "[[Revoicing]]"
   - "[[Return on Investment]]"
 related_theories: []
@@ -33,8 +34,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Wong_2022_HERD]]"
-  - "[[Argument_SpronkenSmith_2024_AEHE]]"
+  - "[[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]]"
+  - "[[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -111,7 +112,7 @@ updated: '2026-05-26'
 
 本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]的"[[Global Citizenship|全球公民]]与参与"话语（70% 覆盖）包含四个子维度（pp.1347–1348）：人际技能（诚信、尊重、同理心、敏感性，15%）；社会与公民责任（服务社会、参与公平与可持续性议题、作为积极公民参与社群）；国际网络与外语技能（仅 8%，出人意料地低）；环境意识（仅 11%，被作者评价为"略令人担忧"）。
 
-博士层次，[[Global Citizenship|全球公民]]属性是发展感知最低的特质组。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查中，环境素养（2.8）、文化理解（3.2）和全球视野（3.4）的均值远低于研究技能（4.4）（pp.89–90, Figure 1）。该研究将 O'Brien（2011）的数字素养、文化素养和社会沟通素养框架与 Spronken-Smith（2018）的环境素养整合为全球公民的操作化定义（p.87），并在七域分类中将 Senekal et al.（2022）的"积极公民身份"[[Revoicing|重铸]]为"全球公民"，增加倡导、社会正义取向和四种素养（p.98, Table 5）。但访谈显示，毕业生对全球公民属性的必要性看法分歧——部分认为"博士的目的是成为学科专家"，也有部分认为是"代际特征，不需要被教"（p.96）。
+博士层次，[[Global Citizenship|全球公民]]属性是发展感知最低的特质组。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查中，环境素养（2.8）、文化理解（3.2）和全球视野（3.4）的均值远低于研究技能（4.4）（pp.89–90, Figure 1）。该研究将 O'Brien（2011）的数字素养、文化素养和社会沟通素养框架与 Spronken-Smith（2018）的环境素养整合为全球公民的[[Operationalization|操作化]]定义（p.87），并在七域分类中将 Senekal et al.（2022）的"积极公民身份"[[Revoicing|重铸]]为"全球公民"，增加倡导、社会正义取向和四种素养（p.98, Table 5）。但访谈显示，毕业生对全球公民属性的必要性看法分歧——部分认为"博士的目的是成为学科专家"，也有部分认为是"代际特征，不需要被教"（p.96）。
 
 ### 职业与专业发展
 

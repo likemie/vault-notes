@@ -19,6 +19,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Analytic Framework]]"
   - "[[Student Involvement]]"
+  - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
   - "[[Paradigm]]"
   - "[[Cultural Capital]]"
@@ -35,7 +36,7 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Student Involvement]]（Astin, 1984）— 两者"异曲同工"，核心假设一致。Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**。在[[Yajun Zheng|郑雅君]]（2023）框架中，Astin 提供投入的**能量维度**，Kuh 提供投入的**行为操作化**（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984; Kuh, 1991）
+> - vs [[Student Involvement]]（Astin, 1984）— 两者"异曲同工"，核心假设一致。Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**。在[[Yajun Zheng|郑雅君]]（2023）框架中，Astin 提供投入的**能量维度**，Kuh 提供投入的**行为[[Operationalization|操作化]]**（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984; Kuh, 1991）
 > - vs [[Academic and Social Integration]]（Tinto, 1993）— Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持。在郑雅君（2023）框架中，Tinto 提供投入的**心理机制**，Kuh 提供投入的**行为操作化**
 
 ---
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1984 前身**：Astin 提出[[Student Involvement|学生涉入]]理论，奠定"投入-成果"关联的基础假设（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
-> - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入操作化为可观察的行为指标，并首次强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入[[Operationalization|操作化]]为可观察的行为指标，并首次强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2000s 实证积累**：Pascarella & Terenzini（2005）综合大量实证研究，确认投入-成果的正向关联([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - **2023 中国教育研究深化**：[[Yajun Zheng|郑雅君]]在 Kuh 基础上引入**方向性**维度——投入不仅有多寡之分（量），更有策略性方向的区别（质）。这一发现超越了"投入越多越好"的线性假设([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
@@ -104,7 +105,7 @@ updated: '2026-05-18'
 > - 弱势背景学生的投入和融入程度系统性偏低，在师生互动和同学互动上的表现往往不尽如人意，教育结果也相应偏低（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Pike & Kuh, 2005; 谢爱磊, 2016; 卢晓东等, 2016; 熊静和余秀兰, 2015）
 > - Stuber（2009）对美国大学生的研究发现，积极参与课外活动是一种回报丰厚的投入——既是积累[[Cultural Capital|文化资本]]和社会资本的关键渠道，也是显露阶级差异之所：与第一代大学生相比，社会出身优势的学生自带乐于进行社会性参与的文化倾向（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Stuber, 2009）
 
-> [!info]- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的操作化设计
+> [!info]- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的[[Operationalization|操作化]]设计
 > [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]通过多维度操作化测量投入的量与质。问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"——二者构成量-质[[Triangulation|三角互证]]。各维度的详细理论定义见 [[Academic Engagement]] 和 [[Social Engagement]]。
 >
 > | 投入维度 | 量化指标（问卷） | 质性[[Probes\|追问]]（访谈） |

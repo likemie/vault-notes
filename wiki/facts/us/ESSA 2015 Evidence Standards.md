@@ -16,6 +16,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Logic Model]]"
+  - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Learning Analytics]]"
   - "[[Preregistration]]"
@@ -32,9 +33,9 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Wolf_2020_JREE]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
+  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
+  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -65,7 +66,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 ## 技术要求细节
 
 > [!info] 技术要求细节
-> Evidence for ESSA (2019) 和 [[What Works Clearinghouse]] (2019) 对 ESSA 标准的操作化解释：
+> Evidence for ESSA (2019) 和 [[What Works Clearinghouse]] (2019) 对 ESSA 标准的[[Operationalization|操作化]]解释：
 >
 > - **测量工具**：必须独立于项目开发者或研究者
 > - **样本量和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）

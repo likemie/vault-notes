@@ -16,6 +16,7 @@ tags:
   - theme/knowledge-transfer
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Operationalization]]"
   - "[[Global Policy Space]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Lifelong Learning]]"
@@ -28,8 +29,8 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Cowen_2023_CE]]"
-  - "[[Argument_Beech_2009_CE]]"
+  - "[[Comparative education: and now? Comparative Education, 59(3), 326-340]]"
+  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -65,7 +66,7 @@ updated: 2026-06-06
 > [!note]
 > **Lauwerys 时期（1960 年代）**。[[Joseph Lauwerys]] (1965) 以理解（Verstehen）的方式把握法国、英格兰、美国和苏联的理想受教育身份模型，这些模型作为世界[[Paradigm|范式]]具有影响力。此时受教育身份是学术性的文化理解努力([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
-> **IEA 与 [[PISA]] 时期（1970 年代至今）**。受教育身份的概念从文化理解转向教育效率的测量。国际测试（IEA 研究、PISA）将受教育身份操作化为可量化的学习结果，从理解文化转向衡量效率([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> **IEA 与 [[PISA]] 时期（1970 年代至今）**。受教育身份的概念从文化理解转向教育效率的测量。国际测试（IEA 研究、PISA）将受教育身份[[Operationalization|操作化]]为可量化的学习结果，从理解文化转向衡量效率([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **当代争议**。在新自由主义经济定义下，受教育身份的测量成为一种解决方案导向的比较教育，而非理解转移的比较教育。比较教育被掏空了学术理解的所有形式，只剩下测量技术的细节([[Argument_Cowen_2023_CE|Cowen, 2023, pp.333–334]])。
 

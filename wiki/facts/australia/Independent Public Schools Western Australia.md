@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -77,6 +78,6 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — IPS 是澳大利亚学校自主权改革的最激进版本之一
 > - [[Karmel Report]] — IPS 的新自由主义逻辑与 Karmel 的民主起源形成对比
-> - [[New Public Management]] — IPS 体现了 NPM 的市场逻辑在学校治理层面的操作化
+> - [[New Public Management]] — IPS 体现了 NPM 的市场逻辑在学校治理层面的[[Operationalization|操作化]]
 > - [[Local Schools Local Decisions]] — NSW 版的学校自主权政策，可作比较
 

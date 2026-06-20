@@ -23,6 +23,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
+  - "[[Operationalization]]"
   - "[[Formative Assessment]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
@@ -33,8 +34,8 @@ related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments:
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Cohen_2025_JTT]]"
+  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[Measuring the impacts of university-industry R&D collaborations: a systematic literature review]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -88,7 +89,7 @@ updated: 2026-06-05
 > 吸收能力不能保证证据被客观使用。[[Students and Teachers Accessing Tomorrow|STAT]] 中，一些利益相关者最终仍回到原有政治议程、核心信念和对成就结果的偏好来解释复杂证据；这说明组织学习条件可以提高证据使用机会，但不能消除价值冲突([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 
 > [!warning]
-> 吸收能力在这组材料中主要作为解释性概念出现，没有被操作化为可比较指标。因此，它适合解释为什么某些学区能从评价证据中学习，但还不能单独作为可测量的评价结果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
+> 吸收能力在这组材料中主要作为解释性概念出现，没有被[[Operationalization|操作化]]为可比较指标。因此，它适合解释为什么某些学区能从评价证据中学习，但还不能单独作为可测量的评价结果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
 
 ## 相关案例／政策
 
@@ -114,5 +115,5 @@ updated: 2026-06-05
 > 两家同等规模的区域制造企业同时与同一所大学工程系建立了合作研发关系。A 公司内部设有专门的研发部门和定期的技术研讨会机制，工程师能够在合作中快速理解大学的材料科学发现并转化为工艺改进方案。B 公司的技术决策集中在少数高管手中，没有内部知识分享机制，合作一年后大学的研究成果仍然停留在实验室阶段。表面上看合作形式和投入相似，但吸收能力的差距使 A 公司从合作中获得了显著的技术升级，B 公司几乎一无所获（基于 Vega-Jurado et al., 2020 的实证发现）。
 
 > [!warning]
-> 吸收能力在这一语境中同样未被操作化为标准化指标。UIC 文献主要将其作为解释合作效果差异的事后[[Analytic Framework|分析框架]]，而非事前可测量的筛选工具。这意味着它在学术解释中具有价值，但尚未成为企业选拔或资助分配的实际操作标准。
+> 吸收能力在这一语境中同样未被[[Operationalization|操作化]]为标准化指标。UIC 文献主要将其作为解释合作效果差异的事后[[Analytic Framework|分析框架]]，而非事前可测量的筛选工具。这意味着它在学术解释中具有价值，但尚未成为企业选拔或资助分配的实际操作标准。
 

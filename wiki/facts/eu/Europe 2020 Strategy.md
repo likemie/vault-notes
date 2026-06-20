@@ -24,6 +24,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Doxa]]"
   - "[[Heterogeneity]]"
+  - "[[Operationalization]]"
   - "[[Selectivity]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_facts:
   - "[[Youth Guarantee Scheme]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
-  - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Imaginaries of Education and Innovation in the European Union]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -110,7 +111,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 ## 争议与评论
 
 > [!warning]
-> - **同质化逻辑**：Europe 2020 将所有欧盟区域纳入同一政策框架，忽略了区域之间在经济结构、制度和创新能力上的根本性差异。[[Performance Indicators|绩效指标]]体系将这种同质化操作化为可比较的排名，进一步固化了"领先"与"滞后"的分类([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
+> - **同质化逻辑**：Europe 2020 将所有欧盟区域纳入同一政策框架，忽略了区域之间在经济结构、制度和创新能力上的根本性差异。[[Performance Indicators|绩效指标]]体系将这种同质化[[Operationalization|操作化]]为可比较的排名，进一步固化了"领先"与"滞后"的分类([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
 > - **选择性偏向**：战略框架隐含的自由主义经济秩序预设——即 Jessop（2007）所描述的"决策者不可避免地聚焦于某些议题而忽略其他"——可能系统性地排斥替代性政策路径，如强调社会投资而非经济竞争的福利国家模式(Jessop, 2007; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 174]])。详见 [[Selectivity]]
 > - **因果叙事未经检验**：战略所依赖的"创新+教育=增长"的变革理论（[[Theories of Policy Change]]）核心因果假设未经过严格的实证检验——它更像是政策工具的内在成分，被嵌入而非被验证（p.165–166）
 

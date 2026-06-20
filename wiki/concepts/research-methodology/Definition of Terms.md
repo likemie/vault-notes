@@ -11,6 +11,7 @@ related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Multiplicity]]"
+  - "[[Operationalization]]"
   - "[[Literature Review]]"
   - "[[Emergence]]"
   - "[[Metainferences]]"
@@ -23,7 +24,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -49,7 +50,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 综合 Locke et al. (2014) 和 Wilkinson (1991) 的建议，[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 提出以下原则：
 
 1. **首次出现即定义**：术语在文中第一次出现时就应给出定义，使读者从一开始就清楚其含义。
-2. **使用操作化定义**：定义应写在一个具体的、操作化或应用层面，而非抽象的概念层面。操作化定义使用具体语言，精确说明研究者在研究中如何使用该术语。
+2. **使用[[Operationalization|操作化]]定义**：定义应写在一个具体的、操作化或应用层面，而非抽象的概念层面。操作化定义使用具体语言，精确说明研究者在研究中如何使用该术语。
 3. **使用文献中的约定语言**：定义应基于研究文献中已有的约定语言，而非自行发明（Locke et al., 2014）。如果某一术语在文献中没有精确的约定定义，才可使用日常语言，但必须给出清晰定义并在整个计划和研究中一致使用。
 4. **不定义日常语言中的术语**：只定义领域外人士可能不理解和超出日常语言用法的术语（Locke et al., 2014）。
 

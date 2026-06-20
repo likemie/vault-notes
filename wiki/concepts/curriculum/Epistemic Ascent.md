@@ -18,6 +18,7 @@ tags:
   - theory/social-realism
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Operationalization]]"
   - "[[Big Ideas]]"
   - "[[Surface and Deep Learning]]"
   - "[[Knowledge-that and Know-how-to]]"
@@ -30,7 +31,7 @@ related_persons: []
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -51,7 +52,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs [[Curriculum Design Coherence Model|课程设计连贯性模型]] — CDCM 关注课程设计中知识类型的区分和连接，[[Epistemology|认识论]]上升关注学习者在学科中的认知发展路径。CDCM 为认识论上升提供了操作化的课程设计工具。
+> - vs [[Curriculum Design Coherence Model|课程设计连贯性模型]] — CDCM 关注课程设计中知识类型的区分和连接，[[Epistemology|认识论]]上升关注学习者在学科中的认知发展路径。CDCM 为认识论上升提供了[[Operationalization|操作化]]的课程设计工具。
 > - vs [[Big Ideas|大概念]] — 大概念是课程设计中组织学科知识的核心主题，认识论上升是学习者在掌握这些大概念过程中从具体到抽象的认知发展。
 > - vs [[Surface and Deep Learning|深层学习]] — 深层学习是看到学科认识论部分与整体之间联系的能力。认识论上升是实现深层学习的认知发展路径。
 

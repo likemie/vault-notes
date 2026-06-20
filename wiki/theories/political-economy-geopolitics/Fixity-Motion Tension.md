@@ -27,12 +27,13 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -147,7 +148,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Harvey 的理论框架高度抽象，在具体经验研究中的操作化面临挑战——如何将"固着-流动张力"转化为可经验检验的假设，仍然是一个开放的方法论问题
+> - Harvey 的理论框架高度抽象，在具体经验研究中的[[Operationalization|操作化]]面临挑战——如何将"固着-流动张力"转化为可经验检验的假设，仍然是一个开放的方法论问题
 > - 该理论主要基于西方资本主义的历史经验（特别是十九世纪英国和二十世纪美国的工业化与去工业化历程），在非西方政治经济语境中的适用性有待检验
 >
 

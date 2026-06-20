@@ -14,6 +14,7 @@ tags:
   - paradigm/critical
   - stance/critique
 related_concepts:
+  - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Epochal Key Problems]]"
   - "[[Analytic Framework]]"
@@ -41,11 +42,11 @@ related_facts:
   - "[[Danish Public School Reform]]"
   - "[[Finnish National Core Curriculum]]"
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
+  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
 confidence: medium
 status: draft
 created: 2026-05-04
@@ -59,7 +60,7 @@ updated: 2026-05-20
 >
 > > "Bildung is both an individual task and a societal obligation and challenge. Bildung is both the process and the result of the renunciation to be made stupid, short-sighted, and far too adaptive by the educational 'system'."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8]])
 >
-> Bildung 的核心特征是不可操作化、不可形式化——令教育官僚和统计者沮丧，但正因如此，它从本质上超越了学习指标、功利计算和劳动力市场预测的束缚。"Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])
+> Bildung 的核心特征是不可[[Operationalization|操作化]]、不可形式化——令教育官僚和统计者沮丧，但正因如此，它从本质上超越了学习指标、功利计算和劳动力市场预测的束缚。"Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9]])
 
 ## 历史沿革
 

@@ -41,6 +41,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Further Education]]"
   - "[[Institutional Review Board]]"
+  - "[[Operationalization]]"
   - "[[Rich and Thick Description]]"
   - "[[Internal Validity]]"
   - "[[External Auditor]]"
@@ -263,7 +264,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > | [[Qualitative Documents\|日历与文件分析]] | 每两月一次 | 会议记录、备忘录、出版物 |
 > | 参与者录音日记 | 持续进行 | 记录印象、经验、想法和感受（指南见附录 D） |
 >
-> 此外，5 月底安排两次后续访谈。五条数据流并行收集的设计本身就是[[Triangulation\|三角验证]]的操作化——多种来源的数据汇聚于同一现象。
+> 此外，5 月底安排两次后续访谈。五条数据流并行收集的设计本身就是[[Triangulation\|三角验证]]的[[Operationalization|操作化]]——多种来源的数据汇聚于同一现象。
 >
 > 数据记录采用三层系统：**田野日志**（记录在场时间分配的计划与实际对比）、**田野笔记本**（观察细节的记录）、**田野日记**（记录研究者的思考、感受、经验和认知过程）。三者各自对应不同的信息层次——时间管理、客观记录和主观反思。
 >

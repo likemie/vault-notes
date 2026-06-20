@@ -17,6 +17,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
@@ -26,7 +27,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -38,7 +39,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 测量尺度（scale of measurement）指[[Quantitative Research|量化研究]]中向参与者提供的反应选项，或研究者在观察参与者时收集的测量单位([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。[[Variable|变量]]通过测量尺度被操作化，研究者据此将参与者的回答或行为转化为可分析的数据。
+> 测量尺度（scale of measurement）指[[Quantitative Research|量化研究]]中向参与者提供的反应选项，或研究者在观察参与者时收集的测量单位([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])。[[Variable|变量]]通过测量尺度被[[Operationalization|操作化]]，研究者据此将参与者的回答或行为转化为可分析的数据。
 
 > [!quote]
 > "A scale of measurement in quantitative research would be the response options available to participants on instruments or collected by the researcher observing participants."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]])
@@ -75,6 +76,6 @@ updated: 2026-05-31
 
 ## 相关概念
 
-- [[Variable]] — 变量通过测量尺度被操作化和量化
+- [[Variable]] — 变量通过测量尺度被[[Operationalization|操作化]]和量化
 - [[Quantitative Research]] — 量化研究依赖测量尺度将[[Construct|理论构念]]转化为可分析数据
 

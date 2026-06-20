@@ -703,7 +703,7 @@
     "path": "wiki/concepts/curriculum/Didaktik.md",
     "aliases": [
       "教学理论",
-      "教授学"
+      "欧陆教学论"
     ]
   },
   {
@@ -5259,6 +5259,16 @@
     ]
   },
   {
+    "title": "Operationalization",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Operationalization.md",
+    "aliases": [
+      "操作化",
+      "operationalizing research",
+      "研究操作化"
+    ]
+  },
+  {
     "title": "Paradigm",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Paradigm.md",
@@ -5512,7 +5522,7 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Practicability.md",
     "aliases": [
-      "研究可操作性",
+      "研究可行性",
       "研究可行性",
       "research feasibility",
       "practicability of research",
@@ -6945,6 +6955,16 @@
     "aliases": [
       "卡特赖特三阶段知识框架",
       "三阶段知识框架"
+    ]
+  },
+  {
+    "title": "Maxwell's Interactive Model of Research Design",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Maxwell's Interactive Model of Research Design.md",
+    "aliases": [
+      "Maxwell互动研究设计模型",
+      "Maxwell's interactive model",
+      "Maxwell research design model"
     ]
   },
   {
@@ -12220,6 +12240,11 @@
     "title": "Research Methods in Education · Ch06",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06.md"
+  },
+  {
+    "title": "Research Methods in Education · Ch07",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07.md"
   },
   {
     "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",

@@ -16,6 +16,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Abstract]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity in Quantitative Measurement]]"
@@ -29,8 +30,8 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Zhao_2020_JEC]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Two decades of havoc: A synthesis of criticism against PISA]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -44,7 +45,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 构念（construct）是[[Variable|变量]]在理论层面的更抽象、更一般的意义表达([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.130]])。它是研究者为了理论建构而创造的概念工具，代表不可直接观察的理论实体，需要通过操作化（operationalization）转化为可测量的变量，才能在实证研究中进行检验。
+> 构念（construct）是[[Variable|变量]]在理论层面的更抽象、更一般的意义表达([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.130]])。它是研究者为了理论建构而创造的概念工具，代表不可直接观察的理论实体，需要通过[[Operationalization|操作化]]（operationalization）转化为可测量的变量，才能在实证研究中进行检验。
 
 > [!quote]
 > "Constructs is a term used for a more [[Abstract]], general meaning of a variable."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.130]])
@@ -58,7 +59,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> **构念 vs [[Variable|变量]]（Variable）**。构念是理论层面的抽象概念，变量是构念在实证层面的可操作化、可测量形式。以动机为例：动机是一个构念，是关于人类为何发起、维持和停止目标导向行为的理论抽象；而 Likert 式 1-5 点动机量表得分是一个变量，是研究者在具体研究中对动机构念的数值化表达。在研究实践中，二者常互换使用，但对操作化要求严格的[[Quantitative Research|量化研究]]更强调变量的可测量性。
+> **构念 vs [[Variable|变量]]（Variable）**。构念是理论层面的抽象概念，变量是构念在实证层面的可[[Operationalization|操作化]]、可测量形式。以动机为例：动机是一个构念，是关于人类为何发起、维持和停止目标导向行为的理论抽象；而 Likert 式 1-5 点动机量表得分是一个变量，是研究者在具体研究中对动机构念的数值化表达。在研究实践中，二者常互换使用，但对操作化要求严格的[[Quantitative Research|量化研究]]更强调变量的可测量性。
 
 > [!example]
 > **构念 vs 概念（Concept）**。概念是对现象的概括性标签，可以来自日常语言或学术话语，不一定与测量相关；构念则特指研究者在理论框架中有意建构、并计划通过测量工具加以操作化的概念。学习兴趣可以是一个概念，但当研究者将其构建为一个包含认知投入、情感投入和行为投入三个维度的理论实体时，它就是一个构念。

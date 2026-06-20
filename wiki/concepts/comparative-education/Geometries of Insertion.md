@@ -18,6 +18,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Shape-Shifting]]"
   - "[[Policy Borrowing]]"
+  - "[[Operationalization]]"
   - "[[Variable]]"
 related_theories: []
 related_methods: []
@@ -25,7 +26,7 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cowen_2009_CE]]"
+  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
 confidence: medium
 status: draft
 created: 2026-06-06
@@ -55,7 +56,7 @@ updated: 2026-06-06
 > [!example]
 > - vs [[Shape-Shifting|形变]] — 形变是描述性的，观察教育现象在移动中如何变化；嵌入几何学是规范性的，追问"如果我们能控制嵌入，应当如何做、后果是什么"。
 > - vs [[Policy Borrowing|政策借用]] — 政策借用是一个实践概念，描述国家层面的借用决策；嵌入几何学是一个理论概念，关注嵌入机制本身的可操作性和伦理边界。
-> - vs 情境 — 传统的"情境"概念被 Cowen 视为政策层面的障碍（p.287）；嵌入几何学试图将情境重新概念化为可以被理论化和操作化的[[Variable|变量]]，而非不可逾越的障碍。
+> - vs 情境 — 传统的"情境"概念被 Cowen 视为政策层面的障碍（p.287）；嵌入几何学试图将情境重新概念化为可以被理论化和[[Operationalization|操作化]]的[[Variable|变量]]，而非不可逾越的障碍。
 
 ---
 

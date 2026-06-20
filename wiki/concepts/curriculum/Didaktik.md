@@ -2,8 +2,8 @@
 title: Didaktik
 aliases:
   - 教学理论
-  - 教授学
-summary: "德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。"
+  - 欧陆教学论
+summary: 德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。
 type: concept
 domain: "curriculum"
 related_count: 9
@@ -11,10 +11,10 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
-- didaktik
-- subject/curriculum
-- subject/pedagogy
-- paradigm/critical
+  - didaktik
+  - subject/curriculum
+  - subject/pedagogy
+  - paradigm/critical
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
@@ -28,12 +28,12 @@ related_persons:
 related_facts:
   - "[[Finnish National Core Curriculum]]"
 related_arguments:
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
+  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
 confidence: low
 status: draft
-created: '2026-05-06'
-updated: '2026-05-18'
+created: 2026-05-06
+updated: 2026-05-18
 ---
 
 ## 定义

@@ -14,6 +14,7 @@ tags:
 - capability-approach
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Operationalization]]"
   - "[[Employability]]"
 related_theories:
   - "[[Capability Approach]]"
@@ -21,7 +22,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Boyadjieva_2022_Springer]]"
+  - "[[(Un)avoidable clash: Higher education at the altar of its missions and rankings]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -60,7 +61,7 @@ updated: '2026-06-08'
 
 - APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2020). Inclusion and fairness in access to higher education: Theoretical distinctions, measurement and patterns of interactions. In L. Weimer & T. Nokkala (Eds.), *Universities as political institutions* (pp. 237–261). Brill.
 - 核心内容：区分高等教育的包容性（inclusion）与公平性（fairness），并分析二者的测量和互动模式([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.141]])。
-- 思想位置：将多维使命模型中的社会正义维度进一步操作化。
+- 思想位置：将多维使命模型中的社会正义维度进一步[[Operationalization|操作化]]。
 - 相关概念／理论：[[Capability Approach]]
 
 ### 2022 — *(Un)avoidable Clash: Higher Education at the Altar of Its Missions and Rankings*

@@ -46,6 +46,7 @@ related_concepts:
   - "[[Nomothetic and Idiographic]]"
   - "[[Variable]]"
   - "[[Falsification]]"
+  - "[[Operationalization]]"
   - "[[Hypothesis]]"
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
@@ -364,7 +365,7 @@ Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990
 > - **回应异常** 应能回应观察到的异常，被反驳的假设构成理论不充分的间接证据
 > - **生育力** 应能催生研究事业(Siegel, 1987 称之为 fertility)
 > - **[[Falsification|可证伪性]]** 应阐明自身的[[Falsification|证伪]]和验证条件，识别"严格检验"(severe test)的性质和操作(Popper, 1968)，在与产生理论不同的语境中进行检验
-> - **可操作化** 必须可精确操作化
+> - **可[[Operationalization|操作化]]** 必须可精确操作化
 > - **可复制性** 理论的检验必须是可复制的
 
 > [!abstract] 科学家的两个关键工具

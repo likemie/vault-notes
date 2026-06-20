@@ -22,6 +22,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Research Question]]"
+  - "[[Operationalization]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
 related_theories: []
@@ -56,7 +57,7 @@ updated: 2026-05-30
 
 > [!example]
 > - 从理论出发，推导出可检验的假设或[[Research Question|研究问题]]。
-> - 识别研究[[Variable|变量]]，并将其操作化为可测量的指标。
+> - 识别研究[[Variable|变量]]，并将其[[Operationalization|操作化]]为可测量的指标。
 > - 通过标准化工具收集数值数据。
 > - 使用统计程序分析数据。
 > - 对照假设或理论解释统计结果。

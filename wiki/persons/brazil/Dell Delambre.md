@@ -17,6 +17,7 @@ related_concepts:
   - "[[Social Museology]]"
   - "[[Ecomuseology]]"
   - "[[Paradigm]]"
+  - "[[Operationalization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Life Power]]"
   - "[[Whole Sustainability]]"
@@ -29,7 +30,7 @@ related_persons:
   - "[[Camilla de Hollanda Amado]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Delambre_2022_Springer]]"
+  - "[[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -50,7 +51,7 @@ updated: '2026-06-08'
 > - 在巴西里约热内卢工作和生活，任职于 WTS Sustainable Business & Coaching([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105]])
 > - 2013–2020 年在里约热内卢开展多案例实践研究，涵盖个体发展、地方发展（通过 [[Ecomuseology|生态博物馆]] 和剧场）、商业发展、学校发展、制度发展和可持续发展([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])
 > - 与巴西著名女演员和剧场导演 [[Camilla de Hollanda Amado]]（1941–2021）共同创立 Bora Bora em Bando 项目。Amado 的梦想是看到贫民窟知识被用于国家发展，该项目旨在帮助 Rocinha 贫民窟的 Bando Cultural Favelados da Rocinha 剧场团体获得社会可见度和认可。Amado 于 2021 年 6 月 6 日去世，享年 82 岁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - 开发 WTS Coaching 项目——将 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 操作化为教练实践([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])
+> - 开发 WTS Coaching 项目——将 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] [[Operationalization|操作化]]为教练实践([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])
 
 ---
 
@@ -62,7 +63,7 @@ updated: '2026-06-08'
 > 1. **诊断**：现代性的封闭理性已耗竭——环境危机本质上是认知方式的危机，而非单纯的技术或政策失败([[Argument_Delambre_2022_Springer|Delambre, 2022, p.108–109]])
 > 2. **原理**：新世界永远在旧世界内部诞生，新旧之间的意义张力是创造力的源泉，不可消除也不应消除([[Argument_Delambre_2022_Springer|Delambre, 2022, p.111]])
 > 3. **方法**：正确回应不是选择新或旧，而是**承载张力**——详见 [[Ganz-Methode]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112–113]])
-> 4. **实践**：理论与实践不可分离，张力[[Epistemology|认识论]]必须从具体情境出发并回到具体实践——其操作化工具为 WTS Coaching([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 117–118]])
+> 4. **实践**：理论与实践不可分离，张力[[Epistemology|认识论]]必须从具体情境出发并回到具体实践——其[[Operationalization|操作化]]工具为 WTS Coaching([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 117–118]])
 >
 > 他的独特贡献在于将高度抽象的去殖民认识论讨论（Mignolo、Dussel、Santos）与极度具体的巴西基层实践（贫民窟剧场、社区博物馆、[[Ecomuseology|生态博物馆]]）相连接，是少数试图在批判和建构之间架桥的当代认识论学者。
 

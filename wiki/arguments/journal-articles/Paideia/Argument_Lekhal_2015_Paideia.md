@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
@@ -77,7 +78,7 @@ citation_aliases:
 > - 数据来源：学生问卷与班主任问卷双来源；学业表现由教师对挪威语、数学、英语评分构成(pp.79-82)。
 > - 统计处理：信度分析、相关分析、[[Analysis of Variance|方差分析]]（Cohen's d）与分性别回归模型；缺失值用 EM 算法处理(pp.81-83)。
 >
-> ### [[Variable|变量]]操作化细节
+> ### [[Variable|变量]][[Operationalization|操作化]]细节
 >
 > - 学生自评变量：[[Student-Teacher Relationship|师生关系]]、班级学习文化、课堂反馈、[[Learning-Impeding Behavior|学习阻碍行为]]、学习兴趣与学业愉悦(p.80)。
 > - 教师评定变量（完整）：学业成绩（挪威语/数学/英语，3 项）、自控（9 项）、自我主张（8 项）、[[School Norm Adaptation|学校规范适应]]（9 项）、动机与努力投入（3 项）(pp.80-82)。

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Post-colonial Theory]]"
   - "[[Critical Pedagogy]]"
+  - "[[Operationalization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Analytic Framework]]"
   - "[[Global Universities Rankings]]"
@@ -35,8 +36,8 @@ related_persons:
   - "[[Paulo Freire]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Marginson_2025_ROE]]"
-  - "[[Argument_Yu_2024_CE]]"
+  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
+  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -106,7 +107,7 @@ updated: '2026-05-21'
 ## 争议与批评
 
 > [!warning]
-> - 霸权概念在经验操作化上面临挑战——如何测量"同意的程度"？如何区分"真正的同意"和"被迫的默认"？这些问题在 Gramsci 的文本中没有得到系统回答
+> - 霸权概念在经验[[Operationalization|操作化]]上面临挑战——如何测量"同意的程度"？如何区分"真正的同意"和"被迫的默认"？这些问题在 Gramsci 的文本中没有得到系统回答
 > - 霸权理论可能低估了"强制"相对于"同意"在当代国际秩序中的持续重要性——[[Argument_Marginson_2025_ROE|Marginson (2025)]]指出，美国在 1990–2015 年间的霸权不仅依靠文化制度，也以军事优势为后盾，"霸权性大学全球扩张的前提是美国在全球军事和政治上的绝对优势"([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 15–16]])
 > - 与 [[World-Systems Theory|世界体系理论]] 相比，霸权理论对全球等级结构的揭示较不系统——它解释了权力如何运作（通过制造同意），但对"谁在什么位置上"的结构描述不如世界体系理论清晰
 

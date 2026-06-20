@@ -50,6 +50,8 @@ related_concepts:
   - "[[Research Practicability]]"
   - "[[Research Question]]"
   - "[[Literature Review]]"
+  - "[[Operationalization]]"
+  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -57,6 +59,7 @@ related_concepts:
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
+  - "[[Maxwell's Interactive Model of Research Design]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ideology Critique]]"
@@ -68,7 +71,14 @@ related_methods:
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Research Methods in Education · Ch01]]"
+  - "[[Research Methods in Education · Ch02]]"
+  - "[[Research Methods in Education · Ch03]]"
+  - "[[Research Methods in Education · Ch04]]"
+  - "[[Research Methods in Education · Ch05]]"
+  - "[[Research Methods in Education · Ch06]]"
+  - "[[Research Methods in Education · Ch07]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -93,6 +103,7 @@ updated: 2026-06-19
 > | **Part 2 教育研究的规划** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|第5章 The ethics of educational and social research]] | 系统介绍教育与社会研究中的核心伦理议题：成本/收益比、知情同意四要素、研究准入与接纳、隐私/匿名/保密、欺骗与隐蔽研究、电子与评估研究伦理、伦理守则与审查委员会（含Hammersley批评），以及研究者对参与者、资助方和研究共同体的多层次责任。 | [[Informed Consent]]、[[Research Ethics]]、[[Privacy in Research]]、[[Covert Research]]、[[Institutional Review Board]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|第6章 Choosing a research project]] | 系统拆解选择研究课题时的关键决策点：研究选题的二十余种来源、研究重要性的评估（原创性≠贡献，四个维度）、研究目的与方法的适配性原则（"让尾巴摇狗"的反面论证）、研究可操作性的六个约束维度、研究问题的类型谱系与质性研究无RQ的讨论，以及文献综述的七项目的与规模考量，最后以36条操作清单收束。 | [[Research Purpose]]、[[Fitness for Purpose]]、[[Research Practicability]]、[[Research Question]]、[[Literature Review]] |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|第7章 Planning educational research]] | 研究规划的完整框架：以目的适切性为核心原则，经由发散-收敛两阶段和四领域框架逐步操作化研究问题，覆盖文献综述论证写作与网络检索、定向决策、研究设计与方法论、数据分析与报告规划、规划矩阵与四阶段管理模型，以及35条质量清单和Furlong & Oancea四维度质量框架。 | [[Operationalization]]、[[Fitness for Purpose]]、[[Maxwell's Interactive Model of Research Design\|Maxwell's Interactive Model]]、[[Literature Review]]、[[Hypothesis]] |
 > | 第8章 [[Research Question\|research questions]] | | |
 > | 第9章 Research design and planning | | |
 > | 第10章 Sampling | | |

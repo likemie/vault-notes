@@ -4,7 +4,7 @@ aliases: [研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁，好假设必须陈述变量关系且蕴含明确的检验含义。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,10 +14,11 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Purpose Statement]]"
+  - "[[Operationalization]]"
   - "[[Research Question]]"
   - "[[Research Writing Script]]"
   - "[[Causality]]"
-  - "[[Purpose Statement]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -25,12 +26,13 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Research Methods in Education · Ch07]]"
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-21
 ---
 
 # Hypothesis
@@ -102,6 +104,28 @@ Kerlinger（1970）进一步指出假设作为研究工具的四个重要性理�
 
 > [!success] 方向性备择假设
 > 研究者应将备择假设写为方向性形式。例如："It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more"或"The higher the relationship skills, the higher the leadership potential."方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+
+---
+
+## 假设的操作化
+
+将[[Purpose Statement|研究目的]]转化为假设也属于[[Operationalization|操作化]]的过程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。操作化意味着将假设中的每个概念转化为可测量或可操作的明确行为。
+
+> [!example] 操作化示例
+> 假设"人们在安静条件下比在有噪音条件下工作更好"，必须定义：
+> - "工作更好" → "在数学测试中获得更高分数"
+> - "安静" → "静音（零噪音）"
+> - "有噪音" → "有音乐在播放"
+>
+> 完全操作化的假设变为：**人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数**。此时分数是可测量的，噪音水平也有了明确的操作定义（p.130）。
+
+### 方向性假设与统计检验
+
+方向性假设要求单尾检验（one-tailed test），非方向性假设使用双尾检验（two-tailed test）。方向性假设通常用于已有研究、预测或理论提示发现可能走向特定方向的情境；非方向性假设用于已有研究或理论不清或矛盾、或无法预测的情境，即结果更加开放时使用（p.129）。
+
+### 中介变量
+
+在使用假设进行研究时，需要准备使用多个假设以抓住所研究现象的复杂性，尤其是中介[[Variable|变量]]（mediating variables）必须纳入研究。例如，组织中员工"自愿合作程度"（因变量）受"专业领导力"（自变量）和"领导者的个人领导品质"（中介变量）的影响——中介变量同样需要被操作化（p.130）。
 
 ---
 

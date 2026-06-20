@@ -18,6 +18,7 @@ related_concepts:
   - "[[Ganz-Methode]]"
   - "[[Ecomuseology]]"
   - "[[Whole Sustainability]]"
+  - "[[Operationalization]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
@@ -26,7 +27,7 @@ related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Delambre_2022_Springer]]"
+  - "[[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -71,6 +72,6 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - 概念的定义较为诗意化和哲学化（如"幸福建立在每个人内在的力量之中"），缺乏可操作化的测量或评估标准
+> - 概念的定义较为诗意化和哲学化（如"幸福建立在每个人内在的力量之中"），缺乏可[[Operationalization|操作化]]的测量或评估标准
 > - 如何在局部社区中区分"真实的"生命力量与被外部力量或霸权[[Epistemology|认识论]]同化的表达，论文未提供明确标准
 

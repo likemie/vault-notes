@@ -14,8 +14,7 @@ tags:
   - "theme/entrepreneurship"
   - "theme/university-industry-collaboration"
   - "theme/innovation"
-related_concepts:
-  - "[[Didaktik]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -33,7 +32,7 @@ updated: 2026-05-29
 ## 背景
 
 > [!info]
-> [[National Science Foundation|NSF]] I-Corps（Innovation Corps，创新兵团）是美国国家科学基金会（[[National Science Foundation]]）于 2011 年启动的创业培训项目。其核心理念是[[Didaktik|教授学]]者创业思维，而非仅仅提供推进科学研究的资金（p.149）。
+> [[National Science Foundation|NSF]] I-Corps（Innovation Corps，创新兵团）是美国国家科学基金会（[[National Science Foundation]]）于 2011 年启动的创业培训项目。其核心理念是教授学者创业思维，而非仅仅提供推进科学研究的资金（p.149）。
 
 ## 运作机制
 

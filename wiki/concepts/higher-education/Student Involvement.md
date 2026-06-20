@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Student Engagement]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
   - "[[Paradigm]]"
   - "[[Academic Engagement]]"
@@ -33,7 +34,7 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Student Engagement]]（Kuh, 1991）— 两者"异曲同工"，核心假设一致，但侧重不同：Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**——涉入既是过程描述也是结果预测[[Variable|变量]]；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**——不仅关注学生做了什么，也关注学校如何通过课程设计、课外活动和服务体系来推动学生投入（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984, 1993; Kuh, 1991）
-> - 在郑雅君（2023）的"投入过程"框架中，Astin 提供了投入的**能量维度**（学生将多少精力投入何处），Kuh 提供了投入的**行为操作化**（在教育性活动中的时间和精力分配），二者并列使用
+> - 在郑雅君（2023）的"投入过程"框架中，Astin 提供了投入的**能量维度**（学生将多少精力投入何处），Kuh 提供了投入的**行为[[Operationalization|操作化]]**（在教育性活动中的时间和精力分配），二者并列使用
 
 ---
 
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1984 提出**：Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
-> - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步操作化为可观察的行为指标，并强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步[[Operationalization|操作化]]为可观察的行为指标，并强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
@@ -87,7 +88,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > - 学生发展理论（Student Development Theory）— Astin 的涉入理论属于"大学冲击"（college impact）研究[[Paradigm|范式]]，关注大学环境如何通过学生的主动参与来影响其发展结果
-> - 该理论为后续 [[Student Engagement]]（Kuh, 1991）和 [[Academic and Social Integration]]（Tinto, 1993）的实证操作化提供了"能量"维度的理论基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - 该理论为后续 [[Student Engagement]]（Kuh, 1991）和 [[Academic and Social Integration]]（Tinto, 1993）的实证[[Operationalization|操作化]]提供了"能量"维度的理论基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 
 ---
 
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 大量实证研究验证了涉入-成果的正向关联：学生涉入程度越高，学习成果、满意度和毕业率越高（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Pascarella & Terenzini, 2005）
-> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标[[Triangulation|三角互证]]设计——问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - 在郑雅君（2023）的[[Operationalization|操作化]]中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标[[Triangulation|三角互证]]设计——问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 

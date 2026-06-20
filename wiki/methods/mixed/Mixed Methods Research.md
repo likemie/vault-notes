@@ -5,13 +5,14 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags: [mixed-methods, research-methodology]
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Operationalization]]"
   - "[[Multimethod Research]]"
   - "[[Research Question]]"
   - "[[Metainferences]]"
@@ -35,6 +36,7 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Quantitative Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
@@ -46,15 +48,16 @@ related_facts:
   - "[[Mixed Methods International Research Association]]"
   - "[[Peidu]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Teng_2025_CE]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
+  - "[[Research Methods in Education · Ch07]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Migration for school choice: urbanisation and rural social stratification in China]]"
 confidence: medium
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-21
 ---
 
 # Mixed Methods Research
@@ -64,7 +67,7 @@ updated: 2026-06-14
 > [!def] 混合方法研究（Mixed Methods Research）
 > 核心特征是同时收集并整合（"混合"）量化与质性数据，以获取超越单一方法的额外洞察。它被称为"第三种方法论运动"（the third methodological movement, Teddlie and Tashakkori, 2009）、"第三种研究[[Paradigm|范式]]"（the third research paradigm, Johnson and Onwuegbuzie, 2004; Denscombe, 2008）和"第三条道路"（the third path, Gorard and Taylor, 2004）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 >
-> Leech and Onwuegbuzie (2009: 265) 将其操作化定义为："在一项单一研究或一系列研究同一底层现象的研究中，收集、分析和解释量化与质性数据"（collecting, analyzing, and interpreting quantitative and qualitative data in a single study or in a series of studies that investigate the same underlying phenomenon）。
+> Leech and Onwuegbuzie (2009: 265) 将其[[Operationalization|操作化]]定义为："在一项单一研究或一系列研究同一底层现象的研究中，收集、分析和解释量化与质性数据"（collecting, analyzing, and interpreting quantitative and qualitative data in a single study or in a series of studies that investigate the same underlying phenomenon）。
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 将混合方法定位为与量化和质性并列的第三种独立研究路径，以数据整合为关键标志。
 
@@ -157,6 +160,20 @@ Teddlie and Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Mo
 > - **转换混合设计**（conversion）数据在平行设计中被转换（质性转量化或反之）
 > - **多层次混合设计**（multilevel / hierarchical）不同层次使用不同数据类型
 > - **完全整合混合设计**（fully integrated）混合方法在每一个阶段和层次使用（可能是迭代式的）
+
+### 三种时间规划模式
+
+在规划混合方法研究的时间框架时，Cohen et al. 提出了三种时间规划示例（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.119–121, Table 7.2]]）：
+
+> [!contrast-table] 三种混合方法数据收集时间规划
+> | 模式 | 阶段一 | 阶段二 | 阶段三 | 整合时机 |
+> |---|---|---|---|---|
+> | **顺序整合** | 质性数据（回答[[Research Question\|研究问题]]/开发量化工具） | 量化数据（回答研究问题/识别质性参与者） | 量化和质性数据合在一起回答研究问题 | 最终阶段 |
+> | **平行运行** | 量化数据与质性数据并行（分别回答研究问题） | 量化和质性数据继续并行 | 量化和质性数据合在一起回答研究问题 | 最终阶段合并 |
+> | **合成式** | 量化与质性数据从一开始就结合（共同回答研究问题） | 继续结合 | 继续结合 | 全过程整合 |
+
+> [!tip] 规划启示
+> 研究者需要审视研究项目不同阶段所需和可用的时间尺度。前载型（front-loaded）[[Quantitative Research|量化研究]]设置的准备时间较长但数据分析和处理较快，后载型（end-loaded）[[Qualitative Research|质性研究]]设置可能较快但数据收集和分析耗时更长。混合方法研究介于两者之间，各阶段时间需求不同（pp.119–121）。
 
 ### Creswell 三种核心设计
 

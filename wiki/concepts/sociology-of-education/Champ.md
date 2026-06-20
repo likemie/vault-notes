@@ -24,6 +24,7 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Operationalization]]"
   - "[[New Public Management]]"
 related_theories: []
 related_methods:
@@ -33,8 +34,8 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -119,7 +120,7 @@ updated: 2026-05-18
 
 > [!warning]
 > - **决定论指控**：批评者认为场域概念过于强调结构的约束力，低估了行动者改变场域规则的可能性。但 Bourdieu 的支持者指出，场域概念本身即包含斗争和变革的空间——支配者与新人（newcomers）之间的结构性对立正是场域变化的动力
-> - **经验操作化困难**：如何在具体研究中界定场域的边界？[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将中国精英大学概念化为场域的做法提供了可操作的范例，但不同研究对场域边界的划定标准仍缺乏共识
+> - **经验[[Operationalization|操作化]]困难**：如何在具体研究中界定场域的边界？[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将中国精英大学概念化为场域的做法提供了可操作的范例，但不同研究对场域边界的划定标准仍缺乏共识
 > - **法国中心主义**：场域概念主要基于法国社会的经验发展，其在非欧洲情境中的适用性需要谨慎检验
 
 ---

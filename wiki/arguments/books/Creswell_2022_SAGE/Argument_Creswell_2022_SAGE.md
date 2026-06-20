@@ -66,6 +66,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
+  - "[[Operationalization]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
@@ -493,7 +494,7 @@ citation_aliases:
 
 ---
 
-**第七步：呈现规范。** APA 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是操作化。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
+**第七步：呈现规范。** APA 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是[[Operationalization|操作化]]。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
 
 > [!quote]
 > “日常语言中的词汇具有丰富的多重含义。就像其他符号一样，它们的力量来自于特定情境中意义的组合……科学语言表面上出于精确性的考虑，剥离了词汇的这种[[Multiplicity|多重性]]意义。”

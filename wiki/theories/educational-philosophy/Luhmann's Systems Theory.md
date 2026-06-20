@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Operationalization]]"
   - "[[Professional Judgment]]"
   - "[[Incommensurability]]"
   - "[[Knowledge-Based Economization]]"
@@ -32,8 +33,8 @@ related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[Visible learning and its enemies – the missing link]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 系统理论因其高度抽象性和封闭的概念体系而常被批评为脱离经验现实和难以操作化
+> - 系统理论因其高度抽象性和封闭的概念体系而常被批评为脱离经验现实和难以[[Operationalization|操作化]]
 > - 在教育研究中的应用存在两种截然相反的用法：
 >   - **批判性应用([[Argument_Larsen_2019_EducSci|Larsen, 2019]])** — 以盲点和[[Structural Coupling|结构耦合]]论证 [[Visible Learning|VL]] 的可见性宣称在[[Epistemology|认识论]]上不成立
 >   - **辩护性应用([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]])** — 以结构耦合论证 VL 并非宣称教学直接因果产生学习，而是需要[[Professional Judgment|专业判断]]作为"缺失环节"

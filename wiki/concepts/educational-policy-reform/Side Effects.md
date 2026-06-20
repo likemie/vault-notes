@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Clinical Trial]]"
   - "[[Direct Instruction]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -25,7 +26,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Zhao_2017_JEC]]"
+  - "[[What works may hurt: Side effects in education]]"
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 副作用概念在教育中的操作化存在挑战——教育结果具有多维性和长期性，不像药物副作用那样容易归因和测量（Zhao 对此承认，并提出 6 项建议作为起点）
+> - 副作用概念在教育中的[[Operationalization|操作化]]存在挑战——教育结果具有多维性和长期性，不像药物副作用那样容易归因和测量（Zhao 对此承认，并提出 6 项建议作为起点）
 > - 目前副作用研究主要由批评者和反对者提供，被支持者以"缺乏客观性"或"意识形态驱动"为由不予采信——这需要制度性改变而非仅靠个别研究者的努力([[Argument_Zhao_2017_JEC|Zhao, 2017, p.15-16]])
 
 ## 理论基础

@@ -20,13 +20,14 @@ related_concepts:
   - "[[Variable]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Professional Judgment]]"
+  - "[[Operationalization]]"
   - "[[Motivation and Work Effort]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Lekhal_2015_Paideia]]"
+  - "[[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 在学校规范适应评分上，女生显著高于男生（d=-0.70, p=.000）。
-> - 在 Lekhal_2015_Paideia 的操作化中，学校规范适应与 [[Motivation and Work Effort]] 构成高权重预测组。
+> - 在 Lekhal_2015_Paideia 的[[Operationalization|操作化]]中，学校规范适应与 [[Motivation and Work Effort]] 构成高权重预测组。
 
 ## 待补充研究
 
