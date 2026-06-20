@@ -7733,20 +7733,21 @@
 }
 
 /* ═══════════════════════════════════════════════════════════
-   [!theory-components] 专属重设计
-   双列卡片网格；颜色循环；C# 右上角标；hover 上浮 + 弹跳
+   [!theory-components] v3
+   双列网格；统一深靛蓝；C# 左上方形徽章（参照 dimension D#）；
+   标题独行；hover 上浮 + 徽章旋转弹跳
    ═══════════════════════════════════════════════════════════ */
 
-/* 颜色升级：从暗棕改为深蓝紫 */
 .callout[data-callout="theory-components"] {
-  --callout-color: 78, 62, 152;
+  --callout-color: 72, 58, 148;
+  --tc: 72, 58, 148;
   --callout-icon: lucide-blocks;
 }
 
-/* 双列网格容器，覆盖父级 padding */
 .callout[data-callout="theory-components"] > .callout-content {
   padding: 0.55rem 0.65rem 0.75rem;
 }
+
 .callout[data-callout="theory-components"] > .callout-content > ul {
   counter-reset: tc-n;
   display: grid;
@@ -7756,77 +7757,85 @@
   padding: 0;
   margin: 0;
 }
+.callout[data-callout="theory-components"] > .callout-content > ul > li::marker {
+  display: none;
+  content: "";
+}
 
-/* 构件卡片：顶部色条 + 细边框 */
+/* 卡片：左上留给徽章 */
 .callout[data-callout="theory-components"] > .callout-content > ul > li {
   counter-increment: tc-n;
+  list-style: none;
   position: relative;
-  padding: 0.58rem 0.8rem 0.62rem;
-  border: 1px solid rgba(var(--tc), 0.15);
-  border-top: 3px solid rgba(var(--tc), 0.60);
-  border-radius: 7px;
-  background: linear-gradient(170deg,
+  padding: 0.55rem 0.75rem 0.65rem 2.6rem;
+  border: 1px solid rgba(var(--tc), 0.14);
+  border-radius: 8px;
+  background: linear-gradient(160deg,
     rgba(var(--tc), 0.055) 0%,
     rgba(var(--tc), 0.008) 100%
   );
   line-height: 1.62;
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-top-color 0.18s ease;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 
-/* 颜色循环（--tc 为 RGB 元组） */
-.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(1) { --tc: 78, 62, 152; }
-.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(2) { --tc: 32, 105, 152; }
-.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(3) { --tc: 28, 130, 95; }
-.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(4) { --tc: 158, 95, 28; }
-.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(5) { --tc: 148, 35, 78; }
-.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(n+6) { --tc: 48, 118, 62; }
-
-/* hover：卡片上浮 + 顶条加深 */
-.callout[data-callout="theory-components"] > .callout-content > ul > li:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 18px rgba(var(--tc), 0.18);
-  border-top-color: rgba(var(--tc), 1);
-}
-
-/* C# 角标：右上角小徽章 */
+/* C# 方形徽章：左上角，绝对定位 */
 .callout[data-callout="theory-components"] > .callout-content > ul > li::before {
   content: "C" counter(tc-n);
   position: absolute;
-  top: 0.42rem;
-  right: 0.52rem;
-  padding: 1px 5px;
-  border-radius: 3px;
-  background: rgba(var(--tc), 0.11);
-  color: rgb(var(--tc));
+  top: 0.52rem;
+  left: 0.6rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 4px;
+  background: linear-gradient(135deg, rgb(var(--tc)), rgb(52, 40, 118));
+  color: #fff;
   font-size: 0.56rem;
   font-weight: 800;
-  letter-spacing: 0.06em;
-  border: 1px solid rgba(var(--tc), 0.18);
+  letter-spacing: 0.03em;
+  line-height: 1.5rem;
+  text-align: center;
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 0 0 1.5px rgba(var(--tc), 0.35);
   transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
-              background 0.16s ease;
+              box-shadow 0.18s ease;
 }
 
-/* hover：角标弹跳 */
-.callout[data-callout="theory-components"] > .callout-content > ul > li:hover::before {
-  transform: scale(1.22) rotate(-10deg);
-  background: rgba(var(--tc), 0.22);
+/* hover：卡片上浮 + 徽章弹跳旋转 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(var(--tc), 0.17);
+}
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(odd):hover::before {
+  transform: scale(1.22) rotate(14deg);
+  box-shadow: 0 0 0 2px rgba(var(--tc), 0.55), 0 0 10px rgba(var(--tc), 0.35);
+}
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(even):hover::before {
+  transform: scale(1.22) rotate(-14deg);
+  box-shadow: 0 0 0 2px rgba(var(--tc), 0.55), 0 0 10px rgba(var(--tc), 0.35);
 }
 
-/* 构件标题（li 内首个 strong）覆盖 */
+/* 构件标题（首个 strong）：独立一行 */
 .callout[data-callout="theory-components"] > .callout-content > ul > li > strong:first-child,
 .callout[data-callout="theory-components"] > .callout-content > ul > li > p:first-child > strong:first-child {
   display: block;
-  margin-bottom: 0.16rem;
-  padding-right: 1.6rem; /* 避免与角标重叠 */
+  margin-bottom: 0.18rem;
   color: rgb(var(--tc));
-  font-size: 0.88em;
+  font-size: 0.90em;
   font-weight: 700;
   letter-spacing: 0.01em;
+  line-height: 1.4;
 }
 
 /* 暗色模式 */
 .theme-dark .callout[data-callout="theory-components"] {
-  --callout-color: 128, 112, 220;
+  --callout-color: 118, 105, 210;
+  --tc: 118, 105, 210;
+}
+
+/* 暗色模式 */
+.theme-dark .callout[data-callout="theory-components"] {
+  --callout-color: 118, 105, 210;
+  --tc: 118, 105, 210;
 }
 
 /* ─────────────────────────────────────────────────────────── */
