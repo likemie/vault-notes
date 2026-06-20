@@ -785,11 +785,16 @@ def argument_display_title_for(path: Path, meta: dict[str, Any]) -> str:
     book_title = str(meta.get("book_title") or "").strip()
     kind = argument_kind_for(path, meta)
     subtype = str(meta.get("subtype") or "").strip()
-    if book_title and subtype in {"edited-volume", "monograph", "textbook"}:
+    publication_type = str(meta.get("publication_type") or "").strip()
+    if book_title and publication_type != "book-chapter" and subtype in {"edited-volume", "monograph", "textbook"}:
         return book_title
     citation_title = title_from_citation(str(meta.get("citation") or ""))
     if citation_title:
         return citation_title
+    if book_title and (subtype == "book-chapter" or publication_type == "book-chapter"):
+        match = re.search(r"_Ch(?P<num>\d{1,3})\b", path.stem)
+        if match:
+            return f"{book_title} · Ch{int(match.group('num')):02d}"
     if book_title and kind == "book" and subtype != "book-chapter":
         return book_title
     if book_title:

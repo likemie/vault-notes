@@ -7,8 +7,8 @@ summary: "系统拆解选择研究课题时的七个关键决策点：23种选�
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education"
-argument_display_title: "Research Methods in Education"
+title: "Research Methods in Education · Ch06"
+argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
 argument_related_count: 43
 argument_related_level: 2
@@ -427,33 +427,14 @@ updated: 2026-06-19
 
 ---
 
-> [!evidence-grid-a] 案例五：Axline (1964) — 一个孩子的革命性研究
-> | 维度 | 细节 |
-> |---|---|
-> | **研究** | *Dibs in Search of Self*（Axline, 1964） |
-> | **对象** | 游戏治疗（play therapy）对一名儿童 Dibs 的修复和治疗效果 |
-> | **样本** | **一个孩子** |
-> | **方法** | 深度个案追踪 |
-> | **贡献** | 详细展示了游戏治疗如何帮助情感受创儿童重建自我意识和人际关系能力——成为心理治疗和教育领域经典 |
+> [!case] 案例五：Axline (1964) — 一个孩子的革命性研究
+> Axline (1964) 在 *Dibs in Search of Self* 中研究了**游戏治疗**（play therapy）对一名儿童 Dibs 的修复和治疗效果，样本仅为**一个孩子**。通过深度个案追踪，Axline 详细展示了游戏治疗如何帮助这名情感受创的儿童重建自我意识和人际关系能力。这本著作后来成为心理治疗和教育领域的经典。一个孩子的研究——当被仔细、深度、有限边界地执行时——可以产生对整个领域的巨大贡献。窄聚焦不意味着浅薄，恰恰相反，窄聚焦使深层理解成为可能。
 
-> [!evidence-grid-b] 案例六：Piaget (1932) — 少数几个孩子的理论革命
-> | 维度 | 细节 |
-> |---|---|
-> | **研究** | *The Moral Judgement of the Child*（Piaget, 1932） |
-> | **对象** | 儿童道德判断的发展 |
-> | **样本** | **少数几个孩子**（a handful of children） |
-> | **方法** | [[Qualitative Interview\|深度访谈]] + 对游戏规则的细致观察 |
-> | **贡献** | 提出从他律道德到自律道德的发展阶段模型——深刻影响了整个20世纪发展心理学和教育学 |
-
----
+> [!case] 案例六：Piaget (1932) — 少数几个孩子的理论革命
+> Piaget (1932) 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为**少数几个孩子**（a handful of children）。他没有使用大样本或标准化测验，而是通过对少数儿童进行[[Qualitative Interview\|深度访谈]]和对游戏规则的细致观察，提出了从他律道德（heteronomous morality，规则来自外部权威）到自律道德（autonomous morality，规则来自相互尊重和合作）的发展阶段模型。这一理论深刻影响了整个20世纪的发展心理学和教育学。
 
 > [!lessons] Axline和Piaget的共同方法论启示
-> 两个经典案例共同说明：**小样本、窄聚焦的研究可以产生卓越的成果。**
->
-> 1. **研究对象被仔细限定**：Axline聚焦一个孩子的一种治疗形式，Piaget聚焦少数儿童的道德推理。两者都没有试图覆盖所有孩子或所有治疗形式
-> 2. **研究执行深度而非广度**：不在宽度上妥协，而是在限定范围内做到极致
-> 3. **边界清晰使严谨性成为可能**：研究范围小，每个数据点都可以进行深度分析
-> 4. **对新手研究者的核心启示**：不要害怕做得小。小不是缺点，只要足够深、足够严谨、有清晰边界
+> 两个经典案例共同说明：**小样本、窄聚焦的研究可以产生卓越的成果。** 研究对象被仔细限定（Axline聚焦一个孩子的一种治疗形式，Piaget聚焦少数儿童的道德推理），研究执行深度而非广度，边界清晰使严谨性成为可能。对新手研究者的核心启示是：不要害怕做得小。小不是缺点，只要足够深、足够严谨、有清晰边界。
 
 ---
 
@@ -462,8 +443,8 @@ updated: 2026-06-19
 > [!knowledge-map]- 图6.6：研究问题的30种类型
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-6_Research_Question_Types.jpg)
 
-> [!chapter-question] 研究问题的角色与反角色
-> [[Research Question|研究问题]]对调查的指导作用在决策时是有用的参考。但需要注意重要的**反角色**论述：一些研究，通常是[[Qualitative Research|质性研究]]（Bryman, 2007b），可能**没有**研究问题。研究方法并不总是由研究问题驱动（Bryman, 2007b: 18），应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b: 14）。
+> [!chapter-question] 研究问题的作用与边界
+> [[Research Question|研究问题]]对调查的指导作用在决策时是有用的参考。但也需要认识到：一些研究，通常是[[Qualitative Research|质性研究]]（Bryman, 2007b），可能**没有**研究问题；研究方法并不总是由研究问题驱动（Bryman, 2007b: 18）；应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b: 14）。
 
 ---
 

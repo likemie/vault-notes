@@ -7,8 +7,8 @@ summary: "第3章以研究（research）与评估（evaluation）的概念比较
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education"
-argument_display_title: "Research Methods in Education"
+title: "Research Methods in Education · Ch03"
+argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
 argument_related_count: 22
 argument_related_level: 1
