@@ -68,29 +68,28 @@
 
 /* question — 警报红，水印 ? hover 时旋转回正并放大 */
 .callout[data-callout="question"] {
-  --callout-color: 208, 42, 56;
+  --callout-color: 195, 38, 50;
   --callout-icon: lucide-circle-help;
   background:
-    linear-gradient(135deg, rgba(208, 42, 56, 0.09) 0%, rgba(208, 42, 56, 0.02) 58%),
+    linear-gradient(135deg, rgba(195, 38, 50, 0.07) 0%, rgba(195, 38, 50, 0.01) 60%),
     var(--background-primary);
-  border: 1px solid rgba(208, 42, 56, 0.22);
-  border-left: 5px solid rgb(208, 42, 56);
+  border: 1px solid rgba(195, 38, 50, 0.18);
+  border-left: 4px solid rgb(195, 38, 50);
   border-radius: 10px;
-  box-shadow: 0 4px 16px rgba(208, 42, 56, 0.08);
   transition: border-left-color 0.20s ease, box-shadow 0.22s ease;
 }
 .callout[data-callout="question"]::after {
   top: 50%;
   right: -1.2rem;
   transform: translateY(-50%) rotate(14deg);
-  color: rgba(208, 42, 56, 0.07);
+  color: rgba(195, 38, 50, 0.06);
   font-size: 10rem;
   transition: transform 0.42s cubic-bezier(0.34, 1.56, 0.64, 1),
               color 0.25s ease;
 }
 .callout[data-callout="question"]:hover::after {
   transform: translateY(-53%) rotate(0deg) scale(1.12);
-  color: rgba(208, 42, 56, 0.13);
+  color: rgba(195, 38, 50, 0.11);
 }
 
 /* chapter-question — 琥珀色，小水印，隐藏标题，自动 Q 徽章 */
@@ -9937,17 +9936,7 @@
     0 4px 16px rgba(var(--callout-color), 0.09);
 }
 
-/* ─── AF. [!question] hover — 红色左边框发光 + 徽章加速脉冲 ── */
-.callout[data-callout="question"]:hover {
-  border-left-color: rgb(230, 55, 70);
-  box-shadow:
-    -5px 0 22px rgba(208, 42, 56, 0.32),
-    0 6px 22px rgba(208, 42, 56, 0.12);
-}
-.callout[data-callout="question"]:hover > .callout-title .callout-title-inner::before {
-  transform: scale(1.22) rotate(-14deg);
-  animation: question-alarm-fast 0.75s ease-out infinite;
-}
+/* ─── AF. [!question] hover（已移至覆盖块统一管理）── */
 
 /* ─── AG. [!framework-table] 容器 hover ─────────────────── */
 .callout[data-callout="framework-table"] {
@@ -11757,55 +11746,35 @@
 .theme-dark .callout[data-callout="faq"] > .callout-title,
 .theme-dark .callout[data-callout="help"] > .callout-title { color: rgb(178, 118, 245); }
 
-/* ── [!question] 专属覆盖（警报红 + 常态脉冲徽章）── */
-/* 隐藏 Obsidian 默认图标，只保留自定义 ? 徽章 */
-.callout[data-callout="question"] > .callout-title > .callout-icon {
-  display: none;
-}
+/* ── [!question] 专属覆盖：警报红，覆盖 group 块紫色 ── */
 .callout[data-callout="question"] {
-  --callout-color: 208, 42, 56;
+  --callout-color: 195, 38, 50;
   background:
-    linear-gradient(135deg, rgba(208, 42, 56, 0.09) 0%, rgba(208, 42, 56, 0.02) 58%),
+    linear-gradient(135deg, rgba(195, 38, 50, 0.07) 0%, rgba(195, 38, 50, 0.01) 60%),
     var(--background-primary);
-  border-color: rgba(208, 42, 56, 0.22);
-  border-left-color: rgb(208, 42, 56);
-  box-shadow: 0 4px 16px rgba(208, 42, 56, 0.08);
+  border-color: rgba(195, 38, 50, 0.18);
+  border-left-color: rgb(195, 38, 50);
+  box-shadow: none;
 }
-/* 圆形 ? 徽章：持续脉冲警报圈 */
+.callout[data-callout="question"] > .callout-title {
+  color: rgb(165, 28, 40);
+}
 .callout[data-callout="question"] > .callout-title .callout-title-inner::before {
-  content: "?";
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.68rem;
-  height: 1.68rem;
-  border-radius: 50%;
-  background: linear-gradient(145deg, rgb(228, 55, 70), rgb(185, 28, 42));
-  color: #fff;
-  font-size: 1.0em;
-  font-weight: 900;
-  font-style: italic;
-  margin-right: 0.55rem;
-  vertical-align: middle;
-  border: 2px solid var(--background-primary);
-  /* 常态脉冲：2.4s 循环，静止时也在"呼吸" */
-  animation: question-alarm 2.4s ease-out infinite;
-  transition: transform 0.32s cubic-bezier(0.34, 1.56, 0.64, 1);
+  content: "QUESTION";
 }
-/* 标题文字 */
-.callout[data-callout="question"] > .callout-title .callout-title-inner {
-  color: rgb(175, 28, 42);
-  font-weight: 600;
+.callout[data-callout="question"]:hover {
+  border-left-color: rgb(218, 50, 64);
+  box-shadow: -4px 0 18px rgba(195, 38, 50, 0.20), 0 4px 16px rgba(195, 38, 50, 0.07);
 }
 .theme-dark .callout[data-callout="question"] {
-  --callout-color: 238, 90, 105;
-  border-left-color: rgb(228, 72, 88);
+  --callout-color: 230, 80, 95;
+  border-left-color: rgb(215, 65, 80);
   background:
-    linear-gradient(135deg, rgba(228, 72, 88, 0.11) 0%, rgba(228, 72, 88, 0.02) 58%),
+    linear-gradient(135deg, rgba(215, 65, 80, 0.09) 0%, rgba(215, 65, 80, 0.02) 60%),
     var(--background-primary);
 }
-.theme-dark .callout[data-callout="question"] > .callout-title .callout-title-inner {
-  color: rgb(255, 140, 150);
+.theme-dark .callout[data-callout="question"] > .callout-title {
+  color: rgb(245, 120, 132);
 }
 
 /* ─────────────────────────────────────────────

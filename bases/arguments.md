@@ -114,6 +114,9 @@ views:
 
   - type: table
     name: 按期刊分组
+    filters:
+      and:
+        - 'argument_kind == "journal-article"'
     groupBy:
       property: journal
       direction: ASC

@@ -70,7 +70,7 @@ updated: '2026-06-21'
 ## 研究问题
 
 > [!question]
-> 芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？其核心的“现象”概念应如何理解？该教学模式的整体性教育价值与其被课程化过程中遭遇的新自由主义（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？(pp.1–2)
+>芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？其核心的“现象”概念应如何理解？该教学模式的整体性教育价值与其被课程化过程中遭遇的新自由主义（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？(pp.1–2)
 
 > [!claim] 核心主张
 > PhBL 并非一种凭空出现的全新教学发明，而是深深植根于欧陆的[[Phenomenology\|现象学]]、教化（[[Bildung]]）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（Pragmatic Constructivism）心理学之中。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力；然而，当 PhBL 被纳入芬兰课程政策时，却被迫向强调标准化测量、问责制和“技能原子化”（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
