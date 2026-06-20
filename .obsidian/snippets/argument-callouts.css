@@ -7757,17 +7757,16 @@
   padding: 0;
   margin: 0;
 }
-.callout[data-callout="theory-components"] > .callout-content > ul > li::marker {
-  display: none;
-  content: "";
-}
+/* 彻底消除 bullet（与 dimension 保持一致，用 display:none） */
+.callout[data-callout="theory-components"] > .callout-content > ul > li::marker { display: none; }
 
-/* 卡片：左上留给徽章 */
+/* 卡片：display:block 彻底清除 list-item marker box */
 .callout[data-callout="theory-components"] > .callout-content > ul > li {
   counter-increment: tc-n;
-  list-style: none;
+  display: block !important;
+  list-style: none !important;
   position: relative;
-  padding: 0.55rem 0.75rem 0.65rem 2.6rem;
+  padding: 0.55rem 0.75rem 0.65rem 2.55rem;
   border: 1px solid rgba(var(--tc), 0.14);
   border-radius: 8px;
   background: linear-gradient(160deg,
@@ -7783,16 +7782,16 @@
   content: "C" counter(tc-n);
   position: absolute;
   top: 0.52rem;
-  left: 0.6rem;
-  width: 1.5rem;
-  height: 1.5rem;
+  left: 0.58rem;
+  width: 1.48rem;
+  height: 1.48rem;
   border-radius: 4px;
-  background: linear-gradient(135deg, rgb(var(--tc)), rgb(52, 40, 118));
+  background: linear-gradient(135deg, rgb(var(--tc)), rgb(48, 36, 112));
   color: #fff;
-  font-size: 0.56rem;
+  font-size: 0.55rem;
   font-weight: 800;
   letter-spacing: 0.03em;
-  line-height: 1.5rem;
+  line-height: 1.48rem;
   text-align: center;
   border: 2px solid var(--background-primary);
   box-shadow: 0 0 0 1.5px rgba(var(--tc), 0.35);
@@ -7814,16 +7813,25 @@
   box-shadow: 0 0 0 2px rgba(var(--tc), 0.55), 0 0 10px rgba(var(--tc), 0.35);
 }
 
-/* 构件标题（首个 strong）：独立一行 */
-.callout[data-callout="theory-components"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="theory-components"] > .callout-content > ul > li > p:first-child > strong:first-child {
-  display: block;
-  margin-bottom: 0.18rem;
+/* 标题行（第一个 p）：加粗 + 颜色 + 底部细分割线 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li > p:first-child {
+  margin: 0 0 0.3rem 0;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid rgba(var(--tc), 0.18);
   color: rgb(var(--tc));
-  font-size: 0.90em;
   font-weight: 700;
-  letter-spacing: 0.01em;
+  font-size: 0.90em;
   line-height: 1.4;
+  letter-spacing: 0.01em;
+}
+
+/* 内容行（后续 p）：正常文字，略小 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li > p:not(:first-child) {
+  margin: 0;
+  font-size: 0.86em;
+  line-height: 1.60;
+  color: var(--text-normal);
+  opacity: 0.88;
 }
 
 /* 暗色模式 */

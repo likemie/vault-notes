@@ -24,9 +24,53 @@ tags:
   - method/research-design
   - source/textbook
   - theme/research-planning
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Fitness for Purpose]]"
+  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
+  - "[[Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
+  - "[[Postpositivism]]"
+  - "[[Objectivism]]"
+  - "[[Subjectivism]]"
+  - "[[Literature Review]]"
+  - "[[Research Question]]"
+  - "[[Champ]]"
+  - "[[Gatekeepers]]"
+  - "[[Emergence]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Operationalization]]"
+  - "[[Informed Consent]]"
+  - "[[Covert Research]]"
+  - "[[Construct]]"
+  - "[[Research Scope]]"
+  - "[[Research Utilization]]"
+  - "[[Variable]]"
+  - "[[Null Hypothesis]]"
+  - "[[Alternative Hypothesis]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Causality]]"
+  - "[[Reflexivity]]"
+  - "[[Qualitative Validity]]"
+  - "[[Abstract]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Complexity Theory]]"
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Qualitative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Participatory Research]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Ideology Critique]]"
+  - "[[Quantitative Research]]"
+  - "[[Triangulation]]"
+  - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Interview]]"
+  - "[[Interview Protocol]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -64,11 +108,11 @@ updated: 2026-06-21
 
 ### 7.1 引言
 
-研究规划没有单一蓝图。研究设计由"[[Fitness for Purpose|目的适切性]]"（fitness for purpose）原则支配——研究目的决定了研究的方法论和设计。三种典型情境的对应关系清晰说明了这一原则：
+研究规划没有单一蓝图。研究设计由"目的适切性"（[[Fitness for Purpose]]）原则支配——[[Purpose Statement|研究目的]]决定了研究的方法论和设计。三种典型情境的对应关系清晰说明了这一原则：
 
 > [!chain-link] 目的适切性的三重推理
 > - **情境与设计的直接对应**
->   如果研究目的是绘制领域全貌或做出可推广的论断，则调查方法配合分层抽样可能是合适的选择；如果要评估特定干预的效果，则实验或行动研究模型可能合适；如果需要对特定情境或群体进行深入理解，则民族志模型可能合适（p.118）。
+>   如果[[Research Purpose|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合分层抽样可能是合适的选择；如果要评估特定干预的效果，则实验或行动研究模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography|民族志]]模型可能合适（p.118）。
 > - **识别跨情境的共同议题**
 >   尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题——指示如何在实践中将一般的研究兴趣转化为可操作、可行的研究课题（p.118）。
 > - **规划即前瞻性约束**
@@ -99,27 +143,27 @@ updated: 2026-06-21
 > | 研究目的 | 适用方法 |
 > |---|---|
 > | 检验假设或理论 | 实验、调查、行动研究、案例研究 |
-> | 发展理论 | 民族志、质性研究、扎根理论 |
+> | 发展理论 | 民族志、[[Qualitative Research\|质性研究]]、[[Grounded Theory\|扎根理论]] |
 > | 测量 | 调查、实验 |
 > | 理解情境 | 民族志和诠释/质性方法 |
-> | 看看如果……会发生什么 | 实验、参与式研究、行动研究 |
-> | 发现"什么"和"为什么" | 混合方法研究 |
+> | 看看如果……会发生什么 | 实验、[[Participatory Research\|参与式研究]]、行动研究 |
+> | 发现"什么"和"为什么" | [[Mixed Methods Research\|混合方法研究]] |
 > | 发现过去发生了什么 | 历史研究 |
 
 #### 范式与本体论-认识论基础
 
-第一部分已经阐述了支撑研究规划和实施的一系列范式。这些范式建立在不同的[[Ontology|本体论]]和[[Epistemology|认识论]]之上（pp.119–120）：
+第一部分已经阐述了支撑研究规划和实施的一系列[[Paradigm|范式]]。这些范式建立在不同的[[Ontology|本体论]]和[[Epistemology|认识论]]之上（pp.119–120）：
 
 > [!col1-table] 范式-本体论-认识论的对应关系
 > | 范式 | 本体论 | 认识论 |
 > |---|---|---|
-> | 实证主义与后实证主义 | 客观主义的 | 科学的、经验的、假设检验的 |
+> | [[Positivism\|实证主义]]与[[Postpositivism\|后实证主义]] | [[Objectivism\|客观主义]]的 | 科学的、经验的、假设检验的 |
 > | 量化、科学和假设检验 | 延续实证主义传统 | 以可测量、可检验为知识标准 |
-> | 诠释与自然主义 | 主观主义、互动论、社会建构的 | 承认多重实在、能动者行为、通过参与者之眼理解情境 |
-> | 现象学与存在主义 | — | 关注体验本身的结构和意义 |
+> | 诠释与自然主义 | [[Subjectivism\|主观主义]]、互动论、社会建构的 | 承认多重实在、能动者行为、通过参与者之眼理解情境 |
+> | [[Phenomenology\|现象学]]与存在主义 | — | 关注体验本身的结构和意义 |
 > | 互动论与民族志 | — | 关注符号互动、文化意义生产 |
-> | 复杂性理论 | 自组织涌现和不可预测的相互作用 | 理解多重因果方向、需要整体性理解现象并通过互动过程和结果来审查 |
-> | 意识形态批判 | 现象在权力关系和不平等中被组织 | 明确政治性，批判意识形态根基，结合批判与参与式行动以推动社会正义 |
+> | [[Complexity Theory\|复杂性理论]] | 自组织涌现和不可预测的相互作用 | 理解多重因果方向、需要整体性理解现象并通过互动过程和结果来审查 |
+> | [[Ideology Critique\|意识形态批判]] | 现象在权力关系和不平等中被组织 | 明确政治性，批判意识形态根基，结合批判与参与式行动以推动社会正义 |
 > | 混合方法 | 现象复杂到单一方法可能产生片面理解 | 实用主义的方法组合——顺序、平行或综合——以充分把握现象的多重面向
 
 > [!citation-card]- 从机械操作到知识反思
@@ -135,8 +179,8 @@ updated: 2026-06-21
 
 #### 三种研究设计的线性流程
 
-> [!proc] 量化研究（假设检验型）
-> 1. **准备** 文献综述 → 生成和表述假设/待检验理论/研究问题
+> [!proc] [[Quantitative Research|量化研究]]（假设检验型）
+> 1. **准备** [[Literature Review|文献综述]] → 生成和表述假设/待检验理论/[[Research Question|研究问题]]
 > 2. **设计** 设计检验假设/理论的研究（如实验或调查）
 > 3. **执行** 实施研究 → 分析结果 → 考虑替代解释
 > 4. **收束** 报告假设/理论是否得到支持，和/或回答研究问题 → 考虑发现的推广性
@@ -145,10 +189,10 @@ updated: 2026-06-21
 
 > [!proc] 质性或民族志研究
 > 1. **准备** 确定感兴趣的主题/群体/现象 → 文献综述
-> 2. **设计** 设计研究问题和研究及数据收集 → 定位研究场域和研究者的角色
-> 3. **进入田野** 定位信息提供者、守门人、信息来源 → 与参与者建立工作关系
+> 2. **设计** 设计研究问题和研究及数据收集 → 定位研究[[Champ|场域]]和研究者的角色
+> 3. **进入田野** 定位信息提供者、[[Gatekeepers|守门人]]、信息来源 → 与参与者建立工作关系
 > 4. **执行** 同时实施研究和数据收集 → 数据分析（与研究同时，或在研究结束后进行）
-> 5. **收束** 报告结果和涌现的扎根理论或对研究问题的回答 → 生成供进一步研究或检验的假设
+> 5. **收束** 报告结果和[[Emergence|涌现]]的扎根理论或对研究问题的回答 → 生成供进一步研究或检验的假设
 >
 > 质性研究中，假设（如果有的话）从研究**末尾**涌现——部分质性研究甚至不到达提出假设的阶段（pp.121–122）。
 
@@ -167,7 +211,7 @@ updated: 2026-06-21
 
 #### Maxwell (2005) 的互动模型
 
-为回应线性模型的局限，[[Maxwell's Interactive Model of Research Design|Maxwell (2005, pp.5–6)]] 发展了一个互动式（而非线性）研究设计模型，面向质性研究。五个关键领域相互通知、彼此塑造（pp.122–123）：
+为回应线性模型的局限，Maxwell (2005, pp.5–6) 发展了一个互动式（而非线性）研究设计模型，面向质性研究。五个关键领域相互通知、彼此塑造（pp.122–123）：
 
 > [!mechanism-map]- Maxwell 互动模型五领域
 > ```mermaid
@@ -190,14 +234,16 @@ updated: 2026-06-21
 > ```
 
 > [!theory-components] 五领域详述
-> - **目标（Goals）** 受感知问题、个人目标、参与者关切、资助和资助方目标、伦理标准影响
-> - **概念框架（Conceptual framework）** 受个人经验、已有理论和先前研究、探索性和试点研究、思想实验、初步数据和结论影响
-> - **研究问题（Research questions）** 
-> - 模型的核心，受参与者关切、资助方目标、伦理标准、研究范式影响
-> - **方法（Methods）** 
-> - 受研究范式、研究者技能和偏好风格、研究情境、伦理标准、资助方目标、参与者关切影响
-> - **效度（Validity）** 
-> - 受研究范式、初步数据和结论、思想实验、探索性和试点研究、已有理论和先前研究影响
+> - **目标（Goals）**
+>   受感知问题、个人目标、参与者关切、资助和资助方目标、伦理标准影响
+> - **概念框架（Conceptual framework）**
+>   受个人经验、已有理论和先前研究、探索性和试点研究、思想实验、初步数据和结论影响
+> - **研究问题（Research questions）**
+>   模型的核心，受参与者关切、资助方目标、伦理标准、研究范式影响
+> - **方法（Methods）**
+>   受研究范式、研究者技能和偏好风格、研究情境、伦理标准、资助方目标、参与者关切影响
+> - **效度（Validity）**
+>   受研究范式、初步数据和结论、思想实验、探索性和试点研究、已有理论和先前研究影响
 
 > [!conclusion] 互动模型的关键主张
 > 研究问题位于模型的核心，但受到其他四个领域的有力影响。Maxwell 指出：目标与概念框架之间、方法与效度之间存在**强连接**；概念框架与效度之间、目标与方法之间的连接**较弱**。该模型随时间推移是迭代和递归的；研究设计从这些要素的互动中涌现，并随研究的展开而发展（p.123）。
@@ -206,32 +252,34 @@ updated: 2026-06-21
 
 #### Box 7.1 研究设计的要素
 
-> [!example]- Box 7.1：研究设计的25个要素
-> 1. 对促成研究的问题/需求的清晰陈述
-> 2. 文献中的清晰根基（理论、实质、概念、方法论），服务于构念效度和内容效度
-> 3. 研究约束（如准入、时间、人员、政治）
-> 4. 一般研究目的和意图
-> 5. 预期成果——研究会做什么、可交付成果是什么
-> 6. 反思被研究现象的本质以及如何处理其本体论和认识论性质
-> 7. 如何操作化研究目的
-> 8. 生成研究问题（在适当情况下：具体、可回答的问题）和假设（如果合适）
-> 9. 研究焦点
-> 10. 确定并排列研究的优先事项
-> 11. 接近研究设计
-> 12. 收窄研究
-> 13. 研究方法论（调查、实验、民族志/自然主义、纵向、横截面、历史、相关、事后回溯等）
-> 14. 伦理议题与研究所有权（知情同意、公开与隐蔽研究、匿名、保密、不可追溯性、不伤害、善行、拒绝/退出权、回应者验证、社会责信、诚实与欺骗）
-> 15. 研究的政治性（谁是研究者、研究自身机构、权力与利益、优势、内部与外部研究）
-> 16. 研究的受众
-> 17. 工具（问卷、访谈、观察、测试、田野笔记、叙述、文件、个人构念、角色扮演）
-> 18. 抽样（规模/准入/代表性、类型；概率：随机/系统/分层/整群/阶段/多阶段；非概率：便利/配额/目的/维度/滚雪球）
-> 19. 试点（技术：清晰度、布局与外观、时机、长度、威胁、难易度、侵入性；问题：效度、消除歧义、问题类型、回应类别、识别冗余；预试点：生成类别、分组和分类）
-> 20. 时间框架和顺序（什么将发生、何时、与谁）
-> 21. 所需资源
-> 22. 信度与效度（效度：构念、内容、同时、表面、生态、内部、外部；信度：一致性（可复制性）、等价性（评分者间、等价形式）、可预测性；精确性；准确性；诚实性；真实性；丰富性；可信赖性；深度；克服霍桑效应和光环效应；三角验证：时间、空间、理论、研究者、工具）
-> 23. 数据分析
-> 24. 验证和确证数据
-> 25. 报告和撰写研究
+> [!seq-table]- Box 7.1：研究设计的25个要素
+> | 要素 |
+> |---|
+> | 对促成研究的问题/需求的清晰陈述 |
+> | 文献中的清晰根基（理论、实质、概念、方法论），服务于[[Construct Validity in Quantitative Measurement\|构念效度]]和内容效度 |
+> | 研究约束（如准入、时间、人员、政治） |
+> | 一般研究目的和意图 |
+> | 预期成果——研究会做什么、可交付成果是什么 |
+> | 反思被研究现象的本质以及如何处理其本体论和认识论性质 |
+> | 如何[[Operationalization\|操作化]]研究目的 |
+> | 生成研究问题（在适当情况下：具体、可回答的问题）和假设（如果合适） |
+> | 研究焦点 |
+> | 确定并排列研究的优先事项 |
+> | 接近研究设计 |
+> | 收窄研究 |
+> | 研究方法论（调查、实验、民族志/自然主义、纵向、横截面、历史、相关、事后回溯等） |
+> | 伦理议题与研究所有权（[[Informed Consent\|知情同意]]、公开与[[Covert Research\|隐蔽研究]]、匿名、保密、不可追溯性、不伤害、善行、拒绝/退出权、回应者验证、社会责信、诚实与欺骗） |
+> | 研究的政治性（谁是研究者、研究自身机构、权力与利益、优势、内部与外部研究） |
+> | 研究的受众 |
+> | 工具（问卷、访谈、观察、测试、田野笔记、叙述、文件、个人[[Construct\|构念]]、角色扮演） |
+> | 抽样（规模/准入/代表性、类型；概率：随机/系统/分层/整群/阶段/多阶段；非概率：便利/配额/目的/维度/滚雪球） |
+> | 试点（技术：清晰度、布局与外观、时机、长度、威胁、难易度、侵入性；问题：效度、消除歧义、问题类型、回应类别、识别冗余；预试点：生成类别、分组和分类） |
+> | 时间框架和顺序（什么将发生、何时、与谁） |
+> | 所需资源 |
+> | 信度与效度（效度：构念、内容、同时、表面、生态、内部、外部；信度：一致性（可复制性）、等价性（评分者间、等价形式）、可预测性；精确性；准确性；诚实性；真实性；丰富性；可信赖性；深度；克服霍桑效应和光环效应；[[Triangulation\|三角验证]]：时间、空间、理论、研究者、工具） |
+> | 数据分析 |
+> | 验证和确证数据 |
+> | 报告和撰写研究 |
 
 > [!example]- 图7.B1：研究设计的可能考虑序列
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_7-B1_Sequence_of_Consideration.jpg)
@@ -239,7 +287,7 @@ updated: 2026-06-21
 这25个要素可归入四个主要领域（Morrison, 1993）：
 
 > [!feature] 研究规划四领域
-> 1. **定向决策**（Orienting decisions）—— 设定研究边界或约束的策略性决策
+> 1. **定向决策**（Orienting decisions）—— 设定[[Research Scope|研究边界]]或约束的策略性决策
 > 2. **研究设计与方法论**（Research design and methodology）—— 研究的战术性实施
 > 3. **数据分析**（Data analysis）
 > 4. **呈现与报告结果**（Presenting and reporting the results）
@@ -295,7 +343,7 @@ updated: 2026-06-21
 
 ### 7.4 实施与报告文献综述
 
-[[Literature Review|文献综述]]应建立研究的**理论框架**，指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、构念和概念，报告该主题其他研究使用的关键方法论（p.126）。文献综述还设定领域中需要探索的关键议题，识别需要填补的空白，贡献于研究的可信度、效度、主题性和重要性（pp.126–127）。
+[[Literature Review|文献综述]]应建立研究的**理论框架**，指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、构念和概念，报告该主题其他[[Research Utilization|研究使用]]的关键方法论（p.126）。文献综述还设定领域中需要探索的关键议题，识别需要填补的空白，贡献于研究的可信度、效度、主题性和重要性（pp.126–127）。
 
 #### 文献综述的论证本质
 
@@ -341,7 +389,7 @@ updated: 2026-06-21
 > | **一手来源** | 原始、第一手、当代的来源材料（文件、演讲、日记、信件、自传、回忆录、公共记录、采访和原始研究数据、会议纪要、备忘录、公报、宪章、法案、法律文件、证人陈述、口述历史、未发表作品、专利、网站、视频片段、照片、音频记录、人工制品等） |
 > | **在线数据库** | — |
 > | **电子期刊或媒体** | — |
-> | **二手来源** | 第二手材料（百科全书、词典、报纸文章、评论、文摘、教材、研究综合、元分析、研究综述、历史、杂志文章、传记、专著、评论著作等） |
+> | **二手来源** | 第二手材料（百科全书、词典、报纸文章、评论、文摘、教材、研究综合、[[Meta-analysis\|元分析]]、研究综述、历史、杂志文章、传记、专著、评论著作等） |
 > | **三手来源** | 一手和二手来源的蒸馏或汇编（年鉴、书目、目录、词典、百科全书、事实书、指南、索引、文摘、手册、年表等） |
 
 ---
@@ -468,15 +516,15 @@ updated: 2026-06-21
 >
 > 完全操作化的假设：**人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数**（p.139）。
 
-> [!warning] 多重假设与中介变量
+> [!warning] 多重假设与中介[[Variable|变量]]
 > 需要准备使用**多个假设**以抓住复杂性（Muijs, 2004: 16），尤其因为必须纳入中介变量。例如，员工"自愿合作程度"（因变量）受"专业领导力"（自变量）和"领导者个人领导品质"（中介变量）的影响（p.140）。
 
 ##### H₀ 与 H₁ 的正式陈述
 
-> [!line-a] 零假设（H₀）
+> [!line-a] [[Null Hypothesis|零假设]]（H₀）
 > 陈述两个变量之间没有关系，或参与者在前后测中没有差异，或男性和女性在科学成绩上没有差异。
 
-> [!line-b] 备择假设（H₁）
+> [!line-b] [[Alternative Hypothesis|备择假设]]（H₁）
 > 陈述存在相关关系，或存在差异，或前测和后测之间存在差异。备择假设通常在零假设被"拒绝"时得到支持。
 
 ---
@@ -507,7 +555,7 @@ updated: 2026-06-21
 > | 验证与交叉检查 | 分析结果如何被验证、交叉检查和确证？ |
 
 > [!example]- 13种质性数据分析技术
-> 1. 田野笔记的**编码和内容分析**（Miles and Huberman, 1984）
+> 1. 田野笔记的**[[Coding in Qualitative Research|编码]]和内容分析**（Miles and Huberman, 1984）
 > 2. **认知地图**（Jones, 1987; Morrison, 1993）
 > 3. 寻找**回应模式**
 > 4. 寻找**因果路径和连接**（Miles and Huberman, 1984）
@@ -671,7 +719,7 @@ updated: 2026-06-21
 > | 工具 | 详情 |
 > |---|---|
 > | **i 问卷调查** | 两种商业工具：(a) Harrison and Stokes (1992) 的组织文化问卷——考察角色、权力、成就和支持四种文化，检查现有与偏好文化间的差异；(b) Cooke and Lafferty (1989) 的组织文化清单（Organizational Culture Inventory）——全面可靠分析呈现的组织文化。问卷使用评分量表捕捉表达、展示、实施、可见的文化层面——测量文化共享程度、现有与理想一致性、文化强度（pp.153–154）。 |
-> | **ii 半结构化质性访谈** | 个体和小组访谈，收集无形方面的数据——价值、假设、信念、愿望、问题。有给定议程和开放式问题。因面对面个体访谈可能对某些群体有压迫感，使用小组访谈。最重要部分是追问"**为什么**"（p.154）。 |
+> | **ii 半结构化[[Qualitative Interview\|质性访谈]]** | 个体和小组访谈，收集无形方面的数据——价值、假设、信念、愿望、问题。有给定议程和开放式问题。因面对面个体访谈可能对某些群体有压迫感，使用小组访谈。最重要部分是追问"**为什么**"（p.154）。 |
 > | **iii 观察数据** | 评论物理环境，随后用访谈跟进发现参与者的回应、感知、态度。人工制品、衣物、共享和私人空间、家具、通知、规章制度等都向参与者传递信息（p.154）。 |
 > | **iv 文献分析和额外存储数据** | 报告学校正式事项，审查包含了什么和排除了什么（p.154）。 |
 
@@ -708,7 +756,7 @@ updated: 2026-06-21
 >
 > > [!step] 阶段二：工具与试点
 > > - 问卷开发和试点
-> > - 半结构化访谈提纲和试点
+> > - 半结构化[[Interview Protocol|访谈提纲]]和试点
 > > - 观察数据收集
 > > - 文献数据分析
 > > - ⚠ 由于高级职员数量有限，**无法对他们进行试点访谈**——将使他们被排除在最终数据收集之外
@@ -752,7 +800,7 @@ updated: 2026-06-21
 
 ### 7.14 确保研究规划的质量
 
-"目的适切性"原则支配研究规划——研究计划必须适合研究的目的。如果读者感到研究任务是复杂的，这是一个重要信息——**严谨和深思熟虑的全面规划是研究有价值且有效的必要条件**（p.156）。
+"目的适切性"原则支配研究规划——研究计划必须适合研究的目的。如果读者感到研究任务是复杂的，这是一个重要信息——**严谨和深思熟虑的全面规划是研究有价值且有效的[[Necessary and Sufficient Conditions|必要条件]]**（p.156）。
 
 #### Box 7.3 研究规划检查清单
 
@@ -771,11 +819,11 @@ updated: 2026-06-21
 > | 10 | 你的研究最好通过自然主义、诠释、实证主义、后实证主义、混合方法、参与式、评估式、意识形态批判、女性主义、复杂性理论——单独或组合来完成？ |
 > | 11 | 你的研究将使用调查、文献研究、量化方法、民族志或质性方法、实验、历史来源、行动研究、案例研究、事后回溯设计——单独或组合？ |
 > | 12 | 你是否需要识别自变量和因变量？ |
-> | 13 | 你的研究是否试图建立因果关系？ |
+> | 13 | 你的研究是否试图建立[[Causality\|因果关系]]？ |
 > | 14 | 你是否试图从研究中进行推广？ |
 > | 15 | 在规划研究时，你是否已说明如何在概念化、规划、方法论、工具、数据分析、讨论、结论和报告中处理效度和信度？ |
 > | 16 | 谁将收集、录入、处理、分析、解释和验证你的数据？ |
-> | 17 | 你是否已确定如何处理反思性（reflexivity）？ |
+> | 17 | 你是否已确定如何处理[[Reflexivity\|反思性]]（reflexivity）？ |
 > | 18 | 你是否已确定需要聚焦什么才能回答研究问题和进行研究？ |
 > | 19 | 你是否已经确定在开展研究时需要联系谁？ |
 > | 20 | 你是否已检查所有伦理问题是否已与所有必要方面处理？是否已获得伦理审查许可？ |
@@ -803,7 +851,7 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 
 > [!dimension] Furlong & Oancea 的质量四维度框架
 >
-> - **认识论维度（Epistemic dimension）** — 理论与方法论的坚实性：(a) "可信度"（trustworthiness）；(b) "对知识的贡献"；(c) 设计与报告的"明晰性"；(d) "合宜性"（法律和伦理要求）；(e) "范式依赖性"
+> - **认识论维度（Epistemic dimension）** — 理论与方法论的坚实性：(a) "可信度"（[[Qualitative Validity|trustworthiness]]）；(b) "对知识的贡献"；(c) 设计与报告的"明晰性"；(d) "合宜性"（法律和伦理要求）；(e) "范式依赖性"
 > - **技术维度（Technological dimension）** — "使用价值"（value for use）：(a) "显著性/时效性"；(b) "合目的性"（purposivity）；(c) "具体性和可及性"；(d) "对促成影响的关注"；(e) "灵活性和可操作化性"
 > - **能力建设维度（Capacity building and value for people）** — (a) 伙伴关系、协作和参与；(b) "合理性"（从实践者视角）；(c) 反思与批评——发展反思性和自我反思的研究；(d) "接受性"；(e) 激励个人成长
 > - **经济维度（Economic dimension）** — (a) "成本效益"；(b) "可市场化"和"竞争力"；(c) "可审计性"；(d) "可行性"；(e) "原创性"；(f) "价值效率"
@@ -827,20 +875,20 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 > [!citation-card]- 目的适切性
 > 没有任何单一蓝图用于规划研究。研究设计由"目的适切性"概念支配。研究的目的决定了研究的方法论和设计。（第7章, p.118）
 >
-> *There is no single blueprint for planning research. Research design is governed by the notion of "fitness for purpose". The purposes of the research determine the methodology and design of the research.* (p.118)
+> *There is no single blueprint for planning research. Research design is governed by the notion of "[[Fitness for Purpose]]". The purposes of the research determine the methodology and design of the research.* (p.118)
 
 > [!citation-card]- 从机械操作到知识反思
-> 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的本体论前提，以及研究它的认识论基础。这些是需要反思和决策的关键点——正是它们将研究规划从单纯的机械或实践操作，转变为对知识本质和存在本质的反思。（第7章, p.120）
+> 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的[[Ontology|本体论]]前提，以及研究它的[[Epistemology|认识论]]基础。这些是需要反思和决策的关键点——正是它们将研究规划从单纯的机械或实践操作，转变为对知识本质和存在本质的反思。（第7章, p.120）
 >
 > *At issue here is the need for researchers not only to consider the nature of the phenomenon under study, but what are or are not the ontological premises that underpin it, the epistemological bases for investigating it and conducting the research into it. These are points of reflection and decision, turning the planning of research from being solely a mechanistic or practical exercise into a reflection on the nature of knowledge and the nature of being.* (p.120)
 
-> [!citation-card]- 操作化的本质
-> 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的研究目的或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
+> [!citation-card]- [[Operationalization|操作化]]的本质
+> 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的[[Purpose Statement|研究目的]]或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
 >
-> *Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the abstract to the concrete.* (p.135)
+> *Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the [[Abstract]] to the concrete.* (p.135)
 
 > [!citation-card]- 线性研究的欺骗性
-> 线性顺序具有欺骗性，因为实际中很少如此清晰。真实情况是：研究设计的不同领域相互影响；研究设计随时间变化、演化和涌现，而非一开始就一次性决定和最终确定。（第7章, p.122）
+> 线性顺序具有欺骗性，因为实际中很少如此清晰。真实情况是：研究设计的不同领域相互影响；研究设计随时间变化、演化和[[Emergence|涌现]]，而非一开始就一次性决定和最终确定。（第7章, p.122）
 >
 > *These three examples proceed in a linear sequence; this is beguilingly deceptive, for rarely is such linearity so clear. The reality is that: different areas of the research design influence each other; research designs change, evolve and emerge over time rather than being a "once-and-for-all" plan.* (p.122)
 
@@ -850,7 +898,7 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 > *Research is an inherently political and moral activity; it is not politically or morally neutral. The researcher has to be concerned with the uses as well as the conduct of the research.* (p.147)
 
 > [!citation-card]- 质量的多维性
-> Furlong and Oancea (2005, pp.11–15) 识别了教育研究中几个清晰的质量维度：认识论维度（可信度、对知识的贡献、设计与报告的明晰性、合宜性、范式依赖性）；技术维度（显著性、合目的性、具体性和可及性、对促成影响的关注、灵活性和可操作化性）；能力建设维度（伙伴关系与协作、合理性、反思与批评、接受性、激励个人成长）；经济维度（成本效益、可市场化和竞争力、可审计性、可行性、原创性、价值效率）。（第7章, pp.157–158）
+> Furlong and Oancea (2005, pp.11–15) 识别了教育研究中几个清晰的质量维度：认识论维度（可信度、对知识的贡献、设计与报告的明晰性、合宜性、[[Paradigm|范式]]依赖性）；技术维度（显著性、合目的性、具体性和可及性、对促成影响的关注、灵活性和可操作化性）；能力建设维度（伙伴关系与协作、合理性、反思与批评、接受性、激励个人成长）；经济维度（成本效益、可市场化和竞争力、可审计性、可行性、原创性、价值效率）。（第7章, pp.157–158）
 
 ---
 
