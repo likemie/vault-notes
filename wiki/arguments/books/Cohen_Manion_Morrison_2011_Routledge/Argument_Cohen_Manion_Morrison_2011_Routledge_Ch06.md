@@ -106,9 +106,6 @@ updated: 2026-06-19
 
 ### 6.1 引言：研究规划的纪律
 
-> [!knowledge-map]- 图6.1：选择研究课题的七个决策点
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-1_Seven_Decision_Points.jpg)
-
 选择研究课题通常是成功研究的**决定性特征**。核心论证链是一条从宏大到严谨的收窄逻辑：
 
 > [!chain-link] 窄化即严谨
@@ -123,8 +120,6 @@ updated: 2026-06-19
 
 ### 6.2 研究选题从何而来？
 
-> [!knowledge-map]- 图6.2：[[Research Topic|研究选题]]的23种来源
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-2_Sources_of_Research_Projects.jpg)
 
 > [!chapter-question] 选题来源的分类框架
 > 研究课题可以从多个出发点产生，按驱动力的性质可分为四个类别：
@@ -174,8 +169,6 @@ updated: 2026-06-19
 
 ### 6.3 研究的重要性
 
-> [!knowledge-map]- 图6.3：[[Evaluation Research|评估研究]]重要性的框架
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-3_Importance_of_Research.jpg)
 
 > [!claim] 核心主张：原创性不够
 > 研究必须是**原创的**（original）、**重要的**（significant）、**非琐碎的**（non-trivial）、**相关的**（relevant）、**适时的**（topical）、**对更广泛受众有趣**（interesting to a wider audience）且**能推进领域前进**（advance the [[Champ|field]]）。但仅凭原创数据和原创课题是不够的。
@@ -246,8 +239,6 @@ updated: 2026-06-19
 
 ### 6.4 研究的目的
 
-> [!knowledge-map]- 图6.4：28种[[Purpose Statement|研究目的]]与其适配方法
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-4_Purposes_and_Methods.jpg)
 
 > [!chapter-question] "为什么做研究"的歧义
 > "为什么做这个研究"是歧义的："为什么"既可以指**原因／起因**（reasons/causes），也可以指**目的**（purposes），二者可能重叠。前文（6.3）关注的是原因层面，即研究的重要性和合理性；这里关注的是目的层面：研究希望达成什么。
@@ -318,8 +309,6 @@ updated: 2026-06-19
 
 ### 6.5 确保研究可操作
 
-> [!knowledge-map]- 图6.5：[[Research Practicability|研究可操作性]]的六个约束维度
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-5_Ensuring_Research_Can_Be_Conducted.jpg)
 
 > [!warning] 核心警告：想做什么 ≠ 能做什么
 > 许多新手研究者怀着无知的天真乐观（the innocence and optimism of ignorance），相信自己想做的任何事都能做到。事实远非如此。**想做什么和实际上能做什么之间往往存在显著鸿沟。** 在制定详细研究计划之前，必须先检查实际情况，否则计划可能因为无法获得准入而毫无意义。
@@ -438,8 +427,6 @@ updated: 2026-06-19
 
 ### 6.6 考虑研究问题
 
-> [!knowledge-map]- 图6.6：研究问题的30种类型
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-6_Research_Question_Types.jpg)
 
 > [!chapter-question] 研究问题的作用与边界
 > [[Research Question|研究问题]]对调查的指导作用在决策时是有用的参考。但也需要认识到：一些研究，通常是[[Qualitative Research|质性研究]]（Bryman, 2007b），可能**没有**研究问题；研究方法并不总是由研究问题驱动（Bryman, 2007b: 18）；应避免"**研究问题的独裁**"（dictatorship of the research questions）（Bryman, 2007b: 14）。
@@ -483,13 +470,13 @@ updated: 2026-06-19
 > | 探索（Exploring） | 这个领域里有什么？ | 疫情期间教师的在线教学实践有哪些类型？ |
 > | 因果（[[Causality\|causation]]） | 什么导致了什么？ | 频繁测试是否提高了学生成绩？ |
 > | 检验（Testing） | 某个理论／假设是否成立？ | 自我决定理论能否解释中国大学生的学术拖延？ |
-> | What? | 这是什么？ | 什么是"深度学习"？ |
-> | What if? | 假如……会怎样？ | 假如取消标准化考试，学校教学会如何改变？ |
-> | Who? | 谁参与了？ | 谁从课外辅导中受益最多？ |
-> | When? | 什么时候发生？ | 教师职业倦怠通常在职业生涯的哪个阶段出现？ |
-> | Where? | 在哪里发生？ | 校园欺凌主要发生在学校的哪些空间？ |
-> | Why? | 为什么发生？ | 为什么男教师在小学教师中比例偏低？ |
-> | How? | 如何发生／如何做？ | 校长如何在学校中建立协作文化？ |
+> | What?（是什么） | 这是什么？ | 什么是"深度学习"？ |
+> | What if?（假如） | 假如……会怎样？ | 假如取消标准化考试，学校教学会如何改变？ |
+> | Who?（谁） | 谁参与了？ | 谁从课外辅导中受益最多？ |
+> | When?（何时） | 什么时候发生？ | 教师职业倦怠通常在职业生涯的哪个阶段出现？ |
+> | Where?（何处） | 在哪里发生？ | 校园欺凌主要发生在学校的哪些空间？ |
+> | Why?（为何） | 为什么发生？ | 为什么男教师在小学教师中比例偏低？ |
+> | How?（如何） | 如何发生／如何做？ | 校长如何在学校中建立协作文化？ |
 > | 解释（Explanation） | 如何解释这一现象？ | 什么因素解释了不同国家[[PISA]]成绩的差异？ |
 > | 描述（Description） | 现象的特征是什么？ | 大学新生的学术适应有哪些主要特征？ |
 > | 关系（Relations） | A和B之间有什么关系？ | 教师[[Self-Efficacy\|自我效能感]]与学生参与度之间有什么关系？ |
@@ -499,15 +486,15 @@ updated: 2026-06-19
 > | 因素（Factors） | 哪些因素在起作用？ | 影响教师留任的关键因素有哪些？ |
 > | 评价（Evaluation） | 某个方案是否有效？ | 该课后辅导计划是否提高了学生成绩？ |
 > | 功能或目的（Function/Purpose） | 它是做什么用的？ | 学校排名系统的社会功能是什么？ |
-> | 如何达成某结果 | 怎么做才能成功？ | 如何在学校中有效推广协作式教学？ |
+> | 如何达成某结果（How to achieve outcomes） | 怎么做才能成功？ | 如何在学校中有效推广协作式教学？ |
 > | 类型（Types） | 有哪些种类？ | 教育[[Policy Borrowing\|政策借用]]有哪几种类型？ |
 > | 属性与特征（Properties/Characteristics） | 它有什么特征？ | 高效教师团队有哪些共同属性？ |
 > | 阶段（Stages） | 经过哪些阶段？ | 教师专业身份发展经历了哪些阶段？ |
-> | 如何做某事 | 操作步骤是什么？ | 如何设计和实施一项学校改进计划？ |
-> | 如何达成某事 | 实现目标的路径？ | 如何实现有效的家校合作？ |
+> | 如何做某事（How to do something） | 操作步骤是什么？ | 如何设计和实施一项学校改进计划？ |
+> | 如何达成某事（How to achieve something） | 实现目标的路径？ | 如何实现有效的家校合作？ |
 > | 结构（Structures） | 内部结构是什么？ | 一个国家的教育问责体系由哪些层级构成？ |
 > | 替代方案（Alternatives） | 有什么其他选择？ | 标准化考试之外有哪些替代的评估方式？ |
-> | 如何改进或发展 | 如何变得更好？ | 如何改进初任教师的入职培训？ |
+> | 如何改进或发展（How to improve or develop） | 如何变得更好？ | 如何改进初任教师的入职培训？ |
 
 （类型框架来源：University of Berkeley, 2002；Newby, 2010: 67–9）
 
@@ -540,8 +527,6 @@ updated: 2026-06-19
 
 ### 6.7 考虑文献综述的范围
 
-> [!knowledge-map]- 图6.7：文献综述的七项目的
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-7_Purposes_of_Literature_Review.jpg)
 
 > [!abstract] 文献综述的多重角色
 > [[Literature Review|文献综述]]是大多数研究的重要组成部分，尤其是学位论文。它的存在理由不是"展示研究者读过一些相关材料"，这是一个琐碎且自恋的理由。**文献综述必须有用，必须为研究提供形成性的（formative）信息。**
@@ -594,8 +579,6 @@ updated: 2026-06-19
 
 ### 6.8 Box 6.1：选择研究课题的36条关键问题总结
 
-> [!knowledge-map]- 图6.8：选择研究课题的关键问题总览
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_6-8_Box_6-1_Key_Issues.jpg)
 
 > [!conclusion] 本章结语
 > 无论新手还是经验丰富者，都应以**谨慎的态度**（caution）对待研究课题的选择和决策，睁着眼睛进入（going into it with their eyes open），既了解可能的**陷阱**（pitfalls），也理解**收益和影响**（benefits and implications）。

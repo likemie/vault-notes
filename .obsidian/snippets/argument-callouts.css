@@ -2864,6 +2864,151 @@
 
 
 /* ═══════════════════════════════════════════════════════════
+   GOAL — 目的 / 目标记录
+   用途：研究目的、论证目标、学习目标分点列举
+   颜色：翡翠绿 rgb(20, 128, 108)
+   特征：虚线脊线（展望感）+ ◆ 菱形节点 + 左色条卡片
+         区别于 timeline（实线 / 圆点）和 chain-link（金色 / 数字圆）
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="goal"] {
+  --callout-color: 20, 128, 108;
+  --callout-icon: lucide-target;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(135deg, rgba(20, 128, 108, 0.07), rgba(20, 128, 108, 0.01)),
+    var(--background-primary);
+  border: 1.5px solid rgba(20, 128, 108, 0.22);
+  border-left: 5px solid rgb(20, 128, 108);
+  border-radius: 10px;
+  padding: 0 0 0.9rem;
+  box-shadow: 0 4px 14px rgba(20, 128, 108, 0.07);
+  transition: box-shadow 0.25s ease;
+}
+.callout[data-callout="goal"]:hover {
+  box-shadow: 0 0 0 2px rgba(20, 128, 108, 0.18), 0 6px 20px rgba(20, 128, 108, 0.11);
+}
+
+.callout[data-callout="goal"] > .callout-title {
+  color: rgb(14, 96, 80);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.7rem 1.1rem 0.55rem;
+  border-bottom: 1px solid rgba(20, 128, 108, 0.16);
+}
+.callout[data-callout="goal"] > .callout-title .callout-title-inner::before {
+  content: "GOAL";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 1px 7px;
+  border-radius: 4px;
+  background: rgba(20, 128, 108, 0.14);
+  color: rgb(14, 96, 80);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+/* 列表容器 */
+.callout[data-callout="goal"] > .callout-content > ul {
+  list-style: none;
+  padding: 0.65rem 1rem 0.1rem 3.4rem;
+  margin: 0;
+  position: relative;
+}
+
+/* 虚线脊线（展望感，区别于 timeline 的实线） */
+.callout[data-callout="goal"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  left: 1.55rem;
+  top: 1.6rem;
+  bottom: 1.2rem;
+  width: 0;
+  border-left: 2px dashed rgba(20, 128, 108, 0.42);
+}
+
+/* 目标卡片：右圆角 + 左色条（区别于 timeline 的无边框流式） */
+.callout[data-callout="goal"] > .callout-content > ul > li {
+  position: relative;
+  padding: 0.58rem 0.9rem 0.65rem 0.75rem;
+  margin-bottom: 0.58rem;
+  border: 1px solid rgba(20, 128, 108, 0.14);
+  border-left: 3px solid rgba(20, 128, 108, 0.55);
+  border-radius: 0 7px 7px 0;
+  background: linear-gradient(180deg, rgba(20, 128, 108, 0.05), rgba(20, 128, 108, 0.01));
+  line-height: 1.68;
+  font-size: var(--fs-table);
+  transition: background 0.15s ease, box-shadow 0.15s ease;
+}
+.callout[data-callout="goal"] > .callout-content > ul > li:last-child {
+  margin-bottom: 0;
+}
+.callout[data-callout="goal"] > .callout-content > ul > li:hover {
+  background: linear-gradient(180deg, rgba(20, 128, 108, 0.09), rgba(20, 128, 108, 0.02));
+  box-shadow: 0 2px 8px rgba(20, 128, 108, 0.09);
+}
+
+/* ◆ 菱形节点（区别于 timeline 圆点、chain-link 数字圆） */
+.callout[data-callout="goal"] > .callout-content > ul > li::before {
+  content: "◆";
+  position: absolute;
+  left: -1.80rem;
+  top: 0.72rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  font-size: 0.55rem;
+  line-height: 1.2rem;
+  text-align: center;
+  color: rgb(20, 128, 108);
+  background: var(--background-primary);
+  border-radius: 50%;
+  /* 白圈隔断虚线脊线，使节点更清晰 */
+  box-shadow: 0 0 0 3px var(--background-primary), 0 0 0 4.5px rgba(20, 128, 108, 0.28);
+  z-index: 1;
+}
+
+/* 目标标题 — li 首个 strong */
+.callout[data-callout="goal"] > .callout-content > ul > li > p:first-child > strong:first-child,
+.callout[data-callout="goal"] > .callout-content > ul > li > strong:first-child {
+  display: block;
+  color: rgb(14, 96, 80);
+  font-weight: 700;
+  font-size: 0.93em;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.28rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px dashed rgba(20, 128, 108, 0.28);
+}
+
+/* 暗模式 */
+.theme-dark .callout[data-callout="goal"] {
+  --callout-color: 40, 180, 150;
+  background:
+    linear-gradient(135deg, rgba(40, 180, 150, 0.09), rgba(40, 180, 150, 0.02)),
+    var(--background-primary);
+  border-color: rgba(40, 180, 150, 0.26);
+  border-left-color: rgb(40, 180, 150);
+}
+.theme-dark .callout[data-callout="goal"] > .callout-title { color: rgb(40, 180, 150); }
+.theme-dark .callout[data-callout="goal"] > .callout-title .callout-title-inner::before {
+  background: rgba(40, 180, 150, 0.16);
+  color: rgb(40, 180, 150);
+}
+.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li {
+  border-color: rgba(40, 180, 150, 0.14);
+  border-left-color: rgba(40, 180, 150, 0.55);
+  background: linear-gradient(180deg, rgba(40, 180, 150, 0.07), rgba(40, 180, 150, 0.01));
+}
+.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li > p:first-child > strong:first-child,
+.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li > strong:first-child {
+  color: rgb(40, 180, 150);
+  border-bottom-color: rgba(40, 180, 150, 0.28);
+}
+
+/* ═══════════════════════════════════════════════════════════
    CONCEPT TIMELINE — 概念演变时间线
    用途：概念条目发展脉络，垂直时间轴可视化
    颜色：slate-indigo rgb(72, 95, 145)
