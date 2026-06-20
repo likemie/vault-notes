@@ -4,6 +4,11 @@ summary: "以好學心为切入点对比东亚与西方两种文化学习模型�
 type: argument
 subtype: monograph
 publication_type: book
+argument_kind: "book"
+argument_related_count: 113
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: 'Cultural Foundations of Learning: East and West'
 authors:
   - "[[Jin Li|Li, J.]]"

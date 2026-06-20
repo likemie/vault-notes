@@ -6,6 +6,11 @@ summary: "分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6%
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 4
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Medical Education Online
 citation: "Sandrone, S. (2025). Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees. Medical Education Online, 30(1), 2509554."
 tags:

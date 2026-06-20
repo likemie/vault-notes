@@ -6,6 +6,11 @@ summary: "Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 11
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 citation: "Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press."
 tags:

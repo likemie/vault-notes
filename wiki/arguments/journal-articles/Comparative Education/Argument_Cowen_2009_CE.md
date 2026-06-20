@@ -6,6 +6,11 @@ summary: "比较教育以方法论、形式和情境三个惯例转移了对教�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 17
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327."
 tags:

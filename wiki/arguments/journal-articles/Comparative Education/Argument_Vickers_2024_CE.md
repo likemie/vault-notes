@@ -6,6 +6,11 @@ summary: "比较 LS 2020 版与 CSD 2022 版教科书在历史叙事、一国两
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 24
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Vickers, E. (2024). The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law. Comparative Education, 60(1), 138-158."
 tags:

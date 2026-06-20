@@ -9,6 +9,11 @@ summary: "挪威 48 校 4128 名学生研究：性别本身对成绩直接解释
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Lekhal, R., Nordahl, T., Aasen, A. M., & Drugli, M. B. (2015). Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold. Paideia, 9, 76-86."
 tags:

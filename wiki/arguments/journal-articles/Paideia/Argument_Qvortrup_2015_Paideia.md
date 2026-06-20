@@ -6,6 +6,11 @@ summary: "VL 支持者立场讨论论文：回应三类批评，并指出学习�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33."
 tags:

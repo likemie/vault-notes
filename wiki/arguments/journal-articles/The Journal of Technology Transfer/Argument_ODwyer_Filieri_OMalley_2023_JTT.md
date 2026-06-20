@@ -4,6 +4,11 @@ summary: "基于爱尔兰 SSPC 制药产学合作网络的定性案例研究，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 8
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "The Journal of Technology Transfer"
 authors:
   - "O'Dwyer, M."

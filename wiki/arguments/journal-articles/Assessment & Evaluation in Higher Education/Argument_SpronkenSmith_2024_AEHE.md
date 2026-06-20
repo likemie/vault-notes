@@ -8,6 +8,11 @@ summary: "基于美国和新西兰三所大学博士毕业生的调查与访谈�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 11
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: "Assessment & Evaluation in Higher Education"
 citation: "Spronken-Smith, R., Brown, K., & Cameron, C. (2024). Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities. Assessment & Evaluation in Higher Education, 49(1), 86–101."
 year: 2024

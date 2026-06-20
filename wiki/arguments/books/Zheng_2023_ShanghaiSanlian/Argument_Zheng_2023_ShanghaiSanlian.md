@@ -6,6 +6,11 @@ summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 
 type: argument
 subtype: monograph
 publication_type: book
+argument_kind: "book"
+argument_related_count: 81
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: 金榜题名之后：大学生出路分化之谜
 publisher: 上海三联书店
 citation: "郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店."

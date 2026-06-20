@@ -13,6 +13,11 @@ summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 5
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: International Journal of Leadership in Education
 citation: "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C. (2020). The constitution of school autonomy in Australian public education: areas of paradox for social justice. *International Journal of Leadership in Education*. https://doi.org/10.1080/13603124.2020.1781934"
 tags:

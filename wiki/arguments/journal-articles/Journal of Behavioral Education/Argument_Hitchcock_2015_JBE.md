@@ -8,6 +8,11 @@ summary: "澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Journal of Behavioral Education
 citation: "Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C. (2015). What Works Clearinghouse standards and generalization of single-case design evidence. Journal of Behavioral Education, 24(4), 459–469."
 tags:

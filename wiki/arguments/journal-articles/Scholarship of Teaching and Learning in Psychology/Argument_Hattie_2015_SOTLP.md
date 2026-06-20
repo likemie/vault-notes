@@ -6,6 +6,11 @@ summary: "将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 8
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Scholarship of Teaching and Learning in Psychology
 citation: "Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91."
 tags:

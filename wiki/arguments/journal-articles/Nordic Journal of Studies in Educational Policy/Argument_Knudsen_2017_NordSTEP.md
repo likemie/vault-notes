@@ -6,6 +6,11 @@ summary: "Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Nordic Journal of Studies in Educational Policy
 citation: "Knudsen, H. (2017). John Hattie: I'm a statistician, I'm not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261."
 tags:

@@ -29,76 +29,79 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-05-18
+updated: 2026-06-20
 ---
-## 概述
 
-> [!info] 概述
-> **ResearchED** 是一个以英国为发源地的教育会议和草根运动，由教师 Tom Bennett 于 2013 年创立。ResearchED 宣称的目标是弥合教师与研究之间的距离，使教师能够直接获取和评估关于"什么有效"的研究证据。自成立以来，ResearchED 已发展为国际性的教育会议网络，在多个国家举办活动。
->
-> > "Ostensibly these initiatives were intended to give new voice to teachers, but in effect serve to blinker them." ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])
+# ResearchED
 
-## 政治关联
+---
 
-> [!info] 政治关联
-> ResearchED 的兴起与英国政府的教育政策议程高度交织：
->
-> - **Tom Bennett** 的著作 *Teacher Proof* (2013) 为 ResearchED 提供了思想基础：该书从抵制学习风格和脑 gym 等"教育时尚"出发，但随后将批判扩展到所有非基于"黄金标准"[[Randomised Controlled Trials|RCT]] 的教育研究
-> - 时任学校部长 **Nick Gibb** 迅速背书 ResearchED，并声称其存在归功于他（Gibb, 2015）——尽管 ResearchED 标榜为草根运动
-> - ResearchED 的方法论偏好（RCT 为黄金标准）与英国政府的政策偏好（合成语音法 systematic synthetic phonics、[[Education Endowment Foundation|EEF]] 的实验方法论要求）高度一致
+## 背景
 
-## 核心矛盾
+> [!event-context] 事件背景
+> - **时间 / 地点**：2013年发起于英国伦敦，后续发展为国际性的教育会议网络。
+> - **关键主体**：英国中学教师汤姆·贝内特（Tom Bennett，发起人）、时任英国教育部学校部长尼克·吉布（Nick Gibb，政府官方背书者）[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
+> - **制度背景**：英国教育部强力推动“循证教育改革”与“黄金标准”[[Randomised Controlled Trials|随机对照试验]]（RCT）方法论，试图绕过大学教育学院等传统研究力量，建立由教师直接对接“科学证据”的政策话语体系。
+> - **触发条件**：教师群体对诸如脑体操（Brain Gym）、学习风格（Learning Styles）等缺乏证据支持的“教育时尚”（educational fads）感到厌倦，自发寻求更具科学确定性的教学改进依据[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
 
-> [!warning] 核心矛盾
-> [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出 ResearchED 的内在矛盾：
->
-> - **声称**：赋予教师"声音"，使他们能独立[[Evaluation Research|评估研究]]
-> - **实效**：将教师的注意力锁定在单一方法论标准（[[Randomised Controlled Trials|RCT]]）上，同时攻击大学本位的研究——实际上替代了一种权威（大学学术）以另一种符合政府偏好的权威（"证据"标准）
-> - 这在英国的具体体现：ResearchED 反复援引 [[Education Endowment Foundation|EEF]] Toolkit 为权威证据来源，尽管 Toolkit 面临来自方法论学者的日益增多的批评（Simpson 2017, Wrigley 2018）
+---
 
-## 方法论立场
+## 经过
 
-> [!abstract] 方法论立场
-> ResearchED 的核心方法论信条——以 Bennett 的 *Teacher Proof* 为代表——是在 [[Randomised Controlled Trials|RCT]] 与其他所有研究形式之间建立了严格的二分：
->
-> - RCT = 科学、严格、可靠
-> - 其他方法（定性研究、案例研究、行动研究等）= 不够严格、不可靠
->
-> ### Bennett 的"[[Scientific Method|科学方法]]"描述
->
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, pp. 117–118)]] 详细引用了 Bennett (2013, p. 21) 的"科学方法"描述，以说明 ResearchED 背后的"民间科学观"（folk-view of science）：
->
-> Bennett 描述了以下公式([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]])：
-> 1. 形成问题：声音在水中比在空气中传播更快吗？
-> 2. 做出假设：是的。"声音在水中比在空气中传播更快"
-> 3. 做出预测：如果我的假设为真，我会观察到什么？
-> 4. 检验预测：收集证据看真实世界是否表现得与预测相同
-> 5. 分析：证据显示什么？如果证据证明假设为假，我们可以提出什么新假设？
->
-> Wrigley & McCusker 对此的批评（pp. 117–118）：
-> - 这一描述将**科学理论的作用 trivialise 了**——理论建构、概念发展和因果机制的探究在其中没有位置
-> - 这与自然科学的实际运作形成对比："自然科学家不是奴隶式地遵循关于建立[[Causality|因果性]]的方法论公式。他们基于先前知识、批判性观察、猜想和对猜想的检验进行推断——科学哲学家称之为**最佳解释推理**"（Thomas, 2016, p. 406）
-> - Bennett 的权威（作为 ResearchED 创始人）使这种"简单科学观"在英国教师群体和政府层面产生了相当大的影响力
->
-> Wrigley 对此的反驳：
-> - 许多科学领域不使用实验（天文学、气象学、进化论、生物学的大部分）
-> - 许多重大发现并非来自系统程序（青霉素、尼龙、超导性）
-> - 科学中，密切观察和理论在表述[[Causality|因果关系]]中起关键作用——因果不通过测量规律性单独建立
->
-> > "Bennett simplistically equates RCTs with science, forgetting that much scientific discovery has not arisen from experiments." ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])
->
-> ### 科学话语的修辞性使用
->
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p. 111)]] 指出，ResearchED 的相关倡导者利用长期存在的二分法——科学 = 客观知识 vs. 主观 = 不可靠信念——将已批准的研究形式（RCT、[[Meta-analysis|元分析]]）赋予"科学"的正面语调，同时将其他研究形式与"不科学"的联想（炼金术、占星术）联系起来进行贬低：
->
-> > "Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards." (Carl Hendrick, cited by Black, 2018)
-> > "Open University, sort out your life. Learning Styles = Magical unicorns." (Tom Bennett, cited by Black, 2018)
->
-> Wrigley & McCusker 论证这种修辞策略使用了"一种有缺陷的、刻板的民间科学观（folk-view, Thomas, 2012, p. 28）——为了修辞效果，但未能充分探究科学的真正特征"（p. 111）。
->
-> ### 对教师和教育的窄化效应
->
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p. 124)]] 警告：ResearchED 和 [[Education Endowment Foundation|EEF]] 以不同方式声称通过研究素养赋权实践者，但实际上"推广并延续了一种单一维度的研究观，同时边缘化了更广泛的研究形式"。数据以诱使用户对可用证据产生规定性解释的方式呈现。这形成了一个循环：狭隘的研究观和证据观 ↔ 狭隘的教学理解和实践。
->
-> Carol Black (2018) 在其文章 "Science/Fiction" 中将"揭穿"更广泛研究传统的时尚与政治和教育保守主义以及**传输式教育模式**（transmission model of education）联系起来。Wrigley & McCusker 总结："以'科学'之名，结合高利害问责体系的动力，我们正在见证一场反启蒙的——关闭理解和参与世界的方式的——运动"（p. 124）。
+> [!dev-timeline]- 事件经过
+> - **2013 — 创立与思想奠定**：教师 Tom Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“学习风格”等假科学，提倡以 RCT 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践距离的草根运动[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
+> - **2015 — 官方背书与政治收编**：ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
+> - **2016–至今 — 跨国扩张与争议深化**：ResearchED 在澳大利亚、新西兰、美国等国建立国际分支会议。其在英国的政策活动中，频繁将 [[Education Endowment Foundation|EEF]] 发布的《教学与学习工具包》引为权威，面临方法论学者关于其“去情境化科学观”的系统性批判[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
 
+---
+
+## 关键文件／声明
+
+> [!citation-card]- Tom Bennett 的“科学方法”描述
+> “形成问题（如：声音在水中比在空气中传播更快吗？）→ 做出假设 → 做出预测 → 检验预测（收集证据看真实世界是否表现得与预测相同）→ 分析证据。”
+> 
+> *“1. Form a question... 2. Form a hypothesis... 3. Make a prediction... 4. Test the prediction... 5. Analyse...”* —— [[Argument_Wrigley_2019_ERE|Bennett (2013, p. 21)]] 
+> 
+> **Wrigley & McCusker (2019) 批评**：该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了因果机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
+
+> [!citation-card]- 科学修辞的政治使用
+> “学习风格已被彻底揭穿，你还不如去抽塔罗牌。”（Carl Hendrick 语） / “开放大学（Open University），理清你们的脑子。学习风格 = 彩虹独角兽。”（Tom Bennett 语）
+> 
+> *“Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards.” (Carl Hendrick)* / *“Open University, sort out your life. Learning Styles = Magical unicorns.” (Tom Bennett)* —— [[Argument_Wrigley_2019_ERE|Black (2018, cited in Wrigley & McCusker, 2019, p. 111)]]
+> 
+> **分析**：ResearchED 骨干成员通过极端的两极修辞（科学 = 客观 RCT vs. 非实验研究 = 独角兽/占星术），对定性、行动等其他研究范式进行边缘化，从而强化其唯科学主义话语。
+
+---
+
+## 影响与后果
+
+> [!finding-cards] 影响与后果
+> - **教师专业视野的窄化**：通过在 RCT 与其他研究（定性、案例、行动研究）之间划定严格的科学二分法，诱使教师将复杂的课堂因果简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 124)]]。
+> - **对政府保守议程的护航**：ResearchED 标榜的“证据范式”在事实上为政府强推的“合成拼读法”（systematic synthetic phonics）等特定课程项目提供了合法性背书，削弱了大学本位的批判性研究[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
+> - **传输式教育模式的固化**：正如 Black (2018) 所分析，将研究简化为“开箱即用”的干预证据，在实质上配合了高利害问责制，固化了将知识单向输送给学生的“灌输式教育”[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 124)]]。
+
+---
+
+## 争议与评论
+
+> [!actor-grid] 评论视角
+> - **当事方 / 官方视角**：Tom Bennett 等倡导者认为 ResearchED 赋予了教师“声音”，打破了大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学知识赋能课堂实践。
+> - **学术 / 方法视角**：Terry Wrigley (2018) 与 Gary Thomas 等学者指出，ResearchED 奉行的“唯 RCT 论”在本体论上犯了层次混淆的错误。许多重大科学发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
+> - **政策 / 制度视角**：Stephen Ball 与 Carol Black 等学者认为，标榜“草根”的 ResearchED 遭到保守党政客的迅速背书，实质上沦为政府推行新自由主义审计文化、对教师队伍实施技术化控制、并打击“左翼”高等教育机构的修辞工具[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 124)]]。
+
+> [!tension] 争议焦点
+> - **自主草根运动 vs. 官方权力工具**：运动标榜的“赋权教师、去除权威”与教育部高官对其深度绑定的现实存在直接矛盾，批评者认为其已成为政府利益的传声筒[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 3)]]。
+> - **单一实验范式 vs. 方法论多元主义**：争论在于教育改善是应盲目遵循去情境化的“黄金标准”数据，还是承认教育是包含多层嵌套的开放系统，从而采用质性观察、实在论综合等多元研究路径[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 14–15)]]。
+
+---
+
+## 相关概念／政策
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Education Endowment Foundation]] | 组织/事实 | ResearchED 将其作为权威的 Toolkit 数据来源进行宣传，尽管该工具包面临方法论批评。 |
+> | [[Randomised Controlled Trials]] | 研究方法 | ResearchED 所宣称的教育科学“黄金标准”，也是其针对其他研究范式进行边缘化的前提。 |
+> | [[Scientific Method]] | 概念 | ResearchED 推广了一种简化的“民间科学方法”描述，受到科学哲学家的质疑。 |
+> | [[Evidence-Based Education]] | 概念 | ResearchED 运动是近年来证据本位教育理念在英国一线教师群体中落地与普及的标志性事件。 |

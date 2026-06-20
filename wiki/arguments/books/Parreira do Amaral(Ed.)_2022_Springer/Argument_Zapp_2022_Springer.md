@@ -6,6 +6,11 @@ summary: "Ch9 Mike Zapp，以世界社会理论和组织能动者身份为框架
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer."
 tags:

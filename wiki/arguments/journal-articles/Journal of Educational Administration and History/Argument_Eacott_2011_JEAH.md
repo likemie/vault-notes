@@ -6,6 +6,11 @@ summary: "以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 6
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Journal of Educational Administration and History
 citation: "Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: an Australian story. *Journal of Educational Administration and History*, 43(1), 43–59."
 tags:

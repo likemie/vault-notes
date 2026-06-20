@@ -6,6 +6,11 @@ summary: "提出跨国吸引力情境概念地图，拆解情境为结构层与�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Research in Comparative and International Education
 citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
 tags:

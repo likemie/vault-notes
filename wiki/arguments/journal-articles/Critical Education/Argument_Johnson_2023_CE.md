@@ -7,6 +7,11 @@ summary: "从方法论不透明、新泰勒主义教师监控、新自由主义�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Critical Education
 citation: "Johnson, G. R., & Janzen, M. D. (2023). Leading the blind: A critical look at Visible Learning. Critical Education, 14(4), 23–41."
 tags:

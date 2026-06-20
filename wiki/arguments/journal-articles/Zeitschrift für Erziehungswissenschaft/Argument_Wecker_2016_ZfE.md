@@ -8,6 +8,11 @@ summary: "以固定效应模型数学基础推导 6 项二级元分析方法论�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Zeitschrift für Erziehungswissenschaft
 citation: "Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0"
 tags:

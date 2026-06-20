@@ -6,6 +6,11 @@ summary: "Ch2 文献批判综述：西方对中国学习者“缺陷型“与“
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 17
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 citation: "Ryan, J. (2010). The Chinese Learner: Misconceptions and Realities. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 37–56). Hong Kong University Press."
 tags:

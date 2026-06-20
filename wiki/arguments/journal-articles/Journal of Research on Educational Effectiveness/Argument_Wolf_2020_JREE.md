@@ -10,6 +10,11 @@ summary: "以多元元回归分析 WWC 数据库 755 个效应量，发现开发
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Journal of Research on Educational Effectiveness
 citation: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447."
 tags:

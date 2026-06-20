@@ -7,6 +7,11 @@ summary: "以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 25
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108-127."
 tags:

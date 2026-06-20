@@ -8,6 +8,11 @@ summary: "首个中美英证据本位改革国际比较：记录中国教育实�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 12
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24."
 tags:

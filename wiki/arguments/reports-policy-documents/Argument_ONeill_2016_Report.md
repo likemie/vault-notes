@@ -8,6 +8,11 @@ summary: "以 Thompson 网络治理理论为框架，通过六案例社会网络
 type: argument
 subtype: report
 publication_type: report
+argument_kind: "report"
+argument_related_count: 3
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dcfce7"
 issuing_organization: Massey University
 citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
 tags:

@@ -10,6 +10,11 @@ summary: "UIDP 工作组提出的产学伙伴关系五类三层分类框架，�
 type: argument
 subtype: report
 publication_type: report
+argument_kind: "report"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dcfce7"
 issuing_organization: "University-Industry Demonstration Partnership (UIDP)"
 citation: "Southerton, J., Umberger, G., Matijasevic, G., Steele, S., & Johnson, W. (2012). The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement. University-Industry Demonstration Partnership (UIDP)."
 tags:

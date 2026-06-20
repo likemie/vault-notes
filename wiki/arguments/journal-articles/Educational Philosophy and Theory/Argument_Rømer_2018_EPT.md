@@ -6,6 +6,11 @@ summary: "以教育哲学分析对 Hattie VL 提出五线批评：评价理论�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Educational Philosophy and Theory
 citation: "Rømer, T. A. (2018). A critique of John Hattie's theory of Visible Learning. Educational Philosophy and Theory. https://doi.org/10.1080/00131857.2018.1488216"
 tags:

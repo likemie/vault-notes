@@ -7,6 +7,11 @@ summary: "将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 20
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Archives of Psychology
 citation: "Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3)."
 tags:

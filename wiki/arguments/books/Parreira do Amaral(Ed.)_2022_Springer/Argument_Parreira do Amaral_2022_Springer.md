@@ -7,6 +7,11 @@ summary: "论文集整体论证：高等教育正经历知识地缘政治重构�
 type: argument
 subtype: edited-volume
 publication_type: book
+argument_kind: "book"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 editors:
 - Parreira do Amaral, M.,

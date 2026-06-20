@@ -40,6 +40,11 @@ created: 2026-05-19
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#ede9fe"
 book_title: "Geopolitical Transformations in Higher Education"
 journal: ""
 issuing_organization: ""

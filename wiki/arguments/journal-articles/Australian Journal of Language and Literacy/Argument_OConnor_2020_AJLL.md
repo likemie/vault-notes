@@ -6,6 +6,11 @@ summary: "以《可见学习》全语言评估为案例的方法论细读，揭�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 22
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Australian Journal of Language and Literacy
 citation: "O'Connor, P. (2020). Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem. Australian Journal of Language and Literacy, 43(2), 141–151."
 tags:

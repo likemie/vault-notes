@@ -7,6 +7,11 @@ summary: "论文集整体论证：国际教育快速增长与中国学习者核�
 type: argument
 subtype: edited-volume
 publication_type: book
+argument_kind: "book"
+argument_related_count: 12
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 editors:
   - Ryan, J.

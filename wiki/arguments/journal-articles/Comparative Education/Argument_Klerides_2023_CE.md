@@ -6,6 +6,11 @@ summary: "运用 Wight 国际理论三大传统（现实主义、理性主义、
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 41
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
 tags:

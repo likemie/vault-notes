@@ -6,6 +6,11 @@ summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Nordic Journal of Studies in Educational Policy
 citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7."
 tags:

@@ -9,6 +9,11 @@ summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有�
 type: argument
 subtype: report
 publication_type: report
+argument_kind: "report"
+argument_related_count: 10
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dcfce7"
 issuing_organization: Durham University
 citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University."
 tags:

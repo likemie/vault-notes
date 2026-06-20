@@ -9,6 +9,11 @@ summary: "首次对 UK 大学毕业生特质进行全国性系统映射，识别
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 7
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Higher Education Research & Development
 citation: "Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M. (2022). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355."
 tags:

@@ -6,6 +6,11 @@ summary: "Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: School Leadership & Management
 citation: "Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430."
 tags:

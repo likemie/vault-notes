@@ -6,6 +6,11 @@ summary: "系统梳理近二十年对 PISA 的批评，从教育观、实施和�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 11
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Journal of Educational Change
 citation: "Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against PISA. Journal of Educational Change, 21(1), 13-24."
 tags:

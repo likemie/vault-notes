@@ -11,6 +11,11 @@ summary: "作为 Paideia 可见学习主题号导言，梳理支持、修正与�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 8
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Hansen, O., Lekhal, R., Nordahl, T., Norlund, A., Persson, B., & Qvortrup, L. (2015). Leder Temanummer om synlig læring. Paideia, 9, 4–8."
 tags:

@@ -6,6 +6,11 @@ summary: "以文献综述和美英 What Works 倡议对话为基础，提出以�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: International Journal of Research & Method in Education
 citation: "Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and improvement science. International Journal of Research & Method in Education, 39(3), 299–313."
 tags:

@@ -6,6 +6,11 @@ summary: "从医学引入副作用概念，以直接教学、东亚教育体系�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Journal of Educational Change
 citation: "Zhao, Y. (2017). What works may hurt: Side effects in education. Journal of Educational Change."
 tags:

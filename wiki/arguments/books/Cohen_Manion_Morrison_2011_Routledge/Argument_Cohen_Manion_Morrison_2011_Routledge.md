@@ -8,6 +8,11 @@ summary: "教育研究方法的综合性教材(第七版)，涵盖研究范式�
 type: argument
 subtype: textbook
 publication_type: book
+argument_kind: "book"
+argument_related_count: 43
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#ede9fe"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011

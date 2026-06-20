@@ -7,6 +7,11 @@ summary: "批评比较教育中转移、全球化、政策借用等既有词汇�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 27
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Globalisation, Societies and Education
 citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18."
 tags:

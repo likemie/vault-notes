@@ -6,6 +6,11 @@ summary: "以 Benner 修正版教学三角为框架，分析 VL 如何影响新�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Język-Szkoła-Rodzina
 citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129."
 tags:

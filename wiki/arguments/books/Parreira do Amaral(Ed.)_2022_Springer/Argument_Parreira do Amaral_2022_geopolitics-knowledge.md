@@ -6,6 +6,11 @@ summary: "Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 21
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Springer."
 tags:

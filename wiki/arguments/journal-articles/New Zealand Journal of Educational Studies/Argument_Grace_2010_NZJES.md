@@ -6,6 +6,11 @@ summary: "以“Critic and Conscience of Society“概念原创者身份回应 H
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 5
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 citation: "Grace, G. (2010). Reflection on the University and the Academic as 'Critic and Conscience of Society'. New Zealand Journal of Educational Studies, 45(2), 89–92."
 tags:

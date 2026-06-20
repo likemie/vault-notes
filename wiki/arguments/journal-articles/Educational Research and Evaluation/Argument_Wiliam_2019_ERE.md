@@ -6,6 +6,11 @@ summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
 citation: "Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993"
 tags:

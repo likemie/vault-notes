@@ -6,6 +6,11 @@ summary: "追溯杜威在中国九十年间四个时期的接受与变形，揭�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 24
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: "Encuentros sobre Educación"
 citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101."
 tags:

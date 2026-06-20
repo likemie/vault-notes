@@ -7,6 +7,11 @@ summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 21
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
 tags:

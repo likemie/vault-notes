@@ -8,6 +8,11 @@ summary: "系统综述92篇UIC文献，将25种产学研发合作影响归入6�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 22
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: "The Journal of Technology Transfer"
 citation: "Cohen, M., Fernandes, G., & Godinho, P. (2025). Measuring the impacts of university-industry R&D collaborations: a systematic literature review. The Journal of Technology Transfer, 50, 345–374."
 tags:

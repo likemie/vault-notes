@@ -6,6 +6,11 @@ summary: "以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
 citation: "Cowen, N. (2019). For whom does 'what works' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. DOI: 10.1080/13803611.2019.1617991"
 tags:

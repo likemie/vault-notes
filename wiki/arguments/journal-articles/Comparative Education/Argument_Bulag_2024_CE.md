@@ -38,6 +38,11 @@ created: 2026-05-25
 updated: '2026-06-08'
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Comparative Education
 book_title: ""
 issuing_organization: ""

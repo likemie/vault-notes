@@ -9,6 +9,11 @@ summary: "以学术资本主义多样性、话语分层和新封建等级为核�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: Higher Education
 citation: "Schulze-Cleven, T., Reitz, T., Maesse, J., & Angermuller, J. (2017). The new political economy of higher education: between distributional conflicts and discursive stratification. Higher Education, 73(6), 795-812."
 tags:

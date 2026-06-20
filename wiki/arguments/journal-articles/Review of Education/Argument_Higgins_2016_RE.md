@@ -6,6 +6,11 @@ summary: "追溯元分析从1904年到元综合的发展脉络，论证跨元分
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 37
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: Review of Education
 citation: "Higgins, S. (2016). Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits. Review of Education, 4(1), 31–53."
 tags:

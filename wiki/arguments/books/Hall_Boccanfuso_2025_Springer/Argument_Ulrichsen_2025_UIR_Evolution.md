@@ -6,6 +6,11 @@ summary: "综述过去50年产学关系演变，从创新模型、国家政策�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Springer."
 tags:

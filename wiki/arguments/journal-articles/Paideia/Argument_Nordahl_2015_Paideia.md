@@ -6,6 +6,11 @@ summary: "把 Visible Learning 放进斯堪的纳维亚学校改进语境，主�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61-69."
 tags:

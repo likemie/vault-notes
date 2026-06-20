@@ -6,6 +6,11 @@ summary: "Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 26
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 21–33). Springer."
 tags:

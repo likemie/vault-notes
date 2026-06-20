@@ -6,6 +6,11 @@ summary: "以自传式方法论回顾回应 Visible Learning 的常见批评，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 12
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21."
 tags:

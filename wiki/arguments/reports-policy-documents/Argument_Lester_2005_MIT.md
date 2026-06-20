@@ -4,6 +4,11 @@ summary: "基于对 6 个国家 22 个地区的产业转型案例研究，提出
 type: argument
 subtype: report
 publication_type: report
+argument_kind: "report"
+argument_related_count: 5
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dcfce7"
 issuing_organization: "MIT Industrial Performance Center"
 authors:
   - "Lester, R. K."

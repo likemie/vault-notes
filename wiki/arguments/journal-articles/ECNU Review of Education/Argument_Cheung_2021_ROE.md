@@ -7,6 +7,11 @@ summary: "ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 11
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6."
 tags:

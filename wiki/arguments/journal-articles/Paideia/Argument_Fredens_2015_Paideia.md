@@ -6,6 +6,11 @@ summary: "Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 8
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75."
 tags:

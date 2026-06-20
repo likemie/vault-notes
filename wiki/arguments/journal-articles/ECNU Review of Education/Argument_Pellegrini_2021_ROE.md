@@ -7,6 +7,11 @@ summary: "梳理2006年以来欧盟证据知情教育政策和证据中介组织
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25-45. https://doi.org/10.1177/2096531120924670"
 tags:

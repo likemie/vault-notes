@@ -6,6 +6,11 @@ summary: "以批判实在论对证据本位教育方法论进行三层解构：R
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 36
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: British Educational Research Journal
 citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338"
 tags:

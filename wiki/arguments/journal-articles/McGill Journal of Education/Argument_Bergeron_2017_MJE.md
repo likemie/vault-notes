@@ -7,6 +7,11 @@ summary: "从统计学家视角系统批判 Hattie Visible Learning 方法论为
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: McGill Journal of Education
 citation: "Bergeron, P.-J. & Rivard, L. (2017). How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician. McGill Journal of Education, 52(1), 237-246."
 tags:

@@ -8,6 +8,11 @@ summary: "比较 12 个教育证据清算中心的有效性标准与项目评级
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 39
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: Review of Educational Research
 citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
 tags:

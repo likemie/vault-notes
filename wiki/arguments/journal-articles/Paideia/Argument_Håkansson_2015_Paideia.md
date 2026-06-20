@@ -6,6 +6,11 @@ summary: "追踪 Hattie 在瑞典引发的教学转向，论证系统改进正�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 6
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Håkansson, J. (2015). Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet. Paideia, 9, 52–60."
 tags:

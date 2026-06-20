@@ -4,6 +4,11 @@ summary: "受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognit
 type: argument
 subtype: monograph
 publication_type: book
+argument_kind: "book"
+argument_related_count: 6
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#ede9fe"
 book_title: "Darwin's Finch: A Short History of Cognition"
 authors:
   - "Bates, T."

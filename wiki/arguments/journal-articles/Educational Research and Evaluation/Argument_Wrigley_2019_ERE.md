@@ -7,6 +7,11 @@ summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
 citation: "Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. Educational Research and Evaluation, 25(1–2), 110–126."
 tags:

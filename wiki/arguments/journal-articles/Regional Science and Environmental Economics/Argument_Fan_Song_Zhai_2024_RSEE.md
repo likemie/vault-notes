@@ -4,6 +4,11 @@ summary: "基于中国30个省份2001-2022年面板数据，构建教育-科技-
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "Regional Science and Environmental Economics"
 authors:
   - "Fan, F."

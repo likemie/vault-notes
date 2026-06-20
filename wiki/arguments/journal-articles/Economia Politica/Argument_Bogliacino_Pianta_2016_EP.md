@@ -4,6 +4,11 @@ summary: "对 Pavitt（1984）分类法进行跨国家和跨时间实证检验�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: "Economia Politica"
 authors:
   - "Bogliacino, F."

@@ -8,6 +8,11 @@ summary: "使用社会实在论和伯恩斯坦理论分析新西兰课程改革�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "McPhail, G., Ormond, B., & Siteine, A. (2023). Knowledge and the New Zealand curriculum refresh. Journal of Curriculum Studies, 55(5), 509-526."
 tags:

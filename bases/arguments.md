@@ -2,6 +2,8 @@
 title: 论证索引
 ---
 
+从这里进入文献论证：先看连接最密的核心论证，再按出版类型、年份和期刊回到具体材料。星级与连接数由 `scripts/vault_index.py` 自动刷新。
+
 ```base
 filters:
   and:
@@ -10,62 +12,131 @@ filters:
 
 properties:
   file.name:
-    displayName: Argument
+    displayName: 论证
+  summary:
+    displayName: 摘要
   authors:
-    displayName: Authors
+    displayName: 作者
   year:
-    displayName: Year
+    displayName: 年份
   journal:
-    displayName: Journal
-  file.folder:
-    displayName: Source
+    displayName: 期刊
+  argument_kind:
+    displayName: 类型
+  argument_related_stars:
+    displayName: 亮度
+  argument_related_count:
+    displayName: 连接
+  argument_related_color:
+    displayName: 色带
   updated:
-    displayName: Updated
+    displayName: 更新
 
 views:
-  - type: table
-    name: Arguments
+  - type: cards
+    name: 论证雷达
+    image: argument_related_color
     order:
       - file.name
+      - summary
       - authors
       - year
-      - journal
-      - file.folder
-      - updated
+      - argument_kind
+      - argument_related_stars
+      - argument_related_count
     sort:
+      - property: argument_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: cards
-    name: Cards
+    name: 核心论证
+    image: argument_related_color
+    filters:
+      and:
+        - 'argument_related_count >= 30'
     order:
       - file.name
+      - summary
       - authors
       - year
-      - journal
+      - argument_kind
+      - argument_related_stars
+      - argument_related_count
     sort:
+      - property: argument_related_count
+        direction: DESC
+
+  - type: table
+    name: 完整清单
+    order:
+      - file.name
+      - summary
+      - authors
+      - year
+      - argument_kind
+      - argument_related_stars
+      - argument_related_count
+      - journal
+      - updated
+    sort:
+      - property: argument_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: table
-    name: By Year
+    name: 按类型分组
+    groupBy:
+      property: argument_kind
+      direction: ASC
+    order:
+      - file.name
+      - summary
+      - authors
+      - year
+      - argument_related_stars
+      - argument_related_count
+      - journal
+      - updated
+    sort:
+      - property: argument_related_count
+        direction: DESC
+
+  - type: table
+    name: 按年份分组
     groupBy:
       property: year
       direction: DESC
     order:
       - file.name
+      - summary
       - authors
+      - argument_kind
+      - argument_related_stars
+      - argument_related_count
       - journal
       - updated
+    sort:
+      - property: argument_related_count
+        direction: DESC
 
   - type: table
-    name: By Journal
+    name: 按期刊分组
     groupBy:
       property: journal
       direction: ASC
     order:
       - file.name
+      - summary
       - authors
       - year
+      - argument_kind
+      - argument_related_stars
+      - argument_related_count
       - updated
+    sort:
+      - property: argument_related_count
+        direction: DESC
 ```

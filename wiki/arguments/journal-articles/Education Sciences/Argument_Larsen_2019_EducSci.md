@@ -6,6 +6,11 @@ summary: "从 Bildung、神经可塑性、现象学自由和概念史四维度�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Education Sciences
 citation: "Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education. Education Sciences, 9(1), 47."
 tags:

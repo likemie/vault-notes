@@ -13,6 +13,11 @@ summary: "基于 42 位澳大利亚教育利益相关者访谈，论证市场驱
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 6
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Journal of Educational Administration and History
 citation: "Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J. (2020). School autonomy, marketisation and social justice: the plight of principals and schools. *Journal of Educational Administration and History*, 52(4), 432–447."
 tags:

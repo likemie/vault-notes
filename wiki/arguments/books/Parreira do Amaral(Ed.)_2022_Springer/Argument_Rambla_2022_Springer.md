@@ -6,6 +6,11 @@ summary: "Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer."
 tags:

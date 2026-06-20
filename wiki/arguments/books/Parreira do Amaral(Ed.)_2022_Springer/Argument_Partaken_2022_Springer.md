@@ -6,6 +6,11 @@ summary: "Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 34
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Springer."
 tags:

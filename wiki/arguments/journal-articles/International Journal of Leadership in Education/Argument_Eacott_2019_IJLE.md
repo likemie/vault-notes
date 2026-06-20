@@ -6,6 +6,11 @@ summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 10
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: International Journal of Leadership in Education
 citation: "Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782."
 tags:

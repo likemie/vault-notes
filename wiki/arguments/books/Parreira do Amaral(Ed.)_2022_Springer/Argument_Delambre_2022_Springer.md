@@ -6,6 +6,11 @@ summary: "Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Springer."
 tags:

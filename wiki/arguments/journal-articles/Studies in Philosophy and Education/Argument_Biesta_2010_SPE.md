@@ -6,6 +6,11 @@ summary: "从认识论、存在论、实践论三维度识别证据本位教育�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Studies in Philosophy and Education
 citation: "Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503."
 tags:

@@ -47,6 +47,11 @@ created: 2026-06-02
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 23
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
 doi: ""

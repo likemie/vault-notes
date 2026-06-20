@@ -6,6 +6,11 @@ summary: "以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: 'Economic and Social Changes: Facts, Trends, Forecast'
 citation: "Golovchin M.A. (2019). What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education. *Economic and Social Changes: Facts, Trends, Forecast*, 12(5), 229–242."
 tags:

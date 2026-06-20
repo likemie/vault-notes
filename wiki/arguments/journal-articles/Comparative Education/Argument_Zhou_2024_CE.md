@@ -7,6 +7,11 @@ summary: "以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Zhou, Y. & Westberg, J. (2024). A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s. Comparative Education, 60(4), 609-625."
 tags:

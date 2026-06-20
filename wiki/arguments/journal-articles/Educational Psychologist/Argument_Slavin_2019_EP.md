@@ -6,6 +6,11 @@ summary: "EBE 支持者阵营的纲领性论述：三条件框架（项目存量
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 21
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Educational Psychologist
 citation: "Slavin, R. E. (2019). How Evidence-Based Reform Will Transform Research and Practice in Education. Educational Psychologist, 55(1), 1–13. DOI: 10.1080/00461520.2019.1611432"
 tags:

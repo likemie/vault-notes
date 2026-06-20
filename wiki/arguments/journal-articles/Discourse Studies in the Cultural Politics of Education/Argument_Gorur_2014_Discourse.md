@@ -6,6 +6,11 @@ summary: "以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: 'Discourse: Studies in the Cultural Politics of Education'
 citation: "Gorur, R. (2014). Producing calculable worlds: education at a glance. *Discourse: Studies in the Cultural Politics of Education*, 36(4), 578–595. doi: 10.1080/01596306.2015.974942"
 tags:

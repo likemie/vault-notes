@@ -7,6 +7,11 @@ summary: "对比六科教科书官方儒家叙事与37名少数民族/宗教背�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Yu, T. & Zhao, Z. (2024). Confucianism in multicultural China: 'official knowledge' vs marginalised views. Comparative Education, 60(1), 59-76."
 tags:

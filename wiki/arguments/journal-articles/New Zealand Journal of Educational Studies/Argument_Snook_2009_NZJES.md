@@ -10,6 +10,11 @@ summary: "VL 最早的系统性批判之一（2009）：从方法论缺陷、效
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 20
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 citation: "Snook, I., O'Neill, J., Clark, J., O'Neill, A. M., & Openshaw, R. (2009). Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of Educational Studies, 44(1), 93–106."
 tags:

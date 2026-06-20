@@ -6,6 +6,11 @@ summary: "比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI �
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 10
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41."
 tags:

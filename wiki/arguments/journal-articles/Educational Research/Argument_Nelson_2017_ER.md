@@ -7,6 +7,11 @@ summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 8
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Educational Research
 citation: "Nelson, J. & Campbell, C. (2017). Evidence-informed practice in education: meanings and applications. Educational Research, 59(2), 127–135."
 tags:

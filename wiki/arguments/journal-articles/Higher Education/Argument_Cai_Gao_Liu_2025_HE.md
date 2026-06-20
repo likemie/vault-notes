@@ -4,6 +4,11 @@ summary: "基于对粤港澳大湾区关键节点大学教师的半结构化访�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 6
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "Higher Education"
 authors:
   - "Cai, W."

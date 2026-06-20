@@ -8,6 +8,11 @@ summary: "Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze �
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 217–230). Springer."
 tags:

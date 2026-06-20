@@ -6,6 +6,11 @@ summary: "基于卡拉汉的效率崇拜历史视角，批判性论证澳大利�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: School Leadership & Management
 citation: "Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School Leadership & Management, 37(4), 413–426."
 year: 2017

@@ -7,6 +7,11 @@ summary: "以法语比利时教育卓越公约为叙事案例，说明证据本�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 20
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Dachet, D., & Baye, A. (2021). Evidence-based education: The not so simple case of French-speaking Belgium. ECNU Review of Education, 4(1), 164-189."
 tags:

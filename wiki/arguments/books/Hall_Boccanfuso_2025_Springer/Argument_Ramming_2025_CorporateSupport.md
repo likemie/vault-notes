@@ -6,6 +6,11 @@ summary: "从企业内部实践者视角分析如何在公司内部为产学合�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 20
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 citation: "Ramming, C. (2025). Gaining Support Within Companies for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 217-239). Springer."

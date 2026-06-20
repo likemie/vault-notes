@@ -6,6 +6,11 @@ summary: "Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE �
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: "Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation"
 citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer."
 tags:

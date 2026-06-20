@@ -7,6 +7,11 @@ summary: "运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 34
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#dbeafe"
 journal: Australian Educational Researcher
 citation: "Skourdoumbis, A., & Rowe, E. (2024). A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement. The Australian Educational Researcher. https://doi.org/10.1007/s13384-024-00743-y"
 tags:

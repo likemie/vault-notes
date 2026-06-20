@@ -8,6 +8,11 @@ summary: "第5章系统拆解教育与社会研究伦理的19个议题，从伦�
 type: argument
 subtype: textbook
 publication_type: book-chapter
+argument_kind: "book-chapter"
+argument_related_count: 33
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
+argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011

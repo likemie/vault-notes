@@ -6,6 +6,11 @@ summary: "Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 8
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Hartmann, E. (2022). The Internationalisation of Further Education: Between Geoeconomics and Geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 179–198). Springer."
 tags:

@@ -45,6 +45,11 @@ created: 2026-06-09
 updated: 2026-06-09
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Technological Forecasting and Social Change
 book_title: ""
 issuing_organization: ""

@@ -6,6 +6,11 @@ summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 12
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Educational Philosophy and Theory
 citation: "Eacott, S. (2015). Problematising the intellectual gaze of the educational administration scholar. Educational Philosophy and Theory, 47(4), 312–329."
 tags:

@@ -10,6 +10,11 @@ summary: "追踪 2020 年五本教育心理学经验期刊的方法趋势，发�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 0
+argument_related_stars: ""
+argument_related_color: "#dbeafe"
 journal: Educational Psychology Review
 citation: "Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H. (2023). How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies. Educational Psychology Review, 35, Article 37. https://doi.org/10.1007/s10648-023-09759-9"
 tags:

@@ -6,6 +6,11 @@ summary: "基于 35 年 ER 创始编辑经验，反思评估研究中证据与�
 type: argument
 subtype: journal-article
 publication_type: journal-article
+argument_kind: "journal-article"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: Evaluation Review
 citation: "Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191-203."
 tags:

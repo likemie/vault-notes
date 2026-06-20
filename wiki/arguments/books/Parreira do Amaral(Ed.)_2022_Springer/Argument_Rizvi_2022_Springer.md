@@ -6,6 +6,11 @@ summary: "Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲�
 type: argument
 subtype: book-chapter
 publication_type: book
+argument_kind: "book"
+argument_related_count: 23
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Springer."
 tags:
