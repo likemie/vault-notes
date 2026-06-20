@@ -171,9 +171,9 @@ updated: '2026-06-17'
 > 证据本位教育（Evidence-Based Education, EBE）是将循证医学的核心理念——专业实践应以最佳研究证据为基础——应用于教育领域的运动和学术讨论。其核心问题是"什么有效"（what works），但这一问题的合法性和可行性本身已成为激烈学术争议的焦点。[[Argument_Biesta_2010_SPE|Biesta, 2010, p. 491]]; [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]].
 
 > [!concept-lens] 概念透镜
-> - **含义**：专业决策和日常教学实践应基于系统性实证研究（尤其是 [[Randomised Controlled Trials|RCT]] 实验和[[Systematic Review|系统综述]]）产生的证据，而非传统或直觉。[[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]]
-> - **用途**：推广经过严格科学检验的教育干预方案以提升教育系统的绩效，解决研究与实践脱节的问题。[[Argument_Slavin_2019_EP|Slavin, 2019, pp. 5–6]]
-> - **边界**：极易退化为追求"去情境化"的统计平均排行，在哲学上忽视受试者能动推理和教育价值反思。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 4, 7]]
+> - **含义** 专业决策和日常教学实践应基于系统性实证研究（尤其是 [[Randomised Controlled Trials|RCT]] 实验和[[Systematic Review|系统综述]]）产生的证据，而非传统或直觉。[[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]]
+> - **用途** 推广经过严格科学检验的教育干预方案以提升教育系统的绩效，解决研究与实践脱节的问题。[[Argument_Slavin_2019_EP|Slavin, 2019, pp. 5–6]]
+> - **边界** 极易退化为追求"去情境化"的统计平均排行，在哲学上忽视受试者能动推理和教育价值反思。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 4, 7]]
 
 > [!note] 起源与基本理念
 > 证据本位教育（Evidence-Based Education, EBE）是将"专业实践应以最佳研究证据为基础或至少受其指导"这一理念应用于教育领域的实践和运动。它源自 1990 年代初期循证医学的发展（Guyatt et al., 1992），主张教育者的教学决策应从[[Experimental Research|实验研究]]——特别是[[Randomised Controlled Trials|随机对照试验]]（RCT）——中获取有效性依据，以回答"什么有效"（what works）的问题。

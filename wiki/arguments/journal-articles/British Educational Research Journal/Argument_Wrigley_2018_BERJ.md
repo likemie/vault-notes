@@ -92,9 +92,9 @@ citation_aliases:
 > 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（Value Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
-> - **对象**：证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
-> - **张力**：统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
-> - **贡献**：借助 [[Critical Realism|批判实在论]]（Critical Realism）的分层 [[Ontology|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment|随机分配]]”幻象；提出了以“实在论综合（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
+> - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
+> - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
+> - **贡献** 借助 [[Critical Realism|批判实在论]]（Critical Realism）的分层 [[Ontology|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment|随机分配]]”幻象；提出了以“实在论综合（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
 
 ---
 

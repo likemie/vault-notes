@@ -42,9 +42,9 @@ updated: 2026-06-19
 > Ethics debriefing 是在涉及欺骗的研究结束或研究阶段结束后，向参与者解释研究真实目的、说明所使用欺骗的原因并帮助参与者处理研究经历的程序。它是抵消欺骗研究负面效果的主要方式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 112–113]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义**：Debriefing 不是简单地把真相暴露给参与者，而是一个需要研究者传达真诚和不安的精细沟通过程。
-> - **用途**：恢复参与者的知情状态、消除欺骗可能造成的心理伤害、将研究经历转化为学习体验。
-> - **边界**：Ethics debriefing 不同于[[Qualitative Research|质性研究]]中的 [[Peer Debriefing]]（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可信度。
+> - **含义** Debriefing 不是简单地把真相暴露给参与者，而是一个需要研究者传达真诚和不安的精细沟通过程。
+> - **用途** 恢复参与者的知情状态、消除欺骗可能造成的心理伤害、将研究经历转化为学习体验。
+> - **边界** Ethics debriefing 不同于[[Qualitative Research|质性研究]]中的 [[Peer Debriefing]]（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可信度。
 
 ---
 

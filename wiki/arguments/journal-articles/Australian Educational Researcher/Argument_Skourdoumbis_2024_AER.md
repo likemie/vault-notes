@@ -89,9 +89,9 @@ citation_aliases:
 > 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Centre for Independent Studies|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
 
 > [!concept-lens]- 阅读透镜
-> - **对象**：澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
-> - **张力**：一方面，教师流失与短缺的核心原因是“工作量过大”和“行政繁文缛节”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（[[Community Innovation Survey|CIS]]）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
-> - **贡献**：运用批判政策社会学视角与Bacchi的[[Bacchi's WPR Approach|WPR方法]]，去除了神经科学在教育政策中“价值中立”的伪装，揭示了“[[What Works Movement|什么有效运动]]”如何通过中介组织（AERO）、评估机构（AITSL）和保守智库（CIS）的权力网络进行“理念编排”，实现了对初始教师教育的监视蔓延与惩罚性问责，进而削弱了教师的专业自主权与大学教师教育者的专业地位。
+> - **对象** 澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
+> - **张力** 一方面，教师流失与短缺的核心原因是“工作量过大”和“行政繁文缛节”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（[[Community Innovation Survey|CIS]]）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
+> - **贡献** 运用批判政策社会学视角与Bacchi的[[Bacchi's WPR Approach|WPR方法]]，去除了神经科学在教育政策中“价值中立”的伪装，揭示了“[[What Works Movement|什么有效运动]]”如何通过中介组织（AERO）、评估机构（AITSL）和保守智库（CIS）的权力网络进行“理念编排”，实现了对初始教师教育的监视蔓延与惩罚性问责，进而削弱了教师的专业自主权与大学教师教育者的专业地位。
 
 ---
 

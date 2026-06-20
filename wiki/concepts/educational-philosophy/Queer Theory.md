@@ -40,9 +40,9 @@ updated: 2026-06-17
 > Queer theory acquires its meaning from its oppositional relation to the norm. Queer is by definition whatever is at odds with the normal, the legitimate, the dominant. There is nothing in particular to which it necessarily refers. It is an identity without an essence. 'Queer' then, demarcates not a positivity but a positionality vis-à-vis the normative.
 
 > [!concept-lens] 概念透镜
-> - **含义**：酷儿理论的核心倒转是：不追问"这个人是什么身份"，而是追问"什么样的规范系统在决定什么是正常、什么是越轨，这些规范服务于谁的利益"。身份不是本质（essence），而是**相对于规范的位置**。
-> - **用途**：为教育研究提供分析工具，审视学校中的性别规范如何生产和再生产——例如校服制度如何二元化性别、性教育课程如何隐含异性恋正统性、校园文化如何惩罚不符合性别规范的行为。
-> - **边界**：酷儿理论主要处理性别和性取向方面的规范与越轨，但它承认这些维度被其他压迫形式（社会阶级、族裔、肤色、残障）所中介。
+> - **含义** 酷儿理论的核心倒转是：不追问"这个人是什么身份"，而是追问"什么样的规范系统在决定什么是正常、什么是越轨，这些规范服务于谁的利益"。身份不是本质（essence），而是**相对于规范的位置**。
+> - **用途** 为教育研究提供分析工具，审视学校中的性别规范如何生产和再生产——例如校服制度如何二元化性别、性教育课程如何隐含异性恋正统性、校园文化如何惩罚不符合性别规范的行为。
+> - **边界** 酷儿理论主要处理性别和性取向方面的规范与越轨，但它承认这些维度被其他压迫形式（社会阶级、族裔、肤色、残障）所中介。
 
 ---
 

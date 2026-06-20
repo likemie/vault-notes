@@ -76,9 +76,9 @@ updated: 2026-06-17
 > 斯塔尔主张，虽然[[Whole Language|全语言]]和[[Language Experience Approach|语言经验法]]在教育演进上存在继承关系，但它们在教学法操作和材料使用上存在显著差异；在实证评估中，不能将 1960 年代（全语言诞生前）的语言经验法研究结果直接套用到全语言的推论上（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144-145]]）。
 
 > [!concept-lens]- 思想透镜
-> - **问题意识**：如何科学界定全语言教学的实证范围，并利用[[Quantitative Research|量化研究]]合成工具客观评估其相对于传统基本阅读教学的实际识字成效。
-> - **概念工具**：全语言与语言经验法的分类界碑；基本阅读教学（Basal Reading Instruction）与阅读准备计划（Reading Readiness Program）的对比（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]）。
-> - **研究影响**：其 1989 年包含混淆数据的[[Meta-analysis|元分析]]被[[John Hattie|约翰·哈蒂]]直接整合进《[[Visible Learning|可见学习]]》中，导致哈蒂的全语言计算包含了严重的概念偏误。
+> - **问题意识** 如何科学界定全语言教学的实证范围，并利用[[Quantitative Research|量化研究]]合成工具客观评估其相对于传统基本阅读教学的实际识字成效。
+> - **概念工具** 全语言与语言经验法的分类界碑；基本阅读教学（Basal Reading Instruction）与阅读准备计划（Reading Readiness Program）的对比（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]）。
+> - **研究影响** 其 1989 年包含混淆数据的[[Meta-analysis|元分析]]被[[John Hattie|约翰·哈蒂]]直接整合进《[[Visible Learning|可见学习]]》中，导致哈蒂的全语言计算包含了严重的概念偏误。
 
 ---
 
