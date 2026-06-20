@@ -136,9 +136,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    - 外部指出缺陷 → [!critique]；此人自述局限或边界 → [!warning] %%
 
 > [!debates] 学术争议
-> - **争议类型** 一句话说明围绕此人思想或方法产生争议的核心维度。
->   - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
->   - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!abstract] 争议类型
+> > 说明围绕此人思想、方法或立场产生这一争议的背景与核心问题。
+> >
+> > - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评此人的思想、方法或影响。

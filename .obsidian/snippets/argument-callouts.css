@@ -1890,15 +1890,25 @@
   color: rgb(230, 90, 110);
 }
 
-/* ─── debates（争议类型 + 学者索引两层结构） ──────────
+/* ─── debates（争议内容框 + 可折叠学者索引）──────────
  *
- * 结构：
- *   外层 li = 争议类型（粗体标签 + 一句话说明）
- *   内层 ul > li = 各学者立场（一句话索引，›前缀，muted字色）
+ * Markdown 结构（两层嵌套）：
+ *   > [!debates] 学术争议
+ *   >
+ *   > > [!abstract] 目标争议         ← 展开；加 - 则默认折叠
+ *   > > 这个争议的背景说明，可多句话。
+ *   > >
+ *   > > - **Smith（2010）** 一句话立场。[[...|(Author, Year)]]
+ *   > > - **Jones（2015）** 一句话立场。[[...|(Author, Year)]]
+ *   >
+ *   > > [!abstract]- 工具争议
+ *   > > ...
  *
- * 每个争议类型有专属色（蓝/红/绿/琥珀/紫 循环），
- * 通过 CSS 变量 --dc 统一驱动左彩条、标签色、嵌套线色。
+ * 内嵌 callout 类型任意（abstract/note/info 均可），
+ * CSS 统一覆盖外观；颜色通过 --dc 按顺序循环。
  * ─────────────────────────────────────────────────── */
+
+/* ── 外层容器 ───────────────────────────────────────── */
 .callout[data-callout="debates"] {
   --callout-color: 55, 75, 155;
   --callout-icon: lucide-message-circle;
@@ -1906,7 +1916,7 @@
   border: 1px solid rgba(55, 75, 155, 0.18);
   border-left: 5px solid rgb(55, 75, 155);
   border-radius: 10px;
-  padding: 0;
+  padding: 0 0 0.6rem;
   overflow: hidden;
   transition: box-shadow 0.22s ease;
 }
@@ -1914,7 +1924,7 @@
   box-shadow: -3px 0 14px rgba(55, 75, 155, 0.10), 0 4px 14px rgba(55, 75, 155, 0.06);
 }
 
-/* 标题区 */
+/* 标题区（DEBATE 标签）*/
 .callout[data-callout="debates"] > .callout-title {
   padding: 0.52rem 1rem;
   background: linear-gradient(90deg, rgba(55, 75, 155, 0.10), transparent 70%);
@@ -1934,86 +1944,100 @@
   vertical-align: middle;
 }
 
-/* ── 外层列表（争议类型）─────────────────────────── */
-.callout[data-callout="debates"] > .callout-content > ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.callout[data-callout="debates"] > .callout-content > ul > li::marker { display: none; }
-
-/* 争议类型行 */
-.callout[data-callout="debates"] > .callout-content > ul > li {
-  list-style: none;
-  padding: 0.55rem 1rem 0.45rem 1rem;
-  border-bottom: 1px solid rgba(55, 75, 155, 0.08);
-  border-left: 3px solid rgba(var(--dc), 0.38);
-  line-height: 1.58;
-  font-size: var(--fs-table);
-  transition: background 0.15s ease, border-left-color 0.15s ease;
-}
-.callout[data-callout="debates"] > .callout-content > ul > li:last-child {
-  border-bottom: none;
-}
-.callout[data-callout="debates"] > .callout-content > ul > li:hover {
-  background: rgba(var(--dc), 0.045);
-  border-left-color: rgba(var(--dc), 0.72);
+/* 内容区留内边距，容纳卡片 */
+.callout[data-callout="debates"] > .callout-content {
+  padding: 0.55rem 0.75rem 0;
 }
 
-/* 每个争议类型的专属色 */
-.callout[data-callout="debates"] > .callout-content > ul > li:nth-child(1)   { --dc: 42, 88, 180; }
-.callout[data-callout="debates"] > .callout-content > ul > li:nth-child(2)   { --dc: 175, 42, 62; }
-.callout[data-callout="debates"] > .callout-content > ul > li:nth-child(3)   { --dc: 32, 130, 80; }
-.callout[data-callout="debates"] > .callout-content > ul > li:nth-child(4)   { --dc: 155, 100, 18; }
-.callout[data-callout="debates"] > .callout-content > ul > li:nth-child(n+5) { --dc: 108, 72, 180; }
+/* ── 争议类型卡（内嵌 callout）────────────────────── */
+.callout[data-callout="debates"] > .callout-content > .callout {
+  margin: 0 0 0.55rem;
+  border-radius: 8px;
+  background: linear-gradient(175deg, rgba(var(--dc), 0.055) 0%, rgba(var(--dc), 0.010) 100%);
+  /* 覆盖 Obsidian 默认左边框，改为顶部彩条 */
+  border-left: none !important;
+  border: 1px solid rgba(var(--dc), 0.16);
+  border-top: 3px solid rgba(var(--dc), 0.62);
+  overflow: hidden;
+  transition: border-top-color 0.18s ease, box-shadow 0.18s ease;
+}
+.callout[data-callout="debates"] > .callout-content > .callout:hover {
+  border-top-color: rgb(var(--dc));
+  box-shadow: 0 3px 14px rgba(var(--dc), 0.13);
+}
 
-/* 争议类型标签 strong — inline，彩色加粗 */
-.callout[data-callout="debates"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="debates"] > .callout-content > ul > li > p > strong:first-child {
-  display: inline;
-  color: rgb(var(--dc));
+/* 专属色：按顺序循环 */
+.callout[data-callout="debates"] > .callout-content > .callout:nth-child(1)   { --dc: 42, 88, 180; }
+.callout[data-callout="debates"] > .callout-content > .callout:nth-child(2)   { --dc: 175, 42, 62; }
+.callout[data-callout="debates"] > .callout-content > .callout:nth-child(3)   { --dc: 32, 130, 80; }
+.callout[data-callout="debates"] > .callout-content > .callout:nth-child(4)   { --dc: 155, 100, 18; }
+.callout[data-callout="debates"] > .callout-content > .callout:nth-child(n+5) { --dc: 108, 72, 180; }
+
+/* 卡片标题行（争议类型名）*/
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-title {
+  padding: 0.40rem 0.80rem;
+  background: rgba(var(--dc), 0.08);
+  border-bottom: 1px solid rgba(var(--dc), 0.12);
+  cursor: pointer;
+}
+/* 隐藏 Obsidian 默认类型图标 */
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-title > .callout-icon {
+  display: none;
+}
+/* 类型名 */
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-title > .callout-title-inner {
+  color: rgb(var(--dc)) !important;
   font-weight: 700;
-  font-size: 0.93em;
-  margin-right: 0.30em;
+  font-size: 0.92em;
+}
+/* 折叠箭头颜色 */
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-title > .callout-fold {
+  color: rgba(var(--dc), 0.60);
 }
 
-/* ── 内层列表（学者索引）─────────────────────────── */
-.callout[data-callout="debates"] > .callout-content > ul > li > ul {
-  list-style: none;
-  margin: 0.28rem 0 0.10rem 0.15rem;
-  padding: 0 0 0 0.85rem;
-  border-left: 1.5px solid rgba(var(--dc), 0.22);
+/* 卡片内容区（说明文字 + 学者列表）*/
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content {
+  padding: 0.48rem 0.85rem 0.55rem;
+  font-size: var(--fs-table);
+  line-height: 1.64;
 }
-.callout[data-callout="debates"] > .callout-content > ul > li > ul > li {
+
+/* ── 卡片内学者索引列表 ─────────────────────────────
+ * 说明段落结束后，紧跟的 ul 视为学者索引区，
+ * 用虚线和左侧细线与上方描述文字视觉分隔。          */
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul {
+  list-style: none;
+  margin: 0.42rem 0 0 0;
+  padding: 0.40rem 0 0 0.72rem;
+  border-top: 1px dashed rgba(var(--dc), 0.24);
+  border-left: 1.5px solid rgba(var(--dc), 0.20);
+}
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul > li {
   list-style: none;
   padding: 0.16rem 0;
-  line-height: 1.52;
   font-size: 0.875em;
   color: var(--text-muted);
-  transition: color 0.12s ease;
+  line-height: 1.50;
 }
-.callout[data-callout="debates"] > .callout-content > ul > li > ul > li::marker { display: none; }
-.callout[data-callout="debates"] > .callout-content > ul > li:hover > ul > li {
-  color: var(--text-normal);
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul > li::marker {
+  display: none;
 }
-/* › 前缀箭头 */
-.callout[data-callout="debates"] > .callout-content > ul > li > ul > li::before {
+/* › 前缀 */
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul > li::before {
   content: "›";
-  color: rgba(var(--dc), 0.50);
+  color: rgba(var(--dc), 0.52);
   font-weight: 700;
-  font-size: 1.0em;
   margin-right: 0.32em;
 }
-/* 学者名 strong — inline，比正文稍深 */
-.callout[data-callout="debates"] > .callout-content > ul > li > ul > li > strong:first-child {
+/* 学者名 strong */
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul > li > strong:first-child {
   display: inline;
   color: var(--text-normal);
   font-weight: 600;
-  font-size: 1em;
-  margin-right: 0.20em;
+  margin-right: 0.18em;
 }
 
-/* ── 暗模式 ────────────────────────────────────────── */
+/* ── 暗模式 ─────────────────────────────────────────── */
 .theme-dark .callout[data-callout="debates"] {
   --callout-color: 108, 128, 215;
   border-left-color: rgb(88, 108, 195);
@@ -2022,14 +2046,11 @@
   background: rgba(108, 128, 215, 0.16);
   color: rgb(148, 168, 240);
 }
-.theme-dark .callout[data-callout="debates"] > .callout-content > ul > li {
-  border-bottom-color: rgba(108, 128, 215, 0.10);
-}
-.theme-dark .callout[data-callout="debates"] > .callout-content > ul > li:nth-child(1)   { --dc: 90, 140, 230; }
-.theme-dark .callout[data-callout="debates"] > .callout-content > ul > li:nth-child(2)   { --dc: 215, 80, 100; }
-.theme-dark .callout[data-callout="debates"] > .callout-content > ul > li:nth-child(3)   { --dc: 58, 175, 110; }
-.theme-dark .callout[data-callout="debates"] > .callout-content > ul > li:nth-child(4)   { --dc: 200, 145, 45; }
-.theme-dark .callout[data-callout="debates"] > .callout-content > ul > li:nth-child(n+5) { --dc: 150, 110, 220; }
+.theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(1)   { --dc: 90, 140, 230; }
+.theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(2)   { --dc: 215, 80, 100; }
+.theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(3)   { --dc: 58, 175, 110; }
+.theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(4)   { --dc: 200, 145, 45; }
+.theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(n+5) { --dc: 150, 110, 220; }
 
 /* ─── boundary（边界 — 斜条纹 + 虚框） ─────────────── */
 .callout[data-callout="boundary"] {

@@ -133,13 +133,22 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    - 外部指出具体缺陷 → [!critique]；理论作者自述边界 → [!warning] %%
 
 > [!debates] 理论争议
-> - **理论前提争议** 各方对本体论、认识论或规范假设是否成立存在分歧。
->   - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
->   - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **解释范围争议** 争议理论能否跨情境推广或解释反例。
->   - **学者 C（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **方法转化争议** 争议操作化、测量或验证层面的可行性。
->   - **学者 D（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!abstract] 理论前提争议
+> > 各方对本体论、认识论或规范假设是否成立存在分歧；说明核心争点。
+> >
+> > - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!abstract] 解释范围争议
+> > 争议理论能否跨情境推广、是否忽视条件或无法解释反例。
+> >
+> > - **学者 C（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!abstract] 方法转化争议
+> > 争议操作化、测量或验证层面的可行性；说明具体困难。
+> >
+> > - **学者 D（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评、修正或限制该理论。
