@@ -6,10 +6,10 @@ aliases:
 summary: "元分析中各研究效应量之间超出抽样误差的变异，是判断能否合理合并研究 and 探索调节变量的核心概念"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - heterogeneity
 - meta-analysis
