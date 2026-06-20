@@ -5022,57 +5022,63 @@
 /* ═══════════════════════════════════════════════════════════
    ARGUMENT CHAIN-LINK — 论证链节
    用途：论证步骤内的独立证据→分析结论单元
-   颜色：金琥珀 rgb(180, 140, 60)
-   特征：斜纹底 + 左重边 + LINK 角标
-   每个 chain-link 是一个完整的"数据→推论"环节，
-   连续排列形成论证链
+   颜色：金琥珀 rgb(168, 130, 50)
+   特征：左脊 + 节点圆 + 连接线 + LINK 角标
+   连续排列的 chain-link 会通过左侧脊线和节点圆形成
+   可见的链式视觉连接
    ═══════════════════════════════════════════════════════════ */
 
 .callout[data-callout="chain-link"] {
-  --callout-color: 180, 140, 60;
+  --callout-color: 168, 130, 50;
   --callout-icon: lucide-link-2;
   position: relative;
-  overflow: hidden;
+  overflow: visible;        /* 允许连接线伸出容器外 */
   background:
-    repeating-linear-gradient(
-      45deg,
-      transparent 0px, transparent 16px,
-      rgba(180, 140, 60, 0.035) 16px, rgba(180, 140, 60, 0.035) 18px
-    ),
-    linear-gradient(135deg, rgba(180, 140, 60, 0.09), rgba(180, 140, 60, 0.02)),
+    linear-gradient(135deg, rgba(168, 130, 50, 0.08), rgba(168, 130, 50, 0.02)),
     var(--background-primary);
-  border: 1px solid rgba(180, 140, 60, 0.24);
-  border-left: 6px solid rgb(180, 140, 60);
-  border-radius: 10px;
-  box-shadow: 0 8px 20px rgba(180, 140, 60, 0.09);
+  border: 1.5px solid rgba(168, 130, 50, 0.24);
+  border-left: 5px solid rgb(168, 130, 50);
+  border-radius: 9px;
+  box-shadow:
+    -2px 0 8px rgba(168, 130, 50, 0.08),
+    0 4px 14px rgba(168, 130, 50, 0.07);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.callout[data-callout="chain-link"]:hover {
+  box-shadow:
+    -2px 0 10px rgba(168, 130, 50, 0.14),
+    0 0 0 2px rgba(168, 130, 50, 0.18),
+    0 6px 20px rgba(168, 130, 50, 0.12);
 }
 
+/* ── 标题 ── */
 .callout[data-callout="chain-link"] > .callout-title {
-  color: rgb(150, 110, 35);
-  font-weight: 650;
-  letter-spacing: 0.025em;
+  color: rgb(135, 100, 28);
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
-
 .callout[data-callout="chain-link"] > .callout-title .callout-title-inner::before {
   content: "LINK";
   display: inline-block;
   margin-right: 0.5rem;
-  padding: 0.06em 0.4em;
+  padding: 1px 7px;
   border-radius: 4px;
-  background: rgba(180, 140, 60, 0.18);
-  color: rgb(150, 110, 35);
+  background: rgba(168, 130, 50, 0.16);
+  color: rgb(135, 100, 28);
   font-size: var(--fs-label);
   font-weight: 800;
-  letter-spacing: 0.05em;
-  vertical-align: 0.05em;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
 }
 
+/* ── 内容区 ── */
 .callout[data-callout="chain-link"] > .callout-content {
   position: relative;
   z-index: 1;
-  overflow-x: auto;
+  overflow-x: auto;        /* 表格横向滚动 */
 }
 
+/* ── 表格 ── */
 .callout[data-callout="chain-link"] table {
   display: table;
   width: 100%;
@@ -5081,38 +5087,81 @@
   border-collapse: separate;
   border-spacing: 0;
 }
-
 .callout[data-callout="chain-link"] th {
-  background: rgba(180, 140, 60, 0.14);
+  background: rgba(168, 130, 50, 0.12);
   font-weight: 700;
 }
-
 .callout[data-callout="chain-link"] th,
 .callout[data-callout="chain-link"] td {
-  border-color: rgba(180, 140, 60, 0.18);
+  border-color: rgba(168, 130, 50, 0.18);
   vertical-align: top;
   line-height: 1.65;
 }
 
-/* 连续链节吸顶 — 视觉连续性 */
-.callout[data-callout="chain-link"] + .callout[data-callout="chain-link"] {
-  margin-top: -6px;
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-top-color: rgba(180, 140, 60, 0.10);
+/* ══════════════════════════════════════════════════════════
+   链式连接 — 核心视觉设计
+   当 chain-link 后紧跟另一个 chain-link 时，
+   在两者之间绘制竖线（向下伸出）+ 节点圆（在下一个链节顶部）
+   ══════════════════════════════════════════════════════════ */
+
+/* 当前链节的"尾部连接线"：竖线从底部伸出 */
+.callout[data-callout="chain-link"]:has(+ .callout[data-callout="chain-link"])::after {
+  content: "";
+  position: absolute;
+  bottom: -22px;
+  left: 12px;              /* 对齐左 border 中心 */
+  width: 2px;
+  height: 24px;
+  background: linear-gradient(
+    to bottom,
+    rgb(168, 130, 50) 0%,
+    rgba(168, 130, 50, 0.30) 100%
+  );
+  border-radius: 1px;
+  z-index: 10;
 }
 
-/* 暗模式微调 */
+/* 下一个链节：与前一个之间留出连接间距 */
+.callout[data-callout="chain-link"] + .callout[data-callout="chain-link"] {
+  margin-top: 28px;
+  border-top-left-radius: 5px;  /* 轻柔的顶部圆角，呼应"接入"感 */
+}
+
+/* 下一个链节的"头部节点圆"：空心圆，悬浮在连接间距中 */
+.callout[data-callout="chain-link"] + .callout[data-callout="chain-link"]::before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 8px;               /* 对齐左 border */
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--background-primary);
+  border: 2.5px solid rgb(168, 130, 50);
+  box-shadow: 0 0 0 3px rgba(168, 130, 50, 0.18);
+  z-index: 20;
+}
+
+/* ── 暗模式 ── */
 .theme-dark .callout[data-callout="chain-link"] {
+  --callout-color: 205, 162, 68;
   background:
-    repeating-linear-gradient(
-      45deg,
-      transparent 0px, transparent 16px,
-      rgba(180, 140, 60, 0.05) 16px, rgba(180, 140, 60, 0.05) 18px
-    ),
-    linear-gradient(135deg, rgba(180, 140, 60, 0.12), rgba(180, 140, 60, 0.03)),
+    linear-gradient(135deg, rgba(205, 162, 68, 0.11), rgba(205, 162, 68, 0.03)),
     var(--background-primary);
-  border-color: rgba(180, 140, 60, 0.32);
+  border-color: rgba(205, 162, 68, 0.30);
+  border-left-color: rgb(205, 162, 68);
+}
+.theme-dark .callout[data-callout="chain-link"]:has(+ .callout[data-callout="chain-link"])::after {
+  background: linear-gradient(
+    to bottom,
+    rgb(205, 162, 68) 0%,
+    rgba(205, 162, 68, 0.30) 100%
+  );
+}
+.theme-dark .callout[data-callout="chain-link"] + .callout[data-callout="chain-link"]::before {
+  border-color: rgb(205, 162, 68);
+  background: var(--background-primary);
+  box-shadow: 0 0 0 3px rgba(205, 162, 68, 0.22);
 }
 
 /* ─── proc（标准操作程序 — 步骤链） ──────────────────────
