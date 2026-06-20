@@ -36,9 +36,7 @@ views:
   - type: cards
     name: 论证雷达
     order:
-      - authors
       - year
-      - argument_kind
       - argument_related_stars
       - argument_related_count
     sort:
@@ -53,9 +51,7 @@ views:
       and:
         - 'argument_related_count >= 30'
     order:
-      - authors
       - year
-      - argument_kind
       - argument_related_stars
       - argument_related_count
     sort:
