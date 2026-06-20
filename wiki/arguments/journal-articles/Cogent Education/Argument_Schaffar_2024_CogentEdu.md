@@ -69,7 +69,7 @@ updated: '2026-06-21'
 
 ## 研究问题
 
-> [!question] [[Research Question|研究问题]]
+> [!question]
 > 芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？其核心的“现象”概念应如何理解？该教学模式的整体性教育价值与其被课程化过程中遭遇的新自由主义（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？(pp.1–2)
 
 > [!claim] 核心主张

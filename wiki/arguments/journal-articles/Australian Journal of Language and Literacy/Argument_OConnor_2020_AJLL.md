@@ -68,7 +68,7 @@ citation_aliases:
 
 ## 研究问题
 
-> [!question] [[Research Question|研究问题]]
+> [!question] Question
 > [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|VL]]》（Visible Learning, VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学实践和公共政策是否具有合法性？(p.142)
 
 > [!claim] 核心主张

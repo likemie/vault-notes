@@ -80,7 +80,7 @@ citation_aliases:
 ---
 ## 研究问题
 
-> [!question] [[Research Question|研究问题]]（Research Question）
+> [!question] Question
 > 本文聚焦于循证教学中将“证据”窄化为统计平均值时，所产生的多重方法论与 [[Epistemology|认识论]]（Epistemology）危机：
 > 1. 当教育研究中的证据被窄化为 [[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）与 [[Effect Size|效应量]]（Effect Size）的统计均值时，在**技术、哲学与意识形态**三个层面会产生哪些局限性与消极后果？
 > 2. 从单一实验的第一级（Level 1）到 [[Meta-analysis|元分析]]（Meta-analysis）的第二级（Level 2）、再到 [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）的第三级（Level 3，如 [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning，VL）与 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的《教学与学习工具包（Teaching and Learning Toolkit）》）的逐级递进中，统计数据是如何层层复合、放大失真的？
