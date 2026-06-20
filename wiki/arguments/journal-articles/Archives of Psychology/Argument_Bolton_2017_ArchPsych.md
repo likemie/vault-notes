@@ -67,7 +67,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] 脑与认知的平行发育关联性
-> 论文试图回答：[[Jean Piaget|皮亚杰]]与新皮亚杰的[[Piaget's Theory of Cognitive Development|认知发展阶段理论]]，是否同[[Prefrontal Cortex|前额叶皮层]] (Prefrontal Cortex, PFC) 的解剖生理发育以及[[Executive Function|执行功能]] (Executive Function, EF) 的发展在时间上平行对应？（pp.1–2）
+> [[Jean Piaget|皮亚杰]]与新皮亚杰主义的[[Piaget's Theory of Cognitive Development|认知发展阶段理论]]，是否同[[Prefrontal Cortex|前额叶皮层]] (Prefrontal Cortex, PFC) 的解剖生理发育以及[[Executive Function|执行功能]] (Executive Function, EF) 的发展在时间上平行对应？（pp.1–2）
 > 
 > 其核心追问在于：经典发展心理学所观察到的“认知发展阶段过渡”这一质变过程，其底层的物理与生理机制是什么？是否能将认知阶段的过渡解释为执行功能 (Executive Function, EF) 随着大脑成熟发育而提高的函数？（pp.3–4）
 
