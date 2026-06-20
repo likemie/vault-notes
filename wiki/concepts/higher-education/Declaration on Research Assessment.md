@@ -8,7 +8,7 @@ aliases:
 summary: "2012 年发布的国际倡议，主张在研究评估中关注研究本身的影响力而非机械依赖期刊影响因子等文献计量指标，推动更全面的学术评价体系"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,12 +18,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Research Contribution]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -56,7 +57,7 @@ DORA 不反对使用定量指标本身，而是反对不加批判地将期刊层
 
 DORA 倡导的评估改革与激励教师参与[[University-Industry Collaboration|产学合作]]之间存在直接联系。现行终身教职评审制度中，研究成果几乎完全由同行评审出版物衡量，导致专利、[[Technology Transfer|技术转移]]、产业合作等商业化活动被系统地低估。Dean 等（2025）指出，教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间（p.250）。
 
-将 DORA 的原则应用于产学合作领域意味着：在评估教师的研究贡献时，不应只计算期刊论文数量和影响因子，还应认可产业合作的实际产出——包括专利授权、技术许可、行业标准制定、衍生企业创建、人才培养和社区影响([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.251]])。
+将 DORA 的原则应用于产学合作领域意味着：在评估教师的[[Research Contribution|研究贡献]]时，不应只计算期刊论文数量和影响因子，还应认可产业合作的实际产出——包括专利授权、技术许可、行业标准制定、衍生企业创建、人才培养和社区影响([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.251]])。
 
 更全面的评估视角也有助于解决研究生态系统中的公平问题：发展产学合作是耗时费力的过程，而已有证据表明女性、种族化群体和残障人士在校内外都面临更紧迫的时间压力，现行评估体系对非传统研究产出的低估可能加剧这些群体的不利处境([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.251]])。
 

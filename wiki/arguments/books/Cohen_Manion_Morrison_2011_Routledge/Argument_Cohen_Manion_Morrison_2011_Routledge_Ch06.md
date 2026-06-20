@@ -10,7 +10,7 @@ publication_type: book-chapter
 title: "Research Methods in Education · Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -27,10 +27,10 @@ tags:
 related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
-  - "[[Evaluation Research]]"
   - "[[Champ]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Contribution]]"
   - "[[Research Purpose]]"
+  - "[[Purpose Statement]]"
   - "[[Homework]]"
   - "[[Construct]]"
   - "[[Grade Retention]]"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Practicability]]"
   - "[[Informed Consent]]"
   - "[[Literature Review]]"
+  - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Self-Efficacy]]"
@@ -190,21 +191,17 @@ updated: 2026-06-19
 
 ---
 
-由此引出贡献评估的四个维度：
+由此引出[[Research Contribution|研究贡献]]评估的四个维度：
 
-> [!quad-grid] 研究贡献的四个维度
->
-> > [!feature] 概念层面<br>conceptually
-> > 是否澄清、修正或提供了新概念？
->
-> > [!feature] 理论层面<br>theoretically
-> > 是否检验、修正或提出了新理论？
->
-> > [!feature] 实质层面<br>substantively
-> > 是否提供了关于教育现象的新实质知识？
->
-> > [!feature] 方法论层面<br>methodologically
-> > 是否开发、检验或改进了研究方法？
+> [!dimension] 研究贡献的四个维度
+> - **概念层面**（conceptually）
+>   是否澄清、修正或提供了新概念？
+> - **理论层面**（theoretically）
+>   是否检验、修正或提出了新理论？
+> - **实质层面**（substantively）
+>   是否提供了关于教育现象的新实质知识？
+> - **方法论层面**（methodologically）
+>   是否开发、检验或改进了研究方法？
 
 > [!implication]- 从知识贡献到知识影响
 > 评估标准不仅包括研究对知识做出的**贡献**（contribution to knowledge），还包括该知识的**影响**（impact）。资助机构通常要求说明研究将对研究界和更广范围产生什么影响，以及如何评估和了解该影响。核心追问是：研究将产生什么影响（impact）、被谁吸收（uptake）、产生什么效果（effects），以及对谁产生影响。
@@ -249,7 +246,7 @@ updated: 2026-06-19
 > - **明确研究的交付物**
 >   [[Research Purpose|研究目的]]是研究预期交付什么（what the research will deliver），即研究完成后哪些在研究开始前不知道的知识将被获得。
 > - **区分目的与预测**
->   研究目的不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
+>   [[Purpose Statement|研究目的]]不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **目的决定方法**
 >   不同的目的暗示不同的研究取向，因此目的适配性（fitness for purpose）决定随后的研究类型、方法、工具和设计。
 
@@ -356,15 +353,19 @@ updated: 2026-06-19
 >
 > 同样，毅力有限或即将移居海外时，选择长期投入的研究也不明智。
 
-> [!decisions] 研究者自我评估：六个适配维度
-> 在选择研究课题时，需要诚实地自问：
->
-> 1. **人格适配**：人格、性情、同理心是否匹配该研究类型（如研究创伤需要高情商和情感智力）
-> 2. **技能适配**：人际关系技能、情商、情感智力是否足够
-> 3. **毅力适配**：是否有足够的毅力完成这项研究
-> 4. **专长适配**：在该领域是否有足够专长。专长不足时，[[Literature Review|文献综述]]是建立专长的第一步，研究者须通过文献综述展示对该领域的充分了解
-> 5. **投入适配**：这项研究是否有助于专业兴趣发展、声誉建立、职业晋升或专业发展
-> 6. **时间承诺适配**：考虑到研究所需的时间投入，我的个人处境是否允许？
+> [!dimension] 研究者自我评估的六个维度
+> - **人格适配**
+>   人格、性情、同理心是否匹配该研究类型（如研究创伤需要高情商和情感智力）
+> - **技能适配**
+>   人际关系技能、情商、情感智力是否足够
+> - **毅力适配**
+>   是否有足够的毅力完成这项研究
+> - **专长适配**
+>   在该领域是否有足够专长。专长不足时，文献综述是建立专长的第一步
+> - **投入适配**
+>   这项研究是否有助于专业兴趣发展、声誉建立、职业晋升或专业发展
+> - **时间承诺适配**
+>   考虑到研究所需的时间投入，个人处境是否允许
 
 ---
 
@@ -407,7 +408,7 @@ updated: 2026-06-19
 
 ---
 
-#### 6.5.7 研究范围
+#### 6.5.7 [[Research Scope|研究范围]]
 
 > [!claim] 核心建议：窄而深，而非宽而浅
 > **一项研究应保持狭窄和有限的范围，以实现可管理性和严谨性。** 俗话说**吃大象的最佳方式是一次一口**（the best way to eat an elephant is one bite at a time）。研究必须设定清晰、可感知、现实、公平和可管理的边界。
@@ -681,7 +682,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > 'What is the use of this research?' 'What is the point of doing this research?' 'Is this research worth doing?' If the answers to the last question is 'no', then maybe the researcher should abandon it, otherwise it ceases to be useful research and becomes an indulgence of the dilettante.
 
 > [!citation-card] 目的适配性：让尾巴摇狗
-> 研究者不能简单地说他或她喜欢问卷、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和研究范围等。（第6章, p.91）
+> 研究者不能简单地说他或她喜欢问卷、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
 >
 > The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
 

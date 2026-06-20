@@ -8,7 +8,7 @@ publication_type: journal-article
 title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_kind: "journal-article"
-argument_related_count: 5
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
+  - "[[Research Scope]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -107,7 +108,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 作为个人述评而非系统研究，论证限于概念区分层面
-> - 未深入讨论 Hattie 排除非学校因素的方法论理由——即研究范围限定在"教育者能控制的因素"
+> - 未深入讨论 Hattie 排除非学校因素的方法论理由——即[[Research Scope|研究范围]]限定在"教育者能控制的因素"
 > - Grace 本人是该概念的原创者和新西兰大学立法的推动者，其立场具有特定的制度和规范承诺
 
 ## 来源

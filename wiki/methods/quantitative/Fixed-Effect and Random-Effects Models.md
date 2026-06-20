@@ -9,9 +9,9 @@ summary: "元分析中两种基本的统计汇总模型，前者假设所有研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
 - fixed-effect-model
@@ -22,6 +22,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Research Contribution]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
@@ -30,8 +31,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -43,7 +44,7 @@ updated: '2026-06-08'
 > [!info] 定义
 > 固定效应模型（Fixed-Effect Model）和随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中两种基本的统计汇总方法。它们的核心区别在于如何理解各研究之间[[Effect Size|效应量]]的变异([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 >
-> **固定效应模型**假设所有纳入研究估计的是同一个恒定的真实效应量，观察到的差异仅来自各研究内部的抽样误差。因此按精度（方差的倒数）加权，标准误较小的研究贡献更大([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
+> **固定效应模型**假设所有纳入研究估计的是同一个恒定的真实效应量，观察到的差异仅来自各研究内部的抽样误差。因此按精度（方差的倒数）加权，标准误较小的[[Research Contribution|研究贡献]]更大([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 >
 > **随机效应模型**假设每项研究都是干预的略有不同版本，有自己的随机变异需要被考虑。该模型同时纳入研究内变异和研究间变异，因此给出的汇总估计通常更保守([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 

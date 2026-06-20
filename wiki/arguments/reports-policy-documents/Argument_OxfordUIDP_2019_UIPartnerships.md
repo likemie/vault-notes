@@ -6,9 +6,9 @@ publication_type: report
 title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: University of Oxford and University-Industry Demonstration Partnership (UIDP)
 citation: "University of Oxford & University-Industry Demonstration Partnership (UIDP). (2019). Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019."
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Valley of Death]]"
   - "[[Return on Investment]]"
+  - "[[Research Scope]]"
   - "[[Convergence Research]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Technology Readiness Level]]"
@@ -231,7 +232,7 @@ updated: 2026-06-10
 > [!line-a] 趋势五：企业开放资源以解锁研究价值
 > 企业正在思考除资金和技术需求外，还能为产学合作带来什么以增强价值主张。大型企业在许多领域拥有大量设施、数据和材料，开放这些资源可以解锁对产业和社会需求相关的新研究领域。
 > - **生物医学案例**：一家企业实验将其高通量筛选技术和化合物库开放给学术团体以加速药物靶点研究——数据和结果归学术方所有。企业希望通过在早期阶段建立生产性和基于信任的关系，促使学术界在商业化阶段回到该企业而非竞争对手（p.13）。
-> - **大数据共享的 [[King-Persily Model]]**：大量数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Gary King（哈佛大学）和 Nathaniel Persily（斯坦福大学）开发的 [[King-Persily Model]] 提供"互惠激励兼容"方案：企业与资深学者组成的独立委员会签署保密协议 → 委员会与企业共同商定研究范围并发布提案征集 → 学术委员会根据学术与社会价值遴选提案，排除违反隐私、法律义务、竞争劣势等提案 → 获选研究者在保护数据隐私条件下访问数据，无需企业预先批准即可发表研究成果（pp.13–14）。该模型正在 [[Social Science One]] 中实施，由哈佛大学量化社会科学研究所孵化。
+> - **大数据共享的 [[King-Persily Model]]**：大量数据由私营企业持有、高度个人化或敏感、受法律保护以维护隐私。Gary King（哈佛大学）和 Nathaniel Persily（斯坦福大学）开发的 [[King-Persily Model]] 提供"互惠激励兼容"方案：企业与资深学者组成的独立委员会签署保密协议 → 委员会与企业共同商定[[Research Scope|研究范围]]并发布提案征集 → 学术委员会根据学术与社会价值遴选提案，排除违反隐私、法律义务、竞争劣势等提案 → 获选研究者在保护数据隐私条件下访问数据，无需企业预先批准即可发表研究成果（pp.13–14）。该模型正在 [[Social Science One]] 中实施，由哈佛大学量化社会科学研究所孵化。
 
 > [!example]- 图2：King-Persily 产学合作数据共享模型
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig2_King_Persily_Model.jpg)

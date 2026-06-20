@@ -8,7 +8,7 @@ publication_type: book
 title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Further Education]]"
   - "[[Lifelong Learning]]"
+  - "[[Research Scope]]"
   - "[[Varieties of Capitalism]]"
 related_theories: []
 related_methods:
@@ -277,7 +278,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 ## 局限性与批评
 
 > [!warning]
-> - **试点研究范围有限**：作者自述研究聚焦制药行业，结论的推广性需要更多行业的验证(p.180)
+> - **试点[[Research Scope|研究范围]]有限**：作者自述研究聚焦制药行业，结论的推广性需要更多行业的验证(p.180)
 > - **多处依赖管理学研究文献**：论文在分析 MNC 类型和[[Corporate University|企业大学]]类型时，大量引用管理学和产业社会学文献来补充试点研究的数据不足，经验证据的独立性有限
 > - **专业协会的地缘政治分析不足**：作者承认关于专业协会的国际化程度和地缘政治角色"需要更多研究才能得出结论"(pp.189, 190)
 > - **对教育内容本身的忽视**：论文专注于[[Corporate Education|企业教育]]的规范扩散和权威建构机制，但未讨论企业教育的内容（课程设计、教学法、评估方式）如何再现或挑战全球不平等

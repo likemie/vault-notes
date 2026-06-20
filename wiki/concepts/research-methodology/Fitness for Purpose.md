@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划中的核心原则，指研究方法、研究设计、资料收集工具和抽样策略应与研究目的相匹配，研究目的决定随后的方法选择而非相反"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Research Question]]"
   - "[[Research Ethics]]"
+  - "[[Research Scope]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -29,7 +30,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Research Methods in Education · Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-19
@@ -52,7 +53,7 @@ updated: 2026-06-19
 ## 核心命题
 
 > [!claim] 目的决定方法，而非方法决定目的
-> 研究者不能简单地说自己喜欢问卷、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和研究范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 研究者不能简单地说自己喜欢问卷、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 > [!example] 失配示例
 > - 研究者想"检验某项教学干预的因果效果"（目的），但只计划使用开放式访谈收集数据 → 失配：访谈无法建立[[Causality|因果推断]]
@@ -66,7 +67,7 @@ updated: 2026-06-19
 > 1. 明确[[Research Purpose|研究目的]]（研究要"交付"什么）
 > 2. 将目的转化为[[Research Question|研究问题]]
 > 3. 根据目的和问题选择适配的方法、设计和工具
-> 4. 根据方法确定抽样、伦理立场和研究范围
+> 4. 根据方法确定抽样、伦理立场和[[Research Scope|研究范围]]
 
 目的适配性在第 7 章中作更详细的讨论。原理适用于单一研究方法和[[Mixed Methods Research|混合方法研究]]——在混合方法中，适配性需要在质性和量化成分之间同时建立内在一致性。
 

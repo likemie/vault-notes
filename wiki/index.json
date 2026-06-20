@@ -5474,6 +5474,17 @@
     ]
   },
   {
+    "title": "Research Contribution",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Contribution.md",
+    "aliases": [
+      "研究贡献",
+      "研究贡献性",
+      "contribution of research",
+      "contribution to knowledge"
+    ]
+  },
+  {
     "title": "Research Ethics",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Ethics.md",
@@ -5536,6 +5547,18 @@
     "aliases": [
       "研究问题",
       "research questions"
+    ]
+  },
+  {
+    "title": "Research Scope",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Scope.md",
+    "aliases": [
+      "研究范围",
+      "研究边界",
+      "scope of research",
+      "research boundaries",
+      "narrowing the research"
     ]
   },
   {
@@ -12170,32 +12193,32 @@
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
   },
   {
-    "title": "Research Methods in Education",
+    "title": "Research Methods in Education · Ch01",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
   },
   {
-    "title": "Research Methods in Education",
+    "title": "Research Methods in Education · Ch02",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
   },
   {
-    "title": "Research Methods in Education",
+    "title": "Research Methods in Education · Ch03",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
   },
   {
-    "title": "Research Methods in Education",
+    "title": "Research Methods in Education · Ch04",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md"
   },
   {
-    "title": "Research Methods in Education",
+    "title": "Research Methods in Education · Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md"
   },
   {
-    "title": "Research Methods in Education",
+    "title": "Research Methods in Education · Ch06",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06.md"
   },

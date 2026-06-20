@@ -10,7 +10,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
+method_related_count: 46
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Multimethod Research]]"
   - "[[Paradigm]]"
   - "[[Qualitative Generalization]]"
+  - "[[Research Scope]]"
   - "[[Further Education]]"
   - "[[Institutional Review Board]]"
   - "[[Rich and Thick Description]]"
@@ -67,8 +68,8 @@ related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[Egon G. Guba]]"
 related_arguments:
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -225,7 +226,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 >
 > 这段话同时展示了反身性的两个要求：陈述过去经验与研究的连接，以及明确这些经验如何塑造解释。
 >
-> **四、研究边界的四要素界定**
+> **四、[[Research Scope|研究边界]]的四要素界定**
 >
 > 按照 Miles & Huberman（1994）的框架，Miller 逐一界定了研究边界：
 >

@@ -9,10 +9,10 @@ aliases:
 summary: '研究设计中明确研究意图和预期"交付物"的核心决策点，将研究动机转化为具体可陈述的目的，并通过目的决定随后的研究类型、研究问题和资料收集方式'
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-design
   - source/textbook
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
   - "[[Research Ethics]]"
+  - "[[Research Scope]]"
   - "[[Evaluation Research]]"
   - "[[Homework]]"
   - "[[School Leadership]]"
@@ -41,7 +42,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Research Methods in Education · Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-19
@@ -68,7 +69,7 @@ updated: 2026-06-19
 
 **目的决定研究类型**。不同的研究目的会暗示不同的研究取向。例如：试图证明某事物在特定条件下有效 → 实验或行动研究；增进对学习理论的理解 → 文献研究；识别成功学校的共同特征 → 研究综合或描述性研究。
 
-**目的决定研究方法**。研究者不能说"我喜欢问卷""我害怕数字"或"我偏好访谈"。这是让尾巴摇狗（having the tail wagging the dog）。研究目的决定研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]（公开或隐蔽）和研究范围等。
+**目的决定研究方法**。研究者不能说"我喜欢问卷""我害怕数字"或"我偏好访谈"。这是让尾巴摇狗（having the tail wagging the dog）。研究目的决定研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]（公开或隐蔽）和[[Research Scope|研究范围]]等。
 
 ---
 

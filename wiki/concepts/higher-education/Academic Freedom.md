@@ -6,7 +6,7 @@ aliases:
 summary: "大学教师和学生在追求学术兴趣、分享研究成果方面的高度自主权，使大学在信息和创意上具有渗透性，是产学合作中最根本的文化张力来源"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Research Scope]]"
   - "[[University Spin-Out]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Research Security]]"
@@ -28,9 +29,9 @@ related_persons: []
 related_facts:
   - "[[University, Inc. (Washburn, 2005)]]"
 related_arguments:
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -72,7 +73,7 @@ updated: 2026-06-04
 > [!warning]
 > 学术自由的发表权维度在产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）中触发了一条连锁反应链([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-144]])：
 
-> 因为大学几乎总是保留发表研究结果的权利（学术自由的基本要求），企业在赞助研究时会担心自己的商业机密或既有知识产权在学术发表中泄露。作为防御，企业在许可协议中要求排他性使用权或商业化权利、限定研究范围为一小块拼图（使产出不足以独立成为产品）、并在衍生企业中保留治理权。
+> 因为大学几乎总是保留发表研究结果的权利（学术自由的基本要求），企业在赞助研究时会担心自己的商业机密或既有知识产权在学术发表中泄露。作为防御，企业在许可协议中要求排他性使用权或商业化权利、限定[[Research Scope|研究范围]]为一小块拼图（使产出不足以独立成为产品）、并在衍生企业中保留治理权。
 
 > 这些安排从企业角度看完全合理，但对[[University Spin-Out|大学衍生企业]]的创建构成了结构性障碍：知识产权被捆绑在原始赞助方手里，外部投资者将知识产权限制视为危险信号，衍生企业无法进入更广泛的资本市场。从研究人员的角度看，这种知识产权负担实质上是一颗"毒丸"（poison pill），使成功退出极不可能，从而削弱了创业动力（p.144）。
 

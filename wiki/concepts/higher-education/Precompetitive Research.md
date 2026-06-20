@@ -4,7 +4,7 @@ aliases: ["前竞争研究", "pre-competitive research", "precompetitive"]
 summary: "产学合作中处于探索阶段、产出的知识产权尚不具备商业化价值的研究类型，Narayan 与 Spohrer（2025）指出对此类研究套用商业竞争型 IP 条款会阻碍合作启动"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Research Scope]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -23,9 +24,9 @@ related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
-  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
-  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Metrics, Incentives, Rewards, and Culture for Impact]]"
+  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -72,7 +73,7 @@ updated: 2026-05-28
 ## 前竞争研究作为 PPP 设计原则
 
 > [!note]
-> 在 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP） 中，前竞争研究的范围界定从单个项目的 IP 管理策略升级为**多边合作的核心制度设计原则**。当 PPP 包含直接彼此竞争的公司时——如 [[Semiconductor Research Corporation|SRC]] 的成员包括 Intel 及其直接竞争对手——合作与竞争之间的张力需要一个制度性解决方案：将合作的研究范围严格限定在前竞争阶段([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.234]])。
+> 在 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP） 中，前竞争研究的范围界定从单个项目的 IP 管理策略升级为**多边合作的核心制度设计原则**。当 PPP 包含直接彼此竞争的公司时——如 [[Semiconductor Research Corporation|SRC]] 的成员包括 Intel 及其直接竞争对手——合作与竞争之间的张力需要一个制度性解决方案：将合作的[[Research Scope|研究范围]]严格限定在前竞争阶段([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.234]])。
 
 > [!abstract] 制度逻辑
 > 前竞争范围的界定使竞争者可以在研究层面合作而不侵蚀各自在产品层面的竞争优势：

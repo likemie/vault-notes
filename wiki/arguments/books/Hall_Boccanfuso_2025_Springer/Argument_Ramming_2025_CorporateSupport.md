@@ -8,7 +8,7 @@ publication_type: book
 title: "Gaining Support Within Companies for Collaboration"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Research Scope]]"
   - "[[Precompetitive Research]]"
   - "[[Return on Investment]]"
 related_theories:
@@ -291,7 +292,7 @@ citation_aliases:
 | 决策维度 | 核心问题 | 可选策略 |
 |---------|---------|---------|
 | **治理** | 多方代表参与提案评审、资助决策 和 资助后管理，如何避免决策瘫痪？ | 明确权限边界、分层决策（战略→运营）、定期轮换参与代表 |
-| **竞争理论** | 许多 PPP 包含直接彼此竞争的公司，合作与竞争如何共存？ | 将研究范围限定在前竞争阶段、共同基础设施、行业外部性（碳足迹、公共安全、互操作性等） |
+| **竞争理论** | 许多 PPP 包含直接彼此竞争的公司，合作与竞争如何共存？ | 将[[Research Scope\|研究范围]]限定在前竞争阶段、共同基础设施、行业外部性（碳足迹、公共安全、互操作性等） |
 | **技术战略** | PPP 的技术方向需要基于对生态系统中各参与者角色的深刻理解，即谁来定义"正确"的方向？ | 建立独立的技术咨询委员会、定期行业趋势扫描、允许成员公司"选择退出"特定[[Technological Trajectories\|技术轨道]] |
 | **知识产权** | 多方投入资源，产出归谁？ | [[Precompetitive Research\|前竞争研究]] IP 共享（免版税）、平行商业开发权、明确退出条款 |
 

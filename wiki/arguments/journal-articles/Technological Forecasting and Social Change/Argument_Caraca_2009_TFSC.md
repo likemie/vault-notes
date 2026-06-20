@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Knowledge Exchange]]"
+  - "[[Research Scope]]"
   - "[[Variable]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -47,7 +48,7 @@ publication_type: journal-article
 title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -315,7 +316,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 ## 自述局限
 
-> [!warning] 概念简报的篇幅与研究范围
+> [!warning] 概念简报的篇幅与[[Research Scope|研究范围]]
 > - [[Multi-channel Interactive Learning Model|多通道互动学习模型]]是复杂的，仅能给出简要概述 (p.866)。模型各组成部分——螺旋学习循环、三类知识池、界面概念、双层创新环境——均值得进一步独立研究和实证检验。
 > - 模型定位是代表性而非穷举性的，不假设所有因素必须就位才能实现创新 (p.865)。它是对创新过程主要[[Variable|变量]]及其相互关系的风格化表征，不是可供计量检验的操作化模型。
 > - 希望该模型可作为大规模研究项目的框架和灵感，也可作为政策制定者克服不同类型偏见的指南——例如只关注国际组织最新流行概念，或只关注创新指标路灯下能看到的事物 (p.867)。

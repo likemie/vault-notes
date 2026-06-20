@@ -17,11 +17,12 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
+  - "[[Research Scope]]"
 related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -63,7 +64,7 @@ SRC 的独特之处在于它制度化地解决了 PPP 最核心的张力：**如
 
 > [!example]
 > - [[Public-Private Partnership in Research]] — SRC 是行业联盟型 PPP 的典型范例
-> - [[Precompetitive Research]] — SRC 将研究范围限定在前竞争阶段是其核心制度设计
+> - [[Precompetitive Research]] — SRC 将[[Research Scope|研究范围]]限定在前竞争阶段是其核心制度设计
 > - [[CHIPS and Science Act]] — 2022 年法案推动的 NSTC 代表了 SRC 模式的制度化升级
 > - [[Universal Parallel Computing Research Centers]] — UPCRC 和 SRC 分别代表了 Intel [[University-Industry Collaboration|产学合作]]组合中的"战略性一次性项目"和"持续性行业联盟"两条轨道
 

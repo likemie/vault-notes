@@ -9,7 +9,7 @@ aliases:
 summary: "研究规划的实操评估维度，涵盖研究准入、时间资源、研究者特质与专长、资源条件和研究范围管理，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Access and Acceptance in Research]]"
+  - "[[Research Scope]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -26,7 +27,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Research Methods in Education · Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-19
@@ -37,7 +38,7 @@ updated: 2026-06-19
 ## 定义
 
 > [!def] 核心定义
-> 研究可操作性（research practicability）指研究在实际约束条件下是否可以完成的综合评估，涵盖[[Access and Acceptance in Research|研究准入]]的可行性、时间与资源的可获得性、研究者自身的特质与专长匹配度、以及研究范围的清晰边界，是"研究者想做什么"与"研究者实际上能做什么"之间的差距管理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 研究可操作性（research practicability）指研究在实际约束条件下是否可以完成的综合评估，涵盖[[Access and Acceptance in Research|研究准入]]的可行性、时间与资源的可获得性、研究者自身的特质与专长匹配度、以及[[Research Scope|研究范围]]的清晰边界，是"研究者想做什么"与"研究者实际上能做什么"之间的差距管理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义**：许多新手研究者怀着无知的天真乐观，相信自己想做的一切都能做到——事实远非如此。研究往往在"想做什么"和"能做什么"之间存在显著鸿沟。

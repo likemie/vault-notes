@@ -9,7 +9,7 @@ aliases:
 summary: "研究者进入研究场所前获得官方许可和参与者接纳的伦理与操作程序，涉及准入层级协商、守门人关系建立和研究意图透明披露"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Practicability]]"
+  - "[[Research Scope]]"
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Gatekeepers]]"
@@ -28,8 +29,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Research Methods in Education · Ch05]]"
+  - "[[Research Methods in Education · Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-18
@@ -101,7 +102,7 @@ updated: 2026-06-19
 
 > [!warning] 研究者在准入阶段的风险
 > - 信息可能需要在合理范围内保留——完全公开可能导致结果偏差（如研究群体压力对从众的影响不能提前公布意图）
-> - 沉默共谋是危险立场——如果研究范围广、持续时间长，保密态度难以维持，保密可能导致谣言增加和扩散
+> - 沉默共谋是危险立场——如果[[Research Scope|研究范围]]广、持续时间长，保密态度难以维持，保密可能导致谣言增加和扩散
 > - 研究者必须在任何时候都表现出对宿主和参与者处境的敏感欣赏，并让任何感到受威胁的人放心
 
 ---

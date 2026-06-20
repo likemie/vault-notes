@@ -9,7 +9,7 @@ aliases:
 summary: "由政府或研究赞助方预先设定研究主题和边界的资助模式，研究者通过竞标承接项目；这一机制在过去二十余年大幅增长，推动了教育研究从研究者自设议程向赞助方指定焦点的系统性转变。"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
+  - "[[Research Scope]]"
   - "[[Blue Skies Research]]"
   - "[[Research Problem]]"
 related_theories: []
@@ -42,7 +43,7 @@ updated: 2026-06-17
 > [!concept-lens] 概念透镜
 > - **含义**：分类资助指向一种权力关系——谁设定研究议程、谁拥有数据、谁控制结果的传播。
 > - **用途**：它帮助分析研究政治化的制度机制，理解为什么[[Evaluation Research|评估研究]]在教育研究中的占比持续上升。
-> - **边界**：它不等同于所有有主题的资助，而是特指由资助方严格预设研究范围、研究者在给定的"类别"（category）下承接项目的资助形式。
+> - **边界**：它不等同于所有有主题的资助，而是特指由资助方严格预设[[Research Scope|研究范围]]、研究者在给定的"类别"（category）下承接项目的资助形式。
 
 > [!boundary] 概念边界
 > - 不等于一般的研究资助（research grant） — 一般资助允许研究者在宽泛主题下自主形成研究问题；分类资助则将研究问题本身也由资助方预设。

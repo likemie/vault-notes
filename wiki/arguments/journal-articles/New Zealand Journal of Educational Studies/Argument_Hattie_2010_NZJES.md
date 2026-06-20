@@ -8,7 +8,7 @@ publication_type: journal-article
 title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Research Scope]]"
   - "[[Academic Engagement]]"
   - "[[Value Neutrality]]"
   - "[[Effect Size]]"
@@ -97,7 +98,7 @@ citation_aliases:
 >
 > **[[Performance Pay|绩效工资]]**：Hattie 澄清其立场并非简单支持绩效工资，而是认为"质疑如何根据专业水平差异付酬是适当和值得的"。教师目前已经按经验差异付酬。虽然完美方案尚未出现，但这应鼓励持续质疑和研究(p.91)。
 >
-> **非学校因素**：Hattie 承认社会经济因素"可能比书中讨论的许多问题更重要"，但他将研究范围限定在"教育者能控制的因素"，而非否认非学校因素的重要性(pp.89–90)。
+> **非学校因素**：Hattie 承认社会经济因素"可能比书中讨论的许多问题更重要"，但他将[[Research Scope|研究范围]]限定在"教育者能控制的因素"，而非否认非学校因素的重要性(pp.89–90)。
 >
 > ### 政策顾问角色的复杂性
 >

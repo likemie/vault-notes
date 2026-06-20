@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "higher-education"
-related_count: 86
+related_count: 87
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Concierge Service]]"
   - "[[Research Security]]"
   - "[[University Spin-Out]]"
+  - "[[Research Scope]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
   - "[[Trade Mission]]"
@@ -95,21 +96,21 @@ related_facts:
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
-  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
-  - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
-  - "[[Argument_Byrne_2025_InnovationCenters]]"
-  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
-  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
-  - "[[Argument_UIDP_2012_PartnershipContinuum]]"
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[The unique role of academic health systems in facilitating innovative UI partnerships]]"
+  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Establishing successful university–industry collaborations: barriers and enablers deconstructed]]"
+  - "[[Innovation Centers and Economic Development]]"
+  - "[[Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges]]"
+  - "[[International research collaborations between universities and industry]]"
+  - "[[The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Connecting, Exploring, Uncovering, and Building Partnerships]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -283,7 +284,7 @@ updated: 2026-06-05
 **[[Cooperative Education|合作教育]]文化**：[[Cooperative Education|合作教育]]（co-op）文化为产学合作提供了制度基础——学生工学交替的模式使产学互动成为大学日常运作的一部分，降低了教师对产业合作的心理门槛。滑铁卢大学自 1959 年建校起就将合作教育作为核心模式，与[[Inventor-Owned IP Policy (University of Waterloo)|发明人自有知识产权政策]]共同构成了有利于产学合作的制度生态([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.242–243, 254]])。
 
 > [!warning]
-> 需要注意的是，产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）虽然属于合同研究的一种，但几乎从不催生[[University Spin-Out|大学衍生企业]]。原因在于赞助协议中的知识产权（IP）独占安排——企业要求排他性使用权或商业化权利、限定研究范围为不足以独立成为产品的一小块拼图、并在衍生企业中保留治理权——构成了一颗"IP 毒丸"，使衍生企业无法进入更广泛的资本市场，从而削弱了研究人员的创业动力([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-144]])。详见 [[University Spin-Out]]。
+> 需要注意的是，产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）虽然属于合同研究的一种，但几乎从不催生[[University Spin-Out|大学衍生企业]]。原因在于赞助协议中的知识产权（IP）独占安排——企业要求排他性使用权或商业化权利、限定[[Research Scope|研究范围]]为不足以独立成为产品的一小块拼图、并在衍生企业中保留治理权——构成了一颗"IP 毒丸"，使衍生企业无法进入更广泛的资本市场，从而削弱了研究人员的创业动力([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-144]])。详见 [[University Spin-Out]]。
 
 ### 关系建设路径
 

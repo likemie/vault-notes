@@ -10,7 +10,7 @@ publication_type: book-chapter
 title: "Research Methods in Education · Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Purpose Statement]]"
   - "[[Gatekeepers]]"
+  - "[[Research Scope]]"
   - "[[Confidentiality]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Research Purpose]]"
@@ -389,7 +390,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > - **使用组织内已接受的沟通渠道**：如果信息仅限于单一通道，研究可能被与该通道相关的利益所同化
 
 > [!warning] 信息透明的限度
-> Aronson & Carlsmith (1969) 指出，无法想象研究群体压力对从众的影响的研究者提前宣布他们的意图。但另一方面，沉默共谋是危险立场。Festinger & Katz (1966) 指出，如果研究范围广、持续时间长，保密态度难以维持，可能导致谣言增加和扩散（p.87）。
+> Aronson & Carlsmith (1969) 指出，无法想象研究群体压力对从众的影响的研究者提前宣布他们的意图。但另一方面，沉默共谋是危险立场。Festinger & Katz (1966) 指出，如果[[Research Scope|研究范围]]广、持续时间长，保密态度难以维持，可能导致谣言增加和扩散（p.87）。
 
 **实用的折中策略**：如果研究者不想让潜在宿主和/或参与者了解太多具体假设和目标，一个简单的方法是**在较一般层面提供明确声明，附一两例非关键性例子**（p.87）。
 

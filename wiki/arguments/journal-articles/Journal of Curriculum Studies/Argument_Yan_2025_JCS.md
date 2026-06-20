@@ -9,7 +9,7 @@ publication_type: journal-article
 title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Externalization]]"
   - "[[Epistemology]]"
+  - "[[Research Scope]]"
   - "[[Class Size]]"
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
@@ -182,7 +183,7 @@ LS 的课程设计大量参照了国际文凭大学预科课程（International 
 > | 自由教育与建构主义理念 | 知识理论（[[Epistemology\|theory of knowledge]], TOK） | 引导学生理解知识本质、发展批判性思维 |
 > | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（Extended Essay） | 学生自主选题、自主研究方法、自我导向学习 |
 >
-> IES 被设计为"一种自我导向的学习体验，学生承担学习的主要责任......自主选择题目、研究范围、研究方法以及呈现研究发现和成果的方式"(CDC & HKEAA, 2007, pp. 57–58)。
+> IES 被设计为"一种自我导向的学习体验，学生承担学习的主要责任......自主选择题目、[[Research Scope|研究范围]]、研究方法以及呈现研究发现和成果的方式"(CDC & HKEAA, 2007, pp. 57–58)。
 
 港府还邀请海外学者为 LS 提供国际背书。剑桥大学教育学教授 Mary James 于 2007 至 2009 年担任课程发展议会海外委员。她评价 LS 的目标是"拓宽全体学生的知识基础，增强其社会、国家和全球意识，同时培养他们从多元视角审视广泛议题的能力"(James, 2017, pp. 9–10)。
 

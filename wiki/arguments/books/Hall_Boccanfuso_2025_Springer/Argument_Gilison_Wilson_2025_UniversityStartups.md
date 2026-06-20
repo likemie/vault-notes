@@ -17,6 +17,7 @@ related_concepts:
   - "[[Proof of Concept Programs]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Academic Freedom]]"
+  - "[[Research Scope]]"
   - "[[Non-dilutive Funding]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
@@ -54,7 +55,7 @@ publication_type: book
 title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -138,7 +139,7 @@ citation_aliases:
 
 6. 再看许可协议的约束。因为大学几乎总是保留发表研究结果的权利（这是[[Academic Freedom|学术自由]]的基本要求），企业会担心自己的商业机密或既有 IP 在学术发表中泄露。所以在协议谈判时，企业会做出以下防御性安排(pp.143-144)：
 
-   - **限定研究范围为一小块拼图**：企业不会让大学接触自己的核心 IP，所以赞助的研究范围往往是"拼图的一块而非基础性技术"(p.143)。这意味着研究产出本身就不完整，不足以独立成为一个产品。
+   - **限定[[Research Scope|研究范围]]为一小块拼图**：企业不会让大学接触自己的核心 IP，所以赞助的研究范围往往是"拼图的一块而非基础性技术"(p.143)。这意味着研究产出本身就不完整，不足以独立成为一个产品。
    - **要求排他性使用权或商业化权利**：许可协议确保竞争对手——现在或将来——无法使用这项 IP。
    - **在衍生企业中保留治理权**：如果真有一家衍生企业成立了，赞助方要求保留一定程度的控制权，包括对买卖产品、客户范围和融资来源的限制。
 

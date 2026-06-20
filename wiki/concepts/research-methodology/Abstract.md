@@ -4,7 +4,7 @@ aliases: ["文献摘要", "研究摘要", "abstracting studies", "literature abs
 summary: "学术写作中两种功能不同的文本类型：文献综述中加工研究文献的短段落（文献摘要），以及置于研究方案或论文开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Champ]]"
+  - "[[Research Scope]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
@@ -26,7 +27,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -83,7 +84,7 @@ updated: 2026-05-31
 
 ## 研究摘要（Study Abstract）的构成要素
 
-除[[Literature Review|文献综述]]过程中的文献摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出研究范围的评论）、连贯、可读和简洁。大多数摘要约 250 词（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+除[[Literature Review|文献综述]]过程中的文献摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出[[Research Scope|研究范围]]的评论）、连贯、可读和简洁。大多数摘要约 250 词（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 对于实证研究的研究方案，摘要应包含以下五个核心组成部分，且应按以下顺序呈现（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
