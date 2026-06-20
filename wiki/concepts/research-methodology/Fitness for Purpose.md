@@ -69,7 +69,7 @@ updated: 2026-06-19
 > 3. 根据目的和问题选择适配的方法、设计和工具
 > 4. 根据方法确定抽样、伦理立场和[[Research Scope|研究范围]]
 
-目的适配性在第 7 章中作更详细的讨论。原理适用于单一研究方法和[[Mixed Methods Research|混合方法研究]]——在混合方法中，适配性需要在质性和量化成分之间同时建立内在一致性。
+原理适用于单一研究方法和[[Mixed Methods Research|混合方法研究]]——在混合方法中，适配性需要在质性和量化成分之间同时建立内在一致性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---
 

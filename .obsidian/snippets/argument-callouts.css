@@ -6780,11 +6780,16 @@
 
 .callout[data-callout="concept-lens"] > .callout-content > ul {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.6rem;
   margin: 0;
   padding: 0.8rem;
   list-style: none;
+}
+
+/* 第三项及以后顶满整行（2+1 布局） */
+.callout[data-callout="concept-lens"] > .callout-content > ul > li:nth-child(n+3) {
+  grid-column: 1 / -1;
 }
 
 .callout[data-callout="concept-lens"] > .callout-content > ul > li {
