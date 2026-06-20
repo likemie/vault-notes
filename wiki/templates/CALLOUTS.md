@@ -4,6 +4,129 @@
 
 ---
 
+## 关键词触发速查
+
+文本出现下列信号词时，**无需分析完整语义，直接使用对应 callout**。
+
+### 比较 / 对立
+
+| 触发信号 | 首选 callout |
+|---|---|
+| vs. / versus / 对比 / 相比 / 区别 / 不同于 / 两种 / 两类 / 两派 | `[!contrast-table]` |
+| 线索 A 与线索 B 并列叙事（两条平行脉络） | `[!line-a]` + `[!line-b]` |
+| 左右两个子主题 | `[!col-l]` + `[!col-r]` |
+| 维度 × 两个立场 / 两个方向的张力 | `[!tension-table]` |
+| 恰好 4 个权重相当的类型 / 案例 | `[!quad-grid]` |
+
+### 时间 / 阶段
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 阶段 / 发展历程 / 演变 / 演化 / 历史沿革 | `[!phase]` |
+| 大事记 / 里程碑 / 年份列表（逐条） | `[!timeline]` |
+| 含子事件的详细分阶段时间轴 | `[!dev-timeline]` |
+| 思想发展 / 学术转向 / 著作脉络 | `[!thought-timeline]` |
+
+### 目的 / 维度
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 目的 / 目标 / 旨在 / 研究目的 / 学习目标 | `[!goal]` |
+| 维度 / 层面 / 方面 / 角度（3 个以上并列） | `[!dimension]` |
+
+### 定义 / 概念
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 定义 / 是指 / 指的是 / 所谓 / 核心概念 | `[!def]` |
+| 含义 + 用途 + 边界（三联分析） | `[!concept-lens]` |
+| 术语辨析 / 名称区分 / 短定义 | `[!term]` |
+| 适用范围 / 排除条件 / 不包括 / 限定 | `[!boundary]` |
+| 理论定位 / 解释对象 / 理论类型 | `[!theory-position]` |
+| 认识论 / 方法含义 / 不能推出 | `[!theory-stance]` |
+| 理论适用 / 慎用 / 不适用 / 误用 | `[!theory-boundary]` |
+
+### 论证 / 推理
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 核心论点 / 主张 / 可争辩的判断 | `[!claim]` |
+| 因为 → 所以 / 链式推理 / 前提→机制→结论 | `[!chain-link]` |
+| 论证总结 / 核心主张摘要 / 章节收束 | `[!conclusion]` |
+| 推论 / 理论后果 / 政策后果 / 方法后果 | `[!implication]-` |
+| 证据支持主张的推理桥梁 / 为什么证据成立 | `[!warrant]-` |
+| 前提假设 / 隐含假设 / 不可再拆的前提 | `[!assumptions]` |
+| 理论张力 / 对立立场 / 争议焦点 | `[!tension]` |
+
+### 数据 / 发现
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 主要发现 / 核心发现（≤4 条） | `[!finding-cards]` |
+| 效应量 / d = / N = / 比例 / 关键统计数字 | `[!stat-cards]` |
+| 证据列表 / 支持证据并列 | `[!evidence-grid]` |
+| 元分析 / meta-analysis / 跨研究汇总 d 值 | `[!ma-table]-` |
+| 效应量汇总表（含前测后测 CI） | `[!effect-table]-` |
+| 主要发现 + 结论合并 / 影响 / 成效 | `[!success]` |
+
+### 批评 / 局限
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 局限 / 不足 / 风险 / 例外（**原文自述**） | `[!warning]` |
+| 方法论错误 / 统计错误（**外部批评**） | `[!critique-method]` |
+| 逻辑矛盾 / 概念矛盾（**外部批评**） | `[!critique-logic]` |
+| 实证反例 / 数据反驳（**外部批评**） | `[!critique-data]` |
+| 根本性缺陷 / 致命漏洞 | `[!critique-fatal]` |
+| 失败 / 假设不成立 / 缺失数据 | `[!failure]` |
+| 已知困难 / 若干明确挑战（编号列举） | `[!challenges]` |
+
+### SWOT
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 优势 / 强项 / strengths | `[!strength]` |
+| 劣势 / 弱点 / weaknesses | `[!weakness]` |
+| 机会 / 机遇 / opportunities | `[!opportunity]` |
+| 威胁 / risks / threats | `[!threat]` |
+| 适合 / 谨慎 / 不适合（三区轻量判断） | `[!fit-grid]` |
+
+### 方法 / 流程
+
+| 触发信号 | 首选 callout |
+|---|---|
+| 步骤 / 流程 / 操作程序 / 如何 / 操作化 | `[!proc]` |
+| 公式 / 计算 / 推导 / 方程（单个） | `[!formula]` 或 `[!formula-step]` |
+| 多个公式 / 公式组 | `[!formula-set]` |
+| 行动路径 / 实践建议 / 操作方案 | `[!pathways]` |
+| 研究设计 / 分析策略 / 材料处理 | `[!method-panel]` |
+
+### 表格选型
+
+| 场景 | 首选 callout |
+|---|---|
+| 首列是标签/术语，其余列解释 | `[!col1-table]` |
+| 需要自动序号的步骤表 | `[!seq-table]` |
+| 行列双向标题（交叉矩阵） | `[!dual-header]` |
+| 两种立场 × 多个维度 | `[!tension-table]` |
+
+---
+
+### 易混淆辨析
+
+| 容易混淆的对 | 判断规则 |
+|---|---|
+| `[!claim]` vs `[!conclusion]` | claim = 论证**起点**的可争辩主张；conclusion = 论证**结束**后的总结 |
+| `[!warning]` vs `[!critique]` | warning = **原文作者**自述局限；critique = **读者/外部**批评视角 |
+| `[!finding-cards]` vs `[!evidence-grid]` | finding = 本研究的**积极结论**；evidence = 支持某主张的**证据清单** |
+| `[!timeline]` vs `[!phase]` | timeline = 逐条年份列表；phase = 有起止年代的**叙事段落** |
+| `[!contrast-table]` vs `[!tension-table]` | contrast = 两个事物整体对比；tension = 同一维度上两个**对立立场** |
+| `[!dimension]` vs `[!concept-lens]` | dimension = 分析**视角/层面**（≥3）；concept-lens = 固定三联（含义/用途/边界） |
+| `[!chain-link]` vs `[!proposition-chain]` | chain-link = 叙述式推理**链节**；proposition-chain = 形式化**命题**列表 |
+| `[!implication]-` vs `[!conclusion]` | implication = 从发现**延伸出去**的后果；conclusion = 本论证的**收束** |
+
+---
+
 ## 使用原则
 
 - callout 服务阅读层次。普通说明段不要强行包进 callout。
