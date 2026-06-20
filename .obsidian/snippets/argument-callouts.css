@@ -8038,19 +8038,19 @@
   background: rgba(42, 120, 108, 0.09);
   color: rgb(28, 98, 88);
   font-weight: 650;
-  font-size: var(--fs-table);
+  font-size: calc(var(--fs-table) * 0.93);
   letter-spacing: 0.03em;
-  padding: 0.52rem 1rem;
+  padding: 0.48rem 0.85rem;
   text-align: left;
   border-bottom: 2px solid rgba(42, 120, 108, 0.22);
 }
 
 .callout[data-callout="col1-table"] tbody td {
-  padding: 0.52rem 1rem;
-  font-size: var(--fs-table);
+  padding: 0.45rem 0.85rem;
+  font-size: calc(var(--fs-table) * 0.93);
   border-bottom: 1px solid rgba(42, 120, 108, 0.08);
   vertical-align: top;
-  line-height: 1.62;
+  line-height: 1.58;
 }
 
 .callout[data-callout="col1-table"] tbody td:first-child {
