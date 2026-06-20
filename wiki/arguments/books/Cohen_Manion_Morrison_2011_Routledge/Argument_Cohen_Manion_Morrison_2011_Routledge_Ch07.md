@@ -171,17 +171,12 @@ updated: 2026-06-21
 
 > [!mechanism-map]- Maxwell 互动模型五领域
 > ```mermaid
-> flowchart LR
->   G["① 目标<br>Goals"] -.强连接.-> CF["② 概念框架<br>Conceptual<br>Framework"]
->   G --> RQ["③ 研究问题<br>Research<br>Questions"]
->   CF --> RQ
->   RQ --> M["④ 方法<br>Methods"]
->   RQ --> V["⑤ 效度<br>Validity"]
->   M -.强连接.-> V
->   M --> RQ
->   V --> RQ
->   CF -.弱连接.-> V
->   G -.弱连接.-> M
+> flowchart TB
+>   G["① 目标 Goals"] & CF["② 概念框架 Conceptual Framework"]
+>   G & CF --> RQ["③ 研究问题 Research Questions"]
+>   RQ --> M["④ 方法 Methods"] & V["⑤ 效度 Validity"]
+>   G <-.强.-> CF
+>   M <-.强.-> V
 > ```
 
 > [!theory-components] 五领域详述
@@ -192,7 +187,7 @@ updated: 2026-06-21
 > - **⑤ 效度（Validity）** 受研究范式、初步数据和结论、思想实验、探索性和试点研究、已有理论和先前研究影响
 
 > [!conclusion] 互动模型的关键主张
-> 研究问题位于模型的核心，但受到其他四个领域的有力影响。Maxwell 指出：目标（①）与概念框架（②）之间、方法（④）与效度（⑤）之间存在**强连接**；概念框架（②）与效度（⑤）之间、目标（①）与方法（④）之间的连接**较弱**。该模型随时间推移是迭代和递归的；研究设计从这些要素的互动中涌现，并随研究的展开而发展（p.123）。
+> 研究问题位于模型的核心，但受到其他四个领域的有力影响。Maxwell 指出：目标与概念框架之间、方法与效度之间存在**强连接**；概念框架与效度之间、目标与方法之间的连接**较弱**。该模型随时间推移是迭代和递归的；研究设计从这些要素的互动中涌现，并随研究的展开而发展（p.123）。
 
 ---
 

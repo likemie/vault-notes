@@ -6,6 +6,10 @@ aliases:
 summary: "德语教学理论传统，关注什么知识值得教、为什么教以及如何教，在哲学层面用于连接课程内容、教育目的和教学判断。"
 type: concept
 domain: "curriculum"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 related_concepts: []
 related_theories: []
 related_methods: []

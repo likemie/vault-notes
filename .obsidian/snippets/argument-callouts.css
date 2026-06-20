@@ -7616,7 +7616,7 @@
 }
 
 .callout[data-callout="theory-components"] > .callout-title .callout-title-inner::before {
-  content: "PARTS";
+  content: "COMPONENTS";
 }
 
 .callout[data-callout="theory-stance"] > .callout-title .callout-title-inner::before {
@@ -7731,6 +7731,105 @@
   font-size: var(--fs-body);
   letter-spacing: 0.02em;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   [!theory-components] 专属重设计
+   双列卡片网格；颜色循环；C# 右上角标；hover 上浮 + 弹跳
+   ═══════════════════════════════════════════════════════════ */
+
+/* 颜色升级：从暗棕改为深蓝紫 */
+.callout[data-callout="theory-components"] {
+  --callout-color: 78, 62, 152;
+  --callout-icon: lucide-blocks;
+}
+
+/* 双列网格容器，覆盖父级 padding */
+.callout[data-callout="theory-components"] > .callout-content {
+  padding: 0.55rem 0.65rem 0.75rem;
+}
+.callout[data-callout="theory-components"] > .callout-content > ul {
+  counter-reset: tc-n;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.55rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* 构件卡片：顶部色条 + 细边框 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li {
+  counter-increment: tc-n;
+  position: relative;
+  padding: 0.58rem 0.8rem 0.62rem;
+  border: 1px solid rgba(var(--tc), 0.15);
+  border-top: 3px solid rgba(var(--tc), 0.60);
+  border-radius: 7px;
+  background: linear-gradient(170deg,
+    rgba(var(--tc), 0.055) 0%,
+    rgba(var(--tc), 0.008) 100%
+  );
+  line-height: 1.62;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-top-color 0.18s ease;
+}
+
+/* 颜色循环（--tc 为 RGB 元组） */
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(1) { --tc: 78, 62, 152; }
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(2) { --tc: 32, 105, 152; }
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(3) { --tc: 28, 130, 95; }
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(4) { --tc: 158, 95, 28; }
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(5) { --tc: 148, 35, 78; }
+.callout[data-callout="theory-components"] > .callout-content > ul > li:nth-child(n+6) { --tc: 48, 118, 62; }
+
+/* hover：卡片上浮 + 顶条加深 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(var(--tc), 0.18);
+  border-top-color: rgba(var(--tc), 1);
+}
+
+/* C# 角标：右上角小徽章 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li::before {
+  content: "C" counter(tc-n);
+  position: absolute;
+  top: 0.42rem;
+  right: 0.52rem;
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: rgba(var(--tc), 0.11);
+  color: rgb(var(--tc));
+  font-size: 0.56rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  border: 1px solid rgba(var(--tc), 0.18);
+  transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
+              background 0.16s ease;
+}
+
+/* hover：角标弹跳 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li:hover::before {
+  transform: scale(1.22) rotate(-10deg);
+  background: rgba(var(--tc), 0.22);
+}
+
+/* 构件标题（li 内首个 strong）覆盖 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="theory-components"] > .callout-content > ul > li > p:first-child > strong:first-child {
+  display: block;
+  margin-bottom: 0.16rem;
+  padding-right: 1.6rem; /* 避免与角标重叠 */
+  color: rgb(var(--tc));
+  font-size: 0.88em;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+/* 暗色模式 */
+.theme-dark .callout[data-callout="theory-components"] {
+  --callout-color: 128, 112, 220;
+}
+
+/* ─────────────────────────────────────────────────────────── */
 
 .callout[data-callout="proposition-chain"] > .callout-content {
   padding: 0.8rem 1rem 0.95rem;
@@ -9367,6 +9466,16 @@
   0%   { box-shadow: 0 0 0 0   rgba(208, 42, 56, 0.85), 0 2px 10px rgba(208, 42, 56, 0.40); }
   50%  { box-shadow: 0 0 0 14px rgba(208, 42, 56, 0),   0 2px 10px rgba(208, 42, 56, 0.40); }
   100% { box-shadow: 0 0 0 0   rgba(208, 42, 56, 0),   0 2px 10px rgba(208, 42, 56, 0.40); }
+}
+
+/* warning 琥珀脉冲圈 */
+@keyframes warning-glow {
+  0%, 100% { box-shadow: 0 0 0 0   rgba(195, 135, 18, 0.60), 0 1px 5px rgba(195, 135, 18, 0.22); }
+  55%      { box-shadow: 0 0 0 9px rgba(195, 135, 18, 0),   0 1px 5px rgba(195, 135, 18, 0.22); }
+}
+@keyframes warning-glow-fast {
+  0%, 100% { box-shadow: 0 0 0 0   rgba(195, 135, 18, 0.80), 0 1px 5px rgba(195, 135, 18, 0.30); }
+  45%      { box-shadow: 0 0 0 12px rgba(195, 135, 18, 0),   0 1px 5px rgba(195, 135, 18, 0.30); }
 }
 
 /* ─── C. [!timeline] 生平与职涯 ────────────────────────── */
@@ -11799,7 +11908,17 @@
 .callout[data-callout="caution"],
 .callout[data-callout="attention"] {
   --callout-color: 195, 135, 18;
-  background: linear-gradient(135deg, rgba(195, 135, 18, 0.09), rgba(195, 135, 18, 0.02)), var(--background-primary);
+  /* 底纹：斜向警示条纹 + 渐变叠加 */
+  background:
+    repeating-linear-gradient(
+      -45deg,
+      rgba(195, 135, 18, 0.038) 0px,
+      rgba(195, 135, 18, 0.038) 7px,
+      transparent 7px,
+      transparent 15px
+    ),
+    linear-gradient(135deg, rgba(195, 135, 18, 0.08), rgba(195, 135, 18, 0.01)),
+    var(--background-primary);
   border: 1px solid rgba(195, 135, 18, 0.22);
   border-left-color: rgb(195, 135, 18);
   box-shadow: 0 4px 14px rgba(195, 135, 18, 0.08);
@@ -11810,17 +11929,40 @@
 .callout[data-callout="warning"] > .callout-title .callout-title-inner::before { content: "WARNING"; }
 .callout[data-callout="caution"] > .callout-title .callout-title-inner::before { content: "CAUTION"; }
 .callout[data-callout="attention"] > .callout-title .callout-title-inner::before { content: "ATTENTION"; }
+/* 徽章脉冲：慢速琥珀光晕 */
+.callout[data-callout="warning"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="caution"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="attention"] > .callout-title .callout-title-inner::before {
+  animation: warning-glow 2.8s ease-in-out infinite;
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
 .callout[data-callout="warning"]:hover,
 .callout[data-callout="caution"]:hover,
 .callout[data-callout="attention"]:hover {
   box-shadow: 0 0 0 2px rgba(195, 135, 18, 0.22), 0 6px 18px rgba(195, 135, 18, 0.14);
+}
+/* hover：徽章加快 + 轻微放大 */
+.callout[data-callout="warning"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="caution"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="attention"]:hover > .callout-title .callout-title-inner::before {
+  animation: warning-glow-fast 0.9s ease-in-out infinite;
+  transform: scale(1.08);
 }
 .theme-dark .callout[data-callout="warning"],
 .theme-dark .callout[data-callout="caution"],
 .theme-dark .callout[data-callout="attention"] {
   --callout-color: 235, 175, 50;
   border-color: rgba(235, 175, 50, 0.24); border-left-color: rgb(235, 175, 50);
-  background: linear-gradient(135deg, rgba(235, 175, 50, 0.10), rgba(235, 175, 50, 0.025)), var(--background-primary);
+  background:
+    repeating-linear-gradient(
+      -45deg,
+      rgba(235, 175, 50, 0.04) 0px,
+      rgba(235, 175, 50, 0.04) 7px,
+      transparent 7px,
+      transparent 15px
+    ),
+    linear-gradient(135deg, rgba(235, 175, 50, 0.09), rgba(235, 175, 50, 0.02)),
+    var(--background-primary);
 }
 .theme-dark .callout[data-callout="warning"] > .callout-title,
 .theme-dark .callout[data-callout="caution"] > .callout-title,
