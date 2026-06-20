@@ -1718,27 +1718,176 @@
    EVIDENCE & TENSION — 证据与张力
    ═══════════════════════════════════════════════════════════ */
 
-/* ─── tension（张力 — 鱼骨纹双向对角） ─────────────── */
+/* ─── tension（张力 — 蓝红对立双栏 + VS 徽章） ──────── */
 .callout[data-callout="tension"] {
-  --callout-color: 190, 95, 45;
+  --callout-color: 100, 70, 160;
   --callout-icon: lucide-split;
   background:
-    repeating-linear-gradient(
-       45deg,
-      rgba(190, 95, 45, 0.055) 0px, rgba(190, 95, 45, 0.055) 5px,
-      transparent 5px, transparent 14px
+    linear-gradient(90deg,
+      rgba(42, 88, 180, 0.09)  0%,
+      rgba(42, 88, 180, 0.03) 46%,
+      rgba(175, 42, 62, 0.03) 54%,
+      rgba(175, 42, 62, 0.09) 100%
     ),
-    repeating-linear-gradient(
-      -45deg,
-      rgba(190, 95, 45, 0.035) 0px, rgba(190, 95, 45, 0.035) 5px,
-      transparent 5px, transparent 14px
-    ),
-    linear-gradient(90deg, rgba(190, 95, 45, 0.11), transparent 55%),
     var(--background-primary);
-  border: 1px solid rgba(190, 95, 45, 0.24);
-  border-left: 5px solid rgb(190, 95, 45);
-  border-right: 5px solid rgba(190, 95, 45, 0.40);
-  box-shadow: 0 8px 20px rgba(190, 95, 45, 0.09);
+  border: 1px solid rgba(100, 70, 160, 0.18);
+  border-left:  4px solid rgb(42, 88, 180);
+  border-right: 4px solid rgb(175, 42, 62);
+  border-radius: 10px;
+  padding: 0 0 0.8rem;
+  box-shadow:
+    -4px 0 14px rgba(42, 88, 180, 0.10),
+     4px 0 14px rgba(175, 42, 62, 0.10);
+}
+
+/* 标题栏：蓝→红渐变底色 */
+.callout[data-callout="tension"] > .callout-title {
+  background: linear-gradient(90deg,
+    rgba(42, 88, 180, 0.14) 0%,
+    rgba(100, 70, 160, 0.08) 50%,
+    rgba(175, 42, 62, 0.14) 100%
+  );
+  border-bottom: 1px solid rgba(100, 70, 160, 0.14);
+  padding: 0.56rem 1rem;
+}
+
+/* 列表：2 栏网格 + 相对定位供 VS 徽章锚定 */
+.callout[data-callout="tension"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem 2.4rem;
+  list-style: none;
+  margin: 0;
+  padding: 0.7rem 0.9rem 0.2rem;
+  position: relative;
+}
+
+/* 中心竖线分隔 */
+.callout[data-callout="tension"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 1.2rem;
+  bottom: 1.2rem;
+  width: 1px;
+  transform: translateX(-50%);
+  background: linear-gradient(to bottom,
+    transparent,
+    rgba(100, 70, 160, 0.22) 20%,
+    rgba(100, 70, 160, 0.22) 80%,
+    transparent
+  );
+  pointer-events: none;
+}
+
+/* VS 圆形徽章 */
+.callout[data-callout="tension"] > .callout-content > ul::after {
+  content: "VS";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgb(42, 88, 180), rgb(175, 42, 62));
+  color: #fff;
+  font-size: 0.58rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  line-height: 2.1rem;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.28), 0 0 0 2.5px var(--background-primary);
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* 蓝方（奇数项）*/
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd) {
+  position: relative; z-index: 1;
+  padding: 0.55rem 0.8rem 0.6rem;
+  border: 1px solid rgba(42, 88, 180, 0.18);
+  border-left: 3px solid rgb(42, 88, 180);
+  border-radius: 7px;
+  background: linear-gradient(135deg, rgba(42, 88, 180, 0.09), rgba(42, 88, 180, 0.02));
+  line-height: 1.62;
+  font-size: var(--fs-table);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-left-color 0.18s ease;
+}
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd):hover {
+  transform: translateX(-5px);
+  box-shadow: -4px 3px 14px rgba(42, 88, 180, 0.18);
+  border-left-color: rgb(42, 88, 180);
+}
+
+/* 红方（偶数项）*/
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) {
+  position: relative; z-index: 1;
+  padding: 0.55rem 0.8rem 0.6rem;
+  border: 1px solid rgba(175, 42, 62, 0.18);
+  border-right: 3px solid rgb(175, 42, 62);
+  border-radius: 7px;
+  background: linear-gradient(315deg, rgba(175, 42, 62, 0.09), rgba(175, 42, 62, 0.02));
+  line-height: 1.62;
+  font-size: var(--fs-table);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-right-color 0.18s ease;
+}
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even):hover {
+  transform: translateX(5px);
+  box-shadow: 4px 3px 14px rgba(175, 42, 62, 0.18);
+  border-right-color: rgb(175, 42, 62);
+}
+
+/* 标题 strong：蓝方 */
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd) > strong:first-child,
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd) > p > strong:first-child {
+  display: block;
+  margin-bottom: 0.16rem;
+  color: rgb(42, 88, 180);
+  font-weight: 700;
+}
+
+/* 标题 strong：红方 */
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) > strong:first-child,
+.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) > p > strong:first-child {
+  display: block;
+  margin-bottom: 0.16rem;
+  color: rgb(175, 42, 62);
+  font-weight: 700;
+}
+
+/* 暗模式 */
+.theme-dark .callout[data-callout="tension"] {
+  --callout-color: 130, 100, 200;
+  background:
+    linear-gradient(90deg,
+      rgba(70, 120, 220, 0.11) 0%,
+      rgba(70, 120, 220, 0.04) 46%,
+      rgba(210, 60, 85, 0.04)  54%,
+      rgba(210, 60, 85, 0.11) 100%
+    ),
+    var(--background-primary);
+  border-left-color:  rgb(70, 120, 220);
+  border-right-color: rgb(210, 60, 85);
+  box-shadow:
+    -4px 0 14px rgba(70, 120, 220, 0.13),
+     4px 0 14px rgba(210, 60, 85, 0.13);
+}
+.theme-dark .callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd) {
+  border-left-color: rgb(70, 120, 220);
+  background: linear-gradient(135deg, rgba(70, 120, 220, 0.12), rgba(70, 120, 220, 0.03));
+}
+.theme-dark .callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) {
+  border-right-color: rgb(210, 60, 85);
+  background: linear-gradient(315deg, rgba(210, 60, 85, 0.12), rgba(210, 60, 85, 0.03));
+}
+.theme-dark .callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd) > strong:first-child,
+.theme-dark .callout[data-callout="tension"] > .callout-content > ul > li:nth-child(odd) > p > strong:first-child {
+  color: rgb(100, 148, 240);
+}
+.theme-dark .callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) > strong:first-child,
+.theme-dark .callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) > p > strong:first-child {
+  color: rgb(230, 90, 110);
 }
 
 /* ─── boundary（边界 — 斜条纹 + 虚框） ─────────────── */
@@ -9218,46 +9367,27 @@
   border-color: rgba(var(--callout-color), 0.30);
 }
 
-/* ─── I. [!tension] 争议焦点 ────────────────────────────
-   容器 hover：双侧边框发光（左强右弱）
-   列表项 hover：translateX 右移 + 颜色加深 */
+/* ─── I. [!tension] 动效已整合至主设计块 ── */
+/* 容器 hover */
 .callout[data-callout="tension"] {
-  transition:
-    border-left-color   0.18s ease,
-    border-right-color  0.18s ease,
-    box-shadow          0.18s ease;
+  transition: box-shadow 0.20s ease;
 }
-
 .callout[data-callout="tension"]:hover {
-  border-left-color:  rgb(var(--callout-color));
-  border-right-color: rgba(var(--callout-color), 0.65);
   box-shadow:
-    -3px 0 16px rgba(var(--callout-color), 0.22),
-     3px 0 10px rgba(var(--callout-color), 0.12),
-     0   6px 18px rgba(var(--callout-color), 0.09);
+    -5px 0 18px rgba(42, 88, 180, 0.14),
+     5px 0 18px rgba(175, 42, 62, 0.14),
+     0   6px 20px rgba(0, 0, 0, 0.06);
 }
 
-.callout[data-callout="tension"] > .callout-content > ul > li {
-  transition:
-    transform  0.15s ease,
-    color      0.15s ease;
-  border-radius: 4px;
-}
-
-.callout[data-callout="tension"] > .callout-content > ul > li:hover {
-  transform: translateX(4px);
-  color: rgb(var(--callout-color));
-}
-
-/* 内嵌表格行 hover（联盟结构对比表等） */
+/* 内嵌表格行 hover */
 .callout[data-callout="tension"] tbody tr {
   transition: background 0.13s ease;
 }
 .callout[data-callout="tension"] tbody tr:hover td {
-  background: rgba(var(--callout-color), 0.07);
+  background: rgba(100, 70, 160, 0.07);
 }
 .callout[data-callout="tension"] tbody tr:hover td:first-child {
-  color: rgb(var(--callout-color));
+  color: rgb(100, 70, 160);
 }
 
 /* ─── J. method 四件套 卡片 hover ──────────────────────────
