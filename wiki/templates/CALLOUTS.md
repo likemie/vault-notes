@@ -27,12 +27,17 @@
 | 含子事件的详细分阶段时间轴 | `[!dev-timeline]` |
 | 思想发展 / 学术转向 / 著作脉络 | `[!thought-timeline]` |
 
-### 目的 / 维度
+### 目的 / 维度 / 要素
 
 | 触发信号 | 首选 callout |
 |---|---|
 | 目的 / 目标 / 旨在 / 研究目的 / 学习目标 | `[!goal]` |
-| 维度 / 层面 / 方面 / 角度（3 个以上并列） | `[!dimension]` |
+| 维度 / 层面 / 方面 / 角度（3 个以上分析视角） | `[!dimension]` |
+| 要素 / 属性 / 特征 / 构成（并列同级，3–6 项） | `[!feature]` |
+| 理论构件 / 理论要素 / 概念工具 / 核心机制 | `[!theory-components]` |
+| 要素关系 / 构件之间如何连接（需要图） | `[!logic-map]` |
+
+> **辨析**：`[!dimension]` 是分析**视角**（如从政治/文化/经济三个角度看同一现象）；`[!feature]` 是并列**属性**（如某政策有哪些特征）；`[!theory-components]` 是理论内部的**构件**（如某理论由哪些概念和机制组成）。
 
 ### 定义 / 概念
 
@@ -107,15 +112,25 @@
 | 威胁 / risks / threats | `[!threat]` |
 | 适合 / 谨慎 / 不适合（三区轻量判断） | `[!fit-grid]` |
 
-### 方法 / 流程
+### 步骤 / 流程
+
+「步骤」因情境不同对应不同 callout，先判断是哪种步骤：
+
+| 情境 | 触发信号 | 首选 callout |
+|---|---|---|
+| **操作流程**（执行层，有先后顺序） | 步骤 / 如何操作 / 操作程序 / 操作化 | `[!proc]`（外层）+ `[!step]`（嵌套单步） |
+| **有序步骤表**（需要自动编号） | 步骤一二三 / 编号列表 / 程序清单 | `[!seq-table]` |
+| **推理链**（逻辑步骤，前提→机制→结论） | 因为→所以 / 论证步骤 / 链式推导 | `[!chain-link]` |
+| **时间阶段**（有先后，但不是操作指令） | 第一阶段 / 发展阶段 / 历史步骤 | `[!phase]` |
+| **行动方案**（政策或实践层面的路径） | 行动路径 / 实践建议 / 方案 | `[!pathways]` |
+
+### 方法 / 公式
 
 | 触发信号 | 首选 callout |
 |---|---|
-| 步骤 / 流程 / 操作程序 / 如何 / 操作化 | `[!proc]` |
+| 研究设计 / 分析策略 / 材料处理 | `[!method-panel]` |
 | 公式 / 计算 / 推导 / 方程（单个） | `[!formula]` 或 `[!formula-step]` |
 | 多个公式 / 公式组 | `[!formula-set]` |
-| 行动路径 / 实践建议 / 操作方案 | `[!pathways]` |
-| 研究设计 / 分析策略 / 材料处理 | `[!method-panel]` |
 
 ### 表格选型
 
@@ -141,6 +156,8 @@
 | `[!finding-cards]` vs `[!evidence-grid]` | finding = 本研究的**积极结论**；evidence = 支持某主张的**证据清单** |
 | `[!timeline]` vs `[!phase]` | timeline = 逐条年份列表；phase = 有起止年代的**叙事段落** |
 | `[!contrast-table]` vs `[!tension-table]` | contrast = 两个事物整体对比；tension-table = 同一维度上两个**对立立场** |
+| `[!dimension]` vs `[!feature]` vs `[!theory-components]` | dimension = 分析**视角**（如政治/文化/经济三个角度）；feature = 并列**属性**（如政策有哪些特征）；theory-components = 理论内部**构件**（概念与机制） |
+| `[!proc]` vs `[!chain-link]` vs `[!phase]` | proc = **执行层**操作步骤（如何做）；chain-link = **逻辑层**推理步骤（前提→结论）；phase = **时间层**发展阶段 |
 | `[!dimension]` vs `[!concept-lens]` | dimension = 分析**视角/层面**（≥3）；concept-lens = 固定三联（含义/用途/边界） |
 | `[!chain-link]` vs `[!proposition-chain]` | chain-link = 叙述式推理**链节**；proposition-chain = 形式化**命题**列表 |
 | `[!implication]-` vs `[!conclusion]` | implication = 从发现**延伸出去**的后果；conclusion = 本论证的**收束** |

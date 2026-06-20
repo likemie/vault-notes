@@ -97,8 +97,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ### 知情同意书的标准构成要素
 
-> [!info] 九项标准构成要素
-> （Sarantakos, 2005; 引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+> [!info] 九项标准构成要素（Sarantakos, 2005; 引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 >
 > 1. **研究者身份**：明确说明谁在开展这项研究
 > 2. **资助机构身份**：说明研究的资助方或隶属机构
@@ -134,24 +133,10 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ---
 
-## 争议与批评
-
-> [!debate] 反对知情同意的七项论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 82–84]]）：
->
-> 1. **某些研究方法使知情同意不可能**：如隐蔽观察（Patrick 的格拉斯哥帮派研究）、涉及欺骗的实验技术（Milgram 服从权威实验）
-> 2. **知情同意可能带来霍桑效应**：告知参与者研究可能干扰其自然行为（Oliver, 2003, p. 53）
-> 3. **Wax (1982, p. 44) 的"既太多又太少"论证**：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时田野研究者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系
-> 4. **知情同意不是一次性程序**：在质性的、涌现性的研究中必须持续协商，而非一次性签署
-> 5. **破坏数据的丰富性**：寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容
-> 6. **可能导致只[[Research Security|研究安全]]主题**：正式知情同意可能导致研究只关注容易研究的主题，忽视脆弱和排斥群体。Humphreys (1975, p. 169) 回应："一个社会科学家对这个人能做的最大的伤害就是忽视他"
-> 7. **社区层面的同意问题**：Howe & Moses (1999, pp. 33–34) 认为知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的
-
----
 
 ## 操作注意事项
 
-> [!pathways] 知情同意书的实操要点
-> （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+> [!pathways] 知情同意书的实操要点（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 >
 > 1. 在邀请函中附上资助方名称，以充分披露研究背景
 > 2. 不强求参与者签署，告知参与者有权拒绝签署
@@ -165,14 +150,13 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ### 产学合作中的不对称性
 
-> [!contrast-table] 制度不对称：共同规则的大学-企业适用差异
+> [!contrast-table] 制度不对称：共同规则的大学-企业适用差异（[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）
 > | 维度 | 企业侧 | 大学侧 |
 > |---|---|---|
 > | **适用共同规则？** | **不需要**遵守，也不需要通过 [[Institutional Review Board\|IRB]] 审查和获取知情同意 | **必须**使用自己的 IRB 进行审查，按共同规则标准获取知情同意 |
 > | **资金类型** | 自有资金开展人类受试者研发 | 以企业资金开展人类受试者研究 |
 > | **灵活性** | 更大灵活性决定研究方案审查和受试者保护方式 | 受共同规则约束——只要研究符合"旨在发展或贡献可推广知识的系统性调查"即触发 IRB 义务 |
 
-（[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）
 
 > [!implication]- 实践后果
 > 1. [[University-Industry Collaboration|产学合作]]可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
@@ -183,7 +167,31 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > 一家科技公司希望赞助大学的用户体验研究，涉及人类受试者使用新软件的行为观察。公司内部研发团队做类似研究时无需 IRB 审批，直接招募测试者即可。但如果以[[Sponsored Research Agreement|赞助研究协议]]形式通过大学开展，大学 IRB 将介入——审查研究方案、要求提交知情同意书、可能要求修改数据收集程序或参与者招募方式。这一过程可能额外增加数周到数月的时间。公司如果在项目规划时未预见这一环节，可能在执行阶段遭遇严重的进度延迟（[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025]]）。
 
 ---
+## 争议与批评
 
+> [!debates] 反对知情同意的学术争议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 82–84]]）
+>
+> > [!abstract] 方法兼容性争议
+> > 核心问题是：某些研究方法的内在逻辑是否与知情同意的要求根本冲突？支持者认为知情同意是所有研究的底线程序，反对者则认为特定方法若不突破此程序将无法执行。
+> >
+> > - **Patrick（格拉斯哥帮派研究）** 隐蔽观察本质上无法事先告知参与者，否则研究对象将不复存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
+> > - **Milgram（1963）** 服从权威实验中的欺骗技术若提前告知参与者，实验情境将无法成立。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
+> > - **Oliver（2003, p. 53）** 知情同意可能带来霍桑效应——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+>
+> > [!abstract] 质性研究适用性争议
+> > 核心问题是：知情同意是否适配质性研究的[[Emergence|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
+> >
+> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时田野研究者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+> > - **持续协商派** 知情同意不是一次性程序，在质性的、涌现性的研究中必须持续协商，而非一次性签署。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+> > - **数据丰富性派** 寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 83–84)]]
+>
+> > [!abstract] 排斥与覆盖范围争议
+> 核心问题是：正式知情同意是否会导致研究回避脆弱群体和社区层面的伦理问题？
+> >
+> > - **Humphreys（1975, p. 169）** 正式知情同意可能导致研究只关注容易研究的主题，忽视脆弱和排斥群体。一个社会科学家对这个人能做的最大的伤害就是忽视他。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 84)]]
+> > - **Howe & Moses（1999, pp. 33–34）** 知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 84)]]
+
+---
 ## 相关案例／政策
 
 > [!info] 法规与守则
