@@ -60,7 +60,7 @@ publication_type: book
 title: "Organization and Strategy for University-Industry Relationships"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

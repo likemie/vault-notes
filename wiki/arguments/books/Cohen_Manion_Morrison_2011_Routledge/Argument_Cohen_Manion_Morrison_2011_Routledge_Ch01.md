@@ -10,7 +10,7 @@ publication_type: book-chapter
 title: "Research Methods in Education · Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"

@@ -8,7 +8,7 @@ aliases:
 summary: "混合方法研究方案或报告中必须包含的陈述，说明整合两类数据库的意图（为何整合）和程序（如何通过具体设计实施整合），应出现在方法部分或引言部分"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

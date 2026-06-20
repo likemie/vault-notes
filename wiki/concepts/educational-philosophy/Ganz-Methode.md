@@ -8,7 +8,7 @@ aliases:
 summary: "通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

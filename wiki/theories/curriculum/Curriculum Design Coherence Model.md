@@ -7,7 +7,7 @@ aliases:
 summary: "McPhail 提出的课程设计模型，基于社会实在论，将概念、内容和技能区分为不同类型的知识并要求在设计阶段明确其连接，以实现深层学习"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

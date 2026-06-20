@@ -8,7 +8,7 @@ aliases:
 summary: "OBrien 提出的包含数字素养、文化素养和社会沟通素养的分析框架，经 Spronken-Smith 补充环境素养后，在博士毕业生特质分类中重铸为独立域，强调全球就业环境中跨文化沟通、社会正义与环境意识的能力组合"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

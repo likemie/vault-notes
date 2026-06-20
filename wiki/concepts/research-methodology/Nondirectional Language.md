@@ -8,10 +8,10 @@ aliases:
 summary: "质性研究中不使用暗示结果方向的词语的原则，由 McCracken (1988) 提出，要求访谈者和目的陈述写作者让受访者自主描述经验，避免使用成功的、有益的、积极的等预设方向性结果的词汇"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

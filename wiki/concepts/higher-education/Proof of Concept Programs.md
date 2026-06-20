@@ -9,7 +9,7 @@ aliases:
 summary: "大学或政府资助的转化研究孵化项目，通过非稀释性小额资助与产业导师制帮助研究团队验证技术的市场可行性和商业潜力，是大学衍生企业获得早期市场输入的关键机制"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

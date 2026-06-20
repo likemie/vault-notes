@@ -7,7 +7,7 @@ aliases:
 summary: "Pavitt（1984）和 Dosi（1982）提出的概念，指不同产业沿着根本不同的路径进行技术变迁，由技术来源、用户需求和专有可能性三个因素塑造，是解释产业间创新模式差异的核心理论机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 6
+theory_related_count: 7
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"

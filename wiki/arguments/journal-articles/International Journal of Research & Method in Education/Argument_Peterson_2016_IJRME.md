@@ -8,7 +8,7 @@ publication_type: journal-article
 title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

@@ -8,10 +8,10 @@ aliases:
 summary: "实验研究中因受试者特征、实验情境或时间限制，导致研究者将样本结果错误推广到其他人群、情境或时间段的威胁因素"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/experimental
   - quantitative-research

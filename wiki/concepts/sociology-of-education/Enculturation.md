@@ -6,7 +6,7 @@ aliases:
 summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

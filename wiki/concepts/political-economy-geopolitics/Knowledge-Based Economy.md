@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育和研发作为价值创造与全球竞争核心要素的经济形态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

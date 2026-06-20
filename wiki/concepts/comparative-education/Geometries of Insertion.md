@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育的理论挑战，指分析教育思想和实践从一个语境嵌入另一个语境时所涉及的政治、伦理和结构性条件，由 Cowen (2009) 在结论中提出"
 type: concept
 domain: "comparative-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

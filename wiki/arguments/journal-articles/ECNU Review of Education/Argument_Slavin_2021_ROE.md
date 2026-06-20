@@ -10,7 +10,7 @@ publication_type: journal-article
 title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

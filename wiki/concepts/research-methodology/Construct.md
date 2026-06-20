@@ -7,7 +7,7 @@ aliases:
 summary: "变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -43,7 +43,7 @@ publication_type: book
 title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

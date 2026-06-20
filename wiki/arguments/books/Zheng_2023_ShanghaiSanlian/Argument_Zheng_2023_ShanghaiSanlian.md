@@ -8,7 +8,7 @@ publication_type: book
 title: "金榜题名之后：大学生出路分化之谜"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"

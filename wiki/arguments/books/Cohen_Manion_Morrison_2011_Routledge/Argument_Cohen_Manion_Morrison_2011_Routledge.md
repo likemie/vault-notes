@@ -10,9 +10,9 @@ publication_type: book
 title: "Research Methods in Education"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 37
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 47
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "Research Methods in Education"
 publisher: "Routledge"

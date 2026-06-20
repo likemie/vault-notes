@@ -10,7 +10,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 46
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"

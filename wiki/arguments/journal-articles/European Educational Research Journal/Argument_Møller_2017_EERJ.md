@@ -8,7 +8,7 @@ publication_type: journal-article
 title: "Leading education beyond what works"
 argument_display_title: "Leading education beyond what works"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

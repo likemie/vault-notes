@@ -5,7 +5,7 @@ aliases:
 summary: "效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

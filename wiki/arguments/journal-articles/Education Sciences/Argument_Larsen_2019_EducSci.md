@@ -8,7 +8,7 @@ publication_type: journal-article
 title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

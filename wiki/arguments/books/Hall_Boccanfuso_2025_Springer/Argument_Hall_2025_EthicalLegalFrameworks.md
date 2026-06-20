@@ -45,7 +45,7 @@ publication_type: book
 title: "Ethical relationships, legal frameworks, and agreements"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

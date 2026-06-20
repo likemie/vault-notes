@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、内部竞争规则和资本分布结构的社会空间，用于分析教育、文化和职业领域中的位置关系与权力运作。"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

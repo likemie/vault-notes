@@ -8,7 +8,7 @@ publication_type: book
 title: "Creative Tension of Sense and the Whole Approach to Knowledge and Practice"
 argument_display_title: "Creative Tension of Sense and the Whole Approach to Knowledge and Practice"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

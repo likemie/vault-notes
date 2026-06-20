@@ -4,10 +4,10 @@ aliases: ["操作化", "operationalizing research", "研究操作化"]
 summary: "将一般研究目的逐层分解为具体、可回答的研究问题或可检验的假设的过程，是研究规划中从抽象到具体的关键步骤。"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [method/research-design, source/textbook, theme/research-planning]
 related_concepts:
   - "[[Purpose Statement]]"
