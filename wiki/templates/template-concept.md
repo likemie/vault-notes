@@ -145,13 +145,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!debates] 学术争议
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 说明这个维度上各方争什么，背景与核心问题。
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 另一维度的分歧说明。
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

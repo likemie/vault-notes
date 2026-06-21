@@ -133,18 +133,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!debates] 政策争议
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 各方对政策目标是否合理、优先级是否恰当的分歧说明。
 > >
 > > - **<学者/机构名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > > - **<学者/机构名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 各方对政策工具有效性、公平性或副作用的分歧说明。
 > >
 > > - **<学者/机构名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 各方对责任分配、资源条件或地方执行偏差的分歧说明。
 > >
 > > - **<学者/机构名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

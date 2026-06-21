@@ -69,7 +69,7 @@ updated: '2026-06-21'
 ## 概念辨析
 
 > [!contrast-table] 教育目的论辨析
-> | 维度 | 教化（Bildung） | [[Visible Learning\|可见学习（Visible Learning, VL）]] | [[Learnification\|学习化（Learnification）]] |
+> | 维度 | 教化（Bildung） | [[Visible Learning\|可见的学习（Visible Learning, VL）]] | [[Learnification\|学习化（Learnification）]] |
 > |------|--------|----------------|----------------|
 > | **教育目的** | 超越预设指标，指向开放的人格形成 (pp.5-6) | 追求可测量、可见的学习效果最大化 | 强调对结果和学习过程的技术性控制 |
 > | **核心机制** | 个体与世界独立的具身交互与反思 | 以[[Effect Size\|效应量]]对教学干预进行排序 | 将教育关系转化为服务提供者与消费者的关系 |

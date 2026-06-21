@@ -2061,6 +2061,40 @@
 .theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(4)   { --dc: 200, 145, 45; }
 .theme-dark .callout[data-callout="debates"] > .callout-content > .callout:nth-child(n+5) { --dc: 150, 110, 220; }
 
+/* ─── axis（争议维度 — [!debates] 子卡，单独使用时呈中性灰蓝）─
+ *   用法：嵌套在 [!debates] 内，每张卡是一条争议维度
+ *   > > [!axis] <争议标题>
+ *   > > 描述 + 学者列表
+ * ─────────────────────────────────────────────────── */
+.callout[data-callout="axis"] {
+  --callout-color: 88, 110, 155;
+  --callout-icon: lucide-split;
+  background: linear-gradient(135deg, rgba(88, 110, 155, 0.07) 0%, rgba(88, 110, 155, 0.01) 70%),
+              var(--background-primary);
+  border: 1px solid rgba(88, 110, 155, 0.18);
+  border-left: 4px solid rgba(88, 110, 155, 0.60);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(88, 110, 155, 0.06);
+}
+.callout[data-callout="axis"] > .callout-title {
+  background: linear-gradient(90deg, rgba(88, 110, 155, 0.10), transparent);
+  border-bottom: 1px solid rgba(88, 110, 155, 0.13);
+  color: rgb(70, 92, 138);
+  font-size: 0.88em;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.callout[data-callout="axis"] > .callout-title .callout-icon {
+  color: rgb(88, 110, 155);
+}
+.theme-dark .callout[data-callout="axis"] {
+  border-left-color: rgba(130, 155, 210, 0.65);
+  border-color: rgba(130, 155, 210, 0.18);
+}
+.theme-dark .callout[data-callout="axis"] > .callout-title {
+  color: rgb(160, 185, 240);
+}
+
 /* ─── boundary（边界 — 斜条纹 + 虚框） ─────────────── */
 .callout[data-callout="boundary"] {
   --callout-color: 34, 139, 94;

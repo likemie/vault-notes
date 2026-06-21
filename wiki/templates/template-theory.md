@@ -138,18 +138,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!debates] 理论争议
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 各方对本体论、认识论或规范假设是否成立存在分歧；说明核心争点。
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 争议理论能否跨情境推广、是否忽视条件或无法解释反例。
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] <争议标题>
+> > [!axis] <争议标题>
 > > 争议操作化、测量或验证层面的可行性；说明具体困难。
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
