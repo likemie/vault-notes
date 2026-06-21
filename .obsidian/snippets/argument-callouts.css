@@ -3240,6 +3240,8 @@
   margin: 0;
 }
 .callout[data-callout="dimension"] > .callout-content > ul > li::marker { display: none; }
+/* 隐藏 Obsidian 注入的真实 DOM bullet span */
+.callout[data-callout="dimension"] .list-bullet { display: none !important; }
 
 /* 维度卡片 */
 .callout[data-callout="dimension"] > .callout-content > ul > li {
@@ -3330,15 +3332,26 @@
 /* 维度标题 — li 内首个 strong */
 .callout[data-callout="dimension"] > .callout-content > ul > li > p:first-child > strong:first-child,
 .callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-child {
-  color: rgb(72, 38, 148);
+  display: block;
+  color: rgb(88, 52, 172);
   font-weight: 700;
-  font-size: 0.94em;
-  margin-right: 0.3em;
-  background: linear-gradient(90deg, rgba(108, 72, 180, 0.14), rgba(108, 72, 180, 0.06));
-  padding: 0.08em 0.5em 0.08em 0.38em;
-  border-radius: 3px;
-  border-left: 2.5px solid rgba(108, 72, 180, 0.55);
+  font-size: 0.91em;
+  margin: 0 0 0.26rem 0;
+  padding-bottom: 0.20rem;
+  border-bottom: 1px solid rgba(108, 72, 180, 0.20);
+  letter-spacing: 0.01em;
 }
+
+/* 内容文字：strong 后的匿名文本 / 独立段落 */
+.callout[data-callout="dimension"] > .callout-content > ul > li > p {
+  font-size: 0.87em;
+  line-height: 1.62;
+  margin: 0;
+}
+.callout[data-callout="dimension"] > .callout-content > ul > li > p:not(:first-child) {
+  opacity: 0.88;
+}
+/* strong 本身不受 p opacity 影响（opacity 在 p level 不单独控制子元素），颜色已明确设置 */
 
 /* 暗模式 */
 .theme-dark .callout[data-callout="dimension"] {
@@ -3365,8 +3378,7 @@
 .theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li > p:first-child > strong:first-child,
 .theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-child {
   color: rgb(195, 162, 255);
-  background: linear-gradient(90deg, rgba(158, 120, 240, 0.18), rgba(158, 120, 240, 0.07));
-  border-left-color: rgba(158, 120, 240, 0.60);
+  border-bottom-color: rgba(158, 120, 240, 0.25);
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -7757,11 +7769,9 @@
   padding: 0 !important;
   margin: 0 !important;
 }
-/* 核弹：::marker 全属性清除 */
-.callout[data-callout="theory-components"] > .callout-content > ul > li::marker {
-  content: "" !important;
+/* Obsidian 注入的真实 DOM bullet span，必须直接隐藏 */
+.callout[data-callout="theory-components"] .list-bullet {
   display: none !important;
-  font-size: 0 !important;
 }
 
 /* 卡片：display:block 彻底清除 list-item marker box */
