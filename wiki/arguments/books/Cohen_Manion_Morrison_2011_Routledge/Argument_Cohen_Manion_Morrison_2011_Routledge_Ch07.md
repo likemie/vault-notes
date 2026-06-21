@@ -673,16 +673,17 @@ updated: 2026-06-21
 
 > [!dimension] 组织文化的三个分析层次
 >
-> - **底层价值与假设（Underlying values and assumptions）** 最深层的文化——研究者需要探测这些而非直接观察
-> - **展示价值与表现行为（Espoused values and enacted behaviours）** 组织成员表达和展现的价值和行为
-> - **人工制品（Artefacts）** 物质环境、物体、文件、语言等可见符号
+> - **底层价值与假设（Underlying values and assumptions）**
+>   最深层的文化——研究者需要探测这些而非直接观察
+> - **展示价值与表现行为（Espoused values and enacted behaviours）**
+>   组织成员表达和展现的价值和行为
+> - **人工制品（Artefacts）**
+>   物质环境、物体、文件、语言等可见符号
 
 > [!example]- 图7.2：理解组织文化的层次
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_7-2_Understanding_Levels_of_Organizational_Culture.jpg)
 
 组织文化涉及的广泛元素：价值、假设、信念、表现理论、心智模式、观察到的实践、冲突和共识领域、正式和隐藏信息、物理环境、关系、权力、控制、沟通、习俗和仪式、故事、奖励制度和动机、学校微观政治、决策参与、赋权和剥削/操纵、领导力、承诺等（p.152）。
-
----
 
 #### 4. 方法论
 
@@ -692,8 +693,6 @@ updated: 2026-06-21
 > - 为探测文化**表层之下**，需结合量化和质性方法论
 > - 将使用**混合方法论**——同时使用数字和语言数据，以收集全面、可靠的数据
 > - **调查方法**用于获取整体画面；**个体和小组访谈及焦点小组**实现更细粒度的分析
-
----
 
 #### 5. 工具
 
@@ -836,10 +835,14 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 
 > [!dimension] Furlong & Oancea 的质量四维度框架
 >
-> - **认识论维度（Epistemic dimension）** — 理论与方法论的坚实性：(a) "可信度"（[[Qualitative Validity|trustworthiness]]）；(b) "对知识的贡献"；(c) 设计与报告的"明晰性"；(d) "合宜性"（法律和伦理要求）；(e) "范式依赖性"
-> - **技术维度（Technological dimension）** — "使用价值"（value for use）：(a) "显著性/时效性"；(b) "合目的性"（purposivity）；(c) "具体性和可及性"；(d) "对促成影响的关注"；(e) "灵活性和可操作化性"
-> - **能力建设维度（Capacity building and value for people）** — (a) 伙伴关系、协作和参与；(b) "合理性"（从实践者视角）；(c) 反思与批评——发展反思性和自我反思的研究；(d) "接受性"；(e) 激励个人成长
-> - **经济维度（Economic dimension）** — (a) "成本效益"；(b) "可市场化"和"竞争力"；(c) "可审计性"；(d) "可行性"；(e) "原创性"；(f) "价值效率"
+> - **认识论维度（Epistemic dimension）**
+>   理论与方法论的坚实性：(a) "可信度"（[[Qualitative Validity|trustworthiness]]）；(b) "对知识的贡献"；(c) 设计与报告的"明晰性"；(d) "合宜性"（法律和伦理要求）；(e) "范式依赖性"
+> - **技术维度（Technological dimension）**
+>   "使用价值"（value for use）：(a) "显著性/时效性"；(b) "合目的性"（purposivity）；(c) "具体性和可及性"；(d) "对促成影响的关注"；(e) "灵活性和可操作化性"
+> - **能力建设维度（Capacity building and value for people）**
+>   (a) 伙伴关系、协作和参与；(b) "合理性"（从实践者视角）；(c) 反思与批评——发展反思性和自我反思的研究；(d) "接受性"；(e) 激励个人成长
+> - **经济维度（Economic dimension）**
+>   (a) "成本效益"；(b) "可市场化"和"竞争力"；(c) "可审计性"；(d) "可行性"；(e) "原创性"；(f) "价值效率"
 
 本章和第6章已经指示了如何在研究规划中处理这些维度（p.158）。
 
