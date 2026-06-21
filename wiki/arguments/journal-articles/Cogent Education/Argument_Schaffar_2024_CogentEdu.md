@@ -61,7 +61,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 ## 研究问题
 
@@ -185,7 +185,7 @@ updated: 2026-06-21
 > - **19世纪末至20世纪初** Herbart 的心理学教育观在芬兰占据主导地位（由 Soininen 和 Lilius 推动），注重实证教育研究。同时，Meumann 在汉堡的实验教育学实验室成为芬兰学界效仿的典范。(p.7)
 > - **20世纪中叶** 战后芬兰教育心理学经历了两十余年的行为主义霸权统治，倾向于通过外部刺激控制和测量学习行为。(p.7)
 > - **20世纪末的建构主义转向** 学界重新关注学生的自我调节（Self-regulation）与主动认知建构。(p.7)
-> - **1990年代 PhBL 模型的诞生** 赫尔辛基大学的 Rauste-von Wright 将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论融合为[[Pragmatic Paradigm|实用主义]]建构主义。她系统化了 PhBL 模型，并称其为课程的自我修正模型（Self-correcting model of curriculum），旨在打破理论与实践的传统隔阂。(pp.7–8)
+> - **1990年代 PhBL 模型的诞生** 赫尔辛基大学的 Rauste-von Wright 将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论融合为[[Pragmatic Constructivism|实用主义建构主义]]。她系统化了 PhBL 模型，并称其为课程的自我修正模型（Self-correcting model of curriculum），旨在打破理论与实践的传统隔阂。(pp.7–8)
 
 ---
 
@@ -195,7 +195,7 @@ updated: 2026-06-21
 > 在21世纪前后的全球化语境中，PhBL 被正式写入芬兰国家课程标准，这一过程深受 [[OECD]]、欧盟等国际组织软治理（Soft governance）的影响，旨在提高芬兰在国际经济中的竞争优势。(pp.8–9)
 
 > [!chain-link] 政策吸纳逻辑链
-> - **1990年代经济危机与信息社会构想** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society），积极响应 OECD 以市场劳动力需求为导向的政策话语。(p.8)
+> - **1990年代经济危机与北欧模式的冲击** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society）。面对传统[[Nordic Model of Education|北欧教育模式]]的危机，他们积极响应 OECD 以市场劳动力需求为导向的政策话语。(p.8)
 > - **[[PISA]] 夺冠与最佳模型的维持焦虑** 芬兰在 OECD 的 PISA 测试中意外名列前茅，成为[[International Education|国际教育]]效仿的对象。这种最佳（Top model）地位催生了通过持续改革维持领先优势、避免落后于竞争对手的政策话语。(pp.8–9)
 > - **国际技能标准的课程转化** 在此背景下，PhBL 的课程化被表述为对 OECD [[21st Century Skills and Competencies Discourse|21世纪技能]]（21st century skills）和欧盟横向能力（Transversal competencies）政策的直接回应。(p.9)
 
@@ -207,8 +207,8 @@ updated: 2026-06-21
 > 当代由新自由主义主导的全球教育行业（[[Global Education Industry]], GEI）强调可测量结果与绩效问责（Accountability），导致了课程知识的技能原子化（Atomisation of Skills），与 PhBL 追求的整体性、存在性价值存在不可调和的制度张力。(pp.9–10)
 
 > [!tension] 整体性教育 vs. 技能原子化
-> - **整体性与存在性学习** 现象学与教化传统主张，学习是具身、情感与伦理交互的整体旅程。PhBL 引导学生面对生活世界的复杂真实挑战（如可持续发展），鼓励批判性、开放性的共同反思（doctrina）。(pp.4, 9–10)
-> - **技能原子化与绩效问责** 全球绩效评估与问责体系要求将课程分解为细小、可测量、标准化且可交易的技能指标。学生和教师沦为政府数据中的度量衡，抹杀了学习的开放性与主体间意义（disciplina）。(pp.9–10)
+> - **整体性与存在性学习** 现象学与教化传统主张，学习是具身、情感与伦理交互的整体旅程。PhBL 引导学生面对生活世界的复杂真实挑战（如可持续发展），鼓励批判性、开放性的共同反思（[[Disciplina and Doctrina|doctrina / 教学与更新]]）。(pp.4, 9–10)
+> - **技能原子化与绩效问责** 全球绩效评估与问责体系要求将课程分解为细小、可测量、标准化且可交易的技能指标。学生和教师沦为政府数据中的度量衡，抹杀了学习的开放性与主体间意义（[[Disciplina and Doctrina|disciplina / 规训]]）。(pp.9–10)
 
 > [!warrant]- 推理桥梁：治理工具对教学理想的吞噬
 > 当 PhBL 沦为促进经济增长和证明 21世纪技能 达成度的政策工具时，其原本具备的挑战既有社会结构、促进社会正义的批判性潜能就会受到削弱。新自由主义治理系统利用标准化的技能清单将跨学科现象原子化，背叛了 PhBL 的哲学根源。(pp.9–11)
@@ -232,7 +232,7 @@ updated: 2026-06-21
 > [!finding-cards] 核心发现
 > 1. **学科建制依然稳固** 芬兰基础教育改革并未用 [[Phenomenon-Based Learning|PhBL]] 全面取代传统学科，国际上关于芬兰学校取消学科分类的报道属媒体误读。(p.2)
 > 2. **课程文本的概念隐匿** 在芬兰语核心课程文本原版中并不存在现象本位学习（PhBL）这一专属复合术语，而是通过高频使用现象（ilmiö）概念及其与其他词汇的动态组合来渗透其教学精神。(p.2)
-> 3. **[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
+> 3. **[[Pragmatic Constructivism|实用主义建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
 > 4. **新自由主义治理悖论** PhBL 的课程化过程深度卷入了 [[OECD]] 及欧盟的全球教育治理框架，导致其整体性体验理想与绩效问责下的技能原子化倾向产生持续张力。(pp.8–10)
 
 ---

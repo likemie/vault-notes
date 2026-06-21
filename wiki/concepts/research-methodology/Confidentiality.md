@@ -5,10 +5,10 @@ aliases:
   - 研究中的保密性
   - 保密承诺
   - Confidentiality
-summary: 研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一
+summary: "研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,15 +16,18 @@ tags:
   - method/research-ethics
   - theme/research-governance
 related_concepts:
+  - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
+  - "[[Deductive Disclosure]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
+  - "[[Linked File System]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-18
@@ -63,7 +66,7 @@ updated: 2026-06-22
 > - 不披露数据的子集（这些子集可能被组合以识别个人）
 
 > [!warning] 保密承诺的可信度
-> Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在敏感研究中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 101]]）。
+> Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在[[Sensitive Research|敏感研究]]中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 101]]）。
 
 ---
 
@@ -95,11 +98,11 @@ updated: 2026-06-22
 
 ## 敏感研究中的保密
 
-在[[Sensitive Research|敏感研究]]中，保密面临特殊挑战（Cohen et al., 2011, pp. 212–213）：
+在[[Sensitive Research|敏感研究]]中，保密面临特殊挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 212–213]]）：
 
 ### 链接文件系统
 
-当研究者希望在保护保密性的同时跨多个时间点收集同一参与者的数据时，Lee (1993, p. 173) 提出了[[Linked File System|链接文件系统（linked file system）]]：
+当研究者希望在保护保密性的同时跨多个时间点收集同一参与者的数据时，Lee (1993, p. 173) 提出了[[Linked File System|链接文件系统]]（linked file system）：
 
 > [!info] 三层架构
 > 1. **数据文件**：保存研究数据，为每位参与者分配任意编号
@@ -110,4 +113,4 @@ updated: 2026-06-22
 
 ### 演绎披露
 
-即使保密措施完备，仍可能出现[[Deductive Disclosure|演绎披露（deductive disclosure）]]——读者通过重新组合和拼凑数据中的细节来识别个体（Boruch & Cecil, 1979）（p. 212）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，他也将因这些特征的组合而被识别。研究者的责任是确保即使读者试图重新组合细节以识别受访者，也无法做到。
+即使保密措施完备，仍可能出现[[Deductive Disclosure|演绎披露]]（deductive disclosure）——读者通过重新组合和拼凑数据中的细节来识别个体（Boruch & Cecil, 1979）（p. 212）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，他也将因这些特征的组合而被识别。研究者的责任是确保即使读者试图重新组合细节以识别受访者，也无法做到。

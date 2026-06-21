@@ -9,14 +9,21 @@ summary: "敏感研究中通过简短描述一个人或社会情境来间接收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
   - theme/sensitive-research
   - method/interview-technique
+related_concepts:
+  - "[[Sensitive Research]]"
+  - "[[Epistemology]]"
+  - "[[Research Question]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22
@@ -26,12 +33,12 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> Vignettes 是"对一个人或社会情境的简短描述，其中精确引用被认为对受访者决策或判断过程最重要的因素"（Lee, 1993, p. 79）。在[[Sensitive Research|敏感研究]]中，vignettes 被用作一种间接提问技术——通过将注意力从参与者的个人敏感性转移到外部对象（案例或情境）上，降低威胁感并促进更诚实的回答（Cohen et al., 2011, p. 227）。
+> Vignettes 是"对一个人或社会情境的简短描述，其中精确引用被认为对受访者决策或判断过程最重要的因素"（Lee, 1993, p. 79）。在[[Sensitive Research|敏感研究]]中，vignettes 被用作一种间接提问技术——通过将注意力从参与者的个人敏感性转移到外部对象（案例或情境）上，降低威胁感并促进更诚实的回答（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 227]]）。
 
 ## 方法定位
 
-> [!method-position] 方法认识论定位
-> - **研究者角色** 研究者设计与研究问题相关的典型情境描述，并邀请参与者以多种方式做出回应。
+> [!method-position] 方法[[Epistemology|认识论]]定位
+> - **研究者角色** 研究者设计与[[Research Question|研究问题]]相关的典型情境描述，并邀请参与者以多种方式做出回应。
 > - **有效性标准** Vignettes 的有效性取决于情境描述的真实性和相关性——参与者是否将其视为可信的、与自己生活经验相关的场景。
 > - **不能回答的问题** Vignettes 收集的是参与者的判断和假设性反应（"在这种情况下你会怎么做？"），而非实际行为观察。Vignettes 的回答不能直接等同于真实行为。
 
@@ -39,7 +46,7 @@ updated: 2026-06-22
 
 > [!proc] Vignettes 的设计与使用
 > 1. **情境设计** 基于对研究领域的充分了解，设计一个简短、具体、包含关键决策因素的情境描述。
-> 2. **因素嵌入** 精确引用被认为对受访者决策最重要的因素——这些因素应来自研究问题和理论框架。
+> 2. **因素嵌入** 精确引用被认为对受访者决策最重要的因素——这些因素应来自[[Research Question|研究问题]]和理论框架。
 > 3. **投射提问** 将 vignette 呈现给参与者后，以个人化的方式提问，如"在这种情况下你会怎么做？"或"你认为这个人的做法对吗？为什么？"
 > 4. **跟进追问** 根据参与者的回答进行追问，获取更深层的判断和推理。
 
@@ -59,4 +66,4 @@ updated: 2026-06-22
 
 ## 使用此方法的研究
 
-- [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] 将 vignettes 推荐为敏感研究中降低参与者威胁感的有效提问技术（Lee, 1993, p. 79）。
+- [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] 将 vignettes 推荐为[[Sensitive Research|敏感研究]]中降低参与者威胁感的有效提问技术（Lee, 1993, p. 79）。

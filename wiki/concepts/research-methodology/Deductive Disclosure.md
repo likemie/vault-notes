@@ -7,7 +7,7 @@ aliases:
 summary: "读者通过重新组合和拼凑研究数据中的细节来识别个体参与者（个人、学校或部门）的间接身份暴露风险，敏感研究中保护参与者匿名性的关键挑战"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,13 @@ tags:
   - method/research-ethics
   - theme/sensitive-research
   - theme/data-protection
+related_concepts:
+  - "[[Rich and Thick Description]]"
+  - "[[Recommendations for Practice]]"
+related_methods:
+  - "[[Qualitative Research]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22
@@ -24,12 +31,12 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 演绎披露（deductive disclosure）指读者可以通过重新组合和拼凑研究数据中的细节来识别个体（个人、学校、部门等），即使研究者没有直接披露姓名或其他直接标识符（Boruch & Cecil, 1979）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即便不具名，他也将因这些特征的组合而被识别出来（Cohen et al., 2011, p. 212）。
+> 演绎披露（deductive disclosure）指读者可以通过重新组合和拼凑研究数据中的细节来识别个体（个人、学校、部门等），即使研究者没有直接披露姓名或其他直接标识符（Boruch & Cecil, 1979）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即便不具名，他也将因这些特征的组合而被识别出来（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 212]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 演绎披露不是直接的身份泄露，而是一种间接识别——通过组合多个看似匿名的信息片段，唯一地确定某个个体的身份。
 > - **用途** 用于提醒研究者在报告研究发现时，不仅要移除姓名等直接标识符，还要注意描述性细节的组合是否可能导致唯一识别。
-> - **边界** 演绎披露不同于直接披露（如意外发布参与者姓名），也不同于[[Confidentiality|保密性]]的破坏（后者可能来自数据管理不当而不一定涉及识别）。演绎披露即使在数据管理完全合规的情况下也可能发生。
+> - **边界** 演绎披露不同于直接披露（如意外发布参与者姓名），也不同于保密性的破坏（后者可能来自数据管理不当而不一定涉及识别）。演绎披露即使在数据管理完全合规的情况下也可能发生。
 
 ---
 
@@ -39,14 +46,14 @@ updated: 2026-06-22
 > - **信息唯一性** 某个特征组合在特定群体中是唯一的（如"50 岁男生物教师"）。
 > - **信息可重组性** 读者可以从报告中提取多个特征并组合。
 > - **小群体效应** 群体越小，特征组合就越容易指向唯一个体。
-> - **丰富描述的风险** 质性研究中的厚描述（thick description）虽然增强了研究的可信度，但也增加了演绎披露的风险。
+> - **丰富描述的风险** [[Qualitative Research|质性研究]]中的[[Rich and Thick Description|厚描述]]（thick description）虽然增强了研究的可信度，但也增加了演绎披露的风险。
 
 ---
 
 ## 应对策略
 
-> [!tip] 预防演绎披露的实践建议
-> 研究者应在发表前审查研究报告中的描述性细节，确保即使读者试图重新组合细节以识别受访者，也无法做到（Cohen et al., 2011, p. 212）。具体做法包括：
+> [!tip] 预防演绎披露的[[Recommendations for Practice|实践建议]]
+> 研究者应在发表前审查研究报告中的描述性细节，确保即使读者试图重新组合细节以识别受访者，也无法做到（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 212]]）。具体做法包括：
 > 1. 修改或模糊化可能唯一识别个体的特征组合
 > 2. 对人口统计学信息进行区间化处理（如"40-55 岁"而非"50 岁"）
 > 3. 交叉检查——让不熟悉数据的同事尝试"推测"参与者身份

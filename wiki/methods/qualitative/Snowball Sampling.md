@@ -11,9 +11,9 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
@@ -23,12 +23,15 @@ related_concepts:
   - "[[Sampling Frame]]"
   - "[[Policy Network]]"
   - "[[Gatekeepers]]"
+  - "[[Sensitive Research]]"
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
+  - "[[Convenience Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
@@ -81,11 +84,11 @@ updated: 2026-06-22
 
 ### 敏感研究中的滚雪球抽样
 
-在[[Sensitive Research|敏感研究]]中，滚雪球抽样（Lee, 1993 称为"网络化 networking"）具有特殊价值（Cohen et al., 2011, pp. 204–205）：
+在[[Sensitive Research|敏感研究]]中，滚雪球抽样（Lee, 1993 称为"网络化 networking"）具有特殊价值（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 204–205]]）：
 
-- **绕过守门人**：Morrison (2006) 报告了研究者广泛使用非正式网络来绕过拒绝准入的[[Gatekeepers|守门人]]——通过朋友和专业同事的网络逐层扩展接触面，从而回避正式的学校联系渠道（p. 204）。
+- **绕过[[Gatekeepers|守门人]]**：Morrison (2006) 报告了研究者广泛使用非正式网络来绕过拒绝准入的[[Gatekeepers|守门人]]——通过朋友和专业同事的网络逐层扩展接触面，从而回避正式的学校联系渠道（p. 204）。
 - **安全机制**：Lee (1993) 指出，滚雪球抽样内建了"安全性"——每个新联系人都是已知且被信任的，降低了研究者和参与者的风险。
-- **代价**：使用滚雪球抽样可能将随机、分层或比例抽样转变为便利抽样，损害可推广性。但往往面临的选择是"接受非概率策略"或"什么都不做"（pp. 204–205）。
+- **代价**：使用滚雪球抽样可能将随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，损害可推广性。但往往面临的选择是"接受非概率策略"或"什么都不做"（pp. 204–205）。
 - **同质性偏差**：滚雪球样本内的关系可能由"互惠性和传递性"构成（Lee, 1993, p. 67）——参与者之间关系紧密且不愿打破这些关系，可能导致样本属性的同质性。
 
 > [!evidence-grid-a] 相关研究索引

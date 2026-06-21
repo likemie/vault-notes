@@ -8,7 +8,7 @@ aliases:
 summary: "研究现场中提供研究准入并允许或批准研究进行的个体，质性研究中获得守门人许可是一项关键的准入步骤"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,9 @@ tags:
 related_concepts:
   - "[[Access and Acceptance in Research]]"
   - "[[Informed Consent]]"
+  - "[[Sensitive Research]]"
+  - "[[Research Problem]]"
+  - "[[Sponsor in Research]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -27,7 +30,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -82,7 +85,7 @@ Oliver (2003, p. 39) 强调，守门人比研究者有更多利害关系——�
 
 ## 敏感研究中的守门人
 
-在[[Sensitive Research|敏感研究]]中，守门人扮演的角色更为复杂（Cohen et al., 2011, pp. 205–208）：
+在[[Sensitive Research|敏感研究]]中，守门人扮演的角色更为复杂（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 205–208]]）：
 
 > [!factors] 敏感研究中守门人的行为特征
 > - **风险规避与控制** 守门人可能希望避免、限制、分散或控制风险，因此可能禁止准入或设置条件性准入（Morrison, 2006）。
@@ -92,17 +95,17 @@ Oliver (2003, p. 39) 强调，守门人比研究者有更多利害关系——�
 > - **成果控制** 守门人可能希望"检查、修改或压制已发表的研究成果"（Lee, 1993, p. 128）。
 > - **利益交换** 守门人可能希望利用研究为自身目的服务——例如要求研究者纳入守门人感兴趣的领域，或直接（甚至排他性地）向守门人报告。
 
-Morrison (2006) 在敏感教育研究中发现了十五项守门人相关问题：获得学校和教师准入的困难、校长对研究的抵触、参与者审查可用数据、学校和机构不希望被识别（即使给出保护保证）、教师害怕被识别或追溯、教师因工作量而不愿参与、校长不经咨询员工就决定是否参与、学校害怕批评或声誉损失、研究议题本身的敏感性、研究者权力地位的影响等（pp. 205–206）。
+Morrison (2006) 在敏感教育研究中发现了十五项守门人相关问题：获得学校和教师准入的困难、校长对研究的抵触、参与者审查可用数据、学校和机构不希望被识别（即使给出保护保证）、教师害怕被识别或追溯、教师因工作量而不愿参与、校长不经咨询员工就决定是否参与、学校害怕批评或声誉损失、[[Research Problem|研究议题]]本身的敏感性、研究者权力地位的影响等（pp. 205–206）。
 
 > [!tip] Lee 的建议：让步优于放弃
 > Lee (1993, p. 127) 建议，研究者可能需要做出一些让步——做一点守门人要求的事，总比根本无法做研究要好。但这必须在不可协商的伦理底线之内。
 
 ### 守门人与担保人的区别
 
-守门人与[[Sponsor in Research|担保人（sponsor）]]是两种不同的角色（pp. 207–208）：
+守门人与担保人（sponsor）是两种不同的角色（pp. 207–208）：
 
 > [!contrast-table] 守门人 vs 担保人
-> | 维度 | [[Gatekeepers|守门人]] | [[Sponsor in Research|担保人]] |
+> | 维度 | [[Gatekeepers\|守门人]] | [[Sponsor in Research\|担保人]] |
 > |---|---|---|
 > | 位置 | 通常在群体外部，控制准入之门 | 在群体内部，是群体的自然成员 |
 > | 功能 | 控制准入和再准入（可能批准或阻止） | 提供准入、信息和支持 |

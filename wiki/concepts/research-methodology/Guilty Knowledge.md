@@ -6,13 +6,20 @@ aliases:
 summary: "研究者在敏感研究中因接触越轨群体或知晓敏感信息而持有的、可能给研究者和参与者带来个人与职业风险的知识"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/sensitive-research
+related_concepts:
+  - "[[Sensitive Research]]"
+  - "[[Confidentiality]]"
+  - "[[Research Ethics]]"
+  - "[[Covert Research]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22
@@ -22,12 +29,12 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 有罪知识（guilty knowledge）指研究者在敏感研究中，因接触越轨群体或秘密行为而持有的、可能给研究者和参与者双方带来个人与职业风险的知识（De Laine, 2000, p. 67）。这一概念与 Klockars (1979) 的"肮脏之手（dirty hands）"密切相关——研究者在知晓越轨行为或反态度时，自身也陷入了伦理困境（Cohen et al., 2011, p. 209）。
+> 有罪知识（guilty knowledge）指研究者在[[Sensitive Research|敏感研究]]中，因接触越轨群体或秘密行为而持有的、可能给研究者和参与者双方带来个人与职业风险的知识（De Laine, 2000, p. 67）。这一概念与 Klockars (1979) 的"肮脏之手（dirty hands）"密切相关——研究者在知晓越轨行为或反态度时，自身也陷入了伦理困境（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 209]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 有罪知识描述的是研究者作为信息持有者所处的困境：知晓了可能伤害他人、违法或违背公共利益的信息，但披露这些信息又可能破坏研究关系、违背保密承诺或危及自身安全。
+> - **含义** 有罪知识描述的是研究者作为信息持有者所处的困境：知晓了可能伤害他人、违法或违背公共利益的信息，但披露这些信息又可能破坏研究关系、违背[[Confidentiality|保密承诺]]或危及自身安全。
 > - **用途** 用于分析敏感研究中研究者的伦理决策困境——研究者需要在"为获取研究知识而什么都不做"与"采取行动保护他人或公共利益"之间做出选择。
-> - **边界** 有罪知识不同于一般的研究伦理问题——它涉及对违法或严重违规行为的知晓，而非一般的敏感信息。它也不同[[Covert Research|隐蔽研究]]中的欺骗——有罪知识是研究过程中被动获取的，而非研究者主动设计的。
+> - **边界** 有罪知识不同于一般的[[Research Ethics|研究伦理]]问题——它涉及对违法或严重违规行为的知晓，而非一般的敏感信息。它也不同[[Covert Research|隐蔽研究]]中的欺骗——有罪知识是研究过程中被动获取的，而非研究者主动设计的。
 
 ---
 
@@ -44,8 +51,8 @@ updated: 2026-06-22
 ## 应用案例
 
 > [!case] 经典案例
-> - **Patrick (1973) 的格拉斯哥帮派研究** 研究者目睹了一起谋杀——应报告警方从而暴露身份，还是保持沉默以维持与帮派的接触？后者违反法律（Cohen et al., 2011, p. 209）。
-> - **教师访谈中的有罪知识** 在访谈教师关于校长领导力时，受访者透露校长与某位家长有性关系，或有酗酒问题。研究者应当如何处理这些信息？（Cohen et al., 2011, p. 209）。
+> - **Patrick (1973) 的格拉斯哥帮派研究** 研究者目睹了一起谋杀——应报告警方从而暴露身份，还是保持沉默以维持与帮派的接触？后者违反法律（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 209]]）。
+> - **教师访谈中的有罪知识** 在访谈教师关于校长领导力时，受访者透露校长与某位家长有性关系，或有酗酒问题。研究者应当如何处理这些信息？（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 209]]）。
 > - **De Laine (2000)** 指出有罪知识可能来自同事——研究者在学校中接触到关于同事的敏感信息，带来个人和职业风险（p. 67）。
 
 > [!warning] 伦理警示

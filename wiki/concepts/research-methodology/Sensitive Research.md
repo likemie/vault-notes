@@ -8,13 +8,19 @@ aliases:
 summary: "可能对参与或曾参与其中的人构成实质性威胁的研究，其敏感性主要来源于研究的社会情境而非话题本身，涵盖侵入性威胁、越轨与社会控制、政治联盟三大类"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/sensitive-research
+related_concepts:
+  - "[[Evaluation Research]]"
+related_methods:
+  - "[[Qualitative Research]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22
@@ -24,7 +30,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 敏感研究（sensitive research）指"可能对已经或曾经参与其中的人构成实质性威胁"的研究（Lee, 1993, p. 4），或者指被研究对象以某种方式视为不受欢迎的研究（Van Meter, 2000）。敏感研究的核心判断标准是：研究对参与者和利益相关者可能产生的后果和威胁程度（Cohen et al., 2011, pp. 199–202）。
+> 敏感研究（sensitive research）指"可能对已经或曾经参与其中的人构成实质性威胁"的研究（Lee, 1993, p. 4），或者指被研究对象以某种方式视为不受欢迎的研究（Van Meter, 2000）。敏感研究的核心判断标准是：研究对参与者和利益相关者可能产生的后果和威胁程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 199–202]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 敏感研究不是一种特定的研究方法或设计，而是任何教育研究中都可能存在的属性——所有教育研究都或多或少是敏感的，差别只在程度。敏感性的核心不在于话题本身，而在于话题与研究在其中进行的社会情境之间的关系。
@@ -33,7 +39,7 @@ updated: 2026-06-22
 
 > [!boundary] 不是敏感研究
 > - 不是只有涉及禁忌话题（如性、犯罪、暴力）的研究才是敏感研究
-> - 不是只有质性研究才涉及敏感性——量化调查同样可能触发参与者的敏感反应
+> - 不是只有[[Qualitative Research|质性研究]]才涉及敏感性——量化调查同样可能触发参与者的敏感反应
 > - 不是话题"客观上"敏感才敏感——对研究者看似无害的话题，对研究对象可能高度敏感
 
 ---
@@ -42,7 +48,7 @@ updated: 2026-06-22
 
 ### 敏感性的十一种来源
 
-Lee (1993) 和后续研究者总结了敏感性的多种来源（Cohen et al., 2011, pp. 199–201）：
+Lee (1993) 和后续研究者总结了敏感性的多种来源（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 199–201]]）：
 
 > [!factors] 敏感性的来源
 > - **对参与者的后果** 研究可能带来心理、社会或职业上的负面后果（Sieber & Stanley, 1988）。
@@ -59,7 +65,7 @@ Lee (1993) 和后续研究者总结了敏感性的多种来源（Cohen et al., 2
 
 ### Lee 的三类敏感研究
 
-Lee (1993, p. 4) 将敏感研究归纳为三大类（Cohen et al., 2011, pp. 201–202）：
+Lee (1993, p. 4) 将敏感研究归纳为三大类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 201–202]]）：
 
 > [!feature] 三大类敏感研究
 > - **侵入性威胁（Intrusive threat）** 探究"私密、紧张或神圣"的领域。
@@ -73,12 +79,12 @@ Lee (1993, p. 4) 将敏感研究归纳为三大类（Cohen et al., 2011, pp. 201
 ## 围绕概念形成的命题
 
 > [!claim] 核心命题：社会情境而非话题本身决定敏感性
-> 使研究变得敏感的不是话题列表，而是"该话题与研究在其中进行的社会情境之间的关系"（Lee, 1993, p. 5）。因此，与其列出一份敏感话题清单，不如关注研究过程中敏感性产生的条件。对研究者看似平淡中立的研究，可能在参与者心中引发深层敏感性（Cohen et al., 2011, p. 230）。
+> 使研究变得敏感的不是话题列表，而是"该话题与研究在其中进行的社会情境之间的关系"（Lee, 1993, p. 5）。因此，与其列出一份敏感话题清单，不如关注研究过程中敏感性产生的条件。对研究者看似平淡中立的研究，可能在参与者心中引发深层敏感性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 230]]）。
 
 > [!implication]- 对研究实践的后果
 > 1. 研究者应将大多数教育研究视为潜在敏感的，并主动识别和应对这些敏感性
 > 2. 研究设计不是纯粹的技术问题，而是人际关系的持续协商、微妙关系的建立与维持、挫折、修正和妥协的过程
-> 3. 研究者需要评估研究对多方面利益相关者的可能影响：校长、家长、学生、学校、董事会、政策制定者、研究者群体、政府官员、社区、社工等
+> 3. 研究者需要[[Evaluation Research|评估研究]]对多方面利益相关者的可能影响：校长、家长、学生、学校、董事会、政策制定者、研究者群体、政府官员、社区、社工等
 > 4. 在封闭社会或极权体制中，教育研究活动本身可能就是敏感行为（Morrison, 2006）
 
 ---

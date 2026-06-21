@@ -525,6 +525,16 @@
     ]
   },
   {
+    "title": "Nordic Model of Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Nordic Model of Education.md",
+    "aliases": [
+      "北欧教育模式",
+      "北欧模式",
+      "Nordic educational model"
+    ]
+  },
+  {
     "title": "Normal School",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Normal School.md",
@@ -993,6 +1003,17 @@
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
     "aliases": [
       "复杂性缩减"
+    ]
+  },
+  {
+    "title": "Disciplina and Doctrina",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md",
+    "aliases": [
+      "规训与教学",
+      "知识的规训与更新",
+      "disciplina",
+      "doctrina"
     ]
   },
   {
@@ -6691,6 +6712,16 @@
     "aliases": [
       "波普尔三世界理论",
       "三世界理论"
+    ]
+  },
+  {
+    "title": "Pragmatic Constructivism",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Pragmatic Constructivism.md",
+    "aliases": [
+      "实用主义建构主义",
+      "课程自我修正模型",
+      "Self-correcting model of curriculum"
     ]
   },
   {

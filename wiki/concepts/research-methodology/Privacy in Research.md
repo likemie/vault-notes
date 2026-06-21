@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理中保护参与者个人信息的核心权利，涉及信息敏感性、观察场所私密性和信息传播三个维度，是参与者自决权和尊严保护的基础"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
   - "[[Bildung]]"
+  - "[[Sensitive Research]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
@@ -27,7 +28,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-06-18
@@ -99,7 +100,7 @@ updated: 2026-06-22
 
 ## 敏感研究中的隐私
 
-在[[Sensitive Research|敏感研究]]中，隐私与公共利益的张力尤为尖锐（Cohen et al., 2011, pp. 213–214）：
+在[[Sensitive Research|敏感研究]]中，隐私与公共利益的张力尤为尖锐（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 213–214]]）：
 
 > [!tension] 隐私 vs 公共知情权
 > - **隐私优先** 个人有权不让私人信息进入公共领域。即使研究能揭示重要的公共问题，也不能以侵犯个人隐私为代价。Simons (2000, p. 45) 在反思敏感研究的代价时直言"代价太高了"。
