@@ -4,7 +4,7 @@ aliases: ["操作化", "operationalizing research", "研究操作化"]
 summary: "将一般研究目的逐层分解为具体、可回答的研究问题或可检验的假设的过程，是研究规划中从抽象到具体的关键步骤。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Abstract]]"
   - "[[Research Question]]"
+  - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
@@ -69,7 +70,7 @@ updated: 2026-06-21
 操作化的另一种形式是将[[Purpose Statement|研究目的]]转化为可检验的假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
 
 > [!feature] 好假设在操作化层面的特征
-> - **方向性清晰** 方向性假设陈述两个条件或两组参与者之间差异或关系的方向；非方向性假设仅预测存在差异或关系，不陈述方向。方向性假设通常用于已有研究或理论提示发现可能走向特定方向的情境（p.129）。
+> - **方向性清晰** [[Directional and Non-directional Hypotheses|方向性假设]]陈述两个条件或两组参与者之间差异或关系的方向；非方向性假设仅预测存在差异或关系，不陈述方向。方向性假设通常用于已有研究或理论提示发现可能走向特定方向的情境（p.129）。
 > - **可检验形式** 以使得研究者能够清晰设计研究来检验假设的方式撰写（p.130）。
 > - **可测量结果** 以可产生可测量结果的形式撰写。例如，"人们在安静条件下比在有噪音条件下工作更好"需要定义"工作更好"（如"在数学测试中获得更高分数"）、"安静"（如"静音"）和"有噪音"（如"有音乐在播放"）。完全操作化的假设变为：人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数（p.130）。
 

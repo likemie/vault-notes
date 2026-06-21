@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中理论作为研究终点的运用方式，指从数据归纳生成的理论模型、模式或概括出现在研究末尾，是质性研究归纳逻辑的最终产物"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Naturalistic Generalization]]"
+  - "[[Directional and Non-directional Hypotheses]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -63,7 +64,7 @@ updated: 2026-05-31
 - **模式理论（pattern theories）**：Lincoln & Guba (1985) 将自然主义或[[Qualitative Research|质性研究]]中发展的解释称为"模式理论"。与[[Quantitative Research|量化研究]]中的演绎形式不同，这些模式理论或概括代表相互关联的思想或部分连接为整体。
 
 > [!example]
-> Creswell & Brown (1992) 使用 33 次与学术部门主任的访谈数据，发展了关于系主任对学术绩效影响的扎根理论。理论部分作为文章的最后一节出现，其中呈现了归纳发展出的视觉模型和方向性假设，并将参与者结果与其他研究及文献中的理论讨论进行了比较。
+> Creswell & Brown (1992) 使用 33 次与学术部门主任的访谈数据，发展了关于系主任对学术绩效影响的扎根理论。理论部分作为文章的最后一节出现，其中呈现了归纳发展出的视觉模型和[[Directional and Non-directional Hypotheses|方向性假设]]，并将参与者结果与其他研究及文献中的理论讨论进行了比较。
 
 ## 概念辨析
 

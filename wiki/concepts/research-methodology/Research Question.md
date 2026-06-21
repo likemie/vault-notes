@@ -6,7 +6,7 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化研究问题与假设、质性研究问题、混合方法研究问题三种路径，以及30种问题类型谱系和无研究问题的边界情况"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Null Hypothesis]]"
   - "[[Research Writing Script]]"
+  - "[[Directional and Non-directional Hypotheses]]"
   - "[[Central Question]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
@@ -117,7 +118,7 @@ updated: 2026-06-20
 > [!tip] [[Research Writing Script|写作脚本]]
 > 描述性量化研究问题：What is the frequency and variation of scores on [变量] for [参与者] in the study?
 >
-> 关系型量化研究问题与方向性假设：[理论] posits that [解释变量间关系]。It is thus predicted that there will be a relationship between [预测变量] and [结果变量], such that [解释效应的方向]。
+> 关系型量化研究问题与[[Directional and Non-directional Hypotheses|方向性假设]]：[理论] posits that [解释变量间关系]。It is thus predicted that there will be a relationship between [预测变量] and [结果变量], such that [解释效应的方向]。
 
 ---
 

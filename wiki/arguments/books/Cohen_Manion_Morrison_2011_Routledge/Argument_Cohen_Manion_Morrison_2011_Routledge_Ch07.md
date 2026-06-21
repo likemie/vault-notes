@@ -11,7 +11,7 @@ title: "Research Methods in Education · Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -47,8 +47,10 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Construct]]"
   - "[[Research Scope]]"
+  - "[[Front-loaded and End-loaded Research]]"
   - "[[Hypothesis]]"
   - "[[Research Utilization]]"
+  - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
@@ -319,7 +321,7 @@ updated: 2026-06-21
 
 #### 前载型与后载型研究
 
-> [!contrast-table] 前载型 vs 后载型研究
+> [!contrast-table] 前载型 vs [[Front-loaded and End-loaded Research|后载型研究]]
 > | 维度 | 前载型（Front-loaded） | 后载型（End-loaded） |
 > |---|---|---|
 > | 设置阶段 | 耗时较长（开发、试点和测试工具） | 可能不太耗时 |
@@ -374,7 +376,7 @@ updated: 2026-06-21
 
 #### Box 7.2 文献综述中的信息类型
 
-> [!col1-table] Box 7.2：文献综述中的信息类型
+> [!index-table] Box 7.2：文献综述中的信息类型
 > | 类别 | 具体内容 |
 > |---|---|
 > | **书籍** | 精装/平装和电子书 |
@@ -501,7 +503,7 @@ updated: 2026-06-21
 
 #### 假设的操作化
 
-> [!contrast-table] 方向性假设 vs 非方向性假设
+> [!contrast-table] [[Directional and Non-directional Hypotheses|方向性假设]] vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |
 > |---|---|---|
 > | 陈述方式 | 陈述差异或关系的**种类或方向**（如"当学生受到内在激励时，表现会提高"） | 仅预测**存在**差异或关系，不陈述方向（如"学生表现因其内在激励水平不同而存在差异"） |

@@ -4,7 +4,7 @@ aliases: [研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -12,22 +12,23 @@ tags: [subject/research-methodology, paradigm/positivist]
 related_concepts:
   - "[[Variable]]"
   - "[[Reflexivity]]"
-  - "[[Null Hypothesis]]"
-  - "[[Alternative Hypothesis]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
+  - "[[Directional and Non-directional Hypotheses]]"
+  - "[[Null Hypothesis]]"
+  - "[[Alternative Hypothesis]]"
   - "[[Operationalization]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Methods in Education · Ch07]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: high
 status: draft
 created: 2026-06-14
@@ -41,14 +42,14 @@ updated: 2026-06-21
 > Kerlinger（1970）将假设定义为两个或多个[[Variable|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.138–140]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 假设是对变量间关系的有根据预测，它既是理论的检验工具，也是经验研究的逻辑起点。在量化研究中连接理论与数据。
+> - **含义** 假设是对变量间关系的有根据预测，它既是理论的检验工具，也是经验研究的逻辑起点。在[[Quantitative Research|量化研究]]中连接理论与数据。
 > - **用途** 假设为研究提供方向性框架，决定研究设计、数据收集和统计检验的类型。
-> - **边界** 假设不是研究问题——研究问题提问，假设预测答案。假设不等同于理论——理论是系统的解释框架，假设是理论的一个可检验推论。
+> - **边界** 假设不是[[Research Question|研究问题]]——研究问题提问，假设预测答案。假设不等同于理论——理论是系统的解释框架，假设是理论的一个可检验推论。
 
 > [!boundary]- 概念边界
 > - 不等于 [[Research Question|研究问题]]：研究问题就变量间关系提问，假设对变量间关系做出方向性预测并通过统计检验
 > - 不等于 [[Purpose Statement|目的陈述]]：目的陈述说明研究总体意图，假设将意图转化为可检验的具体预测
-> - 不适用于纯粹的描述性研究、探索性质性研究（这些研究可能不预设假设）
+> - 不适用于纯粹的描述性研究、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
 
 > [!citation-card]- Medawar 论假设的创造性本质
 > 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972: 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
@@ -59,13 +60,13 @@ updated: 2026-06-21
 
 ## 概念辨析
 
-> [!contrast-table] 假设 vs 研究问题
+> [!contrast-table] 假设 vs [[Research Question|研究问题]]
 > | 维度 | 假设（Hypothesis） | [[Research Question\|研究问题]] |
 > |---|---|---|
-> | 认知功能 | 预测变量间关系的方向 | 就变量间关系提问 |
+> | 认知功能 | 预测[[Variable\|变量]]间关系的方向 | 就变量间关系提问 |
 > | 形式 | 陈述句 | 疑问句 |
 > | 统计处理 | 经统计检验被支持或拒绝 | 经数据收集被回答 |
-> | 适用范式 | 主要适用于[[Quantitative Research|量化研究]] | 量化、质性、混合方法均适用 |
+> | 适用范式 | 主要适用于[[Quantitative Research\|量化研究]] | 量化、质性、混合方法均适用 |
 
 ---
 
@@ -97,7 +98,7 @@ updated: 2026-06-21
 
 Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）：
 
-> [!contrast-table] 方向性假设 vs 非方向性假设
+> [!contrast-table] [[Directional and Non-directional Hypotheses|方向性假设]] vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |
 > |---|---|---|
 > | 陈述方式 | 陈述差异或关系的**种类或方向**（如"当学生受到内在激励时，表现会提高"） | 仅预测**存在**差异或关系，不陈述方向（如"学生表现因其内在激励水平不同而存在差异"） |
@@ -120,7 +121,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 
 ### 零假设与备择假设
 
-在正式假设检验语言中，假设有两种基本形式。零假设与备择假设构成一对逻辑上互斥的命题，通过统计检验在二者之间做出判断（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）：
+在正式假设检验语言中，假设有两种基本形式。[[Null Hypothesis|零假设]]与[[Alternative Hypothesis|备择假设]]构成一对逻辑上互斥的命题，通过统计检验在二者之间做出判断（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）：
 
 > [!contrast-table] 零假设 vs 备择假设
 > | 维度 | [[Null Hypothesis\|零假设]]（H₀） | [[Alternative Hypothesis\|备择假设]]（H₁） |
@@ -170,7 +171,7 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 ---
 ### 假设在理论发展中的角色
 
-理论的发展过程与假设的反复检验密不可分。研究者将自变量、中介变量和因变量组合为预测性陈述（即假设）。当研究者在不同情境和不同人群中反复检验此类假设时，一个理论便逐渐浮现并被赋予名称（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]]）。
+理论的发展过程与假设的反复检验密不可分。研究者将自[[Variable|变量]]、中介变量和因变量组合为预测性陈述（即假设）。当研究者在不同情境和不同人群中反复检验此类假设时，一个理论便逐渐浮现并被赋予名称（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]]）。
 
 研究者在研究方案中以多种方式陈述理论，假设是其中最基本的形式之一（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.57–60]]）：
 
@@ -186,5 +187,5 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/非方向性假设区分、假设操作化程序和中介变量
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及量化研究问题与假设的区分
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses|非方向性假设]]区分、假设[[Operationalization|操作化]]程序和中介[[Variable|变量]]
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research|量化研究]]问题与假设的区分

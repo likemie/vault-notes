@@ -4,25 +4,32 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"
   - "[[Research Topic]]"
   - "[[Inverted Triangle Literature Search]]"
+  - "[[Research Question]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct]]"
   - "[[Abstract]]"
-  - "[[Deficiencies in Past Literature]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
+  - "[[Meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EPPI-Centre]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Australian Council for Educational Research]]"
+  - "[[OECD]]"
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Research Methods in Education · Ch07]]"
 confidence: medium
 status: draft
 created: 2026-06-21
@@ -41,19 +48,33 @@ updated: 2026-06-21
 > - **边界** 文献检索不等同于文献综述——检索是收集材料的过程，综述是对材料进行论证组织的结果。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Literature Review|文献综述]] — 检索产出文献列表、摘要或文献地图；综述产出有论证结构的文本。
+> - 不等于 [[Literature Review|文献综述]] — 检索产出文献列表、摘要或[[Literature Map|文献地图]]；综述产出有论证结构的文本。
 > - 不等于 [[Inverted Triangle Literature Search|倒三角文献检索]] — 后者是一种特定的检索策略模型，适用于从宽泛到聚焦的渐进式搜索。
-> - 不适用于 — 直接回答研究问题（检索定位已有知识，回答研究问题需要原始数据收集和分析）。
+> - 不适用于 — 直接回答[[Research Question|研究问题]]（检索定位已有知识，回答研究问题需要原始数据收集和分析）。
+
+## 检索的论证目的
+
+文献检索不是一个孤立的操作步骤，而是一连串论证目的的逻辑起点。Cohen et al. 在 Ch.7 中阐述了这一目的链条（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.126–127]]）：
+
+> [!chain-link] 文献检索→论证的推进逻辑
+> - **奠基信度与效度**
+>   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity in Quantitative Measurement|构念效度]]和内容效度基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
+> - **建立理论框架**
+>   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct|构念]]和概念。
+> - **识别关键议题与空白**
+>   文献检索设定领域中需要探索的关键议题及为什么它们是关键议题，识别需要填补的空白。
+> - **贡献主题性与重要性**
+>   所有这一切贡献于研究的可信度、效度、主题性和重要性，并作为进入研究的跳板。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 文献检索 vs 文献综述
+> [!contrast-table] 文献检索 vs [[Literature Review|文献综述]]
 > | 维度 | 文献检索 | [[Literature Review\|文献综述]] |
 > |---|---|---|
 > | 本质 | 技术性操作 | 论证性写作 |
-> | 产出 | 文献列表、摘要、文献地图 | 有组织、有论证发展的文本 |
+> | 产出 | 文献列表、摘要、[[Literature Map\|文献地图]] | 有组织、有论证发展的文本 |
 > | 核心能力 | 检索策略、数据库操作、来源判断 | 批判性综合、论证构建 |
 > | 关系 | 服务于综述的论证需要 | 依赖检索提供材料 |
 
@@ -71,7 +92,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > 3. **初步定位约 50 篇文献** 优先搜索期刊文章和书籍，因为它们易于定位和获取
 > 4. **浏览并筛选** 快速浏览已收集的文章或章节，收集最核心的文献
 > 5. **设计[[Literature Map|文献地图]]** 制作文献的视觉化图示，展示文献的分组方式
-> 6. **撰写[[Abstract|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的文献综述
+> 6. **撰写[[Abstract|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的[[Literature Review|文献综述]]
 > 7. **组织文献综述** 按主题或核心概念结构化组织，以主要主题的总结结尾
 
 > [!tip] 迭代搜索策略
@@ -79,9 +100,123 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 ---
 
-### 网络检索技巧
+### 网络检索
 
-在互联网上检索文献是保持全球研究进展和获取数据的重要途径（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）：
+互联网上研究数据的存储和检索不仅让研究者保持对全球发展的跟进，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity in Quantitative Measurement|构念效度]]和内容效度。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索——如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
+
+互联网是大量无序且大多未经审查的材料库，研究者需要通过试错和偶然发现来寻找信息，单独或组合使用关键词（放在引号内）。书签系统能实现网站的快速检索以备将来参考——考虑到某些互联网连接速度慢且网上大量材料毫无帮助，这几乎是必要的（p.131）。
+
+#### 网络资源类别
+
+Cohen et al. 按功能列出了大量教育研究相关网站（pp.129–131），以下按原书分类整理：
+
+> [!col1-table]- 研究协会网站
+> | 组织 | 网址 |
+> |---|---|
+> | AERA（American Educational Research Association） | www.aera.net |
+> | ERIC（Educators' Reference Desk） | www.eduref.org |
+> | ACER（Australian Council for Educational Research） | www.acer.edu.au |
+> | BERA（British Educational Research Association） | www.bera.ac.uk |
+> | SCRE（Scottish Council for Research in Education） | scre.ac.uk |
+> | EERA（European Educational Research Association） | www.eera.ac.uk |
+> | CEM（Curriculum Evaluation and Management Centre） | www.cem.dur.ac.uk |
+> | NFER（National Foundation for Educational Research, UK） | www.nfer.ac.uk |
+> | HKERA（Hong Kong Educational Research Association） | www.fed.cuhk.edu.hk/~hkera |
+> | WERA（Washington Educational Research Association） | www.wera-web.org |
+> | MSERA（mid-South Educational Research Association, USA） | www.msstate.edu/org/msera |
+> | ESRC（Economic and Social Research Council, UK） | www.esrc.ac.uk |
+
+> [!col1-table]- 期刊索引与参考文献网站
+> | 资源 | 网址 |
+> |---|---|
+> | British Education Index | www.leeds.ac.uk/bei |
+> | Sage Publications | www.sagepub.co.uk |
+> | Intute（多源信息数据库） | www.intute.ac.uk |
+> | Taylor & Francis Journals | www.tandf.co.uk/journals |
+> | Educational Research Abstracts Online | www.tandf.co.uk/era |
+> | BUBL（UK 高等教育信息服务） | bubl.ac.uk |
+> | SOSIG（Social Science Information Gateway） | www.sosig.ac.uk |
+> | Web of Science（含 SSCI, SCI, AHCI） | wos.mimas.ac.uk |
+
+> [!col1-table]- 政府与统计网站
+> | 资源 | 网址 |
+> |---|---|
+> | UK National Statistics | www.statistics.gov.uk |
+> | UK Department for Children, Schools and Families | www.dcsf.gov.uk |
+> | UK Higher Education Statistics Agency | www.hesa.ac.uk |
+> | UK Government Social Research | www.civilservice.gov.uk/.../gsr |
+> | Survey Question Bank（ESRC） | surveynet.ac.uk/sqb |
+> | UK Economic and Social Data Service | www.esds.ac.uk |
+> | UK Data Archive | www.data-archive.ac.uk |
+> | UNESCO | www.unesco.org |
+> | [[OECD]] Education | www.oecd.org/education |
+> | Council of Europe Education | www.coe.int |
+> | CESSDA（European Social Science Data Archive） | www.cessda.org |
+> | European Union Gateway | europa.eu |
+> | US National Center for Educational Statistics | nces.ed.gov |
+> | World Bank | worldbank.org |
+
+> [!col1-table]- 图书馆检索网站
+> | 资源 | 网址 |
+> |---|---|
+> | US Library of Congress | www.loc.gov |
+> | Gateway to US Libraries | www.lcweb.loc.gov/z3950 |
+> | Library Index（链接 18,000 所图书馆） | www.libdex.com |
+> | COPAC（检索 UK 主要图书馆） | www.copac.ac.uk |
+> | British Library Integrated Catalogue | catalogue.bl.uk |
+> | Virtual Library | vlib.org |
+> | Books in Print | www.booksinprint.com |
+> | Bibliofind（旧书与绝版书） | www.bibliofind.com |
+> | Lights（链接 6,000 家出版商） | www.lights.com |
+
+> [!col1-table]- 在线期刊提供商
+> | 提供商 | 网址 |
+> |---|---|
+> | BIDS | www.bids.ac.uk |
+> | EBSCO | www.ebsco.com |
+> | Elsevier | www.elsevier.com |
+> | Emerald | www.emeraldinsight.com |
+> | FirstSearch | www.oclc.org |
+> | Ingenta | www.ingenta.com |
+> | JSTOR | www.jstor.org |
+> | Kluweronline | www.kluweronline.com |
+> | ProQuest | www.proquest.com |
+> | ProQuest Digital Dissertations and Theses | www.proquest.com/.../pqdt.shtml |
+> | Science Direct | www.sciencedirect.com |
+> | Swets | www.swets.com |
+> | Web of Science (Web of Knowledge) | wok.mimas.ac.uk |
+> | Aslib Index to Theses | www.theses.com |
+> | Networked Digital Library of Theses and Dissertations | www.ndltd.org/find |
+
+> [!col1-table]- 搜索引擎
+> | 引擎 | 网址 |
+> |---|---|
+> | Google | www.google.com |
+> | Google Scholar | scholar.google.com |
+> | Yahoo | www.yahoo.com |
+> | AltaVista | www.altavista.com |
+> | Ask Jeeves | www.askjeeves.com |
+> | Excite | www.Excite.com |
+> | Fast Search | www.alltheweb.com |
+> | HotBot | www.hotbot.com |
+> | Lycos | www.Lycos.com |
+> | Metacrawler | www.metacrawler.com |
+> | MSN Search | www.msn.com |
+> | Northern Light | www.northernlight.com |
+> | AOL Search | www.search.aol.com |
+> | Direct Hit | www.directhit.com |
+> | Go To | www.goto.com |
+
+> [!col1-table]- 其他实用网站
+> | 资源 | 网址 |
+> |---|---|
+> | National Academies Press | www.nap.edu |
+> | Education Index | www.educationindex.com |
+> | Internet Public Library / Librarians' Internet Index | www.ipl.org |
+> | North Central Regional Educational Laboratories | www.ncrel.org |
+> | Southwest Educational Development Laboratory | www.sedl.org |
+
+#### 检索操作符
 
 > [!tip] 四个检索操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
@@ -95,7 +230,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 #### 信息类型
 
-> [!col1-table] 文献综述中的信息类型（Box 7.2）
+> [!index-table] 文献综述中的信息类型（Box 7.2）
 > | 类别 | 具体内容 |
 > |---|---|
 > | **书籍** | 精装/平装和电子书 |
@@ -112,14 +247,14 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | **一手来源** | 原始、第一手、当代的来源材料（文件、演讲、日记、信件、自传、回忆录、公共记录、采访和原始研究数据、会议纪要、备忘录、公报、宪章、法案、法律文件、证人陈述、口述历史、未发表作品、专利、网站、视频片段、照片、音频记录、人工制品等） |
 > | **在线数据库** | — |
 > | **电子期刊或媒体** | — |
-> | **二手来源** | 第二手材料（百科全书、词典、报纸文章、评论、文摘、教材、研究综合、元分析、研究综述、历史、杂志文章、传记、专著、评论著作等） |
+> | **二手来源** | 第二手材料（百科全书、词典、报纸文章、评论、文摘、教材、研究综合、[[Meta-analysis\|元分析]]、研究综述、历史、杂志文章、传记、专著、评论著作等） |
 > | **三手来源** | 一手和二手来源的蒸馏或汇编（年鉴、书目、目录、词典、百科全书、事实书、指南、索引、文摘、手册、年表等） |
 
 #### 主要学术数据库
 
 Creswell 介绍了主要学术数据库及其特征（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
-> [!col1-table] 主要学术数据库
+> [!index-table] 主要学术数据库
 > | 数据库 | 特征 |
 > |---|---|
 > | [ERIC](https://eric.ed.gov) | 美国教育部教育科学研究所（IES）赞助的免费在线数字图书馆，自 1966 年以来索引 140 万条记录 |
