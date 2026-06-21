@@ -36,7 +36,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > *Original text or English translation.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[相近概念]] — 区别说明。
+> - 不等于 [[<相近概念>]] — 区别说明。
 > - 不适用于 — 适用范围限制说明。
 
 ---
@@ -46,7 +46,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 没有相近概念时可删除本节。可换用 [!tension-table]（强调立场差异）或 [!prop-table]（逐项比较属性）。 %%
 
 > [!contrast-table] 概念辨析
-> | 维度 | 本概念 | [[相近概念 A]] | [[相近概念 B]] |
+> | 维度 | 本概念 | [[<相近概念 A>]] | [[<相近概念 B>]] |
 > |------|--------|----------------|----------------|
 > | 分析对象 | 说明 | 说明 | 说明 |
 > | 核心机制 | 说明 | 说明 | 说明 |
@@ -83,33 +83,34 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题类型一：[类型名称]（English Name）
+### 命题类型一：<类型名称>（<English Name>）
 
-> [!concept-lens]
+%% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称，例如"课程内容选择的教化正当性"。 %%
+> [!concept-lens] <命题类型归纳标题>
 > 说明这类命题围绕什么核心问题展开，各学者的共同倾向在哪里。
 
-> [!claim] Author A
+> [!claim] <作者名>
 > 学者 A 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] Author B
+> [!claim] <作者名>
 > 学者 B 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] Author C
+> [!claim] <作者名>
 > 学者 C 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
-### 命题类型二：[类型名称]（English Name）
+### 命题类型二：<类型名称>（<English Name>）
 
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
-
-> [!concept-lens]
+%% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称。 %%
+> [!concept-lens] <命题类型归纳标题>
 > 说明这类命题的核心问题与共同倾向。
 
-> [!claim] Author D
+> [!claim] <作者名>
 > 学者 D 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] Author E
+> [!claim] <作者名>
 > 学者 E 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
@@ -119,8 +120,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **类型一名称** | 这类命题核心关注什么 | 适用的研究对象或场景 | Author A; Author B |
-> | **类型二名称** | 这类命题核心关注什么 | 适用情境 | Author D; Author E |
+> | **<命题类型一名称>** | 这类命题核心关注什么 | 适用的研究对象或场景 | Author A; Author B |
+> | **<命题类型二名称>** | 这类命题核心关注什么 | 适用情境 | Author D; Author E |
 
 ---
 

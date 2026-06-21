@@ -87,7 +87,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!cross-chapter] 跨章主题线索
 > - **主题线索一**：说明哪些章节共同处理同一概念、理论、对象、案例或争议。
->   - **相关章节**：Ch. X [[Argument_ChapterAuthor_Year_关键词]]；Ch. Y [[Argument_ChapterAuthor_Year_关键词]]。
+>   - **相关章节**：Ch. X [[<Argument_章节作者_年份_关键词>]]；Ch. Y [[<Argument_章节作者_年份_关键词>]]。
 >   - **阅读价值**：说明为什么应把这些章节放在一起读。
 > - **主题线索二**：说明另一条跨章关系。
 
@@ -108,8 +108,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 各章概览
 
 > [!chapter-index] 章节索引
-> - **Ch. X — 章节标题**：[[Argument_ChapterAuthor_Year_关键词]] — 一句话说明该章的问题、核心论点和在全书结构中的位置。
-> - **Ch. Y — 章节标题**：Argument_ChapterAuthor_Year_关键词 — 若尚未建 Argument，保留技术文件名候选并说明待处理。
+> - **Ch. <X> — <章节标题>**：[[<Argument_章节作者_年份_关键词>]] — 一句话说明该章的问题、核心论点和在全书结构中的位置。
+> - **Ch. <Y> — <章节标题>**：Argument_ChapterAuthor_Year_关键词 — 若尚未建 Argument，保留技术文件名候选并说明待处理。
 
 %% 各章概览只写导航性索引。章节的完整论证结构、方法、发现、引用和局限写入对应章节 Argument。 %%
 
