@@ -21,9 +21,9 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epoché]]"
+  - "[[Phenomenon-Based Learning]]"
   - "[[Reflexivity]]"
   - "[[Performance Indicators]]"
-  - "[[Phenomenon-Based Learning]]"
   - "[[Causality]]"
   - "[[Research Question]]"
   - "[[Discipline-Based Theory]]"
@@ -107,12 +107,12 @@ updated: 2026-06-21
 > [!mechanism-map]- 现象学认识生成机制
 > ```mermaid
 > flowchart TD
->     A["日常生活世界 (Lifeworld)"] -->| "天然态度 (Naive Accept)" | B["理所当然的日常常识"]
->     A -->| "直觉启发 (Intuition)" | C["直接体验 (Direct Experience)"]
->     C -->| "悬置与还原 (Epoché)" | D["回到事物本身 (Things Themselves)"]
->     D -->| "意向性与具身反思 (Intentional & Embodied Reflection)" | E["主体间对话与共同规划 (Intersubjective Collaboration)"]
->     E -->| "存在性意义建构 (Existential Meaning Making)" | F["世界观重构与能动性释放 (Worldview Reconstruction & Agency)"]
->     B -.->|反思打破| D
+>     A["日常生活世界 (Lifeworld)"] -- "天然态度 (Naive Accept)" --> B["理所当然的日常常识"]
+>     A -- "直觉启发 (Intuition)" --> C["直接体验 (Direct Experience)"]
+>     C -- "悬置与还原 (Epoché)" --> D["回到事物本身 (Things Themselves)"]
+>     D -- "意向性与具身反思 (Intentional & Embodied Reflection)" --> E["主体间对话与共同规划 (Intersubjective Collaboration)"]
+>     E -- "存在性意义建构 (Existential Meaning Making)" --> F["世界观重构与能动性释放 (Worldview Reconstruction & Agency)"]
+>     B -. "反思打破" .-> D
 > ```
 
 > [!exegesis]- 教育研究例子
