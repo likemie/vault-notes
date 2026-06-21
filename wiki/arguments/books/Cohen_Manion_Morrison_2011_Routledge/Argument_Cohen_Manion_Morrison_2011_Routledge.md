@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -86,12 +86,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-06-19
+updated: 2026-06-22
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -112,7 +113,7 @@ updated: 2026-06-19
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|第6章 Choosing a research project]] | 系统拆解选择研究课题时的关键决策点：研究选题的二十余种来源、研究重要性的评估（原创性≠贡献，四个维度）、研究目的与方法的适配性原则（"让尾巴摇狗"的反面论证）、研究可操作性的六个约束维度、研究问题的类型谱系与质性研究无RQ的讨论，以及文献综述的七项目的与规模考量，最后以36条操作清单收束。 | [[Research Purpose]]、[[Fitness for Purpose]]、[[Research Practicability]]、[[Research Question]]、[[Literature Review]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|第7章 Planning educational research]] | 研究规划的完整框架：以目的适切性为核心原则，经由发散-收敛两阶段和四领域框架逐步操作化研究问题，覆盖文献综述论证写作与网络检索、定向决策、研究设计与方法论、数据分析与报告规划、规划矩阵与四阶段管理模型，以及35条质量清单和Furlong & Oancea四维度质量框架。 | [[Operationalization]]、[[Fitness for Purpose]]、[[Maxwell's Interactive Model of Research Design\|Maxwell's Interactive Model]]、[[Literature Review]]、[[Hypothesis]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|第8章 Sampling]] | 系统介绍抽样核心议题：样本量确定的多重因素与经验法则、抽样误差与标准误（含中心极限定理）、概率抽样（简单随机／系统／分层／整群／阶段／多阶段）与非概率抽样（便利／配额／目的性／维度／滚雪球／志愿者／理论抽样）的完整分类体系、以及质性与混合方法研究中的抽样策略与八步规划流程。 | [[Sampling Error]]、[[Sample Size Determination]]、[[Random Sampling]]、[[Non-probability Sampling]]、[[Purposeful Sampling]] |
-> | 第9章 Sensitive educational research | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|第9章 Sensitive educational research]] | 探讨敏感教育研究的多个维度：敏感研究的定义与三类来源（Lee, 1993）、抽样与准入策略（八种策略、Walford四阶段模型、守门人与担保人）、伦理议题（有罪知识、隐蔽研究vs间谍活动、演绎披露、链接文件系统）、研究有权者与无权/脆弱群体（Hart参与阶梯），以及敏感研究中的提问技巧（vignettes、访谈者效应）。 | [[Sensitive Research]]、[[Gatekeepers]]、[[Covert Research]]、[[Guilty Knowledge]]、[[Hart's Ladder of Participation]] |
 > | 第10章 Validity and reliability | | |
 > | **Part 3 教育研究的类型** | | |
 > | 第13章 Naturalistic, qualitative and [[Ethnography\|ethnographic research]] | | |

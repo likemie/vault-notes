@@ -8,7 +8,7 @@ aliases:
 summary: 研究伦理中研究者对参与者信息的保护义务，承诺不将可识别个人身份的信息公开披露或使个体可被追踪，是保护参与者隐私的基本方式之一
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,10 +24,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-22
 ---
 
 # Confidentiality in Research
@@ -89,3 +90,24 @@ updated: 2026-06-18
 > [!case] 应用案例索引
 > - 面对面访谈研究——研究者知道受访者身份，但承诺在报告中以化名引用，不公开可识别信息
 > - 学校[[Ethnography|人种志]]——研究者对参与者信息保密，但当法院发出传票要求释放数据时，研究者处于困境之中
+
+---
+
+## 敏感研究中的保密
+
+在[[Sensitive Research|敏感研究]]中，保密面临特殊挑战（Cohen et al., 2011, pp. 212–213）：
+
+### 链接文件系统
+
+当研究者希望在保护保密性的同时跨多个时间点收集同一参与者的数据时，Lee (1993, p. 173) 提出了[[Linked File System|链接文件系统（linked file system）]]：
+
+> [!info] 三层架构
+> 1. **数据文件**：保存研究数据，为每位参与者分配任意编号
+> 2. **受访者名单**：包含参与者姓名
+> 3. **链接文件**：将数据编号与姓名关联，由中立的"经纪人"而非研究者保管
+
+这一程序类似于双盲临床实验——研究者不知道哪些人接受实验药物或安慰剂。Lee (1993, p. 179) 承认在量化数据上比在质性数据上更容易实现。
+
+### 演绎披露
+
+即使保密措施完备，仍可能出现[[Deductive Disclosure|演绎披露（deductive disclosure）]]——读者通过重新组合和拼凑数据中的细节来识别个体（Boruch & Cecil, 1979）（p. 212）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，他也将因这些特征的组合而被识别。研究者的责任是确保即使读者试图重新组合细节以识别受访者，也无法做到。

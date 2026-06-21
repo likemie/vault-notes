@@ -4579,6 +4579,16 @@
     ]
   },
   {
+    "title": "Deductive Disclosure",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Deductive Disclosure.md",
+    "aliases": [
+      "演绎披露",
+      "推断性识别",
+      "deductive identification"
+    ]
+  },
+  {
     "title": "Deficiencies in Past Literature",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Deficiencies in Past Literature.md",
@@ -4875,6 +4885,15 @@
       "把关人",
       "gatekeeper",
       "研究准入把关人"
+    ]
+  },
+  {
+    "title": "Guilty Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Guilty Knowledge.md",
+    "aliases": [
+      "有罪知识",
+      "guilty information"
     ]
   },
   {
@@ -5774,6 +5793,17 @@
     ]
   },
   {
+    "title": "Sensitive Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sensitive Research.md",
+    "aliases": [
+      "敏感研究",
+      "敏感性研究",
+      "sensitive educational research",
+      "敏感教育研究"
+    ]
+  },
+  {
     "title": "Simultaneous Procedures",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Simultaneous Procedures.md",
@@ -5805,6 +5835,17 @@
     ]
   },
   {
+    "title": "Sponsor in Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sponsor in Research.md",
+    "aliases": [
+      "研究担保人",
+      "田野担保人",
+      "research sponsor",
+      "field sponsor"
+    ]
+  },
+  {
     "title": "Stable Unit Treatment Value Assumption",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption.md",
@@ -5832,6 +5873,15 @@
     "path": "wiki/concepts/research-methodology/Statistical Significance.md",
     "aliases": [
       "统计显著性"
+    ]
+  },
+  {
+    "title": "Stigma Contagion",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Stigma Contagion.md",
+    "aliases": [
+      "污名传染",
+      "stigma infection"
     ]
   },
   {
@@ -7068,6 +7118,18 @@
     ]
   },
   {
+    "title": "Hart's Ladder of Participation",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md",
+    "aliases": [
+      "参与阶梯",
+      "Hart 参与阶梯",
+      "儿童参与阶梯",
+      "Ladder of Participation",
+      "Hart's participation ladder"
+    ]
+  },
+  {
     "title": "Maxwell's Interactive Model of Research Design",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Maxwell's Interactive Model of Research Design.md",
@@ -7631,6 +7693,16 @@
     ]
   },
   {
+    "title": "Linked File System",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Linked File System.md",
+    "aliases": [
+      "链接文件系统",
+      "链接文件方法",
+      "三层文件法"
+    ]
+  },
+  {
     "title": "MCC Discourse Analysis Examples",
     "type": "method",
     "path": "wiki/methods/qualitative/MCC Discourse Analysis Examples.md",
@@ -7832,12 +7904,34 @@
     ]
   },
   {
+    "title": "Vignettes in Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Vignettes in Research.md",
+    "aliases": [
+      "情境短文法",
+      "研究情境卡",
+      "vignette technique",
+      "情境问题法"
+    ]
+  },
+  {
     "title": "Volunteer Sampling",
     "type": "method",
     "path": "wiki/methods/qualitative/Volunteer Sampling.md",
     "aliases": [
       "志愿者抽样",
       "volunteer sample"
+    ]
+  },
+  {
+    "title": "Walford's Four-Stage Access Model",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Walford's Four-Stage Access Model.md",
+    "aliases": [
+      "Walford 四阶段准入模型",
+      "Walford 准入模型",
+      "四阶段准入模型",
+      "Walford's access model"
     ]
   },
   {
@@ -12511,6 +12605,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

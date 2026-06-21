@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理中保护参与者个人信息的核心权利，涉及信息敏感性、观察场所私密性和信息传播三个维度，是参与者自决权和尊严保护的基础"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,10 +27,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-22
 ---
 
 # Privacy in Research
@@ -93,3 +94,15 @@ updated: 2026-06-18
 > [!case] 应用案例索引
 > - 研究者在调查家庭[[Bildung|教养]]方式时，在问卷中询问收入、宗教信仰和性取向等高度敏感信息——这些信息越敏感，保护措施应越多
 > - 课堂[[Observational and Correlational Research|观察研究]]——研究者应将观察限于公共行为，而非跟踪教师进入私人空间
+
+---
+
+## 敏感研究中的隐私
+
+在[[Sensitive Research|敏感研究]]中，隐私与公共利益的张力尤为尖锐（Cohen et al., 2011, pp. 213–214）：
+
+> [!tension] 隐私 vs 公共知情权
+> - **隐私优先** 个人有权不让私人信息进入公共领域。即使研究能揭示重要的公共问题，也不能以侵犯个人隐私为代价。Simons (2000, p. 45) 在反思敏感研究的代价时直言"代价太高了"。
+> - **公共知情权优先** Walford (2001, p. 30) 认为："对公共利益的潜在收益是巨大的。虽然会对参与者的私生活有一定程度的侵入，但这在研究重要政策问题时是可以被正当化的。"目的正当化了手段。
+
+这一张力在伦理上无法被简单解决——因为"公共领域和私人领域可能融合"（Lee, 1993），研究者必须在具体情境中判断隐私保护的边界。如 Simons & Usher (2000, p. 5) 所言："政治和伦理是不可分割地交织在一起的。"

@@ -9,7 +9,7 @@ aliases:
 summary: "研究者隐瞒研究身份和目的、以伪装角色进入研究场所收集资料的研究方式，违反知情同意原则，但其支持者认为这是获取某些敏感群体或隐藏做法数据的唯一途径"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,10 +24,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-22
 ---
 
 # Covert Research
@@ -61,6 +62,21 @@ updated: 2026-06-18
 
 > [!info] 隐蔽研究没有简单和普遍同意的答案
 > Bulmer (1982) 指出，对隐蔽研究所产生的伦理问题没有简单和普遍同意的答案。这是社会科学中最持久的伦理争议之一。
+
+---
+
+### 敏感研究中的隐蔽研究
+
+在[[Sensitive Research|敏感研究]]中，隐蔽研究的伦理议题被推向极端（Cohen et al., 2011, pp. 210–212）：
+
+**隐蔽研究的正当性论证**：当有权者控制准入和参与者生活的其他方面（如晋升、在职培训、工作分配）时，隐蔽研究或欺骗可能是唯一途径（Munro et al., 2004, p. 295; Morrison, 2006）。如果研究者向暴力教师寻求研究其暴力行为的知情同意，研究几乎不可能开展；但如果研究者请求研究学生课堂行为而隐瞒真实目的，准入更可能获得批准——而从公共利益出发，暴露问题是重要的。
+
+**隐蔽研究 vs 间谍活动**：Mitchell (1993, p. 46) 明确区分了二者（p. 211）：
+- 间谍活动是"意识形态主动"的——推进特定价值体系；研究是"意识形态天真"的——寻求理解而非说服
+- 间谍有使命意识并试图达成特定工具性目标，研究没有这样的特定使命
+- 间谍相信自己在道德上优于对象，研究者没有这种感觉——反思性（reflexivity）至关重要
+- 间谍由机构训练以特定方式进行伪装，研究者没有受过此类训练
+- 间谍是有偿工作，研究者通常以非营利或个人主义为基础
 
 ---
 

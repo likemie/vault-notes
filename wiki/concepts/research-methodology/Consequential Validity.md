@@ -6,7 +6,7 @@ aliases:
 summary: "Lather（1991）提出的效度概念，以研究的政治后果和变革效果——而非方法程序的严格性——作为评判研究质量的核心标准。"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,10 +35,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-06-22
 ---
 
 # Consequential Validity
@@ -91,3 +92,4 @@ updated: 2026-06-17
 
 > [!case] 应用案例索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011c, pp. 384–386)]] — 结果效度在[[Feminist Research|女性主义研究]]方法论中被提出：Lather（1991）主张研究者应关注研究的政治后果，Roman and Apple（1990）主张变革潜力应成为评判研究的关键标准。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9, p. 230)]] — 在[[Sensitive Research|敏感研究]]的结论中，作者将"后果效度"作为研究者应遵循的核心原则：研究者必须考虑研究项目、实施、成果、报告和传播对参与者、利益相关者和研究共同体的可能或实际影响。
