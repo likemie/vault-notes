@@ -15,6 +15,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Literature Search]]"
   - "[[Abstract]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -28,7 +29,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[National Dropout Prevention Center]]"
 related_arguments:
-  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 > [!abstract] 评级对象与范围
 > CEBC 在作者的教育项目一致性分析中贡献了 11 个项目。作者只选择其"儿童与青少年儿童福利教育干预"主题下的项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
 >
-> CEBC 通过专家建议与广泛文献搜索相结合来决定项目纳入范围；它和 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 一样只纳入同行评审研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+> CEBC 通过专家建议与广泛[[Literature Search|文献搜索]]相结合来决定项目纳入范围；它和 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 一样只纳入同行评审研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
 
 ## 证据标准
 

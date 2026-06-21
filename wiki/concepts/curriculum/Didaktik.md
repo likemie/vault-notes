@@ -12,12 +12,12 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 related_concepts:
   - "[[Bildung]]"
+  - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Discipline-Based Theory]]"
   - "[[Knowledge Production]]"
-  - "[[Phenomenon-Based Learning]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods: []
@@ -25,8 +25,8 @@ related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
+  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -61,6 +61,10 @@ updated: '2026-06-21'
 > | **核心焦点** | 强调现存既有知识的单向灌输与沉积 (p.6) | 强调知识内容的不断更新、批判与生产 (p.6) |
 > | **行动特征** | 倾向于纠正错误、管理规范 and 绩效测量 (p.6) | 鼓励学生通过独立探究产生新的理解 (p.6) |
 > | **知识定位** | 将知识视为存放在保险箱中的固定资产 (p.6) | 将学科视为探索现实生活世界现象的开放体系 (p.5) |
+
+> [!boundary]- 概念边界与关联
+> - **与[[Phenomenon-Based Learning|现象本位学习]]（PhBL）的关联** Didaktik 是深厚的课程与教学理论传统，而 PhBL 是一种具体的跨学科教学取向。Klafki 的[[Epochal Key Problems|时代关键问题]]（Epochal key problems）为 PhBL 选择教学现象与设计跨学科对话提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
+> - **有别于能力本位课程** Didaktik 关注知识的选择价值、人性的[[Bildung|教化]]目的与开放未来；而新自由主义主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5, 10]]
 
 ---
 
@@ -102,8 +106,13 @@ updated: '2026-06-21'
 
 ## 争议与批评
 
-> [!critique] 外部批评
-> - **社会控制风险** 教学论如果被简化为国家课程意识形态的传递工具，其设计的知识结构易流于精英保守主义或用于强化特定的国家民族认同，从而削弱其本应具备的个体解放功能。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> [!debates] 学术争议
+> 
+> > [!abstract] 精英保守工具与社会解放之争
+> > 教学论在历史实践中常被批评容易沦为强化国家民族认同和维持精英阶级排他性的保守控制工具。但 [[Wolfgang Klafki]] 论证，经典的 Didaktik 与 [[Bildung]] 传统在本质上具有激进的社会政治解放性，旨在通过重组课程结构，推动人与人之间的正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> 
+> > [!abstract]- 国家课程简化风险
+> > 教学论如果被简化为国家课程意识形态的传递工具，其设计的知识结构易流于精英保守主义，从而削弱其本应具备的个体解放与自我实现功能。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 
 ---
 

@@ -9,10 +9,10 @@ aliases:
 summary: "研究设计的出发点，指计划研究的主题或题材，涉及选题来源的分类、重要性与贡献性的多维评估、可行性判断、角度创新以及工作标题的草拟"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-design
   - source/textbook
@@ -24,14 +24,15 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Research Practicability]]"
   - "[[Research Question]]"
+  - "[[Literature Search]]"
   - "[[Central Question]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Research Methods in Education · Ch06]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -147,7 +148,7 @@ Creswell & Bàez (2020) 列举了六种为已有文献提供新视角的方式�
 
 ## 草拟工作标题
 
-在确定研究主题时，一个常见失误是跳过草拟标题这一步，直接进入文献检索。工作标题（working title）是研究中的路标——一个有形的想法，可以在项目推进过程中不断重新聚焦（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+在确定研究主题时，一个常见失误是跳过草拟标题这一步，直接进入[[Literature Search|文献检索]]。工作标题（working title）是研究中的路标——一个有形的想法，可以在项目推进过程中不断重新聚焦（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 草拟方法是完成句子"My study is about . . ."，用最简洁直白的语言作答。Wilkinson (1991) 提供了具体规则：简洁，避免浪费词汇；消除不必要的词如"An Approach to . . .""A Study of . . ."；使用单标题或双标题；控制在 10 到 12 个词以内；消除大多数冠词和介词；确保标题包含研究的焦点或主题。另一种策略是将主题表述为一个简短的问题，如"What treatment is best for depression?"。
 

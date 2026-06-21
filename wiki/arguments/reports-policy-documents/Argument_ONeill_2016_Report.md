@@ -10,7 +10,7 @@ publication_type: report
 title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 3
+argument_related_count: 4
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Research Question]]"
+  - "[[Literature Search]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -63,7 +64,7 @@ citation_aliases:
 >   - 新西兰慈善服务局（Charities Services）数据库分析（约 6,059 个注册教育慈善机构）
 >   - 六案例组织的年度财务报表分析（2007–2015）
 >   - Gephi 社会网络分析（人物与组织网络映射）
->   - 网络与文献检索
+>   - 网络与[[Literature Search|文献检索]]
 > - 资助方：NZEI Te Riu Roa、NZPPTA Te Wehengarua、NZPF Ngā Tumuaki o Aotearoa（教师工会和校长联合会联合资助）
 
 ## 核心论证

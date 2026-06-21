@@ -6,7 +6,7 @@ publication_type: book
 title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 161
+argument_related_count: 162
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
+  - "[[Literature Search]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"
   - "[[Multiplicity]]"
@@ -430,7 +431,7 @@ citation_aliases:
 - 加工文献
 - 呈现规范
 
-文献检索不能盲目开始，必须先有明确的方向。
+[[Literature Search|文献检索]]不能盲目开始，必须先有明确的方向。
 
 ---
 

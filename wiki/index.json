@@ -5043,6 +5043,17 @@
     ]
   },
   {
+    "title": "Literature Search",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Literature Search.md",
+    "aliases": [
+      "文献检索",
+      "文献搜索",
+      "literature retrieval",
+      "searching for literature"
+    ]
+  },
+  {
     "title": "Logic Model",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Logic Model.md",

@@ -9,13 +9,13 @@ extracted_to:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Research Methods in Education · Ch05]]"
-  - "[[Research Methods in Education · Ch06]]"
   - "[[Research Methods in Education]]"
   - "[[Research Methods in Education · Ch01]]"
   - "[[Research Methods in Education · Ch02]]"
   - "[[Research Methods in Education · Ch03]]"
   - "[[Research Methods in Education · Ch04]]"
   - "[[Research Methods in Education · Ch07]]"
+  - "[[Research Methods in Education · Ch06]]"
 processed_date: 2026-06-16
 ---
 

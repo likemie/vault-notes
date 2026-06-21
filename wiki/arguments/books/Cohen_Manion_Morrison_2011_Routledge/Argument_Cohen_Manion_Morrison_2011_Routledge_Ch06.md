@@ -10,9 +10,9 @@ publication_type: book-chapter
 title: "Research Methods in Education · Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
   - "[[Research Contribution]]"
+  - "[[Literature Search]]"
   - "[[Research Purpose]]"
   - "[[Purpose Statement]]"
   - "[[Homework]]"
@@ -35,9 +36,9 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Covert Research]]"
   - "[[Research Question]]"
-  - "[[Research Practicability]]"
   - "[[Informed Consent]]"
   - "[[Literature Review]]"
+  - "[[Research Practicability]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Causality]]"
@@ -224,7 +225,7 @@ updated: 2026-06-19
 > [!pathways] 新手研究者的应对策略
 > 新手研究者往往不清楚自己的研究是否原创、重要、复杂、困难或适时。五条行动路径如下：
 >
-> 1. **阅读**：围绕该课题广泛阅读，进行文献搜索和在线搜索
+> 1. **阅读**：围绕该课题广泛阅读，进行[[Literature Search|文献搜索]]和在线搜索
 > 2. **参与**：参加相关会议，了解领域前沿
 > 3. **关注**：阅读相关报纸报道，了解公众讨论
 > 4. **审视**：在做出是否追问该领域的坚定决定之前，先审视该领域的现状
@@ -315,7 +316,7 @@ updated: 2026-06-19
 > [!warning] 核心警告：想做什么 ≠ 能做什么
 > 许多新手研究者怀着无知的天真乐观（the innocence and optimism of ignorance），相信自己想做的任何事都能做到。事实远非如此。**想做什么和实际上能做什么之间往往存在显著鸿沟。** 在制定详细研究计划之前，必须先检查实际情况，否则计划可能因为无法获得准入而毫无意义。
 
-[[Research Practicability|研究可操作性]]包含六个约束维度。
+研究可操作性包含六个约束维度。
 
 ---
 
@@ -403,7 +404,7 @@ updated: 2026-06-19
 
 #### 6.5.6 专业指导
 
-> [!info] 指导是研究可行性的前置条件
+> [!info] 指导是[[Research Practicability|研究可行性]]的前置条件
 > 攻读学位的研究需要确保能够获得**专业、有见识的指导**。许多大学会在无法提供充分指导的情况下拒绝研究提案。明智的做法是在注册之前就确认课题是否能得到具有合适专长的教师的指导。
 
 ---

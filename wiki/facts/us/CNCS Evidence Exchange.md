@@ -15,6 +15,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Literature Search]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -27,7 +28,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
 related_arguments:
-  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> CNCS Evidence Exchange 的特殊性在于项目来源被 CNCS 资助范围限定；这使其与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的专家建议+文献搜索、[[What Works Clearinghouse|WWC]] 的综述协议驱动纳入、[[Home Visiting Evidence of Effectiveness|HomVEE]] 的家庭访问模型聚焦形成对照([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+> CNCS Evidence Exchange 的特殊性在于项目来源被 CNCS 资助范围限定；这使其与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的专家建议+[[Literature Search|文献搜索]]、[[What Works Clearinghouse|WWC]] 的综述协议驱动纳入、[[Home Visiting Evidence of Effectiveness|HomVEE]] 的家庭访问模型聚焦形成对照([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
 
 ## 相关概念／政策
 
