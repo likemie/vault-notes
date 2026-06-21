@@ -30,8 +30,8 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
-  - "[[Two decades of havoc: A synthesis of criticism against PISA]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-05-31

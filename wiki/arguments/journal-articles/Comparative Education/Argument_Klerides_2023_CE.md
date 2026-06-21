@@ -65,8 +65,8 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
-  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 sources:
   - "[[Klerides_2023_CE]]"
 part_of: ''

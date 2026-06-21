@@ -48,8 +48,8 @@ related_facts:
   - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
 related_arguments:
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 sources:
   - "[[Slavin_2019_EP]]"
 part_of: ''

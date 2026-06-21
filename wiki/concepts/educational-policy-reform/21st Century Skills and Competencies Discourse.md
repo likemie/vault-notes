@@ -51,10 +51,10 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
-  - "[[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]]"
-  - "[[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Argument_Wong_2022_HERD]]"
+  - "[[Argument_SpronkenSmith_2024_AEHE]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-20

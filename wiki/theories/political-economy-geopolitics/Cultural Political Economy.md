@@ -32,9 +32,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-19

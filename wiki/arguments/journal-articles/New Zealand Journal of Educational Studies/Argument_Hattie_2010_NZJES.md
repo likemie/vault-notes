@@ -40,9 +40,9 @@ related_persons:
 related_facts:
   - "[[New Zealand National Standards]]"
 related_arguments:
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[Critic and conscience of society: A reply to John Hattie]]"
-  - "[[Reflection on the University and the Academic as 'Critic and Conscience of Society']]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Snook_2010_NZJES]]"
+  - "[[Argument_Grace_2010_NZJES]]"
 sources:
   - "[[Hattie_2010_NZJES]]"
 part_of: ''

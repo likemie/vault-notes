@@ -41,10 +41,10 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[Seven reasons to question the hegemony of Visible Learning]]"
-  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
-  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Eacott_2017_SLM]]"
 sources:
   - "[[Golovchin_2019_ESC]]"
 part_of: ''

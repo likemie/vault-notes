@@ -34,8 +34,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]]"
-  - "[[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]]"
+  - "[[Argument_Wong_2022_HERD]]"
+  - "[[Argument_SpronkenSmith_2024_AEHE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

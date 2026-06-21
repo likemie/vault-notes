@@ -41,7 +41,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Critic and conscience of society: A reply to John Hattie]]"
+  - "[[Argument_Snook_2010_NZJES]]"
 sources:
   - "[[Terhart_2011_JCS]]"
 part_of: ''

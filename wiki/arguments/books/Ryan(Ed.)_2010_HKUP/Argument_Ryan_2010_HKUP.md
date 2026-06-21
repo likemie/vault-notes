@@ -41,8 +41,8 @@ related_persons:
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
-  - "[[The Chinese Learner: Misconceptions and Realities]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
   - "[[Ryan(Ed.)_2010_HKUP]]"
 part_of: ""

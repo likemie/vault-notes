@@ -38,9 +38,9 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
-  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
-  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 sources:
   - "[[Hattie_2017_SLM]]"
 part_of: ''

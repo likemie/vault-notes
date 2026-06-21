@@ -48,8 +48,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
-  - "[[Critic and conscience of society: A reply to John Hattie]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Snook_2010_NZJES]]"
 sources:
   - "[[Snook_2009_NZJES]]"
   - "[[Hattie_2010_NZJES]]"

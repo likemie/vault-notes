@@ -37,7 +37,7 @@ related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
-  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
+  - "[[Argument_Pavitt_1984_RP]]"
 sources:
   - "[[Caraca_2009_TFSC]]"
 part_of:

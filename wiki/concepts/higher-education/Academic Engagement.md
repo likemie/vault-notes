@@ -48,8 +48,8 @@ related_persons:
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[金榜题名之后：大学生出路分化之谜]]"
-  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

@@ -40,9 +40,9 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Knudsen_2017_NordSTEP]]"
 part_of: ''

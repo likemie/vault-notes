@@ -50,11 +50,11 @@ related_persons:
   - "[[Max Weber]]"
 related_facts: []
 related_arguments:
-  - "[[Research Methods in Education]]"
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
-  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: 2026-06-17

@@ -40,7 +40,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
 sources:
   - "[[McKnight_2020_Discourse]]"
 part_of: ''

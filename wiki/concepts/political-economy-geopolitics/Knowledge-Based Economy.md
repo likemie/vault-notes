@@ -52,12 +52,12 @@ related_facts:
   - "[[UAE Education Hub Projects]]"
   - "[[Singapore Education Hub Policy]]"
 related_arguments:
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
-  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
-  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

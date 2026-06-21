@@ -30,9 +30,9 @@ related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
 related_arguments:
-  - "[[Research Methods in Education · Ch05]]"
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
-  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-05-31

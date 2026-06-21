@@ -25,7 +25,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

@@ -30,10 +30,10 @@ related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts: []
 related_arguments:
-  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
-  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
-  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
-  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
+  - "[[Argument_Thompson_2022_Promising_Student]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

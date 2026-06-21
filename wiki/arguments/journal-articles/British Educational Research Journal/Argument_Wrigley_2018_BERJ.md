@@ -64,8 +64,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[ResearchED]]"
 related_arguments:
-  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Wrigley_2018_BERJ]]"
 part_of: ""

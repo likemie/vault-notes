@@ -44,7 +44,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[Sectoral Innovation Database]]"
 related_arguments:
-  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
+  - "[[Argument_Pavitt_1984_RP]]"
 sources:
   - "[[Bogliacino_Pianta_2016_EP]]"
 part_of:

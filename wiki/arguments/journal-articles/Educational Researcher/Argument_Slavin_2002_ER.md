@@ -33,7 +33,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
 related_arguments:
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Slavin_2002_ER]]"
 part_of: ""

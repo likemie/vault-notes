@@ -51,7 +51,7 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[National Education]]"
 related_arguments:
-  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
+  - "[[Argument_Bulag_2024_CE]]"
 sources:
   - "[[Yan_2025_JCS]]"
 part_of: ""

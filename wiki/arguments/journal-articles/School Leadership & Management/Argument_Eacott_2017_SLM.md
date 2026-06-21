@@ -61,8 +61,8 @@ related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Educators are not uncritical believers of a cult figure]]"
-  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
 sources:
   - "[[Eacott_2017_SLM]]"
 part_of: ""

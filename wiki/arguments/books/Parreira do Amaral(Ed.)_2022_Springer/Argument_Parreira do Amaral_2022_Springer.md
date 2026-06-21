@@ -55,10 +55,10 @@ related_facts:
   - "[[Minerva University]]"
   - "[[University Industry Innovation Network]]"
 related_arguments:
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[Two faces of geopolitics of knowledge]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Partaken_2022_Springer]]"
 sources:
   - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 part_of: ''

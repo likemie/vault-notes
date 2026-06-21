@@ -42,8 +42,8 @@ related_persons:
   - "[[Marcia Baxter Magolda]]"
 related_facts: []
 related_arguments:
-  - "[[金榜题名之后：大学生出路分化之谜]]"
-  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
 confidence: medium
 status: draft
 created: 2026-05-08

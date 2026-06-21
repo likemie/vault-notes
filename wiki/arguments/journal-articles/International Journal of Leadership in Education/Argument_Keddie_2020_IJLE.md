@@ -37,7 +37,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[School autonomy, marketisation and social justice: the plight of principals and schools]]"
+  - "[[Argument_Keddie_2020_JEAH]]"
 sources:
   - "[[Keddie_2020_IJLE]]"
 part_of: ''

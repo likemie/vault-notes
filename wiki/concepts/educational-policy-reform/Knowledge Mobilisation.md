@@ -33,9 +33,9 @@ related_persons: []
 related_facts:
   - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments:
-  - "[[Evidence-informed practice in education: meanings and applications]]"
-  - "[[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]]"
-  - "[[Gaining Support Within Universities for Collaboration]]"
+  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nordahl_2015_Paideia]]"
+  - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: medium
 status: draft
 created: '2026-05-21'

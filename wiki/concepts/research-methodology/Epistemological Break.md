@@ -35,7 +35,7 @@ related_persons:
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
-  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
+  - "[[Argument_Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02

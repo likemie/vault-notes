@@ -72,13 +72,13 @@ related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
-  - "[[Research Methods in Education · Ch01]]"
-  - "[[Research Methods in Education · Ch02]]"
-  - "[[Research Methods in Education · Ch03]]"
-  - "[[Research Methods in Education · Ch04]]"
-  - "[[Research Methods in Education · Ch05]]"
-  - "[[Research Methods in Education · Ch06]]"
-  - "[[Research Methods in Education · Ch07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:

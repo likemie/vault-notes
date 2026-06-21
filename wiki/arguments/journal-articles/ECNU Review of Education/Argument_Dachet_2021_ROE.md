@@ -47,7 +47,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
 related_arguments:
-  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
+  - "[[Argument_Slavin_2019_EP]]"
 sources:
   - "[[Dachet_2021_ROE]]"
 part_of: ""

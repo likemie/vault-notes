@@ -30,7 +30,7 @@ related_persons: []
 related_facts:
   - "[[Synthesis and Solid State Pharmaceutical Centre]]"
 related_arguments:
-  - "[[Establishing successful university–industry collaborations: barriers and enablers deconstructed]]"
+  - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
 confidence: medium
 status: draft
 created: 2026-06-10

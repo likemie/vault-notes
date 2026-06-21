@@ -44,9 +44,9 @@ related_persons:
 related_facts:
   - "[[OECD]]"
 related_arguments:
-  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[Nielsen_2021_NordPsych]]"
 part_of: ''

@@ -37,7 +37,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[Argument_Terhart_2011_JCS]]"
 sources:
   - "[[Blass_2020_JESP]]"
 part_of: ''

@@ -30,9 +30,9 @@ related_facts:
   - "[[Hattie på dansk]]"
   - "[[SFI Report]]"
 related_arguments:
-  - "[[Visible learning and its enemies – the missing link]]"
-  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
-  - "[[Er Hattie og co]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

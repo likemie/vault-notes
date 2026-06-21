@@ -33,8 +33,8 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:
-  - "[[金榜题名之后：大学生出路分化之谜]]"
-  - "[[Research Methods in Education · Ch04]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-05-08
