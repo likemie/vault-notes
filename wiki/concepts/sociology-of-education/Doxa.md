@@ -33,7 +33,6 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Plato]]"
-  - "[[Edmund Husserl]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
@@ -137,7 +136,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 
 **古希腊哲学（[[Plato|柏拉图]]／亚里士多德）**。*doxa* 原指"意见"或"信念"，与 *epistēmē*（知识）相对——是介于无知与真知之间的认知状态。柏拉图视 doxa 为不可靠的感知世界产物，亚里士多德则部分恢复其认识论地位。在这一阶段，doxa 是**个体认知**层面的概念。
 
-**[[Edmund Husserl|Husserl]] [[Phenomenology|现象学]]**。doxa 在 Husserl 处被重新激活，指生活世界中的原初信念（Ur-doxa）——先于一切理论判断的对世界存在的根本信念。Husserl 的关注点不在社会支配，而在意识如何构成世界经验的前提。
+**Husserl [[Phenomenology|现象学]]**。doxa 在 Husserl 处被重新激活，指生活世界中的原初信念（Ur-doxa）——先于一切理论判断的对世界存在的根本信念。Husserl 的关注点不在社会支配，而在意识如何构成世界经验的前提。
 
 **Bourdieu 的转化（1970s–1980s）**。Bourdieu 将 doxa 从认识论范畴转化为**社会分析**的操作概念：doxa 不再是普遍的认知状态，而是特定 [[Champ|场域]] 中历史建构的、被自然化了的共识。这一转化的关键是：doxa 从"个体怎么认知世界"的问题变成了"社会结构如何使某些信念变得不可质疑"的问题。Bourdieu 进一步区分 doxa（不被言说的共识）、orthodoxy（被明确捍卫的正统）与 heterodoxy（被容忍的异见），形成[[#概念辨析|场域话语斗争的光谱]]。
 

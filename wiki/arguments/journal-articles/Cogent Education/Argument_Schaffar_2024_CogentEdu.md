@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Education Industry]]"
   - "[[Champ]]"
-  - "[[Research Scope]]"
   - "[[Problem-Based Learning]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -134,7 +133,7 @@ updated: 2026-06-21
 > 在 [[Phenomenon-Based Learning|PhBL]] 中，现象是主体在以意向性（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，具有主观价值关联性。(pp.2–3)
 
 > [!chain-link] [[Phenomenology|现象学]]体验链
-> - **回到事物本身（Zurück zu den Sachen selbst）** 依据 Kant 与 [[Edmund Husserl|Husserl]] 的哲学命题，任何意义皆源于直觉（Intuitions），必须回归事物本身，且事物始终与人的意识相互关联。(pp.3–4)
+> - **回到事物本身（Zurück zu den Sachen selbst）** 依据 Kant 与 Husserl 的哲学命题，任何意义皆源于直觉（Intuitions），必须回归事物本身，且事物始终与人的意识相互关联。(pp.3–4)
 > - **生活世界的嵌入性（Lifeworld Embedding）** Husserl 提出体验主体在世存在（Being in the world）并嵌入日常生活世界之中，一切真知皆源于主观经验的意义建构。(p.4)
 > - **具身认知与主体间性（Embodiment & Intersubjectivity）** Merleau-Ponty 进一步将具身（Embodied）经验置于认知之前，强调人的社会性与身体在世存在。主体间性包含个人反思，并指向共同体在特定时空中的协同反思、信任与情感共鸣。(p.4)
 
@@ -259,7 +258,7 @@ updated: 2026-06-21
 
 ## 自述局限
 
-> [!warning] 原文自述局限与[[Research Scope|研究边界]]
+> [!warning] 自述局限
 > - **缺乏经验实证证据** 本研究属于哲学与思想史层面的规范性批判（Normative critique），并未对 [[Phenomenon-Based Learning|PhBL]] 的具体学习成效、教学实践表现或学校组织变革进行实证测量与量化评估。(pp.2, 11)
 > - **未涉及实施模式 of 系统比较** 研究重在澄清概念史与政策层面的内在张力，未能系统、详尽地比较芬兰不同学校与不同地区在 PhBL 实施路径上的具体差异。(pp.2, 10–11)
 > - **学习理论差异的简化处理** 对[[Constructivist Paradigm|建构主义]]、问题导向学习（[[Problem-Based Learning|PBL]]）及探究式学习（IBL）等学习心理学理论的讨论主要服务于思想史定位，未展开这些理论内部在认知机制层面的细微差别。(pp.7–8)

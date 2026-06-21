@@ -33,7 +33,6 @@ related_persons:
   - "[[Lars Qvortrup]]"
   - "[[John Hattie]]"
   - "[[Karl Popper]]"
-  - "[[Edmund Husserl]]"
   - "[[Jean Piaget]]"
   - "[[Gilbert Ryle]]"
 related_facts: []
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 > - **一阶知识：关于某事的知识（knowing-that）**。学习者知道某物是什么，例如知道桌上的物体是茶杯；这里的基本区分是"知识/非知识"([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.31]])。
 > - **二阶知识：关于知识的知识（knowing-how）**。学习者不仅知道"这是茶杯"，也知道是什么让它成为茶杯，并能据此使用它；例如能用杯子喝茶，也能把它转用于给盆栽浇水([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.31]])。
 > - **三阶知识：关于知识前提的知识（knowing-why）**。学习者观察使某物被称为"茶杯"的前提，追问为什么这个现象被构成为茶杯而不是其他东西；Qvortrup 将其关联到创造力和创新能力([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.31–32]])。
-> - **四阶知识：关于知识边界的知识**。学习者从更高阶观察位置把握"什么使知识成为可能"，即共同知识视域；Qvortrup 受 [[Edmund Husserl|Husserl]] 世界视域概念启发，称其为知识视域，并认为经验上可能存在观察递归的上限([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.31–32]])。
+> - **四阶知识：关于知识边界的知识**。学习者从更高阶观察位置把握"什么使知识成为可能"，即共同知识视域；Qvortrup 受 Husserl 世界视域概念启发，称其为知识视域，并认为经验上可能存在观察递归的上限([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.31–32]])。
 > - **动态相互作用**。教学不是只促进某一种知识形式；外部影响可能启动一连串学习过程，产生多种知识形式，同时不同影响可能更强地刺激某些学习过程([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])。
 
 ## 与相关概念的区别
