@@ -16,27 +16,27 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Effect Size]]"
   - "[[Phenomenon-Based Learning]]"
-  - "[[Epochal Key Problems]]"
   - "[[Buen Vivir]]"
-  - "[[Digital Self]]"
-  - "[[Paradigm]]"
+  - "[[Analytic Framework]]"
+  - "[[Epochal Key Problems]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"
   - "[[Academic Freedom]]"
   - "[[Critical Pedagogy]]"
   - "[[Performance Indicators]]"
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Autopoiesis]]"
 related_methods: []
 related_persons:
-  - "[[Dietrich Benner]]"
   - "[[Wolfgang Klafki]]"
 related_facts: []
 related_arguments:
   - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
   - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
-  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
   - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
   - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
 confidence: medium
 status: draft
@@ -86,15 +86,10 @@ updated: '2026-06-21'
 ## 核心要素
 
 > [!feature] 核心要素
-> - **神学原型的非目的论生长** Bildung 源自上帝形象（Imago Dei）的教化观。虽有神圣种子，但其生长方向并未被预先决定。人必须在无法预先描绘终点的情况下，持续面对自我形成的挑战。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
-> - **与世界的交互主动性** 个体在自身发展中发挥积极作用，通过与世界及其中对象的独立交互来实现自我形塑，外部灌输无法替代这一主动过程。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 237]]
-> - **练习与惊奇的艺术** 教育的核心不仅是传递知识，还在于引导学生超越自我镜像去接触未知，通过惊奇的练习实现去中心化（Decentring）。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–9]]
-> - **面向[[Epochal Key Problems|时代关键问题]]** 经典教化具有激进的社会政治性，要求教育围绕环境危机、社会不平等和战争等时代关键问题展开，使学生在关注自我修养的同时关切共同体正义。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
-> - **学会在问题中生活** 依据 Schleiermacher 的洞见，人类必须学会在关于何为[[Buen Vivir|美好生活]]的追问中生活，而不是死守既定的标准答案。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
-> - **反抗系统性工具化** 强调个体拒绝被教育系统变得愚蠢、短视和过度顺从，保持对主流政策和市场化逻辑的审视态度。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
-> - **关系的三维结构** 包含自我与自身关系（自我形成）、自我与他者关系（社会性形成）、以及与世界的关系。这构成了批判算法技术和[[Digital Self|数字自我]]的分析工具。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 246]]
-> - **Benner 的教育行动相对独立性** 依据 [[Dietrich Benner]] 的理论，教化（Bildung）必须区别于普通的社会化教育过程（Erziehung）。它强调主体的自主权与教育行动的独立性，旨在打破单纯的文化和社会规范再生产。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
-> - **Luhmann 系统论下的盲点批判** 运用 Luhmann 的社会系统论，指出可见学习[[Paradigm|范式]]在将教育简化为可观察、可测量的行为反应时，对主体的内在自我生成（[[Autopoiesis]]）与教化的本源深度产生了系统性盲视。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 9]]
+> - **非目的论的开放生长与“自我—世界”交互** Bildung 强调在无法预先规划终点的情况下，个体通过与世界及其中对象的独立交互，实现非预设性的人格形塑与生命体验。
+> - **关系性的三维结构** 教化包含三个核心维度：自我与自身的关系（自我形成）、自我与他者的关系（社会性与主体间性）、以及与世界的关系。这三维关系结构构成了评估个体生命状态以及数字化技术是否压制教化空间的[[Analytic Framework|分析框架]]。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 246]]
+> - **去中心化的惊奇与练习** 教育的核心在于引导学生超越自我的镜像去接触外在未知，通过惊奇的练习实现认知与情感的去中心化（Decentring），从而获得决定自己知识与技能如何超越被要求与被期望方式使用的能力与勇气。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–9]]
+> - **时代关切与社会解放性** 经典教化要求围绕生态、不平等与战争等[[Epochal Key Problems|时代关键问题]]（Epochal key problems）展开课程，培养个体的社会责任感，并保持反抗将学校教育窄化为新自由主义市场工具的审视态度。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
 
 ---
 
@@ -122,6 +117,22 @@ updated: '2026-06-21'
 
 ---
 
+> [!claim] 命题三：教化追问的生活实践性（Living with the Question as Bildung Practice）
+> 人类必须学会在关于何为美好生活的“追问”而非“标准答案”中生活，这是教化实践的核心路径。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+
+> [!warrant]- 命题三的支撑理由
+> 依据 Schleiermacher 的教育洞见与 Imago Dei 传统，教化是一个非目的论的生长过程，其生长方向并未被预设，因此教化不可能通过灌输现成答案来达成，而必须在持续的探索追问中展开。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+
+---
+
+> [!claim] 命题四：教化行动的相对独立性（Relative Independence of Bildung Action）
+> 教化（Bildung）行动必须独立于普通的社会化规训（Erziehung），在教育三角关系中维持其相对独立权。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
+
+> [!warrant]- 命题四的支撑理由
+> 依据 [[Dietrich Benner|Benner]] 的相对独立性理论，如果教育被完全还原为对既有社会规范的再生产（即 Erziehung 占满全部空间），个体将沦为纯粹被动塑造的客体。因此，教化行动必须拥有独立于外在政治与经济需求的自主空间，以保护主体的教育性自主。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
+
+---
+
 ## 概念演变
 
 > [!dev-timeline] 发展脉络
@@ -144,6 +155,9 @@ updated: '2026-06-21'
 
 > [!warning] 适用局限
 > 历史实践表明，Bildung 概念在德国和芬兰常被用作维持精英社会地位与塑造保守民族主义认同的工具。此外，教化理想在对抗全球化可测量[[Performance Indicators|绩效指标]]的政策重压时，若缺乏具体的机制保障，容易面临被架空的风险。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 10]]
+
+> [!critique] 外部批判与理论透镜
+> - **可见学习的[[Ontology|本体论]]盲点** 运用 Luhmann 的社会系统论指出，可见学习[[Paradigm|范式]]将复杂的教育过程简化为可观察、可测量的行为反应时，导致了对主体内在自我生成（[[Autopoiesis]]）与教化的本源深度产生了系统性的“盲点”。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 9]]
 
 ---
 
