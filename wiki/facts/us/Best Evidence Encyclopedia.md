@@ -32,7 +32,7 @@ related_facts:
   - "[[Open Court Reading]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
 related_arguments:
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

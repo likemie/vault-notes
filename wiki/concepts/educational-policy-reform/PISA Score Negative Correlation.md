@@ -23,7 +23,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[Two decades of havoc: A synthesis of criticism against PISA]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: 2026-06-06

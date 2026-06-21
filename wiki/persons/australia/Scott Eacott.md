@@ -31,11 +31,11 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
-  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
-  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
-  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
-  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-05-03

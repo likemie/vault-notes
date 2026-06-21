@@ -35,9 +35,9 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments:
-  - "[[Visible learning and its enemies – the missing link]]"
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
 created: 2026-05-03

@@ -5,7 +5,7 @@ summary: "以五要素框架（方法论、情境、假设、领导力、时效�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
+title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
@@ -38,7 +38,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[Argument_Terhart_2011_JCS]]"
 sources:
   - "[[Blass_2020_JESP]]"
 part_of: ''

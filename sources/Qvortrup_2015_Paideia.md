@@ -1,7 +1,7 @@
 ---
 citation: "Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33."
 extracted_to:
-  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
 processed_date: 2026-05-05
 ---
 

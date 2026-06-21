@@ -6,7 +6,7 @@ summary: "论文集整体论证：国际教育快速增长与中国学习者核�
 type: argument
 subtype: edited-volume
 publication_type: book
-title: "International Education and the Chinese Learner"
+title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
@@ -42,8 +42,8 @@ related_persons:
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
-  - "[[The Chinese Learner: Misconceptions and Realities]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
   - "[[Ryan(Ed.)_2010_HKUP]]"
 part_of: ""

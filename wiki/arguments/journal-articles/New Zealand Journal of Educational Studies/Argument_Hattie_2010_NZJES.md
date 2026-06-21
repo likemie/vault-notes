@@ -5,7 +5,7 @@ summary: "Hattie 以第一人称反思教育学者作为“社会批评者与良
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
+title: "Argument_Hattie_2010_NZJES"
 argument_key: "Argument_Hattie_2010_NZJES"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
@@ -41,9 +41,9 @@ related_persons:
 related_facts:
   - "[[New Zealand National Standards]]"
 related_arguments:
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[Critic and conscience of society: A reply to John Hattie]]"
-  - "[[Reflection on the University and the Academic as 'Critic and Conscience of Society']]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Snook_2010_NZJES]]"
+  - "[[Argument_Grace_2010_NZJES]]"
 sources:
   - "[[Hattie_2010_NZJES]]"
 part_of: ''

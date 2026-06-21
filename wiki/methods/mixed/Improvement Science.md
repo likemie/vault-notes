@@ -37,7 +37,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network]]"
 related_arguments:
-  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

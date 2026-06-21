@@ -69,8 +69,8 @@ related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[Egon G. Guba]]"
 related_arguments:
-  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: low
 status: draft
 created: '2026-05-05'

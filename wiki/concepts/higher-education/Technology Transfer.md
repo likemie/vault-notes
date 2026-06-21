@@ -45,10 +45,10 @@ related_facts:
   - "[[MN-IP Create]]"
   - "[[National Science Foundation]]"
 related_arguments:
-  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
-  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
-  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-26

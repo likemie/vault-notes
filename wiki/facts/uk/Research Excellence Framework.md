@@ -22,8 +22,8 @@ related_persons: []
 related_facts:
   - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
-  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-06-01

@@ -5,7 +5,7 @@ summary: "以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Leading education beyond what works"
+title: "Argument_Møller_2017_EERJ"
 argument_key: "Argument_Møller_2017_EERJ"
 argument_display_title: "Leading education beyond what works"
 argument_kind: "journal-article"

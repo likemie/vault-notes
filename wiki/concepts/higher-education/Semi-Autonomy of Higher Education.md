@@ -33,7 +33,7 @@ related_persons: []
 related_facts:
   - "[[Sino-American Trade War]]"
 related_arguments:
-  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
+  - "[[Argument_Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

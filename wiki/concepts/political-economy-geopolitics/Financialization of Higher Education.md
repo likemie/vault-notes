@@ -25,7 +25,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01

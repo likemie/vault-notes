@@ -25,7 +25,7 @@ related_facts:
   - "[[Economics of Education Movement]]"
   - "[[Comparative Education Center at Chicago 1958]]"
 related_arguments:
-  - "[[Comparative education and international relations]]"
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08

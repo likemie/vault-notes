@@ -24,7 +24,7 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
 related_arguments:
-  - "[[Comparative education: and now? Comparative Education, 59(3), 326-340]]"
+  - "[[Argument_Cowen_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06

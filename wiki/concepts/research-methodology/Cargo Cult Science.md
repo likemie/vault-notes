@@ -29,8 +29,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Leading the blind: A critical look at Visible Learning]]"
-  - "[[How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician]]"
+  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

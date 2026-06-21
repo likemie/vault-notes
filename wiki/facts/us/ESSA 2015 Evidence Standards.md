@@ -33,9 +33,9 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
-  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

@@ -25,7 +25,7 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
 related_facts: []
 related_arguments:
-  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

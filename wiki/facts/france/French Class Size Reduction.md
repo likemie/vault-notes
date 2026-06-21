@@ -23,7 +23,7 @@ related_persons: []
 related_facts:
   - "[[Campbell Collaboration]]"
 related_arguments:
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

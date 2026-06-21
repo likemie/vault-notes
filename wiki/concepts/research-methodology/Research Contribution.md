@@ -25,7 +25,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Research Methods in Education · Ch06]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-20

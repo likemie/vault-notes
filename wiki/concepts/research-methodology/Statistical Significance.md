@@ -32,11 +32,11 @@ related_persons: []
 related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
-  - "[[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]]"
-  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]]"
+  - "[[Argument_Allerup_2015_Paideia]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: low
 status: draft
 created: '2026-05-05'

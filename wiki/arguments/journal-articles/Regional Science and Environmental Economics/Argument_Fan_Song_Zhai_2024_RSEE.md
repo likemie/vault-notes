@@ -3,7 +3,7 @@ summary: "基于中国30个省份2001-2022年面板数据，构建教育-科技-
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Education, science and technology, and talent integrated development: Evidence from China"
+title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"

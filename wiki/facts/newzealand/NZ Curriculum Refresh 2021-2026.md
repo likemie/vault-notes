@@ -28,7 +28,7 @@ related_persons: []
 related_facts:
   - "[[The New Zealand Curriculum]]"
 related_arguments:
-  - "[[Knowledge and the New Zealand curriculum refresh]]"
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-06

@@ -7,7 +7,7 @@ summary: "第1章建立本体论→认识论→方法论的层级推导框架，
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch01"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"

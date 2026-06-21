@@ -5,7 +5,7 @@ summary: "系统梳理近二十年对 PISA 的批评，从教育观、实施和�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Two decades of havoc: A synthesis of criticism against PISA"
+title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"

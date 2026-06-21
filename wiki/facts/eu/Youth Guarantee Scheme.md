@@ -31,7 +31,7 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

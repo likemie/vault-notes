@@ -31,7 +31,7 @@ related_facts:
   - "[[OECD]]"
   - "[[SveaSus Project]]"
 related_arguments:
-  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

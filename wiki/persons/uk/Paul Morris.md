@@ -24,8 +24,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
-  - "[[International Education and the Chinese Learner]]"
+  - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Ryan_2010_HKUP]]"
 related_facts:
   - "[[PISA]]"
   - "[[Liberal Studies]]"

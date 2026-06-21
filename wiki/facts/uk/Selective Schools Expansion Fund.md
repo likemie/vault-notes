@@ -25,7 +25,7 @@ related_facts:
   - "[[Education and Inspections Act 2006]]"
   - "[[Ofsted]]"
 related_arguments:
-  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

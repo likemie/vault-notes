@@ -32,8 +32,8 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
-  - "[[Metrics, Incentives, Rewards, and Culture for Impact]]"
-  - "[[University–Industry Relations in Clinical Trials]]"
+  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
+  - "[[Argument_Bang_2025_ClinicalTrials]]"
 confidence: medium
 status: draft
 created: 2026-05-28

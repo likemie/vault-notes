@@ -52,8 +52,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Playing for Success]]"
 related_arguments:
-  - "[[Evidence-based teaching: a simple view of 'science']]"
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

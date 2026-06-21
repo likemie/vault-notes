@@ -1,7 +1,7 @@
 ---
 citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for University-Industry Relationships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 51–71). Springer."
 extracted_to:
-  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

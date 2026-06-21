@@ -27,7 +27,7 @@ related_facts:
   - "[[My Pledge to Act]]"
   - "[[Youth Development Blueprint]]"
 related_arguments:
-  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
+  - "[[Argument_Vickers_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25

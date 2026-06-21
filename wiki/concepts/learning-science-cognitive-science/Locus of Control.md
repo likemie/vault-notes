@@ -26,8 +26,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Cultural Foundations of Learning: East and West]]"
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

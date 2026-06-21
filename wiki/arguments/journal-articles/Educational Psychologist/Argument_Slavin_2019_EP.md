@@ -5,7 +5,7 @@ summary: "EBE 支持者阵营的纲领性论述：三条件框架（项目存量
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
+title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
@@ -49,8 +49,8 @@ related_facts:
   - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
 related_arguments:
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 sources:
   - "[[Slavin_2019_EP]]"
 part_of: ''

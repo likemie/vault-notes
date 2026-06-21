@@ -32,7 +32,7 @@ related_persons: []
 related_facts:
   - "[[Pact for Educational Excellence]]"
 related_arguments:
-  - "[[Evidence-based education: The not so simple case of French-speaking Belgium]]"
+  - "[[Argument_Dachet_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-24

@@ -5,7 +5,7 @@ summary: "把 Visible Learning 放进斯堪的纳维亚学校改进语境，主�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
+title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"

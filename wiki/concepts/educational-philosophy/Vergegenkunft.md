@@ -23,7 +23,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
 related_arguments:
-  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Argument_Amos_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-08'

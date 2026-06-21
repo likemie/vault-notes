@@ -23,7 +23,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services]]"
+  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
 confidence: medium
 status: draft
 created: 2026-06-10

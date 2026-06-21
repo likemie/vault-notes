@@ -36,10 +36,10 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
-  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
-  - "[[Comparative education and international relations]]"
-  - "[[A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s]]"
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

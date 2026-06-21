@@ -31,7 +31,7 @@ related_facts:
   - "[[Coleman Report 1966]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
-  - "[[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]]"
+  - "[[Argument_Downey_2016_SoE]]"
 confidence: low
 status: draft
 created: 2026-05-04

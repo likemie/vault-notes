@@ -5,7 +5,7 @@ summary: "VL 最早的学术书评之一，从元-元分析认识论困境、教
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
+title: "Argument_Terhart_2011_JCS"
 argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
@@ -42,7 +42,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Critic and conscience of society: A reply to John Hattie]]"
+  - "[[Argument_Snook_2010_NZJES]]"
 sources:
   - "[[Terhart_2011_JCS]]"
 part_of: ''

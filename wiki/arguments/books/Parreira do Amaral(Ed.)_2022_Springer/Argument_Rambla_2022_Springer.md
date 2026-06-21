@@ -5,7 +5,7 @@ summary: "Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创�
 type: argument
 subtype: book-chapter
 publication_type: book
-title: "Imaginaries of Education and Innovation in the European Union"
+title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
@@ -59,8 +59,8 @@ related_facts:
   - "[[YOUNG_ADULLLT]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments:
-  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
-  - "[[Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_Springer]]"
 sources:
   - "[[Ch10_Rambla_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

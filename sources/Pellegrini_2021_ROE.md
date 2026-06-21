@@ -1,7 +1,7 @@
 ---
 citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25-45. https://doi.org/10.1177/2096531120924670"
 extracted_to:
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
 processed_date: 2026-05-23
 ---
 

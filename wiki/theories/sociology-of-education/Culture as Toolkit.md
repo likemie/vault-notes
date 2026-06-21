@@ -38,7 +38,7 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
-  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08

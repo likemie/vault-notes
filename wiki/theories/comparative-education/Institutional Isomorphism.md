@@ -35,7 +35,7 @@ related_persons:
   - "[[John W. Meyer]]"
 related_facts: []
 related_arguments:
-  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: medium
 status: draft
 created: 2026-05-18

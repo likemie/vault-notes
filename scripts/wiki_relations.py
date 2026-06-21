@@ -291,7 +291,8 @@ def infer_relations(body_without_sources: str, index: dict[str, Entry], self_ent
         # [[Argument_Ball_2008_JEP|(Ball, 2008)]], are evidence links and
         # should be synchronized into related_arguments.
         field = RELATION_FIELDS[entry.type]
-        link = f"[[{entry.title}]]"
+        target = Path(entry.path).stem if entry.type == "argument" and entry.path else entry.title
+        link = f"[[{target}]]"
         if link not in seen_by_field[field]:
             result[field].append(link)
             seen_by_field[field].add(link)

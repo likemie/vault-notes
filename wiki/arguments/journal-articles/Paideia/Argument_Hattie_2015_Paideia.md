@@ -5,7 +5,7 @@ summary: "以自传式方法论回顾回应 Visible Learning 的常见批评，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Synlig læring i dag"
+title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"

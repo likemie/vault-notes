@@ -23,7 +23,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[The Chinese Learner: Misconceptions and Realities]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 confidence: medium
 status: draft
 created: '2026-05-17'

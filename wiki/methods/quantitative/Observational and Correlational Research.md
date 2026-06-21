@@ -42,8 +42,8 @@ related_methods:
   - "[[Multiple Regression]]"
 related_persons: []
 related_arguments:
-  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
-  - "[[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]]"
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: 2026-05-05

@@ -23,7 +23,7 @@ related_methods:
 related_persons:
   - "[[Carol Campbell]]"
 related_arguments:
-  - "[[Evidence-informed practice in education: meanings and applications]]"
+  - "[[Argument_Nelson_2017_ER]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: medium

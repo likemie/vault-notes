@@ -44,8 +44,8 @@ related_facts:
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments:
-  - "[[Producing calculable worlds: education at a glance]]"
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
+  - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: high
 status: draft
 created: '2026-05-01'

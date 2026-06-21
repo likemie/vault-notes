@@ -5,7 +5,7 @@ summary: "VL 支持者立场讨论论文：回应三类批评，并指出学习�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
+title: "Argument_Qvortrup_2015_Paideia"
 argument_key: "Argument_Qvortrup_2015_Paideia"
 argument_display_title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
 argument_kind: "journal-article"

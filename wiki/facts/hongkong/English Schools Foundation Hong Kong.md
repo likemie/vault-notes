@@ -24,7 +24,7 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Symposium on International Teaching]]"
 related_arguments:
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: '2026-05-16'

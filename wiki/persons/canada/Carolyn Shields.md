@@ -19,7 +19,7 @@ related_methods: []
 related_persons:
   - "[[Helen Gunter]]"
 related_arguments:
-  - "[[Leading education beyond what works]]"
+  - "[[Argument_Møller_2017_EERJ]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium

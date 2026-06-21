@@ -5,7 +5,7 @@ summary: "以“教一个匈牙利单词“思想实验证明效应量是试验�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Separating arguments from conclusions: The mistaken role of effect size in educational policy research"
+title: "Argument_Simpson_2019_ERE"
 argument_key: "Argument_Simpson_2019_ERE"
 argument_display_title: "Separating arguments from conclusions: The mistaken role of effect size in educational policy research"
 argument_kind: "journal-article"

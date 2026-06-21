@@ -26,7 +26,7 @@ related_facts:
   - "[[Success for All]]"
   - "[[Investing in Innovation Program]]"
 related_arguments:
-  - "[[Evidence-based education policies: Transforming educational practice and research]]"
+  - "[[Argument_Slavin_2002_ER]]"
 confidence: high
 status: draft
 created: 2026-05-01

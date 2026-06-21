@@ -30,8 +30,8 @@ related_persons:
 related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments:
-  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-07

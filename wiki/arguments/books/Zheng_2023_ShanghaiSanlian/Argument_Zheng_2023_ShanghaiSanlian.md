@@ -5,7 +5,7 @@ summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 
 type: argument
 subtype: monograph
 publication_type: book
-title: "金榜题名之后：大学生出路分化之谜"
+title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"

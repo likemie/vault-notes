@@ -21,12 +21,11 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Wolfgang Klafki]]"
+related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
-  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

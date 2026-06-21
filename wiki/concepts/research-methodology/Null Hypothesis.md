@@ -17,13 +17,11 @@ tags:
   - subject/research-methodology
   - paradigm/positivist
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Alternative Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Analysis of Variance]]"
-  - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

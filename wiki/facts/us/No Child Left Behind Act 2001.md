@@ -31,11 +31,11 @@ related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[Comprehensive School Reform Program]]"
 related_arguments:
-  - "[[Evidence-based education policies: Transforming educational practice and research]]"
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]]"
-  - "[[What works may hurt: Side effects in education]]"
-  - "[[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]]"
+  - "[[Argument_Slavin_2002_ER]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Downey_2016_SoE]]"
+  - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_OConnor_2020_AJLL]]"
 confidence: high
 status: draft
 created: '2026-05-01'

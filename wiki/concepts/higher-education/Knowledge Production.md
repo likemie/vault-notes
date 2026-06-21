@@ -27,7 +27,7 @@ related_persons:
   - "[[Chen Kuan-Hsing]]"
 related_facts: []
 related_arguments:
-  - "[[Two faces of geopolitics of knowledge]]"
+  - "[[Argument_Partaken_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

@@ -20,7 +20,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[University Industry Innovation Network]]"
 related_arguments:
-  - "[[Connecting, Exploring, Uncovering, and Building Partnerships]]"
+  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
 confidence: medium
 status: draft
 created: 2026-05-28

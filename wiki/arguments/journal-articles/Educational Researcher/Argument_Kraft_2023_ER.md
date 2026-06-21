@@ -5,7 +5,7 @@ summary: "回应 Simpson 对效应量基准的批评，以 3,426 个教育干预
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "The effect-size benchmark that matters most: Education interventions often fail"
+title: "Argument_Kraft_2023_ER"
 argument_key: "Argument_Kraft_2023_ER"
 argument_display_title: "The effect-size benchmark that matters most: Education interventions often fail"
 argument_kind: "journal-article"

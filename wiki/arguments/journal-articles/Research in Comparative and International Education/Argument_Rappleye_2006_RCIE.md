@@ -5,7 +5,7 @@ summary: "提出跨国吸引力情境概念地图，拆解情境为结构层与�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
+title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"

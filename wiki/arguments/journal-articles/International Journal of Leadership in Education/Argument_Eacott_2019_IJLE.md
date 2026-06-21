@@ -5,7 +5,7 @@ summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Ranting, raving and complaining: reflections on working against orthodoxy"
+title: "Argument_Eacott_2019_IJLE"
 argument_key: "Argument_Eacott_2019_IJLE"
 argument_display_title: "Ranting, raving and complaining: reflections on working against orthodoxy"
 argument_kind: "journal-article"

@@ -5,7 +5,7 @@ summary: "以批判实在论对证据本位教育方法论进行三层解构：R
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
+title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
@@ -64,8 +64,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[ResearchED]]"
 related_arguments:
-  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Wrigley_2018_BERJ]]"
 part_of: ""

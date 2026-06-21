@@ -28,7 +28,7 @@ related_facts:
   - "[[1904 Educational System]]"
   - "[[American Attraction to Japanese Education 1980s]]"
 related_arguments:
-  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
+  - "[[Argument_Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

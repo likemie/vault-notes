@@ -23,7 +23,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 confidence: low
 status: draft
 created: '2026-05-03'

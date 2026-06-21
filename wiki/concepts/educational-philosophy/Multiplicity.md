@@ -28,7 +28,7 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts: []
 related_arguments:
-  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
+  - "[[Argument_Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

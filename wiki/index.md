@@ -1610,311 +1610,311 @@ Total entries: **1393**
 ### Books
 
 > [!summary]- Argument_Bates_2017_CognitionEducationTrust.md (1)
-> - [[Darwin's Finch: A Short History of Cognition]] — 受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognition Education 的多次转向重写为适应性证据 并把商业扩张与公益使命组织成同一套自我解释
+> - [[Argument_Bates_2017_CognitionEducationTrust]] — 受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognition Education 的多次转向重写为适应性证据 并把商业扩张与公益使命组织成同一套自我解释
 
 > [!summary]- Argument_Li_2012_Cambridge.md (1)
-> - [[Cultural Foundations of Learning: East and West]] — 以好學心为切入点对比东亚与西方两种文化学习模型，追溯各自知识传统并分析文化如何塑造学习信念与过程
+> - [[Argument_Li_2012_Cambridge]] — 以好學心为切入点对比东亚与西方两种文化学习模型，追溯各自知识传统并分析文化如何塑造学习信念与过程
 
 > [!summary]- Cheng_2026_KeJiChuangXin (1)
-> - [[科技创新和产业创新融合：中国的发展路径与对策研究报告]] — 本研究报告系统梳理了中国科技创新与产业创新深度融合的发展脉络、现状成效及面临的挑战，分析了提升科技供给、强化企业创新主体地位以及促进科技成果转化的关键路径。
+> - [[Argument_Cheng_2026_KeJiChuangXin]] — 本研究报告系统梳理了中国科技创新与产业创新深度融合的发展脉络、现状成效及面临的挑战，分析了提升科技供给、强化企业创新主体地位以及促进科技成果转化的关键路径。
 
 > [!summary]- Cohen_Manion_Morrison_2011_Routledge (8)
-> - [[Research Methods in Education]] — 教育研究方法的综合性教材(第七版)，涵盖研究范式、研究设计、资料收集与分析方法，以及不同类型研究方法的操作指南。
-> - [[Research Methods in Education · Ch01]] — 第1章建立本体论→认识论→方法论的层级推导框架，以库恩范式概念统摄实证主义与诠释范式之争，系统介绍三大质性研究传统、混合方法研究、后实证/后现代/后结构主义以及复杂性理论。
-> - [[Research Methods in Education · Ch02]] — 第2章以哈贝马斯认识兴趣三分法为理论框架，系统介绍批判理论、意识形态批判、参与式研究和女性主义研究在教育研究中的应用、内部批评与课程实践。
-> - [[Research Methods in Education · Ch03]] — 第3章以研究（research）与评估（evaluation）的概念比较为主线，从意图、受众、议程、所有权、政治立场等维度系统区分二者，进而追踪分类资助（categorical funding）和评估政治化如何模糊二者边界，最后分析研究、政治与政策制定的复杂关系。
-> - [[Research Methods in Education · Ch04]] — 第4章系统介绍教育研究中因果推断的关键议题，包括原因与条件、概率因果性、反事实推理、因果过度决定、筛选隔离、因果方向、行动叙事在因果解释中的作用，以及研究原因之效果与回溯效果之原因的两种策略。
-> - [[Research Methods in Education · Ch05]] — 第5章系统拆解教育与社会研究伦理的19个议题，从伦理理论基础（道义论/后果论/德性伦理、成本/收益比、Seedhouse金字塔）出发，逐层推进知情同意、研究准入、隐私/匿名/保密、欺骗与隐蔽研究、电子与评估研究伦理、伦理守则与审查委员会，最终落脚于个人伦理守则的建构。
-> - [[Research Methods in Education · Ch06]] — 系统拆解选择研究课题时的七个关键决策点：23种选题来源及维持兴趣的情感判断、研究重要性的多维评估（原创性≠贡献，四个评估维度）、28种研究目的与方法的对应关系及目的适配性原则、研究可操作性的六个约束维度、研究问题的30种类型谱系与质性研究无RQ的讨论、文献综述的七项目的与规模作为选题决策因素、Box 6.1的36条操作清单。
-> - [[Research Methods in Education · Ch07]] — 系统拆解研究规划的完整框架：以目的适切性为核心原则，经由发散-收敛两阶段和四领域框架（定向决策、研究设计与方法论、数据分析、呈现与报告），逐步将一般研究目的操作化为具体研究问题，并通过规划矩阵、四阶段管理模型和35条质量清单确保规划的系统性与严谨性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge]] — 教育研究方法的综合性教材(第七版)，涵盖研究范式、研究设计、资料收集与分析方法，以及不同类型研究方法的操作指南。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 第1章建立本体论→认识论→方法论的层级推导框架，以库恩范式概念统摄实证主义与诠释范式之争，系统介绍三大质性研究传统、混合方法研究、后实证/后现代/后结构主义以及复杂性理论。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]] — 第2章以哈贝马斯认识兴趣三分法为理论框架，系统介绍批判理论、意识形态批判、参与式研究和女性主义研究在教育研究中的应用、内部批评与课程实践。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]] — 第3章以研究（research）与评估（evaluation）的概念比较为主线，从意图、受众、议程、所有权、政治立场等维度系统区分二者，进而追踪分类资助（categorical funding）和评估政治化如何模糊二者边界，最后分析研究、政治与政策制定的复杂关系。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 第4章系统介绍教育研究中因果推断的关键议题，包括原因与条件、概率因果性、反事实推理、因果过度决定、筛选隔离、因果方向、行动叙事在因果解释中的作用，以及研究原因之效果与回溯效果之原因的两种策略。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]] — 第5章系统拆解教育与社会研究伦理的19个议题，从伦理理论基础（道义论/后果论/德性伦理、成本/收益比、Seedhouse金字塔）出发，逐层推进知情同意、研究准入、隐私/匿名/保密、欺骗与隐蔽研究、电子与评估研究伦理、伦理守则与审查委员会，最终落脚于个人伦理守则的建构。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]] — 系统拆解选择研究课题时的七个关键决策点：23种选题来源及维持兴趣的情感判断、研究重要性的多维评估（原创性≠贡献，四个评估维度）、28种研究目的与方法的对应关系及目的适配性原则、研究可操作性的六个约束维度、研究问题的30种类型谱系与质性研究无RQ的讨论、文献综述的七项目的与规模作为选题决策因素、Box 6.1的36条操作清单。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]] — 系统拆解研究规划的完整框架：以目的适切性为核心原则，经由发散-收敛两阶段和四领域框架（定向决策、研究设计与方法论、数据分析、呈现与报告），逐步将一般研究目的操作化为具体研究问题，并通过规划矩阵、四阶段管理模型和35条质量清单确保规划的系统性与严谨性。
 
 > [!summary]- Creswell_2022_SAGE (1)
-> - [[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程
+> - [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程
 
 > [!summary]- Hall_Boccanfuso_2025_Springer (18)
-> - [[Alignment, Engagement, and Public Benefits]] — 以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新
-> - [[Connecting, Exploring, Uncovering, and Building Partnerships]] — 从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色
-> - [[Data: Access, generation, use]] — 产学合作中数据的定义、所有权与使用权的法律区分、隐私安全治理框架以及 UIDP 13 条数据条款特征的系统梳理，指出数据应作为独立议题在协议中明确定义而非泛化为知识产权的附属项
-> - [[Ethical relationships, legal frameworks, and agreements]] — 产学合作协议的类型学与谈判框架梳理，从法律、伦理和文化三维度分析大学与企业如何在价值差异中达成正式合作
-> - [[Evolution of University-Industry Relationships for Driving Innovation]] — 综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架
-> - [[Gaining Support Within Companies for Collaboration]] — 从企业内部实践者视角分析如何在公司内部为产学合作争取支持，围绕公司哲学对齐、度量指标、资助结构、治理机制、组织设计、公司生命周期演化、时间尺度协调、研究转化和跨部门合作九个挑战维度逐一给出方案，并以 Intel UPCRC 案例说明半导体行业转折点上的策略性响应
-> - [[Gaining Support Within Universities for Collaboration]] — 以滑铁卢大学的产学合作文化与 Schlegel-UW 老龄化研究所为深度案例，系统分析激励教师参与产学合作的七重机制——政府配对资金、研究生实习、行政中介、共同选址、研究安全、研究评估改革与跨院系示范——论证单一机制不足以推动合作，只有多重互补机制构成自增强系统才能克服产学之间的文化断层与制度障碍
-> - [[Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges]] — 以哥伦比亚大学气候学院的跨学科高管教育为案例，论证面向复杂社会挑战的高管教育需要在课程设计、教师参与、伙伴合作和项目评估四个维度进行系统性创新，并提出跨学科主题设计与客户共生的课程开发模式
-> - [[Innovation Centers and Economic Development]] — 基于大学融资基金会四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展
-> - [[International research collaborations between universities and industry]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
-> - [[Metrics, Incentives, Rewards, and Culture for Impact]] — 以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑
-> - [[Organization and Strategy for University-Industry Relationships]] — 构建产学参与的活动-基础-特征三维框架，通过65所大学网站分析和产学双方问卷调查，发现五种常见组织模式且无一完全全面，中心办公室仅充当导航者而非执行者，双方在互利关系上高度一致但组织实践高度碎片化
-> - [[The unique role of academic health systems in facilitating innovative UI partnerships]] — 论证学术健康系统是一种不同于传统学术医学中心的独特产学合作组织载体，以医师科学家为关键催化者，通过价值对齐模型将大学、产业和医院的优先差异重新聚焦到患者中心，从而促进医用创新的翻译和部署
-> - [[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]] — 基于南加州创新联盟八年运营经验及对 20 余位大学产学合作领导者的访谈，分析大学衍生企业面临的结构性障碍——IP 所有权毒丸与风投风险偏好不匹配——并梳理产业通过概念验证项目、创新联盟和驻校企业家提供市场声音的有效路径
-> - [[University-Industry Alliances and Consortia]] — 将产学联盟与联合体按组织化程度排列为从行业咨询委员会到创新中心的四种模式，以AMRC为案例提炼出限制发起成员数量、跨越供应链价值线、前竞争IP共有等可复制经验
-> - [[University-Industry Collaboration: Innovation at the Interface]] — 围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17  章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战
-> - [[University–Industry Relations in Clinical Trials]] — 以临床试验各阶段为框架，分析产学在生物制药临床试验中的合作模式、预算与启动效率瓶颈及主方案等创新解决方案
-> - [[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]] — 产学合作中知识产权问题的实践指南，分析大学与产业因组织使命差异导致的 IP 利益冲突，提出通过明确界定前景 IP 与背景 IP、合理设计权利转让条款来化解冲突的策略框架
+> - [[Argument_Bang_2025_ClinicalTrials]] — 以临床试验各阶段为框架，分析产学在生物制药临床试验中的合作模式、预算与启动效率瓶颈及主方案等创新解决方案
+> - [[Argument_Boccanfuso_Hall_2025_Alignment]] — 以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 构建产学参与的活动-基础-特征三维框架，通过65所大学网站分析和产学双方问卷调查，发现五种常见组织模式且无一完全全面，中心办公室仅充当导航者而非执行者，双方在互利关系上高度一致但组织实践高度碎片化
+> - [[Argument_Brock_2025_DataAccessGenerationUse]] — 产学合作中数据的定义、所有权与使用权的法律区分、隐私安全治理框架以及 UIDP 13 条数据条款特征的系统梳理，指出数据应作为独立议题在协议中明确定义而非泛化为知识产权的附属项
+> - [[Argument_Burrus_Patera_2025_PartnershipBuilding]] — 从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色
+> - [[Argument_Byrne_2025_InnovationCenters]] — 基于大学融资基金会四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展
+> - [[Argument_Dean_2025_UICollaborationSupport]] — 以滑铁卢大学的产学合作文化与 Schlegel-UW 老龄化研究所为深度案例，系统分析激励教师参与产学合作的七重机制——政府配对资金、研究生实习、行政中介、共同选址、研究安全、研究评估改革与跨院系示范——论证单一机制不足以推动合作，只有多重互补机制构成自增强系统才能克服产学之间的文化断层与制度障碍
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups]] — 基于南加州创新联盟八年运营经验及对 20 余位大学产学合作领导者的访谈，分析大学衍生企业面临的结构性障碍——IP 所有权毒丸与风投风险偏好不匹配——并梳理产业通过概念验证项目、创新联盟和驻校企业家提供市场声音的有效路径
+> - [[Argument_Hall(Ed.)_2025_Springer]] — 围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17  章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战
+> - [[Argument_Hall_2025_EthicalLegalFrameworks]] — 产学合作协议的类型学与谈判框架梳理，从法律、伦理和文化三维度分析大学与企业如何在价值差异中达成正式合作
+> - [[Argument_Hoffman_2025_UI_Alliances_Consortia]] — 将产学联盟与联合体按组织化程度排列为从行业咨询委员会到创新中心的四种模式，以AMRC为案例提炼出限制发起成员数量、跨越供应链价值线、前竞争IP共有等可复制经验
+> - [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]] — 以哥伦比亚大学气候学院的跨学科高管教育为案例，论证面向复杂社会挑战的高管教育需要在课程设计、教师参与、伙伴合作和项目评估四个维度进行系统性创新，并提出跨学科主题设计与客户共生的课程开发模式
+> - [[Argument_Narayan_Spohrer_2025_Metrics]] — 以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑
+> - [[Argument_Ramming_2025_CorporateSupport]] — 从企业内部实践者视角分析如何在公司内部为产学合作争取支持，围绕公司哲学对齐、度量指标、资助结构、治理机制、组织设计、公司生命周期演化、时间尺度协调、研究转化和跨部门合作九个挑战维度逐一给出方案，并以 Intel UPCRC 案例说明半导体行业转折点上的策略性响应
+> - [[Argument_Susalka_Carbone_2025_IP_Web]] — 产学合作中知识产权问题的实践指南，分析大学与产业因组织使命差异导致的 IP 利益冲突，提出通过明确界定前景 IP 与背景 IP、合理设计权利转让条款来化解冲突的策略框架
+> - [[Argument_Swick_Jones_2025_AcademicHealthSystems]] — 论证学术健康系统是一种不同于传统学术医学中心的独特产学合作组织载体，以医师科学家为关键催化者，通过价值对齐模型将大学、产业和医院的优先差异重新聚焦到患者中心，从而促进医用创新的翻译和部署
+> - [[Argument_Ulrichsen_2025_UIR_Evolution]] — 综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架
+> - [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
 
 > [!summary]- Parreira do Amaral(Ed.)_2022_Springer (15)
-> - [[(Un)avoidable clash: Higher education at the altar of its missions and rankings]] — Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
-> - [[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
-> - [[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]] — Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
-> - [[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]] — 以文化政治经济学和比较案例研究为框架，从文化外交与政治经济两个维度比较新加坡与阿联酋的教育枢纽项目，揭示该路径绕开制度建设、依赖市场自由化与基础设施扩张却获国际发展界认可的悖论
-> - [[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]] — Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
-> - [[Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开
-> - [[Imaginaries of Education and Innovation in the European Union]] — Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
-> - [[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
-> - [[In what sense a geopolitical knowledge-based economy? In M]] — Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
-> - [[Rise of Asia, geopolitical shifts and higher education]] — Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
-> - [[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]] — 以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。
-> - [[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]] — Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
-> - [[Two faces of geopolitics of knowledge]] — Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
-> - [[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]] — Ch9 Mike Zapp，以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
-> - [[Which Vision of Education for Late Modernity? In M]] — Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
+> - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
+> - [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
+> - [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
+> - [[Argument_Erfurth_2022_education-hubs]] — 以文化政治经济学和比较案例研究为框架，从文化外交与政治经济两个维度比较新加坡与阿联酋的教育枢纽项目，揭示该路径绕开制度建设、依赖市场自由化与基础设施扩张却获国际发展界认可的悖论
+> - [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
+> - [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
+> - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
+> - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开
+> - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
+> - [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
+> - [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
+> - [[Argument_Thompson_2022_Promising_Student]] — Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
+> - [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp，以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
+> - [[Argument_Zelinka_2022_SCD_subjectivity]] — 以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。
 
 > [!summary]- Ryan(Ed.)_2010_HKUP (3)
-> - [[International Education and the Chinese Learner]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中 国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
-> - [[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
-> - [[The Chinese Learner: Misconceptions and Realities]] — Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
+> - [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
+> - [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中 国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
+> - [[Argument_Slethaug_2010_InternationalEducation]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
 
 > [!summary]- Zhang_2023_PHEI (1)
-> - [[科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索]] — 基于系统论思想构建科技创新双循环生态系统模型，以粤港澳大湾区为例分析创新资源配置的现实基础与问题，借鉴世界三大湾区经验，提出以广深港和广珠澳科技创新走廊为轴的国内循环系统和以一带一路为核心的国际循环系统建设路径
+> - [[Argument_Zhang_2023_PHEI]] — 基于系统论思想构建科技创新双循环生态系统模型，以粤港澳大湾区为例分析创新资源配置的现实基础与问题，借鉴世界三大湾区经验，提出以广深港和广珠澳科技创新走廊为轴的国内循环系统和以一带一路为核心的国际循环系统建设路径
 
 > [!summary]- Zheng_2023_ShanghaiSanlian (1)
-> - [[金榜题名之后：大学生出路分化之谜]] — 以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。
 
 ### Journal Articles
 
 > [!summary]- Archives of Psychology (1)
-> - [[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]] — 将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数
+> - [[Argument_Bolton_2017_ArchPsych]] — 将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数
 
 > [!summary]- Assessment & Evaluation in Higher Education (1)
-> - [[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]] — 基于美国和新西兰三所大学博士毕业生的调查与访谈，比较人文与社会科学及科学学科毕业生的能力发展与职场应用差距，提出包含全球公民维度的博士毕业生特质七域分类框架
+> - [[Argument_SpronkenSmith_2024_AEHE]] — 基于美国和新西兰三所大学博士毕业生的调查与访谈，比较人文与社会科学及科学学科毕业生的能力发展与职场应用差距，提出包含全球公民维度的博士毕业生特质七域分类框架
 
 > [!summary]- Australian Educational Researcher (1)
-> - [[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。
+> - [[Argument_Skourdoumbis_2024_AER]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。
 
 > [!summary]- Australian Journal of Language and Literacy (1)
-> - [[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]] — 以《可见的学习》（Visible Learning，VL）全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
+> - [[Argument_OConnor_2020_AJLL]] — 以《可见的学习》（Visible Learning，VL）全语言评估为案例的方法论细读，揭示哈蒂在元元分析中的分类错误、非对称审查与选择性排除，论证预设偏见如何驱动数据剪裁与新自由主义教育政策。
 
 > [!summary]- British Educational Research Journal (1)
-> - [[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]] — 以批判实在论对证据本位教育方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中
+> - [[Argument_Wrigley_2018_BERJ]] — 以批判实在论对证据本位教育方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（约翰·哈蒂与工具包）的失真，并将证据本位教育定位在新自由主义审计框架中
 
 > [!summary]- Cogent Education (1)
-> - [[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]] — 历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）的现象学、德语区教化/教学论传统及建构主义心理学根源，揭示整体性教育潜能与新自由主义可测量性及技能原子化政策之间的内在张力。
+> - [[Argument_Schaffar_2024_CogentEdu]] — 历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）的现象学、德语区教化/教学论传统及建构主义心理学根源，揭示整体性教育潜能与新自由主义可测量性及技能原子化政策之间的内在张力。
 
 > [!summary]- Comparative Education (11)
-> - [['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]] — 对比大陆与香港初中中国历史教科书的国家叙事，大陆以领土构成和民族包容性建构中国，香港以民族构成和领土变化建构中国，揭示两种叙事差异植根于两地不同的社会政治背景
-> - [[A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s]] — 以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，揭示民主教育理想与渐进改革路径在缺乏民主的社会中无法兼存，杜威由此被碎片化为可支持激进与温和两种对立立场的知识资源
-> - [[Comparative education and international relations]] — 运用 Wight 国际理论三大传统（现实主义、理性主义、革命主义）重新解读比较教育的历史形态，论证对国际社会性质的不同理解使不同的比较教育成为可能，并揭示比较教育的注意力议程如何随国际关系变迁而转换
-> - [[Comparative education: and now? Comparative Education, 59(3), 326-340]] — 诊断比较教育学科积累了过多惯例化的自我合法化方式，指出四种并存但矛盾的理解形式及其政治预设，主张以转移和受教育身份两个核心问题重新出发
-> - [[Confucianism in multicultural China: 'official knowledge' vs marginalised views]] — 对比六科教科书官方儒家叙事与37名少数民族/宗教背景学生访谈，揭示官方知识将儒学塑造为中华文化核心以强化汉文化中心边缘等级，而学生视其为文化多元组成之一并可被跨文化反思
-> - [[Migration for school choice: urbanisation and rural social stratification in China]] — 以G县混合方法研究揭示陪读按家庭社会经济地位分层，经济资本决定能否陪读、社会资本决定进入哪所学校，中上层迁出加速农村学校衰败，使城镇化战略未能减少反而强化了城乡教育不平等
-> - [[Policy spaces, mobile discourses, and the definition of educated identities]] — 以 Castells 流动空间与地方空间的区分为分析框架，追踪教育话语从全球政策空间到国家政策再到学校实践的逐层转化，论证全球话语被抽象为脱离历史经验的漂浮能指以获取最大可接受性，并在每一层转化中发生意义与实践效果的根本变化
-> - [[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]] — 以第三代活动理论为框架，分析中国四校在跨文化教师教育项目中考试问责系统与LCE改革系统的互动，发现两者并非必然对立，关键在于建立学校特定的共享目标并协调活动系统各要素
-> - [[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]] — 比较 LS 2020 版与 CSD 2022 版教科书在历史叙事、一国两制、文化角色和公民权利四个维度的变化，论证国安法后香港课程从培养批判性参与公民转向强制灌输单一中国身份
-> - [[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]] — 比较教育以方法论、形式和情境三个惯例转移了对教育转移的注意力，提出转移—转译—转化三阶段框架和形变问题意识，指出学科缺乏描述教育制度形状的概念词汇
-> - [[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]] — 以中华民族建构为分析对象，批评西方灭绝种族与死亡政治范式剥夺少数民族政治能动性，提出中国民族政策的核心要求是少数民族的自我牺牲
+> - [[Argument_Beech_2009_CE]] — 以 Castells 流动空间与地方空间的区分为分析框架，追踪教育话语从全球政策空间到国家政策再到学校实践的逐层转化，论证全球话语被抽象为脱离历史经验的漂浮能指以获取最大可接受性，并在每一层转化中发生意义与实践效果的根本变化
+> - [[Argument_Bulag_2024_CE]] — 以中华民族建构为分析对象，批评西方灭绝种族与死亡政治范式剥夺少数民族政治能动性，提出中国民族政策的核心要求是少数民族的自我牺牲
+> - [[Argument_Cowen_2009_CE]] — 比较教育以方法论、形式和情境三个惯例转移了对教育转移的注意力，提出转移—转译—转化三阶段框架和形变问题意识，指出学科缺乏描述教育制度形状的概念词汇
+> - [[Argument_Cowen_2023_CE]] — 诊断比较教育学科积累了过多惯例化的自我合法化方式，指出四种并存但矛盾的理解形式及其政治预设，主张以转移和受教育身份两个核心问题重新出发
+> - [[Argument_Klerides_2023_CE]] — 运用 Wight 国际理论三大传统（现实主义、理性主义、革命主义）重新解读比较教育的历史形态，论证对国际社会性质的不同理解使不同的比较教育成为可能，并揭示比较教育的注意力议程如何随国际关系变迁而转换
+> - [[Argument_Teng_2025_CE]] — 以G县混合方法研究揭示陪读按家庭社会经济地位分层，经济资本决定能否陪读、社会资本决定进入哪所学校，中上层迁出加速农村学校衰败，使城镇化战略未能减少反而强化了城乡教育不平等
+> - [[Argument_Vickers_2024_CE]] — 比较 LS 2020 版与 CSD 2022 版教科书在历史叙事、一国两制、文化角色和公民权利四个维度的变化，论证国安法后香港课程从培养批判性参与公民转向强制灌输单一中国身份
+> - [[Argument_Wang_2025_CE]] — 以第三代活动理论为框架，分析中国四校在跨文化教师教育项目中考试问责系统与LCE改革系统的互动，发现两者并非必然对立，关键在于建立学校特定的共享目标并协调活动系统各要素
+> - [[Argument_Xu_2024_CE]] — 对比大陆与香港初中中国历史教科书的国家叙事，大陆以领土构成和民族包容性建构中国，香港以民族构成和领土变化建构中国，揭示两种叙事差异植根于两地不同的社会政治背景
+> - [[Argument_Yu_2024_CE]] — 对比六科教科书官方儒家叙事与37名少数民族/宗教背景学生访谈，揭示官方知识将儒学塑造为中华文化核心以强化汉文化中心边缘等级，而学生视其为文化多元组成之一并可被跨文化反思
+> - [[Argument_Zhou_2024_CE]] — 以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，揭示民主教育理想与渐进改革路径在缺乏民主的社会中无法兼存，杜威由此被碎片化为可支持激进与温和两种对立立场的知识资源
 
 > [!summary]- Critical Education (1)
-> - [[Leading the blind: A critical look at Visible Learning]] — 从方法论不透明、新泰勒主义教师监控、新自由主义商业化、Cargo Cult Science 四角度对 VL 的系统批判
+> - [[Argument_Johnson_2023_CE]] — 从方法论不透明、新泰勒主义教师监控、新自由主义商业化、Cargo Cult Science 四角度对 VL 的系统批判
 
 > [!summary]- Discourse: Studies in the Cultural Politics of Education (2)
-> - [[Producing calculable worlds: education at a glance]] — 以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
-> - [[Seven reasons to question the hegemony of Visible Learning]] — 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
+> - [[Argument_Gorur_2014_Discourse]] — 以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
+> - [[Argument_McKnight_2020_Discourse]] — 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
 
 > [!summary]- ECNU Review of Education (6)
-> - [[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]] — 以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说明教育项目证据的使用受研究设计属性、实施语境和利益相关者价值判断共同塑造
-> - [[Evidence-based education: The not so simple case of French-speaking Belgium]] — 以法语比利时教育卓越公约为叙事案例，说明证据本位改革在定性研究传统较强且本地实验项目稀少的系统中只能通过包容性证据类型学、利益相关者协商和试点评价逐步制度化。
-> - [[Evidence-based policies in education: Initiatives and challenges in Europe]] — 梳理2006年以来欧盟证据知情教育政策和证据中介组织，指出欧洲进展主要停留在倡议和网络层面，真正落地受外部效度、经费再平衡和关键能力评估难题制约
-> - [[Evidence-based reform in education: Global perspectives [Editorial]]] — ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT，汇集七国八篇文章，按四项核心活动框架呈现证据本位改革全球全景
-> - [[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]] — 首个中美英证据本位改革国际比较：记录中国教育实证研究的制度化发展（ECNU 论坛、华东师大宣言、BEiB），呈现中国学者五类内部质疑，以四项核心活动框架分析中国情境
-> - [[Space, power, and globalization: On the geopolitics of higher education]] — 以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性
+> - [[Argument_Cheung_2021_ROE]] — ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT，汇集七国八篇文章，按四项核心活动框架呈现证据本位改革全球全景
+> - [[Argument_Dachet_2021_ROE]] — 以法语比利时教育卓越公约为叙事案例，说明证据本位改革在定性研究传统较强且本地实验项目稀少的系统中只能通过包容性证据类型学、利益相关者协商和试点评价逐步制度化。
+> - [[Argument_Marginson_2025_ROE]] — 以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性
+> - [[Argument_Pellegrini_2021_ROE]] — 梳理2006年以来欧盟证据知情教育政策和证据中介组织，指出欧洲进展主要停留在倡议和网络层面，真正落地受外部效度、经费再平衡和关键能力评估难题制约
+> - [[Argument_Ross_Morrison_2021_ROE]] — 以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说明教育项目证据的使用受研究设计属性、实施语境和利益相关者价值判断共同塑造
+> - [[Argument_Slavin_2021_ROE]] — 首个中美英证据本位改革国际比较：记录中国教育实证研究的制度化发展（ECNU 论坛、华东师大宣言、BEiB），呈现中国学者五类内部质疑，以四项核心活动框架分析中国情境
 
 > [!summary]- Economia Politica (1)
-> - [[The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services]] — 对 Pavitt（1984）分类法进行跨国家和跨时间实证检验，基于欧洲七国三轮 CIS 数据将分类法扩展至服务业和 ICT 行业，确认四类核心结构仍然稳健但需要将规模密集型修订为规模与信息密集型
+> - [[Argument_Bogliacino_Pianta_2016_EP]] — 对 Pavitt（1984）分类法进行跨国家和跨时间实证检验，基于欧洲七国三轮 CIS 数据将分类法扩展至服务业和 ICT 行业，确认四类核心结构仍然稳健但需要将规模密集型修订为规模与信息密集型
 
 > [!summary]- Economic and Social Changes: Facts, Trends, Forecast (1)
-> - [[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]] — 以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系统综述 10+ 位批评者论点，评估 VL 对俄教育政策的适用性并建议拒绝借用
+> - [[Argument_Golovchin_2019_ESC]] — 以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系统综述 10+ 位批评者论点，评估 VL 对俄教育政策的适用性并建议拒绝借用
 
 > [!summary]- Education Sciences (1)
-> - [[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]] — 从 Bildung、神经可塑性、现象学自由和概念史四维度对 Hattie VL 范式的哲学批判，论证盲视是教育观看不可避免的组成部分
+> - [[Argument_Larsen_2019_EducSci]] — 从 Bildung、神经可塑性、现象学自由和概念史四维度对 Hattie VL 范式的哲学批判，论证盲视是教育观看不可避免的组成部分
 
 > [!summary]- Educational Philosophy and Theory (2)
-> - [[A critique of John Hattie's theory of Visible Learning]] — 以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论
-> - [[Problematising the intellectual gaze of the educational administration scholar]] — 以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件
+> - [[Argument_Eacott_2015_EPT]] — 以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件
+> - [[Argument_Rømer_2018_EPT]] — 以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论
 
 > [!summary]- Educational Psychologist (1)
-> - [[How Evidence-Based Reform Will Transform Research and Practice in Education]] — EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案
+> - [[Argument_Slavin_2019_EP]] — EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案
 
 > [!summary]- Educational Psychology Review (1)
-> - [[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]] — 追踪 2020 年五本教育心理学经验期刊的方法趋势，发现随机实验降至 20%、非干预文章中约三分之二包含实践建议
+> - [[Argument_Brady_2023_EPR]] — 追踪 2020 年五本教育心理学经验期刊的方法趋势，发现随机实验降至 20%、非干预文章中约三分之二包含实践建议
 
 > [!summary]- Educational Research (1)
-> - [[Evidence-informed practice in education: meanings and applications]] — EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻
+> - [[Argument_Nelson_2017_ER]] — EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻
 
 > [!summary]- Educational Research and Evaluation (4)
-> - [[Evidence-based teaching: a simple view of 'science']] — 以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真
-> - [[For whom does 'what works' work? The political economy of evidence-based education]] — 以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价
-> - [[Separating arguments from conclusions: The mistaken role of effect size in educational policy research]] — 以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略
-> - [[Some reflections on the role of evidence in improving education]] — ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架
+> - [[Argument_Cowen_2019_ERE]] — 以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价
+> - [[Argument_Simpson_2019_ERE]] — 以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略
+> - [[Argument_Wiliam_2019_ERE]] — ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架
+> - [[Argument_Wrigley_2019_ERE]] — 以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真
 
 > [!summary]- Educational Researcher (2)
-> - [[Evidence-based education policies: Transforming educational practice and research]] — EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和“基于研究 vs 经评估“的关键区分
-> - [[The effect-size benchmark that matters most: Education interventions often fail]] — 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张“教育干预经常失败“才是解释政策相关性的核心基准
+> - [[Argument_Kraft_2023_ER]] — 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张“教育干预经常失败“才是解释政策相关性的核心基准
+> - [[Argument_Slavin_2002_ER]] — EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和“基于研究 vs 经评估“的关键区分
 
 > [!summary]- Encuentros sobre Educación (1)
-> - [[The Chinese Dewey: Friend, fiend, and flagship]] — 追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化而非简单误解，以服务于每个时期知识分子的不同议程
+> - [[Argument_Schulte_2009_EncuentrosEducacion]] — 追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化而非简单误解，以服务于每个时期知识分子的不同议程
 
 > [!summary]- European Educational Research Journal (1)
-> - [[Leading education beyond what works]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
+> - [[Argument_Møller_2017_EERJ]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 
 > [!summary]- Evaluation Review (1)
-> - [[Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review]] — 基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策
+> - [[Argument_Berk_2011_ER]] — 基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策
 
 > [!summary]- Globalisation, Societies and Education (1)
-> - [[Interpreting the circulation of educational discourse across space: searching for new vocabularies]] — 批评比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用关系性空间概念和行动者网络理论分析教育话语的跨空间流通
+> - [[Argument_Beech_2015_GSE]] — 批评比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用关系性空间概念和行动者网络理论分析教育话语的跨空间流通
 
 > [!summary]- Higher Education (2)
-> - [[Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties]] — 基于对粤港澳大湾区关键节点大学教师的半结构化访谈，结合 Lefebvre 空间三元辩证法和 Burt 结构洞理论，分析 GBA 高等教育空间的生产过程，揭示早期战略行动者如何在三个空间维度间桥接产学政网络并填补结构性空洞
-> - [[The new political economy of higher education: between distributional conflicts and discursive stratification]] — 以学术资本主义多样性、话语分层和新封建等级为核心现象，论证制度分析、阶级理论和话语分析三种路径需在分配冲突与符号建构之间建立批判性对话才能把握竞争转型的混合秩序
+> - [[Argument_Cai_Gao_Liu_2025_HE]] — 基于对粤港澳大湾区关键节点大学教师的半结构化访谈，结合 Lefebvre 空间三元辩证法和 Burt 结构洞理论，分析 GBA 高等教育空间的生产过程，揭示早期战略行动者如何在三个空间维度间桥接产学政网络并填补结构性空洞
+> - [[Argument_Schulze-Cleven_2017_HighEduc]] — 以学术资本主义多样性、话语分层和新封建等级为核心现象，论证制度分析、阶级理论和话语分析三种路径需在分配冲突与符号建构之间建立批判性对话才能把握竞争转型的混合秩序
 
 > [!summary]- Higher Education Research & Development (1)
-> - [[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]] — 首次对 UK 大学毕业生特质进行全国性系统映射，识别四大话语（自我意识与终身学习、就业能力与专业发展、全球公民与参与、学术与研究素养）
+> - [[Argument_Wong_2022_HERD]] — 首次对 UK 大学毕业生特质进行全国性系统映射，识别四大话语（自我意识与终身学习、就业能力与专业发展、全球公民与参与、学术与研究素养）
 
 > [!summary]- International Journal of Leadership in Education (2)
-> - [[Ranting, raving and complaining: reflections on working against orthodoxy]] — 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑
-> - [[The constitution of school autonomy in Australian public education: areas of paradox for social justice]] — 以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论
+> - [[Argument_Eacott_2019_IJLE]] — 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑
+> - [[Argument_Keddie_2020_IJLE]] — 以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论
 
 > [!summary]- International Journal of Research & Method in Education (2)
-> - [[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]] — 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的“什么有效 2.0“整合框架
-> - [[Is the educational 'what works' agenda working? Critical methodological developments]] — IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁
+> - [[Argument_Pampaka_2016_IJRME]] — IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁
+> - [[Argument_Peterson_2016_IJRME]] — 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的“什么有效 2.0“整合框架
 
 > [!summary]- International Review of Theoretical Psychologies (1)
-> - [[Measured lives in educational psychology]] — 以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性内核满足了教育系统的合法化需求，而非其科学质量
+> - [[Argument_Nielsen_2021_IRTP]] — 以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性内核满足了教育系统的合法化需求，而非其科学质量
 
 > [!summary]- Intersect (1)
-> - [[Fallen behind: Science, technology, and Soviet statism]] — 运用 Castells 的信息主义和国家主义框架分析苏联在拥有充足资源和人才的情况下仍错失信息革命的原因，论证国家主义体制通过军工黑洞、科学意识形态化、官僚逻辑与创新负激励、技术保守主义、封闭信息回路与国家垂直结构五个机制抑制了从工业化向信息化转型所需的制度条件
+> - [[Argument_Chan_2015_Intersect]] — 运用 Castells 的信息主义和国家主义框架分析苏联在拥有充足资源和人才的情况下仍错失信息革命的原因，论证国家主义体制通过军工黑洞、科学意识形态化、官僚逻辑与创新负激励、技术保守主义、封闭信息回路与国家垂直结构五个机制抑制了从工业化向信息化转型所需的制度条件
 
 > [!summary]- Journal of Behavioral Education (1)
-> - [[What Works Clearinghouse standards and generalization of single-case design evidence]] — 澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议捕获推广性信息，描述 5-3-20 证据充分性阈值
+> - [[Argument_Hitchcock_2015_JBE]] — 澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议捕获推广性信息，描述 5-3-20 证据充分性阈值
 
 > [!summary]- Journal of Curriculum Studies (3)
-> - [[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]] — VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境
-> - [[Knowledge and the New Zealand curriculum refresh]] — 使用社会实在论和伯恩斯坦理论分析新西兰课程改革，发现理解-知道-做结构存在认识论混乱，规约性话语优先于教学性话语
-> - [[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]] — 以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入
+> - [[Argument_McPhail_2023_JCS]] — 使用社会实在论和伯恩斯坦理论分析新西兰课程改革，发现理解-知道-做结构存在认识论混乱，规约性话语优先于教学性话语
+> - [[Argument_Terhart_2011_JCS]] — VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境
+> - [[Argument_Yan_2025_JCS]] — 以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入
 
 > [!summary]- Journal of Education & Social Policy (1)
-> - [[Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia]] — 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
+> - [[Argument_Blass_2020_JESP]] — 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
 
 > [!summary]- Journal of Education Policy (1)
-> - [[The misdirection of public policy: Comparing and combining standardised effect sizes]] — 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名
+> - [[Argument_Simpson_2017_JEP]] — 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名
 
 > [!summary]- Journal of Educational Administration and History (2)
-> - [[Preparing 'educational' leaders in managerialist times: an Australian story]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为“国家改革的交付者“，提出基于“教育问题提出与争辩“的替代性领导习性
-> - [[School autonomy, marketisation and social justice: the plight of principals and schools]] — 基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响
+> - [[Argument_Eacott_2011_JEAH]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为“国家改革的交付者“，提出基于“教育问题提出与争辩“的替代性领导习性
+> - [[Argument_Keddie_2020_JEAH]] — 基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响
 
 > [!summary]- Journal of Educational Change (2)
-> - [[Two decades of havoc: A synthesis of criticism against PISA]] — 系统梳理近二十年对 PISA 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷，指出批评未能阻止 PISA 影响力扩大的困境
-> - [[What works may hurt: Side effects in education]] — 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议
+> - [[Argument_Zhao_2017_JEC]] — 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议
+> - [[Argument_Zhao_2020_JEC]] — 系统梳理近二十年对 PISA 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷，指出批评未能阻止 PISA 影响力扩大的困境
 
 > [!summary]- Journal of Research on Educational Effectiveness (1)
-> - [[Average effect sizes in developer-commissioned and independent evaluations]] — 以多元元回归分析 WWC 数据库 755 个效应量，发现开发者研究效应量平均比独立评估高 0.141 SD（约 1.8 倍），识别发表偏倚、选择性报告和研究者自由度为可能解释机制
+> - [[Argument_Wolf_2020_JREE]] — 以多元元回归分析 WWC 数据库 755 个效应量，发现开发者研究效应量平均比独立评估高 0.141 SD（约 1.8 倍），识别发表偏倚、选择性报告和研究者自由度为可能解释机制
 
 > [!summary]- Język-Szkoła-Rodzina (1)
-> - [[Visible Learning and educational policies in New Zealand and Australia]] — 以 Benner 修正版教学三角为框架，分析 VL 如何影响新西兰和澳大利亚教育政策与实践，记录 PISA 2001 后的政策转向及 HITS、Gonski 2.0 等制度化采纳
+> - [[Argument_Sarbiewska_2019_JSR]] — 以 Benner 修正版教学三角为框架，分析 VL 如何影响新西兰和澳大利亚教育政策与实践，记录 PISA 2001 后的政策转向及 HITS、Gonski 2.0 等制度化采纳
 
 > [!summary]- Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal (1)
-> - [[A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union]] — 利用 Dewey 私人通信、纽约时报报道和美国国务院外交函件重建其 1928 年访苏行程，揭示该访问对苏联教育者和美国公众舆论的多向影响，以及反共势力如何将教育交流视为宣传工具
+> - [[Argument_Ryabyy_2024_Maneto]] — 利用 Dewey 私人通信、纽约时报报道和美国国务院外交函件重建其 1928 年访苏行程，揭示该访问对苏联教育者和美国公众舆论的多向影响，以及反共势力如何将教育交流视为宣传工具
 
 > [!summary]- McGill Journal of Education (1)
-> - [[How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician]] — 从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险
+> - [[Argument_Bergeron_2017_MJE]] — 从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险
 
 > [!summary]- Medical Education Online (1)
-> - [[Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师致谢的意外缺失
+> - [[Argument_Sandrone_2025_MEO]] — 分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6% 明确提到导师，揭示了学术导师致谢的意外缺失
 
 > [!summary]- New Zealand Journal of Educational Studies (5)
-> - [[Critic and conscience of society: A reply to John Hattie]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
-> - [[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
-> - [[Material fallacies of education research evidence and public policy advice]] — 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
-> - [[On being a 'critic and conscience of society': The role of the education academic in public debates]] — Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
-> - [[Reflection on the University and the Academic as 'Critic and Conscience of Society']] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾
+> - [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾
+> - [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
+> - [[Argument_ONeill_2012_NZJES]] — 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
+> - [[Argument_Snook_2009_NZJES]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
+> - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 
 > [!summary]- Nordic Journal of Studies in Educational Policy (2)
-> - [[John Hattie: I'm a statistician, I'm not a theoretician]] — Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
-> - [[Visible learning and its enemies – the missing link]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节
+> - [[Argument_Knudsen_2017_NordSTEP]] — Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
+> - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节
 
 > [!summary]- Nordic Psychology (1)
-> - [[Blind spots in visible learning: A critique of John Hattie as an educational theorist]] — 论证 Hattie 是教育理论家（非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应的 5 项最重元分析逐项细读审查发现 4/5 未研究同一现象
+> - [[Argument_Nielsen_2021_NordPsych]] — 论证 Hattie 是教育理论家（非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应的 5 项最重元分析逐项细读审查发现 4/5 未研究同一现象
 
 > [!summary]- Paideia (9)
-> - [[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]] — VL 支持者立场讨论论文：回应三类批评，并指出学习结果概念需通过动态知识与学习模型加以重建
-> - [[Er Hattie og co]] — 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
-> - [[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]] — 从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变
-> - [[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]] — 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
-> - [[Leder Temanummer om synlig læring]] — 作为 Paideia 可见的学习（Visible Learning，VL）主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
-> - [[Synlig læring i dag]] — 以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释
-> - [[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]] — Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
-> - [[Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
-> - [[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]] — 把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。
+> - [[Argument_Allerup_2015_Paideia]] — 从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变
+> - [[Argument_Fredens_2015_Paideia]] — Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
+> - [[Argument_Hansen_2015_Paideia]] — 作为 Paideia 可见的学习（Visible Learning，VL）主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
+> - [[Argument_Hattie_2015_Paideia]] — 以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释
+> - [[Argument_Håkansson_2015_Paideia]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
+> - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
+> - [[Argument_Lekhal_2015_Paideia]] — 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
+> - [[Argument_Nordahl_2015_Paideia]] — 把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。
+> - [[Argument_Qvortrup_2015_Paideia]] — VL 支持者立场讨论论文：回应三类批评，并指出学习结果概念需通过动态知识与学习模型加以重建
 
 > [!summary]- Regional Science and Environmental Economics (1)
-> - [[Education, science and technology, and talent integrated development: Evidence from China]] — 基于中国30个省份2001-2022年面板数据，构建教育-科技-人才耦合协调评价指标体系，运用耦合协调模型、时空格局演变和LISA时空路径方法，揭示EST一体化发展的时空分异规律
+> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 基于中国30个省份2001-2022年面板数据，构建教育-科技-人才耦合协调评价指标体系，运用耦合协调模型、时空格局演变和LISA时空路径方法，揭示EST一体化发展的时空分异规律
 
 > [!summary]- Research in Comparative and International Education (1)
-> - [[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]] — 提出跨国吸引力情境概念地图，拆解情境为结构层与人的层面的双层互动，区分推力与阻力两侧各四种结构因素与多元行动者，以危机化/合法化/审慎/美化四种火花分类吸引力动机，回应全球化对前转移能动性、行动者激增和话语转移的三项分析新要求
+> - [[Argument_Rappleye_2006_RCIE]] — 提出跨国吸引力情境概念地图，拆解情境为结构层与人的层面的双层互动，区分推力与阻力两侧各四种结构因素与多元行动者，以危机化/合法化/审慎/美化四种火花分类吸引力动机，回应全球化对前转移能动性、行动者激增和话语转移的三项分析新要求
 
 > [!summary]- Research Policy (1)
-> - [[Sectoral patterns of technical change: Towards a taxonomy and a theory]] — 基于对英国约 2000 项战后重大创新的数据分析，提出产业技术变迁模式的三类分类法——供应商主导型、生产密集型、科学基础型，并将分类差异解释为技术来源、用户需求和专有可能性三个因素的函数
+> - [[Argument_Pavitt_1984_RP]] — 基于对英国约 2000 项战后重大创新的数据分析，提出产业技术变迁模式的三类分类法——供应商主导型、生产密集型、科学基础型，并将分类差异解释为技术来源、用户需求和专有可能性三个因素的函数
 
 > [!summary]- Review of Education (2)
-> - [[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]] — 追溯元分析从1904年到元综合的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
-> - [[Responding to research evidence in Parliament: A case study on selective education policy]] — 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别“建构型道德侧步“：Ofsted 评级被混同为研究证据并道德化为“好学校“话语
+> - [[Argument_Bainbridge_2022_ROE]] — 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别“建构型道德侧步“：Ofsted 评级被混同为研究证据并道德化为“好学校“话语
+> - [[Argument_Higgins_2016_RE]] — 追溯元分析从1904年到元综合的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
 
 > [!summary]- Review of Educational Research (1)
-> - [[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限
+> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限
 
 > [!summary]- Scholarship of Teaching and Learning in Psychology (1)
-> - [[The applicability of Visible Learning to higher education]] — 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
+> - [[Argument_Hattie_2015_SOTLP]] — 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
 
 > [!summary]- School Leadership & Management (2)
-> - [[Educators are not uncritical believers of a cult figure]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
-> - [[School leadership and the cult of the guru: The neo-Taylorism of Hattie]] — 基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见的学习（Visible Learning，VL）品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。
+> - [[Argument_Eacott_2017_SLM]] — 基于卡拉汉的效率崇拜历史视角，批判性论证澳大利亚学校领导力对哈蒂可见的学习（Visible Learning，VL）品牌的盲目顺从，剖析其如何倒退为控制课堂的新泰勒主义科学管理。
+> - [[Argument_Hattie_2017_SLM]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
 
 > [!summary]- Sociology of Education (1)
-> - [[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]] — 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的
+> - [[Argument_Downey_2016_SoE]] — 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的
 
 > [!summary]- Studies in Philosophy and Education (1)
-> - [[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]] — 从认识论、存在论、实践论三维度识别证据本位教育的三重缺陷（知识缺陷、效力缺陷、应用缺陷），提出价值本位教育作为替代
+> - [[Argument_Biesta_2010_SPE]] — 从认识论、存在论、实践论三维度识别证据本位教育的三重缺陷（知识缺陷、效力缺陷、应用缺陷），提出价值本位教育作为替代
 
 > [!summary]- Teachers and Teaching (1)
-> - [[Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning]] — 以43项教学研究综述的比较元综合审视瑞典结构化教学政策，主张成绩危机不能靠讲坛式回归解决，关键在教师结构与师生互动的平衡。
+> - [[Argument_Håkansson_2015_TT]] — 以43项教学研究综述的比较元综合审视瑞典结构化教学政策，主张成绩危机不能靠讲坛式回归解决，关键在教师结构与师生互动的平衡。
 
 > [!summary]- Technological Forecasting and Social Change (1)
-> - [[The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867]] — 回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向
+> - [[Argument_Caraca_2009_TFSC]] — 回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向
 
 > [!summary]- The Journal of Technology Transfer (2)
-> - [[Establishing successful university–industry collaborations: barriers and enablers deconstructed]] — 基于爱尔兰 SSPC 制药产学合作网络的定性案例研究，提出产学合作演化的四阶段模型——胚胎期、启动期、参与期、确立期，揭示障碍和促进因素随时间演化的动态机制以及政府均等资助和协作式知识产权协议的关键作用
-> - [[Measuring the impacts of university-industry R&D collaborations: a systematic literature review]] — 系统综述92篇UIC文献，将25种产学研发合作影响归入6个类型和5个分类维度，识别4项测量挑战与7项应对策略，并整合为UIC影响测量综合框架
+> - [[Argument_Cohen_2025_JTT]] — 系统综述92篇UIC文献，将25种产学研发合作影响归入6个类型和5个分类维度，识别4项测量挑战与7项应对策略，并整合为UIC影响测量综合框架
+> - [[Argument_ODwyer_Filieri_OMalley_2023_JTT]] — 基于爱尔兰 SSPC 制药产学合作网络的定性案例研究，提出产学合作演化的四阶段模型——胚胎期、启动期、参与期、确立期，揭示障碍和促进因素随时间演化的动态机制以及政府均等资助和协作式知识产权协议的关键作用
 
 > [!summary]- The Sociological Review (1)
-> - [[Some sociologies of education: A history of problems and places, and segments and gazes]] — 以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象
+> - [[Argument_Ball_2008_SR]] — 以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象
 
 > [!summary]- Zeitschrift für Erziehungswissenschaft (1)
-> - [[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]] — 以固定效应模型数学基础推导 6 项二级元分析方法论要求，对 Hattie Visible Learning 进行系统性的内部+外部方法论批判，提出中央证据数据库方案
+> - [[Argument_Wecker_2016_ZfE]] — 以固定效应模型数学基础推导 6 项二级元分析方法论要求，对 Hattie Visible Learning 进行系统性的内部+外部方法论批判，提出中央证据数据库方案
 
 ### Reports & Policy Documents
 
 > [!summary]- Durham University (1)
-> - [[Making the Most of the Evidence: Evidence-based policy in the classroom]] — 通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架
+> - [[Argument_Cowen_2015_CHESS]] — 通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架
 
 > [!summary]- Massey University (1)
-> - [[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]] — 以 Thompson 网络治理理论为框架，通过六案例社会网络分析绘制新西兰公立教育私营部门参与全景图，揭示 John Hattie 政策创业与 VL 商业化轨迹，质疑 EMO 慈善捐赠比例与公共福利透明度
+> - [[Argument_ONeill_2016_Report]] — 以 Thompson 网络治理理论为框架，通过六案例社会网络分析绘制新西兰公立教育私营部门参与全景图，揭示 John Hattie 政策创业与 VL 商业化轨迹，质疑 EMO 慈善捐赠比例与公共福利透明度
 
 > [!summary]- MIT Industrial Performance Center (1)
-> - [[Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)]] — 基于对 6 个国家 22 个地区的产业转型案例研究，提出大学对本地经济的四种差异化贡献模式，论证大学的经济贡献应与其所在地区的产业转型类型相匹配，反对一刀切的专利许可和创业孵化策略
+> - [[Argument_Lester_2005_MIT]] — 基于对 6 个国家 22 个地区的产业转型案例研究，提出大学对本地经济的四种差异化贡献模式，论证大学的经济贡献应与其所在地区的产业转型类型相匹配，反对一刀切的专利许可和创业孵化策略
 
 > [!summary]- University of Oxford and University-Industry Demonstration Partnership (UIDP) (1)
-> - [[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]] — 基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论，识别大学-产业合作面临的十大关键议题，包括创新生态系统建设、新合作模式、超越传统伙伴、度量指标发展、AI 与数据驱动决策、国家研发目标、中介角色、多样性、人才流动和公众沟通
+> - [[Argument_OxfordUIDP_2019_UIPartnerships]] — 基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论，识别大学-产业合作面临的十大关键议题，包括创新生态系统建设、新合作模式、超越传统伙伴、度量指标发展、AI 与数据驱动决策、国家研发目标、中介角色、多样性、人才流动和公众沟通
 
 > [!summary]- University-Industry Demonstration Partnership (UIDP) (1)
-> - [[The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement]] — UIDP 工作组提出的产学伙伴关系五类三层分类框架，将合作形式按学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域和交易-协作-联盟三个层级排列，打破对合作形式的单一偏好
+> - [[Argument_UIDP_2012_PartnershipContinuum]] — UIDP 工作组提出的产学伙伴关系五类三层分类框架，将合作形式按学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域和交易-协作-联盟三个层级排列，打破对合作形式的单一偏好
 
 ---
 

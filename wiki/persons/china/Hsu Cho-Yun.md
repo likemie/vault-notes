@@ -21,7 +21,7 @@ related_persons:
   - "[[Fei Xiaotong]]"
 related_facts: []
 related_arguments:
-  - "[['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]]"
+  - "[[Argument_Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

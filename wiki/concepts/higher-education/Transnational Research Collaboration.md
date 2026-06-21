@@ -38,8 +38,8 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[African Orphan Crops Consortium]]"
 related_arguments:
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
-  - "[[International research collaborations between universities and industry]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

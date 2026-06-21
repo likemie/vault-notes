@@ -26,7 +26,7 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"
 related_arguments:
-  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
+  - "[[Argument_Zapp_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

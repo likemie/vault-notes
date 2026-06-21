@@ -46,8 +46,8 @@ related_facts:
   - "[[University City Science Center]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
-  - "[[Innovation Centers and Economic Development]]"
-  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
 status: draft
 created: 2026-05-28

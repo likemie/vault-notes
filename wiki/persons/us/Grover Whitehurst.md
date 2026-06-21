@@ -24,7 +24,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_arguments:
-  - "[[Evidence-based education policies: Transforming educational practice and research]]"
+  - "[[Argument_Slavin_2002_ER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
 confidence: medium

@@ -18,7 +18,7 @@ related_persons:
   - "[[Julian Williams]]"
 related_facts: []
 related_arguments:
-  - "[[Is the educational 'what works' agenda working? Critical methodological developments]]"
+  - "[[Argument_Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'

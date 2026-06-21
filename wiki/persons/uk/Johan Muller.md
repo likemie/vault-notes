@@ -21,7 +21,7 @@ related_persons: []
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
-  - "[[Knowledge and the New Zealand curriculum refresh]]"
+  - "[[Argument_McPhail_2023_JCS]]"
 confidence: medium
 status: draft
 created: 2026-06-07

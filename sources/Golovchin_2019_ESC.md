@@ -1,7 +1,7 @@
 ---
 citation: "Golovchin M.A. (2019). What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education. *Economic and Social Changes: Facts, Trends, Forecast*, 12(5), 229–242."
 extracted_to:
-  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 processed_date: 2026-05-02
 ---
 

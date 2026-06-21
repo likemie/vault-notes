@@ -34,8 +34,8 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments:
-  - "[[Cultural Foundations of Learning: East and West]]"
-  - "[[Comparative education and international relations]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-22

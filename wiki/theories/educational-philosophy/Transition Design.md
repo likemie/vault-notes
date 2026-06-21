@@ -32,7 +32,7 @@ related_persons:
   - "[[Arturo Escobar]]"
 related_facts: []
 related_arguments:
-  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

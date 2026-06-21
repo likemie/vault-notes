@@ -26,7 +26,7 @@ related_persons:
   - "[[Stanislav Shatskii]]"
 related_facts: []
 related_arguments:
-  - "[[A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union]]"
+  - "[[Argument_Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-26

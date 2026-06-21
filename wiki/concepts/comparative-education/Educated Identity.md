@@ -29,8 +29,8 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Comparative education: and now? Comparative Education, 59(3), 326-340]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Cowen_2023_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-06

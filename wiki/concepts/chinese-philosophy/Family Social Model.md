@@ -29,7 +29,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Cultural Foundations of Learning: East and West]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25

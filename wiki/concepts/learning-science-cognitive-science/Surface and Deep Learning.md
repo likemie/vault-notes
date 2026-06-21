@@ -33,9 +33,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Knowledge and the New Zealand curriculum refresh]]"
-  - "[[Cultural Foundations of Learning: East and West]]"
-  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
+  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

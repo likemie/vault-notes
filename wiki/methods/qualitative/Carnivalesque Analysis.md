@@ -23,7 +23,7 @@ related_methods:
   - "[[Qualitative Research]]"
 related_persons: []
 related_arguments:
-  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[Argument_Bainbridge_2022_ROE]]"
 related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"

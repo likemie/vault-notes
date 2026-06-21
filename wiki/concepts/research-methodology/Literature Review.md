@@ -10,14 +10,11 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
-  - "[[Literature Search]]"
   - "[[Research Topic]]"
+  - "[[Literature Search]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Postpositivism]]"
-  - "[[APA Style]]"
-  - "[[Definition of Terms]]"
-  - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"

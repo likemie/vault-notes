@@ -25,7 +25,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
+  - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: draft
 created: '2026-05-01'

@@ -5,7 +5,7 @@ summary: "从企业内部实践者视角分析如何在公司内部为产学合�
 type: argument
 subtype: book-chapter
 publication_type: book
-title: "Gaining Support Within Companies for Collaboration"
+title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"

@@ -35,8 +35,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
-  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
-  - "[[Evidence-based education policies: Transforming educational practice and research]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Slavin_2002_ER]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

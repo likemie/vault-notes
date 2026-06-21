@@ -25,7 +25,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 related_facts: []
 related_arguments:
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31

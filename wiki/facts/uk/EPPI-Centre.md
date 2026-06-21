@@ -28,7 +28,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

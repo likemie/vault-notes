@@ -33,8 +33,8 @@ related_facts:
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
 related_arguments:
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
-  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

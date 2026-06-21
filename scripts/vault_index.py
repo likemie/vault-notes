@@ -830,7 +830,7 @@ def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any
             insert_at = idx + 1
 
     generated = [
-        f"title: {yaml_string(str(fields['argument_display_title']))}",
+        f"title: {yaml_string(str(fields['argument_key']))}",
         f"argument_key: {yaml_string(str(fields['argument_key']))}",
         f"argument_display_title: {yaml_string(str(fields['argument_display_title']))}",
         f"argument_kind: {yaml_string(str(fields['argument_kind']))}",

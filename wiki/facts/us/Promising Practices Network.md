@@ -28,7 +28,7 @@ related_facts:
   - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
   - "[[Social Programs That Work]]"
 related_arguments:
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

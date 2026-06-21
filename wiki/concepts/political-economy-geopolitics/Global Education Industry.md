@@ -39,10 +39,10 @@ related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Minerva University]]"
 related_arguments:
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
-  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: low
 status: draft
 created: '2026-05-07'

@@ -23,7 +23,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[Argument_Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

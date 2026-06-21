@@ -30,7 +30,7 @@ related_persons:
 related_facts:
   - "[[May Fourth Movement]]"
 related_arguments:
-  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -7,7 +7,7 @@ summary: "第5章系统拆解教育与社会研究伦理的19个议题，从伦�
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch05"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"

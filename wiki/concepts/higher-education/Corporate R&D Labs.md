@@ -32,8 +32,8 @@ related_persons: []
 related_facts:
   - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
-  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-27

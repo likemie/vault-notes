@@ -34,8 +34,8 @@ related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
-  - "[[Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cai_Gao_Liu_2025_HE]]"
 confidence: medium
 status: draft
 created: 2026-06-01

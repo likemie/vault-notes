@@ -78,11 +78,11 @@ related_facts:
   - "[[Promise Neighborhoods Research Consortium]]"
   - "[[Promising Practices Network]]"
 related_arguments:
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[Evidence-based education: The not so simple case of French-speaking Belgium]]"
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
-  - "[[What Works Clearinghouse standards and generalization of single-case design evidence]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Dachet_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

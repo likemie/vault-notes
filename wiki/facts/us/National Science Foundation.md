@@ -31,10 +31,10 @@ related_facts:
   - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Organization and Strategy for University-Industry Relationships]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
-  - "[[Innovation Centers and Economic Development]]"
-  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-28

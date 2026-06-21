@@ -21,8 +21,8 @@ related_persons:
   - "[[Chen Xie]]"
   - "[[Tengteng Zhuang]]"
 related_arguments:
-  - "[[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]]"
-  - "[[Evidence-based reform in education: Global perspectives [Editorial]]]"
+  - "[[Argument_Slavin_2021_ROE]]"
+  - "[[Argument_Cheung_2021_ROE]]"
 related_facts:
   - "[[Best Evidence in Brief]]"
 confidence: low

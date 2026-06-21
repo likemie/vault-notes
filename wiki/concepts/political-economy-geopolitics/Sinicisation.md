@@ -29,9 +29,9 @@ related_persons: []
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments:
-  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
-  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
-  - "[['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]]"
+  - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_Bulag_2024_CE]]"
+  - "[[Argument_Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-21

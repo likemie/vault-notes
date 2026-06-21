@@ -39,7 +39,7 @@ related_persons: []
 related_facts:
   - "[[Girls Into Science and Technology Project]]"
 related_arguments:
-  - "[[Research Methods in Education · Ch02]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-06-16

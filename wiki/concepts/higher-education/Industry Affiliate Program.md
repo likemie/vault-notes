@@ -31,8 +31,8 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Organization and Strategy for University-Industry Relationships]]"
-  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
 status: draft
 created: 2026-05-27

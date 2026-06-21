@@ -27,7 +27,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Argument_Amos_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-08'

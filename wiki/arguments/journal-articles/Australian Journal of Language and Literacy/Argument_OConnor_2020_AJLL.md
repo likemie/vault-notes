@@ -5,7 +5,7 @@ summary: "以《可见的学习》（Visible Learning，VL）全语言评估为�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
+title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"

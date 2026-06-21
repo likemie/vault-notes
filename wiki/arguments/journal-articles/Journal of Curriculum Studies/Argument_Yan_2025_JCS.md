@@ -6,7 +6,7 @@ summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
+title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
@@ -52,7 +52,7 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[National Education]]"
 related_arguments:
-  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
+  - "[[Argument_Bulag_2024_CE]]"
 sources:
   - "[[Yan_2025_JCS]]"
 part_of: ""

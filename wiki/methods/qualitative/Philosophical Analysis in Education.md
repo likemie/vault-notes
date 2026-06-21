@@ -33,9 +33,9 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
-  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
-  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

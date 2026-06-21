@@ -7,7 +7,7 @@ summary: "第3章以研究（research）与评估（evaluation）的概念比较
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch03"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"

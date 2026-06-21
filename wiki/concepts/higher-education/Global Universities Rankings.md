@@ -45,12 +45,12 @@ related_facts:
   - "[[OECD]]"
   - "[[University of Kentucky Top-20 Plan]]"
 related_arguments:
-  - "[[(Un)avoidable clash: Higher education at the altar of its missions and rankings]]"
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
-  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
-  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
-  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
-  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
+  - "[[Argument_Boyadjieva_2022_Springer]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: '2026-05-11'

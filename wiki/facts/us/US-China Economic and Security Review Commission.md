@@ -24,7 +24,7 @@ related_facts:
   - "[[Sino-American Trade War]]"
   - "[[Thousand Talents Program]]"
 related_arguments:
-  - "[[Two faces of geopolitics of knowledge]]"
+  - "[[Argument_Partaken_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

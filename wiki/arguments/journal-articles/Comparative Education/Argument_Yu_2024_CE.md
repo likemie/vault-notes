@@ -6,7 +6,7 @@ summary: "对比六科教科书官方儒家叙事与37名少数民族/宗教背�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
+title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"

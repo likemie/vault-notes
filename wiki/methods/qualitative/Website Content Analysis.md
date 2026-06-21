@@ -33,7 +33,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
 confidence: medium
 status: draft
 created: 2026-05-27

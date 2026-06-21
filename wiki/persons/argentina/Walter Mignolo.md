@@ -36,8 +36,8 @@ related_persons:
   - "[[Chen Kuan-Hsing]]"
 related_facts: []
 related_arguments:
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
-  - "[[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Delambre_2022_Springer]]"
 confidence: medium
 status: draft
 created: 2026-05-07

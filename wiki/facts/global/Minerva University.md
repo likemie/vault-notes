@@ -30,7 +30,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'

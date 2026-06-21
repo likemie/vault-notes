@@ -49,8 +49,8 @@ related_facts:
   - "[[Sino-American Trade War]]"
   - "[[Thousand Talents Program]]"
 related_arguments:
-  - "[[Two faces of geopolitics of knowledge]]"
-  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

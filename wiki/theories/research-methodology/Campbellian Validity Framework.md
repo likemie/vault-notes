@@ -43,8 +43,8 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[What Works Clearinghouse standards and generalization of single-case design evidence]]"
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
+  - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 confidence: low
 status: draft
 created: '2026-05-02'

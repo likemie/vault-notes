@@ -27,7 +27,7 @@ related_facts:
   - "[[Campbell Collaboration]]"
   - "[[Ofsted]]"
 related_arguments:
-  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
 confidence: high
 status: draft
 created: 2026-05-01

@@ -16,7 +16,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Gaining Support Within Universities for Collaboration]]"
+  - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: low
 status: draft
 created: 2026-06-03

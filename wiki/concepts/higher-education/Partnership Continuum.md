@@ -34,9 +34,9 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
-  - "[[The unique role of academic health systems in facilitating innovative UI partnerships]]"
+  - "[[Argument_UIDP_2012_PartnershipContinuum]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 confidence: medium
 status: draft
 created: 2026-05-27

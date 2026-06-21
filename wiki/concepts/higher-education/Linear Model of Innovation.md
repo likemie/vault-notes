@@ -31,7 +31,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867]]"
+  - "[[Argument_Caraca_2009_TFSC]]"
 confidence: medium
 status: draft
 created: 2026-06-09

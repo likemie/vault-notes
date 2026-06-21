@@ -38,9 +38,9 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[金榜题名之后：大学生出路分化之谜]]"
-  - "[[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]]"
-  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Wong_2022_HERD]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

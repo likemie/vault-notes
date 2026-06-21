@@ -18,24 +18,15 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
-  - "[[Discipline-Based Theory]]"
-  - "[[Reflexivity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Performance Indicators]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Heterogeneity]]"
-  - "[[Definition of Terms]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods:
-  - "[[Philosophical Analysis in Education]]"
-related_persons:
-  - "[[George Herbert Mead]]"
+related_methods: []
+related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments:
-  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

@@ -29,10 +29,10 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
 related_arguments:
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
-  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: low
 status: draft
 created: '2026-05-11'

@@ -28,7 +28,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
-  - "[[Material fallacies of education research evidence and public policy advice]]"
+  - "[[Argument_ONeill_2012_NZJES]]"
 confidence: medium
 status: published
 created: '2026-05-06'

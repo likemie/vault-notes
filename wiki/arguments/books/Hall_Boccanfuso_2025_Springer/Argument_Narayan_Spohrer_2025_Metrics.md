@@ -41,7 +41,7 @@ created: 2026-05-28
 updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
-title: "Metrics, Incentives, Rewards, and Culture for Impact"
+title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"

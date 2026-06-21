@@ -19,7 +19,7 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: low
 status: draft
 created: '2026-05-05'

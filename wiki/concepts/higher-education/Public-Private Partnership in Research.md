@@ -33,7 +33,7 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Universal Parallel Computing Research Centers]]"
 related_arguments:
-  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-04

@@ -33,11 +33,11 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"
 related_arguments:
-  - "[[Blind spots in visible learning: A critique of John Hattie as an educational theorist]]"
-  - "[[Evidence-based teaching: a simple view of 'science']]"
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
-  - "[[Some reflections on the role of evidence in improving education]]"
-  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
 related_facts:
   - "[[PISA]]"
 confidence: medium

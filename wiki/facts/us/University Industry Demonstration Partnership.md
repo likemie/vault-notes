@@ -32,14 +32,14 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
-  - "[[Organization and Strategy for University-Industry Relationships]]"
-  - "[[University-Industry Alliances and Consortia]]"
-  - "[[The unique role of academic health systems in facilitating innovative UI partnerships]]"
-  - "[[Connecting, Exploring, Uncovering, and Building Partnerships]]"
-  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
-  - "[[Gaining Support Within Companies for Collaboration]]"
-  - "[[The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
+  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Argument_UIDP_2012_PartnershipContinuum]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-26

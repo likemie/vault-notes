@@ -32,8 +32,8 @@ related_persons:
   - "[[Thomas Kuhn]]"
 related_facts: []
 related_arguments:
-  - "[[Two faces of geopolitics of knowledge]]"
-  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
+  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

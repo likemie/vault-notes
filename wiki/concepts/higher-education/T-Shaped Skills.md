@@ -19,7 +19,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Metrics, Incentives, Rewards, and Culture for Impact]]"
+  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
 confidence: medium
 status: draft
 created: 2026-05-28

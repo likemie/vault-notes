@@ -5,7 +5,7 @@ summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Problematising the intellectual gaze of the educational administration scholar"
+title: "Argument_Eacott_2015_EPT"
 argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"

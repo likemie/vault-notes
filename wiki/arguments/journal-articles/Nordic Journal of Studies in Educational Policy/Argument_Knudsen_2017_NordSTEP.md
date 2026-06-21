@@ -5,7 +5,7 @@ summary: "Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "John Hattie: I'm a statistician, I'm not a theoretician"
+title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
@@ -41,9 +41,9 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[Knudsen_2017_NordSTEP]]"
 part_of: ''

@@ -31,7 +31,7 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
-  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
 created: 2026-05-29

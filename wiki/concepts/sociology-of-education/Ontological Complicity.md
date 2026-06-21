@@ -31,7 +31,7 @@ related_persons:
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-06-10

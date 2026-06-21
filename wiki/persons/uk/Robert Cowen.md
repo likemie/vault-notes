@@ -29,9 +29,9 @@ related_persons:
 related_facts:
   - "[[Regional University Alliances]]"
 related_arguments:
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s]]"
-  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Zhou_2024_CE]]"
+  - "[[Argument_Cowen_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-08

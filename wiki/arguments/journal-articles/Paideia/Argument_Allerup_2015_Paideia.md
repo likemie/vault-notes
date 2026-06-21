@@ -5,7 +5,7 @@ summary: "从统计学角度审查 Hattie 以效应量排序教学干预的前�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser"
+title: "Argument_Allerup_2015_Paideia"
 argument_key: "Argument_Allerup_2015_Paideia"
 argument_display_title: "Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser"
 argument_kind: "journal-article"

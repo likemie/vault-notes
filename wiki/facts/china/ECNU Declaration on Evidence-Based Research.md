@@ -25,7 +25,7 @@ related_persons: []
 related_facts:
   - "[[Best Evidence in Brief]]"
 related_arguments:
-  - "[[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]]"
+  - "[[Argument_Slavin_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

@@ -24,7 +24,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

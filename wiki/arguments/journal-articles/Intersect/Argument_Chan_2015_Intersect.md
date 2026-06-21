@@ -49,7 +49,7 @@ created: 2026-06-12
 updated: 2026-06-12
 subtype: journal-article
 publication_type: journal-article
-title: "Fallen behind: Science, technology, and Soviet statism"
+title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"

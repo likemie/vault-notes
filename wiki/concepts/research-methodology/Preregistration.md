@@ -33,7 +33,7 @@ related_facts:
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
-  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
+  - "[[Argument_Wolf_2020_JREE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

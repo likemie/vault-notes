@@ -27,8 +27,8 @@ related_facts:
   - "[[Promise Neighborhoods Research Consortium]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[Is the educational 'what works' agenda working? Critical methodological developments]]"
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
+  - "[[Argument_Pampaka_2016_IJRME]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 confidence: low
 status: draft
 created: '2026-05-02'

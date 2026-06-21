@@ -36,12 +36,12 @@ related_persons:
   - "[[Bruno Latour]]"
 related_facts: []
 related_arguments:
-  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
-  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
-  - "[[Evidence-based teaching: a simple view of 'science']]"
-  - "[[A critique of John Hattie's theory of Visible Learning]]"
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
-  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Rømer_2018_EPT]]"
+  - "[[Argument_Cowen_2019_ERE]]"
+  - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

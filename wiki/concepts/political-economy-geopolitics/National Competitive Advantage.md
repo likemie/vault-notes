@@ -32,7 +32,7 @@ related_persons:
   - "[[Michael Porter]]"
 related_facts: []
 related_arguments:
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Argument_Moisio_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

@@ -19,7 +19,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Fallen behind: Science, technology, and Soviet statism]]"
+  - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12

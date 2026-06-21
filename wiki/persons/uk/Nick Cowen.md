@@ -33,8 +33,8 @@ related_persons:
   - "[[Nancy Cartwright]]"
   - "[[Gert Biesta]]"
 related_arguments:
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
-  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Argument_Cowen_2019_ERE]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Ofsted]]"

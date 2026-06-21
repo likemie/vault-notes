@@ -5,7 +5,7 @@ summary: "Ch2 文献批判综述：西方对中国学习者“缺陷型“与“
 type: argument
 subtype: book-chapter
 publication_type: book
-title: "The Chinese Learner: Misconceptions and Realities"
+title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"

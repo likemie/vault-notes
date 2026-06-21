@@ -33,9 +33,9 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Research Methods in Education]]"
-  - "[[Leading the blind: A critical look at Visible Learning]]"
-  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 confidence: high
 status: draft
 created: 2026-06-14

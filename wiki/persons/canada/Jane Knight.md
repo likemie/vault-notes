@@ -23,9 +23,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
-  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
-  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium

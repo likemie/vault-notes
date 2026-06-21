@@ -10,9 +10,8 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [source/textbook, method/research-design, theme/research-planning]
 related_concepts:
-  - "[[Fitness for Purpose]]"
-  - "[[Research Planning]]"
-  - "[[Operationalization]]"
+  - "[[Emergence]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"

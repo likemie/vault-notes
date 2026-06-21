@@ -6,7 +6,7 @@ summary: "以G县混合方法研究揭示陪读按家庭社会经济地位分层
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Migration for school choice: urbanisation and rural social stratification in China"
+title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"

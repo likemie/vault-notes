@@ -29,8 +29,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[The unique role of academic health systems in facilitating innovative UI partnerships]]"
-  - "[[University–Industry Relations in Clinical Trials]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
+  - "[[Argument_Bang_2025_ClinicalTrials]]"
 confidence: medium
 status: draft
 created: 2026-06-02

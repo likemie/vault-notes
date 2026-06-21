@@ -37,7 +37,7 @@ related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
-  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
+  - "[[Argument_Pavitt_1984_RP]]"
 sources:
   - "[[Caraca_2009_TFSC]]"
 part_of:
@@ -46,7 +46,7 @@ created: 2026-06-09
 updated: 2026-06-09
 subtype: journal-article
 publication_type: journal-article
-title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
+title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"

@@ -5,7 +5,7 @@ summary: "Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Educators are not uncritical believers of a cult figure"
+title: "Argument_Hattie_2017_SLM"
 argument_key: "Argument_Hattie_2017_SLM"
 argument_display_title: "Educators are not uncritical believers of a cult figure"
 argument_kind: "journal-article"
@@ -39,9 +39,9 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
-  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
-  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_Rømer_2018_EPT]]"
 sources:
   - "[[Hattie_2017_SLM]]"
 part_of: ''

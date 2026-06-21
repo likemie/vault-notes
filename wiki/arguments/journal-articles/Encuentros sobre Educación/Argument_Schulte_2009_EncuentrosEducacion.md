@@ -5,7 +5,7 @@ summary: "追溯杜威在中国九十年间四个时期的接受与变形，揭�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "The Chinese Dewey: Friend, fiend, and flagship"
+title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"

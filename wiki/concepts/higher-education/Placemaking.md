@@ -29,7 +29,7 @@ related_facts:
   - "[[Research Triangle Park]]"
   - "[[Purdue Discovery Park]]"
 related_arguments:
-  - "[[Innovation Centers and Economic Development]]"
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-28

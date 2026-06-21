@@ -5,7 +5,7 @@ summary: "以农场肥料思想实验和真实研究案例，论证效应量三�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
+title: "Argument_Simpson_2017_JEP"
 argument_key: "Argument_Simpson_2017_JEP"
 argument_display_title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
 argument_kind: "journal-article"

@@ -37,10 +37,10 @@ related_facts:
   - "[[Youth Development Blueprint]]"
   - "[[My Pledge to Act]]"
 related_arguments:
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
-  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
-  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Vickers_2024_CE]]"
+  - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Bulag_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

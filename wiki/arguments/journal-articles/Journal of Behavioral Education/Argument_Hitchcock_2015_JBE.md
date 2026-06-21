@@ -7,7 +7,7 @@ summary: "澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "What Works Clearinghouse standards and generalization of single-case design evidence"
+title: "Argument_Hitchcock_2015_JBE"
 argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"

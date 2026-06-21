@@ -3,7 +3,7 @@ summary: "基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论�
 type: argument
 subtype: report
 publication_type: report
-title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
+title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"

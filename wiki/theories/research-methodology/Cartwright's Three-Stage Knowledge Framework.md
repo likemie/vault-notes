@@ -33,8 +33,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

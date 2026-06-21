@@ -49,7 +49,7 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Cultural Foundations of Learning: East and West]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-21'

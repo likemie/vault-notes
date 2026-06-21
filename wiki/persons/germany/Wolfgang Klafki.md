@@ -22,7 +22,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 related_facts:
   - "[[Finnish National Core Curriculum]]"
 confidence: medium

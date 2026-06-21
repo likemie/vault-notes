@@ -30,8 +30,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Cultural Foundations of Learning: East and West]]"
-  - "[[The Chinese Learner: Misconceptions and Realities]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 confidence: medium
 status: draft
 created: 2026-05-24

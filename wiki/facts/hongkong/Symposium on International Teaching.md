@@ -19,8 +19,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
-  - "[[International Education and the Chinese Learner]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Ryan_2010_HKUP]]"
 confidence: medium
 status: draft
 created: '2026-05-16'

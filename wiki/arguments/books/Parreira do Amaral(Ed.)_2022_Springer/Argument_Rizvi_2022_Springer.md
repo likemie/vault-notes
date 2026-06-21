@@ -5,7 +5,7 @@ summary: "Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲�
 type: argument
 subtype: book-chapter
 publication_type: book
-title: "Rise of Asia, geopolitical shifts and higher education"
+title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"

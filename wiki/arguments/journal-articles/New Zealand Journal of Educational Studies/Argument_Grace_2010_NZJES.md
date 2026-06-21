@@ -5,7 +5,7 @@ summary: "以“Critic and Conscience of Society“概念原创者身份回应 H
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
+title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_kind: "journal-article"

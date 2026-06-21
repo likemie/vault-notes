@@ -22,7 +22,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[(Un)avoidable clash: Higher education at the altar of its missions and rankings]]"
+  - "[[Argument_Boyadjieva_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-11'

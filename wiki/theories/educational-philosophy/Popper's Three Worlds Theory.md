@@ -32,9 +32,9 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[A critique of John Hattie's theory of Visible Learning]]"
-  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
-  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Argument_Rømer_2018_EPT]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

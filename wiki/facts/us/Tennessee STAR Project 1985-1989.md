@@ -29,9 +29,9 @@ related_persons: []
 related_facts:
   - "[[California Class Size Reduction 1996]]"
 related_arguments:
-  - "[[Some reflections on the role of evidence in improving education]]"
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Downey_2016_SoE]]"
 confidence: medium
 status: draft
 created: 2026-05-01

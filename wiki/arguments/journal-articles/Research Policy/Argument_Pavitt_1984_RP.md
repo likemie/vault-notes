@@ -3,7 +3,7 @@ summary: "基于对英国约 2000 项战后重大创新的数据分析，提出�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
+title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"

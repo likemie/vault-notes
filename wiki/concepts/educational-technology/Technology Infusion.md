@@ -29,8 +29,8 @@ related_facts:
   - "[[Azione LIM]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

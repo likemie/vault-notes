@@ -32,8 +32,8 @@ related_facts:
   - "[[US-China Economic and Security Review Commission]]"
   - "[[Thousand Talents Program]]"
 related_arguments:
-  - "[[Two faces of geopolitics of knowledge]]"
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

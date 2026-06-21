@@ -5,7 +5,7 @@ summary: "比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI �
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Er Hattie og co"
+title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"

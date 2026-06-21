@@ -35,8 +35,8 @@ related_facts:
   - "[[OECD]]"
   - "[[Education International]]"
 related_arguments:
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: low
 status: draft
 created: '2026-05-11'

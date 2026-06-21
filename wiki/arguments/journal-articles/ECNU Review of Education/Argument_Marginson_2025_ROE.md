@@ -5,7 +5,7 @@ summary: "以 Massey 关系性空间理论为基础，将高等教育地缘政�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Space, power, and globalization: On the geopolitics of higher education"
+title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"

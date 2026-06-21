@@ -7,7 +7,7 @@ summary: "首个中美英证据本位改革国际比较：记录中国教育实�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
+title: "Argument_Slavin_2021_ROE"
 argument_key: "Argument_Slavin_2021_ROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"

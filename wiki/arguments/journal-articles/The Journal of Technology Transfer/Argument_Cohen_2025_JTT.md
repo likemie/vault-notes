@@ -7,7 +7,7 @@ summary: "系统综述92篇UIC文献，将25种产学研发合作影响归入6�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
+title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"

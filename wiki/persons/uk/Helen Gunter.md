@@ -23,8 +23,8 @@ related_persons:
   - "[[Carolyn Shields]]"
 related_facts: []
 related_arguments:
-  - "[[Leading education beyond what works]]"
-  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
+  - "[[Argument_Møller_2017_EERJ]]"
+  - "[[Argument_Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-02

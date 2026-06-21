@@ -29,7 +29,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
 related_arguments:
-  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
+  - "[[Argument_Wolf_2020_JREE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

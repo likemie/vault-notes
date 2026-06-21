@@ -6,7 +6,7 @@ summary: "批评比较教育中转移、全球化、政策借用等既有词汇�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
+title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"

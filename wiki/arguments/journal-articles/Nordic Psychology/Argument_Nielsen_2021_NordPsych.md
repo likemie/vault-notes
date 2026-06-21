@@ -6,7 +6,7 @@ summary: "论证 Hattie 是教育理论家（非纯统计学家），追溯其�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
+title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
@@ -45,9 +45,9 @@ related_persons:
 related_facts:
   - "[[OECD]]"
 related_arguments:
-  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[Nielsen_2021_NordPsych]]"
 part_of: ''

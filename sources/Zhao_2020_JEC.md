@@ -1,7 +1,7 @@
 ---
 citation: "Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against PISA. Journal of Educational Change, 21(1), 13-24."
 extracted_to:
-  - "[[Two decades of havoc: A synthesis of criticism against PISA]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 processed_date: 2026-06-07
 ---
 

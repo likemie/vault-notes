@@ -7,7 +7,7 @@ summary: "系统拆解选择研究课题时的七个关键决策点：23种选�
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch06"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"

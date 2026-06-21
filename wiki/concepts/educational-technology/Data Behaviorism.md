@@ -26,7 +26,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: low
 status: draft
 created: 2026-05-20

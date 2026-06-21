@@ -57,8 +57,8 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[Minerva University]]"
 related_arguments:
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

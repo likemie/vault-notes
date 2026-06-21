@@ -28,8 +28,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet]]"
-  - "[[Leder Temanummer om synlig læring]]"
+  - "[[Argument_Nordahl_2015_Paideia]]"
+  - "[[Argument_Hansen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-21'

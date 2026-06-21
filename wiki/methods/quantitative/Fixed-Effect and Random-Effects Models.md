@@ -31,8 +31,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
-  - "[[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]]"
+  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'

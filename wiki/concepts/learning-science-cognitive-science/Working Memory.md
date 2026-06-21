@@ -22,8 +22,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]]"
-  - "[[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]]"
+  - "[[Argument_Bolton_2017_ArchPsych]]"
+  - "[[Argument_Fredens_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

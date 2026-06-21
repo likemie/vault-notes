@@ -26,7 +26,7 @@ related_concepts:
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-04

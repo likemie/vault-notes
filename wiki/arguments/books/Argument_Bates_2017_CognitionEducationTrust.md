@@ -3,7 +3,7 @@ summary: "受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognit
 type: argument
 subtype: monograph
 publication_type: book
-title: "Darwin's Finch: A Short History of Cognition"
+title: "Argument_Bates_2017_CognitionEducationTrust"
 argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"

@@ -7,7 +7,7 @@ summary: "第2章以哈贝马斯认识兴趣三分法为理论框架，系统介
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch02"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"

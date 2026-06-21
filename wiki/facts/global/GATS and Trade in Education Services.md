@@ -27,7 +27,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

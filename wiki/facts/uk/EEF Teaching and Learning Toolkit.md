@@ -45,14 +45,14 @@ related_facts:
   - "[[Playing for Success]]"
   - "[[What Works Network]]"
 related_arguments:
-  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
-  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
-  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
-  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
-  - "[[Evidence-based teaching: a simple view of 'science']]"
-  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Bainbridge_2022_ROE]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

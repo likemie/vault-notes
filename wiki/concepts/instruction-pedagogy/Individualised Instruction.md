@@ -29,8 +29,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Er Hattie og co]]"
-  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Higgins_2016_RE]]"
 confidence: low
 status: draft
 created: "2026-05-05"

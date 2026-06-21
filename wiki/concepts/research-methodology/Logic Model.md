@@ -30,8 +30,8 @@ related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_arguments:
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
 confidence: medium

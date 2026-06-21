@@ -42,10 +42,10 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
-  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
-  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[Comparative education and international relations]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-11'

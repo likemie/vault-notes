@@ -24,7 +24,7 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments:
-  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
+  - "[[Argument_Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-21

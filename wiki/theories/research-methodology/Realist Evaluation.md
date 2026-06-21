@@ -45,8 +45,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EU Skills Agenda]]"
 related_arguments:
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-06-19'

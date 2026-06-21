@@ -36,7 +36,7 @@ related_facts:
   - "[[Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
 related_arguments:
-  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
+  - "[[Argument_Thompson_2022_Promising_Student]]"
 confidence: medium
 status: draft
 created: '2026-05-19'

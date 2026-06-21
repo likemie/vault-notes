@@ -48,13 +48,13 @@ related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Peidu]]"
 related_arguments:
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
-  - "[[金榜题名之后：大学生出路分化之谜]]"
-  - "[[Establishing successful university–industry collaborations: barriers and enablers deconstructed]]"
-  - "[[Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties]]"
-  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
-  - "[[Migration for school choice: urbanisation and rural social stratification in China]]"
-  - "[[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
+  - "[[Argument_Cai_Gao_Liu_2025_HE]]"
+  - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-01

@@ -5,7 +5,7 @@ summary: "诊断比较教育学科积累了过多惯例化的自我合法化方�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
+title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"

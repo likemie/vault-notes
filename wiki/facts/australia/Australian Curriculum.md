@@ -21,7 +21,7 @@ related_persons: []
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
-  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

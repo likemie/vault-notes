@@ -33,7 +33,7 @@ related_facts:
   - "[[What Works Network]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
+  - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-06

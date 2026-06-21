@@ -3,7 +3,7 @@ summary: "基于爱尔兰 SSPC 制药产学合作网络的定性案例研究，�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
+title: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"

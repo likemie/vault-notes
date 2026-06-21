@@ -26,7 +26,7 @@ related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments:
-  - "[[Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees]]"
+  - "[[Argument_Sandrone_2025_MEO]]"
 confidence: medium
 status: draft
 created: 2026-06-07

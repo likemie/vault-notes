@@ -33,9 +33,9 @@ related_persons:
 related_facts:
   - "[[OECD]]"
 related_arguments:
-  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
-  - "[[Evidence-informed practice in education: meanings and applications]]"
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

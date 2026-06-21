@@ -3,7 +3,7 @@ summary: "以好學心为切入点对比东亚与西方两种文化学习模型�
 type: argument
 subtype: monograph
 publication_type: book
-title: "Cultural Foundations of Learning: East and West"
+title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"

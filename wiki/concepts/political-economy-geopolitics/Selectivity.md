@@ -34,8 +34,8 @@ related_facts:
   - "[[EU Skills Agenda]]"
   - "[[Europe 2020 Strategy]]"
 related_arguments:
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
-  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
+  - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Argument_Zapp_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

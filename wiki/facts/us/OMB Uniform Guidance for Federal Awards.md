@@ -23,7 +23,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04

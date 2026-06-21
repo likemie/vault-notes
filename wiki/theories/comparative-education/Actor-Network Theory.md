@@ -33,7 +33,7 @@ related_persons:
 related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments:
-  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
+  - "[[Argument_Beech_2015_GSE]]"
 confidence: medium
 status: draft
 created: 2026-06-07

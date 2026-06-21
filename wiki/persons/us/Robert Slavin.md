@@ -29,8 +29,8 @@ related_methods:
   - "[[Systematic Review]]"
 related_persons: []
 related_arguments:
-  - "[[Evidence-based education policies: Transforming educational practice and research]]"
-  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
+  - "[[Argument_Slavin_2002_ER]]"
+  - "[[Argument_Slavin_2019_EP]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"

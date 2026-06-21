@@ -26,7 +26,7 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[EU Skills Agenda]]"
 related_arguments:
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

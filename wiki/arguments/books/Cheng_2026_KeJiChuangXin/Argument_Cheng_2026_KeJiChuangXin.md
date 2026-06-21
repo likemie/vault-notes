@@ -7,7 +7,7 @@ summary: "本研究报告系统梳理了中国科技创新与产业创新深度�
 type: argument
 subtype: monograph
 publication_type: book
-title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
+title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"

@@ -26,7 +26,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[What works may hurt: Side effects in education]]"
+  - "[[Argument_Zhao_2017_JEC]]"
 confidence: low
 status: draft
 created: '2026-05-04'

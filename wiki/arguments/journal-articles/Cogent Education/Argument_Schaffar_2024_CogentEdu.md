@@ -6,11 +6,11 @@ summary: 历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
+title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
   - region/finland
   - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"

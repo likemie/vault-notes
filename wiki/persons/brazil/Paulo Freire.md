@@ -23,7 +23,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Two faces of geopolitics of knowledge]]"
+  - "[[Argument_Partaken_2022_Springer]]"
 related_facts:
   - "[[Kokutai no Hongi]]"
 confidence: medium

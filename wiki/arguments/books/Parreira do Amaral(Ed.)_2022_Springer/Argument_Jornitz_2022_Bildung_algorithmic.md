@@ -6,7 +6,7 @@ summary: "以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软
 type: argument
 subtype: book-chapter
 publication_type: book
-title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
+title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"

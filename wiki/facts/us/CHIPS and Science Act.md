@@ -30,8 +30,8 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Universal Parallel Computing Research Centers]]"
 related_arguments:
-  - "[[Innovation Centers and Economic Development]]"
-  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-05-28

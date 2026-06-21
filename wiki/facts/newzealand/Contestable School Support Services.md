@@ -20,7 +20,7 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Cognition Education]]"
 related_arguments:
-  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

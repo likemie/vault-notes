@@ -27,7 +27,7 @@ related_facts:
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
 related_arguments:
-  - "[[A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s]]"
+  - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -33,8 +33,8 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
-  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
-  - "[[International research collaborations between universities and industry]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
 confidence: medium
 status: draft
 created: 2026-05-27

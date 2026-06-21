@@ -29,8 +29,8 @@ related_persons: []
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:
-  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
-  - "[[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]]"
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

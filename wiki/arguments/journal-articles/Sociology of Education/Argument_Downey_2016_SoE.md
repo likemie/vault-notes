@@ -6,7 +6,7 @@ summary: "在 Coleman Report 50 周年重新审视学校与不平等的关系，
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality"
+title: "Argument_Downey_2016_SoE"
 argument_key: "Argument_Downey_2016_SoE"
 argument_display_title: "Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality"
 argument_kind: "journal-article"

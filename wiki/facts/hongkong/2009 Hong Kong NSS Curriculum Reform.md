@@ -28,7 +28,7 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
-  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
+  - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-06-07'

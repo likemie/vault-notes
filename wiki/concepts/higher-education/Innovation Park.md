@@ -30,8 +30,8 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[TUFF]]"
 related_arguments:
-  - "[[Organization and Strategy for University-Industry Relationships]]"
-  - "[[Innovation Centers and Economic Development]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Argument_Byrne_2025_InnovationCenters]]"
 confidence: medium
 status: draft
 created: 2026-05-27

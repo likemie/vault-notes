@@ -34,8 +34,8 @@ related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments:
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
-  - "[[Measuring the impacts of university-industry R&D collaborations: a systematic literature review]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Cohen_2025_JTT]]"
 confidence: medium
 status: draft
 created: 2026-05-23

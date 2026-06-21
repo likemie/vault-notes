@@ -32,8 +32,8 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
 related_facts: []
 related_arguments:
-  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
-  - "[[Visible learning and its enemies – the missing link]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'

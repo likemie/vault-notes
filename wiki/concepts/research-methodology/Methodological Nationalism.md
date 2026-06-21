@@ -30,10 +30,10 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts: []
 related_arguments:
-  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
-  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
-  - "[[Comparative education and international relations]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-12

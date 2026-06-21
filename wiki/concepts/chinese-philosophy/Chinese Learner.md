@@ -59,9 +59,9 @@ related_facts:
   - "[[Transnationalism and America Project SYSU]]"
   - "[[China Basic Education Curriculum Reform]]"
 related_arguments:
-  - "[[Cultural Foundations of Learning: East and West]]"
-  - "[[The Chinese Learner: Misconceptions and Realities]]"
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: 2026-05-16

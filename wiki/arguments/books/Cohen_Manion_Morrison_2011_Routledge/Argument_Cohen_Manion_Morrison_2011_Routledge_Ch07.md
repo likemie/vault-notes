@@ -7,7 +7,7 @@ summary: "系统拆解研究规划的完整框架：以目的适切性为核心�
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch07"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"

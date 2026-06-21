@@ -5,7 +5,7 @@ summary: "分析 208 篇诺贝尔生理学或医学奖演讲，发现只有 9.6%
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
+title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"

@@ -6,7 +6,7 @@ summary: "以第三代活动理论为框架，分析中国四校在跨文化教�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
+title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"

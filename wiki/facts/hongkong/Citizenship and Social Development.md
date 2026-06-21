@@ -33,8 +33,8 @@ related_facts:
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
 related_arguments:
-  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
-  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
+  - "[[Argument_Vickers_2024_CE]]"
+  - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

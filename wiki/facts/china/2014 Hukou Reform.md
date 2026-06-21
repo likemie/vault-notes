@@ -25,7 +25,7 @@ related_facts:
   - "[[Rural School Consolidation]]"
   - "[[Peidu]]"
 related_arguments:
-  - "[[Migration for school choice: urbanisation and rural social stratification in China]]"
+  - "[[Argument_Teng_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

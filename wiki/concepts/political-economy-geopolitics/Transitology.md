@@ -27,8 +27,8 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
 related_arguments:
-  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
-  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

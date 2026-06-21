@@ -25,7 +25,7 @@ related_persons:
   - "[[Nick Cowen]]"
   - "[[Gert Biesta]]"
 related_arguments:
-  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Argument_Cowen_2015_CHESS]]"
 related_facts:
   - "[[What Works Network]]"
 confidence: medium

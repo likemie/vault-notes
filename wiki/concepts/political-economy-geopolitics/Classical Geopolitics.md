@@ -31,11 +31,11 @@ related_persons:
 related_facts:
   - "[[Sino-American Trade War]]"
 related_arguments:
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
-  - "[[Rise of Asia, geopolitical shifts and higher education]]"
-  - "[[Two faces of geopolitics of knowledge]]"
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

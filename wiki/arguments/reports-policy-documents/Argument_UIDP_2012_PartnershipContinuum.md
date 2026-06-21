@@ -9,7 +9,7 @@ summary: "UIDP 工作组提出的产学伙伴关系五类三层分类框架，�
 type: argument
 subtype: report
 publication_type: report
-title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
+title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"

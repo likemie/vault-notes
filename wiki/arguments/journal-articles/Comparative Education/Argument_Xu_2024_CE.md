@@ -5,7 +5,7 @@ summary: "对比大陆与香港初中中国历史教科书的国家叙事，大�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong"
+title: "Argument_Xu_2024_CE"
 argument_key: "Argument_Xu_2024_CE"
 argument_display_title: "'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong"
 argument_kind: "journal-article"

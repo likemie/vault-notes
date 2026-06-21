@@ -10,7 +10,7 @@ summary: "作为 Paideia 可见的学习（Visible Learning，VL）主题号导�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Leder Temanummer om synlig læring"
+title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"

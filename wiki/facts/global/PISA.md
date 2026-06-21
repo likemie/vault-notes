@@ -28,8 +28,8 @@ related_facts:
   - "[[OECD]]"
   - "[[Baby PISA]]"
 related_arguments:
-  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
-  - "[[Two decades of havoc: A synthesis of criticism against PISA]]"
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: medium
 status: draft
 created: "2026-05-17"

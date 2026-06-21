@@ -1,7 +1,7 @@
 ---
 citation: "Zhao, Y. (2017). What works may hurt: Side effects in education. Journal of Educational Change."
 extracted_to:
-  - "[[What works may hurt: Side effects in education]]"
+  - "[[Argument_Zhao_2017_JEC]]"
 processed_date: 2026-05-04
 ---
 

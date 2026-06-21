@@ -21,7 +21,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Leading education beyond what works]]"
+  - "[[Argument_Møller_2017_EERJ]]"
 confidence: high
 status: draft
 created: '2026-05-02'

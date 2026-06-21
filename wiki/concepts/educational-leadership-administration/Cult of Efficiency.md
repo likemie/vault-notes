@@ -29,7 +29,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-06-09

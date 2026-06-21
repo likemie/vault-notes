@@ -1,14 +1,14 @@
 ---
 citation: "Cohen, L., Manion, L., & Morrison, K. (2011). Research methods in education (7th ed.). Routledge."
 extracted_to:
-  - "[[Research Methods in Education]]"
-  - "[[Research Methods in Education · Ch01]]"
-  - "[[Research Methods in Education · Ch02]]"
-  - "[[Research Methods in Education · Ch03]]"
-  - "[[Research Methods in Education · Ch04]]"
-  - "[[Research Methods in Education · Ch05]]"
-  - "[[Research Methods in Education · Ch06]]"
-  - "[[Research Methods in Education · Ch07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
 processed_date: 2026-06-16
 ---
 

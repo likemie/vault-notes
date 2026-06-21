@@ -22,7 +22,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_arguments:
-  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
+  - "[[Argument_Peterson_2016_IJRME]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: medium

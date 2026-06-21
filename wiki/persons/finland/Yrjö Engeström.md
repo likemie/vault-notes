@@ -22,7 +22,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]]"
+  - "[[Argument_Wang_2025_CE]]"
 confidence: low
 status: draft
 created: 2026-05-26

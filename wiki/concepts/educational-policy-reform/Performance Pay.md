@@ -23,8 +23,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
-  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-03'

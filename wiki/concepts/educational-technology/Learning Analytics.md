@@ -42,9 +42,9 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
-  - "[[Which Vision of Education for Late Modernity? In M]]"
-  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
+  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: medium
 status: draft
 created: 2026-05-08

@@ -25,10 +25,10 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
-  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
-  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
-  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Snook_2009_NZJES]]"
 confidence: medium
 status: draft
 created: '2026-06-08'

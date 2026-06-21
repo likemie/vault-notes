@@ -7,7 +7,7 @@ summary: "Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze �
 type: argument
 subtype: book-chapter
 publication_type: book
-title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
+title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"

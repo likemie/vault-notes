@@ -41,10 +41,10 @@ related_facts:
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
-  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
-  - "[[Some reflections on the role of evidence in improving education]]"
-  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
-  - "[[What Works Clearinghouse standards and generalization of single-case design evidence]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -7,7 +7,7 @@ summary: "第4章系统介绍教育研究中因果推断的关键议题，包括
 type: argument
 subtype: textbook
 publication_type: book-chapter
-title: "Research Methods in Education · Ch04"
+title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"

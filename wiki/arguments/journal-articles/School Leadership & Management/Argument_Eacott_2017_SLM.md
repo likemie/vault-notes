@@ -5,7 +5,7 @@ summary: "基于卡拉汉的效率崇拜历史视角，批判性论证澳大利�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
+title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
@@ -62,8 +62,8 @@ related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Educators are not uncritical believers of a cult figure]]"
-  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
 sources:
   - "[[Eacott_2017_SLM]]"
 part_of: ""

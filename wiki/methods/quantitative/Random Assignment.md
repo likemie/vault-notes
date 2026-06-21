@@ -46,8 +46,8 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
-  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
 created: '2026-05-31'

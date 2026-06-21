@@ -25,7 +25,7 @@ related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
-  - "[[Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties]]"
+  - "[[Argument_Cai_Gao_Liu_2025_HE]]"
 confidence: medium
 status: draft
 created: 2026-06-11

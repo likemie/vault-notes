@@ -1,7 +1,7 @@
 ---
 citation: "Bogliacino, F., & Pianta, M. (2016). The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services. Economia Politica, 33, 153–180."
 extracted_to:
-  - "[[The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services]]"
+  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
 processed_date: 2026-06-10
 ---
 

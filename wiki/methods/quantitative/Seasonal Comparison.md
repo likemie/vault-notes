@@ -26,7 +26,7 @@ related_methods:
   - "[[Experimental Research]]"
 related_persons: []
 related_arguments:
-  - "[[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]]"
+  - "[[Argument_Downey_2016_SoE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

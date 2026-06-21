@@ -28,8 +28,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[What works may hurt: Side effects in education]]"
-  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_Terhart_2011_JCS]]"
 confidence: low
 status: draft
 created: "2026-05-04"

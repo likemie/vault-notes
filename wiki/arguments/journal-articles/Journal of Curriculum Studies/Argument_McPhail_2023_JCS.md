@@ -7,7 +7,7 @@ summary: "使用社会实在论和伯恩斯坦理论分析新西兰课程改革�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Knowledge and the New Zealand curriculum refresh"
+title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"

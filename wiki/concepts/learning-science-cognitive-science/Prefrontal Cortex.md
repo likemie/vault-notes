@@ -28,7 +28,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]]"
+  - "[[Argument_Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

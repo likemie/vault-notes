@@ -25,8 +25,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Reflection on the University and the Academic as 'Critic and Conscience of Society']]"
-  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Argument_Grace_2010_NZJES]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 confidence: low
 status: draft
 created: '2026-05-07'

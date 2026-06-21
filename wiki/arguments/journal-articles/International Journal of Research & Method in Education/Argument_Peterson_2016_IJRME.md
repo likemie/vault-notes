@@ -5,7 +5,7 @@ summary: "以文献综述和美英 What Works 倡议对话为基础，提出以�
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
+title: "Argument_Peterson_2016_IJRME"
 argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"

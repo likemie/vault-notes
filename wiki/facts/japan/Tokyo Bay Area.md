@@ -22,7 +22,7 @@ related_persons: []
 related_facts:
   - "[[Tsukuba Science City]]"
 related_arguments:
-  - "[[科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索]]"
+  - "[[Argument_Zhang_2023_PHEI]]"
 confidence: medium
 status: draft
 created: 2026-06-11

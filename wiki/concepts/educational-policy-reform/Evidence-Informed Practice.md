@@ -44,9 +44,9 @@ related_facts:
   - "[[What Works Network]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
-  - "[[Evidence-informed practice in education: meanings and applications]]"
-  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
-  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

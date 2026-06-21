@@ -45,9 +45,9 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
 related_arguments:
-  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
-  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
-  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: low
 status: draft
 created: '2026-05-07'

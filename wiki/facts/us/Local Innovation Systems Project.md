@@ -21,7 +21,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)]]"
+  - "[[Argument_Lester_2005_MIT]]"
 confidence: medium
 status: draft
 created: 2026-06-10

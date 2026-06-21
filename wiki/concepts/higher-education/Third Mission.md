@@ -35,7 +35,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: medium
 status: draft
 created: 2026-05-27

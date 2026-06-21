@@ -26,6 +26,7 @@ related_concepts:
   - "[[Causality]]"
 related_theories: []
 related_methods:
+  - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []

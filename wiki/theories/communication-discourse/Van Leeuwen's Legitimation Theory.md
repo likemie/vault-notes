@@ -35,7 +35,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: low
 status: draft
 created: '2026-05-07'

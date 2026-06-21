@@ -5,7 +5,7 @@ summary: "运用 Wight 国际理论三大传统（现实主义、理性主义、
 type: argument
 subtype: journal-article
 publication_type: journal-article
-title: "Comparative education and international relations"
+title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
@@ -66,8 +66,8 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
-  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
-  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
 sources:
   - "[[Klerides_2023_CE]]"
 part_of: ''

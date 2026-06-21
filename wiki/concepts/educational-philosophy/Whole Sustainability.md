@@ -29,7 +29,7 @@ related_persons:
 related_facts:
   - "[[UN Sustainable Development Goals]]"
 related_arguments:
-  - "[[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]]"
+  - "[[Argument_Delambre_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-11'

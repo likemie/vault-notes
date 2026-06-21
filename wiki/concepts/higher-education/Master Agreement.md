@@ -29,7 +29,7 @@ related_persons: []
 related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
-  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
 status: draft
 created: 2026-05-28

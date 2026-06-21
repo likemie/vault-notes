@@ -36,8 +36,8 @@ related_facts:
   - "[[Teach First New Zealand]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments:
-  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
-  - "[[Imaginaries of Education and Innovation in the European Union]]"
+  - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

@@ -38,7 +38,7 @@ created: 2026-05-25
 updated: '2026-06-08'
 subtype: journal-article
 publication_type: journal-article
-title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
+title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
