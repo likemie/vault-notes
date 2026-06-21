@@ -7,7 +7,7 @@ summary: "准入困难时依赖自愿参与者的非概率抽样方法，可能�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
+method_related_count: 3
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"

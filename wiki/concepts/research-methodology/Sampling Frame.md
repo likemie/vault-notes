@@ -7,7 +7,7 @@ aliases:
 summary: "界定研究总体参数特征的操作性清单或范围，明确谁属于总体、谁不属于，抽样框的错误或模糊是样本无代表性的重要来源"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -12,10 +12,10 @@ aliases:
 summary: "从同一总体中多次抽样时样本统计量之间的变异，以均值的标准误（SEM）和比例的标准误度量，其分布规律由中心极限定理描述，是确定样本量和置信区间的基础概念"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/sampling
   - quantitative-research

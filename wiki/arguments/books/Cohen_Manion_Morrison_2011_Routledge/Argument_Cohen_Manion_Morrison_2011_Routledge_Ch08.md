@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 50
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -176,10 +176,11 @@ updated: 2026-06-21
 >
 > 实际数据分布如下：
 >
-> | 群体 | 强烈反对 | 反对 | 中立 | 同意 | 强烈同意 |
-> |---|---|---|---|---|---|
-> | 10 岁学生 | 25 | 20 | 3 | 8 | 4 |
-> | 教师 | 6 | 4 | 2 | 4 | 4 |
+> > [!index-table] 五点量表回应分布
+> > | 群体 | 强烈反对 | 反对 | 中立 | 同意 | 强烈同意 |
+> > |---|---|---|---|---|---|
+> > | 10 岁学生 | 25 | 20 | 3 | 8 | 4 |
+> > | 教师 | 6 | 4 | 2 | 4 | 4 |
 >
 > 卡方检验要求 80% 的单元格必须有 5 个或以上案例。本例中 10 个单元格中有 6 个（60%）少于 5 例，统计要求未满足。
 >
@@ -259,13 +260,14 @@ Bartlett et al.（2001: 48–9）还指出：
 >
 > 设想对一所 1,000 名学生的多种族学校进行全校调查。公式表明随机样本需 278 人即可确保代表性。但若希望按族裔分层：
 >
-> | 族裔 | 总体人数 | 所需随机样本 |
-> |---|---|---|
-> | 华裔（Chinese） | 100 | 80 |
-> | 西班牙裔（Spanish） | 50 | 44 |
-> | 英裔（English） | 800 | 260 |
-> | 美裔（American） | 50 | 44 |
-> | **总计** | **1,000** | **428** |
+> > [!index-table] 按族裔分层后的样本量膨胀
+> > | 族裔 | 总体人数 | 所需随机样本 |
+> > |---|---|---|
+> > | 华裔（Chinese） | 100 | 80 |
+> > | 西班牙裔（Spanish） | 50 | 44 |
+> > | 英裔（English） | 800 | 260 |
+> > | 美裔（American） | 50 | 44 |
+> > | **总计** | **1,000** | **428** |
 >
 > 原本 278 的样本量迅速膨胀至 428，因为每个子组都需要满足自身的代表性要求。在教育研究中，关注子组（strata）而非整体样本的情况非常普遍，因此样本量膨胀是一个重大问题。如果子组是必需的，计算总体样本量的规则同样适用于每个子组（p.147）。
 
@@ -684,7 +686,7 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 >
 > **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]**（Sequential Mixed Methods Sampling）：一种样本先于另一种并影响后续样本。例如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
 >
-> **多层次混合方法抽样**（Multilevel Mixed Methods Sampling）：不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007: 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
+> **[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]**（Multilevel Mixed Methods Sampling）：不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007: 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
 
 ---
 
@@ -731,7 +733,7 @@ Teddlie & Tashakkori（2009: 186–7）还推荐了两种混合变体：
 
 ---
 
-> [!taxonomy]- 表 8.3：抽样类型总览
+> [!index-table]- 表 8.3：抽样类型总览
 >
 > | 概率抽样 | 非概率抽样 | 混合方法抽样设计 |
 > |---|---|---|

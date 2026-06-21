@@ -7,9 +7,9 @@ summary: "不同分析单位层次使用不同类型样本的混合方法抽样�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/sampling

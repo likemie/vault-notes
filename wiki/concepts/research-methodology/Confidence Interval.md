@@ -8,7 +8,7 @@ aliases:
 summary: "围绕点估计给出的可能取值范围，由置信水平和边际误差共同定义，同时服务于抽样设计中的样本量确定和研究报告中估计精度的呈现"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -6,7 +6,7 @@ summary: "观察性研究中的因果推断方法，通过匹配协变量分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

@@ -12,7 +12,7 @@ summary: "从总体中按均等概率选取样本的抽样策略家族，每个�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

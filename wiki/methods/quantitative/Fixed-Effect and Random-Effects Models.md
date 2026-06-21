@@ -9,7 +9,7 @@ summary: "元分析中两种基本的统计汇总模型，前者假设所有研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

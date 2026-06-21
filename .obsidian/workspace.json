@@ -23,21 +23,17 @@
             }
           },
           {
-            "id": "65133362cb285a44",
+            "id": "e1573f91b7722f1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/George Herbert Mead.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "George Herbert Mead"
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,22 +201,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md",
     "Clippings/George Herbert Mead.md",
+    "Clippings/George Herbert Mead 1.md",
+    "wiki/concepts/research-methodology/Internal and External Generalizability.md",
+    "wiki/theories/research-methodology/Central Limit Theorem.md",
     "wiki/persons/usa/George Herbert Mead.md",
     "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md",
     "wiki/methods/mixed/Multilevel Mixed Methods Sampling.md",
     "wiki/methods/mixed/Sequential Mixed Methods Sampling.md",
     "wiki/methods/mixed/Parallel Mixed Methods Sampling.md",
     "wiki/persons/germany/Wolfgang Klafki.md",
-    "wiki/concepts/research-methodology/Internal and External Generalizability.md",
     "wiki/concepts/research-methodology/Sampling Frame.md",
     "wiki/concepts/research-methodology/Standard Error.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md",
     "wiki/concepts/research-methodology/Rich and Thick Description.md",
     "wiki/concepts/research-methodology/External Validity.md",
-    "wiki/theories/research-methodology/Central Limit Theorem.md",
     "wiki/methods/quantitative/Causal Modeling.md",
     "wiki/concepts/research-methodology/Confidence Interval.md",
     "wiki/methods/qualitative/Snowball Sampling.md",
@@ -233,7 +230,6 @@
     "wiki/methods/quantitative/Cluster Sampling.md",
     "wiki/methods/qualitative/Theoretical Sampling.md",
     "wiki/methods/qualitative/Volunteer Sampling.md",
-    "wiki/methods/qualitative/Dimensional Sampling.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md.tmp.9006.3e96330fcf82",
     "raw/021_8 Sampling.txt",
     "wiki/concepts/research-methodology/Literature Search.md.tmp.18087.2d8e192bf844",

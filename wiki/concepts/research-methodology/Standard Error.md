@@ -10,10 +10,10 @@ aliases:
 summary: "抽样分布的标准差，度量样本统计量对总体参数的估计精度，是中心极限定理的直接推论和置信区间构建的核心材料"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - statistics
   - quantitative-research
