@@ -143,9 +143,23 @@ updated: 2026-06-21
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者**：弗朗茨·布伦塔诺（Franz Brentano） — 老师，激发了胡塞尔对意向性概念的哲学思考；卡尔·施图姆普夫（Carl Stumpf） — 授课资格论文导师，实验心理学先驱；卡尔·魏尔斯特拉斯（Karl Weierstrass） — 数学导师，启发了数作为对象集合的构造性思维；托马斯·加里格·马萨里克（Tomáš Garrigue Masaryk） — 莱比锡时期的导师与密友，引导其皈依基督新教并推荐了布伦塔诺。
-> - **学生／继承者**：马丁·海德格尔（Martin Heidegger） — 继承弗莱堡大学教席，但其在《存在与时间》中用“此在”替代纯粹自我，导致两人哲学决裂；埃迪特·施泰因（Edith Stein） — 早期私人助手，协助整理手稿，对[[Phenomenology|现象学]]做出了实在论维度的重要贡献；[[Alfred Schutz|阿尔弗雷德·舒茨]]（Alfred Schutz） — 现象学社会学奠基人，将胡塞尔的生活世界概念社会学化；欧根·芬克（Eugen Fink） — 晚期助手，宣读其葬礼悼词；赫尔曼·凡·布雷达（Herman Van Breda） — 方济各会修士，在二战前夕将胡塞尔手稿密运至鲁汶，成立胡塞尔档案馆。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
-> - **批评者／论敌**：哥特洛布·弗雷格（Gottlob Frege） — 逻辑学家，其1894年发表的批评促使胡塞尔清算心理学主义；威廉·狄尔泰（Wilhelm Dilthey） — 历史主义哲学家，胡塞尔撰写《哲学作为严格的科学》批判其历史主义世界观；海因里希·李凯尔特（Heinrich Rickert） — 新[[Immanuel Kant|康德]]主义者，与胡塞尔围绕科学奠基问题展开辩论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **师承／合作者**
+>   - **弗朗茨·布伦塔诺（Franz Brentano）**：老师，激发了胡塞尔对意向性概念的哲学思考。
+>   - **卡尔·施图姆普夫（Carl Stumpf）**：授课资格论文导师，实验心理学先驱。
+>   - **卡尔·魏尔斯特拉斯（Karl Weierstrass）**：数学导师，启发了数作为对象集合的构造性思维。
+>   - **托马斯·加里格·马萨里克（Tomáš Garrigue Masaryk）**：莱比锡时期的导师与密友，引导其皈依基督新教并推荐了布伦塔诺。
+> - **学生／继承者**
+>   - **马丁·海德格尔（Martin Heidegger）**：继承弗莱堡大学教席，但其在《存在与时间》中用“此在”替代纯粹自我，导致两人哲学决裂。
+>   - **埃迪特·施泰因（Edith Stein）**：早期私人助手，协助整理手稿，对[[Phenomenology|现象学]]做出了实在论维度的重要贡献。
+>   - **[[Alfred Schutz|阿尔弗雷德·舒茨]]（Alfred Schutz）**：现象学社会学奠基人，将胡塞尔的生活世界概念社会学化。
+>   - **欧根·芬克（Eugen Fink）**：晚期助手，宣读其葬礼悼词。
+>   - **赫尔曼·凡·布雷达（Herman Van Breda）**：方济各会修士，在二战前夕将胡塞尔手稿密运至鲁汶，成立胡塞尔档案馆。
+>   - *文献支撑*：[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
+> - **批评者／论敌**
+>   - **哥特洛布·弗雷格（Gottlob Frege）**：逻辑学家，其1894年发表的批评促使胡塞尔清算心理学主义。
+>   - **威廉·狄尔泰（Wilhelm Dilthey）**：历史主义哲学家，胡塞尔撰写《哲学作为严格的科学》批判其历史主义世界观。
+>   - **海因里希·李凯尔特（Heinrich Rickert）**：新[[Immanuel Kant|康德]]主义者，与胡塞尔围绕科学奠基问题展开辩论。
+>   - *文献支撑*：[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 
 ---
 
