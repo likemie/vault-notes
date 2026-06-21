@@ -85,16 +85,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ### 命题类型一：[类型名称]（English Name）
 
-> [!claim] 类型一总结
+> [!concept-lens] 类型一总结
 > 说明这类命题围绕什么核心问题展开，各学者的共同倾向或主要分歧在哪里。
 
-> [!claim] Author A（Year）
+> [!claim] Author A
 > 学者 A 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] Author B（Year）
+> [!claim] Author B
 > 学者 B 的具体观点，说明与 A 的异同或修正。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] Author C（Year）
+> [!claim] Author C
 > 学者 C 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
@@ -103,13 +103,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
 
-> [!claim] 类型二总结
+> [!concept-lens] 类型二总结
 > 说明这类命题的核心问题与共同倾向。
 
-> [!claim] Author D（Year）
+> [!claim] Author D
 > 学者 D 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] Author E（Year）
+> [!claim] Author E
 > 学者 E 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
@@ -117,13 +117,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 学者 | 核心观点 | 理论前提 | 适用范围 |
-> |---|---|---|---|---|
-> | **类型一名称** | Author A (Year) | 观点简述 | 前提说明 | 适用情境 |
-> | | Author B (Year) | 观点简述 | 前提说明 | 适用情境 |
-> | | Author C (Year) | 观点简述 | 前提说明 | 适用情境 |
-> | **类型二名称** | Author D (Year) | 观点简述 | 前提说明 | 适用情境 |
-> | | Author E (Year) | 观点简述 | 前提说明 | 适用情境 |
+> | 命题类型 | 核心指向 | 适用情境 |
+> |---|---|---|
+> | **类型一名称** | 这类命题核心关注什么 | 适用的研究对象或场景 |
+> | **类型二名称** | 这类命题核心关注什么 | 适用情境 |
 
 ---
 

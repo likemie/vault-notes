@@ -9,9 +9,9 @@ publication_type: journal-article
 title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 24
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Cogent Education"
 citation: "Schaffar, B., & Wolff, L.-A. (2024). Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots. Cogent Education, 11(1), 2309733. https://doi.org/10.1080/2331186X.2024.2309733"
