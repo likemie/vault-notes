@@ -30,6 +30,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Homework]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -157,7 +158,7 @@ citation_aliases:
 > [!success] 主要发现
 > - **[[Effect Size|效应量]]测量的是试验清晰度（experimental clarity），不是教育有效性**：大 d 表示在特定比较组、特定样本和特定测量的条件下组间差异"很清晰"——但清晰度不等于重要性或教育显著性(p.14)
 > - **三个系统性偏差随研究领域变化**：比较组选择、范围限制和测量设计的自由度在不同教育领域中系统性不同，使得某些领域的效应量始终高于其他领域——无论其教育影响力如何(pp.5–14)
-> - **偏差不是随机噪声**："good experimenters legitimately manipulate d (as they might manipulate sample size) to enhance the sensitivity of their experiments"(p.5)——研究者做出增加效应量的设计决策是良好实验设计的体现，但这些决策的自由度因领域而异
+> - **偏差不是随机噪声**："good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination|sample size]]) to enhance the sensitivity of their experiments"(p.5)——研究者做出增加效应量的设计决策是良好实验设计的体现，但这些决策的自由度因领域而异
 > - **联盟表是"对研究设计操纵开放程度的等级"**：效应量排名较高的领域是那些研究者更容易通过方法论选择使教育上可能不重要的差异显得突出的领域(p.14)
 > - **仅在同一比较组、同一样本范围、同一测量工具和同一分析的极端条件下，合并效应量才具有意义**——"在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"(p.15, 2019)
 

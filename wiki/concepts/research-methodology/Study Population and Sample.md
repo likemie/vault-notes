@@ -22,6 +22,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Purpose Statement]]"
   - "[[Variable]]"
+  - "[[Sampling Frame]]"
   - "[[Gatekeepers]]"
   - "[[External Validity]]"
   - "[[Response Bias]]"
@@ -63,7 +64,7 @@ updated: 2026-06-01
 
 > [!feature] 抽样决策五因素
 > - **[[Sample Size Determination|样本量]]**（sample size）：取决于[[Purpose Statement|研究目的]]、总体性质、所需准确度、预期回应率、[[Variable|变量]]数量和统计方法要求。
-> - **样本的代表性与参数特征**（representativeness and parameters）：即正确清晰地设定总体的参数特征——抽样框。研究者需明确什么在被代表。
+> - **样本的代表性与参数特征**（representativeness and parameters）：即正确清晰地设定总体的参数特征——[[Sampling Frame|抽样框]]。研究者需明确什么在被代表。
 > - **样本的准入**（access to the sample）：不仅需确保准入被允许，还需确保准入实际上可行。准入可能因参与者自身原因、实际原因、保护性原因或[[Gatekeepers|守门人]]（gatekeepers）而被拒绝。
 > - **抽样策略**（sampling strategy）：选择[[Random Sampling|概率抽样]]还是[[Non-probability Sampling|非概率抽样]]。
 > - **研究的类型**：定量、定性还是[[Mixed Methods Research|混合方法]]——不同类型对应不同的抽样逻辑和样本量要求。
@@ -99,7 +100,7 @@ updated: 2026-06-01
 
 > [!example]
 > - vs [[Random Sampling|随机抽样]] — 总体和样本是概念区分（"谁" vs "谁的子集"）；随机抽样是连接两者的方法（"如何从总体选取样本"）。
-> - vs [[Response Bias|回应偏差]] — 即使抽样设计良好，实际回应调查的人（回应样本）可能与原始抽样设计中选取的人（目标样本）不同——非回应者可能具有与回应者不同的特征，导致回应偏差。总体 → 抽样框 → 目标样本 → 回应样本，每一步都可能引入偏差。
+> - vs [[Response Bias|回应偏差]] — 即使抽样设计良好，实际回应调查的人（回应样本）可能与原始抽样设计中选取的人（目标样本）不同——非回应者可能具有与回应者不同的特征，导致回应偏差。总体 → [[Sampling Frame|抽样框]] → 目标样本 → 回应样本，每一步都可能引入偏差。
 
 ## 适用场景
 
@@ -111,6 +112,6 @@ updated: 2026-06-01
 
 > [!warning]
 > - 在许多教育研究中，研究者只能接触到特定学校或班级的学生——此时样本对"所有学生"的代表性有限。应诚实地讨论这种局限而非夸大推广范围。
-> - 总体名单（抽样框）可能不完整或过时——如邮寄名单可能不包括无家可归者或近期搬迁者，导致覆盖误差（coverage error）。
+> - 总体名单（[[Sampling Frame|抽样框]]）可能不完整或过时——如邮寄名单可能不包括无家可归者或近期搬迁者，导致覆盖误差（coverage error）。
 > - 即使从完整抽样框中[[Random Sampling|随机抽样]]，低回应率也可能使最终样本在关键特征上不再代表总体（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

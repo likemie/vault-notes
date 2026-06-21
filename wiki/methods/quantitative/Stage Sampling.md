@@ -17,9 +17,9 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Sampling Error]]"
+  - "[[Standard Error]]"
 related_theories: []
 related_methods:
-  - "[[Random Sampling]]"
   - "[[Cluster Sampling]]"
 related_persons: []
 related_facts: []
@@ -35,7 +35,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> [[Random Sampling|阶段抽样]]（Stage Sampling）是[[Cluster Sampling|整群抽样]]的延伸，从样本中再抽取样本。例如随机选择若干学校（第一阶），从各校随机选择若干班级（第二阶），从各班随机选择若干学生（第三阶）。每阶段均保持随机性，全程贯穿单一的统一目的。核心逻辑是从一般走向具体、从广走向窄、从大走向小。
+> 阶段抽样（Stage Sampling）是[[Cluster Sampling|整群抽样]]的延伸，从样本中再抽取样本。例如随机选择若干学校（第一阶），从各校随机选择若干班级（第二阶），从各班随机选择若干学生（第三阶）。每阶段均保持随机性，全程贯穿单一的统一目的。核心逻辑是从一般走向具体、从广走向窄、从大走向小。
 
 > [!method-scope] 方法范围
 > - **研究对象**：嵌套在多层组织中的个体（如学生嵌套于班级、班级嵌套于学校）
@@ -65,7 +65,7 @@ updated: 2026-06-22
 
 > [!method-limits] 方法局限
 > - **规模假定**：假定各阶段单位（如学校）规模大致相等，实践中未必成立。
-> - **累积误差**：每[[Random Sampling|阶段抽样]]均引入[[Sampling Error|抽样误差]]，多阶段累积可能使最终标准误增大。
+> - **累积误差**：每阶段抽样均引入[[Sampling Error|抽样误差]]，多阶段累积可能使最终[[Standard Error|标准误]]增大。
 > - **缓解方式**：在分析中使用多水平模型或调查加权方法校正。
 
 ## 使用此方法的研究

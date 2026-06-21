@@ -14,12 +14,15 @@ method_related_color: "#dbeafe"
 tags:
   - method/sampling
   - qualitative-research
-related_concepts: []
+related_concepts:
+  - "[[Sampling Frame]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Non-probability Sampling]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
 status: draft
 created: 2026-06-22
@@ -40,14 +43,14 @@ updated: 2026-06-22
 
 ## 研究程序
 
-通过广告、个人联系、课程公告等方式招募自愿参与者。无需抽样框。
+通过广告、个人联系、课程公告等方式招募自愿参与者。无需[[Sampling Frame|抽样框]]。
 
 ## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用**：准入极度困难、其他抽样方式均不可行时。
 > - **谨慎使用**：必须极其谨慎对待推广性或代表性声称。
-> - **不适合使用**：需要统计代表性或可获取抽样框时。
+> - **不适合使用**：需要统计代表性或可获取[[Sampling Frame|抽样框]]时。
 
 ## 局限性
 

@@ -22,6 +22,8 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
   - "[[Research Contribution]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
@@ -44,7 +46,7 @@ updated: '2026-06-08'
 > [!info] 定义
 > 固定效应模型（Fixed-Effect Model）和随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中两种基本的统计汇总方法。它们的核心区别在于如何理解各研究之间[[Effect Size|效应量]]的变异([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 >
-> **固定效应模型**假设所有纳入研究估计的是同一个恒定的真实效应量，观察到的差异仅来自各研究内部的抽样误差。因此按精度（方差的倒数）加权，标准误较小的[[Research Contribution|研究贡献]]更大([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
+> **固定效应模型**假设所有纳入研究估计的是同一个恒定的真实效应量，观察到的差异仅来自各研究内部的[[Sampling Error|抽样误差]]。因此按精度（方差的倒数）加权，[[Standard Error|标准误]]较小的[[Research Contribution|研究贡献]]更大([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 >
 > **随机效应模型**假设每项研究都是干预的略有不同版本，有自己的随机变异需要被考虑。该模型同时纳入研究内变异和研究间变异，因此给出的汇总估计通常更保守([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 
@@ -74,7 +76,7 @@ updated: '2026-06-08'
 > [!success] 适用场景
 > **固定效应模型适用于：**
 > - 各研究估计的是理论上相同的干预效果
-> - 研究间差异主要来自抽样误差
+> - 研究间差异主要来自[[Sampling Error|抽样误差]]
 > - 需要将[[Meta-analysis|元分析]]当作更大单一研究来处理时
 >
 > **随机效应模型适用于：**

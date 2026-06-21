@@ -27,22 +27,26 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Sample Size Determination]]"
+  - "[[Sampling Frame]]"
   - "[[Purpose Statement]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Heterogeneity]]"
   - "[[Confidence Interval]]"
   - "[[Sampling Error]]"
+  - "[[Standard Error]]"
   - "[[School Effectiveness]]"
   - "[[Effect Size]]"
   - "[[Gatekeepers]]"
   - "[[Policy Network]]"
+  - "[[Internal and External Generalizability]]"
   - "[[External Validity]]"
   - "[[Rich and Thick Description]]"
   - "[[Research Question]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Purpose]]"
-related_theories: []
+related_theories:
+  - "[[Central Limit Theorem]]"
 related_methods:
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
@@ -70,6 +74,9 @@ related_methods:
   - "[[Dimensional Sampling]]"
   - "[[Volunteer Sampling]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Multilevel Mixed Methods Sampling]]"
+  - "[[Parallel Mixed Methods Sampling]]"
+  - "[[Sequential Mixed Methods Sampling]]"
   - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
@@ -136,7 +143,7 @@ updated: 2026-06-21
 > 研究者在决定抽样策略时必须就以下五项因素做出判断（pp.143–144）：
 >
 > 1. **[[Sample Size Determination|样本量]]**（sample size），即多少案例才算足够
-> 2. **样本的代表性与参数特征**（representativeness and parameters），即抽样框（sampling frame），明确界定谁属于总体、谁不属于
+> 2. **样本的代表性与参数特征**（representativeness and parameters），即[[Sampling Frame|抽样框]]（sampling frame），明确界定谁属于总体、谁不属于
 > 3. **样本的准入**（access to the sample），不仅准入是否被允许，还需确保准入实际上可行
 > 4. **抽样策略**（sampling strategy），选择[[Random Sampling|概率抽样]]（每个成员有均等概率被选中）还是[[Non-probability Sampling|非概率抽样]]（某些成员肯定被排除、另一些肯定被纳入）
 > 5. **研究的类型**，定量、定性还是[[Mixed Methods Research|混合方法]]，不同类型对应不同的抽样逻辑
@@ -332,17 +339,17 @@ Borg & Gall（1979: 201）还提出了一种逆向使用相关系数显著性表
 
 ---
 
-> [!info] 中心极限定理（Central Limit Theorem）
+> [!info] [[Central Limit Theorem|中心极限定理]]（Central Limit Theorem）
 >
 > 中心极限定理源自概率法则，解释了为什么抽样误差呈现规律性：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，无论原始总体的形状如何（正态或非正态）。且样本均值的均值将近似等于总体均值（Hopkins et al., 1996: 159, 388）。
 >
-> Hopkins 等（1996: 159–62）通过计算机模拟 10,000 次抽样验证了这一规律。Rose & Sullivan（1993: 144）提醒，95% 的所有样本均值落在总体均值 $\pm 1.96$ 个标准误的范围内，即我们有 95% 的把握使单次抽样均值落在这些界限内（p.150）。
+> Hopkins 等（1996: 159–62）通过计算机模拟 10,000 次抽样验证了这一规律。Rose & Sullivan（1993: 144）提醒，95% 的所有样本均值落在总体均值 $\pm 1.96$ 个[[Standard Error|标准误]]的范围内，即我们有 95% 的把握使单次抽样均值落在这些界限内（p.150）。
 
 ---
 
-**均值的标准误**（Standard Error of the Mean, [[Causal Modeling|SEM]]）是抽样误差的基本度量，即抽样分布的标准差：
+**均值的标准误**（Standard Error of the Mean）是抽样误差的基本度量，即抽样分布的标准差：
 
-$$SEM = \frac{SD_{s}}{\sqrt{N}}$$
+$$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 其中 $SD_{s}$ = 样本标准差（严格公式以 $SD_{pop}$ 为分母，但因总体标准差通常无法获取，故用样本标准差替代），$N$ = 样本量。
 
@@ -636,7 +643,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 但这并不意味着质性研究中的样本永远不能代表总体。Onwuegbuzie & Leech（2007）做出了重要区分：
 
-> [!contrast-table] 内部推广性 vs 外部推广性
+> [!contrast-table] [[Internal and External Generalizability|内部推广性]] vs 外部推广性
 > | 维度 | 内部推广性（Internal [[External Validity\|generalizability]]） | 外部推广性（External Generalizability） |
 > |---|---|---|
 > | 推广范围 | 子组数据 → 整个样本 | 样本 → 更广泛的总体 |
@@ -657,7 +664,7 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 
 ---
 
-> [!case] 学校效能研究的多层次混合方法抽样
+> [!case] 学校效能研究的[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]
 >
 > Teddlie & Tashakkori（2009: 191）提供了一个五层次抽样实例：
 >
@@ -673,9 +680,9 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 
 > [!taxonomy] 混合方法抽样的三种基本设计
 >
-> **平行混合方法抽样**（Parallel Mixed Methods Sampling）：概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007: 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
+> **[[Parallel Mixed Methods Sampling|平行混合方法抽样]]**（Parallel Mixed Methods Sampling）：概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007: 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
 >
-> **顺序混合方法抽样**（Sequential Mixed Methods Sampling）：一种样本先于另一种并影响后续样本。例如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
+> **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]**（Sequential Mixed Methods Sampling）：一种样本先于另一种并影响后续样本。例如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
 >
 > **多层次混合方法抽样**（Multilevel Mixed Methods Sampling）：不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007: 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
 

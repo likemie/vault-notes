@@ -33,7 +33,10 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
+  - "[[Sample Size Determination]]"
+  - "[[Sampling Error]]"
   - "[[School Effectiveness]]"
+  - "[[Standard Error]]"
   - "[[Falsification]]"
   - "[[Study Population and Sample]]"
   - "[[Feedback]]"
@@ -351,7 +354,7 @@ Wecker 等人首先检查 Hattie 使用的一级元分析数据库是否满足�
 > [!critique] 四项系统缺陷（Wecker et al., pp. 26–27）
 > - **主要研究表缺失**："许多一级元分析缺乏完整的主要研究表"——Hattie 的方法在数据透明度的第一道门槛就已失守（p. 27）
 > - **具名案例**：Lee & Genovese（1988，"间隔与大规模实践"）和 White（1988，"直接指导"）的元分析效应量被报告，但无主要研究表
-> - **表存在但信息残缺**："即使存在主要研究表，它也经常缺乏必要的信息，尤其是关于实验和控制条件下的样本量"（p. 27）
+> - **表存在但信息残缺**："即使存在主要研究表，它也经常缺乏必要的信息，尤其是关于实验和控制条件下的[[Sample Size Determination|样本量]]"（p. 27）
 > - **计算不规范**："有时在没有可识别的系统学的情况下计算不正确"（p. 27）
 
 **（b）效应量测度的交替混淆**
@@ -388,7 +391,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 
 这是 Wecker 等人发现的最严重的技术问题之一。
 
-**（a）标准误与标准差的混淆**（pp. 26–27）
+**（a）[[Sampling Error|标准误]]与标准差的混淆**（pp. 26–27）
 
 在一个具体的案例重构中，Wecker 等人追踪了 Hattie 如何错误处理 Eisenstaedt 等人（1990）主要研究的数据：
 
@@ -405,7 +408,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 > 
 > **正确计算**：$SD_C = [[School Effectiveness|SE]] \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
 >
-> **误差倍率：约 10 倍** | "显然不是标准差的标准误差"（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 27]]）
+> **误差倍率：约 10 倍** | "显然不是标准差的[[Standard Error|标准误]]差"（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 27]]）
 
 这一案例说明：将标准误（SE）误作标准差（SD）使用会导致效应量被放大或缩小数倍——在此案例中，效应量被放大了约 10 倍。如果这样的极端值被纳入 Hattie 的排名，它们会对平均效应量产生不成比例的影响。
 

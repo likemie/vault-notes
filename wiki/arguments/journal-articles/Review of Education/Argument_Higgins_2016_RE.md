@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_RE"
 argument_key: "Argument_Higgins_2016_RE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

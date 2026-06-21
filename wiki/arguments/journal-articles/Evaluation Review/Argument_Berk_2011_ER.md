@@ -29,8 +29,10 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
+  - "[[Sample Size Determination]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
+  - "[[Standard Error]]"
   - "[[Variable]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -87,12 +89,12 @@ citation_aliases:
 > ### 2. 随机实验的优势与局限
 >
 > 随机实验的[[Internal Validity|内部效度]]优势被认可(Campbell, 1969; Campbell & Stanley, 1963)，但广泛使用导致两个不良后果：
-> - **集群[[Random Assignment|随机化]]问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致样本量不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
+> - **集群[[Random Assignment|随机化]]问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination|样本量]]不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
 > - **非随机研究被断然否定**："这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity|外部效度]]，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处(p.195)
 >
 > Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的统计错误"(p.196)——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"(p.195)。
 >
-> ### 3. [[Causal Modeling|因果建模]]（SEM）的过度使用
+> ### 3. [[Causal Modeling|因果建模]]（[[Standard Error|SEM]]）的过度使用
 >
 > 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"(p.197)。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
 >

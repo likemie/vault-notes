@@ -12,15 +12,16 @@ summary: "从总体中按均等概率选取样本的抽样策略家族，每个�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
   - quantitative-research
   - survey
 related_concepts:
+  - "[[Sampling Frame]]"
   - "[[External Validity]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
@@ -50,7 +51,7 @@ updated: 2026-06-22
 > 随机抽样（Random Sampling），亦称概率抽样（Probability Sampling），是从研究总体中按均等概率选取样本的抽样策略家族。总体中每个成员被选入样本的概率已知且相等，选择完全由概率决定。目标是提升样本对总体的代表性，支持从样本到总体的统计推广（generalization）。
 
 > [!method-scope] 方法范围
-> - **研究对象**：有可识别抽样框的总体
+> - **研究对象**：有可识别[[Sampling Frame|抽样框]]的总体
 > - **问题类型**：需要统计推广到更广泛总体的研究
 > - **分析单位**：个体、组织或可从抽样框中识别的任何单位
 > - **输出形式**：概率样本，支持统计推论和误差范围报告
@@ -80,14 +81,14 @@ updated: 2026-06-22
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**：研究目标是从样本结果推广到更广泛的总体；抽样框可获得且完整。
+> - **适合使用**：研究目标是从样本结果推广到更广泛的总体；[[Sampling Frame|抽样框]]可获得且完整。
 > - **谨慎使用**：抽样框不完整或难以获取时；低回应率可能使样本丧失随机性。
 > - **不适合使用**：总体无法界定或无法构建抽样框；研究不追求统计推广。
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **抽样框依赖**：完整总体名单往往不可行或成本极高。
+> - **[[Sampling Frame|抽样框]]依赖**：完整总体名单往往不可行或成本极高。
 > - **回应率偏差**：即使抽样随机，低回应率可能导致最终样本丧失随机性（[[Response Bias\|回应偏差]]）。
 > - **行政管理成本**：简单随机抽样在总体大且分散时行政上不可行，需借助整群或[[Stage Sampling\|阶段抽样]]。
 > - **子类型各有局限**：详见各子类型条目（周期性、层数膨胀、群内同质性、规模假定等）。

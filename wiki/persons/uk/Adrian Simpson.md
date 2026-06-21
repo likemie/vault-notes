@@ -19,6 +19,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
+  - "[[Sample Size Determination]]"
   - "[[Whole Language]]"
   - "[[Heterogeneity]]"
 related_theories: []
@@ -74,7 +75,7 @@ updated: '2026-06-08'
 > [!info] 三大系统性偏差：效应量是试验灵敏度而非有效性（2017）
 > [[Argument_Simpson_2017_JEP|Simpson (2017)]]的核心论证是：效应量不是干预有效性的测量，而是"试验设计得如何使效应可见"的指标。这一区分对EBT方法论基础构成根本性挑战——如果效应量测量的是研究设计特征而非干预效果，那么基于效应量比较的整个证据等级体系（Hattie 的 [[Visible Learning]]、[[EEF Teaching and Learning Toolkit]]）就失去了有效性基础([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.5, 14–15]])。
 >
-> > "Good experimenters legitimately manipulate d (as they might manipulate sample size) to enhance the sensitivity of their experiments to the impact of the interventions, but their freedom to do so varies between educational contexts." ([[Argument_Simpson_2017_JEP|Simpson, 2017, p.5]])
+> > "Good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination|sample size]]) to enhance the sensitivity of their experiments to the impact of the interventions, but their freedom to do so varies between educational contexts." ([[Argument_Simpson_2017_JEP|Simpson, 2017, p.5]])
 >
 > Simpson 通过一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比）和真实教育研究案例，详细论证了三个系统性偏差来源：
 >
@@ -147,5 +148,5 @@ updated: '2026-06-08'
 > Simpson 的工作本身构成对[[Evidence-Based Education|证据本位教育]]方法论的**系统性批判**，而非被批评的对象。相关的方法论争议围绕其核心主张展开：
 >
 > - **EBE 支持者的"有什么危害"回应**：[[Argument_Simpson_2019_ERE|Simpson (2019, pp.107–108)]]记录了 EBE 支持者的典型回应——即使[[Effect Size|效应量]]不完美，使用它来指导政策"有什么危害？"Simpson 的回答是：干预形式被推广为更有效，而事实上证据仅表明这些是更容易进行清晰研究的领域——这种误认正在引导政策、驱动稀缺资源的使用并导致教学方法的重大改变
-> - **效应的合法用途**：[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]指出 Simpson 的立场是审慎而非全盘否定——他不"把婴儿和洗澡水一起倒掉"。Simpson 承认效应量在以下情况中有合法技术用途：告知未来研究者在类似测试、样本和控制活动下可以预期的噪声水平，以便调整样本量、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具等([[Argument_Simpson_2019_ERE|Simpson, 2019, p.104]])
+> - **效应的合法用途**：[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]指出 Simpson 的立场是审慎而非全盘否定——他不"把婴儿和洗澡水一起倒掉"。Simpson 承认效应量在以下情况中有合法技术用途：告知未来研究者在类似测试、样本和控制活动下可以预期的噪声水平，以便调整[[Sample Size Determination|样本量]]、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具等([[Argument_Simpson_2019_ERE|Simpson, 2019, p.104]])
 > - **从批判到建设**：Simpson 的贡献主要在诊断层面——识别效应量比较和合并的前提假设如何被违背。建设性替代方案（如 Wecker et al. 2016 的中央证据数据库、Pawson 2006 的实在论综合）由其他学者提出，Simpson 本人未在已处理论文中提出替代方法论框架

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Progressive Education]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
+  - "[[Central Limit Theorem]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -41,7 +42,7 @@ updated: 2026-06-16
 
 > [!person-profile] 人物档案
 > - **身份位置**：澳大利亚教育心理学家，新南威尔士大学（University of New South Wales）名誉教授。认知科学与进化教育心理学派学者。
-> - **为什么值得建条目**：开创了[[Cognitive Load Theory|认知负荷理论]]（CLT），在教育心理学和学习科学领域具有全球持续影响力。其理论在2020年代被英澳等国官方循证中介机构和保守智库用于指导课程改革。
+> - **为什么值得建条目**：开创了[[Cognitive Load Theory|认知负荷理论]]（[[Central Limit Theorem|CLT]]），在教育心理学和学习科学领域具有全球持续影响力。其理论在2020年代被英澳等国官方循证中介机构和保守智库用于指导课程改革。
 > - **代表贡献**：提出了[[Cognitive Load Theory|认知负荷理论]]（CLT），主张在教学设计中应当避免过度消耗[[Working Memory|工作记忆]]；提出了生物初级知识与生物次级知识的获取差异，以此主张传统[[Direct Instruction|直接教学]]的优越性，并反对自主探究学习。
 > - **阅读边界**：本页关注其认知负荷理论的学术主张、其著作在澳大利亚初始教师教育（ITE）改革中的政策嵌入，以及其学说在保守派智库政治生态中的动员。
 

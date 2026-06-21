@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Standard Error]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -41,7 +42,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 匹配（Matching）是一种观察性研究的[[Causality|因果推断]]方法，通过在处理组和对照组之间匹配协[[Variable|变量]]分布相似的研究对象，使两组在可观测特征上变得可比。它被 [[Argument_Berk_2011_ER|Berk (2011)]] 推荐为[[Causal Modeling|因果建模]]（SEM）的替代方法——"更少依赖不可检验的假设，更多受实证诊断约束，更不容易受统计不当行为的影响"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])。
+> 匹配（Matching）是一种观察性研究的[[Causality|因果推断]]方法，通过在处理组和对照组之间匹配协[[Variable|变量]]分布相似的研究对象，使两组在可观测特征上变得可比。它被 [[Argument_Berk_2011_ER|Berk (2011)]] 推荐为[[Causal Modeling|因果建模]]（[[Standard Error|SEM]]）的替代方法——"更少依赖不可检验的假设，更多受实证诊断约束，更不容易受统计不当行为的影响"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])。
 
 ## 认识论立场
 
@@ -61,7 +62,7 @@ updated: 2026-05-18
 
 
 > [!example] 关键区分：匹配 vs [[Causal Modeling|因果建模]]
-> | | 匹配 | 因果建模（SEM） |
+> | | 匹配 | 因果建模（[[Standard Error\|SEM]]） |
 > |---|---|---|
 > | 变量选择 | 不参考结果变量 | 常涉及模型选择 |
 > | 模型选择问题 | 回避——匹配变量锁定后不再搜索 | 严重——所有后续统计推断可能"常常严重错误"（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010） |

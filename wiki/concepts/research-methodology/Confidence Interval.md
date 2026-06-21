@@ -8,10 +8,10 @@ aliases:
 summary: "围绕点估计给出的可能取值范围，由置信水平和边际误差共同定义，同时服务于抽样设计中的样本量确定和研究报告中估计精度的呈现"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - confidence-interval
   - standard-error
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Null Hypothesis]]"
   - "[[School Effectiveness]]"
+  - "[[Standard Error]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -94,7 +95,7 @@ updated: 2026-06-22
 > - **点估计**：点估计给出一个数值，但不说明估计精度。[[Effect Size|效应量]]排名若只给 $d$ 值，就无法呈现该估计可能的误差范围。[[Argument_Allerup_2015_Paideia|Allerup (2015, p. 47)]]
 > - **置信水平**：对区间覆盖真值的确信程度。常用 95% 或 99%。95% 意味着若重复抽样 100 次，约 95 个区间会包含总体真值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011, Ch. 8, p. 147)]]
 > - **边际误差**：区间半宽 $e$，由研究者的精度需求决定。$e$ 越小，CI 越窄，所需[[Sample Size Determination|样本量]]越大。
-> - **[[Sampling Error\|标准误]]**：CI 的构建材料，$CI = \text{估计值} \pm Z \times [[School Effectiveness|SE]]$。二级[[Meta-analysis|元分析]]若缺少 $SE$，读者无法自行判断联合效应量估计是否稳定。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 29)]]
+> - **[[Sampling Error\|标准误]]**：CI 的构建材料，$CI = \text{估计值} \pm Z \times [[School Effectiveness|SE]]$。二级[[Meta-analysis|元分析]]若缺少 $[[Standard Error|SE]]$，读者无法自行判断联合效应量估计是否稳定。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 29)]]
 > - **区间重叠规则**：当两个估计值的 CI 重叠时，仅凭点估计大小不能判断二者有统计显著差异。$d = 0.71$ 与 $d = 0.72$ 这类相邻值本身不足以证明两个干预不同。[[Argument_Allerup_2015_Paideia|Allerup (2015, p. 47)]]
 > - **常规策略**：抽样中使用 95% 置信水平和 $\pm 3\%$ 置信区间作为折中方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011, Ch. 8, p. 147)]]
 

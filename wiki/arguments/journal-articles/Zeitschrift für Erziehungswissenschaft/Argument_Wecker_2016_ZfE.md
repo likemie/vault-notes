@@ -30,6 +30,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
+  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
+  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Direct Instruction]]"
 related_theories: []
@@ -94,7 +97,7 @@ citation_aliases:
 > | (3) 方差/标准误确定 | 基于 n_E, n_C 和 d 计算 v_dⱼ；或从元分析报告的 [[School Effectiveness\|SE]]/[[Confidence Interval\|CI]] 计算 | 从效应量 SD 而非样本量计算 SE；一级元分析提供了 CI 也不计算 SE；武断使用 0.05 为 SE 下限 |
 > | (4) 重复数据中和 | 若主要研究出现在多个元分析，减去协方差或使用非重叠子集 | "完全忽略了重复的问题"——即使重叠率达 93% |
 > | (5) 效应量加权估计 | 按精度反比（wⱼ = 1/v_dⱼ）加权 | 简单算术平均；或部分加权但不一致 |
-> | (6) 标准误/CI/显著性检验 | 计算 SE_d = √(1/Σwⱼ)；报告 95% CI；显著性检验 | 不报告 CI 或显著性检验；标准误计算错误；附录 A 信息不足以让读者自行计算 |
+> | (6) [[Sampling Error\|标准误]]/CI/显著性检验 | 计算 SE_d = √(1/Σwⱼ)；报告 95% CI；显著性检验 | 不报告 CI 或显著性检验；[[Standard Error\|标准误]]计算错误；附录 A 信息不足以让读者自行计算 |
 
 ## 核心论证
 
@@ -105,17 +108,17 @@ citation_aliases:
 >
 > **步骤 1: 数据基础的检查**(p.26-27)
 >
-> 发现 (a) 主要研究表系统性缺失——许多一级[[Meta-analysis|元分析]]缺乏完整的主要研究表，即使存在也经常缺乏样本量信息（n_E, n_C）；(b) [[Effect Size|效应量]]测度交替混淆——Hattie 在不同元分析间交替使用 Cohen's d / Hedges' g / Glass' Δ / Fisher's z 而不做转换，这些测度在数学上不等价，不能直接汇总。
+> 发现 (a) 主要研究表系统性缺失——许多一级[[Meta-analysis|元分析]]缺乏完整的主要研究表，即使存在也经常缺乏[[Sample Size Determination|样本量]]信息（n_E, n_C）；(b) [[Effect Size|效应量]]测度交替混淆——Hattie 在不同元分析间交替使用 Cohen's d / Hedges' g / Glass' Δ / Fisher's z 而不做转换，这些测度在数学上不等价，不能直接汇总。
 >
 > **步骤 2: 效应量确定方式的检查**(p.28)
 >
 > 发现 Fisher's z 转换被省略。具体案例：Spies (1987) 关于"游戏"的元分析，Hattie 报告 d=0.26（对应 r=0.129），但该值"只有在算术平均值是直接从相关性而非从 Fisher's z 值计算时才会产生"(p.28)。可靠性评估：Fisher's z 偏差对小效应量影响有限（<1%），对中等效应量约 3%，Hattie 书中仅 6 个影响因素的平均效应量很大，因此"由此产生的不准确性仅具有有限的重要性"——但这反映了程序上的不规范。
 >
-> **步骤 3: 方差与标准误确定方式的检查**(p.26-30)——最严重的技术问题
+> **步骤 3: 方差与[[Sampling Error|标准误]]确定方式的检查**(p.26-30)——最严重的技术问题
 >
 > **(a) [[School Effectiveness|SE]]/SD 混淆（最严重的错误之一）**：Wecker et al.追踪了 Hattie 如何错误处理 Eisenstaedt et al.(1990)主要研究的数据：
 > - Gijbels et al.(2005)的元分析报告该主要研究效应量为 -8.291
-> - 重构：对照组 M=66.53, SE=2.74, n=107 → 正确 SD = 2.74 × √107 ≈ 28.35
+> - 重构：对照组 M=66.53, [[Standard Error|SE]]=2.74, n=107 → 正确 SD = 2.74 × √107 ≈ 28.35
 > - 但 Hattie/Gijbels 使用的"标准差"是 1.65
 > - 效应量计算：(80.21 - 66.53) / 1.65 = -8.291 ← **错误**
 > - 正确计算应使用 SD_pooled ≈ 28.35，得到 d ≈ -0.80（而非 -8.291）
@@ -221,7 +224,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - **基于示例的重构而非全面再分析**：论文承认所给出的例子"不代表一种系统的方法"(p.23)，是对 Hattie 全部 800+ [[Meta-analysis|元分析]]的示例性检查而非穷尽再分析。这既是方法选择（因信息缺失全面重做不可能），也是方法论局限——发现的缺陷是系统性模式证据但并非每个个别[[Effect Size|效应量]]都经过了检验
 > - **全面修正在现有条件下不可能**："要能够评估这些缺陷对分析结果的影响，必须正确进行全面分析，正如已经解释的那样，通常缺少必要的信息"(p.30)——这是 Wecker et al.提出中央证据数据库方案的核心动机
-> - **发表于 2016 年**：Hattie 的工作此后已有多次更新（如 *[[Visible Learning]]: The Sequel*, 2023），但 Wecker et al.批判的根本方法论问题（固定 vs [[Fixed-Effect and Random-Effects Models|随机效应模型]]、调节[[Variable|变量]]、数据标准化）是结构性的，不因样本量增加而自动解决
+> - **发表于 2016 年**：Hattie 的工作此后已有多次更新（如 *[[Visible Learning]]: The Sequel*, 2023），但 Wecker et al.批判的根本方法论问题（固定 vs [[Fixed-Effect and Random-Effects Models|随机效应模型]]、调节[[Variable|变量]]、数据标准化）是结构性的，不因[[Sample Size Determination|样本量]]增加而自动解决
 > - **建设性平衡立场**：论文同时承认 Hattie 的愿景价值——批评目的不是否定而是改进方法实践——这在教育研究的元分析批评中是相对罕见的立场
 
 ## 来源

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — HomVEE 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Evidence-Based Education]] — HomVEE 展示了早期儿童与家庭访问领域中 EBE 标准如何被具体化为研究年份、样本量、[[Quasi-Experimental Designs|QED]]/RDD 设计标准和复制标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
+> - [[Evidence-Based Education]] — HomVEE 展示了早期儿童与家庭访问领域中 EBE 标准如何被具体化为研究年份、[[Sample Size Determination|样本量]]、[[Quasi-Experimental Designs|QED]]/RDD 设计标准和复制标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
 > - [[Randomised Controlled Trials]] — HomVEE 对 RCT 的标准描述程度为 3，属于较详细处理 RCT 实施标准的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
 > - [[Single-Case Design]] — HomVEE 为 matched comparison 和 single case designs 设置分开标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.11]])。
 > - [[What Works Clearinghouse]] — HomVEE 在流失指南上遵循 WWC，并在 RDD 标准上与 WWC 同样要求 forcing [[Variable]]、连续性和函数形式/带宽假设的证据([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]])。

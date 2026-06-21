@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Evaluation Research]]"
   - "[[Construct]]"
+  - "[[Sampling Frame]]"
   - "[[Humility in Learning]]"
 related_theories: []
 related_methods:
@@ -152,7 +153,7 @@ PISA 声称具有科学性，但其实施存在严重的技术缺陷。
 >
 > **年龄 vs 年级**。使用年龄而非年级作为标准意味着样本包括不同年级水平的学生，即对学校课程的不同接触。这没有考虑不同国家的入学年龄差异。
 >
-> **代表性**。研究人员发现 PISA 样本没有达到其声称的代表性水平。例如，英格兰 2003 年周期的低参与率和缺乏代表性被提出作为严重关切。2012 年周期中近一半的 15 岁人口未被纳入抽样框（Rutkowski and Rutkowski 2016）。
+> **代表性**。研究人员发现 PISA 样本没有达到其声称的代表性水平。例如，英格兰 2003 年周期的低参与率和缺乏代表性被提出作为严重关切。2012 年周期中近一半的 15 岁人口未被纳入[[Sampling Frame|抽样框]]（Rutkowski and Rutkowski 2016）。
 >
 > **学生排除**。PISA 允许某些特征的学生被排除，但规定总体排除率低于 5%。然而，不同教育系统的排除率差异很大。残疾学生的排除进一步边缘化了有特殊需求的学生（Schuelka 2013）。上海样本中移民儿童的排除也引起了严重关切（Loveless 2014）。
 

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"
   - "[[Research Scope]]"
+  - "[[Internal and External Generalizability]]"
   - "[[Falsification]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -224,7 +225,7 @@ citation_aliases:
 
 **作者立场偏倚**：作者声明自身是 Comprehensive Future（主张综合教育的运动组织）指导委员会成员。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)。论文中识别"建构型侧步"（而非预期的"回避型侧步"）表明了某种程度上的确保持了被惊讶的开放性。
 
-**[[Research Scope|研究范围]]极小**：聚焦于一项仅影响少数地方当局的短暂政策（SSEF）和一个国家（英国）的议会辩论，外部推广性有限。但作者论证小案例为分析更大现象提供了"肥沃土壤"(p.2–3)。
+**[[Research Scope|研究范围]]极小**：聚焦于一项仅影响少数地方当局的短暂政策（SSEF）和一个国家（英国）的议会辩论，[[Internal and External Generalizability|外部推广性]]有限。但作者论证小案例为分析更大现象提供了"肥沃土壤"(p.2–3)。
 
 **时间滞后**：数据来源于 2015–2019 年，论文发表时许多政治角色已变动。但作者指出该辩论处于"关键节点"——[[Grammar School|文法学校]]的社会流动性承诺正被鼓吹、辩论并最终被[[Falsification|证伪]]的时刻(p.29)。
 

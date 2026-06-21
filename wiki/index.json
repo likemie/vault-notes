@@ -4994,6 +4994,18 @@
     ]
   },
   {
+    "title": "Internal and External Generalizability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Internal and External Generalizability.md",
+    "aliases": [
+      "内部推广性与外部推广性",
+      "internal generalizability",
+      "external generalizability",
+      "内部推广性",
+      "外部推广性"
+    ]
+  },
+  {
     "title": "Internal Consistency and Cronbach's Alpha",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md",
@@ -5711,6 +5723,16 @@
     ]
   },
   {
+    "title": "Sampling Frame",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sampling Frame.md",
+    "aliases": [
+      "抽样框",
+      "sampling frame",
+      "抽样框架"
+    ]
+  },
+  {
     "title": "Saturation",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Saturation.md",
@@ -5790,6 +5812,19 @@
     "aliases": [
       "稳定单元处理值假定",
       "SUTVA"
+    ]
+  },
+  {
+    "title": "Standard Error",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Standard Error.md",
+    "aliases": [
+      "标准误",
+      "SE",
+      "SEM",
+      "standard error of the mean",
+      "均值的标准误",
+      "standard error of proportions"
     ]
   },
   {
@@ -7025,6 +7060,15 @@
     ]
   },
   {
+    "title": "Central Limit Theorem",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Central Limit Theorem.md",
+    "aliases": [
+      "中心极限定理",
+      "CLT"
+    ]
+  },
+  {
     "title": "Maxwell's Interactive Model of Research Design",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Maxwell's Interactive Model of Research Design.md",
@@ -7346,6 +7390,15 @@
     ]
   },
   {
+    "title": "Multilevel Mixed Methods Sampling",
+    "type": "method",
+    "path": "wiki/methods/mixed/Multilevel Mixed Methods Sampling.md",
+    "aliases": [
+      "多层次混合方法抽样",
+      "multilevel mixed methods sampling"
+    ]
+  },
+  {
     "title": "Non-probability Sampling",
     "type": "method",
     "path": "wiki/methods/mixed/Non-probability Sampling.md",
@@ -7354,6 +7407,15 @@
       "非随机抽样",
       "non-probability sample",
       "nonprobability sampling"
+    ]
+  },
+  {
+    "title": "Parallel Mixed Methods Sampling",
+    "type": "method",
+    "path": "wiki/methods/mixed/Parallel Mixed Methods Sampling.md",
+    "aliases": [
+      "平行混合方法抽样",
+      "parallel mixed methods sampling"
     ]
   },
   {
@@ -7373,6 +7435,15 @@
     "aliases": [
       "配额抽样",
       "quota sample"
+    ]
+  },
+  {
+    "title": "Sequential Mixed Methods Sampling",
+    "type": "method",
+    "path": "wiki/methods/mixed/Sequential Mixed Methods Sampling.md",
+    "aliases": [
+      "顺序混合方法抽样",
+      "sequential mixed methods sampling"
     ]
   },
   {
@@ -9756,16 +9827,6 @@
     ]
   },
   {
-    "title": "George Herbert Mead",
-    "type": "person",
-    "path": "wiki/persons/usa/George Herbert Mead.md",
-    "aliases": [
-      "乔治·赫伯特·米德",
-      "Mead",
-      "G. H. Mead"
-    ]
-  },
-  {
     "title": "Harold Garfinkel",
     "type": "person",
     "path": "wiki/persons/usa/Harold Garfinkel.md",
@@ -9812,6 +9873,17 @@
     "aliases": [
       "Glass, G.",
       "吉恩·格拉斯"
+    ]
+  },
+  {
+    "title": "George Herbert Mead",
+    "type": "person",
+    "path": "wiki/persons/usa/George Herbert Mead.md",
+    "aliases": [
+      "乔治·赫伯特·米德",
+      "Mead",
+      "G. H. Mead",
+      "米德"
     ]
   },
   {

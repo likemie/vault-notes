@@ -91,7 +91,6 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
-  - "[[Non-probability Sampling]]"
   - "[[Theoretical Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
@@ -532,7 +531,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 | **政界校友** | 300+ 位副部级以上领导职务校友 | 远少于北方大学 |
 | **毕业生流向** | 公有制经济部门为主 | 非公有制经济部门比例大大高于北方大学 |
 
-**（c）个案选取——两阶段目的抽样与[[Non-probability Sampling|理论抽样]]**：
+**（c）个案选取——两阶段目的抽样与[[Theoretical Sampling|理论抽样]]**：
 
 **第一阶段**（2015.10–2016.05）：滚雪球方式，北方大学 18 位 + 南方大学 20 位，共 38 位。对部分特征进行控制以减少干扰变量：
 - 仅男生（控制性别）

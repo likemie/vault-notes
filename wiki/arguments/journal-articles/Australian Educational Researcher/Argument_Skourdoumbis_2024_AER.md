@@ -42,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Cognitive Load Theory]]"
+  - "[[Central Limit Theorem]]"
 related_methods:
   - "[[Quantitative Research]]"
 related_persons:
@@ -240,7 +241,7 @@ citation_aliases:
 > 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 [[Centre for Independent Studies|CIS]]）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
-> 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 [[Community Innovation Survey|CIS]] 出资赞助并出版的游说政策册子（Analysis Paper 24）。
+> 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, [[Central Limit Theorem|CLT]]）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 [[Community Innovation Survey|CIS]] 出资赞助并出版的游说政策册子（Analysis Paper 24）。
 
 > [!line-a] 游说与监管权力的网状穿梭
 > 政策网络中的核心人物 Jennifer Buckingham 在保守智库、官方行业监管部门与政策游说网络中实现了身份穿梭：她既是 CIS 的高级研究员与董事会成员（CIS, 2024），又是 [[Australian Institute for Teaching and School Leadership|AITSL]]（负责将核心课程落实到标准的监管机构）的非执行董事（AITSL, 2017），打通了游说、决策到合规推广的通道。

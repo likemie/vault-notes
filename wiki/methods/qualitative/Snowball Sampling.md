@@ -20,6 +20,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Sample Size Determination]]"
+  - "[[Sampling Frame]]"
   - "[[Policy Network]]"
   - "[[Gatekeepers]]"
 related_theories: []
@@ -39,7 +40,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> [[Non-probability Sampling|滚雪球抽样]]（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling|非概率抽样]]的一种。研究者识别少数具备所需特征的个体（种子），利用他们的社会网络和人际联系逐层识别更多合格者，后者再转介更后者——由此得名"滚雪球"。该方法本质上是社会性的（Noy, 2008: 332），依赖人际信任和强关系网络。
+> 滚雪球抽样（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling|非概率抽样]]的一种。研究者识别少数具备所需特征的个体（种子），利用他们的社会网络和人际联系逐层识别更多合格者，后者再转介更后者——由此得名"滚雪球"。该方法本质上是社会性的（Noy, 2008: 332），依赖人际信任和强关系网络。
 
 > [!method-scope] 方法范围
 > - **研究对象**：难以接触人群（隐藏人群）、敏感话题参与者、通信网络不发达群体、政策精英
@@ -58,7 +59,7 @@ updated: 2026-06-22
 ### 变体
 
 > [!info]
-> - **受访者驱动抽样**（Respondent-Driven Sampling, Heckathorn, 1997, 2002）：受访者不仅识别更多联系人，还主动招募他们参与。在研究隐藏人群时特别有用——通常无抽样框，人群守卫隐私，且参与者对同伴招募比对研究者招募更合作。
+> - **受访者驱动抽样**（Respondent-Driven Sampling, Heckathorn, 1997, 2002）：受访者不仅识别更多联系人，还主动招募他们参与。在研究隐藏人群时特别有用——通常无[[Sampling Frame|抽样框]]，人群守卫隐私，且参与者对同伴招募比对研究者招募更合作。
 > - **声誉滚雪球**（Reputational Snowball, Farquharson, 2005）：利用人们的声誉联系识别[[Policy Network|政策网络]]中的关键人物，对研究有权势的个人和政策制定者尤为有效。
 
 ## 适用场景
@@ -66,7 +67,7 @@ updated: 2026-06-22
 > [!method-fit] 适用判断
 > - **适合使用**：难以接触人群（青少年溶剂滥用者、性工作者、帮派成员、无家可归者）、敏感话题研究、通信网络不发达情境、外部研究者难以通过正式渠道进入的场景。
 > - **谨慎使用**：需要尽可能多波次以减少初始种子偏差。
-> - **不适合使用**：需要统计代表性、可获取完整抽样框时。
+> - **不适合使用**：需要统计代表性、可获取完整[[Sampling Frame|抽样框]]时。
 
 ## 局限性
 
@@ -78,4 +79,4 @@ updated: 2026-06-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍[[Non-probability Sampling|滚雪球抽样]]、受访者驱动抽样和声誉滚雪球，以及 Browne（2005）和 Heckathorn（1997, 2002）的偏差分析。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍滚雪球抽样、受访者驱动抽样和声誉滚雪球，以及 Browne（2005）和 Heckathorn（1997, 2002）的偏差分析。

@@ -18,6 +18,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Sampling Error]]"
   - "[[Causality]]"
   - "[[Forest Plot]]"
   - "[[Variable]]"
@@ -62,7 +63,7 @@ updated: '2026-06-20'
 ## 定义
 
 > [!def] 核心定义
-> 异质性（Heterogeneity）在[[Meta-analysis|元分析]]中指各研究的[[Effect Size|效应量]]之间超出抽样误差预期的变异。当研究间效果的差异大于仅由抽样误差（即样本随机变异）所能解释的程度时，即存在异质性，表明研究在干预实施、参与者特征、结果测量或研究设计等方面存在系统性变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
+> 异质性（Heterogeneity）在[[Meta-analysis|元分析]]中指各研究的[[Effect Size|效应量]]之间超出[[Sampling Error|抽样误差]]预期的变异。当研究间效果的差异大于仅由抽样误差（即样本随机变异）所能解释的程度时，即存在异质性，表明研究在干预实施、参与者特征、结果测量或研究设计等方面存在系统性变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向多项一级实证研究在特征（设计、情境、样本）与测量结果（效应量）上的系统性多样性与不一致性。
@@ -90,7 +91,7 @@ updated: '2026-06-20'
 
 > [!feature] 核心要素
 > - **异质性检测与量化**：通过 Q 检验判断研究间变异是否超出随机误差；通过 $I^2$ 统计量描述异质性占总观测变异的比例。此外，[[Forest Plot|森林图]]是直观展示变异性的重要可视化工具。
-> - **统计模型选择**：[[Fixed-Effect and Random-Effects Models|固定效应模型]]假设所有研究估计同一个真实[[Effect Size|效应量]]，观测差异仅来自抽样误差；随机效应模型则承认每项研究有其随机变异，同时考虑研究内和研究间变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 39]])。
+> - **统计模型选择**：[[Fixed-Effect and Random-Effects Models|固定效应模型]]假设所有研究估计同一个真实[[Effect Size|效应量]]，观测差异仅来自[[Sampling Error|抽样误差]]；随机效应模型则承认每项研究有其随机变异，同时考虑研究内和研究间变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 39]])。
 > - **调节[[Variable|变量]]探索**：通过调节[[Variable|变量]]分析（[[Moderator Analysis]]）识别与较大或较小效应相关的特征（如学生年龄、干预时长等），使研究从“有没有效”转向“对谁、在什么情境下有效”([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
 
 ---

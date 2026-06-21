@@ -16,6 +16,7 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Sample Size Determination]]"
+  - "[[Sampling Frame]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -33,10 +34,10 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> [[Random Sampling|系统抽样]]（Systematic Sampling）是[[Random Sampling|简单随机抽样]]的变体，以系统而非随机方式从总体名单中选取受试者。从随机起点开始，按固定频率间隔依次选取，直至达到所需[[Sample Size Determination|样本量]]。频率间隔 $f = N / sn$（$N$ 为总体人数，$sn$ 为所需样本人数）。
+> 系统抽样（Systematic Sampling）是[[Random Sampling|简单随机抽样]]的变体，以系统而非随机方式从总体名单中选取受试者。从随机起点开始，按固定频率间隔依次选取，直至达到所需[[Sample Size Determination|样本量]]。频率间隔 $f = N / sn$（$N$ 为总体人数，$sn$ 为所需样本人数）。
 
 > [!method-scope] 方法范围
-> - **研究对象**：有完整名单（抽样框）的总体
+> - **研究对象**：有完整名单（[[Sampling Frame|抽样框]]）的总体
 > - **问题类型**：适合需要简化操作的大规模概率抽样
 > - **分析单位**：个体、组织或可从名单中识别的任何单位
 > - **输出形式**：概率样本，支持统计推广
@@ -63,11 +64,11 @@ updated: 2026-06-22
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **周期性风险（Periodicity）**（Calder, 1979）：若名单存在规律性排序——如先列全部女生再列全部男生、按班级从高能力到低能力排列——[[Random Sampling|系统抽样]]可能系统性排除某些群体，严重扭曲样本。
+> - **周期性风险（Periodicity）**（Calder, 1979）：若名单存在规律性排序——如先列全部女生再列全部男生、按班级从高能力到低能力排列——系统抽样可能系统性排除某些群体，严重扭曲样本。
 > - **违反等概率原则**：被跳过的名字不可能被选中，每个人不具有均等被选中的机会。
 > - **缓解方式**：确保初始名单随机排列，起始点随机选择。
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍[[Random Sampling|系统抽样]]的操作程序、频率间隔公式和周期性风险。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍系统抽样的操作程序、频率间隔公式和周期性风险。

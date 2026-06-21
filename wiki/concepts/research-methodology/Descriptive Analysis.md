@@ -21,6 +21,8 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -75,6 +77,6 @@ updated: 2026-06-01
 
 > [!warning]
 > - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验假设。
-> - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和标准误。
-> - 仅报告均值而不报告变异指标（如标准差或标准误）可能导致对数据分布特征的误读。
+> - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Sampling Error|标准误]]。
+> - 仅报告均值而不报告变异指标（如标准差或[[Standard Error|标准误]]）可能导致对数据分布特征的误读。
 

@@ -279,15 +279,15 @@ Total entries: **169**
 > [!summary]- canada-usa (1)
 > - [[Albert Bandura]] — 加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响
 
-> [!summary]- unknown (3)
-> - [[George Herbert Mead]] — 美国哲学家和社会心理学家，符号互动论（Symbolic Interactionism）的理论奠基者，其关于符号和意义的社会建构的思想深刻影响了质性研究传统。
+> [!summary]- unknown (2)
 > - [[Harold Garfinkel]] — 美国社会学家，俗民方法学（Ethnomethodology）的创始人，将日常实践活动本身作为经验研究课题，提出索引性和反思性两个核心概念。
 > - [[Thomas Kuhn]] — 美国科学史家和科学哲学家，以《科学革命的结构》（1962）提出范式概念和范式转换理论，深刻改变了人们对科学发展和研究方法的理解。
 
-> [!summary]- usa (10)
+> [!summary]- usa (11)
 > - [[Egon G. Guba]] — 美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic Inquiry 开创自然主义探究范式，此前在项目评价领域提出第四代评价模型
 > - [[Fred N. Kerlinger]] — 美国教育心理学家和方法论学者，以 Foundations of Behavioral Research 和对量化研究中理论的经典定义而著称
 > - [[Gene Glass]] — 美国教育心理学家，1976年创造元分析一词并发展其方法论，以心理治疗效果研究挑战学术共识，被誉为元分析之父
+> - [[George Herbert Mead]] — 美国哲学家、社会心理学家，实用主义哲学和符号互动论的奠基者，其关于社会自我建构、扮演他人角色以及心智与身体和环境互动之社会特质的思想深刻影响了教育社会学和质性研究传统。
 > - [[Herbert Blalock]] — 美国社会学家和计量方法论学者，因果建模和社会科学统计方法的先驱，推动将口头理论转化为形式化因果模型以澄清变量间关系
 > - [[J. David Creswell]] — 美国心理学家，卡内基梅隆大学心理学教授，研究方向为压力下的心理韧性，与父亲 John W. Creswell 合著研究设计教材
 > - [[John W. Creswell]] — 美国混合方法研究方法论学者，密歇根大学家庭医学教授，混合方法研究国际研究协会创始主席，Journal of Mixed Methods Research 创刊主编

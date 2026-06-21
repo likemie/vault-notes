@@ -24,10 +24,13 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Response Bias]]"
+  - "[[Sampling Frame]]"
+  - "[[Standard Error]]"
   - "[[School Effectiveness]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
-related_theories: []
+related_theories:
+  - "[[Central Limit Theorem]]"
 related_methods:
   - "[[Causal Modeling]]"
 related_persons: []
@@ -57,7 +60,7 @@ updated: 2026-06-21
 > *Sampling error is not necessarily the result of mistakes made in sampling procedures. Rather, variations may occur due to the chance selection of different individuals.* (Ch. 8, p. 149)
 
 > [!boundary]- 概念边界
-> - 不等于抽样偏差（Sampling Bias）——抽样偏差是抽样程序或抽样框导致的系统性偏离，而抽样误差是随机变异。
+> - 不等于抽样偏差（Sampling Bias）——抽样偏差是抽样程序或[[Sampling Frame|抽样框]]导致的系统性偏离，而抽样误差是随机变异。
 > - 不等于测量误差——测量误差来自工具本身的不精确，抽样误差来自样本对总体的随机偏离。
 > - 不等于无回应偏差——无回应偏差是特定类型的非抽样误差，因某些群体系统性拒绝参与而导致。
 
@@ -68,7 +71,7 @@ updated: 2026-06-21
 ### 中心极限定理
 
 > [!feature]
-> - **中心极限定理（Central Limit Theorem）**：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，且样本均值的均值将近似等于总体均值。[[Sample Size Determination|样本量]]越大，样本均值的分布越接近正态分布——无论原始总体的形状如何。Hopkins 等（1996: 159, 388）指出，除非存在极不寻常的分布，25 例及以上的样本通常即可产生正态的均值抽样分布。Rose & Sullivan（1993: 144）提醒，95% 的所有样本均值落在总体均值加减 1.96 个标准误的范围内。
+> - **[[Central Limit Theorem|中心极限定理]]（Central Limit Theorem）**：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，且样本均值的均值将近似等于总体均值。[[Sample Size Determination|样本量]]越大，样本均值的分布越接近正态分布——无论原始总体的形状如何。Hopkins 等（1996: 159, 388）指出，除非存在极不寻常的分布，25 例及以上的样本通常即可产生正态的均值抽样分布。Rose & Sullivan（1993: 144）提醒，95% 的所有样本均值落在总体均值加减 1.96 个[[Standard Error|标准误]]的范围内。
 
 ### 均值的标准误
 
@@ -96,7 +99,7 @@ updated: 2026-06-21
 > [[Sample Size Determination|样本量]]与抽样误差之间存在反向关系，但这种关系的边际收益在样本量达到一定水平后递减。
 
 > [!claim] 30 例以下危险地小
-> 少于 30 例的样本危险性较大，因其允许相当程度的标准误存在。超过约 80 例后，样本量的进一步增加对标准误的影响很小（p.152）。
+> 少于 30 例的样本危险性较大，因其允许相当程度的[[Standard Error|标准误]]存在。超过约 80 例后，样本量的进一步增加对标准误的影响很小（p.152）。
 
 > [!claim] 变异性放大抽样误差
 > 若总体中某[[Variable|变量]]的变异性（$SD_{pop}$）很大，则需要大得多的样本才能将抽样误差控制在可接受水平。Gorard（2003: 62）指出，调查如 IQ 这类范围从 70 到约 150 的变量，可能需要比变异较小的变量更大的样本（p.145）。
@@ -108,7 +111,7 @@ updated: 2026-06-21
 
 ## 实证数据
 
-> [!example] 比例标准误的数值实例
+> [!example] 比例[[Standard Error|标准误]]的数值实例
 >
 > 某校长随机询问 25 名学生，66% 赞成改变午休时间（$P = 66$, $Q = 34$, $N = 25$）。$[[School Effectiveness|SE]] = 9.4$。这意味着：
 > - 赞成票可在 56.6%–75.4% 之间变动
@@ -125,4 +128,4 @@ updated: 2026-06-21
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍抽样误差、标准误和中心极限定理在教育研究中的应用，提供比例标准误的数值实例和民调[[Sample Size Determination|样本量]]解释。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍抽样误差、[[Standard Error|标准误]]和[[Central Limit Theorem|中心极限定理]]在教育研究中的应用，提供比例标准误的数值实例和民调[[Sample Size Determination|样本量]]解释。

@@ -35,7 +35,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
-  - "[[Non-probability Sampling]]"
+  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
@@ -81,7 +81,7 @@ citation_aliases:
 > [!info]
 > - **[[Mixed Methods Research|混合方法]]**：结合问卷与[[Qualitative Interview|深度访谈]]，辅以学校档案数据(pp.305–306)。
 > - **问卷调查**：共回收 814 份农村家庭问卷——县城[[Peidu|陪读]]家庭 353 份、乡镇陪读家庭 141 份、农村非陪读家庭 320 份(p.305, Table 1)。
-> - **In-depth Interview**：共访谈 128 人——县城陪读家长 65 人、乡镇陪读家长 35 人、非陪读家长 45 人、城乡教师与校长 95 人、教育官员 8 人(p.305, Table 1)。采用半结构化设计与[[Non-probability Sampling|滚雪球抽样]]。
+> - **In-depth Interview**：共访谈 128 人——县城陪读家长 65 人、乡镇陪读家长 35 人、非陪读家长 45 人、城乡教师与校长 95 人、教育官员 8 人(p.305, Table 1)。采用半结构化设计与[[Snowball Sampling|滚雪球抽样]]。
 > - **分析**：独立样本 t 检验比较不同组别 SES 差异；二元 Logistic 回归检验家庭资本对[[School Choice|择校]]选择的影响(p.310, Table 4)。
 > - **研究地点**：湖北省 G 县，2018 年首次调研，2023 年回访。样本覆盖县城全部三所（后增为四所）公立小学、三所乡镇小学和六所农村小学(p.305)。
 
