@@ -11149,42 +11149,102 @@
 }
 
 .callout[data-callout="ethical-code"] .callout-content ol {
-  counter-reset: ethical-code;
-  list-style: none;
-  padding-left: 0;
+  counter-reset: ethical-n;
+  list-style: none !important;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
 }
+/* 隐藏 Obsidian 注入的 .list-bullet span */
+.callout[data-callout="ethical-code"] .list-bullet { display: none !important; }
 
 .callout[data-callout="ethical-code"] .callout-content ol > li {
-  counter-increment: ethical-code;
+  counter-increment: ethical-n;
+  display: block !important;
+  list-style: none !important;
   position: relative;
-  padding-left: 2.2em;
-  margin-bottom: 0.35em;
+  padding: 0.50rem 0.80rem 0.55rem 2.55rem;
+  border: 1px solid rgba(85, 130, 180, 0.14);
+  border-radius: 8px;
+  background: linear-gradient(160deg, rgba(85, 130, 180, 0.055) 0%, rgba(85, 130, 180, 0.008) 100%);
+  line-height: 1.62;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.callout[data-callout="ethical-code"] .callout-content ol > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 16px rgba(85, 130, 180, 0.14);
 }
 
+/* 方形编号徽章 */
 .callout[data-callout="ethical-code"] .callout-content ol > li::before {
-  content: counter(ethical-code);
+  content: counter(ethical-n);
   position: absolute;
-  left: 0;
-  top: 0;
-  width: 1.5em;
-  height: 1.5em;
-  line-height: 1.5em;
+  top: 0.52rem;
+  left: 0.55rem;
+  width: 1.48rem;
+  height: 1.48rem;
+  border-radius: 5px;
+  background: linear-gradient(135deg, rgb(85, 130, 180), rgb(55, 95, 148));
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 800;
+  line-height: 1.48rem;
   text-align: center;
-  border-radius: 999px;
-  background: rgba(85, 130, 180, 0.12);
-  color: rgb(85, 130, 180);
-  font-size: var(--fs-caption);
-  font-weight: 700;
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 0 0 1.5px rgba(85, 130, 180, 0.35);
+  transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.18s ease;
+}
+.callout[data-callout="ethical-code"] .callout-content ol > li:hover::before {
+  transform: scale(1.18) rotate(8deg);
+  box-shadow: 0 0 0 2px rgba(85, 130, 180, 0.55), 0 3px 10px rgba(85, 130, 180, 0.28);
 }
 
+/* 标题（strong 首行）→ 块级 + 分隔线 */
+.callout[data-callout="ethical-code"] .callout-content ol > li > p:first-child > strong:first-child,
+.callout[data-callout="ethical-code"] .callout-content ol > li > strong:first-child {
+  display: block;
+  color: rgb(60, 108, 162);
+  font-weight: 700;
+  font-size: 0.91em;
+  margin: 0 0 0.24rem 0;
+  padding-bottom: 0.18rem;
+  border-bottom: 1px solid rgba(85, 130, 180, 0.18);
+}
+/* 内容文字 */
+.callout[data-callout="ethical-code"] .callout-content ol > li > p {
+  font-size: 0.87em;
+  line-height: 1.62;
+  margin: 0;
+}
+.callout[data-callout="ethical-code"] .callout-content ol > li > p:not(:first-child) {
+  opacity: 0.88;
+}
+
+/* 暗色模式 */
+.theme-dark .callout[data-callout="ethical-code"] {
+  --callout-color: 120, 170, 225;
+  border-left-color: rgb(110, 162, 218);
+  background:
+    linear-gradient(135deg, rgba(110, 162, 218, 0.09), rgba(110, 162, 218, 0.02)),
+    var(--background-primary);
+}
 .theme-dark .callout[data-callout="ethical-code"] > .callout-title .callout-title-inner::before {
   background: rgba(120, 170, 220, 0.18);
-  color: rgb(140, 180, 225);
+  color: rgb(140, 185, 230);
 }
-
+.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li {
+  border-color: rgba(120, 170, 225, 0.16);
+  background: linear-gradient(160deg, rgba(110, 162, 218, 0.07) 0%, rgba(110, 162, 218, 0.01) 100%);
+}
 .theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li::before {
-  background: rgba(120, 170, 220, 0.15);
-  color: rgb(140, 180, 225);
+  background: linear-gradient(135deg, rgb(100, 152, 208), rgb(68, 112, 172));
+}
+.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li > p:first-child > strong:first-child,
+.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li > strong:first-child {
+  color: rgb(150, 192, 240);
+  border-bottom-color: rgba(120, 170, 225, 0.22);
 }
 
 

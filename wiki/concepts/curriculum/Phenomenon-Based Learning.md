@@ -146,9 +146,9 @@ updated: '2026-06-21'
 
 ---
 
-## 相关案例／政策
+## 实证数据
 
-> [!evidence-grid-a] 相关研究与政策索引
+> [!evidence-grid-a] 相关研究索引
 > - **芬兰基础教育国家核心课程** 将跨学科与现象本位学习正式整合进国家课程体系。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **SveaSus 项目** 围绕可持续性，在世界遗产地开展具身、艺术与多语的 PhBL 高等教师教育探索。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
 > - **[[OECD|经济合作与发展组织]]** 其推动的 [[21st Century Skills and Competencies Discourse|21世纪技能]] 和 transversal competencies 政策构成芬兰 PhBL 课程化的全球治理背景。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]

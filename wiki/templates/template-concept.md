@@ -159,7 +159,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 只写原文或学界公认的边界条件，不写你自己的评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-## 实证数据
+## 实证数据与相关研究
 
 %% 三类数据分开记录：一级研究效应量（effect-table）、元分析汇总（ma-table）、其他零散发现或应用案例（evidence-grid-a）。没有量化数据时可只用 evidence-grid-a。 %%
 

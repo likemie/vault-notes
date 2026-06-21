@@ -147,9 +147,9 @@ updated: '2026-06-21'
 
 ---
 
-## 相关案例／政策
+## 实证数据
 
-> [!evidence-grid-a] 相关研究与政策索引
+> [!evidence-grid-a] 相关研究索引
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]
 > - **芬兰基础教育国家核心课程** 其倡导的跨学科[[Phenomenon-Based Learning|现象本位学习]]，在哲学上可理解为通过教化和教学论传统对抗技能原子化倾向的政策尝试。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 > - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化实践的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]

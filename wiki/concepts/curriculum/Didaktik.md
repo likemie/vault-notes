@@ -116,8 +116,8 @@ updated: '2026-06-21'
 
 ---
 
-## 相关案例／政策
+## 实证数据
 
-> [!evidence-grid-a] 相关研究与政策索引
+> [!evidence-grid-a] 相关研究索引
 > - **芬兰基础教育国家核心课程** 将跨学科与[[Phenomenon-Based Learning|现象本位学习]]作为教学取向写入框架，其选择现象的课程逻辑深植于教学论传统。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 > - **SveaSus 项目** 围绕环境、时间、空间等[[Epochal Key Problems|时代关键问题]]，在芬兰堡世界遗产地展开具体的教学[[Champ|场域]]实验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
