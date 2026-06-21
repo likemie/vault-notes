@@ -103,7 +103,7 @@ updated: '2026-06-21'
 
 ### 命题类型一：现象学与教化逻辑下的教学设计与目的（Pedagogical Design and Purposes under Phenomenological and Bildung Logics）
 
-> [!concept-lens] 类型一总结
+> [!concept-lens] 现象学探究与主体能动性释放
 > 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发[[Reflexivity|反思性]]主体能动性以及重审教育意义的教学入口。
 
 > [!claim] Rauste-von Wright
@@ -116,7 +116,7 @@ updated: '2026-06-21'
 
 ### 命题类型二：学科深度与全球治理的工具化张力（Tensions of Disciplinary Depth and Global Governance Instrumentalisation）
 
-> [!concept-lens] 类型二总结
+> [!concept-lens] 跨学科的学科深度与绩效化侵蚀
 > 这类命题关注现象本位学习在实施过程中的边界条件与政策拉扯，聚焦在跨学科整合中如何维护学科自身的[[Ontology|本体论]]深度，以及如何抵御新自由主义下的技能原子化侵蚀。
 
 > [!claim] Critical Realists

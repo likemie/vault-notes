@@ -85,7 +85,7 @@ updated: '2026-06-21'
 
 ### 命题类型一：课程内容选择的教化正当性（Didactical Legitimacy of Curriculum Content Selection）
 
-> [!concept-lens] 类型一总结
+> [!concept-lens] 课程知识的本体论深度与时代性
 > 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备[[Bildung|教化]]价值，主张在维护学科[[Ontology|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
 
 > [!claim] Wheelahan
@@ -98,7 +98,7 @@ updated: '2026-06-21'
 
 ### 命题类型二：教学判断与行动机制的分野（Pedagogical Judgment and Action Mechanisms）
 
-> [!concept-lens] 类型二总结
+> [!concept-lens] 规训与生成之间的教学判断
 > 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
 
 > [!claim] Gruschka (2019)

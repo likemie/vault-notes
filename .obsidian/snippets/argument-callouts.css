@@ -7143,11 +7143,19 @@
   box-shadow: -4px 0 18px rgba(185, 42, 58, 0.18), 0 4px 16px rgba(185, 42, 58, 0.08);
 }
 
-/* 标题区：红色渐变底色 */
+/* 整体翻转：标题栏在底部 */
+.callout[data-callout="concept-lens"] {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+/* 标题区：红色渐变，贴底部，去掉底边框改为顶边框 */
 .callout[data-callout="concept-lens"] > .callout-title {
   background: linear-gradient(90deg, rgba(185, 42, 58, 0.11), rgba(185, 42, 58, 0.03));
-  border-bottom: 1px solid rgba(185, 42, 58, 0.14);
+  border-top: 1px solid rgba(185, 42, 58, 0.14);
+  border-bottom: none;
   color: rgb(165, 30, 45);
+  border-radius: 0 0 9px 9px;
 }
 
 /* 方形渐变徽章（覆盖共享 pill 样式） */

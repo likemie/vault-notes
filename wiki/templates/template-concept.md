@@ -85,7 +85,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ### 命题类型一：[类型名称]（English Name）
 
-> [!concept-lens] 类型一总结
+> [!concept-lens]
 > 说明这类命题围绕什么核心问题展开，各学者的共同倾向在哪里。
 
 > [!claim] Author A
@@ -103,7 +103,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
 
-> [!concept-lens] 类型二总结
+> [!concept-lens]
 > 说明这类命题的核心问题与共同倾向。
 
 > [!claim] Author D
