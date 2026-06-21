@@ -4828,6 +4828,18 @@
     ]
   },
   {
+    "title": "Front-loaded and End-loaded Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Front-loaded and End-loaded Research.md",
+    "aliases": [
+      "前载型与后载型研究",
+      "前载型研究",
+      "后载型研究",
+      "front-loaded research",
+      "end-loaded research"
+    ]
+  },
+  {
     "title": "Fundamental Problem of Causal Inference",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Fundamental Problem of Causal Inference.md",

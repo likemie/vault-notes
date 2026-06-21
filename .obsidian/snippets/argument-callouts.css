@@ -8950,12 +8950,12 @@
 /* ═══════════════════════════════════════════════════════════
    COL1-TABLE — 固定首列宽度表格
    用途：首列为标签/术语，固定占比 28%，其余列均分。
-   用法：[!col1-table] 标题
+   用法：[!index-table] 标题
          | 标签 | 内容 | 备注 |
    注意：首列内容过长会换行但不会破坏布局。
    ═══════════════════════════════════════════════════════════ */
 
-.callout[data-callout="col1-table"] {
+.callout[data-callout="index-table"] {
   --callout-color: 42, 120, 108;
   --callout-icon: lucide-columns-2;
   background: var(--background-primary);
@@ -8967,7 +8967,7 @@
   box-shadow: 0 2px 8px rgba(42, 120, 108, 0.06), 0 6px 18px rgba(0, 0, 0, 0.04);
 }
 
-.callout[data-callout="col1-table"] > .callout-title {
+.callout[data-callout="index-table"] > .callout-title {
   color: rgb(28, 98, 88);
   font-weight: 650;
   padding: 0.6rem 1.1rem;
@@ -8975,8 +8975,8 @@
   background: linear-gradient(90deg, rgba(42, 120, 108, 0.07), rgba(42, 120, 108, 0.02));
 }
 
-.callout[data-callout="col1-table"] > .callout-title .callout-title-inner::before {
-  content: "COL1";
+.callout[data-callout="index-table"] > .callout-title .callout-title-inner::before {
+  content: "INDEX";
   display: inline-block;
   margin-right: 0.5rem;
   padding: 2px 7px;
@@ -8989,24 +8989,25 @@
   vertical-align: middle;
 }
 
-.callout[data-callout="col1-table"] > .callout-content {
+.callout[data-callout="index-table"] > .callout-content {
   padding: 0;
 }
 
-.callout[data-callout="col1-table"] table {
+.callout[data-callout="index-table"] table {
   width: 100%;
   border-collapse: collapse;
   margin: 0;
-  table-layout: fixed;
+  table-layout: auto;
 }
 
-/* 首列固定 28% */
-.callout[data-callout="col1-table"] th:first-child,
-.callout[data-callout="col1-table"] td:first-child {
-  width: 28%;
+/* 首列固定 20%，其余列自适应 */
+.callout[data-callout="index-table"] th:first-child,
+.callout[data-callout="index-table"] td:first-child {
+  width: 20%;
+  white-space: nowrap;
 }
 
-.callout[data-callout="col1-table"] thead th {
+.callout[data-callout="index-table"] thead th {
   background: rgba(42, 120, 108, 0.09);
   color: rgb(28, 98, 88);
   font-weight: 650;
@@ -9017,7 +9018,7 @@
   border-bottom: 2px solid rgba(42, 120, 108, 0.22);
 }
 
-.callout[data-callout="col1-table"] tbody td {
+.callout[data-callout="index-table"] tbody td {
   padding: 0.45rem 0.85rem;
   font-size: calc(var(--fs-table) * 0.93);
   border-bottom: 1px solid rgba(42, 120, 108, 0.08);
@@ -9025,61 +9026,61 @@
   line-height: 1.58;
 }
 
-.callout[data-callout="col1-table"] tbody td:first-child {
+.callout[data-callout="index-table"] tbody td:first-child {
   background: rgba(42, 120, 108, 0.06);
   color: rgb(28, 98, 88);
   font-weight: 580;
   border-right: 1px solid rgba(42, 120, 108, 0.13);
 }
 
-.callout[data-callout="col1-table"] tbody tr:last-child td,
+.callout[data-callout="index-table"] tbody tr:last-child td,
 .callout[data-callout="seq-table"] tbody tr:last-child td,
 .callout[data-callout="dual-header"] tbody tr:last-child td {
   border-bottom: none;
 }
 
-.callout[data-callout="col1-table"] tbody tr,
+.callout[data-callout="index-table"] tbody tr,
 .callout[data-callout="seq-table"] tbody tr,
 .callout[data-callout="dual-header"] tbody tr {
   transition: background 0.13s ease;
 }
 
-.callout[data-callout="col1-table"] tbody tr:hover {
+.callout[data-callout="index-table"] tbody tr:hover {
   background: rgba(42, 120, 108, 0.05);
 }
 
 /* Dark mode */
-.theme-dark .callout[data-callout="col1-table"] {
+.theme-dark .callout[data-callout="index-table"] {
   --callout-color: 78, 178, 162;
   border-color: rgba(78, 178, 162, 0.20);
 }
 
-.theme-dark .callout[data-callout="col1-table"] > .callout-title {
+.theme-dark .callout[data-callout="index-table"] > .callout-title {
   color: rgb(78, 178, 162);
 }
 
-.theme-dark .callout[data-callout="col1-table"] > .callout-title .callout-title-inner::before {
+.theme-dark .callout[data-callout="index-table"] > .callout-title .callout-title-inner::before {
   background: rgba(78, 178, 162, 0.14);
   color: rgb(78, 178, 162);
 }
 
-.theme-dark .callout[data-callout="col1-table"] thead th {
+.theme-dark .callout[data-callout="index-table"] thead th {
   background: rgba(78, 178, 162, 0.10);
   color: rgb(78, 178, 162);
   border-bottom-color: rgba(78, 178, 162, 0.26);
 }
 
-.theme-dark .callout[data-callout="col1-table"] tbody td {
+.theme-dark .callout[data-callout="index-table"] tbody td {
   border-bottom-color: rgba(78, 178, 162, 0.07);
 }
 
-.theme-dark .callout[data-callout="col1-table"] tbody td:first-child {
+.theme-dark .callout[data-callout="index-table"] tbody td:first-child {
   background: rgba(78, 178, 162, 0.07);
   color: rgb(78, 178, 162);
   border-right-color: rgba(78, 178, 162, 0.15);
 }
 
-.theme-dark .callout[data-callout="col1-table"] tbody tr:hover {
+.theme-dark .callout[data-callout="index-table"] tbody tr:hover {
   background: rgba(78, 178, 162, 0.06);
 }
 
@@ -11648,7 +11649,7 @@
 }
 
 /* ── AJ-12. 表格类 — 容器 glow（行 hover 已存在）── */
-.callout[data-callout="col1-table"],
+.callout[data-callout="index-table"],
 .callout[data-callout="seq-table"],
 .callout[data-callout="dual-header"],
 .callout[data-callout="effect-table"],
@@ -11657,7 +11658,7 @@
 .callout[data-callout="entry-map"] {
   transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
-.callout[data-callout="col1-table"]:hover {
+.callout[data-callout="index-table"]:hover {
   box-shadow: 0 0 0 2px rgba(42, 120, 108, 0.18), 0 4px 14px rgba(42, 120, 108, 0.10);
   border-color: rgba(42, 120, 108, 0.34);
 }

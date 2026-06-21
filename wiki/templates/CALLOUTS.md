@@ -221,7 +221,7 @@ updated: 2026-06-21
 
 | 场景 | 首选 callout |
 |---|---|
-| 首列是标签/术语，其余列解释 | `[!col1-table]` |
+| 首列是标签/术语，其余列解释 | `[!index-table]` |
 | 需要自动序号的步骤表 | `[!seq-table]` |
 | 行列双向标题（交叉矩阵） | `[!dual-header]` |
 | 两种立场 × 多个维度 | `[!tension-table]` |
@@ -526,7 +526,7 @@ updated: 2026-06-21
 
 | Callout | 用途 |
 |---|---|
-| `[!col1-table]` | 首列固定宽（28%）标签列，其余列均分；适合术语对照、键值说明 |
+| `[!index-table]` | 首列固定 20%（`white-space: nowrap`），其余列自适应；适合编号/标签索引 + 说明内容 |
 | `[!seq-table]` | 首列由 CSS counter 自动注入序号圆圈，Markdown 首列留空；其余列数不限；适合有序步骤表 |
 
 **`[!seq-table]` 写法**：直接写普通 Markdown 表格，CSS 自动在最左侧注入序号列，内容列数量不限。

@@ -8,10 +8,10 @@ aliases:
 summary: "研究规划中的核心原则，指研究方法、研究设计、资料收集工具和抽样策略应与研究目的相匹配，研究目的决定随后的方法选择而非相反"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-design
   - source/textbook
@@ -30,7 +30,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Research Methods in Education · Ch06]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
 confidence: medium
 status: draft
 created: 2026-06-19
@@ -41,7 +42,7 @@ updated: 2026-06-19
 ## 定义
 
 > [!def] 核心定义
-> 目的适配性（fitness for purpose）是研究规划中的核心原则：研究方法、研究设计、资料收集工具、抽样策略和伦理决策必须与[[Research Purpose|研究目的]]相匹配。[[Purpose Statement|研究目的]]决定方法选择，而非研究者的个人偏好或对特定方法的熟悉程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 目的适配性（fitness for purpose）是研究规划中的核心原则：研究方法、研究设计、资料收集工具、抽样策略和伦理决策必须与[[Research Purpose|研究目的]]相匹配。[[Purpose Statement|研究目的]]决定方法选择，而非研究者的个人偏好或对特定方法的熟悉程度。Cohen et al. 明确指出，研究设计没有单一蓝图，而是由目的适配性概念支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, p.118]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 每一种研究方法都有其适合回答的问题类型。方法选择必须从"研究要达成什么"出发，而不是从研究者已有的技能、偏好或对方法的先入之见出发。
@@ -54,6 +55,18 @@ updated: 2026-06-19
 
 > [!claim] 目的决定方法，而非方法决定目的
 > 研究者不能简单地说自己喜欢问卷、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+
+### 三种典型情境的适配
+
+Ch.7 以三种研究目的为例，展示了目的适配性的具体运作（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.118]]）：
+
+> [!feature] 三情境-设计适配
+> - **绘制领域全貌或做出可推广论断** → 调查方法配合分层抽样
+> - **评估特定干预的效果** → 实验或行动研究模型
+> - **对特定情境或群体进行深入理解** → [[Ethnography|民族志]]模型
+
+> [!claim] 适配性支配整个研究规划过程
+> 目的适配性原则不仅决定方法选择，还贯穿研究规划的全部四个领域：定向决策（设定边界和约束）、研究设计与方法论（选择具体战术）、数据分析（选择适配的分析形式）、呈现与报告（匹配不同受众的需求）。在7.14节中，Cohen et al. 再次强调：目的适配性在研究规划中居于支配地位，研究计划必须适合研究的目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.142, 156]]）。
 
 > [!case] 失配示例
 > - 研究者想"检验某项教学干预的因果效果"（目的），但只计划使用开放式访谈收集数据 → 失配：访谈无法建立[[Causality|因果推断]]
