@@ -9,9 +9,9 @@ summary: "质性研究中为最佳理解研究问题而有目的地选择参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

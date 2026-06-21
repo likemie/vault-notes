@@ -8870,9 +8870,9 @@
   table-layout: fixed;
 }
 
-/* 构件 35% / 类型 15% / 功能 50% */
+/* 构件 25% / 类型 15% / 功能 60% */
 .callout[data-callout="entry-map"] th:first-child,
-.callout[data-callout="entry-map"] td:first-child  { width: 35%; }
+.callout[data-callout="entry-map"] td:first-child  { width: 25%; }
 .callout[data-callout="entry-map"] th:nth-child(2),
 .callout[data-callout="entry-map"] td:nth-child(2) { width: 15%; }
 
