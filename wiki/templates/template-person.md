@@ -41,9 +41,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 >
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Concept]] | 一句话说明提出、改造或传播方式。 |
-> | 理论 | [[Theory]] | 一句话说明解释框架或传统。 |
-> | 方法 | [[Method]] | 一句话说明研究设计或分析工具的改变。 |
+> | 概念 | [[<概念名>]] | 一句话说明提出、改造或传播方式。 |
+> | 理论 | [[<理论名>]] | 一句话说明解释框架或传统。 |
+> | 方法 | [[<方法名>]] | 一句话说明研究设计或分析工具的改变。 |
 > | 政策 | [[Fact]] | 一句话说明政策、制度或公共话语影响。 |
 
 %% 只写有真实贡献的行，删除无贡献的维度。每行必须说明贡献关系，不只是列出关联条目。 %%
@@ -74,7 +74,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 著作较多（4 本以上）时，可在 work-line 内改用表格：
 > | 年份 | 著作 | 核心贡献 | 关联条目 |
 > |------|------|----------|----------|
-> | YYYY | *Title* | 一句话说明问题意识与贡献。 | [[Concept]] |
+> | YYYY | *Title* | 一句话说明问题意识与贡献。 | [[<概念名>]] |
 %%
 
 %% [选项 B] 阶段发展清晰、资料充足 → 用 thought-timeline %%
@@ -82,11 +82,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!thought-timeline] 思想发展
 > - **YYYY–YYYY — 阶段名**：此阶段主要回应什么学术、方法、政策或实践问题。
 >   - **代表著作**：*Title*。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
->   - **关键概念／方法**：[[Concept]]、[[Method]]。
+>   - **关键概念／方法**：[[<概念名>]]、[[<方法名>]]。
 >   - **阶段转向**：与前后阶段相比，问题意识、概念工具或方法取向发生了什么变化。
 > - **YYYY–YYYY — 阶段名**：此阶段的核心问题。
 >   - **代表著作**：*Title*。
->   - **关键概念／方法**：[[Concept]]、[[Theory]]。
+>   - **关键概念／方法**：[[<概念名>]]、[[<理论名>]]。
 >   - **阶段转向**：说明延续、突破、修正或后续影响。
 
 ---
@@ -137,11 +137,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!debates] 学术争议
 >
-> > [!abstract] 争议类型
+> > [!abstract] <争议标题>
 > > 说明围绕此人思想、方法或立场产生这一争议的背景与核心问题。
 > >
-> > - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> > - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评此人的思想、方法或影响。

@@ -37,10 +37,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 事件简单时用 [!dev-timeline]-；节点密集、阶段差异明显时在 dev-timeline 内用缩进子项展开；只有少数节点时也可改用普通列表 [!timeline]。 %%
 
 > [!dev-timeline]- 事件经过
-> - **YYYY–YYYY — 阶段一**：说明阶段主题、关键行动者和转折点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **YYYY–YYYY — <阶段名称>**：说明阶段主题、关键行动者和转折点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >   - YYYY-MM 子事件或关键节点。
 >   - YYYY-MM 后续发展。
-> - **YYYY — 阶段二**：说明转折或结局。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **YYYY — <阶段名称>**：说明转折或结局。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
@@ -73,8 +73,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **公共 / 媒体视角**：说明舆论、媒体或公众如何框定事件。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!tension] 争议焦点
-> - **焦点一**：不同评论者在哪个事实、责任、价值或解释上发生分歧。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **焦点二**：说明另一组分歧，或删除本条。
+> - **<立场描述>（蓝方）**：一方的核心立场——认定什么事实、归属什么责任、支持什么价值或解释框架。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<立场描述>（红方）**：对立方的核心立场——与蓝方正面冲突的事实判断、责任归属或价值取向。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!citation-card]- 代表性评论
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

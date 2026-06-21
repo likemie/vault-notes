@@ -59,16 +59,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 可综合使用 [!feature]、[!logic-map]、[!taxonomy]、[!frames-ref]、[!ref-table]、[!entry-map] 等。 %%
 
 > [!feature] 核心要素
-> - **要素一**：说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **要素二**：说明该要素与其他要素的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **要素三**：说明该要素的边界、条件或典型表现。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<要素名称>**：说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<要素名称>**：说明该要素与其他要素的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<要素名称>**：说明该要素的边界、条件或典型表现。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
 > flowchart LR
->     A["要素一"]
->     B["要素二"]
->     C["要素三"]
+>     A["<要素名称>"]
+>     B["<要素名称>"]
+>     C["<要素名称>"]
 >     D["概念整体"]
 >     A --> D
 >     B --> D
@@ -120,8 +120,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **<命题类型一名称>** | 这类命题核心关注什么 | 适用的研究对象或场景 | Author A; Author B |
-> | **<命题类型二名称>** | 这类命题核心关注什么 | 适用情境 | Author D; Author E |
+> | **<命题类型一名称>** | 这类命题核心关注什么 | 适用的研究对象或场景 | <学者名>; <学者名> |
+> | **<命题类型二名称>** | 这类命题核心关注什么 | 适用情境 | <学者名>; <学者名> |
 
 ---
 
@@ -145,22 +145,22 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!debates] 学术争议
 >
-> > [!abstract] 争议类型一
+> > [!abstract] <争议标题>
 > > 说明这个维度上各方争什么，背景与核心问题。
 > >
-> > - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> > - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] 争议类型二
+> > [!abstract] <争议标题>
 > > 另一维度的分歧说明。
 > >
-> > - **学者 C（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 %% 若争论恰好是两方正面对立（二元范式冲突），改用 [!tension]：%%
 
 > [!tension] 核心张力（仅两方正面对立时使用）
-> - **立场 A（蓝方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **立场 B（红方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<立场描述>（蓝方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<立场描述>（红方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique] 外部批评
 > - **批评类型** 批评内容，说明批评者是谁、批评对象是什么。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -103,7 +103,7 @@ updated: '2026-06-21'
 
 ### 命题类型一：现象学与教化逻辑下的教学设计与目的（Pedagogical Design and Purposes under Phenomenological and Bildung Logics）
 
-> [!concept-lens] 现象学探究与主体能动性释放
+> [!concept-lens] [[Phenomenology|现象学]]探究与主体能动性释放
 > 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发[[Reflexivity|反思性]]主体能动性以及重审教育意义的教学入口。
 
 > [!claim] Rauste-von Wright

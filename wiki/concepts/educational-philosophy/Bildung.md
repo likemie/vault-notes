@@ -3,10 +3,10 @@ title: Bildung
 aliases:
   - 教养
   - 教化
-summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与 OSA 可预测性逻辑构成根本张力。"
+summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与在线自我评估（Online Self-Assessment, OSA）可预测性逻辑构成根本张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,9 +50,9 @@ updated: '2026-06-21'
 ## 定义
 
 > [!def] 核心定义
-> Bildung（通常译为教养或教化，亦作 character formation / edification of character）源自德国精神科学传统（geisteswissenschaftliche Tradition），指超越工具性学习和技能获取的自主人格形成过程。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]] 将其界定为决定自己的知识与技能如何以远超被要求 and 被期望的方式被使用的能力与勇气，具有内在价值和不可[[Operationalization|操作化]]的特征。
+> 教化（Bildung，通常译为教养，英文亦作 character formation 或 edification of character）源自德国精神科学传统（geisteswissenschaftliche Tradition），指超越工具性学习和技能获取的自主人格形成过程。丹麦教育哲学家斯蒂恩·内佩尔·拉森（Steen Nepper Larsen）在 2019 年的研究中将其界定为决定自己的知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，具有内在价值和不可[[Operationalization|操作化]]的特征。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
 > 
-> 在芬兰教育史中，Bildung 被视为连接个体自我形成、代际文化传递和开放未来的核心纽带，主张教育在传承文化的同时防止教育被还原为对既有规范的再生产。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+> 在芬兰教育史中，教化被视为连接个体自我形成、代际文化传递和开放未来的核心纽带，主张教育在传承文化的同时防止教育被还原为对既有规范的再生产。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向个体与世界最独立的交互作用，强调人在无法预先规划终点的情况下持续实现人性的非预设过程。
@@ -69,16 +69,16 @@ updated: '2026-06-21'
 ## 概念辨析
 
 > [!contrast-table] 教育目的论辨析
-> | 维度 | Bildung（教化） | [[Visible Learning\|Visible Learning（可见学习）]] | [[Learnification\|Learnification（学习化）]] |
+> | 维度 | 教化（Bildung） | [[Visible Learning\|可见学习（Visible Learning, VL）]] | [[Learnification\|学习化（Learnification）]] |
 > |------|--------|----------------|----------------|
 > | **教育目的** | 超越预设指标，指向开放的人格形成 (pp.5-6) | 追求可测量、可见的学习效果最大化 | 强调对结果和学习过程的技术性控制 |
-> | **核心机制** | 个体与世界独立的具身交互与反思 | 以[[Effect Size\|效应量]]（Effect Size）对教学干预进行排序 | 将教育关系转化为服务提供者与消费者的关系 |
+> | **核心机制** | 个体与世界独立的具身交互与反思 | 以[[Effect Size\|效应量]]对教学干预进行排序 | 将教育关系转化为服务提供者与消费者的关系 |
 > | **未来取向** | 拥抱不可预测、充满探索的未知未来 (p.6) | 预设特定指标，使学习结果标准化 | 简化复杂性，适应已知的劳动力市场需求 |
 
 > [!boundary]- 概念边界与关联
-> - **有别于可见学习（Visible Learning）** 可见学习追求可测量的学习效果和效应量，而 Bildung 强调不可测量的、开放性的人格塑造与生命体验。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–9]]
-> - **有别于学习化（学习化）** 学习化将教育还原为供求关系和技术控制，而 Bildung 将教育视为两代人之间关于文化与未来生命的开放对话。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
-> - **与[[Phenomenon-Based Learning|现象本位学习]]（PhBL）的关联** PhBL 并非一种旨在快速提升可测技能的工具，而是通过跨学科探索复杂现象，让学生在与生活世界的具身交互中发展自我与社会责任，其终极目的正是达成 Bildung。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 10–11]]
+> - **有别于可见学习** 可见学习追求可测量的学习效果和效应量，而教化强调不可测量的、开放性的人格塑造与生命体验。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–9]]
+> - **有别于学习化** 学习化将教育还原为供求关系和技术控制，而教化将教育视为两代人之间关于文化与未来生命的开放对话。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+> - **与[[Phenomenon-Based Learning|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 现象本位学习并非一种旨在快速提升可测技能的工具，而是通过跨学科探索复杂现象，让学生在与生活世界的具身交互中发展自我与社会责任，其终极目的正是达成教化。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 10–11]]
 
 ---
 

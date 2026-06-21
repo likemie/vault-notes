@@ -9,7 +9,7 @@ title: "Visible Learning and whole language: revisiting the 'garbage in, garbage
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

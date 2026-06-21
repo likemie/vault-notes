@@ -5,7 +5,7 @@ aliases:
 summary: "Håkansson 综合教学研究后使用的宽课堂组织概念，涵盖时间使用、目标清晰、活动组织、反馈、可见领导与支持性关系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

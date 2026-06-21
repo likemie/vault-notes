@@ -7,7 +7,7 @@ summary: "通过跨元分析比较来得出推论的综合方法，旨在回答�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

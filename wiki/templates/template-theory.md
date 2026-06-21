@@ -46,7 +46,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |:-----|:-----|:--------------|
 > | [[<概念名>]] | 概念 | 该构件如何定义对象、区分类型、连接机制或提供评价标准。 |
 > | [[<概念名>]] | 分类 | 说明它如何支撑理论的内部结构或解释路径。 |
-> | [[Method]] | 方法 | 该理论隐含的研究方式、测量逻辑或解释程序。 |
+> | [[<方法名>]] | 方法 | 该理论隐含的研究方式、测量逻辑或解释程序。 |
 
 %% 只写没有它就无法理解该理论的构件；类型可选：概念 / 分类 / 机制 / 方法 / 框架。 %%
 
@@ -54,15 +54,19 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 核心命题与机制
 
+%% 命题数量按理论实际内容增减，不必拘于模版条目数。前提可多于两条，推论可多于两条，机制可拆分为多个步骤。每条命题均应标注来源。 %%
+
 > [!proposition-chain] 核心命题
 > - **前提一**：该理论如何界定行动者、制度、知识、心理过程、权力关系或社会结构。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **前提二**：该理论还依赖什么关键条件、分类或假设。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **（前提三……按需增加）**
 > - **机制**：该理论认为现象如何发生、维持、变化或失效。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **结果判断**：该理论通常推出什么解释、预测、批评或规范判断。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!proposition-chain]- 延伸命题
 > - **推论一**：从核心命题可以派生出什么中层命题、类型化主张或条件性结论。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **推论二**：在特定条件（人群、制度、文化、时期）下理论如何调整或细化。
+> - **（推论三……按需增加）**
 > - **应用命题**：该理论延伸到教育研究、政策分析或比较研究时产生哪些可检验的命题。
 
 > [!mechanism-map]- 机制图
@@ -134,21 +138,21 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!debates] 理论争议
 >
-> > [!abstract] 理论前提争议
+> > [!abstract] <争议标题>
 > > 各方对本体论、认识论或规范假设是否成立存在分歧；说明核心争点。
 > >
-> > - **学者 A（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> > - **学者 B（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] 解释范围争议
+> > [!abstract] <争议标题>
 > > 争议理论能否跨情境推广、是否忽视条件或无法解释反例。
 > >
-> > - **学者 C（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> > [!abstract] 方法转化争议
+> > [!abstract] <争议标题>
 > > 争议操作化、测量或验证层面的可行性；说明具体困难。
 > >
-> > - **学者 D（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评、修正或限制该理论。

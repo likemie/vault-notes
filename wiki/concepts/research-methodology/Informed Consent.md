@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -177,7 +177,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > > - **Milgram（1963）** 服从权威实验中的欺骗技术若提前告知参与者，实验情境将无法成立。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
 > > - **Oliver（2003, p. 53）** 知情同意可能带来霍桑效应——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
 >
-> > [!abstract] 质性研究适用性争议
+> > [!abstract] [[Qualitative Research|质性研究]]适用性争议
 > > 核心问题是：知情同意是否适配质性研究的[[Emergence|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
 > >
 > > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时田野研究者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]

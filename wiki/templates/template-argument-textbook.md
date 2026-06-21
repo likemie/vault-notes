@@ -38,8 +38,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_BookFolder_Ch01\|第1章 章节标题]] | 用一两句话说明这一章主要讲什么。 | [[Concept]]、[[Method]]、[[Theory]] |
-> | 第X章 章节标题 | 若不分章节建页，保留普通章节名即可。 | [[Concept]]、[[Method]]、[[Theory]] |
+> | [[Argument_BookFolder_Ch01\|第1章 <章节标题>]] | 用一两句话说明这一章主要讲什么。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
+> | 第<X>章 <章节标题> | 若不分章节建页，保留普通章节名即可。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
 
 > [!knowledge-map]- 知识路线图
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_Knowledge_Map.jpg)
@@ -48,7 +48,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 章节
 
-### 第X章 章节标题
+### 第<X>章 <章节标题>
 
 #### 概念地图
 

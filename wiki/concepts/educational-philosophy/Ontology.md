@@ -8,7 +8,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式。不同研究范式基于不同的本体论前提：实证主义的客观主义、诠释的社会建构论、复杂性理论的自组织涌现、意识形态批判的权力关系、混合方法的复杂性承认。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - theme/research-philosophy
   - theme/research-planning
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
@@ -26,7 +27,9 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
 related_methods:
+  - "[[Ethnography]]"
   - "[[Ideology Critique]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -65,7 +68,7 @@ updated: 2026-06-21
 
 ## 不同研究范式的本体论立场
 
-在规划研究时，研究者需要反思被研究现象的本体论性质，并将研究设计建立在这一反思之上。不同研究范式基于不同的本体论前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.119–120]]）：
+在规划研究时，研究者需要反思被研究现象的本体论性质，并将研究设计建立在这一反思之上。不同研究[[Paradigm|范式]]基于不同的本体论前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.119–120]]）：
 
 > [!col1-table] 范式-本体论对应关系
 > | 范式 | 本体论立场 |
@@ -74,10 +77,10 @@ updated: 2026-06-21
 > | 量化、科学和假设检验 | 延续实证主义传统，预设存在可测量、可比较的客观实在 |
 > | 诠释与自然主义 | [[Subjectivism\|主观主义]]、互动论、社会建构的：实在是由社会行动者通过互动共同建构的，存在多重而非单一的实在 |
 > | [[Phenomenology\|现象学与存在主义]] | 关注体验本身的结构——实在存在于个体的主观意识之中 |
-> | 互动论与民族志 | 社会实在在符号互动和文化意义生产中形成和维持 |
+> | 互动论与[[Ethnography\|民族志]] | 社会实在在符号互动和文化意义生产中形成和维持 |
 > | [[Complexity Theory\|复杂性理论]] | 自组织涌现和不可预测的相互作用：现象是整体生态实体中构成要素之间不可预测互动和结果的产物 |
 > | [[Ideology Critique\|意识形态批判]] | 现象在权力关系、不平等和赋权中被组织，既是权力不对称的产物，也是其载体 |
-> | 混合方法 | 现象复杂到单一方法可能产生片面、选择性和不完整的理解，需要承认多重面向 |
+> | [[Mixed Methods Research\|混合方法]] | 现象复杂到单一方法可能产生片面、选择性和不完整的理解，需要承认多重面向 |
 
 > [!claim] 本体论反思是研究规划的关键决策点
 > 研究者不仅需要认识所研究现象的表层特征，还需要识别支撑现象的本体论前提。正是这一反思，将研究规划从机械操作转变为对存在本质的追问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.120]]）。

@@ -8,13 +8,14 @@ aliases:
 summary: "研究者在信赖关系中获取的数据被公开披露以致引起参与者尴尬、焦虑或痛苦的行为，是违反信任而非仅仅违反保密，往往出于自私的个人或职业动机"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - method/research-ethics
 related_concepts:
+  - "[[Confidentiality]]"
   - "[[Knowledge Production]]"
   - "[[Non-maleficence and Beneficence in Research]]"
 related_theories: []
@@ -39,7 +40,7 @@ updated: 2026-06-19
 > [!concept-lens] 概念透镜
 > - **含义** 背信不是简单的信息披露失误，而是信任关系的主动破坏——研究者利用参与者给予的信任获取数据，随后以伤害参与者的方式公开这些数据。
 > - **用途** 提醒研究者在收集和报告数据时，始终需要权衡追求真理与维护信任之间的张力。
-> - **边界** 背信不同于违反保密——[[Confidentiality in Research|保密承诺]]的违反应属于失信范畴；背信更强调参与者因信任被出卖而遭受的情感和社会伤害。背信也不同于揭发（whistle-blowing）——后者可能服务于公共利益。
+> - **边界** 背信不同于违反保密——[[Confidentiality|保密承诺]]的违反应属于失信范畴；背信更强调参与者因信任被出卖而遭受的情感和社会伤害。背信也不同于揭发（whistle-blowing）——后者可能服务于公共利益。
 
 ---
 
@@ -64,7 +65,7 @@ updated: 2026-06-19
 ## 围绕概念形成的命题
 
 > [!claim] 背信不同于违反保密
-> 保密是对不公开的承诺，背信是对信任的主动破坏。即使未做[[Confidentiality in Research|保密承诺]]，利用信赖关系获取的数据伤害参与者仍构成背信。Plummer (1983) 指出，这种行为的反常之处在于研究者作为"局内人"获得了参与者的高度信任后反手公开批判（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 108]]）。
+> 保密是对不公开的承诺，背信是对信任的主动破坏。即使未做[[Confidentiality|保密承诺]]，利用信赖关系获取的数据伤害参与者仍构成背信。Plummer (1983) 指出，这种行为的反常之处在于研究者作为"局内人"获得了参与者的高度信任后反手公开批判（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 108]]）。
 
 > [!claim] 发表禁运不能解决背信问题
 > Sikes (2006, p. 111) 论证，虽然一些研究者对研究公开设置禁运（如五年），这反而质疑了不能被传播的研究的伦理可证成性——因为它不能为知识的累积性做出贡献。不能发表的"安全"研究同样不是一个伦理解决方案（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 110]]）。

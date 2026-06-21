@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识的本质、形式和获取方式的哲学假设。不同研究范式基于不同的认识论立场：实证主义的科学检验、诠释的多重实在理解、复杂性理论的多因果方向、意识形态批判的明确政治性、混合方法的实用主义组合。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,14 +19,15 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Postpositivism]]"
   - "[[Paradigm]]"
+  - "[[Postpositivism]]"
   - "[[Axiology]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
 related_methods:
+  - "[[Ethnography]]"
   - "[[Ideology Critique]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
@@ -67,7 +68,7 @@ updated: 2026-06-21
 
 ## 不同研究范式的认识论立场
 
-在规划研究时，研究者需要反思被研究现象的认识论基础。不同范式基于不同的认识论前提——它们对"什么是有效知识"和"如何获取知识"有不同的回答（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.119–120]]）：
+在规划研究时，研究者需要反思被研究现象的认识论基础。不同[[Paradigm|范式]]基于不同的认识论前提——它们对"什么是有效知识"和"如何获取知识"有不同的回答（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.119–120]]）：
 
 > [!col1-table] 范式-认识论对应关系
 > | 范式 | 认识论立场 |
@@ -76,7 +77,7 @@ updated: 2026-06-21
 > | 量化、科学和假设检验 | 以可测量、可检验为知识标准，延续实证主义的可验证传统 |
 > | 诠释与自然主义 | 承认多重实在、能动者行为，强调通过参与者之眼理解情境——知识是情境化的、主体间建构的 |
 > | [[Phenomenology\|现象学与存在主义]] | 通过探究体验本身的结构和意义来获取知识 |
-> | 互动论与民族志 | 知识在符号互动和文化意义生产中被发现和建构 |
+> | 互动论与[[Ethnography\|民族志]] | 知识在符号互动和文化意义生产中被发现和建构 |
 > | [[Complexity Theory\|复杂性理论]] | 主张理解多重因果方向，需要整体性理解现象，通过审查互动过程和结果来认识现象 |
 > | [[Ideology Critique\|意识形态批判]] | 明确政治性：批判现象的意识形态根基，揭示维系不平等和权力不对称的机制，要求将批判与参与式行动相结合以推动社会正义 |
 > | [[Mixed Methods Research\|混合方法]] | 实用主义驱动：要求方法组合——顺序、平行或综合——以充分把握和全面理解现象的多重面向 |

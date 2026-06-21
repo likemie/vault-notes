@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理中保护参与者个人信息的核心权利，涉及信息敏感性、观察场所私密性和信息传播三个维度，是参与者自决权和尊严保护的基础"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
   - method/research-ethics
   - theme/research-governance
 related_concepts:
+  - "[[Confidentiality]]"
   - "[[Anonymity in Research]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
@@ -45,7 +46,7 @@ updated: 2026-06-18
 > - **边界** 隐私不等于保密——隐私是参与者有权不说、不被侵入的主动权利，保密是研究者不公开已知信息的承诺。隐私也不是绝对权利——参与者可自愿放弃隐私，且在某些公共利益的论证下隐私可被限制。
 
 > [!boundary] 概念边界
-> - 不等于保密（[[Confidentiality in Research|Confidentiality]]）——隐私是参与者的权利（不参与、不回答、不被侵入），保密是研究者的义务（不披露已获得的信息）
+> - 不等于保密（[[Confidentiality]]）——隐私是参与者的权利（不参与、不回答、不被侵入），保密是研究者的义务（不披露已获得的信息）
 > - 不等于匿名（[[Anonymity in Research|anonymity]]）——匿名指信息无法追溯到提供者，隐私更广泛地涵盖信息控制、场所私密和传播范围
 > - 不适用于已进入公共领域的信息——隐私仅保护尚未公开的个人信息
 
