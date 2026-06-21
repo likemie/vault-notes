@@ -10,10 +10,10 @@ aliases:
 summary: "由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/evaluation
   - method/evaluation

@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理中保护参与者个人信息的核心权利，涉及信息敏感性、观察场所私密性和信息传播三个维度，是参与者自决权和尊严保护的基础"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
