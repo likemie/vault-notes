@@ -105,6 +105,17 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 使用时机 | 已有研究、预测或理论提示发现可能走向特定方向 | 已有研究或理论不清或矛盾，或无法预测，结果更开放 |
 > | 示例 | 人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数 | 静音条件与音乐播放条件下，数学测试分数存在差异 |
 
+> [!tip] 方向性假设的写作要点
+> 方向性假设的常见形式是陈述两个变量之间预期关系的方向。以下为 Moore (2000) 在以色列女性性别认同研究中的范例（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
+>
+> **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
+>
+> *Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.*
+>
+> **H2** 性别认同、宗教虔诚度与社会行动之间的关系，在阿拉伯女性中弱于犹太女性。
+>
+> *The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.*
+
 ---
 
 ### 零假设与备择假设
@@ -120,7 +131,9 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 书写形式 | `H₀: ...` | `H₁: ...` |
 
 > [!tip] 方向性备择假设
-> 研究者应将备择假设写为方向性形式。例如："It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more"。方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+> 研究者应将备择假设写为方向性形式。例如：预测身高与体重之间存在正向关系，越高的人可能越重。方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+>
+> *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*
 
 ---
 
@@ -170,24 +183,8 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 
 ---
 
-## 写作范例
-
-> [!example] Moore (2000) 的方向性假设
-> 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条方向性假设（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
->
-> **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
->
-> *Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.*
->
-> **H2** 性别认同、宗教虔诚度与社会行动之间的关系，在阿拉伯女性中弱于犹太女性。
->
-> *The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.*
-
----
-
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch.1)]] — 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性假设的区分、假设操作化程序和中介变量
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch7)]] — 提出方向性/可检验性/理论基础/具体性四特征，以及量化研究问题与假设的区分
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/非方向性假设区分、假设操作化程序和中介变量
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及量化研究问题与假设的区分
