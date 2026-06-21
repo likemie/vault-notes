@@ -1,14 +1,21 @@
 ---
-title: "Front-loaded and End-loaded Research"
-aliases: ["前载型与后载型研究", "前载型研究", "后载型研究", "front-loaded research", "end-loaded research"]
-summary: "根据研究各阶段时间分布特征区分的研究类型：前载型设置耗时长但分析快（典型为量化调查），后载型设置快但数据收集分析耗时长（典型为质性民族志），混合方法介于两者之间。"
+title: Front-loaded and End-loaded Research
+aliases:
+  - 前载型研究
+  - 后载型研究
+  - front-loaded research
+  - end-loaded research
+summary: 根据研究各阶段时间分布特征区分的研究类型：前载型设置耗时长但分析快（典型为量化调查），后载型设置快但数据收集分析耗时长（典型为质性民族志），混合方法介于两者之间。
 type: concept
-domain: "research-methodology"
+domain: research-methodology
 related_count: 7
 related_level: 0
-related_stars: "☆"
+related_stars: ☆
 related_color: "#e5e7eb"
-tags: [source/textbook, method/research-design, theme/research-planning]
+tags:
+  - source/textbook
+  - method/research-design
+  - theme/research-planning
 related_concepts:
   - "[[Emergence]]"
   - "[[Hypothesis]]"
