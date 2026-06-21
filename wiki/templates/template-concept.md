@@ -79,39 +79,51 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 围绕概念形成的命题
 
-> [!claim] 命题总览
-> 用一两句话说明围绕该概念形成了哪些可争辩命题，以及这些命题如何相互连接。
-
-> [!logic-map]- 命题关系
->
-> ```mermaid
-> flowchart LR
->     B(["条件/前提"]) -. 使得 .-> A["① 命题一"]
->     A -- 关系标签 --> C["② 命题二"]
->     C -- 关系标签 --> D["③ 命题三"]
->     A -- 关系标签 --> E["④ 命题四"]
->     E -- 关系标签 --> F["⑤ 命题五"]
-> ```
+%% 按命题类型分节。每节开头用 [!claim] 总结该类命题的共同指向，再用独立 [!claim] 列出各学者观点。最后统一汇总表格。命题类型数量按实际增减。 %%
 
 ---
 
-> [!claim] 命题一（英文名）
-> 命题内容说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+### 命题类型一：[类型名称]（English Name）
 
-> [!warrant]- 命题一的支撑理由
-> 说明该命题依赖什么理论前提、经验材料或分类标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!claim] 类型一总结
+> 说明这类命题围绕什么核心问题展开，各学者的共同倾向或主要分歧在哪里。
 
-> [!exegesis]- 教育研究例子
-> 用一个具体教育情境说明这条命题如何工作。
+> [!claim] Author A（Year）
+> 学者 A 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!claim] Author B（Year）
+> 学者 B 的具体观点，说明与 A 的异同或修正。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!claim] Author C（Year）
+> 学者 C 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
-> [!claim] 命题二（英文名）
-> 命题内容说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+### 命题类型二：[类型名称]（English Name）
 
-> [!implication]- 命题后果
-> - **解释后果**：该命题改变了什么解释路径。
-> - **应用后果**：该命题适合用于哪些研究对象或案例。
+%% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
+
+> [!claim] 类型二总结
+> 说明这类命题的核心问题与共同倾向。
+
+> [!claim] Author D（Year）
+> 学者 D 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!claim] Author E（Year）
+> 学者 E 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 学者 | 核心观点 | 理论前提 | 适用范围 |
+> |---|---|---|---|---|
+> | **类型一名称** | Author A (Year) | 观点简述 | 前提说明 | 适用情境 |
+> | | Author B (Year) | 观点简述 | 前提说明 | 适用情境 |
+> | | Author C (Year) | 观点简述 | 前提说明 | 适用情境 |
+> | **类型二名称** | Author D (Year) | 观点简述 | 前提说明 | 适用情境 |
+> | | Author E (Year) | 观点简述 | 前提说明 | 适用情境 |
 
 ---
 
