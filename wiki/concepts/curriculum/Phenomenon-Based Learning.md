@@ -100,31 +100,47 @@ updated: '2026-06-21'
 
 ## 围绕概念形成的命题
 
-> [!claim] 命题总览
-> PhBL 主张跨学科学习不能以牺牲学科自身的理论深度为代价，教育评价也不能以[[Performance Indicators|绩效指标]]的拆分而牺牲学习的开放性与主体间意义。
+---
+
+### 命题类型一：现象学与教化逻辑下的教学设计与目的（Pedagogical Design and Purposes under Phenomenological and Bildung Logics）
+
+> [!concept-lens] 类型一总结
+> 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发反思性主体能动性以及重审教育意义的教学入口。
+
+> [!claim] Rauste-von Wright
+> 现象本位学习是一种课程的自我修正模型。它以 Dewey 的反思性探究与 Mead 的具身社会互动理论为根基，促使学生在与客观世界的动态关系中持续重构其世界观，旨在培养反思性与主体能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+
+> [!claim] Schaffar & Wolff (2024)
+> 现象本位学习的本质是一个重新追问教育与课程意义的教学反思入口，而非一套标准化的、可移植的教学干预技术。它旨在引导师生通过生活世界中的现象探究，唤醒教学能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
 
 ---
 
-> [!claim] 命题一：学科深度是跨学科整合的前提（Disciplinary Depth as Precondition）
-> 跨学科探索必须建立在尊重学科自身内在理论结构与[[Ontology|本体论]]深度的基础上。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4–5]]
+### 命题类型二：学科深度与全球治理的工具化张力（Tensions of Disciplinary Depth and Global Governance Instrumentalisation）
 
-> [!warrant]- 命题一的支撑理由
-> 依据[[Critical Realism|批判实在论]]（Critical Realism）的课程视角，各[[Discipline-Based Theory|学科理论]]秩序是人类探索世界不同现象的历史秩序，具备内在的逻辑完整性。随意将其碎片化，将损害其应有的[[Bildung|教化]]价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> [!concept-lens] 类型二总结
+> 这类命题关注现象本位学习在实施过程中的边界条件与政策拉扯，聚焦在跨学科整合中如何维护学科自身的本体论深度，以及如何抵御新自由主义下的技能原子化侵蚀。
+
+> [!claim] Critical Realists
+> 跨学科探究必须以尊重学科自身的内在理论结构与本体论深度为前提。学科理论是人类探索世界不同维度的历史秩序，取消学科边界或将学科知识碎片化为横向技能清单，将从根本上损害现象本位学习的教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4–5]]
+
+> [!claim] Schaffar & Wolff (2024)
+> 现象本位学习面临着“整体教化理想”与“新自由主义绩效治理”之间的根本张力。受 OECD 与欧盟 21世纪技能政策话语的影响，全球测量与问责逻辑试图将知识与技能原子化为可测量的绩效指标，这构成了对现象学开放性学习过程的工具化阉割。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 ---
 
-> [!claim] 命题二：现象本位学习作为教学反思入口（PhBL as Didactical Entrance for Reflection）
-> PhBL 的教育价值与其说是一套标准化的干预技术，不如说是一个重新追问当代教育与课程意义的教学反思入口。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
+### 命题总览
 
-> [!implication]- 命题二的解释与应用后果
-> - **解释后果** 这拒绝了将 PhBL 视为可以被简单移植、复制到其他国家学校体系的标准化、技术化教学方法包。
-> - **应用后果** 引导教师在教学实践中通过设计复杂的多维生活世界现象，来唤起自身与学生的教化能动性，而非盲从新自由主义绩效指标。
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **现象学与教化逻辑下的教学设计与目的** | 视学习为在生活世界中通过具身互动与反思重建世界观、唤醒主体能动性的过程 | 教师教育中的教学设计反思、批判标准化教学法包 | Rauste-von Wright; Schaffar & Wolff |
+> | **学科深度与全球治理的工具化张力** | 主张以学科本体论深度为跨学科前提，批判新自由主义治理对知识的原子化削弱 | 评估跨学科课程设计、批判基于 OECD 技能指标的绩效改革 | Critical Realists; Schaffar & Wolff |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline] 概念演变
 > - **1990年代末 — [[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]整合** Maijaliisa Rauste-von Wright 将 Dewey 的[[Reflexivity|反思性]]探究与 [[George Herbert Mead|Mead]] 的具身社会互动理论融合，在教师教育中提出 PhBL 模型，视其为课程的自我修正模型。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 > - **2014年 — 芬兰国家课程政策化** 跨学科和现象本位取向正式被写入芬兰国家核心课程，用以释放学生的能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **2018年–2023年 — 教师教育教学实验** 赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡世界遗产地展开具身、艺术与多语教学的 PhBL 实践。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
@@ -146,7 +162,7 @@ updated: '2026-06-21'
 
 ---
 
-## 实证数据
+## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - **芬兰基础教育国家核心课程** 将跨学科与现象本位学习正式整合进国家课程体系。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]

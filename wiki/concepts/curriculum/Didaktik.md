@@ -81,16 +81,41 @@ updated: '2026-06-21'
 
 ## 围绕概念形成的命题
 
-> [!claim] 命题总览
-> 教学论命题主张课程内容本身必须具有[[Bildung|教化]]价值，教学设计应在维护学科逻辑深度的同时，围绕未知的时代问题开展跨学科对话。
+---
+
+### 命题类型一：课程内容选择的教化正当性（Didactical Legitimacy of Curriculum Content Selection）
+
+> [!concept-lens] 类型一总结
+> 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备教化价值，主张在维护学科本体论深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
+
+> [!claim] Wheelahan
+> 学科理论知识并非人为的任意碎片，而是具有深层因果脉络的理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+
+> [!claim] Klafki
+> 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科对话的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
 ---
 
-> [!claim] 命题一：学科逻辑深度是教化价值的核心（Ontological Depth as Core of Didactical Value）
-> [[Discipline-Based Theory|学科理论]]知识本身的逻辑完整性是达成教化目的的必要基础，技能碎片化将损害其教学论价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+### 命题类型二：教学判断与行动机制的分野（Pedagogical Judgment and Action Mechanisms）
 
-> [!warrant]- 命题一的支撑理由
-> 依据[[Critical Realism\|批判实在论]]，学科知识并非人为的断裂碎片，而是有深度的理论体系。一旦被拆解为碎片化的横向能力或指标清单，学生将无法理解学科背后的深层机制和世界现象的因果脉络。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> [!concept-lens] 类型二总结
+> 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
+
+> [!claim] Gruschka (2019)
+> 教学设计是一个由 Didaktik（教学论）、[[Bildung|Bildung（教化）]] 与 Erziehung（规范教育）共同构成的整合性星座（Integrated case of constellation），教师必须基于特定内容在具体时间点以何种安排方式向学生呈现，来做出教学判断。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 238–239]]
+
+> [!claim] Schaffar & Wolff (2024)
+> 教学论史中存在着关于知识控制与知识生成的关键区分。教学行动必须在规训（disciplina，侧重纠错、管理与绩效测量）与生成（doctrina，侧重知识的批判、更新与探究生产）之间建立良性张力，避免教学滑向单纯的机械控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **课程内容选择的教化正当性** | 关注知识选择的本体论深度与时代关切度，确立学科深度的正当性 | 批判原子化技能课程，指导跨学科现象本位设计 | Wheelahan; Klafki |
+> | **教学判断与行动机制的分野** | 关注教师在规训/生成、内容/教化/规范之间的复杂专业判断 | 剖析数字化背景下的绩效主义以及标准化教学评估 | Gruschka; Schaffar & Wolff |
 
 ---
 
@@ -116,7 +141,7 @@ updated: '2026-06-21'
 
 ---
 
-## 实证数据
+## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - **芬兰基础教育国家核心课程** 将跨学科与[[Phenomenon-Based Learning|现象本位学习]]作为教学取向写入框架，其选择现象的课程逻辑深植于教学论传统。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]

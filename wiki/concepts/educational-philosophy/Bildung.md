@@ -95,47 +95,47 @@ updated: '2026-06-21'
 
 ## 围绕概念形成的命题
 
-> [!claim] 命题总览
-> Bildung 命题主张教育的首要价值在于其内在的生命目的，面向未知的未来进行人格自我生成，这使其天然地与各种将人工具化、指标化或算法预测的技术政治相对立。
+---
+
+### 命题类型一：教化目的的自主人格性与开放性（Autonomy and Openness of Bildung Purpose）
+
+> [!concept-lens] 类型一总结
+> 这类命题关注教化（Bildung）的核心目的，强调其作为自主人格形成的非目的论与开放性特征，反对将教育目的窄化为可测量的技术性指标。
+
+> [!claim] Larsen (2019)
+> 教化具有非还原的内在尊严与实践目的。它是个体决定其知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，不能被还原为可量化、标准化的一般技能目标。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
+
+> [!claim] Schleiermacher
+> 教化实践的核心路径在于学会在关于何为美好生活的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主生长过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
 ---
 
-> [!claim] 命题一：开放未来的不可预测性（Unpredictability of an Open Future）
-> 教育过程必须面向不可预知的开放未来，任何以确定性为导向的预测与优化技术都会压制教化的可能性。[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p. 227]]
+### 命题类型二：教化环境中的反抗与相对独立性（Resistance and Relative Independence in Bildung Environment）
 
-> [!warrant]- 命题一的支撑理由
-> 数字治理系统（如[[Learning Analytics|学习分析]]与自我评估）试图通过相关性数据确定学生的未来，让学生向预设的[[Digital Optimum|数字最优]]状态靠拢。这种将未来简化为被预测的未来的逻辑，直接阻碍了 Bildung 所要求的不受预设数据限制的自我探索空间。[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p. 227]]
+> [!concept-lens] 类型二总结
+> 这类命题关注教化在外部社会、政治与技术环境中的生存机制，主张教化行动必须维持其独立于外部规训与算法预测的自主空间。
 
----
+> [!claim] Thompson et al. (2022)
+> 教化必须面向不可预测的开放未来。在数字化治理（如学习分析与绩效自我评估）试图通过相关性数据预测并预先优化学生未来的背景下，教化要求维护不受数据预测限制的自我探索空间，抵抗对未来可能性的系统性压缩。[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p. 227]]
 
-> [!claim] 命题二：教化信条的非还原性（Non-reducibility of the Bildung Creed）
-> 教育无法被还原为外在的行为或技能目标，教化拥有自身独立的内在尊严与实践目的。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
-
-> [!implication]- 命题二的解释与应用后果
-> - **解释后果** 这反驳了将教育价值完全还原为量化绩效或标准问责指标的企图。
-> - **应用后果** 适合用于评估与反思那些将学校课程分解为数千个独立、孤立学习指标的原子化绩效改革。
+> [!claim] Sarbiewska (2019)
+> 教化（Bildung）行动必须独立于普通的社会化规训（Erziehung），在教育三角关系中维持其相对独立权。依据 Benner 的相对独立性理论，如果教育被完全还原为对既有社会规范的再生产，个体将沦为纯粹被动塑造的客体。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
 
 ---
 
-> [!claim] 命题三：教化追问的生活实践性（Living with the Question as Bildung Practice）
-> 人类必须学会在关于何为美好生活的“追问”而非“标准答案”中生活，这是教化实践的核心路径。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+### 命题总览
 
-> [!warrant]- 命题三的支撑理由
-> 依据 Schleiermacher 的教育洞见与 Imago Dei 传统，教化是一个非目的论的生长过程，其生长方向并未被预设，因此教化不可能通过灌输现成答案来达成，而必须在持续的探索追问中展开。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
-
----
-
-> [!claim] 命题四：教化行动的相对独立性（Relative Independence of Bildung Action）
-> 教化（Bildung）行动必须独立于普通的社会化规训（Erziehung），在教育三角关系中维持其相对独立权。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
-
-> [!warrant]- 命题四的支撑理由
-> 依据 [[Dietrich Benner|Benner]] 的相对独立性理论，如果教育被完全还原为对既有社会规范的再生产（即 Erziehung 占满全部空间），个体将沦为纯粹被动塑造的客体。因此，教化行动必须拥有独立于外在政治与经济需求的自主空间，以保护主体的教育性自主。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | Larsen (2019); Schleiermacher |
+> | **教化环境中的反抗与相对独立性** | 强调教化需要维护自主空间以抵抗外部社会规训和数字化算法预测 | 批判高等教育数字化治理中的预测性技术与社会化规训 | Thompson et al. (2022); Sarbiewska (2019) |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 发展脉络
+> [!dev-timeline] 概念演变
 > - **18世纪末 — 德国哲学涌入芬兰** 德国唯心主义和浪漫主义哲学（Fichte, Schelling, Herder, Hegel）传入芬兰，由 Tengström 和 Snellman 进一步阐发为关切[[Academic Freedom|学术自由]]和道德自我修养的本土教化论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **1960年代–1970年代 — [[Critical Pedagogy|批判教育学]]引入丹麦** Bildung 概念被转化为对抗权威决策和强制社会化模式的批判工具。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
 > - **20世纪末 — 批判教学论统合** [[Wolfgang Klafki]] 将 Bildung 与教学论统合，提出[[Epochal Key Problems|时代关键问题]]概念，使其成为应对全球生态、经济与地缘政治危机的课程组织原则。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
@@ -161,7 +161,7 @@ updated: '2026-06-21'
 
 ---
 
-## 实证数据
+## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]

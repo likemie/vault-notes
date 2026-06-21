@@ -86,13 +86,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ### 命题类型一：[类型名称]（English Name）
 
 > [!concept-lens] 类型一总结
-> 说明这类命题围绕什么核心问题展开，各学者的共同倾向或主要分歧在哪里。
+> 说明这类命题围绕什么核心问题展开，各学者的共同倾向在哪里。
 
 > [!claim] Author A
 > 学者 A 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!claim] Author B
-> 学者 B 的具体观点，说明与 A 的异同或修正。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> 学者 B 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!claim] Author C
 > 学者 C 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -117,10 +117,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 |
-> |---|---|---|
-> | **类型一名称** | 这类命题核心关注什么 | 适用的研究对象或场景 |
-> | **类型二名称** | 这类命题核心关注什么 | 适用情境 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **类型一名称** | 这类命题核心关注什么 | 适用的研究对象或场景 | Author A; Author B |
+> | **类型二名称** | 这类命题核心关注什么 | 适用情境 | Author D; Author E |
 
 ---
 
@@ -168,9 +168,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 只写原文或学界公认的边界条件，不写你自己的评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-## 实证数据与相关研究
 
-%% 三类数据分开记录：一级研究效应量（effect-table）、元分析汇总（ma-table）、其他零散发现或应用案例（evidence-grid-a）。没有量化数据时可只用 evidence-grid-a。 %%
+## 实证数据
+
+%% 量化数据记录。没有效应量或元分析时可删除对应 callout。 %%
 
 > [!effect-table]- 一级研究效应量
 > | 研究 | 干预 | 结果变量 | n_t | n_c | d | SE | 设计 |
@@ -181,6 +182,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | 元分析 | k | N | ES | 95% CI | I² | GRADE |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | — | — | — | — | — | — |
+
+---
+
+## 相关研究
+
+%% 记录使用、检验或修正这个概念的研究，说明应用案例与迁移条件。 %%
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念，或说明应用案例与迁移条件。
