@@ -8,8 +8,8 @@ extracted_to:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 processed_date: 2026-06-16
 ---
 
