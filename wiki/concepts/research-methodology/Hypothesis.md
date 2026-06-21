@@ -60,7 +60,7 @@ updated: 2026-06-21
 ## 概念辨析
 
 > [!contrast-table] 假设 vs 研究问题
-> | 维度 | 假设（Hypothesis） | [[Research Question|研究问题]] |
+> | 维度 | 假设（Hypothesis） | [[Research Question\|研究问题]] |
 > |---|---|---|
 > | 认知功能 | 预测变量间关系的方向 | 就变量间关系提问 |
 > | 形式 | 陈述句 | 疑问句 |

@@ -4239,7 +4239,8 @@
       "方向性备择假设",
       "alternative hypotheses",
       "directional alternative hypothesis",
-      "定向假设"
+      "定向假设",
+      "H₁"
     ]
   },
   {
@@ -5232,7 +5233,8 @@
       "零假设",
       "虚无假设",
       "无差异假设",
-      "null hypotheses"
+      "null hypotheses",
+      "H₀"
     ]
   },
   {

@@ -7,10 +7,11 @@ aliases:
   - alternative hypotheses
   - directional alternative hypothesis
   - 定向假设
-summary: "正式假设检验中预测变量间存在显著关系的假设形式，最好写为方向性备择假设以明确预期关系的方向（正向或负向），与零假设成对构成统计检验的完整框架"
+  - H₁
+summary: "正式假设检验中预测变量间存在显著关系的假设形式，最好写为方向性形式以明确预期关系的方向，与零假设成对构成统计检验的完整框架，通常以H₁表示。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,66 +29,93 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-21
 ---
-
 # Alternative Hypothesis
 
 ## 定义
 
-> [!info]
-> 备择假设（alternative [[Hypothesis]]）是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式。与[[Null Hypothesis|零假设]]（预测无关系或无差异）相对，备择假设提出实质性预测([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]])。
+> [!def] 备择假设（Alternative Hypothesis）
+> 备择假设是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式，通常写作 H₁。备择假设通常在零假设被拒绝时得到支持——即如果[[Null Hypothesis|零假设]]不被支持，则备择假设被支持（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
 
----
+> [!concept-lens] 概念透镜
+> - **含义** 备择假设是研究者真正想要支持的主张——它预测变量之间存在某种关系或差异，是研究假设的实质内容。
+> - **用途** 为研究提供可检验的方向性预测，决定研究设计和统计检验的类型（单尾或双尾）。
+> - **边界** 备择假设不能代替完整的理论说明，也没有预设因果方向。它在统计上只能被"支持"而非"证实"。
 
-## 方向性备择假设
-
-> [!info]
-> 方向性备择假设（directional alternative [[Hypothesis]]）是备择假设的推荐形式，因为它不仅预测[[Variable|变量]]间存在关系，还预测关系的方向（如正向或负向）。Creswell & Creswell (2022, Ch7) 强调，研究者应将备择假设写为方向性形式。
-
-> [!quote]
-> "It is important to make this alternative hypothesis directional, such that it is a prediction in a certain direction. For example, 'it is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more' or 'the higher the relationship skills, the higher the leadership potential.'"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
-
-> [!tip] 方向性词汇
-> [[Quantitative Research|量化研究]]的方向性词汇包括 affect, influence, predict, impact, determine, cause, relate 等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
-
----
-
-## 核心要素
-
-> [!abstract]
-> 写好备择假设的关键规则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
-> 1. **指明[[Variable|变量]]**：明确自变量、因变量、中介变量或调节变量
-> 2. **包含理论**：最严格的[[Quantitative Research|量化研究]]以理论检验为起点，假设应逻辑上跟随或挑战该理论
-> 3. **方向性**：不仅预测存在关系，还预测关系的方向
-> 4. **使用方向性量化词汇**：affect, influence, predict, impact, determine, cause, relate
-
----
-
-## 写作范例
-
-> [!example]
-> Moore (2000) 研究以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同意义，提出两条方向性假设（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
->
-> **H1**: Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.
->
-> **H2**: The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.
-
-> [!tip] [[Research Writing Script|写作脚本]]
-> Creswell & Creswell (2022, Ch7) 提供的关系型[[Quantitative Research|量化研究]]问题与方向性假设的[[Research Writing Script|写作脚本]]：
->
-> "____（理论名称____）posits that ____（解释[[Variable|变量]]间的关系____）。It is thus predicted that there will be a relationship between ____（预测变量____）and ____（结果变量____），such that ____（解释预测变量与结果变量之间效应的方向____）。"
+> [!boundary]- 概念边界
+> - 不等于 [[Null Hypothesis|零假设]]：备择假设预测存在关系或差异，零假设预测无关系或无差异
+> - 不等于 [[Hypothesis|广义假设]]：广义假设泛指所有变量间关系的预测性陈述；备择假设是正式假设检验框架中专与零假设配对的术语
+> - 不适用于纯粹的描述性研究和探索性质性研究
 
 ---
 
 ## 概念辨析
 
-> [!example]
-> **备择假设 vs 假设（广义）**：广义的假设（[[Hypothesis]]）泛指所有对[[Variable|变量]]间关系的预测性陈述。备择假设（alternative hypothesis）是正式假设检验框架中的专有术语，与[[Null Hypothesis|零假设]]配对使用。在研究写作中，作者通常直接陈述方向性备择假设，而不必每次都与零假设成对呈现。
+> [!contrast-table] 备择假设 vs 零假设
+> | 维度 | 备择假设（H₁） | [[Null Hypothesis\|零假设]]（H₀） |
+> |---|---|---|
+> | 核心陈述 | 变量间**存在**关系，或组间**存在**显著差异 | 变量间**没有**关系，或组间**没有**显著差异 |
+> | 典型场景 | 动机与表现之间存在相关；前测与后测之间存在差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]） | 男性和女性在科学成绩上无差异；参与者在前后测中无变化（p.140） |
+> | 逻辑角色 | 研究者真正想支持的主张 | 被尝试拒绝的稻草人 |
+> | 书写形式 | `H₁: ...` | `H₀: ...` |
 
 ---
 
+## 核心要素
+
+### 方向性备择假设
+
+研究者应将备择假设写为方向性形式，即不仅预测存在关系，还预测关系的方向。方向性假设用于已有研究或理论提示发现可能走向特定方向的情境，统计上要求单尾检验（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）。
+
+> [!tip] 方向性词汇
+> 方向性备择假设的常用词汇包括 affect, influence, predict, impact, determine, cause, relate 等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+
+> [!tip] 方向性备择假设示例
+> 预测身高与体重之间存在正向关系，越高的人可能越重。
+>
+> *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*
+
+### 撰写规则
+
+> [!feature] 写好备择假设的关键规则
+> （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
+> - **指明变量** 明确自变量、因变量、中介变量或调节变量
+> - **包含理论** 假设应逻辑上跟随或挑战已有理论
+> - **方向性** 不仅预测存在关系，还预测关系的方向
+> - **使用方向性量化词汇** affect, influence, predict, impact, determine, cause, relate
+
+---
+
+## 写作范例
+
+> [!example] Moore (2000) 的方向性备择假设
+> 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条方向性假设（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
+>
+> **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
+>
+> *Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.*
+>
+> **H2** 性别认同、宗教虔诚度与社会行动之间的关系，在阿拉伯女性中弱于犹太女性。
+>
+> *The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.*
+
+> [!tip] [[Research Writing Script|写作脚本]]
+> Creswell & Creswell (2022, Ch7) 提供的关系型量化研究问题与方向性假设的写作脚本：
+>
+> 理论名称认为解释了变量间的关系。因此预测，预测变量与结果变量之间存在关系，且其方向为解释预测变量与结果变量之间效应的方向。
+>
+> *____ (theory name) posits that ____ (explain the relationship between variables). It is thus predicted that there will be a relationship between ____ (predictor variable) and ____ (outcome variable), such that ____ (explain the direction of the effect between predictor and outcome variables).*
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍备择假设的定义、方向性写作规则和写作脚本
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 给出备择假设的典型场景示例，并在操作化框架中与零假设成对讨论

@@ -6665,6 +6665,23 @@
 }
 
 /* ─── 6 列自适应网格 ─────────────────────────────────── */
+/* n  布局
+   1  ─────── 1（全宽）
+   2  ─── 2
+   3  ─ 3
+   4  ─── 2-2
+   5  ─ 3-2
+   6  ─── 2-2-2
+   7  ─── 2-3-2
+   8  ─── 2-2-2-2
+   9  ─ 3-3-3
+   10 ─── 2-2-2-2-2
+   11 ─ 3-3-3-2
+   12 ─── 2-2-2-2-2-2
+   13 ─ 3-3-3-2-2
+   14 ─ 3-3-3-3-2
+   15 ─ 3-3-3-3-3
+   ─────────────────── */
 .callout[data-callout="feature"] .callout-content > ul {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
@@ -6674,7 +6691,7 @@
   list-style: none;
 }
 
-/* 默认：span 3 = 2 列（2 / 4 项） */
+/* 默认：span 3 = 2 列（2 / 4 / 6 / 8 / 10 / 12 项） */
 .callout[data-callout="feature"] .callout-content > ul > li {
   grid-column: span 3;
   margin: 0;
@@ -6686,12 +6703,19 @@
   line-height: 1.65;
 }
 
-/* 3 项 → span 2 = 3 列 */
-.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+/* 1 项 → 全宽 */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(1):last-child) > li {
+  grid-column: span 6;
+}
+
+/* 3 / 9 / 15 项 → span 2 = 3 列（3-3-3…） */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(9):last-child) > li,
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(15):last-child) > li {
   grid-column: span 2;
 }
 
-/* 5 项 → 3 + 2（前 3 span 2，后 2 span 3） */
+/* 5 項 → 3-2（前 3 span 2，後 2 span 3） */
 .callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+3) {
   grid-column: span 2;
 }
@@ -6699,11 +6723,36 @@
   grid-column: span 3;
 }
 
-/* 6 / 7 / 8 项 → span 2 = 3 列 */
-.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(6):last-child) > li,
-.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(7):last-child) > li,
-.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(8):last-child) > li {
+/* 7 項 → 2-3-2（1-2: span 3 / 3-5: span 2 / 6-7: span 3） */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(7):last-child) > li {
+  grid-column: span 3;
+}
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5) {
   grid-column: span 2;
+}
+
+/* 11 項 → 3-3-3-2（前 9 span 2，後 2 span 3） */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(11):last-child) > li {
+  grid-column: span 2;
+}
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(11):last-child) > li:nth-child(n+10) {
+  grid-column: span 3;
+}
+
+/* 13 項 → 3-3-3-2-2（前 9 span 2，後 4 span 3） */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(13):last-child) > li {
+  grid-column: span 2;
+}
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(13):last-child) > li:nth-child(n+10) {
+  grid-column: span 3;
+}
+
+/* 14 項 → 3-3-3-3-2（前 12 span 2，後 2 span 3） */
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(14):last-child) > li {
+  grid-column: span 2;
+}
+.callout[data-callout="feature"] .callout-content > ul:has(> li:nth-child(14):last-child) > li:nth-child(n+13) {
+  grid-column: span 3;
 }
 
 /* ─── 特征名标签：badge 样式（深底白字大写角标） ────── */
