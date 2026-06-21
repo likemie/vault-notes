@@ -18,12 +18,17 @@ method_related_color: "#dbeafe"
 tags:
   - method/sampling
   - qualitative-research
-related_concepts: []
+related_concepts:
+  - "[[Sample Size Determination]]"
+  - "[[Policy Network]]"
+  - "[[Gatekeepers]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Non-probability Sampling]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
 status: draft
 created: 2026-06-22
@@ -34,7 +39,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> 滚雪球抽样（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling|非概率抽样]]的一种。研究者识别少数具备所需特征的个体（种子），利用他们的社会网络和人际联系逐层识别更多合格者，后者再转介更后者——由此得名"滚雪球"。该方法本质上是社会性的（Noy, 2008: 332），依赖人际信任和强关系网络。
+> [[Non-probability Sampling|滚雪球抽样]]（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling|非概率抽样]]的一种。研究者识别少数具备所需特征的个体（种子），利用他们的社会网络和人际联系逐层识别更多合格者，后者再转介更后者——由此得名"滚雪球"。该方法本质上是社会性的（Noy, 2008: 332），依赖人际信任和强关系网络。
 
 > [!method-scope] 方法范围
 > - **研究对象**：难以接触人群（隐藏人群）、敏感话题参与者、通信网络不发达群体、政策精英
@@ -48,13 +53,13 @@ updated: 2026-06-22
 > 1. 识别并接触少数具备目标特征的初始种子。
 > 2. 通过种子转介接触到更多合格者。
 > 3. 新合格者继续转介，形成多波次扩展。
-> 4. 持续至达到所需样本量或信息饱和。
+> 4. 持续至达到所需[[Sample Size Determination|样本量]]或信息饱和。
 
 ### 变体
 
 > [!info]
 > - **受访者驱动抽样**（Respondent-Driven Sampling, Heckathorn, 1997, 2002）：受访者不仅识别更多联系人，还主动招募他们参与。在研究隐藏人群时特别有用——通常无抽样框，人群守卫隐私，且参与者对同伴招募比对研究者招募更合作。
-> - **声誉滚雪球**（Reputational Snowball, Farquharson, 2005）：利用人们的声誉联系识别政策网络中的关键人物，对研究有权势的个人和政策制定者尤为有效。
+> - **声誉滚雪球**（Reputational Snowball, Farquharson, 2005）：利用人们的声誉联系识别[[Policy Network|政策网络]]中的关键人物，对研究有权势的个人和政策制定者尤为有效。
 
 ## 适用场景
 
@@ -67,10 +72,10 @@ updated: 2026-06-22
 
 > [!method-limits] 方法局限
 > - **初始接触人偏差**：初始种子的特征可能过度主导后续样本。Browne（2005）在研究非异性恋女性时发现，作为白人、中产阶级群体的一员，她的联系人倾向来自相似背景，其他群体因不在同一社交圈被排除。
-> - **守门人保护偏差**：守门人可能通过不转介朋友来保护他们（Heckathorn, 1997: 175），偏差既可纳入也可排除某些群体成员。
+> - **[[Gatekeepers|守门人]]保护偏差**：守门人可能通过不转介朋友来保护他们（Heckathorn, 1997: 175），偏差既可纳入也可排除某些群体成员。
 > - **缓解方式**：采用多波次、多起点以覆盖不同子群；结合关键信息提供者抽样和靶向抽样。
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍滚雪球抽样、受访者驱动抽样和声誉滚雪球，以及 Browne（2005）和 Heckathorn（1997, 2002）的偏差分析。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍[[Non-probability Sampling|滚雪球抽样]]、受访者驱动抽样和声誉滚雪球，以及 Browne（2005）和 Heckathorn（1997, 2002）的偏差分析。

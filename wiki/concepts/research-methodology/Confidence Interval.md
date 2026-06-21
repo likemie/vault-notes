@@ -18,6 +18,8 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Sampling Error]]"
+  - "[[Sample Size Determination]]"
   - "[[Statistical Significance]]"
   - "[[Null Hypothesis]]"
   - "[[Visible Learning]]"
@@ -48,13 +50,13 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - 2015 教育[[Effect Size|效应量]]排名批评中，[[PISA]] 的区间呈现常被用来对照只列出 d 值的效应量排名：前者显示估计误差，后者难以判断相邻教学干预是否真的不同([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。
-> - 2016 Wecker et al. 在二级[[Meta-analysis|元分析]]方法要求中明确提出，联合效应量应报告标准误和 95% CI，并进行显著性检验；缺少这些信息会使排名中的相邻位置无法解释([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.30]])。
+> - 2016 Wecker et al. 在二级[[Meta-analysis|元分析]]方法要求中明确提出，联合效应量应报告[[Sampling Error|标准误]]和 95% CI，并进行显著性检验；缺少这些信息会使排名中的相邻位置无法解释([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.30]])。
 
 ## 核心要素
 
 > [!abstract] 核心要素
 > - **点估计**：点估计给出一个数值，但不说明估计精度；[[Effect Size|效应量]]排名若只给 d 值，就无法呈现该估计可能的误差范围([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
-> - **标准误**：用于计算置信区间。二级[[Meta-analysis|元分析]]若缺少标准误，读者无法自行判断联合效应量估计是否稳定([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.29]])。
+> - **[[Sampling Error|标准误]]**：用于计算置信区间。二级[[Meta-analysis|元分析]]若缺少标准误，读者无法自行判断联合效应量估计是否稳定([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.29]])。
 > - **区间重叠**：当两个估计值的置信区间重叠时，仅凭点估计大小不能判断二者有统计显著差异；d=0.71 与 d=0.72 这类相邻值本身不足以证明两个干预不同([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
 
 ## 与样本量的关系
@@ -76,7 +78,7 @@ updated: '2026-05-18'
 ## 相关方法
 
 
-- [[Meta-analysis]] — 元分析中，平均[[Effect Size|效应量]]需要伴随标准误或置信区间，才能说明估计精度。
+- [[Meta-analysis]] — 元分析中，平均[[Effect Size|效应量]]需要伴随[[Sampling Error|标准误]]或置信区间，才能说明估计精度。
 - [[Meta-meta-analysis]] — 联合标准误和置信区间是二级元分析报告联合效应量时的必要信息([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.30]])。
 
 ## 实证发现
@@ -89,7 +91,7 @@ updated: '2026-05-18'
 
 
 - 在面向实践者的证据工具中，置信区间常被省略以换取简洁排名；但这种简洁会把估计精度隐藏起来，使排名看起来比实际更确定([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。
-- Wecker et al. 进一步指出，如果标准误本身计算错误或缺失，即使读者想自行判断相邻排名是否显著不同，也缺少必要信息([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.30]])。
+- Wecker et al. 进一步指出，如果[[Sampling Error|标准误]]本身计算错误或缺失，即使读者想自行判断相邻排名是否显著不同，也缺少必要信息([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.30]])。
 
 ## 相关案例／政策
 

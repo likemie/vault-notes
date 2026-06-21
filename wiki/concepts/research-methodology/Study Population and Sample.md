@@ -33,6 +33,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Mixed Methods Research]]"
+  - "[[Convenience Sampling]]"
   - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
@@ -87,7 +88,7 @@ updated: 2026-06-01
 
 1. **识别总体**：明确说明研究的目标总体是谁，以及总体的规模（若可确定）。
 2. **确定获取总体成员的方法**：是否存在抽样框（sampling frame）——即总体成员的邮寄名单或已发布列表？可及性问题在此凸显。
-3. **描述抽样设计与类型**：使用单阶段还是多阶段（整群）抽样？随机、系统还是便利抽样？
+3. **描述抽样设计与类型**：使用单阶段还是多阶段（整群）抽样？随机、系统还是[[Convenience Sampling|便利抽样]]？
 4. **明确样本量**：样本量如何确定——基于功效分析还是其他理由？
 5. **说明总体分层**：若总体在抽样前按已知特征分层，应说明分层的特征和原因。
 

@@ -19,6 +19,7 @@ related_theories:
   - "[[Pavitt Taxonomy]]"
 related_methods:
   - "[[Random Sampling]]"
+  - "[[Stratified Sampling]]"
 related_persons: []
 related_facts:
   - "[[Centre for Independent Studies]]"
@@ -45,7 +46,7 @@ updated: 2026-06-10
 > [!abstract]
 > [[Centre for Independent Studies|CIS]] 的设计遵循 Oslo Manual 标准，具有以下核心特征（pp.162-163）：
 > - **统一问卷**：所有参与国使用相同的问卷，确保跨国可比性
-> - **[[Random Sampling|分层抽样]]**：按行业进行分层抽样，确保各产业的统计代表性
+> - **[[Random Sampling|分层抽样]]**：按行业进行[[Stratified Sampling|分层抽样]]，确保各产业的统计代表性
 > - **加权汇总**：企业回复使用适当的权重汇总到两位数 NACE 行业层面，权重的推导基于抽样程序
 > - **时间覆盖**：每轮调查覆盖调查当年及前两年。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]使用了三轮 CIS 数据——CIS 2、CIS 3 和 CIS 4，涵盖制造业和服务业
 

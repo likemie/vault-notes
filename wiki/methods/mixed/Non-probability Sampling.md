@@ -42,8 +42,14 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Survey Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Convenience Sampling]]"
+  - "[[Quota Sampling]]"
   - "[[Purposeful Sampling]]"
   - "[[Qualitative Research]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Snowball Sampling]]"
+  - "[[Dimensional Sampling]]"
+  - "[[Volunteer Sampling]]"
   - "[[Triangulation]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
@@ -97,12 +103,12 @@ updated: 2026-06-21
 
 ### 便利抽样
 
-> [!step] 便利抽样（Convenience Sampling）
+> [!step] [[Convenience Sampling|便利抽样]]（Convenience Sampling）
 > 亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling）。选择最近便的个体作为受访者，持续至达到所需[[Sample Size Determination|样本量]]。典型场景：使用"被俘获的受众"如学生或实习教师。不寻求对更广泛总体的推广——对便利抽样而言这是无关的。可能成为案例研究的抽样策略（p.159）。
 
 ### 配额抽样
 
-> [!step] 配额抽样（Quota Sampling）
+> [!step] [[Quota Sampling|配额抽样]]（Quota Sampling）
 > 非概率版的[[Random Sampling|分层抽样]]。力求按总体中的比例代表显著特征。三步程序：
 >
 > 1. 识别那些在总体中出现且必须在样本中出现的特征，将总体划分为同质的离散组（层）。
@@ -118,13 +124,13 @@ updated: 2026-06-21
 >
 > - **代表性/可比性抽样**：典型个案、极端/偏差个案、强度抽样、最大变异抽样、同质抽样、声誉个案抽样。
 > - **特殊/独特个案抽样**：揭示性个案、关键个案、政治重要个案、完整收集抽样。
-> - **顺序抽样**：理论抽样、确认/否定个案抽样、机会抽样、滚雪球抽样。
+> - **顺序抽样**：[[Theoretical Sampling|理论抽样]]、确认/否定个案抽样、机会抽样、[[Snowball Sampling|滚雪球抽样]]。
 >
 > 目的性抽样涉及一种权衡：比概率抽样提供更深的深度，但提供更窄的广度（Teddlie & Yu, 2007）（pp.160–162）。
 
 ### 维度抽样
 
-> [!step] 维度抽样（Dimensional Sampling）
+> [!step] [[Dimensional Sampling|维度抽样]]（Dimensional Sampling）
 > 配额抽样的进一步细化。识别总体中感兴趣的各种因素，获取至少一个涵盖所有因素组合的受访者。例如对族裔关系的研究可构建多维表格——"族裔"为行、"世代"为列——确保每个交叉格至少有一名受访者（p.162）。
 
 ### 滚雪球抽样
@@ -145,7 +151,7 @@ updated: 2026-06-21
 
 ### 志愿者抽样
 
-> [!step] 志愿者抽样（Volunteer Sampling）
+> [!step] [[Volunteer Sampling|志愿者抽样]]（Volunteer Sampling）
 > 准入困难时依赖志愿者——可能是个人朋友、朋友的朋友、回应广告者或对研究感兴趣的参与者。有时这是唯一可能的抽样方式（Morrison, 2006），可能比完全不研究更好。但必须极其谨慎地对待推广性或代表性声称——志愿者的动机多样且可能引入偏差（p.163）。
 
 ### 理论抽样
@@ -169,12 +175,12 @@ updated: 2026-06-21
 > [!method-limits] 方法局限
 > - **偏误来源**：选择偏差（研究者判断和可得性驱动）、初始接触人偏差（滚雪球中初始种子影响后续样本）、志愿者偏差（志愿者与非志愿者在关键特征上可能不同）、[[Gatekeepers|守门人]]偏差（守门人系统性排除或保护某些人）。
 > - **适用边界**：不能声称样本统计量代表总体参数；研究发现的推广依赖于读者对"与自身情境相似性"的判断（[[Naturalistic Generalization|自然主义概括]]）而非统计推论。
-> - **误用风险**：最常见误用是将非概率样本的结果当作代表总体的结论来报告——如将便利抽样的百分比当作总体参数来描述。
-> - **补救方式**：通过[[Rich and Thick Description|厚描述]]（thick description）为读者提供判断可转移性的充分信息；在配额抽样中尽可能简化层数以控制[[Sample Size Determination|样本量]]；在滚雪球中采用多波次和多起点以减少初始偏差。
+> - **误用风险**：最常见误用是将非概率样本的结果当作代表总体的结论来报告——如将[[Convenience Sampling|便利抽样]]的百分比当作总体参数来描述。
+> - **补救方式**：通过[[Rich and Thick Description|厚描述]]（thick description）为读者提供判断可转移性的充分信息；在[[Quota Sampling|配额抽样]]中尽可能简化层数以控制[[Sample Size Determination|样本量]]；在滚雪球中采用多波次和多起点以减少初始偏差。
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理非[[Random Sampling|概率抽样]]的七种类型（便利、配额、目的性、维度、滚雪球、志愿者、理论抽样），提供 Teddlie & Yu（2007）[[Purposeful Sampling|目的性抽样]]类型学和 Heckathorn（1997, 2002）受访者驱动抽样的详细讨论。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理非[[Random Sampling|概率抽样]]的七种类型（便利、配额、目的性、维度、滚雪球、志愿者、[[Theoretical Sampling|理论抽样]]），提供 Teddlie & Yu（2007）[[Purposeful Sampling|目的性抽样]]类型学和 Heckathorn（1997, 2002）[[Snowball Sampling|受访者驱动抽样]]的详细讨论。

@@ -92,6 +92,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
   - "[[Non-probability Sampling]]"
+  - "[[Theoretical Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
@@ -538,7 +539,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 - 仅本科就读于该大学或同层次高校（控制教育质量）
 - 仅学分绩点前 50%（控制学习态度和勤勉程度）
 
-同时运用理论抽样（theoretical sampling）在关键特征上增加差异性：
+同时运用[[Theoretical Sampling|理论抽样]]（theoretical sampling）在关键特征上增加差异性：
 - 院系/学科背景力求差异
 - 家庭社会经济背景力求差异
 - 内化学校主流价值观的程度力求差异

@@ -18,12 +18,17 @@ method_related_color: "#dbeafe"
 tags:
   - method/sampling
   - qualitative-research
-related_concepts: []
+related_concepts:
+  - "[[Sample Size Determination]]"
+  - "[[External Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Non-probability Sampling]]"
+  - "[[Random Sampling]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
 status: draft
 created: 2026-06-22
@@ -34,7 +39,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> 便利抽样（Convenience Sampling），亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling），是选择最近便或最容易接触的个体作为受访者的[[Non-probability Sampling|非概率抽样]]方法，持续至达到所需样本量。典型场景包括使用被俘获的受众（如学生或实习教师）。它不寻求对更广泛总体的推广，只代表自身。
+> [[Non-probability Sampling|便利抽样]]（Convenience Sampling），亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling），是选择最近便或最容易接触的个体作为受访者的[[Non-probability Sampling|非概率抽样]]方法，持续至达到所需[[Sample Size Determination|样本量]]。典型场景包括使用被俘获的受众（如学生或实习教师）。它不寻求对更广泛总体的推广，只代表自身。
 
 > [!method-scope] 方法范围
 > - **研究对象**：最容易接触的个体或群体
@@ -44,7 +49,7 @@ updated: 2026-06-22
 
 ## 研究程序
 
-选择最近便的个体作为受访者，持续至达到所需样本量。无需抽样框或随机程序。
+选择最近便的个体作为受访者，持续至达到所需[[Sample Size Determination|样本量]]。无需抽样框或随机程序。
 
 ## 适用场景
 
@@ -57,9 +62,9 @@ updated: 2026-06-22
 
 > [!method-limits] 方法局限
 > - **选择偏差**：样本完全由可得性和便利性驱动，可能与总体存在系统性差异。
-> - **不可推广**：参数推广性（generalizability）可忽略不计，必须在报告中明确说明。
+> - **不可推广**：参数推广性（[[External Validity|generalizability]]）可忽略不计，必须在报告中明确说明。
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍便利抽样作为非概率抽样中最简单便捷的类型。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍[[Non-probability Sampling|便利抽样]]作为非[[Random Sampling|概率抽样]]中最简单便捷的类型。

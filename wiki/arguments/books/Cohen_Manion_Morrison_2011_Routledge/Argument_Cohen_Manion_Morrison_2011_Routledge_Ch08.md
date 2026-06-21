@@ -54,10 +54,21 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Causal Modeling]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Systematic Sampling]]"
+  - "[[Stratified Sampling]]"
   - "[[Random Assignment]]"
   - "[[Qualitative Research]]"
+  - "[[Cluster Sampling]]"
+  - "[[Stage Sampling]]"
+  - "[[Multi-phase Sampling]]"
+  - "[[Convenience Sampling]]"
+  - "[[Quota Sampling]]"
   - "[[Purposeful Sampling]]"
+  - "[[Theoretical Sampling]]"
   - "[[Grounded Theory]]"
+  - "[[Snowball Sampling]]"
+  - "[[Dimensional Sampling]]"
+  - "[[Volunteer Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
 related_persons: []
@@ -466,7 +477,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 系统抽样
 
-> [!step] 系统抽样（Systematic Sampling）
+> [!step] [[Systematic Sampling|系统抽样]]（Systematic Sampling）
 > 简单随机抽样的变体，以系统而非随机方式从总体名单中选取。频率间隔公式：
 >
 > $$f = \frac{N}{sn}$$
@@ -481,7 +492,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 随机分层抽样
 
-> [!step] 随机分层抽样（Random Stratified Sampling）
+> [!step] [[Stratified Sampling|随机分层抽样]]（Random Stratified Sampling）
 > 两步过程：
 >
 > 1. **划分层次**：识别总体中必须在样本中出现的特征，将总体划分为同质的离散组（层，strata），如男性组和女性组。
@@ -491,7 +502,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 整群抽样
 
-> [!step] 整群抽样（Cluster Sampling）
+> [!step] [[Cluster Sampling|整群抽样]]（Cluster Sampling）
 > 当总体大且广泛分散时，简单随机抽样在行政上不可行。例如调查全国学生体能水平，随机选取学生并四处奔波测试完全不切实际。
 >
 > 整群抽样选择特定数量的学校（或地理上接近的群），测试这些学校中的所有学生。
@@ -500,7 +511,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 阶段抽样
 
-> [!step] 阶段抽样（Stage Sampling）
+> [!step] [[Stage Sampling|阶段抽样]]（Stage Sampling）
 > 整群抽样的延伸，从样本中再抽取样本。例如随机选择若干学校，从各校随机选择若干班级，从各班随机选择若干学生。
 >
 > Morrison（1993: 121–2）的实例：某研究者需向 11 所中学的所有 16 岁学生（共 2,000 名）发放问卷。由于保密问题无法获取全部学生名单，即使有名单，写出 2,000 个名字来抽签也是令人麻木的活动。从随机样本量表查得需 322 人。
@@ -514,7 +525,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 多阶段抽样
 
-> [!step] 多阶段抽样（Multi-phase Sampling）
+> [!step] [[Multi-phase Sampling|多阶段抽样]]（Multi-phase Sampling）
 > 与阶段抽样的关键区别是各阶段目的不同。
 >
 > - 阶段抽样全程贯穿单一的统一目的，如接触特定区域的特定学生群体。
@@ -530,12 +541,12 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 便利抽样
 
-> [!step] 便利抽样（Convenience Sampling）
+> [!step] [[Convenience Sampling|便利抽样]]（Convenience Sampling）
 > 亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling）。选择最近便的个体作为受访者，持续至达到所需样本量。典型场景是被俘获的受众，如学生或实习教师。不寻求对更广泛总体的推广，对便利抽样而言这是无关的。可能成为案例研究的抽样策略（p.159）。
 
 ##### 配额抽样
 
-> [!step] 配额抽样（Quota Sampling）
+> [!step] [[Quota Sampling|配额抽样]]（Quota Sampling）
 > 非概率版的[[Random Sampling|分层抽样]]，力求按总体中的比例代表显著特征。三步程序：
 >
 > 1. 识别总体中必须在样本中出现的特征，划分为同质离散组（层）。
@@ -566,13 +577,13 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > **特殊/独特个案抽样**：揭示性个案（如基要主义宗教学校、难民学校）、关键个案（如 Tripp（1993）的关键教学事件研究；Morrison（2006）以澳门为关键个案的小型国家教育研究）、政治重要个案（如 Ball（1990）对高级政治人物的访谈、Bowe 等（1992）对英国内阁部长的访谈）、完整收集抽样（如某年级所有高成就音乐天赋学生）。
 >
-> **顺序抽样**：理论抽样（[[Grounded Theory|扎根理论]]）、确认/否定个案抽样、机会抽样、滚雪球抽样。
+> **顺序抽样**：[[Theoretical Sampling|理论抽样]]（[[Grounded Theory|扎根理论]]）、确认/否定个案抽样、机会抽样、[[Snowball Sampling|滚雪球抽样]]。
 >
 > 目的性抽样涉及一种权衡：比概率抽样提供更深的深度，但提供更窄的广度（Teddlie & Yu, 2007）（pp.160–162）。
 
 ##### 维度抽样
 
-> [!step] 维度抽样（Dimensional Sampling）
+> [!step] [[Dimensional Sampling|维度抽样]]（Dimensional Sampling）
 > 配额抽样的进一步细化，识别总体中感兴趣的各种因素，获取至少一个涵盖所有因素组合的受访者。例如族裔关系研究以族裔为行、世代（第一/二/三代移民）为列构建多维表格，确保每个交叉格至少有一名受访者（p.162）。
 
 ##### 滚雪球抽样
@@ -599,7 +610,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 ##### 志愿者抽样
 
-> [!step] 志愿者抽样（Volunteer Sampling）
+> [!step] [[Volunteer Sampling|志愿者抽样]]（Volunteer Sampling）
 > 准入困难时依赖志愿者，可能是个人朋友、朋友的朋友、回应报纸广告者、对研究感兴趣的特定学校人士、或参加课程者。有时这是唯一可能的抽样方式（Morrison, 2006），可能比完全不研究更好。
 >
 > 必须极其谨慎，志愿者的动机多样：想帮助朋友、对研究本身感兴趣、想造福社会、甚至想报复某所学校或校长。志愿者可能出于善意，但不一定代表更广泛的总体，这一点必须明确说明（p.163）。

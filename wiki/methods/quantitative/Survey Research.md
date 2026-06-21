@@ -40,8 +40,11 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
+  - "[[Cluster Sampling]]"
+  - "[[Systematic Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Pilot Testing]]"
+  - "[[Convenience Sampling]]"
   - "[[Experimental Research]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
@@ -79,8 +82,8 @@ updated: 2026-05-31
 > [!abstract]
 > - **研究总体（[[Study Population and Sample|study population]]）**：研究者希望做出推论的全部人群。
 > - **研究样本（Study Sample）**：调查中实际检验的受试者子集。
-> - **抽样设计（Sampling Design）**：单[[Random Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／整群抽样（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、系统抽样（随机起点后每隔 X 人选取）或非概率／[[Non-probability Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样设计（Sampling Design）**：单[[Random Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Non-probability Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **分层（Stratification）**：在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **[[Sample Size Determination|样本量确定]]与功效分析**：样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
 
@@ -145,7 +148,7 @@ updated: 2026-05-31
 > - 是否提及总体及其规模？
 > - 总体是否会分层？如果是，如何分层？
 > - 样本中将有多少人？选择该样本量的依据是什么？
-> - 抽样程序是什么（随机、非随机、便利抽样）？
+> - 抽样程序是什么（随机、非随机、[[Convenience Sampling|便利抽样]]）？
 >
 > **工具**
 > - 调查中将使用哪些工具？对每项工具描述：开发者、条目数量、分数是否具有可接受的信度和效度、量表锚点。

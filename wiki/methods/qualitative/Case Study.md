@@ -34,6 +34,7 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Non-probability Sampling]]"
+  - "[[Theoretical Sampling]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -96,7 +97,7 @@ updated: 2026-06-01
 >
 > **目的抽样（Purpose Sampling）**：根据[[Research Question|研究问题]]和[[Analytic Framework|分析框架]]的需要有目的地选取能带来最大理论潜力的个案([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 >
-> **[[Non-probability Sampling|理论抽样]]（Theoretical Sampling）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
+> **[[Non-probability Sampling|理论抽样]]（[[Theoretical Sampling]]）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
 > - 院系/学科背景力求差异
 > - 家庭社会经济背景力求差异
 > - 内化学校主流价值观的程度力求差异

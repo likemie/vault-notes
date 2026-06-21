@@ -75,6 +75,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Stratified Sampling]]"
   - "[[Interview Protocol]]"
 related_persons: []
 related_facts: []
@@ -732,7 +733,7 @@ updated: 2026-06-21
 > |---|---|
 > | 问卷范围 | 发给所有愿意参与的员工 |
 > | 访谈策略 | 以"关键案例"为基础——对处于关键位置、了解学校活动和运作的"知识丰富人士"进行访谈 |
-> | 分层抽样 | 用于调查工具，检查对组织文化的感知如何因子样本特征而变化，使各子群体回应之间的一致性程度或断裂程度得以绘制 |
+> | [[Stratified Sampling\|分层抽样]] | 用于调查工具，检查对组织文化的感知如何因子样本特征而变化，使各子群体回应之间的一致性程度或断裂程度得以绘制 |
 > | 名义特征 | 年龄、学校层级、部门、性别、民族、国籍、在校工作年限 |
 #### 7. 参数
 

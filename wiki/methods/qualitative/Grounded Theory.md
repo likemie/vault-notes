@@ -25,6 +25,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Non-probability Sampling]]"
+  - "[[Theoretical Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
@@ -49,7 +50,7 @@ updated: 2026-05-30
 ## 研究程序
 
 > [!example]
-> - 采用[[Non-probability Sampling|理论抽样]]（theoretical sampling），根据理论发展的需要选择后续参与者或数据来源。
+> - 采用[[Non-probability Sampling|理论抽样]]（[[Theoretical Sampling]]），根据理论发展的需要选择后续参与者或数据来源。
 > - 通过开放式[[Coding in Qualitative Research|编码]]（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
 > - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。

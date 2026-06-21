@@ -32,6 +32,8 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Descriptive Methods]]"
   - "[[Non-probability Sampling]]"
+  - "[[Convenience Sampling]]"
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
@@ -115,8 +117,8 @@ Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009: 174）系统梳理了目�
 > |---|---|---|
 > | 理论抽样 | Theoretical Sampling | [[Grounded Theory\|扎根理论]]的核心方法（Glaser & Strauss, 1967）。数据收集服务于理论生成，持续至理论饱和。 |
 > | 确认／否定个案抽样 | Confirming/Disconfirming Case Sampling | 从符合和不符合典型趋势的案例中选取，以研究其原因。 |
-> | 机会抽样 | Opportunistic Sampling | 随研究发展而纳入更多个体或群体——效度和信度要求时应予纳入。 |
-> | 滚雪球抽样 | Snowball Sampling | 利用社会网络、信息提供者和联系人将研究者引介给更多个体。 |
+> | [[Convenience Sampling\|机会抽样]] | Opportunistic Sampling | 随研究发展而纳入更多个体或群体——效度和信度要求时应予纳入。 |
+> | [[Snowball Sampling\|滚雪球抽样]] | Snowball Sampling | 利用社会网络、信息提供者和联系人将研究者引介给更多个体。 |
 
 ### 饱和作为终止标准
 

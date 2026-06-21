@@ -14,12 +14,16 @@ method_related_color: "#dbeafe"
 tags:
   - method/sampling
   - qualitative-research
-related_concepts: []
+related_concepts:
+  - "[[Sample Size Determination]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quota Sampling]]"
+  - "[[Non-probability Sampling]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
 status: draft
 created: 2026-06-22
@@ -52,16 +56,16 @@ updated: 2026-06-22
 
 > [!method-fit] 适用判断
 > - **适合使用**：研究涉及多个交叉维度且需要确保所有组合均有覆盖。
-> - **谨慎使用**：维度过多时交叉格数量爆炸——维度抽样与配额抽样一样受层数膨胀约束。
+> - **谨慎使用**：维度过多时交叉格数量爆炸——维度抽样与[[Non-probability Sampling|配额抽样]]一样受层数膨胀约束。
 > - **不适合使用**：只需关注单一维度或少数特征时——[[Quota Sampling|配额抽样]]更简洁。
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **维度膨胀**：维度数增加导致交叉格呈几何增长，所需样本量迅速膨胀。
+> - **维度膨胀**：维度数增加导致交叉格呈几何增长，所需[[Sample Size Determination|样本量]]迅速膨胀。
 > - **最低覆盖的局限**：每格仅一名受访者只能提供最低限度的信息，不足以进行格内比较。
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为配额抽样的细化方法。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为[[Non-probability Sampling|配额抽样]]的细化方法。
