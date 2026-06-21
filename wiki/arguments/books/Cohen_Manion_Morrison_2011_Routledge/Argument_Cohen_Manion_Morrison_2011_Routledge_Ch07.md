@@ -10,9 +10,9 @@ publication_type: book-chapter
 title: "Research Methods in Education · Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Construct]]"
   - "[[Research Scope]]"
+  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
@@ -281,9 +282,6 @@ updated: 2026-06-21
 > | 验证和确证数据 |
 > | 报告和撰写研究 |
 
-> [!example]- 图7.B1：研究设计的可能考虑序列
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_7-B1_Sequence_of_Consideration.jpg)
-
 这25个要素可归入四个主要领域（Morrison, 1993）：
 
 > [!feature] 研究规划四领域
@@ -330,7 +328,7 @@ updated: 2026-06-21
 > | 典型研究类型 | 量化研究（如调查方法）——需要确定问卷项目、撰写和试点问卷、做最终调整 | 质性研究（如民族志）——研究者可能没有特定研究问题，希望进入情境后随时间发现关键动态 |
 
 > [!case] 后载型案例一：Turnbull (1972) *The Mountain People*
-> 对乌干达东北部 Ik 部落的长期田野调查。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体研究假设——他本意是记录一个"濒危文化"，却在长期参与观察中目睹了饥饿如何系统性地瓦解社会纽带：父母抛弃无力自理的子女、年轻人抢夺老人的食物、邻里互不援助。他将这一过程描述为"令人不齿的人性堕落"，并提出了一个至今引发人类学争议的判断：极端匮乏可以摧毁道德本身。这项研究的核心发现——Ik 社会崩溃的动力机制——完全是在田野过程中**涌现**的，而非从预设问题出发。这正是后载型研究的标志性特征（p.125）。
+> 对乌干达东北部 Ik 部落的长期田野调查。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体[[Hypothesis|研究假设]]——他本意是记录一个"濒危文化"，却在长期参与观察中目睹了饥饿如何系统性地瓦解社会纽带：父母抛弃无力自理的子女、年轻人抢夺老人的食物、邻里互不援助。他将这一过程描述为"令人不齿的人性堕落"，并提出了一个至今引发人类学争议的判断：极端匮乏可以摧毁道德本身。这项研究的核心发现——Ik 社会崩溃的动力机制——完全是在田野过程中**涌现**的，而非从预设问题出发。这正是后载型研究的标志性特征（p.125）。
 
 > [!case] 后载型案例二：Willis (1977) *Learning to Labour*
 > 对英国一所工人阶级社区中学里12名男生的长期民族志研究，核心关切是"工人阶级孩子如何得到工人阶级工作"——以及为什么是他们自己"让"这一切发生。Willis 通过深入课堂、走廊、操场和校外空间，追踪这群自称为"lads"的男孩如何发展出一套反学校文化：抵制教师权威、蔑视脑力劳动、推崇阳刚气概和"来真的"（real work）的工人阶级认同。然而他的关键发现是：这种文化反抗的**意外后果**恰恰是将他们锁定在工人阶级位置——拒斥学历使他们失去向上流动的可能，而反权威的姿态又使他们"自愿地"接受工厂车间里的底层体力劳动。Willis 进入田野前仅有方向性关切（class reproduction），具体的研究问题和解释机制是在田野过程中逐渐澄清的，同样体现了后载型的涌现特征（p.125）。
@@ -340,9 +338,6 @@ updated: 2026-06-21
 > - **示例一（顺序整合）** 第一阶段质性、第二阶段量化，仅在最后阶段整合
 > - **示例二（平行运行）** 量化和质性前两阶段并行，最后阶段合并
 > - **示例三（合成式）** 混合方法从一开始就结合——综合——量化和质性
-
-> [!example]- 表7.2：三种混合方法数据收集时间规划
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-2_Mixed_Methods_Time_Frames.jpg)
 
 ---
 
@@ -529,7 +524,7 @@ updated: 2026-06-21
 
 ##### H₀ 与 H₁ 的正式陈述
 
-> [!contrast-table] 零假设 vs 备择假设
+> [!contrast-table] [[Null Hypothesis|零假设]] vs [[Alternative Hypothesis|备择假设]]
 > | 维度 | [[Null Hypothesis\|零假设]]（H₀） | [[Alternative Hypothesis\|备择假设]]（H₁） |
 > |---|---|---|
 > | 核心陈述 | 变量间**没有**关系，或组间**没有**显著差异 | 变量间**存在**关系，或组间**存在**显著差异 |
@@ -548,10 +543,6 @@ updated: 2026-06-21
 > | 示例 | 调查、实验、深度民族志、行动研究、案例研究、测试与评估 | 访谈、问卷、观察、测试、叙述、角色扮演、模拟、个人构念 |
 > | 决策逻辑 | 先决定采取什么方法论 | 然后选择适合该方法论的具体工具 |
 
-> [!example]- 表7.3：研究风格的要素（页1–2）
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-3_Elements_of_Research_Styles_p1.jpg)
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-3_Elements_of_Research_Styles_p2.jpg)
-
 ---
 
 ### 7.9 数据分析
@@ -564,20 +555,22 @@ updated: 2026-06-21
 > | 数据处理与分析 | 数据收集后需要做什么——如何处理和分析数据？ |
 > | 验证与交叉检查 | 分析结果如何被验证、交叉检查和确证？ |
 
-> [!example]- 13种质性数据分析技术
-> 1. 田野笔记的**[[Coding in Qualitative Research|编码]]和内容分析**（Miles and Huberman, 1984）
-> 2. **认知地图**（Jones, 1987; Morrison, 1993）
-> 3. 寻找**回应模式**
-> 4. 寻找**因果路径和连接**（Miles and Huberman, 1984）
-> 5. 呈现**跨场域分析**（Miles and Huberman, 1984）
-> 6. **案例研究**
-> 7. **个人构念**
-> 8. **叙事叙述**
-> 9. **行动研究分析**
-> 10. **分析归纳**（Denzin, 1970）
-> 11. **持续比较和扎根理论**（Glaser and Strauss, 1967）
-> 12. **话语分析**（Stillar, 1998）
-> 13. **传记和生命史**（Atkinson, 1998）
+> [!seq-table]- 13种质性数据分析技术
+> | 技术 |
+> |---|
+> | 田野笔记的**[[Coding in Qualitative Research\|编码]]和内容分析**（Miles and Huberman, 1984） |
+> | **认知地图**（Jones, 1987; Morrison, 1993） |
+> | 寻找**回应模式** |
+> | 寻找**因果路径和连接**（Miles and Huberman, 1984） |
+> | 呈现**跨场域分析**（Miles and Huberman, 1984） |
+> | **案例研究** |
+> | **个人构念** |
+> | **叙事叙述** |
+> | **行动研究分析** |
+> | **分析归纳**（Denzin, 1970） |
+> | **持续比较和扎根理论**（Glaser and Strauss, 1967） |
+> | **话语分析**（Stillar, 1998） |
+> | **传记和生命史**（Atkinson, 1998） |
 
 > [!warning] 选择标准
 > 决定采取哪种分析形式受**目的适切性**和**合法性**支配——分析形式必须适合数据。例如，对定类数据使用均值是不合适的（p.142）。
@@ -601,13 +594,6 @@ updated: 2026-06-21
 ### 7.11 研究规划矩阵
 
 表 7.4 提供了一个规划矩阵，左列为前述四领域中的30个问题（pp.143–146）：
-
-> [!example]- 表7.4：研究规划矩阵（页1–5）
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-4_Planning_Matrix_p1.jpg)
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-4_Planning_Matrix_p2.jpg)
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-4_Planning_Matrix_p3.jpg)
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-4_Planning_Matrix_p4.jpg)
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-4_Planning_Matrix_p5.jpg)
 
 > [!info] 矩阵结构
 > | 问题编号 | 领域 | 核心关切 |
@@ -656,12 +642,7 @@ updated: 2026-06-21
 
 #### 工具 × 群体 × 阶段矩阵
 
-表 7.5 提供规划矩阵使规划者一目了然看到对样本和工具的覆盖情况（pp.148–149）：
-
-> [!example]- 表7.5：研究规划矩阵（工具 × 群体 × 阶段）
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_7-5_Planning_Matrix_for_Research.jpg)
-
-矩阵方法能暴露遗漏并促使追问——为什么某些工具在特定时间使用而在其他时间不使用？为什么某些群体涉及更多工具？为什么某些群体被明显忽略（是否存在政治维度）？还可构建其他矩阵：报告 × 受众、工具 × 参与者等（pp.149–150）。
+表 7.5 提供规划矩阵使规划者一目了然看到对样本和工具的覆盖情况（pp.148–149）。矩阵方法能暴露遗漏并促使追问——为什么某些工具在特定时间使用而在其他时间不使用？为什么某些群体涉及更多工具？为什么某些群体被明显忽略（是否存在政治维度）？还可构建其他矩阵：报告 × 受众、工具 × 参与者等（pp.149–150）。
 
 ---
 
@@ -867,11 +848,6 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 > - **经济维度（Economic dimension）** — (a) "成本效益"；(b) "可市场化"和"竞争力"；(c) "可审计性"；(d) "可行性"；(e) "原创性"；(f) "价值效率"
 
 本章和第6章已经指示了如何在研究规划中处理这些维度（p.158）。
-
-> [!example]- 配套网站
-> > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_7-Common_Companion_Website.jpg)
->
-> 配套网站（www.routledge.com/textbooks/cohen7e）包含本章 PowerPoint 幻灯片、研究方案内容指南、简明研究方案工作示例和研究评估检查清单。
 
 ---
 

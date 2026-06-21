@@ -31,7 +31,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]]"
+  - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
@@ -132,4 +132,3 @@ updated: 2026-05-22
 > [!example] 相关案例／政策
 > - [[Structured Teaching]] — 瑞典案例把反馈放回课堂组织之中，强调它和目标清晰、理解检查、[[Classroom Management|课堂管理]]连在一起。
 > - [[Visible Learning]] — 反馈在 VL 中被持续塑造成高影响力因素，但其数据基础和概念边界也因此成为批评焦点。
-
