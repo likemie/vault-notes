@@ -11530,6 +11530,23 @@
   animation: factor-badge-pulse-hover 0.9s ease-in-out infinite;
 }
 
+/* 徽章连接线：非最后一项在底部延伸一条渐变线，串联 F1→F2→F3 */
+.callout[data-callout="factors"] .callout-content ol > li:not(:last-child)::after,
+.callout[data-callout="factors"] .callout-content ul > li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  left: calc(0.58rem + 0.81rem - 1px); /* 徽章水平中心 */
+  bottom: -0.48rem;                     /* 伸入卡片间距 */
+  width: 2px;
+  height: 0.48rem;
+  background: linear-gradient(to bottom, rgba(190, 130, 35, 0.50), rgba(190, 130, 35, 0.04));
+  border-radius: 1px;
+}
+.theme-dark .callout[data-callout="factors"] .callout-content ol > li:not(:last-child)::after,
+.theme-dark .callout[data-callout="factors"] .callout-content ul > li:not(:last-child)::after {
+  background: linear-gradient(to bottom, rgba(215, 158, 48, 0.60), rgba(215, 158, 48, 0.04));
+}
+
 /* 因素名（strong 首行）→ 块级标题 */
 .callout[data-callout="factors"] .callout-content li > p:first-child > strong:first-child,
 .callout[data-callout="factors"] .callout-content li > strong:first-child {

@@ -120,7 +120,7 @@ updated: 2026-06-21
 
 ---
 
-> [!feature] 抽样的五项关键决策因素
+> [!factors] 抽样的五项关键决策因素
 >
 > 研究者在决定抽样策略时必须就以下五项因素做出判断（pp.143–144）：
 >
@@ -142,10 +142,13 @@ updated: 2026-06-21
 #### 定量研究的经验法则与统计要求
 
 > [!chain-link] 从"30规则"到统计方法约束
-> - **30 规则**：若计划使用某种形式的统计分析，30 是许多研究者公认的最小案例数。但这非常小，作者明确建议远超此数（p.144）。
-> - **每变量 30 案例**：作为经验法则，每个变量至少需保证 30 个案例。需注意 30 个案例是最低估计，变量一的 30 个案例可能与变量二的是同一批人（p.144）。
+> - **30 规则**：若计划使用某种形式的统计分析，30 是许多研究者公认的**总样本量**最小案例数，但这非常小，作者明确建议远超此数（p.144）。
+> - **每变量 30 案例**：每个变量至少需保证 30 个案例，作为经验法则，这也是一个很低的估计（p.144）。
 > - **子组使样本量迅速膨胀**：一旦需要按子组（strata）分析，样本量要求会急剧上升。
 > - **不同统计方法有不同要求**：[[Chi-Squared Test|卡方检验]]、[[Multiple Regression|多元回归]]、因子分析各有其最低样本门槛。研究者在收集数据之前就必须提前思考希望探索的子组关系、计划控制的变量数量以及要使用的统计检验类型（p.144）。
+>
+> > [!note] 30 规则 vs 每变量 30 案例
+> > 两者容易混淆：30 规则设的是总样本底线，不管几个变量，样本至少 30 人；每变量 30 案例设的是分析门槛，计划分析多少个变量，每个需 30 条数据。但变量一的 30 条数据可以和变量二的来自同一批人，所以总样本量不等于 $30 \times \text{变量数}$。
 
 ---
 
@@ -203,7 +206,7 @@ updated: 2026-06-21
 
 ---
 
-> [!chain-link] 置信水平与置信区间：精确度的双重控制
+> [!chain-link] 置信水平与[[Confidence Interval|置信区间]]：精确度的双重控制
 > - **置信水平**（Confidence Level），即"我有多确信"：通常以百分比表示（95% 或 99%），是对回应落在给定变异范围内的确信程度指标。95% 置信水平意味着 95% 的情况下结果落在指定范围内。
 > - **置信区间**（Confidence Interval），即"我能容忍多大的波动"：希望确保的变异范围（如 $\pm 1\%$、$\pm 2\%$、$\pm 3\%$）。例如民调中 $\pm 3\%$ 意味着若某党获 52% 选票，实际可能在 49%–55% 之间。
 > - **两者之间的权衡**：置信水平越高（如 99% vs 95%），样本量越大；置信区间越小（如 $\pm 3\%$ vs $\pm 5\%$），样本量越大。
@@ -303,7 +306,7 @@ Borg & Gall（1979: 201）还提出了一种"逆向使用"相关系数显著性�
 
 ---
 
-**均值的标准误**（Standard Error of the Mean, SEM）是抽样误差的基本度量，即抽样分布的标准差：
+**均值的标准误**（Standard Error of the Mean, [[Causal Modeling|SEM]]）是抽样误差的基本度量，即抽样分布的标准差：
 
 $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
@@ -726,12 +729,12 @@ Teddlie & Tashakkori（2009: 186–7）还推荐了两种混合变体：
 >
 > *Experienced researchers start with the total population and work down to the sample. By contrast, less experienced researchers often work from the bottom up, that is, they determine the minimum number of respondents needed to conduct the research.* (Ch. 8, p. 143)
 
-> [!citation-card]- 样本量与统计功效
+> [!citation-card]- [[Sample Size Determination|样本量]]与统计功效
 > 功效是对你所使用的检验将[[Effect Size|效应量]]与随机变异区分开来之能力的估计。大样本帮助研究者实现统计功效。（第8章，p.152）
 >
 > *Power is an estimate of the ability of the test you are using to separate the effect size from random variation.* (Ch. 8, p. 152)
 
-> [!citation-card]- 抽样误差的本质
+> [!citation-card]- [[Sampling Error|抽样误差]]的本质
 > 抽样误差不一定是抽样程序错误的结果。更确切地说，变异可能源于对不同个体的随机选择。（第8章，p.149）
 >
 > *Sampling error is not necessarily the result of mistakes made in sampling procedures. Rather, variations may occur due to the chance selection of different individuals.* (Ch. 8, p. 149)
