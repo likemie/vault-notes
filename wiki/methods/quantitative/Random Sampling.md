@@ -11,16 +11,32 @@ aliases:
 summary: "从总体中按均等概率选取样本的抽样策略家族，每个个体有均等概率被选中，包括简单随机抽样、系统抽样、随机分层抽样、整群抽样、阶段抽样和多阶段抽样，目的是提升样本代表性并支持统计推论"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 tags:
   - method/sampling
   - quantitative-research
   - survey
-related_concepts: []
+related_concepts:
+  - "[[External Validity]]"
+  - "[[Causality]]"
+  - "[[Internal Validity]]"
+  - "[[Response Bias]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Sampling]]"
+  - "[[Stratified Sampling]]"
+  - "[[Cluster Sampling]]"
+  - "[[Stage Sampling]]"
+  - "[[Multi-phase Sampling]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -54,7 +70,7 @@ updated: 2026-06-22
 
 ## 概念辨析
 
-> [!contrast-table] 随机抽样 vs 随机分配
+> [!contrast-table] 随机抽样 vs [[Random Assignment|随机分配]]
 > | 维度 | 随机抽样（Random Sampling） | [[Random Assignment\|随机分配]]（Random Assignment） |
 > |---|---|---|
 > | 问题 | **谁**进入样本 | 已入样本的人**如何**分配到各条件 |
@@ -73,7 +89,7 @@ updated: 2026-06-22
 > [!method-limits] 方法局限
 > - **抽样框依赖**：完整总体名单往往不可行或成本极高。
 > - **回应率偏差**：即使抽样随机，低回应率可能导致最终样本丧失随机性（[[Response Bias\|回应偏差]]）。
-> - **行政管理成本**：简单随机抽样在总体大且分散时行政上不可行，需借助[[Cluster Sampling\|整群]]或[[Stage Sampling\|阶段抽样]]。
+> - **行政管理成本**：简单随机抽样在总体大且分散时行政上不可行，需借助整群或[[Stage Sampling\|阶段抽样]]。
 > - **子类型各有局限**：详见各子类型条目（周期性、层数膨胀、群内同质性、规模假定等）。
 
 ## 使用此方法的研究

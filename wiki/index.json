@@ -4430,7 +4430,9 @@
     "path": "wiki/concepts/research-methodology/Confidence Interval.md",
     "aliases": [
       "置信区间",
-      "CI"
+      "CI",
+      "confidence level",
+      "置信水平"
     ]
   },
   {
@@ -7351,15 +7353,7 @@
       "非概率抽样",
       "非随机抽样",
       "non-probability sample",
-      "nonprobability sampling",
-      "purposive sample",
-      "convenience sampling",
-      "quota sampling",
-      "snowball sampling",
-      "便利抽样",
-      "配额抽样",
-      "滚雪球抽样",
-      "理论抽样"
+      "nonprobability sampling"
     ]
   },
   {
@@ -8185,16 +8179,7 @@
       "random sample",
       "随机样本",
       "simple random sampling",
-      "简单随机抽样",
-      "systematic sampling",
-      "系统抽样",
-      "stratified sampling",
-      "分层抽样",
-      "cluster sampling",
-      "整群抽样",
-      "stage sampling",
-      "阶段抽样",
-      "multi-phase sampling"
+      "简单随机抽样"
     ]
   },
   {

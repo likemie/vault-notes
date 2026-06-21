@@ -107,7 +107,7 @@ updated: '2026-06-22'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **导师与合作者**：根据维基百科的记载，他师从哥廷根的精神科学教育学代表 Erich Weniger，并在波恩受教于 Theodor Litt，哲学上受到现象学与人学代表 Helmuth Plessner 的熏陶。
+> - **导师与合作者**：师从哥廷根的精神科学教育学代表 Erich Weniger，并在波恩受教于 Theodor Litt，哲学上受到现象学与人学代表 Helmuth Plessner 的熏陶。
 > - **同侪与对话者**：Klaus Mollenhauer、Wolfgang Kramp、Herwig Blankertz。他们同为 Erich Weniger 门下的 Kommilitonen（同学），共同塑造了德国二战后至70年代的教学论和教育学话语转向。
 > - **学生与后继者**：
 >   - Hans Christoph Berg — 学术关系：Klafki 从1990年代起长期支持并积极参与其同僚 Berg 推动的“教学艺术（Lehrkunst）”设计，并担任其二导师。
