@@ -1,26 +1,26 @@
 ---
 authors:
-  - "Schaffar, B."
-  - "Wolff, L.-A."
-summary: "历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）的现象学、德语区教化/教学论传统及建构主义心理学根源，揭示整体性教育潜能与新自由主义可测量性及技能原子化政策之间的内在张力。"
+  - Schaffar, B.
+  - Wolff, L.-A.
+summary: 历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）的现象学、德语区教化/教学论传统及建构主义心理学根源，揭示整体性教育潜能与新自由主义可测量性及技能原子化政策之间的内在张力。
 type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
-argument_key: "Argument_Schaffar_2024_CogentEdu"
+argument_key: Argument_Schaffar_2024_CogentEdu
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
-argument_kind: "journal-article"
+argument_kind: journal-article
 argument_related_count: 24
 argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_stars: ⭐
 argument_related_color: "#dbeafe"
-journal: "Cogent Education"
+journal: Cogent Education
 citation: "Schaffar, B., & Wolff, L.-A. (2024). Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots. Cogent Education, 11(1), 2309733. https://doi.org/10.1080/2331186X.2024.2309733"
 year: 2024
-doi: "10.1080/2331186X.2024.2309733"
+doi: 10.1080/2331186X.2024.2309733
 citation_aliases:
-  - "Schaffar & Wolff, 2024"
-  - "Schaffar & Wolff (2024)"
+  - Schaffar & Wolff, 2024
+  - Schaffar & Wolff (2024)
 tags:
   - phenomenon-based-learning
   - bildung
@@ -28,7 +28,6 @@ tags:
   - region/finland
   - stance/critique
 related_concepts:
-  - "[[Research Question]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
@@ -59,10 +58,10 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Schaffar_2024_CogentEdu]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-06'
-updated: '2026-06-21'
+created: 2026-05-06
+updated: 2026-06-21
 ---
 ## 研究问题
 

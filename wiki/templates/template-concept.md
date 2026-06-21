@@ -89,13 +89,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!concept-lens] <命题类型归纳标题>
 > 说明这类命题围绕什么核心问题展开，各学者的共同倾向在哪里。
 
-> [!claim] <作者名>
+> [!claim] <Lastname, I.>
 > 学者 A 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] <作者名>
+> [!claim] <Lastname, I.>
 > 学者 B 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] <作者名>
+> [!claim] <Lastname, I.>
 > 学者 C 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
@@ -107,10 +107,10 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!concept-lens] <命题类型归纳标题>
 > 说明这类命题的核心问题与共同倾向。
 
-> [!claim] <作者名>
+> [!claim] <Lastname, I.>
 > 学者 D 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!claim] <作者名>
+> [!claim] <Lastname, I.>
 > 学者 E 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
