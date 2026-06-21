@@ -106,116 +106,6 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 互联网是大量无序且大多未经审查的材料库，研究者需要通过试错和偶然发现来寻找信息，单独或组合使用关键词（放在引号内）。书签系统能实现网站的快速检索以备将来参考——考虑到某些互联网连接速度慢且网上大量材料毫无帮助，这几乎是必要的（p.131）。
 
-#### 网络资源类别
-
-Cohen et al. 按功能列出了大量教育研究相关网站（pp.129–131），以下按原书分类整理：
-
-> [!col1-table]- 研究协会网站
-> | 组织 | 网址 |
-> |---|---|
-> | AERA（American Educational Research Association） | www.aera.net |
-> | ERIC（Educators' Reference Desk） | www.eduref.org |
-> | ACER（Australian Council for Educational Research） | www.acer.edu.au |
-> | BERA（British Educational Research Association） | www.bera.ac.uk |
-> | SCRE（Scottish Council for Research in Education） | scre.ac.uk |
-> | EERA（European Educational Research Association） | www.eera.ac.uk |
-> | CEM（Curriculum Evaluation and Management Centre） | www.cem.dur.ac.uk |
-> | NFER（National Foundation for Educational Research, UK） | www.nfer.ac.uk |
-> | HKERA（Hong Kong Educational Research Association） | www.fed.cuhk.edu.hk/~hkera |
-> | WERA（Washington Educational Research Association） | www.wera-web.org |
-> | MSERA（mid-South Educational Research Association, USA） | www.msstate.edu/org/msera |
-> | ESRC（Economic and Social Research Council, UK） | www.esrc.ac.uk |
-
-> [!col1-table]- 期刊索引与参考文献网站
-> | 资源 | 网址 |
-> |---|---|
-> | British Education Index | www.leeds.ac.uk/bei |
-> | Sage Publications | www.sagepub.co.uk |
-> | Intute（多源信息数据库） | www.intute.ac.uk |
-> | Taylor & Francis Journals | www.tandf.co.uk/journals |
-> | Educational Research Abstracts Online | www.tandf.co.uk/era |
-> | BUBL（UK 高等教育信息服务） | bubl.ac.uk |
-> | SOSIG（Social Science Information Gateway） | www.sosig.ac.uk |
-> | Web of Science（含 SSCI, SCI, AHCI） | wos.mimas.ac.uk |
-
-> [!col1-table]- 政府与统计网站
-> | 资源 | 网址 |
-> |---|---|
-> | UK National Statistics | www.statistics.gov.uk |
-> | UK Department for Children, Schools and Families | www.dcsf.gov.uk |
-> | UK Higher Education Statistics Agency | www.hesa.ac.uk |
-> | UK Government Social Research | www.civilservice.gov.uk/.../gsr |
-> | Survey Question Bank（ESRC） | surveynet.ac.uk/sqb |
-> | UK Economic and Social Data Service | www.esds.ac.uk |
-> | UK Data Archive | www.data-archive.ac.uk |
-> | UNESCO | www.unesco.org |
-> | [[OECD]] Education | www.oecd.org/education |
-> | Council of Europe Education | www.coe.int |
-> | CESSDA（European Social Science Data Archive） | www.cessda.org |
-> | European Union Gateway | europa.eu |
-> | US National Center for Educational Statistics | nces.ed.gov |
-> | World Bank | worldbank.org |
-
-> [!col1-table]- 图书馆检索网站
-> | 资源 | 网址 |
-> |---|---|
-> | US Library of Congress | www.loc.gov |
-> | Gateway to US Libraries | www.lcweb.loc.gov/z3950 |
-> | Library Index（链接 18,000 所图书馆） | www.libdex.com |
-> | COPAC（检索 UK 主要图书馆） | www.copac.ac.uk |
-> | British Library Integrated Catalogue | catalogue.bl.uk |
-> | Virtual Library | vlib.org |
-> | Books in Print | www.booksinprint.com |
-> | Bibliofind（旧书与绝版书） | www.bibliofind.com |
-> | Lights（链接 6,000 家出版商） | www.lights.com |
-
-> [!col1-table]- 在线期刊提供商
-> | 提供商 | 网址 |
-> |---|---|
-> | BIDS | www.bids.ac.uk |
-> | EBSCO | www.ebsco.com |
-> | Elsevier | www.elsevier.com |
-> | Emerald | www.emeraldinsight.com |
-> | FirstSearch | www.oclc.org |
-> | Ingenta | www.ingenta.com |
-> | JSTOR | www.jstor.org |
-> | Kluweronline | www.kluweronline.com |
-> | ProQuest | www.proquest.com |
-> | ProQuest Digital Dissertations and Theses | www.proquest.com/.../pqdt.shtml |
-> | Science Direct | www.sciencedirect.com |
-> | Swets | www.swets.com |
-> | Web of Science (Web of Knowledge) | wok.mimas.ac.uk |
-> | Aslib Index to Theses | www.theses.com |
-> | Networked Digital Library of Theses and Dissertations | www.ndltd.org/find |
-
-> [!col1-table]- 搜索引擎
-> | 引擎 | 网址 |
-> |---|---|
-> | Google | www.google.com |
-> | Google Scholar | scholar.google.com |
-> | Yahoo | www.yahoo.com |
-> | AltaVista | www.altavista.com |
-> | Ask Jeeves | www.askjeeves.com |
-> | Excite | www.Excite.com |
-> | Fast Search | www.alltheweb.com |
-> | HotBot | www.hotbot.com |
-> | Lycos | www.Lycos.com |
-> | Metacrawler | www.metacrawler.com |
-> | MSN Search | www.msn.com |
-> | Northern Light | www.northernlight.com |
-> | AOL Search | www.search.aol.com |
-> | Direct Hit | www.directhit.com |
-> | Go To | www.goto.com |
-
-> [!col1-table]- 其他实用网站
-> | 资源 | 网址 |
-> |---|---|
-> | National Academies Press | www.nap.edu |
-> | Education Index | www.educationindex.com |
-> | Internet Public Library / Librarians' Internet Index | www.ipl.org |
-> | North Central Regional Educational Laboratories | www.ncrel.org |
-> | Southwest Educational Development Laboratory | www.sedl.org |
-
 #### 检索操作符
 
 > [!tip] 四个检索操作符
@@ -250,9 +140,8 @@ Cohen et al. 按功能列出了大量教育研究相关网站（pp.129–131）�
 > | **二手来源** | 第二手材料（百科全书、词典、报纸文章、评论、文摘、教材、研究综合、[[Meta-analysis\|元分析]]、研究综述、历史、杂志文章、传记、专著、评论著作等） |
 > | **三手来源** | 一手和二手来源的蒸馏或汇编（年鉴、书目、目录、词典、百科全书、事实书、指南、索引、文摘、手册、年表等） |
 
+---
 #### 主要学术数据库
-
-Creswell 介绍了主要学术数据库及其特征（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 > [!index-table] 主要学术数据库
 > | 数据库 | 特征 |
@@ -266,6 +155,69 @@ Creswell 介绍了主要学术数据库及其特征（[[Argument_Creswell_2022_S
 > | [DOAJ](https://doaj.org) | 专门的开放获取学术数据库，超过 700 万篇文章和 17,500 种期刊，全部可免费访问 |
 
 数据库选择遵循几条隐含原则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：同时使用免费和机构订阅资源以扩大覆盖面；跨学科搜索而非局限于本领域；优先使用提供全文访问的数据库以减少获取时间。
+
+#### 网络资源
+
+> [!index-table] 研究协会网站
+> | 组织 | 说明 |
+> |---|---|
+> | [AERA](https://www.aera.net) | 美国教育研究协会（American Educational Research Association），美国最大的教育研究学术组织 |
+> | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会（Australian Council for Educational Research） |
+> | [BERA](https://www.bera.ac.uk) | 英国教育研究协会（British Educational Research Association） |
+> | [SCRE](http://scre.ac.uk) | 苏格兰教育研究理事会（Scottish Council for Research in Education） |
+> | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会（European Educational Research Association） |
+> | [CEM](https://www.cem.dur.ac.uk) | 课程评估与管理中心（Curriculum Evaluation and Management Centre），全球最大的教育监测中心之一 |
+> | [NFER](https://www.nfer.ac.uk) | 英国国家教育研究基金会（National Foundation for Educational Research） |
+> | [HKERA](https://www.fed.cuhk.edu.hk/~hkera) | 香港教育研究协会（Hong Kong Educational Research Association） |
+> | [WERA](https://www.wera-web.org) | 华盛顿教育研究协会（Washington Educational Research Association） |
+> | [MSERA](https://www.msstate.edu/org/msera) | 美国中南部教育研究协会（mid-South Educational Research Association） |
+> | [ESRC](https://www.esrc.ac.uk) | 经济与社会研究理事会（Economic and Social Research Council），UK |
+
+> [!index-table] 期刊索引与参考文献
+> | 资源 | 说明 |
+> |---|---|
+> | [British Education Index](https://www.leeds.ac.uk/bei) | 英国教育索引（British Education Index） |
+> | [Sage Publications](https://www.sagepub.co.uk) | 国际知名学术出版商 |
+> | [Taylor & Francis Journals](https://www.tandf.co.uk/journals) | 学术期刊平台 |
+> | [Educational Research Abstracts Online](https://www.tandf.co.uk/era) | 教育研究摘要推送服务（Educational Research Abstracts Online） |
+
+> [!index-table] 政府与统计网站
+> | 资源 | 说明 |
+> |---|---|
+> | [UK National Statistics](https://www.statistics.gov.uk) | 英国国家统计主页（UK National Statistics） |
+> | [UK Data Archive](https://www.data-archive.ac.uk) | 英国数据档案（UK Data Archive） |
+> | [UNESCO](https://www.unesco.org) | 联合国教科文组织 |
+> | [OECD Education](https://www.oecd.org/education) | 经合组织教育统计数据库 |
+> | [Council of Europe Education](https://www.coe.int) | 欧洲委员会教育主页 |
+> | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案理事会（Council of European Social Science Data Archive） |
+> | [EU Gateway](http://europa.eu) | 欧盟门户 |
+> | [NCES](http://nces.ed.gov) | 美国国家教育统计中心（National Center for Educational Statistics） |
+> | [World Bank](http://worldbank.org) | 世界银行数据与统计 |
+
+> [!index-table] 图书馆检索
+> | 资源 | 说明 |
+> |---|---|
+> | [Library of Congress](https://www.loc.gov) | 美国国会图书馆（Library of Congress） |
+> | [COPAC](https://www.copac.ac.uk) | 英国大学图书馆联合目录（COPAC） |
+> | [British Library](http://catalogue.bl.uk) | 大英图书馆集成目录（British Library Integrated Catalogue） |
+> | [Virtual Library](http://vlib.org) | 在线虚拟图书馆（Virtual Library） |
+> | [Books in Print](https://www.booksinprint.com) | 在版图书综合目录（Books in Print） |
+> | [Bibliofind](https://www.bibliofind.com) | 旧书与绝版书检索 |
+> | [Lights](https://www.lights.com) | 链接约 6,000 家出版商 |
+
+> [!index-table] 在线期刊提供商
+> | 提供商 | 说明 |
+> |---|---|
+> | [Elsevier](https://www.elsevier.com) | 全球最大的科学、技术和医学文献出版商之一 |
+> | [Emerald](https://www.emeraldinsight.com) | 管理学与社会科学期刊平台 |
+> | [Aslib Index to Theses](https://www.theses.com) | 英国学位论文索引（Aslib Index to Theses） |
+> | [NDLTD](https://www.ndltd.org/find) | 网络化学位论文数字图书馆（Networked Digital Library of Theses and Dissertations） |
+
+> [!index-table] 搜索引擎
+> | 引擎 | 说明 |
+> |---|---|
+> | [Google](https://www.google.com) | 通用搜索引擎 |
+> | [Perplexity](https://www.perplexity.ai) | AI 驱动的学术搜索与问答引擎 |
 
 ---
 
