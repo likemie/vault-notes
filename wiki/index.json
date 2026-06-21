@@ -7373,6 +7373,15 @@
     ]
   },
   {
+    "title": "Quota Sampling",
+    "type": "method",
+    "path": "wiki/methods/mixed/Quota Sampling.md",
+    "aliases": [
+      "配额抽样",
+      "quota sample"
+    ]
+  },
+  {
     "title": "Archival Correspondence Analysis",
     "type": "method",
     "path": "wiki/methods/qualitative/Archival Correspondence Analysis.md",
@@ -7458,6 +7467,19 @@
     ]
   },
   {
+    "title": "Convenience Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Convenience Sampling.md",
+    "aliases": [
+      "便利抽样",
+      "convenience sample",
+      "机会抽样",
+      "opportunity sampling",
+      "偶遇抽样",
+      "accidental sampling"
+    ]
+  },
+  {
     "title": "Critical Companion",
     "type": "method",
     "path": "wiki/methods/qualitative/Critical Companion.md",
@@ -7476,6 +7498,15 @@
       "质性描述性分析",
       "descriptive qualitative analysis",
       "foundational method"
+    ]
+  },
+  {
+    "title": "Dimensional Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Dimensional Sampling.md",
+    "aliases": [
+      "维度抽样",
+      "dimensional sample"
     ]
   },
   {
@@ -7686,12 +7717,34 @@
     ]
   },
   {
+    "title": "Snowball Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Snowball Sampling.md",
+    "aliases": [
+      "滚雪球抽样",
+      "snowball sample",
+      "链式转介法",
+      "chain-referral sampling",
+      "受访者驱动抽样",
+      "respondent-driven sampling"
+    ]
+  },
+  {
     "title": "Systematic Review",
     "type": "method",
     "path": "wiki/methods/qualitative/Systematic Review.md",
     "aliases": [
       "系统综述",
       "系统性综述"
+    ]
+  },
+  {
+    "title": "Theoretical Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Theoretical Sampling.md",
+    "aliases": [
+      "理论抽样",
+      "theoretical sample"
     ]
   },
   {
@@ -7712,6 +7765,15 @@
     "aliases": [
       "伞状综述",
       "概括性综述"
+    ]
+  },
+  {
+    "title": "Volunteer Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Volunteer Sampling.md",
+    "aliases": [
+      "志愿者抽样",
+      "volunteer sample"
     ]
   },
   {
@@ -7798,6 +7860,15 @@
       "集群随机试验",
       "集群随机对照试验",
       "CRT"
+    ]
+  },
+  {
+    "title": "Cluster Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cluster Sampling.md",
+    "aliases": [
+      "整群抽样",
+      "cluster sample"
     ]
   },
   {
@@ -7977,6 +8048,15 @@
     "aliases": [
       "调节变量分析",
       "调节效应分析"
+    ]
+  },
+  {
+    "title": "Multi-phase Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multi-phase Sampling.md",
+    "aliases": [
+      "多阶段抽样",
+      "multi-phase sample"
     ]
   },
   {
@@ -8183,6 +8263,27 @@
     ]
   },
   {
+    "title": "Stage Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Stage Sampling.md",
+    "aliases": [
+      "阶段抽样",
+      "stage sample",
+      "multi-stage sampling"
+    ]
+  },
+  {
+    "title": "Stratified Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Stratified Sampling.md",
+    "aliases": [
+      "分层抽样",
+      "stratified random sampling",
+      "随机分层抽样",
+      "stratified sample"
+    ]
+  },
+  {
     "title": "Survey Research",
     "type": "method",
     "path": "wiki/methods/quantitative/Survey Research.md",
@@ -8190,6 +8291,15 @@
       "调查研究",
       "问卷调查研究",
       "survey design"
+    ]
+  },
+  {
+    "title": "Systematic Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Systematic Sampling.md",
+    "aliases": [
+      "系统抽样",
+      "systematic sample"
     ]
   },
   {
