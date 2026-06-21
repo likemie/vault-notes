@@ -30,8 +30,8 @@ related_facts:
   - "[[OECD Improving School Leadership Project]]"
   - "[[ISSPP Project]]"
 related_arguments:
-  - "[[Argument_Møller_2017]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[Leading education beyond what works]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
 confidence: medium
 status: draft
 created: 2026-05-02

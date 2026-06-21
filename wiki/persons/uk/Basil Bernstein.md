@@ -23,8 +23,8 @@ related_persons:
   - "[[Michael Young]]"
   - "[[Pierre Bourdieu]]"
 related_arguments:
-  - "[[Argument_Ball_2008_SR]]"
-  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Some sociologies of education: A history of problems and places, and segments and gazes]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
 related_facts:
   - "[[NZ Curriculum Refresh 2021-2026]]"
 confidence: medium

@@ -24,7 +24,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_ONeill_2012_NZJES]]"
+  - "[[Material fallacies of education research evidence and public policy advice]]"
 confidence: low
 status: draft
 created: '2026-05-06'

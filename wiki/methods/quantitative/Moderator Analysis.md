@@ -27,7 +27,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
 confidence: medium
 status: draft
 created: '2026-06-08'

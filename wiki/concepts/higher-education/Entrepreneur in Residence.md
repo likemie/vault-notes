@@ -25,7 +25,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-29

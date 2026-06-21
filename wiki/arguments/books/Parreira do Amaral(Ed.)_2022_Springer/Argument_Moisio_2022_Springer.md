@@ -6,6 +6,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 title: "In what sense a geopolitical knowledge-based economy? In M"
+argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
 argument_related_count: 26

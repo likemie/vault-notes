@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
+argument_key: "Argument_Håkansson_2015_Paideia"
 argument_display_title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
 argument_kind: "journal-article"
 argument_related_count: 6

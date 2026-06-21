@@ -29,7 +29,7 @@ related_theories:
 related_facts:
   - "[[Manufacturing USA]]"
 related_arguments:
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
 confidence: medium
 status: draft
 created: 2026-06-10

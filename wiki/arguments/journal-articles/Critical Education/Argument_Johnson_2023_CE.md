@@ -7,6 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Leading the blind: A critical look at Visible Learning"
+argument_key: "Argument_Johnson_2023_CE"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 16

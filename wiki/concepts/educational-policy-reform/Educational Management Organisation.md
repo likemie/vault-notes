@@ -28,7 +28,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Cognition Education]]"
 related_arguments:
-  - "[[Argument_ONeill_2016_Report]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

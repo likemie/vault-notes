@@ -20,7 +20,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Peterson_2016_IJRME]]"
+  - "[[Getting 'What Works' working: building blocks for the integration of experimental and improvement science]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

@@ -32,8 +32,8 @@ related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[Evidence-based teaching: a simple view of 'science']]"
 confidence: medium
 status: draft
 created: '2026-06-08'

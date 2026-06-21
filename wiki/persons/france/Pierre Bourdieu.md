@@ -41,10 +41,10 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Bruno Latour]]"
 related_arguments:
-  - "[[Argument_Eacott_2015_EPT]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[CNRS]]"

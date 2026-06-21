@@ -26,7 +26,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
 confidence: high
 status: draft
 created: '2026-05-01'

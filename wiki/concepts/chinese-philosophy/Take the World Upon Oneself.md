@@ -33,7 +33,7 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
 confidence: medium
 status: draft
 created: 2026-05-22

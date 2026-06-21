@@ -27,7 +27,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Allerup_2015_Paideia]]"
+  - "[[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]]"
 related_facts:
   - "[[PISA]]"
 confidence: medium

@@ -19,7 +19,7 @@ related_persons:
   - "[[Matt Homer]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Pampaka_2016_IJRME]]"
+  - "[[Is the educational 'what works' agenda working? Critical methodological developments]]"
 confidence: low
 status: draft
 created: '2026-05-02'

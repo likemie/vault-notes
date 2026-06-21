@@ -30,8 +30,8 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
+  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
 confidence: medium
 status: draft
 created: 2026-05-22

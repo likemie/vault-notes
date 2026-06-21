@@ -32,7 +32,7 @@ related_methods:
   - "[[Triangulation]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Yan_2025_JCS]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"

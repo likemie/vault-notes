@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
+argument_key: "Argument_Fredens_2015_Paideia"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
 argument_related_count: 8

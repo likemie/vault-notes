@@ -26,7 +26,7 @@ related_persons: []
 related_facts:
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
 related_arguments:
-  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -8,6 +8,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "What Works Clearinghouse standards and generalization of single-case design evidence"
+argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
 argument_related_count: 15

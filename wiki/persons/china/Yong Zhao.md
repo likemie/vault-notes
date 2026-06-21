@@ -31,8 +31,8 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[Argument_Zhao_2017_JEC]]"
-  - "[[Argument_Zhao_2020_JEC]]"
+  - "[[What works may hurt: Side effects in education]]"
+  - "[[Two decades of havoc: A synthesis of criticism against PISA]]"
 confidence: medium
 status: draft
 created: 2026-05-04

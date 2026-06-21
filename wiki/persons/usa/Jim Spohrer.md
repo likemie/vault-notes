@@ -19,7 +19,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
+  - "[[Metrics, Incentives, Rewards, and Culture for Impact]]"
 confidence: medium
 status: draft
 created: 2026-05-28

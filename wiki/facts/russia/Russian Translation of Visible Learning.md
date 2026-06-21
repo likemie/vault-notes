@@ -23,8 +23,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

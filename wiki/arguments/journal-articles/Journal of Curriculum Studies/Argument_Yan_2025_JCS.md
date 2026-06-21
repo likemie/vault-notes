@@ -7,6 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
+argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
 argument_related_count: 22
@@ -51,7 +52,7 @@ related_facts:
   - "[[International Baccalaureate]]"
   - "[[National Education]]"
 related_arguments:
-  - "[[Argument_Bulag_2024_CE]]"
+  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
 sources:
   - "[[Yan_2025_JCS]]"
 part_of: ""

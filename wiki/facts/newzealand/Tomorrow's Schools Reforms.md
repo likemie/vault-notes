@@ -24,10 +24,10 @@ related_facts:
   - "[[Contestable School Support Services]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
-  - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_Bates_2017_CognitionEducationTrust]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[Darwin's Finch: A Short History of Cognition]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

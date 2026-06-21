@@ -34,9 +34,9 @@ related_methods:
   - "[[Grounded Theory]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Wang_2025_CE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

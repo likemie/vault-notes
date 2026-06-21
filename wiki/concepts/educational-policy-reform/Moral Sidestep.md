@@ -22,7 +22,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Selective Schools Expansion Fund]]"
 related_arguments:
-  - "[[Argument_Bainbridge_2022_ROE]]"
+  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

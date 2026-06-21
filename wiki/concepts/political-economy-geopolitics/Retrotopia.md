@@ -21,7 +21,7 @@ related_persons:
   - "[[Fei Xiaotong]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Bulag_2024_CE]]"
+  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
 confidence: medium
 status: draft
 created: 2026-05-25

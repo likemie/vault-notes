@@ -22,7 +22,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
 related_facts:
   - "[[Liberal Studies]]"
 confidence: medium

@@ -52,6 +52,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "Innovation Centers and Economic Development"
+argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
 argument_related_count: 27

@@ -83,14 +83,14 @@ related_facts:
   - "[[University Industry Innovation Network]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
-  - "[[Argument_Partaken_2022_Springer]]"
-  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-  - "[[Argument_Marginson_2025_ROE]]"
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Boyadjieva_2022_Springer]]"
+  - "[[Two faces of geopolitics of knowledge]]"
+  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
+  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
+  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[(Un)avoidable clash: Higher education at the altar of its missions and rankings]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

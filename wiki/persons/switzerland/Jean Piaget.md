@@ -23,8 +23,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Bolton_2017_ArchPsych]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]]"
+  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

@@ -1,7 +1,6 @@
 ---
 citation: "Nelson, J. & Campbell, C. (2017). Evidence-informed practice in education: meanings and applications. Educational Research, 59(2), 127–135."
 extracted_to:
-  - "[[Argument_Nelson_2017_ER]]"
   - "[[Evidence-informed practice in education: meanings and applications]]"
 processed_date: 2026-05-01
 ---

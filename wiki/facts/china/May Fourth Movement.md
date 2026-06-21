@@ -25,8 +25,8 @@ related_facts:
   - "[[New Culture Movement]]"
   - "[[New Education Movement]]"
 related_arguments:
-  - "[[Argument_Zhou_2024_CE]]"
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s]]"
+  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
 confidence: medium
 status: draft
 created: 2026-05-26

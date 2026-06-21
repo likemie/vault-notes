@@ -25,7 +25,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Argument_UIDP_2012_PartnershipContinuum]]"
+  - "[[The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement]]"
 confidence: medium
 status: draft
 created: 2026-06-05

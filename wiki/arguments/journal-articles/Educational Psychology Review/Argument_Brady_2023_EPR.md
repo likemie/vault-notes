@@ -10,6 +10,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
+argument_key: "Argument_Brady_2023_EPR"
 argument_display_title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_kind: "journal-article"
 argument_related_count: 13

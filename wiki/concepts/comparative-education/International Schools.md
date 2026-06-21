@@ -25,7 +25,7 @@ related_facts:
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
-  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
 confidence: medium
 status: draft
 created: '2026-05-17'

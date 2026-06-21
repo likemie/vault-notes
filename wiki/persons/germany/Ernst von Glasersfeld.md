@@ -27,7 +27,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Rømer_2018]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

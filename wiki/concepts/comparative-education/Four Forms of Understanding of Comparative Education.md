@@ -32,7 +32,7 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Cowen_2023_CE]]"
+  - "[[Comparative education: and now? Comparative Education, 59(3), 326-340]]"
 confidence: medium
 status: draft
 created: 2026-06-06

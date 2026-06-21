@@ -32,7 +32,7 @@ related_facts:
   - "[[1904 Educational System]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
-  - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

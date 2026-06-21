@@ -8,6 +8,7 @@ type: argument
 subtype: monograph
 publication_type: book
 title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
+argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
 argument_related_count: 19

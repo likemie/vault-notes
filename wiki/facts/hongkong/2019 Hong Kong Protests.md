@@ -23,8 +23,8 @@ related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
 related_arguments:
-  - "[[Argument_Xu_2024_CE]]"
-  - "[[Argument_Yan_2025_JCS]]"
+  - "[['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
 confidence: high
 status: draft
 created: '2026-05-01'

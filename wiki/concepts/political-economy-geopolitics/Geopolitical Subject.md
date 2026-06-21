@@ -41,9 +41,9 @@ related_persons:
   - "[[Sami Moisio]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
-  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
+  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
 confidence: low
 status: draft
 created: '2026-05-07'

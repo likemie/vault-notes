@@ -34,8 +34,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Blass_2020_JESP]]"
+  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia]]"
 confidence: low
 status: draft
 created: '2026-05-04'

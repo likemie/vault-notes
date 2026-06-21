@@ -36,9 +36,9 @@ related_persons:
   - "[[Edmund Husserl]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Eacott_2011_JEAH]]"
-  - "[[Argument_Eacott_2015_EPT]]"
-  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
+  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
 confidence: medium
 status: draft
 created: 2026-05-09

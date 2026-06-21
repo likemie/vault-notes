@@ -24,7 +24,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-03

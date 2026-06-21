@@ -21,7 +21,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[University-Industry Collaboration]]"
   - "[[Purpose Statement]]"
-  - "[[Research Security]]"
   - "[[Sponsored Research Agreement]]"
 related_theories: []
 related_methods:
@@ -30,9 +29,9 @@ related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
+  - "[[Research Methods in Education · Ch05]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
 confidence: medium
 status: draft
 created: 2026-05-31

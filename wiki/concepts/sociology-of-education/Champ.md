@@ -34,8 +34,8 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
 confidence: medium
 status: draft
 created: 2026-05-08

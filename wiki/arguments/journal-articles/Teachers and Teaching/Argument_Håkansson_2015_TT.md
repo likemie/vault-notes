@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning"
+argument_key: "Argument_Håkansson_2015_TT"
 argument_display_title: "Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning"
 argument_kind: "journal-article"
 argument_related_count: 12

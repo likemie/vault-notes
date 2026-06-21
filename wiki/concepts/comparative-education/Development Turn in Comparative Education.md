@@ -29,7 +29,7 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Economics of Education Movement]]"
 related_arguments:
-  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Comparative education and international relations]]"
 confidence: medium
 status: draft
 created: 2026-06-08

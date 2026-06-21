@@ -43,7 +43,7 @@ related_methods:
 related_persons:
   - "[[Socrates]]"
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
 confidence: medium
 status: draft
 created: 2026-05-24

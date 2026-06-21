@@ -17,7 +17,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Sandrone_2025_MEO]]"
+  - "[[Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees]]"
 confidence: medium
 status: draft
 created: 2026-06-07

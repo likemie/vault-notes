@@ -26,8 +26,8 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-27

@@ -20,7 +20,7 @@ related_persons:
   - "[[Gerald Grace]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Grace_2010_NZJES]]"
+  - "[[Reflection on the University and the Academic as 'Critic and Conscience of Society']]"
 confidence: low
 status: draft
 created: '2026-05-07'

@@ -48,12 +48,12 @@ related_facts:
   - "[[Mixed Methods International Research Association]]"
   - "[[Peidu]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Teng_2025_CE]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
+  - "[[Research Methods in Education · Ch07]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[Migration for school choice: urbanisation and rural social stratification in China]]"
 confidence: medium
 status: draft
 created: 2026-06-14

@@ -36,7 +36,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Argument_Cowen_2019_ERE]]"
+  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

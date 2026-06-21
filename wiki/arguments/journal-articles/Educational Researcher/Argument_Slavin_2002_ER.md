@@ -33,7 +33,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
 related_arguments:
-  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
 sources:
   - "[[Slavin_2002_ER]]"
 part_of: ""
@@ -43,6 +43,7 @@ updated: 2026-06-08
 subtype: journal-article
 publication_type: journal-article
 title: "Evidence-based education policies: Transforming educational practice and research"
+argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
 argument_related_count: 10

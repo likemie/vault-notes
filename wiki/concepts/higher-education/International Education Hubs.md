@@ -42,9 +42,9 @@ related_facts:
   - "[[OECD]]"
   - "[[Minerva University]]"
 related_arguments:
-  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
 confidence: low
 status: draft
 created: '2026-05-07'

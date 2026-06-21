@@ -32,7 +32,7 @@ related_facts:
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
 related_arguments:
-  - "[[Argument_Yan_2025_JCS]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
 confidence: high
 status: draft
 created: '2026-05-01'

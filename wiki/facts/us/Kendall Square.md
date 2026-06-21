@@ -27,8 +27,8 @@ related_persons: []
 related_facts:
   - "[[TUFF]]"
 related_arguments:
-  - "[[Argument_Byrne_2025_InnovationCenters]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Innovation Centers and Economic Development]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-28

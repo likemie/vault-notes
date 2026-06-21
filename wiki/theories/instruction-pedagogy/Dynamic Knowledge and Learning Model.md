@@ -38,7 +38,7 @@ related_persons:
   - "[[Gilbert Ryle]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
 confidence: low
 status: draft
 created: '2026-05-05'

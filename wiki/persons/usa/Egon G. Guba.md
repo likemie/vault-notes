@@ -27,7 +27,7 @@ related_persons:
   - "[[Yvonna S. Lincoln]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: medium
 status: draft
 created: 2026-05-31

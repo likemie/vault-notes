@@ -1,7 +1,6 @@
 ---
 citation: "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39."
 extracted_to:
-  - "[[Argument_Marginson_2025_ROE]]"
   - "[[Space, power, and globalization: On the geopolitics of higher education]]"
 processed_date: 2026-05-12
 ---

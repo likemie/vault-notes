@@ -35,8 +35,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Beech_2015_GSE]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

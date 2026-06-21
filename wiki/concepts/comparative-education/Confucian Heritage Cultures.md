@@ -33,8 +33,8 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-  - "[[Argument_Ryan_2010_ChineseLearner]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
+  - "[[The Chinese Learner: Misconceptions and Realities]]"
 confidence: medium
 status: draft
 created: '2026-05-22'

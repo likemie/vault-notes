@@ -7,6 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
+argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
 argument_related_count: 20

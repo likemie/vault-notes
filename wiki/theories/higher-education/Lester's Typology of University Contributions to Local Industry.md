@@ -25,8 +25,8 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
 related_arguments:
-  - "[[Argument_Lester_2005_MIT]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
 related_facts:
   - "[[Oxford UIDP Summit 2019]]"
 confidence: medium

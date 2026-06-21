@@ -50,9 +50,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-  - "[[Argument_Ball_2008_SR]]"
+  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
+  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
+  - "[[Some sociologies of education: A history of problems and places, and segments and gazes]]"
 confidence: medium
 status: draft
 created: 2026-05-20

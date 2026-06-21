@@ -27,8 +27,8 @@ related_persons: []
 related_facts:
   - "[[Social Science One]]"
 related_arguments:
-  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[The unique role of academic health systems in facilitating innovative UI partnerships]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
 confidence: medium
 status: draft
 created: 2026-06-02

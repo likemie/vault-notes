@@ -26,7 +26,7 @@ related_persons: []
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments:
-  - "[[Argument_Bulag_2024_CE]]"
+  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
 confidence: medium
 status: draft
 created: 2026-05-26

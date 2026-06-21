@@ -41,8 +41,8 @@ related_persons:
 related_facts:
   - "[[Horizon 2020 SSH Integration]]"
 related_arguments:
-  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Two faces of geopolitics of knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'

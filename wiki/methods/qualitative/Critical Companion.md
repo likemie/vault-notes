@@ -23,7 +23,7 @@ related_methods:
   - "[[Ethnography]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium

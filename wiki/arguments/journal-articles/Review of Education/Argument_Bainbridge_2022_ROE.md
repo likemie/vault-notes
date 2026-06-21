@@ -8,6 +8,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Responding to research evidence in Parliament: A case study on selective education policy"
+argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
 argument_related_count: 13

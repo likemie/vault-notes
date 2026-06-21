@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
+argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 15
@@ -41,7 +42,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2010_NZJES]]"
+  - "[[Critic and conscience of society: A reply to John Hattie]]"
 sources:
   - "[[Terhart_2011_JCS]]"
 part_of: ''

@@ -4,6 +4,7 @@ type: argument
 subtype: monograph
 publication_type: book
 title: "Cultural Foundations of Learning: East and West"
+argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
 argument_related_count: 113

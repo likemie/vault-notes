@@ -28,8 +28,8 @@ related_persons:
   - "[[Ann Swidler]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
+  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
 confidence: medium
 status: draft
 created: 2026-05-08

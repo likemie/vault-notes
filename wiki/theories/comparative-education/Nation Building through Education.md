@@ -36,10 +36,10 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
-  - "[[Argument_Yan_2025_JCS]]"
-  - "[[Argument_Yu_2024_CE]]"
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Bulag_2024_CE]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
+  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

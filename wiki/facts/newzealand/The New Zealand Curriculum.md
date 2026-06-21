@@ -28,8 +28,8 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
-  - "[[Argument_Sarbiewska_2019_JSR]]"
-  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

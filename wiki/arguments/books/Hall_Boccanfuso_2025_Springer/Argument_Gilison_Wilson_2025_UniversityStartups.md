@@ -53,6 +53,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
+argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
 argument_related_count: 28

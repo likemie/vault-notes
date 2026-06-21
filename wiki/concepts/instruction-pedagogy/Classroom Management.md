@@ -24,8 +24,7 @@ related_methods:
   - "[[Comparative Meta-synthesis]]"
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Håkansson_2015_TT]]"
+related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-22

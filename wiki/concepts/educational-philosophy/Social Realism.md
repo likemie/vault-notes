@@ -26,7 +26,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
 related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
 confidence: medium
 status: draft
 created: 2026-06-06

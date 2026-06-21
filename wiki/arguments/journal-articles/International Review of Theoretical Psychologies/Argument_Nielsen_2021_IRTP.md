@@ -7,6 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Measured lives in educational psychology"
+argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
 argument_related_count: 20
@@ -42,12 +43,12 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Simpson_2017_JEP]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Argument_Hansen_2015_Paideia]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
+  - "[[Leder Temanummer om synlig læring]]"
+  - "[[John Hattie: I'm a statistician, I'm not a theoretician]]"
 sources:
   - "[[Nielsen_2021_IRTP]]"
 part_of: ''

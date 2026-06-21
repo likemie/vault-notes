@@ -31,7 +31,7 @@ related_persons:
   - "[[Dylan Wiliam]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Wiliam_2019]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

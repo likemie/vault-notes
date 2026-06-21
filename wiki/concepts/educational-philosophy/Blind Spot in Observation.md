@@ -30,7 +30,7 @@ related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

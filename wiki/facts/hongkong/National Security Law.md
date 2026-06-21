@@ -28,8 +28,8 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
-  - "[[Argument_Yan_2025_JCS]]"
-  - "[[Argument_Vickers_2024_CE]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
+  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
 confidence: high
 status: draft
 created: '2026-05-01'

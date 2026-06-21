@@ -19,12 +19,28 @@ tags:
   - method/experimental
   - quantitative-research
   - causal-inference
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Causality]]"
+  - "[[Positivism]]"
+  - "[[Variable]]"
+  - "[[Internal Validity]]"
+  - "[[External Validity]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Emergence]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Realist Evaluation]]"
+related_methods:
+  - "[[Experimental Research]]"
+  - "[[Random Sampling]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Case Study]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
 confidence: medium
 status: draft
 created: '2026-05-31'

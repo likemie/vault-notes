@@ -24,8 +24,8 @@ related_facts:
   - "[[The New Zealand Curriculum]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
-  - "[[Argument_Hattie_2010_NZJES]]"
-  - "[[Argument_ONeill_2012_NZJES]]"
+  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
+  - "[[Material fallacies of education research evidence and public policy advice]]"
 confidence: low
 status: draft
 created: '2026-05-06'

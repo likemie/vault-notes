@@ -24,9 +24,9 @@ related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
-  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
-  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Metrics, Incentives, Rewards, and Culture for Impact]]"
+  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-28

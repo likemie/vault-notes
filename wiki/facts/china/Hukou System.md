@@ -24,7 +24,7 @@ related_facts:
   - "[[2014 Hukou Reform]]"
   - "[[Peidu]]"
 related_arguments:
-  - "[[Argument_Teng_2025_CE]]"
+  - "[[Migration for school choice: urbanisation and rural social stratification in China]]"
 confidence: medium
 status: draft
 created: 2026-05-26

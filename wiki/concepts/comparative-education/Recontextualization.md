@@ -40,10 +40,10 @@ related_facts:
   - "[[OECD]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
-  - "[[Argument_Beech_2015_GSE]]"
-  - "[[Argument_Beech_2009_CE]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
+  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
+  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
+  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
 confidence: medium
 status: draft
 created: 2026-05-26

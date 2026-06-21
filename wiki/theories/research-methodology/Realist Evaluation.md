@@ -18,12 +18,19 @@ tags:
   - theory/evaluation
   - method/evaluation
   - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Professional Judgment]]"
+related_theories:
+  - "[[Critical Realism]]"
 related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Ray Pawson]]"
+  - "[[Roy Bhaskar]]"
+related_facts:
+  - "[[EU Skills Agenda]]"
+related_arguments:
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Imaginaries of Education and Innovation in the European Union]]"
 confidence: medium
 status: draft
 created: '2026-06-19'

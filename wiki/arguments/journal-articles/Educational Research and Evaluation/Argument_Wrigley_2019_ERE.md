@@ -7,6 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Evidence-based teaching: a simple view of 'science'"
+argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
 argument_related_count: 19

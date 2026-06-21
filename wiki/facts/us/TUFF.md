@@ -27,7 +27,7 @@ related_facts:
   - "[[Tech Square at Georgia Tech]]"
   - "[[Kendall Square]]"
 related_arguments:
-  - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Innovation Centers and Economic Development]]"
 confidence: medium
 status: draft
 created: 2026-05-28

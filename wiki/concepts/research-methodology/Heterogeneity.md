@@ -42,11 +42,11 @@ related_persons:
   - "[[Gene Glass]]"
   - "[[John Hattie]]"
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Simpson_2017_JEP]]"
-  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: medium

@@ -36,10 +36,10 @@ related_facts:
   - "[[PISA]]"
   - "[[National Education]]"
 related_arguments:
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Ryan_2010_ChineseLearner]]"
-  - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Vickers_2024_CE]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[The Chinese Learner: Misconceptions and Realities]]"
+  - "[[Comparative education and international relations]]"
+  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
 confidence: low
 status: draft
 created: '2026-05-11'

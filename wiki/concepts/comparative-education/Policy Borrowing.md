@@ -52,13 +52,13 @@ related_facts:
   - "[[PISA]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
-  - "[[Argument_Yan_2025_JCS]]"
-  - "[[Argument_Rappleye_2006_RCIE]]"
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Cowen_2009_CE]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Wang_2025_CE]]"
-  - "[[Argument_Beech_2015_GSE]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
+  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
+  - "[[What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education]]"
+  - "[[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]]"
+  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
 confidence: high
 status: draft
 created: '2026-05-01'

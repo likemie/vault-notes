@@ -26,9 +26,9 @@ related_persons: []
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments:
-  - "[[Argument_Cowen_2015_CHESS]]"
-  - "[[Argument_Wiliam_2019]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

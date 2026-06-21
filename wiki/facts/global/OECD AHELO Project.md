@@ -25,7 +25,7 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Boyadjieva_2022_Springer]]"
+  - "[[(Un)avoidable clash: Higher education at the altar of its missions and rankings]]"
 confidence: medium
 status: draft
 created: '2026-05-11'

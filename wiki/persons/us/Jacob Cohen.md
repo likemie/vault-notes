@@ -22,8 +22,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
 confidence: low
 status: draft
 created: '2026-05-05'

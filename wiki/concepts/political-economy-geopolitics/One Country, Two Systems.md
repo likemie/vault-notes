@@ -28,8 +28,8 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[2019 Hong Kong Protests]]"
 related_arguments:
-  - "[[Argument_Vickers_2024_CE]]"
-  - "[[Argument_Xu_2024_CE]]"
+  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
+  - "[['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]]"
 confidence: high
 status: draft
 created: 2026-05-25

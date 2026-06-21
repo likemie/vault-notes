@@ -17,7 +17,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Er Hattie og co]]"
 related_facts:
   - "[[SFI Report]]"
 confidence: low

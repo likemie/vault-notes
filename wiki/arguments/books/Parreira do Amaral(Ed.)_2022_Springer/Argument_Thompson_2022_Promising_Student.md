@@ -8,6 +8,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
+argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
 argument_related_count: 16

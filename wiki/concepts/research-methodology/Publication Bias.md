@@ -34,10 +34,10 @@ related_facts:
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
-  - "[[Argument_Wolf_2020_JREE]]"
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Kraft_2023_ER]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[The effect-size benchmark that matters most: Education interventions often fail]]"
+  - "[[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

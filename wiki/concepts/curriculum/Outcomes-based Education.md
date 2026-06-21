@@ -32,8 +32,8 @@ related_facts:
   - "[[PISA]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
-  - "[[Argument_McPhail_2023_JCS]]"
-  - "[[Argument_Cowen_2023_CE]]"
+  - "[[Knowledge and the New Zealand curriculum refresh]]"
+  - "[[Comparative education: and now? Comparative Education, 59(3), 326-340]]"
 confidence: medium
 status: draft
 created: 2026-06-06

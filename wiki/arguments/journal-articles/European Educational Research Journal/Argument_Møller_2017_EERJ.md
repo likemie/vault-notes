@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Leading education beyond what works"
+argument_key: "Argument_Møller_2017_EERJ"
 argument_display_title: "Leading education beyond what works"
 argument_kind: "journal-article"
 argument_related_count: 11

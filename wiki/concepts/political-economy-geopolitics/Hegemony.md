@@ -36,8 +36,8 @@ related_persons:
   - "[[Paulo Freire]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Marginson_2025_ROE]]"
-  - "[[Argument_Yu_2024_CE]]"
+  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
+  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

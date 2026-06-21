@@ -9,6 +9,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
+argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
 argument_related_count: 32

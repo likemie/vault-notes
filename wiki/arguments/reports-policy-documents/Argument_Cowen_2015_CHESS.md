@@ -9,6 +9,7 @@ type: argument
 subtype: report
 publication_type: report
 title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
+argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
 argument_related_count: 10

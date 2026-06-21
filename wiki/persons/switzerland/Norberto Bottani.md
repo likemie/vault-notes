@@ -25,7 +25,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Producing calculable worlds: education at a glance]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education at a Glance]]"

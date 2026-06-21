@@ -28,7 +28,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium

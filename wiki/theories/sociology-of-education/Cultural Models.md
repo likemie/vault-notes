@@ -24,7 +24,7 @@ related_methods:
   - "[[Prototype Methods]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
 confidence: medium
 status: draft
 created: 2026-05-22

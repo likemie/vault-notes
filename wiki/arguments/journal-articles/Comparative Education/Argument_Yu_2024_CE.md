@@ -7,6 +7,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
+argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
 argument_related_count: 15

@@ -23,7 +23,7 @@ related_facts:
   - "[[Manaiakalani Education Trust]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments:
-  - "[[Argument_ONeill_2016_Report]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

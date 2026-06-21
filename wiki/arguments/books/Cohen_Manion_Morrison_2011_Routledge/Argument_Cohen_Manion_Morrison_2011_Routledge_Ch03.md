@@ -8,6 +8,7 @@ type: argument
 subtype: textbook
 publication_type: book-chapter
 title: "Research Methods in Education · Ch03"
+argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
 argument_related_count: 23

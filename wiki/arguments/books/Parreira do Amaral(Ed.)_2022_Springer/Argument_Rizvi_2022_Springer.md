@@ -6,6 +6,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 title: "Rise of Asia, geopolitical shifts and higher education"
+argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
 argument_related_count: 23

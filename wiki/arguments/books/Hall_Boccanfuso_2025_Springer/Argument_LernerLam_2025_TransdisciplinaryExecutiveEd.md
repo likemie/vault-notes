@@ -38,6 +38,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
+argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
 argument_related_count: 10

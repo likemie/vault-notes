@@ -23,7 +23,7 @@ related_persons: []
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
-  - "[[Argument_Pellegrini_2021_ROE]]"
+  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
 confidence: medium
 status: draft
 created: 2026-05-23

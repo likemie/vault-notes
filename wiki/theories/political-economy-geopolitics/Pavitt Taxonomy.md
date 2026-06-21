@@ -34,8 +34,8 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[Sectoral Innovation Database]]"
 related_arguments:
-  - "[[Argument_Pavitt_1984_RP]]"
-  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
+  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
+  - "[[The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services]]"
 confidence: medium
 status: draft
 created: 2026-06-10

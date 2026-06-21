@@ -23,7 +23,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

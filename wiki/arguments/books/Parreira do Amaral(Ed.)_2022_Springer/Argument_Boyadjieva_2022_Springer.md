@@ -6,6 +6,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
+argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
 argument_related_count: 16

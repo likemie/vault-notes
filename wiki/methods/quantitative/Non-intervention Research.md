@@ -33,7 +33,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Brady_2023_EPR]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

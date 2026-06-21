@@ -13,6 +13,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "School autonomy, marketisation and social justice: the plight of principals and schools"
+argument_key: "Argument_Keddie_2020_JEAH"
 argument_display_title: "School autonomy, marketisation and social justice: the plight of principals and schools"
 argument_kind: "journal-article"
 argument_related_count: 6

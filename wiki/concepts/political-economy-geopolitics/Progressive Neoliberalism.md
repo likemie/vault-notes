@@ -25,7 +25,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
 confidence: low
 status: draft
 created: '2026-05-07'

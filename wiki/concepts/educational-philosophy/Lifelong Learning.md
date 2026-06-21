@@ -23,7 +23,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Yan_2025_JCS]]"
+  - "[[The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong]]"
 confidence: medium
 status: draft
 created: '2026-06-07'

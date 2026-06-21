@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
+argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
 argument_related_count: 21
@@ -48,8 +49,8 @@ related_facts:
   - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
 related_arguments:
-  - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Cowen_2019_ERE]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
 sources:
   - "[[Slavin_2019_EP]]"
 part_of: ''

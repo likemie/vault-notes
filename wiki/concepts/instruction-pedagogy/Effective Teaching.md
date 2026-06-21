@@ -31,7 +31,7 @@ related_facts:
   - "[[SFI Report]]"
   - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Er Hattie og co]]"
 confidence: low
 status: draft
 created: '2026-05-05'

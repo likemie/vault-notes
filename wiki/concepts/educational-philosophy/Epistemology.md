@@ -19,14 +19,12 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Axiology]]"
-  - "[[Ontology]]"
   - "[[Postpositivism]]"
   - "[[Paradigm]]"
-  - "[[Objectivism]]"
-  - "[[Subjectivism]]"
-  - "[[Pragmatic Paradigm]]"
+  - "[[Axiology]]"
+  - "[[Ontology]]"
 related_theories:
+  - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
@@ -34,8 +32,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Methods in Education · Ch07]]"
 confidence: high
 status: draft
 created: 2026-06-13

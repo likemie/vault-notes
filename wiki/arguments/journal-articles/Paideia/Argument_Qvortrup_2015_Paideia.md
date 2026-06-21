@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
+argument_key: "Argument_Qvortrup_2015_Paideia"
 argument_display_title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
 argument_kind: "journal-article"
 argument_related_count: 13

@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "What works may hurt: Side effects in education"
+argument_key: "Argument_Zhao_2017_JEC"
 argument_display_title: "What works may hurt: Side effects in education"
 argument_kind: "journal-article"
 argument_related_count: 9

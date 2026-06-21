@@ -26,7 +26,7 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cowen_2009_CE]]"
+  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
 confidence: medium
 status: draft
 created: 2026-06-06

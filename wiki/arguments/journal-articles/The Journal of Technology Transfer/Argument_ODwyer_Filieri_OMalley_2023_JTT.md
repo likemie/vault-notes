@@ -4,6 +4,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
+argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
 argument_related_count: 8

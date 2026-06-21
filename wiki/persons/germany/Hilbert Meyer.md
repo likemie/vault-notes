@@ -17,7 +17,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Er Hattie og co]]"
 confidence: low
 status: draft
 created: '2026-05-05'

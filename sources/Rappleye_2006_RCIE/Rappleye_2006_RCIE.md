@@ -1,7 +1,6 @@
 ---
 citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
 extracted_to:
-  - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
 processed_date: 2026-05-06
 ---

@@ -26,7 +26,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867]]"
 confidence: medium
 status: draft
 created: 2026-06-09

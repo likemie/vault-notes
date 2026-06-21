@@ -29,7 +29,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
-  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Evidence-based teaching: a simple view of 'science']]"
 confidence: medium
 status: draft
 created: '2026-05-01'

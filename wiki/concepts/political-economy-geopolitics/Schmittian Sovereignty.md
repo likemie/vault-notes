@@ -24,7 +24,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Vickers_2024_CE]]"
+  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
 confidence: medium
 status: draft
 created: 2026-05-25

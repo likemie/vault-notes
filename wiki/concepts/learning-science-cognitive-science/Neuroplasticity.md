@@ -31,8 +31,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Bolton_2017_ArchPsych]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

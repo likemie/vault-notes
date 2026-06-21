@@ -15,7 +15,6 @@ related_color: "#e5e7eb"
 tags:
   - method/research-ethics
 related_concepts:
-  - "[[Confidentiality in Research]]"
   - "[[Knowledge Production]]"
   - "[[Non-maleficence and Beneficence in Research]]"
 related_theories: []
@@ -23,7 +22,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Research Methods in Education · Ch05]]"
 confidence: medium
 status: draft
 created: 2026-06-19

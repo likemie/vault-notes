@@ -36,9 +36,9 @@ related_persons:
 related_facts:
   - "[[New Education Movement]]"
 related_arguments:
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
-  - "[[Argument_Zhou_2024_CE]]"
-  - "[[Argument_Ryabyy_2024_Maneto]]"
+  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
+  - "[[A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s]]"
+  - "[[A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union]]"
 confidence: medium
 status: draft
 created: 2026-05-26

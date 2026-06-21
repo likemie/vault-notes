@@ -22,7 +22,7 @@ related_persons: []
 related_facts:
   - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments:
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: low
 status: draft
 created: 2026-06-03

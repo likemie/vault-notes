@@ -24,7 +24,7 @@ related_persons:
   - "[[Humberto Maturana]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

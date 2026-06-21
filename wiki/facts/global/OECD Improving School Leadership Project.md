@@ -27,7 +27,7 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
 related_arguments:
-  - "[[Argument_Møller_2017]]"
+  - "[[Leading education beyond what works]]"
 confidence: high
 status: draft
 created: '2026-05-02'

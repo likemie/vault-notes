@@ -7,6 +7,7 @@ type: argument
 subtype: edited-volume
 publication_type: book
 title: "International Education and the Chinese Learner"
+argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
 argument_related_count: 12
@@ -41,8 +42,8 @@ related_persons:
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
-  - "[[Argument_Slethaug_2010_InternationalEducation]]"
-  - "[[Argument_Ryan_2010_ChineseLearner]]"
+  - "[[Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner]]"
+  - "[[The Chinese Learner: Misconceptions and Realities]]"
 sources:
   - "[[Ryan(Ed.)_2010_HKUP]]"
 part_of: ""

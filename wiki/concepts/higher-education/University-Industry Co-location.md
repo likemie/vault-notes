@@ -28,7 +28,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments:
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-02

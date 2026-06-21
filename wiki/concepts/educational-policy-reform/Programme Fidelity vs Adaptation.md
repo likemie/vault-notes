@@ -32,8 +32,8 @@ related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
-  - "[[Argument_Cowen_2015_CHESS]]"
-  - "[[Argument_Wiliam_2019]]"
+  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

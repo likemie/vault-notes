@@ -4,6 +4,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Education, science and technology, and talent integrated development: Evidence from China"
+argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
 argument_related_count: 9

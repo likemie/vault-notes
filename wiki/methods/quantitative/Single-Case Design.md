@@ -39,8 +39,8 @@ related_methods:
   - "[[Gating Procedure]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Hitchcock_2015_JBE]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[What Works Clearinghouse standards and generalization of single-case design evidence]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[WWC SCD Pilot Standards]]"

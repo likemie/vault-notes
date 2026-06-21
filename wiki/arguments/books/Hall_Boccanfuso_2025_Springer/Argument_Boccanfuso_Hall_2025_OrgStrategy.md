@@ -58,6 +58,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "Organization and Strategy for University-Industry Relationships"
+argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
 argument_related_count: 31

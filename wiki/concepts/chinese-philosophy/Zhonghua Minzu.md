@@ -28,8 +28,8 @@ related_persons:
   - "[[Zhao Tingyang]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Bulag_2024_CE]]"
-  - "[[Argument_Xu_2024_CE]]"
+  - "[[The wheel of history and minorities' 'self-sacrifice' for the Chinese nation]]"
+  - "[['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]]"
 confidence: medium
 status: draft
 created: 2026-05-25

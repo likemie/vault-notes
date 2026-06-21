@@ -29,9 +29,9 @@ related_persons: []
 related_facts:
   - "[[University, Inc. (Washburn, 2005)]]"
 related_arguments:
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-26

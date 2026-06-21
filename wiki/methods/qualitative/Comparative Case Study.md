@@ -32,8 +32,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Erfurth_2022_education-hubs]]"
-  - "[[Argument_SpronkenSmith_2024_AEHE]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
+  - "[[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium

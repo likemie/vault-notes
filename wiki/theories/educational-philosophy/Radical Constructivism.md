@@ -30,8 +30,8 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Rømer_2018]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

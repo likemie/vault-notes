@@ -33,7 +33,7 @@ related_methods:
   - "[[Qualitative Interview]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
 confidence: low
 status: draft
 created: '2026-05-08'

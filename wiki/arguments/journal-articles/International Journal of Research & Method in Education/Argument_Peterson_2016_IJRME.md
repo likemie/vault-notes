@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
+argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
 argument_related_count: 17

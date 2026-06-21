@@ -17,12 +17,29 @@ tags:
 - epistemology
 - paradigm/constructivist
 - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Causality]]"
+  - "[[Emergence]]"
+  - "[[Positivism]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Ontology]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Bildung]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[Roy Bhaskar]]"
+  - "[[Ray Pawson]]"
+  - "[[Terry Wrigley]]"
+related_facts:
+  - "[[Playing for Success]]"
+related_arguments:
+  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

@@ -34,9 +34,9 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-03

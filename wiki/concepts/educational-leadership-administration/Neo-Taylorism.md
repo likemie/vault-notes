@@ -42,11 +42,11 @@ related_facts:
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_ONeill_2016_Report]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

@@ -33,7 +33,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
 related_arguments:
-  - "[[Argument_Dachet_2021_ROE]]"
+  - "[[Evidence-based education: The not so simple case of French-speaking Belgium]]"
 confidence: medium
 status: draft
 created: 2026-05-23

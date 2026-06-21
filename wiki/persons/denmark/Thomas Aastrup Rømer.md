@@ -27,8 +27,8 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Lars Qvortrup]]"
 related_arguments:
-  - "[[Argument_Rømer_2018]]"
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Visible learning and its enemies – the missing link]]"
 related_facts:
   - "[[Hattie på dansk]]"
 confidence: medium

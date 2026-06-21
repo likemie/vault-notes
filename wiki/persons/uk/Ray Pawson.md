@@ -14,12 +14,23 @@ tags:
   - meta-analysis
   - methodology
   - region/uk
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_concepts:
+  - "[[Sage]]"
+  - "[[Evidence-Based Education]]"
+related_theories:
+  - "[[Realist Evaluation]]"
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[Terry Wrigley]]"
+related_facts:
+  - "[[Education Endowment Foundation]]"
+related_arguments:
+  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

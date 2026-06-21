@@ -34,9 +34,9 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
-  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
+  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium

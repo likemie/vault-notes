@@ -30,7 +30,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
+  - "[[Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges]]"
 confidence: "low"
 status: "draft"
 created: 2026-05-30

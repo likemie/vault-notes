@@ -18,7 +18,7 @@ related_persons:
   - "[[Trofim Lysenko]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Chan_2015_Intersect]]"
+  - "[[Fallen behind: Science, technology, and Soviet statism]]"
 confidence: medium
 status: draft
 created: 2026-06-12

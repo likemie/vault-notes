@@ -32,7 +32,7 @@ related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
-  - "[[Argument_Downey_2016_SoE]]"
+  - "[[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]]"
 confidence: high
 status: draft
 created: '2026-05-04'

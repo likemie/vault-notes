@@ -31,7 +31,7 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
 related_arguments:
-  - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Producing calculable worlds: education at a glance]]"
 confidence: high
 status: draft
 created: '2026-05-01'

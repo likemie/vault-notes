@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Problematising the intellectual gaze of the educational administration scholar"
+argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
 argument_related_count: 12

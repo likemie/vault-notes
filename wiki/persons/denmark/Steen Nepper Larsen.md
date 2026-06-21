@@ -35,9 +35,9 @@ related_persons:
   - "[[Gert Biesta]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

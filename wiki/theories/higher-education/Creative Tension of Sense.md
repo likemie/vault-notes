@@ -40,7 +40,7 @@ related_persons:
   - "[[Richard Castelo Branco]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Delambre_2022_Springer]]"
+  - "[[Creative Tension of Sense and the Whole Approach to Knowledge and Practice]]"
 confidence: low
 status: draft
 created: '2026-05-11'

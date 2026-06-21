@@ -31,7 +31,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Producing calculable worlds: education at a glance]]"
 confidence: high
 status: draft
 created: '2026-05-01'

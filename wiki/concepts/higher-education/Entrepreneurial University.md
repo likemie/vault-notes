@@ -34,9 +34,9 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
+  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-27

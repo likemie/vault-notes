@@ -26,7 +26,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-03

@@ -40,10 +40,10 @@ related_methods:
 related_persons:
   - "[[Herbert Blalock]]"
 related_arguments:
-  - "[[Argument_Berk_2011_ER]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review]]"
+  - "[[Research Methods in Education · Ch04]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
 confidence: medium
 status: draft
 created: 2026-05-03

@@ -10,6 +10,7 @@ type: argument
 subtype: report
 publication_type: report
 title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
+argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
 argument_related_count: 13

@@ -27,7 +27,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_2025_JTT]]"
+  - "[[Measuring the impacts of university-industry R&D collaborations: a systematic literature review]]"
 confidence: medium
 status: draft
 created: 2026-06-05

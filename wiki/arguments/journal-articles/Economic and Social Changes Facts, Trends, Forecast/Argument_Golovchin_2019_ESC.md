@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
+argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
 argument_related_count: 19
@@ -41,10 +42,10 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
 sources:
   - "[[Golovchin_2019_ESC]]"
 part_of: ''

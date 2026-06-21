@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
+argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
 argument_related_count: 24

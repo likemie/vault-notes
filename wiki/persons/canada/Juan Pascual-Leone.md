@@ -20,7 +20,7 @@ related_persons:
   - "[[Robbie Case]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Bolton_2017_ArchPsych]]"
+  - "[[Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex]]"
 confidence: low
 status: draft
 created: '2026-05-04'

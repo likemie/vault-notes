@@ -33,9 +33,9 @@ related_facts:
   - "[[Coleman Report 1966]]"
   - "[[Education at a Glance]]"
 related_arguments:
-  - "[[Argument_Gorur_2014_Discourse]]"
-  - "[[Argument_Rappleye_2006_RCIE]]"
-  - "[[Argument_Downey_2016_SoE]]"
+  - "[[Producing calculable worlds: education at a glance]]"
+  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
+  - "[[Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality]]"
 confidence: high
 status: draft
 created: '2026-05-01'

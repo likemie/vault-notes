@@ -31,8 +31,8 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser]]"
+  - "[[Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]]]"
 confidence: low
 status: draft
 created: '2026-05-05'

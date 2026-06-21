@@ -26,7 +26,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
-  - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Average effect sizes in developer-commissioned and independent evaluations]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

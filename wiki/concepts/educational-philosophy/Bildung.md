@@ -16,11 +16,10 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Effect Size]]"
   - "[[Phenomenon-Based Learning]]"
-  - "[[Buen Vivir]]"
   - "[[Analytic Framework]]"
   - "[[Epochal Key Problems]]"
+  - "[[Buen Vivir]]"
   - "[[Learning Analytics]]"
-  - "[[Digital Optimum]]"
   - "[[Academic Freedom]]"
   - "[[Critical Pedagogy]]"
   - "[[Performance Indicators]]"
@@ -35,9 +34,9 @@ related_facts: []
 related_arguments:
   - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
   - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
-  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
   - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
   - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
+  - "[[Visible Learning and educational policies in New Zealand and Australia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -99,26 +98,26 @@ updated: '2026-06-21'
 
 ### 命题类型一：教化目的的自主人格性与开放性（Autonomy and Openness of Bildung Purpose）
 
-> [!concept-lens] 类型一总结
+> [!concept-lens] 教化目的的自主人格性与开放性
 > 这类命题关注教化（Bildung）的核心目的，强调其作为自主人格形成的非目的论与开放性特征，反对将教育目的窄化为可测量的技术性指标。
 
-> [!claim] Larsen (2019)
+> [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
 > 教化具有非还原的内在尊严与实践目的。它是个体决定其知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，不能被还原为可量化、标准化的一般技能目标。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
 
 > [!claim] Schleiermacher
-> 教化实践的核心路径在于学会在关于何为美好生活的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主生长过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+> 教化实践的核心路径在于学会在关于何为[[Buen Vivir|美好生活]]的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主生长过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
 ---
 
 ### 命题类型二：教化环境中的反抗与相对独立性（Resistance and Relative Independence in Bildung Environment）
 
-> [!concept-lens] 类型二总结
+> [!concept-lens] 教化环境中的反抗与相对独立性
 > 这类命题关注教化在外部社会、政治与技术环境中的生存机制，主张教化行动必须维持其独立于外部规训与算法预测的自主空间。
 
-> [!claim] Thompson et al. (2022)
-> 教化必须面向不可预测的开放未来。在数字化治理（如学习分析与绩效自我评估）试图通过相关性数据预测并预先优化学生未来的背景下，教化要求维护不受数据预测限制的自我探索空间，抵抗对未来可能性的系统性压缩。[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p. 227]]
+> [!claim] [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]
+> 教化必须面向不可预测的开放未来。在数字化治理（如[[Learning Analytics|学习分析]]与绩效自我评估）试图通过相关性数据预测并预先优化学生未来的背景下，教化要求维护不受数据预测限制的自我探索空间，抵抗对未来可能性的系统性压缩。[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p. 227]]
 
-> [!claim] Sarbiewska (2019)
+> [!claim] [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]]
 > 教化（Bildung）行动必须独立于普通的社会化规训（Erziehung），在教育三角关系中维持其相对独立权。依据 Benner 的相对独立性理论，如果教育被完全还原为对既有社会规范的再生产，个体将沦为纯粹被动塑造的客体。[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, pp. 122–123]]
 
 ---
@@ -128,8 +127,8 @@ updated: '2026-06-21'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | Larsen (2019); Schleiermacher |
-> | **教化环境中的反抗与相对独立性** | 强调教化需要维护自主空间以抵抗外部社会规训和数字化算法预测 | 批判高等教育数字化治理中的预测性技术与社会化规训 | Thompson et al. (2022); Sarbiewska (2019) |
+> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]; Schleiermacher |
+> | **教化环境中的反抗与相对独立性** | 强调教化需要维护自主空间以抵抗外部社会规训和数字化算法预测 | 批判高等教育数字化治理中的预测性技术与社会化规训 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]]; [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] |
 
 ---
 

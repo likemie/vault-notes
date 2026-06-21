@@ -27,13 +27,13 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Simpson_2017_JEP]]"
-  - "[[Argument_Simpson_2019]]"
-  - "[[Argument_Kraft_2023_ER]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_Wiliam_2019]]"
-  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[The misdirection of public policy: Comparing and combining standardised effect sizes]]"
+  - "[[Separating arguments from conclusions: The mistaken role of effect size in educational policy research]]"
+  - "[[The effect-size benchmark that matters most: Education interventions often fail]]"
+  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
+  - "[[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"

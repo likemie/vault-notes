@@ -30,7 +30,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
 confidence: medium
 status: draft
 created: 2026-05-19

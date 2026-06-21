@@ -17,22 +17,21 @@ tags:
   - theme/research-philosophy
   - theme/research-planning
 related_concepts:
-  - "[[Axiology]]"
-  - "[[Epistemology]]"
-  - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
+  - "[[Axiology]]"
+  - "[[Epistemology]]"
 related_theories:
+  - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
-  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Methods in Education · Ch07]]"
 confidence: high
 status: draft
 created: 2026-06-13

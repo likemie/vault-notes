@@ -37,9 +37,9 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Ball_2008_SR]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
+  - "[[Some sociologies of education: A history of problems and places, and segments and gazes]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -31,10 +31,10 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Fredens_2015_Paideia]]"
-  - "[[Argument_Laursen_2015_Paideia]]"
-  - "[[Argument_Lekhal_2015_Paideia]]"
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
+  - "[[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]]"
+  - "[[Er Hattie og co]]"
+  - "[[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]]"
+  - "[[\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies]]"
 confidence: low
 status: draft
 created: 2026-05-04

@@ -35,8 +35,8 @@ related_facts:
   - "[[Teach First New Zealand]]"
   - "[[Australia in the Asian Century White Paper]]"
 related_arguments:
-  - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

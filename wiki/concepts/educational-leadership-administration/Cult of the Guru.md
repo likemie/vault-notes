@@ -44,12 +44,12 @@ related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_Eacott_2019_IJLE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_Rømer_2018_EPT]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[School leadership and the cult of the guru: The neo-Taylorism of Hattie]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
 confidence: medium
 status: draft
 created: 2026-05-03

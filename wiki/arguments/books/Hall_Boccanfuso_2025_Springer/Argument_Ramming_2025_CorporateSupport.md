@@ -6,6 +6,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 title: "Gaining Support Within Companies for Collaboration"
+argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
 argument_related_count: 21

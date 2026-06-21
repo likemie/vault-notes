@@ -9,6 +9,7 @@ authors:
 summary: "以滑铁卢大学的产学合作文化与 Schlegel-UW 老龄化研究所为深度案例，系统分析激励教师参与产学合作的七重机制——政府配对资金、研究生实习、行政中介、共同选址、研究安全、研究评估改革与跨院系示范——论证单一机制不足以推动合作，只有多重互补机制构成自增强系统才能克服产学之间的文化断层与制度障碍"
 type: argument
 title: "Gaining Support Within Universities for Collaboration"
+argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
 argument_related_count: 21

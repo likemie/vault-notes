@@ -37,7 +37,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[What Works Clearinghouse standards and generalization of single-case design evidence]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

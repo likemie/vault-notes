@@ -35,6 +35,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
+argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
 argument_related_count: 10

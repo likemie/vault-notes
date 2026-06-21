@@ -33,7 +33,7 @@ related_persons:
 related_facts:
   - "[[Academic Ranking of World Universities]]"
 related_arguments:
-  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Space, power, and globalization: On the geopolitics of higher education]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
+argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
 argument_related_count: 13
@@ -37,7 +38,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning]]"
 sources:
   - "[[Blass_2020_JESP]]"
 part_of: ''

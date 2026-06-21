@@ -19,7 +19,7 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
-  - "[[Argument_Bates_2017_CognitionEducationTrust]]"
+  - "[[Darwin's Finch: A Short History of Cognition]]"
 confidence: medium
 status: draft
 created: 2026-05-22

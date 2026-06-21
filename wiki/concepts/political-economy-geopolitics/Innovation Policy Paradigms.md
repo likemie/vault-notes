@@ -38,7 +38,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
 confidence: medium
 status: draft
 created: 2026-05-27

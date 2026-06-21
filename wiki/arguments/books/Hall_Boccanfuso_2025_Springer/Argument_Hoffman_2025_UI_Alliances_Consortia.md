@@ -45,6 +45,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "University-Industry Alliances and Consortia"
+argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
 argument_related_count: 19

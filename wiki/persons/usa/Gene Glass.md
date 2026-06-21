@@ -13,12 +13,18 @@ tags:
   - evidence-based-education
   - methodology
   - region/usa
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
 confidence: medium
 status: draft
 created: '2026-06-08'

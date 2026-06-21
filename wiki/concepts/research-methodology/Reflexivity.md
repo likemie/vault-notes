@@ -24,8 +24,8 @@ related_persons:
   - "[[Harold Garfinkel]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
+  - "[[Research Methods in Education]]"
 confidence: high
 status: draft
 created: 2026-06-14

@@ -26,7 +26,7 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
 confidence: high
 status: completed
 created: 2026-06-06

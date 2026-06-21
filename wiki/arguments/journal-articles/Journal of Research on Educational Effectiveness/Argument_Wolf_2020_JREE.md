@@ -10,6 +10,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Average effect sizes in developer-commissioned and independent evaluations"
+argument_key: "Argument_Wolf_2020_JREE"
 argument_display_title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_kind: "journal-article"
 argument_related_count: 13

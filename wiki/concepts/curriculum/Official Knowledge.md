@@ -21,8 +21,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Yu_2024_CE]]"
-  - "[[Argument_Xu_2024_CE]]"
+  - "[[Confucianism in multicultural China: 'official knowledge' vs marginalised views]]"
+  - "[['One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong]]"
 confidence: medium
 status: draft
 created: 2026-05-21

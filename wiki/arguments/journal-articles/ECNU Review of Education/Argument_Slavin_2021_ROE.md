@@ -8,6 +8,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
+argument_key: "Argument_Slavin_2021_ROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
 argument_related_count: 13

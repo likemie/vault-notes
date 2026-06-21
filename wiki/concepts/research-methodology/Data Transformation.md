@@ -25,8 +25,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Research Methods in Education]]"
+  - "[[Research Design: Qualitative, Quantitative, and Mixed Methods Approaches]]"
 confidence: high
 status: draft
 created: 2026-06-14

@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "The applicability of Visible Learning to higher education"
+argument_key: "Argument_Hattie_2015_SOTLP"
 argument_display_title: "The applicability of Visible Learning to higher education"
 argument_kind: "journal-article"
 argument_related_count: 8

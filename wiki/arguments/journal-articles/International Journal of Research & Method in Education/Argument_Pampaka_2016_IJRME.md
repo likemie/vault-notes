@@ -8,6 +8,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Is the educational 'what works' agenda working? Critical methodological developments"
+argument_key: "Argument_Pampaka_2016_IJRME"
 argument_display_title: "Is the educational 'what works' agenda working? Critical methodological developments"
 argument_kind: "journal-article"
 argument_related_count: 9

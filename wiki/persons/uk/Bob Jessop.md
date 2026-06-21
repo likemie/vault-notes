@@ -27,8 +27,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
 confidence: medium

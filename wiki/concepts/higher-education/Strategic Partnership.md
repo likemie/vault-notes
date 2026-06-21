@@ -27,8 +27,8 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
-  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Connecting, Exploring, Uncovering, and Building Partnerships]]"
+  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
 confidence: medium
 status: draft
 created: 2026-05-28

@@ -27,7 +27,7 @@ related_facts:
   - "[[China Social Credit System]]"
   - "[[Great Firewall of China]]"
 related_arguments:
-  - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Two faces of geopolitics of knowledge]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

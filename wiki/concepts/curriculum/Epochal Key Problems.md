@@ -29,7 +29,7 @@ related_facts:
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments:
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

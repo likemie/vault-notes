@@ -35,8 +35,8 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[How Evidence-Based Reform Will Transform Research and Practice in Education]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

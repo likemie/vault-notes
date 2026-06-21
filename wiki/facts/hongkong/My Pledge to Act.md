@@ -24,7 +24,7 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
 related_arguments:
-  - "[[Argument_Vickers_2024_CE]]"
+  - "[[The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law]]"
 confidence: medium
 status: draft
 created: 2026-05-25

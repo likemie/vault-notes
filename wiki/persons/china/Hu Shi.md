@@ -25,7 +25,7 @@ related_facts:
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
 related_arguments:
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -39,13 +39,13 @@ related_facts:
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[OECD]]"
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_Wiliam_2019]]"
-  - "[[Argument_Pellegrini_2021_ROE]]"
-  - "[[Argument_Cowen_2015_CHESS]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement]]"
+  - "[[Material fallacies of education research evidence and public policy advice]]"
+  - "[[Some reflections on the role of evidence in improving education]]"
+  - "[[Evidence-based policies in education: Initiatives and challenges in Europe]]"
+  - "[[Making the Most of the Evidence: Evidence-based policy in the classroom]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
+  - "[[On being a 'critic and conscience of society': The role of the education academic in public debates]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

@@ -35,6 +35,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "Data: Access, generation, use"
+argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
 argument_related_count: 11

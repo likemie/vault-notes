@@ -26,7 +26,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"
+  - "[[Education, science and technology, and talent integrated development: Evidence from China]]"
 confidence: medium
 status: draft
 created: 2026-06-12

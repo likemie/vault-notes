@@ -33,7 +33,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University]]"
 confidence: medium
 status: draft
 created: '2026-05-19'

@@ -48,6 +48,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "International research collaborations between universities and industry"
+argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
 argument_related_count: 23

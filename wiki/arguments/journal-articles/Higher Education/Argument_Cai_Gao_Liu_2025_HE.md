@@ -4,6 +4,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
+argument_key: "Argument_Cai_Gao_Liu_2025_HE"
 argument_display_title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_kind: "journal-article"
 argument_related_count: 6

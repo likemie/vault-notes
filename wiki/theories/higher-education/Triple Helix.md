@@ -50,11 +50,11 @@ related_facts:
   - "[[Netherlands Top-sector Policy]]"
   - "[[Oxford UIDP Summit 2019]]"
 related_arguments:
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
-  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
+  - "[[International research collaborations between universities and industry]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
 confidence: medium
 status: draft
 created: 2026-05-26

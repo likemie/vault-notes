@@ -29,7 +29,7 @@ related_persons: []
 related_facts:
   - "[[A Nation at Risk 1983]]"
 related_arguments:
-  - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
 confidence: medium
 status: draft
 created: '2026-05-28'

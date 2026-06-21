@@ -22,7 +22,7 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
 confidence: medium
 status: draft
 created: 2026-06-04

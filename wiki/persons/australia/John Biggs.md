@@ -29,9 +29,9 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Rømer_2018]]"
-  - "[[Argument_Li_2012_Cambridge]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[A critique of John Hattie's theory of Visible Learning]]"
+  - "[[Cultural Foundations of Learning: East and West]]"
+  - "[[Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

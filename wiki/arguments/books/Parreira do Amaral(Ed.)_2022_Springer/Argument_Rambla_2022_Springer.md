@@ -6,6 +6,7 @@ type: argument
 subtype: book-chapter
 publication_type: book
 title: "Imaginaries of Education and Innovation in the European Union"
+argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
 argument_related_count: 33
@@ -58,8 +59,8 @@ related_facts:
   - "[[YOUNG_ADULLLT]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments:
-  - "[[Argument_Zapp_2022_Springer]]"
-  - "[[Argument_Parreira do Amaral_2022_Springer]]"
+  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
+  - "[[Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation]]"
 sources:
   - "[[Ch10_Rambla_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

@@ -45,10 +45,10 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[The Internationalisation of Further Education: Between Geoeconomics and Geopolitics]]"
 confidence: low
 status: draft
 created: '2026-05-07'

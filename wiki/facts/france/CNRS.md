@@ -22,7 +22,7 @@ related_facts:
   - "[[Research Excellence Framework]]"
   - "[[National Science Foundation]]"
 related_arguments:
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
 confidence: medium
 status: draft
 created: 2026-06-01

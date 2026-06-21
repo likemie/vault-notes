@@ -24,7 +24,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Brock_2025_DataAccessGenerationUse]]"
+  - "[[Data: Access, generation, use]]"
 confidence: medium
 status: draft
 created: 2026-06-04

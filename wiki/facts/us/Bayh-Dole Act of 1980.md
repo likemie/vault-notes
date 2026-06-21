@@ -31,9 +31,9 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
-  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
-  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Ethical relationships, legal frameworks, and agreements]]"
+  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
+  - "[[Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration]]"
 confidence: medium
 status: draft
 created: 2026-05-26

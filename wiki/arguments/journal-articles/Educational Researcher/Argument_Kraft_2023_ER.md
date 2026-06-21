@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "The effect-size benchmark that matters most: Education interventions often fail"
+argument_key: "Argument_Kraft_2023_ER"
 argument_display_title: "The effect-size benchmark that matters most: Education interventions often fail"
 argument_kind: "journal-article"
 argument_related_count: 5

@@ -28,7 +28,7 @@ related_persons:
   - "[[Pepka Boyadjieva]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Boyadjieva_2022_Springer]]"
+  - "[[(Un)avoidable clash: Higher education at the altar of its missions and rankings]]"
 confidence: low
 status: draft
 created: '2026-05-11'

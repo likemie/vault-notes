@@ -26,8 +26,8 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Eacott_2019_IJLE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Ranting, raving and complaining: reflections on working against orthodoxy]]"
+  - "[[Educators are not uncritical believers of a cult figure]]"
 confidence: medium
 status: draft
 created: 2026-05-03

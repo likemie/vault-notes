@@ -33,7 +33,7 @@ related_facts:
   - "[[John Dewey's 1928 Visit to the Soviet Union]]"
   - "[[American Society for Cultural Relations with Russia]]"
 related_arguments:
-  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
 confidence: medium
 status: draft
 created: 2026-05-19

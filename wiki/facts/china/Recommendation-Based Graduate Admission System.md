@@ -27,7 +27,7 @@ related_persons: []
 related_facts:
   - "[[China College Graduate Employment Reform]]"
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[金榜题名之后：大学生出路分化之谜]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

@@ -22,7 +22,7 @@ related_persons:
   - "[[Kimberly Ochs]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

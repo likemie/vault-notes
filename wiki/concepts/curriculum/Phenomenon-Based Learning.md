@@ -19,16 +19,15 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Performance Indicators]]"
-  - "[[Pragmatic Paradigm]]"
   - "[[Reflexivity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Performance Indicators]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Definition of Terms]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Critical Realism]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
@@ -105,12 +104,12 @@ updated: '2026-06-21'
 ### 命题类型一：现象学与教化逻辑下的教学设计与目的（Pedagogical Design and Purposes under Phenomenological and Bildung Logics）
 
 > [!concept-lens] 类型一总结
-> 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发反思性主体能动性以及重审教育意义的教学入口。
+> 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发[[Reflexivity|反思性]]主体能动性以及重审教育意义的教学入口。
 
 > [!claim] Rauste-von Wright
-> 现象本位学习是一种课程的自我修正模型。它以 Dewey 的反思性探究与 Mead 的具身社会互动理论为根基，促使学生在与客观世界的动态关系中持续重构其世界观，旨在培养反思性与主体能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> 现象本位学习是一种课程的自我修正模型。它以 Dewey 的反思性探究与 [[George Herbert Mead|Mead]] 的具身社会互动理论为根基，促使学生在与客观世界的动态关系中持续重构其世界观，旨在培养反思性与主体能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 
-> [!claim] Schaffar & Wolff (2024)
+> [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]]
 > 现象本位学习的本质是一个重新追问教育与课程意义的教学反思入口，而非一套标准化的、可移植的教学干预技术。它旨在引导师生通过生活世界中的现象探究，唤醒教学能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
 
 ---
@@ -118,13 +117,13 @@ updated: '2026-06-21'
 ### 命题类型二：学科深度与全球治理的工具化张力（Tensions of Disciplinary Depth and Global Governance Instrumentalisation）
 
 > [!concept-lens] 类型二总结
-> 这类命题关注现象本位学习在实施过程中的边界条件与政策拉扯，聚焦在跨学科整合中如何维护学科自身的本体论深度，以及如何抵御新自由主义下的技能原子化侵蚀。
+> 这类命题关注现象本位学习在实施过程中的边界条件与政策拉扯，聚焦在跨学科整合中如何维护学科自身的[[Ontology|本体论]]深度，以及如何抵御新自由主义下的技能原子化侵蚀。
 
 > [!claim] Critical Realists
-> 跨学科探究必须以尊重学科自身的内在理论结构与本体论深度为前提。学科理论是人类探索世界不同维度的历史秩序，取消学科边界或将学科知识碎片化为横向技能清单，将从根本上损害现象本位学习的教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4–5]]
+> 跨学科探究必须以尊重学科自身的内在理论结构与本体论深度为前提。[[Discipline-Based Theory|学科理论]]是人类探索世界不同维度的历史秩序，取消学科边界或将学科知识碎片化为横向技能清单，将从根本上损害现象本位学习的[[Bildung|教化]]价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4–5]]
 
-> [!claim] Schaffar & Wolff (2024)
-> 现象本位学习面临着“整体教化理想”与“新自由主义绩效治理”之间的根本张力。受 OECD 与欧盟 21世纪技能政策话语的影响，全球测量与问责逻辑试图将知识与技能原子化为可测量的绩效指标，这构成了对现象学开放性学习过程的工具化阉割。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
+> [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]]
+> 现象本位学习面临着“整体教化理想”与“新自由主义绩效治理”之间的根本张力。受 [[OECD]] 与欧盟 [[21st Century Skills and Competencies Discourse|21世纪技能]]政策话语的影响，全球测量与问责逻辑试图将[[Atomisation of Knowledge and Skills|知识与技能原子化]]为可测量的[[Performance Indicators|绩效指标]]，这构成了对[[Phenomenology|现象学]]开放性学习过程的工具化阉割。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 ---
 

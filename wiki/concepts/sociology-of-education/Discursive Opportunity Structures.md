@@ -20,7 +20,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Subjects and Subjectivities of the (New) Geopolitics of Knowledge]]"
 confidence: medium
 status: draft
 created: 2026-05-21

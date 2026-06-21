@@ -37,9 +37,9 @@ related_persons:
   - "[[Sami Moisio]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Fan_Song_Zhai_2024_RSEE]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[In what sense a geopolitical knowledge-based economy? In M]]"
+  - "[[Education, science and technology, and talent integrated development: Evidence from China]]"
+  - "[[Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

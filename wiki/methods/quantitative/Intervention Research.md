@@ -33,8 +33,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Higgins_2016_RE]]"
+  - "[[How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -34,9 +34,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_SpronkenSmith_2024_AEHE]]"
-  - "[[Argument_Wong_2022_HERD]]"
-  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities]]"
+  - "[[A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355]]"
+  - "[[Comparative education and international relations]]"
 confidence: low
 status: draft
 created: '2026-05-26'

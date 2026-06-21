@@ -4,6 +4,7 @@ type: argument
 subtype: monograph
 publication_type: book
 title: "Darwin's Finch: A Short History of Cognition"
+argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
 argument_related_count: 6

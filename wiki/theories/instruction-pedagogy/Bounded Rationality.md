@@ -27,7 +27,7 @@ related_persons:
   - "[[Herbert A. Simon]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Visible learning and its enemies – the missing link]]"
 confidence: low
 status: draft
 created: '2026-05-03'

@@ -28,7 +28,7 @@ related_facts:
   - "[[Education International]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Beech_2009_CE]]"
+  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
 confidence: medium
 status: draft
 created: 2026-06-09

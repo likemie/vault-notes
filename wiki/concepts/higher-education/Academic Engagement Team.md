@@ -25,7 +25,7 @@ related_concepts:
 related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
 related_arguments:
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Gaining Support Within Companies for Collaboration]]"
 confidence: medium
 status: draft
 created: 2026-06-03

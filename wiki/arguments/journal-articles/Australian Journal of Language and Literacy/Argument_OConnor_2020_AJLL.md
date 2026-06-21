@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
+argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
 argument_related_count: 22
@@ -23,7 +24,6 @@ tags:
   - theme/researcher-bias
   - stance/critique
 related_concepts:
-  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"

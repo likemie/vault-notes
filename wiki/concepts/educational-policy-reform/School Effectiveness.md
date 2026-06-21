@@ -28,7 +28,7 @@ related_persons: []
 related_facts:
   - "[[Ofsted]]"
 related_arguments:
-  - "[[Argument_Ball_2008_SR]]"
+  - "[[Some sociologies of education: A history of problems and places, and segments and gazes]]"
 confidence: medium
 status: draft
 created: 2026-05-23

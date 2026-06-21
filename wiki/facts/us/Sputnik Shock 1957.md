@@ -31,8 +31,8 @@ related_facts:
   - "[[Economics of Education Movement]]"
   - "[[Comparative Education Center at Chicago 1958]]"
 related_arguments:
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Comparative education and international relations]]"
 confidence: medium
 status: draft
 created: 2026-05-08

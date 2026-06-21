@@ -28,7 +28,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem]]"
 confidence: medium
 status: draft
 created: 2026-06-17

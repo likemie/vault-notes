@@ -24,7 +24,7 @@ related_facts:
   - "[[Smith Lever Act of 1914]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Organization and Strategy for University-Industry Relationships]]"
 confidence: medium
 status: draft
 created: 2026-05-27

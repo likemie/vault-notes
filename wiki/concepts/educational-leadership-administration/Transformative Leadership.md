@@ -24,7 +24,7 @@ related_persons:
   - "[[Helen Gunter]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Møller_2017]]"
+  - "[[Leading education beyond what works]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

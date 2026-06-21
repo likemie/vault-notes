@@ -44,10 +44,10 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Gorur_2014_Discourse]]"
-  - "[[Argument_Møller_2017]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Producing calculable worlds: education at a glance]]"
+  - "[[Leading education beyond what works]]"
+  - "[[Seven reasons to question the hegemony of Visible Learning]]"
+  - "[[Leading the blind: A critical look at Visible Learning]]"
 confidence: high
 status: draft
 created: '2026-05-01'

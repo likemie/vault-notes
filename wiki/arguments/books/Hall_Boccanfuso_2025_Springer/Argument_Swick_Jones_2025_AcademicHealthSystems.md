@@ -46,6 +46,7 @@ updated: '2026-06-08'
 subtype: book-chapter
 publication_type: book
 title: "The unique role of academic health systems in facilitating innovative UI partnerships"
+argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
 argument_related_count: 22

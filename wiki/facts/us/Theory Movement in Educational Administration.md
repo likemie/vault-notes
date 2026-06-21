@@ -29,7 +29,7 @@ related_persons:
   - "[[Thomas Barr Greenfield]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Problematising the intellectual gaze of the educational administration scholar]]"
 confidence: medium
 status: draft
 created: 2026-05-02

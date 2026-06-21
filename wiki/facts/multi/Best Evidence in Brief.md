@@ -25,7 +25,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[Argument_Slavin_2021_ROE]]"
+  - "[[How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

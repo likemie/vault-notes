@@ -39,11 +39,11 @@ related_facts:
   - "[[Strong Beginnings Report]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Bainbridge_2022_ROE]]"
-  - "[[Argument_Cowen_2019_ERE]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement]]"
+  - "[[Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits]]"
+  - "[[Responding to research evidence in Parliament: A case study on selective education policy]]"
+  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
 confidence: high
 status: completed
 created: 2026-06-06

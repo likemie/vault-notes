@@ -23,7 +23,7 @@ related_methods: []
 related_persons:
   - "[[Julie Nelson]]"
 related_arguments:
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Evidence-informed practice in education: meanings and applications]]"
 related_facts: []
 confidence: medium
 status: draft

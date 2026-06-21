@@ -6,6 +6,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "Comparative education and international relations"
+argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
 argument_related_count: 41
@@ -65,8 +66,8 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
-  - "[[Argument_Cowen_2009_CE]]"
-  - "[[Argument_Beech_2009_CE]]"
+  - "[[The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327]]"
+  - "[[Policy spaces, mobile discourses, and the definition of educated identities]]"
 sources:
   - "[[Klerides_2023_CE]]"
 part_of: ''

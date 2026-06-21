@@ -32,7 +32,7 @@ related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
 related_arguments:
-  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

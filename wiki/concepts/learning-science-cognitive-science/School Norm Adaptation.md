@@ -27,7 +27,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Lekhal_2015_Paideia]]"
+  - "[[Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

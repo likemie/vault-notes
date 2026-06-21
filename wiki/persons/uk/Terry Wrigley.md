@@ -36,10 +36,10 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[John Dewey]]"
 related_arguments:
-  - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Biesta_2010_SPE]]"
-  - "[[Argument_Cowen_2019_ERE]]"
+  - "[[The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376]]"
+  - "[[Evidence-based teaching: a simple view of 'science']]"
+  - "[[Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education]]"
+  - "[[For whom does 'what works' work? The political economy of evidence-based education]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"

@@ -4,6 +4,7 @@ type: argument
 subtype: journal-article
 publication_type: journal-article
 title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
+argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
 argument_related_count: 13
@@ -44,7 +45,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
   - "[[Sectoral Innovation Database]]"
 related_arguments:
-  - "[[Argument_Pavitt_1984_RP]]"
+  - "[[Sectoral patterns of technical change: Towards a taxonomy and a theory]]"
 sources:
   - "[[Bogliacino_Pianta_2016_EP]]"
 part_of:

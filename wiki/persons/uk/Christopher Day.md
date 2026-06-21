@@ -18,7 +18,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Møller_2017]]"
+  - "[[Leading education beyond what works]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium

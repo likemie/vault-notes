@@ -27,7 +27,7 @@ related_facts:
   - "[[Social Programs That Work]]"
   - "[[Best Evidence Encyclopedia]]"
 related_arguments:
-  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

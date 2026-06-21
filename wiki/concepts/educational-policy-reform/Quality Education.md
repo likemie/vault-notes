@@ -28,8 +28,8 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Wang_2025_CE]]"
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme]]"
+  - "[[The Chinese Dewey: Friend, fiend, and flagship]]"
 confidence: medium
 status: draft
 created: 2026-05-26

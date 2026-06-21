@@ -26,7 +26,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Network of Academic Corporate Relations Officers]]"
 related_arguments:
-  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
+  - "[[Connecting, Exploring, Uncovering, and Building Partnerships]]"
 confidence: medium
 status: draft
 created: 2026-05-27

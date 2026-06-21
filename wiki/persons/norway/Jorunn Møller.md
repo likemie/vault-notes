@@ -21,7 +21,7 @@ related_persons:
   - "[[Helen Gunter]]"
   - "[[Carolyn Shields]]"
 related_arguments:
-  - "[[Argument_Møller_2017]]"
+  - "[[Leading education beyond what works]]"
 related_facts:
   - "[[OECD]]"
 confidence: high

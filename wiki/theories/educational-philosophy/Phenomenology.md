@@ -32,9 +32,9 @@ related_persons:
   - "[[Alfred Schutz]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Research Methods in Education]]"
+  - "[[Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots]]"
+  - "[[Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education]]"
 confidence: high
 status: draft
 created: 2026-06-14

@@ -41,12 +41,12 @@ related_facts:
   - "[[Oxford UIDP Summit 2019]]"
   - "[[Inventor-Owned IP Policy (University of Waterloo)]]"
 related_arguments:
-  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
-  - "[[Argument_Lester_2005_MIT]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[University-Industry Alliances and Consortia]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
+  - "[[Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019]]"
+  - "[[Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)]]"
+  - "[[University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration]]"
+  - "[[Evolution of University-Industry Relationships for Driving Innovation]]"
 confidence: medium
 status: draft
 created: 2026-05-26

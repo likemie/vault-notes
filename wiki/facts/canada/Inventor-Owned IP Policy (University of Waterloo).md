@@ -22,7 +22,7 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Gaining Support Within Universities for Collaboration]]"
 confidence: low
 status: draft
 created: 2026-06-03

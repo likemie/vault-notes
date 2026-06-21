@@ -32,8 +32,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges]]"
+  - "[[How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ESSA 2015 Evidence Standards]]"

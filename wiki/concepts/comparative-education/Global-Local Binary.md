@@ -27,7 +27,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments:
-  - "[[Argument_Beech_2015_GSE]]"
+  - "[[Interpreting the circulation of educational discourse across space: searching for new vocabularies]]"
 confidence: medium
 status: draft
 created: 2026-06-07

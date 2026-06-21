@@ -38,11 +38,11 @@ related_facts:
   - "[[OECD Improving School Leadership Project]]"
   - "[[My School Website]]"
 related_arguments:
-  - "[[Argument_Møller_2017]]"
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Eacott_2011_JEAH]]"
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Leading education beyond what works]]"
+  - "[[Which Vision of Education for Late Modernity? In M]]"
+  - "[[Preparing 'educational' leaders in managerialist times: an Australian story]]"
+  - "[[Rise of Asia, geopolitical shifts and higher education]]"
+  - "[[The new political economy of higher education: between distributional conflicts and discursive stratification]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

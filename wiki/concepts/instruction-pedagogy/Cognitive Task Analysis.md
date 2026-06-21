@@ -22,7 +22,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
-  - "[[Argument_Fredens_2015_Paideia]]"
+  - "[[Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]]]"
 confidence: low
 status: draft
 created: '2026-05-05'

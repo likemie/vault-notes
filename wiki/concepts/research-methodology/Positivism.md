@@ -28,7 +28,7 @@ related_persons:
   - "[[Søren Kierkegaard]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Research Methods in Education]]"
 confidence: high
 status: draft
 created: 2026-06-13

@@ -23,7 +23,7 @@ related_persons:
 related_facts:
   - "[[John Dewey's 1928 Visit to the Soviet Union]]"
 related_arguments:
-  - "[[Argument_Ryabyy_2024_Maneto]]"
+  - "[[A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union]]"
 confidence: medium
 status: draft
 created: 2026-05-26
