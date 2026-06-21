@@ -7750,21 +7750,26 @@
 
 .callout[data-callout="theory-components"] > .callout-content > ul {
   counter-reset: tc-n;
-  display: grid;
+  display: grid !important;
   grid-template-columns: repeat(2, 1fr);
   gap: 0.55rem;
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
-/* 彻底消除 bullet（与 dimension 保持一致，用 display:none） */
-.callout[data-callout="theory-components"] > .callout-content > ul > li::marker { display: none; }
+/* 核弹：::marker 全属性清除 */
+.callout[data-callout="theory-components"] > .callout-content > ul > li::marker {
+  content: "" !important;
+  display: none !important;
+  font-size: 0 !important;
+}
 
 /* 卡片：display:block 彻底清除 list-item marker box */
 .callout[data-callout="theory-components"] > .callout-content > ul > li {
   counter-increment: tc-n;
   display: block !important;
   list-style: none !important;
+  list-style-type: none !important;
   position: relative;
   padding: 0.55rem 0.75rem 0.65rem 2.55rem;
   border: 1px solid rgba(var(--tc), 0.14);
