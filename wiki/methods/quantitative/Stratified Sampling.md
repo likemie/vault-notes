@@ -9,9 +9,9 @@ summary: "将总体按关键特征划分为同质层后在各层内分别随机�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 6
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags:
   - method/sampling

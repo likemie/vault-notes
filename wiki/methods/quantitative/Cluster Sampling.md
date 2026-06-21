@@ -7,7 +7,7 @@ summary: "当总体大且分散时，选择地理或组织上聚集的群组并�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 2
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"

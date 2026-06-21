@@ -7,9 +7,9 @@ summary: "非概率版的分层抽样，力求按总体中的比例代表显著�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
+method_related_count: 6
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#fef3c7"
 tags:
   - method/sampling

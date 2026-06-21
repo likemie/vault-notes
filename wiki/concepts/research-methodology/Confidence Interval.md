@@ -6,7 +6,7 @@ aliases:
 summary: "围绕点估计给出的可能取值范围，用于表示估计不确定性并帮助判断不同结果之间差异的稳定程度。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -7,7 +7,7 @@ summary: "从总体名单中以固定间隔选取样本的概率抽样方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 3
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"

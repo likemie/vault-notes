@@ -7,9 +7,9 @@ summary: "扎根理论的核心抽样方法，数据收集与分析迭代推进�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
+method_related_count: 6
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
