@@ -8,7 +8,7 @@ summary: "一种从社会学发展而来的质性研究设计，通过多阶段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Non-probability Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
@@ -48,7 +49,7 @@ updated: 2026-05-30
 ## 研究程序
 
 > [!example]
-> - 采用理论抽样（theoretical sampling），根据理论发展的需要选择后续参与者或数据来源。
+> - 采用[[Non-probability Sampling|理论抽样]]（theoretical sampling），根据理论发展的需要选择后续参与者或数据来源。
 > - 通过开放式[[Coding in Qualitative Research|编码]]（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
 > - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
@@ -82,5 +83,5 @@ updated: 2026-05-30
 > [!warning]
 > - 研究过程耗时较长，需要多轮数据收集和分析的迭代。
 > - 研究者需避免将预设的理论框架强加于数据，保持对数据的敏感性。
-> - 理论抽样要求研究者根据分析进展调整数据收集策略，灵活性较高但也增加了设计的不确定性。
+> - [[Non-probability Sampling|理论抽样]]要求研究者根据分析进展调整数据收集策略，灵活性较高但也增加了设计的不确定性。
 

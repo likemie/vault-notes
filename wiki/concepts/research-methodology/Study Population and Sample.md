@@ -10,15 +10,19 @@ aliases:
 summary: "量化研究中研究总体指推论目标全部人群，研究样本指实际检验的受试者子集，抽样目标是以最小化偏差的方式从总体选取样本"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/sampling
   - quantitative-research
   - survey
 related_concepts:
+  - "[[Sample Size Determination]]"
+  - "[[Purpose Statement]]"
+  - "[[Variable]]"
+  - "[[Gatekeepers]]"
   - "[[External Validity]]"
   - "[[Response Bias]]"
   - "[[Internal Validity]]"
@@ -27,6 +31,8 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Survey Research]]"
   - "[[Random Sampling]]"
+  - "[[Non-probability Sampling]]"
+  - "[[Mixed Methods Research]]"
   - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
@@ -50,8 +56,34 @@ updated: 2026-06-01
 
 ## 核心要素
 
-> [!abstract]
-> 总体与样本在方法计划中的报告要求（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
+### 抽样决策的五项关键因素
+
+研究者在决定抽样策略时必须就以下五项因素做出判断：
+
+> [!feature] 抽样决策五因素
+> - **[[Sample Size Determination|样本量]]**（sample size）：取决于[[Purpose Statement|研究目的]]、总体性质、所需准确度、预期回应率、[[Variable|变量]]数量和统计方法要求。
+> - **样本的代表性与参数特征**（representativeness and parameters）：即正确清晰地设定总体的参数特征——抽样框。研究者需明确什么在被代表。
+> - **样本的准入**（access to the sample）：不仅需确保准入被允许，还需确保准入实际上可行。准入可能因参与者自身原因、实际原因、保护性原因或[[Gatekeepers|守门人]]（gatekeepers）而被拒绝。
+> - **抽样策略**（sampling strategy）：选择[[Random Sampling|概率抽样]]还是[[Non-probability Sampling|非概率抽样]]。
+> - **研究的类型**：定量、定性还是[[Mixed Methods Research|混合方法]]——不同类型对应不同的抽样逻辑和样本量要求。
+
+经验丰富的研究者从总体出发向下推导样本；经验不足的研究者常从底部向上工作——先确定最少受访者数量却不事先识别总体，导致几乎无法评估样本的代表性（p.143）。
+
+### 代表性、抽样框与加权
+
+> [!feature]
+> - **抽样框**（Sampling Frame）：总体的参数特征——即明确界定哪些人（或单位）属于研究总体、哪些不属于。抽样框的错误或模糊是样本无代表性的重要来源。书中以"背痛研究"为例说明了四个变量（气候、年龄、职业、报告发生率）如何对研究产生不成比例的影响，导致全国性报纸的标题严重夸大了研究发现（pp.152–153）。
+> - **加权调整**（Weighting）：数据收集后调整子组在样本中的权重。例如若样本中女生是男生的两倍而总体男女各半，则需将男生数量翻倍或女生数量减半——加权前后的结果可能截然不同。这是一种使样本更公平地代表总体的重要技术（p.153）。
+> - **过度抽样与加权抽样**：对于极小总体子群，可能需要对该子群抽取更高比例（加权抽样/过度抽样），之后再按比例缩减结果，以确保该子群在分析中有足够案例数（p.148）。
+
+### 准入与守门人
+
+> [!feature]
+> - **准入的多重障碍**：参与者可能因自身原因（如逃学者不在场、受创伤者无法面对讨论）、实际原因（如医生教师无时间）、或保护性原因（如刚获差评的学校、有知识产权保护的个人）而拒绝准入（pp.154）。
+> - **守门人**（Gatekeepers）：控制研究者接触目标人群的人。对学校员工可能是校长、校董、班主任；对学生可能是朋友、帮派成员、家长、社工。研究者必须考虑不仅准入是否可能，还需如何实现准入——需要正式和非正式地接触谁（pp.154）。
+> - **信息释放问题**：准入的另一方面是信息的释放——仅能"接触到"样本还不够，问题可能在于能否将信息"公之于众"，尤其是在可能批评有权势者时（p.154）。
+
+### 方法计划中的报告要求
 
 1. **识别总体**：明确说明研究的目标总体是谁，以及总体的规模（若可确定）。
 2. **确定获取总体成员的方法**：是否存在抽样框（sampling frame）——即总体成员的邮寄名单或已发布列表？可及性问题在此凸显。

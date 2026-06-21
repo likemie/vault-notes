@@ -4846,7 +4846,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Front-loaded and End-loaded Research.md",
     "aliases": [
-      "前载型与后载型研究",
       "前载型研究",
       "后载型研究",
       "front-loaded research",
@@ -5680,6 +5679,33 @@
       "thick description",
       "rich description",
       "薄描述"
+    ]
+  },
+  {
+    "title": "Sample Size Determination",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sample Size Determination.md",
+    "aliases": [
+      "样本量确定",
+      "sample size",
+      "样本量",
+      "determining sample size",
+      "sample size calculation"
+    ]
+  },
+  {
+    "title": "Sampling Error",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sampling Error.md",
+    "aliases": [
+      "抽样误差",
+      "standard error",
+      "标准误",
+      "standard error of the mean",
+      "均值的标准误",
+      "standard error of proportions",
+      "sampling distribution",
+      "抽样分布"
     ]
   },
   {
@@ -7318,6 +7344,25 @@
     ]
   },
   {
+    "title": "Non-probability Sampling",
+    "type": "method",
+    "path": "wiki/methods/mixed/Non-probability Sampling.md",
+    "aliases": [
+      "非概率抽样",
+      "非随机抽样",
+      "non-probability sample",
+      "nonprobability sampling",
+      "purposive sample",
+      "convenience sampling",
+      "quota sampling",
+      "snowball sampling",
+      "便利抽样",
+      "配额抽样",
+      "滚雪球抽样",
+      "理论抽样"
+    ]
+  },
+  {
     "title": "Prototype Methods",
     "type": "method",
     "path": "wiki/methods/mixed/Prototype Methods.md",
@@ -8058,7 +8103,18 @@
       "probability sampling",
       "概率抽样",
       "random sample",
-      "随机样本"
+      "随机样本",
+      "simple random sampling",
+      "简单随机抽样",
+      "systematic sampling",
+      "系统抽样",
+      "stratified sampling",
+      "分层抽样",
+      "cluster sampling",
+      "整群抽样",
+      "stage sampling",
+      "阶段抽样",
+      "multi-phase sampling"
     ]
   },
   {
@@ -12284,6 +12340,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

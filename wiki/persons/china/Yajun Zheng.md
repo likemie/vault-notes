@@ -35,6 +35,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Constructivist Grounded Theory]]"
+  - "[[Non-probability Sampling]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
@@ -102,7 +103,7 @@ updated: '2026-06-08'
 
 ### 方法论立场
 
-郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[Qualitative Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[Qualitative Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与[[Non-probability Sampling|理论抽样]]选取典型案例，结合类别系列分解策略优化可外推性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 

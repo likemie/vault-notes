@@ -11,10 +11,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
-argument_related_color: "#e5e7eb"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011
@@ -25,9 +25,37 @@ tags:
   - method/sampling
   - source/textbook
   - theme/research-planning
-related_concepts: []
+related_concepts:
+  - "[[Sample Size Determination]]"
+  - "[[Purpose Statement]]"
+  - "[[Variable]]"
+  - "[[Heterogeneity]]"
+  - "[[Confidence Interval]]"
+  - "[[Sampling Error]]"
+  - "[[School Effectiveness]]"
+  - "[[Gatekeepers]]"
+  - "[[Saturation]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Fitness for Purpose]]"
+  - "[[Research Question]]"
+  - "[[Research Purpose]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Random Sampling]]"
+  - "[[Non-probability Sampling]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Chi-Squared Test]]"
+  - "[[Experimental Research]]"
+  - "[[Survey Research]]"
+  - "[[Multiple Regression]]"
+  - "[[Causal Modeling]]"
+  - "[[Purposeful Sampling]]"
+  - "[[Random Assignment]]"
+  - "[[Grounded Theory]]"
+  - "[[Qualitative Research]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -60,17 +88,17 @@ updated: 2026-06-21
 
 ## 章节内容
 
-本章系统介绍了教育研究中抽样（Sampling）的核心议题。研究的质量不仅取决于方法论和工具是否恰当，也取决于抽样策略是否合适（p.143）。抽样问题直接来源于对研究[[Study Population and Sample|总体]]的界定。由于时间、经费和可及性等因素，研究者通常无法获取整个总体的信息，因此需要从总体中选取一个较小的子集——[[Study Population and Sample|样本]]（sample），并确保从中获得的知识能代表总体。
+本章系统介绍了教育研究中抽样（Sampling）的核心议题。研究的质量不仅取决于方法论和工具是否恰当，也取决于抽样策略是否合适（p.143）。抽样问题直接来源于对研究总体的界定。由于时间、经费和可及性等因素，研究者通常无法获取整个总体的信息，因此需要从总体中选取一个较小的子集——样本（sample），并确保从中获得的知识能代表总体。
 
 > [!abstract] 抽样的五项关键决策因素
 >
 > 研究者在决定抽样策略时必须就以下五项因素做出判断（pp.143–144）：
 >
 > 1. **[[Sample Size Determination|样本量]]**（sample size）
-> 2. **样本的代表性与参数特征**（representativeness and parameters），即[[Study Population and Sample|抽样框]]
+> 2. **样本的代表性与参数特征**（representativeness and parameters），即抽样框
 > 3. **样本的准入**（access to the sample）
 > 4. **抽样策略**（sampling strategy）——[[Random Sampling|概率抽样]]还是[[Non-probability Sampling|非概率抽样]]
-> 5. **研究的类型**（定量／定性／混合方法）
+> 5. **研究的类型**（定量／定性／[[Mixed Methods Research|混合方法]]）
 
 经验丰富的研究者从总体出发向下推导样本；而经验不足的研究者常从底部向上工作——先确定所需最少受访者数量，却不事先识别总体，导致几乎无法评估样本的代表性（p.143）。
 
@@ -80,15 +108,15 @@ updated: 2026-06-21
 
 > [!abstract] 影响样本量的因素
 >
-> 样本量没有统一答案，取决于：研究目的、总体性质、所需准确度、预期回应率、研究包含的变量数量，以及研究是定量还是定性（p.144）。一般而言，定量研究中样本越大越好——不仅提供更高的可靠性，也能使用更复杂的统计方法。
+> 样本量没有统一答案，取决于：[[Purpose Statement|研究目的]]、总体性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性（p.144）。一般而言，[[Quantitative Research|定量研究]]中样本越大越好——不仅提供更高的可靠性，也能使用更复杂的统计方法。
 
 **定量研究的样本量规则**（pp.144–148）：
 
 - **30 规则**：若计划使用统计分析，30 是许多研究者公认的最小案例数，但这是一个非常小的数字。
 - **每变量 30 案例**：作为"经验法则"，每个变量至少需保证 30 个案例（最低估计）。
-- **卡方检验要求**：80% 的单元格必须有 5 个及以上案例。Gorard（2003: 63）建议从每个单元格最少案例数出发，乘以单元格数再翻倍。
+- **[[Chi-Squared Test|卡方检验]]要求**：80% 的单元格必须有 5 个及以上案例。Gorard（2003: 63）建议从每个单元格最少案例数出发，乘以单元格数再翻倍。
 - **子组的影响**：一旦需要分子组（strata），样本量会迅速膨胀。例如从 1,000 名学生中按族裔分子组抽样，原本需要 278 的随机样本可能膨胀至 428（p.147）。
-- **变异性的影响**：总体中变异越大，所需样本越大。Borg & Gall（1979: 195）建议在变量多、预期差异小、需分子组、总体异质性强或测量工具不可靠时，样本量应更大。
+- **变异性的影响**：总体中变异越大，所需样本越大。Borg & Gall（1979: 195）建议在变量多、预期差异小、需分子组、总体[[Heterogeneity|异质性]]强或测量工具不可靠时，样本量应更大。
 - **量表类型的影响**：名义数据所需样本量通常大于等距和比率数据（Oppenheim, 1992: 44）。
 
 > [!example] 样本量按研究类型（Borg & Gall, 1979: 194–5）
@@ -96,8 +124,8 @@ updated: 2026-06-21
 > | 研究类型 | 最低样本量 |
 > |---|---|
 > | 相关研究 | ≥ 30 案例 |
-> | 因果比较与实验研究 | ≥ 15 案例 |
-> | 调查研究 | 每个主要子组 ≥ 100，每个次要子组 20–50 |
+> | 因果比较与[[Experimental Research\|实验研究]] | ≥ 15 案例 |
+> | [[Survey Research\|调查研究]] | 每个主要子组 ≥ 100，每个次要子组 20–50 |
 >
 > 他们建议从最小子组出发"向上"计算总样本量：若 5% 的样本必须是青少年男生且该子组需 30 案例，则总样本 = 30 ÷ 0.05 = 600（p.146）。
 
@@ -109,10 +137,10 @@ updated: 2026-06-21
 - 当总体增大到一定程度时，所需样本量趋于恒定（约 384 案例）。
 - 例如，100 名学生以下的小学可能需要 80%–100% 的样本，而 1,200 名学生的大型中学可能只需 25% 的样本。
 
-> [!info] 置信水平与置信区间
+> [!info] 置信水平与[[Confidence Interval|置信区间]]
 >
-> - **[[Sampling Error|置信水平]]**（confidence level）：通常以百分比表示（95% 或 99%），是对回应落在给定变异范围内的确信程度指标。
-> - **[[Sampling Error|置信区间]]**（confidence interval）：希望确保的变异程度或变异范围（如 ± 1%、± 2%、± 3%）。
+> - **置信水平**（confidence level）：通常以百分比表示（95% 或 99%），是对回应落在给定变异范围内的确信程度指标。
+> - **置信区间**（confidence interval）：希望确保的变异程度或变异范围（如 ± 1%、± 2%、± 3%）。
 > - 常规策略：使用 95% 置信水平和 3% 置信区间（p.147）。
 
 **类别变量与连续变量的差异**（Bartlett et al., 2001: 45）：
@@ -121,7 +149,7 @@ updated: 2026-06-21
 - 类别数据的边际误差通常取 5%，连续数据取 3%。
 - 对于连续数据，总体达到 2,000 以上时样本量不再变化。
 
-> [!info] 多元回归与因子分析的样本量要求（Bartlett et al., 2001: 48–9）
+> [!info] [[Multiple Regression|多元回归]]与因子分析的样本量要求（Bartlett et al., 2001: 48–9）
 >
 > - 多元回归中，观察值（案例）与自变量的比率不应低于 5:1，连续数据建议 10:1。
 > - 连续数据 5:1 比率：样本量 ≥ 111，自变量 ≤ 22。
@@ -132,7 +160,7 @@ updated: 2026-06-21
 
 确定样本量还需考虑无回应（non-response）、参与者流失（attrition）和受访者死亡（respondent mortality）。因此建议高估（oversample）而非低估所需样本量，建立冗余。若无回应保障，可能需要将所需样本量翻倍。对于极小总体子群，可能需要加权抽样（weighted sample）——对该子群抽取更高比例，之后再按比例缩减结果。
 
-> [!example]- 图 8.1：抽样分布
+> [!example]- 图 8.1：[[Sampling Error|抽样分布]]
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_8-1_Sampling_Distribution.jpg)
 
 ---
@@ -143,7 +171,7 @@ updated: 2026-06-21
 
 **中心极限定理**（Central Limit Theorem）解释了这一现象：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布。随着样本量增大，样本均值的分布趋近正态分布，无论原始总体的形状如何。并且样本均值的平均值将近似等于总体均值（p.150）。
 
-**均值的标准误**（Standard Error of the Mean, SEM）：
+**均值的标准误**（Standard Error of the Mean, [[Causal Modeling|SEM]]）：
 
 抽样分布的标准差是抽样误差的度量，称为均值的标准误：
 
@@ -153,7 +181,7 @@ $$SEM = \frac{SD_{s}}{\sqrt{N}}$$
 
 **比例的标准误**（Standard Error of Proportions）：
 
-$$SE = \sqrt{\frac{P \times Q}{N}}$$
+$$[[School Effectiveness|SE]] = \sqrt{\frac{P \times Q}{N}}$$
 
 其中 $P$ = 赞成的百分比，$Q$ = 100% − $P$，$N$ = 样本量。通常在简单随机抽样基础上应用有限总体校正（finite population correction, fpc）：
 
@@ -171,7 +199,7 @@ $$fpc = \sqrt{1 - f}$$
 
 ### 8.4 样本的代表性
 
-研究者需要考虑样本在多大程度上真正代表了总体——即正确清晰地设定总体的参数特征，也就是[[Study Population and Sample|抽样框]]（sampling frame）（pp.152–153）。
+研究者需要考虑样本在多大程度上真正代表了总体——即正确清晰地设定总体的参数特征，也就是抽样框（sampling frame）（pp.152–153）。
 
 > [!example] 代表性差的典型案例
 >
@@ -190,7 +218,7 @@ $$fpc = \sqrt{1 - f}$$
 - **参与者自身原因**：如逃学者因定义就不会在场；受创伤的咨询师无法面对研究者再次讨论痛苦工作。
 - **实际原因**：如医生或教师根本没有时间。
 - **保护性原因**：如刚收到差评的学校、不想披露成功秘密的发明者。
-- **守门人**（gatekeepers）：控制研究者接触目标人群的人——对学校员工可能是校长、校董、班主任；对学生可能是朋友、帮派成员、家长、社工。
+- **[[Gatekeepers|守门人]]**（gatekeepers）：控制研究者接触目标人群的人——对学校员工可能是校长、校董、班主任；对学生可能是朋友、帮派成员、家长、社工。
 
 不仅准入可能困难，信息的释放（release of information）也可能出问题。在英国教育领域，有报告被压制、延迟或"修改"的已知案例——仅仅能够"接触到"样本还不够，问题可能在于能否将信息"公之于众"，尤其是在可能批评有权势者时（p.154）。
 
@@ -198,7 +226,7 @@ $$fpc = \sqrt{1 - f}$$
 
 ### 8.6–8.8 抽样策略
 
-抽样策略分为两大类：[[Random Sampling|概率抽样]]（probability sample，亦称随机抽样）和非概率抽样（non-probability sample，亦称目的性抽样）。区别在于：概率抽样中，总体成员被选入样本的概率已知；非概率抽样中，这一概率未知（pp.155–163）。
+抽样策略分为两大类：[[Random Sampling|概率抽样]]（probability sample，亦称随机抽样）和非概率抽样（non-probability sample，亦称[[Purposeful Sampling|目的性抽样]]）。区别在于：概率抽样中，总体成员被选入样本的概率已知；非概率抽样中，这一概率未知（pp.155–163）。
 
 #### 概率抽样
 
@@ -208,7 +236,7 @@ $$fpc = \sqrt{1 - f}$$
 
 **系统抽样**（Systematic Sampling）：从总体名单中以系统而非随机方式选取受试者。例如从 2,000 人的总体中抽取 100 人样本，每隔 20 人选取一人，起点随机选择。频率间隔 $f = \frac{N}{sn}$（$N$ = 总体人数，$sn$ = 所需样本人数）。需注意周期性问题（periodicity）：若名单存在规律性排序（如按性别分组、按能力高低排列），系统抽样可能扭曲样本（pp.155–156）。
 
-**随机分层抽样**（Random Stratified Sampling）：将总体划分为同质组（层，strata），每组包含具有相似特征的受试者，然后在各组内随机抽样。这是一个两步过程：(1) 识别必须在样本中出现的总体特征，将总体划分为同质的离散组；(2) 在各组内随机抽样。分层抽样是随机化与分类化的有用结合，同时支持定量和定性研究。特征选择应尽量简洁——因素越多，抽样越复杂，样本往往越大（pp.156–157）。
+**随机分层抽样**（Random Stratified Sampling）：将总体划分为同质组（层，strata），每组包含具有相似特征的受试者，然后在各组内随机抽样。这是一个两步过程：(1) 识别必须在样本中出现的总体特征，将总体划分为同质的离散组；(2) 在各组内随机抽样。分层抽样是[[Random Assignment|随机化]]与分类化的有用结合，同时支持定量和定性研究。特征选择应尽量简洁——因素越多，抽样越复杂，样本往往越大（pp.156–157）。
 
 **整群抽样**（Cluster Sampling）：当总体大且分散时，简单随机抽样在行政上不可行。整群抽样选择特定数量的学校（或其他地理上接近的群），并测试这些学校中的所有学生。需注意整群抽样可能引入偏差——一个重工业城市的整群样本可能不代表所有城市类型。因此宁可多取几个群并在每个群内轻度抽样，而非少取群并在每个群内深度抽样（p.157）。
 
@@ -226,7 +254,7 @@ $$fpc = \sqrt{1 - f}$$
 >
 > **配额抽样**（Quota Sampling）：非概率版的分层抽样。力求按总体中的比例代表显著特征（层）。三步：(1) 识别特征并划分同质组；(2) 确定各特征在总体中的百分比比例；(3) 确保样本中比例一致。层数越多，样本量越大——通常呈几何级而非算术级增长（pp.159–160）。
 >
-> **目的性抽样**（[[Purposeful Sampling|Purposive Sampling]]）：研究者根据典型性或所寻求的特定特征，手工挑选案例。Teddlie & Yu（2007）将其归为几大类：代表性/可比性抽样（典型个案、极端/偏差个案、强度抽样、最大变异抽样、同质抽样、声誉个案抽样）；特殊/独特个案抽样（揭示性个案、关键个案、政治重要个案、完整收集抽样）；顺序抽样（理论抽样、确认/否定个案抽样、机会抽样、滚雪球抽样）（pp.160–162）。
+> **目的性抽样**（Purposive Sampling）：研究者根据典型性或所寻求的特定特征，手工挑选案例。Teddlie & Yu（2007）将其归为几大类：代表性/可比性抽样（典型个案、极端/偏差个案、强度抽样、最大变异抽样、同质抽样、声誉个案抽样）；特殊/独特个案抽样（揭示性个案、关键个案、政治重要个案、完整收集抽样）；顺序抽样（理论抽样、确认/否定个案抽样、机会抽样、滚雪球抽样）（pp.160–162）。
 >
 > **维度抽样**（Dimensional Sampling）：配额抽样的进一步细化。识别总体中感兴趣的各种因素，获取至少一个涵盖所有因素组合的受访者（p.162）。
 >
@@ -234,17 +262,17 @@ $$fpc = \sqrt{1 - f}$$
 >
 > **志愿者抽样**（Volunteer Sampling）：当准入困难时依赖志愿者。需谨慎对待推广性或代表性声称——志愿者的动机多样（帮助朋友、研究兴趣、报复学校等），不一定代表总体（p.163）。
 >
-> **理论抽样**（Theoretical Sampling）：[[Grounded Theory|扎根理论]]的特征。样本量相对不重要——研究者持续收集数据直至理论饱和（theoretical saturation），即新数据不再导致已生成理论的修改（pp.163–164）。
+> **理论抽样**（Theoretical Sampling）：[[Grounded Theory|扎根理论]]的特征。样本量相对不重要——研究者持续收集数据直至理论饱和（[[Saturation|theoretical saturation]]），即新数据不再导致已生成理论的修改（pp.163–164）。
 
 ---
 
 ### 8.9 质性研究中的抽样
 
-在质性研究中，非概率、[[Purposeful Sampling|目的性抽样]]更为常见，但这也引出了一个根本问题：如果抽样预设存在一个可识别的总体，那么在质性研究中识别总体或样本是否现实或相关？（pp.164–165）
+在[[Qualitative Research|质性研究]]中，非概率、[[Purposeful Sampling|目的性抽样]]更为常见，但这也引出了一个根本问题：如果抽样预设存在一个可识别的总体，那么在质性研究中识别总体或样本是否现实或相关？（pp.164–165）
 
 在许多质性研究中，重点放在现象的独特性（uniqueness）、个案性和排他性上——它们只代表自己。在这种情况下讨论"样本"或许不合适，"群体"或"个体"更为恰当。它们是否代表更广泛的总体无关紧要，因为许多质性研究旨在探索特定群体而非推广。
 
-但这并不意味着质性研究中样本永远不能代表总体。Onwuegbuzie & Leech（2007: 240）认为外部推广性和对总体的推论可以在质性研究中出现，与定量研究一样，这通常需要大样本。他们区分了外部推广性和内部推广性（子组数据推广到整个样本）。他们建议质性研究的样本量应足够大以生成"厚描述"（Geertz, 1973）和丰富数据，但又不能大到因数据过载而阻碍这一目标，也不能小到阻碍理论饱和。他们还建议每个子组不应少于 3 个案例（p.165）。
+但这并不意味着质性研究中样本永远不能代表总体。Onwuegbuzie & Leech（2007: 240）认为外部推广性和对总体的推论可以在质性研究中出现，与定量研究一样，这通常需要大样本。他们区分了外部推广性和内部推广性（子组数据推广到整个样本）。他们建议质性研究的样本量应足够大以生成"[[Rich and Thick Description|厚描述]]"（Geertz, 1973）和丰富数据，但又不能大到因数据过载而阻碍这一目标，也不能小到阻碍理论饱和。他们还建议每个子组不应少于 3 个案例（p.165）。
 
 ---
 
@@ -256,15 +284,15 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 >
 > **平行混合方法抽样**（Parallel Mixed Methods Sampling）：概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集（p.165）。
 >
-> **顺序混合方法抽样**（Sequential Mixed Methods Sampling）：一种样本先于另一种并影响后续样本——如定量数据为深度访谈设置场景（识别极端案例、关键案例），或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
+> **顺序混合方法抽样**（Sequential Mixed Methods Sampling）：一种样本先于另一种并影响后续样本——如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例），或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
 >
 > **多层次混合方法抽样**（Multilevel Mixed Methods Sampling）：不同分析单位层面使用不同类型样本——例如学生层面、班级层面、学校层面、地方当局层面、区域层面。Teddlie & Tashakkori（2009: 191）提供了一个学校效能研究的多层次抽样实例，五个层面分别使用了不同的概率和目的性抽样策略（p.166）。
 
-Teddlie & Tashakkori（2009: 186）还推荐了**分层目的性抽样**（stratified purposive sampling）：研究者识别总体中的不同层（子组），然后从各层中选择有限数量的案例，确保选择基于目的性抽样策略（适合目的）。在这种情况下，目的性样本是概率样本的子集。
+Teddlie & Tashakkori（2009: 186）还推荐了**分层目的性抽样**（stratified purposive sampling）：研究者识别总体中的不同层（子组），然后从各层中选择有限数量的案例，确保选择基于目的性抽样策略（[[Fitness for Purpose|适合目的]]）。在这种情况下，目的性样本是概率样本的子集。
 
 他们还推荐了**目的性随机抽样**（purposeful random sampling）：从已通过目的性抽样选定的总体（为特定目的而选择的总体）中，随机抽取少量案例（pp.166–167）。
 
-混合方法研究的抽样策略应遵循八项准则：逻辑上源自研究问题或假设；忠实于抽样策略所依据的假定；生成回答研究问题所需的定性和定量数据；能从两类数据中得出清晰推论；遵守伦理原则；切实可行且高效；结果可推广并明确推广对象；报告详细程度足以让其他研究者理解并可将来使用（p.167）。
+混合方法研究的抽样策略应遵循八项准则：逻辑上源自[[Research Question|研究问题]]或假设；忠实于抽样策略所依据的假定；生成回答研究问题所需的定性和定量数据；能从两类数据中得出清晰推论；遵守伦理原则；切实可行且高效；结果可推广并明确推广对象；报告详细程度足以让其他研究者理解并可将来使用（p.167）。
 
 ---
 
@@ -286,7 +314,7 @@ Teddlie & Tashakkori（2009: 186）还推荐了**分层目的性抽样**（strat
 
 ### 8.12 结论
 
-本章的核心信息是：研究的每一个要素都应是计划的、有意识的，判断标准是[[Fitness for Purpose|目的适切性]]（fitness for purpose）。抽样策略的选择必须受适宜性标准支配。选择哪种策略必须考虑研究目的、时间尺度和约束、研究设计、数据收集方法和研究方法论。
+本章的核心信息是：研究的每一个要素都应是计划的、有意识的，判断标准是目的适切性（fitness for purpose）。抽样策略的选择必须受适宜性标准支配。选择哪种策略必须考虑[[Research Purpose|研究目的]]、时间尺度和约束、研究设计、数据收集方法和研究方法论。
 
 至于"样本应该多大"，答案取决于：研究目的和设计、总体规模、所需置信水平与置信区间、预期回应率、所需准确度、变量类型（类别/连续）、所用统计方法、所需层数、研究包含的变量数量、所研究因素的变异性、样本类型、样本代表性、流失和无回应的预留量、比例样本中保持比例的需要，以及研究的类型（定性/定量/混合方法）（pp.169–170）。
 
@@ -316,23 +344,23 @@ Teddlie & Tashakkori（2009: 186）还推荐了**分层目的性抽样**（strat
 >
 > *Experienced researchers start with the total population and work down to the sample. By contrast, less experienced researchers often work from the bottom up, that is, they determine the minimum number of respondents needed to conduct the research.* (Ch. 8, p. 143)
 
-> [!citation-card]- 样本量与统计功效
-> 功效是对你所使用的检验将效应量与随机变异区分开来之能力的估计。大样本帮助研究者实现统计功效。（第8章，p.152）
+> [!citation-card]- [[Sample Size Determination|样本量]]与统计功效
+> 功效是对你所使用的检验将[[Effect Size|效应量]]与随机变异区分开来之能力的估计。大样本帮助研究者实现统计功效。（第8章，p.152）
 >
 > *Power is an estimate of the ability of the test you are using to separate the effect size from random variation.* (Ch. 8, p. 152)
 
-> [!citation-card]- 抽样误差的本质
+> [!citation-card]- [[Sampling Error|抽样误差]]的本质
 > 抽样误差不一定是抽样程序错误的结果。更确切地说，变异可能源于对不同个体的随机选择。（第8章，p.149）
 >
 > *Sampling error is not necessarily the result of mistakes made in sampling procedures. Rather, variations may occur due to the chance selection of different individuals.* (Ch. 8, p. 149)
 
 > [!citation-card]- 样本量与规模反思
-> 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于研究目的、所审视总体的性质、所需准确度、预期回应率、研究包含的变量数量，以及研究是定量还是定性。（第8章，p.144）
+> 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Purpose Statement|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性。（第8章，p.144）
 >
 > *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the purpose of the study...* (Ch. 8, p. 144)
 
-> [!citation-card]- 非概率抽样的适用情境
-> 小规模研究常使用非概率抽样，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行问卷试点时完全够用。（第8章，p.158）
+> [!citation-card]- [[Non-probability Sampling|非概率抽样]]的适用情境
+> 小规模研究常使用非[[Random Sampling|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行问卷试点时完全够用。（第8章，p.158）
 >
 > *Small-scale research often uses non-probability samples because, despite the disadvantages that arise from their non-representativeness, they are far less complicated to set up, are considerably less expensive and can prove perfectly adequate...* (Ch. 8, p. 158)
 

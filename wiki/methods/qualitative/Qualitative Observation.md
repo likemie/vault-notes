@@ -9,7 +9,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Observation Protocol]]"
+  - "[[Non-probability Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -100,7 +101,7 @@ updated: '2026-06-19'
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 实地课堂观察记录、会议记录、校长或教师日常活动的田野笔记、物证与档案资料。 |
-> | 抽样或选案 | 目的抽样、理论抽样、最大变异或关键案例（如选取特定新校长个案进行研究）。 |
+> | 抽样或选案 | 目的抽样、[[Non-probability Sampling\|理论抽样]]、最大变异或关键案例（如选取特定新校长个案进行研究）。 |
 > | 研究者位置 | 研究者需要在现场确定隐蔽程度与参与程度，保持审慎的反身性与[[Research Ethics\|研究伦理]]。 |
 > | 资料边界 | 明确限定的实地观察周期（如为期四个月）、特定物理场所以及观察对象范围。 |
 

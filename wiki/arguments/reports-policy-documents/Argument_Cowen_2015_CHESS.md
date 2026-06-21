@@ -12,7 +12,7 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Non-probability Sampling]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -72,7 +73,7 @@ citation_aliases:
 > - 方法：Elite Interview Method — 精英访谈法，选择"因其身份或职位"能提供独特信息的受访者
 > - 样本：22 位教师，来自 12 所英格兰学校，覆盖社区中小学、学院制学校和自由学校，含新教师、资深教师、中层管理、副校长、校长和校董
 > - 数据来源：半结构化访谈 + [[Literature Review|文献综述]]（非系统性）+ 参加一次教师自发组织的非正式会议获取背景
-> - 抽样方式：滚雪球抽样 + 社交媒体（Twitter）招募
+> - 抽样方式：[[Non-probability Sampling|滚雪球抽样]] + 社交媒体（Twitter）招募
 
 ## 核心论证
 

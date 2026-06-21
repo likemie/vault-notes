@@ -6,7 +6,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -16,6 +16,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Sample Size Determination]]"
   - "[[Epistemology]]"
   - "[[Naturalistic Generalization]]"
   - "[[Research Question]]"
@@ -32,6 +33,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Non-probability Sampling]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -48,7 +50,7 @@ updated: 2026-06-01
 > [!info] 定义
 > 个案研究（Case Study）是一种在多个领域（尤其是评估领域）中广泛使用的[[Qualitative Research|质性研究]]设计。研究者对一个案例（通常是一个项目、事件、活动、过程或一个或多个个体）进行深度分析。案例受时间和地点（或情境）的限定，研究者通过多种数据收集程序在持续的时间段内收集详细信息（Stake, 1995; Yin, 2009, 2012, 2014）。
 >
-> 与其他质性设计相比，个案研究的特点在于以"案例"（case）为分析单位——案例可以是个体、群体、组织、项目或事件——通过对受时空限定的个案进行深度多源分析来理解该个案本身的复杂性或揭示更大的理论问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch1, Ch9）。Creswell & Creswell（2022, Ch9）将案例研究归入五种主要[[Analytic Framework|分析框架]]之一，建议样本量为约四至五个案例。
+> 与其他质性设计相比，个案研究的特点在于以"案例"（case）为分析单位——案例可以是个体、群体、组织、项目或事件——通过对受时空限定的个案进行深度多源分析来理解该个案本身的复杂性或揭示更大的理论问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch1, Ch9）。Creswell & Creswell（2022, Ch9）将案例研究归入五种主要[[Analytic Framework|分析框架]]之一，建议[[Sample Size Determination|样本量]]为约四至五个案例。
 >
 > 在具体研究实践中，[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以少数典型案例为分析单位，通过对个案的深入考察来理解更广泛的社会过程或机制。在其精英大学学生出路分化研究中，对 62 名毕业班学生进行了跟踪式个案研究，研究者与被访者保持联络直至其最终确定毕业去向才宣告结束。
 >
@@ -75,7 +77,7 @@ updated: 2026-06-01
 > 5. **跨案例分析**（多案例设计）：如涉及多个案例，先进行个案内分析（within-case analysis），再进行跨案例分析（cross-case analysis），识别跨案例的模式和主题
 > 6. **结果呈现**：以叙事形式呈现，可包含关于每个参与者的描述性信息表格（如案例研究和[[Ethnography|民族志]]中常见），以及跨案例的主题讨论
 
-> [!note] 样本量建议
+> [!note] [[Sample Size Determination|样本量]]建议
 > Creswell & Creswell（2022, Ch9）给出了各质性设计的粗略样本量估计：[[Narrative Research|叙事研究]] 1-2 人、[[Phenomenology|现象学]] 3-10 人、[[Grounded Theory|扎根理论]] 20-30 人、民族志一个文化群体、**案例研究约 4-5 个案例**。案例研究的样本量指的是"案例数量"而非"参与者数量"——每个案例内部可能包含多名参与者。多案例设计通过复制逻辑增强分析性推广的可信度。
 
 ### 跟踪式设计的双重目的
@@ -94,7 +96,7 @@ updated: 2026-06-01
 >
 > **目的抽样（Purpose Sampling）**：根据[[Research Question|研究问题]]和[[Analytic Framework|分析框架]]的需要有目的地选取能带来最大理论潜力的个案([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 >
-> **理论抽样（Theoretical Sampling）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
+> **[[Non-probability Sampling|理论抽样]]（Theoretical Sampling）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
 > - 院系/学科背景力求差异
 > - 家庭社会经济背景力求差异
 > - 内化学校主流价值观的程度力求差异
@@ -142,6 +144,6 @@ updated: 2026-06-01
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与理论抽样，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与[[Non-probability Sampling|理论抽样]]，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE]] — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所（两所城市、两所农村）进行深度追踪，结合半结构化访谈和学校文件分析，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
 

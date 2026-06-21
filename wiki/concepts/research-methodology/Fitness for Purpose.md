@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划中的核心原则，指研究方法、研究设计、资料收集工具和抽样策略应与研究目的相匹配，研究目的决定随后的方法选择而非相反"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Causality]]"
 related_theories: []
 related_methods:
+  - "[[Random Sampling]]"
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
@@ -59,10 +60,10 @@ updated: 2026-06-19
 
 ### 三种典型情境的适配
 
-Ch.7 以三种研究目的为例，展示了目的适配性的具体运作（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.118]]）：
+Ch.7 以三种[[Research Purpose|研究目的]]为例，展示了目的适配性的具体运作（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.118]]）：
 
 > [!feature] 三情境-设计适配
-> - **绘制领域全貌或做出可推广论断** → 调查方法配合分层抽样
+> - **绘制领域全貌或做出可推广论断** → 调查方法配合[[Random Sampling|分层抽样]]
 > - **评估特定干预的效果** → 实验或行动研究模型
 > - **对特定情境或群体进行深入理解** → [[Ethnography|民族志]]模型
 

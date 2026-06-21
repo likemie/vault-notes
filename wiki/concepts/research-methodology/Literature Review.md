@@ -11,12 +11,15 @@ related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Topic]]"
+  - "[[Abstract]]"
   - "[[Literature Search]]"
   - "[[Research Question]]"
+  - "[[Epistemology]]"
   - "[[Variable]]"
   - "[[Postpositivism]]"
 related_theories: []
 related_methods:
+  - "[[Literature Map]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -41,21 +44,21 @@ updated: 2026-06-21
 > [!concept-lens] 概念透镜
 > - **含义** 文献综述是一个论证性文本，而非描述性总结。它综合多种材料形成持续的、累积的论证，最终导向结论——如当前研究需要研究什么、如何研究、为何研究。
 > - **用途** 确立研究的理论框架、信度和效度基础；定义关键术语；识别领域空白；为研究提供跳板和正当性。
-> - **边界** 文献综述不是文献摘要的堆砌，不是展示"我读过这些"的自恋行为，也不等同于[[Literature Search|文献检索]]（检索是收集材料的技术性操作，综述是对材料进行论证组织的写作）。
+> - **边界** 文献综述不是[[Abstract|文献摘要]]的堆砌，不是展示"我读过这些"的自恋行为，也不等同于[[Literature Search|文献检索]]（检索是收集材料的技术性操作，综述是对材料进行论证组织的写作）。
 
 > [!boundary]- 概念边界
 > - 不等于 [[Literature Search|文献检索]] — 检索是定位和获取文献的技术过程；综述是将检索结果组织成论证的写作过程。
-> - 不适用于 — 原始数据收集和分析（那是实证研究部分）；替代对研究问题的直接回答。
+> - 不适用于 — 原始数据收集和分析（那是实证研究部分）；替代对[[Research Question|研究问题]]的直接回答。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 文献综述 vs 文献检索
+> [!contrast-table] 文献综述 vs [[Literature Search|文献检索]]
 > | 维度 | 文献综述 | [[Literature Search\|文献检索]] |
 > |---|---|---|
 > | 本质 | 论证性写作 | 技术性操作 |
-> | 产出 | 有组织、有论证发展的文本 | 文献列表、摘要、文献地图 |
+> | 产出 | 有组织、有论证发展的文本 | 文献列表、摘要、[[Literature Map\|文献地图]] |
 > | 核心能力 | 批判性综合、论证构建 | 检索策略、数据库操作、来源判断 |
 > | 关系 | 依赖检索提供材料 | 服务于综述的论证需要 |
 
@@ -116,7 +119,7 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 
 ### 不同研究范式中的角色
 
-文献综述在三种研究路径中有不同的组织方式和认识论角色。
+文献综述在三种研究路径中有不同的组织方式和[[Epistemology|认识论]]角色。
 
 #### 量化研究
 
@@ -144,7 +147,7 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 
 #### 混合方法研究
 
-> [!info] 混合方法中的文献使用
+> [!info] [[Mixed Methods Research|混合方法]]中的文献使用
 > [[Mixed Methods Research|混合方法研究]]中的文献使用取决于设计类型和成分权重。在序列式设计中，每个阶段的文献与该阶段使用的方法一致：如果以量化阶段开始，文献综述通常较详实；如果以质性阶段开始，文献使用量则大幅减少。如果量化与质性数据同等重要，文献形式的选择取决于研究受众的偏好（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 ---
@@ -152,7 +155,7 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将文献综述作为研究方案的独立章节，系统阐述其在量化、质性和混合方法路径中的不同策略
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011, Ch.6)]] — 将文献综述作为研究选题的决策因素之一，提出七项目的框架和规模考量
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将文献综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research|混合方法]]路径中的不同策略
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011, Ch.6)]] — 将文献综述作为[[Research Topic|研究选题]]的决策因素之一，提出七项目的框架和规模考量
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则
 

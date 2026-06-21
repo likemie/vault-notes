@@ -8,7 +8,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Study Population and Sample]]"
+  - "[[Sample Size Determination]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
@@ -39,6 +40,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
+  - "[[Non-probability Sampling]]"
   - "[[Pilot Testing]]"
   - "[[Experimental Research]]"
   - "[[Observational and Correlational Research]]"
@@ -77,10 +79,10 @@ updated: 2026-05-31
 > [!abstract]
 > - **研究总体（[[Study Population and Sample|study population]]）**：研究者希望做出推论的全部人群。
 > - **研究样本（Study Sample）**：调查中实际检验的受试者子集。
-> - **抽样设计（Sampling Design）**：单阶段抽样（可直接获取总体名单并直接抽样）或多阶段／整群抽样（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、系统抽样（随机起点后每隔 X 人选取）或非概率／便利抽样（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样设计（Sampling Design）**：单[[Random Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／整群抽样（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、系统抽样（随机起点后每隔 X 人选取）或非概率／[[Non-probability Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **分层（Stratification）**：在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **样本量确定与功效分析**：样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **[[Sample Size Determination|样本量确定]]与功效分析**：样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ### 工具
 
