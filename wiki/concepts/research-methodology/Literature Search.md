@@ -208,7 +208,10 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > [!index-table] 在线期刊提供商
 > | 提供商 | 说明 |
 > |---|---|
+> | [Springer](https://link.springer.com) | 全球最大的科学、技术和医学文献出版商之一 |
 > | [Elsevier](https://www.elsevier.com) | 全球最大的科学、技术和医学文献出版商之一 |
+> | [Wiley](https://onlinelibrary.wiley.com) | 国际知名学术出版商，覆盖多学科期刊与在线图书 |
+> | [JSTOR](https://www.jstor.org) | 回溯期刊全文数据库，涵盖人文、社会科学等领域 |
 > | [Emerald](https://www.emeraldinsight.com) | 管理学与社会科学期刊平台 |
 > | [Aslib Index to Theses](https://www.theses.com) | 英国学位论文索引（Aslib Index to Theses） |
 > | [NDLTD](https://www.ndltd.org/find) | 网络化学位论文数字图书馆（Networked Digital Library of Theses and Dissertations） |
@@ -223,8 +226,8 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | 资源 | 说明 |
 > |---|---|
 > | [知网（CNKI）](https://www.cnki.net) | 中国最大的中文学术文献数据库，[高级检索](https://kns.cnki.net/kns8s/AdvSearch?classid=YSTT4HG0) 支持多字段组合查询 |
-> | [SCI-Hub](https://sci-hub.se) | 全球最大的免费学术论文开放获取平台（域名可能变动） |
-> | [Anna's Archive](https://annas-archive.org) | 全球最大的开放影子图书馆搜索引擎，聚合 Z-Library、Library Genesis 等来源 |
+> | [SCI-Hub](https://sci-hub.sg) | 全球最大的免费学术论文开放获取平台（域名可能变动） |
+> | [Anna's Archive](https://zh.annas-archive.gl) | 全球最大的开放影子图书馆搜索引擎，聚合 Z-Library、Library Genesis 等来源 |
 > | [Z-Library](https://singlelogin.re) | 全球最大的免费电子书库之一（需通过单点登录访问） |
 > | [微信读书](https://weread.qq.com) | 腾讯旗下电子书阅读平台，支持划线、笔记和社交阅读 |
 > | [京东读书](https://e.jd.com) | 京东旗下电子书平台，支持畅读会员模式 |
