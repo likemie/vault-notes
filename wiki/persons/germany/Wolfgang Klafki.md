@@ -95,9 +95,9 @@ updated: '2026-06-22'
 
 > [!influence-path] 影响路径
 > - **理论路径**：通过提出“批判建设性教学论”，将批判理论（Critical Theory）引入传统的德国精神科学教学论，使教学论成为反思社会结构和个体解放的工具。此外，他发展了早期的能力/素养模型（由自我决定、共同决定和团结能力组成），在德语教育学中具有开拓性。
-> - **政策与方法路径**：为芬兰的 [[Phenomenon-Based Learning|现象本位学习（PhBL）]] 政策奠定了核心的哲学基础，提供了一种在尊重学科体系完整性的同时进行跨学科整合的课程选择标准。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]] 在德国国内，他深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草。
-> - **实践与行动路径**：主持了著名的**马尔堡小学项目（Marburger Grundschulprojekt，1972年起）**，推动常识课（Sachunterricht）中整合性课程项目与行动研究的开发，提倡面向儿童生活经验和时代问题的教学。
-> - **跨国传播**：其思想作为北欧福利国家推行民主、平等和团结教育的重要理论中介，在瑞典和芬兰的教师教育中被广泛翻译和研究。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7, 10]]
+> - **方法路径**：提供了一种在尊重学科体系完整性的同时进行跨学科整合的课程选择与教学规划分析标准。主持了著名的**马尔堡小学项目（Marburger Grundschulprojekt，1972年起）**，推动常识课（Sachunterricht）中整合性课程项目与行动研究（Handlungsforschung）的开发。
+> - **政策路径**：在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的现象本位学习（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
+> - **跨国／跨领域传播**：其思想作为北欧福利国家推行民主、平等和团结教育的重要理论中介，在瑞典和芬兰的教师教育中被广泛翻译和研究，影响了北欧基础教育的课程论面貌。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7, 10]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 追溯芬兰 PhBL 的哲学根源，分析了 Klafki 的时代关键问题框架如何帮助跨学科课程在保持学科深度的同时抵抗技能原子化倾向。
@@ -107,15 +107,14 @@ updated: '2026-06-22'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **导师与合作者**：师从哥廷根的精神科学教育学代表 Erich Weniger，并在波恩受教于 Theodor Litt，哲学上受到现象学与人学代表 Helmuth Plessner 的熏陶。
-> - **同侪与对话者**：Klaus Mollenhauer、Wolfgang Kramp、Herwig Blankertz。他们同为 Erich Weniger 门下的 Kommilitonen（同学），共同塑造了德国二战后至70年代的教学论和教育学话语转向。
-> - **学生与后继者**：
+> - **师承／合作者**：根据其德语维基百科条目记载，他师从精神科学教育学代表 Erich Weniger 与哲学与教育学家 Theodor Litt；其教学论思想亦与现象学创始人 [[Edmund Husserl]] 的生活世界体验和具身反思传统相呼应。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3–4, 6]] 同门同侪包括 Klaus Mollenhauer、Wolfgang Kramp、Herwig Blankertz，共同塑造了德国二战后至70年代的教育学话语转向。
+> - **学生／继承者**：
 >   - Hans Christoph Berg — 学术关系：Klafki 从1990年代起长期支持并积极参与其同僚 Berg 推动的“教学艺术（Lehrkunst）”设计，并担任其二导师。
->   - Astrid Kaiser 等 — 师承关系：Klafki 指导的 70 余名博士大多成为德国各高校和学科教学论（特别是常识课教学论）的领军人物。
+>   - Astrid Kaiser 等 — 师承关系：Klafki 指导了 70 余名博士，大多成为德国各高校和学科教学论（特别是常识课教学论）的领军人物。
 >   - Johan Wilhelm Snellman — 思想关联：Snellman 是将教化（Bildung）概念引入北欧（芬兰）的核心先驱，Klafki 在当代重新定义了这一教化传统，使其成为应对不确定未来的社会政治性力量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 >   - Rauste-von Wright — 思想交汇：作为芬兰建构主义教育心理学家，她的实用主义自我修正课程模型与 Klafki 的 Didaktik 思想有共同根源，共同为芬兰 PhBL 奠定了理论与心理学基石。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
-> - **思想交汇者／共同哲学根源**：[[Edmund Husserl]] — 现象学创始人。Klafki 的教学论思想与现象学关于生活世界（Lifeworld）的直观体验和具身反思传统相呼应，共同为芬兰 PhBL 奠定了存在论与体验论根基。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3–4, 6]]
-> - **批判对象与论争张力**：[[OECD]] / [[PISA]] — 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成知识与技能原子化（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
+> - **批评者／论敌**：无（文中未详细提及 Klafki 思想的直接学术论敌）。
+> - **机构／运动／项目**：[[OECD]] / [[PISA]] — 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成知识与技能原子化（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 ---
 
