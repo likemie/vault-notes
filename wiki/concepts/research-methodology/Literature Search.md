@@ -164,45 +164,45 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | [AERA](https://www.aera.net) | 美国教育研究协会（American Educational Research Association），美国最大的教育研究学术组织 |
 > | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会（Australian Council for Educational Research） |
 > | [BERA](https://www.bera.ac.uk) | 英国教育研究协会（British Educational Research Association） |
-> | [SCRE](http://scre.ac.uk) | 苏格兰教育研究理事会（Scottish Council for Research in Education） |
+> | [SERA](https://www.sera.ac.uk) | 苏格兰教育研究协会（Scottish Educational Research Association，原 SCRE） |
 > | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会（European Educational Research Association） |
-> | [CEM](https://www.cem.dur.ac.uk) | 课程评估与管理中心（Curriculum Evaluation and Management Centre），全球最大的教育监测中心之一 |
+> | [CEM](https://www.cem.org) | 课程评估与管理中心（Centre for Evaluation and Monitoring），全球最大的教育监测中心之一 |
 > | [NFER](https://www.nfer.ac.uk) | 英国国家教育研究基金会（National Foundation for Educational Research） |
-> | [HKERA](https://www.fed.cuhk.edu.hk/~hkera) | 香港教育研究协会（Hong Kong Educational Research Association） |
-> | [WERA](https://www.wera-web.org) | 华盛顿教育研究协会（Washington Educational Research Association） |
+> | [HKERA](https://www.hkera.org) | 香港教育研究协会（Hong Kong Educational Research Association） |
+> | [WERA](https://www.weraonline.org) | 华盛顿教育研究协会（Washington Educational Research Association） |
 > | [MSERA](https://www.msstate.edu/org/msera) | 美国中南部教育研究协会（mid-South Educational Research Association） |
-> | [ESRC](https://www.esrc.ac.uk) | 经济与社会研究理事会（Economic and Social Research Council），UK |
+> | [ESRC](https://www.ukri.org/councils/esrc) | 经济与社会研究理事会（Economic and Social Research Council），UKRI 下属机构 |
 
 > [!index-table] 期刊索引与参考文献
 > | 资源 | 说明 |
 > |---|---|
-> | [British Education Index](https://www.leeds.ac.uk/bei) | 英国教育索引（British Education Index） |
-> | [Sage Publications](https://www.sagepub.co.uk) | 国际知名学术出版商 |
-> | [Taylor & Francis Journals](https://www.tandf.co.uk/journals) | 学术期刊平台 |
-> | [Educational Research Abstracts Online](https://www.tandf.co.uk/era) | 教育研究摘要推送服务（Educational Research Abstracts Online） |
+> | [British Education Index](https://www.ebsco.com/products/research-databases/british-education-index) | 英国教育索引（British Education Index，现由 EBSCO 托管） |
+> | [Sage Publications](https://uk.sagepub.com) | 国际知名学术出版商 |
+> | [Taylor & Francis Online](https://taylorfrancis.com) | 学术期刊平台 |
+> | [Educational Research Abstracts](https://taylorfrancis.com) | 教育研究摘要（Educational Research Abstracts Online） |
 
 > [!index-table] 政府与统计网站
 > | 资源 | 说明 |
 > |---|---|
-> | [UK National Statistics](https://www.statistics.gov.uk) | 英国国家统计主页（UK National Statistics） |
-> | [UK Data Archive](https://www.data-archive.ac.uk) | 英国数据档案（UK Data Archive） |
+> | [ONS](https://www.ons.gov.uk) | 英国国家统计署（Office for National Statistics） |
+> | [UK Data Service](https://ukdataservice.ac.uk) | 英国数据服务（UK Data Service，原 UK Data Archive） |
 > | [UNESCO](https://www.unesco.org) | 联合国教科文组织 |
 > | [OECD Education](https://www.oecd.org/education) | 经合组织教育统计数据库 |
 > | [Council of Europe Education](https://www.coe.int) | 欧洲委员会教育主页 |
 > | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案理事会（Council of European Social Science Data Archive） |
-> | [EU Gateway](http://europa.eu) | 欧盟门户 |
-> | [NCES](http://nces.ed.gov) | 美国国家教育统计中心（National Center for Educational Statistics） |
-> | [World Bank](http://worldbank.org) | 世界银行数据与统计 |
+> | [EU Gateway](https://european-union.europa.eu) | 欧盟门户 |
+> | [NCES](https://nces.ed.gov) | 美国国家教育统计中心（National Center for Education Statistics） |
+> | [World Bank](https://www.worldbank.org) | 世界银行数据与统计 |
 
 > [!index-table] 图书馆检索
 > | 资源 | 说明 |
 > |---|---|
 > | [Library of Congress](https://www.loc.gov) | 美国国会图书馆（Library of Congress） |
-> | [COPAC](https://www.copac.ac.uk) | 英国大学图书馆联合目录（COPAC） |
-> | [British Library](http://catalogue.bl.uk) | 大英图书馆集成目录（British Library Integrated Catalogue） |
+> | [Library Hub Discover](https://discover.libraryhub.jisc.ac.uk) | 英国大学图书馆联合目录（原 COPAC，现由 Jisc 运营） |
+> | [British Library](https://explore.bl.uk) | 大英图书馆目录（British Library Explore） |
 > | [Virtual Library](http://vlib.org) | 在线虚拟图书馆（Virtual Library） |
 > | [Books in Print](https://www.booksinprint.com) | 在版图书综合目录（Books in Print） |
-> | [Bibliofind](https://www.bibliofind.com) | 旧书与绝版书检索 |
+> | [AbeBooks](https://www.abebooks.com) | 旧书与绝版书检索（原 Bibliofind） |
 > | [Lights](https://www.lights.com) | 链接约 6,000 家出版商 |
 
 > [!index-table] 在线期刊提供商
@@ -218,6 +218,17 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > |---|---|
 > | [Google](https://www.google.com) | 通用搜索引擎 |
 > | [Perplexity](https://www.perplexity.ai) | AI 驱动的学术搜索与问答引擎 |
+
+> [!index-table] 电子书与开放资源
+> | 资源 | 说明 |
+> |---|---|
+> | [知网（CNKI）](https://www.cnki.net) | 中国最大的中文学术文献数据库，[高级检索](https://kns.cnki.net/kns8s/AdvSearch?classid=YSTT4HG0) 支持多字段组合查询 |
+> | [SCI-Hub](https://sci-hub.se) | 全球最大的免费学术论文开放获取平台（域名可能变动） |
+> | [Anna's Archive](https://annas-archive.org) | 全球最大的开放影子图书馆搜索引擎，聚合 Z-Library、Library Genesis 等来源 |
+> | [Z-Library](https://singlelogin.re) | 全球最大的免费电子书库之一（需通过单点登录访问） |
+> | [微信读书](https://weread.qq.com) | 腾讯旗下电子书阅读平台，支持划线、笔记和社交阅读 |
+> | [京东读书](https://e.jd.com) | 京东旗下电子书平台，支持畅读会员模式 |
+> | [掌阅](https://m.zhangyue.com) | 国内主流电子书阅读平台，支持多端同步 |
 
 ---
 
