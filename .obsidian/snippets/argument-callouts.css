@@ -2259,20 +2259,33 @@
   box-shadow: 0 8px 20px rgba(var(--callout-color), 0.09);
 }
 
+/* ─────────────────────────────────────────────────────────────
+   evidence-grid 布局：6 列骨架，按项数自动分配
+   1       → 1 列（全宽）
+   2       → 2 列（span 3 × 2）
+   3       → 3 列（span 2 × 3）
+   4       → 2+2（span 3 × 4，2 列 × 2 行）
+   5       → 2+3（前 2 span 3，后 3 span 2）
+   6       → 2+2+2（span 3 × 6，2 列 × 3 行）
+   7       → 2+3+2（1-2: span 3 / 3-5: span 2 / 6-7: span 3）
+   8+      → 2 列（span 3，默认）
+   ───────────────────────────────────────────────────────────── */
 .callout[data-callout="evidence-grid"]   .callout-content > ul,
 .callout[data-callout="evidence-grid-a"] .callout-content > ul,
 .callout[data-callout="evidence-grid-b"] .callout-content > ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(6, 1fr);
   gap: 0.75rem;
   padding-inline-start: 0;
   margin-block: 0.75rem 0.25rem;
   list-style: none;
 }
 
+/* 默认：span 3 = 2 列（2 / 4 / 6 / 8+ 项） */
 .callout[data-callout="evidence-grid"]   .callout-content > ul > li,
 .callout[data-callout="evidence-grid-a"] .callout-content > ul > li,
 .callout[data-callout="evidence-grid-b"] .callout-content > ul > li {
+  grid-column: span 3;
   margin: 0;
   padding: 0.75rem 0.85rem;
   border: 1px solid rgba(var(--callout-color), 0.2);
@@ -2282,12 +2295,42 @@
   line-height: 1.65;
 }
 
-.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child,
-.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child,
-.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
-  grid-column: 1 / -1;
-  max-width: 50%;
-  margin-inline: auto;
+/* 1 项 → 全宽 */
+.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(1):last-child) > li {
+  grid-column: span 6;
+}
+
+/* 3 项 → 3 列（span 2 × 3） */
+.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+  grid-column: span 2;
+}
+
+/* 5 项 → 2+3（前 2 span 3，后 3 span 2） */
+.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+2),
+.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+2),
+.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+2) {
+  grid-column: span 3;
+}
+.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+3),
+.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+3),
+.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+3) {
+  grid-column: span 2;
+}
+
+/* 7 项 → 2+3+2（1-2: span 3 / 3-5: span 2 / 6-7: span 3） */
+.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(7):last-child) > li {
+  grid-column: span 3;
+}
+.callout[data-callout="evidence-grid"]   .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5),
+.callout[data-callout="evidence-grid-a"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5),
+.callout[data-callout="evidence-grid-b"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5) {
+  grid-column: span 2;
 }
 
 .callout[data-callout="evidence-grid"]   .callout-content > ul > li strong:first-child,

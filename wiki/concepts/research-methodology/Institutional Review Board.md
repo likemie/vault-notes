@@ -26,6 +26,9 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Research Ethics]]"
   - "[[Research Question]]"
+  - "[[Sensitive Research]]"
+  - "[[Guilty Knowledge]]"
+  - "[[Emergence]]"
   - "[[Academic Medical Center]]"
 related_theories: []
 related_methods: []
@@ -137,6 +140,25 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 > [!tip] 伦理守则的困难与优势
 > 伦理守则不能也不提供在特定情境中做什么的具体建议。最终，是研究者自己——其诚信、良心，在对伦理问题的敏锐意识、指导性守则和规范实践的支撑下——应该决定在特定情境中做什么，而这应该是经过证成、可证成、经过深思熟虑和可辩护的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 128]]）。
+
+---
+
+## 敏感研究中的 IRB 与正式审查的局限
+
+在[[Sensitive Research|敏感研究]]中，正式伦理审查框架的局限被暴露得尤为明显（Cohen et al., 2011, pp. 209–215, 229–230）。
+
+> [!claim] 情境化伦理对规则化审查的挑战
+> Simons & Usher (2000) 主张伦理是情境化的（situated）——取决于具体的地方环境和情境。普适的伦理守则和审查指南可能有帮助，但通常不解决实际问题；它们必须在具体情境的特殊性中被解释和协商。这在敏感研究中尤为关键：研究者面临的伦理困境——如[[Guilty Knowledge|有罪知识]]、[[Covert Research|隐蔽研究]]的正当性、隐私与公共利益的权衡——很少能通过事前提交 IRB 申请来预见或解决（p.230）。
+
+> [!case] 极权体制中的正式许可作为敏感性的来源
+> 在极权体制中，开展教育研究需要从高级政府官员和部门获得许可——这一正式审批流程本身就是敏感性的来源。封闭社会只允许经过批准的、通常非敏感和相对非政治性的话题被研究。Lee (1993, p. 6) 指出对某些群体而言，研究简直是一种诅咒（anathema）。在这种情况下，研究能否开展取决于人际关系、地方政治和微观政治，而非正式伦理审查（Morrison, 2006）（pp.200–201）。
+
+这呼应了 Hammersley 的批评：伦理委员会可能导致研究者回避敏感、困难或有争议但重要的领域。IRB 的事前审批逻辑与敏感研究中伦理困境的[[Emergence|涌现]]性和情境性之间存在结构性张力。
+
+> [!seealso] 参见
+> - [[Sensitive Research]] — 敏感研究的概念框架
+> - [[Research Ethics]] — 研究伦理的敏感研究极端化讨论
+> - [[Informed Consent]] — 敏感研究中的知情同意困境
 
 ---
 
