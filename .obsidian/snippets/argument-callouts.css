@@ -3942,15 +3942,18 @@
   );
 }
 
-/* ── 阶段卡片 ── */
+/* ── 阶段卡片：flex 布局，badge 和标题同行 ── */
 .callout[data-callout="phase"] .callout-content ul > li,
 .callout[data-callout="phase"] .callout-content ol > li {
   counter-increment: phase-item;
   position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
   background: rgba(155, 103, 44, 0.05);
   border: 1px solid rgba(155, 103, 44, 0.14);
   border-radius: 7px;
-  padding: 2.15rem 0.9rem 0.70rem 0.9rem;
+  padding: 0.60rem 3.2rem 0.65rem 0.85rem;
   margin-bottom: 0.55rem;
   line-height: 1.70;
   transition: background 0.20s ease, border-color 0.20s ease, transform 0.20s ease;
@@ -3973,21 +3976,22 @@
   display: none !important;
 }
 
-/* ── "PHASE N" header 条：单行 ── */
+/* ── "Phase N" 胶囊：flex item 1，与标题同行 ── */
 .callout[data-callout="phase"] .callout-content ul > li::before,
 .callout[data-callout="phase"] .callout-content ol > li::before {
   content: "Phase " counter(phase-item);
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  padding: 0.34rem 0.9rem;
-  background: rgba(155, 103, 44, 0.12);
-  border-bottom: 1px solid rgba(155, 103, 44, 0.15);
-  border-radius: 6px 6px 0 0;
-  color: rgb(128, 78, 12);
-  font-size: 0.58em;
+  flex: 0 0 auto;
+  align-self: center;
+  margin-right: 0.58rem;
+  padding: 0.10rem 0.52rem;
+  border-radius: 4px;
+  background: rgba(155, 103, 44, 0.16);
+  color: rgb(125, 74, 12);
+  font-size: 0.59em;
   font-weight: 800;
-  letter-spacing: 0.10em;
+  letter-spacing: 0.09em;
   text-transform: uppercase;
+  white-space: nowrap;
   animation: phase-node-pulse 3.2s ease-in-out infinite;
 }
 
@@ -4000,30 +4004,42 @@
 .callout[data-callout="phase"] .callout-content ul > li:nth-child(5)::before,
 .callout[data-callout="phase"] .callout-content ol > li:nth-child(5)::before { animation-delay: 3.2s; }
 
-/* ── header 条右侧装饰：大号半透明数字 ── */
+/* ── 标题段落：flex item 2，占满剩余宽度 ── */
+.callout[data-callout="phase"] .callout-content ul > li > p:first-child,
+.callout[data-callout="phase"] .callout-content ol > li > p:first-child {
+  flex: 1 1 auto;
+  margin: 0;
+  font-weight: 700;
+  color: rgb(172, 115, 35);
+  line-height: 1.5;
+}
+
+/* ── body 段落：强制换行，全宽，加分隔线 ── */
+.callout[data-callout="phase"] .callout-content ul > li > p:not(:first-child),
+.callout[data-callout="phase"] .callout-content ol > li > p:not(:first-child) {
+  flex: 0 0 100%;
+  margin: 0.40rem 0 0;
+  padding-top: 0.38rem;
+  border-top: 1px solid rgba(155, 103, 44, 0.12);
+  font-weight: normal;
+  color: var(--text-normal);
+  line-height: 1.72;
+}
+
+/* ── 右侧大号装饰数字 ── */
 .callout[data-callout="phase"] .callout-content ul > li::after,
 .callout[data-callout="phase"] .callout-content ol > li::after {
   content: "0" counter(phase-item);
   position: absolute;
-  top: -0.05rem;
+  top: 0.30rem;
   right: 0.75rem;
-  font-size: 1.55em;
+  font-size: 1.50em;
   font-weight: 900;
-  color: rgba(155, 103, 44, 0.18);
+  color: rgba(155, 103, 44, 0.14);
   letter-spacing: -0.03em;
-  line-height: 1.55rem;
+  line-height: 1;
   font-family: var(--font-monospace);
   pointer-events: none;
-}
-
-/* ── 标题：header 条下方第一行，着色加粗 ── */
-.callout[data-callout="phase"] .callout-content li > strong:first-child,
-.callout[data-callout="phase"] .callout-content li > p:first-child > strong:first-child {
-  display: block;
-  font-size: 1.0em;
-  font-weight: 700;
-  color: rgb(172, 115, 35);
-  margin-bottom: 0.18rem;
 }
 
 .callout[data-callout="phase"] > .callout-content > *:last-child { margin-bottom: 0; }
