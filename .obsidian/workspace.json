@@ -37,8 +37,7 @@
               "title": "Snowball Sampling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e1573f91b7722f1b",
+  "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/methods/qualitative/Snowball Sampling.md",
+    "raw/023_10 Validity and reliability.txt",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09.md",
     "wiki/concepts/research-methodology/Researching Up and Researching Down.md",
     "wiki/concepts/research-methodology/Interviewer Effects.md",
@@ -233,7 +234,6 @@
     "wiki/methods/qualitative/Walford's Four-Stage Access Model.md",
     "wiki/methods/qualitative/Vignettes in Research.md",
     "wiki/methods/qualitative/Linked File System.md",
-    "wiki/concepts/research-methodology/Deductive Disclosure.md",
     "wiki/concepts/research-methodology/Sensitive Research.md.tmp.33151.728feba274d9",
     "raw/022_9 Sensitive educational research.txt",
     "wiki/methods/quantitative/Random Sampling.md.tmp.9006.9fd62b59847e",
@@ -243,7 +243,6 @@
     "wiki/concepts/research-methodology/Literature Review.md.tmp.18087.bcc08845cf81",
     "raw/020_7 Planning educational research.txt",
     "~$2026华南师范大学卓泽林活页_修改版.docx",
-    "AD2026华南师范大学卓泽林活页_修改版.docx",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]

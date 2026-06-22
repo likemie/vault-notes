@@ -8,7 +8,7 @@ aliases:
 summary: "研究者的个人特征和期望系统性地影响访谈数据质量的现象，在敏感研究中效应尤为显著——不预期困难的访谈者比预期困难者获得高5-30%的信息报告率"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

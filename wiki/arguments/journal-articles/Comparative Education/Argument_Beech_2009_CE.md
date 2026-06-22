@@ -65,9 +65,9 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 24
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 book_title: ""
@@ -200,7 +200,7 @@ Castells 据此区分了两种空间逻辑：
 > [!line-a] 追踪线索一：能力发展（Development of Competencies）
 > 主张学校知识的价值应以学生能够用知识做什么来衡量，而非以记住了多少事实知识来定义。该概念源自企业管理和职业培训，与后福特主义劳动组织对高素养工人的新需求相关(De Ketele, 2008, 引自 pp.353–354)。
 
-> [!line-b] 追踪线索二：尊重多样性（Respect for Diversity）
+> [!line-a] 追踪线索二：尊重多样性（Respect for Diversity）
 > 被世界银行、[[OECD]]、UNESCO、UNICEF 和 [[Education International]] 等意识形态立场各异的机构共同倡导。许多历史上以文化同质性为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
 
 选择这两个线索的理由很清晰：它们都起源于特定的历史语境和社会需求，但在全球教育话语中已被高度抽象化，因此是观察意义在空间移动中如何变化的理想样本。
@@ -214,9 +214,9 @@ Castells 据此区分了两种空间逻辑：
 > flowchart TD
 >     A("全球政策空间 (流动空间)") -->|操演性与网络逻辑| B("生产：去历史的‘漂浮能指’<br>(Malleability + Stability)")
 >     B -->|移动到| C("国家层面 (领土附着)")
->     C -->|舆论操控 (Spin) & 既有话语碰撞| D("产出：不兼容声明的组合<br>(革新与保守共存的混合话语)")
+>     C -->|"舆论操控 (Spin) 与既有话语碰撞"| D("产出：不兼容声明的组合<br>(革新与保守共存的混合话语)")
 >     D -->|转化为| E("实践层面 (地方空间)")
->     E -->|面临：行动一致性要求 & 物质约束| F("结果：根本性重新解释 & 转译<br>(概念混乱、尊重贫困等实质变异)")
+>     E -->|"面临行动一致性要求与物质约束"| F("结果：根本性重新解释 & 转译<br>(概念混乱、尊重贫困等实质变异)")
 >     
 >     style A fill:#dbeafe,stroke:#2563eb,stroke-width:2px
 >     style C fill:#fee2e2,stroke:#dc2626,stroke-width:2px
