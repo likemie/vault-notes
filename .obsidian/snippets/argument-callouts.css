@@ -3894,56 +3894,14 @@
    特性  : 左侧竖轨 + 圆形序号节点 · 相邻块自动连线
    ═══════════════════════════════════════════════════════════ */
 
-/* 计数器挂在文档级，跨块累加 */
-.markdown-preview-view,
-.markdown-reading-view,
-.cm-content {
-  counter-reset: phase-n;
-}
-
 .callout[data-callout="phase"] {
   --callout-color: 155, 103, 44;
   --callout-icon: lucide-milestone;
-  counter-increment: phase-n;
-  position: relative;
   background: color-mix(in srgb, var(--background-primary) 94%, rgb(155, 103, 44) 6%);
   border: 1px solid rgba(155, 103, 44, 0.20);
   border-left: 4px solid rgba(155, 103, 44, 0.55);
   border-radius: 8px;
-  padding: 0.78rem 1.1rem 0.82rem 2.9rem;
-  margin-bottom: 0.36rem;
-}
-
-/* ── 圆形序号节点，叠在左侧轨道上 ── */
-.callout[data-callout="phase"]::before {
-  content: counter(phase-n);
-  position: absolute;
-  left: -0.02rem;
-  top: 0.95rem;
-  transform: translateX(-50%);
-  width: 1.42rem;
-  height: 1.42rem;
-  border-radius: 50%;
-  background: rgb(155, 103, 44);
-  color: #fff;
-  font-size: 0.62em;
-  font-weight: 800;
-  line-height: 1.42rem;
-  text-align: center;
-  box-shadow: 0 0 0 3px var(--background-primary);
-  z-index: 2;
-}
-
-/* ── 向下延伸的连线（桥接相邻块间的间距）── */
-.callout[data-callout="phase"]::after {
-  content: "";
-  position: absolute;
-  left: calc(-0.02rem - 2px);
-  bottom: calc(-0.36rem - 1px);
-  width: 4px;
-  height: calc(0.36rem + 1px);
-  background: rgba(155, 103, 44, 0.45);
-  z-index: 1;
+  padding: 0.78rem 1.1rem 0.82rem;
 }
 
 .callout[data-callout="phase"] > .callout-title {
@@ -3954,8 +3912,65 @@
   margin-bottom: 0.52rem;
 }
 
-.callout[data-callout="phase"] > .callout-content {
-  line-height: 1.75;
+/* ── 列表项：计数器 + 连续竖轨 + 固定顶部节点 ── */
+.callout[data-callout="phase"] .callout-content ul,
+.callout[data-callout="phase"] .callout-content ol {
+  counter-reset: phase-item;
+  list-style: none;
+  padding-left: 2.4rem;
+  margin: 0;
+  position: relative;
+}
+
+/* 连续竖轨：绝对定位在列表容器上 */
+.callout[data-callout="phase"] .callout-content ul::before,
+.callout[data-callout="phase"] .callout-content ol::before {
+  content: "";
+  position: absolute;
+  left: 0.68rem;
+  top: 0.9rem;
+  bottom: 0.6rem;
+  width: 2px;
+  border-radius: 1px;
+  background: linear-gradient(to bottom, rgba(155, 103, 44, 0.50), rgba(155, 103, 44, 0.08));
+}
+
+.callout[data-callout="phase"] .callout-content ul > li,
+.callout[data-callout="phase"] .callout-content ol > li {
+  counter-increment: phase-item;
+  position: relative;
+  padding: 0.22rem 0.2rem 0.72rem 0;
+  line-height: 1.72;
+}
+
+.callout[data-callout="phase"] .callout-content ul > li:last-child,
+.callout[data-callout="phase"] .callout-content ol > li:last-child {
+  padding-bottom: 0.1rem;
+}
+
+.callout[data-callout="phase"] .callout-content ul > li .list-bullet,
+.callout[data-callout="phase"] .callout-content ol > li .list-bullet {
+  display: none !important;
+}
+
+/* 圆形序号节点，固定在顶部 */
+.callout[data-callout="phase"] .callout-content ul > li::before,
+.callout[data-callout="phase"] .callout-content ol > li::before {
+  content: counter(phase-item);
+  position: absolute;
+  left: -2.4rem;
+  top: 0.20rem;
+  width: 1.38rem;
+  height: 1.38rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgb(175, 120, 48), rgb(135, 85, 28));
+  color: #fff;
+  font-size: 0.60em;
+  font-weight: 800;
+  line-height: 1.38rem;
+  text-align: center;
+  box-shadow: 0 0 0 3px var(--background-primary), 0 1px 4px rgba(155, 103, 44, 0.25);
+  z-index: 1;
 }
 
 .callout[data-callout="phase"] > .callout-content > *:last-child {
@@ -3969,13 +3984,10 @@
   border-left-color: rgba(155, 103, 44, 0.65);
 }
 
-.theme-dark .callout[data-callout="phase"]::before {
-  background: rgb(185, 128, 55);
-  box-shadow: 0 0 0 3px var(--background-primary);
-}
-
-.theme-dark .callout[data-callout="phase"]::after {
-  background: rgba(185, 128, 55, 0.50);
+.theme-dark .callout[data-callout="phase"] .callout-content ul > li::before,
+.theme-dark .callout[data-callout="phase"] .callout-content ol > li::before {
+  background: linear-gradient(135deg, rgb(200, 145, 60), rgb(160, 108, 38));
+  box-shadow: 0 1px 6px rgba(185, 128, 55, 0.35);
 }
 
 /* ─── quad-grid（四格网格卡片）─────────────────────────── */
