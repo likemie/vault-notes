@@ -3888,33 +3888,94 @@
 }
 
 /* ═══════════════════════════════════════════════════════════
-   [!phase]  历史阶段叙事块
+   [!phase]  历史阶段时间线块
+   Color : amber-brown  rgb(155, 103, 44)
+   Icon  : lucide-milestone
+   特性  : 左侧竖轨 + 圆形序号节点 · 相邻块自动连线
    ═══════════════════════════════════════════════════════════ */
+
+/* 计数器挂在文档级，跨块累加 */
+.markdown-preview-view,
+.markdown-reading-view,
+.cm-content {
+  counter-reset: phase-n;
+}
+
 .callout[data-callout="phase"] {
   --callout-color: 155, 103, 44;
-  --callout-icon: lucide-calendar;
+  --callout-icon: lucide-milestone;
+  counter-increment: phase-n;
+  position: relative;
   background: color-mix(in srgb, var(--background-primary) 94%, rgb(155, 103, 44) 6%);
-  border: 1px solid rgba(155, 103, 44, 0.22);
-  border-left: 3.5px solid rgb(155, 103, 44);
-  border-radius: 10px;
-  padding: 0.85rem 1.1rem 0.9rem;
+  border: 1px solid rgba(155, 103, 44, 0.20);
+  border-left: 4px solid rgba(155, 103, 44, 0.55);
+  border-radius: 8px;
+  padding: 0.78rem 1.1rem 0.82rem 2.9rem;
+  margin-bottom: 0.36rem;
+}
+
+/* ── 圆形序号节点，叠在左侧轨道上 ── */
+.callout[data-callout="phase"]::before {
+  content: counter(phase-n);
+  position: absolute;
+  left: -0.02rem;
+  top: 0.95rem;
+  transform: translateX(-50%);
+  width: 1.42rem;
+  height: 1.42rem;
+  border-radius: 50%;
+  background: rgb(155, 103, 44);
+  color: #fff;
+  font-size: 0.62em;
+  font-weight: 800;
+  line-height: 1.42rem;
+  text-align: center;
+  box-shadow: 0 0 0 3px var(--background-primary);
+  z-index: 2;
+}
+
+/* ── 向下延伸的连线（桥接相邻块间的间距）── */
+.callout[data-callout="phase"]::after {
+  content: "";
+  position: absolute;
+  left: calc(-0.02rem - 2px);
+  bottom: calc(-0.36rem - 1px);
+  width: 4px;
+  height: calc(0.36rem + 1px);
+  background: rgba(155, 103, 44, 0.45);
+  z-index: 1;
 }
 
 .callout[data-callout="phase"] > .callout-title {
   color: rgb(155, 103, 44);
   font-weight: 700;
-  padding-bottom: 0.45rem;
-  border-bottom: 1px solid rgba(155, 103, 44, 0.18);
-  margin-bottom: 0.6rem;
+  padding-bottom: 0.38rem;
+  border-bottom: 1px solid rgba(155, 103, 44, 0.16);
+  margin-bottom: 0.52rem;
 }
 
 .callout[data-callout="phase"] > .callout-content {
   line-height: 1.75;
 }
 
+.callout[data-callout="phase"] > .callout-content > *:last-child {
+  margin-bottom: 0;
+}
+
+/* ── 暗模式 ── */
 .theme-dark .callout[data-callout="phase"] {
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(155, 103, 44) 12%);
-  border-color: rgba(155, 103, 44, 0.32);
+  border-color: rgba(155, 103, 44, 0.30);
+  border-left-color: rgba(155, 103, 44, 0.65);
+}
+
+.theme-dark .callout[data-callout="phase"]::before {
+  background: rgb(185, 128, 55);
+  box-shadow: 0 0 0 3px var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="phase"]::after {
+  background: rgba(185, 128, 55, 0.50);
 }
 
 /* ─── quad-grid（四格网格卡片）─────────────────────────── */
