@@ -3950,7 +3950,7 @@
   background: rgba(155, 103, 44, 0.05);
   border: 1px solid rgba(155, 103, 44, 0.14);
   border-radius: 7px;
-  padding: 0.62rem 0.9rem 0.65rem 0.9rem;
+  padding: 2.10rem 0.9rem 0.65rem 0.9rem;
   margin-bottom: 0.55rem;
   line-height: 1.70;
   transition: background 0.20s ease, border-color 0.20s ease, transform 0.20s ease;
@@ -3973,47 +3973,40 @@
   display: none !important;
 }
 
-/* ── "Phase N" 胶囊标签：内联在标题行左侧 ── */
-.callout[data-callout="phase"] .callout-content ul > li > p:first-child::before,
-.callout[data-callout="phase"] .callout-content ol > li > p:first-child::before {
+/* ── "Phase N" header 条：绝对定位，占满卡片顶部 ── */
+.callout[data-callout="phase"] .callout-content ul > li::before,
+.callout[data-callout="phase"] .callout-content ol > li::before {
   content: "Phase " counter(phase-item);
-  display: inline-block;
-  margin-right: 0.52rem;
-  padding: 0.08rem 0.50rem;
-  border-radius: 4px;
-  background: rgba(155, 103, 44, 0.14);
-  color: rgb(130, 78, 15);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.30rem 0.9rem;
+  background: rgba(155, 103, 44, 0.12);
+  border-bottom: 1px solid rgba(155, 103, 44, 0.14);
+  border-radius: 6px 6px 0 0;
+  color: rgb(125, 74, 12);
   font-size: 0.60em;
   font-weight: 800;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.10em;
   text-transform: uppercase;
-  vertical-align: middle;
   animation: phase-node-pulse 3.2s ease-in-out infinite;
 }
 
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(2) > p:first-child::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(2) > p:first-child::before { animation-delay: 0.8s; }
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(3) > p:first-child::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(3) > p:first-child::before { animation-delay: 1.6s; }
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(4) > p:first-child::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(4) > p:first-child::before { animation-delay: 2.4s; }
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(5) > p:first-child::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(5) > p:first-child::before { animation-delay: 3.2s; }
+.callout[data-callout="phase"] .callout-content ul > li:nth-child(2)::before,
+.callout[data-callout="phase"] .callout-content ol > li:nth-child(2)::before { animation-delay: 0.8s; }
+.callout[data-callout="phase"] .callout-content ul > li:nth-child(3)::before,
+.callout[data-callout="phase"] .callout-content ol > li:nth-child(3)::before { animation-delay: 1.6s; }
+.callout[data-callout="phase"] .callout-content ul > li:nth-child(4)::before,
+.callout[data-callout="phase"] .callout-content ol > li:nth-child(4)::before { animation-delay: 2.4s; }
+.callout[data-callout="phase"] .callout-content ul > li:nth-child(5)::before,
+.callout[data-callout="phase"] .callout-content ol > li:nth-child(5)::before { animation-delay: 3.2s; }
 
-/* ── 标题行：第一个 p（含 Phase 标签 + 粗体标题）── */
-.callout[data-callout="phase"] .callout-content ul > li > p:first-child,
-.callout[data-callout="phase"] .callout-content ol > li > p:first-child {
-  font-weight: 600;
-  color: rgb(140, 85, 20);
-  padding-bottom: 0.30rem;
-  margin-bottom: 0.32rem;
-  border-bottom: 1px solid rgba(155, 103, 44, 0.15);
-  line-height: 1.5;
-}
-
-.callout[data-callout="phase"] .callout-content ul > li > p:first-child > strong,
-.callout[data-callout="phase"] .callout-content ol > li > p:first-child > strong {
-  color: rgb(140, 85, 20);
+/* ── 标题：li 内第一个 strong ── */
+.callout[data-callout="phase"] .callout-content li > strong:first-child,
+.callout[data-callout="phase"] .callout-content li > p:first-child > strong:first-child {
+  color: rgb(138, 83, 18);
+  font-weight: 700;
 }
 
 .callout[data-callout="phase"] > .callout-content > *:last-child { margin-bottom: 0; }
@@ -4037,30 +4030,25 @@
   border-color: rgba(155, 103, 44, 0.35);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li > p:first-child::before,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li > p:first-child::before {
-  background: rgba(205, 148, 62, 0.18);
-  color: rgb(215, 160, 72);
+.theme-dark .callout[data-callout="phase"] .callout-content ul > li::before,
+.theme-dark .callout[data-callout="phase"] .callout-content ol > li::before {
+  background: rgba(205, 148, 62, 0.15);
+  border-bottom-color: rgba(205, 148, 62, 0.22);
+  color: rgb(215, 162, 75);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li > p:first-child,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li > p:first-child {
-  color: rgb(210, 155, 68);
-  border-bottom-color: rgba(205, 148, 62, 0.20);
-}
-
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li > p:first-child > strong,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li > p:first-child > strong {
+.theme-dark .callout[data-callout="phase"] .callout-content li > strong:first-child,
+.theme-dark .callout[data-callout="phase"] .callout-content li > p:first-child > strong:first-child {
   color: rgb(210, 155, 68);
 }
 
 @keyframes phase-node-pulse-dark {
-  0%, 100% { background: rgba(205, 148, 62, 0.18); }
-  50%       { background: rgba(205, 148, 62, 0.32); }
+  0%, 100% { background: rgba(205, 148, 62, 0.20); }
+  50%       { background: rgba(205, 148, 62, 0.34); }
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li > p:first-child::before,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li > p:first-child::before {
+.theme-dark .callout[data-callout="phase"] .callout-content ul > li::before,
+.theme-dark .callout[data-callout="phase"] .callout-content ol > li::before {
   animation-name: phase-node-pulse-dark;
 }
 
