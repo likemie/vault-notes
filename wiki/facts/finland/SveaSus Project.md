@@ -7,68 +7,86 @@ type: fact
 subtype: event
 region: finland
 tags:
-- phenomenon-based-learning
-- sustainability
-- world-heritage
-- region/finland
-- level/higher-ed
-related_concepts:
-  - "[[Phenomenon-Based Learning]]"
-  - "[[Champ]]"
-  - "[[Epochal Key Problems]]"
-  - "[[Bildung]]"
-  - "[[Didaktik]]"
-  - "[[Atomisation of Knowledge and Skills]]"
-related_theories:
-  - "[[Phenomenology]]"
+  - phenomenon-based-learning
+  - sustainability
+  - world-heritage
+  - region/finland
+  - level/higher-ed
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Finnish National Core Curriculum]]"
-related_arguments:
-  - "[[Argument_Schaffar_2024_CogentEdu]]"
-confidence: medium
+related_facts: []
+related_arguments: []
+confidence: high
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-06-22'
 ---
+
+# SveaSus Project
+
+---
+
 ## 背景
 
-> [!info] 背景
-> SveaSus（Sustainable World Heritage Learning through a Phenomenon-based Approach）是赫尔辛基大学教育科学学院 2018-2023 年间运行的研究与教学发展项目。项目以可持续性为核心主题，以 [[Phenomenon-Based Learning]] 为教学取向，以世界遗产地作为学习环境，探索如何通过真实[[Champ|场域]]组织跨学科、具身、艺术本位和多语学习([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
->
-> 在知识谱系上，SveaSus 可被看作 [[Finnish National Core Curriculum]] 所推动的 PhBL 取向在高等教育和教师教育中的延展：它把 [[Epochal Key Problems]] 中的可持续性问题放入具体地点、身体经验、艺术方法和多语资源之中，而不是把可持续性简化为抽象技能清单。
+> [!event-context] 事件背景
+> - **时间 / 地点**：2018–2023年；主要学习与实践环境为邻近赫尔辛基的岛屿——**芬兰堡（Suomenlinna）世界遗产地**，这是一个具有丰富历史、空间与时间维度的真实物理场域（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
+> - **关键主体**：由赫尔辛基大学教育科学学院主办；参与者包括学院教师、跨学科研究者、专业艺术家，以及面向该学院所有开放选修的学生群体（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
+> - **制度背景**：伴随芬兰 2014 年版基础教育国家核心课程（[[Finnish National Core Curriculum]]）对“现象本位学习”（PhBL）政策的推行，大学教师教育层面急需探索如何将 PhBL 理论转化为具体的教学和研究实践，并以此回应全球教育治理中技能原子化和绩效度量的危机（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 8–10]]）。
+> - **触发条件**：在面临气候变化、可持续性发展等全球性复杂时代危机（[[Epochal Key Problems]]）背景下，传统单一学科的知识讲授难以培养学生应对复杂未来的整体性素养，促成了这一集教学改革、艺术介入和学术研究为一体的综合性实验项目（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 6–7]]）。
+
+---
 
 ## 经过
 
-> [!note]- 经过
-> - **2018**：SveaSus 项目在赫尔辛基大学教育科学学院启动，面向该学院学生开设课程，并组织教师、研究者和艺术家共同参与研究与发展([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
-> - **2018-2023**：项目主要以 Helsinki 附近岛屿上的 Suomenlinna 世界遗产地为学习环境，围绕地点、时间和可持续性展开学习与教育发展([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
-> - **2023**：项目运行期结束；参与者包括教师、研究者、艺术家和学生，Schaffar 与 Wolff 也参与了该项目([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
+> [!dev-timeline]- 事件经过
+> - **2018 — 项目启动与课程开设**：SveaSus 项目在赫尔辛基大学教育科学学院正式立项并启动。面向学院全体学生开设选修课程，确立了教师、研究者、学生与艺术家的协同合作研究框架（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
+> - **2018–2023 — 芬兰堡真实场域的跨学科教学实验**：
+>   - **现象核心确立**：项目以“可持续性（Sustainability）”为探究的现象核心，并将其与芬兰堡的特定地点（place）和时间（time）维度相绑定（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
+>   - **多维教学法探索**：系统引入并测试了具身学习（Embodied learning，如在风雨交加的岛屿上身体行走、用触觉感知石墙以激活空间与身体的具身经验）、艺术本位（Art-based）和多语（Multilingual）教学方法（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
+>   - **主体间反思实践**：师生、艺术家在特定时空中共同规划、讨论和解决问题，将情感（如信任、 Relational Anxiety）与合作责任融入探究过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]）。
+> - **2023 — 项目收官与学术转化**：项目圆满结束，相关研究成果和实践经验被系统整理并向国际学术界输出，成为芬兰现象本位学习（PhBL）在高等和教师教育领域最独特的实证案例之一（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 10–11]]）。
+
+---
 
 ## 关键文件／声明
 
-> [!quote] 关键文件／声明
-> > "SveaSus (Sustainable World Heritage Learning through a Phenomenon-based Approach)"([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])
+> [!citation-card]- SveaSus 项目核心主张
+> SveaSus 项目将可持续性作为核心，现象本位学习作为教学方法，世界遗产地作为学习环境，构成了一个独特的教学与研究实验。
+>
+> *With sustainability as the focus, phenomenon-based learning as an approach and World Heritage as a learning environment the SveaSus project has been a unique teaching and learning experiment.* (Schaffar & Wolff, 2024, p. 1)
+
+---
 
 ## 影响与后果
 
-> [!success] 影响与后果
-> SveaSus 的意义在于提供了一个 [[Phenomenon-Based Learning|PhBL]] 的具体实践场景：学习不是在抽象课堂中围绕"可持续性"概念展开，而是在世界遗产地中把地点、时间、身体经验、艺术方法、多语资源和跨学科知识组织起来([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
->
-> 该项目也说明，PhBL 可用于高等教育和教师教育，而不只属于基础教育课程改革。它把教师、研究者、艺术家和学生放入共同研究与发展关系中，体现了 PhBL 所强调的协作、共同责任和对复杂问题的多视角理解，也呼应 [[Bildung]] 和 [[Didaktik]] 对教育目的、内容选择和开放未来的关切([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.1, 6-7, 11]])。
+> [!finding-cards] 影响与后果
+> - **政策影响**：为芬兰国家核心课程所倡导的 PhBL 政策提供了一个“自下而上”的具体实践范式，展示了政策话语如何跨越基础教育阶段，在**高等教育与教师教育**（Higher and Teacher Education）领域进行本土化和教学法落地（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 10]]）。
+> - **实践影响**：打破了传统“教师讲、学生听”的授课模式，建立了教师、研究者、艺术家与学生的跨界合作共同体。通过具身行走、艺术表达和多语写作，在真实的芬兰堡世界遗产地开展以地点和时间为纽带的生成性学习，重构了人与生活世界的密切联系（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4, 10]]）。
+> - **知识影响**：提供了一个活生生的“课程自我修正模型”（[[Pragmatic Constructivism]] 的具体体现），以跨学科整体性探究抵抗新自由主义全球教育治理下“知识和技能原子化”的异化倾向，捍卫了教学论中知识的“开放未来（Open future）”和“教学与更新（[[Disciplina and Doctrina|Doctrina]]）”的本质（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–8, 9–10]]）。
+
+---
 
 ## 争议与评论
 
-> [!warning] 争议与评论
-> SveaSus 的证据地位有限：它展示了 [[Phenomenon-Based Learning|PhBL]] 的实践形态，但不能单独证明 PhBL 的有效性。因此，它更适合作为 PhBL 的实践案例，而不是作为 PhBL 有效性的经验证据([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
+> [!actor-grid] 评论视角
+> - **政策与制度视角**：项目支持了现象本位学习抵御过度外部评估锁定的合理性。然而，在全球绩效和测量风暴中，该项目倡导的非目的论、体验性学习难以被现有的定量指标体系（如技能考核清单）所表征，在国家体制推广中存在制度兼容性困难（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> - **学术与方法视角**：该项目主要为现象学与教学论视角的规范性批判和质性行动研究提供了实证脉络，但其证据地位有限，无法在经验主义（Empirical）层面提供关于学习成效、教学表现的定量实证数据（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]）。
+
+> [!tension] 争议焦点：质性探索 vs 经验测量
+> - **质性探索与自我转化（蓝方）**：SveaSus 的价值在于证明现象本位学习是一场具身、情感与伦理交互的探究过程。真正的学习在于唤醒学生的 ethically conscious，反思自己与世界的关系，无法也无需被简单量化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 11]]）。
+> - **经验测量与绩效指标（红方）**：对于关注宏观成效和国际比较的决策者而言，SveaSus 类的项目因缺乏系统性的对照实验与学习成果的量化测量，难以证明其作为一种“高效教学法”的有效性和可在其他学校大规模复制推广的经验正当性（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]）。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Phenomenon-Based Learning]] — SveaSus 是以 PhBL 为取向的教学与研究发展项目。
-> - [[Finnish National Core Curriculum]] — 虽然 SveaSus 属于高等教育/教师教育语境，但它展示了芬兰课程改革中 PhBL 取向可如何转化为具体学习环境。
-> - [[Epochal Key Problems]] — 项目的可持续性主题把重大公共问题转化为具体学习[[Champ|场域]]。
-> - [[Atomisation of Knowledge and Skills]] — SveaSus 的真实场域、身体经验、艺术和多语方法可作为抵抗单纯技能化学习理解的实践例子。
-> - [[Phenomenology]] — 项目强调世界遗产地、具身学习和真实场域，体现了学习与生活世界、身体经验和意义生成的关系。
-
+> [!entry-map]
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法实践。 |
+> | [[Finnish National Core Curriculum]] | Fact | 芬兰 2014 年国家核心课程是 SveaSus 推广 PhBL 的政策制度背景。 |
+> | [[Pragmatic Constructivism]] | Theory | 劳斯特-von Wright 整合杜威与米德提出的“课程自我修正模型”，构成了 SveaSus 教学法的理论基础。 |
+> | [[Disciplina and Doctrina]] | Concept | SveaSus 强调的动态协作和开放探究是对 `doctrina` 维度的坚守，抵御了技能原子化的 `disciplina` 倾向。 |
+> | [[Phenomenology]] | Theory | 项目倡导的具身学习、真实场域和主体间性具有深刻的现象学体验根源。 |

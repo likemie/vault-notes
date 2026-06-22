@@ -5,7 +5,8 @@ aliases:
   - 知识的规训与更新
   - disciplina
   - doctrina
-summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新"
+  - 规训
+summary: 西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新
 type: concept
 domain: "educational-philosophy"
 related_count: 0
@@ -24,8 +25,8 @@ related_facts: []
 related_arguments: []
 confidence: high
 status: draft
-created: '2026-06-22'
-updated: '2026-06-22'
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # Disciplina and Doctrina
