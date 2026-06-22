@@ -1230,12 +1230,12 @@ Plummer (1983) 提供了四种效度检查：
 > [!citation-card]- 效度附着于解释而非数据
 > 效度附着于解释（accounts），而非数据或方法（Hammersley & Atkinson, 1983）；重要的是主体赋予数据的意义和从数据中得出的推论。（第10章, p.160）
 >
-> *Validity, then, attaches to accounts, not to data or methods (Hammersley and Atkinson, 1983); it is the meaning that subjects give to data and inferences drawn from the data that are important.*
+> *Validity, then, attaches to accounts, not to data or methods (Hammersley & Atkinson, 1983); it is the meaning that subjects give to data and inferences drawn from the data that are important.*
 
 > [!citation-card]- Lincoln & Guba 四项质性效度标准
 > Lincoln & Guba (1985) 认为质性研究中的效度的关键标准是：（a）可信性（替代量化内部效度概念）；（b）可迁移性（替代量化外部效度概念）；（c）可依赖性（替代量化信度概念）；（d）可确认性（替代量化客观性概念）。（第10章, p.161）
 >
-> *Lincoln and Guba (1985) suggest that key criteria of validity in qualitative research are: (a) credibility (replacing the quantitative concepts of internal validity); (b) transferability (replacing the quantitative concept of external validity); (c) dependability (replacing the quantitative concept of reliability); and (d) confirmability (replacing the quantitative concept of objectivity).*
+> *Lincoln & Guba (1985) suggest that key criteria of validity in qualitative research are: (a) credibility (replacing the quantitative concepts of internal validity); (b) transferability (replacing the quantitative concept of external validity); (c) dependability (replacing the quantitative concept of reliability); and (d) confirmability (replacing the quantitative concept of objectivity).*
 
 > [!citation-card]- 质性信度作为吻合度
 > 在质性研究中，信度可被视为研究者记录为数据的内容和在被研究的自然情境中实际发生的内容之间的吻合度——即一定程度的准确性和覆盖面的全面性。（第10章, p.205）

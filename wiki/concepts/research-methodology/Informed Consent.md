@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -200,7 +201,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ## 敏感研究中的知情同意
 
-在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（Cohen et al., 2011, pp. 210–212）。
+在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 210–212]]）。
 
 > [!tension] 知情同意 vs [[Research Practicability|研究可行性]]
 > - **知情同意作为不可协商的底线** 不获得知情同意可能导致参与者感到被欺骗、被剥削和被利用。当研究结果最终发表、参与者意识到自己未经同意就被研究时，研究者被视为捕食者（Lee, 1993, p. 157），利用研究作为地位和职业晋升的工具。

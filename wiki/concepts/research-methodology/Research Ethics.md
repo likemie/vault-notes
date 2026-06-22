@@ -4,10 +4,10 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -43,6 +43,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
 status: draft
@@ -314,7 +315,7 @@ Creswell & Creswell (2022, 第4章) 提供了三个研究者在实际研究中�
 
 ## 敏感研究中的伦理极端化
 
-在[[Sensitive Research|敏感研究]]中，日常研究伦理的张力被推向极端——日常研究中的可协商灰色地带，在敏感研究中可能变成不可调和的冲突（Cohen et al., 2011, pp. 209–215）。
+在[[Sensitive Research|敏感研究]]中，日常研究伦理的张力被推向极端——日常研究中的可协商灰色地带，在敏感研究中可能变成不可调和的冲突（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 209–215]]）。
 
 ### 有罪知识与肮脏之手
 
