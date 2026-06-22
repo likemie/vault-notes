@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Purpose Statement]]"
   - "[[Gatekeepers]]"
+  - "[[Hawthorne Effect]]"
   - "[[Research Scope]]"
   - "[[Confidentiality]]"
   - "[[Access and Acceptance in Research]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Institutional Review Board]]"
+  - "[[Sensitive Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Betrayal in Research]]"
   - "[[Ethics Debriefing]]"
@@ -313,7 +315,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 隐蔽观察（Patrick 的格拉斯哥帮派研究，第11章）和涉及欺骗的实验技术（Milgram 服从权威实验，第26章）本质上排除了知情同意的选项。即使同意已获得，问题仍可能出现。Burgess (1989) 引用了自己的研究：教师被告知研究正在进行，但不可能具体说明什么数据将被收集或如何使用。可以说，个体未被充分告知、同意未获得、隐私被侵犯。
 >
 > **2. 知情同意可能破坏数据质量**
-> 告知人们研究可能引发霍桑效应（第10章讨论）或干扰参与者的自然行为（Oliver, 2003, p. 53）：他们会意识到被观察。寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据，因为参与者可能更加警惕他们披露的内容（如关于人际关系的信息）。
+> 告知人们研究可能引发[[Hawthorne Effect|霍桑效应]]（第10章讨论）或干扰参与者的自然行为（Oliver, 2003, p. 53）：他们会意识到被观察。寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据，因为参与者可能更加警惕他们披露的内容（如关于人际关系的信息）。
 >
 > **3. Wax (1982, p. 44) 的"既太多又太少"论证**
 > "太多"：在质性研究的涌现性情境中"过度谨慎且具有破坏性"，因为随意谈话是田野笔记的重要组成部分；"太少"：田野研究者往往需要比知情同意多得多的东西，包括信任、参与者的"积极协助"和"同事关系"。Wax 甚至认为知情同意强化了而非平衡了研究者与参与者之间的权力不对称。他还提出了一个有力观点（p. 42）：在许多类型的研究中，知情同意不是"一锤子买卖"（如[[Experimental Research|实验研究]]），而是在质性、涌现性研究中必须**持续协商**的。
@@ -749,7 +751,7 @@ Kelly (1989a) 指出，质性研究中伦理触角需要特别敏感的领域是
 > 保密是保护参与者隐私权的第二种方式：承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息（pp.101–102）。也可以意味着不与任何其他人讨论某个个体。虽然研究者知道谁提供了信息，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护。核心问题是**研究者在多大程度上与帮助过他们的人守约**。
 
 > [!warning] 保密承诺与参与意愿
-> Kimmel (1988) 指出，敏感主题研究中的一些潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。他总结：**研究者在敏感研究领域提供可信保密承诺的能力可能严重影响数据的有效性**。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护（p.101）。
+> Kimmel (1988) 指出，敏感主题研究中的一些潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。他总结：**研究者在[[Sensitive Research|敏感研究]]领域提供可信保密承诺的能力可能严重影响数据的有效性**。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护（p.101）。
 
 > [!feature] Frankfort-Nachmias & Nachmias (1992) 的四项保密技术
 >

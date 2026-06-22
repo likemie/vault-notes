@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Action Narratives]]"
   - "[[Interventionist Strategy]]"
+  - "[[Hawthorne Effect]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Further Education]]"
   - "[[Cultural Capital]]"
@@ -61,6 +62,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -623,7 +625,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 #### 干预研究必须关注的六项因素
 
 > [!warning] 干预策略的六项风险因素
-> 1. **情境效应**：干预的语境和情境权力可能影响参与者的结果和行为——包括**霍桑效应**（Hawthorne effect）和**路西法效应**（Lucifer effect，Zimbardo, 2007a）。
+> 1. **情境效应**：干预的语境和情境权力可能影响参与者的结果和行为——包括**[[Hawthorne Effect|霍桑效应]]**（Hawthorne effect）和**路西法效应**（Lucifer effect，Zimbardo, 2007a）。
 > 2. **同一原因不产生同一效果**：原因不是因果效果的机械保证。
 > 3. **前后测时机不当**：可能破坏关于原因效果的陈述的可靠性。
 > 4. **[[Fundamental Problem of Causal Inference]]**（Holland, 1986, p. 947）：同一个人不能同时处于接受和不接受干预的组中，这一基本问题可能无法仅通过随机化充分缓解（见第16章）。
@@ -827,7 +829,7 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 > （pp.92–94）
 
 > [!conclusion] 本章结尾的方法论立场
-> 因果研究面临一系列挑战：关注因果过程而非输入/输出模型；不通过原子式元素的还原与重组建立因果性；将因果性视为对现象或整体的生成性历史的理解；在多重连接和网络化的世界中调查多重同时原因及其多重同时效果；分离因果性与可预测性；接受随机性经常胜过因果性（Gorard, 2001a, p. 21）；理解如何在整体性连接网络中调查因果性；理解多重因果、多重效果、非线性和多重连接世界中的因果过程；识别从个体行动与互动中决定社会宏观结构的因果过程，以及相反地从社会结构及其制度中决定个体行动与互动的因果过程（pp.93–94）。
+> 因果研究面临一系列挑战：关注因果过程而非输入/输出模型；不通过原子式元素的还原与重组建立因果性；将因果性视为对现象或整体的生成性历史的理解；在多重连接和[[Snowball Sampling|网络化]]的世界中调查多重同时原因及其多重同时效果；分离因果性与可预测性；接受随机性经常胜过因果性（Gorard, 2001a, p. 21）；理解如何在整体性连接网络中调查因果性；理解多重因果、多重效果、非线性和多重连接世界中的因果过程；识别从个体行动与互动中决定社会宏观结构的因果过程，以及相反地从社会结构及其制度中决定个体行动与互动的因果过程（pp.93–94）。
 
 ---
 

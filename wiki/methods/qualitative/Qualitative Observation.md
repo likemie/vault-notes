@@ -9,7 +9,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Research Ethics]]"
   - "[[Rich and Thick Description]]"
+  - "[[Hawthorne Effect]]"
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
@@ -117,7 +118,7 @@ updated: '2026-06-19'
 
 > [!method-fit] 适用判断
 > - **适合使用**：需要在自然情境中直接了解参与者的实际行为和互动模式，而非仅依赖自我报告时；适合探索不愿口头表达的话题；配合访谈数据开展[[Triangulation|三角验证]]。
-> - **谨慎使用**：研究者可能被视为侵入者（霍桑效应）；可能观察到无法公开的私人信息；或受试者难以建立信任的场景（如儿童）。
+> - **谨慎使用**：研究者可能被视为侵入者（[[Hawthorne Effect|霍桑效应]]）；可能观察到无法公开的私人信息；或受试者难以建立信任的场景（如儿童）。
 > - **不适合使用**：旨在识别明确[[Variable|变量]]间的因果[[Effect Size|效应量]]，或在大样本总体中推广统计结论时。
 
 ---
@@ -125,7 +126,7 @@ updated: '2026-06-19'
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源**：研究者自身的注意力和观察技能局限、霍桑效应（被观察者因受关注而改变行为）、研究者主观偏见污染。
+> - **偏误来源**：研究者自身的注意力和观察技能局限、[[Hawthorne Effect|霍桑效应]]（被观察者因受关注而改变行为）、研究者主观偏见污染。
 > - **适用边界**：田野观察极度依赖特定现场脉络，其发现无法直接推广到其他[[Heterogeneity|异质性]]背景。
 > - **误用风险**：将观察到的经验描述直接等同于因果证明，或忽视自身角色对现场行为产生的干扰。
 > - **补救方式**：采用[[Observation Protocol|观察协议]]（分设描述性与[[Reflexivity|反思性]]笔记），引入第三方成员核验，结合多元数据进行[[Triangulation|三角验证]]（Triangulation）。

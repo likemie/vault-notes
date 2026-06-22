@@ -4920,6 +4920,16 @@
     ]
   },
   {
+    "title": "Hawthorne Effect",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Hawthorne Effect.md",
+    "aliases": [
+      "霍桑效应",
+      "Hawthorne effects",
+      "observer effect"
+    ]
+  },
+  {
     "title": "Heterogeneity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Heterogeneity.md",
@@ -5277,6 +5287,16 @@
       "necessary condition",
       "sufficient condition",
       "necessary and sufficient conditions"
+    ]
+  },
+  {
+    "title": "Negative Case Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Negative Case Analysis.md",
+    "aliases": [
+      "负面案例分析",
+      "deviant case analysis",
+      "异常案例分析"
     ]
   },
   {
@@ -12669,6 +12689,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

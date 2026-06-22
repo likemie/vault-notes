@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -63,7 +63,7 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
 related_methods:
-  - "[[Random Sampling]]"
+  - "[[Stratified Sampling]]"
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
@@ -75,7 +75,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
-  - "[[Stratified Sampling]]"
   - "[[Interview Protocol]]"
 related_persons: []
 related_facts: []
@@ -118,7 +117,7 @@ updated: 2026-06-21
 
 > [!chain-link] 目的适切性的三重推理
 > - **情境与设计的直接对应**
->   如果[[Research Purpose|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合[[Random Sampling|分层抽样]]可能是合适的选择；如果要评估特定干预的效果，则实验或行动研究模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography|民族志]]模型可能合适（p.118）。
+>   如果[[Research Purpose|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合[[Stratified Sampling|分层抽样]]可能是合适的选择；如果要评估特定干预的效果，则实验或行动研究模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography|民族志]]模型可能合适（p.118）。
 > - **识别跨情境的共同议题**
 >   尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题，指示如何在实践中将一般的研究兴趣转化为可操作、可行的研究课题（p.118）。
 > - **规划即前瞻性约束**

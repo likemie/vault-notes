@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 54
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 64
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -55,6 +55,13 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Sample Size Determination]]"
+  - "[[Sensitive Research]]"
+  - "[[Gatekeepers]]"
+  - "[[Guilty Knowledge]]"
+  - "[[Internal Validity]]"
+  - "[[External Validity]]"
+  - "[[Qualitative Validity]]"
+  - "[[Hawthorne Effect]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -63,6 +70,7 @@ related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
   - "[[Maxwell's Interactive Model of Research Design]]"
+  - "[[Hart's Ladder of Participation]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ideology Critique]]"
@@ -71,6 +79,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Purposeful Sampling]]"
+  - "[[Triangulation]]"
   - "[[Ethnography]]"
   - "[[Meta-analysis]]"
   - "[[Grounded Theory]]"
@@ -87,6 +96,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -114,7 +124,7 @@ updated: 2026-06-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|第7章 Planning educational research]] | 研究规划的完整框架：以目的适切性为核心原则，经由发散-收敛两阶段和四领域框架逐步操作化研究问题，覆盖文献综述论证写作与网络检索、定向决策、研究设计与方法论、数据分析与报告规划、规划矩阵与四阶段管理模型，以及35条质量清单和Furlong & Oancea四维度质量框架。 | [[Operationalization]]、[[Fitness for Purpose]]、[[Maxwell's Interactive Model of Research Design\|Maxwell's Interactive Model]]、[[Literature Review]]、[[Hypothesis]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|第8章 Sampling]] | 系统介绍抽样核心议题：样本量确定的多重因素与经验法则、抽样误差与标准误（含中心极限定理）、概率抽样（简单随机／系统／分层／整群／阶段／多阶段）与非概率抽样（便利／配额／目的性／维度／滚雪球／志愿者／理论抽样）的完整分类体系、以及质性与混合方法研究中的抽样策略与八步规划流程。 | [[Sampling Error]]、[[Sample Size Determination]]、[[Random Sampling]]、[[Non-probability Sampling]]、[[Purposeful Sampling]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|第9章 Sensitive educational research]] | 探讨敏感教育研究的多个维度：敏感研究的定义与三类来源（Lee, 1993）、抽样与准入策略（八种策略、Walford四阶段模型、守门人与担保人）、伦理议题（有罪知识、隐蔽研究vs间谍活动、演绎披露、链接文件系统）、研究有权者与无权/脆弱群体（Hart参与阶梯），以及敏感研究中的提问技巧（vignettes、访谈者效应）。 | [[Sensitive Research]]、[[Gatekeepers]]、[[Covert Research]]、[[Guilty Knowledge]]、[[Hart's Ladder of Participation]] |
-> | 第10章 Validity and reliability | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|第10章 Validity and reliability]] | 系统阐述效度与信度在量化、质性和混合方法中的多元含义：效度为程度而非绝对，信度是效度的必要非充分条件；逐层拆解内部效度、外部效度及十余种效度类型，以三角验证桥接效度与信度；最后落实到访谈、实验、问卷、观察、测验和生命史中的操作策略与威胁清单。 | [[Internal Validity]]、[[External Validity]]、[[Triangulation]]、[[Qualitative Validity]]、[[Hawthorne Effect]] |
 > | **Part 3 教育研究的类型** | | |
 > | 第13章 Naturalistic, qualitative and [[Ethnography\|ethnographic research]] | | |
 > | 第14章 Historical and documentary research | | |

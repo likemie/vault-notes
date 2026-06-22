@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,11 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Purpose Statement]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Sensitive Research]]"
+  - "[[Research Practicability]]"
+  - "[[Covert Research]]"
+  - "[[Guilty Knowledge]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -175,7 +180,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > >
 > > - **Patrick（格拉斯哥帮派研究）** 隐蔽观察本质上无法事先告知参与者，否则研究对象将不复存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
 > > - **Milgram（1963）** 服从权威实验中的欺骗技术若提前告知参与者，实验情境将无法成立。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
-> > - **Oliver（2003, p. 53）** 知情同意可能带来霍桑效应——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+> > - **Oliver（2003, p. 53）** 知情同意可能带来[[Hawthorne Effect|霍桑效应]]——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
 >
 > > [!abstract] [[Qualitative Research|质性研究]]适用性争议
 > > 核心问题是：知情同意是否适配质性研究的[[Emergence|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
@@ -197,14 +202,14 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（Cohen et al., 2011, pp. 210–212）。
 
-> [!tension] 知情同意 vs 研究可行性
+> [!tension] 知情同意 vs [[Research Practicability|研究可行性]]
 > - **知情同意作为不可协商的底线** 不获得知情同意可能导致参与者感到被欺骗、被剥削和被利用。当研究结果最终发表、参与者意识到自己未经同意就被研究时，研究者被视为捕食者（Lee, 1993, p. 157），利用研究作为地位和职业晋升的工具。
 > - **放弃知情同意以获取否则无法获得的数据** 如果研究者向暴力教师寻求研究其暴力行为的知情同意，研究几乎不可能开展。但如果研究者请求研究学生课堂行为而隐瞒真实目的（研究教师暴力），准入更可能获得批准。从学生、学校乃至暴力教师自身的利益出发，暴露问题是重要的，且需要证据基础（p.210）。
 
-> [!claim] 隐蔽研究的知情同意悖论
+> [!claim] [[Covert Research|隐蔽研究]]的知情同意悖论
 > 在有权者控制准入和参与者生活其他方面的情境中（Munro et al., 2004, p. 302; Morrison, 2006），隐蔽研究或欺骗可能是获取真实数据的唯一途径。伦理守则虽然质疑欺骗，但并不完全禁止。底线是：违反知情同意必须基于对公共利益的严格论证，而非研究者的便利（pp.210–211）。
 
-Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究者获得有罪知识的情境以测试研究者的忠诚——信任测试（trust tests）。在这种情境下，知情同意的标准程序可能无法覆盖田野中实际发生的伦理动态。
+Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究者获得[[Guilty Knowledge|有罪知识]]的情境以测试研究者的忠诚——信任测试（trust tests）。在这种情境下，知情同意的标准程序可能无法覆盖田野中实际发生的伦理动态。
 
 > [!seealso] 参见
 > - [[Covert Research]] — 隐蔽研究中的知情同意困境
