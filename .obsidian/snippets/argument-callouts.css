@@ -7118,13 +7118,17 @@
 }
 
 .callout[data-callout="claim"] > .callout-content {
-  padding: 0.85rem 1.05rem;
+  padding: 0.72rem 1.05rem 0.85rem;
   font-size: var(--fs-lead);
   line-height: 1.7;
 }
 
-.callout[data-callout="claim"] > .callout-content > p:first-child {
+.callout[data-callout="claim"] > .callout-content > *:first-child {
   margin-top: 0;
+}
+
+.callout[data-callout="claim"] > .callout-content > *:last-child {
+  margin-bottom: 0;
 }
 
 .callout[data-callout="warrant"] {
