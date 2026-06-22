@@ -8160,6 +8160,12 @@
   padding: 0 !important;
   margin: 0 !important;
 }
+
+/* 奇数项：最后一个铺满整行 */
+.callout[data-callout="theory-components"] > .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
+  grid-column: 1 / -1;
+}
+
 /* Obsidian 注入的真实 DOM bullet span，必须直接隐藏 */
 .callout[data-callout="theory-components"] .list-bullet {
   display: none !important;

@@ -34,9 +34,11 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Deductive Disclosure]]"
   - "[[Operationalization]]"
+  - "[[Interviewer Effects]]"
   - "[[Institutional Review Board]]"
   - "[[Stigma Contagion]]"
   - "[[School Choice]]"
+  - "[[Researching Up and Researching Down]]"
   - "[[Knowledge Production]]"
   - "[[Study Population and Sample]]"
   - "[[Access and Acceptance in Research]]"
@@ -111,7 +113,7 @@ updated: 2026-06-22
 > - **步骤三：[[Gatekeepers|守门人]]与担保人的动态关系** 在抽样与准入内部，进一步聚焦两个关键角色——控制准入之门的守门人和带领研究者穿门而入的担保人，并以后者对前者的补充展示敏感研究中人际信任的核心地位（9.3 后段）。
 > - **步骤四：方法论困境二——伦理极端化** 敏感研究将[[Informed Consent|知情同意]]、保密、匿名性、公共利益与个人隐私等日常[[Research Ethics|研究伦理]]推向极端，引出[[Guilty Knowledge|有罪知识]]、[[Covert Research|隐蔽研究]]的正当性争论、[[Deductive Disclosure|演绎披露]]和[[Linked File System|链接文件系统]]等具体伦理工具（9.4）。
 > - **步骤五：两种对比情境** 以研究有权者（9.5）和研究无权与脆弱群体（9.6）作为敏感研究的两个具体案例，展示前述概念、方法和伦理如何在实践中交织运作。两个情境的问题清单几乎相同——作者有意设计——因为它们指向同一个底层问题：权力不对称。
-> - **步骤六：[[Operationalization|操作化]]转化** 将前述全部讨论转化为可执行的提问技巧：问题形式选择、vignettes 的投射机制、访谈者效应管理——完成从抽象伦理到具体操作的闭环（9.7）。
+> - **步骤六：[[Operationalization|操作化]]转化** 将前述全部讨论转化为可执行的提问技巧：问题形式选择、vignettes 的投射机制、[[Interviewer Effects|访谈者效应]]管理——完成从抽象伦理到具体操作的闭环（9.7）。
 
 ---
 
@@ -184,7 +186,7 @@ Lee (1993, p. 4) 进一步将敏感研究归纳为三大类：
 
 #### 研究上 vs 研究下：一道结构性选择
 
-Lee (1993, p. 8) 提出了一个重要的结构性观察（p.201）：
+Lee (1993, p. 8) 提出了[[Researching Up and Researching Down|研究上与研究下]]的结构性观察（p.201）：
 
 > [!tension] "研究下"与"研究上"的不对称
 > - **研究下（studying down）——社会科学的主流倾向** 研究者倾向于关注无权群体而非有权群体，理由很简单：无权群体更容易进入、更少抵制、敏感性更低。Lee 尖锐地指出"富人和有权者鼓励了圣徒传记（hagiography）而非批判性调查"（Beynon, 1988, p. 23）。结果是社会科学生产了大量关于穷人、边缘群体、弱势人群的研究，而权力中心却相对少被审视。
@@ -673,7 +675,7 @@ Lee (1993, p. 79) 推荐的 Vignettes 是敏感研究提问的核心创新（p.2
 
 #### 访谈者效应与研究者特征
 
-访谈者效应（interviewer effects）指研究者的特征如何系统性地影响敏感研究数据的质量（pp.227–229）：
+[[Interviewer Effects|访谈者效应]]（interviewer effects）指研究者的特征如何系统性地影响敏感研究数据的质量（pp.227–229）：
 
 > [!factors] 影响敏感访谈的研究者特征
 > - **人口学特征** 性别、种族、年龄、地位——女性的研究者特征可能使女性参与者更舒适；男性参与者可能不愿被女性访谈；有权者可能因被低级别新手研究助理访谈而感到被侮辱。

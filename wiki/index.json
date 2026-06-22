@@ -4914,7 +4914,9 @@
     "path": "wiki/concepts/research-methodology/Guilty Knowledge.md",
     "aliases": [
       "有罪知识",
-      "guilty information"
+      "guilty information",
+      "肮脏之手",
+      "dirty hands"
     ]
   },
   {
@@ -5089,6 +5091,17 @@
     "aliases": [
       "干预主义策略",
       "interventionist strategy"
+    ]
+  },
+  {
+    "title": "Interviewer Effects",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Interviewer Effects.md",
+    "aliases": [
+      "访谈者效应",
+      "访谈者影响",
+      "interviewer characteristics",
+      "访员效应"
     ]
   },
   {
@@ -5700,6 +5713,19 @@
     "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
     "aliases": [
       "研究者自由度"
+    ]
+  },
+  {
+    "title": "Researching Up and Researching Down",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Researching Up and Researching Down.md",
+    "aliases": [
+      "研究上与研究下",
+      "studying up and studying down",
+      "向上研究",
+      "向下研究",
+      "researching up",
+      "researching down"
     ]
   },
   {

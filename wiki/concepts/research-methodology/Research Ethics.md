@@ -23,6 +23,10 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Betrayal in Research]]"
   - "[[Academic Freedom]]"
+  - "[[Sensitive Research]]"
+  - "[[Guilty Knowledge]]"
+  - "[[Covert Research]]"
+  - "[[Privacy in Research]]"
 related_theories:
   - "[[Situated Ethics]]"
 related_methods:
@@ -39,6 +43,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -313,11 +318,11 @@ Creswell & Creswell (2022, 第4章) 提供了三个研究者在实际研究中�
 
 ### 有罪知识与肮脏之手
 
-> [!def] 有罪知识（Guilty Knowledge）与肮脏之手（Dirty Hands）
+> [!def] [[Guilty Knowledge|有罪知识]]（Guilty Knowledge）与肮脏之手（Dirty Hands）
 > 有罪知识（De Laine, 2000, p. 67）指研究者在田野中被动获得的、可能给研究者和参与者双方带来个人与职业风险的信息。肮脏之手（Klockars, 1979）指研究者知晓越轨行为后自身陷入的伦理困境——知晓了可能伤害他人或违法或违背公共利益的信息，但披露又可能破坏研究关系。
 
 > [!case] Patrick (1973) 的格拉斯哥帮派研究
-> 研究者潜入一个格拉斯哥帮派进行隐蔽研究，目睹了一起谋杀。选择报告警方——履行法律义务——则暴露研究者身份、研究终止且可能面临报复。选择保持沉默——则违反法律、默许暴力继续。这一案例将研究者推到了伦理与法律的极限（p.209）。
+> 研究者潜入一个格拉斯哥帮派进行[[Covert Research|隐蔽研究]]，目睹了一起谋杀。选择报告警方——履行法律义务——则暴露研究者身份、研究终止且可能面临报复。选择保持沉默——则违反法律、默许暴力继续。这一案例将研究者推到了伦理与法律的极限（p.209）。
 
 Lee (1993, p. 139) 还指出，一些参与者可能故意制造让研究者获得有罪知识的情境以测试研究者的忠诚——信任测试（trust tests）。研究者可能在不知情的情况下接受着参与者对其忠诚度的暗中考核。
 

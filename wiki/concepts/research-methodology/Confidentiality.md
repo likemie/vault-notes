@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理中研究者对参与者信息的保护义务——承诺不将可识别个人身份的信息公开披露或使个体可被追踪，在敏感研究中面临演绎披露和链接文件系统等特殊挑战"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
 related_methods:
   - "[[Linked File System]]"
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
@@ -34,7 +35,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 保密是保护参与者隐私权的基本方式：研究者承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息。这意味着虽然研究者知道谁提供了信息或能从所给信息中识别参与者，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护（Cohen et al., 2011, pp. 101–102）。
+> 保密是保护参与者隐私权的基本方式：研究者承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息。这意味着虽然研究者知道谁提供了信息或能从所给信息中识别参与者，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 101–102]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 保密是研究者对参与者的承诺——我知道你是谁，但我不会告诉任何人。核心是研究者守信的程度和研究者维护这一承诺的技术能力。
@@ -64,7 +65,7 @@ updated: 2026-06-22
 
 ### 基本保密技术
 
-Frankfort-Nachmias & Nachmias (1992) 列出了四项保密技术（Cohen et al., 2011, p. 102）：
+Frankfort-Nachmias & Nachmias (1992) 列出了四项保密技术（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 102]]）：
 
 > [!feature] 四项基本保密技术
 > - **删除标识符（Deletion of identifiers）** 删除数据中公开的姓名、地址或其他直接识别方式。
@@ -72,7 +73,7 @@ Frankfort-Nachmias & Nachmias (1992) 列出了四项保密技术（Cohen et al.,
 > - **微观聚合（Microaggregation）** 从个体数据构建平均人并发布这些聚合数据，而非个体数据。
 > - **错误注入（Error inoculation）** 故意在个体记录中引入错误，同时保持聚合数据不变。
 
-Cooper & Schindler (2001, p. 117) 补充了额外保护措施（Cohen et al., 2011, p. 102）：
+Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 102]]）：
 - 获得签名声明表明不披露研究
 - 限制访问可识别受访者的数据
 - 在披露前征求受访者批准
@@ -83,13 +84,13 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（Cohen et al., 20
 ### 保密承诺的可信度
 
 > [!warning] 保密保证与数据质量的关系
-> Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在[[Sensitive Research|敏感研究]]中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（Cohen et al., 2011, p. 101）。
+> Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在[[Sensitive Research|敏感研究]]中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 101]]）。
 
 ---
 
 ### 敏感研究中的特殊保密挑战
 
-在[[Sensitive Research|敏感研究]]中，保密面临两项特殊挑战（Cohen et al., 2011, pp. 212–213）：
+在[[Sensitive Research|敏感研究]]中，保密面临两项特殊挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 212–213]]）：
 
 #### 演绎披露
 
@@ -119,7 +120,7 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（Cohen et al., 20
 ## 争议与批评
 
 > [!tension] 保密是否应被打破
-> Wiles 等 (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（Cohen et al., 2011, pp. 102–103）：
+> Wiles 等 (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 102–103]]）：
 > - 实际或预谋的刑事活动
 > - 个人面临风险（如报告被虐待的儿童）
 > - 脆弱群体（儿童、有特殊需要者、最近丧亲者、来自暴力家庭的儿童）
@@ -127,10 +128,10 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（Cohen et al., 20
 > 在许多情况下，研究者在访谈开始前即明确，任何法律性质的信息如果访谈者认为受访者面临风险或存在法律事项，可被披露。但不是那么简单——因为受访者可能揭示未预见的信息。
 
 > [!warning] 第三方信息的保密困境
-> 如果参与者评论了不在研究中且未征求[[Informed Consent|知情同意]]的另一个人（Crow et al., 2006, p. 92）：研究者是否使用这些数据？排除或纳入关于第三方的数据是否公平，因为第三方尚未被接触征求知情同意？（Cohen et al., 2011, p. 103）
+> 如果参与者评论了不在研究中且未征求[[Informed Consent|知情同意]]的另一个人（Crow et al., 2006, p. 92）：研究者是否使用这些数据？排除或纳入关于第三方的数据是否公平，因为第三方尚未被接触征求知情同意？（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 103]]）
 
 > [!warning] 绝对保密的悖论
-> 如果数据要用于研究，保密实际意味着什么？如果数据是保密的、不能被使用或传递，那么收集或拥有数据的意义何在？在这种情况下，也许应该处理的是匿名而非保密，或者应该澄清保密的范围（其边界）而非给出绝对保密的保证（Oliver, 2003, p. 15）（Cohen et al., 2011, p. 103）。
+> 如果数据要用于研究，保密实际意味着什么？如果数据是保密的、不能被使用或传递，那么收集或拥有数据的意义何在？在这种情况下，也许应该处理的是匿名而非保密，或者应该澄清保密的范围（其边界）而非给出绝对保密的保证（Oliver, 2003, p. 15）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 103]]）。
 
 ---
 

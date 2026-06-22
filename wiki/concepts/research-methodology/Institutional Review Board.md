@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,6 +40,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Bang_2025_ClinicalTrials]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -145,7 +146,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 ## 敏感研究中的 IRB 与正式审查的局限
 
-在[[Sensitive Research|敏感研究]]中，正式伦理审查框架的局限被暴露得尤为明显（Cohen et al., 2011, pp. 209–215, 229–230）。
+在[[Sensitive Research|敏感研究]]中，正式伦理审查框架的局限被暴露得尤为明显（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 209–215]], 229–230）。
 
 > [!claim] 情境化伦理对规则化审查的挑战
 > Simons & Usher (2000) 主张伦理是情境化的（situated）——取决于具体的地方环境和情境。普适的伦理守则和审查指南可能有帮助，但通常不解决实际问题；它们必须在具体情境的特殊性中被解释和协商。这在敏感研究中尤为关键：研究者面临的伦理困境——如[[Guilty Knowledge|有罪知识]]、[[Covert Research|隐蔽研究]]的正当性、隐私与公共利益的权衡——很少能通过事前提交 IRB 申请来预见或解决（p.230）。
