@@ -209,9 +209,9 @@ Castells 据此区分了两种空间逻辑：
 
 ## 论证结构
 
-> [!logic-map]- 核心论证逻辑链
+> [!logic-map] 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A("全球政策空间 (流动空间)") -->|操演性与网络逻辑| B("生产：去历史的‘漂浮能指’<br>(Malleability + Stability)")
 >     B -->|移动到| C("国家层面 (领土附着)")
 >     C -->|"舆论操控 (Spin) 与既有话语碰撞"| D("产出：不兼容声明的组合<br>(革新与保守共存的混合话语)")
