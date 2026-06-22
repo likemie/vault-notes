@@ -294,19 +294,13 @@ Morrison (2006) 在敏感教育研究中具体发现了十五项与守门人相�
 在寻找守门人的同时，研究者还可能遇到另一种角色——担保人。[[Sponsor in Research|担保人（sponsor）]]是研究群体内部的成员，提供准入、信息和支持（pp.207–208）。
 
 > [!case] 担保人的经典案例：Whyte《街角社会》中的 Doc
-> William Foote Whyte (1993, 原版 1943) 在芝加哥波士顿北端的意大利裔"街角社会"研究中，遇到了 Doc——一位帮派核心人物。Doc 的角色演进过程是担保人概念的经典诠释：
+> William Foote Whyte (1993, 原版 1943) 在芝加哥波士顿北端的意大利裔街角社会研究中，遇到了 Doc——一位帮派核心人物。Doc 的角色演进过程是担保人概念的经典诠释：
 >
-> **阶段一：担保功能。** Doc 为 Whyte 的在场提供合法性——"你以朋友的身份进来。"
+> **阶段一：担保功能。** Doc 为 Whyte 的在场提供合法性。"你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你以朋友的身份进来。"（Whyte, 1993, p. 292）
 >
-> "你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你不会有任何麻烦。你以朋友的身份进来。"（Whyte, 1993, p. 292）
+> **阶段二：行为教练。** Doc 教导 Whyte 如何在街角社会中恰当地行为——少用"谁、什么、为什么、何时、哪里"式的直接提问，多花时间闲逛，答案自然会浮现。"Go easy on that 'who', 'what', 'why', 'when', 'where' stuff, Bill. You ask those questions and people will clam up on you. If people accept you, you can just hang around, and you'll learn the answers in the long run without even having to ask the questions."（Whyte, 1993, p. 303）
 >
-> **阶段二：行为教练。** Doc 教导 Whyte 如何在街角社会中恰当地行为——少用"谁、什么、为什么、何时、哪里"式的直接提问（"人们会对你闭嘴"），多花时间"闲逛"，答案自然会浮现。
->
-> "Go easy on that 'who', 'what', 'why', 'when', 'where' stuff, Bill. You ask those questions and people will clam up on you. If people accept you, you can just hang around, and you'll learn the answers in the long run without even having to ask the questions."（Whyte, 1993, p. 303）
->
-> **阶段三：合作者。** Doc 的角色从信息人转变为研究的合作者（collaborator）：
->
-> "我与 Doc 的关系迅速变化……起初他只是关键信息人——也是我的担保人。随着时间的推移，我不再将他视为被动的信息人。我与他相当坦诚地讨论我试图做什么、什么问题困扰着我等等……因此 Doc 在真正意义上成为了研究的合作者。"（Whyte, 1993, p. 301）
+> **阶段三：合作者。** Doc 的角色从信息人转变为研究的合作者（collaborator）。"我与 Doc 的关系迅速变化……起初他只是关键信息人——也是我的担保人。随着时间的推移，我不再将他视为被动的信息人。我与他相当坦诚地讨论我试图做什么、什么问题困扰着我等等……因此 Doc 在真正意义上成为了研究的合作者。"（Whyte, 1993, p. 301）
 >
 > **阶段四：审阅者。** Doc 甚至参与了写作过程——Whyte 将论文草稿各部分拿给 Doc 审阅，Doc 的批评意见对修订"无价"（p. 341）。
 >
