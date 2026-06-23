@@ -5730,6 +5730,17 @@
     ]
   },
   {
+    "title": "Reliability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Reliability.md",
+    "aliases": [
+      "信度",
+      "dependability",
+      "可依赖性",
+      "可靠性"
+    ]
+  },
+  {
     "title": "Research Contribution",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Contribution.md",

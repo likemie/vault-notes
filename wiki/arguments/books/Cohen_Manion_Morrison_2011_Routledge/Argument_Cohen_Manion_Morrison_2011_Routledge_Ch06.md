@@ -117,7 +117,7 @@ updated: 2026-06-19
 > - **研究不是个人观点的佐证**
 >   新手往往让教育研究成为自己的人生故事，或为个人观点寻找文献和经验支撑。这不是研究的任务。研究的任务是发现（find out）、调查（investigate）、发展（develop）、检验（test out）和回答（what if、how、why、how well、what、where）。由此推出：研究必须指向外部世界的问题，而非研究者自身。
 > - **框紧边界才能严谨**
->   研究课题只是学科领域中的一小块，必须画出谨慎的边界。严谨性不在于宏大，而在于框得紧（tightly framed）。未经收窄的课题如同没有边界的田野，在其中漫游，最终哪里也到不了。课题宏大则无法管理，无法管理则无法嵌入严谨性（[[Fitness for Purpose|目的适配性]]和方法可靠性），缺乏严谨性则失败。由此推出：规划阶段的第一个纪律就是将课题收窄到可研究的比例。
+>   研究课题只是学科领域中的一小块，必须画出谨慎的边界。严谨性不在于宏大，而在于框得紧（tightly framed）。未经收窄的课题如同没有边界的田野，在其中漫游，最终哪里也到不了。课题宏大则无法管理，无法管理则无法嵌入严谨性（[[Fitness for Purpose|目的适配性]]和方法[[Reliability|可靠性]]），缺乏严谨性则失败。由此推出：规划阶段的第一个纪律就是将课题收窄到可研究的比例。
 
 ---
 
@@ -669,7 +669,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > The task of research is to find out, to investigate, to develop, to test out (e.g. a theory), to address questions that ask, for example: 'what if', 'how', 'why', 'how well', 'what' and 'where'.
 
 > [!citation-card]- 窄化即严谨
-> 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose|目的适配性]]和方法论可靠性）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
+> 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose|目的适配性]]和方法论[[Reliability|可靠性]]）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
 >
 > Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 

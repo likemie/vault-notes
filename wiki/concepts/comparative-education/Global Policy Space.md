@@ -69,9 +69,9 @@ updated: 2026-06-23
 > [!contrast-table] 概念辨析：教育空间范畴对比
 > | 维度 | 全球政策空间 (Global Policy Space) | 超国家空间 (Supranational Space) | 跨国空间 (Transnational Space) |
 > |------|--------|----------------|----------------|
-> | **分析单位** | 流动空间中的跨国网络节点与信息流。([[Argument_Beech_2009_CE|Beech, 2009, p. 350]]) | 在国家层面之上的独立多边决策机构。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]]) | 跨越国家地理边界的横向流动与交换关系。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]]) |
-> | **组织逻辑** | 无中心的、动态自我重组的非对称性网络。([[Argument_Beech_2009_CE|Beech, 2009, pp. 350–351]]) | 水平或层级制（“在国家之上”）。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]]) | 国家与国家之间的横向联结（仍受地缘预设限制）。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]]) |
-> | **权力核心** | 信息与知识的管理，以及避免被排除出网络的操演性竞争。([[Argument_Beech_2009_CE|Beech, 2009, pp. 351–353]]) | 法定行政管辖权或超国家主权协商机制。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]]) | 跨越地缘边界的资源配置与流动权力。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]]) |
+> | **分析单位** | 流动空间中的跨国网络节点与信息流。([[Argument_Beech_2009_CE\|Beech, 2009, p. 350]]) | 在国家层面之上的独立多边决策机构。([[Argument_Beech_2009_CE\|Beech, 2009, p. 349]]) | 跨越国家地理边界的横向流动与交换关系。([[Argument_Beech_2009_CE\|Beech, 2009, p. 349]]) |
+> | **组织逻辑** | 无中心的、动态自我重组的非对称性网络。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 350–351]]) | 水平或层级制（“在国家之上”）。([[Argument_Beech_2009_CE\|Beech, 2009, p. 349]]) | 国家与国家之间的横向联结（仍受地缘预设限制）。([[Argument_Beech_2009_CE\|Beech, 2009, p. 349]]) |
+> | **权力核心** | 信息与知识的管理，以及避免被排除出网络的操演性竞争。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 351–353]]) | 法定行政管辖权或超国家主权协商机制。([[Argument_Beech_2009_CE\|Beech, 2009, p. 349]]) | 跨越地缘边界的资源配置与流动权力。([[Argument_Beech_2009_CE\|Beech, 2009, p. 349]]) |
 
 ---
 
