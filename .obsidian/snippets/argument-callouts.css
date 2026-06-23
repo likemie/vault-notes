@@ -7022,8 +7022,8 @@
 }
 
 /* ─── 特征名标签：badge 样式（深底白字大写角标） ────── */
-.callout[data-callout="feature"] .callout-content > ul > li strong:first-child,
-.callout[data-callout="feature"] .callout-content > ul > li p:first-child > strong:first-child {
+.callout[data-callout="feature"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="feature"] .callout-content > ul > li p:first-of-type > strong:first-of-type {
   display: inline-block;
   background: rgb(18, 100, 72);
   color: rgb(230, 255, 245);
@@ -7060,8 +7060,8 @@
   background: color-mix(in srgb, var(--background-primary) 90%, rgb(20, 148, 108) 10%);
 }
 
-.theme-dark .callout[data-callout="feature"] .callout-content > ul > li strong:first-child,
-.theme-dark .callout[data-callout="feature"] .callout-content > ul > li p:first-child > strong:first-child {
+.theme-dark .callout[data-callout="feature"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="feature"] .callout-content > ul > li p:first-of-type > strong:first-of-type {
   background: rgb(25, 120, 88);
   color: rgb(210, 255, 238);
 }
