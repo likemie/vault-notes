@@ -9,3 +9,12 @@ part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 # Ch5_Partaken_2022
 
 ![[Ch5_Partaken_2022.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/books/Parreira%20do%20Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

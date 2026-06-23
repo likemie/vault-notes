@@ -8,3 +8,12 @@ processed_date: 2026-05-26
 # Schulte_2009_EncuentrosEducacion
 
 ![[Schulte_2009_EncuentrosEducacion.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Schulte_2009_EncuentrosEducacion.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

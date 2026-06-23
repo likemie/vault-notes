@@ -8,3 +8,12 @@ processed_date: 2026-06-08
 # Higgins_2016_RE
 
 ![[Higgins_2016_RE.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Higgins_2016_RE/Higgins_2016_RE.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

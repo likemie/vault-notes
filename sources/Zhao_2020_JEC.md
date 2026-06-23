@@ -8,3 +8,12 @@ processed_date: 2026-06-07
 # Zhao_2020_JEC
 
 ![[Zhao_2020_JEC.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Zhao_2020_JEC.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

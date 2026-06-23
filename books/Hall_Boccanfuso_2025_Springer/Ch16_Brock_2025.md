@@ -9,3 +9,12 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 # Ch16_Brock_2025
 
 ![[Ch16_Brock_2025.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/Ch16_Brock_2025.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

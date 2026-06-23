@@ -8,6 +8,15 @@ processed_date: 2026-05-20
 
 ![[Parreira do Amaral(Ed.)_2022_Springer.pdf]]
 
+
+
+<iframe
+  src="https://img.mylikemie.icu/books/Parreira%20do%20Amaral(Ed.)_2022_Springer/Parreira%20do%20Amaral(Ed.)_2022_Springer.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>
+
 ## 已处理章节
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio: 知识经济化在何种意义上具有地缘政治维度，以 Harvey、Porter 和 Hub and Flow 想象为分析资源
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 提出新知识地缘政治概念，以批判地缘政治学和后殖民去殖民两条脉络综合为框架，分析全球区域主义和 GEI 两大转型语境，展示 IEHs 和 Minerva 作为地缘政治案例

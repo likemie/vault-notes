@@ -8,3 +8,12 @@ processed_date: 2026-06-06
 # Skourdoumbis_2024_AER
 
 ![[Skourdoumbis_2024_AER.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Skourdoumbis_2024_AER.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

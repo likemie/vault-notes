@@ -9,3 +9,12 @@ part_of: "[[Ryan(Ed.)_2010_HKUP]]"
 # Ch2_Ryan_2010
 
 ![[Ch2_Ryan_2010.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/books/Ryan(Ed.)_2010_HKUP/Ch2_Ryan_2010.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

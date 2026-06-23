@@ -9,3 +9,12 @@ part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 # Ch4_Burrus_Patera_2025
 
 ![[Ch4_Burrus_Patera_2025.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

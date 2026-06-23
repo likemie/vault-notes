@@ -8,3 +8,12 @@ processed_date: 2026-05-23
 # Ball_2008_SR
 
 ![[Ball_2008_SR.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Ball_2008_SR.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

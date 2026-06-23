@@ -8,3 +8,12 @@ processed_date: 2026-05-26
 # Ryabyy_2024_Maneto
 
 ![[Ryabyy_2024_Maneto.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Ryabyy_2024_Maneto.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

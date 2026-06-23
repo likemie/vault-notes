@@ -8,3 +8,12 @@ processed_date: 2026-06-07
 # McPhail_2023_JCS
 
 ![[McPhail_2023_JCS.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/McPhail_2023_JCS.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

@@ -8,3 +8,12 @@ processed_date: 2026-06-10
 # Bogliacino_Pianta_2016_EP
 
 ![[Bogliacino_Pianta_2016_EP.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Bogliacino_Pianta_2016_EP/Bogliacino_Pianta_2016_EP.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

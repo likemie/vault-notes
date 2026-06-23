@@ -8,3 +8,12 @@ processed_date: 2026-06-01
 # Schulze-Cleven_2017_HighEduc
 
 ![[Schulze-Cleven_2017_HighEduc.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Schulze-Cleven_2017_HighEduc.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

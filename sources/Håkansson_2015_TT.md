@@ -7,3 +7,12 @@ processed_date: 2026-05-22
 # Håkansson_2015_TT
 
 ![[Håkansson_2015_TT.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/H%C3%A5kansson_2015_TT.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>

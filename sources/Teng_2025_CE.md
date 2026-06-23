@@ -8,3 +8,12 @@ processed_date: 2026-05-26
 # Teng_2025_CE
 
 ![[Teng_2025_CE.pdf]]
+
+
+
+<iframe
+  src="https://img.mylikemie.icu/sources/Teng_2025_CE.pdf"
+  width="100%"
+  height="820"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>
