@@ -11355,6 +11355,11 @@
   grid-column: 1 / -1;
 }
 
+/* 3 项 → 1+1+1（覆盖通用奇数铺满） */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(3):last-child) > li:last-child,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(3):last-child) > li:last-child {
+  grid-column: span 2;
+}
 /* 9 项 → 3+3+3（覆盖通用铺满规则） */
 .callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(9):last-child) > li,
 .callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(9):last-child) > li {
