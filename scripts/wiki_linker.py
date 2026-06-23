@@ -130,24 +130,45 @@ def unsafe_table_cell_spans(line: str) -> list[tuple[int, int]]:
     return spans
 
 
-def escape_table_wikilink_pipes(line: str) -> str:
+def escape_table_wikilink_pipes_with_count(line: str) -> tuple[str, int]:
     """Escape wikilink alias separators inside Markdown table rows."""
     if not is_markdown_table_line(line):
-        return line
+        return line, 0
+
+    escaped = 0
 
     def repl(m: re.Match[str]) -> str:
+        nonlocal escaped
         target = m.group(1)
         display = m.group(2)
         if display is None:
             return m.group(0)
-        return f"[[{target}\\|{display}]]"
+        replacement = f"[[{target}\\|{display}]]"
+        if replacement != m.group(0):
+            escaped += 1
+        return replacement
 
-    return WIKILINK_RE.sub(repl, line)
+    return WIKILINK_RE.sub(repl, line), escaped
+
+
+def escape_table_wikilink_pipes(line: str) -> str:
+    return escape_table_wikilink_pipes_with_count(line)[0]
 
 
 def escape_table_wikilink_pipes_in_text(text: str) -> str:
     """Normalize wikilink alias separators in all Markdown table rows."""
     return "".join(escape_table_wikilink_pipes(line) for line in text.splitlines(keepends=True))
+
+
+def normalize_table_wikilink_pipes_in_text(text: str) -> tuple[str, int]:
+    """Normalize wikilink alias separators in Markdown tables and count changes."""
+    out: list[str] = []
+    escaped = 0
+    for line in text.splitlines(keepends=True):
+        next_line, count = escape_table_wikilink_pipes_with_count(line)
+        out.append(next_line)
+        escaped += count
+    return "".join(out), escaped
 
 
 @dataclass(frozen=True)
@@ -180,6 +201,7 @@ class LinkStats:
     files_changed: int = 0
     links_added: int = 0
     links_removed: int = 0
+    table_pipes_escaped: int = 0
 
 
 def load_entries() -> list[Entry]:
@@ -566,7 +588,7 @@ def current_file_title(path: Path, path_to_title: dict[str, str]) -> str:
     return path_to_title.get(rel, path.stem)
 
 
-def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -> tuple[str, int, int]:
     """Clean invalid wikilinks, but leave Markdown table rows untouched.
 
     Table rows are structurally fragile: removing a display text that contains a
@@ -574,11 +596,14 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
     linking is handled separately at cell level by link_table_row().
     """
     removed = 0
+    table_pipes_escaped = 0
 
     def clean_line(line: str) -> str:
-        nonlocal removed
+        nonlocal removed, table_pipes_escaped
         if is_markdown_table_line(line):
-            return escape_table_wikilink_pipes(line)
+            next_line, count = escape_table_wikilink_pipes_with_count(line)
+            table_pipes_escaped += count
+            return next_line
 
         def repl(m: re.Match[str]) -> str:
             nonlocal removed
@@ -613,7 +638,7 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
 
         return WIKILINK_RE.sub(repl, line)
 
-    return "".join(clean_line(line) for line in text.splitlines(keepends=True)), removed
+    return "".join(clean_line(line) for line in text.splitlines(keepends=True)), removed, table_pipes_escaped
 
 
 def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
@@ -1153,14 +1178,14 @@ def sync_file(
     author_map: dict[str, str],
     dry_run: bool,
     tables_only: bool = False,
-) -> tuple[bool, int, int]:
+) -> tuple[bool, int, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
     fm, body = split_frontmatter(original)
     current_title = current_file_title(path, path_to_title)
 
     if tables_only:
         linked_fm = fm
-        linked_body = escape_table_wikilink_pipes_in_text(body)
+        linked_body, table_pipes_escaped = normalize_table_wikilink_pipes_in_text(body)
         added = 0
         removed = 0
     else:
@@ -1170,13 +1195,13 @@ def sync_file(
         added = yaml_added + body_added
         # Final guard: regardless of which chunks were protected or linked,
         # never write table rows with raw wikilink alias pipes.
-        linked_body = escape_table_wikilink_pipes_in_text(linked_body)
+        linked_body, table_pipes_escaped = normalize_table_wikilink_pipes_in_text(linked_body)
     updated = linked_fm + linked_body
 
     changed = updated != original
     if changed and not dry_run:
         path.write_text(updated, encoding="utf-8")
-    return changed, added, removed
+    return changed, added, removed, table_pipes_escaped
 
 
 def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables_only: bool) -> None:
@@ -1202,19 +1227,30 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
     stats = LinkStats()
     for path in files:
-        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, author_map, dry_run, tables_only=tables_only)
+        changed, added, removed, table_pipes_escaped = sync_file(
+            path,
+            terms,
+            source_pattern,
+            entries_by_title,
+            path_to_title,
+            author_map,
+            dry_run,
+            tables_only=tables_only,
+        )
         if changed:
             stats.files_changed += 1
             stats.links_added += added
             stats.links_removed += removed
+            stats.table_pipes_escaped += table_pipes_escaped
             action = "Would update" if dry_run else "Updated"
-            print(f"{action}: {path.relative_to(ROOT)} (+{added}, -{removed})")
+            print(f"{action}: {path.relative_to(ROOT)} (+{added}, -{removed}, table pipes {table_pipes_escaped})")
 
     print("Done.")
     print(f"Files scanned: {len(files)}")
     print(f"Files changed: {stats.files_changed}")
     print(f"Links added: {stats.links_added}")
     print(f"Links removed: {stats.links_removed}")
+    print(f"Table pipes escaped: {stats.table_pipes_escaped}")
 
 
 def build_parser() -> argparse.ArgumentParser:
