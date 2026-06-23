@@ -37,7 +37,8 @@
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +206,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Shape-Shifting.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/concepts/comparative-education/Floating Signifier.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
@@ -236,7 +238,6 @@
     "wiki/concepts/research-methodology/Metainferences.md",
     "wiki/concepts/research-methodology/Face Validity.md",
     "wiki/concepts/research-methodology/Type I and Type II Errors.md",
-    "wiki/templates/template-argument.md",
     "scripts/__pycache__/wiki_index.cpython-313.pyc",
     "scripts/__pycache__/wiki_linker.cpython-313.pyc",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",

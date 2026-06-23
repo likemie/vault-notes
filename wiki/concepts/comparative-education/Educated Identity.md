@@ -80,10 +80,10 @@ updated: 2026-06-23
 ## 核心要素
 
 > [!feature] 核心要素
-> - **理想人格与文化期望（Cultural Expectations）**：定义在特定的社会经济条件下，何为合格的“受教育者”，体现社会的主流文化与伦理共识。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 336]])
-> - **领土附着性与历史惯性（National Territoriality）**：受教育身份历史上由民族国家主权教育系统定义，与国民身份建构（如阿根廷、巴西对[[Encyclopaedism|百科全书主义]]的不同吸收）紧密交织。([[Argument_Beech_2009_CE|Beech, 2009, p. 355]])
-> - **超国家网络去历史化建构（Global Construction）**：在[[Network Society|网络社会]]中，超国家机构在[[Global Policy Space|全球政策空间]]中将受教育身份重塑为“能力发展”和“[[Lifelong Learning|终身学习]]”等抽象的、去语境化的[[Floating Signifier|漂浮能指]]，服务于后福特主义的全球劳动力需求。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–355]])
-> - **多级[[Transfer Translation Transformation|转译]]与微观[[Shape-Shifting|形变]]（Local Translation and Shape-shifting）**：抽象的全球理想身份在向国家政策和学校教室降落时，受到地方历史话语（如百科全书分科）和物质条件（如贫困）的强烈制约而发生实质性形变，甚至演变为“尊重贫困”等与原初意图相反的结果。([[Argument_Beech_2009_CE|Beech, 2009, pp. 358–361]])
+> - **理想人格与文化期望（Cultural Expectations）** 定义在特定的社会经济条件下，何为合格的“受教育者”，体现社会的主流文化与伦理共识。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 336]])
+> - **领土附着性与历史惯性（National Territoriality）** 受教育身份历史上由民族国家主权教育系统定义，与国民身份建构（如阿根廷、巴西对[[Encyclopaedism|百科全书主义]]的不同吸收）紧密交织。([[Argument_Beech_2009_CE|Beech, 2009, p. 355]])
+> - **超国家网络去历史化建构（Global Construction）** 在[[Network Society|网络社会]]中，超国家机构在[[Global Policy Space|全球政策空间]]中将受教育身份重塑为“能力发展”和“[[Lifelong Learning|终身学习]]”等抽象的、去语境化的[[Floating Signifier|漂浮能指]]，服务于后福特主义的全球劳动力需求。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–355]])
+> - **多级[[Transfer Translation Transformation|转译]]与微观[[Shape-Shifting|形变]]（Local Translation and Shape-shifting）** 抽象的全球理想身份在向国家政策和学校教室降落时，受到地方历史话语（如百科全书分科）和物质条件（如贫困）的强烈制约而发生实质性形变，甚至演变为“尊重贫困”等与原初意图相反的结果。([[Argument_Beech_2009_CE|Beech, 2009, pp. 358–361]])
 
 ---
 
