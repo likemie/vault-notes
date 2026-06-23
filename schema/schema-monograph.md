@@ -118,6 +118,8 @@ EPUB source record 使用已配置的 epub.js 阅读器容器；本地 viewer �
 <div id="epub-viewer-online" style="width:100%;height:600px;border:1px solid rgb(204,204,204);" data-epub="https://img.mylikemie.icu/books/<book-folder>/<book-folder>.epub"></div>
 ```
 
+在线 EPUB viewer 需要 NAS/CDN 对 `.epub` 返回 `Access-Control-Allow-Origin: *`（或至少允许站点域名）；否则浏览器会因 CORS 拦截，页面只能提供打开/下载链接，不能内嵌阅读。
+
 ---
 
 ## 整合全书 Argument

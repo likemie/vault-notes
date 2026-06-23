@@ -353,6 +353,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
 - `sources/**/*.pdf`、`books/**/*.pdf`、`books/**/*.epub` 是本地阅读副本；它们应由 `.gitignore` 排除，并同步到 NAS 后由 source record 中的 `https://img.mylikemie.icu/...` 地址发布。
+- 在线 EPUB 阅读器使用 `epub.js` 从 NAS 拉取 `.epub`；NAS/CDN 必须对 `.epub` 返回 `Access-Control-Allow-Origin: *`（或至少允许站点域名），否则浏览器会因 CORS 拦截而无法内嵌显示。PDF iframe 不需要这个头。
 - 普通论文或报告先确定最终 `<论文命名>`，Argument 的 `## 来源` 可先写 `[[<论文命名>]]`；source record 在 Argument 页写好后用 `source_record.py article` 或 `source_record.py report` 生成。
 - 普通论文或报告处理完成并写好 Argument 页后，再用 `source_record.py finalize --rename` 回填 citation。
 - 若普通论文或报告有 figure 或无法读取的 table，使用 `source_record.py finalize --rename --with-figures`，并按「Figure 和 Table 处理」写图片占位；可读 table 必须复刻为 Markdown 表格。

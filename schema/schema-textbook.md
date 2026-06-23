@@ -106,6 +106,8 @@ books/<book-folder>/<book-folder>.<ext>
 
 PDF / EPUB 是本地阅读副本，保留在 `books/<book-folder>/`，但不进入 git；同一路径的文件需要同步到 NAS，并按 `https://img.mylikemie.icu/books/<book-folder>/<文件名>` 发布。`source_record.py` 会同时生成本地阅读入口和 NAS 在线阅读入口。
 
+在线 EPUB viewer 需要 NAS/CDN 对 `.epub` 返回 `Access-Control-Allow-Origin: *`（或至少允许站点域名）；否则浏览器会因 CORS 拦截，页面只能提供打开/下载链接，不能内嵌阅读。
+
 PDF：
 
 ```bash
