@@ -9,7 +9,7 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Leading Questions]]"
   - "[[Interviewer Effects]]"
   - "[[Hawthorne Effect]]"
 related_methods:
@@ -113,7 +114,7 @@ updated: 2026-06-23
 > [!dimension] 访谈回应偏差的主要形式
 > - **回应性偏差**（acquiescence）
 >   受访者倾向于说"是"而不管问题内容或自身真实感受（Breakwell, 2000: 254）。这是访谈和态度量表中最常见也最难检测的回应偏差之一——特别是在存在权力不对称的访谈情境中尤为突出。
-> - **诱导性问题的影响**
+> - **[[Leading Questions|诱导性问题]]的影响**
 >   对受访者做出假设或"把话放进受访者嘴里"——问题影响了回答，有时不合法的。例如"你什么时候停止向校长投诉了？"假设受访者曾经是频繁投诉者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 209–210)]]
 > - **[[Interviewer Effects|访谈者效应]]**
 >   访谈者的特征（种族、宗教、性别、性取向、地位、社会阶层、年龄）系统性地影响受访者回答。Hitchcock & Hughes (1989) 认为访谈是人际互动——研究者必然影响受访者，进而影响数据。Fielding & Fielding (1986: 12) 评论说"即使最复杂的调查——也只是操控那些曾经不得不通过询问人们而获得的数据"（pp.208–209）。

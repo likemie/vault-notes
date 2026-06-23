@@ -7,10 +7,10 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/western
 - field/educational-philosophy
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Mind-Oriented Learning Process]]"
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
+  - "[[Halo Effect]]"
   - "[[Refined Mastery]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
@@ -165,7 +166,7 @@ updated: 2026-05-24
 
 第 8 章大幅深化了自我表达的文化根基，追溯了西方重视说话的四大传统([[Argument_Li_2012_Cambridge|Li, 2012, pp.77-86]])：
 
-**说话作为个人品质**（pp.77-79）。说话是自我的表达——语言流利标志着一个人的智力、认知才华和独特性。但研究揭示了光环效应：语言流利者被普遍认为更聪明、更有创造力，然而客观测量并未显示两组人有实际智力差异。更关键的是，"那些安静、害羞、不善表达的人自己也承认这一看法——他们不如那些善于表达、健谈、口齿伶俐的人聪明"([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。此外，在西方，说话也是确立对想法"作者权/所有权"的行为——在会议或课堂中，主持人/教师倾向于说"A 提出了 X 的改变，但 B 不同意 A"，明确点名和归属([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。
+**说话作为个人品质**（pp.77-79）。说话是自我的表达——语言流利标志着一个人的智力、认知才华和独特性。但研究揭示了[[Halo Effect|光环效应]]：语言流利者被普遍认为更聪明、更有创造力，然而客观测量并未显示两组人有实际智力差异。更关键的是，"那些安静、害羞、不善表达的人自己也承认这一看法——他们不如那些善于表达、健谈、口齿伶俐的人聪明"([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。此外，在西方，说话也是确立对想法"作者权/所有权"的行为——在会议或课堂中，主持人/教师倾向于说"A 提出了 X 的改变，但 B 不同意 A"，明确点名和归属([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。
 
 **说话作为权利**（pp.79-81）。Li 从希腊陪审团审判制度追溯——雅典娜创设了要求双方实时口头辩论的程序。与中国包公审案以行动替代言语辩论形成鲜明对比：包公"甚至可能没有向在场的任何人解释他的推理"——但雅典审判"没有双方的口头往来、陈述、反驳和结论，不可能进行"([[Argument_Li_2012_Cambridge|Li, 2012, pp.80-81]])。这一制度直接演变为当今西方司法制度和宪法保障的言论自由——"说话已经成为西方民主和日常工作的不可分割的一部分"([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])。
 

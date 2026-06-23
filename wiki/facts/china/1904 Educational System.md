@@ -11,9 +11,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: Imperial Qing Government
 tags:
@@ -21,7 +21,8 @@ tags:
   - theme/educational-reform
   - theme/curriculum
   - period/late-qing
-related_concepts: []
+related_concepts:
+  - "[[Bildung]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -44,7 +45,7 @@ updated: 2026-05-26
 ## 背景
 
 > [!info]
-> 19 世纪末至 20 世纪初，清政府（1644–1911）面临内外压力，致力于全面制度改革。此前以[[Civil Service Examination|科举]]为核心的古典教育体系以培养官僚和教化民众为宗旨，服务于维持皇权秩序；至 1904 年，清政府决心建立现代国家教育体系，以培养合格国民、实现国家富强、抵御外侮并追赶西方国家([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.612–613]])。
+> 19 世纪末至 20 世纪初，清政府（1644–1911）面临内外压力，致力于全面制度改革。此前以[[Civil Service Examination|科举]]为核心的古典教育体系以培养官僚和[[Bildung|教化]]民众为宗旨，服务于维持皇权秩序；至 1904 年，清政府决心建立现代国家教育体系，以培养合格国民、实现国家富强、抵御外侮并追赶西方国家([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.612–613]])。
 
 ---
 
@@ -71,7 +72,7 @@ updated: 2026-05-26
 ## 实施情况
 
 > [!example]
-> - **教育目的转变**：与以古典学习为核心、旨在培养官僚和教化民众的传统教育体系不同，1904 年学制的目标是培养合格的（学科）公民、实现国家富强、抵御外国侵略并追赶西方国家([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.612–613]])。
+> - **教育目的转变**：与以古典学习为核心、旨在培养官僚和[[Bildung|教化]]民众的传统教育体系不同，1904 年学制的目标是培养合格的（学科）公民、实现国家富强、抵御外国侵略并追赶西方国家([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.612–613]])。
 > - **课程双轨特征**：新学制既引入了现代科学科目（阅读、写作、算术、科学），又保留了儒家经典——体现了清末改革"中体西用"的过渡性质([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.612]])。
 
 ---

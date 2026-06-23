@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - theme/ideology
 related_concepts:
   - "[[Academic Freedom]]"
+  - "[[Bildung]]"
   - "[[Sinicisation]]"
   - "[[Official Knowledge]]"
 related_theories: []
@@ -58,7 +59,7 @@ updated: 2026-05-21
 
 > [!abstract]
 > 中共在利用儒家传统时采取了如下策略：
-> - **去宗教化定位**：将儒学定位为文化和伦理传统，避免与其无神论官方意识形态冲突([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.63]])。
+> - **去宗[[Bildung|教化]]定位**：将儒学定位为文化和伦理传统，避免与其无神论官方意识形态冲突([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.63]])。
 > - **意识形态收编**：将儒家智慧纳入主流意识形态，为中共治理模式提供文化合法性（Kubat 2018，引自 Yu & Zhao, 2024, p.63）。
 > - **选择性过滤**：官方话语中对儒家或[[Confucius|孔子]]的引用经过精心筛选，以避免对其社会主义-共产主义统治构成任何潜在的意识形态挑战（Yu 2008，引自 Yu & Zhao, 2024, p.59–60）。
 
@@ -67,7 +68,7 @@ updated: 2026-05-21
 > [!success]
 > - 儒家传统被学校课程呈现为中华文化的核心乃至等价物，强化了汉文化主导地位以及对非汉少数民族的文化等级([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67]])。
 > - 儒家传统的官方解释成为一种垄断性强势话语，强化了不同文化群体之间的地位差异([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])。
-> - 在新疆等地区，儒家教化被强制纳入对维吾尔被拘留者的"改造"内容（Finley 2019，引自 Yu & Zhao, 2024, p.64）。
+> - 在新疆等地区，儒家[[Bildung|教化]]被强制纳入对维吾尔被拘留者的"改造"内容（Finley 2019，引自 Yu & Zhao, 2024, p.64）。
 > - 从少数民族和宗教群体学生的视角看，儒家传统被视为中国文化中的一种——而非唯一的文化和世界观，跨文化批判性反思对促进其发展有益([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.59]])。
 
 ## 争议与评论

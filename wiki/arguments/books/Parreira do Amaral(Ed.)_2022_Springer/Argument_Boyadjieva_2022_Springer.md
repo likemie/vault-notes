@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Halo Effect]]"
   - "[[Reliability]]"
   - "[[Performance Indicators]]"
   - "[[Value Neutrality]]"
@@ -233,7 +234,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 
 两个互相关联的问题(pp.134–135)：
 
-> **光环效应（halo effect）**：THE 和 QS 两大排名都使用"声誉调查"——请学者们对大学打分。问题是，"声誉调查通常再生产已经建立的声望，无论实际成就如何"(p.135)。一个学者对一所大学打高分，很可能只是因为"它一直很有名"——而不是因为他仔细研究了这所大学最近五年的表现变化。
+> **[[Halo Effect|光环效应]]（halo effect）**：THE 和 QS 两大排名都使用"声誉调查"——请学者们对大学打分。问题是，"声誉调查通常再生产已经建立的声望，无论实际成就如何"(p.135)。一个学者对一所大学打高分，很可能只是因为"它一直很有名"——而不是因为他仔细研究了这所大学最近五年的表现变化。
 >
 > **不奖励增值**：排名不衡量"进步了多少"——它只看"现在在哪里"。对于大多数中东欧国家的高校来说，它们从很低的历史起点出发，即使取得了显著的发展，也很难在排名上进入前列。排名不区分"一所已经富裕了一百年的大学"和"一所努力追赶了二十年的大学"——它们被放在同一个起跑线上比较，而这个"起跑线"本身就是不平等的历史积累(p.135)。
 >

@@ -104,7 +104,7 @@ updated: 2026-06-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[What Works Movement]] | AERO 自我定位为此全球循证运动的澳大利亚执行分支。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
-> | [[BHP Foundation]] | 资助 EEF 全球扩张项目并间接促成 AERO 等“EEF 模式机构”建立的跨国基金会。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[BHP Foundation]] | 资助 [[Education Endowment Foundation\|EEF]] 全球扩张项目并间接促成 AERO 等“EEF 模式机构”建立的跨国基金会。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Centre for Evidence and Implementation]] | 受 AERO 委托起草循证实践桌面审查报告的全球证据中介机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Strong Beginnings Report]] | AERO CEO Donovan 作为专家小组成员直接参与起草的联邦改革文本。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[Australian Institute for Teaching and School Leadership]] | AERO 开发的核心内容需要呈送给 AITSL 并落实到具体的认证规程中。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |

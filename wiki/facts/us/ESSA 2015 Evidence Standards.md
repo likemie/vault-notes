@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Logic Model]]"
   - "[[Operationalization]]"
+  - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Learning Analytics]]"
   - "[[Preregistration]]"
@@ -75,7 +76,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > Evidence for ESSA (2019) 和 [[What Works Clearinghouse]] (2019) 对 ESSA 标准的[[Operationalization|操作化]]解释：
 >
 > - **测量工具**：必须独立于项目开发者或研究者
-> - **样本量和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
+> - **[[Sample Size Determination|样本量]]和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
 > - **聚类分析**：对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
 > - **前测匹配**：准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计[[Variable|变量]]上前测匹配
 
@@ -96,7 +97,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 
 > [!info] ESSA 的"严格与宽松"
 > [[Argument_Slavin_2019_EP|Slavin (2019)]] 指出 ESSA 标准兼具严格性和宽松性：
-> - **严格**：强和中两级要求[[Random Assignment|随机分配]]或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分样本量和持续时间、适当分析
+> - **严格**：强和中两级要求[[Random Assignment|随机分配]]或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分[[Sample Size Determination|样本量]]和持续时间、适当分析
 > - **宽松**：项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
 
 ## 历史意义

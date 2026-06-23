@@ -9,7 +9,7 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Internal Consistency]]"
   - "[[Reflexivity]]"
+  - "[[Halo Effect]]"
   - "[[Literature Review]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
@@ -115,7 +116,7 @@ Kleven (1995) 在[[Observational and Correlational Research|观察研究]]中提
 > - **评分者间差异** 不同评分者对相同或相似作品给出不同分数——这是最直接的形式
 > - **评分者内部不一致** 同一评分者在批阅大量试卷时，早期阶段严格、后期阶段宽松
 > - **分数边界附近评级变化** 一些评分者将接近等级边界的分数放入比另一些评分者更高或更低的类别
-> - **光环效应**（halo effect） 在某一评估中被判为好的学生在其他领域被给予不应得的有利评估——反之亦然
+> - **[[Halo Effect|光环效应]]**（halo effect） 在某一评估中被判为好的学生在其他领域被给予不应得的有利评估——反之亦然
 > - **评分错误** 标记、加总、转移分数时的机械错误
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 222–223)]]

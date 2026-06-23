@@ -8,7 +8,7 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性和可复制性，是效度的必要非充分条件，在量化研究中分为稳定性、等值性和内部一致性三种形式，在质性研究中转化为可依赖性、可信赖性和可确认性"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Statistical Significance]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Trustworthiness]]"
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
   - "[[Ecological Validity]]"
@@ -108,7 +109,7 @@ updated: 2026-06-23
 
 ### 质性信度：可依赖性与可信赖性
 
-[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、可信赖性和可迁移性**来替代"信度"——尤其是**可依赖性**（dependability）概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
+[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性**（dependability）概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
 > - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生**（[[Ecological Validity|生态效度]]）。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。

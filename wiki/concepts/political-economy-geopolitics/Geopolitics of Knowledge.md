@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 69
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Spatial Sortings]]"
   - "[[Global Universities Rankings]]"
+  - "[[Halo Effect]]"
   - "[[Economic Patriotism]]"
   - "[[Research Problem]]"
   - "[[Innovation Hub]]"
@@ -66,6 +67,7 @@ related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
+  - "[[Snowball Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
 related_persons:
@@ -135,7 +137,7 @@ updated: 2026-05-20
 > [!timeline] 概念演变
 > - **1980s–1990s** 人文地理学空间转向：[[Doreen Massey]]、Harvey 等人将空间理解从领土性转向关系性；拉丁美洲去殖民思想兴起（Mignolo, Dussel），形成[[Critical Geopolitics|批判地缘政治学]]与去殖民传统两条平行脉络
 > - **1990s** "geopolitics of knowledge"话语出现（Partaken 的 Ngram 分析）；两条脉络分别追问：谁建构地缘政治秩序（批判地缘政治学）vs 谁的知识被认定为知识（去殖民传统）
-> - **2000s–2010s** GPK 话语快速强化；空间转向深化，地缘政治分析从领土性转向关系性、网络化视角（Thompson & Parreira do Amaral, 2022, p.10）
+> - **2000s–2010s** GPK 话语快速强化；空间转向深化，地缘政治分析从领土性转向关系性、[[Snowball Sampling|网络化]]视角（Thompson & Parreira do Amaral, 2022, p.10）
 > - **2010s** 知识明显超越能源、石油等自然资源，成为"geopolitics of"语境中书写最密集的主题（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
 > - **2018** [[Sami Moisio]] 提出[[Knowledge-Based Economization|知识经济化]]概念，整合 Harvey 的[[Fixity-Motion Tension|固着-流动张力]]与 Porter 的[[National Competitive Advantage|国家竞争优势]]，将批判地缘政治学与全球经济过程相链接
 > - **2022a** [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两条脉络综合为"新知识地缘政治"[[Analytic Framework|分析框架]]，以 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合为[[Epistemology|认识论]]治理的典型案例
@@ -254,7 +256,7 @@ updated: 2026-05-20
 > [!finding-cards]
 > 1. 知识话语自 2010 年起超越能源、石油等自然资源，成为地缘政治讨论最密集的主题（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
 > 2. 国际化主导理性已从发展主义转向市场理性（收入创造、全球排名），高等教育被视为出口产业（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]]）
-> 3. [[Global Universities Rankings|全球大学排名]]是 GPK 的核心运作机制，通过"光环效应"固化[[Knowledge Production|知识生产]]不平等等级秩序（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–138]]）
+> 3. [[Global Universities Rankings|全球大学排名]]是 GPK 的核心运作机制，通过"[[Halo Effect|光环效应]]"固化[[Knowledge Production|知识生产]]不平等等级秩序（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132–138]]）
 > 4. GPK 呈现两个历史阶段：1990–2015 美国主导霸权式全球化；2015 至今西方部分去全球化与中美脱钩（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.15–32]]）
 
 ---

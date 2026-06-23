@@ -10,9 +10,9 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
 - region/china
@@ -21,6 +21,7 @@ tags:
 - geopolitics-of-knowledge
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Analytic Framework]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Axiology]]"
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> - Partaken 借用 Foucault《规训与惩罚》（1995）中 Bentham 全景敞视监狱（Panopticon）的[[Analytic Framework|分析框架]]：监视的"最大效果"在于被监视者处于"有意识和永久性的可见状态，确保权力自动运行"——监视在其效果上是永久性的，即使其行动是间断的([[Argument_Partaken_2022_Springer|Partaken, 2022, p.81]])
+> - Partaken 借用 Foucault《[[Disciplina and Doctrina|规训]]与惩罚》（1995）中 Bentham 全景敞视监狱（Panopticon）的[[Analytic Framework|分析框架]]：监视的"最大效果"在于被监视者处于"有意识和永久性的可见状态，确保权力自动运行"——监视在其效果上是永久性的，即使其行动是间断的([[Argument_Partaken_2022_Springer|Partaken, 2022, p.81]])
 > - "国家支持的大规模监视对普通人造成的最严重损害，是以安全为名——且不乏悖论地以自由为名——对一个精英治理文明的[[Virtue-Oriented Learning Process|美德导向]][[Axiology|价值论]]的贬低"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.81]])
 
 ## 争议与评论

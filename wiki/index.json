@@ -4299,6 +4299,28 @@
     ]
   },
   {
+    "title": "Audit Trail",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Audit Trail.md",
+    "aliases": [
+      "审计追踪",
+      "审计轨迹",
+      "audit trails",
+      "审查追踪"
+    ]
+  },
+  {
+    "title": "Back Translation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Back Translation.md",
+    "aliases": [
+      "回译",
+      "反向翻译",
+      "back-translation",
+      "回译法"
+    ]
+  },
+  {
     "title": "Backyard Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Backyard Research.md",
@@ -4778,6 +4800,17 @@
     ]
   },
   {
+    "title": "Ecological Fallacy",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Ecological Fallacy.md",
+    "aliases": [
+      "生态谬误",
+      "生态学谬误",
+      "区群谬误",
+      "ecological inference fallacy"
+    ]
+  },
+  {
     "title": "Ecological Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Ecological Validity.md",
@@ -5025,6 +5058,16 @@
     ]
   },
   {
+    "title": "Halo Effect",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Halo Effect.md",
+    "aliases": [
+      "光环效应",
+      "晕轮效应",
+      "halo error"
+    ]
+  },
+  {
     "title": "Hawthorne Effect",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hawthorne Effect.md",
@@ -5242,6 +5285,28 @@
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",
     "aliases": [
       "有根据的担保断言"
+    ]
+  },
+  {
+    "title": "Kitwood's Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Kitwood's Paradox.md",
+    "aliases": [
+      "Kitwood 矛盾",
+      "Kitwood 悖论",
+      "信度效度权衡",
+      "reliability-validity tradeoff in interviews"
+    ]
+  },
+  {
+    "title": "Leading Questions",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Leading Questions.md",
+    "aliases": [
+      "诱导性问题",
+      "引导性问题",
+      "leading question",
+      "暗示性问题"
     ]
   },
   {
@@ -6209,6 +6274,16 @@
       "转化主义",
       "transformative worldview",
       "transformative paradigm"
+    ]
+  },
+  {
+    "title": "Trustworthiness",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Trustworthiness.md",
+    "aliases": [
+      "可信赖性",
+      "可信性（总称）",
+      "trustworthiness in qualitative research"
     ]
   },
   {

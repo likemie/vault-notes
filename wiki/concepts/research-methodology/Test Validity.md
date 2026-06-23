@@ -8,10 +8,10 @@ aliases:
 summary: "确保教育测验和评估工具有效性的多重效度类型体系，涵盖内容效度、效标关联效度、构念效度、共时效度、表面效度、陪审团效度、预测效度、后果效度和系统效度九种类型"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity
@@ -72,14 +72,14 @@ updated: 2026-06-23
 > [!ref-table] 测验效度类型与通用效度类型对照
 > | 测验效度 | 通用效度类型 | 在测验情境中的特殊关注点 |
 > |---|---|---|
-> | 内容效度 | [[Content Validity]] | Wolf (1994) 三维度：测试覆盖、测试相关性、项目覆盖 |
-> | 效标关联效度 | [[Criterion-related Validity]] | 效标四标准：相关、无偏、可靠、可测量 |
-> | 构念效度 | [[Construct Validity]] | Loevinger 女王；两大威胁：不足呈现、包含无关因素 |
-> | 共时效度 | [[Concurrent Validity]] | 无时间维度，与另一工具同时验证 |
-> | 表面效度 | [[Face Validity]] | 最低层次——测试看起来在测量正确的东西 |
-> | 陪审团效度 | — | 测验文献特有：就不可观测构念的操作化达成学术共识 |
-> | 预测效度 | [[Predictive Validity]] | 有时间间隔——测试分数预测未来表现 |
-> | 后果效度 | [[Consequential Validity]] | 测试推断和使用的合理性 |
+> | [[Content Validity\|内容效度]] | [[Content Validity]] | Wolf (1994) 三维度：测试覆盖、测试相关性、项目覆盖 |
+> | [[Criterion-related Validity\|效标关联效度]] | [[Criterion-related Validity]] | 效标四标准：相关、无偏、可靠、可测量 |
+> | [[Construct Validity\|构念效度]] | [[Construct Validity]] | Loevinger 女王；两大威胁：不足呈现、包含无关因素 |
+> | [[Concurrent Validity\|共时效度]] | [[Concurrent Validity]] | 无时间维度，与另一工具同时验证 |
+> | [[Face Validity\|表面效度]] | [[Face Validity]] | 最低层次——测试看起来在测量正确的东西 |
+> | 陪审团效度 | — | 测验文献特有：就不可观测[[Construct\|构念]]的[[Operationalization\|操作化]]达成学术共识 |
+> | [[Predictive Validity\|预测效度]] | [[Predictive Validity]] | 有时间间隔——测试分数预测未来表现 |
+> | [[Consequential Validity\|后果效度]] | [[Consequential Validity]] | 测试推断和使用的合理性 |
 > | 系统效度 | — | 测验文献特有：测试活动本身增强构念表现 |
 
 ---

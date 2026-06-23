@@ -12,9 +12,9 @@ subtype: event
 region: "US"
 fact_region: "US"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - "region/us"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[University-Industry Co-location]]"
   - "[[Innovation Park]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[TUFF]]"
@@ -49,7 +50,7 @@ updated: 2026-05-29
 > 肯德尔广场（Kendall Square）是位于马萨诸塞州剑桥市、麻省理工学院（MIT）周边的区域，历史上曾是工业制造区，20 世纪后期逐渐转型为全球密度最高的科技创新聚集地之一。其转型受益于 MIT 的研究溢出效应、剑桥市的分区政策调整，以及马萨诸塞州对生物技术和信息技术产业的持续投资([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.128]])。
 
 > [!info]
-> 肯德尔广场的[[University-Industry Collaboration|产学合作]]模式建立在"意向性网络建设"（intentional networking）理念之上——即通过物理空间的设计和社区活动的组织，让创业者、学者和产业人士在同一个空间中自然碰撞，而非依赖偶然的社交互动。这一理念与 [[TUFF]] "密度就是命运"（density is destiny）的信条一脉相承（p.128）。
+> 肯德尔广场的[[University-Industry Collaboration|产学合作]]模式建立在"意向性网络建设"（intentional [[Snowball Sampling|networking]]）理念之上——即通过物理空间的设计和社区活动的组织，让创业者、学者和产业人士在同一个空间中自然碰撞，而非依赖偶然的社交互动。这一理念与 [[TUFF]] "密度就是命运"（density is destiny）的信条一脉相承（p.128）。
 
 ---
 

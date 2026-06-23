@@ -8,7 +8,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,7 +29,9 @@ related_theories:
   - "[[Pragmatic Constructivism]]"
   - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
+  - "[[George Herbert Mead]]"
 related_facts:
   - "[[Finnish National Core Curriculum]]"
 related_arguments:
@@ -103,6 +105,6 @@ updated: '2026-06-22'
 > |:-----|:-----|:-----|
 > | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法实践。 |
 > | [[Finnish National Core Curriculum]] | Fact | 芬兰 2014 年国家核心课程是 SveaSus 推广 PhBL 的政策制度背景。 |
-> | [[Pragmatic Constructivism]] | Theory | 劳斯特-von Wright 整合杜威与米德提出的“课程自我修正模型”，构成了 SveaSus 教学法的理论基础。 |
+> | [[Pragmatic Constructivism]] | Theory | 劳斯特-von Wright 整合[[John Dewey\|杜威]]与[[George Herbert Mead\|米德]]提出的“课程自我修正模型”，构成了 SveaSus 教学法的理论基础。 |
 > | [[Disciplina and Doctrina]] | Concept | SveaSus 强调的动态协作和开放探究是对 `doctrina` 维度的坚守，抵御了技能原子化的 `disciplina` 倾向。 |
-> | [[Phenomenology]] | Theory | 项目倡导的具身学习、真实场域和主体间性具有深刻的现象学体验根源。 |
+> | [[Phenomenology]] | Theory | 项目倡导的具身学习、真实[[Champ\|场域]]和主体间性具有深刻的现象学体验根源。 |

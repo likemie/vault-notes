@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 166
+argument_related_count: 167
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -125,6 +125,7 @@ related_concepts:
   - "[[Multimethod Research]]"
   - "[[Data Transformation]]"
   - "[[Outcomes-based Education]]"
+  - "[[Back Translation]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Theory]]"
@@ -1700,7 +1701,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 ##### Example 10.3 — 探索性序列 + 复杂实验嵌入：Betancourt et al. (2011)
 
-四项实例中最复杂的一项，在卢旺达为 HIV 影响儿童开发和评价文化适切的家庭强化干预。**第一质性阶段**提取本地化心理健康指标；**第二工具开发阶段**通过文献回顾和严格心理测量学程序（翻译与回译、信效度检验）形成测量工具（家庭沟通、良好养育等）；**第三实验阶段**以前后测干预检验工具和方案效果。研究横跨美国与卢旺达，体现了复杂设计对团队规模和跨机构协调的高要求。
+四项实例中最复杂的一项，在卢旺达为 HIV 影响儿童开发和评价文化适切的家庭强化干预。**第一质性阶段**提取本地化心理健康指标；**第二工具开发阶段**通过文献回顾和严格心理测量学程序（翻译与[[Back Translation|回译]]、信效度检验）形成测量工具（家庭沟通、良好养育等）；**第三实验阶段**以前后测干预检验工具和方案效果。研究横跨美国与卢旺达，体现了复杂设计对团队规模和跨机构协调的高要求。
 
 > [!quote]
 > "We aimed to (1) carefully unpack locally-relevant indicators...; (2) apply qualitative findings to the adaptation of mental health measures...; (3) validate the selected mental health measures; and (4) apply the measures to rigorous evaluation research."(p.34)

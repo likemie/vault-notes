@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 93
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 101
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Internal Validity]]"
+  - "[[Audit Trail]]"
   - "[[Negative Case Analysis]]"
   - "[[Descriptive Validity]]"
   - "[[Interpretive Validity]]"
@@ -73,9 +74,11 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Literature Search]]"
   - "[[Cross-cultural Validity]]"
+  - "[[Ecological Fallacy]]"
   - "[[Scale of Measurement]]"
   - "[[Cultural Validity]]"
   - "[[Response Bias]]"
+  - "[[Back Translation]]"
   - "[[Internal Consistency]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
@@ -85,15 +88,19 @@ related_concepts:
   - "[[Data Transformation]]"
   - "[[Axiology]]"
   - "[[Incommensurability]]"
+  - "[[Leading Questions]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Halo Effect]]"
   - "[[Test-Retest Reliability]]"
   - "[[Statistical Significance]]"
+  - "[[Trustworthiness]]"
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
   - "[[Fitness for Purpose]]"
   - "[[Face Validity]]"
   - "[[Interviewer Effects]]"
+  - "[[Kitwood's Paradox]]"
   - "[[Selectivity]]"
   - "[[Familiarization]]"
   - "[[Purpose Statement]]"
@@ -234,7 +241,7 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 > | 可确认性 | confirmability | 客观性（objectivity） | 研究发现由数据和参与者建构而来，而非研究者偏见 |
 
 > [!tip]- 在这四项标准内达成严谨性的具体策略
-> - **审计追踪（audit trails）** 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
+> - **[[Audit Trail|审计追踪]]（audit trails）** 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
 > - **成员核查（member checking / respondent validation）** 在[[Coding in Qualitative Research|编码]]或分类时让参与者确认、修正或补充
 > - **同伴汇报（[[Peer Debriefing]]）** 将研究暴露于无利害关系的同行面前进行交叉审问式检验
 > - **[[Negative Case Analysis|负面案例分析]]（negative case analysis）** 系统检验不符合已有假设的案例以修正和完善理论
@@ -635,7 +642,7 @@ Matsumoto & Yoo (2006) 识别了跨文化研究的四个阶段（pp.179–180）
 >
 >   识别文化的重要维度并在不同文化间检验其适用性、普遍性、广度和强度。Hofstede (1980) 的著名维度——个体主义-集体主义（individualism-collectivism）、权力距离（power-distance）、不确定性规避（uncertainty avoidance）、男性气质-女性气质（masculinity-femininity）以及后来的长期-短期取向（Hofstede & Bond, 1984）——是此阶段的代表。
 >
->   但此阶段受到批评（Matsumoto & Yoo, 2006）：（a）将**国家等同于文化**；（b）将个体行为等同于群体行为（生态谬误）；（c）假设一种文化内只有单一或主要文化（忽略了国家内部的差异）；（d）将差异归因于文化来源而非其他因素（如经济因素、心理因素）。
+>   但此阶段受到批评（Matsumoto & Yoo, 2006）：（a）将**国家等同于文化**；（b）将个体行为等同于群体行为（[[Ecological Fallacy|生态谬误]]）；（c）假设一种文化内只有单一或主要文化（忽略了国家内部的差异）；（d）将差异归因于文化来源而非其他因素（如经济因素、心理因素）。
 >
 > - **第三阶段：文化理论模型**
 >
@@ -680,7 +687,7 @@ Matsumoto & Yoo (2006) 识别了跨文化研究的四个阶段（pp.179–180）
 
 ##### 跨文化效度的保障技术
 
-**1. 回译（Back translation）**
+**1. [[Back Translation|回译]]（Back translation）**
 
 回译是跨文化研究中验证翻译工具效度的标准技术（Brislin, 1970; Vallerand et al., 1992; Banville et al., 2000; Cardinal et al., 2003）（pp.183–184）：
 
@@ -867,7 +874,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 > | 措施 | 说明 |
 > |---|---|
 > | **选择适当的工具** | 选择适合收集所需数据类型的工具 |
-> | **设计和采用适当工具** | 捕获准确、代表、相关和全面的数据（King et al., 1987）；确保可读性水平适当；避免指令、术语和问题的任何歧义；使用能捕获问题复杂性的工具；避免诱导性问题；确保测试水平适当；避免几乎没有区分度的测试项目；避免工具过短或过长；避免每个问题的项目过多或过少 |
+> | **设计和采用适当工具** | 捕获准确、代表、相关和全面的数据（King et al., 1987）；确保可读性水平适当；避免指令、术语和问题的任何歧义；使用能捕获问题复杂性的工具；避免[[Leading Questions\|诱导性问题]]；确保测试水平适当；避免几乎没有区分度的测试项目；避免工具过短或过长；避免每个问题的项目过多或过少 |
 > | **使用适当样本** | 具有代表性、不过小也不过大 |
 
 > [!ref-table] 设计阶段：效度与信度
@@ -912,7 +919,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 > |---|---|
 > | **使用参与者验证** | 让被研究者确认、修正或补充研究者的解释 |
 > | **避免数据的主观解释** | 例如评分时过于慷慨或过于吝啬，缺乏标准化和评分调节 |
-> | **减少光环效应** | 研究者对人或情境的了解对后续判断产生的影响 |
+> | **减少[[Halo Effect\|光环效应]]** | 研究者对人或情境的了解对后续判断产生的影响 |
 
 > [!ref-table] 分析阶段：统计处理
 > | 措施 | 说明 |
@@ -1039,7 +1046,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 
 ### 10.10 质性研究中的信度
 
-质性研究中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用可信性、中立性、可确认性、可依赖性、一致性、适用性、可信赖性和可迁移性来替代"信度"——尤其是**可依赖性**（dependability）概念（pp.204–207）。
+质性研究中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性来替代"信度"——尤其是**可依赖性**（dependability）概念（pp.204–207）。
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
 > - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究。量化[[Hypothesis|研究假设]]**可复制性**的可能——如果对同一样本使用相同方法则结果应相同。但这**扭曲了现象的自然发生（生态效度）**。自然主义研究的**前提**恰恰包括情境的**独特性和特殊性**——研究不能被复制。这**正是其优势**而非劣势。
@@ -1176,7 +1183,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 
 ---
 
-##### Kitwood 矛盾：信度与效度的不可兼得
+##### [[Kitwood's Paradox|Kitwood 矛盾]]：信度与效度的不可兼得
 
 Kitwood (1977) 指出了访谈研究中一个根本的矛盾（p.213）：
 
