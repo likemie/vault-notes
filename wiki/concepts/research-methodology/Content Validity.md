@@ -22,7 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Internal Consistency]]"
   - "[[Consequential Validity]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -79,7 +79,7 @@ updated: 2026-06-23
 ## 围绕概念形成的命题
 
 > [!claim] 内容效度是效度链条的首个环节
-> 在测验和工具开发中，内容效度是最先需要解决的效度类型。如果工具没有适当覆盖内容领域，即使其[[Internal Consistency and Cronbach's Alpha|内部一致性]]再高、与外部效标的相关再强，它也只是在**可靠地测量错误的内容**。内容效度的不足会使所有其他效度类型（[[Construct Validity|构念效度]]、[[Criterion-related Validity|效标关联效度]]、[[Consequential Validity|后果效度]]等）的论证基础动摇。
+> 在测验和工具开发中，内容效度是最先需要解决的效度类型。如果工具没有适当覆盖内容领域，即使其[[Internal Consistency|内部一致性]]再高、与外部效标的相关再强，它也只是在**可靠地测量错误的内容**。内容效度的不足会使所有其他效度类型（[[Construct Validity|构念效度]]、[[Criterion-related Validity|效标关联效度]]、[[Consequential Validity|后果效度]]等）的论证基础动摇。
 
 ---
 

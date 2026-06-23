@@ -5162,16 +5162,14 @@
     ]
   },
   {
-    "title": "Internal Consistency and Cronbach's Alpha",
+    "title": "Internal Consistency",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md",
+    "path": "wiki/concepts/research-methodology/Internal Consistency.md",
     "aliases": [
       "内部一致性",
       "Cronbach's alpha",
       "Cronbach's α",
       "克隆巴赫系数",
-      "Cronbach alpha",
-      "Internal Consistency (Cronbach's Alpha)",
       "internal consistency reliability"
     ]
   },

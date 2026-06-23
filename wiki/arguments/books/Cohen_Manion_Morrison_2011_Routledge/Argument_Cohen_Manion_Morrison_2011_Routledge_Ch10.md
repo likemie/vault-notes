@@ -28,6 +28,7 @@ tags:
   - theme/reliability
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Reliability]]"
   - "[[Catalytic Validity]]"
   - "[[Concurrent Validity]]"
   - "[[Consequential Validity]]"
@@ -76,7 +77,6 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Scale of Measurement]]"
   - "[[Response Bias]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
   - "[[Definition of Terms]]"
@@ -87,6 +87,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Statistical Significance]]"
+  - "[[Internal Consistency]]"
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
@@ -703,7 +704,7 @@ Liu (2002) 补充建议：使用**主动而非被动语态**、简单短句、�
 > 2. **委员会评估** 使用一个专家委员会（3 至 5 人）审查——评估初步版本（检查回译版本是否可接受，或在回译项目的不同版本之间裁决），准备实验版本——从而避免单一研究者的偏见（Vallerand et al., 1992; Liu, 2002: 82）
 > 3. **[[Pilot Testing|预测试]]实验版本** 使用随机调查方法——检查指令的清晰性和工具的适当性
 > 4. **评估内容和共时效度** 使用双语参与者（20 至 30 人）检查他们是否以相同方式回答两种语言版本，以及工具是否适当——内容效度通过质性评估（专家审查），共时效度通过量化评估（t 检验）
-> 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（[[Internal Consistency and Cronbach's Alpha|Cronbach alpha]]）。移除低信度项目
+> 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（Cronbach alpha）。移除低信度项目
 > 6. **评估构念效度** 通过因子分析、量表间相关分析以及检验理论衍生的假设
 > 7. **建立常模** 通过选择样本来自的总体、统计指标以及计算均值、标准差和 z 分数——使用大量人群以建立常模的稳定性
 
@@ -992,7 +993,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 >   > - **等价形式**（equivalent forms / alternate forms） 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
 >   > - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
 >
-> - **信度作为内部一致性**（[[Internal Consistency and Cronbach's Alpha|Reliability as internal consistency]]）
+> - **信度作为[[Internal Consistency|内部一致性]]**（Reliability as internal consistency）
 >   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过**半分法**。将测试项目分为两半（内容难度匹配），单独评分，使用 Spearman-Brown 公式计算两半之间的相关：
 
 > [!formula-step] Spearman-Brown 公式
@@ -1000,25 +1001,36 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 > \text{reliability} = \frac{2r}{1 + r}
 > $$
 >
-> 其中 $r$ = 测试两半之间的实际相关系数。例如若 Spearman rank order 相关或 Pearson product moment 相关得出 $r = 0.85$，则：
+> **$r$ = 测试两半之间的实际相关系数**（可通过 Spearman rank order 或 Pearson product moment 相关计算）。公式的逻辑是：将测试对半分割会降低信度（项目越少，信度越低），因此需要**校正**这一衰减——Spearman-Brown 公式从两半之间的相关**推算出完整测试的信度**。
+>
+> **示例**：若 $r = 0.85$（两半之间高度相关），则完整测试的信度为：
 >
 > $$
 > \text{reliability} = \frac{2 \times 0.85}{1 + 0.85} = \frac{1.70}{1.85} = 0.919
 > $$
 >
-> 鉴于系数的最大值为 1.00，我们可以看出这个半分法信度的工具信度**非常高**（p.203）。
+> **解读**：鉴于系数最大值为 1.00，0.919 表明完整测试的信度非常高。注意公式假设两半在内容难度上匹配——若测试有 20 个项目且难度递增，简单按前后半分割（1–10 vs 11–20）会产生不匹配的两半。此时可将偶数号项目分给一组、奇数号分给另一组，使两半在内容和累积难度上更接近（p.203）。
 
 半分法假设测试可被分成两个匹配的半份——但许多测试在每半份中有**不同难度梯度或不同项目内容**。如果测试有 20 个项目——研究者可以将所有偶数号项目分配给一组、所有奇数号项目分配给另一组——而非将项目 1–10 分配给一半、11–20 分配给另一半。这将使两半在内容和累积难度程度上更匹配。
 
-替代方法：**Cronbach alpha**（常简称为 alpha 信度系数）。alpha 提供的是**跨项目相关**的系数——即每个项目**与所有其他相关项目之和**的相关——对于多项目量表特别有用。这是项目间（而非人与人之间）的内部一致性测量。详见 Part 5。
-
-> [!example]- 图10.2：评-分者间信度计算公式
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_10-2_Inter-rater_Reliability_Formula.jpg)
-
----
+> [!formula-step] Cronbach's Alpha 公式
+> $$
+> \alpha = \frac{k}{k - 1} \left(1 - \frac{\sum \sigma^2_i}{\sigma^2_{\text{total}}}\right)
+> $$
+>
+> **$k$ = 量表中的项目总数**；$\sum \sigma^2_i$ = 所有项目各自方差的**总和**（每个项目在受试者之间得分的变异程度）；$\sigma^2_{\text{total}}$ = 量表**总分**在受试者之间的方差。
+>
+> **公式逻辑**：$\frac{\sum \sigma^2_i}{\sigma^2_{\text{total}}}$ 衡量的是"各项目独自变异的比例"——如果项目之间高度一致，各自方差之和应远小于总方差（因为项目在协同变异），该比值很小，$\left(1 - \text{比值}\right)$ 接近 1，$\alpha$ 就高。系数 $\frac{k}{k-1}$ 是一个**校正因子**——项目数越少，校正力度越大，防止项目少的量表获得虚高的 alpha 值。
+>
+> **解读**：$\alpha$ 的取值范围是 0 到 1，通常要求 $\alpha \geq 0.70$ 作为可接受信度的阈值，$\alpha \geq 0.80$ 为良好。alpha 衡量的是**项目之间**（而非受试者之间）的内部一致性——它回答的是"这些项目是否在测量同一个底层构念"。与半分法不同，alpha 不需要将测试分成两半——它等效于**所有可能半分方式的 Spearman-Brown 校正值的平均值**（p.203）。
 
 > [!implication]- 量化信度范式的隐含预设
-> 如此解释的信度做出了几个假设：工具、数据和发现应该是**可控的、可预测的、一致的和可复制的**。这预设了特定的研究风格——通常在实证主义范式内。Cooper & Schindler (2001: 218) 建议在此范式中可通过以下方式提高信度：最小化任何外部变异来源；标准化和控制数据收集和测量条件；培训研究者以确保一致性（评分者间信度）；扩大某特定主题的项目数量；排除数据中的极端回应（如异常值，可在 SPSS 中完成）（p.204）。
+> 如此解释的信度做出了几个假设：工具、数据和发现应该是**可控的、可预测的、一致的和可复制的**。这预设了特定的研究风格——通常在实证主义范式内。Cooper & Schindler (2001: 218) 建议在此范式中可通过以下方式提高信度（p.204）：
+> - **最小化外部变异来源** 控制可能引入随机误差的环境和情境因素
+> - **标准化数据收集和测量条件** 确保所有受试者在相同的程序和条件下接受测量
+> - **培训研究者** 以确保一致性——即保障[[Inter-Rater Reliability|评分者间信度]]
+> - **扩大项目数量** 某特定主题的项目越多，单个项目的随机误差对总分的影响越小
+> - **排除极端回应** 如异常值（outliers），可在 SPSS 中完成——但需谨慎，排除异常值可能掩盖重要的数据变异
 
 ---
 

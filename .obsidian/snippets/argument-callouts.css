@@ -3428,6 +3428,11 @@
 .callout[data-callout="dimension"] > .callout-content > ul > li > p:not(:first-child) {
   opacity: 0.88;
 }
+/* 内嵌 callout：缩一档，使内层视觉上小于外层 */
+.callout[data-callout="dimension"] > .callout-content > ul > li > .callout,
+.callout[data-callout="dimension"] > .callout-content > ul > li .callout {
+  font-size: 0.88em;
+}
 /* strong 本身不受 p opacity 影响（opacity 在 p level 不单独控制子元素），颜色已明确设置 */
 
 /* 暗模式 */

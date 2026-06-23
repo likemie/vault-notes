@@ -40,7 +40,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Statistical Significance]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Internal Consistency]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -182,7 +182,7 @@ citation_aliases:
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应(p.116)。
-> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency and Cronbach's Alpha|Cronbach's alpha]] 为 .972(p.117)。
+> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency|Cronbach's alpha]] 为 .972(p.117)。
 > - 141 项大型教育 [[Randomised Controlled Trials|RCT]] 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零，这说明即使最严格的设计也常给出很小或不显著的成就结果(p.112)。
 
 ## 关键引用

@@ -26,7 +26,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Concurrent Validity]]"
   - "[[Reliability]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
 related_methods:
   - "[[Pilot Testing]]"
 related_facts:
@@ -98,7 +97,7 @@ updated: 2026-06-23
 > 2. **委员会评估** 3–5 人专家委员会审查，避免单一研究者偏差
 > 3. **[[Pilot Testing|预测试]]** 随机调查方法检验指令清晰性和工具适当性
 > 4. **评估内容和[[Concurrent Validity|共时效度]]** 20–30 名双语参与者同时完成两种语言版本，比较两套答案——[[Content Validity|内容效度]]质评（专家审查），共时效度量评（t 检验）
-> 5. **[[Reliability|信度]]分析** 检查内部信度和时间稳定性（[[Internal Consistency and Cronbach's Alpha|Cronbach alpha]]），移除低信度项目
+> 5. **[[Reliability|信度]]分析** 检查内部信度和时间稳定性（Cronbach alpha），移除低信度项目
 > 6. **评估[[Construct Validity|构念效度]]** 因子分析、量表间相关、检验理论假设
 > 7. **建立常模** 用大样本人群计算均值、标准差和 z 分数
 

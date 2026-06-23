@@ -18,7 +18,7 @@ tags:
 related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Operationalization]]"
   - "[[Internal Validity]]"
@@ -60,7 +60,7 @@ updated: 2026-06-23
 > [!concept-lens] 概念透镜
 > - **含义** 信度回答的核心问题是：如果这项研究被重复进行——在相似条件下、对相似人群、使用相似工具——是否会得到相似的结果？它不是关于"研究是否测量了正确的[[Construct|构念]]"（那是效度的问题），而是关于"测量本身是否稳定和一致"。
 > - **用途** 信度框架帮助研究者在研究设计、工具开发和数据收集阶段确保测量的一致性和可复制性。在[[Quantitative Research|量化研究]]中，它是效度论证的前置条件——不可靠的测量不可能有效。
-> - **边界** 信度不同于[[Internal Consistency and Cronbach's Alpha|内部一致性]]——后者是信度的一种具体形式（项目间的一致性），而非信度概念本身。信度也不同于[[Test-Retest Reliability|重测信度]]——后者是信度作为稳定性的一种[[Operationalization|操作化]]方式。在[[Qualitative Research|质性研究]]中，信度被重新解释为可依赖性且其术语适用性存在争议。
+> - **边界** 信度不同于[[Internal Consistency|内部一致性]]——后者是信度的一种具体形式（项目间的一致性），而非信度概念本身。信度也不同于[[Test-Retest Reliability|重测信度]]——后者是信度作为稳定性的一种[[Operationalization|操作化]]方式。在[[Qualitative Research|质性研究]]中，信度被重新解释为可依赖性且其术语适用性存在争议。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-06-23
 >   > [!feature] 两种形式
 >   > - **等价形式**（equivalent forms / alternate forms） 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
 >   > - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
-> - **信度作为[[Internal Consistency and Cronbach's Alpha|内部一致性]]**（Reliability as internal consistency）
+> - **信度作为[[Internal Consistency|内部一致性]]**（Reliability as internal consistency）
 >   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过**半分法**。
 >   
 >   > [!feature] 两种方法

@@ -20,9 +20,9 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Intercoder Agreement]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
   - "[[Heterogeneity]]"
+  - "[[Internal Consistency]]"
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
   - "[[Constructivist Paradigm]]"
@@ -71,7 +71,7 @@ updated: 2026-06-23
 > |---|---|---|---|
 > | **核心问题** | 不同的人在评分时是否一致？ | 量表内部条目间是否一致？ | 同一工具在不同时间点是否稳定？ |
 > | **偏差来源** | 评判者之间的主观差异 | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 |
-> | **典型指标** | Cohen's κ、Fleiss' κ、ICC | Cronbach's α | 前后测相关系数 |
+> | **典型指标** | Cohen's κ、Fleiss' κ、ICC | [[Internal Consistency\|Cronbach's α]] | 前后测相关系数 |
 > | **典型场景** | [[Observational and Correlational Research\|观察研究]]、测验评分 | 量表开发与验证 | 纵向研究、实验前后测 |
 
 ---
@@ -135,7 +135,7 @@ Silverman (1993) 建议通过评分者间信度来增强访谈的信度——在
 > [!method-fit] 适用判断
 > - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observational and Correlational Research|观察研究]]、临床行为评定）；[[Qualitative Research|质性研究]]的内容分析中多位编码者对文本进行编码时；系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中多位筛选者独立筛选文献时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 > - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中——假设不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985: 307）。
-> - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间[[Reliability|信度]]不适用——此时应关注评分者[[Internal Consistency and Cronbach's Alpha|内部一致性]]（intra-rater reliability）。
+> - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间[[Reliability|信度]]不适用——此时应关注评分者[[Internal Consistency|内部一致性]]（intra-rater reliability）。
 
 ---
 

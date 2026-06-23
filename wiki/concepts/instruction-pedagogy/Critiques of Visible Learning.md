@@ -50,7 +50,7 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Operationalization]]"
-  - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Internal Consistency]]"
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
   - "[[Value Neutrality]]"
@@ -818,7 +818,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 5–6)]] 指出 Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但未讨论它们之间的概念关系或如何对应实证分析中的[[Operationalization|操作化]]。作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，"学业成就"究竟测量的是哪个层次——无人知晓。这导致从教育研究的角度看，理论和实证数据之间没有系统性关系。
 
 > [!tension] "研究笼子"：高[[Reliability|信度]] vs 高效度（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）
-> Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency and Cronbach's Alpha|内部一致性]]，但因[[Variable|变量]]和自变量相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
+> Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency|内部一致性]]，但因[[Variable|变量]]和自变量相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
 
 丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 [[Karl Popper|Popper]]）重建因变量([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
 
