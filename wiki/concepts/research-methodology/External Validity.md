@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,11 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
+  - "[[Catalytic Validity]]"
+  - "[[Interpretive Validity]]"
+  - "[[Evaluative Validity]]"
+  - "[[Threats to Internal Validity]]"
+  - "[[Effect Size]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Paradigm Wars]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -134,8 +139,8 @@ Lincoln & Guba (1985) 列出四种自然主义威胁，Onwuegbuzie & Leech (2006
 > | [[Evaluative Validity\|评价效度]] | Onwuegbuzie & Leech | 评价框架的跨情境适用性 |
 > | 共识效度 | Onwuegbuzie & Leech | 他人对解释的一致性影响推广 |
 > | 总体/生态/时间可推广性 | Onwuegbuzie & Leech | 推广与非推广边界的合理保持 |
-> | 研究者偏差 | Onwuegbuzie & Leech | 与内部效度威胁共享 |
-> | 反应性 | Onwuegbuzie & Leech | 情境改变效应与内部效度威胁共享 |
+> | 研究者偏差 | Onwuegbuzie & Leech | 与[[Threats to Internal Validity\|内部效度威胁]]共享 |
+> | 反应性 | Onwuegbuzie & Leech | 情境改变效应与[[Internal Validity\|内部效度]]威胁共享 |
 > | 顺序偏差 | Onwuegbuzie & Leech | 问题顺序对结果可依赖性的影响 |
 > | [[Effect Size\|效应量]] | Onwuegbuzie & Leech | 质性分析中效应量缺失限制精确性 |
 

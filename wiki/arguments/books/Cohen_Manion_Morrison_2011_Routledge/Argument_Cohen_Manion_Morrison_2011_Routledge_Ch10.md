@@ -63,10 +63,10 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Ontology]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Hawthorne Effect]]"
   - "[[Causality]]"
   - "[[Threats to External Validity]]"
   - "[[Study Population and Sample]]"
+  - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
   - "[[Formative Assessment]]"
@@ -108,15 +108,14 @@ related_methods:
   - "[[Peer Debriefing]]"
   - "[[Triangulation]]"
   - "[[Theoretical Sampling]]"
-  - "[[Experimental Research]]"
-  - "[[Pilot Testing]]"
-  - "[[Intervention Research]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
   - "[[Chi-Squared Test]]"
   - "[[Analysis of Variance]]"
   - "[[Qualitative Interview]]"
+  - "[[Pilot Testing]]"
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
   - "[[Random Sampling]]"
   - "[[Qualitative Observation]]"
   - "[[Observational and Correlational Research]]"
@@ -341,19 +340,21 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 
 ##### 量化研究中的[[Threats to Internal Validity|内部效度威胁]]
 
-以下十个威胁类别主要（但不排他）适用于[[Experimental Research|实验研究]]，基于 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 的工作（pp.164–166）：
+基于 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 的框架，量化内部效度面临十种主要威胁（pp.164–166）。详细清单、案例和应对策略见 [[Threats to Internal Validity|内部效度威胁]] 条目。
 
-> [!challenges] 十种量化内部效度威胁
-> - **历史**（History） 前测和后测之间发生的、非干预本身的事件可能产生效果并被错误归因于处理差异。例如在一项纵向调查中，学生在[[Pilot Testing|预测试]]和测试之间经历了一次学校课程改革——考试成绩的变化可能更多来自改革而非被研究的干预。
-> - **成熟**（Maturation） 受试者在两次观测之间以多种方式自然变化——更年长、更疲惫、更成熟或更厌倦。这些变化独立于研究处理。持久的教育研究（如历时数月的实验）比短暂实验室实验更易受成熟效应影响。
-> - **统计回归**（Statistical regression） 与成熟效应一样，回归效应随前后测时间间隔系统性增加。回归意味着：前测得分最高的受试者后测可能得分相对较低；前测最低的后测可能得分相对较高——简言之，前后测情境中存在**"向均值回归"**。回归效应可能误导教育研究者将后测得失归因于低分和高分的受试者特质，而实际上只是统计现象。
-> - **测验**（Testing） 研究开始时的前测可能产生超出研究处理的效果——包括使受试者对研究真正目的**敏感化**，以及产生**实践效应**（practice effects）导致后测得分提高。例如，学生在前测中遇到的题型和解题策略，在后测中自动产生更好的表现。
-> - **工具**（Instrumentation） 不可靠的测验或工具可能将严重错误引入研究。人类观察者或评判者的变化（如技能衰退、注意力水平波动），或长期研究中工具的校准变化，都可能导致误差。例如一个编码员在研究初期严格、后期宽松，那么编码结果的变化反映的不是数据本身的变化而是编码标准的变化。
-> - **选择**（Selection） 当对照组和实验组的受试者选择存在差异，或使用**完整班级**（intact classes）作为实验组或控制组时，可能引入偏差。选择偏差还可能与其他因素（历史、成熟等）**交互作用**，进一步模糊比较处理的效果。
-> - **实验损耗**（Experimental mortality） 长期研究中的受试者流失可能混淆变量效果。即使最初各组是随机选择的，但坚持到最后的"剩余者"可能与最初的无偏样本不同。例如在历时一年的[[Intervention Research|干预研究]]中，辍学学生可能恰恰是干预效果最差的学生，剩下的样本高估了干预效果。
-> - **工具反应性**（Instrument reactivity） 研究工具本身对研究参与者产生的效应（Vulliamy et al., 1990）。例如观察者的在场改变被观察者的行为；问卷中的问题措辞引发受试者的防御性回答。
-> - **选择-成熟交互**（Selection-maturation interaction） 研究设计效应与变量效应之间的混淆——实验组和对照组在成熟速度上不同，这种差异被误判为处理效应。
-> - **第一类与第二类错误**（Type I and Type II errors） 统计推断中拒绝真[[Null Hypothesis|零假设]]（第一类）或接受假零假设（第二类）的决策错误，详见下文展开（pp.165–166）。
+> [!ref-table] 量化内部效度威胁速查
+> | 威胁 | 核心问题 |
+> |---|---|
+> | 历史（History） | 实验期间的外部事件混淆了处理效应 |
+> | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
+> | 统计回归（Regression） | 极端得分随时间向均值回归 |
+> | 测验（Testing） | 前测使受试者熟悉工具或记住答案 |
+> | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
+> | 选择（Selection） | 组间系统性差异被误判为处理效应 |
+> | 实验损耗（Mortality） | 退出者可能恰好是效果最差的受试者 |
+> | 工具反应性（Instrument reactivity） | 研究工具本身改变了参与者行为 |
+> | 选择-成熟交互 | 实验组和对照组成熟速度不同 |
+> | 第一类与第二类错误 | 拒绝真假设或接受假假设的决策错误 |
 
 ---
 
@@ -443,21 +444,23 @@ Lincoln & Guba (1985: 219, 301) 认为[[Interpretive Paradigm|自然主义探究
 
 ##### Onwuegbuzie & Leech 的十二种质性内部效度威胁
 
-Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为十二种类型（pp.167–168）：
+Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为十二种类型（pp.167–168）。详细清单见 [[Threats to Internal Validity|内部效度威胁]] 条目。
 
-> [!challenges] 十二种质性内部效度威胁
-> - **1. 反讽合法化**（Ironic legitimation） 研究能否识别和处理同一情境的多重、甚至同时矛盾的现实和解释？当不同参与者对同一事件有截然不同的叙述时，研究是否只是选择了"最方便"的版本？
-> - **2. 悖论合法化**（Paralogical legitimation） 研究能否捕捉和处理效度主张中的悖论？例如，一位教师同时声称"我完全按照课程大纲教学"和"我经常根据学生需要灵活调整"——这种表面矛盾的陈述可能恰恰反映了教育实践的复杂性。
-> - **3. 根茎合法化**（Rhizomatic legitimation） 当研究者**绘制数据地图**（mapping）而非**描述**数据时，丢失了多少信息？将丰富的生活经验压缩为概念节点和关系线时，不可避免地有损失——但研究者是否意识到了这种损失并做了弥补？
-> - **4. 过度合法化**（Voluptuous legitimation） 对数据的解释是否超出了研究者从数据中**支持该解释的能力**？例如从三个教师的访谈中推断出"中国教师普遍……"——数据不足以承载这个主张。
-> - **5. 描述效度** 研究者所给描述的准确性——事实层面的可靠性
-> - **6. 观察偏差** 对研究中词语、观察或行为的**不充分抽样**——收集的数据太少或太窄，不足以支撑结论
-> - **7. 研究者偏差** 研究者的偏见、假设或价值观影响数据的收集和解释
-> - **8. 反应性**（Reactivity） 研究在多大程度上**改变了**正在研究的情境或参与者——例如[[Hawthorne Effect|霍桑效应]]和新奇效应（novelty effect）
-> - **9. 确认偏差**（Confirmation bias） 研究倾向于确认已有发现或假设——寻找支持已有信念的证据而忽略反证
-> - **10. 虚假确认**（Illusory confirmation） 在实际不存在关系时倾向于发现关系——过度解释数据中的偶然模式
-> - **11. 因果错误**（Causal error） 在不存在[[Causality|因果关系]]或未提供因果证据时推断因果关系
-> - **12. 效应量忽略**（Effect size） 在量化效应量能为质性分析带来精确性和意义时，未能将其纳入考虑——拒绝将数字思维引入质性工作，错失了使解释更精确的机会
+> [!ref-table] 质性内部效度威胁速查
+> | # | 威胁 | 核心问题 |
+> |---|---|---|
+> | 1 | 反讽合法化（Ironic legitimation） | 能否处理同一情境中多重矛盾的现实 |
+> | 2 | 悖论合法化（Paralogical legitimation） | 能否捕捉效度主张中的悖论 |
+> | 3 | 根茎合法化（Rhizomatic legitimation） | 绘制数据地图时丢失了多少信息 |
+> | 4 | 过度合法化（Voluptuous legitimation） | 解释是否超出了数据的承载能力 |
+> | 5 | [[Descriptive Validity\|描述效度]] | 描述的准确性——事实层面的可靠性 |
+> | 6 | 观察偏差 | 对数据的不充分抽样 |
+> | 7 | 研究者偏差 | 偏见影响数据收集和解释 |
+> | 8 | 反应性（Reactivity） | 研究改变了正在研究的情境 |
+> | 9 | 确认偏差（Confirmation bias） | 倾向于确认已有发现 |
+> | 10 | 虚假确认（Illusory confirmation） | 在不存在关系时发现关系 |
+> | 11 | 因果错误（Causal error） | 无证据时推断[[Causality\|因果关系]] |
+> | 12 | [[Effect Size\|效应量]]忽略 | 拒绝量化精确性错失解释精度 |
 
 ---
 
@@ -469,18 +472,20 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 
 ##### 量化研究中的外部效度威胁
 
-基于 Campbell & Stanley (1963)、Bracht & Glass (1968)、Hammersley & Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作（pp.168–171）：
+基于 Campbell & Stanley (1963)、Bracht & Glass (1968)、Hammersley & Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作（pp.168–171）。详细清单、案例和应对策略见 [[Threats to External Validity|外部效度威胁]] 条目。
 
-> [!challenges] 九种量化[[Threats to External Validity|外部效度威胁]]
-> - **未能明确描述自变量**（Failure to describe independent variables explicitly） 除非自变量得到充分描述，未来复制研究条件几乎不可能——这是科学可重复性危机的一个重要来源
-> - **可用总体与[[Study Population and Sample|目标总体]]缺乏代表性**（Lack of representativeness） 参与研究者可能对可用总体具有代表性，但对研究者希望推广其发现的目标总体可能没有——即抽样和/或随机化不足
-> - **霍桑效应**（Hawthorne effect） 医学研究长期认识到仅仅参与药物实验就会产生心理效应——安慰剂和双盲设计常用于抵消参与的偏倚效应。同样，[[Hawthorne Effect|霍桑效应]]在教育研究中威胁着研究处理的有效性：当受试者意识到自己被当作实验对象时，其行为已经不再是自然行为
-> - **因变量[[Operationalization|操作化]]不充分**（Inadequate operationalizing of dependent variables） 研究者操作化的因变量必须在**非研究情境**中也具有效度——一份关于职业选择的纸笔问卷可能在大学生实际就业决策方面几乎没有效度。操作化和真实世界之间存在鸿沟
-> - **对实验/研究条件的敏感化/反应性**（Sensitization/reactivity） 前测可能改变受试者对干预变量的敏感性——受试者在后测中的表现可能反映的是其对前测的记忆和反应，而非干预的真实效果
-> - **外来因素与实验处理的交互效应**（Interaction effects of extraneous factors） 上述所有外部效度威胁都代表了多种混淆因素与处理之间的交互作用
-> - **工具的无效或不可靠**（Invalidity or unreliability of instruments） 使用产生不可信数据（无法信赖的数据）的工具
-> - **生态效度**（Ecological validity） 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983: 10) 评论了在实验条件下或访谈中获得的对反应的推论与日常生活之间关系的严重问题
-> - **多重处理效度**（Multiple treatment validity） 同时或依次施加多种处理可能导致处理间交互效应——使得难以（若非不可能）隔离特定处理的效果
+> [!ref-table] 量化外部效度威胁速查
+> | 威胁 | 核心问题 |
+> |---|---|
+> | 自变量描述不充分 | 未来无法复制研究条件 |
+> | 总体缺乏代表性 | 样本不代表[[Study Population and Sample\|目标总体]] |
+> | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
+> | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
+> | 对实验条件敏感化/反应性 | 前测改变了受试者对干预的反应 |
+> | 外来因素交互效应 | 混淆因素与处理交互作用 |
+> | 工具无效或不可靠 | 数据本身不可信 |
+> | [[Ecological Validity\|生态效度]] | 一种情境的发现能否推广到另一情境 |
+> | 多重处理效度 | 多种处理交互效应难以隔离 |
 
 ---
 
@@ -694,7 +699,7 @@ Liu (2002) 补充建议：使用**主动而非被动语态**、简单短句、�
 > [!proc] 翻译和使用跨文化工具的七步法
 > 1. **准备初步版本** 使用回译技术准备工具的初步版本
 > 2. **委员会评估** 使用一个专家委员会（3 至 5 人）审查——评估初步版本（检查回译版本是否可接受，或在回译项目的不同版本之间裁决），准备实验版本——从而避免单一研究者的偏见（Vallerand et al., 1992; Liu, 2002: 82）
-> 3. **预测试实验版本** 使用随机调查方法——检查指令的清晰性和工具的适当性
+> 3. **[[Pilot Testing|预测试]]实验版本** 使用随机调查方法——检查指令的清晰性和工具的适当性
 > 4. **评估内容和共时效度** 使用双语参与者（20 至 30 人）检查他们是否以相同方式回答两种语言版本，以及工具是否适当——内容效度通过质性评估（专家审查），共时效度通过量化评估（t 检验）
 > 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（[[Internal Consistency and Cronbach's Alpha|Cronbach alpha]]）。移除低信度项目
 > 6. **评估构念效度** 通过因子分析、量表间相关分析以及检验理论衍生的假设
@@ -767,7 +772,7 @@ Joy (2003: 1) 提出了十二个贯穿研究全过程的文化效度问题：
 > - **优势二：克服方法约束（method-boundedness）**
 >   Smith (1975) 批评说："许多研究使用了特定的方法或技术，源于方法论狭隘主义或我族中心主义。方法学家经常推销特定的宠儿方法，要么因为这些是他们唯一熟悉的方法，要么因为他们相信自己的方法优于所有其他方法。" 三角技术有助于克服这个问题——Gorard & Taylor (2004) 展示了结合量化和质性方法的价值。
 
-方法之间对比越大，研究者的置信度越大。如果——更极端的例子——一项严格实验研究的结果在一个**角色扮演练习**中被复制，研究者将体验到更大的确信。如果发现是方法的**人为产物**（artefacts），那么使用对比方法会大大降低一致发现归因于方法相似性的机会（Lin, 1976）（p.189）。
+方法之间对比越大，研究者的置信度越大。如果——更极端的例子——一项严格[[Experimental Research|实验研究]]的结果在一个**角色扮演练习**中被复制，研究者将体验到更大的确信。如果发现是方法的**人为产物**（artefacts），那么使用对比方法会大大降低一致发现归因于方法相似性的机会（Lin, 1976）（p.189）。
 
 ---
 
