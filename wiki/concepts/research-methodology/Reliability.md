@@ -83,21 +83,28 @@ updated: 2026-06-23
 
 在[[Positivism|实证主义]][[Quantitative Research|量化研究]]中，有三种主要的信度类型（Carmines & Zeller, 1979）（pp.200–204）：
 
-> [!dimension] 信度作为稳定性（Reliability as stability）
-> - **核心机制** 测量**随时间推移**和**跨相似样本**的一致性。一个可靠的漏水的水龙头每天漏水一升——可靠地漏；而一个有些天漏一升有些天漏两升的水龙头则不可靠。
-> - **操作方式** 在适当时间范围内进行测试和重测，如果获得相似结果，则稳定性成立。可通过测试/重测方法的**相关系数**计算（Pearson 或 Spearman），[[Statistical Significance|统计显著性]]应达到 0.05 或更高。
-> - **跨样本稳定性** 对在显著特征上紧密匹配的两组同时施测，应获得相似结果——这种形式在先导测试和问卷中特别有用。
-> - **注意事项** Cooper & Schindler (2001: 216) 提醒：测试与重测之间的时间不应长到情境因素改变、不应短到参与者记住第一次测试、且参与者可能在间隔期内自行跟进研究领域。详见 [[Test-Retest Reliability|重测信度]]。
-
-> [!dimension] 信度作为等值性（Reliability as equivalence）
-> - **等价形式**（equivalent forms / alternate forms） 如果设计出工具的等价形式并产生相似结果，则该工具证明了这种信度。实验中的前测和后测就预设了这种信度——前后测是测量同一议题的工具替代形式。可通过 t 检验、高相关系数以及相似均值和标准差来衡量。
-> - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。对于观察数据，信度在研究者的培训课程中得到解决——使用视频材料以确保录入数据的同等性。
-> - **计算方式** 可在简单层面上计算评分者间一致性百分比；Robson (2002: 341) 提出了在编码观察数据中测量评分者间信度的更复杂方法，适用于多位评判者和多类别评分情境。
-
-> [!dimension] 信度作为内部一致性（Reliability as internal consistency）
-> - **与测试/重测的区别** 测试/重测和等价形式要求两次测试/工具施测，而内部一致性只需要**一次**——通过**半分法**（split-half method）。
-> - **半分法操作** 将测试项目分为两半（内容难度匹配），单独评分，使用 **Spearman-Brown 公式**计算两半之间的相关：$\text{reliability} = \frac{2r}{1+r}$（其中 $r$ 为两半之间的实际相关系数）。如果测试有 20 个项目，可将偶数号项目分配给一组、奇数号分配给另一组，使两半在内容和累积难度上更匹配。
-> - **Cronbach alpha 替代方法** 提供**跨项目相关**的系数——即每个项目与所有其他相关项目之和的相关。对于多项目量表特别有用。这是项目间（而非人与人之间）的内部一致性测量。详见 [[Internal Consistency and Cronbach's Alpha|内部一致性与 Cronbach's Alpha]]。
+> [!dimension] 量化信度的三种类型
+> - **信度作为稳定性**（Reliability as stability）
+>   测量**随时间推移**和**跨相似样本**的一致性。一个可靠的漏水的水龙头每天漏水一升——可靠地漏；而一个有些天漏一升有些天漏两升的水龙头则不可靠。
+>   
+>   > [!feature] 操作要点
+>   > - 在适当时间范围内进行测试和重测，通过相关系数计算（Pearson 或 Spearman），[[Statistical Significance|统计显著性]]应达到 0.05 或更高
+>   > - 对在显著特征上紧密匹配的两组同时施测，应获得相似结果——这种形式在先导测试和问卷中特别有用
+>   > - Cooper & Schindler (2001: 216) 提醒：测试-重测间隔不应长到情境改变、不应短到参与者记住前次测试
+>   
+>   详见 [[Test-Retest Reliability|重测信度]]。
+> - **信度作为等值性**（Reliability as equivalence）
+>   如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。
+>   
+>   > [!feature] 两种形式
+>   > - **等价形式**（equivalent forms / alternate forms） 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
+>   > - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
+> - **信度作为[[Internal Consistency and Cronbach's Alpha|内部一致性]]**（Reliability as internal consistency）
+>   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过**半分法**。
+>   
+>   > [!feature] 两种方法
+>   > - **Spearman-Brown 公式** 将测试分为两半（内容难度匹配），单独评分，计算 $\text{reliability} = \frac{2r}{1+r}$（$r$ 为两半之间的实际相关系数）。可将偶数号项目分给一组、奇数号给另一组以匹配难度。
+>   > - **Cronbach alpha** 提供跨项目相关的系数——每个项目与所有其他相关项目之和的相关。对多项目量表特别有用。这是项目间（而非人与人之间）的内部一致性测量。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 200–204)]]
 
