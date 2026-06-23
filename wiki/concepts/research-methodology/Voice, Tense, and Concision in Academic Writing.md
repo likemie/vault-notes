@@ -100,12 +100,12 @@ Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养�
 | American Journal of Sociology | 量化 | [AJS](https://www.journals.uchicago.edu/toc/ajs/current) |
 | Journal of Applied Psychology | 量化 | [JAP](https://www.apa.org/pubs/journals/apl) |
 | Sociology of Education | 量化 | [SOE](https://journals.sagepub.com/home/soe) |
-| Journal of Contemporary Ethnography | 质性 | [JCE](https://journals.sagepub.com/home/jce) |
+| Journal of Contemporary [[Ethnography]] | 质性 | [JCE](https://journals.sagepub.com/home/jce) |
 | Qualitative Health Research | 质性 | [QHR](https://journals.sagepub.com/home/qhr) |
 | Qualitative Inquiry | 质性 | [QI](https://journals.sagepub.com/home/qix) |
-| Qualitative Research | 质性 | [QR](https://journals.sagepub.com/home/qrj) |
-| Journal of Mixed Methods Research | 混合方法 | [JMMR](https://journals.sagepub.com/home/mmr) |
-| Field Methods | 混合方法 | [FM](https://journals.sagepub.com/home/fmx) |
+| [[Qualitative Research]] | 质性 | [QR](https://journals.sagepub.com/home/qrj) |
+| Journal of [[Mixed Methods Research]] | 混合方法 | [JMMR](https://journals.sagepub.com/home/mmr) |
+| [[Champ\|field]] Methods | 混合方法 | [FM](https://journals.sagepub.com/home/fmx) |
 | Quality and Quantity | 混合方法 | [QQ](https://link.springer.com/journal/11135) |
 | International Journal of Social Research Methodology | 混合方法 | [IJSRM](https://www.tandfonline.com/toc/tsrm20/current) |
 | Annals of Family Medicine | 混合方法 | [AFM](https://www.annfammed.org/) |

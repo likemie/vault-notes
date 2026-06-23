@@ -73,7 +73,7 @@ updated: 2026-06-22
 > | 定义 | 对结果落在给定范围内的确信程度 | 希望确保的变异范围 |
 > | 典型取值 | 90%、95%、99% | $\pm 1\%$、$\pm 3\%$、$\pm 5\%$ |
 > | 在公式中的角色 | 决定 $Z$ 值（95% → $Z = 1.96$） | 决定 $e$（边际误差） |
-> | 对样本量的影响 | 越高 → $n$ 越大 | 越小 → $n$ 越大 |
+> | 对[[Sample Size Determination\|样本量]]的影响 | 越高 → $n$ 越大 | 越小 → $n$ 越大 |
 > | 常规策略 | 95% | $\pm 3\%$ |
 
 两者的组合直接进入[[Sample Size Determination|样本量]]公式：$n = (Z \cdot \sigma / e)^2$，其中 $Z$ 由置信水平决定，$e$ 等于置信区间半宽。
@@ -157,6 +157,6 @@ updated: 2026-06-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Meta-analysis]] | 方法 | 元分析中平均效应量需伴随 SE 或 CI 才能说明估计精度。 |
+> | [[Meta-analysis]] | 方法 | 元分析中平均[[Effect Size\|效应量]]需伴随 [[School Effectiveness\|SE]] 或 CI 才能说明估计精度。 |
 > | [[Meta-meta-analysis]] | 方法 | 联合 SE 和 CI 是二级元分析报告联合效应量时的必要信息。[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] |
 > | [[Sample Size Determination]] | 概念 | CI 和 CL 是确定概率样本量的两个核心参数。 |

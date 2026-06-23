@@ -91,5 +91,5 @@ updated: 2026-06-14
 
 > [!warning] 局限性
 > - 将丰富的质性叙述简化为计数，可能丢失质性数据的深度和情境性——这是[[Qualitative Research|质性研究]]者对数据转换的主要批评
-> - 如果质性样本量小，转换后的量化[[Variable|变量]]统计效力有限
+> - 如果质性[[Sample Size Determination|样本量]]小，转换后的量化[[Variable|变量]]统计效力有限
 > - 转换程序的质量取决于质性分析本身的质量——[[Coding in Qualitative Research|编码]]不充分时，转换只会放大原有问题

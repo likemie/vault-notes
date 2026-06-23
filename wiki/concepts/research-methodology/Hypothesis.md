@@ -66,7 +66,7 @@ updated: 2026-06-21
 > | 认知功能 | 预测[[Variable\|变量]]间关系的方向 | 就变量间关系提问 |
 > | 形式 | 陈述句 | 疑问句 |
 > | 统计处理 | 经统计检验被支持或拒绝 | 经数据收集被回答 |
-> | 适用范式 | 主要适用于[[Quantitative Research\|量化研究]] | 量化、质性、混合方法均适用 |
+> | 适用[[Paradigm\|范式]] | 主要适用于[[Quantitative Research\|量化研究]] | 量化、质性、[[Mixed Methods Research\|混合方法]]均适用 |
 
 ---
 

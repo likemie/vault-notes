@@ -187,7 +187,7 @@ updated: 2026-05-31
 
 | 设计类型 | 整合洞见 |
 |---|---|
-| 聚敛式设计 | 通过比较两类数据库来更全面地理解[[Research Problem\|研究问题]] |
+| [[Convergent Design\|聚敛式设计]] | 通过比较两类数据库来更全面地理解[[Research Problem\|研究问题]] |
 | [[Explanatory Sequential Design\|解释性序列设计]] | 用质性后续数据进一步解释量化结果 |
 | [[Exploratory Sequential Design\|探索性序列设计]] | 先质性探索再开发或改进量化测量工具 |
 | 复杂设计 | 将质性、量化或两者数据嵌入框架或过程以丰富该框架 |

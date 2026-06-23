@@ -63,7 +63,7 @@ updated: 2026-06-19
 Ch.7 以三种[[Research Purpose|研究目的]]为例，展示了目的适配性的具体运作（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.118]]）：
 
 > [!feature] 三情境-设计适配
-> - **绘制领域全貌或做出可推广论断** → 调查方法配合[[Random Sampling|分层抽样]]
+> - **绘制领域全貌或做出可推广论断** → 调查方法配合[[Stratified Sampling|分层抽样]]
 > - **评估特定干预的效果** → 实验或行动研究模型
 > - **对特定情境或群体进行深入理解** → [[Ethnography|民族志]]模型
 

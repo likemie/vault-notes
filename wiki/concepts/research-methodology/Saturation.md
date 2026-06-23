@@ -37,7 +37,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 饱和（Saturation）是[[Qualitative Research|质性研究]]中确定样本量的一种概念标准：当收集新鲜数据不再引发新的洞见或揭示新的主题时，即类别（或主题）已达到饱和，此时可以停止收集数据。这一概念源自[[Grounded Theory|扎根理论]]（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p.198）。
+> 饱和（Saturation）是[[Qualitative Research|质性研究]]中确定[[Sample Size Determination|样本量]]的一种概念标准：当收集新鲜数据不再引发新的洞见或揭示新的主题时，即类别（或主题）已达到饱和，此时可以停止收集数据。这一概念源自[[Grounded Theory|扎根理论]]（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p.198）。
 
 > [!quote]
 > "One stops collecting data when the categories (or themes) are saturated, that is, when gathering fresh data no longer sparks new insights or reveals new themes."（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p.198）
@@ -45,7 +45,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs 预设样本量 — 预设样本量（如叙述研究 1-2 人、[[Phenomenology|现象学]] 3-10 人）是事前确定的粗略估计；饱和是事后判断的标准，两者在[[Qualitative Research|质性研究]]中都是可行的样本量确定方式。Creswell & Creswell（2022, Ch9）指出两种方法同样有效。
+> - vs 预设[[Sample Size Determination|样本量]] — 预设样本量（如叙述研究 1-2 人、[[Phenomenology|现象学]] 3-10 人）是事前确定的粗略估计；饱和是事后判断的标准，两者在[[Qualitative Research|质性研究]]中都是可行的样本量确定方式。Creswell & Creswell（2022, Ch9）指出两种方法同样有效。
 > - vs 统计功效 — 量化的功效分析通过统计计算预先确定样本量以检测特定[[Effect Size|效应量]]；饱和是质性研究的对应方式，但基于信息丰富程度而非统计检测能力。
 
 ## 适用场景

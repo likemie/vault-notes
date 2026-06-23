@@ -37,7 +37,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> [[Non-probability Sampling|配额抽样]]（Quota Sampling）是[[Non-probability Sampling|非概率抽样]]中对应[[Stratified Sampling|分层抽样]]的方法，力求按总体中的比例代表显著特征（层，strata）。与[[Random Sampling|分层抽样]]的关键区别在于：层内个体的选择不是随机的，而是由研究者根据可得性和配额要求进行。
+> 配额抽样（Quota Sampling）是[[Non-probability Sampling|非概率抽样]]中对应[[Stratified Sampling|分层抽样]]的方法，力求按总体中的比例代表显著特征（层，strata）。与分层抽样的关键区别在于：层内个体的选择不是随机的，而是由研究者根据可得性和配额要求进行。
 
 > [!method-scope] 方法范围
 > - **研究对象**：已知关键特征分布的总体
@@ -65,11 +65,11 @@ updated: 2026-06-22
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **层数膨胀**：层数越多，[[Sample Size Determination|样本量]]呈几何级增长。[[Non-probability Sampling|配额抽样]]中层数应尽量少。
+> - **层数膨胀**：层数越多，[[Sample Size Determination|样本量]]呈几何级增长。配额抽样中层数应尽量少。
 > - **非随机选择**：层内个体的非随机选择可能引入未知偏差。
 > - **比例不确定性**：若总体比例未知，需试点调查确定——试点数据本身可能有[[Sampling Error|抽样误差]]。
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍[[Non-probability Sampling|配额抽样]]的三步程序和最小[[Sample Size Determination|样本量]]计算。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍配额抽样的三步程序和最小[[Sample Size Determination|样本量]]计算。

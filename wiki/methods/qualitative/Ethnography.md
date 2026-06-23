@@ -52,7 +52,7 @@ updated: 2026-05-30
 > [!example]
 > - 确定一个文化群体或共享文化的群体作为研究对象。
 > - 进入研究[[Champ|场域]]并建立信任关系（rapport）。
-> - 通过参与式观察（participant observation）和[[Qualitative Interview|深度访谈]]长时间在现场收集数据。
+> - 通过参与式观察（[[Participant Observation]]）和[[Qualitative Interview|深度访谈]]长时间在现场收集数据。
 > - 关注群体的共享信念、价值观、行为模式、语言和物质文化。
 > - 生成关于该文化群体的整体性描述（holistic description）。
 > - 研究者需要反思自身文化背景如何影响对研究群体的理解（[[Reflexivity|反身性]]）。
@@ -68,7 +68,7 @@ updated: 2026-05-30
 > - **对比问题（contrast questions）**：将该文化群体与其他文化群体进行比较
 > - **验证性问题（verification questions）**：用于检验数据准确性
 
-> [!note]- 批判民族志的研究问题
+> [!note]- [[Critical Ethnography|批判民族志]]的研究问题
 > 在批判民族志（critical ethnography）中，[[Research Question|研究问题]]可建立在已有文献体系之上，成为"工作指南而非被证实的真理"（Thomas, 1993，引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ## 适用场景

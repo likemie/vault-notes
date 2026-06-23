@@ -56,7 +56,7 @@ updated: 2026-06-22
 
 > [!method-fit] 适用判断
 > - **适合使用**：研究涉及多个交叉维度且需要确保所有组合均有覆盖。
-> - **谨慎使用**：维度过多时交叉格数量爆炸——维度抽样与[[Non-probability Sampling|配额抽样]]一样受层数膨胀约束。
+> - **谨慎使用**：维度过多时交叉格数量爆炸——维度抽样与[[Quota Sampling|配额抽样]]一样受层数膨胀约束。
 > - **不适合使用**：只需关注单一维度或少数特征时——[[Quota Sampling|配额抽样]]更简洁。
 
 ## 局限性
@@ -68,4 +68,4 @@ updated: 2026-06-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为[[Non-probability Sampling|配额抽样]]的细化方法。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍维度抽样作为[[Quota Sampling|配额抽样]]的细化方法。

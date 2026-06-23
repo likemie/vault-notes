@@ -30,7 +30,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 倒三角[[Literature Search|文献检索]]（Inverted Triangle [[Literature Review|literature search]]）是 Creswell 提出的一种文献检索启发法，用于应对研究生常见的困境——"我的题目没有人研究过"。其核心思路是：当计划的学术研究过于狭窄而找不到直接相关的文献时，从窄到宽逐层拓宽检索范围，寻找间接相关的研究，最终以一般性文献总结开头、以接近计划研究的狭窄文献收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+> 倒三角[[Literature Search|文献检索]]（Inverted Triangle literature search）是 Creswell 提出的一种文献检索启发法，用于应对研究生常见的困境——"我的题目没有人研究过"。其核心思路是：当计划的学术研究过于狭窄而找不到直接相关的文献时，从窄到宽逐层拓宽检索范围，寻找间接相关的研究，最终以一般性文献总结开头、以接近计划研究的狭窄文献收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 ## 视觉隐喻
 

@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 > [!abstract] 预注册应包含的内容
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, pp. 443–444)]] 提出预注册应包含：
-> 1. **研究设计**：实验/准实验、[[Random Assignment|随机化]]单位、样本量
+> 1. **研究设计**：实验/准实验、[[Random Assignment|随机化]]单位、[[Sample Size Determination|样本量]]
 > 2. **结果测量**：预先指定的主要和次要结果[[Variable|变量]]
 > 3. **分析计划**：预先指定的统计模型和分析方法
 > 4. **[[Counterfactual|反事实]]条件描述**：控制组的具体情况

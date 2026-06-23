@@ -86,7 +86,7 @@ updated: 2026-06-21
 ## 经典案例
 
 > [!case] Turner (1972) *The Mountain People*（后载型）
-> 对乌干达东北部 Ik 部落的长期田野调查。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体[[Hypothesis|研究假设]]——他本意是记录一个濒危文化，却在长期参与观察中目睹了饥饿如何系统性地瓦解社会纽带。这项研究的核心发现——Ik 社会崩溃的动力机制——完全是在田野过程中[[Emergence|涌现]]的，而非从预设问题出发。这正是后载型研究的标志性特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.125]]）。
+> 对乌干达东北部 Ik 部落的长期田野调查。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体[[Hypothesis|研究假设]]——他本意是记录一个濒危文化，却在长期[[Participant Observation|参与观察]]中目睹了饥饿如何系统性地瓦解社会纽带。这项研究的核心发现——Ik 社会崩溃的动力机制——完全是在田野过程中[[Emergence|涌现]]的，而非从预设问题出发。这正是后载型研究的标志性特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.125]]）。
 
 > [!case] Willis (1977) *Learning to Labour*（后载型）
 > 对英国一所工人阶级社区中学里12名男生的长期[[Ethnography|民族志研究]]，核心关切是工人阶级孩子如何得到工人阶级工作。Willis 通过深入学校日常生活，追踪一群 lads 如何发展反学校文化。然而他的关键发现是：这种文化反抗的意外后果恰恰是将他们锁定在工人阶级位置。Willis 进入田野前仅有方向性关切（阶级再生产），具体的[[Research Question|研究问题]]和解释机制是在田野过程中逐渐澄清的，同样体现了后载型的涌现特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.125]]）。

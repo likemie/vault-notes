@@ -89,7 +89,7 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 
 不同质性路径对核心问题的具体形式有不同要求（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
-- **[[Ethnography|民族志]]**：Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。批判民族志的[[Research Question|研究问题]]可建立在已有文献体系之上（Thomas, 1993）。
+- **[[Ethnography|民族志]]**：Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。[[Critical Ethnography|批判民族志]]的[[Research Question|研究问题]]可建立在已有文献体系之上（Thomas, 1993）。
 - **[[Phenomenology|现象学]]**：问题通常不加特定文献引用或问题类型学地宽泛陈述。Moustakas (1994) 建议询问参与者经历了什么，以及在什么情境下经历。现象学示例："What is it like for a mother to live with a teenage child who is dying of cancer?"（Nieswiadomy, 1993, p.151）
 - **[[Grounded Theory|扎根理论]]**：问题指向生成关于某一过程的理论，如"在医院环境中，照顾者和病人如何互动？"
 - **案例研究**：问题可包括对案例的描述以及研究案例中[[Emergence|涌现]]的主题

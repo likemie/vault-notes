@@ -66,7 +66,7 @@ updated: '2026-05-18'
 >
 > - **研究设计**（实验 vs. 准实验）：开发者的准实验比例更高（51% vs. 15%），但控制后效应仍在
 > - **结果测量类型**（研究者/开发者自编 vs. 独立测量）
-> - **样本量**（开发者[[Study Population and Sample|研究样本]]量更小，均值 392 vs. 659）
+> - **[[Sample Size Determination|样本量]]**（开发者[[Study Population and Sample|研究样本]]量更小，均值 392 vs. 659）
 > - **年级段、学科、项目类型、交付方式、是否教育技术**
 
 
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 在 28 个同时有开发者和独立研究的干预中，27/28 的开发者的平均[[Effect Size|效应量]]方向性更大([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 438]])
-> - 开发者研究更倾向使用[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、研究者/开发者自编测量（29% vs. 8%）和更小样本量（均值 392 vs. 659）([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 434–436]])
+> - 开发者研究更倾向使用[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、研究者/开发者自编测量（29% vs. 8%）和更小[[Sample Size Determination|样本量]]（均值 392 vs. 659）([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 434–436]])
 > - 开发者研究平均发表年份更早([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 436]])
 > - 敏感性分析（移除研究生研究、仅实验设计、仅准实验设计）均未改变开发者效应的大小和方向([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 441]])
 

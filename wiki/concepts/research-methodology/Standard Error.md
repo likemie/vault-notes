@@ -87,7 +87,7 @@ updated: 2026-06-22
 ## 概念辨析
 
 > [!contrast-table] [[School Effectiveness|SE]] vs 邻近概念
-> | 维度 | 标准误（SE） | 标准差（SD） | [[Sampling Error\|抽样误差]] |
+> | 维度 | [[Sampling Error\|标准误]]（SE） | 标准差（SD） | [[Sampling Error\|抽样误差]] |
 > |---|---|---|---|
 > | 描述对象 | 样本统计量的估计精度 | 原始数据的离散程度 | 样本值与总体值的具体差距 |
 > | 公式 | $SE = SD/\sqrt{N}$ | $SD = \sqrt{\sum(x_i - \bar{x})^2/(n-1)}$ | $\bar{x} - \mu$ |

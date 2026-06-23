@@ -85,7 +85,7 @@ updated: '2026-05-18'
 > Peterson 的整合方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制假设以进行实验测试([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])。
 
 
-> [!abstract] 网络化改进社区（Networked Improvement Communities）
+> [!abstract] [[Snowball Sampling|网络化]]改进社区（Networked Improvement Communities）
 > 网络化改进社区是改进科学在教育中的核心组织形式（Bryk et al., 2015）。在社区中，学校群组（或其他组织，如社区学院）围绕一个**共同商定的问题**协作，分享关于他们正在做出的小改变的所学。某些改变逐渐被所有伙伴接受为"改进"，其他改变则在尝试后因失败被拒绝。随时间推移，社区发展出产生更好学生成果的改进实践([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 
 
