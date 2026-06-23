@@ -58,6 +58,7 @@ import datetime as _dt
 import re
 import shutil
 import sys
+from urllib.parse import quote
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -83,6 +84,7 @@ EPUB_VIEWER_SCRIPTS = (
     '<script defer src="/static/epub-loader.js"></script> '
     '<script defer src="/static/epub-init.js"></script>'
 )
+ASSET_BASE_URL = "https://img.mylikemie.icu"
 
 
 def rel(path: Path) -> str:
@@ -90,6 +92,31 @@ def rel(path: Path) -> str:
         return path.relative_to(ROOT).as_posix()
     except Exception:
         return path.as_posix()
+
+
+def asset_url_for_path(path: Path) -> str:
+    rel_path = rel(path)
+    encoded = "/".join(quote(part, safe="-_.!~*'()") for part in rel_path.split("/"))
+    return f"{ASSET_BASE_URL}/{encoded}"
+
+
+def pdf_iframe(url: str) -> str:
+    return (
+        '<iframe\n'
+        f'  src="{url}"\n'
+        '  width="100%"\n'
+        '  height="820"\n'
+        '  style="border: 1px solid #ddd; border-radius: 8px;"\n'
+        '></iframe>'
+    )
+
+
+def epub_viewer(viewer_id: str, epub_path: str, *, height: int = EPUB_VIEWER_HEIGHT) -> str:
+    return (
+        f'<div id="{viewer_id}" style="width:100%;height:{height}px;'
+        f'border:1px solid rgb(204,204,204);" data-epub="{epub_path}"></div> '
+        f"{EPUB_VIEWER_SCRIPTS}"
+    )
 
 
 def die(msg: str) -> None:
@@ -215,9 +242,19 @@ def dump_minimal_source_frontmatter(citation: str, processed_date: str) -> str:
     ])
 
 
-def source_record_content(record_name: str, pdf_filename: str, *, citation: str = "", processed_date: Optional[str] = None) -> str:
+def source_record_content(
+    record_name: str,
+    pdf_filename: str,
+    *,
+    citation: str = "",
+    processed_date: Optional[str] = None,
+    pdf_path: Optional[Path] = None,
+) -> str:
     fm = dump_minimal_source_frontmatter(citation, processed_date or today())
-    return f"{fm}\n\n# {record_name}\n\n![[{pdf_filename}]]\n"
+    body = f"# {record_name}\n\n![[{pdf_filename}]]\n"
+    if pdf_path:
+        body += f"\n\n\n{pdf_iframe(asset_url_for_path(pdf_path))}\n"
+    return f"{fm}\n\n{body}"
 
 
 def create_article_or_report(args: argparse.Namespace, kind: str) -> None:
@@ -234,6 +271,7 @@ def create_article_or_report(args: argparse.Namespace, kind: str) -> None:
         pdf_path.name,
         citation=args.citation or "",
         processed_date=args.processed_date or today(),
+        pdf_path=pdf_path,
     )
     write_text(md_path, content, overwrite=args.overwrite, dry_run=args.dry_run)
     info(f"Created minimal {kind} source record: {rel(md_path)}")
@@ -271,7 +309,15 @@ def argument_default_record_name(argument_path: Path) -> str:
     return validate_record_name(stem)
 
 
-def update_source_record_text(old_text: str, *, new_name: str, citation: str, pdf_filename: str, processed_date: Optional[str]) -> str:
+def update_source_record_text(
+    old_text: str,
+    *,
+    new_name: str,
+    citation: str,
+    pdf_filename: str,
+    processed_date: Optional[str],
+    pdf_path: Optional[Path] = None,
+) -> str:
     fm, raw_fm, body = parse_frontmatter(old_text)
     if processed_date is None:
         processed_date = str(fm.get("processed_date") or today())
@@ -280,7 +326,10 @@ def update_source_record_text(old_text: str, *, new_name: str, citation: str, pd
     new_fm = dump_minimal_source_frontmatter(citation, processed_date)
 
     # Keep the source record body intentionally minimal. This also removes older complex sections.
-    return f"{new_fm}\n\n# {new_name}\n\n![[{pdf_filename}]]\n"
+    body = f"# {new_name}\n\n![[{pdf_filename}]]\n"
+    if pdf_path:
+        body += f"\n\n\n{pdf_iframe(asset_url_for_path(pdf_path))}\n"
+    return f"{new_fm}\n\n{body}"
 
 
 def replace_source_link_in_argument(text: str, old_name: str, new_name: str) -> str:
@@ -363,6 +412,7 @@ def finalize_source(args: argparse.Namespace) -> None:
         citation=citation,
         pdf_filename=pdf_filename,
         processed_date=args.processed_date,
+        pdf_path=new_pdf_path,
     )
 
     # Write source content before rename if same file; otherwise write after deciding path.
@@ -461,19 +511,20 @@ def create_book_source_record(
     processed_date: str,
     overwrite: bool,
     dry_run: bool,
+    embedded_path: Optional[Path] = None,
 ) -> None:
     fm = book_source_frontmatter(citation, processed_date, part_of)
     body = f"# {record_title}\n"
     if embedded_file:
         if embedded_file.lower().endswith(".epub"):
-            epub_path = f"/books/{md_path.parent.name}/{embedded_file}"
-            body += (
-                f'\n<div id="epub-viewer" style="width:100%;height:{EPUB_VIEWER_HEIGHT}px;'
-                f'border:1px solid rgb(204,204,204);" data-epub="{epub_path}"></div> '
-                f"{EPUB_VIEWER_SCRIPTS}\n"
-            )
+            local_epub_path = f"/books/{md_path.parent.name}/{embedded_file}"
+            asset_path = embedded_path or (md_path.parent / embedded_file)
+            body += f"\n{epub_viewer('epub-viewer', local_epub_path)}\n"
+            body += f"\n\n{epub_viewer('epub-viewer-online', asset_url_for_path(asset_path), height=600)}\n"
         else:
+            asset_path = embedded_path or (md_path.parent / embedded_file)
             body += f"\n![[{embedded_file}]]\n"
+            body += f"\n\n{pdf_iframe(asset_url_for_path(asset_path))}\n"
     content = f"{fm}\n\n{body}"
     write_text(md_path, content, overwrite=overwrite, dry_run=dry_run)
 
@@ -491,6 +542,7 @@ def monograph_pdf(args: argparse.Namespace) -> None:
         record_title=record_name,
         citation=args.citation or "",
         embedded_file=pdf_path.name,
+        embedded_path=pdf_path,
         part_of=None,
         processed_date=args.processed_date or today(),
         overwrite=args.overwrite,
@@ -511,6 +563,7 @@ def monograph_epub(args: argparse.Namespace) -> None:
         record_title=record_name,
         citation=args.citation or "",
         embedded_file=epub_path.name,
+        embedded_path=epub_path,
         part_of=None,
         processed_date=args.processed_date or today(),
         overwrite=args.overwrite,
@@ -523,19 +576,23 @@ def edited_volume_overview(args: argparse.Namespace) -> None:
     record_name = validate_record_name(args.record_name or book_dir.name)
     md_path = book_dir / f"{record_name}.md"
     embedded_file = None
+    embedded_path = None
     if getattr(args, "file", None):
         src = Path(args.file)
         validate_file(src, {".pdf"})
         pdf_path = book_dir / f"{record_name}.pdf"
         move_or_copy(src, pdf_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
         embedded_file = pdf_path.name
+        embedded_path = pdf_path
     elif md_path.with_suffix(".pdf").exists():
-        embedded_file = md_path.with_suffix(".pdf").name
+        embedded_path = md_path.with_suffix(".pdf")
+        embedded_file = embedded_path.name
     create_book_source_record(
         md_path=md_path,
         record_title=record_name,
         citation=args.citation or "",
         embedded_file=embedded_file,
+        embedded_path=embedded_path,
         part_of=None,
         processed_date=args.processed_date or today(),
         overwrite=args.overwrite,
@@ -549,19 +606,23 @@ def book_chapter(args: argparse.Namespace) -> None:
     md_path = book_dir / f"{record_name}.md"
     part_of = ensure_wikilink(args.part_of, "--part-of") if args.part_of else None
     embedded_file = None
+    embedded_path = None
     if getattr(args, "file", None):
         src = Path(args.file)
         validate_file(src, {".pdf"})
         pdf_path = book_dir / f"{record_name}.pdf"
         move_or_copy(src, pdf_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
         embedded_file = pdf_path.name
+        embedded_path = pdf_path
     elif md_path.with_suffix(".pdf").exists():
-        embedded_file = md_path.with_suffix(".pdf").name
+        embedded_path = md_path.with_suffix(".pdf")
+        embedded_file = embedded_path.name
     create_book_source_record(
         md_path=md_path,
         record_title=record_name,
         citation=args.citation or "",
         embedded_file=embedded_file,
+        embedded_path=embedded_path,
         part_of=part_of,
         processed_date=args.processed_date or today(),
         overwrite=args.overwrite,

@@ -37,6 +37,7 @@ import unicodedata
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
+from urllib.parse import quote
 
 
 def find_vault_root() -> Path:
@@ -97,6 +98,7 @@ INDEX_JSON = WIKI_DIR / "index.json"
 CITATION_DIR = ROOT / "citation"
 CITATION_FULL_JSON = CITATION_DIR / "citation_full.json"
 CITATION_AMBIGUOUS_JSON = CITATION_DIR / "citation_ambiguous.json"
+ASSET_BASE_URL = "https://img.mylikemie.icu"
 
 GENERATED_INDEX_FILES = {
     "index.md",
@@ -377,6 +379,12 @@ def rel(path: Path) -> str:
         return path.relative_to(ROOT).as_posix()
     except Exception:
         return path.as_posix()
+
+
+def asset_url_for_path(path: Path) -> str:
+    rel_path = rel(path)
+    encoded = "/".join(quote(part, safe="-_.!~*'()") for part in rel_path.split("/"))
+    return f"{ASSET_BASE_URL}/{encoded}"
 
 
 def iter_md_files(base: Path) -> Iterable[Path]:
@@ -1190,6 +1198,10 @@ def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
         target = extract_wikilink_target(m.group(1))
         if target.lower().endswith(".epub"):
             issues.append(Issue("WARN", rel(path), "EPUB source records should use the epub.js viewer instead of Obsidian embed", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_EPUB_OBSIDIAN_EMBED"))
+        elif target.lower().endswith(".pdf"):
+            expected_asset = asset_url_for_path(path.parent / target)
+            if expected_asset not in clean_body:
+                issues.append(Issue("WARN", rel(path), f"PDF source record missing NAS iframe URL: {expected_asset}", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_PDF_NAS_URL_MISSING"))
 
     if is_book_source:
         sibling_epub = path.with_suffix(".epub")
@@ -1200,9 +1212,17 @@ def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
                 issues.append(Issue("WARN", rel(path), "book EPUB source record missing data-epub viewer", code="SOURCE_EPUB_VIEWER_MISSING"))
             elif sibling_epub.exists():
                 expected = f"/books/{path.parent.name}/{sibling_epub.name}"
+                expected_asset = asset_url_for_path(sibling_epub)
+                seen_asset = False
                 for m in viewer_matches:
-                    if m.group(1) != expected:
-                        issues.append(Issue("WARN", rel(path), f"book EPUB viewer path should be {expected!r}", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_EPUB_VIEWER_PATH"))
+                    viewer_path = m.group(1)
+                    if viewer_path == expected_asset:
+                        seen_asset = True
+                        continue
+                    if viewer_path != expected:
+                        issues.append(Issue("WARN", rel(path), f"book EPUB viewer path should be {expected!r} or {expected_asset!r}", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_EPUB_VIEWER_PATH"))
+                if not seen_asset:
+                    issues.append(Issue("WARN", rel(path), f"book EPUB source record missing NAS viewer URL: {expected_asset}", code="SOURCE_EPUB_NAS_URL_MISSING"))
 
 
 def check_path_and_index_consistency(path: Path, data: Optional[Dict[str, Any]], path_to_title: Dict[str, str], issues: List[Issue]) -> None:

@@ -61,7 +61,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 - Table 指作者标为 table 的材料，也包括截图表格和扫描表格。table 只要可读，就必须复刻为 Markdown 表格；只有完全无法读取时才写图片占位。
 - 占位跟随正文叙述放在最相关段落之后，不堆在开头；使用 Markdown 嵌入 `![](...jpg)`，不要包在任何注释中；可见标题使用图号和图名。
 - Figure 或无法读取的 table 主要服务于文献整体论证时，放在当前 Argument 的对应位置；主要服务于具体 Concept / Theory / Method / Fact / Person 时，放在对应条目中，并在 Argument 页简要提及或链接该条目。
-- 普通论文／报告若需要图片占位或后续补图，最终 source record 和 PDF 应放入 `sources/<论文命名>/`，并创建 `sources/<论文命名>/figures/`；无图时仍可保持 `sources/<论文命名>.md` 和 `sources/<论文命名>.pdf` 的扁平结构。
+- 普通论文／报告若需要图片占位或后续补图，最终 source record、本地 PDF 和 figures 目录应放入 `sources/<论文命名>/`；无图时仍可保持 `sources/<论文命名>.md` 和 `sources/<论文命名>.pdf` 的扁平结构。PDF 本地副本不进 git，发布页使用 NAS URL。
 
 普通论文／报告 figure 占位：
 
@@ -70,7 +70,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 > ![](https://img.mylikemie.icu/sources/<论文命名>/figures/<论文命名>_FigX_Descriptive_Name.jpg)
 ```
 
-说明：`<论文命名>` 由 AI 在创建 Argument 文件名前确定，通常等于最终 Argument 文件名去掉 `Argument_` 后的部分，如 `Argument_Simpson_2019_ERE.md` 对应 `Simpson_2019_ERE`。命名前要先判断是否有需要保留占位的 figure 或无法读取的 table；需要占位时使用 `source_record.py finalize --rename --with-figures`，让 source record、PDF 和 `figures/` 落入 `sources/<论文命名>/`。
+说明：`<论文命名>` 由 AI 在创建 Argument 文件名前确定，通常等于最终 Argument 文件名去掉 `Argument_` 后的部分，如 `Argument_Simpson_2019_ERE.md` 对应 `Simpson_2019_ERE`。命名前要先判断是否有需要保留占位的 figure 或无法读取的 table；需要占位时使用 `source_record.py finalize --rename --with-figures`，让 source record、本地 PDF 和 `figures/` 落入 `sources/<论文命名>/`，并在 source record 中生成对应 NAS iframe。
 
 书籍 figure 占位：
 
@@ -315,10 +315,11 @@ cd /Users/shaoyangwu/Documents/MyNotes
 Source record 不是完整文献数据库条目，而是来源入口页。
 
 - source record frontmatter 只保留 `citation`、`extracted_to`、`processed_date`；书籍任务可按专项 schema 额外保留必要的 `part_of`。
-- source record 正文只保留一级标题和 PDF / EPUB 嵌入；不要写摘要、关键词、研究问题、作者信息、期刊信息等。
+- source record 正文只保留一级标题、本地 PDF / EPUB 阅读入口和 NAS 在线阅读入口；不要写摘要、关键词、研究问题、作者信息、期刊信息等。
 - `citation` 初始可为空；完整 citation 应在 Argument 页完成后由 `source_record.py finalize` 从 Argument frontmatter 回填。
 - `extracted_to` 始终由 `wiki_relations.py` 反向同步，AI 和 `source_record.py finalize` 不手动维护。
-- source record 文件名、一级标题、PDF 文件名应保持一致。
+- source record 文件名、一级标题、PDF / EPUB 文件名应保持一致；本地文件保留给 Obsidian 阅读，但不进入 git。
+- NAS 在线地址统一按 vault 相对路径映射到 `https://img.mylikemie.icu/`：例如 `sources/A.pdf` → `https://img.mylikemie.icu/sources/A.pdf`，`books/B/Book.pdf` → `https://img.mylikemie.icu/books/B/Book.pdf`。
 - source record 不是普通 wiki 条目，不写 `type`、`subtype`、`tags`、`status`、`related_*`。
 
 ### Source Record Commands
@@ -329,7 +330,8 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 |---|---|---|
 | 期刊论文 | `article` | `sources/`，有图时 finalize 后为 `sources/<论文命名>/` |
 | 报告／政策文件／白皮书 | `report` | `sources/`，有图时 finalize 后为 `sources/<论文命名>/` |
-| 专著整本书 source | `monograph` | `books/<book-folder>/` |
+| 专著整本书 PDF source | `monograph-pdf` | `books/<book-folder>/` |
+| 专著整本书 EPUB source | `monograph-epub` | `books/<book-folder>/` |
 | 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
 | 从 Argument 页回填 source record | `finalize` | `sources/` 或 `books/<book-folder>/` |
@@ -350,6 +352,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 ### Source Files
 
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
+- `sources/**/*.pdf`、`books/**/*.pdf`、`books/**/*.epub` 是本地阅读副本；它们应由 `.gitignore` 排除，并同步到 NAS 后由 source record 中的 `https://img.mylikemie.icu/...` 地址发布。
 - 普通论文或报告先确定最终 `<论文命名>`，Argument 的 `## 来源` 可先写 `[[<论文命名>]]`；source record 在 Argument 页写好后用 `source_record.py article` 或 `source_record.py report` 生成。
 - 普通论文或报告处理完成并写好 Argument 页后，再用 `source_record.py finalize --rename` 回填 citation。
 - 若普通论文或报告有 figure 或无法读取的 table，使用 `source_record.py finalize --rename --with-figures`，并按「Figure 和 Table 处理」写图片占位；可读 table 必须复刻为 Markdown 表格。

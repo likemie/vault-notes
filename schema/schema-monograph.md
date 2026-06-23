@@ -91,6 +91,8 @@ wiki/arguments/books/<book-folder>/
 books/<book-folder>/<book-folder>.<ext>
 ```
 
+PDF / EPUB 是本地阅读副本，保留在 `books/<book-folder>/`，但不进入 git；同一路径的文件需要同步到 NAS，并按 `https://img.mylikemie.icu/books/<book-folder>/<文件名>` 发布。`source_record.py` 会同时生成本地阅读入口和 NAS 在线阅读入口。
+
 PDF：
 
 ```bash
@@ -109,10 +111,11 @@ EPUB：
   --citation "Author, A. A. (Year). Book title. Publisher."
 ```
 
-EPUB source record 使用已配置的 epub.js 阅读器容器：
+EPUB source record 使用已配置的 epub.js 阅读器容器；本地 viewer 指向 vault 内文件，在线 viewer 指向 NAS：
 
 ```html
 <div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="/books/<book-folder>/<book-folder>.epub"></div>
+<div id="epub-viewer-online" style="width:100%;height:600px;border:1px solid rgb(204,204,204);" data-epub="https://img.mylikemie.icu/books/<book-folder>/<book-folder>.epub"></div>
 ```
 
 ---
