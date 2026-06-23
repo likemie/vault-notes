@@ -10,7 +10,7 @@ summary: "通过操纵处理条件、比较处理组与控制组的结果差异�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

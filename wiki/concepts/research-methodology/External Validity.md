@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,13 +25,8 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
   - "[[Ecological Validity]]"
-  - "[[Class Size]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
-  - "[[Catalytic Validity]]"
-  - "[[Interpretive Validity]]"
-  - "[[Evaluative Validity]]"
-  - "[[Effect Size]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Paradigm Wars]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -40,7 +35,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
-  - "[[Random Assignment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -88,45 +82,25 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ## 量化研究中的外部效度
 
-详细的威胁清单、案例和应对策略见 [[Threats to External Validity|外部效度威胁]] 条目。以下呈现两个互补的经典框架。
+Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立了经典框架，Creswell & Guetterman (2018) 按交互类型将其重组为三种威胁。详细的威胁清单、案例和应对策略见 [[Threats to External Validity|外部效度威胁]] 条目。
 
-### Campbell & Stanley 等经典框架
-
-基于 Campbell & Stanley (1963)、Bracht & Glass (1968)、Hammersley & Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作，量化外部效度面临九种主要威胁（pp.168–171）：
-
-> [!challenges] 九种量化外部效度威胁
-> - **未能明确描述自[[Variable|变量]]** 除非自变量得到充分描述，未来复制研究条件几乎不可能
-> - **可用总体与[[Study Population and Sample|目标总体]]缺乏代表性** 参与研究者可能对可用总体有代表性，但对目标总体没有——抽样或[[Random Assignment|随机化]]不足
-> - **[[Hawthorne Effect|霍桑效应]]** 受试者因意识到被研究而改变行为——他们的行为不再是自然行为
-> - **因变量[[Operationalization|操作化]]不充分** 操作化必须在非研究情境中也具有效度。例如职业选择的纸笔问卷在大学生实际就业决策方面可能几乎没有效度
-> - **对实验条件的敏感化/反应性** 前测可能改变受试者对干预变量的敏感性——后测表现反映的可能是对前测的记忆，而非干预的真实效果
-> - **外来因素与实验处理的交互效应** 多种混淆因素与处理之间的交互作用
-> - **工具的无效或不可靠** 使用产生不可信数据的工具
-> - **[[Ecological Validity|生态效度]]**（Ecological validity） 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983: 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题
-> - **多重处理效度** 同时或依次施加多种处理可能导致处理间交互效应，难以隔离特定处理的效果
+> [!ref-table] 量化外部效度威胁速查
+> | 威胁 | 来源框架 | 核心问题 |
+> |---|---|---|
+> | 自[[Variable\|变量]]描述不充分 | Campbell & Stanley | 未来无法复制研究条件 |
+> | 总体缺乏代表性 | Campbell & Stanley | 样本不代表[[Study Population and Sample\|目标总体]] |
+> | [[Hawthorne Effect\|霍桑效应]] | Campbell & Stanley | 受试者因被研究而改变行为 |
+> | 因变量[[Operationalization\|操作化]]不充分 | Campbell & Stanley | 测量在真实世界中缺乏效度 |
+> | 对实验条件敏感化 | Campbell & Stanley | 前测改变了受试者对干预的反应 |
+> | 外来因素交互效应 | Campbell & Stanley | 混淆因素与处理交互作用 |
+> | 工具无效或不可靠 | Campbell & Stanley | 数据本身不可信 |
+> | [[Ecological Validity\|生态效度]] | Campbell & Stanley | 一种情境的发现能否推广到另一情境 |
+> | 多重处理效度 | Campbell & Stanley | 多种处理交互效应难以隔离 |
+> | 选择 × 处理交互 | Creswell | 受试者特征过窄限制推广 |
+> | 情境 × 处理交互 | Creswell | 实验情境特殊限制推广 |
+> | 历史 × 处理交互 | Creswell | 时间特殊性限制推广 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 168–171)]]
-
----
-
-### Creswell 三威胁框架
-
-Creswell & Guetterman (2018) 将外部效度威胁按交互类型分为三种（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8, Table 8.6]]）：
-
-> [!dimension] Creswell 的三种外部效度威胁
-> - **选择与处理的交互作用**（Interaction of Selection and Treatment）
->   由于受试者特征范围过窄，无法推广到不具备这些特征的人群。应对：限制研究结论的范围，说明不可推广的群体；对有不同特征的群体进行额外实验。
-> - **情境与处理的交互作用**（Interaction of Setting and Treatment）
->   由于实验情境特征特殊，无法推广到其他情境中的个体。应对：在新情境中重复实验，检验是否产生相同结果。
-> - **历史与处理的交互作用**（Interaction of History and Treatment）
->   实验结果受特定时间限制，无法推广到过去或未来的情境。应对：在后续时间点复制研究，检验结果是否保持一致。
-
-> [!example]- Creswell 三类威胁的案例
-> **选择 × 处理**：一项在某精英私立学校中验证有效的新教学法，不能直接宣称对所有学校都有效。该校学生家庭背景优越、师资充足、[[Class Size|班级规模]]小——这些特征可能共同塑造了教学法的效果。在公立学校或农村学校中能否复制同样效果，需要额外研究来验证。
->
-> **情境 × 处理**：一项在设备先进、小班教学（每班 15 人）的实验室学校中验证有效的计算机辅助教学方案，未必能在设备陈旧、每班 45 人的普通公立学校中产生同样效果。情境不单是物理环境，也包括师生比、学校文化、社区支持等不可见的因素。只有在新情境中复制实验，才能确定结果的推广边界。
->
-> **历史 × 处理**：2020 年疫情期间进行的一项在线教学效果实验中，受试者处于被迫远程教学的非常态下，对在线学习的态度和投入度与常态时期可能完全不同。该实验结果不能自动推广到疫情结束之后的情境。在后续时间点复制研究，可以检验结果的时间稳定性。
 
 ---
 
@@ -144,15 +118,26 @@ Creswell & Guetterman (2018) 将外部效度威胁按交互类型分为三种（
 
 ### 质性研究中的外部效度威胁
 
-Lincoln & Guba (1985: 189, 300) 列出了自然主义研究的四种[[Threats to External Validity|外部效度威胁]]（p.172）：
+Lincoln & Guba (1985) 列出四种自然主义威胁，Onwuegbuzie & Leech (2006b) 扩展为十一项。详细清单见 [[Threats to External Validity|外部效度威胁]] 条目。
 
-> [!challenges] 自然主义研究的外部效度威胁（Lincoln & Guba）
-> - **选择效应**（selection effects） 所选择的研究[[Construct|构念]]实际上只与特定群体相关，却假设其广泛适用
-> - **情境效应**（setting effects） 结果很大程度上是其特定情境的函数——离开该情境后不再成立
-> - **历史效应**（history effects） 情境是由独特的历史环境达成的，因此不可比较——每个案例都是历史的独特产物
-> - **构念效应**（construct effects） 所用构念是特定群体特有的——例如在西方文化中开发的自尊量表可能在集体主义文化中有完全不同的含义
-
-Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究在以下十一个领域的外部效度威胁：[[Catalytic Validity|催化效度]]、行动效度（研究被利益相关者和决策者实际使用的程度）、调查效度（研究者的伦理严谨性和专业能力）、[[Interpretive Validity|解释效度]]、[[Evaluative Validity|评价效度]]、共识效度（有能力他人对研究解释的一致性）、总体/生态/时间可推广性、研究者偏差、反应性、顺序偏差和[[Effect Size|效应量]]（p.172）。
+> [!ref-table] 质性外部效度威胁速查
+> | 威胁 | 来源 | 核心问题 |
+> |---|---|---|
+> | 选择效应 | Lincoln & Guba | [[Construct\|构念]]只与特定群体相关 |
+> | 情境效应 | Lincoln & Guba | 结果是特定情境的函数 |
+> | 历史效应 | Lincoln & Guba | 情境由独特历史达成，不可比较 |
+> | 构念效应 | Lincoln & Guba | 构念是特定群体特有的 |
+> | [[Catalytic Validity\|催化效度]] | Onwuegbuzie & Leech | 研究对研究社群的赋权效果与推广 |
+> | 行动效度 | Onwuegbuzie & Leech | 发现被利益相关者实际使用的程度 |
+> | 调查效度 | Onwuegbuzie & Leech | 研究者的伦理严谨性与专业能力 |
+> | [[Interpretive Validity\|解释效度]] | Onwuegbuzie & Leech | 意义捕捉的情境特定性限制推广 |
+> | [[Evaluative Validity\|评价效度]] | Onwuegbuzie & Leech | 评价框架的跨情境适用性 |
+> | 共识效度 | Onwuegbuzie & Leech | 他人对解释的一致性影响推广 |
+> | 总体/生态/时间可推广性 | Onwuegbuzie & Leech | 推广与非推广边界的合理保持 |
+> | 研究者偏差 | Onwuegbuzie & Leech | 与内部效度威胁共享 |
+> | 反应性 | Onwuegbuzie & Leech | 情境改变效应与内部效度威胁共享 |
+> | 顺序偏差 | Onwuegbuzie & Leech | 问题顺序对结果可依赖性的影响 |
+> | [[Effect Size\|效应量]] | Onwuegbuzie & Leech | 质性分析中效应量缺失限制精确性 |
 
 Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 

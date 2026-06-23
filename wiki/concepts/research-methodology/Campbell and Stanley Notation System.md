@@ -8,7 +8,7 @@ aliases:
 summary: "Campbell和Stanley（1963）提出的用于图示实验设计的经典符号系统，以X、O、R和水平分隔线等符号表示处理、测量、随机分配和组间关系"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

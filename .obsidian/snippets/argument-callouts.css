@@ -11308,7 +11308,7 @@
   counter-increment: challenge-n;
   position: relative;
   font-size: 0.88em;
-  padding: 0.55rem 0.95rem 0.60rem 0.55rem;
+  padding: 0.55rem 0.95rem 0.60rem 2.10rem;
   border: 1px solid rgba(var(--ch), 0.18);
   border-left: 3px solid rgb(var(--ch));
   border-radius: 8px;
@@ -11380,19 +11380,19 @@
 .callout[data-callout="challenges"] .callout-content > ul > li::before {
   content: counter(challenge-n);
   position: absolute;
-  left: 0.50rem;
+  left: 0.42rem;
   top: 0.52rem;
-  width: 1.38rem;
-  height: 1.38rem;
+  width: 1.32rem;
+  height: 1.32rem;
   border-radius: 50%;
   background: rgb(var(--ch));
   color: #fff;
   font-size: 0.62em;
   font-weight: 900;
   text-align: center;
-  line-height: 1.38rem;
+  line-height: 1.32rem;
   box-shadow: 0 0 0 2px var(--background-primary),
-              0 0 0 3.5px rgba(var(--ch), 0.30);
+              0 0 0 3px rgba(var(--ch), 0.30);
   transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
               box-shadow 0.18s ease;
 }
@@ -11425,7 +11425,7 @@
 /* ── 标题行：缩进清开徽章 ────────────────────────────────── */
 .callout[data-callout="challenges"] .callout-content li > strong:first-child {
   display: block;
-  padding-left: 1.72rem;
+  padding-left: 2.05rem;
   font-size: 0.92em;
   font-weight: 760;
   color: rgb(175, 52, 14);
@@ -11434,7 +11434,7 @@
 }
 .callout[data-callout="challenges"] .callout-content li > p:first-child {
   margin: 0 0 0.20rem;
-  padding-left: 1.72rem;
+  padding-left: 2.05rem;
   padding-bottom: 0.18rem;
   border-bottom: 1px solid rgba(var(--ch), 0.16);
   font-weight: 750;
