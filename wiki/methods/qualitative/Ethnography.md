@@ -9,7 +9,7 @@ summary: "一种源自人类学和社会学的质性研究设计，通过在自�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"

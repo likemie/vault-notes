@@ -9,7 +9,7 @@ summary: "一种源自人文学科的质性研究设计，通过研究个体生�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

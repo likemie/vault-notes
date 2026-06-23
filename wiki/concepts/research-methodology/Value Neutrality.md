@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值与偏见、保持客观中立的认识论规范；实证主义视其为科学基石，而批判理论与循证教育批判则指出其声称本身即是维护现状或推行数字治理的意识形态立场。"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
