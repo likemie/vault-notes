@@ -4,3 +4,9 @@ __pycache__/
 .venv/
 .pytest_cache/
 scratch/
+
+# Keep local PDF reading copies out of git; PDFs are served from NAS.
+sources/**/*.pdf
+sources/**/*.PDF
+books/**/*.pdf
+books/**/*.PDF
