@@ -11348,10 +11348,30 @@
 .callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(7):last-child) > li { grid-column: span 3; }
 .callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5),
 .callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5) { grid-column: span 2; }
-/* 奇数项：最后一个铺满 */
+/* 奇数项：最后一个铺满（通用） */
 .callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(odd):last-child) > li:last-child,
 .callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
   grid-column: 1 / -1;
+}
+
+/* 9 项 → 3+3+3（覆盖通用铺满规则） */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(9):last-child) > li,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(9):last-child) > li {
+  grid-column: span 2;
+}
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(9):last-child) > li:last-child,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(9):last-child) > li:last-child {
+  grid-column: span 2;
+}
+
+/* 11 项 → 2+2+3+2+2（中间行 span 2，覆盖通用铺满规则） */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(11):last-child) > li:nth-child(n+5):nth-child(-n+7),
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(11):last-child) > li:nth-child(n+5):nth-child(-n+7) {
+  grid-column: span 2;
+}
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(11):last-child) > li:last-child,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(11):last-child) > li:last-child {
+  grid-column: span 3;
 }
 
 /* ── 实心红橙徽章（白色数字） ────────────────────────────── */

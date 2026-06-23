@@ -5,7 +5,7 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -153,9 +153,13 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 Hammersley (1992b: 71) 从更务实的角度提出质性内部效度需要注意三个层次（p.167）：
 
-1. **合理性与可信性**（plausibility and credibility）——解释必须在理性上站得住脚
-2. **证据的种类和数量**（kinds and amounts of evidence）——主张越大，证据就必须越有说服力
-3. **主张类型的清晰度**（clarity on kinds of claim）——是定义性主张、描述性主张、解释性主张还是理论生成性主张？不同类型的主张需要不同程度的证据支撑
+> [!dimension] Hammersley 的三层次框架
+> - **合理性与可信性**（plausibility and credibility）
+>   解释必须在理性上站得住脚——这是最基本的要求。如果一项解释连基本的合理性都不具备，后续的证据讨论就失去了意义。
+> - **证据的种类和数量**（kinds and amounts of evidence）
+>   主张越大，证据就必须越有说服力。一个声称"所有中国教师都…"的主张需要的证据量，与一个声称"本研究中的三位教师…"的主张截然不同。
+> - **主张类型的清晰度**（clarity on kinds of claim）
+>   研究者必须明确自己做出的是什么类型的主张——是定义性主张（defining what something is）、描述性主张（describing what happened）、解释性主张（explaining why it happened）还是理论生成性主张（generating theory from data）？不同类型的主张需要不同程度的证据支撑和不同类型的效度论证。
 
 ---
 
