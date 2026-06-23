@@ -23,6 +23,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Type I and Type II Errors]]"
 related_theories: []
 related_methods:
   - "[[Analysis of Variance]]"
@@ -61,7 +62,7 @@ updated: 2026-05-31
 > [!tip]
 > - **独立样本 t 检验**：比较两个独立组的均值，如实验组 vs 对照组的后测得分。
 > - **配对样本 t 检验**：比较同一组在两次测量中的均值，如前测 vs 后测。
-> - vs [[Analysis of Variance|ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免第一类错误膨胀）。
+> - vs [[Analysis of Variance|ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免[[Type I and Type II Errors|第一类错误]]膨胀）。
 
 ## 适用场景
 
@@ -74,6 +75,6 @@ updated: 2026-05-31
 
 > [!warning]
 > - 假设数据呈正态分布且方差同质；假设违反时可能需要使用非参数替代方法（如 Mann-Whitney U 检验）。
-> - 只能比较两组；多组比较使用独立 t 检验会增加第一类错误。
+> - 只能比较两组；多组比较使用独立 t 检验会增加[[Type I and Type II Errors|第一类错误]]。
 > - 对异常值敏感。
 

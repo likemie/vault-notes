@@ -21,6 +21,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[External Validity]]"
   - "[[Causality]]"
+  - "[[Type I and Type II Errors]]"
   - "[[Null Hypothesis]]"
   - "[[Descriptive Validity]]"
   - "[[Hawthorne Effect]]"
@@ -52,7 +53,7 @@ updated: 2026-06-23
 > [!concept-lens] 概念透镜
 > - **含义** 内部效度威胁不是"研究犯了错误"的清单，而是任何研究中都**潜在存在**的系统性偏差来源。研究者需要识别这些威胁并采取措施**减弱**其影响，而非声称完全消除了它们。
 > - **用途** 在研究设计阶段，内部效度威胁框架帮助研究者预见可能的混淆因素并预先设计控制策略；在评估已有研究时，该框架提供了批判性[[Evaluation Research|评估研究]]结论可信度的结构化工具。
-> - **边界** 内部效度威胁不同于[[External Validity|外部效度]]威胁——前者关注研究**内部**[[Causality|因果推断]]的有效性（"在这个研究中，X 真的导致了 Y 吗？"），后者关注研究发现的**可推广性**（"这个发现能推广到其他情境吗？"）。在 Cook & Campbell 框架中，第一类和第二类错误属于统计结论效度（statistical conclusion validity）而非内部效度，但 Cohen, Manion & Morrison 将其归入内部效度威胁。
+> - **边界** 内部效度威胁不同于[[External Validity|外部效度]]威胁——前者关注研究**内部**[[Causality|因果推断]]的有效性（"在这个研究中，X 真的导致了 Y 吗？"），后者关注研究发现的**可推广性**（"这个发现能推广到其他情境吗？"）。在 Cook & Campbell 框架中，第一类和[[Type I and Type II Errors|第二类错误]]属于统计结论效度（statistical conclusion validity）而非内部效度，但 Cohen, Manion & Morrison 将其归入内部效度威胁。
 
 ---
 
@@ -113,7 +114,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 >   受试者熟悉结果测量工具，记住前测答案以用于后测。应对：延长前后测时间间隔，或在后测中使用不同于前测的题目。
 > - **工具**（Instrumentation）
 >   前测和后测之间测量工具发生变化，影响结果得分。应对：前后测使用相同的测量工具。
-> - **第一类与第二类错误**（Type I and Type II errors）
+> - **第一类与[[Type I and Type II Errors|第二类错误]]**（Type I and Type II errors）
 >   统计推断中拒绝真[[Null Hypothesis|零假设]]（第一类）或接受假零假设（第二类）的决策错误。两类错误存在内在权衡——降低一类错误的风险必然增加另一类错误的风险。在 Cook & Campbell 框架中属于统计结论效度。
 
 > [!example]- 程序威胁的案例

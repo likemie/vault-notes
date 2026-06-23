@@ -6192,6 +6192,21 @@
     ]
   },
   {
+    "title": "Type I and Type II Errors",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Type I and Type II Errors.md",
+    "aliases": [
+      "第一类错误和第二类错误",
+      "第一类错误",
+      "第二类错误",
+      "Type I error",
+      "Type II error",
+      "false positive",
+      "false negative",
+      "统计错误"
+    ]
+  },
+  {
     "title": "Validity as Inferences",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Validity as Inferences.md",

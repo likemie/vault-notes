@@ -35,6 +35,7 @@ related_concepts:
   - "[[Blinding]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
+  - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Research Question]]"
   - "[[School Leadership]]"
@@ -42,9 +43,12 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Type I and Type II Errors]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
+  - "[[Ontology]]"
   - "[[Validity as Inferences]]"
+  - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
@@ -180,7 +184,7 @@ updated: 2026-06-17
 
 > [!method-stack] 资料与分析摘要
 > - **资料类型**：标准化测验成绩、问卷量表、行为观察记录、行政数据（出勤率、升学率等）。
-> - **资料质量**：取决于[[Random Assignment|随机分配]]的成功程度、样本量、流失率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化假设（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
+> - **资料质量**：取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、流失率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化假设（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
 > - **分析策略**：均值比较、[[Effect Size|效应量]]估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
 > - **质量控制**：[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）处理非合规问题；流失分析；基线等值检验。
 > - **输出形式**：标准化均值差（Cohen's d, Hedges' g）、[[Confidence Interval|置信区间]]、p 值、最小可检测效应量（MDES）。
@@ -281,7 +285,7 @@ updated: 2026-06-17
 > Berk 援引多位经济学家（Heckman & Smith, 1995; Heckman, 2000; Deaton, 2008）的核心观点：因果效应估计"几乎是没用的，除非人们也了解因果效应产生的机制"。他反对非随机研究被断然否定的做法："这是一个严重错误，尤其当[[Internal Validity|内部效度]]仅仅是多种重要效度之一时"（[[Argument_Berk_2011_ER|Berk, 2011, p.195]]）。
 
 > [!tip] [[Argument_Berk_2011_ER|Berk (2011)]] 的[[Pragmatic Paradigm|实用主义]]辩护："铜标准"
-> 尽管提出批评，Berk 也提供了独特的实用主义辩护：随机分配的最强理由也许是它比其它设计更能防止研究者犯严重的统计错误。他将此立场概括为"铜标准"（bronze standard, Berk 2005）。核心原则："任何评估的基准是当前知识，而非完美。内部效度低于随机实验的设计有时也可以提供证据"（[[Argument_Berk_2011_ER|Berk, 2011, pp.195–196]]）。
+> 尽管提出批评，Berk 也提供了独特的实用主义辩护：随机分配的最强理由也许是它比其它设计更能防止研究者犯严重的[[Type I and Type II Errors|统计错误]]。他将此立场概括为"铜标准"（bronze standard, Berk 2005）。核心原则："任何评估的基准是当前知识，而非完美。内部效度低于随机实验的设计有时也可以提供证据"（[[Argument_Berk_2011_ER|Berk, 2011, pp.195–196]]）。
 
 > [!critique] [[Argument_Zhao_2017_JEC|Zhao (2017)]]：副作用盲点
 > 教育从医学借鉴了 RCT 这一方法论工具，但**系统性忽略了副作用的系统性研究与报告**。FDA 要求[[Clinical Trial|临床试验]]必须同时报告有效性和不良事件，并建立上市后监测制度。相比之下，教育 RCT 仅报告干预对预设结果的 [[Effect Size|效应量]]，不系统收集或报告非预期影响。Zhao 建议在教育 RCT 中建立类似 FDA 的不良事件报告和上市后监测机制。详见 [[Side Effects]]。
@@ -327,20 +331,20 @@ updated: 2026-06-17
 > [!ref-table] 相关理论
 > | 理论 | 与该方法的关联 |
 > |------|--------------|
-> | [[Critical Realism]] | 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、涌现性、三层本体论 |
+> | [[Critical Realism]] | 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence\|涌现]]性、三层[[Ontology\|本体论]] |
 > | [[Complexity Theory]] | 从非线性、涌现和整体论角度根本性质疑 RCT 封闭系统假设 |
 > | [[Validity as Inferences]] | 继承 Cronbach 和 Messick 的效度理论，论证 RCT 推论的效度永远临时且局部 |
 
 > [!ref-table] 相关方法
 > | 方法 | 说明 |
 > |------|------|
-> | [[Intervention Research]]（父类） | RCT 是其随机分配版本，区分变量操纵与随机分配两种证据要求 |
+> | [[Intervention Research]]（父类） | RCT 是其[[Random Assignment\|随机分配]]版本，区分[[Variable\|变量]]操纵与随机分配两种证据要求 |
 > | [[Experimental Research]]（父类） | 真实验是检验因果主张的最强设计，RCT 是真实验在教育中的主要形式 |
 > | [[Cluster Randomized Trials]]（变体） | 教育 RCT 的标准实践，处理班级或学校层面的嵌套结构 |
 > | [[Intent-to-Treat Analysis]]（配套） | 处理非合规问题的核心分析策略 |
 > | [[Mechanism Experiments]]（替代） | 测试可迁移的特定因果机制而非完整项目包 |
-> | [[Quasi-Experimental Designs]]（替代） | 随机分配不可行时提供外部效度可能改善的替代设计 |
-> | [[Non-intervention Research]]（对照） | 不操纵自变量，以此对照批评强实践建议的因果证据不足 |
+> | [[Quasi-Experimental Designs]]（替代） | 随机分配不可行时提供[[External Validity\|外部效度]]可能改善的替代设计 |
+> | [[Non-intervention Research]]（对照） | 不操纵自变量，以此对照批评强[[Recommendations for Practice\|实践建议]]的因果证据不足 |
 > | [[Observational and Correlational Research]]（前置） | 可生成干预假设，但无随机分配和变量操纵 |
 
 ---

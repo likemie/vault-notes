@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 90
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -60,9 +60,11 @@ related_concepts:
   - "[[Internal and External Generalizability]]"
   - "[[Effect Size]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Type I and Type II Errors]]"
   - "[[Null Hypothesis]]"
   - "[[Ontology]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Threats to External Validity]]"
   - "[[Study Population and Sample]]"
@@ -80,7 +82,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Metainferences]]"
   - "[[Data Transformation]]"
-  - "[[Epistemology]]"
   - "[[Axiology]]"
   - "[[Incommensurability]]"
   - "[[Inter-Rater Reliability]]"
@@ -354,13 +355,13 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > > | **实验处理** | 工具反应性（Instrument reactivity） | 研究工具本身改变了参与者行为 |
 > > | **实验程序** | 测验（Testing） | 前测使受试者熟悉工具或记住答案 |
 > > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
-> > | | 第一类与第二类错误 | 拒绝真假设或接受假假设的决策错误 |
+> > | | [[Type I and Type II Errors\|第一类与第二类错误]] | 拒绝真假设或接受假假设的决策错误 |
 
 ---
 
 ##### 第一类与第二类错误
 
-两类错误虽被 Cohen, Manion & Morrison 列为内部效度威胁，但在 Cook & Campbell 框架中属于**统计结论效度**（statistical conclusion validity）的范畴。
+两类错误虽被 Cohen, Manion & Morrison 列为[[Threats to Internal Validity|内部效度威胁]]，但在 Cook & Campbell 框架中属于**统计结论效度**（statistical conclusion validity）的范畴。
 
 > [!dimension] 第一类与第二类错误
 > - **第一类错误**（Type I error）
@@ -449,7 +450,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 > [!ref-table] 质性内部效度威胁速查
 > > | 分组 | 威胁 | 核心问题 |
 > > |---|---|---|
-> > | **认识论合法性** | 反讽合法化（Ironic legitimation） | 能否处理同一情境中多重矛盾的现实 |
+> > | **[[Epistemology\|认识论]]合法性** | 反讽合法化（Ironic legitimation） | 能否处理同一情境中多重矛盾的现实 |
 > > | | 悖论合法化（Paralogical legitimation） | 能否捕捉效度主张中的悖论 |
 > > | | 根茎合法化（Rhizomatic legitimation） | 绘制数据地图时丢失了多少信息 |
 > > | | 过度合法化（Voluptuous legitimation） | 解释是否超出了数据的承载能力 |

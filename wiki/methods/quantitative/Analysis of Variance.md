@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Type I and Type II Errors]]"
 related_theories: []
 related_methods:
   - "[[Analysis of Covariance]]"
@@ -78,7 +79,7 @@ updated: 2026-05-31
 > [!warning]
 > - 对正态分布和方差同质性假设敏感；假设违反时可能需要使用非参数替代方法。
 > - ANOVA 显著只表明至少有一组均值与其他组不同，无法直接指出差异发生在哪些组之间，需要事后比较。
-> - 多重比较会增加第一类错误（Type I error）的概率，需要校正。
+> - 多重比较会增加[[Type I and Type II Errors|第一类错误]]（Type I error）的概率，需要校正。
 
 ## 使用此方法的研究
 
