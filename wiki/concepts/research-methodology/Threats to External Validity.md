@@ -7,7 +7,7 @@ aliases:
 summary: "在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell 和 Stanley 经典框架列出九种量化威胁，Lincoln 和 Guba 将其扩展至自然主义研究中的四种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Catalytic Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Evaluative Validity]]"
+  - "[[Reliability]]"
   - "[[Effect Size]]"
   - "[[Rich and Thick Description]]"
   - "[[Sampling Error]]"
@@ -143,7 +144,7 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 > - **总体/生态/时间可推广性** 研究者是否成功地将推广和非推广的边界保持在合理范围内
 > - **研究者偏差** 研究者偏见对外部效度的威胁——与[[Threats to Internal Validity|内部效度威胁]]共享
 > - **反应性** 研究对情境的改变效应对外部效度的威胁——与内部效度威胁共享
-> - **顺序偏差** 访谈/观察/问卷中问题顺序对结果可依赖性的影响，进而限制推广
+> - **顺序偏差** 访谈/观察/问卷中问题顺序对结果[[Reliability|可依赖性]]的影响，进而限制推广
 > - **[[Effect Size|效应量]]** 未能将效应量纳入质性分析，限制了发现的精确性和可推广性
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 172–173)]]

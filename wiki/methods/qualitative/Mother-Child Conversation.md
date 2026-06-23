@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - region/west
 related_concepts:
   - "[[External Validity]]"
+  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Pride in Learning]]"
   - "[[Learning Virtues]]"
@@ -115,7 +116,7 @@ MCC 方法的核心特征在于**三种分析的阶梯式设计**，从"轮廓"�
 > [!tip]- 三种分析的论证分工
 > 如果只有结构分析，就变成了无聊的"两群人说话一样多"；如果只有话语分析，就容易被指责为"挑例子"。三种分析加在一起，既保证了**[[External Validity|可推广性]]**（序列分析覆盖全部 200 组对话），又保留了**深度**（话语分析展示了真实的对话过程）([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
-这个阶梯式设计的深层逻辑是：**每一步都为下一步的可信度提供基础**。结构分析的"无差异"为序列分析的发现排除了"量"的替代解释；序列分析的量化证据为话语分析提供了可推广性支撑——话语分析展示的不是"个别案例"，而是代表了已在全样本中确认的统计模式。
+这个阶梯式设计的深层逻辑是：**每一步都为下一步的可[[Reliability|信度]]提供基础**。结构分析的"无差异"为序列分析的发现排除了"量"的替代解释；序列分析的量化证据为话语分析提供了可推广性支撑——话语分析展示的不是"个别案例"，而是代表了已在全样本中确认的统计模式。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/reliability
   - theme/measurement
 related_concepts:
+  - "[[Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
@@ -47,7 +48,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 评分者间信度（Inter-rater reliability）指多位独立评判者或专家使用同一工具对相同对象进行评分时，彼此评分之间的一致性程度。它是信度作为**等值性**（reliability as equivalence）的核心形式之一——如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
+> 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一工具对相同对象进行评分时，彼此评分之间的一致性程度。它是信度作为**等值性**（reliability as equivalence）的核心形式之一——如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
 
 从[[Quantitative Research|量化研究]]角度，评分者间信度适用于涉及多位评判者进行观察评定的情境。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 将其定义为"不同独立评判者在评分中达成一致的程度"。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
@@ -65,7 +66,7 @@ updated: 2026-06-23
 
 ## 概念辨析
 
-> [!contrast-table] 评分者间信度 vs 相关信度概念
+> [!contrast-table] 评分者间[[Reliability|信度]] vs 相关信度概念
 > | 维度 | 评分者间信度 | [[Internal Consistency and Cronbach's Alpha\|内部一致性]] | [[Test-Retest Reliability\|重测信度]] |
 > |---|---|---|---|
 > | **核心问题** | 不同的人在评分时是否一致？ | 量表内部条目间是否一致？ | 同一工具在不同时间点是否稳定？ |
@@ -79,7 +80,7 @@ updated: 2026-06-23
 
 ### 量化研究中的评分者间信度
 
-在[[Quantitative Research|量化研究]]中，评分者间信度是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致——这对收集结构化观察或半结构化访谈数据的团队尤为重要。
+在[[Quantitative Research|量化研究]]中，评分者间[[Reliability|信度]]是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致——这对收集结构化观察或半结构化访谈数据的团队尤为重要。
 
 > [!feature] 量化评分者间信度的操作要素
 > - **培训与校准** 对于观察数据，信度在研究者的培训课程中得到解决——他们使用视频材料以确保录入数据的同等性。培训的目标是让所有评判者对同一行为给出相同或高度相近的评分。
@@ -134,14 +135,14 @@ Silverman (1993) 建议通过评分者间信度来增强访谈的信度——在
 > [!method-fit] 适用判断
 > - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observational and Correlational Research|观察研究]]、临床行为评定）；[[Qualitative Research|质性研究]]的内容分析中多位编码者对文本进行编码时；系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中多位筛选者独立筛选文献时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 > - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中——假设不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985: 307）。
-> - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间信度不适用——此时应关注评分者[[Internal Consistency and Cronbach's Alpha|内部一致性]]（intra-rater reliability）。
+> - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间[[Reliability|信度]]不适用——此时应关注评分者[[Internal Consistency and Cronbach's Alpha|内部一致性]]（intra-rater reliability）。
 
 ---
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - 评分者间信度高不一定意味着评分准确——多位评判者可能一致地给出了错误的评分（如都受到了相同的训练偏差影响）。
+> - 评分者间[[Reliability|信度]]高不一定意味着评分准确——多位评判者可能一致地给出了错误的评分（如都受到了相同的训练偏差影响）。
 > - 评估指标的选择取决于数据类型（类别 vs 连续）——使用不适合数据类型的指标可能导致误导性结论。
 > - 计算需要足够数量的评分者和/或评定对象才能产生稳定的估计值。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 > - 在[[Qualitative Research|质性研究]]中，追求评分者间的高度一致可能与研究的[[Epistemology|认识论]]前提冲突——不同研究者对同一现象的不同解释可能都是有效的，反映的是现实的多层性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 205–207)]]

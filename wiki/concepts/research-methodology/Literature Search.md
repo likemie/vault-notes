@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Question]]"
+  - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Content Validity]]"
   - "[[Construct]]"
@@ -60,7 +61,7 @@ updated: 2026-06-21
 文献检索不是一个孤立的操作步骤，而是一连串论证目的的逻辑起点。Cohen et al. 在 Ch.7 中阐述了这一目的链条（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.126–127]]）：
 
 > [!chain-link] 文献检索→论证的推进逻辑
-> - **奠基信度与效度**
+> - **奠基[[Reliability|信度]]与效度**
 >   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
 > - **建立理论框架**
 >   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct|构念]]和概念。
@@ -270,7 +271,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > - **目的** 网站的目的，确立其相关性和适切性
 > - **权威性与真实性** 材料应具有权威性并声明来源
 > - **内容** 材料的时效性、相关性和覆盖范围
-> - **可信度与合法性** 是否来自受尊重的来源或机构
+> - **可[[Reliability|信度]]与合法性** 是否来自受尊重的来源或机构
 > - **正确性、准确性、完整性和公平性**
 > - **客观性与严谨性**
 

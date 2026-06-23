@@ -4,7 +4,7 @@ aliases: ["Maxwell互动研究设计模型", "Maxwell's interactive model", "Max
 summary: "Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Research Question]]"
   - "[[Paradigm]]"
+  - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -67,7 +68,7 @@ updated: 2026-06-21
 > | 概念框架（Conceptual Framework） | 框架 | 研究者带入研究的理论、已有研究、个人经验和思想实验的集合；为研究提供理论透镜和解释资源 |
 > | [[Research Question\|研究问题]]（Research Questions） | 机制 | 模型的核心；是其他四个领域交汇的枢纽；研究问题是具体的、可回答的，而非一般性兴趣 |
 > | 方法（Methods） | 方法 | 数据收集和分析的具体途径，受研究[[Paradigm\|范式]]、研究者技能、研究情境、伦理和资源约束影响 |
-> | 效度（Validity） | 标准 | 研究结论的可信度；通过概念框架、已有理论和先前研究、试点和思想实验来加强和检验 |
+> | 效度（Validity） | 标准 | 研究结论的可[[Reliability\|信度]]；通过概念框架、已有理论和先前研究、试点和思想实验来加强和检验 |
 
 ---
 
@@ -112,7 +113,7 @@ updated: 2026-06-21
 > - **作为理论框架**：在撰写研究方案时，用互动的眼光（而非线性清单）组织目标、文献、[[Research Question|研究问题]]、方法和效度之间的关系。
 > - **作为分析工具**：在研究过程中定期检查五个领域的一致性和协调性；当研究偏离计划时，分析是哪个领域的变动引起的，以及对其他领域产生了什么连锁影响。
 > - **作为批判视角**：揭示线性研究计划中隐含的问题——那些看起来整齐有序的计划可能掩盖了实际研究中的复杂性、变化和涌现。
-> - **报告方式**：在研究报告中说明研究设计如何在研究过程中演变，五个领域之间发生了什么样的互动调整，以及这些调整如何最终加强了研究的可信度。
+> - **报告方式**：在研究报告中说明研究设计如何在研究过程中演变，五个领域之间发生了什么样的互动调整，以及这些调整如何最终加强了研究的可[[Reliability|信度]]。
 
 ---
 

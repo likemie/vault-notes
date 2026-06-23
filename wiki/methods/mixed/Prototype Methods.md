@@ -8,7 +8,7 @@ summary: "基于认知心理学原型理论、通过语言词汇的自由联想�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ideal Learner]]"
   - "[[Study Population and Sample]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
@@ -151,7 +152,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 > [!tip]-
 > - Prototype Theory — 原型方法是该理论在文化心理学中的直接方法论应用：人们对世界的理解通过分类系统组织，语言为这些类别提供标签
 > - [[Cultural Models]] — 原型方法产出的概念地图是文化模型的一种形式——经群体共识验证、对文化成员具有可识别性
-> - [[Emic and Etic|emic perspective]] — 原型方法是一种系统的、可复制的主位研究方法，克服了传统主位研究中"研究者即唯一工具"的信度问题
+> - [[Emic and Etic|emic perspective]] — 原型方法是一种系统的、可复制的主位研究方法，克服了传统主位研究中"研究者即唯一工具"的[[Reliability|信度]]问题
 
 ---
 

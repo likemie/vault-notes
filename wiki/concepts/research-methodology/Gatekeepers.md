@@ -8,7 +8,7 @@ aliases:
 summary: "研究现场中控制研究准入与再准入的个体或角色，在质性研究和敏感研究中是关键的权力节点——守门人可能批准、阻止或条件化研究，其行为模式直接影响研究设计、数据质量和伦理关系"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Evaluation Research]]"
   - "[[Informed Consent]]"
+  - "[[Reliability]]"
   - "[[Research Problem]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Champ]]"
@@ -134,7 +135,7 @@ Walford (2001, p. 45) 进一步指出守门人可能抱有自身的议程：校�
 在[[Sensitive Research|敏感研究]]中，守门人扮演的角色更为复杂。其核心动机是管理风险——避免、限制、分散或控制风险（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 205–208]]）：
 
 > [!factors] 守门人在敏感研究中的六种行为模式
-> - **风险规避与控制** 守门人可能禁止准入，也可能设置条件性准入。条件性准入可能要求改变研究方案——方法、抽样、焦点、传播方式、信度与效度、报告和数据控制（Morrison, 2006）。
+> - **风险规避与控制** 守门人可能禁止准入，也可能设置条件性准入。条件性准入可能要求改变研究方案——方法、抽样、焦点、传播方式、[[Reliability|信度]]与效度、报告和数据控制（Morrison, 2006）。
 > - **数据审查** 参与者可能审查哪些数据可以被使用。公开与私下的界限可能由参与者单方面划定——什么算公开信息、什么算私下言论、私下言论应如何处理。
 > - **陪伴监视** 研究者在现场工作期间可能受到守门人的陪伴（chaperoning），这意味着研究者永远不在完全自然的情境中观察参与者（Lee, 1993, p. 125）。
 > - **成果控制** 守门人可能希望检查、修改或压制已发表的研究成果（Lee, 1993, p. 128）。

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Reliability]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
   - "[[Evidence-Based Education]]"
@@ -92,7 +93,7 @@ updated: '2026-05-18'
 >
 > [[WWC SCD Pilot Standards]] 是 WWC 为 SCD 研究开发的专门技术标准：它服务于 WWC 的 SCD 研究审查，但不能等同于 [[Single-Case Design]] 方法本身，也不能等同于 WWC 的完整审查程序。Hitchcock et al. 强调，SCD 设计标准必须与 WWC 审查协议和 SCD Review Guide 一起理解；审查协议规定[[Research Question|研究问题]]、目标人群、结果领域和场所，Review Guide 则系统记录研究细节并支持推广性判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461]])。
 >
-> SCD 审查分四个阶段：第一，对照审查协议判断研究是否符合干预、因[[Variable|变量]]、场所和参与者特征等条件；第二，评估阶段对比数量、每阶段数据点数量、结果测量信度、自变量是否被主动操纵，并通过视觉分析评估实验控制；第三，仅对通过设计标准的研究系统记录场所、设计、参与者、因变量[[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等推广性信息；第四，当至少有 5 项达标 SCD 研究、由 3 个不同研究团队完成、累计至少 20 名参与者时，WWC 可仅基于 SCD 证据生成干预报告([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–466]])。
+> SCD 审查分四个阶段：第一，对照审查协议判断研究是否符合干预、因[[Variable|变量]]、场所和参与者特征等条件；第二，评估阶段对比数量、每阶段数据点数量、结果测量[[Reliability|信度]]、自变量是否被主动操纵，并通过视觉分析评估实验控制；第三，仅对通过设计标准的研究系统记录场所、设计、参与者、因变量[[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等推广性信息；第四，当至少有 5 项达标 SCD 研究、由 3 个不同研究团队完成、累计至少 20 名参与者时，WWC 可仅基于 SCD 证据生成干预报告([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–466]])。
 >
 > WWC 不评分推广性细节，而是描述这些信息供消费者判断证据是否适用于自身情境；[[5-3-20 Rule]] 是 SCD 证据充分性的唯一阈值([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.466–467]])。WWC 首个包含 SCD 证据的干预报告为 Repeated Reading（WWC, 2014）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.461, 466]])。
 

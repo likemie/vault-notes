@@ -8,7 +8,7 @@ summary: "系统收集和分析机构网站公开内容的研究方法，通过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Technology Transfer]]"
   - "[[Concierge Service]]"
+  - "[[Reliability]]"
   - "[[Emergence]]"
 related_theories: []
 related_methods:
@@ -92,7 +93,7 @@ updated: 2026-05-27
 > [!warning]
 - **公开内容与实际运作的偏差**：网站可能夸大中心办公室的覆盖范围（为了展示"一站式服务"的形象），也可能未反映非正式但有效的内部协调机制。Boccanfuso & Hall（2025, p.56）明确承认"网站分析基于大学公开呈现的内容，可能与实际组织结构存在偏差"
 - **样本代表性的局限**：如果样本来自特定组织网络（如 [[University Industry Demonstration Partnership|UIDP]] 会员），结论可能无法推广到非会员组织。Boccanfuso & Hall（2025）的样本以美国大型研究型大学为主，对小型文理学院和非美国大学的适用性有限（p.56）
-- **[[Coding in Qualitative Research|编码]]的主观性**：将网页描述归类为五种组织模式或六级权限等级，需要研究者判断。不同研究者可能对同一网页归类不同——网站内容分析通常缺乏文本分析中常见的"编码员间信度"（inter-coder reliability）报告
+- **[[Coding in Qualitative Research|编码]]的主观性**：将网页描述归类为五种组织模式或六级权限等级，需要研究者判断。不同研究者可能对同一网页归类不同——网站内容分析通常缺乏文本分析中常见的"编码员间[[Reliability|信度]]"（inter-coder reliability）报告
 - **网站内容的时效性**：网站可能未及时更新，反映的是过去的组织结构而非当前状态
 
 ## 方法变体与相近方法

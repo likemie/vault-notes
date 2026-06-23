@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_RE"
 argument_key: "Argument_Higgins_2016_RE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Reliability]]"
   - "[[Forest Plot]]"
   - "[[Blue Skies Research]]"
   - "[[Confidence Interval]]"
@@ -124,7 +125,7 @@ citation_aliases:
 
 Pearson 的分析同时追求两个目标，这两个目标构成了[[Meta-analysis|元分析]]的核心概念(p.33)。
 
-**第一个目标是合并数据以提高结论的可靠性。** 他将每项研究的结果以独立行呈现，列出效果测量值和研究内不确定性，最后一行给出平均相关系数作为汇总估计。这种呈现方式预示了后来[[Forest Plot|森林图]]（forest plot）的标准形式(p.33)。
+**第一个目标是合并数据以提高结论的[[Reliability|可靠性]]。** 他将每项研究的结果以独立行呈现，列出效果测量值和研究内不确定性，最后一行给出平均相关系数作为汇总估计。这种呈现方式预示了后来[[Forest Plot|森林图]]（forest plot）的标准形式(p.33)。
 
 **第二个目标是探索效果变异的原因。** 这一目标后来发展为[[Moderator Analysis|调节变量分析]]。Pearson 考虑到自愿接种的士兵可能本身就处于较低的患病风险中。他提出可以通过"每隔一位志愿者接种"的[[Random Assignment|随机化]]试验来回答这一不确定性，预见了[[Randomised Controlled Trials|随机对照试验]]的发展方向(p.33)。
 

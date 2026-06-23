@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Interpretive Validity]]"
   - "[[Evaluative Validity]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Reliability]]"
   - "[[Effect Size]]"
   - "[[Construct Validity]]"
   - "[[Paradigm Wars]]"
@@ -141,7 +142,7 @@ Lincoln & Guba (1985) 列出四种自然主义威胁，Onwuegbuzie & Leech (2006
 > > | | 总体/生态/时间可推广性 | 推广与非推广边界的合理保持 |
 > > | | 研究者偏差 | 与[[Threats to Internal Validity\|内部效度威胁]]共享 |
 > > | | 反应性 | 情境改变效应与[[Internal Validity\|内部效度]]威胁共享 |
-> > | | 顺序偏差 | 问题顺序对结果可依赖性的影响 |
+> > | | 顺序偏差 | 问题顺序对结果[[Reliability\|可依赖性]]的影响 |
 > > | | [[Effect Size\|效应量]] | 质性分析中效应量缺失限制精确性 |
 
 Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]

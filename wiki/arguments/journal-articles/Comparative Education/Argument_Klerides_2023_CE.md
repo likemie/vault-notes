@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Knowledge Exchange]]"
+  - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -53,7 +54,8 @@ related_theories:
   - "[[Actor-Network Theory]]"
   - "[[World Society Theory]]"
   - "[[Dependency Theory]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Michael Sadler]]"
   - "[[Joseph Lauwerys]]"
@@ -289,7 +291,7 @@ citation_aliases:
 > [[Global Citizenship|全球公民]]（[[Global Citizenship]]）被提出作为所有不同受教育者身份碎片的伞状术语。这个概念既呼应又强化了"国际社会"的理念，已经成为比较教育的主要关注和批评焦点，批评的核心正是其"模糊性"(Oxley and Morris, 2013; Hobson and Silova, 2014)。
 
 > [!abstract] 转移的再概念化
-> 转移也被重新铸造为一个复杂的、多元主义的、常常不可预测的过程。[[Argument_Beech_2009_CE|Beech (2009)]]指出，在全球化的世界中，国家仍然是转移业务中的关键玩家，但其他行动者也在参与：区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司。这些行动者的工作交叉甚至绕过国家边界。在基于证据的政策口号下，所有行动者以复杂的方式网络化以制定和实施政策，互动的结果并不总是可预测的。
+> 转移也被重新铸造为一个复杂的、多元主义的、常常不可预测的过程。[[Argument_Beech_2009_CE|Beech (2009)]]指出，在全球化的世界中，国家仍然是转移业务中的关键玩家，但其他行动者也在参与：区域集团、多边组织、NGO、[[Policy Entrepreneur|政策企业家]]和跨国公司。这些行动者的工作交叉甚至绕过国家边界。在基于证据的政策口号下，所有行动者以复杂的方式[[Snowball Sampling|网络化]]以制定和实施政策，互动的结果并不总是可预测的。
 >
 > 为了理解教育知识如何以及为什么在多元的全球治理尺度之间移动并在移动中变形的，比较教育者呼吁新的理论和概念，质疑输入与输出和借用与出借的二元框架。[[Actor-Network Theory|行动者网络理论]]（Actor-Network Theory）越来越多地被用于分析[[Knowledge Production|知识生产]]和流通中的多元行动者和网络(Schulte, 2012)。旅行政策（travelling policies）和流动话语（flowing discourses）等新概念被创造，以承认当今许多新自由主义改革的不明起源和轨迹。协调（harmonisation）和标准化（standardisation）等概念被用来探索国家政策与其所在区域教育空间的对齐(Steiner-Khamsi and Waldow, 2012)。
 
@@ -366,7 +368,7 @@ citation_aliases:
 > 其起源常被追溯到 Marc-Antoine Jullien 1816/17 年的计划，但这个起源本身扎根于欧洲扩张及其伴随的旅行、观察和差异分类实践(Sobe, 2017)。这一认识型与殖民性的纠缠至今仍然明显：英语被选择为知识生产和流通的语言，西方理论被用来解释非西方现实，非西方现实被用来作为西方理论化的经验数据和案例研究来源，以及英国、北美和西欧学者在该领域有影响力期刊编辑团队中的主导地位(Takayama, Sriprakash, and Connell, 2017)。
 
 > [!example] 开辟去殖民可能性
-> 基于这种对比较教育自身的重读，革命主义比较教育的实践不仅限于揭露殖民性作为去殖民性的[[Necessary and Sufficient Conditions|必要条件]]。创造去殖民性的条件还意味着赋予从属者及其认知方式以发言权。例如，指出南南[[Knowledge Exchange|知识交流]]的存在(Hickling-Hudson, 2004)，赋予东方教学模式以可信度(Komatsu and Rappleye, 2017)，或突出原住民对殖民政策的抵抗(Klerides, 2021)。最重要的是，创造去殖民性的条件意味着将比较教育与西方地平线脱钩，并将其链接到南方理论和其他替代[[Epistemology|认识论]](Takayama, Sriprakash, and Connell, 2017)。
+> 基于这种对比较教育自身的重读，革命主义比较教育的实践不仅限于揭露殖民性作为去殖民性的[[Necessary and Sufficient Conditions|必要条件]]。创造去殖民性的条件还意味着赋予从属者及其认知方式以发言权。例如，指出南南[[Knowledge Exchange|知识交流]]的存在(Hickling-Hudson, 2004)，赋予东方教学模式以可[[Reliability|信度]](Komatsu and Rappleye, 2017)，或突出原住民对殖民政策的抵抗(Klerides, 2021)。最重要的是，创造去殖民性的条件意味着将比较教育与西方地平线脱钩，并将其链接到南方理论和其他替代[[Epistemology|认识论]](Takayama, Sriprakash, and Connell, 2017)。
 
 ---
 

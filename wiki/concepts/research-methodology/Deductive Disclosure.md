@@ -7,7 +7,7 @@ aliases:
 summary: "读者通过重新组合和拼凑研究数据中的细节来识别个体参与者（个人、学校或部门）的间接身份暴露风险，敏感研究中保护参与者匿名性的关键挑战"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theme/data-protection
 related_concepts:
   - "[[Rich and Thick Description]]"
+  - "[[Reliability]]"
   - "[[Recommendations for Practice]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -46,7 +47,7 @@ updated: 2026-06-22
 > - **信息唯一性** 某个特征组合在特定群体中是唯一的（如"50 岁男生物教师"）。
 > - **信息可重组性** 读者可以从报告中提取多个特征并组合。
 > - **小群体效应** 群体越小，特征组合就越容易指向唯一个体。
-> - **丰富描述的风险** [[Qualitative Research|质性研究]]中的[[Rich and Thick Description|厚描述]]（thick description）虽然增强了研究的可信度，但也增加了演绎披露的风险。
+> - **丰富描述的风险** [[Qualitative Research|质性研究]]中的[[Rich and Thick Description|厚描述]]（thick description）虽然增强了研究的可[[Reliability|信度]]，但也增加了演绎披露的风险。
 
 ---
 

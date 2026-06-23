@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识的本质、形式和获取方式的哲学假设。不同研究范式基于不同的认识论立场：实证主义的科学检验、诠释的多重实在理解、复杂性理论的多因果方向、意识形态批判的明确政治性、混合方法的实用主义组合。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,9 +17,11 @@ tags:
   - theme/research-philosophy
   - theme/research-planning
 related_concepts:
+  - "[[Reliability]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Axiology]]"
   - "[[Ontology]]"
@@ -49,7 +51,7 @@ updated: 2026-06-21
 
 > [!concept-lens] 概念透镜
 > - **含义** 认识论回答"我们如何知道"以及"什么构成有效知识"。它涉及知识的性质、结构、组织方式，以及我们如何探究知识和现象。
-> - **用途** 认识论立场决定了研究者选择什么类型的数据、如何收集数据、如何确立研究的可信度，以及如何向受众传达研究发现。
+> - **用途** 认识论立场决定了研究者选择什么类型的数据、如何收集数据、如何确立研究的可[[Reliability|信度]]，以及如何向受众传达研究发现。
 > - **边界** 认识论立场不能替代方法论或具体方法的选择；不同的认识论可能对同一现象产生不同但同样合法的知识主张。
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-06-21
 > | 互动论与[[Ethnography\|民族志]] | 知识在符号互动和文化意义生产中被发现和建构 |
 > | [[Complexity Theory\|复杂性理论]] | 主张理解多重因果方向，需要整体性理解现象，通过审查互动过程和结果来认识现象 |
 > | [[Ideology Critique\|意识形态批判]] | 明确政治性：批判现象的意识形态根基，揭示维系不平等和权力不对称的机制，要求将批判与参与式行动相结合以推动社会正义 |
-> | [[Mixed Methods Research\|混合方法]] | 实用主义驱动：要求方法组合——顺序、平行或综合——以充分把握和全面理解现象的多重面向 |
+> | [[Mixed Methods Research\|混合方法]] | [[Pragmatic Paradigm\|实用主义]]驱动：要求方法组合——顺序、平行或综合——以充分把握和全面理解现象的多重面向 |
 
 > [!claim] 认识论反思使研究规划从机械操作升华为知识反思
 > 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的认识论基础。正是这些反思和决策，将研究规划从单纯的机械操作，转变为对知识本质和存在本质的追问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.120]]）。

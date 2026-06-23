@@ -5,7 +5,7 @@ aliases:
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct Validity]]"
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 > | 历史（History） | 实验期间发生的外部事件 | 多基线设计在不同时间点引入干预，若每个基线在干预引入时才变化则排除历史效应 |
 > | 回归均值（Regression to the Mean） | 极端分数向均值自然回归 | 稳定的基线模式（足够多的基线数据点）可排除此威胁 |
 > | 处理扩散（Diffusion of Treatment） | 干预效果扩散到控制条件 | 需要验证控制条件是否未被干预"污染" |
-> | 工具化（Instrumentation） | 测量工具或观察者标准变化 | 要求结果被可靠测量（信度证据） |
+> | 工具化（Instrumentation） | 测量工具或观察者标准变化 | 要求结果被可靠测量（[[Reliability\|信度]]证据） |
 >
 > [[Single-Case Design|SCD]] 可以通过设计使这些替代解释变得不可信。识别这些设计特征的存在即可产生关于"干预是否按预期起作用"的判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 

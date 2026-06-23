@@ -442,9 +442,9 @@ Castells 据此区分了两种空间逻辑：
 ## 关键引用
 
 > [!citation-card]- [[Global Policy Space|全球政策空间]]的定义
-> 正是这些网络构成了我所称的“全球政策空间”。(p.350)
+> 正是这些网络构成了我所称的“全球政策空间”。我指的是这样一个空间：在其中，不局限于单一国家空间的多元行动者相互互动、交换信息并建立伙伴关系，以定义他们所认为的共同教育问题并提出全球解决方案。(p.350)
 >
-> *“It is these networks that constitute what I shall call a 'global policy space'.”*
+> *“It is these networks that constitute what I shall call a 'global policy space'. By this I refer to a space in which a variety of actors who are not tied to a single national space interact, exchange information and establish partnerships to define what they perceive to be common educational problems and propose global solutions.”*
 
 > [!citation-card]- 全球话语的策略性设计
 > 在全球教育政策空间中生产和再生产的话语需要精细的设计，以便在倡导这些话语时，能够让不同意识形态的组织开展合作。此外，这些话语通常结合了不兼容的陈述，以寻求在不同文化、意识形态、社会经济和政治脉络中的可接受性。(pp.352–353)

@@ -9,15 +9,16 @@ summary: "同时收集量化和质性数据、分别分析后将结果合并比�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Reliability]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
   - "[[Paradigm]]"
@@ -70,7 +71,7 @@ updated: 2026-06-02
 通过比较两类数据库，研究者可获得对研究问题**更完整的理解**（a more complete understanding）。这一洞见来自两个方向的共同作用：
 - **量化数据**提供变量关系的系统性证据（回答什么因素影响什么结果）。
 - **质性数据**提供参与者经验和情境的深入理解（回答为什么会这样及对参与者意味着什么）。
-- **趋同与分歧**：当两类数据趋同时，互相增强了结论的可信度；当分歧（divergence）出现时，分歧本身成为重要的发现——提示研究者需要重新审查理论假设或研究方法。
+- **趋同与分歧**：当两类数据趋同时，互相增强了结论的可[[Reliability|信度]]；当分歧（divergence）出现时，分歧本身成为重要的发现——提示研究者需要重新审查理论假设或研究方法。
 
 ---
 
@@ -78,7 +79,7 @@ updated: 2026-06-02
 
 聚敛式设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.136–137]])：
 - **综合回应**：[[Research Question|研究问题]]需要量化证据和质性情境理解同时回应，单一方法不足以提供完整答案。
-- **互相验证**：研究者希望通过两类数据的互相验证增强结论的可信度。
+- **互相验证**：研究者希望通过两类数据的互相验证增强结论的可[[Reliability|信度]]。
 - **资源同步**：研究资源和时间允许同时进行两类数据收集（如调查问卷与访谈同期开展）。
 - **受众需求**：希望在一个研究项目中同时满足量化导向受众和质性导向受众的期待。
 

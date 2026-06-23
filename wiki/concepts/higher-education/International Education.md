@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Chinese Learner]]"
+  - "[[Reliability]]"
   - "[[International Education Hubs]]"
 related_theories: []
 related_methods: []
@@ -109,7 +110,7 @@ updated: '2026-05-18'
 > - **"国际教育"可能是"西化"的别名**：Slethaug 本人指出，[[International Baccalaureate|IB]] 课程声称意识形态中立，但其"多角度思考"和"开放心态"实际上预设了西方的教学方法（Drake, 2004，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.28–29]]）。同样，[[Chinese Learner|中国学习者]]在教学中的道德发展维度——在中国课堂中教"做人"和教"知识"本为一体——在西方框架中常被完全忽略（Li, 2009，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.25–26]]）
 > - **师资培训完全跟不上规模**：全球仅极少数大学设有国际教育专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模——大多数[[International Schools|国际学校]]教师未受过专门国际教育训练，旧的刻板印象因而得以延续([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.32–33]])
 > - **本地公立系统可能受损**：[[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生，掏空本已因出生率下降而面临压力的公立学校系统([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])
-> - **数据可靠性存疑**：不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.17–18]])
+> - **数据[[Reliability|可靠性]]存疑**：不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.17–18]])
 
 ---
 

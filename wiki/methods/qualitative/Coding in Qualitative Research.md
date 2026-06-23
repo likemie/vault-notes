@@ -8,7 +8,7 @@ summary: "质性研究中将文本或图像数据拆分为片段并赋予类别�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Qualitative Codebook]]"
   - "[[Descriptive Analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Emergence]]"
 related_theories: []
@@ -98,7 +99,7 @@ updated: 2026-06-01
 
 > [!warning]
 > - 手动编码极为耗时，即使只有少数参与者的数据也需要大量时间和精力（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.206）
-> - 编码的一致性（信度）需要特别关注——不同编码者可能对同一段文本给出不同编码，应通过 [[Intercoder Agreement|编码者间一致性]] 检验来确保信度（Miles & Huberman, 1994 建议 ≥80%）
+> - 编码的一致性（[[Reliability|信度]]）需要特别关注——不同编码者可能对同一段文本给出不同编码，应通过 [[Intercoder Agreement|编码者间一致性]] 检验来确保信度（Miles & Huberman, 1994 建议 ≥80%）
 > - 预设编码虽有结构优势，但如果过于僵化，可能限制研究者对数据中新[[Emergence|涌现]]模式的发现
 
 ---

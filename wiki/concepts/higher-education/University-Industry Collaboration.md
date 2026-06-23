@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "higher-education"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Partnership Continuum]]"
   - "[[Clinical Trial]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Reliability]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Concierge Service]]"
   - "[[Research Security]]"
@@ -276,7 +277,7 @@ updated: 2026-06-05
 
 **资金杠杆**：政府与产业配资项目是推动教师参与产学合作最直接的硬性激励。以加拿大为例，NSERC Alliance Advantage 项目和 Mitacs Accelerate 项目要求产业伙伴提供 1:1 配套资金；通过叠加不同项目，研究者最多可以获得 3:1 的杠杆效应。滑铁卢大学一个学院过去五年的产业及产业杠杆研究经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.243]])。
 
-**伙伴关系经理**：产学之间存在"粒度错配"——企业需要窄而具体的解决方案，教师的能力宽而基础。伙伴关系经理（partnership manager）在产学界面上承担双向翻译功能：对外审查产业机会的可信度和匹配度，对内帮助教师识别研究的产业应用价值([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。这一角色与 [[University Corporate Engagement Professional|UCEP]] 和 [[Concierge Service|礼宾服务]] 的功能高度重叠，但更侧重项目层面的具体匹配和翻译。
+**伙伴关系经理**：产学之间存在"粒度错配"——企业需要窄而具体的解决方案，教师的能力宽而基础。伙伴关系经理（partnership manager）在产学界面上承担双向翻译功能：对外审查产业机会的可[[Reliability|信度]]和匹配度，对内帮助教师识别研究的产业应用价值([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。这一角色与 [[University Corporate Engagement Professional|UCEP]] 和 [[Concierge Service|礼宾服务]] 的功能高度重叠，但更侧重项目层面的具体匹配和翻译。
 
 **共同选址**：共同选址通过持续面对面互动建立信任。疫情后调查显示面对面互动在伙伴关系建立中具有不可替代的价值。[[Schlegel-UW Research Institute for Aging|RIA]] 是共同选址的典型案例——临床医生、科学家和工程师在同一物理空间中并肩工作，研究者和终端用户之间的即时反馈循环加速了从研究到应用的转化([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249, 251–254]])。
 

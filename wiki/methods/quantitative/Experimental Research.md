@@ -10,7 +10,7 @@ summary: "通过操纵处理条件、比较处理组与控制组的结果差异�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Preregistration]]"
   - "[[Definition of Terms]]"
+  - "[[Reliability]]"
   - "[[Threats to External Validity]]"
   - "[[Research Question]]"
   - "[[Ecological Validity]]"
@@ -171,7 +172,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - 实验中是否会包含操纵检查或协变量？如何以及何时测量它们？
 >
 > **工具与程序**
-> - 将使用什么工具测量因变量？为什么选择这些工具？谁开发了它们？它们是否具有已确立的信度和效度？
+> - 将使用什么工具测量因变量？为什么选择这些工具？谁开发了它们？它们是否具有已确立的[[Reliability|信度]]和效度？
 > - 向参与者施测实验的程序的序列步骤是什么？
 > - 实验设计和程序可能面临的内部和[[Threats to External Validity|外部效度威胁]]是什么？如何应对它们？
 >

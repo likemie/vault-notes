@@ -14,6 +14,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[University-Industry Co-location]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
 related_methods: []
@@ -74,7 +75,7 @@ RIA 的独特之处在于其运行模式从一开始就是"共同设计"（co-de
 > [!success]
 > - RIA 的成功经验在校内产生了跨院系的示范和扩散效应，降低了不同学科文化中对[[University-Industry Collaboration|产学合作]]的抵触([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.253]])。
 > - 研究者的网络通过 RIA 引入的额外伙伴而扩展，为教师和研究生提供了额外的学术发展机会([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.252]])。
-> - RIA 模式展示了如何通过重新构想产学合作关系，为原本不太愿意参与此类合作的教师提供入口——跨学科研究在共同选址环境中打破了院系壁垒，提升了利益相关方之间的可信度([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.254]])。
+> - RIA 模式展示了如何通过重新构想产学合作关系，为原本不太愿意参与此类合作的教师提供入口——跨学科研究在共同选址环境中打破了院系壁垒，提升了利益相关方之间的可[[Reliability|信度]]([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.254]])。
 
 ---
 

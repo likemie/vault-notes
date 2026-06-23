@@ -6,7 +6,7 @@ aliases:
 summary: "工具从表面上看起来似乎测量了它声称要测量的东西的判断，是最浅层的效度形式，常作为访谈和问卷的初始效度检查但不被视为充分的效度证据"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Construct Validity]]"
+  - "[[Reliability]]"
   - "[[Content Validity]]"
   - "[[Criterion-related Validity]]"
 related_arguments:
@@ -46,7 +47,7 @@ updated: 2026-06-23
 > Cannell & Kahn (1968) 指出，在访谈研究中，效度推断**过多地基于表面效度**——即仅仅因为问题看起来在测量它们声称要测量的东西就认为访谈是有效的。表面效度的核心风险在于：一个"看起来对"的工具——特别是当由非专家判断时——只保证了直觉上的接受度，却没有经过任何系统性检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 208)]]
 
 > [!example] 表面效度在教育测试中的角色
-> 在设计一项关于学生问题解决能力的纸笔测试时，如果测试中包含明显与数学或逻辑无关的项目（如"你最喜欢的颜色是什么？"），学生和教师可能质疑测试的合理性和相关性。即使这些项目实际上被设计来测量与问题解决相关的某种人格特质——低表面效度可能导致受试者不认真对待测试，从而损害结果的可靠性。但反过来，一个仅凭表面效度就声称有效的测试——没有经过[[Content Validity|内容效度]]或[[Criterion-related Validity|效标关联效度]]的系统审查——也只是在测量"看起来在测量的东西"而非"实际需要测量的东西"。
+> 在设计一项关于学生问题解决能力的纸笔测试时，如果测试中包含明显与数学或逻辑无关的项目（如"你最喜欢的颜色是什么？"），学生和教师可能质疑测试的合理性和相关性。即使这些项目实际上被设计来测量与问题解决相关的某种人格特质——低表面效度可能导致受试者不认真对待测试，从而损害结果的[[Reliability|可靠性]]。但反过来，一个仅凭表面效度就声称有效的测试——没有经过[[Content Validity|内容效度]]或[[Criterion-related Validity|效标关联效度]]的系统审查——也只是在测量"看起来在测量的东西"而非"实际需要测量的东西"。
 
 ---
 

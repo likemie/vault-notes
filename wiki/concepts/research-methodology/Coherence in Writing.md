@@ -4,10 +4,10 @@ aliases:
   - 写作连贯性
   - writing coherence
   - textual coherence
-summary: Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本组织原则，要求观念相互联结、句子间逻辑推进、段落间自然衔接，可通过钩眼技术逐句检查，在句子、段落和章节三个层面运作
+summary: "Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本组织原则，要求观念相互联结、句子间逻辑推进、段落间自然衔接，可通过钩眼技术逐句检查，在句子、段落和章节三个层面运作"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Self-Efficacy]]"
+  - "[[Reliability]]"
   - "[[Central Phenomenon]]"
 related_theories: []
 related_methods:
@@ -76,7 +77,7 @@ updated: 2026-05-31
 
 ## 术语一致性作为连贯性基础
 
-术语一致性（consistent terms）是文本连贯性的前提条件。[[Quantitative Research|量化研究]]中为[[Variable|变量]]使用一致名称，[[Qualitative Research|质性研究]]中为研究现象使用一致名称。同义词替换是连贯性的大敌，当术语发生即便微小的变动，读者就需要监控语义的微妙偏移，这会打断阅读流并引发对研究可信度的质疑（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
+术语一致性（consistent terms）是文本连贯性的前提条件。[[Quantitative Research|量化研究]]中为[[Variable|变量]]使用一致名称，[[Qualitative Research|质性研究]]中为研究现象使用一致名称。同义词替换是连贯性的大敌，当术语发生即便微小的变动，读者就需要监控语义的微妙偏移，这会打断阅读流并引发对研究可[[Reliability|信度]]的质疑（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 > [!example] 质性研究中的术语一致
 > 如果一项质性研究的[[Central Phenomenon|核心现象]]被命名为"teacher resilience"，那么整个研究计划中都应使用这一术语，而非在引言中用"teacher resilience"、在方法部分换成"teacher perseverance"、在讨论中又改用"teacher grit"。每次术语变动都要求读者自行判断这些词是否指代同一现象，这直接损害文本的可信度。

@@ -11,7 +11,7 @@ summary: "通过与参与者进行开放式对话以理解其主观经验和意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Research Question]]"
   - "[[Sample Size Determination]]"
+  - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[External Validity]]"
   - "[[University-Industry Collaboration]]"
@@ -174,7 +175,7 @@ updated: 2026-06-02
 >
 > - **人员校验法（[[Member Checking|member check]]）**：受访者陈述重要观点后，研究者用自身语言复述一遍与受访者确认，确保对意义的准确理解
 > - **[[Triangulation|三角互证]]法（triangulation）**：将访谈结果与观察记录、文件资料、问卷数据等进行交叉对照
-> - **跟踪式设计**：在条件允许时，与受访者保持长期联系，观察其实际行动以检视叙述的可靠性
+> - **跟踪式设计**：在条件允许时，与受访者保持长期联系，观察其实际行动以检视叙述的[[Reliability|可靠性]]
 > - **[[Reflexivity|反身性]]记录**：研究者持续记录自身前见、情绪反应和访谈过程中的意外，以便在分析阶段区分"受访者的意义"与"研究者的投射"
 
 ---

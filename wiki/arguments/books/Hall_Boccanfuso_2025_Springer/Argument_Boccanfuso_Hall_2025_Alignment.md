@@ -22,6 +22,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Clinical Trial]]"
+  - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
@@ -55,7 +56,7 @@ title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -148,7 +149,7 @@ citation_aliases:
 > 上图（Figure 1.2, p.6）展示了双方各自的回报与共享目标。左侧圆是大学的核心追求——经费支持、研究引用和学术声誉；右侧圆是企业的核心追求——盈利能力、产品创新和获取人才与知识。两圆交叠处是双方高度对齐的领域：经济增长、劳动力发展和知识产权。最左端的经费支持——企业支付赞助研究费用——同时服务于大学的经费目标和企业的知识获取目标，因此靠近交叠区；而学术声誉和盈利能力分别位于两端，是分歧最大的目标。这个结构解释了为什么产学合作在某些领域顺畅（交叠区内）、在另一些领域摩擦不断（两端）。
 
 > [!example]
-> 想象一家制药公司和一所大学医学院合作开发一种新药。公司想要的是药物专利和市场份额——对应图中右侧"盈利能力"和"产品创新"；大学想要的是发表在顶级医学期刊上的[[Clinical Trial|临床试验]]论文和该领域的研究声誉——对应左侧"研究引用"和"学术声誉"。这两种目标不是天然冲突的——论文可以提高药物的科学可信度进而帮助市场推广——但它们的时间线和优先级不同：公司希望尽快获得 FDA 批准，而大学希望尽可能全面地收集和分析数据。这种张力正是图中交叠区两侧存在的结构性分歧的具体表现。
+> 想象一家制药公司和一所大学医学院合作开发一种新药。公司想要的是药物专利和市场份额——对应图中右侧"盈利能力"和"产品创新"；大学想要的是发表在顶级医学期刊上的[[Clinical Trial|临床试验]]论文和该领域的研究声誉——对应左侧"研究引用"和"学术声誉"。这两种目标不是天然冲突的——论文可以提高药物的科学可[[Reliability|信度]]进而帮助市场推广——但它们的时间线和优先级不同：公司希望尽快获得 FDA 批准，而大学希望尽可能全面地收集和分析数据。这种张力正是图中交叠区两侧存在的结构性分歧的具体表现。
 
 ---
 

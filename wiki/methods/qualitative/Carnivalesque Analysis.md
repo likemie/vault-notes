@@ -6,9 +6,9 @@ summary: "通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
 - carnivalesque-analysis
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Reliability]]"
   - "[[Descriptive Analysis]]"
 related_theories: []
 related_methods:
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 > - 证据在政策论证中被如何选择性使用或扭曲
 > - 政策论证的内在矛盾和不一致性
 >
-> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]指出该方法不仅是研究策略，也是对研究者自身假设的检验——通过保持"被自己的发现所惊讶"的开放性（即不简单地确认预期），嘉年华式分析也强化了方法论的可信度([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19]])。
+> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]指出该方法不仅是研究策略，也是对研究者自身假设的检验——通过保持"被自己的发现所惊讶"的开放性（即不简单地确认预期），嘉年华式分析也强化了方法论的可[[Reliability|信度]]([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19]])。
 >
 
 ## 局限性

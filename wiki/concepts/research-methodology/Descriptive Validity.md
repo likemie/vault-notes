@@ -6,7 +6,7 @@ aliases:
 summary: "Maxwell 质性效度类型之一，指研究者描述的事实准确性——不得是编造的、选择性的或扭曲的，在此意义上效度包含了信度"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - paradigm/qualitative
 related_concepts:
   - "[[Qualitative Validity]]"
+  - "[[Reliability]]"
   - "[[Interpretive Validity]]"
   - "[[Theoretical Validity]]"
   - "[[Construct]]"
@@ -36,7 +37,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 描述效度（Descriptive validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity|质性效度]]类型中的第一种，指研究者对所研究现象所作描述的**事实准确性**（factual accuracy）——描述不得是编造的（made up）、选择性的（selective）或扭曲的（distorted）（Winter, 2000: 4）。在描述效度中，效度**包含了**信度——如果描述在事实上不准确，它既不可靠也无效。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
+> 描述效度（Descriptive validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity|质性效度]]类型中的第一种，指研究者对所研究现象所作描述的**事实准确性**（factual accuracy）——描述不得是编造的（made up）、选择性的（selective）或扭曲的（distorted）（Winter, 2000: 4）。在描述效度中，效度**包含了**[[Reliability|信度]]——如果描述在事实上不准确，它既不可靠也无效。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 描述效度是效度诸类型中最基础的一种——在研究者进入任何解释、理论化或评价之前，首先必须回答：我对所发生事实的描述是否准确？
@@ -56,6 +57,6 @@ updated: 2026-06-23
 > - **[[External Validity|可推广性]]**（[[External Validity|generalizability]]） 产生的理论能在多大的范围内适用
 > - **[[Evaluative Validity|评价效度]]** 研究者如何评价所研究的现象——"价值判断"层次
 
-> [!note]- 描述效度包含信度
+> [!note]- 描述效度包含[[Reliability|信度]]
 > 描述效度的一个独特之处在于：它明确声称**效度包含了信度**（validity subsumes reliability）。如果一项描述在事实上不准确——如果它编造、选择或扭曲了实际发生的事实——那么它既不可靠也无效。在此意义上，信度是描述效度的**内在组成部分**，而非独立的标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 161)]]
 

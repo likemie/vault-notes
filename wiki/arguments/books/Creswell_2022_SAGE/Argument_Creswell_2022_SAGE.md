@@ -89,7 +89,6 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Big Ideas]]"
   - "[[Sample Size Determination]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
@@ -99,6 +98,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Reliability]]"
   - "[[Manipulation Check]]"
   - "[[Blinding]]"
   - "[[Cover Story]]"
@@ -1179,7 +1179,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > “功效分析可以帮助你估计目标样本量。……这种用于确定样本量的功效分析应当在研究计划阶段、招募任何参与者之前完成。”
 > ("A [[Power Analysis]] can help you estimate a target sample size. ... This power analysis for sample size determination should be done during study planning and prior to enrolling any participants.")（第8章）
 
-**工具**涉及测量质量的两个支柱，效度（分数是否测准了？）和信度（分数是否稳定？），以及工具内容构成（封面信、题项、量表类型）。在施测流程上，邮件调查被转化为一个工业化的四阶段时间线(Salant & Dillman, 1994; Dillman, 2007)：提前通知→问卷→明信片跟进→个性化跟进，共约 4 周。
+**工具**涉及测量质量的两个支柱，效度（分数是否测准了？）和[[Reliability|信度]]（分数是否稳定？），以及工具内容构成（封面信、题项、量表类型）。在施测流程上，邮件调查被转化为一个工业化的四阶段时间线(Salant & Dillman, 1994; Dillman, 2007)：提前通知→问卷→明信片跟进→个性化跟进，共约 4 周。
 
 **变量**在方法部分需直接陈述名称、操作性定义和测量工具。创建变量—定义—工具项目对照表是一种极为有效的组织技术。
 

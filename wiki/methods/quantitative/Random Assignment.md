@@ -11,7 +11,7 @@ summary: "将受试者按概率均等原则分配到实验处理条件中，以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[External Validity]]"
   - "[[Internal Validity]]"
+  - "[[Reliability]]"
   - "[[Purpose Statement]]"
   - "[[Sample Size Determination]]"
   - "[[School Leadership]]"
@@ -85,7 +86,7 @@ updated: '2026-06-19'
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**：基于[[Positivism|实证主义]]与经验主义因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **研究者角色**：作为客观的操控者和观察者，设计随机程序以隔离混杂变量，排除主观判断干扰。
-> - **有效性标准**：主要服务于[[Internal Validity|内部效度]]。高信度的随机分配能最大限度排除选择偏误（Selection Bias）。
+> - **有效性标准**：主要服务于[[Internal Validity|内部效度]]。高[[Reliability|信度]]的随机分配能最大限度排除选择偏误（Selection Bias）。
 > - **不声称观察的问题**：不能回答干预”为什么”起作用的深层因果机制，也不能回答干预在未经随机化控制的现实 “开放社会系统” 中如何运作。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6, 8]])
 
 > [!method-stack] 方法层级

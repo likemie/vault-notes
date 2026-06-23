@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Research Question]]"
+  - "[[Reliability]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
@@ -59,7 +60,7 @@ updated: '2026-06-08'
 >
 > **3. 筛选与质量评估**
 >
-> 对检索到的文献进行双重筛选，并评估每项纳入研究的方法论质量。这一步骤直接影响后续[[Meta-analysis|元分析]]的可靠性([[Argument_Higgins_2016_RE|Higgins, 2016, p.38]])。
+> 对检索到的文献进行双重筛选，并评估每项纳入研究的方法论质量。这一步骤直接影响后续[[Meta-analysis|元分析]]的[[Reliability|可靠性]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.38]])。
 >
 > **4. 数据提取与综合**
 >
@@ -80,7 +81,7 @@ updated: '2026-06-08'
 ## 局限性
 
 > [!warning] 局限性
-> - 搜索策略的完整性直接影响结论的可靠性。即使系统搜索也可能遗漏未发表的研究，导致[[Publication Bias|发表偏差]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
+> - 搜索策略的完整性直接影响结论的[[Reliability|可靠性]]。即使系统搜索也可能遗漏未发表的研究，导致[[Publication Bias|发表偏差]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
 > - 纳入标准的设定涉及主观判断。标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 Glass 的回应反映了这一两难([[Argument_Higgins_2016_RE|Higgins, 2016, p.38]])
 > - 系统综述的质量取决于底层研究的质量。即使搜索和筛选过程完全透明，如果原始研究本身存在设计缺陷或报告偏差，综述结论仍可能误导([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
 

@@ -10,7 +10,7 @@ title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
+  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
@@ -104,7 +105,7 @@ citation_aliases:
 
 算法意义建构的第二个步骤是量化。人类要对数字技术变得"可检测"，就必须通过刺激-反应关系和行为数据——那些不可观察的维度（思维、体验、感受）必须被（暂时）忽略或转化为可追踪的维度(p.233)。
 
-量化作为一种"社会技术"有悠久的传统——它"推动准确性的价值向前"并"增强对行为及其产物的可靠性、客观性和安全性的信心"(Hörning, 2001, p.126)。但 Heintz（2010, p.169）指出了一个关键事实：可比较性并非内在于对象之中，而是诸多决策和标准化努力的**产物**。在教育学领域，这一逻辑尤为危险——因为量化、比较和测量的实践**同时生产和改变了被测量的对象**(Manhart, 2016)。
+量化作为一种"社会技术"有悠久的传统——它"推动准确性的价值向前"并"增强对行为及其产物的[[Reliability|可靠性]]、客观性和安全性的信心"(Hörning, 2001, p.126)。但 Heintz（2010, p.169）指出了一个关键事实：可比较性并非内在于对象之中，而是诸多决策和标准化努力的**产物**。在教育学领域，这一逻辑尤为危险——因为量化、比较和测量的实践**同时生产和改变了被测量的对象**(Manhart, 2016)。
 
 > 例：学校分数从来不是"客观"的。一个学生得了"B"，这个 B 在多大程度上反映她的数学能力、在多大程度上反映她当天的身体状态、在多大程度上反映教师对"好答案"的期待、在多大程度上反映她与同班同学的相对位置——这些都无法从"B"这个符号本身读出。但分数一旦被录入数字系统，它就变成了一个可以进行计算、排名、预测的"数据点"——原来的复杂性被压平了。算法系统不仅"记录"了 B，它还重新定义了 B 在教育过程中的意义：它变成了一个可以兑换成金币、星星或百分比的"货币"。
 

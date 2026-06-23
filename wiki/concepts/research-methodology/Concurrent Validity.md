@@ -7,7 +7,7 @@ aliases:
 summary: "效标关联效度的一种形式，使用一种工具收集的数据与同时使用另一种工具收集的数据高度一致，是三角验证和替代工具验证的核心逻辑"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Construct]]"
   - "[[Predictive Validity]]"
+  - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
@@ -60,7 +61,7 @@ updated: 2026-06-23
 > | 维度 | 共时效度 | [[Triangulation\|三角验证]] |
 > |---|---|---|
 > | **核心逻辑** | 两种工具的测量结果一致 | 两种或更多方法的交叉检验——可以一致，也可以揭示差异 |
-> | **关系** | 共时效度是三角验证的**效度论证基础**——三角验证通过共时效度来增强置信度 | 三角验证是**方法策略**——共时效度提供了该方法策略的效度理由 |
+> | **关系** | 共时效度是三角验证的**效度论证基础**——三角验证通过共时效度来增强置[[Reliability\|信度]] | 三角验证是**方法策略**——共时效度提供了该方法策略的效度理由 |
 > | **对不一致的解释** | 不一致被视为效度**不足**的标志 | 不一致可能被视为揭示了现实的**不同层次**（参见 Lincoln & Guba, 1985: 315 关于 triangulation vs member checking 的区分） |
 > | **[[Paradigm\|范式]]倾向** | 更贴近[[Positivism\|实证主义]] | 在[[Interpretive Paradigm\|自然主义探究]]中被重新功能化为"数据的检查"（而非效度的证明） |
 

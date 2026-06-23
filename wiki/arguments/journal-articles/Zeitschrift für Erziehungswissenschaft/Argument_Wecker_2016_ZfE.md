@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,11 +28,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Epistemology]]"
+  - "[[Reliability]]"
+  - "[[Sampling Error]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
-  - "[[Sampling Error]]"
-  - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
+  - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Direct Instruction]]"
 related_theories: []
@@ -88,13 +89,13 @@ citation_aliases:
 >
 > ### 六步检查程序
 >
-> 对每个方法论要求，Wecker et al.执行五步检查：(a) 陈述数学基础 (b) 描述 Hattie 声称的程序 (c) 从附录 A/B 重构 Hattie 的实际程序 (d) 对照要求记录偏差 (e) 评估偏差对[[Effect Size|效应量]]估计和可靠性的方向性影响。
+> 对每个方法论要求，Wecker et al.执行五步检查：(a) 陈述数学基础 (b) 描述 Hattie 声称的程序 (c) 从附录 A/B 重构 Hattie 的实际程序 (d) 对照要求记录偏差 (e) 评估偏差对[[Effect Size|效应量]]估计和[[Reliability|可靠性]]的方向性影响。
 >
 > | 分析步骤 | 方法要求（[[Fixed-Effect and Random-Effects Models\|固定效应模型]]） | Hattie 实际执行的缺陷 |
 > |---------|---------------------|-------------------|
 > | (1) 主要研究效应量计算 | 完整的主要研究表（d, v, n_E, n_C）；统一效应量测度 | 主要研究信息缺失；交替使用 Cohen's d / Hedges' g / [[Gene Glass\|Glass]]' Δ 而不转换；有时无主要研究表 |
 > | (2) 一级元分析效应量确定 | Fisher's z 转换后平均（若合并 r）；精度加权平均（若合并 d） | 直接计算 r 的算术平均而非通过 Fisher z；效应量测度错误归因 |
-> | (3) 方差/标准误确定 | 基于 n_E, n_C 和 d 计算 v_dⱼ；或从元分析报告的 [[School Effectiveness\|SE]]/[[Confidence Interval\|CI]] 计算 | 从效应量 SD 而非样本量计算 SE；一级元分析提供了 CI 也不计算 SE；武断使用 0.05 为 SE 下限 |
+> | (3) 方差/[[Sampling Error\|标准误]]确定 | 基于 n_E, n_C 和 d 计算 v_dⱼ；或从元分析报告的 [[School Effectiveness\|SE]]/[[Confidence Interval\|CI]] 计算 | 从效应量 SD 而非[[Sample Size Determination\|样本量]]计算 [[Standard Error\|SE]]；一级元分析提供了 CI 也不计算 SE；武断使用 0.05 为 SE 下限 |
 > | (4) 重复数据中和 | 若主要研究出现在多个元分析，减去协方差或使用非重叠子集 | "完全忽略了重复的问题"——即使重叠率达 93% |
 > | (5) 效应量加权估计 | 按精度反比（wⱼ = 1/v_dⱼ）加权 | 简单算术平均；或部分加权但不一致 |
 > | (6) [[Sampling Error\|标准误]]/CI/显著性检验 | 计算 SE_d = √(1/Σwⱼ)；报告 95% CI；显著性检验 | 不报告 CI 或显著性检验；[[Standard Error\|标准误]]计算错误；附录 A 信息不足以让读者自行计算 |
@@ -112,7 +113,7 @@ citation_aliases:
 >
 > **步骤 2: 效应量确定方式的检查**(p.28)
 >
-> 发现 Fisher's z 转换被省略。具体案例：Spies (1987) 关于"游戏"的元分析，Hattie 报告 d=0.26（对应 r=0.129），但该值"只有在算术平均值是直接从相关性而非从 Fisher's z 值计算时才会产生"(p.28)。可靠性评估：Fisher's z 偏差对小效应量影响有限（<1%），对中等效应量约 3%，Hattie 书中仅 6 个影响因素的平均效应量很大，因此"由此产生的不准确性仅具有有限的重要性"——但这反映了程序上的不规范。
+> 发现 Fisher's z 转换被省略。具体案例：Spies (1987) 关于"游戏"的元分析，Hattie 报告 d=0.26（对应 r=0.129），但该值"只有在算术平均值是直接从相关性而非从 Fisher's z 值计算时才会产生"(p.28)。[[Reliability|可靠性]]评估：Fisher's z 偏差对小效应量影响有限（<1%），对中等效应量约 3%，Hattie 书中仅 6 个影响因素的平均效应量很大，因此"由此产生的不准确性仅具有有限的重要性"——但这反映了程序上的不规范。
 >
 > **步骤 3: 方差与[[Sampling Error|标准误]]确定方式的检查**(p.26-30)——最严重的技术问题
 >

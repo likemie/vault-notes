@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research Scope]]"
   - "[[Class Size]]"
+  - "[[Reliability]]"
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
 related_theories:
@@ -194,7 +195,7 @@ LS 的课程设计大量参照了国际文凭大学预科课程（International 
 
 **公众咨询与多方协商**
 
-LS 的创立过程是一个漫长的协商过程，港府试图通过充分的公众咨询来减少来自关键利益相关者的阻力。2009 年立法会召开了专题会议，讨论 LS 引入的相关问题，包括[[Class Size|班级规模]]、课程的广度与深度、以及评估的公平性与可靠性。会议邀请了教育界各政治光谱的代表：民主派包括香港教育专业人员协会和香港通识教育教师协会，亲中团体包括香港协进会和香港教育工作者联合会，无明显政治倾向的包括家校合作委员会。媒体对讨论进行了广泛报道(p. 481)。
+LS 的创立过程是一个漫长的协商过程，港府试图通过充分的公众咨询来减少来自关键利益相关者的阻力。2009 年立法会召开了专题会议，讨论 LS 引入的相关问题，包括[[Class Size|班级规模]]、课程的广度与深度、以及评估的公平性与[[Reliability|可靠性]]。会议邀请了教育界各政治光谱的代表：民主派包括香港教育专业人员协会和香港通识教育教师协会，亲中团体包括香港协进会和香港教育工作者联合会，无明显政治倾向的包括家校合作委员会。媒体对讨论进行了广泛报道(p. 481)。
 
 这一过程体现了 Cuban 所说的"群体内部和群体之间的讨价还价、结盟与妥协"在课程变革中的核心作用。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Value Neutrality]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -212,7 +213,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 对社会公共利益的忽视
 
-排名将最大权重赋予研究产出指标，忽略了高等教育在促进民主社会中的批判敏感性、改善弱势群体入学机会、促进社区发展和社会正义等方面的作用([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.133]])。近年来虽有 U-Multirank 的区域参与指标、QS Stars 的社会责任指标和 THE 影响力排名等尝试，但它们仍然是"附加排名"而非主排名，其社会影响测量主要依赖高校自报数据，可靠性存疑([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.133–134]])。
+排名将最大权重赋予研究产出指标，忽略了高等教育在促进民主社会中的批判敏感性、改善弱势群体入学机会、促进社区发展和社会正义等方面的作用([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.133]])。近年来虽有 U-Multirank 的区域参与指标、QS Stars 的社会责任指标和 THE 影响力排名等尝试，但它们仍然是"附加排名"而非主排名，其社会影响测量主要依赖高校自报数据，[[Reliability|可靠性]]存疑([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.133–134]])。
 
 ### 光环效应与对增值的忽视
 

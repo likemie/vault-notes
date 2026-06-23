@@ -17,6 +17,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Literature Search]]"
   - "[[Abstract]]"
+  - "[[Reliability]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -50,7 +51,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，CEBC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。CEBC 提供[[Abstract|研究摘要]]但不为每项研究单独评级；其工作人员使用的标准包括研究设计（只接受 RCT 或 QED）、控制/比较组性质、至少一个结果测量的信度与效度，以及所有干预组件是否一起分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，CEBC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。CEBC 提供[[Abstract|研究摘要]]但不为每项研究单独评级；其工作人员使用的标准包括研究设计（只接受 RCT 或 QED）、控制/比较组性质、至少一个结果测量的[[Reliability|信度]]与效度，以及所有干预组件是否一起分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
 
 ## 最高评级标准
 

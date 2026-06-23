@@ -6,7 +6,7 @@ aliases:
 summary: "跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Reliability]]"
   - "[[International Education]]"
   - "[[Descriptive Analysis]]"
   - "[[Paradigm]]"
@@ -69,7 +70,7 @@ updated: 2026-05-18
 > **机械客观性（Mechanical Objectivity）**（Porter, 1995）
 > 数字之所以被信任，不是因为它们更准确，而是因为方法论程序化产生了一种"机械客观性"——这恰恰是政策制定者所珍视的。标准化的程序规则替代了个人判断([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])。
 >
-> > 例：EAG 指标的年度常规化生产——相同的统计公式、相同的分类框架、相同的协商程序——使得指标获得了一种程序产生的可信度，即使底层数据充满妥协
+> > 例：EAG 指标的年度常规化生产——相同的统计公式、相同的分类框架、相同的协商程序——使得指标获得了一种程序产生的可[[Reliability|信度]]，即使底层数据充满妥协
 >
 > **排序（Ordering）**（Law, 1994; Berg & Timmermans, 2000; Bowker & STAR, 2000）
 > 使多样化世界变得可管理和可比较需要各种"排序"操作——分类、标准化、选择、删除——来统一不同的实体([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9–10]])。

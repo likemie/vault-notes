@@ -8,7 +8,7 @@ aliases:
 summary: "通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology of Resistance]]"
   - "[[Social Museology]]"
   - "[[Knowledge Production]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods: []
@@ -104,7 +105,7 @@ updated: '2026-05-18'
 >
 > - **经济张力**：有工人的公司 vs AI 自动化后无工人的公司；增长 vs 去增长（degrowth）([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–117]])
 > - **能源与发展张力**：化石燃料发展模式 vs 可再生能源模式，两种社会项目之间的选择([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–116]])
-> - **信息权威张力**：传统[[Knowledge Production|知识生产]]权威（大学、研究机构）vs 社交媒体影响者（influencers）——没有正式可信度的人通过粉丝数量成为各领域权威([[Argument_Delambre_2022_Springer|Delambre, 2022, p.116]])
+> - **信息权威张力**：传统[[Knowledge Production|知识生产]]权威（大学、研究机构）vs 社交媒体影响者（influencers）——没有正式可[[Reliability|信度]]的人通过粉丝数量成为各领域权威([[Argument_Delambre_2022_Springer|Delambre, 2022, p.116]])
 > - **人际关系张力**：面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、真实、谎言等基本概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–116]])
 > - **大学内部张力**：学科新旧内容之争、正式知识 vs 社会新兴知识、大学回应社会变化的速度远落后于变化本身的速度([[Argument_Delambre_2022_Springer|Delambre, 2022, p.114–115, 118–119]])
 

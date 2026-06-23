@@ -8,7 +8,7 @@ summary: "一种综合主观层次分析法（AHP）与客观熵权法（EWM）�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 2
+method_related_count: 3
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -16,7 +16,8 @@ tags:
   - method/weighting
   - method/composite-index
   - method/decision-analysis
-related_concepts: []
+related_concepts:
+  - "[[Reliability]]"
 related_theories: []
 related_methods:
   - "[[Coupling Coordination Model]]"
@@ -79,7 +80,7 @@ updated: 2026-06-12
 > [!warning]
 > - **AHP过程不透明**：若未报告专家数量、背景及评判过程，AHP方法论的严谨性无法评估。[[Argument_Fan_Song_Zhai_2024_RSEE|(Fan et al., 2024, p. 71)]]
 > - **时间不变性假设**：组合权重基于全时段数据计算，未考虑指标重要性随时间推移的变化
-> - **LSD模型的对称性假设**：LSD对主观和客观权重偏差施以同等惩罚，但两者的可靠性在实际中可能不等
+> - **LSD模型的对称性假设**：LSD对主观和客观权重偏差施以同等惩罚，但两者的[[Reliability|可靠性]]在实际中可能不等
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "一种认为真正的知识只能来自感官经验、观察和实验的哲学立场，主张将自然科学方法直接应用于社会现象研究，以发现普遍法则为目标。"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theme/research-philosophy
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Reliability]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -62,7 +63,7 @@ Giddens（1975）识别出实证主义包含两个相互关联的假设（[[Argu
 
 > [!assumptions] 科学的四个基本假设
 > - **决定论**（determinism）事件都有原因，由先行情境所决定；因果联系最终可以被揭示。宇宙不以反复无常的方式运作，科学家的终极目标是制定法则以实现预测和控制
-> - **经验主义**（empiricism）可靠知识只能来自经验。理论的可靠性取决于支持它的经验证据的性质（Barratt, 1971）
+> - **经验主义**（empiricism）可靠知识只能来自经验。理论的[[Reliability|可靠性]]取决于支持它的经验证据的性质（Barratt, 1971）
 > - **简约原则**（parsimony）现象应以最经济的方式解释（"奥卡姆剃刀"）——解释最多、方式最简单的理论最好，但不能再简单（Einstein）
 > - **普遍性**（generality）从对具体个别的观察出发，将发现推广到更广阔的世界
 

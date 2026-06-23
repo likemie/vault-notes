@@ -13,6 +13,7 @@ related_concepts:
   - "[[Trade Mission]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
+  - "[[Reliability]]"
   - "[[Alumni Engagement]]"
   - "[[Executive Education]]"
   - "[[University Corporate Engagement Professional]]"
@@ -41,7 +42,7 @@ title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_key: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_display_title: "Connecting, Exploring, Uncovering, and Building Partnerships"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -107,7 +108,7 @@ citation_aliases:
 
 4. 伙伴关系始于人与人的连接。产学关系的"拥护者"不是随机出现的，而是集中出现在特定的交汇空间。这些空间包括：学术研讨会和[[Industry Advisory Board|行业咨询委员会]]，教授展示前沿研究，企业代表寻找技术灵感；[[University Industry Demonstration Partnership|UIDP]] 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动，专职从事产学对接的人定期交流经验；[[Professors of Practice|实践教授]]岗位，产业资深人士进入大学授课，成为天然的桥梁人物；[[Trade Mission|政府贸易代表团]]，大学随政府出访，直接接触海外企业决策者；校友活动，最容易被忽视但可能最有效的连接渠道(p.74)。
 
-5. 校友网络的独特优势在于"双重信任"。校友既了解母校的研究优势和文化，又在产业中建立了信誉和人际网络。一个在制药公司担任研发副总裁的校友，比任何大学宣传册都更了解公司当前的技术痛点；同时，她在公司内部为母校背书时，比一个陌生推销电话有百倍的可信度(pp.74–75)。
+5. 校友网络的独特优势在于"双重信任"。校友既了解母校的研究优势和文化，又在产业中建立了信誉和人际网络。一个在制药公司担任研发副总裁的校友，比任何大学宣传册都更了解公司当前的技术痛点；同时，她在公司内部为母校背书时，比一个陌生推销电话有百倍的可[[Reliability|信度]](pp.74–75)。
 
 > 设想一所大学希望与当地新能源企业建立合作。与其通过官网"联系我们"表单发送冷邮件，不如找到在这家公司工作的校友：几年前从该校材料科学系毕业的博士，现在已是电池研发团队的核心成员。这位校友不仅知道公司正在攻关的固态电解质难题，还清楚哪位教授的研究方向与这个难题高度吻合。一通校友电话的效力，超过十封冷邮件。
 

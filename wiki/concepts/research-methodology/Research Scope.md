@@ -9,7 +9,7 @@ aliases:
 summary: "研究规划中的边界管理概念，指将研究课题收窄到可管理的比例以实现严谨性和可操作性，涉及范围限定、边界设定和窄聚焦策略"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Research Practicability]]"
   - "[[Fitness for Purpose]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
@@ -77,7 +78,7 @@ updated: 2026-06-20
 
 > [!chain-link] 窄化通向严谨
 > - **课题宏大 → 无法管理**
->   选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985: 47）。严谨性——[[Fitness for Purpose|目的适配性]]和方法可靠性——只有在被紧密框定的课题中才能嵌入。
+>   选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985: 47）。严谨性——[[Fitness for Purpose|目的适配性]]和方法[[Reliability|可靠性]]——只有在被紧密框定的课题中才能嵌入。
 > - **无法管理 → 无法严谨**
 >   课题过于宏大会导致无法管理，无法管理则无法嵌入严谨性，缺乏严谨性则研究失败。
 > - **窄聚焦 ≠ 浅薄**

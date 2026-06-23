@@ -11,7 +11,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 64
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Research Question]]"
   - "[[School Leadership]]"
+  - "[[Reliability]]"
   - "[[Publication Bias]]"
   - "[[Tracking]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -196,7 +197,7 @@ updated: 2026-06-17
 > [!fit-grid] 适用判断
 > - **适合使用**：在医学领域（来源领域），RCT 适合在已有充分理论理解治疗机制的前提下评估特定治疗方案的效果。在教育领域，当[[Research Question|研究问题]]是关于可被离散定义的干预、且情境相对可控时，RCT 可能提供有用的比较信息。即使批判者也承认 RCT 可以挑战既有的专业习惯和突出替代方案（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]]）。在教育中，RCT 适合回答因果归属问题——研究的是原因的效果（effects of causes）而非效果的原因（causes of effects）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
 > - **谨慎使用**：当干预涉及复杂社会互动（如[[School Leadership|学校领导力]]、教学法改革）时，因果力量分布广泛且无法被隔离为单一干预和单一结果。样本代表性无法保证时，从试验到政策的外推存在根本性不确定。
-> - **不适合使用**：研究问题是关于[[Causal Processes|因果过程]]如何运作（how）而非仅仅是否有效（whether）。需要理解参与者动机、语境意义或复杂系统的[[Emergence|涌现]]属性时。时间尺度不适合前后测测量时——后测时机不当可能破坏关于原因效果的陈述的可靠性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 81]]）。
+> - **不适合使用**：研究问题是关于[[Causal Processes|因果过程]]如何运作（how）而非仅仅是否有效（whether）。需要理解参与者动机、语境意义或复杂系统的[[Emergence|涌现]]属性时。时间尺度不适合前后测测量时——后测时机不当可能破坏关于原因效果的陈述的[[Reliability|可靠性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 81]]）。
 
 ---
 

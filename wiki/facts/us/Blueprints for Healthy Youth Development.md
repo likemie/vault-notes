@@ -14,6 +14,8 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Sample Size Determination]]"
+  - "[[Reliability]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -50,7 +52,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在设计标准[[Coding in Qualitative Research|编码]]中，Blueprints 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 为 0。也就是说，它描述了 RCT，但没有提供与 [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]] 或 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 同等细化的设计专属实施标准；它只简要提及一般 QED，未提及 RDD 与 ITS([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
 >
-> Blueprints 明确给单项研究设定"certified / not certified"判断，只有达到方法质量标准的研究才能进入项目评级。其研究质量评估要素包括处理分配程序、流失水平、基线等值程度、统计方法适当性、是否为 [[Intent-to-Treat Analysis|ITT]] 估计、结果性质、样本量、测量工具信度与效度等([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13, 15]])。
+> Blueprints 明确给单项研究设定"certified / not certified"判断，只有达到方法质量标准的研究才能进入项目评级。其研究质量评估要素包括处理分配程序、流失水平、基线等值程度、统计方法适当性、是否为 [[Intent-to-Treat Analysis|ITT]] 估计、结果性质、[[Sample Size Determination|样本量]]、测量工具[[Reliability|信度]]与效度等([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13, 15]])。
 
 ## 最高评级标准
 

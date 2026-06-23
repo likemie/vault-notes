@@ -9,9 +9,9 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/sampling
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Purpose Statement]]"
+  - "[[Reliability]]"
   - "[[Gatekeepers]]"
   - "[[Naturalistic Generalization]]"
   - "[[Rich and Thick Description]]"
@@ -35,6 +36,7 @@ related_methods:
   - "[[Convenience Sampling]]"
   - "[[Quota Sampling]]"
   - "[[Purposeful Sampling]]"
+  - "[[Qualitative Research]]"
   - "[[Dimensional Sampling]]"
   - "[[Snowball Sampling]]"
   - "[[Volunteer Sampling]]"
@@ -73,7 +75,7 @@ updated: 2026-06-22
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**：非[[Random Sampling|概率抽样]]通常与诠释主义、[[Constructivist Paradigm|建构主义]]或[[Pragmatic Paradigm|实用主义]]知识观相配合，接受研究发现的局部性和情境性。
 > - **研究者角色**：研究者主动判断和选择案例，根据[[Purpose Statement|研究目的]]和问题决定纳入/排除标准，研究者判断是方法的核心而非偏差来源。
-> - **有效性标准**：不适用统计推广标准；改用可信度（credibility）、可转移性（transferability）、深度和丰富性等质性标准。
+> - **有效性标准**：不适用统计推广标准；改用可[[Reliability|信度]]（credibility）、可转移性（transferability）、深度和丰富性等质性标准。
 > - **不声称回答的问题**：不能声称样本统计量代表总体参数；不能进行基于概率的统计推论；不能报告误差范围。
 
 > [!method-stack] 方法层级
@@ -90,17 +92,17 @@ updated: 2026-06-22
 > |---|---|---|---|
 > | [[Convenience Sampling\|便利抽样]] | Convenience Sampling | 选择最近便的个体；不追求代表性 | 案例研究、问卷试点 |
 > | [[Quota Sampling\|配额抽样]] | Quota Sampling | 按总体比例代表显著特征；三步程序 | 已知比例但无法随机抽样 |
-> | [[Purposeful Sampling\|目的性抽样]] | Purposive Sampling | 手工挑选；三大类 14 种子类型 | 质性研究核心方法 |
+> | [[Purposeful Sampling\|目的性抽样]] | Purposive Sampling | 手工挑选；三大类 14 种子类型 | [[Qualitative Research\|质性研究]]核心方法 |
 > | [[Dimensional Sampling\|维度抽样]] | Dimensional Sampling | 配额抽样的细化；多维交叉覆盖 | 多因素组合探索 |
 > | [[Snowball Sampling\|滚雪球抽样]] | Snowball Sampling | 社会网络逐层扩展；受访者驱动 | 难以接触人群、敏感话题 |
 > | [[Volunteer Sampling\|志愿者抽样]] | Volunteer Sampling | 依赖自愿参与者；最后选择 | 准入极度受限 |
-> | [[Theoretical Sampling\|理论抽样]] | Theoretical Sampling | 扎根理论核心；迭代至理论饱和 | 理论生成研究 |
+> | [[Theoretical Sampling\|理论抽样]] | Theoretical Sampling | [[Grounded Theory\|扎根理论]]核心；迭代至理论饱和 | 理论生成研究 |
 
 ## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用**：小规模研究、案例研究、[[Ethnography|民族志]]、行动研究、试点研究、敏感话题研究、难以接触人群研究，以及不打算推广发现的研究。
-> - **谨慎使用**：需要部分推广但无法获取概率样本时；需结合[[Triangulation|三角互证]]增强可信度；涉及多个子组时需注意代表性。
+> - **谨慎使用**：需要部分推广但无法获取概率样本时；需结合[[Triangulation|三角互证]]增强可[[Reliability|信度]]；涉及多个子组时需注意代表性。
 > - **不适合使用**：需要精确估计总体参数的[[Survey Research|调查研究]]、需要误差范围的民调、[[Randomised Controlled Trials|随机对照试验]]、需基于概率进行统计推论的研究。
 
 ## 局限性

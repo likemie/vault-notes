@@ -12,7 +12,7 @@ title: "Argument_Lekhal_2015_Paideia"
 argument_key: "Argument_Lekhal_2015_Paideia"
 argument_display_title: "Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Learning-Impeding Behavior]]"
@@ -77,7 +78,7 @@ citation_aliases:
 > - 方法：[[Observational and Correlational Research]]，并采用分层[[Multiple Regression|多元回归]]分析。
 > - 样本：2012 年秋季挪威 48 所学校、5-10 年级 4128 名学生（男 2062，女 2066）(p.79)。
 > - 数据来源：学生问卷与班主任问卷双来源；学业表现由教师对挪威语、数学、英语评分构成(pp.79-82)。
-> - 统计处理：信度分析、相关分析、[[Analysis of Variance|方差分析]]（Cohen's d）与分性别回归模型；缺失值用 EM 算法处理(pp.81-83)。
+> - 统计处理：[[Reliability|信度]]分析、相关分析、[[Analysis of Variance|方差分析]]（Cohen's d）与分性别回归模型；缺失值用 EM 算法处理(pp.81-83)。
 >
 > ### [[Variable|变量]][[Operationalization|操作化]]细节
 >
@@ -99,7 +100,7 @@ citation_aliases:
 > | 自我主张      | [[Assertiveness]]                                 | 教师评定 | 自变量（行为）    | 8 项 / 1-4 / .91    | [[Assertiveness]]                                |
 > | 师生关系      | Relation to teacher                           | 学生自评 | 自变量（关系）    | 8 项 / 1-4 / .86    | [[Student-Teacher Relationship]]                 |
 > | 班级学习文化    | [[Classroom Learning Culture]]                    | 学生自评 | 自变量（环境）    | 4 项 / 1-4 / .72    | [[Classroom Learning Culture]]                   |
-> | 课堂反馈      | Feedback in teaching                          | 学生自评 | 自变量（教学过程）  | 5 项 / 1-5 / .84    | [[Feedback]]                                     |
+> | 课堂反馈      | [[Feedback]] in teaching                          | 学生自评 | 自变量（教学过程）  | 5 项 / 1-5 / .84    | [[Feedback]]                                     |
 > | 学习阻碍行为    | Learning-impeding behavior                    | 学生自评 | 自变量（行为）    | 10 项 / 1-5 / .85   | [[Learning-Impeding Behavior]]                   |
 > | 学习兴趣与学业愉悦 | Academic well-being/interest                  | 学生自评 | 自变量（态度）    | 4 项 / 1-4 / .68    | [[Academic Well-being and Interest in Learning]] |
 > | 性别        | Gender                                        | 背景变量 | 控制/分组变量    | 1 项 / 1-2          | [[Gender Differences in Academic Achievement]]   |

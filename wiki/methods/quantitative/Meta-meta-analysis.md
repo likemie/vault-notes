@@ -12,7 +12,7 @@ summary: "在更高层次汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Reliability]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[School Effectiveness]]"
@@ -151,7 +152,7 @@ updated: '2026-05-21'
 >
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]从认识论角度提出根本性质疑：将已聚合的结果再次聚合在原则上是否合理——"当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？"
 >
-> Wecker, Vogel & Hetmanek（2016, p.33）从方法论角度补充：即使二级汇总本身执行正确，也无法纠正一级中的偏差——"随后不能在一级元分析中纠正的也将是"——这一误差传播特性意味着元-元分析的可靠性受到其纳入的每一项元分析质量的硬性约束。
+> Wecker, Vogel & Hetmanek（2016, p.33）从方法论角度补充：即使二级汇总本身执行正确，也无法纠正一级中的偏差——"随后不能在一级元分析中纠正的也将是"——这一误差传播特性意味着元-元分析的[[Reliability|可靠性]]受到其纳入的每一项元分析质量的硬性约束。
 
 ## 操作步骤
 
@@ -222,7 +223,7 @@ updated: '2026-05-21'
 >
 > **要求 6（联合标准误和置信区间）**：SE_d = √(1/Σwⱼ)，95% CI = d ± 1.96·SE_d，必须进行显著性检验。
 >
-> #### 可靠性分析：要求违背的后果
+> #### [[Reliability|可靠性]]分析：要求违背的后果
 >
 > | 违背类型 | 对 d 的影响 | 对 SE_d 的影响 | 可靠性后果 |
 > |---------|------------|--------------|-----------|

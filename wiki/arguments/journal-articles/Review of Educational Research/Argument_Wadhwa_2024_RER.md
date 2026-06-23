@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Research Question]]"
+  - "[[Reliability]]"
   - "[[Multimethod Research]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
@@ -86,12 +87,12 @@ citation_aliases:
 > [!info] [[Research Question|研究问题]]
 > Wadhwa, Zheng & Cook 的论文围绕三个问题展开：第一，教育清算中心用于归因项目有效性的科学标准有多大差异；第二，不同清算中心对同一项目的效果结论收敛程度如何；第三，如果同一项目的评级不同，哪些因素最可能解释这种差异(pp.4–5)。
 >
-> 论文的总体目标是检验"evidence-based"判断在清算中心这一制度语境中的可靠性：如果清算中心声称生成并传播关于教育干预正向效果的有效知识，那么不同清算中心对同一项目的判断至少应有较高一致性(p.4)。
+> 论文的总体目标是检验"evidence-based"判断在清算中心这一制度语境中的[[Reliability|可靠性]]：如果清算中心声称生成并传播关于教育干预正向效果的有效知识，那么不同清算中心对同一项目的判断至少应有较高一致性(p.4)。
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的[[Necessary and Sufficient Conditions|必要条件]](p.4)。
+> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为[[Reliability|可靠性]]是[[Construct|构念]]效度的[[Necessary and Sufficient Conditions|必要条件]](p.4)。
 > - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）(p.4)。
 
 ## 研究方法

@@ -9,7 +9,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
+  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Research Ethics]]"
@@ -75,7 +76,7 @@ updated: '2026-06-19'
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**：主张知识是脉络化的、建构的，强调通过近距离、浸润式的身体在场获取一手的社会学与教育学经验。
 > - **研究者角色**：作为有意识的“研究工具”，在完全参与到完全观察的谱系中动态调整，反思自身的[[Reflexivity|反身性]]（Reflexivity）与伦理关系。
-> - **有效性标准**：主要通过可信度（Credibility）、转移性（Transferability）、确认性（Confirmability）与[[Triangulation|三角验证]]（Triangulation）来确立研究质量。
+> - **有效性标准**：主要通过可[[Reliability|信度]]（Credibility）、转移性（Transferability）、确认性（Confirmability）与[[Triangulation|三角验证]]（Triangulation）来确立研究质量。
 > - **不声称回答的问题**：不能声称回答大规模[[Variable|变量]]之间的统计相关，也不能进行高[[Internal Validity|内部效度]]的净因果效果识别。
 
 > [!method-stack] 方法层级
@@ -92,7 +93,7 @@ updated: '2026-06-19'
 > 1. **明确观察问题与伦理**：明确进入现场的时机、[[Reflexivity|反身性]]与伦理关系，获取进入许可。
 > 2. **选择观察者角色**：根据现场特征确定在“参与到观察”连续谱中的位置（如完全观察者或作为参与者的观察者）。
 > 3. **记录田野数据**：利用[[Observation Protocol|观察协议]]开展实地观察，分别记录描述性笔记与反思性笔记。
-> 4. **质量控制与[[Triangulation|三角验证]]**：利用三角互证、成员检查等方式提高可信度。
+> 4. **质量控制与[[Triangulation|三角验证]]**：利用三角互证、成员检查等方式提高可[[Reliability|信度]]。
 > 5. **提炼与叙事**：整合田野笔记，进行[[Coding in Qualitative Research|质性编码]]，提炼主题或开展个案叙事。
 
 ### 质性方法模块
@@ -140,8 +141,8 @@ updated: '2026-06-19'
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Qualitative Research\|质性研究]] | 方法 | 质性观察是质性研究收集一手现场数据的主要前置方法之一。 |
-> | [[Observation Protocol\|观察协议]] | 方法 | 提供记录描述性与反思性笔记的标准一页纸格式工具。 |
-> | [[Triangulation\|三角互证]] | 方法 | 观察通常与访谈、文件分析组合使用，以实现互证和提升可信度。 |
+> | [[Observation Protocol\|观察协议]] | 方法 | 提供记录描述性与[[Reflexivity\|反思性]]笔记的标准一页纸格式工具。 |
+> | [[Triangulation\|三角互证]] | 方法 | 观察通常与访谈、文件分析组合使用，以实现互证和提升可[[Reliability\|信度]]。 |
 > | [[Ethnography\|民族志]] | 方法 | 质性观察是民族志研究中不可或缺的浸润式现场考察工具。 |
 > | [[Critical Realism\|批判实在论]] | 理论 | 里格利（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 16]]）指出，探索复杂的因果涌现与行动者推理需要引入质性观察以配合方法论多元主义。 |
 

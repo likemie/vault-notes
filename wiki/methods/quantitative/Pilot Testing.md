@@ -11,7 +11,7 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Variable]]"
+  - "[[Sample Size Determination]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
@@ -74,7 +76,7 @@ updated: 2026-05-31
 ## 局限性
 
 > [!warning]
-> - 试点测试的样本量通常较小，其信度估计（如 [[Internal Consistency and Cronbach's Alpha|Cronbach's α]]）可能不稳定。试点结果应作为改进工具的方向性参考，而非最终信效度证据。
+> - 试点测试的[[Sample Size Determination|样本量]]通常较小，其[[Reliability|信度]]估计（如 [[Internal Consistency and Cronbach's Alpha|Cronbach's α]]）可能不稳定。试点结果应作为改进工具的方向性参考，而非最终信效度证据。
 > - 试点测试需要额外的时间和资源——在时间紧迫的项目中可能被省略，但省略会增加正式研究中出现工具或程序问题的风险（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 使用此方法的研究

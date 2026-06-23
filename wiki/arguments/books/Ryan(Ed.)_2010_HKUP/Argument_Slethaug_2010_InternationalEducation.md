@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[Global Universities Rankings]]"
   - "[[Rote Learning]]"
@@ -73,7 +74,7 @@ citation_aliases:
 > [!info]
 > 汇集来自 [[OECD]]、IIE（[[International Education|国际教育]]协会）、UNESCO、各国政府统计和主流媒体的二手数据，再结合已有学术文献的分析，拼接出一幅国际教育发展的全景图。
 >
-> 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的可靠性。
+> 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability|可靠性]]。
 
 ## 论证结构
 
@@ -219,7 +220,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 ## 局限性与批评
 
 > [!warning]
-> - **数据可靠性**：本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
+> - **数据[[Reliability|可靠性]]**：本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
 > - **核心概念未[[Operationalization|操作化]]**：对"[[International Education|国际教育]]""全球化""[[Knowledge-Based Economy|知识经济]]"等概念的使用停留在常识层面，未进行批判性审视或操作化定义。"知识经济"作为一个有争议的概念被当作事实接受。
 > - **缺乏原创实证分析**：本章作为背景章节，论证主要是描述性和综合性的——这在全书结构中合理，但独立看时说服力有一定限度。
 > - **西方中心视角**：尽管 Slethaug 批评 [[International Baccalaureate|IB]] 的西方文化预设，他对"国际教育"的整体叙事仍然以西方机构（[[OECD]]、英美澳大学）为基准框架，未充分考虑非西方的国际教育实践形态。

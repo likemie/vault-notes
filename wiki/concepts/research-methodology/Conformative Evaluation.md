@@ -6,7 +6,7 @@ aliases:
 summary: "Stronach 和 Morris（1994）提出的概念，描述在政治化压力下评估日益呈现顺应委托方议程的8种特征：短期导向、忽视长期结果、过度倚重项目参与者感知、忽视批评者、无理论取向、合同约束下的自我审查、隐性项目辩护和职业精神分裂。"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Theoretical Perspective]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -61,7 +62,7 @@ updated: 2026-06-17
 > 当评估与政治决策和资源分配紧密绑定时，评估者面临的不是"是否应该保持独立"的道德选择，而是**结构性的[[Conflict of Interest in Research|利益冲突]]**——独立批评可能导致合同不续签、未来资助机会丧失。顺应性评估不是个体评估者的道德失败，而是高度政治化的评估生态系统的必然产物。
 
 > [!implication] 命题后果
-> - **对评估知识的后果**：顺应性评估产生的"证据"系统性偏向正面，降低了委托评估作为政策决策信息基础的可信度。
+> - **对评估知识的后果**：顺应性评估产生的"证据"系统性偏向正面，降低了委托评估作为政策决策信息基础的可[[Reliability|信度]]。
 > - **对评估职业的后果**：评估者发展出"双重自我"——在合同报告中顺应，在学术发表中批判——削弱了职业的整合性。
 
 ---

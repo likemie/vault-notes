@@ -6,7 +6,7 @@ aliases:
 summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Reliability]]"
   - "[[Technology Infusion]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -119,7 +120,7 @@ updated: '2026-05-23'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **本地知识的可靠性问题**：有批评认为本地知识本质上是主观的、可能充满认知偏差的，将其与科学证据并列可能导致以"直觉"为名的低效甚至有害实践
+> - **本地知识的[[Reliability|可靠性]]问题**：有批评认为本地知识本质上是主观的、可能充满认知偏差的，将其与科学证据并列可能导致以"直觉"为名的低效甚至有害实践
 > - **被忽视不等于被否定**：[[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 并不主张用本地知识取代研究证据，而是主张二者互补。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]] 强化了这一立场："不存在识别和传播'什么有效'的客观程序"——利益相关者必须成为批判性消费者，将研究证据与本地知识结合运用
 > - **Hayek 框架的局限**：将 Hayek 的价格系统类比应用于教育知识整合可能存在局限——教育领域的"知识"不像市场价格那样有自然聚合机制
 

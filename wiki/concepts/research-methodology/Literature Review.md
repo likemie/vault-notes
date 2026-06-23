@@ -4,13 +4,14 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Topic]]"
+  - "[[Reliability]]"
   - "[[Abstract]]"
   - "[[Literature Search]]"
   - "[[Research Question]]"
@@ -43,7 +44,7 @@ updated: 2026-06-21
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献综述是一个论证性文本，而非描述性总结。它综合多种材料形成持续的、累积的论证，最终导向结论——如当前研究需要研究什么、如何研究、为何研究。
-> - **用途** 确立研究的理论框架、信度和效度基础；定义关键术语；识别领域空白；为研究提供跳板和正当性。
+> - **用途** 确立研究的理论框架、[[Reliability|信度]]和效度基础；定义关键术语；识别领域空白；为研究提供跳板和正当性。
 > - **边界** 文献综述不是[[Abstract|文献摘要]]的堆砌，不是展示"我读过这些"的自恋行为，也不等同于[[Literature Search|文献检索]]（检索是收集材料的技术性操作，综述是对材料进行论证组织的写作）。
 
 > [!boundary]- 概念边界
@@ -72,7 +73,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 > [!frames-ref] 文献综述的七项目的
 > 1. **避免重复造轮子**：确保拟议研究不只是回收已有材料（除非是复制研究）
-> 2. **赋予研究可信度与合法性**：向读者展示研究者已做好功课，了解该领域最新的关键议题
+> 2. **赋予研究可[[Reliability|信度]]与合法性**：向读者展示研究者已做好功课，了解该领域最新的关键议题
 > 3. **澄清关键概念、议题和术语**及其对研究的意义
 > 4. **作为进入研究者自身研究的跳板**：提出问题，展示研究领域中的空白
 > 5. **展示研究者对该领域的批判性判断**，为研究提供新的理论、概念、方法论和实质性洞见

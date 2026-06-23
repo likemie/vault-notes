@@ -8,7 +8,7 @@ summary: "通过在不同条件下对个体或小群体进行重复测量并让�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[External Validity]]"
+  - "[[Reliability]]"
   - "[[Threats to External Validity]]"
   - "[[Theories of Policy Change]]"
 related_theories:
@@ -137,7 +138,7 @@ updated: '2026-05-18'
 
 [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
 
-> 例：如果一项 ABAB 设计的基线阶段数据点不足或测量信度存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
+> 例：如果一项 ABAB 设计的基线阶段数据点不足或测量[[Reliability|信度]]存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 
 ## 局限性
 

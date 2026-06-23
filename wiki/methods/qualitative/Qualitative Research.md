@@ -10,7 +10,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 47
+method_related_count: 49
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Recommendations for Practice]]"
+  - "[[Reliability]]"
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
   - "[[Descriptive Analysis]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Operationalization]]"
   - "[[Rich and Thick Description]]"
+  - "[[External Validity]]"
   - "[[Internal Validity]]"
   - "[[External Auditor]]"
 related_theories:
@@ -145,7 +147,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，从具体到一般，涉及多个分析层次：
 
 1. **组织和准备数据**：转录访谈、光学扫描材料、录入田野笔记、编目所有视觉材料，并按信息来源排序整理数据。
-2. **通读所有数据**：获得整体感知和反思的机会——参与者说了什么？思路的基调是什么？整体深度、可信度和信息可用性的印象如何？
+2. **通读所有数据**：获得整体感知和反思的机会——参与者说了什么？思路的基调是什么？整体深度、可[[Reliability|信度]]和信息可用性的印象如何？
 3. **[[Coding in Qualitative Research|编码]]数据**：将文本或图像数据拆分为片段，用代表类别的词标注这些片段（详见 [[Coding in Qualitative Research]]）。
 4. **识别主题**：将编码归并为少量主题或类别（通常五到七个），可以是关于场所或个体的描述，也可以是关于[[Research Question|研究问题]]的主题。主题应展示来自个体的多元视角，包含多样化的引语和具体证据。
 5. **发展[[Story Line|故事线]]解释**：将主题相互连接为故事线，呈现问题的发展编年史。故事线可以聚焦单一个体或群体，通常出现在期刊论文的讨论部分。
@@ -170,7 +172,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 > [!tip]- 区分
 > - 描述性方法使用参与者日常语言；分析框架使用"分析传统"（analytic tradition）进行解释（Braun & Clark, 2006, p.78）。
-> - 描述性方法是基础，分析框架在基础上叠加——两者具有不同的价值，描述性方法不因其"基础性"而在价值或可信度上低于分析框架。
+> - 描述性方法是基础，分析框架在基础上叠加——两者具有不同的价值，描述性方法不因其"基础性"而在价值或可[[Reliability|信度]]上低于分析框架。
 
 ---
 
@@ -211,7 +213,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > | 涌现式设计，意义和解释与数据来源协商（Lincoln & Guba, 1985; Merriam, 1988） | [[Emergent Design\|涌现式设计]] |
 > | 依赖内隐知识（直觉和感觉知识）（Lincoln & Guba, 1985） | — |
 >
-> 最后一句指出质性研究的评判标准与量化不同——追求的是"基于连贯性、洞察力和工具效用的可信性"（Eisner, 1991）和"通过验证过程的可靠性"（Lincoln & Guba, 1985），而非传统的效度和信度指标——直接对应教材后续的效度与信度讨论。
+> 最后一句指出质性研究的评判标准与量化不同——追求的是"基于连贯性、洞察力和工具效用的可信性"（Eisner, 1991）和"通过验证过程的[[Reliability|可靠性]]"（Lincoln & Guba, 1985），而非传统的效度和信度指标——直接对应教材后续的效度与信度讨论。
 >
 > **二、研究设计的选择与论证**
 >
@@ -288,7 +290,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > | 同行检验 | [[Peer Debriefing\|同行审议]] | 教育心理学系的一名博士生和研究生助理担任同行检验者 |
 > | [[Participatory Research\|参与式研究]]模式 | — | 参与者从项目设计到检查解释和结论的多数阶段都有参与 |
 > | 研究者偏见澄清 | 澄清偏见 | 在研究开始时就以书面形式在方案中阐述研究者偏见（见"研究者的角色"一节） |
-> | [[Rich and Thick Description\|丰富密集描述]] | 丰富密集描述 | 提供"丰富、密集、详细的描述，以便任何对迁移性感兴趣的人都有坚实的比较框架"（Merriam, 1988）——这同时作为确保外部效度的主要策略 |
+> | [[Rich and Thick Description\|丰富密集描述]] | 丰富密集描述 | 提供"丰富、密集、详细的描述，以便任何对迁移性感兴趣的人都有坚实的比较框架"（Merriam, 1988）——这同时作为确保[[External Validity\|外部效度]]的主要策略 |
 >
 > 信度方面使用三种技术：研究者详细记录研究焦点、研究者角色、参与者立场和选择依据以及数据收集的情境（LeCompte & Goetz, 1984）；三角验证或多重数据收集与分析方法同时增强信度和[[Internal Validity|内部效度]]（Merriam, 1988）；详细报告数据收集和分析策略。所有阶段均接受一位经验丰富的质性研究方法[[External Auditor|外部审计者]]的审查。
 >

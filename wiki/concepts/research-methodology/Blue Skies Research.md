@@ -9,7 +9,7 @@ aliases:
 summary: "由研究者好奇心驱动的开放式、探索性研究，旨在贡献原创知识、扩展理论前沿，区别于理论已被给定、议程由委托方设定的评估研究或应用研究。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Question]]"
   - "[[External Validity]]"
+  - "[[Reliability]]"
   - "[[Categorical Funding]]"
   - "[[Knowledge Production]]"
   - "[[Research Topic]]"
@@ -72,7 +73,7 @@ updated: 2026-06-17
 > | 议程设定 | 研究者自主设定 | 赞助方或政策制定者设定 |
 > | 受众 | 学术同行、研究社区 | 委托方、利益相关者、特定决策者 |
 > | 时间约束 | 通常不受限，遵循研究内在节奏 | 有明确的截止期限 |
-> | 评判标准 | 方法论贡献与领域推进（内部与[[External Validity\|外部效度]]） | 效用（utility）与可信度（credibility） |
+> | 评判标准 | 方法论贡献与领域推进（内部与[[External Validity\|外部效度]]） | 效用（utility）与可[[Reliability\|信度]]（credibility） |
 
 ---
 

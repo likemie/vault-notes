@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 104
+related_count: 106
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -20,6 +20,10 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Didaktik]]"
+  - "[[Bildung]]"
+  - "[[Cult of the Guru]]"
+  - "[[Neo-Taylorism]]"
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
   - "[[Variable]]"
@@ -32,6 +36,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
+  - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
@@ -42,8 +47,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Causality]]"
   - "[[Statistical Significance]]"
-  - "[[Didaktik]]"
-  - "[[Bildung]]"
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Operationalization]]"
@@ -58,9 +61,8 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Post-structuralism]]"
-  - "[[Neo-Taylorism]]"
-  - "[[Cult of the Guru]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
   - "[[Scientism]]"
@@ -151,11 +153,11 @@ updated: 2026-05-21
 >
 > | 批评线索 | 核心问题 | 代表文献 |
 > |---|---|---|
-> | **方法论批评** | 效应量阈值武断、二级元分析统计缺陷、研究质量未筛选 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
-> | **教学理论批评** | 教学概念空洞、教育乐观主义、教师角色浪漫化 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
-> | **教育哲学批判** | 评价理论替代教育目的、Bildung 被遮蔽 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |
+> | **方法论批评** | [[Effect Size\|效应量]]阈值武断、二级[[Meta-analysis\|元分析]]统计缺陷、研究质量未筛选 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
+> | **[[Didaktik\|教学理论]]批评** | 教学概念空洞、教育乐观主义、教师角色浪漫化 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
+> | **教育哲学批判** | 评价理论替代教育目的、[[Bildung]] 被遮蔽 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |
 > | **文化政治批评** | 可见性作为支配形式、知识／权力再生产 | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] |
-> | **大师崇拜与新泰勒主义** | 制度权力集中、教师自主性被压缩 | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
+> | **[[Cult of the Guru\|大师崇拜]]与[[Neo-Taylorism\|新泰勒主义]]** | 制度权力集中、教师自主性被压缩 | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
 > | **政策与制度批评** | 政策外推正当性、非学校因素排除、商业化 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] |
 
 
@@ -331,7 +333,7 @@ Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确�
 > - **(b) 声称程序** 描述 Hattie 在 [[Visible Learning]] 文本中说明的方法
 > - **(c) 实际重构** 从附录 A/B 提取具体例子，重构 Hattie 的实际执行
 > - **(d) 偏差记录** 对照要求逐项记录偏差
-> - **(e) 可靠性评估** 评估偏差对效应量估计和可靠性结论的方向性影响
+> - **(e) [[Reliability|可靠性]]评估** 评估偏差对效应量估计和可靠性结论的方向性影响
 
 > [!citation-card]- Wecker et al., 2016, p. 23
 > 「从'VL'中给出的例子并不代表一种系统的方法，这是来自文本。相反，它们被选为示例，其方式是讲清楚。因此，我们通常不提供进一步的文件。」
@@ -347,9 +349,9 @@ Wecker 等人首先检查 Hattie 使用的一级元分析数据库是否满足�
 > [!ref-table] 方法论要求：主要研究表必须包含
 > | 字段 | 符号 | 说明 |
 > |-----|------|------|
-> | 样本量 | $n_E$, $n_C$ | 实验组与对照组各自的受试者数量 |
+> | [[Sample Size Determination\|样本量]] | $n_E$, $n_C$ | 实验组与对照组各自的受试者数量 |
 > | 效应量估计 | $d$ | 每项主要研究的效应量值 |
-> | 统计精度 | $SE_d$、$v_d$ 或 CI | 标准误、方差或置信区间（三选一）|
+> | 统计精度 | $SE_d$、$v_d$ 或 CI | [[Sampling Error\|标准误]]、方差或置信区间（三选一）|
 
 > [!critique] 四项系统缺陷（Wecker et al., pp. 26–27）
 > - **主要研究表缺失**："许多一级元分析缺乏完整的主要研究表"——Hattie 的方法在数据透明度的第一道门槛就已失守（p. 27）
@@ -404,7 +406,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 > | $M_C$ | 66.53 | 对照组均值（原始出版物）|
 > | $M_E$ | 80.21 | 实验组均值（原始出版物）|
 > | Hattie 的"$SD$" | **1.65** | **实为标准误 $SE$**，非标准差 |
-> | 错误效应量 | $d = (80.21-66.53)/1.65 = -8.291$ | ← 以 SE 代入 SD 公式 |
+> | 错误效应量 | $d = (80.21-66.53)/1.65 = -8.291$ | ← 以 [[School Effectiveness\|SE]] 代入 SD 公式 |
 > 
 > **正确计算**：$SD_C = [[School Effectiveness|SE]] \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
 >
@@ -815,7 +817,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 5–6)]] 指出 Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但未讨论它们之间的概念关系或如何对应实证分析中的[[Operationalization|操作化]]。作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，"学业成就"究竟测量的是哪个层次——无人知晓。这导致从教育研究的角度看，理论和实证数据之间没有系统性关系。
 
-> [!tension] "研究笼子"：高信度 vs 高效度（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）
+> [!tension] "研究笼子"：高[[Reliability|信度]] vs 高效度（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）
 > Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency and Cronbach's Alpha|内部一致性]]，但因[[Variable|变量]]和自变量相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
 
 丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 [[Karl Popper|Popper]]）重建因变量([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
@@ -1093,7 +1095,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 4. **VL 忽视关怀伦理** — VL 将对社区和他人的关怀伦理推入女性化与贬值的地位——爱、同僚情谊、慷慨，这些难以测量和货币化的东西被边缘化（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。Noddings（1986）关于*"关怀社区"*的追问在 VL 框架内无处容身；知识的中心从课堂和学校转移到大学和学者手中，最具渗透力的权力属于能做[[Randomised Controlled Trials|随机对照试验]]的人。*"忠实"*（fidelity）对 Noddings 意味着对学生的忠诚，VL 则将其重新定义为对外部概念的服从。
 >
-> 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将规训渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
+> 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
 >
 > 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——假设教师能看到学生所看到的（既是能力主义的也是傲慢的），将成长仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
 >
@@ -1158,7 +1160,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] 角度四：[[Cargo Cult Science]]——科学的误用
 > Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
 > - VL 使用专有的、未经同行评议的方法论，直接商业出版而非学术发表（p. 35）
-> - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可信度，但 Popper 的可错论（fallibilism）旨在区分科学与伪科学——*"Popper 当然不是在暗示科学是由提出毫无根据的主张、留待他人反驳所构成的"*（*"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"*）（p. 35）
+> - Hattie 引用 [[Karl Popper|Popper]] 以增强科学可[[Reliability|信度]]，但 Popper 的可错论（fallibilism）旨在区分科学与伪科学——*"Popper 当然不是在暗示科学是由提出毫无根据的主张、留待他人反驳所构成的"*（*"Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove"*）（p. 35）
 > - Hattie 十年后声称*"无人质疑这一解释"*（*"no one has contested the explanation"*）——但 VL 并未提出可被实验[[Falsification|证伪]]的理论（p. 35）
 > - Metax 数据库呈现为典型科学数据集，但未阐明数字来源、包含的偏差和被掩盖的细微差别（pp. 35–36）
 

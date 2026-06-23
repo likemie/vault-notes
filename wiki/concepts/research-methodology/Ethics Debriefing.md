@@ -7,7 +7,7 @@ aliases:
 summary: "在涉及欺骗的研究结束后向参与者解释欺骗原因、研究目的和方法的程序，是抵消欺骗负面效果的主要方式，包含四项基本内容"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
   - method/research-ethics
   - theme/research-procedure
 related_concepts:
+  - "[[Reliability]]"
   - "[[Deception in Research]]"
   - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -43,7 +44,7 @@ updated: 2026-06-19
 > [!concept-lens] 概念透镜
 > - **含义** Debriefing 不是简单地把真相暴露给参与者，而是一个需要研究者传达真诚和不安的精细沟通过程。
 > - **用途** 恢复参与者的知情状态、消除欺骗可能造成的心理伤害、将研究经历转化为学习体验。
-> - **边界** Ethics debriefing 不同于[[Qualitative Research|质性研究]]中的 [[Peer Debriefing]]（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可信度。
+> - **边界** Ethics debriefing 不同于[[Qualitative Research|质性研究]]中的 [[Peer Debriefing]]（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可[[Reliability|信度]]。
 
 ---
 
@@ -91,7 +92,7 @@ updated: 2026-06-19
 > | 维度 | Ethics Debriefing | Peer Debriefing |
 > |---|---|---|
 > | 对象 | 研究参与者 | 研究者同行 |
-> | 目的 | 伦理修复、消除欺骗伤害 | 增强研究可信度和严谨性 |
+> | 目的 | 伦理修复、消除欺骗伤害 | 增强研究可[[Reliability\|信度]]和严谨性 |
 > | 时机 | 研究结束或研究阶段结束后 | 研究过程中的同行审查 |
 > | 核心内容 | 解释欺骗原因、分享[[Purpose Statement\|研究目的]]和结果 | 审查研究方法、分析和解释 |
 > | 方法类型 | 伦理程序 | [[Qualitative Research\|质性研究]]可信度策略 |

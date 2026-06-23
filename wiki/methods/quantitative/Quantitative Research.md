@@ -8,7 +8,7 @@ summary: "通过检验变量间关系或群体间比较来验证客观理论的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Research Question]]"
   - "[[Operationalization]]"
+  - "[[Reliability]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
 related_theories: []
@@ -61,7 +62,7 @@ updated: 2026-05-30
 > - 通过标准化工具收集数值数据。
 > - 使用统计程序分析数据。
 > - 对照假设或理论解释统计结果。
-> - 关注效度、信度和客观性标准。
+> - 关注效度、[[Reliability|信度]]和客观性标准。
 > - 报告结构固定（引言—方法—结果—讨论）。
 
 ## 适用场景

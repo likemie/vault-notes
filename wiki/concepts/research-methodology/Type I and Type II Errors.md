@@ -11,7 +11,7 @@ aliases:
 summary: "统计推断中两类对称的决策错误——拒绝真零假设（第一类，冤枉无辜）和接受假零假设（第二类，放过有罪），两者之间存在内在权衡，在量化与质性研究中均有对应"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/statistics
 related_concepts:
   - "[[Null Hypothesis]]"
+  - "[[Reliability]]"
   - "[[Internal Validity]]"
   - "[[Threats to Internal Validity]]"
   - "[[Sample Size Determination]]"
@@ -47,7 +48,7 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 两类错误是[[Null Hypothesis|零假设]]显著性检验（NHST）框架内生的不确定性来源——即使研究设计和执行完美无缺，统计推断本身仍然包含这两类错误的风险。它们不是研究者的操作失误，而是**统计决策的固有属性**。
-> - **用途** 两类错误框架帮助研究者在设计阶段权衡显著性水平的选择（α 值），并在解释结果时评估结论的可靠性——特别是在高风险决策情境中（如药物审批、教育政策评估）。
+> - **用途** 两类错误框架帮助研究者在设计阶段权衡显著性水平的选择（α 值），并在解释结果时评估结论的[[Reliability|可靠性]]——特别是在高风险决策情境中（如药物审批、教育政策评估）。
 > - **边界** 在 Cook & Campbell 的效度框架中，两类错误属于**统计结论效度**（statistical conclusion validity）而非[[Internal Validity|内部效度]]——但 Cohen, Manion & Morrison (2011) 将其列为[[Threats to Internal Validity|内部效度威胁]]之一。在[[Qualitative Research|质性研究]]中，两类错误被重新解释为信念错误而非统计错误。
 
 ---

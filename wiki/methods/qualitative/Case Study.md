@@ -19,6 +19,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Epistemology]]"
   - "[[Naturalistic Generalization]]"
+  - "[[Reliability]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -33,7 +34,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Non-probability Sampling]]"
   - "[[Theoretical Sampling]]"
 related_persons: []
 related_arguments:
@@ -79,7 +79,7 @@ updated: 2026-06-01
 > 6. **结果呈现**：以叙事形式呈现，可包含关于每个参与者的描述性信息表格（如案例研究和[[Ethnography|民族志]]中常见），以及跨案例的主题讨论
 
 > [!note]- [[Sample Size Determination|样本量]]建议
-> Creswell & Creswell（2022, Ch9）给出了各质性设计的粗略样本量估计：[[Narrative Research|叙事研究]] 1-2 人、[[Phenomenology|现象学]] 3-10 人、[[Grounded Theory|扎根理论]] 20-30 人、民族志一个文化群体、**案例研究约 4-5 个案例**。案例研究的样本量指的是"案例数量"而非"参与者数量"——每个案例内部可能包含多名参与者。多案例设计通过复制逻辑增强分析性推广的可信度。
+> Creswell & Creswell（2022, Ch9）给出了各质性设计的粗略样本量估计：[[Narrative Research|叙事研究]] 1-2 人、[[Phenomenology|现象学]] 3-10 人、[[Grounded Theory|扎根理论]] 20-30 人、民族志一个文化群体、**案例研究约 4-5 个案例**。案例研究的样本量指的是"案例数量"而非"参与者数量"——每个案例内部可能包含多名参与者。多案例设计通过复制逻辑增强分析性推广的可[[Reliability|信度]]。
 
 ### 跟踪式设计的双重目的
 > [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]采用跟踪式个案研究（longitudinal case study），其设计服务于两个目的：
@@ -97,7 +97,7 @@ updated: 2026-06-01
 >
 > **目的抽样（Purpose Sampling）**：根据[[Research Question|研究问题]]和[[Analytic Framework|分析框架]]的需要有目的地选取能带来最大理论潜力的个案([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 >
-> **[[Non-probability Sampling|理论抽样]]（[[Theoretical Sampling]]）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
+> **[[Theoretical Sampling|理论抽样]]（[[Theoretical Sampling]]）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
 > - 院系/学科背景力求差异
 > - 家庭社会经济背景力求差异
 > - 内化学校主流价值观的程度力求差异
@@ -145,6 +145,6 @@ updated: 2026-06-01
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与[[Non-probability Sampling|理论抽样]]，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与[[Theoretical Sampling|理论抽样]]，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE]] — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所（两所城市、两所农村）进行深度追踪，结合半结构化访谈和学校文件分析，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
 

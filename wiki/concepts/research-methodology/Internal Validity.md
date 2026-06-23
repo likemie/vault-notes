@@ -5,10 +5,10 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-methods
   - theme/validity
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Reliability]]"
   - "[[Threats to Internal Validity]]"
   - "[[Evaluation Research]]"
   - "[[External Validity]]"
@@ -46,7 +47,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 内部效度（Internal validity）寻求证明：一项研究对某一特定事件、问题或数据集的解释**实际上能为数据所支撑**。在[[Experimental Research|实验研究]]中，它衡量[[Causality|因果推断]]的质量——研究者能否从实验数据中正确推断出被操纵的[[Variable|变量]]确实导致了观察到的效果。Onwuegbuzie & Leech (2006b: 234) 将其扩展定义为"在底层情境或群体内解释和结论的真值、适用性、一致性、中立性、可依赖性和可信性"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 164)]]
+> 内部效度（Internal validity）寻求证明：一项研究对某一特定事件、问题或数据集的解释**实际上能为数据所支撑**。在[[Experimental Research|实验研究]]中，它衡量[[Causality|因果推断]]的质量——研究者能否从实验数据中正确推断出被操纵的[[Variable|变量]]确实导致了观察到的效果。Onwuegbuzie & Leech (2006b: 234) 将其扩展定义为"在底层情境或群体内解释和结论的真值、适用性、一致性、中立性、[[Reliability|可依赖性]]和可信性"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 164)]]
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，内部效度越高，研究者越有信心将结果差异归因于处理本身，而非其他未控制的因素。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
@@ -72,7 +73,7 @@ updated: 2026-06-23
 > | **对混淆因素的态度** | 通过[[Experimental Research\|实验设计]]和统计控制**排除** | 通过方法论反思和多元验证**纳入并管理** |
 > | **对时间的态度** | 历史、成熟等时间效应是**需要控制的威胁** | 变化被**纳入研究设计**——现象演变本身就是研究对象（p.168） |
 > | **典型工具** | [[Random Assignment\|随机分配]]、双盲、统计控制 | 长期田野参与、[[Triangulation\|三角验证]]、[[Member Checking\|成员核查]]、同伴汇报 |
-> | **效度标准** | 排除替代解释，最大化[[Causality\|因果推断]]的可信性 | 建立可信性、可依赖性、可确认性和可迁移性 |
+> | **效度标准** | 排除替代解释，最大化[[Causality\|因果推断]]的可信性 | 建立可信性、[[Reliability\|可依赖性]]、可确认性和可迁移性 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
@@ -122,7 +123,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **使用机械手段记录、存储和检索数据**（mechanical means） 录音、录像等技术手段减少人为记忆偏差
 
 > [!feature] 质性内部效度的八种主导类型（LeCompte & Preissle, 1993: 323–4）
-> - **数据置信度**（confidence） 研究结论被数据充分支撑的程度
+> - **数据置[[Reliability|信度]]**（confidence） 研究结论被数据充分支撑的程度
 > - **数据真实性**（authenticity） 通过参与者视角报告情境的能力
 > - **数据说服力**（cogency） 论证的逻辑力量和连贯性
 > - **研究设计稳健性**（soundness） 研究设计本身的合理性和严谨性

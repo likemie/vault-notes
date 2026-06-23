@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Reliability]]"
   - "[[Performance Indicators]]"
   - "[[Value Neutrality]]"
   - "[[Literature Review]]"
@@ -259,7 +260,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > - **QS Stars**：设立了社会责任感、包容性等专项评分
 > - **THE 影响力排名(2019)**：按联合国 17 个[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）中的 11 个来评估大学
 
-但这里指出了两个结构性问题：（1）这些"进步指标"都在"附加排名"里，主排名（THE 主榜、QS 主榜）仍然以研究产出和学术声望为绝对重心；（2）社会影响力的测量主要依赖高校自报的数据，可靠性存疑。正如 Stephen(2019)所警告的："为人类活动的每一个粒子赋予一个数字，其中有一种去人性化的东西……在定量和定性评估模式之间找到适当平衡，是一项需要持续警惕和协商的任务"(p.134)。
+但这里指出了两个结构性问题：（1）这些"进步指标"都在"附加排名"里，主排名（THE 主榜、QS 主榜）仍然以研究产出和学术声望为绝对重心；（2）社会影响力的测量主要依赖高校自报的数据，[[Reliability|可靠性]]存疑。正如 Stephen(2019)所警告的："为人类活动的每一个粒子赋予一个数字，其中有一种去人性化的东西……在定量和定性评估模式之间找到适当平衡，是一项需要持续警惕和协商的任务"(p.134)。
 
 
 ### 第五步：为什么"不理排名"行不通——五道锁链

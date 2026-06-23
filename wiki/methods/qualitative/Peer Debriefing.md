@@ -9,7 +9,7 @@ summary: "Lincoln 和 Guba 建立质性研究可信性的六项核心策略之�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Researcher as Key Instrument]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Negative Case Analysis]]"
+  - "[[Reliability]]"
   - "[[External Auditor]]"
   - "[[Qualitative Validity]]"
   - "[[Analytic Framework]]"
@@ -76,7 +77,7 @@ updated: 2026-06-23
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**：基于[[Qualitative Research|质性研究]]中"[[Researcher as Key Instrument|研究者作为关键工具]]"的认识论前提——正因为研究者自身的视角不可避免地塑造数据解释，所以才需要引入外部视角作为制衡。同行汇报不追求"客观真理"，而是追求对研究者主观位置的**自觉**和**交叉检验**。
 > - **研究者角色**：研究者从"独自解释者"转变为"在对话中接受检验的解释者"——主动将自己的推理暴露给外部审视，是一种研究诚信（[[Responsible Conduct of Research|research integrity]]）的实践。
-> - **有效性标准**：服务于质性研究的**可信性**（credibility）标准——Lincoln & Guba (1985) 将其列为六项核心可信性策略之一，与长期田野参与、持续观察、[[Triangulation|三角验证]]、[[Negative Case Analysis|负面案例分析]]和[[Member Checking|成员核查]]并列。也作为**可依赖性**（dependability）达成过程中的操作之一（Anfara et al., 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 160–161, 206)]]
+> - **有效性标准**：服务于质性研究的**可信性**（credibility）标准——Lincoln & Guba (1985) 将其列为六项核心可信性策略之一，与长期田野参与、持续观察、[[Triangulation|三角验证]]、[[Negative Case Analysis|负面案例分析]]和[[Member Checking|成员核查]]并列。也作为**[[Reliability|可依赖性]]**（dependability）达成过程中的操作之一（Anfara et al., 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 160–161, 206)]]
 > - **不声称回答的问题**：同行汇报不能替代研究者对数据的直接沉浸；它不能独立证明研究发现是"正确的"，只能增强其可信性；它不能替代成员核查——L&G 明确区分：三角验证是数据的检查，成员核查是对成员数据建构的检查（p. 315）。
 
 > [!method-stack] 方法层级
@@ -113,7 +114,7 @@ Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议�
 > | **审视内容** | 研究者的**推理过程**——解释是否经得起推敲 | 研究者的**事实描述**和**意义诠释**——是否与参与者自身经验一致 | 研究的**过程和产品**——程序是否可接受、结果是否与数据一致 |
 > | **互动方式** | 类似**交叉审问**（cross-examination）的质疑性对话 | 参与者确认、修正或补充——更像**协商**（negotiation） | 独立审查文件——更像**审计**（audit），不依赖人际互动 |
 > | **理论基础** | [[Researcher as Key Instrument\|研究者作为关键工具]]需要外部制衡 | 参与者对自身经验的权威性——但并非特权位置（Hammersley & Atkinson, 1983） | 程序透明性和可追溯性——可确认性（confirmability） |
-> | **在 L&G 框架中的位置** | 可信性（credibility）策略之一 | 既是可信性策略，也是可依赖性（dependability）策略 | 可依赖性策略——独立审计识别可接受的探究过程 |
+> | **在 L&G 框架中的位置** | 可信性（credibility）策略之一 | 既是可信性策略，也是[[Reliability\|可依赖性]]（dependability）策略 | 可依赖性策略——独立审计识别可接受的探究过程 |
 
 > [!note]- L&G 对同行汇报与成员核查的功能区分
 > Lincoln & Guba (1985: 315) 在讨论[[Interpretive Paradigm|自然主义探究]]时明确区分：**[[Triangulation|三角验证]]**本意是作为对**数据**的检查——交叉检验不同来源的信息是否一致；**成员核查**则用作对**成员对数据的建构**的检查——参与者如何理解和解释数据。同行汇报处于两者之间——它既审阅数据，更重要的是审阅研究者**如何建构**数据，是研究者推理过程的外部检验（p. 315）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]

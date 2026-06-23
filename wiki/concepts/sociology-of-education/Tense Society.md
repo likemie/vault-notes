@@ -6,7 +6,7 @@ aliases:
 summary: "Dell Delambre 对当代社会的诊断，指新与旧之间的意义张力在不同领域中加速扩散并高度互联，用于理解现代生活中的持续不稳定与重组。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Reliability]]"
   - "[[Ganz-Methode]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Epistemology]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **指数级加速**（exponential tension）：社会变化的速率呈指数级增长，以至于即使是"感受时间的方式也是张力的"。传统制度（包括大学）无法跟上变化速度——社会对意义寻求的回应时间极快且在不断增加，而大学的分析和认证周期极其缓慢。这种时间差本身就是一种张力([[Argument_Delambre_2022_Springer|Delambre, 2022, p.111–112, 114]])
-> - **全领域覆盖**：张力涵盖经济模式（化石燃料 vs 可再生能源）、劳动力市场（有工人的公司 vs AI 自动化后无工人的公司——这是"资本主义内部的巨大张力"）、信息权威（传统[[Knowledge Production|知识生产]]权威 vs 社交媒体 influencer——"没有正式可信度的人可以通过粉丝数成为各领域权威"）、人际关系（面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、陪伴、真实、谎言等基本概念）、发展模式（增长 vs 去增长）等所有社会领域。详见 [[Ganz-Methode#方法所回应的张力域]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–117]])
+> - **全领域覆盖**：张力涵盖经济模式（化石燃料 vs 可再生能源）、劳动力市场（有工人的公司 vs AI 自动化后无工人的公司——这是"资本主义内部的巨大张力"）、信息权威（传统[[Knowledge Production|知识生产]]权威 vs 社交媒体 influencer——"没有正式可[[Reliability|信度]]的人可以通过粉丝数成为各领域权威"）、人际关系（面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、陪伴、真实、谎言等基本概念）、发展模式（增长 vs 去增长）等所有社会领域。详见 [[Ganz-Methode#方法所回应的张力域]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–117]])
 > - **meta 与 verse 的张力**：数字时代特有的张力——在真实世界中生活与在另一种现实（虚拟世界）中生活之间的紧张。Delambre 将其表述为"'meta'（现实之上）与'verse'（宇宙／领域）之间的意义张力"，直指 metaverse 时代人类存在的分裂状态([[Argument_Delambre_2022_Springer|Delambre, 2022, p.119]])
 > - **张力的互联性**：一个领域的张力可以波及整个社区甚至更远。局部决策影响全球语境，全球力量冲击局部社区——张力在局部与全球之间来回传导，有时其后果无法预测([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112, 117]])
 > - **张力承载作为核心能力**：在张力社会中，[[21st Century Skills and Competencies Discourse|关键能力]]不是解决问题或消解张力，而是 承载张力——学会在张力中生活、决策和创造意义。Delambre 因此呼吁将"张力教育"（tension education）作为全球地缘政治项目，并警告如果没有这种教育，"我们未来可能面临重大的破坏性张力"([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112, 121]])

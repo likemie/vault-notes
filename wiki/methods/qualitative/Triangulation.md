@@ -10,7 +10,7 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Convergent and Discriminant Validity]]"
+  - "[[Reliability]]"
   - "[[Interpretive Paradigm]]"
   - "[[Research Utilization]]"
   - "[[Positivism]]"
@@ -75,7 +76,7 @@ updated: 2026-06-23
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观**：三角验证基于一个隐含的认识论立场——存在一个可以通过多种方法逼近的现象，且多种不完美方法的**交叉**比单一方法更接近现象本身。这一立场与严格的[[Constructivist Paradigm|建构主义]]之间存在张力。
 > - **研究者角色**：研究者从单一方法的使用者转变为**方法策略师**——主动选择对比度大的方法来交叉检验发现，意识到每一种方法本身都是一副选择性滤镜（Smith, 1975）。
-> - **有效性标准**：三角验证主要服务于**[[Concurrent Validity|共时效度]]**（concurrent validity）和**[[Convergent and Discriminant Validity|收敛效度]]**（convergent validity）——当不同方法产生基本一致的结果时，研究者对发现的置信度增加。同时桥接效度与信度——方法间三角验证拥抱了"同一目标的独立测量之间的收敛"这一概念（Campbell & Fiske, 1959）。
+> - **有效性标准**：三角验证主要服务于**[[Concurrent Validity|共时效度]]**（concurrent validity）和**[[Convergent and Discriminant Validity|收敛效度]]**（convergent validity）——当不同方法产生基本一致的结果时，研究者对发现的置[[Reliability|信度]]增加。同时桥接效度与信度——方法间三角验证拥抱了"同一目标的独立测量之间的收敛"这一概念（Campbell & Fiske, 1959）。
 > - **不声称回答的问题**：三角验证不能保证达到客观真理——Lincoln & Guba (1985: 315) 将其重新功能化为[[Interpretive Paradigm|自然主义探究]]中**数据的检查**（而非效度的证明）；它也不能自动解决由研究者偏见或理论预设引入的系统性偏差。
 
 > [!method-stack] 方法层级
@@ -90,7 +91,7 @@ updated: 2026-06-23
 
 > [!dimension] 三角验证的双重论证优势
 > - **优势一：单一观察的局限性**
->   在医学、化学和物理等领域，单一观察通常能对选定现象产生足够且无歧义的信息。但在人类行为和人际互动情境中，单一观察只提供复杂性的**有限视角**。研究方法充当"滤镜"（filters），选择性地过滤环境——它们**从不理论中立或无立场**地代表经验世界（Smith, 1975）。对一种方法的排他依赖可能偏倚或扭曲研究者对特定现实片段的图景。当不同资料收集方法产生**基本相同的**结果时，研究者才能获得置信度。
+>   在医学、化学和物理等领域，单一观察通常能对选定现象产生足够且无歧义的信息。但在人类行为和人际互动情境中，单一观察只提供复杂性的**有限视角**。研究方法充当"滤镜"（filters），选择性地过滤环境——它们**从不理论中立或无立场**地代表经验世界（Smith, 1975）。对一种方法的排他依赖可能偏倚或扭曲研究者对特定现实片段的图景。当不同资料收集方法产生**基本相同的**结果时，研究者才能获得置[[Reliability|信度]]。
 > - **优势二：克服方法约束（method-boundedness）**
 >   Smith (1975) 批评说："许多[[Research Utilization|研究使用]]了特定的方法或技术，源于方法论狭隘主义或我族中心主义。方法学家经常推销特定的宠儿方法，要么因为这些是他们唯一熟悉的方法，要么因为他们相信自己的方法优于所有其他方法。"三角技术有助于克服这个问题——Gorard & Taylor (2004) 展示了结合量化和质性方法的价值。
 
@@ -102,7 +103,7 @@ updated: 2026-06-23
 
 > [!dimension] Denzin 的六种三角验证类型
 > - **时间三角验证**（Time triangulation）
->   通过使用**横截面设计**和**纵向设计**来考虑变化和过程因素。Kirk & Miller (1986) 提出历时信度（diachronic reliability，观察的跨时间稳定性）和共时信度（synchronic reliability，同时收集的数据的相似性）。横截面研究收集一个时间点的数据；纵向研究从同一群体在不同时间点收集数据。面板研究（panel studies）比较同一样本中相同个体在多个时间点的相同测量；趋势研究（trend studies）随时间的推移持续检查选定过程。
+>   通过使用**横截面设计**和**纵向设计**来考虑变化和过程因素。Kirk & Miller (1986) 提出历时[[Reliability|信度]]（diachronic reliability，观察的跨时间稳定性）和共时信度（synchronic reliability，同时收集的数据的相似性）。横截面研究收集一个时间点的数据；纵向研究从同一群体在不同时间点收集数据。面板研究（panel studies）比较同一样本中相同个体在多个时间点的相同测量；趋势研究（trend studies）随时间的推移持续检查选定过程。
 > - **空间三角验证**（Space triangulation）
 >   通过使用**跨文化技术**克服在同一国家或同一亚文化内进行研究的狭隘主义。"不仅行为科学是受文化约束的，它们还是受亚文化约束的。然而许多学术著作写得好像发现了在任何社会、任何地方、任何时间都作为倾向性成立的基本原则"（Smith, 1975）。跨文化研究可能涉及在不同人群中检验理论（如 Piaget 和 Freud 心理学），或使用多种不同测量工具测量人群间差异。
 > - **组合层次三角验证**（Combined levels of triangulation）

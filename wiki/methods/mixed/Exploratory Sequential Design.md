@@ -8,7 +8,7 @@ summary: "先以小样本进行质性探索、基于质性发现开发或修改�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
   - "[[Content Validity]]"
+  - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Metainferences]]"
@@ -97,7 +98,7 @@ updated: 2026-06-02
 操作逻辑为先探索、再开发、后检验：
 1. **第一质性阶段**：从小样本（通常 10-30 人）收集质性数据（如[[Qualitative Interview|深度访谈]]），产出对现象的丰富理解（主题、维度或过程模型）。
 2. **工具开发阶段**：核心桥梁。将质性主题转化为问卷条目，通过专家审查或认知访谈验证[[Content Validity|内容效度]]，形成初步量化工具。
-3. **第三量化阶段**：在大样本施测，通过因子分析、信度分析等评估测量属性，并检验基于质性发现推导的[[Hypothesis|研究假设]]。
+3. **第三量化阶段**：在大样本施测，通过因子分析、[[Reliability|信度]]分析等评估测量属性，并检验基于质性发现推导的[[Hypothesis|研究假设]]。
 
 ### 4.3 桥梁逻辑：从文字到数字的翻译
 中间阶段要求研究者具备翻译能力，具体转化路径如下([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.242]])：

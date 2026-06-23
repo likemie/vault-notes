@@ -7,10 +7,10 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell 和 Stanley 经典框架列出十种主要威胁，Onwuegbuzie 和 Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-methods
   - theme/validity
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
+  - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Causality]]"
   - "[[Type I and Type II Errors]]"
@@ -52,7 +53,7 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 内部效度威胁不是"研究犯了错误"的清单，而是任何研究中都**潜在存在**的系统性偏差来源。研究者需要识别这些威胁并采取措施**减弱**其影响，而非声称完全消除了它们。
-> - **用途** 在研究设计阶段，内部效度威胁框架帮助研究者预见可能的混淆因素并预先设计控制策略；在评估已有研究时，该框架提供了批判性[[Evaluation Research|评估研究]]结论可信度的结构化工具。
+> - **用途** 在研究设计阶段，内部效度威胁框架帮助研究者预见可能的混淆因素并预先设计控制策略；在评估已有研究时，该框架提供了批判性[[Evaluation Research|评估研究]]结论可[[Reliability|信度]]的结构化工具。
 > - **边界** 内部效度威胁不同于[[External Validity|外部效度]]威胁——前者关注研究**内部**[[Causality|因果推断]]的有效性（"在这个研究中，X 真的导致了 Y 吗？"），后者关注研究发现的**可推广性**（"这个发现能推广到其他情境吗？"）。在 Cook & Campbell 框架中，第一类和[[Type I and Type II Errors|第二类错误]]属于统计结论效度（statistical conclusion validity）而非内部效度，但 Cohen, Manion & Morrison 将其归入内部效度威胁。
 
 ---
@@ -135,7 +136,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 > - **2. 悖论合法化**（Paralogical legitimation） 研究能否捕捉和处理效度主张中的悖论？例如一位教师同时声称"我完全按照课程大纲教学"和"我经常根据学生需要灵活调整"，这种表面矛盾的陈述可能恰恰反映了教育实践的复杂性。
 > - **3. 根茎合法化**（Rhizomatic legitimation） 当研究者绘制数据地图（mapping）而非描述数据时，丢失了多少信息？将丰富的生活经验压缩为概念节点和关系线时不可避免有损失，但研究者是否意识到了这种损失并做了弥补？
 > - **4. 过度合法化**（Voluptuous legitimation） 对数据的解释是否超出了研究者从数据中支持该解释的能力？例如从三个教师的访谈中推断出全国性结论——数据不足以承载这个主张。
-> - **5. [[Descriptive Validity|描述效度]]**（Descriptive validity） 研究者所给描述的准确性——事实层面的可靠性。
+> - **5. [[Descriptive Validity|描述效度]]**（Descriptive validity） 研究者所给描述的准确性——事实层面的[[Reliability|可靠性]]。
 > - **6. 观察偏差**（Observational bias） 对研究中词语、观察或行为的不充分抽样——收集的数据太少或太窄，不足以支撑结论。
 > - **7. 研究者偏差**（Researcher bias） 研究者的偏见、假设或价值观影响数据的收集和解释。
 > - **8. 反应性**（Reactivity） 研究在多大程度上改变了正在研究的情境或参与者——例如[[Hawthorne Effect|霍桑效应]]和新奇效应（novelty effect）。

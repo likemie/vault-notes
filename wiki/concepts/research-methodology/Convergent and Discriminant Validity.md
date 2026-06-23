@@ -9,7 +9,7 @@ aliases:
 summary: "同一构念的不同测量应高度相关（收敛），不同构念的测量应低度相关（区分）——两者共同构成构念效度的检验工具，借鉴三角验证逻辑，在量化、质性和混合方法中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Reliability]]"
   - "[[Positivism]]"
   - "[[Concurrent Validity]]"
 related_methods:
@@ -70,7 +71,7 @@ updated: 2026-06-23
 ## 围绕概念形成的命题
 
 > [!claim] [[Mixed Methods Research|混合方法]]是检验收敛和区分效度的最有力设计
-> 在混合方法研究中，研究者可以通过以下两种方式同时检验收敛和区分效度：**收敛检验**——检查一种方法的数据（如[[Qualitative Interview|质性访谈]]）是否与另一种方法聚焦同一问题的数据（如量化问卷）一致；**区分检验**——检查研究者假设不相关的因素是否在两种方法中都显示为确实不相关。当一种方法的数据被另一种方法的数据所**交叉验证**（cross-validated）时，研究者对效度的置信度显著提高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 178)]]
+> 在混合方法研究中，研究者可以通过以下两种方式同时检验收敛和区分效度：**收敛检验**——检查一种方法的数据（如[[Qualitative Interview|质性访谈]]）是否与另一种方法聚焦同一问题的数据（如量化问卷）一致；**区分检验**——检查研究者假设不相关的因素是否在两种方法中都显示为确实不相关。当一种方法的数据被另一种方法的数据所**交叉验证**（cross-validated）时，研究者对效度的置[[Reliability|信度]]显著提高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 178)]]
 
 > [!example] 混合方法中的收敛与区分效度验证
 > **收敛效度案例**：研究者调查社会阶层对高等教育获取的影响时，同时收集质性访谈数据和量化问卷数据。如果质性数据中工人阶级学生普遍报告"成本是核心障碍"，而量化数据也显示家庭收入与大学入学率显著正相关，且这一发现受到文献支持——那么预期的收敛效度就得到了证明。

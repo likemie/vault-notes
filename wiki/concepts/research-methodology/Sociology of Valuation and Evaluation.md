@@ -7,7 +7,7 @@ aliases:
 summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如何同时完成资源分配、合法性制造和不平等正当化三重操作，为理解学术评估的非预期效应提供经验基础"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Performativity of Measurement]]"
+  - "[[Reliability]]"
   - "[[Discursive Stratification]]"
   - "[[Knowledge Capitalism]]"
   - "[[Post-structuralism]]"
@@ -63,7 +64,7 @@ updated: 2026-06-01
 
 - **引用索引的选择性**：Münch（2013, pp.149–152）论证引用索引不仅非常选择性地测量研究绩效——偏爱某些学科、语言和发表模式——还可能通过触发研究者追求狭窄策略来阻碍科学进步。当学者预测哪些研究方向和发表策略最有利于引用数和影响因子时，有风险的研究和创新性工作被系统性地回避（Rogge, 2015, pp.209f）。
 - **学术不端**：Fang et al.（2012）发现不当行为占据了多数被撤回的科学出版物——增加引用数和成功获取拨款的激励可能诱发从投机到欺诈的行为光谱。
-- **同行评审的弱可靠性**：Cicchetti（1991）的跨学科调查和 Reinhart（2012, pp.57–59）的研究都发现同行评审在拨款和稿件评审中的可靠性（不同评审者之间的一致性）较弱。
+- **同行评审的弱[[Reliability|可靠性]]**：Cicchetti（1991）的跨学科调查和 Reinhart（2012, pp.57–59）的研究都发现同行评审在拨款和稿件评审中的可靠性（不同评审者之间的一致性）较弱。
 
 ### 评估工具的合法性制造
 

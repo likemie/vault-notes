@@ -7,7 +7,7 @@ aliases:
 summary: "学术场域中以声望、认可和区隔等 Bourdieu 意义上的符号商品为核心通货的竞争形式，区别于以价格和利润驱动的常规市场，用于解释排名和评估为何能驱动大学行为"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Global Universities Rankings]]"
+  - "[[Reliability]]"
   - "[[New Public Management]]"
   - "[[Post-structuralism]]"
   - "[[Sociology of Valuation and Evaluation]]"
@@ -70,7 +71,7 @@ updated: 2026-06-01
 
 ### 同行评审
 
-同行评审是拨款分配的核心机制，也是学术质量控制的关键工具。其可靠性在多项跨学科调查中受到质疑（Cicchetti, 1991; Reinhart, 2012, pp.57–59）。但有证据表明，用于判断和测量质量的工具仍然能够产生对分配决策的信任（Reinhart, 2012）、建立客体化的声誉模式（Münch, 2016）、以及培育学科特定的公平标准（Lamont, 2009）([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.798]])。
+同行评审是拨款分配的核心机制，也是学术质量控制的关键工具。其[[Reliability|可靠性]]在多项跨学科调查中受到质疑（Cicchetti, 1991; Reinhart, 2012, pp.57–59）。但有证据表明，用于判断和测量质量的工具仍然能够产生对分配决策的信任（Reinhart, 2012）、建立客体化的声誉模式（Münch, 2016）、以及培育学科特定的公平标准（Lamont, 2009）([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.798]])。
 
 ### 准市场（Quasi-markets）
 

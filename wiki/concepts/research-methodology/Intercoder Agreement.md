@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中两个或以上编码者对同一段文本使用相同或相似编码的一致性程度，通常要求达到 80% 以上"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - research-methodology
   - qualitative-research
 related_concepts:
+  - "[[Reliability]]"
   - "[[Qualitative Reliability]]"
 related_theories: []
 related_methods:
@@ -37,7 +38,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> [[Coding in Qualitative Research|编码]]者间一致性（Intercoder Agreement）是[[Qualitative Research|质性研究]]中的一种信度程序：基于两个或多个编码者对同一段文本中使用的编码是否达成一致进行评估。关键不在于他们是否编码同一段文本，而在于确定另一位编码者是否会使用相同或相似的编码来进行标注（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.215）。
+> [[Coding in Qualitative Research|编码]]者间一致性（Intercoder Agreement）是[[Qualitative Research|质性研究]]中的一种[[Reliability|信度]]程序：基于两个或多个编码者对同一段文本中使用的编码是否达成一致进行评估。关键不在于他们是否编码同一段文本，而在于确定另一位编码者是否会使用相同或相似的编码来进行标注（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.215）。
 
 Miles & Huberman（1994）建议，编码一致性至少应达到 80% 才算良好的[[Qualitative Reliability|质性信度]]。[[Qualitative Computer Software|质性计算机软件]]包中的信度子程序可用于确定编码的一致性水平（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 

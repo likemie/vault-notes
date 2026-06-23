@@ -9,7 +9,7 @@ summary: "质性研究中为最佳理解研究问题而有目的地选择参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Sample Size Determination]]"
+  - "[[Reliability]]"
   - "[[Saturation]]"
   - "[[Naturalistic Generalization]]"
 related_theories:
@@ -32,6 +33,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Descriptive Methods]]"
   - "[[Non-probability Sampling]]"
+  - "[[Theoretical Sampling]]"
   - "[[Convenience Sampling]]"
   - "[[Snowball Sampling]]"
 related_persons: []
@@ -115,9 +117,9 @@ Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009: 174）系统梳理了目�
 >
 > | 类型 | 英文 | 说明 |
 > |---|---|---|
-> | 理论抽样 | Theoretical Sampling | [[Grounded Theory\|扎根理论]]的核心方法（Glaser & Strauss, 1967）。数据收集服务于理论生成，持续至理论饱和。 |
+> | [[Theoretical Sampling\|理论抽样]] | Theoretical Sampling | [[Grounded Theory\|扎根理论]]的核心方法（Glaser & Strauss, 1967）。数据收集服务于理论生成，持续至理论饱和。 |
 > | 确认／否定个案抽样 | Confirming/Disconfirming Case Sampling | 从符合和不符合典型趋势的案例中选取，以研究其原因。 |
-> | [[Convenience Sampling\|机会抽样]] | Opportunistic Sampling | 随研究发展而纳入更多个体或群体——效度和信度要求时应予纳入。 |
+> | [[Convenience Sampling\|机会抽样]] | Opportunistic Sampling | 随研究发展而纳入更多个体或群体——效度和[[Reliability\|信度]]要求时应予纳入。 |
 > | [[Snowball Sampling\|滚雪球抽样]] | Snowball Sampling | 利用社会网络、信息提供者和联系人将研究者引介给更多个体。 |
 
 ### 饱和作为终止标准

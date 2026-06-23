@@ -8,7 +8,7 @@ aliases:
 summary: "将测量工具的结果与外部标准关联以验证效度的方式，包含预测效度和共时效度两种形式，核心逻辑是用一个已知有效的标准来检验未知的工具"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - method/research-methods
   - theme/validity
 related_concepts:
+  - "[[Reliability]]"
   - "[[Predictive Validity]]"
   - "[[Concurrent Validity]]"
 related_methods:
@@ -33,7 +34,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 效标关联效度（Criterion-related validity）是一种将某一特定测量工具的结果与另一个**外部标准**（external criterion）关联起来以验证其效度的方式。基本逻辑是：如果一个工具能够与一个已知有效的外部标准高度一致，那么我们对该工具的效度就有更大置信度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 179)]]
+> 效标关联效度（Criterion-related validity）是一种将某一特定测量工具的结果与另一个**外部标准**（external criterion）关联起来以验证其效度的方式。基本逻辑是：如果一个工具能够与一个已知有效的外部标准高度一致，那么我们对该工具的效度就有更大置[[Reliability|信度]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 179)]]
 
 效标关联效度包含两种主要形式：**[[Predictive Validity|预测效度]]**（predictive validity）和**[[Concurrent Validity|共时效度]]**（concurrent validity）——两者的核心概念是相同的（与第二个测量达成一致），区别在于是否存在**时间要素**。
 

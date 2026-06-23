@@ -8,7 +8,7 @@ summary: "敏感研究中保护参与者保密性同时允许跨时间多次收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Deductive Disclosure]]"
   - "[[Research Topic]]"
+  - "[[Reliability]]"
   - "[[Sensitive Research]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -65,7 +66,7 @@ updated: 2026-06-22
 
 > [!method-limits] 方法局限
 > - Lee (1993, p. 179) 承认，该方法在量化数据上比在质性数据上更容易实现——质性数据的丰富细节增加了身份推断的风险
-> - 依赖于中立经纪人的可用性和可信度——在小型研究团队中可能难以找到合适的人选
+> - 依赖于中立经纪人的可用性和可[[Reliability|信度]]——在小型研究团队中可能难以找到合适的人选
 > - 在某些制度环境（如涉及法律事务的数据）中，即使有经纪人保护，也可能无法满足法定保密要求
 > - 该方法增加了数据管理的复杂性，可能为小型研究项目带来不成比例的行政负担
 

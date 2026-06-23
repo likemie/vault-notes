@@ -8,9 +8,9 @@ summary: "利用个人通信、报纸报道和外交函件等一手档案资料�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/archival
@@ -18,6 +18,7 @@ tags:
   - method/document-analysis
   - paradigm/interpretivist
 related_concepts:
+  - "[[Reliability]]"
   - "[[International Education]]"
 related_theories: []
 related_methods:
@@ -52,7 +53,7 @@ updated: 2026-05-26
 - **报纸报道**：反映公众舆论的建构过程，受媒体立场和时代政治环境影响
 - **政府函件**：反映官方立场和制度性监控逻辑，通常带有明确的政治目的
 
-该方法的有效性不在于某一来源的"客观性"，而在于多源资料之间的对比——当个人信件、媒体报道和政府档案在同一事件上提供一致或互补的信息时，重建的可信度相应提高。
+该方法的有效性不在于某一来源的"客观性"，而在于多源资料之间的对比——当个人信件、媒体报道和政府档案在同一事件上提供一致或互补的信息时，重建的可[[Reliability|信度]]相应提高。
 
 ---
 

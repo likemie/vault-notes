@@ -5,13 +5,13 @@ aliases:
   - 后载型研究
   - front-loaded research
   - end-loaded research
-summary: 根据研究各阶段时间分布特征区分的研究类型：前载型设置耗时长但分析快（典型为量化调查），后载型设置快但数据收集分析耗时长（典型为质性民族志），混合方法介于两者之间。
+summary: "根据研究各阶段时间分布特征区分的研究类型：前载型设置耗时长但分析快（典型为量化调查），后载型设置快但数据收集分析耗时长（典型为质性民族志），混合方法介于两者之间"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - source/textbook
   - method/research-design
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Literature Review]]"
   - "[[Emergence]]"
+  - "[[Reliability]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -70,7 +71,7 @@ updated: 2026-06-21
 
 ### 时间分布特征
 
-前载型和后载型的主要区别在于时间资源在研究过程中的配置方式。前载型研究将大量时间投入前期准备，以确保工具的效度和信度；后载型研究将大量时间投入田野和数据分析，因为其[[Research Question|研究问题]]和发现是[[Emergence|涌现]]性的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.124–125]]）。
+前载型和后载型的主要区别在于时间资源在研究过程中的配置方式。前载型研究将大量时间投入前期准备，以确保工具的效度和[[Reliability|信度]]；后载型研究将大量时间投入田野和数据分析，因为其[[Research Question|研究问题]]和发现是[[Emergence|涌现]]性的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.124–125]]）。
 
 ### 混合方法研究的中间地带
 

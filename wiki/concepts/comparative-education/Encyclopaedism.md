@@ -5,7 +5,7 @@ aliases:
 summary: "一种将学校知识定义为对按学科分类的事实信息进行获取和积累的教育范式，在法国和德国各有版本并深刻影响了拉丁美洲等地区的教育传统，与能力导向教育形成根本对立"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Educated Identity]]"
   - "[[Recontextualization]]"
+  - "[[Rote Learning]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -55,12 +57,12 @@ updated: 2026-06-23
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析：知识范式对比
+> [!contrast-table] 概念辨析：知识[[Paradigm|范式]]对比
 > | 维度 | 百科全书主义 (Encyclopaedism) | 能力导向教育 (Competency-Based Education) |
 > |------|--------|----------------|
-> | **知识观** | 知识是事实信息的积累，学校知识的价值在于其广度与系统性。([[Argument_Beech_2009_CE\|Beech, 2009, p. 354]]) | 知识是“用知识做事”的能力，学校知识的价值在于在具体情境中的应用与建构。([[Argument_Beech_2009_CE\|Beech, 2009, p. 354]]) |
-> | **课程组织** | 刚性的离散学科分类体系（通常包含 12–14 门独立必修科目）。([[Argument_Beech_2009_CE\|Beech, 2009, p. 356]]) | 跨学科领域整合，强调跨学科核心素养的流动。([[Argument_Beech_2009_CE\|Beech, 2009, p. 356]]) |
-> | **教学与评估** | 教师传授打包的客观事实，学生记忆复现，正误答案清晰明了。([[Argument_Beech_2009_CE\|Beech, 2009, p. 354]]) | 学生在情境任务中解决实际问题，关注学习过程与表现，答案具有开放性。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–354]]) |
+> | **知识观** | 知识是事实信息的积累，学校知识的价值在于其广度与系统性。([[Argument_Beech_2009_CE\|Beech, 2009, p. 354]]) | 知识是“用知识做事”的能力，学校知识的价值在于在具体情境中的应用与建构。(p. 354) |
+> | **课程组织** | 刚性的离散学科分类体系（通常包含 12–14 门独立必修科目）。(p. 356) | 跨学科领域整合，强调跨学科核心素养的流动。(p. 356) |
+> | **教学与评估** | 教师传授打包的客观事实，学生记忆复现，正误答案清晰明了。(p. 354) | 学生在情境任务中解决实际问题，关注学习过程与表现，答案具有开放性。(pp. 353–354) |
 
 ---
 
@@ -87,7 +89,7 @@ updated: 2026-06-23
 
 > [!dev-timeline] 概念演变
 > - **1958 — 比较教育经典梳理**：Nicholas Hans 在《比较教育：教育因素与传统研究》中，将百科全书主义识别为欧洲两大世俗教育思想传统之一，并系统区分了法国百科全书派的科学与理性脉络和德国的特定演变，这一传统深刻塑造了深受欧陆文化影响的拉美中等教育体系。([[Argument_Beech_2009_CE|Beech, 2009, pp. 347–348]])
-> - **1990s — 全球话语的修辞冲击**：随着超国家组织（如 [[OECD]]、世界银行、UNESCO）大力推广“能力发展”和“尊重多样性”等全球政策话语，百科全书主义（被贴上死记硬背、去语境化、割裂的标签）成为拉美各国课程改革竞相批判的靶子。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–356]])
+> - **1990s — 全球话语的修辞冲击**：随着超国家组织（如 [[OECD]]、世界银行、UNESCO）大力推广“能力发展”和“尊重多样性”等全球政策话语，百科全书主义（被贴上[[Rote Learning|死记硬背]]、去语境化、割裂的标签）成为拉美各国课程改革竞相批判的靶子。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–356]])
 > - **1990s 至今 — 结构性延续与混合**：在课程实践和政策文本落地中，国家往往无法彻底清除百科全书派传统，而是将能力话语（革新）与百科全书式分科结构（保守）在官方文件中并置，造成事实上的结构延续。([[Argument_Beech_2009_CE|Beech, 2009, p. 356]])
 
 ---
@@ -104,4 +106,4 @@ updated: 2026-06-23
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Beech_2009_CE|Beech (2009)]] — 追踪全球教育话语在拉美落地的转译过程，分析了百科全书主义作为拉美深层课程组织逻辑在巴西中等教育课程改革中的结构性延续。
+> - [[Argument_Beech_2009_CE|Beech (2009)]] — 追踪全球教育话语在拉美落地的[[Transfer Translation Transformation|转译]]过程，分析了百科全书主义作为拉美深层课程组织逻辑在[[Brazilian Secondary Education Curriculum Reform 1998|巴西中等教育课程改革]]中的结构性延续。

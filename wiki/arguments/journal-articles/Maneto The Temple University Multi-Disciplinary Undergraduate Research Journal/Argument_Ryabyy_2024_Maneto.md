@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Progressive Education]]"
+  - "[[Reliability]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Exchange]]"
 related_theories: []
@@ -241,7 +242,7 @@ citation_aliases:
 > 这个操作很微妙：官方口径是"我们知道这是非政治的，不需要阻止"，但实际操作是"我们还是要监控他们做了什么、见了谁、回来后说了什么"。换句话说，国务院在公开层面与 Welsh 的激进指控保持距离——没有阻止访问——但在实际操作中与 Welsh 做了同样一件事：**把这批教育者当作情报收集对象**。
 >
 > 三个月后，驻德外交官 Jacob Gould Schurman 于 1928 年 7 月 26 日向国务卿 Frank B. Kellogg 提交了总结报告。报告中有两个值得注意的细节(p.109)：
-> - 报告特别强调这批人"**自费**"前往——这个细节增强了访问的可信度，因为"自费"意味着不是苏联出钱收买的
+> - 报告特别强调这批人"**自费**"前往——这个细节增强了访问的可[[Reliability|信度]]，因为"自费"意味着不是苏联出钱收买的
 > - 报告引述了明尼苏达大学校长 Coffman et al.的正面印象：苏联人民"衣着简陋但吃得饱，看起来满足"，苏联的普及教育努力"规模巨大、意义深远，在道德和政治上都具有最高意义"(p.109)
 >
 > ---

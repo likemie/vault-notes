@@ -19,7 +19,9 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Evaluation Research]]"
+  - "[[Reliability]]"
   - "[[Variable]]"
+  - "[[Sample Size Determination]]"
   - "[[Definition of Terms]]"
   - "[[Study Population and Sample]]"
   - "[[Tracking]]"
@@ -75,13 +77,13 @@ updated: '2026-05-18'
 > [[Evaluation Research|评估研究]]是否建立了充分的实验控制（[[Internal Validity|内部效度]]），包括([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])：
 > - 阶段对比（phase contrasts）的数量和设计
 > - 每个阶段的数据点数量（需足够以建立稳定的基线模式）
-> - 结果是否被可靠测量（信度证据）
+> - 结果是否被可靠测量（[[Reliability|信度]]证据）
 > - 研究者是否主动操纵了自[[Variable|变量]]
 >
 > ### [[Single-Case Design|SCD]] Review Guide（审查指南）
 > 一个系统化数据库工具，训练有素且经认证的审查员使用它来([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–465]])：
 >
-> - 记录研究的场所、设计、参与者特征和样本量
+> - 记录研究的场所、设计、参与者特征和[[Sample Size Determination|样本量]]
 > - 记录因变量的[[Definition of Terms|操作性定义]]和测量方法
 > - 记录基线和干预条件（会话次数、干预时长）
 > - 记录实施者和培训、干预忠实度

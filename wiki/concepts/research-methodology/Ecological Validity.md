@@ -6,7 +6,7 @@ aliases:
 summary: "要求将研究场所的具体特征纳入研究考量而非假设政策以预定意图的方式被实施的效度类型，更亲近质性研究的厚描述，与外部效度交叉，在提供情境丰富描述与保护匿名性之间存在伦理张力"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
   - theme/validity
   - paradigm/qualitative
 related_concepts:
+  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
   - "[[External Validity]]"
@@ -33,7 +34,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 生态效度（Ecological validity）要求将研究场所——如学校、大学、地区——的**具体特征**纳入研究考量，而不是简单地通过调查、访谈、观察和问卷来复现"政策的修辞"（rhetoric of policies）——即假设政策以意图的方式或有权群体（"可信度等级的顶端"）意图的方式被实施（Brock-Utne, 1996: 617–618）。生态效度追问的是：研究所描述的现象在多大程度上真实反映了其**自然发生情境**中的样貌？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188)]]
+> 生态效度（Ecological validity）要求将研究场所——如学校、大学、地区——的**具体特征**纳入研究考量，而不是简单地通过调查、访谈、观察和问卷来复现"政策的修辞"（rhetoric of policies）——即假设政策以意图的方式或有权群体（"可[[Reliability|信度]]等级的顶端"）意图的方式被实施（Brock-Utne, 1996: 617–618）。生态效度追问的是：研究所描述的现象在多大程度上真实反映了其**自然发生情境**中的样貌？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 生态效度关乎研究的"真实世界适用性"——研究结果在剥离了研究情境的人为性之后，在多大程度上仍然有效。它的对立面是：在严格受控的实验室或测验环境中获得的结果，在真实的课堂、学校和社区中可能毫无意义。
