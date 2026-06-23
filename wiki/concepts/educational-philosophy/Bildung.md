@@ -50,7 +50,7 @@ updated: '2026-06-21'
 ## 定义
 
 > [!def] 核心定义
-> 教化（Bildung，通常译为教养，英文亦作 character formation 或 edification of character）源自德国精神科学传统（geisteswissenschaftliche Tradition），指超越工具性学习和技能获取的自主人格形成过程。丹麦教育哲学家斯蒂恩·内佩尔·拉森（Steen Nepper Larsen）在 2019 年的研究中将其界定为决定自己的知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，具有内在价值和不可[[Operationalization|操作化]]的特征。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
+> 教化（Bildung，通常译为教养，英文亦作 character formation 或 edification of character）源自德国精神科学传统（geisteswissenschaftliche Tradition），指超越工具性学习和技能获取的自主人格形成过程。丹麦教育哲学家斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）在 2019 年的研究中将其界定为决定自己的知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，具有内在价值和不可[[Operationalization|操作化]]的特征。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
 > 
 > 在芬兰教育史中，教化被视为连接个体自我形成、代际文化传递和开放未来的核心纽带，主张教育在传承文化的同时防止教育被还原为对既有规范的再生产。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
@@ -112,7 +112,7 @@ updated: '2026-06-21'
 ### 命题类型二：教化环境中的反抗与相对独立性（Resistance and Relative Independence in Bildung Environment）
 
 > [!concept-lens] 教化环境中的反抗与相对独立性
-> 这类命题关注教化在外部社会、政治与技术环境中的生存机制，主张教化行动必须维持其独立于外部规训与算法预测的自主空间。
+> 这类命题关注教化在外部社会、政治与技术环境中的生存机制，主张教化行动必须维持其独立于外部[[Disciplina and Doctrina|规训]]与算法预测的自主空间。
 
 > [!claim] [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]
 > 教化必须面向不可预测的开放未来。在数字化治理（如[[Learning Analytics|学习分析]]与绩效自我评估）试图通过相关性数据预测并预先优化学生未来的背景下，教化要求维护不受数据预测限制的自我探索空间，抵抗对未来可能性的系统性压缩。[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p. 227]]

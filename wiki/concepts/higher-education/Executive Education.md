@@ -82,7 +82,7 @@ updated: 2026-05-30
 > [!abstract]
 > 当面向复杂社会挑战设计高管教育课程时，[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al. (2025, pp.158-161)]]提出需要在以下四个维度进行系统性创新：
 >
-> **1. 学科内容的复杂性（Subject Matter Complexity）**：跨学科（transdisciplinary）不等于多学科（multidisciplinary）。多学科是不同专家各自贡献视角；跨学科要求在不同学科知识之间建立网络化关联。课程需要建立小型教师领导核心团队来设定跨学科逻辑主线（pp.158-159）。
+> **1. 学科内容的复杂性（Subject Matter Complexity）**：跨学科（transdisciplinary）不等于多学科（multidisciplinary）。多学科是不同专家各自贡献视角；跨学科要求在不同学科知识之间建立[[Snowball Sampling|网络化]]关联。课程需要建立小型教师领导核心团队来设定跨学科逻辑主线（pp.158-159）。
 >
 > **2. 实践的广泛适用性（Broad Applications to Practice）**：学员期望“回办公室就能用的工具”，但跨学科系统性认识无法在短期内打包成操作手册。课程设计的关键是“重新定义实践的参数”，帮助学员认识到其运营环境的基础假设已经发生变化（p.159）。参见 [[Hypothesis]]。
 >

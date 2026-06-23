@@ -73,7 +73,7 @@ citation_aliases:
 
 - **Foucault [[Governmentality|治理术]]（governmentality）**：借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
 
-- **Deleuze [[Societies of Control|控制社会]]（societies of control）**：借鉴 Deleuze(1992)关于从规训社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
+- **Deleuze [[Societies of Control|控制社会]]（societies of control）**：借鉴 Deleuze(1992)关于从[[Disciplina and Doctrina|规训]]社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
 
 二者的结合提供了一种分析高等教育的竞争性治理技术的综合视角。
 

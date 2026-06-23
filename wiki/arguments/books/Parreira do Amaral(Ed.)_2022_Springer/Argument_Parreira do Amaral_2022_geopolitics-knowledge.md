@@ -100,7 +100,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 综合起来，本章强调当前形势中两个维度的共构性：
 1. 古典的领土权力博弈并未消失——大国的势力范围竞争以技术竞争和区域贸易协定（如 RCEP）的新形式持续运作(pp.37–38)
-2. 关系性和网络化的"[[Hub and Flow Imaginaries|枢纽与流动想象]]"（[[Hub and Flow Imaginaries]]）正在构成知识社会的核心空间组织逻辑(pp.37–38)
+2. 关系性和[[Snowball Sampling|网络化]]的"[[Hub and Flow Imaginaries|枢纽与流动想象]]"（[[Hub and Flow Imaginaries]]）正在构成知识社会的核心空间组织逻辑(pp.37–38)
 
 ## 论证结构
 

@@ -140,7 +140,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 > - **[[Axiology|价值论]]**(axiology)：研究者持有的价值与信念——什么被视为有价值的，理解的目的是什么
 > - **[[Ontology|本体论假设]]**(ontological assumptions)：关于实在本质和事物性质的假设——社会实在是外在于个体的客观存在，还是个体意识的产物
 > - **[[Epistemology|认识论假设]]**(epistemological assumptions)：关于如何探究实在本质的假设——知识是硬性的、客观的，还是个人的、主观的
-> - **方法论考量**(methodological considerations)：由前三个层级衍生——选择调查、实验，还是参与观察、个人[[Construct|构念]]
+> - **方法论考量**(methodological considerations)：由前三个层级衍生——选择调查、实验，还是[[Participant Observation|参与观察]]、个人[[Construct|构念]]
 > - **工具与资料收集**(instrumentation and data collection)：最具体的操作层面
 
 人类理解世界的途径可归纳为三种(Mouly, 1978)，形成了一个从日常认知到科学知识的递进框架：

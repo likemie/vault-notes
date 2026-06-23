@@ -85,7 +85,7 @@ citation_aliases:
 > - **情况 5**（40 题四选一）：效应量 ≈ **0.3**
 > - **情况 6**（测试问 *okádás* 而非 *oktatás*，选项含 "teacher"）：实验组可能因错误类比而更倾向选 "teacher" → 效应量为**负**
 >
-> > “在这些例子中，每一个的教育干预（以及控制活动、人群和样本量等）都完全相同……然而效应量却从0变到0.4，变到0.6，变到4，直至无穷大。”
+> > “在这些例子中，每一个的教育干预（以及控制活动、人群和[[Sample Size Determination|样本量]]等）都完全相同……然而效应量却从0变到0.4，变到0.6，变到4，直至无穷大。”
 > ("In each of these examples, the educational intervention (and control activity and population and sample size, etc.) is exactly the same... yet the effect size varies from 0 to 0.4, to 0.6, to 4, to infinity.") (p.102)
 >
 > ### 2. 现实案例验证
@@ -150,7 +150,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文自身承认[[Effect Size|效应量]]在特定条件下有合法技术用途（研究设计中的样本量计算），但强调这与政策用途有根本区别(p.104, 106)
+> - 论文自身承认[[Effect Size|效应量]]在特定条件下有合法技术用途（研究设计中的[[Sample Size Determination|样本量]]计算），但强调这与政策用途有根本区别(p.104, 106)
 > - 效应量的合法使用需要研究者在选择设计特征时有一定自由度——在行为干预等情境中，伦理约束（如不能使用"无干预"对照）限制了研究者操控信噪比的能力(p.105)
 > - Cheung & Slavin (2016) 发现研究者自编测量的效应量平均是独立测量效应量的两倍——这一发现直接从思想实验的逻辑中得出：研究者可以（也确实）通过设计与干预内容紧密结合的测试来减少噪声(p.108, Note 3)
 

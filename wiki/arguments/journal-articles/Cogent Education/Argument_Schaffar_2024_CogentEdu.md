@@ -69,7 +69,7 @@ updated: 2026-06-22
 > 芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？如何理解其核心的现象概念？该教学模式的整体性教育价值与课程化过程中遭遇的新自由主义（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？(pp.1–2)
 
 > [!claim] 核心主张
-> PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、[[Bildung\|教化]]（Bildung）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（Pragmatic Constructivism）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
+> PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、[[Bildung\|教化]]（Bildung）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（[[Pragmatic Constructivism]]）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 芬兰基础教育国家核心课程中的 PhBL 政策话语、背后的教育思想史脉络，以及赫尔辛基大学的 SveaSus 教学实验案例 (pp.1–3)
@@ -86,7 +86,7 @@ updated: 2026-06-22
 > | **[[Phenomenology\|现象学]]**<br>Phenomenology | 用于澄清现象（Phenomenon）的哲学含义。解释学习作为具身经验（Embodied experience）、生活世界（Lifeworld）探究和主体间性（Intersubjectivity）对话的存在性本质，批判将学习量化和指标化的倾向。(pp.2–4) |
 > | **[[Bildung\|教化传统]]**<br>Bildung Tradition | 用于说明教育的内在价值和开放未来。强调人的自我形成与共同体建设，批判以经济增长为导向、将教育工具化的工具主义取向。(pp.5–7) |
 > | **[[Didaktik\|欧陆教学论]]**<br>Didaktik | 特别是 [[Wolfgang Klafki]] 的[[Epochal Key Problems\|时代关键问题]]（Epochal key problems）命题，用以论证如何围绕复杂社会危机（如环境恶化、社会不平等）组织跨学科教学，统合学科深度与跨学科广度。(pp.6–7) |
-> | **[[Constructivist Paradigm\|建构主义心理学]]**<br>Educational Psychology & Constructivism | 特别是实用主义建构主义（Pragmatic Constructivism），用于追溯芬兰 PhBL 政策在教学心理学层面的直接学术来源（如 Dewey 与 Mead 的思想整合）。(pp.7–8) |
+> | **[[Constructivist Paradigm\|建构主义心理学]]**<br>Educational Psychology & Constructivism | 特别是[[Pragmatic Constructivism\|实用主义建构主义]]（Pragmatic Constructivism），用于追溯芬兰 [[Phenomenon-Based Learning\|PhBL]] 政策在教学心理学层面的直接学术来源（如 Dewey 与 [[George Herbert Mead\|Mead]] 的思想整合）。(pp.7–8) |
 
 > [!warrant]- 理论如何支撑论证
 > 上述理论工具构成了一个从[[Ontology|本体论]]到社会批判的推理链条。现象学为现象本位提供了体验论与存在论根基，使学习回归生活世界。教化与教学论传统为跨学科整合提供了规范性方向（即面向时代危机培养自治公民）。[[Pragmatic Paradigm|实用主义]]建构主义则提供了具体实施的教学心理学机制。这三者的结合，使我们能够识别并批判当代政策治理中将 [[Phenomenon-Based Learning|PhBL]] 矮化为碎片化技能包的政治经济学过程。(pp.2–3, 6, 8–10)
@@ -99,8 +99,8 @@ updated: 2026-06-22
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **哲学与概念分析**<br>Philosophical Analysis | 运用[[Philosophical Analysis in Education\|教育哲学分析]]方法，对现象（Phenomenon）、学科（Discipline）、教化（Bildung）及技能原子化（Atomisation of Skills）等核心概念进行演变考掘与逻辑辨析。(pp.2–6, 9) |
-> | **历史与思想史梳理**<br>Historical Review | 梳理古希腊以来的学科分类史、19世纪德语哲学对芬兰学术界的影响、20世纪芬兰教育心理学范式的流变，以及芬兰基础教育课程改革的脉络。(pp.5–8) |
-> | **课程政策与治理批判**<br>Policy Critique | 对芬兰基础教育国家核心课程文本进行解读，并结合全球软治理（Soft governance）理论，分析 OECD、欧盟（EU）等国际组织对芬兰教育政策的渗透与重塑。(pp.8–10) |
+> | **历史与思想史梳理**<br>Historical Review | 梳理古希腊以来的学科分类史、19世纪德语哲学对芬兰学术界的影响、20世纪芬兰教育心理学[[Paradigm\|范式]]的流变，以及芬兰基础教育课程改革的脉络。(pp.5–8) |
+> | **课程政策与治理批判**<br>Policy Critique | 对芬兰基础教育国家核心课程文本进行解读，并结合全球软治理（Soft governance）理论，分析 [[OECD]]、欧盟（EU）等国际组织对芬兰教育政策的渗透与重塑。(pp.8–10) |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -158,7 +158,7 @@ updated: 2026-06-22
 > |-----------------|--------------|------------------|
 > | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、实践科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。(p.5) |
 > | **中世纪七艺**<br>Seven Liberal Arts | 分为三科（Trivium：语法/逻辑/修辞）与四艺（Quadrivium：算术/几何/音乐/天文）。(p.5) | 视沟通媒介与时空数量关系为观察世界的系统窗口。(p.5) |
-> | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调学科理论知识具有自身的本体论深度（Ontological depth）和内在逻辑结构。(p.5) | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。(p.5) |
+> | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调[[Discipline-Based Theory\|学科理论]]知识具有自身的[[Ontology\|本体论]]深度（Ontological depth）和内在逻辑结构。(p.5) | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。(p.5) |
 
 > [!warrant]- 推理桥梁：从学科深度走向跨学科广度
 > 学科的演变逻辑表明，人类分类知识正是为了更好地解释特定现象。因此，PhBL 应当引导学生遵循人类好奇心的历史足迹，既尊重学科内部的理论逻辑，又根据[[Epochal Key Problems\|时代关键问题]]重新统合知识，而不应模糊学科边界。(pp.4–5)
@@ -195,7 +195,7 @@ updated: 2026-06-22
 > 在21世纪前后的全球化语境中，PhBL 被正式写入芬兰国家课程标准，这一过程深受 [[OECD]]、欧盟等国际组织软治理（Soft governance）的影响，旨在提高芬兰在国际经济中的竞争优势。(pp.8–9)
 
 > [!chain-link] 政策吸纳逻辑链
-> - **1990年代经济危机与北欧模式的冲击** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society）。面对传统[[Nordic Model of Education|北欧教育模式]]的危机，他们积极响应 OECD 以市场劳动力需求为导向的政策话语。(p.8)
+> - **1990年代经济危机与[[Nordic Model of Education|北欧模式]]的冲击** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society）。面对传统[[Nordic Model of Education|北欧教育模式]]的危机，他们积极响应 OECD 以市场劳动力需求为导向的政策话语。(p.8)
 > - **[[PISA]] 夺冠与最佳模型的维持焦虑** 芬兰在 OECD 的 PISA 测试中意外名列前茅，成为[[International Education|国际教育]]效仿的对象。这种最佳（Top model）地位催生了通过持续改革维持领先优势、避免落后于竞争对手的政策话语。(pp.8–9)
 > - **国际技能标准的课程转化** 在此背景下，PhBL 的课程化被表述为对 OECD [[21st Century Skills and Competencies Discourse|21世纪技能]]（21st century skills）和欧盟横向能力（Transversal competencies）政策的直接回应。(p.9)
 
@@ -207,8 +207,8 @@ updated: 2026-06-22
 > 当代由新自由主义主导的全球教育行业（[[Global Education Industry]], GEI）强调可测量结果与绩效问责（Accountability），导致了课程知识的技能原子化（Atomisation of Skills），与 PhBL 追求的整体性、存在性价值存在不可调和的制度张力。(pp.9–10)
 
 > [!tension] 整体性教育 vs. 技能原子化
-> - **整体性与存在性学习** 现象学与教化传统主张，学习是具身、情感与伦理交互的整体旅程。PhBL 引导学生面对生活世界的复杂真实挑战（如可持续发展），鼓励批判性、开放性的共同反思（[[Disciplina and Doctrina|doctrina / 教学与更新]]）。(pp.4, 9–10)
-> - **技能原子化与绩效问责** 全球绩效评估与问责体系要求将课程分解为细小、可测量、标准化且可交易的技能指标。学生和教师沦为政府数据中的度量衡，抹杀了学习的开放性与主体间意义（[[Disciplina and Doctrina|disciplina / 规训]]）。(pp.9–10)
+> - **整体性与存在性学习** 现象学与教化传统主张，学习是具身、情感与伦理交互的整体旅程。PhBL 引导学生面对生活世界的复杂真实挑战（如可持续发展），鼓励批判性、开放性的共同反思（[[Disciplina and Doctrina|doctrina]] / 教学与更新）。(pp.4, 9–10)
+> - **技能原子化与绩效问责** 全球绩效评估与问责体系要求将课程分解为细小、可测量、标准化且可交易的技能指标。学生和教师沦为政府数据中的度量衡，抹杀了学习的开放性与主体间意义（disciplina / 规训）。(pp.9–10)
 
 > [!warrant]- 推理桥梁：治理工具对教学理想的吞噬
 > 当 PhBL 沦为促进经济增长和证明 21世纪技能 达成度的政策工具时，其原本具备的挑战既有社会结构、促进社会正义的批判性潜能就会受到削弱。新自由主义治理系统利用标准化的技能清单将跨学科现象原子化，背叛了 PhBL 的哲学根源。(pp.9–11)

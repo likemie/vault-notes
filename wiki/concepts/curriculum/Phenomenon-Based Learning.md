@@ -84,7 +84,7 @@ updated: '2026-06-21'
 > | **学科定位** | 保留学科内部逻辑与[[Ontology\|本体论]]深度 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]) | 学科知识服务于问题解决 | 学科边界常被能力指标拆散并碎片化 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 10]]) |
 > | **哲学根源** | [[Phenomenology\|现象学]]、[[Bildung\|教化]]哲学与教学论传统 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]) | 主要是认知心理学与[[Constructivist Paradigm\|建构主义]] ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]) | 人力资本理论与新自由主义绩效管理 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]) |
 
-> [!term] 知识结构辨析：Disciplina 与 Doctrina
+> [!term] 知识结构辨析：[[Disciplina and Doctrina|disciplina]] 与 Doctrina
 > - **Disciplina（学科/纪律）**：词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **Doctrina（教导的动态发展）**：侧重于知识进一步更新与演进的可能性与需求，旨在使成熟知识与不确定未来及开放世界连接。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **跨学科深度的关键（[[Critical Realism]] 视角）**：批判现实主义主张，[[Discipline-Based Theory|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
@@ -125,7 +125,7 @@ updated: '2026-06-21'
 > 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发反思性主体能动性以及重审教育意义的教学入口。
 
 > [!claim] Rauste-von Wright, M.
-> 现象本位学习作为一种“自我修正的课程模型”，将 [[John Dewey]] 的反思性探究与 [[George Herbert Mead]] 的具身社会互动论融合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（Pragmatic Constructivism）。它主张教学应当从预设的课程大纲导向转向基于学生自身世界观的生成，将学习视为“情境化与语境化的互动过程”，以弥合理论与实践的传统鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> 现象本位学习作为一种“自我修正的课程模型”，将 [[John Dewey]] 的反思性探究与 [[George Herbert Mead]] 的具身社会互动论融合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（[[Pragmatic Constructivism]]）。它主张教学应当从预设的课程大纲导向转向基于学生自身世界观的生成，将学习视为“情境化与语境化的互动过程”，以弥合理论与实践的传统鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!claim] Schaffar, B., & Wolff, L.-A.
 > 现象本位学习本质上并非一套标准化、可快速复制或可直接移植的教学干预技术，也不是解决教育危机的万灵药（Salvation approach）。它应被视为一个促使教育者重新追问与反思教育及课程意义的“教学反思入口”，旨在唤起教师与学生的教学能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
@@ -161,7 +161,7 @@ updated: '2026-06-21'
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990年代末 — 教师教育中的模型诞生**：Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“课程自我修正模型”，旨在弥合教育心理学理论与课堂教学实践之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> - **1990年代末 — 教师教育中的模型诞生**：Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“[[Pragmatic Constructivism|课程自我修正模型]]”，旨在弥合教育心理学理论与课堂教学实践之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 > - **2014年 — 芬兰国家课程政策化**：芬兰正式发布《基础教育国家核心课程 2014》（瑞典语与芬兰语版），将跨学科探究与现象本位作为实现课程核心价值的官方推荐教学取向，但在学校实施中呈现极高[[Heterogeneity|异质性]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **2016年 — 译本发布与国际关注**：该课程大纲英文版正式发布，在国际社交媒体与教育改革讨论中引发热议，并伴随着“芬兰取消传统学科分类”的广泛误读。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **2018年–2023年 — 教师教育中的可持续发展实验**：赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡（Suomenlinna）世界遗产地展开具身学习、艺术本位及多语教学的 PhBL 实证探究。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]

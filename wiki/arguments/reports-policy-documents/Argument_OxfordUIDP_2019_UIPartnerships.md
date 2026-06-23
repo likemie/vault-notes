@@ -107,7 +107,7 @@ updated: 2026-06-10
 > [!framework-table] 分析视角
 > | 分析工具 | 解释功能 |
 > |----------|----------|
-> | **[[Innovation Ecosystem]]**<br>创新生态系统 | 理解大学、企业、政府和其他组织之间通过互动推动创新的系统环境，以及如何通过战略性地发展本地生态系统来增强产学合作的价值主张 |
+> | **[[Innovation Ecosystem]]**<br>创新生态系统 | 理解大学、企业、政府和其他组织之间通过互动推动创新的系统环境，以及如何通过战略性地发展本地生态系统来增强[[University-Industry Collaboration\|产学合作]]的价值主张 |
 > | **[[Triple Helix]]**<br>三重螺旋 | 分析大学-产业-政府三个制度领域日益交织的动态关系，政府政策如何塑造产学合作的激励机制 |
 > | **[[Lester's Typology of University Contributions to Local Industry]]**<br>Lester 大学贡献分类 | 根据本地产业的类型和所处产业生命周期阶段，区分大学对本地经济的不同贡献方式 |
 > | **[[King-Persily Model]]**<br>金-珀斯利模型 | 解决产学合作中敏感数据共享的治理框架，通过独立第三方委员会解耦研究者对产业数据的完全访问 |
@@ -121,7 +121,7 @@ updated: 2026-06-10
 > [!method-panel] 峰会议程设计
 > | 模块 | 形式与目的 |
 > |------|-----------|
-> | **专家小组会议**<br>Expert Panel Sessions | 由产学合作领域的思想领袖主持专题讨论，引入关键议题和多元视角 |
+> | **专家小组会议**<br>Expert Panel Sessions | 由[[University-Industry Collaboration\|产学合作]]领域的思想领袖主持专题讨论，引入关键议题和多元视角 |
 > | **引导式分组讨论**<br>Facilitated Breakouts | 围绕预设议题进行深度辩论，促进不同背景代表之间的对话与经验分享 |
 > | **全体会议综合**<br>Plenary Synthesis | 汇总各分组讨论的发现和共识，提炼跨议题的共通线索 |
 

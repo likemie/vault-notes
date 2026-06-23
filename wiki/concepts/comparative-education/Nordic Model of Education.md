@@ -35,11 +35,11 @@ updated: '2026-06-22'
 ## 定义
 
 > [!def] 核心定义
-> **北欧教育模式**（Nordic Model of Education）是指自 20 世纪 20 年代起在瑞典、挪威、丹麦、芬兰和冰岛等北欧福利国家逐步发展起来的公共教育范式。该模式以民主（democracy）、团结（solidarity）和公平（equality）为基础，通过设立统一的公立基础教育学校、提供均等的教学资源以及公共财政支持高等教育，致力于消除阶级壁垒，促进社会的整体和谐与代际流动（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。在新自由主义全球治理下，该模式受到绩效测量和市场竞争逻辑的冲击（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–10]]）。
+> **北欧教育模式**（Nordic Model of Education）是指自 20 世纪 20 年代起在瑞典、挪威、丹麦、芬兰和冰岛等北欧福利国家逐步发展起来的公共教育[[Paradigm|范式]]。该模式以民主（democracy）、团结（solidarity）和公平（equality）为基础，通过设立统一的公立基础教育学校、提供均等的教学资源以及公共财政支持高等教育，致力于消除阶级壁垒，促进社会的整体和谐与代际流动（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。在新自由主义全球治理下，该模式受到绩效测量和市场竞争逻辑的冲击（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义**：该概念指向一套非竞争性、强调社会包容和福利国家整合的教育供给体系与平等主义价值体系。
-> - **用途**：帮助比较教育研究者分析战后北欧社会的公平驱动力，并用作评判新自由主义绩效导向改革（如以 PISA 评估为驱动的全球教育治理）对地方团结体制破坏的政策参照物。
+> - **用途**：帮助比较教育研究者分析战后北欧社会的公平驱动力，并用作评判新自由主义绩效导向改革（如以 [[PISA]] 评估为驱动的全球教育治理）对地方团结体制破坏的政策参照物。
 > - **边界**：它不是一个单一绝对标准的制度，而是北欧各国在相似的社会民主框架下对学校体制、学费减免及教师专业自主权的具体政策重组的总称。
 
 ---
@@ -47,7 +47,7 @@ updated: '2026-06-22'
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 北欧教育模式 | 全球教育产业 (GEI) 驱动模式 |
+> | 维度 | 北欧教育模式 | [[Global Education Industry\|全球教育产业]] (GEI) 驱动模式 |
 > |------|---|---|
 > | **核心价值** | 民主、团结、公平与社会包容（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。 | 效率、个人竞争、市场选择与经济增长（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 9]]）。 |
 > | **知识定位** | 整体性、存在性的生活世界探索与德性塑造（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 4, 10]]）。 | 原子化的、可测量的、面向市场就业的技能单元（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。 |
@@ -75,7 +75,7 @@ updated: '2026-06-22'
 > 这一命题群关注国际经济组织如何利用量化治理侵蚀并重塑北欧各国的教育主权与核心价值。
 
 > [!claim] <Schaffar, B., & Wolff, L.-A.>
-> 20世纪90年代以来，芬兰等国遭遇严重经济衰退，这削弱了本土模式的抵抗力，导致国家急于响应 OECD 的“信息社会”和“21世纪技能”政策话语。PISA 测试的意外成功非但没有增强其自主权，反而带来了维持“最佳模型”的焦虑，加速吸纳全球测量和经济竞争逻辑，破坏了传统福利教育的团结基础（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–10]]）。
+> 20世纪90年代以来，芬兰等国遭遇严重经济衰退，这削弱了本土模式的抵抗力，导致国家急于响应 [[OECD]] 的“信息社会”和“[[21st Century Skills and Competencies Discourse|21世纪技能]]”政策话语。[[PISA]] 测试的意外成功非但没有增强其自主权，反而带来了维持“最佳模型”的焦虑，加速吸纳全球测量和经济竞争逻辑，破坏了传统福利教育的团结基础（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 ---
 
@@ -83,12 +83,12 @@ updated: '2026-06-22'
 
 > [!dev-timeline] 概念演变
 > - **1920s–1970s — 奠基与黄金时期**：北欧各国相继推行基础学校（Comprehensive School）改革，统一替代传统的分流精英学校，确立了融合平等与团结的“北欧教育模式”基石（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。
-> - **1990s — 萧条下的改革变局**：苏联解体和经济萧条促使北欧（如芬兰）引入新公共管理改革，废除教材审查等传统控制，但在理念上开始积极倒向 OECD 等组织的全球软治理与市场话语（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。
-> - **2000s 至今 — PISA 冲击与新自由主义重构**：PISA 夺冠将芬兰捧为全球效仿的模型，但同时也使北欧模式处于持续变革以防止“落后”的竞争性高压中，标准化测量和技能原子化导致该模式的民主与人道主义核心理念面临持续消解风险（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–10]]）。
+> - **1990s — 萧条下的改革变局**：苏联解体和经济萧条促使北欧（如芬兰）引入[[New Public Management|新公共管理]]改革，废除教材审查等传统控制，但在理念上开始积极倒向 [[OECD]] 等组织的全球软治理与市场话语（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。
+> - **2000s 至今 — [[PISA]] 冲击与新自由主义重构**：PISA 夺冠将芬兰捧为全球效仿的模型，但同时也使北欧模式处于持续变革以防止“落后”的竞争性高压中，标准化测量和技能原子化导致该模式的民主与人道主义核心理念面临持续消解风险（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和全球教育产业重塑。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和[[Global Education Industry|全球教育产业]]重塑。

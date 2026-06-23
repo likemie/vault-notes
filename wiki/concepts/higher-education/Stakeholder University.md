@@ -79,7 +79,7 @@ updated: 2026-05-20
 3. 网络扩展进一步将大学从学术共同体转化为多利益相关者平台
 4. 作为平台，大学成为地缘政治的机会节点——各国通过大学网络投射软实力、吸引全球人才、推动经济战略
 
-这一转型与 [[Societies of Control|控制社会]] 的 Deleuze 式分析相吻合：大学不再是一个封闭的规训机构（学生进入→规训→毕业释放），而是一个被持续调制的网络节点——"企业"取代了封闭机构，"没有解雇"意味着校友永远被纳入大学的追踪、排名贡献和捐赠网络之中(Deleuze, 1992, pp.5–6; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
+这一转型与 [[Societies of Control|控制社会]] 的 Deleuze 式分析相吻合：大学不再是一个封闭的[[Disciplina and Doctrina|规训]]机构（学生进入→规训→毕业释放），而是一个被持续调制的网络节点——"企业"取代了封闭机构，"没有解雇"意味着校友永远被纳入大学的追踪、排名贡献和捐赠网络之中(Deleuze, 1992, pp.5–6; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
 ## 争议与批评
 

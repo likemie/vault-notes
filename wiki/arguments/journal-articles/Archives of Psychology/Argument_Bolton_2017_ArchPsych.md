@@ -96,9 +96,9 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **研究方法**<br>文献综述 (Literature Review) | 文献综述 (Literature Review)。对跨越发展心理学、认知神经科学和教育科学的多领域文献进行多学科整合分析（p.2）。 |
+> | **研究方法**<br>文献综述 (Literature Review) | [[Literature Review\|文献综述]] (Literature Review)。对跨越发展心理学、认知神经科学和教育科学的多领域文献进行多学科整合分析（p.2）。 |
 > | **脑发育数据来源**<br>神经生物学证据 (Neurobiological Evidence) | 整合分析已发表的尸检脑解剖数据 (突触连结与细胞生长) 及各年龄段儿童的[[Electroencephalography\|脑电图 (Electroencephalography, EEG)]]、[[Functional Magnetic Resonance Imaging\|功能性磁共振成像 (Functional Magnetic Resonance Imaging, fMRI)]]、正电子发射断层扫描 (Positron Emission Tomography, PET)、和近红外光谱 (Near-infrared Spectroscopy, NIRS) 扫描数据（p.2, pp.9–13）。 |
-> | **执行功能行为任务**<br>执行功能任务 (Executive Function Tasks) | 汇总分析维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS)、Stroop式日夜任务 (Stroop-like Day-Night Task)、Go/No-Go任务 (Go/No-Go Task)、A非B任务 (A-not-B Task)、数字广度任务 (Digit Span Task)、威斯康星卡片分类任务 (Wisconsin Card Sorting Test, WCST) 等行为学范式（pp.9–15）。 |
+> | **执行功能行为任务**<br>执行功能任务 (Executive Function Tasks) | 汇总分析维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS)、Stroop式日夜任务 (Stroop-like Day-Night Task)、Go/No-Go任务 (Go/No-Go Task)、A非B任务 (A-not-B Task)、数字广度任务 (Digit Span Task)、威斯康星卡片分类任务 (Wisconsin Card Sorting Test, WCST) 等行为学[[Paradigm\|范式]]（pp.9–15）。 |
 > | **认知发展测试**<br>皮亚杰测试任务 (Piagetian Tasks) | 锚定经典守恒任务 (如液体守恒任务 [[Piaget's Theory of Cognitive Development\|Liquid Conservation Task]]、类包含任务 [[Piaget's Theory of Cognitive Development\|Class Inclusion Task]]) 和新皮亚杰平衡木测试 (Balancing Beam Test) 的心理学数据（pp.2–4）。 |
 
 > [!sample-panel]- 样本与材料快照

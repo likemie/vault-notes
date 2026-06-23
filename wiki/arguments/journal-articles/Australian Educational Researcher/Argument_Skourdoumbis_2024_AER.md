@@ -103,7 +103,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **批判政策社会学**<br>Critical Policy Sociology | 质疑权力、[[Knowledge Production\|知识生产]]和政策流动（Ozga, 2021）。用于分析《强劲开端》报告中的政策主张是如何在特定的权力与利益网络中被动员与生产的，而非作为中性的技术方案自然传导。 |
-> | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）分析框架（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
+> | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）[[Analytic Framework\|分析框架]]（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
 
 > [!warrant]- 理论如何支撑论证
 > 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至[[Policy Network|政策网络]]，勾勒出[[Australian Education Research Organisation|AERO]]、[[Australian Institute for Teaching and School Leadership|AITSL]]、[[Centre for Independent Studies|CIS]]等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
@@ -115,7 +115,7 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 核心方法与说明 |
 > |------|----------------|
-> | **批判性政策文本分析**<br>Critical Policy Text Analysis | 运用Bacchi (2009) 的WPR方法，对《强劲开端》（2023）报告的主文本、14项具体建议、优先改革1（Priority Reform 1）以及附录D（Appendix D）中关于“大脑与学习”的核心课程规范、指定参考文献进行细致的话语与逻辑解构。 |
+> | **批判性政策文本分析**<br>Critical Policy Text Analysis | 运用Bacchi (2009) 的[[Bacchi's WPR Approach\|WPR方法]]，对《强劲开端》（2023）报告的主文本、14项具体建议、优先改革1（Priority Reform 1）以及附录D（Appendix D）中关于“大脑与学习”的核心课程规范、指定参考文献进行细致的话语与逻辑解构。 |
 > | **政策网络与利益关系追踪**<br>Policy Network Tracing | 采用批判政策社会学方法，梳理政策的“理念编排”（Idea Orchestration）网络。具体分析专家小组起草成员、官方循证中介机构（AERO）、行业准入与评估机构（AITSL）、民间保守智库（CIS）及国际教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation\|EEF]]）之间的人事重叠、引文交织和资金纽带。 |
 
 > [!sample-panel]- 样本与材料快照

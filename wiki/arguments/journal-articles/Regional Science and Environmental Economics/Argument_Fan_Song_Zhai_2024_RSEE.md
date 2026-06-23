@@ -70,7 +70,7 @@ updated: 2026-06-12T18:15:00
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Coupling Coordination Theory\|耦合协调理论]]**<br>Coupling Coordination Theory | 将教育、科技、人才视为三个相互关联的子系统，耦合度衡量相互作用强度，协调度衡量协同演进水平 |
-> | **空间计量经济学**<br>Spatial Econometrics | 通过LISA局部空间自相关和空间转移矩阵检验EST发展的空间依赖性和格局稳定性 |
+> | **空间计量经济学**<br>Spatial Econometrics | 通过LISA局部空间自相关和[[LISA Spatiotemporal Transition\|空间转移矩阵]]检验EST发展的空间依赖性和格局稳定性 |
 
 ---
 ## 研究方法

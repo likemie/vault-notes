@@ -114,7 +114,7 @@ updated: 2026-06-17
 
 > [!timeline] 概念演变
 > - **2000–2010 起源阶段**：主要用于分析传统西方国家内部政府部门与行业利益集团的协商网络。
-> - **2012 跨国政策网络转向**：[[Stephen Ball]] 提出“全球政策网络”与“异质治理”概念，专门指涉跨国中介公司、[[Venture Philanthropy|风险慈善]]基金会（Venture Philanthropy）以及新自由主义智库在重塑主权国家公共政策方面的网络化操纵。
+> - **2012 跨国政策网络转向**：[[Stephen Ball]] 提出“全球政策网络”与“异质治理”概念，专门指涉跨国中介公司、[[Venture Philanthropy|风险慈善]]基金会（Venture Philanthropy）以及新自由主义智库在重塑主权国家公共政策方面的[[Snowball Sampling|网络化]]操纵。
 > - **2018后 证据生态网络的合流**：以英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实施全球证据生态系统计划为代表，政策网络以“中立证据、什么有效”的科学外衣出现，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation|澳大利亚教育研究组织]]，AERO），达成全球话语的一致性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---

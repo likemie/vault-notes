@@ -618,7 +618,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > [!feature] 操纵（Manipulation）的三种形式
 > - **行动研究**（action research，见第18章）：存在因缺乏控制和外部检查带来的严谨性问题——因果归因可能是错位的。
 > - **各种实验方法**（见第16章）：假定（可能正确也可能错误、可能可接受也可能不可接受）变量和人是可以被隔离、控制和操纵的。
-> - **[[Qualitative Research|质性研究]]中的参与观察**（participant observation）：自然情境中探索因果过程，但不具备变量控制的实验精度（pp.79–80）。
+> - **[[Qualitative Research|质性研究]]中的[[Participant Observation|参与观察]]**（participant observation）：自然情境中探索因果过程，但不具备变量控制的实验精度（pp.79–80）。
 
 ---
 

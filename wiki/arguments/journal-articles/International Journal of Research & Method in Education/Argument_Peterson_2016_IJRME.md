@@ -60,14 +60,14 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 如何将实验科学（"什么有效"[[Paradigm|范式]]，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以网络化教师探究为核心）的核心要素整合，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
+> 如何将实验科学（"什么有效"[[Paradigm|范式]]，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以[[Snowball Sampling|网络化]]教师探究为核心）的核心要素整合，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 核心前提：黑箱 [[Randomised Controlled Trials|RCT]] 的证据仅适用于二选一决策(Cartwright & Hardie, 2012)，教育情境中行动者很少处于做出此类决策的位置
 > - **发展经济学的[[Mechanism Experiments|机制实验]]传统**(Duflo, Glennerster, & Kremer, 2006; Ludwig, Kling, & Mullainathan, 2011)— 提供机制实验的方法论模板
-> - **[[Improvement Science|改进科学]]**(Bryk et al., 2015; Langley et al., 2009)— 提供网络化改进和反馈循环的组织模板
+> - **[[Improvement Science|改进科学]]**(Bryk et al., 2015; Langley et al., 2009)— 提供[[Snowball Sampling|网络化]]改进和反馈循环的组织模板
 
 ## 研究方法
 
@@ -95,7 +95,7 @@ citation_aliases:
 >
 > **组件二：改进和探究网络融入"什么有效"基础设施**
 >
-> 网络化改进社区(Bryk et al., 2015)和[[Spirals of Inquiry|探究螺旋]](Timperley, Halbert, & Kaser, 2014)不仅增加证据使用的可能性，而且提高实施质量——通过建立反馈循环将注意力集中在真实的变化机制（学习者的感知和行为变化），而非要实施的程序协议(p. 306–307)。
+> [[Snowball Sampling|网络化]]改进社区(Bryk et al., 2015)和[[Spirals of Inquiry|探究螺旋]](Timperley, Halbert, & Kaser, 2014)不仅增加证据使用的可能性，而且提高实施质量——通过建立反馈循环将注意力集中在真实的变化机制（学习者的感知和行为变化），而非要实施的程序协议(p. 306–307)。
 >
 > ### 结论：共享的"构建块"作为整合媒介
 >

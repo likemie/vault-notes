@@ -309,7 +309,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > [!ref-table] 抽样与案例（4 项）
 > | 措施 | 说明 |
 > |---|---|
-> | **理论抽样（theoretical sampling）** | 跟随数据引领的方向，而非引领数据 |
+> | **[[Theoretical Sampling\|理论抽样]]（theoretical sampling）** | 跟随数据引领的方向，而非引领数据 |
 > | **异常值检查（checking the meaning of outliers）** | 检查异常值和例外如何为理解现象提供杠杆 |
 > | **极端案例（using extreme cases）** | 识别大多数案例中缺失的内容 |
 > | **负面案例分析（negative case analysis）** | 检查反证案例以确定假设或发现是否需要修正 |
@@ -321,7 +321,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > | **参照充分性（referential adequacy）** | 将发现充分引用到基准或重要文献 |
 > | **追踪意外（following up surprises）** | 避免/不忽略意外结果 |
 > | **结构关系（structural relationships）** | 寻找发现之间以及发现与文献之间的一致性 |
-> | **效应量（effect sizes）** | 避免简单二元化，改用大小、效力或强度的指示代替 |
+> | **[[Effect Size\|效应量]]（effect sizes）** | 避免简单二元化，改用大小、效力或强度的指示代替 |
 
 ---
 
@@ -1315,7 +1315,7 @@ Hudson & Miller (1997) 提出了最大化邮寄问卷回应率的十二项策略
 - **外部效度**：一项研究的**结果如何适用于其他情境**？——关于主观和特异性性质的评论，同时也是关于**结果的代表性**的担忧
 - **内部效度**：结果是否代表了**真实事物、真正产品**？——观察者的评判是否会受其与群体的**密切参与**影响？
 
-> [!warning] 参与观察的四重威胁
+> [!warning] [[Participant Observation|参与观察]]的四重威胁
 > - 研究者在探索当下时可能**不了解重要的先发事件**
 > - 信息提供者可能在研究中**不具代表性**
 > - 观察者的在场可能引发**不同行为（反应性和生态效度）**

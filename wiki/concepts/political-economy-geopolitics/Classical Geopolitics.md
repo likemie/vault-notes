@@ -97,7 +97,7 @@ updated: '2026-05-18'
 
 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 进一步指出，在当代政策话语和公共舆论中，虽然地缘政治被表述为更少关注领土竞争——似乎这些关切属于全球化和新自由主义政治之前的时代——但古典领土权力逻辑仍在多个[[Champ|场域]]积极运作："在俄罗斯吞并克里米亚后，政治家和媒体将此解读为属于二十世纪的老式地缘政治战略行为"（Moisio, 2018, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.37]]）。同时，英国脱欧和[[Sino-American Trade War|中美贸易战]]也被视为当代地缘政治权力博弈的例证([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
 
-[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 特别指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的话语与中国的区域战略计算（旨在超越不包括中国的美国主导 TPP 替代方案）共同构成了当代地缘政治的实际运作逻辑([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
+[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 特别指出，古典地缘政治的领土权力逻辑和关系性地缘政治的[[Snowball Sampling|网络化]]空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的话语与中国的区域战略计算（旨在超越不包括中国的美国主导 TPP 替代方案）共同构成了当代地缘政治的实际运作逻辑([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.37–38]])。
 
 ### 在高等教育分析中的应用
 

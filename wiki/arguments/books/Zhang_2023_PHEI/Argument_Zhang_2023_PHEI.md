@@ -75,9 +75,9 @@ updated: 2026-06-11
 > [!framework-table] 分析视角
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **系统论**<br>System Theory | 将科技创新生态系统视为由创新主体、创新组织、创新资源、创新环境、创新集群和产业集群构成的有机整体，各要素协同互动产生非线性效应 |
-> | **创新生态系统理论**<br>Innovation Ecosystem Theory | 基于Cooke（2004）等学者的区域创新生态系统理论，强调各要素在地理位置上的依赖性和自然演化过程 |
-> | **SWOT分析**<br>SWOT Analysis | 从外部机遇与挑战、内部优势与劣势四个维度系统评估大湾区创新生态系统的现实基础 |
+> | **系统论**<br>System Theory | 将科技[[Innovation Ecosystem\|创新生态系统]]视为由创新主体、创新组织、创新资源、创新环境、创新集群和产业集群构成的有机整体，各要素协同互动产生非线性效应 |
+> | **创新生态系统理论**<br>Innovation Ecosystem Theory | 基于Cooke（2004）等学者的区域创新生态[[Luhmann's Systems Theory\|系统理论]]，强调各要素在地理位置上的依赖性和自然演化过程 |
+> | **SWOT分析**<br>SWOT Analysis | 从外部机遇与挑战、内部优势与劣势四个维度系统评估[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]创新生态系统的现实基础 |
 > | **双循环理论**<br>Dual Circulation Theory | 以国内大循环为主体、国内国际双循环相互促进的新发展格局，应用于科技创新领域 |
 
 ---

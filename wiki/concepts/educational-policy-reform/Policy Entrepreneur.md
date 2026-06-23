@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 政策创业者（Policy Entrepreneur）是在教育系统内通过协作和网络化来实质性影响政策发展和服务交付的行动者。Michael Mintrom (2000) 描述了在教育系统内运作的政策创业者；[[Stephen Ball]] (2012) 将这一概念扩展至跨国政策倡导和行动，涵盖那些在区域或全球范围内跨系统进行创业式运作的人([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.viii, p.47]])。
+> 政策创业者（Policy Entrepreneur）是在教育系统内通过协作和[[Snowball Sampling|网络化]]来实质性影响政策发展和服务交付的行动者。Michael Mintrom (2000) 描述了在教育系统内运作的政策创业者；[[Stephen Ball]] (2012) 将这一概念扩展至跨国政策倡导和行动，涵盖那些在区域或全球范围内跨系统进行创业式运作的人([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.viii, p.47]])。
 
 ## 核心特征
 
@@ -84,7 +84,7 @@ O'Neill 等的报告主要聚焦第一和第二语境——识别和分析"谁"�
 
 **[[Teach First New Zealand]] ([[Teach First New Zealand|TFNZ]] 2011)**：慈善信托形式运作，7% 接受率（2014: 464 申请→35 录取），74 名参与者（2011-2014 累计）。TFNZ 体现了政策创业者如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.53–57]])
 
-两者均是通过网络化政策创业影响公立学校教育的案例，但 NZI 代表传统的亲市场倡导路径，TFNZ 代表更复杂的非营利/营利/公共福利混合路径。
+两者均是通过[[Snowball Sampling|网络化]]政策创业影响公立学校教育的案例，但 NZI 代表传统的亲市场倡导路径，TFNZ 代表更复杂的非营利/营利/公共福利混合路径。
 
 ## 跨国政策创业
 

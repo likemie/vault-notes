@@ -86,10 +86,10 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **全语言哲学**<br>[[Whole Language]] | 肯·古德曼（Ken Goodman）提出的儿童语言习得与读写教学哲学。主张学习者在真实（authentic）情境下进行整体语言读写，反对孤立的技能训练序列、反对将阅读切片并与测试分数挂钩 (pp.143-144)。 |
+> | **全语言哲学**<br>[[Whole Language]] | [[Ken Goodman\|肯·古德曼]]（Ken Goodman）提出的儿童语言习得与读写教学哲学。主张学习者在真实（authentic）情境下进行整体语言读写，反对孤立的技能训练序列、反对将阅读切片并与测试分数挂钩 (pp.143-144)。 |
 > | **读写社会文化观**<br>[[Theoretical Standpoint]] | 戴维·布鲁姆（David Bloome）等人提出，将阅读和写作视为社会和文化实践，强调教学法始终是政治性的，涉及权力关系的重构 (p.149)。 |
 > | **简单阅读观**<br>[[Simple View of Reading]] | 菲利普·高夫（Philip Gough）等人提出的认知模型，认为阅读能力可由解码能力与听力理解预测，该模型在政策上常被拼读倡导者用作“拼读优先、拼读唯一”的科学依据 (p.149)。 |
-> | **元分析与元元分析**<br>[[Meta-analysis]] / [[Meta-meta-analysis]] | 吉恩·格拉斯（Gene Glass）提出的统计合成法。本研究通过其局限性（如汉斯·艾森克 (Hans J. Eysenck) 的“垃圾输入，垃圾输出”及罗伯特·波森 (Robert Pawson) 的简化论批判）解构效应量排名的客观性假象 (p.143)。 |
+> | **元分析与元元分析**<br>[[Meta-analysis]] / [[Meta-meta-analysis]] | [[Gene Glass\|吉恩·格拉斯]]（Gene Glass）提出的统计合成法。本研究通过其局限性（如汉斯·艾森克 (Hans J. Eysenck) 的“垃圾输入，垃圾输出”及罗伯特·波森 (Robert Pawson) 的简化论批判）解构[[Effect Size\|效应量]]排名的客观性假象 (p.143)。 |
 
 > [!warrant]- 理论如何支撑论证
 > 作者以读写的社会文化观为立足点，将[[John Hattie|哈蒂]]的《[[Visible Learning|VL]]》置于新自由主义[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）的政治历史脉络中。通过古德曼对全语言的核心定义，作者能够逐一检验哈蒂在元分析筛选中所依据的“概念分类”是否符合该教学法的本质，从而论证其数据输入与修正过程的主观偏见。
@@ -101,8 +101,8 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **批判性方法论审查**<br>Critical Methodological Review | 对《VL》中用于全语言评估的 4 项元分析进行细读与数据回溯，对比元分析的原始报告和学界的次级评论文献 (p.143)。 |
-> | **数据输入与计算复核**<br>Data Input and Calculation Auditing | 重新核对元分析中的原始研究样本、分类标准、以及个别效应量的计算方向。 |
+> | **批判性方法论审查**<br>Critical Methodological Review | 对《[[Visible Learning\|VL]]》中用于[[Whole Language\|全语言]]评估的 4 项[[Meta-analysis\|元分析]]进行细读与数据回溯，对比元分析的原始报告和学界的次级评论文献 (p.143)。 |
+> | **数据输入与计算复核**<br>Data Input and Calculation Auditing | 重新核对元分析中的原始[[Study Population and Sample\|研究样本]]、分类标准、以及个别[[Effect Size\|效应量]]的计算方向。 |
 > | **社会历史语境分析**<br>Socio-historical Context Analysis | 分析全语言与系统拼读法争论背后的美国福音派宗教右翼势力、共和党保守政策，以及新自由主义标准化考核的政策影响 (p.149)。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -136,7 +136,7 @@ citation_aliases:
 > [!contrast-table] 被纳入的四项元分析与方法论审查一览
 > | 元分析 | 效应量 (d) | 哈蒂处理 | 核心缺陷与偏误 (O'Connor 审查) |
 > | :--- | :--- | :--- | :--- |
-> | **[[Steven Stahl\|Stahl]] & Miller (1989)** | 原始 d=0.09 <br>*(词汇0.17/理解0.09)* | **直接纳入平均**<br>参与全语言效应量计算 (p.145) | **混淆早期语言经验法（Language Experience Approach, LEA）**：强行塞入全语言运动（1970年代）诞生前的 1960 年代传统行为主义研究（如 Brazziel 合作阅读准备干预）(p.144)。 |
+> | **[[Steven Stahl\|Stahl]] & Miller (1989)** | 原始 d=0.09 <br>*(词汇0.17/理解0.09)* | **直接纳入平均**<br>参与全语言效应量计算 (p.145) | **混淆早期[[Language Experience Approach\|语言经验法]]（Language Experience Approach, LEA）**：强行塞入全语言运动（1970年代）诞生前的 1960 年代传统行为主义研究（如 Brazziel 合作阅读准备干预）(p.144)。 |
 > | **[[Steven Stahl\|Stahl]] et al. (1994)** | 原始 d=0.15 → **不变** | **并列纳入平均**<br>与 1989 年旧 data 并列计算 (p.145) | **采纳冲突的双重数据**：作者 1994 年已承认 1989 年混同 LEA 属“时代错误”并予以修正，但哈蒂却在合成中同时保留了这两份互斥的数据 (p.145)。 |
 > | **Gee (1995)** | 原始 d=0.65 → **0.00** | **选择性修剪**<br>手动删除 3 项正面原始研究 (p.148) | **教条化曲解全语言**：哈蒂以“包含单词表和解码”为由强行清零。事实上，全语言并不排斥在真实的共享阅读情境中自然流动地教授拼读技能 (p.148)。 |
 > | **[[William Jeynes\|Jeynes]] & Littell (2000)** | 原始 d=-0.65 → **不变** | **无审查全盘采纳**<br>对极端负值（倒退）不做核实 (p.145) | **数据算错与政治偏见**：克拉申 (Krashen, 2002) 证实该研究多处计算方向反转（如 Lamb 从 -0.75 算错为 +0.44）；第一作者 [[William Jeynes\|Jeynes]] 具有强烈的福音派宗教右翼偏见 (p.147)。 |

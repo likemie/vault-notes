@@ -169,7 +169,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 | 合作类型 | 产业方权利 | 典型场景 |
 |---------|-----------|---------|
 | 赠款 | 零权利回授（"no strings"） | 企业出于慈善或关系维护目的资助 |
-| [[Sponsored Research Agreement\|赞助研究协议]]（标准） | 非排他、免版税（Non-Exclusive Royalty-Free, NERF）内部使用许可 + 6 个月商业许可选择权 | 大多数产学合作 |
+| [[Sponsored Research Agreement\|赞助研究协议]]（标准） | 非排他、免版税（Non-Exclusive Royalty-Free, NERF）内部使用许可 + 6 个月商业许可选择权 | 大多数[[University-Industry Collaboration\|产学合作]] |
 | 赞助研究协议（增强） | 商业 NERF 许可 + 排他许可选择权 | 企业需求较高的合作 |
 | 赞助研究协议（预付费排他） | 排他、可分许可的商业许可 | 企业为确定性支付溢价 |
 | 技术服务协议 | 企业拥有全部结果和 IP | 企业购买大学设备/专长执行标准分析 |

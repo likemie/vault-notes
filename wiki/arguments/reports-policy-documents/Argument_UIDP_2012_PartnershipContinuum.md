@@ -294,7 +294,7 @@ citation_aliases:
 > | **Level 2: Collaboration** | 初创/小企业参与 | 多种形式：商业协助、SBIR/STTR 支持、初创设施、天使/风投/企业资本对接、[[Entrepreneur in Residence\|驻校企业家]]、初创投资、初创顾问委员会 |
 > | | 成熟企业参与 | 多种形式：专利许可、专利捐赠、大学初创企业对接、技术协助、制造推广伙伴关系（MEP）和农业推广项目 |
 > | **Level 3: Alliance** | 校园孵化器支持 | 产业与大学合作加强区域集群——支持孵化活动 |
-> | | [[Innovation Park\|研究园区]]（Research Parks） | 在研究园区内建设和选址 |
+> | | [[Innovation Park\|研究园区]]（Research Parks） | 在[[Innovation Hub\|研究园区]]内建设和选址 |
 > | | 区域经济发展倡议/集群发展 | 支持其他区域经济努力 |
 
 ---

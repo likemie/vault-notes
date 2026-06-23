@@ -286,7 +286,7 @@ updated: 2026-05-24
 > - **中国内部文化多元性被忽视**：中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])
 > - **对学生的身份伤害**：[[Argument_Ryan_2010_ChineseLearner|Ryan (2010, pp.49–50)]]描述了学生在海外经历的"身份丧失和自尊降低"，机制见 [[Stereotype Threat]]
 > - **[[Argument_Li_2012_Cambridge|Li (2012)]] 模型的局限**：Li 的模型是文化理想型（ideal type），不描述任何个体学习者；聚焦"一般文化取向"而忽略内部差异和反例([[Argument_Li_2012_Cambridge|Li, 2012, p.xi]])。模型中的"中国学习者"是来自儒家文本和精英大学生样本的提炼，其对中国农村、少数民族或非精英学习者的代表性需要更多研究支持
-> - **"儒家道德"与当代中国的现实矛盾**：儒学的道德教化影响在当代中国腐败泛滥、关系凌驾于能力之上等现实面前需重新审视([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])。[[Civil Service Examination|科举制度]] 的历史演变——从道德选拔到[[Examination Hell|考试地狱]]——见 [[Examination Hell#争议与批评]]
+> - **"儒家道德"与当代中国的现实矛盾**：儒学的道德[[Bildung|教化]]影响在当代中国腐败泛滥、关系凌驾于能力之上等现实面前需重新审视([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])。[[Civil Service Examination|科举制度]] 的历史演变——从道德选拔到[[Examination Hell|考试地狱]]——见 [[Examination Hell#争议与批评]]
 
 ---
 

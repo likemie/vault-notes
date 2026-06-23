@@ -653,7 +653,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 成功解决这些问题的关键在于**建立良好关系**（establishing good relations）——发展研究者与参与者之间的融洽感（rapport），从而产生信任和信心（p.97）。
 
 > [!info] 质性研究中的权力与信任
-> Fine & Sandstrom (1988) 详细讨论了与儿童进行田野工作的伦理和实践方面，特别展示了参与观察研究的伦理含义如何随儿童年龄而变化。Finch (1985, pp. 116–117) 指出了数据如何被使用（无论由研究者还是他人）可能产生的尖锐政治和伦理困境。研究者对参与者负有**信任义务**（duty of trust），应适当地使用特权数据，尤其是为了改善参与者的状况（p.97）。
+> Fine & Sandstrom (1988) 详细讨论了与儿童进行田野工作的伦理和实践方面，特别展示了[[Participant Observation|参与观察]]研究的伦理含义如何随儿童年龄而变化。Finch (1985, pp. 116–117) 指出了数据如何被使用（无论由研究者还是他人）可能产生的尖锐政治和伦理困境。研究者对参与者负有**信任义务**（duty of trust），应适当地使用特权数据，尤其是为了改善参与者的状况（p.97）。
 
 ---
 
@@ -925,7 +925,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 #### 5.14.4 Debriefing（事后说明）
 
-> [!tip]- [[Ethics Debriefing|debriefing]] 的四项内容
+> [!tip]- debriefing 的四项内容
 > 抵消使用欺骗的研究负面效果的主要方式（pp.112–113）。Cooper & Schindler (2001, p. 116) 列出 debriefing 可包括：
 >
 > 1. 解释任何欺骗及其原因（explaining any [[Deception in Research|deception]] and the reasons for it）
@@ -1235,7 +1235,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 >
 > Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
-> [!citation-card]- [[Ethics Debriefing|debriefing]] 的核心（Aronson & Carlsmith）
+> [!citation-card]- debriefing 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）
 >
 > 'debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all.' 'No amount of postexperimental gentleness is as effective in relieving a subject's discomfort as an honest accounting of the experimenter's own discomfort in the situation' (Aronson & Carlsmith, 1969, p. 31).

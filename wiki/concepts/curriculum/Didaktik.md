@@ -56,7 +56,7 @@ updated: '2026-06-21'
 教学论史中存在着关于知识控制与知识生成的关键区分。
 
 > [!contrast-table] 教学取向辨析
-> | 维度 | 规训（disciplina，规训式教学） | 生成（doctrina，生成式教学） |
+> | 维度 | [[Disciplina and Doctrina\|规训]]（disciplina，规训式教学） | 生成（doctrina，生成式教学） |
 > |------|--------|----------------|
 > | **核心焦点** | 强调现存既有知识的单向灌输与沉积 (p.6) | 强调知识内容的不断更新、批判与生产 (p.6) |
 > | **行动特征** | 倾向于纠正错误、管理规范与绩效测量 (p.6) | 鼓励学生通过独立探究产生新的理解 (p.6) |
@@ -71,7 +71,7 @@ updated: '2026-06-21'
 ## 核心要素
 
 > [!feature] 核心要素
-> - **区分规训与生成** 传统教学区分了规训（disciplina）与生成（doctrina）。规训注重现成知识的训导与纠错，而生成关注知识的革新与重塑。现代教学论倾向于在二者之间建立张力，以防止教学沦为机械的控制工具。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **区分[[Disciplina and Doctrina|规训]]与生成** 传统教学区分了规训（disciplina）与生成（doctrina）。规训注重现成知识的训导与纠错，而生成关注知识的革新与重塑。现代教学论倾向于在二者之间建立张力，以防止教学沦为机械的控制工具。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **面向未知未来的非预设性** 根据克拉夫基（[[Wolfgang Klafki]]）的主张，政策制定者和教师无法预测未来学生究竟需要何种具体知识。教学论的核心任务是为不确定的未来做好准备，而不是机械传递已被窄化的已知科学结论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **[[Epochal Key Problems|时代关键问题]]作为课程主轴** 克拉夫基提出以时代关键问题（Epochal key problems）作为课程组织原则（如环境危机、社会不平等和战争危机），以此作为统合学科深度与跨学科合作的教学[[Champ|场域]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
 > - **学科[[Ontology|本体论]]深度的保护** 澳大利亚教育学家莉萨·维拉汉（Leesa Wheelahan）的课程论强调学科知识拥有自身的内在结构与逻辑脉络，反对能力本位课程将系统知识拆散为细碎、可测量的技能包。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
@@ -98,7 +98,7 @@ updated: '2026-06-21'
 
 ### 命题类型二：教学判断与行动机制的分野（Pedagogical Judgment and Action Mechanisms）
 
-> [!concept-lens] 规训与生成之间的教学判断
+> [!concept-lens] [[Disciplina and Doctrina|规训]]与生成之间的教学判断
 > 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
 
 > [!claim] 安德烈亚斯·格鲁施卡
@@ -122,7 +122,7 @@ updated: '2026-06-21'
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **中世纪大学时期 — 规训与生成的词义分化** 欧洲教学实践中形成规训（disciplina，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **中世纪大学时期 — [[Disciplina and Doctrina|规训]]与生成的词义分化** 欧洲教学实践中形成规训（disciplina，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家约翰·威廉·斯内尔曼（Johan Wilhelm Snellman）对[[Bildung|教化]]观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育能直面社会的全球性正义与危机。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **2014年 — 芬兰跨学科课程改革的理论统合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning\|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]

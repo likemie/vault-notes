@@ -76,7 +76,7 @@ updated: 2026-05-20
 
 > [!tip]-
 > - **Beer 的算法治理**：Beer（2016）提出算法在社会生活中的治理功能——数字最优正是算法治理的核心组件：它提供了使自我治理成为可能的参照点和比较基准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-> - **[[Societies of Control]]**：Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的规训塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 226]])
+> - **[[Societies of Control]]**：Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的[[Disciplina and Doctrina|规训]]塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 226]])
 
 ## 争议与批评
 

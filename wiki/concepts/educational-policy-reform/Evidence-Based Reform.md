@@ -208,7 +208,7 @@ ESSA (2015) 定义了四层证据标准，用于判定教育项目是否值得�
 | **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差） |
 | **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model\|逻辑模型]]，并得到高质量研究或正向评价支持 |
 
-前三个层级通常要求统计显著正向结果，并要求测量工具、样本量、持续时间和分析方法足以支持因果或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持因果或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
 ## RTPI（Response to Proven Instruction）
 

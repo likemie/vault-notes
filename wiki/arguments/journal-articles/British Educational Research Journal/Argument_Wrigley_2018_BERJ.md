@@ -101,8 +101,8 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar\|Bhaskar (1978)]]<br>Sayer (2000) | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层本体论结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
-> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson\|Pawson (2006)]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均效应量的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
+> | **[[Critical Realism\|批判实在论]]**<br>[[Roy Bhaskar\|Bhaskar (1978)]]<br>Sayer (2000) | 区分“深层实在（Real，指因果机制与结构）”、“实际发生（Actual，指事件与结果）”与“经验现象（Empirical，指观察到的规则性）”的三层[[Ontology\|本体论]]结构 (p. 8)。说明教育作为开放系统，因果力量取决于事物的本质与环境交互，而不是休谟式经验重复。 |
+> | **[[Realist Evaluation\|实在论评估（Realist Evaluation）]]**<br>[[Ray Pawson\|Pawson (2006)]] | 认为社会与教育项目不是机械的物理因果，而是通过“受试者对资源的推理（Reasoning）”发挥作用。批评单纯计算平均[[Effect Size\|效应量]]的盲目经验主义，主张通过探究“背景-机制-结果（Context-Mechanism-Outcome, CMO）”配置的实在论综合。 |
 > | **新自由主义审计文化**<br>[[Stephen Ball\|Ball (2013)]]<br>Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -115,8 +115,8 @@ citation_aliases:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **概念批判与哲学解构**<br>概念批判（Conceptual Critique） | 对 EBE 的实证主义前提（以 RCT 为金标准）进行方法论解构，将统计学偏误与科学哲学（如休谟的因果归纳困境）及批判实在论进行交叉分析。 |
-> | **案例剖析与政策还原**<br>案例分析（Case Analysis） | 针对三个方法论聚合层级，分别抽取核心案例进行高精度技术解构（如“新起点”RCT 的前测/后测差异、EEF《教学与学习工具包》中的反馈与 TA 类目、哈蒂的效应量计算基准）。 |
+> | **概念批判与哲学解构**<br>概念批判（Conceptual Critique） | 对 [[Evidence-Based Education\|EBE]] 的[[Positivism\|实证主义]]前提（以 [[Randomised Controlled Trials\|RCT]] 为金标准）进行方法论解构，将统计学偏误与科学哲学（如休谟的因果归纳困境）及[[Critical Realism\|批判实在论]]进行交叉分析。 |
+> | **案例剖析与政策还原**<br>案例分析（Case Analysis） | 针对三个方法论聚合层级，分别抽取核心案例进行高精度技术解构（如“新起点”RCT 的前测/后测差异、[[Education Endowment Foundation\|EEF]]《教学与学习工具包》中的反馈与 TA 类目、[[John Hattie\|哈蒂]]的[[Effect Size\|效应量]]计算基准）。 |
 > | **医学循证史比照**<br>比较分析（Comparative Analysis） | 比照循证医学（Evidence-Based Medicine, EBM）内部对教条化规则遵循的批判，指出医学在进行 RCT 前已有深厚的理论建构，而教育学 RCT 往往面临“缺失因果理论”的盲目经验主义困境。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -246,7 +246,7 @@ citation_aliases:
 
 > [!pathways] 走向“实在论综合”与多元改进路径
 > - **实在论综合（Realist Synthesis）**：Pawson (2006) 提倡的替代路径不寻求单一均值，而是深入理解每次干预的“受试者（subjects）”特征、原始研究者的因果理论、测量充分性以及过程中的结构性障碍，探求因果机制如何在不同背景下产生不同的结果 (p. 14)。
-> - **网络化改进共同体（Networked Improvement Communities, NICs）**：Lingenfelter (2016) 介绍的 Bryk et al. (2015) 的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包” (p. 14)。
+> - **[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）**：Lingenfelter (2016) 介绍的 Bryk et al. (2015) 的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包” (p. 14)。
 > - **方法论多元光谱**：因果机制的探索需要引入 [[Qualitative Observation|质性观察]]、历史研究、话语分析、立法质询、行动研究与解放性研究 (p. 16)。
 
 > [!theory-components] 批判实在论的分层 [[Ontology|本体论]]与因果涌现性

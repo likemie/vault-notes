@@ -571,7 +571,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 **（d）访谈设计——渐进式聚焦法**：
 
-采用"渐进式聚焦法"（progressive focusing）（引 Arksey & Knight, 1999）：
+采用"渐进式聚焦法"（[[Progressive Focussing|progressive focusing]]）（引 Arksey & Knight, 1999）：
 
 | 阶段 | 聚焦范围 | 核心内容 |
 |------|---------|---------|
