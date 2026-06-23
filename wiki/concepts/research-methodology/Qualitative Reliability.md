@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中指示研究者方法在不同研究者和不同项目之间一致性的标准，与量化信度的含义不同"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Reliability]]"
-  - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Intercoder Agreement]]"
 related_theories: []
@@ -54,6 +53,6 @@ Yin（2009）补充建议：[[Qualitative Research|质性研究]]者需要尽可
 ## 概念辨析
 
 > [!example]
-> - vs 量化[[Reliability|信度]] — 量化信度关注测量工具在不同时间或情境下产生一致分数的程度（如 [[Internal Consistency|Cronbach's α]]、[[Test-Retest Reliability|重测信度]]）；质性信度关注研究程序和[[Coding in Qualitative Research|编码]]的一致性。
+> - vs 量化[[Reliability|信度]] — 量化信度关注测量工具在不同时间或情境下产生一致分数的程度（如 Cronbach's α、[[Test-Retest Reliability|重测信度]]）；质性信度关注研究程序和[[Coding in Qualitative Research|编码]]的一致性。
 > - vs [[Intercoder Agreement|编码者间一致性]] — 编码者间一致性是质性信度的一种具体操作性指标，通常要求一致性达到 80% 以上（Miles & Huberman, 1994）。
 

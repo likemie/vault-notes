@@ -6,7 +6,7 @@ summary: "在项目实施过程中持续收集多源证据并反馈给利益相�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
-  - "[[Internal Consistency]]"
   - "[[Technology Infusion]]"
   - "[[Absorptive Capacity]]"
 related_theories: []
@@ -60,7 +59,7 @@ updated: '2026-05-23'
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
-> - STAT 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency|Cronbach's alpha]] 为 .972([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.117]])。
+> - STAT 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 Cronbach's alpha 为 .972([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.117]])。
 
 ## 适用场景
 

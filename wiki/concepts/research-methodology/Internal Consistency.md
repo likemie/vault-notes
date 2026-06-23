@@ -2,17 +2,17 @@
 title: Internal Consistency
 aliases:
   - 内部一致性
-  - Cronbach's alpha
-  - Cronbach's α
+  - Cronbach alpha
+  - Cronbach α
   - 克隆巴赫系数
   - internal consistency reliability
-summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach's alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
+summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/measurement
   - quantitative-research
@@ -97,7 +97,7 @@ updated: 2026-06-23
 
 ### Cronbach's Alpha
 
-Cronbach's alpha 是内部一致性最常用的量化指标，提供了**跨项目相关**的系数——即每个项目与所有其他相关项目之和的相关。与半分法不同，alpha 不需要将测试分成两半：它**等效于所有可能半分方式的 Spearman-Brown 校正值的平均值**（p.203）。
+Cronbach alpha 是内部一致性最常用的量化指标，提供了**跨项目相关**的系数——即每个项目与所有其他相关项目之和的相关。与半分法不同，alpha 不需要将测试分成两半：它**等效于所有可能半分方式的 Spearman-Brown 校正值的平均值**（p.203）。
 
 > [!formula-step] Cronbach's Alpha 公式
 > $$

@@ -84,7 +84,7 @@ updated: 2026-06-23
 在[[Positivism|实证主义]][[Quantitative Research|量化研究]]中，有三种主要的信度类型（Carmines & Zeller, 1979）（pp.200–204）：
 
 > [!dimension] 量化信度的三种类型
-> - **信度作为稳定性**（Reliability as stability）
+> - **信度作为稳定性**（Reliability as stability，即[[Test-Retest Reliability|重测信度]]）
 >   测量**随时间推移**和**跨相似样本**的一致性。一个可靠的漏水的水龙头每天漏水一升——可靠地漏；而一个有些天漏一升有些天漏两升的水龙头则不可靠。
 >   
 >   > [!feature] 操作要点
@@ -100,11 +100,7 @@ updated: 2026-06-23
 >   > - **等价形式**（equivalent forms / alternate forms） 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
 >   > - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
 > - **信度作为[[Internal Consistency|内部一致性]]**（Reliability as internal consistency）
->   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过**半分法**。
->   
->   > [!feature] 两种方法
->   > - **Spearman-Brown 公式** 将测试分为两半（内容难度匹配），单独评分，计算 $\text{reliability} = \frac{2r}{1+r}$（$r$ 为两半之间的实际相关系数）。可将偶数号项目分给一组、奇数号给另一组以匹配难度。
->   > - **Cronbach alpha** 提供跨项目相关的系数——每个项目与所有其他相关项目之和的相关。对多项目量表特别有用。这是项目间（而非人与人之间）的内部一致性测量。
+>   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过半分法和 Cronbach alpha 系数来衡量多项目量表中条目之间的一致性。详细公式、操作流程和解读标准见 [[Internal Consistency|内部一致性]] 条目。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 200–204)]]
 

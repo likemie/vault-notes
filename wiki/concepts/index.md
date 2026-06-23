@@ -545,7 +545,7 @@ Total entries: **664**
 > - [[Inter-Rater Reliability]] — 多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作
 > - [[Intercoder Agreement]] — 质性研究中两个或以上编码者对同一段文本使用相同或相似编码的一致性程度，通常要求达到 80% 以上
 > - [[Internal and External Generalizability]] — Onwuegbuzie & Leech（2007）对质性研究推广性的区分：内部推广性指子组数据推广到整个样本，外部推广性指样本推广到更广泛的总体，前者在质性研究中更常见可行
-> - [[Internal Consistency]] — 信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach's alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值
+> - [[Internal Consistency]] — 信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值
 > - [[Internal Validity]] — 研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准
 > - [[Interpretive Paradigm]] — 与实证主义相对的研究范式，强调从参与者内部视角理解社会世界，关注主观意义、个体独特性和情境复杂性，采用质性方法研究人的意向行为。
 > - [[Interpretive Validity]] — Maxwell 质性效度类型之一，指研究捕捉情境和事件对参与者本身的意义、解释、术语和意图的能力，是质性研究独有的效度维度，在量化实验方法论中没有对应物

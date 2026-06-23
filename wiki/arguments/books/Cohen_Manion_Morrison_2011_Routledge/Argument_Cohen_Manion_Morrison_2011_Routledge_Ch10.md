@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 92
+argument_related_count: 93
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Scale of Measurement]]"
   - "[[Response Bias]]"
+  - "[[Internal Consistency]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
   - "[[Definition of Terms]]"
@@ -87,7 +88,6 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Statistical Significance]]"
-  - "[[Internal Consistency]]"
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
@@ -298,7 +298,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 
 ---
 
-#### Table 10.1 复刻：量化与质性研究的效度基础对照
+#### 量化与质性研究的效度基础
 
 > [!contrast-table] Table 10.1：量化与质性研究的效度基础对照
 > | 量化研究中的效度基础 | 质性研究中的效度基础 |
@@ -704,7 +704,7 @@ Liu (2002) 补充建议：使用**主动而非被动语态**、简单短句、�
 > 2. **委员会评估** 使用一个专家委员会（3 至 5 人）审查——评估初步版本（检查回译版本是否可接受，或在回译项目的不同版本之间裁决），准备实验版本——从而避免单一研究者的偏见（Vallerand et al., 1992; Liu, 2002: 82）
 > 3. **[[Pilot Testing|预测试]]实验版本** 使用随机调查方法——检查指令的清晰性和工具的适当性
 > 4. **评估内容和共时效度** 使用双语参与者（20 至 30 人）检查他们是否以相同方式回答两种语言版本，以及工具是否适当——内容效度通过质性评估（专家审查），共时效度通过量化评估（t 检验）
-> 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（Cronbach alpha）。移除低信度项目
+> 5. **信度分析** 检查内部信度和时间稳定性——寻找高信度系数（[[Internal Consistency|Cronbach alpha]]）。移除低信度项目
 > 6. **评估构念效度** 通过因子分析、量表间相关分析以及检验理论衍生的假设
 > 7. **建立常模** 通过选择样本来自的总体、统计指标以及计算均值、标准差和 z 分数——使用大量人群以建立常模的稳定性
 
@@ -978,8 +978,8 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 ---
 
 > [!dimension] 量化信度的三种类型
-> - **信度作为稳定性**（Reliability as stability）
->   测量**随时间推移**和**跨相似样本**的一致性。一个可靠的漏水的水龙头每天漏水一升——可靠地漏；而一个有些天漏一升有些天漏两升的水龙头则不可靠。
+> - **信度作为稳定性**（Reliability as stability，即[[Test-Retest Reliability|重测信度]]）
+>   测量**随时间推移**和**跨相似样本**的一致性。一个可靠的漏水的水龙头每天漏水一升——可靠地漏；而一个有些天漏一升有些天漏两升的水龙头则不可靠。详见 [[Test-Retest Reliability|重测信度]]。
 >   
 >   > [!feature] 操作要点
 >   > - 在适当时间范围内进行测试和重测，通过相关系数计算（Pearson 或 Spearman），[[Statistical Significance|统计显著性]]应达到 0.05 或更高
@@ -1037,8 +1037,6 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 ### 10.10 质性研究中的信度
 
 质性研究中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用**"可信性"（credibility）、"中立性"（neutrality）、"可确认性"（confirmability）、"可依赖性"（dependability）、"一致性"（consistency）、"适用性"（applicability）、"可信赖性"（trustworthiness）和"可迁移性"（transferability）**来替代"信度"——尤其是**"可依赖性"（dependability）**概念（pp.204–207）。
-
----
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
 > - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究。量化[[Hypothesis|研究假设]]**可复制性**的可能——如果对同一样本使用相同方法则结果应相同。但这**扭曲了现象的自然发生**（生态效度）。自然主义研究的**前提**恰恰包括情境的**独特性和特殊性**——研究不能被复制。这**正是其优势**而非劣势。
