@@ -641,19 +641,21 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
     return "".join(clean_line(line) for line in text.splitlines(keepends=True)), removed, table_pipes_escaped
 
 
-def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int, int]:
     cleaned_sections: list[str] = []
     removed = 0
+    table_pipes_escaped = 0
 
     for heading, section in split_h2_sections(body):
         if is_source_section_heading(heading):
             cleaned_sections.append(section)
             continue
-        cleaned, count = clean_invalid_links_in_text(section, entries_by_title)
+        cleaned, count, table_count = clean_invalid_links_in_text(section, entries_by_title)
         cleaned_sections.append(cleaned)
         removed += count
+        table_pipes_escaped += table_count
 
-    return "".join(cleaned_sections), removed
+    return "".join(cleaned_sections), removed, table_pipes_escaped
 
 
 def is_ascii_word_char(ch: str) -> bool:
@@ -1190,12 +1192,13 @@ def sync_file(
         removed = 0
     else:
         linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
-        cleaned_body, removed = clean_invalid_links(body, entries_by_title)
+        cleaned_body, removed, cleaned_table_pipes = clean_invalid_links(body, entries_by_title)
         linked_body, body_added = link_body(cleaned_body, terms, source_pattern, current_title)
         added = yaml_added + body_added
         # Final guard: regardless of which chunks were protected or linked,
         # never write table rows with raw wikilink alias pipes.
-        linked_body, table_pipes_escaped = normalize_table_wikilink_pipes_in_text(linked_body)
+        linked_body, final_table_pipes = normalize_table_wikilink_pipes_in_text(linked_body)
+        table_pipes_escaped = cleaned_table_pipes + final_table_pipes
     updated = linked_fm + linked_body
 
     changed = updated != original
