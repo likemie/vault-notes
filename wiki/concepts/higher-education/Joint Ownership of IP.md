@@ -50,7 +50,7 @@ updated: 2026-06-03
 
 ## 在产学协议中的处理
 
-> [!note]
+> [!note]-
 > 由于美国专利法默认的共同所有规则对大学极为不利，[[University-Industry Collaboration|产学合作]]协议必须**明确覆盖**共同所有 IP 的处理方式（p.283）：
 
 - 协议的选择权和许可条款通常不仅涵盖大学单独拥有的 [[Foreground IP|FIP]]，还涵盖大学在共同所有 FIP 中的权利

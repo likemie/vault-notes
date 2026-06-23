@@ -69,7 +69,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note] 主要节点
+> [!note]- 主要节点
 > - 2006 — 欧洲理事会春季结论强调建立评价文化，鼓励系统使用证据来推动教育系统现代化和平等化；同年 “Efficiency and Equity in European Education and Training Systems” 强调验证和传播良好实践的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.28]])。
 > - 2007 — 欧洲委员会发布 “Towards More Knowledge-Based Policy and Practice in Education and Training”，提出知识创造、知识应用和知识中介三类挑战，并指出各国在研究、政策和实践关系上的发展程度差异明显([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.29]])。
 > - 2009 — ET 2020 把周期性进展监测视为证据本位政策制定的重要贡献；2015 年联合报告再次强调分析证据和进展监测对 ET 2020 框架有效性的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。

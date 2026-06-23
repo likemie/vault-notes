@@ -68,7 +68,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 任英国 NFER 研究者，工作集中于[[Research Utilization|研究使用]]、教师研究参与和[[Evidence-Informed Practice|证据知情实践]]。
 > - 与 [[Carol Campbell]] 合作推进 EIP 的概念整合与测量工作。
 > - **2017** 年参与 EIP 特刊与教师研究参与度测量项目，使 EIP 讨论更具经验研究取向。

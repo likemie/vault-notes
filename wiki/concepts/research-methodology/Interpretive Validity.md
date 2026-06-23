@@ -61,6 +61,6 @@ updated: 2026-06-23
 
 解释效度在 Maxwell 五类型中处于从"事实层"到"解释层"的**桥梁位置**：
 
-> [!note] 解释效度在[[Qualitative Research|质性研究]]中的独特性
+> [!note]- 解释效度在[[Qualitative Research|质性研究]]中的独特性
 > 在[[Positivism|实证主义]]/实验方法论中没有与解释效度直接对应的概念——[[Quantitative Research|量化研究]]关注的是可观测行为和可测量[[Variable|变量]]之间的关系，而非参与者赋予这些行为和变量的**主观意义**。这使解释效度成为质性研究方法论自主性的核心论据之一：质性研究不仅采用不同的方法，而且服务于**不同类型的知识目标**——理解主观意义——这种目标在量化[[Paradigm|范式]]内无法被充分实现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 

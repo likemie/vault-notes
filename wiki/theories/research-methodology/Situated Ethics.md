@@ -48,7 +48,7 @@ updated: 2026-06-19
 > [!claim] 核心主张
 > 伦理原则不是不变地适用于所有情境的；它们在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，而这些伦理决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 128–129]]）。
 
-> [!citation-card] 关键表述
+> [!citation-card]- 关键表述
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 128]]）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons and Usher, 2000: 1).

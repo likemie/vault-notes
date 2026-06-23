@@ -176,19 +176,19 @@ updated: '2026-06-17'
 > - **用途** 推广经过严格科学检验的教育干预方案以提升教育系统的绩效，解决研究与实践脱节的问题。[[Argument_Slavin_2019_EP|Slavin, 2019, pp. 5–6]]
 > - **边界** 极易退化为追求"去情境化"的统计平均排行，在哲学上忽视受试者能动推理和教育价值反思。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 4, 7]]
 
-> [!note] 起源与基本理念
+> [!note]- 起源与基本理念
 > 证据本位教育（Evidence-Based Education, EBE）是将"专业实践应以最佳研究证据为基础或至少受其指导"这一理念应用于教育领域的实践和运动。它源自 1990 年代初期循证医学的发展（Guyatt et al., 1992），主张教育者的教学决策应从[[Experimental Research|实验研究]]——特别是[[Randomised Controlled Trials|随机对照试验]]（RCT）——中获取有效性依据，以回答"什么有效"（what works）的问题。
 
-> [!citation-card] [[Argument_Biesta_2010_SPE|Biesta (2010, p. 491)]]
+> [!citation-card]- [[Argument_Biesta_2010_SPE|Biesta (2010, p. 491)]]
 > "The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers."
 
-> [!citation-card] [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]
+> [!citation-card]- [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]
 > 证据本位教育政策是"依赖[[Random Assignment|随机化]]和严格匹配实验作为政策和实践的基础"——将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的。
 
 > [!implication] [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — "什么有效"是错误的问题
 > "在教育研究中，'什么有效'通常是错误的问题，因为几乎任何事情在某个地方都有效，但没有事情在所有地方都有效。更好的问题是'在什么条件下这个干预有效？'"([[Argument_Wiliam_2019|Wiliam, 2019, p.11]])
 
-> [!citation-card] Coldwell et al. (2017) — 英国官方定义
+> [!citation-card]- Coldwell et al. (2017) — 英国官方定义
 > 英国教育部明确将 Sutton Trust、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被[[Disciplina and Doctrina|规训]]的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
 
 > [!quote] Wrigley 对证据窄化的批评
@@ -205,7 +205,7 @@ updated: '2026-06-17'
 > | **核心机制** | 强调以 RCT/[[Systematic Review\|系统综述]]的统计平均值作为实践决策的核心依据 | 视证据为重要信息来源，需通过[[Professional Judgment\|专业判断]]与情境调适结合 | 民主协商、伦理反思与[[Axiology\|价值论]]争 | 结合基础科学理论，通过实验确认药效 | 本地试点、同伴推荐、师生反馈与非正式探索 |
 > | **适用范围** | 标准化项目推广、系统清算、政策合规评估 | 教师日常教学改进、学校探究网络、课堂设计 | 教育目的论证、课程大纲与政治抉择 | 具备生理机制一致性的病患护理与药物开发 | 复杂的课堂交互、偶发性教育情境的应对 |
 
-> [!note] 邻近概念辨析
+> [!note]- 邻近概念辨析
 > EBE 与多个教育概念和研究传统存在交叉与张力，这些差异体现在对证据的定义、对[[Professional Judgment|专业判断]]的角色定位和对教育目的的理解上：
 > 
 > - **vs [[Value-Based Education]]** — [[Argument_Biesta_2010_SPE|Biesta (2010)]] 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
@@ -279,7 +279,7 @@ updated: '2026-06-17'
 > [!line-b] 弱版本（evidence-informed）
 > 证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来整合证据，而非被证据驱动。
 
-> [!note] 实证问题转化
+> [!note]- 实证问题转化
 > [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, pp. 128–129)]] 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。[[Argument_Wiliam_2019|Wiliam (2019, p. 2)]] 将教师是"技术人员还是专业人员"的问题定位为实证问题：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、[[Systematic Review|系统综述]]还是其他研究）能否帮助改善学生成果？
 
 ---
@@ -294,7 +294,7 @@ updated: '2026-06-17'
 > - **多流模型（Multiple Streams Model）**：政策决策受证据、经济因素和公众舆论三股力量（问题流、政策流和政治流）的同时影响，证据只是其中一股力量。
 > - **混战模型（Melee Model）**：科学证据、政治选票、经济成本和社会价值四种类型在决策过程中流动交互，政策结果是多方力量混战、权力妥协与话语斗争的产物。
 
-> [!note] 混战模型与制度障碍
+> [!note]- 混战模型与制度障碍
 > Bainbridge et al. 认为混战模型最接近教育研究的情境，但这四个竞争因素被嵌入并受既有的新自由主义审计文化话语影响（Ball, 2016）。[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 的研究结论是：研究对教育政策的影响仍然有限。多项研究识别了制度障碍：Ion & Lucu (2015) 强调需要使研究更可见和可转移；Newman et al. (2016) 指出若更明确政策决策应同时基于工具/技术假设和符号/价值假设，研究-政策关系将得到改善；Eurydice (2017) 强调需要"知识经纪人"促进学术界与政策制定者之间的信息流通。政治人物通常需要可在选前向公众清晰呈现的简单方案并希望看到短期效果，而学术研究的时间框架通常更长。近年来商业智库（think-tanks）的快速增长也与"证据本位政策"的兴起相关——智库研究可以更快产出且更符合政府既有观点，Harvey (2005) 指出这与新自由主义将高等教育研究定位为与政府意识形态冲突有关([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, pp. 8–9]])。
 
 #### 研究资助的动力循环：上升与下降螺旋
@@ -313,7 +313,7 @@ updated: '2026-06-17'
 > 3. **识别真正的瓶颈在"转译"而不在"知道"**：学校常见问题不是没有研究，而是研究没有被翻译成教师日常行动，能力建设、课堂观察和共同反思是关键中介机制。
 > 4. **把失败改革重新诊断为知识与能力问题**：单纯依赖[[New Public Management|新公共管理]]式问责和竞争只会将问题误诊为"动力不足"，[[No Child Left Behind Act 2001|NCLB]] 正是这类误诊的反面案例([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p. 65]])。
 
-> [!note]
+> [!note]-
 > 一个学校如果只是收到"成绩必须提高"的行政要求，它得到的是压力；如果它同时得到可讨论的研究知识、课堂观察安排、教师协作时间和数据回看机制，它才真正得到把证据转成行动的条件([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp. 65–67]])。
 
 #### 证据知情实践的前提条件与策略框架
@@ -332,7 +332,7 @@ updated: '2026-06-17'
 > 3. *成本多少？*：小[[Effect Size|效应量]]如果成本极低可能是非常值得的（例如 READY4K! 短信提醒项目，每名儿童成本仅约 USD 10）。Hattie (2009) 建议低于 0.4 SD 的效应量不值得关注，但 Wiliam 指出其混淆了效应量的绝对值与净值。
 > 4. *它在这里有效吗？*：只有拥有 Hayek (1945) 所谓特定时间和地点环境知识的实践者才能决定哪些创新可能有效，哪些可能适得其反。
 
-> [!note] [[Argument_Blass_2020_JESP|Blass (2020)]] — 五要素评估框架
+> [!note]- [[Argument_Blass_2020_JESP|Blass (2020)]] — 五要素评估框架
 > 学术证据在政策采纳前，须接受对**方法论、情境、假设、领导力和时效性**五个维度的系统性交叉评估——仅凭"在表面上似乎适用"而采纳学术论证可能是危险的。[[Argument_Blass_2020_JESP|Blass, 2020, p. 96]]
 ## 概念演变
 
@@ -341,7 +341,7 @@ updated: '2026-06-17'
 > - **1998–2015年**：英美等国的强势政策与制度化建设。美国通过 [[No Child Left Behind Act 2001|NCLB]] 立法、设立 [[What Works Clearinghouse|WWC]]，英国建立 [[Education Endowment Foundation|EEF]]、[[What Works Network]]，将证据与联邦/中央拨款深度绑定。
 > - **2004–2020年**：批判性文献与学术思潮的[[Emergence|涌现]]。以 Biesta、Wiliam、Wrigley 等为代表的学者，从哲学、方法论和政治经济学多角度对 EBE 的[[Technical Rationality|技术理性]]及统计窄化进行了系统性解构，推动了向"[[Evidence-Informed Practice|证据知情实践]]"（EIP）等替代方案的演进。
 
-> [!note]
+> [!note]-
 > EBE 从 1990 年代的循证医学类比出发，经历了英美制度化建设、批判性文献兴起和中国作为[[Evidence-Based Reform|证据本位改革]]新兴力量的崛起，至今仍在方法论与哲学层面持续激辩。
 
 ### 起源：从循证医学到教育政策信号（1992–1996）
@@ -445,7 +445,7 @@ updated: '2026-06-17'
 > [!critique-logic] 逻辑缺陷：技术化剥夺了教育目的的民主协商空间
 > 将"应该做什么"的价值判断移交给技术官僚；"什么有效"的优先性遮蔽了"什么值得做"的讨论。Biesta (2007)
 
-> [!note]
+> [!note]-
 > EBE 将"什么有效"的问题技术化——将教育决策从民主协商的领域转移到技术官僚手中。Biesta (2007) 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，首次提出这一概念。
 
 #### 三重缺陷框架
@@ -453,7 +453,7 @@ updated: '2026-06-17'
 > [!critique-logic] 三维失败：知识缺陷 · 效力缺陷 · 应用缺陷
 > EBE 在认识论（实验无法预测未来）、存在论（教育因果非线性）和实践论（科学应用不是线性传递）三个层面均存在根本性缺陷。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
 
-> [!note]
+> [!note]-
 > [[Argument_Biesta_2010_SPE|Biesta (2010)]] 从认识论、存在论和实践论三个维度对 EBE 进行系统批判：知识缺陷、效力缺陷、应用缺陷。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的、可确定的"和"科学进步来自知识的'应用'"三个隐含假设上的失败。Biesta 的框架已成为 EBE 批判文献的经典参照，但其主要贡献被定位在[[Philosophical Analysis in Education|哲学分析]]层面。
 
 #### 证据与垃圾科学的区分问题
@@ -461,7 +461,7 @@ updated: '2026-06-17'
 > [!critique-method] 操作困境：政策者无法区分真正的证据与垃圾科学
 > "每有一项做得好的研究，至少另有一项是垃圾科学"，但"太多使用者难以区分二者"；任何易于执行的鉴别规则都有扼杀创新的风险。[[Argument_Berk_2011_ER|Berk (2011)]]
 
-> [!note]
+> [!note]-
 > **争议背景**：[[Argument_Berk_2011_ER|Berk (2011)]] 从 35 年担任 *Evaluation Review* 创始编辑的经验出发，为 EBE 补充了一个此前未被充分讨论的维度——**证据概念本身的操作性空泛**：即使接受 EBE 的原则，政策制定者实际上**无法区分真正的证据与"垃圾科学"**（junk science）。
 > 
 > [[Argument_Berk_2011_ER|Berk (2011, p.192)]] 基于经手数百篇[[Evaluation Research|评估研究]]论文的经验判断："每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作"，但"太多评估研究的使用者难以区分二者"，且"任何易于实施的规则集都有扼杀创新的风险"。
@@ -473,7 +473,7 @@ updated: '2026-06-17'
 > [!critique-method] 结构性困难：本地条件从根本上限制了教育研究的推广
 > 教育研究者"必须处理限制推广的本地条件"；学校中的师生嵌套在复杂社会互动网络中，学习过程无法被完全控制。Berliner (2002)
 
-> [!note]
+> [!note]-
 > [[Argument_Møller_2017|Møller (2017, p.379)]] 援引 Berliner (2002) 的论证：教育研究是"难以完成的科学"（hard-to-do-science），因为教育研究者"必须处理限制推广的本地条件"（Berliner, 2002: 18）。学校中的学生、教师和校长嵌套在复杂且不断变化的社会互动网络中，学习过程永远不可能被完全控制。
 
 #### Wiliam 的"EBE 永远不会成功"论证
@@ -481,7 +481,7 @@ updated: '2026-06-17'
 > [!critique-fatal] 根本性缺陷：教育知识在原则上是局部且临时的——EBE 在原则上不可完成
 > 不是方法论不足（可改进），而是知识的本质决定其永远局部且临时。"教育研究只告诉我们曾经是什么，而非可能是什么。" [[Argument_Wiliam_2019_ERE|Wiliam (2019)]]
 
-> [!note] 论证结构（Goldman 区分理论应用）
+> [!note]- 论证结构（Goldman 区分理论应用）
 > **争议核心**：Wiliam 从 Goldman (1976) 的分析认识论出发，论证 EBE 项目在原则上不可完成——不是因为方法论不足（可改进），而是因为知识本质上是局部且临时的。
 > 
 > 1. **知识的局部性**（locality）：Goldman 对相关替代方案的关注意味着知识可以因地点不同而不同。
@@ -497,7 +497,7 @@ updated: '2026-06-17'
 > [!critique-data] 实证反例：38% 的案例中不给反馈反而更好——平均效应具有根本误导性
 > Kluger & DeNisi [[Meta-analysis|元分析]]：平均效应量 0.4 SD，但标准差约 1，607 个效应量中 38% 为负。不了解机制、在错误情境应用干预可能产生持续负效果。
 
-> [!note]
+> [!note]-
 > [[Argument_Wiliam_2019|Wiliam (2019, pp.10–11)]] 以反馈研究作为 EBE "平均效应"逻辑失败的例证：Kluger & DeNisi (1996) 对 131 项研究的[[Meta-analysis|元分析]]发现反馈的平均[[Effect Size|效应量]]约 0.4 SD，但效应量标准差约 1，约 38% 的 607 个效应量为负——在超过三分之一的案例中，不给予反馈反而更好。Wiliam 的反驳：**不了解干预如何产生效果，在特定情境中应用干预可能产生持续负效果**。
 
 #### 教师质量作为 RCT 的结构性混淆因素
@@ -505,7 +505,7 @@ updated: '2026-06-17'
 > [!critique-data] 被系统性忽视的混淆[[Variable|变量]]：教师差异量级可能远大于任何干预效应
 > 1 SD 教师质量差异 ≈ 0.15 SD 学生成就差异（Hanushek & Rivkin, 2010）——"能力分组效应"可能实为"教师分配效应"，其量级很可能远大于被评估的干预效应。
 
-> [!note]
+> [!note]-
 > [[Argument_Wiliam_2019|Wiliam (2019, pp.7–9)]] 论证教师质量未测量变异是教育 [[Randomised Controlled Trials|RCT]] 中一个被系统性忽视的混淆因素：教师间一 SD 差异 ≈ 0.15 SD 学生成就差异（Hanushek & Rivkin, 2010）；更有效的教师对低成就学生不成比例地更有效（Slater, Davies & Burgess, 2012）。这意味着即使 RCT [[Random Assignment|随机分配]]学校，如果最有效教师被分配教高成就学生，观察到的效应可能完全是"教师分配效应"——这一混淆因素的量级很可能**远大于**任何被评估的干预效应。
 
 #### 批判实在论与能动性悖论的解构
@@ -513,7 +513,7 @@ updated: '2026-06-17'
 > [!critique-logic] 施为者悖论：RCT 排斥的教师意志恰好是产生教学效果的必要因果机制
 > RCT 将教师热情和学生推理视为"污染源"加以控制——但这两者恰好是项目在真实课堂起效的深层机制。EBE 的方法论预设与其因果主张相互矛盾。[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]
 
-> [!note] 批判实在论三层解构（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
+> [!note]- 批判实在论三层解构（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借助 [[Roy Bhaskar]] 与 Andrew Sayer 的[[Critical Realism|批判实在论]]哲学框架，对 EBE 进行了深层解构：
 > 
 > 1. **分层本体论（Stratified Ontology）**：批判实在论将实在区分为三层——"深层实在（Real，因果机制与结构）"、"实际发生（Actual，事件与结果）"与"经验现象（Empirical，观察到的恒常性）"。EBE 的[[Positivism|实证主义]]倾向只停留在经验层面计算效应量均值，却遗漏了深层真实的结构与机制分析。
@@ -549,7 +549,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique-method] 反复聚合丢失原始信息，且陷入稳定性/变异性双重困境
 > 元-元分析"变得更加复杂、混乱和充满不一致……原始详细经验信息消失"；若发现稳定则继续累积意义何在？若可被超越则结论始终临时。[[Argument_Terhart_2011_JCS|Terhart (2011)]]
 
-> [!note]
+> [!note]-
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]] 在 [[Visible Learning|VL]] 出版仅两年后就识别了[[Meta-meta-analysis|元-元分析]]（mega-analysis）作为 EBE 最雄心勃勃的方法论工具所面临的根本困境：元-元分析扩大了参照范围，"但同时也变得更加复杂、混乱和充满不一致……通过反复累积，原始的详细经验信息消失"（p.436）。
 > 
 > Terhart 提出**稳定性与变异性的双重困境**：如果进一步研究只产生对已知结果的渐近逼近（稳定性假说），继续累积的意义何在？但如果某些领域的发现已被新的结果超越（变异性假说），则元-元分析的结论始终是临时的。
@@ -587,7 +587,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > ```
 
 
-> [!note] 三级失真机制详解（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
+> [!note]- 三级失真机制详解（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制：
 > - **Level 1（RCT 层面：实验简化与安慰剂缺失）**：控制组通常是"常规教学"（business as usual）的真实高强度教学而非医学上的空白安慰剂，这使效应量失去了绝对参考。此外，RCT 将教师的教学热情和学生的推理施为（Agency）视为干扰项进行严格[[Screening Off|屏蔽]]，形成了没有深层因果机制的"数据黑箱"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 5–6]]。
 > - **Level 2（元分析层面：[[Heterogeneity|异质性]]混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异质的研究，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
@@ -596,7 +596,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique-method] 从 RCT 到元分析到元-元分析：证据在三层聚合中系统性失真
 > RCT 层（安慰剂缺失/能动性排斥）→ 元分析层（异质性混淆/"21世纪统计炼金术"）→ 元-元分析层（Hattie 排行榜彻底过滤情境因素）。Wrigley (2018, 2019)
 
-> [!note] 体育参与案例追踪与三级失真
+> [!note]- 体育参与案例追踪与三级失真
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Wrigley & McCusker (2019) 通过理论和案例两种路径揭示了证据综合中的系统性失真（三级流程图参见上方 [!logic-map]）。
 > 
 > **体育参与案例**（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 120–123]]）：EEF Toolkit 报告体育参与效应量 0.17（+2 个月）。追踪来源揭示：最高效应量（0.80）来自 [[Playing for Success]]——足球场一对一辅导项目，与普通"体育参与"几乎毫无共同之处；Shulruf (2010) 源元分析主要结论恰恰是"**没有稳健证据表明课外活动与学生成果之间存在因果关系**"。
@@ -613,7 +613,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique-logic] EBE 对"科学"的诉诸依赖于一种过分简化的民间科学观
 > 科学不等于实验；许多科学领域不使用实验；许多重大发现并非来自系统程序。用低层次[[Scientific Method|科学方法]]研究高层次教育现象"从根本上是不科学的"（Thomas, 2012）。
 
-> [!note] 核心论证（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）
+> [!note]- 核心论证（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）
 > [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 从科学哲学角度对 EBT 的科学宣称进行了系统解构，论证其对"科学"的诉诸依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012）：
 > 
 > 1. **科学 ≠ 实验**：许多科学领域不使用实验（天文学、气象学、进化论）；许多重大发现并非来自系统程序（青霉素、尼龙、超导性、飞机）。
@@ -677,7 +677,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique-logic] 制度韧性源于官僚功能而非科学质量
 > EBE 为主权者提供"透明的过滤机制"——事先注册的研究协议和形式化效应量产生看似客观的决策依据，这是其在缺陷已知的情况下仍主导政策的真正原因。[[Argument_Cowen_2019_ERE|Cowen (2019)]]
 
-> [!note]
+> [!note]-
 > Biesta 从认识论维度识别了 EBE 的"缺陷"；[[Argument_Cowen_2019_ERE|Cowen (2019)]] 借助 [[Tullock's Bureaucracy Theory]] 追问：**既然缺陷已知，为什么 EBE 仍然主导政策？**
 > 
 > 答案在于 EBE 的**官僚功能**：RCT + [[Systematic Review|系统综述]]提供了一套**对主权者透明的过滤机制**——事先注册的研究协议和形式化的效应量产生看似客观的决策依据。
@@ -689,7 +689,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique-logic] 即使证据可靠，论述性误用仍可产生[[Material Fallacies|实质谬误]]
 > NZ Treasury 案例：术语模糊 + 忽视证据局限 + 得出与原始证据矛盾的结论 → 将 EBE 证据转化为服务于预设政策目的的工具。[[Argument_ONeill_2012_NZJES|O'Neill (2012)]]
 
-> [!note]
+> [!note]-
 > [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 以 NZ Treasury 2011 年简报为案例，识别了 EBE 证据在政策论述中被误用的具体病理——[[Material Fallacies|实质谬误]]：政策行动者通过术语模糊（"教学质量"定义与学校教育无关）、忽视证据局限性（Hattie 本人的多处警示被忽略）和得出与原始证据矛盾的结论（建议增加生师比 vs Hattie 明确反对），将 EBE 证据转化为服务于预设政策目的的工具。该案例暴露了 EBE 的一个结构性脆弱点：即使证据本身在方法论上可靠，其在政策过程中的论述性使用仍可能产生实质谬误（详见 [[Treasury Briefing on Student-Teacher Ratios]]）。
 
 #### 文化政治批判
@@ -697,7 +697,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique] VL 论述在以女性为主的职业中承载了性别歧视与能力主义议程
 > EBE/Visible Learning 并非中立的技术工具，而是将教师知识商品化，与新自由主义监控文化结盟，系统性排斥难以测量的关怀伦理维度。[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]
 
-> [!note] 核心论证与七点批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]]）
+> [!note]- 核心论证与七点批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]]）
 > [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 以 [[John Hattie]] 的 [[Visible Learning]] 为分析对象，从文化政治视角开辟了批判维度：EBE 论述并非性别中立或能力中立的技术工具，而是在以女性为主的职业中推行男性化的视觉霸权，并将教师知识商品化后作为"外部专家建议"卖回给教师。
 > 
 > 七点批评摘要：
@@ -723,7 +723,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!critique-data] 经验研究发现：即使证据充分一致，政策制定者仍可系统性回避
 > 2015–2019 年英国议会 11 场[[Grammar School|文法学校]]辩论分析：19 次与非轶事证据的交换中仅 6 次真正参与——其余转向道德侧步、轶事和党派攻击。[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]
 
-> [!note] 核心发现：议会中的证据回避（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）
+> [!note]- 核心发现：议会中的证据回避（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）
 > [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 将 EBE 批判推进到议会政策制定的实际话语操作层面。对 2015–2019 年英国议会 11 场文法学校辩论的分析显示：
 > 
 > - 政府自身定义（Coldwell et al., 2017）要求使用[[Quantitative Research|量化研究]]和系统综述，但议会内部报告和 Ofsted 评级才是实际上最有影响力的证据来源
@@ -738,7 +738,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!implication] 实践后果：谁有权诠释证据、哪些结果值得视为"成功"才是核心争议
 > 严格证据进入学校后被地方需求、实施条件和利益相关者价值排序重新解释；"evidence-based"的争议不只是"证据是否严格"。[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]
 
-> [!note]
+> [!note]-
 > Ross 与 Morrison 从 ESSA 证据标准和 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]评价案例出发，指出严格证据进入学校系统后并不会自动转化为统一决策，而会被地方需求、实施条件和利益相关者价值排序重新解释。
 > 
 > 现行证据标准容易把"有效性"窄化为统计显著的成就效果；对每周使用数小时的教育技术补充项目而言，学生动机、教师时间、技术技能或教学多样化等结果未必能在短期成就测验中体现。STAT 案例进一步显示，复杂改革的证据解释具有价值冲突——支持者视为促进数字公民的成功，反对者视为成就未提高的失败。
@@ -773,7 +773,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 ### Peterson 的"什么有效 2.0"改革提案
 
-> [!note] [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 改革路径
+> [!note]- [[Argument_Peterson_2016_IJRME|Peterson (2016)]] 改革路径
 > 不同于 Biesta（放弃 EBE）和 Wrigley（揭露方法论缺陷），Peterson 接受 [[Randomised Controlled Trials|RCT]] 将继续是教育研究的主要组成部分，但主张从根本上改革其**设计方式**和**制度基础设施**。
 
 > [!warning] 诊断：黑箱 RCT 的四重局限（[[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 300–302]]）
@@ -792,7 +792,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 ### Agency 作为核心哲学分歧
 
-> [!note] 能动性分配：[[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, p.235)]]
+> [!note]- 能动性分配：[[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, p.235)]]
 > 识别了"什么有效"辩论中一个此前未被充分阐明的根本维度——**能动性（agency）的分配**：
 
 > [!line-a] 正统立场：教师-proof 执行管道

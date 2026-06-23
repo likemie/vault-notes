@@ -82,7 +82,7 @@ Reitz提出了一个激进的论证：资本主义知识经济需要一个非资
 
 ## 在高等教育新政治经济学分析中的位置
 
-> [!note]
+> [!note]-
 > Jessop的三重思想实验将准商品化置于一个更广泛的谱系中([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])：
 > - **成本效率**（cost-efficiency）：大学追求更有效的资源利用——这不是资本主义，只是好的管理
 > - **准商品化**（quasi-commodification）：知识劳动被当作可交易商品处理——进入"[[Academic Capitalism|学术资本主义]]"的门槛

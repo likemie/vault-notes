@@ -50,7 +50,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2006 — 欧盟发布关于[[Lifelong Learning|终身学习]][[21st Century Skills and Competencies Discourse|关键能力]]的初始建议([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.39]])。
 > - 2018 — 欧盟理事会通过修订版终身学习关键能力建议([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.39]])。
 

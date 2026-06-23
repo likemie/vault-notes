@@ -6293,6 +6293,42 @@
   z-index: 2;
 }
 
+/* ─── 步骤标题 / 正文分行 ──────────────────────────────── */
+/* 紧凑列表（无 <p> 包裹）：首个 strong 作为标题行 */
+.callout[data-callout="proc"] > .callout-content > ol > li > strong:first-child {
+  display: block;
+  font-size: 0.93em;
+  font-weight: 750;
+  color: rgb(20, 82, 108);
+  margin-bottom: 0.18rem;
+  line-height: 1.4;
+}
+
+/* 松散列表（有 <p> 包裹）：p:first-child 作为标题段 */
+.callout[data-callout="proc"] > .callout-content > ol > li > p:first-child {
+  margin: 0 0 0.20rem 0;
+  padding-bottom: 0.18rem;
+  border-bottom: 1px solid rgba(30, 100, 130, 0.12);
+  font-weight: 700;
+  font-size: 0.93em;
+  color: rgb(20, 82, 108);
+  line-height: 1.4;
+}
+
+.callout[data-callout="proc"] > .callout-content > ol > li > p:not(:first-child) {
+  margin: 0;
+  font-size: 0.88em;
+  line-height: 1.62;
+  color: var(--text-normal);
+  opacity: 0.90;
+}
+
+/* 暗色模式 */
+.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li > strong:first-child,
+.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li > p:first-child {
+  color: rgb(85, 165, 200);
+}
+
 /* ─── 暗模式 ────────────────────────────────────────── */
 .theme-dark .callout[data-callout="proc"] {
   --callout-color: 80, 160, 195;

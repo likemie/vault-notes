@@ -143,7 +143,7 @@ updated: '2026-06-08'
 
 ### 学术起步（1998 至 2005）
 
-> [!note] 学术起步
+> [!note]- 学术起步
 > - **1998** 年从美国返回新西兰，任奥克兰大学教育学教授兼教育学院院长([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
 > - **1999 至 2000** 年通过奥克兰大学受教育部合同领导开发 asTTle（教学与学习评估工具），基于光盘的教师管理型国家课程测试系统，用于[[Formative Assessment|形成性评估]]，任项目主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
 > - **2000 年代中期** 教育部合同开发升级版在线系统([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
@@ -152,7 +152,7 @@ updated: '2026-06-08'
 
 ### 商业化与政策参与（2006 至 2010）
 
-> [!note] 商业化与政策参与
+> [!note]- 商业化与政策参与
 > - **2006 年** 注册《[[Visible Learning|可见的学习]]》商标并创建实验室，为评估工具使用提供支持和专业发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
 > - **2006 年** 成为 [[Cognition Education]] 董事([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.48]])
 > - **2009 年** Cognition Education 开始在澳大利亚提供《可见的学习》plus 专业发展工作坊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.48]])
@@ -163,7 +163,7 @@ updated: '2026-06-08'
 
 ### 全球扩张（2011 至 2015）
 
-> [!note] 全球扩张
+> [!note]- 全球扩张
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
 > - **2013 年** 成为 1600 万澳元科学学习研究中心副主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
 > - **2014 年** 被任命为澳大利亚教学与[[School Leadership|学校领导力]]研究院董事会主席([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.50]])
@@ -182,7 +182,7 @@ updated: '2026-06-08'
 
 > [!abstract] Fraser, B.J., Walberg, H.J., Welch, W.W. & Hattie, J.A. (1987). Syntheses of educational productivity research. *International Journal of Educational Research*, 11(2), 147–252.
 
-> [!note] 思想发展
+> [!note]- 思想发展
 > Hattie 与 Fraser 和 Walberg 合作，综合了 226 项[[Meta-analysis|元分析]]，以检验[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究发表为 100 页专著，涵盖数千项原始研究。这是教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]之一([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
 
 ---
@@ -191,7 +191,7 @@ updated: '2026-06-08'
 
 > [!abstract] Hattie, J. (1992). Measuring the effects of schooling. *Australian Journal of Education*, 36(1), 5–13.
 
-> [!note] 思想发展
+> [!note]- 思想发展
 > Hattie 综合了 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究，代表 500 至 1500 万学生([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
 >
 > 他引入通用连续体（universal continuum）概念，以标准差单位为尺度将[[Meta-meta-analysis|元综合]]结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。
@@ -213,7 +213,7 @@ updated: '2026-06-08'
 
 > [!abstract] Hattie, J. (2009). *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*. Routledge.
 
-> [!note] 思想发展
+> [!note]- 思想发展
 > Hattie 综合 800 多项元分析，发现平均效应量仍约为 0.40。他将此作为关节点（hinge point），高于此值的方法值得优先考虑([[Argument_Higgins_2016_RE|Higgins, 2016, pp.43–44]])。
 >
 > 他将教师角色分为激活者（平均 $d = 0.60$）和促进者（平均 $d = 0.17$），由此得出结论：”[[Constructivist Paradigm|建构主义]]是一种知识形式，但不是一种教学形式”（Hattie, 2009, p.243）。
@@ -231,7 +231,7 @@ updated: '2026-06-08'
 > - Fisher, D., Frey, N., & Hattie, J. (2016). *Visible learning for literacy*. Corwin Press. — 扩展至读写教学
 > - Hattie, J., Masters, D., & Birch, K. (2016). *Visible learning into action*. Routledge. — 汇编实施案例
 
-> [!note] 思想发展
+> [!note]- 思想发展
 > Hattie 把 $d = 0.40$ 解释为所有可见教育影响的平均值，而不是脱离情境的硬边界。他指出，澳大利亚数据中学生一年平均增长约 $d = 0.40$，但小学约 $d = 0.55$，中学约 $d = 0.25$，因此同一个 $d$ 值必须结合学段、结果类型和同类研究背景解释（Hattie, 2015, p.11；Higgins, 2016, p.44）。
 >
 > 他对[[Heterogeneity|异质性]]的回应不是否认，而是要求把异质性转化为[[Research Question|研究问题]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.45]])。

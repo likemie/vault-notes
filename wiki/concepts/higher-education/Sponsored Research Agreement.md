@@ -61,7 +61,7 @@ updated: 2026-06-04
 
 ## 核心条款
 
-> [!note]
+> [!note]-
 > 标准 SRA 通常包含以下 IP 条款（pp.281–284）：
 
 **前景 IP 的权利转让**。产业方自动获得大学拥有的[[Foreground IP|前景知识产权]]（Foreground IP, FIP）的非排他、免版税（Non-Exclusive Royalty-Free, NERF）内部使用许可，企业可以制造和使用但不可对外销售。协议同时包含有时间限制的选择期（通常 6 个月），企业可在此期间通知大学其希望协商含版税的商业许可。如果企业未在 6 个月内行使选择权，或双方未能在后续 3 个月内达成许可协议，大学可自由将 FIP 许可给任何其他方（pp.281–282）。
@@ -86,7 +86,7 @@ updated: 2026-06-04
 
 ## 在企业组织中的时间尺度定位
 
-> [!note]
+> [!note]-
 > [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.229–231)]]将 SRA 置于[[University-Industry Collaboration|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
 
 从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、追踪研究进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。

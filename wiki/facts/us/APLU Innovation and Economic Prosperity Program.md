@@ -36,7 +36,7 @@ updated: 2026-05-26
 
 ## 内容
 
-> [!note]
+> [!note]-
 > IEP Program 的核心理念是：大学不仅是研究和人才培养机构，更是区域[[Innovation Ecosystem|创新生态系统]]的"锚点"——通过[[University-Industry Collaboration|产学合作]]、技术商业化和人才培养推动区域经济增长。获得 IEP 认证的大学被认可在区域经济参与、增长和经济机会方面的成就（p.13）。
 
 ## 相关概念／政策

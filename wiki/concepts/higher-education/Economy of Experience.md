@@ -65,7 +65,7 @@ updated: 2026-05-18
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **2003 [[Employability|就业力]]相对化**：Brown & Hesketh 论证就业力的相对性——求职者的竞争力取决于在所有竞争者中的排序位置，而非绝对能力（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003）
 > - **2004 软实力转向**：Brown & Hesketh 进一步揭示雇主招聘要求从"硬"通货（学位和证书）扩展到"软"实力（个人性格、荣誉、工作经验、实习经历），为履历经济学的概念诞生提供了经验基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2004）
 > - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将履历经济学概念用于分析中国精英大学毕业生的竞争环境，将其与[[Social Engagement|社会性投入]]和[[Goal-Controlled Mode|目标掌控模式]]的分析相连接([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])

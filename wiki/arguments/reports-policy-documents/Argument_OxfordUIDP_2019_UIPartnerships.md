@@ -487,12 +487,12 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 
 ## 关键引用
 
-> [!citation-card] 峰会核心目标
+> [!citation-card]- 峰会核心目标
 > 峰会汇集了来自领先大学、企业和政府的 149 名高层领导和管理者，来自英国、美国、欧洲及更远地区，以识别新的、更好的合作方式以推进人类福祉，以及需要解决的关键问题。（pp.2）
 >
 > Original: The University of Oxford in the UK, and the University-Industry Demonstration Partnership ([[University Industry Demonstration Partnership|UIDP]]) in the US, joined forces in 2019 to develop and host the inaugural [[Oxford UIDP Summit 2019|Oxford UIDP Summit]]. This brought together 149 senior leaders and managers from leading universities, companies and governments from the UK, US, Europe and further afield, to identify new and better ways to partner to advance the human condition and key issues that need to be addressed.
 
-> [!citation-card] 研发目标的核心教训
+> [!citation-card]- 研发目标的核心教训
 > 荷兰经验表明，研发量不是改善创新和经济结果的重要驱动力，而是[[Systems of Innovation|创新系统]]的质量和强度——不仅生成新知识，而且扩散和利用它。
 >
 > Original: There was a suggestion that the volume of R&D was not the important driver of improving innovation and economic outcomes, but the quality and strength of the innovation system in not just generating new knowledge, but also in diffusing and exploiting it.

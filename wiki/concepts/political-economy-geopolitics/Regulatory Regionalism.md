@@ -63,7 +63,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **Jayasuriya（2010）**：提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
 > - **Robertson（2010）**：在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过博洛尼亚进程等机制构建新的高等教育治理模式
 > - **Robertson et al.（2016）**：在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）

@@ -35,7 +35,7 @@ updated: 2026-06-02
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **2014**：Mixed Methods International Research Association (MMIRA) 正式成立，旨在为全球[[Mixed Methods Research|混合方法研究]]者提供学术交流和组织平台。
 > - **2014 年后**：MMIRA 迅速在多个国家扩展，启动各国分会（chapters）、附属团体（affiliate groups）和区域会议（regional conferences），推动混合方法研究在不同国家和学科领域中的制度化发展([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])。
 

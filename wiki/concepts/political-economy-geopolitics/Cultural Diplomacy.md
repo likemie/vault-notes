@@ -91,7 +91,7 @@ updated: 2026-05-19
 
 ## 与政治经济维度的关系
 
-> [!note]
+> [!note]-
 > [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的分析揭示，文化外交维度和政治经济维度不是相互独立的，而是在同一枢纽项目中以不同方式组合：
 
 - **新加坡的时间交替模式**：文化外交先行（"[[Singapore Education Hub Policy|东方波士顿]]"、李光耀公共政策学院），政治经济跟进（"全球校园"），但后者市场失败后政策重心回调至监管（pp.207–209）。详见 [[Singapore Education Hub Policy]]

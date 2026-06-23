@@ -40,7 +40,7 @@ updated: 2026-05-26
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **1927 年初**：VOKS 派遣 Roman Weller 赴美建立文化关系组织，ASCRR 随即成立([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
 > - **1927–1928**：ASCRR 的核心活动为书籍、报告和期刊的跨国交换。成立仅九个月，该协会在美国收到 41,040 册苏联出版物，向苏联发送 18,572 册([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。协会还设立了外国访客服务处（Service Bureau for Foreign Visitors），协助前往苏联进行研究或学习的美国人，并"为来访的教授、科学家等安排参观行程"([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。
 > - **1928 年夏季**：ASCRR 组织了由 [[John Dewey]] 率领的 25 名美国教育者代表团访问苏联([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102, 105]])。代表团由 Lunacharsky 亲自邀请，苏联方面给予了高规格接待。

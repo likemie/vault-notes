@@ -95,7 +95,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - **1986 争论起点**：Swidler 在 *ASR* 发表 Culture in Action，提出[[Culture as Toolkit|文化工具箱]][[Paradigm|范式]]，挑战 Weber-Parsons 价值观驱动范式的垄断地位——文化不仅定义行动目的（想要什么），更提供建构行动策略的工具（如何去做）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Swidler, 1986）。
 > - **2009 Vaisey 调和**：Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，指出两种范式有论无争，甚至互相补充——问题的关键在于意识层次。援引认知科学双过程理论，论证价值观驱动范式在深层无意识层次运作，工具箱范式在浅层有意识层次运作（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
 > - **2023 教育研究应用**：[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将 Vaisey 模型系统应用于中国精英大学学生出路分化的分析，以行动目的生成状态和文化工具箱使用能力两个维度建构 2×2 四分类模型([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。

@@ -130,7 +130,7 @@ updated: 2026-05-31
 
 ### 预注册与研究结果解释
 
-> [!note]
+> [!note]-
 > 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 NIH 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]

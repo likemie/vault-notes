@@ -87,7 +87,7 @@ updated: '2026-05-18'
 
 ## 与全球大学排名的关系
 
-> [!note]
+> [!note]-
 > [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]]将社会宪章置于对 [[Global Universities Rankings|全球大学排名]] 的系统批判中心。她的论证逻辑如下（pp.127–128, 132–136）：
 
 1. **排名只能测量"组织"维度的产出**：论文数、引用率、科研经费——这些都是大学作为"组织"的效率指标。

@@ -43,7 +43,7 @@ Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）�
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 
 - 任职于明斯特大学教育学院（Institute of Education, University of Münster, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
 - 2019 年与 [[Christiane Thompson]] 和 [[Gita Steiner-Khamsi]] 共同编辑 *Researching the [[Global Education Industry]] — Commodification, the Market and Business Involvement*（Palgrave Macmillan）（Thompson & Parreira do Amaral, 2022, p.17）

@@ -193,17 +193,17 @@ citation_aliases:
 
 ### 第四步：既有产学合作理论框架提供了有效工具，但需要从 AHS 视角进行适应性修正
 
-> [!note] 框架一：[[Partnership Continuum|伙伴关系连续体]] — 描述深度，不回答对齐
+> [!note]- 框架一：[[Partnership Continuum|伙伴关系连续体]] — 描述深度，不回答对齐
 > [[University Industry Demonstration Partnership|UIDP]] 于 2012 年提出的合作分类框架（交易型→协作型→联盟型），AHS 在所有级别上均可参与(p.188)。但该框架只描述合作"有多深"，不回答各方"如何对齐"。详见 [[Partnership Continuum]]。
 
 ---
 
-> [!note] 框架二：[[Triple Helix|三重螺旋模型]] — 政府角色的修正
+> [!note]- 框架二：[[Triple Helix|三重螺旋模型]] — 政府角色的修正
 > Etzkowitz & Leydesdorff(1995)的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管者而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"(p.188)。例外是政府通过竞争性合同资助研究时更接近伙伴形态。AHS 本身也可被构想为替代政府的第三方(p.188)。详见 [[Triple Helix]]。
 
 ---
 
-> [!note] 框架三：[[King-Persily Model|King-Persily 模型]] — 数据治理与患者信托责任
+> [!note]- 框架三：[[King-Persily Model|King-Persily 模型]] — 数据治理与患者信托责任
 > King & Persily(2019)提出以独立第三方委员会解耦研究者对产业数据的完全访问。在生物医学场景中需要两项调整：AHS 保留发表权但给产业审阅窗口，以及所有患者数据必须去标识化(pp.188–189)。详见 [[King-Persily Model]]。
 
 > [!warning] 患者数据的深层伦理困境
@@ -262,7 +262,7 @@ citation_aliases:
 
 ---
 
-> [!note] 发明阶段（1990s–2002）：从概念到首例人体植入
+> [!note]- 发明阶段（1990s–2002）：从概念到首例人体植入
 > - **1990s**：丹麦 Skejby 大学医院的医师科学家发展经导管主动脉瓣植入概念，一项颠覆性技术（disruptive technology），通过血管内路径（而非开胸）完成瓣膜置换(Andersen, 2021; Bonhoeffer et al., 2000; Knudsen et al., 1993, 转引自 p.193)
 > - **2002**：法国 Rouen 大学 Charles Nicolle 医院完成首例人体植入，通过股动脉进入心脏(Cribier et al., 2002, 转引自 p.193)
 > - 随后更多病例迅速发表，技术专利被申请。Medtronic 与 Edwards Lifesciences 之间爆发专利争议

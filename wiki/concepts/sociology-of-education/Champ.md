@@ -66,7 +66,7 @@ updated: 2026-05-18
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 场域概念从 Bourdieu 早期[[Ethnography|民族志]]田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
 
 - **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，Bourdieu 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础

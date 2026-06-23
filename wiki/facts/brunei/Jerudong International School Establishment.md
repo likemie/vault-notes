@@ -37,7 +37,7 @@ updated: 2026-05-22
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - 1996 年底 文莱政府邀请 [[Cognition Education|Multi Serve]] 与时任 CEO Ron Perkinson 进入谈判，讨论建立一所新的私立[[International Schools|国际学校]]。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21-22]])
 > - 1997 年 公司提出约 0.8M 美元方案，负责学校设计、课程设计、运作系统建立与教师招聘，后续范围扩展到寄宿设施。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])
 > - 1997 年 Prince Jefri 通过其个人投资公司 Amadeo 直接关注项目，介入认证、寄宿设施与资金支持，并以 30M 美元个人支票为首年运营兜底。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])

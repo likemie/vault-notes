@@ -40,7 +40,7 @@ Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 
 - Bishop William Lawrence University Professor，哈佛商学院([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 

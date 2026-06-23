@@ -78,7 +78,7 @@ updated: 2026-06-01
 > 5. **跨案例分析**（多案例设计）：如涉及多个案例，先进行个案内分析（within-case analysis），再进行跨案例分析（cross-case analysis），识别跨案例的模式和主题
 > 6. **结果呈现**：以叙事形式呈现，可包含关于每个参与者的描述性信息表格（如案例研究和[[Ethnography|民族志]]中常见），以及跨案例的主题讨论
 
-> [!note] [[Sample Size Determination|样本量]]建议
+> [!note]- [[Sample Size Determination|样本量]]建议
 > Creswell & Creswell（2022, Ch9）给出了各质性设计的粗略样本量估计：[[Narrative Research|叙事研究]] 1-2 人、[[Phenomenology|现象学]] 3-10 人、[[Grounded Theory|扎根理论]] 20-30 人、民族志一个文化群体、**案例研究约 4-5 个案例**。案例研究的样本量指的是"案例数量"而非"参与者数量"——每个案例内部可能包含多名参与者。多案例设计通过复制逻辑增强分析性推广的可信度。
 
 ### 跟踪式设计的双重目的

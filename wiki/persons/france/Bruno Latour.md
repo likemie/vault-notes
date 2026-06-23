@@ -51,7 +51,7 @@ updated: '2026-06-08'
 
 ## 主要著作
 
-> [!note]
+> [!note]-
 > - Latour, B., & Woolgar, S. (1979). *Laboratory Life: The Construction of Scientific Facts*. Princeton University Press.
 > - Latour, B. (1987). *Science in Action*. Open University Press.
 > - Latour, B. (2005). *Reassembling the Social: An Introduction to [[Actor-Network Theory]]*. Oxford University Press.

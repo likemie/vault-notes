@@ -43,7 +43,7 @@ updated: 2026-05-26
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **1915 年前** — "新教育"泛指西方和日本的教育思想([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。
 > - **1915 年后** — 新教育聚焦于儿童中心教学法，以培养全面发展的个体和促进社会进步为目标([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。
 > - **1919 年 2 月** — 两个标志性事件：[[Jiang Menglin|蒋梦麟]]主持的《新教育》（xinjiaoyu）杂志创刊，[[John Dewey|杜威]]抵达日本。后者促使哥伦比亚大学师范学院毕业的中国追随者邀请杜威访华([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。

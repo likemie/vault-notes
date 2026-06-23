@@ -68,5 +68,5 @@ updated: 2026-06-13
 
 ## 关键引用
 
-> [!citation-card]
+> [!citation-card]-
 > 秩序是免费的，它取代了控制。秩序不是被强加的，而是[[Emergence|涌现]]的。（Kauffman, 1995，[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）

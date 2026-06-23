@@ -44,7 +44,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2017 — 法国教育部在弱势地区实施一、二年级[[Class Size|班额]]缩减，从 24 人降至 12 人([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
 
 ## 实施情况

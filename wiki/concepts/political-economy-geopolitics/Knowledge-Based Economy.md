@@ -85,7 +85,7 @@ updated: '2026-05-19'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 
 ### 十九世纪先驱：Friedrich List
 

@@ -56,10 +56,10 @@ updated: 2026-06-04
 
 ## 发展与应用
 
-> [!note]
+> [!note]-
 > FAIR 原则发表后，一个利益相关者驱动的自治理倡议 **GO FAIR** 随之成立，推动原则的实施。GO FAIR 网站列出了数据管理能力中心（Data Stewardship Competence Centers, DSCC），这些中心与研究机构的研究者合作，通过遵循 FAIR 原则来实现更好的数据管理。网站还提供了研究数据管理入门工具包，链接到各种相关资源([[Argument_Brock_2025_DataAccessGenerationUse|Brock, 2025, p.303]])。
 
-> [!note]
+> [!note]-
 > 在[[University-Industry Collaboration|产学合作]]中，FAIR 原则提供了一套评估和设计数据共享安排的标准语言。大学的数据共享政策（如美国国立卫生研究院 National Institutes of Health, NIH 的数据管理和共享要求）和产业的数据共享承诺（如部分制药公司的[[Clinical Trial|临床试验]]数据共享网站）都可以在 FAIR 框架下进行对齐。然而，FAIR 原则与产业赞助方保护专有数据的需求之间存在天然张力——可发现性和可访问性可能与保密和竞争优势保护相冲突（pp.296, 303）。
 
 ---

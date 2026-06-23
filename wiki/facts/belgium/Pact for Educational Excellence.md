@@ -58,7 +58,7 @@ updated: 2026-05-24
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2015 年，教育部长发起改革，各类教育利益相关者组成专题工作组，综合系统现状数据并形成诊断，改革由此被命名为教育卓越公约([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.170]])。
 > - 2016 年，围绕教学工具和项目的清单工作启动；同年 Baye 与 Bluge 的报告向改革核心单位介绍[[Evidence-Based Education|证据本位教育]]([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.170-171, 175]])。
 > - 2017 年，Groupe central 的第三号建议采纳部分证据本位教育表述，承认[[French-Speaking Belgium Education System|法语比利时教育系统]]中 EBE 几乎不存在，并提出试点、验证和扩大有效项目([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.171]])。

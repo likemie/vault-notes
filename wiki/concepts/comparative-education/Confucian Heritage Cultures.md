@@ -52,7 +52,7 @@ updated: '2026-05-23'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > ### 提出背景：[[Paradox of the Chinese Learner|中国学习者悖论]]的推动
 
 CHC 这一术语诞生于一群在香港工作的澳大利亚、英国和瑞典研究者对[[Chinese Learner|中国学习者]]现象的集体关注。他们直接观察到 CHC 学习者和西方教师之间的文化碰撞——西方教师抱怨中国学生"[[Rote Learning|死记硬背]]""被动服从"，但国际评估数据却反复显示这些学生的高成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-84]])。

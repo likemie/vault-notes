@@ -51,7 +51,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 堪萨斯大学教育学院 Foundation Distinguished Professor（现任）。
 > - 研究领域：教育政策、比较教育、教育创新、[[Side Effects|教育中的副作用]]（[[Side Effects]]）。
 
@@ -98,7 +98,7 @@ updated: '2026-06-08'
 
 ## 思想发展
 
-> [!note]
+> [!note]-
 
 ### 2017 — 教育副作用框架
 

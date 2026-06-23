@@ -54,7 +54,7 @@ Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 
 - 任职于赫尔辛基大学地球科学与地理系([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])
 

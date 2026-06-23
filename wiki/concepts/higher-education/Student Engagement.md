@@ -71,7 +71,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **1984 前身**：Astin 提出[[Student Involvement|学生涉入]]理论，奠定"投入-成果"关联的基础假设（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
 > - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入[[Operationalization|操作化]]为可观察的行为指标，并首次强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2000s 实证积累**：Pascarella & Terenzini（2005）综合大量实证研究，确认投入-成果的正向关联([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])

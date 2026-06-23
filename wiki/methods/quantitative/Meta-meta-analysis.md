@@ -96,7 +96,7 @@ updated: '2026-05-21'
 
 ## 术语演变
 
-> [!note] 术语演变
+> [!note]- 术语演变
 > 这一方法在文献中有多种命名，反映了不同研究者的立场和侧重点([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])：
 >
 > | 术语 | 提出者/使用者 | 含义侧重 |
@@ -113,7 +113,7 @@ updated: '2026-05-21'
 
 ## 历史发展
 
-> [!note] 历史发展
+> [!note]- 历史发展
 > **Fraser, Walberg & Hattie（1987）——首次大规模元综合**
 >
 > Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
@@ -247,7 +247,7 @@ updated: '2026-05-21'
 > - 适合为政策制定者和实践者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
 > - 在 Hattie 的自我解释中，二级综合还承担一种”生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
 
-> [!note] 推论层级的约束
+> [!note]- 推论层级的约束
 > [[Argument_Higgins_2016_RE|Higgins (2016)]]区分了两种不同的跨元分析比较。**[[Comparative Meta-synthesis|比较性元分析]]**是在单一元分析中纳入多种干预以识别哪种更有效，回答的是”X 是否比 Y 更有效”。**[[Comparative Meta-synthesis|比较性元综合]]**是通过跨元分析比较来得出推论。两者都面临”苹果和橙子”批评的升级版([[Argument_Higgins_2016_RE|Higgins, 2016, pp.40–41]])。
 >
 > 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授转录技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。

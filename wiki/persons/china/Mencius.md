@@ -51,7 +51,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - ca. 372 BCE：出生于邹国([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])
 > - 曾短暂在某一朝廷任大夫数年，但拒绝被任何国王"收买"或在其他角色下服务([[Argument_Li_2012_Cambridge|Li, 2012, p.45]])
 > - 坚持作为独立教师和独立思想者的身份，"在这一点上与[[Socrates|苏格拉底]]不无相似"([[Argument_Li_2012_Cambridge|Li, 2012, p.45]])

@@ -287,27 +287,27 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card] 神经科学的简化主义与压迫风险
+> [!citation-card]- 神经科学的简化主义与压迫风险
 > 单一且狭隘地关注基于大脑的方法不仅是简化主义的，而且还可能产生压迫性的技术。（p. 2）
 > 
 > The singular and narrow focus on [[Educational Neuroscience|brain-based approaches]] is not only reductionist, but also potentially generative of oppressive technologies.
 
-> [!citation-card] “什么有效”运动的意识形态本质
+> [!citation-card]- “什么有效”运动的意识形态本质
 > “什么有效”运动虽然标榜自己“无价值偏见”，但在形式和意图上都是意识形态的，并受既得利益驱动。（p. 9）
 > 
 > The "what works" movement, whilst presenting itself as "value free", is ideological in shape and intent and driven by vested interests.
 
-> [!citation-card] 惩罚性问责的本质
+> [!citation-card]- 惩罚性问责的本质
 > 核心课程的标准化将与认证过程和毕业生教师标准相绑定，这受到了基于惩罚性问责方法的支持。（p. 2）
 > 
 > The standardisation of core curriculum, which will be tied to accreditation processes and graduate teacher standards, is underpinned by a punitive-accountability based approach.
 
-> [!citation-card] 教育存在论的破坏与因果异化
+> [!citation-card]- 教育存在论的破坏与因果异化
 > 这种强调重点的转变——即从将“教育视为人类沟通、意义建构和解释的事件”转向“[[Causality|因果关系]]”——其蕴含的危险对于所有参与澳大利亚教师教育的人来说都具有深远的关联。（Biesta et al., 2015, p. 11; 引自 p. 10）
 > 
 > The danger in this shift in emphasis from viewing 'education as a human event of communication, meaning making and interpretation towards cause-effect relationships' is of profound relevance for all involved in teacher education in Australia.
 
-> [!citation-card] 脑科学教育过度科学化和顺从性的危机
+> [!citation-card]- 脑科学教育过度科学化和顺从性的危机
 > 尽管一方面神经科学可以“为教育提供信息”，但另一方面它“存在创建一个过度科学化和高度顺从的教育体系的风险”。（OECD, 2002, p. 17; 引自 p. 7）
 > 
 > Whilst on the one hand neurosciences can 'inform education', on the other it 'runs the risk of creating an education system which is excessively scientific and highly conformist'.

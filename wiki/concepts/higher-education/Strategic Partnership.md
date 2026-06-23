@@ -76,7 +76,7 @@ updated: 2026-05-28
 
 ## 生长路径
 
-> [!note]
+> [!note]-
 > 大多数产学战略伙伴关系不是顶层设计出来的，而是从一个小项目"生长"出来的。典型路径包含六个阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.79]])：
 
 1. 一个教师与一个产业研究者因共同兴趣启动一个小项目。

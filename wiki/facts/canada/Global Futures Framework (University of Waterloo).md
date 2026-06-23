@@ -34,7 +34,7 @@ updated: 2026-06-03
 
 ## 经过
 
-> [!note]
+> [!note]-
 > 框架定义了五个相互关联的未来维度([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.244]])：
 
 - **社会未来（societal future）**

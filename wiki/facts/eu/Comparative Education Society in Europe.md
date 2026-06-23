@@ -3,7 +3,7 @@ title: Comparative Education Society in Europe
 aliases:
   - 欧洲比较教育学会
   - 欧洲比较教育学会成立
-summary: 1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革
+summary: "1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革"
 type: fact
 subtype: event
 region: eu
@@ -42,7 +42,7 @@ updated: 2026-06-08
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **1961 年**：CESE 在英国伦敦正式成立。首任主席为 [[Joseph Lauwerys]]（任期 1961–1967）。成立的核心推力之一是 Lauwerys 与 Saul Robinsohn 的合作——Robinsohn 时任 UNESCO 教育研究所（UNESCO Institute for Education）所长，他本人后任 CESE 主席（1971–1972）([[Argument_Klerides_2023_CE|Klerides, 2023, p.425]])。
 > - **早期目标**：CESE 的早期目标之一是促进国际学术交流以推动欧洲教育改革（Cowen, 2020, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.425]]）。
 > - **1961–1967 年**：Lauwerys 担任首任主席，将比较教育的国际合作使命嵌入学会的组织基因。

@@ -64,7 +64,7 @@ updated: 2026-05-31
 
 常用的功效分析工具包括 G*Power（Faul et al., 2007; Faul et al., 2009）等免费在线或商业软件。
 
-> [!note] 调查与实验的功效分析差异
+> [!note]- 调查与实验的功效分析差异
 > - **[[Survey Research|调查研究]]**：功效分析侧重于估计在给定预期关联强度下检测变量间显著关联所需的样本量。
 > - **[[Experimental Research|实验研究]]**：输入参数需额外包括实验条件数和对组间差异的效应量估计；分析重点转向估计每个实验条件下所需的受试者人数（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

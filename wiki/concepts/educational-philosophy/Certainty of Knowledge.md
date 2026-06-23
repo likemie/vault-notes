@@ -54,7 +54,7 @@ updated: 2026-05-22
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **古希腊**：[[Socrates|苏格拉底]]和[[Plato|柏拉图]]是知识确定性和永恒真理的倡导者——柏拉图在《理想国》中说"几何学迫使人注视存在……因为几何学的知识是关于永恒之物的"([[Argument_Li_2012_Cambridge|Li, 2012, pp.24-25]])。Pythagoras 被赞誉为"有史以来最伟大的人之一"，因为他用数学表达了沉思生活的理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])
 > - **中世纪**：数学和逻辑被基督教神学家借用——St. Thomas Aquinas 基于亚里士多德的"不动的推动者"论证，用理性证明了上帝的存在、全知、完美和力量([[Argument_Li_2012_Cambridge|Li, 2012, p.25]])
 > - **17 世纪科学革命**：Copernicus、Kepler、Galileo、Leibniz、Newton——"现代科学的奠基巨人"——"他们的全部成就都是数学、逻辑和推理力量的见证"([[Argument_Li_2012_Cambridge|Li, 2012, p.25]])

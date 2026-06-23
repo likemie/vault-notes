@@ -217,12 +217,12 @@ updated: 2026-06-10
 ---
 ## 关键引用
 
-> [!citation-card] 分类法的核心价值
+> [!citation-card]- 分类法的核心价值
 > [[Pavitt Taxonomy|Pavitt 分类法]]的贡献在于能够将产业多样性纳入一个连贯的[[Analytic Framework|分析框架]]，在不同产业组的创新来源、目标和结果之间建立起系统性的联系，使[[Heterogeneity|异质性]]从"噪音"变成可分析的"信号"。（pp.155-156）
 >
 > Original: The key contribution of the Pavitt Taxonomy was its ability to fit the diversity of industries in the context of a coherent framework, establishing systematic links between sources, objectives and outcomes of innovation in different industry groups.
 
-> [!citation-card] 修订版的核心判断
+> [!citation-card]- 修订版的核心判断
 > 我们的发现确认 Pavitt 最初识别的四个类别仍然成立，但需要一个新的——规模与信息密集型——概念来整合 ICT 在经济中日益重要的角色。（pp.175）
 >
 > Original: Our findings confirm that the four classes originally identified by Pavitt still hold, but a new concept of Scale and Information Intensive industries is needed to integrate the growing role of ICT in the economy.

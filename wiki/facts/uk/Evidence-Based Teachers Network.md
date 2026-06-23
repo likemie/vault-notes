@@ -44,7 +44,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2021 — Pellegrini & Vivanet 将 EBTN 归入欧洲证据传播组织，用来说明证据文化不只依赖研究中心，也依赖教师网络([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 实施情况

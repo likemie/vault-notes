@@ -61,7 +61,7 @@ updated: 2026-06-16
 
 ## 关键文件／声明
 
-> [!citation-card] AERO 董事会强硬问责声明
+> [!citation-card]- AERO 董事会强硬问责声明
 > “AERO 董事会强调其偏好全国权威的核心内容大纲。它认为任何非强制性的举措，都无法促使认证组和 ITE 项目开发者对这些教学实践建立一致的全国性理解。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > 
 > “The AERO Board highlighted a preference for authoritative national elaborations of core content. It argued that anything less would be insufficient to underpin consistent national understanding of these practices by accreditation panels and ITE program developers.” (Australian Government, 2023, p. 31)

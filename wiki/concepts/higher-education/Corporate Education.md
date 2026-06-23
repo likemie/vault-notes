@@ -75,7 +75,7 @@ updated: 2026-05-18
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **1990s 至今**：知识密集型经济的兴起和 MNCs 的全球扩张使企业教育成为全球化研究的重要主题([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.181]])
 > - **1990s**：第一所[[Corporate University|企业大学]]由美国通用汽车（General Motors）建立，随后被其他美国公司迅速采纳，但在欧洲遭遇更多争议([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.189]])
 > - **近年来**：MNCs 开始将培训外包给外部教育提供商，催生了庞大的全球企业培训市场。咨询公司和 IT 巨头（如 Microsoft、LinkedIn Learning）成为企业教育的关键参与者([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.190–193]])

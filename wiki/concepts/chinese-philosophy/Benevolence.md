@@ -73,7 +73,7 @@ updated: 2026-06-02
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **[[Confucius|孔子]]（551–479 BCE）**：奠定 ren 作为最高道德目标，强调**为仁由己**——追求 ren 是个人自主选择的终身志业([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：以[[Four Sprouts|四端]]说为 ren 提供人性论基础——恻隐之心 → 仁；羞恶之心 → 义；辞让之心 → [[Ritual Propriety|礼]]；是非之心 → 智([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43]])
 > - **[[Neo-Confucianism|宋明理学]]**：[[Cheng Brothers|程颢]]、程颐兄弟将 ren 与天理关联，认为循道即达仁。[[Zhu Xi|朱熹]]整合格物致知为达成仁的必要步骤([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-44]])

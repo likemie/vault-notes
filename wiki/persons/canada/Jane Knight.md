@@ -44,7 +44,7 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 ---
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 - 任职于多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, University of Toronto, Canada）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.50]])
 - 长期从事跨境高等教育、教育国际化和[[International Education Hubs|国际教育枢纽]]的比较研究
 

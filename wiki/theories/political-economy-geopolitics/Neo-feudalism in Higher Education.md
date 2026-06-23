@@ -79,7 +79,7 @@ updated: 2026-06-01
 
 ## 两种类型学
 
-> [!note]
+> [!note]-
 > Wieczorek, Beyer & Münch运用 Weber 式理想类型，区分了学术新封建主义的两种形态([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–806]])：
 
 | 维度 | 封地封建主义 (Fief Feudalism) | 俸禄封建主义 (Benefice Feudalism) |
@@ -93,7 +93,7 @@ updated: 2026-06-01
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - **1962 年**：[[Jürgen Habermas|Habermas]] 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
 > - **1984 年**：Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 ... Applied fuzzy match at line 48-112.

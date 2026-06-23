@@ -66,7 +66,7 @@ updated: '2026-06-08'
 
 ## 主要著作
 
-> [!note]
+> [!note]-
 > - Beech, J. (2006). The theme of educational transfer in comparative education: A view over time. *Research in Comparative and [[International Education]]*, 1(1), 2–13.
 > - Beech, J. (2009). Policy spaces, mobile discourses, and the definition of [[Educated Identity|educated identities]]. *Comparative Education*, 45(3), 347–364.
 > - Beech, J. (2011). *Global Panaceas, Local Realities: International Agencies and the Future of Education*. Peter Lang.

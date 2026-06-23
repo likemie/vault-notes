@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **后福特经济转型（1990s–）**：制造业向知识密集型服务经济转型，知识生命周期缩短，继续教育从边缘走向中心。Morris-Suzuki（1997）称之为"永久创新经济"中劳动力持续再技能化的必然要求([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
 > - **参与率持续攀升（2000s–）**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
 > - **微证书兴起（近年）**：继续教育的非学位属性催生了微证书（micro credentials）的繁荣，Kato et al.（2020）记录了替代性证书的快速增长([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])

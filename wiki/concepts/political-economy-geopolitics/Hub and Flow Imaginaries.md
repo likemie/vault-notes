@@ -85,7 +85,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 枢纽与流动想象的知识根基来自多条学术和政策脉络：
 
 - **Porter（1990）的[[National Competitive Advantage|国家竞争优势]]理论**：Porter 论证"竞争优势通过高度本地化的过程被创造和维持……国家价值、文化和制度深刻贡献于竞争成功"，这为 枢纽与流动想象提供了关键的学术表达([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])

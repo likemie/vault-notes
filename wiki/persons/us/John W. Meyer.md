@@ -46,7 +46,7 @@ updated: '2026-06-08'
 ---
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > 本章([[Argument_Zapp_2022_Springer|Zapp, 2022]])未提供 Meyer 的详细生平信息。以下仅记录从论文引用中可确认的关键信息：
 > - 长期任职于斯坦福大学社会学系
 > - 与 Francisco O. Ramirez、David P. Baker、Patricia Bromley、David John Frank 等学者形成斯坦福学派的核心研究网络

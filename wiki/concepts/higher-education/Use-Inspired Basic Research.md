@@ -57,7 +57,7 @@ updated: 2026-05-27
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 应用启发的[[Blue Skies Research|基础研究]]这一概念在 1980 年代后获得了日益重要的政策意义。随着冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落以及全球竞争加剧，政府和大学内部对"大学是否只应从事好奇心驱动的基础研究"这一问题出现了重新审视([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.38–39]])。
 
 > 这一时期见证了"对研究型大学的重要性的重新认识——大学不仅应追求基础研究，还应能够将发现导向社会用途，并开展更容易转化为应用的更应用型研究"（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。

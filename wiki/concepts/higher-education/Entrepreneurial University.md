@@ -70,7 +70,7 @@ updated: 2026-06-02
 
 ## 与学术资本主义的关系与张力
 
-> [!note]
+> [!note]-
 > 创业型大学与[[Academic Capitalism|学术资本主义]]（Slaughter & Leslie, 1997; Slaughter & Rhoades, 2004）高度重叠但分析层次不同([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])：
 >
 > - **创业型大学侧重组织形态**：关注大学内部的文化适应、组织重构和激励机制——大学如何像一个企业那样组织自身
@@ -91,7 +91,7 @@ updated: 2026-06-02
 - **激励兼容**：通过晋升与终身教职标准、知识产权收入分享等机制，使教师和学术单位有动力参与产业合作（p.52）
 - **战略整合**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述[[University-Industry Collaboration|产学合作]]的愿景（Hall & Lulich, 2021，转引自 p.52）
 
-> [!note]
+> [!note]-
 > 近年来大学显著扩展了其支持衍生企业创建和创业精神的基础设施投资([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.147-148]])：
 > - **新创企业支持团队**：大型大学通常在[[Technology Transfer Office|技术转移办公室]]内设立专门团队支持衍生企业，如 UCLA 技术开发组内的 New Ventures Group，或建设专门的孵化器如 Austin Technology Incubator（p.147）
 > - **[[Entrepreneur in Residence|驻校企业家]]（EIR）**：大学通过聘请全职驻校企业家支持多个衍生企业，或组建具有多元经验的兼职 EIR 团队，这种人才投资已成为帮助衍生企业跨越**从实验室到市场鸿沟**的有效策略（pp.147-148）

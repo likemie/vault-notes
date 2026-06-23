@@ -57,7 +57,7 @@ updated: 2026-05-27
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 变革转型[[Paradigm|范式]]的出现是对前两个[[Innovation Policy Paradigms|创新政策范式]]递进式批判的结果([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])：
 
 1. **范式一：科学促增长（1940s–1980s）**——以"科学→技术→增长"的线性模型为基础，政府角色是资助[[Blue Skies Research|基础研究]]以弥补市场失灵。其盲区：忽略了创新涉及多行动者的双向互动，隐性知识、[[Absorptive Capacity|吸收能力]]和制度环境同样关键

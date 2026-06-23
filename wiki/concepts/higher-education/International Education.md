@@ -63,12 +63,12 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]]追溯了国际教育从"教育的本地绑定"到"跨国教育市场"的演变。以下按主题维度分述，各维度内按时间排列。
 
 ### 学生流动：从小规模精英现象到大众化
 
-> [!note]
+> [!note]-
 > - 1978–2003 年，580,000 名中国本科和研究生赴美留学([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.17]])
 > - 截至 2006 年，全球超过 270 万大学生出国留学，且持续增长([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.1]])
 > - 2008 年，南亚和东亚（含中国）及印度次大陆学生占美国新入学国际学生的 61%([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 ### 评估框架：从国家考试到跨国比较
 
-> [!note]
+> [!note]-
 > - 教育传统上绑定于地方和国家——中小学由地方税收资助、课程反映本地选民的价值观([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.3–5]])
 > - 2000 年 [[OECD]] 启动 [[PISA]]，标志着各国不再生活在教育"茧"中——数十万 15 岁学生接受相同评估，结果跨国可比较([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.6–8]])
 > - 2003 年上海交通大学发布 [[Academic Ranking of World Universities|ARWU]]，大学排名从国家层面向全球层面跨越；此后 Times Higher Education（2004）、QS 等多个排名系统相继建立([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.10–11]])
@@ -85,7 +85,7 @@ updated: '2026-05-18'
 
 ### 机构扩张：国际学校与海外分校
 
-> [!note]
+> [!note]-
 > - [[International Schools|国际学校]]从殖民前哨站演变为面向全球精英的市场化机构：1964 年约 50 所 → 1994 年约 1,000 所 → 2005 年约 3,000 所、约 200 万学生([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]])
 > - [[International Baccalaureate|IB]] 课程成为"去国家化"课程方案的代表：2009 年覆盖 135 国、2,609 校、709,000 学生([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.27–28]])
 > - 21 世纪以来，美、澳、英、加大学在海外建综合性分校，如卡塔尔的 [[Education City Doha|多哈教育城]]([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.15–16]])

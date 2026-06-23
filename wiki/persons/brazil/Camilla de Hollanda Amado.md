@@ -41,7 +41,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 1941 年出生([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - 巴西著名女演员和剧场导演，在巴西剧场界享有体制性地位和认可([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - 与 [[Dell Delambre]] 共同创立 Bora Bora em Bando 项目，旨在为 Rocinha 贫民窟的剧场团体 Bando Cultural Favelados da Rocinha（由 [[Richard Castelo Branco]] 导演）争取社会可见度和文化认可([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])

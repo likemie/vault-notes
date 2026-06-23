@@ -44,7 +44,7 @@ updated: 2026-06-03
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **2008 年 3 月**：Intel 和 Microsoft 联合宣布启动通用并行计算研究中心（UPCRC），资助 UC Berkeley 和 UIUC 两所大学进行大规模并行编程[[Blue Skies Research|基础研究]]（Green, 2008，转引自 p.234）
 > - **2008–2013 年**：UPCRC 在两个站点运行，产出大量并行编程技术（如 Berkeley 的 Spark 和 Ray 等分布式计算框架的前身研究）
 > - **2012 年 10 月**：[[National Science Foundation|NSF]] 启动 XPS（Exploiting Parallelism and Scalability）项目，以政府资金接力和放大 Intel-Microsoft 的先期投入（p.235）
@@ -54,7 +54,7 @@ updated: 2026-06-03
 
 ## 企业内部的策略性调整
 
-> [!note]
+> [!note]-
 > UPCRC 的启动伴随着 Intel Labs 内部[[University-Industry Collaboration|产学合作]]组织形式的重大变革([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])：
 
 - **资助结构的集中化**：UPCRC 之前，Intel 的大学合作由多个分散的"研究理事会"按技术主题独立管理小额资助。研究理事会系统善于在已定义的研究领域内通过共识机制运作，但预算长期维持静态，无法回应行业结构的根本性变化。为启动 UPCRC 级别的大规模投资，Intel Labs 将研究理事会的大部分预算集中化，从全新的公司研究优先级评估出发重新分配

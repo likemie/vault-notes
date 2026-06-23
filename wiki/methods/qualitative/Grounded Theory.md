@@ -63,7 +63,7 @@ updated: 2026-05-30
 
 典型的扎根理论研究问题示例："在医院环境中，照顾者和病人如何互动？"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。这类问题聚焦于**过程**（process）和**互动**（interaction），反映扎根理论以生成理论解释过程为核心目标的方法论定位。
 
-> [!note] 研究问题的演变
+> [!note]- 研究问题的演变
 > 在扎根理论研究中，研究问题处于持续审查和重写的状态。这与[[Quantitative Research|量化研究]]中研究问题保持固定不变的惯例形成鲜明对比（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ## 方法变体与相近方法

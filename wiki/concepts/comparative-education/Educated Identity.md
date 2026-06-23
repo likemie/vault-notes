@@ -63,7 +63,7 @@ updated: 2026-06-06
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > **Lauwerys 时期（1960 年代）**。[[Joseph Lauwerys]] (1965) 以理解（Verstehen）的方式把握法国、英格兰、美国和苏联的理想受教育身份模型，这些模型作为世界[[Paradigm|范式]]具有影响力。此时受教育身份是学术性的文化理解努力([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **IEA 与 [[PISA]] 时期（1970 年代至今）**。受教育身份的概念从文化理解转向教育效率的测量。国际测试（IEA 研究、PISA）将受教育身份[[Operationalization|操作化]]为可量化的学习结果，从理解文化转向衡量效率([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。

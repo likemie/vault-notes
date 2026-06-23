@@ -46,7 +46,7 @@ Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会�
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 
 - 兰卡斯特大学社会学系教授([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 

@@ -38,10 +38,10 @@ updated: 2026-05-28
 
 ## 发展策略
 
-> [!note]
+> [!note]-
 > 科学中心最初利用非营利结构（nonprofit structure），创建了激励创业者之间关系发展的项目，在提供培训和资源获取的同时，聚焦费城本地的相对优势和资产。其核心理念是[[Asset Mapping|资产映射]]即关系建立（authentic relationship building）（pp.126–127）。
 
-> [!note]
+> [!note]-
 > 随后，科学中心建立了实体物理空间（physical footprint），在费城市中心将创业者、学者和产业伙伴集中到一个聚会场所（gathering place），进一步强化了关系密度和偶然相遇（serendipity）的机会（p.127）。
 
 ## 传播与沟通策略

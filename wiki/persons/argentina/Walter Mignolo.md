@@ -56,7 +56,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 1941 年出生于阿根廷
 > - 获阿根廷科尔多瓦国立大学哲学学士学位，后赴法国巴黎高等研究实践学院（École des Hautes Études）学习符号学，师从 Roland Barthes
 > - 长期任职于杜克大学，为 William H. Wannamaker 文学与文化研究教授，曾任杜克大学拉丁美洲与加勒比研究中心主任([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.50]])

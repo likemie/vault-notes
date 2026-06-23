@@ -91,6 +91,6 @@ Lamont（2012）概括的"[[Sociology of Valuation and Evaluation|评估与赋�
 
 ## 与新封建等级的关系
 
-> [!note]
+> [!note]-
 > 非货币竞争并不必然产生平等化的效果。相反，在向竞争和市场的转向中，现有等级往往被正式化和固化——而非松动。精英大学（Harvard, Princeton, Yale, Stanford, Berkeley）和非精英院校之间的差距在扩大而非缩小；全球知名研究教授享有非精英学院无法想象的优越条件和设施。非货币竞争与货币竞争共同作用，产生并加固了 [[Neo-feudalism in Higher Education|高等教育新封建主义]] 所描述的等级秩序([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])。
 

@@ -236,7 +236,7 @@ Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，�
 >
 > - **不加权平均**：Hattie 未对不同元分析的研究数量或质量进行任何加权——基于 2 项研究的元分析与基于 20 项研究的元分析在计算中等同对待（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 145]]）。
 
-> [!citation-card] Hattie：故事优先于数据
+> [!citation-card]- Hattie：故事优先于数据
 > 「当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。」
 >
 > 引自 [[Argument_OConnor_2020_AJLL|O'Connor (2020, p. 142)]]
@@ -290,10 +290,10 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 
 [[Argument_Terhart_2011_JCS|Terhart (2011)]], p. 436）比后来的批评者更早地识别了[[Meta-meta-analysis|元-元分析]]的根本问题——**信息在聚合层级间的系统性损失**：
 
-> [!citation-card] Terhart, 2011, p. 436
+> [!citation-card]- Terhart, 2011, p. 436
 > 「元分析是能够将来自复杂研究领域的结果或多或少地压缩的工具。如果一个领域已经有多个元分析怎么办？……一个更适当的策略是改变层次，组合元分析，尝试开发一个元-元分析（mega-analysis）。参照范围确实扩大了，但同时也变得更加复杂、混乱和充满不一致。此外，许多来自原始调查的信息丢失或被扭曲。通过反复累积，原始的详细经验信息消失。」
 
-> [!citation-card] Terhart, 2011, p. 436
+> [!citation-card]- Terhart, 2011, p. 436
 > 「当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？如果你这样做，这仍然可靠吗——还是你累积的越多……证据的稳健性就越降低？」
 
 **数据质量问题**：大多数元分析来自 1980s-1990s，基础数据"大概不是最新的"（p. 428）。Hattie "没有向读者提供关于他在决定某研究是否纳入元-元分析时使用的质量标准的准确信息"——而"通常元分析作者投入大量精力和努力讨论这个问题"（p. 429）。数据库的规模令人印象深刻，"但该数据库不同区域的质量非常异质"——从[[Experimental Research|实验研究]]到"较少控制的[[Survey Research|调查研究]]"（p. 429）。
@@ -304,7 +304,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 > - **稳定性假说**：许多因素的结果已如此稳定，进一步研究只会渐近逼近已知结论。"继续这个过程到什么时候才有意义？如果继续，进一步的努力只会导致对已知结果的渐近逼近"（p. 436）
 > - **变异性假说**：某些领域的发现已经过时——如 Hattie 关于教师教育影响的元-元分析在出版时已被新的、不同的研究结果超越（p. 436）
 
-> [!citation-card] Terhart, 2011, p. 436
+> [!citation-card]- Terhart, 2011, p. 436
 > 「由于他的元-元分析同时支持稳定性假说和变异性假说，很明显 Hattie 事实上没有找到研究学校、教学和教师的圣杯。」
 
 
@@ -333,7 +333,7 @@ Wecker 等人的检查方法具有严密的推导结构。因为 Hattie 明确�
 > - **(d) 偏差记录** 对照要求逐项记录偏差
 > - **(e) 可靠性评估** 评估偏差对效应量估计和可靠性结论的方向性影响
 
-> [!citation-card] Wecker et al., 2016, p. 23
+> [!citation-card]- Wecker et al., 2016, p. 23
 > 「从'VL'中给出的例子并不代表一种系统的方法，这是来自文本。相反，它们被选为示例，其方式是讲清楚。因此，我们通常不提供进一步的文件。」
 
 这意味着 Wecker 等人的检查是**基于示例的重构（example-based reconstruction）**而非对所有 800+ 元分析的全面再分析——这一点的[[Epistemology|认识论]]意义在于：所发现的缺陷是**系统性的模式证据**（systematic pattern evidence），而非穷尽的错误清单。
@@ -537,7 +537,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > - **已知但被抹去**：这些变量**已经在**一级元分析中作为发现被报告——Hattie 自己在各影响因素章节中"通常还处理调节变量的个体特征与效应大小之间的差异"（p. 31）
 > - **自我矛盾**：Hattie（2009, p. 9 ff.）本人指出了这个问题——却无法在其方法论框架内解决它
 
-> [!citation-card] Wecker et al., 2016, p. 31（citing Cooper & Koenka, 2012, p. 458）
+> [!citation-card]- Wecker et al., 2016, p. 31（citing Cooper & Koenka, 2012, p. 458）
 > 「在他的二级荟萃分析方法中，最终根本不可能将调节变量考虑在内，因为这些变量通常不会在同一主题的不同一级荟萃分析中统一[[Coding in Qualitative Research|编码]]。」
 
 > [!case] 调节变量被压缩的典型案例："游戏"主题
@@ -561,7 +561,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > - **需要一级数据**：正确做法是汇总所有一级元分析的主要研究数据进行综合元分析——但这需要原始数据，Hattie 未执行（pp. 32–33）
 
 **综合判断**（p. 33）：
-> [!citation-card] Wecker et al., 2016, p. 33
+> [!citation-card]- Wecker et al., 2016, p. 33
 > 「因此，不能从以这种方式确定的效果强度得出任何可靠的结论，这意味着影响因素之间的比较——正如有效性排名所建议的——具有误导性。」
 
 **（3）138 个影响因素的不可比性**（pp. 33–34）
@@ -577,7 +577,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > | 综合教学项目（[[Direct Instruction\|直接教学]]） | 与"传统"课程比较——存在共同参照点 | 排名相对有意义：可比较基线下的项目比较 |
 > | 设计参数变体（集中 vs. 分散练习） | 同一干预的两种变体相互比较 | 与"选哪种教学法"属完全不同的决策类型 |
 
-> [!citation-card] Wecker et al., 2016, p. 34
+> [!citation-card]- Wecker et al., 2016, p. 34
 > 「Hattie 的排名有点像德甲联赛，拜仁慕尼黑和汉堡 SV 在好日子和坏日子里都有一席之地。值得怀疑的是，教师是否必须在直接"教学"和分布式实践领域的计划之间做出明智的决定，而不是两者的最佳组合。」
 
 **（4）效果持续时间不可比**（p. 33）
@@ -638,7 +638,7 @@ Wecker 等人最终的可靠性判断是层次化的（pp. 34–36）：
 > - **"疾病"效应**：将癌症、糖尿病、镰刀型贫血症和消化问题合并为一个效应量
 > - **性别效应失真**：$d=0.12$ 偏向男孩——"这在魁北克或大多数工业化国家都不是事实"（p. 242）
 
-> [!citation-card] Bergeron & Rivard, 2017, p. 245
+> [!citation-card]- Bergeron & Rivard, 2017, p. 245
 > 「很明显 [[John Hattie]] 和他的团队既没有进行有效统计分析所需的知识，也没有所需的能力。任何人都不应该复制这种方法论，因为我们绝不能接受伪科学。」
 >
 > **解决方案**：在研究的每一步咨询统计学家。
@@ -719,7 +719,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 > - **分类峰值：学生 71.24%** 学校 65.97%、教师 51.01%、教学方法 50.65%、课程 41.95%、家庭 38.57%——**六大影响源全部超阈值**
 > - **Vσ 判读** <17% 绝对均匀；17–33% 充分均匀；35–40% 不够均匀；>40% 高震荡
 
-> [!citation-card] Golovchin, 2019, p. 239
+> [!citation-card]- Golovchin, 2019, p. 239
 > 「在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成。批评者关于元分析过程中缺乏数据控制的假设得到确认。」
 
 [[Argument_Golovchin_2019_ESC|Golovchin (2019, p. 236, Table 2)]]同时汇编了 10+ 位学者的批评，可归纳为六个维度：
@@ -764,7 +764,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 > - **[[Bildung]] 实质面的系统缺席** Hattie 仅发展了 Bildung 的形式理解，实质面（教育的具体内容）被完全忽略。全书仅抛出一句话："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p. 27），而后不再展开
 > - **课程章节的内容真空** 名为"课程"的章节读者"再次发现关于某些专门化教学方法及其[[Effect Size|效应量]]的报告"——内容问题、学科教学意义、课程决策的合法化依据，"被完全忽略"
 
-> [!citation-card] Terhart, 2011, p. 431
+> [!citation-card]- Terhart, 2011, p. 431
 > 「这可能是一个起点……但 Hattie 没有沿着这条可能的思路走下去。所以人们想知道：**肉在哪里？**」
 
 ### 教育乐观主义与浪漫化的教师理想
@@ -848,7 +848,7 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 
 **后果**：以 Popper 命名的教育理论服务于 Popper 的精确认识论对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。"我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界"。
 
-> [!citation-card] Rømer, 2018, p. 11
+> [!citation-card]- Rømer, 2018, p. 11
 > 「我们最终得到了一个没有教育、没有贝多芬交响乐、也没有事物和科学能量的世界。」
 
 ---
@@ -880,7 +880,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 >
 > Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念。作为 VL 的替代方案，Larsen 提出了具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–10]]）。
 
-> [!citation-card] Larsen, 2019, p. 9
+> [!citation-card]- Larsen, 2019, p. 9
 > *"教养（Bildung）远不只是教育。性格的形成无法被操作化或形式化……教养属于生活本身。它是自主的、自我目的性的，并拥有自身的理由——如艺术、喜悦与爱。"*
 > 
 > *"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."*
@@ -918,7 +918,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**[[Positivism|实证主义]]的遗产**（Nielsen & Klitmøller, 2021, pp. 81–82）：
 
-> [!citation-card] Schön, 1983, p. 31（引自 Nielsen & Klitmøller, 2021, p. 82）
+> [!citation-card]- Schön, 1983, p. 31（引自 Nielsen & Klitmøller, 2021, p. 82）
 > *"技术理性是实证主义的遗产。实证主义是一种强大的哲学学说，兴起于十九世纪，既是对科学与技术崛起的解释，也是一场旨在将科学与技术成就应用于人类福祉的社会运动。"*
 > 
 > *"Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."*
@@ -982,7 +982,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 **(2) VL 将教育实践转化为可管理和可控制的技术操作单元：**
 
-> [!citation-card] Nielsen & Klitmøller, 2021, p. 87
+> [!citation-card]- Nielsen & Klitmøller, 2021, p. 87
 > *"[[John Hattie|哈蒂]]将教学过程拆解为易于获取的技术性、零碎的输入与输出干预——这些干预可被层级化、控制与测量——恰恰满足了优化教育系统效率的需要。"*
 > 
 > *"Hattie's division of teaching sessions into easy accessible technical, piecemeal input and output interventions that can be hierarchized, controlled, and measured was just what was needed for optimizing the educational system's efficiency."*
@@ -991,7 +991,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 **(3) 关键洞察——承诺（promises）而非科学：**
 
-> [!citation-card] Nielsen & Klitmøller, 2021, p. 87
+> [!citation-card]- Nielsen & Klitmøller, 2021, p. 87
 > *"真正发挥作用的，并非哈蒂或循证运动所产生的科学发现或原始数据，而是嵌入技术理性理论中的、能够使教育系统获得合法性的承诺。"*
 > 
 > *"It was not the scientific discoveries or the original data produced by Hattie or the evidence-based movement in itself that made a difference but the promises embedded in the theory of technical rationality that could legitimize the educational system."*
@@ -1004,7 +1004,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 > [!critique] 第一重：学生和教师被原子化为变量
 >
->> [!citation-card] Nielsen & Klitmøller, 2021, p. 88
+>> [!citation-card]- Nielsen & Klitmøller, 2021, p. 88
 >> *"教育效应（效应量）的原子化，同时也成为将学生与教师原子化为若干变量的过程。"*
 >> 
 >> *"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables."*
@@ -1016,7 +1016,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 > [!critique] 第二重：学习目标被神圣化——封闭系统的创造
 >
->> [!citation-card] Nielsen & Klitmøller, 2021, pp. 88–89
+>> [!citation-card]- Nielsen & Klitmøller, 2021, pp. 88–89
 >> *"在哈蒂的VL理论中，教师必须借助反馈、前馈与前进，创造一种环境：学生在反馈系统所提供的强化机制作用下，将自身活动引向已预先制定的学习目标。这是一个封闭系统，其中学习目标使教学手段变得神圣不可质疑。"*
 >> 
 >> *"In Hattie's theory of visible learning, the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students, through the reinforcement that lies in the feedback system, direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching."*
@@ -1034,7 +1034,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 > [!conclusion] 总体诊断：意识形态功能
 > VL 的理论具有 **"意识形态功能"** ——使技术的、工具性的学习方法变得[[Doxa|不言自明]]和主导性的（Nielsen & Klitmøller, 2021, p. 89, citing Kvale, 1976, p. 106）。它不只是一套关于"什么有效"的技术说明——它是一种关于教育**应该是什么**的规范性论述，而这一论述使竞争性理解（如教育作为 [[Bildung]]、民主公民培养、个人意义探索）被边缘化。
 
-> [!citation-card] Nielsen & Klitmøller, 2021, p. 89
+> [!citation-card]- Nielsen & Klitmøller, 2021, p. 89
 > *"对于如何改善教学的研究，应从探究学校与教学在日常实践中如何运作开始——即研究学生、教师与家长为何以及如何参与教育实践。"*
 > 
 > *"The study of how teaching can be improved should begin with research on how schools and teaching are conducted in everyday practice, meaning researching how and why pupils, teachers, and parents participate in educational practice."*
@@ -1074,7 +1074,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 
 [[Argument_Terhart_2011_JCS|Terhart (2011, p. 434)]]从 Foucault 的角度对 Hattie 的"可见的教与学"模型做出了一个早期且尖锐的政治解读：
 
-> [!citation-card] Terhart, 2011, p. 434
+> [!citation-card]- Terhart, 2011, p. 434
 > “他将广泛的关于成功教与学的经验证据的解释引向一种现代化和精致的权威性、教师中心的教学概念。教师处于支配地位——但他必须以学生中心的方式驯化或隐藏其支配。传统的、公开的治理和支配形式已转变为一种精致的、不可见的、现代的形式。如果我们把它放在 Foucault 思想的语境中，这是显而易见的。”
 
 Hattie 本人也非常清楚地表明了这一点——他将互看、互见、互相被观察置于教与学理论的中心。Terhart 指出："这个理论的象征是眼睛"（p. 434, Figure 2）。这一 Foucault 式的解读比 McKnight & Whitburn（2020）的全景监狱批评早了近十年。
@@ -1171,7 +1171,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 [[Gerald Grace]]——*"「[[Critic and Conscience of Society]]」"*概念的原作者——在回应 Hattie (2010) 时指出，[[Visible Learning|VL]] 刻意将非学校因素排除在分析范围之外，这与其声称的 *"critic and conscience of society"* 角色存在根本矛盾（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 90]]）。
 
-> [!citation-card] Hattie, 2009, pp.viii–xi（引自 Grace, 2010, p. 90–91）
+> [!citation-card]- Hattie, 2009, pp.viii–xi（引自 Grace, 2010, p. 90–91）
 > *“许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这‘不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道。’”*
 
 > [!critique] Grace 的核心批评

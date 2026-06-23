@@ -47,7 +47,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2008 — TIER 作为荷兰跨大学研究所建立([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 实施情况

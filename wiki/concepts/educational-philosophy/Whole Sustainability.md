@@ -55,7 +55,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - Delambre 在 2014 年专著 *Sustentabilidade In-sustentável* 中从对 Rio+20 峰会可持续性概念的批判出发，初步形成了"整体可持续性"的问题意识([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105, 2014]])
 > - 在 2013–2020 年里约热内卢多案例实践中，Delambre 通过贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]等项目，观察到局部社区的"[[Life Power|生命力量]]"——那些被常规可持续性框架所排除的要素（记忆、口述传统、精神性、文化实践）——恰恰是社区维持存在意义连续性的关键资源。这一观察使"整体"的内涵从理论批判发展为经验性概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 109–110]])
 > - 2022 年随 [[Creative Tension of Sense]] 理论系统发表，在 Ch7 中以脚注形式给出正式定义([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])

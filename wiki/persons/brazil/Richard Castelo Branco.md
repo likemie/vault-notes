@@ -43,7 +43,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 在巴西里约热内卢生活和创作，为 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - 开发自创剧场方法 EspectAtor，以[[Epistemology of Resistance|抵抗认识论]]为核心，指导贫民窟居民通过表演讲述自身遭受的暴力创伤故事([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Branco, 2020]])
 > - 2020 年通过 YouTube 频道"Favelaflix"发布剧场作品([[Argument_Delambre_2022_Springer|Delambre, 2022, p.122, 参考书目 Branco, 2020]])

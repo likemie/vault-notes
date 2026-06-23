@@ -75,6 +75,6 @@ updated: 2026-06-01
 
 ## 在 Burton Clark 三角中的位置
 
-> [!note]
+> [!note]-
 > Angermuller（本条目来源）指出，学术行动者通过定位实践在 Burton Clark 的三角协调模型——国家权威、市场力量、[[Academic Oligarchy|专业寡头]]——中进行符号位置的持续协商。日常话语中的定位（"我是 [[National Science Foundation|NSF]] 资助的研究者"、"我在 state university 任教"）同时触达了三角的三个端点：国家（拨款机构）、市场（机构竞争地位）、专业寡头（学科内部的地位等级）([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–808]])。
 

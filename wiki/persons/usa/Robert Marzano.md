@@ -40,7 +40,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 1998年为美国中大陆地区教育实验室（McREL）发表理论驱动的[[Meta-meta-analysis|元综合]]报告
 > - 创办 Marzano Resources 教育咨询机构
 > - 长期从事教学策略、[[School Effectiveness|学校效能]]和教育[[Evaluation Research|评估研究]]

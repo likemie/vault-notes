@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 将高等教育国际化的理性演变分为两个阶段([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])：
 
 > [!note]- 理性演变

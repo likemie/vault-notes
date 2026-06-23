@@ -70,7 +70,7 @@ updated: 2026-06-02
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > 社会学习理论的发展涉及多位研究者的贡献：
 > - **1941** — Miller & Dollard 出版 *Social Learning and Imitation*，早期社会学习理论基础
 > - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable|变量]]（行为、期望、强化、心理情境）和社会学习公式

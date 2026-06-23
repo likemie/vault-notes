@@ -49,7 +49,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 1995 — EPPI-Centre 在 UCL Institute of Education 创建([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 > - 1999-2000 — 英国政府资助建立新的研究中心，EPPI-Centre 成为英国证据本位决策基础设施的一部分([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.31]])。
 

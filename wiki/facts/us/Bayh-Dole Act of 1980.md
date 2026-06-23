@@ -51,12 +51,12 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 - 大学须遵守知识产权管理的相关义务
 - 大学须与发明人分享知识产权收入
 
-> [!note]
+> [!note]-
 > 其中，要求大学等非营利机构将一部分许可费（royalties）分配给发明人这一条款，使大学研究者在知识产权收益方面与企业研究者产生了制度性差异：企业研究者通常不直接从许可费中分享收益。其后果是大学的知识产权政策必须明确承认发明人的权利，而任何[[University-Industry Collaboration|产学合作]]协议都必须尊重这一制度安排([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.264]])。
 
 ## 对大学知识产权政策的影响
 
-> [!note]
+> [!note]-
 在美国大学体系中，Bayh-Dole Act 产生了以下制度性影响（p.14）：
 
 - 美国大学的知识产权政策必须符合联邦要求
@@ -73,7 +73,7 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 
 ## 对产学合作的影响
 
-> [!note]
+> [!note]-
 Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
 
 1. 企业与大学的合同与拨款办公室协商赞助研究所产生的知识产权权利
@@ -86,7 +86,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 
 ## 在产学合作组织架构中的位置
 
-> [!note]
+> [!note]-
 > Boccanfuso & Hall（2025, p.52）将 Bayh-Dole Act 定位为政府塑造[[University-Industry Collaboration|产学合作]]制度环境的三大机制之一——与联邦资助项目（如 [[National Science Foundation|NSF]] 工程研究中心）和监管法规并列。在 [[Triple Helix|Triple Helix]] 框架中，Bayh-Dole Act 代表政府通过**立法**（而非通过资助或直接参与）来激活大学-产业链接的制度工具。
 
 该法案的一个直接组织后果是：大学必须在内部建立**专门的组织单位**来管理知识产权商业化——即[[Technology Transfer Office|技术转移办公室]]（TTOs）和赞助项目办公室（Sponsored Projects Offices）。正如 Boccanfuso & Hall（2025, pp.60–63）对 65 所大学的组织分析所示，这些办公室成为大学产学参与的基础设施单元，但它们的管辖范围天然局限在[[Knowledge Transfer|知识转移]]的**正式端**（专利、许可、合同），无法覆盖产学互动的全谱系（教育合作、学生实习、非正式[[Knowledge Exchange|知识交流]]等）。Bayh-Dole Act 因而既**促成了**大学的产学组织化，也**框定了**这种组织化的边界——技术转移办公室擅长管理知识产权交易，但[[Academic Engagement|学术参与]]（[[Academic Engagement#^industry-engagement|产学学术参与]]）的多样化和分散化特征超出了其制度能力。
@@ -97,7 +97,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 
 ## 在高等教育市场化中的角色
 
-> [!note]
+> [!note]-
 > [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.800–801)]]将 Bayh-Dole Act 定位为美国高等教育市场化的关键政策节点。1980 年代至 2000 年代之间，一系列立法——以 Bayh-Dole Act 为首——创造和强化了高等教育部门与更广泛市场经济的连接：
 
 - **知识产权的商业化通道**：Bayh-Dole Act 为联邦资助的研究成果开辟了从大学实验室到商业市场的合法路径。此前，联邦资助的发明归政府所有，商业化过程缓慢而复杂。Bayh-Dole Act 将所有权转移给大学，创造了对大学将研究成果商业化的制度激励
@@ -106,6 +106,6 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 
 ## 联邦研究资助的结构性变化
 
-> [!note]
+> [!note]-
 > Bayh-Dole Act 通过后，大学研究资助的来源结构发生了显著变化。联邦资助占大学研究支出的比例从 1991 年的约 70% 下降到 2021 年的不足 60%（AUTM, 2024, cited in [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.273]]）。与此同时，产业资金成为重要的替代来源——2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（p.273）。在这一背景下，Bayh-Dole Act 赋予大学的知识产权所有权愈发展现其战略价值：它使大学能够将联邦资助产生的研究成果转化为可向产业许可的资产，从而在联邦资金相对缩水的情况下维持研究体系的运转。
 

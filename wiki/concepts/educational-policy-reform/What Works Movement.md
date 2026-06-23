@@ -3,7 +3,7 @@ title: What Works Movement
 aliases:
   - 什么有效运动
   - 循证改革运动
-summary: 20世纪末兴起的教育政策取向，主张用随机对照试验等科学方法识别有效干预并推广，通过证据中介组织将研究发现转化为政策建议，但也因简化教育复杂性和服务私人利益而受到批评。
+summary: "20世纪末兴起的教育政策取向，主张用随机对照试验等科学方法识别有效干预并推广，通过证据中介组织将研究发现转化为政策建议，但也因简化教育复杂性和服务私人利益而受到批评。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 13
@@ -49,7 +49,7 @@ updated: 2026-06-06
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - 1990s 该运动在美国和英国兴起，强调用[[Randomised Controlled Trials|RCT]]等方法评估教育项目效果
 > - 2001 美国《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）将"scientifically based research"写入法律，标志该运动进入主流政策
 > - 2011 英国成立[[Education Endowment Foundation|教育捐赠基金会]]（EEF），成为该运动的制度化代表

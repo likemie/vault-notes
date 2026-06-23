@@ -62,7 +62,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - 社会博物馆学的国际理论源头可追溯至 1972 年智利圣地亚哥圆桌会议和 1984 年魁北克宣言——后者正式提出"新博物馆学"（new museology）概念，强调博物馆的社会角色
 > - 在巴西，Mário Moutinho (2007) 系统阐述了社会博物馆学的理论框架，Mário Chagas (2001) 在[[Ecomuseology|生态博物馆]]和社区博物馆实践中发展了其方法论
 > - [[Dell Delambre]] 在 2013–2020 年里约热内卢多案例实践中，将社会博物馆学和生态博物馆学作为 [[Ganz-Methode]] 的实证基础之一。这些案例展示了社区居民如何通过保存和讲述自身历史来承载与[[Official Knowledge|官方知识]]模式的张力([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 110]])

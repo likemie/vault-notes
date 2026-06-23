@@ -66,7 +66,7 @@ updated: 2026-05-31
 >
 > **历史 × 处理**：2020 年疫情期间进行的一项在线教学效果实验中，受试者（学生和教师）处于被迫远程教学的非常态下，对在线学习的态度和投入度与常态时期可能完全不同。该实验结果不能自动推广到"一切恢复正常"之后的情境。在后续时间点（如疫情结束后两年）复制研究，可以检验结果的时间稳定性。
 
-> [!note] 两种额外的效度威胁
+> [!note]- 两种额外的效度威胁
 > 除[[Internal Validity|内部效度]]和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
 > - **统计结论效度（Statistical Conclusion Validity）**：因统计功效不足或违反统计假设而导致研究者从数据中得出不准确的推论。
 > - **[[Construct Validity in Quantitative Measurement|构念效度]]威胁（Threats to [[Construct]] Validity）**：研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的[[Operationalization|操作化]]无法准确反映理论构念。

@@ -76,7 +76,7 @@ updated: 2026-06-08
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - **1950 年代末至 1960 年代**：Martin Wight 在伦敦政治经济学院（LSE）的系列讲座中提出三大传统框架，讲座内容于 1990 年代初由 Gabriele Wight 和 Brian Porter 整理出版为 International Theory: The Three Traditions（Wight, 1992）。
 > - **1970 年代至今**：三大传统成为英国学派（English School）国际理论的基础，由 Hedley Bull 等学者进一步发展和传播（Navari and Green, 2014）。
 > - **2023 年**：Klerides 将三大传统系统运用于比较教育领域，论证每个传统为比较教育带来了不同的"[[Agendas of Attention|注意力议程]]"（agendas of attention），分别产生现实主义、理性主义和[[Revolutionism|革命主义]]的比较教育形态([[Argument_Klerides_2023_CE|Klerides, 2023]])。

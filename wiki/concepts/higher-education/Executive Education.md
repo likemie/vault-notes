@@ -46,7 +46,7 @@ updated: 2026-05-30
 > [!info]
 > 高管教育（Executive Education）是大学面向在职专业人士提供的非学位短期培训项目。与传统学位 education 不同，高管教育的学员通常拥有多年行业经验，带着具体的工作挑战和技能提升需求参加课程。其典型形式包括开放式招生（open enrollment，学员按席位付费、来自不同机构）和定制化项目（bespoke programs，为特定组织的需求量身设计）([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-157]])。
 
-> [!note]
+> [!note]-
 > 高管教育的核心定位在于它处于大学与产业之间的“界面”（interface）。好的定制化项目能够有效地将核心研究和教育创新转化为实践，催生新的产业合作关系并巩固现有关系。这种定位使其区别于纯学术学位项目和纯企业内训。前者过于理论化、脱离实践节奏，后者缺乏研究前沿的深度和系统性（pp.155-156）。
 
 ---
@@ -94,7 +94,7 @@ updated: 2026-05-30
 
 ## 与产业合作的关系
 
-> [!note]
+> [!note]-
 > 高管教育在[[University-Industry Collaboration|产学合作]]生态中扮演多重角色。参见 [[University-Industry Collaboration]]。
 >
 > - **关系入口**：高管教育往往是大学与产业建立深度合作关系的起点。通过高管教育建立初步信任后，可能衍生出学生实习、研究资助、大学捐赠和更正式的合作（p.170）。

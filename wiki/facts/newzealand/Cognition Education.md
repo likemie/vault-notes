@@ -51,7 +51,7 @@ updated: '2026-05-23'
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - 1989 年 10 月：Multi Serve Education Trust 成立，承接奥克兰（Auckland）学校工资、运输和财务行政支持，是 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革的直接产物。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.66；Bates, 2017, p.11-12]])
 > - 1991 至 1996 年：组织在竞争性招标、短期工资合同和多次多元化失败中勉强维持生存，逐渐意识到单靠国内学校支持服务难以稳定成长。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.13-18]])
 > - 1997 至 2000 年代：通过 [[Jerudong International School Establishment]] 和后续卡塔尔（Qatar）、阿布扎比（Abu Dhabi）项目进入[[International Education|国际教育]]咨询与建校市场，组织规模和业务身份明显改变。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21-23, p.47-48]])

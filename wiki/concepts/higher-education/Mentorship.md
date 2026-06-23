@@ -83,7 +83,7 @@ updated: 2026-06-07
 
 ## 词源
 
-> [!note]
+> [!note]-
 > 导师（mentor）一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。mentoring 一词可能在 1778 年左右首次出现在美国（引自 Sandrone, 2025）。
 
 ---

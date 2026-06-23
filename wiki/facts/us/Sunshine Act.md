@@ -44,7 +44,7 @@ updated: 2026-06-03
 
 ## 公开机制
 
-> [!note]
+> [!note]-
 > 所有报告款项可通过公开支付数据库（Open Payments database）供公众查询。法律的核心目标是：通过信息公开增加透明度，从而防止[[Conflict of Interest in Research|利益冲突]]（p.208）。
 
 对于[[Clinical Trial|临床试验]]支付，存在一项重要例外：某些研究相关支付可申请延迟公开（delayed publication），以保护研究结果正式发表前的保密信息（pp.208–209）。这一例外平衡了透明度和产业方对专有数据的保护需求。

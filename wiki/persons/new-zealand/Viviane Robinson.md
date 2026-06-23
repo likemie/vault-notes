@@ -45,7 +45,7 @@ updated: 2026-06-09
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - **2007 年**：受邀在澳大利亚教育领导者理事会（ACEL）年会上发表威廉·沃克主题演讲（William Walker Oration），该报告随后在 ACEL 专题单行本中出版。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
 > - **2008 年**：发表于《教育行政季刊》（Educational Administration Quarterly, EAQ）上的论文《领导力对学生结果的影响：领导力类型差异效应分析》获得了该刊年度最佳论文威廉·戴维斯奖（William J. Davis Award）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
 

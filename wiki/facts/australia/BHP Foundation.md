@@ -55,7 +55,7 @@ updated: 2026-06-16
 
 ## 关键文件／声明
 
-> [!citation-card] [[Education Endowment Foundation|EEF]] 全球证据生态建设计划
+> [!citation-card]- [[Education Endowment Foundation|EEF]] 全球证据生态建设计划
 > - 资助英国 EEF 推动“在教学中构建全球证据生态系统”项目（EEF, 2024）。该项目旨在构建跨国标准化证据库，并将学校教学实践重新框定为可测量、可审计的企业理性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---

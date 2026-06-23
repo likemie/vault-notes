@@ -74,7 +74,7 @@ updated: 2026-06-08
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - **1974 年**：Carnoy 出版 Education as Cultural Imperialism，从依附论视角系统分析教育在殖民和新殖民秩序中的角色，提出"我们如何改变一个殖民人们接受被支配角色的社会"([[Argument_Klerides_2023_CE|Klerides, 2023, p.426]])。
 > - **1977 年**：Altbach 发表"Servitude of the Mind? Education, Dependency and Neo-Colonialism"，分析教育在生产和再生产"心灵的奴役"中的作用，论证依附论比较教育的使命在于帮助被压迫者"看见"教育在维持其从属地位中的角色（p.427）。
 > - **1978 年**：Altbach 和 Kelly 编辑 Education and Colonialism，汇集了依附论视角下的殖民教育研究。

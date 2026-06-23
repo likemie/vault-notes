@@ -61,7 +61,7 @@ updated: 2026-06-16
 
 ## 关键文件／声明
 
-> [!citation-card] ITE 强制认证附表要求
+> [!citation-card]- ITE 强制认证附表要求
 > “澳大利亚教学与[[School Leadership|学校领导力]]协会将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 5]])
 > 
 > “The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should teach and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)

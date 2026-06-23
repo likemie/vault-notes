@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - 1974 Wallerstein 出版 *The Modern World-System I*，提出世界体系理论的核心框架
 > - 1976 Wallerstein 在 *Review* 期刊中系统阐述零和剩余假设
 > - 2006 Wallerstein 在 *World-Systems Analysis* 中重申核心命题，但已开始受到中国、印度等国家经济崛起的挑战

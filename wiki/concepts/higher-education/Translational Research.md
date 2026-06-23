@@ -63,7 +63,7 @@ updated: 2026-06-03
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 转化研究最初在生物医学领域被广泛使用（"bench to bedside"），指将实验室发现转化为临床治疗方法。在[[University-Industry Collaboration|产学合作]]语境中，这一概念被扩展到更广泛的技术领域，强调从学术研究到工业产品的"[[Valley of Death|死亡之谷]]"（valley of death）。
 
 IBM 自身的经验揭示了转化研究的挑战：尽管在 1990–2020 年间连续近三十年位居美国专利数量榜首，但专利领导力并未匹配同等的产品创新成功。部分原因在于研究部门博士与学士/硕士的比例长期保持在 70/30，缺少足够数量的工程师来承担转化工作。近年 IBM 研究部门刻意将比例调整为接近 50/50([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, p.95]])。

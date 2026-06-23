@@ -61,7 +61,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 追溯了跨国研究合作的网络化转型：从传统的双边学术交流模式转向基于 Castells (1996) [[Network Society|网络社会]]逻辑和 Benkler (2006)"网络财富"的多节点、多层次协作网络。这一转型不仅改变了合作的技术形式，更重组了驱动合作的利益结构——个体、机构和国家的利益被融合进同一套合作话语之中([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])。
 
 ## 核心要素

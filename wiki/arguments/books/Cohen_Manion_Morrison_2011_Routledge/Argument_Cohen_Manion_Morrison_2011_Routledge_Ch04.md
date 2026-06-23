@@ -419,7 +419,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 
 #### 原因效果的掩盖与方向反转
 
-> [!note] 案例6：头痛药——被掩盖的因果效应
+> [!note]- 案例6：头痛药——被掩盖的因果效应
 > 服用头痛药后头痛反而加剧，这并不等于药物无效，因为不服用的话头痛可能会更严重。某些原因的效果可能被其他原因的存在所**掩盖**（masked），但因果性仍在发生（p.68）。
 
 > [!line-a] 案例7：吸烟-运动-心脏病的因果悖论（Morrison, 2009, p. 45;Hitchcock, 2002, p. 9）
@@ -835,28 +835,28 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 
 ## 关键引用
 
-> [!citation-card] 论[[Causality|因果性]]的概率本质
+> [!citation-card]- 论[[Causality|因果性]]的概率本质
 > 原因通常提高其效果的可能性，而不是保证它们。（Mellor, 1995, pp. 69–70）
 >
 > *Causes often raise the likelihood of their effects rather than guaranteeing them.*
 
-> [!citation-card] [[Causal Over-determination|因果过度决定]]的定义
+> [!citation-card]- [[Causal Over-determination|因果过度决定]]的定义
 > 因果过度决定是指一个特定效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果。（p.63）
 >
 > *Causal over-determination is "where a particular effect is the outcome of more than one cause, each of which, in itself, would have been sufficient to have produced the effect".* (Morrison, 2009, p. 51)
 
-> [!citation-card] 论因果关系不能简化为统计
+> [!citation-card]- 论因果关系不能简化为统计
 > 统计，无论是推断统计还是[[Descriptive Analysis|描述统计]]，能表明有力的关系，但未必能建立明确、直接的因果性；它们能确定因果的是什么（what）但不能确定如何（how）。因果性存在于支撑模型的**理论前提和假设**之中，统计的角色是确认、挑战、扩展和完善这些前提和假设。是因果**机制**而非数字和统计解释，才是因果研究的核心关切。
 
-> [!citation-card] 论超越什么有效
+> [!citation-card]- 论超越什么有效
 > 判断什么有效（what works）既是价值判断和判断力的问题，也是[[Causality|因果性]]的经验结果的问题。成功是一种价值判断，而不只是一种测量或表现。更恰切的问题应是：什么对谁有效、在什么条件下、根据什么标准、有什么伦理可辩护性、对参与者有什么后果？（p.79）
 
-> [!citation-card] 论因果研究中的随机性
+> [!citation-card]- 论因果研究中的随机性
 > 研究者需要学会在一个随机性经常'胜过'因果性的情境中与因果性共事。（p.94）
 >
 > *Learning to work with causation in a situation in which randomness often "trumps" causation.* (Gorard, 2001a, p. 21)
 
-> [!citation-card] 论[[Rashomon Effect|罗生门效应]]中的真理困境
+> [!citation-card]- 论[[Rashomon Effect|罗生门效应]]中的真理困境
 > 真理在[[Epistemology|认识论]]、感知和动机的泥沼中沉没。（pp.72–73）
 >
 > *Truth flounders in the quagmire of epistemology, perception and motives.*

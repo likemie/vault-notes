@@ -77,12 +77,12 @@ updated: '2026-06-19'
 > [!claim] 核心主张
 > 元分析的本质是通过将效应量标准化为通用度量，在变异中寻找规律。其研究宗旨不仅在于跨越不同测量工具、样本背景和干预强度的限制来科学合并独立研究，更在于完整呈现效果的分布状况（即展示变异性的图表），通过探索苹果与橙子的差异来实现真正的科学推论。元分析的目的绝不应是追求单一的平均效应量，将其简化为 “追求均值的数字排行” 违背了方法论的初衷。
 
-> [!citation-card] 混合苹果与橙子的科学辩护
+> [!citation-card]- 混合苹果与橙子的科学辩护
 > 当然它混合了苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
 >
 > Of course it mixes apples and oranges; in the study of fruit nothing else is sensible; comparing apples and oranges is the only endeavor worthy of true scientists; comparing apples to apples is trivial.
 
-> [!citation-card] 元分析结果的图表化警示
+> [!citation-card]- 元分析结果的图表化警示
 > 元分析的结果永远不应该是平均值；它应该是一张图表。 —— 罗宾逊（Robinson, 2004, p. 29）引自 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])
 >
 > The result of a meta-analysis should never be an average; it should be a graph.

@@ -55,7 +55,7 @@ updated: 2026-05-30
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 第三使命的制度化经历了几个关键阶段([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.38–44]])：
 
 - **1800s**：许多后来成为顶尖研究型大学的机构（如 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特、MIT、帝国理工等）在创立之初就具有服务工业和地方经济的使命——第三使命并非全新现象，而是有其深厚历史根源（Martin, 2012）（pp.37–38）。
@@ -69,7 +69,7 @@ updated: 2026-05-30
 
 ## 国际比较
 
-> [!note]
+> [!note]-
 > **英国**：第三使命的定义较广，不局限于[[Technology Transfer|技术转移]]，而是涵盖[[Knowledge Exchange|知识交流]]的所有途径。关键制度创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学能够进行系统性能力建设([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])。
 
 > **美国**：第三使命更多通过特定立法和项目推动，如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）、[[National Science Foundation|NSF]] 工程研究中心（ERC）和[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目（1980s）、以及 2022 年 [[CHIPS and Science Act]] 和新设的 NSF 技术创新与伙伴关系局（Technology, Innovation and Partnerships Directorate）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.39–40, 44]])。

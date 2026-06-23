@@ -230,7 +230,7 @@ citation_aliases:
 > | **儒家的适用范围** | 普遍适用、应当无条件尊崇 | 具有人类中心主义与精神关怀匮乏等局限性 |
 > | **“中国性”的定义** | 高度等同于汉族及其儒家传统 | 必须具备多元、开放、包容差异的特征 |
 
-> [!note] 结构性矛盾的现实后果
+> [!note]- 结构性矛盾的现实后果
 > 这种断裂深刻揭示了单一文化教育在多元社会中的结构性矛盾。国家民族主义对内压制多样性。官方儒家叙事强制要求所有少数民族尊崇儒家，实际加剧了[[Cultural Disembedding|文化脱嵌]]（[[Cultural Disembedding]]）和群体疏离。
 
 中国教育[[Paradigm|范式]]朝向更多元包容方向转变的规范性主张随之确立。儒学教学亟待容纳更世界主义的解读视角。2017年以来的政治与教育发展实际走向了更民族主义、更同化主义和更汉人中心的相反路径。
@@ -257,22 +257,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card] [[Official Knowledge|官方知识]]的文化等级效应
+> [!citation-card]- [[Official Knowledge|官方知识]]的文化等级效应
 > 对儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级 (p.59)。
 >
 > The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.
 
-> [!citation-card] 边缘学生的重新定位
+> [!citation-card]- 边缘学生的重新定位
 > 学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统可以从其他文化的批判性反思中获益 (p.59)。
 >
 > The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.
 
-> [!citation-card] 文化排斥与不平等
+> [!citation-card]- 文化排斥与不平等
 > 文化排斥延续了少数民族的不平等 (Yi 2008, p.1, cited on p.62)。
 >
 > Cultural exclusion perpetuates ethnic minority inequality.
 
-> [!citation-card] 单一汉文化叙事的后果
+> [!citation-card]- 单一汉文化叙事的后果
 > 官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离 (p.71)。
 >
 > The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.

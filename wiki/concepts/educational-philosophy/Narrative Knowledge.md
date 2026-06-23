@@ -51,7 +51,7 @@ updated: 2026-05-18
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 叙事知识的概念经历了从 Lyotard 的哲学区分到 Partaken 的 [[Geopolitics of Knowledge|GPK]] 诊断工具的演变：
 > - **Lyotard (1979) 的原始区分**：在《后现代状况》中，Lyotard 将知识区分为叙事知识（narrative knowledge）与科学知识（scientific knowledge）。叙事知识涵盖传统社会中通过叙事传递的社会规范、价值判断和合法性原则；科学知识则依赖经验验证、可重复性和[[Falsification|证伪]]逻辑。后现代状况的核心特征是对元叙事（metanarratives）的怀疑——"简化到极致，我将后现代定义为对元叙事的怀疑"（Lyotard, 1979/1984, p.xxiv）([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71, 74]])
 > - **Lyotard 晚期的发展话语批判**：Lyotard（1988/1991）进一步论证"发展"已成为当代主导意识形态——一种"不需要终极目的的准形而上学"，"不依附于类似理性和人类自由解放的理念"，因而是"非人的"（Lyotard, 1988/1991, p.7; 引自 Partaken, 2022, p.84）

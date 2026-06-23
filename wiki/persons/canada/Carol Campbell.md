@@ -68,7 +68,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 任多伦多大学安大略教育研究院教授，研究集中于教育领导力、系统改革和[[Research Utilization|研究使用]]。
 > - 参与并推动安大略省 KNAER 等系统层面的研究-实践合作项目([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 > - **2017** 年与 [[Julie Nelson]] 共同编辑 [[Evidence-Informed Practice|EIP]] 特刊，将证据知情实践讨论系统化。

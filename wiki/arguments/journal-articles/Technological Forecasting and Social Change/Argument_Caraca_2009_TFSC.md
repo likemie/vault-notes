@@ -289,27 +289,27 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 ## 关键引用
 
-> [!citation-card] 创新倒逼科学创造
+> [!citation-card]- 创新倒逼科学创造
 > 在一幅完整的图景中，我们必须承认不仅创新依赖于科学，而且创新的需求往往迫使科学被创造出来（Kline & Rosenberg, 1986, p.287, 引自 p.863）。
 >
 > In a complete picture we must recognize not only that innovation draws on science, but also that the demands of innovation often force the creation of science.
 
-> [!citation-card] 科学在创新各环节按需使用
+> [!citation-card]- 科学在创新各环节按需使用
 > 科学倾向于在创新中央链条的所有环节中被按需使用（Kline & Rosenberg, 1986, 引自 p.866）。
 >
 > Science tends to be employed at all points of the central-chain-of-innovation, as needed.
 
-> [!citation-card] 将大学和[[Blue Skies Research|基础研究]]从属于市场或政治指令是错误的
+> [!citation-card]- 将大学和[[Blue Skies Research|基础研究]]从属于市场或政治指令是错误的
 > 将大学和基础研究置于市场或政治指令之下是错误的。它破坏了创新过程的长期可持续性，并且忽视了创新过程中最重要的瓶颈可能与不支持面向市场和生产的经验型学习的组织形式有关 (p.867)。
 >
 > It would be a mistake to use this as an argument to make universities and basic research subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.
 
-> [!citation-card] 大学需要更宽的知识带宽
+> [!citation-card]- 大学需要更宽的知识带宽
 > 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销创造力 (p.866)。
 >
 > If universities are to interact with such an evolving innovation process then they have to develop a broader knowledge bandwidth. This means gathering better organizational insights and marketing creativity without divesting from excellence in teaching and fundamental scientific research.
 
-> [!citation-card] 基础研究必须是研究型大学的首要任务
+> [!citation-card]- 基础研究必须是研究型大学的首要任务
 > 无论商业诱惑多大，基础研究——新知识的发现——必须始终是任何研究型大学的首要任务（Theodor W. Hänsch, 2005 年诺贝尔物理学奖得主, 引自 p.866）。
 >
 > For all the commercial temptations, however, basic research – the discovery of new knowledge – must remain top priority for any research university.

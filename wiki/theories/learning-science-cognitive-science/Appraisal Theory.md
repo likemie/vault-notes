@@ -55,7 +55,7 @@ updated: 2026-06-19
 > [!claim] 核心主张
 > 情绪不是对外部事件的直接生理反应，而是经过认知评估中介的过程。个体在体验到任何情绪之前，必须先对事件进行评估以确定其对自身的关联性和重要性；此外，文化并非仅影响情绪的最终表达，而是全面参与情绪生成的七个阶段。([[Argument_Li_2012_Cambridge|Li, 2012, p. 54]])
 
-> [!citation-card] 关键表述
+> [!citation-card]- 关键表述
 > 为了让我们体验到任何情绪，在情绪产生之前，我们会先用大脑对事件进行评估，以确定其对我们自身的关联性和重要性。([[Argument_Li_2012_Cambridge|Li, 2012, p. 54]])
 >
 > In order for us to experience any emotion, we use our mind to appraise the event to determine its relevance and importance to ourselves before our emotions are generated.

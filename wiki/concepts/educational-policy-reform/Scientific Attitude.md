@@ -60,7 +60,7 @@ updated: 2026-05-26
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 科学态度的兴起不是一个孤立的概念替换事件，而是[[New Education Movement|新教育运动]]在特定社会政治条件下的一次[[Paradigm|范式转换]]([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–621]])：
 
 > [!note]- 分期

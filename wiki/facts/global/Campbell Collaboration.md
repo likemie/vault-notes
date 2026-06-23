@@ -2,7 +2,7 @@
 title: Campbell Collaboration
 aliases:
   - 坎贝尔协作组织
-summary: 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
+summary: "2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。"
 type: fact
 subtype: policy
 region: global
@@ -45,7 +45,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 1999 — 伦敦会议提出为社会科学建立类似 Cochrane Collaboration 的综述中心，会议有来自四国的 80 人参加([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
 > - 2000 — Campbell Collaboration 成立([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
 > - 2007 — 国际 Campbell Collaboration 将主办公室迁至挪威，并由 Norwegian Institute of Public Health 提供资助([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。

@@ -65,7 +65,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note] 生平与职涯
+> [!note]- 生平与职涯
 > - 任 SePU、Høgskolen i Hedmark 教授，活跃于学校改进、学习环境与教育实践改革议题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。
 > - **2015** 年在 *Paideia* 发表 [[Argument_Nordahl_2015_Paideia]]，系统论证为何斯堪的纳维亚教育系统应以学习结果与研究证据作为改进基准([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–69]])。
 > - 同年所参与的 [[Argument_Hansen_2015_Paideia]] 导言把他的文章放在主题号的系统改进位置，用来支撑“[[Visible Learning]] 不只是研究结果，也是一种学校改进工程起点”的总体编排([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]])。

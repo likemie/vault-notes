@@ -88,7 +88,7 @@ updated: 2026-06-08
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 注意力议程的概念根植于 Wight 的三大传统框架，但 Klerides（2023）将其从[[Wight's Three Traditions of International Theory|国际关系理论]]引入比较教育领域。在比较教育中，这一概念的独特贡献在于：它不仅描述比较教育的不同形态，还揭示了这些形态之间的"[[Epistemology|认识论]]张力"（epistemological tensions）和"认识论的混合"（intermixing of epistemologies）（p.431）。
 
 Klerides 进一步指出，三大传统通过注意力议程帮助理解比较教育的不同开端、连续性与断裂、在场与缺席，进而揭示学术工作"在历史和政治上再生产或反对谁的权力"（p.431）。

@@ -115,7 +115,7 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 
 ### 实施现状
 
-> [!note]
+> [!note]-
 > - **工具类型**：形式多样——有的侧重兴趣和期望问卷，有的包含认知能力测试；近年出现整合平台如 [OSA-Portal](https://www.osa-portal.de)
 > - **核心开发者**：大学自行开发和维护（如 TU Braunschweig 的 Fit4TU、TU Berlin 的 T2-SCA），部分与商业公司合作（如 CYQUEST）
 > - **质量参差**：仅 61% 的分析测试得到了充分评估(Thiele & Kauffeld, 2019b, p.127; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])

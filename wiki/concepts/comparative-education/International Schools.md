@@ -52,17 +52,17 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 国际学校的性质和规模在过去四十年间经历了根本性转变([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.19–26]])。
 
 ### 殖民时期：国家前哨站
 
-> [!note]
+> [!note]-
 > 国际学校最初是殖民前哨站——英国人在香港建英式学校教英国孩子，法式、德式、美式同理。1960 年约 70% 的学生来自学校创始国的公务员、传教士和商人家庭([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.24]])。课程完全锁定于母国——如加拿大国际学校（香港）设有安大略省公民课([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。
 
 ### 规模爆炸：41 年增长 60 倍
 
-> [!note]
+> [!note]-
 > - **1964 年**：全球仅约 50 所国际学校([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]])
 > - **1994 年**：约 1,000 所、教师 5 万、学生 50 万（Hayden & Thompson, 1998, p.333，转引自 Slethaug, 2010, p.22）
 > - **2005 年**：约 3,000 所、约 200 万学生（Greenlees, 2006，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]]）
@@ -70,7 +70,7 @@ updated: '2026-05-18'
 
 ### 去国家化：学生构成的根本逆转
 
-> [!note]
+> [!note]-
 > 殖民体系瓦解后，国际学校失去了原有的生源基础，但全球化创造了新需求：本地富裕家庭想要"通往西方大学的护照"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.23–25]])：
 > - 创始国学生比例从 **70%**（1960）降至 **30%**（2005）([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.24]])
 > - 以布鲁塞尔国际学校为例：十年前 70% 为美国学生，如今仅 29%；雇主支付学费比例从 98% 降至 89%（Conlin, 2006, p.11，转引自 Slethaug, 2010, p.24）

@@ -45,7 +45,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2015 — Swedish Institute for Educational Research 建立([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 实施情况

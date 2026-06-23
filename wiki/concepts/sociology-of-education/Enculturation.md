@@ -110,7 +110,7 @@ updated: '2026-05-25'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 濡化概念源于人类学对文化传递的长期研究。LeVine（1990）从生物社会视角（biosocial perspective）阐述了濡化如何塑造自我发展——他将文化传递嵌入人类生物进化与儿童发展的交叉点。
 
 Harkness & Super（1992）进一步提出了"发展生态位"（developmental niche）框架，将濡化机制[[Operationalization|操作化]]为三个相互作用的环境层次：

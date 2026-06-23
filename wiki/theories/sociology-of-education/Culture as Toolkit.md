@@ -89,7 +89,7 @@ updated: 2026-06-02
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - **1986 [[Paradigm|范式]]挑战**：Swidler 在 *ASR* 发表 Culture in Action: Symbols and Strategies，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Swidler, 1986）。
 > - **1992 补充论证**：Sewell 在 *AJS* 上进一步论证文化图式的可迁移性和可推广性，强化了工具箱范式的理论基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Sewell, 1992）。
 > - **2009 Vaisey 调和**：Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。

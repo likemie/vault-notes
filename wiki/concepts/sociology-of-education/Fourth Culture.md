@@ -49,7 +49,7 @@ updated: '2026-05-18'
 
 ## 在香港国际学校中的应用
 
-> [!note]
+> [!note]-
 > Jabal 将这一概念应用于分析香港 [[International Schools|国际学校]]中的 [[Chinese Learner|中国学习者]]([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])。这些学生在自己的家乡城市就读国际学校，制造了 Jabal 所称的"调适复杂性"（adaptive complexities）——学生在学校情境中的价值观、信念、期望、行为与规范，可能与学校中其他外籍群体以及学校本身的运作方式存在显著张力([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])。
 
 > [!example]

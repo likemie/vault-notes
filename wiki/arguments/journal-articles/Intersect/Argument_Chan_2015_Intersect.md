@@ -299,32 +299,32 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ---
 ## 关键引用
 
-> [!citation-card] [[Soviet Statism|国家主义]]定义
+> [!citation-card]- [[Soviet Statism|国家主义]]定义
 > 国家主义社会系统是围绕国家机器权力持有者对社会所生产的经济剩余的占有而组织起来的。（p.3）
 >
 > Original: A statist social system is one organized around the appropriation of the economic surplus produced in a society by the holders of power in the state apparatus.
 
-> [!citation-card] [[Informationalization|信息化]]定义
+> [!citation-card]- [[Informationalization|信息化]]定义
 > 信息化是一种发展模式，其主要生产力来源在于基于知识和信息优化生产要素组合与使用的质化能力。（p.7）
 >
 > Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
 
-> [!citation-card] [[Military-Industrial Black Hole|军工黑洞]]
+> [!citation-card]- [[Military-Industrial Black Hole|军工黑洞]]
 > 将其全部研究能力导向使苏联成为一台全面战争机器的极其狭隘的目标，苏联军事工业部门变成了一个黑洞，从苏联经济中吸走了巨大的生产力和创造力。（p.4）
 >
 > Original: In directing all of its research capacities toward the extremely narrow goal of making the Soviet Union a total war machine, the Soviet military-industrial sector became a black hole that sucked away massive productive and creative energies from the Soviet economy.
 
-> [!citation-card] 信息自由流动是信息化的核心前提
+> [!citation-card]- 信息自由流动是信息化的核心前提
 > 信息自由流动是任何想要参与信息革命的经济体的基本前提。（p.7）
 >
 > Original: The free [[Flow]] of information is an essential prerequisite for any economy that wants to be part of the information revolution.
 
-> [!citation-card] 拉链效应：苏联经济的垂直结构
+> [!citation-card]- 拉链效应：苏联经济的垂直结构
 > 整个苏联经济是一台由庞大官僚机构的垂直行政决策推动的巨型机器，拥有无数计划机构、执行部门和生产单位。因此，机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定。（p.8）
 >
 > Original: The whole Soviet economy was a gargantuan piece of machinery moved by the vertical administrative decisions of a massive bureaucracy with countless planning institutions, ministries of execution, and production units. As a result, few horizontal links existed across agencies, and exchanges were pre-established by respective parent administrations.
 
-> [!citation-card] [[Akademgorodok]] 的结局
+> [!citation-card]- [[Akademgorodok]] 的结局
 > 这个有前途的西伯利亚科学城变成了日益吱吱作响的苏联工业机器中的又一个齿轮。（p.9）
 >
 > Original: The promising Siberian science city became just another cog in an increasingly creaky Soviet industrial machine.

@@ -62,7 +62,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **1979 提出**：Collins 在 *The Credential Society* 中提出文凭通胀概念，论证教育扩张并不一定促进社会流动，反而可能导致文凭的交换价值缩水（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Collins, 1979）
 > - **2003–2004 [[Employability|就业力]]转向**：Brown & Hesketh 将文凭通胀的逻辑延伸至就业力分析——当硬通货缩水，软实力成为新的竞争维度，"就业力的个人化"由此兴起（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003, 2004）
 > - **2023 中国经验数据**：[[Yajun Zheng|郑雅君]]以中国 1999 年扩招以来的数据验证文凭通胀的逻辑——2011–2020 年间中国高等教育毕业生累计约一亿人，普通高校毕业生约 7000 万人([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])

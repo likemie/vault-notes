@@ -43,7 +43,7 @@ updated: 2026-05-25
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - 传统跨文化研究长期由 etic 视角主导，尤其体现为以西方科学[[Paradigm|范式]]为模板的理论驱动、假设检验式研究模式([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
 > - 人类学研究率先系统性地引入了 emic 视角，由此极大增进了对世界各文化内在逻辑的理解([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]]在研究中国与欧美学习信念差异时，有意识地采用 emic 视角作为方法论基础，借助 [[Prototype Methods]] 和 [[Cultural Models]] 等人类学方法，获取中英文母语者对学习的自由联想词汇，并通过聚类分析生成文化层面的学习模型([[Argument_Li_2012_Cambridge|Li, 2012, p.77-85]])。

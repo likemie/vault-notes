@@ -57,7 +57,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **Nagel (1998) 的原始论证**：Nagel 在 Concealment and Exposure 中将隐藏-暴露的边界控制定位为人性的核心属性——人类主体性的构成部分在于有能力决定向谁、在什么条件下揭示自己。这一论证最初面向个人隐私的[[Philosophical Analysis in Education|哲学分析]]([[Argument_Partaken_2022_Springer|Partaken, 2022, p.80]])。
 > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]] 的 [[Geopolitics of Knowledge|GPK]] 应用**：Partaken 将 Nagel 的个人层面分析提升至国家层面——在 GPK 中，国家不仅管理个人的隐藏与暴露（通过监视和审查），而且自身也操作隐藏与暴露（通过信息战、破坏和宣传）。Partaken 在间谍（获取知识）和破坏（摧毁知识）之间插入此框架作为理论过渡，论证监视、审查和破坏都依赖隐藏-暴露的二元逻辑运作([[Argument_Partaken_2022_Springer|Partaken, 2022, p.80–83]])。
 ... Applied fuzzy match at line 39-78.

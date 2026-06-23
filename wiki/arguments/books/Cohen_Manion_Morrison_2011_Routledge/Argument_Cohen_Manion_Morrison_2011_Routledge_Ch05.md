@@ -272,7 +272,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > - **如果参与者拒绝**：不应被追问、其行为不应被记录、不应被纳入任何书或文章（即使使用化名）。如果他们是群体的一部分，可以作为集体的一部分被纳入
 > - **拒绝可能源于不信任**：在研究者能与群体建立更强的融洽关系后，最初拒绝的人可以在稍后日期再次被接触，可能私下进行
 
-> [!note] 两类需要特别关注的儿童群体
+> [!note]- 两类需要特别关注的儿童群体
 >
 > **非常年幼的儿童（学前/托儿所）**：研究者可能因其年龄而放弃征求知情同意的想法，但 Fine & Sandstrom (1988) 建议即使如此也应给予某种解释。例如，告知"一个大人会看着他们并和他们一起玩"可能足以提供与儿童理解力一致的知情同意程度。正如他们评论："应该尽可能多地告诉儿童，即使他们中的一些人无法理解完整的解释。他们的年龄不应削弱他们的权利，尽管在分享给他们的解释中必须考虑他们的理解水平"（p.81）。
 >
@@ -1205,47 +1205,47 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 
 ## 关键引用
 
-> [!citation-card] [[Informed Consent|知情同意]]的定义（Diener & Crandall）
+> [!citation-card]- [[Informed Consent|知情同意]]的定义（Diener & Crandall）
 > 知情同意是"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（p.77）。
 >
 > Informed consent is 'the procedures in which individuals choose whether to participate in an investigation after being informed of facts that would be likely to influence their decisions' (Diener & Crandall, 1978, p. 57).
 
-> [!citation-card] 伦理的定义（Cavan）
+> [!citation-card]- 伦理的定义（Cavan）
 > 伦理是"对他人权利的原则性敏感"，而"虽然真理是好的，但尊重人的尊严更好"（p.87）。
 >
 > Ethics has been defined as 'a matter of principled sensitivity to the rights of others', and that 'while truth is good, respect for human dignity is better' (Cavan, 1977, p. 810).
 
-> [!citation-card] 隐私权的定义（SSHRC Canada）
+> [!citation-card]- 隐私权的定义（SSHRC Canada）
 > 隐私权"延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由"（p.99）。
 >
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences and Humanities Research Council of Canada, 1981).
 
-> [!citation-card] [[Situated Ethics|情境伦理]]的核心主张（Simons & Usher）
+> [!citation-card]- [[Situated Ethics|情境伦理]]的核心主张（Simons & Usher）
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
 
-> [!citation-card] 情境伦理的不可普遍化（Simons & Usher）
+> [!citation-card]- 情境伦理的不可普遍化（Simons & Usher）
 > "研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到。"（p.128）
 >
 > 'researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes' (Simons & Usher, 2000, p. 2).
 
-> [!citation-card] Wax 对知情同意的批评
+> [!citation-card]- Wax 对知情同意的批评
 > Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但田野研究者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
 >
 > Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
-> [!citation-card] [[Ethics Debriefing|debriefing]] 的核心（Aronson & Carlsmith）
+> [!citation-card]- [[Ethics Debriefing|debriefing]] 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）
 >
 > 'debriefing a subject is not simply a matter of exposing him to the truth. There is nothing magically curative about the truth; indeed . . . if harshly presented, the truth can be more harmful than no explanation at all.' 'No amount of postexperimental gentleness is as effective in relieving a subject's discomfort as an honest accounting of the experimenter's own discomfort in the situation' (Aronson & Carlsmith, 1969, p. 31).
 
-> [!citation-card] [[Rich and Thick Description|厚描述]] vs 薄描述（Howe & Moses）
+> [!citation-card]- [[Rich and Thick Description|厚描述]] vs 薄描述（Howe & Moses）
 > "中学女生在英语讨论课上交替感到无聊、被胁迫和沉默"vs"女生在英语讨论课上参与少于男生"：前者是厚描述，后者是被净化的薄描述。解释性研究需要厚描述所需的细节层次，而隐私、保密和匿名要求可能使其无法获得。（p.105）
 >
 > 'the secondary school girls alternated between being bored, intimidated and silent in English discussion sessions' vs 'the girls participated less than boys in the English discussion sessions' (Howe & Moses, 1999, p. 45). Where the former provides a rich description, the latter, being sanitized, is thin.
 
-> [!citation-card] Foster 的研究者"亲密接触"
+> [!citation-card]- Foster 的研究者"亲密接触"
 > "当个体感到不安全、当他们的世界面临超出他们控制的变革威胁时，他们很可能以不可预测的方式回应他们中间角色不明确的人，而研究者的角色很少被那些不从事研究的人理解。"（p.86）
 >
 > 'when individuals feel insecure, when their world is threatened with change that is beyond their control, they are likely to respond in an unpredictable manner to persons within their midst whose role is unclear, and the role of the researcher is rarely understood by those not engaged in research' (Foster, 1989, p. 194).

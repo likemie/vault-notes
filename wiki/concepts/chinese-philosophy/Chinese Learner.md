@@ -210,14 +210,14 @@ updated: 2026-05-24
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 西方学界对"中国学习者"的认知经历了从**刻板印象建构**到**[[Cultural Models|文化模型]]理解**的演变。以下按时间顺序组织。
 
 ### 第一阶段：缺陷型刻板印象（Deficit Stereotypes）
 
 西方长期持有的负面认知：认为中国学习者[[Rote Learning|死记硬背]]、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、创造性）设为规范，中国学习者因偏离此规范而被视为"有缺陷"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
 
-> [!note] 刻板印象的再生产机制
+> [!note]- 刻板印象的再生产机制
 > [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, pp.41–42)]]以 Ballard & Clanchy（1991, 1997）在澳大利亚的影响为典型案例：其著作在图书馆中被严重标注，但被高亮的段落恰恰是描述 [[Confucian Heritage Cultures|CHC]] 学习者"缺陷"的部分，而作者明确警告刻板印象危险的段落却几乎未被标注。完整四步拆解见 [[Argument_Ryan_2010_ChineseLearner#2a. 缺陷型刻板印象（Deficit Stereotypes）]]。心理机制——刻板印象如何通过威胁感知成为自我实现的预言——见 [[Stereotype Threat]]。
 
 ### 第二阶段：优势型刻板印象（Surplus Stereotypes）

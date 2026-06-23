@@ -46,7 +46,7 @@ updated: 2026-06-09
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 该概念由 Gewirtz, Dickson & Power（2004）在分析英格兰新工党政府教育行动区政策时系统提出。[[Argument_Beech_2009_CE|Beech (2009)]]将其纳入全球—国家—实践三层空间[[Analytic Framework|分析框架]]，论证舆论操控既是国家层面的治理技术，也解释了国家政策话语为何保留并强化全球话语的某些特征（可塑性、不兼容声明的组合）。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 357–358)]]
 
 ---

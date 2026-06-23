@@ -68,7 +68,7 @@ updated: 2026-06-04
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - **2022** 年：法案通过，Tech Hubs 计划获批超 100 亿美元（五年期）；[[National Science Foundation|NSF TIP]] 获得首批拨款([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.133–134]])
 > - **2023** 年：5 亿美元被正式拨付，Tech Hubs 计划启动（p.133）
 > - **2024-01**：NSF TIP 向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助（p.134）
@@ -87,7 +87,7 @@ updated: 2026-06-04
 
 ## NSTC 与半导体产业的公私合作格局
 
-> [!note]
+> [!note]-
 > NSTC 的建立对半导体和计算行业的 [[University-Industry Collaboration|产学合作]] 实践者而言是一个"强制函数"（forcing function）：它迫使每个公司重新审视自己的大学合作策略——在 NSTC（国家战略型 [[Public-Private Partnership in Research|PPP]]）和 [[Semiconductor Research Corporation|SRC]]（行业联盟型 PPP）这两个不同逻辑的制度框架下，大学合作需要重新定位([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。
 
 NSTC 和 SRC 的并存代表了美国半导体行业三代公私合作模式的制度化递进：

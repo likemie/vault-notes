@@ -56,6 +56,6 @@ updated: 2026-06-23
 > - **可推广性**（[[External Validity|generalizability]]） 产生的理论能在多大的范围内适用
 > - **[[Evaluative Validity|评价效度]]** 研究者如何评价所研究的现象——"价值判断"层次
 
-> [!note] 描述效度包含信度
+> [!note]- 描述效度包含信度
 > 描述效度的一个独特之处在于：它明确声称**效度包含了信度**（validity subsumes reliability）。如果一项描述在事实上不准确——如果它编造、选择或扭曲了实际发生的事实——那么它既不可靠也无效。在此意义上，信度是描述效度的**内在组成部分**，而非独立的标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 161)]]
 

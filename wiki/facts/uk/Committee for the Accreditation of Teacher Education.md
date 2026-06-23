@@ -42,7 +42,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note] 时间线
+> [!note]- 时间线
 > - 1967 年以后：教育社会学在初始教师教育中扩张，相关课程为 [[New Sociology of Education|NSE]] 的传播提供受众和职业结构([[Argument_Ball_2008_SR|Ball, 2008, pp.658-659]])。
 > - 1984 年：英国保守党政府设立 CATE，推动教师教育从学科基础转向课堂技能和能力导向([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
 

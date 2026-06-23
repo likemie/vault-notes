@@ -44,7 +44,7 @@ Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankf
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 
 - 任职于法兰克福歌德大学教育科学系（Department of Education, Goethe University Frankfurt/Main, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
 - 2019 年与 [[Marcelo Parreira do Amaral]] 和 [[Gita Steiner-Khamsi]] 共同编辑 *Researching the [[Global Education Industry]]*（Palgrave Macmillan）（Thompson & Parreira do Amaral, 2022, p.17）

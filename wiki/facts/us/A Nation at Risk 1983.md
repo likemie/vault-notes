@@ -53,7 +53,7 @@ updated: '2026-06-02'
 
 ## 经过
 
-> [!note] 经过
+> [!note]- 经过
 > - **1981** — 美国教育部长 T. H. Bell 成立国家教育卓越委员会 (National Commission on Excellence in Education)，负责调查美国学校的质量。
 > - **1983-04** — 委员会发布 *A Nation at Risk: The Imperative for Educational Reform*，以军事危机语言开篇：如果不友好的外国势力试图将今天存在的平庸教育表现强加于美国，我们很可能会将其视为战争行为([[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 19]])。
 > - 报告的核心叙事结构是国际比较 → 本国危机 → 改革紧迫：将美国学生的测试表现与日本、德国等经济竞争对手进行对比，将教育质量下降建构为国家安全威胁。

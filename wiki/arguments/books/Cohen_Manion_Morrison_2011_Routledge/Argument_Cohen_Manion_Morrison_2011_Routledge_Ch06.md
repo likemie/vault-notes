@@ -663,42 +663,42 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 
 ## 关键引用
 
-> [!citation-card] 研究的核心任务
+> [!citation-card]- 研究的核心任务
 > 研究的任务是发现、调查、发展、检验（如一项理论）、回答诸如"假如""如何""为什么""多好""什么"和"在哪里"等问题。（第6章, p.78）
 >
 > The task of research is to find out, to investigate, to develop, to test out (e.g. a theory), to address questions that ask, for example: 'what if', 'how', 'why', 'how well', 'what' and 'where'.
 
-> [!citation-card] 窄化即严谨
+> [!citation-card]- 窄化即严谨
 > 选择和执行一项研究的纪律在于将其收窄到可管理／可研究的比例（cf. Hopkins, 1985, p. 47），以便将严谨性（如[[Fitness for Purpose|目的适配性]]和方法论可靠性）嵌入研究之中。规划研究的严谨性在于选择一个被紧密框定的课题。（第6章, p.78）
 >
 > Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 
-> [!citation-card] 原创性不够
+> [!citation-card]- 原创性不够
 > 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和实践做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
 >
 > Research needs to go beyond this, to choose a significant topic that will actually make an important contribution to our understanding and to practice. Originality alone is not enough. Rather, the research should be able to move forward the [[Champ|field]], perhaps in only a small-scale, piecemeal, incremental way, but nevertheless to advance it such that, without the research, the field would be poorer.
 
-> [!citation-card] 研究的根本问题：值得做吗？
+> [!citation-card]- 研究的根本问题：值得做吗？
 > 这项研究的用途是什么？做这项研究的意义是什么？这项研究值得做吗？如果最后一个问题的答案是"不"，那么研究者也许应该放弃——否则它将从有用研究沦为一个业余爱好者的放纵。（第6章, pp.81–82）
 >
 > 'What is the use of this research?' 'What is the point of doing this research?' 'Is this research worth doing?' If the answers to the last question is 'no', then maybe the researcher should abandon it, otherwise it ceases to be useful research and becomes an indulgence of the dilettante.
 
-> [!citation-card] 目的适配性：让尾巴摇狗
+> [!citation-card]- 目的适配性：让尾巴摇狗
 > 研究者不能简单地说他或她喜欢问卷、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
 >
 > The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
 
-> [!citation-card] [[Access and Acceptance in Research|研究准入]]：最困难的任务
+> [!citation-card]- [[Access and Acceptance in Research|研究准入]]：最困难的任务
 > 获得人员和机构的准入是任何实证研究者最困难的任务之一，尤其当研究具有任何敏感性时。准入问题可能阻止研究启动，也可能扭曲或改变研究的原始计划。（第6章, p.91）
 >
 > Gaining access to people and institutions is one of the most difficult tasks for any empirical researcher, particularly if the research is in any way sensitive. Access problems can prevent the research from starting at all, or they can distort or change the original plans for the research.
 
-> [!citation-card] 吃大象：研究的范围边界
+> [!citation-card]- 吃大象：研究的范围边界
 > 我们建议一项研究保持狭窄和有限的范围，以实现可管理性和严谨性。俗话说"吃大象的最佳方式是一次一口"！研究者必须为研究设定清晰、可感知、现实、公平和可管理的边界。失控的研究可能漫游各处，实际上哪里也去不了。（第6章, pp.92–93）
 >
 > Principally, we advise a single piece of research to be narrow and limited in scope in order to achieve manageability as well as rigour. As the saying goes 'the best way to eat an elephant is one bite at a time'! Researchers will need to put clear, perceptible, realistic, fair and manageable boundaries round their research. If this cannot be done straightforwardly then maybe the researcher should reconsider whether to proceed with the planned enterprise, as uncontrolled research may wander everywhere and actually arrive nowhere.
 
-> [!citation-card] 小样本的力量
+> [!citation-card]- 小样本的力量
 > 小样本、窄聚焦的研究可以产生卓越的成果。例如 Axline 的 *Dibs in Search of Self* (1964) 聚焦一个孩子的游戏治疗效果，Piaget (1932) 的 *The Moral Judgement of the Child* 聚焦少数几个孩子——两者都通过详细而谨慎限定边界的研究，为教育工作者带来了巨大收益。（第6章, p.93）
 >
 > Small samples, narrowly focused research, can yield remarkable results. For example Axline's *Dibs in Search of Self* (1964) study of the restorative and therapeutic effects of play therapy focused on one child, and Piaget's (1932) seminal theory of moral development, in his *The Moral Judgement of the Child*, focused on a handful of children.

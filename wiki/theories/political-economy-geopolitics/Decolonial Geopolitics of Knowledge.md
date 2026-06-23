@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 ### 1990s–2000s 奠基期
 
-> [!note]
+> [!note]-
 > - 1993 Enrique Dussel 发表 *Eurocentrism and Modernity*，批评后现代性对现代性的批判"必要但不充分"，指出欧洲内部批判不足以捕捉殖民差异（Dussel, 1993, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）
 > - 1999 Dussel 出版 *Postmodernidad y Transmodernidad*，发展"跨现代性"（transmodernity）概念作为超越后现代性的替代方案([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]])
 > - 2002 [[Walter Mignolo]] 发表 *The [[Geopolitics of Knowledge]] and the Colonial Difference*，系统阐述去殖民知识地缘政治的理论框架（Mignolo, 2002, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.38–39]]）
@@ -85,7 +85,7 @@ updated: '2026-05-18'
 
 ### 2010s–present 延伸与扩展
 
-> [!note]
+> [!note]-
 > - 2007 Raewyn Connell 出版 *Southern Theory*，从社会学角度推进"南方[[Epistemology|认识论]]"议程（Connell, 2007, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.38]]）
 > - 2018 [[Arturo Escobar]] 出版 *Designs for the Pluriverse*，将去殖民理论延伸至设计实践和社区自主发展（Escobar, 2018, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.38–39]]）
 > - 2019 Reiter 编辑 *Constructing the Pluriverse*，系统汇集去殖民多元世界建构的案例和路径（Reiter, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.38–39]]）

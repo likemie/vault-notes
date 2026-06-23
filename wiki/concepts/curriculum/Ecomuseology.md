@@ -60,7 +60,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - 1970 年代法国：Georges Henri Rivière 和 Hugues de Varine 在地方博物馆运动中提出"écomusée"概念
 > - 巴西发展：Mário Chagas (2001) 将生态博物馆学与权力和记忆的政治分析结合；Mário Moutinho (2007) 在[[Social Museology|社会博物馆学]]（sociomuseologia）框架内发展了生态博物馆理论
 > - [[Dell Delambre]] 在 2013–2020 年里约热内卢多案例实践中，将生态博物馆学（与社会博物馆学一起）作为 [[Ganz-Methode]] 的实证基础([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 110]])

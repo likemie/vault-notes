@@ -53,7 +53,7 @@ updated: 2026-05-27
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 企业中央研发实验室经历了三个清晰的历史阶段([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.35–37, 41–42]])：
 
 ### 兴起（二十世纪早期）

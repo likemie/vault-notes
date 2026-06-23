@@ -49,7 +49,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 1130：出生于南宋([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
 > - 深受[[Cheng Brothers|程颢]]（1032–1085）和程颐（1033–1107）兄弟思想的影响([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
 > - 担任朝廷官员，属于"学者型官员"（scholar-official）——一种独特于儒家的精英类型([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])

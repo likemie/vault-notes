@@ -38,7 +38,7 @@ updated: 2026-05-26
 
 ## 内容
 
-> [!note]
+> [!note]-
 Morrill Act of 1862 要求受资助的大学"促进工业阶层的自由和实践教育，涵盖多种人生追求和职业"（"promote the liberal and practical education of the industrial classes in the several pursuits and professions in life"）（p.11）。
 
 该法案的核心条款是通过联邦赠地的方式支持各州建立面向工农阶层的实践教育大学。

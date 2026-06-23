@@ -50,5 +50,5 @@ updated: 2026-06-13
 
 ## 关键引用
 
-> [!citation-card]
+> [!citation-card]-
 > 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的对话，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。（Medawar, 1972: 22，[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）

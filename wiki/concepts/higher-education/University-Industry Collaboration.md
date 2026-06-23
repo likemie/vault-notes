@@ -157,10 +157,10 @@ updated: 2026-06-05
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 产学合作是美国大学体系的独特特征，在内战之后随着 Morrill [[Morrill Land-Grant Act of 1862|Land-Grant Act]]（1862）的通过以及国家对工业化和效率的追求而出现。此后，大学与企业找到了相互支持的方式，不仅在美国，也在全球范围内发展（p.4）。
 
-> [!note]
+> [!note]-
 > - 1862 年 Morrill Act 确立了赠地大学体系，要求大学"促进工业阶层的自由和实践教育"，首次将高等教育与产业发展直接挂钩（p.11）
 > - 1914 年 [[Smith Lever Act of 1914|Smith Lever Act]] 在赠地大学建立农业推广服务（extension services），将研究与实际应用连接起来，延续至今（p.11）
 > - 1920 年前后，美国大学的核心特征——博士教育、专业学位项目、产学互动、[[Academic Freedom|学术自由]]与客观性——已基本确立（pp.11–12）
@@ -185,7 +185,7 @@ updated: 2026-06-05
 
 ### 投资回报（ROI）的差异化定义
 
-> [!note]
+> [!note]-
 > [[Return on Investment|投资回报]]（return on investment, ROI）是产学合作中各方衡量合作价值的核心指标，但不同伙伴对 ROI 的定义根本不同([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.191–192]])：
 
 | 伙伴类型 | ROI 定义 | 具体表现 |
@@ -266,7 +266,7 @@ updated: 2026-06-05
 | 组队协议 | Teaming Agreement | 合作争取第三方（通常为政府机构）资助 |
 | 技术许可 | Technology Licensing | 在指定条款下提供知识产权权利供进一步开发和商业化 |
 
-> [!note]
+> [!note]-
 > 保密协议往往是更实质性协议（如 SRA）的前奏：双方先建立保密信任，再进入更复杂的谈判。捐赠位于权利交换的最浅端，SRA 给予企业更大的监督权和商业化路径。无论哪种类型，协议都使组织受其条款的法律约束。在选择协议类型前回答战略对齐、法律合规、伦理匹配等关键问题，比进入谈判后再调整类型更高效([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.261–262]])。详见 [[Argument_Hall_2025_EthicalLegalFrameworks]]。
 
 ### 教师激励与合作支持
@@ -404,7 +404,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 
 调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.67–68]]）。
 
-> [!note] [[Academic Health System|学术健康系统]]：组织模式的补充
+> [!note]- [[Academic Health System|学术健康系统]]：组织模式的补充
 > [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.179–181)]]在传统五种大学组织模式之外，识别了[[Academic Health System|学术健康系统]]（Academic Health System, AHS）作为一种独特的产学合作组织载体。AHS 混合了学术、临床和产业三种逻辑，以"中心辐射"网络和双向学术管线为结构特征，在产学合作中扮演促进者（facilitator）而非仅仅是参与者。这一组织形态突破了前述五种模式的分类框架（均以大学为中心），提示产学合作的组织载体可能不限于传统的大学结构。详见 [[Academic Health System]]。
 
 ---

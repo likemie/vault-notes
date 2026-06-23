@@ -34,7 +34,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 早年 — MIT 物理学学士（BS/Physics），后在 Verbex（Exxon 子公司）开发语音识别系统。
 > - 博士阶段 — Yale 大学计算机科学博士（PhD/Computer Science AI），研究方向为人工智能。
 > - Apple 时期 — 在 Apple 担任 Distinguished Engineer Scientist Technologist（DEST），负责作者与学习平台（authoring and learning platforms）。

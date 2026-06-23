@@ -75,7 +75,7 @@ updated: 2026-06-01
 
 ## 在高等教育新政治经济学中的位置
 
-> [!note]
+> [!note]-
 > [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]将评估与赋值社会学置于其多维分析策略的一个关键交叉点上（pp.798–799, 801–802, 807–809）：
 >
 > - **连接分配冲突与[[Discursive Stratification|话语分层]]**：评估工具（排名、[[Research Excellence Framework|REF]]、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具

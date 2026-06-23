@@ -52,7 +52,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 空间制造框架有三个直接理论来源([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])：
 > - **Lefebvre（1991）** — *The [[Lefebvre's Spatial Triad|production of space]]* 提出空间是社会产物，将空间分析从物理地理学中解放出来
 > - **[[Doreen Massey]]（2005）** — *For Space* 提供了[[Relational Space|关系性空间]]和开放[[Ontology|本体论]]的核心概念，是 Marginson 框架最主要的理论基础

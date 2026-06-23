@@ -69,7 +69,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 强制[[Knowledge Transfer|知识转移]]的思想在东西方教育传统中均有深层根基：
 > - **希腊 Paideia 与儒家"[[Junzi|君子]]"**：从 [[Plato]] 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"君子 junzi"以来，知识始终与智识和社会等级制相联系——善者与智者有资格向低等级者传授知识，这一预设奠定了强制转移的合法性基础([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]])
 > - **殖民教育的制度化**：19–20 世纪殖民帝国将教育系统性地用作统治工具——Tharoor (2017) 展示英国在印度的殖民教育如何将"一切英国事物"的优越性刻入课程，"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72]])

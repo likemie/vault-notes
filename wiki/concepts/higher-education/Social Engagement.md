@@ -70,7 +70,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **1993 社交融入**：Tinto 在融入理论中提出社交融入（Social integration），定义为学生发现大学社交环境与自身偏好相协调的程度（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
 > - **1991 行为[[Operationalization|操作化]]**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
 > - **2003 [[Employability|就业力]]转向**：Brown & Hesketh 将社会性投入与[[Employability|就业力]]关联——在[[Knowledge-Based Economy|知识经济]]时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003, 2004）

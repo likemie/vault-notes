@@ -55,7 +55,7 @@ updated: 2026-06-10
 
 UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者——不为单个合作项目牵线搭桥，而是为整个产学合作社区提供降低交易成本的公共品（合同模板、度量指标、交流平台）。[[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]将 UIDP 的工作归入产学联盟与联合体的基础设施层面——与价值主张、关系经理和[[Master Agreement|主协议]]并列，这类组织化资源使大学和企业之间的重复合作成为可能（pp.103–108）。
 
-> [!note] UIDP 使命的生物医学实例：[[Physician-Scientist|医师科学家]]
+> [!note]- UIDP 使命的生物医学实例：[[Physician-Scientist|医师科学家]]
 > [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.176–177)]]将[[Physician-Scientist|医师科学家]]（Physician-Scientist）描述为 UIDP 使命在生物医学领域的具体体现：医师科学家必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系（"speakers of both health system and industry vernacular"），成为学术、产业和其他关键伙伴之间的联络者（liaison）。这一角色直接呼应了 UIDP 降低跨部门沟通壁垒、促进产学互译的核心任务，将 UIDP 的桥梁功能从制度层面落实到了具体专业人员的日常实践中。详见 [[Physician-Scientist]]。
 
 ---
@@ -130,7 +130,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 ### 创立与早期发展（2004–2015）
 
-> [!note]
+> [!note]-
 > - **2004 年**：委员会发布白皮书，提议在国家科学院框架内创建 University-Industry Demonstration Partnership（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.16]]）
 > - **2006 年**：发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.16]]）
 > - **2012 年**：发布 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012]])，将[[University-Industry Collaboration|产学合作]]形式按五个领域和三个参与层级系统分类，其开发过程始于 2009 年 UIDP 春季会议上 Wayne Johnson 的初步分类框架，经项目工作组（Jeff Southerton、Geanie Umberger、Goran Matijasevic、Scott Steele、Wayne Johnson）多次电话会议、邮件交流和面对面讨论，并在 UIDP 成员社区的反复反馈中迭代完善([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, pp.4–5]])
@@ -139,7 +139,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 ### 独立运营与国际化（2015–至今）
 
-> [!note]
+> [!note]-
 > - **2015 年 7 月**：UIDP 从国家科学院"毕业"，成为独立的非营利组织。企业会员在全球运营，表达了将大学会员扩展到美国之外的兴趣（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.19]]）
 > - **2016 年**：启动国际试点，邀请牛津大学、多伦多大学、东京大学等关键非美国大学加入（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.19]]）
 > - **2019 年**：与牛津大学联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名来自大学、企业和政府的高层代表，围绕十大关键议题进行三天密集讨论，产出报告 *Developing University-Industry Partnerships Fit for the Future*（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.2–3]]）。峰会项目委员会在会前确定了三个优先探索领域：开发可收集和具有说服力的度量指标；理解 AI 和机器学习在产学合作决策中的机会；探索应对全球结构变化的新合作模式

@@ -45,7 +45,7 @@ updated: 2026-06-08
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **1963 年**：UNESCO [[International Education|国际教育]]规划研究所正式成立。首任主任为 Philip Coombs，他曾担任美国教育助理国务卿（Assistant Secretary of State for Education）。世界银行和福特基金会是 IIEP 的主要合作伙伴和捐赠方([[Argument_Klerides_2023_CE|Klerides, 2023, p.422]])。
 > - **创建目的**：为发展中国家的教育规划提供技术援助以促进经济增长。这一目的反映了当时主导性的技术官僚和经济学化的教育观，即教育是一种投资（Elfert, 2017, 2019）。
 > - **冷战语境**：IIEP 的创建与美国的地缘政治议程深度交织。美国通过联合国体系、世界银行和美国基金会网络，将教育作为争取新独立国家政治支持的软实力工具。

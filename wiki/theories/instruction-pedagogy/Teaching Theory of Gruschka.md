@@ -74,7 +74,7 @@ Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三�
 ... Applied fuzzy match at line 41-94.
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > Gruschka 的[[Didaktik|教学理论]]是在德语教学论（Didaktik）和 [[Bildung]] 传统的长线脉络中发展的。其主要著作包括：
 > - Gruschka（2009）：*Erkenntnis in und durch Unterricht*（教学中的认识与通过教学的认识）——奠定理论基础
 > - Gruschka（2013）：*Unterrichten — eine pädagogische Theorie auf empirischer Basis*（教学——基于经验的教育理论）——将理论建立在对课堂教学的经验研究之上

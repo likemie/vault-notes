@@ -45,7 +45,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2021 — Pellegrini & Vivanet 将 CUREE 归入欧洲证据传播组织，而不是证据生成组织([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 实施情况

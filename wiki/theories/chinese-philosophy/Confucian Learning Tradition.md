@@ -126,7 +126,7 @@ updated: 2026-06-02
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - **[[Confucius|孔子]]（551–479 BCE）**：奠定学习传统的核心——[[Self-Cultivation|修身]]成仁；编订六经、创办私学、倡导有教无类([[Argument_Li_2012_Cambridge|Li, 2012, pp.36-37]])
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：以[[Four Sprouts|四端]]说为修身提供人性论基础；主张人人皆可为尧舜；提出[[Take the World Upon Oneself|以天下为己任]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43, 45-46]])
 > - **近千年式微期**：儒学传统在汉以后经历了长期的边缘化([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])

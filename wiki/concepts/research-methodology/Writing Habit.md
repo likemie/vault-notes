@@ -63,7 +63,7 @@ Boice (1990, pp.77–78) 建立良好写作习惯的九项策略（[[Argument_Cr
 > [!quote]
 > "One wants a room with no view, so imagination can meet memory in the dark. When I furnished this study seven years ago, I pushed the long desk against a blank wall, so I could not see from either window. Once, fifteen years ago, I wrote in a cinder-block cell over a parking lot. It overlooked a tar-and-gravel roof. This pine shed under trees is not quite so good as the cinder-block study was, but it will do."（Annie Dillard, 1989, pp.26–27; 引自 Creswell & Creswell, 2022, 第4章）
 
-> [!note] 空间与时间的互补
+> [!note]- 空间与时间的互补
 > Dillard 刻意选择没有风景的房间，为了减少视觉干扰，让全部认知资源集中在写作上。这与 Boice 策略 3（在精力最充沛时写作）形成互补：前者管理空间维度的注意力，后者管理时间维度的注意力。
 
 ---

@@ -80,7 +80,7 @@ updated: 2026-06-01
 
 ## 学术资本主义的多样性
 
-> [!note]
+> [!note]-
 > Schulze-Cleven & Olson基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，区分了三种福利资本主义类型中学木资本主义的不同形态([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])：
 >
 > - **自由主义国家**（以美国为代表）：亲市场规制传统，高等教育市场化最为深入，营利性院校大量[[Emergence|涌现]]，学费和学生贷款驱动的金融化程度最高

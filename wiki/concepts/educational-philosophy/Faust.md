@@ -40,7 +40,7 @@ updated: 2026-05-25
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - 浮士德形象在Marlowe的剧作中体现为"通过学问寻求不正当权力"（illegitimate power through learning）的悲剧人物([[Argument_Li_2012_Cambridge|Li, 2012, p.1]])。
 > - 歌德在19世纪中叶的改写赋予浮士德精神以新的内涵：永不停止的求知与进取是值得赞美的品质，最终获得救赎([[Argument_Li_2012_Cambridge|Li, 2012, p.1]])。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]]将浮士德作为西方学习传统的象征：一种不惜代价追求知识、探索外部世界、以个人才智与理性为核心的学习取向([[Argument_Li_2012_Cambridge|Li, 2012, pp.14-15]])。

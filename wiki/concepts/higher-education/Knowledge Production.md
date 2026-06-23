@@ -55,7 +55,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **殖民知识生产的批判传统**：Fanon（1952/1963）最早揭示了殖民暴力如何通过语言和文化等级结构"制造"殖民地主体——殖民教育系统生产了一套将西方知识优越化、本地知识贬低化的知识体系。[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]传统（Mignolo, Dussel）进一步论证：西方[[Epistemology|认识论]]通过殖民差异系统性地压制替代性认知方式，知识生产本身就是殖民性的核心运作场所([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72]])
 > - **"知识生产"术语的商业化同步**：Partaken 指出"knowledge production"这一英文术语本身直到 1960 年代之后才出现在书籍中，1980 年代才流行——与国际专利法律体系（1970 年 Patent Cooperation Treaty、2000 年 Patent Law Treaty）的建立几乎同步。这一时间上的重合暗示：该概念的兴起与知识产权的商业化紧密交织([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70]])
 > - **[[Chen Kuan-Hsing]] 的"亚洲作为方法"**：[[Chen Kuan-Hsing]]（2010）将知识生产批判推进到当代亚洲——论证知识本身是"帝国主义运作和行使权力的主要场所之一"，呼吁将亚洲从分析对象转变为知识生产的主体，推进"去帝国化、去殖民化和去冷战"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.73–74]])

@@ -69,7 +69,7 @@ updated: 2026-05-23
 | 4. 勤奋行动 | 勤奋（qinfen） | 行为转化——大量时间投入，经历熟→练→[[Refined Mastery\|精]] |
 | 5. 持久坚持 | 恒心（hengxin） | 维持——从始至终不放弃 |
 
-> [!note]
+> [!note]-
 > [[Familiarization|熟]]→练→精 对应 [[Familiarization|熟]] 和 [[Refined Mastery|精]] 两个学习美德概念。
 
 ### 见证人机制

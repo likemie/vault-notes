@@ -180,7 +180,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 中心或单一 IRB 依赖协议（central or single IRB reliance agreements）被 [[Clinical Trials Transformation Initiative|CTTI]] 倡导为加速启动的关键措施之一——允许机构的修改在收到监管文件后高效实施，而不需要从头走完本地 IRB 的完整审查周期([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。
 
-> [!note] IRB 的运营成本维度
+> [!note]- IRB 的运营成本维度
 > 在临床试验启动的总成本中，IRB 相关费用是不可忽视的组成部分。AMC 的启动费用中包含"机构 IRB 依赖管理费"（institutional IRB reliance administration fee）和"中心 IRB 费"（central IRB fees）等专项收费([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.206]])。这些费用与医保覆盖分析（Medicare Coverage Analysis）和计费合规审查费等共同构成 AMC 启动成本从两万多美元到十五万美元以上的区间跨度。
 
 > [!abstract] FDA 1572 表格中的 IRB 义务

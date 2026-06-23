@@ -55,7 +55,7 @@ updated: '2026-06-08'
 
 ## 思想发展
 
-> [!note]
+> [!note]-
 > - **1954** — 出版 *Social Learning and Clinical Psychology*，奠定[[Social Learning Theory|社会学习理论]]的[[Variable|变量]]框架
 > - **1966** — 正式提出[[Locus of Control|控制点]][[Construct|构念]]，区分内部与外部控制点
 > - **1975** — 对控制点构念的应用问题进行澄清，包括连续体性质而非二分法的强调

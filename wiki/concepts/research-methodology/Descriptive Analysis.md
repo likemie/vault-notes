@@ -63,7 +63,7 @@ updated: 2026-06-01
 > - 报告均值和标准差——如样本平均年龄、族裔构成。
 > - 报告各组在主要结果变量上的均值和标准差——如实验组和控制组的倦怠症状均值及各自的标准差。
 
-> [!note] 描述性分析 vs 推断性分析
+> [!note]- 描述性分析 vs 推断性分析
 > 描述性分析回答"数据是什么样的？"——提供关于样本特征、变量分布和变异程度的客观总结。推断性分析（inferential analysis）回答"从样本中可以推断关于总体的什么？"——通过[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]做出推论。描述在前、推断在后，两者是不可分割的整体流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 适用场景

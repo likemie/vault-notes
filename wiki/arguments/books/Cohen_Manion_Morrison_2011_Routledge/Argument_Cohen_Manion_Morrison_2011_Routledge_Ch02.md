@@ -508,7 +508,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 
 ### 步骤 8：后殖民理论与酷儿理论：批判理论伞下的其他取向
 
-> [!note] 本章的定位说明
+> [!note]- 本章的定位说明
 > 本章明确承认[[Post-colonial Theory|后殖民理论]]、[[Queer Theory|酷儿理论]]和批判种族理论也可以被纳入批判理论的伞下，但并未展开它们，只将其列为教育研究者可能希望探索的路径（p.19）。以下为本章提供的简要注记。
 
 > [!info] [[Post-colonial Theory|后殖民理论]]（Post-colonial Theory）
@@ -572,37 +572,37 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 
 ## 关键引用
 
-> [!citation-card] [[Critical Theory|批判理论]]的核心意图
+> [!citation-card]- [[Critical Theory|批判理论]]的核心意图
 > 批判理论的意图不仅是说明社会和行为的现状，更是实现一个基于全体成员平等与民主的社会。其目的不仅是理解情境和现象，而是改变它们。它特别寻求解放被剥夺权力者、纠正不平等、在民主社会中促进个人自由。（第2章，2.1节，p.27）
 >
 > Its intention is not merely to give an account of society and behaviour but to realize a society that is based on equality and democracy for all its members. Its purpose is not merely to understand situations and phenomena but to change them.
 
-> [!citation-card] 兴趣的意识形态功能
+> [!citation-card]- 兴趣的意识形态功能
 > 兴趣是"知识构成性的"，因为它们塑造和决定了什么算作知识的对象和类型。兴趣具有意识形态功能——技术兴趣可以起到让有权者继续有权、无权者继续无权的作用，即强化和延续现状。解放兴趣则威胁现状。（第2章，2.1节，pp.35–36）
 >
 > Interests are socially constructed, and are 'knowledge-constitutive', because they shape and determine what counts as the objects and types of knowledge. Interests have an ideological function.
 
-> [!citation-card] [[Ideology Critique|意识形态批判]]的双重性
+> [!citation-card]- [[Ideology Critique|意识形态批判]]的双重性
 > 意识形态批判在此既有反思的、理论的一面，也有实践的一面——没有反思，批判是空洞的；没有实践，批判是空虚的。（第2章，2.1节，p.101）
 >
 > Ideology critique here has both a reflective, theoretical and a practical side to it; without reflection it is hollow and without practice it is empty.
 
-> [!citation-card] 课程的核心洞见
+> [!citation-card]- 课程的核心洞见
 > 一个社会如何选择、分类、分配、传递和评估它认为是公共的教育知识，反映的既是权力的分配也是社会控制的原则。（第2章，2.3节，引自Bernstein, 1971, p. 47，p.143）
 >
 > How a society selects, classifies, distributes, transmits and evaluates the educational knowledge it considers to be public, reflects both the distribution of power and the principles of social control.
 
-> [!citation-card] [[Participatory Research|参与式研究]]的核心倒转
+> [!citation-card]- [[Participatory Research|参与式研究]]的核心倒转
 > 参与式研究打破了将"研究"视为由精英研究群体而非普通人进行的惯常方式；普通人完全有能力对自己的处境进行[[Reflexivity|反思性]]和批判性分析。它是深刻民主的——所有参与者平等。（第2章，2.4节，pp.155–156）
 >
 > Participatory research breaks with conventional ways of construing research, as it concerns doing research with people and communities rather than doing research to or for people.
 
-> [!citation-card] [[Feminist Research|女性主义研究]]的[[Epistemology|认识论]]批判
+> [!citation-card]- [[Feminist Research|女性主义研究]]的[[Epistemology|认识论]]批判
 > 如果仅使用男性立场的理论和观察来分析女性经验，由此产生的理论将压迫女性。（第2章，2.5节，引自Ezzy, 2002, p. 23，p.241）
 >
 > If women's experience is analyzed using only theories and observations from the standpoint of men, the resulting theories oppress women.
 
-> [!citation-card] 马克思：解释世界与改变世界
+> [!citation-card]- 马克思：解释世界与改变世界
 > 哲学家只是以各种方式解释世界；然而关键在于改变世界。（第2章，2.5节，引自马克思《关于费尔巴哈的提纲》，p.386）
 >
 > The philosophers have only interpreted the world, in various ways; the point, however, is to change it.

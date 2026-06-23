@@ -58,7 +58,7 @@ updated: '2026-05-23'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > ### 提出背景
 
 该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接观察到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程([[Argument_Li_2012_Cambridge|Li, 2012, pp.83-84]])：

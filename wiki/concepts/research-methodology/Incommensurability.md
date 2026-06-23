@@ -53,5 +53,5 @@ updated: 2026-06-13
 
 ## 关键引用
 
-> [!citation-card]
+> [!citation-card]-
 > 不同[[Paradigm|范式]]之间不存在共同的原则、标准或衡量尺度，因此一个人不能同时持有两个截然不同的范式。（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）

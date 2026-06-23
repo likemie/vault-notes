@@ -66,7 +66,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 中国成长，大学阶段学习德语文学([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii]])
 > - 1977 年通过文革后首届高考，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge|Li, 2012, pp.2–3]])
 > - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik|教学理论]]，实质接受了具有德国色彩的博雅教育([[Argument_Li_2012_Cambridge|Li, 2012, p.3]])
@@ -147,7 +147,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ## 思想发展
 
-> [!note]
+> [!note]-
 > Li 的研究议程诞生于一段曲折的跨文化思想历程，她称之为"锯齿般的智识之旅"（jagged intellectual journey）([[Argument_Li_2012_Cambridge|Li, 2012, p.11]])。
 
 ### 浮士德困惑：中西学习观的初次碰撞

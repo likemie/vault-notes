@@ -37,7 +37,7 @@ Julian Huxley（1887–1975），英国生物学家和科学管理者，UNESCO �
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 
 - 1887 出生于英国赫胥黎家族（祖父为 Thomas Henry Huxley，"达尔文的斗牛犬"）
 - 1946–1948 担任 UNESCO 首任总干事

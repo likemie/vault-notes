@@ -271,22 +271,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card] 教育项目的现实主义因果观
+> [!citation-card]- 教育项目的现实主义因果观
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（Reasoning）。(p. 7)
 >
 > Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006, p. 45)
 
-> [!citation-card] [[Meta-analysis|元分析]]的净化与空洞化
+> [!citation-card]- [[Meta-analysis|元分析]]的净化与空洞化
 > 在元分析综述的每个阶段，都在进行简化。……在这一“清洗”过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。(p. 13)
 >
 > At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning. (Pawson, 2006, pp. 42–43)
 
-> [!citation-card] 均值指标的荒谬性
+> [!citation-card]- 均值指标的荒谬性
 > 元分析的结果绝不应该是一个平均数；它应该是一张图表。(p. 9)
 >
 > The result of a meta-analysis should never be an average; it should be a graph. ([[Gene Glass|吉恩·格拉斯]])
 
-> [!citation-card] 《[[Visible Learning|VL]]》对 陶冶 的遮蔽
+> [!citation-card]- 《[[Visible Learning|VL]]》对 陶冶 的遮蔽
 > 让学习可见的尝试，使人们对教育作为 陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。(p. 16)
 >
 > The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation).

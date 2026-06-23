@@ -70,7 +70,7 @@ updated: 2026-05-23
 
 ## 概念演变
 
-> [!note] 发展脉络
+> [!note]- 发展脉络
 > - 1980 年代，教育社会学中的阶级分析被种族、性别、残障和性取向等分析视角分化；部分研究者转向课程、政策、组织和管理研究，学校效能研究也在这一背景中出现([[Argument_Ball_2008_SR|Ball, 2008, p.662]])。
 > - 在英国，学校效能研究源自 David Reynolds 及其合作者的经验研究，并逐渐与政策内部形成关系([[Argument_Ball_2008_SR|Ball, 2008, pp.662-663]])。
 > - 1997-2002 年，Michael Barber 领导 DfEE Standards and Effectiveness Unit，标志着学校效能语言进入国家政策机器([[Argument_Ball_2008_SR|Ball, 2008, p.663]])。

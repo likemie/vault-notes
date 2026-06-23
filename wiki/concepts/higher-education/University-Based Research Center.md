@@ -64,7 +64,7 @@ updated: 2026-05-28
 
 ## 政府资助渠道
 
-> [!note]
+> [!note]-
 > 大学研究型中心最常见的三类政府资助渠道（p.112）：
 
 - **[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）[[University-Industry Collaboration|产学合作]]研究中心（Industry-University Cooperative Research Centers, IUCRC）**：美国国家科学基金会（NSF）资助的产学合作研究中心项目，是大学研究型中心最成熟的联邦资助机制之一

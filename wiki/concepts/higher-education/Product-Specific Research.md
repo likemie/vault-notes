@@ -58,7 +58,7 @@ updated: 2026-05-28
 
 ## 两层轨道的衔接逻辑
 
-> [!note]
+> [!note]-
 > [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]通过 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的案例展示了前竞争轨道和产品专项轨道如何互补运作（pp.114–115, 117–118）：
 
 [[Precompetitive Research|前竞争研究]]用成员年费和政府拨款共同资助，所有成员平等使用研究成果。这一轨道的核心功能是消除竞争对手在同一张桌子上合作的最大障碍——没有人因为参与联合体而出让自己的竞争优势。

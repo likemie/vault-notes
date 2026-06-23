@@ -56,7 +56,7 @@ updated: 2026-06-16
 
 ## 关键文件／声明
 
-> [!citation-card] 桌面审查的核心结论与局限
+> [!citation-card]- 桌面审查的核心结论与局限
 > “针对教育中采纳和实施[[Evidence-Informed Practice|证据知情实践]]的本土实证研究证据非常有限。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > 
 > “...empirical evidence on the uptake of evidence-informed practices in education is extremely limited.” (Abdo et al., 2021, p. 41)

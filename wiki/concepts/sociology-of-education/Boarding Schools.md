@@ -49,22 +49,22 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 寄宿学校经历三个阶段的转型([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.19–21]]):
 
 ### 中世纪起源
 
-> [!note]
+> [!note]-
 > 男孩被送往修道院和贵族府邸接受教育。
 
 ### 殖民时期兴盛
 
-> [!note]
+> [!note]-
 > 殖民时期，高级行政官员、公务员和富裕商人家庭将子女送回英国或欧洲的寄宿学校。这些学校旨在以纯粹的欧洲方式教育学生，培养母国——尤其是大英帝国——的最佳习惯与礼仪。学校并非为促进多元文化而存在，几乎所有学生都有英国血统([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.19–20]])。
 
 ### 当代转型
 
-> [!note]
+> [!note]-
 > 一战后和二战后殖民体系的瓦解给寄宿学校带来了财政压力，但近年来来自世界各地的大量学生填补了这一空缺。如今的寄宿学校虽已比以往更加多元文化，但其核心任务仍然是以学校所在国的语言授课，并按照该国的传统和习惯教育学生([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.20]])。当代寄宿学校实质上充当通往顶尖大学的"跳板"——许多[[Chinese Learner|中国学习者]]被家庭送往英国、澳大利亚的寄宿学校，以获取进入西方精英大学的竞争优势([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.20–21]])。
 
 ---

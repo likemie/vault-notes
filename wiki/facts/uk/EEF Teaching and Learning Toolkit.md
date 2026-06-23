@@ -64,14 +64,14 @@ updated: '2026-06-08'
 > [!info] 背景
 > 教学与学习工具包（Teaching and Learning Toolkit）是英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）维护的在线工具，面向[[School Leadership|学校领导]]者，以联盟表格式汇总和比较各教育干预的证据基础，按成本、有效性和证据确定性三个维度排列。Toolkit 总结了超过 5,500 项教育研究([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19]])。
 
-> [!note] 起源与资金背景
+> [!note]- 起源与资金背景
 > Toolkit 的初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现[[Meta-analysis|元分析]]数据库([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
 > 与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金。学生津贴是英国政府为经济弱势学生拨付的额外经费，学校可自主决定其用途([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
 > 在 EEF 成立后，这些摘要被进一步发展为整合的系列工具。
 
-> [!note] 官方认可与欧洲定位
+> [!note]- 官方认可与欧洲定位
 > 英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4, 27]])。
 >
 > [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 Research Schools Network 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（pp.32–33）。
@@ -83,7 +83,7 @@ updated: '2026-06-08'
 > [!abstract] [[Umbrella Review|伞状综述]]定位
 > Toolkit 的摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
-> [!note] 设计灵感来源
+> [!note]- 设计灵感来源
 > Toolkit 的设计融合了多位研究者的方法论贡献([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])：
 >
 > - Hattie（1992/2008）的比较性[[研究地图]]，将多元研究发现置于同一量表上
@@ -99,7 +99,7 @@ updated: '2026-06-08'
 >
 > **第三层**是证据的范围和稳健性评估，一直到所使用的[[Meta-analysis|元分析]]和其他研究的效应量和摘要。技术附录详细说明了效应量计算和转换的原理和细节，以确保综合准确且方法和假设透明([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
-> [!note] 证据质量层级
+> [!note]- 证据质量层级
 > 估计来源按优先级递降([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])：
 >
 > **最高优先级**是随机试验和良好控制实验的[[Meta-analysis|元分析]]，其中效果的变异（[[Heterogeneity|异质性]]）被探索并尽可能解释。
@@ -122,7 +122,7 @@ updated: '2026-06-08'
 >
 > Toolkit 定位为帮助[[School Leadership|学校领导]]（尤其是使用学生津贴的学校）做出"好的赌注"([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 
-> [!note] 不同领域的一致性差异
+> [!note]- 不同领域的一致性差异
 > 某些领域（如元认知与自我调节、语音教学）有相对一致的发现，而其他领域（如家长参与、行为干预）则有来自不同元分析的变异估计([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 ---
@@ -237,7 +237,7 @@ updated: '2026-06-08'
 
 ### 制度功能
 
-> [!note] Cowen 的官僚功能解释
+> [!note]- Cowen 的官僚功能解释
 > [[Argument_Cowen_2019_ERE|Cowen (2019)]]从制度视角指出，Toolkit 的真正功能不是为教学实践提供可靠指导，而是为主权者的问责需求提供依据（p.11）。
 >
 > [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]的分析为这一制度批判提供了经验支持：EEF Toolkit 虽被政府正式认可为证据来源，但在选择性学校扩建基金政策制定中，政府回避了符合定义的证据（包括 Toolkit 所代表的元分析研究），转而使用不符合证据定义的[[Ofsted]]评级（pp.4, 27）。
@@ -246,7 +246,7 @@ updated: '2026-06-08'
 
 ## 持续改进
 
-> [!note] 后续研究计划
+> [!note]- 后续研究计划
 > [[Education Endowment Foundation|EEF]] 正在使用 Toolkit 作为指导进一步研究的依据，在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的[[Randomised Controlled Trials|随机对照试验]]。这些证据将既检验 Toolkit 的发现，又反馈到其证据基础中以增加稳健性。这种方法可能创建一个发现数据库，使跨情境和结果的更大可比性有助于更精确地识别研究发现中变异的原因([[Argument_Higgins_2016_RE|Higgins, 2016, p.49]])。
 
 ---

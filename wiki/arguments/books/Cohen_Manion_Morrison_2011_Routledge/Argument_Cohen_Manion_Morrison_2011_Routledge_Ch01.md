@@ -342,7 +342,7 @@ Hitchcock and Hughes (1995: 23)进一步提出八阶段科学方法模型(Box 1.
 
 Kerlinger (1970: 9)对理论的定义被引用为实证主义科学观的终极目标：
 
-> [!citation-card]
+> [!citation-card]-
 > 一套相互关联的构念(概念)、定义和命题，通过明确[[Variable|变量]]之间的关系来呈现对现象的系统看法，目的是解释和预测现象。
 > a set of interrelated constructs [concepts], definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining and predicting the phenomena.
 

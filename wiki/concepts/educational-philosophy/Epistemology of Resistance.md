@@ -64,7 +64,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - 抵抗认识论的早期形态可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 的[[Critical Pedagogy|批判教育学]]
 > - 在拉丁美洲去殖民思想（Mignolo、Dussel、Quijano）中，"[[Epistemology|认识论]]抵抗"被理论化为去殖民认识论的核心策略，但主要停留在理论论证层面
 > - [[Richard Castelo Branco]] (2020) 在里约热内卢 Rocinha 贫民窟剧场实践中开发了 EspectAtor 方法，将抵抗认识论从理论话语带入具体的艺术实践([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Branco, 2020]])

@@ -246,17 +246,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card] 论[[Effect Size|效应量]]评估的非责任性
+> [!citation-card]- 论[[Effect Size|效应量]]评估的非责任性
 > 试图通过《[[Visible Learning|VL]]》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。[[Argument_OConnor_2020_AJLL|(p.149)]]
 >
 > Attempting to orient pedagogical practice through Visible Learning’s reported effect sizes is ill advised, while basing public policy decisions on them is irresponsible.
 
-> [!citation-card] 论[[Whole Language|全语言]]被人工剔除的特权
+> [!citation-card]- 论[[Whole Language|全语言]]被人工剔除的特权
 > 在《VL》收录的 800 多项[[Meta-analysis|元分析]]中，唯有这一项——发现全语言教学有正面影响的元分析——被[[John Hattie|哈蒂]]通过选择性消除某些研究而修正了效应量。[[Argument_OConnor_2020_AJLL|(p.148)]]
 >
 > Out of more than 800 meta-analyses examined in Visible Learning, just one – the meta-analysis that found a positive impact for whole language teaching – had its effect size revised by Hattie through the selective elimination of certain research studies.
 
-> [!citation-card] 论全语言效应量的荒谬推论
+> [!citation-card]- 论全语言效应量的荒谬推论
 > 如果在《VL》中呈现的全语言效果大小 d = 0.06 是正确的，这将意味着全语言课堂中的学生学到的东西与从未踏入学校的学生一样多。[[Argument_OConnor_2020_AJLL|(p.142，转述)]]
 >
 > If correct, this would be a highly significant finding. A student in a classroom with a whole language literacy teacher would learn to read just as effectively if they had never set foot inside a school.

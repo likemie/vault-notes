@@ -62,7 +62,7 @@ updated: 2026-06-08
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 国际心智概念在两次世界大战之间兴起，二战后被 UNESCO 继承和发展。UNESCO 早期将[[Lifelong Learning|终身学习]]作为核心关注，延续了国际心智对教育促进国际理解的承诺（Elfert, 2023, cited in [[Argument_Klerides_2023_CE|Klerides, 2023, p.425]]）。[[Joseph Lauwerys]]——英国第一位比较教育教授和 UNESCO 最早顾问之一——将"国际理解"（international understanding）作为其三大核心价值之首，体现了国际心智概念在比较教育制度化过程中的持续影响。
 
 从[[Wight's Three Traditions of International Theory|国际关系理论]]角度来看，国际心智是理性主义比较教育的核心理念：它假设通过跨国对话和制度建设可以改善国际社会，将比较教育定位为这一改善的工具([[Argument_Klerides_2023_CE|Klerides, 2023, pp.423–425]])。

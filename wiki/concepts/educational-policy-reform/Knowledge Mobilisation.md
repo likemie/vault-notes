@@ -59,7 +59,7 @@ updated: 2026-06-03
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 当前 vault 中可确认的知识动员演变线索，主要集中在教育[[Research Utilization|研究利用]]与安大略学校改进语境中：
 >
 > - **2010s** — 在[[Evidence-Informed Practice|证据知情实践]]讨论中，KMb 被用来解释“研究-实践鸿沟”不只是供给或需求问题，而是中介、传播和组织条件问题([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127, 130–131]])。

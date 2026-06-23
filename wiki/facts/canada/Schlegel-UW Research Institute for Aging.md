@@ -40,7 +40,7 @@ updated: 2026-06-03
 
 ## 经过
 
-> [!note]
+> [!note]-
 > 关键发展节点([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.251–254]])：
 > - **2005 年**：滑铁卢大学与 Schlegel Villages 经过深入讨论后正式启动 RIA 合作
 > - **2014 年**：RIA 大楼在滑铁卢大学北校区建成并投入运营

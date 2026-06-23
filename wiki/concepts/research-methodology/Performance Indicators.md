@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **1850s**：教育开始被认可为统计调查的领域，早期数据收集限于学校数量、学生入学人数、教师人数等([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 > - **1970s–1980s**：Sauvageot（1997）指出早期统计信息"不太有用"——数据不准确、不及时、不一致，太多细节而没有分析([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 > - **1988 年**：[[OECD]] 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])

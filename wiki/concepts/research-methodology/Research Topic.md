@@ -152,7 +152,7 @@ Creswell & Bàez (2020) 列举了六种为已有文献提供新视角的方式�
 
 草拟方法是完成句子"My study is about . . ."，用最简洁直白的语言作答。Wilkinson (1991) 提供了具体规则：简洁，避免浪费词汇；消除不必要的词如"An Approach to . . .""A Study of . . ."；使用单标题或双标题；控制在 10 到 12 个词以内；消除大多数冠词和介词；确保标题包含研究的焦点或主题。另一种策略是将主题表述为一个简短的问题，如"What treatment is best for depression?"。
 
-> [!note] 简单 vs 复杂的张力
+> [!note]- 简单 vs 复杂的张力
 > 初学者容易用复杂晦涩的语言表述主题，但好的研究项目始于直白、不复杂的想法（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。发表的期刊文章之所以读起来干净清晰，是因为经过了大量修改，而非一开始就如此。
 
 ---

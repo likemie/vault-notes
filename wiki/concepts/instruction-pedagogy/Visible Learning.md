@@ -3,7 +3,7 @@ title: Visible Learning
 aliases:
   - 可见的学习
   - VL
-summary: John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。
+summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
 type: concept
 domain: "instruction-pedagogy"
 related_count: 91
@@ -421,7 +421,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
 ---
 
-> [!citation-card]
+> [!citation-card]-
 > "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
 
 ---

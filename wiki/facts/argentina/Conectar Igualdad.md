@@ -39,7 +39,7 @@ updated: 2026-06-07
 
 ## 背景
 
-> [!note]
+> [!note]-
 > PCI 的起源可追溯到 Nicholas Negroponte（MIT 媒体实验室前主任）2005 年在达沃斯世界经济论坛上展示的「每童一电脑」（One Laptop per Child, OLPC）项目。2007 年乌拉圭启动了 Plan Ceibal，旨在为每名小学生提供一台 OLPC 电脑。乌拉圭的项目在阿根廷媒体上非常受关注，给阿根廷政府带来了压力。阿根廷政府在评估 OLPC 选项后决定创建类似计划，但使用英特尔开发的技术([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---

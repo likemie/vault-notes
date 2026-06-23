@@ -126,7 +126,7 @@ updated: 2026-06-02
 
 ### 4.4 关键工具：联合展示模板
 
-> [!note] 联合展示的操作逻辑
+> [!note]- 联合展示的操作逻辑
 > 联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences|元推论]]行和列。
 
 **表 10.2：聚敛式设计联合展示模板（Template for a Convergent Design Joint Display）**

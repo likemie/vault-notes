@@ -60,7 +60,7 @@ updated: 2026-05-25
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > [[Confucian Learning Tradition|儒家学习传统]]在东汉以后经历了近千年的边缘化，直到北宋初期的儒家学者重新开启了这一传统([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 
 ### 北宋：程朱理学的奠基

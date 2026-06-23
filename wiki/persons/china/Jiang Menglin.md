@@ -48,7 +48,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - **1886** — 出生于浙江。
 > - **1910 年代** — 赴美留学，就读于哥伦比亚大学师范学院，师从[[John Dewey|杜威]]。
 > - **1919** — 主持《新教育》（xinjiaoyu）杂志创刊，任主编，该刊成为[[New Education Movement|新教育运动]]的理论阵地([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]])。

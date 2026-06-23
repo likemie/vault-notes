@@ -113,7 +113,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 
 ## 历史沿革
 
-> [!note]
+> [!note]-
 > - **1979** — Weiss 的[[Research Utilization|研究利用]]工作为后续“研究如何进入实践”的讨论提供早期基础。
 > - **1996** — Hargreaves 提出“教学作为研究本位专业”，为教育领域的证据使用争论提供政策起点。
 > - **2000s–2010s** — 英国 Teaching and Learning Research Programme、美国问责政策变化以及加拿大安大略省教育研究与评估战略等，共同推动 EIP 的制度化讨论。

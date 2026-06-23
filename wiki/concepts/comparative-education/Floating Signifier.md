@@ -50,7 +50,7 @@ updated: 2026-06-09
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 漂浮能指概念起源于符号学传统。Claude Lévi-Strauss 在分析马塞尔·莫斯的礼物理论时首次使用该术语，Jacques Lacan 将其引入精神分析领域。在教育研究中，[[Jason Beech]]（2009）通过 [[Manuel Castells]] 对[[Space of Flows and Space of Places|流动空间]]文化的描述将这一概念引入比较教育分析。
 
 > [!note]- 从符号学到教育政策分析

@@ -68,7 +68,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：首个明确提出"以天下为己任"——"承担天下的重量"。坚持独立于政治权力的独立教师身份，"在这一点上与[[Socrates|苏格拉底]]不无相似"([[Argument_Li_2012_Cambridge|Li, 2012, p.45]])
 > - **[[Zhu Xi|朱熹]]（1130–1200）**：在《大学》中整合了[[The Great Learning|八条目]]的系统路径：格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下。后两步体现了以天下为己任([[Argument_Li_2012_Cambridge|Li, 2012, pp.46-47]])
 > - **[[Civil Service Examination|科举]]时代**：学者型官员（scholar-officials）是以天下为己任的制度化身——"几乎所有[[Neo-Confucianism|新儒家]]学者都是朝廷官员"([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])

@@ -117,7 +117,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - R = 随机分配
 > - 平行行之间用水平线分隔表示比较组不等价（非随机分配）；无线表示随机分配
 
-> [!note] 真实验设计的四种类型
+> [!note]- 真实验设计的四种类型
 > - **前后测对照组设计（Pretest–Posttest Control-Group Design）**：两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
 > - **仅后测对照组设计（Posttest-Only Control-Group Design）**：控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
 > - **Solomon 四组设计（[[Solomon Four-Group Design]]）**：2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
@@ -149,7 +149,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 
 ### 预注册与结果解释
 
-> [!note]
+> [!note]-
 > 真实验可用于检验[[Causality|因果关系]]，因此应在公共注册库（如 Center for Open Science 或 ClinicalTrials.gov）[[Preregistration|预注册]]实验假设和方案。讨论部分应说明假设是否被支持、自变量操纵是否有效、结果为何显著或不显著、与过去文献的联系、研究局限以及发现对科学和社会的意义（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验方法计划检查清单

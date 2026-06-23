@@ -358,7 +358,7 @@ updated: 2026-05-20
 
 [[Global Universities Rankings|全球大学排名]]不是中立的评估工具，而是知识地缘政治的核心运作机制之一。
 
-> [!citation-card] Hazelkorn, 2018
+> [!citation-card]- Hazelkorn, 2018
 > 排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"。
 >
 > Hazelkorn, 2018, p.10, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]]
@@ -372,7 +372,7 @@ updated: 2026-05-20
 > 4. **认识论层面的治理效应** 排名"惩罚"那些履行公共使命而非追求研究卓越的机构——肯塔基大学案例中，USNWR 因该大学招收大量低收入和少数族裔学生而系统性压低其排名，迫使其在排名目标和赠地使命之间做出选择（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]]）
 > 5. **光环效应与路径依赖** "后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cit. in Boyadjieva, 2022, p.135）
 
-> [!citation-card] Amsler & Bolsmann, 2012
+> [!citation-card]- Amsler & Bolsmann, 2012
 > 全球排名是"一个强大的象征性和经济权力机器……一种政治-意识形态技术，服务的不是学生或教师的教育需求，而是全球精英的利益"。
 >
 > Amsler & Bolsmann, 2012, p.286, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]]

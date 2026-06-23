@@ -44,7 +44,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 曾任内布拉斯加大学林肯分校 Clifton 讲座教授，担任[[Mixed Methods Research|混合方法研究]]办公室主任。
 > - 创办 [[Sage]] 出版的 Journal of Mixed Methods Research。
 > - 2008 年获富布赖特高级学者资助赴南非，2012 年赴泰国。

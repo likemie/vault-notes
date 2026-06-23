@@ -42,7 +42,7 @@ Hatch Act 的意义在于：它比 [[Morrill Land-Grant Act of 1862|Morrill Act]
 
 ## 在产学合作历史中的位置
 
-> [!note]
+> [!note]-
 在美国[[University-Industry Collaboration|产学合作]]的历史制度遗产中，Hatch Act 处于承上启下的位置（p.51）：
 
 - **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]**：建立赠地大学，将实践训练和研发（R&D）引入高等教育，催化了农业现代化和新制造业的创建

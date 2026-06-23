@@ -52,7 +52,7 @@ updated: 2026-06-06
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > **UNESCO 的科学理想（1950 年代）**。趋同理论早期可见于 UNESCO 名称中科学概念所承载的期望，即科学家基于证据工作，因此他们的辩论基于理性的声音，科学的民主可以克服政治偏见（Lauwerys 1957）([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **[[International Education|国际教育]]局的趋势识别**。Pedro Rossello 在日内瓦国际教育局提出了在全球范围内识别教育趋势的理念，这一理念延续至至少 1980 年代（Cowen 1981; 1983）([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。

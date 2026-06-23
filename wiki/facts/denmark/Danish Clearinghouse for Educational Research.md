@@ -45,7 +45,7 @@ updated: 2026-05-23
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2006 — Danish Clearinghouse for Educational Research 在奥胡斯大学建立([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
 
 ## 实施情况

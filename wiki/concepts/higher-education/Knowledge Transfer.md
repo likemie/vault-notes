@@ -90,7 +90,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > "知识转移"作为地缘政治概念的分析重心转移，经历了从哲学命题到地缘教义再到 [[Geopolitics of Knowledge|GPK]] 分析工具的演变：
 > - **希腊形而上学根基**：关于 agathos（善）的理论经新[[Plato|柏拉图]]主义（Pseudo-Dionysius）和新亚里士多德主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; McClymond, 2010, p.92)
 > - **古典等级制的障碍**：然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"[[Junzi|君子]] junzi"以来，知识始终与智识和社会等级制相联系([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; Park, 2016)
@@ -190,7 +190,7 @@ Cohen et al.（2002）系统记录了这些多样化的渠道，并指出不同�
 
 ### 组织载体：知识转移办公室
 
-> [!note]
+> [!note]-
 > 在大学组织层面，知识转移通常由知识转移办公室（Knowledge Transfer Offices, KTOs）或[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Offices, TTOs）负责（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
 Brescia et al.（2016）对 200 所高排名大学的调查发现，知识转移的组织方式存在显著差异——有的采用内部专门办公室，有的依赖外部机构，有的嵌入科研副校长办公室——没有统一的标准模式（转引自 Boccanfuso & Hall, 2025b, p.54）。

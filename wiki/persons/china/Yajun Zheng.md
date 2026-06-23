@@ -62,7 +62,7 @@ updated: '2026-06-08'
 
 ## 生平与职涯
 
-> [!note]
+> [!note]-
 > - 就读于复旦大学高等教育研究所，师从熊庆年教授([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - 2014 年夏开始其对中国一流大学学生毕业出路分化问题的研究旅程([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[Qualitative Interview|深度访谈]]([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
@@ -109,7 +109,7 @@ updated: '2026-06-08'
 
 ## 思想发展
 
-> [!note]
+> [!note]-
 > 研究按阶段推进：
 
 ### 2014–2017 研究起点与首轮田野

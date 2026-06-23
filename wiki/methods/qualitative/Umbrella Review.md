@@ -72,7 +72,7 @@ updated: '2026-06-08'
 
 ## 与元综合的关系
 
-> [!note] 与[[Meta-meta-analysis|元综合]]的关系
+> [!note]- 与[[Meta-meta-analysis|元综合]]的关系
 > 伞状综述与[[Meta-meta-analysis|元-元分析]]（meta-synthesis）有重叠但不完全相同。
 >
 > 元-[[Meta-analysis|元分析]]侧重于对多个元分析的[[Effect Size|效应量]]进行统计合并，产生单一的汇总估计。伞状综述更侧重于以共同方法论框架整合多个综述的结论，输出形式可以是效应量排名，也可以是证据质量分级和[[Recommendations for Practice|实践建议]]。

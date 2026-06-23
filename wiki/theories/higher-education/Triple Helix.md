@@ -86,7 +86,7 @@ updated: 2026-06-10
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 ### 三重螺旋的历史根源（1800s–1940s）
 
 许多当今顶尖研究型大学在 1800 年代创立时就内嵌了服务工业和地方经济的使命（Martin, 2012）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.37–38]])：英国 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特等大学致力于服务现代工业社会；MIT（1861）、Georgia Tech（1885）、帝国理工（1907）等理工学院以专业技术培训和满足产业需求为核心使命；1862/1890 年美国 Morrill Acts 通过赠地建立学院并提供农业推广服务，将大学-政府-产业互动制度化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.37–38]])。
@@ -157,7 +157,7 @@ updated: 2026-06-10
 
 ### 理论链条：Triple Helix → Entrepreneurial University → UI 组织
 
-> [!note]
+> [!note]-
 > 三重螺旋的三个理论层次及其组织对应（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.52–53]]）：
 
 | 层次 | 理论/概念 | 分析对象 | Ch3 的贡献 |
@@ -179,7 +179,7 @@ updated: 2026-06-10
 
 ## 学术健康系统视角下的 Triple Helix
 
-> [!note]
+> [!note]-
 > 从[[Academic Health System|学术健康系统]]（Academic Health System, AHS）的视角来看，Triple Helix 需要一项修正：在 AHS 的运作中，政府更多扮演的是制定法律和标准的**监管者**角色，而非合作伙伴——government entities function more as the operating bodies that codify and set forth regulations and standards（p.188）。例外情况包括：当研究由竞争性合同谈判下的政府机构资助时，政府更接近合作伙伴形态。
 
 > AHS 本身或许可以被构想为 Triple Helix 中替代 government 的第三方——尽管需要一些修改。这反映了学术机构内部组织形式的多样性对 Triple Helix 理论框架提出的补充（p.188）。

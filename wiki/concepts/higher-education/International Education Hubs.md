@@ -73,7 +73,7 @@ updated: '2026-05-19'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > IEH 概念由 [[Jane Knight]] (2014a, 2014b, 2014c) 在跨境高等教育研究的基础上系统提出。Knight 注意到过去十年中多个东亚和中东国家已建立 IEHs，意图成为全球高等教育学习和研究的首选目的地([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]])。近年来 IEHs 被进一步分析为地缘政治项目，超越了简单的国际化策略(Erfurth, 2019; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022]])。
 
 ### 概念的提出与三类模型
@@ -90,7 +90,7 @@ Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采�
 
 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲崛起的视角为 IEHs 提供了关键的再概念化。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–100]])。
 
-> [!note] 从被动接受到主动塑造
+> [!note]- 从被动接受到主动塑造
 > 在旧的发展主义[[Paradigm|范式]]下，亚洲国家是西方[[Internationalization of Higher Education|高等教育国际化]]的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是[[International Education|国际教育]]的被动消费者，而是成为全球知识流动网络的**主动塑造者**。这一转变由三层动力支撑：亚洲经济体融入全球供应链和资本流动创造了庞大的中产阶级教育需求；各国政府将高等教育视为[[Knowledge-Based Economy|知识经济]]时代人力资本投资的核心渠道；以及一个强烈的"追赶"话语——亚洲各国政府渴望采纳"世界最佳实践"、在排名和声誉上"追赶"西方顶尖大学([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])。
 
 Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移**：其正当性从"帮助发展中国家现代化"的发展主义话语转向"提升全球经济竞争力"的市场理性。这一转变与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。

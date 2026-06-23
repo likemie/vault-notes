@@ -59,7 +59,7 @@ updated: 2026-05-31
    - 独立变量之间的交互效应
 6. 报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]以评估实际意义。
 
-> [!note] Solomon 四组设计
+> [!note]- Solomon 四组设计
 > Solomon 四组设计（[[Solomon Four-Group Design]]）是 2 × 2 因子设计的一个特殊案例，四个组分别在前测和处理上有所变化，全部接受后测，用于评估前测对处理效果的潜在干扰（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Example 8.3）。
 
 ## 适用场景

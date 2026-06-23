@@ -52,7 +52,7 @@ updated: 2026-05-27
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > 五代创新模型代表了人们对创新过程理解方式的逐步升级（Tidd, 2006; Caraça et al., 2009; Galanakis, 2006）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])：
 
 ### 第一代：技术推动（Technology Push，1950s 主导）
@@ -104,7 +104,7 @@ Kline 和 Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 
 ## 当代新驱动力
 
-> [!note]
+> [!note]-
 > 近年来[[Emergence|涌现]]的新驱动力在原有模型基础上叠加了新的约束和紧迫感([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.29]])：
 > - **地缘政治紧张与国家安全**：技术合作带上安全色彩，跨国创新协作面临新的边界
 > - **全球重大挑战**：气候变化、生物多样性丧失等"棘手问题"要求创新不仅创造经济价值还要解决社会问题

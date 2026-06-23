@@ -82,7 +82,7 @@ updated: 2026-06-10
 
 ## 发展脉络
 
-> [!note]
+> [!note]-
 > - 2005 年 Richard Lester 在 MIT 工业绩效中心发表 *Universities, Innovation, and the [[Competitiveness]] of Local Economies: summary report from the local innovation project — phase I*
 > - 该研究对本地创新项目进行了系统总结，提出了大学对本地产业的四种贡献类型
 > - 该框架在 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 上被引用，作为理解大学如何战略性参与本地[[Innovation Ecosystem|创新生态系统]]建设的理论基础（pp.8–9）

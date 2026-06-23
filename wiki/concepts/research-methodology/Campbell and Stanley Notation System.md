@@ -61,7 +61,7 @@ updated: 2026-06-01
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > Campbell & Stanley (1963) 的原始章节发表于 N. L. Gage 主编的 Handbook of Research on Teaching 中，是该领域的奠基性文献。Creswell & Creswell (2022, Ch8) 将其称为"经典声明"（the classical statement about experimental designs），指出该符号系统"至今仍在使用"（is still used today）。该符号系统不仅提供了图示设计的工具，还同时提出了[[Internal Validity|内部效度]]和[[External Validity|外部效度]]威胁的分类框架——后者构成了后来[[Experimental Research|实验研究]]方法论中效度威胁讨论的基础。
 
 ## 适用场景

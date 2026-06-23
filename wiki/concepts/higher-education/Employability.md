@@ -72,7 +72,7 @@ updated: '2026-05-18'
 
 ## 概念演变
 
-> [!note]
+> [!note]-
 > - **2003 提出**：Brown & Hesketh 在 *The Mismanagement of Talent* 中提出就业力的相对性——在高等教育大众化时代，就业力越来越建立在比较和排序之上（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003）
 > - **2004 软实力转向**：Brown & Hesketh 进一步论证雇主招聘甄别从"硬"通货（学位和证书）扩展到"软"实力（个人品质、实习经历、自我呈现）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2004）
 > - **2013 绝对与相对**：Brown 进一步区分就业力的绝对维度和相对维度，为后续[[Economy of Experience|履历经济学]]概念的提出奠定基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown, 2013）
