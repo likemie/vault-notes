@@ -1,0 +1,1168 @@
+11 Naturalistic, qualitative and ethnographic research
+======================================================
+
+Naturalistic, qualitative and ethnographic research
+
+CHAPTER 11
+
+The title of this chapter indicates that a wide range of types and kinds of qualitative research are addressed here. The chapter addresses several key issues in planning and conducting qualitative research:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/001_box.jpg | image]
+ foundations of naturalistic, qualitative and ethnographic enquiry (theoretical bases of these kinds of research)
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/002_box.jpg | image]
+ planning naturalistic, qualitative and ethnographic research
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/003_box.jpg | image]
+ features and stages of a qualitative study
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/004_box.jpg | image]
+ critical ethnography
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/005_box.jpg | image]
+ some problems with ethnographic and naturalistic approaches
+
+There is no single blueprint for naturalistic, qualitative or ethnographic research, because there is no single picture of the world. Rather, there are many worlds and many ways of investigating them. In this chapter we set out a range of key issues in understanding these worlds. It is important to stress, at the outset, that, though there are many similarities and overlaps between naturalistic/ethnographic and qualitative methods, there are also differences between them. Here the former connotes long-term residence with an individual, group or specific community (cf. Swain, 2006: 206), whilst the latter, often being concerned with the nature of the data and the kinds of research question to be answered, is an approach that need not require naturalistic approaches or principles. That said, there are sufficient areas of commonality to render it appropriate to consider them in the same chapter, and we will tease out differences between them where relevant. The intention of this chapter is to provide guidance for qualitative researchers who are conducting either long-term ethnographic research or small-scale, short-term qualitative research.
+
+There are many varieties of qualitative research, indeed Preissle (2006: 686) remarks that qualitative researchers cannot agree on the purposes of qualitative research, its boundaries and its disciplinary fields, or, indeed, its terminology (‘interpretive’, ‘naturalistic’, ‘qualitative’, ‘ethnographic’, ‘phenomenological’, etc.). However, she does indicate that qualitative research is characterized by a ‘loosely defined’ group of designs that elicit verbal, aural, observational, tactile, gustatory and olfactory information from a range of sources including, amongst others, audio, film, documents and pictures, and that it draws strongly on direct experience and meanings, and that these may vary according to the style of qualitative research undertaken.
+
+Qualitative research provides an in-depth, intricate and detailed understanding of meanings, actions, non-observable as well as observable phenomena, attitudes, intentions and behaviours, and these are well served by naturalistic enquiry (Gonzales et al., 2008: 3). It gives voices to participants, and probes issues that lie beneath the surface of presenting behaviours and actions.
+
+11.1 Foundations of naturalistic, qualitative and ethnographic enquiry
+
+The social and educational world is a messy place, full of contradictions, richness, complexity, connectedness, conjunctions and disjunctions. It is multilayered, and not easily susceptible to the atomization process inherent in much numerical research. It has to be studied in total rather than in fragments if a true understanding is to be reached. Chapter 1 indicated that several approaches to educational research are contained in the paradigm of qualitative, naturalistic and ethnographic research. The characteristics of that paradigm (Boas, 1943; Blumer, 1969; Lincoln and Guba, 1985; Woods, 1992; LeCompte and Preissle, 1993) include:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/006_box.jpg | image]
+ humans actively construct their own meanings of situations;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/007_box.jpg | image]
+ meaning arises out of social situations and is handled through interpretive processes;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/008_box.jpg | image]
+ behaviour and, thereby, data are socially situated, context-related, context-dependent and context-rich. To understand a situation researchers need to understand the context because situations affect behaviour and perspectives and vice versa;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/009_box.jpg | image]
+ realities are multiple, constructed and holistic;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/010_box.jpg | image]
+ knower and known are interactive, inseparable;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/011_box.jpg | image]
+ only time-and context-bound working hypotheses (idiographic statements) are possible;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/012_box.jpg | image]
+ all entities are in a state of mutual simultaneous shaping, so that it is impossible to distinguish causes from effects;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/013_box.jpg | image]
+ enquiry is value-bound:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/014_box.jpg | image]
+ enquiries are influenced by enquirer values as expressed in the choice of a problem, evaluand or policy option, and in the framing, bounding and focusing of that problem, evaluand or policy option;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/015_box.jpg | image]
+ enquiry is influenced by the choice of the paradigm that guides the investigation into the problem;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/016_box.jpg | image]
+ enquiry is influenced by the choice of the substantive theory utilized to guide the collection and analysis of data and in the interpretation of findings;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/017_box.jpg | image]
+ enquiry is influenced by the values that inhere in the context;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/018_box.jpg | image]
+ enquiry is either value-resident (reinforcing or congruent) or value-dissonant (conflicting). Problem, evaluand or policy option, paradigm, theory and context must exhibit congruence (value-resonance) if the enquiry is to produce meaningful results;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/019_box.jpg | image]
+ research must include ‘thick descriptions’ (Geertz, 1973) of the contextualized behaviour; for descriptions to be ‘thick’ requires inclusion not only of detailed observational data but data on meanings, participants’ interpretations of situations and unobserved factors;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/020_box.jpg | image]
+ the attribution of meaning is continuous and evolving over time;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/021_box.jpg | image]
+ people are deliberate, intentional and creative in their actions;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/022_box.jpg | image]
+ history and biography intersect – we create our own futures but not necessarily in situations of our own choosing;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/023_box.jpg | image]
+ social research needs to examine situations through the eyes of the participants – the task of ethnographies, as Malinowski (1922: 25) observed, is to grasp the point of view of the native [sic], his [sic] view of the world and in relation to his life;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/024_box.jpg | image]
+ researchers are the instruments of the research (Eisner, 1991);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/025_box.jpg | image]
+ researchers generate rather than test hypotheses;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/026_box.jpg | image]
+ researchers do not know in advance what they will see or what they will look for;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/027_box.jpg | image]
+ humans are anticipatory beings;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/028_box.jpg | image]
+ human phenomena seem to require even more conditional stipulations than do other kinds;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/029_box.jpg | image]
+ meanings and understandings replace proof;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/030_box.jpg | image]
+ generalizability is interpreted as generalizability to identifiable, specific settings and subjects rather than universally;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/031_box.jpg | image]
+ situations are unique;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/032_box.jpg | image]
+ the processes of research and behaviour are as important as the outcomes;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/033_box.jpg | image]
+ people, situations, events and objects have meaning conferred upon them rather than possessing their own intrinsic meaning;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/034_box.jpg | image]
+ social research should be conducted in natural, uncontrived, real-world settings with as little intrusiveness as possible by the researcher;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/035_box.jpg | image]
+ social reality, experiences and social phenomena are capable of multiple, sometimes contradictory interpretations and are available to us through social interaction;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/036_box.jpg | image]
+ all factors, rather than a limited number of variables, have to be taken into account;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/037_box.jpg | image]
+ data are analysed inductively, with constructs deriving from the data during the research;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/038_box.jpg | image]
+ theory generation is derivative – grounded (Glaser and Strauss, 1967) – the data suggest the theory rather than vice versa.
+
+Lincoln and Guba (1985: 39–43) tease out the implications of these axioms:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/039_box.jpg | image]
+ studies must be set in their natural settings as context is heavily implicated in meaning;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/040_box.jpg | image]
+ humans are the research instrument;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/041_box.jpg | image]
+ utilization of tacit knowledge is inescapable;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/042_box.jpg | image]
+ qualitative methods sit more comfortably than quantitative methods with the notion of the human-as-instrument;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/043_box.jpg | image]
+ purposive sampling enables the full scope of issues to be explored;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/044_box.jpg | image]
+ data analysis is inductive rather than a priori and deductive;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/045_box.jpg | image]
+ theory emerges rather than is pre-ordinate. A priori theory is replaced by grounded theory;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/046_box.jpg | image]
+ research designs emerge over time (and as the sampling changes over time);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/047_box.jpg | image]
+ the outcomes of the research are negotiated;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/048_box.jpg | image]
+ the natural mode of reporting is the case study;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/049_box.jpg | image]
+ nomothetic interpretation is replaced by idiographic interpretation;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/050_box.jpg | image]
+ applications are tentative and pragmatic;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/051_box.jpg | image]
+ the focus of the study determines its boundaries;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/052_box.jpg | image]
+ trustworthiness and its components replace more conventional views of reliability and validity.
+
+Qualitative research can be used in systematic reviews (Dixon-Woods et al., 2001) to:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/053_box.jpg | image]
+ identify and refine questions, fields, foci and topics of the review, i.e. to act as a precursor to a full review;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/054_box.jpg | image]
+ provide data in their own right for a research synthesis;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/055_box.jpg | image]
+ indicate and identify the outcomes that are of interest, and for whom;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/056_box.jpg | image]
+ complement and augment data from quantitative reviews;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/057_box.jpg | image]
+ fill out any gaps in quantitative reviews;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/058_box.jpg | image]
+ explain the findings from quantitative reviews and data;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/059_box.jpg | image]
+ provide alternative perspectives on topics;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/060_box.jpg | image]
+ contribute to the drawing of conclusions from the review;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/061_box.jpg | image]
+ be part of a multi-methods research synthesis;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/062_box.jpg | image]
+ suggest how to turn evidence into practice.
+
+Whilst the lack of controls in much qualitative research renders it perhaps unattractive for research syntheses, this is perhaps unjustified, as it suggests that qualitative research has to abide by the rules of the game of quantitative approaches. Qualitative methods have their own tenets, and these complement very well those of numerical research. As with quantitative studies, qualitative studies have to be weighted, downgraded, upgraded or excluded according to the quality of the evidence and sampling that they contain. They also have to overcome the problem that, by stripping out the context in order to obtain themes and key concepts, they destroy the heart of qualitative research – context (Dixon-Woods et al., 2001: 131).
+
+LeCompte and Preissle (1993) suggest that ethnographic research is a process involving methods of enquiry, an outcome and a resultant record of the enquiry. The intention of the research is to create as vivid a reconstruction as possible of the culture or groups being studied (p. 235). There are several purposes of qualitative research, for example, description and reporting, the creation of key concepts, theory generation and testing. LeCompte and Preissle (1993) indicate several key elements of ethnographic approaches:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/063_box.jpg | image]
+ phenomenological data are elicited (p. 3);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/064_box.jpg | image]
+ the world view of the participants is investigated and represented – their ‘definition of the situation’ (Thomas, 1923);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/065_box.jpg | image]
+ meanings are accorded to phenomena by both the researcher and the participants; the process of research therefore is hermeneutic, uncovering meanings (LeCompte and Preissle, 1993: 31–2);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/066_box.jpg | image]
+ the constructs of the participants are used to structure the investigation;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/067_box.jpg | image]
+ empirical data are gather in their naturalistic setting (unlike laboratories or in controlled settings as in other forms of research where variables are manipulated);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/068_box.jpg | image]
+ observational techniques are used extensively (both participant and non-participant) to acquire data on real-life settings;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/069_box.jpg | image]
+ the research is holistic, that is, it seeks a description and interpretation of ‘total phenomena’;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/070_box.jpg | image]
+ there is a move from description and data to inference, explanation, suggestions of causation and theory generation;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/071_box.jpg | image]
+ methods are ‘multimodal’ and the ethnographer is a ‘methodological omnivore’ (p. 232).
+
+Hitchcock and Hughes (1989: 52–3) suggest that ethnographies involve:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/072_box.jpg | image]
+ the production of descriptive cultural knowledge of a group;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/073_box.jpg | image]
+ the description of activities in relation to a particular cultural context from the point of view of the members of that group themselves;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/074_box.jpg | image]
+ the production of a list of features constitutive of membership in a group or culture;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/075_box.jpg | image]
+ the description and analysis of patterns of social interaction;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/076_box.jpg | image]
+ the provision as far as possible of ‘insider accounts’;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/077_box.jpg | image]
+ the development of theory.
+
+Lofland (1971) suggests that naturalistic methods are intended to address three major questions:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/078_box.jpg | image]
+ What are the characteristics of a social phenomenon?
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/079_box.jpg | image]
+ What are the causes of the social phenomenon?
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/080_box.jpg | image]
+ What are the consequences of the social phenomenon?
+
+In this one can observe: (a) the environment; (b) people and their relationships; (c) behaviour, actions and activities; (d) verbal behaviour; (e) psychological stances; (f ) histories; (g) physical objects (Baker, 1994: 241–4).
+
+There are several key differences between the naturalistic approach and that of the positivists to whom we made reference in Chapter 1. LeCompte and Preissle (1993: 39–44) suggest that ethnographic approaches are concerned more with description rather than prediction, induction rather than deduction, generation rather than verification of theory, construction rather than enumeration, and subjectivities rather than objective knowledge. With regard to the latter the authors distinguish between emic approaches (as in the term ‘phonemic’, where the concern is to catch the subjective meanings placed on situations by participants) and etic approaches (as in the term ‘phonetic’, where the intention is to identify and understand the objective or researcher’s meaning and constructions of a situation) (p. 45).
+
+Woods (1992), however, argues that some differences between quantitative and qualitative research have been exaggerated. He proposes, for example (p. 381), that the 1970s witnessed an unproductive dichotomy between the two, the former being seen as strictly in the hypothetico-deductive mode (testing theories) and the latter being seen as the inductive method used for generating theory. He suggests that the epistemological contrast between the two is overstated, as qualitative techniques can be used both for generating and testing theories.
+
+Indeed Dobbert and Kurth-Schai (1992) urge that ethnographic approaches become not only more systematic but that they study and address regularities in social behaviour and social structure (pp. 94–5). The task of ethnographers is to balance a commitment to catch the diversity, variability, creativity, individuality, uniqueness and spontaneity of social interactions (e.g. by ‘thick descriptions’ (Geertz, 1973)) with a commitment to the task of social science to seek regularities, order and patterns within such diversity (Dobbert and Kurth-Schai, 1992: 150). As Durkheim (1982) noted, there are ‘social facts’.
+
+Following this line, it is possible, therefore, to suggest that ethnographic research can address issues of generalizability – a tenet of positivist research – interpreted as ‘comparability’ and ‘translatability’ (LeCompte and Preissle, 1993: 47). For comparability the characteristics of the group that is being studied need to be made explicit so that readers can compare them with other similar or dissimilar groups. For translatability the analytic categories used in the research as well as the characteristics of the groups are made explicit so that meaningful comparisons can be made to other groups and disciplines.
+
+Spindler and Spindler (1992: 72–4) put forward several hallmarks of effective ethnographies:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/081_box.jpg | image]
+ Observations have contextual relevance, both in the immediate setting in which behaviour is observed and in further contexts beyond.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/082_box.jpg | image]
+ Hypotheses emerge in situ as the study develops in the observed setting.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/083_box.jpg | image]
+ Observation is prolonged and often repetitive. Events and series of events are observed more than once to establish reliability in the observational data.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/084_box.jpg | image]
+ Inferences from observation and various forms of ethnographic enquiry are used to address insiders’ views of reality.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/085_box.jpg | image]
+ A major part of the ethnographic task is to elicit sociocultural knowledge from participants, rendering social behaviour comprehensible.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/086_box.jpg | image]
+ Instruments, schedules, codes, agenda for interviews, questionnaires, etc. should be generated in situ, and should derive from observation and ethnographic enquiry.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/087_box.jpg | image]
+ A transcultural, comparative perspective is usually present, although often it is an unstated assumption, and cultural variation (over space and time) is natural.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/088_box.jpg | image]
+ Some sociocultural knowledge that affects behaviour and communication under study is tacit/implicit, and may not be known even to participants or known ambiguously to others. It follows that one task for an ethnography is to make explicit to readers what is tacit/implicit to informants.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/089_box.jpg | image]
+ The ethnographic interviewer should not frame or predetermine responses by the kinds of questions that are asked, because the informants themselves have the emic, native cultural knowledge.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/090_box.jpg | image]
+ In order to collect as much live data as possible, any technical device may be used.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/091_box.jpg | image]
+ The ethnographer’s presence should be declared and his or her personal, social and interactional position in the situation should be described.
+
+With ‘mutual shaping and interaction’ between the researcher and participants taking place (Lincoln and Guba, 1985: 155) the researcher becomes, as it were, the ‘human instrument’ in the research (p. 187), building on her tacit knowledge in addition to her propositional knowledge, using methods that sit comfortably with human enquiry, e.g. observations, interviews, documentary analysis and ‘unobtrusive’ methods (p. 187). The advantage of the ‘human instrument’ is her adaptability, responsiveness, knowledge, ability to handle sensitive matters, ability to see the whole picture, ability to clarify and summarize, to explore, to analyse, to examine atypical or idiosyncratic responses (pp. 193–4).
+
+The main kinds of naturalistic enquiry are (Arsenault and Anderson, 1998: 121; Flick, 2004a, 2004b):
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/092_box.jpg | image]
+ case study (an investigation into a specific instance or phenomenon in its real-life context);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/093_box.jpg | image]
+ comparative studies (where several cases are compared on the basis of key areas of interest);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/094_box.jpg | image]
+ retrospective studies (which focus on biographies of participants or which ask participants to look back on events and issues);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/095_box.jpg | image]
+ snapshots (analyses of particular situations, events or phenomena at a single point in time);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/096_box.jpg | image]
+ longitudinal studies (which investigate issues or people over time);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/097_box.jpg | image]
+ ethnography (a portrayal and explanation of social groups and situations in their real-life contexts);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/098_box.jpg | image]
+ grounded theory (developing theories to explain phenomena, the theories emerging from the data rather than being prefigured or predetermined);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/099_box.jpg | image]
+ biography (individual or collective);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/100_box.jpg | image]
+ phenomenology (seeing things as they are really like and establishing the meanings of things through illumination and explanation rather than through taxonomic approaches or abstractions, and developing theories through the dialogic relationships of researcher to researched).
+
+The main methods for data collection in naturalistic enquiry are (Hammersley and Atkinson, 1983):
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/101_box.jpg | image]
+ participant observation;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/102_box.jpg | image]
+ interviews and conversations;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/103_box.jpg | image]
+ documents and field notes;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/104_box.jpg | image]
+ accounts;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/105_box.jpg | image]
+ notes and memos.
+
+11.2 Planning naturalistic, qualitative and ethnographic research
+
+In many ways the issues in naturalistic research are not exclusive; they apply to other forms of research, for example: identifying the problem and research purposes; deciding the focus of the study; identifying the research questions; selecting the research design and instrumentation; addressing validity and reliability; ethical issues; approaching data analysis and interpretation. These are common to all research. More specifically Wolcott (1992: 19) suggests that naturalistic researchers should address the stages of watching, asking and reviewing, or, as he puts it, experiencing, enquiring and examining. In naturalistic enquiry it is possible to formulate a more detailed set of stages that can be followed (Hitchcock and Hughes, 1989: 57–71; Bogdan and Biklen, 1992; LeCompte and Preissle, 1993). These are presented in Figure 11.1 and are subsequently dealt with in the later pages of this chapter.
+
+One has to be cautious here: Figure 11.1 suggests a linearity in the sequence; in fact the process is often more complex that this, and there may be a backwards-and-forwards movement between the several stages over the course of the planning and conduct of the research. The process is iterative and recursive, as different elements will come into focus and interact with each other in different ways at different times. Indeed Flick (2009: 133) suggests a circularity or mutually informing nature of elements of a qualitative research design. In this instance the stages of Figure 11.1 might be better presented as interactive elements as in Figure 11.2.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/106_f0223-01.jpg | image]
+
+Further, in some smaller-scale qualitative research not all of these stages may apply, as the researcher may not always be staying for a long time in the field but might only be gathering qualitative data on a ‘one-shot’ basis (e.g. a qualitative survey, qualitative interviews). However, for several kinds of naturalistic and ethnographic study in which the researcher intends to remain in the field for some time, the several stages set out above, and commented upon in the following pages, may apply.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/107_f0224-01.jpg | image]
+
+These stages are shot through with a range of issues that will affect the research, e.g.:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/108_box.jpg | image]
+ personal issues (the disciplinary sympathies of the researcher, researcher subjectivities and characteristics, personal motives and goals of the researcher). Hitchcock and Hughes (1989: 56) indicate that there are several serious strains in conducting fieldwork because the researcher’s own emotions, attitudes, beliefs, values, characteristics enter the research; indeed, the more this happens the less will be the likelihood of gaining the participants’ perspectives and meanings;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/109_box.jpg | image]
+ the kinds of participation that the researcher will undertake;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/110_box.jpg | image]
+ issues of advocacy (where the researcher may be expected to identify with the same emotions, concerns and crises as the members of the group being studied and wishes to advance their cause, often a feature that arises at the beginning and the end of the research when the researcher is considered to be a legitimate spokesperson for the group);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/111_box.jpg | image]
+ role relationships;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/112_box.jpg | image]
+ boundary maintenance in the research;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/113_box.jpg | image]
+ the maintenance of the balance between distance and involvement;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/114_box.jpg | image]
+ ethical issues;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/115_box.jpg | image]
+ reflexivity.
+
+Reflexivity recognizes that researchers are inescapably part of the social world that they are researching (Hammersley and Atkinson, 1983: 14), and, indeed, that this social world is an already interpreted world by the actors, undermining the notion of objective reality. Researchers are in the world and of the world. They bring their own biographies to the research situation and participants behave in particular ways in their presence. Qualitative enquiry is not a neutral activity, and researchers are not neutral; they have their own values, biases and world views, and these are lenses through which they look at and interpret the already-interpreted world of participants (cf. Preissle, 2006: 691). Reflexivity suggests that researchers should acknowledge and disclose their own selves in the research, seeking to understand their part in, or influence on, the research. Rather than trying to eliminate researcher effects (which is impossible, as researchers are part of the world that they are investigating), researchers should hold themselves up to the light, echoing Cooley’s (1902) notion of the ‘looking glass self’. As Hammersley and Atkinson say:
+
+He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis. . . . The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers.
+
+(Hammersley and Atkinson, 1983: 18 and 19)
+
+Highly reflexive researchers will be acutely aware of the ways in which their selectivity, perception, background and inductive processes and paradigms shape the research. They are research instruments. McCormick and James (1988: 191) argue that combating reactivity through reflexivity requires researchers to monitor closely and continually their own interactions with participants, their own reaction, roles, biases and any other matters that might affect the research. This is addressed more fully in Chapter 10 on validity, encompassing issues of triangulation and respondent validity.
+
+Lincoln and Guba (1985: 226–47) set out ten elements in research design for naturalistic studies:
+
+1 Determining a focus for the enquiry.
+
+2 Determining the fit of paradigm to focus.
+
+3 Determining the ‘fit’ of the enquiry paradigm to the substantive theory selected to guide the enquiry.
+
+4 Determining where and from whom data will be collected.
+
+5 Determining successive phases of the enquiry.
+
+6 Determining instrumentation.
+
+7 Planning data collection and recording modes.
+
+8 Planning data analysis procedures.
+
+9 Planning the logistics:
+
+a prior logistical considerations for the project as a whole;
+
+b the logistics of field excursions prior to going into the field;
+
+c the logistics of field excursions while in the field;
+
+d the logistics of activities following field excursions;
+
+e the logistics of closure and termination.
+
+10 Planning for trustworthiness.
+
+These elements can be set out into a sequential, staged approach to planning naturalistic research (see, for example, Schatzman and Strauss, 1973; Delamont, 1992). Spradley (1979) sets out the stages of: (i) selecting a problem; (ii) collecting cultural data; (iii) analysing cultural data; (iv) formulating ethnographic hypotheses; (v) writing the ethnography. We offer a fuller, 12-stage model earlier in the chapter.
+
+Like other styles of research, naturalistic and qualitative methods will need to formulate research questions which should be clear and unambiguous but open to change as the research develops. Strauss (1987) terms these ‘generative questions’: they stimulate the line of investigation, suggest initial hypotheses and areas for data collection, yet they do not foreclose the possibility of modification as the research develops. A balance has to be struck between having research questions that are so broad that they do not steer the research in any particular direction, and so narrow that they block new avenues of enquiry (Flick, 2004b: 150).
+
+Miles and Huberman (1994) identify two types of qualitative research design: loose and tight. Loose research designs have broadly defined concepts and areas of study, and, indeed, are open to changes of methodology. These are suitable, they suggest, when the researchers are experienced and when the research is investigating new fields or developing new constructs, akin to the flexibility and openness of theoretical sampling of Glaser and Strauss (1967). By contrast, a tight research design has narrowly restricted research questions and predetermined procedures, with limited flexibility. These, the authors suggest, are useful when the researchers are inexperienced, when the research is intended to look at particular specified issues, constructs, groups or individuals, or when the research brief is explicit.
+
+Even though, in naturalistic research, issues and theories emerge from the data, this does not preclude the value of having research questions. Flick (1998: 51) suggests three types of research questions in qualitative research, namely those that are concerned with: (a) describing states, their causes and how these states are sustained; (b) describing processes of change and consequences of those states; (c) how suitable they are for supporting or not supporting hypotheses and assumptions or for generating new hypotheses and assumptions (the ‘generative questions’ referred to above).
+
+Should one have a hypothesis in qualitative research?
+
+We mentioned in Chapter 1 that positivist approaches typically test pre-formulated hypotheses and that a distinguishing feature of naturalistic and qualitative approaches is its reluctance to enter the hypotheticodeductive paradigm (e.g. Meinefeld, 2004: 153), not least because there is a recognition that the researcher influences the research and because the research is much more open and emergent in qualitative approaches. Indeed, Meinefeld, citing classic studies like Whyte’s (1955) Street Corner Society, suggests that it is impossible to predetermine hypotheses, whether one would wish to or not, as prior knowledge cannot be presumed. Glaser and Strauss (1967) suggest that researchers should deliberately free themselves from all prior knowledge, even suggesting that it is impossible to read up in advance, as it is not clear what reading will turn out to be relevant – the data speak for themselves. Theory is the end point of the research, not its starting point.
+
+One has to be mindful that the researcher’s own background interest, knowledge and biography precede the research and that though initial hypotheses may not be foregrounded in qualitative research, nevertheless the initial establishment of the research presupposes a particular area of interest, i.e. the research and data for focus are not theory-free; knowledge is not theory-free. Indeed Glaser and Strauss (1967) acknowledge that they brought their own prior knowledge to their research on dying.
+
+The resolution of this apparent contradiction – the call to reject an initial hypothesis in qualitative research, yet a recognition that all research commences with some prior knowledge or theory that gives rise to the research, however embryonic – may lie in several fields. These include: an openness to data (Meinefeld, 2004: 156–7); a preparedness to modify one’s initial presuppositions and position; a declaration of the extent to which the researcher’s prior knowledge may be influencing the research (i.e. reflexivity); a recognition of the tentative nature of one’s hypothesis; a willingness to use the research to generate a hypothesis; and, as a more extreme position, an acknowledgement that having a hypothesis may be just as much a part of qualitative research as it is of quantitative research.
+
+An alternative to research hypotheses in qualitative research is a set of research questions, and we consider these below. For qualitative research, Miles and Huberman (1994: 74) also suggest the replacement of ‘hypotheses’ with ‘propositions’, as this indicates that the qualitative research is not necessarily concerned with testing a predetermined hypothesis as such but, nevertheless, is concerned to be able to generate and test a theory (e.g. grounded theory that is tested).
+
+11.3 Features and stages of a qualitative study
+
+An effective qualitative study has several features (Creswell, 1998: 20–2), and these can be addressed in evaluating qualitative research:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/116_box.jpg | image]
+ It uses rigorous procedures and multiple methods for data collection.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/117_box.jpg | image]
+ The study is framed within the assumptions and nature of qualitative research.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/118_box.jpg | image]
+ Enquiry is a major feature, and can follow one or more different traditions (e.g. biography, ethnography, phenomenology, case study, grounded theory).
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/119_box.jpg | image]
+ The project commences with a single focus on an issue or problem rather than a hypothesis or the supposition of a causal relationship of variables. Relationships may emerge later, but that is open.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/120_box.jpg | image]
+ Criteria for verification are set out, and rigour is practised in writing up the report.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/121_box.jpg | image]
+ Verisimilitude is required, such that readers can imagine being in the situation.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/122_box.jpg | image]
+ Data are analysed at different levels; they are multilayered.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/123_box.jpg | image]
+ The writing engages the reader and is replete with unexpected insights, whilst maintaining believability and accuracy.
+
+Maxwell (2005: 21) argues that qualitative research should have both practical goals (e.g. that can be accomplished, that deliver a specific outcome and meet a need) and intellectual goals (e.g. to understand or explain something). His practical goals (p. 24) are: (a) to generate ‘results and theories’ that are credible and that can be understood by both participants and other readers; (b) to conduct formative evaluation in order to improve practice; and (c) to engage in ‘collaborative and action research’ with different parties. His intellectual goals (pp. 22–3) are: (a) to understand the meanings attributed to events and situations by participants; (b) to understand particular contexts in which participants are located; (c) to identify unanticipated events, situations and phenomena and to generate grounded theories that incorporate these; (d) to understand processes that contribute to situations, events and actions; and (e) to develop causal explanations of phenomena.
+
+Maxwell (2005: 23) suggests that, whilst quantitative research is interested in discovering the variance – and regularity – in the effects of one or more particular independent variables on an outcome, qualitative research is interested in the causal processes at work in understanding how one or more interventions or factors lead to an outcome, the mechanisms of their causal linkages. Quantitative research can tell us correlations, how much, whether and ‘what’, whilst qualitative research can tell us the ‘how’ and ‘why’ – the processes – involved in understanding how things occur.
+
+Maxwell also argues that qualitative research should be based on a suitable theoretical or paradigmal basis. Quoting Becker (1986), Maxwell (2005: 37) argues that if a researcher bases his or her research in an inappropriate theory or paradigm it is akin to a worker wearing the wrong clothes: it inhibits comfort and the ability to work properly. Maxwell cautions researchers to recognize that theoretical premises may not always be clear at the outset of the research; they may emerge, change, be added to and so on over time as the qualitative research progresses. We have discussed theories and paradigms in Chapter 1. Theory, Maxwell avers (p. 43) can provide a supporting set of principles, world view or sense-making referent, and it can be used as a ‘spotlight’, illuminating something very specific in a particular event or phenomenon. He advocates a cautious approach to the use of theory (p. 46), steering between, on the one hand, having it unnecessarily constrain and narrow a field of investigation and being accepted too readily and uncritically, and, on the other hand, not using it enough to ground rigorous research. Theories used in qualitative research should not only be those of the researcher, but also those of the participants. He suggests that theory can provide the conceptual and justificatory basis for the qualitative research being undertaken, and it can also inform the methods and data sources for the study (p. 55).
+
+Stage 1 Locating a field of study
+
+Bogdan and Biklen (1992: 2) suggest that research questions in qualitative research are not framed by simply operationalizing variables as in the positivist paradigm. Rather, research questions are formulated in situ and in response to situations observed, i.e. that topics are investigated in all their complexity, in the naturalistic context. The field, as Arsenault and Anderson (1998: 125) state, ‘is used generically in qualitative research and quite simply refers to where the phenomenon exists’.
+
+In some qualitative studies, the selection of the research field will be informed by the research purposes, the need for the research, what gave rise to the research, the problem to be addressed, and the research questions and sub-questions. In other qualitative studies these elements may only emerge after the researcher has been immersed for some time in the research site itself.
+
+Stage 2 Formulating research questions
+
+Research questions are an integral and driving feature of qualitative research. They must be able to be answered concretely, specifically and with evidence. They must be achievable and finite (cf. Maxwell, 2005: 65–78) and they are often characterized by being closed rather than open questions. Whereas research purposes can be open and less finite, motivated by a concern for ‘understanding’, research questions, by contrast, though they are informed by research purposes, are practical and able to be accomplished (Maxwell, 2005: 68–9).
+
+Hence instead of asking a non-directly answerable question such as ‘how should we improve online learning for biology students?’ we can ask a specific, focused, bounded and answerable question such as ‘how has the introduction of an online teacher–student chat room improved Form 5 students’ interest in learning biology?’. Here the word ‘should’ (as an open question) has been replaced with ‘has’, the general terminology of ‘online learning’ has been replaced with ‘an online teacher–student chat room’, and the open-endedness of the first question has been replaced with the closed nature of the second (cf. Maxwell, 2005: 21).
+
+Whereas in quantitative research, a typical research question asks ‘what’ and ‘how much’ (e.g. ‘how much do male secondary students prefer female teachers of mathematics, and what is the relative weighting of the factors that account for their preferences?’), a qualitative research question often asks more probing, process-driven research questions (e.g. ‘how do secondary school students in school X decide their preferences for male or female teachers of mathematics?’).
+
+Maxwell (2005: 75) suggests that qualitative research questions are suitable for answering questions about: (a) the meanings attributed by participants to situations, events, behaviours and activities; (b) the influence of context (e.g. physical, social, temporal, interpersonal) on participants’ views, actions and behaviours; and (c) the processes by which actions, behaviours, situations and outcomes emerge.
+
+Whilst in quantitative research, the research questions (or hypotheses to be tested) typically drive the research and are determined at the outset, in qualitative research a more iterative process occurs (Light et al., 1990: 19). Here the researcher may have an initial set of research purposes, or even questions, but these may change over the course of the research, as the researcher finds out more about the research setting, participants, context and phenomena under investigation, i.e. the setting of research questions is not a once-and-for-all affair. This is not to say that qualitative research is an unprincipled, aimless activity; rather it is to say that, whilst the researcher may have clear purposes, the researcher is sensitive to the emergent situation in which she finds herself, and this steers the research questions. Research questions are the consequence, not the driver, of the situation and the interactions that take place within it. Indeed, in Chapters 6 and 7 we noted that the research questions are the consequence of the interaction between the goals, conceptual framework, methods and validity of the research (Maxwell, 2005: 11). It is important for the qualitative researcher to ask the right questions rather than to ask about what turn out to be irrelevancies to the participants. As Tukey (1962: 13) remarked, it is better to have approximate, inexact or imprecise answers to the right question than to have precise answers to the wrong question. The qualitative researcher has to be sensitized to the emergent key features of a situation before firming up the research questions.
+
+Stage 3 Addressing ethical issues
+
+Deyle et al. (1992: 623) identify several critical ethical issues that need to be addressed in approaching the research: How does one present oneself in the field? As whom does one present oneself? How ethically defensible is it to pretend to be somebody that you are not in order to: (a) gain knowledge that you would otherwise not be able to acquire; (b) obtain and preserve access to places which otherwise you would be unable to secure or sustain?
+
+The issues here are several. First, there is the matter of informed consent (to participate and for disclosure), whether and how to gain participant assent (see also LeCompte and Preissle, 1993: 66). This uncovers another consideration, namely covert or overt research. On the one hand there is a powerful argument for informed consent. However, the more participants know about the research the less naturally they may behave (LeCompte and Preissle, 1993: 108), and naturalism is self-evidently a key criterion of the naturalistic paradigm.
+
+Mitchell (1993) catches the dilemma for researchers in deciding whether to undertake overt or covert research. The issue of informed consent, he argues, can lead to the selection of particular forms of research – those where researchers can control the phenomena under investigation – thereby excluding other kinds of research where subjects behave in less controllable, predictable, prescribed ways, indeed where subjects may come in and out of the research over time.
+
+Mitchell argues that in the real social world access to important areas of research is prohibited if informed consent has to be sought, for example in researching those on the margins of society or the disadvantaged. It is to the participants’ own advantage that secrecy is maintained as, if secrecy is not upheld, important work may not be done and ‘weightier secrets’ (Mitchell, 1993: 54) may be kept which are of legitimate public concern and in the participants’ own interests. He makes a powerful case for secrecy, arguing that informed consent may excuse social scientists from the risk of confronting powerful, privileged and cohesive groups who wish to protect themselves from public scrutiny. Secrecy and informed consent are moot points. The researcher, then, has to consider her loyalties and responsibilities (LeCompte and Preissle, 1993: 106), for example what is the public’s right to know and what is the individual’s right to privacy (Morrison, 1993; De Laine, 2000: 13).
+
+In addition to the issue of overt or covert research, LeCompte and Preissle (1993) indicate that the problems of risk and vulnerability to subjects must be addressed; steps must be taken to prevent risk or harm to participants (non-maleficence – the principle of primum non nocere). Bogdan and Biklen (1992: 54) extend this to include issues of embarrassment as well as harm to those taking part. The question of vulnerability is present at its strongest when participants in the research have their freedom to choose limited, e.g. by dint of their age, by health, by social constraints, by dint of their lifestyle (e.g. engaging in criminality), social acceptability, experience of being victims (e.g. of abuse, of violent crime) (p. 107). As the authors comment, participants rarely initiate research, so it is the responsibility of the researcher to protect them. Relationships between researcher and the researched are rarely symmetrical in terms of power; it is often the case that those with more power, information and resources research those with less.
+
+A standard protection is often the guarantee of confidentiality, withholding participants’ real names and other identifying characteristics. The authors contrast this with anonymity, where identity is withheld because it is genuinely unknown (Bogdan and Biklen, 1992: 106). The issues are raised of identifiability and traceability. Further, participants might be able to identify themselves in the research report though others may not be able to identify them. A related factor here is the ownership of the data and the results, the control of the release of data (and to whom, and when) and what rights respondents have to veto the research results. Patrick (1973) indicates this point at its sharpest, when as an ethnographer of a Glasgow gang, he was witness to a murder; the dilemma was clear – to report the matter (and, thereby, also to ‘blow his cover’, consequently endangering his own life) or to stay as a covert researcher.
+
+Bogdan and Biklen (1992: 54) add to this discussion the need to respect participants as subjects, not simply as research objects to be used and then discarded. Mason (2002: 41) suggests that it is important for researchers to consider the parties, bodies, practices that might be interested in, or affected by, the research and the implications of the answer to these questions for the conduct, reporting and dissemination of the enquiry. We address ethics in Chapters 2 and 5 and we advise readers to refer to these.
+
+Stage 4 Deciding the sampling
+
+In an ideal world the researcher would be able to study a group in its entirety. This was the case in Goffman’s (1968) work on ‘total institutions’ – e.g. hospitals, prisons and police forces (see also Chapter 31). It was also the practice of anthropologists who were able to explore specific isolated communities or tribes. That is rarely possible nowadays because such groups are no longer isolated or insular. Hence the researcher is faced with the issue of sampling, that is deciding which people it will be possible to select to represent the wider group (however defined). The researcher has to decide the groups for which the research questions are appropriate, the contexts which are important for the research, the time periods that will be needed, and the possible artefacts of interest to the investigator. In other words decisions are necessary on the sampling of people, contexts, issues, time frames, artefacts and data sources. This takes the discussion beyond conventional notions of sampling.
+
+In several forms of research, sampling is fixed at the start of the study, though there may be attrition of the sample through ‘mortality’ (e.g. people leaving the study). Mortality is seen as problematic. Ethnographic research regards this as natural rather than irksome. People come into and go from the study. This impacts on the decision whether to have a synchronic investigation occurring at a single point in time, or a diachronic study where events and behaviour are monitored over time to allow for change, development and evolving situations. In ethnographic enquiry sampling is recursive and ad hoc rather than fixed at the outset; it changes and develops over time. Let us consider how this might happen.
+
+LeCompte and Preissle (1993: 82–3) point out that ethnographic methods rule out statistical sampling, for a variety of reasons:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/124_box.jpg | image]
+ the characteristics of the wider population are unknown;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/125_box.jpg | image]
+ there are no straightforward boundary markers (categories or strata) in the group;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/126_box.jpg | image]
+ generalizability, a goal of statistical methods, is not necessarily a goal of ethnography;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/127_box.jpg | image]
+ characteristics of a sample may not be evenly distributed across the sample;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/128_box.jpg | image]
+ only one or two subsets of a characteristic of a total sample may be important;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/129_box.jpg | image]
+ researchers may not have access to the whole population;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/130_box.jpg | image]
+ some members of a subset may not be drawn from the population from which the sampling is intended to be drawn.
+
+Hence other types of sampling are required. A criterion-based selection requires the researcher to specify in advance a set of attributes, factors, characteristics or criteria that the study must address. The task then is to ensure that these appear in the sample selected (the equivalent of a stratified sample). There are other forms of sampling (discussed in Chapter 8) that are useful in ethnographic research (Bogdan and Biklen, 1992: 70; LeCompte and Preissle, 1993: 69–83), such as:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/131_box.jpg | image]
+ convenience sampling (opportunistic sampling, selecting from whoever happens to be available);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/132_box.jpg | image]
+ critical-case sampling (e.g. people who display the issue or set of characteristics in their entirety or in a way that is highly significant for their behaviour);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/133_box.jpg | image]
+ extreme-case sampling (the norm of a characteristic is identified, then the extremes of that characteristic are located, and finally, the bearers of that extreme characteristic are selected);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/134_box.jpg | image]
+ typical-case sampling (where a profile of attributes or characteristics that are possessed by an ‘average’, typical person or case is identified, and the sample is selected from these conventional people or cases);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/135_box.jpg | image]
+ unique-case sampling, where cases that are rare, unique or unusual on one or more criteria are identified, and sampling takes places within these. Here whatever other characteristics or attributes a person might share with others, a particular attribute or characteristic sets that person apart;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/136_box.jpg | image]
+ reputational-case sampling, a variant of extreme-case and unique-case sampling, is where a researcher chooses a sample on the recommendation of experts in the field;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/137_box.jpg | image]
+ snowball sampling – using the first interviewee to suggest or recommend other interviewees.
+
+Patton (1980) identifies several types of sampling that are useful in naturalistic research, including
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/138_box.jpg | image]
+ sampling extreme/deviant cases. This is done in order to gain information about unusual cases that may be particularly troublesome or enlightening;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/139_box.jpg | image]
+ sampling typical cases. This is done in order to avoid rejecting information on the grounds that it has been gained from special or deviant cases;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/140_box.jpg | image]
+ snowball sampling. This is where one participant provides access to a further participant and so on;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/141_box.jpg | image]
+ maximum variation sampling. This is done in order to document the range of unique changes that have emerged, often in response to the different conditions to which participants have had to adapt. It is useful if the aim of the research is to investigate the variations, range and patterns in a particular phenomenon or phenomena (Guba and Lincoln, 1989: 178; Ezzy, 2002: 74);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/142_box.jpg | image]
+ sampling according to the intensity with which the features of interest are displayed or occur;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/143_box.jpg | image]
+ sampling critical cases. This is done in order to permit maximum applicability to others – if the information holds true for critical cases (e.g. cases where all the factors sought are present), then it is likely to hold true for others;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/144_box.jpg | image]
+ sampling politically important or sensitive cases. This can be done to draw attention to the case;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/145_box.jpg | image]
+ convenience sampling. This saves time and money and spares the researcher the effort of finding less amenable participants.
+
+One can add to this list types of sample from Miles and Huberman (1994: 28):
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/146_box.jpg | image]
+ homogenous sampling (which focuses on groups with similar characteristics);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/147_box.jpg | image]
+ theoretical sampling (in grounded theory, discussed below, where participants are selected for their ability to contribute to the developing/emergent theory);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/148_box.jpg | image]
+ confirming and disconfirming cases (akin to the extreme and deviant cases indicated by Patton (1980), in order to look for exceptions to the rule, which may lead to the modification of the rule);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/149_box.jpg | image]
+ random purposeful sampling (when the potential sample is too large, a smaller subsample can be used which still maintains some generalizability);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/150_box.jpg | image]
+ stratified purposeful sampling (to identify subgroups and strata);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/151_box.jpg | image]
+ criterion sampling (all those who meet some stated criteria for membership of the group or class under study);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/152_box.jpg | image]
+ opportunistic sampling (to take advantage of unanticipated events, leads, ideas, issues).
+
+Miles and Huberman make the point that these strategies can be used in combination as well as in isolation, and that using them in combination contributes to triangulation.
+
+Patton (1980: 181) and Miles and Huberman (1994: 27–9) also counsel researchers on the dangers of convenience sampling, arguing that, being ‘neither purposeful nor strategic’ (Patton, 1980: 88), it cannot demonstrate representativeness even to the wider group being studied, let alone to a wider population.
+
+Maxwell (2005: 89–90) indicates four possible purposes of ‘purposeful selection’:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/153_box.jpg | image]
+ to achieve representativeness of the activities, behaviours, events, settings and individuals involved;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/154_box.jpg | image]
+ to catch the breadth and heterogeneity of the population under investigation (i.e. the range of the possible variation: the ‘maximum variation’ sampling discussed above);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/155_box.jpg | image]
+ to examine critical cases or extreme cases that provide a ‘crucial test’ of theories or that can illuminate a situation in ways which representative cases may not be able to do;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/156_box.jpg | image]
+ to identify reasons for similarities and difference between individuals or settings (comparative research).
+
+Maxwell (2005: 91) is clear that methods of data collection are not a logical corollary of, nor an analytically necessary consequence of, the research questions. Research questions and data collection are two conceptually separate activities, though, as we have mentioned earlier in this book, the researcher needs to ensure that they are mutually informing, in order to demonstrate cohesion and fitness for purpose. Methods cannot simply be cranked out, mechanistically, from research questions. Both the methods of data collection and the research questions are strongly influenced by the setting, the participants, the relationships and the research design as they unfold over time.
+
+We discuss below two other categories of sample: ‘primary informants’ and ‘secondary informants’ (Morse, 1994: 228), those who completely fulfil a set of selection criteria and those who fill a selection of those criteria respectively.
+
+Lincoln and Guba (1985: 201–2) suggest an important difference between conventional and naturalistic research designs. In the former the intention is to focus on similarities and to be able to make generalizations, whereas in the latter the objective is informational, to provide such a wealth of detail that the uniqueness and individuality of each case can be represented. To the charge that naturalistic enquiry, thereby, cannot yield generalizations because of sampling flaws the writers argue that this is necessarily though trivially true. In a word, it is unimportant.
+
+Patton (1980: 184) takes a slightly more cavalier approach to sampling, suggesting that ‘there are no rules for sample size in qualitative enquiry’, with the size of the sample depending on what one wishes to know, the purposes of the research, what will be useful and credible, and what can be done within the resources available, e.g. time, money, people, support – important considerations for the novice researcher.
+
+In much qualitative research, it may not be possible or, indeed, desirable, to know in advance whom to sample or whom to include. One of the features of qualitative research is its emergent nature. Hence the researcher may only know which people to approach or include as the research progresses and unfolds (Flick, 2009: 125). In this case the nature of sampling is determined by the emergent issues in the study; this is termed ‘theoretical sampling’: once data have been collected, the researcher decides where to go next, in light of the analysis of the data, in order to gather more data in order to develop his or her theory (Flick, 2009: 118).
+
+Ezzy (2002: 74) underlines the notion of ‘theoretical sampling’ from Glaser and Strauss (1967) in his comment that, unlike other forms of research, qualitative enquiries may not always commence with the full knowledge of whom to sample, but that the sample is determined on an ongoing, emergent basis. Theoretical sampling starts with data and then, having reviewed these, the researcher decides where to go next to collect data for the emerging theory (Glaser and Strauss, 1967: 45). We discuss this more fully in Chapter 33.
+
+In theoretical sampling, individuals and groups are selected for their potential – or hoped for – ability to offer new insights into the emerging theory, i.e. they are chosen on the basis of their significant contribution to theory generation and development. As the theory develops, so the researcher decides whom to approach to request their participation. Theoretical sampling does not claim to know the population characteristics or to represent known populations in advance, and sample size is not defined in advance; sampling is only concluded when theoretical saturation (discussed below) is reached.
+
+Ezzy (2002) gives as an example of theoretical sampling his own work on unemployment (pp. 74–5) where he developed a theory that levels of distress experienced by unemployed people were influenced by their levels of financial distress. He interviewed unemployed low-income and high-income groups with and without debt, to determine their levels of distress. He reported that levels of distress were not caused so much by absolute levels of income but levels of income in relation to levels of debt.
+
+In the educational field one could imagine theoretical sampling in an example thus: interviewing teachers about their morale might give rise to a theory that teacher morale is negatively affected by disruptive student behaviour in schools. This might suggest the need to sample teachers working with many disruptive students in difficult schools, as a ‘critical case sampling’. However, the study finds that some of the teachers working in these circumstances have high morale, not least because they have come to expect disruptive behaviour from students with so many problems, and so are not surprised or threatened by it, and because the staff in these schools provide tremendous support for each other in difficult circumstances – they all know what it is like to have to work with challenging students.
+
+So the study decides to focus on teachers working in schools with far fewer disruptive students. The researcher discovers that it is these teachers who experience far lower morale, and she hypothesizes that this is because this latter group of teachers has higher expectations of student behaviour, such that having only one or two students who do not conform to these expectations deflates staff morale significantly, and because disruptive behaviour is regarded in these schools as teacher weakness, and there is little or no mutual support. Her theory, then, is refined, to suggest that teacher morale is affected more by teacher expectations than by disruptive behaviour, so she adopts a ‘maximum variation sampling’ of teachers in a range of schools, to investigate how expectations and morale are related to disruptive behaviour. In this case the sampling emerges as the research proceeds and the theory emerges; this is theoretical sampling, the ‘royal way for qualitative studies’ (Flick, 2004b: 151). Schatzman and Strauss (1973: 38ff.) suggest that sampling within theoretical sampling may change according to time, place, individuals and events.
+
+The above procedure accords with Glaser and Strauss’s (1967) view that sampling involves continuously gathering data until practical factors (boundaries) put an end to data collection, or until no amendments have to be made to the theory in light of further data – their stage of ‘theoretical saturation’ – where the theory fits the data even when new data are gathered. Theoretical saturation is described by Glaser and Strauss (1967: 61) as being reached when any additional data collected do not advance, amend, refine or lead to the adjustment of the theory or its categories. That said, the researcher has to be cautious to avoid premature cessation of data collection; it would be too easy to close off research with limited data, when, in fact, further sampling and data collection might lead to a reformulation of the theory.
+
+An extension of theoretical sampling is ‘analytic induction’, a process advanced by Znaniecki (1934). Here the researcher starts with a theory (that may have emerged from the data as in grounded theory) and then deliberately proceeds to look for deviant or discrepant cases, to provide a robust defence of the theory. This accords with Popper’s notion of a rigorous scientific theory having to stand up to falsifiability tests. In analytic induction, the researcher deliberately seeks data which potentially could falsify the theory, thereby giving strength to the final theory.
+
+We are suggesting here that, in qualitative research, sampling cannot always be decided in advance on a ‘once and for all’ basis. It may have to continue through the stages of data collection, analysis and reporting. This reflects the circular process of qualitative research, in which data collection, analysis, interpretation and reporting and sampling do not necessarily have to proceed in a linear fashion; the process is recursive and iterative. Sampling is not decided a priori – in advance – but may be decided, amended, added to, increased and extended as the research progresses.
+
+Whilst sampling often refers to people, in qualitative research it also refers to events, places, times, behaviours, activities, settings and processes (cf. Miles and Huberman, 1984: 36). Many researchers will be concerned with short-term, small-scale qualitative research (e.g. qualitative interviews) rather than extended or large-scale ethnographic research, perhaps because they only have access to a small sample (too small to conduct meaningful statistical analysis) or because ‘fitness for purpose’ requires only a short-term qualitative study. In this case, it is important for careful boundaries to be drawn in the research, indicating clearly what can and cannot legitimately be said from the research.
+
+For example, a fundamental question might be for the researcher to decide how long to stay in a situation. Too short, and she may miss an important outcome, too long and key features may become a blur. For example, let us imagine a situation of two teachers in the same school. Teacher A introduces collaborative group work to a class, in order to improve their motivation for, say, learning a foreign language. She gives them a pre-test on motivation, and finds that it is low; she conducts the intervention and then, at the end of two months, gives them another test of motivation, and finds no change. She concludes that the intervention has failed. However, months later, after the intervention has finished, the students tell her that in fact their overall motivation to learn that foreign language had improved, but it took time for them to realize it after the intervention. Teacher B tries the same intervention, but decides to administer the post-test one year after the intervention has ended; she finds no change to motivation levels of the students, but had she conducted the post-test sooner, she would have found a difference. Timing and sampling of timing are important (cf. Maxwell, 2005: 33).
+
+Stage 5 Finding a role and managing entry into the context
+
+This involves matters of access and permission, establishing a reason for being there, developing a role and a persona, identifying the ‘gatekeepers’ who facilitate entry and access to the group being investigated (see LeCompte and Preissle, 1993: 100 and 111). The issue here is complex, for the researcher will be both a member of the group and yet studying that group, so it is a delicate matter to negotiate a role that will enable the investigator to be both participant and observer. The authors comment (p. 112) that the most important elements in securing access are the willingness of researchers to be flexible and their sensitivity to nuances of behaviour and response in the participants. Indeed De Laine (2000: 41) remarks that an ability to get on with people in the situation in question, and a willingness to join in with and share experiences in the activities in question are important criteria for gaining and maintaining access and entry into the field.
+
+Wolff (2004: 195–6) suggests that there are two fundamental questions to be addressed in considering access and entry into the field:
+
+a How can the researcher succeed in making contact and securing cooperation from informants?
+
+b How can the researcher position herself/himself in the field so as to secure the necessary time, space, social relations to be able to carry out the research?
+
+Flick (1998: 57) summarizes Wolff’s work in identifying several issues in entering institutions for the purpose of conducting research:
+
+1 Research is always an intrusion and intervention into a social system, and, so, disrupts the system to be studied, such that the system reacts, often defensively.
+
+2 There is a ‘mutual opacity’ between the social system under study and the research project, which is not reduced by information exchange between the system under study and the researcher; rather this increases the complexity of the situation and, hence, ‘immune reactions’.
+
+3 Rather than striving for mutual understanding at the point of entry, it is more advisable to strive for an agreement as a process.
+
+4 Whilst it is necessary to agree storage rights for data, this may contribute to increasing the complexity of the agreement to be reached.
+
+5 The field under study only becomes clear when one has entered it.
+
+6 The research project usually has nothing to offer the social system; hence no great promises for benefit or services can be made by the researcher, yet there may be no real reason why the social system should reject the researcher.
+
+As Flick (1998: 57) remarks, the research will disturb the system and disrupt routines without being able to offer any real benefit for the institution.
+
+The issue of managing relations is critical for the qualitative researcher. We discuss issues of access, gatekeepers and informants in Chapter 8. The researcher is seen as coming ‘without history’ (Wolff, 2004: 198), a ‘professional stranger’ (Flick, 1998: 59), one who has to be accepted, become familiar and yet remain distant from those being studied. Indeed Flick (1998: 60) suggests four roles of the researcher: stranger, visitor, insider and initiate. The first two essentially maintain the outsider role, whilst the latter two attempt to reach into the institution from an insider’s perspective. These latter two become difficult to manage if one is dealing with sensitive issues (see Chapter 9). This typology resonates with the four roles typically cited for observers:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/157_f0233-01.jpg | image]
+
+Swain (2006), researching junior schools in an ethnography, comments that the researchers may often have to switch roles, from being completely passive observers to being completely active participants, as the situation demands, i.e. he or she will draw on the complete continuum of observations and roles.
+
+Role negotiation, balance and trust are significant and difficult. For example, if one were to research a school, what role should one adopt: a teacher, a researcher, an inspector, a friend, a manager, a provider of a particular service (e.g. extra-curricular activities), a counsellor, a social worker, a resource provider, a librarian, a cleaner, a server in the school shop or canteen, and so on? The issue is that one has to try to select a role that will provide access to as wide a range of people as possible, preserve neutrality (not being seen as on anybody’s side) and enable confidences to be secured.
+
+Role conflict, strain and ambiguity are to be expected in qualitative research. For example, De Laine (2000: 29) comments on the potential conflicts between the researcher qua researcher, therapist, friend. She indicates that diverse role positions are rarely possible to plan in advance, and are an inevitable part of field-work, giving rise to ethical and moral problems for the researcher, and, in turn, requiring ongoing negotiation and resolution.
+
+Roles change over time. Walford (2001: 62) reports a staged process wherein the researcher’s role moved through five phases: newcomer, provisional acceptance, categorical acceptance, personal acceptance and imminent migrant. He also reports (p. 71) that it is almost to be expected that managing different roles not only throws the researcher into questioning his/her ability to handle the situation, but brings considerable emotional and psychological stress, anxiety and feelings of inadequacy. This is thrown into sharp relief when researchers have to conceal information, take on different roles in order to gain access, retain neutrality, compromise personal beliefs and values, and handle situations where they are seeking information from others but not divulging information about themselves. Walford suggests that researchers may have little opportunity to negotiate roles and manoeuvre roles, as they are restricted by the expectations of those being researched.
+
+A related issue is the timing of the point of entry, so that researchers can commence the research at appropriate junctures (e.g. before the start of a programme, at the start of a programme, during a programme, at the end of a programme, after the end of a programme). The issue goes further than this, for the ethnographer will need to ensure acceptance into the group, which will be a matter of dress, demeanour, persona, age, colour, ethnicity, empathy and identification with the group, language, accent, argot and jargon, willingness to become involved and to take on the group’s values and behaviour, etc. (see Patrick’s (1973) fascinating study of a Glasgow gang). The researcher, then, has to be aware of the significance of ‘impression management’ (Hammersley and Atkinson, 1983: 78ff.). In covert research these factors take on added significance, as one slip could ‘blow one’s cover’ (Patrick, 1973).
+
+Lofland (1971) suggests that the field researcher should attempt to adopt the role of the ‘acceptable incompetent’, balancing intrusion with knowing when to remain apart. Such balancing is an ongoing process. Hammersley and Atkinson (1983: 97–9) suggest that researchers have to handle the management of ‘marginality’: they are in the organization but not of it. They comment that the ethnographer must be intellectually poised between ‘familiarity’ and ‘strangeness’, while socially he or she is poised between ‘stranger’ and ‘friend’. They also comment that this management of several roles, not least the management of marginality, can engender ‘a continual sense of insecurity’ (p. 100).
+
+Gaining access and entry should be regarded as a process (Walford, 2001: 31) that unfolds over time, rather than a once and for all matter. Walford charts the several setbacks, delays and modifications that occur and have to be expected in gaining entry to qualitative research sites.
+
+Stage 6 Finding informants
+
+This involves identifying those people who have the knowledge about the society or group being studied. This places the researcher in a difficult position, for she has to be able to evaluate key informants, to decide:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/158_box.jpg | image]
+ whose accounts are more important than others;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/159_box.jpg | image]
+ which informants are competent to pass comments;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/160_box.jpg | image]
+ which are reliable;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/161_box.jpg | image]
+ what the statuses of the informants are;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/162_box.jpg | image]
+ how representative are the key informants (of the range of people, of issues, of situations, of views, of status, of roles, of the group);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/163_box.jpg | image]
+ how to see the informants in different settings;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/164_box.jpg | image]
+ how knowledgeable informants actually are – do they have intimate and expert understanding of the situation;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/165_box.jpg | image]
+ how central to the organization or situation the informant is (e.g. marginal or central);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/166_box.jpg | image]
+ how to meet and select informants;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/167_box.jpg | image]
+ how critical the informants are as gatekeepers to other informants, opening up or restricting entry to people (Hammersley and Atkinson, 1983: 73);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/168_box.jpg | image]
+ the relationship between the informant and others in the group or situation being studied.
+
+Selecting informants and engaging with them is problematical; LeCompte and Preissle (1993: 95), for example, suggest that the first informants that an ethnographer meets might be self-selected people who are marginal to the group, have a low status, and who, therefore, might be seeking to enhance their own prestige by being involved with the research. Indeed Lincoln and Guba (1985: 252) argue that the researcher must be careful to use informants rather than informers, the latter possibly having ‘an axe to grind’. Researchers who are working with gatekeepers, they argue, will be engaged in a constant process of bargaining and negotiation.
+
+A ‘good’ informant, Morse (1994: 228) declares, is one who has the necessary knowledge, information and experience of the issue being researched, is capable of reflecting on that knowledge and experience, has time to be involved in the project, is willing to be involved in the project, and, indeed, can provide access to other informants. An informant who fulfils all these criteria is termed a ‘primary informant’. Morse also cautions that not all these features may be present in the informants, but that they may still be useful for the research, though the researcher would have to decide how much time to spend with these ‘secondary’ informants.
+
+Stage 7 Developing and maintaining relations in the field
+
+This involves addressing interpersonal and practical issues, for example:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/169_box.jpg | image]
+ building participants’ confidence in the researcher;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/170_box.jpg | image]
+ developing rapport, trust, sensitivity and discretion;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/171_box.jpg | image]
+ handling people and issues with which the researcher disagrees or finds objectionable or repulsive;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/172_box.jpg | image]
+ being attentive and empathizing;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/173_box.jpg | image]
+ being discreet;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/174_box.jpg | image]
+ deciding how long to stay. Spindler and Spindler (1992: 65) suggest that ethnographic validity is attained by having the researcher in situ long enough to see things happening repeatedly rather than just once, that is to say, observing regularities.
+
+LeCompte and Preissle (1993: 89) suggest that field-work, particularly because it is conducted face to face, raises problems and questions that are less significant in research that is conducted at a distance, including: (a) how to communicate meaningfully with participants; (b) how they and the researcher might be affected by the emotions evoked in one another, and how to handle these; (c) differences and similarities between the researcher and the participants (e.g. personal characteristics, power, resources), and how these might affect relationships between parties and the course of the investigation; (d) the researcher’s responsibilities to the participants (qua researcher and member of their community), even if the period of residence in the community is short; (e) how to balance responsibilities to the community with responsibilities to other interested parties.
+
+Critically important in this area is the maintenance of trust and rapport (De Laine, 2000: 41), showing interest, assuring confidentiality (where appropriate) and avoiding being judgemental. De Laine adds to these (p. 97) the ability to tolerate ambiguity, to keep self-doubt in check, to withstand insecurity, and to be flexible and accommodating. Such features are not able to be encapsulated in formal agreements, but they are the lifeblood of effective qualitative enquiry. They are process matters.
+
+Qualitative research recognizes that relationships emerge over time, they are not a one-off affair or in which access is negotiated and achieved on a once-and-for-all basis; rather, relationships, trust, intimacy, reciprocity, intrusion, consideration and access have to be constantly negotiated, renegotiated and agreed as time, relationships and events move on, as in real life (De Laine, 2000: 83–5). In this context Maxwell (2005: 83) suggests that ‘rapport’ is a problematic concept in discussing relationships, as it is not a unitary concept concerning its amount or degree (indeed one may have too much or too little of it (Seidman, 1998: 80–2)), but its nature and kind changes over time, as people and events evolve.
+
+Rapport and relationships influence the data collection, sampling and research design (Maxwell, 2005: 83). Indeed, in longitudinal qualitative research, Thomson and Holland (2003: 235) report that maintaining and sustaining positive relationships over time can contribute significantly to lower attrition rates amongst both participants and researchers (and attrition is a problem in longitudinal research as people move out of the area, leave as they grow older, lose contact, become too busy and so on (Thomson and Holland, 2003: 241)). Similarly, Gordon and Lahelma (2003: 246), researching the transition of participants from being secondary school students into becoming adults, comment that maintaining rapport is a critical factor in longitudinal ethnographic research. Rapport, they aver (p. 248) is signified in attention to non-verbal communication as well as in the sensitive handling of verbal communication.
+
+Rapport is not easy to maintain, as it can be overlaid with power relations. For example Swain (2006: 205) comments that, as an adult conducting an ethnography with junior school children, he felt obliged, at times, to take the ‘adult’, controlling position in the research, and that he could not act as a young child, indeed that the children would find it odd if he did (p. 207), so he made no pretence of being less adult-centric as the occasion demanded. He was not a child – he was older, taller, had a deeper voice and dressed differently, and he could not pretend to be other than this, even though he gave the children freedom to respond to his questions as they wished. That said, Swain commented that he tried to adopt a role that made it clear to the children that he was not a teacher.
+
+The issue here is that the data collection process is itself socially situated; it is neither a clean, antiseptic activity nor always a straightforward negotiation.
+
+Stage 8 Data collection in situ
+
+The qualitative researcher is able to use a variety of techniques for gathering information. There is no single prescription for which data collection instruments to use; rather the issue here is of ‘fitness for purpose’ because, as was mentioned earlier, the ethnographer is a methodological omnivore! Some qualitative research can be highly structured, with the structure being determined in advance of the research (pre-ordinate and nomothetic research), for example in order to enable comparisons to be made – similarities and differences (e.g. Miles and Huberman’s (1984) cross-site analysis of several schools).
+
+Less structured approaches to qualitative research enable specific, unique and idiographic accounts to be given, in which the research is highly sensitive to the specific situation, the specific participants, the relationships between the researcher and the participants (Maxwell, 2005: 82), and the emergent most suitable ways of conducting the data analysis.
+
+There are several types of data collection instruments that are used more widely in qualitative research than others. The researcher can use field notes, participant observation, journal notes, interviews, diaries, life histories, artefacts, documents, video recordings, audio recordings, etc. Several of these are discussed elsewhere in this book. Lincoln and Guba (1985: 199) distinguish between ‘obtrusive’ (e.g. interviews, observation, non-verbal language) and ‘unobtrusive’ methods (e.g. documents and records), on the basis of whether another human typically is present at the point of data collection.
+
+Field notes can be written both in situ and away from the situation. They contain the results of observations. The nature of observation in ethnographic research is discussed fully in Chapter 23. Accompanying observation techniques is the use of interviews, documentary analysis and life histories. These are discussed separately in Chapters 12 and 21. The popularly used interview technique employed in qualitative research is the semi-structured interview, where a schedule is prepared that is suffciently open-ended to enable the contents to be reordered, digressions and expansions made, new avenues to be included, and further probing to be undertaken. Carspecken (1996: 159–60) describes how such interviews can range from the interrogator giving bland encouragements, ‘non-leading’ leads, active listening and low-inference paraphrasing to medium-and high-inference paraphrasing. In interviews the researcher might wish to further explore some matters arising from observations. In naturalistic research the canons of validity in interviews include: honesty, depth of response, richness of response and commitment of the interviewee (Oppenheim, 1992).
+
+Lincoln and Guba (1985: 268–70) propose several purposes for interviewing, including: present constructions of events, feelings, persons, organizations, activities, motivations, concerns, claims, etc.; reconstructions of past experiences; projections into the future; verifying, amending and extending data.
+
+Further, Silverman (1993: 92–3) adds that interviews in qualitative research are useful for: (a) gathering facts; (b) accessing beliefs about facts; (c) identifying feelings and motives; (d) commenting on the standards of actions (what could be done about situations); (e) exploring present or previous behaviour; (f ) eliciting reasons and explanations.
+
+Lincoln and Guba (1985) emphasize that the planning of the conduct of the interview is important, including the background preparation, the opening of the interview, its pacing and timing, keeping the conversation going and eliciting knowledge, and rounding off and ending the interview. Clearly, it is important that careful consideration be given to the several stages of the interview. For example at the planning stage, attention will need to be given to the number (per person), duration, timing, frequency, setting/location, number of people in a single interview situation (e.g. individual or group interviews) and respondent styles (LeCompte and Preissle, 1993: 177). At the implementation stage the conduct of the interview will be important, for example, responding to interviewees, prompting, probing, supporting, empathizing, clarifying, crystallizing, exemplifying, summarizing, avoiding censure, accepting. At the analysis stage there will be several important considerations, for example (LeCompte and Preissle, 1993: 195), the ease and clarity of communication of meaning; the interest levels of the participants; the clarity of the question and the response; the precision (and communication of this) of the interviewer; how the interviewer handles questionable responses (e.g. fabrications, untruths, claims made).
+
+The qualitative interview tends to move away from a pre-structured, standardized form towards an open-ended or semi-structured arrangement (see Chapter 21), which enables respondents to project their own ways of defining the world. It permits flexibility rather than fixity of sequence of discussions, allowing participants to raise and pursue issues and matters that might not have been included in a pre-devised schedule (Denzin, 1970; Silverman, 1993).
+
+The use of interviews is not automatic for qualitative research. Some participants may find it alien to their culture; they may feel uncomfortable with interviews, or, indeed, with any such formal verbal communication (Maxwell, 2005: 93). The qualitative researcher has to find a culturally appropriate and culturally sensitive way of gathering data. Maxwell (echoing Whyte, 1993: 303, discussed in Chapters 8 and 9) cites research in sensitive settings (e.g. heroin users) that indicates that it is unwise or not ‘hip’ to ask too many questions, and that conducting formal interviews is an alienating activity, better to be replaced with informal conversations and field notes.
+
+In addition to interviews, Lincoln and Guba (1985) discuss data collection from non-human sources, including:
+
+i documents and records (e.g. archival records, private records). These have the attraction of being always available, often at low cost, and being factual. On the other hand they may be unrepresentative, they may be selective, lack objectivity, be of unknown validity, and may possibly be deliberately deceptive (see Finnegan, 1996);
+
+ii unobtrusive informational residues. These include artefacts, physical traces and a variety of other records. Whilst they frequently have face validity, and whilst they may be simple and direct, gained by non-interventional means (hence reducing the problems of reactivity), they may also be very heavily inferential, difficult to interpret, and may contain elements whose relevance is questionable.
+
+Qualitative data collection is not hidebound to a few named strategies; it is marked by eclecticism and fitness for purpose. It is not to say that ‘anything goes’ but ‘use what is appropriate’ is sound advice. Mason (2002: 33–4) advocates the integration of methods, for several reasons:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/175_box.jpg | image]
+ To explore different elements or parts of a phenomenon, ensuring that the researcher knows how they interrelate.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/176_box.jpg | image]
+ To answer different research questions.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/177_box.jpg | image]
+ To answer the same research question but in different ways and from different perspectives.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/178_box.jpg | image]
+ To give greater or lesser depth and breadth to analysis.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/179_box.jpg | image]
+ To triangulate – corroborate – by seeking different data about the same phenomenon.
+
+Mason (2002) argues that integration can take many forms. She suggests that it is necessary for researchers to consider whether the data are to complement each other, to be combined, grouped and aggregated, and to contribute to an overall picture. She also argues (p. 35) that it is important for the data to complement each other ontologically, to be ontologically consistent, i.e. whether they are ‘based on similar, complementary or comparable assumptions about the nature of social entities and phenomena’. Added to this she suggests that integration must be in an epistemological sense, i.e. where the data emanate from the same, or at least complementary, epistemologies, whether they are based on ‘similar, complementary or comparable assumptions about what can legitimately constitute knowledge of evidence’ (p. 36). Finally Mason argues that integration must occur at the level of explanation. By this she means that the data from different sources and methods must be able to be combined into a coherent, convincing and relevant explanation and argument (p. 36).
+
+Data collection also relates to sampling. For example, in qualitative or ethnographic interviews, though the researcher may wish to include a range of participants, in fact some of those participants may be shy, inarticulate, marginalized, dominated, introverted, overwhelmed or fearful in the presence of others or of being censured, uninterested in participating (Swain, 2006: 202). In these circumstances the researcher may have to use alternative methods of gathering data, such as observations methods. Indeed Miller and Dingwall (1997), in discussing the role of context in qualitative research, point out that an interview may be very unsettling for some participants, being too formal or unnatural; it is not the same as a conversation, and some participants may not ‘open up’ in a non-conversational situation. We discuss interviews and interviewing in Chapter 21.
+
+Stage 9 Data collection outside the field
+
+In order to make comparisons and to suggest explanations for phenomena, researchers might find it useful to go beyond the confines of the groups in which they occur. That this is a thorny issue is indicated in the following example. Two students are arguing very violently and physically in a school. At one level it is simply a fight between two people. However, this is a common occurrence between these two students as they are neighbours outside school and they don’t enjoy positive amicable relations as their families are frequently feuding. The two households have been placed next door to each other by the local authority because it has taken a decision to keep together families who are very poor at paying for local housing rent (i.e. a ‘sink’ estate). The local authority has taken this decision because of a government policy to keep together disadvantaged groups so that targeted action and interventions can be more effective, thus meeting the needs of whole communities as well as individuals.
+
+The issue here is: how far out of (or indeed inside) a micro-situation does the researcher need to go to understand that micro-situation? This is an imprecise matter but it is not insignificant in educational research, for example it underpinned: (a) the celebrated work by Bowles and Gintis (1976) on schooling in capitalist America, in which the authors suggested that the hidden curricula of schools were preparing students for differential occupational futures that perpetuated an inegalitarian capitalist system; (b) research on the self-fulflling prophecy (Hurn, 1978); (c) work by Pollard (1985: 110) on the social world of the primary school, where everyday interactions in school were preparing students for the individualism, competition, achievement orientation, hierarchies and self-reliance that characterize mass private consumption in wider society; (d) Delamont’s (1981) advocacy that educationists should study similar but different institutions to schools (e.g. hospitals and other ‘total’ institutions) in order to make the familiar strange (see also Erickson, 1973).
+
+Stage 10 Data analysis
+
+Though we devote two chapters specifically to qualitative data analysis later in this book (Chapters 28 and 29), there are some preliminary remarks that we make here, by way of fidelity to the 12-stage process of qualitative research outlined at the start of the chapter. Data analysis involves organizing, accounting for and explaining the data; in short, making sense of data in terms of participants’ definitions of the situation, noting patterns, themes, categories and regularities. Typically in qualitative research, data analysis commences during the data collection process. There are several reasons for this, and these are discussed below.
+
+At a practical level, qualitative research rapidly amasses huge amounts of data, and early analysis reduces the problem of data overload by selecting out significant features for future focus. Miles and Huberman (1984) suggest that careful data display is an important element of data reduction and selection. ‘Progressive focussing’, according to Parlett and Hamilton (1976), starts with the researcher taking a wide angle lens to gather data, and then, by sifting, sorting, reviewing and reflecting on them, the salient features of the situation emerge. These are then used as the agenda for subsequent focusing. The process is like funnelling from the wide to the narrow.
+
+Maxwell (2005: 95) cites evidence to argue for data analysis not only to be built into the design of qualitative research, but to start as soon as each stage or round of data collection, or as soon as any data have been collected, i.e. without waiting for the next stage, round or piece of data to have taken place. He cites the analogy of the fox having to keep close to the hare: keeping the collection and the analysis close together ensures that the researchers can keep close to changes and their effects. He suggests that data analysis commences with careful reading and rereading of the data, then constructing memos, categorizations (e.g. coding into organizational, substantive – descriptive – and theoretical categories (related to prior theory, or ‘etic’ categories, or grounded theory), and thematic analysis) and ‘connecting strategies’ such as narrative analysis (p. 96) and vignettes, discourse analysis and profiles (p. 98) that set the data in context and indicate relationships between different parts of the data such that the integrity – the wholeness – of the original context is preserved (p. 98), rather than the fracturing and regrouping of the data that can occur in a coding exercise.
+
+At a theoretical level a major feature of qualitative research is that analysis commences early on in the data collection process so that theory generation can be undertaken (LeCompte and Preissle, 1993: 238). LeCompte and Preissle (1993: 237–53) advise that researchers should set out the main outlines of the phenomena that are under investigation. They then should assemble chunks or groups of data, putting them together to make a coherent whole (e.g. through writing summaries of what has been found). Then they should painstakingly take apart their field notes, matching, contrasting, aggregating, comparing and ordering notes made. The intention is to move from description to explanation and theory generation.
+
+Thomson and Holland (2003: 236) suggest that, in longitudinal qualitative research, data analysis should be both cross-sectional (in order to discover the discourses and themes at work in the construction of identities and interpretations at a particular point in time) and longitudinal (in order to chart the development of narrative(s) over time). However, they also recognize that cross-sectional approaches and longitudinal approaches may sit together uncomfortably, as the former chops up and reassembles text from different participants in order to present themes at the moment in time, whilst the latter seeks individual narratives that require the continuity that only emerges over time and within individuals (p. 239).
+
+Longitudinal research that uses ethnographic techniques (e.g. life histories) can also be used to chart transitions in participants, e.g. from primary to secondary school, from secondary school to university, from school to work, from childhood to adulthood, etc. Gordon and Lahelma (2003) comment that, in such research, the reflexivity of the participants can increase over time, and that sensitivity and rapport (discussed earlier) are key elements for success. Indeed the authors go further, to argue that, as the research develops over time, so does the obligation to demonstrate reciprocity in the relationships between researcher(s) and participants, so that, just as the participants give information, so the researcher has an ethical obligation to ensure that the research offers something positive, in return, to the participants. This need not necessarily mean a material incentive or reward; it could mean an opportunity for the participants to reflect on their own situation, to learn more about themselves and to support their development (p. 249). In this case reflexivity is not confined to the researcher, but extends to the participants as well (p. 252). We discuss cross-sectional and longitudinal studies (surveys) in Chapter 13.
+
+Thomson and Holland (2003) also indicate the frustration and intimidation that early analysis in longitudinal research can cause for researchers, as there is never complete closure on data analysis, as ‘the next round of data’ can challenge earlier interpretations made by researchers. Indeed they question when is the right time to commence writing up or make interpretations.
+
+In addition to the problem of continual openness to interpretation as qualitative research unfolds is the related issue of whose views/voices one includes in the data analysis, given that, in the interests of practicality, it may not be possible to include everyone’s voice, even though the canons of validity in qualitative research might call for multiple voices to be heard. Eisenhart (2001: 19) points out that researchers all too easily can privilege some voices at the expense of others and that the express, beneficent intention of protecting some participants can have the effect of silencing them. How will the researcher present different, even conflicting voices, accounts or interpretations? What are the politics surrounding inclusion and exclusion of voices? We return to this issue in Part 5 on qualitative data analysis.
+
+For clarity, the process of data analysis can be portrayed in a sequence of seven steps which are set out in Figure 11.3 and addressed in subsequent pages.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/180_f0239-01.jpg | image]
+
+Step 1
+
+Establish units of analysis of the data, indicating how these units are similar to and different from each other
+
+The criterion here is that each unit of analysis (category – conceptual, actual, classification element, cluster, issue) should be as discrete as possible whilst retaining fidelity to the integrity of the whole, i.e. that each unit must be a fair rather than a distorted representation of the context and other data. The creation of units of analysis can be done by ascribing codes to the data (Miles and Huberman, 1984). This is akin to the process of ‘unitizing’ (Lincoln and Guba, 1985: 203).
+
+Step 2
+
+Create a ‘domain analysis’
+
+A domain analysis involves grouping together items and units into related clusters, themes and patterns, a domain being a category which contains several other categories. We address domain analysis in more detail in Chapter 22.
+
+Step 3
+
+Establish relationships and linkages between the domains
+
+This process ensures that the data, their richness and ‘context-groundedness’ are retained. Linkages can be found by identifying confirming cases, by seeking ‘underlying associations’ (LeCompte and Preissle, 1993: 246) and connections between data subsets. This helps to establish core themes, i.e. those themes which seem to underpin or to have reference made to them most frequently or most significantly in the data (Gonzales et al., 2008: 5–6).
+
+Step 4
+
+Make speculative inferences
+
+This is an important stage, for it moves the research from description to inference. It requires the researcher, on the basis of the evidence, to posit some explanations for the situation, some key elements and possibly even their causes. It is the process of hypothesis generation or the setting of working hypotheses that feeds into theory generation.
+
+Step 5
+
+Summarize
+
+This involves the researcher in writing a preliminary summary of the main features, key issues, key concepts, constructs and ideas encountered so far in the research. We address summarizing in more detail in Chapter 29.
+
+Step 6
+
+Seek negative and discrepant cases
+
+In theory generation it is important to seek not only confirming cases but to weigh the significance of disconfirming cases. LeCompte and Preissle (1993: 270) suggest that because interpretations of the data are grounded in the data themselves, results that fail to support an original hypothesis are neither discarded nor discredited; rather, it is the hypotheses themselves that must be modified to accommodate these data. Indeed Erickson (1992: 208) identifies progressive problem-solving as one key aspect of ethnographic research and data analysis. LeCompte and Preissle (1993: 250–1) define a negative case as an exemplar which disconfirms or refutes the working hypothesis, rule or explanation so far. It is the qualitative researcher’s equivalent of the positivist’s null hypothesis. The theory that is being developed becomes more robust if it addresses negative cases, for it sets the boundaries to the theory; it modifies the theory, it sets parameters to the applicability of the theory.
+
+Discrepant cases are not so much exceptions to the rule (as in negative cases) as variants of the rule (LeCompte and Preissle, 1993: 251). The discrepant case leads to the modification or elaboration of the construct, rule or emerging hypothesis. Discrepant case analysis requires the researcher to seek out cases for which the rule, construct, or explanation cannot account or with which they will not fit, i.e. they are neither exceptions nor contradictions, they are simply different!
+
+Step 7
+
+Generate theory
+
+Here the theory derives from the data – it is grounded in the data and emerges from it. As Lincoln and Guba (1985: 205) argue, grounded theory must fit the situation that is being researched. Grounded theory is an iterative process, moving backwards and forwards between data and theory until the theory fits the data. This breaks the linearity of much conventional research (Flick, 1998: 41, 43) in which hypotheses are formulated, sampling is decided, data are collected and then analysed and hypotheses are supported or not supported. In grounded theory a circular and recursive process is adopted, wherein modifications are made to the theory in light of data, more data are sought to investigate emergent issues (theoretical sampling), and hypotheses and theories emerge from the data.
+
+Lincoln and Guba (1985: 354–5) urge the researcher to be mindful of several issues in analysing and interpreting the data, including: (a) data overload; (b) the problem of acting on first impressions only; (c) the availability of people and information (e.g. how representative these are and how to know if missing people and data might be important); (d) the dangers of only seeking confirming rather than disconfirming instances; (e) the reliability and consistency of the data and confidence that can be placed in the results.
+
+Maxwell (2005: 108) draws attention to some important difficulties of validity for the qualitative data analyst, including researcher bias and reactivity. The former concerns the projection of the researcher’s own values and judgements onto the situation, whilst the latter concerns the effect of the researcher on the participants, giving rise to unreliable behaviours or changes to the natural setting (a particular problem, for example, in interviewing or observing children). He sets out a useful checklist of eight ways in which attention can be given to validity in qualitative research:
+
+1 Intensive, long-term involvement, as this enables the researcher to probe beneath immediate behaviours, for reactivity to be reduced and for causal processes to be revealed.
+
+2 ‘Rich’ data, sufficient to provide a sufficiently revealing, varied and full picture of the phenomenon, participants and settings.
+
+3 Respondent validation, to solicit systematic feedback from participants on the interpretations made of, and conclusions from, the data.
+
+4 Intervention, where the researcher intervenes formally or informally, in a small or a large way, in the natural setting in order to contribute positively to a situation (whether this is legitimate is a moot point, as it disturbs the natural setting, even though its intention might be in the interests of serving the ethical issue of ‘beneficence’, see Chapter 5).
+
+5 Searching for discrepant evidence and negative cases, in order to constitute a strong test of the theory or conclusions drawn.
+
+6 Triangulation, in order to give reliability to the findings and data (see Chapter 10)
+
+7 Quasi-statistics, where quasi-quantitative statements are interrogated, e.g. claims that a finding is rare, extreme, unusual, typical, frequent, dominant, prevalent and so on.
+
+8 Comparison, between groups, subgroups, sites and settings, events and activities, times, contexts, behaviours and actions, etc., to look for consistency or inconsistency, similarity or difference across these.
+
+Swain (2006: 202) comments that, in writing up an ethnography or piece of qualitative research, there is a significant discipline to be exercised by the researcher, in that a faithful account has to be written, yet, for manageability, the level of detail on the context, emerging situation and events has to be reduced. Indeed he argues that less than 1 per cent of the collected data may feature in the final report, and that, even if 100 per cent of the data that were collected were included, these would constitute less than 1 per cent of everything that took place or that was experienced by the researcher. Fidelity to the detail may stand in a relation of tension to the final, necessarily selective, use of data, and care has to be given to issues of reliability and validity in such a situation.
+
+These are significant issues in addressing reliability, trustworthiness and validity in the research (see the discussions of reliability and validity in Chapter 5). The essence of this approach, that theory emerges from and is grounded in data, is not without its critics. For example Silverman (1993: 47) suggests that it fails to acknowledge the implicit theories which guide research in its early stages (i.e. data are not theory-neutral but theory-saturated) and that it might be strong on providing categorizations without necessarily explanatory potential. These are caveats that should feed into the process of reflexivity in qualitative research, perhaps.
+
+Maxwell (2005: 115–16) also indicates that the process of data analysis, and the conclusions that are drawn from the data, should address the generalizability issue, i.e. to whom the results are generalizable. For example, internal generalizability will indicate that the results and conclusions are generalizable to the group in question, whilst external generalizability will indicate that the results and conclusions are generalizable to the wider population beyond the group under study. He suggests that, whilst the former may be applicable to qualitative research, the latter often may not. However, he also indicates that this by no means rules out the external generalizability of qualitative studies, as respondents themselves might have commented on the generalizability of their situation, or the researcher or readers might see similarities to other, comparable situations, constraints or dynamics, or the research might be corroborated by, or corroborate, other studies. He provides a caveat, to indicate that precision in external generalizability is not a strong feature, or indeed concern, for qualitative research.
+
+Stage 11 Leaving the field
+
+The issue here is how to conclude the research, how to terminate the roles adopted, how (and whether) to bring to an end the relationships that have built up over the course of the research, and how to disengage from the field in ways that bring as little disruption to the group or situation as possible (LeCompte and Preissle, 1993: 101). De Laine (2000: 142) remarks that some participants may want to maintain contact after the research is over, and not to do this might create, for them, a sense of disappointment, exploitation or even betrayal. One has to consider the after-effects of leaving and take care to ensure that nobody comes to harm or is worse off from the research, even if it is impossible to ensure that they have benefited from it.
+
+Stage 12 Writing the report
+
+There is a shift in emphasis in much research literature, away from the conduct of the research and towards the reporting of the research. It is often the case that the main vehicle for writing naturalistic research is the case study (see Chapter 9), whose ‘trustworthiness’ (Lincoln and Guba, 1985: 189) is defined in terms of credibility, transferability, dependability and confirmability – discussed in Chapter 10. Case studies are useful in that they can provide the thick descriptions that are useful in ethnographic research, and can catch and portray to the reader what it is like to be involved in the situation (Lincoln and Guba, 1985: 214). As Lincoln and Guba comment (p. 359), the case study is the ideal instrument for ‘emic’ enquiry. It also builds in and builds on the tacit knowledge that the writer and reader bring to the report, and, thereby, takes seriously their notion of the ‘human instrument’ in research, indicating the interactions of researcher and participants.
+
+Lincoln and Guba provide several guidelines for writing case studies (1985: 365–6):
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/181_box.jpg | image]
+ the writing should strive to be informal and to capture informality;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/182_box.jpg | image]
+ as far as possible the writing should report facts except in those sections where interpretation, evaluation and inference are made explicit;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/183_box.jpg | image]
+ in drafting the report it is more advisable to opt for over-inclusion rather than under-inclusion;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/184_box.jpg | image]
+ the ethical conventions of report writing must be honoured, e.g. anonymity, non-traceability;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/185_box.jpg | image]
+ the case study writer should make clear the data that give rise to the report, so the readers have a means of checking back for reliability and validity and inferences;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/186_box.jpg | image]
+ a fixed completion date should be specified.
+
+Spradley (1979) suggests nine practical steps that can be followed in writing an ethnography:
+
+1 Select the audience.
+
+2 Select the thesis.
+
+3 Make a list of topics and create an outline of the ethnography.
+
+4 Write a rough draft of each section of the ethnography.
+
+5 Revise the outline and create subheadings.
+
+6 Edit the draft.
+
+7 Write an introduction and a conclusion.
+
+8 Reread the data and report to identify examples.
+
+9 Write the final version.
+
+Clearly there are several other aspects of case study reporting that need to be addressed. These are set out in Chapter 14.
+
+The writing of a qualitative report can also consider the issue of the generalizability of the research. Whilst much qualitative research strives to embrace the uniqueness, the individual idiographic features, of the phenomenon and/or participants, rendering generalization irrelevant (though the study would still need to ensure that it contributes something that is worthwhile and significant for the research community), this need not preclude attention to generalization where it might be applicable in qualitative research. Indeed one can question the value or contribution of idiographic research that does not have any generalizable function or utility (Wolcott, 1994: 113).
+
+Generalization takes many forms; it is not a unitary or singular concept, and it connotes far more than the familiar terms ‘transferability’ (Denzin and Lincoln, 1994) or ‘external validity’ (Cook and Campbell, 1979). Larsson (2009: 27) comments that generalization as that which is derived by strict sampling from a defined population is often irrelevant in qualitative research. He also suggests that those single studies that seek to undermine ‘universal’ truths similarly do not need to aspire to be generalizable, as the single instance of falsification (‘negative cases’, p. 30) may be sufficient to bring down the theory (though the case would need to be made that the ‘truths’ ever claimed to be universal in the first place as social actions may not be susceptible to universal laws of behaviour). However, he suggests three kinds of reasoning on which generalization in qualitative research might be useful:
+
+1 Enhancing the potential for generalization by maximizing the range of a sample’s characteristics in exploring a particular issue (e.g. in theoretical sampling) or phenomenon, i.e. to ensure that as many different cases or categories of an issue as possible are included in the research. In this instance the uncommon cases have as equal a weight as the typical cases, and the variation that exists within the study should be expected to exist in the wider population, context or situation to which one wishes to generalize (p. 31). This, in turn, may require a larger sample than may be normal in qualitative research, in order to have as broad a variation and range of characteristics as possible included, and this may not be possible in some qualitative research, e.g. case studies. It also assumes that the researcher will know what the maximum variation will look like, so that he or she knows when it is reached, and this, too, may not be realistic (p. 32).
+
+2 Generalization by ensuring the similarity of contexts between that of the qualitative research and the wider contexts to which it is wished to be applied (akin to the ‘transferability’ criterion of Guba and Lincoln (1994)). Here Strauss and Corbin (1990: 267) argue that generalizability might also be replaced by ‘explanatory power’ in the context of the research and the wider contexts. This view of generalizability assumes that the characteristics of the wider contexts are known, and this may not be for the researcher to judge, but, rather, for the outsider readers, audiences or users of the research to make such judgements (c.f. Wolcott, 1994: 113). Hence, Larsson (2009: 32) argues, the task of the researcher is to provide sufficient details and ‘thick descriptions’ for the audiences to come to an informed judgement about this form of generalizability. A problem is raised in this kind of generalizability, in deciding when, and on what – and how many – criteria the contexts of the research and the wider contexts are similar and when sufficient similarity of contexts has been reached for the research to be generalizable to those wider contexts (p. 33), as the same kinds of people may act differently in different – or even the same – contexts.
+
+3 Generalization by the recognition of similar patterns between the research and other contexts (Larsson, 2009: 33–5) in terms of, for example, theoretical constructions, themes, concepts, behaviours, assumptions made and processes, and in the interpretations of actions, events or descriptions. In this instance the problem of interpretation is raised, as interpretations of one context may be very different from the interpretations made of another – however similar – context. Whether a pattern is indeed a pattern, or whether a construction is an acceptable construction, is a matter of debate and interpretation. Researchers have to be sure that the patterns between both research and the wider context are, indeed, tenable. Interpretation is an inescapable feature of qualitative research, and it is this precise matter that renders difficult the applicability of research from one context to another, because it is not the context but the interpretation of the context that has to be similar to that to which it is being applied, and then one is faced with the added problem of identifying whose interpretation should stand (not only the issue of ‘emic’ and ‘etic’ research, but also whose ‘etic’ and ‘emic’ interpretations, given that there will be multiple variants of each type).
+
+Larsson (2009: 36) is arguing powerfully that the responsibility for generalization from qualitative research resides with the audience rather than the researcher. However, to suggest this may be to invite the view that the researcher has no special expertise to offer here; if so, then how is the research justified? Perhaps the solution to this is to regard the research, as with other kinds of research, as raising working hypotheses rather than conclusions, i.e. about being ‘work in progress’ rather than unassailable truths.
+
+11.4 Critical ethnography
+
+An emerging branch of ethnography that resonates with the critical paradigm outlined in Chapter 3 is the field of critical ethnography – ‘critical theory in action’ (Madison, 2005: 13), which, as Thomas (1993: vii) suggests, adopts a ‘subversive worldview’ to conventional traditions of research.
+
+Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be (Thomas, 1993: 4). Here not only is qualitative, anthropological, participant, observer-based research undertaken, but its theoretical basis lies in critical theory (Quantz, 1992: 448; Carspecken, 1996). As was outlined in Chapter 3, this paradigm is concerned with the exposure of oppression and inequality in society with a view to emancipating individuals and groups towards collective empowerment. In this respect research is an inherently political enterprise; it is ethnography with a political intent (cf. Thomas, 1993: 4). Madison (2005: 5) indicates that critical ethnography has an explicit agenda, that it has an ‘ethical responsibility’ to promote freedom, social justice, equity and well-being. This, he avers, inevitably involves disturbing accepted meanings and disrupting the status quo and purported neutrality of research, together with exposing taken-for-granted, ‘domesticated’ (Thomas, 1993: 7) assumptions that perpetuate the power of the already powerful at the expense of the powerless and the dominated. It takes power, control and social exploitation as problematic, and to be changed, rather than simply to be interrogated and discovered (Thomas, 1993: 6). Like ethnography, it catches ethnographic data, but, beyond this, exposes this to the ideology critique that was set out in Chapter 2 of this volume.
+
+Like Habermas’s emancipatory interest (Chapter 3), research is not simply a scientific, technical exercise, nor is it simply a hermeneutic matter of understanding and interpreting a situation; it does not reject these, but it requires the researcher to move beyond them (Thomas, 1993: 19), to engage different ways of ‘viewing the world’ (Thomas, 1993: 67). Rather it is a political act, and it must play its part as activism against hegemonic oppression, and researchers have to consider their own ‘positionality’ in this enterprise (Madison, 2005: 7), i.e. how their research will help to break domination and inequality. Researchers and their research are neither neutral nor innocent. Both subjectivity and objectivity have to be interrogated for their political stances and effects (p. 8) in relation to those being researched (the ‘Others’ (p. 9)); the research has to make a positive difference to the worlds of the ‘Others’ (the participants). This moves the ethnographer beyond simply being reflexive to being an activist.
+
+This is contentious: on the one hand it suggests that the researcher is an ideologist (rather than, say, a theorist); on the other hand the claim would be made that, like it or not, research is a political act, it is just that this has been hidden in much research.
+
+Carspecken (1996: 4ff.) suggests several key premises of critical ethnography:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/187_box.jpg | image]
+ research and thinking are mediated by power relations;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/188_box.jpg | image]
+ these power relations are socially and historically located;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/189_box.jpg | image]
+ facts and values are inseparable;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/190_box.jpg | image]
+ relationships between objects and concepts are fluid and mediated by the social relations of production;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/191_box.jpg | image]
+ language is central to perception;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/192_box.jpg | image]
+ certain groups in society exert more power than others;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/193_box.jpg | image]
+ inequality and oppression are inherent in capitalist relations of production and consumption;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/194_box.jpg | image]
+ ideological domination is strongest when oppressed groups see their situation as inevitable, natural or necessary;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/195_box.jpg | image]
+ forms of oppression mediate each other and must be considered together (e.g. race, gender, class).
+
+Quantz (1992: 473–4) argues that research is inescapably value-laden in that it serves some interests, and that in critical ethnography researchers must expose these interests and move participants towards emancipation and freedom. The focus and process of research are thus political at heart, concerning issues of power, domination, voice and empowerment. In critical ethnography the cultures, groups and individuals being studied are located in contexts of power and interests. These contexts have to be exposed, their legitimacy interrogated and the value base of the research itself exposed. Reflexivity is high in critical ethnography. What separates critical ethnography from other forms of ethnography is that, in the former, questions of legitimacy, power, values in society and domination and oppression are foregrounded.
+
+How does the critical ethnographer proceed? This is not an easy task, as critical ethnography focuses on, and challenges, taken-for-granted assumptions and meanings, and these may be difficult to expose simply because they are so taken-for-granted, i.e. embedded in our daily lifeworlds and behaviour. In this sense a critical ethnography is untidy, the study emerges rather than being planned in advance; areas of focus emerge as meanings are revealed and challenged from the position of ideology critique (Thomas, 1993: 35). It starts with unsettling issues in society and explores them further (Thomas gives the examples of prisons, the social construction of deviance, racism, prejudice and repressive legislation).
+
+Carspecken and Apple (1992: 512–14) and Carspecken (1996: 41–2) identify five stages in critical ethnography (see Figure 11.4).
+
+Stage 1 Compiling the primary record through the collection of monological data
+
+At this stage the researcher is comparatively passive and unobtrusive – a participant observer. The task here is to acquire objective data and it is ‘monological’ in the sense that it concerns only the researcher writing her own notes to herself. Lincoln and Guba (1985) suggest that validity checks at this stage will include:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/196_f0244-01.jpg | image]
+
+1 using multiple devices for recording together with multiple observers;
+
+2 using a flexible observation schedule in order to minimize biases;
+
+3 remaining in the situation for a long time in order to overcome the Hawthorne effect;
+
+4 using low-inference terminology and descriptions;
+
+5 using peer-debriefing;
+
+6 using respondent validation.
+
+Echoing Habermas’s (1979, 1982, 1984) work on validity claims, validity here includes truth (the veracity of the utterance), legitimacy (rightness and appropriateness of the speaker), comprehensibility (that the utterance is comprehensible) and sincerity (of the speaker’s intentions). Carspecken (1996: 104–5) takes this further in suggesting several categories of reference in objective validity: (i) that the act is comprehensible, socially legitimate and appropriate; (ii) that the actor has a particular identity and particular intentions or feelings when the action takes place; (iii) that objective, contextual factors are acknowledged.
+
+Stage 2 Preliminary reconstructive analysis
+
+Reconstructive analysis attempts to uncover the taken-for-granted components of meaning or abstractions that participants have of a situation. Such analysis is intended to identify the value systems, norms, key concepts that are guiding and underpinning situations. Carspecken (1996: 42) suggests that the researcher goes back over the primary record from stage one to examine patterns of interaction, power relations, roles, sequences of events and meanings accorded to situations. He asserts that what distinguishes this stage as ‘reconstructive’ is that cultural themes, social and system factors that are not usually articulated by the participants themselves are, in fact, reconstructed and articulated, making the undiscursive into discourse. In moving to higher level abstractions this stage can utilize high-level coding (see the discussion of coding in this chapter).
+
+In critical ethnography Carspecken (1996: 141) delineates several ways of ensuring validity at this stage:
+
+1 Use interviews and group discussions with the subjects themselves.
+
+2 Conduct member checks on the reconstruction in order to equalize power relations.
+
+3 Use peer debriefing (a peer is asked to review the data to suggest if the researcher is being too selective, e.g. of individuals, of data, of inference) to check biases or absences in reconstructions.
+
+4 Employ prolonged engagement to heighten the researcher’s capacity to assume the insider’s perspective.
+
+5 Use ‘strip analysis’ – checking themes and segments of extracted data with the primary data, for consistency.
+
+6 Use negative case analysis.
+
+Stage 3 Dialogical data collection
+
+Here data are generated by, and discussed with, the participants (Carspecken and Apple, 1992). The authors argue that this is not-naturalistic in that the participants are being asked to reflect on their own situations, circumstances and lives and to begin to theorize about their lives. This is a crucial stage because it enables the participants to have a voice, to democratize the research. It may be that this stage produces new data that challenge the preceding two stages.
+
+In introducing greater subjectivity by participants into the research at this stage Carpsecken (1996: 164–5) proffers several validity checks, e.g. (a) consistency checks on interviews that have been recorded; (b) repeated interviews with participants; (c) matching observation with what participants say is happening or has happened; (d) avoiding leading questions at interview, reinforced by having peer debriefers check on this; (e) respondent validation; (f ) asking participants to use their own terms in describing naturalistic contexts, and encouraging them to explain these terms.
+
+Stage 4 Discovering system relations
+
+This stage relates the group being studied to other factors that impinge on that group, e.g. local community groups, local sites that produce cultural products. At this stage Carspecken (1996: 202) notes that validity checks will include: (i) maintaining the validity requirements of the earlier stages; (ii) seeking a match between the researcher’s analysis and the commentaries that are provided by the participants and other researchers; (iii) using peer debriefers and respondent validation.
+
+Stage 5 Using system relations to explain findings
+
+This stage seeks to examine and explain the findings in light of macro-social theories (Carspecken, 1996: 202). In part, this is a matching exercise to fit the research findings within a social theory.
+
+In critical ethnography, therefore, the move is from describing a situation, to understanding it, to questioning it and to changing it. This parallels the stages of ideology critique set out in Chapter 2:
+
+Stage 1 A description of the existing situation – a hermeneutic exercise.
+
+Stage 2 A penetration of the reasons that brought the situation to the form that it takes.
+
+Stage 3 An agenda for altering the situation.
+
+Stage 4 An evaluation of the achievement of the new situation.
+
+11.5 Some problems with ethnographic and naturalistic approaches
+
+There are several difficulties in ethnographic and natural approaches. These might affect the reliability and validity of the research, and include:
+
+1 The definition of the situation – the participants are being asked for their definition of the situation, yet they have no monopoly on wisdom. They may be ‘falsely conscious’ (unaware of the ‘real’ situation), deliberately distorting or falsifying information, or being highly selective. The issues of reliability and validity here are addressed in Chapter 10 (see the discussions of triangulation).
+
+2 Reactivity – the Hawthorne effect – the presence of the researcher alters the situation as participants may wish to avoid, impress, direct, deny or influence the researcher. Again, this is discussed in Chapter 10. Typically the problem of reactivity is addressed by careful negotiation in the field, remaining in the field for a considerable time, ensuring as far as possible a careful presentation of the researcher’s self.
+
+3 The halo effect – where existing or given information about the situation or participants might be used to be selective in subsequent data collection, or may bring about a particular reading of a subsequent situation (the research equivalent of the self-fulfilling prophecy). This is an issue of reliability, and can be addressed by the use of a wide, triangulated database and the assistance of an external observer. The halo effect commonly refers to the researcher’s belief in the goodness of participants (the participants have haloes around their heads!), such that the more negative aspects of their behaviour or personality are neglected or overlooked. By contrast, the horns effect refers to the researcher’s belief in the badness of the participants (the participants have devils’ horns on their heads!), such that the more positive aspects of their behaviour or personality are neglected or overlooked.
+
+4 The implicit conservatism of the interpretive methodology. The kind of research described in this chapter, with the possible exception of critical ethnography, accepts the perspective of the participants and corroborates the status quo. It is focused on the past and the present rather than on the future.
+
+5 There is the difficulty of focusing on the familiar, participants (and, maybe researchers too) being so close to the situation that they neglect certain, often tacit, aspects of it. The task, therefore, is to make the familiar strange. Delamont (1981) suggests that this can be done by:
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/197_box.jpg | image]
+ studying unusual examples of the same issue (e.g. atypical classrooms, timetabling or organizations of schools);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/198_box.jpg | image]
+ studying examples in other cultures;
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/199_box.jpg | image]
+ studying other situations that might have a bearing on the situation in hand (e.g. if studying schools it might be useful to look at other similar-but-different organizations, for instance hospitals or prisons);
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/200_box.jpg | image]
+ taking a significant issue and focusing on it deliberately, e.g. gendered behaviour.
+
+6 The open-endedness and diversity of the situations studied. The drive towards focusing on specific contexts and situations might overemphasize the difference between contexts and situations rather than their gross similarity, their routine features. Researchers, should be as aware of regularities as of differences.
+
+7 The neglect of wider social contexts and constraints. Studying situations that emphasize how highly context-bound they are, might neglect broader currents and contexts – micro-level research risks putting boundaries that exclude important macro-level factors. Wider – macro-contexts – cannot be ruled out of individual situations.
+
+8 The issue of generalizability. If situations are unique and non-generalizable, as many naturalistic principles would suggest, how is the issue of generalizability going to be addressed? To which contexts will the findings apply, and what is the role and nature of replication studies?
+
+9 How to write up multiple realities and explanations? How will a representative view be reached? What if the researcher sees things that are not seen by the participants?
+
+10 Who owns the data, the report, and who has control over the release of the data?
+
+Naturalistic and ethnographic research, then, are important, if challenging, research methods in education. Recently, the emerging field of autoethnography has been developed in research. Here the researcher compiles a personal, subjective narrative about his or her own life or situation, and this can include feelings, reactions, agentic and constrained behaviour, i.e. those elements of an ethnography that feature in conducting other-than-self ethnographies. It has been aligned to autobiography with a reflexive turn. For examples of this see Reed-Denahay (1997); Ellis (2004); and Chang (2008).
+
+Useful websites for those commencing qualitative research are:
+
+www.nova.edu/ssss/QR/web.html (which gives the websites of several hundred other sites providing materials on qualitative research);
+
+www.esds.ac.uk/qualidata/about/introduction.asp (the UK’s Economic and Social Data website);
+
+www.esrc.ac.uk/ESRCInfoCentre/research/resources/index.aspx (the UK’s Economic and Social Research Council’s website);
+
+http://caqdas.soc.surrey.ac.uk/ (the Computer Assisted Qualitative Data Analysis website);
+
+www.data-archive.ac.uk/ (the UK data archive);
+
+http://gsociology.icaap.org/methods/qual.htm (a source for accessing other websites for online materials and support).
+
+Additionally Gobo and Diotti (2008) have compiled an extensive list of journals, newsletters, online fora, search engines, archives and thematic portals, training and research centres, interviews and software, all available on the internet.
+
+[图片: images/025_11 Naturalistic, qualitative and ethnographic research/201_f0164-01.jpg | Image]
+ Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.

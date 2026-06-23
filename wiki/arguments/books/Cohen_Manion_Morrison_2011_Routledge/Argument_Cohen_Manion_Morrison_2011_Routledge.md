@@ -21,8 +21,8 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases:
-  - "Cohen et al., 2011"
-  - "Cohen et al. (2011)"
+  - "Cohen et al., 2011a"
+  - "Cohen et al. (2011a)"
 tags:
   - method/research-methods
   - source/textbook
@@ -155,6 +155,7 @@ updated: 2026-06-22
 > | 第37章 Inferential statistics: difference tests | | |
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
 > | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|第11章]] | | |
 
 > [!knowledge-map]- 知识路线图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Knowledge_Map.jpg)

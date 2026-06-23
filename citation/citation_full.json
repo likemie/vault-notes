@@ -835,10 +835,10 @@
       "title": "Argument_Chan_2015_Intersect",
       "year": "2015"
     },
-    "Cohen et al. (2011)": {
+    "Cohen et al. (2011a)": {
       "aliases": [
-        "Cohen et al., 2011",
-        "Cohen et al. (2011)"
+        "Cohen et al., 2011a",
+        "Cohen et al. (2011a)"
       ],
       "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "authors": [
@@ -851,6 +851,24 @@
       "isbn": "978-0-415-58336-7",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
       "title": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+      "year": "2011"
+    },
+    "Cohen et al. (2011b)": {
+      "aliases": [
+        "Cohen et al., 2011b",
+        "Cohen et al. (2011b)"
+      ],
+      "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11",
+      "authors": [
+        "[[Louis Cohen|Cohen, L.]]",
+        "[[Lawrence Manion|Manion, L.]]",
+        "[[Keith Morrison|Morrison, K.]]"
+      ],
+      "citation": "",
+      "doi": "",
+      "isbn": "978-0-415-58336-7",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
+      "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11",
       "year": "2011"
     },
     "Cohen et al. (2025)": {
@@ -871,10 +889,10 @@
       "title": "Argument_Cohen_2025_JTT",
       "year": "2025"
     },
-    "Cohen et al., 2011": {
+    "Cohen et al., 2011a": {
       "aliases": [
-        "Cohen et al., 2011",
-        "Cohen et al. (2011)"
+        "Cohen et al., 2011a",
+        "Cohen et al. (2011a)"
       ],
       "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "authors": [
@@ -887,6 +905,24 @@
       "isbn": "978-0-415-58336-7",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
       "title": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+      "year": "2011"
+    },
+    "Cohen et al., 2011b": {
+      "aliases": [
+        "Cohen et al., 2011b",
+        "Cohen et al. (2011b)"
+      ],
+      "argument": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11",
+      "authors": [
+        "[[Louis Cohen|Cohen, L.]]",
+        "[[Lawrence Manion|Manion, L.]]",
+        "[[Keith Morrison|Morrison, K.]]"
+      ],
+      "citation": "",
+      "doi": "",
+      "isbn": "978-0-415-58336-7",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
+      "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11",
       "year": "2011"
     },
     "Cohen et al., 2025": {
