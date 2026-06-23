@@ -37,7 +37,8 @@
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,9 +206,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "scripts/__pycache__/wiki_linker.cpython-313.pyc",
+    "wiki/concepts/research-methodology/Ethics Debriefing.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/concepts/research-methodology/Paradigm.md",
     "wiki/concepts/research-methodology/Rich and Thick Description.md",
     "wiki/concepts/research-methodology/Non-maleficence and Beneficence in Research.md",
@@ -231,9 +235,6 @@
     "wiki/concepts/research-methodology/Criterion-related Validity.md",
     "wiki/concepts/research-methodology/Content Validity.md",
     "wiki/methods/qualitative/Peer Debriefing.md",
-    "wiki/concepts/research-methodology/Negative Case Analysis.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09.md",
-    "wiki/methods/qualitative/Snowball Sampling.md",
     "raw/023_10 Validity and reliability.txt",
     "wiki/concepts/research-methodology/Sensitive Research.md.tmp.33151.728feba274d9",
     "raw/022_9 Sensitive educational research.txt",

@@ -231,7 +231,12 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 > | 可确认性 | confirmability | 客观性（objectivity） | 研究发现由数据和参与者建构而来，而非研究者偏见 |
 
 > [!tip] 在这四项标准内达成严谨性的具体策略
-> 严谨性（rigour）可通过以下方式实现：仔细的**审计追踪**（audit trails）记录研究全过程证据；[[Coding in Qualitative Research|编码]]或分类时的**成员核查**（member checking / respondent validation）；**同伴汇报**（[[Peer Debriefing]]）；[[Negative Case Analysis|负面案例分析]]（negative case analysis）；**结构互证**（structural corroboration，即[[Triangulation|三角验证]]）；以及**参照材料充分性**（referential material adequacy，充分引用领域内标准文献）（pp.160–161）。
+> - **审计追踪**（audit trails） 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
+> - **成员核查**（member checking / respondent validation） 在[[Coding in Qualitative Research|编码]]或分类时让参与者确认、修正或补充
+> - **同伴汇报**（[[Peer Debriefing|peer debriefing]]） 将研究暴露于无利害关系的同行面前进行交叉审问式检验
+> - **[[Negative Case Analysis|负面案例分析]]**（negative case analysis） 系统检验不符合已有假设的案例以修正和完善理论
+> - **结构互证**（structural corroboration） 即[[Triangulation|三角验证]]，在方法、来源、研究者和理论之间交叉检验
+> - **参照材料充分性**（referential material adequacy） 充分引用领域内标准文献作为发现的外部参照（pp.160–161）
 
 ---
 
@@ -260,31 +265,33 @@ Maxwell (1992) 以"理解"（understanding）为核心，提出了五种质性�
 
 Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工作，列出了质性研究中确保效度的二十多项具体措施（pp.162–163）：
 
-> [!proc] 质性研究效度保障措施清单
-> 1. **长期田野参与**（prolonged engagement） 在田野中停留足够长的时间以收集丰富和充分的数据
-> 2. **持续观察**（persistent observation） 识别关键相关议题并将其与相对无关事项分离
-> 3. **三角验证**（triangulation） 在方法、来源、研究者和理论之间交叉检验
-> 4. **审计追踪**（audit trail） 记录原始数据、分析记录、数据还原、重构和综合、"过程笔记"、研究者意图和倾向笔记、工具开发信息
-> 5. **成员核查**（member checking） 参与者验证——让被研究者确认、修正或补充
-> 6. **证据加权**（weighting the evidence） 对高质量数据给予适当关注，对低质量数据给予较少关注
-> 7. **代表性检查**（checking for representativeness） 避免对发现的无支撑的可推广性论断
-> 8. **研究者效应检查**（checking for researcher effects） 检查研究者的个人特征（着装、外表、性别、年龄、族裔）对研究的影响程度
-> 9. **对比/比较**（making contrast/comparisons） 在子群体、地点和文献之间进行比较
-> 10. **[[Theoretical Sampling|理论抽样]]**（theoretical sampling） 跟随数据引领的方向，而非引领数据
-> 11. **异常值检查**（checking the meaning of outliers） 检查异常值和例外如何为理解现象提供杠杆
-> 12. **极端案例**（using extreme cases） 识别大多数案例中缺失的内容
-> 13. **排除虚假关系**（ruling out spurious relations） 避免在不存在的地方归因因果或关联
-> 14. **重复发现**（replicating a finding） 识别发现可能适用于其他群体的程度
-> 15. **参照充分性**（referential adequacy） 将发现充分引用到基准或重要文献
-> 16. **追踪意外**（following up surprises） 避免/不忽略意外结果
-> 17. **结构关系**（structural relationships） 寻找发现之间以及发现与文献之间的一致性
-> 18. **同伴汇报**（peer [[Ethics Debriefing|debriefing]]） 对研究、其进行过程和发现进行外部评估
-> 19. **丰富厚描述**（rich and thick description） 提供支撑和佐证发现的细节
-> 20. **作案手法法**（modus operandi approach） 专门寻找研究中可能的无效度来源
-> 21. **评估竞争解释**（assessing rival explanations） 寻找数据的替代解释和解释
-> 22. **负面案例分析**（negative case analysis） 检查反证案例以确定假设或发现是否需要修正
-> 23. **确认性数据分析**（confirmatory data analysis） 在可能的情况下进行质性复制研究
-> 24. **[[Effect Size|效应量]]**（effect sizes） 避免简单"二元化"（如强/弱、在场/缺席、正面/负面），改用大小/效力/强度的指示代替
+> [!seq-table] 质性研究效度保障措施清单
+> | 措施 | 说明 |
+> |---|---|
+> | **长期田野参与**（prolonged engagement） | 在田野中停留足够长的时间以收集丰富和充分的数据 |
+> | **持续观察**（persistent observation） | 识别关键相关议题并将其与相对无关事项分离 |
+> | **三角验证**（triangulation） | 在方法、来源、研究者和理论之间交叉检验 |
+> | **审计追踪**（audit trail） | 记录原始数据、分析记录、数据还原、重构和综合、过程笔记、研究者意图和倾向笔记、工具开发信息 |
+> | **成员核查**（member checking） | 参与者验证，让被研究者确认、修正或补充 |
+> | **证据加权**（weighting the evidence） | 对高质量数据给予适当关注，对低质量数据给予较少关注 |
+> | **代表性检查**（checking for representativeness） | 避免对发现的无支撑的可推广性论断 |
+> | **研究者效应检查**（checking for researcher effects） | 检查研究者的个人特征（着装、外表、性别、年龄、族裔）对研究的影响程度 |
+> | **对比/比较**（making contrast/comparisons） | 在子群体、地点和文献之间进行比较 |
+> | **[[Theoretical Sampling\|理论抽样]]**（theoretical sampling） | 跟随数据引领的方向，而非引领数据 |
+> | **异常值检查**（checking the meaning of outliers） | 检查异常值和例外如何为理解现象提供杠杆 |
+> | **极端案例**（using extreme cases） | 识别大多数案例中缺失的内容 |
+> | **排除虚假关系**（ruling out spurious relations） | 避免在不存在的地方归因因果或关联 |
+> | **重复发现**（replicating a finding） | 识别发现可能适用于其他群体的程度 |
+> | **参照充分性**（referential adequacy） | 将发现充分引用到基准或重要文献 |
+> | **追踪意外**（following up surprises） | 避免/不忽略意外结果 |
+> | **结构关系**（structural relationships） | 寻找发现之间以及发现与文献之间的一致性 |
+> | **同伴汇报**（peer debriefing） | 对研究、其进行过程和发现进行外部评估 |
+> | **丰富厚描述**（rich and thick description） | 提供支撑和佐证发现的细节 |
+> | **作案手法法**（modus operandi approach） | 专门寻找研究中可能的无效度来源 |
+> | **评估竞争解释**（assessing rival explanations） | 寻找数据的替代解释和解释 |
+> | **负面案例分析**（[[Negative Case Analysis\|negative case analysis]]） | 检查反证案例以确定假设或发现是否需要修正 |
+> | **确认性数据分析**（confirmatory data analysis） | 在可能的情况下进行质性复制研究 |
+> | **[[Effect Size\|效应量]]**（effect sizes） | 避免简单二元化（如强/弱、在场/缺席、正面/负面），改用大小/效力/强度的指示代替 |
 
 ---
 
