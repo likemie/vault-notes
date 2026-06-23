@@ -7,6 +7,12 @@ summary: "Jim Rose 领导的英国早期阅读教学独立审查，推广简单�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - rose-report

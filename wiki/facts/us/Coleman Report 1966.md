@@ -7,6 +7,12 @@ summary: "美国教育部委托的里程碑式教育机会平等研究（650,000
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - coleman-report
 - education-inequality

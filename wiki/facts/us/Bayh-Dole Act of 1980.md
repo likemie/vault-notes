@@ -9,6 +9,12 @@ summary: "1980 年美国联邦立法，规定联邦政府资助下在大学产�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

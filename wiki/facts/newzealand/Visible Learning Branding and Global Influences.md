@@ -6,6 +6,12 @@ summary: "Visible Learning 从新西兰学术成果扩展为跨国品牌与培�
 type: fact
 subtype: event
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "event"
+fact_related_count: 60
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 tags:
 - visible-learning
 - commercialization

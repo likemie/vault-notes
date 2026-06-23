@@ -9,6 +9,12 @@ summary: "德国以企业实践培训与职业学校理论学习交替进行为�
 type: fact
 subtype: policy
 region: germany
+fact_region: "germany"
+fact_kind: "policy"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "Bundesinstitut für Berufsbildung (BIBB)"
 tags:
   - region/germany

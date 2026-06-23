@@ -7,6 +7,12 @@ summary: "1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - ines
 - oecd

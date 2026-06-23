@@ -6,6 +6,12 @@ summary: "多领域非营利清算中心，最高评级强调高质量研究、�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - blueprints
 - educational-evidence-clearinghouse

@@ -8,6 +8,12 @@ summary: "2011 年由美国国家科学基金会启动的创业培训项目，�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 1
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

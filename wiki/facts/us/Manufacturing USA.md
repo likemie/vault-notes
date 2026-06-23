@@ -5,6 +5,12 @@ summary: "美国联邦政府支持的公私合作研发制造计划网络，由�
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "U.S. Federal Government"
 tags:
   - region/us

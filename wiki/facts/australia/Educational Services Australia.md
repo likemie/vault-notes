@@ -7,6 +7,12 @@ summary: "澳大利亚注册慈善机构，作为AITSL、ACARA和AERO的母体�
 type: fact
 subtype: organization
 region: australia
+fact_region: "australia"
+fact_kind: "organization"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dcfce7"
 issuing_organization: Educational Services Australia
 tags:
   - region/australia

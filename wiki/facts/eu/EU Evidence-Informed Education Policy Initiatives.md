@@ -9,6 +9,12 @@ summary: "2006年以来欧盟通过评价文化、知识中介网络和Eurydice�
 type: fact
 subtype: policy
 region: EU
+fact_region: "EU"
+fact_kind: "policy"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: European Commission
 tags:
   - region/eu

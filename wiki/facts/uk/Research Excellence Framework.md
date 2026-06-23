@@ -7,6 +7,12 @@ summary: "2014 年起取代 RAE 的英国全国性大学研究评估体系，评
 type: fact
 subtype: event
 region: "UK"
+fact_region: "UK"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - region/uk
   - level/higher-education

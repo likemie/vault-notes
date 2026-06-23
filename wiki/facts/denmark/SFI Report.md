@@ -7,6 +7,12 @@ summary: "Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/
 type: fact
 subtype: event
 region: denmark
+fact_region: "denmark"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - effective-teaching
 - region/denmark

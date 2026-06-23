@@ -8,6 +8,12 @@ summary: "美国联邦最高法院关于科学证据可采性的里程碑裁决�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - daubert
 - junk-science

@@ -8,6 +8,12 @@ summary: "OECD 启动的高等教育学习成果评估可行性研究，试图�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - oecd
 - higher-education

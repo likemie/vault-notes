@@ -8,6 +8,12 @@ summary: "Georgia Tech 于 1990 年代末开发的产学合作创新园区，由
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

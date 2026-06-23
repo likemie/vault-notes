@@ -9,6 +9,12 @@ summary: "2003 年上海交通大学发布的首个全球大学排名，以研�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - university-rankings
 - higher-education

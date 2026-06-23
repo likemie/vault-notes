@@ -8,6 +8,12 @@ summary: "维多利亚州教育部发布的高影响教学策略和识字工具�
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "Department of Education and Training Victoria"
 tags:
   - victorian-hits

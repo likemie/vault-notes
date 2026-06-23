@@ -8,6 +8,12 @@ summary: "2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇�
 type: fact
 subtype: event
 region: denmark
+fact_region: "denmark"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - visible-learning
 - region/denmark

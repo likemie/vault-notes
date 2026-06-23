@@ -6,6 +6,12 @@ summary: "教育部将原先由大学教育学院提供的学校支持服务合�
 type: fact
 subtype: policy
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - school-reform

@@ -7,6 +7,12 @@ summary: "英国证据传播机构，主要把研究报告转化为教师和政�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Centre for the Use of Research and Evidence in Education
 tags:
   - region/uk

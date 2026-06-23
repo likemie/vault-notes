@@ -9,6 +9,12 @@ summary: "中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - region/china
 - field/chinese-philosophy

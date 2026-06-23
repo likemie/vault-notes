@@ -8,6 +8,12 @@ summary: "C. Arnold Anderson 于 1958 年在芝加哥大学创立的比较教育
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - subject/comparative-education
   - theme/economics-of-education

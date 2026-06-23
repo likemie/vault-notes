@@ -7,6 +7,12 @@ summary: "EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，�
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/eu

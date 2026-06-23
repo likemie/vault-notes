@@ -9,6 +9,12 @@ summary: "美国联邦政府构建的多层次创新政策体系，涵盖战略�
 type: fact
 subtype: policy
 region: US
+fact_region: "US"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Science and Technology Policy"
 tags:
   - region/us

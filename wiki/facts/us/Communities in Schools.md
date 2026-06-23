@@ -6,6 +6,12 @@ summary: "美国综合学生支持项目，在多个证据清算中心中获得�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - communities-in-schools
   - cis

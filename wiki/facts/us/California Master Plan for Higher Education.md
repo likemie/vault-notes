@@ -9,6 +9,12 @@ summary: "1960 年加州通过的高等教育总体规划，建立了社区学�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

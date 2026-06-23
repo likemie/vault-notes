@@ -8,6 +8,12 @@ summary: "2014 年成立的混合方法研究国际学术组织，随后在多�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - mixed-methods
   - research-methodology

@@ -7,6 +7,12 @@ summary: "Milton 向英国议会发表的反对出版许可令演说，提出寻
 type: fact
 subtype: event
 region: uk
+fact_region: "uk"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - region/uk
 - censorship

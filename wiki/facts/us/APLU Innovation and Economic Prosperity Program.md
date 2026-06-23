@@ -8,6 +8,12 @@ summary: "美国公立与赠地大学协会（APLU）设立的认证项目，为
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

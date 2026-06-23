@@ -9,6 +9,12 @@ summary: "1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - region/us
   - level/higher-education

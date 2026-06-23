@@ -9,6 +9,12 @@ summary: "从统包统分到双向选择的高校毕业生就业市场化改革�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - college-graduate-employment

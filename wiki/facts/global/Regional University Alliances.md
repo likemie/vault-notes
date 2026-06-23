@@ -6,6 +6,12 @@ summary: "跨国或区域性大学联盟，通过科研合作、师生流动和�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - higher-education
 - university-alliances

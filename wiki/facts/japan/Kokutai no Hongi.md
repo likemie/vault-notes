@@ -7,6 +7,12 @@ summary: "日本文部省思想局编写的皇国思想教育文本，曾在殖�
 type: fact
 subtype: event
 region: japan
+fact_region: "japan"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - region/japan
 - region/asia

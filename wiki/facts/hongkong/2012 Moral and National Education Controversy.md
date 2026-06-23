@@ -7,6 +7,12 @@ summary: "2012 年德育及国民教育科争议引发学生占领抗议，成�
 type: fact
 subtype: event
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - moral-national-education
 - hong-kong

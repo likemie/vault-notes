@@ -9,6 +9,12 @@ summary: "加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "theme/university-industry-collaboration"

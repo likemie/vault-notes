@@ -5,6 +5,12 @@ summary: "英国在 2017 年产业战略框架下设立的产业主导、产业�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "UK Research and Innovation (UKRI)"
 tags:
   - region/uk

@@ -7,6 +7,12 @@ summary: "Hattie Visible Learning 的俄文译本出版事件，引发俄语教�
 type: fact
 subtype: event
 region: russia
+fact_region: "russia"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - visible-learning
 - evidence-based-education

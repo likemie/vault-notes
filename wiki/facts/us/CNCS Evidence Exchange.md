@@ -7,6 +7,12 @@ summary: "只审查 CNCS 自身资助项目和干预的公共清算中心，提�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - cncs-evidence-exchange
 - ee

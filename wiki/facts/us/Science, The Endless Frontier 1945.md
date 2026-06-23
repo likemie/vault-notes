@@ -9,6 +9,12 @@ summary: "1945 年 Vannevar Bush 向美国总统提交的报告，强调基础�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - region/us
   - level/higher-education

@@ -8,6 +8,12 @@ summary: "2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

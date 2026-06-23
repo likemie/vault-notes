@@ -8,6 +8,12 @@ summary: "英国的教育证据中介组织，2011年成立，由公益基金资
 type: fact
 subtype: organization
 region: uk
+fact_region: "uk"
+fact_kind: "organization"
+fact_related_count: 25
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
+fact_related_color: "#dcfce7"
 issuing_organization: Education Endowment Foundation
 tags:
   - policy/evidence-based

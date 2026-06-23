@@ -7,6 +7,12 @@ summary: "爱尔兰政府资助的制药产学合作网络，由一位学术关�
 type: fact
 subtype: event
 region: ireland
+fact_region: "ireland"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - region/ireland
   - theme/university-industry-collaboration

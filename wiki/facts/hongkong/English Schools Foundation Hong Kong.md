@@ -8,6 +8,12 @@ summary: "香港最大英语学校体系，从英国国民学校（限 10% 本�
 type: fact
 subtype: event
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - region/hongkong
 - level/k12

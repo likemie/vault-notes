@@ -7,6 +7,12 @@ aliases:
 summary: "中国农村家庭为子女选择城镇学校而迁入县城或乡镇陪读的做法，本质上是一种择校迁移行为，按家庭社会经济地位呈现分层，中上层迁出加速了农村学校的衰败"
 type: fact
 subtype: phenomenon
+fact_region: "china"
+fact_kind: "phenomenon"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fce7f3"
 tags:
   - region/china
   - theme/rural-education

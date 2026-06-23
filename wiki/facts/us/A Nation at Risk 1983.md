@@ -8,6 +8,12 @@ summary: "美国国家教育卓越委员会 1983 年发布的报告，以危机�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - assessment
 - education-reform

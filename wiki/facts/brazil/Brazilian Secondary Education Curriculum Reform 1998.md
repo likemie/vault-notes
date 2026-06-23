@@ -8,6 +8,12 @@ summary: "1998 年巴西将中等教育课程从 12–14 门独立学科重组�
 type: fact
 subtype: policy
 region: brazil
+fact_region: "brazil"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 tags:
   - theme/curriculum-reform
   - theme/educational-transfer

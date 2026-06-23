@@ -9,6 +9,12 @@ summary: "2019 年因逃犯条例修订草案引发的大规模抗议，被定�
 type: fact
 subtype: event
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/hong-kong
   - region/china

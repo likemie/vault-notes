@@ -8,6 +8,12 @@ summary: "2011 年启动的高成就毕业生就业型初级教师教育慈善�
 type: fact
 subtype: event
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - teach-first
   - teacher-training

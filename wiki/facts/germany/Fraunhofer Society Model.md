@@ -9,6 +9,12 @@ summary: "德国四大科研机构之一，专注于前沿关键技术的研发�
 type: fact
 subtype: policy
 region: germany
+fact_region: "germany"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "Fraunhofer-Gesellschaft"
 tags:
   - region/germany

@@ -7,6 +7,12 @@ summary: "教育领域 public 清算中心，评级对象为项目，Wadhwa et a
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - best-evidence-encyclopedia
 - bee

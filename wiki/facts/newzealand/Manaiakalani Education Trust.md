@@ -6,6 +6,12 @@ summary: "2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/IC
 type: fact
 subtype: event
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - manaiakalani
 - digital-learning

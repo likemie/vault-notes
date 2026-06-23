@@ -6,6 +6,12 @@ summary: "2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技�
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "Baltimore County Public Schools"
 tags:
   - region/us

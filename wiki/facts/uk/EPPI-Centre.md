@@ -7,6 +7,12 @@ summary: "1995年伦敦大学学院教育学院创建的证据中心，发展系
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: University College London Institute of Education
 tags:
   - region/uk

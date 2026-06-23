@@ -7,6 +7,12 @@ summary: "EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 �
 type: fact
 subtype: event
 region: eu
+fact_region: "eu"
+fact_kind: "event"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - region/eu
 - region/global

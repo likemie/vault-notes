@@ -7,6 +7,12 @@ summary: "2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中
 type: fact
 subtype: policy
 region: denmark
+fact_region: "denmark"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Aarhus University
 tags:
   - region/denmark

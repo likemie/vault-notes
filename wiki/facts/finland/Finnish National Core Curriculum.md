@@ -7,6 +7,12 @@ summary: "芬兰基础教育国家核心课程，将跨学科与现象本位学�
 type: fact
 subtype: policy
 region: finland
+fact_region: "finland"
+fact_kind: "policy"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - curriculum

@@ -7,6 +7,12 @@ summary: "评价项目、政策和实践的公共清算中心，不进行项目�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - pnrc
 - educational-evidence-clearinghouse

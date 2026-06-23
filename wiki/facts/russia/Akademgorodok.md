@@ -5,6 +5,12 @@ summary: "1950年代末赫鲁晓夫效仿美国大学校园模式在新西伯利
 type: fact
 subtype: event
 region: russia
+fact_region: "russia"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/ussr
   - theme/science-policy

@@ -7,6 +7,12 @@ summary: "WA 州最激进的学校自主权改革，575 所学校转为 IPS 地�
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - school-autonomy

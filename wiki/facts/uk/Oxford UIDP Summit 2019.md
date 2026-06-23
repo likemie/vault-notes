@@ -8,6 +8,12 @@ summary: "2019 年牛津大学与 UIDP 联合举办的首届产学合作高层�
 type: fact
 subtype: event
 region: "UK"
+fact_region: "UK"
+fact_kind: "event"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

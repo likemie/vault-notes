@@ -10,6 +10,12 @@ summary: "德国联邦政府构建的系统性创新政策体系，涵盖顶层�
 type: fact
 subtype: policy
 region: germany
+fact_region: "germany"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "Bundesministerium für Bildung und Forschung (BMBF)"
 tags:
   - region/germany

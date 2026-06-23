@@ -9,6 +9,12 @@ summary: "1922 年由中华民国教育部颁布的学制改革，以七项灵�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Ministry of Education of the Republic of China
 tags:
   - region/china

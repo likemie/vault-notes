@@ -5,6 +5,12 @@ summary: "美国国家标准与技术研究所（NIST）代表商务部主导的
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "National Institute of Standards and Technology (NIST), U.S. Department of Commerce"
 tags:
   - region/us

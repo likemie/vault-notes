@@ -7,6 +7,12 @@ summary: "2007 年由美国 FDA 和杜克大学共同发起的多利益相关方
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/us
   - level/higher-education

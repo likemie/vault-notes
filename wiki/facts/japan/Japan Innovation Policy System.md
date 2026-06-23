@@ -8,6 +8,12 @@ summary: "日本构建的系统化创新政策体系，以《科学技术基本�
 type: fact
 subtype: policy
 region: japan
+fact_region: "japan"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "日本内阁府 / 文部科学省"
 tags:
   - region/japan

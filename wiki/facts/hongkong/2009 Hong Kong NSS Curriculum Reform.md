@@ -9,6 +9,12 @@ summary: "2009 年实施的香港高中课程改革，从英式 3+2+2+3 学制�
 type: fact
 subtype: policy
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "policy"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: Education and Manpower Bureau / Curriculum Development Council
 tags:
   - policy/curriculum-reform

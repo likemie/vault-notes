@@ -9,6 +9,12 @@ summary: "2019年THE推出的首个基于SDGs的全球大学影响力排名，�
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/global

@@ -10,6 +10,12 @@ summary: "滑铁卢大学自 1959 年建校起实行的知识产权归属政策�
 type: fact
 subtype: event
 region: canada
+fact_region: "canada"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags: ["region/canada", "theme/university-industry-collaboration", "theme/intellectual-property", "theme/innovation-policy"]
 related_concepts:
   - "[[Technology Transfer]]"

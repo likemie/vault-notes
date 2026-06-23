@@ -7,6 +7,12 @@ summary: "覆盖 172 个国家和地区的全球教师工会网络，拥有 401 
 type: fact
 subtype: organization
 region: global
+fact_region: "global"
+fact_kind: "organization"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dcfce7"
 tags:
   - theme/global-education-governance
   - theme/teacher-unions

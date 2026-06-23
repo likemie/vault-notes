@@ -7,6 +7,12 @@ summary: "英国法律禁止新建文法学校，但允许现有 163 所文法�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - education-law

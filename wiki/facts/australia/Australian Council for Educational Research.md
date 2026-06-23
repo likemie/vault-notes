@@ -7,6 +7,12 @@ summary: "澳大利亚教育研究与评估组织，独立于政府，负责开�
 type: fact
 subtype: organization
 region: australia
+fact_region: "australia"
+fact_kind: "organization"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dcfce7"
 issuing_organization: Australian Council for Educational Research
 tags:
   - region/australia

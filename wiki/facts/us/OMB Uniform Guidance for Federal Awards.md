@@ -8,6 +8,12 @@ summary: "2014 年生效的美国联邦拨款统一会计指南，规定大学�
 type: fact
 subtype: policy
 region: "US"
+fact_region: "US"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Management and Budget (OMB)"
 tags:
   - "region/us"

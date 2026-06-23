@@ -8,6 +8,12 @@ summary: "明尼苏达大学推出的菜单式产学合作 IP 预先定价项目
 type: fact
 subtype: program
 region: "US"
+fact_region: "US"
+fact_kind: "program"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#ede9fe"
 tags:
   - region/us
   - theme/intellectual-property

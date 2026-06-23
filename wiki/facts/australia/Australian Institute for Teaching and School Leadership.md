@@ -7,6 +7,12 @@ summary: "澳大利亚联邦政府设立的全国性教师专业机构，成立�
 type: fact
 subtype: organization
 region: australia
+fact_region: "australia"
+fact_kind: "organization"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 issuing_organization: Australian Institute for Teaching and School Leadership
 tags:
   - region/australia

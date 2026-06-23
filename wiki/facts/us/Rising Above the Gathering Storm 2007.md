@@ -8,6 +8,12 @@ summary: "2007 年美国国家科学院报告，重申基础与开放式研究�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

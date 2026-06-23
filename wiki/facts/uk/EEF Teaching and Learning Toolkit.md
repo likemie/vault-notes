@@ -6,6 +6,12 @@ summary: "英国 EEF 发布的教学干预比较工具，按成本、效果和�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - eef

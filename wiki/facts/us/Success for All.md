@@ -6,6 +6,12 @@ summary: "Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - success-for-all
 - educational-program

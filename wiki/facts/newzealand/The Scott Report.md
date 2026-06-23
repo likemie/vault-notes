@@ -7,6 +7,12 @@ summary: "新西兰议会教育与科学选择委员会发布的教学质量调�
 type: fact
 subtype: policy
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - performance-pay

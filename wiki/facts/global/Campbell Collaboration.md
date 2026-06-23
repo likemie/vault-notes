@@ -6,6 +6,12 @@ summary: "2000年成立的社会科学系统综述组织，2007年将国际总�
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Campbell Collaboration
 tags:
   - region/global

@@ -8,6 +8,12 @@ summary: "1988 年国家改革后拥有高度教育自治权的法语比利时�
 type: fact
 subtype: policy
 region: belgium
+fact_region: "belgium"
+fact_kind: "policy"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "French-speaking Community of Belgium"
 tags:
   - region/belgium

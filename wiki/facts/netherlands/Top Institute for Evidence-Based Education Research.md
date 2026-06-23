@@ -7,6 +7,12 @@ summary: "2008年荷兰多校合作建立的跨大学研究所，通过实验评
 type: fact
 subtype: policy
 region: netherlands
+fact_region: "netherlands"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Maastricht University, University of Amsterdam, University of Groningen
 tags:
   - region/netherlands

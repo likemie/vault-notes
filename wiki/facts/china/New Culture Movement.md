@@ -7,6 +7,12 @@ summary: "1910 年代中后期以民主和科学为口号的中国思想文化�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/china
   - theme/progressive-education

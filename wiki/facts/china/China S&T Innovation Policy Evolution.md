@@ -9,6 +9,12 @@ summary: "新中国成立以来，中国科技创新政策经历了从体系构�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "中共中央、国务院"
 tags:
   - policy/science-technology

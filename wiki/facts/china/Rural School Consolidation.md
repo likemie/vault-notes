@@ -9,6 +9,12 @@ summary: "2000 年起中国大规模关闭合并农村小学的政策，至 2022
 type: fact
 subtype: policy
 region: China
+fact_region: "China"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: 国务院及地方政府
 tags:
   - region/china

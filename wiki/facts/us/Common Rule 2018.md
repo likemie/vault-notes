@@ -9,6 +9,12 @@ summary: "2018 年修订的美国联邦人类受试者研究保护法规，要�
 type: fact
 subtype: policy
 region: "US"
+fact_region: "US"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "Office for Human Research Protections (OHRP), U.S. Department of Health and Human Services"
 tags:
   - "region/us"

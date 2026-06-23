@@ -7,6 +7,12 @@ summary: "日本的“技术城市”计划代表，通过聚集国家级科研�
 type: fact
 subtype: policy
 region: japan
+fact_region: "japan"
+fact_kind: "policy"
+fact_related_count: 1
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "日本政府"
 tags:
   - theme/technology-innovation

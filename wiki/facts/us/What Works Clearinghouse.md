@@ -7,6 +7,12 @@ summary: "美国教育部 2002 年建立的教育证据清算中心，用于评�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 27
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
+fact_related_color: "#fef3c7"
 tags:
 - what-works-clearinghouse
 - wwc

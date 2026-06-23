@@ -8,6 +8,12 @@ summary: "1980 年代美国在经济竞争与危机叙事下对日本教育产�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - policy-borrowing
 - cross-national-attraction

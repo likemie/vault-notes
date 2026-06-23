@@ -7,6 +7,12 @@ summary: "英国教师证据分享网络，促进教师、大学研究者和其�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: Evidence-Based Teachers Network
 tags:
   - region/uk

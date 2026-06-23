@@ -8,6 +8,12 @@ summary: "滑铁卢大学 2022 年发布的跨学科战略框架，以社会、�
 type: fact
 subtype: event
 region: canada
+fact_region: "canada"
+fact_kind: "event"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags: ["region/canada", "theme/university-strategy", "theme/interdisciplinary", "theme/innovation"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

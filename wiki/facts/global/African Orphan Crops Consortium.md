@@ -8,6 +8,12 @@ summary: "2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多�
 type: fact
 subtype: organization
 region: global
+fact_region: "global"
+fact_kind: "organization"
+fact_related_count: 1
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 issuing_organization: "Mars, African Union NEPAD, WWF, UC Davis"
 tags:
   - theme/university-industry-collaboration

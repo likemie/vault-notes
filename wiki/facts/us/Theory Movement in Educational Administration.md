@@ -6,6 +6,12 @@ summary: "1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - theory-movement
   - educational-administration

@@ -9,6 +9,12 @@ summary: "2014 年国务院发布户籍制度改革意见，允许迁移人口�
 type: fact
 subtype: policy
 region: China
+fact_region: "China"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: 国务院
 tags:
   - region/china

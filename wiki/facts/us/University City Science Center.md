@@ -7,6 +7,12 @@ summary: "费城的非营利产学合作组织，通过项目设计激励创业�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

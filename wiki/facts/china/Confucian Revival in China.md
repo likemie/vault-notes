@@ -8,6 +8,12 @@ summary: "1980 年代末至今中共主导的儒家传统复兴运动，经历�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - region/china
   - theme/confucianism

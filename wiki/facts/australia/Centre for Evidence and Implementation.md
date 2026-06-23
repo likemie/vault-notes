@@ -7,6 +7,12 @@ summary: "总部位于澳大利亚的跨国非营利证据中介机构（Evidenc
 type: fact
 subtype: organization
 region: australia
+fact_region: "australia"
+fact_kind: "organization"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 issuing_organization: Centre for Evidence and Implementation
 tags:
   - region/australia

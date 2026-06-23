@@ -8,6 +8,12 @@ summary: "2020 年颁布的香港国安法，为强制国民教育提供法律�
 type: fact
 subtype: event
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - national-security-law
 - hong-kong

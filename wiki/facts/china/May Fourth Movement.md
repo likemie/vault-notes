@@ -8,6 +8,12 @@ summary: "1919 年爆发的中国学生与知识分子政治运动，使新文�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - region/china
   - theme/educational-reform

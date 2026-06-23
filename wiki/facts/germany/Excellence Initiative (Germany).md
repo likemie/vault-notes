@@ -9,6 +9,12 @@ summary: "2005–2017 年德国联邦与州政府联合实施的竞争性资助�
 type: fact
 subtype: event
 region: "Germany"
+fact_region: "Germany"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/germany
   - level/higher-education

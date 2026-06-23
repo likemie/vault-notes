@@ -6,6 +6,12 @@ summary: "2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/australia

@@ -6,6 +6,12 @@ summary: "英国教育标准办公室，负责英格兰学校检查与评级，�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - ofsted

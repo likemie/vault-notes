@@ -8,6 +8,12 @@ summary: "以硅谷为核心的全球科技创新高地，聚集斯坦福大学�
 type: fact
 subtype: region
 region: us
+fact_region: "us"
+fact_kind: "region"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#e0e7ff"
 tags:
   - region/us
   - theme/innovation-ecosystem

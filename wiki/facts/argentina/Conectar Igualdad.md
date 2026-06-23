@@ -6,6 +6,12 @@ aliases:
   - PCI
 summary: "阿根廷 2010 年启动的每童一电脑项目，到 2014 年部署 380 万台电脑，是行动者网络理论分析教育权力关系的典型案例"
 type: fact
+fact_region: "argentina"
+fact_kind: "unknown"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#e5e7eb"
 tags:
   - region/argentina
   - level/k12

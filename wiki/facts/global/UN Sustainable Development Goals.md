@@ -10,6 +10,12 @@ summary: "2015年193个UN成员国通过的17项全球发展目标；在高等�
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/global

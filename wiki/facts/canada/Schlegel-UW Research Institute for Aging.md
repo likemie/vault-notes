@@ -9,6 +9,12 @@ summary: "2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型�
 type: fact
 subtype: event
 region: canada
+fact_region: "canada"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags: ["region/canada", "theme/university-industry-collaboration", "theme/aging", "theme/co-location"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

@@ -7,6 +7,12 @@ summary: "OECD 启动的 18+4 国参与项目，五项政策建议（吸引人�
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - school-leadership

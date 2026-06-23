@@ -7,6 +7,12 @@ summary: "澳大利亚用于公开学校表现并支持横向比较的国家网�
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - my-school

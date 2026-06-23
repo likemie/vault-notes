@@ -6,6 +6,12 @@ aliases:
   - Nobel Prize Physiology or Medicine
 summary: "由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一"
 type: fact
+fact_region: "global"
+fact_kind: "unknown"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#e5e7eb"
 tags:
   - theme/science-education
   - theme/medical-education

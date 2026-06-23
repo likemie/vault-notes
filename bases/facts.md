@@ -2,6 +2,8 @@
 title: 事实索引
 ---
 
+从这里进入政策、事件、组织与制度场景：先看连接最密的事实枢纽，再按地区和事实类型分流。星级与连接数由 `scripts/vault_index.py` 自动刷新。
+
 ```base
 filters:
   and:
@@ -10,146 +12,124 @@ filters:
 
 properties:
   file.name:
-    displayName: Fact
-  subtype:
-    displayName: Type
-  region:
-    displayName: Region
+    displayName: 事实
   summary:
-    displayName: Why it matters
-  file.folder:
-    displayName: Context
-  status:
-    displayName: Status
+    displayName: 摘要
+  fact_region:
+    displayName: 地区
+  fact_kind:
+    displayName: 类型
+  fact_related_stars:
+    displayName: 亮度
+  fact_related_count:
+    displayName: 连接
+  fact_related_color:
+    displayName: 色带
   tags:
-    displayName: Tags
+    displayName: 标签
   updated:
-    displayName: Updated
+    displayName: 更新
 
 views:
-  - type: table
-    name: Map
+  - type: cards
+    name: 事实图谱
+    image: fact_related_color
     order:
       - file.name
-      - subtype
-      - region
       - summary
-      - file.folder
-      - updated
+      - fact_region
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
     sort:
+      - property: fact_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: cards
-    name: Cards
+    name: 事实枢纽
+    image: fact_related_color
+    filters:
+      and:
+        - 'fact_related_count >= 20'
     order:
       - file.name
-      - subtype
-      - region
       - summary
-      - status
+      - fact_region
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
     sort:
+      - property: fact_related_count
+        direction: DESC
+
+  - type: table
+    name: 完整清单
+    order:
+      - file.name
+      - summary
+      - fact_region
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
+      - tags
+      - updated
+    sort:
+      - property: fact_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: table
-    name: By Region
+    name: 按地区分组
     groupBy:
-      property: region
+      property: fact_region
       direction: ASC
     order:
       - file.name
-      - subtype
       - summary
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
       - tags
       - updated
     sort:
-      - property: region
-        direction: ASC
-      - property: updated
+      - property: fact_related_count
         direction: DESC
 
   - type: table
-    name: By Type
+    name: 按类型分组
     groupBy:
-      property: subtype
+      property: fact_kind
       direction: ASC
     order:
       - file.name
-      - region
       - summary
+      - fact_region
+      - fact_related_stars
+      - fact_related_count
       - tags
       - updated
     sort:
-      - property: subtype
-        direction: ASC
-      - property: updated
+      - property: fact_related_count
         direction: DESC
 
   - type: table
-    name: Policies
-    filters:
-      and:
-        - 'subtype == "policy"'
-    order:
-      - file.name
-      - region
-      - summary
-      - tags
-      - updated
-    sort:
-      - property: region
-        direction: ASC
-      - property: updated
-        direction: DESC
-
-  - type: table
-    name: Organizations
-    filters:
-      and:
-        - 'subtype == "organization"'
-    order:
-      - file.name
-      - region
-      - summary
-      - tags
-      - updated
-    sort:
-      - property: region
-        direction: ASC
-      - property: updated
-        direction: DESC
-
-  - type: table
-    name: Events
-    filters:
-      and:
-        - 'subtype == "event"'
-    order:
-      - file.name
-      - region
-      - summary
-      - tags
-      - updated
-    sort:
-      - property: region
-        direction: ASC
-      - property: updated
-        direction: DESC
-
-  - type: table
-    name: Evidence Trail
+    name: 证据线索
     filters:
       and:
         - 'tags.contains("theme/evidence-based-education") || tags.contains("evidence-based-reform") || tags.contains("evidence-standards")'
     order:
       - file.name
-      - subtype
-      - region
       - summary
+      - fact_region
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
       - tags
       - updated
     sort:
-      - property: updated
+      - property: fact_related_count
         direction: DESC
 ```

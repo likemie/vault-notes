@@ -6,6 +6,12 @@ summary: "1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证�
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ""
 tags:
   - evidence-based-education

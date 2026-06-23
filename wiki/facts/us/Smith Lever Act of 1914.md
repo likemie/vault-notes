@@ -8,6 +8,12 @@ summary: "1914 年美国联邦立法，在赠地大学建立农业推广服务�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

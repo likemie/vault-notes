@@ -7,6 +7,12 @@ summary: "美国联邦教育主法定义强/中/有希望与理论依据证据�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#fef3c7"
 tags:
 - essa
 - evidence-based-reform

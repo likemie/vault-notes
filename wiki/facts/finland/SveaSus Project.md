@@ -6,6 +6,12 @@ summary: "赫尔辛基大学 2018–2023 年现象本位学习项目，以 Suome
 type: fact
 subtype: event
 region: finland
+fact_region: "finland"
+fact_kind: "event"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - phenomenon-based-learning
   - sustainability

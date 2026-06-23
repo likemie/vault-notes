@@ -10,6 +10,12 @@ summary: "1999年由谢菲尔德大学和波音公司共同发起的产学联合
 type: fact
 subtype: event
 region: UK
+fact_region: "UK"
+fact_kind: "event"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

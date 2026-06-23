@@ -9,6 +9,12 @@ summary: "2018年欧盟理事会修订的终身学习关键能力框架，将能
 type: fact
 subtype: policy
 region: EU
+fact_region: "EU"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Council of the European Union
 tags:
   - region/eu

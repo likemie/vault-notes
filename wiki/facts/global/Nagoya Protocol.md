@@ -9,6 +9,12 @@ summary: "2014 年生效的国际条约，旨在促进遗传资源利用所产�
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "United Nations Convention on Biological Diversity"
 tags:
   - policy/international-treaty

@@ -7,6 +7,12 @@ summary: "美国国防部下属的研究资助机构，以扁平化管理和“�
 type: fact
 subtype: policy
 region: US
+fact_region: "US"
+fact_kind: "policy"
+fact_related_count: 1
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "美国国防部"
 tags:
   - theme/technology-innovation

@@ -6,6 +6,12 @@ summary: "英格兰以 11-plus 考试选拔学生的公立学术中学，现有 
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 tags:
 - grammar-school
 - selective-education

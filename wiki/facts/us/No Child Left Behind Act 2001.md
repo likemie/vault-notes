@@ -8,6 +8,12 @@ summary: "Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - no-child-left-behind

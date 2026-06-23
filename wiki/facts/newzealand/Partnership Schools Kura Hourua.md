@@ -7,6 +7,12 @@ summary: "新西兰版特许学校：由营利或非营利组织根据教育部�
 type: fact
 subtype: event
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "event"
+fact_related_count: 1
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - charter-schools
 - pskh

@@ -7,6 +7,12 @@ summary: "培养香港青少年对中华人民共和国的国家认同与爱国�
 type: fact
 subtype: policy
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "policy"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#dbeafe"
 tags:
 - national-education
 - hong-kong

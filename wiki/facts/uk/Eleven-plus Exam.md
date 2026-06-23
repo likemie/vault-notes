@@ -7,6 +7,12 @@ summary: "英国 11 岁中等教育选拔考试，决定学生进入文法学校
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - eleven-plus

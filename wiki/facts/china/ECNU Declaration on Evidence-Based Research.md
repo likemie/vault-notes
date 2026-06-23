@@ -8,6 +8,12 @@ summary: "华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - evidence-based-reform
 - region/china

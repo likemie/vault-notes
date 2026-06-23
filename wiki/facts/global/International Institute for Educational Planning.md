@@ -8,6 +8,12 @@ summary: "UNESCO 于 1963 年创建的国际教育规划研究所，首任主任
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - subject/comparative-education
   - theme/development

@@ -9,6 +9,12 @@ summary: "1980s 中期至今的推免研究生制度，以累积学分和综合�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - graduate-admission

@@ -8,6 +8,12 @@ summary: "2018 年国际医学期刊编辑委员会生效的两项发表前置�
 type: fact
 subtype: policy
 region: "global"
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "International Committee of Medical Journal Editors (ICMJE)"
 tags:
   - "region/global"

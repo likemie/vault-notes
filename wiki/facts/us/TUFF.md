@@ -8,6 +8,12 @@ summary: "1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

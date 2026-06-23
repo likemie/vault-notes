@@ -7,6 +7,12 @@ summary: "1994 年玻利维亚通过教育改革将原住民语言和文化纳�
 type: fact
 subtype: policy
 region: bolivia
+fact_region: "bolivia"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 tags:
   - theme/curriculum-reform
   - theme/indigenous-education

@@ -5,6 +5,12 @@ summary: "欧洲研究型大学的联合组织，就研究与创新政策发布�
 type: fact
 subtype: event
 region: europe
+fact_region: "europe"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - region/europe
   - theme/doctoral-education

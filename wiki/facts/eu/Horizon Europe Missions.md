@@ -6,6 +6,12 @@ summary: "EU 2021–2027 年研究与创新框架的核心机制，将研究整�
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - horizon-europe

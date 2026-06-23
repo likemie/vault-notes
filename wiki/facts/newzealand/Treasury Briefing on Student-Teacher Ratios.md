@@ -6,6 +6,12 @@ summary: "2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以�
 type: fact
 subtype: event
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "event"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - class-size
 - visible-learning

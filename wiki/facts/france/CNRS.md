@@ -7,6 +7,12 @@ summary: "1939 年成立的法国国家级公共科研机构，其研究人员�
 type: fact
 subtype: event
 region: "France"
+fact_region: "France"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - region/france
   - level/higher-education

@@ -9,6 +9,12 @@ summary: "1989 年新西兰学校改革催生的教育服务组织 从 Multi Ser
 type: fact
 subtype: event
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "event"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - region/new-zealand
 - theme/education-marketisation

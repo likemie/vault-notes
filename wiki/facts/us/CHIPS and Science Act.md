@@ -10,6 +10,12 @@ summary: "2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs �
 type: fact
 subtype: policy
 region: "US"
+fact_region: "US"
+fact_kind: "policy"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "United States Congress"
 tags:
   - "region/us"

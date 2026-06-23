@@ -8,6 +8,12 @@ summary: "EU 2016 年技能政策，融合积极劳动力市场政策与教育�
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/eu

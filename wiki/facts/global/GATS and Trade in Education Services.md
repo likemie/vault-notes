@@ -9,6 +9,12 @@ summary: "WTO 服务贸易总协定框架下将高等教育纳入服务贸易的
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - gats

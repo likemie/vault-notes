@@ -8,6 +8,12 @@ summary: "1997年文莱在 Prince Jefri 支持下委托 Multi Serve 建立 Jerud
 type: fact
 subtype: event
 region: brunei
+fact_region: "brunei"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags: [region/brunei, region/new-zealand, level/k12, theme/school-establishment, theme/education-consulting, source/book]
 related_concepts:
   - "[[International Education]]"

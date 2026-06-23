@@ -7,6 +7,12 @@ summary: "Sputnik 冲击后在美国政府和学术界兴起的运动，将教�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - theme/economics-of-education
   - theme/human-capital

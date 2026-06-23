@@ -9,6 +9,12 @@ summary: "2019 年《粤港澳大湾区发展规划纲要》确立的国家级�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 tags:
   - region/china
   - theme/regional-development

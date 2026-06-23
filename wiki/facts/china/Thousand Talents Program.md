@@ -7,6 +7,12 @@ summary: "中国海外高层次人才引进计划，被美方视为制度化知�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - region/china
 - geopolitics-of-knowledge

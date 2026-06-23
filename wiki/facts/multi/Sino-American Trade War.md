@@ -8,6 +8,12 @@ summary: "中美围绕贸易、技术转移、产业政策和国家安全展开�
 type: fact
 subtype: event
 region: multi
+fact_region: "multi"
+fact_kind: "event"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - region/china
 - region/us

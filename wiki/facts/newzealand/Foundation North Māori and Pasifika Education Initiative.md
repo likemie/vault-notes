@@ -7,6 +7,12 @@ summary: "Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社
 type: fact
 subtype: policy
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - philanthropy

@@ -7,6 +7,12 @@ summary: "2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - i3
 - investing-in-innovation

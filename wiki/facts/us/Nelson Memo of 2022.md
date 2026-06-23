@@ -9,6 +9,12 @@ summary: "2022 年白宫科技政策办公室主任 Alondra Nelson 发布的备�
 type: fact
 subtype: policy
 region: "US"
+fact_region: "US"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Science and Technology Policy (OSTP)"
 tags:
   - "region/us"

@@ -6,6 +6,12 @@ summary: "Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - open-court-reading
 - educational-program

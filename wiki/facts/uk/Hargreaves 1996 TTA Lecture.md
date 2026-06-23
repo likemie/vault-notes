@@ -7,6 +7,12 @@ summary: "David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行
 type: fact
 subtype: event
 region: uk
+fact_region: "uk"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - evidence-based-education
 - research-practice-gap

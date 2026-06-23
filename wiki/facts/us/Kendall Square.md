@@ -10,6 +10,12 @@ summary: "1999 年成立于 MIT 周边的产学合作创新区，以剑桥创新
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

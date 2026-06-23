@@ -7,6 +7,12 @@ summary: "EU 2013 年理事会建议书，确保青年在离校或失业后 4 �
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/eu

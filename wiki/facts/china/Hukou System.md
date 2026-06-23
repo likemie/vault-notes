@@ -9,6 +9,12 @@ aliases:
 summary: "中国 1950 年代建立的户籍制度，长期限制城乡迁移并隔离就业、福利与教育机会，2014 年改革后大城市保留积分制门槛、小城市降低准入，使身份歧视逐步被市场性阶级歧视替代"
 type: fact
 subtype: policy
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 tags:
   - region/china
   - policy/hukou

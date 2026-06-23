@@ -8,6 +8,12 @@ summary: "韩国构建的以企业为主导的创新政策体系，通过科技�
 type: fact
 subtype: policy
 region: multi
+fact_region: "multi"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "韩国科学技术信息通信部"
 tags:
   - region/asia

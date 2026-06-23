@@ -10,6 +10,12 @@ summary: "新加坡 1990 年代至 2010 年代以国家主导的高等教育扩�
 type: fact
 subtype: policy
 region: singapore
+fact_region: "singapore"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "Singapore Economic Development Board; Ministry of Trade and Industry; Ministry of Education"
 tags:
 - region/singapore

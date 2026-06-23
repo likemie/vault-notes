@@ -7,6 +7,12 @@ summary: "面向儿童与家庭政策的多领域非营利清算中心，曾提�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - ppn
 - educational-evidence-clearinghouse

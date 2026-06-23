@@ -8,6 +8,12 @@ summary: "1915–1925 年间中国以儿童中心教学法和民主教育为核�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - region/china
   - theme/progressive-education

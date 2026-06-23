@@ -7,6 +7,12 @@ summary: "2022 年 12 月港府发布的青年政策文件，以探索、希望�
 type: fact
 subtype: policy
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: Home and Youth Affairs Bureau
 tags:
   - youth-development-blueprint

@@ -7,6 +7,12 @@ summary: "2017年法国教育部在弱势地区将一二年级班额从24人降�
 type: fact
 subtype: policy
 region: france
+fact_region: "france"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: French Ministry of Education
 tags:
   - region/france

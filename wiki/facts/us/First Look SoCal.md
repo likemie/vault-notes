@@ -7,6 +7,12 @@ summary: "南加州创新联盟自 2018 年起每年举办的前沿科技与生�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "theme/entrepreneurship"

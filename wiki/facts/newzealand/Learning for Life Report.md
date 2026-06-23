@@ -7,6 +7,12 @@ summary: "Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald G
 type: fact
 subtype: policy
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - higher-education-policy

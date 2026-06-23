@@ -7,6 +7,12 @@ summary: "世界级金融湾区，经历制造业中心到金融中心再到全�
 type: fact
 subtype: region
 region: us
+fact_region: "us"
+fact_kind: "region"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#e0e7ff"
 tags:
   - region/us
   - theme/innovation-ecosystem

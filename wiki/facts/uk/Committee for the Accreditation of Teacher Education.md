@@ -7,6 +7,12 @@ summary: "1984年英国保守党政府设立的教师教育认证机制，将教
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: Conservative government
 tags:
   - region/uk

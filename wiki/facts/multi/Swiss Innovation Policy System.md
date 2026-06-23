@@ -8,6 +8,12 @@ summary: "瑞士联邦政府构建的创新政策体系，涵盖战略规划、�
 type: fact
 subtype: policy
 region: multi
+fact_region: "multi"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "Swiss Federal Government"
 tags:
   - region/europe

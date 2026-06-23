@@ -7,6 +7,12 @@ summary: "Johns Hopkins University 与约克大学创建的全球证据传播网
 type: fact
 subtype: policy
 region: multi
+fact_region: "multi"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - evidence-based-reform

@@ -9,6 +9,12 @@ summary: "EU 2010–2020 十年战略规划，以“智能、可持续与包容�
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - region/eu

@@ -5,6 +5,12 @@ summary: "美国公立与赠地大学协会（APLU）创建的倡议，旨在为
 type: fact
 subtype: policy
 region: us
+fact_region: "us"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "Association of Public and Land-grant Universities (APLU)"
 tags:
   - region/us

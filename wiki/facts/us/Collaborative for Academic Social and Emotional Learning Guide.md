@@ -7,6 +7,12 @@ summary: "聚焦社会情感学习项目的非营利教育清算中心，Wadhwa 
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - casel
 - educational-evidence-clearinghouse

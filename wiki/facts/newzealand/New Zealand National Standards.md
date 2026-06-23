@@ -6,6 +6,12 @@ summary: "国家党联合政府推行的国家教育标准政策，Hattie 参与
 type: fact
 subtype: policy
 region: newzealand
+fact_region: "newzealand"
+fact_kind: "policy"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - assessment

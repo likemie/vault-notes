@@ -7,6 +7,12 @@ summary: "卡塔尔首都多哈的多大学海外分校集中园区：康奈尔�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
 - region/global
 - region/qatar

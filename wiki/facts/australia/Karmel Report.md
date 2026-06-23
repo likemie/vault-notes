@@ -7,6 +7,12 @@ summary: "澳大利亚学校委员会临时报告，将学校自主权定位为�
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - school-autonomy

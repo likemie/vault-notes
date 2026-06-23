@@ -7,6 +7,12 @@ summary: "OECD 年度旗舰出版物，以 30 项国际教育指标描述各国�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - education-at-a-glance
 - eag

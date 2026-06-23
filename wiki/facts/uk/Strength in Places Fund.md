@@ -5,6 +5,12 @@ summary: "英国 2010 年代后期在产业战略框架下设立的 2.35 亿英�
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "UK Research and Innovation (UKRI)"
 tags:
   - region/uk

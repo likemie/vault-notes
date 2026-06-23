@@ -7,6 +7,12 @@ summary: "一种科技项目组织管理机制，通过竞争机制以需求和�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ""
 tags:
   - theme/technology-innovation

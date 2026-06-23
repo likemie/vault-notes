@@ -7,6 +7,12 @@ summary: "2015年建立的瑞典教育研究机构，通过教育研究系统综
 type: fact
 subtype: policy
 region: sweden
+fact_region: "sweden"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Swedish Institute for Educational Research
 tags:
   - region/sweden

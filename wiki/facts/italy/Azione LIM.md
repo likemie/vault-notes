@@ -8,6 +8,12 @@ summary: "2008年意大利教育部推动的互动白板采购与教师培训政
 type: fact
 subtype: policy
 region: italy
+fact_region: "italy"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Ministero dell'Istruzione, dell'Universita e della Ricerca
 tags:
   - region/italy

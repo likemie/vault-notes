@@ -8,6 +8,12 @@ summary: "2015 年 Mars 与 UC Davis 共同建立的产学合作创新平台，�
 type: fact
 subtype: organization
 region: us
+fact_region: "us"
+fact_kind: "organization"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 issuing_organization: "Mars, UC Davis"
 tags:
   - theme/university-industry-collaboration

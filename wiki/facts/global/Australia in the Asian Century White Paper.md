@@ -10,6 +10,12 @@ summary: "澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的
 type: fact
 subtype: policy
 region: global
+fact_region: "global"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - australia

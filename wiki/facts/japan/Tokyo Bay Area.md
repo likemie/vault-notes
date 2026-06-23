@@ -8,6 +8,12 @@ summary: "日本关东地区的世界级产业湾区，以传统工业为基础�
 type: fact
 subtype: region
 region: japan
+fact_region: "japan"
+fact_kind: "region"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#e0e7ff"
 tags:
   - region/japan
   - theme/innovation-ecosystem

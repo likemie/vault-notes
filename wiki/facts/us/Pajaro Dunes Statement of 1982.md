@@ -8,6 +8,12 @@ summary: "1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

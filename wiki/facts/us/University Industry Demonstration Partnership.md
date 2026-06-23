@@ -8,6 +8,12 @@ summary: "2004 年由美国国家科学院发起、2015 年独立为非营利组
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#fef3c7"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

@@ -8,6 +8,12 @@ summary: "中国国家互联网审查系统，通过技术过滤、平台治理�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - region/china
 - internet-censorship

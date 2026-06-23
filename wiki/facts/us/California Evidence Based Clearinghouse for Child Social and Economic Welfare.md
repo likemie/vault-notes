@@ -7,6 +7,12 @@ summary: "面向儿童与家庭的 public 清算中心，最高评级要求两�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - cebc
 - educational-evidence-clearinghouse

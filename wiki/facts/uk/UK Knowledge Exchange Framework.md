@@ -8,6 +8,12 @@ summary: "英国研究英格兰（Research England）开发的全国性知识交
 type: fact
 subtype: policy
 region: "UK"
+fact_region: "UK"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: "Research England (UK Research and Innovation)"
 tags:
   - theme/university-industry-collaboration

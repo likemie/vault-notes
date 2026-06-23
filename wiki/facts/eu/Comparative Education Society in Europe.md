@@ -7,6 +7,12 @@ summary: "1961 年在战后国际合作政治中成立的欧洲比较教育学�
 type: fact
 subtype: event
 region: eu
+fact_region: "eu"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - subject/comparative-education
   - theme/international-cooperation

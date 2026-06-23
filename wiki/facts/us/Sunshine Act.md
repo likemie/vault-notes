@@ -9,6 +9,12 @@ summary: "美国《平价医疗法案》2010 年组成部分，要求制药和�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/us
   - level/higher-education

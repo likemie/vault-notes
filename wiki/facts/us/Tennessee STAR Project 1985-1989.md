@@ -7,6 +7,12 @@ summary: "1985年至1989年在田纳西州开展的大规模班级规模随机�
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - class-size-reduction
   - rct

@@ -10,6 +10,12 @@ summary: "普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元�
 type: fact
 subtype: event
 region: "US"
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

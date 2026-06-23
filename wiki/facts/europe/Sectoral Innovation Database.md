@@ -7,6 +7,12 @@ summary: "意大利 Urbino 大学开发的跨国家产业层面创新数据库�
 type: fact
 subtype: event
 region: europe
+fact_region: "europe"
+fact_kind: "event"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - region/europe
   - theme/innovation

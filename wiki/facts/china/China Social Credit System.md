@@ -8,6 +8,12 @@ summary: "中国利用大数据和行政记录对公民、组织与市场主体�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - region/china
 - surveillance

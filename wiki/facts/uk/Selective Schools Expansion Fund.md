@@ -7,6 +7,12 @@ summary: "保守党政府 £50M 基金允许现有文法学校扩展招生，在
 type: fact
 subtype: policy
 region: uk
+fact_region: "uk"
+fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - selective-education

@@ -8,6 +8,12 @@ summary: "1961 年从 OEEC 演变而来的政府间经济组织，OEEC 由美国
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - theme/international-organizations
   - theme/global-governance

@@ -6,6 +6,12 @@ summary: "2019–2022 年香港教育局推行的校本奖励计划，要求学�
 type: fact
 subtype: policy
 region: hongkong
+fact_region: "hongkong"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Education Bureau
 tags:
   - my-pledge-to-act

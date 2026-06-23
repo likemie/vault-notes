@@ -6,6 +6,12 @@ summary: "2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - minerva-university
 - higher-education

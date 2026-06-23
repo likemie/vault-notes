@@ -6,6 +6,12 @@ summary: "2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公�
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - school-funding

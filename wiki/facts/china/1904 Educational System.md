@@ -9,6 +9,12 @@ summary: "1904 年清政府颁布的中国第一个现代国家学制，以日�
 type: fact
 subtype: policy
 region: china
+fact_region: "china"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: Imperial Qing Government
 tags:
   - region/china

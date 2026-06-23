@@ -7,6 +7,12 @@ summary: "澳大利亚国家级教育证据中介组织，成立于2010年代后
 type: fact
 subtype: organization
 region: australia
+fact_region: "australia"
+fact_kind: "organization"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 issuing_organization: "Australian Education Research Organisation"
 tags:
   - policy/evidence-based

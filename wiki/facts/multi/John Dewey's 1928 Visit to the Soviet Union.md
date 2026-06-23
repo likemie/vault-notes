@@ -8,6 +8,12 @@ summary: "1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联�
 type: fact
 subtype: event
 region: multi
+fact_region: "multi"
+fact_kind: "event"
+fact_related_count: 2
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - theme/cultural-diplomacy
   - theme/progressive-education

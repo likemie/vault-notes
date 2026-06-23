@@ -8,6 +8,12 @@ summary: "阿联酋 2004 年以来以经济多元化和全球融合为驱动的�
 type: fact
 subtype: policy
 region: uae
+fact_region: "uae"
+fact_kind: "policy"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "Abu Dhabi Executive Council; Dubai Executive Council; UAE Federal Government"
 tags:
 - region/uae

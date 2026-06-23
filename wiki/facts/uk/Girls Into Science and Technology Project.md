@@ -10,6 +10,12 @@ summary: "1980年代英国为期三年的女性主义行动研究项目，涉及
 type: fact
 subtype: event
 region: UK
+fact_region: "UK"
+fact_kind: "event"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - method/action-research
   - method/feminist

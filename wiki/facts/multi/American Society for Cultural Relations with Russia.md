@@ -8,6 +8,12 @@ summary: "1927年前后在美成立的民间文化交流组织，John Dewey 任�
 type: fact
 subtype: event
 region: multi
+fact_region: "multi"
+fact_kind: "event"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - theme/cultural-diplomacy
   - theme/us-soviet-relations

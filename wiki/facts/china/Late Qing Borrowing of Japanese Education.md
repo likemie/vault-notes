@@ -7,6 +7,12 @@ summary: "甲午战败后清廷以日本为主要参照推进新式教育体系�
 type: fact
 subtype: event
 region: china
+fact_region: "china"
+fact_kind: "event"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
 - policy-borrowing
 - cross-national-attraction

@@ -7,6 +7,12 @@ summary: "美国半导体行业长期运作的公私合作伙伴关系，多家�
 type: fact
 subtype: event
 region: US
+fact_region: "US"
+fact_kind: "event"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
   - "region/us"
   - "level/higher-education"

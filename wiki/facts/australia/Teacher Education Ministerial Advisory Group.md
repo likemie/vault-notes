@@ -11,6 +11,12 @@ summary: "2015年澳大利亚教师教育专家咨询小组发布的报告，引
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 5
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Australian Government
 tags:
   - region/australia

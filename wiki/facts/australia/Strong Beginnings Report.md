@@ -8,6 +8,12 @@ summary: "澳大利亚政府于2023年发布的教师教育专家小组报告。
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "Australian Government"
 tags:
   - policy/teacher-education

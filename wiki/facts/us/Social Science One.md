@@ -5,6 +5,12 @@ summary: "哈佛大学量化社会科学研究所（IQSS）孵化的组织实施
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#fef3c7"
 tags:
   - region/us
   - theme/industry-academic-partnership

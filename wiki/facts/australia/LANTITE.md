@@ -7,6 +7,12 @@ summary: "初始教师教育生读写算术测试（LANTITE）是澳大利亚初
 type: fact
 subtype: policy
 region: australia
+fact_region: "australia"
+fact_kind: "policy"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#dbeafe"
 issuing_organization: Australian Government
 tags:
   - region/australia

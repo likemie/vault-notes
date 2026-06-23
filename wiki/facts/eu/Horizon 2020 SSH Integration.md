@@ -8,6 +8,12 @@ summary: "EU 2014–2020 年研究框架取消社会科学与人文学科独立�
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
 - horizon-2020

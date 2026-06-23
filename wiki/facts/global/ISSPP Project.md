@@ -6,6 +6,12 @@ summary: "Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功�
 type: fact
 subtype: event
 region: global
+fact_region: "global"
+fact_kind: "event"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
+fact_related_color: "#fef3c7"
 tags:
 - school-leadership
 - region/global

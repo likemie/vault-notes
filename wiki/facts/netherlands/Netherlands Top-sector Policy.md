@@ -5,6 +5,12 @@ summary: "荷兰 2010 年后转向的产业与创新政策框架，选择九个�
 type: fact
 subtype: policy
 region: netherlands
+fact_region: "netherlands"
+fact_kind: "policy"
+fact_related_count: 4
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "Dutch Government"
 tags:
   - region/netherlands
