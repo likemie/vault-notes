@@ -1,17 +1,16 @@
 ---
 title: Non-maleficence and Beneficence in Research
 aliases:
-  - "不伤害与行善"
-  - "non-maleficence"
-  - "beneficence"
-  - "primum non nocere"
-  - "研究中的不伤害原则"
-summary: "研究伦理中一对相辅相成的核心原则：不伤害要求研究不对参与者造成身体、心理、情感或职业损害；行善要求研究为参与者和更广泛社区带来实际收益"
+  - 不伤害与行善
+  - non-maleficence
+  - primum non nocere
+  - 不伤害原则
+summary: 研究伦理中一对相辅相成的核心原则：不伤害要求研究不对参与者造成身体、心理、情感或职业损害；行善要求研究为参与者和更广泛社区带来实际收益
 type: concept
-domain: "research-methodology"
+domain: research-methodology
 related_count: 5
 related_level: 0
-related_stars: "☆"
+related_stars: ☆
 related_color: "#e5e7eb"
 tags:
   - method/research-ethics

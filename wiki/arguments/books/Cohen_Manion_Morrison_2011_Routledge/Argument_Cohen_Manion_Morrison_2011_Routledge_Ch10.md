@@ -148,26 +148,26 @@ updated: 2026-06-23
 
 ### 10.1 引言：效度与信度的核心命题
 
-本章讨论效度（validity）与信度（reliability）在量化、质性、自然主义和[[Mixed Methods Research|混合方法研究]]中的含义与操作。作者的核心前提是：**效度与信度适用于所有这些研究类型，只是在不同研究路径中处理方式有所差异**（p.157）。
+效度（validity）与信度（reliability）在量化、质性、自然主义和[[Mixed Methods Research|混合方法研究]]中的含义与操作各不相同。核心前提是：**效度与信度适用于所有这些研究类型，只是在不同研究路径中处理方式有所差异**（p.157）。
 
-本章共列举了二十余种效度类型——[[Catalytic Validity|催化效度]]（catalytic validity）、[[Concurrent Validity|共时效度]]（concurrent validity）、[[Consequential Validity|后果效度]]（consequential validity）、[[Construct Validity in Quantitative Measurement|构念效度]]（[[Construct]] validity）、[[Content Validity|内容效度]]（content validity）、[[Criterion-related Validity|效标关联效度]]（criterion-related validity）、[[Convergent and Discriminant Validity|收敛效度]]（convergent validity）、区分效度（discriminant validity）、[[Cross-cultural Validity|跨文化效度]]（cross-[[Cultural Validity]]）、文化效度（cultural validity）、[[Descriptive Validity|描述效度]]（descriptive validity）、[[Ecological Validity|生态效度]]（ecological validity）、[[Evaluative Validity|评价效度]]（evaluative validity）、[[External Validity|外部效度]]（external validity）、[[Face Validity|表面效度]]（face validity）、[[Internal Validity|内部效度]]（internal validity）、[[Interpretive Validity|解释效度]]（interpretive validity）、陪审团效度（jury validity）、[[Predictive Validity|预测效度]]（predictive validity）、系统效度（systemic validity）、[[Theoretical Validity|理论效度]]（theoretical validity）——但本章并不深入讨论所有这些术语，而是聚焦主要类型（p.158）。
+二十余种效度类型被涉及——[[Catalytic Validity|催化效度]]（catalytic validity）、[[Concurrent Validity|共时效度]]（concurrent validity）、[[Consequential Validity|后果效度]]（consequential validity）、[[Construct Validity in Quantitative Measurement|构念效度]]（[[Construct]] validity）、[[Content Validity|内容效度]]（content validity）、[[Criterion-related Validity|效标关联效度]]（criterion-related validity）、[[Convergent and Discriminant Validity|收敛效度]]（convergent validity）、区分效度（discriminant validity）、[[Cross-cultural Validity|跨文化效度]]（cross-[[Cultural Validity]]）、文化效度（cultural validity）、[[Descriptive Validity|描述效度]]（descriptive validity）、[[Ecological Validity|生态效度]]（ecological validity）、[[Evaluative Validity|评价效度]]（evaluative validity）、[[External Validity|外部效度]]（external validity）、[[Face Validity|表面效度]]（face validity）、[[Internal Validity|内部效度]]（internal validity）、[[Interpretive Validity|解释效度]]（interpretive validity）、陪审团效度（jury validity）、[[Predictive Validity|预测效度]]（predictive validity）、系统效度（systemic validity）、[[Theoretical Validity|理论效度]]（theoretical validity）——这里聚焦主要类型而非深入所有术语（p.158）。
 
-> [!example]- 图10.1：本章流程概览
+> [!example]- 图10.1：章节流程概览
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_10-1_Chapter_Overview.jpg)
 
 ---
 
-本章的论证建立在三个层层递进的核心命题之上：
+三个层层递进的核心命题构建了论证骨架：
 
-> [!proposition-chain] 本章的核心命题链
+> [!proposition-chain] 核心命题链
 > - **命题一：效度是程度问题** 效度不应被视为绝对状态（Gronlund, 1981）。[[Quantitative Research|量化研究]]包含必须被承认的内在[[Sampling Error|标准误]]差；质性数据中的受访者主观性、态度和视角共同构成一定程度的偏见。因此研究者的目标不是追求 100% 完美效度，而是**最小化无效度**（minimize invalidity）和**最大化效度**（maximize validity）（p.157）。
 > - **命题二：信度是效度的必要非[[Necessary and Sufficient Conditions|充分条件]]** reliability is a necessary but insufficient condition for validity；信度是效度的必要前提（necessary precondition），而效度可能是信度的充分但非必要条件。这一逻辑关系贯穿全章，意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提（p.157）。
 > - **命题三：信度不是量化研究的专属领地** Brock-Utne (1996: 612) 认为"信度是量化研究的专属领地"这一广泛持有的观点必须被打破。[[Qualitative Research|质性研究]]同样需要信度——只是以不同的方式、不同的标准来定义和达成（p.157）。
 
 ---
 
-> [!claim] 本章的核心论证主张
-> 效度与信度在量化和质性研究中有不同的含义，研究者不仅需要清楚说明这些差异，还必须展示对自身研究路径（approach）的效度和信度原则的忠诚（fidelity）。效度必须在研究者所使用的研究[[Paradigm|范式]]中定位讨论——但这不意味着研究应该被范式束缚（paradigm-bound），那是停滞和保守的配方。Hammersley (1992a: 39) 认为只有两种范式——量化和质性——且它们几乎互斥；但本书前三章的目的之一就是展示范式的多元性。本章引用量化和质性范式仅为简便的启发式目的（p.158）。
+> [!claim] 核心论证主张
+> 效度与信度在量化和质性研究中有不同的含义，研究者不仅需要清楚说明这些差异，还必须展示对自身研究路径（approach）的效度和信度原则的忠诚（fidelity）。效度必须在研究者所使用的研究[[Paradigm|范式]]中定位讨论——但这不意味着研究应该被范式束缚（paradigm-bound），那是停滞和保守的配方。Hammersley (1992a: 39) 认为只有两种范式——量化和质性——且它们几乎互斥；但本书前三章的目的之一就是展示范式的多元性。这里引用量化和质性范式仅为简便的启发式目的（p.158）。
 
 ---
 
@@ -243,7 +243,7 @@ Maxwell (1992) 以"理解"（understanding）为核心，提出了五种质性�
 
 > [!dimension] Maxwell 的五种质性效度类型
 > - **描述效度**（descriptive validity）
->   描述的事实准确性——不得是编造的、选择性的或扭曲的（Winter, 2000: 4）。在此意义上，效度包含了信度。描述效度类似 Blumenfeld-Jones (1995) 的"真实"（truth）概念——客观上发生了什么事实，以及 Glaser & Strauss (1967) 的"可信性"（credibility）。
+>   描述的事实准确性，不得编造、选择性选取或扭曲（Winter, 2000: 4）。在此意义上，效度包含了信度。描述效度类似 Blumenfeld-Jones (1995) 的真实（truth）概念，即客观上发生了什么事实，与 Glaser & Strauss (1967) 的可信性（credibility）相呼应。
 > - **解释效度**（interpretive validity）
 >   研究捕捉情境和事件对参与者/主体本身的意义、解释、术语和意图的能力。类似 Blumenfeld-Jones 的"忠实"（fidelity）——对被研究者而言有何主观意义（subjectively meaningful）。解释效度在实验/实证主义方法论中没有明确对应物，这是质性研究独有的效度维度。
 > - **理论效度**（theoretical validity）
@@ -341,7 +341,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > - **成熟**（Maturation） 受试者在两次观测之间以多种方式自然变化——更年长、更疲惫、更成熟或更厌倦。这些变化独立于研究处理。持久的教育研究（如历时数月的实验）比短暂实验室实验更易受成熟效应影响。
 > - **统计回归**（Statistical regression） 与成熟效应一样，回归效应随前后测时间间隔系统性增加。回归意味着：前测得分最高的受试者后测可能得分相对较低；前测最低的后测可能得分相对较高——简言之，前后测情境中存在**"向均值回归"**。回归效应可能误导教育研究者将后测得失归因于低分和高分的受试者特质，而实际上只是统计现象。
 > - **测验**（Testing） 研究开始时的前测可能产生超出研究处理的效果——包括使受试者对研究真正目的**敏感化**，以及产生**实践效应**（practice effects）导致后测得分提高。例如，学生在前测中遇到的题型和解题策略，在后测中自动产生更好的表现。
-> - **工具**（Instrumentation） 不可靠的测验或工具可能将严重错误引入研究。人类观察者或评判者的变化——如技能衰退、注意力水平波动——或在长期研究中工具的校准变化——都可能导致误差。例如一个编码员在研究初期严格、后期宽松，那么编码结果的变化反映的不是数据本身的变化而是编码标准的变化。
+> - **工具**（Instrumentation） 不可靠的测验或工具可能将严重错误引入研究。人类观察者或评判者的变化（如技能衰退、注意力水平波动），或长期研究中工具的校准变化，都可能导致误差。例如一个编码员在研究初期严格、后期宽松，那么编码结果的变化反映的不是数据本身的变化而是编码标准的变化。
 > - **选择**（Selection） 当对照组和实验组的受试者选择存在差异，或使用**完整班级**（intact classes）作为实验组或控制组时，可能引入偏差。选择偏差还可能与其他因素（历史、成熟等）**交互作用**，进一步模糊比较处理的效果。
 > - **实验损耗**（Experimental mortality） 长期研究中的受试者流失可能混淆变量效果。即使最初各组是随机选择的，但坚持到最后的"剩余者"可能与最初的无偏样本不同。例如在历时一年的[[Intervention Research|干预研究]]中，辍学学生可能恰恰是干预效果最差的学生，剩下的样本高估了干预效果。
 > - **工具反应性**（Instrument reactivity） 研究工具本身对研究参与者产生的效应（Vulliamy et al., 1990）。例如观察者的在场改变被观察者的行为；问卷中的问题措辞引发受试者的防御性回答。
@@ -438,7 +438,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 > [!challenges] 九种量化外部效度威胁
 > - **未能明确描述自变量**（Failure to describe independent variables explicitly） 除非自变量得到充分描述，未来复制研究条件几乎不可能——这是科学可重复性危机的一个重要来源
 > - **可用总体与[[Study Population and Sample|目标总体]]缺乏代表性**（Lack of representativeness） 参与研究者可能对可用总体具有代表性，但对研究者希望推广其发现的目标总体可能没有——即抽样和/或随机化不足
-> - **霍桑效应**（Hawthorne effect） 医学研究长期认识到仅仅参与药物实验就会产生心理效应——安慰剂和双盲设计常用于抵消参与的偏倚效应。同样，"霍桑效应"在教育研究中威胁着研究处理的有效性——当受试者意识到自己作为"实验豚鼠"的角色时，他们的行为已经不再是"自然"行为
+> - **霍桑效应**（Hawthorne effect） 医学研究长期认识到仅仅参与药物实验就会产生心理效应——安慰剂和双盲设计常用于抵消参与的偏倚效应。同样，[[Hawthorne Effect|霍桑效应]]在教育研究中威胁着研究处理的有效性：当受试者意识到自己被当作实验对象时，其行为已经不再是自然行为
 > - **因变量[[Operationalization|操作化]]不充分**（Inadequate operationalizing of dependent variables） 研究者操作化的因变量必须在**非研究情境**中也具有效度——一份关于职业选择的纸笔问卷可能在大学生实际就业决策方面几乎没有效度。操作化和真实世界之间存在鸿沟
 > - **对实验/研究条件的敏感化/反应性**（Sensitization/reactivity） 前测可能改变受试者对干预变量的敏感性——受试者在后测中的表现可能反映的是其对前测的记忆和反应，而非干预的真实效果
 > - **外来因素与实验处理的交互效应**（Interaction effects of extraneous factors） 上述所有外部效度威胁都代表了多种混淆因素与处理之间的交互作用
