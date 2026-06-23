@@ -4,6 +4,114 @@
 
 Total entries: **259**
 
+## At a Glance
+
+| Lens | Count |
+|---|---:|
+| Fact entries | 259 |
+| Regions / contexts | 27 |
+| Fact types | 7 |
+
+## Region Hotspots
+
+| Region | Entries |
+|---|---:|
+| US | 80 |
+| Global | 27 |
+| China | 26 |
+| UK | 25 |
+| Australia | 18 |
+| New Zealand | 14 |
+| Hong Kong | 11 |
+| EU | 10 |
+| Multi-country | 8 |
+| Denmark | 4 |
+| Europe | 4 |
+| Germany | 4 |
+
+## Fact Types
+
+| Type | Entries |
+|---|---:|
+| Event | 131 |
+| Policy | 106 |
+| Organization | 13 |
+| Unknown | 4 |
+| Region | 3 |
+| Phenomenon | 1 |
+| Program | 1 |
+
+## Topic Signals
+
+| Signal | Entries |
+|---|---:|
+| K12 `#level` | 52 |
+| University Industry Collaboration `#theme` | 52 |
+| Higher Education `#level` | 51 |
+| Innovation `#theme` | 25 |
+| Higher Ed `#level` | 24 |
+| Evidence Based Education `#theme` | 12 |
+| Economic Development `#policy` | 10 |
+| Innovation `#policy` | 10 |
+| Teacher Education `#policy` | 8 |
+| Curriculum `#subject` | 6 |
+| Comparative Education `#subject` | 5 |
+| Entrepreneurship `#theme` | 5 |
+
+## Fast Trails
+
+> [!trail]- Evidence infrastructure (8)
+> - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为“什么是有效”（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广“循证”教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（ITE）标准化和惩罚性问责的重要政策节点。
+> - [[Azione LIM]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
+> - [[Best Evidence Encyclopedia]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
+> - [[Best Evidence in Brief]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
+> - [[BHP Foundation]] — 由全球矿业与跨国资源巨头必和必拓集团（BHP Group）全资资助的慈善基金会。作为典型的风险慈善（Venture Philanthropy）组织，基金会通过资助英国教育捐赠基金会（EEF）全球证据生态项目，在全球推广复制标准化循证教育机构（如AERO），深刻介入主权国家教育知识生产与准入政策流动的隐形重塑。
+> - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
+> - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
+> - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
+
+> [!trail]- Curriculum and assessment (8)
+> - [[1904 Educational System]] — 1904 年清政府颁布的中国第一个现代国家学制，以日本学制为蓝本并受德国模式影响，涵盖幼儿园至高等教育，引入现代课程体系以培养合格国民、实现国家富强与抵御外侮
+> - [[1922 Educational System Reform]] — 1922 年由中华民国教育部颁布的学制改革，以七项灵活标准取代固定教育宗旨，引入美国式六-三-三学制与1923年学分制课程，深受杜威思想影响但在实施中淡化民主政治内涵
+> - [[2009 Hong Kong NSS Curriculum Reform]] — 2009 年实施的香港高中课程改革，从英式 3+2+2+3 学制转为 3+3+4 学制，引入通识教育科为必修科，统一考试为 HKDSE
+> - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
+> - [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
+> - [[A Nation at Risk 1983]] — 美国国家教育卓越委员会 1983 年发布的报告，以危机修辞将教育质量与国家竞争力绑定，触发 INES/EAG 的加速建立，同时在 1980 年代美国对日教育吸引力的改革辩论中承担了核心的危机化功能
+> - [[Australian Council for Educational Research]] — 澳大利亚教育研究与评估组织，独立于政府，负责开发和管理初始教师教育学生读写与算术统考（LANTITE）。在初始教师教育改革问责链条中充当核心中介，通过运营统考每年获得数百万澳元的巨大商业利益。
+> - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
+
+> [!trail]- Innovation systems (8)
+> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[Akademgorodok]] — 1950年代末赫鲁晓夫效仿美国大学校园模式在新西伯利亚建造的苏联科学城，旨在打破垂直行政壁垒、营造产学研协同的创新环境，但最终在勃列日涅夫时代被重新纳入官僚化和意识形态保守的体制
+> - [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
+> - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
+> - [[California Master Plan for Higher Education]] — 1960 年加州通过的高等教育总体规划，建立了社区学院、加州州立大学和加州大学的三层公立高等教育体系，为硅谷创新经济提供了多层次人才支撑
+> - [[Central Florida Research Park]] — 1978 年与中佛罗里达大学合作建立的研究园区，1993 年海军空战中心迁入后逐渐聚集国防承包商，现拥有超过 9,500 名雇员，推动 UCF 研发支出十年翻番
+> - [[China S&T Innovation Policy Evolution]] — 新中国成立以来，中国科技创新政策经历了从体系构建、融合探索、自主创新到深度融合四个阶段的演变，推动了科技与产业关系从无偿输送向深度融合的根本转变。
+> - [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
+
+> [!trail]- China and Hong Kong (8)
+> - [[1904 Educational System]] — 1904 年清政府颁布的中国第一个现代国家学制，以日本学制为蓝本并受德国模式影响，涵盖幼儿园至高等教育，引入现代课程体系以培养合格国民、实现国家富强与抵御外侮
+> - [[1922 Educational System Reform]] — 1922 年由中华民国教育部颁布的学制改革，以七项灵活标准取代固定教育宗旨，引入美国式六-三-三学制与1923年学分制课程，深受杜威思想影响但在实施中淡化民主政治内涵
+> - [[2009 Hong Kong NSS Curriculum Reform]] — 2009 年实施的香港高中课程改革，从英式 3+2+2+3 学制转为 3+3+4 学制，引入通识教育科为必修科，统一考试为 HKDSE
+> - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
+> - [[2014 Hukou Reform]] — 2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局
+> - [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
+> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议和11 起蒙古族自杀事件
+> - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
+
+> [!trail]- University-industry links (8)
+> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
+> - [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
+> - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
+> - [[Bayh-Dole Act of 1980]] — 1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架
+> - [[California Master Plan for Higher Education]] — 1960 年加州通过的高等教育总体规划，建立了社区学院、加州州立大学和加州大学的三层公立高等教育体系，为硅谷创新经济提供了多层次人才支撑
+> - [[Central Florida Research Park]] — 1978 年与中佛罗里达大学合作建立的研究园区，1993 年海军空战中心迁入后逐渐聚集国防承包商，现拥有超过 9,500 名雇员，推动 UCF 研发支出十年翻番
+> - [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
+
+---
+
 ## Argentina
 
 > [!index-list]- Unknown (1)
@@ -106,7 +214,7 @@ Total entries: **259**
 > - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中心，通过系统综述为丹麦学校实践者提供研究证据。
 > - [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
 
-## Eu
+## EU
 
 > [!index-list]- Event (2)
 > - [[Comparative Education Society in Europe]] — 1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革
@@ -193,7 +301,7 @@ Total entries: **259**
 > - [[Baby PISA]] — OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志
 > - [[Nobel Prize in Physiology or Medicine]] — 由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一
 
-## Hongkong
+## Hong Kong
 
 > [!index-list]- Event (5)
 > - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
@@ -247,7 +355,7 @@ Total entries: **259**
 > - [[Netherlands Top-sector Policy]] — 荷兰 2010 年后转向的产业与创新政策框架，选择九个高生产力、高知识强度、出口导向的顶级行业，通过三重螺旋机制加强企业、研究机构和政府的合作，在 2013-2017 年间公私合作项目规模翻倍但研发强度几乎未变
 > - [[Top Institute for Evidence-Based Education Research]] — 2008年荷兰多校合作建立的跨大学研究所，通过实验评价、元分析、知识传播和教师学院连接教育研究、政策与学校实践。
 
-## Newzealand
+## New Zealand
 
 > [!index-list]- Event (6)
 > - [[Cognition Education]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中

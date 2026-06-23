@@ -1344,7 +1344,7 @@ Total entries: **1448**
 > - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中心，通过系统综述为丹麦学校实践者提供研究证据。
 > - [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
 
-### Eu
+### EU
 
 > [!index-list]- Event (2)
 > - [[Comparative Education Society in Europe]] — 1961 年在战后国际合作政治中成立的欧洲比较教育学会，首任主席为英国第一位比较教育教授 Joseph Lauwerys，早期目标为促进国际学术交流以推动欧洲教育改革
@@ -1431,7 +1431,7 @@ Total entries: **1448**
 > - [[Baby PISA]] — OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志
 > - [[Nobel Prize in Physiology or Medicine]] — 由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一
 
-### Hongkong
+### Hong Kong
 
 > [!index-list]- Event (5)
 > - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
@@ -1485,7 +1485,7 @@ Total entries: **1448**
 > - [[Netherlands Top-sector Policy]] — 荷兰 2010 年后转向的产业与创新政策框架，选择九个高生产力、高知识强度、出口导向的顶级行业，通过三重螺旋机制加强企业、研究机构和政府的合作，在 2013-2017 年间公私合作项目规模翻倍但研发强度几乎未变
 > - [[Top Institute for Evidence-Based Education Research]] — 2008年荷兰多校合作建立的跨大学研究所，通过实验评价、元分析、知识传播和教师学院连接教育研究、政策与学校实践。
 
-### Newzealand
+### New Zealand
 
 > [!index-list]- Event (6)
 > - [[Cognition Education]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中

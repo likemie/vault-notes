@@ -88,6 +88,9 @@ SECOND_LEVEL_LABELS = {
     "multi": "Multi-country",
     "us": "US",
     "uk": "UK",
+    "eu": "EU",
+    "hongkong": "Hong Kong",
+    "newzealand": "New Zealand",
 }
 
 LIST_KEYS = {
@@ -291,12 +294,16 @@ def collect_entries() -> list[dict[str, Any]]:
             "third_folder": third_folder_from_path(path, typ),
             "path": path.relative_to(ROOT).as_posix(),
             "aliases": normalize_list(fm.get("aliases")),
+            "tags": normalize_list(fm.get("tags")),
             "summary": str(fm.get("summary") or "").strip(),
             # These are only used to generate index.md group headings.
             "journal": str(fm.get("journal") or "").strip(),
             "book_title": str(fm.get("book_title") or "").strip(),
             "issuing_organization": str(fm.get("issuing_organization") or "").strip(),
             "nationality": str(fm.get("nationality") or "").strip(),
+            "created": str(fm.get("created") or "").strip(),
+            "updated": str(fm.get("updated") or "").strip(),
+            "status": str(fm.get("status") or "").strip(),
         }
         entry["third_level"] = third_level(entry)
         entries.append(entry)
@@ -360,6 +367,113 @@ def group_entries(entries: list[dict[str, Any]], key: str) -> dict[str, list[dic
     for e in entries:
         groups.setdefault(str(e.get(key) or "uncategorized"), []).append(e)
     return groups
+
+
+def count_values(entries: list[dict[str, Any]], key: str) -> list[tuple[str, int]]:
+    counts: dict[str, int] = {}
+    for e in entries:
+        value = str(e.get(key) or "unknown").strip() or "unknown"
+        counts[value] = counts.get(value, 0) + 1
+    return sorted(counts.items(), key=lambda item: (-item[1], title_case_slug(item[0]).lower()))
+
+
+def count_tags(entries: list[dict[str, Any]], prefixes: tuple[str, ...] = ()) -> list[tuple[str, int]]:
+    counts: dict[str, int] = {}
+    for e in entries:
+        for tag in e.get("tags", []):
+            if prefixes and not tag.startswith(prefixes):
+                continue
+            counts[tag] = counts.get(tag, 0) + 1
+    return sorted(counts.items(), key=lambda item: (-item[1], item[0].lower()))
+
+
+def table_row(label: str, count: int) -> str:
+    return f"| {label} | {count} |"
+
+
+def format_tag(tag: str) -> str:
+    if "/" in tag:
+        prefix, rest = tag.split("/", 1)
+        return f"{title_case_slug(rest)} `#{prefix}`"
+    return tag
+
+
+def append_fact_dashboard(lines: list[str], facts: list[dict[str, Any]]) -> None:
+    if not facts:
+        return
+
+    by_region = count_values(facts, "second_level")
+    by_subtype = count_values(facts, "third_level")
+    topic_tags = count_tags(
+        facts,
+        (
+            "theme/",
+            "subject/",
+            "policy/",
+            "level/",
+            "critique/",
+            "method/",
+        ),
+    )
+
+    lines.extend(
+        [
+            "## At a Glance",
+            "",
+            "| Lens | Count |",
+            "|---|---:|",
+            table_row("Fact entries", len(facts)),
+            table_row("Regions / contexts", len(by_region)),
+            table_row("Fact types", len(by_subtype)),
+            "",
+            "## Region Hotspots",
+            "",
+            "| Region | Entries |",
+            "|---|---:|",
+        ]
+    )
+
+    for region, count in by_region[:12]:
+        lines.append(table_row(title_case_slug(region), count))
+
+    lines.extend(["", "## Fact Types", "", "| Type | Entries |", "|---|---:|"])
+    for subtype, count in by_subtype:
+        lines.append(table_row(title_case_slug(subtype), count))
+
+    if topic_tags:
+        lines.extend(["", "## Topic Signals", "", "| Signal | Entries |", "|---|---:|"])
+        for tag, count in topic_tags[:12]:
+            lines.append(table_row(format_tag(tag), count))
+
+    lines.extend(
+        [
+            "",
+            "## Fast Trails",
+            "",
+        ]
+    )
+
+    trails = [
+        ("Evidence infrastructure", ("evidence", "what-works")),
+        ("Curriculum and assessment", ("curriculum", "assessment")),
+        ("Innovation systems", ("innovation",)),
+        ("China and Hong Kong", ("region/china", "region/hongkong")),
+        ("University-industry links", ("industry", "technology-transfer")),
+    ]
+
+    for title, needles in trails:
+        matches = [
+            e
+            for e in facts
+            if any(
+                needle.lower() in " ".join([*e.get("tags", []), e["title"], e.get("summary", "")]).lower()
+                for needle in needles
+            )
+        ]
+        if matches:
+            append_callout(lines, title, [md_line(e) for e in sorted(matches, key=lambda x: x["title"].lower())[:8]], "trail")
+
+    lines.extend(["---", ""])
 
 
 def third_label(typ: str, value: str) -> str:
@@ -444,6 +558,9 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
             out_path.parent.mkdir(parents=True, exist_ok=True)
             out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
             continue
+
+        if typ == "fact":
+            append_fact_dashboard(lines, type_items)
 
         by_second = group_entries(type_items, "second_level")
 
