@@ -19,18 +19,19 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
   - "[[Evaluation Research]]"
   - "[[External Validity]]"
-  - "[[Positivism]]"
+  - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Catalytic Validity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Negative Case Analysis]]"
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
-  - "[[Ethnography]]"
+  - "[[Qualitative Research]]"
+  - "[[Random Assignment]]"
   - "[[Triangulation]]"
   - "[[Member Checking]]"
+  - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -68,10 +69,10 @@ updated: 2026-06-23
 > |---|---|---|
 > | **核心术语** | 内部效度（internal validity） | 可信性（credibility, Lincoln & Guba, 1985） |
 > | **核心问题** | 处理是否真的导致了观测到的效应？ | 解释对参与者而言是否可信？ |
-> | **对混淆因素的态度** | 通过实验设计和统计控制**排除** | 通过方法论反思和多元验证**纳入并管理** |
+> | **对混淆因素的态度** | 通过[[Experimental Research\|实验设计]]和统计控制**排除** | 通过方法论反思和多元验证**纳入并管理** |
 > | **对时间的态度** | 历史、成熟等时间效应是**需要控制的威胁** | 变化被**纳入研究设计**——现象演变本身就是研究对象（p.168） |
-> | **典型工具** | [[Random Assignment|随机分配]]、双盲、统计控制 | 长期田野参与、三角验证、成员核查、同伴汇报 |
-> | **效度标准** | 排除替代解释，最大化因果推断的可信性 | 建立可信性、可依赖性、可确认性和可迁移性 |
+> | **典型工具** | [[Random Assignment\|随机分配]]、双盲、统计控制 | 长期田野参与、[[Triangulation\|三角验证]]、[[Member Checking\|成员核查]]、同伴汇报 |
+> | **效度标准** | 排除替代解释，最大化[[Causality\|因果推断]]的可信性 | 建立可信性、可依赖性、可确认性和可迁移性 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
@@ -80,10 +81,10 @@ updated: 2026-06-23
 ## 核心要素
 
 > [!feature] 内部效度的关键维度
-> - **因果推断的可信性** 内部效度的核心是排除替代解释（rival explanations）——观测到的效应究竟来自处理还是混淆因素？这是[[Causality|因果推断]]的基础层次。
+> - **[[Causality|因果推断]]的可信性** 内部效度的核心是排除替代解释（rival explanations）——观测到的效应究竟来自处理还是混淆因素？这是[[Causality|因果推断]]的基础层次。
 > - **威胁的系统识别** Campbell & Stanley (1963) 的经典框架提供了系统识别混淆因素的结构化工具，详见 [[Threats to Internal Validity|内部效度威胁]]。
-> - **量化-质性双轨** 量化研究以排除威胁为策略，质性研究以纳入多元视角和管理多重解释为策略——两种范式处理同一问题但逻辑不同。
-> - **与外部效度的不对称关系** Pilliner (1973) 指出：没有内部效度，实验不可能有外部效度；但内部有效的实验可能有也可能没有外部效度。
+> - **量化-质性双轨** [[Quantitative Research|量化研究]]以排除威胁为策略，[[Qualitative Research|质性研究]]以纳入多元视角和管理多重解释为策略——两种[[Paradigm|范式]]处理同一问题但逻辑不同。
+> - **与[[External Validity|外部效度]]的不对称关系** Pilliner (1973) 指出：没有内部效度，实验不可能有外部效度；但内部有效的实验可能有也可能没有外部效度。
 
 ---
 
