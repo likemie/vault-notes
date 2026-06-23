@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -208,6 +208,7 @@
   },
   "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "wiki/concepts/research-methodology/Test Validity.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/concepts/comparative-education/Floating Signifier.md",
     "wiki/concepts/comparative-education/Educated Identity.md",
@@ -235,7 +236,6 @@
     "wiki/concepts/research-methodology/Construct Validity in Quantitative Measurement.md",
     "wiki/concepts/research-methodology/Threats to External Validity.md",
     "wiki/concepts/research-methodology/External Validity.md",
-    "wiki/concepts/research-methodology/Threats to Internal Validity.md",
     "scripts/__pycache__/wiki_index.cpython-313.pyc",
     "scripts/__pycache__/wiki_linker.cpython-313.pyc",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",

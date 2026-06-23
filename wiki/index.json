@@ -6117,6 +6117,17 @@
     ]
   },
   {
+    "title": "Test Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Test Validity.md",
+    "aliases": [
+      "测验效度",
+      "测试效度",
+      "validity in tests",
+      "validity in testing"
+    ]
+  },
+  {
     "title": "Test-Retest Reliability",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Test-Retest Reliability.md",
