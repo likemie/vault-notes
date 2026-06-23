@@ -126,7 +126,7 @@ updated: 2026-06-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|第9章 Sensitive educational research]] | 探讨[[Sensitive Research\|敏感教育研究]]的多个维度：敏感研究的定义与三类来源（Lee, 1993）、抽样与准入策略（八种策略、Walford四阶段模型、[[Gatekeepers\|守门人]]与担保人）、伦理议题（[[Guilty Knowledge\|有罪知识]]、隐蔽研究vs间谍活动、[[Deductive Disclosure\|演绎披露]]、[[Linked File System\|链接文件系统]]）、研究有权者与无权/脆弱群体（Hart[[Hart's Ladder of Participation\|参与阶梯]]），以及敏感研究中的提问技巧（vignettes、[[Interviewer Effects\|访谈者效应]]）。 | [[Sensitive Research]]、[[Gatekeepers]]、[[Covert Research]]、[[Guilty Knowledge]]、[[Hart's Ladder of Participation]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|第10章 Validity and reliability]] | 系统阐述效度与[[Reliability\|信度]]在量化、质性和混合方法中的多元含义：效度为程度而非绝对，信度是效度的必要非[[Necessary and Sufficient Conditions\|充分条件]]；逐层拆解[[Internal Validity\|内部效度]]、[[External Validity\|外部效度]]及十余种效度类型，以[[Triangulation\|三角验证]]桥接效度与信度；最后落实到访谈、实验、问卷、观察、测验和生命史中的操作策略与威胁清单。 | [[Internal Validity]]、[[External Validity]]、[[Triangulation]]、[[Qualitative Validity]]、[[Hawthorne Effect]] |
 > | **Part 3 教育研究的类型** | | |
-> | 第13章 Naturalistic, qualitative and [[Ethnography\|ethnographic research]] | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|第13章 Naturalistic, qualitative and ethnographic research]] | 区分自然主义/民族志（长期驻留）与质性方法（数据类型）；梳理[[Interpretive Paradigm\|诠释范式]]的认识论原则；提出质性研究12阶段操作模型；介绍[[Critical Ethnography\|批判民族志]]及其五阶段模型；系统列出自然主义方法的十大问题。 | [[Qualitative Research]]、[[Ethnography]]、[[Reflexivity]]、[[Critical Ethnography]]、[[Participant Observation]] |
 > | 第14章 Historical and documentary research | | |
 > | 第15章 Surveys, longitudinal, cross-sectional and trend studies | | |
 > | 第16章 Internet-based research and computer usage | | |
@@ -155,9 +155,7 @@ updated: 2026-06-22
 > | 第37章 Inferential statistics: difference tests | | |
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
 > | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|第11章]] | | |
-
-> [!knowledge-map]- 知识路线图
+> > [!knowledge-map]- 知识路线图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Knowledge_Map.jpg)
 
 ---

@@ -5,6 +5,11 @@ aliases:
   - critical ethnographic research
 summary: "批判理论在行动中的民族志：将权力、不平等和解放作为民族志研究的核心关切，以改变而非仅仅描述社会现实为目标。"
 type: theory
+theory_field: "research-methodology"
+theory_related_count: 0
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/critical
   - paradigm/qualitative

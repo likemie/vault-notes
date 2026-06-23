@@ -4276,6 +4276,15 @@
     ]
   },
   {
+    "title": "Analytic Induction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Analytic Induction.md",
+    "aliases": [
+      "分析归纳法",
+      "analytical induction"
+    ]
+  },
+  {
     "title": "Anonymity in Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Anonymity in Research.md",
@@ -4797,6 +4806,15 @@
       "学科理论",
       "discipline theory",
       "substantive content theory"
+    ]
+  },
+  {
+    "title": "Domain Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Domain Analysis.md",
+    "aliases": [
+      "领域分析",
+      "domain-level analysis"
     ]
   },
   {
@@ -5710,6 +5728,15 @@
     ]
   },
   {
+    "title": "Progressive Focussing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Progressive Focussing.md",
+    "aliases": [
+      "逐步聚焦",
+      "progressive focusing"
+    ]
+  },
+  {
     "title": "Publication Bias",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Publication Bias.md",
@@ -5773,12 +5800,30 @@
     ]
   },
   {
+    "title": "Rapport in Qualitative Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Rapport in Qualitative Research.md",
+    "aliases": [
+      "质性研究中的融洽关系",
+      "信任与融洽"
+    ]
+  },
+  {
     "title": "Rashomon Effect",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Rashomon Effect.md",
     "aliases": [
       "罗生门效应",
       "Rashomon effect"
+    ]
+  },
+  {
+    "title": "Reactivity in Qualitative Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Reactivity in Qualitative Research.md",
+    "aliases": [
+      "质性研究中的反应性",
+      "reactivity effect"
     ]
   },
   {
@@ -7456,6 +7501,15 @@
     ]
   },
   {
+    "title": "Critical Ethnography",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Critical Ethnography.md",
+    "aliases": [
+      "批判民族志",
+      "critical ethnographic research"
+    ]
+  },
+  {
     "title": "Hart's Ladder of Participation",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Hart's Ladder of Participation.md",
@@ -7868,6 +7922,15 @@
     ]
   },
   {
+    "title": "Autoethnography",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Autoethnography.md",
+    "aliases": [
+      "自我民族志",
+      "auto-ethnography"
+    ]
+  },
+  {
     "title": "Carnivalesque Analysis",
     "type": "method",
     "path": "wiki/methods/qualitative/Carnivalesque Analysis.md",
@@ -8090,6 +8153,15 @@
       "观察协议",
       "观察记录表",
       "observational protocol"
+    ]
+  },
+  {
+    "title": "Participant Observation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Participant Observation.md",
+    "aliases": [
+      "参与观察",
+      "participant observer"
     ]
   },
   {

@@ -5,6 +5,11 @@ aliases:
   - progressive focusing
 summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：从广角镜收集数据，通过筛选、归类与反思逐步收窄至情境的核心特征。"
 type: concept
+domain: "research-methodology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/data-analysis
   - paradigm/qualitative
