@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_concepts:
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
+  - "[[Definition of Terms]]"
   - "[[Reflexivity]]"
   - "[[Metainferences]]"
   - "[[Data Transformation]]"
@@ -736,13 +737,13 @@ Joy (2003: 1) 提出了十二个贯穿研究全过程的文化效度问题：
 > [!seq-table] Joy 的文化效度十二问
 > | 问题 | 关注维度 |
 > |---|---|
-> | 研究问题对目标群体是否可理解和重要？ | 研究问题设计 |
+> | [[Research Question\|研究问题]]对目标群体是否可理解和重要？ | 研究问题设计 |
 > | 研究者是否是进行这项研究的适当人选？ | 研究者资历 |
 > | 研究所基于的理论来源是否适合目标文化？ | 理论来源 |
 > | 目标文化中的研究者如何处理与研究问题相关的议题？ | 本土研究者经验 |
-> | 是否选择了适当的守门人和信息提供者？ | 守门人选择 |
+> | 是否选择了适当的[[Gatekeepers\|守门人]]和信息提供者？ | 守门人选择 |
 > | 研究设计和工具在目标文化的标准下是否伦理和适当？ | 工具适当性 |
-> | 目标文化成员如何定义研究中的重要术语？ | 术语定义 |
+> | 目标文化成员如何定义研究中的重要术语？ | [[Definition of Terms\|术语定义]] |
 > | 文件和其他信息是否以文化适当的方式翻译？ | 翻译方式 |
 > | 研究的可能结果对目标文化是否具有潜在价值和益处？ | 结果价值 |
 > | 对结果的解释是否包含目标文化成员的意见和观点？ | 解释包容性 |
@@ -850,8 +851,6 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 
 无效度既**阴险**（insidious）又**有害**（pernicious）——因为它可以在研究的每一个阶段潜入（p.196）。本节将威胁按研究的四个阶段组织，每个阶段给出具体的**最小化策略**。
 
----
-
 > [!proc] 设计阶段的效度保障
 > 1. **选择适当的时间尺度** 给予研究足够的时间以收集有意义的数据，但不要太长以至于外部因素压倒研究处理
 > 2. **确保充足资源** 确保所需研究可被承担的足够资源
@@ -882,9 +881,9 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 ---
 
 > [!proc] 分析阶段的效度保障
-> 1. **使用参与者验证**（respondent validation）
+> 1. **使用参与者验证（respondent validation）**
 > 2. **避免数据的主观解释** 例如评分时过于慷慨或过于吝啬——缺乏标准化和评分调节
-> 3. **减少光环效应**（halo effect） 研究者对人的了解或对该人或该情境的其他数据的了解对后续判断产生的影响——例如在评分许多试卷时，早期阶段严格、后期阶段宽松；或者一个在某一评估中被判为好的学生，在其他领域被给予不应得的有利评估
+> 3. **减少光环效应（halo effect）** 研究者对人的了解或对该人或该情境的其他数据的了解对后续判断产生的影响——例如在评分许多试卷时，早期阶段严格、后期阶段宽松；或者一个在某一评估中被判为好的学生，在其他领域被给予不应得的有利评估
 > 4. **使用与数据层次匹配的统计处理** 避免将区间量表的统计技术应用于顺序数据，或对数据的类型、规模、复杂性和敏感性使用错误的统计
 > 5. **识别虚假相关和外来因素** 可能影响数据的外部因素（即"隧道视野"tunnel vision）
 > 6. **避免质性数据编码不良**
