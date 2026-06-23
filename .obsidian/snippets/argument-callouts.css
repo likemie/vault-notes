@@ -4048,8 +4048,8 @@
 .callout[data-callout="phase"] .callout-content ol > li:nth-child(5)::before { animation-delay: 3.2s; }
 
 /* ── 标题段落：flex item 2，占满剩余宽度 ── */
-.callout[data-callout="phase"] .callout-content ul > li > p:first-child,
-.callout[data-callout="phase"] .callout-content ol > li > p:first-child {
+.callout[data-callout="phase"] .callout-content ul > li > p:first-of-type,
+.callout[data-callout="phase"] .callout-content ol > li > p:first-of-type {
   flex: 1 1 auto;
   margin: 0;
   font-weight: 700;
@@ -4058,8 +4058,8 @@
 }
 
 /* ── body 段落：强制换行，全宽，加分隔线 ── */
-.callout[data-callout="phase"] .callout-content ul > li > p:not(:first-child),
-.callout[data-callout="phase"] .callout-content ol > li > p:not(:first-child) {
+.callout[data-callout="phase"] .callout-content ul > li > p:not(:first-of-type),
+.callout[data-callout="phase"] .callout-content ol > li > p:not(:first-of-type) {
   flex: 0 0 100%;
   margin: 0.40rem 0 0;
   padding-top: 0.38rem;
