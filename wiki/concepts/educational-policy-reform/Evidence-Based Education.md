@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 127
+related_count: 129
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -22,6 +22,7 @@ tags:
 - paradigm/positivist
 - region/global
 related_concepts:
+  - "[[Disciplina and Doctrina]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Value-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -93,6 +94,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Improvement Science]]"
+  - "[[Snowball Sampling]]"
   - "[[Formative Program Evaluation]]"
 related_persons:
   - "[[John Hattie]]"
@@ -187,7 +189,7 @@ updated: '2026-06-17'
 > "在教育研究中，'什么有效'通常是错误的问题，因为几乎任何事情在某个地方都有效，但没有事情在所有地方都有效。更好的问题是'在什么条件下这个干预有效？'"([[Argument_Wiliam_2019|Wiliam, 2019, p.11]])
 
 > [!citation-card] Coldwell et al. (2017) — 英国官方定义
-> 英国教育部明确将 Sutton Trust、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被规训的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
+> 英国教育部明确将 Sutton Trust、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被[[Disciplina and Doctrina|规训]]的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
 
 > [!quote] Wrigley 对证据窄化的批评
 > Terry Wrigley 指出，证据本位运动在行政政策中通过统计手段强行剥离复杂的课堂背景，将"证据"高度窄化为数值平均值。这种去情境化的倾向不仅使得关于教育价值和目的的讨论被压制，同时也消解了教师的专业自主判断。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 4, 16)]]
@@ -782,7 +784,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 > [!pathways] 处方：双组件整合
 > 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立因果贡献，产出更细粒度、更可迁移的知识。
-> 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将网络化改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
+> 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将[[Snowball Sampling|网络化]]改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
 > 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制假设进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
 
 > [!implication] Peterson 的改革立场

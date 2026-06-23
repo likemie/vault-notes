@@ -6,6 +6,7 @@ aliases:
   - paradigm shift
   - 范式转换
   - Kuhn's paradigm
+  - 研究范式
 summary: "库恩提出的核心概念，指研究共同体共享的看待现象的方式、世界观、信念体系和原则集合，决定了什么算作合法的科学知识和研究方法。"
 type: concept
 domain: "research-methodology"

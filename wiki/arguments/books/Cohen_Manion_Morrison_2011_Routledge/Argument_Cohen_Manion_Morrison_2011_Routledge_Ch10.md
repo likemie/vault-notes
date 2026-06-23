@@ -57,11 +57,11 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Emergence]]"
   - "[[Negative Case Analysis]]"
+  - "[[Internal and External Generalizability]]"
   - "[[Ethics Debriefing]]"
   - "[[Effect Size]]"
   - "[[Null Hypothesis]]"
   - "[[Ontology]]"
-  - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Interpretive Paradigm]]"
   - "[[Hawthorne Effect]]"
   - "[[Causality]]"
@@ -242,18 +242,19 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 Maxwell (1992) 以"理解"（understanding）为核心，提出了五种质性效度类型（pp.161–162）：
 
 > [!dimension] Maxwell 的五种质性效度类型
-> - **描述效度**（descriptive validity）
+> - **[[Descriptive Validity|描述效度]]**（descriptive validity）
 >   描述的事实准确性，不得编造、选择性选取或扭曲（Winter, 2000: 4）。在此意义上，效度包含了信度。描述效度类似 Blumenfeld-Jones (1995) 的真实（truth）概念，即客观上发生了什么事实，与 Glaser & Strauss (1967) 的可信性（credibility）相呼应。
-> - **解释效度**（interpretive validity）
->   研究捕捉情境和事件对参与者/主体本身的意义、解释、术语和意图的能力。类似 Blumenfeld-Jones 的"忠实"（fidelity）——对被研究者而言有何主观意义（subjectively meaningful）。解释效度在实验/实证主义方法论中没有明确对应物，这是质性研究独有的效度维度。
-> - **理论效度**（theoretical validity）
->   研究者带入研究的理论建构（包括被研究者的建构）——理论在此被视为**解释**。理论效度是研究解释现象的程度。在这方面类似构念效度，但区别在于：理论效度中的构念是**所有参与者**（包括研究者和被研究者）的构念，而非仅仅是研究者预先定义的构念。
-> - **可推广性**（generalizability）
->   产生的理论可能有助于理解其他类似情境。推广在此指两个层面：在特定群体/社区/情境/环境内的推广（内部可推广性）和对特定外部社区/情境/环境的推广（外部可推广性）。内部可推广性比外部可推广性更重要。
-> - **评价效度**（evaluative validity）
->   对被研究对象采取评价性、判断性立场，而非仅仅描述、解释或阐释。显然与[[Critical Theory|批判理论]]视角共鸣——研究者自身的评价议程可能介入研究。评价效度不像其他四种是"中性"的，而是明确承认研究者的价值判断是研究效度的组成部分。
+> - **[[Interpretive Validity|解释效度]]**（interpretive validity）
+>   研究捕捉情境和事件对参与者/主体本身的意义、解释、术语和意图的能力。类似 Blumenfeld-Jones 的忠实（fidelity），对被研究者而言有何主观意义（subjectively meaningful）。解释效度在实验/实证主义方法论中没有明确对应物，这是质性研究独有的效度维度。
+> - **[[Theoretical Validity|理论效度]]**（theoretical validity）
+>   研究者带入研究的理论建构（包括被研究者的建构），理论在此被视为**解释**。理论效度是研究解释现象的程度。在这方面类似[[Construct Validity in Quantitative Measurement|构念效度]]，但区别在于：理论效度中的构念是**所有参与者**（包括研究者和被研究者）的构念，而非仅仅是研究者预先定义的构念。
+> - **外部可推广性**（[[Internal and External Generalizability|external generalizability]]）
+>   产生的理论可能有助于理解其他类似情境。推广在此指两个层面：在特定群体/社区/情境/环境内的推广（内部可推广性）和对特定外部社区/情境/环境的推广（外部可推广性）。内部可推广性比外部可推广性更重要。可推广性与[[External Validity|外部效度]]有重叠但不等同——外部效度衡量的更多是统计推广，而 Maxwell 的可推广性更接近理论的可迁移性。
+> - **[[Evaluative Validity|评价效度]]**（evaluative validity）
+>   对被研究对象采取评价性、判断性立场，而非仅仅描述、解释或阐释。显然与[[Critical Theory|批判理论]]视角共鸣——研究者自身的评价议程可能介入研究。评价效度不像其他四种那样试图保持中性，而是明确承认研究者的价值判断是研究效度的组成部分。
 
-此外，Auerbach & Silverstein (2003) 增加了第六个维度——**透明性**（transparency）：读者能在多大程度上理解和被告知解释被实际达成的**过程**（p.162）。
+> [!note]- 第六个维度：透明性
+> Auerbach & Silverstein (2003) 增加了第六个维度——**透明性**（transparency）：读者能在多大程度上理解和被告知解释被实际达成的**过程**（p.162）。
 
 ---
 
@@ -378,7 +379,7 @@ LeCompte & Preissle (1993: 323–4) 进一步提出了质性研究内部效度�
 > - **催化真实性**（catalytic authenticity）
 >   研究应**引发具体行动**——研究不应止于描述，而应推动改变
 > - **策略真实性**（tactical authenticity）
->   研究应**惠及所有涉及者**（benefit to all involved）——这是"受益"（[[Non-maleficence and Beneficence in Research|beneficence]]）伦理问题的体现
+>   研究应**惠及所有涉及者**（benefit to all involved）——这是"受益"（beneficence）伦理问题的体现
 
 Hammersley (1992b: 71) 从更务实的角度提出质性内部效度需要注意三个层次（p.167）：
 1. **合理性与可信性**（plausibility and credibility）——解释必须在理性上站得住脚

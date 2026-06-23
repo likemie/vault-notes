@@ -492,7 +492,7 @@ Douglas (1973)提出了一对关键概念区分(pp.524–531)：
 
 #### 7.3 符号互动论(Symbolic Interactionism)
 
-[[Symbolic Interactionism]]源自米德([[George Herbert Mead]], 1934)，后经布卢默(Blumer)、休斯(Hughes)、贝克尔(Becker)和戈夫曼(Goffman)发展(pp.562–568)。
+[[Symbolic Interactionism]]源自[[George Herbert Mead|米德]]([[George Herbert Mead]], 1934)，后经布卢默(Blumer)、休斯(Hughes)、贝克尔(Becker)和戈夫曼(Goffman)发展(pp.562–568)。
 
 Woods (1979)识别出三个层层递进的基本假设：
 
