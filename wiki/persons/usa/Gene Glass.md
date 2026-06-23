@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育心理学家，1976年创造元分析一词并发展其方法论，以心理治疗效果研究挑战学术共识，被誉为元分析之父"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - gene-glass
   - meta-analysis

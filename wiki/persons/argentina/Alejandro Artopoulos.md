@@ -6,6 +6,11 @@ aliases:
 summary: "阿根廷圣安德烈斯大学教育学者，与 Beech 合著关于教育话语跨空间流通的论文，使用行动者网络理论分析阿根廷 Conectar Igualdad 项目"
 type: person
 nationality: argentina
+person_region: "argentina"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/argentina
   - theme/comparative-education

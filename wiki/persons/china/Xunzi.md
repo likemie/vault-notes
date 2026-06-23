@@ -7,6 +7,11 @@ aliases:
 summary: "战国儒家思想家，主张性恶论，强调礼义教化与后天学习对改造人性的关键作用，为学习必要性提供了不同于孟子的儒家论证"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]
 related_concepts:
   - "[[Four Sprouts]]"

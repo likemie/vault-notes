@@ -8,6 +8,11 @@ aliases:
 summary: "美国教育心理学家和方法论学者，以 Foundations of Behavioral Research 和对量化研究中理论的经典定义而著称"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - discipline/psychology
   - discipline/education

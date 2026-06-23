@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育研究者，证据知情实践概念整合与测量工具开发者，为教育研究理解教师如何使用证据提供经验框架。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - julie-nelson
 - evidence-informed-practice

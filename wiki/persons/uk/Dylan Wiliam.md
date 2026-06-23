@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育评估学者，形成性评价研究代表人物和教育知识局部性论者，为教育研究把评价、教师判断与方法论谦抑重新连起来。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - dylan-wiliam
 - educational-assessment

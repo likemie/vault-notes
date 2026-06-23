@@ -9,6 +9,11 @@ aliases:
 summary: "明代心学思想家，以良知说和知行合一反对程朱理学的支离繁琐，将原本高远的成圣目标向社会底层开放"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/china
 - field/chinese-philosophy

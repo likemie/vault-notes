@@ -3,6 +3,11 @@ title: Francis Bacon
 aliases: [弗朗西斯·培根, Bacon, Sir Francis Bacon]
 summary: "17世纪英国哲学家，提出归纳推理方法，将科学的注意力从权威和逻辑重新引向自然和经验证据，奠定了现代经验科学的方法论基础。"
 type: person
+person_region: "uk"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags: [person/philosopher, person/philosopher-of-science, theme/research-methodology]
 related_concepts:
   - "[[Scientific Method]]"

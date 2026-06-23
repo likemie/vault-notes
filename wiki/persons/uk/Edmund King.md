@@ -6,6 +6,11 @@ aliases:
 summary: "英国比较教育学者，政策科学理解形式的代表人物之一，提出关键决策时刻概念，1970 年代方法论争论中的关键参与者"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/uk
   - field/comparative-education

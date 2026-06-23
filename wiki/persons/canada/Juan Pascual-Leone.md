@@ -6,6 +6,11 @@ aliases:
 summary: "加拿大神经心理学家和新皮亚杰理论家，M-power模型提出者，为教育研究连接认知发展阶段与信息加工能力提供桥梁。"
 type: person
 nationality: canada
+person_region: "canada"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - pascual-leone
 - paradigm/constructivist

@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育研究者，批判实在论取向的证据本位教学批评者，为教育研究系统拆解 RCT、元分析与元元分析的层层局限。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
 - terry-wrigley
 - evidence-based-education

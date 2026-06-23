@@ -6,6 +6,11 @@ aliases:
 summary: "法国社会学家和哲学家，回归故里作者与阶级自传写作代表人物，为教育研究理解阶级流动后的文化撕裂提供思想资源。"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 3
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - didier-eribon
 - sociology

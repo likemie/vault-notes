@@ -6,6 +6,11 @@ aliases:
 summary: "英国数学家与统计学奠基人，1904年首次提出跨研究合并数据以回答因果问题的方法，被视为元分析的思想先驱"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - karl-pearson
 - statistics

@@ -3,6 +3,11 @@ title: Jürgen Habermas
 aliases: [尤尔根·哈贝马斯, Habermas]
 summary: "德国哲学家和社会理论家，法兰克福学派第二代代表，对实证主义提供了最具影响力的社会理论批判，揭示了科学主义对诠释学、审美、批判等其他知识形式的压制。"
 type: person
+person_region: "germany"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags: [person/philosopher, person/social-theorist, theme/critical-theory]
 related_concepts:
   - "[[Positivism]]"

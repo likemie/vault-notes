@@ -6,6 +6,11 @@ aliases:
 summary: "英国社会科学研究者，证据本位教学科学观批判合作者，为教育研究反思方法崇拜与简化科学形象提供补充论证。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - sean-mccusker
 - evidence-based-education

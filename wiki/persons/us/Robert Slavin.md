@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育心理学家，证据本位教育改革奠基人和 Success for All 创建者，为教育研究和政策推动实验评价与项目证据标准化提供关键力量。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - robert-slavin
 - evidence-based-education

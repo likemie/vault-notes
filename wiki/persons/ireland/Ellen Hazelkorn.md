@@ -6,6 +6,11 @@ aliases:
 summary: "爱尔兰高等教育学者，全球大学排名研究代表人物，为教育研究分析排名治理、声誉竞争与高教政策提供关键参照。"
 type: person
 nationality: ireland
+person_region: "ireland"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - person
 - higher-education

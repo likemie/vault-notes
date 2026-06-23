@@ -4,6 +4,11 @@ aliases: ["曼努埃尔·卡斯特尔斯", "曼纽尔·卡斯特", "Castells, M.
 summary: "西班牙社会学家，信息时代和网络社会理论的主要奠基人，以《信息时代》三部曲系统阐述信息化发展模式和国家主义体制转型分析"
 type: person
 nationality: spain
+person_region: "spain"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - field/sociology
   - theory/informationalism

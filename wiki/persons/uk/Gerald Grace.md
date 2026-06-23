@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育社会学者，天主教教育与社会的批判者和良知论述代表人物，为教育研究连接教育领导、价值与公共使命提供语言。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - gerald-grace
 - region/new-zealand

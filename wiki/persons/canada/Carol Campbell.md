@@ -6,6 +6,11 @@ aliases:
 summary: "加拿大教育领导力学者，证据知情实践与知识动员研究者，围绕系统改革、专业学习与证据使用之间的关系提供安大略路径。"
 type: person
 nationality: canada
+person_region: "canada"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - carol-campbell
 - evidence-informed-practice

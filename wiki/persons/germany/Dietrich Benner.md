@@ -6,6 +6,11 @@ aliases:
 summary: "德国教育学家，一般教育学代表人物和 Bildung/Erziehung 区分提出者，为教育研究连接教学论与规范性判断提供基础。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - dietrich-benner
 - paradigm/bildung

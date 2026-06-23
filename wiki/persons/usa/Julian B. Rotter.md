@@ -7,6 +7,11 @@ aliases:
 summary: "美国心理学家，社会学习理论的主要奠基人之一，提出控制点（locus of control）构念和社会学习行为公式，对归因理论和人格心理学的发展有重要影响"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - discipline/psychology
   - field/clinical-psychology

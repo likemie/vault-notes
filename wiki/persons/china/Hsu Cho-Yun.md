@@ -6,6 +6,11 @@ aliases:
 summary: "海外历史学家，代表族裔文化型中国观，主张中国由汉族和汉文化界定、领土随汉文化接受度变化，其著作被引入中国大陆教科书以培养传统文化认同"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/china
   - region/hong-kong

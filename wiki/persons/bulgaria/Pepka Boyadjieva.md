@@ -6,6 +6,11 @@ aliases:
 summary: "保加利亚社会学家和高等教育研究者，高教多维使命模型提出者，为教育研究反思排名逻辑对大学使命的压缩提供框架。"
 type: person
 nationality: bulgaria
+person_region: "bulgaria"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - person
 - higher-education

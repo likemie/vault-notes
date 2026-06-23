@@ -6,6 +6,11 @@ aliases:
 summary: "美国女性主义科技研究学者，赛博格、sympoiesis 与 SF 叙事方法代表人物，为后人类主义和关系伦理提供关键思想资源。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - donna-haraway
 - posthumanism

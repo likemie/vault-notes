@@ -6,6 +6,11 @@ aliases:
 summary: "美国经济学家和管理学者，竞争战略与国家竞争优势理论代表人物，为教育研究理解知识经济、大学竞争与政策空间想象提供外部理论资源。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - michael-porter
 - competitive-strategy

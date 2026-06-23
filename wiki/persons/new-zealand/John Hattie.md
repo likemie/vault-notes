@@ -7,6 +7,11 @@ aliases:
 summary: "新西兰教育统计学家，Visible Learning作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
 type: person
 nationality: new-zealand
+person_region: "new-zealand"
+person_related_count: 104
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 tags:
 - john-hattie
 - evidence-based-education

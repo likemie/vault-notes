@@ -6,6 +6,11 @@ aliases:
 summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und Lehrerprofessionalität 作者，为课堂质量与教师专业性研究提供德语传统框架。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - andreas-helmke
 - effective-teaching

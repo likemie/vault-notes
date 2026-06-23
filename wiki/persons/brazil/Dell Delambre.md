@@ -6,6 +6,11 @@ aliases:
 summary: "巴西认识论学者和实践者，Creative Tension of Sense 与 Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。"
 type: person
 nationality: brazil
+person_region: "brazil"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/brazil
 - field/epistemology

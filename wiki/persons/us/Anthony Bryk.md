@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育研究者与组织改进学者，卡内基教学促进基金会前主席，将改进科学与网络化改进共同体引入教育领域，倡导通过基于实践的证据与持续系统反馈推进教育改善。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - anthony-bryk
   - improvement-science

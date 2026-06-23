@@ -6,6 +6,11 @@ aliases:
 summary: "巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。"
 type: person
 nationality: brazil
+person_region: "brazil"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - marcelo-parreira-do-amaral
 - comparative-education

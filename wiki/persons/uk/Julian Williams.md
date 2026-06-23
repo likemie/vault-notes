@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育研究者，第三空间与替代性学习结果测量研究者，为教育研究连接政策、实践与非成就性结果提供方法论视角。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 3
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - julian-williams
 - region/uk

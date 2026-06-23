@@ -7,6 +7,11 @@ aliases:
 summary: "美国著名新教传教士和教育者，1931年出版 The Challenge of Russia 论证美国应承认苏联，大量引用 Dewey 1928年访苏的观察作为苏联教育进步的证据"
 type: person
 nationality: united-states
+person_region: "united-states"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - field/religious-education
   - theme/us-soviet-relations

@@ -6,6 +6,11 @@ aliases:
 summary: "中国香港教育研究者，大规模教育随机实验与证据本位改革国际比较研究者，为中文教育实证研究与国际证据对话提供桥梁。"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - alan-c-k-cheung
 - region/china

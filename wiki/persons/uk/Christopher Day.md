@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育领导力学者，ISSPP 项目创始人，为教育研究建立情境敏感的成功校长国际比较知识基础。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - christopher-day
 - region/uk

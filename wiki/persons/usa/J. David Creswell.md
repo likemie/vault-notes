@@ -7,6 +7,11 @@ aliases:
 summary: "美国心理学家，卡内基梅隆大学心理学教授，研究方向为压力下的心理韧性，与父亲 John W. Creswell 合著研究设计教材"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - psychology
   - stress-resilience

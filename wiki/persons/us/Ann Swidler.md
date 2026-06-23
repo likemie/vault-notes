@@ -6,6 +6,11 @@ aliases:
 summary: "美国文化社会学家，文化工具箱理论提出者，为教育研究理解学生行动策略、文化资源与情境差异提供关键框架。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - ann-swidler
   - cultural-sociology

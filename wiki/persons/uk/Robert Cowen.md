@@ -6,6 +6,11 @@ aliases:
 summary: "英国比较教育学者，以 transitology、现代／晚期现代教育双轴比较模型和 3T 框架（Transfer, Translation, Transformation）三个核心概念框架分析教育与社会转型及跨国知识流动"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/uk
   - field/comparative-education

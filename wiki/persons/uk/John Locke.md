@@ -6,6 +6,11 @@ aliases:
 summary: "英国哲学家与医生，经验论奠基人与自由主义政治哲学之父，以白板说挑战先天论，以自然权利论奠定现代民主宪政的思想基础"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/uk
   - region/western

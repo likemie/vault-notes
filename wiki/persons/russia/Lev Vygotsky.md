@@ -7,6 +7,11 @@ aliases:
 summary: "苏联心理学家，以最近发展区、科学概念与自发概念的区分、社会文化理论影响教育研究和课程设计"
 type: person
 nationality: russia
+person_region: "russia"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/russia
   - field/psychology

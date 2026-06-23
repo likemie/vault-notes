@@ -6,6 +6,11 @@ aliases:
 summary: "英国生物学家与科学管理者，transhumanism 一词提出者，为教育研究思考超人类主义、进步叙事与人性改造提供谱系线索。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 3
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - julian-huxley
 - transhumanism

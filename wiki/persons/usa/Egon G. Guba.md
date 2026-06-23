@@ -7,6 +7,11 @@ aliases:
 summary: "美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic Inquiry 开创自然主义探究范式，此前在项目评价领域提出第四代评价模型"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - discipline/education
   - field/qualitative-methods

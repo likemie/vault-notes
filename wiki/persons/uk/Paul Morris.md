@@ -6,6 +6,11 @@ aliases:
 summary: "英国比较教育与课程研究学者，香港课程政治与政策借用研究代表人物，为教育研究理解全球化论述在本地课程中的转译提供案例。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - paul-morris
 - curriculum-change

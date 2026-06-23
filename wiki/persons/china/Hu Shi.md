@@ -7,6 +7,11 @@ aliases:
 summary: "中国现代作家、哲学家，新文化运动核心人物，杜威在哥伦比亚大学的学生与在华主要翻译者，将实用主义作为打倒迷信的武器引入中国"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - field/educational-philosophy
   - field/progressive-education

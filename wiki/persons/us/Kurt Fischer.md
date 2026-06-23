@@ -6,6 +6,11 @@ aliases:
 summary: "美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变表现提供模型。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - fischer
 - paradigm/constructivist

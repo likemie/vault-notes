@@ -6,6 +6,11 @@ aliases:
 summary: "英国比较教育学者，政策借用四阶段模型共同提出者，为教育研究分析跨国教育改革流动提供经典模型。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - david-phillips
 - comparative-education

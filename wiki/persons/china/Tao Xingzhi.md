@@ -8,6 +8,11 @@ aliases:
 summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威的学生与批判性改造者，倡导科学态度与平民教育，主导《新教育评论》并推动教育适应国情的实用主义转向"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - field/educational-philosophy
   - field/progressive-education

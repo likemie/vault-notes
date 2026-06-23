@@ -6,6 +6,11 @@ aliases:
 summary: "英国数学教育学者和方法论批评者，效应量误用问题的重要批评者，为教育研究反思统计指标的解释边界提供精密论证。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 18
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - adrian-simpson
 - effect-size

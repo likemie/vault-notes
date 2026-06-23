@@ -6,6 +6,11 @@ aliases:
 summary: "加拿大教育行政学者，主观主义教育行政研究代表人物，为教育研究挑战实证主义组织理论并重申意义与经验的重要性提供主观主义转向。"
 type: person
 nationality: canada
+person_region: "canada"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - thomas-barr-greenfield
   - region/canada

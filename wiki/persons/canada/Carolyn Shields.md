@@ -6,6 +6,11 @@ aliases:
 summary: "加拿大教育学者，变革型领导力理论提出者，为教育研究连接权力、正义与领导实践提供框架。"
 type: person
 nationality: canada
+person_region: "canada"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - carolyn-shields
 - region/canada

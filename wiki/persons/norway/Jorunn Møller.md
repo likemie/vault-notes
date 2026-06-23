@@ -6,6 +6,11 @@ aliases:
 summary: "挪威教育领导力学者，学校治理与问责研究者，为教育研究批判领导力研究的去政治化和OECD化提供重要声音。"
 type: person
 nationality: norway
+person_region: "norway"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - jorunn-mller
 - region/norway

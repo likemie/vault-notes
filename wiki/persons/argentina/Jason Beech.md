@@ -6,6 +6,11 @@ aliases:
 summary: "阿根廷圣安德烈斯大学教育学者，研究教育话语的跨空间流通、政策借用与比较教育方法论，提出关系性空间和 ANT 视角"
 type: person
 nationality: argentina
+person_region: "argentina"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - region/argentina
   - theme/comparative-education

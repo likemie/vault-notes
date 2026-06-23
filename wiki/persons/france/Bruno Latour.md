@@ -6,6 +6,11 @@ aliases:
 summary: "法国社会学家和哲学家，行动者网络理论的创始人之一，以对科学实践的社会学研究和后人类主义社会理论闻名"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/france
   - theory/social-theory

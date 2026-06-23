@@ -6,6 +6,11 @@ aliases:
 summary: "英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - region/uk
 - region/western

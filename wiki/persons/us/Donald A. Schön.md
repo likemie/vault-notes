@@ -7,6 +7,11 @@ aliases:
 summary: "美国哲学家和组织学习学者，反思性实践者与技术理性批判代表人物，为教育研究重估专业判断、实践知识与教师反思提供核心资源。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - schon
 - professional-practice

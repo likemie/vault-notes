@@ -6,6 +6,11 @@ aliases:
 summary: "英国科学哲学家，因果外推与 RCT 局限研究代表人物，为教育研究反思什么有效的证据迁移条件提供方法论基础。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - nancy-cartwright
 - paradigm/scientific-realism

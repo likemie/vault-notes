@@ -6,6 +6,11 @@ aliases:
 summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判代表人物，为教育研究捍卫教育的哲学维度和非还原性提供重要声音。"
 type: person
 nationality: denmark
+person_region: "denmark"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - larsen
 - paradigm/critical

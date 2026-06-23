@@ -6,6 +6,11 @@ aliases:
 summary: "中国高等教育研究者，双模式框架提出者和 金榜题名之后 作者，为教育研究解释大学生出路分化与文化障碍提供分析工具。"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 27
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - yajun-zheng
   - higher-education

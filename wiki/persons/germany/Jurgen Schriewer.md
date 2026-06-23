@@ -6,6 +6,11 @@ aliases:
 summary: "德国比较教育学者，系统理论与外化概念引入者，为教育研究分析政策借用与跨国参照提供方法论资源。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - jurgen-schriewer
 - comparative-education

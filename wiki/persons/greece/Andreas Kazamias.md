@@ -6,6 +6,11 @@ aliases:
 summary: "希腊裔比较教育学者，以历史和人文主义视角研究比较教育，倡导渐进主义-现代主义-改良主义-普罗米修斯式比较教育，CESE 荣誉会员"
 type: person
 nationality: greece
+person_region: "greece"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/greece
   - field/comparative-education

@@ -7,6 +7,11 @@ aliases:
 summary: "巴西教育家，批判教育学奠基人和 被压迫者教育学 作者，为教育研究连接对话、解放与权力批判提供经典语言。"
 type: person
 nationality: brazil
+person_region: "brazil"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - region/brazil
 - critical-pedagogy

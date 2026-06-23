@@ -6,6 +6,11 @@ aliases:
 summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘政治批判分析代表人物，为教育研究理解亚洲崛起与全球高教重组提供框架。"
 type: person
 nationality: australia
+person_region: "australia"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - fazal-rizvi
 - higher-education

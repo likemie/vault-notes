@@ -5,6 +5,11 @@ aliases:
 summary: "古希腊哲学家，西方批判性思维的化身，以苏格拉底式追问法和未经省察的生活不值得过著称，未留下任何著作但通过柏拉图对话录影响西方教育传统"
 type: person
 nationality: greece
+person_region: "greece"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - region/greece
 - region/western

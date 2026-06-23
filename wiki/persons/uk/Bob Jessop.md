@@ -6,6 +6,11 @@ aliases:
 summary: "英国社会学家和政治经济学家，文化政治经济学代表人物，为教育研究分析知识经济想象、国家战略与高教治理提供工具。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - bob-jessop
 - cultural-political-economy

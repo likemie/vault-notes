@@ -6,6 +6,11 @@ aliases:
 summary: "英国政治科学家，公共选择理论取向的教育政策分析者，为教育研究从制度激励与官僚政治层面解释证据本位改革提供视角。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 18
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - nick-cowen
 - evidence-based-education

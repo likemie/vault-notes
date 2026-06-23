@@ -6,6 +6,11 @@ aliases:
   - Thomas S. Kuhn
 summary: "美国科学史家和科学哲学家，以《科学革命的结构》（1962）提出范式概念和范式转换理论，深刻改变了人们对科学发展和研究方法的理解。"
 type: person
+person_region: "usa"
+person_related_count: 3
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - person/philosopher
   - person/historian-of-science

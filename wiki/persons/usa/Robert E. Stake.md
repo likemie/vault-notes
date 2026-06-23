@@ -7,6 +7,11 @@ aliases:
 summary: "美国著名的评估理论家和质性研究专家，以开发响应式评估（Responsive Evaluation）和案例研究（Case Study）方法论著称，强调对教育实践情境性的深度理解。"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - discipline/education
   - field/qualitative-methods

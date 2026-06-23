@@ -8,6 +8,11 @@ aliases:
 summary: "IBM 全球大学项目前总监，六 R 产学关系框架（2010）提出者，服务科学领域研究者，ISSIP 董事会成员与 UIDP 高级研究员"
 type: person
 nationality: "USA"
+person_region: "USA"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags: ["field/service-science", "field/university-industry-collaboration", "discipline/computer-science"]
 related_concepts:
   - "[[Six Rs of University-Industry Relations]]"

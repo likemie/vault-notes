@@ -6,6 +6,11 @@ aliases:
 summary: "中国哲学家，以天下理论著称，提出以中国为中心的天下体系作为威斯特伐利亚民族国家体系的替代方案"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/china
   - discipline/philosophy

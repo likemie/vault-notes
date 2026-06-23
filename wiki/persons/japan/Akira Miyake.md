@@ -6,6 +6,11 @@ aliases:
 summary: "日裔认知心理学家，执行功能统一性与多样性框架提出者，为教育研究测量学习中的执行功能与认知控制提供基础模型。"
 type: person
 nationality: japan
+person_region: "japan"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - miyake
 - executive-function

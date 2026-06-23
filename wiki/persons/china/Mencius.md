@@ -8,6 +8,11 @@ aliases:
 summary: "战国时期儒家思想家，孔子学说的直接继承者，以性善论和四端说为修身提供人性论基础，主张人人皆可为尧舜"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/china
 - field/chinese-philosophy

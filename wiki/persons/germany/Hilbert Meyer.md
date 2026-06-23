@@ -6,6 +6,11 @@ aliases:
 summary: "德国教育学者和 Didaktik 研究者，好教学十项标准提出者，为教学质量研究和课堂观察提供系统参照。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - hilbert-meyer
 - effective-teaching

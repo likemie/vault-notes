@@ -7,6 +7,11 @@ aliases:
 summary: "新西兰教育领导力学者，倡导学生中心与教学领导力，通过元分析确立了教学领导力的实证优势"
 type: person
 nationality: "New Zealand"
+person_region: "New Zealand"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/new-zealand
   - field/educational-leadership-administration

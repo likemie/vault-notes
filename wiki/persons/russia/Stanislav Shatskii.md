@@ -8,6 +8,11 @@ aliases:
 summary: "苏俄进步主义教育改革家，十月革命前后在俄国农村建立大规模进步教育实验学校体系，深受 John Dewey 思想影响，在 Dewey 1928 年访苏时与之会面"
 type: person
 nationality: russia
+person_region: "russia"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - field/progressive-education
   - field/rural-education

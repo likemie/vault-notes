@@ -3,6 +3,11 @@ title: Harold Garfinkel
 aliases: [哈罗德·加芬克尔, Garfinkel]
 summary: "美国社会学家，俗民方法学（Ethnomethodology）的创始人，将日常实践活动本身作为经验研究课题，提出索引性和反思性两个核心概念。"
 type: person
+person_region: "usa"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags: [person/sociologist, person/ethnomethodologist, theme/micro-sociology]
 related_concepts:
   - "[[Indexicality]]"

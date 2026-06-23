@@ -7,6 +7,11 @@ aliases:
 summary: "苏联教育改革家，因其教育思想与实践被西方学界称为苏联的 John Dewey，主张通过教育克服不利生活环境，其思想在矫正教育领域受到持续关注"
 type: person
 nationality: russia
+person_region: "russia"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - field/progressive-education
   - field/correctional-education

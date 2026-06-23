@@ -6,6 +6,11 @@ aliases:
 summary: "澳大利亚教育心理学家，建构性对齐和SOLO分类法提出者，为教育研究连接课程设计、学习结果与评价提供高频工具。"
 type: person
 nationality: australia
+person_region: "australia"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - biggs
 - paradigm/constructivist

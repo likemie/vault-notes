@@ -6,6 +6,11 @@ aliases:
 summary: "英国社会研究方法论学者，实在论评估与实在论综合代表人物，为教育研究提供什么对谁在何种情境下有效的替代框架。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - ray-pawson
   - evidence-based-policy

@@ -7,6 +7,11 @@ aliases:
 summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤，白面具作者，为教育研究分析殖民主体性、种族化经验与知识解放提供基础。"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - region/france
 - region/africa

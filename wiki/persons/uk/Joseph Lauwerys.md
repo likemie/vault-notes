@@ -6,6 +6,11 @@ aliases:
 summary: "英国第一位比较教育教授（1947），欧洲比较教育学会首任主席（1961–1967），UNESCO 最早顾问之一，终身致力于国际理解、民主理想和科学人道主义，深刻体现了理性主义传统对比较教育的塑造"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - subject/comparative-education
   - theme/international-cooperation

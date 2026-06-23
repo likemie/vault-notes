@@ -6,6 +6,11 @@ aliases:
 summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。"
 type: person
 nationality: argentina
+person_region: "argentina"
+person_related_count: 19
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - region/us
   - region/argentina

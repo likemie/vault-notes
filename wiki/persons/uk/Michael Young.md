@@ -8,6 +8,11 @@ aliases:
 summary: "英国教育社会学家，社会实在论的核心学者之一，与 Muller 共同提出有力知识概念，主张学科知识对学生认知和社会发展具有独特价值"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - region/uk
   - theme/sociology-of-education

@@ -7,6 +7,11 @@ aliases:
 summary: "瑞士心理学家，认知发展阶段理论与发生认识论创立者，为教育研究理解儿童发展、建构主义与课程设计提供根基。"
 type: person
 nationality: switzerland
+person_region: "switzerland"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - piaget
 - paradigm/constructivist

@@ -6,6 +6,11 @@ aliases:
 summary: "巴西演员和剧场导演，社区剧场项目组织者，为教育研究理解基层文化实践、参与式表演与公共学习提供案例资源。"
 type: person
 nationality: brazil
+person_region: "brazil"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/brazil
 - field/theater

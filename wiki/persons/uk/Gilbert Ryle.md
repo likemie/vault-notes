@@ -6,6 +6,11 @@ aliases:
 summary: "英国哲学家，1946 年提出知其然与知其所用的经典区分，对认识论和教育哲学产生深远影响"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - region/uk
   - epistemology

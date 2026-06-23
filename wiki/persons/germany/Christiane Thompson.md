@@ -6,6 +6,11 @@ aliases:
 summary: "德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - christiane-thompson
 - subjectification

@@ -7,6 +7,11 @@ aliases:
 summary: "法国后结构主义哲学家，后现代状况作者与知识合法化理论代表人物，为教育研究反思知识、权威与绩效逻辑提供框架。"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/france
 - postmodernism

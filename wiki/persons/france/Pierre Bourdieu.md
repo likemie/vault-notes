@@ -7,6 +7,11 @@ aliases:
 summary: "法国社会学家，场域-习性-资本理论创立者与区分作者，为教育研究分析再生产、不平等与学校权力提供核心语言。"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - pierre-bourdieu
   - sociology

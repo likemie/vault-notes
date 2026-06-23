@@ -6,6 +6,11 @@ aliases:
 summary: "美国社会学家和计量方法论学者，因果建模和社会科学统计方法的先驱，推动将口头理论转化为形式化因果模型以澄清变量间关系"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - discipline/sociology
   - field/methodology

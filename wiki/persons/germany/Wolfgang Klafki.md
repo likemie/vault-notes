@@ -6,6 +6,11 @@ aliases:
 summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论与时代关键问题课程论提出者，为课程研究连接 Bildung、公共性与未来议题提供框架。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 0
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - wolfgang-klafki
 - didaktik

@@ -6,6 +6,11 @@ aliases:
 summary: "德裔美籍哲学家和认知心理学家，激进建构主义创始人，为教育研究理解知识建构、学习主体与反表征认识论提供重要参照。"
 type: person
 nationality: germany
+person_region: "germany"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - von-glasersfeld
 - paradigm/constructivist

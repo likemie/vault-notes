@@ -6,6 +6,11 @@ aliases:
   - Sir Karl Popper
 summary: "奥地利裔英国科学哲学家，以证伪主义（falsification）作为科学与非科学的划界标准，主张知识是推测性的、可证伪的和变化中的，深刻影响了后实证主义研究范式。"
 type: person
+person_region: "austria"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - person/philosopher
   - person/philosopher-of-science

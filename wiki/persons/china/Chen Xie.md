@@ -6,6 +6,11 @@ aliases:
 summary: "中国比较教育研究者，教育技术实验比较与证据本位改革研究者，为中文教育研究连接国际实证改革议程提供支持。"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - chen-xie
 - xie-chen

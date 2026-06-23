@@ -6,6 +6,11 @@ aliases:
 summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评价概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。"
 type: person
 nationality: denmark
+person_region: "denmark"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - rmer
 - educational-philosophy

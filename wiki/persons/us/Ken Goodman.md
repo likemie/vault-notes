@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育学者和全语言运动奠基人，提出阅读作为心理语言猜测游戏的观点，为识字教育提供与技能本位观对立的重要传统"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - ken-goodman
 - whole-language

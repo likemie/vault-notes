@@ -6,6 +6,11 @@ aliases:
 summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会契约论》深刻影响现代教育学和民主政治思想，主张自然教育、儿童本位与文明批判"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - region/france
 - region/switzerland

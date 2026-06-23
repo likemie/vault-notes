@@ -6,6 +6,11 @@ aliases:
 summary: "英国比较教育先驱，19 世纪末 20 世纪初主持教育部特别调查与报告办公室，出于对国家工业竞争力焦虑而系统研究德国等竞争对手的教育，巩固了比较教育中向他者学习的核心惯用语"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - subject/comparative-education
   - theme/educational-transfer

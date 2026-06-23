@@ -6,6 +6,11 @@ aliases:
 summary: "华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 tags:
 - region/china
 - region/us

@@ -6,6 +6,11 @@ aliases:
 summary: "加拿大高等教育学者，国际教育枢纽与跨境高教研究代表人物，为教育研究分析大学国际化模式、跨境流动与政策扩散提供框架。"
 type: person
 nationality: canada
+person_region: "canada"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/canada
 - level/higher-ed

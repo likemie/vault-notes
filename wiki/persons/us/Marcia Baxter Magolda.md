@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - marcia-baxter-magolda
   - psychology

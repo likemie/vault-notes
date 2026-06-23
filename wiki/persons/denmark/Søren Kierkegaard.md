@@ -3,6 +3,11 @@ title: Søren Kierkegaard
 aliases: [索伦·克尔凯郭尔, Kierkegaard, S. Kierkegaard]
 summary: "丹麦哲学家，存在主义起源者之一，以对客观性的深刻批判和对主观性能力的捍卫，为反实证主义思潮提供了存在主义哲学根基。"
 type: person
+person_region: "denmark"
+person_related_count: 1
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags: [person/philosopher, person/existentialist, theme/existentialism]
 related_concepts: []
 related_theories: []

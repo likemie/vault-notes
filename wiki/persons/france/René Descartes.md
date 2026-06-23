@@ -6,6 +6,11 @@ aliases:
 summary: "法国哲学家、数学家与科学家，近代哲学之父，以我思故我在和心物二元论奠定现代认识论基础，将苏格拉底—柏拉图先天论推向新的高峰"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/france
 - region/western

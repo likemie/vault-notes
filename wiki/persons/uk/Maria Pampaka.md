@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育研究者，学习结果测量与什么有效批判研究者，为教育研究把能动性与非成就性结果重新纳入方法论讨论。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - maria-pampaka
 - region/uk

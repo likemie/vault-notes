@@ -6,6 +6,11 @@ aliases:
 summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者，为教育研究提供丹麦语境下有效教学与学校改进的本土证据。"
 type: person
 nationality: denmark
+person_region: "denmark"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - jill-mehlbye
 - effective-teaching

@@ -10,6 +10,11 @@ aliases:
 summary: "美国保守派教育学者、元分析专家与福音派传教士，其关于全语言、特许学校和家庭结构的研究在《可见的学习》（Visible Learning，VL）中被大量引用，并引发了方法论与意识形态层面的广泛争议。"
 type: person
 nationality: "USA"
+person_region: "USA"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - person
   - meta-analyst

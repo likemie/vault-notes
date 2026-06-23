@@ -7,6 +7,11 @@ aliases:
 summary: "美国教育研究方法论学者，与 Guba 合著 Naturalistic Inquiry 开创自然主义探究范式，提出质性研究可信性四标准和模式理论概念"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - discipline/education
   - field/qualitative-methods

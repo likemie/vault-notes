@@ -6,6 +6,11 @@ aliases:
 summary: "中国人类学家和社会学家，以中华民族多元一体格局和差序格局理论著称，其 1988 年重新阐释的中华民族概念深刻影响了中共的民族政策转向"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - region/china
   - discipline/anthropology

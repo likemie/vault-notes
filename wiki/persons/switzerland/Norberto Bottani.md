@@ -6,6 +6,11 @@ aliases:
 summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。"
 type: person
 nationality: switzerland
+person_region: "switzerland"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - norberto-bottani
 - oecd

@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育研究者和定量方法学者，什么有效议程批判讨论参与者，为教育研究反思定量证据的适用范围提供声音。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - matt-homer
 - region/uk

@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育研究者，提出理论驱动的元综合框架，将教学策略按知识、认知、元认知和自我系统四层分类，追求课堂实践指导的可操作性"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - robert-marzano
 - meta-analysis

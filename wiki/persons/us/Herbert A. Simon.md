@@ -7,6 +7,11 @@ aliases:
 summary: "美国政治学家、经济学家和认知科学家，有限理性理论创立者，为教育研究理解专业判断、决策局限与复杂系统中的选择提供基础。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - simon
 - bounded-rationality

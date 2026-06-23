@@ -8,6 +8,11 @@ aliases:
 summary: "南宋理学家，可能是孔子孟子之后最著名的儒家思想家，编纂四书并将其确立为1949年前中国学生的必读经典"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/china
 - field/chinese-philosophy

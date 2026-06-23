@@ -6,6 +6,11 @@ aliases:
 summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。"
 type: person
 nationality: netherlands
+person_region: "netherlands"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - gert-biesta
 - educational-philosophy

@@ -4,6 +4,11 @@ aliases: [乔治·赫伯特·米德, Mead, G. H. Mead, 米德]
 summary: "美国哲学家、社会心理学家与社会学家，实用主义哲学和符号互动论的奠基者，其关于社会自我建构、扮演他人角色、主我与客我辩证以及手势与符号互动的思想深刻影响了教育社会学和质性研究传统。"
 type: person
 nationality: usa
+person_region: "usa"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - george-herbert-mead
   - symbolic-interactionism

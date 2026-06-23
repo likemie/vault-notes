@@ -6,6 +6,11 @@ aliases:
 summary: "美国教育政策官员和研究管理者，IES 证据标准体系关键设计者，为教育研究制度化 RCT 优先级和联邦证据治理提供案例。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - grover-whitehurst
 - evidence-based-education

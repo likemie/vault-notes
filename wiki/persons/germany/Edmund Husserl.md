@@ -7,6 +7,11 @@ aliases:
 summary: "德国哲学家与数学家，现象学的创始人，提出悬置（epoché）方法与回到事物本身的口号，开创先验现象学传统。"
 type: person
 nationality: "德国"
+person_region: "德国"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - person/philosopher
   - person/phenomenologist

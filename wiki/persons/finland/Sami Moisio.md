@@ -6,6 +6,11 @@ aliases:
 summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治概念提出者，为教育研究分析高教、城市与国家竞争的空间政治提供框架。"
 type: person
 nationality: finland
+person_region: "finland"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - region/finland
 - level/higher-ed

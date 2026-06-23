@@ -6,6 +6,11 @@ aliases:
 summary: "英国教育社会学家，教育政策语境理论与私有化分析代表人物，为教育研究分析政策网络、市场化与治理变迁提供核心框架。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - stephen-ball
   - education-policy

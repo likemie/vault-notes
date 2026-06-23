@@ -6,6 +6,11 @@ aliases:
 summary: "英国比较教育学者，提出跨国吸引力情境概念地图，将情境拆解为结构层与人的层面的双层互动，以停滞的修辞重新框定抵制的力量"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - jeremy-rappleye
 - policy-borrowing

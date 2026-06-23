@@ -6,6 +6,11 @@ aliases:
 summary: "中国台湾文化研究学者，Asia as Method作者与去帝国化倡议者，为教育研究反思知识生产的亚洲视角和后殖民方法提供资源。"
 type: person
 nationality: taiwan
+person_region: "taiwan"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
 - region/taiwan
 - region/asia

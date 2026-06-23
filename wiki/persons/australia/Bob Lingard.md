@@ -6,6 +6,11 @@ aliases:
 summary: "澳大利亚教育政策学者，与 Rizvi 合著《全球化教育政策》，关注全球化背景下教育政策的网络治理和跨国力量"
 type: person
 nationality: australia
+person_region: "australia"
+person_related_count: 2
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 tags:
   - region/australia
   - theme/education-policy

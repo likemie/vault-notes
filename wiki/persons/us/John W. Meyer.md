@@ -7,6 +7,11 @@ aliases:
 summary: "美国社会学家，世界社会理论创始人与组织行动者理论代表人物，为教育研究解释全球教育扩张、制度同形与大学全球角色提供框架。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/us
 - discipline/sociology

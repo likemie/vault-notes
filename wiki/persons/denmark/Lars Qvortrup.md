@@ -6,6 +6,11 @@ aliases:
 summary: "丹麦教育学者和系统理论研究者，专业判断与复杂性教育论述代表人物，为教育研究理解教师判断与教育系统复杂性提供框架。"
 type: person
 nationality: denmark
+person_region: "denmark"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - qvortrup
 - visible-learning

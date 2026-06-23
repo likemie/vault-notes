@@ -6,6 +6,11 @@ aliases:
 summary: "加拿大教育理论家，知识建构理论代表人物，为教育研究理解学习共同体、知识创造与认知发展提供关键框架。"
 type: person
 nationality: canada
+person_region: "canada"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - bereiter
 - knowledge-building

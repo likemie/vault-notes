@@ -2,6 +2,8 @@
 title: 人物索引
 ---
 
+从这里进入人物网络：先看连接最密的理论家、研究者与政策行动者，再按地区分流。星级与连接数由 `scripts/vault_index.py` 自动刷新。
+
 ```base
 filters:
   and:
@@ -10,43 +12,83 @@ filters:
 
 properties:
   file.name:
-    displayName: Person
-  file.folder:
-    displayName: Region
+    displayName: 人物
+  summary:
+    displayName: 摘要
+  person_region:
+    displayName: 地区
+  person_related_stars:
+    displayName: 亮度
+  person_related_count:
+    displayName: 连接
+  person_related_color:
+    displayName: 色带
   tags:
-    displayName: Tags
+    displayName: 标签
   updated:
-    displayName: Updated
+    displayName: 更新
 
 views:
-  - type: table
-    name: Persons
+  - type: cards
+    name: 人物图谱
+    image: person_related_color
     order:
       - file.name
-      - file.folder
-      - tags
-      - updated
+      - summary
+      - person_region
+      - person_related_stars
+      - person_related_count
     sort:
+      - property: person_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: cards
-    name: Cards
+    name: 人物枢纽
+    image: person_related_color
+    filters:
+      and:
+        - 'person_related_count >= 20'
     order:
       - file.name
-      - file.folder
+      - summary
+      - person_region
+      - person_related_stars
+      - person_related_count
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 完整清单
+    order:
+      - file.name
+      - summary
+      - person_region
+      - person_related_stars
+      - person_related_count
+      - tags
       - updated
     sort:
+      - property: person_related_count
+        direction: DESC
       - property: updated
         direction: DESC
 
   - type: table
-    name: By Region
+    name: 按地区分组
     groupBy:
-      property: file.folder
+      property: person_region
       direction: ASC
     order:
       - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
       - tags
       - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
 ```

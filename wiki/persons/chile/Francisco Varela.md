@@ -6,6 +6,11 @@ aliases:
 summary: "智利生物学家和神经科学家，自创生理论共同创立者与具身认知代表人物，为教育研究理解认知、主体性与关系性学习提供资源。"
 type: person
 nationality: chile
+person_region: "chile"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - francisco-varela
 - autopoiesis

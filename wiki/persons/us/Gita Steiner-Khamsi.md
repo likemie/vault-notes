@@ -6,6 +6,11 @@ aliases:
 summary: "美国比较教育学者，政策借用与借出政治分析代表人物，为教育研究把注意力从政策内容转向能动者、利益与流通过程提供框架。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
 - gita-steiner-khamsi
 - comparative-education

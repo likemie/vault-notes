@@ -7,6 +7,11 @@ aliases:
 summary: "民国教育家，哥伦比亚大学师范学院毕业，《新教育》主编，新教育运动激进派代表人物，主张以教育彻底改造社会并创造新国家"
 type: person
 nationality: china
+person_region: "china"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/china
   - theme/progressive-education

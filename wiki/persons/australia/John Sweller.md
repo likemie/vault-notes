@@ -5,6 +5,11 @@ aliases:
 summary: "澳大利亚教育心理学家，新南威尔士大学名誉教授，认知负荷理论（CLT）的开创者。其研究主张限制工作记忆负荷以优化学习，其学术成果被英国EEF和澳大利亚保守智库CIS广泛推广，并在澳大利亚《强劲开端》报告中被列为初始教师教育核心必修文献。"
 type: person
 nationality: australia
+person_region: "australia"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/australia
   - theory/cognitive-load-theory
