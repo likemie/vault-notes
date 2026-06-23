@@ -27,9 +27,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cover Story]]"
   - "[[Purpose Statement]]"
-  - "[[Ethics Debriefing]]"
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
+  - "[[Threats to Internal Validity]]"
   - "[[External Validity]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Blinding]]"
@@ -96,7 +96,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 
 > [!info]
 > - **材料**：详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论[[Pilot Testing|试点测试]]和标准化施测所需的培训。
-> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（[[Ethics Debriefing|debriefing]]）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验程序
 
@@ -126,7 +126,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 效度威胁
 
 > [!warning]
-> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity in Quantitative Measurement|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 实验研究者需要识别并最小化以下[[Threats to Internal Validity|内部效度威胁]]：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity in Quantitative Measurement|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验操作步骤
 

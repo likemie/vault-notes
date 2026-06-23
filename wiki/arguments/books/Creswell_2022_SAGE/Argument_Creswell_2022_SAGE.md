@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 164
+argument_related_count: 165
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -25,14 +25,20 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Transformative Paradigm]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Research Question]]"
   - "[[Literature Review]]"
+  - "[[Research Topic]]"
+  - "[[Literature Search]]"
   - "[[Abstract]]"
   - "[[Definition of Terms]]"
   - "[[Inverted Triangle Literature Search]]"
-  - "[[Theoretical Perspective]]"
+  - "[[Variable]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Theoretical End Point]]"
+  - "[[Research Utilization]]"
   - "[[Discipline-Based Theory]]"
   - "[[Social Justice Theory]]"
+  - "[[Theoretical Perspective]]"
   - "[[Causality]]"
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
@@ -41,51 +47,48 @@ related_concepts:
   - "[[Coherence in Writing]]"
   - "[[Hook and Eye Technique]]"
   - "[[Research Introduction]]"
-  - "[[Research Problem]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Narrative Hook]]"
+  - "[[Research Problem]]"
   - "[[Deficiencies in Past Literature]]"
   - "[[Purpose Statement]]"
+  - "[[Research Writing Script]]"
   - "[[Central Phenomenon]]"
   - "[[Nondirectional Language]]"
-  - "[[Research Writing Script]]"
-  - "[[Research Question]]"
-  - "[[Hypothesis]]"
-  - "[[Central Question]]"
-  - "[[Mixed Methods Question]]"
   - "[[Null Hypothesis]]"
+  - "[[Alternative Hypothesis]]"
+  - "[[Central Question]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Hypothesis]]"
+  - "[[Mixed Methods Question]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Analytic Framework]]"
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
-  - "[[Integration in Mixed Methods]]"
+  - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Metainferences]]"
   - "[[Integration Statement]]"
   - "[[Emergence]]"
-  - "[[Variable]]"
   - "[[Positivism]]"
   - "[[Fitness for Purpose]]"
-  - "[[Research Topic]]"
-  - "[[Literature Search]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
   - "[[Queer Theory]]"
-  - "[[Theoretical End Point]]"
   - "[[Naturalistic Generalization]]"
   - "[[Self-control]]"
   - "[[Research Purpose]]"
-  - "[[Research Utilization]]"
   - "[[Narrative Thought Types]]"
   - "[[Self-Efficacy]]"
   - "[[Descriptive Research Question]]"
-  - "[[Alternative Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
   - "[[Ecological Validity]]"
   - "[[Big Ideas]]"
+  - "[[Sample Size Determination]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
@@ -96,17 +99,16 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Sample Size Determination]]"
   - "[[Manipulation Check]]"
   - "[[Blinding]]"
   - "[[Cover Story]]"
   - "[[Campbell and Stanley Notation System]]"
   - "[[Experimenter Bias]]"
+  - "[[Threats to Internal Validity]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Emergent Design]]"
   - "[[Memos]]"
   - "[[Backyard Research]]"
-  - "[[Analytic Framework]]"
   - "[[Saturation]]"
   - "[[Gatekeepers]]"
   - "[[Probes]]"
@@ -120,7 +122,6 @@ related_concepts:
   - "[[Intercoder Agreement]]"
   - "[[Qualitative Generalization]]"
   - "[[Multimethod Research]]"
-  - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Data Transformation]]"
   - "[[Outcomes-based Education]]"
 related_theories:
@@ -129,6 +130,7 @@ related_theories:
   - "[[Attribution Theory]]"
   - "[[Social Learning Theory]]"
 related_methods:
+  - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Literature Map]]"
@@ -142,20 +144,19 @@ related_methods:
   - "[[Descriptive Methods]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Purposeful Sampling]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Convergent Design]]"
   - "[[Joint Display]]"
+  - "[[Convergent Design]]"
   - "[[Mixed Methods Evaluation Design]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
+  - "[[Feminist Research]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Case Study]]"
   - "[[Qualitative Documents]]"
   - "[[Causal Modeling]]"
   - "[[Qualitative Interview]]"
-  - "[[Feminist Research]]"
   - "[[Interview Protocol]]"
   - "[[Random Sampling]]"
   - "[[Pilot Testing]]"
@@ -206,17 +207,17 @@ citation_aliases:
 
 | 章节            | 内容概要                                                                                                                                                                                                                                                                                                             | 主要关联条目                                                                                                                                                     |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 前言            | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。                                                                                                                                                                                                                                       | [[Crotty's Four Levels of Research Design]], [[Knowledge Production]]                                                                                      |
-| 第1章 研究路径的选择   | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。                                                                                                                                                                                          | [[Qualitative Research]], [[Quantitative Research]], [[Postpositivism]], [[Constructivist Paradigm]], [[Transformative Paradigm]], [[Pragmatic Paradigm]]  |
-| 第2章 文献综述      | 介绍研究主题的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、文献检索的系统步骤与主要数据库、文献地图的绘制方法、文献摘要的撰写要点、APA 格式手册的使用，以及术语定义的原则与路径差异。                                                                                                                                                                             | [[Literature Review]], [[Literature Map]], [[Abstract]], [[Definition of Terms]], [[Inverted Triangle Literature Search]]                                  |
-| 第3章 理论的使用     | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过变量间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、理论立场（透镜）和理论终点（归纳生成）；混合方法研究使用学科理论或社会正义理论来指导设计的各个层面。                                                                                                                                                                           | [[Theoretical Perspective]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]]                             |
+| 前言            | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与[[Mixed Methods Research\|混合方法]]三种研究路径的系统比较。                                                                                                                                                                                                                                       | [[Crotty's Four Levels of Research Design]], [[Knowledge Production]]                                                                                      |
+| 第1章 研究路径的选择   | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍[[Postpositivism\|后实证主义]]、[[Constructivist Paradigm\|建构主义]]、[[Transformative Paradigm\|变革主义]]和[[Pragmatic Paradigm\|实用主义]]四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（[[Research Question\|研究问题]]、个人经验、受众）。                                                                                                                                                                                          | [[Qualitative Research]], [[Quantitative Research]], [[Postpositivism]], [[Constructivist Paradigm]], [[Transformative Paradigm]], [[Pragmatic Paradigm]]  |
+| 第2章 [[Literature Review\|文献综述]]      | 介绍[[Research Topic\|研究主题]]的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、[[Literature Search\|文献检索]]的系统步骤与主要数据库、[[Literature Map\|文献地图]]的绘制方法、[[Abstract\|文献摘要]]的撰写要点、APA 格式手册的使用，以及[[Definition of Terms\|术语定义]]的原则与路径差异。                                                                                                                                                                             | [[Literature Review]], [[Literature Map]], [[Abstract]], [[Definition of Terms]], [[Inverted Triangle Literature Search]]                                  |
+| 第3章 理论的使用     | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过[[Variable\|变量]]间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、[[Theoretical Standpoint\|理论立场]]（透镜）和[[Theoretical End Point\|理论终点]]（归纳生成）；混合方法[[Research Utilization\|研究使用]][[Discipline-Based Theory\|学科理论]]或[[Social Justice Theory\|社会正义理论]]来指导设计的各个层面。                                                                                                                                                                           | [[Theoretical Perspective]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]]                             |
 | 第4章 写作策略与伦理考量 | 提供量化、质性和混合方法研究计划的结构模型，讨论学术写作的过程策略、连贯性技巧和语言精炼方法，按研究前—启动—数据收集—分析—报告五个阶段系统梳理伦理问题与应对策略。                                                                                                                                                                                                                              | [[Research Ethics]], [[Institutional Review Board]], [[Informed Consent]], [[Writing Habit]], [[Coherence in Writing]], [[Hook and Eye Technique]]         |
-| 第5章 引言        | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法研究引言写法的差异，最后重点介绍引言缺陷模型的四个部分——陈述研究问题（含叙事钩子）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。                                                                                                                                                                                  | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]]       |
-| 第6章 目的陈述      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
-| 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、零假设与方向性备择假设）、质性核心研究问题和子问题、混合方法的三类研究问题（量化、质性、混合方法整合问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
+| 第5章 引言        | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法[[Research Introduction\|研究引言]]写法的差异，最后重点介绍[[Deficiencies Model for an Introduction\|引言缺陷模型]]的四个部分——陈述研究问题（含[[Narrative Hook\|叙事钩子]]）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。                                                                                                                                                                                  | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]]       |
+| 第6章 [[Purpose Statement\|目的陈述]]      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式[[Research Writing Script\|写作脚本]]，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
+| 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、[[Null Hypothesis\|零假设]]与[[Alternative Hypothesis\|方向性备择假设]]）、质性[[Central Question\|核心研究问题]]和子问题、混合方法的三类研究问题（量化、质性、[[Integration in Mixed Methods\|混合方法整合]]问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
-| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、描述性方法与分析框架的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
-| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与封闭式数据，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、联合展示模板、元推论与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和整合陈述写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
+| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、[[Descriptive Methods\|描述性方法]]与[[Analytic Framework\|分析框架]]的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch [[Coding in Qualitative Research\|编码]]八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
+| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与[[Open-Ended and Closed-Ended Data\|封闭式数据]]，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、[[Joint Display\|联合展示]]模板、[[Metainferences\|元推论]]与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和[[Integration Statement\|整合陈述]]写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
 
 ---
 
@@ -349,7 +350,7 @@ citation_aliases:
 > | **方法论倾向** | 量化为主：从理论出发→收集数据→支持或反驳→修正再检验 | 质性为主：归纳式，从数据中生成意义模式，不预设理论 | 质性或混合：研究者与参与者协作，参与者可参与问题设计、数据收集和分析 | 混合方法：以研究问题为中心，自由选择最[[Fitness for Purpose\|适合目的]]的方法 |
 > | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips & Burbules (2000) | Berger & Luckmann (1967)；Lincoln & Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire\|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |
 > | **研究者姿态** | 客观性：必须审查方法和结论中的偏差；信效度标准重要 | 自我定位：承认自身背景塑造解释；在研究中定位自身 | 合作性：不进一步边缘化参与者；提供发声和变革议程 | 自由选择：不受制于任一哲学体系；多元方法收集数据 |
-> | **典型应用** | [[Experimental Research\|实验研究]]、[[Survey Research\|调查研究]] | 民族志、现象学、扎根理论、叙事研究 | 参与式行动研究、批判民族志、女性主义研究 | 混合方法研究 |
+> | **典型应用** | [[Experimental Research\|实验研究]]、[[Survey Research\|调查研究]] | 民族志、现象学、扎根理论、叙事研究 | 参与式行动研究、批判民族志、[[Feminist Research\|女性主义研究]] | 混合方法研究 |
 
 > [!abstract] 世界观与方法论的对应
 > 四种世界观各自倾向于某种研究路径：后实证主义 → 量化，建构主义 → 质性，变革主义 → 质性或混合方法，实用主义 → 混合方法。这一对应反映了各路径的典型哲学倾向，并非强制锁定。
@@ -1151,11 +1152,11 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > | 组件 | 关键决策 | [[Big Ideas\|核心概念]] | 详见 |
 > |---|---|---|---|
 > | 调查设计 | 目的声明 → 选择理由 → 横截面/纵向 → 数据收集形式 | 设计类型选择、不可行性辩护 | [[Survey Research]] |
-> | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → 样本量确定 | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
-> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → 试点测试 → 施测流程 | [[Construct Validity in Quantitative Measurement\|构念效度]]与效标效度、[[Internal Consistency and Cronbach's Alpha\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
+> | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → [[Sample Size Determination\|样本量确定]] | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
+> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → [[Pilot Testing\|试点测试]] → 施测流程 | [[Construct Validity in Quantitative Measurement\|构念效度]]与效标效度、[[Internal Consistency and Cronbach's Alpha\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
 > | 变量 | 变量名称 → 操作性定义 → 测量工具 → 变量对照表 | Table 8.2 变量—定义—工具三列对照 | [[Variable]] |
 > | 数据分析 | 回应率 → [[Response Bias\|回应偏差]] → [[Descriptive Analysis\|描述性分析]] → 信度检查 → 推断统计 → 结果呈现 | Table 8.3 六因素统计选择矩阵 | [[Survey Research]]、[[Descriptive Analysis]] |
-> | 预注册与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration\|预注册]]、[[Statistical Significance\|显著性]]（p 值）、[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]] | [[Preregistration]]、[[Statistical Significance]] |
+> | [[Preregistration\|预注册]]与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration\|预注册]]、[[Statistical Significance\|显著性]]（p 值）、[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]] | [[Preregistration]]、[[Statistical Significance]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
 
@@ -1252,11 +1253,11 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > |---|---|---|---|
 > | 参与者与设计 | 招募 → 纳入排除标准 → 随机分配 → 功效分析 → 设计声明 | [[Random Assignment\|随机分配]]（真实验 vs 准实验的分界线） | [[Experimental Research]]、[[Random Assignment]] |
 > | 变量 | 自变量操纵 → 操纵检查 → 因变量测量 → 其他变量控制 | [[Manipulation Check\|操纵检查]]（验证操纵是否成功） | [[Experimental Research]]、[[Manipulation Check]] |
-> | 工具与材料 | 操纵材料 + 测量工具 + 封面故事 | [[Cover Story\|封面故事]]（表面可信的解释）+ 解除欺骗 | [[Cover Story]] |
+> | 工具与材料 | 操纵材料 + 测量工具 + [[Cover Story\|封面故事]] | [[Cover Story\|封面故事]]（表面可信的解释）+ 解除欺骗 | [[Cover Story]] |
 > | 实验程序 | 设计类型 → 符号图示 → 分配模式 | [[Campbell and Stanley Notation System\|Campbell & Stanley 符号系统]]（X/O/R）；[[Pre-Experimental Designs\|前实验]]/[[Quasi-Experimental Designs\|准实验]]/真实验/[[Single-Subject Design\|单受试者]] | [[Between-Subjects and Within-Subjects Designs]]、[[Factorial Design]]、[[Solomon Four-Group Design]] |
 > | 效度威胁 | 识别 → 分类 → 应对策略 | 10 种[[Internal Validity\|内部效度威胁]] + 3 种[[External Validity\|外部效度威胁]] | [[Internal Validity]]、[[External Validity]] |
 > | 操作步骤 | 时序流程 → 偏差最小化 | [[Blinding\|盲法]]降低[[Experimenter Bias\|实验者偏差]] | [[Blinding]]、[[Experimenter Bias]] |
-> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/ANCOVA/MANOVA）；因子设计检交互 | [[Analysis of Variance\|ANOVA]]、[[Preregistration]] |
+> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/[[Analysis of Covariance\|ANCOVA]]/MANOVA）；因子设计检交互 | [[Analysis of Variance\|ANOVA]]、[[Preregistration]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
 
@@ -1293,7 +1294,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > Source: Creswell & Creswell, 2022, Ch8, Examples 8.1–8.4
 
-**效度威胁**是 Creswell 对实验研究方法论最重要的贡献之一。他将威胁分四大类，其中内部效度威胁的 10 种细分和对应策略构成了实验设计质量控制的完整框架。
+**效度威胁**是 Creswell 对实验研究方法论最重要的贡献之一。他将威胁分四大类，其中[[Threats to Internal Validity|内部效度威胁]]的 10 种细分和对应策略构成了实验设计质量控制的完整框架。
 
 > [!abstract] 效度威胁分类与应对逻辑
 >
@@ -1521,7 +1522,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 | 呈现负面或矛盾信息 | 真实生活包含不相容视角，讨论与主题相矛盾的证据增加报告可信度和真实感 |
 | 延长现场时间 | 在现场停留越久→对现象的理解越深入→发现越准确→叙述的可信度越高 |
 | [[Peer Debriefing\|同行审议]] | 同行审议者审查并提出问题，确保报告与研究者以外的人共鸣——涉及研究者解释以外的另一个人的解读 |
-| 外部审计 | 不熟悉研究者或项目的[[External Auditor\|外部审计者]]审查整个项目全过程——从转录准确性到数据从原始到解释的分析层次 |
+| [[External Auditor\|外部审计]] | 不熟悉研究者或项目的[[External Auditor\|外部审计者]]审查整个项目全过程——从转录准确性到数据从原始到解释的分析层次 |
 
 质性信度关注方法一致性(Gibbs, 2007)，[[Intercoder Agreement|编码者间一致性]]要求≥80%(Miles & Huberman, 1994)，各策略的完整讨论见 [[Qualitative Validity]] 和 [[Qualitative Reliability]] 条目。
 

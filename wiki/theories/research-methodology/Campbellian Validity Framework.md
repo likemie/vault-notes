@@ -5,10 +5,10 @@ aliases:
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
 - campbellian-validity
 - internal-validity
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Threats to Internal Validity]]"
   - "[[External Validity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct Validity in Quantitative Measurement]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461, citing Shadish et al., 2002]])
 >
-> **判断程序**：首先明确手中的因果问题，然后选择能够控制常见内部效度威胁的设计。这些威胁本质上是干预后因变量变化的各种替代解释([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> **判断程序**：首先明确手中的因果问题，然后选择能够控制常见[[Threats to Internal Validity|内部效度威胁]]的设计。这些威胁本质上是干预后因变量变化的各种替代解释([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
 > > 例：在评估一种新的阅读干预时，如果学生的阅读成绩在干预后提高了，这可能是干预的效果，也可能是因为学生自然成熟（maturation）或在干预期间学校同时推行了其他阅读计划（history）。一个好的实验设计需要排除这些替代解释。
 >

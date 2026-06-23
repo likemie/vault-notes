@@ -7,7 +7,7 @@ aliases:
 summary: "实验研究中因程序、处理或受试者经历而威胁研究者从数据对总体做出正确推论能力的因素，包括历史、成熟、回归、选择、流失、扩散、补偿性竞争等"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Threats to Internal Validity]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
@@ -47,7 +48,7 @@ updated: 2026-05-31
 ## 效度威胁
 
 > [!abstract]
-> 当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，还是由其他未控制的因素所致。Campbell & Stanley (1963) 最早系统识别了这些威胁，Creswell & Guetterman (2018) 将其扩展为三组共 10 种（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Table 8.5）：
+> 当存在[[Threats to Internal Validity|内部效度威胁]]时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，还是由其他未控制的因素所致。Campbell & Stanley (1963) 最早系统识别了这些威胁，Creswell & Guetterman (2018) 将其扩展为三组共 10 种（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8, Table 8.5）：
 
 ### 与受试者相关的威胁
 
@@ -100,5 +101,5 @@ updated: 2026-05-31
 ## 争议与批评
 
 > [!warning]
-> 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。[[Experimental Research|实验研究]]者需要在设计阶段明确识别潜在的内部效度威胁，并采取相应的应对措施（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。[[Experimental Research|实验研究]]者需要在设计阶段明确识别潜在的[[Threats to Internal Validity|内部效度威胁]]，并采取相应的应对措施（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

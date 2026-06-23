@@ -11,7 +11,7 @@ title: "Argument_Hitchcock_2015_JBE"
 argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+  - "[[Threats to Internal Validity]]"
   - "[[Theories of Policy Change]]"
   - "[[Epistemology]]"
   - "[[Conflict of Interest in Research]]"
@@ -120,7 +121,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **[[Internal Validity|内部效度]]判断的一致性不令人惊讶**：Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除内部效度威胁的逻辑适用于多种设计类型(p.462)
+> 1. **[[Internal Validity|内部效度]]判断的一致性不令人惊讶**：Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除[[Threats to Internal Validity|内部效度威胁]]的逻辑适用于多种设计类型(p.462)
 >
 > 2. **[[External Validity|外部效度]]判断更复杂且有内在原因**：评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"(p.462)；另一原因是审查者不知道消费者希望推广到何处(p.463)
 >

@@ -4556,7 +4556,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Convergent and Discriminant Validity.md",
     "aliases": [
-      "收敛效度与区分效度",
       "收敛效度",
       "区分效度",
       "convergent validity",
@@ -4864,7 +4863,6 @@
     "path": "wiki/concepts/research-methodology/Ethics Debriefing.md",
     "aliases": [
       "伦理事后说明",
-      "debriefing",
       "研究事后说明",
       "post-experimental debriefing"
     ]
@@ -6161,6 +6159,16 @@
     "aliases": [
       "理论效度",
       "理论有效性"
+    ]
+  },
+  {
+    "title": "Threats to Internal Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Threats to Internal Validity.md",
+    "aliases": [
+      "内部效度威胁",
+      "threats to internal validity",
+      "internal validity threats"
     ]
   },
   {

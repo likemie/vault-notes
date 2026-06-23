@@ -1,7 +1,6 @@
 ---
 title: Convergent and Discriminant Validity
 aliases:
-  - 收敛效度与区分效度
   - 收敛效度
   - 区分效度
   - convergent validity

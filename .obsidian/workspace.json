@@ -37,8 +37,7 @@
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +205,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e1573f91b7722f1b",
+  "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+    "wiki/concepts/research-methodology/Construct Validity in Quantitative Measurement.md",
+    "wiki/concepts/research-methodology/Threats to Internal Validity.md",
+    "wiki/concepts/research-methodology/Convergent and Discriminant Validity.md",
     "scripts/__pycache__/wiki_linker.cpython-313.pyc",
     "wiki/concepts/research-methodology/Ethics Debriefing.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/concepts/research-methodology/Paradigm.md",
     "wiki/concepts/research-methodology/Rich and Thick Description.md",
@@ -231,10 +233,8 @@
     "wiki/concepts/research-methodology/Cross-cultural Validity.md",
     "wiki/concepts/research-methodology/Ecological Validity.md",
     "wiki/concepts/research-methodology/Catalytic Validity.md",
-    "wiki/concepts/research-methodology/Convergent and Discriminant Validity.md",
     "wiki/concepts/research-methodology/Criterion-related Validity.md",
     "wiki/concepts/research-methodology/Content Validity.md",
-    "wiki/methods/qualitative/Peer Debriefing.md",
     "raw/023_10 Validity and reliability.txt",
     "wiki/concepts/research-methodology/Sensitive Research.md.tmp.33151.728feba274d9",
     "raw/022_9 Sensitive educational research.txt",
@@ -243,7 +243,6 @@
     "raw/021_8 Sampling.txt",
     "wiki/concepts/research-methodology/Literature Search.md.tmp.18087.2d8e192bf844",
     "wiki/concepts/research-methodology/Literature Review.md.tmp.18087.bcc08845cf81",
-    "raw/020_7 Planning educational research.txt",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]

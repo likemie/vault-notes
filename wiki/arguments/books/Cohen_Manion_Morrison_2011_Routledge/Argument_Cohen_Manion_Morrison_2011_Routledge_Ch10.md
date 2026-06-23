@@ -58,8 +58,8 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Negative Case Analysis]]"
   - "[[Internal and External Generalizability]]"
-  - "[[Ethics Debriefing]]"
   - "[[Effect Size]]"
+  - "[[Threats to Internal Validity]]"
   - "[[Null Hypothesis]]"
   - "[[Ontology]]"
   - "[[Interpretive Paradigm]]"
@@ -233,7 +233,7 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 > [!tip] 在这四项标准内达成严谨性的具体策略
 > - **审计追踪**（audit trails） 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
 > - **成员核查**（member checking / respondent validation） 在[[Coding in Qualitative Research|编码]]或分类时让参与者确认、修正或补充
-> - **同伴汇报**（[[Peer Debriefing|peer debriefing]]） 将研究暴露于无利害关系的同行面前进行交叉审问式检验
+> - **同伴汇报**（[[Peer Debriefing]]） 将研究暴露于无利害关系的同行面前进行交叉审问式检验
 > - **[[Negative Case Analysis|负面案例分析]]**（negative case analysis） 系统检验不符合已有假设的案例以修正和完善理论
 > - **结构互证**（structural corroboration） 即[[Triangulation|三角验证]]，在方法、来源、研究者和理论之间交叉检验
 > - **参照材料充分性**（referential material adequacy） 充分引用领域内标准文献作为发现的外部参照（pp.160–161）
@@ -338,7 +338,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 
 ---
 
-##### 量化研究中的内部效度威胁
+##### 量化研究中的[[Threats to Internal Validity|内部效度威胁]]
 
 以下十个威胁类别主要（但不排他）适用于[[Experimental Research|实验研究]]，基于 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 的工作（pp.164–166）：
 
@@ -352,10 +352,31 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > - **实验损耗**（Experimental mortality） 长期研究中的受试者流失可能混淆变量效果。即使最初各组是随机选择的，但坚持到最后的"剩余者"可能与最初的无偏样本不同。例如在历时一年的[[Intervention Research|干预研究]]中，辍学学生可能恰恰是干预效果最差的学生，剩下的样本高估了干预效果。
 > - **工具反应性**（Instrument reactivity） 研究工具本身对研究参与者产生的效应（Vulliamy et al., 1990）。例如观察者的在场改变被观察者的行为；问卷中的问题措辞引发受试者的防御性回答。
 > - **选择-成熟交互**（Selection-maturation interaction） 研究设计效应与变量效应之间的混淆——实验组和对照组在成熟速度上不同，这种差异被误判为处理效应。
-> - **第一类与第二类错误**（Type I and Type II errors） 第一类错误：拒绝实际上为真的[[Null Hypothesis|零假设]]（相当于冤枉无辜者, Mitchell & Jolley, 1988: 121）。可通过设定更严格的显著性水平（如 ρ < 0.01 而非 ρ < 0.05）来应对。第二类错误：接受实际上不为真的零假设（相当于放过有罪者）。Boruch (1997: 211) 指出第二类错误可能在以下情况发生：（a）对干预反应的测量效度不足；（b）干预的测量相关性不足；（c）实验统计效力太低；（d）选择了错误的研究总体。在质性数据中，第一类错误是相信了一个实际上不真实的陈述，第二类错误是拒绝了一个实际上真实的陈述（pp.165–166）。
+> - **第一类与第二类错误**（Type I and Type II errors） 统计推断中拒绝真[[Null Hypothesis|零假设]]（第一类）或接受假零假设（第二类）的决策错误，详见下文展开（pp.165–166）。
+
+---
+
+##### 第一类与第二类错误
+
+两类错误虽被 Cohen, Manion & Morrison 列为内部效度威胁，但在 Cook & Campbell 框架中属于**统计结论效度**（statistical conclusion validity）的范畴。
+
+> [!dimension] 第一类与第二类错误
+> - **第一类错误**（Type I error）
+>   拒绝了实际上为真的[[Null Hypothesis|零假设]]。Mitchell & Jolley (1988: 121) 提供了一个直观类比：相当于**冤枉无辜者**（convicting an innocent person）。例如，一项研究发现新教学法显著优于传统教学法（ρ < 0.05），但实际上两种教学法之间并没有真实差异，研究者错误地拒绝了"无差异"这一真零假设。
+>
+>   **应对策略**：设定更严格的显著性水平。将 α 从 ρ < 0.05 降低到 ρ < 0.01，可以降低第一类错误发生的概率，但代价是增加第二类错误的风险。
+> - **第二类错误**（Type II error）
+>   接受了实际上不为真的零假设。Mitchell & Jolley (1988: 121) 的类比是相当于**放过有罪者**（finding a guilty person innocent）。例如，新教学法实际上确实能提升 0.3 SD 的学习效果，但由于样本太小或测量工具信度不足，研究未能检测到这一真实差异，错误地得出"新教学法与传统教学法无显著差异"的结论。
+>
+>   Boruch (1997: 211) 指出第二类错误可能在以下四种情况下发生：（a）对干预反应的测量效度不足；（b）干预的测量相关性不足；（c）实验的统计效力（statistical power）太低；（d）选择了错误的研究总体。
+>
+>   **应对策略**：降低显著性水平（如使用 ρ < 0.20 或 ρ < 0.30），或增大样本量以提高统计效力，或改进测量工具以更精确地捕捉干预的真实效果。
 
 > [!exegesis]- 两类错误的权衡
-> 减少第一类错误的机会越多（如降低 ρ 值），犯第二类错误的机会就越大，反之亦然。这是一个内在的权衡——教育研究者需要根据研究的实际后果来决定哪类错误更不可接受。例如，在评估一种新教学方法的有效性时，第一类错误可能导致无效方法被推广（浪费资源），第二类错误可能导致有效方法被埋没（错失创新）。
+> 减少第一类错误的机会越多（如降低 ρ 值），犯第二类错误的机会就越大，反之亦然。教育研究者需要根据研究的实际后果来决定哪类错误更不可接受。评估一种新教学法时，第一类错误可能导致无效方法被推广（浪费资源），第二类错误可能导致有效方法被埋没（错失创新）。
+
+> [!note] 在质性研究中的对应
+> 在质性数据中，第一类错误指相信了一个实际上不真实的陈述，第二类错误指拒绝了一个实际上真实的陈述（pp.165–166）。这一区分提醒质性研究者：对数据的过度怀疑（拒绝真实）和过度信任（相信虚假）都是效度威胁。
 
 ---
 
