@@ -36,12 +36,11 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
+  - "[[Emergence]]"
   - "[[Literature Review]]"
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Gatekeepers]]"
-  - "[[Emergence]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Operationalization]]"
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
@@ -167,7 +166,7 @@ updated: 2026-06-21
 > | 诠释与自然主义 | [[Subjectivism\|主观主义]]、互动论、社会建构的 | 承认多重实在、能动者行为、通过参与者之眼理解情境 |
 > | [[Phenomenology\|现象学]]与存在主义 | — | 关注体验本身的结构和意义 |
 > | 互动论与民族志 | — | 关注符号互动、文化意义生产 |
-> | [[Complexity Theory\|复杂性理论]] | 自组织涌现和不可预测的相互作用 | 理解多重因果方向、需要整体性理解现象并通过互动过程和结果来审查 |
+> | [[Complexity Theory\|复杂性理论]] | 自组织[[Emergence\|涌现]]和不可预测的相互作用 | 理解多重因果方向、需要整体性理解现象并通过互动过程和结果来审查 |
 > | [[Ideology Critique\|意识形态批判]] | 现象在权力关系和不平等中被组织 | 明确政治性，批判意识形态根基，结合批判与参与行动以推动社会正义 |
 > | 混合方法 | 现象复杂到单一方法可能产生片面理解 | 实用主义的方法组合——顺序、平行或综合——以充分把握现象的多重面向
 

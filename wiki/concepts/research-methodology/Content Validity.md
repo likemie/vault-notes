@@ -15,7 +15,7 @@ tags:
   - method/research-methods
   - theme/validity
 related_concepts:
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Professional Judgment]]"
   - "[[Face Validity]]"
@@ -41,14 +41,14 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 内容效度评估的不是"测量结果是否准确"，而是"测量内容是否充分"——即测试或工具的项目集合是否公平地抽样了它所指向的更大内容领域。
-> - **用途** 在开发测试、问卷和评估工具时，内容效度是第一个需要解决的效度问题——如果工具根本没有测量正确的内容，其他效度（如[[Construct Validity in Quantitative Measurement|构念效度]]、[[Criterion-related Validity|效标关联效度]]）就无从谈起。
+> - **用途** 在开发测试、问卷和评估工具时，内容效度是第一个需要解决的效度问题——如果工具根本没有测量正确的内容，其他效度（如[[Construct Validity|构念效度]]、[[Criterion-related Validity|效标关联效度]]）就无从谈起。
 > - **边界** 内容效度是**判断**问题而非**测量**问题（Kerlinger, 1986）。它不是通过相关系数或统计分析来证明的，而是基于[[Professional Judgment|专业判断]]来评估项目的相关性和抽样充分性。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 内容效度 vs [[Construct Validity in Quantitative Measurement|构念效度]] vs [[Face Validity|表面效度]]
+> [!contrast-table] 内容效度 vs [[Construct Validity|构念效度]] vs [[Face Validity|表面效度]]
 > | 维度 | 内容效度 | [[Construct Validity in Quantitative Measurement\|构念效度]] | 表面效度 |
 > |---|---|---|---|
 > | **判断对象** | 项目是否充分覆盖内容领域 | 项目是否测量了正确的抽象[[Construct\|构念]] | 项目是否**看起来**测量了它声称测量的东西 |
@@ -79,7 +79,7 @@ updated: 2026-06-23
 ## 围绕概念形成的命题
 
 > [!claim] 内容效度是效度链条的首个环节
-> 在测验和工具开发中，内容效度是最先需要解决的效度类型。如果工具没有适当覆盖内容领域，即使其[[Internal Consistency and Cronbach's Alpha|内部一致性]]再高、与外部效标的相关再强，它也只是在**可靠地测量错误的内容**。内容效度的不足会使所有其他效度类型（[[Construct Validity in Quantitative Measurement|构念效度]]、[[Criterion-related Validity|效标关联效度]]、[[Consequential Validity|后果效度]]等）的论证基础动摇。
+> 在测验和工具开发中，内容效度是最先需要解决的效度类型。如果工具没有适当覆盖内容领域，即使其[[Internal Consistency and Cronbach's Alpha|内部一致性]]再高、与外部效标的相关再强，它也只是在**可靠地测量错误的内容**。内容效度的不足会使所有其他效度类型（[[Construct Validity|构念效度]]、[[Criterion-related Validity|效标关联效度]]、[[Consequential Validity|后果效度]]等）的论证基础动摇。
 
 ---
 

@@ -15,7 +15,7 @@ tags:
   - theme/validity
 related_concepts:
   - "[[Construct]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Content Validity]]"
   - "[[Criterion-related Validity]]"
 related_arguments:
@@ -36,7 +36,7 @@ updated: 2026-06-23
 > [!concept-lens] 概念透镜
 > - **含义** 表面效度回答的是"这个工具看起来合理吗"的问题——一个门外汉拿起这个工具时，是否觉得它问的问题是相关的、任务是有意义的？
 > - **用途** 表面效度作为一个"门槛"标准：如果工具连表面效度都没有——如果问题显然无关或荒谬——受访者可能不愿意认真完成，从而损害实际效度。在教育测试中，表面效度也影响受试者的动机和认真程度。
-> - **边界** 表面效度不能替代任何一种更深层的效度。一个工具可以是表面上看起来完美但实际上测量了错误[[Construct|构念]]；反之，一些看起来"奇怪"的项目（如投射性测验项目）可能具有高[[Construct Validity in Quantitative Measurement|构念效度]]但低表面效度。
+> - **边界** 表面效度不能替代任何一种更深层的效度。一个工具可以是表面上看起来完美但实际上测量了错误[[Construct|构念]]；反之，一些看起来"奇怪"的项目（如投射性测验项目）可能具有高[[Construct Validity|构念效度]]但低表面效度。
 
 ---
 

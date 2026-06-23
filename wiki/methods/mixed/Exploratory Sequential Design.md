@@ -25,7 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Metainferences]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -158,7 +158,7 @@ updated: 2026-06-02
 ## 8. 相关概念与理论
 
 > [!tip]
-> - [[Construct Validity in Quantitative Measurement]] — 第三阶段检验的核心指标。
+> - [[Construct Validity]] in Quantitative Measurement — 第三阶段检验的核心指标。
 > - [[Coding in Qualitative Research]] — 第一阶段向第二阶段转化的基础。
 
 ---

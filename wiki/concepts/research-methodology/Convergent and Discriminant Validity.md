@@ -18,7 +18,7 @@ tags:
   - theme/validity
   - theme/construct-validity
 related_concepts:
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
@@ -44,7 +44,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 收敛效度（Convergent validity）与区分效度（Discriminant/divergent validity）是同一枚硬币的两面——都是[[Construct Validity in Quantitative Measurement|构念效度]]的**检验工具**。Campbell & Fiske (1959) 首次在多特质-多方法矩阵（MTMM）中系统阐述了这一逻辑：**收敛效度**要求同一[[Construct|构念]]的不同测量方法之间应产生相对高的相互相关性；**区分效度**要求不同构念的相似测量方法之间应产生相对低的相互相关性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 177–178)]]
+> 收敛效度（Convergent validity）与区分效度（Discriminant/divergent validity）是同一枚硬币的两面——都是[[Construct Validity|构念效度]]的**检验工具**。Campbell & Fiske (1959) 首次在多特质-多方法矩阵（MTMM）中系统阐述了这一逻辑：**收敛效度**要求同一[[Construct|构念]]的不同测量方法之间应产生相对高的相互相关性；**区分效度**要求不同构念的相似测量方法之间应产生相对低的相互相关性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 177–178)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 收敛和区分效度本质上回答两个对称的问题：应该相关的测量实际上是否相关？（收敛）应该不同的测量实际上是否不同？（区分）

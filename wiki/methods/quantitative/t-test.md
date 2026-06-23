@@ -11,9 +11,9 @@ summary: "比较两组均值的推断统计方法，包括比较两个独立组�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical

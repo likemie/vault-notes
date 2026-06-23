@@ -24,12 +24,13 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
   - "[[Research Translation]]"
+  - "[[Sample Size Determination]]"
   - "[[School Leadership]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Inclusive Evidence Validation Typology]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
@@ -120,7 +121,7 @@ updated: '2026-05-24'
 
 ### 项目与研究纳入
 
-清算中心不是把所有教育研究都放进同一个库，而是按自身任务筛选对象。标准可能涉及研究设计、出版日期、地理场景、样本量、结果测量、目标人群、语言和是否同行评审；例如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究，[[Home Visiting Evidence of Effectiveness|HomVEE]] 搜索 1989 年以后的研究，WWC 的截止点通常为综述开始前 20 年([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8-9]])。
+清算中心不是把所有教育研究都放进同一个库，而是按自身任务筛选对象。标准可能涉及研究设计、出版日期、地理场景、[[Sample Size Determination|样本量]]、结果测量、目标人群、语言和是否同行评审；例如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究，[[Home Visiting Evidence of Effectiveness|HomVEE]] 搜索 1989 年以后的研究，WWC 的截止点通常为综述开始前 20 年([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8-9]])。
 
 ### 评级单位与结果域
 
@@ -148,7 +149,7 @@ updated: '2026-05-24'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意义可以被视为一个[[Construct Validity in Quantitative Measurement|构念效度]]问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意义可以被视为一个[[Construct Validity|构念效度]]问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
 
 ## 实证发现
 
@@ -162,8 +163,8 @@ updated: '2026-05-24'
 
 ## 争议与批评
 
-> [!warning] "Evidence-based"的[[Construct Validity in Quantitative Measurement|构念效度]]不足
-> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意义。若一个术语具有高[[Construct Validity in Quantitative Measurement|构念效度]]，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践[[Construct|构念]]效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
+> [!warning] "Evidence-based"的[[Construct Validity|构念效度]]不足
+> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意义。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践[[Construct|构念]]效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
 
 
 > [!warning] 证据消费者的误导风险

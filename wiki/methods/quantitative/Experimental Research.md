@@ -31,7 +31,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Threats to Internal Validity]]"
   - "[[External Validity]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Blinding]]"
   - "[[Experimenter Bias]]"
   - "[[Descriptive Analysis]]"
@@ -127,7 +127,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 效度威胁
 
 > [!warning]
-> 实验研究者需要识别并最小化以下[[Threats to Internal Validity|内部效度威胁]]：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity in Quantitative Measurement|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 实验研究者需要识别并最小化以下[[Threats to Internal Validity|内部效度威胁]]：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验操作步骤
 

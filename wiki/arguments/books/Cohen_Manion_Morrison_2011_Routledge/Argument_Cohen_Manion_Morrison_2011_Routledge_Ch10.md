@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 90
+argument_related_count: 91
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -31,7 +31,7 @@ related_concepts:
   - "[[Catalytic Validity]]"
   - "[[Concurrent Validity]]"
   - "[[Consequential Validity]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Content Validity]]"
   - "[[Criterion-related Validity]]"
@@ -151,7 +151,7 @@ updated: 2026-06-23
 
 效度（validity）与信度（reliability）在量化、质性、自然主义和[[Mixed Methods Research|混合方法研究]]中的含义与操作各不相同。核心前提是：**效度与信度适用于所有这些研究类型，只是在不同研究路径中处理方式有所差异**（p.157）。
 
-二十余种效度类型被涉及——[[Catalytic Validity|催化效度]]（catalytic validity）、[[Concurrent Validity|共时效度]]（concurrent validity）、[[Consequential Validity|后果效度]]（consequential validity）、[[Construct Validity in Quantitative Measurement|构念效度]]（[[Construct]] validity）、[[Content Validity|内容效度]]（content validity）、[[Criterion-related Validity|效标关联效度]]（criterion-related validity）、[[Convergent and Discriminant Validity|收敛效度]]（convergent validity）、区分效度（discriminant validity）、[[Cross-cultural Validity|跨文化效度]]（cross-[[Cultural Validity]]）、文化效度（cultural validity）、[[Descriptive Validity|描述效度]]（descriptive validity）、[[Ecological Validity|生态效度]]（ecological validity）、[[Evaluative Validity|评价效度]]（evaluative validity）、[[External Validity|外部效度]]（external validity）、[[Face Validity|表面效度]]（face validity）、[[Internal Validity|内部效度]]（internal validity）、[[Interpretive Validity|解释效度]]（interpretive validity）、陪审团效度（jury validity）、[[Predictive Validity|预测效度]]（predictive validity）、系统效度（systemic validity）、[[Theoretical Validity|理论效度]]（theoretical validity）——这里聚焦主要类型而非深入所有术语（p.158）。
+二十余种效度类型被涉及——[[Catalytic Validity|催化效度]]（catalytic validity）、[[Concurrent Validity|共时效度]]（concurrent validity）、[[Consequential Validity|后果效度]]（consequential validity）、[[Construct Validity|构念效度]]（[[Construct]] validity）、[[Content Validity|内容效度]]（content validity）、[[Criterion-related Validity|效标关联效度]]（criterion-related validity）、[[Convergent and Discriminant Validity|收敛效度]]（convergent validity）、区分效度（discriminant validity）、[[Cross-cultural Validity|跨文化效度]]（cross-[[Cultural Validity]]）、文化效度（cultural validity）、[[Descriptive Validity|描述效度]]（descriptive validity）、[[Ecological Validity|生态效度]]（ecological validity）、[[Evaluative Validity|评价效度]]（evaluative validity）、[[External Validity|外部效度]]（external validity）、[[Face Validity|表面效度]]（face validity）、[[Internal Validity|内部效度]]（internal validity）、[[Interpretive Validity|解释效度]]（interpretive validity）、陪审团效度（jury validity）、[[Predictive Validity|预测效度]]（predictive validity）、系统效度（systemic validity）、[[Theoretical Validity|理论效度]]（theoretical validity）——这里聚焦主要类型而非深入所有术语（p.158）。
 
 > [!example]- 图10.1：章节流程概览
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_10-1_Chapter_Overview.jpg)
@@ -251,7 +251,7 @@ Maxwell (1992) 以"理解"（understanding）为核心，提出了五种质性�
 > - **[[Interpretive Validity|解释效度]]**（interpretive validity）
 >   研究捕捉情境和事件对参与者/主体本身的意义、解释、术语和意图的能力。类似 Blumenfeld-Jones 的忠实（fidelity），对被研究者而言有何主观意义（subjectively meaningful）。解释效度在实验/实证主义方法论中没有明确对应物，这是质性研究独有的效度维度。
 > - **[[Theoretical Validity|理论效度]]**（theoretical validity）
->   研究者带入研究的理论建构（包括被研究者的建构），理论在此被视为**解释**。理论效度是研究解释现象的程度。在这方面类似[[Construct Validity in Quantitative Measurement|构念效度]]，但区别在于：理论效度中的构念是**所有参与者**（包括研究者和被研究者）的构念，而非仅仅是研究者预先定义的构念。
+>   研究者带入研究的理论建构（包括被研究者的建构），理论在此被视为**解释**。理论效度是研究解释现象的程度。在这方面类似构念效度，但区别在于：理论效度中的构念是**所有参与者**（包括研究者和被研究者）的构念，而非仅仅是研究者预先定义的构念。
 > - **外部可推广性**（[[Internal and External Generalizability|external generalizability]]）
 >   产生的理论可能有助于理解其他类似情境。推广在此指两个层面：在特定群体/社区/情境/环境内的推广（内部可推广性）和对特定外部社区/情境/环境的推广（外部可推广性）。内部可推广性比外部可推广性更重要。可推广性与[[External Validity|外部效度]]有重叠但不等同——外部效度衡量的更多是统计推广，而 Maxwell 的可推广性更接近理论的可迁移性。
 > - **[[Evaluative Validity|评价效度]]**（evaluative validity）
@@ -564,7 +564,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 
 构念是一个**抽象**（p.176）。构念效度在于就构念的"操作化"形式达成一致——澄清我们使用该构念时**意味什么**。
 
-> [!example] 构念效度的经典例子：智力的操作化
+> [!example]- 构念效度的经典例子：智力的操作化
 > "假设我想评估一个儿童的'智力'（为此示例假设智力是一个单一品质）。我可以说，我将智力解释为'削铅笔的能力'。这种对智力的构造有多可接受？智力难道不是其他什么东西吗——例如在智力测验中得高分所展示的东西？"
 >
 > 这个例子虽然极端，但精确地说明了构念效度的核心问题：**我对这个构念的理解是否与被普遍接受的该构念的理解一致？**要建立构念效度，我需要确保我对特定议题的构造与其他对同一底层议题的构造或理论（如智力、创造力、焦虑、动机）**一致**（p.176）。
@@ -586,10 +586,10 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 > |---|---|---|
 > | **核心逻辑** | 应该相关的东西确实相关 | 应该不同的东西确实不同 |
 > | **量化方法** | 相关分析、回归、因子分析 | t 检验、[[Chi-Squared Test\|卡方检验]]、[[Analysis of Variance\|方差分析]]、共线性诊断 |
-> | **质性方法** | N-Vivo "接近性搜索"，整合来自不同群体、样本和子样本的数据以检查是否发现收敛 | 检查负面案例、偏差案例，比较子群体的数据以确定差异是否确实存在 |
+> | **质性方法** | NVivo "接近性搜索"，整合来自不同群体、样本和子样本的数据以检查是否发现收敛 | 检查负面案例、偏差案例，比较子群体的数据以确定差异是否确实存在 |
 > | **混合方法检验** | 检查一种方法的数据是否与另一种方法聚焦同一问题的数据一致 | 检查假设不相关的因素是否在两种方法中都显示为不相关 |
 
-> [!example] 混合方法中的收敛与区分效度验证
+> [!example]- 混合方法中的收敛与区分效度验证
 > **收敛效度案例**：研究者调查社会阶层对高等教育获取的影响时，同时收集[[Qualitative Interview|质性访谈]]数据和量化问卷数据。如果质性数据中工人阶级学生普遍报告"成本是核心障碍"，而量化数据也显示家庭收入与大学入学率显著正相关，且这一发现受到文献支持——那么**预期的收敛效度**就得到了证明。
 >
 > **区分效度案例**：研究者假设家庭收入（财富指数）与工人阶级学生的社会阶层向上流动**抱负**（文化指数）不显著相关。如果量化数据（收入与抱负的相关系数接近零）和质性数据（学生明确说"我家不富裕但不影响我想上好大学"）都给出了不一致的、分离的结果——那么**区分效度**就得到了证明。

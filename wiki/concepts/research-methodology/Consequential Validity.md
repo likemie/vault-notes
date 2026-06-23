@@ -19,9 +19,10 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
+  - "[[Sensitive Research]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -55,7 +56,7 @@ updated: 2026-06-22
 > - **边界** 结果效度是规范性标准（规定研究应该带来变革），而非描述性标准（描述研究带来的所有后果）。它预设研究具有政治议程——这一预设本身在声称[[Value Neutrality|价值中立]]的研究传统中是被争议的。
 
 > [!boundary]- 概念边界
-> - 不等于传统效度（信度、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]、[[Construct Validity in Quantitative Measurement|构念效度]]）——后者关注方法和证据的可靠性，结果效度关注研究对世界的实际影响。
+> - 不等于传统效度（信度、[[Internal Validity|内部效度]]、[[External Validity|外部效度]]、[[Construct Validity|构念效度]]）——后者关注方法和证据的可靠性，结果效度关注研究对世界的实际影响。
 > - 不等于影响力（impact）或引用率——后者是学术[[Champ|场域]]内的指标，结果效度关注的是被研究群体的处境改善。
 
 ---

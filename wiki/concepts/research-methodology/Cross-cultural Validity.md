@@ -18,7 +18,7 @@ tags:
 related_concepts:
   - "[[Cultural Validity]]"
   - "[[Content Validity]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -46,7 +46,7 @@ updated: 2026-06-23
 > 跨[[Cultural Validity|文化效度]]（Cross-cultural validity）关注的是：在一种文化中开发、测试和验证的工具——能否在另一种文化或国家中有意义地使用？是否存在足够的文化相似性或"文化普遍性"（cultural universals）使同一工具能够有意义地应用于另一文化——同时又尊重每种文化的特殊性、独特性和敏感性？（Hilton & Skrutkowski, 2002; Sumathipala & Murray, 2006）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 179–186)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 跨文化效度的核心不是"工具是否测量了它声称测量的东西"（这是[[Content Validity|内容效度]]和[[Construct Validity in Quantitative Measurement|构念效度]]的问题），而是"工具在**跨文化迁移**时是否保持了其测量属性"。同一工具在不同文化中可能测量了完全不同的[[Construct|构念]]。
+> - **含义** 跨文化效度的核心不是"工具是否测量了它声称测量的东西"（这是[[Content Validity|内容效度]]和[[Construct Validity|构念效度]]的问题），而是"工具在**跨文化迁移**时是否保持了其测量属性"。同一工具在不同文化中可能测量了完全不同的[[Construct|构念]]。
 > - **用途** 在比较教育研究、跨文化心理学和国际大规模评估（如 [[PISA]]、TIMSS）中，跨文化效度是工具开发和数据解释的前置条件——如果工具在文化间不可比较，跨文化比较就毫无意义。
 > - **边界** 跨文化效度不等同于翻译准确性——即使翻译完美，文化和情境差异仍可能使工具在不同文化中"测量不同的东西"。也不等同于[[Cultural Validity|文化效度]]——后者更广泛地涵盖研究全过程对文化环境的适当性。
 
@@ -98,7 +98,7 @@ updated: 2026-06-23
 > 3. **[[Pilot Testing|预测试]]** 随机调查方法检验指令清晰性和工具适当性
 > 4. **评估内容和[[Concurrent Validity|共时效度]]** 20–30 名双语参与者同时完成两种语言版本，比较两套答案——[[Content Validity|内容效度]]质评（专家审查），共时效度量评（t 检验）
 > 5. **信度分析** 检查内部信度和时间稳定性（[[Internal Consistency and Cronbach's Alpha|Cronbach alpha]]），移除低信度项目
-> 6. **评估[[Construct Validity in Quantitative Measurement|构念效度]]** 因子分析、量表间相关、检验理论假设
+> 6. **评估[[Construct Validity|构念效度]]** 因子分析、量表间相关、检验理论假设
 > 7. **建立常模** 用大样本人群计算均值、标准差和 z 分数
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 183–185)]]

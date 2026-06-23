@@ -22,7 +22,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Construct]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -81,7 +81,7 @@ updated: 2026-06-06
 > [!tip]
 > - [[Confidence Interval]] — [[PISA]] 排名呈现误差区间，使读者能够判断数值相邻的国家是否真正不同([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47-48]])。
 > - [[Effect Size]] — Rasch 分数排名和效应量排名都可能被用于排序；如果排序只呈现点估计而缺少估计误差，相邻值差异就难以解释([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47-48]])。
-> - [[Construct]] — Rasch 模型的适用性问题与[[Construct Validity in Quantitative Measurement|构念效度]]相关，当模型不适合数据时，测量结果可能没有测量到声称测量的构念。
+> - [[Construct]] — Rasch 模型的适用性问题与[[Construct Validity|构念效度]]相关，当模型不适合数据时，测量结果可能没有测量到声称测量的构念。
 
 ---
 

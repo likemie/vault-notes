@@ -27,7 +27,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Multimethod Research]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Evidence-Based Education]]"
@@ -91,7 +91,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的[[Necessary and Sufficient Conditions|必要条件]](p.4)。
+> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的[[Necessary and Sufficient Conditions|必要条件]](p.4)。
 > - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）(p.4)。
 
 ## 研究方法
@@ -234,7 +234,7 @@ citation_aliases:
 > | 4 个清算中心评级 | 30.0% | 20.0% | 22.2% | 27.8% | 90 |
 > | 5 个清算中心评级 | 50.0% | 20.0% | 5.0% | 25.0% | 40 |
 >
-> 该表是论文"实践[[Construct Validity in Quantitative Measurement|构念效度]]不足"结论的直接经验基础：两个清算中心共同评价同一项目时，最常见的分歧类型是 1 与 3 的完全不一致(p.19)。
+> 该表是论文"实践[[Construct Validity|构念效度]]不足"结论的直接经验基础：两个清算中心共同评价同一项目时，最常见的分歧类型是 1 与 3 的完全不一致(p.19)。
 
 ## 核心论证
 
@@ -243,7 +243,7 @@ citation_aliases:
 > 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和因果设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验等细节处理不同(pp.6–12)。
 > 3. 更关键的是，清算中心对"什么足以构成高等级项目证据"没有共识：有的接受单项统计显著研究，有的要求特定[[Effect Size|效应量]]、独立复制、跨地点复制或 6–12 个月以上的持续效果(pp.11–15)。
 > 4. 这种标准差异导致同一项目的推荐结论往往不一致。1,359 个项目中 83.2% 只被一个清算中心评级，只有 17% 有多重评级可供比较；在多重评级项目中，评级一致性有限，而且最容易达成一致的是"不推荐"，最难一致的是"推荐/最高等级"(pp.18–19)。
-> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践[[Construct Validity in Quantitative Measurement|构念效度]]，使用者应将单一清算中心评级视为带有特定标准假设的判断，而不是中立认证(pp.3, 26–27)。
+> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践[[Construct Validity|构念效度]]，使用者应将单一清算中心评级视为带有特定标准假设的判断，而不是中立认证(pp.3, 26–27)。
 
 ## 主要发现
 
@@ -270,7 +270,7 @@ citation_aliases:
 > > “识别‘基于证据的’干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究实践。”
 > ("identifying 'evidence-based' interventions is still more of a policy aspiration than a reliable research practice.")(p.3)
 >
-> > “‘基于证据（evidence-based）’在信息交换中心（CH）的背景下，其实际的[[Construct Validity in Quantitative Measurement|构念效度]]是有限的。”
+> > “‘基于证据（evidence-based）’在信息交换中心（CH）的背景下，其实际的构念效度是有限的。”
 > ("evidence-based has limited practical [[Construct]] validity in the CH context.")(p.26)
 
 ## 局限性与批评

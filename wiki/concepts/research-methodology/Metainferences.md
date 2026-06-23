@@ -19,7 +19,7 @@ tags:
   - data-integration
 related_concepts:
   - "[[Variable]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -73,7 +73,7 @@ updated: 2026-06-02
 > 4. 将跨数据库检视得出的洞察记录在元推论单元格中。
 > 5. 这些洞察构成了[[Mixed Methods Research|混合方法]]的整合分析结果，可放入研究报告的结果部分或讨论部分。
 >
-> 当出现分歧（divergence）时，研究者需要进一步跟进：可以返回分析深入探索数据库、收集额外信息来解决差异，或讨论某一数据库的局限（如量化[[Construct Validity in Quantitative Measurement|构念效度]]不足、或开放式问题与质性主题之间的匹配不佳）。
+> 当出现分歧（divergence）时，研究者需要进一步跟进：可以返回分析深入探索数据库、收集额外信息来解决差异，或讨论某一数据库的局限（如量化[[Construct Validity|构念效度]]不足、或开放式问题与质性主题之间的匹配不佳）。
 
 ---
 

@@ -14,10 +14,12 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Question]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Content Validity]]"
   - "[[Construct]]"
   - "[[Abstract]]"
+  - "[[Evaluation Research]]"
+  - "[[International Education]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
@@ -26,6 +28,8 @@ related_persons: []
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
+  - "[[PISA]]"
+  - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
@@ -57,7 +61,7 @@ updated: 2026-06-21
 
 > [!chain-link] 文献检索→论证的推进逻辑
 > - **奠基信度与效度**
->   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity in Quantitative Measurement|构念效度]]和[[Content Validity|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
+>   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
 > - **建立理论框架**
 >   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct|构念]]和概念。
 > - **识别关键议题与空白**
@@ -101,7 +105,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 ### 网络检索
 
-互联网上研究数据的存储和检索不仅让研究者保持对全球发展的跟进，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity in Quantitative Measurement|构念效度]]和[[Content Validity|内容效度]]。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索——如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
+互联网上研究数据的存储和检索不仅让研究者保持对全球发展的跟进，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索——如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
 
 互联网是大量无序且大多未经审查的材料库，研究者需要通过试错和偶然发现来寻找信息，单独或组合使用关键词（放在引号内）。书签系统能实现网站的快速检索以备将来参考——考虑到某些互联网连接速度慢且网上大量材料毫无帮助，这几乎是必要的（p.131）。
 
@@ -165,12 +169,12 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | [AERA](https://www.aera.net) | 美国教育研究协会，年会、期刊（AERJ, RER, EEPA 等）、研究网络 |
 > | [BERA](https://www.bera.ac.uk) | 英国教育研究协会，年会、期刊（BERJ）、伦理指南 |
 > | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会，欧洲教育研究年会（ECER） |
-> | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会，PISA 澳洲实施方、评估研究 |
+> | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会，[[PISA]] 澳洲实施方、[[Evaluation Research\|评估研究]] |
 > | [SERA](https://www.sera.ac.uk) | 苏格兰教育研究协会，年会、网络 |
 > | [NFER](https://www.nfer.ac.uk) | 英国国家教育研究基金会，大规模教育评估与政策研究 |
 > | [CEM](https://www.cem.org) | 课程评估与监测中心，全球最大的教育监测机构之一 |
 > | [HKERA](https://www.hkera.org) | 香港教育研究协会 |
-> | [WERA](https://www.weraonline.org) | 世界教育研究协会，国际教育研究网络 |
+> | [WERA](https://www.weraonline.org) | 世界教育研究协会，[[International Education\|国际教育]]研究网络 |
 > | [ESRC](https://www.ukri.org/councils/esrc) | 英国经济与社会研究理事会，教育研究资助机构 |
 
 > [!index-table] 政府与统计网站
@@ -179,7 +183,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | [ONS](https://www.ons.gov.uk) | 英国国家统计署，人口、经济、社会统计数据 |
 > | [UK Data Service](https://ukdataservice.ac.uk) | 英国社会科学数据仓储，含大型追踪调查数据 |
 > | [UNESCO](https://www.unesco.org) | 全球教育、科学、文化统计与政策报告 |
-> | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、Education at a Glance 等国际比较数据 |
+> | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、[[Education at a Glance]] 等国际比较数据 |
 > | [NCES](https://nces.ed.gov) | 美国教育统计，含 NAEP、Digest of Education Statistics |
 > | [World Bank](https://www.worldbank.org) | 全球发展数据，含教育支出、入学率等跨国指标 |
 > | [EU Gateway](https://european-union.europa.eu) | 欧盟政策、统计（Eurostat）与法律文件 |

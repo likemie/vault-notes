@@ -24,9 +24,10 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Data Transformation]]"
   - "[[Metainferences]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Qualitative Validity]]"
   - "[[Construct]]"
+  - "[[Sample Size Determination]]"
   - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
@@ -143,11 +144,11 @@ updated: 2026-06-02
 
 ## 5. 局限性与效度威胁
 
-在使用聚敛式设计时，除了需要分别建立量化效度（如[[Construct Validity in Quantitative Measurement|构念效度]]）和[[Qualitative Validity|质性效度]]（如[[Triangulation|三角验证]]）之外，还存在特有的效度威胁([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.239–240]])：
+在使用聚敛式设计时，除了需要分别建立量化效度（如[[Construct Validity|构念效度]]）和[[Qualitative Validity|质性效度]]（如[[Triangulation|三角验证]]）之外，还存在特有的效度威胁([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.239–240]])：
 
 - **未对分歧进行后续跟进**：当量化与质性数据库讲述不同故事时，如果研究者只是将其作为研究局限一笔带过而不做进一步分析，这是一种薄弱的处理方式。**建议**：应返回数据库深入探索、收集额外数据，或讨论某一数据库的局限。
 - **未明确比较的共同基础**：两类数据收集所依据的问题域或[[Construct|构念]]应当匹配。例如，[[Qualitative Interview|质性访谈]]中关于压力的提问应与量化数据中压力量表的测量内容对应。如果共同基础不明确，合并比较就缺乏立足点。
-- **未承认不同样本量的影响**：质性数据的样本量必然小于量化数据。研究者需要明确处理这一差异——可以增大质性样本（但会限制每个个体的数据深度）、加权质性案例以平衡 N 值，或认为两种方法的意图不同（质性追求深度、量化追求推广）因而不需要等量样本。
+- **未承认不同[[Sample Size Determination|样本量]]的影响**：质性数据的样本量必然小于量化数据。研究者需要明确处理这一差异——可以增大质性样本（但会限制每个个体的数据深度）、加权质性案例以平衡 N 值，或认为两种方法的意图不同（质性追求深度、量化追求推广）因而不需要等量样本。
 
 ---
 

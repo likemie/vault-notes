@@ -55,7 +55,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Evaluation Research]]"
   - "[[Positivism]]"
-  - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Screening Off]]"
   - "[[Heterogeneity]]"
@@ -533,7 +533,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 > [!chain-link] 12个清算中心比较 → 83%项目单机构评级 → 多重评级中仅30%一致 → "evidence-based"标签缺乏稳定含义
 
-**争议背景**：Wadhwa, Zheng & Cook 将 EBE 中"什么算作 evidence-based"这一问题转化为清算中心实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题。如果这些机构对同一项目很少达成一致，就说明"evidence-based"的实践含义并不稳定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+**争议背景**：Wadhwa, Zheng & Cook 将 EBE 中"什么算作 evidence-based"这一问题转化为清算中心实践中的[[Construct Validity|构念效度]]问题。如果这些机构对同一项目很少达成一致，就说明"evidence-based"的实践含义并不稳定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
 
 **核心发现**：作者比较 12 个教育清算中心，并在 10 个清算中心的 1,359 个项目中估计跨机构一致性。结果显示，83.2% 的项目只被一个清算中心评级，只有 17% 有多重评级可供比较；在被多个清算中心评级的项目中，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。评级不一致主要来自清算中心对高等级证据标准的差异，尤其是是否要求复制、独立复制和治疗后持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26–27]])。
 
@@ -751,7 +751,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > | 学者 | 批判层级 | 批判工具 |
 > |------|---------|---------|
 > | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 哲学前提（认识论/存在论/实践论） | Dewey [[Pragmatic Paradigm\|实用主义]]、教育目的论 |
-> | [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] | 改革建设（从内部改革 RCT 设计和制度基础） | 发展经济学机制实验、改进科学 |
+> | [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] | 改革建设（从内部改革 RCT 设计和制度基础） | 发展经济学[[Mechanism Experiments\|机制实验]]、[[Improvement Science\|改进科学]] |
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 副作用/风险-收益分析 | 医学类比（FDA 药物审批）、Campbell's Law |
 > | Wrigley (2018, 2019) | 方法技术 + 科学哲学（三级失真 + 简单科学观） | 批判实在论（Bhaskar/Sayer/Pawson） |
 > | [[Argument_Cowen_2019_ERE\|Cowen (2019)]] | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
@@ -846,7 +846,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 - [[ESSA 2015 Evidence Standards]] — 以四级证据标准把 RCT、[[Quasi-Experimental Designs|QED]]、相关研究和基于原理的项目选择纳入联邦政策框架([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 - [[Students and Teachers Accessing Tomorrow]] — 展示[[Technology Infusion|技术整合]]改革中，[[Formative Program Evaluation|形成性项目评价]]、成就结果和利益相关者价值排序如何共同影响证据解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121–123]])
 - [[What Works Clearinghouse]] — 美国 EBE 的制度基础设施([[Argument_Wiliam_2019|Wiliam, 2019]])
-- [[Educational Evidence Clearinghouses]] — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 比较 12 个教育清算中心，发现同一项目的 evidence-based 评级一致性有限，提示 EBE 认证基础设施本身存在[[Construct Validity in Quantitative Measurement|构念效度]]问题
+- [[Educational Evidence Clearinghouses]] — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 比较 12 个教育清算中心，发现同一项目的 evidence-based 评级一致性有限，提示 EBE 认证基础设施本身存在[[Construct Validity|构念效度]]问题
 
 ### 澳大利亚与新西兰
 
