@@ -85,7 +85,7 @@ Kelman (1967) 提出了三种处理欺骗问题的方式（[[Argument_Cohen_Mani
 > [!feature] 3. 开发新程序和新技术
 > 如角色扮演（role-playing）或"假设"实验——"角色扮演 vs 欺骗"辩论。这些新方法要求使用参与者的动机而非绕过它们，甚至可能需要提高潜在参与者的成熟度而非维持他们的天真。
 
-> [!tip] [[Ethics Debriefing|debriefing]]（事后说明）
+> [!tip]- [[Ethics Debriefing|debriefing]]（事后说明）
 > 抵消使用欺骗的研究负面效果的主要方式。Debriefing 可包括（Cooper & Schindler, 2001, p. 116）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）：
 > - 解释任何欺骗及其原因
 > - 描述研究的目的、假设、目标和方法

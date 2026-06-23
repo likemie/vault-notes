@@ -171,7 +171,7 @@ updated: 2026-05-31
 ---
 ## 方法变体
 
-> [!tip]
+> [!tip]-
 > - **横截面研究（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。
 > - **纵向研究（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。
 > - vs [[Experimental Research|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality|因果推断]]。

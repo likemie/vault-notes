@@ -81,7 +81,7 @@ updated: 2026-06-09
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - **Lyotard 的后现代知识理论** — 操演性是 Lyotard 描述的后现代知识合法化模式的核心概念。在后现代状况中，宏大叙事（启蒙、解放、真理）失去了组织知识的功能，知识以效率为新的合法化标准。[[Argument_Beech_2009_CE|(Beech, 2009, p. 352)]]
 > - **Castells 的[[Network Society|网络社会]]理论** — 操演性与网络的纳入排除逻辑结合，进一步强化了[[Global Policy Space|全球政策空间]]中的竞争压力。节点如果表现下降，将被网络抛弃和绕过。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 350–351)]]
 > - [[Pragmatic Paradigm|实用主义范式]] — 操演性在全球政策空间中表现为实用主义压倒意识形态。这是一个分析关联，不等于理论等同。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 352–353)]]

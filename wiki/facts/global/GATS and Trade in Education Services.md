@@ -75,7 +75,7 @@ updated: '2026-05-18'
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Internationalization of Higher Education]] — GATS 是推动国际化从发展主义理性转向市场理性的关键制度机制
 > - [[Geopolitics of Knowledge]] — GATS 体现了知识地缘政治中教育商品化的制度维度
 

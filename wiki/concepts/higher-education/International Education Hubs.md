@@ -140,7 +140,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Critical Geopolitics|批判地缘政治学]] — 为 IEHs 的地缘政治分析提供核心理论透镜，[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 和 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 均以此框架分析国家如何通过高等教育项目重塑地缘政治位置
 > - [[Network Society|网络社会]]理论 — 为理解 IEHs 作为全球知识流动网络中的"节点"提供基础，与 Moisio (2018) 的 Hub and [[Flow]] 想象相互补充
 > - [[Cultural Political Economy]]（文化政治经济学, Sum & Jessop, 2013） — [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 采用此框架分析教育枢纽中文化符号与结构物质维度的同等重要性

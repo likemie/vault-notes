@@ -85,7 +85,7 @@ updated: 2026-06-12
 
 ## 相关方法
 
-> [!tip]
+> [!tip]-
 > - Analytic Hierarchy Process — AHP是该组合方法的子模块
 > - Entropy Weight Method — EWM是该组合方法的子模块
 > - [[Coupling Coordination Model]] — 组合赋权常与耦合协调模型配合使用，前者确定指标权重，后者计算系统协同水平

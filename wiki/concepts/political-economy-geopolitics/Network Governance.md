@@ -55,7 +55,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - Thompson（1991）的组织形式分类学提供了理论框架：传统的市场与科层形式正在被网络与部落（clan）形式所取代([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vi]])
 > - [[Performance Indicators]] — 在欧盟层面，绩效指标通过建构"良好治理"的标准间接塑造了网络治理的运作方式([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])
 

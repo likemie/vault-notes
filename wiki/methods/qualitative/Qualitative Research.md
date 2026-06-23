@@ -168,7 +168,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > [!example]- 图9.1：描述性方法与源于传统的分析方法
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-1_Descriptive_Methods_Analytic_Frameworks.jpg)
 
-> [!tip] 区分
+> [!tip]- 区分
 > - 描述性方法使用参与者日常语言；分析框架使用"分析传统"（analytic tradition）进行解释（Braun & Clark, 2006, p.78）。
 > - 描述性方法是基础，分析框架在基础上叠加——两者具有不同的价值，描述性方法不因其"基础性"而在价值或可信度上低于分析框架。
 

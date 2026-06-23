@@ -80,7 +80,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Creative Tension of Sense]] — 抵抗[[Epistemology|认识论]]可视为"新在旧内部诞生"命题在[[Knowledge Production|知识生产]]领域的呈现：新的知识形式在旧的认识论秩序内部孕育，两者之间的张力是创造力的源泉([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109–112]])
 > - [[Ganz-Methode]] — 抵抗认识论实践与 Ganz-Methode 两步法对应——承载新旧知识[[Paradigm|范式]]的张力（步骤一），通过被排斥者的知识实践发现"[[Life Power|生命力量]]"（步骤二）。详见 [[Ganz-Methode#核心要素]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 113–116]])
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo 的"认识论不服从"和"边界思维"为抵抗认识论提供了理论框架。抵抗认识论可视为在具体社区实践中执行了 Mignolo 的"去链接"（delink）指令([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 110]])

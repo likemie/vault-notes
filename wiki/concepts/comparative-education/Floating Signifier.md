@@ -73,7 +73,7 @@ updated: 2026-06-09
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Space of Flows and Space of Places|流动空间与地方空间]]（Castells）— 漂浮能指是流动空间中话语生产的特有产物。在流动空间中，符号共存而不参照经验；在地方空间中，意义与领土特定的历史经验重新连结。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 349–350)]]
 > - [[Recontextualization|再脉络化]] — 漂浮能指从全球空间移动到地方空间时经历的转化过程，与再脉络化密切相关，但 Beech 的贡献在于将这一过程置于特定的空间逻辑和权力关系中分析。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 347–348)]]
 

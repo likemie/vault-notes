@@ -79,7 +79,7 @@ updated: '2026-05-23'
 
 ## 相关理论
 
-> [!tip]
+> [!tip]-
 > - [[Absorptive Capacity]] — [[Formative Assessment|形成性评价]]能否转化为改进行动，取决于学区关键伙伴是否理解项目、沟通是否开放、领导是否支持([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-124]])。
 > - [[Professional Judgment]] — 形成性评价提供阶段性证据，但如何权衡实施进展、学生参与、技术公平和成就结果，仍需要专业判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-123]])。
 

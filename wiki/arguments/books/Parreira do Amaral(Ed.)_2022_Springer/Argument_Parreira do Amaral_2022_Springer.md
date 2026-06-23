@@ -103,7 +103,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!tip]
+> [!tip]-
 > - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics|古典地缘政治]]（领土扩张、民族国家中心）转向新地缘政治（[[Relational Space|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的话语建构
 - [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）

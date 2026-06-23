@@ -95,7 +95,7 @@ updated: 2026-06-02
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Confucius]] — ren 的原始提出者和最高典范([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 > - [[Self-Cultivation]] — ren 是修身所要达到的最终目标
 > - [[Junzi]] — 君子是致力于追求 ren 的过程并遵循仁道的人([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])

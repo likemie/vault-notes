@@ -37,7 +37,7 @@ updated: 2026-06-02
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > Dollinger et al.（2018）提出了一个用于理解和评估国际[[University-Industry Collaboration|产学合作]]的三因素框架，将影响合作的因素归纳为三个维度：**环境因素**（environmental）、**技术因素**（technical）和**管理因素**（managerial）。每个因素下又包含具体属性，如研发文化和更广泛的劳动力背景被归类为文化与劳动力属性（p.316）。
 
 ## 三因素结构

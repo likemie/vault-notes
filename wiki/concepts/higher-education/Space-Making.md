@@ -76,7 +76,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Doreen Massey]] — Massey 的开放[[Ontology|本体论]]和[[Relational Space|关系性空间]]理论是本框架的直接基础，尤其是其"空间作为互动展开"和"总是有松散的末端"两个核心命题([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 3]])
 > - Lefebvre（1991） — 空间生产理论，强调空间既是社会产物又反过来塑造社会关系。Marginson 借用了 Lefebvre 的三元空间辩证法，但以 Massey 的关系性空间修正了 Lefebvre 的某些封闭倾向
 > - Archer（1995, 2003） — [[Reflexivity|反思性]]对话理论，为理解空间制造中"想象"维度的内在机制提供了微观基础([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])

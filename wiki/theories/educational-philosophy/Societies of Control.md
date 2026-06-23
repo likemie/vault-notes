@@ -40,7 +40,7 @@ updated: 2026-06-02
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从规训社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征(Deleuze, 1992, pp.4, 7; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
 > [!quote]

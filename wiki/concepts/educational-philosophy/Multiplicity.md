@@ -74,7 +74,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放[[Ontology|本体论]]之上，详见 Massey > 核心思想
 > - Lefebvre（1991）空间生产理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的开放性和未完成性
 

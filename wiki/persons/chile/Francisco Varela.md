@@ -40,7 +40,7 @@ Francisco Varela（1946–2001），智利生物学家和神经科学家，与 [
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 
 **[[Autopoiesis]]（自创生）**：与 [[Humberto Maturana]] 在 *The Tree of Knowledge* (1987) 中共同提出的生命[[Luhmann's Systems Theory|系统理论]]：生命系统是自我指涉、自我生产的——每一组件参与其他组件的生产与转化，系统在空间中持续生成和维持自身。这一理论后被延伸至社会领域([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
 

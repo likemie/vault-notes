@@ -105,7 +105,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - van Gennep 过渡仪式理论（Rites of Passage）— 三阶段模型的原型：分离（séparation）→ 阈限（limen）→ 聚合（agrégation）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
 > - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会整合失败导致自杀的[[Analytic Framework|分析框架]]，将其应用于大学生辍学问题
 

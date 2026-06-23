@@ -48,7 +48,7 @@ updated: 2026-06-03
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - Principal Status of Enterprises in Innovation
 
 ---

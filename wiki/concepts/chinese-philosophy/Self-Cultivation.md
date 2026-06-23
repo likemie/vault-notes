@@ -144,7 +144,7 @@ Li 甚至提出了一个反直觉的推测：女性从家庭走向学校和职�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Benevolence]] — 修身的最高目标是达到仁([[Argument_Li_2012_Cambridge|Li, 2012, pp.41-42]])
 > - [[Five Cardinal Relationships]] — 修身的具体[[Champ|场域]]在五伦关系中展开
 > - [[Learning Virtues]] — 七种学习美德是实现修身的个人能动性；美德不是修身的手段，而是修身在日常学习行为中的具体体现

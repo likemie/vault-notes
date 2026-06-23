@@ -107,7 +107,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - 古典地缘政治理论传统（Mackinder, Haushofer 等）——将地理空间视为国家权力的天然基础
 > - 现实主义[[Wight's Three Traditions of International Theory|国际关系理论]]（Dalby, 2013）——国家中心、自利驱动、无政府状态的国际体系
 > - [[Critical Geopolitics|批判地缘政治学]]——对古典地缘政治的"领土偏见"进行解构，揭示其与殖民主义和民族国家建构的历史关联。详见 [[Critical Geopolitics#核心命题]]

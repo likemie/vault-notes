@@ -79,7 +79,7 @@ updated: 2026-05-20
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > 有前景的学生这一概念依托于两个[[Theoretical Perspective|理论视角]]：
 
 - **Foucault 的 [[Governmentality|治理术]]（governmentality）**：治理术关涉"行为的引导"（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。有前景的学生正是通过 [[Online Self-Assessment|OSA]] 等自我技术被引导为"企业家型的学术主体"（entrepreneurial academic subject）([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])。

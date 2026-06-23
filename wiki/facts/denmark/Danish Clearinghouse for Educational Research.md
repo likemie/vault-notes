@@ -65,7 +65,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 该中心属于欧洲证据知情教育政策生态中的国家级证据机构。
 > - [[Educational Evidence Clearinghouses]] — 该中心是[[Systematic Review|系统综述]]型清算中心案例。
 

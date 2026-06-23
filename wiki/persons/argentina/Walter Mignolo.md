@@ -99,7 +99,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Mignolo 的核心思想可概括为三个层层递进的概念：
 
 **1. 殖民性（Coloniality）区别于殖民主义（Colonialism）**

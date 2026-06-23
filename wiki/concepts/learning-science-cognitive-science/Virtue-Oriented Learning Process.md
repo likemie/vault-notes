@@ -231,7 +231,7 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Confucian Learning Tradition]] — 儒家学习传统为美德导向学习过程提供了深层[[Cultural Models|文化模型]]
 > - [[Junzi]] — "君子"是学习者通过美德实践最终逼近的人格理想
 > - [[Heart and Mind for Wanting to Learn]] — "好学心"是美德导向学习过程的情感驱动力

@@ -75,7 +75,7 @@ Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、人力资本、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。
 
 Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹的经济现象，而是一种历史偶然的地缘政治星座（historically contingent geopolitical constellation），将空间、城市、国家、人力资本、教育和技术统合在一起([[Argument_Moisio_2022_Springer|Moisio, 2022, p.21]])。

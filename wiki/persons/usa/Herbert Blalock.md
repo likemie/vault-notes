@@ -41,7 +41,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Blalock 在[[Quantitative Research|量化研究]]中的核心贡献是倡导[[Causal Modeling|因果建模]]（causal modeling）——将口头理论重构为因果模型，使读者能够可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的符号规则：因变量置于右侧、自变量置于左侧；使用单向箭头表示因果方向；在路径上插入正负价符号表示关系方向；使用双向箭头连接模型中不受其他关系约束的变量之间的未分析关系([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.58]])。
 
 ## 思想发展

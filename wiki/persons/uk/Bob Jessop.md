@@ -68,7 +68,7 @@ Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会�
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 
 Jessop 对[[Knowledge-Based Economy|知识经济]]研究的核心贡献体现在三个相互关联的概念创新上：
 

@@ -83,7 +83,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 
 - **Moisio 的地缘政治分析**：Moisio（2018）将连接性定位为全球网络文明中竞争的关键资源，国家边界在"超大城市争夺连接性"的格局中越来越不相关。大学在这一地缘政治框架中扮演着节点角色([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
 - **Foucault 的 [[Governmentality|治理术]]**：竞争力的运作不是通过直接强制，而是通过塑造主体的自我理解和行为——大学为自身利益而"自愿"参与竞争，研究人员"自愿"追求卓越，学生"自愿"进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])

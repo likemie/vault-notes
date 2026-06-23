@@ -64,7 +64,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Educational Evidence Clearinghouses]] — IEE 的 Evidence 4 Impact 属于把项目证据转化为评级信息的机制。
 > - [[Evidence-Informed Practice]] — IEE 面向教师和学校传播证据知情实践。
 > - [[Argument_Pellegrini_2021_ROE]] — 集中拆解 IEE 所处欧洲证据基础设施的政策意义。

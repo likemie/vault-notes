@@ -96,7 +96,7 @@ updated: 2026-05-18
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - Pawson（2006）的[[Realist Evaluation|实在论评估]]框架：强调"情境—机制—结果"（Context-Mechanism-Outcome）的配置，为变革理论提供了方法论基础
 > - [[Performance Indicators]] — Le Galès（2016）的政策工具理论为理解变革理论何以是政策工具的构成维度提供了框架
 

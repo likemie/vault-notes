@@ -57,7 +57,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Delambre 的核心思想围绕张力作为存在和知识的基本条件展开，详见 [[Creative Tension of Sense#核心主张]] 和 [[Creative Tension of Sense#核心命题]]。其思想特点可概括为四个立场：
 >
 > 1. **诊断**：现代性的封闭理性已耗竭——环境危机本质上是认知方式的危机，而非单纯的技术或政策失败([[Argument_Delambre_2022_Springer|Delambre, 2022, p.108–109]])

@@ -60,7 +60,7 @@ updated: 2026-05-31
 
 ## 写作脚本
 
-> [!tip]
+> [!tip]-
 > Creswell & Creswell (2022, Ch7) 提供的描述性[[Quantitative Research|量化研究]]问题[[Research Writing Script|写作脚本]]：
 >
 > "What is the frequency and variation of scores on ____（[[Variable|变量]]名称____）for ____（参与者____）in the study?"

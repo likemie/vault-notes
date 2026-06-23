@@ -73,7 +73,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Technology Infusion]] — Azione LIM 是欧洲语境中的教育技术投入案例。
 > - [[Argument_Pellegrini_2021_ROE]] — 该案例用于说明证据本位政策选择为何能避免高成本低效果投入。
 

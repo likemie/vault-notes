@@ -84,7 +84,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Technology Infusion]] — STAT 是全学区技术融入的案例，说明技术改革很难被当作单一、边界清晰的干预来评价([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.113-115]])。
 > - [[Evidence-Based Education]] — STAT 展示了严格证据进入地方实践后，会受到项目目标、[[Formative Program Evaluation|形成性项目评价]]和利益相关者价值判断的共同塑造([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 

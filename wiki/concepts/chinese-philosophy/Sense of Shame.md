@@ -80,7 +80,7 @@ updated: 2026-05-22
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - 与[[Mencius|孟子]][[Four Sprouts|四端]]说的关联：羞恶之心 → 义([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43]])——耻感是义的先天萌芽
 > - [[Self-Cultivation]] — 耻是修身中自我纠正的内在机制
 > - [[Learning Virtues]] — 耻与诚心（真诚面对自己）和[[Humility in Learning|谦虚]]（承认不足）直接关联

@@ -47,7 +47,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面， he 提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 Lincoln 共同建立了[[Interpretive Paradigm|自然主义探究]]的[[Epistemology|认识论]]和操作体系，其中包括对模式理论的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎假设检验([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.67]])。
 
 > [!quote]

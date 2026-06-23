@@ -76,7 +76,7 @@ updated: 2026-05-22
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Five Cardinal Relationships]] — 礼为五伦关系提供互动规范
 > - [[Benevolence]] — 礼是通往仁的日常实践路径之一
 > - [[Confucius]] — 孔子阐述礼作为四通用道德原则之首

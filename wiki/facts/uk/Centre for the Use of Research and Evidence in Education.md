@@ -65,7 +65,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Evidence-Informed Practice]] — CUREE 支持教师和政策制定者把研究作为决策资源。
 > - [[Knowledge Mobilisation]] — CUREE 的核心功能是把[[Research Translation|研究转化]]为可理解、可使用的材料。
 

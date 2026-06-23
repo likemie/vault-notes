@@ -90,7 +90,7 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[World Society Theory]] — [[Argument_Zapp_2022_Springer|Zapp (2022)]] 将政策的科学化定位为世界社会运作的一个核心机制：世界社会没有中央权威，依赖[[Cultural Models|文化模型]]的扩散来运作；政策的科学化提供了文化模型扩散的认知基础——当科学证据成为合法性的构成要素时，拥有知识权威的行动者（特别是大学）就在去中心化的全球治理架构中获得了运作空间([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145, 148–149]])
 > - [[Constructivist Paradigm|建构主义]]国际关系学（Barnett & Finnemore, 2004; Wendt, 1999） — 为理解"为什么知识和观念在国际政治中重要"提供了理论框架：观念本身有建构性力量，它们改变了"什么是合理的"这个基准线([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 

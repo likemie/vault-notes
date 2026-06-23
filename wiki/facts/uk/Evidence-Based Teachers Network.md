@@ -64,7 +64,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Evidence-Informed Practice]] — EBTN 体现教师通过社群接触和使用证据。
 > - [[Knowledge Mobilisation]] — EBTN 通过网络交流和培训推动研究知识流动。
 > - [[EU Evidence-Informed Education Policy Initiatives]] — EBTN 属于欧洲证据传播生态中的实践者网络。

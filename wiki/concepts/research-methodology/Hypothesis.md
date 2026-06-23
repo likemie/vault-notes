@@ -106,7 +106,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 使用时机 | 已有研究、预测或理论提示发现可能走向特定方向 | 已有研究或理论不清或矛盾，或无法预测，结果更开放 |
 > | 示例 | 人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数 | 静音条件与音乐播放条件下，数学测试分数存在差异 |
 
-> [!tip] 方向性假设的写作要点
+> [!tip]- 方向性假设的写作要点
 > 方向性假设的常见形式是陈述两个变量之间预期关系的方向。以下为 Moore (2000) 在以色列女性性别认同研究中的范例（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
@@ -131,7 +131,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 > | 逻辑角色 | 被尝试**拒绝**的稻草人，如果被拒绝，则 H₁ 得到支持 | 研究者真正想**支持**的主张 |
 > | 书写形式 | `H₀: ...` | `H₁: ...` |
 
-> [!tip] 方向性备择假设
+> [!tip]- 方向性备择假设
 > 研究者应将备择假设写为方向性形式。例如：预测身高与体重之间存在正向关系，越高的人可能越重。方向性词汇包括 affect, influence, predict, impact, determine, cause, relate（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 >
 > *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*

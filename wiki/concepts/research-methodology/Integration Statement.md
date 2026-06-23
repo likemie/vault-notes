@@ -50,7 +50,7 @@ updated: 2026-06-02
 
 ## 写作脚本
 
-> [!tip]
+> [!tip]-
 > 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.251–252]])。
 
 **[[Convergent Design|聚敛式设计]]**：

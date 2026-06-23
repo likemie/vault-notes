@@ -65,6 +65,6 @@ SSPC 的成立源于一位学术关键行动者（化名 Robert）的发起。�
 ---
 ## 相关概念
 
-> [!tip]
+> [!tip]-
 > - [[UIC Evolutionary Phases]] — SSPC 是该四阶段模型的经验基础
 > - [[University-Industry Collaboration]] — SSPC 是产学合作网络的成功案例

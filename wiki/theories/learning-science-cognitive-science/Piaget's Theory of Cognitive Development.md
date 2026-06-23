@@ -52,7 +52,7 @@ updated: 2026-06-10
 
 ## 核心主张
 
-> [!tip] 基本立场与核心问题
+> [!tip]- 基本立场与核心问题
 > [[Jean Piaget|让·皮亚杰]] (Jean Piaget) 的认知发展理论是探讨人类智力与认知结构发生、发展规律的[[Constructivist Paradigm|建构主义]] (Constructivism)理论。该理论主张，认知发展并非仅仅是知识的累积，而是认知结构（即图式）发生质变的过程；儿童的思维 and 推理方式在不同发展阶段存在本质的、年龄依赖的质性差异 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 1)]]。
 > 
 > 近年来的神经科学整合研究进一步指出，这一阶段性的认知发展过渡，在底层生理机制上是[[Executive Function|执行功能]] (Executive Function, EF)随着[[Prefrontal Cortex|前额叶皮层]] (Prefrontal Cortex, PFC)的发育成熟而不断提升的函数 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。
@@ -143,7 +143,7 @@ updated: 2026-06-10
 
 ### 感觉运动阶段 (Sensorimotor Stage, 0–2 岁)
 
-> [!tip] 阶段定位
+> [!tip]- 阶段定位
 > 该阶段儿童表现出完全自我中心的世界观，无法将思想与行动分离，认知主要通过感觉和肌肉动作进行 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 2)]]。
 
 - **心理与认知特征**：儿童的主要发展任务是摆脱自我中心，并发展出**客体永久性 (Object Permanence)**——即认识到物体即使在视野外也依然存在 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 2)]]。
@@ -160,7 +160,7 @@ updated: 2026-06-10
 
 ### 前运算阶段 (Pre-operational Stage, 2–7 岁)
 
-> [!tip] 阶段定位
+> [!tip]- 阶段定位
 > 该阶段儿童开始掌握符号思维与语言，但思维具有集中性 (Centration) 和不可逆性，无法执行逻辑运算。
 
 - **心理与认知特征**：客体永久性牢固建立，符号思维发展。皮亚杰注意到 3–4 岁之前儿童无法通过液体守恒测试，但 5 岁时多数能完成 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, pp. 2–3, p. 10)]]。
@@ -179,7 +179,7 @@ updated: 2026-06-10
 
 ### 具体运算阶段 (Concrete Operational Stage, 7–11 岁)
 
-> [!tip] 阶段定位
+> [!tip]- 阶段定位
 > 该阶段儿童开始能够执行“运算”——即可用于操纵、转换并将物体恢复原状的内部化行动，理解守恒原理，思维具备可逆性和去集中性 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 2)]]。
 
 - **心理与认知特征**：儿童能从多维度视角思考问题，掌握守恒和类包含逻辑。这一认知灵活性在 10 岁左右达到一个临界点 (Tipping Point)（大多可达成人水平） [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 12, p. 13)]]。
@@ -199,7 +199,7 @@ updated: 2026-06-10
 
 ### 形式运算阶段 (Formal Operational Stage, 11–16 岁及以后)
 
-> [!tip] 阶段定位
+> [!tip]- 阶段定位
 > 该阶段儿童发展出抽象、假设演绎和反射性智能 (Reflective Intelligence)，能够系统预判所有组合和可能的结果 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3, p. 15)]]。
 
 - **心理与认知特征**：能够完全脱离具体实物进行逻辑推理，通过命题进行思维，并掌握假设演绎推理能力。

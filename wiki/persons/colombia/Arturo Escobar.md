@@ -42,7 +42,7 @@ Arturo Escobar，哥伦比亚裔美国人类学家和设计理论家，以 pluri
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 
 **Pluriverse（多元世界）**：Escobar 的核心概念——不是单一世界（universe）而是多元世界（pluriverse）的制造。这与全球化作为霸权项目形成对照：[[Mondialisation]]（世界化）以具体的生活世界为主要参照，而非市场、劳动灵活化和文化同质性([[Argument_Amos_2022_Springer|Amos, 2022, pp.61–62]])。
 

@@ -87,7 +87,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 
 ## 文化根源
 
-> [!tip]
+> [!tip]-
 > Li 综合研究文献，提出了西方 nerd 同伴文化得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge|Li, 2012, pp.94–99]])：
 
 ### 1. 固定自我观

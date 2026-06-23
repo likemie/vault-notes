@@ -65,7 +65,7 @@ updated: 2026-05-23
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 治理术（governmentality / gouvernementalité）是 Foucault 在其后期讲座中提出的权力分析概念，指一种以人口为对象、以政治经济学为知识形式、以安全配置（apparatus of security）为核心技术的治理理性。Thompson 等人（2022, p.226）在分析竞争性大学中的主体化时，将其核心界定为"行为的引导"（conduct of conduct）——权力不是通过强制和禁止直接作用于主体，而是通过塑造主体的自我理解和自我实践，使个体"自由地"做出符合治理目标的选择。
 
 > [!quote]

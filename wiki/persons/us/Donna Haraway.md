@@ -41,7 +41,7 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 
 **[[Sympoiesis]]（共同制造）**：Haraway 的核心概念，意为"与他人一起制造"（making with），与 [[Autopoiesis]]（自我制造）形成对照。Haraway 强调 sympoiesis 与 autopoiesis 的差异，否定后者对自我指涉性的强调。Sympoiesis 意味着[[Humility in Learning|谦逊]]地、response-able 地回应彼此需求([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 

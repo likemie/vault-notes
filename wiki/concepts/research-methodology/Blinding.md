@@ -52,7 +52,7 @@ updated: 2026-05-31
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > 盲法的理论基础与[[Experimenter Bias|实验者偏差]]（Experimenter Bias）直接相关：若施测结果测量的实验者知道某受试者接受的是"有益"的处理条件，实验者可能以更积极、更有暗示性或更鼓励的方式施测结果测量，从而人为放大处理效应。盲法通过切断这一知情路径来消除偏差（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 实证发现

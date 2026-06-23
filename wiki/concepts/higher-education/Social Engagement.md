@@ -90,7 +90,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Academic and Social Integration]]（Tinto, 1993）— 社交融入维度是社会性投入的理论原型
 > - [[Student Engagement]]（Kuh, 1991）— 提供了社会性投入的[[Operationalization|操作化]]定义和行为指标
 > - [[Employability]]（Brown & Hesketh, 2003）— 揭示了社会性投入在[[Knowledge-Based Economy|知识经济]]时代的新功能——积累就业力

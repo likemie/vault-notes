@@ -108,7 +108,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
 > - [[Theories of Policy Change]] — Innovation Union 承载"[[Innovation Ecosystem|创新生态]]体系→经济增长"的核心因果叙事
 > - [[Selectivity]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新

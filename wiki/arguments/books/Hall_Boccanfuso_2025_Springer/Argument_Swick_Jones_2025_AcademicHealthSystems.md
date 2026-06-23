@@ -118,7 +118,7 @@ citation_aliases:
 
 ---
 
-> [!tip] 创新文化：[[Academic Medical Center|AMC]] 与 [[Academic Health System|AHS]] 的关键区分
+> [!tip]- 创新文化：[[Academic Medical Center|AMC]] 与 [[Academic Health System|AHS]] 的关键区分
 > [[Applied Medical Innovation|AMI]] 的第三个驱动力是创新文化，具体而言是 [[Academic Health System|AHS]] 这种特定组织形态所培育的文化。AHS 区别于传统的[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）：**AMC 是学术-临床的二元结构，AHS 是学术-临床-产业的三元融合**(p.179)。这一区分是后续全部论证的逻辑基础——正是因为 AHS 同时容纳了三种逻辑，才能在产学合作中扮演促进者角色。详见 [[Academic Health System]] 和 [[Academic Medical Center]]。
 
 ---
@@ -235,7 +235,7 @@ citation_aliases:
 
 基于前五步论证（第一步：AMI 需要产学合作 → 第二步：AHS 具备结构性优势 → 第三步：七重挑战使单一组织无法独立完成 → 第四步：既有框架需修正 → 第五步：COVID-19 证明了目标对齐的力量），逻辑必然指向：产学合作各方如何在尊重优先级差异的同时，围绕共同目标对齐？
 
-> [!tip] [[Values Alignment Model|价值对齐模型]]的核心逻辑
+> [!tip]- [[Values Alignment Model|价值对齐模型]]的核心逻辑
 > 让 AHS 充当促进者，将所有伙伴拉向他们共享的价值，同时尊重他们不共享的价值(pp.190–191, Fig. 10.5)。对每一个合作必须追问三个问题：
 > - 这里的"价值对齐"意味着什么？
 > - 什么反向潮流（counter currents）正在将我们拉离对齐？

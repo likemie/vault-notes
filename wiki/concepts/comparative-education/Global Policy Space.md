@@ -89,7 +89,7 @@ updated: 2026-06-08
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - Castells 的[[Network Society|网络社会]]理论与[[Space of Flows and Space of Places|流动空间]]／地方空间区分 — 全球政策空间分析的空间基础
 > - Lyotard 的[[Performativity|操演性]]概念 — 解释全球政策空间中政治运作的逻辑
 > - Dale 的超国家和教育治理分工理论 — 全球政策空间的分析前提之一

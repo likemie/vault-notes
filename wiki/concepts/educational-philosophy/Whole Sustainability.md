@@ -71,7 +71,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Creative Tension of Sense]] — Whole Sustainability 是该理论在可持续性领域的直接应用。可持续性被重新定义为"在新旧发展[[Paradigm|范式]]张力中发现和保护[[Life Power|生命力量]]"([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])
 > - [[Ganz-Methode]] — Whole Sustainability 通过 Ganz-Methode 的整体进路实现[[Operationalization|操作化]]——将发展模式的所有相关张力同时纳入考量([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 112–113]])
 

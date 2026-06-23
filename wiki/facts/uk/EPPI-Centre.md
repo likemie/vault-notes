@@ -70,7 +70,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Educational Evidence Clearinghouses]] — EPPI-Centre 是英国证据中介和[[Systematic Review|系统综述]]机构。
 > - [[Evidence-Informed Practice]] — EPPI-Centre 支持证据进入政策和实践决策。
 > - [[Argument_Pellegrini_2021_ROE]] — 说明 EPPI-Centre 在欧洲证据基础设施中的位置。

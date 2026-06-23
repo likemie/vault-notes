@@ -47,7 +47,7 @@ Julian Huxley（1887–1975），英国生物学家和科学管理者，UNESCO �
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 
 Huxley 的[[Transhumanism|超人类主义]]定义包含一个至今仍被引用的核心表述：
 

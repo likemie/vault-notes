@@ -60,7 +60,7 @@ updated: 2026-05-25
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Five Cardinal Relationships|五伦]] — Family Social Model 以五伦中的父子、长幼关系为基础模板，向所有社会关系扩展
 > - [[Ritual Propriety|礼]] — 类亲属称谓的使用和相应的行为规范体现了礼的秩序
 > - [[Self-Cultivation|修身]] — 帮助同学被视为展现[[Learning Virtues|学习美德]]中的慷慨与责任，求助则展现[[Humility in Learning|谦逊]]

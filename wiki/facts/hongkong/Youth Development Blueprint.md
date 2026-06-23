@@ -64,7 +64,7 @@ updated: 2026-05-25
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Psychologisation]] — 青年不满的心理化治理
 
 ---

@@ -77,7 +77,7 @@ updated: 2026-06-03
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Evidence-Informed Practice]] — 知识动员为 EIP 提供中介机制解释，说明证据如何从研究世界进入实践世界。
 > - [[Professional Judgment]] — 知识动员并不取消专业判断，反而预设研究知识必须经过实践者的情境化判断才能产生作用。
 

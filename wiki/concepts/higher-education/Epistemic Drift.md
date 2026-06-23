@@ -74,7 +74,7 @@ Zapp 将认识漂移与 [[Epistemic Governance|知识治理]] 的内在风险直
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Epistemic Governance|知识治理]]（Epistemic Governance） — [[Argument_Zapp_2022_Springer|Zapp (2022, pp.154–155)]] 将认识漂移定位为知识治理的固有风险之一：知识治理使大学和研究者进入全球治理的核心，但这种"进入"也意味着研究者受到治理议程的结构性牵引，认识漂移是这一张力的具体表现
 
 ---

@@ -56,7 +56,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Pearson 在 1904 年的分析中同时追求两个目标：合并多项小研究的发现以获得更可靠的答案，以及探索研究间效果变异的原因。这两个目标构成了[[Meta-analysis|元分析]]的核心概念([[Argument_Higgins_2016_RE|Higgins, 2016, p.33]])。
 >
 > 他将每项研究的结果以独立行呈现，列出效果测量值和研究内不确定性测量，最后一行给出平均相关系数作为汇总估计。这种呈现方式预示了后来[[Meta-analysis|元分析]]中[[Forest Plot|森林图]]（forest plot）的标准形式([[Argument_Higgins_2016_RE|Higgins, 2016, p.33]])。

@@ -117,7 +117,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Performance Indicators]] — EUROSTAT 区域教育指标是 Skills Agenda 的核心治理工具
 > - [[Selectivity]] — Skills Agenda 在[[Lifelong Learning|终身学习]]中系统性地优先就业维度
 > - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事

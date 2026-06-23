@@ -76,7 +76,7 @@ updated: 2026-06-09
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - **[[Learning Economy|学习经济]]**（Lundvall & Johnson, 1994）— 该模型将创新过程重新定位在学习经济的语境中。学习经济强调知识和学习（而非传统生产要素）是经济竞争力的核心来源。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 864)]]
 > - **[[Chain-linked Model|链式模型]]**（Kline & Rosenberg, 1986）— 该模型是对链式模型的更新和扩展。保留了链式模型关于科学被调用也被创新过程所生产、反馈循环和创新的不确定性等核心洞见，同时补充了组织维度、多元知识来源和制度环境。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 863–864)]]
 > - **[[Absorptive Capacity|吸收能力]]**（Cohen & Levinthal, 1990）— 界面概念与吸收能力密切关联。界面为企业提供了识别和吸收外部知识的管道，而吸收能力决定了企业能从这些管道中获取多少价值。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]

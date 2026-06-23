@@ -115,7 +115,7 @@ updated: 2026-06-20
 4. **创建[[Alternative Hypothesis|方向性备择假设]]**：[[Null Hypothesis|零假设]]预测总体中无关系或无显著差异；备择假设预测存在显著关系，且最好写为方向性形式。
 5. **使用方向性量化词汇**：affect, influence, predict, impact, determine, cause, relate。
 
-> [!tip] [[Research Writing Script|写作脚本]]
+> [!tip]- [[Research Writing Script|写作脚本]]
 > 描述性量化研究问题：What is the frequency and variation of scores on [变量] for [参与者] in the study?
 >
 > 关系型量化研究问题与[[Directional and Non-directional Hypotheses|方向性假设]]：[理论] posits that [解释变量间关系]。It is thus predicted that there will be a relationship between [预测变量] and [结果变量], such that [解释效应的方向]。

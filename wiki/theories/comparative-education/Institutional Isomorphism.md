@@ -48,7 +48,7 @@ updated: 2026-05-18
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 制度同构（institutional isomorphism）是 DiMaggio & Powell（1983）提出的组织社会学理论：处于同一组织[[Champ|场域]]（organizational field）中的组织，在竞争之外还通过三种制度性机制——强制型、模仿型和规范型同构——在结构和实践上趋向同质化。该理论超越了对市场竞争和技术效率的单一关注，将规范、合法性和制度环境置于组织分析的中心。
 
 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]将该理论应用于跨国公司[[Corporate Education|企业教育]]的分析：不同类型和不同策略的企业教育偏好不同的同构机制，而 MNCs 能否创建跨国教育空间在很大程度上取决于其能否调动这三种同构机制所对应的权威来源([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183–184]])。

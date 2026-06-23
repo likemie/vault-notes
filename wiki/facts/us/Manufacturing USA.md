@@ -44,7 +44,7 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[Research and Technology Organisation]] — Manufacturing USA 研究所是 RTO 的美国版本。
 > - [[Fraunhofer Society Model]] — 德国 Fraunhofer 研究所是 Manufacturing USA 在政策设计上的重要参照。
 > - [[ROI Initiative for Unleashing American Innovation]] — 同属美国联邦创新体系，[[Return on Investment|ROI]] Initiative 侧重政策环境优化，Manufacturing USA 侧重具体的技术研发与扩散。

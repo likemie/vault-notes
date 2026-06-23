@@ -45,6 +45,6 @@ GBA 的制度环境具有独特的[[Heterogeneity|异质性]]——三个管辖�
 ---
 ## 相关概念
 
-> [!tip]
+> [!tip]-
 > - [[University-Industry Collaboration]] — GBA 的核心目标之一是通过产学合作推动区域创新
 > - [[Triple Helix]] — GBA 的发展策略涉及大学-产业-政府的三重螺旋互动

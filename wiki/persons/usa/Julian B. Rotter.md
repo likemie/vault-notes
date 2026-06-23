@@ -45,7 +45,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Rotter 的核心贡献包括两个方面。第一，他系统阐述了[[Social Learning Theory|社会学习理论]]的四类[[Variable|变量]]：行为 (behavior)、期望 (expectancies)、强化 (reinforcement) 和心理情境 (psychological situations)。第二，他提出了一般行为公式：特定心理情境中行为发生的潜力，是该行为将导致特定强化的期望与该强化价值的函数（Rotter, 1975, p.57; 引自 Creswell & Creswell, 2022, p.61）。公式中的期望[[Construct|构念]]进一步被定义为内部[[Locus of Control|控制点]]（个体相信强化是特定行为的函数）和外部控制点（结果被归因于运气、命运或有权力者）。[[Causality|因果关系]]感知根据先前经验和情境复杂性在连续体上变化(Rotter, 1966; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.61]])。
 
 > [!quote]

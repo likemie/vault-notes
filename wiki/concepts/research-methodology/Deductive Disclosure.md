@@ -52,7 +52,7 @@ updated: 2026-06-22
 
 ## 应对策略
 
-> [!tip] 预防演绎披露的[[Recommendations for Practice|实践建议]]
+> [!tip]- 预防演绎披露的[[Recommendations for Practice|实践建议]]
 > 研究者应在发表前审查研究报告中的描述性细节，确保即使读者试图重新组合细节以识别受访者，也无法做到（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 212]]）。具体做法包括：
 > 1. 修改或模糊化可能唯一识别个体的特征组合
 > 2. 对人口统计学信息进行区间化处理（如"40-55 岁"而非"50 岁"）

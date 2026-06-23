@@ -80,7 +80,7 @@ updated: 2026-06-09
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - **[[School Effectiveness|学校效能]]与学校改进运动** — 教学领导力的复兴继承了该运动的持久遗产，试图论证校长行为与学生表现之间的实证[[Causality|因果关系]]。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
 
 ---

@@ -65,6 +65,6 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[Knowledge Exchange]] — LERU 提倡通过研究者流动促进产学之间的知识交流。
 - [[Professors of Practice]] — LERU 的建议与增加产学人员流动性的倡议一致，包括联合任命和产业教授等机制。

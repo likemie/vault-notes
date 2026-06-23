@@ -66,6 +66,6 @@ updated: 2026-06-10
 
 ## 理论语境
 
-> [!tip]
+> [!tip]-
 > - 与 [[Innovation Ecosystem|创新生态系统]] 的关系 — 强大的本地创新生态系统通过增加[[Knowledge Production|知识生产]]和创新组织的密度、减少搜索成本和促进人员流动，可以帮助加速技术跨越死亡之谷
 > - 与 [[Technology Readiness Level|技术就绪度]]（TRL）的关系 — 死亡之谷通常对应 TRL 3–7 之间的阶段；对早期技术就绪度活动的[[Return on Investment|投资回报]]更难量化，要求管理者能够承担知情风险（pp.21–22）

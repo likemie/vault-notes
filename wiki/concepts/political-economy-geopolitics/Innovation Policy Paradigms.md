@@ -125,7 +125,7 @@ updated: 2026-05-27
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - Schot & Steinmueller（2018）"Three Frames for Innovation Policy"——三[[Paradigm|范式]]框架的原始出处，发表于 Research Policy
 > - Lindner et al.（2024）——将三范式定位于"科学推动与政策拉动之间"的更广历史分析中
 > - [[Systems of Innovation]]——第二个范式的理论基础

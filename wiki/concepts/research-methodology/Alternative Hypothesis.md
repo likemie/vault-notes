@@ -76,10 +76,10 @@ updated: 2026-06-21
 
 研究者应将备择假设写为方向性形式，即不仅预测存在关系，还预测关系的方向。[[Directional and Non-directional Hypotheses|方向性假设]]用于已有研究或理论提示发现可能走向特定方向的情境，统计上要求单尾检验（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）。
 
-> [!tip] 方向性词汇
+> [!tip]- 方向性词汇
 > 方向性备择假设的常用词汇包括 affect, influence, predict, impact, determine, cause, relate 等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
-> [!tip] 方向性备择假设示例
+> [!tip]- 方向性备择假设示例
 > 预测身高与体重之间存在正向关系，越高的人可能越重。
 >
 > *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*
@@ -108,7 +108,7 @@ updated: 2026-06-21
 >
 > *The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.*
 
-> [!tip] [[Research Writing Script|写作脚本]]
+> [!tip]- [[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的关系型[[Quantitative Research|量化研究]]问题与方向性假设的写作脚本：
 >
 > 理论名称认为解释了[[Variable|变量]]间的关系。因此预测，预测变量与结果变量之间存在关系，且其方向为解释预测变量与结果变量之间效应的方向。

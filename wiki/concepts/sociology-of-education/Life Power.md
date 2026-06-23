@@ -65,7 +65,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Creative Tension of Sense]] — 生命力量是张力理论的核心实践概念，代表了从"承载张力"到"发现意义"的转化过程([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–116]])
 > - [[Ganz-Methode]] — 生命力量通过 Ganz-Methode 的第二步被系统性地识别和描述([[Argument_Delambre_2022_Springer|Delambre, 2022, p.113–114]])
 

@@ -64,7 +64,7 @@ updated: 2026-05-25
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > Peer-Supported Learning 的文化基础：
 > - 同学 — 同伴即"一同学习的朋友"，而非地位平等的竞争者
 > - [[Learning Virtues|学习美德]] — 帮人者展现慷慨与责任，求助者展现[[Humility in Learning|谦逊]]，均属学习美德

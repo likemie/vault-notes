@@ -72,7 +72,7 @@ updated: 2026-05-22
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Five Cardinal Relationships]] — 孝是五伦之首对关系（父子）的子女向德目
 > - [[Self-Cultivation]] — 孝是修身在家庭[[Champ|场域]]中的基本实践
 > - [[Confucius]] — 孔子是孝的主要阐述者

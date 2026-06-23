@@ -47,7 +47,7 @@ updated: 2026-05-31
 
 理论在研究中可能以多种形式出现——作为论证、讨论、图示、依据或视觉模型（"A theory might appear in a research study as an argument, a discussion, a figure, a rationale, or a visual model," p.53）。
 
-> [!tip] 彩虹比喻
+> [!tip]- 彩虹比喻
 > 彩虹架起自[[Variable|变量]]和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。这一比喻形象地说明了理论视角章节的核心功能——连接变量并为变量间关系提供解释框架([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])。
 
 ## 在量化研究中的位置

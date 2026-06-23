@@ -38,7 +38,7 @@ updated: 2026-06-02
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 社会学习理论（social learning theory）试图在认知心理学与行为修正原理之间实现平衡的综合。其统一理论框架以认知、行为和环境决定因素之间的持续交互互动来解释人类行为（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）。
 
 > [!quote]

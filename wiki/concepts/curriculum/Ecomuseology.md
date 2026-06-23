@@ -75,7 +75,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Creative Tension of Sense]] — 新旧博物馆学[[Paradigm|范式]]之间的张力是"意义张力"在文化遗产制度领域的呈现。生态博物馆学在旧秩序（建筑中心、专家权威）内部培育了一种以地域和社区为核心的新范式([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–112]])
 > - [[Ganz-Methode]] — 生态博物馆学的操作逻辑与 Ganz-Methode 两步法对应。详见 [[Ganz-Methode#核心要素]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 112–113]])
 > - [[Decolonial Geopolitics of Knowledge]] — 生态博物馆学以地域和社区的知识权威替代西方博物馆学的专家权威，是去殖民[[Epistemology|认识论]]在文化遗产制度中的实践

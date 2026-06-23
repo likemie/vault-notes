@@ -402,7 +402,7 @@ updated: 2026-06-21
 
 #### 检索技巧
 
-> [!tip] 网络检索的四个操作符
+> [!tip]- 网络检索的四个操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
 > - **星号（\*）** 在词根后加星号，返回不同结尾的网站，如 teach\* 返回 teach, teaching, teacher
 > - **波浪号（\~）** 在词前加波浪号，识别相似词，如 \~English teaching 同时返回 English language 和 English teaching

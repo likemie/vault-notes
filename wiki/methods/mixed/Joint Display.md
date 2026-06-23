@@ -80,6 +80,6 @@ updated: 2026-05-30
 
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip]-
 > - Mixed Method and [[Multimethod Research|multi-method research]]，联合展示是[[Mixed Methods Research|混合方法研究]]中实现数据整合的具体分析工具，服务于混合方法设计的整合环节。
 

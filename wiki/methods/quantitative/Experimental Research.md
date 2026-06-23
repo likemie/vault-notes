@@ -185,7 +185,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ---
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip]-
 > - **真实验（True Experiment）** 受试者被[[Random Assignment|随机分配]]到处理条件中，[[Internal Validity|内部效度]]最高（Campbell & Stanley, 1963）。
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
 > - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。

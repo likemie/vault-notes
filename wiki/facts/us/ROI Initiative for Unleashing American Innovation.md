@@ -52,6 +52,6 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[Manufacturing USA]] — 同属美国联邦创新体系中的公私合作机制，[[Return on Investment|ROI]] Initiative 关注[[Technology Transfer|技术转移]]政策优化，Manufacturing USA 关注制造技术研发和扩散。
 - [[Technology Transfer]] — ROI Initiative 的直接政策目标即是优化联邦资助研究的技术转移效率。

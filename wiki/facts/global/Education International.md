@@ -64,7 +64,7 @@ EI 与 IMF / 世界银行的联盟表明，[[Global Policy Space|全球政策空
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Performativity|操演性]] — EI 与 IMF 和世界银行的悖论性联盟是操演性驱动联盟行为的典型案例：[[Pragmatic Paradigm|实用主义]]的联盟逻辑压倒意识形态一致性。
 > - [[Global Policy Space|全球政策空间]] — EI 是该空间中多元行动者的重要组成部分，代表了[[Global Citizenship|全球公民]]社会和劳工组织在教育政策话语中的参与。
 > - [[Pragmatic Paradigm|实用主义范式]] — EI 的联盟决策体现了实用主义压倒意识形态的全球政策空间政治运作逻辑。

@@ -71,7 +71,7 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 ---
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 Knight 提出[[International Education Hubs|国际教育枢纽]]（IEH）超越了传统的跨境高等教育概念，代表了一种"更广泛且更具战略性的行动者和活动配置"（Knight, 2014a, p.84, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.43]]）。她将 IEHs 定义为国家层面的战略项目——将自身建设和定位为"有吸引力和公认的教育、培训、[[Knowledge Production|知识生产]]和创新活动中心"。
 
 > [!quote]

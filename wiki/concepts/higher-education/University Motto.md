@@ -87,7 +87,7 @@ updated: 2026-05-22
 
 ## Li 的比较分析
 
-> [!tip]
+> [!tip]-
 > Li 从中西校训对比中提炼出三个核心洞察([[Argument_Li_2012_Cambridge|Li, 2012, pp.33-34, 54-55]])：
 
 ### 1. 西方：真理、光明、心智、自由
@@ -126,7 +126,7 @@ updated: 2026-05-22
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Confucian Learning Tradition]] — 中国校训的语义基础：[[Self-Cultivation|修身]]优先于探究世界
 > - [[Self-Cultivation]] — "自强不息""明德""至善"的核心指向
 > - [[Learning Virtues]] — "勤奋""忠信""诚朴"与七种学习美德的对应

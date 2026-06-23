@@ -105,7 +105,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Evidence-Informed Practice]] — 欧盟更常采用的政策语言，强调研究证据是决策资源之一。
 > - [[Evidence-Based Reform]] — 与 Slavin 式强证据项目和政策激励相比，欧洲路径更强调倡议、指导和知识中介。
 > - [[Educational Evidence Clearinghouses]] — 欧洲证据政策依赖中介机构把[[Research Translation|研究转化]]为可用信息。

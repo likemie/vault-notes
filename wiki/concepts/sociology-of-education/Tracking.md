@@ -61,7 +61,7 @@ updated: 2026-05-25
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Talent Assumption]] — 分轨制的运作基础是"才能是天生的"的假设，即学业前景是固定而非可发展的
 > - [[Entity vs Incremental Intelligence]] — Dweck 的实体论智力观为分轨提供了认知基础：如果智力是固定的，那么分轨只是"如实分类"
 > - [[Intellectual-Social Divide]] — 分轨制制度化地再生产了知性-社交二分：学术轨学生被默认为不善社交，普通轨学生被默认为不学术

@@ -51,6 +51,6 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[Strength in Places Fund]] — 同属英国产业战略框架下的另一机制，但侧重基于地点的区域研发投资，而 ISCF 侧重全国性挑战领域。
 - [[Netherlands Top-sector Policy]] — 荷兰顶级行业政策在产业主导和挑战驱动的逻辑上与 ISCF 类似。

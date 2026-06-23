@@ -98,7 +98,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > 6. **撰写[[Abstract|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的[[Literature Review|文献综述]]
 > 7. **组织文献综述** 按主题或核心概念结构化组织，以主要主题的总结结尾
 
-> [!tip] 迭代搜索策略
+> [!tip]- 迭代搜索策略
 > 先使用在线词表中的描述词进行初步搜索，找到一篇与[[Research Topic|研究主题]]相关的期刊文章，然后仔细查看这篇文章使用的描述词，再用这些词进行第二轮搜索。索引者使用的描述词往往比研究者自己想到的关键词更精确（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 ---
@@ -111,7 +111,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 #### 检索操作符
 
-> [!tip] 四个检索操作符
+> [!tip]- 四个检索操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
 > - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 teach\* → teach, teaching, teacher）
 > - **波浪号（\~）** 在词前加波浪号，识别相似词（如 \~English teaching 同时返回 English language 和 English teaching）

@@ -50,7 +50,7 @@ updated: 2026-05-25
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 宋明理学（Neo-Confucianism）是宋明时期（960-1279; 1368-1644）[[Confucian Revival in China|儒学复兴]]的思想运动，其核心主张是：[[Confucius|孔子]]所倡导的道代表了宇宙万物背后的**天理**（heavenly principle），遵循此道即达到最高原理。理学重新开启并深化了儒家的学习传统，将成为[[Sage|圣人]]设定为每个学习者的终极目标，并主张这一目标人人可达([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 
 > [!quote]

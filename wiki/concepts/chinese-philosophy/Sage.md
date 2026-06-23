@@ -87,7 +87,7 @@ updated: 2026-05-22
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Benevolence]] — 圣人是仁的最完整实现者([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])
 > - [[Junzi]] — 圣人位于君子之上的层级
 > - [[Take the World Upon Oneself]] — 圣人以天下为己任的终极形态

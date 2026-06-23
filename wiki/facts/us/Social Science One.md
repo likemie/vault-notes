@@ -49,6 +49,6 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[King-Persily Model]] — Social Science One 是该模型的首个实施载体。
 - [[Responsible Innovation]] — Social Science One 的设计体现了负责任创新的核心原则：前瞻性地在创新过程中嵌入隐私保护和伦理治理。

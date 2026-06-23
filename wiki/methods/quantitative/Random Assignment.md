@@ -114,7 +114,7 @@ updated: '2026-06-19'
 > - **模型或统计量**：组间均值差异检验，以及考虑聚类效应的层级线性模型（HLM）。
 > - **诊断与检验**：组间基线不平衡诊断、样本流失率（Attrition Rate）检验。
 
-> [!tip] 随机分配 vs. [[Random Sampling|随机抽样]]
+> [!tip]- 随机分配 vs. [[Random Sampling|随机抽样]]
 > 随机分配（Random Assignment）和[[Random Sampling|随机抽样]]（Random Sampling）是两个不同的概念。随机抽样涉及如何从总体中抽取样本，目的是提升样本对总体的代表性（保障[[External Validity\|外部效度]]）。随机分配涉及如何将已选取的样本分派到实验条件中，目的是消除组间系统性偏差以确立[[Causality\|因果关系]]（保障[[Internal Validity\|内部效度]]）。([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]])
 
 ---

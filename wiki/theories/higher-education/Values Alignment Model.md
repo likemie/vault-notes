@@ -35,7 +35,7 @@ updated: 2026-06-02
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 价值对齐模型（Values Alignment Model）是一个以[[Academic Health System|学术健康系统]]（Academic Health System, AHS）为促进者、帮助[[University-Industry Collaboration|产学合作]]各方围绕共同价值对齐的框架（pp.190–191）。核心主张是：在[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）的产学合作中，各方（大学、产业、医院、医师）拥有不同的优先事项和回报定义，但可以通过将患者置于中心来重新对齐——找出各方共享的价值，同时尊重不共享的价值（pp.190–191）。
 
 > [!quote]

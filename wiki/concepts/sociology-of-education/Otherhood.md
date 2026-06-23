@@ -90,7 +90,7 @@ updated: '2026-05-18'
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[World Society Theory]] — otherhood 是世界社会理论的核心机制：由于世界社会缺乏传统的控制与权威机制，它本质上通过 otherhood 建构——即通过围绕进步与正义等宏大目标的[[Cultural Models|文化模型]]扩散与模仿来运作（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）
 
 ---

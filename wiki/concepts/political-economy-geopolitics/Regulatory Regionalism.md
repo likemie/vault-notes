@@ -92,7 +92,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Global Regionalisms]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被整合进大规模政治经济区域整合项目
 > - [[Geopolitics of Knowledge]] — 将监管实践置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
 > - [[Performance Indicators]] — 绩效指标是监管区域主义的核心操作机制，Le Galès（2016）的技术—权力双重性框架解释了其如何运作

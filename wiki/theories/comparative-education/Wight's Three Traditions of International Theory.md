@@ -38,7 +38,7 @@ updated: 2026-06-08
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > Martin Wight 在 1950 年代末至 1960 年代的系列讲座中，将国际关系思想归纳为三大传统：现实主义（realism）、理性主义（rationalism）和[[Revolutionism|革命主义]]（revolutionism）。这三大传统是英国学派（English School of International Theory）国际理论的基础（Navari and Green 2014）。每一传统对国际社会的性质、主要行动者及其行为方式提供了不同的理解，从而也使比较教育的不同形态成为可能([[Argument_Klerides_2023_CE|Klerides, 2023, p.417]])。
 
 > [!quote]

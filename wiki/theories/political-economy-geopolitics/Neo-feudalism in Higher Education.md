@@ -47,7 +47,7 @@ updated: 2026-06-01
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 高等教育新封建主义（Neo-feudalism in Higher Education）是 Schulze-Cleven et al.（2017）引入高等教育研究的[[Paradigm|范式]]概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])。
 
 这一概念借用了 [[Jürgen Habermas|Habermas]]（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注(Neckel, 2013; Zinn, 2015; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
@@ -103,7 +103,7 @@ updated: 2026-06-01
 
 ## 与相关理论的关系
 
-> [!tip]
+> [!tip]-
 > - **Bourdieu 的学术[[Champ|场域]]**：[[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 > - **新 Weber 式权力分析**：探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式(Clark, 1983; Gumport, 2007; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 > - **马克思主义[[Knowledge Capitalism|知识资本主义]]分析**：将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]]）

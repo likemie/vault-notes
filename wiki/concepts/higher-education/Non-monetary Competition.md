@@ -78,7 +78,7 @@ updated: 2026-06-01
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > 两组理论为揭示非货币竞争提供了分析线索([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])：
 
 ### 微观社会学实践理论

@@ -110,7 +110,7 @@ updated: 2026-05-26
 
 ## 相关理论
 
-> [!tip]
+> [!tip]-
 > - [[Official Knowledge]]（Apple & Christian-Smith, 1991）—— 教科书作为支配群体合法化其文化视角的场所，为比较分析提供了制度批判的理论基础
 > - [[Imagined Community]]（Anderson, 2006）—— 教科书作为制造"民族想象"的印刷资本主义／教育系统机制，为分析国家叙事提供了概念工具
 

@@ -35,7 +35,7 @@ updated: '2026-05-18'
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > 世界体系理论（world-systems theory）由 Immanuel Wallerstein（1974, 2006）提出，将全球空间想象为三层结构：欧美中心（core）、由较弱西方国家和少数其他国家组成的"半边缘"（semi-periphery），以及大多数前殖民地所在的"边缘"（periphery）。各国是全球资本主义经济关系"总体性"的函数，"不存在'国家发展'这回事"（Wallerstein, 1974, p. 390）。这一等级体系是固定的——世界层面的"剩余"有限，一国之上升必须以另一国之衰落为代价（Wallerstein, 1976, p. 466）。Wallerstein 是欧洲中心主义的批评者，但认为除非资本主义被废除，否则这一格局不可避免([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 12–13]])。
 
 > [!quote]

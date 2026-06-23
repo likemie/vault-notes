@@ -89,7 +89,7 @@ updated: '2026-05-23'
 - 亚裔移民学生在北美、欧洲、澳大利亚、新西兰等地同样表现出更高成就
 - 2009 年上海首次参与 PISA 即获第一([[Argument_Li_2012_Cambridge|Li, 2012, pp.81-82]])
 
-> [!tip] 悖论的两种解读路径
+> [!tip]- 悖论的两种解读路径
 > 悖论可以从两个方向解读。**缺陷解读**（deficit reading）：高成就来自考试压力和家庭强制，以心理健康为代价——这种解读长期主导了大众媒体叙事。**重新理解解读**（reinterpretation reading）：看似低效的学习方式在不同文化框架下具有不同的意义和功能——这是 Watkins、Biggs 和 Li 等研究者推动的方向。[[Argument_Li_2012_Cambridge|Li (2012, pp.74-78)]]对两种解读均提供了实证审查，详见 [[Examination Hell#争议与批评]]。
 
 ---
@@ -120,7 +120,7 @@ updated: '2026-05-23'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Confucian Learning Tradition]] — 悖论的"高成就"一面的文化解释来源：儒家传统将学习视为 [[Self-Cultivation|修身]] 的道德项目，由此衍生出 [[Learning Virtues|学习美德]] 的个人能动性系统
 > - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
 > - [[Cultural Models]] — Li 的研究框架：文化模型影响和引导（但不决定）成员行为，因此 CHC 学习者的行为需要在 CHC 文化模型内而非西方模型内被理解

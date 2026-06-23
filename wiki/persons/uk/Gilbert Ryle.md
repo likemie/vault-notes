@@ -39,13 +39,13 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip] [[Knowledge-that and Know-how-to|知其然]]与知其所用的区分
+> [!tip]- [[Knowledge-that and Know-how-to|知其然]]与知其所用的区分
 > Ryle (1946) 区分了两种知识形式：知其然（knowledge-that）是关于某事是什么的命题性知识，知其所用（know-how-to）是关于如何做某事的应用性知识。这一区分成为[[Curriculum Design Coherence Model|课程设计连贯性模型]]的理论基础之一（引自 McPhail et al., 2023）。
 
-> [!tip] 知其然与知其所用的连接
+> [!tip]- 知其然与知其所用的连接
 > Ryle (1946) 指出：「真正掌握一项知其然，意味着知道如何在需要时运用该知识来解决其他理论或实际问题」（p.16）。这一观点强调了两种知识形式之间的内在联系，即有效拥有一项知其然必然涉及知其所用。在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，这种联系被视为[[Surface and Deep Learning|深层学习]]的先决条件（引自 McPhail et al., 2023）。
 
-> [!tip] 命题的功能
+> [!tip]- 命题的功能
 > Ryle (1946) 认为命题是提出主要主张的陈述，它们通过声称「某事是如此」来提供对知其然的清晰识别。命题在课程设计中起着关键作用，为教师和学生提供关于应学什么的清晰信号（引自 McPhail et al., 2023）。
 
 ---

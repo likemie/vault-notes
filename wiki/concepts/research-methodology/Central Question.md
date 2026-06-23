@@ -98,7 +98,7 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 
 ## 写作脚本与范例
 
-> [!tip] 质性核心问题[[Research Writing Script|写作脚本]]
+> [!tip]- 质性核心问题[[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script|写作脚本]]：
 >
 > "____ (How or what?) is the ____ ([[Central Phenomenon]]) for ____ (participants) at ____ (research site)."

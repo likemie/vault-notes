@@ -69,7 +69,7 @@ updated: '2026-05-18'
 
 ## 在 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 企业教育分析中的应用
 
-> [!tip]
+> [!tip]-
 > Hartmann 在[[Corporate Education|企业教育]]跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个[[Central Phenomenon|核心现象]]：
 
 ### 为何 IVET 难以国际化？
@@ -100,7 +100,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 
 
 ## 在高等教育学术资本主义多样性分析中的应用
 
-> [!tip]
+> [!tip]-
 > Schulze-Cleven & Olson将 VoC 框架应用于高等教育部门，展示了[[Academic Capitalism|学术资本主义]]的多样性如何映射 [[Varieties of Capitalism|资本主义多样性]] 的类型差异([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])：
 >
 > - **自由市场经济体（LMEs，以美国为代表）**：亲市场规制传统，高等教育市场化最为深入——营利性院校大量[[Emergence|涌现]]，学费和学生贷款驱动的金融化程度最高，州政府拨款占比在 2003–2012 年间下降近半

@@ -63,7 +63,7 @@ updated: 2026-05-25
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Zero-Sum Competition]] (School) — Cooperative Competition 的反面：西方学校中零和竞争导致对高成就者的敌意与[[Tall Poppy Syndrome|高罂粟]]花综合症
 > - [[Learning Virtues|学习美德]] — 东亚学生在竞争中体现的学习美德（勤奋、坚持、[[Humility in Learning|谦逊]]）使竞争本质从对抗转为共同提升
 > - 同学 — 同学作为"共同学习的朋友"的文化语义，使竞争在合作关系中进行

@@ -83,7 +83,7 @@ updated: 2026-05-22
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Self-Cultivation]] — 五伦提供了修身的主要实践[[Champ|场域]]
 > - [[Benevolence]] — 在五伦中的完善实践导向仁
 > - [[Ritual Propriety]] — 礼是调节五伦关系的社会语法

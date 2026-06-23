@@ -69,7 +69,7 @@ citation_aliases:
 
 ## 核心论点
 
-> [!tip]
+> [!tip]-
 本章提出，当前高等教育正经历一种"新的[[Geopolitics of Knowledge|知识地缘政治]]"（New [[Geopolitics of Knowledge]]）——高等教育被整合进不同行动者在全球[[Knowledge-Based Economy|知识经济]]中确立和改善自身地位的政治经济想象和计算之中。这种整合不仅催生了对高等教育未来的（再）想象，而且正在重塑和转变高等教育的使命和基础设施。高等教育机构已成为知识密集型资本主义的核心场所——被同时视为专有知识（专利、创新）、创新学习环境和人力资本及关联主体性（associated subjectivities）的主要生产场所(pp.36–39)。
 
 ## 理论框架

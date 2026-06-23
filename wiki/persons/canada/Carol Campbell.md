@@ -37,7 +37,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip] 核心思想
+> [!tip]- 核心思想
 > Campbell 的位置更适合先按主题理解：
 >
 > - **严格证据必须配合严格[[Professional Judgment|专业判断]]**：成为 evidence-informed 不只需要高质量研究，还需要教育者通过认真、可辩护的专业审议过程来整合证据；证据本身不足以直接指导实践([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.132]])。

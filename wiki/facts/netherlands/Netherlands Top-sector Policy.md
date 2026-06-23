@@ -74,6 +74,6 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[Triple Helix]] — 该政策明确旨在让三重螺旋机制运转起来。
 > - [[Industrial Strategy Challenge Fund]] — 英国的产业战略挑战基金在逻辑上有类似之处，同为产业主导、挑战驱动的创新政策。

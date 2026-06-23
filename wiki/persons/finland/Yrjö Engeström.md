@@ -63,7 +63,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Engeström 的核心贡献在于将[[Third Generation Activity Theory|活动理论]]从一个解释个体认知发展的框架，扩展为分析集体活动系统互动和变革的理论工具。
 
 ### 从个体中介到集体活动系统

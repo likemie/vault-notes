@@ -108,7 +108,7 @@ Group B  X2 ———————————————— O
 
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip]-
 > - [[Quasi-Experimental Designs]] — 准实验设计增加了对照组和时间序列观测，[[Internal Validity|内部效度]]高于前实验设计。
 > - [[Experimental Research]] — 真实验通过[[Random Assignment|随机分配]]获得最高的内部效度。
 

@@ -85,7 +85,7 @@ updated: '2026-05-18'
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Organizational Actorhood]] — USR 是组织能动者身份中社会嵌入性维度的具体化：大学通过 USR 表明自己不仅是[[Knowledge Production|知识生产]]机构，更是对社会负责的公民组织（Bromley & Meyer, 2015）
 > - [[Otherhood]] — USR 实践是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])
 

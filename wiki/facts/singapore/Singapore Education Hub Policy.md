@@ -123,7 +123,7 @@ updated: 2026-05-19
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 - [[International Education Hubs]] — 新加坡是 IEH 的典型和先驱案例，其"东方波士顿"+"全球校园"的双阶段模式为 Knight 的三类型学提供了实证注脚
 - [[Hub and Flow Imaginaries]] — "东方波士顿"是 Hub and [[Flow]] 想象在国家政策层面的教科书级运作
 - [[Knowledge-Based Economy]] — KBE 话语为新加坡教育枢纽提供了全部合法性框架

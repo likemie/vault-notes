@@ -89,7 +89,7 @@ updated: 2026-05-20
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[World Society Theory]] — 世界社会理论是知识治理的核心理论基础：世界社会缺乏传统的控制与权威中心，本质上通过[[Cultural Models|文化模型]]的扩散与模仿（即 [[Otherhood]] 机制）来运作，而大学和科学正提供了这些文化模型的合法化内容（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）
 > - [[Evidence-Based Education]] — 证据本位教育是知识治理在教育政策领域的具体表现，政策制定者通过诉诸科学证据来为决策提供合法性([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
 

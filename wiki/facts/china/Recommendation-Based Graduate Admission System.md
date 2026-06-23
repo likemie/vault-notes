@@ -95,7 +95,7 @@ updated: '2026-05-18'
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Goal-Controlled Mode]] — 推免制度天然有利于从大一起就有策略性学业规划的目标掌控者（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - [[Intuition-Dependent Mode]] — 直觉依赖者可能因入学初期低估绩点重要性而错失推免资格([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - [[Credential Inflation]] — 文凭通胀是推免竞争日趋激烈的结构性背景：本科学位交换价值缩水 → 研究生成为求职主力军 → 推免竞争白热化([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])

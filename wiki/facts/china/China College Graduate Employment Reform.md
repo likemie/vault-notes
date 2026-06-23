@@ -87,7 +87,7 @@ updated: '2026-05-18'
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Credential Inflation]] — 就业市场化与高校扩招叠加，加速了文凭通胀的进程（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - [[Economy of Experience]] — 市场化就业环境下，软实力竞争催生了履历经济学([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度与就业市场化构成中国大学生毕业出路的两大制度性框架([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])

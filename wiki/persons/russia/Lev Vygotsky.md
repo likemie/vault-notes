@@ -39,7 +39,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > **科学概念与自发概念**。维果茨基区分了科学概念（scientific concepts）和自发概念（spontaneous concepts）。科学概念是在学校教育中系统传授的、具有明确结构和逻辑关系的概念；自发概念是在日常生活中自然形成的、缺乏系统结构的概念。这一区分被[[Social Realism|社会实在论]]学者用于区分日常知识和[[Epistemology|认识论]]知识([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---

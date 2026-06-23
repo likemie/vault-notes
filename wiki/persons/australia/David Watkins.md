@@ -40,7 +40,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Watkins 与 [[John Biggs]] 的核心贡献在于，将长期困扰西方研究者的一个矛盾现象系统化为可研究的学术问题——即 **[[Paradox of the Chinese Learner|中国学习者悖论]]**：中国／东亚教育系统在教学方法上看似落后（教师中心、灌输式、应试导向），但学生却在国际比较中反复取得优异成就。Watkins 和 Biggs 的立场是，这一悖论不能用西方既有理论框架来解释，而需要深入理解[[Confucian Heritage Cultures]] (CHC) 学习者的文化信念和学习过程([[Argument_Li_2012_Cambridge|Li, 2012, p.73]])。
 
 > [!quote]

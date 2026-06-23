@@ -200,7 +200,7 @@ updated: 2026-06-05
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Systems of Innovation]]
 > - [[Technology Transfer]]
 > - [[Open Competition Mechanism|揭榜挂帅]]

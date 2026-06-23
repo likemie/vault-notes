@@ -426,7 +426,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环理解为相互支撑的三重螺旋。产学合作是 Triple Helix 中大学-产业这一边的具体互动形式，其运作深受政府政策（如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、[[National Science Foundation|NSF]] 资助机制）的塑造（p.13）
 > - [[Innovation Ecosystem]] — 产学合作发生在创新生态系统内部；大学作为生态系统的"锚点"，通过与企业和其他机构的互动催化知识创造和商业化（pp.12–13）
 > - Kerr 的 [[Multi-University]] 概念（2001）— 多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报（研究与学术、教育与学习、公共效益），同时财务资源和声誉是维持多元大学运转的[[Necessary and Sufficient Conditions|必要条件]]（pp.5–7）

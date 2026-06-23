@@ -74,7 +74,7 @@ updated: 2026-05-31
 
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip]-
 > - [[Factorial Design]] — 因子设计通常使用受试者间设计，但也可包含受试者内[[Variable|变量]]。
 > - [[Random Assignment]] — 受试者间设计通常依赖随机分配来消除组间系统性偏差。
 

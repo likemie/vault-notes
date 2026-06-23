@@ -92,7 +92,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Li 的核心理论主张是：东亚与西方各自拥有系统而完整的学习[[Cultural Models|文化模型]]（cultural learning models），两种模型分别植根于不同的知识传统与价值取向，并在儿童的学习信念、情感与行为层面产生深远而系统性的差异。
 
 具体而言，Li 的研究以[[Heart and Mind for Wanting to Learn|好學心]]（[[Heart and Mind for Wanting to Learn]]）这一中国本土概念为切入点，对比欧裔美国精英学生对学习的理解，发现两种文化在学习的意义、目标、过程与情感维度上几乎没有重叠——尽管两种文化都重视学习、拥有悠久的智识传统和相似的教育制度([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。

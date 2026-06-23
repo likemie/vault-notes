@@ -66,7 +66,7 @@ updated: 2026-06-10
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Knowledge Exchange|知识交流]] — KEF 是对大学知识交流活动的系统化度量和基准化尝试
 > - [[Innovation Ecosystem|创新生态系统]] — KEF 旨在增强大学在创新生态系统中的可见度和可接近性
 > - [[Third Mission (Universities)|大学第三使命]] — KEF 是政府系统性评估和激励大学第三使命（在研究和教学之外的经济发展和知识交流职能）的制度化工具

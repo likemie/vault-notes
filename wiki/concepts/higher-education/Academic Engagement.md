@@ -102,7 +102,7 @@ updated: 2026-05-27
 
 ### 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Academic and Social Integration]]（Tinto, 1993）— 学业融入维度是学业投入的理论原型
 > - [[Student Engagement]]（Kuh, 1991）— 提供了学业投入的操作化定义和行为指标
 > - [[Student Involvement]]（Astin, 1984）— 提供了"能量投入"的质性视角（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）

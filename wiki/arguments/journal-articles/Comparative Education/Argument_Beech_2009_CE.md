@@ -92,7 +92,7 @@ issuing_organization: ""
 > [!claim] 核心主张
 > 当定义信息时代“受教育身份”的教育话语从[[Global Policy Space|全球政策空间]]移动到国家层面、再到以地方为基础的学校实践时，由于不同空间层面独特的结构属性与政治逻辑，话语不可避免地经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有知识框架中介的“微观本土化[[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。
 
-> [!concept-lens]- 阅读透镜
+> [!concept-lens] 阅读透镜
 > - **对象** 全球教育话语（以“能力发展”和“尊重多样性”为典型追踪线索）从超国家网络（OECD、世界银行、UNESCO等）经由国家政策文件设计，最终流向学校课堂与教师日常实践（聚焦拉美的巴西、阿根廷及玻利维亚等经验场景）的完整路径(pp.348–353)。
 > - **张力** 传统比较教育学中的“[[Methodological Nationalism|方法论民族主义]]”将空间等同于国家地理边界的横向对比，与跨国[[Network Society|网络社会]]中“[[Space of Flows and Space of Places|流动空间]]”与“地方空间”的纵向不对称权力博弈之间的张力；以及国家在政策文本层面对矛盾声明的“功能性包容（[[Governance by Spin|舆论操控]]）”与学校在行动层面对“教学一致性”的要求之间的张力(pp.349, 356, 359)。
 > - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity|操演性]]概念，建立了一个解释跨空间层级的话语再语境化（recontextualisation）[[Analytic Framework|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制(p.361)。

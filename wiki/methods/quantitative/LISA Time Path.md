@@ -192,7 +192,7 @@ updated: 2026-06-12T18:30:00
 
 ## 相关方法
 
-> [!tip]
+> [!tip]-
 > - [[LISA Spatiotemporal Transition]] — LISA时空路径关注连续轨迹的几何特征，LISA时空转移关注离散状态间的跳转概率，两者互补
 > - Moran's I — 全局和局部Moran's I是LISA时空路径的基础分析层
 > - [[Coupling Coordination Model]] — 耦合协调模型提供可被LISA时空路径追踪的综合发展指标

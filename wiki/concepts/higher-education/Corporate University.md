@@ -85,7 +85,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Institutional Isomorphism]] — 企业大学的三种类型各自对应不同的同构机制：学校型以强制型同构为主（管理层可见之手），学院型以模仿型和规范型同构为主（同行评审网络），高级研究院型以模仿型同构为主（模仿顶尖大学）。企业大学命名本身就是模仿型同构的经典案例([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.189]])
 > - 企业大学获取权威的四种策略——模仿高等教育、专业认证、同行评审、外包给营利性提供商——详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四步
 

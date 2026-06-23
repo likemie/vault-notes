@@ -56,7 +56,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Spohrer 的核心贡献是为产学关系管理提供了一个可操作的分类和度量框架。六 R 框架将[[University-Industry Collaboration|产学合作]]按功能分为 Research、Readiness、Recruiting、Revenue、Responsibility、Regions 六个领域，每个领域配有对应的量化度量指标，使产学投资组合的管理从依赖个人经验转变为可追踪、可比较、可随战略转型而重新校准的系统行为。这一框架的提出背景是 IBM 在 2000 年代和 2010 年代的两次战略转型——从全球整合企业到认知计算与混合云——每一次转型都要求对产学投资组合进行全面重新校准。
 
 > [!quote]

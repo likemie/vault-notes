@@ -82,7 +82,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Network Society|网络社会]]理论（Castells, 1996）— 解释跨国研究合作的网络化结构转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
 > - "网络财富"（Benkler, 2006）— 解释社会生产如何通过网络化协作转变市场和自由([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
 > - [[Geopolitics of Knowledge|知识地缘政治]] — 跨国研究合作是知识地缘政治在制度层面的关键运作[[Champ|场域]]，合作的条件、方向和收益分配深受地缘政治格局影响([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–100]])

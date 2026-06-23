@@ -84,7 +84,7 @@ updated: '2026-06-06'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > **双轴模型**。Cowen (1996) 以两个相交轴可视化教育从现代到晚期现代的结构性转型。
 >
 > - **现代模型**：纵轴为 polis-driven（城邦驱动），上端为教育机会平等、下端为国家文化认同；水平轴为[[International Education|国际教育]]关系与经济增长（Cowen, 1996, pp.160–162，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.55]]）。

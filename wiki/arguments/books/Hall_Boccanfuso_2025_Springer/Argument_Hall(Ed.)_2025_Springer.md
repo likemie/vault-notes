@@ -240,7 +240,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!tip]
+> [!tip]-
 > 全书共用的[[Theoretical Perspective|理论视角]]。
 
 - [[Triple Helix]] — Etzkowitz & Leydesdorff(1995)的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环(p.13)

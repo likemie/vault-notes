@@ -68,7 +68,7 @@ updated: 2026-05-30
 
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip]-
 > - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的[[Constructivist Paradigm|建构主义]]版本，更强调研究者与参与者在意义建构中的共同作用，强调理论的建构性而非发现式生成。
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于描述某一现象的本质体验，扎根理论的目标是生成解释过程或行动的理论。
 > - vs [[Ethnography]] — 民族志聚焦于描述整个文化群体的共享模式，扎根理论则聚焦于某一具体过程或行动。

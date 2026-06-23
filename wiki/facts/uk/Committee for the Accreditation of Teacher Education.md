@@ -63,7 +63,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[New Sociology of Education]] — CATE 压缩了 NSE 通过教师教育课程传播的制度条件([[Argument_Ball_2008_SR|Ball, 2008, pp.658-659]])。
 > - [[School Effectiveness]] — 二者都参与了教师专业知识从学科性和批判性取向向技能、能力和可管理性转化的政策背景([[Argument_Ball_2008_SR|Ball, 2008, pp.659, 665]])。
 

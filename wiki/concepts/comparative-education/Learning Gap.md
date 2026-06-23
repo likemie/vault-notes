@@ -107,7 +107,7 @@ Hess 和 Azuma 发现美国教师偏好高效、快节奏的教学风格，而�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Chinese Learner]] — [[Argument_Li_2012_Cambridge|Li (2012)]] 将学习差距研究作为中国学习者[[Cultural Models|文化模型]]的重要实证基础之一，特别是努力归因与 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）之间的文化连续性
 > - [[Western Learner]] — 能力归因与西方模型中"区分最有能力者与普通者"的倾向([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])一脉相承
 > - [[Confucian Learning Tradition]] — 东亚的努力归因可追溯至儒家传统中"人人皆可为尧舜"的平等主义——天赋差异存在，但不决定学习结果([[Argument_Li_2012_Cambridge|Li, 2012, pp.49-52]])

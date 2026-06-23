@@ -88,7 +88,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Critical Geopolitics|批判地缘政治学]] — Rizvi 以此作为分析国际化背后地缘政治动态的核心透镜，关注空间与政治关系的意识形态建构([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91]])
 > - [[Geopolitics of Knowledge|知识地缘政治]] — 亚洲崛起通过国际化政策影响高等教育系统的构成方式，更通过知识的生产、传播和利用方式改变全球高等教育格局([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])
 

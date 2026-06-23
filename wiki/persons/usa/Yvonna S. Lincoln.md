@@ -45,7 +45,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Lincoln 与 Guba 的核心贡献在于为[[Qualitative Research|质性研究]]建立独立于量化传统的可信度标准体系。在理论运用方面，他们提出模式理论（pattern theories）——自然主义研究中发展的解释不同于[[Quantitative Research|量化研究]]的演绎形式，表现为相互关联的思想或部分连接为整体的模式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.67]])。
 
 > [!quote]

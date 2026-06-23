@@ -81,7 +81,7 @@ updated: 2026-05-31
 
 ## 写作脚本
 
-> [!tip] [[Mixed Methods Research|混合方法研究]]问题[[Research Writing Script|写作脚本]]
+> [!tip]- [[Mixed Methods Research|混合方法研究]]问题[[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script|写作脚本]]：
 >
 > "The mixed methods question in the study purpose or intent will be to ____ (compare, explain, build, augment) the ____ (quantitative data or qualitative data or process/framework) with ____ (quantitative data or qualitative data) by using a ____ (design: [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]], embedded design) with the procedure of ____ (merging, connecting, or embedding)."

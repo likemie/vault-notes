@@ -44,7 +44,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Stake 的案例研究方法论强调研究的艺术性和情境嵌入性。他提出[[Naturalistic Generalization|自然主义概括]]（naturalistic generalization）概念：在案例研究中，研究者在基于案例数据形成的命题性概括（propositional generalization）之外，还加入自己的个人经验。读者通过将案例描述与自身情境进行对照，自行完成认知推广，而非依赖统计概率([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.67]])。
 
 > [!quote]

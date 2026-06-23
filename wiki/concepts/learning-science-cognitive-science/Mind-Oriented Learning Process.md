@@ -162,7 +162,7 @@ updated: 2026-05-25
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Socratic Tutoring Style]] — [[Socrates|苏格拉底]]式追问传统为批判性思维的提问和挑战权威提供了文化原型
 > - [[Examined Life]] — 未经省察的生活不值得过，为探究和反思提供了哲学根基
 > - [[Mind and Its Wonders]] — 西方智力传统中对心灵力量的核心信仰

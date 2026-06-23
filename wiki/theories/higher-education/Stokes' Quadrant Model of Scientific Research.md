@@ -38,7 +38,7 @@ updated: 2026-06-02
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > Stokes（1997）在 [[Use-Inspired Basic Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出，传统的[[Blue Skies Research|基础研究]]-[[Evaluation Research|应用研究]]一维谱系不足以描述科学研究的多样性。他以两个独立维度——对基础理解的追求（quest for fundamental understanding）和对应用的考虑（considerations of use）——构建了一个二维四象限模型（p.310）。
 > [!quote]
 > "traditional linear models viewed basic and applied research as opposite ends of a spectrum, but Stokes argued that both could exist in the same research program. Pasteur's fundamental discoveries in microbiology both advanced fundamental understanding of fermentation and disease mechanisms and served the practical needs of food preservation and disease treatment—a type of research Stokes called 'use-inspired basic research.'" (summarized from Stokes, 1997)

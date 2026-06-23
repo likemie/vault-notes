@@ -76,7 +76,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Argument_Pellegrini_2021_ROE]] — 该政策是欧洲[[Evidence-Based Reform|证据本位改革]]面临评估复杂性的核心案例。
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 该框架与欧盟证据知情政策共同构成欧洲教育治理背景。
 

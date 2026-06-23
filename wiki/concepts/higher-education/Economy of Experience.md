@@ -83,7 +83,7 @@ updated: 2026-05-18
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Employability]]（Brown, 2003）— 就业力的相对化是履历经济学的概念前提
 > - [[Credential Inflation]]（Collins, 1979）— 文凭通胀提供了履历经济学兴起的结构性条件
 > - [[Cultural Capital]]（Bourdieu）— 履历资本的积累能力本身是阶层化的，优势阶层拥有更多可用于投资课余经历的文化和经济资本（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）

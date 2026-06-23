@@ -84,7 +84,7 @@ updated: 2026-05-23
 > [!success] 实证发现
 > 在实证研究中，勤奋（qinfen）指做出明确决心之后的**频繁学习行为**——因此意味着大量时间投入。一个独特的实证细节：学习者常在做出决心后与家人、密友或教师**分享学习目标**，这些"见证人"（witnesses）负责监督决心与后续行动的一致性([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-92]])。这显示了勤奋不仅是个体内在品质，还是**社会嵌入的行为**——与 [[Take the World Upon Oneself|以天下为己任]] 中"学习者的社会角色"一脉相承。
 
-> [!tip] 勤奋的三阶段过程：[[Familiarization|熟]] → 练 → 精
+> [!tip]- 勤奋的三阶段过程：[[Familiarization|熟]] → 练 → 精
 > Li 在分析学习过程时，将勤奋／自勉拆解为三个连续的阶段，描述了从初次接触到最终精通的完整路径([[Argument_Li_2012_Cambridge|Li, 2012, pp.126-134]])：
 >
 > | 阶段 | 中文 | 核心任务 | 目标 |
@@ -221,7 +221,7 @@ updated: 2026-05-23
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Self-Cultivation]] — 七种学习美德是实现修身的内在品质基础；美德不是修身的手段，而是修身在日常学习行为中的具体体现
 > - [[Benevolence]] — 学习美德是通往仁的[[Necessary and Sufficient Conditions|必要条件]]
 > - [[Heart and Mind for Wanting to Learn]] — 好學心是动力源，学习美德是动力机制，两者构成概念地图中最大的集群

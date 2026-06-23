@@ -284,7 +284,7 @@ updated: 2026-06-17
 > [!critique] [[Argument_Berk_2011_ER|Berk (2011)]]：[[External Validity|外部效度]]与机制理解的优先性
 > Berk 援引多位经济学家（Heckman & Smith, 1995; Heckman, 2000; Deaton, 2008）的核心观点：因果效应估计"几乎是没用的，除非人们也了解因果效应产生的机制"。他反对非随机研究被断然否定的做法："这是一个严重错误，尤其当[[Internal Validity|内部效度]]仅仅是多种重要效度之一时"（[[Argument_Berk_2011_ER|Berk, 2011, p.195]]）。
 
-> [!tip] [[Argument_Berk_2011_ER|Berk (2011)]] 的[[Pragmatic Paradigm|实用主义]]辩护："铜标准"
+> [!tip]- [[Argument_Berk_2011_ER|Berk (2011)]] 的[[Pragmatic Paradigm|实用主义]]辩护："铜标准"
 > 尽管提出批评，Berk 也提供了独特的实用主义辩护：随机分配的最强理由也许是它比其它设计更能防止研究者犯严重的[[Type I and Type II Errors|统计错误]]。他将此立场概括为"铜标准"（bronze standard, Berk 2005）。核心原则："任何评估的基准是当前知识，而非完美。内部效度低于随机实验的设计有时也可以提供证据"（[[Argument_Berk_2011_ER|Berk, 2011, pp.195–196]]）。
 
 > [!critique] [[Argument_Zhao_2017_JEC|Zhao (2017)]]：副作用盲点

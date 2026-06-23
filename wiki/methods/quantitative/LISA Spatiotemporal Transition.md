@@ -188,7 +188,7 @@ updated: 2026-06-12T18:30:00
 
 ## 相关方法
 
-> [!tip]
+> [!tip]-
 > - [[LISA Time Path]] — LISA时空路径从连续几何维度追踪轨迹，LISA时空转移从离散概率维度量化状态变化，两者互补构成ESTDA的完整[[Analytic Framework|分析框架]]
 > - Moran's I — 全局和局部Moran's I是LISA时空转移的基础分析层
 > - Markov Chain — 空间转移矩阵本质上是一阶Markov转移矩阵在空间分析中的应用

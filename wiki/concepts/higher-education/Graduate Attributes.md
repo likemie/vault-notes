@@ -162,7 +162,7 @@ updated: '2026-05-26'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - **高等教育市场化理论**：大学需要向学生证明其价值和[[Return on Investment|投资回报]]，推动了毕业生特质在本科层次的产生与发展([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1340]])。博士层次同样受此驱动——就业多元化使大学面临培养"不只做学术"的博士毕业生的问责压力([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.86]])
 > - **学科社会化理论**（disciplinary socialization）：博士培养不仅传递知识技能，更传递"什么是有价值的职业路径"的隐性规范。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的访谈揭示了这一机制：导师和院系文化主动暗示非学术路径是"次等选择"，从而系统性地压制了对可转移技能和职业发展的需求表达（p.96）
 

@@ -80,7 +80,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 
 ## 相关理论
 
-> [!tip]
+> [!tip]-
 > - [[Implementation Fidelity]] — 逻辑模型为判断项目是否按计划实施提供参照。
 > - [[Absorptive Capacity]] — 共同建构逻辑模型可以增强关键伙伴对项目的理解，从而提高评价证据进入改进实践的可能性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.123-124]])。
 

@@ -69,7 +69,7 @@ updated: "2026-05-22"
 
 ## 理论基础
 
-> [!tip] 理论基础
+> [!tip]- 理论基础
 > - [[Effective Teaching]] — 个别化教学可被看作有效教学中“适配学生前提条件”的一部分，而不是独立万能策略。
 > - [[Visible Learning]] — Hattie 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
 

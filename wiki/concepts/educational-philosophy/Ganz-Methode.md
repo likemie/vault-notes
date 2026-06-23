@@ -76,7 +76,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Creative Tension of Sense]] — Ganz-Methode 是该理论的实践维度。[[Epistemology|认识论]]与方法是双向互构的：张力认识论依赖于 Ganz-Methode 的整体进路，而整体进路取决于张力认识论的意义张力概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.117]])
 
 ## 实证发现

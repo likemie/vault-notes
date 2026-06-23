@@ -81,7 +81,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 > [!quote]

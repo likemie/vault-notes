@@ -168,7 +168,7 @@ updated: 2026-05-28
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > 创新中心的研究和文献支撑来自多个学科方向([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125–126]])：
 
 - **[[Triple Helix]]**（Etzkowitz & Leydesdorff, 1995）：大学-产业-政府三者之间的反馈循环，解释了创新中心为何需要三方同时在场

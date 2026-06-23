@@ -138,7 +138,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 > [!warning] 领导力与联盟的关键性
 > 发展有效的本地创新生态系统需要强大的领导力，以及建立涉及大学、产业和地方政府关键利益相关者的本地联盟——特别是要发展共同的本地创新愿景和实现这一愿景的战略。关键参与者之间的信任和认同至关重要（p.10）。
 
-> [!tip] Lester 分类框架
+> [!tip]- Lester 分类框架
 > Lester 的大学贡献分类（[[Argument_Lester_2005_MIT|Lester, 2005]]）为理解大学如何根据本地产业的类型和产业生命周期阶段提供差异化的贡献提供了分析工具。峰会讨论中将该框架与本地生态系统建设策略相结合——指出思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献，是建设更有效生态系统的前提（pp.8–9）。
 
 ### 衍生企业与创业输出
@@ -154,7 +154,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
 - Schumpeter（1942）的创新理论 — "创造性破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
 - Ridley（2020）How Innovation Works — 强调自由、实验和开放竞争对创新的决定性作用（p.12）

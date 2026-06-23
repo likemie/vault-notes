@@ -99,7 +99,7 @@ SCD 中突出强调的技能主要是**结果导向的**（outcome-oriented）�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Credential Inflation]]（Collins, 1979）— 文凭通胀是就业力从绝对转向相对的结构性条件：当大学文凭供给超过白领岗位需求，文凭的交换价值下降，就业力竞争随之加剧（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 将就业力技能建构为话语性的、由外部期望所定义的个人化竞争项目，其核心机制详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258-263]])
 > - [[Governmentality]]（Foucault）— SCD 对就业力技能的塑造可被理解为一种远距治理技术：通过生产"可欲的"自我引导模式，使个体"自由地"将自己塑造为就业力主体。详见 [[Governmentality#远距治理]]([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.264-265]])

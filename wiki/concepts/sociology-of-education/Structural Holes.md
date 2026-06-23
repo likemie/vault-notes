@@ -65,7 +65,7 @@ Burt 的核心洞察是：社会资本不是由网络的"封闭性"（紧密联�
 ---
 ## 相关概念
 
-> [!tip]
+> [!tip]-
 > - [[Lefebvre's Spatial Triad]] — Cai 等将结构洞从社会网络扩展到 Lefebvre 的空间三元辩证法
 > - [[Social Capital Theory]] — 结构洞理论是社会资本理论的一个变体，强调社会资本的来源是网络的开放性而非封闭性
 > - [[University-Industry Collaboration]] — 产学合作网络中存在大量结构性空洞，关键节点教师在填补这些空洞中发挥核心作用

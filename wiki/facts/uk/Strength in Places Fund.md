@@ -45,6 +45,6 @@ updated: 2026-06-10
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip]-
 > - [[Industrial Strategy Challenge Fund]] — 同属英国产业战略框架下的另一核心机制，侧重产业主导的挑战驱动型研究。
 > - [[Innovation Ecosystem]] — 该基金的理念基础之一是战略性发展本地创新生态系统。

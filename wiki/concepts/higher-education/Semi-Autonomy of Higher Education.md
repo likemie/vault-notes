@@ -80,7 +80,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Hegemony|霸权理论]]（Gramsci） — 半自主性是 Gramsci 文化霸权理论的核心推论，详见 [[Hegemony#核心命题]]
 > - [[Double Spatiality of Universities]] — 大学双重空间性为半自主性提供了空间[[Ontology|本体论]]基础：大学扎根于国家又超越国家
 > - [[Scale in Higher Education]] — 尺度不可化约性论证了为什么国家尺度的分析不能替代其他尺度的分析

@@ -96,7 +96,7 @@ updated: '2026-05-18'
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[World Society Theory]] — 组织能动者身份是世界社会理论的核心概念之一，用于解释在全球[[Cultural Models|文化模型]]扩散过程中，各类组织（包括大学）如何获得标准化但同时又寻求独特性的组织身份（Bromley & Meyer, 2015）
 > - [[Otherhood]] — otherhood 是能动者身份在大学语境中的特殊表现形式：大学作为"他者"为其他行动者和社会目标行使代理权（Meyer & Jepperson, 2000）
 

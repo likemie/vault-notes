@@ -78,21 +78,21 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Cowen 的理论贡献由三个相互关联的概念框架组成，三者共享一个底层关切：教育在宏观社会变迁中的位置与变形机制。
 
 ---
 
 ### Transitology（转型学）
 
-> [!tip]
+> [!tip]-
 > [[Transitology]] 是 Cowen 原创的比较教育概念，分析教育在社会形态间跃迁中的角色。转型涉及国家机器、社会经济分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予破坏过去和重新定义未来的象征性和重构性角色（Cowen 2000, p.338）。Cowen 同时强调过去、现在与未来并非严格的线性关系，这一观察被 Amos 以 Günther Grass 的 [[Vergegenkunft]] 文学原则加以呼应([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。详见 [[Transitology]] 条目。
 
 ---
 
 ### 现代／晚期现代双轴模型
 
-> [!tip]
+> [!tip]-
 > 以两个相交轴可视化教育从现代到晚期现代的结构转型。现代模型以 polis-driven 为纵轴（教育机会平等与国家文化认同），以[[International Education|国际教育]]关系与经济增长为横轴。晚期现代模型中，纵轴转为 market-driven（内部效率与外部效能、劳动力分化），横轴转为国际经济与国际知识竞争（Cowen 1996, pp.160–162，引自 Amos, 2022, p.55）。
 >
 > [[Argument_Amos_2022_Springer|Amos (2022, pp.57–58)]] 将此模型应用于分析[[Regional University Alliances|区域大学联盟]]的运作逻辑：竞争排名、国际学生流动、研究资助争夺对应于晚期现代模型的 market-driven 纵轴和国际知识竞争横轴。
@@ -101,7 +101,7 @@ updated: '2026-06-08'
 
 ### 3T 框架（Transfer, Translation, Transformation）
 
-> [!tip]
+> [!tip]-
 > [[Transfer Translation Transformation|3T 框架]]是 Cowen (2009) 为分析教育知识跨国流动而提出的三阶段概念工具。转移是教育思想或实践的跨境移动，转译是接受语境中的重释和制度化，转化是社会经济权力对转译产物的进一步变形（Cowen 2009, p.255）。完整定义、原文引用和应用案例详见 [[Transfer Translation Transformation|3T 框架]]概念条目。
 
 ---

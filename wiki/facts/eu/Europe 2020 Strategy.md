@@ -117,7 +117,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Performance Indicators]] — 基准管理是 Europe 2020 的核心治理机制
 > - [[Theories of Policy Change]] — 战略承载"创新+教育=智能增长"的核心因果叙事
 > - [[Selectivity]] — 战略框架隐含的自由主义经济秩序预设构成结构性选择

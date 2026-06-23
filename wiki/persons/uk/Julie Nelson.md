@@ -38,7 +38,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip] 核心思想
+> [!tip]- 核心思想
 > Nelson 的贡献更适合按主题而不是按年份理解：
 >
 > - **把 [[Evidence-Informed Practice|EIP]] 概念做清楚**：与 [[Carol Campbell]] 共同主张 EIP 应被理解成[[Professional Judgment|专业判断]]、系统数据、课堂数据和研究证据的整合，而不是“多看一点研究”的宽泛口号([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.129]])。

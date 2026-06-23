@@ -67,7 +67,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Educational Evidence Clearinghouses]] — Campbell 是欧洲相关证据基础设施中的[[Systematic Review|系统综述]]型组织。
 > - [[Argument_Pellegrini_2021_ROE]] — 集中说明 Campbell 等组织在欧洲证据政策论证中的位置。
 

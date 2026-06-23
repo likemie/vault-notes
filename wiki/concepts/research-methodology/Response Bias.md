@@ -9,7 +9,7 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,16 @@ tags:
   - method/research-methods
   - theme/validity
   - theme/measurement
+related_concepts:
+  - "[[Construct]]"
+  - "[[Variable]]"
+  - "[[Interviewer Effects]]"
+  - "[[Hawthorne Effect]]"
+related_methods:
+  - "[[Survey Research]]"
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
 updated: 2026-06-23
@@ -28,9 +38,9 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 回应偏差（Response bias）指研究参与者的回应因受其身份、文化背景、动机或对研究情境的反应而**系统性偏离真实值**的现象。在调查研究中，最具代表性的形式是无回应偏差（nonresponse bias）——非回应者若做出回应，其回答将显著改变调查的整体结果（Fowler, 2014）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+> 回应偏差（Response bias）指研究参与者的回应因受其身份、文化背景、动机或对研究情境的反应而**系统性偏离真实值**的现象。在[[Survey Research|调查研究]]中，最具代表性的形式是无回应偏差（nonresponse bias）——非回应者若做出回应，其回答将显著改变调查的整体结果（Fowler, 2014）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
-从更广泛的跨文化和方法论角度看，回应偏差涵盖了研究参与者以系统不同方式回应项目、元素、构念或量表的现象——不仅关乎"谁不回应"，还关乎"回应者如何被自身文化和研究情境塑造了回答"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+从更广泛的跨文化和方法论角度看，回应偏差涵盖了研究参与者以系统不同方式回应项目、元素、[[Construct|构念]]或量表的现象——不仅关乎"谁不回应"，还关乎"回应者如何被自身文化和研究情境塑造了回答"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 > [!citation-card]- Fowler 对回应偏差的定义
 > 偏差意味着若非回应者做出了回应，他们的回答将显著改变调查的整体结果。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
@@ -49,7 +59,7 @@ updated: 2026-06-23
 > [!contrast-table] 回应偏差的类型辨析
 > | 类型 | 偏差来源 | 核心机制 | 典型场景 |
 > |---|---|---|---|
-> | 无回应偏差 | 部分人群根本不回应 | 非回应者在关键变量上系统不同于回应者 | 邮寄问卷回收率低 |
+> | 无回应偏差 | 部分人群根本不回应 | 非回应者在关键[[Variable\|变量]]上系统不同于回应者 | 邮寄问卷回收率低 |
 > | 社会期望偏差 | 回应者修饰回答 | 为呈现正面形象而扭曲回答 | 敏感话题调查 |
 > | 跨文化回应偏差 | 文化回应模式 | 不同文化成员以系统不同方式使用量表 | 跨文化比较研究 |
 > | 回应性偏差（acquiescence） | 受访者默认同意 | 倾向于说"是"而不管问题内容 | 访谈和态度量表 |
@@ -65,7 +75,7 @@ updated: 2026-06-23
 > - **波次分析**（Wave Analysis） 在调查回收期内逐周检查选定条目的回应变化。如果回应在最后几周开始发生系统性变化，则存在回应偏差的潜在可能。依据假设：在回收期最末几周返回调查的人近似于非回应者——如果他们（近似非回应者）的回应模式与早期回应者不同，说明非回应者的回应确实可能改变整体结果（Leslie, 1972）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 > - **回应者/非回应者对比** 电话联系少数非回应者，询问几个关键问题，比较他们的回应与已回应者是否存在实质性差异。这是一种对回应偏差的直接检查。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
-> [!tip] Hudson & Miller (1997) 降低问卷无回应偏差的十二项策略
+> [!tip]- Hudson & Miller (1997) 降低问卷无回应偏差的十二项策略
 > - 附上贴邮票的回邮信封；多轮追踪请求回寄（最多三轮）
 > - 强调问卷的重要性和益处，特别是对目标群体
 > - 向未回寄者提供已回寄者的期中数据以卷入研究

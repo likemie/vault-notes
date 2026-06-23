@@ -67,7 +67,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > 朱熹在三个关键方向上整合了[[Confucian Learning Tradition|儒家学习传统]]：
 
 ### 1. 格物致知：认知世界的必要性

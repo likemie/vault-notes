@@ -44,7 +44,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > King 是[[Policy Science in Comparative Education|政策科学]]理解形式的代表人物之一，主张比较教育可以且应该是政策科学。他提出了关键决策时刻（critical points of decision）的概念，认为自由民主国家应该在面临重要教育决策时寻求比较教育学者的建议([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > 在 1970 年代的方法论争论中，King 以权威姿态公开规训 Margaret Scotford Archer，这一事件被 Cowen 称为断裂（the fracturing），确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。

@@ -62,7 +62,7 @@ updated: 2026-06-11
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - **[[Evolutionary Economics|演化经济学]]**（Nelson & Winter, 1982）— 技术轨迹是演化经济学在创新研究中的核心应用概念，强调累积性学习和路径依赖
 > - **Dosi（1982, 1988）**— 技术[[Paradigm|范式]]（technological paradigms）与技术轨迹的区分：范式定义了"什么是有价值的技术问题"，轨迹定义了"沿着什么方向解决问题"
 > - **[[Pavitt Taxonomy|Pavitt 分类法]]** — 技术轨迹是 Pavitt 分类法的理论核心：不同产业类别的本质差异在于它们处于不同的技术轨迹上

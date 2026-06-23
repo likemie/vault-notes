@@ -52,6 +52,6 @@ updated: 2026-06-10
 ---
 ## 相关概念
 
-> [!tip]
+> [!tip]-
 > - [[Lester's Typology of University Contributions to Local Industry]] — LIS 项目的直接理论产出
 > - [[University-Industry Collaboration]] — LIS 项目研究的是大学在这种合作中的经济贡献

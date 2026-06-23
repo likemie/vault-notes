@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 ## 核心主张
 
-> [!tip]
+> [!tip]-
 > Creative Tension of Sense（意义创造性张力理论，简称张力理论，tension theory）是一种[[Epistemology|认识论]]（epistemology），主张"新"世界永远在"旧"世界内部诞生，新旧之间的张力不是需要被消除的问题，而是意义（sense）得以产生的根本条件。理论的核心主张是：所有知识领域和社会领域中都存在"意义张力"——即旧有意义模式与新出现意义之间的紧张关系——而认识和实践的任务不是选择新或旧，而是**承载张力**（sustain the tension），在张力中发现和创造新的生命意义([[Argument_Delambre_2022_Springer|Delambre, 2022, p.106, 111–112]])。
 >
 > 该理论明确反对现代性的"封闭理性"（closed rationality of modernity），主张将理论与实践始终放在一起思考，从具体情境中的意义张力出发，而非从抽象的价值判断出发([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])。

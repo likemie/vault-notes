@@ -45,7 +45,7 @@ updated: 2026-06-12
 ---
 ## 核心思想
 
-> [!tip]
+> [!tip]-
 > Castells 的核心理论贡献在于提出了[[Informationalism|信息主义]]（informationalism）这一新发展模式概念，并将其与工业化（industrialism）进行了系统对比。他认为，信息时代的生产力不再主要来自物质投入的规模，而是来自基于知识和信息优化生产要素组合与使用的质化能力。
 
 他的另一个重要贡献是对[[Soviet Statism|国家主义]]（statism）体制在信息时代转型困境的分析。Castells 将国家主义定义为"围绕国家机器权力持有者对社会所生产的经济剩余的占有而组织起来"的社会系统，并指出这种以国家权力最大化为目标的体制在结构上与[[Informationalization|信息化]]，即信息自由流动、水平网络和试错创新，存在根本性不相容[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.3）]]。

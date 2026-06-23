@@ -65,7 +65,7 @@ updated: 2026-05-23
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip]-
 > - [[Educational Evidence Clearinghouses]] — 该机构是[[Systematic Review|系统综述]]和传播型国家证据机构。
 > - [[Knowledge Mobilisation]] — 该机构通过传播和实践者对话推动研究知识进入学校。
 

@@ -64,7 +64,7 @@ Lester 的分类法表明，公共空间角色的重要性在不同转型类型�
 ---
 ## 相关概念
 
-> [!tip]
+> [!tip]-
 > - [[Lester's Typology of University Contributions to Local Industry]] — 公共空间角色是 Lester 分类法中大学四种贡献模式之外的补充维度
 > - [[Innovation Ecosystem]] — 公共空间角色是大学作为创新生态系统锚点的具体实现机制之一
 > - [[University-Industry Collaboration]] — 公共空间为产学合作提供了非正式的、中性的互动平台

@@ -114,7 +114,7 @@ Kline 和 Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 
 ## 理论基础
 
-> [!tip]
+> [!tip]-
 > - [[Systems of Innovation]] — 五代模型中的第五代，也是当前主导[[Paradigm|范式]]；两者的关系是：创新模型演变描述的是"理解方式"的历史轨迹，创新[[Luhmann's Systems Theory|系统理论]]是这条轨迹上最新、最复杂的节点
 > - Kline & Rosenberg（1986）的链环模型 — 第三代耦合模型的核心来源，打破了线性思维的垄断
 > - Caraça et al.（2009）— 提出代际共存观点的关键文献，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
