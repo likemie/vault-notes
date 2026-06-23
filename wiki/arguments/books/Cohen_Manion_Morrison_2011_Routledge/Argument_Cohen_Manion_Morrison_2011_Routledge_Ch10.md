@@ -65,6 +65,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Hawthorne Effect]]"
   - "[[Causality]]"
+  - "[[Threats to External Validity]]"
   - "[[Study Population and Sample]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
@@ -470,7 +471,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 
 基于 Campbell & Stanley (1963)、Bracht & Glass (1968)、Hammersley & Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作（pp.168–171）：
 
-> [!challenges] 九种量化外部效度威胁
+> [!challenges] 九种量化[[Threats to External Validity|外部效度威胁]]
 > - **未能明确描述自变量**（Failure to describe independent variables explicitly） 除非自变量得到充分描述，未来复制研究条件几乎不可能——这是科学可重复性危机的一个重要来源
 > - **可用总体与[[Study Population and Sample|目标总体]]缺乏代表性**（Lack of representativeness） 参与研究者可能对可用总体具有代表性，但对研究者希望推广其发现的目标总体可能没有——即抽样和/或随机化不足
 > - **霍桑效应**（Hawthorne effect） 医学研究长期认识到仅仅参与药物实验就会产生心理效应——安慰剂和双盲设计常用于抵消参与的偏倚效应。同样，[[Hawthorne Effect|霍桑效应]]在教育研究中威胁着研究处理的有效性：当受试者意识到自己被当作实验对象时，其行为已经不再是自然行为

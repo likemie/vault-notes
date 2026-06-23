@@ -25,10 +25,12 @@ related_concepts:
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
+  - "[[Sample Size Determination]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[External Validity]]"
+  - "[[Threats to External Validity]]"
   - "[[Theories of Policy Change]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -111,7 +113,7 @@ updated: '2026-05-18'
 > 系统记录以下信息以支持推广性判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.465–466]])：
 > - 场所描述
 > - 设计类型
-> - 参与者特征和样本量
+> - 参与者特征和[[Sample Size Determination|样本量]]
 > - 因变量的[[Definition of Terms|操作性定义]]和记录方法
 > - 基线和干预条件（会话次数、干预时长）
 > - 实施者及其接受的培训
@@ -141,7 +143,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性
 > - **推广性挑战**：评估 SCD 的[[External Validity|外部效度]]比评判[[Internal Validity|内部效度]]更复杂——研究者进行证据综合时可能不知道信息消费者希望推广到何种情境([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462–463]])
-> - **外部效度威胁多样**：多重处理干扰、跨情境推广性、跨被试推广性、跨结果推广性(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
+> - **[[Threats to External Validity|外部效度威胁]]多样**：多重处理干扰、跨情境推广性、跨被试推广性、跨结果推广性(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **普遍信念偏见**：存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
 > - **单一研究不足以支撑[[Theories of Policy Change|政策变革]]**：一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部实践的调整([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])
 > - **5-3-20 阈值的任意性**：[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp.466–467)]] 坦承 5-3-20 标准"在某种程度上是任意的"（somewhat arbitrary），基于专家判断和逻辑，可能过于严格或过于宽松，需要在实践中检验和修订

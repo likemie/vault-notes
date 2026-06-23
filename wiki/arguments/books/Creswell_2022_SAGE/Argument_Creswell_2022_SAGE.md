@@ -105,6 +105,7 @@ related_concepts:
   - "[[Campbell and Stanley Notation System]]"
   - "[[Experimenter Bias]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Threats to External Validity]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Emergent Design]]"
   - "[[Memos]]"
@@ -1307,7 +1308,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > Source: Adapted from Creswell & Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8
 
-这也同一个章节的fig8，用image2重做一下这个图。不需要完全复刻，你只需完全理解作者想要表达的，并做成一个让人更易懂、且美观的图，并且保留原图上的所有信息。根据原文增强一下解释> [!example] 表8.5–8.6 — 效度威胁完整分类与应对策略见 [[Internal Validity]] 条目（表8.5：10种内部效度威胁，分受试者相关5种、处理相关3种、程序相关2种，含举例）和 [[External Validity]] 条目（表8.6：3种外部效度威胁，含举例与两种额外威胁说明）。
+这也同一个章节的fig8，用image2重做一下这个图。不需要完全复刻，你只需完全理解作者想要表达的，并做成一个让人更易懂、且美观的图，并且保留原图上的所有信息。根据原文增强一下解释> [!example] 表8.5–8.6 — 效度威胁完整分类与应对策略见 [[Internal Validity]] 条目（表8.5：10种内部效度威胁，分受试者相关5种、处理相关3种、程序相关2种，含举例）和 [[External Validity]] 条目（表8.6：3种[[Threats to External Validity|外部效度威胁]]，含举例与两种额外威胁说明）。
 
 Creswell 在此做了一个关键的层次区分：内部效度与外部效度之间存在经典的权衡，严格控制实验室条件保障内部效度，但可能降低外部效度。这是研究者在设计阶段需要明确的取舍，结论应具体说明可以推广到哪些人群、情境和时间，不应抽象地声称"具有普遍性"。
 

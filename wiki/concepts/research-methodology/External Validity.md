@@ -16,6 +16,7 @@ tags:
   - theme/validity
 related_concepts:
   - "[[Study Population and Sample]]"
+  - "[[Threats to External Validity]]"
   - "[[Internal Validity]]"
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
@@ -58,7 +59,7 @@ updated: 2026-06-23
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，外部效度越高，研究结论的适用边界越宽。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
-> [!citation-card]- Creswell 对外部效度威胁的定义
+> [!citation-card]- Creswell 对[[Threats to External Validity|外部效度威胁]]的定义
 > 外部效度威胁产生于实验者从样本数据中对其他人群、其他情境以及过去或未来情境做出错误推论时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 >
 > *External validity threats arise when experimenters draw incorrect inferences from the sample data to other persons, other settings, and past or future situations.*
@@ -86,6 +87,8 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 ---
 
 ## 量化研究中的外部效度
+
+详细的威胁清单、案例和应对策略见 [[Threats to External Validity|外部效度威胁]] 条目。以下呈现两个互补的经典框架。
 
 ### Campbell & Stanley 等经典框架
 
@@ -141,7 +144,7 @@ Creswell & Guetterman (2018) 将外部效度威胁按交互类型分为三种（
 
 ### 质性研究中的外部效度威胁
 
-Lincoln & Guba (1985: 189, 300) 列出了自然主义研究的四种外部效度威胁（p.172）：
+Lincoln & Guba (1985: 189, 300) 列出了自然主义研究的四种[[Threats to External Validity|外部效度威胁]]（p.172）：
 
 > [!challenges] 自然主义研究的外部效度威胁（Lincoln & Guba）
 > - **选择效应**（selection effects） 所选择的研究[[Construct|构念]]实际上只与特定群体相关，却假设其广泛适用

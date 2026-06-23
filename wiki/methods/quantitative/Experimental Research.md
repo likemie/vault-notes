@@ -39,6 +39,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Preregistration]]"
   - "[[Definition of Terms]]"
+  - "[[Threats to External Validity]]"
   - "[[Research Question]]"
   - "[[Ecological Validity]]"
 related_theories: []
@@ -172,7 +173,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > **工具与程序**
 > - 将使用什么工具测量因变量？为什么选择这些工具？谁开发了它们？它们是否具有已确立的信度和效度？
 > - 向参与者施测实验的程序的序列步骤是什么？
-> - 实验设计和程序可能面临的内部和外部效度威胁是什么？如何应对它们？
+> - 实验设计和程序可能面临的内部和[[Threats to External Validity|外部效度威胁]]是什么？如何应对它们？
 >
 > **试点与数据分析**
 > - 在正式数据收集前，如何对材料和程序进行试点测试？

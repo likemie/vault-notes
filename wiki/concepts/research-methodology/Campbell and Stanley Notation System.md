@@ -21,6 +21,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Threats to External Validity]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -76,7 +77,7 @@ updated: 2026-06-01
 
 > [!tip]
 > - [[Internal Validity]] — Campbell & Stanley 在同一著作中同时提出了[[Threats to Internal Validity|内部效度威胁]]的分类框架，符号系统与效度框架是同一理论体系的两个组成部分。
-> - [[External Validity]] — 外部效度威胁同样是 Campbell & Stanley 框架的组成部分。
+> - [[External Validity]] — [[Threats to External Validity|外部效度威胁]]同样是 Campbell & Stanley 框架的组成部分。
 > - [[Solomon Four-Group Design]] — 运用该符号系统图示的最复杂的真实验设计之一。
 > - [[Campbellian Validity Framework]] — 以 Campbell 命名的效度框架，是符号系统的理论延伸。
 
