@@ -1157,13 +1157,14 @@ def sync_file(
     original = path.read_text(encoding="utf-8", errors="ignore")
     fm, body = split_frontmatter(original)
     current_title = current_file_title(path, path_to_title)
-    linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
 
     if tables_only:
+        linked_fm = fm
         linked_body = escape_table_wikilink_pipes_in_text(body)
-        added = yaml_added
+        added = 0
         removed = 0
     else:
+        linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
         cleaned_body, removed = clean_invalid_links(body, entries_by_title)
         linked_body, body_added = link_body(cleaned_body, terms, source_pattern, current_title)
         added = yaml_added + body_added
