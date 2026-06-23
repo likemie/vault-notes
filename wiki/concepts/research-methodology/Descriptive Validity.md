@@ -6,7 +6,7 @@ aliases:
 summary: "Maxwell 质性效度类型之一，指研究者描述的事实准确性——不得是编造的、选择性的或扭曲的，在此意义上效度包含了信度"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

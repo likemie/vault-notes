@@ -7,7 +7,7 @@ aliases:
 summary: "力求研究导致行动并赋权参与者理解并转变其世界的效度类型，根植于批判理论与女性主义研究，主张效度标准本身是权力话语的产物"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

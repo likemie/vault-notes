@@ -10,10 +10,10 @@ aliases:
 summary: "同一构念的不同测量应高度相关（收敛），不同构念的测量应低度相关（区分）——两者共同构成构念效度的检验工具，借鉴三角验证逻辑，在量化、质性和混合方法中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

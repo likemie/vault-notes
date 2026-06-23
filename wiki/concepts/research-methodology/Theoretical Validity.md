@@ -6,10 +6,10 @@ aliases:
 summary: "Maxwell 质性效度类型之一，关注研究者带入研究的理论建构能在多大程度上解释所研究的现象，理论在此被视为解释，构念是所有参与者而非仅仅是研究者的构念"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

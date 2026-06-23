@@ -7,7 +7,7 @@ aliases:
 summary: "Maxwell 质性效度类型之一，指研究捕捉情境和事件对参与者本身的意义、解释、术语和意图的能力，是质性研究独有的效度维度，在量化实验方法论中没有对应物"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

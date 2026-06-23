@@ -12,7 +12,7 @@ aliases:
 summary: "基于地点的跨部门联合体，将区域内大学、企业、投资者和政府组织起来围绕共同愿景进行大规模创新投资，TUFF 以四个信条和六项优先领域为其实践框架，目标是提升社区居民生活水平"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

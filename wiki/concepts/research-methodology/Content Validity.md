@@ -7,10 +7,10 @@ aliases:
 summary: "测量工具公平且全面地覆盖其声称覆盖的领域或项目的程度，是效度类型中最基础的一种，基于专业判断而非统计测量"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

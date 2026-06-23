@@ -6,10 +6,10 @@ aliases:
 summary: "Maxwell 质性效度类型之一，对被研究对象采取评价性、判断性立场而非仅仅描述或解释，与批判理论视角共鸣，明确承认研究者的价值判断是研究效度的组成部分"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

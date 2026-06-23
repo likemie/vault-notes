@@ -4,7 +4,7 @@ aliases: [科学主义]
 summary: "对科学方法和科学权威的过度美化，将其轻率扩展到原本不适用领域的思想倾向，将科学视为唯一合法的认识论。"
 type: concept
 domain: "educational-philosophy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

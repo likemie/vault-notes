@@ -6,7 +6,7 @@ aliases:
 summary: "效标关联效度的一种形式，衡量工具在当前时间点的测量能在多大程度上预测未来某一时间点的结果，核心特征是存在时间间隔"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

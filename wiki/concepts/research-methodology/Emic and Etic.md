@@ -4,7 +4,7 @@ aliases: ["主位与客位", "emic perspective", "etic perspective", "emic appro
 summary: "跨文化研究方法论的核心区分，emic 从文化内部理解意义与结构，etic 从文化外部进行比较分析，Li 将其作为理解东西方学习差异的方法论基础"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

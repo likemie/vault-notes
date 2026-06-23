@@ -9,10 +9,10 @@ aliases:
 summary: "量化研究中评估测量工具是否准确测量了其意图测量的假设构念或概念的效度形式，区别于实验研究中的构念效度威胁"
 type: concept
 domain: "research-methodology"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/measurement
   - quantitative-research

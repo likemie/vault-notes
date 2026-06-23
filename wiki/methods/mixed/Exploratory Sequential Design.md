@@ -8,7 +8,7 @@ summary: "先以小样本进行质性探索、基于质性发现开发或修改�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
