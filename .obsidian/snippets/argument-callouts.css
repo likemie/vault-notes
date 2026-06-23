@@ -357,15 +357,15 @@
   grid-column: span 2;
 }
 
-.callout[data-callout="volume-profile"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="volume-argument"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="volume-structure"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="volume-tools"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="cross-chapter"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="chapter-roadmap"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="chapter-index"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="volume-contribution"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="volume-limits"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="volume-profile"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="volume-argument"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="volume-structure"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="volume-tools"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="cross-chapter"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="chapter-roadmap"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="chapter-index"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="volume-contribution"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="volume-limits"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -721,14 +721,14 @@
   grid-column: span 2;
 }
 
-.callout[data-callout="monograph-profile"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="monograph-thesis"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="monograph-tools"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="monograph-method"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="argument-steps"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="chapter-arc"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="book-synthesis"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="book-limits"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="monograph-profile"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="monograph-thesis"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="monograph-tools"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="monograph-method"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="argument-steps"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="chapter-arc"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="book-synthesis"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="book-limits"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -2039,7 +2039,7 @@
   margin-right: 0.32em;
 }
 /* 学者名 strong */
-.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="debates"] > .callout-content > .callout > .callout-content > ul > li > strong:first-of-type {
   display: inline;
   color: var(--text-normal);
   font-weight: 600;
@@ -2183,7 +2183,7 @@
   line-height: 1.65;
 }
 
-.callout[data-callout="actor-grid"] .callout-content > ul > li > strong:first-child {
+.callout[data-callout="actor-grid"] .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.3rem;
   color: rgb(20, 100, 100);
@@ -2414,7 +2414,7 @@
   font-size: var(--fs-label);
   font-weight: 700;
 }
-.callout[data-callout="indicators"] .callout-content > ul > li > strong:first-child {
+.callout[data-callout="indicators"] .callout-content > ul > li > strong:first-of-type {
   display: block;
   color: rgb(55, 80, 105);
   margin-bottom: 0.1rem;
@@ -3407,8 +3407,8 @@
 }
 
 /* 维度标题 — li 内首个 strong */
-.callout[data-callout="dimension"] > .callout-content > ul > li > p:first-child > strong:first-child,
-.callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="dimension"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   color: rgb(88, 52, 172);
   font-weight: 700;
@@ -3425,7 +3425,7 @@
   line-height: 1.62;
   margin: 0;
 }
-.callout[data-callout="dimension"] > .callout-content > ul > li > p:not(:first-child) {
+.callout[data-callout="dimension"] > .callout-content > ul > li > p:not(:first-of-type) {
   opacity: 0.88;
 }
 /* 内嵌 callout：缩一档，使内层视觉上小于外层 */
@@ -3457,8 +3457,8 @@
 .theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li::before {
   background: linear-gradient(135deg, rgb(138, 100, 220), rgb(108, 72, 195));
 }
-.theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li > p:first-child > strong:first-child,
-.theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="dimension"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(195, 162, 255);
   border-bottom-color: rgba(158, 120, 240, 0.25);
 }
@@ -3575,8 +3575,8 @@
 }
 
 /* 目标标题 — li 首个 strong */
-.callout[data-callout="goal"] > .callout-content > ul > li > p:first-child > strong:first-child,
-.callout[data-callout="goal"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="goal"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="goal"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   color: rgb(14, 96, 80);
   font-weight: 700;
@@ -3606,8 +3606,8 @@
   border-left-color: rgba(40, 180, 150, 0.55);
   background: linear-gradient(180deg, rgba(40, 180, 150, 0.07), rgba(40, 180, 150, 0.01));
 }
-.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li > p:first-child > strong:first-child,
-.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="goal"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(40, 180, 150);
   border-bottom-color: rgba(40, 180, 150, 0.28);
 }
@@ -3700,7 +3700,7 @@
 /* ─── 年份徽章 — li 内首个 strong ───────────────────
    适配格式：- **1978–1979**：正文
    **1980s**：正文 */
-.callout[data-callout="timeline"] .callout-content ul > li > strong:first-child {
+.callout[data-callout="timeline"] .callout-content ul > li > strong:first-of-type {
   display: inline-block;
   padding: 0.05em 0.50em 0.08em;
   margin-right: 0.38em;
@@ -3785,7 +3785,7 @@
   border-bottom-color: rgba(72, 95, 145, 0.24);
 }
 
-.theme-dark .callout[data-callout="timeline"] .callout-content ul > li > strong:first-child {
+.theme-dark .callout[data-callout="timeline"] .callout-content ul > li > strong:first-of-type {
   background: rgba(72, 95, 145, 0.22);
   border-color: rgba(72, 95, 145, 0.32);
   color: rgb(160, 185, 240);
@@ -3896,7 +3896,7 @@
 }
 
 /* 子标题徽章 — 轻描边风格 */
-.callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-child {
+.callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-of-type {
   display: inline-block;
   padding: 0.04em 0.44em 0.06em;
   margin-right: 0.28em;
@@ -3923,7 +3923,7 @@
   color: rgb(120, 165, 205);
 }
 
-.theme-dark .callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-child {
+.theme-dark .callout[data-callout="timeline-compact"] .callout-content ul > li > strong:first-of-type {
   background: rgba(85, 125, 160, 0.20);
   border-color: rgba(85, 125, 160, 0.32);
   color: rgb(145, 190, 230);
@@ -4123,8 +4123,8 @@
   color: rgba(205, 148, 62, 0.22);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content li > strong:first-child,
-.theme-dark .callout[data-callout="phase"] .callout-content li > p:first-child > strong:first-child {
+.theme-dark .callout[data-callout="phase"] .callout-content li > strong:first-of-type,
+.theme-dark .callout[data-callout="phase"] .callout-content li > p:first-of-type > strong:first-of-type {
   color: rgb(220, 165, 75);
 }
 
@@ -4433,7 +4433,7 @@
 }
 
 /* ── 阶段标题徽章（首个 strong：年份 + 阶段名） ── */
-.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-child > strong:first-child {
+.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-of-type > strong:first-of-type {
   display: inline-block;
   padding: 0.05em 0.55em 0.08em;
   margin-right: 0.3em;
@@ -4459,7 +4459,7 @@
 }
 
 /* 标题行整体保持正常颜色 */
-.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-child {
+.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-of-type {
   color: var(--text-normal);
   line-height: 1.8;
 }
@@ -4518,7 +4518,7 @@
   border-bottom-color: rgba(115, 80, 50, 0.22);
 }
 
-.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-child > strong:first-child {
+.theme-dark .callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-of-type > strong:first-of-type {
   background: rgba(185, 130, 75, 0.14);
   border-color: rgba(185, 130, 75, 0.28);
   color: rgb(215, 165, 105);
@@ -4607,7 +4607,7 @@
   border-left: 3px solid rgba(100, 85, 165, 0.18);
 }
 
-.callout[data-callout="designs"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="designs"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(80, 65, 140);
 }
 
@@ -4634,7 +4634,7 @@
   border-left-color: rgba(160, 145, 210, 0.22);
 }
 
-.theme-dark .callout[data-callout="designs"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="designs"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(160, 145, 210);
 }
 
@@ -4722,7 +4722,7 @@
   font-size: var(--fs-body);
 }
 
-.callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   color: rgb(145, 90, 30);
   margin-bottom: 0.1rem;
@@ -4761,7 +4761,7 @@
   border-left-color: rgba(220, 165, 85, 0.22);
 }
 
-.theme-dark .callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="decisions"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(220, 165, 85);
 }
 
@@ -4920,7 +4920,7 @@
   font-size: 0.55em;
 }
 
-.callout[data-callout="axioms"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="axioms"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(160, 115, 40);
 }
 
@@ -4951,7 +4951,7 @@
   color: rgba(225, 175, 80, 0.5);
 }
 
-.theme-dark .callout[data-callout="axioms"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="axioms"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(225, 175, 80);
 }
 
@@ -5003,7 +5003,7 @@
 
 /* 每个假设条目自动编号 + 层级缩进 */
 .callout[data-callout="assumptions"] > .callout-content > p > strong:first-child,
-.callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(20, 110, 100);
 }
 
@@ -5026,7 +5026,7 @@
 }
 
 .theme-dark .callout[data-callout="assumptions"] > .callout-content > p > strong:first-child,
-.theme-dark .callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(100, 215, 195);
 }
 
@@ -6150,8 +6150,8 @@
 }
 
 /* 链节标题 — li 首个 strong（**粗体** 开头） */
-.callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-child > strong:first-child,
-.callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   color: rgb(122, 88, 18);
   font-weight: 760;
@@ -6180,8 +6180,8 @@
   border-color: rgba(205, 162, 68, 0.20);
   background: linear-gradient(180deg, rgba(205, 162, 68, 0.08), rgba(205, 162, 68, 0.02));
 }
-.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-child > strong:first-child,
-.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="chain-link"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(205, 162, 68);
   border-bottom-color: rgba(205, 162, 68, 0.30);
 }
@@ -6309,7 +6309,7 @@
 
 /* ─── 步骤标题 / 正文分行 ──────────────────────────────── */
 /* 紧凑列表（无 <p> 包裹）：首个 strong 作为标题行 */
-.callout[data-callout="proc"] > .callout-content > ol > li > strong:first-child {
+.callout[data-callout="proc"] > .callout-content > ol > li > strong:first-of-type {
   display: block;
   font-size: 0.93em;
   font-weight: 750;
@@ -6319,7 +6319,7 @@
 }
 
 /* 松散列表（有 <p> 包裹）：p:first-child 作为标题段 */
-.callout[data-callout="proc"] > .callout-content > ol > li > p:first-child {
+.callout[data-callout="proc"] > .callout-content > ol > li > p:first-of-type {
   margin: 0 0 0.20rem 0;
   padding-bottom: 0.18rem;
   border-bottom: 1px solid rgba(30, 100, 130, 0.12);
@@ -6329,7 +6329,7 @@
   line-height: 1.4;
 }
 
-.callout[data-callout="proc"] > .callout-content > ol > li > p:not(:first-child) {
+.callout[data-callout="proc"] > .callout-content > ol > li > p:not(:first-of-type) {
   margin: 0;
   font-size: 0.88em;
   line-height: 1.62;
@@ -6338,8 +6338,8 @@
 }
 
 /* 暗色模式 */
-.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li > strong:first-child,
-.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li > p:first-child {
+.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li > strong:first-of-type,
+.theme-dark .callout[data-callout="proc"] > .callout-content > ol > li > p:first-of-type {
   color: rgb(85, 165, 200);
 }
 
@@ -6711,7 +6711,7 @@
   line-height: 1.58;
 }
 
-.callout[data-callout="method-limits"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="method-limits"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -6859,8 +6859,8 @@
   line-height: 1.58;
 }
 
-.callout[data-callout="math-principle"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="software-impl"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="math-principle"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="software-impl"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -7024,17 +7024,17 @@
 /* ─── 特征名标签：badge 样式（深底白字大写角标） ────── */
 .callout[data-callout="feature"] .callout-content > ul > li strong:first-of-type,
 .callout[data-callout="feature"] .callout-content > ul > li p:first-of-type > strong:first-of-type {
-  display: inline-block;
+  display: block;
   background: rgb(18, 100, 72);
   color: rgb(230, 255, 245);
-  font-size: 0.65em;
-  font-weight: 750;
-  letter-spacing: 0.09em;
+  font-size: 0.80em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
-  padding: 2px 8px 2px 7px;
-  border-radius: 4px;
-  margin-bottom: 0.42rem;
-  line-height: 1.6;
+  padding: 4px 10px 4px 9px;
+  border-radius: 5px;
+  margin-bottom: 0.45rem;
+  line-height: 1.55;
 }
 
 /* ─── 暗模式 ────────────────────────────────────────── */
@@ -7460,7 +7460,7 @@
   line-height: 1.58;
 }
 
-.callout[data-callout="implication"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="implication"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.18rem;
   color: rgb(var(--callout-color));
@@ -7569,7 +7569,7 @@
   border-color: rgba(var(--cl), 0.28);
 }
 
-.callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.20rem;
   color: rgb(165, 30, 45);
@@ -7608,7 +7608,7 @@
 .theme-dark .callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::before {
   background: linear-gradient(135deg, rgb(215, 65, 82), rgb(175, 38, 55));
 }
-.theme-dark .callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-child {
+.theme-dark .callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(248, 120, 136);
 }
 
@@ -7703,7 +7703,7 @@
   line-height: 1.58;
 }
 
-.callout[data-callout="event-context"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="event-context"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.2rem;
   color: rgb(var(--callout-color));
@@ -7830,7 +7830,7 @@
   line-height: 1.58;
 }
 
-.callout[data-callout="policy-context"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="policy-context"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.2rem;
   color: rgb(var(--callout-color));
@@ -7935,7 +7935,7 @@
 .callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(3) { grid-area: tool; }
 .callout[data-callout="policy-design"] > .callout-content > ul > li:nth-child(4) { grid-area: constraint; }
 
-.callout[data-callout="policy-design"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="policy-design"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -8172,12 +8172,12 @@
   grid-column: span 2;
 }
 
-.callout[data-callout="theory-position"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="proposition-chain"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="theory-components"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="theory-stance"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="theory-use"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="theory-boundary"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="theory-position"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="proposition-chain"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="theory-components"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="theory-stance"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="theory-use"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="theory-boundary"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -8276,7 +8276,7 @@
 }
 
 /* 标题行（第一个 p）：加粗 + 颜色 + 底部细分割线 */
-.callout[data-callout="theory-components"] > .callout-content > ul > li > p:first-child {
+.callout[data-callout="theory-components"] > .callout-content > ul > li > p:first-of-type {
   margin: 0 0 0.3rem 0;
   padding-bottom: 0.25rem;
   border-bottom: 1px solid rgba(var(--tc), 0.18);
@@ -8288,7 +8288,7 @@
 }
 
 /* 内容行（后续 p）：正常文字，略小 */
-.callout[data-callout="theory-components"] > .callout-content > ul > li > p:not(:first-child) {
+.callout[data-callout="theory-components"] > .callout-content > ul > li > p:not(:first-of-type) {
   margin: 0;
   font-size: 0.86em;
   line-height: 1.60;
@@ -8640,10 +8640,10 @@
 .callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(3) { grid-area: validity; }
 .callout[data-callout="method-position"] > .callout-content > ul > li:nth-child(4) { grid-area: boundary; }
 
-.callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="method-position"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="method-stack"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="method-position"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="method-stack"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -8916,12 +8916,12 @@
   grid-column: span 2;
 }
 
-.callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="contribution-map"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="work-line"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="thought-timeline"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="influence-path"] > .callout-content > ul > li > strong:first-child,
-.callout[data-callout="person-network"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="contribution-map"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="work-line"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="thought-timeline"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="influence-path"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="person-network"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.22rem;
   color: rgb(var(--callout-color));
@@ -9828,7 +9828,7 @@
 }
 
 /* ─── 卡片标签：底部分隔线 + caption 字号 ────────────── */
-.callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="person-profile"] > .callout-content > ul > li > strong:first-of-type {
   display: block;
   margin-bottom: 0.34rem;
   padding-bottom: 0.26rem;
@@ -10731,7 +10731,7 @@
 }
 
 /* 年份徽章 */
-.callout[data-callout="timeline"] > .callout-content > ul > li > strong:first-child {
+.callout[data-callout="timeline"] > .callout-content > ul > li > strong:first-of-type {
   display: inline-block;
   margin: 0 0.42em 0 0;
   padding: 0.07em 0.52em 0.10em;
@@ -10902,7 +10902,7 @@
     0 0 0 5px rgba(var(--timeline-rgb), 0.08);
 }
 
-.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-child > strong:first-child {
+.callout[data-callout="dev-timeline"] .callout-content > ul > li > p:first-of-type > strong:first-of-type {
   display: inline;
   margin: 0;
   color: rgb(var(--timeline-rgb));
@@ -11803,8 +11803,8 @@
 }
 
 /* 标题（strong 首行）→ 块级 + 分隔线 */
-.callout[data-callout="ethical-code"] .callout-content ol > li > p:first-child > strong:first-child,
-.callout[data-callout="ethical-code"] .callout-content ol > li > strong:first-child {
+.callout[data-callout="ethical-code"] .callout-content ol > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="ethical-code"] .callout-content ol > li > strong:first-of-type {
   display: block;
   color: rgb(60, 108, 162);
   font-weight: 700;
@@ -11819,7 +11819,7 @@
   line-height: 1.62;
   margin: 0;
 }
-.callout[data-callout="ethical-code"] .callout-content ol > li > p:not(:first-child) {
+.callout[data-callout="ethical-code"] .callout-content ol > li > p:not(:first-of-type) {
   opacity: 0.88;
 }
 
@@ -11842,8 +11842,8 @@
 .theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li::before {
   background: linear-gradient(135deg, rgb(100, 152, 208), rgb(68, 112, 172));
 }
-.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li > p:first-child > strong:first-child,
-.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li > strong:first-child {
+.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="ethical-code"] .callout-content ol > li > strong:first-of-type {
   color: rgb(150, 192, 240);
   border-bottom-color: rgba(120, 170, 225, 0.22);
 }
@@ -11974,8 +11974,8 @@
 }
 
 /* 因素名（strong 首行）→ 块级标题 */
-.callout[data-callout="factors"] .callout-content li > p:first-child > strong:first-child,
-.callout[data-callout="factors"] .callout-content li > strong:first-child {
+.callout[data-callout="factors"] .callout-content li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="factors"] .callout-content li > strong:first-of-type {
   display: block;
   color: rgb(155, 100, 18);
   font-weight: 700;
@@ -11989,7 +11989,7 @@
   line-height: 1.62;
   margin: 0;
 }
-.callout[data-callout="factors"] .callout-content li > p:not(:first-child) {
+.callout[data-callout="factors"] .callout-content li > p:not(:first-of-type) {
   opacity: 0.88;
 }
 
@@ -12019,8 +12019,8 @@
 .theme-dark .callout[data-callout="factors"] .callout-content ul > li::before {
   background: linear-gradient(135deg, rgb(225, 168, 55), rgb(188, 128, 28));
 }
-.theme-dark .callout[data-callout="factors"] .callout-content li > p:first-child > strong:first-child,
-.theme-dark .callout[data-callout="factors"] .callout-content li > strong:first-child {
+.theme-dark .callout[data-callout="factors"] .callout-content li > p:first-of-type > strong:first-of-type,
+.theme-dark .callout[data-callout="factors"] .callout-content li > strong:first-of-type {
   color: rgb(228, 172, 62);
   border-bottom-color: rgba(215, 158, 48, 0.22);
 }
