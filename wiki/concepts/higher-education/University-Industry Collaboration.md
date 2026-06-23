@@ -64,6 +64,7 @@ related_concepts:
   - "[[Multi-University]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Innovation Park]]"
+  - "[[Theoretical Validity]]"
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
   - "[[Cultural Barrier]]"
@@ -448,7 +449,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > - 支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环（Cullum Clark, 2022）
 
 > [!info]
-> 不过，关于较新的产学合作的研究尚不充分，指向利益相关者理论有效性的证据目前"更加定性和轶事性"（more qualitative and anecdotal, Byrne & Clements, 2025, p.126）。
+> 不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, Byrne & Clements, 2025, p.126）。
 
 > [!success]
 > 大学对产学合作的态度在过去几十年间发生了显著变化。许多大学已将创业或产学合作纳入教师晋升和终身教职（promotion and tenure）的评审标准，这极大地改变了学术界对产学合作的看法([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.132–133]])。

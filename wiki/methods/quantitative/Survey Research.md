@@ -23,6 +23,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
+  - "[[Concurrent Validity]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
@@ -39,12 +40,12 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Random Sampling]]"
+  - "[[Stage Sampling]]"
   - "[[Cluster Sampling]]"
+  - "[[Random Sampling]]"
   - "[[Systematic Sampling]]"
-  - "[[Non-probability Sampling]]"
-  - "[[Pilot Testing]]"
   - "[[Convenience Sampling]]"
+  - "[[Pilot Testing]]"
   - "[[Experimental Research]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
@@ -82,8 +83,8 @@ updated: 2026-05-31
 > [!abstract]
 > - **研究总体（[[Study Population and Sample|study population]]）**：研究者希望做出推论的全部人群。
 > - **研究样本（Study Sample）**：调查中实际检验的受试者子集。
-> - **抽样设计（Sampling Design）**：单[[Random Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Non-probability Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样设计（Sampling Design）**：单[[Stage Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Convenience Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **分层（Stratification）**：在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **[[Sample Size Determination|样本量确定]]与功效分析**：样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
 
@@ -91,7 +92,7 @@ updated: 2026-05-31
 
 > [!info]
 > - **工具与测量**：工具（instrument）是收集变量测量值的设备（如温度计之于体温，问卷之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
-> - **工具的效度**：报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity in Quantitative Measurement|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／同时效度（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **工具的效度**：报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity in Quantitative Measurement|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／[[Concurrent Validity|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **工具的信度**：报告分数的[[Internal Consistency and Cronbach's Alpha|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值 .7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α = .84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）**：当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
 > - **工具内容**：包括封面信（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[External Validity]]"
   - "[[Visible Learning]]"
+  - "[[Ecological Validity]]"
   - "[[Knowledge Production]]"
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
@@ -107,7 +108,7 @@ updated: 2026-06-14
 > [!success] 典型案例：Hattie 的 [[Visible Learning]]
 > [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 论证 Hattie 的 Visible Learning 是教育领域科学主义的典型案例：以庞大的数据库、图表、参考书目营造科学外观，但方法论不透明、不可验证，却宣称找到了教育的"圣杯"（pp.34–35）。
 >
-> Phillips (2014) 指出物理[[Scientific Method|科学方法]]无法转移到多元[[Variable|变量]]的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"（p.35）。
+> Phillips (2014) 指出物理[[Scientific Method|科学方法]]无法转移到多元[[Variable|变量]]的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有[[Ecological Validity|生态效度]]"（p.35）。
 
 ---
 

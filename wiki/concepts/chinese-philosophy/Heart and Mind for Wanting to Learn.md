@@ -19,6 +19,7 @@ related_concepts:
   - "[[Faust]]"
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
+  - "[[Cross-cultural Validity]]"
   - "[[Humility in Learning]]"
   - "[[Lifelong Learning]]"
   - "[[Incommensurability]]"
@@ -108,7 +109,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 > - **教室话语**：中国教室至今挂着毛泽东语录"好好学习，天天向上"——在毛的浩繁著作中，唯有这句话被选中永久张贴。"它挂在黑板上方，任何人进入教室都不可能看不到。它挂在那里，永远去语境化，仿佛是一个独立而永恒的光环"([[Argument_Li_2012_Cambridge|Li, 2012, p.19 note 20]])。教室中也常见对联"书山有路勤为径，学海无涯苦作舟"——将"勤奋"与"吃苦"明确刻画为求知的必经之路([[Argument_Li_2012_Cambridge|Li, 2012, p.13]])
 
 > [!success]
-> ### 概念的跨文化效度
+> ### 概念的[[Cross-cultural Validity|跨文化效度]]
 > Li 的后续比较研究发现，欧裔美国精英大学生对学习的理解与中国大学生几乎没有重叠——尽管两种文化都重视学习、拥有相似的教育制度和教学内容([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。好學心及其所在的六主题框架在中国学生中高度一致，但在欧裔美国学生中几乎不存在对应物——反之亦然（详见 全书论证）。
 
 > [!success]

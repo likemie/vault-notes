@@ -18,6 +18,7 @@ related_concepts:
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[Theoretical Validity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
@@ -29,7 +30,8 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Research Question]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[TUFF]]"
@@ -106,7 +108,7 @@ citation_aliases:
 >
 > 本章引用了利益相关者理论(Stakeholder Theory, Freeman, 1984)，借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式[[Analytic Framework|分析框架]](pp.125–126)。
 >
-> TUFF 的实践框架有相当规模的文献支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环(p.125)。不过，关于较新的产学合作的研究尚不充分，指向利益相关者理论有效性的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
+> TUFF 的实践框架有相当规模的文献支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环(p.125)。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
 
 ---
 
@@ -208,7 +210,7 @@ citation_aliases:
 ---
 ### 案例：肯德尔广场 / 剑桥创新中心
 
-16. [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional networking）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资(p.128)。
+16. [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional [[Snowball Sampling|networking]]）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资(p.128)。
 
 > [!success]
 > 据 CIC 网站数据，经过近三十年发展，CIC 已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，其客户累计吸引投资超过 170 亿美元。这些成果同时惠及大波士顿社区和各成员高校，催生了一个产业与创业伙伴之间自我强化的投资与共驻（[[University-Industry Co-location|co-location]]）循环(p.128)。

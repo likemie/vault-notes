@@ -30,6 +30,7 @@ related_concepts:
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
+  - "[[Theoretical Validity]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -180,7 +181,7 @@ updated: 2026-05-28
 > - 产学合作同时提升中小企业和大型企业的研究产出和专利数量（Chai & Shih, 2016）
 > - 创新园区打破大学内部各院系之间的孤岛，创造跨学科研发合作激励（Katz & Ordover, 1990）
 > - 区域经济政策支持创新、吸引移民、移民推动本地财富增长的正向循环（Cullum Clark, 2022）
-> - 较新产学合作的研究尚不充分，利益相关者理论有效性的证据目前"更加定性和轶事性"（p.126）
+> - 较新产学合作的研究尚不充分，利益相关者[[Theoretical Validity|理论有效性]]的证据目前"更加定性和轶事性"（p.126）
 
 ---
 

@@ -84,6 +84,7 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
+  - "[[Ecological Validity]]"
   - "[[Big Ideas]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
@@ -95,6 +96,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Manipulation Check]]"
   - "[[Blinding]]"
   - "[[Cover Story]]"
@@ -1132,7 +1134,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > | 分配方式 | [[Random Sampling\|随机抽样]]（关注样本→总体的代表性） | [[Random Assignment\|随机分配]]（关注组间等价性） |
 > | 典型问题类型 | 描述性、关系性、预测性（纵向） | 因果性（"X 是否导致 Y？"） |
 > | 主要优势 | 经济、快捷、可覆盖大样本 | [[Internal Validity\|内部效度]]高，可建立因果关系 |
-> | 主要局限 | 无法建立因果关系；自我报告偏差 | 操作与伦理约束；生态效度可能受限 |
+> | 主要局限 | 无法建立因果关系；自我报告偏差 | 操作与伦理约束；[[Ecological Validity\|生态效度]]可能受限 |
 > | 典型应用 | 民意调查、态度研究、大规模教育评估 | 干预效果评估、实验室行为研究、教学法比较 |
 >
 > Source: Creswell & Creswell, 2022, Ch8
@@ -1159,7 +1161,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 
 **调查设计的起点**是目的声明和选择理由。目的聚焦于变量间关系（如"加班时数是否预测倦怠症状"）；理由从正面说明调查优势，同时诚实承认其他设计不可行的原因，这表明研究者对设计局限有清醒认识。
 
-**总体与样本**是概念密度最高的环节。Creswell 的拆解体现了层级思维，从"总体 vs 样本"区分出发，逐层下钻到抽样设计（单阶段→多阶段整群）、抽样类型（随机→系统→便利，方法论严格程度递减）、分层（在抽样前按已知特征确保比例代表性），最后到达样本量确定。
+**总体与样本**是概念密度最高的环节。Creswell 的拆解体现了层级思维，从"总体 vs 样本"区分出发，逐层下钻到抽样设计（单阶段→多阶段整群）、抽样类型（随机→系统→便利，方法论严格程度递减）、分层（在抽样前按已知特征确保比例代表性），最后到达[[Sample Size Determination|样本量确定]]。
 
 > [!quote]
 > “样本量的确定其核心是一种权衡：更大的样本将提供更高的精度，但招募更多的参与者既耗时又费钱。”

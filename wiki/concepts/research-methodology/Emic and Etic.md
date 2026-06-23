@@ -10,6 +10,7 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: ["theme/cross-cultural-research", "field/research-methodology", "theme/cultural-psychology"]
 related_concepts:
+  - "[[Ecological Validity]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -38,7 +39,7 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!example]
-> - **Emic vs Etic**：Emic 侧重文化内部的意义系统，追求高生态效度，适合揭示文化原生的概念与信念；Etic 侧重跨文化可比性，追求普遍性解释框架。两者不是对立关系，而是互补——缺乏 emic 则无法理解文化内部逻辑，缺乏 etic 则无法进行跨文化对话和比较([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
+> - **Emic vs Etic**：Emic 侧重文化内部的意义系统，追求高[[Ecological Validity|生态效度]]，适合揭示文化原生的概念与信念；Etic 侧重跨文化可比性，追求普遍性解释框架。两者不是对立关系，而是互补——缺乏 emic 则无法理解文化内部逻辑，缺乏 etic 则无法进行跨文化对话和比较([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
 
 ## 概念演变
 

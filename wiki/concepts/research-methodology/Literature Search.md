@@ -15,6 +15,7 @@ related_concepts:
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Question]]"
   - "[[Construct Validity in Quantitative Measurement]]"
+  - "[[Content Validity]]"
   - "[[Construct]]"
   - "[[Abstract]]"
 related_theories: []
@@ -56,7 +57,7 @@ updated: 2026-06-21
 
 > [!chain-link] 文献检索→论证的推进逻辑
 > - **奠基信度与效度**
->   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity in Quantitative Measurement|构念效度]]和内容效度基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
+>   通过彻底的[[Literature Review|文献综述]]为项目奠定[[Construct Validity in Quantitative Measurement|构念效度]]和[[Content Validity|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
 > - **建立理论框架**
 >   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct|构念]]和概念。
 > - **识别关键议题与空白**
@@ -100,7 +101,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 ### 网络检索
 
-互联网上研究数据的存储和检索不仅让研究者保持对全球发展的跟进，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity in Quantitative Measurement|构念效度]]和内容效度。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索——如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
+互联网上研究数据的存储和检索不仅让研究者保持对全球发展的跟进，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity in Quantitative Measurement|构念效度]]和[[Content Validity|内容效度]]。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索——如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
 
 互联网是大量无序且大多未经审查的材料库，研究者需要通过试错和偶然发现来寻找信息，单独或组合使用关键词（放在引号内）。书签系统能实现网站的快速检索以备将来参考——考虑到某些互联网连接速度慢且网上大量材料毫无帮助，这几乎是必要的（p.131）。
 

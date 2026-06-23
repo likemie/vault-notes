@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Postpositivism]]"
   - "[[Variable]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Manipulation Check]]"
   - "[[Reflexivity]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Definition of Terms]]"
   - "[[Research Question]]"
+  - "[[Ecological Validity]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -79,7 +81,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > [!info]
 > - **招募受试者**：描述招募程序和选择标准，明确具体的纳入和排除标准。招募方式包括随机数字拨号、社区招募传单、电子邮件或报纸广告。说明受试者的报酬方式。
 > - **[[Random Assignment|随机分配]]**：真实验的核心特征是将受试者随机分配到处理条件中（Keppel & Wickens, 2003; 引自 Creswell & Creswell, 2022, Ch8）。说明随机分配的方式和时间。每个受试者被等概率分配至各处理组，消除受试者特征的系统性偏差，使结果差异可归因于被操纵的[[Variable|变量]]。
-> - **功效分析与样本量**：在数据收集前进行功效分析以确定样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8），输入参数包括每组预期[[Effect Size|效应量]]和实验条件数。
+> - **功效分析与[[Sample Size Determination|样本量]]**：在数据收集前进行功效分析以确定样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8），输入参数包括每组预期[[Effect Size|效应量]]和实验条件数。
 > - **正式设计声明**：在参与者部分末尾提供正式实验设计声明，如"本实验由单因素两组设计组成，比较全职与兼职护士的倦怠症状"。
 
 ### 变量
@@ -201,7 +203,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ## 局限性
 
 > [!warning]
-> - 实验室情境的发现可能缺乏生态效度，难以推广到自然情境。
+> - 实验室情境的发现可能缺乏[[Ecological Validity|生态效度]]，难以推广到自然情境。
 > - 部分教育[[Research Question|研究问题]]不适合[[Random Assignment|随机分配]]或处理操纵。
 > - 伦理约束可能限制处理条件的设置。
 

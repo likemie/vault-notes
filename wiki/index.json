@@ -4362,6 +4362,16 @@
     ]
   },
   {
+    "title": "Catalytic Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Catalytic Validity.md",
+    "aliases": [
+      "催化效度",
+      "催化真实性",
+      "catalytic authenticity"
+    ]
+  },
+  {
     "title": "Categorical Funding",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Categorical Funding.md",
@@ -4447,6 +4457,16 @@
     ]
   },
   {
+    "title": "Concurrent Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Concurrent Validity.md",
+    "aliases": [
+      "共时效度",
+      "同时效度",
+      "并行效度"
+    ]
+  },
+  {
     "title": "Confidence Interval",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Confidence Interval.md",
@@ -4522,6 +4542,29 @@
     ]
   },
   {
+    "title": "Content Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Content Validity.md",
+    "aliases": [
+      "内容效度",
+      "content-related validity",
+      "content coverage"
+    ]
+  },
+  {
+    "title": "Convergent and Discriminant Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Convergent and Discriminant Validity.md",
+    "aliases": [
+      "收敛效度与区分效度",
+      "收敛效度",
+      "区分效度",
+      "convergent validity",
+      "discriminant validity",
+      "divergent validity"
+    ]
+  },
+  {
     "title": "Costs Benefits Ratio in Research Ethics",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Costs Benefits Ratio in Research Ethics.md",
@@ -4565,6 +4608,27 @@
     ]
   },
   {
+    "title": "Criterion-related Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Criterion-related Validity.md",
+    "aliases": [
+      "效标关联效度",
+      "标准关联效度",
+      "criterion validity",
+      "criterion-related evidence"
+    ]
+  },
+  {
+    "title": "Cross-cultural Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Cross-cultural Validity.md",
+    "aliases": [
+      "跨文化效度",
+      "crosscultural validity",
+      "cross-cultural equivalence"
+    ]
+  },
+  {
     "title": "Crotty's Four Levels of Research Design",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Crotty's Four Levels of Research Design.md",
@@ -4573,6 +4637,15 @@
       "Crotty四层模型",
       "four levels of research",
       "Crotty's four levels"
+    ]
+  },
+  {
+    "title": "Cultural Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Cultural Validity.md",
+    "aliases": [
+      "文化效度",
+      "文化适切性"
     ]
   },
   {
@@ -4666,6 +4739,15 @@
     ]
   },
   {
+    "title": "Descriptive Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Descriptive Validity.md",
+    "aliases": [
+      "描述效度",
+      "描述有效性"
+    ]
+  },
+  {
     "title": "Developer Effect",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Developer Effect.md",
@@ -4695,6 +4777,15 @@
       "学科理论",
       "discipline theory",
       "substantive content theory"
+    ]
+  },
+  {
+    "title": "Ecological Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Ecological Validity.md",
+    "aliases": [
+      "生态效度",
+      "生态学效度"
     ]
   },
   {
@@ -4791,6 +4882,15 @@
     ]
   },
   {
+    "title": "Evaluative Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Evaluative Validity.md",
+    "aliases": [
+      "评价效度",
+      "评价有效性"
+    ]
+  },
+  {
     "title": "Exogenous and Endogenous Variables",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Exogenous and Endogenous Variables.md",
@@ -4830,6 +4930,15 @@
       "external validity threats",
       "threats to external validity",
       "generalizability"
+    ]
+  },
+  {
+    "title": "Face Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Face Validity.md",
+    "aliases": [
+      "表面效度",
+      "表面有效性"
     ]
   },
   {
@@ -5092,6 +5201,16 @@
       "自然主义探究",
       "qualitative paradigm",
       "interpretive approach"
+    ]
+  },
+  {
+    "title": "Interpretive Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Interpretive Validity.md",
+    "aliases": [
+      "解释效度",
+      "解释有效性",
+      "诠释效度"
     ]
   },
   {
@@ -5484,6 +5603,15 @@
       "实用主义范式",
       "pragmatism",
       "pragmatic worldview"
+    ]
+  },
+  {
+    "title": "Predictive Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Predictive Validity.md",
+    "aliases": [
+      "预测效度",
+      "预测有效性"
     ]
   },
   {
@@ -6024,6 +6152,15 @@
       "理论立场",
       "theoretical lens",
       "transformative perspective"
+    ]
+  },
+  {
+    "title": "Theoretical Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Theoretical Validity.md",
+    "aliases": [
+      "理论效度",
+      "理论有效性"
     ]
   },
   {
