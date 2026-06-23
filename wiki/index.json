@@ -4925,9 +4925,8 @@
     "path": "wiki/concepts/research-methodology/External Validity.md",
     "aliases": [
       "外部效度",
-      "external validity threats",
-      "threats to external validity",
-      "generalizability"
+      "generalizability",
+      "可推广性"
     ]
   },
   {
@@ -5182,9 +5181,7 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Internal Validity.md",
     "aliases": [
-      "内部效度",
-      "internal validity threats",
-      "threats to internal validity"
+      "内部效度"
     ]
   },
   {

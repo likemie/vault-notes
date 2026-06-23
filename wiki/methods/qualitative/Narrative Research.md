@@ -18,6 +18,7 @@ tags:
   - narrative
   - life-history
 related_concepts:
+  - "[[External Validity]]"
   - "[[Analytic Framework]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -60,7 +61,7 @@ updated: 2026-05-30
 ## 局限性
 
 > [!warning]
-> - 研究结论的可推广性有限，叙事研究不追求统计性推广。
+> - 研究结论的[[External Validity|可推广性]]有限，叙事研究不追求统计性推广。
 > - 研究者的重述过程可能引入叙事偏差。
 > - 对参与者叙事能力有较高依赖。
 

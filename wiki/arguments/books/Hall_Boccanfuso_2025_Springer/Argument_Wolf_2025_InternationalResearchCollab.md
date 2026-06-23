@@ -25,6 +25,7 @@ related_concepts:
   - "[[Pre-negotiated IP Rights]]"
   - "[[Innovation Hub]]"
   - "[[Literature Search]]"
+  - "[[External Validity]]"
 related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"
@@ -283,7 +284,7 @@ citation_aliases:
 > [!warning]
 > - Wolf 和 Stevenson 受雇于 Mars，Siegel 受雇于 UC Davis，案例选择基于自身参与经验，可能偏向正面呈现，无法代表所有类型的国际 UI 合作模式(pp.323–324)
 > - 未提供系统性的[[Literature Search|文献检索]]方法或纳入排除标准，论据筛选标准不透明
-> - 三个案例均属于食品与农业领域，该领域的[[University-Industry Collaboration|产学合作]]IP 敏感性可能低于制药或国防技术领域，因此"开放获取"策略的可推广性有限
+> - 三个案例均属于食品与农业领域，该领域的[[University-Industry Collaboration|产学合作]]IP 敏感性可能低于制药或国防技术领域，因此"开放获取"策略的[[External Validity|可推广性]]有限
 
 ---
 

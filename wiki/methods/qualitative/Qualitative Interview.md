@@ -30,7 +30,10 @@ related_concepts:
   - "[[Probes]]"
   - "[[Central Question]]"
   - "[[Research Topic]]"
+  - "[[Research Question]]"
+  - "[[Sample Size Determination]]"
   - "[[Reflexivity]]"
+  - "[[External Validity]]"
   - "[[University-Industry Collaboration]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
@@ -139,7 +142,7 @@ updated: 2026-06-02
 > | 阶段 | 聚焦范围 | 核心内容 |
 > |------|---------|---------|
 > | 开场 | 个人生活史（最宽） | 成长经历、家庭背景、产生过重大影响的人和事 |
-> | 中段 | 与[[Research Topic\|研究主题]]相关的过程（收窄） | 与研究问题直接相关的经历、决策和意义感变化 |
+> | 中段 | 与[[Research Topic\|研究主题]]相关的过程（收窄） | 与[[Research Question\|研究问题]]直接相关的经历、决策和意义感变化 |
 > | 收尾 | 核心问题（最聚焦） | 对关键选择的解释、矛盾与张力的深入探讨 |
 >
 > 追问的标准是：研究者感到自己"能够设身处地地理解受访者的选择策略为止"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
@@ -167,7 +170,7 @@ updated: 2026-06-02
 ## 效度保障策略
 
 > [!note]- 效度保障策略
-> 深度访谈的效度不依赖样本量，而依赖资料收集和分析过程中的严谨性。常见策略包括：
+> 深度访谈的效度不依赖[[Sample Size Determination|样本量]]，而依赖资料收集和分析过程中的严谨性。常见策略包括：
 >
 > - **人员校验法（[[Member Checking|member check]]）**：受访者陈述重要观点后，研究者用自身语言复述一遍与受访者确认，确保对意义的准确理解
 > - **[[Triangulation|三角互证]]法（triangulation）**：将访谈结果与观察记录、文件资料、问卷数据等进行交叉对照
@@ -184,7 +187,7 @@ updated: 2026-06-02
 > 回应（Arksey & Knight, 1999; 杨善华 & 孙飞宇, 2005）：
 > - 深度访谈的目的在于获取**意义**和**机制**，而非统计分布——样本应"少而典型"
 > - 来自生活史社会学的研究表明：宏观社会过程会以不同方式投射到不同个人身上，影响其生命历程并反映在个人意义建构中——可以"以小见大"，在地方性知识的基础上建立具有社会意义的理论推论
-> - 深度访谈的"可推广性"是分析性的（analytical generalization），而非统计性的（statistical generalization）——将发现推广到理论，而非推广到总体
+> - 深度访谈的"[[External Validity|可推广性]]"是分析性的（analytical generalization），而非统计性的（statistical generalization）——将发现推广到理论，而非推广到总体
 
 ---
 

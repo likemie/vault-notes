@@ -36,6 +36,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Individualised Instruction]]"
   - "[[Emergence]]"
+  - "[[External Validity]]"
   - "[[School Leadership]]"
   - "[[Sage]]"
   - "[[Educational Management Organisation]]"
@@ -332,7 +333,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 >    - 2009 — *Visible Learning* 出版；*Sunday STAR Times* 头版报道引发媒体风暴
 >    - 2010 — [[Argument_Hattie_2010_NZJES|Hattie]] 在 NZJES 系统性回应 [[Argument_Snook_2009_NZJES|Snook et al.]] 等批评
 > 
->    [[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书"，以 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。回应核心：①研究质量已标注；②d=0.40"或许武断但绝非任意"，基于 800+ 元分析经验均值；③新西兰可推广性——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；④驳斥选择性引用[[Class Size|班级规模]] STAR 大[[Effect Size|效应量]]（pp.88–91）。
+>    [[Argument_Hattie_2010_NZJES|Hattie (2010, pp.86–87)]] 自述"很明显许多评论者并未读过这本书"，以 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。回应核心：①研究质量已标注；②d=0.40"或许武断但绝非任意"，基于 800+ 元分析经验均值；③新西兰[[External Validity|可推广性]]——"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）；④驳斥选择性引用[[Class Size|班级规模]] STAR 大[[Effect Size|效应量]]（pp.88–91）。
 > 
 > 3. **2010–2018 — 商业化与品牌扩张**
 > 

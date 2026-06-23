@@ -25,6 +25,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
+  - "[[External Validity]]"
   - "[[Transformative Paradigm]]"
   - "[[International Education]]"
   - "[[Outcomes-based Education]]"
@@ -66,7 +67,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]从既有理论出发进行演绎检验，追求客观性和可推广性；建构主义从参与者的主观经验出发进行归纳，关注多元视角和具体情境。
+> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]从既有理论出发进行演绎检验，追求客观性和[[External Validity|可推广性]]；建构主义从参与者的主观经验出发进行归纳，关注多元视角和具体情境。
 > - vs [[Transformative Paradigm]] — 建构主义专注于理解参与者的意义建构，变革主义则认为仅理解是不够的，研究还应包含推动社会变革的行动议程。
 
 ---

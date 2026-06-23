@@ -31,23 +31,25 @@ related_concepts:
   - "[[Champ]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
+  - "[[Knowledge Production]]"
+  - "[[Analytic Framework]]"
   - "[[Transformative Paradigm]]"
+  - "[[Operationalization]]"
+  - "[[Ontology]]"
+  - "[[Epistemology]]"
+  - "[[Axiology]]"
   - "[[Paradigm Wars]]"
   - "[[Research Question]]"
   - "[[Scientific Method]]"
   - "[[Statistical Significance]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
-  - "[[Operationalization]]"
-  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Emergence]]"
   - "[[Scientism]]"
   - "[[Critical Pedagogy]]"
-  - "[[Knowledge Production]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Axiology]]"
   - "[[Variable]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
@@ -58,8 +60,8 @@ related_concepts:
   - "[[Postmodernism]]"
   - "[[Orientalism]]"
   - "[[Heterogeneity]]"
-  - "[[Ontology]]"
   - "[[Purpose Statement]]"
+  - "[[External Validity]]"
   - "[[Consequential Validity]]"
   - "[[Effect Size]]"
 related_theories:
@@ -144,9 +146,9 @@ updated: 2026-06-16
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **知识构成性兴趣**<br>Knowledge-Constitutive Interests<br>[[Jürgen Habermas\|Habermas (1972)]] | 区分三种塑造知识生产的根本兴趣——技术兴趣（预测与控制）、实践兴趣（理解与诠释）、解放兴趣（解放与自由）。每种兴趣对应一种研究范式、一种方法论和一套合法性标准。这一三分法同时是**分析框架**（用于分类现有研究）、**批判工具**（用于揭示技术兴趣在教育中的支配地位）和**规范标准**（用于判断研究是否服务于解放）。 |
+> | **知识构成性兴趣**<br>Knowledge-Constitutive Interests<br>[[Jürgen Habermas\|Habermas (1972)]] | 区分三种塑造[[Knowledge Production\|知识生产]]的根本兴趣——技术兴趣（预测与控制）、实践兴趣（理解与诠释）、解放兴趣（解放与自由）。每种兴趣对应一种[[Paradigm\|研究范式]]、一种方法论和一套合法性标准。这一三分法同时是**[[Analytic Framework\|分析框架]]**（用于分类现有研究）、**批判工具**（用于揭示技术兴趣在教育中的支配地位）和**规范标准**（用于判断研究是否服务于解放）。 |
 > | **意识形态**<br>Ideology | 特指**对可普遍化利益的压制**——支配群体以"普遍利益"为名推进其部门利益，使弱势群体的自由以牺牲为代价。意识形态不是认知错误，而是**权力运作的机制**。在教育中表现为：课程内容被呈现为"客观知识"而非特定群体的价值选择，教育政策被呈现为"技术优化"而非利益分配。 |
-> | **变革范式**<br>[[Transformative Paradigm]]<br>Mertens (2007) | 将批判理论的解放兴趣操作化为贯穿研究全过程的本体论、认识论、方法论和价值论（axiology）四重信念体系，并将混合方法与参与式行动研究整合进变革导向的研究设计。 |
+> | **变革范式**<br>[[Transformative Paradigm]]<br>Mertens (2007) | 将[[Critical Theory\|批判理论]]的解放兴趣[[Operationalization\|操作化]]为贯穿研究全过程的[[Ontology\|本体论]]、[[Epistemology\|认识论]]、方法论和[[Axiology\|价值论]]（axiology）四重信念体系，并将[[Mixed Methods Research\|混合方法]]与参与式行动研究整合进变革导向的研究设计。 |
 
 > [!warrant]- 理论如何支撑论证
 > 哈贝马斯的三分法提供了一个**统摄性框架**，将第1章的[[Positivism|实证主义]]和[[Interpretive Paradigm|诠释范式]]分别归入技术兴趣和实践兴趣，从而为[[Critical Theory|批判理论]]在方法论版图中找到了明确的理论位置——即解放兴趣。这一框架的推理逻辑是：**如果所有知识都由利益构成，那么声称[[Value Neutrality|价值中立]]本身就是一种利益立场（维护现状的利益）。** 由此，批判理论不仅能与前两大[[Paradigm|范式]]并列，还能对前两者进行"元批判"——追问它们各自服务于谁的利益、再生产了什么样的权力关系。本章随后展开的[[Ideology Critique|意识形态批判]]、课程分析、[[Participatory Research|参与式研究]]和[[Feminist Research|女性主义研究]]，都是在不同经验领域中对这一框架的实例化。
@@ -535,7 +537,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > | **研究者角色** | 外部、中立观察者 | 内部、参与式理解者 | 变革推动者、批判者、促进者 |
 > | **[[Purpose Statement\|研究目的]]** | 发现普遍法则；解释、预测和控制 | 理解主观意义；诠释社会世界的复杂性 | 揭露权力运作；赋权被压迫者；改变社会走向平等与民主 |
 > | **权力观** | 权力不被视为分析类别 | 关注参与者主观视角中的权力体验 | 权力是分析的核心——揭示谁受益、谁被压制、如何改变 |
-> | **合法性标准** | 信度、效度、可复制性、可推广性 | 可信度、可转移性、确认性、厚描述 | 变革效果（[[Consequential Validity\|结果效度]]）、赋权程度、利益分析的穿透力 |
+> | **合法性标准** | 信度、效度、可复制性、[[External Validity\|可推广性]] | 可信度、可转移性、确认性、厚描述 | 变革效果（[[Consequential Validity\|结果效度]]）、赋权程度、利益分析的穿透力 |
 > | **局限** | 忽视自我解释能力、忽视能动性；实验室发现琐碎化 | 微观封闭风险、忽视权力结构；主观报告可能不可靠 | 批判与解放的因果链未经验证；理论可能停留在思辨；自身无法避免意识形态立场 |
 > | **典型方法** | [[Randomised Controlled Trials\|随机对照试验]]、调查、[[Causal Modeling\|结构方程建模]] | 深度访谈、参与观察、叙事分析、[[Grounded Theory\|扎根理论]] | 意识形态批判、参与式行动研究、女性主义/批判民族志 |
 > | **教育研究实例** | 测量"教师反馈对学生成绩的[[Effect Size\|效应量]]" | 理解"教师和学生如何体验课堂互动" | 追问"课程大纲服务于谁的利益，如何改变它" |

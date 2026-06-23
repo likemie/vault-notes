@@ -38,6 +38,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Homework]]"
+  - "[[External Validity]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
@@ -309,7 +310,7 @@ updated: '2026-06-08'
 > - 平均化掩盖复杂性（如[[Homework|家庭作业]]总体 d=0.29，小学仅 0.15、中学 0.64）
 > - 社会背景被选择性排除，但这些因素解释 70–80% 校间差异
 > - [[Class Size|班级规模]]（d=0.2 被政策解读为"无效果"）和[[Performance Pay|绩效工资]]存在被误用的严重风险
-> - 大多数研究来自英语发达国家，可推广性有限
+> - 大多数研究来自英语发达国家，[[External Validity|可推广性]]有限
 >
 > **第二回合：[[Argument_Hattie_2010_NZJES|Hattie (2010)]] — [[Critic and Conscience of Society]]**
 >

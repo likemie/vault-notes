@@ -34,9 +34,11 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
+  - "[[External Validity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Evolutionary Economics]]"
+  - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
@@ -73,7 +75,7 @@ updated: 2026-06-10
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Pavitt Taxonomy]]**<br>Pavitt 分类法（1984） | 将制造业按创新来源、性质和规模特征分为科学基础型（SB）、专业供应商型（SS）、规模密集型（SI）、供应商主导型（SD）四类 |
-> | **[[Evolutionary Economics\|演化经济学]]**<br>Nelson & Winter (1982) | 经济活动的多样性和异质性是演化过程的核心特征，技术轨迹和累积性学习塑造产业差异 |
+> | **[[Evolutionary Economics\|演化经济学]]**<br>Nelson & Winter (1982) | 经济活动的多样性和[[Heterogeneity\|异质性]]是演化过程的核心特征，[[Technological Trajectories\|技术轨迹]]和累积性学习塑造产业差异 |
 
 ---
 ## 研究方法
@@ -81,7 +83,7 @@ updated: 2026-06-10
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **部门创新数据库**<br>[[Sectoral Innovation Database\|Sectoral Innovation Database]]（SID） | Urbino 大学开发的跨国家产业层面数据库，整合 CIS 2、3、4 数据，匹配经济表现指标。覆盖德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威 |
+> | **部门创新数据库**<br>[[Sectoral Innovation Database\|Sectoral Innovation Database]]（SID） | Urbino 大学开发的跨国家产业层面数据库，整合 [[Centre for Independent Studies\|CIS]] 2、3、4 数据，匹配经济表现指标。覆盖德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威 |
 > | **主成分分析**<br>Principal Component Analysis | 检验创新来源、目标和产出的维度结构，验证不同行业分组的统计合理性 |
 > | **回归分析**<br>Regression Analysis | 以创新-绩效关系为检验平台，比较不同行业分组方案的解释力 |
 
@@ -233,7 +235,7 @@ updated: 2026-06-10
 > [!warning]
 > 研究明确承认以下局限（pp.175-176）：
 > - 数据为行业层面聚合数据，无法捕捉企业内部的[[Heterogeneity|异质性]]：同一两位数行业内不同企业的创新模式可能差异显著
-> - 社区创新调查（[[Community Innovation Survey]]，[[Centre for Independent Studies|CIS]]） 数据的国家覆盖范围有限（7+1 国），未纳入东欧国家和新兴经济体，限制了结论的全球可推广性
+> - 社区创新调查（[[Community Innovation Survey]]，[[Centre for Independent Studies|CIS]]） 数据的国家覆盖范围有限（7+1 国），未纳入东欧国家和新兴经济体，限制了结论的全球[[External Validity|可推广性]]
 > - 服务业分类的实证支持不如制造业充分——服务业的 CIS 数据可获性和质量存在差异
 > - 分类法本质上是静态快照，无法捕捉行业从一种模式向另一种模式的动态转型
 

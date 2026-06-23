@@ -20,6 +20,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Forest Plot]]"
+  - "[[Sample Size Determination]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Visible Learning]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
   - "[[Homework]]"
+  - "[[External Validity]]"
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Feedback]]"
@@ -113,7 +115,7 @@ updated: '2026-05-21'
 >
 > **在教育领域的扩展（1990s–2010s）**
 >
-> 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，样本量与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
+> 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而，[[Sample Size Determination|样本量]]与效应量之间的系统性相关（相关系数 –0.28）表明该领域仍面临方法论挑战（Cheung & Slavin, 2015, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
 
 ---
 
@@ -127,7 +129,7 @@ updated: '2026-05-21'
 > [!example] 操作步骤
 > 1. **选择源研究**：基于技术标准（如是否为 [[Randomised Controlled Trials|RCT]]）筛选相关研究
 > 2. **提取[[Effect Size|效应量]]**：从每项源研究中提取或计算标准化效应量
-> 3. **加权与平均**：对效应量进行加权（通常按样本量），计算平均效应量
+> 3. **加权与平均**：对效应量进行加权（通常按[[Sample Size Determination|样本量]]），计算平均效应量
 > 4. **报告**：以平均效应量（有时转换为更直观的单位，如 [[Education Endowment Foundation|EEF]] Toolkit 的"额外学习月数"）呈现结果
 >
 > [[Meta-meta-analysis|元-元分析]]（Meta-meta-analysis）是在元分析基础上进一步聚合——综合多个元分析的效应量产生更高层次的排名或估计。Wecker, Vogel & Hetmanek（2016）从[[Fixed-Effect and Random-Effects Models|固定效应模型]]推导了该方法必须满足的 6 项方法论要求（包括公式 1-9 的完整数学推导和等价性证明），并论证 Hattie 的 *[[Visible Learning]]* 在六个分析步骤中均存在方法论不足。完整技术细节见 [[Meta-meta-analysis]]。
@@ -139,7 +141,7 @@ updated: '2026-05-21'
 > [!success] 作为效果总体估计的工具
 > - 当有大量使用可比较设计和结果测量的研究时，元分析可以提供效果的总体估计
 > - 在医学领域（其起源领域），元分析在已有充分理论理解治疗机制的前提下可以补充回答"效果平均多大"
-> - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。Cooper 和 Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与样本量直接相关的统计显著性([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])
+> - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。Cooper 和 Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与[[Sample Size Determination|样本量]]直接相关的统计显著性([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])
 > - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110–111]])
 
 > [!success] 作为追问变异和调节[[Variable|变量]]的工具
@@ -169,7 +171,7 @@ updated: '2026-05-21'
 > 2. **[[Publication Bias|发表偏差]]**：支持有利结论的研究更可能被发表——在药物公司资助的研究和利润丰厚的教育时尚（如学习风格）中尤其严重（p.97）
 > 3. **教育[[Variable|变量]]难以清晰界定**：与医学中"药物 A vs 药物 B"不同，"以儿童为中心 vs 以教师为中心"等教育变量通常处于连续谱上，主观判断不可或缺。Hattie 本人承认[[Whole Language|全语言]]的两项元分析因分类差异导致结论矛盾（p.97）
 > 4. **平均化消除复杂性**：以[[Homework|家庭作业]]为例，总体 d=0.29 掩盖了小学 d=0.15、中学 d=0.64 以及数学、科学、社会研究之间的巨大差异（p.97）
-> 5. **可推广性有限**：大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家——在发展中国家学校效应（相对于教师效应）远更大（p.97–98）
+> 5. **[[External Validity|可推广性]]有限**：大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家——在发展中国家学校效应（相对于教师效应）远更大（p.97–98）
 >
 > **"苹果和橙子"问题（1980s–）**
 >
@@ -205,7 +207,7 @@ updated: '2026-05-21'
 >
 > 干预效果（相对于比较组的改善）应区别于成熟差异（单组设计）。相关效果（如作业与学业表现之间的关系）与干预效果（有作业与无作业的比较）本质不同。这些研究中教育成就的底部分布可能不同，使比较失去意义。
 
-> [!warning] 嵌套数据结构与样本量偏差
+> [!warning] 嵌套数据结构与[[Sample Size Determination|样本量]]偏差
 > **聚类效应**([[Argument_Higgins_2016_RE|Higgins, 2016, p.40]])
 >
 > 学校中学生的嵌套或聚类结构常未被考虑。学生在班级中，班级在学校中，两者都可能影响不同方法的效果。不考虑这一点可能导致效果被高估（Campbell et al., 2012; Raudenbush, 1997）。

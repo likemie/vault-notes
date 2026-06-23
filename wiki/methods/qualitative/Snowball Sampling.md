@@ -29,6 +29,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Sampling Frame]]"
   - "[[Policy Network]]"
+  - "[[External Validity]]"
   - "[[Pragmatic Paradigm]]"
 related_methods:
   - "[[Non-probability Sampling]]"
@@ -124,7 +125,7 @@ Lee (1993, p. 66) 指出网络化策略的两个关键限制：
 > - **初始种子偏差**：初始种子的特征可能过度主导后续样本。Browne (2005) 在研究非异性恋女性时发现，作为白人、中产阶级群体的一员，她的联系人倾向来自相似背景，其他群体因不在同一社交圈被排除。
 > - **[[Gatekeepers|守门人]]保护偏差**：守门人可能通过不转介朋友来保护他们（Heckathorn, 1997, p. 175），偏差既可纳入也可排除某些群体成员。
 > - **同质性偏差（来自 Ch09 的补充）**：滚雪球样本内的关系可能由互惠性和传递性（reciprocity and transitivity）构成（Lee, 1993, p. 67）。参与者之间关系紧密且不愿打破这些关系，导致样本属性的高度同质化。研究者通过一个朋友网络找到的人，往往在关键特征上系统性相似。
-> - **研究性质蜕变为[[Convenience Sampling|便利抽样]]**：使用滚雪球抽样可能将原本设计的随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，从而损害可推广性，或需要通过综合多个案例研究来获得可推广性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 205]]）。
+> - **研究性质蜕变为[[Convenience Sampling|便利抽样]]**：使用滚雪球抽样可能将原本设计的随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，从而损害[[External Validity|可推广性]]，或需要通过综合多个案例研究来获得可推广性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 205]]）。
 > - **选择困境**：面临的选择往往是接受非概率策略或什么都不做。妥协进行的研究总比因为追求方法论纯粹性而完全放弃的研究好——但这一[[Pragmatic Paradigm|实用主义]]立场本身需要被透明地承认和报告。
 > - **缓解方式**：采用多波次、多起点以覆盖不同子群；结合关键信息提供者抽样和靶向抽样；在报告中对样本代表性的局限性进行充分透明的讨论。
 
@@ -139,8 +140,8 @@ Lee (1993, p. 66) 指出网络化策略的两个关键限制：
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Non-probability Sampling]] | 上级方法 | 滚雪球抽样是非概率抽样的一种具体形式，共享其无法保证统计代表性的方法论特征。 |
-> | [[Convenience Sampling]] | 退化方向 | 当滚雪球抽样的波次不足或种子选择缺乏多样性时，可能退化为便利抽样——样本的可推广性进一步降低。 |
+> | [[Non-probability Sampling]] | 上级方法 | 滚雪球抽样是非[[Random Sampling\|概率抽样]]的一种具体形式，共享其无法保证统计代表性的方法论特征。 |
+> | [[Convenience Sampling]] | 退化方向 | 当滚雪球抽样的波次不足或种子选择缺乏多样性时，可能退化为便利抽样——样本的[[External Validity\|可推广性]]进一步降低。 |
 > | [[Purposeful Sampling]] | 补充方法 | 目的性抽样可用于选择具有最大变异性的初始种子，从而缓解滚雪球抽样的同质性偏差。 |
 > | [[Gatekeepers]] | 相关概念 | 在网络化策略中，滚雪球抽样被用作绕过守门人的工具。守门人的存在是网络化策略被采用的直接原因之一。 |
 

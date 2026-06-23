@@ -22,6 +22,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Analytic Framework]]"
+  - "[[External Validity]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -83,7 +84,7 @@ updated: 2026-05-30
 > [!warning]
 > - 需要研究者在现场长时间投入，时间和资源成本高。
 > - 研究者的文化背景可能影响观察和解释，需要高度的[[Reflexivity|反身性]]。
-> - 对单个群体的深入描述可能限制结论的可推广性。
+> - 对单个群体的深入描述可能限制结论的[[External Validity|可推广性]]。
 > - 进入某些[[Champ|场域]]可能面临制度性障碍。
 
 ## 方法变体与相近方法

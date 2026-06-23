@@ -19,6 +19,7 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Epistemology]]"
   - "[[Axiology]]"
+  - "[[External Validity]]"
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
   - "[[Descriptive Validity]]"
@@ -46,7 +47,7 @@ updated: 2026-06-23
 > [!concept-lens] 概念透镜
 > - **含义** 评价效度将"效度"从[[Epistemology|认识论]]问题扩展为**[[Axiology|价值论]]**（axiological）问题——研究不仅需要准确描述和充分解释现象，还需要明确其评价立场并检验该评价立场是否站得住脚。
 > - **用途** 在[[Critical Theory|批判理论]]、[[Feminist Research|女性主义研究]]和参与式行动研究等明确持有价值承诺的研究取向中，评价效度提供了衡量研究的批判性价值判断是否"有效"的标准框架。
-> - **边界** 评价效度在其他四种 Maxwell 效度类型中最为独特——前四种（描述、解释、理论和可推广性）在某种程度上都试图保持对现象的"中立"姿态（尽管 Maxwell 框架整体上比[[Positivism|实证主义]]更接受主观性）。评价效度则**放弃了对中立性的声称**——研究者的评价议程不是需要被控制的偏差，而是效度论证的组成部分。
+> - **边界** 评价效度在其他四种 Maxwell 效度类型中最为独特——前四种（描述、解释、理论和[[External Validity|可推广性]]）在某种程度上都试图保持对现象的"中立"姿态（尽管 Maxwell 框架整体上比[[Positivism|实证主义]]更接受主观性）。评价效度则**放弃了对中立性的声称**——研究者的评价议程不是需要被控制的偏差，而是效度论证的组成部分。
 
 ---
 

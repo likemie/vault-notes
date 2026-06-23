@@ -15,7 +15,8 @@ related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance
-related_concepts: []
+related_concepts:
+  - "[[External Validity]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -83,4 +84,4 @@ updated: 2026-06-18
 
 > [!case] 应用案例索引
 > - 匿名[[Survey Research|问卷调查研究]]——使用编号而非姓名、不收集可识别信息
-> - 学校研究中的匿名处理——Walford (2005) 指出，即使使用了化名，每所学校"只能在其历史和社会政治位置的语境中被理解"——省略这些必要的语境细节使研究失去了可推广性
+> - 学校研究中的匿名处理——Walford (2005) 指出，即使使用了化名，每所学校"只能在其历史和社会政治位置的语境中被理解"——省略这些必要的语境细节使研究失去了[[External Validity|可推广性]]

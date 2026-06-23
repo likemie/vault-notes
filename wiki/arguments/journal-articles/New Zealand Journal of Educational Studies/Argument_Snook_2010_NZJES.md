@@ -33,6 +33,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Variable]]"
   - "[[Homework]]"
+  - "[[External Validity]]"
   - "[[Humility in Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Purpose Statement]]"
@@ -89,7 +90,7 @@ citation_aliases:
 >
 > 4. **平均化掩盖复杂性**：以[[Homework|家庭作业]]为例——Hattie 最终产生 d=0.29 的平均[[Effect Size|效应量]]，"发出家庭作业不重要的信号"，尽管他自己的数据表明家庭作业对中学生、高能力学生和某些学科非常重要。废除家庭作业可能损害许多学生的教育(p.95)
 >
-> 5. **新西兰的可推广性**：Hattie 本人提请注意从主要为美国来源推广到其他教育体系的问题。Snook et al. 的立场是[[Humility in Learning|谦逊]]且合理的——新西兰学校、教师、学生和课程可能与美国有足够差异，[[Meta-analysis|元分析]]可能不完全适用(pp.95-96)
+> 5. **新西兰的[[External Validity|可推广性]]**：Hattie 本人提请注意从主要为美国来源推广到其他教育体系的问题。Snook et al. 的立场是[[Humility in Learning|谦逊]]且合理的——新西兰学校、教师、学生和课程可能与美国有足够差异，[[Meta-analysis|元分析]]可能不完全适用(pp.95-96)
 >
 > 6. **d=0.40 截断值**：所有截断值在某种意义上都是武断的（Hattie 本人承认），对于许多目的而言更低的截断值可以辩护（如药物研究）。更重要的一点是：大样本随机研究中的小效应量具有重大意义，小样本的大效应量则"最好无意义，最糟是危险的"(p.96)
 >

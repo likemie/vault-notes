@@ -33,11 +33,13 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer Office]]"
+  - "[[External Validity]]"
 related_theories:
   - "[[UIC Evolutionary Phases]]"
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Qualitative Interview]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Synthesis and Solid State Pharmaceutical Centre]]"
@@ -68,7 +70,7 @@ updated: 2026-06-10
 > [!framework-table] 分析视角
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **演化视角**<br>Evolutionary Perspective | 将产学合作视为随时间演化的动态过程，而非静态状态 |
+> | **演化视角**<br>Evolutionary Perspective | 将[[University-Industry Collaboration\|产学合作]]视为随时间演化的动态过程，而非静态状态 |
 > | **[[UIC Evolutionary Phases]]**<br>产学合作演化四阶段 | 胚胎期、启动期、参与期、确立期，每阶段有三组界面（产业-产业、产业-大学、大学-大学）的差异化障碍和促进因素 |
 > | **[[Social Capital Theory\|社会资本理论]]**<br>Social Capital Theory | 解释信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化 |
 
@@ -78,9 +80,9 @@ updated: 2026-06-10
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **单一站点案例研究**<br>Single Site Case Study | 以 SSPC 为案例，追踪其从成立前到成熟（13 年以上）的完整演化过程 |
+> | **单一站点案例研究**<br>Single Site Case Study | 以 [[Synthesis and Solid State Pharmaceutical Centre\|SSPC]] 为案例，追踪其从成立前到成熟（13 年以上）的完整演化过程 |
 > | **半结构化深度访谈**<br>Semi-structured Interviews | 10 次访谈，每次 50-105 分钟，覆盖学术界和产业界的核心参与者 |
-> | **主题分析**<br>Thematic Analysis | 开放式编码 → 抽象编码 → 概念与理论编码的三阶段分析过程 |
+> | **主题分析**<br>Thematic Analysis | 开放式[[Coding in Qualitative Research\|编码]] → 抽象编码 → 概念与理论编码的三阶段分析过程 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -171,7 +173,7 @@ updated: 2026-06-10
 ## 自述局限
 
 > [!warning]
-> 研究明确承认（pp.925-927）：单一站点案例研究设计限制了发现的可推广性——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 的特定情境（制药行业、小型开放经济体爱尔兰、成熟的[[University-Industry Collaboration|产学合作]]历史）可能影响障碍和促进因素的性质和时间。制药行业的知识密集性和高知识产权敏感性可能使某些障碍（如知识泄露恐惧和知识产权冲突）比其他行业更突出。未来研究需要在不同行业、国家和合作阶段中检验四阶段模型。
+> 研究明确承认（pp.925-927）：单一站点案例研究设计限制了发现的[[External Validity|可推广性]]——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 的特定情境（制药行业、小型开放经济体爱尔兰、成熟的[[University-Industry Collaboration|产学合作]]历史）可能影响障碍和促进因素的性质和时间。制药行业的知识密集性和高知识产权敏感性可能使某些障碍（如知识泄露恐惧和知识产权冲突）比其他行业更突出。未来研究需要在不同行业、国家和合作阶段中检验四阶段模型。
 
 ---
 ## 来源

@@ -27,8 +27,10 @@ tags:
   - theme/regional-development
   - source/report
 related_concepts:
+  - "[[Absorptive Capacity]]"
   - "[[Technology Transfer]]"
   - "[[Structural Holes]]"
+  - "[[External Validity]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Lester's Typology of University Contributions to Local Industry]]"
@@ -64,7 +66,7 @@ updated: 2026-06-10
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Lester's Typology of University Contributions to Local Industry]]**<br>Lester 大学贡献分类 | 根据本地产业转型类型（新产业形成、产业移植、产业多样化、产业升级）区分大学的不同贡献方式 |
-> | **创新系统理论**<br>Innovation Systems | 将大学视为本地创新系统的锚点，其贡献取决于系统内企业的吸收能力和转型路径 |
+> | **创新系统理论**<br>Innovation Systems | 将大学视为本地[[Systems of Innovation\|创新系统]]的锚点，其贡献取决于系统内企业的[[Absorptive Capacity\|吸收能力]]和转型路径 |
 
 ---
 ## 研究方法
@@ -190,7 +192,7 @@ Lester 指出，这些间接贡献往往比直接的专利许可和创业孵化�
 ## 自述局限
 
 > [!warning]
-> 研究属于探索性的多案例比较研究，22 个案例虽然覆盖了广泛的产业和国家情境，但每个案例都是独特的。匹配案例对比增强了发现的可推广性，但仍然无法替代大规模定量验证。此外，研究聚焦于本地[[Systems of Innovation|创新系统]]中的大学角色，对其他关键行动者（政府、风投、大企业）的分析相对有限。
+> 研究属于探索性的多案例比较研究，22 个案例虽然覆盖了广泛的产业和国家情境，但每个案例都是独特的。匹配案例对比增强了发现的[[External Validity|可推广性]]，但仍然无法替代大规模定量验证。此外，研究聚焦于本地[[Systems of Innovation|创新系统]]中的大学角色，对其他关键行动者（政府、风投、大企业）的分析相对有限。
 
 ---
 ## 来源

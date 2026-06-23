@@ -22,6 +22,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
+  - "[[External Validity]]"
   - "[[Critical Pedagogy]]"
   - "[[Evidence-Based Education]]"
   - "[[What Works Movement]]"
@@ -42,6 +43,7 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Quantitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Feminist Research]]"
 related_persons:
@@ -51,6 +53,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -97,7 +100,7 @@ updated: 2026-06-18
 > - **事实与价值二分**：严格区分”实然”（What is，描述客观事实）与”应然”（What ought to be，做出道德或规范评判），研究仅对前者负责。
 > - **程序控制**：通过双盲实验、[[Random Assignment|随机分配]]、统计控制以及同行评议等标准化程序，将研究者的主观因素对结论的干扰降到最低。
 > - **去政治化修辞**：在报告撰写中采用不带感情色彩的第一人称回避（如被动语态）和数据卡片，呈现出无党派偏见、客观中立的科学面貌。
-> - **量化效度的实证主义前提**：Cohen, Manion & Morrison (2011) 将价值中立列为[[Positivism|实证主义]]量化研究效度的九项基本前提之一——与可控性、可复制性、可预测性、可推广性、去情境化、碎片化、随机化和可观测性并置，构成量化研究对”研究者价值无涉”的方法论承诺。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
+> - **量化效度的[[Positivism|实证主义]]前提**：Cohen, Manion & Morrison (2011) 将价值中立列为[[Positivism|实证主义]][[Quantitative Research|量化研究]]效度的九项基本前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、随机化和可观测性并置，构成量化研究对”研究者价值无涉”的方法论承诺。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 
 ---
 
