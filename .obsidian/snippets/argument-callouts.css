@@ -11226,115 +11226,205 @@
   background: rgba(128, 128, 128, 0.06);
 }
 
-/* ─── challenges（论证困难/挑战 — 琥珀色编号列表） ──────── */
+/* ═══════════════════════════════════════════════════════════
+   [!challenges] v2 — 网格卡片版
+   琥珀警示配色；圆形编号徽章内置卡片；右上半透明大号数字；
+   标题/正文分行；奇数项最后一个铺满；hover 上浮 + 徽章弹跳
+   ═══════════════════════════════════════════════════════════ */
 .callout[data-callout="challenges"] {
   --callout-color: 200, 130, 40;
+  --ch: 200, 130, 40;
   --callout-icon: lucide-triangle-alert;
   background:
-    repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 3px,
-      rgba(200, 130, 40, 0.025) 3px,
-      rgba(200, 130, 40, 0.025) 5px
-    ),
-    linear-gradient(160deg, rgba(200, 130, 40, 0.07), rgba(200, 130, 40, 0.015)),
+    linear-gradient(135deg, rgba(200, 130, 40, 0.07) 0%, rgba(200, 130, 40, 0.01) 100%),
     var(--background-primary);
-  border-left: 4px solid rgba(200, 130, 40, 0.45);
-  padding: 0.75rem 1rem;
-  margin-block: 0.9rem 0.6rem;
+  border: 1px solid rgba(200, 130, 40, 0.18);
+  border-left: 4px solid rgba(200, 130, 40, 0.55);
+  border-radius: 10px;
+  padding: 0.80rem 0.90rem 0.88rem;
 }
 
 .callout[data-callout="challenges"] > .callout-title {
-  color: rgb(160, 100, 25);
+  color: rgb(158, 98, 22);
   font-weight: 700;
-  font-size: var(--fs-body);
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.45rem;
 }
 
 .callout[data-callout="challenges"] > .callout-title .callout-title-inner::before {
   content: "CHALLENGES";
   display: inline-block;
-  font-size: var(--fs-label);
+  font-size: 0.60em;
   font-weight: 800;
-  letter-spacing: 0.08em;
-  color: rgba(200, 130, 40, 0.55);
-  margin-right: 0.5rem;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: rgba(200, 130, 40, 0.60);
+  margin-right: 0.52rem;
   vertical-align: middle;
 }
 
-.callout[data-callout="challenges"] .callout-content {
-  counter-reset: challenge-counter;
-  padding-left: 0.2rem;
-}
-
-.callout[data-callout="challenges"] .callout-content > ol {
+/* ── 网格容器 ─────────────────────────────────────────────── */
+.callout[data-callout="challenges"] .callout-content > ol,
+.callout[data-callout="challenges"] .callout-content > ul {
+  counter-reset: challenge-n;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.60rem;
   list-style: none;
-  counter-reset: challenge-counter;
-  padding-inline-start: 0;
-  margin-block: 0.3rem 0.1rem;
+  padding: 0;
+  margin: 0;
 }
 
-.callout[data-callout="challenges"] .callout-content > ol > li {
-  counter-increment: challenge-counter;
+/* 默认：2 列 */
+.callout[data-callout="challenges"] .callout-content > ol > li,
+.callout[data-callout="challenges"] .callout-content > ul > li {
+  grid-column: span 3;
+  counter-increment: challenge-n;
   position: relative;
-  padding: 0.45rem 0 0.45rem 2.2rem;
-  margin-bottom: 0.35rem;
-  border-bottom: 1px dashed rgba(200, 130, 40, 0.15);
-  line-height: 1.6;
-  font-size: var(--fs-body);
+  padding: 0.60rem 2.8rem 0.65rem 2.65rem;
+  border: 1px solid rgba(var(--ch), 0.16);
+  border-left: 3px solid rgba(var(--ch), 0.50);
+  border-radius: 8px;
+  background: linear-gradient(150deg,
+    rgba(var(--ch), 0.07) 0%,
+    rgba(var(--ch), 0.01) 100%
+  );
+  line-height: 1.65;
+  overflow: hidden;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.callout[data-callout="challenges"] .callout-content > ol > li:hover,
+.callout[data-callout="challenges"] .callout-content > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(var(--ch), 0.16);
+  border-color: rgba(var(--ch), 0.30);
 }
 
-.callout[data-callout="challenges"] .callout-content > ol > li:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
+/* 1 项 → 全宽 */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(1):last-child) > li,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(1):last-child) > li {
+  grid-column: span 6;
 }
 
-.callout[data-callout="challenges"] .callout-content > ol > li::before {
-  content: counter(challenge-counter);
+/* 3 项 → 3 列 */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(3):last-child) > li,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(3):last-child) > li {
+  grid-column: span 2;
+}
+
+/* 5 项 → 2+3 */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(-n+2),
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(-n+2) {
+  grid-column: span 3;
+}
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(5):last-child) > li:nth-child(n+3),
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(5):last-child) > li:nth-child(n+3) {
+  grid-column: span 2;
+}
+
+/* 7 项 → 2+3+2 */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(7):last-child) > li,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(7):last-child) > li {
+  grid-column: span 3;
+}
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5),
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(7):last-child) > li:nth-child(n+3):nth-child(-n+5) {
+  grid-column: span 2;
+}
+
+/* 奇数项：最后一个铺满 */
+.callout[data-callout="challenges"] .callout-content > ol:has(> li:nth-child(odd):last-child) > li:last-child,
+.callout[data-callout="challenges"] .callout-content > ul:has(> li:nth-child(odd):last-child) > li:last-child {
+  grid-column: 1 / -1;
+}
+
+/* ── 圆形编号徽章（左侧内置） ─────────────────────────────── */
+.callout[data-callout="challenges"] .callout-content > ol > li::before,
+.callout[data-callout="challenges"] .callout-content > ul > li::before {
+  content: counter(challenge-n);
   position: absolute;
-  left: 0;
-  top: 0.35rem;
-  width: 1.5rem;
-  height: 1.5rem;
+  left: 0.62rem;
+  top: 0.58rem;
+  width: 1.55rem;
+  height: 1.55rem;
   border-radius: 50%;
-  background: rgba(200, 130, 40, 0.12);
-  color: rgb(160, 100, 25);
-  font-size: var(--fs-caption);
-  font-weight: 700;
+  background: rgba(var(--ch), 0.15);
+  color: rgb(155, 95, 18);
+  font-size: 0.66em;
+  font-weight: 800;
   text-align: center;
-  line-height: 1.5rem;
-  border: 1.5px solid rgba(200, 130, 40, 0.25);
+  line-height: 1.55rem;
+  border: 1.5px solid rgba(var(--ch), 0.28);
+  transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
+              box-shadow 0.18s ease;
+}
+.callout[data-callout="challenges"] .callout-content > ol > li:hover::before,
+.callout[data-callout="challenges"] .callout-content > ul > li:hover::before {
+  transform: scale(1.18) rotate(12deg);
+  box-shadow: 0 0 0 2px rgba(var(--ch), 0.40);
 }
 
-/* 嵌套 strong 标题高亮 */
-.callout[data-callout="challenges"] .callout-content > ol > li > strong {
-  color: rgb(160, 100, 25);
+/* ── 右上大号半透明装饰数字 ──────────────────────────────── */
+.callout[data-callout="challenges"] .callout-content > ol > li::after,
+.callout[data-callout="challenges"] .callout-content > ul > li::after {
+  content: "0" counter(challenge-n);
+  position: absolute;
+  top: 0.10rem;
+  right: 0.55rem;
+  font-size: 1.80em;
+  font-weight: 900;
+  font-family: var(--font-monospace);
+  color: rgba(var(--ch), 0.10);
+  letter-spacing: -0.04em;
+  line-height: 1;
+  pointer-events: none;
 }
 
-/* 明暗主题 */
+/* ── 标题行（紧凑列表 strong / 松散列表 p:first-child） ───── */
+.callout[data-callout="challenges"] .callout-content li > strong:first-child {
+  display: block;
+  font-size: 0.92em;
+  font-weight: 750;
+  color: rgb(155, 95, 18);
+  margin-bottom: 0.16rem;
+  line-height: 1.38;
+}
+.callout[data-callout="challenges"] .callout-content li > p:first-child {
+  margin: 0 0 0.20rem;
+  padding-bottom: 0.18rem;
+  border-bottom: 1px solid rgba(var(--ch), 0.14);
+  font-weight: 700;
+  font-size: 0.92em;
+  color: rgb(155, 95, 18);
+  line-height: 1.38;
+}
+.callout[data-callout="challenges"] .callout-content li > p:not(:first-child) {
+  margin: 0;
+  font-size: 0.87em;
+  line-height: 1.60;
+  opacity: 0.90;
+}
+
+/* ── 暗色模式 ────────────────────────────────────────────── */
 .theme-dark .callout[data-callout="challenges"] {
+  --ch: 220, 150, 55;
   background:
-    repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 3px,
-      rgba(200, 130, 40, 0.04) 3px,
-      rgba(200, 130, 40, 0.04) 5px
-    ),
-    linear-gradient(160deg, rgba(200, 130, 40, 0.1), rgba(200, 130, 40, 0.02)),
+    linear-gradient(135deg, rgba(200, 130, 40, 0.10) 0%, rgba(200, 130, 40, 0.02) 100%),
     var(--background-primary);
-  border-left-color: rgba(220, 150, 60, 0.45);
+  border-color: rgba(220, 150, 55, 0.22);
+  border-left-color: rgba(220, 150, 55, 0.55);
 }
-
 .theme-dark .callout[data-callout="challenges"] > .callout-title {
-  color: rgb(210, 150, 55);
+  color: rgb(215, 158, 62);
 }
-
-.theme-dark .callout[data-callout="challenges"] .callout-content > ol > li::before {
-  background: rgba(200, 130, 40, 0.18);
-  color: rgb(210, 150, 55);
-  border-color: rgba(220, 150, 60, 0.35);
+.theme-dark .callout[data-callout="challenges"] .callout-content li > strong:first-child,
+.theme-dark .callout[data-callout="challenges"] .callout-content li > p:first-child {
+  color: rgb(220, 165, 75);
+}
+.theme-dark .callout[data-callout="challenges"] .callout-content > ol > li::before,
+.theme-dark .callout[data-callout="challenges"] .callout-content > ul > li::before {
+  background: rgba(220, 150, 55, 0.20);
+  color: rgb(225, 165, 70);
+  border-color: rgba(220, 150, 55, 0.38);
 }
 
 /* ─── fit-grid（适用判断三格 — 绿/琥珀/红 信号灯配色） ──── */

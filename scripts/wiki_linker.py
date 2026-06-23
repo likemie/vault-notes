@@ -112,6 +112,24 @@ def is_safe_table_cell(cell: str) -> bool:
     return TABLE_UNSAFE_CELL_RE.search(cell) is None
 
 
+def unsafe_table_cell_spans(line: str) -> list[tuple[int, int]]:
+    """Return character spans for Markdown table cells that should not be linked."""
+    if is_markdown_table_separator_line(line):
+        return []
+    positions = unescaped_pipe_positions(line)
+    if len(positions) < 2:
+        return []
+
+    spans: list[tuple[int, int]] = []
+    cursor = positions[0] + 1
+    for pipe_pos in positions[1:]:
+        cell = line[cursor:pipe_pos]
+        if cell.strip() and not is_safe_table_cell(cell):
+            spans.append((cursor, pipe_pos))
+        cursor = pipe_pos + 1
+    return spans
+
+
 def escape_table_wikilink_pipes(line: str) -> str:
     """Escape wikilink alias separators inside Markdown table rows."""
     if not is_markdown_table_line(line):
@@ -492,6 +510,9 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     for line in text.splitlines(keepends=True):
         start, end = pos, pos + len(line)
         stripped = line.lstrip()
+        if is_markdown_table_line(line):
+            for cell_start, cell_end in unsafe_table_cell_spans(line):
+                add(start + cell_start, start + cell_end)
         if re.match(r"^#{1,6}\s", stripped):
             add(start, end)
         # Protect the callout marker itself, e.g. `[!abstract]`, while leaving
