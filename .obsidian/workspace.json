@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
-                "mode": "preview",
+                "file": "books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Li_2012_Cambridge"
+              "title": "Zheng_2023_ShanghaiSanlian"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
     "wiki/concepts/research-methodology/Evaluative Validity.md",
     "wiki/concepts/research-methodology/Theoretical Validity.md",
@@ -233,8 +235,6 @@
     "wiki/concepts/research-methodology/Hawthorne Effect.md",
     "raw/023_10 Validity and reliability.txt",
     "wiki/concepts/research-methodology/Researching Up and Researching Down.md",
-    "wiki/concepts/research-methodology/Interviewer Effects.md",
-    "wiki/concepts/research-methodology/Screening Off.md",
     "wiki/concepts/research-methodology/Sensitive Research.md.tmp.33151.728feba274d9",
     "raw/022_9 Sensitive educational research.txt",
     "wiki/methods/quantitative/Random Sampling.md.tmp.9006.9fd62b59847e",
@@ -243,7 +243,6 @@
     "wiki/concepts/research-methodology/Literature Search.md.tmp.18087.2d8e192bf844",
     "wiki/concepts/research-methodology/Literature Review.md.tmp.18087.bcc08845cf81",
     "raw/020_7 Planning educational research.txt",
-    "~$2026华南师范大学卓泽林活页_修改版.docx",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]
