@@ -4,7 +4,7 @@
 
 Total entries: **111**
 
-> [!summary]- Mixed (19)
+> [!index-list]- Mixed (19)
 > - [[Convergent Design]] — 同时收集量化和质性数据、分别分析后将结果合并比较的混合方法核心设计，整合洞见在于通过多重视角获得对研究问题更完整的理解
 > - [[Explanatory Sequential Design]] — 先收集量化数据再以质性后续数据深入解释量化结果的混合方法核心设计，整合洞见在于用量化发现引导质性探究以获得对变量关系和统计结果的更深层解释
 > - [[Exploratory Sequential Design]] — 先以小样本进行质性探索、基于质性发现开发或修改量化工具、再用大样本检验的混合方法核心设计，整合洞见在于获得对特定样本和人群更具文化或情境适切性的测量工具
@@ -25,7 +25,7 @@ Total entries: **111**
 > - [[Quota Sampling]] — 非概率版的分层抽样，力求按总体中的比例代表显著特征，通过三步程序确保样本中各特征比例与总体一致
 > - [[Sequential Mixed Methods Sampling]] — 一种样本先于另一种并影响后续样本的混合方法抽样设计，定量数据可为深度访谈设置场景，或定性数据可为量化调查识别议题
 
-> [!summary]- Qualitative (43)
+> [!index-list]- Qualitative (43)
 > - [[Archival Correspondence Analysis]] — 利用个人通信、报纸报道和外交函件等一手档案资料交叉验证以重建历史事件的研究方法，常用于教育史和历史研究
 > - [[Audiovisual, Social Media, and Digital Materials]] — 质性研究中以照片、录像、艺术品、网站、社交媒体文本和声音等形式收集数据的方法，是观察和访谈之外的第四种主要数据收集类型
 > - [[Carnivalesque Analysis]] — 通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权力关系的质性分析方法，适合拆解官方话语的自明性
@@ -70,7 +70,7 @@ Total entries: **111**
 > - [[Walford's Four-Stage Access Model]] — Walford(2001)提出的获得研究准入的四阶段模型：接触(Approach)→兴趣(Interest)→意愿(Desire)→成交(Sale)，强调准入是过程而非一次性决策
 > - [[Website Content Analysis]] — 系统收集和分析机构网站公开内容的研究方法，通过内容分类、关键词频率统计和权限等级评估，揭示组织如何对外呈现其结构、职能和战略定位
 
-> [!summary]- Quantitative (49)
+> [!index-list]- Quantitative (49)
 > - [[Analysis of Covariance]] — 在方差分析基础上加入一个或多个协变量以控制其影响后比较调整组间均值的推断统计方法，使用F统计量
 > - [[Analysis of Variance]] — 比较两组或多组均值差异的推断统计方法族，包括ANOVA、ANCOVA和MANOVA等变体
 > - [[Between-Subjects and Within-Subjects Designs]] — 实验设计的两种基本类型，between-subjects 每位受试者只经历一个处理条件，within-subjects 每位受试者经历多个或全部处理条件

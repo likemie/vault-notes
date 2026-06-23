@@ -6,14 +6,14 @@ Total entries: **169**
 
 ## Argentina
 
-> [!summary]- argentina (3)
+> [!index-list]- argentina (3)
 > - [[Alejandro Artopoulos]] — 阿根廷圣安德烈斯大学教育学者，与 Beech 合著关于教育话语跨空间流通的论文，使用行动者网络理论分析阿根廷 Conectar Igualdad 项目
 > - [[Jason Beech]] — 阿根廷圣安德烈斯大学教育学者，研究教育话语的跨空间流通、政策借用与比较教育方法论，提出关系性空间和 ANT 视角
 > - [[Walter Mignolo]] — 阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。
 
 ## Australia
 
-> [!summary]- australia (6)
+> [!index-list]- australia (6)
 > - [[Bob Lingard]] — 澳大利亚教育政策学者，与 Rizvi 合著《全球化教育政策》，关注全球化背景下教育政策的网络治理和跨国力量
 > - [[David Watkins]] — 澳大利亚教育心理学家，中国学习者悖论的核心研究者，通过实证研究揭示东亚学习者表面看似被动实则深度投入的学习模式
 > - [[Fazal Rizvi]] — 澳大利亚高等教育与全球化研究学者，国际化与地缘政治批判分析代表人物，为教育研究理解亚洲崛起与全球高教重组提供框架。
@@ -23,13 +23,13 @@ Total entries: **169**
 
 ## Austria
 
-> [!summary]- unknown (2)
+> [!index-list]- unknown (2)
 > - [[Alfred Schutz]] — 奥地利裔美国社会学家和哲学家，将胡塞尔的现象学习入社会学，创立存在现象学，关注日常生活世界的意义结构、类型化和多重实在。
 > - [[Karl Popper]] — 奥地利裔英国科学哲学家，以证伪主义（falsification）作为科学与非科学的划界标准，主张知识是推测性的、可证伪的和变化中的，深刻影响了后实证主义研究范式。
 
 ## Brazil
 
-> [!summary]- brazil (5)
+> [!index-list]- brazil (5)
 > - [[Camilla de Hollanda Amado]] — 巴西演员和剧场导演，社区剧场项目组织者，为教育研究理解基层文化实践、参与式表演与公共学习提供案例资源。
 > - [[Dell Delambre]] — 巴西认识论学者和实践者，Creative Tension of Sense 与 Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。
 > - [[Marcelo Parreira do Amaral]] — 巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。
@@ -38,12 +38,12 @@ Total entries: **169**
 
 ## Bulgaria
 
-> [!summary]- bulgaria (1)
+> [!index-list]- bulgaria (1)
 > - [[Pepka Boyadjieva]] — 保加利亚社会学家和高等教育研究者，高教多维使命模型提出者，为教育研究反思排名逻辑对大学使命的压缩提供框架。
 
 ## Canada
 
-> [!summary]- canada (7)
+> [!index-list]- canada (7)
 > - [[Carl Bereiter]] — 加拿大教育理论家，知识建构理论代表人物，为教育研究理解学习共同体、知识创造与认知发展提供关键框架。
 > - [[Carol Campbell]] — 加拿大教育领导力学者，证据知情实践与知识动员研究者，围绕系统改革、专业学习与证据使用之间的关系提供安大略路径。
 > - [[Carolyn Shields]] — 加拿大教育学者，变革型领导力理论提出者，为教育研究连接权力、正义与领导实践提供框架。
@@ -54,13 +54,13 @@ Total entries: **169**
 
 ## Chile
 
-> [!summary]- chile (2)
+> [!index-list]- chile (2)
 > - [[Francisco Varela]] — 智利生物学家和神经科学家，自创生理论共同创立者与具身认知代表人物，为教育研究理解认知、主体性与关系性学习提供资源。
 > - [[Humberto Maturana]] — 智利生物学家和哲学家，自创生理论共同创立者与知识之树作者，为教育研究思考生命、认知与关系性学习提供深层本体论资源。
 
 ## China
 
-> [!summary]- china (20)
+> [!index-list]- china (20)
 > - [[Alan C. K. Cheung]] — 中国香港教育研究者，大规模教育随机实验与证据本位改革国际比较研究者，为中文教育实证研究与国际证据对话提供桥梁。
 > - [[Chen Xie]] — 中国比较教育研究者，教育技术实验比较与证据本位改革研究者，为中文教育研究连接国际实证改革议程提供支持。
 > - [[Cheng Brothers]] — 北宋理学家，程颢与程颐兄弟，程朱理学奠基人，重新开启儒家学习传统，将天理概念系统引入修身与学习理论
@@ -84,30 +84,30 @@ Total entries: **169**
 
 ## Colombia
 
-> [!summary]- colombia (1)
+> [!index-list]- colombia (1)
 > - [[Arturo Escobar]] — 哥伦比亚裔美国人类学家和设计理论家，Designs for the Pluriverse作者，为教育研究思考去殖民知识与替代性未来提供视角。
 
 ## Denmark
 
-> [!summary]- denmark (5)
+> [!index-list]- denmark (5)
 > - [[Jill Mehlbye]] — 丹麦教育研究者，高绩效学校与弱势学生提升研究者，为教育研究提供丹麦语境下有效教学与学校改进的本土证据。
 > - [[Klaus Nielsen]] — 丹麦理论心理学家，社会实践学习与 Visible Learning 批判研究者，为教育研究从实践论和合法化危机视角反思证据主义提供资源。
 > - [[Lars Qvortrup]] — 丹麦教育学者和系统理论研究者，专业判断与复杂性教育论述代表人物，为教育研究理解教师判断与教育系统复杂性提供框架。
 > - [[Steen Nepper Larsen]] — 丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判代表人物，为教育研究捍卫教育的哲学维度和非还原性提供重要声音。
 > - [[Thomas Aastrup Rømer]] — 丹麦教育哲学学者，Visible Learning 五线批评与纯粹评价概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。
 
-> [!summary]- unknown (1)
+> [!index-list]- unknown (1)
 > - [[Søren Kierkegaard]] — 丹麦哲学家，存在主义起源者之一，以对客观性的深刻批判和对主观性能力的捍卫，为反实证主义思潮提供了存在主义哲学根基。
 
 ## Finland
 
-> [!summary]- finland (2)
+> [!index-list]- finland (2)
 > - [[Sami Moisio]] — 芬兰政治地理学者，知识经济化与知识经济地缘政治概念提出者，为教育研究分析高教、城市与国家竞争的空间政治提供框架。
 > - [[Yrjö Engeström]] — 芬兰组织学习与教育研究者，在 Vygotsky 中介三角模型基础上发展为第三代活动理论，提出扩展性学习、扩展性改造和边界跨越概念，将活动系统之间矛盾视为集体变革动力
 
 ## France
 
-> [!summary]- france (7)
+> [!index-list]- france (7)
 > - [[Bruno Latour]] — 法国社会学家和哲学家，行动者网络理论的创始人之一，以对科学实践的社会学研究和后人类主义社会理论闻名
 > - [[Didier Eribon]] — 法国社会学家和哲学家，回归故里作者与阶级自传写作代表人物，为教育研究理解阶级流动后的文化撕裂提供思想资源。
 > - [[Frantz Fanon]] — 马提尼克裔法国精神病学家和去殖民思想家，黑皮肤，白面具作者，为教育研究分析殖民主体性、种族化经验与知识解放提供基础。
@@ -116,12 +116,12 @@ Total entries: **169**
 > - [[Pierre Bourdieu]] — 法国社会学家，场域-习性-资本理论创立者与区分作者，为教育研究分析再生产、不平等与学校权力提供核心语言。
 > - [[René Descartes]] — 法国哲学家、数学家与科学家，近代哲学之父，以我思故我在和心物二元论奠定现代认识论基础，将苏格拉底—柏拉图先天论推向新的高峰
 
-> [!summary]- unknown (1)
+> [!index-list]- unknown (1)
 > - [[Auguste Comte]] — 19世纪法国哲学家，实证主义（Positivism）的创始人，首次将实证主义一词用于哲学立场，并催生了作为独立学科的社会学。
 
 ## Germany
 
-> [!summary]- germany (10)
+> [!index-list]- germany (10)
 > - [[Andreas Helmke]] — 德国教育学者和有效教学研究者，Unterrichtsqualität und Lehrerprofessionalität 作者，为课堂质量与教师专业性研究提供德语传统框架。
 > - [[Christiane Thompson]] — 德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。
 > - [[Dietrich Benner]] — 德国教育学家，一般教育学代表人物和 Bildung/Erziehung 区分提出者，为教育研究连接教学论与规范性判断提供基础。
@@ -133,52 +133,52 @@ Total entries: **169**
 > - [[Niklas Luhmann]] — 德国社会学家，社会系统理论创始人与教育系统分析者，为教育研究处理观察、复杂性与制度再生产提供强力工具。
 > - [[Wolfgang Klafki]] — 德国教育学家和 Didaktik 代表人物，批判建设性教学论与时代关键问题课程论提出者，为课程研究连接 Bildung、公共性与未来议题提供框架。
 
-> [!summary]- unknown (1)
+> [!index-list]- unknown (1)
 > - [[Jürgen Habermas]] — 德国哲学家和社会理论家，法兰克福学派第二代代表，对实证主义提供了最具影响力的社会理论批判，揭示了科学主义对诠释学、审美、批判等其他知识形式的压制。
 
-> [!summary]- 德国 (1)
+> [!index-list]- 德国 (1)
 > - [[Edmund Husserl]] — 德国哲学家与数学家，现象学的创始人，提出悬置（epoché）方法与回到事物本身的口号，开创先验现象学传统。
 
 ## Greece
 
-> [!summary]- greece (3)
+> [!index-list]- greece (3)
 > - [[Andreas Kazamias]] — 希腊裔比较教育学者，以历史和人文主义视角研究比较教育，倡导渐进主义-现代主义-改良主义-普罗米修斯式比较教育，CESE 荣誉会员
 > - [[Plato]] — 古希腊哲学家，苏格拉底的学生、亚里士多德的老师，西方哲学奠基人之一，以理型论、洞穴喻、哲学家王等概念深刻塑造了西方形而上学、知识论与教育思想
 > - [[Socrates]] — 古希腊哲学家，西方批判性思维的化身，以苏格拉底式追问法和未经省察的生活不值得过著称，未留下任何著作但通过柏拉图对话录影响西方教育传统
 
 ## Ireland
 
-> [!summary]- ireland (1)
+> [!index-list]- ireland (1)
 > - [[Ellen Hazelkorn]] — 爱尔兰高等教育学者，全球大学排名研究代表人物，为教育研究分析排名治理、声誉竞争与高教政策提供关键参照。
 
 ## Japan
 
-> [!summary]- japan (1)
+> [!index-list]- japan (1)
 > - [[Akira Miyake]] — 日裔认知心理学家，执行功能统一性与多样性框架提出者，为教育研究测量学习中的执行功能与认知控制提供基础模型。
 
 ## Netherlands
 
-> [!summary]- netherlands (2)
+> [!index-list]- netherlands (2)
 > - [[Geert Hofstede]] — 荷兰组织社会心理学家，文化维度理论提出者，为教育研究比较国家文化差异与课堂、学校组织提供常用框架。
 > - [[Gert Biesta]] — 荷兰教育哲学家，教育的美丽风险作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。
 
 ## New Zealand
 
-> [!summary]- New Zealand (1)
+> [!index-list]- New Zealand (1)
 > - [[Viviane Robinson]] — 新西兰教育领导力学者，倡导学生中心与教学领导力，通过元分析确立了教学领导力的实证优势
 
-> [!summary]- new-zealand (1)
+> [!index-list]- new-zealand (1)
 > - [[John Hattie]] — 新西兰教育统计学家，Visible Learning作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。
 
 ## Norway
 
-> [!summary]- norway (2)
+> [!index-list]- norway (2)
 > - [[Jorunn Møller]] — 挪威教育领导力学者，学校治理与问责研究者，为教育研究批判领导力研究的去政治化和OECD化提供重要声音。
 > - [[Thomas Nordahl]] — 挪威教育学者与学校改进论者，Visible Learning 北欧支持路径代表人物，围绕学习结果、专业判断与能力建设重组学校改进论述。
 
 ## Russia
 
-> [!summary]- russia (5)
+> [!index-list]- russia (5)
 > - [[Anatoly Lunacharsky]] — 苏俄首任教育人民委员（1917–1929），主持早期苏联教育体系的建立，将学校教育与工业生产连接但反对单一技术训练，亲自邀请 John Dewey 于 1928 年访问苏联
 > - [[Anton Makarenko]] — 苏联教育改革家，因其教育思想与实践被西方学界称为苏联的 John Dewey，主张通过教育克服不利生活环境，其思想在矫正教育领域受到持续关注
 > - [[Lev Vygotsky]] — 苏联心理学家，以最近发展区、科学概念与自发概念的区分、社会文化理论影响教育研究和课程设计
@@ -187,23 +187,23 @@ Total entries: **169**
 
 ## Spain
 
-> [!summary]- spain (1)
+> [!index-list]- spain (1)
 > - [[Manuel Castells]] — 西班牙社会学家，信息时代和网络社会理论的主要奠基人，以《信息时代》三部曲系统阐述信息化发展模式和国家主义体制转型分析
 
 ## Switzerland
 
-> [!summary]- switzerland (2)
+> [!index-list]- switzerland (2)
 > - [[Jean Piaget]] — 瑞士心理学家，认知发展阶段理论与发生认识论创立者，为教育研究理解儿童发展、建构主义与课程设计提供根基。
 > - [[Norberto Bottani]] — 瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。
 
 ## Taiwan
 
-> [!summary]- taiwan (1)
+> [!index-list]- taiwan (1)
 > - [[Chen Kuan-Hsing]] — 中国台湾文化研究学者，Asia as Method作者与去帝国化倡议者，为教育研究反思知识生产的亚洲视角和后殖民方法提供资源。
 
 ## UK
 
-> [!summary]- uk (36)
+> [!index-list]- uk (36)
 > - [[Adrian Simpson]] — 英国数学教育学者和方法论批评者，效应量误用问题的重要批评者，为教育研究反思统计指标的解释边界提供精密论证。
 > - [[Basil Bernstein]] — 英国教育社会学传统中的关键理论家，以横向知识结构、教育知识分类与框架、教育话语理论影响教育社会学。
 > - [[Bertrand Russell]] — 英国哲学家、逻辑学家与数学家，分析哲学奠基人之一，以《数学原理》《西方哲学史》等巨著深刻影响 20 世纪哲学与公共文化，1950 年获诺贝尔文学奖
@@ -241,16 +241,16 @@ Total entries: **169**
 > - [[Stephen Ball]] — 英国教育社会学家，教育政策语境理论与私有化分析代表人物，为教育研究分析政策网络、市场化与治理变迁提供核心框架。
 > - [[Terry Wrigley]] — 英国教育研究者，批判实在论取向的证据本位教学批评者，为教育研究系统拆解 RCT、元分析与元元分析的层层局限。
 
-> [!summary]- unknown (1)
+> [!index-list]- unknown (1)
 > - [[Francis Bacon]] — 17世纪英国哲学家，提出归纳推理方法，将科学的注意力从权威和逻辑重新引向自然和经验证据，奠定了现代经验科学的方法论基础。
 
 ## US
 
-> [!summary]- united-states (2)
+> [!index-list]- united-states (2)
 > - [[John Dewey]] — 美国哲学家、心理学家与教育改革家，实用主义、功能心理学和进步教育代表人物，以经验、探究、民主和成长重构教育与公共生活，1919–1921 年访华深刻影响中国新教育运动。
 > - [[Sherwood Eddy]] — 美国著名新教传教士和教育者，1931年出版 The Challenge of Russia 论证美国应承认苏联，大量引用 Dewey 1928年访苏的观察作为苏联教育进步的证据
 
-> [!summary]- us (18)
+> [!index-list]- us (18)
 > - [[Amelia Peterson]] — 美国教育研究者，What Works 2.0 框架提出者，为教育研究尝试调和实验科学与改进科学提供整合路径。
 > - [[Ann Swidler]] — 美国文化社会学家，文化工具箱理论提出者，为教育研究理解学生行动策略、文化资源与情境差异提供关键框架。
 > - [[Anthony Bryk]] — 美国教育研究者与组织改进学者，卡内基教学促进基金会前主席，将改进科学与网络化改进共同体引入教育领域，倡导通过基于实践的证据与持续系统反馈推进教育改善。
@@ -270,20 +270,20 @@ Total entries: **169**
 > - [[Robert Slavin]] — 美国教育心理学家，证据本位教育改革奠基人和 Success for All 创建者，为教育研究和政策推动实验评价与项目证据标准化提供关键力量。
 > - [[Stevenson and Stigler]] — 美国比较教育心理学家，通过 The Learning Gap 等跨国比较研究，实证验证了东亚学生在数学成就上持续超越美国学生的现象及其文化根源
 
-> [!summary]- USA (2)
+> [!index-list]- USA (2)
 > - [[Steven Stahl]] — 美国著名阅读研究专家与元分析学者，因其主持的 1989 年与 1994 年全语言教学元分析而处于识字教学与“阅读战争”争论的核心位置。
 > - [[William Jeynes]] — 美国保守派教育学者、元分析专家与福音派传教士，其关于全语言、特许学校和家庭结构的研究在《可见的学习》（Visible Learning，VL）中被大量引用，并引发了方法论与意识形态层面的广泛争议。
 
 ## Usa
 
-> [!summary]- canada-usa (1)
+> [!index-list]- canada-usa (1)
 > - [[Albert Bandura]] — 加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响
 
-> [!summary]- unknown (2)
+> [!index-list]- unknown (2)
 > - [[Harold Garfinkel]] — 美国社会学家，俗民方法学（Ethnomethodology）的创始人，将日常实践活动本身作为经验研究课题，提出索引性和反思性两个核心概念。
 > - [[Thomas Kuhn]] — 美国科学史家和科学哲学家，以《科学革命的结构》（1962）提出范式概念和范式转换理论，深刻改变了人们对科学发展和研究方法的理解。
 
-> [!summary]- usa (11)
+> [!index-list]- usa (11)
 > - [[Egon G. Guba]] — 美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic Inquiry 开创自然主义探究范式，此前在项目评价领域提出第四代评价模型
 > - [[Fred N. Kerlinger]] — 美国教育心理学家和方法论学者，以 Foundations of Behavioral Research 和对量化研究中理论的经典定义而著称
 > - [[Gene Glass]] — 美国教育心理学家，1976年创造元分析一词并发展其方法论，以心理治疗效果研究挑战学术共识，被誉为元分析之父
@@ -296,5 +296,5 @@ Total entries: **169**
 > - [[Robert Marzano]] — 美国教育研究者，提出理论驱动的元综合框架，将教学策略按知识、认知、元认知和自我系统四层分类，追求课堂实践指导的可操作性
 > - [[Yvonna S. Lincoln]] — 美国教育研究方法论学者，与 Guba 合著 Naturalistic Inquiry 开创自然主义探究范式，提出质性研究可信性四标准和模式理论概念
 
-> [!summary]- USA (1)
+> [!index-list]- USA (1)
 > - [[Jim Spohrer]] — IBM 全球大学项目前总监，六 R 产学关系框架（2010）提出者，服务科学领域研究者，ISSIP 董事会成员与 UIDP 高级研究员

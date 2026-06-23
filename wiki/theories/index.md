@@ -4,14 +4,14 @@
 
 Total entries: **87**
 
-> [!summary]- Chinese Philosophy (2)
+> [!index-list]- Chinese Philosophy (2)
 > - [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
 > - [[Neo-Confucianism]] — 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
 
-> [!summary]- Communication Discourse (1)
+> [!index-list]- Communication Discourse (1)
 > - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
-> [!summary]- Comparative Education (8)
+> [!index-list]- Comparative Education (8)
 > - [[Actor-Network Theory]] — Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构
 > - [[Dependency Theory]] — 1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心和边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因，代表人物包括 Carnoy、Altbach、Arnove 和 Watson
 > - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响
@@ -21,14 +21,14 @@ Total entries: **87**
 > - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
 > - [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
-> [!summary]- Curriculum (2)
+> [!index-list]- Curriculum (2)
 > - [[Cuban's Curriculum Change Theory]] — 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组
 > - [[Curriculum Design Coherence Model]] — McPhail 提出的课程设计模型，基于社会实在论，将概念、内容和技能区分为不同类型的知识并要求在设计阶段明确其连接，以实现深层学习
 
-> [!summary]- Education Economics (1)
+> [!index-list]- Education Economics (1)
 > - [[Coupling Coordination Theory]] — 源于系统论的多系统协同发展理论，认为若干子系统之间通过相互作用形成耦合关系，系统整体发展水平取决于耦合强度和各自发展水平的协调程度
 
-> [!summary]- Educational Philosophy (14)
+> [!index-list]- Educational Philosophy (14)
 > - [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织
 > - [[Complexity Theory]] — 一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念。
 > - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
@@ -44,7 +44,7 @@ Total entries: **87**
 > - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 > - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
 
-> [!summary]- Higher Education (11)
+> [!index-list]- Higher Education (11)
 > - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 > - [[Dollinger et al. Framework for UI Collaboration]] — Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估
 > - [[King-Persily Model]] — King 与 Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick 与 Jones（2025）讨论了其在生物医学创新中的适用性
@@ -57,12 +57,12 @@ Total entries: **87**
 > - [[UIC Evolutionary Phases]] — ODwyer、Filieri 和 OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
 > - [[Values Alignment Model]] — Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
 
-> [!summary]- Instruction Pedagogy (3)
+> [!index-list]- Instruction Pedagogy (3)
 > - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
 > - [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
 > - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
 
-> [!summary]- Learning Science Cognitive Science (9)
+> [!index-list]- Learning Science Cognitive Science (9)
 > - [[Appraisal Theory]] — Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
 > - [[Attribution Theory]] — Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度
 > - [[Cognitive Load Theory]] — John Sweller 提出的学习理论，以工作记忆容量有限为核心前提，主张教学设计应减少外在认知负荷、优化内在认知负荷，以促进图式建构和自动化。
@@ -73,7 +73,7 @@ Total entries: **87**
 > - [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
 > - [[Walberg's Educational Productivity Model]] — Herbert Walberg 提出的九因素教育生产力理论，试图通过量化合成识别影响学生学业成就和态度的关键因素，是教育研究中最早被大规模元综合检验的理论框架
 
-> [!summary]- Political Economy Geopolitics (11)
+> [!index-list]- Political Economy Geopolitics (11)
 > - [[Concealment-Exposure Framework]] — 用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。
 > - [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
 > - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
@@ -86,10 +86,10 @@ Total entries: **87**
 > - [[Technological Trajectories]] — Pavitt（1984）和 Dosi（1982）提出的概念，指不同产业沿着根本不同的路径进行技术变迁，由技术来源、用户需求和专有可能性三个因素塑造，是解释产业间创新模式差异的核心理论机制
 > - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
-> [!summary]- Psychology (1)
+> [!index-list]- Psychology (1)
 > - [[Social Learning Theory]] — Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用
 
-> [!summary]- Research Methodology (11)
+> [!index-list]- Research Methodology (11)
 > - [[Absolutist and Relativist Ethics]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
 > - [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
@@ -102,7 +102,7 @@ Total entries: **87**
 > - [[Situated Ethics]] — 一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境
 > - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
 
-> [!summary]- Sociology of Education (13)
+> [!index-list]- Sociology of Education (13)
 > - [[Bacchi's WPR Approach]] — Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。
 > - [[Burrell and Morgan Four Assumptions Framework]] — Burrell and Morgan (1979) 提出的分析社会研究范式差异的理论框架，以本体论、认识论、人性和方法论四组假设沿主观–客观维度排列，揭示一切方法论的差异根植于更深层的哲学假设差异。
 > - [[Capability Approach]] — Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型

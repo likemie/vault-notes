@@ -5420,13 +5420,22 @@
   background: rgba(100, 160, 220, 0.08);
 }
 
-/* ── REF-TABLE 独有 ── */
-.callout[data-callout="ref-table"] th:nth-child(1),
-.callout[data-callout="ref-table"] td:nth-child(1) { width: 28%; font-size: var(--fs-table); }
-.callout[data-callout="ref-table"] th:nth-child(2),
-.callout[data-callout="ref-table"] td:nth-child(2) { width: 34%; font-size: var(--fs-table); }
-.callout[data-callout="ref-table"] th:nth-child(3),
-.callout[data-callout="ref-table"] td:nth-child(3) { width: 38%; font-size: var(--fs-table); }
+/* ── REF-TABLE 独有：列宽随内容自动调整 ── */
+.callout[data-callout="ref-table"] table {
+  table-layout: auto;
+  width: 100%;
+}
+.callout[data-callout="ref-table"] th,
+.callout[data-callout="ref-table"] td {
+  font-size: var(--fs-table);
+  white-space: normal;
+  width: auto;
+}
+/* 首列（标签/术语）：不换行，内容决定宽度 */
+.callout[data-callout="ref-table"] th:first-child,
+.callout[data-callout="ref-table"] td:first-child {
+  white-space: nowrap;
+}
 
 .callout[data-callout="ref-table"] thead th {
   font-size: var(--fs-table);
@@ -12502,7 +12511,8 @@
    ───────────────────────────────────────────── */
 .callout[data-callout="abstract"],
 .callout[data-callout="summary"],
-.callout[data-callout="tldr"] {
+.callout[data-callout="tldr"],
+.callout[data-callout="index-list"] {
   --callout-color: 20, 148, 152;
   background: linear-gradient(135deg, rgba(20, 148, 152, 0.08), rgba(20, 148, 152, 0.01)), var(--background-primary);
   border: 1px solid rgba(20, 148, 152, 0.20);
@@ -12512,25 +12522,30 @@
 }
 .callout[data-callout="abstract"] > .callout-title,
 .callout[data-callout="summary"] > .callout-title,
-.callout[data-callout="tldr"] > .callout-title { color: rgb(14, 118, 122); }
+.callout[data-callout="tldr"] > .callout-title,
+.callout[data-callout="index-list"] > .callout-title { color: rgb(14, 118, 122); }
 .callout[data-callout="abstract"] > .callout-title .callout-title-inner::before { content: "ABSTRACT"; }
 .callout[data-callout="summary"] > .callout-title .callout-title-inner::before { content: "SUMMARY"; }
 .callout[data-callout="tldr"] > .callout-title .callout-title-inner::before { content: "TL;DR"; }
+.callout[data-callout="index-list"] > .callout-title .callout-title-inner::before { content: none; display: none; }
 .callout[data-callout="abstract"]:hover,
 .callout[data-callout="summary"]:hover,
-.callout[data-callout="tldr"]:hover {
+.callout[data-callout="tldr"]:hover,
+.callout[data-callout="index-list"]:hover {
   box-shadow: 0 0 0 2px rgba(20, 148, 152, 0.20), 0 6px 18px rgba(20, 148, 152, 0.12);
 }
 .theme-dark .callout[data-callout="abstract"],
 .theme-dark .callout[data-callout="summary"],
-.theme-dark .callout[data-callout="tldr"] {
+.theme-dark .callout[data-callout="tldr"],
+.theme-dark .callout[data-callout="index-list"] {
   --callout-color: 40, 190, 195;
   border-color: rgba(40, 190, 195, 0.22); border-left-color: rgb(40, 190, 195);
   background: linear-gradient(135deg, rgba(40, 190, 195, 0.09), rgba(40, 190, 195, 0.02)), var(--background-primary);
 }
 .theme-dark .callout[data-callout="abstract"] > .callout-title,
 .theme-dark .callout[data-callout="summary"] > .callout-title,
-.theme-dark .callout[data-callout="tldr"] > .callout-title { color: rgb(50, 200, 205); }
+.theme-dark .callout[data-callout="tldr"] > .callout-title,
+.theme-dark .callout[data-callout="index-list"] > .callout-title { color: rgb(50, 200, 205); }
 
 /* ─────────────────────────────────────────────
    info — 钢蓝

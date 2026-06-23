@@ -347,7 +347,7 @@ def md_line(entry: dict[str, Any]) -> str:
     return f"- [[{entry['title']}]]"
 
 
-def append_callout(lines: list[str], title: str, item_lines: list[str], callout_type: str = "summary") -> None:
+def append_callout(lines: list[str], title: str, item_lines: list[str], callout_type: str = "index-list") -> None:
     count = len(item_lines)
     lines.append(f"> [!{callout_type}]- {title} ({count})")
     for item in item_lines:
