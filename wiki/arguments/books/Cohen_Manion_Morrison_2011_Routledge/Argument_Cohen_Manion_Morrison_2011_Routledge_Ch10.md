@@ -343,18 +343,18 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 基于 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 的框架，量化内部效度面临十种主要威胁（pp.164–166）。详细清单、案例和应对策略见 [[Threats to Internal Validity|内部效度威胁]] 条目。
 
 > [!ref-table] 量化内部效度威胁速查
-> | 威胁 | 核心问题 |
-> |---|---|
-> | 历史（History） | 实验期间的外部事件混淆了处理效应 |
-> | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
-> | 统计回归（Regression） | 极端得分随时间向均值回归 |
-> | 测验（Testing） | 前测使受试者熟悉工具或记住答案 |
-> | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
-> | 选择（Selection） | 组间系统性差异被误判为处理效应 |
-> | 实验损耗（Mortality） | 退出者可能恰好是效果最差的受试者 |
-> | 工具反应性（Instrument reactivity） | 研究工具本身改变了参与者行为 |
-> | 选择-成熟交互 | 实验组和对照组成熟速度不同 |
-> | 第一类与第二类错误 | 拒绝真假设或接受假假设的决策错误 |
+> > | 分组 | 威胁 | 核心问题 |
+> > |---|---|---|
+> > | **受试者** | 历史（History） | 实验期间的外部事件混淆了处理效应 |
+> > | | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
+> > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
+> > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
+> > | | 实验损耗（Mortality） | 退出者可能恰好是效果最差的受试者 |
+> > | | 选择-成熟交互 | 实验组和对照组成熟速度不同 |
+> > | **实验处理** | 工具反应性（Instrument reactivity） | 研究工具本身改变了参与者行为 |
+> > | **实验程序** | 测验（Testing） | 前测使受试者熟悉工具或记住答案 |
+> > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
+> > | | 第一类与第二类错误 | 拒绝真假设或接受假假设的决策错误 |
 
 ---
 
@@ -447,20 +447,20 @@ Lincoln & Guba (1985: 219, 301) 认为[[Interpretive Paradigm|自然主义探究
 Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为十二种类型（pp.167–168）。详细清单见 [[Threats to Internal Validity|内部效度威胁]] 条目。
 
 > [!ref-table] 质性内部效度威胁速查
-> | # | 威胁 | 核心问题 |
-> |---|---|---|
-> | 1 | 反讽合法化（Ironic legitimation） | 能否处理同一情境中多重矛盾的现实 |
-> | 2 | 悖论合法化（Paralogical legitimation） | 能否捕捉效度主张中的悖论 |
-> | 3 | 根茎合法化（Rhizomatic legitimation） | 绘制数据地图时丢失了多少信息 |
-> | 4 | 过度合法化（Voluptuous legitimation） | 解释是否超出了数据的承载能力 |
-> | 5 | [[Descriptive Validity\|描述效度]] | 描述的准确性——事实层面的可靠性 |
-> | 6 | 观察偏差 | 对数据的不充分抽样 |
-> | 7 | 研究者偏差 | 偏见影响数据收集和解释 |
-> | 8 | 反应性（Reactivity） | 研究改变了正在研究的情境 |
-> | 9 | 确认偏差（Confirmation bias） | 倾向于确认已有发现 |
-> | 10 | 虚假确认（Illusory confirmation） | 在不存在关系时发现关系 |
-> | 11 | 因果错误（Causal error） | 无证据时推断[[Causality\|因果关系]] |
-> | 12 | [[Effect Size\|效应量]]忽略 | 拒绝量化精确性错失解释精度 |
+> > | 分组 | 威胁 | 核心问题 |
+> > |---|---|---|
+> > | **认识论合法性** | 反讽合法化（Ironic legitimation） | 能否处理同一情境中多重矛盾的现实 |
+> > | | 悖论合法化（Paralogical legitimation） | 能否捕捉效度主张中的悖论 |
+> > | | 根茎合法化（Rhizomatic legitimation） | 绘制数据地图时丢失了多少信息 |
+> > | | 过度合法化（Voluptuous legitimation） | 解释是否超出了数据的承载能力 |
+> > | **数据质量** | [[Descriptive Validity\|描述效度]] | 描述的准确性——事实层面的可靠性 |
+> > | | 观察偏差 | 对数据的不充分抽样 |
+> > | | 研究者偏差 | 偏见影响数据收集和解释 |
+> > | | 反应性（Reactivity） | 研究改变了正在研究的情境 |
+> > | **推断质量** | 确认偏差（Confirmation bias） | 倾向于确认已有发现 |
+> > | | 虚假确认（Illusory confirmation） | 在不存在关系时发现关系 |
+> > | | 因果错误（Causal error） | 无证据时推断[[Causality\|因果关系]] |
+> > | | [[Effect Size\|效应量]]忽略 | 拒绝量化精确性错失解释精度 |
 
 ---
 

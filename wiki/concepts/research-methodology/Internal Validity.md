@@ -93,18 +93,18 @@ updated: 2026-06-23
 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立了[[Threats to Internal Validity|内部效度威胁]]的经典框架，Creswell & Guetterman (2018) 将其按来源分为受试者、实验处理和实验程序三组共 10 种威胁。Onwuegbuzie & Leech (2006b) 进一步将内部效度威胁扩展至[[Qualitative Research|质性研究]]，列出了 12 种威胁。详细的威胁清单、案例和应对策略见 [[Threats to Internal Validity|内部效度威胁]] 条目。
 
 > [!ref-table] 量化内部效度威胁速查
-> | 威胁 | 来源分组 | 核心问题 |
-> |---|---|---|
-> | 历史（History） | 受试者 | 实验期间的外部事件混淆了处理效应 |
-> | 成熟（Maturation） | 受试者 | 受试者自然成长被误判为处理效果 |
-> | 统计回归（Regression） | 受试者 | 极端得分随时间向均值回归 |
-> | 选择（Selection） | 受试者 | 组间系统性差异被误判为处理效应 |
-> | 流失（Mortality/Attrition） | 受试者 | 退出者可能恰好是效果最差的受试者 |
-> | 处理扩散（Diffusion） | 实验处理 | 对照组与实验组交流导致交叉污染 |
-> | 补偿性怨恨（Resentful Demoralization） | 实验处理 | 对照组因不公平感而消极表现 |
-> | 补偿性竞争（Compensatory Rivalry） | 实验处理 | 对照组加倍努力以证明不差于实验组 |
-> | 测验（Testing） | 实验程序 | 前测使受试者熟悉工具或记住答案 |
-> | 工具（Instrumentation） | 实验程序 | 前后测之间测量工具或评分者变化 |
+> > | 分组 | 威胁 | 核心问题 |
+> > |---|---|---|
+> > | **受试者** | 历史（History） | 实验期间的外部事件混淆了处理效应 |
+> > | | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
+> > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
+> > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
+> > | | 流失（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |
+> > | **实验处理** | 处理扩散（Diffusion） | 对照组与实验组交流导致交叉污染 |
+> > | | 补偿性怨恨（Resentful Demoralization） | 对照组因不公平感而消极表现 |
+> > | | 补偿性竞争（Compensatory Rivalry） | 对照组加倍努力以证明不差于实验组 |
+> > | **实验程序** | 测验（Testing） | 前测使受试者熟悉工具或记住答案 |
+> > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 164–166)]]
 

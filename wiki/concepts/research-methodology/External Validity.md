@@ -56,7 +56,7 @@ updated: 2026-06-23
 > [!def] 核心定义
 > 外部效度（External validity）指研究结果能够**推广**（generalize）到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性**（transferability）。在[[Experimental Research|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 168)]]
 
-[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，外部效度越高，研究结论的适用边界越宽。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，外部效度越高，研究结论的适用边界越宽。
 
 > [!citation-card]- Creswell 对[[Threats to External Validity|外部效度威胁]]的定义
 > 外部效度威胁产生于实验者从样本数据中对其他人群、其他情境以及过去或未来情境做出错误推论时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
@@ -90,20 +90,20 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立了经典框架，Creswell & Guetterman (2018) 按交互类型将其重组为三种威胁。详细的威胁清单、案例和应对策略见 [[Threats to External Validity|外部效度威胁]] 条目。
 
 > [!ref-table] 量化外部效度威胁速查
-> | 威胁 | 来源框架 | 核心问题 |
-> |---|---|---|
-> | 自[[Variable\|变量]]描述不充分 | Campbell & Stanley | 未来无法复制研究条件 |
-> | 总体缺乏代表性 | Campbell & Stanley | 样本不代表[[Study Population and Sample\|目标总体]] |
-> | [[Hawthorne Effect\|霍桑效应]] | Campbell & Stanley | 受试者因被研究而改变行为 |
-> | 因变量[[Operationalization\|操作化]]不充分 | Campbell & Stanley | 测量在真实世界中缺乏效度 |
-> | 对实验条件敏感化 | Campbell & Stanley | 前测改变了受试者对干预的反应 |
-> | 外来因素交互效应 | Campbell & Stanley | 混淆因素与处理交互作用 |
-> | 工具无效或不可靠 | Campbell & Stanley | 数据本身不可信 |
-> | [[Ecological Validity\|生态效度]] | Campbell & Stanley | 一种情境的发现能否推广到另一情境 |
-> | 多重处理效度 | Campbell & Stanley | 多种处理交互效应难以隔离 |
-> | 选择 × 处理交互 | Creswell | 受试者特征过窄限制推广 |
-> | 情境 × 处理交互 | Creswell | 实验情境特殊限制推广 |
-> | 历史 × 处理交互 | Creswell | 时间特殊性限制推广 |
+> > | 来源 | 威胁 | 核心问题 |
+> > |---|---|---|
+> > | **Campbell & Stanley** | 自[[Variable\|变量]]描述不充分 | 未来无法复制研究条件 |
+> > | | 总体缺乏代表性 | 样本不代表[[Study Population and Sample\|目标总体]] |
+> > | | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
+> > | | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
+> > | | 对实验条件敏感化 | 前测改变了受试者对干预的反应 |
+> > | | 外来因素交互效应 | 混淆因素与处理交互作用 |
+> > | | 工具无效或不可靠 | 数据本身不可信 |
+> > | | [[Ecological Validity\|生态效度]] | 一种情境的发现能否推广到另一情境 |
+> > | | 多重处理效度 | 多种处理交互效应难以隔离 |
+> > | **Creswell** | 选择 × 处理交互 | 受试者特征过窄限制推广 |
+> > | | 情境 × 处理交互 | 实验情境特殊限制推广 |
+> > | | 历史 × 处理交互 | 时间特殊性限制推广 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 168–171)]]
 
@@ -126,23 +126,23 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 Lincoln & Guba (1985) 列出四种自然主义威胁，Onwuegbuzie & Leech (2006b) 扩展为十一项。详细清单见 [[Threats to External Validity|外部效度威胁]] 条目。
 
 > [!ref-table] 质性外部效度威胁速查
-> | 威胁 | 来源 | 核心问题 |
-> |---|---|---|
-> | 选择效应 | Lincoln & Guba | [[Construct\|构念]]只与特定群体相关 |
-> | 情境效应 | Lincoln & Guba | 结果是特定情境的函数 |
-> | 历史效应 | Lincoln & Guba | 情境由独特历史达成，不可比较 |
-> | 构念效应 | Lincoln & Guba | 构念是特定群体特有的 |
-> | [[Catalytic Validity\|催化效度]] | Onwuegbuzie & Leech | 研究对研究社群的赋权效果与推广 |
-> | 行动效度 | Onwuegbuzie & Leech | 发现被利益相关者实际使用的程度 |
-> | 调查效度 | Onwuegbuzie & Leech | 研究者的伦理严谨性与专业能力 |
-> | [[Interpretive Validity\|解释效度]] | Onwuegbuzie & Leech | 意义捕捉的情境特定性限制推广 |
-> | [[Evaluative Validity\|评价效度]] | Onwuegbuzie & Leech | 评价框架的跨情境适用性 |
-> | 共识效度 | Onwuegbuzie & Leech | 他人对解释的一致性影响推广 |
-> | 总体/生态/时间可推广性 | Onwuegbuzie & Leech | 推广与非推广边界的合理保持 |
-> | 研究者偏差 | Onwuegbuzie & Leech | 与[[Threats to Internal Validity\|内部效度威胁]]共享 |
-> | 反应性 | Onwuegbuzie & Leech | 情境改变效应与[[Internal Validity\|内部效度]]威胁共享 |
-> | 顺序偏差 | Onwuegbuzie & Leech | 问题顺序对结果可依赖性的影响 |
-> | [[Effect Size\|效应量]] | Onwuegbuzie & Leech | 质性分析中效应量缺失限制精确性 |
+> > | 来源 | 威胁 | 核心问题 |
+> > |---|---|---|
+> > | **Lincoln & Guba** | 选择效应 | [[Construct\|构念]]只与特定群体相关 |
+> > | | 情境效应 | 结果是特定情境的函数 |
+> > | | 历史效应 | 情境由独特历史达成，不可比较 |
+> > | | 构念效应 | 构念是特定群体特有的 |
+> > | **Onwuegbuzie & Leech** | [[Catalytic Validity\|催化效度]] | 研究对研究社群的赋权效果与推广 |
+> > | | 行动效度 | 发现被利益相关者实际使用的程度 |
+> > | | 调查效度 | 研究者的伦理严谨性与专业能力 |
+> > | | [[Interpretive Validity\|解释效度]] | 意义捕捉的情境特定性限制推广 |
+> > | | [[Evaluative Validity\|评价效度]] | 评价框架的跨情境适用性 |
+> > | | 共识效度 | 他人对解释的一致性影响推广 |
+> > | | 总体/生态/时间可推广性 | 推广与非推广边界的合理保持 |
+> > | | 研究者偏差 | 与[[Threats to Internal Validity\|内部效度威胁]]共享 |
+> > | | 反应性 | 情境改变效应与[[Internal Validity\|内部效度]]威胁共享 |
+> > | | 顺序偏差 | 问题顺序对结果可依赖性的影响 |
+> > | | [[Effect Size\|效应量]] | 质性分析中效应量缺失限制精确性 |
 
 Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
