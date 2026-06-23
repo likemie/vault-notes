@@ -391,7 +391,15 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > - **使用同伴数据检查**（peer examination of data） 同行审查原始数据和解释
 > - **使用机械手段记录、存储和检索数据**（mechanical means） 录音、录像等技术手段减少人为记忆偏差
 
-LeCompte & Preissle (1993: 323–4) 进一步提出了质性研究内部效度的几种主导类型：数据置信度（confidence）、数据真实性（authenticity——通过参与者视角报告情境）、数据说服力（cogency）、研究设计稳健性（soundness）、数据可信性（credibility）、数据可审计性（auditability）、数据可依赖性（dependability）和数据可确认性（confirmability）（pp.166–167）。
+> [!feature] 质性内部效度的八种主导类型（LeCompte & Preissle, 1993: 323–4）
+> - **数据置信度**（confidence） 研究结论被数据充分支撑的程度
+> - **数据真实性**（authenticity） 通过参与者视角报告情境的能力
+> - **数据说服力**（cogency） 论证的逻辑力量和连贯性
+> - **研究设计稳健性**（soundness） 研究设计本身的合理性和严谨性
+> - **数据可信性**（credibility） 发现对被研究者而言是否可信，对应量化内部效度
+> - **数据可审计性**（auditability） 研究过程是否可被外部追踪和审查
+> - **数据可依赖性**（dependability） 研究过程和结果是否稳定可追踪，对应量化信度
+> - **数据可确认性**（confirmability） 发现由数据和参与者建构而来，而非研究者偏见，对应量化客观性（pp.166–167）
 
 他们特别深入展开了**真实性**（authenticity）概念，包含五个维度：
 
