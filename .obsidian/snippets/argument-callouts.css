@@ -3966,8 +3966,8 @@
 }
 
 /* ── 列表容器 + 竖轨 ── */
-.callout[data-callout="phase"] .callout-content ul,
-.callout[data-callout="phase"] .callout-content ol {
+.callout[data-callout="phase"] > .callout-content > ul,
+.callout[data-callout="phase"] > .callout-content > ol {
   counter-reset: phase-item;
   list-style: none;
   padding-left: 1.0rem;
@@ -3975,8 +3975,8 @@
   position: relative;
 }
 
-.callout[data-callout="phase"] .callout-content ul::before,
-.callout[data-callout="phase"] .callout-content ol::before {
+.callout[data-callout="phase"] > .callout-content > ul::before,
+.callout[data-callout="phase"] > .callout-content > ol::before {
   content: "";
   position: absolute;
   left: 0.18rem;
@@ -3991,8 +3991,8 @@
 }
 
 /* ── 阶段卡片：flex 布局，badge 和标题同行 ── */
-.callout[data-callout="phase"] .callout-content ul > li,
-.callout[data-callout="phase"] .callout-content ol > li {
+.callout[data-callout="phase"] > .callout-content > ul > li,
+.callout[data-callout="phase"] > .callout-content > ol > li {
   counter-increment: phase-item;
   position: relative;
   display: flex;
@@ -4007,26 +4007,26 @@
   transition: background 0.20s ease, border-color 0.20s ease, transform 0.20s ease;
 }
 
-.callout[data-callout="phase"] .callout-content ul > li:last-child,
-.callout[data-callout="phase"] .callout-content ol > li:last-child {
+.callout[data-callout="phase"] > .callout-content > ul > li:last-child,
+.callout[data-callout="phase"] > .callout-content > ol > li:last-child {
   margin-bottom: 0;
 }
 
-.callout[data-callout="phase"] .callout-content ul > li:hover,
-.callout[data-callout="phase"] .callout-content ol > li:hover {
+.callout[data-callout="phase"] > .callout-content > ul > li:hover,
+.callout[data-callout="phase"] > .callout-content > ol > li:hover {
   background: rgba(155, 103, 44, 0.09);
   border-color: rgba(155, 103, 44, 0.28);
   transform: translateX(3px);
 }
 
-.callout[data-callout="phase"] .callout-content ul > li .list-bullet,
-.callout[data-callout="phase"] .callout-content ol > li .list-bullet {
+.callout[data-callout="phase"] > .callout-content > ul > li .list-bullet,
+.callout[data-callout="phase"] > .callout-content > ol > li .list-bullet {
   display: none !important;
 }
 
 /* ── "Phase N" 胶囊：flex item 1，与标题同行 ── */
-.callout[data-callout="phase"] .callout-content ul > li::before,
-.callout[data-callout="phase"] .callout-content ol > li::before {
+.callout[data-callout="phase"] > .callout-content > ul > li::before,
+.callout[data-callout="phase"] > .callout-content > ol > li::before {
   content: "Phase " counter(phase-item);
   flex: 0 0 auto;
   align-self: center;
@@ -4043,18 +4043,18 @@
   animation: phase-node-pulse 3.2s ease-in-out infinite;
 }
 
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(2)::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(2)::before { animation-delay: 0.8s; }
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(3)::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(3)::before { animation-delay: 1.6s; }
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(4)::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(4)::before { animation-delay: 2.4s; }
-.callout[data-callout="phase"] .callout-content ul > li:nth-child(5)::before,
-.callout[data-callout="phase"] .callout-content ol > li:nth-child(5)::before { animation-delay: 3.2s; }
+.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(2)::before,
+.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(2)::before { animation-delay: 0.8s; }
+.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(3)::before,
+.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(3)::before { animation-delay: 1.6s; }
+.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(4)::before,
+.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(4)::before { animation-delay: 2.4s; }
+.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(5)::before,
+.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(5)::before { animation-delay: 3.2s; }
 
 /* ── 标题段落：flex item 2，占满剩余宽度 ── */
-.callout[data-callout="phase"] .callout-content ul > li > p:first-of-type,
-.callout[data-callout="phase"] .callout-content ol > li > p:first-of-type {
+.callout[data-callout="phase"] > .callout-content > ul > li > p:first-of-type,
+.callout[data-callout="phase"] > .callout-content > ol > li > p:first-of-type {
   flex: 1 1 auto;
   margin: 0;
   font-weight: 700;
@@ -4063,8 +4063,8 @@
 }
 
 /* ── body 段落：强制换行，全宽，加分隔线 ── */
-.callout[data-callout="phase"] .callout-content ul > li > p:not(:first-of-type),
-.callout[data-callout="phase"] .callout-content ol > li > p:not(:first-of-type) {
+.callout[data-callout="phase"] > .callout-content > ul > li > p:not(:first-of-type),
+.callout[data-callout="phase"] > .callout-content > ol > li > p:not(:first-of-type) {
   flex: 0 0 100%;
   margin: 0.40rem 0 0;
   padding-top: 0.38rem;
@@ -4075,8 +4075,8 @@
 }
 
 /* ── 右侧大号装饰数字 ── */
-.callout[data-callout="phase"] .callout-content ul > li::after,
-.callout[data-callout="phase"] .callout-content ol > li::after {
+.callout[data-callout="phase"] > .callout-content > ul > li::after,
+.callout[data-callout="phase"] > .callout-content > ol > li::after {
   content: "0" counter(phase-item);
   position: absolute;
   top: 0.30rem;
@@ -4099,27 +4099,27 @@
   border-left-color: rgba(155, 103, 44, 0.65);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li {
+.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li,
+.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li {
   background: rgba(155, 103, 44, 0.08);
   border-color: rgba(155, 103, 44, 0.20);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li:hover,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li:hover {
+.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li:hover,
+.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li:hover {
   background: rgba(155, 103, 44, 0.14);
   border-color: rgba(155, 103, 44, 0.35);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li::before,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li::before {
+.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li::before,
+.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li::before {
   background: rgba(205, 148, 62, 0.15);
   border-bottom-color: rgba(205, 148, 62, 0.22);
   color: rgb(215, 162, 75);
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li::after,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li::after {
+.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li::after,
+.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li::after {
   color: rgba(205, 148, 62, 0.22);
 }
 
@@ -4133,8 +4133,8 @@
   50%       { background: rgba(205, 148, 62, 0.34); }
 }
 
-.theme-dark .callout[data-callout="phase"] .callout-content ul > li::before,
-.theme-dark .callout[data-callout="phase"] .callout-content ol > li::before {
+.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li::before,
+.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li::before {
   animation-name: phase-node-pulse-dark;
 }
 
