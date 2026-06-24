@@ -91,4 +91,84 @@ views:
     sort:
       - property: person_related_count
         direction: DESC
+
+  - type: table
+    name: 地区 / 英国
+    filters:
+      and:
+        - 'person_region == "uk" || person_region == "UK"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 地区 / 美国
+    filters:
+      and:
+        - 'person_region == "us" || person_region == "US" || person_region == "usa" || person_region == "USA" || person_region == "united-states"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 地区 / 中国
+    filters:
+      and:
+        - 'person_region == "china" || person_region == "China"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 地区 / 德法
+    filters:
+      and:
+        - 'person_region == "germany" || person_region == "Germany" || person_region == "德国" || person_region == "france" || person_region == "France"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 地区 / 澳新加
+    filters:
+      and:
+        - 'person_region == "australia" || person_region == "new-zealand" || person_region == "New Zealand" || person_region == "newzealand" || person_region == "canada"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
 ```
