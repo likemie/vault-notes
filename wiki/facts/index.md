@@ -283,7 +283,7 @@ Total entries: **259**
 
 > [!index-list]- Organization (4)
 > - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
-> - [[Education International]] — 覆盖 172 个国家和地区的全球教师工会网络，拥有 401 个成员组织，以保护和促进公共免费教育及机会平等为核心使命，其与 IMF 和世界银行的合作关系为操演性驱动联盟行为提供了典型案例
+> - [[Education International]] — 覆盖 172 个国家和地区的全球教师工会 network，拥有 401 个成员组织，以保护 and 促进公共免费教育及机会平等为核心使命，其与 IMF 和世界银行的合作关系为操演性驱动联盟行为提供了典型案例
 > - [[Network of Academic Corporate Relations Officers]] — 由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素
 > - [[University Industry Innovation Network]] — 致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征
 

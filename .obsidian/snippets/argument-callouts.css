@@ -2924,7 +2924,7 @@
   border-radius: 999px;
   background: rgba(192, 108, 56, 0.2);
   color: rgb(155, 82, 32);
-  font-size: 0.82em;
+  font-size: 0.90em;
   font-weight: 800;
 }
 
@@ -9140,7 +9140,7 @@
 .callout[data-callout="entry-map"] table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.82em;
+  font-size: 0.90em;
   line-height: 1.55;
   margin: 0;
   table-layout: fixed;
@@ -9161,7 +9161,7 @@
   padding: 0.58rem 1.05rem;
   border-bottom: 2px solid rgba(100, 112, 158, 0.28);
   color: rgb(100, 112, 158);
-  font-size: 0.82em;
+  font-size: 0.90em;
   font-weight: 800;
   letter-spacing: 0.06em;
   text-align: left;
@@ -9173,7 +9173,7 @@
   padding: 0.54rem 1.05rem;
   border-bottom: 1px solid rgba(100, 112, 158, 0.07);
   vertical-align: top;
-  font-size: 0.82em;
+  font-size: 0.90em;
 }
 
 .callout[data-callout="entry-map"] tbody tr:last-child td {
