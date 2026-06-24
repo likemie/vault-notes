@@ -8,7 +8,7 @@ summary: "西班牙社会学家，信息时代和网络社会理论的主要奠�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,7 +27,8 @@ related_theories:
   - "[[Informationalism]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education International]]"
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
   - "[[Argument_Beech_2009_CE]]"
@@ -61,6 +62,7 @@ updated: 2026-06-24
 > | 概念 | [[Soviet Statism]] | 定义国家主义围绕国家机器所有者对社会剩余价值的占有，阐明其在信息时代的转型困境。 |
 > | 理论 | [[Network Society]] | 奠定信息时代社会网络化组织形态的四项运作逻辑（自动机运作、二元逻辑、非等值性、临时互通性）。 |
 > | 理论 | [[Informationalism]] | 提出信息主义作为一种新的发展模式，生产力主要来自知识与信息的优化使用。 |
+> | 政策 | [[Education International]] | 其与 IMF 和世界银行的项目合作，验证了网络社会中不同意识形态组织在临时互通性驱动下的项目联盟。 |
 
 ---
 

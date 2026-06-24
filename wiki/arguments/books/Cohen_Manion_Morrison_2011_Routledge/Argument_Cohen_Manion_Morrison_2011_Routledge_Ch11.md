@@ -437,49 +437,49 @@ LeCompte & Preissle（1993: 82–83）指出民族志方法排除统计抽样有
 **基于案例特征的抽样**
 
 > [!seq-table] 基于案例特征的抽样
-> | 抽样类型 | 来源 | 核心逻辑 |
+> | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | 典型案例抽样 | Bogdan & Biklen; LeCompte & Preissle; Patton | 选取具备平均特征的人或案例，避免因特殊案例而误判。 |
-> | 极端/偏差案例抽样 | Bogdan & Biklen; LeCompte & Preissle; Patton | 选取特征的极端值，以获取特别有启发性或特别棘手的信息。 |
-> | 最大变异抽样 | Patton | 记录不同条件下涌现的独特变化范围，适合探究现象的变异、范围和模式。 |
-> | 强度抽样 | Patton | 选取特征表现强度最高的案例。 |
-> | 同质抽样 | Miles & Huberman | 聚焦于具有相似特征的群体。 |
-> | 独特案例抽样 | Bogdan & Biklen; LeCompte & Preissle | 选取罕见、独特或异常的案例。 |
+> | 典型案例抽样 | 选取具备平均特征的人或案例，避免因特殊案例而误判。 | Bogdan & Biklen; LeCompte & Preissle; Patton |
+> | 极端/偏差案例抽样 | 选取特征的极端值，以获取特别有启发性或特别棘手的信息。 | Bogdan & Biklen; LeCompte & Preissle; Patton |
+> | 最大变异抽样 | 记录不同条件下涌现的独特变化范围，适合探究现象的变异、范围和模式。 | Patton |
+> | 强度抽样 | 选取特征表现强度最高的案例。 | Patton |
+> | 同质抽样 | 聚焦于具有相似特征的群体。 | Miles & Huberman |
+> | 独特案例抽样 | 选取罕见、独特或异常的案例。 | Bogdan & Biklen; LeCompte & Preissle |
 
 **基于标准与结构的抽样**
 
 > [!seq-table] 基于标准与结构的抽样
-> | 抽样类型 | 来源 | 核心逻辑 |
+> | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | 标准基础抽样 | Bogdan & Biklen; LeCompte & Preissle; Miles & Huberman | 预先指定研究必须覆盖的属性或标准，确保样本符合这些标准。 |
-> | 分层目的抽样 | Miles & Huberman | 识别子群体和层级后进行抽样。 |
-> | 随机目的抽样 | Miles & Huberman | 当潜在样本过大时，从中随机选取子样本但仍保持一定的概括性。 |
+> | 标准基础抽样 | 预先指定研究必须覆盖的属性或标准，确保样本符合这些标准。 | Bogdan & Biklen; LeCompte & Preissle; Miles & Huberman |
+> | 分层目的抽样 | 识别子群体和层级后进行抽样。 | Miles & Huberman |
+> | 随机目的抽样 | 当潜在样本过大时，从中随机选取子样本但仍保持一定的概括性。 | Miles & Huberman |
 
 **基于网络与推荐的抽样**
 
 > [!seq-table] 基于网络与推荐的抽样
-> | 抽样类型 | 来源 | 核心逻辑 |
+> | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | [[Snowball Sampling\|滚雪球抽样]] | Bogdan & Biklen; LeCompte & Preissle; Patton | 由第一位受访者推荐下一位，逐步扩大样本网络。 |
-> | 声誉案例抽样 | Bogdan & Biklen; LeCompte & Preissle | 根据该领域专家的推荐选取样本。 |
-> | 机会抽样 | Miles & Huberman | 利用意外事件、线索、想法和议题。 |
+> | [[Snowball Sampling\| Bogdan & Biklen; LeCompte & Preissle; Patton |滚雪球抽样]] | 由第一位受访者推荐下一位，逐步扩大样本网络。 |
+> | 声誉案例抽样 | 根据该领域专家的推荐选取样本。 | Bogdan & Biklen; LeCompte & Preissle |
+> | 机会抽样 | 利用意外事件、线索、想法和议题。 | Miles & Huberman |
 
 **基于理论的抽样**
 
 > [!seq-table] 基于理论的抽样
-> | 抽样类型 | 来源 | 核心逻辑 |
+> | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | [[Theoretical Sampling\|理论抽样]] | Miles & Huberman | 根据对发展中的理论的贡献潜力来选取参与者，抽样随理论涌现而调整。 |
-> | 关键案例抽样 | Bogdan & Biklen; LeCompte & Preissle; Patton | 选取集中展现[[Research Problem\|研究议题]]全部特征的案例，如果此处成立则其他处也可能成立。 |
-> | 验证/否证案例抽样 | Miles & Huberman | 寻找规则的例外以修改规则，或寻找极端/偏差案例来检验理论。 |
+> | [[Theoretical Sampling\| Miles & Huberman |理论抽样]] | 根据对发展中的理论的贡献潜力来选取参与者，抽样随理论涌现而调整。 |
+> | 关键案例抽样 | 选取集中展现[[Research Problem\| Bogdan & Biklen; LeCompte & Preissle; Patton |研究议题]]全部特征的案例，如果此处成立则其他处也可能成立。 |
+> | 验证/否证案例抽样 | 寻找规则的例外以修改规则，或寻找极端/偏差案例来检验理论。 | Miles & Huberman |
 
 **基于可及性的抽样**
 
 > [!seq-table] 基于可及性的抽样
-> | 抽样类型 | 来源 | 核心逻辑 |
+> | 抽样类型 | 核心逻辑 | 来源 |
 > |----------|------|----------|
-> | [[Convenience Sampling\|便利抽样]] | Bogdan & Biklen; LeCompte & Preissle; Patton | 从可接触到的人中选取，省时省力但代表性最弱。 |
-> | 政治重要/敏感案例抽样 | Patton | 选取具有政治重要性或敏感性的案例以引起关注。 |
+> | [[Convenience Sampling\| Bogdan & Biklen; LeCompte & Preissle; Patton |便利抽样]] | 从可接触到的人中选取，省时省力但代表性最弱。 |
+> | 政治重要/敏感案例抽样 | 选取具有政治重要性或敏感性的案例以引起关注。 | Patton |
 
 Maxwell（2005: 89–90）归纳了目的性选择的四种可能目的：
 

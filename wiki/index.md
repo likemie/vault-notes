@@ -578,7 +578,7 @@ Total entries: **1468**
 > - [[Multimethod Research]] — 收集多种量化数据来源或多种质性数据来源的研究方法，与混合方法研究的关键区别是不需要同时包含量化和质性两类数据，也不需要数据整合
 > - [[Narrative Hook]] — 学术引言中用于吸引读者进入研究的开篇语句，通过问题、数字冲击或适度概括性语言激发阅读兴趣，源自英语写作中的 narrative hook 概念
 > - [[Narrative Thought Types]] — Tarshis (1982) 提出的学术叙事四层结构框架，将文本中的思想按功能分为伞式思想、大思想、小思想和注意力思想四种类型，用于诊断和改善学术写作者常见的结构失衡问题
-> - [[Naturalistic Generalization]] — Stake (1995) 在案例研究中提出的概念，指研究者将基于案例的命题性概括与自身个人经验相结合，形成的更富情境感的推广形式
+> - [[Naturalistic Generalization]] — 质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。
 > - [[Necessary and Sufficient Conditions]] — 因果分析中区分因果条件类型的逻辑工具：必要条件是不可缺少的前提，充分条件是单独足以产生效果的条件
 > - [[Negative Case Analysis]] — 质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln 和 Guba 可信性标准的核心操作之一
 > - [[Nomothetic and Idiographic]] — 源自 Burrell and Morgan 的方法论维度区分，通则式以量化分析和普遍法则为目标，个例式以对独特个体案例的质性理解为目标，是量化与质性研究分野的方法论根基。
