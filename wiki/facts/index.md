@@ -97,7 +97,7 @@ Total entries: **259**
 > - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
 > - [[2014 Hukou Reform]] — 2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局
 > - [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
-> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议和11 起蒙古族自杀事件
+> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议 and 11 起蒙古族自杀事件
 > - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
 
 > [!trail]- University-industry links (8)
@@ -192,7 +192,7 @@ Total entries: **259**
 > - [[1904 Educational System]] — 1904 年清政府颁布的中国第一个现代国家学制，以日本学制为蓝本并受德国模式影响，涵盖幼儿园至高等教育，引入现代课程体系以培养合格国民、实现国家富强与抵御外侮
 > - [[1922 Educational System Reform]] — 1922 年由中华民国教育部颁布的学制改革，以七项灵活标准取代固定教育宗旨，引入美国式六-三-三学制与1923年学分制课程，深受杜威思想影响但在实施中淡化民主政治内涵
 > - [[2014 Hukou Reform]] — 2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局
-> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议和11 起蒙古族自杀事件
+> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议 and 11 起蒙古族自杀事件
 > - [[China Basic Education Curriculum Reform]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 > - [[China College Graduate Employment Reform]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
 > - [[China S&T Innovation Policy Evolution]] — 新中国成立以来，中国科技创新政策经历了从体系构建、融合探索、自主创新到深度融合四个阶段的演变，推动了科技与产业关系从无偿输送向深度融合的根本转变。

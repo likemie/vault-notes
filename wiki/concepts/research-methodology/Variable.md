@@ -6,20 +6,24 @@ aliases:
 summary: "量化研究中可被测量或观察且在不同个体或组织之间变化的特征或属性，是构建理论、提出假设和检验因果关系的基本分析单位"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Definition of Terms]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
+  - "[[Bildung]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Random Assignment]]"
@@ -28,6 +32,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -44,35 +49,35 @@ updated: 2026-06-25
 > [!quote]
 > "A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])
 
-与变量相对的概念是**常量**（constant）。常量是一个研究中所有个体都具有的特征或条件。许多研究变量是由研究者创生的变量，这类变量的内涵实际上是研究者的理论假设（齐梅, 2015, Ch.2）。
+与变量相对的概念是**常量**（constant）。常量是一个研究中所有个体都具有的特征或条件。许多研究变量是由研究者创生的变量，这类变量的内涵实际上是研究者的理论假设（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ---
 
 ## 变量的定义方式
 
-界定变量内涵的方法有两种：概念性定义（conceptual definition）和操作性定义（operational definition）。在界定变量时，通常先采用概念性定义（引用专家学者已提出的定义），再采用操作性定义（研究者自己构设的定义内涵及执行操作步骤）（齐梅, 2015, Ch.2）。
+界定变量内涵的方法有两种：概念性定义（conceptual definition）和[[Definition of Terms|操作性定义]]（operational definition）。在界定变量时，通常先采用概念性定义（引用专家学者已提出的定义），再采用操作性定义（研究者自己构设的定义内涵及执行操作步骤）（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ### 概念性定义
 
-概念性定义指根据概念外延或假设特征来赋予研究变量新的内涵，常使用一个概念来界定另一个概念（变量）。其主要特点在于凸显被界定变量的本质属性或特征。例如，从教育现象的角度，"教学"可定义为"教师的教和学生的学所组成的活动"，用"活动"这一概念来界定"教学"的概念（齐梅, 2015, Ch.2）。
+概念性定义指根据概念外延或假设特征来赋予研究变量新的内涵，常使用一个概念来界定另一个概念（变量）。其主要特点在于凸显被界定变量的本质属性或特征。例如，从教育现象的角度，"教学"可定义为"教师的教和学生的学所组成的活动"，用"活动"这一概念来界定"教学"的概念（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 > [!proc] 做出概念性定义的步骤
 > 1. **确定该研究变量的上位概念** 如"特殊教育"的上位概念选用"教育"
 > 2. **运用归纳法** 从个别到一般，抽取同类事物的共同属性，确定本质特征。如"满足特殊学生的特殊需要而特别设计的教学"就是"特殊教育"的本质特征
 > 3. **将本质特征与上位概念整合** 形成完整的概念性定义。如：特殊教育是"满足特殊学生的特殊需要而特别设计的教学"
 
-概念性定义涵盖较多的研究变量所属特征，适用于逻辑分析和质性研究。但概念性定义不具有可操作性，无法依据其进行问卷设计或实验设计，不能重复实验以验证结果，因此不适合量化研究（齐梅, 2015, Ch.2）。
+概念性定义涵盖较多的研究变量所属特征，适用于逻辑分析和[[Qualitative Research|质性研究]]。但概念性定义不具有可操作性，无法依据其进行问卷设计或实验设计，不能重复实验以验证结果，因此不适合[[Quantitative Research|量化研究]]（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ### 操作性定义
 
-操作性定义（operational definition）是根据可观察、可测量、可操作的特征来界定变量含义的方法。即从具体的行为、特征、指标上对变量的操作进行描述，将抽象的概念转换成可观测、可检验的项目。从本质上说，操作性定义就是详细描述研究变量的操作程序和测量指标（齐梅, 2015, Ch.2）。
+操作性定义（operational definition）是根据可观察、可测量、可操作的特征来界定变量含义的方法。即从具体的行为、特征、指标上对变量的操作进行描述，将抽象的概念转换成可观测、可检验的项目。从本质上说，操作性定义就是详细描述研究变量的操作程序和测量指标（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
-操作性定义有两种类型（齐梅, 2015, Ch.2）：
+操作性定义有两种类型（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）：
 
 > [!contrast-table] 两种操作性定义
 > | 维度 | 测量的操作性定义 | 实验的操作性定义 |
 > |---|---|---|
-> | 含义 | 根据如何测量和观察研究变量而下的定义 | 根据如何操作研究变量而下的定义 |
+> | 含义 | 根据如何测量和[[Observational and Correlational Research\|观察研究]]变量而下的定义 | 根据如何操作研究变量而下的定义 |
 > | 示例 | "饥饿"界定为"一分钟内压低杠杆10次以上而获取食物的小白鼠" | "强化"界定为"学生出现某种行为时，教师加以称赞或对之微笑" |
 > | 适用场景 | 通过标准化行为或指标来测量变量 | 描述研究变量的详细过程或活动 |
 
@@ -87,9 +92,9 @@ updated: 2026-06-25
 
 ### 两种定义的关系
 
-概念性定义与操作性定义各有利弊，可以互补。概念性定义是操作性定义的前提和依据，操作性定义则是概念性定义的延续和发展。概念性定义属理论层面的定义，是抽象的、逻辑化的；操作性定义属操作层面的定义，是具体的、行动的、实践的（齐梅, 2015, Ch.2）。
+概念性定义与操作性定义各有利弊，可以互补。概念性定义是操作性定义的前提和依据，操作性定义则是概念性定义的延续和发展。概念性定义属理论层面的定义，是抽象的、逻辑化的；操作性定义属操作层面的定义，是具体的、行动的、实践的（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
-在使用问卷调查法和实验法等侧重于实证和量化分析的方法时，有两种处理方式：一种是先做出概念性定义，再根据概念性定义做出操作性定义，这适合对研究变量本质特征争议较大、内涵具有显著不确定性的变量；另一种是省去概念性定义环节，研究者根据自己对变量的理解直接做出操作性定义，这适合对变量本质特征争议不大、内涵具有相对确定性的变量。第二种方法在实证研究中较为常用（齐梅, 2015, Ch.2）。
+在使用问卷调查法和[[Experimental Research|实验法]]等侧重于实证和量化分析的方法时，有两种处理方式：一种是先做出概念性定义，再根据概念性定义做出操作性定义，这适合对研究变量本质特征争议较大、内涵具有显著不确定性的变量；另一种是省去概念性定义环节，研究者根据自己对变量的理解直接做出操作性定义，这适合对变量本质特征争议不大、内涵具有相对确定性的变量。第二种方法在实证研究中较为常用（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ## 概念辨析
 
@@ -164,9 +169,9 @@ updated: 2026-06-25
 > | | 无关变量（irrelevant variable） | 对因变量不产生影响的变量，也叫干扰变量、中间变量或复合变量 |
 
 > [!warning] 额外变量的注意
-> 例如研究不同教养倾向的父母对小学生攻击性行为的影响时，具有相同教养倾向家庭中的小学生攻击性行为也存在差异，这时就需要考虑学生本人的个性特质等其他原因。此时，个性特征就是额外变量——虽然不是研究者研究的自变量，但对研究结果也产生了一定影响（齐梅, 2015, Ch.2）。
+> 例如研究不同[[Bildung|教养]]倾向的父母对小学生攻击性行为的影响时，具有相同教养倾向家庭中的小学生攻击性行为也存在差异，这时就需要考虑学生本人的个性特质等其他原因。此时，个性特征就是额外变量——虽然不是研究者研究的自变量，但对研究结果也产生了一定影响（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
-除上述分类外，还可以从其他角度进行分类，如定性变量和定量变量、简单变量和复杂变量、具体变量和抽象变量等（齐梅, 2015, Ch.2）。
+除上述分类外，还可以从其他角度进行分类，如定性变量和定量变量、简单变量和复杂变量、具体变量和抽象变量等（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ## 理论基础
 

@@ -4,7 +4,7 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -163,7 +164,7 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 > - **泛读（General Reading）** 旨在了解文献的基本思想与结论，用以判断文献利用价值，概括了解研究的焦点、动向与新进展。
 > - **精读／批判性阅读（Critical Reading）** 旨在全面、具体掌握文献的实质内容，在理解的基础上进行评价、质疑，甚至挑出文章中的错误之处。
 
-除阅读外，还需要进行文献记录和文献目录整理。文献记录可借助摘要和札记两种方式：摘要是对文献基本观点、论据、方法等的概述；札记是研究者在阅读过程中将自己的认识要点、联想、疑问、评价、启示等予以记录。文献目录整理应在日常进行，将文献的作者、名称、出处建立档案，避免遗漏过多的参考文献（齐梅, 2015, Ch.1）。
+除阅读外，还需要进行文献记录和文献目录整理。文献记录可借助摘要和札记两种方式：摘要是对文献基本观点、论据、方法等的概述；札记是研究者在阅读过程中将自己的认识要点、联想、疑问、评价、启示等予以记录。文献目录整理应在日常进行，将文献的作者、名称、出处建立档案，避免遗漏过多的参考文献（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.1）。
 
 ### 文献综述的五部分撰写结构
 
