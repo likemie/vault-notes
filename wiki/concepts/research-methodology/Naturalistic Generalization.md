@@ -3,7 +3,7 @@ title: Naturalistic Generalization
 aliases:
   - 自然主义概括
   - naturalistic generalizations
-summary: "Stake (1995) 在案例研究中提出的概念，指研究者将基于案例的命题性概括与自身个人经验相结合，形成的更富情境感的推广形式"
+summary: "质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。"
 type: concept
 domain: "research-methodology"
 related_count: 5
@@ -23,37 +23,75 @@ related_methods:
   - "[[Case Study]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-24
 ---
 
 # Naturalistic Generalization
 
 ## 定义
 
-> [!info]
-> 自然主义概括（naturalistic generalization）是 Stake (1995) 在案例研究方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization，即研究者的解释和主张总结）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。它来自[[Qualitative Research|质性研究]]中理论作为研究终点的运用方式。
+> [!def] 核心定义
+> 自然主义概括（naturalistic generalization）是 Stake（1995）在案例研究方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。在更广泛的质性研究方法论中，自然主义概括指一种不由研究者通过统计抽样完成、而由**读者**通过将案例的厚描述与自身情境进行对照来完成的认知推广过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 444–446)]]
+
+> [!concept-lens] 概念透镜
+> - **含义** 一种读者驱动的概括形式：研究者提供充分的厚描述，读者自行判断研究发现与自身情境的相似性和可迁移性。
+> - **用途** 使质性研究的发现能够超越单个案例，在不对总体进行统计推断的前提下实现有意义的迁移。
+> - **边界** 不等于统计概括——不以概率和抽样为基础；不等于研究者概括——概括的责任和判断在读者而非研究者。
+
+> [!quote]
+> 在案例研究中，Stake (1995) 在命题性概括之外，还加入了研究者的个人经验，称为"自然主义概括"（p.86; 引自 Creswell & Creswell, 2022, p.67）。
+
+---
 
 ## 核心特征
 
 自然主义概括与传统量化概括的区别在于其情境嵌入性。它不是从样本到总体的统计推广，而是读者在阅读案例研究报告时，通过将自己的经验与案例中描述的情境进行对照，自行完成的认知推广过程。研究者提供的是深[[Rich and Thick Description|厚描述]]（thick description），读者则在此基础上判断该案例与自身情境的相似性和可迁移性。
 
-> [!quote]
-> 在案例研究中，Stake (1995) 在命题性概括（研究者的解释和主张总结）之外，还加入了研究者的个人经验，称为"自然主义概括"（p.86; 引自 Creswell & Creswell, 2022, p.67）。
+---
+
+## 概括性在质性研究中的三种形式
+
+Larsson（2009）进一步系统化了质性研究的概括性推理，提出三种形式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 444–446）：
+
+> [!dimension] Larsson（2009）的三种质性概括性推理
+> - **最大化变异以增强概括潜力**
+>   通过理论抽样确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。假设研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大样本量，且假设研究者事先知道最大变异是什么样。
+> - **通过情境相似性进行概括**
+>   确保研究情境与目标情境足够相似——即 Lincoln & Guba 的可转移性（transferability）标准。研究者提供充分厚描述让受众自行判断。困难在于决定何时、在何标准上情境足够相似。
+> - **通过模式识别进行概括**
+>   识别研究与其他情境在理论建构、主题、概念、行为和过程方面的相似模式。核心困难在于：不是情境本身而是对情境的解释需要相似，而谁的解释应起决定性作用本身是开放问题。
+
+Larsson（2009: 36）最终论证：质性研究概括化的**责任在于读者或受众而非研究者**。这一立场引出了研究正当性的追问——如果研究者无特别专业知识可提供，研究如何被正当化？一种可能的回答是将研究视为"提出工作假设"——关于正在推进的工作而非不可挑战的真理。
+
+---
+
+## 概括性的操作标准：可比较性与可翻译性
+
+LeCompte & Preissle（1993: 47）将民族志的概括性重释为两个操作标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 406–407）：
+
+> [!term] 可比较性（Comparability）与可翻译性（Translatability）
+> **可比较性**——所研究群体特征需充分明确描述，以便读者与其他群体比较。**可翻译性**——分析范畴和研究群体特征需明确化，以便跨群体和学科的有意义比较。
+
+---
 
 ## 概念辨析
 
-> [!example]
-> **自然主义概括 vs 统计概括**。统计概括以[[Random Sampling|随机抽样]]和概率理论为基础，将样本统计量推广至总体参数。自然主义概括不以概率为依托，依靠读者对案例情境与自身实践情境之间相似性的判断，是一种由读者完成的认知推广。
+> [!contrast-table] 自然主义概括 vs 统计概括 vs 理论终点
+> | 维度 | 统计概括 | 自然主义概括 | [[Theoretical End Point\|理论终点]] |
+> |------|----------|-------------|---------|
+> | 基础 | [[Random Sampling\|随机抽样]]和概率理论。 | 读者对案例情境与自身情境相似性的判断。 | 质性研究归纳逻辑的最终产物。 |
+> | 完成者 | 研究者（通过统计推断）。 | 读者（通过认知对照）。 | 研究者（通过主题归纳）。 |
+> | 代表对象 | 从样本到总体参数。 | 从案例到读者的实践情境。 | 从数据到理论模型。 |
+> | 适用范围 | 量化研究。 | 案例研究和民族志。 | 质性研究各类设计。 |
 
-> [!example]
-> **自然主义概括 vs [[Theoretical End Point|理论终点]]**。理论终点是[[Qualitative Research|质性研究]]归纳逻辑的最终产物（主题发展为理论模型或概括），自然主义概括是理论终点在案例研究设计中的具体实现形式之一。
+---
 
-## 相关概念
+## 相关研究
 
-- [[Theoretical End Point]] — 理论终点是[[Qualitative Research|质性研究]]中理论作为研究结局的总体框架
-- [[Case Study]] — 案例研究是自然主义概括最主要的使用语境
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统阐述质性研究的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。

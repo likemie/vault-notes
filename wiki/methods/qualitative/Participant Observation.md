@@ -56,8 +56,6 @@ updated: 2026-06-24
 
 ## 研究程序
 
-### 质性方法模块
-
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
@@ -66,11 +64,45 @@ updated: 2026-06-24
 > | 研究者位置 | 研究者/参与者关系需要持续协商——从"专业陌生人"（professional stranger）到"内部人"的光谱上滑动；需管理"边际性"（marginality）——在组织之中但不属于组织。 |
 > | 资料边界 | 时间和空间边界取决于研究驻留长度和[[Champ\|场域]]准入范围。 |
 
-> [!proc] 质性分析程序
+> [!proc] 数据分析程序
 > 1. 书写详尽的田野笔记——既在现场书写也远离现场补充——记录观察到的行为、对话、非语言线索和研究者自身的反应。
 > 2. 将田野笔记和转录材料[[Coding in Qualitative Research|编码]]为分析单元；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
 > 3. 撰写分析备忘录，记录[[Reflexivity|反身性]]观察、临时假设和理论之间的关系发展。
 > 4. 使用[[Triangulation|三角验证]]（多数据源、多方法）、成员检查和同伴情况报告来增强可[[Reliability|信度]]；主动寻找负面案例和偏差案例。
+
+---
+
+## 进入现场的策略
+
+进入现场是参与观察中最微妙且最具挑战性的环节。LeCompte & Preissle（1993: 112）指出最关键要素是研究者的灵活性和对参与者行为反应细微差别的敏感。De Laine（2000: 41）补充道，与人相处的能力和愿意加入并分享群体活动经验是获得和维持进入的关键标准。
+
+Wolff（2004: 195–196）和 Flick（1998: 57）指出进入现场的六项关键观察：
+
+> [!seq-table] 进入作为一种干预：六项观察（Wolff, 2004; Flick, 1998）
+> | 观察 | 说明 |
+> |------|------|
+> | 研究即侵入 | 研究始终是对社会系统的侵入，扰乱系统并引发防御反应。 |
+> | 相互不透明 | 系统与研究之间信息交换不降低反而增加情境复杂性，产生免疫反应。 |
+> | 协议是过程 | 进入时追求相互理解不如追求一个逐步推进的协议。 |
+> | 数据权增加复杂度 | 就数据存储权达成一致会增加协议的整体复杂性。 |
+> | 现场进入后才显现 | 被研究现场的真实面貌只有在研究者进入之后才会逐渐清晰。 |
+> | 研究无回报 | 研究通常对被研究系统没有任何直接回报，但也没有理由拒绝。 |
+
+Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，[[Governance by Spin|印象管理]]（Hammersley & Atkinson, 1983: 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–427)]]
+
+> [!case] Patrick（1973）：格拉斯哥帮派[[Ethnography|民族志]]中的角色张力
+> Patrick 以隐蔽研究者身份进入一个格拉斯哥帮派开展参与观察。他必须完全融入帮派文化——采纳其语言、着装和行为规范——同时秘密记录田野笔记。当目击一起谋杀时，两难达到顶点：举报意味着暴露身份并危及自身生命，不举报则意味着对严重犯罪保持沉默。这个极端案例揭示了参与观察中角色、伦理和安全之间不可调和的张力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 416–417)]]
+
+---
+
+## 边际性管理
+
+参与观察的核心操作概念是"边际性"（marginality）——研究者"在组织之中但不属于组织"（Hammersley & Atkinson, 1983: 97–99）：
+
+> [!citation-card]- 边际性管理
+> [[Ethnography|民族志]]学者必须在智识上保持"熟悉"与"陌生"之间的平衡，同时在社交上保持"局外人"和"朋友"之间的平衡。这种多重角色的管理，尤其是边际性的管理，可能产生一种持续的不安全感。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 427)]]
+>
+> *The ethnographer must be intellectually poised between '[[Familiarization|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'. (Hammersley & Atkinson, 1983: 97–100)*
 
 ## 适用场景
 
