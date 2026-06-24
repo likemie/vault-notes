@@ -67,8 +67,7 @@
               "title": "Ideology Critique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,19 +235,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e1573f91b7722f1b",
+  "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "Clippings/Jean-François Lyotard.md",
+    "wiki/persons/france/Jean-François Lyotard.md",
+    "wiki/concepts/research-methodology/Emergence.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
     "wiki/concepts/research-methodology/Making the Familiar Strange.md",
     "wiki/concepts/research-methodology/Reflexivity.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
-    "wiki/concepts/research-methodology/Emergence.md",
     "wiki/methods/qualitative/Qualitative Research.md",
     "wiki/methods/qualitative/Autoethnography.md",
     "wiki/methods/qualitative/Ideology Critique.md",
     "wiki/theories/research-methodology/Critical Ethnography.md",
     "wiki/methods/qualitative/Theoretical Sampling.md",
     "wiki/concepts/research-methodology/Domain Analysis.md",
-    "wiki/persons/france/Jean-François Lyotard.md",
     "wiki/concepts/research-methodology/Face Validity.md",
     "wiki/concepts/research-methodology/Progressive Focussing.md",
     "wiki/methods/qualitative/Qualitative Interview.md",
@@ -258,7 +258,6 @@
     "wiki/templates/template-person.md",
     "wiki/templates/template-theory.md",
     "wiki/templates/TEMPLATE-SPEC.md",
-    "Clippings/Jean-François Lyotard.md",
     "Clippings/Jean-François Lyotard - Wikipedia, la enciclopedia libre.md",
     "wiki/methods/qualitative/Triangulation.md",
     "wiki/concepts/research-methodology/Emergent Design.md",
