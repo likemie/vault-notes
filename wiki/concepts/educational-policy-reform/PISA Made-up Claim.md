@@ -15,6 +15,7 @@ tags:
   - theory/critical-theory
   - critique/pisa
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Evaluation Research]]"
   - "[[Construct]]"
 related_theories: []
@@ -50,7 +51,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs 单一教育观 — 捏造的主张关注 [[PISA]] 声称测量的内容是否有实证依据，单一教育观关注 PISA 将什么假设强加于全球教育系统。两者是 PISA 批评的不同维度。
+> - vs 单一教育观 — 捏造的主张关注 [[PISA]] 声称测量的内容是否有实证依据，单一教育观关注 PISA 将什么[[Hypothesis|假设]]强加于全球教育系统。两者是 PISA 批评的不同维度。
 > - vs 扭曲的教育观 — 扭曲的教育观关注 PISA 如何定义教育目的，捏造的主张关注 PISA 声称测量的内容是否真实存在。
 
 ---

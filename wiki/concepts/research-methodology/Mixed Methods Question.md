@@ -15,6 +15,7 @@ related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Central Phenomenon]]"
@@ -45,7 +46,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.150]])。
+> [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或[[Hypothesis|假设]]和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.150]])。
 
 > [!quote]
 > "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
@@ -93,7 +94,7 @@ updated: 2026-05-31
 在[[Mixed Methods Research|混合方法研究]]中，三类问题（量化、质性、混合方法）的放置方式和顺序反映了研究设计的步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
 - **单阶段[[Convergent Design|聚敛式设计]]**：量化和质性问题可以任一顺序排列，因为两类数据同时收集。
-- **两阶段[[Explanatory Sequential Design|解释性序列设计]]**：第一阶段的量化问题或假设在先，第二阶段的[[Qualitative Research|质性研究]]问题在后。
+- **两阶段[[Explanatory Sequential Design|解释性序列设计]]**：第一阶段的量化问题或[[Hypothesis|假设]]在先，第二阶段的[[Qualitative Research|质性研究]]问题在后。
 - **三阶段[[Exploratory Sequential Design|探索性序列设计]]**：第一阶段质性[[Research Question|研究问题]]在先，第二阶段量化评估问题和假设在后，最终量化检验的问题或假设也属于后续阶段。
 
 ---

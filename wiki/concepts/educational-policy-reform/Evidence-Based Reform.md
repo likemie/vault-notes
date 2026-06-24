@@ -23,6 +23,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Emergence]]"
+  - "[[Causality]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Conflict of Interest in Research]]"
   - "[[External Validity]]"
@@ -47,9 +49,9 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
+  - "[[Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
-  - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
   - "[[Quasi-Experimental Designs]]"
@@ -142,12 +144,12 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 
 [[Argument_Slavin_2002_ER|Slavin (2002)]] 的 AERA 杰出讲座论文是该概念的**奠基性[[Document|文献]]**。其核心论证前提是：
 
-**教育处于"下降螺旋"**：政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决定性研究 → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"**：严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16–17]])
+**教育处于"下降螺旋"**：政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决[[Qualitative Research|定性研究]] → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"**：严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16–17]])
 
 [[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在[[Emergence|涌现]]的政策窗口：
 - **CSR 项目（1998）**：首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **No Child Left Behind（2001）**：全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+- **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 
 ### 开发-评估-推广范式（Development-Evaluation-Dissemination Paradigm）
 
@@ -196,7 +198,7 @@ Ross 与 Morrison 对三条件框架作了一个实践层面的补充：即使�
 - **2019** — Slavin 发表 Thorndike 演讲，总结进展并提出 RTI → RTPI 转型方向
 - **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位改革国际比较研究，系统记录中国教育实证研究的制度化发展（ECNU 论坛 2015-2019、2017 华东师范大学宣言、[[Best Evidence in Brief|BEiB]] 中文网络），首次翻译并呈现中国学者对证据本位研究的五类内部质疑（定义之争、统计主义、价值不可量化、数据困境、实证≠定量），将四项核心活动框架应用于中国情境分析([[Argument_Slavin_2021_ROE|Slavin et al., 2021]])
 - **2021** — Cheung & Xie 在同一特刊发表 Editorial，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，汇集七个国家八篇文章呈现证据本位改革的全球全景([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021]])
-- **2021** — Dachet & Baye 以法语比利时[[Pact for Educational Excellence|教育卓越公约]]为案例，展示证据本位改革在本地实验项目稀少、定性研究传统较强、英语[[Document|文献]]进入困难的系统中如何被语境化：改革官方文本承认需要试点、验证并按有效性扩大项目，但 425 个候选工具/项目中只有 13 个采用实验设计测试，因此改革团队采用包容性验证类型学作为过渡机制([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.171, 175-176, 181-182]])
+- **2021** — Dachet & Baye 以法语比利时[[Pact for Educational Excellence|教育卓越公约]]为案例，展示证据本位改革在本地实验项目稀少、[[Qualitative Research|定性研究]]传统较强、英语[[Document|文献]]进入困难的系统中如何被语境化：改革官方文本承认需要试点、验证并按有效性扩大项目，但 425 个候选工具/项目中只有 13 个采用实验设计测试，因此改革团队采用包容性验证类型学作为过渡机制([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.171, 175-176, 181-182]])
 
 ## 核心政策工具：ESSA 证据标准
 
@@ -210,7 +212,7 @@ ESSA (2015) 定义了四层证据标准，用于判定教育项目是否值得�
 | **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差） |
 | **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model\|逻辑模型]]，并得到高质量研究或正向评价支持 |
 
-前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持因果或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持[[Causality|因果]]或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
 ## RTPI（Response to Proven Instruction）
 
@@ -260,7 +262,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 **1. 定义之争：广义 vs 狭义"实证"**
 
-石中英 (2017) 区分广义"实证"（研究者收集和观察相关数据以提出和验证假设——中国学术历来从事此方面工作）与狭义"实证"（使用程序化、[[Operationalization|操作化]]和定量化措施对教育和社会现象得出结论——这不是大多数中国教育研究者一直在做的）。这一区分暗示了定义问题本身即是争议焦点([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.15]])。
+石中英 (2017) 区分广义"实证"（研究者收集和观察相关数据以提出和验证[[Hypothesis|假设]]——中国学术历来从事此方面工作）与狭义"实证"（使用程序化、[[Operationalization|操作化]]和定量化措施对教育和社会现象得出结论——这不是大多数中国教育研究者一直在做的）。这一区分暗示了定义问题本身即是争议焦点([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.15]])。
 
 **2. "统计主义"（Statisticalism）批判**
 
@@ -332,7 +334,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 ### 程序采纳假设批判([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 
-**争议背景**：[[Argument_Peterson_2016_IJRME|Peterson (2016)]] 从实施可行性角度批判了 EBR 的核心运作假设——即学校决策者可以随意采纳和实施教学程序项目。她指出"有多层决策者共同决定学校中发生的事情，从教育部长到教师。在一个情境中试验过的项目几乎不可能在另一个情境中完整实施：总是需要对当地学校和系统进行某种改编"（p. 305）。
+**争议背景**：[[Argument_Peterson_2016_IJRME|Peterson (2016)]] 从实施可行性角度批判了 EBR 的核心运作[[Hypothesis|假设]]——即学校决策者可以随意采纳和实施教学程序项目。她指出"有多层决策者共同决定学校中发生的事情，从教育部长到教师。在一个情境中试验过的项目几乎不可能在另一个情境中完整实施：总是需要对当地学校和系统进行某种改编"（p. 305）。
 
 **核心论证**([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302, 305]])：
 
@@ -359,7 +361,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
 
-- **混合苹果和橙子**：不同性质的研究以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项[[Research Utilization|研究使用]]不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
+- **混合苹果和橙子**：不同性[[Qualitative Research|质的研究]]以技术标准而非理论标准被纳入同一[[Meta-analysis|元分析]]——衡量"反馈"的数十项[[Research Utilization|研究使用]]不同的定义、学科、年龄层和结果测量，被聚合为一个平均[[Effect Size|效应量]]
 - **效应量失真**：三个系统性偏差来源——(1) 控制组性质不明（一切照旧 vs 零条件）；(2) 研究人口范围受限自动放大效应量（SD在分母中缩小）；(3) 窄化成果测量比一般测量产生更大效应量
 - **研究误读**：Blatchford 的教学助理研究实际揭示的是结构性使用不当，Toolkit 却将其简化为"低影响/高成本"——可在预算削减中被用于错误的人事决策
 - **实证结果错误**：Fresh Start [[Randomised Controlled Trials|RCT]] 声称 +0.24SD 进步在匹配子集分析中消失——"三个月的额外进步"是[[Random Assignment|随机化]]失败的幻象

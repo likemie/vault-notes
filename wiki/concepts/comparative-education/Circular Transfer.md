@@ -14,6 +14,7 @@ tags:
   - theme/educational-transfer
   - theme/comparative-education
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
   - "[[Relational Space]]"
@@ -37,7 +38,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 循环转移是 Steiner-Khamsi (2000) 提出的概念，指某些教育思想或实践在出借者和借用者之间来回移动的过程。这一概念挑战了单向转移的假设，揭示了教育思想流通的复杂轨迹（引自 Beech & Artopoulos, 2015）。
+> 循环转移是 Steiner-Khamsi (2000) 提出的概念，指某些教育思想或实践在出借者和借用者之间来回移动的过程。这一概念挑战了单向转移的[[Hypothesis|假设]]，揭示了教育思想流通的复杂轨迹（引自 Beech & Artopoulos, 2015）。
 
 ---
 
@@ -54,7 +55,7 @@ updated: 2026-06-07
 ## 概念辨析
 
 > [!example]
-> - vs [[Policy Borrowing|政策借用]] — 政策借用通常假设单向流动（从出借者到借用者）。循环转移揭示了双向和多向的流通模式。
+> - vs [[Policy Borrowing|政策借用]] — 政策借用通常[[Hypothesis|假设]]单向流动（从出借者到借用者）。循环转移揭示了双向和多向的流通模式。
 > - vs [[Recontextualization|再脉络化]] — 再脉络化关注知识从生产场所到课程的转化过程中的变形。循环转移关注思想在不同地点之间的来回移动。
 > - vs [[Relational Space|关系性空间]] — 关系性空间概念更进一步，认为思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的。
 > - vs [[Normal School|师范学校]] — 师范学校的流通轨迹展示了教育思想的复杂路径，但循环转移更强调出借者和借用者之间的双向性。
@@ -64,7 +65,7 @@ updated: 2026-06-07
 ## 局限
 
 > [!warning]
-> 循环转移概念仍然基于地缘政治和领土性的空间定义，仍然假设存在清晰的「出借者」和「借用者」边界。从[[Relational Space|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
+> 循环转移概念仍然基于地缘政治和领土性的空间定义，仍然[[Hypothesis|假设]]存在清晰的「出借者」和「借用者」边界。从[[Relational Space|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 

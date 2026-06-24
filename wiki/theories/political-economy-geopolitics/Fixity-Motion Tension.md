@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Causality]]"
   - "[[Innovation Park]]"
   - "[[Pride in Learning]]"
   - "[[Innovation Ecosystem]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
   - "[[Operationalization]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -53,7 +55,7 @@ updated: '2026-05-18'
 ## 为什么固着和流动必然冲突？——因果链拆解
 
 
-Harvey 的理论论证从资本主义生产方式的根本特征出发，可以拆解为五个因果步骤：
+Harvey 的理论论证从资本主义生产方式的根本特征出发，可以拆解为五个[[Causality|因果]]步骤：
 
 ### 第 1 步：资本流通需要地方固着
 
@@ -148,7 +150,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Harvey 的理论框架高度抽象，在具体经验研究中的[[Operationalization|操作化]]面临挑战——如何将"固着-流动张力"转化为可经验检验的假设，仍然是一个开放的方法论问题
+> - Harvey 的理论框架高度抽象，在具体经验研究中的[[Operationalization|操作化]]面临挑战——如何将"固着-流动张力"转化为可经验检验的[[Hypothesis|假设]]，仍然是一个开放的方法论问题
 > - 该理论主要基于西方资本主义的历史经验（特别是十九世纪英国和二十世纪美国的工业化与去工业化历程），在非西方政治经济语境中的适用性有待检验
 >
 

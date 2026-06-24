@@ -17,12 +17,14 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Effect Size]]"
+  - "[[Causality]]"
   - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Variable]]"
@@ -57,7 +59,7 @@ updated: '2026-05-18'
 ## 理论内部结构
 
 > [!abstract] 手段-目的思维（Means-Ends Thinking）
-> 技术理性铺平了教育中的手段-目的思维——问题被理解为独立于其所属情境的实体，可以通过查阅和应用基础科学知识来解决（Nielsen & Klitmøller, 2021, p. 82）。核心目标是识别因果——必然导致特定效果的"原因"——从而产生能解决手头实践问题的理论。
+> 技术理性铺平了教育中的手段-目的思维——问题被理解为独立于其所属情境的实体，可以通过查阅和应用基础科学知识来解决（Nielsen & Klitmøller, 2021, p. 82）。核心目标是识别[[Causality|因果]]——必然导致特定效果的"原因"——从而产生能解决手头实践问题的理论。
 
 
 > [!abstract] [[Value Neutrality|价值中立]]（Value-Neutrality）
@@ -87,7 +89,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - [[Epistemology|认识论]]立场：[[Positivism|实证主义]]——假设关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
+> - [[Epistemology|认识论]]立场：[[Positivism|实证主义]]——[[Hypothesis|假设]]关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
 > - 与[[Evidence-Based Education|证据本位教育]]（EBE）的关系：技术理性是 EBE 运动的深层理论内核——EBE 的医学类比和方法论偏好（[[Randomised Controlled Trials|RCT]]、[[Effect Size|效应量]]、[[Systematic Review|系统综述]]）都源于技术理性对专业实践的理解
 
 ## 争议与批评

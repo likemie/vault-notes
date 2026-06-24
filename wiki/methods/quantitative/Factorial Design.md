@@ -21,7 +21,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -65,14 +67,14 @@ updated: 2026-05-31
 ## 适用场景
 
 > [!success]
-> - 当理论预测某个处理效果可能依赖于另一个条件时（存在交互效应假设），因子设计是最合适的选择。
+> - 当理论预测某个处理效果可能依赖于另一个条件时（存在交互效应[[Hypothesis|假设]]），因子设计是最合适的选择。
 > - 需要同时检验多个独立[[Variable|变量]]的独立和联合效应时。
 > - 希望在一个实验中同时回答多个[[Research Question|研究问题]]时。
 
 ## 局限性
 
 > [!warning]
-> - 随着独立[[Variable|变量]]数量增加，所需的条件组合数和总样本量呈指数增长。
+> - 随着独立[[Variable|变量]]数量增加，所需的条件组合数和总[[Sample Size Determination|样本量]]呈指数增长。
 > - 三向或更高阶交互效应的解释困难，且通常需要很大的样本量才能检测到。
 > - 研究设计的复杂性增加，对实验程序控制和统计分析的要求更高。
 

@@ -35,6 +35,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Analytic Framework]]"
+  - "[[Hypothesis]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
@@ -90,7 +91,7 @@ updated: '2026-06-19'
 ## 核心命题与机制
 
 > [!proposition-chain] 命题链
-> - **前提一：分层[[Ontology|本体论]]（Stratified Ontology）**：实在界（The Real，深层因果机制与结构）、实际界（The Actual，事件的发生）与经验界（The Empirical/Phenomenal，观察到的数据与体验）是分离的。因果力作为深层的潜在倾向（Tendency），并不等同于恒常规则性或被感知的现象。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> - **前提一：分层[[Ontology|本体论]]（Stratified Ontology）**：实在界（The Real，深层[[Causality|因果]]机制与结构）、实际界（The Actual，事件的发生）与经验界（The Empirical/Phenomenal，观察到的数据与体验）是分离的。因果力作为深层的潜在倾向（Tendency），并不等同于恒常规则性或被感知的现象。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 >   > [!warrant]- 为什么这一前提重要
 >   > 区分三层本体论使得研究者能够穿透表面的统计数字（经验界），探究是什么深层因果机制（实在界）在何种情境（实际界）下导致了事件的发生，从而避免陷入经验主义的盲目测量。
 > - **前提二：社会结构的[[Emergence|涌现]]性（Emergence of Social Structures）**：社会结构拥有无法被个体行动者简单加总或还原的涌现权力（Emergent Powers）。虽然结构需要个体活动来维持和再生产，但它们独立并先于任何特定个体的存在。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
@@ -141,7 +142,7 @@ updated: '2026-06-19'
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]**：深度现实主义。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的[[Emergence|涌现]]因果力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
+> - **[[Ontology|本体论]]**：深度现实主义。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的[[Emergence|涌现]][[Causality|因果]]力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
 > - **认识论**：反经验主义、非绝对相对主义。知识是被概念中介的，观察并非中立，因此不能仅靠累加经验事实来获得因果解释；但通过批判性探究，人类能够获得对深层机制的合理且可靠的认识。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 > - **方法含义**：主张“方法论多元主义”与“实在论综合”。研究应揭示机制如何在特定背景下发挥作用，强调[[Qualitative Research|质性研究]]（如[[Qualitative Observation|质性观察]]、历史分析、行动研究）与量化工具的协同使用，尊重行动者（教师与学生）的推理过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 > - **不能直接推出的东西**：无法自动推导出一个在任何情境下都产生恒定[[Effect Size|效应量]]（如 $+0.40$）的黄金教学法则，也不能直接推出能流水线式复制的去情境干预指南。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]])
@@ -191,7 +192,7 @@ updated: '2026-06-19'
 
 > [!tension] 争议焦点
 > - **方法论操作难度大**：批判实在论虽然提供了高度精确的哲学概念（如[[Emergence|涌现]]、机制、实在分层），但在转化为经验研究的具体操作时，其难度远高于[[Positivism|实证主义]]的标准化量化指标；实在论综合在实践中耗时费力，难以成为政策制定者快速决策的工具。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
-> - **[[Ontology|本体论]]地位的科学性张力**：部分偏向实证主义的批评者认为，批判实在论假设的“深层实在”和“潜在因果机制”属于不可直接观察的范畴，这使得该理论带有一层形而上学色彩，不易被传统科学标准所[[Falsification|证伪]]。
+> - **[[Ontology|本体论]]地位的科学性张力**：部分偏向实证主义的批评者认为，批判实在论[[Hypothesis|假设]]的“深层实在”和“潜在[[Causality|因果]]机制”属于不可直接观察的范畴，这使得该理论带有一层形而上学色彩，不易被传统科学标准所[[Falsification|证伪]]。
 > - **在实证界接受度受限**：由于其对“经验规则性”进行了强力批判，极易被量化阵营误解为对数据科学的全面排斥，这导致其在政策决策主流（偏好简单[[Effect Size|效应量]]与百分比排行）中的接受度和影响力相对有限。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 
 ---

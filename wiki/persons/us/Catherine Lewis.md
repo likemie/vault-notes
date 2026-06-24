@@ -20,6 +20,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Improvement Science]]"
@@ -40,7 +41,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Lewis (2015) 将[[Improvement Science|改进科学]]定位为教育研究中系统性研究资助的替代[[Paradigm|范式]]，强调其与传统实验方法在核心假设上的差异——特别是对情境变异性、人类行动者视角和持续反馈循环的关注。
+> Lewis (2015) 将[[Improvement Science|改进科学]]定位为教育研究中系统性研究资助的替代[[Paradigm|范式]]，强调其与传统实验方法在核心[[Hypothesis|假设]]上的差异——特别是对情境变异性、人类行动者视角和持续反馈循环的关注。
 >
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 将 Lewis (2015) 与 Bryk et al. (2015) 并列为改进科学在教育中兴起的关键文本。
 

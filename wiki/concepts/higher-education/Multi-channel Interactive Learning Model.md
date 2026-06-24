@@ -23,6 +23,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Causality]]"
   - "[[Habitus]]"
   - "[[Knowledge Exchange]]"
   - "[[Global Policy Space]]"
@@ -95,7 +96,7 @@ updated: 2026-06-09
 ## 概念辨析
 
 > [!example]
-> - vs **[[Linear Model of Innovation|线性创新模型]]** — 线性模型预设科学→技术→经济的单向因果链。多通道模型认为创新可从任何地方开始，科学只是多元知识来源中的一种，且创新依赖于企业与环境之间的多通道互动学习。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–865)]]
+> - vs **[[Linear Model of Innovation|线性创新模型]]** — 线性模型预设科学→技术→经济的单向[[Causality|因果]]链。多通道模型认为创新可从任何地方开始，科学只是多元知识来源中的一种，且创新依赖于企业与环境之间的多通道互动学习。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–865)]]
 > - vs **[[Chain-linked Model|链式模型]]**（Kline & Rosenberg）— 链式模型超越了线性预设，但未明确承认组织维度和制度环境。多通道模型在保留链式模型核心洞见的基础上，加入了螺旋式学习、三类知识池和界面三个新要素。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 863–864)]]
 > - vs **[[Innovation Ecosystem|创新生态系统]]** — 创新生态系统强调创新发生的多层次网络环境。多通道模型提供了更具体的机制——界面和知识池——来解释企业如何与该环境进行学[[Habitus|习性]]互动。
 

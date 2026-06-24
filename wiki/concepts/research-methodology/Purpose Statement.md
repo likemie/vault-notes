@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Research Problem]]"
+  - "[[Hypothesis]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
   - "[[Nondirectional Language]]"
@@ -69,7 +70,7 @@ updated: 2026-05-31
 > **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
-> **目的陈述 vs 研究问题（Research Questions）**：研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含假设([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
+> **目的陈述 vs 研究问题（Research Questions）**：研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含[[Hypothesis|假设]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
 
 ## 核心要素
 
@@ -149,7 +150,7 @@ updated: 2026-05-31
 > 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系 ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States." pp.4–5)。
 
 > [!example] [[Experimental Research|实验研究]]示例（Esposito et al., 2017）
-> 本研究基于行为经济学假设，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用 ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
+> 本研究基于行为经济学[[Hypothesis|假设]]，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用 ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
 >

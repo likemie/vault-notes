@@ -19,6 +19,7 @@ tags:
   - theory/social-learning
 related_concepts:
   - "[[Self-Efficacy]]"
+  - "[[Causality]]"
   - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Social Learning Theory]]"
@@ -48,7 +49,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> Bandura 的核心理论主张人类行为是认知、行为和环境决定因素之间持续交互的结果，而非单一因素决定。这一交互决定论打破了行为主义的单向因果观。他特别强调三种人类独有的学习过程：替代性过程（通过观察他人学习）、象征性过程（通过语言和符号表征世界）和自我调节过程（通过自我观察、判断和反应调控行为）。
+> Bandura 的核心理论主张人类行为是认知、行为和环境决定因素之间持续交互的结果，而非单一因素决定。这一交互决定论打破了行为主义的单向[[Causality|因果]]观。他特别强调三种人类独有的学习过程：替代性过程（通过观察他人学习）、象征性过程（通过语言和符号表征世界）和自我调节过程（通过自我观察、判断和反应调控行为）。
 
 > [!quote]
 > "This unified theoretical framework approaches the explanation of human behavior in terms of a continuous (reciprocal) interaction between cognitive, behavioral, and environmental determinants."（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）

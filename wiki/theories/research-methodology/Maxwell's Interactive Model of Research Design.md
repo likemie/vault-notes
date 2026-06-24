@@ -11,6 +11,7 @@ theory_related_color: "#e0e7ff"
 tags: [method/research-design, source/textbook, paradigm/qualitative]
 related_concepts:
   - "[[Document]]"
+  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Sage]]"
   - "[[Research Question]]"
@@ -45,7 +46,7 @@ updated: 2026-06-21
 
 > [!theory-position] 理论定位
 > - **解释对象**：研究设计如何在实际研究中形成和演变，而非作为一次性完成的线性计划。
-> - **理论问题**：回应线性研究设计模型（量化：[[Document|文献]]→假设→设计→数据→分析→结论；质性：主题→文献→设计→田野→数据→分析→理论）的不足，指出实际研究设计是非线性、互动和[[Emergence|涌现]]的。
+> - **理论问题**：回应线性研究设计模型（量化：[[Document|文献]]→[[Hypothesis|假设]]→设计→数据→分析→结论；质性：主题→文献→设计→田野→数据→分析→理论）的不足，指出实际研究设计是非线性、互动和[[Emergence|涌现]]的。
 > - **理论类型**：中层方法论框架（middle-range methodological framework），属于研究设计理论。
 > - **知识位置**：[[Qualitative Research|质性研究]]方法论传统，代表文献为 Maxwell, J.A. (2005). *Qualitative Research Design: An Interactive Approach* (2nd ed.). [[Sage]]. 在 Cohen et al. (2011, Ch.7, pp.5–6) 中被引用和讨论。
 
@@ -76,7 +77,7 @@ updated: 2026-06-21
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题
-> - **前提一（反线性假设）** 实际研究——尤其是质性、自然主义和[[Ethnography|民族志研究]]——很少按线性顺序展开。研究设计随时间变化、演化和[[Emergence|涌现]]，而非在开始时一次性决定和最终确定（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.121]]）。
+> - **前提一（反线性[[Hypothesis|假设]]）** 实际研究——尤其是质性、自然主义和[[Ethnography|民族志研究]]——很少按线性顺序展开。研究设计随时间变化、演化和[[Emergence|涌现]]，而非在开始时一次性决定和最终确定（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.121]]）。
 > - **前提二（互定性）** 研究设计的各个领域并非独立运作，而是相互影响。例如，时间约束（目标领域）会影响可提出的[[Research Question|研究问题]]（研究问题领域）；研究者可用的方法技能（方法领域）会影响研究问题的设计方式（p.122）。
 > - **机制（以问题为核心的互动）** 研究问题位于模型的中心，但被其他四个领域有力塑造：目标告知研究问题的方向和约束；概念框架提供研究问题的理论基础；方法决定研究问题能否被实际回答；效度关注决定了研究问题如何被检验和确认（p.122）。
 > - **连接强度差异** Maxwell 指出某些领域之间的连接比其他连接更强：目标与概念框架之间、方法与效度之间存在强连接；概念框架与效度之间、目标与方法之间的连接较弱（p.122）。
@@ -106,7 +107,7 @@ updated: 2026-06-21
 
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]**：研究现象是复杂的、情境依赖的，不能通过单一线性计划完全预测。研究设计本身是研究者与现象之间持续互动的一部分。
-> - **认识论**：研究知识是互动过程中[[Emergence|涌现]]的，不是从预设假设中推导出来的。理解研究现象需要研究者保持对设计各要素之间关系的持续反思。
+> - **认识论**：研究知识是互动过程中[[Emergence|涌现]]的，不是从预设[[Hypothesis|假设]]中推导出来的。理解研究现象需要研究者保持对设计各要素之间关系的持续反思。
 > - **方法含义**：支持[[Qualitative Research|质性研究]]中的[[Emergent Design|涌现设计]]（emergent design）；研究计划不应是僵化的蓝图，而应是灵活的规划工具。研究者应在研究过程中不断检查和调整各要素的一致性。
 > - **不能直接推出的东西**：互动模型本身不是一种研究方法，不规定具体的数据收集或分析程序；它不自动保证研究的效度或质量；它描述的是一种设计哲学而非操作清单；它主要面向质性研究，不能直接照搬到以假设检验驱动的[[Quantitative Research|量化研究]]设计。
 
@@ -122,7 +123,7 @@ updated: 2026-06-21
 
 > [!theory-boundary] 适用边界
 > - **适合解释**：[[Qualitative Research|质性研究]]、[[Ethnography|民族志研究]]、自然主义研究中的设计灵活性和[[Emergence|涌现]]特征；需要灵活应对复杂和多变的研究情境；迭代发展的研究设计过程。
-> - **谨慎使用**：[[Quantitative Research|量化研究]]——尤其是假设检验型设计和[[Experimental Research|实验研究]]——可能需要更线性的规划方法，因为这些设计要求在研究开始前明确[[Variable|变量]]、测量和程序。[[Mixed Methods Research|混合方法研究]]可以部分借鉴互动思维，但量化和质性成分的整合点可能需要更明确的前期规划。
+> - **谨慎使用**：[[Quantitative Research|量化研究]]——尤其是[[Hypothesis|假设]]检验型设计和[[Experimental Research|实验研究]]——可能需要更线性的规划方法，因为这些设计要求在研究开始前明确[[Variable|变量]]、测量和程序。[[Mixed Methods Research|混合方法研究]]可以部分借鉴互动思维，但量化和质性成分的整合点可能需要更明确的前期规划。
 > - **不适合解释**：需要严格前注册（pre-registration）的研究设计；高度标准化的[[Randomised Controlled Trials|随机对照试验]]（RCT）；需要详细预先规定所有分析程序的[[Meta-analysis|元分析]]研究。
 > - **常见误用**：将"互动"误解为"随便改"——互动模型要求严谨的反思和一致性检查，不是随意改变设计；将模型用于为缺乏前期准备辩护——互动模型仍要求充分的概念框架和前期规划。
 

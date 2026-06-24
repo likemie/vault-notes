@@ -21,8 +21,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Positivism]]"
   - "[[Concurrent Validity]]"
@@ -59,7 +59,7 @@ updated: 2026-06-23
 
 > [!dimension] 收敛效度与区分效度的操作方式（分[[Paradigm|范式]]）
 > - **量化操作：收敛效度**
->   使用相关分析、回归分析或因子分析来检验假设应相关的测量之间是否存在高相关系数。在因子分析中，如果同一因子上的所有项目都显示出高载荷（loading）且相互高相关，则收敛效度成立。
+>   使用相关分析、回归分析或因子分析来检验[[Hypothesis|假设]]应相关的测量之间是否存在高相关系数。在因子分析中，如果同一因子上的所有项目都显示出高载荷（loading）且相互高相关，则收敛效度成立。
 > - **量化操作：区分效度**
 >   使用差异检验（t 检验、[[Chi-Squared Test|卡方检验]]、[[Analysis of Variance|方差分析]]）或共线性诊断来检验假设应不同的测量之间是否存在低相关系数或显著差异。在因子分析中，如果跨因子的项目显示出低交叉载荷，则区分效度成立。
 > - **质性操作：收敛效度**
@@ -72,7 +72,7 @@ updated: 2026-06-23
 ## 围绕概念形成的命题
 
 > [!claim] [[Mixed Methods Research|混合方法]]是检验收敛和区分效度的最有力设计
-> 在混合方法研究中，研究者可以通过以下两种方式同时检验收敛和区分效度：**收敛检验**——检查一种方法的数据（如[[Qualitative Interview|质性访谈]]）是否与另一种方法聚焦同一问题的数据（如量化问卷）一致；**区分检验**——检查研究者假设不相关的因素是否在两种方法中都显示为确实不相关。当一种方法的数据被另一种方法的数据所**交叉验证**（cross-validated）时，研究者对效度的置[[Reliability|信度]]显著提高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 178)]]
+> 在混合方法研究中，研究者可以通过以下两种方式同时检验收敛和区分效度：**收敛检验**——检查一种方法的数据（如[[Qualitative Interview|质性访谈]]）是否与另一种方法聚焦同一问题的数据（如量化问卷）一致；**区分检验**——检查研究者[[Hypothesis|假设]]不相关的因素是否在两种方法中都显示为确实不相关。当一种方法的数据被另一种方法的数据所**交叉验证**（cross-validated）时，研究者对效度的置[[Reliability|信度]]显著提高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 178)]]
 
 > [!example] 混合方法中的收敛与区分效度验证
 > **收敛效度案例**：研究者调查社会阶层对高等教育获取的影响时，同时收集质性访谈数据和量化问卷数据。如果质性数据中工人阶级学生普遍报告"成本是核心障碍"，而量化数据也显示家庭收入与大学入学率显著正相关，且这一发现受到[[Document|文献]]支持——那么预期的收敛效度就得到了证明。
@@ -84,5 +84,5 @@ updated: 2026-06-23
 ## 争议与批评
 
 > [!warning] 对收敛效度的[[Positivism|实证主义]]批评
-> [[Triangulation|三角验证]]和[[Concurrent Validity|共时效度]]对收敛效度的论证假设了**不同测量方法应产生同一真实值**——这一预设本身是实证主义的。Silverman (1985) 指出，假设不同的数据源总是会趋同，违反了互动论关于现实**多层性**的原则。在[[Qualitative Research|质性研究]]中，不同方法揭示的不同视角可能都是"真实的"——不趋同并不能简单证明效度不足。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 194)]]
+> [[Triangulation|三角验证]]和[[Concurrent Validity|共时效度]]对收敛效度的论证[[Hypothesis|假设]]了**不同测量方法应产生同一真实值**——这一预设本身是实证主义的。Silverman (1985) 指出，假设不同的数据源总是会趋同，违反了互动论关于现实**多层性**的原则。在[[Qualitative Research|质性研究]]中，不同方法揭示的不同视角可能都是"真实的"——不趋同并不能简单证明效度不足。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 194)]]
 

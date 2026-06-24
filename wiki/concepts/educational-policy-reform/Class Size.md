@@ -24,6 +24,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -184,6 +185,6 @@ Johnson & Janzen 指出，Hattie 在不同文本中使用的班级规模[[Meta-a
 
 > [!note]- Treasury 案例中的三类[[Material Fallacies|实质谬误]]
 > - 术语模糊：简报中的“教学质量”没有对应到 Hattie 证据中适用于中小学政策的清晰定义([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.153-155]])。
-> - 证据局限被忽视：Hattie 的综合跨越早教到高等教育，且 Hattie 多次提醒相关不等于因果、创新效应不等于日常课堂效应([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155-157]])。
+> - 证据局限被忽视：Hattie 的综合跨越早教到高等教育，且 Hattie 多次提醒相关不等于[[Causality|因果]]、创新效应不等于日常课堂效应([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155-157]])。
 > - 结论无效：简报建议提高生师比，但 Hattie 原文明确说增加班级规模是糟糕政策；OECD 数据也显示新西兰中小学生师比已高于 OECD 均值([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.157-159]])。
 

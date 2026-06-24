@@ -22,7 +22,9 @@ related_concepts:
   - "[[Forest Plot]]"
   - "[[Sample Size Determination]]"
   - "[[Epistemology]]"
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
+  - "[[Causality]]"
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
   - "[[Variable]]"
@@ -48,6 +50,7 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
+  - "[[Quantitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Random Assignment]]"
 related_persons:
@@ -123,7 +126,7 @@ updated: '2026-05-21'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 元分析隐含经验主义认识论：假设通过对多个研究的[[Effect Size|效应量]]进行统计平均，可以产生关于干预有效性的可靠知识。[[Critical Realism|批判实在论]]从三层[[Ontology|本体论]]（实在/实际/经验）角度批评这一假设——元分析停留在"经验"层面（观察到的效应量），未能深入"实在"层面（产生效应的因果机制及其激活条件）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 116–117]])。
+> 元分析隐含经验主义认识论：[[Hypothesis|假设]]通过对多个研究的[[Effect Size|效应量]]进行统计平均，可以产生关于干预有效性的可靠知识。[[Critical Realism|批判实在论]]从三层[[Ontology|本体论]]（实在/实际/经验）角度批评这一假设——元分析停留在"经验"层面（观察到的效应量），未能深入"实在"层面（产生效应的[[Causality|因果]]机制及其激活条件）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 116–117]])。
 
 ## 操作步骤
 
@@ -140,7 +143,7 @@ updated: '2026-05-21'
 ## 适用场景
 
 > [!success] 作为效果总体估计的工具
-> - 当有大量使用可比较设计和结果测量的研究时，元分析可以提供效果的总体估计
+> - 当有大量使用可比较设计和结果测[[Quantitative Research|量的研究]]时，元分析可以提供效果的总体估计
 > - 在医学领域（其起源领域），元分析在已有充分理论理解治疗机制的前提下可以补充回答"效果平均多大"
 > - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。Cooper 和 Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与[[Sample Size Determination|样本量]]直接相关的统计显著性([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])
 > - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110–111]])
@@ -186,7 +189,7 @@ updated: '2026-05-21'
 > | 元分析 | 汇总效应量 | 各自的调节变量结论 |
 > |--------|-----------|------------------|
 > | Ehri et al. (2001) | 0.41 | 较早开始语音教学更有价值 |
-> | Jeynes (2008) | 0.27 | 发现在不同质量的研究中具有稳健性 |
+> | Jeynes (2008) | 0.27 | 发现在不同质[[Quantitative Research\|量的研究]]中具有稳健性 |
 > | Torgerson et al. (2006) | 0.30 | 没有证据表明综合语音优于分析语音 |
 >
 > 三项元分析研究的是同一个干预，但汇总效应量从 0.27 到 0.41 不等，对调节变量的结论也各不相同。差异不是来自随机误差，而是来自研究者对”什么算语音教学””纳入哪些研究””如何处理质量差异”等问题的不同判断。元分析的数字看起来比叙事综述更客观，但数字背后仍然嵌入了研究者的分类选择和纳入决定。
@@ -240,7 +243,7 @@ updated: '2026-05-21'
 > 这一批评的核心在于：元分析在医学中成功运作的条件（概念清晰、设计标准化、机制可分离）在教育领域经常不成立——这不是方法论执行缺陷的问题，而是方法本身与研究对象之间的基础性不匹配。
 
 
-> [!warning] 平均效应的误导性与因果信息的丧失
+> [!warning] 平均效应的误导性与[[Causality|因果]]信息的丧失
 > **Kluger & DeNisi (1996) — 反馈元分析：平均效应的误导性案例**
 >
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.10–11)]]以 Kluger & DeNisi（1996）的反馈元分析为例展示平均效应量的误导性：
@@ -255,7 +258,7 @@ updated: '2026-05-21'
 >
 > Pawson（2006, pp.42-43, 72）论证在元分析综述的每一阶段，解释干预如何起作用的关键特征被系统性地从考虑中消除：
 >
-> > "假设被删节、研究被丢弃、项目细节被过滤、情境信息被消除、选定发现被利用、平均值被计算、估计被做出……这种简化、标准化和聚合的过程不产生任何持久的真理。它产生的描述性总结很可能令人失望、误导或需要进一步澄清。"（引自 O'Connor, 2020, p.143; 另见 Wrigley & McCusker, 2019, p. 122）
+> > "[[Hypothesis|假设]]被删节、研究被丢弃、项目细节被过滤、情境信息被消除、选定发现被利用、平均值被计算、估计被做出……这种简化、标准化和聚合的过程不产生任何持久的真理。它产生的描述性总结很可能令人失望、误导或需要进一步澄清。"（引自 O'Connor, 2020, p.143; 另见 Wrigley & McCusker, 2019, p. 122）
 
 
 > [!warning] 效应量与统计推断的方法论缺陷
@@ -334,7 +337,7 @@ updated: '2026-05-21'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Critical Realism]] — 为元分析的经验主义假设提供了系统的哲学批判：因果机制而非[[Effect Size|效应量]]平均值才是科学知识的真正对象
+> - [[Critical Realism]] — 为元分析的经验主义[[Hypothesis|假设]]提供了系统的哲学批判：[[Causality|因果]]机制而非[[Effect Size|效应量]]平均值才是科学知识的真正对象
 
 ---
 
@@ -351,7 +354,7 @@ updated: '2026-05-21'
 ## 替代方案
 
 
-Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），基于理论和相关性而非纯技术标准选择源研究，并以揭示效应变异性的分散图景（而非单一平均值）为输出形式([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 119, 123]])。
+Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研究综述应基于[[Causality|因果]]理论（干预"为什么有效、对谁有效、在什么条件下有效"），基于理论和相关性而非纯技术标准选择源研究，并以揭示效应变异性的分散图景（而非单一平均值）为输出形式([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 119, 123]])。
 
 ---
 

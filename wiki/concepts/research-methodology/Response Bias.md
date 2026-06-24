@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[Leading Questions]]"
   - "[[Interviewer Effects]]"
   - "[[Hawthorne Effect]]"
@@ -73,7 +74,7 @@ updated: 2026-06-23
 ### 调查无回应偏差
 
 > [!feature] 调查无回应偏差的检测方法
-> - **波次分析**（Wave Analysis） 在调查回收期内逐周检查选定条目的回应变化。如果回应在最后几周开始发生系统性变化，则存在回应偏差的潜在可能。依据假设：在回收期最末几周返回调查的人近似于非回应者——如果他们（近似非回应者）的回应模式与早期回应者不同，说明非回应者的回应确实可能改变整体结果（Leslie, 1972）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+> - **波次分析**（Wave Analysis） 在调查回收期内逐周检查选定条目的回应变化。如果回应在最后几周开始发生系统性变化，则存在回应偏差的潜在可能。依据[[Hypothesis|假设]]：在回收期最末几周返回调查的人近似于非回应者——如果他们（近似非回应者）的回应模式与早期回应者不同，说明非回应者的回应确实可能改变整体结果（Leslie, 1972）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 > - **回应者/非回应者对比** 电话联系少数非回应者，询问几个关键问题，比较他们的回应与已回应者是否存在实质性差异。这是一种对回应偏差的直接检查。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
 > [!tip]- Hudson & Miller (1997) 降低问卷无回应偏差的十二项策略
@@ -141,7 +142,7 @@ updated: 2026-06-23
 ## 争议与批评
 
 > [!warning] 检测方法的局限
-> - 波次分析的有效性依赖于"最后回应者 ≈ 非回应者"的假设，这一假设在某些调查情境中可能不成立。
+> - 波次分析的有效性依赖于"最后回应者 ≈ 非回应者"的[[Hypothesis|假设]]，这一假设在某些调查情境中可能不成立。
 > - 回应率低不一定意味着回应偏差高——关键在于非回应者与回应者是否在关键[[Variable|变量]]上存在系统性差异，而非回应的绝对数量（Fowler, 2014）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
 > [!tension] 跨文化回应偏差的方法论张力

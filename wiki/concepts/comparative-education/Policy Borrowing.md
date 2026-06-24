@@ -17,6 +17,7 @@ tags:
 - education-policy
 - region/global
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Transitology]]"
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 政策借用（Policy Borrowing）是教育政策转移研究的核心概念，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）假设"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
+> 政策借用（Policy Borrowing）是教育政策转移研究的核心概念，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）[[Hypothesis|假设]]"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
 >
 > > "Policy makers are seen to harness well-travelled global discourses to legitimate and promote domestic agendas which are controversial." (Steiner-Khamsi, 2012，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 >
@@ -118,7 +119,7 @@ updated: '2026-05-18'
 
 ### 转移的阶段性
 
-5. **四阶段循环**：Phillips & Ochs (2003) 将政策借用过程分解为四个时间上连续（非因果）的阶段，箭头表示时间联系而非[[Causality|因果关系]]：(1) [[Cross-National Attraction]] — 外国教育引发国内关注，由结构性推力和改革行动者共同驱动，启动整个循环；(2) 决策（Decision）— 决定借用外国政策的某些元素；(3) 实施（Implementation）— 在国内推行；(4) 内化／本土化（Internalisation/Indigenisation）— 借用的政策融入国内体系。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
+5. **四阶段循环**：Phillips & Ochs (2003) 将政策借用过程分解为四个时间上连续（非[[Causality|因果]]）的阶段，箭头表示时间联系而非[[Causality|因果关系]]：(1) [[Cross-National Attraction]] — 外国教育引发国内关注，由结构性推力和改革行动者共同驱动，启动整个循环；(2) 决策（Decision）— 决定借用外国政策的某些元素；(3) 实施（Implementation）— 在国内推行；(4) 内化／本土化（Internalisation/Indigenisation）— 借用的政策融入国内体系。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
 
 ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)
 
@@ -136,7 +137,7 @@ updated: '2026-05-18'
    - **警示（Caution）** — 用外国范例警告不要进行某类改革；例：Phillips (1987) 用德国中学体系教训警示英国
    - **颂扬（Glorify）** — 通过国际比较颂扬本国现行教育以抵制改革
 
-[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 提出一个关键假设——当改革派和保守派出于完全不同的理由都视某一外国范例为好模型时，吸引力可能转化为大规模借用。晚清中国借用日本教育即为此类"不可能联盟"的经典案例：改革派视日本为现代化成功典范，保守派视日本为保存儒家秩序的范例，双方在其他议题上无法一致，但在"日本教育是中国的好模型"上达成共识([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233–234]])。
+[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 提出一个关键[[Hypothesis|假设]]——当改革派和保守派出于完全不同的理由都视某一外国范例为好模型时，吸引力可能转化为大规模借用。晚清中国借用日本教育即为此类"不可能联盟"的经典案例：改革派视日本为现代化成功典范，保守派视日本为保存儒家秩序的范例，双方在其他议题上无法一致，但在"日本教育是中国的好模型"上达成共识([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233–234]])。
 
 10. **认证效应（certifying effect）**：Steiner-Khamsi（2014）指出，跨国教学法借用对本地教育改革可能产生"认证效应"——外部成功经验并非直接复制到本地，而是为本地已启动或酝酿中的改革提供正当性背书。[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, p.597)]]在中国的跨文化教师教育项目中观察到这一效应：英国和其他国家在平衡 [[Learner-Centred Education|LCE]] 与考试优异方面的成功经验，激励了本地教师进行类似改革——不是因为英国模式可被直接移植，而是因为这些外部案例"认证"了 LCE 在中国语境中的可行性。
 
@@ -178,7 +179,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 
 > [!example] 与相关概念的区别
 > - **vs [[World Society Theory]]** — 世界文化理论强调**趋同**（全球教育模式扩散导致标准化），是"供给端"视角；政策借用强调**差异**（借用是选择性的、服务于国内政治目的），是"需求端"视角。[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 论证 [[Liberal Studies|LS]] 案例的全球参照用政策借用解释更贴切：创立阶段港府选择性借用 IBDP 话语服务于本地议程，而非被动接受全球规范扩散。
-> - **vs 政策转移（Policy Transfer）** — 政策转移假设"最佳实践"从中立技术角度从 A 地搬运到 B 地；政策借用强调借用行为的政治性和修辞性，借用不等于实施。Steiner-Khamsi (2012) 进一步区分了"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流），指出两者在实践中常常交织。
+> - **vs 政策转移（Policy Transfer）** — 政策转移[[Hypothesis|假设]]"最佳实践"从中立技术角度从 A 地搬运到 B 地；政策借用强调借用行为的政治性和修辞性，借用不等于实施。Steiner-Khamsi (2012) 进一步区分了"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流），指出两者在实践中常常交织。
 > - **vs [[Cross-National Attraction]]** — 跨国吸引力是政策借用的前置阶段（第一阶段），聚焦"为什么外国教育引起关注"和"谁在使用外国范例"；政策借用涵盖从吸引、决策、实施到内化的全过程。前者分析情境如何产生吸引力，后者追踪借用行为的完整生命周期。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **vs [[Transitology]]** — Cowen (1996, 2000) 的转型学描述宏观历史结构层面的教育转型（从 polis-driven 到 market-driven），政策借用分析的是在这一结构条件下发生的具体政治行为。转型学提供了政策借用的宏观情境框架：当 Cowen 双轴模型的纵轴从"polis-driven → 教育机会平等"翻转为"market-driven → 内部效率与外部效能"，横轴从"[[International Education|国际教育]]关系"翻转为"国际知识竞争"，国际参照和话语借用就不再是偶尔的外交行为，而成为晚期现代性中教育政策制定的结构性特征——不是因为跨国"最佳实践"客观上更多了，而是因为去国家中心化后的教育治理更依赖全球论述来获取合法性([[Argument_Amos_2022_Springer|Amos, 2022, pp.53–56]])
 
@@ -206,7 +207,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 - **[[World Society Theory|世界文化理论]]阵营的批评**：Meyer 等学者认为，许多政策趋同并非源于工具性借用，而是全球文化规范通过国际组织（[[OECD]]、UNESCO）的长期扩散——决策者可能真诚地相信这些规范，而非仅仅操纵它们。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482 对世界文化理论的概述]])
 - **Steiner-Khamsi 的回应**：政策借用框架并不否认跨国学习的存在——区分"借用"（政治驱动、选择性、仪式性）和"学习"（开放、实质性交流）正是为了容纳这两种现象。问题在于实践中两者常常交织。（基于 Steiner-Khamsi, 2012）
 
-**目前状态**：[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的 [[Liberal Studies|LS]] 案例为政策借用框架提供了有力支持——创立阶段的 IBDP 参照确实展现出工具性特征（政府先有方案再建构问题），但 LS 废除阶段全球话语完全消失的现象也从反面印证了"借用话语是一种政治策略"这一核心假设。
+**目前状态**：[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的 [[Liberal Studies|LS]] 案例为政策借用框架提供了有力支持——创立阶段的 IBDP 参照确实展现出工具性特征（政府先有方案再建构问题），但 LS 废除阶段全球话语完全消失的现象也从反面印证了"借用话语是一种政治策略"这一核心[[Hypothesis|假设]]。
 
 ### 适用范围有限：只关注国家政策
 

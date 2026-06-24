@@ -22,8 +22,10 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
+  - "[[Making the Familiar Strange]]"
   - "[[Catalytic Validity]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Negative Case Analysis]]"
 related_methods:
   - "[[Experimental Research]]"
@@ -140,7 +142,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **公平性**（fairness）
 >   对情境中多重现实和建构的完整、平衡呈现——不应有任何一个相关群体的视角被忽略
 > - **[[Ontology|本体论]]真实性**（ontological authenticity）
->   研究应提供对情境更精微（more sophisticated）的理解——使熟悉变得陌生（making the familiar strange），这是减少研究者文化盲视（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
+>   研究应提供对情境更精微（more sophisticated）的理解——使熟悉变得陌生（[[Making the Familiar Strange]]），这是减少研究者文化盲视（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
 > - **教育真实性**（educative authenticity）
 >   研究应对这些理解产生新的认识——不仅仅是复现已知，而是让参与者（和读者）以新的眼光看待熟悉的情境
 > - **[[Catalytic Validity|催化真实性]]**（catalytic authenticity）
@@ -176,7 +178,7 @@ Lincoln & Guba (1985: 219, 301) 认为[[Interpretive Paradigm|自然主义探究
 > - **[[Triangulation|三角验证]]**
 >   在方法、来源、研究者和理论之间交叉检验
 > - **同伴汇报**
->   将自己暴露于一个无利害关系的同行面前，以类似交叉审问的方式检验诚实性、工作假设并识别研究下一步
+>   将自己暴露于一个无利害关系的同行面前，以类似交叉审问的方式检验诚实性、工作[[Hypothesis|假设]]并识别研究下一步
 > - **[[Negative Case Analysis|负面案例分析]]**
 >   以建立适合每一个案例的理论为目标，通过不断遭遇反例来回溯修正假设
 > - **[[Member Checking|成员核查]]**

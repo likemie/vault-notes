@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -119,7 +120,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 - 2015 年 Silova & Brehm 批判性地审视该理论，质疑从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在规范性上再生产了西方中心主义。
 - [[Argument_Klerides_2023_CE|Klerides (2023)]]将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。这一辩论是理性主义比较教育内部的核心理论张力。
-- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同假设难以解释国家安全的突变性介入**([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。详见 [[Argument_Yan_2025_JCS]]。
+- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同[[Hypothesis|假设]]难以解释国家安全的突变性介入**([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。详见 [[Argument_Yan_2025_JCS]]。
 
 ---
 ## 认识论立场
@@ -136,7 +137,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 ### 表面趋同 vs 功能差异
 
-理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同假设；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。
+理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同[[Hypothesis|假设]]；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。
 
 ### 国家权力与国内政治的忽视
 
@@ -166,7 +167,7 @@ Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非�
 > - [[Otherhood]] — 世界社会理论的核心运作机制概念
 > - [[Epistemic Governance]] — 世界社会理论在全球治理研究中的应用延伸
 > - [[Knowledge-Based Economy]] — 世界社会理论用于分析作为全球[[Cultural Models|文化模型]]的知识经济话语
-> - [[Geopolitics of Knowledge]] — 世界社会理论的趋同假设为分析知识地缘政治中全球教育模型的扩散和标准化提供了理论参照
+> - [[Geopolitics of Knowledge]] — 世界社会理论的趋同[[Hypothesis|假设]]为分析知识地缘政治中全球教育模型的扩散和标准化提供了理论参照
 > - [[Liberal Studies]] — 若仅看创立期，LS 可作为世界社会理论的佐证；但纳入废除阶段后，趋同假设受到挑战
 > - [[Policy Borrowing]] — 世界社会理论关注趋同（供给端），政策借用关注差异（需求端），两者构成互补的分析视角
 

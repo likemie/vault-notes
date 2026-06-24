@@ -17,6 +17,7 @@ tags:
   - theme/research-philosophy
   - theme/research-planning
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
@@ -46,7 +47,7 @@ updated: 2026-06-21
 ## 定义
 
 > [!def] 本体论（Ontology）
-> 关于实在本质和事物性质的假设：社会现象是外在于个体、将其自身从外部强加于个体意识的客观存在，还是个体意识的产物？实在是客观性质的，还是个体认知的结果？（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
+> 关于实在本质和事物性质的[[Hypothesis|假设]]：社会现象是外在于个体、将其自身从外部强加于个体意识的客观存在，还是个体意识的产物？实在是客观性质的，还是个体认知的结果？（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 
 > [!concept-lens] 概念透镜
 > - **含义** 本体论回答"被研究现象的本质是什么"——它是独立于研究者的客观实在，还是由社会行动者共同建构的意义世界。
@@ -75,7 +76,7 @@ updated: 2026-06-21
 > | 范式 | 本体论立场 |
 > |---|---|
 > | [[Positivism\|实证主义与后实证主义]] | [[Objectivism\|客观主义]]：现象独立于研究者存在，具有客观属性，可被测量和检验 |
-> | 量化、科学和假设检验 | 延续实证主义传统，预设存在可测量、可比较的客观实在 |
+> | 量化、科学和[[Hypothesis\|假设]]检验 | 延续实证主义传统，预设存在可测量、可比较的客观实在 |
 > | 诠释与自然主义 | [[Subjectivism\|主观主义]]、互动论、社会建构的：实在是由社会行动者通过互动共同建构的，存在多重而非单一的实在 |
 > | [[Phenomenology\|现象学与存在主义]] | 关注体验本身的结构——实在存在于个体的主观意识之中 |
 > | 互动论与[[Ethnography\|民族志]] | 社会实在在符号互动和文化意义生产中形成和维持 |
@@ -90,4 +91,4 @@ updated: 2026-06-21
 
 ## 在研究层级中的位置
 
-本体论是 Hitchcock and Hughes（1995: 21）五层研究框架中的第二层：[[Axiology|价值论]]（axiology）→ 本体论 → [[Epistemology|认识论]] → 方法论 → 工具。本体论假设衍生出认识论假设，进而衍生出方法论考量，最终导向具体的研究工具（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+本体论是 Hitchcock and Hughes（1995: 21）五层研究框架中的第二层：[[Axiology|价值论]]（axiology）→ 本体论 → [[Epistemology|认识论]] → 方法论 → 工具。本体论[[Hypothesis|假设]]衍生出认识论假设，进而衍生出方法论考量，最终导向具体的研究工具（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

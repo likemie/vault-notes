@@ -22,10 +22,10 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
+  - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
-  - "[[Causality]]"
   - "[[External Validity]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -69,7 +69,7 @@ updated: '2026-06-08'
 >
 > 2. **本地知识的不可或缺性**：教师的本地知识（学生特征、社区环境、学校文化）是证据成功实施的必要前提，而非需要被科学证据取代的"轶事"。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14, 27-28]])
 >
-> 3. **理解因果机制的重要性**：教师普遍需要理解干预措施背后的底层原理（underlying rationale），仅凭 [[Education Endowment Foundation|EEF]] Toolkit 的摘要统计不足以指导课堂决策。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.30-31]])
+> 3. **理解[[Causality|因果]]机制的重要性**：教师普遍需要理解干预措施背后的底层原理（underlying rationale），仅凭 [[Education Endowment Foundation|EEF]] Toolkit 的摘要统计不足以指导课堂决策。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.30-31]])
 >
 > 4. **制度问责的阻挠效应**：[[Ofsted]] 等问责机制可能阻碍证据的审慎使用，尤其对新建学校和弱势生源学校。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37-38, 42-43]])
 

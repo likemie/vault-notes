@@ -22,6 +22,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
@@ -53,12 +54,12 @@ updated: 2026-05-30
 ## 认识论立场
 
 > [!abstract]
-> 量化研究传统上主要依赖[[Postpositivism|后实证主义]]世界观。后[[Positivism|实证主义]]持决定论哲学，认为原因（可能地）决定效果；同时也持还原论，将思想还原为一小组可检验的离散[[Variable|变量]]。量化研究者通过经验观察和测量来认识客观现实，并通过对理论的检验、验证和完善来推进知识。知识被视为推测性的，绝对真理永远无法被找到，因此研究者不声称"证明"假设，只指出未能拒绝假设。
+> 量化研究传统上主要依赖[[Postpositivism|后实证主义]]世界观。后[[Positivism|实证主义]]持决定论哲学，认为原因（可能地）决定效果；同时也持还原论，将思想还原为一小组可检验的离散[[Variable|变量]]。量化研究者通过经验观察和测量来认识客观现实，并通过对理论的检验、验证和完善来推进知识。知识被视为推测性的，绝对真理永远无法被找到，因此研究者不声称"证明"[[Hypothesis|假设]]，只指出未能拒绝假设。
 
 ## 研究程序
 
 > [!example]
-> - 从理论出发，推导出可检验的假设或[[Research Question|研究问题]]。
+> - 从理论出发，推导出可检验的[[Hypothesis|假设]]或[[Research Question|研究问题]]。
 > - 识别研究[[Variable|变量]]，并将其[[Operationalization|操作化]]为可测量的指标。
 > - 通过标准化工具收集数值数据。
 > - 使用统计程序分析数据。

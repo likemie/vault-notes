@@ -14,6 +14,7 @@ tags:
   - method/data-analysis
   - paradigm/qualitative
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Emergence]]"
   - "[[Progressive Focussing]]"
@@ -40,7 +41,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 分析归纳法是 Znaniecki（1934）提出的[[Qualitative Research|质性研究]]策略。研究者从数据中生成初步理论（或工作假设），然后有意识地主动寻找偏差案例（discrepant cases）或否证案例（negative cases），通过对理论的反复修正，使其能够经受住严格的否证检验。这一策略融合了归纳（从数据生成理论）和演绎（用反例检验理论）的逻辑，与 [[Karl Popper|Popper]] 的[[Falsification|证伪主义]]原则一致——一个严格的科学理论必须经得起证伪检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
+> 分析归纳法是 Znaniecki（1934）提出的[[Qualitative Research|质性研究]]策略。研究者从数据中生成初步理论（或工作[[Hypothesis|假设]]），然后有意识地主动寻找偏差案例（discrepant cases）或否证案例（negative cases），通过对理论的反复修正，使其能够经受住严格的否证检验。这一策略融合了归纳（从数据生成理论）和演绎（用反例检验理论）的逻辑，与 [[Karl Popper|Popper]] 的[[Falsification|证伪主义]]原则一致——一个严格的科学理论必须经得起证伪检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种"生成理论→主动寻找反例→修正理论→再检验"的迭代研究策略，是[[Theoretical Sampling|理论抽样]]的延伸。
@@ -55,7 +56,7 @@ updated: 2026-06-24
 ## 核心要素
 
 > [!feature] 核心要素
-> - **初始理论** 由数据中[[Emergence|涌现]]的初步工作假设或理论——通常来自于[[Grounded Theory|扎根理论]]或[[Progressive Focussing|逐步聚焦]]过程，而非先验预设。
+> - **初始理论** 由数据中[[Emergence|涌现]]的初步工作[[Hypothesis|假设]]或理论——通常来自于[[Grounded Theory|扎根理论]]或[[Progressive Focussing|逐步聚焦]]过程，而非先验预设。
 > - **主动寻找反例** 研究者有意识地寻找可能推翻当前理论的数据或案例，而非只寻找确认性证据。这是分析归纳法与纯粹归纳的关键区别。
 > - **理论修正** 当反例被发现时，不是推翻整个理论，而是修正理论以容纳新数据——设定边界条件或参数。理论变得更具特定性和限定性。
 > - **迭代循环** 修正理论→寻找新反例→进一步修正，直到理论能经受住所有可获取的反例检验。
@@ -63,7 +64,7 @@ updated: 2026-06-24
 ## 操作逻辑
 
 > [!chain-link] 分析归纳法的操作逻辑
-> - **链节一：从数据出发** 研究者通过初始数据分析形成初步理论或工作假设。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
+> - **链节一：从数据出发** 研究者通过初始数据分析形成初步理论或工作[[Hypothesis|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
 > - **链节二：主动寻找否证** 不是等待反例偶然出现，而是主动设计寻找最可能推翻理论的案例——类似于 [[Karl Popper|Popper]] 的"严峻检验"（[[Falsification|severe test]]）。
 > - **链节三：修正而非抛弃** 发现偏差案例≠理论完全失败，而是揭示理论适用条件的边界——使理论更精确而非更无力。
 > - **链节四：终点是稳健的理论** 当没有更多反例出现时，理论经受了现有的最严格检验，具有良好的抗否证性。
@@ -80,7 +81,7 @@ updated: 2026-06-24
 ## 适用边界
 
 > [!boundary]- 概念边界
-> - 不等于[[Quantitative Research|定量研究]]中的统计假设检验 — 分析归纳法不涉及概率或显著性水平，而是基于个案和理论的逻辑关系。
+> - 不等于[[Quantitative Research|定量研究]]中的统计[[Hypothesis|假设]]检验 — 分析归纳法不涉及概率或显著性水平，而是基于个案和理论的逻辑关系。
 > - 不等于[[Falsification|证伪主义]]本身 — 分析归纳法的最终目的仍是建构理论（归纳传统），证伪是其手段而非终点。
 
 ## 相关研究

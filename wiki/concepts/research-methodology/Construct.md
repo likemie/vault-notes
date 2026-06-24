@@ -18,6 +18,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Abstract]]"
+  - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity]]"
   - "[[Evaluation Research]]"
@@ -81,7 +82,7 @@ updated: 2026-06-06
 ## 理论基础
 
 > [!tip]-
-> 构念在[[Quantitative Research|量化研究]]中的位置与理论的演绎检验逻辑紧密相关。Kerlinger (1979) 的经典理论定义将理论描述为一组相互关联的构念（[[Variable|变量]]）、定义和命题（引自 Creswell & Creswell, 2022, p.53）。在这一框架中，构念是理论的基本建筑材料，理论通过假设将构念组织为预测性关系，研究通过变量测量来检验这些预测。
+> 构念在[[Quantitative Research|量化研究]]中的位置与理论的演绎检验逻辑紧密相关。Kerlinger (1979) 的经典理论定义将理论描述为一组相互关联的构念（[[Variable|变量]]）、定义和命题（引自 Creswell & Creswell, 2022, p.53）。在这一框架中，构念是理论的基本建筑材料，理论通过[[Hypothesis|假设]]将构念组织为预测性关系，研究通过变量测量来检验这些预测。
 >
 > 典型的理论到构念到变量链条示例：
 > - [[Attribution Theory|归因理论]] → 归因风格构念 → 归因风格问卷（ASQ）得分（变量）

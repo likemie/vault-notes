@@ -33,6 +33,7 @@ related_concepts:
   - "[[Value Conformist Mode]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -40,7 +41,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Constructivist Grounded Theory]]"
-  - "[[Non-probability Sampling]]"
+  - "[[Theoretical Sampling]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
@@ -108,7 +109,7 @@ updated: '2026-06-08'
 
 ### 方法论立场
 
-郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[Qualitative Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与[[Non-probability Sampling|理论抽样]]选取典型案例，结合类别系列分解策略优化可外推性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[Qualitative Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与[[Theoretical Sampling|理论抽样]]选取典型案例，结合类别系列分解策略优化可外推性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 
@@ -120,7 +121,7 @@ updated: '2026-06-08'
 ### 2014–2017 研究起点与首轮田野
 
 - **核心问题**：中国一流大学中，社会出身如何影响学生的毕业出路？
-- **思想发展**：2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- **思想发展**：2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始[[Hypothesis|假设]]——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 2017–2018 补充田野与理论深化
 

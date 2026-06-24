@@ -17,6 +17,7 @@ tags:
 - tinto
 - level/higher-ed
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
   - "[[Student Engagement]]"
   - "[[Operationalization]]"
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 学习／社交融入理论（Academic and Social integration Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，假设即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
+> 学习／社交融入理论（Academic and Social integration Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，[[Hypothesis|假设]]即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
 
 > [!quote]
 > 学生必须先与其之前的社会关系（比如家人和高中的朋友）相分离（separate），进入一个"开始尝试融入新群体互动"的转折性阶段，并习得（incorporate）新群体或大学内部的规范性价值观与行为模式（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
@@ -125,7 +126,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 ## 争议与批评
 
 > [!warning]
-> - **"中立过程"假设**：社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
+> - **"中立过程"[[Hypothesis|假设]]**：社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
 > - **结构性盲点**：高等教育学领域整体仍将大学预设为"公平公正的竞技场"，忽视了结构性不平等。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]指出，弱势学生的"不融入"并非个人选择，而是文化语码的不适配（如大成的"语言包"比喻）和屡次融入失败后的回避（如冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
 > - **[[Operationalization|操作化]]争议**：学界对于如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Braxton & Lien, 2000）
 

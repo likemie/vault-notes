@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Progressive Education]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
@@ -73,6 +74,6 @@ updated: '2026-06-08'
 
 
 > [!warning] 因素静态性：权重动态变化问题
-> [[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 490–491)]] 的核心贡献之一是识别了 Cuban 框架中各因素的权重在 LS 创立和废除两阶段之间发生了戏剧性重组——"国家安全"从完全不存在变为压倒性因素，"进步教育运动"从强驱动力变为完全消失，"协商与妥协"从核心特征变为完全不存在。这一发现挑战了 Cuban 框架对各因素"稳定共存"的隐含假设。
+> [[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 490–491)]] 的核心贡献之一是识别了 Cuban 框架中各因素的权重在 LS 创立和废除两阶段之间发生了戏剧性重组——"国家安全"从完全不存在变为压倒性因素，"进步教育运动"从强驱动力变为完全消失，"协商与妥协"从核心特征变为完全不存在。这一发现挑战了 Cuban 框架对各因素"稳定共存"的隐含[[Hypothesis|假设]]。
 >
 > **目前状态**：[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 建议在应用 Cuban 框架时引入因素权重分析维度——不仅识别存在哪些因素，更考察它们的相对权重如何随政治语境变化。这一补充尚未被系统整合进 Cuban 框架本身。

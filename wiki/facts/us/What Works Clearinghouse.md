@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Construct Validity]]"
 related_theories: []
@@ -115,7 +116,7 @@ updated: '2026-05-18'
 > [!abstract] 与其他清算中心的差异
 > WWC 不对一个干预跨所有结果聚合为单一项目评级，而是按结果域分别分析和报告教育干预结果。与 Blueprints、[[National Dropout Prevention Center|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 不同，WWC 的评级结构更偏向 outcome-specific intervention appraisal([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–13]])。
 >
-> 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和假设并不相同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.28]])。
+> 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和[[Hypothesis|假设]]并不相同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.28]])。
 
 ## 影响与争议
 

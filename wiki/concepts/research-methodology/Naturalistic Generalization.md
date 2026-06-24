@@ -15,8 +15,10 @@ tags:
   - paradigm/constructivist
 related_concepts:
   - "[[Rich and Thick Description]]"
+  - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
   - "[[Theoretical End Point]]"
+  - "[[Descriptive Research Question]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -63,7 +65,7 @@ Larsson（2009）进一步系统化了[[Qualitative Research|质性研究]]的�
 
 > [!dimension] Larsson（2009）的三种质性概括性推理
 > - **最大化变异以增强概括潜力**
->   通过[[Theoretical Sampling|理论抽样]]确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。假设研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大[[Sample Size Determination|样本量]]，且假设研究者事先知道最大变异是什么样。
+>   通过[[Theoretical Sampling|理论抽样]]确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。[[Hypothesis|假设]]研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大[[Sample Size Determination|样本量]]，且假设研究者事先知道最大变异是什么样。
 > - **通过情境相似性进行概括**
 >   确保研究情境与目标情境足够相似——即 Lincoln & Guba 的可转移性（transferability）标准。研究者提供充分[[Rich and Thick Description|厚描述]]让受众自行判断。困难在于决定何时、在何标准上情境足够相似。
 > - **通过模式识别进行概括**
@@ -97,4 +99,4 @@ LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体[[Descriptive Research Question|描述性研究]]需要概括性价值的论述。

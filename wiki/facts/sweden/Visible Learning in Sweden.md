@@ -20,6 +20,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Causality]]"
   - "[[Effective Teaching]]"
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
@@ -66,7 +67,7 @@ updated: '2026-05-20'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - Håkansson 并没有声称瑞典已经“证明 Hattie 正确”。这篇文章更像接受史和转化史分析，说明 [[Visible Learning|VL]] 如何改变学校改进的话语和操作重心，而不是对其效果做严格因果验证（Håkansson, 2015, pp.52–59）。
+> - Håkansson 并没有声称瑞典已经“证明 Hattie 正确”。这篇文章更像接受史和转化史分析，说明 [[Visible Learning|VL]] 如何改变学校改进的话语和操作重心，而不是对其效果做严格[[Causality|因果]]验证（Håkansson, 2015, pp.52–59）。
 > - 文章也提醒，课堂近端策略是否真正改善学生学习，仍然取决于地方学校文化、领导力和持续协作条件；如果只采纳术语而不改变工作方式，VL 只会停留在口号层面（Håkansson, 2015, pp.58–59）。
 
 ## 相关概念／理论

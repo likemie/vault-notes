@@ -21,7 +21,9 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Research Ethics]]"
   - "[[Document]]"
+  - "[[Descriptive Research Question]]"
   - "[[Research Scope]]"
+  - "[[Causality]]"
   - "[[Homework]]"
   - "[[Evaluation Research]]"
   - "[[Covert Research]]"
@@ -62,7 +64,7 @@ updated: 2026-06-20
 > - **明确交付物**
 >   研究目的将模糊的研究意图转化为可陈述的预期产出——研究完成后哪些知识将被获得。这不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **决定研究类型**
->   不同的目的暗示不同的研究取向。试图证明某事物在特定条件下有效 → 实验或行动研究；增进对学习理论的理解 → [[Document|文献]]研究；识别成功学校的共同特征 → 研究综合或描述性研究。
+>   不同的目的暗示不同的研究取向。试图证明某事物在特定条件下有效 → 实验或行动研究；增进对学习理论的理解 → [[Document|文献]]研究；识别成功学校的共同特征 → 研究综合或[[Descriptive Research Question|描述性研究]]。
 > - **决定研究方法与设计**
 >   目的决定随后的[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]立场（公开或隐蔽）和[[Research Scope|研究范围]]。
 
@@ -75,7 +77,7 @@ updated: 2026-06-20
 > [!contrast-table] 研究目的与方法的基本对应模式
 > | 目的类型 | 典型适配方法 | 示例 |
 > |---|---|---|
-> | **证明／检验效果** | 实验；行动研究；因果研究；纵向研究 | 检验某项[[Homework\|家庭作业]]干预的效果 → 实验 + 行动研究 |
+> | **证明／检验效果** | 实验；行动研究；[[Causality\|因果]]研究；纵向研究 | 检验某项[[Homework\|家庭作业]]干预的效果 → 实验 + 行动研究 |
 > | **理解／描述现象** | [[Ethnography\|人种志]]；[[Observational and Correlational Research\|观察研究]]；诠释性研究；历史研究 | 理解小学课堂中的权力动态 → 人种志 + 诠释性研究 |
 > | **识别因素／关系** | 调查；[[Multiple Regression\|多元回归]]；结构方程模型；网络分析 | 识别影响学习动机的各因素强弱 → 调查 + 多元回归 |
 > | **评估／审查／批判** | [[Ideology Critique\|意识形态批判]]；[[Evaluation Research\|评估研究]]；话语分析；女性主义批判 | 审查政府晋升标准政策 → 意识形态批判 + 女性主义批判 |

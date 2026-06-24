@@ -31,7 +31,9 @@ related_concepts:
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Hypothesis]]"
   - "[[Language Experience Approach]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Blue Skies Research]]"
@@ -45,8 +47,8 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Falsification]]"
   - "[[Study Population and Sample]]"
-  - "[[Feedback]]"
   - "[[Causality]]"
+  - "[[Feedback]]"
   - "[[Statistical Significance]]"
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
@@ -81,6 +83,7 @@ related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Quantitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
@@ -207,11 +210,11 @@ Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] �
 >
 > - **[[Effect Size|效应量]] $d=0.40$ 截断值武断**：0.4 的关节点选择任意，小效应量在高质量大规模研究中意义重大——医学中阿司匹林降低心脏病风险的效应量仅 $d=0.07$，却意味着每 1000 人拯救 34 人（p. 99）。Hattie 本人在户外教育的"跟进"效应中因效应量 $0.17$ 而兴奋，暴露了其阈值应用的不一致（p. 99–100）。
 >
-> - **社会背景被系统性排除**：Hattie 选择性地搁置阶级、贫困、家庭资源、健康和营养，但这些因素解释 **70–80%** 的校间差异（Gray, Jesson & Jones, 1986; Harker, 1995）（p. 98）。Snook 区分了两类"学校效应"研究——比较社会[[Variable|变量]]与学校变量的研究（发现社会变量贡献 70–80%）vs 仅比较校内变量的研究（发现教师最重要）——政策制定者经常混淆这两类（p. 99）。
+> - **社会背景被系统性排除**：Hattie 选择性地搁置阶级、贫困、家庭资源、健康和营养，但这些因素解释 **70–80%** 的校间差异（Gray, Jesson & Jones, 1986; Harker, 1995）（p. 98）。Snook 区分了两类"学校效应"研究——比较社会[[Variable|变量]]与学校变[[Quantitative Research|量的研究]]（发现社会变量贡献 70–80%）vs 仅比较校内变量的研究（发现教师最重要）——政策制定者经常混淆这两类（p. 99）。
 >
 > - **平均化掩盖复杂性**：以[[Homework|家庭作业]]为例，总体 $d=0.29$ 掩盖了小学 $d=0.15$、中学 $d=0.64$ 的巨大差异，以及数学（高效应）vs 科学和社会（低效应）的学科差异（p. 97）；[[Class Size|班级规模]]的平均效应量掩盖了高质量[[Randomised Controlled Trials|随机对照试验]]（[[Tennessee STAR Project 1985-1989|田纳西STAR项目]]）中发现的 $d=0.62$–$0.66$ 效应量（p. 100–101）。
 >
-> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p. 103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p. 104）。
+> - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p. 103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]]（p. 104）。
 
 Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评[[Document|文献]]中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
 
@@ -231,7 +234,7 @@ Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，�
 >
 > - **对负面发现的非批判性接受**：Jeynes & Littell（2000）报告的 $d=-0.65$ 是 VL 800+ 元分析中的极端异常值（仅两项低于 $-0.5$）。Hattie 未对其方法论、研究选择或作者潜在偏见进行任何审查。O'Connor 指出 Jeynes 是福音派牧师、God's Love Ministries 创始人、与共和党有密切关联——这些潜在的作者偏见因素未被 Hattie 考量，尽管 Hattie 自己强调了研究者"镜头"的重要性（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 147–148]]）。
 >
->   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性次级文献的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 146–147]]）。
+>   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性[[Primary and Secondary Documents|次级文献]]的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 146–147]]）。
 >
 > - **对正面发现的选择性修正**：Gee（1995）报告全语言效应量 $d=+0.65$。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 148]]）。
 >
@@ -576,7 +579,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > | 类型（例） | 比较基线的问题 | 排名含义 |
 > |-----------|--------------|---------|
 > | 制度框架条件（学校规模） | 无统一对照组，不同规模学校基线各异 | 不是教师可选择或改变的因素 |
-> | 个人特征（[[Self-concept\|自我概念]]） | [[Observational and Correlational Research\|相关研究]]为主，非[[Intervention Research\|干预研究]] | 因果方向可能反向——高成就带来高自我概念 |
+> | 个人特征（[[Self-concept\|自我概念]]） | [[Observational and Correlational Research\|相关研究]]为主，非[[Intervention Research\|干预研究]] | [[Causality\|因果]]方向可能反向——高成就带来高自我概念 |
 > | 综合教学项目（[[Direct Instruction\|直接教学]]） | 与"传统"课程比较——存在共同参照点 | 排名相对有意义：可比较基线下的项目比较 |
 > | 设计参数变体（集中 vs. 分散练习） | 同一干预的两种变体相互比较 | 与"选哪种教学法"属完全不同的决策类型 |
 
@@ -898,12 +901,12 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 #### 论证步骤一：VL 的流行无法用经验质量解释
 
-作者首先排除了最直接的假设——"VL 流行是因为它的数据质量好"。实际上，作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷，以 Table 1 系统呈现（Nielsen & Klitmøller, 2021, pp. 80–81）：
+作者首先排除了最直接的[[Hypothesis|假设]]——"VL 流行是因为它的数据质量好"。实际上，作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷，以 Table 1 系统呈现（Nielsen & Klitmøller, 2021, pp. 80–81）：
 
 > [!critique] VL 的七项方法论缺陷（Nielsen & Klitmøller, 2021, pp. 80–81）
 > | 问题 | 描述 | 例 |
 > |------|------|-----|
-> | 复杂性还原 | 聚焦单一因果因素对应单一效应 | 作业、[[Class Size\|班级规模]]、反馈 |
+> | 复杂性还原 | 聚焦单一[[Causality\|因果]]因素对应单一效应 | 作业、[[Class Size\|班级规模]]、反馈 |
 > | 消除调节因素 | 忽略如学生 SES 等重要调节变量 | 学生 SES 是学习的重要调节因素 |
 > | 去情境化标准 | d=0.40 截断点武断设定 | 低剂量阿司匹林预防心脏病 |
 > | 任意划分 | 效应量的划分隐藏重要区分 | [[Homework\|作业]]的多种形式被聚合 |
@@ -1098,7 +1101,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
 >
-> 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——假设教师能看到学生所看到的（既是能力主义的也是傲慢的），将成长仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
+> 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——[[Hypothesis|假设]]教师能看到学生所看到的（既是能力主义的也是傲慢的），将成长仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
 >
 > 7. **VL 基于能力主义假设** — VL 坚持*"只有可见的才重要"*，对*"成功"*和*"被纳入"*做出了规范性和能力主义的假设（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 41]]）。能力主义*"设定两个截然不同的本体论区域：残疾的和健全的"*（Campbell, 2009, p. 8）；在 VL 框架中，通过视觉感知的能力被正常化，其他感知方式在[[Epistemology|认识论]]上被抹除。有视觉障碍的教师或学生通过*"缺乏视力"*被建构为排斥对象——而这种排斥从未被计入效应量。对视觉傲慢的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979），包容性教育理论亦指出排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）。
 
@@ -1203,7 +1206,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证[[Epistemology|认识论]]维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。此论证直接回应了批评者对 VL 定量方法论的根本质疑。
 
 > [!logic-map] 论证三：[[Professional Judgment|专业判断]]是教学与学习之间的缺失环节
-> Qvortrup 的核心理论贡献：VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 6–7]]）。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p. 247）。
+> Qvortrup 的核心理论贡献：VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 6–7]]）。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的[[Hypothesis|假设]]"（Hattie, 2009, p. 247）。
 
 > [!critique] Qvortrup 辩护的局限
 > 批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作实践中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。

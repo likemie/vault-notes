@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -68,7 +69,7 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **趋同假设**。不同社会的教育系统正在趋向相似，这一假设贯穿趋同理论的所有历史阶段([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> - **趋同[[Hypothesis|假设]]**。不同社会的教育系统正在趋向相似，这一假设贯穿趋同理论的所有历史阶段([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 > - **温和的动词**。趋同理论使用温和的动词（如出现、发生、成形），通常缺乏明确的行动主体，掩盖了趋同过程中的权力关系([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 > - **政治中性的外表**。政治上看似中性，新的同构出现、成长，仿佛所有新的同构都是自然的、正常的和良性的([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 

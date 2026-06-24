@@ -23,6 +23,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Knowledge Capitalism]]"
+  - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
@@ -33,7 +34,8 @@ related_concepts:
   - "[[International Education Hubs]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -66,7 +68,7 @@ updated: '2026-06-08'
 
 ## 核心思想
 
-> [!info] 亚洲崛起作为高等教育转型的独立因果力量
+> [!info] 亚洲崛起作为高等教育转型的独立[[Causality|因果]]力量
 > Rizvi 的核心贡献在于论证：亚洲的经济和政治崛起不是高等教育全球转型的"背景"或"结果"，而是一个**独立的、有方向性的因果力量**。既有解释——[[Knowledge Capitalism|知识资本主义]]（Peters, 2013）、工作性质转变（Brown & Lauder, 2016）、全球化和技术创新——都有道理，但普遍将亚洲崛起视为这些全球趋势的"案例"或"表现"，而非塑造这些趋势的独立动力([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.90]])。
 >
 > Rizvi 的策略是"补充"而非"替代"：他写道"along with these factors, the economic and political rise of Asia has also played a highly consequential role"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.90]])。这一策略避免了在单一因果与多元解释之间做出非此即彼的选择。
@@ -84,7 +86,7 @@ updated: '2026-06-08'
 
 
 > [!info] [[Critical Geopolitics|批判地缘政治学]]作为分析透镜
-> Rizvi 选择[[Critical Geopolitics|批判地缘政治学]]而非古典（现实主义）地缘政治作为核心分析工具。他的理由是：[[Classical Geopolitics|古典地缘政治]]只能看到国家间的权力斗争，看不到跨国社会想象、网络化关系和全球教育市场中意识形态与文化的维度。批判地缘政治学对"日常经验"的关注——亚洲中产阶级家庭送孩子去西方读书的日常决策如何汇聚成重塑全球高等教育架构的巨大力量——是其分析的关键创新([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91, 95–97]])。
+> Rizvi 选择[[Critical Geopolitics|批判地缘政治学]]而非古典（现实主义）地缘政治作为核心分析工具。他的理由是：[[Classical Geopolitics|古典地缘政治]]只能看到国家间的权力斗争，看不到跨国社会想象、[[Snowball Sampling|网络化]]关系和全球教育市场中意识形态与文化的维度。批判地缘政治学对"日常经验"的关注——亚洲中产阶级家庭送孩子去西方读书的日常决策如何汇聚成重塑全球高等教育架构的巨大力量——是其分析的关键创新([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91, 95–97]])。
 >
 > > "geopolitical relations are 'saturated with social and cultural meaning'"（Dodds, 2019, p.34, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.91]]）
 >
@@ -94,5 +96,5 @@ updated: '2026-06-08'
 > [!success] 影响
 > - 为[[Geopolitics of Knowledge|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了[[Knowledge-Based Economization|知识经济化]]、[[Spatial Sortings|空间分选]]和[[Epistemology|认识论]]治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])
 > - 为[[International Education Hubs|国际教育枢纽]]的分析提供了亚洲视角——IEHs 集中体现了亚洲国家从国际化的被动接受者到主动塑造者的角色转变
-> - 对NPM 在高等教育中的运作机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
+> - 对NPM 在高等教育中的运作机制提供了新的[[Causality|因果]]解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
 >

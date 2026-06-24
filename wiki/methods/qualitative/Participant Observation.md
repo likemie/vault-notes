@@ -19,17 +19,18 @@ related_concepts:
   - "[[Champ]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
+  - "[[Causality]]"
   - "[[Effect Size]]"
   - "[[Domain Analysis]]"
   - "[[Progressive Focussing]]"
   - "[[Analytic Induction]]"
   - "[[Gatekeepers]]"
   - "[[Reflexivity]]"
+  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Covert Research]]"
   - "[[Familiarization]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Critical Ethnography]]"
 related_methods:
@@ -72,7 +73,7 @@ updated: 2026-06-24
 > - **知识观**：知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。
 > - **研究者角色**：研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。角色在参与-观察光谱上滑动（Figure 11.4），Swain（2006）指出研究者在实践中可能需要在从完全被动到完全积极的整个连续体上切换角色。
 > - **有效性标准**：长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler 和 Spindler（1992: 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。
-> - **不声称回答的问题**：不能估计因果[[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
+> - **不声称回答的问题**：不能估计[[Causality|因果]][[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
 > - **研究设计**：民族志、案例研究、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
@@ -93,7 +94,7 @@ updated: 2026-06-24
 > [!proc] 数据分析程序
 > 1. 书写详尽的田野笔记——既在现场书写也远离现场补充——记录观察到的行为、对话、非语言线索和研究者自身的反应。
 > 2. 将田野笔记和转录材料[[Coding in Qualitative Research|编码]]为分析单元；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
-> 3. 撰写分析备忘录，记录[[Reflexivity|反身性]]观察、临时假设和理论之间的关系发展。
+> 3. 撰写分析备忘录，记录[[Reflexivity|反身性]]观察、临时[[Hypothesis|假设]]和理论之间的关系发展。
 > 4. 使用[[Triangulation|三角验证]]（多数据源、多方法）、成员检查和同伴情况报告来增强可[[Reliability|信度]]；主动寻找负面案例和偏差案例。
 
 ---

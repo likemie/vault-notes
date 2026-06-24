@@ -20,7 +20,9 @@ tags:
   - categorical-data
 related_concepts:
   - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
 related_theories: []
@@ -41,7 +43,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 卡方检验（Chi-Squared Test, χ² test）是一种检验两个类别[[Variable|变量]]（categorical variables）之间是否存在关联的推断统计方法，使用 χ² 统计量。其核心思想是：比较观测频数（实际数据中各单元格的频数）与期望频数（假设两变量独立时的理论频数），两者差异越大，χ² 值越大，关联越可能真实存在（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 卡方检验（Chi-Squared Test, χ² test）是一种检验两个类别[[Variable|变量]]（categorical variables）之间是否存在关联的推断统计方法，使用 χ² 统计量。其核心思想是：比较观测频数（实际数据中各单元格的频数）与期望频数（[[Hypothesis|假设]]两变量独立时的理论频数），两者差异越大，χ² 值越大，关联越可能真实存在（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -74,7 +76,7 @@ updated: 2026-05-31
 ## 局限性
 
 > [!warning]
-> - 对样本量敏感——小样本中期望频数过低（通常 < 5）时 χ² 近似不可靠，应使用 Fisher's 精确检验。
+> - 对[[Sample Size Determination|样本量]]敏感——小样本中期望频数过低（通常 < 5）时 χ² 近似不可靠，应使用 Fisher's 精确检验。
 > - 只告知是否存在关联，不提供关联的强度或方向——需要补充 Cramér's V 或 φ 系数等[[Effect Size|效应量]]指标来量化关联强度。
 > - 卡方检验显著只表明[[Variable|变量]]间非独立，不能直接解读为[[Causality|因果关系]]。
 > - 当表格维度较大（如 5 × 5 交叉表）时，即使关联显著，也很难从 χ² 值本身判断关联的具体模式——需要检查标准化残差来定位具体的差异来源。

@@ -22,7 +22,9 @@ related_concepts:
   - "[[Construct]]"
   - "[[Ecological Fallacy]]"
   - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[Operationalization]]"
+  - "[[Causality]]"
   - "[[Response Bias]]"
   - "[[Research Utilization]]"
   - "[[Back Translation]]"
@@ -65,7 +67,7 @@ updated: 2026-06-23
 > - **第三阶段：文化理论模型**
 >   使用文化如何影响个体的理论模型来解释跨文化差异——如 Markus & Kitayama (1991) 关于认知、情感和动机的研究，Nisbett (2005) 关于思维过程和认知的研究。被批评对"文化成分"的经验检验有限。
 > - **第四阶段：建立理论-经验链接**
->   当前前沿——在文化[[Variable|变量]]的经验研究与假设这些链接的理论模型之间建立系统性"链接"（linkages），将理论预测与经验数据对应验证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 179–180)]]
+>   当前前沿——在文化[[Variable|变量]]的经验研究与[[Hypothesis|假设]]这些链接的理论模型之间建立系统性"链接"（linkages），将理论预测与经验数据对应验证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 179–180)]]
 
 ---
 
@@ -74,8 +76,8 @@ updated: 2026-06-23
 > [!challenges] 跨[[Cultural Validity|文化效度]]的主要威胁
 > - **未能将文化元素[[Operationalization|操作化]]** 停留在抽象"文化"层面，未能转化为具体可研究的[[Variable|变量]]
 > - **Emic/Etic 建构冲突** 采用谁的"文化"建构来操作化研究？研究者自身的还是参与者的？
-> - **错误因果归因** 将群体间差异归因于文化而非非文化因素——经济、人口统计、生物特征、气候、人格、宗教、教育实践等（Alexander, 2000; Matsumoto & Yoo, 2006）
-> - **[[Ecological Fallacy|生态谬误]]**（Ecological fallacy） 将在聚合数据中发现的关系假定适用于个体——"假设一个群体中的每个人表现出于群体整体相同的特征"（一种刻板印象形式）（Morrison, 2009: 62）
+> - **错误[[Causality|因果]]归因** 将群体间差异归因于文化而非非文化因素——经济、人口统计、生物特征、气候、人格、宗教、教育实践等（Alexander, 2000; Matsumoto & Yoo, 2006）
+> - **[[Ecological Fallacy|生态谬误]]**（Ecological fallacy） 将在聚合数据中发现的关系假定适用于个体——"[[Hypothesis|假设]]一个群体中的每个人表现出于群体整体相同的特征"（一种刻板印象形式）（Morrison, 2009: 62）
 > - **对等性问题**（Equivalence） 包括：概念对等性（项目对不同群体意义不同或无关）、心理对等性（源语言的心理学内涵在译文中变化）、意义对等性、测量对等性和语言对等性
 > - **[[Response Bias|回应偏差]]**（Response bias） 不同文化成员以系统不同方式回应：社会期望回应、"同意"偏好、避免或偏好量表极端类别；以及不同文化对"启动"（priming）的不同反应
 > - **抽样局限** 许多跨文化[[Research Utilization|研究使用]]大学生群体或单家公司——推广是有风险的
@@ -101,7 +103,7 @@ updated: 2026-06-23
 > 3. **[[Pilot Testing|预测试]]** 随机调查方法检验指令清晰性和工具适当性
 > 4. **评估内容和[[Concurrent Validity|共时效度]]** 20–30 名双语参与者同时完成两种语言版本，比较两套答案——[[Content Validity|内容效度]]质评（专家审查），共时效度量评（t 检验）
 > 5. **[[Reliability|信度]]分析** 检查内部信度和时间稳定性（[[Internal Consistency|Cronbach alpha]]），移除低信度项目
-> 6. **评估[[Construct Validity|构念效度]]** 因子分析、量表间相关、检验理论假设
+> 6. **评估[[Construct Validity|构念效度]]** 因子分析、量表间相关、检验理论[[Hypothesis|假设]]
 > 7. **建立常模** 用大样本人群计算均值、标准差和 z 分数
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 183–185)]]

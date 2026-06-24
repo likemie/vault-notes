@@ -21,11 +21,13 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
+  - "[[Causality]]"
   - "[[Scientific Method]]"
   - "[[Evidence-Based Reform]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
+  - "[[Epistemology]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
@@ -83,7 +85,7 @@ updated: '2026-06-08'
 >
 > 1. **三层批判框架**：Wrigley 独特之处在于不只在 [[Randomised Controlled Trials|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（Hattie / [[Education Endowment Foundation|EEF]] Toolkit）中进一步失真。
 >
-> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层[[Ontology|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
+> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层[[Ontology|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找[[Causality|因果]]机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
 > 3. **新自由主义框架分析**：Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >
@@ -99,7 +101,7 @@ updated: '2026-06-08'
 > - [[Evidence-Based Education]] — 补充 Biesta 的哲学批判（三重缺陷）和 Cowen 的制度批判（官僚功能），提供**方法论内部的三层级技术解构**（2018）和**科学哲学层面的"简单科学观"批判**（2019）
 > - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 Hattie [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford 教学助理被误用、体育参与案例等）
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
-> - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
+> - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于[[Causality|因果]]理论而非统计平均
 > - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的[[Ontology|本体论]]框架
 > - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
 
@@ -108,7 +110,7 @@ updated: '2026-06-08'
 > [!note-] 与既有 [[Evidence-Based Education|EBE]] 批判者的互补
 > | 学者 | 批判层级 | 批判工具 |
 > |------|---------|---------|
-> | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 哲学前提（认识论/存在论/实践论） | [[John Dewey\|Dewey]] [[Pragmatism in China\|实用主义]]、Latour 科学社会学 |
+> | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 哲学前提（[[Epistemology\|认识论]]/存在论/实践论） | [[John Dewey\|Dewey]] [[Pragmatism in China\|实用主义]]、Latour 科学社会学 |
 > | [[Argument_Cowen_2019_ERE\|Cowen (2019)]] | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
 > | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials\|RCT]]→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元元分析]]的三级失真）** | **[[Critical Realism\|批判实在论]]（Bhaskar/Sayer/Pawson）** |
 > | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + [[Education Endowment Foundation\|EEF]] Toolkit 深度案例追踪** |

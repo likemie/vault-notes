@@ -25,6 +25,7 @@ related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
+  - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Global Policy Space]]"
   - "[[Knowledge-Based Economy]]"
@@ -85,7 +86,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 > - **vs [[Graduate Attributes|毕业生特质]]**：[[Single-Case Design|SCD]] 运作于全球政策层面，由国际组织和跨国伙伴主导框架制定，界定哪些技能值得拥有；毕业生特质是大学层面对这些技能的制度化操作，将全球话语转化为具体的培养目标和课程设计。SCD 是话语层，毕业生特质是实施层。两者在内容上高度重叠（如 4C 技能），但驱动逻辑不同：SCD 更偏向经济竞争力和劳动力市场预测，毕业生特质则同时包含公民责任和终身发展维度([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1341]])。
 > - **vs [[Employability|就业能力]]**：就业能力是 SCD 的核心目标之一，但 SCD 的范围更广——它不仅定义什么是就业能力，还塑造个体如何看待自己的技能获取责任([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
 > - **vs [[Global Citizenship|全球公民]]**：SCD 聚焦经济生产力导向的技能（批判性思维、协作等），全球公民则强调跨文化沟通、社会正义和环境伦理。在 SCD 框架中，全球公民类技能（环境素养、文化理解）处于系统性边缘地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.257–258]])；博士层次的实证数据同样显示，全球公民属性是发展感知最低的特质组([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])。
-> - **vs 人力资本理论**：二者共享教育投资带来经济回报的基本假设，但 SCD 更进一步：它不仅认为技能有经济价值，还通过框架的制定和推广界定了哪些技能有价值和哪些没有，从而塑造全球教育治理的方向([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258–259]])。
+> - **vs 人力资本理论**：二者共享教育投资带来经济回报的基本[[Hypothesis|假设]]，但 SCD 更进一步：它不仅认为技能有经济价值，还通过框架的制定和推广界定了哪些技能有价值和哪些没有，从而塑造全球教育治理的方向([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258–259]])。
 
 ---
 
@@ -192,7 +193,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 
 ### 地缘政治维度
 
-SCD 不受限于任何特定机构、政府或商业结构，但占据并再生产着新自由主义知识型社会的地缘政治空间。在这个空间中，对技能和素养的关注表达了可持续和包容性社会的核心条件假设。在全球尺度上，SCD 通过排名、影响因子和国际合作标准等隐性成功标准来保障霸权地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
+SCD 不受限于任何特定机构、政府或商业结构，但占据并再生产着新自由主义知识型社会的地缘政治空间。在这个空间中，对技能和素养的关注表达了可持续和包容性社会的核心条件[[Hypothesis|假设]]。在全球尺度上，SCD 通过排名、影响因子和国际合作标准等隐性成功标准来保障霸权地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
 
 正是在这一地缘政治空间中，对卓越和创新的呼吁不断提高对主体的期望和要求（Rostan & Vaira, 2011; Rasmussen & Ydesen, 2019），主体性的生产和转移也在此发生并传播到其他知识空间。
 
@@ -282,13 +283,13 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 
 ### 方法论批评
 
-**因果证据匮乏**。Pellegrino 和 Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
+**[[Causality|因果]]证据匮乏**。Pellegrino 和 Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
 
 **测量困境**。如何衡量这些素养的获取以及它们之间的相互关系，仍然存在争议（Finegold & Notabartolo, 2010, p.30）。人际和内省技能无法通过制度化程序测量，而需要工作和生活文化的长期精炼([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.262]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]对[[Global Citizenship|全球公民]]的[[Operationalization|操作化]]尝试——将 O'Brien（2011）的数字、文化、社会沟通三种素养压缩为三个 Likert 评分项——也暴露了同样的测量挑战（pp.87–89）。
 
 ### 政治与伦理批评
 
-**未来劳动市场的不确定性**。全球对关键技能的聚焦间接暗示了边缘技能的存在，但关于未来劳动市场实际需要什么技能，目前证据不足([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的发现进一步质疑了这一假设：博士毕业生在职场中应用最多的技能（团队合作 4.2、口头沟通 4.5）恰恰是博士培养发展最少的——这暗示着 [[Single-Case Design|SCD]] 框架与职场实际需求之间可能存在错位（p.93）。
+**未来劳动市场的不确定性**。全球对关键技能的聚焦间接暗示了边缘技能的存在，但关于未来劳动市场实际需要什么技能，目前证据不足([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的发现进一步质疑了这一[[Hypothesis|假设]]：博士毕业生在职场中应用最多的技能（团队合作 4.2、口头沟通 4.5）恰恰是博士培养发展最少的——这暗示着 [[Single-Case Design|SCD]] 框架与职场实际需求之间可能存在错位（p.93）。
 
 **区域忽视**。SCD 推广一套适用于全球问题的同质化技能集合，但忽视区域需求和后殖民差异，从而强化了新自由主义知识型社会的既有霸权([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.264]])。
 

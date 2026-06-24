@@ -20,6 +20,7 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Learning Virtues]]"
+  - "[[Causality]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
   - "[[Heart and Mind for Wanting to Learn]]"
@@ -56,7 +57,7 @@ updated: 2026-05-25
 
 **欧美母亲的认知社会化**聚焦于心智维度([[Argument_Li_2012_Cambridge|Li, 2012, p.248–259]])：
 - **心智来源**：母亲从"心智"这一文化资源中汲取合法性，引导孩子将学习行为与智力、思维能力、理解力关联起来
-- **心智效力归因**：母亲构建的因果逻辑以心智理解力为核心环节。例如，发现孩子不懂数学 → 母亲用心智找出问题所在 → 确保孩子理解 → 孩子独立完成 → 孩子快乐
+- **心智效力归因**：母亲构建的[[Causality|因果]]逻辑以心智理解力为核心环节。例如，发现孩子不懂数学 → 母亲用心智找出问题所在 → 确保孩子理解 → 孩子独立完成 → 孩子快乐
 - **典型话语**："你知道这是聪明人做的事吗？""你用恐龙的名字来给一大类动物命名——不是只有恐龙！"
 
 **台湾母亲的认知社会化**聚焦于美德维度([[Argument_Li_2012_Cambridge|Li, 2012, p.259–265]])：
@@ -95,7 +96,7 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!example]
-> - vs 心智效力与美德效力 — Mind/[[Mind Efficacy and Virtue Efficacy|virtue efficacy]] 侧重归因的因果逻辑本身；Parental Cognitive and Affective Socialization 侧重父母如何通过日常对话将这种归因逻辑社会化给孩子
+> - vs 心智效力与美德效力 — Mind/[[Mind Efficacy and Virtue Efficacy|virtue efficacy]] 侧重归因的[[Causality|因果]]逻辑本身；Parental Cognitive and Affective Socialization 侧重父母如何通过日常对话将这种归因逻辑社会化给孩子
 > - vs [[Mother-Child Conversation|Mother-Child Conversation]] — Mother-Child Conversation 是一种研究方法（收集模拟对话）；Parental Cognitive and Affective Socialization 是该研究揭示的社会化内容差异
 > - vs 西方 parenting style 研究 — 西方研究中常见的"威权型"对东亚父母的刻画（单向命令、不容质疑）与 Li 的实际发现不符：台湾母女对话中孩子的反驳和协商与欧美对话同样普遍([[Argument_Li_2012_Cambridge|Li, 2012, p.241–244]])
 

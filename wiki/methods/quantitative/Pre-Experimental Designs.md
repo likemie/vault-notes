@@ -90,7 +90,7 @@ Group A  X1 ———————————————— O
 Group B  X2 ———————————————— O
 ```
 
-可以比较两种处理，但因缺乏随机分配和基线测量，因果解释非常受限。
+可以比较两种处理，但因缺乏随机分配和基线测量，[[Causality|因果]]解释非常受限。
 
 ## 适用场景
 
@@ -102,7 +102,7 @@ Group B  X2 ———————————————— O
 ## 局限性
 
 > [!warning]
-> - [[Internal Validity|内部效度]]极低：缺乏[[Random Assignment|随机分配]]、对照组和／或前测，几乎无法排除替代性因果解释。
+> - [[Internal Validity|内部效度]]极低：缺乏[[Random Assignment|随机分配]]、对照组和／或前测，几乎无法排除替代性[[Causality|因果]]解释。
 > - 单组设计无法区分处理效果与自然成熟、历史事件、回归均值等威胁。
 > - 不适合做出[[Causality|因果推断]]（Campbell & Stanley, 1963; 引自 Creswell & Creswell, 2022, Ch8）。
 

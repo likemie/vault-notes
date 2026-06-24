@@ -48,14 +48,14 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Cartwright 的核心主张是：[[Randomised Controlled Trials|随机对照试验]]（RCT）本身不足以满足政策或实践决策者的需求（Cartwright and Munro, 2010, p.265）。她论证说，RCT 的首要功能是在其他环境因素未知的情况下判断有效性——正因如此，RCT 结果不能直接外推到一个环境因素不同的新情境。从"在某处有效"推论到"在这里有效"需要理解干预措施的因果机制([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.10-11]])。
+> Cartwright 的核心主张是：[[Randomised Controlled Trials|随机对照试验]]（RCT）本身不足以满足政策或实践决策者的需求（Cartwright and Munro, 2010, p.265）。她论证说，RCT 的首要功能是在其他环境因素未知的情况下判断有效性——正因如此，RCT 结果不能直接外推到一个环境因素不同的新情境。从"在某处有效"推论到"在这里有效"需要理解干预措施的[[Causality|因果]]机制([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.10-11]])。
 >
 > > "It is widely acknowledged that we generally don't know all the important causes for a factor, let alone knowing the distribution of subpopulations homogeneous with respect to these in the study and the target populations."（Cartwright and Munro, 2010, p.263; 引自 Cowen et al., 2015, p.10）
 
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Cartwright's Three-Stage Knowledge Framework]] — 提出 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，强调因果机制理解在每一阶段过渡中的关键作用
+> - [[Cartwright's Three-Stage Knowledge Framework]] — 提出 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，强调[[Causality|因果]]机制理解在每一阶段过渡中的关键作用
 > - Evidence-Based Policy - A Practical Guide — 与 Jeremy Hardie 合著（OUP, 2012），系统阐述了证据本位政策在实际应用中的挑战和策略
 > - [[Programme Fidelity vs Adaptation]] 辩论 — 以加州班级缩减政策（1996）为例，论证"忠实执行"并非总是最优策略：成功的实施可能需要改变原始方案以适应本地条件([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17-18]])
 > - 参与英国 [[What Works Network]] 的早期政策分析，为教育领域证据实施提供哲学框架
@@ -79,4 +79,4 @@ updated: '2026-06-08'
 
 > [!warning] 争议与批评
 > - 有学者认为，Cartwright 对 [[Randomised Controlled Trials|RCT]] 局限性的强调可能被误解为反对实验证据本身，但她明确表示并非反对 RCT，而是反对在不理解机制的情况下盲目外推([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
-> - 她提出的替代方案（理解因果机制、评估支持因素）在实践中可能过于复杂，难以为忙碌的从业者所使用
+> - 她提出的替代方案（理解[[Causality|因果]]机制、评估支持因素）在实践中可能过于复杂，难以为忙碌的从业者所使用

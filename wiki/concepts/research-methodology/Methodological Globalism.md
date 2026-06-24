@@ -18,7 +18,9 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Epistemology]]"
   - "[[Scale in Higher Education]]"
+  - "[[Causality]]"
   - "[[Falsification]]"
+  - "[[Hypothesis]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Multiplicity]]"
   - "[[Ontology]]"
@@ -59,7 +61,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> - **全球尺度的唯一决定权** — 方法论全球主义的核心预设是：国家尺度的变化完全由全球尺度的结构性力量决定，国家不具独立的因果效力([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
+> - **全球尺度的唯一决定权** — 方法论全球主义的核心预设是：国家尺度的变化完全由全球尺度的结构性力量决定，国家不具独立的[[Causality|因果]]效力([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
 > - **对半自主性的否定** — 方法论全球主义否定了高等教育和科学相对于全球政治经济的半自主演化能力。例如，它无法解释为什么同样处于"全球资本主义体系"中，中国和巴西的科学产出增长率截然不同([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
 > - **典型案例：[[World-Systems Theory]]** — Wallerstein（1974, 2006）的世界体系理论是方法论全球主义的典型代表。"不存在'国家发展'这回事"（Wallerstein, 1974, p. 390）直接表达了全球决定论的立场——各国被视为全球资本主义总体性的函数，一国之上升必须以另一国之衰落为代价([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 12–13]])
 
@@ -68,7 +70,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> 方法论全球主义概念由 Marginson（2025）在批评 Wallerstein [[World-Systems Theory|世界体系理论]]时提出并命名。这一概念的提出是在 Wimmer & Schiller（2003）的"[[Methodological Nationalism|方法论民族主义]]"和 Beck（2007）对方法论民族主义的扩展之后，作为方法论批判的对偶概念。Marginson 同时指出，过去三十年全球高等教育和科学的发展——特别是中国、新加坡、韩国、印度、巴西等国在绝对和相对意义上的同时进步——直接[[Falsification|证伪]]了方法论全球主义的零和假设([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 12–13]])。
+> 方法论全球主义概念由 Marginson（2025）在批评 Wallerstein [[World-Systems Theory|世界体系理论]]时提出并命名。这一概念的提出是在 Wimmer & Schiller（2003）的"[[Methodological Nationalism|方法论民族主义]]"和 Beck（2007）对方法论民族主义的扩展之后，作为方法论批判的对偶概念。Marginson 同时指出，过去三十年全球高等教育和科学的发展——特别是中国、新加坡、韩国、印度、巴西等国在绝对和相对意义上的同时进步——直接[[Falsification|证伪]]了方法论全球主义的零和[[Hypothesis|假设]]([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 12–13]])。
 
 ---
 

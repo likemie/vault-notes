@@ -11,6 +11,7 @@ related_color: "#e5e7eb"
 tags: [paradigm/positivist, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Nomothetic and Idiographic]]"
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -38,7 +39,7 @@ updated: 2026-06-14
 
 ## 四组假设
 
-沿 Burrell and Morgan（1979）的维度，客观主义对应以下四组假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+沿 Burrell and Morgan（1979）的维度，客观主义对应以下四组[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 客观主义的四组假设
 > - **[[Ontology|本体论]]：实在论**（realism）社会实在是外在于个体的客观存在，强加于意识之上（imposing itself on their consciousness from without）。组织是真实的实体，有自身的生命（Organizations are real entities with a life of their own）

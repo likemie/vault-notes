@@ -23,6 +23,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Variable]]"
   - "[[Research Utilization]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -80,7 +81,7 @@ updated: 2026-06-22
 
 > [!theory-use] [[Research Utilization|研究使用]]方式
 > - **框架**：作为[[Quantitative Research|量化研究]]推论统计的理论基础。
-> - **工具**：为[[Confidence Interval|置信区间]]构建和显著性检验提供分布假设。
+> - **工具**：为[[Confidence Interval|置信区间]]构建和显著性检验提供分布[[Hypothesis|假设]]。
 > - **报告逻辑**：研究者报告"95% CI = [L, U]"时，背后是 CLT：若反复抽样，95% 的此类区间将包含总体真值。
 
 ## 适用边界

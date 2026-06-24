@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Causality]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
 related_theories:
@@ -128,7 +129,7 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success] 适用场景
-> - 适合探究"如何"（how）和"为什么"（why）类[[Research Question|研究问题]]——需要理解因果机制而非仅判定相关关系
+> - 适合探究"如何"（how）和"为什么"（why）类[[Research Question|研究问题]]——需要理解[[Causality|因果]]机制而非仅判定相关关系
 > - 适合在已有关联性证据但缺乏过程理解的领域进行机制性探索
 > - 适合研究复杂社会过程中结构与能动性的互动
 >

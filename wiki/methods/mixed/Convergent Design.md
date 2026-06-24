@@ -19,6 +19,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Reliability]]"
+  - "[[Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
   - "[[Paradigm]]"
@@ -72,7 +73,7 @@ updated: 2026-06-02
 通过比较两类数据库，研究者可获得对研究问题**更完整的理解**（a more complete understanding）。这一洞见来自两个方向的共同作用：
 - **量化数据**提供变量关系的系统性证据（回答什么因素影响什么结果）。
 - **质性数据**提供参与者经验和情境的深入理解（回答为什么会这样及对参与者意味着什么）。
-- **趋同与分歧**：当两类数据趋同时，互相增强了结论的可[[Reliability|信度]]；当分歧（divergence）出现时，分歧本身成为重要的发现——提示研究者需要重新审查理论假设或研究方法。
+- **趋同与分歧**：当两类数据趋同时，互相增强了结论的可[[Reliability|信度]]；当分歧（divergence）出现时，分歧本身成为重要的发现——提示研究者需要重新审查理论[[Hypothesis|假设]]或研究方法。
 
 ---
 

@@ -33,6 +33,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Archival Correspondence Analysis]]"
+  - "[[Ethnography]]"
 related_persons:
   - "[[Arturo Escobar]]"
   - "[[Walter Mignolo]]"
@@ -137,7 +138,7 @@ updated: '2026-05-18'
 > [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 将这一脉络与[[Critical Geopolitics|批判地缘政治学]]并列，作为理解当代高等教育[[Geopolitics of Knowledge|知识地缘政治]]转型的两大分析支柱之一。具体应用层面：
 >
 > - **揭示"创新"话语的[[Epistemology|认识论]]暴力**：当前全球高等教育政策中，创新被视为所有问题的万能解药——"创新是热情拥抱为所有社会和经济问题的万能解药"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.35]])。从去殖民视角看，这一"创新"话语并非认识论中立——它预设了一个特定的知识价值等级：能够产生专利、推动经济增长、可商业化的知识（通常来自 STEM 学科和[[Positivism|实证主义]]方法论）被赋予最高价值，而批判性、阐释性、非工具性的知识（通常来自人文学科和质性社会科学）被系统性地边缘化
-> - **诊断 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合的殖民性后果**：欧盟研究资助框架取消 SSH 独立渠道并要求其"直接为政策证据基础做贡献"——Parreira do Amaral (2019) 论证这实质上是将 SSH 研究的价值缩减为其对"技术科学创新和应对社会挑战的工具性/实践性贡献的潜力"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]])。这一制度安排的深层逻辑可从去殖民视角理解：它再生产了西方认识论的等级秩序——自然科学作为"真正的知识"，SSH 只有在辅助和加速自然科学的创新目标时才有存在价值。例：在 Horizon 2020 框架下，一项关于欧盟移民政策的人类学研究必须将其提案框定为对"社会凝聚力"或"劳动力市场效率"的贡献才能获得资助——研究的认识论自主性在制度层面被消解
+> - **诊断 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合的殖民性后果**：欧盟研究资助框架取消 SSH 独立渠道并要求其"直接为政策证据基础做贡献"——Parreira do Amaral (2019) 论证这实质上是将 SSH 研究的价值缩减为其对"技术科学创新和应对社会挑战的工具性/实践性贡献的潜力"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]])。这一制度安排的深层逻辑可从去殖民视角理解：它再生产了西方认识论的等级秩序——自然科学作为"真正的知识"，SSH 只有在辅助和加速自然科学的创新目标时才有存在价值。例：在 Horizon 2020 框架下，一项关于欧盟移民政策的[[Ethnography|人类学研究]]必须将其提案框定为对"社会凝聚力"或"劳动力市场效率"的贡献才能获得资助——研究的认识论自主性在制度层面被消解
 > - **分析与抵抗"别无选择"的话语**：当前[[Knowledge-Based Economization|知识经济化]]话语弥漫着"无可替代"（there-is-no-alternative）的修辞——将知识密集型资本主义呈现为唯一可行的未来。从去殖民视角，这种"别无选择"的话语本身就是殖民性的当代表现——它封闭了对可能的替代性未来的想象空间([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.40]])
 
 ---

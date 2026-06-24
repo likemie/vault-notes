@@ -23,6 +23,7 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Heterogeneity]]"
   - "[[Internal Consistency]]"
+  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Halo Effect]]"
   - "[[Literature Review]]"
@@ -105,7 +106,7 @@ Kleven (1995) 在[[Observational and Correlational Research|观察研究]]中提
 3. 另一个观察者，在相同的理论框架内工作，会做出相同的观察和解释吗？（评分者间版本）
 
 > [!warning] 质性研究中评分者间信度的争议
-> 将评分者间信度应用于质性研究是有争议的——它试图将量化信度标准应用于质性研究。纯粹主义者可能质疑这在质性研究中的合法性、相关性或必要性。Lincoln & Guba (1985) 指出，假设一位研究者会证实另一位的发现——这是错误的、不可辩护的，尤其在质性[[Reflexivity|反思性]]探究中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 205–207)]]
+> 将评分者间信度应用于质性研究是有争议的——它试图将量化信度标准应用于质性研究。纯粹主义者可能质疑这在质性研究中的合法性、相关性或必要性。Lincoln & Guba (1985) 指出，[[Hypothesis|假设]]一位研究者会证实另一位的发现——这是错误的、不可辩护的，尤其在质性[[Reflexivity|反思性]]探究中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 205–207)]]
 
 ---
 
@@ -136,7 +137,7 @@ Silverman (1993) 建议通过评分者间信度来增强访谈的信度——在
 
 > [!method-fit] 适用判断
 > - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observational and Correlational Research|观察研究]]、临床行为评定）；[[Qualitative Research|质性研究]]的内容分析中多位编码者对文本进行编码时；系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中多位筛选者独立筛选[[Document|文献]]时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
-> - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中——假设不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985: 307）。
+> - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中——[[Hypothesis|假设]]不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985: 307）。
 > - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间[[Reliability|信度]]不适用——此时应关注评分者[[Internal Consistency|内部一致性]]（intra-rater reliability）。
 
 ---

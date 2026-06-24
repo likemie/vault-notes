@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Structural Coupling]]"
+  - "[[Causality]]"
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
@@ -74,7 +75,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - [[Luhmann's Systems Theory]] — 将社会视为[[Autopoiesis|自创生]]（autopoietic）沟通系统的宏大理论框架，彻底重构了社会学对"社会是什么"的理解
 > - [[Blind Spot in Observation]] — 观察的盲点概念，对[[Epistemology|认识论]]和社会[[Scientific Method|科学方法]]论有深远影响
-> - [[Structural Coupling]] — 结构耦合概念，描述封闭、自我指涉系统之间的非因果链接关系，被应用于描述教学与学习之间、教育系统与其他社会子系统之间的关系
+> - [[Structural Coupling]] — 结构耦合概念，描述封闭、自我指涉系统之间的非[[Causality|因果]]链接关系，被应用于描述教学与学习之间、教育系统与其他社会子系统之间的关系
 
 ## 思想发展与影响
 
@@ -84,4 +85,4 @@ updated: '2026-06-08'
 > - 教育系统的社会沟通逻辑与学生的心理系统逻辑之间存在根本性鸿沟，无法通过[[Effect Size|效应量]]和[[Visible Learning|可见的学习]]（Visible Learning，VL）策略来弥合
 > - Luhmann 的洞见为理解教育中"观看中的盲视"提供了理论基础([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 >
-> Luhmann 的理论还通过 Qvortrup (2019) 被用于对 VL 的辩护（以[[Structural Coupling|结构耦合]]概念论证教学与学习之间的非因果链接），与 Larsen 的用法形成有趣的对比。
+> Luhmann 的理论还通过 Qvortrup (2019) 被用于对 VL 的辩护（以[[Structural Coupling|结构耦合]]概念论证教学与学习之间的非[[Causality|因果]]链接），与 Larsen 的用法形成有趣的对比。

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Document]]"
+  - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Reliability]]"
   - "[[Variable]]"
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 >
 > > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])
 >
-> 标准的核心设计逻辑基于 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> 标准的核心设计逻辑基于 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生[[Causality|因果]]证据的多种设计类型([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 
 ## 关键组件
 

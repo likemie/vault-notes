@@ -27,6 +27,7 @@ related_concepts:
   - "[[Access and Acceptance in Research]]"
   - "[[Research Scope]]"
   - "[[Research Practicability]]"
+  - "[[Hypothesis]]"
   - "[[Literature Search]]"
   - "[[Variable]]"
   - "[[Central Question]]"
@@ -189,7 +190,7 @@ Creswell & Bàez (2020) 列举了六种为已有[[Document|文献]]提供新视�
 6. **研究时效性强的议题**（如移民问题）
 
 > [!exegesis] 六种角度的贡献路径
-> 前两种通过更换情境和人群来检验已有理论的边界；第三种通过颠倒假设来揭示被忽略的机制；后三种通过方法、呈现或时机的创新来提供新知识。
+> 前两种通过更换情境和人群来检验已有理论的边界；第三种通过颠倒[[Hypothesis|假设]]来揭示被忽略的机制；后三种通过方法、呈现或时机的创新来提供新知识。
 
 ---
 

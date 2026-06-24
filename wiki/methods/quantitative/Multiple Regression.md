@@ -20,7 +20,9 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Research Question]]"
+  - "[[Causality]]"
   - "[[Heterogeneity]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Analysis of Variance]]"
@@ -80,7 +82,7 @@ updated: 2026-05-31
 
 > [!warning]
 > - 多重共线性（multicollinearity）——当预测[[Variable|变量]]之间高度相关时，回归系数估计不稳定，难以区分各变量的独立贡献。
-> - 与 Pearson 相关一样，回归揭示的是关联而非因果——即使控制了多个变量，未测量的混淆变量仍可能驱动结果。
+> - 与 Pearson 相关一样，回归揭示的是关联而非[[Causality|因果]]——即使控制了多个变量，未测量的混淆变量仍可能驱动结果。
 > - 对异常值、非线性关系和方差[[Heterogeneity|异质性]]（heteroscedasticity）敏感。
-> - 预测变量数量大而样本量小会导致过拟合（overfitting）——R² 被夸大且模型在新样本中表现差。
+> - 预测变量数量大而[[Sample Size Determination|样本量]]小会导致过拟合（overfitting）——R² 被夸大且模型在新样本中表现差。
 

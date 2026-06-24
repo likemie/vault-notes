@@ -22,10 +22,11 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[International Education]]"
   - "[[Selectivity]]"
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Theories of Policy Change]]"
   - "[[Performativity]]"
   - "[[Performativity of Measurement]]"
-  - "[[Causality]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Lifelong Learning]]"
@@ -99,7 +100,7 @@ updated: '2026-05-18'
 
 - **目的性**：指标是为政策目的而选择和设计的，统计是原始收集([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 - **分析性**：指标包含分析和解读，统计数据是原始数字
-- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画假设的关系
+- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画[[Hypothesis|假设]]的关系
 - **跨国统一性**：指标在各国统一开发、定期重复
 - **情境依赖性**：指标的意义与其构建情境相连（Jaeger, 1978），不自我解释
 
@@ -117,7 +118,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 **通过区域指标展示可测量成果**：绩效指标将复杂的政策现实转化为可视化、可比较的量化排名。在 EU，EUROSTAT 绘制一系列地图，根据区域创新能力和教育培训系统绩效对 NUTS2 区域进行分类([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170]])。
 
-**传播共同的变革理论**：绩效指标承载特定的因果叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。[[OECD]] 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])。
+**传播共同的变革理论**：绩效指标承载特定的[[Causality|因果]]叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。[[OECD]] 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])。
 
 **嵌入政治关系并实施选择性**：绩效指标间接重塑政府与公民社会之间的关系。通过指标，政府试图说服所有利益相关方同时竞争和合作，而非通过具有约束力的立法固定各方角色(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])。同时，指标实施 [[Selectivity]]——筛选政策议题的优先次序，系统性地优先某些替代方案，同时使其他议题被边缘化(Jessop, 2007; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
 
@@ -174,7 +175,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 ### 去政治化风险
 
-通过将价值判断（如"研发密集型创新优于其他创新"）嵌入看似中立的指标体系，本应由民主审议决定的政治选择被技术化为"客观标准"。Latour（1987）的警告在此应验：事实的命运掌握在使用者手中——脚注、警示前言和技术手册在阻止因果推论方面"相当无效"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]]; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.175–176]])。
+通过将价值判断（如"研发密集型创新优于其他创新"）嵌入看似中立的指标体系，本应由民主审议决定的政治选择被技术化为"客观标准"。Latour（1987）的警告在此应验：事实的命运掌握在使用者手中——脚注、警示前言和技术手册在阻止[[Causality|因果]]推论方面"相当无效"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]]; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.175–176]])。
 
 ## 相关案例／政策
 

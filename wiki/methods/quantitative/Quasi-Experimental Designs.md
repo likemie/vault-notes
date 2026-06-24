@@ -22,6 +22,7 @@ tags:
   - causal-inference
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Effect Size]]"
   - "[[Logic Model]]"
@@ -51,7 +52,7 @@ updated: 2026-05-23
 ## 认识论立场
 
 > [!abstract]
-> 在[[Evidence-Based Education|证据本位教育]]中，QED 的角色是提供项目效果的因果证据，但其证据等级低于 [[Randomised Controlled Trials|RCT]]。ESSA 将强证据对应 RCT，中等证据对应 QED，说明该政策框架承认非随机设计可以进入证据标准，但会对其强度作层级区分([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+> 在[[Evidence-Based Education|证据本位教育]]中，QED 的角色是提供项目效果的[[Causality|因果]]证据，但其证据等级低于 [[Randomised Controlled Trials|RCT]]。ESSA 将强证据对应 RCT，中等证据对应 QED，说明该政策框架承认非随机设计可以进入证据标准，但会对其强度作层级区分([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
 ## 研究程序
 

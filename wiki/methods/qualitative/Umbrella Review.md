@@ -20,6 +20,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Causality]]"
   - "[[Heterogeneity]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
@@ -54,7 +55,7 @@ updated: '2026-06-08'
 > [!example] 核心程序
 > **1. 制定共同纳入标准**
 >
-> 所有纳入的综述使用统一的标准，如聚焦于学龄儿童、尽可能依赖有因果推论依据的[[Intervention Research|干预研究]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。这确保了跨领域比较的基础一致性。
+> 所有纳入的综述使用统一的标准，如聚焦于学龄儿童、尽可能依赖有[[Causality|因果]]推论依据的[[Intervention Research|干预研究]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。这确保了跨领域比较的基础一致性。
 >
 > **2. 系统搜索既有综述**
 >

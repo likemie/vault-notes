@@ -21,7 +21,8 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Champ]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -57,7 +58,7 @@ updated: 2026-06-20
 > - **方法论层面**（methodologically）
 >   是否开发、检验或改进了研究方法？
 
-四个维度并非互斥——一项研究可以同时在多个维度上做出贡献。但高质量的研究至少应在**一个维度**上有明确推进（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+四个维度并非互斥——一项研究可以同时在多个维度上做出贡献。但高质[[Quantitative Research|量的研究]]至少应在**一个维度**上有明确推进（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---
 

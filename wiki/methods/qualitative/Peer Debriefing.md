@@ -56,7 +56,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 方法定义
-> 同行汇报（Peer debriefing）是[[Qualitative Research|质性研究]]中增强研究可信性（credibility）的一项效度策略。Lincoln & Guba (1985: 308) 将其定义为：**"将自己暴露于一位无利害关系的同行面前，以类似交叉审问（cross-examination）的方式，检验诚实性、工作假设并识别研究的下一步"**。这一策略通过引入研究者解释之外的另一个人对研究的审视，为研究报告增加了效度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 167)]]
+> 同行汇报（Peer debriefing）是[[Qualitative Research|质性研究]]中增强研究可信性（credibility）的一项效度策略。Lincoln & Guba (1985: 308) 将其定义为：**"将自己暴露于一位无利害关系的同行面前，以类似交叉审问（cross-examination）的方式，检验诚实性、工作[[Hypothesis|假设]]并识别研究的下一步"**。这一策略通过引入研究者解释之外的另一个人对研究的审视，为研究报告增加了效度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 167)]]
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的补充定义强调了同行审议在确保研究报告"能够与研究者以外的人产生共鸣"方面的作用——审议者的解读作为对研究者解读的外部检验。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9, p. 213)]]
 
@@ -97,7 +97,7 @@ Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议�
 > 2. **呈现研究发现与推理** 向审议者呈现数据分析结果、主题建构、解释框架和支撑证据——不仅展示结论，更重要的是展示从数据到结论的**推理链条**（chain of reasoning）
 > 3. **执行交叉审问式的审议** 审议者的角色类似**交叉审问者**（cross-examiner）——就三个维度提出质疑性问题：
 >    - **诚实性检验**（testing honesty）：研究者的解释是否忠实地反映了数据？是否存在选择性呈现或有意忽略？
->    - **工作假设检验**（testing working [[Hypothesis|hypotheses]]）：研究者形成的初步假设和模式是否在数据中有充分支撑？是否存在过度解释？
+>    - **工作[[Hypothesis|假设]]检验**（testing working [[Hypothesis|hypotheses]]）：研究者形成的初步假设和模式是否在数据中有充分支撑？是否存在过度解释？
 >    - **下一步识别**（identifying next steps）：基于审议中暴露的弱点或盲点，研究接下来应该关注什么？
 > 4. **记录审议反馈并反省** 基于审议反馈，研究者回溯性地反思分析和解释过程，修正[[Analytic Framework|分析框架]]、重新审视数据或调整研究设计方向
 > 5. **循环迭代**（如需要） 在研究过程中可能进行多轮审议——特别是当分析出现重大修正或新方向[[Emergence|涌现]]时
@@ -125,7 +125,7 @@ Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 在所有[[Qualitative Research|质性研究]]设计中均可使用。特别适合：（a）研究者对数据的解释可能存在个人偏见或"盲点"时——例如研究者与研究现象有密切的个人关联；（b）独立研究者（如博士生）缺乏研究团队内部交叉检验时——同行汇报提供了一种替代性的外部审视；（c）研究进入分析阶段并形成初步假设后——作为假设检验和方向校正的工具。在学位论文研究中，同行汇报可以通过同学或同一研究小组的成员来实施。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9)]]
+> - **适合使用** 在所有[[Qualitative Research|质性研究]]设计中均可使用。特别适合：（a）研究者对数据的解释可能存在个人偏见或"盲点"时——例如研究者与研究现象有密切的个人关联；（b）独立研究者（如博士生）缺乏研究团队内部交叉检验时——同行汇报提供了一种替代性的外部审视；（c）研究进入分析阶段并形成初步[[Hypothesis|假设]]后——作为假设检验和方向校正的工具。在学位论文研究中，同行汇报可以通过同学或同一研究小组的成员来实施。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9)]]
 > - **谨慎使用** 审议者如果与研究者的[[Theoretical Standpoint|理论立场]]过于接近——可能无法提供真正的外部视角；审议者如果对研究方法论不熟悉——可能提出不恰当的问题
 > - **不适合使用** 同行汇报不能替代研究者对数据的深度沉浸和第一手理解——审议者的反馈应被视为**参考**而非**指令**；也不能替代[[Member Checking|成员核查]]——参与者对自身经验的权威性是审议者不具有的
 
@@ -144,4 +144,4 @@ Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议�
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 在[[Qualitative Research|质性研究]]设计中介绍同行审议作为效度策略之一，将其与[[External Auditor|外部审计]]区分。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10]] — 在 Lincoln & Guba (1985) 的[[Qualitative Validity|质性效度]]框架中详细介绍同行汇报作为六项可信性策略之一的操作目的：检验诚实性、工作假设和识别下一步。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10]] — 在 Lincoln & Guba (1985) 的[[Qualitative Validity|质性效度]]框架中详细介绍同行汇报作为六项可信性策略之一的操作目的：检验诚实性、工作[[Hypothesis|假设]]和识别下一步。

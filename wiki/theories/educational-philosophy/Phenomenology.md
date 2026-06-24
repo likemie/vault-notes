@@ -126,7 +126,7 @@ updated: 2026-06-21
 > - **[[Ontology|本体论]]**：社会、自我和客观世界不是独立于人类意识而存在的纯粹中立对象；世界是被主体经历和赋予意义的生活世界，人类是具身且社会性共在的主体。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3, 4]]
 > - **认识论**：知识并非中立的客观事实，而是扎根于主体意识与主体间体验之中的意义沉淀。真理在于去蔽、回到直接经验本身，并通过多维视角审视事物。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **方法含义**：要求采用[[Qualitative Research|质性研究]]设计、诠释学分析、现象学教育学叙事或[[Philosophical Analysis in Education|哲学分析]]。偏好自然主义情境，强调研究者自身的[[Reflexivity|反思性]]（Reflexivity）和对天然态度的[[Epoché|悬置]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
-> - **不能直接推出的东西**：该理论不能直接证明客观因果规律，不适用于大规模定量[[Causality|因果推断]]，也不支持将学习效果直接降维为去情境化、可标量化的标准化[[Performance Indicators|绩效指标]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
+> - **不能直接推出的东西**：该理论不能直接证明客观[[Causality|因果]]规律，不适用于大规模定量[[Causality|因果推断]]，也不支持将学习效果直接降维为去情境化、可标量化的标准化[[Performance Indicators|绩效指标]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架**：将学生或教师的“生活世界”和“直接经验”作为分析的起点，组织[[Research Question|研究问题]]（例如探究“学生如何经历跨学科可持续探究”）。
@@ -149,7 +149,7 @@ updated: 2026-06-21
 > [!theory-boundary] 适用边界
 > - **适合解释**：个体的深层意识体验、生活世界经验、复杂的反思与自我意识重构、教学中的情感和主体互动，以及对课程政策的哲学与规范性批判。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
 > - **谨慎使用**：在探讨大规模、宏观社会制度的结构性变迁或资源分配等问题时，需要辅之以批判现实主义（[[Critical Realism]]）或社会学结构理论，以补充对学科[[Ontology|本体论]]深度及客观制约条件的考量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
-> - **不适合解释**：需要精确量化、进行因果控制实验的认知负荷、学习效率提升百分比等技术性问题。
+> - **不适合解释**：需要精确量化、进行[[Causality|因果]]控制实验的认知负荷、学习效率提升百分比等技术性问题。
 > - **常见误用**：将现象学理解为纯粹的“极端唯我主义”（认为没有客观现实），或者在教育实践中将其降维为没有任何[[Discipline-Based Theory|学科理论]]深度的“感官活动拼盘”，或者试图将现象学式的反思过程强行编制为标准化、可测量的技能技能点考核。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 5, 10]]
 
 ---

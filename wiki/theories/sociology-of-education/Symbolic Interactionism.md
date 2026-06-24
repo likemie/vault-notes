@@ -10,10 +10,12 @@ theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags: [theory/sociological, paradigm/interpretive, theme/social-psychology]
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Emergence]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[George Herbert Mead]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -27,11 +29,11 @@ updated: 2026-06-13
 
 ## 起源
 
-符号互动论（Symbolic Interactionism）源自米德（George Herbert Mead, 1934）的工作，后经布卢默（Blumer）、休斯（Hughes）、贝克尔（Becker）和戈夫曼（Goffman）等重要研究者发展。该术语并不代表拥有统一假设的单一视角，但可以从中识别出若干核心原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+符号互动论（Symbolic Interactionism）源自[[George Herbert Mead|米德]]（George Herbert Mead, 1934）的工作，后经布卢默（Blumer）、休斯（Hughes）、贝克尔（Becker）和戈夫曼（Goffman）等重要研究者发展。该术语并不代表拥有统一[[Hypothesis|假设]]的单一视角，但可以从中识别出若干核心原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 三个基本假设
 
-Woods（1979）识别出三个层层递进的基本假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+Woods（1979）识别出三个层层递进的基本[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 符号互动论的三个基本假设
 > - **意义赋予** 人基于事物对其具有的意义来行动。人居住在两个世界中——"自然"世界（由驱力和本能支配）和社会世界（符号——如语言——使人们能够赋予对象以意义）。互动论者聚焦于主观意义的世界，优先考虑内部人士自身的描述

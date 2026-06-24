@@ -17,6 +17,7 @@ tags:
   - theme/measurement
   - theme/interview
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Reliability]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -31,7 +32,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 诱导性问题（Leading question）是对受访者做出假设或"把话放进受访者嘴里"的问题——即问题本身影响了回答的方向，有时是不合法的。Morrison (1993: 66–7) 给出了经典示例："你什么时候停止向校长投诉了？"——该问题假设受访者曾经是频繁投诉者；"你对新数学方案有多满意？"——假设了对方案的某种满意度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 209–210)]]
+> 诱导性问题（Leading question）是对受访者做出[[Hypothesis|假设]]或"把话放进受访者嘴里"的问题——即问题本身影响了回答的方向，有时是不合法的。Morrison (1993: 66–7) 给出了经典示例："你什么时候停止向校长投诉了？"——该问题假设受访者曾经是频繁投诉者；"你对新数学方案有多满意？"——假设了对方案的某种满意度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 209–210)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 诱导性问题的核心特征是问题本身**内嵌了预设**——回答者在回答问题之前已经被问题框定了立场。它不同于开放式问题（让受访者自由构建回答），也不同于单纯的模糊问题（受访者不理解问题但问题本身没有预设方向）。
@@ -53,7 +54,7 @@ updated: 2026-06-24
 > - 诱导性："你什么时候停止向校长投诉了？" → 中立："你多久和校长交谈一次？"
 > - 诱导性："你对新数学方案有多满意？" → 中立："你对新数学方案的看法是什么？"
 >
-> 改写的核心原则：去掉问题中的假设，让受访者自己构建回答的方向和内容。
+> 改写的核心原则：去掉问题中的[[Hypothesis|假设]]，让受访者自己构建回答的方向和内容。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 

@@ -40,7 +40,7 @@ updated: 2026-06-21
 
 ## 定义
 
-> [!def] 零假设（Null [[Hypothesis]]）
+> [!def] 零[[Hypothesis|假设]]（Null [[Hypothesis]]）
 > 零假设是正式假设检验中的一种基本假设形式，预测在总体中[[Variable|变量]]间不存在关系或组间不存在显著差异。其目的是通过陈述一个否定性预期来反驳理论，通常写作 H₀（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜
@@ -56,7 +56,7 @@ updated: 2026-06-21
 
 ## 概念辨析
 
-> [!contrast-table] 零假设 vs [[Alternative Hypothesis|备择假设]]
+> [!contrast-table] 零[[Hypothesis|假设]] vs [[Alternative Hypothesis|备择假设]]
 > | 维度 | 零假设（H₀） | [[Alternative Hypothesis\|备择假设]]（H₁） |
 > |---|---|---|
 > | 核心陈述 | [[Variable\|变量]]间**没有**关系，或组间**没有**显著差异 | 变量间**存在**关系，或组间**存在**显著差异 |
@@ -68,7 +68,7 @@ updated: 2026-06-21
 
 ## 核心要素
 
-> [!feature] 零假设的核心特征
+> [!feature] 零[[Hypothesis|假设]]的核心特征
 > （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）
 > - **否定性陈述** 预测不存在关系或差异。例如："男性和女性在科学考试成绩上没有差异""参与者在前后测中没有差异"
 > - **总体层面** 是对总体的预测，而非样本
@@ -80,5 +80,5 @@ updated: 2026-06-21
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍零假设的定义、形式及其在[[Quantitative Research|量化研究]]方案写作中的位置
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍零[[Hypothesis|假设]]的定义、形式及其在[[Quantitative Research|量化研究]]方案写作中的位置
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 给出零假设的典型场景示例，并与[[Alternative Hypothesis|备择假设]]成对呈现在[[Operationalization|操作化]]框架中

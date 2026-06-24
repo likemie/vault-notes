@@ -23,6 +23,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
+  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Whole Language]]"
@@ -36,7 +37,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
-  - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[School Leadership]]"
   - "[[Material Fallacies]]"
@@ -153,7 +153,7 @@ updated: '2026-05-23'
 
 **$d = \frac{M_{\text{干预组}} - M_{\text{对照组}}}{SD_{pooled}}$**
 
-其中 $SD_{\text{pooled}}$ 为两组合并标准差。这一标准化的目的在于消除不同测量工具的量表差异，使跨研究比较成为可能。但 Simpson（2017, 2018）论证了这一假设的问题性，效应量实际上是一个反映试验设计特征的指标，而非干预有效性的纯粹测量([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]])。
+其中 $SD_{\text{pooled}}$ 为两组合并标准差。这一标准化的目的在于消除不同测量工具的量表差异，使跨研究比较成为可能。但 Simpson（2017, 2018）论证了这一[[Hypothesis|假设]]的问题性，效应量实际上是一个反映试验设计特征的指标，而非干预有效性的纯粹测量([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]])。
 
 从统计检验角度看，若比较的是干预前后两个分布，均值差 $\mu_1 - \mu_2$ 只有放到标准差 $\sigma$ 的尺度上才有意义，因此 $d = (\mu_1 - \mu_2) / \sigma$ 可理解为均值移动了几个标准差([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.42–43]])。但 $d$ 本身不是可直接判定[[Statistical Significance|统计显著性]]的统计量；只有乘以观测数平方根，得到 $t = d\sqrt{n}$，才接近用于检验 $\mu_1 = \mu_2$ 的 $t$ 统计量。
 
@@ -378,7 +378,7 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 
 **Hattie（2009）的关节点论证**：Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和实践者能够在一个统一的标尺上比较不同教育干预的相对效果，从而为政策制定和课堂实践提供"什么最有效"的实证指引。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。
 
-**Kraft（2020/2023）的经验基准论证**：Kraft 主张，尽管跨研究效应量由于设计、测量和样本差异而充满噪声，但完全禁止比较会削弱证据本位政策。只要承认噪声和限制，仍可从大量因果研究中获得有用的粗略参照([[Argument_Kraft_2023_ER|Kraft, 2023, p.184]])。详见上方[[#Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验基准]]。
+**Kraft（2020/2023）的经验基准论证**：Kraft 主张，尽管跨研究效应量由于设计、测量和样本差异而充满噪声，但完全禁止比较会削弱证据本位政策。只要承认噪声和限制，仍可从大量[[Causality|因果]]研究中获得有用的粗略参照([[Argument_Kraft_2023_ER|Kraft, 2023, p.184]])。详见上方[[#Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验基准]]。
 
 ---
 

@@ -15,6 +15,7 @@ tags:
 - subject/instruction
 - level/higher-ed
 related_concepts:
+  - "[[Causality]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Bildung]]"
@@ -23,6 +24,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
+  - "[[Hypothesis]]"
   - "[[Blue Skies Research]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -46,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 问题式学习（Problem-Based Learning, PBL）是一种以问题驱动学习的教学方法。学生在小组中协作，先面对一个问题以激活其先前知识，然后构建理论或心理模型来解释该问题的底层因果结构，随后通过持续学习、讨论和解决问题来精炼其心理模型（Schmidt, Rotgans, & Yew, 2011, p.793; Hattie, 2015, p.85）。
+> 问题式学习（Problem-Based Learning, PBL）是一种以问题驱动学习的教学方法。学生在小组中协作，先面对一个问题以激活其先前知识，然后构建理论或心理模型来解释该问题的底层[[Causality|因果]]结构，随后通过持续学习、讨论和解决问题来精炼其心理模型（Schmidt, Rotgans, & Yew, 2011, p.793; Hattie, 2015, p.85）。
 >
 > 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的[[Constructivist Paradigm|建构主义]]学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2, 8]])。
 >
@@ -106,7 +108,7 @@ updated: '2026-05-18'
 > Hattie (2015, p.84) 呈现了两种解读之间的张力：
 >
 > - **表面解读**：PBL 总体[[Effect Size|效应量]]低（d≈0.08–0.24），不是一种有效的教学方法
-> - **深层解读**：PBL 的失败更可能是引入时机的问题——在学生在具备足够表层知识之前引入 PBL。高年级学生可能比一年级学生从 PBL 中获益更多。这仍是一个需要进一步研究的假设
+> - **深层解读**：PBL 的失败更可能是引入时机的问题——在学生在具备足够表层知识之前引入 PBL。高年级学生可能比一年级学生从 PBL 中获益更多。这仍是一个需要进一步研究的[[Hypothesis|假设]]
 >
 > Gijbels et al. (2005) 发现随着知识增加 PBL 效果反而下降——这与"先备知识不足"的假说存在张力（Hattie, 2015, p.85）。
 

@@ -15,6 +15,7 @@ method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -23,7 +24,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Content Validity]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Metainferences]]"
   - "[[Construct Validity]]"
@@ -52,7 +52,7 @@ updated: 2026-06-02
 ## 1. 定义与核心价值
 
 > [!info] 定义
-> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关假设（第三阶段）。
+> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关[[Hypothesis|假设]]（第三阶段）。
 > 
 > [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.138)]] 将其目的概括为：to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.（首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，然后在大样本中检验该设计的或修改后的量化评估。）
 

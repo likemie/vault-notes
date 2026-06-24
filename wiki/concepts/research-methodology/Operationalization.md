@@ -14,12 +14,12 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Abstract]]"
   - "[[Research Question]]"
+  - "[[Hypothesis]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Research Practicability]]"
-  - "[[Hypothesis]]"
   - "[[Fitness for Purpose]]"
 related_theories: []
 related_methods:
@@ -68,7 +68,7 @@ updated: 2026-06-21
 
 ## 假设的操作化
 
-操作化的另一种形式是将[[Purpose Statement|研究目的]]转化为可检验的假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
+操作化的另一种形式是将[[Purpose Statement|研究目的]]转化为可检验的[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
 
 > [!feature] 好假设在操作化层面的特征
 > - **方向性清晰** [[Directional and Non-directional Hypotheses|方向性假设]]陈述两个条件或两组参与者之间差异或关系的方向；非方向性假设仅预测存在差异或关系，不陈述方向。方向性假设通常用于已有研究或理论提示发现可能走向特定方向的情境（p.129）。

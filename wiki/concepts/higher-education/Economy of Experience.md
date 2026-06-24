@@ -23,7 +23,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Governance by Spin]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -94,7 +94,7 @@ updated: 2026-05-18
 
 > [!success]
 > - 在[[Knowledge-Based Economy|知识经济]]和高等教育大众化时代，毕业证书只是敲门砖，"求职者还需要对自己的过往经历、个人品质、甚至性格和自我认同进行一系列管理和展现，才能获得雇主的青睐"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003; 2004）
-> - 钦凯（南方大学化学系）是履历经济学逻辑的生动体现——他明确区分了求职竞争的"硬"条件和"软"条件："一半看人的基本条件……一半就靠演绎"。这种"演绎"能力（情商、[[Governance by Spin|印象管理]]、转化率）在社会交往中日积月累地锻造([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - 钦凯（南方大学化学系）是履历经济学逻辑的生动体现——他明确区分了求职竞争的"硬"条件和"软"条件："一半看人的基本条件……一半就靠演绎"。这种"演绎"能力（情商、印象管理、转化率）在社会交往中日积月累地锻造([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-05-18
 
 > [!example]
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章援引 Brown 的[[Employability|就业力]]概念及其派生的履历经济学，作为分析大学生[[Social Engagement|社会性投入]]重要性的理论依据。钦凯案例——广泛社交（多结交年长商界精英）、广泛兴趣（健身教练级、养殖热带鱼）——展示了履历经济学在精英大学中的运作逻辑。详见 [[Goal-Controlled Mode]]
-> - 与[[Credential Inflation|文凭通胀]]和[[Employability|就业力]]的关联：三者在郑雅君（2023）的分析中构成一条因果链——文凭通胀 → 就业力相对化 → 履历经济学
+> - 与[[Credential Inflation|文凭通胀]]和[[Employability|就业力]]的关联：三者在郑雅君（2023）的分析中构成一条[[Causality|因果]]链——文凭通胀 → 就业力相对化 → 履历经济学
 
 ---
 

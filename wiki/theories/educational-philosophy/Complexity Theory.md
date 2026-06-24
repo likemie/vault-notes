@@ -11,10 +11,10 @@ theory_related_color: "#dbeafe"
 tags: [theory/complexity, paradigm/complexity, theme/research-philosophy]
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Causality]]"
   - "[[Feedback]]"
   - "[[Emergence]]"
   - "[[Variable]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
 related_theories: []
@@ -35,7 +35,7 @@ updated: 2026-06-13
 ## 定义
 
 > [!def] 复杂性理论（Complexity Theory）
-> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为"复杂适应系统"（complex adaptive systems, Kauffman, 1995）。它以有机的、非线性的和整体的方法取代简单的因果模型和原子化的分析方法（Santonus, 1998: 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为"复杂适应系统"（complex adaptive systems, Kauffman, 1995）。它以有机的、非线性的和整体的方法取代简单的[[Causality|因果]]模型和原子化的分析方法（Santonus, 1998: 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心概念
 
@@ -49,7 +49,7 @@ updated: 2026-06-13
 ## 对传统研究的挑战
 
 > [!tension] 复杂性理论 vs 传统研究
-> - **反线性因果** 混沌和复杂性理论反对线性、决定论的、受控的、封闭的系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作
+> - **反线性[[Causality|因果]]** 混沌和复杂性理论反对线性、决定论的、受控的、封闭的系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作
 > - **反[[Variable|变量]]控制** 在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史。正如赫拉克利特所言：我们永远不会两次踏入同一条河流（Morrison, 2001）
 > - **整体论** 现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动
 > - **分析单位转向** 研究分析单位应从个体／机构／制度转向网络或生态系统（Capra, 1996: 301）

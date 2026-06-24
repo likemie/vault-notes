@@ -22,6 +22,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Hypothesis]]"
   - "[[Self-Authorship]]"
   - "[[Champ]]"
   - "[[Self-Driven Mode]]"
@@ -110,7 +111,7 @@ updated: 2026-06-02
 
 > [!warning]
 > - **目的从何而来问题**：工具箱范式最核心的批评来自 Vaisey（2009）——该[[Paradigm|范式]]假定了文化与行动的关联必然在意识层面进行，回避了预定目的是从何而来的这一根本问题。如果文化只是工具箱，行动者选择工具所依据的目的本身又是如何被文化塑造的？（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）
-> - **意识层面的限定**：援引 Giddens 和 Bourdieu，动机或[[Habitus|习性]]完全可能是无意识的。工具箱范式所假设的文化运用者形象——灵活熟练、审时度势——只在有意识的、深思熟虑的认知层面成立，无法解释无意识层面的文化驱动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）
+> - **意识层面的限定**：援引 Giddens 和 Bourdieu，动机或[[Habitus|习性]]完全可能是无意识的。工具箱范式所[[Hypothesis|假设]]的文化运用者形象——灵活熟练、审时度势——只在有意识的、深思熟虑的认知层面成立，无法解释无意识层面的文化驱动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）
 > - **调和方案的局限**：Vaisey 的双过程调和虽然优雅，但将问题转化为意识层次的划分后，如何在经验研究中有效区分深层和浅层内化仍是一个未解的难题([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---

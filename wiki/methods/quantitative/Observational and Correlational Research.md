@@ -20,8 +20,9 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
-  - "[[Research Utilization]]"
   - "[[Causality]]"
+  - "[[Hypothesis]]"
+  - "[[Research Utilization]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
   - "[[Multimethod Research]]"
@@ -58,34 +59,34 @@ updated: 2026-05-18
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 观察/相关研究适合描述[[Variable|变量]]关系、识别可能的因果线索，并为后续干预假设生成提供基础；但它本身不通过变量操纵来排除替代解释，因此不能单独支持强因果结论([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-3]])。
+> 观察/相关研究适合描述[[Variable|变量]]关系、识别可能的[[Causality|因果]]线索，并为后续干预[[Hypothesis|假设]]生成提供基础；但它本身不通过变量操纵来排除替代解释，因此不能单独支持强因果结论([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-3]])。
 
 ## 操作步骤
 
 > [!example] 操作步骤
 > - **选择[[Variable|变量]]与样本**：研究者在既有情境中测量学生、教师、课堂或学校变量，而不是主动设置干预([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
 > - **收集量化数据**：数据可来自自陈问卷、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **分析变量关系**：研究通常估计变量间关联、预测关系、中介或模型路径；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有因果色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
-> - **生成后续假设**：在研究序列中，描述性和相关性研究可识别可能的[[Causality|因果关系]]，随后应通过干预或[[Experimental Research|实验研究]]正式检验([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+> - **分析变量关系**：研究通常估计变量间关联、预测关系、中介或模型路径；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有[[Causality|因果]]色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
+> - **生成后续[[Hypothesis|假设]]**：在研究序列中，描述性和相关性研究可识别可能的[[Causality|因果关系]]，随后应通过干预或[[Experimental Research|实验研究]]正式检验([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 适用场景
 
 > [!success] 适用场景
 > - 用于研究早期阶段，帮助理解研究情境、识别重要[[Variable|变量]]和可能的[[Causality|因果关系]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 > - 当研究者关注大规模既有数据、无法或尚未操纵变量时，观察/相关研究可以提供描述性和探索性证据([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3, 8]])。
-> - 当目标是生成干预假设而非直接宣称干预有效时，该方法与教育心理学"从探索到干预"的研究序列相容([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+> - 当目标是生成干预[[Hypothesis|假设]]而非直接宣称干预有效时，该方法与教育心理学"从探索到干预"的研究序列相容([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 局限性
 
 > [!warning] 局限性
-> - **不能单独支持强因果建议**：没有[[Variable|变量]]操纵意味着研究无法证明改变一个变量会导致另一个变量改善；因此基于观察/相关结果提出明确[[Recommendations for Practice|实践建议]]会超出证据边界([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
+> - **不能单独支持强[[Causality|因果]]建议**：没有[[Variable|变量]]操纵意味着研究无法证明改变一个变量会导致另一个变量改善；因此基于观察/相关结果提出明确[[Recommendations for Practice|实践建议]]会超出证据边界([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
 > - **容易被统计建模语言"挤压"出[[Causality|因果性]]**：[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，相关研究中建模方法的广泛使用可能使论文更常使用带有因果暗示的术语，并进而给出 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 > - **实践建议增长**：2020 年五本教育心理学经验期刊中，66% 的观察/相关文章包含 RFP，高于 2000 年的 41% 和 2010 年的 46%；这说明方法限制与实践建议之间的张力正在扩大([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供[[Variable|变量]]关系线索，但在 EBE 语境中，其结果常被要求转化为[[Recommendations for Practice|实践建议]]，因而产生因果推论边界问题。
+> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供[[Variable|变量]]关系线索，但在 EBE 语境中，其结果常被要求转化为[[Recommendations for Practice|实践建议]]，因而产生[[Causality|因果]]推论边界问题。
 
 ## 与相关方法的区别
 

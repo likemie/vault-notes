@@ -31,6 +31,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Sample Size Determination]]"
   - "[[School Leadership]]"
+  - "[[Hypothesis]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
@@ -84,7 +85,7 @@ updated: '2026-06-19'
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观**：基于[[Positivism|实证主义]]与经验主义因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
+> - **知识观**：基于[[Positivism|实证主义]]与经验主义[[Causality|因果]]观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **研究者角色**：作为客观的操控者和观察者，设计随机程序以隔离混杂变量，排除主观判断干扰。
 > - **有效性标准**：主要服务于[[Internal Validity|内部效度]]。高[[Reliability|信度]]的随机分配能最大限度排除选择偏误（Selection Bias）。
 > - **不声称观察的问题**：不能回答干预”为什么”起作用的深层因果机制，也不能回答干预在未经随机化控制的现实 “开放社会系统” 中如何运作。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6, 8]])
@@ -123,7 +124,7 @@ updated: '2026-06-19'
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**：当[[Purpose Statement|研究目的]]在于评估某项标准化干预（如某种教学软件、标准化测试）对学业成绩的纯粹因果净效应，且[[Sample Size Determination|样本量]]足够大、环境相对封闭时。
+> - **适合使用**：当[[Purpose Statement|研究目的]]在于评估某项标准化干预（如某种教学软件、标准化测试）对学业成绩的纯粹[[Causality|因果]]净效应，且[[Sample Size Determination|样本量]]足够大、环境相对封闭时。
 > - **谨慎使用**：在复杂的教育生态中，受试者（如[[School Leadership|学校领导]]、教师）的态度和信念在随机分配前已高度分化。由于无法实施双盲，教师的热情与主动施为（Agency）会污染实验过程，导致[[Effect Size|效应量]]（ES）难以归因。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
 > - **不适合使用**：许多教育研究情境中，由于行政限制、伦理冲突（如不能随机剥夺一部分学生接受优质教学的机会），随机分配在实践上不可行，此时应使用[[Quasi-Experimental Designs|准实验设计]]或质性[[Case Study|个案研究]]。
 
@@ -133,8 +134,8 @@ updated: '2026-06-19'
 
 > [!method-limits] 方法局限
 > - **“糟糕随机化”导致的统计偏误风险**：当实验[[Sample Size Determination|样本量]]较小或学校自主选择性退出时，随机分配极易失衡，造成“糟糕的随机化”（Bad Randomisation）。此时干预组和控制组在前测阶段就存在显著的基线差异。如果简单采用平均后测得分差计算[[Effect Size|效应量]]（ES），会产生严重的“数据包装”偏误。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
-> - **因果归因的“黑箱化”**：随机分配将复杂的教学过程简化为输入（干预项目）和输出（效应量）的对比，却无法诊断“为什么”学生会产生困难，也过滤掉了教师的推理和情境脉络，将因果机制置于统计黑箱之中。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
-> - **实验室“封闭系统”假设与教育“开放系统”现实的冲突**：随机分配的哲学前提是能像物理实验室那样隔离外界干扰（封闭系统）。但在现实教育系统（开放系统）中，外部政策、学校文化、[[Student-Teacher Relationship|师生关系]]的[[Emergence|涌现]]性因果力量无处不在。完美的随机分配只是一个无法在现实中完整复制的“休谟式规则性”幻象。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> - **[[Causality|因果]]归因的“黑箱化”**：随机分配将复杂的教学过程简化为输入（干预项目）和输出（效应量）的对比，却无法诊断“为什么”学生会产生困难，也过滤掉了教师的推理和情境脉络，将因果机制置于统计黑箱之中。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
+> - **实验室“封闭系统”[[Hypothesis|假设]]与教育“开放系统”现实的冲突**：随机分配的哲学前提是能像物理实验室那样隔离外界干扰（封闭系统）。但在现实教育系统（开放系统）中，外部政策、学校文化、[[Student-Teacher Relationship|师生关系]]的[[Emergence|涌现]]性因果力量无处不在。完美的随机分配只是一个无法在现实中完整复制的“休谟式规则性”幻象。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 
 > [!critique-method] Fresh Start 案例解构：随机化失败的实证证据
 > 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）曾对一项针对中一阅读困难学生的拼读干预项目（Fresh Start）进行[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCTs）评估，其行政摘要宣称项目带来了 $+0.24$ SD 的效应量（相当于 3 个月额外进步），并将该项目奉为循证黄金标准。

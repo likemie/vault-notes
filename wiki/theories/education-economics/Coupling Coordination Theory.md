@@ -72,7 +72,7 @@ updated: 2026-06-12
 
 > [!info]
 > - **[[Ontology|本体论]]**：系统论导向——现实由若干相互关联的子系统构成，系统整体的性质不能还原为子系统性质的简单加总
-> - **[[Epistemology|认识论]]**：[[Postpositivism|后实证主义]]倾向——通过构建指标体系和数学模型（耦合度 $C$、协调度 $D$）对系统状态进行定量描述，但不宣称达到了对因果机制的完全把握
+> - **[[Epistemology|认识论]]**：[[Postpositivism|后实证主义]]倾向——通过构建指标体系和数学模型（耦合度 $C$、协调度 $D$）对系统状态进行定量描述，但不宣称达到了对[[Causality|因果]]机制的完全把握
 > - **常用研究方法**：[[Coupling Coordination Model]]、综合评价指标体系构建、[[LISA Time Path]]和[[LISA Spatiotemporal Transition]]等时空分析方法
 
 ---

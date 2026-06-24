@@ -4791,7 +4791,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Directional and Non-directional Hypotheses.md",
     "aliases": [
-      "方向性假设与非方向性假设",
       "方向性假设",
       "非方向性假设",
       "directional hypothesis",
@@ -5032,6 +5031,18 @@
       "适合目的",
       "fitness-for-purpose",
       "methodological fit"
+    ]
+  },
+  {
+    "title": "Flanders Interaction Analysis Categories",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Flanders Interaction Analysis Categories.md",
+    "aliases": [
+      "FIAC",
+      "弗兰德斯互动分析",
+      "弗兰德斯语言互动分析分类体系",
+      "Flanders Interaction Analysis System",
+      "弗兰德斯互动分析系统"
     ]
   },
   {
@@ -8222,6 +8233,18 @@
       "叙事探究",
       "narrative inquiry",
       "narrative design"
+    ]
+  },
+  {
+    "title": "Observation Method",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Observation Method.md",
+    "aliases": [
+      "观察法",
+      "观察研究",
+      "科学观察",
+      "observation research",
+      "scientific observation"
     ]
   },
   {

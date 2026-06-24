@@ -30,6 +30,7 @@ related_concepts:
   - "[[Data Transformation]]"
   - "[[Variable]]"
   - "[[Integration Statement]]"
+  - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
@@ -238,7 +239,7 @@ Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_M
 > - 适合同时需要量化关系信息与质性情境解释的教育心理学研究（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.4]], 7）
 
 > [!warning] 局限性
-> - **非干预限制** 在 Brady et al. (2023) 的分类中，该类研究不操纵自[[Variable|变量]]，因此即使同时包含两类数据，也不自动产生因果识别能力（p.4）
+> - **非干预限制** 在 Brady et al. (2023) 的分类中，该类研究不操纵自[[Variable|变量]]，因此即使同时包含两类数据，也不自动产生[[Causality|因果]]识别能力（p.4）
 > - **[[Recommendations for Practice|实践建议]]比例高** 2020 年混合方法/多方法文章中 60% 包含实践建议（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6–7]]）
 > - **复杂设计要求高** 对研究者方法论能力和项目管理能力要求高，多阶段整合可能使研究周期大幅延长
 

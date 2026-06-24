@@ -21,6 +21,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
+  - "[[Hypothesis]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
@@ -46,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Prototype Methods]]"
   - "[[Ethnography]]"
+  - "[[Autoethnography]]"
 related_persons:
   - "[[Kurt Fischer]]"
   - "[[Socrates]]"
@@ -84,7 +86,7 @@ updated: '2026-06-08'
 > - 现任布朗大学教授（[[Argument_Li_2012_Cambridge|Li, 2012]], 封面）
 > - 研究先后获 William T. Grant Foundation、Foundation for Child Development (FCD)、Chiang-ching Kuo Foundation、Spencer Foundation 资助([[Argument_Li_2012_Cambridge|Li, 2012, p.xii]])
 - Li 的儿子在美国公立初中就读期间经历了典型的 [[Nerd]] 骚扰：因为性格有些内向、运动能力低于平均水平，但擅长并热爱数学、成绩优秀，他的姓名上了学校的荣誉榜并张贴于走廊。同伴每天对他进行言语嘲笑和社交排斥——一个大男孩曾试图将他扔进垃圾桶。Li 和家人收集了他受到的约十二种侮辱性称呼。这种骚扰严重到使她的儿子一度拒绝上学，要求要么在家教育、要么转学。Li 和丈夫向校长和辅导员提议开展"尊重你的同伴"项目，但校方以"孩子就是这样——这是人性"为由拒绝了。最终他们别无选择，将儿子转入一所私立学校——在那里，"孩子突然就不再'是这样'了"，知性与社交终于整合在了一起([[Argument_Li_2012_Cambridge|Li, 2012, pp.92–94]])。
-- 这段经历成为 Li 研究nerd 同伴文化的直接动力之一，也促使她在第 6 章中论证 nerd 骚扰并非"人性使然"，而是特定文化假设的产物([[Argument_Li_2012_Cambridge|Li, 2012, pp.93–94]])
+- 这段经历成为 Li 研究nerd 同伴文化的直接动力之一，也促使她在第 6 章中论证 nerd 骚扰并非"人性使然"，而是特定文化[[Hypothesis|假设]]的产物([[Argument_Li_2012_Cambridge|Li, 2012, pp.93–94]])
 
 ---
 
@@ -197,7 +199,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 ## 争议与批评
 
 > [!warning]
-> - Li 的研究以自传体[[Ethnography|民族志]]（autoethnography）为重要方法来源，第 1 章的个人经历构成了全书论证的经验基础。这种方法的优势在于深度与亲历性，但将个人体验直接上升为[[Cultural Models|文化模型]]，存在从"我"到"我们"的归纳跳跃（Li 本人在前言中承认研究聚焦"一般文化取向"的局限，见 Li, 2012, p.xi）
+> - Li 的研究以自传体[[Ethnography|民族志]]（[[Autoethnography]]）为重要方法来源，第 1 章的个人经历构成了全书论证的经验基础。这种方法的优势在于深度与亲历性，但将个人体验直接上升为[[Cultural Models|文化模型]]，存在从"我"到"我们"的归纳跳跃（Li 本人在前言中承认研究聚焦"一般文化取向"的局限，见 Li, 2012, p.xi）
 > - 六主题框架的提炼过程未在第 1 章中被方法论化——Li 没有说明她是如何从几百条童年回忆中筛选出恰好六个主题的，筛选标准不够透明
 > - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey|杜威]]的民主教育到当代多元文化教育运动，西方传统内部也存在大量反例
 

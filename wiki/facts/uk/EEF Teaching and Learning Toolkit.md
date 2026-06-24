@@ -25,7 +25,9 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Causality]]"
   - "[[Effect Size]]"
+  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Tracking]]"
   - "[[Document]]"
@@ -94,7 +96,7 @@ updated: '2026-06-08'
 > Toolkit 的设计融合了多位研究者的方法论贡献([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])：
 >
 > - Hattie（1992/2008）的比较性[[研究地图]]，将多元研究发现置于同一量表上
-> - Sipe 和 Curlette（1996）的共同纳入标准（聚焦于学龄儿童、尽可能依赖有因果推论依据的[[Intervention Research|干预研究]]）和系统性透明的搜索策略
+> - Sipe 和 Curlette（1996）的共同纳入标准（聚焦于学龄儿童、尽可能依赖有[[Causality|因果]]推论依据的[[Intervention Research|干预研究]]）和系统性透明的搜索策略
 > - Marzano（1998）的实用目标，追求课堂层面的可操作性
 
 > [!abstract] 三层信息结构
@@ -104,7 +106,7 @@ updated: '2026-06-08'
 >
 > **第二层**是成本分析，估计学校的额外财务支出。这些成本估计虽然粗糙，但是初始 Toolkit 的独特特征([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
-> **第三层**是证据的范围和稳健性评估，一直到所使用的[[Meta-analysis|元分析]]和其他研究的效应量和摘要。技术附录详细说明了效应量计算和转换的原理和细节，以确保综合准确且方法和假设透明([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
+> **第三层**是证据的范围和稳健性评估，一直到所使用的[[Meta-analysis|元分析]]和其他研究的效应量和摘要。技术附录详细说明了效应量计算和转换的原理和细节，以确保综合准确且方法和[[Hypothesis|假设]]透明([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 > [!note]- 证据质量层级
 > 估计来源按优先级递降([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])：
@@ -181,7 +183,7 @@ updated: '2026-06-08'
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]指出 Toolkit 的"反馈"类别混合了大量使用完全不同定义、不同学科、不同年龄层和不同结果测量工具的研究，其中有些呈现正向效应、有些负向效应，然后计算一个平均效应量。
 
 > [!warning] 体育参与案例：三级聚合失真
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, pp. 120–123)]]通过对 Toolkit 中"体育参与"条目的深度追踪，展示了[[Meta-meta-analysis|元-元分析]]如何在统计聚合中系统性消除因果解释信息：
+> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, pp. 120–123)]]通过对 Toolkit 中"体育参与"条目的深度追踪，展示了[[Meta-meta-analysis|元-元分析]]如何在统计聚合中系统性消除[[Causality|因果]]解释信息：
 >
 > **Toolkit 呈现**：体育参与 = +2 个月进步（低效果、中等成本），效应量 0.17。
 >
@@ -228,7 +230,7 @@ updated: '2026-06-08'
 
 > [!warning] 实施指导的空白
 > - 虽然 [[Education Endowment Foundation|EEF]] 提供了大量关于在学校开展试验的实践指导，但专门针对实施现有证据本位方案的文献相对较少([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22, 45]])
-> - 缺乏关于如何将研究证据与本地知识、关于底层机制的假设相结合的实用指导
+> - 缺乏关于如何将研究证据与本地知识、关于底层机制的[[Hypothesis|假设]]相结合的实用指导
 > - Cowen et al. 将此定位为国际证据本位实践文献中的共同空白
 
 ---

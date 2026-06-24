@@ -33,7 +33,9 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Direct Instruction]]"
   - "[[Epistemology]]"
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
+  - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
@@ -57,6 +59,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Intervention Research]]"
+  - "[[Quantitative Research]]"
 related_persons:
   - "[[Steven Stahl]]"
   - "[[William Jeynes]]"
@@ -149,7 +152,7 @@ updated: '2026-05-21'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主义认识论假设——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层[[Ontology|本体论]]（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])。
+> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主义认识论[[Hypothesis|假设]]——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层[[Ontology|本体论]]（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的[[Causality|因果]]机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])。
 >
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]从认识论角度提出根本性质疑：将已聚合的结果再次聚合在原则上是否合理——"当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？"
 >
@@ -172,7 +175,7 @@ updated: '2026-05-21'
 >
 > #### 数学模型
 >
-> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心假设：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——观察到的不同效应量仅由主要研究内的[[Sampling Error|抽样误差]]造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其精度加权——精度定义为效应量方差的倒数。
+> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心[[Hypothesis|假设]]：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——观察到的不同效应量仅由主要研究内的[[Sampling Error|抽样误差]]造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其精度加权——精度定义为效应量方差的倒数。
 >
 > **第一级：元分析 j 内主要研究效应的汇总**
 >
@@ -303,7 +306,7 @@ updated: '2026-05-21'
 > [!warning] 信息损失与数据库质量
 > **[[Argument_Snook_2009_NZJES|Snook et al. (2009)]]——"质量就是一切"。** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.94)]]在《可见的学习》出版同年就指出：Hattie 声称不关心 800 项研究中包含的研究质量——"但是，质量就是一切"。任何未排除低质量或不当研究的元分析都是误导性的，如果导致不明智的政策发展则可能具有破坏性。
 >
-> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——信息损失与失真。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]识别了元-元分析最根本的局限——**通过反复累积，原始的详细经验信息系统性消失**。具体表现为：原始研究的情境细节被元分析消除；元分析的调节变量信息在二级聚合中进一步消失；不同质量的研究在各级聚合中被等同对待。
+> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——信息损失与失真。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]识别了元-元分析最根本的局限——**通过反复累积，原始的详细经验信息系统性消失**。具体表现为：原始研究的情境细节被元分析消除；元分析的调节变量信息在二级聚合中进一步消失；不同质[[Quantitative Research|量的研究]]在各级聚合中被等同对待。
 >
 > > "你能用来自不同项目、不同方法的研究结果做同样的事吗？……还是你累积的越多，在更低分析层次已被累积的东西越多，证据的稳健性就越降低？"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
 >
@@ -366,7 +369,7 @@ updated: '2026-05-21'
 
 > [!info] 相关理论
 > - [[Evidence-Based Education|证据本位教育]]的[[Epistemology|认识论假设]] — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了证据本位教育的根本问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
-> - [[Critical Realism|批判实在论]] — 从三层[[Ontology|本体论]]角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])
+> - [[Critical Realism|批判实在论]] — 从三层[[Ontology|本体论]]角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的[[Causality|因果]]机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])
 
 ---
 
@@ -388,7 +391,7 @@ updated: '2026-05-21'
 
 - **[[Argument_Terhart_2011_JCS|Terhart (2011)]]暗示的方向**：(1) 更严格的质量控制和纳入标准透明度；(2) 承认元-[[Meta-analysis|元分析]]结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
 - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p.35)]]提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目"
-- **Pawson（2006）提出实在论综合（Realist Synthesis）**：基于因果理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.119, 123]])
+- **Pawson（2006）提出实在论综合（Realist Synthesis）**：基于[[Causality|因果]]理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.119, 123]])
 
 ---
 

@@ -28,14 +28,15 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Axiology]]"
+  - "[[Causality]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
   - "[[Epistemic Governance]]"
   - "[[Scientization of Politics]]"
   - "[[Side Effects]]"
+  - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
   - "[[Ontology]]"
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Epistemology]]"
@@ -84,15 +85,15 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
+  - "[[Pilot Testing]]"
   - "[[Non-intervention Research]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-analysis]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Participant Observation]]"
-  - "[[Pilot Testing]]"
-  - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
+  - "[[Participant Observation]]"
+  - "[[Intervention Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Improvement Science]]"
@@ -211,7 +212,7 @@ updated: '2026-06-17'
 > EBE 与多个教育概念和研究传统存在交叉与张力，这些差异体现在对证据的定义、对[[Professional Judgment|专业判断]]的角色定位和对教育目的的理解上：
 > 
 > - **vs [[Value-Based Education]]** — [[Argument_Biesta_2010_SPE|Biesta (2010)]] 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
-> - **vs 循证医学（Evidence-Based Medicine, EBM）**：循证医学是 EBE 的起点与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借用 Trish Greenhalgh (2014, 2015) 提出的"真实医学循证（Real EBM）"原则进行了有力反驳：真实的循证医学绝非机械照搬统计数据库，而是高度强调"为病患提供个性化的伦理关怀"、"利用专家临床经验进行诊断"、"结合病患意愿与偏好"等原则。相比之下，教育学 EBE 往往把医学简化为单一的药效 RCT 实验，抹杀了医生和教师都需要的专业临床判断力（Clinical Judgment）。此外，医学在实施 RCT 前通常已积累了丰富的生理学和药理学因果机制理论，而教育 RCT 往往是跳过因果机制的"黑箱测量"[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 11)]]。
+> - **vs 循证医学（Evidence-Based Medicine, EBM）**：循证医学是 EBE 的起点与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借用 Trish Greenhalgh (2014, 2015) 提出的"真实医学循证（Real EBM）"原则进行了有力反驳：真实的循证医学绝非机械照搬统计数据库，而是高度强调"为病患提供个性化的伦理关怀"、"利用专家临床经验进行诊断"、"结合病患意愿与偏好"等原则。相比之下，教育学 EBE 往往把医学简化为单一的药效 RCT 实验，抹杀了医生和教师都需要的专业临床判断力（Clinical Judgment）。此外，医学在实施 RCT 前通常已积累了丰富的生理学和药理学[[Causality|因果]]机制理论，而教育 RCT 往往是跳过因果机制的"黑箱测量"[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 11)]]。
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；[[Argument_Wiliam_2019|Wiliam (2019, pp.12–13)]] 以 Hayek (1945) 的知识理论为此提供政治经济学基础
 > - **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述
 > - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；[[Argument_Wiliam_2019|Wiliam (2019, p.11)]] 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
@@ -227,7 +228,7 @@ updated: '2026-06-17'
 ## 核心要素
 
 > [!abstract]
-> EBE 的理论与实践结构由核心主张与隐含假设、证据到政策与实践的转化模型构成，与之对应的改革方案和方法论批评分别在本页后续章节展开。
+> EBE 的理论与实践结构由核心主张与隐含[[Hypothesis|假设]]、证据到政策与实践的转化模型构成，与之对应的改革方案和方法论批评分别在本页后续章节展开。
 
 ### EBE 的基本主张与假设
 
@@ -366,7 +367,7 @@ updated: '2026-06-17'
 > - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 > - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 > - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019|Wiliam, 2019, p.3]])
-> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 > - **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
 > - **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 
@@ -419,7 +420,7 @@ updated: '2026-06-17'
 
 > [!finding-cards] 实证发现总览
 > 1. **清算中心结论不一致** Wadhwa 等发现不同教育证据清理机构对同一项目的评级一致性极低，仅为 30% 左右。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
-> 2. **大规模改革效果缺失** 英美主导的 [[Randomised Controlled Trials|RCT]] 评估投资巨大，但在大规模实施后，高达 90% 的干预实验显示零效应或未达显著影响。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 231]]
+> 2. **大规模改革效果缺失** 英美主导的 [[Randomised Controlled Trials|RCT]] 评估投资巨大，但在大规模实施后，高达 90% 的干[[Pilot Testing|预实验]]显示零效应或未达显著影响。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 231]]
 > 3. **[[Non-intervention Research|非干预研究]]的越界 RFP** 非[[Experimental Research|实验研究]]中高达 66% 包含[[Causality|因果性]][[Recommendations for Practice|实践建议]]（RFP），将相关性或观察性发现过度[[Transfer Translation Transformation|转译]]为行动指令。[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]
 > 4. **前测失衡产生数据伪像** Wrigley 解构发现高评级拼读项目 RCT 宣称的 $+0.24SD$ [[Effect Size|效应量]]，在匹配前测分数子集后，净效应其实是 $+0.00SD$。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
 
@@ -456,7 +457,7 @@ updated: '2026-06-17'
 > EBE 在认识论（实验无法预测未来）、存在论（教育因果非线性）和实践论（科学应用不是线性传递）三个层面均存在根本性缺陷。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
 
 > [!note]-
-> [[Argument_Biesta_2010_SPE|Biesta (2010)]] 从认识论、存在论和实践论三个维度对 EBE 进行系统批判：知识缺陷、效力缺陷、应用缺陷。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的、可确定的"和"科学进步来自知识的'应用'"三个隐含假设上的失败。Biesta 的框架已成为 EBE 批判[[Document|文献]]的经典参照，但其主要贡献被定位在[[Philosophical Analysis in Education|哲学分析]]层面。
+> [[Argument_Biesta_2010_SPE|Biesta (2010)]] 从认识论、存在论和实践论三个维度对 EBE 进行系统批判：知识缺陷、效力缺陷、应用缺陷。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的、可确定的"和"科学进步来自知识的'应用'"三个隐含[[Hypothesis|假设]]上的失败。Biesta 的框架已成为 EBE 批判[[Document|文献]]的经典参照，但其主要贡献被定位在[[Philosophical Analysis in Education|哲学分析]]层面。
 
 #### 证据与垃圾科学的区分问题
 
@@ -592,7 +593,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!note]- 三级失真机制详解（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制：
 > - **Level 1（RCT 层面：实验简化与安慰剂缺失）**：控制组通常是"常规教学"（business as usual）的真实高强度教学而非医学上的空白安慰剂，这使效应量失去了绝对参考。此外，RCT 将教师的教学热情和学生的推理施为（Agency）视为干扰项进行严格[[Screening Off|屏蔽]]，形成了没有深层因果机制的"数据黑箱"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 5–6]]。
-> - **Level 2（元分析层面：[[Heterogeneity|异质性]]混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异质的研究，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
+> - **Level 2（元分析层面：[[Heterogeneity|异质性]]混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异[[Qualitative Research|质的研究]]，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
 > - **Level 3（元-元分析层面：双重失真与排行榜修辞）**：以 Hattie 阀值和 EEF Toolkit 为代表的元-元分析，将前几级的统计偏误进一步累积和放大。其产出的"排行榜修辞"和"月份排行"彻底过滤掉了干预措施发挥作用的具体结构性与情境因素，为决策者提供了极具误导性的粗暴"钝器"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 11–12]]。
 
 > [!critique-method] 从 RCT 到元分析到元-元分析：证据在三层聚合中系统性失真
@@ -785,9 +786,9 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 4. *仅适用于二选一决策*：Cartwright & Hardie (2012) 指出 RCT 证据仅适用于评估是否采用项目 X，但教育情境中因素的相互依赖使单一二选一决策极少可行。
 
 > [!pathways] 处方：双组件整合
-> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立因果贡献，产出更细粒度、更可迁移的知识。
+> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立[[Causality|因果]]贡献，产出更细粒度、更可迁移的知识。
 > 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将[[Snowball Sampling|网络化]]改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
-> 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制假设进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
+> 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制[[Hypothesis|假设]]进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
 
 > [!implication] Peterson 的改革立场
 > 在接受 RCT 方法的前提下主张从内部改革其设计和制度基础，而非仅从外部批判。这补充了 EBE 批判的改革建设维度。

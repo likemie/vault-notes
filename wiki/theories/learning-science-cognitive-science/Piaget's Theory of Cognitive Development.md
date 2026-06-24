@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cognitive Shifting]]"
   - "[[Attentional Inertia]]"
+  - "[[Hypothesis]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Neo-Piagetian Theories]]"
@@ -200,7 +201,7 @@ updated: 2026-06-10
 ### 形式运算阶段 (Formal Operational Stage, 11–16 岁及以后)
 
 > [!tip]- 阶段定位
-> 该阶段儿童发展出抽象、假设演绎和反射性智能 (Reflective Intelligence)，能够系统预判所有组合和可能的结果 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3, p. 15)]]。
+> 该阶段儿童发展出抽象、[[Hypothesis|假设]]演绎和反射性智能 (Reflective Intelligence)，能够系统预判所有组合和可能的结果 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3, p. 15)]]。
 
 - **心理与认知特征**：能够完全脱离具体实物进行逻辑推理，通过命题进行思维，并掌握假设演绎推理能力。
 - **经典评估任务**：
@@ -218,7 +219,7 @@ updated: 2026-06-10
 ## 争议与批评
 
 > [!warning] 理论局限性与学术批评
-> 尽管[[Jean Piaget|皮亚杰]]理论构成了发展心理学的基石，但其经典的“全球性、年龄绑定阶段”假设受到后续研究的广泛质疑：
+> 尽管[[Jean Piaget|皮亚杰]]理论构成了发展心理学的基石，但其经典的“全球性、年龄绑定阶段”[[Hypothesis|假设]]受到后续研究的广泛质疑：
 > 
 > - **记忆负载与逻辑能力的混淆 (Memory vs. Logic)**  
 >   Bryant & Trabasso (1971) 指出，皮亚杰的很多评估任务（如传递性推理）失败，可能是因为任务对[[Working Memory|工作记忆]]的负载过大，导致儿童在逻辑运算前就遗忘了前提，而不是其逻辑推理结构发育不全 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。当实验对前提进行强化记忆训练后，更年轻的儿童也能完成这些任务。

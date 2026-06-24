@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Response Bias]]"
   - "[[Descriptive Analysis]]"
+  - "[[Hypothesis]]"
   - "[[Preregistration]]"
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
@@ -128,7 +129,7 @@ updated: 2026-05-31
 2. 检查[[Response Bias|回应偏差]]（response bias）——未回应者若回应是否会显著改变结果。方法包括波次分析（wave analysis，逐周比较回应变化；Leslie, 1972）或回应者／非回应者对比（电话联系少数非回应者比较差异）（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 3. 对所有预测变量和结果变量进行[[Descriptive Analysis|描述性分析]]，报告均值、标准差和得分范围；识别缺失数据并制定处理策略（Schafer & Graham, 2002; 引自 Creswell & Creswell, 2022, Ch8）。
 4. 若包含多项目量表，评估是否需要反向计分以及如何计算量表总分；检查量表内部一致性（Cronbach's α）。
-5. 确定用于检验主要推断性研究问题或假设的统计量和统计程序（如 R、SPSS），提供选择依据，说明统计假设。选择取决于研究问题性质（关联变量或比较组）、预测变量和结果变量的数量、协变量以及变量的测量类型（连续或分类）和分布特征（正态或非正态）（Rudestam & Newton, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+5. 确定用于检验主要推断性研究问题或[[Hypothesis|假设]]的统计量和统计程序（如 R、SPSS），提供选择依据，说明统计假设。选择取决于研究问题性质（关联变量或比较组）、预测变量和结果变量的数量、协变量以及变量的测量类型（连续或分类）和分布特征（正态或非正态）（Rudestam & Newton, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 6. 以表格或图形呈现结果，并从统计检验中解释结果的含义。
 
 ### 预注册与研究结果解释

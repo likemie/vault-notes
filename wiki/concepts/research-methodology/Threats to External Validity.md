@@ -28,6 +28,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Class Size]]"
   - "[[Construct]]"
+  - "[[Hypothesis]]"
   - "[[Catalytic Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Evaluative Validity]]"
@@ -120,7 +121,7 @@ Lincoln & Guba (1985: 189, 300) 列出了自然主义研究的四种外部效度
 
 > [!dimension] 自然主义研究的外部效度威胁（Lincoln & Guba）
 > - **选择效应**（selection effects）
->   所选择的研究[[Construct|构念]]实际上只与特定群体相关，却假设其广泛适用。[[Qualitative Research|质性研究]]的小样本和[[Purposeful Sampling|目的性抽样]]使这一问题尤为突出——研究发现可能只反映了被选中的少数参与者的经验。
+>   所选择的研究[[Construct|构念]]实际上只与特定群体相关，却[[Hypothesis|假设]]其广泛适用。[[Qualitative Research|质性研究]]的小样本和[[Purposeful Sampling|目的性抽样]]使这一问题尤为突出——研究发现可能只反映了被选中的少数参与者的经验。
 > - **情境效应**（setting effects）
 >   结果很大程度上是其特定情境的函数——离开该情境后不再成立。一个在特定学校文化中观察到的现象，可能在该校的独特历史、领导和社群关系中才能被理解。
 > - **历史效应**（history effects）

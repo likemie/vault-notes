@@ -18,6 +18,7 @@ tags:
 - theme/power
 - region/global
 related_concepts:
+  - "[[Memos]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Official Knowledge]]"
@@ -50,7 +51,7 @@ updated: '2026-05-21'
 ## 核心主张
 
 > [!tip]-
-> 霸权（hegemony）是 Antonio Gramsci（1971）在《狱中札记》中提出的核心概念，指统治阶级通过文化制度（法律、教育、媒体、科学、大学、出版）正当化其统治并赢得被统治者**积极同意**的权力行使方式。Gramsci 的核心区分在于：权力有两种运作方式——直接强制（coercion/force，如警察、军队、监狱）与霸权（hegemony，通过文化制度制造共识）。稳定的统治依赖于两者的结合，但霸权是更高效和持久的权力形式，因为它使被统治者"自愿地"接受统治秩序([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 13–14]])。
+> 霸权（hegemony）是 Antonio Gramsci（1971）在《狱中[[Memos|札记]]》中提出的核心概念，指统治阶级通过文化制度（法律、教育、媒体、科学、大学、出版）正当化其统治并赢得被统治者**积极同意**的权力行使方式。Gramsci 的核心区分在于：权力有两种运作方式——直接强制（coercion/force，如警察、军队、监狱）与霸权（hegemony，通过文化制度制造共识）。稳定的统治依赖于两者的结合，但霸权是更高效和持久的权力形式，因为它使被统治者"自愿地"接受统治秩序([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 13–14]])。
 
 > [!quote]
 > "Gramsci... distinguished coercion/force and hegemony, the latter being the legitimising and securing of consent to rule and the subsequent social order through cultural institutions, including law, education, media, science, and universities."([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
@@ -88,7 +89,7 @@ updated: '2026-05-21'
 ## 发展脉络
 
 > [!note]-
-> - 1929–1935 Gramsci 在法西斯监狱中撰写《狱中札记》，提出霸权概念，用以解释"为什么意大利工人阶级没有像马克思主义所预期的那样发起革命"——答案在于天主教会、教育系统和媒体等文化制度成功制造了工人阶级对现行秩序的"同意"
+> - 1929–1935 Gramsci 在法西斯监狱中撰写《狱中[[Memos|札记]]》，提出霸权概念，用以解释"为什么意大利工人阶级没有像马克思主义所预期的那样发起革命"——答案在于天主教会、教育系统和媒体等文化制度成功制造了工人阶级对现行秩序的"同意"
 > - 1971 《狱中札记》英文版出版，霸权概念进入英语学术世界，深刻影响了英国文化研究（Stuart Hall）、[[Post-colonial Theory|后殖民理论]]（Edward Said）和[[Critical Pedagogy|批判教育学]]（[[Paulo Freire]]）
 > - 1990 年代后 在国际关系和国际政治经济学中，"霸权"被用于分析美国全球领导地位的性质和限度
 > - 2025 Marginson 将 Gramsci 霸权理论系统引入高等教育地缘政治分析，作为[[World-Systems Theory|世界体系理论]]的替代框架

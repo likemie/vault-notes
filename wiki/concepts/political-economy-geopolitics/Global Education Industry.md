@@ -27,6 +27,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[External Auditor]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Hypothesis]]"
   - "[[Learning Analytics]]"
   - "[[Knowledge Production]]"
   - "[[New Public Management]]"
@@ -159,7 +160,7 @@ updated: '2026-06-22'
 ### 命题类型二：教育科技与数字教学的算法异化（EdTech & Algorithmic Alienation of Pedagogy）
 
 > [!concept-lens] 数字化与算法对教育关系的重塑
-> 这一命题群剖析数字教育技术（EdTech）的垄断、平台化运作以及背后的资本逻辑，分析算法技术如何将教师矮化为工具执行者，并消除地域文化多样性以推广硅谷标准的教学假设。
+> 这一命题群剖析数字教育技术（EdTech）的垄断、平台化运作以及背后的资本逻辑，分析算法技术如何将教师矮化为工具执行者，并消除地域文化多样性以推广硅谷标准的教学[[Hypothesis|假设]]。
 
 > [!claim] <Amos, S.>
 > 数字化之所以在 GEI 中表现出不可逆的强力扩张，是因为它受到三重利益机制的相互强化：首先是商业巨头追求的高额**利润（Profit）**；其次是由国际组织和慈善机构推动的、作为道德合法性外衣的教育**正义与平等（Justice & Equality）**叙事；最后是教师**专业发展（Professional Development）**对[[Learning Analytics|学习分析]]和个性化算法的需求。三者螺旋上升，导致“去数字化”在现实中近乎不可能（[[Argument_Amos_2022_Springer|Amos, 2022, pp. 56–57]]）。
@@ -200,7 +201,7 @@ updated: '2026-06-22'
 > [!critique] 外部批评
 > - **教育目标偏离与公共性弱化**：GEI 驱使教育改革的立论基础过度建立在经济理性之上。当绩效测量与商业资本成为核心动力时，教育追求的民主素养、社会正义以及个人自治等非经济目标被边缘化，公共教育逐渐失去其公共性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 43]]）。
 > - **数字化锁定的无可逃避性**：EdTech 依靠“获取正义（Justice & Equality）”的道德叙事来推广数字平台，并在客观上创造了对数据分析师和培训软件的新型市场依赖。即使数字技术带来了数字鸿沟和教学关系的异化，其自身的多重锁定机制也使得“去数字化”或回归传统教学路径变得近乎不可能（[[Argument_Amos_2022_Springer|Amos, 2022, p. 57]]）。
-> - **硅谷帝国主义与教学假设标准化**：少数科技巨头制造的专有软件并非中立工具。它们凭借全球市场占有率和算法规范，将特定商业主体的教学假设在全球范围内强制同构。这种流线化、标准化的技术不仅垄断了[[Knowledge Production|知识生产]]手段，亦严重否定了地方性的课程逻辑和文化差异（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
+> - **硅谷帝国主义与教学[[Hypothesis|假设]]标准化**：少数科技巨头制造的专有软件并非中立工具。它们凭借全球市场占有率和算法规范，将特定商业主体的教学假设在全球范围内强制同构。这种流线化、标准化的技术不仅垄断了[[Knowledge Production|知识生产]]手段，亦严重否定了地方性的课程逻辑和文化差异（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
 
 ---
 
@@ -210,7 +211,7 @@ updated: '2026-06-22'
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 分析了全球教育产业作为话语与物质的[[Champ|场域]]，如何深度介入和形塑高等教育的地缘政治转型。
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 探究了[[Corporate Education|企业教育]]市场的演进史，揭示了在线学习寡头企业通过证书体系和网络效应确立市场主导地位的过程。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 提出了推动 EdTech 扩张的“利润-正义-专业发展”三重驱动力框架，指出数字化的强力锁定特征。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学假设[[Coding in Qualitative Research|编码]]进算法中，从而实现对教学关系的全球标准化重塑。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学[[Hypothesis|假设]][[Coding in Qualitative Research|编码]]进算法中，从而实现对教学关系的全球标准化重塑。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 从历史与哲学视角追溯了芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）的[[Bildung|教化]]与[[Phenomenology|现象学]]根源，揭示了其在被政策收纳时所面临的技能原子化张力。
 
 ---

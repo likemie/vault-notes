@@ -16,6 +16,7 @@ tags:
   - theme/research-philosophy
 related_concepts:
   - "[[Ontology]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods: []
@@ -40,7 +41,7 @@ updated: 2026-06-13
 
 > [!timeline] 价值论驱动的五层研究结构
 > - **价值论**（axiology）：研究者持有的价值与信念（the values and beliefs that we hold）——什么被视为有价值的，理解的目的是什么
-> - **[[Ontology|本体论假设]]**（ontological assumptions）：关于实在本质的假设
+> - **[[Ontology|本体论假设]]**（ontological assumptions）：关于实在本质的[[Hypothesis|假设]]
 > - **[[Epistemology|认识论假设]]**（epistemological assumptions）：关于如何探究实在的假设
 > - **方法论考量**（methodological considerations）：由前三个层级衍生
 > - **工具与资料收集**（instrumentation and data collection）：最具体的操作层面

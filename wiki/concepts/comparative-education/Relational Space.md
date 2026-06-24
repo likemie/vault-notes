@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Assemblage]]"
   - "[[Methodological Nationalism]]"
+  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Global-Local Binary]]"
 related_theories:
@@ -52,7 +53,7 @@ updated: 2026-06-07
 
 > [!example]
 > - vs 领土性空间（Territorial Space） — 领土性空间以民族国家为边界，将空间视为固定的、静态的容器。关系性空间将空间视为关系的效果，由网络的[[Assemblage|组装]]和重构不断生产。
-> - vs [[Methodological Nationalism|方法论民族主义]] — 方法论民族主义以民族国家为分析单位，隐含着领土性空间假设。关系性空间概念旨在超越这一局限。
+> - vs [[Methodological Nationalism|方法论民族主义]] — 方法论民族主义以民族国家为分析单位，隐含着领土性空间[[Hypothesis|假设]]。关系性空间概念旨在超越这一局限。
 > - vs [[Actor-Network Theory|行动者网络理论]] — ANT 是实现关系性空间分析的具体理论和方法论工具。关系性空间是更广泛的概念框架，ANT 是其[[Operationalization|操作化]]的一种方式。
 
 ---

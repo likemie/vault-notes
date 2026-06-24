@@ -37,6 +37,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
+  - "[[Hypothesis]]"
   - "[[Further Education]]"
 related_theories: []
 related_methods: []
@@ -334,7 +335,7 @@ citation_aliases:
 
 1. **先用框架做一次"合作审计"**：将组织现有的所有产学合作活动填入 5×3 矩阵，识别空白区域——哪些领域和层级还没有任何合作活动？这些空白是"不需要"的还是"从来没想过"的？
 
-2. **不要假设所有合作都必须从 Level 1 开始**：根据双方已有的信任基础、战略优先级和可用资源，可以直接在 Level 2 或 Level 3 启动合作。
+2. **不要[[Hypothesis|假设]]所有合作都必须从 Level 1 开始**：根据双方已有的信任基础、战略优先级和可用资源，可以直接在 Level 2 或 Level 3 启动合作。
 
 3. **跨部门协调合作策略**：让就业中心、技术转移办公室、学院院长和[[Further Education|继续教育]]部门共享合作全景信息，避免各自为政导致的盲区。一个企业伙伴可能在某部门看来只是"招聘方"，但在另一部门看来具备成为战略研究伙伴的潜力。
 

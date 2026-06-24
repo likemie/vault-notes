@@ -24,6 +24,7 @@ related_concepts:
   - "[[Talent Assumption]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -82,7 +83,7 @@ Dweck 的研究揭示了儿童智力信念的一个显著变化：西方幼儿�
 ## 同伴文化影响
 
 > [!warning]
-> 实体智力观是西方学校中 [[Nerd]] 同伴文化的深层文化根源之一，与 [[Talent Assumption|天赋假设]]、[[Zero-Sum Competition|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的因果网络([[Argument_Li_2012_Cambridge|Li, 2012, pp.94–99]])。在固定智力的信念系统中，努力学习被视为试图徒劳地改变不可改变的天赋——因此那些努力但仍无法取得高成就的学生（被认为是"低能力却试图逆袭"的人）最先遭受同伴骚扰([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
+> 实体智力观是西方学校中 [[Nerd]] 同伴文化的深层文化根源之一，与 [[Talent Assumption|天赋假设]]、[[Zero-Sum Competition|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的[[Causality|因果]]网络([[Argument_Li_2012_Cambridge|Li, 2012, pp.94–99]])。在固定智力的信念系统中，努力学习被视为试图徒劳地改变不可改变的天赋——因此那些努力但仍无法取得高成就的学生（被认为是"低能力却试图逆袭"的人）最先遭受同伴骚扰([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
 
 相比之下，增长智力观在东亚文化中占主导地位。因为能力被视为可通过努力增长的，一个学生的成功不会威胁其他学生的自我价值——高成就者被视为"通过努力达到了更高水平的榜样"，而非"生来就比你优越的人"。这种信念使东亚学校中不存在针对高成就学生的系统性同伴骚扰([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 

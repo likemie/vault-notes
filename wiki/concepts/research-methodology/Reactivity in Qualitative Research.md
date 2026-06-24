@@ -16,9 +16,11 @@ tags:
 related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Reflexivity]]"
+  - "[[Causality]]"
   - "[[Analytic Framework]]"
   - "[[Champ]]"
   - "[[Purpose Statement]]"
+  - "[[Hypothesis]]"
   - "[[Blinding]]"
   - "[[Research Ethics]]"
   - "[[Qualitative Validity]]"
@@ -45,7 +47,7 @@ updated: 2026-06-24
 > 反应性是[[Qualitative Research|质性研究]]中研究者的在场改变了被研究情境的现象——与[[Hawthorne Effect|霍桑效应]]紧密关联。参与者可能试图回避、取悦、引导、否认或影响研究者，从而使其行为偏离自然状态。在质性研究中，反应性被视为不可完全消除的固有特征，而非可通过控制手段根除的"偏误"。应对方式是通过延长驻留时间、谨慎的自我呈现和高度[[Reflexivity|反身性]]来管理，而非试图消除研究者效应。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 409, 442, 452)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 研究者在场→被研究情境改变→数据不反映完全自然的参与者行为——这一因果链的后果。不同于[[Quantitative Research|量化研究]]将反应性视为需消减的"偏误"，质性研究承认其不可避免，将其纳入[[Analytic Framework|分析框架]]。
+> - **含义** 研究者在场→被研究情境改变→数据不反映完全自然的参与者行为——这一[[Causality|因果]]链的后果。不同于[[Quantitative Research|量化研究]]将反应性视为需消减的"偏误"，质性研究承认其不可避免，将其纳入[[Analytic Framework|分析框架]]。
 > - **用途** 提醒质性研究者关注自身在研究中的角色效应；要求在研究设计中纳入管理反应性的策略；要求在研究报告中披露反应性的影响。
 > - **边界** 不等于[[Reflexivity|反身性]]——反身性是研究者对自我影响的认知和批判性反思，反应性是这一影响力的实际表现。不等于故意的引导或访谈者偏见——反应性可能存在于参与者方面（无意识的或被动的行为改变）。
 
@@ -59,7 +61,7 @@ updated: 2026-06-24
 > [!feature] 核心要素
 > - **研究者效应** 研究者的个人特征——年龄、性别、种族、着装风格、语言口音、社会阶层——影响参与者如何回应和在研究者面前行为。
 > - **情境扰动** 引入研究者作为局外人进入社会系统本身即是一种干预和侵入（Flick, 1998: 57），系统会产生"免疫反应"。
-> - **期望效应** 参与者根据自己对[[Purpose Statement|研究目的]]的猜测调整行为——类似参与者的"猜测假设"（demand characteristics）。
+> - **期望效应** 参与者根据自己对[[Purpose Statement|研究目的]]的猜测调整行为——类似参与者的"猜测[[Hypothesis|假设]]"（demand characteristics）。
 > - **时间衰减** 反应性通常随时间推移而下降——研究者在情境中驻留越久，参与者越可能回归自然行为。这是长期田野工作优于短期[[Qualitative Research|质性研究]]的理由之一。
 
 ## 管理策略

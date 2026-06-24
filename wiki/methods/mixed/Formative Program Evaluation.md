@@ -18,6 +18,7 @@ tags:
 - evidence-informed-practice
 related_concepts:
   - "[[Formative Assessment]]"
+  - "[[Causality]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
@@ -41,7 +42,7 @@ updated: '2026-05-23'
 > [!info]
 > 形成性项目评价（Formative Program Evaluation）是在项目实施过程中持续收集证据，并把反馈用于改进投入、实施过程和阶段性结果的评价方法。它不同于只在项目结束时判断“是否有效”的总结性评价，更强调在改革推进期间帮助利益相关者理解项目是否按预期发生、哪里需要调整、哪些结果应在什么阶段出现([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-124]])。
 
-在复杂教育改革中，[[Formative Assessment|形成性评价]]的作用不是替代因果研究，而是补足严格实验难以回答的问题：项目有没有真正落地，教师和学生如何体验，实施里程碑是否达到，地方利益相关者是否理解证据并据此调整实践([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
+在复杂教育改革中，[[Formative Assessment|形成性评价]]的作用不是替代[[Causality|因果]]研究，而是补足严格实验难以回答的问题：项目有没有真正落地，教师和学生如何体验，实施里程碑是否达到，地方利益相关者是否理解证据并据此调整实践([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 
 ## 认识论立场
 
@@ -55,7 +56,7 @@ updated: '2026-05-23'
 > [!example]
 > [[Formative Assessment|形成性评价]]通常先建立[[Logic Model|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续反馈给利益相关者([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 123-124]])。
 
-在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118, 121-124]])。
+在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一[[Causality|因果]]效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118, 121-124]])。
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
@@ -71,7 +72,7 @@ updated: '2026-05-23'
 ## 局限性
 
 > [!warning]
-> [[Formative Assessment|形成性评价]]不等同于因果证明。[[Students and Teachers Accessing Tomorrow|STAT]] 的多源形成性评价能显示项目实施进展、利益相关者反应和若干中间结果，但由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，无法证明 STAT 的单独因果效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.124]])。
+> [[Formative Assessment|形成性评价]]不等同于[[Causality|因果]]证明。[[Students and Teachers Accessing Tomorrow|STAT]] 的多源形成性评价能显示项目实施进展、利益相关者反应和若干中间结果，但由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，无法证明 STAT 的单独因果效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.124]])。
 
 > [!warning]
 > 形成性评价证据仍会被不同利益相关者按价值排序解释。STAT 中，同一组实施进展和混合成就结果可以被支持者解释为数字公民、教学多样化和技术公平的进展，也可以被反对者解释为没有提高成绩的失败项目([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。

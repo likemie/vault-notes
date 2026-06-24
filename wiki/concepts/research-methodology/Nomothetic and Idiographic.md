@@ -20,6 +20,7 @@ tags:
   - paradigm/positivist
   - paradigm/interpretive
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
@@ -48,4 +49,4 @@ updated: 2026-06-13
 
 ## 在四组假设中的位置
 
-这对概念是 Burrell and Morgan（1979）四组假设推导链的方法论终点：持实在论[[Ontology|本体论]]→[[Positivism|实证主义]][[Epistemology|认识论]]→决定论人性假设→通则式方法论；持唯名论本体论→[[Interpretive Paradigm|反实证主义]]认识论→意志论人性假设→个例式方法论（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+这对概念是 Burrell and Morgan（1979）四组[[Hypothesis|假设]]推导链的方法论终点：持实在论[[Ontology|本体论]]→[[Positivism|实证主义]][[Epistemology|认识论]]→决定论人性假设→通则式方法论；持唯名论本体论→[[Interpretive Paradigm|反实证主义]]认识论→意志论人性假设→个例式方法论（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

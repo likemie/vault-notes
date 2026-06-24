@@ -15,6 +15,7 @@ tags:
 - teaching-learning
 related_concepts:
   - "[[Causality]]"
+  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Ontology]]"
   - "[[Effect Size]]"
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **封闭系统的链接**：教学系统与学习系统各自是自我指涉的封闭系统，结构耦合描述它们之间的互动方式——不是因果传输，而是相互"刺激"
+> - **封闭系统的链接**：教学系统与学习系统各自是自我指涉的封闭系统，结构耦合描述它们之间的互动方式——不是[[Causality|因果]]传输，而是相互"刺激"
 > - **不可预测性**：教师的教学干预会"扰动"（irritate）学生的内部认知系统，促使其自问如何反应，但具体反应对每个个案都是不可预测的([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])
 > - **非[[Causality|因果性]]**：教学干预不直接"导致"学习结果——"咖啡机类比"不适用（按特定按钮每次产出黑咖啡），外部教学干预必须经过学生的闭合反思循环才能产生反应([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])
 >
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs 因果教学模型（causal teaching model） — 因果模型假设输入→输出的线性关系；结构耦合强调教学与学习之间的非因果、非线性的系统间关系
+> - vs [[Causality|因果]]教学模型（causal teaching model） — 因果模型[[Hypothesis|假设]]输入→输出的线性关系；结构耦合强调教学与学习之间的非因果、非线性的系统间关系
 > - vs [[Professional Judgment]] — 结构耦合从[[Ontology|本体论]]角度描述教学与学习的关系性质；专业判断从实践角度描述教师在这种关系中的行动方式
 
 ## 理论基础

@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Causal Processes]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -71,5 +72,5 @@ updated: 2026-06-17
 > [!implication] 概率因果性的方法论后果
 > 接受概率因果性意味着：
 > - 研究者需要在因果推断中容纳不确定性和不可预测性。
-> - 统计工具（如偏相关、回归、结构方程模型）可以辅助因果分析，但背后的因果假设来自理论而非统计模型本身。
+> - 统计工具（如偏相关、回归、结构方程模型）可以辅助因果分析，但背后的因果[[Hypothesis|假设]]来自理论而非统计模型本身。
 > - 质性数据在揭示[[Causal Processes|因果过程]]如何在具体情境中运作方面具有优先地位。

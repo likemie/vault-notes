@@ -49,6 +49,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
@@ -58,6 +59,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
   - "[[Language Experience Approach]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Cargo Cult Science]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
@@ -342,7 +344,7 @@ updated: '2026-06-08'
 >
 > 在这场论战之外，Hattie 在新西兰还面临更广泛的争议：被批评在 asTTle 评估工具的推广中存在经济利益，模糊了科学家、政治顾问和商业利益者之间的界限；被指控提倡绩效薪酬、忽视社会背景和不平等([[Argument_Terhart_2011_JCS|Terhart, 2011, p.434–435]])。
 >
-> **论战的核心分歧**：双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey [[Pragmatic Paradigm|实用主义]]知识观——证据不提供行动规则，只为明智问题解决提供假设），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成[[Conflict of Interest in Research|利益冲突]]。[[Argument_Terhart_2011_JCS|Terhart (2011, p.435)]]评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
+> **论战的核心分歧**：双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey [[Pragmatic Paradigm|实用主义]]知识观——证据不提供行动规则，只为明智问题解决提供[[Hypothesis|假设]]），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成[[Conflict of Interest in Research|利益冲突]]。[[Argument_Terhart_2011_JCS|Terhart (2011, p.435)]]评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
 
 
 > [!warning] Grace 的介入 (2010)
@@ -361,7 +363,7 @@ updated: '2026-06-08'
 > - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** — 迄今最系统的技术评估：构建三层[[Analytic Framework|分析框架]]，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示[[Fixed-Effect and Random-Effects Models|固定效应模型]]不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
 > - **[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]]** — 统计学家视角定性为伪科学：CLE 计算错误（负概率）、基线比较任意性、三种效应量公式产生矛盾排名、r→d 转换危险、聚合任意性。结论："任何人都不应该复制这种方法论"（详见 [[Argument_Bergeron_2017_MJE]]、[[Visible Learning#Bergeron & Rivard (2017)]])
 > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** — 变差系数检验：Vσ=56.87%，数据集"极端不均匀"；[[Systematic Review|系统综述]] 10+ 位批评者论点；建议俄罗斯教育政策不采用 VL（详见 [[Argument_Golovchin_2019_ESC]]、[[Visible Learning#Golovchin (2019)]])
-> - **[[Argument_OConnor_2020_AJLL|O'Connor (2020)]]** — [[Whole Language|全语言]]案例审查：分类错误（[[Language Experience Approach|语言经验法]]≠全语言）、不对称审查（接受 d=-0.65/修正 d=+0.65）、选择性修正（VL 唯一被修正的元分析），不加权平均、次级文献系统性忽略。论证先验偏见驱动数据选择（详见 [[Argument_OConnor_2020_AJLL]]、[[Visible Learning#O'Connor (2020)]])
+> - **[[Argument_OConnor_2020_AJLL|O'Connor (2020)]]** — [[Whole Language|全语言]]案例审查：分类错误（[[Language Experience Approach|语言经验法]]≠全语言）、不对称审查（接受 d=-0.65/修正 d=+0.65）、选择性修正（VL 唯一被修正的元分析），不加权平均、[[Primary and Secondary Documents|次级文献]]系统性忽略。论证先验偏见驱动数据选择（详见 [[Argument_OConnor_2020_AJLL]]、[[Visible Learning#O'Connor (2020)]])
 > - **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]** — 从 [[Cargo Cult Science]] 角度批评 《可见的学习》方法论不透明：仅用一段话解释方法、未提供计算公式和加权方式，将《可见的学习》定性为"科学探究精神之外"（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
 
 

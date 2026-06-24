@@ -19,6 +19,7 @@ tags:
   - region/belgium
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Descriptive Research Question]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Evidence-Based Reform]]"
@@ -52,7 +53,7 @@ updated: 2026-05-24
 
 > [!example]
 > - vs [[Educational Evidence Clearinghouses]] — 清算中心通常通过较稳定的证据标准对项目进行外部评级；包容性证据验证类型学则是在本地项目证据稀少时，为改革内部的项目筛选和后续研究设置过渡性标准([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176]])。
-> - vs 传统证据层级 — 传统层级常把[[Experimental Research|实验研究]]置于顶端并排除较弱设计；该类型学承认实验和准实验对效果问题最有力，但同时保留专家验证、案例研究和描述性研究在早期筛选、实施理解和问题生成中的作用([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
+> - vs 传统证据层级 — 传统层级常把[[Experimental Research|实验研究]]置于顶端并排除较弱设计；该类型学承认实验和准实验对效果问题最有力，但同时保留专家验证、案例研究和[[Descriptive Research Question|描述性研究]]在早期筛选、实施理解和问题生成中的作用([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
 
 ## 核心要素
 

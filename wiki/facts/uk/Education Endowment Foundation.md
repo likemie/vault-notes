@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Policy Network]]"
   - "[[Document]]"
+  - "[[Causality]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
@@ -101,7 +102,7 @@ updated: 2026-06-20
 
 > [!actor-grid] 评论视角
 > - **官方与当事方视角**：认为 EEF 提供了高概率成功的证据资源，帮助学校（特别是弱势生源学校）更科学地分配 Pupil Premium 资金，通过实验评价提升了学校资源的利用效率。
-> - **学术 / 方法视角**：[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 等[[Critical Realism|批判实在论]]学者指出，EEF 推广的“去情境化”证据观将复杂的教育退化为“投入-产出”的机械因果链，抹杀了因果机制与能动性。
+> - **学术 / 方法视角**：[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 等[[Critical Realism|批判实在论]]学者指出，EEF 推广的“去情境化”证据观将复杂的教育退化为“投入-产出”的机械[[Causality|因果]]链，抹杀了因果机制与能动性。
 > - **政策 / 制度视角**：[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 认为，EEF 与[[BHP Foundation|必和必拓基金会]]等跨国巨头私人资本的绑定，凸显了新自由主义管理逻辑对主权国家公共教育[[Knowledge Production|知识生产]]的隐性操纵与合法化危机([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 
 > [!critique-data]- 命题/案例一：“新起点”[[Randomised Controlled Trials|RCT]] 评估的数据包装与[[Random Assignment|随机分配]]失败

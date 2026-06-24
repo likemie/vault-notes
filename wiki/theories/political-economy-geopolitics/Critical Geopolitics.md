@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Relational Space]]"
   - "[[Classical Geopolitics]]"
+  - "[[Hypothesis]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
@@ -41,7 +42,8 @@ related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Cultural Political Economy]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -73,13 +75,13 @@ updated: '2026-05-18'
 - **1990 年代**：在英语世界人文地理学和政治地理学中形成。核心推动力来自人文和文化研究中的空间转向（spatial turn）——空间不再被视为天然预设之物，而被理解为通过社会空间关系网络被持续建构的过程（Thompson & Parreira do Amaral, 2022, p.10）
 - **Dodds (2019)**：为批判地缘政治学提供了系统的教科书框架。强调地缘政治关系是"浸透了社会和文化意义"的建构物——国家间的关系不是客观存在的实体，而是通过话语和意义建构被"制造"出来的。将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p.36, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.91]]）
 - **Sharp (2009)**：强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语实践"生产"世界的政治行为
-- **Kuus (2017)**：提出"空间性不限于领土性"的核心命题——"空间性不限于领土性"（Kuus, 2017, p.5）——将地缘政治分析从领土框架扩展至关系性和网络化空间
+- **Kuus (2017)**：提出"空间性不限于领土性"的核心命题——"空间性不限于领土性"（Kuus, 2017, p.5）——将地缘政治分析从领土框架扩展至关系性和[[Snowball Sampling|网络化]]空间
 
 ---
 
 ## 核心命题
 
-批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心假设。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
+批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心[[Hypothesis|假设]]。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
 
 ### 地缘政治是意识形态建构的
 

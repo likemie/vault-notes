@@ -16,6 +16,7 @@ tags:
   - theme/validity
   - theme/assessment
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Hawthorne Effect]]"
   - "[[Experimenter Bias]]"
   - "[[Inter-Rater Reliability]]"
@@ -43,7 +44,7 @@ updated: 2026-06-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 光环效应的核心是**单一特征或印象辐射到对其他特征的判断上**——一个正面（或负面）特征"污染"了对同一人或同一情境的其他独立维度的评估。
-> - **用途** 光环效应框架提醒研究者在数据分析和评分中意识到自身的认知偏差——它是对"客观评分"假设的系统性挑战。
+> - **用途** 光环效应框架提醒研究者在数据分析和评分中意识到自身的认知偏差——它是对"客观评分"[[Hypothesis|假设]]的系统性挑战。
 > - **边界** 光环效应不同于[[Hawthorne Effect|霍桑效应]]（后者是受试者因被关注而改变行为），也不同于[[Experimenter Bias|实验者偏差]]（后者是研究者期望影响实验结果）。光环效应特指**评分和判断情境中**的认知偏差。
 
 ---

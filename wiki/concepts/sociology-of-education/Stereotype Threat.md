@@ -17,6 +17,7 @@ related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Chinese Learner]]"
   - "[[Orientalism]]"
+  - "[[Causality]]"
   - "[[Document]]"
   - "[[Meta-Cultural Sensitivity]]"
 related_theories: []
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> 刻板印象威胁在教育跨文化语境中的因果链([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, pp.44, 49–50]])：
+> 刻板印象威胁在教育跨文化语境中的[[Causality|因果]]链([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, pp.44, 49–50]])：
 > - **前提条件：刻板印象的存在与流通** — 西方学术[[Document|文献]]中广泛流通着"[[Chinese Learner|中国学习者]]被动、缺乏批判思维"等描述，构成刻板印象威胁的激活源
 > - **威胁感知** — 当中国学习者进入以这些描述为"常识"的西方课堂，他们意识到自己被以某种简化标签看待
 > - **情感与认知负担** — 这种意识产生额外的心理负担——不仅要完成学业任务，还要应对"我是否证实了刻板印象"的隐形压力（Aronson, 2002）

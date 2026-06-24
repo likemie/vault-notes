@@ -21,6 +21,7 @@ tags:
   - theme/statistics
 related_concepts:
   - "[[Null Hypothesis]]"
+  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Internal Validity]]"
   - "[[Threats to Internal Validity]]"
@@ -44,7 +45,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis|零假设]]；**第二类错误**指接受了实际上不为真的零假设。Mitchell & Jolley (1988: 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者**（convicting an innocent person），第二类错误相当于**放过有罪者**（finding a guilty person innocent）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
+> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis|零假设]]；**第二类错误**指接受了实际上不为真的零[[Hypothesis|假设]]。Mitchell & Jolley (1988: 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者**（convicting an innocent person），第二类错误相当于**放过有罪者**（finding a guilty person innocent）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 两类错误是[[Null Hypothesis|零假设]]显著性检验（NHST）框架内生的不确定性来源——即使研究设计和执行完美无缺，统计推断本身仍然包含这两类错误的风险。它们不是研究者的操作失误，而是**统计决策的固有属性**。

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[International Education]]"
   - "[[Confucian Heritage Cultures]]"
+  - "[[Hypothesis]]"
   - "[[Western Learner]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Junzi]]"
@@ -79,7 +80,7 @@ updated: 2026-05-24
 >
 > **1. 文化学习模型（cultural learning model）**：[[Argument_Li_2012_Cambridge|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues|学习美德]]为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型**（ideal type），而非任何个体学习者的描述([[Argument_Li_2012_Cambridge|Li, 2012, pp.57-58]])。
 >
-> **2. 跨文化教育话语中的群体标签**：在 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] 和 [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被假设有相同的认同和偏好([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.34]])。
+> **2. 跨文化教育话语中的群体标签**：在 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] 和 [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被[[Hypothesis|假设]]有相同的认同和偏好([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.34]])。
 >
 > 这两个用法之间的关系，见 [[#概念演变|概念演变]]。
 
@@ -235,7 +236,7 @@ updated: 2026-05-24
 | 行为主义谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge#谬误 1：行为主义谬误]] |
 | 基础阶段混淆 | 将学习基础阶段的共性（任何文化都需要反复练习）当作中国特有的缺陷 | [[Argument_Li_2012_Cambridge#谬误 2：基础阶段混淆]] |
 | 静态观察谬误 | 将一次观察到的"[[Familiarization\|熟]]"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge#谬误 3：静态观察谬误]] |
-| 即时理解谬误 | 假设理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge#谬误 4：即时理解谬误]] |
+| 即时理解谬误 | [[Hypothesis\|假设]]理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge#谬误 4：即时理解谬误]] |
 
 > [!success] 实证支持
 > Marton 团队的[[Phenomenology|现象学]]研究直接询问学习者自身经验——发现中国学习者的记忆是"第一步"而非目的。一位香港学生："每次我重复，我都会有新的理解"([[Argument_Li_2012_Cambridge|Li, 2012, p.139]])。跨文化比较显示：重复性学习与深度理解策略强相关——但仅对亚洲学生如此。

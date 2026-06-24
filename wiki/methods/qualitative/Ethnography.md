@@ -20,9 +20,11 @@ tags:
   - cultural-studies
 related_concepts:
   - "[[Construct]]"
+  - "[[Causality]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Effect Size]]"
@@ -41,7 +43,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Analytic Framework]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Causality]]"
   - "[[Reactivity in Qualitative Research]]"
   - "[[Hawthorne Effect]]"
   - "[[Halo Effect]]"
@@ -106,7 +107,7 @@ LeCompte & Preissle（1993）提出了民族志研究的八项核心要素：
 > | 自然情境数据收集 | 经验数据在自然情境中收集，与实验室或被控制环境截然不同。 |
 > | 广泛使用观察技术 | [[Participant Observation\|参与观察]]和非参与观察均被广泛使用以获取真实生活场景的数据。 |
 > | 整体性 | 研究寻求对总体现象的描述和诠释，不碎片化。 |
-> | 推进到推断和理论 | 从描述和数据推进到推断、解释、因果建议和理论生成。 |
+> | 推进到推断和理论 | 从描述和数据推进到推断、解释、[[Causality\|因果]]建议和理论生成。 |
 > | 方法论杂食者 | 方法是多模态的；民族志学者是方法论的杂食者（p.232）。 |
 
 Hitchcock & Hughes（1989: 52–53）补充了民族志的六项产出面向：
@@ -144,7 +145,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > | 标志 | 说明 |
 > |------|------|
 > | 情境关联的观察 | 观察在即时行为情境和更远的语境中都具有情境相关性。 |
-> | [[Emergence\|涌现]]式假设 | 假设在现场中涌现，随研究发展而形成。 |
+> | [[Emergence\|涌现]]式假设 | [[Hypothesis\|假设]]在现场中涌现，随研究发展而形成。 |
 > | 长期且重复的观察 | 事件被多次观察以建立观察数据的[[Reliability\|可靠性]]。 |
 > | 推断服务于内部人视角 | 来自观察和多种民族志探究的推断用于处理内部人对现实的看法。 |
 > | 引出社会文化知识 | 民族志主要任务是从参与者引出社会文化知识，使社会行为可理解。 |
@@ -163,7 +164,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。意义从社会情境中产生并通过诠释过程处理。现实是多元的、建构的、整体的；认识者与被认识者互动且不可分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
 > - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983: 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]]
 > - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性**（comparability）和**可翻译性**（translatability）（LeCompte & Preissle, 1993: 47）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
-> - **不能声称回答的问题** 不能估计因果[[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
+> - **不能声称回答的问题** 不能估计[[Causality|因果]][[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、案例研究、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。

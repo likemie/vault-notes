@@ -16,7 +16,8 @@ tags:
   - theory/critical-theory
   - critique/pisa
   - paradigm/neoliberalism
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -45,7 +46,7 @@ updated: 2026-06-06
 ## 概念辨析
 
 > [!example]
-> - vs 单一教育观 — 单一教育观关注 [[PISA]] 假设存在一套普遍适用的技能和知识，扭曲的教育观关注 PISA 如何定义教育目的（经济增长）。
+> - vs 单一教育观 — 单一教育观关注 [[PISA]] [[Hypothesis|假设]]存在一套普遍适用的技能和知识，扭曲的教育观关注 PISA 如何定义教育目的（经济增长）。
 > - vs 结果导向 — 结果导向是 [[Robert Cowen]] 识别的比较教育四种理解形式之一，关注教育结果的测量。PISA 扭曲的教育观是结果导向在 PISA 语境中的具体表现，将教育简化为经济竞争力的测量。
 
 ---

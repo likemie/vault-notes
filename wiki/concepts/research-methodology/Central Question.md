@@ -20,6 +20,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Document]]"
   - "[[Emergence]]"
+  - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Descriptive Analysis]]"
   - "[[Research Question]]"
@@ -55,7 +56,7 @@ updated: 2026-05-31
 > [!quote]
 > "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])
 
-核心问题通常为一至两个，以"什么"（what）或"如何"（how）开头传达开放和[[Emergence|涌现]]的设计。以"为什么"（why）开头暗示因果解释思维，属于[[Quantitative Research|量化研究]]的[[Paradigm|范式]]，可能限制参与者的回答而非开放它们（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+核心问题通常为一至两个，以"什么"（what）或"如何"（how）开头传达开放和[[Emergence|涌现]]的设计。以"为什么"（why）开头暗示[[Causality|因果]]解释思维，属于[[Quantitative Research|量化研究]]的[[Paradigm|范式]]，可能限制参与者的回答而非开放它们（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 核心问题应聚焦于单一的[[Central Phenomenon|核心现象]]或概念。即使随着研究发展会出现多种影响因素，研究开始时仍应以单一焦点来深入探索。
 

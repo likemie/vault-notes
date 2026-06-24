@@ -43,6 +43,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Positivism]]"
+  - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[Progressive Education]]"
   - "[[Constructivist Paradigm]]"
@@ -371,7 +372,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 ## 理论基础
 
 > [!logic-map] 理论归属
-> - [[Positivism|实证主义]]／行为主义 → VL：假设所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
+> - [[Positivism|实证主义]]／行为主义 → VL：[[Hypothesis|假设]]所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
 > - [[New Public Management]] ←→ VL：VL 被描述为"新管理全景监狱主义"的完美工具，使每个人可监视其他所有人（Ball, 2003, p.219）；同时借用[[Progressive Education|进步主义教育]]哲学语言（"学习必须被学习者分享、承诺和理解"），使其难以抵制（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）
 > - [[Radical Constructivism]] ←→ VL：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 Hattie 完全接受 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]学习观，但在其上叠加"教师中心教学"，导致教学概念双重瓦解（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp.7–8]]）
 > - [[Popper's Three Worlds Theory]] — Hattie 以 [[Karl Popper|Popper]] 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清

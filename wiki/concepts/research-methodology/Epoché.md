@@ -9,7 +9,8 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [theme/phenomenology, paradigm/interpretive, theme/research-philosophy]
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -43,6 +44,6 @@ updated: 2026-06-14
 
 ## 在现象学中的位置
 
-悬置是胡塞尔先验[[Phenomenology|现象学]]（transcendental phenomenology）区别于舒茨（[[Alfred Schutz]]）存在现象学（existential phenomenology）的标志性方法。胡塞尔关注探究科学基础的来源，质疑日常生活中"视为理所当然"的常识假设（Burrell and Morgan, 1979）。悬置正是实现这一质疑的具体操作——通过暂时"中止"对世界存在的自然态度，研究者得以将注意力从"世界是什么"转向"世界如何向意识显现"（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+悬置是胡塞尔先验[[Phenomenology|现象学]]（transcendental phenomenology）区别于舒茨（[[Alfred Schutz]]）存在现象学（existential phenomenology）的标志性方法。胡塞尔关注探究科学基础的来源，质疑日常生活中"视为理所当然"的常识[[Hypothesis|假设]]（Burrell and Morgan, 1979）。悬置正是实现这一质疑的具体操作——通过暂时"中止"对世界存在的自然态度，研究者得以将注意力从"世界是什么"转向"世界如何向意识显现"（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 Curtis（1978）总结的现象学家三个共识中，第三个共识——意识具有可通过某种特定反思直接获得知识的本质结构——正是悬置方法所要通达的目标（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

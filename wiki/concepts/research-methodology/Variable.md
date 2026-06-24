@@ -14,6 +14,7 @@ tags:
   - subject/research-methodology
   - paradigm/positivist
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Definition of Terms]]"
   - "[[Construct]]"
@@ -24,8 +25,8 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Causal Modeling]]"
 related_persons: []
@@ -44,7 +45,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!info]
-> 变量（variable）指个体或组织的某种特征或属性，它可以被研究者测量或观察，且在不同个体或组织之间存在差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。变量是[[Quantitative Research|量化研究]]构建理论、提出假设和检验[[Causality|因果关系]]的基本分析单位。常见的变量包括性别、年龄、社会经济地位（SES），以及态度或行为如种族偏见、社会控制、政治权力和领导力。
+> 变量（variable）指个体或组织的某种特征或属性，它可以被研究者测量或观察，且在不同个体或组织之间存在差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。变量是[[Quantitative Research|量化研究]]构建理论、提出[[Hypothesis|假设]]和检验[[Causality|因果关系]]的基本分析单位。常见的变量包括性别、年龄、社会经济地位（SES），以及态度或行为如种族偏见、社会控制、政治权力和领导力。
 
 > [!quote]
 > "A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])
@@ -59,7 +60,7 @@ updated: 2026-06-25
 
 ### 概念性定义
 
-概念性定义指根据概念外延或假设特征来赋予研究变量新的内涵，常使用一个概念来界定另一个概念（变量）。其主要特点在于凸显被界定变量的本质属性或特征。例如，从教育现象的角度，"教学"可定义为"教师的教和学生的学所组成的活动"，用"活动"这一概念来界定"教学"的概念（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
+概念性定义指根据概念外延或[[Hypothesis|假设]]特征来赋予研究变量新的内涵，常使用一个概念来界定另一个概念（变量）。其主要特点在于凸显被界定变量的本质属性或特征。例如，从教育现象的角度，"教学"可定义为"教师的教和学生的学所组成的活动"，用"活动"这一概念来界定"教学"的概念（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 > [!proc] 做出概念性定义的步骤
 > 1. **确定该研究变量的上位概念** 如"特殊教育"的上位概念选用"教育"
@@ -94,12 +95,12 @@ updated: 2026-06-25
 
 概念性定义与操作性定义各有利弊，可以互补。概念性定义是操作性定义的前提和依据，操作性定义则是概念性定义的延续和发展。概念性定义属理论层面的定义，是抽象的、逻辑化的；操作性定义属操作层面的定义，是具体的、行动的、实践的（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
-在使用问卷调查法和[[Experimental Research|实验法]]等侧重于实证和量化分析的方法时，有两种处理方式：一种是先做出概念性定义，再根据概念性定义做出操作性定义，这适合对研究变量本质特征争议较大、内涵具有显著不确定性的变量；另一种是省去概念性定义环节，研究者根据自己对变量的理解直接做出操作性定义，这适合对变量本质特征争议不大、内涵具有相对确定性的变量。第二种方法在实证研究中较为常用（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
+在使用问卷[[Survey Research|调查法]]和[[Experimental Research|实验法]]等侧重于实证和量化分析的方法时，有两种处理方式：一种是先做出概念性定义，再根据概念性定义做出操作性定义，这适合对研究变量本质特征争议较大、内涵具有显著不确定性的变量；另一种是省去概念性定义环节，研究者根据自己对变量的理解直接做出操作性定义，这适合对变量本质特征争议不大、内涵具有相对确定性的变量。第二种方法在实证研究中较为常用（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ## 概念辨析
 
 > [!example]
-> **变量 vs 假设**：变量是构成理论的基本要素，假设是对变量之间关系的预测性陈述。变量回答"研究什么"，假设回答"变量之间如何关联"。
+> **变量 vs [[Hypothesis|假设]]**：变量是构成理论的基本要素，假设是对变量之间关系的预测性陈述。变量回答"研究什么"，假设回答"变量之间如何关联"。
 
 > [!example]
 > **变量 vs [[Construct|构念]]（construct）**：构念是理论层面的抽象概念（如"动机""智力"），变量是构念在实证层面的可[[Operationalization|操作化]]、可测量形式。在研究实践中，二者常互换使用，但对操作化要求严格的[[Quantitative Research|量化研究]]更强调"变量"的可测量性。
@@ -123,7 +124,7 @@ updated: 2026-06-25
 
 ### 预测变量（Predictor Variable）
 
-预测变量（也称前因变量 antecedent variable）在[[Survey Research|调查研究]]方法中用于预测感兴趣的结果。它与自变量类似，都假设会影响研究结果；但区别在于研究者无法系统操纵预测变量([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.55]])。
+预测变量（也称前因变量 antecedent variable）在[[Survey Research|调查研究]]方法中用于预测感兴趣的结果。它与自变量类似，都[[Hypothesis|假设]]会影响研究结果；但区别在于研究者无法系统操纵预测变量([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.55]])。
 
 > [!example]
 > 可能无法[[Random Assignment|随机分配]]个体到"红酒消费组"或"对照组"（作为自变量），但可以在社区样本中测量自然发生的红酒消费量（作为预测变量）。
@@ -176,10 +177,10 @@ updated: 2026-06-25
 ## 理论基础
 
 > [!tip]-
-> 变量是理论在实证层面的操作性表达。假设将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.54)]] 用彩虹比喻理论的角色，将彩虹描述为架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
+> 变量是理论在实证层面的操作性表达。[[Hypothesis|假设]]将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.54)]] 用彩虹比喻理论的角色，将彩虹描述为架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
 
 ## 相关方法
 
-- [[Causal Modeling]] — 通过统计模型表示变量之间因果路径并同时估计多重关系的量化方法
+- [[Causal Modeling]] — 通过统计模型表示变量之间[[Causality|因果]]路径并同时估计多重关系的量化方法
 - [[Quantitative Research]] — 量化研究以检验变量间关系或群体间比较为核心
 

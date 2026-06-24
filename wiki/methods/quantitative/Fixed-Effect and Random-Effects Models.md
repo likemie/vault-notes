@@ -22,6 +22,7 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Research Contribution]]"
@@ -46,7 +47,7 @@ updated: '2026-06-08'
 > [!info] 定义
 > 固定效应模型（Fixed-Effect Model）和随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中两种基本的统计汇总方法。它们的核心区别在于如何理解各研究之间[[Effect Size|效应量]]的变异([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 >
-> **固定效应模型**假设所有纳入研究估计的是同一个恒定的真实效应量，观察到的差异仅来自各研究内部的[[Sampling Error|抽样误差]]。因此按精度（方差的倒数）加权，[[Standard Error|标准误]]较小的[[Research Contribution|研究贡献]]更大([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
+> **固定效应模型**[[Hypothesis|假设]]所有纳入研究估计的是同一个恒定的真实效应量，观察到的差异仅来自各研究内部的[[Sampling Error|抽样误差]]。因此按精度（方差的倒数）加权，[[Standard Error|标准误]]较小的[[Research Contribution|研究贡献]]更大([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 >
 > **随机效应模型**假设每项研究都是干预的略有不同版本，有自己的随机变异需要被考虑。该模型同时纳入研究内变异和研究间变异，因此给出的汇总估计通常更保守([[Argument_Higgins_2016_RE|Higgins, 2016, p.39]])。
 
@@ -91,7 +92,7 @@ updated: '2026-06-08'
 > [!warning] 局限性
 > **固定效应模型的根本限制**
 >
-> 固定效应模型假设所有研究估计同一恒定真实效应。在教育研究中，鉴于不同的教学主题、不同的实现方法，从一开始就假设一个共同常数比假设各研究存在差异更不合理（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]], cited in Higgins, 2016, p.39）。当这一假设被违背时，固定效应模型会给出过窄的[[Confidence Interval|置信区间]]和过于乐观的显著性检验。
+> 固定效应模型[[Hypothesis|假设]]所有研究估计同一恒定真实效应。在教育研究中，鉴于不同的教学主题、不同的实现方法，从一开始就假设一个共同常数比假设各研究存在差异更不合理（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]], cited in Higgins, 2016, p.39）。当这一假设被违背时，固定效应模型会给出过窄的[[Confidence Interval|置信区间]]和过于乐观的显著性检验。
 >
 > **随机效应模型的数据需求**
 >

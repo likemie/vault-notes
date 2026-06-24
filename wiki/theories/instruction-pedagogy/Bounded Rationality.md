@@ -14,12 +14,14 @@ tags:
 - decision-making
 - organizational-theory
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
@@ -53,7 +55,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - 1960s–1970s Simon 提出有限理性理论，挑战古典经济学的完全理性假设
+> - 1960s–1970s Simon 提出有限理性理论，挑战古典经济学的完全理性[[Hypothesis|假设]]
 > - 1969/1996 *The Sciences of the Artificial* 系统阐述该理论
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 将其应用于教育研究，作为理解教学-学习关系的理论基础
 > - Simon 因此理论贡献获 1978 年诺贝尔经济学奖
@@ -61,17 +63,17 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - [[Epistemology|认识论]]立场：认知心理学与组织理论交叉——拒绝完全理性假设，但保留理性作为[[Analytic Framework|分析框架]]
+> - [[Epistemology|认识论]]立场：认知心理学与组织理论交叉——拒绝完全理性[[Hypothesis|假设]]，但保留理性作为[[Analytic Framework|分析框架]]
 > - 与教育学的关系：[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 将有限的理性与 Luhmann & Schorr 的"技术赤字"概念并置，共同构成[[Professional Judgment|专业判断]]的理论基础
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 有限理性理论虽然挑战了完全理性假设，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、实践[[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
+> - 有限理性理论虽然挑战了完全理性[[Hypothesis|假设]]，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、实践[[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
 
 ## 应用领域
 
 > [!success] 应用领域
 > - [[Professional Judgment]] — [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 将有限理性作为专业判断的核心理论基础
-> - [[Visible Learning]] — Qvortrup 运用有限理性解释为何 Hattie 的[[Effect Size|效应量]]提供的是概率信息而非因果食谱
+> - [[Visible Learning]] — Qvortrup 运用有限理性解释为何 Hattie 的[[Effect Size|效应量]]提供的是概率信息而非[[Causality|因果]]食谱
 

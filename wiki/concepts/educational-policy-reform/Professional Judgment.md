@@ -17,8 +17,10 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Hypothesis]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
+  - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
   - "[[Formative Assessment]]"
@@ -74,7 +76,7 @@ updated: 2026-06-19
 > | **证据角色** | 作为概率性资源，需要情境化解释和权衡 | 作为行政指令或最佳实践，必须忠实遵循 |
 > | **教育目标** | 关注“为了什么目的（to what ends）”与民主协商 | 关注“什么有效（what works）”与技术传递效率 |
 > | **教师定位** | 拥有自主权和反思能力的专业人员（Professional） | 接受数据审计的流水线装配工人（Technician） |
-> | **系统假设** | 学校是开放、复杂、充满主体能动性的系统 | 学校是封闭、可控、输入-输出的实验室系统 |
+> | **系统[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体能动性的系统 | 学校是封闭、可控、输入-输出的实验室系统 |
 
 ---
 
@@ -121,7 +123,7 @@ updated: 2026-06-19
 > 教育实践是一个由符号、意义和人类能动性交互构成的“开放系统”（Open System）。在开放系统中，任何干预措施的效果都受到具体背景（Context）的强力制约。因此，[[Quantitative Research|量化研究]]或[[Meta-analysis|元分析]]所提供的平均[[Effect Size|效应量]]仅能提供一种可能性的概率分布，它无法预测在特定班级、面对特定学生时的确定结果。教师必须运用专业判断，权衡当前的情境特征，决定是否以及如何借用这些证据。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16; Pawson, 2006]])
 >
 > > [!warrant]- 命题一的支撑理由
-> > 根据[[Critical Realism|批判实在论]]和[[Realist Evaluation|实在论评估]]，干预项目的效果并非源于机械因果，而是取决于“受试者对资源的推理”。既然因果力量取决于受试者的能动反应，那么统一的数据指令（如“反馈最有效”或“教学助理低效”）在脱离了具体环境中的推理过程后便毫无指导意义，必须由教师通过专业判断来激活或规避相应的因果机制。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7, 12]])
+> > 根据[[Critical Realism|批判实在论]]和[[Realist Evaluation|实在论评估]]，干预项目的效果并非源于机械[[Causality|因果]]，而是取决于“受试者对资源的推理”。既然因果力量取决于受试者的能动反应，那么统一的数据指令（如“反馈最有效”或“教学助理低效”）在脱离了具体环境中的推理过程后便毫无指导意义，必须由教师通过专业判断来激活或规避相应的因果机制。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7, 12]])
 
 ---
 

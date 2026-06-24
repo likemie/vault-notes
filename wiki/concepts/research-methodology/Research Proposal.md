@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Positivism]]"
   - "[[Causality]]"
+  - "[[Descriptive Research Question]]"
   - "[[Reliability]]"
   - "[[Research Purpose]]"
   - "[[Document]]"
@@ -41,6 +42,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Intervention Research]]"
+  - "[[Pilot Testing]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
@@ -84,13 +86,13 @@ updated: 2026-06-25
 
 ### 质的研究与量的研究
 
-> [!contrast-table] 质的研究 vs 量的研究
+> [!contrast-table] [[Qualitative Research|质的研究]] vs [[Quantitative Research|量的研究]]
 > | 维度 | 质的研究（[[Qualitative Research]]） | 量的研究（[[Quantitative Research]]） |
 > |---|---|---|
 > | 核心特征 | 以研究者本人作为研究工具，在自然情境下采用多种资料收集方法进行深入的整体性探究 | 将问题与现象用数量来表示，进而去分析、考验、解释 |
 > | 理论基础 | 人种学、[[Phenomenology\|现象学]]、解释学等 | [[Positivism\|实证主义]]、统计学 |
 > | 呈现方式 | 文字描述的方式 | 通过数据的形式展现或说明 |
-> | 关注点 | 理解、阐释所研究的现象，提供历程性、描述性、脉络性的资料 | 现象之间的相关联性及其因果效应 |
+> | 关注点 | 理解、阐释所研究的现象，提供历程性、描述性、脉络性的资料 | 现象之间的相关联性及其[[Causality\|因果]]效应 |
 > | 典型方法 | [[Ethnography\|人种志]]研究、教育[[Narrative Research\|叙事研究]]、行动研究 | [[Experimental Research\|实验研究]]、[[Survey Research\|调查研究]] |
 
 > [!note] 质与量的结合
@@ -98,7 +100,7 @@ updated: 2026-06-25
 
 ### 描述性研究与干预性研究
 
-> [!contrast-table] 描述性研究 vs 干预性研究
+> [!contrast-table] [[Descriptive Research Question|描述性研究]] vs [[Intervention Research|干预性研究]]
 > | 维度 | 描述性研究（Descriptive Research） | 干预性研究（[[Intervention Research]]） |
 > |---|---|---|
 > | 目的 | 对具有普遍性、代表性的现象进行描述，客观考察事物的存在状态 | 通过对事物现状的改变，寻找或证明事物间的[[Causality\|因果关系]] |
@@ -127,7 +129,7 @@ updated: 2026-06-25
 > 1. **[[Survey Research|调查研究]]，提出问题** 通过查阅资料（考察、论证所选课题是否有研究价值）、现场调查（到教学实践现场发现实际问题）和专家咨询（征询专家学者的意见，从中受到启发）三种方式，了解前人研究情况和发展趋势。
 > 2. **资料的分析与综合** 对调查资料进行归纳整理、分析综合：确保资料的真实性；整合分析收集的资料，找出内在关联性；对材料进行筛选；根据已有材料和相关性或[[Causality|因果关系]]提出课题。
 > 3. **提出课题的设想和设计** 明确课题名称；理清[[Purpose Statement|研究目的]]和意义；阐明与本课题相关的国内外研究现状和发展趋势；提出研究方法、途径、步骤以及所需经费、设备和达成预期目标的手段。
-> 4. **预实验或预调查** 对一些综合性、复杂的、探索性比较强的研究课题，通过小范围的模拟研究，对提出的研究目标、研究方法、调查工具的信效度等进行分析论证，以确保后期大范围研究实施的合理性与[[Reliability|可靠性]]。
+> 4. **[[Pilot Testing|预实验]]或预调查** 对一些综合性、复杂的、探索性比较强的研究课题，通过小范围的模拟研究，对提出的研究目标、研究方法、调查工具的信效度等进行分析论证，以确保后期大范围研究实施的合理性与[[Reliability|可靠性]]。
 > 5. **课题确立** 向有关教育科研管理部门或教育行政部门提交课题申报书。申报书的具体内容包括：课题名称、研究类别、研究起止时间；课题负责人、参加者、承担单位及合作单位与分工；[[Research Purpose|研究目的]]、意义及国内外研究水平和发展趋势；研究内容及采用的方法、途径、手段；预期效果、成果形式及去向；研究基础和准备情况；研究步骤；经费估算及来源；单位意见；审批单位意见。
 
 ---

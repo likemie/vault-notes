@@ -19,6 +19,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Habitus]]"
@@ -94,7 +95,7 @@ updated: 2026-06-18
 > - **首属效应与次属效应**：Boudon 的经典区分，界定了 RAT 的核心解释范围。首属效应指家庭背景通过影响学业能力间接影响教育获得；次属效应指控制学业能力后家庭背景仍直接影响教育选择。Breen 和 Goldthorpe（1997）的 RAT 模型集中解释次属效应——为什么成绩相同的孩子，阶级出身不同会做出系统性不同的教育选择（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Boudon, 2001；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 84–85]]）。
 > - **抱负的相对性**：抱负不是绝对的，而是相对于阶级位置而言——这是 RAT 区别于文化决定论的关键概念前提。
 > - **分叉点（Branching Points）**：教育系统中的关键决策节点（小学到中学、中学到大学），次属效应的力量在分叉点进入并随学程推进而增强。
-> - **工具理性假设**：RAT 假设行动者基于手段-目的理性做决策，追求以最小成本达成目的。这一假设正是后续文化社会学批评的焦点（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+> - **工具理性[[Hypothesis|假设]]**：RAT 假设行动者基于手段-目的理性做决策，追求以最小成本达成目的。这一假设正是后续文化社会学批评的焦点（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 ---
 
@@ -103,7 +104,7 @@ updated: 2026-06-18
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
 > - **[[Ontology|本体论]]**：RAT 预设行动者是理性计算者，在阶级结构的约束条件下做出效用最大化的选择。阶级结构是客观存在的，但通过个体的理性决策被再生产。
 > - **认识论**：RAT 采纳个体主义方法论——从个体决策出发解释宏观结构现象。证据类型偏好可量化的成本-收益数据、教育选择数据和阶级流动统计。
-> - **方法含义**：通常通过大规模调查数据、纵向追踪研究和比较不同阶级教育选择的统计模型来检验。Goldthorpe（2007）的七步推理过程——确立规律性→设定理论基础→排除竞争理论→提出假设→阐明假设→经验检验→得出结论——是其典型检验策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 82–83]]）。
+> - **方法含义**：通常通过大规模调查数据、纵向追踪研究和比较不同阶级教育选择的统计模型来检验。Goldthorpe（2007）的七步推理过程——确立规律性→设定理论基础→排除竞争理论→提出[[Hypothesis|假设]]→阐明假设→经验检验→得出结论——是其典型检验策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 82–83]]）。
 > - **不能直接推出的东西**：RAT 不能自动证明行动者是"完全理性"的——它承认理性是在阶级约束条件下的[[Bounded Rationality|有限理性]]。RAT 也不能解释为什么个体可能有不同于阶级预期的价值观、信仰或情感驱动的教育选择。
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-06-18
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 RAT 纳入文化社会学[[Paradigm|范式]]争论，作为"价值选择过程"的理论讨论对话方之一，指出其工具理性假设的文化社会学局限
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 RAT 纳入文化社会学[[Paradigm|范式]]争论，作为"价值选择过程"的理论讨论对话方之一，指出其工具理性[[Hypothesis|假设]]的文化社会学局限
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 以 Goldthorpe（2007）的七步案例展示 RAT 如何通过排除竞争理论、确立假设和三组证据集群的检验来解释阶级差异的持续存在
 
 ---

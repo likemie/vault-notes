@@ -21,6 +21,7 @@ tags:
 - critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 >
 > - 声称 Hattie 的模型"似乎是以盲目性书写的"（Bjerre et al., 2017, p.103，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
 > - 写道"不仅德国哲学家和社会学家 Theodor Wiesengrund Adorno 在绝望和痛苦中从坟墓深处哭泣，所有后来的[[Critical Theory|批判理论]]家也是如此……"（Bjerre et al., 2017, p.107，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
-> - 将 Hattie 的分析与简单的因果系统（如"台球游戏"或机械清洁系统）进行比较，得出 Hattie 将教学简化为教学干预与学习成果之间机械关系的结论（Bjerre et al., 2017, p.104，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
+> - 将 Hattie 的分析与简单的[[Causality|因果]]系统（如"台球游戏"或机械清洁系统）进行比较，得出 Hattie 将教学简化为教学干预与学习成果之间机械关系的结论（Bjerre et al., 2017, p.104，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
 >
 > [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.3-4)]]使用 Robin Alexander 的四种批判性政策话语框架分析 Larsen 的批评，识别了其中至少两种话语：
 > - **二分法话语（discourse of dichotomy）**：将一切化简为相互排斥的选项——在 Larsen 的批评中是统计与独特性的虚假对立([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])

@@ -22,6 +22,7 @@ tags:
   - behavior-analysis
 related_concepts:
   - "[[Statistical Significance]]"
+  - "[[Hypothesis]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
@@ -57,7 +58,7 @@ updated: 2026-05-31
 
 > [!note]- 数据分析
 > - 使用折线图（line graph）展示基线和处理观测数据，x 轴（横坐标）为时间单位，y 轴（纵坐标）为目标行为。每个数据点分别绘制在图表上，并用线连接数据点（Neuman & McCormick, 1995; 引自 Creswell & Creswell, 2022, Ch8）。
-> - 偶尔使用t 检验等[[Statistical Significance|统计显著性]]检验比较基线和处理阶段的合并均值，但这类程序可能违反独立测量假设（Borg & Gall, 2006; 引自 Creswell & Creswell, 2022, Ch8）。
+> - 偶尔使用t 检验等[[Statistical Significance|统计显著性]]检验比较基线和处理阶段的合并均值，但这类程序可能违反独立测量[[Hypothesis|假设]]（Borg & Gall, 2006; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ## 适用场景
 

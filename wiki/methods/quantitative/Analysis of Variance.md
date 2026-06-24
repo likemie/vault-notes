@@ -20,6 +20,7 @@ tags:
   - group-comparison
 related_concepts:
   - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Type I and Type II Errors]]"
@@ -52,7 +53,7 @@ updated: 2026-05-31
 > 方差分析的典型使用步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 1. 明确自[[Variable|变量]]（分组变量，通常为类别变量）和因变量（连续变量）。
-2. 检查正态分布假设和方差同质性假设。
+2. 检查正态分布[[Hypothesis|假设]]和方差同质性假设。
 3. 计算 F 统计量 = 组间均方 / 组内均方。
 4. 比较 p 值与预设显著性水平（通常为 .05）。
 5. 若 ANOVA 结果显著，进行事后比较（post hoc tests）以确定哪些组之间存在差异。
@@ -77,7 +78,7 @@ updated: 2026-05-31
 ## 局限性
 
 > [!warning]
-> - 对正态分布和方差同质性假设敏感；假设违反时可能需要使用非参数替代方法。
+> - 对正态分布和方差同质性[[Hypothesis|假设]]敏感；假设违反时可能需要使用非参数替代方法。
 > - ANOVA 显著只表明至少有一组均值与其他组不同，无法直接指出差异发生在哪些组之间，需要事后比较。
 > - 多重比较会增加[[Type I and Type II Errors|第一类错误]]（Type I error）的概率，需要校正。
 

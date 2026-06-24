@@ -9,7 +9,8 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [theme/research-methodology, paradigm/positivism]
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -47,12 +48,12 @@ Mouly（1978）将经验科学进程分为五步：经验 → 分类 → 量化 
 
 ## 科学的两种观点
 
-Kerlinger（1970）区分了两种科学观（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：静态观（the static view）——科学是系统化知识的积累，重点是当前的知识状态和知识的添加；动态观（the dynamic view）——科学是发现的活动，重点是科学的启发式性质（the heuristic nature of science）。Maslow（1954）列举了科学的九大功能，从问题寻找和假设产生到对人类用途的应用。
+Kerlinger（1970）区分了两种科学观（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：静态观（the static view）——科学是系统化知识的积累，重点是当前的知识状态和知识的添加；动态观（the dynamic view）——科学是发现的活动，重点是科学的启发式性质（the heuristic nature of science）。Maslow（1954）列举了科学的九大功能，从问题寻找和[[Hypothesis|假设]]产生到对人类用途的应用。
 
 ## 科学的九大功能（Maslow, 1954）
 
 > [!finding-cards]
-> - **问题寻找与假设产生** 提问、直觉鼓励、假设产生
+> - **问题寻找与[[Hypothesis|假设]]产生** 提问、直觉鼓励、假设产生
 > - **检验与核查** 检验假设、重复实验、积累事实
 > - **组织与理论化** 寻找越来越大的概括
 > - **历史收集与学术** 科学史和学术功能

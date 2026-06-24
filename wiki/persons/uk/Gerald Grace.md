@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -54,7 +55,7 @@ Grace 的关切源于当时已可观察到的证据——尤其在 1980 年代�
 2010 年，Grace 在 *New Zealand Journal of Educational Studies* 发表评论文章，回应 [[John Hattie]] 同年早些时候在同一期刊上发表的"critic and conscience of society"主题文章。Grace 的核心论点是：Hattie 误解了学术人作为"critic and conscience of society"的角色——Hattie 在 *[[Visible Learning]]* 中所做的工作是"学术领域的批评者"（正常学术工作），而非"社会的批评者与良知"([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。
 
 Grace 指出了两组关键区分：
-- **学术领域的批评者**：关注学科内部的研究质量、方法、假设，工作范围限于教育系统内部
+- **学术领域的批评者**：关注学科内部的研究质量、方法、[[Hypothesis|假设]]，工作范围限于教育系统内部
 - **社会的批评者与良知**：必须将非学校因素（社会阶级、贫困、家庭资源、健康与营养等）纳入所有教育成就差异的分析，因为这些因素才是"社会"
 
 Grace 特别批评了 Hattie 对非学校因素的排除——Hattie 本人承认非学校因素"可能比书中讨论的许多问题更重要"（Hattie, 2009, pp.viii–ix），却仍将其排除在分析之外。Grace 认为这种"还原论"观点使政治家得以回避更根本的社会与经济不平等问题([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。

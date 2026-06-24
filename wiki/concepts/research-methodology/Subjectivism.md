@@ -11,6 +11,7 @@ related_color: "#e5e7eb"
 tags: [paradigm/interpretive, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Nomothetic and Idiographic]]"
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
@@ -37,7 +38,7 @@ updated: 2026-06-14
 
 ## 四组假设
 
-沿 Burrell and Morgan（1979）的维度，主观主义对应以下四组假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+沿 Burrell and Morgan（1979）的维度，主观主义对应以下四组[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 主观主义的四组假设
 > - **[[Ontology|本体论]]：唯名论**（nominalism）思想的对象仅仅是词语（objects of thought are merely words），不存在独立于知者的、构成一个词语意义的可及事物。组织是被发明的社会实在（Organizations are invented social reality）

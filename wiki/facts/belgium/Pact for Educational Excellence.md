@@ -31,6 +31,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[French-Speaking Belgium Education System]]"
@@ -100,6 +101,6 @@ updated: 2026-05-24
 
 > [!tip]-
 > - [[Evidence-Based Education]]：公约把 EBE 作为改革语言的一部分，但实际采用的是更具妥协性的证据使用路径。
-> - [[Evidence-Based Reform]]：公约可作为 Slavin 三条件框架在非英美、定性研究传统较强地区落地时的边界案例。
+> - [[Evidence-Based Reform]]：公约可作为 Slavin 三条件框架在非英美、[[Qualitative Research|定性研究]]传统较强地区落地时的边界案例。
 > - [[Educational Evidence Clearinghouses]]：公约没有直接复制英美清算中心标准，而是因本地项目证据稀少而建立包容性类型学。
 

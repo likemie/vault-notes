@@ -37,8 +37,7 @@
               "title": "Zhonghua Minzu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,13 +205,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e1573f91b7722f1b",
+  "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/methods/qualitative/Observation Method.md",
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+    "wiki/concepts/research-methodology/Directional and Non-directional Hypotheses.md",
+    "wiki/concepts/research-methodology/Flanders Interaction Analysis Categories.md",
+    "wiki/concepts/curriculum/Didaktik.md",
+    "wiki/concepts/chinese-philosophy/Zhonghua Minzu.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
     "wiki/concepts/political-economy-geopolitics/Sacrifice Theory.md",
     "wiki/concepts/political-economy-geopolitics/Settler Colonialism.md",
     "wiki/concepts/political-economy-geopolitics/Retrotopia.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/concepts/research-methodology/Literature Review.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
@@ -239,11 +243,6 @@
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/methods/qualitative/Ideology Critique.md",
     "wiki/concepts/research-methodology/Emergence.md",
-    "wiki/facts/bolivia/Bolivian Education Reform 1994.md",
-    "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
-    "wiki/concepts/instruction-pedagogy/Rote Learning.md",
-    "wiki/concepts/comparative-education/Performativity.md",
-    "wiki/concepts/research-methodology/Secondary Document.md",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]

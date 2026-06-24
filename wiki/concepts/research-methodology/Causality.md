@@ -25,6 +25,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
   - "[[Counterfactual]]"
+  - "[[Hypothesis]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Compound Causes]]"
   - "[[Causal Over-determination]]"
@@ -120,7 +121,7 @@ updated: 2026-06-18
 
 ### 反事实推理
 
-区分因果是否发生的一个关键指标是**[[Counterfactual|反事实]]**（counterfactuals）：如果 X（假设的原因）不存在，那么 Y（效果）也不会发生（Mackie, 1993）。反事实推理追问："如果那个假设的原因不存在，效果还会发生或还是原来那样吗？"如果答案是"否"，则 X 是真正的原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
+区分因果是否发生的一个关键指标是**[[Counterfactual|反事实]]**（counterfactuals）：如果 X（[[Hypothesis|假设]]的原因）不存在，那么 Y（效果）也不会发生（Mackie, 1993）。反事实推理追问："如果那个假设的原因不存在，效果还会发生或还是原来那样吗？"如果答案是"否"，则 X 是真正的原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
 
 在真实验中，反事实问题通过**控制组**来回答——控制组被假定为表明如果干预未发生会发生什么。但大量教育研究并非实验性的，反事实推理因此依赖更不确定的假设和统计建模。Holland（1986: 947）提出了"[[Fundamental Problem of Causal Inference|因果推断的基本问题]]"——同一个人不能同时处于接受和未接受处理的状态——这一问题即使在[[Random Assignment|随机化]]实验中也无法完全解决（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
 
@@ -166,7 +167,7 @@ updated: 2026-06-18
 > | **方向** | 前向——施加干预，观察效果 | 后向——从效果回溯寻找原因 |
 > | **典型方法** | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | 事后回溯研究、七步推理过程（Morrison, 2009） |
 > | **确定性** | 相对较高——能操纵[[Variable\|变量]] | 更尝试性和推断性——数据不完整 |
-> | **核心挑战** | 隔离与控制全部变量、[[Causal Processes\|因果过程]]可能被忽视 | 从海量潜在原因中确定真正原因、竞争假设的检验 |
+> | **核心挑战** | 隔离与控制全部变量、[[Causal Processes\|因果过程]]可能被忽视 | 从海量潜在原因中确定真正原因、竞争[[Hypothesis\|假设]]的检验 |
 
 两种策略互补：量化方法（实验、调查）检验规律性和变量关联，质性方法（观察、访谈、[[Ethnography|民族志]]）揭示因果过程如何运作。[[Mixed Methods Research|混合方法]]能同时回答因果的"是什么"和"如何"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74–92]]）。
 

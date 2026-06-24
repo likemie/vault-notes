@@ -17,8 +17,10 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Fitness for Purpose]]"
+  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
@@ -59,7 +61,7 @@ updated: 2026-06-14
 ### 补充原则
 
 > [!features] Cherryholmes (1992)、Morgan (2007)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 补充原则
-> - **不执著于单一体系** [[Mixed Methods Research|混合方法研究]]者可以自由地从量化和质性假设中汲取资源
+> - **不执著于单一体系** [[Mixed Methods Research|混合方法研究]]者可以自由地从量化和质性[[Hypothesis|假设]]中汲取资源
 > - **选择自由** 研究者有自由选择最能满足其需求和目的的方法、技术和研究程序
 > - **非绝对统一观** 实用主义者不将世界视为一个绝对统一体，研究者寻求多种数据收集和分析方法
 > - **关注后果** 基于预期后果来审视研究的内容（what）和方式（how）
@@ -82,13 +84,13 @@ Denscombe（2008）从库恩的[[Paradigm|范式]]论出发，主张将[[Mixed M
 
 ## 理论基础
 
-实用主义作为一种研究世界观，起源于 Peirce、James、[[George Herbert Mead|Mead]] 和 Dewey 的著作（Cherryholmes, 1992）。它为[[Mixed Methods Research|混合方法研究]]提供了多元方法、不同世界观、多种假设和多种数据收集与分析形式的大门。Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动了实用主义作为混合方法研究哲学基础的建立。
+实用主义作为一种研究世界观，起源于 Peirce、James、[[George Herbert Mead|Mead]] 和 Dewey 的著作（Cherryholmes, 1992）。它为[[Mixed Methods Research|混合方法研究]]提供了多元方法、不同世界观、多种[[Hypothesis|假设]]和多种数据收集与分析形式的大门。Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动了实用主义作为混合方法研究哲学基础的建立。
 
 ---
 
 ## 概念辨析
 
 > [!example] 与相关概念的区别
-> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]以理论检验和因果识别为核心，实用主义以[[Research Question|研究问题]]为中心、以方法多元为手段，不以单一[[Ontology|本体论]]为皈依
+> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]以理论检验和[[Causality|因果]]识别为核心，实用主义以[[Research Question|研究问题]]为中心、以方法多元为手段，不以单一[[Ontology|本体论]]为皈依
 > - vs [[Constructivist Paradigm]] — 建构主义专注于参与者的主观意义，实用主义则关注行动的实际后果和问题的有效解决
 > - vs [[Pragmatism in China]] — Pragmatism in China 讨论的是实用主义哲学（尤其是 Dewey 的实用主义）在中国的传播与接受史，属比较教育领域；本条目聚焦于实用主义作为研究哲学立场在方法论层面的应用

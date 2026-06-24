@@ -21,6 +21,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Descriptive Research Question]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -110,7 +111,7 @@ updated: 2026-06-16
 > [!method-fit] 适用判断
 > - **适合使用**：教育政策分析、课程意识形态检视、教育不平等研究、制度性歧视分析、赋权导向的社区研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 117–149)]]
 > - **谨慎使用**：需要与被研究者建立信任关系，避免研究者以"批判"之名行"知识支配"之实；批判分析应辅以变革实践，而非停留在揭露层面。
-> - **不适合使用**：纯技术性的教学效果比较；不涉及权力和利益问题的描述性研究。
+> - **不适合使用**：纯技术性的教学效果比较；不涉及权力和利益问题的[[Descriptive Research Question|描述性研究]]。
 
 ---
 
@@ -118,7 +119,7 @@ updated: 2026-06-16
 
 > [!method-limits] 方法局限
 > - **偏误来源**：研究者自身的意识形态立场可能影响利益分析的方向；研究者与被研究者之间的权力不对称可能使批判本身成为新的支配形式。
-> - **适用边界**：意识形态批判揭示了问题但不必然带来变革——批判与解放之间的因果链需要经验验证而非逻辑假定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 107–110)]]
+> - **适用边界**：意识形态批判揭示了问题但不必然带来变革——批判与解放之间的[[Causality|因果]]链需要经验验证而非逻辑假定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 107–110)]]
 > - **误用风险**：意识形态批判容易被简化为"揭露问题"而不提出变革方案；理性主义的批判姿态本身可能阻碍旨在解放的实际行动（Roderick, 1986）。
 > - **补救方式**：与行动研究结合，确保批判通向实践；引入参与者验证，避免研究者单向定义"压迫"。
 

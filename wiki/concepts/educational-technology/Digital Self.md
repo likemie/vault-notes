@@ -23,6 +23,8 @@ tags:
 - theme/subjectification
 related_concepts:
   - "[[Online Self-Assessment]]"
+  - "[[Hypothesis]]"
+  - "[[Document]]"
   - "[[Digital Optimum]]"
   - "[[Assemblage]]"
   - "[[Learning Analytics]]"
@@ -60,7 +62,7 @@ Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见�
 数字自我的核心洞见是它**不是**对真实自我的透明反映，而是一种建构：
 
 - Kitchin（2014, p.5）指出数据并不"为自己说话"（speak for themselves）——这一信念本身就是一种误解
-- Espeland 和 Stevens（2008, p.432）批判了测量"提供通向真实的特权通道或独占通道"的前提假设
+- Espeland 和 Stevens（2008, p.432）批判了测量"提供通向真实的特权通道或独占通道"的前提[[Hypothesis|假设]]
 - Goriunova（2019）从后人类视角指出，数字主体是通过匹配、关联和建模被建构的，且是在"远距离"被生产出来的([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
 
 > [!example]
@@ -68,7 +70,7 @@ Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见�
 
 ### 身份证逻辑：通过数据变得可见
 
-Bächle（2016, p.188）用身份证（identity document）的类比来说明数字自我的运作：主体通过构成性数据变得可见——正如身份证上的照片、姓名和编号使你成为"可识别的个体"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
+Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说明数字自我的运作：主体通过构成性数据变得可见——正如身份证上的照片、姓名和编号使你成为"可识别的个体"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
 
 但这种"翻译"（translation）同时是一种**不充分复杂的碎片化**（insufficiently complex fragmentation）——只处理数字建模和用户画像所需的要素，遗漏了人的复杂性(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
 

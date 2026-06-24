@@ -17,6 +17,7 @@ tags:
 - external-validity
 - paradigm/scientific-realism
 related_concepts:
+  - "[[Causality]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Cartwright & Munro (2010) 提出，[[Randomised Controlled Trials|RCT]] 结果的外推需要经过三个不同层级的知识阶段。因为 RCT 的设计前提恰恰是"我们不知道所有重要的因果因素"——[[Random Assignment|随机化]]用以控制未知因素——所以 RCT 结果本身不能直接外推到环境不同的新情境。外推需要额外的因果机制知识来弥补 RCT 的设计性无知。
+> Cartwright & Munro (2010) 提出，[[Randomised Controlled Trials|RCT]] 结果的外推需要经过三个不同层级的知识阶段。因为 RCT 的设计前提恰恰是"我们不知道所有重要的[[Causality|因果]]因素"——[[Random Assignment|随机化]]用以控制未知因素——所以 RCT 结果本身不能直接外推到环境不同的新情境。外推需要额外的因果机制知识来弥补 RCT 的设计性无知。
 >
 > > "The primary purpose of an RCT is to make a judgement on effectiveness where the contribution of other circumstantial factors are unknown... Since an RCT is necessary, that knowledge of generalisability to different circumstances is likely to be absent."（Cartwright and Munro, 2010, 引自 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.10-11]]）
 
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 
 > [!abstract] 阶段二：Capacity 主张
 > T 具有（相对）稳定地促进 O 的 capacity（能力）。
-> - 这需要理解 T 产生 O 的因果机制
+> - 这需要理解 T 产生 O 的[[Causality|因果]]机制
 > - 需要回答：是什么让 T 起作用？哪些支持因素必须到位？
 > - 这是从单一研究走向一般性知识的关键步骤
 >
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - [[Epistemology|认识论]]立场：科学实在论——承认因果机制真实存在且可被研究，但反对简单的[[Positivism|实证主义]]归纳
+> - [[Epistemology|认识论]]立场：科学实在论——承认[[Causality|因果]]机制真实存在且可被研究，但反对简单的[[Positivism|实证主义]]归纳
 > - 分析方法：概念分析 + 案例研究 + 政策分析
 > - 不依赖定量数据，而是对 [[Randomised Controlled Trials|RCT]] 方法论的逻辑结构进行哲学剖析
 
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - **过度复杂化**：有批评认为三阶段框架对从业者来说过于复杂，忙碌的教师和政策制定者需要简化的实施指南，而非[[Philosophical Analysis in Education|哲学分析]]
 > - **并非反对 [[Randomised Controlled Trials|RCT]]**：Cartwright 明确表示该框架不是为了否定 RCT 的价值，而是为了正确使用 RCT。她承认有时大效应可以"压倒"其他不可观察的因素，使从业者即使在知识有限的情况下也能行动([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
-> - **替代方案的可操作性**：Bonell et al. (2012) 提出的"实在论 RCT"（realist RCT）试图通过析因试验和多臂研究来识别因果机制，但面临成本激增和[[Sample Size Determination|样本量]]需求的挑战([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
+> - **替代方案的可操作性**：Bonell et al. (2012) 提出的"实在论 RCT"（realist RCT）试图通过析因试验和多臂研究来识别[[Causality|因果]]机制，但面临成本激增和[[Sample Size Determination|样本量]]需求的挑战([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
 
 ## 相关研究
 

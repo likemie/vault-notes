@@ -22,6 +22,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
+  - "[[Causality]]"
+  - "[[Descriptive Research Question]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Research Writing Script]]"
   - "[[Operationalization]]"
@@ -43,24 +45,24 @@ updated: 2026-06-21
 
 ## 定义
 
-> [!def] 备择假设（Alternative [[Hypothesis]]）
+> [!def] 备择[[Hypothesis|假设]]（Alternative [[Hypothesis]]）
 > 备择假设是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式，通常写作 H₁。备择假设通常在[[Null Hypothesis|零假设]]被拒绝时得到支持——即如果[[Null Hypothesis|零假设]]不被支持，则备择假设被支持（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 备择假设是研究者真正想要支持的主张——它预测变量之间存在某种关系或差异，是研究假设的实质内容。
 > - **用途** 为研究提供可检验的方向性预测，决定研究设计和统计检验的类型（单尾或双尾）。
-> - **边界** 备择假设不能代替完整的理论说明，也没有预设因果方向。它在统计上只能被"支持"而非"证实"。
+> - **边界** 备择假设不能代替完整的理论说明，也没有预设[[Causality|因果]]方向。它在统计上只能被"支持"而非"证实"。
 
 > [!boundary]- 概念边界
 > - 不等于 [[Null Hypothesis|零假设]]：备择假设预测存在关系或差异，零假设预测无关系或无差异
 > - 不等于 广义假设：广义假设泛指所有变量间关系的预测性陈述；备择假设是正式假设检验框架中专与零假设配对的术语
-> - 不适用于纯粹的描述性研究和探索性[[Qualitative Research|质性研究]]
+> - 不适用于纯粹的[[Descriptive Research Question|描述性研究]]和探索性[[Qualitative Research|质性研究]]
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 备择假设 vs [[Null Hypothesis|零假设]]
+> [!contrast-table] 备择[[Hypothesis|假设]] vs [[Null Hypothesis|零假设]]
 > | 维度 | 备择假设（H₁） | [[Null Hypothesis\|零假设]]（H₀） |
 > |---|---|---|
 > | 核心陈述 | [[Variable\|变量]]间**存在**关系，或组间**存在**显著差异 | 变量间**没有**关系，或组间**没有**显著差异 |
@@ -74,7 +76,7 @@ updated: 2026-06-21
 
 ### 方向性备择假设
 
-研究者应将备择假设写为方向性形式，即不仅预测存在关系，还预测关系的方向。[[Directional and Non-directional Hypotheses|方向性假设]]用于已有研究或理论提示发现可能走向特定方向的情境，统计上要求单尾检验（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）。
+研究者应将备择[[Hypothesis|假设]]写为方向性形式，即不仅预测存在关系，还预测关系的方向。[[Directional and Non-directional Hypotheses|方向性假设]]用于已有研究或理论提示发现可能走向特定方向的情境，统计上要求单尾检验（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）。
 
 > [!tip]- 方向性词汇
 > 方向性备择假设的常用词汇包括 affect, influence, predict, impact, determine, cause, relate 等（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
@@ -97,7 +99,7 @@ updated: 2026-06-21
 
 ## 写作范例
 
-> [!example] Moore (2000) 的方向性备择假设
+> [!example] Moore (2000) 的方向性备择[[Hypothesis|假设]]
 > 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条[[Directional and Non-directional Hypotheses|方向性假设]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
 > **H1** 性别认同突出的宗教女性，其社会政治活跃度低于性别认同突出的世俗女性。
@@ -120,5 +122,5 @@ updated: 2026-06-21
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍备择假设的定义、方向性写作规则和[[Research Writing Script|写作脚本]]
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 系统介绍备择[[Hypothesis|假设]]的定义、方向性写作规则和[[Research Writing Script|写作脚本]]
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 给出备择假设的典型场景示例，并在[[Operationalization|操作化]]框架中与[[Null Hypothesis|零假设]]成对讨论

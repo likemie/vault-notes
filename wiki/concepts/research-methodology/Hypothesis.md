@@ -14,8 +14,11 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
+  - "[[Descriptive Research Question]]"
   - "[[Paradigm]]"
   - "[[Directional and Non-directional Hypotheses]]"
+  - "[[Research Topic]]"
+  - "[[Causality]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Operationalization]]"
@@ -24,6 +27,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
@@ -51,7 +55,7 @@ updated: 2026-06-25
 > [!boundary]- 概念边界
 > - 不等于 [[Research Question|研究问题]]：研究问题就变量间关系提问，假设对变量间关系做出方向性预测并通过统计检验
 > - 不等于 [[Purpose Statement|目的陈述]]：目的陈述说明研究总体意图，假设将意图转化为可检验的具体预测
-> - 不适用于纯粹的描述性研究、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
+> - 不适用于纯粹的[[Descriptive Research Question|描述性研究]]、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
 
 > [!citation-card]- Medawar 论假设的创造性本质
 > 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972: 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
@@ -132,7 +136,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 
 > [!chain-link] 假设的三个发展阶段
 > - **描述性假设（Descriptive Hypothesis）** 科学探索的初级阶段。研究者通过描述认识对象的结构，以推测事物的外部联系和数量关系。例如，通过简笔画的家庭生活图（房屋、家人、鸟、烟囱等）来研究中小学生心理健康。
-> - **解释性假设（Explanatory Hypothesis）** 比描述性假设更高一级的形式。解释事物的内在关联性，说明事物原因，从整体上揭示事物各部分互相作用的机制、研究主题的最初状态和最终状态的因果关系原理。
+> - **解释性假设（Explanatory Hypothesis）** 比描述性假设更高一级的形式。解释事物的内在关联性，说明事物原因，从整体上揭示事物各部分互相作用的机制、[[Research Topic|研究主题]]的最初状态和最终状态的[[Causality|因果关系]]原理。
 > - **预测性假设（Predictive Hypothesis）** 对事物未来发展趋势的科学推测。在对现实事物更深入了解的基础上提出，是更复杂更困难的一种假设。主要用于广大范围内的、具有战略意义的综合性课题研究。例如，对"当前我国特殊教育政策对今后五年我国社会结构和社会关系的变化"提出科学预测。教育科学研究中多数是与当前关系密切的现实课题，采用预测性假设的不是太多。
 
 ### 假设的三种类型（按形成方式）
@@ -140,7 +144,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 齐梅 (2015, Ch.2) 按研究假设的形成方式，将其分为三种：
 
 > [!feature] 按形成方式划分的假设类型
-> - **归纳性假设（Inductive Hypothesis）** 观察基础上的概括，是人们通过对一些个别事实材料的观察进行概括、推论得出的经验定律。例如，1943年肯纳（Kanner）教授通过对11个自闭症儿童的典型案例进行观察研究，概括总结出自闭症患者的11个特征。
+> - **归纳性假设（Inductive Hypothesis）** 观察基础上的概括，是人们通过对一些个别事实材料的观察进行概括、推论得出的经验定律。例如，1943年肯纳（Kanner）教授通过对11个自闭症儿童的典型案例进行[[Observational and Correlational Research|观察研究]]，概括总结出自闭症患者的11个特征。
 > - **演绎性假设（Deductive Hypothesis）** 从一般教育学原理或理论出发，依据这一理论推导出一些新的具体结论。例如，赵宋光教授提出的"综合构建教学新体系"，按照现代哲学、美学、心理学所揭示的儿童智力结构、意志结构、情感结构立体镶嵌、全面发展的规律，依据构建生成学习理论，提出了"语言符号镶嵌结构教学模式"。
 > - **研究性假设（Research Hypothesis）** 对研究变量间的差异性或相关性的说明。在研究性假设中，呈现出方向性假设和非方向性假设两类。方向性假设预示了结果的方向，如"二年级学生对学校的接受度比一年级低，但比三年级高"；非方向性假设对研究的结果无法做特定方向的预测，如"一、二、三年级对学校的感觉是不同的"。
 

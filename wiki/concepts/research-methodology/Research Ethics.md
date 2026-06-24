@@ -19,6 +19,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
+  - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Informed Consent]]"
   - "[[Betrayal in Research]]"
@@ -190,7 +191,7 @@ updated: 2026-06-18
 
 ### 数据分析阶段
 
-- **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视[[Falsification|证伪]]个人假设的数据
+- **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视[[Falsification|证伪]]个人[[Hypothesis|假设]]的数据
 - **避免选择性报告**：质性研究需报告完整的发现范围，包括与主题相反的结果；量化研究的数据分析应完整呈现统计检验结果
 - **保护参与者隐私**：[[Survey Research|调查研究]]中在[[Coding in Qualitative Research|编码]]和记录阶段将姓名与回答分离；质性研究中使用化名或假名
 
@@ -276,7 +277,7 @@ updated: 2026-06-18
 > - **身份认证困难**：James & Busher (2007) 认为在线研究带来了确认受访者和回答真实性的困难问题
 > - **公共与私密的模糊**：Hudson & Bruckman (2005, p. 298) 发现"公共在线环境中的人往往表现得好像这些环境是私密的"，即使数据无法被追溯，他们仍然感到隐私被侵犯
 > - **信任建立**：Lewis (2006) 描述了在请求参与研究之前花了五个月时间建立在线社区的信任关系——先成为在线社区成员
-> - **AoIR 伦理指南**（Ess & AoIR, 2002）：不要假设电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
+> - **AoIR 伦理指南**（Ess & AoIR, 2002）：不要[[Hypothesis|假设]]电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
 
 ---
 

@@ -28,6 +28,7 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Lifelong Learning]]"
   - "[[Selectivity]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -108,7 +109,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 ## 相关概念／理论
 
 > [!tip]-
-> - [[Theories of Policy Change]] — Youth Guarantee 的"4 个月窗口"承载了"快速衔接=有效政策"的隐含因果叙事
+> - [[Theories of Policy Change]] — Youth Guarantee 的"4 个月窗口"承载了"快速衔接=有效政策"的隐含[[Causality|因果]]叙事
 > - [[Selectivity]] — 就业优先指标使短期就业安置压倒长期人力发展
 > - [[Performance Indicators]] — 以"4 个月内就业/教育/培训/学徒"作为衡量成功的核心指标
 > - [[Network Governance]] — 政策建议成员国建立多元利益相关方合作网络

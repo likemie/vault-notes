@@ -17,6 +17,7 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
+  - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
@@ -60,7 +61,7 @@ updated: '2026-06-19'
 
 > [!method-scope] 方法范围
 > - **研究对象**：特定教育现场或社会场景中个体与群体的言语、行为、互动以及物理环境。
-> - **问题类型**：适合回答描述性、探索性或生成因果机制的质性问题。
+> - **问题类型**：适合回答描述性、探索性或生成[[Causality|因果]]机制的质性问题。
 > - **分析单位**：个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
 > - **输出形式**：描述性笔记、[[Reflexivity|反思性]]笔记、田野日志、互动[[Coding in Qualitative Research|编码]]与深入的质性个案叙事。
 
@@ -77,7 +78,7 @@ updated: '2026-06-19'
 > - **知识观**：主张知识是脉络化的、建构的，强调通过近距离、浸润式的身体在场获取一手的社会学与教育学经验。
 > - **研究者角色**：作为有意识的“研究工具”，在完全参与到完全观察的谱系中动态调整，反思自身的[[Reflexivity|反身性]]（Reflexivity）与伦理关系。
 > - **有效性标准**：主要通过可[[Reliability|信度]]（Credibility）、转移性（Transferability）、确认性（Confirmability）与[[Triangulation|三角验证]]（Triangulation）来确立研究质量。
-> - **不声称回答的问题**：不能声称回答大规模[[Variable|变量]]之间的统计相关，也不能进行高[[Internal Validity|内部效度]]的净因果效果识别。
+> - **不声称回答的问题**：不能声称回答大规模[[Variable|变量]]之间的统计相关，也不能进行高[[Internal Validity|内部效度]]的净[[Causality|因果]]效果识别。
 
 > [!method-stack] 方法层级
 > - **研究设计**：[[Ethnography\|民族志]]、[[Qualitative Research\|质性研究]]、[[Case Study|个案研究]]。
@@ -111,7 +112,7 @@ updated: '2026-06-19'
 > 1. **田野数据转录与整理**：对田野笔记、观察日志进行整理、转录和初步匿名化阅读。
 > 2. **笔记双向编码**：基于观察协议，对左侧描述性笔记进行编码，对右侧反思性笔记进行归纳。
 > 3. **反思与协商**：结合反思性日记，探讨研究者的偏见与现场互动的动态关系，必要时通过团队协商减少偏见。
-> 4. **[[Rich and Thick Description|厚描述]]呈现**：撰写富含情境特征的厚描述（thick description），展示行动者推理与因果机制的生成过程。
+> 4. **[[Rich and Thick Description|厚描述]]呈现**：撰写富含情境特征的厚描述（thick description），展示行动者推理与[[Causality|因果]]机制的生成过程。
 
 ---
 
@@ -120,7 +121,7 @@ updated: '2026-06-19'
 > [!method-fit] 适用判断
 > - **适合使用**：需要在自然情境中直接了解参与者的实际行为和互动模式，而非仅依赖自我报告时；适合探索不愿口头表达的话题；配合访谈数据开展[[Triangulation|三角验证]]。
 > - **谨慎使用**：研究者可能被视为侵入者（[[Hawthorne Effect|霍桑效应]]）；可能观察到无法公开的私人信息；或受试者难以建立信任的场景（如儿童）。
-> - **不适合使用**：旨在识别明确[[Variable|变量]]间的因果[[Effect Size|效应量]]，或在大样本总体中推广统计结论时。
+> - **不适合使用**：旨在识别明确[[Variable|变量]]间的[[Causality|因果]][[Effect Size|效应量]]，或在大样本总体中推广统计结论时。
 
 ---
 
@@ -129,7 +130,7 @@ updated: '2026-06-19'
 > [!method-limits] 方法局限
 > - **偏误来源**：研究者自身的注意力和观察技能局限、[[Hawthorne Effect|霍桑效应]]（被观察者因受关注而改变行为）、研究者主观偏见污染。
 > - **适用边界**：田野观察极度依赖特定现场脉络，其发现无法直接推广到其他[[Heterogeneity|异质性]]背景。
-> - **误用风险**：将观察到的经验描述直接等同于因果证明，或忽视自身角色对现场行为产生的干扰。
+> - **误用风险**：将观察到的经验描述直接等同于[[Causality|因果]]证明，或忽视自身角色对现场行为产生的干扰。
 > - **补救方式**：采用[[Observation Protocol|观察协议]]（分设描述性与[[Reflexivity|反思性]]笔记），引入第三方成员核验，结合多元数据进行[[Triangulation|三角验证]]（Triangulation）。
 
 ---
@@ -152,4 +153,4 @@ updated: '2026-06-19'
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 介绍了米勒（Miller）于 1992 年在关于四年制学院新校长第一年经历的[[Ethnography|民族志研究]]中，对校长行政内阁会议和日常活动进行系统现场观察的案例。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 指出在教育开放系统与复杂背景下探索因果[[Emergence|涌现]]，必须引入质性观察以配合多元改进和方法论实在论。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 指出在教育开放系统与复杂背景下探索[[Causality|因果]][[Emergence|涌现]]，必须引入质性观察以配合多元改进和方法论实在论。

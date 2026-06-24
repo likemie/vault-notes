@@ -16,6 +16,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 潜在结果框架（Potential outcomes Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
+> 潜在结果框架（Potential outcomes Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为[[Hypothesis|假设]]性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
 >
 > > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed." ([[Argument_Berk_2011_ER|Berk, 2011, p.193]])
 >
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 因果效应的定义与估计的区分
+> [!abstract] [[Causality|因果]]效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
 >
 > > "The potential outcomes formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result." ([[Argument_Berk_2011_ER|Berk, 2011, p.193]])
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 > 每种定义识别了一组特定的研究对象，对其需要平均因果效应([[Argument_Berk_2011_ER|Berk, 2011, p.194]]; Imbens, 2004, pp.6–7)。如果这些区分被忽视，"可信的证据不太可能产生"([[Argument_Berk_2011_ER|Berk, 2011, p.194]])。
 
 
-> [!abstract] 稳定单位处理价值假设（[[Stable Unit Treatment Value Assumption|SUTVA]]）
+> [!abstract] 稳定单位处理价值[[Hypothesis|假设]]（[[Stable Unit Treatment Value Assumption|SUTVA]]）
 > 潜在结果框架的一个关键假定是稳定单位处理价值假设（SUTVA），其违反——即主体间干扰（subject interference）——会导致因果效应不再被唯一地定义（详见 [[Stable Unit Treatment Value Assumption]]）。
 
 
@@ -85,11 +86,11 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（[[Standard Error|SEM]]）尝试通过模型假设从观察数据中估计因果参数，但 [[Argument_Berk_2011_ER|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
+> - vs [[Causal Modeling]] — 潜在结果框架为[[Causality|因果]]效应提供定义性基础；因果建模（[[Standard Error|SEM]]）尝试通过模型[[Hypothesis|假设]]从观察数据中估计因果参数，但 [[Argument_Berk_2011_ER|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
 > - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（[[Random Assignment|随机分配]]使潜在结果独立于处理分配）提供了概念基础
 
 ## 理论基础
 
 > [!info] 理论基础
-> - Neyman-Rubin 因果模型 — 该框架的数学基础，将因果效应形式化为潜在结果的比较
+> - Neyman-Rubin [[Causality|因果]]模型 — 该框架的数学基础，将因果效应形式化为潜在结果的比较
 

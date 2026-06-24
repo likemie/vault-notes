@@ -17,10 +17,12 @@ tags:
   - theme/research-philosophy
   - theme/research-planning
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Causality]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Axiology]]"
@@ -47,7 +49,7 @@ updated: 2026-06-21
 ## 定义
 
 > [!def] 认识论（Epistemology）
-> 关于知识本身基础的假设——知识的本质和形式，知识如何被获取，以及如何传递给其他人。一个人在这一问题上的立场，深刻影响其如何着手揭示关于社会行为的知识（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 关于知识本身基础的[[Hypothesis|假设]]——知识的本质和形式，知识如何被获取，以及如何传递给其他人。一个人在这一问题上的立场，深刻影响其如何着手揭示关于社会行为的知识（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 认识论回答"我们如何知道"以及"什么构成有效知识"。它涉及知识的性质、结构、组织方式，以及我们如何探究知识和现象。
@@ -75,12 +77,12 @@ updated: 2026-06-21
 > [!col1-table] 范式-认识论对应关系
 > | 范式 | 认识论立场 |
 > |---|---|
-> | [[Positivism\|实证主义与后实证主义]] | 科学的、经验的、假设检验的：知识来自对客观现象的系统观察、测量和假设检验 |
+> | [[Positivism\|实证主义与后实证主义]] | 科学的、经验的、[[Hypothesis\|假设]]检验的：知识来自对客观现象的系统观察、测量和假设检验 |
 > | 量化、科学和假设检验 | 以可测量、可检验为知识标准，延续实证主义的可验证传统 |
 > | 诠释与自然主义 | 承认多重实在、能动者行为，强调通过参与者之眼理解情境——知识是情境化的、主体间建构的 |
 > | [[Phenomenology\|现象学与存在主义]] | 通过探究体验本身的结构和意义来获取知识 |
 > | 互动论与[[Ethnography\|民族志]] | 知识在符号互动和文化意义生产中被发现和建构 |
-> | [[Complexity Theory\|复杂性理论]] | 主张理解多重因果方向，需要整体性理解现象，通过审查互动过程和结果来认识现象 |
+> | [[Complexity Theory\|复杂性理论]] | 主张理解多重[[Causality\|因果]]方向，需要整体性理解现象，通过审查互动过程和结果来认识现象 |
 > | [[Ideology Critique\|意识形态批判]] | 明确政治性：批判现象的意识形态根基，揭示维系不平等和权力不对称的机制，要求将批判与参与式行动相结合以推动社会正义 |
 > | [[Mixed Methods Research\|混合方法]] | [[Pragmatic Paradigm\|实用主义]]驱动：要求方法组合——顺序、平行或综合——以充分把握和全面理解现象的多重面向 |
 
@@ -97,4 +99,4 @@ updated: 2026-06-21
 
 ## 在研究层级中的位置
 
-认识论是 Hitchcock and Hughes（1995: 21）五层框架的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。本体论假设衍生出认识论假设——研究者对"实在是什么"的回答决定了他们对"知识是什么以及如何获取"的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+认识论是 Hitchcock and Hughes（1995: 21）五层框架的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。本体论[[Hypothesis|假设]]衍生出认识论假设——研究者对"实在是什么"的回答决定了他们对"知识是什么以及如何获取"的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

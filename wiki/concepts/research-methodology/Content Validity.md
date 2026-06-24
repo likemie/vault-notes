@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
+  - "[[Hypothesis]]"
   - "[[Internal Consistency]]"
   - "[[Consequential Validity]]"
 related_arguments:
@@ -66,7 +67,7 @@ updated: 2026-06-23
 > - **项目覆盖**（programme coverage） 课程或项目本身是否覆盖了整体相关领域——三层嵌套：领域 > 项目 > 测试（Wolf, 1994）
 
 > [!example] 内容效度的经典案例：法语拼写测试
-> 假设研究者想测试一组学生拼写 1000 个法语单词的能力，但出于时间和可行性的限制，只决定抽样 50 个单词进行拼写测试。
+> [[Hypothesis|假设]]研究者想测试一组学生拼写 1000 个法语单词的能力，但出于时间和可行性的限制，只决定抽样 50 个单词进行拼写测试。
 >
 > 该测试的内容效度取决于：**这 50 个单词是否公平地代表了 1000 个单词中的拼写范围**？
 >

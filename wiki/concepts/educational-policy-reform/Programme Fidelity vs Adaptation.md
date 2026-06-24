@@ -17,9 +17,11 @@ tags:
 - adaptation
 - level/k12
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Causality]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -52,7 +54,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> 这一争论起源于医学和公共卫生领域的证据本位实践，随后扩展到教育领域。早期实施科学（如 Fixsen et al., 2005）倾向于强调忠实执行的重要性，但 Cartwright & Hardie (2012) 挑战了这一立场，指出"忠实执行"预设了原始方案已包含所有必要的支持因素，而这不能假设为普遍成立。
+> 这一争论起源于医学和公共卫生领域的证据本位实践，随后扩展到教育领域。早期实施科学（如 Fixsen et al., 2005）倾向于强调忠实执行的重要性，但 Cartwright & Hardie (2012) 挑战了这一立场，指出"忠实执行"预设了原始方案已包含所有必要的支持因素，而这不能[[Hypothesis|假设]]为普遍成立。
 
 ## 核心要素
 
@@ -88,7 +90,7 @@ updated: '2026-05-18'
 >
 > 2. **教师质量分布的系统性恶化**：新教师和未认证教师并非在全州范围内随机分配。Randy Ross (1999) 指出，许多有经验的教师离开城市学校到更富裕地区担任新设立的职位——净效应是降低全州平均教师质量，并将教师质量的降低集中在服务最弱势学生的学校。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 >
-> 3. **对"忠实执行"的更深层挑战**：STAR 项目仅需额外 50 名教师——可合理假设这些额外教师与在职教师同等有效。但当班级缩减全州推广时，新增教师不可能同样有效。Wiliam 由此提出更深层的问题：**RCT 中的支持因素（如教师质量）在大规模推广中可能系统性地不同于试验条件——这不是"忠实 vs 不忠实"的执行问题，而是试验条件本身不可复制**。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
+> 3. **对"忠实执行"的更深层挑战**：STAR 项目仅需额外 50 名教师——可合理[[Hypothesis|假设]]这些额外教师与在职教师同等有效。但当班级缩减全州推广时，新增教师不可能同样有效。Wiliam 由此提出更深层的问题：**RCT 中的支持因素（如教师质量）在大规模推广中可能系统性地不同于试验条件——这不是"忠实 vs 不忠实"的执行问题，而是试验条件本身不可复制**。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 
 
 > [!abstract] 教学方法的被忽视维度：班级缩减的未实现可能性
@@ -105,12 +107,12 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - vs [[Evidence-Based Education]] — EBE 倾向于强调"什么有效"的证据生产，而 fidelity vs adaptation 关注证据实施过程中的操作决策
 > - vs [[Local Knowledge in Evidence-Based Policy]] — 本地知识是判断何时适应、如何适应的前提条件；[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.13)]] 以 Hayek (1945) 的"特定时间和地点环境的知识"为此提供理论基础
-> - vs [[Cartwright's Three-Stage Knowledge Framework]] — 三阶段框架为 fidelity vs adaptation 的决策提供了分析工具：理解因果机制（阶段二）才能判断哪些要素必须忠实复制、哪些可以本地替代
+> - vs [[Cartwright's Three-Stage Knowledge Framework]] — 三阶段框架为 fidelity vs adaptation 的决策提供了分析工具：理解[[Causality|因果]]机制（阶段二）才能判断哪些要素必须忠实复制、哪些可以本地替代
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Cartwright's Three-Stage Knowledge Framework]] — 判断是否需要忠实执行取决于：原始方案中的每个要素是因果必需的（不可替代）还是仅为支持条件之一（可能有功能等价替代）
+> - [[Cartwright's Three-Stage Knowledge Framework]] — 判断是否需要忠实执行取决于：原始方案中的每个要素是[[Causality|因果]]必需的（不可替代）还是仅为支持条件之一（可能有功能等价替代）
 
 ## 实证发现
 

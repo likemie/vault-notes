@@ -15,6 +15,7 @@ tags:
   - subject/research-methodology
   - topic/causation
 related_concepts:
+  - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Homework]]"
   - "[[Compound Causes]]"
@@ -36,7 +37,7 @@ updated: 2026-06-17
 ## 定义
 
 > [!def] 核心定义
-> 因果过度决定（causal over-determination）是指一个特定效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果（Morrison, 2009: 51）。
+> [[Causality|因果]]过度决定（causal over-determination）是指一个特定效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果（Morrison, 2009: 51）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 一个效果由多个同时运作的原因共同或替代性地产生，任何单一原因都能独立导致该效果。
@@ -45,7 +46,7 @@ updated: 2026-06-17
 
 ## 核心要素
 
-> [!feature] 因果过度决定的特征
+> [!feature] [[Causality|因果]]过度决定的特征
 > - **多因一果**：多个独立原因指向同一个效果。
 > - **各自充分**：每个原因本身在给定情境中都足以独立产生该效果。
 > - **归因困难**：无法判断究竟是哪个原因实际产生了效果——甚至可能在[[Counterfactual|反事实]]意义上，即使去掉任何一个原因，效果仍会发生。
@@ -60,7 +61,7 @@ updated: 2026-06-17
 
 ## 概念辨析
 
-> [!contrast-table] 过度决定 vs 多重因果 vs [[Compound Causes|复合原因]]
+> [!contrast-table] 过度决定 vs 多重[[Causality|因果]] vs [[Compound Causes|复合原因]]
 > | 维度 | 因果过度决定 | 多重因果 | 复合原因 |
 > |------|------------|---------|---------|
 > | 每个原因单独充分性 | 每个都足够 | 不一定——通常每个原因单独不充分 | 原因单独不充分 |
@@ -70,7 +71,7 @@ updated: 2026-06-17
 ## 应用案例
 
 > [!case] 两发子弹问题（Horwich, 1993）
-> 两发子弹同时击中一人头部。哪一发导致死亡？无论去掉子弹 A 还是子弹 B，死亡都会发生。这是一个经典的过度决定案例——两个原因各自都足以致命，使得单一因果归因成为不可能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 63]]）。
+> 两发子弹同时击中一人头部。哪一发导致死亡？无论去掉子弹 A 还是子弹 B，死亡都会发生。这是一个经典的过度决定案例——两个原因各自都足以致命，使得单一[[Causality|因果]]归因成为不可能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 63]]）。
 
 > [!case] 学校改进中的过度决定
 > 一所学校引入全面质量管理，同时实施了多项改进干预。在下一次学校检查中，学校被认为有进步。问题是：究竟哪项（或哪些组合）干预带来了改进？哪些是反效果的？这类似于医生开出六种药物后消化问题消除但出现了胃溃疡——究竟哪些药物对治愈（或溃疡）负有因果责任？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 77–78]]）。

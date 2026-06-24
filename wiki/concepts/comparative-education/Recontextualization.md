@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
+  - "[[Hypothesis]]"
   - "[[Relational Space]]"
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
@@ -74,7 +75,7 @@ updated: 2026-06-06
 > [!example]
 > - vs 转移—[[Transfer Translation Transformation|转译]]—转化（3T） — 3T 框架描述教育思想跨国流动的三个阶段，是一个过程模型。再脉络化则聚焦于贯穿全过程的机制，接受者如何在每个阶段中对思想进行选择性处理。两者互补：3T 回答发生了什么阶段，再脉络化回答每个阶段中接受者如何操作。
 > - vs [[Policy Borrowing|政策借用]] — 政策借用关注国家层面的借用决策，再脉络化关注知识从生产场所到课程的转化过程中发生的变形。政策借用是再脉络化的一种表现形式。
-> - vs 误解（misunderstanding） — 误解框架假设存在正确理解的标准，将接受者视为被动的认知失误者。再脉络化框架把接受者视为主动的行动者，分析的重点不是他们理解对了吗，而是他们选择了什么、为什么选择、选择服务于什么目的([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.69]])。
+> - vs 误解（misunderstanding） — 误解框架[[Hypothesis|假设]]存在正确理解的标准，将接受者视为被动的认知失误者。再脉络化框架把接受者视为主动的行动者，分析的重点不是他们理解对了吗，而是他们选择了什么、为什么选择、选择服务于什么目的([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.69]])。
 > - vs [[Relational Space|关系性空间]] — 再脉络化仍然假设存在清晰的「生产场所」和「接收场所」。关系性空间概念更进一步，认为知识不是在某个地点生产然后被再脉络化的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---

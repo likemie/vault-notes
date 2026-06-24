@@ -25,6 +25,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Hypothesis]]"
   - "[[Internal Consistency]]"
   - "[[Causality]]"
   - "[[Research Question]]"
@@ -54,7 +55,7 @@ updated: 2026-06-24
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观**：[[Archival Correspondence Analysis|档案研究]]在认识论上假设官方[[Document|文件]]的组织方式和幸存模式本身就是历史过程的产物（而非中性的信息容器）。研究者需要同时阅读文件内容和文件的组织逻辑。
+> - **知识观**：[[Archival Correspondence Analysis|档案研究]]在认识论上[[Hypothesis|假设]]官方[[Document|文件]]的组织方式和幸存模式本身就是历史过程的产物（而非中性的信息容器）。研究者需要同时阅读文件内容和文件的组织逻辑。
 > - **研究者角色**：研究者是档案的主动阐释者，需要在浩繁的材料中进行选择性阅读和判断，同时受到自身问题意识和时间预算的约束。
 > - **有效性标准**：档案来源的[[Internal Consistency|内部一致性]]、不同文件系列之间的交叉验证、对文件幸存偏误的明示、以及对文件生产语境的充分理解。
 > - **不声称回答的问题**：档案研究无法直接观察事件本身（只能通过记录重构），无法弥补已遗失文献造成的证据空白，也不能假定幸存文献具有统计代表性。

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Internal Validity]]"
 related_theories: []
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 > [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]描述的实际分析过程是一种"理论演绎法和现象归纳法循环往复"**的分析方法：
 >
 > 1. **反复阅读**访谈文稿 → 理解被访者的处境和观念
-> 2. 在个案经验的基础上寻求**理论性命题或假设** → 以此确立[[Coding in Qualitative Research|编码]]类目
+> 2. 在个案经验的基础上寻求**理论性命题或[[Hypothesis|假设]]** → 以此确立[[Coding in Qualitative Research|编码]]类目
 > 3. 当新现象**推翻**原有猜想 → 放弃原有编码类别，重新建立新猜想和类属
 > 4. **循环迭代**，持续不断地整合所有发现 → 直到理论命题能够兼容**所有个案**的经验
 > 5. **最终产出**：一个有良好解释力的理论模型（在本研究中即 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分）
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 ## 适用场景
 
 > [!success] 适用场景
-> - 适合探索性[[Research Question|研究问题]]：旨在阐释和理解行动者的意义建构逻辑，并据此探索和生成解释性理论假设
+> - 适合探索性[[Research Question|研究问题]]：旨在阐释和理解行动者的意义建构逻辑，并据此探索和生成解释性理论[[Hypothesis|假设]]
 > - 研究者的**前见被承认为分析的一部分**，而非被要求完全摒弃——这与[[Objectivism|客观主义]][[Grounded Theory|扎根理论]]形成对比
 >
 

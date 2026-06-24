@@ -54,7 +54,7 @@ updated: 2026-06-19
 > Cooper & Schindler (2001, p. 116) 列出 debriefing 应包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）：
 
 1. **解释欺骗及其原因**（explaining any [[Deception in Research|deception]] and the reasons for it）
-2. **描述研究的目的、假设、目标和方法**（description of the purposes, [[Hypothesis|hypotheses]], objectives and methods of the research）
+2. **描述研究的目的、[[Hypothesis|假设]]、目标和方法**（description of the purposes, [[Hypothesis|hypotheses]], objectives and methods of the research）
 3. **研究后分享结果**（sharing of the results after the research）
 4. **跟进心理或医疗关注**（follow-up psychological or medical attention after the research）
 

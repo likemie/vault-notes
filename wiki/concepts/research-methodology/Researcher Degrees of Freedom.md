@@ -22,6 +22,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - **Gelman & Loken (2014)** 提出" researcher degrees of freedom "的概念也可被理解为"数据的花园小径"（garden of forking paths）：研究者并非恶意操纵，而是在面对数据后自然做出看似合理的分析选择——问题在于这些选择的累积效应
-> - **在开发者研究中的因果不确定性**：[[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 承认不能明确判断[[Developer Effect|开发者效应]]在多大程度上来自研究者自由度 vs. [[Publication Bias|发表偏倚]] vs. [[Implementation Fidelity|实施忠实度]]差异
+> - **在开发者研究中的[[Causality|因果]]不确定性**：[[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 承认不能明确判断[[Developer Effect|开发者效应]]在多大程度上来自研究者自由度 vs. [[Publication Bias|发表偏倚]] vs. [[Implementation Fidelity|实施忠实度]]差异
 
 ## 相关案例／政策
 

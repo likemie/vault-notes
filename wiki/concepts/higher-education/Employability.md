@@ -28,7 +28,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Academic Engagement]]"
-  - "[[Governance by Spin]]"
   - "[[Causality]]"
   - "[[Goal-Controlled Mode]]"
 related_theories: []
@@ -112,7 +111,7 @@ SCD 中突出强调的技能主要是**结果导向的**（outcome-oriented）�
 > [!success]
 > - 就业力的相对性逻辑解释了为何[[Social Engagement|社会性投入]]在精英大学就业竞争中比[[Academic Engagement|学业投入]]对就业力的比较性排序更具决定性——实习、学生工作、国际交流等"软"经历成为区分求职者的关键信号（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - 就业力竞争同时再生产了阶层不平等：优势家庭的学生拥有更多经济和文化资源来投资和包装课余经历，在就业力竞争中占据结构性优势([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - 钦凯（南方大学化学系）将求职竞争力拆分为"硬"条件（学历、业务素养）和"软"条件（"演绎"——情商、[[Governance by Spin|印象管理]]、转化率），认为后者是决定性的。他手持多个顶级咨询公司入职邀请，最终选择了"既有钱，又有趣"的工作([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - 钦凯（南方大学化学系）将求职竞争力拆分为"硬"条件（学历、业务素养）和"软"条件（"演绎"——情商、印象管理、转化率），认为后者是决定性的。他手持多个顶级咨询公司入职邀请，最终选择了"既有钱，又有趣"的工作([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 

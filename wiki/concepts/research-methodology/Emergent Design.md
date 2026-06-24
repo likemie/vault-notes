@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Emergence]]"
   - "[[Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Analytic Framework]]"
@@ -66,7 +67,7 @@ updated: 2026-06-01
 > |------|------------------------------------|--------------------------------------|
 > | 设计性质 | 预先确定，全程不变。 | 随数据深入而演变。 |
 > | 抽样 | 统计抽样，事前固定。 | [[Theoretical Sampling\|理论抽样]]，随理论涌现调整。 |
-> | 理论角色 | 先验理论→假设检验。 | [[Grounded Theory\|扎根理论]]——数据提示理论，理论从数据涌现。 |
+> | 理论角色 | 先验理论→[[Hypothesis\|假设]]检验。 | [[Grounded Theory\|扎根理论]]——数据提示理论，理论从数据涌现。 |
 > | [[Research Question\|研究问题]] | 研究开始前确定，驱动全程。 | 可随情境理解的深入而迭代修改。 |
 
 > [!term] 涌现式设计 vs [[Reflexivity|反身性]]

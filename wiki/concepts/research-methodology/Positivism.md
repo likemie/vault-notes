@@ -17,9 +17,10 @@ tags:
   - theme/research-philosophy
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Scientific Method]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Scientism]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: 2026-06-13
 
 ## 核心主张
 
-Giddens（1975）识别出实证主义包含两个相互关联的假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+Giddens（1975）识别出实证主义包含两个相互关联的[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!line-a] 方法论统一
 > 自然科学的方法论程序可以直接应用于社会科学。实证主义在此隐含了一种关于社会科学家作为社会实在观察者的特定立场。
@@ -59,10 +60,10 @@ Giddens（1975）识别出实证主义包含两个相互关联的假设（[[Argu
 
 ## 科学的基本假设
 
-实证主义指导下的科学工作基于四项隐含假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+实证主义指导下的科学工作基于四项隐含[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 科学的四个基本假设
-> - **决定论**（determinism）事件都有原因，由先行情境所决定；因果联系最终可以被揭示。宇宙不以反复无常的方式运作，科学家的终极目标是制定法则以实现预测和控制
+> - **决定论**（determinism）事件都有原因，由先行情境所决定；[[Causality|因果]]联系最终可以被揭示。宇宙不以反复无常的方式运作，科学家的终极目标是制定法则以实现预测和控制
 > - **经验主义**（empiricism）可靠知识只能来自经验。理论的[[Reliability|可靠性]]取决于支持它的经验证据的性质（Barratt, 1971）
 > - **简约原则**（parsimony）现象应以最经济的方式解释（"奥卡姆剃刀"）——解释最多、方式最简单的理论最好，但不能再简单（Einstein）
 > - **普遍性**（generality）从对具体个别的观察出发，将发现推广到更广阔的世界
@@ -73,7 +74,7 @@ Mouly（1978）将[[Scientific Method|经验科学]]进程分为五个阶段：�
 
 ## 科学的关键工具
 
-> [!abstract] 概念（Concepts）与假设（[[Hypothesis|hypotheses]]）
+> [!abstract] 概念（Concepts）与[[Hypothesis|假设]]（[[Hypothesis|hypotheses]]）
 > **概念**表达从个别到一般的概括，赋予世界意义、秩序和连贯性。科学概念有两个特征：它们是我们发明的，数量有限却要解释无限多样的现象。
 >
 > **假设**被 Kerlinger（1970）定义为[[Variable|变量]]之间关系的推测性陈述。好假设的两条标准：陈述变量之间的关系，且蕴含明确的检验含义。Medawar（1972: 22）将假设描述为"一次思辨的冒险，一种对什么可能是真的的想象性预想"。

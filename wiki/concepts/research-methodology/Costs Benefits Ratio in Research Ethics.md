@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Ethics]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,7 +77,7 @@ updated: 2026-06-19
 
 > [!timeline] 概念演变
 > - **1992** Frankfort-Nachmias & Nachmias 将成本/收益比系统表述为社会研究的基本伦理困境概念
-> - **1999** Howe & Moses 从道义论和后果论视角分别审视成本/收益分析，指出其核心问题：(a) 不清楚哪些成本和收益应被纳入分析；(b) 假设所有成本和收益具有同等强度
+> - **1999** Howe & Moses 从道义论和后果论视角分别审视成本/收益分析，指出其核心问题：(a) 不清楚哪些成本和收益应被纳入分析；(b) [[Hypothesis|假设]]所有成本和收益具有同等强度
 > - **2003** Oliver 将成本/收益比与具体的研究实践——如参与诱导、儿童研究、资助研究——联系起来，扩展了其应用范围
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-06-19
 ## 争议与批评
 
 > [!tension] 功利主义框架的局限
-> Howe & Moses (1999, p. 23) 指出成本/收益分析的两个核心问题：(a) 不清楚哪些成本和收益应被纳入分析——不同利益相关者可能对什么算作成本或收益有根本分歧；(b) 假设所有成本和收益具有同等强度——实际上一次尊严受损可能超过多项微小的收益。这质疑了成本/收益分析作为纯粹功利主义计算的可行性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 76]]）。
+> Howe & Moses (1999, p. 23) 指出成本/收益分析的两个核心问题：(a) 不清楚哪些成本和收益应被纳入分析——不同利益相关者可能对什么算作成本或收益有根本分歧；(b) [[Hypothesis|假设]]所有成本和收益具有同等强度——实际上一次尊严受损可能超过多项微小的收益。这质疑了成本/收益分析作为纯粹功利主义计算的可行性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 76]]）。
 
 > [!tension] "伤害"的定义不清
 > 什么构成伤害是不清楚的：一个人的伤害可能是社会的收益；一点小伤害对少数人是否在为所有人（甚至为当事人）带来重大利益的情况下可容忍。核心问题在于：目的正当化手段吗？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 90]]）。

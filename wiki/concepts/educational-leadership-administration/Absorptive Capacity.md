@@ -23,6 +23,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
+  - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Formative Assessment]]"
   - "[[Variable]]"
@@ -82,7 +83,7 @@ updated: 2026-06-05
 ## 实证发现
 
 > [!success]
-> 在 [[Students and Teachers Accessing Tomorrow]] 中，虽然评价证据无法证明项目的单独因果效果，但多方利益相关者确认外部评价对项目改进和可持续性具有重要作用。项目在发起它的 superintendent 因丑闻辞职后仍持续推进，说明形成性反馈和地方组织条件共同支持了改革延续([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.119, 121-124]])。
+> 在 [[Students and Teachers Accessing Tomorrow]] 中，虽然评价证据无法证明项目的单独[[Causality|因果]]效果，但多方利益相关者确认外部评价对项目改进和可持续性具有重要作用。项目在发起它的 superintendent 因丑闻辞职后仍持续推进，说明形成性反馈和地方组织条件共同支持了改革延续([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.119, 121-124]])。
 
 ## 争议与批评
 

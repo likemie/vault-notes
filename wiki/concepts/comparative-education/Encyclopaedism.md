@@ -16,6 +16,7 @@ tags:
   - region/europe
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Educated Identity]]"
   - "[[Recontextualization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -44,7 +45,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 百科全书主义（Encyclopaedism）是一种将受教育定义为对按学科分类的事实信息进行系统获取和积累的教育[[Paradigm|范式]]。其核心假设是学校知识的价值在于知识的广度与系统性，课程以离散学科为基本组织单位，教学过程以教师传授知识和学生记忆复现为特征。([[Argument_Beech_2009_CE|Beech, 2009, pp. 347–348, 356]])
+> 百科全书主义（Encyclopaedism）是一种将受教育定义为对按学科分类的事实信息进行系统获取和积累的教育[[Paradigm|范式]]。其核心[[Hypothesis|假设]]是学校知识的价值在于知识的广度与系统性，课程以离散学科为基本组织单位，教学过程以教师传授知识和学生记忆复现为特征。([[Argument_Beech_2009_CE|Beech, 2009, pp. 347–348, 356]])
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 指向以刚性学科边界为基础、以事实信息积累为目标的去语境化知识组织与传递机制。

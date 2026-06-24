@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Causality]]"
+  - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
@@ -110,7 +111,7 @@ updated: 2026-05-18
 > - SES 认知技能差距可能是例外而非规则——学校可能对大多数其他结果是不平等的引擎
 
 
-> [!warning] [[Seasonal Comparison|季节性比较]]方法的假设
+> [!warning] [[Seasonal Comparison|季节性比较]]方法的[[Hypothesis|假设]]
 > 框架的核心经验基础——季节性比较——依赖一系列假设（见 [[Seasonal Comparison]] 条目的「局限性」章节），这些假设的合理性仍在学术讨论中([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.4–5]])。
 
 

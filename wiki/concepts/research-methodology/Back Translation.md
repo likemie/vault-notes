@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
   - "[[Construct Validity]]"
+  - "[[Hypothesis]]"
 related_methods:
   - "[[Pilot Testing]]"
 related_arguments:
@@ -87,4 +88,4 @@ updated: 2026-06-24
 ## 争议与批评
 
 > [!warning] 回译的局限
-> 回译只保障了语言对等性——它将原始语言作为"参照语言"，假设原始版本是意义的标准。但**去中心化**（decentring）的观点认为，原始语言和译文语言应同等重要——在某些情况下，原始语言本身也可能需要修改以适应跨文化情境。此外，Aldridge & Fraser (2000) 指出目标语言中可能根本不存在对等的词汇，这迫使研究者在两种语言中都做出妥协。
+> 回译只保障了语言对等性——它将原始语言作为"参照语言"，[[Hypothesis|假设]]原始版本是意义的标准。但**去中心化**（decentring）的观点认为，原始语言和译文语言应同等重要——在某些情况下，原始语言本身也可能需要修改以适应跨文化情境。此外，Aldridge & Fraser (2000) 指出目标语言中可能根本不存在对等的词汇，这迫使研究者在两种语言中都做出妥协。

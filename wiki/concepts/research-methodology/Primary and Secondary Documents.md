@@ -30,6 +30,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
   - "[[Research Question]]"
+  - "[[Hypothesis]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -112,7 +113,7 @@ updated: 2026-06-24
 ## 使用二手文献的审慎
 
 > [!warning] 三项注意事项
-> - 二手[[Document|文献]]的[[Analytic Framework|分析框架]]本身是特定时代和立场的产物，不能被默认为中性的出发点。作者的前提假设和论证需要经过批判性的审视，而非被简单地接受为其表面价值（p.14）。
+> - 二手[[Document|文献]]的[[Analytic Framework|分析框架]]本身是特定时代和立场的产物，不能被默认为中性的出发点。作者的前提[[Hypothesis|假设]]和论证需要经过批判性的审视，而非被简单地接受为其表面价值（p.14）。
 > - 读者群体（readership）是理解二手文献影响力不可忽视的维度。同一著作在不同读者群体中的接受方式和利用方式可能截然不同（J. Rose, 2001, 2007; Secord, 2000）。
 > - 研究者需要根据[[Research Question|研究问题]]明确自己正在以何种方式使用该文献（作为一手还是二手），并在分析中保持这一选择的透明性。
 

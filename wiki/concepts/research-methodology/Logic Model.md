@@ -19,6 +19,7 @@ tags:
 - implementation
 - theory-of-change
 related_concepts:
+  - "[[Causality]]"
   - "[[University-Industry Collaboration]]"
   - "[[Counterfactual]]"
   - "[[Technology Infusion]]"
@@ -45,7 +46,7 @@ updated: '2026-06-10'
 > [!info]
 > 逻辑模型（Logic Model）是把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具。它帮助参与者明确项目”先发生什么、再产生什么、最终希望达到什么”，并为[[Formative Program Evaluation|形成性项目评价]]提供数据组织框架([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
 
-W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻辑模型的经典表述强调了两大核心部分（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.23]]）：**计划的行动**（Planned Work）——包括所需资源和输入（Resources/Inputs）以及由此实现的计划活动（Activities）；**预期的结果**（Intended Results）——包括活动产生的输出（Outputs）、参与者获得的中间结果（Intermediate Outcomes）和对组织、社区或系统的最终影响（Impacts）。因果链逻辑为：如果你获得资源 → 你可以完成计划活动；如果你完成计划活动 → 你将交付预期输出；如果参与者获得这些输出 → 他们将以某种方式受益；如果这些受益实现 → 组织、社区或系统可能发生某些变化。
+W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻辑模型的经典表述强调了两大核心部分（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.23]]）：**计划的行动**（Planned Work）——包括所需资源和输入（Resources/Inputs）以及由此实现的计划活动（Activities）；**预期的结果**（Intended Results）——包括活动产生的输出（Outputs）、参与者获得的中间结果（Intermediate Outcomes）和对组织、社区或系统的最终影响（Impacts）。[[Causality|因果]]链逻辑为：如果你获得资源 → 你可以完成计划活动；如果你完成计划活动 → 你将交付预期输出；如果参与者获得这些输出 → 他们将以某种方式受益；如果这些受益实现 → 组织、社区或系统可能发生某些变化。
 
 在复杂教育改革中，逻辑模型的价值不只是画流程图，而是建立共享预期。若利益相关者一开始就从项目投入跳到学生成就增益，很多中间过程会被忽略；逻辑模型可以说明教师专业发展、课堂环境变化、数字资源使用、学生参与和长期成就之间需要经历哪些阶段([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 121-124]])。
 
@@ -54,7 +55,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 ## 认识论立场
 
 > [!abstract]
-> 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接因果箭头。它允许评价者同时关注实施过程和结果变化，并把形成性反馈重新带回项目投入和实施调整([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
+> 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接[[Causality|因果]]箭头。它允许评价者同时关注实施过程和结果变化，并把形成性反馈重新带回项目投入和实施调整([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
 
 在 [[Students and Teachers Accessing Tomorrow]] 的评价模型中，信息既从过程流向结果，也从[[Formative Program Evaluation|形成性项目评价]]数据回流到投入和实施过程。这种双向结构使逻辑模型成为[[Formative Program Evaluation|形成性项目评价]]和持续改进之间的桥梁([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
 
@@ -76,7 +77,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 > 逻辑模型可以帮助组织证据，但不能自动解决价值冲突。[[Students and Teachers Accessing Tomorrow|STAT]] 中，逻辑模型帮助利益相关者理解实施里程碑和阶段性结果，但当部分群体更重视标准化成就而非技术公平、数字公民或课堂参与时，同一组证据仍会产生分歧解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 
 > [!warning]
-> 逻辑模型也不能替代因果识别。即使模型清楚呈现项目链条，复杂改革仍可能缺乏纯控制条件，并与其他课程和组织变化混杂，因此难以证明项目的单独因果效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.124]])。
+> 逻辑模型也不能替代[[Causality|因果]]识别。即使模型清楚呈现项目链条，复杂改革仍可能缺乏纯控制条件，并与其他课程和组织变化混杂，因此难以证明项目的单独因果效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.124]])。
 
 ## 相关理论
 

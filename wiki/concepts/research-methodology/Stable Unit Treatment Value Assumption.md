@@ -16,6 +16,7 @@ tags:
 - causal-inference
 - subject/research-methodology
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Confidence Interval]]"
   - "[[Ontology]]"
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 稳定单位处理价值假设（Stable Unit Treatment Value Assumption, SUTVA）是[[Potential Outcomes Framework|潜在结果框架]]下[[Causality|因果推断]]的一个核心假定：每个研究主体的潜在结果仅取决于该主体自身接受的处理，不受其他主体接受何种处理的影响。当 SUTVA 被违反时，即出现**主体间干扰**（subject interference），因果效应不再被唯一地定义——每个可能的研究单位分配方式都可能产生不同的因果效应([[Argument_Berk_2011_ER|Berk, 2011, pp.194–195]])。
+> 稳定单位处理价值[[Hypothesis|假设]]（Stable Unit Treatment Value Assumption, SUTVA）是[[Potential Outcomes Framework|潜在结果框架]]下[[Causality|因果推断]]的一个核心假定：每个研究主体的潜在结果仅取决于该主体自身接受的处理，不受其他主体接受何种处理的影响。当 SUTVA 被违反时，即出现**主体间干扰**（subject interference），因果效应不再被唯一地定义——每个可能的研究单位分配方式都可能产生不同的因果效应([[Argument_Berk_2011_ER|Berk, 2011, pp.194–195]])。
 >
 > > "Because the outcome for any one student depends on the students with whom he or she interacts, and because that depends on which students are assigned to which interventions, causal effects are defined not just by the interventions, but by which students happen to be assigned where." ([[Argument_Berk_2011_ER|Berk, 2011, p.195]])
 
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 > - 同一教室内的学生之间会互动，因此测量的结果在学生之间不是独立实现的——"一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])
 
 
-> [!abstract] 后果：单一因果效应的消失
+> [!abstract] 后果：单一[[Causality|因果]]效应的消失
 > 当 SUTVA 被违反时，"对于研究单位的每一种可能的重新洗牌，都存在一个因果效应，单一的因果效应不再存在"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])。这意味着：
 >
 > - 因果效应部分由随机分配的结果决定——哪些学生恰好被分配到哪里
@@ -66,13 +67,13 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Cluster Randomized Trials]] — SUTVA 是 CRT 设计中的一个核心威胁；CRT 设计正是因干预需要在集群层面实施而产生，但由此引入的 SUTVA 违反常被研究者忽视
-> - vs [[Potential Outcomes Framework]] — SUTVA 是该框架下因果效应能够被唯一定义的前提条件之一
+> - vs [[Potential Outcomes Framework]] — SUTVA 是该框架下[[Causality|因果]]效应能够被唯一定义的前提条件之一
 > - vs [[Randomised Controlled Trials]] — 个体[[Random Assignment|随机分配]]的 RCT 同样需要满足 SUTVA，但在集群随机化中 SUTVA 违反更为系统性和难以避免
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 指出，SUTVA 违反虽然被认为"只是"统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救），但"问题远为严重"——它从[[Ontology|本体论]]层面动摇了因果效应的可定义性。然而，部分研究者可能认为这一区分过于学术化，对实践政策的直接影响有限
+> - [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 指出，SUTVA 违反虽然被认为"只是"统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救），但"问题远为严重"——它从[[Ontology|本体论]]层面动摇了[[Causality|因果]]效应的可定义性。然而，部分研究者可能认为这一区分过于学术化，对实践政策的直接影响有限
 
 ## 相关案例／政策
 

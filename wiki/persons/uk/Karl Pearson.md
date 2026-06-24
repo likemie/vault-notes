@@ -18,6 +18,7 @@ tags:
 - methodology
 - region/uk
 related_concepts:
+  - "[[Causality]]"
   - "[[Forest Plot]]"
 related_theories: []
 related_methods:
@@ -46,7 +47,7 @@ updated: '2026-06-08'
 
 > [!note]-
 > - 1857年出生于英国伦敦
-> - 1904年在《英国医学杂志》发表伤寒疫苗接种数据的跨研究合并分析，首次提出合并多项研究数据以回答因果问题的思想([[Argument_Higgins_2016_RE|Higgins, 2016, p.33]])
+> - 1904年在《英国医学杂志》发表伤寒疫苗接种数据的跨研究合并分析，首次提出合并多项研究数据以回答[[Causality|因果]]问题的思想([[Argument_Higgins_2016_RE|Higgins, 2016, p.33]])
 > - 担任伦敦大学学院高尔顿优生学教授及高尔顿实验室主任
 > - 1936年逝世
 

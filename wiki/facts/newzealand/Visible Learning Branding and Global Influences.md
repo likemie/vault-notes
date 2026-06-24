@@ -40,8 +40,10 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Lost Mode]]"
   - "[[Evidence-Based Education]]"
+  - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Cult of the Guru]]"
+  - "[[Causality]]"
   - "[[Material Fallacies]]"
   - "[[Surface and Deep Learning]]"
   - "[[Global Education Reform Movement]]"
@@ -281,7 +283,7 @@ updated: '2026-05-18'
 > - **2014 年政策采纳**：丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - **政策捆绑与阻力**：改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk]] 汇集了多篇强烈批评文章([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
-> - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的假设"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
+> - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的[[Hypothesis|假设]]"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 > - **Laursen 的适用性检验**：[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–40]])
 >
 > #### 瑞典
@@ -321,7 +323,7 @@ updated: '2026-05-18'
 >
 > **（2）术语口号化。** "优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）在新西兰学术和政策话语中日益被当作口号使用——引发"基于词汇熟悉度而非理性的膝跳反射式赞同或反对"（Kreeft, 2010, p.78）（ONeill, 2012, pp.154-155）。
 >
-> **（3）Hattie 本人警示被系统性忽略。** Treasury 忽略了 Hattie 的多处关键警示：相关不等于因果（p.3）、成功效应多来自创新而非日常课堂（p.6）、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据（p.255）。更严重的是，Treasury 建议增加生师比直接与 Hattie 本人结论矛盾——"[[Effect Size|效应量]]的正向符号表明增加[[Class Size|班级规模]]是糟糕的政策"（Hattie, 2009a, p.88）（ONeill, 2012, pp.156-157）。
+> **（3）Hattie 本人警示被系统性忽略。** Treasury 忽略了 Hattie 的多处关键警示：相关不等于[[Causality|因果]]（p.3）、成功效应多来自创新而非日常课堂（p.6）、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据（p.255）。更严重的是，Treasury 建议增加生师比直接与 Hattie 本人结论矛盾——"[[Effect Size|效应量]]的正向符号表明增加[[Class Size|班级规模]]是糟糕的政策"（Hattie, 2009a, p.88）（ONeill, 2012, pp.156-157）。
 >
 > **（4）综合混入非学校阶段研究。** Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均效应量和排名位置（ONeill, 2012, pp.155-156）。
 >

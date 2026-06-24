@@ -20,6 +20,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Screening Off]]"
+  - "[[Causality]]"
   - "[[Learning Gap]]"
   - "[[Policy Network]]"
   - "[[Reflexivity]]"
@@ -88,7 +89,7 @@ updated: 2026-06-16
 ## 适用边界
 
 > [!theory-boundary] 理论边界与缺失
-> - **社会与情境维度的遮蔽**：[[Central Limit Theorem|CLT]] 将学习完全还原为个体大脑内部的生理机制，系统性地[[Screening Off|屏蔽]]了学习的社会性、文化背景以及人际互动。[[Lev Vygotsky|维果茨基]]的社会文化理论强调，学习是一个深植于社会历史和人际交流的动态过程，单纯的因果生理逻辑无法解释意义的共同生成（Biesta et al., 2015; Vygotsky）。
+> - **社会与情境维度的遮蔽**：[[Central Limit Theorem|CLT]] 将学习完全还原为个体大脑内部的生理机制，系统性地[[Screening Off|屏蔽]]了学习的社会性、文化背景以及人际互动。[[Lev Vygotsky|维果茨基]]的社会文化理论强调，学习是一个深植于社会历史和人际交流的动态过程，单纯的[[Causality|因果]]生理逻辑无法解释意义的共同生成（Biesta et al., 2015; Vygotsky）。
 > - **新手限制**：CLT 的许多教学建议仅适用于新手的初始学习阶段。随着学习者转化为专家，原本有效的明确指导可能产生“专业反转效应”（Expertise Reversal Effect），反而增加外在负荷。
 
 ---
@@ -112,4 +113,4 @@ updated: 2026-06-16
 > [!ref-table] 相关条目索引
 > | 条目 | 关系说明 | 来源 |
 > |---|---|---|
-> | [[Argument_Skourdoumbis_2024_AER]] | 分析了 CLT 在澳大利亚《强劲开端》报告中如何被作为强制性国家认证核心大纲的科学依据。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 6–7]] |
+> | [[Argument_Skourdoumbis_2024_AER]] | 分析了 [[Central Limit Theorem\|CLT]] 在澳大利亚《强劲开端》报告中如何被作为强制性国家认证核心大纲的科学依据。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 6–7]] |
