@@ -4,7 +4,7 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

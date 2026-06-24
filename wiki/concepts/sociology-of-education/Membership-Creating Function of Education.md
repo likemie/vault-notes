@@ -5,7 +5,7 @@ aliases:
 summary: "现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

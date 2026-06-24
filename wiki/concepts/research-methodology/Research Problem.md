@@ -4,7 +4,7 @@ aliases: ["研究议题", "research problems"]
 summary: "学术研究中引导研究需求的难题或议题，区别于通过数据来回答的研究问题句（research questions），可来自个人经验、文献争论或政策讨论"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

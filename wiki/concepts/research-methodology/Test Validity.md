@@ -8,7 +8,7 @@ aliases:
 summary: "确保教育测验和评估工具有效性的多重效度类型体系，涵盖内容效度、效标关联效度、构念效度、共时效度、表面效度、陪审团效度、预测效度、后果效度和系统效度九种类型"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

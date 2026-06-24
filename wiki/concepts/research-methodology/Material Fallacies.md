@@ -5,7 +5,7 @@ aliases:
 summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

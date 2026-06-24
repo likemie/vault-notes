@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学生差异调整内容、节奏与支持方式的教学安排，但其效果高度依赖教师结构和学生前提条件，不能简单等同于把学习责任交给学生。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

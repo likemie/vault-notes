@@ -8,10 +8,10 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - region/france
   - postmodernism

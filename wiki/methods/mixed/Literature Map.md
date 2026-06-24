@@ -5,7 +5,7 @@ summary: "Creswell 提出的文献组织工具，以层级结构、流程图或�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"

@@ -9,7 +9,7 @@ aliases:
 summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

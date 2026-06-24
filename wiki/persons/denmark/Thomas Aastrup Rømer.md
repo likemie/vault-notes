@@ -7,10 +7,10 @@ summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - rmer
 - educational-philosophy

@@ -6,7 +6,7 @@ aliases:
 summary: "以复杂问题驱动学习过程的教学方法，强调学生围绕真实或拟真的问题开展探究、协作和知识应用。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

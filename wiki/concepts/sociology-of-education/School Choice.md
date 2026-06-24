@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择学校的做法，受家庭经济、文化和社会资本影响，是一种按社会阶层分层的实践，市场化择校与城镇化驱动的择校形构了不同的分层机制"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

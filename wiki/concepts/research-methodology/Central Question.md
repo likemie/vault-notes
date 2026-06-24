@@ -10,7 +10,7 @@ aliases:
 summary: "质性研究中询问核心现象的主要开放性问题，通常一至两个，以 what 或 how 开头，使用探索性动词并避免方向性语言，辅以五至七个子问题收窄焦点用于数据收集"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

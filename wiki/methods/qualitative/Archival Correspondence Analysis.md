@@ -8,7 +8,7 @@ summary: "利用个人通信、报纸报道和外交函件等一手档案资料�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

@@ -6,10 +6,10 @@ aliases:
 summary: "组织为其他行动者、非行动者实体或抽象原则行使代理权的社会过程，用于解释现代机构如何代表更广泛价值与权威行动"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - level/higher-ed
 - region/global

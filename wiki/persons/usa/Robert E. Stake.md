@@ -8,7 +8,7 @@ summary: "美国著名的评估理论家和质性研究专家，以开发响应�
 type: person
 nationality: usa
 person_region: "usa"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

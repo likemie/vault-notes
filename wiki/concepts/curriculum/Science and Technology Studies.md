@@ -6,7 +6,7 @@ aliases:
 summary: "跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

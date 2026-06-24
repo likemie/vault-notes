@@ -5,7 +5,7 @@ aliases:
 summary: "社会心理学概念，指个体意识到针对自身群体的负面刻板印象时产生的额外情感与认知负担，进而影响表现、参与和认同。"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -7,7 +7,7 @@ summary: "巴西演员和剧场导演，社区剧场项目组织者，为教育�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

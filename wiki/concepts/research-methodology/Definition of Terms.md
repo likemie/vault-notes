@@ -4,7 +4,7 @@ aliases: ["术语定义", "操作性定义", "operational definition", "defining
 summary: "研究计划中对关键术语的精确界定，遵循操作化、首次出现即定义、使用文献约定语言等原则，在量化、质性和混合方法研究中有不同的处理策略"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

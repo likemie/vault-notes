@@ -7,7 +7,7 @@ summary: "丹麦理论心理学家，社会实践学习与 Visible Learning 批�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

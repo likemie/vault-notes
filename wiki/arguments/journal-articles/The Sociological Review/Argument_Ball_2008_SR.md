@@ -43,7 +43,7 @@ title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

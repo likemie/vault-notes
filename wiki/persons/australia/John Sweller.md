@@ -6,7 +6,7 @@ summary: "澳大利亚教育心理学家，新南威尔士大学名誉教授，�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

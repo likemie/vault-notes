@@ -8,7 +8,7 @@ summary: "质性研究中收集和分析公共文件与私人文件作为数据�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 2
+method_related_count: 3
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"

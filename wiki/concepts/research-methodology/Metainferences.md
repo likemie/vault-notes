@@ -9,7 +9,7 @@ aliases:
 summary: "混合方法研究中研究者从联合展示分析中得出的整合性洞察，过程是先分别得出量化推论和质性推论，再基于两者的组合得出超越单一数据类型的额外推论"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

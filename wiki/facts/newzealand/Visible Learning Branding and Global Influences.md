@@ -8,7 +8,7 @@ subtype: event
 region: newzealand
 fact_region: "newzealand"
 fact_kind: "event"
-fact_related_count: 60
+fact_related_count: 61
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"

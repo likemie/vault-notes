@@ -7,7 +7,7 @@ aliases:
 summary: "因果模型中对变量的结构区分：外生变量不被模型中其他变量所引起，内生变量受模型中其他变量的影响。与递归/非递归模型和因果网络密切相关"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

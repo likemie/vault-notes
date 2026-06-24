@@ -7,10 +7,10 @@ summary: "美国教育心理学家，证据本位教育改革奠基人和 Succes
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - robert-slavin
 - evidence-based-education

@@ -4,7 +4,7 @@ aliases: ["叙事钩子", "narrative hooks", "opening hook"]
 summary: "学术引言中用于吸引读者进入研究的开篇语句，通过问题、数字冲击或适度概括性语言激发阅读兴趣，源自英语写作中的 narrative hook 概念"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

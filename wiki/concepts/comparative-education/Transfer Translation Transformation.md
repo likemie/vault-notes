@@ -8,10 +8,10 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）拓展的教育知识流动三阶段分析框架，包括转移（跨境移动）、转译（本土政策重释）与转化（微观实践中受社会权力挤压而产生的结构重塑）"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/knowledge-transfer
   - theme/comparative-education

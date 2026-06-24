@@ -9,7 +9,7 @@ summary: "将量化和质性数据及核心混合方法设计嵌入评价框架�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#fef3c7"

@@ -7,10 +7,10 @@ aliases:
 summary: "量化研究计划中专门阐述理论框架的独立章节，说明研究采用的理论、其核心命题和假设、已有应用文献，以及该理论如何连接到当前研究的变量和假设"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist

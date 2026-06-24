@@ -7,10 +7,10 @@ aliases:
 summary: "效标关联效度的一种形式，使用一种工具收集的数据与同时使用另一种工具收集的数据高度一致，是三角验证和替代工具验证的核心逻辑"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

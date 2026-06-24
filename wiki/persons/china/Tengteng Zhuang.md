@@ -7,7 +7,7 @@ summary: "中国教育研究者，中国教育实证研究文献计量整理者�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

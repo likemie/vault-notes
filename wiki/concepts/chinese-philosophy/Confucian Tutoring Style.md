@@ -7,10 +7,10 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/learning
   - theme/parenting

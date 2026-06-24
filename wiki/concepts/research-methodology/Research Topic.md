@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计的出发点，指计划研究的主题或题材，涉及选题来源的分类、重要性与贡献性的多维评估、可行性判断、角度创新以及工作标题的草拟"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

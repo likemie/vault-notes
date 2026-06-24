@@ -7,9 +7,9 @@ summary: "美国教育研究者，改进科学教育化引介者，为教育研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
 - catherine-lewis

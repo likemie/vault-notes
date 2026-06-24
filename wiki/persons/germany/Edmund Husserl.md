@@ -8,7 +8,7 @@ summary: "德国哲学家与数学家，现象学的创始人，提出悬置（e
 type: person
 nationality: "德国"
 person_region: "德国"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

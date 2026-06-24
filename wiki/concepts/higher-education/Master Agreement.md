@@ -10,7 +10,7 @@ aliases:
 summary: "产学合作中一次性覆盖知识产权、赔偿、治理、出版、保密、出口管制等基础条款的框架性法律协议，后续每个具体项目无需重新谈判这些条款，降低重复合作的交易成本"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

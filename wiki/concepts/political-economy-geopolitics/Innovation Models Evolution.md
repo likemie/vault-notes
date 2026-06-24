@@ -9,7 +9,7 @@ aliases:
 summary: "Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

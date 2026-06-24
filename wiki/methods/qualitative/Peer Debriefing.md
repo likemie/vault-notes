@@ -9,7 +9,7 @@ summary: "Lincoln 和 Guba 建立质性研究可信性的六项核心策略之�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"

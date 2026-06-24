@@ -5,7 +5,7 @@ aliases:
 summary: "瑞典课程改革语境中的教学组织概念，强调教师领导、清晰目标、课堂管理与学生逐步发展自主学习之间的平衡。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

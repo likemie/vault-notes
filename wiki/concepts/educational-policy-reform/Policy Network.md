@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、跨国基金会和私有公司等多元公私行动者交织而成的网状治理结构，通过理念编排和共生利益机制影响教育政策走向。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

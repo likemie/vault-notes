@@ -8,7 +8,7 @@ aliases:
 summary: "收集多种量化数据来源或多种质性数据来源的研究方法，与混合方法研究的关键区别是不需要同时包含量化和质性两类数据，也不需要数据整合"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

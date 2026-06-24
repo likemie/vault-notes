@@ -7,7 +7,7 @@ aliases:
 summary: "以学校差异解释学生成绩差异的研究取向，在政策中把学校转译为可测量、可比较、可干预的组织对象。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -4,7 +4,7 @@ aliases: ["既往文献缺陷", "文献缺口", "literature gaps", "deficiencies
 summary: "已有研究中存在的缺口、不足或忽略之处，用于为新研究提供合法化空间，涵盖未探索主题、方法缺陷和理论不足等类型"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

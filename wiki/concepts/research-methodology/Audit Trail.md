@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中系统记录研究全过程证据的程序，涵盖原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息，是保障研究可确认性和可依赖性的核心操作"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
