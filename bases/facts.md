@@ -99,6 +99,57 @@ views:
         direction: DESC
 
   - type: table
+    name: 热门 / 美国
+    filters:
+      and:
+        - 'fact_region == "us" || fact_region == "US" || fact_region == "usa" || fact_region == "USA" || fact_region == "united-states"'
+    order:
+      - file.name
+      - summary
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
+      - tags
+      - updated
+    sort:
+      - property: fact_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 全球
+    filters:
+      and:
+        - 'fact_region == "global"'
+    order:
+      - file.name
+      - summary
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
+      - tags
+      - updated
+    sort:
+      - property: fact_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 中国
+    filters:
+      and:
+        - 'fact_region == "china" || fact_region == "China"'
+    order:
+      - file.name
+      - summary
+      - fact_kind
+      - fact_related_stars
+      - fact_related_count
+      - tags
+      - updated
+    sort:
+      - property: fact_related_count
+        direction: DESC
+
+  - type: table
     name: 按类型分组
     groupBy:
       property: fact_kind

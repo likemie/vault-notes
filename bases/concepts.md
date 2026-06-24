@@ -92,4 +92,52 @@ views:
       - property: related_count
         direction: DESC
 
+  - type: table
+    name: 热门 / 研究方法
+    filters:
+      and:
+        - 'domain == "research-methodology"'
+    order:
+      - file.name
+      - summary
+      - related_stars
+      - related_count
+      - tags
+      - updated
+    sort:
+      - property: related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 高等教育
+    filters:
+      and:
+        - 'domain == "higher-education"'
+    order:
+      - file.name
+      - summary
+      - related_stars
+      - related_count
+      - tags
+      - updated
+    sort:
+      - property: related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 政治经济
+    filters:
+      and:
+        - 'domain == "political-economy-geopolitics"'
+    order:
+      - file.name
+      - summary
+      - related_stars
+      - related_count
+      - tags
+      - updated
+    sort:
+      - property: related_count
+        direction: DESC
+
 ```

@@ -92,4 +92,52 @@ views:
       - property: person_related_count
         direction: DESC
 
+  - type: table
+    name: 热门 / 英国
+    filters:
+      and:
+        - 'person_region == "uk" || person_region == "UK"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 美国
+    filters:
+      and:
+        - 'person_region == "us" || person_region == "US" || person_region == "usa" || person_region == "USA" || person_region == "united-states"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 中国
+    filters:
+      and:
+        - 'person_region == "china" || person_region == "China"'
+    order:
+      - file.name
+      - summary
+      - person_related_stars
+      - person_related_count
+      - tags
+      - updated
+    sort:
+      - property: person_related_count
+        direction: DESC
+
 ```

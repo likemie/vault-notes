@@ -95,6 +95,42 @@ views:
         direction: DESC
 
   - type: table
+    name: 热门 / 期刊论文
+    filters:
+      and:
+        - 'argument_kind == "journal-article"'
+    order:
+      - argument_display_title
+      - summary
+      - authors
+      - year
+      - argument_related_stars
+      - argument_related_count
+      - journal
+      - updated
+    sort:
+      - property: argument_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 书
+    filters:
+      and:
+        - 'argument_kind == "book" || argument_kind == "books"'
+    order:
+      - argument_display_title
+      - summary
+      - authors
+      - year
+      - argument_related_stars
+      - argument_related_count
+      - journal
+      - updated
+    sort:
+      - property: argument_related_count
+        direction: DESC
+
+  - type: table
     name: 按年份分组
     groupBy:
       property: year

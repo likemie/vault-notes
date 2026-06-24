@@ -78,6 +78,51 @@ views:
       - property: updated
         direction: DESC
 
+  - type: cards
+    name: 热门 / 质性
+    image: method_related_color
+    filters:
+      and:
+        - 'method_family == "qualitative"'
+    order:
+      - file.name
+      - summary
+      - method_related_stars
+      - method_related_count
+    sort:
+      - property: method_related_count
+        direction: DESC
+
+  - type: cards
+    name: 热门 / 量化
+    image: method_related_color
+    filters:
+      and:
+        - 'method_family == "quantitative"'
+    order:
+      - file.name
+      - summary
+      - method_related_stars
+      - method_related_count
+    sort:
+      - property: method_related_count
+        direction: DESC
+
+  - type: cards
+    name: 热门 / 混合
+    image: method_related_color
+    filters:
+      and:
+        - 'method_family == "mixed"'
+    order:
+      - file.name
+      - summary
+      - method_related_stars
+      - method_related_count
+    sort:
+      - property: method_related_count
+        direction: DESC
+
   - type: table
     name: 按路径分组
     groupBy:

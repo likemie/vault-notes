@@ -92,4 +92,52 @@ views:
       - property: theory_related_count
         direction: DESC
 
+  - type: table
+    name: 热门 / 教育哲学
+    filters:
+      and:
+        - 'theory_field == "educational-philosophy"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 教育社会学
+    filters:
+      and:
+        - 'theory_field == "sociology-of-education"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 热门 / 研究方法
+    filters:
+      and:
+        - 'theory_field == "research-methodology"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
 ```
