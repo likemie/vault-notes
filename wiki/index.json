@@ -5718,6 +5718,16 @@
     ]
   },
   {
+    "title": "Primary Document",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Primary Document.md",
+    "aliases": [
+      "一手文献",
+      "primary source",
+      "原始文献"
+    ]
+  },
+  {
     "title": "Privacy in Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Privacy in Research.md",
@@ -6119,6 +6129,15 @@
       "筛选隔离",
       "屏蔽",
       "screening off"
+    ]
+  },
+  {
+    "title": "Secondary Document",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Secondary Document.md",
+    "aliases": [
+      "二手文献",
+      "secondary source"
     ]
   },
   {
@@ -7927,6 +7946,15 @@
       "档案通信分析",
       "历史通信分析",
       "档案研究"
+    ]
+  },
+  {
+    "title": "Archival Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Archival Research.md",
+    "aliases": [
+      "档案研究",
+      "archival method"
     ]
   },
   {
