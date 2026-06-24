@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-person.md",
+                "file": "wiki/persons/france/Jean-François Lyotard.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-person"
+              "title": "Jean-François Lyotard"
             }
           },
           {
@@ -36,8 +36,24 @@
               "icon": "lucide-file",
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
             }
+          },
+          {
+            "id": "f241181d2b5120b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/methods/qualitative/Theoretical Sampling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Theoretical Sampling"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,16 +221,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "wiki/methods/qualitative/Theoretical Sampling.md",
+    "wiki/concepts/research-methodology/Domain Analysis.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
+    "wiki/persons/france/Jean-François Lyotard.md",
+    "wiki/concepts/research-methodology/Face Validity.md",
+    "wiki/concepts/research-methodology/Progressive Focussing.md",
+    "wiki/methods/qualitative/Qualitative Interview.md",
+    "wiki/concepts/comparative-education/Governance by Spin.md",
+    "wiki/concepts/research-methodology/Analytic Induction.md",
     "wiki/templates/template-method.md",
     "wiki/templates/template-person.md",
-    "wiki/templates/TEMPLATE-SPEC.md",
     "wiki/templates/template-theory.md",
-    "wiki/persons/france/Jean-François Lyotard.md",
+    "wiki/templates/TEMPLATE-SPEC.md",
     "Clippings/Jean-François Lyotard.md",
     "Clippings/Jean-François Lyotard - Wikipedia, la enciclopedia libre.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
     "wiki/methods/qualitative/Triangulation.md",
     "wiki/concepts/research-methodology/Emergence.md",
     "wiki/concepts/research-methodology/Emergent Design.md",
@@ -226,13 +249,6 @@
     "wiki/methods/qualitative/Participant Observation.md",
     "wiki/concepts/research-methodology/Naturalistic Generalization.md",
     "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
-    "wiki/methods/qualitative/Ethnography.md",
-    "wiki/concepts/research-methodology/Emic and Etic.md",
-    "wiki/concepts/research-methodology/Interpretive Paradigm.md",
-    "wiki/concepts/research-methodology/Trustworthiness.md",
-    "wiki/concepts/research-methodology/Construct.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
-    "wiki/persons/spain/Manuel Castells.md",
     "wiki/concepts/research-methodology/Domain Analysis.md.tmp.88633.e1c0441cb781",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md.tmp.88633.3cde59aa3fbc",
     "raw/025_11 Naturalistic, qualitative and ethnographic research.txt",

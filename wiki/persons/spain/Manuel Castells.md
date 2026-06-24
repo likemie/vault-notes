@@ -8,10 +8,10 @@ summary: "西班牙社会学家，信息时代和网络社会理论的主要奠�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 18
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - field/sociology
   - theory/informationalism

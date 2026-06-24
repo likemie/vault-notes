@@ -37,7 +37,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> [[Non-probability Sampling|理论抽样]]（Theoretical Sampling）是[[Grounded Theory|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、[[Coding in Qualitative Research|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至理论饱和（[[Saturation|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967: 61）。
+> 理论抽样（Theoretical Sampling）是[[Grounded Theory|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、[[Coding in Qualitative Research|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至理论饱和（[[Saturation|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967: 61）。
 
 > [!method-scope] 方法范围
 > - **研究对象**：能够推动理论发展的群体、个体或情境
@@ -73,7 +73,35 @@ updated: 2026-06-22
 > - **饱和判断主观性**：何谓"不再推进理论"依赖研究者判断。
 > - **时间与资源**：理论饱和可能需要大量数据收集和分析，对时间与资源要求高。
 
+## 理论抽样的操作案例
+
+Flick（2004b: 151）将理论抽样称为"[[Qualitative Research|质性研究]]的皇家大道"。以下教育案例展示了其完整操作逻辑（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 421–423）：
+
+> [!exegesis]- 理论抽样的教育研究案例
+> 第一步：研究者访谈教师士气→初步理论生成：士气受破坏性学生行为负面影响→进行"关键案例抽样"：访谈面对大量破坏性学生的高困难校教师。
+>
+> 意外发现：这些教师反而有高士气——因为他们习惯了对问题学生的期望（不惊讶不受威胁），且同事之间提供巨大相互支持——大家都深知与挑战学生共事的感受。
+>
+> 焦点转移：转向破坏性学生很少的学校——竟发现这群教师经历极低士气。研究者假设逻辑链浮现：高期望→仅一二学生不遵守→期望落空→更高士气打击（因为被视为教师弱点，同事互助少）。理论被精炼：教师士气受期望的影响大于受破坏性行为本身→进行"最大变异抽样"→跨校探究期望与士气的关系。抽样随研究推进和理论[[Emergence|涌现]]而变化——这就是理论抽样。
+
+Ezzy（2002: 74–75）在其失业研究中给出了另一个示例：初步理论认为失业者的痛苦程度受财务困难影响。他访谈了有债务和无债务的低收入与高收入失业群体，发现痛苦程度更受收入与债务之比的影响，而非绝对收入水平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 422)]]
+
+---
+
+## 与相关方法的关系
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Analytic Induction\|分析归纳法]] | 概念 | 理论抽样的延伸（Znaniecki, 1934）。从理论出发，有意寻找偏差或否证案例，通过 Popper 式证伪检验增强最终理论的稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 423–424)]] |
+> | [[Saturation\|理论饱和]] | 概念 | 理论抽样的终点标准（Glaser & Strauss, 1967: 61）：额外数据不再推进、修正、精炼或导致理论调整时达到。需谨慎避免过早终止数据收集，进一步抽样可能重组理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 423–424)]] |
+> | [[Grounded Theory\|扎根理论]] | 方法 | 理论抽样是扎根理论的核心抽样机制——两者互为前提：扎根理论从数据中涌现，理论抽样随理论涌现调整下一步数据收集方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 421–423)]] |
+
+---
+
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍[[Non-probability Sampling|理论抽样]]作为[[Grounded Theory|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的理论饱和概念。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样作为[[Grounded Theory|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的理论饱和概念。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 通过教育案例（教师士气研究）和 Ezzy 失业研究展示理论抽样的完整操作逻辑，阐述其与[[Analytic Induction|分析归纳法]]的延伸关系，以及理论饱和的终点标准。

@@ -8,10 +8,10 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 12
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - region/france
   - postmodernism
@@ -56,46 +56,29 @@ updated: 2026-06-24
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 法国[[Post-structuralism|后结构主义]]哲学家、文学理论家。
+> - **身份位置** 法国[[Post-structuralism|后结构主义]]哲学家、社会学家和文学理论家。
 > - **核心角色** 后现代知识[[Van Leeuwen's Legitimation Theory|合法化理论]]与绩效性（[[Performativity]]）概念的奠基人。在教育研究中，其绩效性概念被广泛用于解释[[Global Policy Space|全球政策空间]]中超国家机构的影响力竞争、评估（如 [[PISA]]）机制与量化绩效管理。
-> - **代表贡献** 提出了后现代的定义（对元叙事的怀疑）、绩效性（Performativity）、[[Narrative Knowledge|叙事知识]]与科学知识的区分。
-
----
-
-## 条目关联
-
-> [!entry-map]
-> | 类型 | 条目 | 贡献 |
-> |:-----|:-----|:-----|
-> | 概念 | [[Performativity]] | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心的合法化逻辑，揭示评估体系的“恐怖”机制。 |
-> | 概念 | [[Narrative Knowledge]] | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。 |
-> | 概念 | [[Postmodernism]] | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。 |
-> | 概念 | [[Governance by Spin]] | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier\|漂浮能指]]话语，进而催生了国家的舆论操控治理。 |
-> | 概念 | [[Incommensurability]] | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。 |
-> | 概念 | [[Post-structuralism]] | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory\|批判理论]]中对主导叙事的反抗。 |
-> | 概念 | [[Geopolitics of Knowledge]] | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。 |
-> | 概念 | [[Academic Capitalism]] | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。 |
-> | 理论 | [[Phenomenology]] | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。 |
-> | 政策 | [[PISA]] | 其评估与排名机制在学校实践中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |
-
+> - **代表贡献** 提出了后现代的定义（对元叙事的怀疑）、绩效性（[[Performativity]]）与[[Narrative Knowledge|叙事知识]]的区分。
 
 ---
 
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1924** 出生于法国凡尔赛。少年时曾梦想成为艺术家、历史学家、多明我会修士或作家（15岁时因写小说失败而放弃）。
+> - **1924** 出生于法国凡尔赛。少年时曾梦想成为艺术家、历史学家、多明我会修士或作家（15岁时因写第一部虚构小说失败而放弃）。
 > - **1944** 在二战解放巴黎期间担任战场医护人员。
-> - **1940s末** 两次报考巴黎高等师范学院（ENS）失败，后进入索邦大学学习哲学。1947年完成高等教育学位论文《作为伦理概念的无差别》，研究禅宗、斯多葛学派、道家和伊壁鸠鲁学派。
+> - **1940s末** 两次报考巴黎高等师范学院（ENS）失败，后进入索邦大学学习哲学。1947年完成学位论文《作为伦理概念的无差别》，探讨禅宗、斯多葛学派、道家和伊壁鸠鲁学派。
 > - **1950** 通过哲学教师资格考试（agrégation，与德勒兹、沙特莱、米歇尔·布托尔为同期同学），赴阿尔及利亚的君士坦丁任教。
-> - **1954–1964** 加入极左翼组织“社会主义或野蛮”（Socialisme ou Barbarie），使用化名 **François Laborde** 撰写多篇分析阿尔及利亚独立运动的文章，并秘密支持阿尔及利亚民族解放阵线（FLN）。1964年因分裂离开该组织。
+> - **1952** 返回法国本土，在拉弗莱什的国立军事学校任教。
+> - **1954–1964** 加入极左翼组织“社会主义或野蛮”（Socialisme ou Barbarie），使用化名 **François Laborde** 撰写多篇分析阿尔及利亚独立运动的文章，并秘密支持阿尔及利亚民族解放阵线（FLN）。1964年离开该组织并加入分裂出的“工人力量”（Pouvoir Ouvrier），后于1966年辞职。
 > - **1968** 积极参与“五月风暴”运动。
 > - **1970–1987** 与德勒兹等人共同在万森纳实验大学（后巴黎第八大学）任教，成为其法国学术生涯的主要基地。
 > - **1971** 在米克尔·杜夫海纳（Mikel Dufrenne）指导下以《论述，形象》（*Discours, figure*）获国家博士学位。
 > - **1979** 受魁北克政府委托撰写并出版《后现代状况：关于知识的报告》，引入绩效性与元叙事怀疑，产生全球影响。
 > - **1982–1983** 与德里达、沙特莱等人共同创办国际哲学学院（Collège International de Philosophie），并于1985年担任第二任院长。
+> - **1985** 在蓬皮杜艺术中心与设计理论家蒂埃里·沙普（Thierry Chaput）联合策划了大型展览“非物质”（Les Immatériaux），探讨后现代信息与技术的变革。
 > - **1987–1995** 开始在跨大西洋多所大学（如加州大学欧文分校，与德里达、伊瑟尔共事）担任客座教授。
-> - **1995–1998** 担任美国埃默里大学哲学与法语讲座教授。
+> - **1995–1998** 担任美国埃默里大学哲学与法语伍德拉夫（Woodruff）讲座教授。
 > - **1998** 因白血病在巴黎逝世，安葬于拉雪兹神父公墓。
 
 ---
@@ -109,11 +92,13 @@ updated: 2026-06-24
 > | 1971 | *Discours, figure* | 国家博士论文，探讨感性/形象（figure）对语言指称逻辑的解构，反抗黑格尔美学。 | [[Narrative Knowledge]] |
 > | 1974 | *Libidinal Economy* | 《力比多经济学》，彻底批判经典马克思主义的“假意识”和结构主义对欲望的系统化压制，转向力比多强度的释放。 | [[Post-structuralism]] |
 > | 1979 | *The [[Postmodernism\|postmodern]] Condition: A Report on Knowledge* | 分析绩效性如何成为后工业社会知识合法化的主导逻辑，指出对元叙事的怀疑定义了后现代。 | [[Performativity]] |
-> | 1983 | *Le Différend* | 《分歧》，探讨不同话语规则（语言游戏）之间的[[Incommensurability\|不可通约性]]，定义“分歧”为受害者无法在主流语言规则中表达其伤害的不义境遇。 | [[Incommensurability]] |
+> | 1979 | *Au juste* | 《公正》，通过对话探讨在失去宏大叙事支撑的后现代状况下，如何建构一种保护语言游戏多样性与微观叙事的公正理论。 | [[Incommensurability]] |
+> | 1983 | *Le Différend* | 《分歧》，探讨不同话语规则（语言游戏）之间的[[Incommensurability\|不可通约性]]，定义“分歧”为受害者无法在主流语言规则中表达其伤害的不义境迎。 | [[Incommensurability]] |
 > | 1988 | *The Inhuman: Reflections on Time* | 批判“发展”已退化为无终极人文目的、纯粹自我循环的系统效率逻辑，预言技术对人性的异化。 | [[Performativity]] |
+> | 1991 | *Lectures d'enfance* | 《童年阅读》，探索抗拒技术与资本主义发展的“童年思想”（infantia），将写作视为一种永远无法偿还的情感债务。 | [[Post-structuralism]] |
 > | 1998 | *The Confession of Augustine* | 晚期出版的关于时间现象学的奥古斯丁研究，去世后于同年整理出版。 | [[Phenomenology]] |
-> 
-> 著作与思想脉络来源见：[[Argument_Partaken_2022_Springer\|Partaken, 2022]] / [[Argument_Beech_2009_CE\|Beech, 2009, pp. 352–353]]
+
+著作与思想脉络来源见：[[Argument_Partaken_2022_Springer\|Partaken, 2022]] / [[Argument_Beech_2009_CE\|Beech, 2009, pp. 352–353]]
 
 ---
 
@@ -135,7 +120,11 @@ updated: 2026-06-24
 >    “权力不仅是良好的表演性，也是有效的验证和良好的裁决。它基于效率使科学和法律合法化……因此，权力的增长及其自我合法化，现在正走上数据存储和可获取性以及信息可操作性的路线。”
 >    *“Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the growth of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.”* (Lyotard, 1979/1984, p. 47).
 > 
-> 引语出处引自：[[Argument_Beech_2009_CE\|Beech, 2009, p. 352]]
+> 4. 分歧与不义的界定：
+>    “我愿意把‘分歧’定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。如果发信者、收信者以及见证的意义被中和了，一切就像没有发生损害一样。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。”
+>    *“I would like to call a differend the case where the plaintiff is divested of the means to argue and becomes for that reason a victim. (...) A case of differend between two parties takes place when the regulation of the conflict that opposes them is done in the idiom of one of the parties while the wrong suffered by the other is not signified in that idiom.”* (Lyotard, 1983/1988, p. 9)
+
+引语出处引自：[[Argument_Beech_2009_CE\|Beech, 2009, p. 352]]
 
 ---
 
@@ -143,8 +132,8 @@ updated: 2026-06-24
 
 > [!influence-path] 影响路径
 > - **理论路径** 其[[Narrative Knowledge|叙事知识]]与科学知识的划分成为[[Critical Pedagogy|批判教育学]]和[[Geopolitics of Knowledge|知识地缘政治]]分析的关键视角；对元叙事解体的论证解释了传统国家同质化课程体系的瓦解和全球多元化话语的兴起。
-> - **政策与制度评估** 绩效性概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责 and [[Academic Capitalism|学术资本主义]]）。
-> - **跨国传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
+> - **政策与制度评估** 绩效性概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责与[[Academic Capitalism|学术资本主义]]）。
+> - **跨国／跨领域传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Beech_2009_CE\|Beech, 2009]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier|漂浮能指]]”的生存博弈机制。
@@ -152,7 +141,37 @@ updated: 2026-06-24
 
 ---
 
+## 关系网络
+
+> [!person-network] 关系网络
+> - **师承／合作者** [[Gilles Deleuze]] — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；[[Jacques Derrida]] — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
+> - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视利奥塔的后现代主义为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
+> - **机构／运动／项目** 
+>   - “社会主义或野蛮”（Socialisme ou Barbarie）极左翼政治组织 — 1954–1964年间为其核心成员，秘密支持阿尔及利亚独立运动。
+>   - 国际哲学学院（Collège International de Philosophie） — 1983年由德里达、利奥塔等人联合创办，利奥塔曾任第二任院长。
+>   - “非物质”（Les Immatériaux）展览 — 1985年利奥塔在蓬皮杜艺术中心联合策划的具有里程碑意义的大型多媒体艺术展览。
+
+---
+
 ## 争议与批评
 
 > [!critique]- 批评索引
 > - [[Argument_Beech_2009_CE\|Beech (2009, p. 352)]] — 警示绩效性逻辑的全面渗透会抹杀教育的多元价值，使教育机构退化为只关注指标量化影响力的操演机器。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+> | 类型 | 条目 | 贡献 |
+> |:-----|:-----|:-----|
+> | 概念 | [[Performativity]] | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心的合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]] |
+> | 概念 | [[Narrative Knowledge]] | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 71, 74)]] |
+> | 概念 | [[Postmodernism]] | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 74)]] |
+> | 概念 | [[Governance by Spin]] | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier\|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353, 361)]] |
+> | 概念 | [[Incommensurability]] | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]] |
+> | 概念 | [[Post-structuralism]] | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory\|批判理论]]中对主导叙事的反抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
+> | 概念 | [[Geopolitics of Knowledge]] | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75)]] |
+> | 概念 | [[Academic Capitalism]] | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
+> | 理论 | [[Phenomenology]] | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
+> | 政策 | [[PISA]] | 其评估与排名机制在学校实践中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]] |
