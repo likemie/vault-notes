@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/france/Jean-François Lyotard.md",
+                "file": "wiki/templates/template-person.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jean-François Lyotard"
+              "title": "template-person"
             }
           },
           {
@@ -207,6 +207,11 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/templates/template-method.md",
+    "wiki/templates/template-person.md",
+    "wiki/templates/TEMPLATE-SPEC.md",
+    "wiki/templates/template-theory.md",
+    "wiki/persons/france/Jean-François Lyotard.md",
     "Clippings/Jean-François Lyotard.md",
     "Clippings/Jean-François Lyotard - Wikipedia, la enciclopedia libre.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
@@ -223,16 +228,11 @@
     "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
     "wiki/methods/qualitative/Ethnography.md",
     "wiki/concepts/research-methodology/Emic and Etic.md",
-    "wiki/persons/france/Jean-François Lyotard.md",
     "wiki/concepts/research-methodology/Interpretive Paradigm.md",
     "wiki/concepts/research-methodology/Trustworthiness.md",
     "wiki/concepts/research-methodology/Construct.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
     "wiki/persons/spain/Manuel Castells.md",
-    "wiki/concepts/comparative-education/Governance by Spin.md",
-    "wiki/concepts/research-methodology/Rich and Thick Description.md",
-    "wiki/methods/qualitative/Qualitative Interview.md",
-    "wiki/methods/qualitative/Qualitative Research.md",
     "wiki/concepts/research-methodology/Domain Analysis.md.tmp.88633.e1c0441cb781",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md.tmp.88633.3cde59aa3fbc",
     "raw/025_11 Naturalistic, qualitative and ethnographic research.txt",
