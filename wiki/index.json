@@ -7782,6 +7782,15 @@
     ]
   },
   {
+    "title": "Action Research",
+    "type": "method",
+    "path": "wiki/methods/mixed/Action Research.md",
+    "aliases": [
+      "行动研究",
+      "participatory action research"
+    ]
+  },
+  {
     "title": "Case Study",
     "type": "method",
     "path": "wiki/methods/mixed/Case Study.md",
@@ -8153,6 +8162,18 @@
     "path": "wiki/methods/qualitative/Feminist Research.md",
     "aliases": [
       "女性主义研究"
+    ]
+  },
+  {
+    "title": "Fieldwork",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Fieldwork.md",
+    "aliases": [
+      "田野调查",
+      "田野工作",
+      "田野研究",
+      "实地调查",
+      "field research"
     ]
   },
   {
