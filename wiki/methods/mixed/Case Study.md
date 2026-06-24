@@ -7,6 +7,11 @@ aliases:
 summary: "以具有整体性和综合性的现象单元为研究对象，通过多种渠道收集资料，运用分析式归纳建立因果解释理论的一种研究模式"
 type: method
 method_type: mixed
+method_family: "mixed"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#fef3c7"
 tags:
   - method/case-study
   - source/textbook

@@ -7782,6 +7782,16 @@
     ]
   },
   {
+    "title": "Case Study",
+    "type": "method",
+    "path": "wiki/methods/mixed/Case Study.md",
+    "aliases": [
+      "案例研究",
+      "个案研究",
+      "case study research"
+    ]
+  },
+  {
     "title": "Convergent Design",
     "type": "method",
     "path": "wiki/methods/mixed/Convergent Design.md",
