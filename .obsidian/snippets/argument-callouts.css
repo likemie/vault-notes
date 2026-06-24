@@ -11501,6 +11501,166 @@
               0 0 0 4px rgba(215, 82, 38, 0.38);
 }
 
+/* ═══════════════════════════════════════════════════════════
+   CONTINUUM — 两极连续体谱系
+   -------------------------------------------------------
+   写法：
+     > [!continuum] 谱系名称
+     > **左极** ←——→ **右极**          ← 可选极点标签行
+     >
+     > - 左侧概念A
+     > - 右侧概念A
+     > - 左侧概念B
+     > - 右侧概念B
+   奇数项 → 左列（蓝），偶数项 → 右列（橙），自动配对
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="continuum"] {
+  --cl: 68, 105, 210;          /* 左极色：靛蓝 */
+  --cr: 195, 108, 28;          /* 右极色：琥珀橙 */
+  --cm: 130, 72, 180;          /* 中间过渡色：紫 */
+  background:
+    linear-gradient(90deg,
+      rgba(var(--cl), 0.07) 0%,
+      rgba(var(--cl), 0.02) 35%,
+      rgba(var(--cr), 0.02) 65%,
+      rgba(var(--cr), 0.07) 100%
+    ),
+    var(--background-primary);
+  border: 1px solid rgba(150, 100, 160, 0.18);
+  border-left:  4px solid rgb(var(--cl));
+  border-right: 4px solid rgb(var(--cr));
+  border-radius: 10px;
+  padding: 0.80rem 0.70rem 0.90rem;
+}
+
+.callout[data-callout="continuum"] > .callout-title {
+  color: rgb(var(--cm));
+}
+
+/* 顶部渐变谱系条 */
+.callout[data-callout="continuum"] > .callout-content::before {
+  content: "";
+  display: block;
+  height: 4px;
+  border-radius: 2px;
+  margin-bottom: 0.78rem;
+  background: linear-gradient(
+    90deg,
+    rgb(var(--cl))  0%,
+    rgb(var(--cm)) 50%,
+    rgb(var(--cr)) 100%
+  );
+}
+
+/* 极点标签行（第一个 p）：**左极** ... **右极** */
+.callout[data-callout="continuum"] > .callout-content > p:first-of-type {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.90em;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+.callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:first-of-type {
+  color: rgb(var(--cl));
+  font-size: 1.04em;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:last-of-type {
+  color: rgb(var(--cr));
+  font-size: 1.04em;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+/* 两列网格 */
+.callout[data-callout="continuum"] > .callout-content > ol,
+.callout[data-callout="continuum"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+/* 中央渐变分隔线 */
+.callout[data-callout="continuum"] > .callout-content > ol::before,
+.callout[data-callout="continuum"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 4px;
+  bottom: 4px;
+  width: 2px;
+  transform: translateX(-50%);
+  border-radius: 1px;
+  background: linear-gradient(
+    to bottom,
+    rgb(var(--cl)),
+    rgb(var(--cm)),
+    rgb(var(--cr))
+  );
+  opacity: 0.30;
+  pointer-events: none;
+}
+
+/* 左侧项（奇数） */
+.callout[data-callout="continuum"] > .callout-content > ol > li:nth-child(odd),
+.callout[data-callout="continuum"] > .callout-content > ul > li:nth-child(odd) {
+  text-align: right;
+  padding: 0.42rem 1.10rem 0.42rem 0.25rem;
+  color: rgb(var(--cl));
+  font-size: 0.88em;
+  line-height: 1.52;
+}
+
+/* 右侧项（偶数） */
+.callout[data-callout="continuum"] > .callout-content > ol > li:nth-child(even),
+.callout[data-callout="continuum"] > .callout-content > ul > li:nth-child(even) {
+  text-align: left;
+  padding: 0.42rem 0.25rem 0.42rem 1.10rem;
+  color: rgb(var(--cr));
+  font-size: 0.88em;
+  line-height: 1.52;
+}
+
+/* 隔行底色 */
+.callout[data-callout="continuum"] > .callout-content > ol > li:nth-child(4n+1),
+.callout[data-callout="continuum"] > .callout-content > ol > li:nth-child(4n+2),
+.callout[data-callout="continuum"] > .callout-content > ul > li:nth-child(4n+1),
+.callout[data-callout="continuum"] > .callout-content > ul > li:nth-child(4n+2) {
+  background: rgba(140, 100, 160, 0.045);
+}
+
+/* 每对的上边框 */
+.callout[data-callout="continuum"] > .callout-content > ol > li:nth-child(odd):not(:first-child),
+.callout[data-callout="continuum"] > .callout-content > ul > li:nth-child(odd):not(:first-child) {
+  border-top: 1px solid rgba(var(--cl), 0.10);
+}
+.callout[data-callout="continuum"] > .callout-content > ol > li:nth-child(even):not(:nth-child(2)),
+.callout[data-callout="continuum"] > .callout-content > ul > li:nth-child(even):not(:nth-child(2)) {
+  border-top: 1px solid rgba(var(--cr), 0.10);
+}
+
+/* 隐藏 list-bullet */
+.callout[data-callout="continuum"] .list-bullet { display: none !important; }
+
+/* 暗色模式 */
+.theme-dark .callout[data-callout="continuum"] {
+  --cl: 100, 145, 245;
+  --cr: 220, 138, 48;
+  --cm: 158, 100, 220;
+}
+.theme-dark .callout[data-callout="continuum"] > .callout-title {
+  color: rgb(var(--cm));
+}
+
 /* ─── fit-grid（适用判断三格 — 绿/琥珀/红 信号灯配色） ──── */
 /* ═══════════════════════════════════════════════════════════
    FIT-GRID — 方法适用性速查（竖排三段：适合 / 谨慎 / 不适合）
