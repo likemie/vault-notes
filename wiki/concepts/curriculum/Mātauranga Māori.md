@@ -17,6 +17,7 @@ tags:
   - theory/indigenous-knowledge
 related_concepts:
   - "[[Regulative and Instructional Discourse]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -42,7 +43,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 毛利知识体系（Mātauranga Māori）是毛利人的知识系统，在[[The New Zealand Curriculum|新西兰课程]]改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）中被用作[[Regulative and Instructional Discourse|规约性话语]]（[[Regulative and Instructional Discourse]]）的核心原则。课程文件声称 Te Mātaiaho 的设计旨在实现 Te Tiriti o Waitangi（怀唐伊条约）的承诺，给予毛利知识体系和毛利语言突出地位，旨在转变毛利人的教育不平等([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> 毛利知识体系（Mātauranga Māori）是毛利人的知识系统，在[[The New Zealand Curriculum|新西兰课程]]改革（[[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]]）中被用作[[Regulative and Instructional Discourse|规约性话语]]（[[Regulative and Instructional Discourse]]）的核心原则。课程[[Document|文件]]声称 Te Mātaiaho 的设计旨在实现 Te Tiriti o Waitangi（怀唐伊条约）的承诺，给予毛利知识体系和毛利语言突出地位，旨在转变毛利人的教育不平等([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 

@@ -21,6 +21,7 @@ tags:
 - doctoral-education
 related_concepts:
   - "[[Employability]]"
+  - "[[Document]]"
   - "[[Global Citizenship]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
@@ -50,7 +51,7 @@ updated: '2026-05-26'
 > [!info]
 > 在博士层次，Senekal, Munnik, and Frantz（2022）的[[Systematic Review|系统综述]]将博士毕业生特质定义为"毕业生完成博士学位后所拥有的品质、技能和能力"（引自 Spronken-Smith et al., 2024, p.87）。这一定义强调博士毕业生特质的**整体性**——不仅是研究技能，还包括人际、组织、公民和职业发展等多维能力。
 
-文献中亦使用 graduate outcomes、graduate skills、graduate qualities、graduate capabilities 等术语，与 graduate attributes 基本同义（Barrie et al., 2009; 引自 Wong et al., 2022, p.1341）。
+[[Document|文献]]中亦使用 graduate outcomes、graduate skills、graduate qualities、graduate capabilities 等术语，与 graduate attributes 基本同义（Barrie et al., 2009; 引自 Wong et al., 2022, p.1341）。
 
 > [!quote]
 > "the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution"（Bowden et al., 2000, p.3）

@@ -19,6 +19,7 @@ tags:
   - policy/neoliberalism
 related_concepts:
   - "[[Cultural Capital]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -61,7 +62,7 @@ updated: 2026-05-26
 
 ### 文化资本
 
-受教育程度较高的家长更熟悉教育体系和择校市场，其子女也更容易通过面试和入学考试等选拔程序（Reay 2004; Carrasco, Gutierrez, & Flores 2017，引自 Teng & Wang, 2025, p.302）。中上阶层家长更倾向于选择提供丰富语言、音乐、艺术和体育课程的学校，以提升子女的[[Cultural Capital|文化资本]]（Bereményi & Carrasco 2018，引自 p.302）。但在中国农村语境中，由于入学手续简单和学校排名信息透明，文化资本的作用明显弱于国际文献所报告的程度([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.310]])。
+受教育程度较高的家长更熟悉教育体系和择校市场，其子女也更容易通过面试和入学考试等选拔程序（Reay 2004; Carrasco, Gutierrez, & Flores 2017，引自 Teng & Wang, 2025, p.302）。中上阶层家长更倾向于选择提供丰富语言、音乐、艺术和体育课程的学校，以提升子女的[[Cultural Capital|文化资本]]（Bereményi & Carrasco 2018，引自 p.302）。但在中国农村语境中，由于入学手续简单和学校排名信息透明，文化资本的作用明显弱于国际[[Document|文献]]所报告的程度([[Argument_Teng_2025_CE|Teng & Wang, 2025, p.310]])。
 
 ### 社会资本
 

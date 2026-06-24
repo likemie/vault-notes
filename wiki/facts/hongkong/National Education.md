@@ -22,6 +22,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Zhonghua Minzu]]"
+  - "[[Document]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
@@ -74,7 +75,7 @@ updated: '2026-05-25'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的文献（Vickers & Morris, 2022）认为天平已完全倾向前者。
+> - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的[[Document|文献]]（Vickers & Morris, 2022）认为天平已完全倾向前者。
 > - **vs 爱国主义教育（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development|CSD]] 是爱国主义的课程载体。
 > - **vs [[Liberal Studies]]** — LS 包含对现代中国的知识学习但明确不强调忠诚培养；国民教育以忠诚和认同为核心目标。
 
@@ -133,7 +134,7 @@ updated: '2026-05-25'
 > - **2012 年的成功条件**：相对开放的公民社会、健全的学生组织网络、媒体自由、公众对"洗脑"指控的高度敏感
 > - **2020 年后的消失条件**：《国安法》使集体行动法律风险剧增、当局已建立将教育政治化的快速执行机制
 >
-> **目前状态**：此历史对比在学术文献中已被记录，但在香港本地公共讨论中已难以公开进行。
+> **目前状态**：此历史对比在学术[[Document|文献]]中已被记录，但在香港本地公共讨论中已难以公开进行。
 
 > [!warning] 青年不满的"[[Psychologisation|心理化]]"：从政治问题到个人适应
 > [[Argument_Vickers_2024_CE|Vickers (2024, p.153–154)]]指出，《[[Youth Development Blueprint|青年发展蓝图]]》和教育局的 "[[My Pledge to Act]]" 项目（2019–2022）共同构成了一种将青年不满"心理化"（psychologise）的治理策略：

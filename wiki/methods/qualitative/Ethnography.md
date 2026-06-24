@@ -18,23 +18,57 @@ tags:
   - ethnography
   - cultural-studies
 related_concepts:
+  - "[[Construct]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Emergence]]"
+  - "[[Reliability]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Effect Size]]"
+  - "[[Domain Analysis]]"
+  - "[[Progressive Focussing]]"
+  - "[[Analytic Induction]]"
+  - "[[Gatekeepers]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"
+  - "[[Purpose Statement]]"
   - "[[Research Question]]"
+  - "[[Operationalization]]"
+  - "[[Variable]]"
+  - "[[Informed Consent]]"
+  - "[[Covert Research]]"
+  - "[[Document]]"
   - "[[Analytic Framework]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Causality]]"
+  - "[[Reactivity in Qualitative Research]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Halo Effect]]"
   - "[[External Validity]]"
-related_theories: []
+  - "[[Emic and Etic]]"
+  - "[[Paradigm]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Critical Ethnography]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Participant Observation]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Triangulation]]"
+  - "[[Autoethnography]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Snowball Sampling]]"
+  - "[[Experimental Research]]"
   - "[[Case Study]]"
   - "[[Grounded Theory]]"
+  - "[[Ideology Critique]]"
 related_persons: []
 related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -209,7 +243,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > - **验证性问题（verification questions）**：用于检验数据准确性
 
 > [!note]- [[Critical Ethnography|批判民族志]]的研究问题
-> 在批判民族志（critical ethnography）中，[[Research Question|研究问题]]可建立在已有文献体系之上，成为"工作指南而非被证实的真理"（Thomas, 1993，引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+> 在批判民族志（critical ethnography）中，[[Research Question|研究问题]]可建立在已有[[Document|文献]]体系之上，成为"工作指南而非被证实的真理"（Thomas, 1993，引自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 
@@ -256,7 +290,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > | 维度 | [[Case Study]] | [[Grounded Theory]] | 民族志 |
 > |------|---------------|---------------------|--------|
 > | 焦点 | 边界明确的个案（个人、项目、事件）。 | 生成关于某一过程的理论。 | 整个文化群体的共享模式。 |
-> | 数据收集 | 观察和访谈，方法上与民族志有重叠。 | 理论抽样驱动的访谈和编码。 | 以参与观察为核心，辅以访谈和文档。 |
+> | 数据收集 | 观察和访谈，方法上与民族志有重叠。 | [[Theoretical Sampling\|理论抽样]]驱动的访谈和[[Coding in Qualitative Research\|编码]]。 | 以[[Participant Observation\|参与观察]]为核心，辅以访谈和文档。 |
 > | 输出 | 对个案的深度描述和分析。 | 扎根于数据的理论或概念框架。 | 对群体文化的整体性描述。 |
 
 > [!entry-map]

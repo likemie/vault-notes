@@ -27,6 +27,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Causality]]"
+  - "[[Document]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Bounded Rationality]]"
@@ -86,12 +87,12 @@ updated: '2026-06-08'
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup 为修正 VL 的学习结果概念而提出的四阶知识模型
 > - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文
 > - [[Professional Judgment]] — Qvortrup 提出专业判断作为 VL 中教学干预与学习成果之间的"缺失环节"
-> - [[Visible Learning]] — 为 VL 批评文献提供了一篇系统的支持方回应
+> - [[Visible Learning]] — 为 VL 批评[[Document|文献]]提供了一篇系统的支持方回应
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 其 2019 年论文是 [[Visible Learning|VL]] 学术批评文献中罕见的系统性支持方回应——大多数已发表的 VL 相关学术文献采取批评立场
+> - 其 2019 年论文是 [[Visible Learning|VL]] 学术批评[[Document|文献]]中罕见的系统性支持方回应——大多数已发表的 VL 相关学术文献采取批评立场
 > - 与丹麦 VL 批评者（[[Thomas Aastrup Rømer]]、[[Steen Nepper Larsen]] 等）形成对立立场
 
 ## 争议与批评

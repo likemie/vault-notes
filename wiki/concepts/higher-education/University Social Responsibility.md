@@ -21,6 +21,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"
+  - "[[Document]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods: []
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 
 - 2006 年 Ramirez 从[[World Society Theory|世界社会理论]]视角提出大学的"社会嵌入性"（social embeddedness）概念——大学不仅是一个[[Knowledge Production|知识生产]]机构，更是嵌入社会关系网络的公民组织，对多元利益相关者负有责任。这一概念奠定了 USR 的理论根基([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
 - 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中将社会嵌入性/公民身份纳入 [[Organizational Actorhood]] 的四维度模型，使其成为现代"完全组织"的构成性特征——不是可选的"加分项"，而是现代社会对组织的基本期待([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-- 2019 年 Sørensen et al. 编辑 *The Responsible University*，系统探讨北欧及其他语境下"负责任大学"的多维实践，标志着 USR 从一个附属概念发展为具有独立学术文献的研究领域([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
+- 2019 年 Sørensen et al. 编辑 *The Responsible University*，系统探讨北欧及其他语境下"负责任大学"的多维实践，标志着 USR 从一个附属概念发展为具有独立学术[[Document|文献]]的研究领域([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
 
 ### 制度化加速：SDGs 与排名驱动的量化
 

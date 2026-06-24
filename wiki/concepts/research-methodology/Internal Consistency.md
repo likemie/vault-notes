@@ -23,6 +23,7 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Purpose Statement]]"
 related_methods:
@@ -121,7 +122,7 @@ Cronbach alpha 是内部一致性最常用的量化指标，提供了**跨项目
 > - **条目数量效应** α 受条目数量影响——条目越多，α 倾向于越高。比较不同长度量表的 α 值需谨慎
 
 > [!example] Perceived Stress Scale (PSS) 实例
-> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表文献中报告了三个独立[[Study Population and Sample|研究样本]]的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct|构念]]。该量表可免费用于[[Purpose Statement|研究目的]]，只需引用原始来源。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表[[Document|文献]]中报告了三个独立[[Study Population and Sample|研究样本]]的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct|构念]]。该量表可免费用于[[Purpose Statement|研究目的]]，只需引用原始来源。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
 ---
 

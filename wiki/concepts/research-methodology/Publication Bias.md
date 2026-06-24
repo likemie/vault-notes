@@ -17,6 +17,7 @@ tags:
 - research-methodology
 - evidence-based-education
 related_concepts:
+  - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Developer Effect]]"
   - "[[Researcher Degrees of Freedom]]"
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 发表偏倚（Publication Bias），也称"文件抽屉效应"（File Drawer Effect），指具有统计显著或正面结果的研究比零结果或负面结果的研究更有可能被发表或传播的系统性倾向。在教育项目评估中，发表偏倚意味着已发表文献中的平均[[Effect Size|效应量]]可能高估了干预的真实有效性。
+> 发表偏倚（Publication Bias），也称"[[Document|文件]]抽屉效应"（File Drawer Effect），指具有统计显著或正面结果的研究比零结果或负面结果的研究更有可能被发表或传播的系统性倾向。在教育项目评估中，发表偏倚意味着已发表文献中的平均[[Effect Size|效应量]]可能高估了干预的真实有效性。
 >
 > > "Developer-commissioned studies with lackluster results may be withheld to a greater extent than those of independent parties, resulting in more bias due to a 'file drawer effect'." ([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 429, citing Polanin, Tanner-Smith, & Hennessy, 2016]]; Sterling, Rosenbaum, & Weinkam, 1995)
 
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 > 1. **学术发表压力**：学术机构研究者面临发表压力，期刊偏好发表"引人注目、'干净'的故事"（John, Loewenstein, & Prelec, 2012; McBee, Makel, Peters, & Matthews, 2017）
 > 2. **开发者经济激励**：开发者有更强的动机不传播关于其产品功效的零结果或负面结果——即使是开发者雇佣的独立评估者也可能因不愿破坏与客户关系而压制零结果
 >
-> > 例：假设一个教育科技公司委托评估其阅读项目。如果结果显示[[Effect Size|效应量]]接近零，公司可能选择不发布该报告；与此同时，一个显示正面结果的独立研究即使效应量很小也更可能被期刊接受。长期来看，文献中该项目的平均效应量将被人为抬高。
+> > 例：假设一个教育科技公司委托评估其阅读项目。如果结果显示[[Effect Size|效应量]]接近零，公司可能选择不发布该报告；与此同时，一个显示正面结果的独立研究即使效应量很小也更可能被期刊接受。长期来看，[[Document|文献]]中该项目的平均效应量将被人为抬高。
 
 > [!warning] 文件抽屉问题的最早案例
 > 1940 年，Pratt 和 Rhine 在杜克大学发表了对 145 项超感知觉实验的[[Systematic Review|系统性综述]]。为了证明分析的稳健性，他们估计了未发表论文对总体汇总效果的影响，这是今天所说的文件抽屉问题最早的系统性检测。然而他们基于汇总证据得出结论认为超感知觉确实存在，后世对此持怀疑态度，最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按照当时标准进行严格分析也可能无法发现([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])。
@@ -89,7 +90,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1940** — Pratt 和 Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中，首次估计了未发表论文对总体汇总效果的影响，这是文件抽屉问题最早的系统性检测尝试([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
+> - **1940** — Pratt 和 Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中，首次估计了未发表论文对总体汇总效果的影响，这是[[Document|文件]]抽屉问题最早的系统性检测尝试([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
 > - **1995** — Sterling, Rosenbaum & Weinkam 系统记录文件抽屉效应
 > - **1995** — Vevea & Hedges 提出权重函数模型用于[[Meta-analysis|元分析]]中发表偏倚的统计校正
 > - **2016** — Polanin, Tanner-Smith & Hennessy 发表关于已发表与未发表[[Effect Size|效应量]]差异的元综述（meta-review）
@@ -110,7 +111,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - **Vevea-Hedges 校正的假设**：权重函数模型依赖于对发表概率与 p 值关系的假设，且仅适用于研究级平均[[Effect Size|效应量]]，忽略研究内效应量变异([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
-> - **[[What Works Clearinghouse|WWC]] 数据的特殊性**：由于联邦报告要求，WWC 可能比一般学术期刊包含更多独立研究的零结果，因此发表偏倚在一般文献中可能比在 WWC 中更严重([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
+> - **[[What Works Clearinghouse|WWC]] 数据的特殊性**：由于联邦报告要求，WWC 可能比一般学术期刊包含更多独立研究的零结果，因此发表偏倚在一般[[Document|文献]]中可能比在 WWC 中更严重([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
 
 
 > [!warning] Wecker 等人（2016）的中央证据数据库提案

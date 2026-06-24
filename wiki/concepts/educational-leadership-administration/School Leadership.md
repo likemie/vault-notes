@@ -16,6 +16,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Transformative Leadership]]"
+  - "[[Document]]"
   - "[[Doxa]]"
   - "[[Champ]]"
   - "[[Habitus]]"
@@ -70,7 +71,7 @@ updated: 2026-05-18
 
 > [!example] 与相关概念的区别
 > - vs [[Transformative Leadership]] — 传统的学校领导力研究倾向于关注组织内部的领导者行为和个人能力，而变革型领导力以权力结构为分析起点，关注如何改变导致社会不平等的权力结构([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])
-> - vs 分布式领导 — 分布式领导模型（distributed leadership）虽然在学校领导力研究和政策文件中获得重视，但通常被去情境化，很少处理此类工作的政治和规范维度([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])
+> - vs 分布式领导 — 分布式领导模型（distributed leadership）虽然在学校领导力研究和政策[[Document|文件]]中获得重视，但通常被去情境化，很少处理此类工作的政治和规范维度([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])
 
 ## 理论视角
 
@@ -131,7 +132,7 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 > - **对社会正义、公平与卓越的坚定承诺**
 > - 校长和教师都希望"对儿童和年轻人的生命产生影响"
 >
-> 这些主题与 Leadership for Social Justice 文献高度一致([[Argument_Møller_2017_EERJ|Møller, 2017, p.380, citing Furman, 2012]])。
+> 这些主题与 Leadership for Social Justice [[Document|文献]]高度一致([[Argument_Møller_2017_EERJ|Møller, 2017, p.380, citing Furman, 2012]])。
 >
 > 但 Møller 指出这些发现的方法论局限：研究主要基于校长的自我报告（self-reports），访谈叙事容易沦为"我以我的方式做到了"的英雄故事；且研究设计不容许对更广泛的权力结构进行批判性分析([[Argument_Møller_2017_EERJ|Møller, 2017, p.380-381]])。
 

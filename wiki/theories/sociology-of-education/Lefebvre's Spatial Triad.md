@@ -18,6 +18,7 @@ tags:
   - theme/regional-development
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Document]]"
   - "[[Structural Holes]]"
 related_theories: []
 related_methods: []
@@ -47,7 +48,7 @@ updated: 2026-06-11
 > 日常的、物质性的空间实践。在 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 语境中表现为物理基础设施（高铁、桥梁）、跨境通勤、实验室设备共享等可见的物质流动。Cai 等（2025）指出，GBA 的感知空间通过连接城市区域和行政边界的"路线、路径和网络"而获得物质存在。
 
 > [!line-a] 构想空间（Conceived Space）——空间表征
-> 由规划者、政策制定者和技术官僚通过政策文件、规划纲要和制度设计构想出来的空间。在 GBA 语境中体现为《粤港澳大湾区发展规划纲要》、各类资助计划和跨境制度安排。这是传统政策研究关注的主要维度。
+> 由规划者、政策制定者和技术官僚通过政策[[Document|文件]]、规划纲要和制度设计构想出来的空间。在 GBA 语境中体现为《粤港澳大湾区发展规划纲要》、各类资助计划和跨境制度安排。这是传统政策研究关注的主要维度。
 
 > [!line-a] 活生生空间（Lived Space）——表征性空间
 > 被日常使用者通过实际经验、想象和意义建构而"活出来"的空间。Cai 等（2025）的核心贡献在于聚焦这一最未被充分研究的维度——关键节点教师如何在日常实践中桥接跨部门网络、如何想象 GBA 的未来、如何在[[Structural Holes|结构性空洞]]中创造合作机会。

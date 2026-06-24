@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Transitology]]"
+  - "[[Document]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[Cross-National Attraction]]"
@@ -92,7 +93,7 @@ updated: 2026-06-06
 ### 第四阶段：冷战时期（1945 年后）
 
 > [!info]
-> 战后文献有明确的模式，可以分为四个子阶段([[Argument_Cowen_2023_CE|Cowen, 2023, p.331]])。
+> 战后[[Document|文献]]有明确的模式，可以分为四个子阶段([[Argument_Cowen_2023_CE|Cowen, 2023, p.331]])。
 >
 > **重建与平等（1945 年后）**。1945 年后，尤其在欧洲，努力以重建和改善教育机会平等来理解和行动世界。
 >

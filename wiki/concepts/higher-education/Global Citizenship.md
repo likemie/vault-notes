@@ -25,6 +25,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Reflexivity]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Document]]"
   - "[[Revolutionism]]"
   - "[[Re-Westernisation]]"
 related_theories:
@@ -93,7 +94,7 @@ Spronken-Smith（2018）在 O'Brien 的三素养基础上补充的第四个维�
 > [!note]-
 > 全球公民在教育话语中的兴起与两个趋势相关。一是**高等教育的国际化**——随着学生和学者的跨国流动增加，大学开始宣称培养"全球公民"为其教育目标之一。二是**博士就业的多元化**——博士毕业生不再仅进入学术圈，企业、政府、非营利组织等多元职场要求毕业生能够在跨国、跨文化环境中有效运作([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.86]])。
 >
-> 在博士教育领域，Nerad（2005）较早发出了明确呼吁，要求博士培养超越学科专精、包含公民维度。但在之后十余年中，全球公民几乎从未出现在博士特质调查工具中，Senekal et al.（2022）的综述将其命名为"积极公民身份"而非"全球公民"，且指出现有文献对这一维度的"概念化不足"([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
+> 在博士教育领域，Nerad（2005）较早发出了明确呼吁，要求博士培养超越学科专精、包含公民维度。但在之后十余年中，全球公民几乎从未出现在博士特质调查工具中，Senekal et al.（2022）的综述将其命名为"积极公民身份"而非"全球公民"，且指出现有[[Document|文献]]对这一维度的"概念化不足"([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
 >
 > [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在七域分类中将"全球公民"设为一个完整且独立的域，标志着从"被忽视的附加项"到"博士特质的核心维度之一"的转变（pp.98–99）。
 >

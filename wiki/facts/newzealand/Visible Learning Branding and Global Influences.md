@@ -35,6 +35,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Scientific Method]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Document]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Lost Mode]]"
@@ -257,7 +258,7 @@ updated: '2026-05-18'
 > PISA 2001 同样揭示澳大利亚成绩差异主要在校内，政策重点从外部因素转向师生互动质量([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.123–125]])。
 >
 > **政策采纳路径**([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.126–128]])：
-> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
+> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考[[Document|文献]]
 > - [[ResearchED]] Australia（[[Australian Council for Educational Research|ACER]], 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习

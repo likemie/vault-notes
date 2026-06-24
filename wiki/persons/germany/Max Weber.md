@@ -19,6 +19,7 @@ tags:
   - region/germany
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Champ]]"
   - "[[Causality]]"
   - "[[Analytic Framework]]"
@@ -101,7 +102,7 @@ updated: '2026-06-08'
 ### 1889 — *Zur Geschichte der Handelsgesellschaften im Mittelalter*
 
 - **APA**：Weber, M. (1889). *Zur Geschichte der Handelsgesellschaften im Mittelalter: Nach südeuropäischen Quellen*. Enke.
-- **核心内容**：以南欧文献为依据研究中世纪商业合伙组织，分析商法制度、共同体关系与经济组织形式之间的历史关联。
+- **核心内容**：以南欧[[Document|文献]]为依据研究中世纪商业合伙组织，分析商法制度、共同体关系与经济组织形式之间的历史关联。
 - **思想位置**：博士论文阶段的 Weber 仍以法律史为主，但已经开始把法律形式、经济组织和社会关系放在同一问题场中考察。Dilcher (2007) 指出，其后来的共同体、社会化和理性化问题在此已有萌芽。
 - **相关概念／理论**：共同体、社会化、法律形式、经济组织。
 

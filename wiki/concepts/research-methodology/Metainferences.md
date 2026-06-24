@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Emergence]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Data Transformation]]"
   - "[[Reliability]]"
@@ -78,7 +79,7 @@ updated: 2026-06-23
 
 > [!dimension] 三种混合方法设计中的元推论
 > - **[[Convergent Design|聚敛式设计]]**（聚焦于比较和确认）
->   研究者检视[[Joint Display|联合展示]]中各行（不同得分水平在某一主题上的差异）或各列（不同主题之间得分模式的差异），判断量化和质性结果是否互相确认（confirmation）、显示一致（concordance）或不一致（discordance）、是否超越了单一数据库能提供的知识、是否与已有文献关联、是否对理论有启示。
+>   研究者检视[[Joint Display|联合展示]]中各行（不同得分水平在某一主题上的差异）或各列（不同主题之间得分模式的差异），判断量化和质性结果是否互相确认（confirmation）、显示一致（concordance）或不一致（discordance）、是否超越了单一数据库能提供的知识、是否与已有[[Document|文献]]关联、是否对理论有启示。
 > - **[[Explanatory Sequential Design|解释性序列设计]]**（聚焦于延伸和细化）
 >   元推论代表对量化结果的延伸——质性主题解释了某一得分水平的成因或机制。不同于聚敛式设计中的"确认或一致"，解释性序列的元推论是量化结果的质性深化。元推论也可能帮助构建未来更好的量化评估工具。
 > - **[[Exploratory Sequential Design|探索性序列设计]]**（聚焦于检验和适切性）

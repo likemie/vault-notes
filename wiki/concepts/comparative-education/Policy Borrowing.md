@@ -26,6 +26,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Policy Entrepreneur]]"
@@ -111,7 +112,7 @@ updated: '2026-05-18'
 
 3. **问题的社会建构**：Steiner-Khamsi (2012) 揭示的核心机制——政府往往是**先确定"解决方案"（如跨学科必修科设计），再建构与之匹配的"问题"（教育体系陈旧、不适应[[Knowledge-Based Economy|知识经济]]）**。这一"方案先行、问题后建"的顺序是政策借用框架区别于"理性政策学习"模型的关键经验预测。
 
-> 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 揭示了 LS 改革中这一反直觉的顺序：港府在国际顾问（如 OECD）建议之前，已内部确定了"跨学科、议题为本的必修通识科"方案；随后才在 2000 年《教育蓝图》和 2005 年《高中及高等教育新学制》文件中将"问题"建构为香港教育过分侧重应试、缺乏批判性思维、无法适应知识经济需求。
+> 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 揭示了 LS 改革中这一反直觉的顺序：港府在国际顾问（如 OECD）建议之前，已内部确定了"跨学科、议题为本的必修通识科"方案；随后才在 2000 年《教育蓝图》和 2005 年《高中及高等教育新学制》[[Document|文件]]中将"问题"建构为香港教育过分侧重应试、缺乏批判性思维、无法适应知识经济需求。
 
 4. **政策文本 vs 政策话语**：Ochs (2005) 在 Ball (1994) 基础上区分了两种可被转移的对象——政策文本（具体书面政策内容）和政策话语（关于教育的谈论、概念化和框架化方式）。在[[Cross-National Attraction|跨国吸引]]力阶段——尚未做出实际"借用"决策之前——研究者主要关注的是话语的转移。Steiner-Khamsi (2000) 早前已警告："除非我们认识到教育转移可以涉及话语而非实践，否则我们不太可能察觉这些国际流动"（p. 181，引自 Rappleye, 2006, pp. 227, 233）。
 
@@ -185,7 +186,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 
 > [!info] 研究[[Paradigm|范式]]
 > - **[[Epistemology|认识论]]立场**：[[Critical Theory|批判理论]]、比较教育政治学 —— 政策不是中立的"最佳实践"转移，而是政治权力的运作；研究者的任务是揭示借用行为背后的权力关系和政治动机
-> - **常用方法**：跨国[[Comparative Case Study|比较案例研究]]、过程追踪、[[Historical Document Analysis of Curriculum]]、政策文件分析、话语分析
+> - **常用方法**：跨国[[Comparative Case Study|比较案例研究]]、过程追踪、[[Historical Document Analysis of Curriculum]]、政策[[Document|文件]]分析、话语分析
 
 ## 实证发现
 

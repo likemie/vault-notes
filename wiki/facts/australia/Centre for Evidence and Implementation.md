@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
   - "[[Technical Rationality]]"
   - "[[What Works Movement]]"
 related_theories: []
@@ -82,7 +83,7 @@ updated: 2026-06-16
 > [!actor-grid] 评论视角图
 > - **自我宣传视角**：强调其方法论的系统性，致力于打破象牙塔与中小学校园的壁垒，通过严格实施科学（Implementation Science）促进实证证据的落地与转化。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **批判社会学视角**：揭示了 CEI 作为公私合营证据经纪人的一部分，协助 [[Australian Education Research Organisation|AERO]] 垄断了什么是有效证据的解释权，将公共决策重构为闭环的技术化运作。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **学术评审视角**：指出其桌面审查未经广泛学术共同体的双盲同行评审，且文献仅仅锚定于特定的小众期刊上，科学可靠度存疑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **学术评审视角**：指出其桌面审查未经广泛学术共同体的双盲同行评审，且[[Document|文献]]仅仅锚定于特定的小众期刊上，科学可靠度存疑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 > [!tension] 争议焦点
 > - **自说自话的“闭环专家组”**：该审查所咨询并依赖的“外部专家”，绝大多数均是来自于 CEI 机构内部自身的人员，以及其他友好“什么有效”（what works）中介中心，形成了一个高度闭环、自我背书的自循环网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])

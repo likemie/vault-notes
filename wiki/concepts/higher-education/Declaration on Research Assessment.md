@@ -15,6 +15,7 @@ related_color: "#e5e7eb"
 tags: ["theme/research-assessment", "theme/higher-education-policy"]
 related_concepts:
   - "[[Evaluation Research]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
@@ -36,7 +37,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 旧金山科研评估宣言（San Francisco Declaration on Research Assessment，简称 **DORA**）是 2012 年在美国细胞生物学会（ASCB）年会期间由一组学术期刊编辑和出版者发起的国际倡议。宣言的核心主张是：在[[Evaluation Research|评估研究]]者个人贡献时，应关注研究本身的质量和影响力，而非机械依赖发表该研究的期刊的影响因子（Journal Impact Factor）等文献计量指标。
+> 旧金山科研评估宣言（San Francisco Declaration on Research Assessment，简称 **DORA**）是 2012 年在美国细胞生物学会（ASCB）年会期间由一组学术期刊编辑和出版者发起的国际倡议。宣言的核心主张是：在[[Evaluation Research|评估研究]]者个人贡献时，应关注研究本身的质量和影响力，而非机械依赖发表该研究的期刊的影响因子（Journal Impact Factor）等[[Document|文献]]计量指标。
 
 DORA 不反对使用定量指标本身，而是反对不加批判地将期刊层面的指标用作研究者个人质量的代理[[Variable|变量]]（proxy）。宣言建议资助机构、学术机构和期刊在评估研究中采取更全面的方法，考虑研究的实际影响——包括对政策、实践、社会和经济的影响——而非仅计算出版物数量和引用次数。
 

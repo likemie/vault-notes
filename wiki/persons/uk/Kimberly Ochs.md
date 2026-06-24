@@ -20,6 +20,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
   - "[[Analytic Framework]]"
+  - "[[Document]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
@@ -66,7 +67,7 @@ updated: '2026-06-08'
 
 
 > [!info] 四种吸引力"火花"
-> Ochs (2005) 将既有文献中使用外国范例的动机分类为四种（引自 Rappleye, 2006, p. 233）：
+> Ochs (2005) 将既有[[Document|文献]]中使用外国范例的动机分类为四种（引自 Rappleye, 2006, p. 233）：
 > 1. **警示（Caution）** — 用外国范例警示不要进行教育改革
 > 2. **颂扬（Glorify）** — 通过国际比较颂扬本国现行教育
 > 3. **合法化（Legitimate）** — 用外国范例为国内改革方案提供正当性

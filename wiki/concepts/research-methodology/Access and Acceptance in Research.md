@@ -18,10 +18,10 @@ tags:
   - theme/research-procedure
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Research Practicability]]"
   - "[[Research Scope]]"
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
+  - "[[Document]]"
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
@@ -120,7 +120,7 @@ updated: 2026-06-19
 > 6. **告知参与者所提供信息的用途**——只有你和考官看？给校长、LEA 看？
 > 7. **准备一份意图和条件的书面大纲交给参与者**——即使你解释了[[Purpose Statement|研究目的]]、条件和保证，参与者可能会忘记
 > 8. **对[[Research Purpose|研究目的]]和研究条件诚实**——如果说访谈持续十分钟，结果持续了一小时，你就失信了
-> 9. **记住同意协助的人是帮你的忙**——确保按时完好归还文件和书籍；无论多忙都应发感谢信
+> 9. **记住同意协助的人是帮你的忙**——确保按时完好归还[[Document|文件]]和书籍；无论多忙都应发感谢信
 > 10. **永远不要假设"会没事的"**——准入谈判是研究中的重要阶段；如果你是内部研究者，你必须与自己的错误共存
 
 ---

@@ -32,12 +32,13 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Professional Judgment]]"
   - "[[Evaluation Research]]"
+  - "[[Document]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Non-probability Sampling]]"
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -136,7 +137,7 @@ citation_aliases:
 > - 论文自身承认：样本非平衡，有意偏向积极参与 EBP 辩论的教师，因此结论不具统计代表性(p.22)
 > - [[Literature Review|文献综述]]非系统性，基于非正式检索(p.4)
 > - 研究未系统性地探讨教师不参与证据的原因——样本中几乎没有对证据完全漠视的教师
-> - 政策建议部分未经过实证检验，属于基于访谈和文献的推断
+> - 政策建议部分未经过实证检验，属于基于访谈和[[Document|文献]]的推断
 
 ## 来源
 

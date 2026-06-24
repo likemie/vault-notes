@@ -18,6 +18,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Direct Instruction]]"
   - "[[Positivism]]"
+  - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Evidence-Based Education]]"
   - "[[Progressive Education]]"
@@ -57,7 +58,7 @@ updated: 2026-06-16
 
 > [!contribution-map] 贡献地图
 > - **理论贡献**：[[Cognitive Load Theory]] — 开创了认知负荷理论，提出了[[Working Memory|工作记忆]]限制、图式（schema）构建和自动化的学习机制，为微观教学设计提供了[[Positivism|实证主义]]的解释框架。
-> - **制度／政策影响**：[[Strong Beginnings Report]] — 其著作（特别是反对探究式学习的文献）在2023年《强劲开端》报告中被列为澳大利亚全国初始教师教育（ITE）“大脑与学习”核心课程的指定参考文献，成为职前教师毕业的法定考核标准。
+> - **制度／政策影响**：[[Strong Beginnings Report]] — 其著作（特别是反对探究式学习的[[Document|文献]]）在2023年《强劲开端》报告中被列为澳大利亚全国初始教师教育（ITE）“大脑与学习”核心课程的指定参考文献，成为职前教师毕业的法定考核标准。
 
 ---
 
@@ -91,7 +92,7 @@ updated: 2026-06-16
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **机构／运动／项目**：[[Centre for Independent Studies]] — 合作关系，Sweller 担任该保守智库的学者，其多项政策倡议及报告由 [[Centre for Independent Studies|CIS]] 资助、出版并予以游说推广；[[Education Endowment Foundation]] — 推广关系，其[[Cognitive Load Theory|认知负荷理论]]被英国 EEF 广泛采纳并写入其全球教学工具箱中；[[Strong Beginnings Report]] — 政策嵌入，其著作被该报告附录D列为全国职前教师核心认证课程的必读文献。
+> - **机构／运动／项目**：[[Centre for Independent Studies]] — 合作关系，Sweller 担任该保守智库的学者，其多项政策倡议及报告由 [[Centre for Independent Studies|CIS]] 资助、出版并予以游说推广；[[Education Endowment Foundation]] — 推广关系，其[[Cognitive Load Theory|认知负荷理论]]被英国 EEF 广泛采纳并写入其全球教学工具箱中；[[Strong Beginnings Report]] — 政策嵌入，其著作被该报告附录D列为全国职前教师核心认证课程的必读[[Document|文献]]。
 
 ---
 
@@ -100,5 +101,5 @@ updated: 2026-06-16
 > [!tension] 争议焦点
 > - **争议对象**：其认知科学模型在教育政策中的普适性，以及其著作背后的智库意识形态倾向。
 > - **批评立场**：批判政策社会学家与[[Progressive Education|进步主义教育]]学者（如 Skourdoumbis & Rowe, 2024）指出，Sweller 的理论将复杂的、情境化的教育活动约化为脑部内部的机械信息处理，剥离了社会学与关系性维度。
-> - **证据依据**：其 [[Centre for Independent Studies|CIS]] 资助的研究《为什么探究式学习有害学生学习》（Sweller, 2021）并非同行评审学术文献，而是由保守派智库出资并带有明确党派色彩的游说手册，其强制列为必修被质疑为私人和智库利益对公共教师教育的侵蚀与“[[Policy Network|理念编排]]”。
+> - **证据依据**：其 [[Centre for Independent Studies|CIS]] 资助的研究《为什么探究式学习有害学生学习》（Sweller, 2021）并非同行评审学术[[Document|文献]]，而是由保守派智库出资并带有明确党派色彩的游说手册，其强制列为必修被质疑为私人和智库利益对公共教师教育的侵蚀与“[[Policy Network|理念编排]]”。
 > - **回应或余留问题**：Sweller 的理论支持者强调其理论具有坚实的量化心理学实验证据支持；而批评者则认为，其在政策层面的垄断和强制消费侵犯了大学教师教育者的学术与课程自主权。

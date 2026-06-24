@@ -21,6 +21,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
   - "[[Master Agreement]]"
@@ -45,12 +46,12 @@ updated: 2026-05-27
 > [!info]
 > 边界跨越者（Boundary Spanner）在[[University-Industry Collaboration|产学合作]]语境中，指在大学与产业之间充当桥梁的专业角色——他们具备理解双方语言、文化和制度逻辑的能力，负责建立信任、沟通需求、协调合作流程，降低大学和企业因制度差异而产生的交易成本（Jonsson et al., 2015，转引自 [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
-这个角色在文献中有多个名称：Pertuze et al.（2010）称其为"边界跨越项目经理"（boundary spanning project managers），Jonsson et al.（2015）称其为"专业创新支持官"（professional innovation support officers），Wright et al.（2008）和 Yusuf（2008）则使用更宽泛的"中介者"（intermediary）概念。
+这个角色在[[Document|文献]]中有多个名称：Pertuze et al.（2010）称其为"边界跨越项目经理"（boundary spanning project managers），Jonsson et al.（2015）称其为"专业创新支持官"（professional innovation support officers），Wright et al.（2008）和 Yusuf（2008）则使用更宽泛的"中介者"（intermediary）概念。
 
 ## 核心要素
 
 > [!abstract]
-> 基于 Ch3 引用的文献（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）：
+> 基于 Ch3 引用的[[Document|文献]]（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）：
 > - **双重语言能力**：能够理解大学的学术逻辑（发表、同行评议、[[Academic Freedom|学术自由]]）和企业的商业逻辑（利润、时间表、知识产权保护），并在两者之间进行翻译
 > - **信任建立**：通过持续的中介工作弥合"伙伴之间的态度不协调"（Bruneel et al., 2010，转引自 p.54）
 > - **边界跨越**：跨越的不仅是组织边界（大学 vs 企业），还包括认知边界（学术思维 vs 商业思维）和制度边界（非营利 vs 营利逻辑）

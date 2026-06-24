@@ -16,6 +16,7 @@ tags:
   - paradigm/constructivist
 related_concepts:
   - "[[Theoretical Standpoint]]"
+  - "[[Document]]"
   - "[[Naturalistic Generalization]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Epistemology]]"
@@ -46,7 +47,7 @@ updated: 2026-05-31
 
 ## 研究逻辑
 
-以理论为终点的研究遵循归纳逻辑（见图 3.5）：研究者从收集参与者详细信息开始 → 将信息组织为类别或主题 → 将主题发展为广泛的模式、理论或概括 → 与个人经验或已有文献进行比较([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.66–67]])。
+以理论为终点的研究遵循归纳逻辑（见图 3.5）：研究者从收集参与者详细信息开始 → 将信息组织为类别或主题 → 将主题发展为广泛的模式、理论或概括 → 与个人经验或已有[[Document|文献]]进行比较([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.66–67]])。
 
 > [!info] 归纳逻辑的五个阶段
 > 1. 研究者收集信息（如访谈、观察）
@@ -64,7 +65,7 @@ updated: 2026-05-31
 - **模式理论（pattern theories）**：Lincoln & Guba (1985) 将自然主义或[[Qualitative Research|质性研究]]中发展的解释称为"模式理论"。与[[Quantitative Research|量化研究]]中的演绎形式不同，这些模式理论或概括代表相互关联的思想或部分连接为整体。
 
 > [!example]
-> Creswell & Brown (1992) 使用 33 次与学术部门主任的访谈数据，发展了关于系主任对学术绩效影响的扎根理论。理论部分作为文章的最后一节出现，其中呈现了归纳发展出的视觉模型和[[Directional and Non-directional Hypotheses|方向性假设]]，并将参与者结果与其他研究及文献中的理论讨论进行了比较。
+> Creswell & Brown (1992) 使用 33 次与学术部门主任的访谈数据，发展了关于系主任对学术绩效影响的扎根理论。理论部分作为文章的最后一节出现，其中呈现了归纳发展出的视觉模型和[[Directional and Non-directional Hypotheses|方向性假设]]，并将参与者结果与其他研究及[[Document|文献]]中的理论讨论进行了比较。
 
 ## 概念辨析
 

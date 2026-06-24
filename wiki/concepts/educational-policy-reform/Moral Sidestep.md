@@ -13,7 +13,8 @@ tags:
 - moral-sidestep
 - evidence-based-policy
 - policy-making
-related_concepts: []
+related_concepts:
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +40,7 @@ Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避
 
 ## 两种类型
 
-道德侧步在文献中表现为两种不同的运作机制——回避型与建构型。二者的核心区分在于：侧步是**被动回避证据**还是**主动建构替代话语**。
+道德侧步在[[Document|文献]]中表现为两种不同的运作机制——回避型与建构型。二者的核心区分在于：侧步是**被动回避证据**还是**主动建构替代话语**。
 
 ### 回避型道德侧步（Evasive Moral Sidestep）
 

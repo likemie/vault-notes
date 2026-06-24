@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"
@@ -110,7 +111,7 @@ updated: 2026-05-24
 ## 一个重要澄清：不是"专制型"教养
 
 > [!warning]
-> 西方文献长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况**：台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍**([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> 西方[[Document|文献]]长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况**：台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍**([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!example]
 > 一位七岁台湾女儿在母亲刚开口批评她不认真写字时，立即反击："只有你在说话，我还没说话呢！"母亲立刻让步并邀请女儿说话。女儿此后通过实际写字展示她的能力，母亲也给予了认可([[Argument_Li_2012_Cambridge|Li, 2012]])。

@@ -18,6 +18,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Professional Judgment]]"
+  - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Informed Practice]]"
@@ -63,7 +64,7 @@ updated: '2026-05-23'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> 本地知识的概念在证据本位政策文献中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review|系统综述]]发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.12]])。
+> 本地知识的概念在证据本位政策[[Document|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review|系统综述]]发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.12]])。
 
 ## 核心要素
 

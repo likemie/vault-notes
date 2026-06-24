@@ -20,6 +20,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
+  - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
@@ -84,7 +85,7 @@ updated: 2026-05-18
 > - 此前的大规模教学改革（QSRLS、New Basics、Quality Teaching）聚焦课程/教学/评估三系统，但[[School Leadership|学校领导]]的实际教学领导时间极少——需要的是能"用行政语言说话"的证据([[Argument_Eacott_2017_SLM|Eacott, 2017, p.416]])
 >
 > **（2）Hattie 的工作用行政语言说话**
-> - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis|元分析]]为教育行政文献引入[[Effect Size|效应量]]语言，打破[[Transformative Leadership|变革型领导力]]的主导地位，推动[[Instructional Leadership|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM|Eacott, 2017, p.417-418]])
+> - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis|元分析]]为教育行政[[Document|文献]]引入[[Effect Size|效应量]]语言，打破[[Transformative Leadership|变革型领导力]]的主导地位，推动[[Instructional Leadership|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM|Eacott, 2017, p.417-418]])
 > - Hattie 的[[Meta-meta-analysis|元-元分析]]填补了这一空白：800+ 元分析、52,637 项研究、138 个因素按效应量排名——"终于有了用行政语言说话的研究"而非教学模型([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418]])
 > - d=0.40 等同于一个学年的换算使行政人员可以按"[[Return on Investment|投资回报]]"逻辑决策——在何处投资、何处不投资，成为学校行政的核心计算([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418-419]])
 >
@@ -153,7 +154,7 @@ updated: 2026-05-18
 > [!example] 相关案例／政策
 > - ACEL 与 Corwin 合作（2015）— 澳大利亚最大的[[School Leadership|学校领导力]]专业协会与 Hattie 的出版商正式合作推广 [[Visible Learning|VL]] 工作坊
 > - [[Australian Institute for Teaching and School Leadership|AITSL]] — Hattie 担任澳大利亚教学与学校领导力研究院主席，其工作已嵌入国家专业标准和认证体系
-> - Melbourne Declaration of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
+> - Melbourne Declaration of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策[[Document|文件]]的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
 
 
 > [!example] [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 对大师崇拜商业维度的补充

@@ -17,6 +17,7 @@ tags:
   - theme/university-industry-collaboration
 related_concepts:
   - "[[Research Ethics]]"
+  - "[[Document]]"
   - "[[Institutional Review Board]]"
   - "[[Emergence]]"
   - "[[University-Industry Collaboration]]"
@@ -48,7 +49,7 @@ updated: 2026-06-20
 ## 定义
 
 > [!def] 知情同意
-> 知情同意（informed consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）。
+> 知情同意（informed consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面[[Document|文件]]，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）。
 >
 > 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 共同规则（[[Common Rule 2018|Common Rule]]） 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
 

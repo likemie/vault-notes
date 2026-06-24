@@ -20,6 +20,7 @@ tags:
   - theme/curriculum
 related_concepts:
   - "[[Outcomes-based Education]]"
+  - "[[Document]]"
   - "[[Big Ideas]]"
   - "[[Epistemology]]"
   - "[[Regulative and Instructional Discourse]]"
@@ -74,7 +75,7 @@ updated: 2026-06-06
 ## UKD 结构
 
 > [!info]
-> 课程文件根据这三个组成部分构建，它们出现在每个学科的概述部分，也为新的五个学习阶段的更具体的进度成果提供组织框架([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> 课程[[Document|文件]]根据这三个组成部分构建，它们出现在每个学科的概述部分，也为新的五个学习阶段的更具体的进度成果提供组织框架([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 >
 > **「理解」**。为每个学科识别一组关键的[[Big Ideas|大概念]]。这些是所有学习者都能联系和接触的持久思想。
 >
@@ -112,7 +113,7 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning]
-> - **[[Epistemology|认识论]]混乱**。UKD 结构在认识论上是混乱的。从课程设计和学习的角度来看，知道-做-理解是更合乎逻辑的概念框架。课程文件声称该结构「清晰且易于使用」，但作者发现其多层次结构实际上相当复杂([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> - **[[Epistemology|认识论]]混乱**。UKD 结构在认识论上是混乱的。从课程设计和学习的角度来看，知道-做-理解是更合乎逻辑的概念框架。课程[[Document|文件]]声称该结构「清晰且易于使用」，但作者发现其多层次结构实际上相当复杂([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **[[Regulative and Instructional Discourse|规约性话语]]主导**。课程改革主要关注创建规约性话语，即道德和政治义务的话语，而非学科知识的识别和组织。Te Mātaiaho 更像是一份阐述道德和政治义务的文件，而非传统意义上的课程文件([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **[[Recontextualization|再脉络化]]原则的张力**。三种突出的再脉络化原则之间存在潜在的[[Ontology|本体论]]和认识论张力：
 >   - **双文化主义**：[[Mātauranga Māori|毛利知识体系]]被用来创造主题和隐喻凝聚力，但其与课程声称转向关注学习进步和增长之间存在潜在矛盾

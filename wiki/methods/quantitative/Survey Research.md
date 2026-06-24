@@ -30,6 +30,7 @@ related_concepts:
   - "[[Inter-Rater Reliability]]"
   - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
+  - "[[Document]]"
   - "[[Response Bias]]"
   - "[[Descriptive Analysis]]"
   - "[[Preregistration]]"
@@ -103,7 +104,7 @@ updated: 2026-05-31
 ### 变量
 
 > [!info]
-> 在方法部分直接陈述[[Variable|变量]]名称、[[Definition of Terms|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源文献。
+> 在方法部分直接陈述[[Variable|变量]]名称、[[Definition of Terms|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源[[Document|文献]]。
 >
 > > [!example] 表8.2：变量、定义及其对应的调查题项（Variables, Definitions, and Their Corresponding Items on a Survey）
 > >

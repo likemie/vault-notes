@@ -19,9 +19,11 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Progressive Education]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Document]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Phenomenology]]"
@@ -68,7 +70,7 @@ updated: '2026-06-22'
 > | 理论 | [[Symbolic Interactionism]] | 符号互动论的理论奠基者。 |
 > | 概念 | [[Interpretive Paradigm]] | 奠定微观互动论根基，强调行为意义的社会建构与理解。 |
 > | 概念 | [[Pragmatic Paradigm]] | 属于美国古典实用主义流派，关注行动与心智在适应环境中的作用。 |
-> | 概念 | [[Phenomenon-Based Learning]] | 其心身统一及与环境互动的思想被引入 PhBL 的实用建构主义根基。 |
+> | 概念 | [[Phenomenon-Based Learning]] | 其心身统一及与环境互动的思想被引入 PhBL 的实用[[Constructivist Paradigm\|建构主义]]根基。 |
 
 ---
 
@@ -141,4 +143,4 @@ updated: '2026-06-22'
 > > 米德在阐述其“社会行为主义”时主张，只有人类能够使用“重要符号（Significant Symbols）”进行真正的社会沟通，而非人动物的手势互动仅停留在无意识的“手势对话”层面。这一人类中心主义的界限划分在当代人兽关系研究中引发了争议。
 > >
 > > - **米德（Mead, 1934）** 坚持只有人类手势能唤起自身与他者相同的社会意义反应，将动物沟通排除在象征符号互动之外。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
-> > - **Wilkie 与 McKinnon（2013）** 批评其划分过于绝对，指出当代人与动物关系研究显示动物与人、动物与动物之间亦存在丰富的共享象征意义与能动性互动。（根据人兽关系研究领域文献总结）
+> > - **Wilkie 与 McKinnon（2013）** 批评其划分过于绝对，指出当代人与动物关系研究显示动物与人、动物与动物之间亦存在丰富的共享象征意义与能动性互动。（根据人兽关系研究领域[[Document|文献]]总结）

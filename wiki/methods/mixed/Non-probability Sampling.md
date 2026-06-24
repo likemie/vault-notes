@@ -23,6 +23,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Purpose Statement]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Gatekeepers]]"
   - "[[Naturalistic Generalization]]"
   - "[[Rich and Thick Description]]"
@@ -80,7 +81,7 @@ updated: 2026-06-22
 
 > [!method-stack] 方法层级
 > - **研究设计**：案例研究、[[Ethnography|民族志]]、行动研究、[[Grounded Theory|扎根理论]]、试点研究和小规模[[Survey Research|调查研究]]
-> - **数据收集**：访谈、观察、焦点小组、问卷试点、档案分析和文件审查
+> - **数据收集**：访谈、观察、焦点小组、问卷试点、档案分析和[[Document|文件]]审查
 > - **分析方法**：主题分析、叙事分析、扎根理论[[Coding in Qualitative Research|编码]]、案例内/跨案例分析
 > - **辅助技术**：滚雪球扩展、关键信息提供者识别、受访者驱动招募、加权调整
 

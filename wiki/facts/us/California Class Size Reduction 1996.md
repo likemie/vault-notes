@@ -22,6 +22,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Class Size]]"
+  - "[[Document]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 >
 > ### 教师质量的量化后果([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 >
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.7)]] 提供了此前文献中未充分量化的教师质量恶化数据：
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.7)]] 提供了此前[[Document|文献]]中未充分量化的教师质量恶化数据：
 >
 > - 加州未认证教师比例从 1990 年的**约 1/200** 飙升至 1997 年的**约 1/8**（Jepsen & Rivkin, 2002）
 > - 新教师和未认证教师并非在全州范围内[[Random Assignment|随机分配]]——Randy Ross (1999) 记录了许多有经验的教师**离开城市学校**到更富裕地区担任新设立的职位

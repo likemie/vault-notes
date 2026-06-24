@@ -20,6 +20,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[University Spin-Out]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Document]]"
   - "[[Responsible Innovation]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
@@ -53,7 +54,7 @@ updated: 2026-06-05
 
 ## 影响分类系统
 
-Cohen 等人（2025）通过对 92 篇文献的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
+Cohen 等人（2025）通过对 92 篇[[Document|文献]]的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
 
 ### 六种影响类型
 
@@ -135,7 +136,7 @@ Cohen 等人识别出四类系统性测量挑战（pp.362–363）：
 
 ## 应对策略
 
-通过文献自反性主题分析，七项策略被识别用于克服上述挑战（pp.363–364）：
+通过[[Document|文献]]自反性主题分析，七项策略被识别用于克服上述挑战（pp.363–364）：
 
 > [!success] 七项策略
 > 1. **合作全生命周期持续监控**：对输入、过程活动、输出和成果同时跟踪，而非仅关注末端专利和许可（Albats et al., 2018）

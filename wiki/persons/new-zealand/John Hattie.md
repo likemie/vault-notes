@@ -41,6 +41,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Counterfactual]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Homework]]"
   - "[[External Validity]]"
@@ -290,7 +291,7 @@ updated: '2026-06-08'
 >
 > **丹麦**：2014 年学校改革明确引用《可见的学习》后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。[[Argument_Fredens_2015_Paideia|Fredens (2015)]] 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 认为 《可见的学习》核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *[[Hattie på dansk]]* (2017) 汇集多篇批评；[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
 >
-> **俄罗斯**：2017 年 《可见的学习》俄文版出版后在俄罗斯学界获得热烈反响：Borisenko（2018）称其为"翻译教育文献出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将《可见的学习》与俄罗斯联邦国家教育标准联系起来([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用《可见的学习》（详见 [[Argument_Golovchin_2019_ESC]]）。
+> **俄罗斯**：2017 年 《可见的学习》俄文版出版后在俄罗斯学界获得热烈反响：Borisenko（2018）称其为"翻译教育[[Document|文献]]出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将《可见的学习》与俄罗斯联邦国家教育标准联系起来([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用《可见的学习》（详见 [[Argument_Golovchin_2019_ESC]]）。
 
 
 > [!note-] 《可见的学习》品牌扩张与商业化
@@ -331,7 +332,7 @@ updated: '2026-06-08'
 > Snook, Clark, Harker, O'Neill, & O'Neill (2010) 发表再回应（详见 [[Argument_Snook_2010_NZJES]]），逐点论证 Hattie 的辩护未能充分解决实质性方法论关切：
 > - 非学校因素：Hattie 承认选择性搁置——"不是不重要，只是不在我的轨道内"——但政策制定者很容易忘记这一限定
 > - 研究质量：Hattie 的原版免责声明比后来承认的更强——"故意未纳入关于研究属性的调节[[Variable|变量]]"
-> - 偏差控制：仅依赖已发表研究本身就是偏差来源，未被"丰富文献"讨论所消除
+> - 偏差控制：仅依赖已发表研究本身就是偏差来源，未被"丰富[[Document|文献]]"讨论所消除
 > - 平均化：d=0.29 的效应量"发出家庭作业不重要的信号"，尽管 Hattie 自身数据显示对中学生和某些学科非常重要
 > - 元分析在教育中的根本局限：该技术起源于医学（概念经仔细界定、设计严谨），教育变量往往概念化差、研究不够严格
 > - 引 Nuthall (2007) 四十年课堂细粒度研究结论："识别对课堂教学有值得信赖内容的研究时，需要非常有选择性"

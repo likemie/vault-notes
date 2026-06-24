@@ -44,6 +44,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Technical Rationality]]"
   - "[[Evidence-Based Reform]]"
@@ -88,6 +89,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Participant Observation]]"
   - "[[Pilot Testing]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
@@ -339,7 +341,7 @@ updated: '2026-06-17'
 > [!timeline] 概念演变时间线
 > - **1990年代初**：起源与医学类比。Guyatt 等人提出循证医学（EBM）[[Paradigm|范式]]，David Hargreaves 等人将教育研究与医学进行类比，开启了教育证据本位的探讨。
 > - **1998–2015年**：英美等国的强势政策与制度化建设。美国通过 [[No Child Left Behind Act 2001|NCLB]] 立法、设立 [[What Works Clearinghouse|WWC]]，英国建立 [[Education Endowment Foundation|EEF]]、[[What Works Network]]，将证据与联邦/中央拨款深度绑定。
-> - **2004–2020年**：批判性文献与学术思潮的[[Emergence|涌现]]。以 Biesta、Wiliam、Wrigley 等为代表的学者，从哲学、方法论和政治经济学多角度对 EBE 的[[Technical Rationality|技术理性]]及统计窄化进行了系统性解构，推动了向"[[Evidence-Informed Practice|证据知情实践]]"（EIP）等替代方案的演进。
+> - **2004–2020年**：批判性[[Document|文献]]与学术思潮的[[Emergence|涌现]]。以 Biesta、Wiliam、Wrigley 等为代表的学者，从哲学、方法论和政治经济学多角度对 EBE 的[[Technical Rationality|技术理性]]及统计窄化进行了系统性解构，推动了向"[[Evidence-Informed Practice|证据知情实践]]"（EIP）等替代方案的演进。
 
 > [!note]-
 > EBE 从 1990 年代的循证医学类比出发，经历了英美制度化建设、批判性文献兴起和中国作为[[Evidence-Based Reform|证据本位改革]]新兴力量的崛起，至今仍在方法论与哲学层面持续激辩。
@@ -454,7 +456,7 @@ updated: '2026-06-17'
 > EBE 在认识论（实验无法预测未来）、存在论（教育因果非线性）和实践论（科学应用不是线性传递）三个层面均存在根本性缺陷。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
 
 > [!note]-
-> [[Argument_Biesta_2010_SPE|Biesta (2010)]] 从认识论、存在论和实践论三个维度对 EBE 进行系统批判：知识缺陷、效力缺陷、应用缺陷。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的、可确定的"和"科学进步来自知识的'应用'"三个隐含假设上的失败。Biesta 的框架已成为 EBE 批判文献的经典参照，但其主要贡献被定位在[[Philosophical Analysis in Education|哲学分析]]层面。
+> [[Argument_Biesta_2010_SPE|Biesta (2010)]] 从认识论、存在论和实践论三个维度对 EBE 进行系统批判：知识缺陷、效力缺陷、应用缺陷。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的、可确定的"和"科学进步来自知识的'应用'"三个隐含假设上的失败。Biesta 的框架已成为 EBE 批判[[Document|文献]]的经典参照，但其主要贡献被定位在[[Philosophical Analysis in Education|哲学分析]]层面。
 
 #### 证据与垃圾科学的区分问题
 

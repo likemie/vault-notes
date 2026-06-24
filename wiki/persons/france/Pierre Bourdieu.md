@@ -35,6 +35,7 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Non-monetary Competition]]"
+  - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
 related_theories:
@@ -292,7 +293,7 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 ## 争议与批评
 
 > [!warning]
-> Bourdieu 的批判社会学影响巨大，也经常被批评为决定论、俯视行动者、写作晦涩，或在性别研究等领域忽视既有文献。
+> Bourdieu 的批判社会学影响巨大，也经常被批评为决定论、俯视行动者、写作晦涩，或在性别研究等领域忽视既有[[Document|文献]]。
 
 ### 决定论指控（最核心争议）
 

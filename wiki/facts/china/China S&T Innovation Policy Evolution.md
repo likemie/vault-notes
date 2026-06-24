@@ -23,6 +23,7 @@ tags:
   - theme/technology-innovation
   - theme/industrial-innovation
 related_concepts:
+  - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[Blue Skies Research]]"
   - "[[Innovation Ecosystem]]"
@@ -52,7 +53,7 @@ updated: 2026-06-05
 ## 政策文本摘要
 
 > [!abstract]
-> 中国科技创新政策体系经历了四个主要阶段的演变，每个阶段都有标志性的政策文件和战略部署：
+> 中国科技创新政策体系经历了四个主要阶段的演变，每个阶段都有标志性的政策[[Document|文件]]和战略部署：
 > - 基础建设阶段：以《1956—1967年科学技术发展远景规划》为代表，构建国家科技创新体系
 > - 融合探索阶段：以《关于科学技术体制改革的决定》为标志，推动科技成果商品化
 > - 自主创新阶段：以《国家中长期科学和技术发展规划纲要》为指引，强调自主创新

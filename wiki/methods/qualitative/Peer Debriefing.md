@@ -28,6 +28,7 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Analytic Framework]]"
   - "[[Emergence]]"
+  - "[[Document]]"
   - "[[Interpretive Paradigm]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
@@ -112,7 +113,7 @@ Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议�
 > |---|---|---|---|
 > | **审视者身份** | 方法论同行——熟悉[[Qualitative Research\|质性研究]]但未参与本项目 | 研究参与者——数据提供的源头 | 完全独立的外部审计者——不熟悉研究者或其项目 |
 > | **审视内容** | 研究者的**推理过程**——解释是否经得起推敲 | 研究者的**事实描述**和**意义诠释**——是否与参与者自身经验一致 | 研究的**过程和产品**——程序是否可接受、结果是否与数据一致 |
-> | **互动方式** | 类似**交叉审问**（cross-examination）的质疑性对话 | 参与者确认、修正或补充——更像**协商**（negotiation） | 独立审查文件——更像**审计**（audit），不依赖人际互动 |
+> | **互动方式** | 类似**交叉审问**（cross-examination）的质疑性对话 | 参与者确认、修正或补充——更像**协商**（negotiation） | 独立审查[[Document\|文件]]——更像**审计**（audit），不依赖人际互动 |
 > | **理论基础** | [[Researcher as Key Instrument\|研究者作为关键工具]]需要外部制衡 | 参与者对自身经验的权威性——但并非特权位置（Hammersley & Atkinson, 1983） | 程序透明性和可追溯性——可确认性（confirmability） |
 > | **在 L&G 框架中的位置** | 可信性（credibility）策略之一 | 既是可信性策略，也是[[Reliability\|可依赖性]]（dependability）策略 | 可依赖性策略——独立审计识别可接受的探究过程 |
 

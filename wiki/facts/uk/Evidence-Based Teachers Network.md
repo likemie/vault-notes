@@ -22,6 +22,7 @@ tags:
   - theme/teacher-professional-learning
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods: []
@@ -61,7 +62,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> EBTN 展示了 [[Evidence-Informed Practice|证据知情实践]] 中实践社群的一面：研究证据需要进入教师之间的交流和专业学习，才能从文献或数据库转化为课堂行动([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> EBTN 展示了 [[Evidence-Informed Practice|证据知情实践]] 中实践社群的一面：研究证据需要进入教师之间的交流和专业学习，才能从[[Document|文献]]或数据库转化为课堂行动([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 争议与评论
 

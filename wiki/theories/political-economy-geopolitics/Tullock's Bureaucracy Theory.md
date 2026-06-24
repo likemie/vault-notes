@@ -25,6 +25,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -138,7 +139,7 @@ updated: '2026-05-18'
 > - **批评立场**：Dunleavy (1991) 的官僚 career-driven 模型提供了反例——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性地向上级呈现有利数据）。单纯的知识问题模型无法解释这种策略性信息操纵。
 > - **[[Argument_Cowen_2019_ERE|Cowen (2019)]] 的认可**：Cowen 并未声称 Tullock 模型是完整的——他将其定位为对 Niskanen 自利模型的补充而非替代。知识问题和激励问题在经验上交织，但分析上区分有助于理解 [[Evidence-Based Education|EBE]] 的吸引力：即使决策者真诚追求教育改善，他们仍会选择 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为透明的过滤机制。（基于 Cowen, 2019, pp. 5–8）
 >
-> **目前状态**：此张力在公共选择文献中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
+> **目前状态**：此张力在公共选择[[Document|文献]]中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
 
 
 > [!warning] 系统性解释的局限：为什么是现在？

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Objectivism]]"
+  - "[[Document]]"
   - "[[Interpretive Paradigm]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
@@ -121,7 +122,7 @@ updated: 2026-06-21
 > 胡塞尔主张哲学必须成为“严格的科学”（strenge Wissenschaft），其任务是为一切人类知识提供无可怀疑的无假设（Presuppositionless）基础。他强烈批判将意识还原为大脑机制的物理主义[[Objectivism|客观主义]]与将客观真理还原为心理习惯的心理学主义。胡塞尔提出，研究应当“回到事物本身”（Zu den Sachen selbst），通过[[Epoché|悬置]]方法排除日常和科学的先入之见，直接在纯粹意识中直观本质；而客观世界的时空确定性，本质上是在日常“生活世界”中，通过主体与他者之间的“主体间性”互动与移情共筑而成的。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
 
 > [!citation-card]- 关键表述：自然态度的总命题（Generalthesis）
-> 我发现有一个空间-时间上的现实始终作为我的对立面存在，我自己也属于其中，就像所有其他在此现实中发现并以同样方式与之关联的人一样。我把这‘现实’，如字面所言，作为‘存有的’去发现，并像它呈现给我的那样，也把它作为‘存有的’承接下。对自然世界给定的东西的一切怀疑和否定，都不能改变自然态度的总命题。（根据维基百科的文献引述）
+> 我发现有一个空间-时间上的现实始终作为我的对立面存在，我自己也属于其中，就像所有其他在此现实中发现并以同样方式与之关联的人一样。我把这‘现实’，如字面所言，作为‘存有的’去发现，并像它呈现给我的那样，也把它作为‘存有的’承接下。对自然世界给定的东西的一切怀疑和否定，都不能改变自然态度的总命题。（根据维基百科的[[Document|文献]]引述）
 >
 > *„Ich finde beständig vorhanden als meine Gegenüber die eine räumlich-zeitliche Wirklichkeit, der ich selbst zugehöre, wie alle anderen in ihr vorfindlichen und auf sie in gleicher Weise bezogenen Menschen. Die ‚Wirklichkeit‘, das sagt schon das Wort, finde ich als daseiende vor und nehme sie, wie sie sich mir gibt, auch als daseiende hin. Alle Bezweiflung und Verwerfung von Gegebenheiten der natürlichen Welt ändert nichts an der Generalthesis der natürlichen Einstellung.“*
 
@@ -159,7 +160,7 @@ updated: 2026-06-21
 >   - **[[Alfred Schutz|阿尔弗雷德·舒茨]]（Alfred Schutz）**：现象学社会学奠基人，将胡塞尔的生活世界概念社会学化。
 >   - **欧根·芬克（Eugen Fink）**：晚期助手，宣读其葬礼悼词。
 >   - **赫尔曼·凡·布雷达（Herman Van Breda）**：方济各会修士，在二战前夕将胡塞尔手稿密运至鲁汶，成立胡塞尔档案馆。
->   - *文献支撑*：[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
+>   - *[[Document|文献]]支撑*：[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
 > - **批评者／论敌**
 >   - **哥特洛布·弗雷格（Gottlob Frege）**：逻辑学家，其1894年发表的批评促使胡塞尔清算心理学主义。
 >   - **威廉·狄尔泰（Wilhelm Dilthey）**：历史主义哲学家，胡塞尔撰写《哲学作为严格的科学》批判其历史主义世界观。

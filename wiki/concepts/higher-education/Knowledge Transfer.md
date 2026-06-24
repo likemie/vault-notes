@@ -29,6 +29,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Value Neutrality]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
   - "[[Cooperative Education]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
@@ -160,7 +161,7 @@ updated: '2026-05-18'
 > [!info]
 > 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，知识转移（[[Knowledge Exchange|knowledge transfer]]）指知识在大学与产业之间的流动——包括从非正式的个人交流到高度结构化的合同协议的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）。
 
-与[[Technology Transfer|技术转移]]不同，知识转移是一个更宽泛的概念：技术转移特指通过知识产权制度（专利、许可、衍生企业）进行的**商业化导向**的知识流动，而知识转移还包括非商业化的、非正式的知识流动——学术文献、会议报告、校友网络中的信息交流、学生实习中的技能传递，以及教师咨询中的隐性知识分享（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）。
+与[[Technology Transfer|技术转移]]不同，知识转移是一个更宽泛的概念：技术转移特指通过知识产权制度（专利、许可、衍生企业）进行的**商业化导向**的知识流动，而知识转移还包括非商业化的、非正式的知识流动——学术[[Document|文献]]、会议报告、校友网络中的信息交流、学生实习中的技能传递，以及教师咨询中的隐性知识分享（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）。
 
 > [!quote]
 > "Knowledge sharing and technology transfer are common components, but the exact form varies over a spectrum from informal conversations to highly structured contractual agreements."（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）

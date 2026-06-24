@@ -11,6 +11,7 @@ related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Search]]"
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Deficiencies Model for an Introduction]]"
 related_theories: []
@@ -30,7 +31,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 倒三角[[Literature Search|文献检索]]（Inverted Triangle literature search）是 Creswell 提出的一种文献检索启发法，用于应对研究生常见的困境——"我的题目没有人研究过"。其核心思路是：当计划的学术研究过于狭窄而找不到直接相关的文献时，从窄到宽逐层拓宽检索范围，寻找间接相关的研究，最终以一般性文献总结开头、以接近计划研究的狭窄文献收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+> 倒三角[[Literature Search|文献检索]]（Inverted Triangle literature search）是 Creswell 提出的一种文献检索启发法，用于应对研究生常见的困境——"我的题目没有人研究过"。其核心思路是：当计划的学术研究过于狭窄而找不到直接相关的[[Document|文献]]时，从窄到宽逐层拓宽检索范围，寻找间接相关的研究，最终以一般性文献总结开头、以接近计划研究的狭窄文献收尾（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 ## 视觉隐喻
 
@@ -48,14 +49,14 @@ updated: 2026-05-31
 2. **第一次拓宽**：小学阶段的风险学生（at-risk students, generally in the primary school）——扩大了范围，从 children 到 students
 3. **第二次拓宽**：任何教育阶段的风险学生（at-risk students at any level in education）——进一步扩大到所有教育阶段
 
-最终写法：先总结更宽泛的文献，再以接近计划研究的狭窄研究收尾。
+最终写法：先总结更宽泛的[[Document|文献]]，再以接近计划研究的狭窄研究收尾。
 
 > [!tip]- 核心逻辑
 > 倒三角策略的本质是承认"虽然没有人与我做完全一样的研究，但相关领域的研究可以为我的研究提供基础"。研究者不需要找到精确匹配的文献，而是找到论证链——从宽泛的相关文献逐步过渡到最接近计划研究的文献。
 
 ## 使用情境
 
-倒三角策略适用于引言中的[[Literature Review|文献综述]]部分（不是完整的[[Literature Review|文献综述]]章节）。在[[Deficiencies Model for an Introduction|引言缺陷模型]]的第二部分——"综述文献中关于该问题的证据"——中，当研究者发现计划研究的题目过于狭窄时，可以使用这一策略来定位可引用的文献群组。
+倒三角策略适用于引言中的[[Literature Review|文献综述]]部分（不是完整的[[Literature Review|文献综述]]章节）。在[[Deficiencies Model for an Introduction|引言缺陷模型]]的第二部分——"综述[[Document|文献]]中关于该问题的证据"——中，当研究者发现计划研究的题目过于狭窄时，可以使用这一策略来定位可引用的文献群组。
 
 > [!note]- 与完整文献综述的区别
 > 引言中的文献综述只总结大的研究群组，不逐一详述个别研究。倒三角策略帮助研究者识别这些"大的研究群组"——即倒三角中每一层所代表的宽泛文献类别。

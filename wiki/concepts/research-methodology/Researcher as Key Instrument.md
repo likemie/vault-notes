@@ -15,7 +15,12 @@ tags:
   - research-methodology
   - qualitative-research
 related_concepts:
+  - "[[Document]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Interpretive Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Knowledge-that and Know-how-to]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -36,7 +41,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research|质性研究]]的核心公理之一：质性研究者自行收集数据——通过检查文件、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的问卷或工具（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。Eisner（1991）最早明确提出这一概念：在质性/自然主义研究中，研究者生成而非检验假设，不知事先会看到什么、寻求什么。Lincoln & Guba（1985: 187）将研究者描述为"人即研究工具"（human instrument），其优势在于适应性、反应性、知识储备、处理敏感事务的能力、看到全貌的能力、以及澄清、概括和探索非典型反应的能力（pp.193–194）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404, 408)]]
+> 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research|质性研究]]的核心公理之一：质性研究者自行收集数据——通过检查[[Document|文件]]、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的问卷或工具（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。Eisner（1991）最早明确提出这一概念：在质性/自然主义研究中，研究者生成而非检验假设，不知事先会看到什么、寻求什么。Lincoln & Guba（1985: 187）将研究者描述为"人即研究工具"（human instrument），其优势在于适应性、反应性、知识储备、处理敏感事务的能力、看到全貌的能力、以及澄清、概括和探索非典型反应的能力（pp.193–194）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404, 408)]]
 
 > [!citation-card]- Hammersley & Atkinson 的经典表述
 > 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用——这成为分析的核心。我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 409)]]

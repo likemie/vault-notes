@@ -18,6 +18,7 @@ tags:
   - theme/social-justice
 related_concepts:
   - "[[Theoretical Perspective]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Discipline-Based Theory]]"
@@ -54,7 +55,7 @@ updated: 2026-05-31
 > [!abstract]
 > 1. 在研究开头段落中指明框架（如女性主义、[[Participatory Research|参与式研究]]）
 > 2. 在研究早期提及该框架与边缘化或未被充分代表的社区的关系，以及该社区面临的具体问题（如压迫、权力）
-> 3. 将该框架置于理论文献体系之中（如女性主义文献或种族文献）
+> 3. 将该框架置于理论[[Document|文献]]体系之中（如女性主义文献或种族文献）
 > 4. 让相关社区参与研究（如参与数据收集）
 > 5. 在[[Research Question|研究问题]]中采取立场——倡导性导向（如"不平等确实存在，研究将着手证实它"）
 > 6. 在变革性框架内推进量化与质性方法的收集、分析和整合
@@ -69,7 +70,7 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **社会正义理论 vs [[Discipline-Based Theory|学科理论]]**：学科理论从学科文献中提取，以[[Variable|变量]]间关系的解释和预测为核心；社会正义理论以赋权边缘群体、改变不平等结构为核心使命。前者追求科学解释，后者追求社会变革。
+> **社会正义理论 vs [[Discipline-Based Theory|学科理论]]**：学科理论从学科[[Document|文献]]中提取，以[[Variable|变量]]间关系的解释和预测为核心；社会正义理论以赋权边缘群体、改变不平等结构为核心使命。前者追求科学解释，后者追求社会变革。
 
 > [!example]
 > **社会正义理论 vs [[Theoretical Standpoint|理论立场]]**：两者都关注边缘群体和权力关系，但社会正义理论是[[Mixed Methods Research|混合方法研究]]中的用法——研究者同时收集量化和质性数据，在两类数据中整合变革性视角；理论立场是[[Qualitative Research|质性研究]]中的用法，主要通过质性方法赋予参与者声音。

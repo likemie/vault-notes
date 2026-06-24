@@ -17,6 +17,7 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Sample Size Determination]]"
   - "[[Reliability]]"
@@ -53,7 +54,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 目的性抽样（Purposeful Sampling）是[[Qualitative Research|质性研究]]中选择参与者或场所（或文件、视觉材料）的策略，其目标是有目的地选择最能帮助研究者理解[[Research Question|研究问题]]的样本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.198）。与[[Quantitative Research|量化研究]]的[[Random Sampling|随机抽样]]或大量参与者选择有本质区别——质性研究追求信息的丰富性和深度，而非统计代表性。
+> 目的性抽样（Purposeful Sampling）是[[Qualitative Research|质性研究]]中选择参与者或场所（或[[Document|文件]]、视觉材料）的策略，其目标是有目的地选择最能帮助研究者理解[[Research Question|研究问题]]的样本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.198）。与[[Quantitative Research|量化研究]]的[[Random Sampling|随机抽样]]或大量参与者选择有本质区别——质性研究追求信息的丰富性和深度，而非统计代表性。
 
 Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个方面：
 

@@ -19,6 +19,7 @@ tags:
   - theme/educational-technology
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Document]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []
@@ -66,7 +67,7 @@ updated: 2026-06-07
 > [[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 使用[[Actor-Network Theory|行动者网络理论]]分析 PCI，展示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系
 >
 > - **课堂延迟**。课堂系统性地延迟 15 到 20 分钟，原因是让每台电脑就位并通过 E-Learning Class 软件连接内部网络所需的冗长设置。
-> - **E-Learning Class**。该软件成为具有巨大影响力的新兴行动者，连接教室中的所有电脑，让教师能在自己屏幕上看到学生所见、操作学生电脑、与学生共享文件。其西班牙语名称 programa maestro（教师程序或主人程序）暗示了教师对学生的控制。
+> - **E-Learning Class**。该软件成为具有巨大影响力的新兴行动者，连接教室中的所有电脑，让教师能在自己屏幕上看到学生所见、操作学生电脑、与学生共享[[Document|文件]]。其西班牙语名称 programa maestro（教师程序或主人程序）暗示了教师对学生的控制。
 > - **多层次行动者**。延迟的原因分布在国家招标规范、省级连接问题、英特尔雇佣的中国软件公司、教师培训策略、学生行为、学校电力配置等多个层面。
 > - **权力绕过国家政策**。阿根廷《国家教育法》规定国家不会将教育视为盈利服务，但英特尔、微软、中国软件公司等私人企业通过 PCI 在阿根廷课堂中部署了其权力。
 

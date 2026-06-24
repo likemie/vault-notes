@@ -24,6 +24,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -46,7 +47,7 @@ updated: 2026-06-11
 > [!info]
 > 粤港澳大湾区（Guangdong-Hong Kong-Macau Greater Bay Area，GBA）是 2019 年由《粤港澳大湾区发展规划纲要》正式确立的国家级区域发展战略。大湾区涵盖广东省九市（广州、深圳、珠海、佛山、惠州、东莞、中山、江门、肇庆）以及香港和澳门两个特别行政区，目标是建设具有全球影响力的国际科技[[Innovation Hub|创新中心]]。高等教育被定位为区域发展的关键驱动力，负责培养高素质人才、发展[[Technology Transfer|技术转移]]和创新能力，并构建区域认同和声誉[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]。
 
-GBA 的制度环境具有独特的[[Heterogeneity|异质性]]——三个管辖区（广东、香港、澳门）拥有不同的法律制度、学术治理模式、资助机制和学术文化——这使得跨区域合作既是机遇也是挑战。已有研究主要从基础设施、政策文件和制度设计层面分析 GBA，但对生活在这一空间中的行动者——特别是桥接学术、产业和政府网络的关键节点教师——的日常经验关注不足。
+GBA 的制度环境具有独特的[[Heterogeneity|异质性]]——三个管辖区（广东、香港、澳门）拥有不同的法律制度、学术治理模式、资助机制和学术文化——这使得跨区域合作既是机遇也是挑战。已有研究主要从基础设施、政策[[Document|文件]]和制度设计层面分析 GBA，但对生活在这一空间中的行动者——特别是桥接学术、产业和政府网络的关键节点教师——的日常经验关注不足。
 
 ---
 ## 相关概念

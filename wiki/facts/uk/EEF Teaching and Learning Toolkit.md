@@ -28,6 +28,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Tracking]]"
+  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Based Reform]]"
@@ -163,7 +164,7 @@ updated: '2026-06-08'
 > - 呈现方式有吸引力且色彩丰富([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19]])
 > - 对教师理解哪些干预主动有害（如[[Tracking|能力分组]]）提供了有力参考([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.23]])
 > - 一位新教师形容为通往高质量证据的捷径([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
-> - Toolkit 的详细文件对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22]])
+> - Toolkit 的详细[[Document|文件]]对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22]])
 
 ---
 

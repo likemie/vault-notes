@@ -37,6 +37,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -298,7 +299,7 @@ updated: '2026-05-21'
 >
 > **LeLorier et al. (1997) — 偏倚在聚合层级间传播**
 >
-> LeLorier et al.（1997）在医学文献中已警告偏倚在聚合层级间传播——一级聚合的偏倚在二级聚合中被进一步放大。
+> LeLorier et al.（1997）在医学[[Document|文献]]中已警告偏倚在聚合层级间传播——一级聚合的偏倚在二级聚合中被进一步放大。
 >
 > **[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 全语言案例的方法论审查**
 >

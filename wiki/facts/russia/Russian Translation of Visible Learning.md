@@ -20,6 +20,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 > [!note]- 经过
 > - **2017 年** — Hattie 的 *[[Visible Learning]]* 由"Natsional'noe obrazovanie"（国民教育）出版社翻译出版，该出版社隶属于 Prosveshchenie（教育出版社）集团([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]])
 > - 该书出版后在俄罗斯教育界引起广泛关注和讨论，包括教师网络研讨会（webinars）层面的积极传播
-> - **2018 年** — N.A. Borisenko 在 *Voprosy obrazovaniya*（Educational Studies）发表书评，称 VL 的出版是"近年来翻译教育文献出版领域的主要事件之一"，并指出该书是"迄今为止唯一对影响学童教育成就的最重要因素进行评估的科学著作"([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237, citing Borisenko, 2018]])
+> - **2018 年** — N.A. Borisenko 在 *Voprosy obrazovaniya*（Educational Studies）发表书评，称 VL 的出版是"近年来翻译教育[[Document|文献]]出版领域的主要事件之一"，并指出该书是"迄今为止唯一对影响学童教育成就的最重要因素进行评估的科学著作"([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237, citing Borisenko, 2018]])
 > - I.V. Vachkov 和 S.N. Vachkova（2018）基于对 Hattie 理念的分析，得出结论认为有必要使用[[Meta-analysis|元分析]]来"检验教学创新的生产力"([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])
 > - E.A. Sokolova（2017）发现 Hattie 的研究与俄罗斯联邦国家教育标准（FSES）中关于培养学生批判性思维的规定存在联系([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])
 
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 > [!success] 影响与后果
 > **学术层面**：
 > - [[Visible Learning|VL]] 成为俄罗斯教育学术讨论的热点话题，被用于论证 FSES 标准的合理性
-> - 但同时，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]指出"由于某些原因，批评者的论点在俄语文献中未被提及"（p.229），造成俄罗斯学界对 VL 的认知偏向正面
+> - 但同时，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]指出"由于某些原因，批评者的论点在俄语[[Document|文献]]中未被提及"（p.229），造成俄罗斯学界对 VL 的认知偏向正面
 >
 > **政策风险**：
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019, p.240-241)]]基于方法论检验（变差系数 Vσ=56.87% > 33% 同质性阈值）和文化匹配度分析，明确建议俄罗斯教育政策**不应采用** Hattie 方法

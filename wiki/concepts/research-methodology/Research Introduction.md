@@ -10,6 +10,7 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Document]]"
   - "[[Narrative Hook]]"
   - "[[Research Question]]"
   - "[[Variable]]"
@@ -35,7 +36,7 @@ updated: 2026-05-31
 > [!info]
 > 引言（Introduction）是期刊文章、学位论文或学术研究中的第一部分文字，为整个研究项目搭建舞台。Wilkinson（1991）将其定义为"为读者提供研究报告背景信息的部分，其目的是为研究建立框架，使读者能够理解该研究如何与其他研究相关联"（p.96；引自 Creswell & Creswell, 2022, 第5章）。
 
-引言之所以需要特别关注，是因为它是研究或研究方案中最先被阅读的段落。它必须在短短几页内完成多项任务：创造读者对主题的兴趣、确立引导研究的问题、将研究置于学术文献的更大语境中，以及触及目标受众（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+引言之所以需要特别关注，是因为它是研究或研究方案中最先被阅读的段落。它必须在短短几页内完成多项任务：创造读者对主题的兴趣、确立引导研究的问题、将研究置于学术[[Document|文献]]的更大语境中，以及触及目标受众（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 > [!quote]
 > "The introduction is the part of the paper that provides readers with the background information for the research reported in the paper. Its purpose is to establish a framework for the research, so that readers can understand how it is related to other research."（Wilkinson, 1991, p.96）
@@ -48,7 +49,7 @@ Creswell & Creswell（2022, 第5章）指出引言需要同时履行四项功能
 
 1. **创造读者兴趣**：通过[[Narrative Hook|叙事钩子]]激发读者对主题的兴趣，让广泛受众能够理解研究的意义
 2. **确立[[Research Question|研究问题]]**：清晰传达引导研究需求的研究问题，使读者理解"为什么需要这项研究"
-3. **置于学术文献语境**：将研究嵌入更大的学术对话之中，展示该研究与已有文献的关系
+3. **置于学术[[Document|文献]]语境**：将研究嵌入更大的学术对话之中，展示该研究与已有文献的关系
 4. **触及受众**：说明研究对不同受众群体（研究者、实践者、政策制定者）的重要意义
 
 > [!warning] 篇幅约束
@@ -60,7 +61,7 @@ Creswell & Creswell（2022, 第5章）指出引言需要同时履行四项功能
 
 Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Research Question|研究问题]]时容易遇到的四个困难：
 
-1. **识别现状而非问题**：研究者常常只描述文献中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据是陈述事实，真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。建议不要仅仅陈述事实，而要深入思考背后存在的根本问题。
+1. **识别现状而非问题**：研究者常常只描述[[Document|文献]]中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据是陈述事实，真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。建议不要仅仅陈述事实，而要深入思考背后存在的根本问题。
 
 2. **问题不明确**：当作者没有清晰识别研究问题时，读者只能自己判断研究的重要性，甚至可能因此放弃阅读。
 

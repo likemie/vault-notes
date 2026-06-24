@@ -18,6 +18,7 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Central Phenomenon]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Descriptive Analysis]]"
@@ -26,6 +27,7 @@ related_concepts:
   - "[[Construct]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Critical Ethnography]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
@@ -48,7 +50,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
+> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅[[Document|文件]]来回答([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
 
 > [!quote]
 > "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])
@@ -80,7 +82,7 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 > 5. **聚焦单一[[Central Phenomenon|核心现象]]或概念**：深入研究一个焦点
 > 6. **使用探索性动词**：report/reflect（[[Narrative Research|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis|描述性分析]]）
 > 7. **预计问题会演变**：[[Qualitative Research|质性研究]]中的问题处于持续审查和重写的状态
-> 8. **使用开放性问题**：除非质性路径另有要求，否则不引用文献或理论
+> 8. **使用开放性问题**：除非质性路径另有要求，否则不引用[[Document|文献]]或理论
 > 9. **指定参与者和研究场所**：如果信息尚未提供
 
 ---
@@ -89,7 +91,7 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 
 不同质性路径对核心问题的具体形式有不同要求（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
-- **[[Ethnography|民族志]]**：Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。[[Critical Ethnography|批判民族志]]的[[Research Question|研究问题]]可建立在已有文献体系之上（Thomas, 1993）。
+- **[[Ethnography|民族志]]**：Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。[[Critical Ethnography|批判民族志]]的[[Research Question|研究问题]]可建立在已有[[Document|文献]]体系之上（Thomas, 1993）。
 - **[[Phenomenology|现象学]]**：问题通常不加特定文献引用或问题类型学地宽泛陈述。Moustakas (1994) 建议询问参与者经历了什么，以及在什么情境下经历。现象学示例："What is it like for a mother to live with a teenage child who is dying of cancer?"（Nieswiadomy, 1993, p.151）
 - **[[Grounded Theory|扎根理论]]**：问题指向生成关于某一过程的理论，如"在医院环境中，照顾者和病人如何互动？"
 - **案例研究**：问题可包括对案例的描述以及研究案例中[[Emergence|涌现]]的主题

@@ -15,7 +15,8 @@ tags:
 - mass-education
 - citizenship
 - boundaries
-related_concepts: []
+related_concepts:
+  - "[[Document]]"
 related_theories:
   - "[[Nation Building through Education]]"
   - "[[World Society Theory]]"
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[World Society Theory]] — Ramirez & Boli (1987) 是斯坦福学派（Meyer 等）的核心文献。Membership-creating 是这一理论的历史基础：全球学校模式的扩散之所以可能，正是因为现代民族国家普遍用教育来创造成员身份
+> - [[World Society Theory]] — Ramirez & Boli (1987) 是斯坦福学派（Meyer 等）的核心[[Document|文献]]。Membership-creating 是这一理论的历史基础：全球学校模式的扩散之所以可能，正是因为现代民族国家普遍用教育来创造成员身份
 > - [[Nation Building through Education]] — membership-creating 是国族建构的基础性社会机制：国家先用教育划定"谁是公民"的边界（membership-creating），再在边界内部——特别是边疆地区——推行统一的身份认同（nation building）
 >
 

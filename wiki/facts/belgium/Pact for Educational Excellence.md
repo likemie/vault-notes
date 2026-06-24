@@ -22,6 +22,7 @@ tags:
   - policy/compulsory-education
 related_concepts:
   - "[[Grade Retention]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Reform]]"
@@ -58,7 +59,7 @@ updated: 2026-05-24
 ## 政策文本摘要
 
 > [!abstract]
-> 教育卓越公约不是单一课程文件，而是一组围绕教育绩效、公平和系统结构调整展开的改革方案。它把利益相关者协商、结构性改革和证据本位项目验证结合起来，并在官方建议文本中承认需要试点、验证并按有效性扩大教育项目([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.170-171, 182]])。
+> 教育卓越公约不是单一课程[[Document|文件]]，而是一组围绕教育绩效、公平和系统结构调整展开的改革方案。它把利益相关者协商、结构性改革和证据本位项目验证结合起来，并在官方建议文本中承认需要试点、验证并按有效性扩大教育项目([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.170-171, 182]])。
 
 改革计划包括七类主要结构变化：在能力本位基础上重新引入知识定义；从 5 岁起使学前教育成为义务教育并建立合适标准；把共同核心课程从 3 岁延伸到 15 岁；以“定向取向模式”替代主要由失败和困难驱动的早期分流；到 2030 年将[[Grade Retention|留级]]率降低 50%；调整学校日历为 7 周上课和 2 周假期交替，并缩短暑假；把小学和初中教师初始培养从 3 年延长到 4 年并加入大学组成部分([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.172-173]])。
 
@@ -86,12 +87,12 @@ updated: 2026-05-24
 > [!info]- 核心数据
 > - 2017 年工作组列出 425 个教学工具或项目，其中 61 个曾被教育研究者测试，13 个采用实验设计测试，占总数约 3%([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。
 > - 改革文本估算需要 200 万欧元专项和经常性预算，用于学校实验、严格评价和公共政策系统评价([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.181]])。
-> - 首年工作中，英文科学文献引用少于全部参考文献的 15%，显示语言屏障限制了法语教育行动者使用国际证据资源([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.181]])。
+> - 首年工作中，英文科学[[Document|文献]]引用少于全部参考文献的 15%，显示语言屏障限制了法语教育行动者使用国际证据资源([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.181]])。
 
 ## 争议与评论
 
 > [!warning]
-> 公约处在纯粹证据本位[[Paradigm|范式]]与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 的证据等级([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176, 181-182]])。
+> 公约处在纯粹证据本位[[Paradigm|范式]]与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语[[Document|文献]]进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 的证据等级([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176, 181-182]])。
 
 [[Grade Retention|留级]]政策展示了“有证据但改革不够强”的一面。大量综述未能识别留级的平均正效应，但法语比利时案例中的改革目标只是到 2030 年降低 50%，仍允许共同核心课程阶段使用留级；这体现了自上而下禁令与自下而上软性改变之间的政策取舍([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.174]])。
 

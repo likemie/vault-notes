@@ -22,6 +22,7 @@ related_concepts:
   - "[[Nondirectional Language]]"
   - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -34,9 +35,9 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Convergent Design]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts: []
@@ -120,7 +121,7 @@ updated: 2026-05-31
 > | 行动动词 | 考察（examined）、探索（explore）——均为开放、探索性动词 |
 > | 参与者 | 一位中国移民学生 Ai Mei Zhang（单一个案） |
 > | 研究场所 | 加拿大中学课程环境 + 学校与家庭的双重情境 |
-> | 质性路径 | 叙事研究（narrative inquiry）——长期的、学校本位的叙事探究，含大量课堂观察、文件审阅、与关键参与者的对话和田野笔记 |
+> | 质性路径 | 叙事研究（narrative inquiry）——长期的、学校本位的叙事探究，含大量课堂观察、[[Document\|文件]]审阅、与关键参与者的对话和田野笔记 |
 > | 非方向性语言 | 全文未使用 successful、positive 等方向性词语；聚焦于认同"如何被塑造"而非"是否成功塑造" |
 
 >

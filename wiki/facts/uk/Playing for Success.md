@@ -24,6 +24,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Mentorship]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods:
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success] 影响与后果
-> Playing for Success 案例在学术文献中已成为**说明[[Meta-meta-analysis|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导实践决策。
+> Playing for Success 案例在学术[[Document|文献]]中已成为**说明[[Meta-meta-analysis|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导实践决策。
 
 ## 相关概念／政策
 

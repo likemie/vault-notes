@@ -27,6 +27,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
+  - "[[Document]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
@@ -145,7 +146,7 @@ updated: '2026-05-25'
 > [!warning] 缺乏学科基础的创新与脆弱性
 > LS 有意设计为无单一学科基础的跨学科科目，这既是其教育创新的核心，也是其政策脆弱性的根源。
 >
-> - **支持立场**：LS 的设计者有意识地拒绝将科目限制在传统学科边界内——课程文件明确表述知识是 "contextualised, multi-disciplinary and personally and socially constructed"（CDC & HKEAA, 2007, p. 83）。这种设计旨在培养批判性思维而非传授固定知识体系。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 481]])
+> - **支持立场**：LS 的设计者有意识地拒绝将科目限制在传统学科边界内——课程[[Document|文件]]明确表述知识是 "contextualised, multi-disciplinary and personally and socially constructed"（CDC & HKEAA, 2007, p. 83）。这种设计旨在培养批判性思维而非传授固定知识体系。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 481]])
 > - **批评立场**：Deng & Luke (2008) 和 Deng (2009) 指出缺乏清晰的学科根基使 LS 容易遭受来自不同意识形态方向的攻击——因为它没有一个公认的"知识核心"来作为课程的防御基础。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 481]])
 >
 > **目前状态**：LS 已因政治压力被 [[Citizenship and Social Development|CSD]] 取代（2021），但"跨学科 vs 学科根基"的张力在全球课程改革中仍是活着的辩论。

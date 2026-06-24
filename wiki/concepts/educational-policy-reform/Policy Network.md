@@ -25,11 +25,13 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Venture Philanthropy]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Stephen Ball]]"
 related_facts:
@@ -97,7 +99,7 @@ updated: 2026-06-17
 > 政策网络通过公私联合，垄断关于教育中“有效知识”的定义权，将复杂的社会政策问题重塑为单一的生理学/技术性问题，以此绕过广泛的民主性辩论。
 > 
 > > [!warrant]- 支撑理由
-> > 网络中的官方证据中介与跨国基金会（如英国的[[Education Endowment Foundation|教育捐赠基金会]]，EEF）通过资助特定的[[Randomised Controlled Trials|随机对照试验]]（RCT）与证据综述，将特定的心理学说（如[[Cognitive Load Theory|认知负荷理论]]）确立为官方大纲的必修核心参考文献，从而将关注社会背景的传统教育学说系统性边缘化。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–8]])
+> > 网络中的官方证据中介与跨国基金会（如英国的[[Education Endowment Foundation|教育捐赠基金会]]，EEF）通过资助特定的[[Randomised Controlled Trials|随机对照试验]]（RCT）与证据综述，将特定的心理学说（如[[Cognitive Load Theory|认知负荷理论]]）确立为官方大纲的必修核心参考[[Document|文献]]，从而将关注社会背景的传统教育学说系统性边缘化。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–8]])
 
 ---
 

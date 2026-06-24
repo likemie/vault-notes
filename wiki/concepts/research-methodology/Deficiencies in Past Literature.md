@@ -10,6 +10,7 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Document]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Research Question]]"
   - "[[Variable]]"
@@ -33,7 +34,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+> 既往[[Document|文献]]缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 在学术引言中，仅仅陈述[[Research Question|研究问题]]和综述文献是不够的；研究者还必须明确指出已有文献中存在的不足，并说明计划中的研究将如何弥补或回应这些不足。
 
@@ -46,7 +47,7 @@ updated: 2026-05-31
 **主题与范围层面：**
 - 某一群体、样本或总体未被充分探索
 - 研究需要复制以检验相同发现是否因混合结果而需要重新确认
-- 文献未涉及特殊人群或群体
+- [[Document|文献]]未涉及特殊人群或群体
 - 文献未探索新的研究场所
 - 文献未为未被充分代表的群体发声
 
@@ -68,7 +69,7 @@ updated: 2026-05-31
 
 ## 量化、质性和混合方法中的缺陷差异
 
-不同研究路径强调不同类型的文献缺陷（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
+不同研究路径强调不同类型的[[Document|文献]]缺陷（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **[[Quantitative Research|量化研究]]**：缺陷可能涉及理论发展不充分、测量工具未经验证或不可靠、未关注中介[[Variable|变量]]、变量被忽略等
 - **[[Qualitative Research|质性研究]]**：缺陷可能涉及未处理特殊人群或群体、未探索新的场所、未为未被充分代表的群体发声、缺乏质性数据等
@@ -78,7 +79,7 @@ updated: 2026-05-31
 
 ## 陈述缺陷的语言表达
 
-Creswell & Creswell（2022, 第5章）提供了两个展示文献缺陷表述的范例：
+Creswell & Creswell（2022, 第5章）提供了两个展示[[Document|文献]]缺陷表述的范例：
 
 > [!example] 范例 1：探索空白
 > "For this reason, the meaning of war and peace has been explored extensively by social scientists (Cooper, 1965; Alvik, 1968; Rosell, 1968; Svancarova & Svancarova, 1967–68; Haavedsrud, 1970). **What remains to be explored, however, is how veterans of past wars react to vivid scenes of a new war.**"（Ziller, 1990, pp.85–86）
@@ -97,7 +98,7 @@ Creswell & Creswell（2022, 第5章）提供了以下操作建议：
 1. 引用多个缺陷来为新的研究构建强有力的案例
 2. 具体识别其他研究的缺陷（如方法上的缺陷、被忽略的[[Variable|变量]]）
 3. 写出过去研究忽略的领域，包括主题、特殊的统计处理、重要意义和其他量化缺陷
-4. 讨论计划中的研究将如何弥补这些缺陷并为学术文献提供独特贡献
+4. 讨论计划中的研究将如何弥补这些缺陷并为学术[[Document|文献]]提供独特贡献
 5. 查看期刊文章中提到的研究局限，寻找可以引用的缺陷线索
 6. 可以使用一系列短段落识别过去研究的三到四个不足，或聚焦于一个主要不足
 

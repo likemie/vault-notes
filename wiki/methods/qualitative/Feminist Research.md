@@ -22,6 +22,7 @@ related_concepts:
   - "[[Consequential Validity]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -106,7 +107,7 @@ updated: 2026-06-16
 > - 改变现状的需要是社会研究的起点——"如果我们想了解梨子，就必须咀嚼它"（Mies, 1993，引用中国谚语）。
 > - 广泛使用[[Triangulation|三角互证]]和多种方法（包括视觉技术）。
 > - 使用语言技术如会话分析。
-> - 使用文本分析如解构关于女性的文件和文本。
+> - 使用文本分析如解构关于女性的[[Document|文件]]和文本。
 > - 使用[[Meta-analysis|元分析]]综合个别研究的发现。
 > - 离开数字化调查并对其进行批判性评估，包括对问题措辞的批判。
 

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Document]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Network Society]]"
@@ -161,7 +162,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 > - Knight (2014) 识别的教育枢纽国家/地区：新加坡、阿联酋、卡塔尔、香港、马来西亚、博茨瓦纳、韩国、斯里兰卡、毛里求斯、巴林（p.202）
 > - 迪拜国际分校数量全球第二（33 所），仅次于中国（36 所）（EY Parthenon, 2019, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.210–211]]）
 > - 新加坡 Global Schoolhouse 市场失败标志性事件：2007 年 3 月一所澳大利亚大学开学、同年 6 月关闭（Ng & Tan, 2010, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.209]]）
-> - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 研究数据：新加坡政策文件 60 份、阿联酋 38 份，两国专家访谈共 18 份（p.202）
+> - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 研究数据：新加坡政策[[Document|文件]] 60 份、阿联酋 38 份，两国专家访谈共 18 份（p.202）
 
 ---
 
@@ -173,7 +174,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 - **绕开制度建设的悖论**：教育枢纽路径以市场自由化和基础设施扩张替代社会与政治制度建设，本质上有悖于国际发展界推广的民主制度建设路径——然而这一路径仍被 British Council、[[OECD]] 等机构背书，因为这些机构将"教育扩张"本身视为发展参数而不区分方式和目的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.200, 211]])
 - **大学的工具化风险**：在教育枢纽环境中，大学被剥离更广泛的社会功能（如促进民主、社会批判），主要被视为经济工具。这可能是分校大多开设自然科学而非社会科学课程的原因之一([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.212]])
 - **区域赢家与输家**：教育枢纽在有"空隙"的环境中繁荣，有发达高教体系的国家在缺乏类似条件的区域获得不对等优势，可能加剧区域不平等并制造冲突([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])
-- **Erfurth 研究的局限性**：仅比较新加坡与阿联酋、依赖政策文件作为主要来源，限制了结论的推广范围([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.212–213]])。详见 对 Erfurth 的批评
+- **Erfurth 研究的局限性**：仅比较新加坡与阿联酋、依赖政策[[Document|文件]]作为主要来源，限制了结论的推广范围([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.212–213]])。详见 对 Erfurth 的批评
 
 ---
 

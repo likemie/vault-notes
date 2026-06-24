@@ -33,6 +33,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
   - "[[Hypothesis]]"
@@ -358,7 +359,7 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 > 大规模教育随机对照试验的效应量分布显示，大多数干预的效果很小([[Argument_Kraft_2023_ER|Kraft, 2023]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]])：
 >
 > - 36% 的教育干预随机对照试验标准化学业成就效应量小于 0.05，这比"小/中/大"标签更应成为解释政策相关性的核心基准([[Argument_Kraft_2023_ER|Kraft, 2023, p.183]])
-> - 教育随机对照试验效应量分布的中位数约为 0.10；美国教育部委托的研究子样本中位数仅为 0.03，说明发表文献中的效应量分布可能因[[Publication Bias|发表偏倚]]而偏向较大正值([[Argument_Kraft_2023_ER|Kraft, 2023, p.186]])
+> - 教育随机对照试验效应量分布的中位数约为 0.10；美国教育部委托的研究子样本中位数仅为 0.03，说明发表[[Document|文献]]中的效应量分布可能因[[Publication Bias|发表偏倚]]而偏向较大正值([[Argument_Kraft_2023_ER|Kraft, 2023, p.186]])
 > - 141 项大型教育随机对照试验的平均成就效应量仅为 0.06 个标准差，且只有 23% 的效应显著大于零([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])
 > - 95% 的效应量为正，几乎所有被纳入的因素似乎都有正面效应，只是程度不同([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])
 
@@ -383,7 +384,7 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 
 **[[Evidence-Based Education|证据本位教育]]支持者的防御策略**：[[Argument_Simpson_2019_ERE|Simpson (2019, pp. 106–108)]]引用 Freedman（2009）识别的统计论证被揭露缺陷后的防御策略清单，并展示了这些策略在证据本位教育支持者中的使用：
 
-| 防御策略 | 效应量文献中的表现 |
+| 防御策略 | 效应量[[Document\|文献]]中的表现 |
 | --- | --- |
 | [[Hypothesis\|假设]]是合理的 | Schneider & Preckel（2017）和 Higgins & Katsipataki（2016）列出假设但不检验其是否成立 |
 | 假设不重要 | "许多继续使用效应量代表教育有效性的人似乎无法区分有缺陷的论证和某些结论可能碰巧正确的可能性"（p. 107） |

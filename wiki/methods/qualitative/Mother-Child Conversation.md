@@ -30,6 +30,7 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Causality]]"
   - "[[Parental Cognitive and Affective Socialization]]"
+  - "[[Document]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -238,7 +239,7 @@ Li 使用**胜算比**（odds ratio）计算某一组更可能遵循某条对话
 Li 先建立三个跨文化共同模式。这一步很重要——如果不先承认共同点，可能被误读为"两种文化的家长完全不同"([[Argument_Li_2012_Cambridge|Li, 2012]])：
 
 1. **母亲都设置心理框架（mental frame）**：两种文化的母亲在开启对话时，都会先为儿童建立一个心理框架。差异在于框架的**内容指向**——EA 母亲指向儿童的情感反应（"How did you feel?"），TW 母亲指向[[Causality|因果关系]]（"你不复习 → 考试会发生什么？"）。
-2. **儿童都反驳（child's quibble）**：两种文化中，儿童的协商和反驳都是常态，**没有一组**是母亲单方面命令、儿童无条件服从的。这直接挑战了西方文献中将亚洲家长刻画为"专制型"的刻板印象——台湾儿童的 quibble 与欧裔美国儿童同样普遍、同样强烈。
+2. **儿童都反驳（child's quibble）**：两种文化中，儿童的协商和反驳都是常态，**没有一组**是母亲单方面命令、儿童无条件服从的。这直接挑战了西方[[Document|文献]]中将亚洲家长刻画为"专制型"的刻板印象——台湾儿童的 quibble 与欧裔美国儿童同样普遍、同样强烈。
 3. **母亲都说理说服（persuasion and alignment）**：两种文化的母亲都不是通过命令，而是通过一轮一轮的说理让儿童靠近自己的认知框架——但 EA 母亲多用"逐步缩小范围的提问链"（[[Socrates|苏格拉底]]式），TW 母亲多用"角色互换 + 归谬法"（道德推理式）。
 
 > [!tip]- 详细对话记录

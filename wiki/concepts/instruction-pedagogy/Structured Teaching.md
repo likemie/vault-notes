@@ -18,6 +18,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Direct Instruction]]"
   - "[[Individualised Instruction]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -78,5 +79,5 @@ updated: 2026-05-22
 > 瑞典 2011 年课程改革把 structured teaching 直接写进课程文本。Håkansson 引述的 `Lgr 11` 表述是，学校应在教师领导下为学生提供结构化教学，既包括个人学习，也包括班级共同学习。这说明该词一开始就是政策治理语言中的核心要求，而不只是研究共同体内部的分析概念（Håkansson, 2015, pp.584-585）。
 >
 > [!example] 瑞典 2011 教育条例与教育法语境
-> 文章同时指出，教师主导教学的要求并不只出现在课程文件中，也出现在 2011 年教育条例改革与更早的教育法定义里。正因为瑞典教育法已经把 teaching 界定为教师领导下的目标导向过程，structured teaching 才显得有些“同义反复”。Håkansson 因而把它解释成一次政策性再强调：面对成绩下降与课堂工作形式变化，国家重新把教师领导与课堂组织推回改革中心（Håkansson, 2015, pp.584-585, 590, 596）。
+> 文章同时指出，教师主导教学的要求并不只出现在课程[[Document|文件]]中，也出现在 2011 年教育条例改革与更早的教育法定义里。正因为瑞典教育法已经把 teaching 界定为教师领导下的目标导向过程，structured teaching 才显得有些“同义反复”。Håkansson 因而把它解释成一次政策性再强调：面对成绩下降与课堂工作形式变化，国家重新把教师领导与课堂组织推回改革中心（Håkansson, 2015, pp.584-585, 590, 596）。
 

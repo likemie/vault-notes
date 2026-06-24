@@ -16,6 +16,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ updated: 2026-06-17
 在 Blalock 所倡导的[[Causal Modeling|因果建模]]传统中，视觉模型从左到右排列[[Variable|变量]]，独立的外生变量位于最左侧，内生变量位于中段和右侧。箭头从外生变量流出，流向内生变量和最终的因变量。这种区分帮助研究者明确模型的因果结构，理清哪些变量是"给定"的起点，哪些变量是模型试图解释的中间或终结环节。
 
 > [!example]
-> Jungnickel (1990) 在研究药学院教师研究生产力的因果模型中，从护理学文献（Megel et al., 1987）中改编了一个理论框架。该模型将所有外生变量置于最左侧，包括：
+> Jungnickel (1990) 在研究药学院教师研究生产力的因果模型中，从护理学[[Document|文献]]（Megel et al., 1987）中改编了一个理论框架。该模型将所有外生变量置于最左侧，包括：
 > - 人口统计学变量（demographic variables）
 > - 机构终身教职标准（institutional tenure standards）
 > - 终身教职轨聘任（tenure-track appointment）

@@ -24,6 +24,7 @@ tags:
 - theme/development
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Production]]"
@@ -64,7 +65,7 @@ updated: 2026-05-19
 ## 政策文本摘要
 
 > [!abstract]
-> 阿联酋的教育枢纽不是一个统一的国家政策文件，而是由阿布扎比和迪拜两个酋长国各自推动的[[Internationalization of Higher Education|高等教育国际化]]项目的总称。两者的共同目标是经济多元化和全球融合，但运作逻辑和手段截然不同([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.207–211]])：
+> 阿联酋的教育枢纽不是一个统一的国家政策[[Document|文件]]，而是由阿布扎比和迪拜两个酋长国各自推动的[[Internationalization of Higher Education|高等教育国际化]]项目的总称。两者的共同目标是经济多元化和全球融合，但运作逻辑和手段截然不同([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.207–211]])：
 
 - **阿布扎比**：以国家石油财富资助高端外国大学和文化机构——NYU Abu Dhabi、索邦大学阿布扎比、卢浮宫阿布扎比——通过**关联全球高雅文化**来提升国家形象和软实力
 - **迪拜**：通过创建专门的**高等教育经济区**（模仿其金融自由区的成功模式），吸引国际分校形成产业集群，将高等教育打造为可直接盈利的出口产业，同时服务于日益增长的 expat 人口的教育需求
@@ -141,7 +142,7 @@ updated: 2026-05-19
 > - 迪拜国际私立大学成立节奏：2004 年 2 所→2005 年 4 所→2006 年 4 所，此后年均约 1 所（p.210）
 > - 迪拜国际分校数量：33 所（全球第二），仅次于中国 36 所（EY Parthenon, 2019, cited in p.211）
 > - 阿联酋 2020 年全球软实力指数排名：地区第 1，全球第 18（MoFAIC, 2020, cited in p.208）
-> - 研究数据：阿联酋政策文件 38 份、专家访谈 9 份([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])
+> - 研究数据：阿联酋政策[[Document|文件]] 38 份、专家访谈 9 份([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])
 
 ---
 

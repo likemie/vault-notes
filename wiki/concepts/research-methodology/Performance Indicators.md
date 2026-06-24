@@ -26,6 +26,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Performativity of Measurement]]"
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Lifelong Learning]]"
   - "[[Heterogeneity]]"
@@ -132,7 +133,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 ## 实证发现
 
 > [!success]
-> 以下发现来自 [[OECD]] 指标体系的历史分析([[Argument_Gorur_2014_Discourse|Gorur, 2014]])和欧盟政策文件与 [[YOUNG_ADULLLT]] 定性数据的综合分析([[Argument_Rambla_2022_Springer|Rambla, 2022]])。
+> 以下发现来自 [[OECD]] 指标体系的历史分析([[Argument_Gorur_2014_Discourse|Gorur, 2014]])和欧盟政策[[Document|文件]]与 [[YOUNG_ADULLLT]] 定性数据的综合分析([[Argument_Rambla_2022_Springer|Rambla, 2022]])。
 
 ### OECD 层面的指标运作
 

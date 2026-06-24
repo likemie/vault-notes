@@ -10,6 +10,7 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
   - "[[Inverted Triangle Literature Search]]"
@@ -43,7 +44,7 @@ updated: 2026-06-21
 
 ## 定义
 
-> [!def] 文献检索（Literature Search）
+> [!def] [[Document|文献]]检索（Literature Search）
 > 文献检索是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从多种来源定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它服务于文献综述的论证构建，但本身是技术性操作而非论证性写作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7]]）。
 
 > [!concept-lens] 概念透镜
@@ -58,7 +59,7 @@ updated: 2026-06-21
 
 ## 检索的论证目的
 
-文献检索不是一个孤立的操作步骤，而是一连串论证目的的逻辑起点。Cohen et al. 在 Ch.7 中阐述了这一目的链条（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.126–127]]）：
+[[Document|文献]]检索不是一个孤立的操作步骤，而是一连串论证目的的逻辑起点。Cohen et al. 在 Ch.7 中阐述了这一目的链条（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.126–127]]）：
 
 > [!chain-link] 文献检索→论证的推进逻辑
 > - **奠基[[Reliability|信度]]与效度**
@@ -74,7 +75,7 @@ updated: 2026-06-21
 
 ## 概念辨析
 
-> [!contrast-table] 文献检索 vs [[Literature Review|文献综述]]
+> [!contrast-table] [[Document|文献]]检索 vs [[Literature Review|文献综述]]
 > | 维度 | 文献检索 | [[Literature Review\|文献综述]] |
 > |---|---|---|
 > | 本质 | 技术性操作 | 论证性写作 |
@@ -88,7 +89,7 @@ updated: 2026-06-21
 
 ### 检索步骤
 
-Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 > [!proc] 文献检索七步法
 > 1. **确定关键词** 从宽泛术语开始，逐步缩小和精确化（如从 mental health 缩小到 autism spectrum disorder，再指定为 family factors, support, autism spectrum disorder）
@@ -282,5 +283,5 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统介绍了文献检索七步法、主要学术数据库及迭代搜索策略
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统介绍了[[Document|文献]]检索七步法、主要学术数据库及迭代搜索策略
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 提供了网络检索操作符、信息类型分类（Box 7.2）和网站评估标准

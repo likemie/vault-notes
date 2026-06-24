@@ -16,6 +16,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Research Writing Script]]"
@@ -40,7 +41,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 理论视角（theoretical perspective）是[[Quantitative Research|量化研究]]计划或论文中专门阐述理论框架的独立章节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 偏好使用这一术语，因为它已被美国教育研究协会（AERA）年会广泛用作投稿研究计划中的必填章节名称。该章节可以放在[[Literature Review|文献综述]]之中，也可以作为一个独立章节。同一章节在文献中还有多种名称，包括理论依据（theoretical rationale）、理论基础（theory base）、理论取向（theoretical orientation）、理论模型（theoretical model）和概念框架（conceptual framework）。
+> 理论视角（theoretical perspective）是[[Quantitative Research|量化研究]]计划或论文中专门阐述理论框架的独立章节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.53)]] 偏好使用这一术语，因为它已被美国教育研究协会（AERA）年会广泛用作投稿研究计划中的必填章节名称。该章节可以放在[[Literature Review|文献综述]]之中，也可以作为一个独立章节。同一章节在[[Document|文献]]中还有多种名称，包括理论依据（theoretical rationale）、理论基础（theory base）、理论取向（theoretical orientation）、理论模型（theoretical model）和概念框架（conceptual framework）。
 
 > [!quote]
 > "A discussion about this theory would appear in a section of a proposal in the literature review or in a separate section called the theory base, the theoretical rationale, the theoretical perspective, or the conceptual framework."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])
@@ -52,7 +53,7 @@ updated: 2026-05-31
 
 ## 在量化研究中的位置
 
-理论视角章节通常置于研究方案的前端，作为整个[[Quantitative Research|量化研究]]的组织框架。量化研究以演绎方式使用理论，理论视角承担着连接已有文献、推导[[Hypothesis|研究假设]]和指导数据收集程序的功能([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.62]])。
+理论视角章节通常置于研究方案的前端，作为整个[[Quantitative Research|量化研究]]的组织框架。量化研究以演绎方式使用理论，理论视角承担着连接已有[[Document|文献]]、推导[[Hypothesis|研究假设]]和指导数据收集程序的功能([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.62]])。
 
 ## 写作结构
 
@@ -61,7 +62,7 @@ updated: 2026-05-31
 > [!abstract]
 > 1. **指明所用理论**：明确写出"我将使用的理论是_____（理论名称）"
 > 2. **说明理论来源**："该理论由_____（创始人或来源）提出"
-> 3. **回顾应用文献**："它曾被用于研究_____（列出应用该理论的关键研究）"
+> 3. **回顾应用[[Document|文献]]**："它曾被用于研究_____（列出应用该理论的关键研究）"
 > 4. **陈述核心命题**："该理论指出_____（理论中的命题或假设）"
 > 5. **关联当前研究**："应用于我的研究时，该理论认为我预期自[[Variable|变量]]_____会影响或因变量_____，因为_____（基于理论逻辑提供理由）"
 

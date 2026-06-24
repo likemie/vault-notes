@@ -35,6 +35,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
   - "[[Innovation Hub]]"
+  - "[[Document]]"
   - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[Joint Faculty Appointments]]"
@@ -209,7 +210,7 @@ updated: 2026-06-05
 > 3. 产学之间的合作（Collaboration）
 > 4. 知识产权保护（Intellectual Property）
 >
-> 这四个信条既是产学合作的边界条件，也是 TUFF 六项优先领域的逻辑起点。它们与学术文献中识别的要素（目标对齐、信任、正式协议）形成互补——文献侧重"如何做"，TUFF 信条侧重"前提是什么"。
+> 这四个信条既是产学合作的边界条件，也是 TUFF 六项优先领域的逻辑起点。它们与学术[[Document|文献]]中识别的要素（目标对齐、信任、正式协议）形成互补——文献侧重"如何做"，TUFF 信条侧重"前提是什么"。
 
 ---
 
@@ -480,7 +481,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 - **技术变革速度超出单一组织能力**：在深度学习时代，计算能力每 6 个月翻一番。投资技术以保持创新前沿是昂贵但必要的，单一组织很难独立承担这种投入速度([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.186]])
 - **新模式实验的系统性障碍**：2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 指出，实施新合作模式需要克服维护现状的多重障碍——找到愿意共同承担实验风险的合适伙伴更加困难；需要说服内外部利益相关者离开传统工作方式；新模式涉及更多参与方和更复杂的协调。小型试点实验可展示解锁新价值的潜力，所有参与方应承诺定期审查、灵活调整甚至必要时终止项目([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.16-17]])
 - **[[Research Security|研究安全]]与地缘政治风险**：地缘政治紧张使产学合作面临新的安全审查维度。大学需要在保持学术开放和防止外国干预之间寻求平衡。滑铁卢大学的"保障研究"（Safeguarding Research）团队提供了一个制度化的应对模式——为研究者的国际合作关系提供持续支持和风险评估，在学术自由与安全合规之间建立可操作的中间地带([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])
-- **终身教职评审低估产学合作产出**：现行研究评估制度中，教师的工作产出几乎完全由同行评审出版物衡量，导致专利、技术转移、产业合作等商业化活动被系统性地低估——教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注研究影响力而非文献计量指标——为将产学合作"计入正资产"提供了改革方向。更全面的评估也有助于解决公平问题：发展产学合作耗时费力，而女性、种族化群体和残障人士在校内外面临更紧迫的时间压力([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.250–251]])
+- **终身教职评审低估产学合作产出**：现行研究评估制度中，教师的工作产出几乎完全由同行评审出版物衡量，导致专利、技术转移、产业合作等商业化活动被系统性地低估——教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注研究影响力而非[[Document|文献]]计量指标——为将产学合作"计入正资产"提供了改革方向。更全面的评估也有助于解决公平问题：发展产学合作耗时费力，而女性、种族化群体和残障人士在校内外面临更紧迫的时间压力([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.250–251]])
 
 ---
 

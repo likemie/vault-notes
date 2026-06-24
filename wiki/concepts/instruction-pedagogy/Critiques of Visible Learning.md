@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Document]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Cult of the Guru]]"
@@ -142,7 +143,7 @@ updated: 2026-05-21
 > [!def] 对[[Visible Learning|可见的学习]]的批评
 > Critiques of [[Visible Learning]] 指围绕 [[John Hattie]] 的 [[Visible Learning]] 所形成的批评谱系。它不只是质疑某一个[[Effect Size|效应量]]或某一项排名，而是从统计方法、教育理论、教育哲学、可见性政治、教师专业性、政策使用和商业化网络等多个层面，追问 VL 如何把”学习影响”变成可排序、可管理、可推广的证据对象。
 >
-> 为减少重复，本条目集中呈现批评文献；VL 本身的定义、核心要素、发展脉络和学校改进语境见 [[Visible Learning]]。
+> 为减少重复，本条目集中呈现批评[[Document|文献]]；VL 本身的定义、核心要素、发展脉络和学校改进语境见 [[Visible Learning]]。
 
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-05-21
 
 > [!ref-table] 六条批评线索
 >
-> | 批评线索 | 核心问题 | 代表文献 |
+> | 批评线索 | 核心问题 | 代表[[Document\|文献]] |
 > |---|---|---|
 > | **方法论批评** | [[Effect Size\|效应量]]阈值武断、二级[[Meta-analysis\|元分析]]统计缺陷、研究质量未筛选 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 > | **[[Didaktik\|教学理论]]批评** | 教学概念空洞、教育乐观主义、教师角色浪漫化 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
@@ -212,7 +213,7 @@ Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] �
 >
 > - **政策误用的系统风险**：论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p. 103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（p. 104）。
 
-Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评文献中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
+Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评[[Document|文献]]中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
 
 ---
 
@@ -804,7 +805,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 > [!critique] 评价殖民教育的四个子论证
 >
 > 1. **评价支配了教育过程**：VL 的教育目标是学习者成为"自我监控、自我评价、自我评估、自我学习"——评价不是教育之后的事，教育直接被定义为评价本身([[Argument_Rømer_2018_EPT|Rømer, 2018, p. 2]])
-> 2. **教育理论缺席**：Hattie 的关键参考文献指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、[[Bildung]]、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 2–3]])
+> 2. **教育理论缺席**：Hattie 的关键参考[[Document|文献]]指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、[[Bildung]]、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 2–3]])
 > 3. **"Know thy impact" 作为评价座右铭**：教师成为"自身效果的学徒"，教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果"([[Argument_Rømer_2018_EPT|Rømer, 2018, p. 3]])
 > 4. **元评价的全球形式**：Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构([[Argument_Rømer_2018_EPT|Rømer, 2018, p. 3]])
 
@@ -1182,7 +1183,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 > [!critique] 各批评者的核心判断
 > - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 指出 Hattie 的统计学术研究本身和对教师的有用提醒値得肯定，但 VL 的论述转移了对教育中平等问题的关注（p. 42）
-> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级文献系统性忽略
+> - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级[[Document|文献]]系统性忽略
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] 从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证*“很明显 Hattie 事实上没有找到圣杯”*（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 436]]）
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 虽然承认 Hattie 的愿景“有远见”且“为他赢得了宝贵而持久的优点”，但方法*“在当前出版条件下以科学合理的方式是不可行的”*（p. 1, pp. 34–35）
 > - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 提出学校中本应出现但缺席的论述：抗制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂（p. 42）
@@ -1196,7 +1197,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 以 [[Visible Learning|VL]] 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 
 > [!tension] 论证一：批评者形成了意识形态驱动的解释社群
-> Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评文献，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 [[Karl Popper|Popper]] 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 3–4]]）。
+> Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评[[Document|文献]]，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 [[Karl Popper|Popper]] 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 3–4]]）。
 
 > [!logic-map] 论证二：定量与定性的对立源于混淆[[Epistemology|认识论]]与[[Ontology|本体论]]
 > Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证[[Epistemology|认识论]]维度不是非此即彼的选择——通过[[Phenomenology|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]]）。此论证直接回应了批评者对 VL 定量方法论的根本质疑。

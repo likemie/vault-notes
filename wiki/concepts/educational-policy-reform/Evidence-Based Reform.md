@@ -20,6 +20,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Emergence]]"
   - "[[Research Utilization]]"
@@ -27,6 +28,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Logic Model]]"
+  - "[[Sample Size Determination]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Operationalization]]"
@@ -116,7 +118,7 @@ updated: '2026-05-24'
 
 ### 欧洲证据政策进展
 
-欧洲的证据本位改革路径比美国 ESSA 式证据标准更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策文件、ET 2020 进展监测、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 知识中介网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31, 41-42]])。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
+欧洲的证据本位改革路径比美国 ESSA 式证据标准更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策[[Document|文件]]、ET 2020 进展监测、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 知识中介网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31, 41-42]])。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
 
 这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Methods Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.26]])。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.36]])。
 
@@ -138,7 +140,7 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 ## 起源与奠基：[[Argument_Slavin_2002_ER|Slavin (2002)]]
 
 
-[[Argument_Slavin_2002_ER|Slavin (2002)]] 的 AERA 杰出讲座论文是该概念的**奠基性文献**。其核心论证前提是：
+[[Argument_Slavin_2002_ER|Slavin (2002)]] 的 AERA 杰出讲座论文是该概念的**奠基性[[Document|文献]]**。其核心论证前提是：
 
 **教育处于"下降螺旋"**：政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决定性研究 → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"**：严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16–17]])
 
@@ -194,7 +196,7 @@ Ross 与 Morrison 对三条件框架作了一个实践层面的补充：即使�
 - **2019** — Slavin 发表 Thorndike 演讲，总结进展并提出 RTI → RTPI 转型方向
 - **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位改革国际比较研究，系统记录中国教育实证研究的制度化发展（ECNU 论坛 2015-2019、2017 华东师范大学宣言、[[Best Evidence in Brief|BEiB]] 中文网络），首次翻译并呈现中国学者对证据本位研究的五类内部质疑（定义之争、统计主义、价值不可量化、数据困境、实证≠定量），将四项核心活动框架应用于中国情境分析([[Argument_Slavin_2021_ROE|Slavin et al., 2021]])
 - **2021** — Cheung & Xie 在同一特刊发表 Editorial，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，汇集七个国家八篇文章呈现证据本位改革的全球全景([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021]])
-- **2021** — Dachet & Baye 以法语比利时[[Pact for Educational Excellence|教育卓越公约]]为案例，展示证据本位改革在本地实验项目稀少、定性研究传统较强、英语文献进入困难的系统中如何被语境化：改革官方文本承认需要试点、验证并按有效性扩大项目，但 425 个候选工具/项目中只有 13 个采用实验设计测试，因此改革团队采用包容性验证类型学作为过渡机制([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.171, 175-176, 181-182]])
+- **2021** — Dachet & Baye 以法语比利时[[Pact for Educational Excellence|教育卓越公约]]为案例，展示证据本位改革在本地实验项目稀少、定性研究传统较强、英语[[Document|文献]]进入困难的系统中如何被语境化：改革官方文本承认需要试点、验证并按有效性扩大项目，但 425 个候选工具/项目中只有 13 个采用实验设计测试，因此改革团队采用包容性验证类型学作为过渡机制([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.171, 175-176, 181-182]])
 
 ## 核心政策工具：ESSA 证据标准
 
@@ -254,7 +256,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 ### 中国学者对证据本位研究的质疑
 
-[[Argument_Slavin_2021_ROE|Slavin et al. (2021, p.15-17)]] 首次在英文文献中系统翻译和呈现了中国学者对证据本位研究[[Paradigm|范式]]的五类内部质疑（所有引用均来自中文文献）：
+[[Argument_Slavin_2021_ROE|Slavin et al. (2021, p.15-17)]] 首次在英文[[Document|文献]]中系统翻译和呈现了中国学者对证据本位研究[[Paradigm|范式]]的五类内部质疑（所有引用均来自中文文献）：
 
 **1. 定义之争：广义 vs 狭义"实证"**
 
@@ -289,7 +291,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 - **批评者**：[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出 RCT 中教师的热情（human will）是"必要但也是污染的"——使干预有效但也使其不可复制。当项目从研究环境扩展到全国实施时，实施质量和支持条件不可同日而语。
 - **[[Argument_Slavin_2019_EP|Slavin (2019, pp. 7–8)]] 的回应**：现代实验要求聚类级别分析（40–50 所学校），大大提升了[[External Validity|外部效度]]；Evidence for ESSA 报告每项研究的人口统计信息，供教育者自行判断与自身情境的匹配度。
 
-**目前状态**：此争议在方法论文献中持续，尚未有共识标准来判断"多大的外部效度是足够的"。
+**目前状态**：此争议在方法论[[Document|文献]]中持续，尚未有共识标准来判断"多大的外部效度是足够的"。
 
 ### 对实验方法的特权：方法匹配还是方法霸权？
 

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
 related_theories:
@@ -105,7 +106,7 @@ updated: '2026-06-08'
 
 
 > [!info] VL 对学生意向性的系统性边缘化（2021, IRTP）
-> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education|EBE]] 批判文献中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际对话被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
+> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education|EBE]] 批判[[Document|文献]]中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际对话被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
 
 ## 主要贡献
 

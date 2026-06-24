@@ -14,6 +14,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Operationalization]]"
   - "[[Multimethod Research]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Metainferences]]"
   - "[[Pragmatic Paradigm]]"
@@ -89,7 +90,7 @@ updated: 2026-06-21
 > 如果不进行整合，即使同时收集了量化和质性数据，也不是完整的混合方法研究。
 
 > [!warning] 术语混淆
-> 早期文献中 multimethod 和 mixed methods 曾被混用，还出现过 integrating、synthesis、mixed research 等替代术语。"mixed methods"一词已在领域内获得最广泛认可，而"multimethod"被明确定义为不跨数据类型的研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]]）。
+> 早期[[Document|文献]]中 multimethod 和 mixed methods 曾被混用，还出现过 integrating、synthesis、mixed research 等替代术语。"mixed methods"一词已在领域内获得最广泛认可，而"multimethod"被明确定义为不跨数据类型的研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]]）。
 
 ---
 

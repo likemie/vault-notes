@@ -26,6 +26,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Formative Assessment]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
@@ -115,5 +116,5 @@ updated: 2026-06-05
 > 两家同等规模的区域制造企业同时与同一所大学工程系建立了合作研发关系。A 公司内部设有专门的研发部门和定期的技术研讨会机制，工程师能够在合作中快速理解大学的材料科学发现并转化为工艺改进方案。B 公司的技术决策集中在少数高管手中，没有内部知识分享机制，合作一年后大学的研究成果仍然停留在实验室阶段。表面上看合作形式和投入相似，但吸收能力的差距使 A 公司从合作中获得了显著的技术升级，B 公司几乎一无所获（基于 Vega-Jurado et al., 2020 的实证发现）。
 
 > [!warning]
-> 吸收能力在这一语境中同样未被[[Operationalization|操作化]]为标准化指标。UIC 文献主要将其作为解释合作效果差异的事后[[Analytic Framework|分析框架]]，而非事前可测量的筛选工具。这意味着它在学术解释中具有价值，但尚未成为企业选拔或资助分配的实际操作标准。
+> 吸收能力在这一语境中同样未被[[Operationalization|操作化]]为标准化指标。UIC [[Document|文献]]主要将其作为解释合作效果差异的事后[[Analytic Framework|分析框架]]，而非事前可测量的筛选工具。这意味着它在学术解释中具有价值，但尚未成为企业选拔或资助分配的实际操作标准。
 

@@ -20,6 +20,7 @@ tags:
   - theme/intermediary-organisation
   - theme/accountability
 related_concepts:
+  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Venture Philanthropy]]"
   - "[[What Works Movement]]"
@@ -77,7 +78,7 @@ updated: 2026-06-16
 ## 影响与后果
 
 > [!finding-cards] 影响与政策成效
-> - **教师教育大纲的隐形设计者** AERO 成功通过其证据评估体系和未公开文献，掌控了职前教师大纲“大脑与学习”板块知识的官方定义权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **教师教育大纲的隐形设计者** AERO 成功通过其证据评估体系和未公开[[Document|文献]]，掌控了职前教师大纲“大脑与学习”板块知识的官方定义权。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **问责机制行政强硬化的主要推手** 董事会在起草过程中代表了倾向于“资金惩罚和剥夺认证”的立场，成功将柔性政策升级为大学必须对齐的硬性问责大纲。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **跨国证据垄断生态的本土复制** 将英国 [[Education Endowment Foundation|EEF]] 的证据框架和专家网络本地化，完成了“什么有效中介模式”在澳大利亚公共教育决策层面的制度性嵌入。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
@@ -93,7 +94,7 @@ updated: 2026-06-16
 
 > [!tension] 争议焦点
 > - **自证清白的“专家闭环”**：其桌面审查（Abdo et al., 2021）所咨询并声称达成共识的外部专家，大多数来自其委托的 [[Centre for Evidence and Implementation|CEI]] 机构内部和“什么有效”分支中心，构成高度自我引用的封闭网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **证据来源极其狭窄**：该作为大纲科学底座的审查报告，其学术基底窄化为仅发表于《实施科学》（*Implementation Science*）等两本期刊上的文章，排除了更广泛的教育科学文献。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **证据来源极其狭窄**：该作为大纲科学底座的审查报告，其学术基底窄化为仅发表于《实施科学》（*Implementation Science*）等两本期刊上的文章，排除了更广泛的教育科学[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **同行评审程序的缺失**：指导《强劲开端》核心课程设计的 AERO 研究综合至今仍是“未发表文献”（Unpublished Synthesis），免于学术共同体的审议和双盲评审，却被强加为法律标准。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---

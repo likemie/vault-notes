@@ -18,6 +18,7 @@ tags:
 - oeri
 - region/us
 related_concepts:
+  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
@@ -49,7 +50,7 @@ updated: '2026-06-08'
 >
 > 1. **随机化实验的强力倡导**：Whitehurst 将 [[Randomised Controlled Trials|RCT]] 定位为评估教育干预的优先方法，主张"非随机化实验不可接受"。[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 将此描述为"具有讽刺意味"——在政策多年对任何类型实验都漠不关心之后，OERI 直接跳过了严格匹配实验，要求随机化实验。
 >
-> 2. **早期儿童项目随机化评估的 RFP**：Whitehurst 发布了一份被 [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]] 称为"本身就是一份革命性文件"的征求建议书（RFP），邀请早期儿童项目接受由第三方评估者收集数据的随机化评估。
+> 2. **早期儿童项目随机化评估的 RFP**：Whitehurst 发布了一份被 [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]] 称为"本身就是一份革命性[[Document|文件]]"的征求建议书（RFP），邀请早期儿童项目接受由第三方评估者收集数据的随机化评估。
 >
 > 3. **战略计划 2002–2007**：制定了到 2004 年 75% 的 OERI 资助的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计的目标——当时该比例估计不足 5%。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 >

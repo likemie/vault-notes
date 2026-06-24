@@ -29,6 +29,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
+  - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Theoretical Validity]]"
 related_theories:
@@ -169,7 +170,7 @@ updated: 2026-05-28
 ## 理论基础
 
 > [!tip]-
-> 创新中心的研究和文献支撑来自多个学科方向([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125–126]])：
+> 创新中心的研究和[[Document|文献]]支撑来自多个学科方向([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125–126]])：
 
 - **[[Triple Helix]]**（Etzkowitz & Leydesdorff, 1995）：大学-产业-政府三者之间的反馈循环，解释了创新中心为何需要三方同时在场
 - **利益相关者理论**（Stakeholder Theory, Freeman, 1984）：最初用于量化企业在利益相关者网络中的商业回报。采用整体性网络建设方法的[[Innovation Park|研究园区]]似乎更有效地利用区域资源，也遇到更少的行政障碍（Darmody & Bendis, 2021）

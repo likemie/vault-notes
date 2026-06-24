@@ -16,6 +16,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -52,7 +53,7 @@ updated: '2026-05-18'
 > - **1974** — Donald Rubin 将 Neyman 的公式扩展至社会科学领域，提出"Rubin 因果模型"（Rubin, 1986）
 > - **1986** — Paul Holland 发表 "Statistics and Causal Inference"，提出"没有操纵就没有因果"（no causation without manipulation）的核心命题
 > - **2000** — Judea Pearl 出版 *Causality: Models, Reasoning and Inference*，引入有向无环图（DAG）作为因果推断的补充形式化工具
-> - [[Argument_Berk_2011_ER|Berk (2011, p.193)]] 指出，尽管存在异议者（如 Dawid, 2000），源自 Neyman 论文的潜在结果公式已主导了因果推断的技术文献
+> - [[Argument_Berk_2011_ER|Berk (2011, p.193)]] 指出，尽管存在异议者（如 Dawid, 2000），源自 Neyman 论文的潜在结果公式已主导了因果推断的技术[[Document|文献]]
 
 ## 核心要素
 

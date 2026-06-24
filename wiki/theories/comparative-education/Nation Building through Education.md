@@ -22,6 +22,7 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Zhonghua Minzu]]"
   - "[[Membership-Creating Function of Education]]"
+  - "[[Document]]"
   - "[[Sinicisation]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -78,7 +79,7 @@ updated: '2026-05-21'
 
 
 > [!abstract] 中国的边疆教育案例
-> | 地区 | 核心策略 | 关键文献 |
+> | 地区 | 核心策略 | 关键[[Document\|文献]] |
 > |------|---------|---------|
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold & Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |
@@ -101,7 +102,7 @@ updated: '2026-05-21'
 
 > [!info] 研究[[Paradigm|范式]]
 > - **[[Epistemology|认识论]]立场**：[[Critical Theory|批判理论]]、后殖民研究——将教育视为国家权力的延伸和身份政治的工具
-> - **常用方法**：跨国比较案例分析、政策文件分析、历史分析
+> - **常用方法**：跨国比较案例分析、政策[[Document|文件]]分析、历史分析
 
 ## 争议与批评
 

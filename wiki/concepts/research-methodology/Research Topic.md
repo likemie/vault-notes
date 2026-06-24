@@ -19,6 +19,7 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Research Contribution]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Research Scope]]"
@@ -62,7 +63,7 @@ updated: 2026-06-20
 > > - 让参与者参与研究和发展的愿望
 > > - 研究者自身的兴趣或经验领域
 >
-> > [!features] 文献驱动
+> > [!features] [[Document|文献]]驱动
 > > - 在期刊或书籍中读到的问题
 > > - 对文献中特定研究发现的不安
 > > - 文献覆盖的空白，希望填补
@@ -109,7 +110,7 @@ updated: 2026-06-20
 > 如果最后一个问题的答案是"不"，该课题应当放弃，否则它将从有用研究沦为一个业余爱好者的放纵。
 
 > [!pathways] 新手的应对策略
-> 新手研究者可能不知道自己的研究是否原创、重要或适时。关键行动是：围绕该课题广泛阅读、进行文献和在线搜索、参加相关会议、阅读相关报道——在做出是否追问该领域的坚定决定之前，先审视该领域的现状。同时与可能的导师讨论拟议课题以获得专家反馈（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；UC Santa Cruz, 2010）。
+> 新手研究者可能不知道自己的研究是否原创、重要或适时。关键行动是：围绕该课题广泛阅读、进行[[Document|文献]]和在线搜索、参加相关会议、阅读相关报道——在做出是否追问该领域的坚定决定之前，先审视该领域的现状。同时与可能的导师讨论拟议课题以获得专家反馈（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；UC Santa Cruz, 2010）。
 
 ---
 
@@ -132,7 +133,7 @@ updated: 2026-06-20
 
 ## 提供新角度的六种方式
 
-Creswell & Bàez (2020) 列举了六种为已有文献提供新视角的方式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+Creswell & Bàez (2020) 列举了六种为已有[[Document|文献]]提供新视角的方式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 1. **研究不寻常的地点**（如美国农村）
 2. **研究不寻常的参与者群体**（如难民）

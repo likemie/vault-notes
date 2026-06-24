@@ -16,6 +16,7 @@ tags:
 - region/new-zealand
 - region/eu
 related_concepts:
+  - "[[Document]]"
   - "[[Performance Indicators]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Instructional Leadership]]"
@@ -27,7 +28,8 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[YOUNG_ADULLLT]]"
@@ -49,7 +51,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 网络治理（Network Governance）是一种教育政策治理模式，指传统的"经典市场"和"科层制"形式的公立学校治理被较新的专业网络和慈善"网络"与"部落"（如 iwi）所取代([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vi]])。在教育政策文献中，体现这一模式的 disposition 和 practice 模式有时被称为"网络治理"。
+> 网络治理（Network Governance）是一种教育政策治理模式，指传统的"经典市场"和"科层制"形式的公立学校治理被较新的专业网络和慈善"网络"与"部落"（如 iwi）所取代([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vi]])。在教育政策[[Document|文献]]中，体现这一模式的 disposition 和 practice 模式有时被称为"网络治理"。
 >
 > [[Argument_Rambla_2022_Springer|Rambla (2022)]]基于 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]在欧盟的研究进一步表明，网络治理在实际运作中往往呈现为官僚治理与网络治理的混合模式——纯粹的市场治理（如美国私人培训提供商普遍活跃的模式）在欧盟教育与培训政策中并不显著([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])。
 
@@ -87,7 +89,7 @@ updated: '2026-05-18'
 
 [[Argument_ONeill_2016_Report|O'Neill et al. (2016, pp.8–12)]]列出近十余年新西兰同时体现私营参与增加和公共参与减少的九个实例：
 
-**i. Ngāi Tahu MoU（2001）**：教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
+**i. Ngāi Tahu MoU（2001）**：教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键[[Document|文件]]"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
 
 **ii. asTTle / e-asTTle 商业化**：2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
 

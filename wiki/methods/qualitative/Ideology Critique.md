@@ -18,11 +18,14 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Participant Observation]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
 related_persons: []
@@ -65,7 +68,7 @@ updated: 2026-06-16
 
 > [!method-stack] 方法层级
 > - **研究设计**：批判性案例研究、政策分析、行动研究。
-> - **数据收集**：政策文本、课程文件、制度记录、访谈、[[Participant Observation|参与观察]]。
+> - **数据收集**：政策文本、课程[[Document|文件]]、制度记录、访谈、[[Participant Observation|参与观察]]。
 > - **分析方法**：哈贝马斯四阶段反思实践（描述→归因→议程→评估）。
 > - **辅助技术**：利益分析、权力关系映射、[[Reflexivity|反思性]]对话。
 
@@ -94,7 +97,7 @@ updated: 2026-06-16
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型**：教育政策文件、课程大纲、教科书文本、学校制度记录、访谈记录、课堂观察笔记。
+> - **资料类型**：教育政策[[Document|文件]]、课程大纲、教科书文本、学校制度记录、访谈记录、课堂观察笔记。
 > - **资料质量**：关注文本背后被隐藏的利益和声音；需要识别"缺席"——谁的知识和视角未被包含。
 > - **分析策略**：利益分析、意识形态运作机制识别、可普遍化利益检验、权力关系映射。
 > - **质量控制**：多方视角交叉验证，反思研究者自身立场，与参与者对话确认分析。

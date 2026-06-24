@@ -26,6 +26,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
@@ -91,7 +92,7 @@ updated: 2026-06-20
 
 > [!finding-cards] 影响与后果
 > - **跨国[[Policy Network|政策网络]]构建** EEF 通过在美、澳、新等多国扶植镜像组织，成功地将英国的话语体系转化为全球证据标准，成为跨国“理念编排”（idea orchestration）的制度化中介([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
-> - **初始教师教育课程干预** 在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学文献被列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
+> - **初始教师教育课程干预** 在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学[[Document|文献]]被列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 > - **证据官僚功能的异化** 尽管 EEF Toolkit 在修辞上被宣称为客观教学指南，但在制度实践中，其真正功能往往转变为满足管理主义的问责需求（“以数字治理”）。在实际政策制定中，政府甚至会回避 Toolkit 代表的学术证据，转而使用非同行评议的 [[Ofsted]] 评级进行决策([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p. 27]])、[[Argument_Cowen_2019_ERE|Cowen, 2019, p. 11]]。
 
 ---
@@ -128,5 +129,5 @@ updated: 2026-06-20
 > |:-----|:-----|:-----|
 > | [[Australian Education Research Organisation]] | 组织/事实 | AERO 在设立时被建议直接以 EEF 为直接蓝本，且 EEF 创始人出任其专家委员会成员。 |
 > | [[BHP Foundation]] | 组织/事实 | 必和必拓基金会是 EEF 全球扩张计划的核心资金赞助方，助其在全球推广证据治理模式。 |
-> | [[Strong Beginnings Report]] | 政策/事实 | 澳大利亚初始教师教育改革大纲中，EEF 推荐的科学文献被列为必修核心大纲的参考文献。 |
+> | [[Strong Beginnings Report]] | 政策/事实 | 澳大利亚初始教师教育改革大纲中，EEF 推荐的科学[[Document\|文献]]被列为必修核心大纲的参考文献。 |
 > | [[EEF Teaching and Learning Toolkit]] | 工具/事实 | EEF 维护的旗舰证据产品，将复杂的教学实践折算为“学习月份”进行排名展示。 |

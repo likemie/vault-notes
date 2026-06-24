@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[Sample Size Determination]]"
+  - "[[Document]]"
   - "[[Whole Language]]"
   - "[[Heterogeneity]]"
 related_theories: []
@@ -116,7 +117,7 @@ updated: '2026-06-08'
 >
 > Simpson 以教授 Corncrake 的寓言（"1,031 是质数：31 是质数，加上 1,000 不会改变任何东西"）开篇，说明**论证的有效性和结论的正确性必须被区分**——效应量的结论可能碰巧正确，但推导它们的论证是无效的([[Argument_Simpson_2019_ERE|Simpson, 2019, p.99]])。
 >
-> **支持者的防御策略分析**([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.106–108]])：Simpson 贡献了 [[Evidence-Based Education|EBE]] 批判文献中一个此前未被充分发展的分析维度——EBE 支持者对批评的防御策略。他引用 Freedman（2009）识别的统计论证被揭露缺陷后的九种防御形式，并展示了它们在效应量文献中的具体表现：
+> **支持者的防御策略分析**([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.106–108]])：Simpson 贡献了 [[Evidence-Based Education|EBE]] 批判[[Document|文献]]中一个此前未被充分发展的分析维度——EBE 支持者对批评的防御策略。他引用 Freedman（2009）识别的统计论证被揭露缺陷后的九种防御形式，并展示了它们在效应量文献中的具体表现：
 >
 > | 防御策略 | 效应量文献中的表现 |
 > |---------|-----------------|
@@ -139,7 +140,7 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > **思想的内部演进（2017→2018→2019）**：Simpson 的[[Effect Size|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2018, 2019）。
 >
-> **对效应量批判文献的影响**：Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
+> **对效应量批判[[Document|文献]]的影响**：Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
 >
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE]]
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])——详见 Argument_Wiliam_2019_ERE

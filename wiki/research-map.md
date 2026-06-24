@@ -1,6 +1,7 @@
 ---
 title: 研究地图
 related_concepts:
+  - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
@@ -12,7 +13,7 @@ related_concepts:
   <div class="research-map-hero">
     <p class="research-map-kicker">Research Map</p>
     <h1>研究地图</h1>
-    <p>这里不是文件夹目录，而是这座知识库的导航大厅：从概念进入理论，从论证回到文献，从人物、事实和方法看见研究如何被生产出来。</p>
+    <p>这里不是[[Document|文件]]夹目录，而是这座知识库的导航大厅：从概念进入理论，从论证回到文献，从人物、事实和方法看见研究如何被生产出来。</p>
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">

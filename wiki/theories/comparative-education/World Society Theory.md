@@ -27,6 +27,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Borrowing]]"
+  - "[[Document]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemic Governance]]"
 related_theories:
@@ -143,7 +144,7 @@ Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非�
 
 ### 单向扩散假设与西方中心主义
 
-理论假设西方（尤其是美国）的现代性模型单向向外扩散。Silova & Brehm (2015) 批判其从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在**规范性上再生产了西方中心主义**（将西方视为标准，将地方差异视为偏离）。[[Policy Borrowing|政策借用]]文献（[[Gita Steiner-Khamsi]], 2012）论证各国选择性借用全球论述来合法化本地议程，借用方向并非单向——You & Morris (2016) 提供了英国参照东亚模式的案例。去殖民学者（如 Mignolo）批评理论的普世主义隐含了西方中心的[[Epistemology|认识论]]预设（参见 [[Geopolitics of Knowledge]]）。
+理论假设西方（尤其是美国）的现代性模型单向向外扩散。Silova & Brehm (2015) 批判其从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在**规范性上再生产了西方中心主义**（将西方视为标准，将地方差异视为偏离）。[[Policy Borrowing|政策借用]][[Document|文献]]（[[Gita Steiner-Khamsi]], 2012）论证各国选择性借用全球论述来合法化本地议程，借用方向并非单向——You & Morris (2016) 提供了英国参照东亚模式的案例。去殖民学者（如 Mignolo）批评理论的普世主义隐含了西方中心的[[Epistemology|认识论]]预设（参见 [[Geopolitics of Knowledge]]）。
 
 ### 口头采纳与实际行动的区分不足
 

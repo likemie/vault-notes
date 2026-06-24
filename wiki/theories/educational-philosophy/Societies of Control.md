@@ -18,12 +18,14 @@ tags:
   - theory/poststructuralism
   - level/higher-ed
 related_concepts:
+  - "[[Disciplina and Doctrina]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Competitiveness]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,7 +43,7 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]-
-> Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从规训社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征(Deleuze, 1992, pp.4, 7; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
+> Deleuze（1992）在其短文 Postscript on the Societies of Control 中提出了从[[Disciplina and Doctrina|规训]]社会（societies of discipline）向控制社会（societies of control）转型的核心命题：Foucault 所分析的规训性社会控制——通过封闭机构（家庭、学校、工厂、军营、医院、监狱）实施的权力——正在被一种新的支配体系的渐进和分散式安装所取代，后者以超快形式的自由浮动控制为特征(Deleuze, 1992, pp.4, 7; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
 > [!quote]
 > "Disciplinary forms of social control are increasingly replaced by a 'progressive and dispersed installation of a new system of domination' (Deleuze, 1992, 7), which installs 'ultrarapid forms of free-floating control' (ibid., 4)."([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
@@ -56,7 +58,7 @@ updated: 2026-06-02
 
 Deleuze 用**模具**（mold）和**调制**（modulation）的隐喻来区分两种权力运作方式(Deleuze, 1992, p.4; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])：
 
-- **规训社会 = 模具**：每一次进入一个机构（学校→工厂→军营）都是一次成型——你被塑造成特定的形态，然后在毕业或退役时被释放
+- **[[Disciplina and Doctrina|规训]]社会 = 模具**：每一次进入一个机构（学校→工厂→军营）都是一次成型——你被塑造成特定的形态，然后在毕业或退役时被释放
 - **控制社会 = 调制**：像一种永远在变化的铸模，参数持续调整——你从未被释放，只是从一个调制进入另一个调制
 
 > [!example]
@@ -91,7 +93,7 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 > [!warning]
 
 - **总括性概念的局限**：Thompson 等人（2022, p.222）明确表示对 Deleuze 将一切归结为**企业**（corporation）的总括性概念持怀疑态度，认为变形（deformation）和调制（modulation）这两个概念比企业这一总体框架更有分析价值
-- **来源局限**：本条目的写作基于 Thompson 等人（2022）对 Deleuze 的二手解读和应用，未直接阅读 Deleuze（1992）原文。confidence 设为 low，待直接从主文献补充
+- **来源局限**：本条目的写作基于 Thompson 等人（2022）对 Deleuze 的二手解读和应用，未直接阅读 Deleuze（1992）原文。confidence 设为 low，待直接从主[[Document|文献]]补充
 
 ## 相关研究
 

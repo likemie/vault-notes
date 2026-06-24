@@ -38,6 +38,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Causality]]"
   - "[[Preregistration]]"
+  - "[[Document]]"
   - "[[Definition of Terms]]"
   - "[[Reliability]]"
   - "[[Threats to External Validity]]"
@@ -152,7 +153,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 预注册与结果解释
 
 > [!note]-
-> 真实验可用于检验[[Causality|因果关系]]，因此应在公共注册库（如 Center for Open Science 或 ClinicalTrials.gov）[[Preregistration|预注册]]实验假设和方案。讨论部分应说明假设是否被支持、自变量操纵是否有效、结果为何显著或不显著、与过去文献的联系、研究局限以及发现对科学和社会的意义（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 真实验可用于检验[[Causality|因果关系]]，因此应在公共注册库（如 Center for Open Science 或 ClinicalTrials.gov）[[Preregistration|预注册]]实验假设和方案。讨论部分应说明假设是否被支持、自变量操纵是否有效、结果为何显著或不显著、与过去[[Document|文献]]的联系、研究局限以及发现对科学和社会的意义（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验方法计划检查清单
 

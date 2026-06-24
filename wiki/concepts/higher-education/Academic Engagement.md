@@ -18,6 +18,7 @@ tags:
 - higher-education
 - level/higher-ed
 related_concepts:
+  - "[[Document]]"
   - "[[University-Industry Collaboration]]"
   - "[[Student Engagement]]"
   - "[[Homework]]"
@@ -59,7 +60,7 @@ updated: 2026-05-27
 # Academic Engagement
 
 > [!warning]- 术语歧义
-> "Academic Engagement" 在教育研究文献中有两种截然不同的含义，分别来自两个独立的研究脉络：
+> "Academic Engagement" 在教育研究[[Document|文献]]中有两种截然不同的含义，分别来自两个独立的研究脉络：
 > - **含义一（学业投入）**：学生学习研究中的概念，指学生向学术性教育活动投入的时间、精力和注意力。中文通常译为"学业投入"
 > - **含义二（产学学术参与）**：[[University-Industry Collaboration|产学合作]]（University-Industry Collaboration）研究中的概念，指学术研究者（教师/研究人员）与企业之间的知识性合作活动。中文可译为"产学学术参与"或"学术参与"
 >
@@ -137,7 +138,7 @@ updated: 2026-05-27
 > [!info]
 > 在[[University-Industry Collaboration|产学合作]]研究脉络中，"Academic Engagement"指的是**学术研究者（教师/研究人员）以个人或团队身份与企业进行的知识性合作活动**。具体包括：产业赞助研究（industry-[[Sponsored Research Agreement|sponsored research]]）、联合研究、学术咨询（consulting）、联合发表、学术会议交流、学生联合培养（实习、[[Cooperative Education|合作教育]]）等（Perkmann et al., 2013, pp.423–424，转引自 Boccanfuso & Hall, 2025b, p.53）。
 
-这一概念由 Perkmann et al.（2013）在对产学合作文献的[[Systematic Review|系统综述]]中明确界定，与同一文献中的 "commercialization"（商业化）构成产学合作的两种基本类型。
+这一概念由 Perkmann et al.（2013）在对产学合作[[Document|文献]]的[[Systematic Review|系统综述]]中明确界定，与同一文献中的 "commercialization"（商业化）构成产学合作的两种基本类型。
 
 > [!quote]
 > "Engagement is less organizationally embedded than commercialization, and is more autonomously driven by individuals."（Perkmann et al., 2013, p.423，转引自 Boccanfuso & Hall, 2025b, p.53）

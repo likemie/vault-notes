@@ -28,6 +28,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Direct Instruction]]"
@@ -98,7 +99,7 @@ updated: '2026-05-21'
 ## 术语演变
 
 > [!note]- 术语演变
-> 这一方法在文献中有多种命名，反映了不同研究者的立场和侧重点([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])：
+> 这一方法在[[Document|文献]]中有多种命名，反映了不同研究者的立场和侧重点([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])：
 >
 > | 术语 | 提出者/使用者 | 含义侧重 |
 > |------|-------------|---------|
@@ -274,7 +275,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 技术方法论缺陷
-> **LeLorier et al.（1997）——偏倚在聚合层级间传播。** LeLorier et al.（1997, p.536）在医学元分析文献中最早警告："汇总结果纳入了个别研究的偏见，并体现新的偏见来源，主要是因为研究的选择和不可避免的[[Heterogeneity|异质性]]"（引自 O'Connor, 2020, p.147）。二级聚合中的偏见不仅继承自一级元分析的偏见，也在聚合决策（选择哪些元分析、如何加权、如何分类）中产生**新的偏见**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])。
+> **LeLorier et al.（1997）——偏倚在聚合层级间传播。** LeLorier et al.（1997, p.536）在医学元分析[[Document|文献]]中最早警告："汇总结果纳入了个别研究的偏见，并体现新的偏见来源，主要是因为研究的选择和不可避免的[[Heterogeneity|异质性]]"（引自 O'Connor, 2020, p.147）。二级聚合中的偏见不仅继承自一级元分析的偏见，也在聚合决策（选择哪些元分析、如何加权、如何分类）中产生**新的偏见**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])。
 >
 > **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]——排名未报告[[Confidence Interval|置信区间]]与统计前提检查。** 二级综合若只发布 d 的点估计，而不报告置信区间、[[Sampling Error|标准误]]或相邻排名之间的显著性检验，就无法判断相邻干预是否真的不同。[[PISA]] 排名至少会用横向置信区间标出国家均值估计的误差范围；Hattie 的列表则没有类似信息，因此 d=0.71 与 d=0.72 这样的相邻差异可能只是估计误差([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。d 的解释还需要近似正态分布、相同标准差和可被理解为"均值平移"的分布结构；偏态分布、干预后离散度改变或 Cauchy 型厚尾分布都会削弱效应量的可解释性([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]]])。
 >

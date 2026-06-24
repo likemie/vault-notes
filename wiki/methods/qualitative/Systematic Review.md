@@ -18,6 +18,7 @@ tags:
 - methodology
 - literature-review
 related_concepts:
+  - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Research Question]]"
   - "[[Reliability]]"
@@ -41,7 +42,7 @@ updated: '2026-06-08'
 ## 定义
 
 > [!info] 定义
-> 系统综述（Systematic Review）是一种通过预先制定的纳入标准和系统性的搜索策略来识别、筛选和评估相关研究文献的综述方法。与传统叙事综述不同，系统综述要求搜索过程透明且可重复，以减少研究者在选择纳入文献时的主观偏差([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
+> 系统综述（Systematic Review）是一种通过预先制定的纳入标准和系统性的搜索策略来识别、筛选和评估相关研究[[Document|文献]]的综述方法。与传统叙事综述不同，系统综述要求搜索过程透明且可重复，以减少研究者在选择纳入文献时的主观偏差([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 >
 > 系统综述通常作为[[Meta-analysis|元分析]]的前置步骤：先通过系统综述识别符合条件的研究，再对这些研究的[[Effect Size|效应量]]进行统计综合。但系统综述本身也可以独立于元分析存在，例如当纳入研究的结果无法量化合并时，系统综述仍可提供结构化的证据总结([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 
@@ -60,7 +61,7 @@ updated: '2026-06-08'
 >
 > **3. 筛选与质量评估**
 >
-> 对检索到的文献进行双重筛选，并评估每项纳入研究的方法论质量。这一步骤直接影响后续[[Meta-analysis|元分析]]的[[Reliability|可靠性]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.38]])。
+> 对检索到的[[Document|文献]]进行双重筛选，并评估每项纳入研究的方法论质量。这一步骤直接影响后续[[Meta-analysis|元分析]]的[[Reliability|可靠性]]([[Argument_Higgins_2016_RE|Higgins, 2016, p.38]])。
 >
 > **4. 数据提取与综合**
 >

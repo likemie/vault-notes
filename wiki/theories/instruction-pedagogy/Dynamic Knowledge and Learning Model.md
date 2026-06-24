@@ -19,6 +19,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
   - "[[Effect Size]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
 related_theories:
@@ -104,7 +105,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - Qvortrup 的模型是对 [[Visible Learning]] 的内部修正：它承认 VL 的学习结果概念不够清楚，但仍维护[[Meta-analysis|元分析]]和[[Effect Size|效应量]]比较的基本合法性([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.27–33]])。
-> - 模型主要由理论文献推导而来，论文未提供课堂观察、测试工具或实证数据来验证四阶知识能否被稳定识别或测量([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]])。
+> - 模型主要由理论[[Document|文献]]推导而来，论文未提供课堂观察、测试工具或实证数据来验证四阶知识能否被稳定识别或测量([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]])。
 
 ## 相关案例／政策
 

@@ -10,11 +10,13 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Champ]]"
   - "[[Research Scope]]"
+  - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
@@ -39,7 +41,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 文献摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
+> [[Document|文献]]摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])。
 
 摘要不仅是文献综述的中间产物——它本身就是一种学术写作体裁。期刊文章的摘要通常是读者判断是否阅读全文的依据，其格式往往受到期刊字数限制（如 120 词）。
 
@@ -84,7 +86,7 @@ updated: 2026-05-31
 
 ## 研究摘要（Study Abstract）的构成要素
 
-除[[Literature Review|文献综述]]过程中的文献摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出[[Research Scope|研究范围]]的评论）、连贯、可读和简洁。大多数摘要约 250 词（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
+除[[Literature Review|文献综述]]过程中的[[Document|文献]]摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出[[Research Scope|研究范围]]的评论）、连贯、可读和简洁。大多数摘要约 250 词（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
 对于实证研究的研究方案，摘要应包含以下五个核心组成部分，且应按以下顺序呈现（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
@@ -111,7 +113,7 @@ updated: 2026-05-31
 
 ## 与文献综述的关系
 
-文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和整合。
+[[Document|文献]]摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和整合。
 
 ---
 

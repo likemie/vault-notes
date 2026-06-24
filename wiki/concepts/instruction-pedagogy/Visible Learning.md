@@ -40,6 +40,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Sage]]"
   - "[[Educational Management Organisation]]"
+  - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Positivism]]"
   - "[[New Public Management]]"
@@ -356,7 +357,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 > 
->    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
+>    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策[[Document|文件]]与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
 > 
 >    **丹麦**：2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *[[Hattie på dansk]]*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
 > 
@@ -396,7 +397,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 ## 争议与批评
 
 > [!nav] 批评导览
-> [[Critiques of Visible Learning]] 专门整理对 [[Visible Learning]] 的方法论、[[Didaktik|教学理论]]、教育哲学、文化政治与政策商业化批评。此处只保留入口，避免把 VL 本身的概念结构与围绕它的批评文献混在同一条目中。
+> [[Critiques of Visible Learning]] 专门整理对 [[Visible Learning]] 的方法论、[[Didaktik|教学理论]]、教育哲学、文化政治与政策商业化批评。此处只保留入口，避免把 VL 本身的概念结构与围绕它的批评[[Document|文献]]混在同一条目中。
 >
 > 快速阅读路径：
 > - 统计与[[Effect Size|效应量]]问题：[[Effect Size]]、[[Meta-analysis]]、[[Meta-meta-analysis]]
