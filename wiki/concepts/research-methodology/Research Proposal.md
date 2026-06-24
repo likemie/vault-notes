@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中将研究问题转化为可操作的研究方案的系统过程，包括课题类型区分、选题过程、开题论证和课题设计论证书的撰写"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

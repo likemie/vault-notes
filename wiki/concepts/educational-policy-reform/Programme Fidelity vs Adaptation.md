@@ -6,7 +6,7 @@ aliases:
 summary: "证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

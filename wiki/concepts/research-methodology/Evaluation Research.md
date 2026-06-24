@@ -9,7 +9,7 @@ aliases:
 summary: "运用社会科学研究方法回答项目或政策的有效性、效果和实施方案问题的应用研究分支，与纯研究（blue skies research）在研究动机、理论角色、议程设定和受众上存在系统差异。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

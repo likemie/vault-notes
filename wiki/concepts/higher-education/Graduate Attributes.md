@@ -9,7 +9,7 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

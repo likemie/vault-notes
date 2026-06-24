@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究数据分析的第一步，报告所有变量的均值、标准差和得分范围，并识别和报告缺失数据的程度与处理策略"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

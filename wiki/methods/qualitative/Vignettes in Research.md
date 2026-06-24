@@ -9,7 +9,7 @@ summary: "敏感研究中通过简短描述一个人或社会情境来间接收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

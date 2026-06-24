@@ -4,7 +4,7 @@ aliases: [符号互动论, symbolic interaction]
 summary: "源自米德的社会心理学理论，主张人基于事物对其具有的意义来行动，意义通过符号和社会互动持续建构、修改和协商。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 2
+theory_related_count: 4
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"

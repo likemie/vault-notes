@@ -5,7 +5,7 @@ aliases:
 summary: "以国家领土控制、势力范围和硬实力竞争为中心的传统地缘政治理解，与关系性和网络化的空间分析形成对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

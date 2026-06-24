@@ -5,7 +5,7 @@ aliases:
 summary: "一种将学校知识定义为对按学科分类的事实信息进行获取和积累的教育范式，在法国和德国各有版本并深刻影响了拉丁美洲等地区的教育传统，与能力导向教育形成根本对立"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

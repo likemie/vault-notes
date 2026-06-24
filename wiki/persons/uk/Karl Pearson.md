@@ -7,10 +7,10 @@ summary: "英国数学家与统计学奠基人，1904年首次提出跨研究合
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - karl-pearson
 - statistics

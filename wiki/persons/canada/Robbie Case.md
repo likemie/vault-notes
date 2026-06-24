@@ -7,7 +7,7 @@ summary: "加拿大发展心理学家和新皮亚杰理论家，四子域发展�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

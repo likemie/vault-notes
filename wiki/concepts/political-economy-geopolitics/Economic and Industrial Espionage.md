@@ -8,7 +8,7 @@ aliases:
 summary: "围绕商业技术、产业知识和经济情报获取展开的秘密信息攫取活动，用于分析国家与企业之间的竞争性知识争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -9,9 +9,9 @@ subtype: policy
 region: hongkong
 fact_region: "hongkong"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
 - liberal-studies-hong-kong

@@ -6,7 +6,7 @@ summary: "不直接操纵处理条件而观察现象、关系或过程的研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段"
 type: concept
 domain: "comparative-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

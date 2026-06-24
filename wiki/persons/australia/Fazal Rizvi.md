@@ -7,7 +7,7 @@ summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

@@ -6,7 +6,7 @@ aliases:
 summary: "John Sweller 提出的学习理论，以工作记忆容量有限为核心前提，主张教学设计应减少外在认知负荷、优化内在认知负荷，以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

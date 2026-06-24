@@ -6,7 +6,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，由 Alfred Zimmern 定义为比民族主义心态更适合合作的普遍心态，旨在通过消除教科书中的偏见和刻板印象来建构主体间客观的学校知识"
 type: concept
 domain: "comparative-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

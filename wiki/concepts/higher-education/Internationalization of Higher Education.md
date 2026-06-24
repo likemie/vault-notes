@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

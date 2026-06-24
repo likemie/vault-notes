@@ -11,7 +11,7 @@ aliases:
 summary: "统计推断中两类对称的决策错误——拒绝真零假设（第一类，冤枉无辜）和接受假零假设（第二类，放过有罪），两者之间存在内在权衡，在量化与质性研究中均有对应"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

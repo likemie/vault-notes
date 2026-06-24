@@ -8,10 +8,10 @@ aliases:
 summary: "西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/western
   - theme/intelligence

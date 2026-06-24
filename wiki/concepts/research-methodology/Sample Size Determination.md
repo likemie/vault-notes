@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计中确定样本大小的决策过程，涉及研究目的、总体规模、置信水平与置信区间、变量类型、统计方法要求、子组数量和预期无回应率等多重因素，是抽样规划的核心环节"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

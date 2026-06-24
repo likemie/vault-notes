@@ -7,7 +7,7 @@ summary: "芬兰组织学习与教育研究者，在 Vygotsky 中介三角模型
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

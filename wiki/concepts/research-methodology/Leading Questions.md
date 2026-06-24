@@ -8,7 +8,7 @@ aliases:
 summary: "访谈或问卷中通过隐含假设或预设答案方向来影响受访者回答的问题形式，是访谈偏差的主要来源之一，但在特定情境中Kvale为其做出了有力的辩护"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

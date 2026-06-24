@@ -11,7 +11,7 @@ aliases:
 summary: "一种研究哲学立场，主张个体通过与世界的互动和社会历史背景建构主观意义，研究目标是从参与者视角理解多元和复杂的意义"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

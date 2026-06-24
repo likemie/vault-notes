@@ -6,7 +6,7 @@ aliases:
 summary: "证据本位教育中的制度化中介机构，通过设定证据标准、审查项目研究和发布效果评级，把研究证据转化为学校和政策可使用的项目信息。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

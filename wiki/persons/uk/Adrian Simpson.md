@@ -7,7 +7,7 @@ summary: "英国数学教育学者和方法论批评者，效应量误用问题�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

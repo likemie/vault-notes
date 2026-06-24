@@ -7,10 +7,10 @@ summary: "美国统计学家，Cohen’s d 与效应量阈值框架提出者，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - jacob-cohen
 - effect-size

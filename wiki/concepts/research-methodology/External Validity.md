@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

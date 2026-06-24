@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln 和 Guba 可信性标准的核心操作之一"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

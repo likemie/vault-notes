@@ -6,7 +6,7 @@ summary: "把教育改进视为在真实系统中持续测试、反馈和迭代�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"

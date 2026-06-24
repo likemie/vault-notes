@@ -7,9 +7,9 @@ summary: "英国教育社会学者，天主教教育与社会的批判者和良�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
 - gerald-grace

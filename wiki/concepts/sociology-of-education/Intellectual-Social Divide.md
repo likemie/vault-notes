@@ -7,7 +7,7 @@ aliases:
 summary: "西方学校文化中的深层假设，认为理智追求与社交能力相互排斥，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

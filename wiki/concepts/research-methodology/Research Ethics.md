@@ -4,7 +4,7 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

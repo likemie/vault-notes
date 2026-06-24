@@ -13,9 +13,9 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: "University-Industry Demonstration Partnership (UIDP)"
 citation: "Southerton, J., Umberger, G., Matijasevic, G., Steele, S., & Johnson, W. (2012). The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement. University-Industry Demonstration Partnership (UIDP)."

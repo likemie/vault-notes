@@ -9,7 +9,7 @@ aliases:
 summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 11
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

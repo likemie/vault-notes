@@ -8,7 +8,7 @@ summary: "瑞士心理学家，认知发展阶段理论与发生认识论创立�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

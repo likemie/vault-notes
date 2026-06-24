@@ -7,7 +7,7 @@ summary: "美国教育学者和全语言运动奠基人，提出阅读作为心�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

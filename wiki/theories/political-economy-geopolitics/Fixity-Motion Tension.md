@@ -5,7 +5,7 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 12
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

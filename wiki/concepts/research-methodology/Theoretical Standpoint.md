@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中以理论作为整体导向透镜的方式，围绕性别、阶级、种族等边缘群体议题塑造研究问题、数据收集与分析，并提供行动或变革的呼吁"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

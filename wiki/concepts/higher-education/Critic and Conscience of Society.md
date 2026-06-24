@@ -5,7 +5,7 @@ aliases:
 summary: "指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

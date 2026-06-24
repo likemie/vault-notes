@@ -9,7 +9,7 @@ aliases:
 summary: "Holland (1986) 提出的因果推断根本性困难：同一个人不能同时处于接受和不接受干预的状态，因此因果效应在个体层面无法被观察"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

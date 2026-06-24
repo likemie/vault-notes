@@ -7,7 +7,7 @@ summary: "荷兰组织社会心理学家，文化维度理论提出者，为教�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

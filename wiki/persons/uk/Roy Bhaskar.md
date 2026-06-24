@@ -7,10 +7,10 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - roy-bhaskar
   - critical-realism

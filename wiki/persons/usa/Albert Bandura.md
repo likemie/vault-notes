@@ -8,7 +8,7 @@ summary: "加拿大裔美国心理学家，社会学习理论（后演化为社�
 type: person
 nationality: canada-usa
 person_region: "canada-usa"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

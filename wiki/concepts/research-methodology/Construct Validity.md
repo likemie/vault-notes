@@ -8,7 +8,7 @@ aliases:
 summary: "就一个抽象构念的操作化形式达成一致的程度，在量化研究中通过收敛与区分技术检验，在质性研究中要求范畴对参与者本身有意义，被Loevinger称为效度类型的女王"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

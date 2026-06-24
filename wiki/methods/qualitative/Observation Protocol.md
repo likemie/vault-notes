@@ -8,7 +8,7 @@ summary: "质性观察中用于记录描述性笔记和反思性笔记的单页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

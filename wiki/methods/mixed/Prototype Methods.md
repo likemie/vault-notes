@@ -8,7 +8,7 @@ summary: "基于认知心理学原型理论、通过语言词汇的自由联想�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"

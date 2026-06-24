@@ -6,10 +6,10 @@ aliases:
 summary: "一项研究对进行研究的文化环境的恰当程度，适用于研究全阶段，要求研究者在规划、实施和传播中对参与者文化和处境保持敏感"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

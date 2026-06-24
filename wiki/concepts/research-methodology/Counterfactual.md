@@ -8,7 +8,7 @@ aliases:
 summary: "因果推断中通过设想原因不存在时效果是否仍会发生来判断因果关系的一种推理方式，由 Mackie (1993) 系统引入因果分析"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

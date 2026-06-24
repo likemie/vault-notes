@@ -8,7 +8,7 @@ aliases:
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

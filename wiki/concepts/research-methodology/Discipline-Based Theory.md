@@ -7,7 +7,7 @@ aliases:
 summary: "混合方法研究中从社会科学、行为科学或健康科学文献中提取的理论，识别变量或构念并解释其相互关系，为研究的量化与质性成分提供统一框架"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

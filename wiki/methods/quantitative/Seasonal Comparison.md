@@ -7,7 +7,7 @@ summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"

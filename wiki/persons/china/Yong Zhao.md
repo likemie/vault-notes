@@ -7,10 +7,10 @@ summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - region/us
   - region/china

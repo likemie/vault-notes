@@ -7,7 +7,7 @@ aliases:
 summary: "研究者或评分者对某人或某情境的了解对后续判断产生系统性影响的认知偏差，在数据分析阶段和测验评分中尤为突出，表现为早期严格后期宽松、或基于单一正面印象给予不应得的有利评估"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

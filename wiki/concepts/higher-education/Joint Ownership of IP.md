@@ -9,7 +9,7 @@ aliases:
 summary: "美国专利法下共同所有专利的每个所有人拥有等同于商业非排他免版税许可的独立权利，产学合作协议须明确涵盖大学在共同所有前景 IP 中的权利以避免产业方无偿自由商业化"
 type: concept
 domain: "higher-education"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ subtype: event
 region: sweden
 fact_region: "sweden"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"

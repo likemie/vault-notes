@@ -9,7 +9,7 @@ aliases:
 summary: "跨文化与质性研究方法论的核心区分。来自语言学类比（音位学/语音学），主位（emic）从文化内部理解参与者的主观意义与结构，客位（etic）从文化外部使用研究者范畴进行比较分析。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

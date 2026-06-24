@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义、功�
 type: person
 nationality: united-states
 person_region: "united-states"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

@@ -5,7 +5,7 @@ aliases:
 summary: "从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

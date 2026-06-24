@@ -7,7 +7,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

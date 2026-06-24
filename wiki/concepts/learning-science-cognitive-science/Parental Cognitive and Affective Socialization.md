@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 通过母-子对话研究识别的两种文化社会化模式，欧裔母亲侧重心智-智力框架与兴趣-骄傲情感，台湾母亲侧重美德-品格框架与吃苦-坚持情感"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -4,7 +4,7 @@ aliases: [后现代主义, postmodern, postmodernist]
 summary: "一种拒绝宏大叙事和普遍法则的思想运动，重视不连续性、差异、多样性和个体独特性，主张知识是人的社会建构，倡导相对主义而非绝对主义。"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

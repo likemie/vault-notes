@@ -6,7 +6,7 @@ aliases:
 summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

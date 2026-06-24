@@ -4,10 +4,10 @@ aliases: [伯勒尔和摩根四组假设框架, Burrell and Morgan framework, �
 summary: "Burrell and Morgan (1979) 提出的分析社会研究范式差异的理论框架，以本体论、认识论、人性和方法论四组假设沿主观–客观维度排列，揭示一切方法论的差异根植于更深层的哲学假设差异。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 6
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags: [theory/sociological, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Hypothesis]]"

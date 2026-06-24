@@ -5,10 +5,10 @@ aliases:
 summary: "研究结论应提供暂定、可修正的担保断言而非确定性证明，可用于评估政策论证是否真正由证据支持而不是靠修辞跳跃推进"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - justified-warrants
 - evidence-based-policy

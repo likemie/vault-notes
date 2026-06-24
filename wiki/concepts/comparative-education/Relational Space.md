@@ -6,7 +6,7 @@ aliases:
 summary: "将空间理解为社会行动者之间关系的集合，而非固定的领土容器，是比较教育超越方法论民族主义的核心理论视角"
 type: concept
 domain: "comparative-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -7,10 +7,10 @@ summary: "美国教育研究者，What Works 2.0 框架提出者，为教育研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - amelia-peterson
 - evidence-based-education

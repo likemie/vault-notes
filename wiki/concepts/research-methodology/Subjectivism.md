@@ -4,7 +4,7 @@ aliases: [主观主义, subjectivist approach, subjectivist paradigm]
 summary: "研究社会现实的主观主义取向，持唯名论本体论和反实证主义认识论，将社会世界视为个体意识的产物，以理解个体如何创造和解释其世界为研究目标。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

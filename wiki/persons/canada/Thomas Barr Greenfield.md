@@ -7,7 +7,7 @@ summary: "加拿大教育行政学者，主观主义教育行政研究代表人�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

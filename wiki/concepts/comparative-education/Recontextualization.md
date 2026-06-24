@@ -6,7 +6,7 @@ aliases:
 summary: "教育思想从生产场所到课程和学校的转化过程，Bernstein 理论化为选择性挪用和重新定位，Schulte 将其发展为分析教育思想跨国转移的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

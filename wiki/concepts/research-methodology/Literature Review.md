@@ -4,6 +4,10 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: [source/textbook, method/research-process]
 related_concepts: []
 related_theories: []
@@ -23,7 +27,7 @@ updated: 2026-06-25
 
 ## 定义
 
-> [!def] 文献综述（Literature Review）
+> [!def] [[Document|文献]]综述（Literature Review）
 > 文献综述是对某一[[Research Topic|研究主题]]已有文献的系统检索、评估和总结。它向读者呈现与当前研究密切相关的已有研究成果，将研究置于更大范围的学术对话之中，填补已有研究的空白并延伸先前的研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
@@ -39,7 +43,7 @@ updated: 2026-06-25
 
 ## 概念辨析
 
-> [!contrast-table] 文献综述 vs 文献检索
+> [!contrast-table] [[Document|文献]]综述 vs [[Literature Search|文献检索]]
 > | 维度 | 文献综述 | [[Literature Search\|文献检索]] |
 > |---|---|---|
 > | 本质 | 论证性写作 | 技术性操作 |
@@ -52,7 +56,7 @@ updated: 2026-06-25
 ## 核心任务与目的
 
 > [!abstract] 核心任务
-> 文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的相关研究成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
+> [[Document|文献]]综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的相关研究成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
 
 Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.126–127]]）：
 
@@ -80,7 +84,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ## 论证结构
 
-> [!claim] 文献综述的本质是论证
+> [!claim] [[Document|文献]]综述的本质是论证
 > 文献综述必须是**有组织、有论证发展的文本**。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.127–128]]）。
 
 > [!chain-link] 文献综述的论证结构
@@ -113,7 +117,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ### 文献阅读方法
 
-文献阅读是文献综述的核心前提。齐梅 (2015, Ch.1) 区分了三种应结合使用的阅读方法：
+[[Document|文献]]阅读是文献综述的核心前提。齐梅 (2015, Ch.1) 区分了三种应结合使用的阅读方法：
 
 > [!feature] 三种文献阅读方法
 > - **浏览（Skimming）** 旨在抓住要点，用以初步判断文献的价值，掌握文献的大致内容。
@@ -130,7 +134,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 齐梅 (2015, Ch.1) 提出了文献综述写作的一般结构：
 
 > [!proc] 文献综述撰写结构
-> 1. **引言（Introduction）** 简要描述所研究问题的性质，并进一步陈述研究问题。此外，研究者可以描述研究的理由及意义。
+> 1. **引言（Introduction）** 简要描述所[[Research Question|研究问题]]的性质，并进一步陈述研究问题。此外，研究者可以描述研究的理由及意义。
 > 2. **综述主体（Main Body）** 简要报告其他研究者在该研究问题上已有的发现和所持的观点。通常将相关的研究放在一起讨论，并用小标题进行分类。主要研究工作做详细介绍，相对次要的研究略微提及即可。
 > 3. **小结（Summary）** 与文献综述的主线联系紧密，给出迄今为止有关研究问题的已有知识和观点。列表格是一种简明扼要的陈述方法。
 > 4. **结论（Conclusion）** 在文献综述小结的基础上呈现某些结论，例如理解某个研究问题的理论线索是什么，解决这个问题的最佳行动路线是什么。
@@ -153,8 +157,8 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ## 不同研究范式中的角色
 
-> [!abstract] 范式差异
-> 文献综述在三种研究路径中有不同的组织方式和[[Epistemology|认识论]]角色。
+> [!abstract] [[Paradigm|范式]]差异
+> [[Document|文献]]综述在三种研究路径中有不同的组织方式和[[Epistemology|认识论]]角色。
 
 ### 量化研究
 
@@ -187,7 +191,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ### 混合方法研究
 
-> [!info] 混合方法中的文献使用
+> [!info] [[Mixed Methods Research|混合方法]]中的文献使用
 > [[Mixed Methods Research|混合方法研究]]中的文献使用取决于设计类型和成分权重。在序列式设计中，每个阶段的文献与该阶段使用的方法一致：如果以量化阶段开始，文献综述通常较详实；如果以质性阶段开始，文献使用量则大幅减少。如果量化与质性数据同等重要，文献形式的选择取决于研究受众的偏好（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 ---

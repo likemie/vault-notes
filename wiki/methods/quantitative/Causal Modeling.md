@@ -8,9 +8,9 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 25
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - causal-modeling

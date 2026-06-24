@@ -6,10 +6,10 @@ aliases:
 summary: "质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/constructivist

@@ -4,10 +4,10 @@ aliases: [假设, 研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [subject/research-methodology, paradigm/positivist]
 related_concepts:
   - "[[Variable]]"

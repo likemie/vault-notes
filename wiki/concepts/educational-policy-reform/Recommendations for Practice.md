@@ -5,7 +5,7 @@ aliases:
 summary: "研究论文中把研究发现转化为采用、调整或避免某种实践的行动建议，用于连接研究结论与政策或教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -6,7 +6,7 @@ aliases:
 summary: "概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

@@ -7,7 +7,7 @@ aliases:
 summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

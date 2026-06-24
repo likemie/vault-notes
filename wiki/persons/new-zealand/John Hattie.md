@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 105
+person_related_count: 107
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"

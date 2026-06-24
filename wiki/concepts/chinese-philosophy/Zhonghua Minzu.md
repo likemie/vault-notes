@@ -8,6 +8,10 @@ aliases:
 summary: "由梁启超 1902 年引入的现代概念，经费孝通 1988 年以多元一体格局重新阐释后进入中共主流话语，指以汉文化为核心、吸纳所有 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theme/national-identity
@@ -71,7 +75,7 @@ updated: '2026-06-25'
 ## 核心要素
 
 > [!theory-components] 核心要素
-> - **费孝通多元一体格局的双重目的**：
+> - **[[Fei Xiaotong|费孝通]]多元一体格局的双重目的**：
 >   1. *建立等级制*：将 56 个民族隶属于新想象的中华民族之下，削弱少数民族的独立存在和自治权利。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
 >   2. *赋予汉人联合主体地位*：强调汉文化的同化力，能将内陆亚洲的北方征服者吸纳入中华民族，同时排斥西方与日本帝国主义。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
 > - **自在（zizai）与自觉（zijue）的双重维度**：
@@ -99,7 +103,7 @@ updated: '2026-06-25'
 > - **[[Retrotopia\|怀旧乌托邦]]**：伟大复兴设想的理想中华民族属于修复性怀旧工程，其时空定位指向古代大一统和天下的文明巅峰。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 104–105]])
 > - **[[Sinicisation\|汉化]]**：国族建构的核心同化机制，即少数民族的语言与身份逐渐消融于以汉文化为中心的体制中。
 > - **天下（Tianxia）**：[[Zhao Tingyang|赵汀阳]]（Zhao Tingyang）的天下理论为中华民族提供了文明论基础，将少数民族文化消亡包装为仰慕天道的自愿臣服。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 106–107]])
-> - **结构功能主义**：费孝通的冲突融合论受麦克斯·格卢克曼（Max Gluckman, 1940）的冲突理论启发，将族际冲突与分裂视为促进进一步融入更大共同体的手段。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
+> - **结构功能主义**：[[Fei Xiaotong|费孝通]]的冲突融合论受麦克斯·格卢克曼（Max Gluckman, 1940）的冲突理论启发，将族际冲突与分裂视为促进进一步融入更大共同体的手段。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
 
 ---
 
@@ -122,7 +126,7 @@ updated: '2026-06-25'
 ## 实证研究与案例
 
 > [!evidence-grid-a] 实证案例索引
-> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴怀旧乌托邦在内蒙古语言改革中的“自我牺牲”实践。
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia|怀旧乌托邦]]在内蒙古语言改革中的“自我牺牲”实践。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证话语对比分析。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 国家为推广普通话而强行在内蒙古实施的语言替代性改革，引发大规模自杀与抗议。
 > - [[Xinjiang Vocational Education and Training Centers]] — 国家在新疆设立的技能培训中心，通过剥夺维吾尔少数民族的宗教与文化，试图加速其融入中华民族共同体。

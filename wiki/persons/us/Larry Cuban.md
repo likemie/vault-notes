@@ -7,7 +7,7 @@ summary: "美国教育史学家和课程理论家，学校改革史与技术乌�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

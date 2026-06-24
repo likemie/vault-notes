@@ -8,7 +8,7 @@ aliases:
 summary: "将聚合数据中发现的关系错误地假定适用于个体的推理错误，是跨文化研究和量化比较研究中限制外部效度的核心威胁之一"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

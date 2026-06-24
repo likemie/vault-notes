@@ -7,7 +7,7 @@ aliases:
 summary: "将全球与地方视为对立两极的分析框架，被批评为过度简化、掩盖复杂性，是比较教育需要超越的概念局限"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ aliases:
 summary: "跨文化研究中验证翻译工具效度的标准技术，通过原文→译文→第三方回译→两版原文比较的循环来确保跨语言工具的意义对等性"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

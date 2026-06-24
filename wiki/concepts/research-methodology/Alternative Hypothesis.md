@@ -11,7 +11,7 @@ aliases:
 summary: "正式假设检验中预测变量间存在显著关系的假设形式，最好写为方向性形式以明确预期关系的方向，与零假设成对构成统计检验的完整框架，通常以H₁表示。"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -8,7 +8,7 @@ aliases:
 summary: "美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
