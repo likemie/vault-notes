@@ -4,47 +4,26 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
-related_concepts:
-  - "[[Document]]"
-  - "[[Research Topic]]"
-  - "[[Reliability]]"
-  - "[[Abstract]]"
-  - "[[Literature Search]]"
-  - "[[Research Question]]"
-  - "[[Epistemology]]"
-  - "[[Hypothesis]]"
-  - "[[Variable]]"
-  - "[[Postpositivism]]"
-  - "[[Memos]]"
-  - "[[Primary and Secondary Documents]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Literature Map]]"
-  - "[[Quantitative Research]]"
-  - "[[Qualitative Research]]"
-  - "[[Mixed Methods Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
+related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-30
 updated: 2026-06-25
 ---
+
 # Literature Review
+
+---
 
 ## 定义
 
-> [!def] [[Document|文献]]综述（Literature Review）
+> [!def] 文献综述（Literature Review）
 > 文献综述是对某一[[Research Topic|研究主题]]已有文献的系统检索、评估和总结。它向读者呈现与当前研究密切相关的已有研究成果，将研究置于更大范围的学术对话之中，填补已有研究的空白并延伸先前的研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
@@ -60,7 +39,7 @@ updated: 2026-06-25
 
 ## 概念辨析
 
-> [!contrast-table] [[Document|文献]]综述 vs [[Literature Search|文献检索]]
+> [!contrast-table] 文献综述 vs 文献检索
 > | 维度 | 文献综述 | [[Literature Search\|文献检索]] |
 > |---|---|---|
 > | 本质 | 论证性写作 | 技术性操作 |
@@ -70,11 +49,12 @@ updated: 2026-06-25
 
 ---
 
-## 核心要素
+## 核心任务与目的
 
-### 七项目的
+> [!abstract] 核心任务
+> 文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的相关研究成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
 
-Cohen et al. 提出了[[Document|文献]]综述的七项目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.126–127]]）：
+Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.126–127]]）：
 
 > [!frames-ref] 文献综述的七项目的
 > 1. **避免重复造轮子**：确保拟议研究不只是回收已有材料（除非是复制研究）
@@ -86,17 +66,22 @@ Cohen et al. 提出了[[Document|文献]]综述的七项目的（[[Argument_Cohe
 > 7. **明确该领域哪些新领域需要突破**，展示拟议研究将如何填补空白
 
 > [!warning] 文献综述必须有用
-> 文献综述必须是形成性的（formative），通向或衍生出研究的各个方面（领域、课题、方法论、数据分析和未来研究启示），而不只是展示研究者读过一些相关材料。文献综述应包含来自以下材料的及时信息：书籍、文章、报告、研究论文、报纸文章、会议论文、学位论文、综述、政府文件、数据库和互联网来源、一手和二手来源等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 文献综述必须是形成性的（formative），通向或衍生出研究的各个方面（领域、课题、方法论、数据分析和未来研究启示），而不只是展示研究者读过一些相关材料（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+
+> [!tip] 两个基本条件
+> 做好文献综述有两个基本条件：所选择的文献要具有代表性；阅读文献时要把握文献的精髓（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
 
 ### 规模考量
 
-文献综述的规模是选题的决定因素之一，研究者需要考量其必要规模对时间、可管理性、可操作性的影响。如果课题过于庞大或散焦，可能无法在可用时间内得到公正处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> [!warning] 规模与可管理性
+> 文献综述的规模是选题的决定因素之一，研究者需要考量其必要规模对时间、可管理性、可操作性的影响。如果课题过于庞大或散焦，可能无法在可用时间内得到公正处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---
 
-### 论证结构
+## 论证结构
 
-Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**。它应综合多种材料，形成持续的、累积的论证。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.127–128]]）。
+> [!claim] 文献综述的本质是论证
+> 文献综述必须是**有组织、有论证发展的文本**。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.127–128]]）。
 
 > [!chain-link] 文献综述的论证结构
 > - **第一步：论证方向**
@@ -108,7 +93,8 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 > - **第四步：结论**
 >   基于提出的要点和证据，得出文献综述的结论
 
-文献综述还可以报告：领域中的争议及为何有争议；研究者正在试图调查的当代问题；领域从研究角度面临的困难；需要探索的新领域（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.127]]）。
+> [!note] 可报告的其他内容
+> 文献综述还可以报告：领域中的争议及为何有争议；研究者正在试图调查的当代问题；领域从研究角度面临的困难；需要探索的新领域（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.127]]）。
 
 > [!frames-ref] 实施与撰写要点
 > - 确立并论证研究需要开展的意义、重要性和原创性
@@ -123,40 +109,7 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 
 ---
 
-### 不同研究范式中的角色
-
-文献综述在三种研究路径中有不同的组织方式和[[Epistemology|认识论]]角色。
-
-#### 量化研究
-
-在[[Quantitative Research|量化研究]]中，文献综述通常以独立章节形式出现在研究开头，为[[Research Question|研究问题]]或[[Hypothesis|假设]]提供方向。其典型结构围绕[[Variable|变量]]组织（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
-
-> [!proc] 量化文献综述的五部分结构
-> 1. **引言** 告知读者该章节包含哪些部分
-> 2. **主题一** 关于自变量（independent variable）的文献
-> 3. **主题二** 关于因变量（dependent variable）的文献
-> 4. **主题三** 将自变量与因变量联系起来的文献
-> 5. **总结** 突出最重要的研究，捕捉主要主题，说明为何需要更多研究
-
-量化研究以演绎方式使用文献——文献作为提出研究问题或假设的基础。在研究结尾，研究者重新回到文献，将结果与已有发现进行比较（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-
-#### 质性研究
-
-在[[Qualitative Research|质性研究]]中，文献的使用方式差异较大。一般而言，质性研究在开头较少使用文献，以传达归纳式设计的特征。文献在质性研究中有三种可能的摆放位置（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
-
-> [!col1-table] 质性研究中文献的三种摆放位置
-> | 文献使用方式 | 适用条件 | 典型策略类型 |
-> |---|---|---|
-> | 文献在引言中框定研究问题 | 需要有一些已有文献 | 适用于所有类型的质性研究 |
-> | 文献以独立章节呈现 | 适合习惯于传统[[Postpositivism\|后实证主义]]文献综述方式的读者 | 定量取向较强的研究者偏好此方式 |
-> | 文献放在研究结尾，作为比较和对照研究发现的依据 | 最适合质性研究的归纳过程，文献不引导和规定研究 | 质性取向较强的研究者偏好此方式 |
-
-#### 混合方法研究
-
-> [!info] [[Mixed Methods Research|混合方法]]中的文献使用
-> [[Mixed Methods Research|混合方法研究]]中的文献使用取决于设计类型和成分权重。在序列式设计中，每个阶段的文献与该阶段使用的方法一致：如果以量化阶段开始，文献综述通常较详实；如果以质性阶段开始，文献使用量则大幅减少。如果量化与质性数据同等重要，文献形式的选择取决于研究受众的偏好（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-
----
+## 撰写方法
 
 ### 文献阅读方法
 
@@ -167,9 +120,12 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 > - **泛读（General Reading）** 旨在了解文献的基本思想与结论，用以判断文献利用价值，概括了解研究的焦点、动向与新进展。
 > - **精读／批判性阅读（Critical Reading）** 旨在全面、具体掌握文献的实质内容，在理解的基础上进行评价、质疑，甚至挑出文章中的错误之处。
 
-除阅读外，还需要进行文献记录和文献目录整理。文献记录可借助摘要和[[Memos|札记]]两种方式：摘要是对文献基本观点、论据、方法等的概述；札记是研究者在阅读过程中将自己的认识要点、联想、疑问、评价、启示等予以记录。文献目录整理应在日常进行，将文献的作者、名称、出处建立档案，避免遗漏过多的参考文献（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.1）。
+> [!info] 文献记录与目录整理
+> 除阅读外，还需要进行文献记录和文献目录整理。文献记录可借助摘要和[[Memos|札记]]两种方式：摘要是对文献基本观点、论据、方法等的概述；札记是研究者在阅读过程中将自己的认识要点、联想、疑问、评价、启示等予以记录。文献目录整理应在日常进行，将文献的作者、名称、出处建立档案，避免遗漏过多的参考文献（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.1]]）。
 
-### 文献综述的五部分撰写结构
+---
+
+### 五部分撰写结构
 
 齐梅 (2015, Ch.1) 提出了文献综述写作的一般结构：
 
@@ -179,6 +135,8 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 > 3. **小结（Summary）** 与文献综述的主线联系紧密，给出迄今为止有关研究问题的已有知识和观点。列表格是一种简明扼要的陈述方法。
 > 4. **结论（Conclusion）** 在文献综述小结的基础上呈现某些结论，例如理解某个研究问题的理论线索是什么，解决这个问题的最佳行动路线是什么。
 > 5. **参考文献（References）** 列明文献综述中引用的所有文献的出处和完整的索引。
+
+---
 
 ### 撰写注意事项
 
@@ -193,10 +151,51 @@ Cohen et al. 强调文献综述必须是**有组织、有论证发展的文本**
 
 ---
 
+## 不同研究范式中的角色
+
+> [!abstract] 范式差异
+> 文献综述在三种研究路径中有不同的组织方式和[[Epistemology|认识论]]角色。
+
+### 量化研究
+
+在[[Quantitative Research|量化研究]]中，文献综述通常以独立章节形式出现在研究开头，为[[Research Question|研究问题]]或[[Hypothesis|假设]]提供方向。其典型结构围绕[[Variable|变量]]组织（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+
+> [!proc] 量化文献综述的五部分结构
+> 1. **引言** 告知读者该章节包含哪些部分
+> 2. **主题一** 关于自变量（independent variable）的文献
+> 3. **主题二** 关于因变量（dependent variable）的文献
+> 4. **主题三** 将自变量与因变量联系起来的文献
+> 5. **总结** 突出最重要的研究，捕捉主要主题，说明为何需要更多研究
+
+> [!note] 演绎式使用
+> 量化研究以演绎方式使用文献——文献作为提出研究问题或假设的基础。在研究结尾，研究者重新回到文献，将结果与已有发现进行比较（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+
+---
+
+### 质性研究
+
+在[[Qualitative Research|质性研究]]中，文献的使用方式差异较大。一般而言，质性研究在开头较少使用文献，以传达归纳式设计的特征。文献在质性研究中有三种可能的摆放位置（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+
+> [!col1-table] 质性研究中文献的三种摆放位置
+> | 文献使用方式 | 适用条件 | 典型策略类型 |
+> |---|---|---|
+> | 文献在引言中框定研究问题 | 需要有一些已有文献 | 适用于所有类型的质性研究 |
+> | 文献以独立章节呈现 | 适合习惯于传统[[Postpositivism\|后实证主义]]文献综述方式的读者 | 定量取向较强的研究者偏好此方式 |
+> | 文献放在研究结尾，作为比较和对照研究发现的依据 | 最适合质性研究的归纳过程，文献不引导和规定研究 | 质性取向较强的研究者偏好此方式 |
+
+---
+
+### 混合方法研究
+
+> [!info] 混合方法中的文献使用
+> [[Mixed Methods Research|混合方法研究]]中的文献使用取决于设计类型和成分权重。在序列式设计中，每个阶段的文献与该阶段使用的方法一致：如果以量化阶段开始，文献综述通常较详实；如果以质性阶段开始，文献使用量则大幅减少。如果量化与质性数据同等重要，文献形式的选择取决于研究受众的偏好（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将[[Document|文献]]综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research|混合方法]]路径中的不同策略
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011, Ch.6)]] — 将文献综述作为[[Research Topic|研究选题]]的决策因素之一，提出七项目的框架和规模考量
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则
-
+> - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.1)]] — 提出文献综述的核心任务、两个基本条件、文献阅读方法、五部分撰写结构和撰写注意事项
