@@ -55,7 +55,7 @@ updated: '2026-06-25'
 > [!citation-card]- 关键表述
 > “费孝通对中华民族的定义，试图将（中华人民共和国宪法中）定义的多民族国家转变为具有‘族群’多样性的单一‘国族’。”([[Argument_Bulag_2024_CE|Bulag, 2024, p. 101]])
 > 
-> *“Fei’s definition of Zhonghua minzu attempts to turn what is defined (in the PRC constitution) as a multinational state into a single ‘nation’ with ‘ethnic’ diversity”* (Bulag, 2024, p. 101)
+> *“Fei’s definition of Zhonghua minzu attempts to turn what is defined (in the PRC constitution) as a multinational state into a single ‘nation’ with ‘ethnic’ diversity”* ([[Argument_Bulag_2024_CE|Bulag, 2024, p. 101]])
 
 ---
 

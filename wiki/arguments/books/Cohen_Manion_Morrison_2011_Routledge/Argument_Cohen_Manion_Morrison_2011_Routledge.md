@@ -159,7 +159,7 @@ updated: 2026-06-24
 > | 第17章 Case studies | | |
 > | 第18章 Ex post facto research | | |
 > | 第19章 Experiments, quasi-experiments, single-case research and [[Meta-analysis]] | | |
-> | 第20章 Action research | | |
+> | 第20章 [[Action Research]] | | |
 > | **Part 4 资料收集的策略与工具** | | |
 > | 第21章 Questionnaires | | |
 > | 第22章 Interviews | | |

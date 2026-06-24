@@ -486,7 +486,7 @@ Douglas (1973)提出了一对关键概念区分(pp.524–531)：
 > [!case] 课堂案例：为什么"草莓"惹人大笑？
 > Walker and Adelman 记录了一个课堂片段：一个叫 Wilson 的男生读完一篇明显敷衍的短文后，老师说"Wilson, we'll have to put you away if you don't change your ways, and do your [[Homework]]. Is that all you've done?" 学生回答："Strawberries, strawberries."(笑声)
 >
-> 一个使用弗兰德斯互动分析类别(FIAC)[[Coding in Qualitative Research|编码]]的观察者会记录下：'7'(教师批评)→ '4'(教师提问)→ '9'(学生激怒)→ '10'(沉默或混乱，描述笑声)。然而，这样一个编码串——无论多么可靠和有效——无法帮助任何人理解为什么这句打断是好笑的。
+> 一个使用[[Flanders Interaction Analysis Categories|弗兰德斯互动分析]]类别(FIAC)[[Coding in Qualitative Research|编码]]的观察者会记录下：'7'(教师批评)→ '4'(教师提问)→ '9'(学生激怒)→ '10'(沉默或混乱，描述笑声)。然而，这样一个编码串——无论多么可靠和有效——无法帮助任何人理解为什么这句打断是好笑的。
 >
 > Walker and Adelman 随后询问为什么"草莓"是一个幽默的刺激，被告知老师经常说学生的作业"像草莓——好的地方很好，但持续的时间远远不够长"。这里，**一句过去的随意评论已经成为班级共享意义系统的有机组成部分**。只有通过理解这段随时间发展的关系，才能理解这一互动。这就是索引性的力量——意义深嵌于共享的社会语境历史中(Box 1.5, pp.459–484)。
 
@@ -673,7 +673,7 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 复杂性理论为教育研究提出了一套替代性方法论(pp.804–808)：
 
 > [!success] 复杂性理论的研究取向
-> - 倡导**案例研究方法论**、叙事、行动研究和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境
+> - 倡导**[[Case Study|案例研究]]方法论**、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境
 > - 需要追踪**多元[[Causality|因果性]]**、多元视角和多元效应
 > - 主张**教师即研究者**运动，以及内部与外部研究者的共生关系和伙伴关系
 > - 倡导方法论、范式和理论的**多元主义**(pluralism)

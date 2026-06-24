@@ -319,7 +319,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 告知人们研究可能引发[[Hawthorne Effect|霍桑效应]]（第10章讨论）或干扰参与者的自然行为（Oliver, 2003, p. 53）：他们会意识到被观察。寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据，因为参与者可能更加警惕他们披露的内容（如关于人际关系的信息）。
 >
 > **3. Wax (1982, p. 44) 的"既太多又太少"论证**
-> "太多"：在质性研究的涌现性情境中"过度谨慎且具有破坏性"，因为随意谈话是田野笔记的重要组成部分；"太少"：田野研究者往往需要比知情同意多得多的东西，包括信任、参与者的"积极协助"和"同事关系"。Wax 甚至认为知情同意强化了而非平衡了研究者与参与者之间的权力不对称。他还提出了一个有力观点（p. 42）：在许多类型的研究中，知情同意不是"一锤子买卖"（如[[Experimental Research|实验研究]]），而是在质性、涌现性研究中必须**持续协商**的。
+> "太多"：在质性研究的涌现性情境中"过度谨慎且具有破坏性"，因为随意谈话是田野笔记的重要组成部分；"太少"：[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西，包括信任、参与者的"积极协助"和"同事关系"。Wax 甚至认为知情同意强化了而非平衡了研究者与参与者之间的权力不对称。他还提出了一个有力观点（p. 42）：在许多类型的研究中，知情同意不是"一锤子买卖"（如[[Experimental Research|实验研究]]），而是在质性、涌现性研究中必须**持续协商**的。
 >
 > **4. 可能只研究"安全"主题**
 > 正式知情同意可能导致研究只关注"安全"、容易研究的主题，忽视脆弱和排斥群体。但 Humphreys (1975, p. 169)——著名研究 *Tearoom Trade* (1970)（同性恋会面安排研究）的作者——在其1975年伦理后记中写道："一个社会科学家对这个人能做的最大的伤害就是忽视他。"（p.84）
@@ -660,7 +660,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 
 #### 5.7.3 Box 5.7：行动研究的伦理原则
 
-> [!info] Box 5.7：行动研究者伦理指导原则（Kemmis & McTaggart, 1981; 引自 Hopkins, 1985, pp. 134–136）
+> [!info] Box 5.7：[[Action Research|行动研究]]者伦理指导原则（Kemmis & McTaggart, 1981; 引自 Hopkins, 1985, pp. 134–136）
 >
 > **遵守规程（Observe protocol）**：确保相关人士、委员会和权威机构已被征询、告知，并已获得必要的许可和批准。
 >
@@ -1232,7 +1232,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > 'researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes' (Simons & Usher, 2000, p. 2).
 
 > [!citation-card]- Wax 对知情同意的批评
-> Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但田野研究者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
+> Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
 >
 > Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
