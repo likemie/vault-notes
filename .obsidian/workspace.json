@@ -38,18 +38,33 @@
             }
           },
           {
-            "id": "f241181d2b5120b7",
+            "id": "c9f4f2185b9877a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/qualitative/Theoretical Sampling.md",
+                "file": "wiki/concepts/research-methodology/Emergence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Theoretical Sampling"
+              "title": "Emergence"
+            }
+          },
+          {
+            "id": "2f38c9d61b12ac28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/methods/qualitative/Ideology Critique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideology Critique"
             }
           }
         ],
@@ -223,9 +238,16 @@
   },
   "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "wiki/concepts/research-methodology/Making the Familiar Strange.md",
+    "wiki/concepts/research-methodology/Reflexivity.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
+    "wiki/concepts/research-methodology/Emergence.md",
+    "wiki/methods/qualitative/Qualitative Research.md",
+    "wiki/methods/qualitative/Autoethnography.md",
+    "wiki/methods/qualitative/Ideology Critique.md",
+    "wiki/theories/research-methodology/Critical Ethnography.md",
     "wiki/methods/qualitative/Theoretical Sampling.md",
     "wiki/concepts/research-methodology/Domain Analysis.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
     "wiki/persons/france/Jean-François Lyotard.md",
     "wiki/concepts/research-methodology/Face Validity.md",
     "wiki/concepts/research-methodology/Progressive Focussing.md",
@@ -239,16 +261,9 @@
     "Clippings/Jean-François Lyotard.md",
     "Clippings/Jean-François Lyotard - Wikipedia, la enciclopedia libre.md",
     "wiki/methods/qualitative/Triangulation.md",
-    "wiki/concepts/research-methodology/Emergence.md",
     "wiki/concepts/research-methodology/Emergent Design.md",
     "wiki/methods/qualitative/Convenience Sampling.md",
     "wiki/concepts/research-methodology/Informed Consent.md",
-    "wiki/concepts/research-methodology/Operationalization.md",
-    "wiki/concepts/research-methodology/Non-maleficence and Beneficence in Research.md",
-    "wiki/concepts/research-methodology/Nomothetic and Idiographic.md",
-    "wiki/methods/qualitative/Participant Observation.md",
-    "wiki/concepts/research-methodology/Naturalistic Generalization.md",
-    "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
     "wiki/concepts/research-methodology/Domain Analysis.md.tmp.88633.e1c0441cb781",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md.tmp.88633.3cde59aa3fbc",
     "raw/025_11 Naturalistic, qualitative and ethnographic research.txt",
