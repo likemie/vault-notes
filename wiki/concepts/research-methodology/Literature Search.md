@@ -305,6 +305,13 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > - 一般推荐发表在最近 10 年内的书籍和期刊文章
 > - 网络文献需谨慎评估其是否代表严谨、深思熟虑和系统的研究
 
+#### 期刊影响因子
+
+影响因子（impact factor）是评价期刊学术影响力的量化指标，指某刊物近两年刊出的论文被 SSCI 或 CSSCI 论文引用的总次数与刊出论文总数之比（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.1）。SSCI（Social Science Citation Index）是国际通用的社会科学期刊引文索引；CSSCI（Chinese Social Science Citation Index）是中文社会科学引文索引，用于评价中文学术期刊。
+
+> [!note] 影响因子的使用边界
+> 影响因子衡量的是期刊层面的引用影响力，不代表单篇论文的质量。在文献检索中，影响因子可作为筛选期刊的参考指标之一，但不应替代对单篇文献内容的实质性评估。
+
 #### 网站评估
 
 由于互联网是大量无序且大多未经审查的材料库，研究者需要评估网站的适用性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.131–133]]）：

@@ -2,6 +2,7 @@
 title: Quantitative Research
 aliases:
   - 量化研究
+  - 量的研究
   - 定量研究
   - quantitative approach
 summary: "通过检验变量间关系或群体间比较来验证客观理论的研究路径，以演绎式理论检验、标准化测量和统计程序为特征，报告具有固定结构"

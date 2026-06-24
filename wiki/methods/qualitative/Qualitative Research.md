@@ -2,6 +2,8 @@
 title: Qualitative Research
 aliases:
   - 质性研究
+  - 质的研究
+  - 定性研究
   - 描述性方法
   - 质性描述性方法
   - Qualitative Descriptive Method

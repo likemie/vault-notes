@@ -4,6 +4,8 @@ aliases:
   - 试点测试
   - 预测试
   - 前导测试
+  - 预实验
+  - 预调查
   - pilot study
   - field testing
   - 实地测试

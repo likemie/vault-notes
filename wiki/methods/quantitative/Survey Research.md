@@ -2,6 +2,7 @@
 title: Survey Research
 aliases:
   - 调查研究
+  - 调查法
   - 问卷调查研究
   - survey design
 summary: "通过研究样本以提供总体趋势、态度或意见的量化或数值描述的量化研究设计，包括横截面和纵向研究"

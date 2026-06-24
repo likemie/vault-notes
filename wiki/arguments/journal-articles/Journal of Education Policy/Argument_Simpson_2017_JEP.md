@@ -85,7 +85,7 @@ citation_aliases:
 >
 > Cohen (1962) 引入标准化均值差（Cohen's d）是为了帮助心理学研究者[[Evaluation Research|评估研究]]的统计功效——是否有足够大的机会拒绝（错误的）[[Null Hypothesis|零假设]]。效应量被设计为研究设计工具，而非教育政策的决策工具。Meta-analysts 和 meta-meta-analysts 将 d 重新解释为教育有效性的测量，这一跳跃缺乏论证基础(pp.3–4)。
 >
-> ### 2. [[Meta-analysis|元分析]]的两项核心假设
+> ### 2. [[Meta-analysis|元分析]]的两项核心[[Hypothesis|假设]]
 >
 > 教育元分析和[[Meta-meta-analysis|元-元分析]]依赖两项核心假设(p.4)：
 >

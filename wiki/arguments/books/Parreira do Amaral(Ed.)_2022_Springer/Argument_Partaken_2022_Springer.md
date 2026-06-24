@@ -116,7 +116,7 @@ citation_aliases:
 
 **观察 3**：从词频数据看，"[[Geopolitics of Knowledge]]"话语在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺(p.68)。
 
-**提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向假设：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]]）而非知识生产(p.68–69)。
+**提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向[[Hypothesis|假设]]：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]]）而非知识生产(p.68–69)。
 
 ### 第二步：审查"知识生产"视角，揭示其盲点（§5.2–5.5, pp.70–75）
 
@@ -206,7 +206,7 @@ Partaken 在此援引 Foucault《[[Disciplina and Doctrina|规训]]与惩罚》(
 
 Great Firewall 作为"最成功的审查系统之一"被置于这一规范性标准的对立面：中国大学学者"无法访问大量社会科学和人文学科的学术论文"——例如 JSTOR、Project MUSE、部分 [[Sage]] 期刊在中国大陆不可访问，而这些正是全球社科人文研究的核心数据库(p.82)。Partaken 由此推论："信息和知识多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力"(p.82)。
 
-历史类比在此被用作论证强化：德川日本锁国（1639–1853）实现了内部统一，但"最终在西方科技知识方面远远落后"——当美国佩里舰队 1853 年抵达江户湾时，日本在蒸汽机、冶金、现代医学等方面已与西方有近两百年的知识差距。明治维新后"模仿欧洲的地缘政治殖民主义兼军国主义，最终毁灭了他们"(p.82)。Partaken 的论证在此时达到一个关键的因果预测："中国越自我排斥，就越会参与非法知识转移"——审查不仅未能阻止知识的非法流动，反而加剧了它的发生(p.83)。
+历史类比在此被用作论证强化：德川日本锁国（1639–1853）实现了内部统一，但"最终在西方科技知识方面远远落后"——当美国佩里舰队 1853 年抵达江户湾时，日本在蒸汽机、冶金、现代医学等方面已与西方有近两百年的知识差距。明治维新后"模仿欧洲的地缘政治殖民主义兼军国主义，最终毁灭了他们"(p.82)。Partaken 的论证在此时达到一个关键的[[Causality|因果]]预测："中国越自我排斥，就越会参与非法知识转移"——审查不仅未能阻止知识的非法流动，反而加剧了它的发生(p.83)。
 
 **模态五：破坏（§5.6.6）**
 
@@ -264,7 +264,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 > [!warning]
 > - **作者自述局限**：未明确陈述。
-> - **读者批评空间**：论文以中美对立为核心案例，对中国[[Knowledge Transfer|知识转移]]行为采用强烈批判立场（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington 文明冲突论作为[[Analytic Framework|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
+> - **读者批评空间**：论文以中美对立为核心案例，对中国[[Knowledge Transfer|知识转移]]行为采用强烈批判立场（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington 文明冲突论作为[[Analytic Framework|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为[[Causality|因果]]论证。
 
 
 ## 来源

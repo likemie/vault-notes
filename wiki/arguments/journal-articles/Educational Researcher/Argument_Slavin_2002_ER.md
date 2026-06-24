@@ -72,7 +72,7 @@ issuing_organization: ""
 > > “如果瑞普·凡·温克尔（Rip Van Winkle，传说中沉睡多年的人）是一位医生、农民或工程师，那么他今天醒来将无法被雇佣。但如果他在19世纪是一位优秀的小学教师，那么他今天可能仍然是一位优秀的小学教师。”
 > ("If Rip Van Winkle had been a physician, a farmer, or an engineer, he would be unemployable if he awoke today. If he had been a good elementary school teacher in the 19th century, he would probably be a good elementary school teacher today.") (p. 16)
 >
-> Slavin 提出**上升螺旋**（ascending spiral）与**下降螺旋**（declining spiral）的对比：当政策制定者看不到研究的相关性时，研究资助不足 → 缺少大型决定性研究 → 政策制定者更不愿投资 → 下降螺旋。证据本位政策若产生显著成功，可逆转此趋势。(p. 17)
+> Slavin 提出**上升螺旋**（ascending spiral）与**下降螺旋**（declining spiral）的对比：当政策制定者看不到研究的相关性时，研究资助不足 → 缺少大型决[[Qualitative Research|定性研究]] → 政策制定者更不愿投资 → 下降螺旋。证据本位政策若产生显著成功，可逆转此趋势。(p. 17)
 
 ---
 
@@ -112,7 +112,7 @@ issuing_organization: ""
 
 > [!success] 主要发现
 > - 截至 2002 年，CSR 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
-> - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标，而当时该比例可能低于 5%。(p. 15)
+> - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标，而当时该比例可能低于 5%。(p. 15)
 > - 随机化实验在大多数政策相关的项目评估领域是可能的，需要充足的资源 and 政策制定者的合作。(pp. 17–18)
 > - 延迟处理对照组设计（delayed treatment control group）是一种在实践中更易招募学校的随机化替代方案：将学校随机分配到立即实施组和一年后实施组。(p. 18)
 
@@ -142,7 +142,7 @@ issuing_organization: ""
 >
 > - **政策乐观主义**：Slavin 承认"这些政策发展尚未产生我预期的革命"——CSR 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。
 > - **方法论的中庸立场**：Slavin 同时主张"尽可能使用[[Random Assignment|随机化]]"和"匹配实验也有价值"，这一双轨立场在修辞上灵活但可能导致政策上的模糊性——何时匹配实验"足够好"缺乏明确标准。
-> - **渐进改进假设**：Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
+> - **渐进改进[[Hypothesis|假设]]**：Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
 > - **对民主维度的忽视**：论文完全从技术效率角度论证证据本位政策，未讨论谁决定"什么值得研究"以及证据如何与民主教育决策互动——这一问题后来被 Biesta (2007) 和 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 系统展开。
 
 ---

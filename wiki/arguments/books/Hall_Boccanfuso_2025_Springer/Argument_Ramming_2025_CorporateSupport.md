@@ -376,7 +376,7 @@ citation_aliases:
    - **长期融入**：并行编程技术已被纳入全球计算机科学课程，成为每个计算机专业学生的基础训练，这是研究转化在生态系统层面取得成功的终极标志
 
    > [!example] 衍生成果的长尾
-   > UPCRC 研究的 Berkeley 实验室产出了 Apache Spark et al.重要分布式计算框架。Spark 支撑了 Databricks 的创建，Ray 支撑了 Anyscale 的创建，而 Ray 后来成为 OpenAI ChatGPT 的训练基础设施之一(McManus, 2023,转引自 p.232)。从"消除并行编程瓶颈"的初始目标到"支撑 AI 革命的基础设施"，这条因果链既漫长又非预期，但正是产学合作长期投资的特征。
+   > UPCRC 研究的 Berkeley 实验室产出了 Apache Spark et al.重要分布式计算框架。Spark 支撑了 Databricks 的创建，Ray 支撑了 Anyscale 的创建，而 Ray 后来成为 OpenAI ChatGPT 的训练基础设施之一(McManus, 2023,转引自 p.232)。从"消除并行编程瓶颈"的初始目标到"支撑 AI 革命的基础设施"，这条[[Causality|因果]]链既漫长又非预期，但正是产学合作长期投资的特征。
 
 ---
 

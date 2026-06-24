@@ -142,7 +142,7 @@ updated: 2026-06-17
 
 #### 反事实推理：因果识别的关键标志
 
-区分因果是否正在发生（或已经发生）的一个关键指标是**[[Counterfactual|反事实]]**（counterfactuals）（Mackie, 1993）——即确定假设原因 X 的缺失会导致效果 Y 的缺失（pp.55–56）。
+区分因果是否正在发生（或已经发生）的一个关键指标是**[[Counterfactual|反事实]]**（counterfactuals）（Mackie, 1993）——即确定[[Hypothesis|假设]]原因 X 的缺失会导致效果 Y 的缺失（pp.55–56）。
 
 > [!claim] 反事实推理的操作逻辑
 > 如果试图确定某因素是效果 Y 的一个促成原因 X，问自己：**如果没有那个假设的原因，效果还会发生或还是原来那样吗？** 如果答案是"否"，则可以推断 X 是一个真正的原因。
@@ -848,7 +848,7 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 > *Causal over-determination is "where a particular effect is the outcome of more than one cause, each of which, in itself, would have been sufficient to have produced the effect".* (Morrison, 2009, p. 51)
 
 > [!citation-card]- 论因果关系不能简化为统计
-> 统计，无论是推断统计还是[[Descriptive Analysis|描述统计]]，能表明有力的关系，但未必能建立明确、直接的因果性；它们能确定因果的是什么（what）但不能确定如何（how）。因果性存在于支撑模型的**理论前提和假设**之中，统计的角色是确认、挑战、扩展和完善这些前提和假设。是因果**机制**而非数字和统计解释，才是因果研究的核心关切。
+> 统计，无论是推断统计还是[[Descriptive Analysis|描述统计]]，能表明有力的关系，但未必能建立明确、直接的因果性；它们能确定因果的是什么（what）但不能确定如何（how）。因果性存在于支撑模型的**理论前提和[[Hypothesis|假设]]**之中，统计的角色是确认、挑战、扩展和完善这些前提和假设。是因果**机制**而非数字和统计解释，才是因果研究的核心关切。
 
 > [!citation-card]- 论超越什么有效
 > 判断什么有效（what works）既是价值判断和判断力的问题，也是[[Causality|因果性]]的经验结果的问题。成功是一种价值判断，而不只是一种测量或表现。更恰切的问题应是：什么对谁有效、在什么条件下、根据什么标准、有什么伦理可辩护性、对参与者有什么后果？（p.79）

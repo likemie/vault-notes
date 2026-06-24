@@ -86,7 +86,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 三重缺陷框架
 >
-> Biesta 在[[Epistemology|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提假设。
+> Biesta 在[[Epistemology|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提[[Hypothesis|假设]]。
 >
 > **第一重：知识缺陷（Knowledge Deficit）——认识论维度**
 >
@@ -142,7 +142,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **三重缺陷分别挑战了[[Evidence-Based Education|证据本位教育]]的不同前提**：知识缺陷挑战了"研究能提供确定性"的假设；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
+> 1. **三重缺陷分别挑战了[[Evidence-Based Education|证据本位教育]]的不同前提**：知识缺陷挑战了"研究能提供确定性"的[[Hypothesis|假设]]；效力缺陷挑战了"社会[[Causality|因果]]可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
 >
 > 2. **证据本位教育实际上是一个价值真空的项目**：如果证据是唯一基础，教育实践将"完全没有方向"
 >

@@ -4,6 +4,9 @@ aliases:
   - 研究备忘录
   - research memos
   - analytic memos
+  - 札记
+  - 研究札记
+  - memo
 summary: "质性研究者在研究过程中记录的书面笔记，反映编码和主题的发展，是反身性的基础"
 type: concept
 domain: "research-methodology"

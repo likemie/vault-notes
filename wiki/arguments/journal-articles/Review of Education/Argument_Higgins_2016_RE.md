@@ -140,7 +140,7 @@ Ronald Fisher 在[[Analysis of Variance|方差分析]]等技术上的发展为�
 
 ### 4. ESP 案例：最早的系统性综合尝试及其教训
 
-1940年，Pratt 和 Rhine 在杜克大学发表了对 145 项超感知觉实验的[[Systematic Review|系统性综述]]，覆盖 1882 至 1939 年间的所有已发表报告(Pratt et al., 1940)。超感知觉（Extra-Sensory Perception, ESP）是指不通过已知感官渠道获取信息的假设能力。这是最早的系统性跨研究合并尝试之一(pp.34–35)。
+1940年，Pratt 和 Rhine 在杜克大学发表了对 145 项超感知觉实验的[[Systematic Review|系统性综述]]，覆盖 1882 至 1939 年间的所有已发表报告(Pratt et al., 1940)。超感知觉（Extra-Sensory Perception, ESP）是指不通过已知感官渠道获取信息的[[Hypothesis|假设]]能力。这是最早的系统性跨研究合并尝试之一(pp.34–35)。
 
 > [!note]- Pratt 和 Rhine 的方法论进步
 > 他们的分析在当时堪称严谨。他们从实验设计和条件的角度审视数据，讨论了结果是否可能由偶然因素、正常的视听触觉感知或实验误差造成。他们还将类似实验的结果聚类进行亚组分析。为了证明分析的稳健性，他们估计了未发表论文对总体汇总效果的影响——这就是今天所说的"[[Document|文件]]抽屉问题"，即[[Publication Bias|发表偏差]]对元分析结论的影响(p.35)。
@@ -373,7 +373,7 @@ Hattie 的工作面临批评。核心假设是元综合中的研究按类型和�
 Toolkit 的灵感来自多个来源(pp.47–48)。
 
 - Hattie（1992/2008）的比较性[[研究地图]]
-- Sipe & Curlette(1996)的共同纳入标准（聚焦于学龄儿童、尽可能依赖有因果推论依据的[[Intervention Research|干预研究]]）和系统透明的搜索策略
+- Sipe & Curlette(1996)的共同纳入标准（聚焦于学龄儿童、尽可能依赖有[[Causality|因果]]推论依据的[[Intervention Research|干预研究]]）和系统透明的搜索策略
 - Marzano(1998)的实用目标
 
 在 [[Education Endowment Foundation|EEF]] 的支持下，这些摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]（umbrella reviews），以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结(p.47)。

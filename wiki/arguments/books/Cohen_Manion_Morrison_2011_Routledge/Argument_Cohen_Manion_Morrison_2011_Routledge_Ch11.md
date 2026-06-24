@@ -155,7 +155,7 @@ updated: 2026-06-24
 
 > [!feature] 质性/自然主义范式的核心原则
 > - **人类主动建构自己的意义** 意义从社会情境中产生并通过诠释过程处理。行为和数据是社会性地情境化的：情境关联、情境依赖、情境丰富。理解情境才能理解行为，因为情境影响行为与视角，反之亦然。
-> - **现实是多元的、建构的、整体的** 认识者与被认识者互动且不可分；一切实体处于相互同时塑造的状态中，不可能区分原因和效果。只有时间和情境绑定的工作假设（个体描述性陈述）是可能的。
+> - **现实是多元的、建构的、整体的** 认识者与被认识者互动且不可分；一切实体处于相互同时塑造的状态中，不可能区分原因和效果。只有时间和情境绑定的工作[[Hypothesis|假设]]（个体描述性陈述）是可能的。
 > - **探究是价值负载的** 研究受研究者价值观影响于四个层面：问题、评价对象或政策选项的选择与框架界定；指导研究的范式选择；指导数据收集和分析的实质理论选择；情境中固有的价值观。探究要么是价值一致性的（强化/一致的），要么是价值不一致的（冲突的）。问题、范式和理论必须与情境展现出一致性才能产生有意义的结果（pp.403–404）。
 > - **[[Rich and Thick Description|厚描述]]的必要性** 研究须包含对情境化行为的[[Rich and Thick Description|厚描述]]（Geertz, 1973），不仅是详细观察数据，还包括意义、参与者对情境的诠释及不可观察因素的数据。意义归因持续演化；人是深思熟虑的、有意图的、创造性的行动者；历史与传记交织；我们创造自己的未来，但未必在自选的情境中。
 > - **研究者即研究工具**（Eisner, 1991）：研究者生成而非检验假设，不知事先会看到什么、寻求什么。社会研究须以参与者眼光审视情境. 民族志的任务如 Malinowski（1922: 25）所言，是把握"土著的视角"。研究应在自然、非人为的、真实世界场景中进行，研究者干预尽可能少。
@@ -249,7 +249,7 @@ Lincoln & Guba（1985: 39–43）将这些公理转化为以下几组操作性�
 > | 自然情境数据收集 | 经验数据在自然情境中收集，与实验室或被控制环境截然不同。 |
 > | 广泛使用观察技术 | [[Participant Observation\|参与观察]]和非参与观察均被广泛使用以获取真实生活场景的数据。 |
 > | 整体性 | 研究寻求对总体现象的描述和诠释，不碎片化。 |
-> | 推进到推断和理论 | 从描述和数据推进到推断、解释、因果建议和理论生成。 |
+> | 推进到推断和理论 | 从描述和数据推进到推断、解释、[[Causality\|因果]]建议和理论生成。 |
 > | 方法论杂食者 | 方法是多模态的；民族志学者是方法论的杂食者（p.232）。 |
 
 Hitchcock & Hughes（1989: 52–53）补充了民族志的产出面向：
@@ -834,7 +834,7 @@ Larsson（2009: 36）最终论证：**质性研究概括化的责任在于受众
 > *The ethnographer must be intellectually poised between '[[Familiarization|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'.*
 
 > [!citation-card]- [[Critical Ethnography|批判民族志]]的政治承诺
-> 传统民族志关注是什么，批判民族志关注可能是什么……批判民族志具有明确的议程，有伦理责任去促进自由、社会正义、公平和福祉。这不可避免地涉及扰乱被接受的意义、打破研究的中立声称，并暴露那些使已然强大者以已然无权力和被支配者为代价而延续权力的、想当然的假设。（pp.446–447，引自 Thomas, 1993: 4, 7; Madison, 2005: 5）
+> 传统民族志关注是什么，批判民族志关注可能是什么……批判民族志具有明确的议程，有伦理责任去促进自由、社会正义、公平和福祉。这不可避免地涉及扰乱被接受的意义、打破研究的中立声称，并暴露那些使已然强大者以已然无权力和被支配者为代价而延续权力的、想当然的[[Hypothesis|假设]]。（pp.446–447，引自 Thomas, 1993: 4, 7; Madison, 2005: 5）
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be... Critical ethnography has an explicit agenda, an 'ethical responsibility' to promote freedom, social justice, equity and well-being. This inevitably involves disturbing accepted meanings and disrupting the status quo and purported neutrality of research, together with exposing taken-for-granted, 'domesticated' assumptions that perpetuate the power of the already powerful at the expense of the powerless and the dominated.*
 
 ---

@@ -84,7 +84,7 @@ citation_aliases:
 
 > [!example] 核心论证
 > 1. **前提/观察**：ESSA 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效(p. 428)
-> 2. **假设**：开发者可能通过研究设计特征（更小样本、自编测量）、[[Document|文件]]抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]](p. 429)
+> 2. **[[Hypothesis|假设]]**：开发者可能通过研究设计特征（更小样本、自编测量）、[[Document|文件]]抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]](p. 429)
 > 3. **方法步骤**：使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable|变量]]的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释(pp. 437–438)
 > 4. **结论**：在控制可观测研究设计特征和项目特征后，[[Developer Effect|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释(pp. 441–443)
 
@@ -113,7 +113,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **因果不确定性**：研究本质是描述性而非[[Causality|因果性]]——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源(p. 442)
+> - **[[Causality|因果]]不确定性**：研究本质是描述性而非[[Causality|因果性]]——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源(p. 442)
 > - **[[Implementation Fidelity|实施忠实度]]数据缺失**：[[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size|效应量]](p. 443)
 > - **控制组细节有限**：WWC 仅提供控制组的简要描述，控制组之间的微妙差异可能未充分捕捉(p. 443)
 > - **Vevea-Hedges 校正局限**：使用研究级平均效应量，且对开发者研究的校正差异不显著(p. 442)

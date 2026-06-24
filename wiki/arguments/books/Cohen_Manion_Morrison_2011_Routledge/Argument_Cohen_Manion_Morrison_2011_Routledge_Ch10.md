@@ -197,7 +197,7 @@ updated: 2026-06-23
 > - **中立性与客观性（neutrality/objectivity）** 研究者[[Value Neutrality|价值无涉]]
 > - **可观测性（observability）** 只研究可被直接或间接观测的行为
 
-量化研究还必须确保所用的统计假设得到满足，测量工具的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]得到妥善处理，抽样谨慎，以及一系列对内部和外部效度的威胁得到规避。
+量化研究还必须确保所用的统计[[Hypothesis|假设]]得到满足，测量工具的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]得到妥善处理，抽样谨慎，以及一系列对内部和外部效度的威胁得到规避。
 
 ---
 
@@ -320,7 +320,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > [!ref-table] 分析与推断（5 项）
 > | 措施 | 说明 |
 > |---|---|
-> | **排除虚假关系（ruling out spurious relations）** | 避免在不存在的地方归因因果或关联 |
+> | **排除虚假关系（ruling out spurious relations）** | 避免在不存在的地方归因[[Causality\|因果]]或关联 |
 > | **参照充分性（referential adequacy）** | 将发现充分引用到基准或重要文献 |
 > | **追踪意外（following up surprises）** | 避免/不忽略意外结果 |
 > | **结构关系（structural relationships）** | 寻找发现之间以及发现与文献之间的一致性 |

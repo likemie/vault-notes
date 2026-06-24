@@ -140,7 +140,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 
 > [!timeline] 研究的层级结构：从哲学到操作
 > - **[[Axiology|价值论]]**(axiology)：研究者持有的价值与信念——什么被视为有价值的，理解的目的是什么
-> - **[[Ontology|本体论假设]]**(ontological assumptions)：关于实在本质和事物性质的假设——社会实在是外在于个体的客观存在，还是个体意识的产物
+> - **[[Ontology|本体论假设]]**(ontological assumptions)：关于实在本质和事物性质的[[Hypothesis|假设]]——社会实在是外在于个体的客观存在，还是个体意识的产物
 > - **[[Epistemology|认识论假设]]**(epistemological assumptions)：关于如何探究实在本质的假设——知识是硬性的、客观的，还是个人的、主观的
 > - **方法论考量**(methodological considerations)：由前三个层级衍生——选择调查、实验，还是[[Participant Observation|参与观察]]、个人[[Construct|构念]]
 > - **工具与资料收集**(instrumentation and data collection)：最具体的操作层面
@@ -152,7 +152,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 > [!finding-cards]
 > - **理论的使用** 普通人基于随机事件松散地使用理论，选择性地寻找支持自己直觉的证据；科学家则谨慎、系统地建构理论，所有假设都必须经过经验检验
 > - **控制的概念** 普通人很少控制外来影响；科学家意识到原因的[[Multiplicity|多重性]]，使用特定技术隔离和检验单个或多个原因的效果
-> - **对关系的态度** 普通人看到两件事在时间上接近就推断因果；科学家只有在严格实验和检验后才会假定关系存在
+> - **对关系的态度** 普通人看到两件事在时间上接近就推断[[Causality|因果]]；科学家只有在严格实验和检验后才会假定关系存在
 
 **推理(reasoning)** 的三种形式构成了科学方法论的历史基础(pp.113–127)：
 

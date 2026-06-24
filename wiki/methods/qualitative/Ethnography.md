@@ -3,6 +3,7 @@ title: Ethnography
 aliases:
   - 民族志
   - 人种志
+  - 人类学研究
   - 民族志研究
   - ethnographic research
 summary: "一种源自人类学的质性研究设计，要求研究者在自然情境中长期驻留，通过参与观察和访谈等方法整体性地描述和诠释一个文化群体的共享行为、语言和行动模式。"

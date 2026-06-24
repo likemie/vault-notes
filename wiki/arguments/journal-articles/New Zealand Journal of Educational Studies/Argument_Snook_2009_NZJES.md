@@ -74,7 +74,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设(Dewey, quoted in Hattie, 2008, p.147)。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]](Dewey, quoted in Hattie, 2008, p.147)。
 
 ## 研究方法
 

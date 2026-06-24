@@ -80,7 +80,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
+> - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提[[Hypothesis|假设]]
 > - 案例研究：以 [[Education Endowment Foundation|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
 > - [[Document|文献]]批判性综述：综合 Bhaskar et al.学者的批判资源
 
@@ -97,7 +97,7 @@ citation_aliases:
 >
 > ### 3. [[Emergence|涌现]]与开放系统
 >
-> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"(p. 34)。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现(p. 113)。
+> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"(p. 34)。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一[[Causality|因果]]因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现(p. 113)。
 >
 > ### 4. RCT 在教育中的结构性缺陷
 >
@@ -108,7 +108,7 @@ citation_aliases:
 >
 > Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"(p. 115)。
 >
-> ### 5. 经验主义假设与[[Causality|因果性]]缺失
+> ### 5. 经验主义[[Hypothesis|假设]]与[[Causality|因果性]]缺失
 >
 > EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"(p. 116)。
 >
@@ -145,7 +145,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - EBT 的科学宣称基于"民间科学观"——它捕捉了科学的表面特征，但缺乏对[[Scientific Method|科学方法]]的理论理解(p. 111)
-> - 教育作为开放、递归、符号系统，其因果结构与实验室封闭系统有本质区别(p. 113, 123)
+> - 教育作为开放、递归、符号系统，其[[Causality|因果]]结构与实验室封闭系统有本质区别(p. 113, 123)
 > - [[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]的统计聚合在每一级简化中丢失了关于干预如何以及为何起作用的因果信息(pp. 118–123)
 > - 医学 [[Randomised Controlled Trials|RCT]] 建立在大量先期理论工作之上，而教育领域常将 RCT 视为知识的唯一来源(p. 117)
 > - EBT 与全球新自由主义教育治理相连——"证据"成为服务于全球资本竞争的概念家族成员(p. 123–124)

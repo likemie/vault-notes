@@ -4439,6 +4439,7 @@
     "path": "wiki/concepts/research-methodology/Causality.md",
     "aliases": [
       "因果性",
+      "因果",
       "因果关系",
       "因果推断",
       "causal inference",
@@ -4763,6 +4764,7 @@
     "path": "wiki/concepts/research-methodology/Descriptive Research Question.md",
     "aliases": [
       "描述性研究问题",
+      "描述性研究",
       "descriptive quantitative research question",
       "descriptive question"
     ]
@@ -5129,6 +5131,7 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hypothesis.md",
     "aliases": [
+      "假设",
       "研究假设",
       "hypotheses",
       "research hypothesis"
@@ -5404,7 +5407,10 @@
     "aliases": [
       "研究备忘录",
       "research memos",
-      "analytic memos"
+      "analytic memos",
+      "札记",
+      "研究札记",
+      "memo"
     ]
   },
   {
@@ -5728,7 +5734,14 @@
       "secondary source",
       "一手文献",
       "二手文献",
-      "原始文献"
+      "初级文献",
+      "次级文献",
+      "第一手资料",
+      "第二手资料",
+      "二手文献",
+      "原始文献",
+      "初级文献",
+      "次级文献"
     ]
   },
   {
@@ -8108,6 +8121,7 @@
     "aliases": [
       "民族志",
       "人种志",
+      "人类学研究",
       "民族志研究",
       "ethnographic research"
     ]
@@ -8321,6 +8335,8 @@
     "path": "wiki/methods/qualitative/Qualitative Research.md",
     "aliases": [
       "质性研究",
+      "质的研究",
+      "定性研究",
       "描述性方法",
       "质性描述性方法",
       "Qualitative Descriptive Method",
@@ -8615,7 +8631,8 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Intervention Research.md",
     "aliases": [
-      "干预研究"
+      "干预研究",
+      "干预性研究"
     ]
   },
   {
@@ -8743,6 +8760,8 @@
       "试点测试",
       "预测试",
       "前导测试",
+      "预实验",
+      "预调查",
       "pilot study",
       "field testing",
       "实地测试"
@@ -8780,6 +8799,7 @@
     "path": "wiki/methods/quantitative/Quantitative Research.md",
     "aliases": [
       "量化研究",
+      "量的研究",
       "定量研究",
       "quantitative approach"
     ]
@@ -8916,6 +8936,7 @@
     "path": "wiki/methods/quantitative/Survey Research.md",
     "aliases": [
       "调查研究",
+      "调查法",
       "问卷调查研究",
       "survey design"
     ]

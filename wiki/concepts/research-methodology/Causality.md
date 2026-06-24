@@ -2,6 +2,7 @@
 title: Causality
 aliases:
   - 因果性
+  - 因果
   - 因果关系
   - 因果推断
   - causal inference
