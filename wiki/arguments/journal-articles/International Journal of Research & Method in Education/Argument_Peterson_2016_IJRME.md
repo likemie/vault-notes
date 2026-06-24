@@ -73,7 +73,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：[[Literature Review|文献综述]]（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
-> - 范围：证据创造、证据本位实践和教育研究伙伴关系的文献
+> - 范围：证据创造、证据本位实践和教育研究伙伴关系的[[Document|文献]]
 > - 对话对象：主要参与美国 [[Investing in Innovation Program|i3]] 拨款和英国 [[Education Endowment Foundation|EEF]] 的相关人员
 
 ## 核心论证

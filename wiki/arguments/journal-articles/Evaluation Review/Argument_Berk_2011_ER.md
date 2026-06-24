@@ -76,7 +76,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：[[Reflexivity|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
-> - **数据来源**：作为创始编辑经手的数百篇[[Evaluation Research|评估研究]]论文、[[Causality|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
+> - **数据来源**：作为创始编辑经手的数百篇[[Evaluation Research|评估研究]]论文、[[Causality|因果推断]]方法论[[Document|文献]]（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 ## 核心论证
 

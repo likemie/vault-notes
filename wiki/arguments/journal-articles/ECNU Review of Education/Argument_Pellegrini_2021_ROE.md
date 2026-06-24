@@ -82,13 +82,13 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究(p.26)。
-> - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定(p.26)。
+> - [[Evidence-Informed Practice]] — 欧洲[[Document|文件]]和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定(p.26)。
 > - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则(p.26)。
 
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：政策文件分析与[[Literature Review|文献综述]]。
+> - 方法：政策[[Document|文件]]分析与[[Literature Review|文献综述]]。
 > - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education|证据本位教育]]领域关于政策、实践和证据文化的文献(p.25)。
 > - 分析对象：欧盟和 Eurydice 网络成员国中促进证据使用的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
 
@@ -100,7 +100,7 @@ citation_aliases:
 ### 第一步：欧洲已经出现证据使用的政策信号
 
 1. 教育决策中使用证据的主张并不是新近出现的口号。Davies 和 Hargreaves 在 1990 年代末已经提出教育项目和实践应以证据为基础，此后真实教育情境中的高质量项目评价逐渐增加(p.26)。
-2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Methods Research|混合方法]]，欧盟文件也主要提供指导而非强制要求(pp.26-27)。
+2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Methods Research|混合方法]]，欧盟[[Document|文件]]也主要提供指导而非强制要求(pp.26-27)。
 3. 欧盟层面的政策进程 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力(pp.28-29)。
 
 例子：[[Azione LIM]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和[[Systematic Review|系统综述]]显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习(p.27)。
@@ -137,7 +137,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. 欧盟从 2006 年起逐步把证据使用纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
+> 1. 欧盟从 2006 年起逐步把证据使用纳入教育和培训政策话语，并通过 2007 年工作[[Document|文件]]、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、SSIF 和 TLIF 等机制体现了研究生成、知识中介和政策资助之间的连接(pp.31-33)。
 > 4. 欧洲证据使用面临[[External Validity|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响(p.36)。
@@ -162,7 +162,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> 文章的主要贡献是政策梳理和挑战诊断，而不是对成员国政策效果的因果评估。它依赖欧盟、Eurydice 和相关组织文件，因此能够清楚呈现“有哪些倡议”，但较难判断这些倡议在学校层面实际改变了多少教师实践和学生学习结果。
+> 文章的主要贡献是政策梳理和挑战诊断，而不是对成员国政策效果的因果评估。它依赖欧盟、Eurydice 和相关组织[[Document|文件]]，因此能够清楚呈现“有哪些倡议”，但较难判断这些倡议在学校层面实际改变了多少教师实践和学生学习结果。
 >
 > 另一个张力在于：文章批评欧洲倡议缺少系统路线图，但同时也承认欧洲教育治理由成员国负责，欧盟文件多为指导而非强制规定(pp.28, 41-42)。因此，“更清晰路线图”与“成员国教育主权”之间的制度矛盾仍需要进一步展开。
 >

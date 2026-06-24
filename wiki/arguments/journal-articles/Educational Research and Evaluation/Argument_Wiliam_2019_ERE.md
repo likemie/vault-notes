@@ -72,7 +72,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education|哲学分析]]与[[Reflexivity|反思性]]综合
 > - 样本：不适用
-> - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部文献
+> - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部[[Document|文献]]
 
 ## 核心论证
 

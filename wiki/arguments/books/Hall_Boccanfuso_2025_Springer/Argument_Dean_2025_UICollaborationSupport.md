@@ -74,7 +74,7 @@ citation_aliases:
 > 不依赖正式学术理论，而是基于作者在滑铁卢大学研究行政部门的集体实践经验，同时整合以下分析资源：
 > - [[University-Industry Collaboration]] — 采用 Ankrah 与 Al-Tabbaa（2015, p.388）的定义，将产学合作理解为产业与大学之间的**双向信息交流**（bi-directional exchange of information），而非狭义的合同研究(p.242)。
 > - Bruneel、D'Este & Salter(2010)的障碍分类框架 — 将产学合作障碍分为两类：(i) 产学取向差异（differences in UI orientation），即大学与企业在使命、文化和价值观上的系统性差异；(ii) 交易相关障碍（transaction-related barriers），即合同谈判、知识产权安排和行政流程等操作层面的摩擦(p.245)。
-> - [[Declaration on Research Assessment|DORA]]（科研评估宣言） — 作为研究评估改革的参照框架，主张在教师晋升与终身教职评审中关注研究的影响力而非机械依赖文献计量指标(pp.250–251)。
+> - [[Declaration on Research Assessment|DORA]]（科研评估宣言） — 作为研究评估改革的参照框架，主张在教师晋升与终身教职评审中关注研究的影响力而非机械依赖[[Document|文献]]计量指标(pp.250–251)。
 
 ---
 
@@ -83,7 +83,7 @@ citation_aliases:
 > [!info]
 > 实践者反思与制度案例分析。六位作者全部在滑铁卢大学研究行政系统担任领导职务，覆盖学术管理、企业伙伴关系、政府关系和[[Technology Transfer|技术转移]]等多个职能领域(p.242)。研究方法以以下来源的归纳与反思为基础：
 > - 滑铁卢大学的制度实践与行政经验。
-> - 对现有[[University-Industry Collaboration|产学合作]]文献的综合引用(Ankrah & Al-Tabbaa, 2015; Sjöo & Hellström, 2019; Bruneel et al., 2010; Nsanzumuhire & Groot, 2020 等)。
+> - 对现有[[University-Industry Collaboration|产学合作]][[Document|文献]]的综合引用(Ankrah & Al-Tabbaa, 2015; Sjöo & Hellström, 2019; Bruneel et al., 2010; Nsanzumuhire & Groot, 2020 等)。
 > - 以 Schlegel-UW 老龄化研究所（[[Schlegel-UW Research Institute for Aging|RIA]]）为深度案例，展示多重激励机制在实际运作中的协同样貌(pp.251–254)。
 
 ---
@@ -283,7 +283,7 @@ citation_aliases:
 > 2. **行政支持的核心功能是消除信息不对称**。教师对[[University-Industry Collaboration|产学合作]]的顾虑（知识产权、发表自由、合同复杂性）在实证研究中未被发现与实际合作能力之间存在关联(Sjöo & Hellström, 2019)。研究办公室的合同团队和早期职业研究者工作坊的实质作用是让教师在有充分信息和制度后盾的前提下做出判断(pp.247–248)。
 > 3. **共同选址缩短了从认知距离到信任的距离**。多伦多-滑铁卢走廊的 15,000 家科技公司和短途 commute 条件使定期面对面互动成为可能；NRC 合作中心和 [[Schlegel-UW Research Institute for Aging|RIA]] 的实践表明，当研究者和终端用户在同一物理空间中日常共处时，反馈循环从以月计缩短为以走廊计(pp.248–249, 253–254)。
 > 4. **[[Research Security|研究安全]]不应被回避，而应转化为制度性的风险管理服务**。滑铁卢大学保障研究团队的原则——在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学之间寻求平衡——将安全从阻碍合作的壁垒转变为促进信任的机制(pp.249–250)。
-> 5. **研究评估制度使产学合作在教师的理性计算中成为不计入成绩的课外活动**。终身教职评审中，专利、[[Technology Transfer|技术转移]]和产学合作的社会经济影响几乎没有权重。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注影响力而非文献计量指标——是使合作从负资产变为正资产的制度前提(pp.250–251)。
+> 5. **研究评估制度使产学合作在教师的理性计算中成为不计入成绩的课外活动**。终身教职评审中，专利、[[Technology Transfer|技术转移]]和产学合作的社会经济影响几乎没有权重。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注影响力而非[[Document|文献]]计量指标——是使合作从负资产变为正资产的制度前提(pp.250–251)。
 > 6. **RIA 案例证明多重机制的协同运作产生了超过各部分之和的整体效应**。Schlegel 家族的 5000 万加元投入通过资金杠杆撬动了额外资源，共同选址创造了即时反馈循环，嵌入式[[Knowledge Mobilisation|知识动员]]网络（功能性体适能评估方案中的脑血管生物标志物检测）实现了从实验室到临床的即时转化，跨院系参与通过同伴示范降低了其他教师的合作门槛(pp.251–254)。
 
 > [!info]- 核心数据

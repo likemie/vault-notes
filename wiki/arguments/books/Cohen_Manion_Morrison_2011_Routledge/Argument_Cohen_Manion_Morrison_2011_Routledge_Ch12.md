@@ -42,7 +42,7 @@ updated: 2026-06-24
 
 ## 章节内容
 
-本章系统介绍教育中的历史与文献研究方法。作者 Gary McCulloch 围绕五个核心问题组织全章：什么是[[Document|文献]]、一手文献的类型、档案研究、文献分析的程序和理论传统，以及伦理与法律议题。
+本章系统介绍教育中的历史与[[Documentary Analysis|文献研究方法]]。作者 Gary McCulloch 围绕五个核心问题组织全章：什么是[[Document|文献]]、一手文献的类型、[[Archival Correspondence Analysis|档案研究]]、文献分析的程序和理论传统，以及伦理与法律议题。
 
 ### 12.1 引言：历史与文献研究的三个知识领域
 
@@ -114,14 +114,14 @@ updated: 2026-06-24
 > [!proc] 文献分析的五个分析环节
 > 1. **验证真实性（authenticity）**
 >    确认文献的作者、生产地点和日期。在某些情况下，文献可能是伪造的，或作者身份存疑。这是所有后续分析的前提。
-> 2. **评估可靠性（reliability）**
->    考察文献中描述的可靠性——包括作者的偏见、对事件的接触程度和观察者的解释立场。文献的不同幸存率造成了更进一步的可靠性问题：幸存文献在多大程度上具有代表性、典型性和可推广性？
+> 2. **评估[[Reliability|可靠性]]（reliability）**
+>    考察文献中描述的可靠性——包括作者的偏见、对事件的接触程度和观察者的解释立场。文献的不同幸存率造成了更进一步的可靠性问题：幸存文献在多大程度上具有代表性、典型性和[[External Validity|可推广性]]？
 > 3. **确定意义（meaning）**
 >    理解文献传达的信息、作者的潜在价值和预设，以及所展开的论证。这需要同时关注文本和语境两个层面。
 > 4. **考察语境（context）**
 >    语境分析包括关注文献的三个具体方面：作者身份（创作起源和过程、直接参与的个人和群体）、受众（目标读者群及其构成与动态）和后果（文献对辩论、思想和政策的影响，以及长期影响）。特别对历史文献而言，脱离其时代语境的解读将导致时代错置。
-> 5. **选择理论视角（theorization）**
->    在实证主义、解释性或批判性传统中选择框架，组织对文献的解释。
+> 5. **选择[[Theoretical Perspective|理论视角]]（theorization）**
+>    在[[Positivism|实证主义]]、解释性或批判性传统中选择框架，组织对文献的解释。
 
 文献的可靠性在教育领域引发了特殊问题——文献来源主要记录政策制定者和管理者的视角，倾向于呈现自上而下的教育观，因此往往压制了对工人阶级儿童和青少年、女性和少数族裔的考量（Timutimu et al., 1998）。此外，文献来源也因未能触及教室、学习场景以及教师与学习者之间的互动而受到批评——Goodson（1988）曾指出文献来源过度强调了"法案与事实"。
 
@@ -138,14 +138,14 @@ Jupp 和 Norris（1993）将文献分析的理论传统归纳为三类：
 > [!dimension] 文献分析的三种理论传统
 > - **实证主义传统（positivist approach）**
 >   主张客观、系统、理性和量化的研究。Halstead（1988）通过对一千多篇文章的详尽研究考察了英国校长 Ray Honeyford 与多元文化教育的争论，但未发展出涉及权力差异的分析。
-> - **解释性传统（interpretive approach）**
+> - **解释性传统（[[Interpretive Paradigm|interpretive approach]]）**
 >   认为包括文献在内的社会现象系经由社会建构。这一取向强调文献的意义需在其生产与接受的社会语境中加以理解。
 > - **批判传统（critical approach）**
 >   以马克思主义、女性主义或批判性话语理论为代表，强调社会冲突、权力、控制和意识形态。Codd（1988）主张将语言使用与权力运作相关联的话语理论，并试图解构政策文献的官方话语。Purvis（1985）从女性主义立场出发，以挑战男性知识观的方式呈现研究，利用被忽略的文献证据来增进对女性经验的认识。
 
 ### 12.6 伦理与法律议题
 
-历史与文献研究通常不涉及与研究对象的直接互动，因此很容易忽视伦理议题。但伦理问题仍可能出现——例如当一所知名学校或其他教育机构被点名时，或当特定教师和校长的声誉受到质疑时。基于文献来源的内部人研究（insider research）也可能带来伦理困境，例如当材料可能对最初委托研究的机构投下不利阴影时（McCulloch, 2008）。
+历史与文献研究通常不涉及与研究对象的直接互动，因此很容易忽视伦理议题。但伦理问题仍可能出现——例如当一所知名学校或其他教育机构被点名时，或当特定教师和校长的声誉受到质疑时。基于文献来源的内部人研究（insider research）也可能带来伦理困境，例如当材料可能对最初[[Categorical Funding|委托研究]]的机构投下不利阴影时（McCulloch, 2008）。
 
 > [!info] 英国文献研究的主要法律框架
 > - **版权、设计和专利法（Copyright, Designs and Patents Act）1988** — 规范文献材料的版权使用。
@@ -163,12 +163,12 @@ Jupp 和 Norris（1993）将文献分析的理论传统归纳为三类：
 
 ## 关键引用
 
-> [!citation-card]- 论文献与研究方法论多元主义
+> [!citation-card]- 论[[Document|文献]]与研究方法论多元主义
 > 历史与文献研究有能力照亮过去、揭示随时间展开的连续性与变迁模式，以及追溯当前结构与关系的起源。（第12章，pp.22–23）
 >
 > *Historical and documentary research has the capacity to illuminate the past, patterns of continuity and change over time, and the origins of current structures and relationships.*
 
-> [!citation-card]- 论档案研究的现实
+> [!citation-card]- 论[[Archival Correspondence Analysis|档案研究]]的现实
 > 你整天坐着阅读，以这个行业的特定方式阅读，以节省时间和金钱，并确信在你破译的一千行笔迹中，你也许只会用到一两行。（Steedman, 2001: 29，转引自第12章，p.16）
 >
 > *You sit all day long, reading in the particular manner of the trade, to save time and money, and in the sure knowledge that out of the thousand lines of handwriting you decipher, you will perhaps use one or two.*

@@ -109,7 +109,7 @@ citation_aliases:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文本样本** | 《VL》(Hattie, 2009) 中关于[[Whole Language\|全语言]]的 1.5 页文本，及 4 项相关[[Meta-analysis\|元分析]]：[[Steven Stahl\|Stahl]] & Miller (1989)、[[Steven Stahl\|Stahl]] et al. (1994)、Gee (1995)、[[William Jeynes\|Jeynes]] & Littell (2000)，涉及 64 项原始研究 (p.143)。 |
-> | **评论与次级文献** | 斯蒂芬·克拉申（Stephen Krashen, 2002）对威廉·杰恩斯（[[William Jeynes\|William H. Jeynes]]）与萨拉·利特尔（Sara W. Littell）元分析的量化重算、杰恩斯的个人学术与政治宗教背景档案 (p.147)。 |
+> | **评论与次级[[Document\|文献]]** | 斯蒂芬·克拉申（Stephen Krashen, 2002）对威廉·杰恩斯（[[William Jeynes\|William H. Jeynes]]）与萨拉·利特尔（Sara W. Littell）元分析的量化重算、杰恩斯的个人学术与政治宗教背景档案 (p.147)。 |
 > | **政策文件样本** | 澳大利亚维多利亚州教育部发布的 10 项“高影响教学策略”（High Impact Teaching Strategies, [[Victorian HITS and Literacy Toolkit\|HITS]]）指南及读写教学工具箱（Literacy Teaching Toolkit）(p.141)。 |
 
 ---
@@ -149,7 +149,7 @@ citation_aliases:
 > 哈蒂在计算全语言效应量时，直接引入了将全语言与早期“[[Language Experience Approach|语言经验法]]”（LEA）混为一谈的元分析，导致底层数据存在严重的分类错误与时代错误 (p.144)。
 
 > [!critique-method] [[Steven Stahl|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
-> [[Steven Stahl|史蒂芬·斯塔尔（Steven Stahl）]]与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的文献 (p.145)。但哈蒂在 15 年后出版《[[Visible Learning|VL]]》时，依然对此分类漏洞未加任何纠正与说明 (p.145)。
+> [[Steven Stahl|史蒂芬·斯塔尔（Steven Stahl）]]与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的[[Document|文献]] (p.145)。但哈蒂在 15 年后出版《[[Visible Learning|VL]]》时，依然对此分类漏洞未加任何纠正与说明 (p.145)。
 
 > [!case] Case 1: Brazziel & Terrell (1962) 行为主义“假全语言”研究
 > 该研究仅针对田纳西州 26 名低收入非裔一年级学生，其实验干预是为期 6 周的“家长-教师合作”，并让儿童阅读传统的“阅读准备教材” (readiness readers) 以训练感知、词汇和服从指令 (p.144)。

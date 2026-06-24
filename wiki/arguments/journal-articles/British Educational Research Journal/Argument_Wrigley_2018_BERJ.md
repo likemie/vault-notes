@@ -124,7 +124,7 @@ citation_aliases:
 > |----------|------|
 > | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
 > | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEP\|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
-> | **理论文献样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
+> | **理论[[Document\|文献]]样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
 
@@ -183,7 +183,7 @@ citation_aliases:
 ### 论证步骤二：元分析与第二级（Level 2）异质性混淆
 
 > [!claim] [[Meta-analysis|元分析]]通过技术标准强行聚合异质研究，造成“苹果与橘子”的混淆
-> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选文献。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义。
+> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选[[Document|文献]]。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义。
 
 > [!critique-method] 统计炼金术与 [[Heterogeneity|异质性]]抹除
 > 1. **苹果与橘子的炼金术**：Feinstein (1995) 曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键 [[Variable|变量]]剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。

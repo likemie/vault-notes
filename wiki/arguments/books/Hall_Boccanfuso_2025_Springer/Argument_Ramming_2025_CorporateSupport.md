@@ -69,7 +69,7 @@ citation_aliases:
 > 这一问题之所以棘手，根源在于产学合作的价值难以还原为短期的财务指标，其总回报由招聘、研究产出、战略营销、人才发展和员工成长等多个不可通约的维度加总而成，而中层业务经理通常只对其中某一维度有管辖权。公司内部的权力结构和预算分配逻辑天然倾向于可以量化的季度性回报，产学合作的商业影响却往往滞后数年才显现(pp.220–221)。
 
 > [!info] 定位
-> 长达二十余年的产学合作文献积累了大量从大学侧出发的研究：如何组织产学参与办公室（Boccanfuso & Hall 第三章）、如何设计知识产权条款（Narayan & Spohrer 第五章）、如何建设[[Innovation Hub|创新中心]]（Byrne 第七章），但企业侧的内部运作逻辑，尤其是实践者如何在公司内部推销项目、争取预算和构建利益相关者联盟，始终缺乏系统的实践指南。这一空白正是本章的切入点。内容来自 Ramming 在 [[DARPA]]、Intel 和 VMware 多年的产学合作管理经验，属于实践指导型章节，区别于实证研究(p.217)。
+> 长达二十余年的产学合作[[Document|文献]]积累了大量从大学侧出发的研究：如何组织产学参与办公室（Boccanfuso & Hall 第三章）、如何设计知识产权条款（Narayan & Spohrer 第五章）、如何建设[[Innovation Hub|创新中心]]（Byrne 第七章），但企业侧的内部运作逻辑，尤其是实践者如何在公司内部推销项目、争取预算和构建利益相关者联盟，始终缺乏系统的实践指南。这一空白正是本章的切入点。内容来自 Ramming 在 [[DARPA]]、Intel 和 VMware 多年的产学合作管理经验，属于实践指导型章节，区别于实证研究(p.217)。
 
 ---
 
@@ -445,7 +445,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> 内容主要面向企业侧的[[University-Industry Collaboration|产学合作]]实践者（"aimed primarily at supporting corporate practitioners of university collaboration"），对大学侧合作者的价值是间接的，帮助他们理解企业合作方的内部运作逻辑 和 决策压力(p.217)。属于实践指导型章节，分析 和 建议来自个人职业经验（[[DARPA]]、Intel、VMware），未声称具有系统性实证基础。不涵盖学术文献中关于组织设计、创新管理或[[Public-Private Partnership in Research|公私合作伙伴关系]]的理论讨论。
+> 内容主要面向企业侧的[[University-Industry Collaboration|产学合作]]实践者（"aimed primarily at supporting corporate practitioners of university collaboration"），对大学侧合作者的价值是间接的，帮助他们理解企业合作方的内部运作逻辑 和 决策压力(p.217)。属于实践指导型章节，分析 和 建议来自个人职业经验（[[DARPA]]、Intel、VMware），未声称具有系统性实证基础。不涵盖学术[[Document|文献]]中关于组织设计、创新管理或[[Public-Private Partnership in Research|公私合作伙伴关系]]的理论讨论。
 
 ---
 

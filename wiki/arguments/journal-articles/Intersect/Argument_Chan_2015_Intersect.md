@@ -110,7 +110,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **历史分析**<br>Historical Analysis | 基于对苏联经济、科技政策和制度结构的二手文献综合分析，以 Castells 的[[Informationalism\|信息主义]]—[[Soviet Statism\|国家主义]]框架组织证据。 |
-> | **文献来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
+> | **[[Document\|文献]]来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
 
 该文是一篇历史分析性论文，通过理论框架综合已有研究证据，对苏联技术落后提出结构性解释。非实证研究，属思辨—综合类文献。
 
@@ -333,7 +333,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ## 自述局限
 
 > [!warning]
-> 该文坦承其解释侧重于[[Soviet Statism|国家主义]]的体制逻辑，可能低估了其他因素，如民族主义动员（Beissinger, 2002）、帝国过度扩张（Lundestad, 2000; Kennedy, 2002）和领导个人决策，在苏联解体中的相对重要性（p.3）。论证主要依赖二手文献的已有研究综合，未提供新的原始档案或定量证据。五机制框架提供了一种结构性解释，但宏观历史变迁通常涉及多种机制的交互作用，单因框架有其内在局限。
+> 该文坦承其解释侧重于[[Soviet Statism|国家主义]]的体制逻辑，可能低估了其他因素，如民族主义动员（Beissinger, 2002）、帝国过度扩张（Lundestad, 2000; Kennedy, 2002）和领导个人决策，在苏联解体中的相对重要性（p.3）。论证主要依赖二手[[Document|文献]]的已有研究综合，未提供新的原始档案或定量证据。五机制框架提供了一种结构性解释，但宏观历史变迁通常涉及多种机制的交互作用，单因框架有其内在局限。
 
 ---
 ## 来源

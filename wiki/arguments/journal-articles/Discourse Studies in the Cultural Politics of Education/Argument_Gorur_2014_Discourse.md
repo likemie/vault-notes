@@ -70,7 +70,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：追踪"科学在行动"的实践(Latour, 1987, 1999)；文献档案分析
+> - **方法**：追踪"科学在行动"的实践(Latour, 1987, 1999)；[[Document|文献]]档案分析
 > - **数据来源**：[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录(p.5)
 
 ## 核心论证

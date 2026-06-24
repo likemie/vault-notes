@@ -69,7 +69,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：国际比较综述（international comparative review）
-> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（ESSA、[[Investing in Innovation Program|i3]]/[[Entrepreneur in Residence|EIR]]、[[Education Endowment Foundation|EEF]]）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
+> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策[[Document|文件]]（ESSA、[[Investing in Innovation Program|i3]]/[[Entrepreneur in Residence|EIR]]、[[Education Endowment Foundation|EEF]]）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
 > - 覆盖区域：中国（含大陆和香港）、美国、英国
 
 ## 核心论证
@@ -107,7 +107,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文以论证性/倡导性为主，未提供新实验数据
-> - 对美英[[Evidence-Based Reform|证据本位改革]]成果的讨论偏向正面，未充分讨论批判文献（如 Biesta et al.的系统批评）
+> - 对美英[[Evidence-Based Reform|证据本位改革]]成果的讨论偏向正面，未充分讨论批判[[Document|文献]]（如 Biesta et al.的系统批评）
 > - 中国部分主要依赖二手文献计量数据(Wang, 2017)，未独立收集原始数据
 > - 对中英美的比较以"最佳实践借鉴"为框架，未深入讨论政治体制和文化差异对政策转移的根本限制
 

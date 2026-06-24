@@ -212,7 +212,7 @@ updated: '2026-06-10'
 > | 素养维度 (Domain) | 子维度 (Subdomain) | 典型技能与品质示例 (Examples of attributes and skills) |
 > |---|---|---|
 > | **知识 (Knowledge)** | • 学科特定 (Discipline-specific)<br>• 跨学科 (Interdisciplinary)<br>• 专业职业 (Professional) | 评估自身原创性贡献的相关性与价值；整合两门或多门学科知识的能力；理解工作环境中的行政与运营流程。（p. 98） |
-> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判文献、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。（p. 98） |
+> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判[[Document\|文献]]、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。（p. 98） |
 > | **沟通 (Communication)** | • 沟通原则 (Principles)<br>• 媒介与语言 (Media/Language)<br>• 学术发表 (Publication)<br>• 教学指导 (Teaching)<br>• 公众与企业 (Public/Enterprise) | 构建连贯论证、进行知识交换、向不同受众介绍研究；跨媒介与多语种沟通；理解发表流程；发展教学哲学、参与教学指导；促进公众理解、提升政策意识、了解学术成果商业化的可能性。（p. 98） |
 > | **人际技能 (Interpersonal)** | • 协作团队 (Teamwork)<br>• 领导力 (Leadership) | 公开、直接且公正地与他人沟通，理解自身行为对他人的影响，有效管理关系与成功谈判，倾听他人；支持他人的学习。（p. 98） |
 > | **高阶思维 (Higher-order)** | • 认知与创新 (Cognitive/Innovation) | 批判性思维、问题解决、认知能力、创造力与好奇心。（p. 98） |

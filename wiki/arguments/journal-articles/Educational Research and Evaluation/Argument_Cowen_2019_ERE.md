@@ -84,7 +84,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**：理论综合 + 制度分析
 > - **论证结构**：
->   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的[[Epistemology|认识论]]限度
+>   1. 从 Cartwright/Deaton et al.哲学[[Document|文献]]中澄清 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]的[[Epistemology|认识论]]限度
 >   2. 引入 Tullock 官僚制模型作为[[Analytic Framework|分析框架]]
 >   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 [[Education Endowment Foundation|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
@@ -182,7 +182,7 @@ citation_aliases:
 >
 > **影响**：此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
 >
-> **目前状态**：Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择文献中，认知约束与激励冲突的整合分析仍是一个开放问题。
+> **目前状态**：Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择[[Document|文献]]中，认知约束与激励冲突的整合分析仍是一个开放问题。
 >
 > ### "改革方向"的政治可行性有限
 >

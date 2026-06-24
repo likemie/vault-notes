@@ -75,7 +75,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 > [!info]
 > - **方法**：理论性／批判性政策分析（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例**：NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
-> - **数据来源**：政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *Melbourne Declaration*）、联邦/州教育政策、学术文献
+> - **数据来源**：政策[[Document|文件]]（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *Melbourne Declaration*）、联邦/州教育政策、学术文献
 > - **立场声明**：论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"(p.44)，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场(p.44)
 
 
@@ -95,7 +95,7 @@ Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'hi
 ### 第二步：立法和专业标准将校长固化为"交付者"
 
 - NSW 立法规定校长对学校的"有效和高效运行"负责——以经济语言表述的政策声明
-- *Leading and Managing*(NSW DET, 2000)文件明确将校长定位为"对 Director-General 负责学生成果质量"，"在教育社区背景下"行使问责——校长成为"系统议程的地方面孔"(p.52)
+- *Leading and Managing*(NSW DET, 2000)[[Document|文件]]明确将校长定位为"对 Director-General 负责学生成果质量"，"在教育社区背景下"行使问责——校长成为"系统议程的地方面孔"(p.52)
 - NSW 教师学院专业标准（如 6.4.4 "批判性审查最佳实践研究"、7.4.6 "在所有沟通中呈现学校的正面形象"）体现了 Taylor 主义遗产（"最佳实践"）和市场意识形态（学校形象维护）(p.53-54)
 - 通过国家测试制度（NAPLAN）、即将出台的国家课程、MySchool 网站的建立，"国家对教育的管理主义项目几乎完成"(p.54)
 

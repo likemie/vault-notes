@@ -91,7 +91,7 @@ citation_aliases:
 
 > [!info]
 - 类型：导论性书籍章节，兼有[[Literature Review|文献综述]]、历史分析和框架建构
-- 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
+- 方法：基于既有[[Document|文献]]和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
 
 ---
@@ -99,7 +99,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example]
-> 论证链可以分为三个层次：首先是**概念框架的建立**——定义[[University-Industry Collaboration|产学合作]]的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、[[Academic Freedom|学术自由]]、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、文献定位和 [[University Industry Demonstration Partnership|UIDP]] 案例说明如何搭建合作的制度桥梁。
+> 论证链可以分为三个层次：首先是**概念框架的建立**——定义[[University-Industry Collaboration|产学合作]]的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、[[Academic Freedom|学术自由]]、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、[[Document|文献]]定位和 [[University Industry Demonstration Partnership|UIDP]] 案例说明如何搭建合作的制度桥梁。
 
 ### 第一层：何为产学合作——三重回报与目标对齐
 

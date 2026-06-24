@@ -78,7 +78,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**：[[Philosophical Analysis in Education]] — 以三个维度（[[Epistemology|认识论]]、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构**：每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
-> - **数据来源**：哲学文献（Dewey、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
+> - **数据来源**：哲学[[Document|文献]]（Dewey、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
 
 ## 核心论证
 

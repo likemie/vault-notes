@@ -174,7 +174,7 @@ citation_aliases:
 >
 > **目前状态**：Slavin 支持者会回应：正因为他开发了成功的项目，才有信誉倡导 EBR——这类似于医学中临床医生兼研究者推动新药开发。但教育研究领域缺乏医学中的利益冲突披露规范（如 ICMJE 统一披露标准），此问题未在制度层面解决。
 >
-> ### 对批判性文献的系统性回避
+> ### 对批判性[[Document|文献]]的系统性回避
 >
 > **批评内容**：Slavin 未实质性回应 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 的三重缺陷批判、[[Argument_Cowen_2019_ERE|Cowen (2019)]] 的官僚功能分析、Deaton & Cartwright (2018) 的 [[Randomised Controlled Trials|RCT]] 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
 >

@@ -247,7 +247,7 @@ citation_aliases:
 > “设计一项研究是一个困难且耗时的过程。本书不一定会让这个过程变得更容易或更快，但它可以提供在研究中有用的具体技能、关于该过程所涉及步骤的知识，以及撰写学术研究的实用指南。”
 > ("Designing a study is a difficult and time-consuming process. This book will not necessarily make the process easier or faster, but it can provide specific skills useful in research, knowledge about the steps involved in the process, and a practical guide to composing and writing scholarly research.")（前言）
 
-全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述文献、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
+全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述[[Document|文献]]、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
 
 > [!quote]
 > “第一部分讨论了在设计研究计划或方案之前必须考虑的几个初步因素。这些考虑涉及选择合适的研究路径、审查文献以将拟议的研究置于现有文献之中、决定是否在研究中使用理论，以及在开始时就采用良好的写作和伦理实践。”

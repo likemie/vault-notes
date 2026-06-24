@@ -108,7 +108,7 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > [!info]- 研究类型与资料来源
 > 该章属于**政策分析**（非实证研究），综合运用三种方法路径：
 >
-> - **政策文件分析**：系统梳理欧盟委员会（European Commission）、欧盟理事会（European Council）发布的战略通讯文件（如 [[Europe 2020 Strategy|Europe 2020]]、A [[EU Skills Agenda|New Skills Agenda for Europe]]）、理事会建议书（Council Recommendations，涉及早期辍学、成人教育、Youth Guarantee）及 EUROSTAT 统计指标体系，包括区域创新记分牌（Regional Innovation Scoreboard）和 NUTS2 [[Performance Indicators|教育指标]](p.164–175)
+> - **政策[[Document|文件]]分析**：系统梳理欧盟委员会（European Commission）、欧盟理事会（European Council）发布的战略通讯文件（如 [[Europe 2020 Strategy|Europe 2020]]、A [[EU Skills Agenda|New Skills Agenda for Europe]]）、理事会建议书（Council Recommendations，涉及早期辍学、成人教育、Youth Guarantee）及 EUROSTAT 统计指标体系，包括区域创新记分牌（Regional Innovation Scoreboard）和 NUTS2 [[Performance Indicators|教育指标]](p.164–175)
 > - **定性研究二次分析**：引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020 资助，Grant No 693167）对 16 个欧盟地区 168 名[[Lifelong Learning|终身学习]]政策专家的半结构式访谈数据，作为政策话语在地方层面被接受、转化或对抗的经验证据(p.172–174)
 > - **比较案例引用**：引用意大利利古里亚(Bartolini, 2018)和西班牙加泰罗尼亚(Tarabini et al., 2017)关于早期辍学与第二机会学校（second-chance schools）的[[Comparative Case Study|比较案例研究]](p.173)
 
@@ -173,7 +173,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > 这一变革理论在话语层面具有强大的吸引力，但 Rambla 接下来的分析将揭示：在其"[[Doxa|不言自明]]"的表象之下，指标体系系统性地排除了若干关键议题。
 
 > [!example]- 第 5 步：引入实证证据——地方层面对政策话语的接受与转化
-> Rambla 引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个欧盟地区，168 名终身学习政策专家访谈）的定性数据，为前述政策文件分析提供"地面检验"(p.172–173)：
+> Rambla 引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（16 个欧盟地区，168 名终身学习政策专家访谈）的定性数据，为前述政策[[Document|文件]]分析提供"地面检验"(p.172–173)：
 >
 > **发现 1：[[Network Governance]] 的差异化运作。** 在德国及邻国，终身学习政策通过传统的[[Neocorporatism|新社团主义]]（neocorporatism）网络实施——政府、雇主协会和工会三方合作。在芬兰，"公私民合作"（Public-Private-People-Partnerships）模式将公民置于网络的中心位置。在苏格兰，"就业管道"（Employment Pipeline）模式将就业服务、教育培训和非营利支持整合为一条龙网络。而在南欧和东欧，[[Policy Network|政策网络]]显著较弱；市场治理模式（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著(p.172)。
 >   > 例：一个在奥地利失业的青年可能通过学徒制系统被纳入由企业、工会和政府共同管理的培训轨道；而一个在保加利亚失业的青年可能只能依赖资源有限的公共就业服务窗口。EUROSTAT 的指标将两人放在"青年失业率"的同一栏中，但无法反映背后制度支持的巨大落差。

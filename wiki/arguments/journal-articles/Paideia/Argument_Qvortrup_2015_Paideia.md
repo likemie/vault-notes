@@ -76,7 +76,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）与概念分析。
 > - 分析策略：先重建实证统计教育研究的历史背景，再分类回应 [[Visible Learning]] 批评，最后围绕"学习结果"这一因[[Variable|变量]]提出概念重建方案(pp.23–32)。
-> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie & Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论文献；没有独立收集新的实证数据(p.33)。
+> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie & Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论[[Document|文献]]；没有独立收集新的实证数据(p.33)。
 
 ## 核心论证
 
@@ -112,7 +112,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文是一篇支持方讨论论文，主要依赖概念论证和文献重读，没有提供独立实证检验；因此它能说明"为何[[Meta-analysis|元分析]]在原则上可以辩护"，但不能证明 Hattie 具体数据处理在统计上充分可靠(pp.23–32)。
+> - 论文是一篇支持方讨论论文，主要依赖概念论证和[[Document|文献]]重读，没有提供独立实证检验；因此它能说明"为何[[Meta-analysis|元分析]]在原则上可以辩护"，但不能证明 Hattie 具体数据处理在统计上充分可靠(pp.23–32)。
 > - Qvortrup 将意识形态、方法论和情境批评总体判断为已被"完全令人满意地"回应，可能低估了后续 Wecker et al.对[[Effect Size|效应量]]、二级聚合和源研究[[Heterogeneity|异质性]]提出的技术批评。
 > - 论文对 Hattie 的"学习结果"概念限制提出了温和内部修正，而不是 Rømer (2018) 那种外部哲学批判；因此它更像是改良 [[Visible Learning]] 的方案，而不是拒绝 Visible Learning 的方案。
 

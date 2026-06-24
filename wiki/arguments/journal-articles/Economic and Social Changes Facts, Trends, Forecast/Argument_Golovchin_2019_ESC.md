@@ -70,12 +70,12 @@ citation_aliases:
 > [!abstract] 理论框架
 > - **传统教育与"新学校"运动的历史张力**：论文以传统教学论（Komenský, Diesterweg）的五支柱（知识[[Paradigm|范式]]、教师中心、班级授课制、纪律、Bloom 分类学）与 20 世纪下半叶欧洲"新学校"运动（Cousinet, Freinet）及去学校化理论（Illich, Holt）之间的对峙为历史背景，将 Hattie 的 [[Visible Learning]] 定位为"新学校"意识形态在当代教育政策中的间接体现(p.230-231)
 > - **[[Policy Borrowing|政策借用]]视角**：论文虽未明确使用该术语，但其核心问题是典型的政策借用分析——西方教育创新（澳大利亚、新西兰、美国、丹麦已采用）是否能且应被转移至俄罗斯？论文的结论（"inapplicable"）构成对不加批判的政策借用的警告(p.240-241)
-> - **方法论批判传统**：论文系统梳理了从 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 到 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 的 Hattie 批评文献，将其分为方法论批评和文化批评两个阵营(p.235-238)
+> - **方法论批判传统**：论文系统梳理了从 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 到 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 的 Hattie 批评[[Document|文献]]，将其分为方法论批评和文化批评两个阵营(p.235-238)
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法 1：论述分析**（discursive analysis）— 对 Hattie 的概念及其批评文献进行理论和方法的综述，综合正反双方论点(p.232)
+> - **方法 1：论述分析**（discursive analysis）— 对 Hattie 的概念及其批评[[Document|文献]]进行理论和方法的综述，综合正反双方论点(p.232)
 > - **方法 2：变差系数统计检验**（variation coefficient analysis）— 对 Hattie [[Meta-analysis|元分析]]中使用的 133 个（正值）[[Effect Size|效应量]]计算变差系数 Vσ，检验其数据集的同质性(p.238-239)。作者声称这是前人未做过的原创分析（"which has not been done before", p.229）
 > - **数据来源**：Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]]; Myburgh; McKnight & Whitburn, 2020 等)；俄罗斯教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
 > - **局限性（作者自认）**：批评文献的分析仅限于已发表的英文和俄文资料；变差系数分析仅使用效应量的平均值而非原始分布数据
@@ -97,7 +97,7 @@ citation_aliases:
 >
 > Hattie 的核心结论——"教师学科知识和教师资格是最不重要的（d=0.1），而微格教学和教师反馈最重要"——引发最大争议(p.233)。
 >
-> ### 第二步：[[Systematic Review|系统综述]]批评文献
+> ### 第二步：[[Systematic Review|系统综述]]批评[[Document|文献]]
 >
 > 论文汇编了 10+ 位学者的批评（Table 2, p.236），分为方法论和文化两个维度：
 >
@@ -158,7 +158,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **论文自认局限**：批评文献限于英文和俄文资料；变差系数计算仅基于[[Effect Size|效应量]]均值而非原始分布数据(p.238-239)
+> - **论文自认局限**：批评[[Document|文献]]限于英文和俄文资料；变差系数计算仅基于[[Effect Size|效应量]]均值而非原始分布数据(p.238-239)
 > - **数据来源限制**：Hattie 的[[Meta-analysis|元分析]]数据主要来自美国、澳大利亚和新西兰（1980s-2000s 英语国家），限制了向俄罗斯情境外推的有效性(p.232)
 > - **单一方法局限**：仅使用变差系数一种统计检验方法，未进行敏感性分析或替代方法交叉验证
 > - **潜在立场偏差**：论文明确站在 Hattie 批评者一侧，对支持 Hattie 观点的学者（Arnold et al.）着墨较少

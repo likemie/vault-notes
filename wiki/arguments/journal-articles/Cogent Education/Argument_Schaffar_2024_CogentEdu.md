@@ -106,7 +106,7 @@ updated: 2026-06-22
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **政策文本样本** | 2014年版芬兰基础教育国家核心课程（Finnish National Core Curriculum for Basic Education 2014）及其英文译本。(p.2) |
-> | **历史与哲学文献** | 涵盖 Kant, [[Edmund Husserl\|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology\|现象学]]著作；Snellman 的[[Bildung\|教化]]哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm\|建构主义]]教育心理学文献。(pp.3–8) |
+> | **历史与哲学[[Document\|文献]]** | 涵盖 Kant, [[Edmund Husserl\|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology\|现象学]]著作；Snellman 的[[Bildung\|教化]]哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm\|建构主义]]教育心理学文献。(pp.3–8) |
 > | **教学实践情境** | 赫尔辛基大学 2018–2023 年运行的 [[SveaSus Project\|SveaSus（可持续世界遗产现象本位学习）项目]]，以芬兰堡（Suomenlinna）世界遗产地为真实学习场域，提供具身、艺术与多语教学的实证脉络。(p.1) |
 
 ---

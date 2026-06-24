@@ -69,7 +69,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：特刊导言（editorial），概念综合与[[Literature Review|文献综述]]
-> - **证据基础**：综合特刊 7 篇论文的发现，并嵌入更广泛的 [[Evidence-Informed Practice|EIP]] 文献脉络（Weiss 1979; Hargreaves 1996; Nutley et al. 2007; Goldacre 2013; Bryk 2015 等）
+> - **证据基础**：综合特刊 7 篇论文的发现，并嵌入更广泛的 [[Evidence-Informed Practice|EIP]] [[Document|文献]]脉络（Weiss 1979; Hargreaves 1996; Nutley et al. 2007; Goldacre 2013; Bryk 2015 等）
 
 ## 核心论证
 

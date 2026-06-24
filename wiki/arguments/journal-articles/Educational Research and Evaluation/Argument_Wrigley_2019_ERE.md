@@ -81,7 +81,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
 > - 案例研究：以 [[Education Endowment Foundation|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
-> - 文献批判性综述：综合 Bhaskar et al.学者的批判资源
+> - [[Document|文献]]批判性综述：综合 Bhaskar et al.学者的批判资源
 
 ## 核心论证
 

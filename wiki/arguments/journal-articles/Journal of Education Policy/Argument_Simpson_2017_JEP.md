@@ -74,7 +74,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：概念分析与技术论证（conceptual analysis + technical demonstration）
-> - **论证工具**：一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
+> - **论证工具**：一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究[[Document|文献]]中的真实案例
 > - **数据来源**：已发表的[[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]（Marzano 1998; Hattie 2009; Higgins et al. 2013/[[Education Endowment Foundation|EEF]] Toolkit），以及纳入这些综合的原始研究
 
 ## 核心论证

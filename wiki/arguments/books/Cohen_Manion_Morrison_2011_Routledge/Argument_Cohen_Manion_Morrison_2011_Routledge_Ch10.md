@@ -246,7 +246,7 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 > - **同伴汇报（[[Peer Debriefing]]）** 将研究暴露于无利害关系的同行面前进行交叉审问式检验
 > - **[[Negative Case Analysis|负面案例分析]]（negative case analysis）** 系统检验不符合已有假设的案例以修正和完善理论
 > - **结构互证（structural corroboration）** 即[[Triangulation|三角验证]]，在方法、来源、研究者和理论之间交叉检验
-> - **参照材料充分性（referential material adequacy）** 充分引用领域内标准文献作为发现的外部参照（pp.160–161）
+> - **参照材料充分性（referential material adequacy）** 充分引用领域内标准[[Document|文献]]作为发现的外部参照（pp.160–161）
 
 ---
 
@@ -439,7 +439,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > - **公平性（fairness）**
 >   对情境中多重现实和建构的完整、平衡呈现——不应有任何一个相关群体的视角被忽略
 > - **[[Ontology|本体论]]真实性（ontological authenticity）**
->   研究应提供对情境**更精微（more sophisticated）**的理解——使熟悉变得陌生（making the familiar strange），这是减少研究者"文化盲视"（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
+>   研究应提供对情境**更精微（more sophisticated）**的理解——使熟悉变得陌生（[[Making the Familiar Strange]]），这是减少研究者"文化盲视"（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
 > - **教育真实性（educative authenticity）**
 >   研究应对这些理解产生**新的认识**——不仅仅是复现已知，而是让参与者（和读者）以新的眼光看待熟悉的情境
 > - **催化真实性（catalytic authenticity）**
