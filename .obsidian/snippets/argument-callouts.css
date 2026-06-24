@@ -11661,6 +11661,154 @@
   color: rgb(var(--cm));
 }
 
+/* ═══════════════════════════════════════════════════════════
+   SPECTRUM — 多点水平谱系
+   -------------------------------------------------------
+   写法：
+     > [!spectrum] 谱系名称
+     > - **左极名** 简短描述
+     > - **中间点** 简短描述
+     > - **右极名** 简短描述
+   首尾项自动渲染为蓝/橙两极色，中间项为紫色；
+   渐变轨道条横跨所有节点；圆形节点悬停于轨道上。
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="spectrum"] {
+  --cl: 68, 105, 210;
+  --cr: 195, 108, 28;
+  --cm: 130, 72, 180;
+  background:
+    linear-gradient(135deg,
+      rgba(var(--cl), 0.05) 0%,
+      rgba(var(--cm), 0.02) 50%,
+      rgba(var(--cr), 0.05) 100%
+    ),
+    var(--background-primary);
+  border: 1px solid rgba(150, 100, 160, 0.20);
+  border-left: 4px solid rgb(var(--cm));
+  border-radius: 10px;
+  padding: 0.85rem 0.85rem 1.10rem;
+}
+
+.callout[data-callout="spectrum"] > .callout-title {
+  color: rgb(var(--cm));
+}
+
+/* 水平 flex 列表 */
+.callout[data-callout="spectrum"] > .callout-content > ol,
+.callout[data-callout="spectrum"] > .callout-content > ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  gap: 0.4rem;
+}
+
+/* 渐变轨道条 */
+.callout[data-callout="spectrum"] > .callout-content > ol::before,
+.callout[data-callout="spectrum"] > .callout-content > ul::before {
+  content: "";
+  position: absolute;
+  top: 0.62rem;
+  left: 0.45rem;
+  right: 0.45rem;
+  height: 3px;
+  background: linear-gradient(90deg,
+    rgb(var(--cl)),
+    rgb(var(--cm)),
+    rgb(var(--cr))
+  );
+  border-radius: 2px;
+  z-index: 0;
+}
+
+/* 每个节点 */
+.callout[data-callout="spectrum"] > .callout-content > ol > li,
+.callout[data-callout="spectrum"] > .callout-content > ul > li {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 0.82em;
+  line-height: 1.45;
+  padding-top: 1.55rem;
+  flex: 1;
+  min-width: 0;
+  color: rgb(var(--cm));
+}
+
+/* 圆形节点悬于轨道 */
+.callout[data-callout="spectrum"] > .callout-content > ol > li::before,
+.callout[data-callout="spectrum"] > .callout-content > ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0.27rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: rgb(var(--cm));
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 0 0 1.5px rgb(var(--cm));
+  z-index: 1;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.callout[data-callout="spectrum"] > .callout-content > ol > li:hover::before,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:hover::before {
+  transform: translateX(-50%) scale(1.30);
+}
+
+/* 左极（首项） */
+.callout[data-callout="spectrum"] > .callout-content > ol > li:first-child,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:first-child {
+  color: rgb(var(--cl));
+  font-weight: 600;
+}
+.callout[data-callout="spectrum"] > .callout-content > ol > li:first-child::before,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:first-child::before {
+  background: rgb(var(--cl));
+  box-shadow: 0 0 0 2px rgba(var(--cl), 0.32);
+  width: 13px; height: 13px; top: 0.20rem;
+}
+
+/* 右极（末项） */
+.callout[data-callout="spectrum"] > .callout-content > ol > li:last-child,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:last-child {
+  color: rgb(var(--cr));
+  font-weight: 600;
+}
+.callout[data-callout="spectrum"] > .callout-content > ol > li:last-child::before,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:last-child::before {
+  background: rgb(var(--cr));
+  box-shadow: 0 0 0 2px rgba(var(--cr), 0.32);
+  width: 13px; height: 13px; top: 0.20rem;
+}
+
+/* 节点内粗体标题 */
+.callout[data-callout="spectrum"] .callout-content li > strong:first-of-type {
+  display: block;
+  font-size: 0.97em;
+  font-weight: 700;
+  margin-bottom: 0.12rem;
+}
+
+.callout[data-callout="spectrum"] .list-bullet { display: none !important; }
+
+/* 暗色模式 */
+.theme-dark .callout[data-callout="spectrum"] {
+  --cl: 100, 145, 245;
+  --cr: 220, 138, 48;
+  --cm: 158, 100, 220;
+}
+.theme-dark .callout[data-callout="spectrum"] > .callout-title {
+  color: rgb(var(--cm));
+}
+
 /* ─── fit-grid（适用判断三格 — 绿/琥珀/红 信号灯配色） ──── */
 /* ═══════════════════════════════════════════════════════════
    FIT-GRID — 方法适用性速查（竖排三段：适合 / 谨慎 / 不适合）
