@@ -10,7 +10,7 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Positivism]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Effect Size]]"

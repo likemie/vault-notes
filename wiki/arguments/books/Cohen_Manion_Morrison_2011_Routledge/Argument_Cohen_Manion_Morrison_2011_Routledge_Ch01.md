@@ -28,10 +28,12 @@ tags:
 related_concepts:
   - "[[Axiology]]"
   - "[[Ontology]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Scientific Method]]"
   - "[[Multiplicity]]"
+  - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
@@ -49,7 +51,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Self-Efficacy]]"
@@ -66,7 +67,6 @@ related_concepts:
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
   - "[[Feedback]]"
-  - "[[Causality]]"
   - "[[School Leadership]]"
 related_theories:
   - "[[Critical Realism]]"

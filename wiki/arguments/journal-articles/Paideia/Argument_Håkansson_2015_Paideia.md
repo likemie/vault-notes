@@ -9,7 +9,7 @@ title: "Argument_Håkansson_2015_Paideia"
 argument_key: "Argument_Håkansson_2015_Paideia"
 argument_display_title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
   - "[[Effect Size]]"
+  - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Document]]"
 related_theories: []

@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
+  - "[[Hypothesis]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Zhonghua Minzu]]"

@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"

@@ -9,7 +9,7 @@ title: "Argument_Peterson_2016_IJRME"
 argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,10 +25,12 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
+  - "[[Causality]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
+  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Feedback]]"
   - "[[Counterfactual]]"

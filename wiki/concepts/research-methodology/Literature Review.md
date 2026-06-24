@@ -4,17 +4,38 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [source/textbook, method/research-process]
-related_concepts: []
+related_concepts:
+  - "[[Document]]"
+  - "[[Research Topic]]"
+  - "[[Reliability]]"
+  - "[[Abstract]]"
+  - "[[Literature Search]]"
+  - "[[Research Question]]"
+  - "[[Memos]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Postpositivism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Literature Map]]"
+  - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
 confidence: medium
 status: draft
 created: 2026-05-30

@@ -10,7 +10,7 @@ title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - level/k12
   - region/germany
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Global Education Industry]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
@@ -39,6 +40,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

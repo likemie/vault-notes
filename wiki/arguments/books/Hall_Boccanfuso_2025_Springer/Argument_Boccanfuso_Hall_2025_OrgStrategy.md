@@ -13,6 +13,7 @@ tags:
   - "method/website-analysis"
   - "method/survey"
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
   - "[[Entrepreneurial University]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Learning Analytics]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods:

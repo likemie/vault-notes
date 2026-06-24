@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Doxa]]"
   - "[[Document]]"
+  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
 related_theories: []
 related_methods: []

@@ -8987,6 +8987,16 @@
     ]
   },
   {
+    "title": "Time Series Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Time Series Design.md",
+    "aliases": [
+      "时间序列设计",
+      "time series quasi-experiment",
+      "interrupted time series"
+    ]
+  },
+  {
     "title": "Alejandro Artopoulos",
     "type": "person",
     "path": "wiki/persons/argentina/Alejandro Artopoulos.md",

@@ -9,7 +9,7 @@ title: "Argument_Allerup_2015_Paideia"
 argument_key: "Argument_Allerup_2015_Paideia"
 argument_display_title: "Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
+  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"

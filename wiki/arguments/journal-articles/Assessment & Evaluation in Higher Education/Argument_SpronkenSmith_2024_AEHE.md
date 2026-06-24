@@ -11,9 +11,9 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Assessment & Evaluation in Higher Education"
 citation: "Spronken-Smith, R., Brown, K., & Cameron, C. (2024). Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities. Assessment & Evaluation in Higher Education, 49(1), 86–101."
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Employability]]"
   - "[[Outcomes-based Education]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Hypothesis]]"
   - "[[Lifelong Learning]]"
   - "[[Document]]"
   - "[[Sample Size Determination]]"

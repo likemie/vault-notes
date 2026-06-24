@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Evidence-Based Education]]"
+  - "[[Hypothesis]]"
   - "[[Descriptive Analysis]]"
   - "[[Heterogeneity]]"
   - "[[Causality]]"

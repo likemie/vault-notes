@@ -24,11 +24,14 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Document]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Causality]]"
   - "[[Research Utilization]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -47,7 +50,7 @@ title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

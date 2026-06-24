@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
+  - "[[Causality]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"

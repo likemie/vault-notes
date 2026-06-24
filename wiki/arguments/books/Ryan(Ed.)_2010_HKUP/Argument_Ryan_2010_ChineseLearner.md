@@ -9,7 +9,7 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Quality Education]]"
 related_theories:

@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
+  - "[[Causality]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:

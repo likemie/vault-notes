@@ -7,7 +7,7 @@ title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
-argument_related_count: 5
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Technological Trajectories]]"

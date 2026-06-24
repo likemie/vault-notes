@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Blue Skies Research]]"
+  - "[[Hypothesis]]"
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"
   - "[[Knowledge Production]]"

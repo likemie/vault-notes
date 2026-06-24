@@ -20,6 +20,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Theoretical Validity]]"
+  - "[[Hypothesis]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
@@ -58,7 +59,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -23,7 +23,9 @@ tags:
 - geopolitics
 related_concepts:
   - "[[Knowledge Capitalism]]"
+  - "[[Causality]]"
   - "[[Classical Geopolitics]]"
+  - "[[Hypothesis]]"
   - "[[Post-colonial Theory]]"
   - "[[Orientalism]]"
   - "[[Knowledge Production]]"

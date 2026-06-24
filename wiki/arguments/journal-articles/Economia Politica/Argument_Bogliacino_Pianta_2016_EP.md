@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,12 +29,14 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[Heterogeneity]]"
+  - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
+  - "[[Causality]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"

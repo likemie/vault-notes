@@ -7,7 +7,7 @@ title: "Argument_Lester_2005_MIT"
 argument_key: "Argument_Lester_2005_MIT"
 argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
 argument_kind: "report"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
   - source/report
 related_concepts:
   - "[[Absorptive Capacity]]"
+  - "[[Causality]]"
   - "[[Technology Transfer]]"
   - "[[Structural Holes]]"
   - "[[External Validity]]"

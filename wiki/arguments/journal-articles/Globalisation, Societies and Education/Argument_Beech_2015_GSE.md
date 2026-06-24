@@ -10,9 +10,9 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Globalisation, Societies and Education
 citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18."
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Methodological Nationalism]]"
+  - "[[Hypothesis]]"
   - "[[Global-Local Binary]]"
   - "[[Relational Space]]"
   - "[[Recontextualization]]"

@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,11 +37,12 @@ related_concepts:
   - "[[UIC Impact Measurement]]"
   - "[[Clinical Trial]]"
   - "[[Knowledge Transfer]]"
+  - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Knowledge Exchange]]"
+  - "[[Hypothesis]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
-  - "[[Causality]]"
   - "[[Blue Skies Research]]"
 related_theories: []
 related_methods:

@@ -9,7 +9,7 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -24,10 +24,12 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Effective Teaching]]"
+  - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Classroom Management]]"
   - "[[Individualised Instruction]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Societies of Control]]"

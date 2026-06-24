@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
+  - "[[Causality]]"
   - "[[Analytic Framework]]"
   - "[[Sociology of Valuation and Evaluation]]"
 related_theories:

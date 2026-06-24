@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,12 +30,14 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Opportunist Mode]]"
+  - "[[Causality]]"
   - "[[External Validity]]"
   - "[[Document]]"
   - "[[Analytic Framework]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Champ]]"
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Policy Borrowing]]"
 related_theories:

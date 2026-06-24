@@ -9,9 +9,9 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 citation: "Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press."
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[Global Universities Rankings]]"
+  - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Operationalization]]"
 related_theories: []

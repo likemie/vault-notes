@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Variable]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Visible Learning]]"
   - "[[Evaluation Research]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

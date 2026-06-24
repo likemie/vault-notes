@@ -7,7 +7,7 @@ aliases:
 summary: "沃尔夫提出的殖民主义形式理论，核心是消除的逻辑而非剥削的逻辑，近年被西方学者用于分析新疆的汉人移民与维吾尔人关系"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 3
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,8 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Necropolitics]]"
+  - "[[Hegemony]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -49,7 +51,7 @@ updated: '2026-06-25'
 > [!citation-card]- 关键表述
 > “灭绝种族是定居殖民主义固有的意图和后果，是定居者与土著人民之间遵循‘消除的逻辑’的冲突所导致的。”([[Argument_Bulag_2024_CE|Bulag, 2024, p. 99]])
 > 
-> *“Genocide is intrinsic to settler colonialism as both the intention and consequence of a settler colonial encounter with indigenous peoples that follows a ‘logic of elimination’”* (Wolfe, 2006, p. 387)
+> *“Genocide is intrinsic to settler colonialism as both the intention and consequence of a settler colonial encounter with indigenous peoples that follows a ‘logic of elimination’”* (Wolfe 2006, p. 387)
 
 > [!boundary]- 概念边界
 > - 不等于 [[Necropolitics|死亡政治]] — 死亡政治侧重于主权对生死的支配；定居殖民主义侧重于对土地的永久占有与人口结构的彻底替换。

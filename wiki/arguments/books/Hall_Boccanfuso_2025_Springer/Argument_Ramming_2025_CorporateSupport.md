@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Scope]]"
   - "[[Precompetitive Research]]"
+  - "[[Causality]]"
   - "[[Return on Investment]]"
 related_theories:
   - "[[Triple Helix]]"

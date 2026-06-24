@@ -24,16 +24,16 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Causality]]"
   - "[[Structural Coupling]]"
   - "[[Effect Size]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods: []

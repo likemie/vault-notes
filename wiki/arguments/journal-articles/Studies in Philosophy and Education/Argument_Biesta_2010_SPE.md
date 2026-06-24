@@ -9,9 +9,9 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Studies in Philosophy and Education
 citation: "Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503."
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Document]]"
+  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"

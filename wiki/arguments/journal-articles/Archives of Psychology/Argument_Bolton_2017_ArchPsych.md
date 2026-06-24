@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Attentional Inertia]]"
   - "[[Synaptic Pruning]]"
+  - "[[Hypothesis]]"
   - "[[Variable]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"

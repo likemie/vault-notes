@@ -12,7 +12,7 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 12
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dcfce7"
@@ -30,6 +30,8 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Literature Review]]"
+  - "[[Causality]]"
+  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Evaluation Research]]"
   - "[[Document]]"

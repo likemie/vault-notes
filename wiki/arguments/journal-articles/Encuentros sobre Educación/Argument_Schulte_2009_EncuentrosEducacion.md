@@ -9,7 +9,7 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Scientism]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Hypothesis]]"
   - "[[Scientific Method]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"

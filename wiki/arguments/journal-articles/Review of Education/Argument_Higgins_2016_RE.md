@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_RE"
 argument_key: "Argument_Higgins_2016_RE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Reliability]]"
   - "[[Forest Plot]]"
+  - "[[Hypothesis]]"
   - "[[Blue Skies Research]]"
   - "[[Confidence Interval]]"
   - "[[Homework]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Counterfactual]]"
   - "[[Abstract]]"
+  - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Professional Judgment]]"
 related_theories:

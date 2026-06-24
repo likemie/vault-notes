@@ -30,6 +30,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Performativity]]"
   - "[[Analytic Framework]]"
+  - "[[Hypothesis]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Policy Network]]"
@@ -67,7 +68,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

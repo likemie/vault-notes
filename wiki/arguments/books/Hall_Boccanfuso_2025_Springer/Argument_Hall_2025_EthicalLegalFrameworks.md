@@ -18,6 +18,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Clinical Trial]]"
   - "[[Evaluation Research]]"
+  - "[[Hypothesis]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[Conflict of Interest in Research]]"
@@ -47,7 +48,7 @@ title: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_key: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

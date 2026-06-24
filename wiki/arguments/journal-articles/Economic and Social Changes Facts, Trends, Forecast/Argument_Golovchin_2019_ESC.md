@@ -9,7 +9,7 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Causality]]"
   - "[[Publication Bias]]"
+  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
 related_theories:
@@ -40,6 +41,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

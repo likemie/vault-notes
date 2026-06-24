@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Executive Education]]"
   - "[[Epistemology]]"
+  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Blue Skies Research]]"
   - "[[Fourth Generation University]]"
@@ -42,7 +43,7 @@ title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

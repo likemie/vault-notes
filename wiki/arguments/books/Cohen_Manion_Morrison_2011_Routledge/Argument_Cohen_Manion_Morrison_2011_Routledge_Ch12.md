@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Research Question]]"
+  - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
   - "[[Variable]]"
   - "[[Sampling Frame]]"

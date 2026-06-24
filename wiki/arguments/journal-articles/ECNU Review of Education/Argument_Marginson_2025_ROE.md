@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
+  - "[[Causality]]"
   - "[[Power-Geometries]]"
   - "[[Analytic Framework]]"
   - "[[Methodological Globalism]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Double Spatiality of Universities]]"
   - "[[Definition of Terms]]"
   - "[[Falsification]]"
+  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Multi-University]]"

@@ -9,20 +9,32 @@ aliases:
 summary: "研究设计的出发点，指计划研究的主题或题材，涉及选题来源、选择标准、问题明确化以及工作标题的草拟"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-design
   - source/textbook
   - theme/research-planning
-related_concepts: []
+related_concepts:
+  - "[[Literature Review]]"
+  - "[[Research Question]]"
+  - "[[Document]]"
+  - "[[Didaktik]]"
+  - "[[Research Scope]]"
+  - "[[Literature Search]]"
+  - "[[Research Contribution]]"
+  - "[[Hypothesis]]"
+  - "[[Central Question]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-05-31

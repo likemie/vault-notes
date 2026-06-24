@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ tags:
   - source/textbook
   - theme/sensitive-research
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
   - "[[Informed Consent]]"

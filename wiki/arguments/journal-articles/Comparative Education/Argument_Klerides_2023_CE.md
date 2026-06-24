@@ -9,9 +9,9 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Agendas of Attention]]"
   - "[[Readings of the Global]]"
   - "[[Analytic Framework]]"
+  - "[[Hypothesis]]"
   - "[[Revolutionism]]"
   - "[[Multiplicity]]"
   - "[[Causality]]"

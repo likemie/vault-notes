@@ -10,18 +10,34 @@ summary: "教育研究中基本的资料收集方法，通过有目的、有计�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 1
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
   - source/textbook
   - theme/observation
-related_concepts: []
+related_concepts:
+  - "[[Causality]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Operationalization]]"
+  - "[[Value Neutrality]]"
+  - "[[Reliability]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Research Question]]"
+  - "[[Flanders Interaction Analysis Categories]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Participant Observation]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Survey Research]]"
+  - "[[Observation Protocol]]"
+  - "[[Triangulation]]"
+related_persons:
+  - "[[Jean Piaget]]"
 related_facts: []
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"

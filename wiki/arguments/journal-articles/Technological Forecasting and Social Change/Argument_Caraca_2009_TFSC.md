@@ -18,11 +18,13 @@ tags:
   - theme/university-industry-relations
   - region/global
 related_concepts:
+  - "[[Causality]]"
   - "[[Chain-linked Model]]"
   - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Linear Model of Innovation]]"
   - "[[Blue Skies Research]]"
+  - "[[Hypothesis]]"
   - "[[Absorptive Capacity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
@@ -50,7 +52,7 @@ title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

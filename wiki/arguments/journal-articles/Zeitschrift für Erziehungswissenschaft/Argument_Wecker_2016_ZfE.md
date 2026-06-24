@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
   - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:

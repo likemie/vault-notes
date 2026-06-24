@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Sage]]"
+  - "[[Hypothesis]]"
   - "[[Big Ideas]]"
   - "[[Document]]"
   - "[[Doxa]]"

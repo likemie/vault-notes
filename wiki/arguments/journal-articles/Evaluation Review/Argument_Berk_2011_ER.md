@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,9 +25,9 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
+  - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
-  - "[[Causality]]"
   - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Sample Size Determination]]"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Standard Error]]"
   - "[[Variable]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
