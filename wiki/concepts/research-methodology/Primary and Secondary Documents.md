@@ -8,12 +8,14 @@ aliases:
   - 一手文献
   - 二手文献
   - 原始文献
-summary: "一手文献是由事件目击者或参与者作为直接记录而生产的文献，二手文献是通过对一手文献的分析形成的阐述。二者的区分并非文献的内在属性，而是取决于研究者的使用方式和研究问题。"
+  - 初级文献
+  - 次级文献
+summary: 一手文献是由事件目击者或参与者作为直接记录而生产的文献，二手文献是通过对一手文献的分析形成的阐述。二者的区分并非文献的内在属性，而是取决于研究者的使用方式和研究问题。
 type: concept
-domain: "research-methodology"
+domain: research-methodology
 related_count: 4
 related_level: 0
-related_stars: "☆"
+related_stars: ☆
 related_color: "#e5e7eb"
 tags:
   - method/historical-research
