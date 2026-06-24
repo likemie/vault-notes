@@ -558,7 +558,8 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Performativity.md",
     "aliases": [
-      "操演性"
+      "操演性",
+      "绩效性"
     ]
   },
   {
@@ -4808,6 +4809,16 @@
     ]
   },
   {
+    "title": "Document",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Document.md",
+    "aliases": [
+      "文献",
+      "文件",
+      "documentary source"
+    ]
+  },
+  {
     "title": "Domain Analysis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Domain Analysis.md",
@@ -8043,6 +8054,16 @@
     "aliases": [
       "维度抽样",
       "dimensional sample"
+    ]
+  },
+  {
+    "title": "Documentary Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Documentary Analysis.md",
+    "aliases": [
+      "文献分析",
+      "documentary research method",
+      "文献研究方法"
     ]
   },
   {
@@ -13042,6 +13063,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

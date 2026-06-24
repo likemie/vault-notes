@@ -102,7 +102,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -127,7 +127,7 @@ updated: 2026-06-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|第10章 Validity and reliability]] | 系统阐述效度与[[Reliability\|信度]]在量化、质性和混合方法中的多元含义：效度为程度而非绝对，信度是效度的必要非[[Necessary and Sufficient Conditions\|充分条件]]；逐层拆解[[Internal Validity\|内部效度]]、[[External Validity\|外部效度]]及十余种效度类型，以[[Triangulation\|三角验证]]桥接效度与信度；最后落实到访谈、实验、问卷、观察、测验和生命史中的操作策略与威胁清单。 | [[Internal Validity]]、[[External Validity]]、[[Triangulation]]、[[Qualitative Validity]]、[[Hawthorne Effect]] |
 > | **Part 3 教育研究的类型** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|第13章 Naturalistic, qualitative and ethnographic research]] | 区分自然主义/民族志（长期驻留）与质性方法（数据类型）；梳理[[Interpretive Paradigm\|诠释范式]]的认识论原则；提出质性研究12阶段操作模型；介绍[[Critical Ethnography\|批判民族志]]及其五阶段模型；系统列出自然主义方法的十大问题。 | [[Qualitative Research]]、[[Ethnography]]、[[Reflexivity]]、[[Critical Ethnography]]、[[Participant Observation]] |
-> | 第14章 Historical and documentary research | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|第12章 Historical and documentary research in education]] | 系统介绍[[Document\|文献]]的四种类型划分轴线与一手/二手的复杂区分；详述六类一手文献（书籍、报告、报纸、小说、日记/信件/自传）及其教育研究案例；分析档案研究的方法、挑战与在线转型；拆解[[Documentary Analysis\|文献分析]]的五个程序环节（真实性、可靠性、意义、语境、理论化）及三种理论传统（实证主义、解释性、批判性）；梳理英国文献研究的核心法律框架与伦理议题。 | [[Document]]、[[Documentary Analysis]]、[[Reliability]]、[[Qualitative Research]] |
 > | 第15章 Surveys, longitudinal, cross-sectional and trend studies | | |
 > | 第16章 Internet-based research and computer usage | | |
 > | 第17章 Case studies | | |
