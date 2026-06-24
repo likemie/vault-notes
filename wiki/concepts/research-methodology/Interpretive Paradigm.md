@@ -77,41 +77,18 @@ updated: 2026-06-24
 
 ---
 
-## 核心概念辨析
+## 概念关系索引
 
-### 行动 vs 行为
-
-Douglas（1973）提出了一对关键概念区分，构成了诠释范式与规范性范式最根本的分野（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
-
-> [!contrast-table] 规范性范式 vs 诠释范式
+> [!entry-map] 诠释范式的概念关系索引
 >
-> | 维度 | 规范性范式（Normative） | 诠释范式（Interpretive） |
-> |---|---|---|
-> | 核心概念 | **行为**（behaviour）：对外部或内部刺激的反应，原因在过去 | **行动**（action）：行为加意义，意向行为，面向未来 |
-> | 理论角色 | 设计普遍理论，建立"理性大厦"（rational edifice） | 理论"扎根"于数据，从情境中涌现（Glaser and Strauss, 1967） |
-> | 实在观 | 基本的实在是集体——社会、制度、组织，外在于行动者 | 基本的实在是个体对其世界的解释 |
-> | 理论目的 | 说明现实如何在集体形式中组合 | 理解人们如何赋予现实意义 |
-> | 理论形态 | 单一的普遍理论 | 多面的、如同人类意义和理解一样多样的理论 |
-
-### 主位与客位
-
-诠释范式的核心方法论区分。LeCompte & Preissle（1993: 45）从语言学类比出发阐明了这对概念（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], p. 405）：
-
-> [!term] 主位（Emic）vs 客位（Etic）
-> **主位进路**（取音位学 phonemic 类比）关注捕捉参与者赋予情境的主观意义——内部人视角。**客位进路**（取语音学 phonetic 类比）意在识别和理解研究者的客观意义和建构——外部人视角。诠释范式以主位进路为核心。
-
-### 自然主义/民族志 vs 质性方法
-
-诠释范式内部还需要区分（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 402–403）：
-
-> [!term] 自然主义/民族志 vs 质性方法
-> **自然主义/民族志方法**意味着对个体、群体或特定社群的长期驻留（long-term residence）。**质性方法**关乎数据的性质（言语的、听觉的、观察的等）和所欲回答的问题类型，不必遵循自然主义原则。小规模短期质性研究可能只采集一次数据，不涉及长期驻留，但仍属于质性研究范畴。
-
----
-
-## 三大研究传统
-
-在诠释范式之下，[[Phenomenology|现象学]]（Phenomenology）、[[Ethnomethodology|俗民方法学]]（Ethnomethodology）和[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）是三种核心的研究传统（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> | 概念 | 类型 | 与诠释范式的关系 |
+> |:-----|:-----|:-----------------|
+> | [[Positivism\|规范性范式（Normative）vs 诠释范式]] | 根本对立 | Douglas（1973）：规范性范式关注**行为**（behaviour，对刺激的反应，原因在过去），诠释范式关注**行动**（action，行为加意义，意向行为面向未来）。理论目的、实在观和理论形态均截然不同。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Emic and Etic\|主位（Emic）vs 客位（Etic）]] | 方法论区分 | LeCompte & Preissle（1993: 45）：主位进路捕捉参与者赋予情境的主观意义（内部人视角），客位进路识别研究者的客观建构（外部人视角）。诠释范式以主位进路为核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]] |
+> | [[Ethnography\|自然主义/民族志 vs 质性方法]] | 方法类型区分 | 自然主义/民族志要求长期驻留；质性方法关乎数据类型和问题类型，不强制长期驻留。小型短期质性研究属于质性但不属于自然主义/民族志。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 402–403)]] |
+> | [[Phenomenology\|现象学]] | 理论传统 | 核心研究传统之一，关注个体对生活世界的主观体验和意义建构。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Ethnomethodology\|俗民方法学]] | 理论传统 | 核心研究传统之一，研究人们如何通过日常互动方法建构和维持社会秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Symbolic Interactionism\|符号互动论]] | 理论传统 | 核心研究传统之一，关注人们通过符号和互动建构意义和自我（Blumer, 1969）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
 
 ---
 
