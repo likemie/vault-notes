@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Research Question]]"
   - "[[Analytic Framework]]"
   - "[[Variable]]"
@@ -46,8 +47,9 @@ related_concepts:
   - "[[Categorical Funding]]"
 related_methods:
   - "[[Documentary Analysis]]"
-  - "[[Archival Correspondence Analysis]]"
   - "[[Ideology Critique]]"
+  - "[[Archival Research]]"
+  - "[[Archival Correspondence Analysis]]"
 sources:
   - "[[Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
@@ -65,7 +67,7 @@ updated: 2026-06-24
 
 ## 章节内容
 
-> [!logic-map] 历史与文献研究的核心知识结构
+> [!logic-map] 历史与[[Document|文献]]研究的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["三个知识领域<br/>过去 · 变迁延续 · 当下起源"] --> B["文献<br/>四轴分类"]
@@ -84,7 +86,7 @@ updated: 2026-06-24
 
 ### 12.1 历史与文献研究的三个知识领域
 
-历史与文献研究方法旨在进入并洞察关于人类社会活动的三个相互关联的知识领域。这三个领域形成了历史与文献研究的[[Epistemology|认识论]]根基。
+历史与[[Documentary Analysis|文献研究方法]]旨在进入并洞察关于人类社会活动的三个相互关联的知识领域。这三个领域形成了历史与文献研究的[[Epistemology|认识论]]根基。
 
 > [!dimension] 历史与文献研究的三重功能
 > - **研究过去（the past）**
@@ -274,7 +276,7 @@ updated: 2026-06-24
 #### 档案中的研究实践
 
 > [!case] 新西兰青少年帮派调查委员会的档案（McCu​​lloch，2004，第4章）
-> 新西兰教育部奥克兰北部地区办公室保存的档案提供了一个档案研究的示范性案例。其中一个文件系列涉及一个于1970年成立的委员会，该委员会负责调查当时日益引起关切的青少年帮派扩散问题。
+> 新西兰教育部奥克兰北部地区办公室保存的档案提供了一个[[Archival Correspondence Analysis|档案研究]]的示范性案例。其中一个文件系列涉及一个于1970年成立的委员会，该委员会负责调查当时日益引起关切的青少年帮派扩散问题。
 >
 > 具体档案构成：
 > - **档案26/1/88** 包含该委员会完整和详细的会议记录（minutes）。会议记录使研究者能够追踪委员会成员之间就青少年帮派问题的定义、调查范围和可能的政策回应进行的内部辩论。
@@ -346,7 +348,7 @@ Jupp 和 Norris（1993）将文献分析的多元理论路径归纳为三种一�
 > - **批判传统（critical approach）**
 >   以马克思主义、女性主义或批判性话语理论（Critical Discourse Analysis）为代表，将文献视为社会冲突、权力关系和控制机制的场域。这一传统的两个代表性案例展示了批判性文献分析的不同进路：
 >
->   **Codd（1988）** 对教育政策文献的分析融合了解释性和批判性元素：他主张运用将语言使用与权力运作相关联的话语理论，将政策文献解构。不是将其视为[[Doxa|不言自明]]的行动指南，而是追问其概念选择如何将特定利益自然化、如何排除替代方案、如何建构常识以消弭异议。教育政策文献的官方话语中隐含着系统性的话语策略，研究者需要揭示这些策略如何服务于特定的治理目标和权力配置（Codd, 1988）。
+>   **Codd（1988）** 对教育政策文献的分析融合了解释性和批判性元素：他主张运用将语言使用与权力运作相关联的话语理论，将政策文献解构。不是将其视为[[Doxa|不言自明]]的行动指南，而是追问其概念选择如何将特定利益自然化、如何排除替代方案、如何建构常识以消弭异议。教育政策文献的官方话语中隐含着系统性的话语策略，研究者需要揭示这些策略如何服务于特定的治理目标和权力配置。
 >
 >   **Purvis（1985）** 从女性主义立场出发，展示了批判性文献分析的另一种形态。她的研究不仅是对文献的解读，更是对男性知识观的挑战：她刻意利用那些被主流学术传统忽视或贬低的文献证据，女性日记、女性团体的记录、女性的私人通信，来构建一个以女性经验为中心的历史叙事。Purvis 的核心策略是：不是用新方法分析旧材料，而是用新问题发现被旧方法系统性地视为不重要的材料，以此增进对女性过去和当下经验的认识。
 
