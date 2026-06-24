@@ -5,7 +5,7 @@ aliases:
 summary: "以国家领土控制、势力范围和硬实力竞争为中心的传统地缘政治理解，与关系性和网络化的空间分析形成对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,8 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Wight's Three Traditions of International Theory]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Francis Bacon]]"
 related_facts:

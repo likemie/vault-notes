@@ -14,7 +14,7 @@ title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
+  - "[[Document]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"

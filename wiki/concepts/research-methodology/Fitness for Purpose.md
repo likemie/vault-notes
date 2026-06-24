@@ -26,7 +26,7 @@ related_concepts:
   - "[[Causality]]"
 related_theories: []
 related_methods:
-  - "[[Random Sampling]]"
+  - "[[Stratified Sampling]]"
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
 related_persons: []

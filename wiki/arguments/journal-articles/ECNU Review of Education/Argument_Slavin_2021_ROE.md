@@ -11,9 +11,9 @@ title: "Argument_Slavin_2021_ROE"
 argument_key: "Argument_Slavin_2021_ROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24."
@@ -29,8 +29,10 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
+  - "[[Document]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Operationalization]]"
+  - "[[Primary and Secondary Documents]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -108,7 +110,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文以论证性/倡导性为主，未提供新实验数据
 > - 对美英[[Evidence-Based Reform|证据本位改革]]成果的讨论偏向正面，未充分讨论批判[[Document|文献]]（如 Biesta et al.的系统批评）
-> - 中国部分主要依赖二手文献计量数据(Wang, 2017)，未独立收集原始数据
+> - 中国部分主要依赖[[Primary and Secondary Documents|二手文献]]计量数据(Wang, 2017)，未独立收集原始数据
 > - 对中英美的比较以"最佳实践借鉴"为框架，未深入讨论政治体制和文化差异对政策转移的根本限制
 
 ## 来源

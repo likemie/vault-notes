@@ -24,7 +24,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"
@@ -41,7 +42,7 @@ title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

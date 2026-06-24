@@ -11,6 +11,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Document]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Variable]]"
@@ -38,7 +39,7 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

@@ -5,7 +5,7 @@ aliases:
 summary: "围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
+  - "[[Snowball Sampling]]"
   - "[[Improvement Science]]"
 related_persons: []
 related_facts:

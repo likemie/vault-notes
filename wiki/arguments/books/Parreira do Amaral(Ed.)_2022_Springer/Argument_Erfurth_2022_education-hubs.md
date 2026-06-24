@@ -16,6 +16,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Analytic Framework]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Document]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
@@ -43,7 +44,7 @@ title: "Argument_Erfurth_2022_education-hubs"
 argument_key: "Argument_Erfurth_2022_education-hubs"
 argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

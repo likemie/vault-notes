@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
+  - "[[Document]]"
   - "[[Employability]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"

@@ -8,7 +8,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式。不同研究范式基于不同的本体论前提：实证主义的客观主义、诠释的社会建构论、复杂性理论的自组织涌现、意识形态批判的权力关系、混合方法的复杂性承认。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
+  - "[[Emergence]]"
   - "[[Axiology]]"
   - "[[Epistemology]]"
 related_theories:

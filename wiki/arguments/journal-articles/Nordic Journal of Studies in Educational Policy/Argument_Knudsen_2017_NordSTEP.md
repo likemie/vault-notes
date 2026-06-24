@@ -9,7 +9,7 @@ title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
+  - "[[Document]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"

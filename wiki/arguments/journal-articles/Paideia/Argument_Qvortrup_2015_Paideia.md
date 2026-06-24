@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2015_Paideia"
 argument_key: "Argument_Qvortrup_2015_Paideia"
 argument_display_title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Document]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"

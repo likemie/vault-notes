@@ -8,7 +8,7 @@ aliases:
 summary: "研究者反思自身角色、背景和立场如何塑造研究解释的核心概念。在现象学和俗民方法学中有双重哲学根基，在自然主义民族志中更是对客观现实概念本身的质疑。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,15 +17,20 @@ tags:
   - qualitative-research
   - paradigm/interpretive
 related_concepts:
+  - "[[Evaluation Research]]"
   - "[[Research Question]]"
   - "[[Memos]]"
+  - "[[Researcher as Key Instrument]]"
   - "[[Backyard Research]]"
+  - "[[Operationalization]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Ethnomethodology]]"
+  - "[[Critical Ethnography]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Ethnography]]"
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"

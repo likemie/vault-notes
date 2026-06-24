@@ -10,7 +10,7 @@ title: "Argument_Hall(Ed.)_2025_Springer"
 argument_key: "Argument_Hall(Ed.)_2025_Springer"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
-argument_related_count: 84
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
+  - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"

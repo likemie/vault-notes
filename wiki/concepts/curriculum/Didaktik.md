@@ -6,12 +6,13 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 related_concepts:
   - "[[Bildung]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
   - "[[Champ]]"

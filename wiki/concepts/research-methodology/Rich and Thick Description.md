@@ -8,26 +8,32 @@ aliases:
 summary: "Geertz (1973) 提出的质性研究质量标准，要求不仅提供详细的观察数据，还须包含意义、参与者诠释和不可观察因素的数据，使读者能够充分理解情境并对研究发现做出知情判断。"
 type: concept
 domain: "research-methodology"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research
   - validity
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Reliability]]"
   - "[[Qualitative Validity]]"
+  - "[[Emic and Etic]]"
   - "[[Naturalistic Generalization]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01

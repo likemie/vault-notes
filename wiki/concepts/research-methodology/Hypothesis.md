@@ -4,7 +4,7 @@ aliases: [研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
+  - "[[Paradigm]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
@@ -22,6 +23,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []

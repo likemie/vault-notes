@@ -9,15 +9,27 @@ aliases:
 summary: "Hart(1992)提出的评估儿童在研究和社会行动中参与程度的八级阶梯模型，从底层的操纵和装饰到顶层的儿童自主发起与主导，为包容性研究设计提供渐进标准"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/participation
   - theme/child-research
   - method/research-ethics
   - theme/sensitive-research
+related_methods:
+  - "[[Participatory Research]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+related_concepts:
+  - "[[Research Ethics]]"
+  - "[[Purpose Statement]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Knowledge Production]]"
+  - "[[Evaluation Research]]"
+  - "[[Analytic Framework]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22
@@ -30,7 +42,7 @@ updated: 2026-06-22
 > - **解释对象** 儿童和青少年在研究及社会行动中的参与程度——从被动操纵到自主主导的连续谱。
 > - **理论问题** 如何评估和提升儿童在影响其生活的研究和决策中的真实参与度？
 > - **理论类型** 规范性参与模型——既是对现有实践的描述和批判，也是研究者应追求的理想标准。
-> - **知识位置** 儿童研究伦理和方法论，植根于儿童权利话语（尤其是联合国《儿童权利公约》第 12 条）和[[Participatory Research|参与式研究]]传统。
+> - **知识位置** 儿童[[Research Ethics|研究伦理]]和方法论，植根于儿童权利话语（尤其是联合国《儿童权利公约》第 12 条）和[[Participatory Research|参与式研究]]传统。
 
 ## 核心命题与机制
 
@@ -48,7 +60,7 @@ updated: 2026-06-22
 > |---|---|---|
 > | 非参与层级（底部三级） | 分类 | 界定虚假参与的形式：操纵、装饰、象征主义 |
 > | 指派但不知情 | 分类 | 过渡层级——儿童了解任务但不理解全貌 |
-> | 协商与知情 | 分类 | 真实参与的起点——儿童被征询并知晓研究目的 |
+> | 协商与知情 | 分类 | 真实参与的起点——儿童被征询并知晓[[Purpose Statement\|研究目的]] |
 > | 成人发起·共同决策 | 分类 | 高参与——成人发起但儿童共享决策权 |
 > | 儿童发起与主导 | 分类 | 最高参与——儿童自主发起并主导研究 |
 
@@ -64,14 +76,14 @@ updated: 2026-06-22
 
 ## 理论立场与使用方式
 
-> [!theory-stance] 认识论与方法论立场
-> - **本体论** 儿童是社会行动者和知识生产者，而非成人知识的被动接受者或研究对象。
+> [!theory-stance] [[Epistemology|认识论]]与方法论立场
+> - **[[Ontology|本体论]]** 儿童是社会行动者和[[Knowledge Production|知识生产]]者，而非成人知识的被动接受者或研究对象。
 > - **认识论** 儿童拥有关于自身生活的独特知识——成人若不将儿童纳入知识生产，就无法充分理解儿童的世界。
 > - **方法含义** 研究方法应使儿童能够以符合其发展水平的方式表达自身观点。研究者应主动检查自身研究在阶梯上的位置。
-> - **不能直接推出的东西** 不能从参与阶梯推出"所有研究都应追求最高层级"——研究目的、儿童的安全和实际可行性共同决定适当的参与层级。不能推出成人应放弃对儿童的保护责任。
+> - **不能直接推出的东西** 不能从参与阶梯推出"所有研究都应追求最高层级"——[[Purpose Statement|研究目的]]、儿童的安全和实际可行性共同决定适当的参与层级。不能推出成人应放弃对儿童的保护责任。
 
 > [!theory-use] 研究中的使用方式
-> - **框架** 作为设计和评估研究中儿童参与程度的分析框架
+> - **框架** 作为设计和[[Evaluation Research|评估研究]]中儿童参与程度的[[Analytic Framework|分析框架]]
 > - **工具** 作为研究者自我审视的工具——"我的研究在阶梯的哪个位置？"
 > - **批判视角** 作为批评"成人中心"研究实践的规范性标准
 > - **报告方式** 在方法部分说明研究的参与层级并解释其选择

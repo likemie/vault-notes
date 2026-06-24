@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Agendas of Attention]]"
   - "[[Readings of the Global]]"
   - "[[Analytic Framework]]"

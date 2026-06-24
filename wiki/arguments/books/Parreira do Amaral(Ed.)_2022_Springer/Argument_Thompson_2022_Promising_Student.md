@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Analytic Framework]]"
   - "[[Governmentality]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
   - "[[Learning Analytics]]"

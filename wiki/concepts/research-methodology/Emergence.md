@@ -4,19 +4,25 @@ aliases: [涌现, emergent properties, emergent order, 涌现秩序]
 summary: "复杂性理论的核心概念，指系统从低层元素互动中自发产生高层复杂性和新结构的过程，整体行为大于部分之和且不可还原为部分。"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [theme/complexity-theory, theme/systems-thinking, paradigm/complexity]
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Research Question]]"
+  - "[[Progressive Focussing]]"
 related_theories:
   - "[[Complexity Theory]]"
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Grounded Theory]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-06-13

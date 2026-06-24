@@ -7,7 +7,7 @@ aliases:
 summary: "通过规定、胁迫或暴力把知识自上而下强加给他者的知识转移形态，用于分析支配性教育和意识形态灌输。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Exchange]]"
   - "[[Junzi]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"

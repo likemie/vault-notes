@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,8 @@ related_concepts:
   - "[[Front-loaded and End-loaded Research]]"
   - "[[Hypothesis]]"
   - "[[Research Utilization]]"
+  - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
@@ -71,7 +73,9 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Quantitative Research]]"
   - "[[Triangulation]]"
+  - "[[Participant Observation]]"
   - "[[Meta-analysis]]"
+  - "[[Documentary Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"

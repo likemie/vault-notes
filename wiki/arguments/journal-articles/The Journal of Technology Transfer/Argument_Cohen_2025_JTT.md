@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Responsible Innovation]]"
   - "[[UIC Impact Measurement]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Counterfactual]]"
   - "[[Knowledge Exchange]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Blue Skies Research]]"
@@ -320,7 +322,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > 3. **执行**（execute）：根据审查结果调整资源分配和活动优先级
 > 4. **预判**（project）：基于当前进展重新评估未来可能产生的影响
 > 
-> 原始文献使用"效益管理系统"（benefit management system）这一术语，但考虑到影响同时包含正面和负面效果，Cohen et al.将其重命名为"影响管理系统"(p.364)。
+> [[Primary and Secondary Documents|原始文献]]使用"效益管理系统"（benefit management system）这一术语，但考虑到影响同时包含正面和负面效果，Cohen et al.将其重命名为"影响管理系统"(p.364)。
 > 
 > 与策略 1–3 的关键区别：前三项策略是评估者从外部施加的测量手段；影响管理系统则要求合作组织自身内建这套流程，使每位参与者——而非仅评估者——成为影响的持续记录者。正因为这一内生性，它被归类为"外生策略"——评估者无法独立部署，实施取决于合作组织的管理意愿和能力(pp.364, 366)。
 > 

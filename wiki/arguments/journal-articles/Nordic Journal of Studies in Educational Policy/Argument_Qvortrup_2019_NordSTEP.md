@@ -9,9 +9,9 @@ title: "Argument_Qvortrup_2019_NordSTEP"
 argument_key: "Argument_Qvortrup_2019_NordSTEP"
 argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Nordic Journal of Studies in Educational Policy
 citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7."
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Causality]]"

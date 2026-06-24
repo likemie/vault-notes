@@ -7,20 +7,46 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 26
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
   - paradigm/qualitative
   - method/ethnography
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Epistemology]]"
+  - "[[Effect Size]]"
+  - "[[Domain Analysis]]"
+  - "[[Progressive Focussing]]"
+  - "[[Analytic Induction]]"
+  - "[[Gatekeepers]]"
+  - "[[Reflexivity]]"
+  - "[[Reliability]]"
+  - "[[Covert Research]]"
+  - "[[Familiarization]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Causality]]"
+related_theories:
+  - "[[Critical Ethnography]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Ethnography]]"
+  - "[[Triangulation]]"
+  - "[[Grounded Theory]]"
+  - "[[Autoethnography]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Purposeful Sampling]]"
+  - "[[Snowball Sampling]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -88,7 +114,7 @@ Wolff（2004: 195–196）和 Flick（1998: 57）指出进入现场的六项关�
 > | 现场进入后才显现 | 被研究现场的真实面貌只有在研究者进入之后才会逐渐清晰。 |
 > | 研究无回报 | 研究通常对被研究系统没有任何直接回报，但也没有理由拒绝。 |
 
-Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，[[Governance by Spin|印象管理]]（Hammersley & Atkinson, 1983: 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–427)]]
+Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，印象管理（Hammersley & Atkinson, 1983: 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–427)]]
 
 > [!case] Patrick（1973）：格拉斯哥帮派[[Ethnography|民族志]]中的角色张力
 > Patrick 以隐蔽研究者身份进入一个格拉斯哥帮派开展参与观察。他必须完全融入帮派文化——采纳其语言、着装和行为规范——同时秘密记录田野笔记。当目击一起谋杀时，两难达到顶点：举报意味着暴露身份并危及自身生命，不举报则意味着对严重犯罪保持沉默。这个极端案例揭示了参与观察中角色、伦理和安全之间不可调和的张力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 416–417)]]

@@ -10,7 +10,7 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,7 +28,9 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
+  - "[[Value Neutrality]]"
   - "[[Hegemony]]"
+  - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"

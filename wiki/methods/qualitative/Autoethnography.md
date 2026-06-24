@@ -7,16 +7,25 @@ summary: "研究者编撰关于自己生活或情境的个人化、主观性叙�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 1
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/ethnography
   - paradigm/qualitative
-related_concepts: []
+related_concepts:
+  - "[[Reflexivity]]"
+  - "[[Epistemology]]"
+  - "[[Research Question]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Narrative Research]]"
+  - "[[Participant Observation]]"
+  - "[[Qualitative Interview]]"
+  - "[[Triangulation]]"
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

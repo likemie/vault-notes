@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -25,6 +25,8 @@ tags:
   - theme/history-of-education
 related_concepts:
   - "[[Research Question]]"
+  - "[[Document]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Progressive Education]]"
   - "[[Reliability]]"
   - "[[Cultural Diplomacy]]"
@@ -79,7 +81,7 @@ citation_aliases:
 > - **[[Archival Correspondence Analysis|档案通信分析]]**：以 Dewey 在 1928 年 5–8 月的私人通信为核心一手资料，包括他收到的和发出的信件，逐日重建其行程和会面对象(p.102)
 > - **报纸报道追踪**：系统检索纽约时报 1928 年 5 月 14 日至 7 月 22 日期间关于此行的连续报道（至少六篇），分析此行如何被公众舆论呈现(pp.104–106)
 > - **外交函件分析**：使用美国国务院档案中的三份关键[[Document|文件]]——Welsh 1928 年 5 月 16 日的指控信、助理国务卿 Castle 5 月 29 日的监控指示、驻德外交官 Schurman 7 月 26 日的总结报告——重建政府层面对此行的态度(pp.107–109)
-> - **二手文献补充**：Dewey 传记（Martin 2003; Dykhuizen 1973）、苏联教育史研究（Fitzpatrick; Holmes; Kirschenbaum; Partlett 2011）和 Dewey 在俄接受史研究（Mchitarjan 2000; Gorshkova 2015）提供历史背景和解读框架
+> - **[[Primary and Secondary Documents|二手文献]]补充**：Dewey 传记（Martin 2003; Dykhuizen 1973）、苏联教育史研究（Fitzpatrick; Holmes; Kirschenbaum; Partlett 2011）和 Dewey 在俄接受史研究（Mchitarjan 2000; Gorshkova 2015）提供历史背景和解读框架
 >
 > 该研究的核心方法操作是：将三组不同来源的资料按时间线对齐，对比同一事件在私人通信、公开报道和政府档案中的不同呈现，从中识别出每一方的视角偏向和利益(pp.102–103)。
 

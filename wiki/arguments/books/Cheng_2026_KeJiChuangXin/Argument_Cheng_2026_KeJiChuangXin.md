@@ -11,7 +11,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/industrial-innovation
   - region/china
 related_concepts:
+  - "[[Document]]"
   - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"

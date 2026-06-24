@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - paradigm/critical
   - level/k12
 related_concepts:
+  - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
   - "[[Evaluation Research]]"

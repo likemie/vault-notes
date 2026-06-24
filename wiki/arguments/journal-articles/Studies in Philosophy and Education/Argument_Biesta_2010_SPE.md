@@ -9,7 +9,7 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"

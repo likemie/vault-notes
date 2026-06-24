@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Bildung]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Discipline-Based Theory]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
@@ -33,6 +34,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Realism]]"
+  - "[[Pragmatic Constructivism]]"
 related_methods: []
 related_persons:
   - "[[John Dewey]]"

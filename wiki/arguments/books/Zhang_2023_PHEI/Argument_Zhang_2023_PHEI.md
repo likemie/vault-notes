@@ -11,7 +11,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -36,8 +36,8 @@ sources:
 part_of:
 related_concepts:
   - "[[Innovation Hub]]"
-  - "[[Literature Review]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Literature Review]]"
   - "[[Research Question]]"
   - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
@@ -46,7 +46,9 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Evaluation Research]]"
   - "[[International Education]]"
+  - "[[Document]]"
 related_theories:
+  - "[[Luhmann's Systems Theory]]"
   - "[[Systems of Innovation]]"
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"

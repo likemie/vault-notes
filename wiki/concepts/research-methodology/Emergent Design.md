@@ -7,21 +7,24 @@ aliases:
 summary: "质性研究的核心特征之一：研究计划在研究者进入现场并开始收集数据后会演变和变化，问题、数据收集形式和研究对象都可能随之调整"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research
 related_concepts:
   - "[[Emergence]]"
+  - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Theoretical Sampling]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []

@@ -6,20 +6,30 @@ aliases:
 summary: "批判理论在行动中的民族志：将权力、不平等和解放作为民族志研究的核心关切，以改变而非仅仅描述社会现实为目标。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/critical
   - paradigm/qualitative
   - method/ethnography
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Post-colonial Theory]]"
+  - "[[Reflexivity]]"
+  - "[[Emic and Etic]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Research Question]]"
+related_theories:
+  - "[[Critical Theory]]"
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Ideology Critique]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-06-24

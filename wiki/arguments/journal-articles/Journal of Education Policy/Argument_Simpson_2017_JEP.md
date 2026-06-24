@@ -9,7 +9,7 @@ title: "Argument_Simpson_2017_JEP"
 argument_key: "Argument_Simpson_2017_JEP"
 argument_display_title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
+  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Null Hypothesis]]"
   - "[[Homework]]"

@@ -11,9 +11,9 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Review of Education
 citation: "Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335."
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Justified Warrants]]"
   - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Research Scope]]"
   - "[[Internal and External Generalizability]]"
   - "[[Falsification]]"

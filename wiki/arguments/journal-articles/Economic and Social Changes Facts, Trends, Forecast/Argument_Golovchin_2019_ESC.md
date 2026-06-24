@@ -9,7 +9,7 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"

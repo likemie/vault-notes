@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Transfer]]"
+  - "[[Document]]"
   - "[[Technology Infusion]]"
   - "[[Executive Education]]"
   - "[[Professors of Practice]]"
@@ -50,7 +51,8 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"

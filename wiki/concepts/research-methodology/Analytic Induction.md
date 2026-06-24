@@ -6,19 +6,29 @@ aliases:
 summary: "Znaniecki (1934) 提出的质性研究策略：从数据生成理论后，主动寻找偏差或否证案例，通过反复修正理论直至其经得起严格检验。"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/data-analysis
   - paradigm/qualitative
-related_concepts: []
+related_concepts:
+  - "[[Falsification]]"
+  - "[[Emergence]]"
+  - "[[Progressive Focussing]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Grounded Theory]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Quantitative Research]]"
+related_persons:
+  - "[[Karl Popper]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-06-24

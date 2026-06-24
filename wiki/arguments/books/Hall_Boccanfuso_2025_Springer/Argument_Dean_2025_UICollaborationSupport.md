@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Cooperative Education]]"
   - "[[Declaration on Research Assessment]]"
+  - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Evaluation Research]]"
   - "[[Academic Freedom]]"

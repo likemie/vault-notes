@@ -10,7 +10,7 @@ title: "Argument_Parreira do Amaral_2022_Springer"
 argument_key: "Argument_Parreira do Amaral_2022_Springer"
 argument_display_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -48,7 +48,8 @@ related_concepts:
   - "[[Knowledge Transfer]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Sami Moisio]]"
   - "[[Marcelo Parreira do Amaral]]"

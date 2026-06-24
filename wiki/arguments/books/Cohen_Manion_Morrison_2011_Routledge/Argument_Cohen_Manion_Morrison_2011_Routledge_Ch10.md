@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 102
+argument_related_count: 105
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Audit Trail]]"
   - "[[Negative Case Analysis]]"
+  - "[[Document]]"
   - "[[Descriptive Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Theoretical Validity]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Null Hypothesis]]"
   - "[[Ontology]]"
+  - "[[Making the Familiar Strange]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -131,6 +133,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Qualitative Observation]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Participant Observation]]"
 related_facts:
   - "[[ResearchED]]"
 sources:

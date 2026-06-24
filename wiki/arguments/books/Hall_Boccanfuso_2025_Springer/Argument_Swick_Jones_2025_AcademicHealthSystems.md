@@ -20,6 +20,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
+  - "[[Document]]"
   - "[[Technology Transfer Office]]"
   - "[[Valley of Death]]"
   - "[[Institutional Review Board]]"
@@ -49,7 +50,7 @@ title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

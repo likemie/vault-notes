@@ -6,19 +6,31 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - paradigm/qualitative
   - method/validity
-related_concepts: []
+related_concepts:
+  - "[[Hawthorne Effect]]"
+  - "[[Reflexivity]]"
+  - "[[Analytic Framework]]"
+  - "[[Champ]]"
+  - "[[Purpose Statement]]"
+  - "[[Blinding]]"
+  - "[[Research Ethics]]"
+  - "[[Qualitative Validity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Triangulation]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-06-24

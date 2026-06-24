@@ -10,7 +10,7 @@ title: "Argument_Johnson_2023_CE"
 argument_key: "Argument_Johnson_2023_CE"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Scientism]]"
   - "[[Cargo Cult Science]]"
+  - "[[Document]]"
   - "[[Homework]]"
   - "[[Neo-Taylorism]]"
   - "[[Class Size]]"

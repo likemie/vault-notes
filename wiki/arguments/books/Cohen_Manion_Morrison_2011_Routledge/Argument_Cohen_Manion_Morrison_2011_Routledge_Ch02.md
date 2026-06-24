@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 58
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 61
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Purpose Statement]]"
   - "[[External Validity]]"
+  - "[[Reliability]]"
   - "[[Consequential Validity]]"
   - "[[Effect Size]]"
 related_theories:
@@ -70,12 +71,14 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
+  - "[[Critical Ethnography]]"
 related_methods:
   - "[[Ideology Critique]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
+  - "[[Participant Observation]]"
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Ethnography]]"

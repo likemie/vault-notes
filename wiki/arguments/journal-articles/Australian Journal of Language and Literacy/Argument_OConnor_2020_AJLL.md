@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Simple View of Reading]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Study Population and Sample]]"
+  - "[[Document]]"
   - "[[Language Experience Approach]]"
   - "[[Positivism]]"
   - "[[Class Size]]"
@@ -43,9 +45,10 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ken Goodman]]"
+  - "[[Gene Glass]]"
   - "[[Steven Stahl]]"
   - "[[William Jeynes]]"
-  - "[[Gene Glass]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"

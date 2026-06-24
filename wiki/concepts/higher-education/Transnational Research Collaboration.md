@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Innovation Hub]]"
 related_theories:
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons: []
 related_facts:
   - "[[Australia in the Asian Century White Paper]]"

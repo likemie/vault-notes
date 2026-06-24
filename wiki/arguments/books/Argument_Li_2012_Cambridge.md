@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 113
+argument_related_count: 115
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -24,6 +24,7 @@ tags:
 - theme/cultural-psychology
 related_concepts:
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Ideal Learner]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Faust]]"
@@ -73,6 +74,7 @@ related_concepts:
   - "[[Learning Gap]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Bildung]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"

@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - "source/edited-volume"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[Academic Engagement Team]]"
   - "[[Research Translation]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Paradigm]]"
   - "[[Joint Faculty Appointments]]"
+  - "[[Research Question]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Scope]]"
   - "[[Precompetitive Research]]"

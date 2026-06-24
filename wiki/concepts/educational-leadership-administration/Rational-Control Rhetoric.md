@@ -7,15 +7,16 @@ aliases:
 summary: "管理修辞分类学中的核心概念，指在组织面临慢性、缓慢绩效下滑时，系统自发采用的强调标准化、逻辑化和确定性控制的技术性改进话语。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-leadership-administration
   - theory/management-rhetoric
   - theme/managerialism
 related_concepts:
+  - "[[Disciplina and Doctrina]]"
   - "[[Effect Size]]"
   - "[[Technical Rationality]]"
   - "[[Return on Investment]]"

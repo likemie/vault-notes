@@ -8,7 +8,7 @@ aliases:
 summary: "根据研究各阶段时间分布特征区分的研究类型：前载型设置耗时长但分析快（典型为量化调查），后载型设置快但数据收集分析耗时长（典型为质性民族志），混合方法介于两者之间"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
+  - "[[Participant Observation]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -7,10 +7,10 @@ aliases:
 summary: "研究者或评分者对某人或某情境的了解对后续判断产生系统性影响的认知偏差，在数据分析阶段和测验评分中尤为突出，表现为早期严格后期宽松、或基于单一正面印象给予不应得的有利评估"
 type: concept
 domain: "research-methodology"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity
@@ -24,6 +24,10 @@ related_concepts:
   - "[[Reliability]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+related_methods:
+  - "[[Ethnography]]"
+  - "[[Triangulation]]"
 status: draft
 created: 2026-06-24
 updated: 2026-06-24

@@ -9,7 +9,7 @@ title: "Argument_Hattie_2010_NZJES"
 argument_key: "Argument_Hattie_2010_NZJES"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Conflict of Interest in Research]]"
   - "[[External Validity]]"
+  - "[[Document]]"
   - "[[Research Scope]]"
   - "[[Academic Engagement]]"
   - "[[Value Neutrality]]"

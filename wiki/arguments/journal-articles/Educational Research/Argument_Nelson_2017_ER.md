@@ -10,7 +10,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Analytic Framework]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Definition of Terms]]"
 related_theories: []

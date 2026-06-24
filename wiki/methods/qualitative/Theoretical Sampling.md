@@ -7,9 +7,9 @@ summary: "扎根理论的核心抽样方法，数据收集与分析迭代推进�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
@@ -18,14 +18,17 @@ tags:
 related_concepts:
   - "[[Saturation]]"
   - "[[Sample Size Determination]]"
+  - "[[Emergence]]"
+  - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
-  - "[[Non-probability Sampling]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 confidence: medium
 status: draft

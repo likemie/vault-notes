@@ -16,6 +16,7 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
@@ -38,7 +39,7 @@ title: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

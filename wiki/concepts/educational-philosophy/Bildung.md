@@ -6,7 +6,7 @@ aliases:
 summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与在线自我评估（Online Self-Assessment, OSA）可预测性逻辑构成根本张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Epochal Key Problems]]"
   - "[[Buen Vivir]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Learning Analytics]]"
   - "[[Academic Freedom]]"
   - "[[Critical Pedagogy]]"
@@ -29,6 +30,7 @@ related_theories:
   - "[[Autopoiesis]]"
 related_methods: []
 related_persons:
+  - "[[Steen Nepper Larsen]]"
   - "[[Wolfgang Klafki]]"
 related_facts: []
 related_arguments:

@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,9 +37,11 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
+  - "[[Document]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
+  - "[[Snowball Sampling]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"

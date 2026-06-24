@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Nomothetic and Idiographic]]"
+  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Operationalization]]"
@@ -76,6 +77,7 @@ related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Complexity Theory]]"
 related_methods:
+  - "[[Participant Observation]]"
   - "[[Interview Protocol]]"
   - "[[Qualitative Interview]]"
   - "[[Mixed Methods Research]]"

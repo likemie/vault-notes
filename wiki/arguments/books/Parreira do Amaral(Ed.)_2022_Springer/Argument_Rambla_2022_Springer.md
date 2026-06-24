@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Regulatory Regionalism]]"
+  - "[[Document]]"
   - "[[Doxa]]"
   - "[[Network Governance]]"
   - "[[Neocorporatism]]"

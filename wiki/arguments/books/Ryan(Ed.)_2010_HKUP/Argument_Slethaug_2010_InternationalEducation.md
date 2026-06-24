@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[Global Universities Rankings]]"

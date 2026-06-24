@@ -13,9 +13,9 @@ title: "Argument_Wolf_2020_JREE"
 argument_key: "Argument_Wolf_2020_JREE"
 argument_display_title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Research on Educational Effectiveness
 citation: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447."
@@ -30,9 +30,11 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Effect Size]]"
+  - "[[Sample Size Determination]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Causality]]"

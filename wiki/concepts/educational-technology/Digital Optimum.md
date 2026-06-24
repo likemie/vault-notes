@@ -8,7 +8,7 @@ aliases:
 summary: "算法理性在持续优化评估环境中产生的理想学生参照形象，作为比较标准传递对学生表现的具体期望，并通过与数字自我的差异推动自我优化和算法治理。"
 type: concept
 domain: "educational-technology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Construct]]"
   - "[[Digital Self]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"

@@ -4,19 +4,21 @@ aliases: ["学术写作的语态时态与简洁", "active voice in research writ
 summary: "Franklin (1986) 三阶段模型的打磨层面，包含主动语态优于被动、动词时态遵循 APA (2020) 指南、修剪多余词语三项语言规范，共同构成学术写作在句子和词语层面的可读性基础"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [theme/academic-writing, theme/writing-style]
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Champ]]"
   - "[[Sage]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Ethnography]]"
 related_persons: []
 related_facts: []
 related_arguments:

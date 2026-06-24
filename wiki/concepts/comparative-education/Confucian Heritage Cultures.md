@@ -9,7 +9,7 @@ aliases:
 summary: "受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
+  - "[[Bildung]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"

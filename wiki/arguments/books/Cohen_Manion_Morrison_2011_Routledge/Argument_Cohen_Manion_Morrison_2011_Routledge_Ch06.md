@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -26,7 +26,9 @@ tags:
   - source/textbook
   - theme/research-planning
 related_concepts:
+  - "[[Document]]"
   - "[[Fitness for Purpose]]"
+  - "[[Reliability]]"
   - "[[Research Topic]]"
   - "[[Research Contribution]]"
   - "[[Literature Search]]"

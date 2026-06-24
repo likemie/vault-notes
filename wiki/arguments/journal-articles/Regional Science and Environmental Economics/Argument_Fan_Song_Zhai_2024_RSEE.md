@@ -7,9 +7,9 @@ title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: "Regional Science and Environmental Economics"
 authors:
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Spatial Sortings]]"
   - "[[Causality]]"
+  - "[[Document]]"
 related_theories:
   - "[[Coupling Coordination Theory]]"
 related_methods:

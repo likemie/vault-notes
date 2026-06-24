@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -39,10 +39,12 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Network Society]]"
 related_methods:
+  - "[[Snowball Sampling]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:

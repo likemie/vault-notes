@@ -17,7 +17,7 @@ tags:
   - theme/research-governance
 related_concepts:
   - "[[Covert Research]]"
-  - "[[Ethics Debriefing]]"
+  - "[[Non-maleficence and Beneficence in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []

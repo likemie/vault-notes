@@ -10,9 +10,9 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: 'Discourse: Studies in the Cultural Politics of Education'
 citation: "McKnight, L. & Whitburn, B. (2020). Seven reasons to question the hegemony of Visible Learning. Discourse: Studies in the Cultural Politics of Education, 41(1), 32–44."
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Post-structuralism]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"

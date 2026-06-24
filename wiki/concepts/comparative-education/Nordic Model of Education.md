@@ -7,7 +7,7 @@ aliases:
 summary: "北欧福利国家制度的核心支柱，以民主、团结、社会公平和人人平等为原则，致力于通过公共均等化基础教育促进社会整合"
 type: concept
 domain: "comparative-education"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,12 +16,19 @@ tags:
   - education-policy
   - region/nordic
   - social-welfare
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Global Education Industry]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[PISA]]"
+  - "[[OECD]]"
+related_arguments:
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: high
 status: draft
 created: '2026-06-22'

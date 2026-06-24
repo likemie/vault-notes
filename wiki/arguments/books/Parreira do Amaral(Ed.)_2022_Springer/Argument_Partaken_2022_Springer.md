@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
+  - "[[Document]]"
   - "[[Narrative Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge-Based Economy]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
   - "[[Economic and Industrial Espionage]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
   - "[[Knowledge Sabotage]]"

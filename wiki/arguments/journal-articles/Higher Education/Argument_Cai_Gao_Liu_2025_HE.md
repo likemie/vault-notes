@@ -7,7 +7,7 @@ title: "Argument_Cai_Gao_Liu_2025_HE"
 argument_key: "Argument_Cai_Gao_Liu_2025_HE"
 argument_display_title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_kind: "journal-article"
-argument_related_count: 6
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -30,12 +30,14 @@ tags:
   - region/china
   - source/journal-article
 related_concepts:
+  - "[[Document]]"
   - "[[Structural Holes]]"
   - "[[Research Question]]"
 related_theories:
   - "[[Lefebvre's Spatial Triad]]"
 related_methods:
   - "[[Purposeful Sampling]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
 related_persons: []
 related_facts:

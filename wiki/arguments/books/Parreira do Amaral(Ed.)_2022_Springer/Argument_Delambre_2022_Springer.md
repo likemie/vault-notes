@@ -9,7 +9,7 @@ title: "Argument_Delambre_2022_Springer"
 argument_key: "Argument_Delambre_2022_Springer"
 argument_display_title: "Creative Tension of Sense and the Whole Approach to Knowledge and Practice"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[Tense Society]]"
   - "[[Paradigm]]"
   - "[[Official Knowledge]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Social Museology]]"
+  - "[[Sample Size Determination]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Transition Design]]"

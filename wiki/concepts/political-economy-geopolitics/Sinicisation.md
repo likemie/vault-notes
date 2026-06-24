@@ -7,10 +7,10 @@ aliases:
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/cultural-assimilation
@@ -19,6 +19,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Construct]]"
+  - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"

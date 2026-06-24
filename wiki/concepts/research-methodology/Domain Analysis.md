@@ -6,19 +6,25 @@ aliases:
 summary: "质性数据分析的第二步：将编码条目和单元归入相关群组、主题和模式，一个领域（domain）是包含若干其他范畴的上位范畴。"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - method/data-analysis
   - paradigm/qualitative
-related_concepts: []
+related_concepts:
+  - "[[Causality]]"
+  - "[[Progressive Focussing]]"
+  - "[[Analytic Induction]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Grounded Theory]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
 created: 2026-06-24

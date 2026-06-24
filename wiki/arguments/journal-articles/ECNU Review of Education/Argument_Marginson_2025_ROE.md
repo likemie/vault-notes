@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Scale in Higher Education]]"
+  - "[[Document]]"
   - "[[Champ]]"
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"

@@ -9,9 +9,9 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61-69."
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
+  - "[[Document]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Homework]]"
   - "[[Learning Gap]]"
   - "[[Transfer Translation Transformation]]"
@@ -70,7 +72,7 @@ citation_aliases:
 
 > [!info]
 > - 方法：理论评论 + 政策论证 + [[Document|文献]]综合。
-> - 资料来源：Hattie 的 [[Visible Learning]] 系列、关于教师[[Professional Judgment|专业判断]]与学习共同体的研究，以及对证据争论和学校改进路径的二手文献讨论(pp.61–69)。
+> - 资料来源：Hattie 的 [[Visible Learning]] 系列、关于教师[[Professional Judgment|专业判断]]与学习共同体的研究，以及对证据争论和学校改进路径的[[Primary and Secondary Documents|二手文献]]讨论(pp.61–69)。
 > - 类型：不是实证研究，也不是方法报告，而是一篇面向学校改进实践的立场性综述，重点是把多个争论串起来，说明为什么“聚焦学习并使用研究证据”会被推到教育系统改革的主线上(pp.61–69)。
 
 ## 论证结构

@@ -6,10 +6,10 @@ aliases:
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - global-education-industry
   - privatization
@@ -18,12 +18,41 @@ tags:
   - higher-education
   - region/global
   - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[School Choice]]"
+  - "[[Corporate Education]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[External Auditor]]"
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Learning Analytics]]"
+  - "[[Knowledge Production]]"
+  - "[[New Public Management]]"
+  - "[[Corporate University]]"
+  - "[[Bildung]]"
+  - "[[Ontology]]"
+  - "[[Epochal Key Problems]]"
+  - "[[International Education Hubs]]"
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Partnership Schools Kura Hourua]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
+  - "[[Minerva University]]"
+  - "[[Finnish National Core Curriculum]]"
+  - "[[SveaSus Project]]"
+related_arguments:
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 confidence: high
 status: draft
 created: '2026-05-07'

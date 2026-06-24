@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Causality]]"
   - "[[Externalization]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []

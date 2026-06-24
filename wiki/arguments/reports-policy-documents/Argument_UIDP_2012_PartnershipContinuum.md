@@ -13,7 +13,7 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Innovation Park]]"
   - "[[Entrepreneur in Residence]]"
+  - "[[Innovation Hub]]"
   - "[[Further Education]]"
 related_theories: []
 related_methods: []

@@ -7,7 +7,7 @@ aliases:
 summary: "以排名、指标化和审计文化为基础设施的高等教育竞争逻辑，将大学重塑为争夺资源、声誉和地位的市场参与者。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Governmentality]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Stakeholder University]]"
 related_theories:
   - "[[Societies of Control]]"

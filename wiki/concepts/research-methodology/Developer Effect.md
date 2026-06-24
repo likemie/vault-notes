@@ -5,7 +5,7 @@ aliases:
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Sample Size Determination]]"
   - "[[Study Population and Sample]]"
   - "[[Causality]]"
   - "[[Publication Bias]]"

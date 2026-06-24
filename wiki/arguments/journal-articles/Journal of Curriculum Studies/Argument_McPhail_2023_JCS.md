@@ -11,9 +11,9 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "McPhail, G., Ormond, B., & Siteine, A. (2023). Knowledge and the New Zealand curriculum refresh. Journal of Curriculum Studies, 55(5), 509-526."
@@ -23,6 +23,7 @@ tags:
   - theory/social-realism
   - critique/curriculum
 related_concepts:
+  - "[[Document]]"
   - "[[Surface and Deep Learning]]"
   - "[[Social Realism]]"
   - "[[Epistemology]]"

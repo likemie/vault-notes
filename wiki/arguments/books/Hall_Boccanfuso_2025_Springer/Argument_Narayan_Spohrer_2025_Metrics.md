@@ -14,6 +14,7 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Blue Skies Research]]"
   - "[[Academic Freedom]]"
+  - "[[Document]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Industry Co-location]]"
   - "[[Paradigm]]"
@@ -45,7 +46,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

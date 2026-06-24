@@ -9,7 +9,7 @@ aliases:
 summary: 西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新
 type: concept
 domain: "educational-philosophy"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,12 +17,20 @@ tags:
   - educational-philosophy
   - curriculum-theory
   - sociology-of-knowledge
-related_concepts: []
+related_concepts:
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Global Education Industry]]"
+  - "[[Ontology]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[OECD]]"
+  - "[[PISA]]"
+related_arguments:
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: high
 status: draft
 created: 2026-06-22

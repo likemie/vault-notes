@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ tags:
   - source/textbook
   - topic/ethics
 related_concepts:
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Covert Research]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -45,7 +46,6 @@ related_concepts:
   - "[[Sensitive Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Betrayal in Research]]"
-  - "[[Ethics Debriefing]]"
   - "[[Deception in Research]]"
   - "[[Hypothesis]]"
   - "[[Privacy in Research]]"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Member Checking]]"
+  - "[[Participant Observation]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []

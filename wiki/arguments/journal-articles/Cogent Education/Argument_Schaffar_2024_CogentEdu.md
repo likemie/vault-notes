@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,22 +38,27 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Discipline-Based Theory]]"
+  - "[[Nordic Model of Education]]"
   - "[[International Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Education Industry]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Problem-Based Learning]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Pragmatic Constructivism]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Wolfgang Klafki]]"
-  - "[[Edmund Husserl]]"
   - "[[George Herbert Mead]]"
+  - "[[Edmund Husserl]]"
 related_facts:
-  - "[[SveaSus Project]]"
   - "[[OECD]]"
+  - "[[SveaSus Project]]"
   - "[[PISA]]"
 related_arguments: []
 sources:

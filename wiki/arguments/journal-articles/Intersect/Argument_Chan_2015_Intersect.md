@@ -17,9 +17,10 @@ tags:
   - theory/informationalism
   - theme/political-economy
 related_concepts:
-  - "[[Soviet Statism]]"
   - "[[Informationalization]]"
+  - "[[Soviet Statism]]"
   - "[[State Vertical]]"
+  - "[[Document]]"
   - "[[Falsification]]"
   - "[[Governance by Spin]]"
   - "[[Military-Industrial Black Hole]]"
@@ -32,7 +33,8 @@ related_concepts:
 related_theories:
   - "[[Informationalism]]"
   - "[[Technological Trajectories]]"
-related_methods: []
+related_methods:
+  - "[[Snowball Sampling]]"
 related_persons:
   - "[[Manuel Castells]]"
   - "[[Trofim Lysenko]]"
@@ -53,7 +55,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
