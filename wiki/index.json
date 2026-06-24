@@ -5718,12 +5718,17 @@
     ]
   },
   {
-    "title": "Primary Document",
+    "title": "Primary and Secondary Documents",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Primary Document.md",
+    "path": "wiki/concepts/research-methodology/Primary and Secondary Documents.md",
     "aliases": [
-      "一手文献",
+      "一手文献与二手文献",
+      "primary document",
+      "secondary document",
       "primary source",
+      "secondary source",
+      "一手文献",
+      "二手文献",
       "原始文献"
     ]
   },
@@ -6129,15 +6134,6 @@
       "筛选隔离",
       "屏蔽",
       "screening off"
-    ]
-  },
-  {
-    "title": "Secondary Document",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Secondary Document.md",
-    "aliases": [
-      "二手文献",
-      "secondary source"
     ]
   },
   {

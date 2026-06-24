@@ -135,9 +135,9 @@ updated: 2026-06-24
 >   由研究者自己作为研究数据制作，如访谈转录稿或完成的问卷（Silverman, 2001: 119）。电子技术极大便利了以多种格式快速交换这类征集的文献，但它们的认知地位与自然发生的文献有本质区别。
 
 > [!feature] 第四轴 按一手/二手（primary/secondary）划分
-> - **[[Primary Document|一手文献]]（primary document）**
+> - **[[Primary and Secondary Documents|一手文献]]（primary document）**
 >   由事件的目击者或参与者作为对事件的直接记录而生产的文献。它构成历史研究的原材料，是后续一切分析和解释的出发点。
-> - **[[Secondary Document|二手文献]]（secondary document）**
+> - **[[Primary and Secondary Documents|二手文献]]（secondary document）**
 >   通过对一手文献的分析形成的对事件的阐述，通常将单个事件置于更广泛的比较或综合语境中。二手文献提供了研究者进入一个领域的入口和导航，但不可避免地经过作者的分析过滤。
 
 前三轴分类边界相对清晰；第四轴则存在大量边界模糊情形。

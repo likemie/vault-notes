@@ -107,7 +107,7 @@ updated: 2026-06-24
 ## 概念辨析
 
 > [!contrast-table] 文献与相近概念的区别
-> | 维度 | 文献 (Document) | 二手文献 (Secondary Document) | 研究者自产资料 (Researcher-produced Data) |
+> | 维度 | 文献 (Document) | [[Primary and Secondary Documents\|二手文献]] | 研究者自产资料 (Researcher-produced Data) |
 > |------|----------------|------------------------------|-------------------------------------------|
 > | 生产者 | 事件参与者或旁观者 | 分析一手文献的研究者 | 研究者本人 |
 > | 生产时间 | 事件发生当时或不久后 | 事件之后 | 研究过程中 |
