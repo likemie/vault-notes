@@ -91,4 +91,116 @@ views:
     sort:
       - property: theory_related_count
         direction: DESC
+
+  - type: table
+    name: 领域 / 教育哲学
+    filters:
+      and:
+        - 'theory_field == "educational-philosophy"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 领域 / 教育社会学
+    filters:
+      and:
+        - 'theory_field == "sociology-of-education"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 领域 / 研究方法
+    filters:
+      and:
+        - 'theory_field == "research-methodology"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 领域 / 高等教育
+    filters:
+      and:
+        - 'theory_field == "higher-education"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 领域 / 政治经济
+    filters:
+      and:
+        - 'theory_field == "political-economy-geopolitics"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 领域 / 学习科学
+    filters:
+      and:
+        - 'theory_field == "learning-science-cognitive-science"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
+
+  - type: table
+    name: 领域 / 比较教育
+    filters:
+      and:
+        - 'theory_field == "comparative-education"'
+    order:
+      - file.name
+      - summary
+      - theory_related_stars
+      - theory_related_count
+      - tags
+      - updated
+    sort:
+      - property: theory_related_count
+        direction: DESC
 ```
