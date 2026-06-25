@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
+  - "[[Total Factor Productivity]]"
   - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
   - "[[Document]]"
@@ -123,7 +124,7 @@ updated: 2026-06-10
 ### 论证步骤一：产业异质性是创新研究的核心挑战
 
 > [!info] [[Heterogeneity|异质性]]的经验证据
-> 主流经济学的"代表性企业"方法[[Hypothesis|假设]]企业在给定的市场环境中行为相似。但大量经验证据表明产业异质性极其显著：法国和意大利制造业中，同一三位数行业内企业劳动生产率的第 95 百分位与第 5 百分位之比在 2-9 倍之间；美国制造业同一四位数行业内企业的全要素生产率差距平均为 2 倍（Syverson, 2011）。这种异质性跨国家普遍存在且随时间持久——类似的结果在企业规模、效率、盈利能力、创新和增长率的研究中反复出现（pp.153-155）。
+> 主流经济学的"代表性企业"方法[[Hypothesis|假设]]企业在给定的市场环境中行为相似。但大量经验证据表明产业异质性极其显著：法国和意大利制造业中，同一三位数行业内企业劳动生产率的第 95 百分位与第 5 百分位之比在 2-9 倍之间；美国制造业同一四位数行业内企业的[[Total Factor Productivity|全要素生产率]]差距平均为 2 倍（Syverson, 2011）。这种异质性跨国家普遍存在且随时间持久——类似的结果在企业规模、效率、盈利能力、创新和增长率的研究中反复出现（pp.153-155）。
 
 > [!abstract] 分类法的必要性
 > 面对巨大的产业异质性，研究者需要一个既能**整合共性**又保留**多样性信息**的[[Analytic Framework|分析框架]]。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]的分类法恰恰提供了这样的工具：它不试图为每个行业建立独立模型，而是识别出几种**典型创新模式**，将产业分配到最能描述其创新特征的模式中。这种方法的优势在于——它在"过度简化"（将所有行业视为同质）和"过度碎片化"（每个行业单独分析）之间找到了中间地带（pp.155-156）。

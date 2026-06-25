@@ -7,7 +7,7 @@ aliases:
 summary: "习近平提出的经济概念，指以创新为主导、摆脱传统经济增长方式的先进生产力质态，具有高科技、高效能、高质量特征。"
 type: concept
 domain: "economics"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - region/china
   - policy/innovation
 related_concepts:
+  - "[[Total Factor Productivity]]"
   - "[[Buen Vivir]]"
 related_theories: []
 related_methods: []
@@ -33,7 +34,7 @@ updated: 2026-06-05
 ## 定义
 
 > [!info]
-> 新质生产力是以创新为主导、摆脱传统经济增长方式、生产力发展路径的先进生产力质态。它由技术革命性突破、生产要素创新性配置、产业深度转型升级而催生，以劳动者、劳动资料、劳动对象及其优化组合的跃升为基本内涵，以全要素生产率大幅提升为核心标志。
+> 新质生产力是以创新为主导、摆脱传统经济增长方式、生产力发展路径的先进生产力质态。它由技术革命性突破、生产要素创新性配置、产业深度转型升级而催生，以劳动者、劳动资料、劳动对象及其优化组合的跃升为基本内涵，以[[Total Factor Productivity|全要素生产率]]大幅提升为核心标志。
 
 ---
 
@@ -41,7 +42,7 @@ updated: 2026-06-05
 
 > [!example]
 > - vs 传统生产力 — 新质生产力强调创新驱动，而非要素驱动；追求高效能、高质量，而非规模速度
-> - vs 全要素生产率 — 新质生产力是全要素生产率提升的来源和表现形式
+> - vs [[Total Factor Productivity|全要素生产率]] — 新质生产力是全要素生产率提升的来源和表现形式
 
 ---
 
@@ -49,7 +50,7 @@ updated: 2026-06-05
 
 > [!abstract]
 > - **高科技**：以科技创新为核心驱动力，涉及人工智能、量子信息、生物技术等前沿领域
-> - **高效能**：资源配置效率高，全要素生产率显著提升
+> - **高效能**：资源配置效率高，[[Total Factor Productivity|全要素生产率]]显著提升
 > - **高质量**：产品和服务质量高，满足人民[[Buen Vivir|美好生活]]需要
 > - **绿色化**：符合可持续发展要求，实现经济效益与生态效益统一
 

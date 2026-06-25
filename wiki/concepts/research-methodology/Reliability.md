@@ -8,7 +8,7 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性和可复制性，是效度的必要非充分条件，在量化研究中分为稳定性、等值性和内部一致性三种形式，在质性研究中转化为可依赖性、可信赖性和可确认性"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Statistical Significance]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Parallel-Forms Reliability]]"
+  - "[[Split-Half Reliability]]"
   - "[[Trustworthiness]]"
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
@@ -115,8 +117,8 @@ updated: 2026-06-25
 > | 类型 | 对应关系 | 核心说明 |
 > |---|---|--|
 > | 重测信度（Test-Retest） | 稳定性 | 同一测量工具在不同时间重复测量结果的一致性。适用于事实性问卷或不易受环境影响的态度。间隔以2周~1个月为宜，用Pearson积矩相关系数计算。 |
-> | 复本信度（Parallel-Forms） | 等值性（等价形式） | 相似测量工具所得结果的一致性。需要不同工具在测试目标和结构上高度一致。 |
-> | 折半信度（Split-Half） | 内部一致性 | 将测量项目分成对等两半所测结果的一致性。常用奇偶数分半，需满足两半在难度、区分度和测量目标上高度趋同。计算公式包括Spearman-Brown、Flanagan、Rulon、Kuder-Richardson、Cronbach α等。 |
+> | [[Parallel-Forms Reliability\|复本信度]]（Parallel-Forms） | 等值性（等价形式） | 相似测量工具所得结果的一致性。需要不同工具在测试目标和结构上高度一致。 |
+> | [[Split-Half Reliability\|折半信度]]（Split-Half） | 内部一致性 | 将测量项目分成对等两半所测结果的一致性。常用奇偶数分半，需满足两半在难度、区分度和测量目标上高度趋同。计算公式包括Spearman-Brown、Flanagan、Rulon、Kuder-Richardson、Cronbach α等。 |
 > | 评分者信度（Inter-Rater） | 等值性（评分者间） | 不同评定者使用相同工具所得结果的一致性，分为评分者间信度和评分者内信度。两名评分者可用Pearson或Kendall/Spearman等级相关系数。 |
 
 ### 信度系数的评价标准

@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及 IP 合同机制、权利转让谱系和商业化路径选择等制度安排"
 type: concept
 domain: "higher-education"
-related_count: 25
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Freedom to Operate]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Joint Ownership of IP]]"
+  - "[[Total Factor Productivity]]"
+  - "[[Absorptive Capacity]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Research Scope]]"
   - "[[University Spin-Out]]"
@@ -48,6 +50,7 @@ related_arguments:
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 confidence: medium
 status: draft
@@ -203,6 +206,13 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 
 > [!warning]
 > 在美国专利法下，一项共同所有专利的每个共同所有人拥有实质上等同于商业 NERF 许可的权利：可以独立制造、使用、销售和进口，无需其他共同所有人的同意，也无需分享收益。因此，产学协议必须明确覆盖大学在共同所有 IP 中的权利。如果协议未覆盖，大学可能发现产业方利用共同所有人地位自由商业化合作成果而无需支付任何费用（p.283）。详见 [[Joint Ownership of IP]]。
+
+---
+
+## 技术转移的非法渠道
+
+> [!note]
+> 除大学-产业合法渠道外，技术转移也可以通过非法途径发生。[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 对冷战时期东德通过斯塔西（Stasi）在西方进行工业间谍的研究表明，国家支持的秘密情报收集是一种大规模的技术转移机制：1970–1989 年间斯塔西在西方共收集 189,725 条科技情报，显著缩小了两德行业 [[Total Factor Productivity|TFP]] 差距。这类非法技术转移与合法的产学技术转移存在根本差异：(1) 它是单向的——从技术前沿国流向追赶国；(2) 没有知识产权许可和利益分享机制；(3) 效果取决于接收方的[[Absorptive Capacity|吸收能力]]——技术越接近前沿的行业受益越大。[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020, pp.1056, 1096)]]
 
 ---
 

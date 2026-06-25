@@ -5,7 +5,7 @@ aliases:
 summary: "鲍曼提出的概念，指将理想社会定位于被偷走或遗弃但未死的过去的乌托邦想象，用于分析中国的中华民族复兴话语"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Necropolitics]]"
+  - "[[Wuhu Ruhua]]"
   - "[[Paradigm]]"
   - "[[Soviet Statism]]"
 related_theories: []
@@ -23,6 +24,7 @@ related_methods: []
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Zhao Tingyang]]"
+  - "[[Pan Yue]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
@@ -76,7 +78,7 @@ updated: '2026-06-25'
 > [!claim] [[Zhao Tingyang|赵汀阳]]（Zhao Tingyang）：天下体系与神性中国
 > 赵汀阳（Zhao Tingyang）将前现代的中国描绘为与天道对齐、具有神性（shenxing zhongguo）且向全球开放的“天下”文明秩序。他将北方征服者的入侵美化为“逐鹿中原”的猎鹿博弈（stag-hunting），认为少数民族的文化消亡是对中国文字和文化致命吸引力的臣服，从而将文化消亡（[[Necropolitics|死亡政治]]）美化为少数民族自愿上升转化的选择。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 106–107]])
 
-> [!claim] 潘岳（Pan Yue）：五胡入华与融合叙事
+> [!claim] [[Pan Yue|潘岳]]（Pan Yue）：[[Wuhu Ruhua|五胡入华]]与融合叙事
 > 潘岳（Pan Yue）将被迫同化包装为少数民族的自愿选择，把传统的“五胡乱华”改写为“五胡入华”。他论证北方少数民族政权不仅不是汉文化的破坏者，反而是汉身份的原创者与捍卫者。这种奥威尔式的双重思想，通过改写历史叙事将被迫同化彻底重塑为极具道德感的族群融合。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 107–108]])
 
 ---

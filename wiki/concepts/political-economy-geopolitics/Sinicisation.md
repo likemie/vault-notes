@@ -7,7 +7,7 @@ aliases:
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,13 +20,15 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Bildung]]"
+  - "[[Wuhu Ruhua]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"
   - "[[Boarding Schools]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pan Yue]]"
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments:
@@ -64,7 +66,7 @@ updated: 2026-05-25
 > 汉化并非当代独有现象。历史上，儒家"[[Bildung|教化]]"边疆族群的传统——以文明化、同化文化"他者"为使命——支撑了中国帝国的扩张和对少数民族的控制（Vickers 2015; Yi 2008，引自 Yu & Zhao, 2024, p.63–64）。当代汉化区别于历史形式的关键特征在于其与现代国家建构、民族主义和社会主义意识形态的紧密交织。
 
 > [!note]-
-> 潘岳的"五胡入华"叙事
+> [[Pan Yue|潘岳]]的"[[Wuhu Ruhua|五胡入华]]"叙事
 >
 > 新任国家民委主任潘岳（Pan Yue）在 2021 年发表的文章中对汉化的历史逻辑做了进一步的意识形态建构([[Argument_Bulag_2024_CE|Bulag, 2024, p.107–108]])：
 > - 潘岳将传统的"五胡乱华"重新命名为"五胡入华"——将 luan（乱，混乱）替换为 ru（入，进入／融入），暗示非汉族群进入中国是出于对汉文化的主动拥抱和融入，而非暴力入侵([[Argument_Bulag_2024_CE|Bulag, 2024, p.108]])。

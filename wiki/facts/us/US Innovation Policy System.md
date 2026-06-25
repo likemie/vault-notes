@@ -11,7 +11,7 @@ subtype: policy
 region: US
 fact_region: "US"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - policy/innovation
   - theme/university-industry-collaboration
 related_concepts:
+  - "[[Total Factor Productivity]]"
   - "[[Innovation Hub]]"
   - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
@@ -42,7 +43,7 @@ updated: 2026-06-05
 ## 背景
 
 > [!info]
-> 美国的科技创新和产业创新融合发展经历了两个阶段：第一阶段通过产业创新带动科技创新（钢铁、汽车等传统产业实现全要素生产率全球领先），第二阶段以科技创新驱动产业升级（贝尔实验室晶体管技术、仙童公司单片集成电路等突破带动信息技术产业跨越式发展）。在这一过程中，政府通过制定科技发展战略规划发挥引领作用，企业积极推动政产学研军深度融合，高校和资本市场主动对接产业需求。
+> 美国的科技创新和产业创新融合发展经历了两个阶段：第一阶段通过产业创新带动科技创新（钢铁、汽车等传统产业实现[[Total Factor Productivity|全要素生产率]]全球领先），第二阶段以科技创新驱动产业升级（贝尔实验室晶体管技术、仙童公司单片集成电路等突破带动信息技术产业跨越式发展）。在这一过程中，政府通过制定科技发展战略规划发挥引领作用，企业积极推动政产学研军深度融合，高校和资本市场主动对接产业需求。
 
 ---
 

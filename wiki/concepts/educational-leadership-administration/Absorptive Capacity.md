@@ -5,7 +5,7 @@ aliases:
 summary: "组织识别、吸收并应用外部知识的能力，在学区改革中取决于项目理解与开放沟通，在产学合作中则调节企业从大学研发合作中受益的程度"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 15
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,12 +22,15 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
+  - "[[Total Factor Productivity]]"
+  - "[[Variable]]"
+  - "[[Document]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
   - "[[Logic Model]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Formative Assessment]]"
-  - "[[Variable]]"
-  - "[[Document]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
@@ -38,6 +41,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Cohen_2025_JTT]]"
+  - "[[Argument_Glitz_2020_AER]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -62,6 +66,24 @@ updated: 2026-06-05
 > - vs [[Implementation Fidelity]] — 实施忠实度关注项目是否按计划实施；吸收能力关注组织是否能理解并使用评价证据来调整实施。
 > - vs [[Local Knowledge in Evidence-Based Policy]] — 本地知识强调情境判断；吸收能力强调组织把外部评价反馈转化为内部学习和行动的能力。
 > - vs [[Professional Judgment]] — 专业判断是个人或群体解释证据的能力；吸收能力是组织层面的学习条件。
+
+---
+
+## 吸收能力与技术追赶：工业间谍的经验证据
+
+> [!abstract]
+> 吸收能力的概念在经济学研究中也获得了独立的经验支持。[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 在研究东德工业间谍的生产率效应时发现，间谍情报对东德 [[Total Factor Productivity|TFP]] 增长的促进效应在初始 TFP 差距较小的行业（即更接近西德技术前沿的行业）中最强。这一发现与吸收能力假说高度一致：技术更接近前沿的东德行业拥有更强的吸收能力，其研究人员和工程师能够更有效地将获取的西方技术情报整合到自身生产过程中。[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020, p.1096)]]
+
+> [!contrast-table] 吸收能力在不同领域中的表现
+> | 维度 | 学区评价证据使用 | 产学研发合作 | 工业间谍与技术追赶 |
+> |------|----------------|------------|------------------|
+> | 观测对象 | 学区对评价报告的理解和行动 | 企业从大学合作中受益的能力 | 东德行业消化西方技术情报的效率 |
+> | 吸收能力指标 | 项目理解、开放沟通、领导支持 | 内部 R&D 存量、技术人员占比、知识分享机制 | 与西德技术前沿的距离（代理[[Variable\|变量]]） |
+> | 低吸收能力后果 | 评价报告被束之高阁 | 正式合作对企业创新无显著影响 | 间谍情报无法转化为生产率增长 |
+> | 关键发现 | 组织学习条件提高证据使用机会 | 吸收能力薄弱的企业被系统排除在资助外 | 接近前沿的行业从间谍中获益最大，与标准 R&D [[Document\|文献]]相反 |
+
+> [!note]
+> 教育组织与技术追赶两个领域对吸收能力的共同发现是：外部知识的价值不会自动实现——它取决于接收方是否具有理解知识、将其与已有知识整合并付诸实践的能力。这一机制在学区评价、[[University-Industry Collaboration|产学合作]]和国家间[[Technology Transfer|技术转移]]三个尺度上均得到了经验验证。
 
 ## 核心要素
 

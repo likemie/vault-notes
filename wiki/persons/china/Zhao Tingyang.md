@@ -17,11 +17,11 @@ tags:
   - field/political-philosophy
   - theory/tianxia
 related_concepts:
+  - "[[Zhonghua Minzu]]"
+  - "[[Necropolitics]]"
+  - "[[Orientalism]]"
   - "[[Sinicisation]]"
   - "[[Knowledge Transfer]]"
-  - "[[Necropolitics]]"
-  - "[[Zhonghua Minzu]]"
-  - "[[Orientalism]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-25'
+updated: '2026-06-26'
 ---
 
 # Zhao Tingyang
@@ -49,6 +49,18 @@ updated: '2026-06-25'
 > 天下体系是比以民族国家为基础的联合国体系更优越的替代方案。少数民族被中国文化优越性致命性地吸引，他们文化的消亡并不是被暴力毁灭，而是一种自愿的自我牺牲——这是一种“成为”（becoming），是对非中国式存在方式的超越性转化。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 106, 107]])
 > 
 > *The Tianxia system is a superior alternative to the UN system based on nation-states. Minorities are fatally attracted by the superiority of Chinese culture; the demise of their culture is not a destruction by violence, but a voluntary self-sacrifice—a 'becoming,' a transcendental transformation of non-Chinese ways of existence.*
+
+---
+
+## 条目关联
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Zhonghua Minzu]] | 概念 | 其天下体系为中华民族伟大复兴及“人类命运共同体”提供了世界主义的哲学外衣。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]]) |
+> | [[Necropolitics]] | 概念 | 被布拉格指出是以“自愿牺牲”为幌子、旨在美化同化强权的死亡政治理论。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
+> | [[Orientalism]] | 概念 | 将征服者框定为对中国文化的“东方主义”式仰慕，被批评洗白了帝国支配的权力本质。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]]) |
 
 ---
 
@@ -102,7 +114,7 @@ updated: '2026-06-25'
 > - **学术与理论路径**：已渗透到全球知识关系和高等教育比较研究中。例如，西蒙·马金森 (Simon Marginson)、杨锐 (Yang Rui) 和 许心 (Xu Xin) (2022) 将赵汀阳的天下概念作为理解跨国高等教育知识合作与非西方模式的启发式分析工具。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 113]])
 > - **政策与元叙事路径**：与习近平时代官方提出的“构建人类命运共同体”及“中国无征服基因/中国拥有和平基因”的话语体系形成强烈的共振。这一体系被官方用于洗白历史上的同化政策，将其包装为少数民族的自愿融入。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]])
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid]- 相关研究索引
 > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 系统批判了赵汀阳天下体系背后的同化政治，指出其如何通过“自愿牺牲”的修辞来合理化少数民族的历史性文化消亡。
 
 ---
@@ -112,7 +124,7 @@ updated: '2026-06-25'
 > [!person-network] 关系网络
 > - **学界引介者**：西蒙·马金森 (Simon Marginson) — 英国教育学者，在高等教育研究中借用天下理论解释全球学术秩序。
 > - **学界引介者**：杨锐 (Yang Rui) — 比较教育学者，将天下体系引入中国大学模式与[[Knowledge Transfer|知识转移]]的分析中。
-> - **批判者**：乌拉迪恩·布拉格 (Uradyn E. Bulag) — 蒙古族人类学家，对其天下理论和“自愿牺牲”修辞进行了激烈的[[Necropolitics|死亡政治]]剖析与解构。
+> - **批判者**：乌拉迪恩·布拉格 (Uradyn E. Bulag) — 蒙古族人类学家，对其天下理论与“自愿牺牲”修辞进行了激烈的[[Necropolitics|死亡政治]]剖析与解构。
 
 ---
 
@@ -127,15 +139,3 @@ updated: '2026-06-25'
 > > [!critique]- 批评索引
 > > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 尖锐指出赵汀阳理论是彻底的[[Necropolitics|死亡政治]]文明论包装。它将中国塑造成引诱少数民族走向毁灭的“致命女人” (femme fatale)；通过粉饰文化死灭为“自愿牺牲”，推卸了国家机器的历史暴力责任。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
 > > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 驳斥其汉字神性说：赵汀阳声称汉字具有普世吸引力，但在现实中却需要国家依靠强硬的行政和语言同化政策（如 2020年内蒙古双语教育改革）来消灭蒙古语等族群语言，暴露了其“自愿向心”说的虚伪。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 113]])
-
----
-
-## 条目关联
-
-> [!entry-map]
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Zhonghua Minzu]] | 概念 | 其天下体系为中华民族伟大复兴及“人类命运共同体”提供了世界主义的哲学外衣。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]]) |
-> | [[Necropolitics]] | 概念 | 被布拉格指出是以“自愿牺牲”为幌子、旨在美化同化强权的死亡政治理论。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 107]]) |
-> | [[Orientalism]] | 概念 | 将征服者框定为对中国文化的“东方主义”式仰慕，被批评洗白了帝国支配的权力本质。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]]) |

@@ -858,6 +858,17 @@
     ]
   },
   {
+    "title": "Total Factor Productivity",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Total Factor Productivity.md",
+    "aliases": [
+      "全要素生产率",
+      "TFP",
+      "multi-factor productivity",
+      "Solow residual"
+    ]
+  },
+  {
     "title": "EST Integrated Development",
     "type": "concept",
     "path": "wiki/concepts/education-economics/EST Integrated Development.md",
@@ -4578,6 +4589,8 @@
     "aliases": [
       "构念效度",
       "建构效度",
+      "结构效度",
+      "构造效度",
       "construct validity of measurement",
       "measurement validity"
     ]
@@ -4667,6 +4680,7 @@
     "path": "wiki/concepts/research-methodology/Criterion-related Validity.md",
     "aliases": [
       "效标关联效度",
+      "效标效度",
       "标准关联效度",
       "criterion validity",
       "criterion-related evidence"
@@ -8846,6 +8860,16 @@
     ]
   },
   {
+    "title": "Perpetual Inventory Method",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Perpetual Inventory Method.md",
+    "aliases": [
+      "永续盘存法",
+      "PIM",
+      "perpetual inventory equation"
+    ]
+  },
+  {
     "title": "Pilot Testing",
     "type": "method",
     "path": "wiki/methods/quantitative/Pilot Testing.md",
@@ -8966,6 +8990,17 @@
     "aliases": [
       "季节性比较",
       "季节比较"
+    ]
+  },
+  {
+    "title": "Shift-Share Instrument",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Shift-Share Instrument.md",
+    "aliases": [
+      "Bartik Instrument",
+      "Bartik工具变量",
+      "shift-share IV",
+      "份额转移工具变量"
     ]
   },
   {
@@ -13445,6 +13480,11 @@
     "title": "Argument_Zheng_2023_ShanghaiSanlian",
     "type": "argument",
     "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+  },
+  {
+    "title": "Argument_Glitz_2020_AER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md"
   },
   {
     "title": "Argument_Bolton_2017_ArchPsych",

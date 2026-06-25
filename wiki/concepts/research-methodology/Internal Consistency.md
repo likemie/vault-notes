@@ -9,7 +9,7 @@ aliases:
 summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Heterogeneity]]"
+  - "[[Split-Half Reliability]]"
   - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Purpose Statement]]"
@@ -75,7 +76,7 @@ updated: 2026-06-23
 
 ### 半分法与 Spearman-Brown 公式
 
-内部一致性的传统检验方法是**半分法**（split-half method），其操作步骤和公式如下（pp.202–203）：
+内部一致性的传统检验方法是**半分法**（[[Split-Half Reliability|split-half]] method），其操作步骤和公式如下（pp.202–203）：
 
 > [!proc] 半分法的操作流程
 > 1. **将测试对半分割** 将测试项目分为两半，确保每半在项目难度和内容上匹配。若测试有 20 个项目且难度递增，可将偶数号项目分给一组、奇数号分给另一组，使两半在内容和累积难度上更接近

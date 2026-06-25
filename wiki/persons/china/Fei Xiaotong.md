@@ -3,11 +3,11 @@ title: Fei Xiaotong
 aliases:
   - Fei, X.
   - 费孝通
-summary: "中国人类学家和社会学家，以中华民族多元一体格局和差序格局理论著称，其 1988 年重新阐释的中华民族概念深刻影响了中共的民族政策转向"
+summary: "中国人类学家和社会学家，以中华民族多元一体格局 and 差序格局理论著称，其 1988 年重新阐释的中华民族概念深刻影响了中共的民族政策转向"
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 9
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -18,15 +18,18 @@ tags:
   - field/ethnic-studies
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Paradigm]]"
-  - "[[Boarding Schools]]"
   - "[[Analytic Framework]]"
+  - "[[Boarding Schools]]"
+  - "[[Paradigm]]"
+  - "[[Depoliticalization of Ethnic Policy]]"
+  - "[[Second-generation Ethnic Policy]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Hsu Cho-Yun]]"
+  - "[[Ma Rong]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
@@ -34,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-25'
+updated: '2026-06-26'
 ---
 
 # Fei Xiaotong
@@ -52,6 +55,18 @@ updated: '2026-06-25'
 > 中华民族是涵盖中国境内所有人群的总称，定义为由 56 个民族（minzu）组成的多元实体。所有的民族从古至今通过贸易、战争等互动自然或不自觉地（zizai de）形成联系。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 101, 105]])
 > 
 > *The Chinese nation (Zhonghua Minzu) is a collective designation for all the peoples within the borders of China, defined as a plural entity consisting of fifty-six nationalities (minzu). All these nationalities have historically, through trade, wars, and other interactions, naturally or unconsciously (zizai de) formed connections.*
+
+---
+
+## 条目关联
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Zhonghua Minzu]] | 概念 | 重塑了中华民族的“多元一体”格局理论，成为官方民族政策转型的核心话语。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 101]]) |
+> | [[Analytic Framework]] | 概念 | 提供了领土型中国的范式，用于分析中国历史教科书中的国族认同建构。([[Argument_Xu_2024_CE\|Xu, 2024, p. 576]]) |
+> | [[Boarding Schools]] | 概念 | 其整合话语被间接应用于论证少数民族寄宿教育及同化政策的合理性。 |
 
 ---
 
@@ -101,12 +116,12 @@ updated: '2026-06-25'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径**：确立了中国民族学与[[Ethnography|人类学研究]]的[[Paradigm|范式]]。其“多元一体”概念为马戎 (Ma Rong 2004) 倡导的“民族政策去政治化”以及胡鞍钢 (Hu Angang) 与胡联合 (Hu Lianhe 2011) 提出的“第二代民族政策”提供了理论源头。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 102–103]])
+> - **理论路径**：确立了中国民族学与[[Ethnography|人类学研究]]的[[Paradigm|范式]]。其“多元一体”概念为[[Ma Rong|马戎]] (Ma Rong 2004) 倡导的“[[Depoliticalization of Ethnic Policy|民族政策去政治化]]”以及胡鞍钢 (Hu Angang) 与胡联合 (Hu Lianhe 2011) 提出的“[[Second-generation Ethnic Policy|第二代民族政策]]”提供了理论源头。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 102–103]])
 > - **政策路径**：为国家由“多民族国家”向“单一国族”政策的转型提供了理论底座。2002 年中共党章修改将党重新定义为“[[Zhonghua Minzu|中华民族]]的先锋队”，标志着这一转向在制度层面的确立。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 102]])
 > - **教育路径**：其领土型中国观成为大陆历史教科书叙事的基础。[[Argument_Xu_2024_CE|Xu (2024)]] 指出，初中历史教科书普遍将当代疆域投射回古代，将古代各政权之战描述为“家门内部纠纷”，这正是“多元一体”框架在课程层面的具体落实。([[Argument_Xu_2024_CE|Xu, 2024, pp. 580–583]])
 > - **跨国传播**：在国际比较教育领域，其理论成为分析中国双语教育、寄宿制学校（[[Boarding Schools]]）及少数民族国家认同建构的重要[[Analytic Framework|分析框架]]。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid]- 相关研究索引
 > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 系统批判了费孝通“多元一体”理论中的汉人中心主义及其对国家同化主义转型的影响。
 > - [[Argument_Xu_2024_CE|Xu, 2024]] — 通过实证分析，揭示了费孝通领土型中国观如何转化为初中历史教科书的叙事策略。
 
@@ -117,8 +132,8 @@ updated: '2026-06-25'
 > [!person-network] 关系网络
 > - **师承／合作者**：布罗尼斯瓦夫·马林诺夫斯基 (Bronisław Malinowski) — 博士生导师，社会功能主义的引介者。
 > - **批评者／论敌**：[[Hsu Cho-Yun|许倬云]] (Hsu Cho-Yun) — 提出以汉文化为绝对核心的“族裔文化型中国观”，与领土型中国观相竞争。
-> - **后继者**：马戎 (Ma Rong) — 承接其淡化民族差异的取向，正式提出将民族问题“去政治化”、“社会学化”的理论。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 102]])
-> - **后继者**：胡鞍钢 (Hu Angang) — 延续其强化“一体”的取向，极力提倡推行熔炉式的“第二代民族政策”。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 103]])
+> - **后继者**：[[Ma Rong|马戎]] (Ma Rong) — 承接其淡化民族差异的取向，正式提出将民族问题“去政治化”、“社会学化”的理论。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 102]])
+> - **后继者**：胡鞍钢 (Hu Angang) — 延续其强化“一体”的取向，极力提倡推行熔炉式的“[[Second-generation Ethnic Policy|第二代民族政策]]”。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 103]])
 
 ---
 
@@ -134,22 +149,10 @@ updated: '2026-06-25'
 > > [!axis] “多元一体”的包容性与同化偏向
 > > 针对“多元一体”论述在政策实践和价值取向上的作用，学者存在截然相反的解读：
 > > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)**：指出其隐含强烈的“汉人中心主义”，赋予汉文化超自然的同化能力，将少数民族描述为被动融入且自愿“自我牺牲”的主体，掩盖了同化背后的国家强制力。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
-> > - **马戎 (Ma Rong) (2004)**：将该理论视为一种淡化政治隔阂、促进各族群向统一的国家公民身份和平稳转换的理性建构。
+> > - **[[Ma Rong|马戎]] (Ma Rong) (2004)**：将该理论视为一种淡化政治隔阂、促进各族群向统一的国家公民身份和平稳转换的理性建构。
 > 
 > > [!critique]- 批评索引
 > > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 批评费孝通滥用功能主义整合论，将历史上血腥的侵略与同化包装为“不自觉的整合”，剥夺了少数民族定义中国的主体性能动性。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
 > 
 > > [!warning] 未解问题与边界
-> > “多元一体”的终极走向在“一体化”与“保留多元”之间依然存在拉扯。近年来在双语教育课程改革和少数民族身份管理中，“多元”特征被逐渐压缩，这导致了如何平衡公民同一性与少数民族宪法权利的现实冲突。
-
----
-
-## 条目关联
-
-> [!entry-map]
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Zhonghua Minzu]] | 概念 | 重塑了中华民族的“多元一体”格局理论，成为官方民族政策转型的核心话语。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 101]]) |
-> | [[Analytic Framework]] | 概念 | 提供了领土型中国的范式，用于分析中国历史教科书中的国族认同建构。([[Argument_Xu_2024_CE\|Xu, 2024, p. 576]]) |
-> | [[Boarding Schools]] | 概念 | 其整合话语被间接应用于论证少数民族寄宿教育及同化政策的合理性。 |
+> > “多元一体”的终极走向在“一体化”与“保留多元”之间依然存在拉扯。近年来在双语教育课程改革与少数民族身份管理中，“多元”特征被逐渐压缩，这导致了如何平衡公民同一性与少数民族宪法权利的现实冲突。

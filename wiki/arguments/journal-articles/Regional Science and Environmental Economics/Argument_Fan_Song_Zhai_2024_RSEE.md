@@ -7,7 +7,7 @@ title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[EST Integrated Development]]"
+  - "[[Total Factor Productivity]]"
   - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
   - "[[Spatial Sortings]]"
@@ -129,7 +130,7 @@ updated: 2026-06-12T18:15:00
 >     - R&D经费支出占GDP比重（+）
 >     - 技术市场交易额占GDP比重（+）
 >     - 人均专利授权量（+）
->     - 全要素生产率/创新效率（+）
+>     - [[Total Factor Productivity|全要素生产率]]/创新效率（+）
 >     - 技术复杂度（+）
 >     - 研发人员全时当量/专利授权数（+）
 >     > 科技子系统覆盖投入-过程-产出全链条，纳入"技术复杂度"回应中国创新"重数量轻质量"的问题。

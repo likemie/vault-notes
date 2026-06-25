@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+                "file": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_QiMei_2015_EducationalResearchMethods"
+              "title": "Argument_Glitz_2020_AER"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Zhao Tingyang"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "glitz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +90,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,9 +206,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e1573f91b7722f1b",
+  "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "sources/Glitz_2020_AER/figures",
+    "sources/Glitz_2020_AER/Glitz_2020_AER.md",
+    "sources/Glitz_2020_AER/Glitz_2020_AER.pdf",
+    "sources/Glitz_2020_AER",
+    "sources/Glitz_2020_AER.md",
+    "sources/Glitz_2020_AER.pdf",
+    "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md.tmp.43191.40a3f1e6ad9c",
+    "wiki/methods/quantitative/Perpetual Inventory Method.md",
+    "wiki/methods/quantitative/Shift-Share Instrument.md",
     "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+    "wiki/concepts/economics/Total Factor Productivity.md",
+    "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md",
+    "wiki/arguments/journal-articles/American Economic Review",
+    "wiki/persons/china/Zhao Tingyang.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
     "raw/glitz2020.pdf",
     "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/13917319_高等院校教师教育公共课教材_教育研究方法.txt",
     "wiki/concepts/research-methodology/Construct Validity.md",
@@ -226,23 +240,10 @@
     "wiki/concepts/research-methodology/Internal Validity.md",
     "wiki/concepts/research-methodology/Threats to Internal Validity.md",
     "wiki/concepts/research-methodology/Rich and Thick Description.md",
-    "wiki/persons/china/Zhao Tingyang.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
     "wiki/persons/china/Fei Xiaotong.md",
-    "wiki/concepts/chinese-philosophy/Zhonghua Minzu.md",
-    "wiki/methods/quantitative/Experimental Research.md",
-    "wiki/methods/qualitative/Observation Method.md",
-    "wiki/concepts/research-methodology/Blue Skies Research.md",
-    "wiki/concepts/research-methodology/Hypothesis.md",
-    "wiki/concepts/research-methodology/Literature Search.md",
     "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md.tmp.48260.8941a0b63459",
     "books/QiMei_2015_EducationalResearchMethods/figures",
     "books/QiMei_2015_EducationalResearchMethods",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods",
-    "wiki/concepts/research-methodology/Hypothesis.md.tmp.48260.3a0c7543a198",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法.txt",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/14_参考文献.txt",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/13_第十一章_研究报告的撰写.txt",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]
