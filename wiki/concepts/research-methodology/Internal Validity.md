@@ -119,12 +119,12 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > [!ref-table] 九类内在效度威胁速查
 > | 因素 | 说明 | 控制方法 |
 > |---|---|---|
-> | 历史（History） | 实验期间其他事件对因变量的影响 | 设置控制组经历相同事件 |
-> | 成熟（Maturation） | 被试生理心理自然变化 | 随机化分组+控制组 |
+> | 历史（History） | 实验期间其他事件对因[[Variable\|变量]]的影响 | 设置控制组经历相同事件 |
+> | 成熟（Maturation） | 被试生理心理自然变化 | [[Random Assignment\|随机化]]分组+控制组 |
 > | 测验（Testing） | 前测经验提高后测成绩 | 设置无前测对照组 |
 > | 测量工具（Instrumentation） | 方法技术无效或缺少一致性 | 精心选择测验，严格测试手段 |
 > | 统计回归（Statistical Regression） | 极端分数向均值回归 | 避免极端被试或单独分组 |
-> | 选择偏差（Selection Bias） | 非随机分配导致组间差异 | 随机抽样和随机分配 |
+> | 选择偏差（Selection Bias） | 非随机分配导致组间差异 | [[Random Sampling\|随机抽样]]和随机分配 |
 > | 被试流失（Mortality） | 被试更换、淘汰或中途退出 | 大样本或消除法 |
 > | 选择与成熟交互（Selection-Maturation Interaction） | 不同组成熟速度不同，与处理效果混淆 | 随机化确保各组均衡 |
 > | 实验处理扩散（Diffusion of Treatment） | 两组接触导致处理扩散 | 避免两组间接触 |
