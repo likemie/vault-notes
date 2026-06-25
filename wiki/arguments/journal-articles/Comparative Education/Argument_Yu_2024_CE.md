@@ -285,7 +285,7 @@ citation_aliases:
 
 > [!warning] 政治限制与田野困境
 > - **政治环境背离多元包容呼吁**：2017年以来的政治与教育发展轨迹显现出更民族主义、更同化主义和更汉人中心的发展趋向。习近平时代马克思主义正统的回归、[[Academic Freedom|学术自由]]（[[Academic Freedom]]）的收紧以及课堂监控的强化，严重削弱了多元包容[[Paradigm|范式]]转变的现实可行性。
-> - **田野[[Research Practicability|研究可行性]]持续收窄**：监控与控制的升级为相关领域的未来探索投下阴影。在中国大陆开展田野工作面临日益严峻的障碍 (Heightened surveillance and control also cast a shadow over future research in this area)。迫切需要的批判性学术探索在客观上面临严峻挑战。
+> - **田野[[Research Practicability|研究可行性]]持续收窄**：监控与控制的升级为相关领域的未来探索投下阴影。在中国大陆开展[[Fieldwork|田野工作]]面临日益严峻的障碍 (Heightened surveillance and control also cast a shadow over future research in this area)。迫切需要的批判性学术探索在客观上面临严峻挑战。
 
 ---
 

@@ -73,7 +73,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**：基于作者参与 ISSPP（自 2002 年）和 [[OECD]] ISL 项目的**亲历者反思**（participant-observer reflection），结合[[Literature Review|文献综述]]和批判性分析
-> - **数据来源**：ISSPP 在 20+ 个国家的案例研究、OECD ISL 项目报告、LE@DS 研究网络发现
+> - **数据来源**：ISSPP 在 20+ 个国家的[[Case Study|案例研究]]、OECD ISL 项目报告、LE@DS 研究网络发现
 > - **性质**：定位为 ECER Keynote 论文（在 2016 年欧洲教育研究会议上发表），兼具综述、方法论反思和研究议程提案功能
 
 ## 核心论证

@@ -243,7 +243,7 @@ citation_aliases:
 > “本书不是一本详细的方法论教材；相反，我们强调研究设计的核心特征。我们试图将研究简化为其核心理念，以便研究者能够规划一项彻底而深思熟虑的研究。”
 > ("This book is not a detailed method text; instead, we highlight the essential features of research design. We have attempted to reduce research to its core ideas so that researchers can plan a thorough and thoughtful study.")（前言）
 
-在格式上，教材聚焦研究设计的核心要素，不展开完整的操作方法细节。量化方法聚焦常用的调查和实验设计；质性方法涵盖[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和案例研究；混合方法则介绍聚敛式（convergent）、解释性序列（explanatory sequential）和探索性序列（exploratory sequential）三种核心设计。第六版新增了更具包容性的语言表述、每章开头的学习目标、量化方法章节的重组与扩充、三个方法章节采用一致的结构顺序、混合方法章节的内容更新，以及改进后的写作练习。
+在格式上，教材聚焦研究设计的核心要素，不展开完整的操作方法细节。量化方法聚焦常用的调查和实验设计；质性方法涵盖[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和[[Case Study|案例研究]]；混合方法则介绍聚敛式（convergent）、解释性序列（explanatory sequential）和探索性序列（exploratory sequential）三种核心设计。第六版新增了更具包容性的语言表述、每章开头的学习目标、量化方法章节的重组与扩充、三个方法章节采用一致的结构顺序、混合方法章节的内容更新，以及改进后的写作练习。
 
 > [!quote]
 > “设计一项研究是一个困难且耗时的过程。本书不一定会让这个过程变得更容易或更快，但它可以提供在研究中有用的具体技能、关于该过程所涉及步骤的知识，以及撰写学术研究的实用指南。”
@@ -342,7 +342,7 @@ citation_aliases:
 
 - [[Postpositivism|后实证主义]] 持决定论和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 [[Auguste Comte|Comte]]、Mill、Durkheim、Newton、Locke，以及 Phillips & Burbules(2000)，是量化研究的主导哲学。
 - [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger & Luckmann(1967)、Lincoln & Guba(1985)、Crotty (1998) 等。它是质性研究的主导哲学。
-- [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后[[Positivism|实证主义]]无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖[[Critical Theory|批判理论]]、女性主义、参与式行动研究、原住民方法论等群体。
+- [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后[[Positivism|实证主义]]无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖[[Critical Theory|批判理论]]、女性主义、参与式[[Action Research|行动研究]]、原住民方法论等群体。
 - [[Pragmatic Paradigm|实用主义]] 源自 Peirce、James、[[George Herbert Mead|Mead]]、Dewey。不以任何单一哲学体系为皈依，关注"什么有效"——以研究问题为中心，自由选择最能满足目的的方法。真理是当下有效的，研究始终发生在社会历史情境中。它是混合方法研究的主导哲学。
 
 > [!abstract] 表1.2：四种世界观（Four Worldviews）

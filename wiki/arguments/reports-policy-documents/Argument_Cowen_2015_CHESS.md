@@ -96,7 +96,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - 几乎所有受访教师都使用某种形式的证据，但"证据"的定义多样——从 [[Education Endowment Foundation|EEF]] Toolkit 到 Twitter 上的同行讨论到行动研究(p.23-27)
+> - 几乎所有受访教师都使用某种形式的证据，但"证据"的定义多样——从 [[Education Endowment Foundation|EEF]] Toolkit 到 Twitter 上的同行讨论到[[Action Research|行动研究]](p.23-27)
 > - EEF Toolkit 是影响管理决策和参与学校治理辩论的有力工具，但教师普遍认为它不够详细，无法直接指导课堂实施(p.24)
 > - 时间约束是教师深入参与研究证据的主要障碍(p.25-26)
 > - 教师对"忠实执行"的看法分歧：有人认为应尽可能接近原始研究方案，有人强调理解偏离原始方案的原因即可(p.29-30)

@@ -92,7 +92,7 @@ citation_aliases:
 > 采用实践导向的综述与案例分析，非实证研究。方法包括：
 > - 对国际 UI 合作[[Document|文献]]和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
 > - 一手实践经验来源于 Mars（Wolf 和 Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
-> - 三个案例研究：水稻干湿交替灌溉（Alternate Wetting and Drying, AWD）、[[African Orphan Crops Consortium|非洲孤儿作物联盟]]（African Orphan Crops Consortium, AOCC）、[[Innovation Institute for Food and Health|食品与健康创新研究所]]（Innovation Institute for Food and Health, IIFH）
+> - 三个[[Case Study|案例研究]]：水稻干湿交替灌溉（Alternate Wetting and Drying, AWD）、[[African Orphan Crops Consortium|非洲孤儿作物联盟]]（African Orphan Crops Consortium, AOCC）、[[Innovation Institute for Food and Health|食品与健康创新研究所]]（Innovation Institute for Food and Health, IIFH）
 
 ---
 

@@ -62,7 +62,7 @@ updated: 2026-06-10
 
 > [!stat-cards]+ 一页读懂
 > - **对象**：[[Synthesis and Solid State Pharmaceutical Centre|SSPC]]（Synthesis and Solid State Pharmaceutical Centre），爱尔兰制药产学合作网络，10 家跨国企业 + 8 所学术机构
-> - **方法**：单一站点定性案例研究，10 次[[Qualitative Interview|深度访谈]]（50-105 分钟）
+> - **方法**：单一站点定性[[Case Study|案例研究]]，10 次[[Qualitative Interview|深度访谈]]（50-105 分钟）
 > - **产出**：四阶段演化模型——胚胎期 → 启动期 → 参与期 → 确立期，每阶段对应不同的障碍、促进因素和突破机制
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-06-10
 ## 自述局限
 
 > [!warning]
-> 研究明确承认（pp.925-927）：单一站点案例研究设计限制了发现的[[External Validity|可推广性]]——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 的特定情境（制药行业、小型开放经济体爱尔兰、成熟的[[University-Industry Collaboration|产学合作]]历史）可能影响障碍和促进因素的性质和时间。制药行业的知识密集性和高知识产权敏感性可能使某些障碍（如知识泄露恐惧和知识产权冲突）比其他行业更突出。未来研究需要在不同行业、国家和合作阶段中检验四阶段模型。
+> 研究明确承认（pp.925-927）：单一站点[[Case Study|案例研究]]设计限制了发现的[[External Validity|可推广性]]——[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 的特定情境（制药行业、小型开放经济体爱尔兰、成熟的[[University-Industry Collaboration|产学合作]]历史）可能影响障碍和促进因素的性质和时间。制药行业的知识密集性和高知识产权敏感性可能使某些障碍（如知识泄露恐惧和知识产权冲突）比其他行业更突出。未来研究需要在不同行业、国家和合作阶段中检验四阶段模型。
 
 ---
 ## 来源

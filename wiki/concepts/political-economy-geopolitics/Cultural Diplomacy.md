@@ -65,7 +65,7 @@ updated: 2026-05-19
 ## 运作机制
 
 > [!abstract]
-> [[Argument_Erfurth_2022_education-hubs|Erfurth (2022, pp.206–209)]] 通过对新加坡和阿联酋的案例研究，识别出高等教育中文化外交的三种主要运作机制：
+> [[Argument_Erfurth_2022_education-hubs|Erfurth (2022, pp.206–209)]] 通过对新加坡和阿联酋的[[Case Study|案例研究]]，识别出高等教育中文化外交的三种主要运作机制：
 
 ### 精英培育与区域影响
 

@@ -81,7 +81,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提[[Hypothesis|假设]]
-> - 案例研究：以 [[Education Endowment Foundation|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
+> - [[Case Study|案例研究]]：以 [[Education Endowment Foundation|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
 > - [[Document|文献]]批判性综述：综合 Bhaskar et al.学者的批判资源
 
 ## 核心论证
@@ -129,7 +129,7 @@ citation_aliases:
 > - **[[Meta-analysis|元分析]]层面**：Simpson (2017, 2018) 论证效应量是"试验设计得如何使效应可见"的指标，而非干预有效性的指标(p. 118)
 > - **[[Meta-meta-analysis|元-元分析]]层面**：Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit 将根本不同的研究聚合产生平均效应量——"苹果和橙子"问题。[[Gene Glass]]（元分析创始人）警告："元分析的结果永远不应该是平均值；它应该是一张图"（引自 Robinson, 2004, p. 29）(p. 119)
 >
-> ### 8. 体育参与案例研究（EEF Toolkit 深度追踪）
+> ### 8. 体育参与[[Case Study|案例研究]]（EEF Toolkit 深度追踪）
 >
 > EEF Toolkit 将体育参与的效应量列为 0.17（约 +2 个月），但追溯其三级数据来源揭示了系统性问题(pp. 120–123)：
 >

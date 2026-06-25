@@ -833,7 +833,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 - [[What Works Network]] — 英国 EBE 的制度载体
 - [[ResearchED]] — 2013 年 Tom Bennett 创立的教师草根 [[Evidence-Informed Practice|EIP]] 运动
 - [[Playing for Success]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 揭示元-[[Meta-analysis|元分析]]程序缺陷的关键案例
-- [[Selective Schools Expansion Fund]] — [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 揭示 EBE 在议会政策制定中被系统性回避的案例研究
+- [[Selective Schools Expansion Fund]] — [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 揭示 EBE 在议会政策制定中被系统性回避的[[Case Study|案例研究]]
 - **Fresh Start 拼读干预案例**（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）— EEF 资助的针对中一阅读困难学生的合成拼读项目。官方摘要宣称其[[Effect Size|效应量]]达 $+0.24SD$（等同于 3 个月额外进步），但深度技术拆解显示[[Random Assignment|随机化]]严重失衡，干预组前测成绩远低于对照组；当研究者筛选出前测成绩完全一致的低分匹配学生子集进行比较时，两组的进步幅度及后测成绩完全相同（净效应量为 $+0.00SD$），所谓的有效性纯粹是糟糕随机化带来的数据偏误幻象。
 - **课堂教学助理（TA）结构性不当案例**（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）— EEF Toolkit 将 TA 排入低影响、高成本排行榜底部（效应量仅 $+0.08$），但 Blatchford 的实证研究表明，TA 的低效是因为学校未给他们预留与教师备课沟通的时间，且系统性地将低成就生推给 TA 授课，剥夺了他们接受合格教师教学的机会。Toolkit 的扁平排行过滤掉了这一结构性使用不当的具体情境。
 

@@ -36,7 +36,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!def] 弗兰德斯语言互动分析分类体系（FIAC）
-> FIAC（Flanders' Interaction Analysis Categories）是 Flanders（1970）开发的课堂观察编码体系，将课堂的言语活动分为 10 类，每个分类用一个数字代码表示。观察者依照既定分类，采用 3 秒时间取样的方式，记录最能描述教师和学生言语行为种类的相应编码。一节 40–50 分钟的课可产生 800–1 000 个编码，这些编码反映了课堂中按时间顺序发生的一系列事件，连接成序列后能呈现出课堂教学的结构、模式和风格（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3）。
+> FIAC（Flanders' Interaction Analysis Categories）是 Flanders（1970）开发的课堂观察[[Coding in Qualitative Research|编码]]体系，将课堂的言语活动分为 10 类，每个分类用一个数字代码表示。观察者依照既定分类，采用 3 秒时间取样的方式，记录最能描述教师和学生言语行为种类的相应编码。一节 40–50 分钟的课可产生 800–1 000 个编码，这些编码反映了课堂中按时间顺序发生的一系列事件，连接成序列后能呈现出课堂教学的结构、模式和风格（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3）。
 
 > [!concept-lens] 概念透镜
 > - **含义** FIAC 是一种系统化的定量课堂观察工具，通过编码将课堂言语互动转化为可统计分析的数字序列。
@@ -49,7 +49,7 @@ updated: 2026-06-25
 
 ### 十大编码分类
 
-FIAC 将课堂言语活动分为三大类共 10 个编码（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3；Flanders, 1970）：
+FIAC 将课堂言语活动分为三大类共 10 个[[Coding in Qualitative Research|编码]]（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3；Flanders, 1970）：
 
 > [!ref-table] FIAC 十大编码分类
 > | 编码 | 类别 | 说明 |

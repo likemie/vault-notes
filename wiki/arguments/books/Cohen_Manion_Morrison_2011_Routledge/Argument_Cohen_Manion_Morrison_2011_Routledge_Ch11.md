@@ -416,7 +416,7 @@ Deyle 等人（1992: 623）提出了进入现场的核心两难：以何种身�
 
 LeCompte & Preissle（1993: 106–107）进一步列出了一组更广的伦理议题：
 
-> [!seq-table] 质性田野研究的伦理议题清单（LeCompte & Preissle, 1993）
+> [!seq-table] 质性[[Fieldwork|田野研究]]的伦理议题清单（LeCompte & Preissle, 1993）
 > | 议题 | 核心问题 |
 > |------|----------|
 > | 风险与脆弱性 | [[Non-maleficence and Beneficence in Research\|不伤害原则]]（primum non nocere），当参与者选择自由受年龄、健康、社会约束或生活方式限制时最需要保护。 |
@@ -728,7 +728,7 @@ Lincoln & Guba（1985: 354–355）提醒注意数据过载、仅根据第一印
 
 #### 阶段12：撰写报告（Writing the Report）
 
-自然主义研究主要载体是案例研究。可信度由可信性（credibility）、可转移性（transferability）、可靠性（dependability）和确认性（confirmability）定义（Lincoln & Guba, 1985: 189）。案例研究不仅提供[[Rich and Thick Description|厚描述]]，还捕捉给读者"在此情境中会怎样"的感受，是主位探究的理想工具（Lincoln & Guba, 1985: 359）。
+自然主义研究主要载体是[[Case Study|案例研究]]。可信度由可信性（credibility）、可转移性（transferability）、可靠性（dependability）和确认性（confirmability）定义（Lincoln & Guba, 1985: 189）。案例研究不仅提供[[Rich and Thick Description|厚描述]]，还捕捉给读者"在此情境中会怎样"的感受，是主位探究的理想工具（Lincoln & Guba, 1985: 359）。
 
 Lincoln & Guba（1985: 365–366）的案例研究撰写六条指南：
 

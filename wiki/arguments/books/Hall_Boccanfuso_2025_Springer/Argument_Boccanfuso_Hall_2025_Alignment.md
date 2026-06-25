@@ -324,7 +324,7 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 
 > [!warning]
 - 这一章的功能是提供全书的导论框架而非完整的[[Literature Review|文献综述]]；更全面的研究综述在第二章中呈现(p.11)
-- 四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）是说明性的而非系统性的案例研究——它们展示了合作的可能性，但未提供失败案例的同等详细分析
+- 四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）是说明性的而非系统性的[[Case Study|案例研究]]——它们展示了合作的可能性，但未提供失败案例的同等详细分析
 - 分析主要基于美国大学和企业体系的经验；虽然 [[University Industry Demonstration Partnership|UIDP]] 的国际扩展被提及，但对非美国背景下的[[University-Industry Collaboration|产学合作]]挑战和机制着墨有限(p.19)
 
 ---

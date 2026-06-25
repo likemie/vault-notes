@@ -478,7 +478,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > | 代表性 | 追求代表更广泛的总体 | 只代表自身或同类群体中的实例 |
 > | 推广性 | 支持统计推广（generalization） | 不支持统计推广 |
 > | 偏差风险 | 较低，但仍有抽样误差 | 较高，可能呈现偏斜或偏差 |
-> | 典型应用 | [[Randomised Controlled Trials\|随机对照试验]]、大规模调查 | 小规模研究、案例研究、试点研究 |
+> | 典型应用 | [[Randomised Controlled Trials\|随机对照试验]]、大规模调查 | 小规模研究、[[Case Study\|案例研究]]、试点研究 |
 
 ---
 

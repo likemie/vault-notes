@@ -102,7 +102,7 @@ updated: 2026-05-31
 >
 > 以下为 Plano Clark et al. (2002) 关于高中青少年吸烟与抑郁的[[Qualitative Research|质性研究]]引言（改编自 Creswell & Bàez, 2020），完整展示了缺陷模型的四个组成部分在实际写作中的运用。
 >
-> **论文标题**：*Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis*（探索高中青少年对吸烟的认知与误解：一项多案例研究）
+> **论文标题**：*Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis*（探索高中青少年对吸烟的认知与误解：一项多[[Case Study|案例研究]]）
 >
 > > **一、[[Research Question|研究问题]]**（The [[Research Problem]]）
 > >

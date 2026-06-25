@@ -131,7 +131,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 >    - 国家在导致空间分选的过程中扮演关键角色，但这仍是一个研究不足的议题。
 
 > [!evidence-grid-a] 教育枢纽中的空间分选
-> - **新加坡与东南亚** [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的案例研究显示教育枢纽在有空隙的环境中繁荣——有发达高教体系的新加坡在缺乏类似条件的东南亚区域获得不对称优势。关键机制不仅是通过投资集中产生分选，还通过**维持落差**来自我强化：成功的枢纽有意维持周边地区的低高教发展水平以确保持续优势([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])。
+> - **新加坡与东南亚** [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的[[Case Study|案例研究]]显示教育枢纽在有空隙的环境中繁荣——有发达高教体系的新加坡在缺乏类似条件的东南亚区域获得不对称优势。关键机制不仅是通过投资集中产生分选，还通过**维持落差**来自我强化：成功的枢纽有意维持周边地区的低高教发展水平以确保持续优势([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])。
 > - **阿联酋内部的空间分选** 阿布扎比（[[Cultural Diplomacy|文化外交]]枢纽）与迪拜（教育产业枢纽）在同一联邦体系内形成空间分工——空间分选不仅发生在国家之间，也发生在同一国家内部的不同酋长国之间（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]]）。
 
 ---

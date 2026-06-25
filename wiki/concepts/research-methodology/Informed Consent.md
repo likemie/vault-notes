@@ -187,7 +187,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > > [!abstract] [[Qualitative Research|质性研究]]适用性争议
 > > 核心问题是：知情同意是否适配质性研究的[[Emergence|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
 > >
-> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时田野研究者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
 > > - **持续协商派** 知情同意不是一次性程序，在质性的、涌现性的研究中必须持续协商，而非一次性签署。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
 > > - **数据丰富性派** 寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 83–84)]]
 >

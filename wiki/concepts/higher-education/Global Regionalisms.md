@@ -62,7 +62,7 @@ updated: '2026-05-18'
 >
 > 这一转向使研究从单一关注"区域对教育的影响"扩展为关注高等教育在世界区域的话语建构、新型区域间主义（inter-regionalism）中的竞争关系、以及对高等教育这一"在过去 20 年间可以识别大量活动的部门"的深层影响([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.41–42]])。
 >
-> 具体的区域案例研究涵盖：南美洲四个区域方案（Perrotta, 2016）、Alba-TCP 美洲玻利瓦尔联盟（Muhr, 2010）、亚欧区域间政策（Robertson, 2008）等([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]])。
+> 具体的区域[[Case Study|案例研究]]涵盖：南美洲四个区域方案（Perrotta, 2016）、Alba-TCP 美洲玻利瓦尔联盟（Muhr, 2010）、亚欧区域间政策（Robertson, 2008）等([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]])。
 >
 
 ## 核心要素

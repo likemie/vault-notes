@@ -47,7 +47,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 守门人（Gatekeepers）是研究现场中控制[[Access and Acceptance in Research|研究准入]]（access）与再准入（re-access）的个体或角色。在[[Qualitative Research|质性研究]]中，获得守门人的批准是进入研究或档案现场的关键步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch. 9, p. 199）。守门人可能提供或阻止准入，可能将田野工作者导向一个方向或另一个方向（Hammersley & Atkinson, 1983, p. 65），或对研究实施监视（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 205–208]]）。
+> 守门人（Gatekeepers）是研究现场中控制[[Access and Acceptance in Research|研究准入]]（access）与再准入（re-access）的个体或角色。在[[Qualitative Research|质性研究]]中，获得守门人的批准是进入研究或档案现场的关键步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch. 9, p. 199）。守门人可能提供或阻止准入，可能将[[Fieldwork|田野工作]]者导向一个方向或另一个方向（Hammersley & Atkinson, 1983, p. 65），或对研究实施监视（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 205–208]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 守门人指向研究者与被研究场所之间的权力节点。守门人控制谁可以进入、在什么条件下进入、以及进入后能看到什么。Lee (1993, p. 123) 指出社会准入关键取决于建立人际信任——守门人正是这一信任的看护者。
@@ -140,7 +140,7 @@ Walford (2001, p. 45) 进一步指出守门人可能抱有自身的议程：校�
 > - **陪伴监视** 研究者在现场工作期间可能受到守门人的陪伴（chaperoning），这意味着研究者永远不在完全自然的情境中观察参与者（Lee, 1993, p. 125）。
 > - **成果控制** 守门人可能希望检查、修改或压制已发表的研究成果（Lee, 1993, p. 128）。
 > - **利益交换** 守门人可能要求研究者纳入守门人感兴趣的领域，或直接（甚至排他性地）向守门人报告。
-> - **方向引导** 守门人可能将田野工作者导向一个方向或另一个方向（Hammersley & Atkinson, 1983, p. 65），从而影响研究焦点和发现。
+> - **方向引导** 守门人可能将[[Fieldwork|田野工作]]者导向一个方向或另一个方向（Hammersley & Atkinson, 1983, p. 65），从而影响研究焦点和发现。
 
 Morrison (2006) 在敏感教育研究中具体发现了十五项与守门人相关的问题：
 

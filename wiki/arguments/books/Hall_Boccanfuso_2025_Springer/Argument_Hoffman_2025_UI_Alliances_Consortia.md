@@ -87,7 +87,7 @@ citation_aliases:
 > 实践导向章节（practitioner chapter），不是实证研究。方法为：
 >
 > - **概念类型学**：从组织化程度和资源投入出发，将产学联盟与联合体排列为四种模式——[[Industry Advisory Board|行业咨询委员会]]、[[Industry Affiliate Program|产业联盟计划]]、[[University-Based Research Center|大学研究型中心]]、[[Innovation Hub|创新中心]]
-> - **单一深度案例研究**：[[Advanced Manufacturing Research Centre (AMRC)|AMRC]]（谢菲尔德大学先进制造研究中心）从 1999 年构思到 2024 年的完整发展历程，覆盖建立、增长、制度设计、衍生发展的全周期
+> - **单一深度[[Case Study|案例研究]]**：[[Advanced Manufacturing Research Centre (AMRC)|AMRC]]（谢菲尔德大学先进制造研究中心）从 1999 年构思到 2024 年的完整发展历程，覆盖建立、增长、制度设计、衍生发展的全周期
 > - **经验归纳**：在 AMRC 案例的"经验教训"部分（6.5.1），将成功条件提炼为九条可迁移的操作原则(pp.116–119)
 
 ---

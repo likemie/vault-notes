@@ -40,6 +40,6 @@ updated: 2026-06-13
 > [!case] 课堂案例：为什么"草莓"惹人大笑？（Box 1.5）
 > Walker and Adelman 记录了一个课堂片段：男生 Wilson 读完一篇明显敷衍的短文后，老师说"Wilson, we'll have to put you away if you don't change your ways, and do your [[Homework]]. Is that all you've done?" 学生回答："Strawberries, strawberries."（全班哄堂大笑）
 >
-> 一个使用弗兰德斯互动分析类别（FIAC）[[Coding in Qualitative Research|编码]]的观察者会记录下：'7'（教师批评）→ '4'（教师提问）→ '9'（学生激怒）→ '10'（沉默或混乱）。然而，这样一个编码串——无论多么可靠和有效——无法帮助任何人理解为什么这句打断是好笑的。
+> 一个使用[[Flanders Interaction Analysis Categories|弗兰德斯互动分析]]类别（FIAC）[[Coding in Qualitative Research|编码]]的观察者会记录下：'7'（教师批评）→ '4'（教师提问）→ '9'（学生激怒）→ '10'（沉默或混乱）。然而，这样一个编码串——无论多么可靠和有效——无法帮助任何人理解为什么这句打断是好笑的。
 >
 > Walker and Adelman 随后询问，被告知老师曾多次说学生的作业"像草莓——好的地方很好，但持续的时间远远不够长"。一句过去的随意评论，已经成为班级共享意义系统的有机组成部分。只有通过理解这段随时间发展的关系——即这个特定社会场合的索引性语境——才能理解这一互动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

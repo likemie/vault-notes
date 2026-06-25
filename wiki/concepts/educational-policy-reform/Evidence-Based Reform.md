@@ -238,7 +238,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 ### ECNU 实证研究论坛与"华东师范大学宣言"
 
-华东师范大学（ECNU）自 2015 年起连续五年举办全国教育实证研究论坛。第五届（2019）扩展至 16 所大学联合组织 16 场平行会议，涵盖视频逻辑分析、[[Qualitative Research|质性研究]]反思、实证调查、[[Mixed Methods Research|混合方法]]、社会网络分析、[[Experimental Research|实验研究]]、行动研究、[[Ethnography|民族志]]、大数据分析、文本分析等主题([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.12]])。
+华东师范大学（ECNU）自 2015 年起连续五年举办全国教育实证研究论坛。第五届（2019）扩展至 16 所大学联合组织 16 场平行会议，涵盖视频逻辑分析、[[Qualitative Research|质性研究]]反思、实证调查、[[Mixed Methods Research|混合方法]]、社会网络分析、[[Experimental Research|实验研究]]、[[Action Research|行动研究]]、[[Ethnography|民族志]]、大数据分析、文本分析等主题([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.12]])。
 
 2017 年 1 月，14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"（ECNU Declaration），提出 10 条推进措施：加强课程建设与青年教师培训、提高实证研究产出、组织全国论坛、编辑出版国际高质量出版物、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众开放教育数据等([[Argument_Slavin_2021_ROE|Slavin et al., 2021, p.14-15]])。详见 [[ECNU Declaration on Evidence-Based Research]]。
 
@@ -311,7 +311,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 法语比利时[[Pact for Educational Excellence|教育卓越公约]]显示，证据本位改革进入非英美语境时，常常不能直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 式的证据等级。2017 年工作组列出 425 个教学工具/项目，其中只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若严格套用实验优先的证据层级，几乎 97% 的候选工具会被排除([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。
 
-因此，改革团队建立了一个包容性验证类型学，把专家验证、案例研究、横断研究、相关或纵向研究、实验与准[[Experimental Research|实验研究]]纳入同一框架，并为不同方法设置最低质量标准。这个选择不是否定实验研究，而是在本地证据库薄弱、学科教学专家参与教师培养且政治上需要协作的条件下，把实验方法作为逐步提高标准的方向，而不是一开始就作为排除性门槛([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
+因此，改革团队建立了一个包容性验证类型学，把专家验证、[[Case Study|案例研究]]、横断研究、相关或纵向研究、实验与准[[Experimental Research|实验研究]]纳入同一框架，并为不同方法设置最低质量标准。这个选择不是否定实验研究，而是在本地证据库薄弱、学科教学专家参与教师培养且政治上需要协作的条件下，把实验方法作为逐步提高标准的方向，而不是一开始就作为排除性门槛([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
 
 这一案例补充了 EBR 的实施条件：Slavin 的三条件假定已经存在足够多“经验证项目”和面向教师的综述，但在法语比利时，第一项条件仍只是起步，第二项还受英语文献屏障限制；相对明确的进展是官方建议为学校实验和严格评价设置约 200 万欧元预算，体现第三项“提供实施资源”的制度基础([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.179-181]])。
 

@@ -81,7 +81,7 @@ updated: 2026-06-24
 > [!feature] 厚描述的五项核心功能
 > - **传达情境感受** 将读者"传送"到研究场所，赋予讨论一种共享经验的元素。当质性研究者提供详细的场所描述，或就一个主题提供多种视角时，结果变得更加真实和丰富（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.213）。
 > - **支持效度判断** 丰富密集的描述是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一。它不仅服务于效度目的——保证读者有足够的背景信息来判断研究发现的迁移性——也服务于质性写作本身的可读性和感染力（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
-> - **支撑概括性判断** 在[[Ethnography|民族志]]和案例研究中尤为关键。Stake（1995）强调案例研究中的丰富描述为读者提供了进行[[Naturalistic Generalization|自然主义概括]]的基础——即读者基于自身经验判断研究发现与自身情境的相似性。Larsson（2009: 32）进一步论证，研究者的任务是为受众提供充分的厚描述，以便他们做出关于概括性的知情判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 444–445)]]
+> - **支撑概括性判断** 在[[Ethnography|民族志]]和[[Case Study|案例研究]]中尤为关键。Stake（1995）强调案例研究中的丰富描述为读者提供了进行[[Naturalistic Generalization|自然主义概括]]的基础——即读者基于自身经验判断研究发现与自身情境的相似性。Larsson（2009: 32）进一步论证，研究者的任务是为受众提供充分的厚描述，以便他们做出关于概括性的知情判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 444–445)]]
 > - **平衡独特性与规律性** Dobbert & Kurth-Schai（1992: 150）认为民族志学者的任务是平衡两种承诺：通过厚描述捕捉社会互动的多样性、变异性、创造性和独特性，同时寻求其中的规律性、秩序和模式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 406)]]
 > - **使隐性知识显性化** Spindler & Spindler（1992: 72–74）指出某些影响行为和沟通的社会文化知识是隐性的、默会的，甚至不为参与者自身所知。厚描述的任务之一就是将这种隐性的社会文化知识对读者显性化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 407)]]
 
@@ -101,7 +101,7 @@ updated: 2026-06-24
 
 ## 操作层面
 
-Lincoln & Guba（1985: 365–366）在案例研究撰写指南中明确了厚描述的实践原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 443–444)]]）：
+Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中明确了厚描述的实践原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 443–444)]]）：
 
 > [!proc] 厚描述的撰写原则
 > 1. **追求非正式风格** 写作应追求非正式风格以捕捉非正式性——厚描述不是冷冰冰的技术报告。
@@ -117,5 +117,5 @@ Lincoln & Guba（1985: 365–366）在案例研究撰写指南中明确了厚描
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为八种[[Qualitative Validity|质性效度]]策略之一，强调其在[[Ethnography|民族志]]和案例研究中的核心作用以及与[[Naturalistic Generalization|自然主义概括]]的关系。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为八种[[Qualitative Validity|质性效度]]策略之一，强调其在[[Ethnography|民族志]]和[[Case Study|案例研究]]中的核心作用以及与[[Naturalistic Generalization|自然主义概括]]的关系。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将厚描述定位为自然主义[[Paradigm|范式]]的核心公理，系统阐述其[[Epistemology|认识论]]根基（Geertz, 1973）、在可[[Reliability|信度]]框架中的位置（Lincoln & Guba, 1985）、平衡功能（Dobbert & Kurth-Schai, 1992）、概括性支撑功能（Larsson, 2009）以及选择性纪律（Swain, 2006）。

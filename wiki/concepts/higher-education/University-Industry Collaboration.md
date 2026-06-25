@@ -172,7 +172,7 @@ updated: 2026-06-05
 - 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.42]]）。这催生了正式的制度化的[[Third Mission (Universities)|大学第三使命]]([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])
 - 2019 年，牛津大学与 [[University Industry Demonstration Partnership|UIDP]] 联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名产学政高层代表。峰会识别了政策环境的根本转向——从"资助科学"转向"催化影响"，美英欧的科学政策日益强调"有影响的知识"（knowledge with impact）。英国在 2021/22 前的四年期间追加 47 亿英镑科学预算，大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|ISCF]]）投入产业主导的研究与创新优先领域；美国通过 [[ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦约 1,500 亿美元年度研发投资的价值转化([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.5-7]])
 - 同期，产学互动的规模大幅增长：美国大学来自产业的研发资金从 1990 年的 22 亿美元增至 2022 年的 57 亿美元（按 2022 年不变价）；英国大学[[Knowledge Transfer|知识转移]]活动收入从 2004 年的 43 亿美元增至 2022 年的 87 亿美元([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])
-- 2023 年，ODwyer、Filieri 和 OMalley 基于爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的案例研究，提出了产学合作演化的 四阶段模型，胚胎期（正式合作前）、启动期（第 1–3 年）、参与期（第 4–7 年）、确立期（第 8 年至今）。该模型的核心贡献是揭示了障碍和促进因素的**时间维度**：强不信任和知识泄露恐惧主导胚胎期，知识产权协议缺失主导启动期，信任演化和互惠性主导参与期。政府资助的均等分配和协作式知识产权协议的制定被识别为两个关键突破机制[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]
+- 2023 年，ODwyer、Filieri 和 OMalley 基于爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的[[Case Study|案例研究]]，提出了产学合作演化的 四阶段模型，胚胎期（正式合作前）、启动期（第 1–3 年）、参与期（第 4–7 年）、确立期（第 8 年至今）。该模型的核心贡献是揭示了障碍和促进因素的**时间维度**：强不信任和知识泄露恐惧主导胚胎期，知识产权协议缺失主导启动期，信任演化和互惠性主导参与期。政府资助的均等分配和协作式知识产权协议的制定被识别为两个关键突破机制[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]
 
 ## 核心要素
 
@@ -330,7 +330,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 ### 障碍与促进因素的动态演化
 
 > [!info]
-> ODwyer 等（2023）对爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的案例研究揭示了产学合作障碍和促进因素的时间维度：它们不是静态的，而是随合作阶段演化。胚胎期由强知识泄露恐惧和不信任主导；启动期转向缺乏知识产权协议和资源/知识共享顾虑；参与期以产业间中度不信任为主要障碍，其余界面障碍减少；确立期已无全新障碍出现。关键机制包括政府资助的均等分配（消除零和博弈心态，培养平等和所有权意识）和协作式知识产权协议的制定（由产业法律团队和学术代表共同参与的联合知识产权委员会）。信任经历了从声誉基础到诚信基础的演化[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]。
+> ODwyer 等（2023）对爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的[[Case Study|案例研究]]揭示了产学合作障碍和促进因素的时间维度：它们不是静态的，而是随合作阶段演化。胚胎期由强知识泄露恐惧和不信任主导；启动期转向缺乏知识产权协议和资源/知识共享顾虑；参与期以产业间中度不信任为主要障碍，其余界面障碍减少；确立期已无全新障碍出现。关键机制包括政府资助的均等分配（消除零和博弈心态，培养平等和所有权意识）和协作式知识产权协议的制定（由产业法律团队和学术代表共同参与的联合知识产权委员会）。信任经历了从声誉基础到诚信基础的演化[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]。
 
 ---
 

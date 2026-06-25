@@ -63,7 +63,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Reflexivity|反思性]]评论（commentary），以作者个人经验作为案例研究
+> - 方法：[[Reflexivity|反思性]]评论（commentary），以作者个人经验作为[[Case Study|案例研究]]
 > - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of Hattie"(Eacott, 2017a)及其在学术界引发的反应
 > - 数据来源：论文发表后收到的邮件、Twitter 互动、博客评论、大学投诉调查、期刊编辑决策、Hattie 的正式回应
 
