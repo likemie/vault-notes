@@ -3641,6 +3641,14 @@
     ]
   },
   {
+    "title": "Depoliticalization of Ethnic Policy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
+    "aliases": [
+      "民族政策去政治化"
+    ]
+  },
+  {
     "title": "Discursive Stratification",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Discursive Stratification.md",
@@ -4092,6 +4100,14 @@
     ]
   },
   {
+    "title": "Second-generation Ethnic Policy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Second-generation Ethnic Policy.md",
+    "aliases": [
+      "第二代民族政策"
+    ]
+  },
+  {
     "title": "Selectivity",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Selectivity.md",
@@ -4208,6 +4224,14 @@
       "波动性-不确定性-复杂性-模糊性",
       "VUCA 框架",
       "VUCA环境"
+    ]
+  },
+  {
+    "title": "Wuhu Ruhua",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Wuhu Ruhua.md",
+    "aliases": [
+      "五胡入华"
     ]
   },
   {
@@ -5648,6 +5672,18 @@
     ]
   },
   {
+    "title": "Parallel-Forms Reliability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Parallel-Forms Reliability.md",
+    "aliases": [
+      "复本信度",
+      "平行信度",
+      "alternate forms reliability",
+      "equivalent forms reliability",
+      "等值信度"
+    ]
+  },
+  {
     "title": "Performance Indicators",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Performance Indicators.md",
@@ -6213,6 +6249,16 @@
       "评估与赋值社会学",
       "sociology of evaluation",
       "评估社会学"
+    ]
+  },
+  {
+    "title": "Split-Half Reliability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Split-Half Reliability.md",
+    "aliases": [
+      "折半信度",
+      "分半信度",
+      "split-half"
     ]
   },
   {
@@ -9346,6 +9392,15 @@
     ]
   },
   {
+    "title": "Ma Rong",
+    "type": "person",
+    "path": "wiki/persons/china/Ma Rong.md",
+    "aliases": [
+      "Ma, R.",
+      "马戎"
+    ]
+  },
+  {
     "title": "Mencius",
     "type": "person",
     "path": "wiki/persons/china/Mencius.md",
@@ -9354,6 +9409,15 @@
       "Mengzi",
       "Meng Ke",
       "孟轲"
+    ]
+  },
+  {
+    "title": "Pan Yue",
+    "type": "person",
+    "path": "wiki/persons/china/Pan Yue.md",
+    "aliases": [
+      "Pan, Y.",
+      "潘岳"
     ]
   },
   {

@@ -9,6 +9,10 @@ aliases:
 summary: "评估同一测量工具在多次施测间得分稳定程度的信度指标，用于判断量表在不同时间点是否产生可比的分数"
 type: concept
 domain: "research-methodology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/measurement
   - quantitative-research
@@ -40,7 +44,9 @@ updated: 2026-06-26
 > - **边界** 重测信度不同于[[Internal Consistency|内部一致性]]（同一时间点各条目间的一致性）和[[Inter-Rater Reliability|评分者间信度]]（不同评分者间的一致性）。某些构念本身就不应具有高重测信度——如"当前情绪状态"应在短期内波动，高重测信度反而说明量表不够灵敏。
 
 > [!quote]
-> "This form of reliability concerns whether the scale is reasonably stable over time with repeated administrations (e.g., is there a comparable score on the PSS taken by a group of participants at time 1 and then one month later?)."（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）
+> 这种信度形式关注的是量表在重复施测间是否随时间保持合理的稳定——例如，一组受试者在时间点 1 完成 PSS，一个月后再次完成同一量表，两次得分是否具有可比性？（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）
+>
+> *This form of reliability concerns whether the scale is reasonably stable over time with repeated administrations (e.g., is there a comparable score on the PSS taken by a group of participants at time 1 and then one month later?).*
 
 ---
 
@@ -53,6 +59,31 @@ updated: 2026-06-26
 > 2. **间隔后重测** 在适当的时间间隔后对同一组受试者再次施测同一量表。常用适当间隔为两星期到一个月之间（齐梅, 2015, Ch.5；Creswell & Creswell, 2022, Ch8）
 > 3. **计算相关系数** 一般使用皮尔逊积矩相关系数（Pearson product-moment correlation）计算两次测量之间的相关。高相关（如 r > .70）表明量表具有良好的重测信度
 > 4. **报告均值差异** 评估是否存在系统性变化（如练习效应或疲劳效应）
+
+### 计算公式与解读
+
+重测信度一般使用皮尔逊积矩相关系数（Pearson product-moment correlation coefficient）计算（齐梅, 2015, Ch.5）：
+
+> [!formula] Pearson 积矩相关系数
+> $$r = \frac{\sum_{i=1}^{n}(X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum_{i=1}^{n}(X_i - \bar{X})^2} \cdot \sqrt{\sum_{i=1}^{n}(Y_i - \bar{Y})^2}}$$
+
+其中 $X_i$ 和 $Y_i$ 分别为第 $i$ 个受试者在首次施测和重测中的得分，$\bar{X}$ 和 $\bar{Y}$ 为两次施测的均值，$n$ 为受试者人数。分子为两变量的协方差，分母为两变量标准差的乘积——本质上衡量的是两次测量**共变程度**相对于各自变异的大小。
+
+> [!ref-table] r 值的解读
+> | r 值范围 | 相关强度 | 信度判定 |
+> |---|---|---|
+> | 0.80–1.00 | 强相关 | 完全可接受 |
+> | 0.70–0.80 | 中等偏强 | 可以接受 |
+> | 0.65–0.70 | 中等 | 勉强可以接受 |
+> | < 0.65 | 弱相关 | 不可接受，需修订工具 |
+
+> [!warning] Pearson r 的前提假设
+> - **线性关系**：Pearson r 仅适用于变量间具有线性关系，不适用于非线性关系（齐梅, 2015, Ch.10）
+> - **连续变量**：两变量应为等距或比率变量
+> - **正态分布**：两变量应近似服从正态分布
+> - **无极端值**：极端值会显著扭曲相关系数
+
+---
 
 ### 适用条件
 

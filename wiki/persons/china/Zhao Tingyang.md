@@ -7,7 +7,7 @@ summary: "中国哲学家，以天下理论著称，提出以中国为中心的�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
