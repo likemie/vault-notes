@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中指示研究者方法在不同研究者和不同项目之间一致性的标准，与量化信度的含义不同"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:

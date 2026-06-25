@@ -9,7 +9,7 @@ summary: "同时收集量化和质性数据、分别分析后将结果合并比�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Case Study]]"
   - "[[Qualitative Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
@@ -160,7 +161,7 @@ updated: 2026-06-02
 > [!tip]-
 > - [[Explanatory Sequential Design|解释性序列设计]] — 顺序不同：聚敛式是同时收集、合并比较；解释性序列是量化在前、质性在后，质性用于解释量化结果。
 > - [[Exploratory Sequential Design|探索性序列设计]] — 顺序相反（质性→量化），且质性发现直接用于开发或修改量化工具。
-> - **复杂嵌入设计 (Complex Embedded Design)** — 将聚敛式设计嵌入更大的框架（如实验、案例研究）中使用。
+> - **复杂嵌入设计 (Complex Embedded Design)** — 将聚敛式设计嵌入更大的框架（如实验、[[Case Study|案例研究]]）中使用。
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "研究敏感话题的研究者因研究主题本身而被社会污名波及的现象——研究者与被研究者共享同一种社会污名"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,8 @@ related_concepts:
   - "[[Guilty Knowledge]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_methods:
+  - "[[Fieldwork]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-22

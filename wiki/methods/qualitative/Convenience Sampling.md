@@ -11,9 +11,9 @@ summary: "选择最近便或最容易接触的个体作为样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
+  - "[[Case Study]]"
   - "[[Random Sampling]]"
 related_persons: []
 related_facts: []
@@ -45,7 +46,7 @@ updated: 2026-06-22
 
 > [!method-scope] 方法范围
 > - **研究对象**：最容易接触的个体或群体
-> - **问题类型**：探索性研究、试点研究、案例研究
+> - **问题类型**：探索性研究、试点研究、[[Case Study|案例研究]]
 > - **分析单位**：个体
 > - **输出形式**：局部描述，无法推广
 
@@ -56,7 +57,7 @@ updated: 2026-06-22
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**：案例研究、问卷试点、资源极度有限的小规模研究。
+> - **适合使用**：[[Case Study|案例研究]]、问卷试点、资源极度有限的小规模研究。
 > - **谨慎使用**：需要对研究发现的[[External Validity|可推广性]]做出清晰说明。
 > - **不适合使用**：需要统计推广到更广泛总体、需要计算误差范围的研究。
 

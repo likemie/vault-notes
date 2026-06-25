@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_JEAH"
 argument_key: "Argument_Keddie_2020_JEAH"
 argument_display_title: "School autonomy, marketisation and social justice: the plight of principals and schools"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Case Study]]"
   - "[[Convenience Sampling]]"
 related_persons: []
 related_facts:

@@ -8,13 +8,14 @@ summary: "战国儒家思想家，主张性恶论，强调礼义教化与后天�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]
 related_concepts:
   - "[[Four Sprouts]]"
+  - "[[Bildung]]"
   - "[[Learning Virtues]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -43,7 +44,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> 与[[Mencius|孟子]]主张人性本善、人有"[[Four Sprouts]]"（四端）不同，荀子主张人性本恶，认为人的自然倾向是追求私利与感官满足。但荀子并不因此走向悲观——他恰恰由此论证了学习的绝对必要性：正是通过后天的礼义教化与持续学习，人性才得以改造和完善。
+> 与[[Mencius|孟子]]主张人性本善、人有"[[Four Sprouts]]"（四端）不同，荀子主张人性本恶，认为人的自然倾向是追求私利与感官满足。但荀子并不因此走向悲观——他恰恰由此论证了学习的绝对必要性：正是通过后天的礼义[[Bildung|教化]]与持续学习，人性才得以改造和完善。
 
 > [!abstract]
 > 荀子的这一主张在逻辑上为[[Confucian Learning Tradition|儒家学习传统]]提供了与孟子不同但同样有力的论证：如果人性本善，学习的任务是"保养"与"发展"先天萌芽；如果人性本恶，学习的任务则是"改造"与"重塑"——学习不是锦上添花，而是人之为人的根本条件。

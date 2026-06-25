@@ -31,7 +31,8 @@ related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Triple Helix]]"
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
@@ -53,7 +54,7 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

@@ -38,7 +38,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> 随机[[Random Sampling|分层抽样]]（Random Stratified Sampling）是将总体按关键特征划分为同质组（层，strata），然后在各组内分别随机抽样的概率抽样方法。它确保样本在所选特征上的比例与总体一致，是[[Random Assignment|随机化]]与分类化的结合。特征选择应尽量简洁——因素越多，不仅抽样越复杂，样本往往也越大。
+> 随机分层抽样（Random Stratified Sampling）是将总体按关键特征划分为同质组（层，strata），然后在各组内分别[[Random Sampling|随机抽样]]的概率抽样方法。它确保样本在所选特征上的比例与总体一致，是[[Random Assignment|随机化]]与分类化的结合。特征选择应尽量简洁——因素越多，不仅抽样越复杂，样本往往也越大。
 
 > [!method-scope] 方法范围
 > - **研究对象**：已知关键特征（如性别、社会经济地位、族裔）的总体
@@ -69,4 +69,4 @@ updated: 2026-06-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍[[Random Sampling|分层抽样]]的两步程序和层数膨胀问题。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍分层抽样的两步程序和层数膨胀问题。

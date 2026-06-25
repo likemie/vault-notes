@@ -5,7 +5,7 @@ aliases:
 summary: "以哈贝马斯认识兴趣三分法为核心的社会理论范式，旨在通过意识形态批判和变革实践解放被压迫群体，推动社会民主与平等。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ideology Critique]]"
+  - "[[Action Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
@@ -102,7 +103,7 @@ updated: 2026-06-16
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
 > - **[[Ontology|本体论]]**：社会实在是权力斗争的产物，由政治和意识形态力量塑造而非自然存在。多重实在并存，但某些实在被权力结构特权化、其他被压制。
 > - **认识论**：知识不可能是[[Value Neutrality|价值中立]]的。研究者和被研究者都是政治主体。"客观性"的主张本身是一种维护现状的意识形态姿态。
-> - **方法含义**：主张[[Ideology Critique|意识形态批判]]和行动研究作为核心方法，强调参与、赋权和变革，而非仅仅观察和描述。
+> - **方法含义**：主张[[Ideology Critique|意识形态批判]]和[[Action Research|行动研究]]作为核心方法，强调参与、赋权和变革，而非仅仅观察和描述。
 > - **不能直接推出的东西**：不能从批判理论直接推出任何特定群体必然处于"虚假意识"中；意识形态批判与解放之间的[[Causality|因果关系]]是经验的而非逻辑的问题。
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-06-16
 > [!dev-timeline] 发展脉络
 > - **1930s-1940s** — 法兰克福学派奠基：阿多诺、霍克海默、马尔库塞等从马克思主义传统出发，批判工具理性和文化工业。
 > - **1972** — 哈贝马斯出版《知识与人类兴趣》，提出三种知识构成性兴趣的框架，将批判理论系统化为[[Epistemology|认识论]]和方法论基础。
-> - **1980s-1990s** — 批判理论进入教育研究：Carr and Kemmis (1986)、Grundy (1987) 将[[Ideology Critique|意识形态批判]]和行动研究引入课程和教育实践分析。
+> - **1980s-1990s** — 批判理论进入教育研究：Carr and Kemmis (1986)、Grundy (1987) 将[[Ideology Critique|意识形态批判]]和[[Action Research|行动研究]]引入课程和教育实践分析。
 > - **2007** — Mertens 提出变革[[Paradigm|范式]]（[[Transformative Paradigm]]），将批判理论的解放兴趣整合进[[Mixed Methods Research|混合方法研究]]框架。
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-06-16
 > - **停留在思辨层面**（Lakomski, 1999）：哈贝马斯的著作对社会变革保持沉默，缺乏经验检验，其理论仅依靠概念模糊性而存活（Kolakowski, 1978）。
 
 > [!critique] 批评索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、行动研究的赋权效果缺乏证据。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、[[Action Research|行动研究]]的赋权效果缺乏证据。
 
 ---
 

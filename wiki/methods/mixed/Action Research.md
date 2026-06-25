@@ -7,20 +7,30 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/action-research
   - source/textbook
   - theme/practice-improvement
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Scientific Attitude]]"
+  - "[[Scientific Method]]"
+  - "[[Hypothesis]]"
+  - "[[Research Question]]"
+  - "[[Governance by Spin]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observation Method]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-06-25
@@ -34,7 +44,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!def] 行动研究（Action Research）
-> 行动研究是研究者与实践者合作，通过计划—行动—观察—反思的螺旋循环过程，解决社会或教育情境中实际问题的一种研究范式（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.9）。其基本目的是改进实践而不是构建理论（Elliott, 1981）。勒温（Lewin, 1946）最早将其定义为"将研究者与实践者的优势相结合以解决社会实际问题的一种方法"。
+> 行动研究是研究者与实践者合作，通过计划—行动—观察—反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.9）。其基本目的是改进实践而不是构建理论（Elliott, 1981）。勒温（Lewin, 1946）最早将其定义为"将研究者与实践者的优势相结合以解决社会实际问题的一种方法"。
 
 > [!method-scope] 方法范围
 > - **研究对象**：社会或教育情境中的实际问题，如教学改进、课程发展、管理评价、政策制定、行为干预等。
@@ -49,8 +59,8 @@ updated: 2026-06-25
 > [!feature] 行动研究的四大特征
 > - **参与与合作** 研究者、实践者和评价者平等合作。教师和学生不再是研究对象，而是研究的主体——在研究中行动，在行动中研究。合作中没有"权威"，平等交流是持续的基础。
 > - **实践与改进** 行动研究的根本目的是使社会现象或问题朝向某种方向改进。改进的方法和效果需要实践的检验，实践的过程也是发现和完善改进方法的过程。
-> - **研究与反思** 行动研究是一套有科学架构的研究系统，包括科学态度（神圣敬畏、怀疑求真、严谨认真、自由责任、兼容创新）、科学方法和科学过程（提出问题→分析问题→解决问题→反思问题）。反思是理论与实践之间的桥梁。
-> - **评价与推广** 对研究假设、方法、过程和结果进行客观判断。行动研究的成果来源于实践，应用价值高，推广意味着公开，接受更多实践的检验、批判与改进。
+> - **研究与反思** 行动研究是一套有科学架构的研究系统，包括[[Scientific Attitude|科学态度]]（神圣敬畏、怀疑求真、严谨认真、自由责任、兼容创新）、[[Scientific Method|科学方法]]和科学过程（提出问题→分析问题→解决问题→反思问题）。反思是理论与实践之间的桥梁。
+> - **评价与推广** 对[[Hypothesis|研究假设]]、方法、过程和结果进行客观判断。行动研究的成果来源于实践，应用价值高，推广意味着公开，接受更多实践的检验、批判与改进。
 
 ---
 
@@ -59,8 +69,8 @@ updated: 2026-06-25
 行动研究的核心是螺旋循环过程：
 
 > [!proc] 行动研究九步程序
-> 1. **发现问题** 问题来源于社会或教育情境和实践，往往具体而模糊，需要结合问题背景提炼出研究问题。
-> 2. **分析问题** 充分了解问题的特征、研究价值和可实施性。在此过程中可能出现"分枝问题"（spin-off problems），意味着新一轮螺旋循环开始。
+> 1. **发现问题** 问题来源于社会或教育情境和实践，往往具体而模糊，需要结合问题背景提炼出[[Research Question|研究问题]]。
+> 2. **分析问题** 充分了解问题的特征、研究价值和可实施性。在此过程中可能出现"分枝问题"（[[Governance by Spin|Spin]]-off problems），意味着新一轮螺旋循环开始。
 > 3. **提出改进策略** 应用心理学或教育学等相关知识，在深入了解问题本质特征后提出。
 > 4. **实施改进策略** 一边行动一边观察、反思、调整。行动研究以问题为导向，而不是以计划为准绳。
 > 5. **评测改善效果** 详细收集信息与客观分析处理，可采用逻辑归纳、前后对比或实验组对比组比较。
@@ -78,7 +88,7 @@ Kemmis 在 Lewin 的螺旋循环基础上提出"计划→行动→观察→反�
 
 ## 常用方法
 
-行动研究属于量质混合设计，常用质性方法包括文献法、访谈法、轶事记录法、日记记录法、参与性观察法、案例分析法和情境分析法等；量性方法包括观察法、实验法、问卷法和测验法等。此外还有三种特有方法：
+行动研究属于量质混合设计，常用质性方法包括[[Document|文献]]法、访谈法、轶事记录法、日记记录法、参与性[[Observation Method|观察法]]、案例分析法和情境分析法等；量性方法包括观察法、[[Experimental Research|实验法]]、问卷法和测验法等。此外还有三种特有方法：
 
 - **头脑风暴法**：通过激发创造力和想象力收集广泛建议，在收集阶段只需提出想法不需要评价；在选择方案阶段寻求思想的联系并整合方案。
 - **三角形观察法**：由研究者、行动者和评价者从各自角度观察行动研究过程并进行客观记录，通过交流与积极反思碰撞观点。

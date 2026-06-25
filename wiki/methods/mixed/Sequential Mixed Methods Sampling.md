@@ -7,7 +7,7 @@ summary: "一种样本先于另一种并影响后续样本的混合方法抽样�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Stage Sampling]]"
   - "[[Qualitative Interview]]"
+  - "[[Case Study]]"
   - "[[Parallel Mixed Methods Sampling]]"
 related_persons: []
 related_facts: []
@@ -49,7 +50,7 @@ updated: 2026-06-22
 > [!proc] 两种典型路径
 > **量化先行路径**：定量数据（如大规模调查）先行收集和分析 → 分析结果识别极端案例、关键案例或高度同质/变异的[[Variable|变量]] → 指导后续质性抽样（如[[Qualitative Interview|深度访谈]]的目标人选）。
 >
-> **质性先行路径**：定性数据（如案例研究、焦点小组）先行收集和分析 → 识别需要进一步量化探索的议题 → 指导后续量化调查的设计和抽样。
+> **质性先行路径**：定性数据（如[[Case Study|案例研究]]、焦点小组）先行收集和分析 → 识别需要进一步量化探索的议题 → 指导后续量化调查的设计和抽样。
 
 ## 适用场景
 

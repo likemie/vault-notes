@@ -9,7 +9,7 @@ summary: "将受试者随机分配到四组的真实验设计，通过操纵前�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Internal Validity]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Factorial Design]]"
@@ -69,7 +70,7 @@ Group D  R ———————————————— O    (无前测 + �
 ## 局限性
 
 > [!warning]
-> - 需要四倍的样本量（四组而非两组），资源需求显著增加。
+> - 需要四倍的[[Sample Size Determination|样本量]]（四组而非两组），资源需求显著增加。
 > - 统计分析相对复杂——需要 2 × 2 [[Analysis of Variance|ANOVA]] 或更复杂的混合模型来检验前测 × 处理的交互效应。
 > - 在实际教育研究中，同时运行四个组的实验在后勤和伦理上都有较高门槛，因此 Solomon 四组设计的实际使用频率远低于仅后测对照组设计。
 

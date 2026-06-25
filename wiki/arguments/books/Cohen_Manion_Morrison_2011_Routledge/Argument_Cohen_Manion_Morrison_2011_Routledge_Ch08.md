@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Causal Modeling]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Case Study]]"
   - "[[Systematic Sampling]]"
   - "[[Stratified Sampling]]"
   - "[[Random Assignment]]"

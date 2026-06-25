@@ -8,7 +8,7 @@ summary: "苏联教育改革家，因其教育思想与实践被西方学界称�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Progressive Education]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -139,6 +140,6 @@ updated: '2026-06-08'
 > 马卡连柯的争议主要集中在两个问题：第一，集体是否会压倒儿童个体；第二，他的劳动殖民地经验究竟是教育实验，还是苏联纪律化治理的一部分。
 
 - **苏联内部批评**：1928 年前后，马卡连柯的方法被批评为不符合当时苏联教育正统，尤其是其纪律、集体自治和劳动组织方式与教育官僚期待发生冲突。
-- **个体与集体的张力**：批评者认为，马卡连柯体系可能赋予儿童集体过强的规训力量，压制儿童个体权利和家庭权利；Vladimir Sirotin 等后苏联批评者甚至将其称为"命令式教育"或"惩罚性教育"传统的一部分。
+- **个体与集体的张力**：批评者认为，马卡连柯体系可能赋予儿童集体过强的[[Disciplina and Doctrina|规训]]力量，压制儿童个体权利和家庭权利；Vladimir Sirotin 等后苏联批评者甚至将其称为"命令式教育"或"惩罚性教育"传统的一部分。
 - **再评价**：Halvorsen（2014）等较同情的解释则认为，马卡连柯并非简单牺牲个体，而是试图在个体发展和有引导的集体影响之间建立平衡；在青年照护、成瘾干预和群体工作中，这一面向仍有启发性。
 - **政治记忆争议**：2024 年，乌克兰公共记忆与去殖民化语境中，马卡连柯因曾在 NKVD 系统任职而被重新审视；这类争议影响的是公共纪念和命名实践，不等同于禁止研究其教育活动。

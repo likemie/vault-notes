@@ -9,9 +9,9 @@ summary: "质性研究中将最终报告或特定描述和主题带回给参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -26,6 +26,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Participatory Research]]"
+  - "[[Action Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -58,7 +59,7 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> 成员核查特别适用于参与者具备足够反思能力、且研究涉及对参与者经验和视角的理解和呈现的研究设计。在[[Participatory Research|参与式研究]]或行动研究中，成员核查不仅是效度策略，也是[[Research Ethics|研究伦理]]和参与者赋权的一部分。
+> 成员核查特别适用于参与者具备足够反思能力、且研究涉及对参与者经验和视角的理解和呈现的研究设计。在[[Participatory Research|参与式研究]]或[[Action Research|行动研究]]中，成员核查不仅是效度策略，也是[[Research Ethics|研究伦理]]和参与者赋权的一部分。
 
 ## 局限性
 

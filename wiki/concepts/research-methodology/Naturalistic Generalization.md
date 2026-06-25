@@ -6,7 +6,7 @@ aliases:
 summary: "质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Descriptive Research Question]]"
 related_theories: []
 related_methods:
+  - "[[Case Study]]"
   - "[[Qualitative Research]]"
   - "[[Theoretical Sampling]]"
   - "[[Ethnography]]"

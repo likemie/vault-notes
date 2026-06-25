@@ -9,9 +9,9 @@ summary: "Lincoln 和 Guba 建立质性研究可信性的六项核心策略之�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -40,6 +40,7 @@ related_methods:
   - "[[Member Checking]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
+  - "[[Case Study]]"
   - "[[Narrative Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -82,7 +83,7 @@ updated: 2026-06-23
 > - **不声称回答的问题**：同行汇报不能替代研究者对数据的直接沉浸；它不能独立证明研究发现是"正确的"，只能增强其可信性；它不能替代成员核查——L&G 明确区分：三角验证是数据的检查，成员核查是对成员数据建构的检查（p. 315）。
 
 > [!method-stack] 方法层级
-> - **研究设计**：适用于所有质性研究设计——[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]、案例研究、[[Narrative Research|叙事研究]]等
+> - **研究设计**：适用于所有质性研究设计——[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]、[[Case Study|案例研究]]、[[Narrative Research|叙事研究]]等
 > - **操作层级**：效度保障策略（validity strategy）——不是独立的研究方法，而是嵌入质性研究过程中的质量保障程序
 > - **关联策略**：与[[Member Checking|成员核查]]、[[Triangulation|三角验证]]、[[Negative Case Analysis|负面案例分析]]和[[External Auditor|外部审计]]同属[[Qualitative Validity|质性效度]]保障工具族
 

@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "higher-education"
-related_count: 90
+related_count: 91
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -77,7 +77,8 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Values Alignment Model]]"
   - "[[King-Persily Model]]"
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"

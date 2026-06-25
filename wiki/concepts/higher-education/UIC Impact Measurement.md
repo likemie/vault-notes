@@ -8,10 +8,10 @@ aliases:
 summary: "Cohen、Fernandes 与 Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - theme/research-impact-assessment
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -48,7 +48,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 比较案例研究（Comparative [[Case Study]], CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])。
+> 比较[[Case Study|案例研究]]（Comparative [[Case Study]], CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])。
 
 CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 
@@ -107,7 +107,7 @@ CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**�
 
 > [!example]
 - [[Argument_Erfurth_2022_education-hubs]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
-- [[Argument_SpronkenSmith_2024_AEHE]] — 采用比较案例研究加[[Mixed Methods Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
+- [[Argument_SpronkenSmith_2024_AEHE]] — 采用比较[[Case Study|案例研究]]加[[Mixed Methods Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
 
 ---
 

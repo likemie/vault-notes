@@ -8,10 +8,10 @@ aliases:
 summary: "研究现场中控制研究准入与再准入的个体或角色，在质性研究和敏感研究中是关键的权力节点——守门人可能批准、阻止或条件化研究，其行为模式直接影响研究设计、数据质量和伦理关系"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - qualitative-research
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Champ]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Fieldwork]]"
   - "[[Archival Correspondence Analysis]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"

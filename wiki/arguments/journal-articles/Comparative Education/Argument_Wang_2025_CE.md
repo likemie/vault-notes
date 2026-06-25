@@ -10,9 +10,9 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme. Comparative Education, 61(4), 586-605."
@@ -37,7 +37,9 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
+  - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Fieldwork]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
 related_persons:

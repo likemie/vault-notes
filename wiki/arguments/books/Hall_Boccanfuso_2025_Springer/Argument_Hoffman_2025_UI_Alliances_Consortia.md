@@ -28,7 +28,8 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
@@ -48,7 +49,7 @@ title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

@@ -7,9 +7,9 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - researched
@@ -30,6 +30,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
+  - "[[Action Research]]"
   - "[[Qualitative Observation]]"
 related_persons:
   - "[[Gary Thomas]]"
@@ -89,7 +90,7 @@ updated: 2026-06-20
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **教师专业视野的窄化** 通过在 [[Randomised Controlled Trials|RCT]] 与其他研究（定性、案例、行动研究）之间划定严格的科学二分法，诱使教师将复杂的课堂[[Causality|因果]]简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
+> - **教师专业视野的窄化** 通过在 [[Randomised Controlled Trials|RCT]] 与其他研究（定性、案例、[[Action Research|行动研究]]）之间划定严格的科学二分法，诱使教师将复杂的课堂[[Causality|因果]]简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
 > - **对政府保守议程的护航** ResearchED 标榜的“证据[[Paradigm|范式]]”在事实上为政府强推的“合成拼读法”（systematic synthetic phonics）等特定课程项目提供了合法性背书，削弱了大学本位的批判性研究([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 > - **传输式教育模式的固化** 正如 Black (2018) 所分析，将研究简化为“开箱即用”的干预证据，在实质上配合了高利害问责制，固化了将知识单向输送给学生的“灌输式教育”([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
 

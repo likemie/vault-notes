@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策科学理解形式的代表人物之�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 2
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theory/policy-science
 related_concepts:
   - "[[Policy Science in Comparative Education]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -42,7 +43,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> - King, E. (1979). — 在 1970 年代方法论争论中公开试图规训 Margaret Scotford Archer，确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
+> - King, E. (1979). — 在 1970 年代方法论争论中公开试图[[Disciplina and Doctrina|规训]] Margaret Scotford Archer，确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
 > - King, E., & Archer, M. S. (1980). — 同上([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
 
 ---
@@ -52,14 +53,14 @@ updated: '2026-06-08'
 > [!tip]-
 > King 是[[Policy Science in Comparative Education|政策科学]]理解形式的代表人物之一，主张比较教育可以且应该是政策科学。他提出了关键决策时刻（critical points of decision）的概念，认为自由民主国家应该在面临重要教育决策时寻求比较教育学者的建议([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
-> 在 1970 年代的方法论争论中，King 以权威姿态公开规训 Margaret Scotford Archer，这一事件被 Cowen 称为断裂（the fracturing），确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
+> 在 1970 年代的方法论争论中，King 以权威姿态公开[[Disciplina and Doctrina|规训]] Margaret Scotford Archer，这一事件被 Cowen 称为断裂（the fracturing），确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **King-Archer 对峙**。King 公开试图规训 Archer 的行为被 Cowen 视为 1970 年代方法论争论的附带损害的显著例证。这一事件确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
+> - **King-Archer 对峙**。King 公开试图[[Disciplina and Doctrina|规训]] Archer 的行为被 Cowen 视为 1970 年代方法论争论的附带损害的显著例证。这一事件确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
 > - **与权力的联盟**。King 的[[Policy Science in Comparative Education|政策科学]]立场被 Cowen 批评为与权力的联盟，即与自由民主国家中所谓民主权力的联盟。这种立场放弃了批判性的学术立场，成为权力的附属品([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 
 ---

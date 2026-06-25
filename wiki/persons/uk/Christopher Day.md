@@ -7,7 +7,7 @@ summary: "英国教育领导力学者，ISSPP 项目创始人，为教育研究�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -20,7 +20,8 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Champ]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Møller_2017_EERJ]]"
@@ -51,7 +52,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - **ISSPP 项目的领导** — 自 2002 年起领导和协调跨国[[School Leadership|学校领导力]]研究网络
-> - **成功学校领导力的跨国知识基础** — 通过案例研究构建了对成功校长工作的系统性理解
+> - **成功学校领导力的跨国知识基础** — 通过[[Case Study|案例研究]]构建了对成功校长工作的系统性理解
 > - **情境敏感的学校领导力研究[[Paradigm|范式]]** — 推动超越"一刀切"领导力清单的研究取向
 
 ## 主要著作

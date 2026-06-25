@@ -9,7 +9,7 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 25
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -30,7 +30,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
+  - "[[Case Study]]"
   - "[[Ethnography]]"
+  - "[[Action Research]]"
   - "[[Grounded Theory]]"
   - "[[Survey Research]]"
   - "[[Coding in Qualitative Research]]"
@@ -62,7 +64,7 @@ updated: 2026-06-22
 
 > [!method-scope] 方法范围
 > - **研究对象**：特定群体、难以接触人群、关键信息提供者或典型案例
-> - **问题类型**：探索性问题、深度理解、理论生成、案例研究和试点研究
+> - **问题类型**：探索性问题、深度理解、理论生成、[[Case Study|案例研究]]和试点研究
 > - **分析单位**：个体、群体、组织、事件、文本或社会情境元素
 > - **输出形式**：深度描述、理论建构、类型学、案例分析和局部解释
 
@@ -80,7 +82,7 @@ updated: 2026-06-22
 > - **不声称回答的问题**：不能声称样本统计量代表总体参数；不能进行基于概率的统计推论；不能报告误差范围。
 
 > [!method-stack] 方法层级
-> - **研究设计**：案例研究、[[Ethnography|民族志]]、行动研究、[[Grounded Theory|扎根理论]]、试点研究和小规模[[Survey Research|调查研究]]
+> - **研究设计**：[[Case Study|案例研究]]、[[Ethnography|民族志]]、[[Action Research|行动研究]]、[[Grounded Theory|扎根理论]]、试点研究和小规模[[Survey Research|调查研究]]
 > - **数据收集**：访谈、观察、焦点小组、问卷试点、档案分析和[[Document|文件]]审查
 > - **分析方法**：主题分析、叙事分析、扎根理论[[Coding in Qualitative Research|编码]]、案例内/跨案例分析
 > - **辅助技术**：滚雪球扩展、关键信息提供者识别、受访者驱动招募、加权调整
@@ -91,7 +93,7 @@ updated: 2026-06-22
 >
 > | 类型 | 英文 | 核心特征 | 典型应用 |
 > |---|---|---|---|
-> | [[Convenience Sampling\|便利抽样]] | Convenience Sampling | 选择最近便的个体；不追求代表性 | 案例研究、问卷试点 |
+> | [[Convenience Sampling\|便利抽样]] | Convenience Sampling | 选择最近便的个体；不追求代表性 | [[Case Study\|案例研究]]、问卷试点 |
 > | [[Quota Sampling\|配额抽样]] | Quota Sampling | 按总体比例代表显著特征；三步程序 | 已知比例但无法随机抽样 |
 > | [[Purposeful Sampling\|目的性抽样]] | Purposive Sampling | 手工挑选；三大类 14 种子类型 | [[Qualitative Research\|质性研究]]核心方法 |
 > | [[Dimensional Sampling\|维度抽样]] | Dimensional Sampling | 配额抽样的细化；多维交叉覆盖 | 多因素组合探索 |
@@ -102,7 +104,7 @@ updated: 2026-06-22
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**：小规模研究、案例研究、[[Ethnography|民族志]]、行动研究、试点研究、敏感话题研究、难以接触人群研究，以及不打算推广发现的研究。
+> - **适合使用**：小规模研究、[[Case Study|案例研究]]、[[Ethnography|民族志]]、[[Action Research|行动研究]]、试点研究、敏感话题研究、难以接触人群研究，以及不打算推广发现的研究。
 > - **谨慎使用**：需要部分推广但无法获取概率样本时；需结合[[Triangulation|三角互证]]增强可[[Reliability|信度]]；涉及多个子组时需注意代表性。
 > - **不适合使用**：需要精确估计总体参数的[[Survey Research|调查研究]]、需要误差范围的民调、[[Randomised Controlled Trials|随机对照试验]]、需基于概率进行统计推论的研究。
 

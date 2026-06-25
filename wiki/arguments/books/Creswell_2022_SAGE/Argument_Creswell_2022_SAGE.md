@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 169
+argument_related_count: 170
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -154,10 +154,11 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
+  - "[[Action Research]]"
   - "[[Feminist Research]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Case Study]]"
   - "[[Qualitative Documents]]"
   - "[[Causal Modeling]]"
   - "[[Qualitative Interview]]"

@@ -5,7 +5,7 @@ aliases:
 summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -52,9 +52,11 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
+  - "[[Action Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Case Study]]"
   - "[[Formative Program Evaluation]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

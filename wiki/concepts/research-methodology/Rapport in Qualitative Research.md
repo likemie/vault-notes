@@ -6,7 +6,7 @@ aliases:
 summary: "质性田野研究中研究者与参与者之间建立的信任、相互理解和合作关系，是有效数据收集的前提条件和持续过程。"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods:
+  - "[[Fieldwork]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
 related_persons: []

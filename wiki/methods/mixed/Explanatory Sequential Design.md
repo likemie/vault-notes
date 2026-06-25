@@ -30,10 +30,10 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Purposeful Sampling]]"
+  - "[[Case Study]]"
   - "[[Joint Display]]"
   - "[[Convergent Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -98,7 +98,7 @@ updated: 2026-06-02
 操作逻辑为先量化、后质性、以质性解释量化：
 1. **第一量化阶段**：使用量化工具（如调查问卷）从大样本收集数据，产出[[Descriptive Analysis|描述统计]]、相关性或回归模型等结果。
 2. **中间过渡阶段**：识别量化结果中需要深入解释的关键点（如意外结果、显著差异、异常值）。
-3. **第二质性阶段**：基于量化发现，有目的地选择参与者（[[Purposeful Sampling]]），通过访谈或案例研究探索背后的过程与机制。
+3. **第二质性阶段**：基于量化发现，有目的地选择参与者（[[Purposeful Sampling]]），通过访谈或[[Case Study|案例研究]]探索背后的过程与机制。
 4. **整合解释**：将质性解释与量化结果对接，形成量化模式 + 质性机制的完整解释链。
 
 ### 4.3 整合工具：联合展示 (Joint Display)

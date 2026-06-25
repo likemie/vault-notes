@@ -7,7 +7,7 @@ aliases:
 summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Reflexivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[George Herbert Mead]]"
@@ -92,7 +93,7 @@ updated: '2026-06-22'
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]**：将现实与人理解为共生的、不断通过社会实践建构的过程。心智、身体与环境是不可分割的整体。
 > - **认识论**：真知源于[[Reflexivity|反思性]]行动，是在生活世界中解决冲突、建构意义的主观与主体间经验。
-> - **方法含义**：支持情境化、协作式的教学设计与实证行动研究，关注学生的主动探究过程和协作互动记录。
+> - **方法含义**：支持情境化、协作式的教学设计与实证[[Action Research|行动研究]]，关注学生的主动探究过程和协作互动记录。
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架**：可用于分析跨学科改革中学生如何动用前概念（Prior concept）进行探究，或解析教师如何动态调整教案。

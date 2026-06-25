@@ -7,7 +7,7 @@ summary: "加拿大教育领导力学者，证据知情实践与知识动员研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Research Utilization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons:
   - "[[Julie Nelson]]"
 related_arguments:
@@ -55,7 +56,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - **安大略系统改革路径** — 把教育领导力、组织支持和证据使用放进同一框架，而不把[[Research Utilization|研究使用]]看成教师个人习惯问题。
-> - **KNAER 案例研究** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
+> - **KNAER [[Case Study|案例研究]]** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]])。
 > - **[[Evidence-Informed Practice|EIP]] 特刊整合工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定义、应用与测量的清晰问题域。
 
 ## 影响

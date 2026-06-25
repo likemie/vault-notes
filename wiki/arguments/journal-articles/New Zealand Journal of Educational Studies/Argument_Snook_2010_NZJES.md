@@ -13,7 +13,7 @@ title: "Argument_Snook_2010_NZJES"
 argument_key: "Argument_Snook_2010_NZJES"
 argument_display_title: "Critic and conscience of society: A reply to John Hattie"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:

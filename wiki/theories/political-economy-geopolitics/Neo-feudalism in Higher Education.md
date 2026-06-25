@@ -8,7 +8,7 @@ aliases:
 summary: "Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Rents]]"
+  - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Champ]]"
   - "[[Knowledge Capitalism]]"
@@ -86,7 +87,7 @@ updated: 2026-06-01
 |------|-------------------------------|-----------------------------------|
 | 依附关系 | 受封者 (vassals) 享有相对自主性 | 受封者受明确的经济适用性指令约束 |
 | 资源来源 | 研究拨款，自主决定研究方向 | 定向拨款，研究方向由资助方指定 |
-| 典型场景 | 基础研究、理论导向学科 | [[Evaluation Research\|应用研究]]、产业合作项目 |
+| 典型场景 | [[Blue Skies Research\|基础研究]]、理论导向学科 | [[Evaluation Research\|应用研究]]、产业合作项目 |
 | 时间特征 | 允许较长时间在顶级期刊发表 | 研究产出节奏受外部需求驱动 |
 
 该类型学在美国化学系的经验分析中得到了量化（拨款效应）和质性（科学家自我认知）两方面的支持([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.806]])。

@@ -10,7 +10,7 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -41,7 +41,8 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Research Practicability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Fieldwork]]"
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"

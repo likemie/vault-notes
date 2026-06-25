@@ -10,9 +10,9 @@ summary: "将量化和质性数据及核心混合方法设计嵌入参与式或�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 6
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
@@ -25,6 +25,8 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Participatory Research]]"
+  - "[[Action Research]]"
+  - "[[Fieldwork]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Qualitative Interview]]"
 related_persons: []
@@ -60,7 +62,7 @@ updated: 2026-06-02
 >
 > 在多个步骤中均有机会同时收集两种数据，并在这些步骤中嵌入核心混合方法设计（聚敛式、解释性序列或探索性序列）。整合发生在质性数据收集和发现与整体参与式过程的各个连接点上。
 
-> [!example]- 图10.5：混合方法参与式行动研究设计图
+> [!example]- 图10.5：混合方法参与式[[Action Research|行动研究]]设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-5_Mixed_Methods_Participatory_Action_Research_Design.jpg)
 
 ---
@@ -71,7 +73,7 @@ updated: 2026-06-02
 > - 适合与社区、边缘群体或特定利益群体密切协作的研究项目。
 > - 适合以社会变革为明确目标的研究，而不仅仅以[[Knowledge Production|知识生产]]为目的。
 > - 适合需要社区成员作为合作者（而非仅仅是研究对象）参与研究全过程的情境。
-> - 虽然单一研究者也可以开展此类研究，但田野工作中涉及参与者作为合作者的劳动密集性质通常更建议采用团队方式。
+> - 虽然单一研究者也可以开展此类研究，但[[Fieldwork|田野工作]]中涉及参与者作为合作者的劳动密集性质通常更建议采用团队方式。
 
 ---
 

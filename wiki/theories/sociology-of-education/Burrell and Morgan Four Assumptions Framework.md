@@ -4,7 +4,7 @@ aliases: [伯勒尔和摩根四组假设框架, Burrell and Morgan framework, �
 summary: "Burrell and Morgan (1979) 提出的分析社会研究范式差异的理论框架，以本体论、认识论、人性和方法论四组假设沿主观–客观维度排列，揭示一切方法论的差异根植于更深层的哲学假设差异。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +35,7 @@ updated: 2026-06-13
 ## 核心主张
 
 > [!abstract] 核心主张
-> 一切方法论的差异都根植于更深层的哲学[[Hypothesis|假设]]差异。研究者在方法论层面的选择——调查还是[[Participant Observation|参与观察]]、实验还是案例研究——不是孤立的技术决策，而是对实在本质（[[Ontology|本体论]]）、知识本质（[[Epistemology|认识论]]）和人性的根本信念的层层传导结果（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 一切方法论的差异都根植于更深层的哲学[[Hypothesis|假设]]差异。研究者在方法论层面的选择——调查还是[[Participant Observation|参与观察]]、实验还是[[Case Study|案例研究]]——不是孤立的技术决策，而是对实在本质（[[Ontology|本体论]]）、知识本质（[[Epistemology|认识论]]）和人性的根本信念的层层传导结果（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 四组假设
 

@@ -10,7 +10,7 @@ aliases:
 summary: "一种将研究探究与政治变革议程紧密交织的研究哲学立场，以对抗社会压迫和赋权边缘群体为核心，要求研究者与参与者合作推动社会改革"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Value Neutrality]]"
 related_theories:
   - "[[Critical Theory]]"
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts: []

@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -58,11 +58,12 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Case Study]]"
   - "[[Autoethnography]]"
   - "[[Theoretical Sampling]]"
   - "[[Snowball Sampling]]"
+  - "[[Fieldwork]]"
   - "[[Experimental Research]]"
-  - "[[Case Study]]"
   - "[[Grounded Theory]]"
   - "[[Ideology Critique]]"
 related_persons: []
@@ -167,7 +168,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > - **不能声称回答的问题** 不能估计[[Causality|因果]][[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
-> - **研究设计** 民族志、案例研究、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。
+> - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。
 > - **数据收集** [[Participant Observation|参与观察]]、非参与观察、田野笔记、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** [[Theoretical Sampling|理论抽样]]、目的抽样、[[Snowball Sampling|滚雪球抽样]]、[[Gatekeepers|守门人]]关系管理。
@@ -255,7 +256,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > - 需要理解某一群体的文化、行为模式和意义体系时。
 > - 适合探索课堂文化、学校教育技术、专业社群文化等教育情境。
 > - 适合需要长时间观察才能揭示的隐性社会规范和互动模式。
-> - 适合研究教育政策的实施过程，如 Beech & Artopoulos (2015) 使用民族志方法研究阿根廷 [[Conectar Igualdad]] 项目，通过三年的田野工作（访谈国家和省级官员、校长、教师和学生，观察课堂和学校活动）揭示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
+> - 适合研究教育政策的实施过程，如 Beech & Artopoulos (2015) 使用民族志方法研究阿根廷 [[Conectar Igualdad]] 项目，通过三年的[[Fieldwork|田野工作]]（访谈国家和省级官员、校长、教师和学生，观察课堂和学校活动）揭示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会实践或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]

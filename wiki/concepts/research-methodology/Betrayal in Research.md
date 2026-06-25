@@ -8,7 +8,7 @@ aliases:
 summary: "研究者在信赖关系中获取的数据被公开披露以致引起参与者尴尬、焦虑或痛苦的行为，是违反信任而非仅仅违反保密，往往出于自私的个人或职业动机"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,8 @@ related_concepts:
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Hypothesis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

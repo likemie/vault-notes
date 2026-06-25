@@ -7,7 +7,7 @@ title: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_theories:
   - "[[UIC Evolutionary Phases]]"
   - "[[Social Capital Theory]]"
 related_methods:
+  - "[[Case Study]]"
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []

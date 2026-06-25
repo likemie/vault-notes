@@ -7,7 +7,7 @@ summary: "元分析中识别和检验研究间效果变异来源的统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
@@ -37,7 +38,7 @@ updated: '2026-06-08'
 ## 定义
 
 > [!info] 定义
-> 调节[[Variable|变量]]分析（Moderator Analysis）是[[Meta-analysis|元分析]]中用于识别和检验研究间[[Effect Size|效应量]]变异来源的统计方法。当元分析发现各研究的效果存在超出抽样误差预期的变异（即[[Heterogeneity|异质性]]）时，调节变量分析通过探索哪些研究特征与更大或更小的效应量相关，来解释这种变异的原因([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
+> 调节[[Variable|变量]]分析（Moderator Analysis）是[[Meta-analysis|元分析]]中用于识别和检验研究间[[Effect Size|效应量]]变异来源的统计方法。当元分析发现各研究的效果存在超出[[Sampling Error|抽样误差]]预期的变异（即[[Heterogeneity|异质性]]）时，调节变量分析通过探索哪些研究特征与更大或更小的效应量相关，来解释这种变异的原因([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 >
 > 调节变量（moderator）是指可能影响干预效果大小的研究特征，如学生学习的时长、培训和支持的重要性、特定资源的使用、学生年龄、结果测量类型等。通过在纳入研究的数据中寻找这些特征与效应量之间的相关性，调节变量分析试图回答"什么条件下效果更好"这一问题([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 
@@ -48,7 +49,7 @@ updated: '2026-06-08'
 > [!example] 核心程序
 > **1. 检测[[Heterogeneity|异质性]]**
 >
-> 在进行调节[[Variable|变量]]分析之前，首先需要确认研究间存在显著的[[Heterogeneity|异质性]]。如果各研究的[[Effect Size|效应量]]差异仅在抽样误差范围内，则无需进一步探索调节变量。
+> 在进行调节[[Variable|变量]]分析之前，首先需要确认研究间存在显著的[[Heterogeneity|异质性]]。如果各研究的[[Effect Size|效应量]]差异仅在[[Sampling Error|抽样误差]]范围内，则无需进一步探索调节变量。
 >
 > **2. 选择候选调节变量**
 >

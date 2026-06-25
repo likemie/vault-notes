@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 90
+argument_related_count: 91
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -106,6 +106,7 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Documentary Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Action Research]]"
   - "[[Grounded Theory]]"
 related_persons:
   - "[[Jürgen Habermas]]"

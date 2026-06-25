@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_concepts:
 related_theories:
   - "[[Triple Helix]]"
   - "[[Technological Trajectories]]"
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Universal Parallel Computing Research Centers]]"

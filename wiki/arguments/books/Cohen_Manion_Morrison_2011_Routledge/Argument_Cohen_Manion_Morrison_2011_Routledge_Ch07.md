@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -65,7 +65,9 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Stratified Sampling]]"
+  - "[[Action Research]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Participatory Research]]"
@@ -73,6 +75,7 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Quantitative Research]]"
   - "[[Triangulation]]"
+  - "[[Fieldwork]]"
   - "[[Participant Observation]]"
   - "[[Meta-analysis]]"
   - "[[Documentary Analysis]]"

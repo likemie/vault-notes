@@ -7,7 +7,7 @@ summary: "一种批判理论驱动的研究方法，与社区和群体一起而�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Action Research]]"
   - "[[Ideology Critique]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
@@ -66,7 +67,7 @@ updated: 2026-06-16
 > - **不声称回答的问题**：不追求"真理"——追求福祉（well-being）；不追求宏观发展——聚焦微观发展。
 
 > [!method-stack] 方法层级
-> - **研究设计**：参与式行动研究、社区发展研究。
+> - **研究设计**：参与式[[Action Research|行动研究]]、社区发展研究。
 > - **数据收集**：对话、普查数据、大众戏剧、集体讨论等替代性资料收集方式；传统调查和访谈如有助益亦可使用。
 > - **分析方法**：社区集体分析、参与式阐释。
 > - **辅助技术**：意识提升、动员、社区组织。
@@ -138,7 +139,7 @@ updated: 2026-06-16
 > | 方法 | 关系 | 区别 |
 > |---|---|---|
 > | [[Ideology Critique]] | 理论根源 | 意识形态批判侧重分析权力运作，PR 侧重集体行动与赋权实践。 |
-> | 行动研究（Action Research） | 亲缘方法 | PR 比行动研究更具政治性；行动研究更关注实践者改进自身实践，PR 更关注社区集体解放。 |
+> | [[Action Research\|行动研究]]（Action Research） | 亲缘方法 | PR 比行动研究更具政治性；行动研究更关注实践者改进自身实践，PR 更关注社区集体解放。 |
 > | [[Mixed Methods Research\|混合方法研究]] | [[Pragmatic Paradigm\|实用主义]]亲缘 | PR 同样务实——如有必要，为了"实用效用"可以牺牲"严格控制"（Brown, 2005a: 92）。 |
 
 ---

@@ -9,7 +9,7 @@ summary: "质性研究中为最佳理解研究问题而有目的地选择参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
   - "[[Descriptive Methods]]"
   - "[[Non-probability Sampling]]"
   - "[[Theoretical Sampling]]"
@@ -79,7 +80,7 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 | [[Phenomenology\|现象学]] | 3-10 人 |
 | [[Grounded Theory\|扎根理论]] | 20-30 人 |
 | [[Ethnography\|民族志]] | 一个文化共享群体 |
-| 案例研究 | 约 4-5 个案例 |
+| [[Case Study\|案例研究]] | 约 4-5 个案例 |
 | [[Descriptive Methods\|描述性方法]] | 至少 20 人 |
 
 > [!note]- 样本量 vs 案例数

@@ -9,10 +9,10 @@ summary: "战国时期儒家思想家，孔子学说的直接继承者，以性�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - region/china
 - field/chinese-philosophy
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Ritual Propriety]]"
   - "[[Junzi]]"
   - "[[Take the World Upon Oneself]]"
+  - "[[Bildung]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -127,6 +128,6 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - 孟子的"性善论"在后世儒学中引发持续争论——[[Xunzi|荀子]]（约 313-238 BCE）即持"性恶论"立场，认为道德需要通过外部教化而非内在发展来实现。这一辩论（性善 vs 性恶）构成中国哲学史上的核心分歧之一
+> - 孟子的"性善论"在后世儒学中引发持续争论——[[Xunzi|荀子]]（约 313-238 BCE）即持"性恶论"立场，认为道德需要通过外部[[Bildung|教化]]而非内在发展来实现。这一辩论（性善 vs 性恶）构成中国哲学史上的核心分歧之一
 
 ---

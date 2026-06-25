@@ -7,7 +7,7 @@ summary: "加拿大高等教育学者，国际教育枢纽与跨境高教研究�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Cultural Diplomacy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
@@ -61,7 +62,7 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 
 ### 国际教育枢纽的概念化
 
-- Knight, J. (Ed.). (2014). *[[Internationalization of Higher Education|international education]] hubs: Student, talent, knowledge/[[Innovation Models Evolution|innovation models]]*. Springer. — 系统提出 IEHs 的三类模型并包含多个国家和地区的案例研究。核心贡献是将教育枢纽从模糊的政策口号转变为一个具有分析力的比较研究框架
+- Knight, J. (Ed.). (2014). *[[Internationalization of Higher Education|international education]] hubs: Student, talent, knowledge/[[Innovation Models Evolution|innovation models]]*. Springer. — 系统提出 IEHs 的三类模型并包含多个国家和地区的[[Case Study|案例研究]]。核心贡献是将教育枢纽从模糊的政策口号转变为一个具有分析力的比较研究框架
 - Knight, J., & Lee, J. (2014). An analytical framework for education hubs. In J. Knight (Ed.), *International education hubs*. Springer. — 开发了对 IEHs 进行分析的理论框架，区分学生、人才和知识/[[Innovation Hub|创新枢纽]]的功能和策略差异
 
 ### 跨境教育与教育服务贸易

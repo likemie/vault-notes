@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中以有限方式使用的概念，指将案例研究发现推广到更广泛理论的能力，强调特定性而非统计推广"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Case Study]]"
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"

@@ -10,7 +10,7 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Champ]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons:
   - "[[Paul Morris]]"
   - "[[Pierre Bourdieu]]"

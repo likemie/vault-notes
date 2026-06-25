@@ -9,7 +9,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
+  - "[[Case Study]]"
   - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
 related_persons: []
@@ -78,7 +79,7 @@ updated: 2026-05-24
 > [!example]
 > 公约建立了八个由师范学院和大学学科教学专家、教育科学研究者组成的工作组，分别覆盖现代语言、法语与拉丁语、艺术、数学科学与地理、技术与信息技术、人文社会科学与公民教育、体育健康、数字教育等领域，目标是为教师提供适合共同核心课程引入的工具和项目([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.174-175]])。
 
-工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用实验设计测试([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准[[Experimental Research|实验研究]]放在同一框架内，并为不同方法设置最低质量标准([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-178]])。
+工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用实验设计测试([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、[[Case Study|案例研究]]、横断研究、相关或纵向研究、实验和准[[Experimental Research|实验研究]]放在同一框架内，并为不同方法设置最低质量标准([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-178]])。
 
 ## 效果与评价
 

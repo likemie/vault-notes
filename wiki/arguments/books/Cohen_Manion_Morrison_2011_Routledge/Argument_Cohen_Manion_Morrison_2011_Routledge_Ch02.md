@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -76,6 +76,7 @@ related_theories:
   - "[[Critical Ethnography]]"
 related_methods:
   - "[[Ideology Critique]]"
+  - "[[Action Research]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
   - "[[Mixed Methods Research]]"

@@ -6,7 +6,7 @@ summary: "批判理论的核心方法论，通过四阶段反思实践揭示社�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,8 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Case Study]]"
+  - "[[Action Research]]"
   - "[[Participant Observation]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
@@ -68,7 +70,7 @@ updated: 2026-06-16
 > - **不声称回答的问题**：不提供经验性[[Causality|因果推断]]；不直接回答"什么教学方法最有效"等技术性问题。
 
 > [!method-stack] 方法层级
-> - **研究设计**：批判性案例研究、政策分析、行动研究。
+> - **研究设计**：批判性[[Case Study|案例研究]]、政策分析、[[Action Research|行动研究]]。
 > - **数据收集**：政策文本、课程[[Document|文件]]、制度记录、访谈、[[Participant Observation|参与观察]]。
 > - **分析方法**：哈贝马斯四阶段反思实践（描述→归因→议程→评估）。
 > - **辅助技术**：利益分析、权力关系映射、[[Reflexivity|反思性]]对话。
@@ -121,7 +123,7 @@ updated: 2026-06-16
 > - **偏误来源**：研究者自身的意识形态立场可能影响利益分析的方向；研究者与被研究者之间的权力不对称可能使批判本身成为新的支配形式。
 > - **适用边界**：意识形态批判揭示了问题但不必然带来变革——批判与解放之间的[[Causality|因果]]链需要经验验证而非逻辑假定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 107–110)]]
 > - **误用风险**：意识形态批判容易被简化为"揭露问题"而不提出变革方案；理性主义的批判姿态本身可能阻碍旨在解放的实际行动（Roderick, 1986）。
-> - **补救方式**：与行动研究结合，确保批判通向实践；引入参与者验证，避免研究者单向定义"压迫"。
+> - **补救方式**：与[[Action Research|行动研究]]结合，确保批判通向实践；引入参与者验证，避免研究者单向定义"压迫"。
 
 ---
 

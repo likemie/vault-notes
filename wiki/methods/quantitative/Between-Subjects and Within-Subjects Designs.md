@@ -12,7 +12,7 @@ summary: 实验设计的两种基本类型，between-subjects 每位受试者只
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - design-type
 related_concepts:
   - "[[Variable]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -62,13 +63,13 @@ updated: 2026-05-31
 
 > [!success]
 > - 受试者间设计适合以下情况：不同处理条件之间可能存在学习或疲劳效应，受试者接触一个条件后不应再接触另一个条件。
-> - 受试者内设计适合以下情况：希望减少受试者间的个体差异误差，以较小的样本量获得较高的统计功效；或当处理条件为可逆的、时间推移因素时（如前后测）。
+> - 受试者内设计适合以下情况：希望减少受试者间的个体差异误差，以较小的[[Sample Size Determination|样本量]]获得较高的统计功效；或当处理条件为可逆的、时间推移因素时（如前后测）。
 > - 混合设计适合以下情况：研究同时涉及可[[Random Assignment|随机分配]]的分组[[Variable|变量]]和所有受试者都必须经历的时间变量（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 
 > [!warning]
-> - 受试者间设计需要更大的样本量（每组都需要足够的受试者），且可能受组间个体差异的干扰。
+> - 受试者间设计需要更大的[[Sample Size Determination|样本量]]（每组都需要足够的受试者），且可能受组间个体差异的干扰。
 > - 受试者内设计容易受顺序效应（order effects）、疲劳效应和练习效应的影响，需要通过对冲（counterbalancing）来控制。
 > - 混合设计的统计分析和解释比单一类型的[[Variable|变量]]设计更复杂（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

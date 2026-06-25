@@ -6,7 +6,7 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Action Research]]"
   - "[[Participatory Research]]"
   - "[[Ethnography]]"
   - "[[Ideology Critique]]"
@@ -76,7 +77,7 @@ updated: 2026-06-16
 > - **不声称回答的问题**：不声称任何单一研究方法可以代表所有女性的经验；不声称研究者可以"为"她不属于的群体代言。
 
 > [!method-stack] 方法层级
-> - **研究设计**：女性主义行动研究、[[Participatory Research|参与式研究]]、[[Ethnography|民族志]]。
+> - **研究设计**：女性主义[[Action Research|行动研究]]、[[Participatory Research|参与式研究]]、[[Ethnography|民族志]]。
 > - **数据收集**：引导式对话（而非标准化访谈）、个人证词、口头叙事、长访谈、自传性材料。
 > - **分析方法**：[[Ideology Critique|意识形态批判]]、解构、意识提升、文本分析。
 > - **辅助技术**：[[Triangulation|三角互证]]、多方法、视觉技术（录像、照片、电影）、[[Meta-analysis|元分析]]、会话分析。
@@ -103,7 +104,7 @@ updated: 2026-06-16
 > - 协作式、集体主义的研究——由集体（通常是女性集体）承担，整合研究者和被研究者，打破主体/客体和等级化的非互惠关系。
 > - 所谓[[Value Neutrality|价值无涉]]、中立、冷漠和公正的研究被有意识的、蓄意的偏袒所取代——研究者认同参与者。
 > - 采用[[Ideology Critique|意识形态批判]]的取向和[[Paradigm|范式]]。
-> - 象牙塔中的旁观者知识理论被参与式方法取代——可能通过行动研究——所有参与者（包括研究者）参与争取女性解放的斗争。
+> - 象牙塔中的旁观者知识理论被参与式方法取代——可能通过[[Action Research|行动研究]]——所有参与者（包括研究者）参与争取女性解放的斗争。
 > - 改变现状的需要是社会研究的起点——"如果我们想了解梨子，就必须咀嚼它"（Mies, 1993，引用中国谚语）。
 > - 广泛使用[[Triangulation|三角互证]]和多种方法（包括视觉技术）。
 > - 使用语言技术如会话分析。
@@ -163,7 +164,7 @@ updated: 2026-06-16
 > |---|---|---|
 > | [[Ideology Critique]] | 理论基础 | 女性主义研究将意识形态批判聚焦于性别权力和父权制[[Knowledge Production\|知识生产]]。 |
 > | [[Participatory Research]] | 亲缘方法 | 两者都强调赋权和平等参与；PR 更聚焦社区发展，女性主义研究更聚焦性别压迫。 |
-> | 行动研究 | 实践工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
+> | [[Action Research\|行动研究]] | 实践工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
 
 ---
 

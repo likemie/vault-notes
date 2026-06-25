@@ -8,7 +8,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,7 +28,8 @@ related_concepts:
 related_theories:
   - "[[Pragmatic Constructivism]]"
   - "[[Phenomenology]]"
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[George Herbert Mead]]"
@@ -90,7 +91,7 @@ updated: '2026-06-22'
 
 > [!actor-grid] 评论视角
 > - **政策与制度视角**：项目支持了[[Phenomenon-Based Learning|现象本位学习]]抵御过度外部评估锁定的合理性。然而，在全球绩效和测量风暴中，该项目倡导的非目的论、体验性学习难以被现有的定量指标体系（如技能考核清单）所表征，在国家体制推广中存在制度兼容性困难（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
-> - **学术与方法视角**：该项目主要为[[Phenomenology|现象学]]与教学论视角的规范性批判和质性行动研究提供了实证脉络，但其证据地位有限，无法在经验主义（Empirical）层面提供关于学习成效、教学表现的定量实证数据（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]）。
+> - **学术与方法视角**：该项目主要为[[Phenomenology|现象学]]与教学论视角的规范性批判和质性[[Action Research|行动研究]]提供了实证脉络，但其证据地位有限，无法在经验主义（Empirical）层面提供关于学习成效、教学表现的定量实证数据（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]）。
 
 > [!tension] 争议焦点：质性探索 vs 经验测量
 > - **质性探索与自我转化（蓝方）**：SveaSus 的价值在于证明现象本位学习是一场具身、情感与伦理交互的探究过程。真正的学习在于唤醒学生的 ethically conscious，反思自己与世界的关系，无法也无需被简单量化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 11]]）。

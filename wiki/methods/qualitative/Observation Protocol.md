@@ -8,9 +8,9 @@ summary: "质性观察中用于记录描述性笔记和反思性笔记的单页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -23,6 +23,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Qualitative Observation]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
   - "[[Narrative Research]]"
 related_persons: []
 related_facts: []
@@ -66,5 +67,5 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> 适用于所有包含[[Qualitative Observation|田野观察]]的[[Qualitative Research|质性研究]]设计，包括[[Ethnography|民族志]]、案例研究、[[Narrative Research|叙事研究]]和[[Descriptive Research Question|描述性研究]]。观察协议为观察数据提供了系统的记录框架，有助于确保多次观察之间的记录一致性。
+> 适用于所有包含[[Qualitative Observation|田野观察]]的[[Qualitative Research|质性研究]]设计，包括[[Ethnography|民族志]]、[[Case Study|案例研究]]、[[Narrative Research|叙事研究]]和[[Descriptive Research Question|描述性研究]]。观察协议为观察数据提供了系统的记录框架，有助于确保多次观察之间的记录一致性。
 

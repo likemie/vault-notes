@@ -6,10 +6,10 @@ aliases:
 summary: "RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - rct
 - causal-inference
@@ -31,6 +31,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Case Study]]"
   - "[[Philosophical Analysis in Education]]"
 related_persons: []
 related_facts: []
@@ -88,7 +89,7 @@ updated: '2026-05-18'
 
 > [!info] 研究[[Paradigm|范式]]
 > - [[Epistemology|认识论]]立场：科学实在论——承认[[Causality|因果]]机制真实存在且可被研究，但反对简单的[[Positivism|实证主义]]归纳
-> - 分析方法：概念分析 + 案例研究 + 政策分析
+> - 分析方法：概念分析 + [[Case Study|案例研究]] + 政策分析
 > - 不依赖定量数据，而是对 [[Randomised Controlled Trials|RCT]] 方法论的逻辑结构进行哲学剖析
 
 ## 争议与批评

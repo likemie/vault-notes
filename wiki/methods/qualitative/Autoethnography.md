@@ -7,7 +7,7 @@ summary: "研究者编撰关于自己生活或情境的个人化、主观性叙�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
   - "[[Participant Observation]]"
+  - "[[Fieldwork]]"
   - "[[Qualitative Interview]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
@@ -74,7 +75,7 @@ updated: 2026-06-24
 
 > [!method-limits] 方法局限
 > - **偏误来源** 记忆的选择性和重构性、自我叙述的美化或戏剧化倾向、难以区分真诚反思与自我辩护。
-> - **适用边界** 无法替代[[Participant Observation|参与观察]]和系统性田野工作的[[Ethnography|民族志]]；单个自我民族志不能推广至他者经验。
+> - **适用边界** 无法替代[[Participant Observation|参与观察]]和系统性[[Fieldwork|田野工作]]的[[Ethnography|民族志]]；单个自我民族志不能推广至他者经验。
 > - **误用风险** 将个人经验直接等同于文化分析而缺乏批判性反思；以情感共鸣替代分析性洞见；忽视研究者自身的社会特权和盲点。
 > - **补救方式** 结合传统民族志或[[Qualitative Interview|质性访谈]]进行[[Triangulation|三角验证]]；坚持将个人叙事连接到文化、制度或结构分析；接受同伴的批判性阅读。
 

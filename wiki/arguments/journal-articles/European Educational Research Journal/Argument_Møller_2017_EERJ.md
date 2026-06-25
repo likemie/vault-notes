@@ -9,7 +9,7 @@ title: "Argument_Møller_2017_EERJ"
 argument_key: "Argument_Møller_2017_EERJ"
 argument_display_title: "Leading education beyond what works"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Operationalization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"

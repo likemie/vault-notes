@@ -13,7 +13,7 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Random Sampling]]"
   - "[[Convenience Sampling]]"
+  - "[[Case Study]]"
   - "[[Purposeful Sampling]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -125,7 +126,7 @@ Lee (1993, p. 66) 指出网络化策略的两个关键限制：
 > - **初始种子偏差**：初始种子的特征可能过度主导后续样本。Browne (2005) 在研究非异性恋女性时发现，作为白人、中产阶级群体的一员，她的联系人倾向来自相似背景，其他群体因不在同一社交圈被排除。
 > - **[[Gatekeepers|守门人]]保护偏差**：守门人可能通过不转介朋友来保护他们（Heckathorn, 1997, p. 175），偏差既可纳入也可排除某些群体成员。
 > - **同质性偏差（来自 Ch09 的补充）**：滚雪球样本内的关系可能由互惠性和传递性（reciprocity and transitivity）构成（Lee, 1993, p. 67）。参与者之间关系紧密且不愿打破这些关系，导致样本属性的高度同质化。研究者通过一个朋友网络找到的人，往往在关键特征上系统性相似。
-> - **研究性质蜕变为[[Convenience Sampling|便利抽样]]**：使用滚雪球抽样可能将原本设计的随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，从而损害[[External Validity|可推广性]]，或需要通过综合多个案例研究来获得可推广性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 205]]）。
+> - **研究性质蜕变为[[Convenience Sampling|便利抽样]]**：使用滚雪球抽样可能将原本设计的随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，从而损害[[External Validity|可推广性]]，或需要通过综合多个[[Case Study|案例研究]]来获得可推广性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 205]]）。
 > - **选择困境**：面临的选择往往是接受非概率策略或什么都不做。妥协进行的研究总比因为追求方法论纯粹性而完全放弃的研究好——但这一[[Pragmatic Paradigm|实用主义]]立场本身需要被透明地承认和报告。
 > - **缓解方式**：采用多波次、多起点以覆盖不同子群；结合关键信息提供者抽样和靶向抽样；在报告中对样本代表性的局限性进行充分透明的讨论。
 

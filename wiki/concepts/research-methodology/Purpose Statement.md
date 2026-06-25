@@ -32,6 +32,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
+  - "[[Case Study]]"
   - "[[Narrative Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
@@ -39,7 +40,6 @@ related_methods:
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments:

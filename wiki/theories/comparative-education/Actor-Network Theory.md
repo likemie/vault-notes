@@ -8,7 +8,7 @@ aliases:
 summary: Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
+  - "[[Fieldwork]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Max Weber]]"
@@ -84,7 +85,7 @@ updated: 2026-06-07
 > [!warning]
 > - **浅层使用风险**。[[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 承认他们对 ANT 的使用「相当肤浅」（quite superficially），仅作为[[Relational Space|关系性空间]]概念如何克服传统框架局限的例证。
 > - **非人类能动性的争议**。将非人类物体视为具有能动性的行动者在社会科学中存在争议，可能模糊了人类意图和物质条件之间的重要区别。
-> - **方法论挑战**。追踪广泛的行动者网络需要大量的田野工作和细致的[[Ethnography|民族志]]观察，方法论实施难度较大。
+> - **方法论挑战**。追踪广泛的行动者网络需要大量的[[Fieldwork|田野工作]]和细致的[[Ethnography|民族志]]观察，方法论实施难度较大。
 
 ---
 

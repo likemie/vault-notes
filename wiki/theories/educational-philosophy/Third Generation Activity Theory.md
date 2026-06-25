@@ -10,7 +10,7 @@ aliases:
 summary: "在 Vygotsky 中介三角模型基础上发展出的第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，以矛盾为变革动力，通过扩展性改造实现共享目标"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
+  - "[[Case Study]]"
   - "[[Ethnography]]"
 related_persons: []
 related_facts: []
@@ -100,7 +101,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 > [!info]
 > - **[[Ontology|本体论]]与[[Epistemology|认识论]]**：社会文化[[Constructivist Paradigm|建构主义]]——人类认知和行为由社会文化情境塑造，不能脱离具体活动系统来理解
 > - **分析单元**：集体活动系统，而非个体行为
-> - **常用方法**：质性案例研究、[[Ethnography|民族志]]、发展性工作研究（developmental work research）；关注系统层面的互动、矛盾和转型，而非个体层面的[[Variable|变量]]关系
+> - **常用方法**：质性[[Case Study|案例研究]]、[[Ethnography|民族志]]、发展性工作研究（developmental work research）；关注系统层面的互动、矛盾和转型，而非个体层面的[[Variable|变量]]关系
 
 ---
 

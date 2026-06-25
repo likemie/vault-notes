@@ -8,7 +8,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Transformative Leadership]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons:
   - "[[Christopher Day]]"
 related_facts:
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 >
 > ### 研究设计
 >
-> - 主要采用**案例研究**方法，由研究者基于对校长、教师、学生和家长的访谈构建
+> - 主要采用**[[Case Study|案例研究]]**方法，由研究者基于对校长、教师、学生和家长的访谈构建
 > - 大多数情况下学校被**多次访问**，通常跨越数年，允许纵向追踪
 > - 研究框架对**情境敏感**（context-sensitive）
 > - 成功的定义涵盖两个维度([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])：

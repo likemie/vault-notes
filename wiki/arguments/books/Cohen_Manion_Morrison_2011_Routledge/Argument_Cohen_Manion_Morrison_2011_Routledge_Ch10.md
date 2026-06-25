@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 105
+argument_related_count: 107
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -122,6 +122,7 @@ related_methods:
   - "[[Peer Debriefing]]"
   - "[[Triangulation]]"
   - "[[Theoretical Sampling]]"
+  - "[[Case Study]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
   - "[[Chi-Squared Test]]"
@@ -134,6 +135,7 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Observational and Correlational Research]]"
   - "[[Participant Observation]]"
+  - "[[Observation Method]]"
 related_facts:
   - "[[ResearchED]]"
 sources:

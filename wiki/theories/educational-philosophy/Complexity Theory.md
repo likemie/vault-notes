@@ -4,7 +4,7 @@ aliases: [复杂性理论, complexity science, complex adaptive systems, 复杂�
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 9
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,6 +19,8 @@ related_concepts:
   - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
+  - "[[Case Study]]"
+  - "[[Action Research]]"
   - "[[Participatory Research]]"
 related_persons: []
 related_facts: []
@@ -57,7 +59,7 @@ updated: 2026-06-13
 
 ## 方法论含义
 
-复杂性理论倡导案例研究方法论、叙事、行动研究和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元[[Causality|因果性]]、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元[[Causality|因果性]]、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!axioms] 复杂性研究的五条公理（Kuhn, 2007: 172–3）
 > - **动态实在** 实在是动态的、[[Emergence|涌现]]的、自组织的，需要多重视角来把握

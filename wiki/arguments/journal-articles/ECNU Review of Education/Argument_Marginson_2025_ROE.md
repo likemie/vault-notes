@@ -9,9 +9,9 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39."
@@ -48,7 +48,8 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[World-Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons:
   - "[[Doreen Massey]]"
 related_facts:

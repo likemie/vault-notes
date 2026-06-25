@@ -9,7 +9,7 @@ aliases:
 summary: "Flanders开发的课堂观察编码体系，将课堂言语活动分为10类，采用3秒时间取样方式记录，用于分析课堂教学的结构、模式和风格"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,10 +19,12 @@ tags:
   - source/textbook
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-06-25

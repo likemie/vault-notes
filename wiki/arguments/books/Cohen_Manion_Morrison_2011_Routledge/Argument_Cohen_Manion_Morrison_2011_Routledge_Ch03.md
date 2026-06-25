@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Positivism]]"
 related_theories: []
 related_methods:
+  - "[[Action Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []

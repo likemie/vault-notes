@@ -7,10 +7,10 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - wolfgang-klafki
 - didaktik
@@ -37,6 +37,8 @@ related_arguments:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Phenomenology]]"
+related_methods:
+  - "[[Action Research]]"
 confidence: high
 status: draft
 created: '2026-05-06'
@@ -100,7 +102,7 @@ updated: '2026-06-22'
 > - **1970s–1990s — 批判建设性教学论与 Allgemeinbildung 重构阶段（Kritisch-konstruktive Didaktik）**
 >   - **核心著作**：*Aspekte kritisch-konstruktiver Erziehungswissenschaft* (1976), *Neue Studien zur Bildungstheorie und Didaktik* (1985/1991).
 >   - **核心概念**：**[[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）**、三大基础能力（**自我决定能力** Selbstbestimmungsfähigkeit、**参与决定能力** Mitbestimmungsfähigkeit、**团结能力** Solidaritätsfähigkeit）、**通识教育（Allgemeinbildung）的三重含义**、**七大教学规划维度**（七个教学分析面向与情境分析的整合）。
->   - **阶段转向**：受[[Critical Theory|批判理论]]（法兰克福学派）和 1968 年学生运动的冲击，Klafki 吸收了社会科学实证研究与行动研究方法，以回应传统精神科学教学论被质疑为保守及流于“节日教学论”（Feiertagsdidaktik，缺乏方法和具体行动支持）的局限。在此阶段，他将教化与社会的民主化和解放相联系，并主张以全球共同面对的时代难题（如和平、环境、技术后果、不平等和民主化）作为课程规划的中心。
+>   - **阶段转向**：受[[Critical Theory|批判理论]]（法兰克福学派）和 1968 年学生运动的冲击，Klafki 吸收了社会科学实证研究与[[Action Research|行动研究]]方法，以回应传统精神科学教学论被质疑为保守及流于“节日教学论”（Feiertagsdidaktik，缺乏方法和具体行动支持）的局限。在此阶段，他将教化与社会的民主化和解放相联系，并主张以全球共同面对的时代难题（如和平、环境、技术后果、不平等和民主化）作为课程规划的中心。
 
 ---
 
@@ -120,7 +122,7 @@ updated: '2026-06-22'
 
 > [!influence-path] 影响路径
 > - **理论路径**：通过提出“批判建设性教学论”，将[[Critical Theory|批判理论]]（Critical Theory）引入传统的德国精神科学教学论，使教学论成为反思社会结构和个体解放的工具。此外，他发展了早期的能力/素养模型（由自我决定、共同决定和团结能力组成），在德语教育学中具有开拓性。
-> - **方法路径**：提供了一种在尊重学科体系完整性的同时进行跨学科整合的课程选择与教学规划分析标准。主持了著名的**马尔堡小学项目（Marburger Grundschulprojekt，1972年起）**，推动常识课（Sachunterricht）中整合性课程项目与行动研究（Handlungsforschung）的开发。
+> - **方法路径**：提供了一种在尊重学科体系完整性的同时进行跨学科整合的课程选择与教学规划分析标准。主持了著名的**马尔堡小学项目（Marburger Grundschulprojekt，1972年起）**，推动常识课（Sachunterricht）中整合性课程项目与[[Action Research|行动研究]]（Handlungsforschung）的开发。
 > - **政策路径**：在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 > - **跨国／跨领域传播**：其思想作为北欧福利国家推行民主、平等和团结教育的重要理论中介，在瑞典和芬兰的教师教育中被广泛翻译和研究，影响了北欧基础教育的课程论面貌。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7, 10]]
 

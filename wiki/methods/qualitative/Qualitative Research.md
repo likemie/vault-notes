@@ -12,7 +12,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 52
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
   - "[[Descriptive Methods]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Interview]]"
@@ -156,7 +157,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 3. **[[Coding in Qualitative Research|编码]]数据**：将文本或图像数据拆分为片段，用代表类别的词标注这些片段（详见 [[Coding in Qualitative Research]]）。
 4. **识别主题**：将编码归并为少量主题或类别（通常五到七个），可以是关于场所或个体的描述，也可以是关于[[Research Question|研究问题]]的主题。主题应展示来自个体的多元视角，包含多样化的引语和具体证据。
 5. **发展[[Story Line|故事线]]解释**：将主题相互连接为故事线，呈现问题的发展编年史。故事线可以聚焦单一个体或群体，通常出现在期刊论文的讨论部分。
-6. **使用[[Analytic Framework|分析框架]]进一步分析**：在 code-to-theme 的[[Descriptive Analysis|描述性分析]]基础上，使用[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、案例研究或其他分析框架进行更深层次的分析。
+6. **使用[[Analytic Framework|分析框架]]进一步分析**：在 code-to-theme 的[[Descriptive Analysis|描述性分析]]基础上，使用[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]或其他分析框架进行更深层次的分析。
 7. **呈现和解释数据**：通常以叙事段落传达分析发现，可以整合编年史、完整主题讨论（含子主题、具体说明、多重视角和引语）或主题间关系的讨论。质性研究者也常使用视觉模型、图表或表格辅助呈现。
 
 > [!example]- 图9.3：质性数据分析流程的步骤
@@ -170,7 +171,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 **[[Descriptive Methods|描述性方法]]**（Descriptive Methods）是基础性分析路径，研究者贴近数据本身，使用有限的框架和解释，将信息归类为主题。它基于参与者日常语言，追求抽样中的最大变异度。
 
-**[[Analytic Framework|分析框架]]**（Analytic Framework）在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、轴心编码、选择性编码的系统步骤）、[[Ethnography|民族志]]和案例研究（详细场所描述后分析主题）。
+**[[Analytic Framework|分析框架]]**（Analytic Framework）在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、轴心编码、选择性编码的系统步骤）、[[Ethnography|民族志]]和[[Case Study|案例研究]]（详细场所描述后分析主题）。
 
 > [!example]- 图9.1：描述性方法与源于传统的分析方法
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-1_Descriptive_Methods_Analytic_Frameworks.jpg)

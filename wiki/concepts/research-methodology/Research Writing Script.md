@@ -8,7 +8,7 @@ aliases:
 summary: "研究写作中的填空式模板工具，包含陈述的主要词语和结构，研究者将自身项目信息填入预留空间以生成完整的目的陈述，Creswell & Creswell (2022) 为质性、量化和三种混合方法设计分别提供了对应的脚本"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Case Study]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"

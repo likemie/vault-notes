@@ -5,10 +5,10 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
 - policy-borrowing
 - policy-referencing
@@ -44,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Historical Document Analysis of Curriculum]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"

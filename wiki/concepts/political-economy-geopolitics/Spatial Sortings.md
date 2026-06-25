@@ -6,7 +6,7 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
 related_theories:
   - "[[Fixity-Motion Tension]]"
 related_methods:
+  - "[[Case Study]]"
   - "[[LISA Spatiotemporal Transition]]"
   - "[[Coupling Coordination Model]]"
 related_persons:

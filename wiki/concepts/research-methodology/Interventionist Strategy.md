@@ -6,7 +6,7 @@ aliases:
 summary: "研究原因之效果的核心策略，通过施加干预并观察效果来建立因果推断，与回溯效果之原因的事后策略形成对照"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Reliability]]"
 related_theories: []
 related_methods:
+  - "[[Action Research]]"
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"

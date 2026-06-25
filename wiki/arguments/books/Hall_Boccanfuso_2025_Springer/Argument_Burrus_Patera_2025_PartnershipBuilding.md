@@ -23,7 +23,8 @@ related_concepts:
   - "[[Master Agreement]]"
   - "[[Professional Judgment]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_facts:
   - "[[Network of Academic Corporate Relations Officers]]"
@@ -42,7 +43,7 @@ title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_key: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_display_title: "Connecting, Exploring, Uncovering, and Building Partnerships"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

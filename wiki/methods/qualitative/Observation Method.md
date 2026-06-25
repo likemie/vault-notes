@@ -10,7 +10,7 @@ summary: "教育研究中基本的资料收集方法，通过有目的、有计�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Survey Research]]"
+  - "[[Case Study]]"
   - "[[Observation Protocol]]"
   - "[[Triangulation]]"
 related_persons:
@@ -143,7 +144,7 @@ updated: 2026-06-25
 > | 维度 | 直接观察 | 间接观察 |
 > |---|---|---|
 > | 适用条件 | 变量能被直接观测和[[Operationalization\|操作化]]界定 | 变量不能被清晰地加以操作化界定 |
-> | 典型场景 | 实验、[[Survey Research\|调查研究]] | 因果解释性案例研究、趋势预测 |
+> | 典型场景 | 实验、[[Survey Research\|调查研究]] | 因果解释性[[Case Study\|案例研究]]、趋势预测 |
 > | 示例 | 学生课堂发言频率、教师提问类型 | 制度变革原因考察、小学生阅读需求市场预测 |
 
 > [!contrast-table] 按观察者角色：参与性观察 vs 非参与性观察

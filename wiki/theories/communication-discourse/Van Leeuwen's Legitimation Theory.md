@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "communication-discourse"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Carnivalesque Analysis]]"
+  - "[[Case Study]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 > - 在教育政策中的表现："文法学校促进社会流动性"的叙事（尽管被证据反复否定），以及"好学校扩张 → 更多孩子获得好教育"的奖励逻辑
 > - [[Carnivalesque Analysis|嘉年华式分析]]通过外推这一叙事至 £84 亿暴露了其荒谬性([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
 >
-> 四个层次不是互斥的——Bainbridge et al. 的案例研究表明它们**同时运作**且相互强化：文法学校因传统而具权威（层次 1）、因"good"而具道德价值（层次 2）、表面引用证据定义（层次 3）、并嵌入社会流动性奖励叙事（层次 4）。
+> 四个层次不是互斥的——Bainbridge et al. 的[[Case Study|案例研究]]表明它们**同时运作**且相互强化：文法学校因传统而具权威（层次 1）、因"good"而具道德价值（层次 2）、表面引用证据定义（层次 3）、并嵌入社会流动性奖励叙事（层次 4）。
 >
 
 ## 发展脉络

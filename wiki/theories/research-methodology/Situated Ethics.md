@@ -7,7 +7,7 @@ aliases:
 summary: "一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Ethnography]]"
+  - "[[Action Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -60,7 +61,7 @@ updated: 2026-06-19
 > [!proposition-chain] 命题链
 
 > [!claim] 命题一：伦理原则在研究实践中被中介
-> 同一伦理原则（如[[Informed Consent|知情同意]]、保密）在[[Experimental Research|实验研究]]、[[Ethnography|人种志]]研究和行动研究中的含义和适用范围不同，因为每种研究实践有其独特的[[Epistemology|认识论]]前提、权力关系和社会互动模式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77, 128]]）。
+> 同一伦理原则（如[[Informed Consent|知情同意]]、保密）在[[Experimental Research|实验研究]]、[[Ethnography|人种志]]研究和[[Action Research|行动研究]]中的含义和适用范围不同，因为每种研究实践有其独特的[[Epistemology|认识论]]前提、权力关系和社会互动模式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 76–77, 128]]）。
 
 > [!warrant] 为什么这很重要
 > 这意味着不能简单地将实验研究中的知情同意程序（一次性签署）移植到[[Emergence|涌现]]性的[[Qualitative Research|质性研究]]中，因为后者中的研究关系是持续协商的（Wax, 1982, p. 42）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 83]]）。
@@ -78,7 +79,7 @@ updated: 2026-06-19
 > [!theory-stance] [[Epistemology|认识论]]与方法论含义
 > - **证据观**：伦理判断不以演绎方式从普遍原则推导，而应通过对具体研究情境的细致分析来产生。研究者需要关注特定情境中的权力关系、文化规范和参与者脆弱性
 > - **解释观**：伦理行为不应被评判为绝对的对或错，而应放在连续体上，评估其在具体情境中的可证成性
-> - **方法含义**：支持研究者在研究设计中保留灵活性，允许伦理措施随研究进程调整。在[[Emergence|涌现]]性设计中（如[[Ethnography|人种志]]、行动研究），伦理应当是持续协商的过程
+> - **方法含义**：支持研究者在研究设计中保留灵活性，允许伦理措施随研究进程调整。在[[Emergence|涌现]]性设计中（如[[Ethnography|人种志]]、[[Action Research|行动研究]]），伦理应当是持续协商的过程
 > - **不能推出的东西**：情境伦理不能用来证成任意行为——它要求研究者提供经过深思熟虑、基于理性的证成；它不是伦理相对主义的放任许可证
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-06-19
 ## 适用边界
 
 > [!theory-boundary] 理论边界
-> - **适合**：[[Qualitative Research|质性研究]]、[[Ethnography|人种志]]、行动研究、[[Emergence|涌现]]性研究设计；涉及脆弱群体或多文化情境的研究
+> - **适合**：[[Qualitative Research|质性研究]]、[[Ethnography|人种志]]、[[Action Research|行动研究]]、[[Emergence|涌现]]性研究设计；涉及脆弱群体或多文化情境的研究
 > - **谨慎**：需要研究者具有高度的伦理敏感性和反思能力；在缺乏经验的新手研究者中，可能退化为未经反思的随意决策
 > - **不适合**：需要标准化伦理程序的大型多中心试验、涉及明确法律要求的情境（如数据保护法）
 > - **常见误用**：将情境伦理等同于伦理相对主义或"怎么都行"；用情境特殊性为不伦理行为辩护而不提供严谨的证成

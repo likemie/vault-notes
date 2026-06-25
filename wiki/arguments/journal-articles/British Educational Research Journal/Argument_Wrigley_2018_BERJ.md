@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Snowball Sampling]]"
   - "[[Qualitative Observation]]"
+  - "[[Action Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Roy Bhaskar]]"

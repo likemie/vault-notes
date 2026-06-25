@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -36,6 +36,8 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Fieldwork]]"
+  - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Grounded Theory]]"
   - "[[Autoethnography]]"
@@ -59,13 +61,13 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 方法定义
-> 参与观察是[[Qualitative Research|质性研究]]的核心数据收集方法。研究者进入被研究群体的自然情境，同时扮演"参与者"（加入群体活动、分享经验）和"观察者"（系统记录和分析行为与互动）的双重角色。这一方法植根于[[Ethnography|民族志]]传统——Malinowski（1922）的"把握土著人的观点"和人类学的田野工作传统——后被广泛应用于教育研究等领域。目标是以内部人视角（主位视角）获取对群体文化、行为和社会互动的深度理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 408, 425, 430)]]
+> 参与观察是[[Qualitative Research|质性研究]]的核心数据收集方法。研究者进入被研究群体的自然情境，同时扮演"参与者"（加入群体活动、分享经验）和"观察者"（系统记录和分析行为与互动）的双重角色。这一方法植根于[[Ethnography|民族志]]传统——Malinowski（1922）的"把握土著人的观点"和人类学的[[Fieldwork|田野工作]]传统——后被广泛应用于教育研究等领域。目标是以内部人视角（主位视角）获取对群体文化、行为和社会互动的深度理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 408, 425, 430)]]
 
 > [!method-scope] 方法范围
 > - **研究对象**：社群或群体的日常行为、互动模式、仪式、语言使用、权力关系和文化实践。
 > - **问题类型**：适合回答"该群体如何生活？""行为背后的意义是什么？""文化实践如何维持和再生产？"等描述性和解释性问题。
 > - **分析单位**：个体、群体、互动事件、仪式、组织[[Champ|场域]]。
-> - **输出形式**：民族志描述、[[Rich and Thick Description|厚描述]]、主题分析、理论建构（通常以案例研究或民族志报告形式呈现）。
+> - **输出形式**：民族志描述、[[Rich and Thick Description|厚描述]]、主题分析、理论建构（通常以[[Case Study|案例研究]]或民族志报告形式呈现）。
 
 ## 方法定位
 
@@ -76,7 +78,7 @@ updated: 2026-06-24
 > - **不声称回答的问题**：不能估计[[Causality|因果]][[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
-> - **研究设计**：民族志、案例研究、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
+> - **研究设计**：民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
 > - **数据收集**：参与观察、非参与观察、田野笔记、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录。
 > - **分析方法**：[[Coding in Qualitative Research|编码]]（实体/描述/理论编码）、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术**：抽样（[[Theoretical Sampling|理论抽样]]、目的抽样、滚雪球）、[[Gatekeepers|守门人]]关系管理、[[Reflexivity|反身性]]日志。

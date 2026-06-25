@@ -11,9 +11,9 @@ subtype: policy
 region: "US"
 fact_region: "US"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Science and Technology Policy (OSTP)"
 tags:
@@ -23,6 +23,7 @@ tags:
   - "theme/research-governance"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Memos]]"
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods: []
@@ -55,7 +56,7 @@ updated: 2026-06-04
 ## 对产学合作的影响
 
 > [!note]-
-> 在[[University-Industry Collaboration|产学合作]]中，Nelson Memo 制造了一个新的制度约束：当研究同时接受联邦和企业资金时，企业对研究结果的专有控制需求可能与联邦资助的开放获取要求发生冲突。这意味着在合作协议谈判中，双方需要明确规定哪些研究产出受联邦开放获取要求约束，哪些可以按企业需求进行保密或延迟发布（p.264）。
+> 在[[University-Industry Collaboration|产学合作]]中，Nelson [[Memos|memo]] 制造了一个新的制度约束：当研究同时接受联邦和企业资金时，企业对研究结果的专有控制需求可能与联邦资助的开放获取要求发生冲突。这意味着在合作协议谈判中，双方需要明确规定哪些研究产出受联邦开放获取要求约束，哪些可以按企业需求进行保密或延迟发布（p.264）。
 
 > [!note]-
 > 这一政策与大学坚持[[Academic Freedom|学术自由]]中的发表权形成合力——联邦的开放获取要求从制度层面加强了对研究成果公开的保障，而学术自由则从价值层面为发表权提供了依据。两者共同使大学在与企业谈判保密或延迟发表条款时拥有更强的制度性底气（p.264）。
