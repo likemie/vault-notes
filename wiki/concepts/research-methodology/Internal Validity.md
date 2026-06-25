@@ -2,6 +2,7 @@
 title: Internal Validity
 aliases:
   - 内部效度
+  - 内在效度
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
@@ -110,6 +111,25 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 164–166)]]
+
+### Campbell & Stanley 九类威胁速查
+
+齐梅 (2015, Ch.4) 基于 Campbell & Stanley (1963) 归纳了影响内在效度的九类因素及控制方法：
+
+> [!ref-table] 九类内在效度威胁速查
+> | 因素 | 说明 | 控制方法 |
+> |---|---|---|
+> | 历史（History） | 实验期间其他事件对因变量的影响 | 设置控制组经历相同事件 |
+> | 成熟（Maturation） | 被试生理心理自然变化 | 随机化分组+控制组 |
+> | 测验（Testing） | 前测经验提高后测成绩 | 设置无前测对照组 |
+> | 测量工具（Instrumentation） | 方法技术无效或缺少一致性 | 精心选择测验，严格测试手段 |
+> | 统计回归（Statistical Regression） | 极端分数向均值回归 | 避免极端被试或单独分组 |
+> | 选择偏差（Selection Bias） | 非随机分配导致组间差异 | 随机抽样和随机分配 |
+> | 被试流失（Mortality） | 被试更换、淘汰或中途退出 | 大样本或消除法 |
+> | 选择与成熟交互（Selection-Maturation Interaction） | 不同组成熟速度不同，与处理效果混淆 | 随机化确保各组均衡 |
+> | 实验处理扩散（Diffusion of Treatment） | 两组接触导致处理扩散 | 避免两组间接触 |
+
+详见 [[Threats to Internal Validity]]。
 
 ---
 
