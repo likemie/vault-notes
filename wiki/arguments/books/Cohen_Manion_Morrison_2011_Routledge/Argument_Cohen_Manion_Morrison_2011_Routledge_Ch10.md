@@ -1156,7 +1156,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 > | 理论相关性（Theoretical relevance） | 适用性（Applicability） |
 > | 三角验证（Triangulation） | 三角验证（Triangulation） |
 > | 替代形式（等值性） Alternative forms | — |
-> | 半分法（Split-half） | — |
+> | 半分法（[[Split-Half Reliability\|split-half]]） | — |
 > | 项目间相关（Alphas） Inter-item correlations | — |
 
 > [!note]- 对 Table 10.2 的说明

@@ -3,6 +3,8 @@ title: Construct Validity
 aliases:
   - 构念效度
   - 建构效度
+  - 结构效度
+  - 构造效度
   - construct validity of measurement
   - measurement validity
 summary: "就一个抽象构念的操作化形式达成一致的程度，在量化研究中通过收敛与区分技术检验，在质性研究中要求范畴对参与者本身有意义，被Loevinger称为效度类型的女王"

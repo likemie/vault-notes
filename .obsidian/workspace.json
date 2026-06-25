@@ -37,7 +37,8 @@
               "title": "Zhao Tingyang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +206,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "e1573f91b7722f1b",
   "lastOpenFiles": [
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+    "raw/glitz2020.pdf",
+    "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/13917319_高等院校教师教育公共课教材_教育研究方法.txt",
+    "wiki/concepts/research-methodology/Construct Validity.md",
+    "wiki/concepts/research-methodology/Criterion-related Validity.md",
+    "wiki/concepts/research-methodology/Content Validity.md",
     "wiki/concepts/research-methodology/Split-Half Reliability.md",
     "wiki/concepts/research-methodology/Parallel-Forms Reliability.md",
     "wiki/concepts/research-methodology/Test-Retest Reliability.md",
@@ -215,7 +222,6 @@
     "wiki/concepts/political-economy-geopolitics/Wuhu Ruhua.md",
     "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
     "wiki/concepts/political-economy-geopolitics/Second-generation Ethnic Policy.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/methods/quantitative/Time Series Design.md",
     "wiki/concepts/research-methodology/Internal Validity.md",
     "wiki/concepts/research-methodology/Threats to Internal Validity.md",
@@ -229,10 +235,6 @@
     "wiki/concepts/research-methodology/Blue Skies Research.md",
     "wiki/concepts/research-methodology/Hypothesis.md",
     "wiki/concepts/research-methodology/Literature Search.md",
-    "wiki/concepts/research-methodology/Internal Consistency.md",
-    "wiki/methods/mixed/Action Research.md",
-    "wiki/methods/qualitative/Fieldwork.md",
-    "wiki/methods/mixed/Case Study.md",
     "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md.tmp.48260.8941a0b63459",
     "books/QiMei_2015_EducationalResearchMethods/figures",
     "books/QiMei_2015_EducationalResearchMethods",
@@ -241,8 +243,6 @@
     "raw/13917319_高等院校教师教育公共课教材_教育研究方法.txt",
     "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/14_参考文献.txt",
     "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/13_第十一章_研究报告的撰写.txt",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/12_第十章_统计分析.txt",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/11_第九章_行动研究.txt",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]

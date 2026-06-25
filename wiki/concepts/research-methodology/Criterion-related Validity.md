@@ -2,6 +2,7 @@
 title: Criterion-related Validity
 aliases:
   - 效标关联效度
+  - 效标效度
   - 标准关联效度
   - criterion validity
   - criterion-related evidence
