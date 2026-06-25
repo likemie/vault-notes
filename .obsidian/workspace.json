@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glitz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,8 +205,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "sources/Dezhina_2022_ECO/figures/Dezhina_2022_ECO_Fig2_International_Coauthorship.jpg",
+    "sources/Dezhina_2022_ECO/figures/Dezhina_2022_ECO_Fig1_US_Foreign_PhDs.jpg",
+    "sources/Dezhina_2022_ECO/figures/page_43.png",
+    "sources/Dezhina_2022_ECO/figures/page_40.png",
+    "sources/Dezhina_2022_ECO/figures",
+    "sources/Dezhina_2022_ECO",
+    "wiki/arguments/journal-articles/ECO/Argument_Dezhina_2022_ECO.md",
+    "wiki/arguments/journal-articles/ECO",
+    "wiki/facts/russia/Project 5-100.md",
+    "wiki/concepts/political-economy-geopolitics/Scientific Autarky.md",
+    "sources/Dezhina_2022_ECO.md",
+    "sources/Dezhina_2022_ECO.pdf",
+    "raw/dvizhenie-k-avtarkii-v-rossiyskoy-nauke-skvoz-prizmu-mezhdunarodnoy-kooperatsii.pdf",
     "sources/Glitz_2020_AER.pdf",
     "sources/Glitz_2020_AER.md",
     "sources/Glitz_2020_AER/figures",
@@ -220,11 +232,8 @@
     "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/concepts/economics/Total Factor Productivity.md",
     "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md",
-    "wiki/arguments/journal-articles/American Economic Review",
     "wiki/persons/china/Zhao Tingyang.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
-    "raw/glitz2020.pdf",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法_chapters/13917319_高等院校教师教育公共课教材_教育研究方法.txt",
     "wiki/concepts/research-methodology/Construct Validity.md",
     "wiki/concepts/research-methodology/Criterion-related Validity.md",
     "wiki/concepts/research-methodology/Content Validity.md",
@@ -237,12 +246,6 @@
     "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
     "wiki/concepts/political-economy-geopolitics/Second-generation Ethnic Policy.md",
     "wiki/methods/quantitative/Time Series Design.md",
-    "wiki/concepts/research-methodology/Internal Validity.md",
-    "wiki/concepts/research-methodology/Threats to Internal Validity.md",
-    "wiki/concepts/research-methodology/Rich and Thick Description.md",
-    "wiki/persons/china/Fei Xiaotong.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md.tmp.48260.8941a0b63459",
-    "books/QiMei_2015_EducationalResearchMethods/figures",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]

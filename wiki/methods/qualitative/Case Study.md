@@ -212,4 +212,6 @@ updated: 2026-06-01
 > [!example] 使用此方法的研究
 > - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与[[Theoretical Sampling|理论抽样]]，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE]] — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所（两所城市、两所农村）进行深度追踪，结合半结构化访谈和学校[[Document|文件]]分析，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
+> - [[Argument_Dezhina_2022_ECO]] — [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]]以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与大科学装置本土化四个切面案例，系统剖析了俄罗斯科研界在外部限制背景下走向自给自足与孤立化的制度过程与代价
+
 

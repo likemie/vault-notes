@@ -19,6 +19,8 @@ related_concepts:
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"
   - "[[Document]]"
+  - "[[Wuhu Ruhua]]"
+  - "[[Second-generation Ethnic Policy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"
@@ -28,6 +30,8 @@ related_methods:
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Zhao Tingyang]]"
+  - "[[Pan Yue]]"
+  - "[[Ma Rong]]"
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments: []
@@ -43,7 +47,7 @@ title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

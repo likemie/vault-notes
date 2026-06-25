@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[Albrecht Glitz|Glitz, A.]]"
   - "[[Erik Meyersson|Meyersson, E.]]"
-citation: "Glitz, A., & Meyersson, E. (2020). Industrial Espionage and Productivity. <i>American Economic Review</i>, <i>110</i>(4), 1055–1103. https://doi.org/10.1257/aer.20171732"
+citation: "Glitz, A., & Meyersson, E. (2020). Industrial Espionage and Productivity. American Economic Review, 110(4), 1055–1103. https://doi.org/10.1257/aer.20171732"
 year: 2020
 doi: "10.1257/aer.20171732"
 citation_aliases:
@@ -17,9 +17,26 @@ tags:
   - method/iv
   - paradigm/economics
   - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Economic and Industrial Espionage]]"
+  - "[[Total Factor Productivity]]"
+  - "[[Technology Transfer]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
+  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
+  - "[[Heterogeneity]]"
+  - "[[Document]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Counterfactual]]"
+  - "[[Return on Investment]]"
+  - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Perpetual Inventory Method]]"
+  - "[[Shift-Share Instrument]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -35,9 +52,9 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 17
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "American Economic Review"
 book_title: ""
@@ -50,7 +67,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 国家支持的工业间谍（[[Economic and Industrial Espionage|industrial espionage]]）能否产生可测量的经济回报？在东德通过斯塔西（Stasi）对西德进行大规模工业间谍活动的历史背景下，情报流入是否缩小了两德之间的行业[[Total Factor Productivity|全要素生产率]]（TFP）差距？
+> 国家支持的[[Economic and Industrial Espionage|工业间谍]]（industrial espionage）能否产生可测量的经济回报？在东德通过斯塔西（Stasi）对西德进行大规模工业间谍活动的历史背景下，情报流入是否缩小了两德之间的行业[[Total Factor Productivity|全要素生产率]]（TFP）差距？（p.1056）
 
 > [!claim] 核心主张
 > 工业间谍的情报流入对东德的生产率增长产生了显著的正向影响。1 个标准差的额外情报流入使两德间 log TFP 差距缩小 7.3 个百分点；若东德未从事工业间谍活动，冷战结束时东德相对于西德的 TFP 比率将比实际水平低 13.3%。（pp.1056, 1078–1079, 1097–1098）
@@ -95,7 +112,7 @@ issuing_organization: ""
 > [!info] 线人的社会背景与报酬
 > 多数参与工业间谍的线人是中年男性受薪雇员，以工程师或科学学位持有者为主，也有部分在人事部门工作或作为商人活动。这些人不一定是所在领域的领导者或部门负责人，更多是中层雇员——如 MBB 公司的工程师 Dieter Feuerstein（代号 Petermann，传递绝密军事计划）、AEG/Telefunken 公司的工程师 Peter Alwardt（代号 Alfred）以及 Texas Instruments 公司的 Peter Köhler（代号 Schulze）（p.1060）。
 >
-> 报酬方面，普通线人每月 100–500 西德马克外加费用报销——对其正常工资的适度补充；高层线人每月可达数千西德马克。斯塔西的招募效率很低——估计接触的人中有 75%–90% 拒绝为斯塔西工作（pp.1060, 1099 fn.48）。
+> > 报酬方面，普通线人每月 100–500 西德马克外加费用报销——对其正常工资的适度补充；高层线人每月可达数千西德马克。斯塔西的招募效率很低——估计接触的人中有 75%–90% 拒绝为斯塔西工作（p.1099 fn.48）。
 
 > [!tension] 技术转移的方向性不对称
 > - **斯塔西对西方的渗透** 大量线人嵌入西德企业，系统收集半导体、计算机、化工和机械制造等领域的技术情报。1988 年 12 月，HVA 科技处三个主要部门处理的海外线人中 82.7% 位于西德（p.1061 fn.7）。
@@ -108,11 +125,11 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **国际技术扩散理论**<br>[[Technology Transfer]] | 将工业间谍视为国际知识流动的一种渠道，与贸易、FDI、移民等传统渠道并列。后发国家通过获取前沿国家的技术知识来加速生产率增长。 |
-> | **距离技术前沿的创新与采用模型**<br>（Distance to Frontier） | 后发国家的 [[Total Factor Productivity\|TFP]] 增长同时取决于自主 R&D 和从技术前沿的独立技术转移；距离前沿越远，技术转移的边际效应越大。本文以此推导估计方程。 |
+> | **国际技术扩散理论**<br>[[Technology Transfer]] | 将工业间谍视为国际知识流动的一种渠道，与贸易、FDI、移民等传统渠道并列。后发国家通过获取前沿国家的技术知识来加速生产率增长。（pp.1057–1058） |
+> | **距离技术前沿的创新与采用模型**<br>（Distance to Frontier） | 后发国家的 [[Total Factor Productivity\|TFP]] 增长同时取决于自主 R&D 和从技术前沿的独立技术转移；距离前沿越远，技术转移的边际效应越大。本文以此推导估计方程。（pp.1074–1075） |
 
 > [!warrant]- 理论如何支撑论证
-> 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别[[Hypothesis|假设]]是：条件于行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。
+> 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别[[Hypothesis|假设]]是：条件于行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。（pp.1074–1076）
 
 ---
 
@@ -121,18 +138,18 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **SIRA 数据库关键词映射** | 将 2,000 个最频繁出现的关键词（覆盖 63.8% 的关键词条目）手动分配到 16 个行业；使用机器学习（线性 SVM）进行稳健性检验。 |
-> | **行业 TFP 测算**<br>Production Function Approach | 基于 Heske (2009, 2013, 2014) 构建的行业总增加值、就业和固定资本投资时间序列，使用[[Perpetual Inventory Method\|永续盘存法]]估计资本存量，通过 C-D 生产函数倒推 [[Total Factor Productivity\|TFP]]。 |
-> | **面板固定效应模型**<br>Panel Fixed Effects | 以三年重叠间隔估计，被解释[[Variable\|变量]]为两德 log TFP 差距变化，核心解释变量为过去三年情报流入/行业产出，控制行业和年份固定效应、专利差距和初始 TFP 差距。 |
-> | **工具变量策略**<br>Instrumental Variables | 两种 IV：(1) 基于 1970 年初已在活动的"老线人"的[[Shift-Share Instrument\|shift-share 工具变量]]；(2) 利用高产线人突然退出作为外生变异来源的退出工具变量。 |
+> | **SIRA 数据库关键词映射** | 将 2,000 个最频繁出现的关键词（覆盖 63.8% 的关键词条目）手动分配到 16 个行业；使用机器学习（线性 SVM）进行稳健性检验。（pp.1060–1062, 1087–1088） |
+> | **行业 TFP 测算**<br>Production Function Approach | 基于 Heske (2009, 2013, 2014) 构建的行业总增加值、就业和固定资本投资时间序列，使用[[Perpetual Inventory Method\|永续盘存法]]估计资本存量，通过 C-D 生产函数倒推 [[Total Factor Productivity\|TFP]]。（pp.1063–1065, 1074–1076） |
+> | **面板固定效应模型**<br>Panel Fixed Effects | 以三年重叠间隔估计，被解释[[Variable\|变量]]为两德 log TFP 差距变化，核心解释变量为过去三年情报流入/行业产出，控制行业和年份固定效应、专利差距和初始 TFP 差距。（pp.1076–1078） |
+> | **工具变量策略**<br>Instrumental Variables | 两种 IV：(1) 基于 1970 年初已在活动的"老线人"的[[Shift-Share Instrument\|shift-share 工具变量]]；(2) 利用高产线人突然退出作为外生变异来源的退出工具变量。（pp.1080–1083） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **情报数据** | 189,725 条科技情报记录，来自 2,968 名线人，时间跨度 1968–1989（主分析 1970–1989）；每条信息包含到达日期、线人代号和关键词。 |
-> | **行业数据** | 16 个行业 × 20 年的面板数据（240 个观测值），含总增加值、就业人数和固定资本投资。 |
-> | **TFP 校准** | 西德资本份额取自 EU KLEMS 数据库（1970–1989 均值）；东德资本份额代以 2004 年入盟的 10 个中东欧国家的行业资本份额均值。折旧率设为 0.06。 |
-> | **质量评估** | 1980 年起斯塔西对每条情报进行 1–5 级质量评分；40.1% 有观测评分，通过线人固定效应和经验函数将缺失评分插补至 80.3% 的覆盖率。 |
+> | **情报数据** | 189,725 条科技情报记录，来自 2,968 名线人，时间跨度 1968–1989（主分析 1970–1989）；每条信息包含到达日期、线人代号和关键词。（pp.1060–1062） |
+> | **行业数据** | 16 个行业 × 20 年的面板数据（240 个观测值），含总增加值、就业人数和固定资本投资。（pp.1063–1065） |
+> | **TFP 校准** | 西德资本份额取自 EU KLEMS 数据库（1970–1989 均值）；东德资本份额代以 2004 年入盟的 10 个中东欧国家的行业资本份额均值。折旧率设为 0.06。（pp.1075–1076） |
+> | **质量评估** | 1980 年起斯塔西对每条情报进行 1–5 级质量评分；40.1% 有观测评分，通过线人固定效应和经验函数将缺失评分插补至 80.3% 的覆盖率。（pp.1094–1095） |
 
 ---
 
@@ -141,14 +158,14 @@ issuing_organization: ""
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
->     A["工业间谍<br>情报流入"]
->     B["行业TFP<br>测算"]
->     C{"面板固定<br>效应估计"}
->     D{"工具变量<br>因果识别"}
->     E["情报流入→缩小<br>TFP差距"]
->     F{"异质性分析:<br>质量/前沿距离"}
->     G["反事实模拟:<br>无间谍的TFP"}
->     H["成本收益<br>初步估算"]
+>     A["工业间谍情报流入"]
+>     B["行业TFP测算"]
+>     C{"面板固定效应估计"}
+>     D{"工具变量因果识别"}
+>     E["情报流入缩小TFP差距"]
+>     F{"异质性分析"}
+>     G["反事实模拟"]
+>     H["成本收益估算"]
 >
 >     A --> C
 >     B --> C
@@ -187,7 +204,7 @@ issuing_organization: ""
 > - **退出工具的外生性证据** 退出工具与同期 TFP 增长的关系不显著（−0.062，[[Sampling Error|标准误]] 0.182），但与未来 TFP 增长显著正相关（0.528，[[Standard Error|标准误]] 0.144），排除了西德反间谍策略或斯塔西在落后行业系统退出线人的替代解释（pp.1083, Figure 4）。
 
 > [!warrant]- 推理桥梁
-> 退出工具估计更大的原因在于：退出线人群体高度集中在电子行业（78.2%），且提供的信息质量显著更高（"非常有价值"占比 2.8% vs 全样本 1.9%）。结合后文质量[[Heterogeneity|异质性]]分析——高质量信息影响远大于普通信息——更大的退出 IV 估计反映了局部平均处理效应（LATE）的异质性。
+> 退出工具估计更大的原因在于：退出线人群体高度集中在电子行业（78.2%），且提供的信息质量显著更高（"非常有价值"占比 2.8% vs 全样本 1.9%）。结合后文质量[[Heterogeneity|异质性]]分析——高质量信息影响远大于普通信息——更大的退出 IV 估计反映了局部平均处理效应（LATE）的异质性。（p.1084 fn.30, pp.1094–1096）
 
 ---
 
@@ -213,8 +230,8 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **实物产量** 在 104 种连续生产产品的平衡面板中，1 个标准差的情报流入增加使实物产量增加约 5.0 log 点（p=0.038），与基于价值的 TFP 估计一致（pp.1091–1092, Table 6）。
-> - **新产品** 情报流入对行业新产品种类数量的绝对变化有显著正向影响（系数 1.784，p=0.032），对产品组合增长率也有正向影响（0.033，p=0.078）（同上）。
-> - **出口** 对全球出口增长率的影响为正但不显著（0.106，p=0.197）。分样本看，对北约国家出口无影响（0.005），对其他国家的出口正向但不显著（0.148，p=0.243），暗示间谍虽未能让东德直接与西方竞争，但可能加强了其在东方阵营的地位（同上）。
+> - **新产品** 情报流入对行业新产品种类数量的绝对变化有显著正向影响（系数 1.784，p=0.032），对产品组合增长率也有正向影响（0.033，p=0.078）（pp.1091–1092, Table 6）。
+> - **出口** 对全球出口增长率的影响为正但不显著（0.106，p=0.197）。分样本看，对北约国家出口无影响（0.005），对其他国家的出口正向但不显著（0.148，p=0.243）（p.1093, Table 6）。
 > - **挤出效应** 情报流入对东德自身的专利申请活动有显著的负向影响——间谍挤出了公开 R&D（p.1093）。
 
 ---
@@ -241,7 +258,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **总体[[Counterfactual|反事实]]** 基于表 2 第 3 列的估计，模拟无间谍情景下 1972–1989 年两德 TFP 比率。就业加权平均 TFP 比率在 1989 年实际为 21.8%，无间谍时为 18.9%，下降 13.3%（pp.1097–1098, Figure 7 Panel A）。
-> - **电子行业反事实** 电子行业（办公设备、计算机和电子）的实际 TFP 比率从 1972 年的 14.4% 持续下降至 1989 年的 12.0%；无间谍时将进一步降至 7.3%，降幅达 39.2%（Figure 7 Panel B）。这是受间谍影响最大的行业。
+> - **电子行业反事实** 电子行业（办公设备、计算机和电子）的实际 TFP 比率从 1972 年的 14.4% 持续下降至 1989 年的 12.0%；无间谍时将进一步降至 7.3%，降幅达 39.2%（p.1098, Figure 7 Panel B）。这是受间谍影响最大的行业。
 > - **成本收益** 基于模拟，间谍活动的年度收益约为 101 亿欧元（1989 年价格），而年度运营成本仅约 1,100 万欧元（来自 HVA 末任局长在议会的证词），暗示极高的净回报（pp.1098–1099）。
 
 > [!conclusion] 论证收束

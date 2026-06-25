@@ -8,7 +8,7 @@ aliases:
 summary: "由梁启超 1902 年引入的现代概念，经费孝通 1988 年以多元一体格局重新阐释后进入中共主流话语，指以汉文化为核心、吸纳所有 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Retrotopia]]"
   - "[[Sinicisation]]"
+  - "[[Second-generation Ethnic Policy]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -87,7 +88,7 @@ updated: '2026-06-25'
 ## 观念对比
 
 > [!contrast-table] 族裔文化观与领土观的分野
-> 陆 (Lu, 2017) 提出两种理解中华民族的观念，[[Argument_Xu_2024_CE|徐（Xu）]]（2024）通过初中历史教科书比较研究验证了该框架的适用性：
+> 陆 (Lu 2017) 提出两种理解中华民族的观念，[[Argument_Xu_2024_CE|Xu, 2024]]通过初中历史教科书比较研究验证了该框架的适用性：
 > | 维度 | 族裔文化观 (Ethnocultural Notion) | 领土观 (Territorial Notion) |
 > |---|---|---|
 > | **核心定义** | 中华民族由汉族及其文化界定 | 中华民族由当代中国领土界定 |
