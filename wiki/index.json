@@ -4101,6 +4101,20 @@
     ]
   },
   {
+    "title": "Scientific Autarky",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Scientific Autarky.md",
+    "aliases": [
+      "科学自给自足",
+      "学术自立",
+      "科学孤立主义",
+      "学术自给自足",
+      "科学自主",
+      "scientific autarky",
+      "autarky in science"
+    ]
+  },
+  {
     "title": "Scientization of Politics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Scientization of Politics.md",
@@ -12172,6 +12186,18 @@
     ]
   },
   {
+    "title": "Project 5-100",
+    "type": "fact",
+    "path": "wiki/facts/russia/Project 5-100.md",
+    "aliases": [
+      "5-100计划",
+      "俄罗斯学术卓越计划",
+      "Проект 5-100",
+      "Russian Academic Excellence Project",
+      "Project 5-top 100"
+    ]
+  },
+  {
     "title": "Singapore Education Hub Policy",
     "type": "fact",
     "path": "wiki/facts/singapore/Singapore Education Hub Policy.md",
@@ -13615,6 +13641,11 @@
     "title": "Argument_Slavin_2021_ROE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Slavin_2021_ROE.md"
+  },
+  {
+    "title": "Argument_Dezhina_2022_ECO",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/ECO/Argument_Dezhina_2022_ECO.md"
   },
   {
     "title": "Argument_Bogliacino_Pianta_2016_EP",
