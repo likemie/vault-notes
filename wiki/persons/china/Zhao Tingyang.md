@@ -25,8 +25,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[2020 Inner Mongolia Bilingual Education Reform]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 confidence: medium
@@ -127,7 +126,7 @@ updated: '2026-06-25'
 > 
 > > [!critique]- 批评索引
 > > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 尖锐指出赵汀阳理论是彻底的[[Necropolitics|死亡政治]]文明论包装。它将中国塑造成引诱少数民族走向毁灭的“致命女人” (femme fatale)；通过粉饰文化死灭为“自愿牺牲”，推卸了国家机器的历史暴力责任。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
-> > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 驳斥其汉字神性说：赵汀阳声称汉字具有普世吸引力，但在现实中却需要国家依靠强硬的行政和语言同化政策（如 [[2020 Inner Mongolia Bilingual Education Reform|2020年内蒙古双语教育改革]]）来消灭蒙古语等族群语言，暴露了其“自愿向心”说的虚伪。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 113]])
+> > - [[Argument_Bulag_2024_CE|Bulag, 2024]] — 驳斥其汉字神性说：赵汀阳声称汉字具有普世吸引力，但在现实中却需要国家依靠强硬的行政和语言同化政策（如 2020年内蒙古双语教育改革）来消灭蒙古语等族群语言，暴露了其“自愿向心”说的虚伪。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 113]])
 
 ---
 

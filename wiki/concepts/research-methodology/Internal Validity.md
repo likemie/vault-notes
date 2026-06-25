@@ -35,6 +35,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Triangulation]]"
   - "[[Member Checking]]"
+  - "[[Random Sampling]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"

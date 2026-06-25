@@ -19,6 +19,7 @@ tags:
   - source/textbook
   - paradigm/interpretivist
 related_concepts:
+  - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"

@@ -26,6 +26,11 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Causality]]"
+  - "[[Hypothesis]]"
+  - "[[Purpose Statement]]"
+  - "[[Falsification]]"
+  - "[[Construct Validity]]"
+  - "[[Internal Validity]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
 related_theories:
@@ -42,6 +47,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Wang_2025_CE]]"
 confidence: medium
 status: draft
