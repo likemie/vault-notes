@@ -1,6 +1,6 @@
 ---
 authors:
-  - "[[齐梅]]"
+  - "[[齐梅|Qi, M.]]"
 summary: "面向高等院校教师教育类专业本科生和研究生的教育研究方法入门教材，以七编十一章系统介绍研究选题、课题论证、各类研究方法和研究报告撰写"
 type: argument
 subtype: textbook
@@ -18,12 +18,12 @@ publisher: "高等教育出版社"
 year: 2015
 doi: ""
 citation_aliases:
+  - "Qi, 2015"
+  - "Qi (2015)"
   - "齐梅, 2015"
   - "齐梅 (2015)"
-  - "齐梅 (主编), 2015"
-  - "齐梅 (主编) (2015)"
 isbn: "978-7-04-043540-5"
-citation: "齐梅 (主编). (2015). 教育研究方法. 高等教育出版社."
+citation: "齐梅. (2015). 教育研究方法. 北京: 高等教育出版社."
 tags:
   - source/textbook
 related_concepts:
@@ -153,7 +153,7 @@ updated: 2026-06-25
 > | 第4章 [[Experimental Research\|实验研究]] | 实验法的含义与四种基本特征、八项基本要素、内在效度与外在效度及其影响因素、真实验设计与[[Quasi-Experimental Designs\|准实验设计]]的典型模式。 | [[Experimental Research]]、[[Internal Validity]]、[[External Validity]]、[[Solomon Four-Group Design]]、[[Quasi-Experimental Designs]] |
 > | 第5章 [[Survey Research\|调查研究]] | 问卷调查的基本要素与结构、问卷编制原则与步骤、[[Reliability\|信度]]与效度检验及其关系、访谈调查的类型与实施程序。 | [[Survey Research]]、[[Reliability]]、[[Qualitative Interview]] |
 > | 第6章 [[Case Study\|案例研究]] | 案例研究的含义与六项特点、六种分类体系、五步研究程序、质量检验标准以及优势与局限。 | [[Case Study]] |
-> | 第7章 [[Ethnography\|人类学研究]]方法 | 人类学/民族志/民族学的概念区分、[[Fieldwork\|田野调查]]的含义与特点、[[Participant Observation\|参与观察]]与访谈的资料搜集方式、类属分析与情境分析两种资料分析方法。 | [[Ethnography]]、[[Participant Observation]]、[[Thick Description\|深描]] |
+> | 第7章 [[Ethnography\|人类学研究]]方法 | 人类学/民族志/民族学的概念区分、[[Fieldwork\|田野调查]]的含义与特点、[[Participant Observation\|参与观察]]与访谈的资料搜集方式、类属分析与情境分析两种资料分析方法。 | [[Ethnography]]、[[Participant Observation]]、[[Rich and Thick Description\|深描]] |
 > | 第8章 [[Grounded Theory\|扎根理论]]及其应用 | 扎根理论的起源与特点、四种[[Coding in Qualitative Research\|编码]]程序（初始编码→轴心编码→聚焦编码→理论编码）、理论性抽样与理论建构、在教育研究中的适用性。 | [[Grounded Theory]]、[[Coding in Qualitative Research]]、[[Theoretical Sampling]] |
 > | 第9章 [[Action Research\|行动研究]] | 行动研究的定义与四项关键特征、勒温螺旋循环与凯米斯改进模型、九步研究过程、头脑风暴/三角形观察/中立主席三种方法、研究报告与叙事报告两种表述。 | [[Action Research]] |
 > | 第10章 统计分析 | 变量分类与编码、基础统计分析（频数/集中趋势/离散程度/交叉分析）、假设检验（[[t-test\|t检验]]/[[Chi-Squared Test\|卡方检验]]/[[Analysis of Variance\|方差分析]]）、SPSS操作实例。 | [[Descriptive Analysis]]、[[Statistical Significance]]、[[Effect Size]] |
@@ -308,7 +308,7 @@ updated: 2026-06-25
 > | 定义 | 对因变量产生影响的变量，包括研究者要研究的自变量和额外变量（extraneous variable） | 对因变量不产生影响的变量，也叫干扰变量、中间变量或复合变量 |
 > | 示例 | 教养倾向（自变量）、学生个性特质（额外变量） | 研究中可判断其存在但无法控制或测量的变量 |
 
-**[[Hypothesis|研究假设]]**是对两个或多个变量之间关系的推测。好假设有三个特点：有确切的理由、直接说明变量之间的关系、经得起检验。假设是理论的先导，起着纲领性的引导作用。
+[[Hypothesis|研究假设]]是对两个或多个变量之间关系的推测。好假设有三个特点：有确切的理由、直接说明变量之间的关系、经得起检验。假设是理论的先导，起着纲领性的引导作用。
 
 假设的类型可从两个维度划分。
 

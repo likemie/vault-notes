@@ -1,5 +1,5 @@
 ---
-citation: "齐梅 (主编). (2015). 教育研究方法. 高等教育出版社."
+citation: "齐梅. (2015). 教育研究方法. 北京: 高等教育出版社."
 extracted_to:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 processed_date: 2026-06-25
