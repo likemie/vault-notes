@@ -11,7 +11,7 @@ processed_date: 2026-06-26
 
 
 <iframe
-  src="https://img.mylikemie.icu/sources/Glitz_2020_AER/Glitz_2020_AER.pdf"
+  src="https://img.mylikemie.icu/sources/Glitz_2020_AER.pdf"
   width="100%"
   height="820"
   style="border: 1px solid #ddd; border-radius: 8px;"
