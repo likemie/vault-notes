@@ -10,9 +10,9 @@ title: "Argument_Parreira do Amaral_2022_Springer"
 argument_key: "Argument_Parreira do Amaral_2022_Springer"
 argument_display_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 editors:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[New Geopolitics]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Universities Rankings]]"
@@ -76,7 +77,7 @@ citation_aliases:
 ## 编者论点
 
 > [!question]
-> 在全球[[Knowledge-Based Economy|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production|知识生产]]、创新学习环境和人力资本的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge|知识地缘政治]]（a new geopolitics of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson &, p.9)。
+> 在全球[[Knowledge-Based Economy|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production|知识生产]]、创新学习环境和人力资本的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge|知识地缘政治]]（a [[New Geopolitics]] of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson &, p.9)。
 
 编者的核心关切是：传统上嵌入民族国家框架的大学，正在经历深刻的"脱位"（dislocation）与"再定位"（relocation）——从与民族国家文化科学发展紧密相连的古典形式，转向在全球政治经济[[Champ|场域]]中被重构为企业化、[[Snowball Sampling|网络化]]、数字化的全球行动者。
 
@@ -105,7 +106,7 @@ citation_aliases:
 ## 理论框架
 
 > [!tip]-
-> - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics|古典地缘政治]]（领土扩张、民族国家中心）转向新地缘政治（[[Relational Space|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
+> - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics|古典地缘政治]]（领土扩张、民族国家中心）转向[[New Geopolitics|新地缘政治]]（[[Relational Space|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的话语建构
 - [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念，揭示超国家组织在高等教育区域化中的监管角色

@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Blue Skies Research]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Competitiveness]]"
   - "[[Promising Student]]"
@@ -129,7 +130,7 @@ updated: 2026-05-20
 > [!success]
 > 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]])。
 
-排名通过以下机制运作于高等教育地缘政治之中([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–138]])：
+排名通过以下机制运作于[[Geopolitics of Higher Education|高等教育地缘政治]]之中([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–138]])：
 
 - **作为国家权力的标志**："排名构成了国家权力的标志之一"（Cantwell, 2016, p.316, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]]）
 - **作为合法化不平等的工具**：排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]]），"将资源差异和全球[[Knowledge Production|知识生产]]的不均衡合法化"（Hazelkorn, 2018, p.18, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.134]]）

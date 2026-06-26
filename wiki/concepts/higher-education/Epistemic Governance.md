@@ -8,10 +8,10 @@ aliases:
 summary: "以规范、认知和知识为基础的治理机制，用于说明高等教育机构如何通过知识权威、专家培养和价值框架参与全球治理。"
 type: concept
 domain: "higher-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/global
 - level/higher-ed
@@ -22,6 +22,9 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Geopolitics of Higher Education]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Document]]"
@@ -34,15 +37,17 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[Academic Ranking of World Universities]]"
   - "[[OECD]]"
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-05-20
+updated: 2026-06-26
 ---
 
 # Epistemic Governance
@@ -77,6 +82,12 @@ updated: 2026-05-20
 
 - 2016 年 Normand 在 *The Changing Epistemic Governance of European Education* 中系统阐述了欧洲教育的知识治理转型，将 epistemic governance 概念引入教育政策分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])
 - [[Argument_Zapp_2022_Springer|Zapp (2022)]]将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals|SDGs]] 为关键催化剂。详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]（pp.150–154）
+
+### 作为地缘政治装置的认识论治理
+
+从[[Geopolitics of Higher Education|高等教育地缘政治]]视角来看，知识治理不仅是一种"软治理"机制，也是一种嵌入全球权力结构的地缘政治装置。余婧然和谢爱磊（2025）指出，全球知识等级秩序通过三重制度机制实现再生产：大学排名体系（QS, THE, [[Academic Ranking of World Universities|ARWU]]）依赖英文出版物数量、引用频次和国际合著比率等指标，默认以英语为权威媒介，系统性地忽视全球南方国家的语言和本土议题；科研资助网络与学术出版平台由位于全球北方国家的少数机构和出版商主导；研究者为在全球排名中被看见而主动或被动地"自我[[Disciplina and Doctrina|规训]]"，围绕更易获得英文学界认可的议题开展研究。这三层机制共同构成米尼奥洛（W. Mignolo）和康奈尔（R. Connell）所称的"[[Epistemology|认识论]]殖民"结构——以欧洲中心主义的认识论与方法论为基础，构建起一套隐性但有力的知识规则系统，不仅界定哪些知识可以被看见、被接受、被引用，也在制度运作中固化了象征空间的等级边界。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 7–9)]]
+
+正是在这一意义上，大学排名被研究者称为"高等教育地缘政治不可避免的结果和隐喻"，它不仅将大学转化为国家争夺象征资本的竞技场，也通过等级划分确立了知识的相对价值排序——本质上是"认识论治理"（epistemic governance）作为全球空间权力分配机制的体现。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 7–8)]]
 
 ---
 ## 核心要素

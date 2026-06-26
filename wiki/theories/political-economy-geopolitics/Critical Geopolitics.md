@@ -6,10 +6,10 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 28
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 34
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
 - critical-geopolitics
 - geopolitics-of-knowledge
@@ -22,6 +22,12 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Hypothesis]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[New Geopolitics]]"
+  - "[[Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Value Neutrality]]"
+  - "[[Knowledge Production]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economy]]"
@@ -36,7 +42,6 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Hegemony]]"
   - "[[National Competitive Advantage]]"
-  - "[[Ontology]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
@@ -50,11 +55,12 @@ related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-06-26'
 ---
 
 ## 定义
@@ -107,7 +113,17 @@ Dodds (2019, p.36) 强调要关注"人们的日常经验以及他们为应对地
 
 ## 在教育研究中的应用
 
-批判地缘政治学为分析当代高等教育转型提供了独特的分析工具。[[Argument_Moisio_2022_Springer|Moisio (2022)]]将其整合进对[[Knowledge-Based Economization|知识经济化]]的分析，揭示了高等教育中的多重地缘政治动态：
+批判地缘政治学为分析当代高等教育转型提供了独特的分析工具。余婧然和谢爱磊（2025）将批判地缘政治定位为"[[New Geopolitics|新地缘政治]]"（[[New Geopolitics]]）[[Paradigm|范式]]的代表——在"地缘政治是物质性还是观念性"和"是科学性（知识）还是实践性（行动）"两个[[Ontology|本体论]]问题上，新地缘政治选择了观念—科学端，与传统地缘政治的物质—实践端形成延续与互补。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 11–12)]]
+
+在高等教育领域，批判地缘政治的应用体现在三个层面：
+
+- **空间观转换**：空间从"先验的自然容器"转向"流动的社会建构"，高等教育不再被视为发生于特定地点的教育活动，而被理解为持续参与空间生产与空间治理的制度性实践。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 12–13)]]
+- **知识作为地缘政治分析中心**：知识不再被视为[[Value Neutrality|价值中立]]的认知成果，而被理解为嵌入特定历史—地理位置的权力表达形式。通过理论生产、学术规范与学科体系，某些认识框架得以普遍化，其他知识传统则被边缘化或去合法化。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 12–13)]]
+- **高等教育的能动性重构**：高等教育从国家竞争的附属工具被重新纳入地缘政治分析的核心视野。大学被理解为重要的空间实践者，通过人的培养、[[Knowledge Production|知识生产]]、学术流动与跨境合作主动参与空间意义的建构与权力关系的再生产。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 12–13)]]
+
+当代[[Geopolitics of Higher Education|高等教育的地缘政治]]研究呈现传统与新地缘政治范式并存、相互嵌套的复合形态：在吸收批判地缘政治关于空间社会生产和话语建构成果的基础上，重新纳入物质权力（大国竞争、技术封锁、安全化）的分析。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, p. 13)]]
+
+[[Argument_Moisio_2022_Springer|Moisio (2022)]]将其整合进对[[Knowledge-Based Economization|知识经济化]]的分析，揭示了高等教育中的多重地缘政治动态：
 
 - **[[Fixity-Motion Tension|固着-流动张力]]**：Harvey 揭示的核心地缘政治悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置
 - **[[Spatial Sortings|空间分选]]**：[[Knowledge-Based Economy|知识经济]]化将某些地点和人群置于发展中心，同时边缘化其他地点和人群，国家通过空间选择性政策中介这一过程([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–31]])

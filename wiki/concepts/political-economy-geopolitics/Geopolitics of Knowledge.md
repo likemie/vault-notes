@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Global Regionalisms]]"
   - "[[Global Education Industry]]"
   - "[[Spatial Sortings]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Global Universities Rankings]]"
   - "[[Halo Effect]]"
   - "[[Economic Patriotism]]"
@@ -235,7 +236,7 @@ updated: 2026-05-20
 >
 > 两条脉络并非前后替代——从不同学术起点出发，分别抵达"地缘政治与知识的关系"这一共同问题域。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两者整合为"新知识地缘政治"[[Analytic Framework|分析框架]]，主张批判地缘政治学提供空间配置和话语建构的分析工具，去殖民传统则将注意力引向认识论本身的政治性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）。
 
-[[Argument_Marginson_2025_ROE|Marginson（2025）]]补充了一个关键分析维度：高等教育地缘政治关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ROE|Marginson, 2025, p.14]]）。
+[[Argument_Marginson_2025_ROE|Marginson（2025）]]补充了一个关键分析维度：[[Geopolitics of Higher Education|高等教育地缘政治]]关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ROE|Marginson, 2025, p.14]]）。
 
 ---
 
@@ -361,7 +362,7 @@ updated: 2026-05-20
 [[Global Universities Rankings|全球大学排名]]不是中立的评估工具，而是知识地缘政治的核心运作机制之一。
 
 > [!citation-card]- Hazelkorn, 2018
-> 排名"已成为高等教育地缘政治的不可避免的结果和隐喻"——它们"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"。
+> 排名"已成为[[Geopolitics of Higher Education|高等教育地缘政治]]的不可避免的结果和隐喻"——它们"主要测量[[Blue Skies Research|基础研究]]和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"。
 >
 > Hazelkorn, 2018, p.10, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]]
 

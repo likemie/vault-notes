@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Transfer]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[New Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Document]]"
 related_theories:
@@ -372,7 +373,7 @@ Rizvi 的结论不是一个简单的"解决方案"，而是一组**方向性的�
 
 5. **"疫情是一个入口"**：Rizvi 借用 Arundhati Roy (2020) 的名言——“大流行是一扇传送门”
 > (“大流行是一扇传送门”
-> ("the pandemic is a portal"))——来结束他的论证。疫情和它们所揭示的地缘政治紧张可能需要很长时间才能解决，但它们为我们提供了一个"重新想象世界和高等教育的新地缘政治的新入口"
+> ("the pandemic is a portal"))——来结束他的论证。疫情和它们所揭示的地缘政治紧张可能需要很长时间才能解决，但它们为我们提供了一个"重新想象世界和高等教育的[[New Geopolitics|新地缘政治]]的新入口"
 
 ## 主要发现
 

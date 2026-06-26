@@ -5,7 +5,7 @@ aliases:
 summary: "以国家领土控制、势力范围和硬实力竞争为中心的传统地缘政治理解，与关系性和网络化的空间分析形成对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Hypothesis]]"
   - "[[Champ]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Analytic Framework]]"
 related_theories:
   - "[[Critical Geopolitics]]"
@@ -103,7 +104,7 @@ updated: '2026-05-18'
 
 ### 在高等教育分析中的应用
 
-[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治为代表）作为其分析高等教育地缘政治动态的**对照基线**。他的论点是：这一现实主义理解不足以解释当代高等教育中的地缘政治动态——它只能看到国家间的权力斗争，看不到新兴的跨国社会想象、网络化关系和全球教育市场中意识形态与文化的多重维度。用[[Critical Geopolitics|批判地缘政治学]]的视角替代古典地缘政治，是 Rizvi 整章论证的概念起点([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91]])。详见 Rizvi 论证 > 第二步。
+[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治为代表）作为其分析[[Geopolitics of Higher Education|高等教育地缘政治]]动态的**对照基线**。他的论点是：这一现实主义理解不足以解释当代高等教育中的地缘政治动态——它只能看到国家间的权力斗争，看不到新兴的跨国社会想象、网络化关系和全球教育市场中意识形态与文化的多重维度。用[[Critical Geopolitics|批判地缘政治学]]的视角替代古典地缘政治，是 Rizvi 整章论证的概念起点([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91]])。详见 Rizvi 论证 > 第二步。
 
 ---
 
@@ -130,7 +131,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - [[Critical Geopolitics|批判地缘政治学]]者论证古典地缘政治的"领土偏见"不仅在分析上有缺陷，而且在历史上与殖民主义和民族主义暴力深度纠缠（Thompson & Parreira do Amaral, 2022, p.10）。详见 [[Critical Geopolitics#核心命题]]
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 指出，在分析当代高等教育的地缘政治动态时，古典地缘政治视角无法捕捉跨国社会想象、中产阶级的教育消费选择，以及国际化市场中意识形态与文化的维度([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91]])
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 指出，在分析当代[[Geopolitics of Higher Education|高等教育的地缘政治]]动态时，古典地缘政治视角无法捕捉跨国社会想象、中产阶级的教育消费选择，以及国际化市场中意识形态与文化的维度([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.90–91]])
 > - 在知识密集型资本主义时代，古典地缘政治的[[Analytic Framework|分析框架]]不足以捕捉资金、人才和思想流动的[[Relational Space|关系性空间]]动态——但这并不意味着领土权力逻辑已经消失([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.25–27]])
 
 ---

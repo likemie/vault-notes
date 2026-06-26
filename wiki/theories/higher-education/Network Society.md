@@ -5,7 +5,7 @@ aliases:
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Global Policy Space]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Champ]]"
   - "[[Performativity]]"
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 > - **2000** — Castells 在 *British Journal of Sociology* 发表网络社会探索性理论，进一步阐述网络的二元纳入／排除逻辑和权力动态（Castells, 2000c）
 > - **2006** — Yochai Benkler 出版 *The Wealth of Networks*，将网络社会理论延伸至[[Knowledge Production|知识生产]]领域，论证网络化的知识生产（如开源软件、维基百科式的协作）正在挑战传统的、等级化的知识生产模式
 > - **2009** — Beech 将 Castells 的[[Space of Flows and Space of Places|流动空间与地方空间]]区分和网络逻辑应用于比较教育中的话语流通分析，提出[[Global Policy Space|全球政策空间]]概念([[Argument_Beech_2009_CE|Beech, 2009]])
-> - **2022** — Rizvi 将网络社会理论整合进其高等教育地缘政治分析，用于解释[[Transnational Research Collaboration|跨国研究合作]]的网络化转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
+> - **2022** — Rizvi 将网络社会理论整合进其[[Geopolitics of Higher Education|高等教育地缘政治]]分析，用于解释[[Transnational Research Collaboration|跨国研究合作]]的网络化转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
 >
 
 ## 在高等教育研究中的应用

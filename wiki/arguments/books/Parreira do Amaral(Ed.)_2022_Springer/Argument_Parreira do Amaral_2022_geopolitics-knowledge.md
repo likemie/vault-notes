@@ -9,7 +9,7 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Global Regionalisms]]"
   - "[[Global Education Industry]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[International Education Hubs]]"
   - "[[Innovation Hub]]"
   - "[[Epistemic Governance]]"
@@ -120,7 +121,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 - [[Global Education Industry|全球教育产业]]：教育本身已成为一项经济事业——"无数行动者在此基础上生产、交换和消费教育商品和服务，通常以营利为目的"(Verger et al., 2016, p.4, p.42)。GEI 被描述为由"自身的过程集合、规则系统和社会力量"构成的独立运作领域，其核心特征在于建立在经济基础上的概念已渗透到全球教育改革和重组之中(pp.42–43)
 
-**第四步（§3.4 (再)想象与(再)建构高等教育）：两个案例展示。** 本章选择两个虽来自不同地点、关注不同发展但共同指向高等教育地缘政治转型普遍性的案例：
+**第四步（§3.4 (再)想象与(再)建构高等教育）：两个案例展示。** 本章选择两个虽来自不同地点、关注不同发展但共同指向[[Geopolitics of Higher Education|高等教育地缘政治]]转型普遍性的案例：
 
 - [[International Education Hubs|国际教育枢纽]]（§3.4.1）：以 Knight (2014a, 2014b, 2014c) 的框架追溯 IEHs 从学生枢纽到人才枢纽到知识/[[Innovation Hub|创新枢纽]]的分类学梯度，每一层级代表与知识经济逻辑越来越深度的整合。IEHs 体现的不只是国际化策略，而是"国家、经济、社会和高等教育之间关系的重新排列"以及高等教育治理理性从社会/教育范畴（可及性、公平、质量、开放研究）向经济范畴（收入创造、可专利的非开放研究、竞争力）的根本性转变。国家角色从垄断教育供给转向强化监管连接（power connector）(pp.43–45)
 

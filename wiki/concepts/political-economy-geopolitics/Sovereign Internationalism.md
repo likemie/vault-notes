@@ -5,7 +5,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods: []
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success]
-> - [[Geopolitics of Knowledge]] — 主权国际主义与[[Radical Liberal Internationalism|激进自由国际主义]]的张力是理解当代高等教育地缘政治的重要背景：前者倾向于知识合作，后者倾向于知识竞争
+> - [[Geopolitics of Knowledge]] — 主权国际主义与[[Radical Liberal Internationalism|激进自由国际主义]]的张力是理解当代[[Geopolitics of Higher Education|高等教育地缘政治]]的重要背景：前者倾向于知识合作，后者倾向于知识竞争
 > - [[Internationalization of Higher Education]] — 1990–2015 年间的美国主导国际化兼具主权国际主义的形式（多边组织、合作话语）和激进自由国际主义的实质（英语大学全球扩张、西方化）
 
 ---

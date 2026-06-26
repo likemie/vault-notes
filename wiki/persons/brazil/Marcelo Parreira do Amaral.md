@@ -7,7 +7,7 @@ summary: "巴西裔德国比较教育学者，全球教育产业与知识地缘�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Global Regionalisms]]"
   - "[[Champ]]"
+  - "[[New Geopolitics]]"
   - "[[Analytic Framework]]"
   - "[[International Education Hubs]]"
   - "[[Knowledge-Based Economization]]"
@@ -71,7 +72,7 @@ Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）�
 
 ## 主要贡献
 
-- [[Geopolitics of Knowledge]] — 与 Thompson 共同发展了高等教育研究的地缘政治视角；在 Ch3 中整合[[Critical Geopolitics|批判地缘政治学]]和后殖民/去殖民两条脉络，提出了"新知识地缘政治"（New Geopolitics of Knowledge）的综合[[Analytic Framework|分析框架]]
+- [[Geopolitics of Knowledge]] — 与 Thompson 共同发展了高等教育研究的地缘政治视角；在 Ch3 中整合[[Critical Geopolitics|批判地缘政治学]]和后殖民/去殖民两条脉络，提出了"新知识地缘政治"（[[New Geopolitics]] of Knowledge）的综合[[Analytic Framework|分析框架]]
 - [[International Education Hubs]] — 将 Knight 的 IEH 框架引入知识地缘政治分析，论证 IEHs 是国家、经济、社会和高等教育之间关系的根本性重新排列
 - [[Global Education Industry]] — 与 Steiner-Khamsi 和 Thompson 共同编辑该领域的核心著作；在 Ch3 中将 GEI 定位为知识地缘政治转型的关键语境
 - [[Knowledge-Based Economization]] — 将 Moisio 的概念引入教育研究分析

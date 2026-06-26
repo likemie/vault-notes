@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Post-colonial Theory]]"
   - "[[Critical Pedagogy]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Operationalization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Analytic Framework]]"
@@ -92,7 +93,7 @@ updated: '2026-05-21'
 > - 1929–1935 Gramsci 在法西斯监狱中撰写《狱中[[Memos|札记]]》，提出霸权概念，用以解释"为什么意大利工人阶级没有像马克思主义所预期的那样发起革命"——答案在于天主教会、教育系统和媒体等文化制度成功制造了工人阶级对现行秩序的"同意"
 > - 1971 《狱中札记》英文版出版，霸权概念进入英语学术世界，深刻影响了英国文化研究（Stuart Hall）、[[Post-colonial Theory|后殖民理论]]（Edward Said）和[[Critical Pedagogy|批判教育学]]（[[Paulo Freire]]）
 > - 1990 年代后 在国际关系和国际政治经济学中，"霸权"被用于分析美国全球领导地位的性质和限度
-> - 2025 Marginson 将 Gramsci 霸权理论系统引入高等教育地缘政治分析，作为[[World-Systems Theory|世界体系理论]]的替代框架
+> - 2025 Marginson 将 Gramsci 霸权理论系统引入[[Geopolitics of Higher Education|高等教育地缘政治]]分析，作为[[World-Systems Theory|世界体系理论]]的替代框架
 > - 2024 Yu & Zhao 以中国学校课程中的儒家传统叙事为案例，经验性地展示了霸权如何通过教科书——而非强制——制造文化同意；同时揭示了边缘群体对霸权叙事的抵制，验证了霸权的不稳定性
 
 ---
@@ -127,7 +128,7 @@ updated: '2026-05-21'
 ## 应用领域
 
 > [!success]
-> - 高等教育地缘政治 — 霸权理论为理解"国际化为何在很大程度上意味着西方化"提供了[[Analytic Framework|分析框架]]：英美大学的全球扩张不是通过军事征服，而是通过制造"英美大学 = 世界一流"的全球共识
+> - [[Geopolitics of Higher Education|高等教育地缘政治]] — 霸权理论为理解"国际化为何在很大程度上意味着西方化"提供了[[Analytic Framework|分析框架]]：英美大学的全球扩张不是通过军事征服，而是通过制造"英美大学 = 世界一流"的全球共识
 > - [[Global Universities Rankings|全球大学排名]] — 排名是霸权运作的典范机制：它不强制任何大学参与排名竞争，但通过定义"卓越"的标准制造了全球大学的自我[[Disciplina and Doctrina|规训]]
 > - [[Internationalization of Higher Education]] — 市场驱动的国际化可以被分析为一种霸权形式：亚洲中产阶级"自愿"选择支付高额学费赴西方留学，这种"同意"被市场话语正当化为"消费者选择"，但其深层结构是殖民历史和不平等的全球知识分工
 

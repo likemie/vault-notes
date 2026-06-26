@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Hegemony]]"
   - "[[Multiplicity]]"
+  - "[[Global Citizenship]]"
   - "[[Hypothesis]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
@@ -36,10 +37,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-06-26'
 ---
 
 # Internationalization of Higher Education
@@ -77,6 +79,14 @@ updated: '2026-05-18'
 - 西方对跨境连接的反弹表现为：规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动）
 - 美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂，标志着"国际化"作为共享规范性框架的终结
 - Marginson 指出这一反弹的深层根源在于：（a）殖民秩序的侵蚀和全球[[Multiplicity|多重性]]的增长——包括中国和全球南方的崛起；（b）新自由主义导致的欧美人口贫困化，催生了民粹政治([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 22–23]])
+
+### 高等教育的再国家化与再边界化
+
+从地缘政治视角看，高等教育国际化在21世纪经历了显著的"再国家化"（re-nationalization）与"再边界化"（re-bordering）过程。余婧然和谢爱磊（2025）指出，9·11事件后"国家安全"再度成为各国政策议程的核心，一度朝着全球化迈进的高等教育部分地被重新纳入国家主权与安全逻辑的框架之中，动摇了"世界主义"和"[[Global Citizenship|全球公民]]"等理想化愿景。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, p. 5)]]
+
+这一趋势在21世纪第二个十年后期进一步加速。以英国脱欧、特朗普当选为节点，大国竞争回归、技术民族主义制度化和跨国流动安全化共同推动了高等教育的"地缘政治化"：中美战略博弈导致科技与人才流动领域部分"脱钩"；STEM领域学者和学生受签证配额、技术出口控制和敏感领域审查的直接影响；高校工作人员被卷入日常边境管理职责，承担对国际学生的出勤监管。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 5–6, 9–10)]]
+
+国际化由此呈现出一种矛盾状态：一方面，跨境学生流动和合作项目仍在增长，新的流动方向（如东亚区域枢纽）正在生成；另一方面，"国际化"作为共享规范性框架已宣告终结——高等教育国际化不再是朝向单一全球化模式的趋同，而是日益成为由国家主导的策略性活动，地缘政治因素成为显性逻辑。[[Argument_Yu_Xie_2025_JHE|(Yu & Xie, 2025, pp. 2–3)]]
 
 ## 核心要素
 

@@ -8,7 +8,7 @@ aliases:
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Hegemony]]"
   - "[[Epistemology]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Methodological Globalism]]"
   - "[[Academic Freedom]]"
   - "[[Double Spatiality of Universities]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的[[Epistemology|认识论]]逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入高等教育地缘政治分析，用以解释"为什么高等教育的地缘政治关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
+> 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的[[Epistemology|认识论]]逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education|高等教育地缘政治]]分析，用以解释"为什么高等教育的地缘政治关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
 
 > [!quote]
 > "Higher education and science have a partial autonomy — or 'semi-autonomy' — in the Gramscian sense. They are shaped by political economy, yet also evolve in their own right."([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> 半自主性概念源自 Gramsci（1971）对[[Hegemony|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的[[Epistemology|认识论]]自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom|学术自由]]才能培养有创造力的精英。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入高等教育地缘政治分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受地缘政治影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
+> 半自主性概念源自 Gramsci（1971）对[[Hegemony|文化霸权]]（cultural hegemony）的分析。Gramsci 区分了"强制"（coercion/force）和"霸权"（hegemony），指出统治阶级不仅依靠暴力，还通过学校、媒体、出版、科学和大学等文化制度赢得被统治者的同意。文化部门相对于国家具有半自主性，因为它们不能仅靠强制来运作——科学需要真正的[[Epistemology|认识论]]自由才能产生有用的知识，大学需要一定程度的[[Academic Freedom|学术自由]]才能培养有创造力的精英。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education|高等教育地缘政治]]分析，用以解释两个看似矛盾的经验事实：（1）高等教育深受地缘政治影响；（2）高等教育中的地缘政治关系比政治和军事关系更具合作性([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 11, 13–14]])。
 
 ---
 

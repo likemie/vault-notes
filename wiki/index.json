@@ -3746,6 +3746,15 @@
     ]
   },
   {
+    "title": "Geopolitics of Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Geopolitics of Higher Education.md",
+    "aliases": [
+      "高等教育地缘政治",
+      "高等教育的地缘政治"
+    ]
+  },
+  {
     "title": "Geopolitics of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
@@ -3959,6 +3968,15 @@
     "aliases": [
       "网络治理",
       "network governance in education"
+    ]
+  },
+  {
+    "title": "New Geopolitics",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/New Geopolitics.md",
+    "aliases": [
+      "新地缘政治",
+      "new geopolitics"
     ]
   },
   {
@@ -4180,6 +4198,15 @@
       "Soviet statism",
       "statism",
       "国家主义"
+    ]
+  },
+  {
+    "title": "Space Production in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Space Production in Higher Education.md",
+    "aliases": [
+      "高等教育空间生产",
+      "spatial production in higher education"
     ]
   },
   {
@@ -12004,6 +12031,16 @@
     ]
   },
   {
+    "title": "Southeast Asian Higher Education Common Space",
+    "type": "fact",
+    "path": "wiki/facts/multi/Southeast Asian Higher Education Common Space.md",
+    "aliases": [
+      "东南亚高等教育共同空间",
+      "ASEAN Common Space in Higher Education",
+      "Southeast Asian Higher Education Common Space Declaration"
+    ]
+  },
+  {
     "title": "Swiss Innovation Policy System",
     "type": "fact",
     "path": "wiki/facts/multi/Swiss Innovation Policy System.md",
@@ -12183,6 +12220,31 @@
     "aliases": [
       "Russian Translation of Visible Learning 2017",
       "俄文版可见的学习（Visible Learning，VL）"
+    ]
+  },
+  {
+    "title": "Consolidation of Russian State Science Funds",
+    "type": "fact",
+    "path": "wiki/facts/russia/Consolidation of Russian State Science Funds.md",
+    "aliases": [
+      "俄罗斯国家科研基金整合",
+      "俄罗斯科学基金合并",
+      "РНФ и РФФИ",
+      "Consolidation of Russian Scientific Funds",
+      "国家竞争性基金的行政垄断化整合"
+    ]
+  },
+  {
+    "title": "Federal Law No. 85-FZ on Enlightenment Activities",
+    "type": "fact",
+    "path": "wiki/facts/russia/Federal Law No. 85-FZ on Enlightenment Activities.md",
+    "aliases": [
+      "第85-FZ号教育法修正案",
+      "俄罗斯启盟活动法",
+      "俄罗斯启蒙活动法",
+      "Федеральный закон № 85-ФЗ",
+      "85-FZ教育法修正案",
+      "Law on Enlightenment Activities"
     ]
   },
   {
@@ -14026,6 +14088,11 @@
     "title": "Argument_Wecker_2016_ZfE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+  },
+  {
+    "title": "Argument_Yu_Xie_2025_JHE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
   },
   {
     "title": "Argument_Cowen_2015_CHESS",
