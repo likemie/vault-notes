@@ -39,7 +39,7 @@ argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: "高等教育研究"
 ---
-# Argument_Yu_Xie_2025_JHE
+![[Pasted image 20260627161251.png]]# Argument_Yu_Xie_2025_JHE
 
 ---
 

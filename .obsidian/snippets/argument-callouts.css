@@ -2879,34 +2879,25 @@
 .callout[data-callout="finding-cards"] .callout-content > ul > li {
   grid-column: span 3;
   counter-increment: finding;
-  /* 内部 grid：序号列（固定）+ 内容列（自动填充） */
-  display: grid;
-  grid-template-columns: 1.55rem minmax(0, 1fr);
-  column-gap: 0.45rem;
-  align-items: start;
-  min-width: 0; /* 防止外层 grid 列被内容撑开 */
+  /* 放弃内部 grid，改用 padding-left + 绝对定位数字圆圈
+     避免 CJK 文本在嵌套 grid 中触发 min-width:auto 导致字符竖排 */
+  position: relative;
+  min-width: 0;
   margin: 0;
-  padding: 0.9rem 1rem;
+  padding: 0.9rem 1rem 0.9rem 2.6rem; /* 左边留给数字圆圈 */
   border: 1px solid rgba(192, 108, 56, 0.18);
   border-radius: 9px;
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(192, 108, 56) 12%);
   line-height: 1.65;
 }
 
-/* 隐藏 Obsidian 注入的 list-bullet span，避免占用内容列 */
+/* 隐藏 Obsidian 注入的 list-bullet span */
 .callout[data-callout="finding-cards"] .callout-content > ol > li > .list-bullet,
 .callout[data-callout="finding-cards"] .callout-content > ul > li > .list-bullet {
   display: none;
 }
 
-/* 所有直接子元素（p / ul / 匿名块）强制放第 2 列，min-width:0 防止 CJK 撑列 */
-.callout[data-callout="finding-cards"] .callout-content > ol > li > *,
-.callout[data-callout="finding-cards"] .callout-content > ul > li > * {
-  grid-column: 2;
-  min-width: 0;
-}
-
-/* p 的间距 */
+/* p 的间距（现在是普通块元素，不需要 grid-column） */
 .callout[data-callout="finding-cards"] .callout-content > ol > li > p,
 .callout[data-callout="finding-cards"] .callout-content > ul > li > p {
   margin: 0;
@@ -2945,13 +2936,13 @@
 .callout[data-callout="finding-cards"] .callout-content > ol > li::before,
 .callout[data-callout="finding-cards"] .callout-content > ul > li::before {
   content: counter(finding);
-  grid-column: 1;
-  grid-row: 1;
+  position: absolute;
+  left: 0.75rem;
+  top: 0.9rem; /* 与第一行文字基线对齐 */
   display: grid;
   place-items: center;
   width: 1.35rem;
   height: 1.35rem;
-  margin-top: 0.15rem; /* 与第一行文字基线对齐 */
   border-radius: 999px;
   background: rgba(192, 108, 56, 0.2);
   color: rgb(155, 82, 32);

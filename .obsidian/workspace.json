@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "e1573f91b7722f1b",
+            "id": "15002ac7785f04db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
-                "mode": "preview",
+                "file": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_QiMei_2015_EducationalResearchMethods"
+              "title": "Argument_Yu_Xie_2025_JHE"
             }
           }
         ],
@@ -206,17 +206,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e1573f91b7722f1b",
+  "active": "15002ac7785f04db",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
-    "scripts/__pycache__/citation_index.cpython-313.pyc",
+    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
+    "wiki/arguments/journal-articles/ECO/Argument_Dezhina_2022_ECO.md",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
+    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
+    "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
+    "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+    "Pasted image 20260627161251.png",
+    "scripts/__pycache__/citation_index.cpython-313.pyc",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/wiki-heading-style-XXXXXX.md",
     "wiki/persons/china/Zhao Tingyang.md",
-    "wiki/arguments/journal-articles/ECO/Argument_Dezhina_2022_ECO.md",
     "sources/Yu_Xie_2025_JHE.md",
     "sources/Yu_Xie_2025_JHE.pdf",
     "wiki/facts/russia/Consolidation of Russian State Science Funds.md",
@@ -244,9 +249,6 @@
     "sources/Dezhina_2022_ECO.md",
     "sources/Dezhina_2022_ECO.pdf",
     "sources/Glitz_2020_AER.md",
-    "sources/Glitz_2020_AER/Glitz_2020_AER.md",
-    "wiki/methods/quantitative/Shift-Share Instrument.md",
-    "wiki/concepts/economics/Total Factor Productivity.md",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]
