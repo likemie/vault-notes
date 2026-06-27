@@ -2884,6 +2884,7 @@
   grid-template-columns: 1.55rem 1fr;
   column-gap: 0.45rem;
   align-items: start;
+  min-width: 0; /* 防止外层 grid 列被内容撑开 */
   margin: 0;
   padding: 0.9rem 1rem;
   border: 1px solid rgba(192, 108, 56, 0.18);
@@ -2897,6 +2898,7 @@
 .callout[data-callout="finding-cards"] .callout-content > ul > li > p {
   grid-column: 2;
   margin: 0;
+  min-width: 0; /* 防止 CJK 长文本把 1fr 列撑成字符宽 */
 }
 .callout[data-callout="finding-cards"] .callout-content > ol > li > p + p,
 .callout[data-callout="finding-cards"] .callout-content > ul > li > p + p {
