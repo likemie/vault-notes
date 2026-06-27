@@ -3317,8 +3317,8 @@
   margin: 0;
 }
 .callout[data-callout="dimension"] > .callout-content > ul > li::marker { display: none; }
-/* 隐藏 Obsidian 注入的真实 DOM bullet span */
-.callout[data-callout="dimension"] .list-bullet { display: none !important; }
+/* 只隐藏顶层 li 的 Obsidian bullet span（这些 li 用 D# 徽章代替）；嵌套子列表不受影响 */
+.callout[data-callout="dimension"] > .callout-content > ul > li > .list-bullet { display: none !important; }
 
 /* 维度卡片 */
 .callout[data-callout="dimension"] > .callout-content > ul > li {
