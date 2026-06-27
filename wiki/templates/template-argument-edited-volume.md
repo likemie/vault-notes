@@ -7,7 +7,9 @@ publication_type: edited-volume
 authors: []
 editors:
   - "[[Editor, E. E.]]"
+source_language: en
 book_title: ""
+publication_place: ""
 publisher: ""
 year:
 doi: ""

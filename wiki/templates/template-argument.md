@@ -3,6 +3,7 @@ title: <% tp.file.title %>
 summary: ""
 type: argument
 authors: []
+source_language: en
 citation: ""
 year:
 doi: ""
@@ -25,6 +26,8 @@ subtype: journal-article
 publication_type: journal-article
 journal: ""
 book_title: ""
+publication_place: ""
+publisher: ""
 issuing_organization: ""
 ---
 

@@ -1,6 +1,7 @@
 ---
 authors:
-  - "[[Yajun Zheng|Zheng, Y.]]"
+  - "[[Yajun Zheng|郑雅君（Zheng, Y.）]]"
+source_language: zh
 summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。"
 type: argument
 subtype: monograph
@@ -14,8 +15,9 @@ argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: 金榜题名之后：大学生出路分化之谜
+publication_place: 上海
 publisher: 上海三联书店
-citation: "郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店."
+citation: "郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海: 上海三联书店."
 tags:
   - higher-education
   - social-stratification
@@ -124,8 +126,6 @@ updated: '2026-06-08'
 year: 2023
 doi: ""
 citation_aliases:
-  - "Zheng, 2023"
-  - "Zheng (2023)"
   - "郑雅君, 2023"
   - "郑雅君 (2023)"
 ---

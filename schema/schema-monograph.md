@@ -99,7 +99,7 @@ PDF：
 .venv/bin/python3 scripts/source_record.py monograph-pdf \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.pdf \
-  --citation "Author, A. A. (Year). Book title. Publisher."
+  --citation "Author, A. A. (Year). Book title. Place: Publisher."
 ```
 
 EPUB：
@@ -108,7 +108,7 @@ EPUB：
 .venv/bin/python3 scripts/source_record.py monograph-epub \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.epub \
-  --citation "Author, A. A. (Year). Book title. Publisher."
+  --citation "Author, A. A. (Year). Book title. Place: Publisher."
 ```
 
 EPUB source record 使用已配置的 epub.js 阅读器容器；本地 viewer 指向 vault 内文件，在线 viewer 指向 NAS：

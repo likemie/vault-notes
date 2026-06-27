@@ -2,11 +2,13 @@
 title: <% tp.file.title %>
 authors:
   - "[[Author, A. A.]]"
+source_language: en
 summary: ""
 type: argument
 subtype: monograph
 publication_type: book
 book_title: ""
+publication_place: ""
 publisher: ""
 year:
 doi: ""

@@ -1,6 +1,7 @@
 ---
 authors:
-  - "[[齐梅|Qi, M.]]"
+  - "齐梅（Qi, M.）"
+source_language: zh
 summary: "面向高等院校教师教育类专业本科生和研究生的教育研究方法入门教材，以七编十一章系统介绍研究选题、课题论证、各类研究方法和研究报告撰写"
 type: argument
 subtype: textbook
@@ -14,12 +15,11 @@ argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "教育研究方法"
+publication_place: "北京"
 publisher: "高等教育出版社"
 year: 2015
 doi: ""
 citation_aliases:
-  - "Qi, 2015"
-  - "Qi (2015)"
   - "齐梅, 2015"
   - "齐梅 (2015)"
 isbn: "978-7-04-043540-5"
@@ -663,7 +663,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | [[Split-Half Reliability\|折半信度]]（Split-Half） | 测量项目分成对等两半所测结果的一致性 | 常用奇偶数分半；计算公式包括Spearman-Brown、[[Internal Consistency\|Cronbach α]]等 |
 > | [[Inter-Rater Reliability\|评分者信度]]（Inter-Rater） | 不同评定者使用相同工具所得结果的一致性 | 适用于人为评分、标准化程度较低的调查 |
 
-信度系数评价标准：低于0.65不可接受，0.65~0.70勉强接受，0.70~0.80可以接受，高于0.80完全接受。
+信度系数评价标准：低于0.65不可接受，0.65-0.70勉强接受，0.70-0.80可以接受，高于0.80完全接受。
 
 效度（validity）是测量能够测出所测目标的程度。在测量中，效度甚至比信度更为重要——测量首先需要有效性，其次才是可信性的问题。四种常用效度：
 
@@ -1009,7 +1009,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 
 ---
 
-### 第10章 统计分析
+### 第10章 统计分析(不考)
 
 #### 章节内容
 
@@ -1056,7 +1056,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 
 ---
 
-### 第11章 研究报告的撰写
+### 第11章 研究报告的撰写(不考)
 
 #### 章节内容
 

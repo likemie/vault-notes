@@ -146,6 +146,8 @@ PROTECTED_FIELDS = [
     "authors",
     "editors",
     "publisher",
+    "publication_place",
+    "source_language",
     "part_of",
     "confidence",
     "status",
@@ -319,6 +321,29 @@ def chinese_author_part(citation: str, year: str) -> str:
     return f"{cjk_parts[0]}等"
 
 
+def normalized_source_language(value: Any) -> str:
+    language = str(value or "").strip().lower().replace("_", "-")
+    if language in {"zh", "zh-cn", "zh-hans", "chinese", "中文"}:
+        return "zh"
+    if language in {"en", "en-us", "en-gb", "english", "英文"}:
+        return "en"
+    return language
+
+
+def source_language_from_meta(data: Dict[str, Any]) -> str:
+    explicit = normalized_source_language(data.get("source_language"))
+    if explicit:
+        return explicit
+    citation = str(data.get("citation") or "").strip()
+    year = str(data.get("year") or "").strip()
+    return "zh" if chinese_author_part(citation, year) else "en"
+
+
+def creator_display(value: str) -> str:
+    parsed = wikilink_target_and_display(value)
+    return parsed[1] if parsed else re.sub(r"\s+", " ", value).strip()
+
+
 def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") -> List[str]:
     raw_authors = data.get("authors") or []
     authors = raw_authors if isinstance(raw_authors, list) else [raw_authors]
@@ -326,16 +351,16 @@ def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") 
     year = f"{str(data.get('year') or '').strip()}{suffix}"
     if not labels or not year:
         return []
-    if len(labels) == 1:
-        author = labels[0]
-    elif len(labels) == 2:
-        author = f"{labels[0]} & {labels[1]}"
-    else:
-        author = f"{labels[0]} et al."
-    parts = [author]
     chinese_part = chinese_author_part(str(data.get("citation") or ""), str(data.get("year") or "").strip())
-    if chinese_part:
-        parts.append(chinese_part)
+    if source_language_from_meta(data) == "zh" or chinese_part:
+        parts = [chinese_part] if chinese_part else []
+    else:
+        if len(labels) == 1:
+            parts = [labels[0]]
+        elif len(labels) == 2:
+            parts = [f"{labels[0]} & {labels[1]}"]
+        else:
+            parts = [f"{labels[0]} et al."]
     aliases: List[str] = []
     for part in dedupe(parts):
         aliases.extend([f"{part}, {year}", f"{part} ({year})"])
@@ -981,6 +1006,93 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                         issues.append(Issue("ERROR", rel(path), f"{field} items must be strings: {item!r}", line=frontmatter_line_number(fm, field), code=f"{field.upper()}_ITEM"))
                     elif typ == "argument":
                         check_argument_creator_apa_display(path, fm, field, item, issues)
+
+    if typ == "argument":
+        explicit_language = normalized_source_language(data.get("source_language"))
+        source_language = source_language_from_meta(data)
+        citation = str(data.get("citation") or "").strip()
+        year = str(data.get("year") or "").strip()
+
+        if data.get("source_language") not in (None, "") and explicit_language not in {"zh", "en"}:
+            issues.append(Issue(
+                "ERROR",
+                rel(path),
+                f"source_language must be zh or en: {data.get('source_language')!r}",
+                line=frontmatter_line_number(fm, "source_language"),
+                code="SOURCE_LANGUAGE_INVALID",
+            ))
+
+        if source_language == "zh":
+            if not explicit_language:
+                issues.append(Issue(
+                    "WARN",
+                    rel(path),
+                    "Chinese original publication should declare source_language: zh",
+                    line=frontmatter_line_number(fm, "citation"),
+                    code="SOURCE_LANGUAGE_MISSING",
+                ))
+            if not chinese_author_part(citation, year):
+                issues.append(Issue(
+                    "ERROR",
+                    rel(path),
+                    "Chinese original citation must begin with Chinese author name(s) followed by the year",
+                    line=frontmatter_line_number(fm, "citation"),
+                    code="CHINESE_CITATION_AUTHOR",
+                ))
+            for author in data.get("authors") or []:
+                display = creator_display(str(author))
+                if not (has_cjk(display) and re.search(r"[A-Za-z]", display)):
+                    issues.append(Issue(
+                        "ERROR",
+                        rel(path),
+                        f"Chinese original author display must be bilingual, e.g. 中文名（Surname, X.）: {author!r}",
+                        line=frontmatter_line_number(fm, "authors"),
+                        code="CHINESE_AUTHOR_BILINGUAL",
+                    ))
+            aliases = data.get("citation_aliases") or []
+            if isinstance(aliases, list):
+                for alias in aliases:
+                    if not has_cjk(str(alias)):
+                        issues.append(Issue(
+                            "ERROR",
+                            rel(path),
+                            f"Chinese original citation_aliases must be Chinese-only: {alias!r}",
+                            line=frontmatter_line_number(fm, "citation_aliases"),
+                            code="CHINESE_CITATION_ALIAS_LANGUAGE",
+                        ))
+
+        publication_type = str(data.get("publication_type") or "").strip()
+        if publication_type in {"book", "edited-volume", "book-chapter"}:
+            publisher = str(data.get("publisher") or "").strip()
+            publication_place = str(data.get("publication_place") or "").strip()
+            if not publication_place:
+                issues.append(Issue(
+                    "ERROR",
+                    rel(path),
+                    "book citation metadata must include publication_place",
+                    line=frontmatter_line_number(fm, "publisher"),
+                    code="BOOK_PUBLICATION_PLACE_MISSING",
+                ))
+            if not publisher:
+                issues.append(Issue(
+                    "ERROR",
+                    rel(path),
+                    "book citation metadata must include publisher",
+                    line=frontmatter_line_number(fm, "publisher"),
+                    code="BOOK_PUBLISHER_MISSING",
+                ))
+            if citation and publication_place and publisher:
+                place_publisher = re.compile(
+                    rf"{re.escape(publication_place)}\s*[:：]\s*{re.escape(publisher)}"
+                )
+                if not place_publisher.search(citation):
+                    issues.append(Issue(
+                        "ERROR",
+                        rel(path),
+                        f"book citation must place location before publisher: {publication_place}: {publisher}.",
+                        line=frontmatter_line_number(fm, "citation"),
+                        code="BOOK_CITATION_PLACE_PUBLISHER",
+                    ))
 
     # Argument entries should include authors field for AI-filled creator metadata.
     if typ == "argument" and "authors" not in data:

@@ -53,6 +53,9 @@ status: active
 - 新建 Concept / Theory / Method / Fact / Person 默认不写 YAML `sources`，也不写正文 `## 来源`。
 - Argument YAML `sources` 由脚本维护；正文 `## 来源` 只列 source record wikilink。
 - Argument 不使用 `aliases`；Concept / Theory / Method / Fact / Person 使用 `aliases` 作为检索和自动补链白名单。
+- Argument 使用 `source_language: en` 或 `source_language: zh` 标记原始出版语言。中文原始文献的 `authors` 使用中英双语显示，如 `[[Yajun Zheng|郑雅君（Zheng, Y.）]]`。
+- 中文原始文献的 `citation` 使用中文著录，`citation_aliases` 只生成中文作者年形式；不要同时生成英文作者年 alias。`citation_linker.py` 只按生成后的中文 alias 匹配该文献。
+- 著作、教材、论文集及论文集章节填写 `publication_place` 和 `publisher`；完整 citation 的出版项写作 `Place: Publisher.`，如 `北京: 高等教育出版社.`。
 - `related_*`、Argument YAML `sources`、source record 的 `extracted_to` 都是生成字段，不手动维护。
 - `part_of` 若引用条目，必须写成带引号的 wikilink。
 

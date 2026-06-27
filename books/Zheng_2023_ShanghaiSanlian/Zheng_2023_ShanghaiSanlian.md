@@ -1,5 +1,5 @@
 ---
-citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
+citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海: 上海三联书店.
 extracted_to:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 processed_date: 2026-05-09

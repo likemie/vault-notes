@@ -1,8 +1,10 @@
 ---
 authors:
-  - "张寒旭"
-  - "罗梦思"
-  - "韦文求"
+  - "张寒旭（Zhang, H.）"
+  - "罗梦思（Luo, M.）"
+  - "韦文求（Wei, W.）"
+  - "盘思桃（Pan, S.）"
+source_language: zh
 summary: "基于系统论思想构建科技创新双循环生态系统模型，以粤港澳大湾区为例分析创新资源配置的现实基础与问题，借鉴世界三大湾区经验，提出以广深港和广珠澳科技创新走廊为轴的国内循环系统和以一带一路为核心的国际循环系统建设路径"
 type: argument
 subtype: monograph
@@ -16,16 +18,15 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: '科技创新"双循环"生态系统：基于粤港澳大湾区的实践与探索'
+publication_place: "北京"
 publisher: "电子工业出版社"
 year: 2023
 doi: ""
 citation_aliases:
-  - "张寒旭 et al., 2023"
-  - "张寒旭 et al. (2023)"
   - "张寒旭等, 2023"
   - "张寒旭等 (2023)"
 isbn: "9787121464034"
-citation: '张寒旭, 罗梦思, 韦文求, 盘思桃. (2023). 科技创新"双循环"生态系统：基于粤港澳大湾区的实践与探索. 电子工业出版社.'
+citation: '张寒旭, 罗梦思, 韦文求, 盘思桃. (2023). 科技创新"双循环"生态系统：基于粤港澳大湾区的实践与探索. 北京: 电子工业出版社.'
 tags:
   - theme/innovation-ecosystem
   - theme/regional-development
@@ -484,5 +485,4 @@ updated: 2026-06-11
 ## 来源
 
 - [[Zhang_2023_PHEI]]
-
 

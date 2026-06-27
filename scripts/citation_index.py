@@ -45,6 +45,7 @@ class ArgumentCitation:
     doi: str
     isbn: str
     citation: str
+    source_language: str
     base_aliases: list[str]
     aliases: list[str]
 
@@ -70,6 +71,7 @@ class ArgumentCitation:
             "isbn": self.isbn,
             "authors": self.authors,
             "citation": self.citation,
+            "source_language": self.source_language,
             "title": self.title,
         }
 
@@ -227,6 +229,24 @@ def chinese_author_part(citation: str, year: str) -> str:
     return f"{cjk_parts[0]}等"
 
 
+def normalized_source_language(value: Any) -> str:
+    language = str(value or "").strip().lower().replace("_", "-")
+    if language in {"zh", "zh-cn", "zh-hans", "chinese", "中文"}:
+        return "zh"
+    if language in {"en", "en-us", "en-gb", "english", "英文"}:
+        return "en"
+    return language
+
+
+def source_language_for(meta: dict[str, Any]) -> str:
+    explicit = normalized_source_language(meta.get("source_language"))
+    if explicit:
+        return explicit
+    citation = str(meta.get("citation") or "").strip()
+    year = str(meta.get("year") or "").strip()
+    return "zh" if chinese_author_part(citation, year) else "en"
+
+
 def aliases_for_parts(parts: list[str], year: str) -> list[str]:
     if not parts or not year:
         return []
@@ -236,11 +256,13 @@ def aliases_for_parts(parts: list[str], year: str) -> list[str]:
     return dedupe(aliases)
 
 
-def aliases_for(authors: list[str], year: str, citation: str = "") -> list[str]:
-    parts = [author_part(authors)]
-    chinese_part = chinese_author_part(citation, re.sub(r"[a-z]$", "", year))
-    if chinese_part:
-        parts.append(chinese_part)
+def aliases_for(authors: list[str], year: str, citation: str = "", source_language: str = "") -> list[str]:
+    base_year = re.sub(r"[a-z]$", "", year)
+    chinese_part = chinese_author_part(citation, base_year)
+    if normalized_source_language(source_language) == "zh" or chinese_part:
+        parts = [chinese_part] if chinese_part else []
+    else:
+        parts = [author_part(authors)]
     parts = [p for p in dedupe(parts) if p]
     return aliases_for_parts(parts, year)
 
@@ -300,7 +322,9 @@ def load_arguments() -> tuple[list[ArgumentCitation], list[InheritedBookChapter]
             continue
         authors = list_value(meta.get("authors"))
         year = str(meta.get("year") or "").strip()
-        base = aliases_for(authors, year, str(meta.get("citation") or "").strip())
+        citation = str(meta.get("citation") or "").strip()
+        source_language = source_language_for(meta)
+        base = aliases_for(authors, year, citation, source_language)
         if not base:
             continue
         items.append(ArgumentCitation(
@@ -310,7 +334,8 @@ def load_arguments() -> tuple[list[ArgumentCitation], list[InheritedBookChapter]
             year=year,
             doi=str(meta.get("doi") or "").strip(),
             isbn=str(meta.get("isbn") or "").strip(),
-            citation=str(meta.get("citation") or "").strip(),
+            citation=citation,
+            source_language=source_language,
             base_aliases=base,
             aliases=base,
         ))
@@ -329,7 +354,7 @@ def assign_suffixes(items: list[ArgumentCitation]) -> None:
         for idx, item in enumerate(ordered):
             suffix = chr(ord("a") + idx)
             year = f"{item.year}{suffix}"
-            item.aliases = aliases_for(item.authors, year, item.citation)
+            item.aliases = aliases_for(item.authors, year, item.citation, item.source_language)
 
 
 def yaml_quote(value: str) -> str:

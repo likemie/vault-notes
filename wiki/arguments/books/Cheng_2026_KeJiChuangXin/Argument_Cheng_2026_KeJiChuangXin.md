@@ -1,8 +1,9 @@
 ---
 authors:
-  - 程楠
-  - 郭雯
-  - 曹方
+  - "程楠（Cheng, N.）"
+  - "郭雯（Guo, W.）"
+  - "曹方（Cao, F.）"
+source_language: zh
 summary: "本研究报告系统梳理了中国科技创新与产业创新深度融合的发展脉络、现状成效及面临的挑战，分析了提升科技供给、强化企业创新主体地位以及促进科技成果转化的关键路径。"
 type: argument
 subtype: monograph
@@ -16,8 +17,9 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 科技创新和产业创新融合：中国的发展路径与对策研究报告
+publication_place: 北京
 publisher: 人民邮电出版社
-citation: 程楠, 郭雯, 曹方. (2026). 科技创新和产业创新融合：中国的发展路径与对策研究报告. 人民邮电出版社.
+citation: 程楠, 郭雯, 曹方. (2026). 科技创新和产业创新融合：中国的发展路径与对策研究报告. 北京: 人民邮电出版社.
 tags:
   - theme/technology-innovation
   - theme/industrial-innovation
@@ -73,8 +75,6 @@ updated: 2026-06-08
 year: 2026
 doi: ""
 citation_aliases:
-  - "程楠 et al., 2026"
-  - "程楠 et al. (2026)"
   - "程楠等, 2026"
   - "程楠等 (2026)"
 ---

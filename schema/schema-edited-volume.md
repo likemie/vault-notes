@@ -50,7 +50,7 @@ wiki/arguments/books/<book-folder>/
   --book-folder <book-folder> \
   --record-name <book-folder> \
   --file books/<book-folder>/Preface.pdf \
-  --citation "Editor, E. E. (Ed.). (Year). Book title. Publisher."
+  --citation "Editor, E. E. (Ed.). (Year). Book title. Place: Publisher."
 ```
 
 没有前言 PDF 时省略 `--file`。
@@ -75,7 +75,7 @@ wiki/arguments/books/<book-folder>/
   --book-folder <book-folder> \
   --record-name Ch3_ChapterAuthor_Year \
   --file books/<book-folder>/Ch3_ChapterAuthor_Year.pdf \
-  --citation "ChapterAuthor, A. A. (Year). Chapter title. In Editor, E. E. (Ed.), Book title (pp. xx–xx). Publisher." \
+  --citation "ChapterAuthor, A. A. (Year). Chapter title. In Editor, E. E. (Ed.), Book title (pp. xx–xx). Place: Publisher." \
   --part-of "[[<book-folder>]]"
 ```
 
