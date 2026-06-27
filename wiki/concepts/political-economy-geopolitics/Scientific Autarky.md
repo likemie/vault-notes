@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
