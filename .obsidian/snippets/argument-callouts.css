@@ -3942,10 +3942,6 @@
    特性  : 竖轨 + 卡片分隔 + 节点脉冲动效 + 悬停滑入
    ═══════════════════════════════════════════════════════════ */
 
-@keyframes phase-node-pulse {
-  0%, 100% { box-shadow: 0 0 0 3px var(--background-primary), 0 0 0 5px rgba(155, 103, 44, 0.22); }
-  50%       { box-shadow: 0 0 0 3px var(--background-primary), 0 0 0 8px rgba(155, 103, 44, 0.06); }
-}
 
 .callout[data-callout="phase"] {
   --callout-color: 155, 103, 44;
@@ -3966,128 +3962,17 @@
 }
 
 /* ── 列表容器 + 竖轨 ── */
+/* ── 列表正常显示（不做胶囊卡片，phase 用于叙事段落）── */
 .callout[data-callout="phase"] > .callout-content > ul,
 .callout[data-callout="phase"] > .callout-content > ol {
-  counter-reset: phase-item;
-  list-style: none;
-  padding-left: 1.0rem;
-  margin: 0;
-  position: relative;
+  padding-left: 1.5rem;
+  margin: 0.35rem 0;
 }
 
-.callout[data-callout="phase"] > .callout-content > ul::before,
-.callout[data-callout="phase"] > .callout-content > ol::before {
-  content: "";
-  position: absolute;
-  left: 0.18rem;
-  top: 0.8rem;
-  bottom: 0.8rem;
-  width: 2px;
-  border-radius: 1px;
-  background: linear-gradient(to bottom,
-    rgba(155, 103, 44, 0.50),
-    rgba(155, 103, 44, 0.08)
-  );
-}
-
-/* ── 阶段卡片：flex 布局，badge 和标题同行 ── */
 .callout[data-callout="phase"] > .callout-content > ul > li,
 .callout[data-callout="phase"] > .callout-content > ol > li {
-  counter-increment: phase-item;
-  position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  background: rgba(155, 103, 44, 0.05);
-  border: 1px solid rgba(155, 103, 44, 0.14);
-  border-radius: 7px;
-  padding: 0.60rem 3.2rem 0.65rem 0.85rem;
-  margin-bottom: 0.55rem;
+  margin-bottom: 0.20rem;
   line-height: 1.70;
-  transition: background 0.20s ease, border-color 0.20s ease, transform 0.20s ease;
-}
-
-.callout[data-callout="phase"] > .callout-content > ul > li:last-child,
-.callout[data-callout="phase"] > .callout-content > ol > li:last-child {
-  margin-bottom: 0;
-}
-
-.callout[data-callout="phase"] > .callout-content > ul > li:hover,
-.callout[data-callout="phase"] > .callout-content > ol > li:hover {
-  background: rgba(155, 103, 44, 0.09);
-  border-color: rgba(155, 103, 44, 0.28);
-  transform: translateX(3px);
-}
-
-.callout[data-callout="phase"] > .callout-content > ul > li .list-bullet,
-.callout[data-callout="phase"] > .callout-content > ol > li .list-bullet {
-  display: none !important;
-}
-
-/* ── "Phase N" 胶囊：flex item 1，与标题同行 ── */
-.callout[data-callout="phase"] > .callout-content > ul > li::before,
-.callout[data-callout="phase"] > .callout-content > ol > li::before {
-  content: "Phase " counter(phase-item);
-  flex: 0 0 auto;
-  align-self: center;
-  margin-right: 0.58rem;
-  padding: 0.10rem 0.52rem;
-  border-radius: 4px;
-  background: rgba(155, 103, 44, 0.16);
-  color: rgb(125, 74, 12);
-  font-size: 0.59em;
-  font-weight: 800;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  white-space: nowrap;
-  animation: phase-node-pulse 3.2s ease-in-out infinite;
-}
-
-.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(2)::before,
-.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(2)::before { animation-delay: 0.8s; }
-.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(3)::before,
-.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(3)::before { animation-delay: 1.6s; }
-.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(4)::before,
-.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(4)::before { animation-delay: 2.4s; }
-.callout[data-callout="phase"] > .callout-content > ul > li:nth-child(5)::before,
-.callout[data-callout="phase"] > .callout-content > ol > li:nth-child(5)::before { animation-delay: 3.2s; }
-
-/* ── 标题段落：flex item 2，占满剩余宽度 ── */
-.callout[data-callout="phase"] > .callout-content > ul > li > p:first-of-type,
-.callout[data-callout="phase"] > .callout-content > ol > li > p:first-of-type {
-  flex: 1 1 auto;
-  margin: 0;
-  font-weight: 700;
-  color: rgb(172, 115, 35);
-  line-height: 1.5;
-}
-
-/* ── body 段落：强制换行，全宽，加分隔线 ── */
-.callout[data-callout="phase"] > .callout-content > ul > li > p:not(:first-of-type),
-.callout[data-callout="phase"] > .callout-content > ol > li > p:not(:first-of-type) {
-  flex: 0 0 100%;
-  margin: 0.40rem 0 0;
-  padding-top: 0.38rem;
-  border-top: 1px solid rgba(155, 103, 44, 0.12);
-  font-weight: normal;
-  color: var(--text-normal);
-  line-height: 1.72;
-}
-
-/* ── 右侧大号装饰数字 ── */
-.callout[data-callout="phase"] > .callout-content > ul > li::after,
-.callout[data-callout="phase"] > .callout-content > ol > li::after {
-  content: "0" counter(phase-item);
-  position: absolute;
-  top: 0.30rem;
-  right: 0.75rem;
-  font-size: 1.50em;
-  font-weight: 900;
-  color: rgba(155, 103, 44, 0.14);
-  letter-spacing: -0.03em;
-  line-height: 1;
-  font-family: var(--font-monospace);
-  pointer-events: none;
 }
 
 .callout[data-callout="phase"] > .callout-content > *:last-child { margin-bottom: 0; }
@@ -4099,44 +3984,6 @@
   border-left-color: rgba(155, 103, 44, 0.65);
 }
 
-.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li,
-.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li {
-  background: rgba(155, 103, 44, 0.08);
-  border-color: rgba(155, 103, 44, 0.20);
-}
-
-.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li:hover,
-.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li:hover {
-  background: rgba(155, 103, 44, 0.14);
-  border-color: rgba(155, 103, 44, 0.35);
-}
-
-.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li::before,
-.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li::before {
-  background: rgba(205, 148, 62, 0.15);
-  border-bottom-color: rgba(205, 148, 62, 0.22);
-  color: rgb(215, 162, 75);
-}
-
-.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li::after,
-.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li::after {
-  color: rgba(205, 148, 62, 0.22);
-}
-
-.theme-dark .callout[data-callout="phase"] .callout-content li > strong:first-of-type,
-.theme-dark .callout[data-callout="phase"] .callout-content li > p:first-of-type > strong:first-of-type {
-  color: rgb(220, 165, 75);
-}
-
-@keyframes phase-node-pulse-dark {
-  0%, 100% { background: rgba(205, 148, 62, 0.20); }
-  50%       { background: rgba(205, 148, 62, 0.34); }
-}
-
-.theme-dark .callout[data-callout="phase"] > .callout-content > ul > li::before,
-.theme-dark .callout[data-callout="phase"] > .callout-content > ol > li::before {
-  animation-name: phase-node-pulse-dark;
-}
 
 /* ─── quad-grid（四格网格卡片）─────────────────────────── */
 .callout[data-callout="quad-grid"] {
