@@ -674,6 +674,16 @@ def strip_code_blocks(text: str) -> str:
     return re.sub(r"```.*?```", "", text, flags=re.DOTALL)
 
 
+def mask_markdown_code(text: str) -> str:
+    """Mask fenced and inline code while preserving offsets and line numbers."""
+
+    def mask(m: re.Match[str]) -> str:
+        return re.sub(r"[^\n]", " ", m.group(0))
+
+    text = re.sub(r"```.*?```", mask, text, flags=re.DOTALL)
+    return re.sub(r"`[^`\n]*`", mask, text)
+
+
 def line_of_pos(text: str, pos: int, offset: int = 1) -> int:
     return text[:pos].count("\n") + offset
 
@@ -1340,6 +1350,40 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
         line = text[line_start: line_end if line_end != -1 else len(text)]
         if "<" in line and ">" in line:
             issues.append(Issue("WARN", rel(path), f"HTML hex color found; prefer rgb(...): {m.group(0)}", line=line_of_pos(text, m.start()), code="HTML_HEX_COLOR"))
+
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
+        return
+
+    _, body, body_start_line = split_frontmatter(text)
+    scan = mask_markdown_code(body)
+
+    for m in re.finditer(r"\*\*([^*\n]+?)\*\*\s*[：:]", scan):
+        title = m.group(1).strip()
+        issues.append(
+            Issue(
+                "ERROR",
+                rel(path),
+                f"bold heading must not be followed by a colon: **{title}**",
+                line=line_of_pos(scan, m.start(), body_start_line),
+                code="BOLD_HEADING_COLON",
+            )
+        )
+
+    for m in re.finditer(
+        r"\*\*([^*\n]*[\u3400-\u9fff][^*\n]*)\*\*\s*([（(][^）)\n]*[A-Za-z][^）)\n]*[）)])",
+        scan,
+    ):
+        chinese = m.group(1).strip()
+        annotation = m.group(2)
+        issues.append(
+            Issue(
+                "ERROR",
+                rel(path),
+                f"English annotation belongs inside the bold heading: **{chinese}{annotation}**",
+                line=line_of_pos(scan, m.start(), body_start_line),
+                code="BOLD_HEADING_ENGLISH_OUTSIDE",
+            )
+        )
 
 
 def check_templater_placeholders(path: Path, text: str, issues: List[Issue]) -> None:

@@ -50,6 +50,10 @@ TABLE_UNSAFE_CELL_RE = re.compile(
     r"`|\$|\[\[|\]\]|!?\[[^\]]*\]\([^)]*\)|https?://|doi:\s*\S+|10\.\d{4,9}/\S+|<[^>]+>",
     re.IGNORECASE,
 )
+BOLD_HEADING_COLON_RE = re.compile(r"(\*\*[^*\n]+?\*\*)[ \t]*[：:][ \t]*")
+BOLD_HEADING_ENGLISH_OUTSIDE_RE = re.compile(
+    r"\*\*([^*\n]*[\u3400-\u9fff][^*\n]*)\*\*[ \t]*([（(][^）)\n]*[A-Za-z][^）)\n]*[）)])"
+)
 
 
 def count_unescaped_pipes(line: str) -> int:
@@ -202,6 +206,7 @@ class LinkStats:
     links_added: int = 0
     links_removed: int = 0
     table_pipes_escaped: int = 0
+    heading_styles_normalized: int = 0
 
 
 def load_entries() -> list[Entry]:
@@ -520,6 +525,9 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     # These render as code in Obsidian and must not be linked line-by-line.
     for m in re.finditer(r"(?ms)^>\s*```.*?^>\s*```\s*", text):
         add(m.start(), m.end())
+    # Inline code.
+    for m in re.finditer(r"`[^`\n]*`", text):
+        add(m.start(), m.end())
 
     # Citation-like spans are reserved for citation_linker.py. This prevents
     # ordinary Person linking from breaking author-year citations before the
@@ -581,6 +589,32 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     if cursor < len(text):
         chunks.append((False, text[cursor:]))
     return chunks
+
+
+def normalize_bold_heading_style(text: str) -> tuple[str, int]:
+    """Normalize bold heading punctuation without touching protected Markdown."""
+    out: list[str] = []
+    changes = 0
+
+    for protected, chunk in split_protected_spans(text):
+        if protected:
+            out.append(chunk)
+            continue
+
+        chunk, annotation_count = BOLD_HEADING_ENGLISH_OUTSIDE_RE.subn(
+            lambda m: f"**{m.group(1).strip()}{m.group(2)}**",
+            chunk,
+        )
+
+        def remove_colon(m: re.Match[str]) -> str:
+            next_char = chunk[m.end() : m.end() + 1]
+            return m.group(1) + (" " if next_char and next_char != "\n" else "")
+
+        chunk, colon_count = BOLD_HEADING_COLON_RE.subn(remove_colon, chunk)
+        changes += annotation_count + colon_count
+        out.append(chunk)
+
+    return "".join(out), changes
 
 
 def current_file_title(path: Path, path_to_title: dict[str, str]) -> str:
@@ -1180,7 +1214,7 @@ def sync_file(
     author_map: dict[str, str],
     dry_run: bool,
     tables_only: bool = False,
-) -> tuple[bool, int, int, int]:
+) -> tuple[bool, int, int, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
     fm, body = split_frontmatter(original)
     current_title = current_file_title(path, path_to_title)
@@ -1188,6 +1222,7 @@ def sync_file(
     if tables_only:
         linked_fm = fm
         linked_body, table_pipes_escaped = normalize_table_wikilink_pipes_in_text(body)
+        heading_styles_normalized = 0
         added = 0
         removed = 0
     else:
@@ -1199,12 +1234,13 @@ def sync_file(
         # never write table rows with raw wikilink alias pipes.
         linked_body, final_table_pipes = normalize_table_wikilink_pipes_in_text(linked_body)
         table_pipes_escaped = cleaned_table_pipes + final_table_pipes
+        linked_body, heading_styles_normalized = normalize_bold_heading_style(linked_body)
     updated = linked_fm + linked_body
 
     changed = updated != original
     if changed and not dry_run:
         path.write_text(updated, encoding="utf-8")
-    return changed, added, removed, table_pipes_escaped
+    return changed, added, removed, table_pipes_escaped, heading_styles_normalized
 
 
 def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables_only: bool) -> None:
@@ -1230,7 +1266,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
     stats = LinkStats()
     for path in files:
-        changed, added, removed, table_pipes_escaped = sync_file(
+        changed, added, removed, table_pipes_escaped, heading_styles_normalized = sync_file(
             path,
             terms,
             source_pattern,
@@ -1245,8 +1281,13 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
             stats.links_added += added
             stats.links_removed += removed
             stats.table_pipes_escaped += table_pipes_escaped
+            stats.heading_styles_normalized += heading_styles_normalized
             action = "Would update" if dry_run else "Updated"
-            print(f"{action}: {path.relative_to(ROOT)} (+{added}, -{removed}, table pipes {table_pipes_escaped})")
+            print(
+                f"{action}: {path.relative_to(ROOT)} "
+                f"(+{added}, -{removed}, table pipes {table_pipes_escaped}, "
+                f"heading styles {heading_styles_normalized})"
+            )
 
     print("Done.")
     print(f"Files scanned: {len(files)}")
@@ -1254,6 +1295,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     print(f"Links added: {stats.links_added}")
     print(f"Links removed: {stats.links_removed}")
     print(f"Table pipes escaped: {stats.table_pipes_escaped}")
+    print(f"Heading styles normalized: {stats.heading_styles_normalized}")
 
 
 def build_parser() -> argparse.ArgumentParser:

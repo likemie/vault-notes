@@ -136,6 +136,9 @@ wiki/
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
 
+- 正文中的加粗小标题后不加中文或英文冒号：写 `**标题** 内容`，不要写 `**标题**：内容` 或 `**标题**: 内容`。
+- 加粗小标题如带英文注释，英文必须放进同一组粗体标记：写 `**中文（English）**`，不要写 `**中文**（English）`。
+
 期刊论文 Argument 的二级归档规则：
 
 - 目标路径为 `wiki/arguments/journal-articles/<journal-name>/Argument_<Author>_<Year>_<JournalAbbrev>.md`。
