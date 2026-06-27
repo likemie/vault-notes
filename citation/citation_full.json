@@ -5201,42 +5201,6 @@
       "title": "Argument_Yan_2025_JCS",
       "year": "2025"
     },
-    "Yu & Xie (2025)": {
-      "aliases": [
-        "Yu & Xie, 2025",
-        "Yu & Xie (2025)"
-      ],
-      "argument": "Argument_Yu_Xie_2025_JHE",
-      "authors": [
-        "[[余婧然|Yu, J.]]",
-        "[[谢爱磊|Xie, A.]]"
-      ],
-      "citation": "Yu, J., & Xie, A. (2025). Space, power, and higher education: Research on higher education from the geopolitical perspective. Journal of Higher Education, (11), 33–48.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
-      "source_language": "en",
-      "title": "Argument_Yu_Xie_2025_JHE",
-      "year": "2025"
-    },
-    "Yu & Xie, 2025": {
-      "aliases": [
-        "Yu & Xie, 2025",
-        "Yu & Xie (2025)"
-      ],
-      "argument": "Argument_Yu_Xie_2025_JHE",
-      "authors": [
-        "[[余婧然|Yu, J.]]",
-        "[[谢爱磊|Xie, A.]]"
-      ],
-      "citation": "Yu, J., & Xie, A. (2025). Space, power, and higher education: Research on higher education from the geopolitical perspective. Journal of Higher Education, (11), 33–48.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
-      "source_language": "en",
-      "title": "Argument_Yu_Xie_2025_JHE",
-      "year": "2025"
-    },
     "Yu & Zhao (2024)": {
       "aliases": [
         "Yu & Zhao, 2024",
@@ -5444,6 +5408,42 @@
       "source_language": "en",
       "title": "Argument_Zhou_2024_CE",
       "year": "2024"
+    },
+    "余婧然和谢爱磊 (2025)": {
+      "aliases": [
+        "余婧然和谢爱磊, 2025",
+        "余婧然和谢爱磊 (2025)"
+      ],
+      "argument": "Argument_Yu_Xie_2025_JHE",
+      "authors": [
+        "余婧然（Yu, J.）",
+        "谢爱磊（Xie, A.）"
+      ],
+      "citation": "余婧然, 谢爱磊. (2025). 空间、权力与高等教育：地缘政治视角下的高等教育研究. 高等教育研究, (11), 33–48.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+      "source_language": "zh",
+      "title": "Argument_Yu_Xie_2025_JHE",
+      "year": "2025"
+    },
+    "余婧然和谢爱磊, 2025": {
+      "aliases": [
+        "余婧然和谢爱磊, 2025",
+        "余婧然和谢爱磊 (2025)"
+      ],
+      "argument": "Argument_Yu_Xie_2025_JHE",
+      "authors": [
+        "余婧然（Yu, J.）",
+        "谢爱磊（Xie, A.）"
+      ],
+      "citation": "余婧然, 谢爱磊. (2025). 空间、权力与高等教育：地缘政治视角下的高等教育研究. 高等教育研究, (11), 33–48.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+      "source_language": "zh",
+      "title": "Argument_Yu_Xie_2025_JHE",
+      "year": "2025"
     },
     "张寒旭等 (2023)": {
       "aliases": [

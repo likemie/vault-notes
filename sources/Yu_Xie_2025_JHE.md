@@ -1,5 +1,5 @@
 ---
-citation: "Yu, J., & Xie, A. (2025). Space, power, and higher education: Research on higher education from the geopolitical perspective. Journal of Higher Education, (11), 33–48."
+citation: "余婧然, 谢爱磊. (2025). 空间、权力与高等教育：地缘政治视角下的高等教育研究. 高等教育研究, (11), 33–48."
 extracted_to: []
 processed_date: 2026-06-26
 ---

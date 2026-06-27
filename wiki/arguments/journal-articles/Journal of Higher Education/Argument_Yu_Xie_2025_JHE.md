@@ -2,14 +2,15 @@
 summary: "梳理高等教育研究地缘政治视角从相对不可见到自觉的发展脉络，围绕人的培养、知识生产、学术流动与跨境合作四项议题，揭示传统地缘政治与新地缘政治两种范式在本体论上的分化与互补，主张高等教育应作为空间实践者积极参与世界空间秩序建构"
 type: argument
 authors:
-  - "[[余婧然|Yu, J.]]"
-  - "[[谢爱磊|Xie, A.]]"
-citation: "Yu, J., & Xie, A. (2025). Space, power, and higher education: Research on higher education from the geopolitical perspective. Journal of Higher Education, (11), 33–48."
+  - "余婧然（Yu, J.）"
+  - "谢爱磊（Xie, A.）"
+source_language: zh
+citation: "余婧然, 谢爱磊. (2025). 空间、权力与高等教育：地缘政治视角下的高等教育研究. 高等教育研究, (11), 33–48."
 year: 2025
 doi: ""
 citation_aliases:
-  - "Yu & Xie, 2025"
-  - "Yu & Xie (2025)"
+  - "余婧然和谢爱磊, 2025"
+  - "余婧然和谢爱磊 (2025)"
 isbn: ""
 tags:
   - theme/geopolitics
@@ -31,16 +32,13 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
-argument_display_title: "Space, power, and higher education: Research on higher education from the geopolitical perspective"
+argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
 argument_related_count: 0
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: "高等教育研究"
----
-![[Pasted image 20260627161251.png]]# Argument_Yu_Xie_2025_JHE
-
 ---
 
 ## 研究问题
