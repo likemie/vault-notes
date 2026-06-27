@@ -3965,8 +3965,8 @@
    ═══════════════════════════════════════════════════════════ */
 
 @keyframes phase-node-pulse {
-  0%, 100% { box-shadow: 0 0 0 3px var(--background-primary), 0 0 0 5px rgba(155, 103, 44, 0.22); }
-  50%       { box-shadow: 0 0 0 3px var(--background-primary), 0 0 0 8px rgba(155, 103, 44, 0.06); }
+  0%, 100% { box-shadow: 0 0 0 2px rgba(155, 103, 44, 0.30), 0 0 0 4px rgba(155, 103, 44, 0.12); }
+  50%       { box-shadow: 0 0 0 2px rgba(155, 103, 44, 0.15), 0 0 0 6px rgba(155, 103, 44, 0.04); }
 }
 
 .callout[data-callout="phase"] {
@@ -4093,13 +4093,13 @@
   line-height: 1.72;
 }
 
-/* ── 嵌套列表：block，缩进 ── */
+/* ── 嵌套列表：缩进一个汉字 ── */
 .callout[data-callout="phase"] > .callout-content > ul > li > ul,
 .callout[data-callout="phase"] > .callout-content > ul > li > ol,
 .callout[data-callout="phase"] > .callout-content > ol > li > ul,
 .callout[data-callout="phase"] > .callout-content > ol > li > ol {
   margin: 0.40rem 0 0;
-  padding-left: 1.2rem;
+  padding-left: 1em;
 }
 
 /* ── 右侧大号装饰数字 ── */
