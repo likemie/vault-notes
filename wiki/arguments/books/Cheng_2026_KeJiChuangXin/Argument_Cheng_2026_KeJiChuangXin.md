@@ -19,7 +19,7 @@ argument_related_color: "#ede9fe"
 book_title: 科技创新和产业创新融合：中国的发展路径与对策研究报告
 publication_place: 北京
 publisher: 人民邮电出版社
-citation: 程楠, 郭雯, 曹方. (2026). 科技创新和产业创新融合：中国的发展路径与对策研究报告. 北京: 人民邮电出版社.
+citation: "程楠, 郭雯, 曹方. (2026). 科技创新和产业创新融合：中国的发展路径与对策研究报告. 北京: 人民邮电出版社."
 tags:
   - theme/technology-innovation
   - theme/industrial-innovation
