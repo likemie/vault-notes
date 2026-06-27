@@ -2879,12 +2879,28 @@
 .callout[data-callout="finding-cards"] .callout-content > ul > li {
   grid-column: span 3;
   counter-increment: finding;
+  /* 内部 grid：序号列（固定）+ 内容列（自动填充） */
+  display: grid;
+  grid-template-columns: 1.55rem 1fr;
+  column-gap: 0.45rem;
+  align-items: start;
   margin: 0;
   padding: 0.9rem 1rem;
   border: 1px solid rgba(192, 108, 56, 0.18);
   border-radius: 9px;
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(192, 108, 56) 12%);
   line-height: 1.65;
+}
+
+/* 所有段落强制放到第 2 列（序号圆圈在第 1 列） */
+.callout[data-callout="finding-cards"] .callout-content > ol > li > p,
+.callout[data-callout="finding-cards"] .callout-content > ul > li > p {
+  grid-column: 2;
+  margin: 0;
+}
+.callout[data-callout="finding-cards"] .callout-content > ol > li > p + p,
+.callout[data-callout="finding-cards"] .callout-content > ul > li > p + p {
+  margin-top: 0.30rem;
 }
 
 /* ── 1 item: full width ── */
@@ -2916,11 +2932,13 @@
 .callout[data-callout="finding-cards"] .callout-content > ol > li::before,
 .callout[data-callout="finding-cards"] .callout-content > ul > li::before {
   content: counter(finding);
-  display: inline-grid;
+  grid-column: 1;
+  grid-row: 1;
+  display: grid;
   place-items: center;
   width: 1.35rem;
   height: 1.35rem;
-  margin-right: 0.45rem;
+  margin-top: 0.15rem; /* 与第一行文字基线对齐 */
   border-radius: 999px;
   background: rgba(192, 108, 56, 0.2);
   color: rgb(155, 82, 32);
