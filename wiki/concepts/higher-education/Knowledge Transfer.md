@@ -51,6 +51,7 @@ related_facts:
   - "[[Thousand Talents Program]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
 confidence: medium
 status: draft
@@ -128,7 +129,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 欧洲学术专利中 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7% 的学术专利——说明知识在学术生产后即发生所有权转移，模式因国家制度环境而异([[Argument_Partaken_2022_Springer|Partaken, 2022, p.71]]; Lissoni, 2012)
-> - Glitz & Meyersson (2020) 对东德国家支持的经济间谍的大规模研究证明，间谍活动有效缩小了东德与西德之间的工业技术差距([[Argument_Partaken_2022_Springer|Partaken, 2022, p.77]])
+> - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，间谍活动有效缩小了东德与西德之间的工业技术差距([[Argument_Partaken_2022_Springer|Partaken, 2022, p.77]])
 > - 中国已成为最大的网络攻击来源国：约 27% 的网络攻击直接来自中国，计入重定向攻击可达 41%（Baig, 2017; 引自 Partaken, 2022, p.83）
 
 ---
