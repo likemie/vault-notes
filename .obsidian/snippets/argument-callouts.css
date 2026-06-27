@@ -2893,12 +2893,23 @@
   line-height: 1.65;
 }
 
-/* 所有段落强制放到第 2 列（序号圆圈在第 1 列） */
+/* 隐藏 Obsidian 注入的 list-bullet span，避免占用内容列 */
+.callout[data-callout="finding-cards"] .callout-content > ol > li > .list-bullet,
+.callout[data-callout="finding-cards"] .callout-content > ul > li > .list-bullet {
+  display: none;
+}
+
+/* 所有直接子元素（p / ul / 匿名块）强制放第 2 列，min-width:0 防止 CJK 撑列 */
+.callout[data-callout="finding-cards"] .callout-content > ol > li > *,
+.callout[data-callout="finding-cards"] .callout-content > ul > li > * {
+  grid-column: 2;
+  min-width: 0;
+}
+
+/* p 的间距 */
 .callout[data-callout="finding-cards"] .callout-content > ol > li > p,
 .callout[data-callout="finding-cards"] .callout-content > ul > li > p {
-  grid-column: 2;
   margin: 0;
-  min-width: 0; /* 防止 CJK 长文本把 1fr 列撑成字符宽 */
 }
 .callout[data-callout="finding-cards"] .callout-content > ol > li > p + p,
 .callout[data-callout="finding-cards"] .callout-content > ul > li > p + p {
