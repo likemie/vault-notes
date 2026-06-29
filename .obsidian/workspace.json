@@ -37,7 +37,8 @@
               "title": "Classical Geopolitics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +206,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "15002ac7785f04db",
   "lastOpenFiles": [
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
     "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
     "wiki/concepts/political-economy-geopolitics/Space Production.md",
@@ -215,7 +217,6 @@
     "Epistemic Coloniality.md",
     "wiki/concepts/political-economy-geopolitics/Space Production in Higher Education.md",
     "wiki/concepts/political-economy-geopolitics/New Geopolitics.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/facts/europe/Bologna Process.md",
     "wiki/facts/usa/Fulbright Program.md",
     "wiki/facts/usa",
