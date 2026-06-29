@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-argument.md",
+                "file": "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-argument"
+              "title": "Critical Geopolitics"
             }
           }
         ],
@@ -208,19 +208,20 @@
   },
   "active": "2417d331a7057eac",
   "lastOpenFiles": [
+    "wiki/templates/template-theory.md",
+    "wiki/templates/TEMPLATE-SPEC.md",
+    "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
+    "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+    "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
+    "wiki/templates/template-method.md",
+    "wiki/templates/template-argument-textbook.md",
+    "wiki/templates/template-argument-monograph.md",
+    "wiki/templates/template-argument-edited-volume.md",
+    "wiki/templates/template-argument.md",
     "wiki/templates/template-concept.md",
     "wiki/templates/template-person.md",
-    "wiki/templates/template-theory.md",
     "wiki/templates/template-fact-policy.md",
-    "wiki/templates/template-method.md",
-    "wiki/templates/template-argument.md",
-    "wiki/templates/template-argument-edited-volume.md",
-    "wiki/templates/template-argument-monograph.md",
-    "wiki/templates/template-argument-textbook.md",
-    "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
-    "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
     "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
-    "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
     "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
     "wiki/concepts/political-economy-geopolitics/Space Production.md",
@@ -235,7 +236,6 @@
     "wiki/concepts/political-economy-geopolitics/Knowledge Diplomacy.md",
     "wiki/concepts/political-economy-geopolitics/Soft Power.md",
     "CLAUDE.md",
-    "books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods.md",
     "scripts/__pycache__/citation_index.cpython-313.pyc",
     "sources/Yu_Xie_2025_JHE.pdf",
     "wiki/arguments/journal-articles/Journal of Higher Education",
