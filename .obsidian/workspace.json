@@ -37,8 +37,7 @@
               "title": "Classical Geopolitics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "15002ac7785f04db",
+  "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
     "wiki/concepts/political-economy-geopolitics/Space Production.md",
     "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
     "Pasted image 20260627161251.png",
@@ -235,7 +235,6 @@
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch13_Thompson_2022.md",
     "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md",
     "scripts/__pycache__/citation_index.cpython-313.pyc",
     "sources/Yu_Xie_2025_JHE.pdf",
     "wiki/arguments/journal-articles/Journal of Higher Education",
