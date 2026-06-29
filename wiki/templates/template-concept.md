@@ -59,9 +59,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 可综合使用 [!feature]、[!logic-map]、[!taxonomy]、[!frames-ref]、[!ref-table]、[!entry-map] 等。 %%
 
 > [!feature] 核心要素
-> - **<要素名称>**：说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **<要素名称>**：说明该要素与其他要素的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **<要素名称>**：说明该要素的边界、条件或典型表现。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<要素名称>** 说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<要素名称>** 说明该要素与其他要素的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **<要素名称>** 说明该要素的边界、条件或典型表现。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -83,7 +83,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题类型一：<类型名称>（<English Name>）
+### 命题类型一　<类型名称>（<English Name>）
 
 %% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称，例如"课程内容选择的教化正当性"。 %%
 > [!concept-lens] <命题类型归纳标题>
@@ -100,7 +100,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题类型二：<类型名称>（<English Name>）
+### 命题类型二　<类型名称>（<English Name>）
 
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
 %% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称。 %%
@@ -128,9 +128,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **YYYY — 起源阶段**：提出关键问题、概念或理论命题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **YYYY–YYYY — 扩展阶段**：概念内涵或适用范围发生重要变化，或被引入新领域。
-> - **YYYY — 教育研究应用**：说明该概念如何进入教育研究或政策讨论。
+> - **YYYY — 起源阶段** 提出关键问题、概念或理论命题。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **YYYY–YYYY — 扩展阶段** 概念内涵或适用范围发生重要变化，或被引入新领域。
+> - **YYYY — 教育研究应用** 说明该概念如何进入教育研究或政策讨论。
 
 ---
 
@@ -156,7 +156,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > >
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-%% 若争论恰好是两方正面对立（二元范式冲突），改用 [!tension]：%%
+%% 若争论恰好是两方正面对立（二元范式冲突），改用 [!tension]。 %%
 
 > [!tension] 核心张力（仅两方正面对立时使用）
 > - **<立场描述>（蓝方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]

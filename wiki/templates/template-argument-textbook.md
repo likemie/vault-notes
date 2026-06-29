@@ -54,7 +54,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 #### 概念地图
 
-> [!knowledge-map]- 第X章：概念地图
+> [!knowledge-map]- 第X章　概念地图
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Concept_Map.jpg)
 
 #### 章节内容
@@ -64,11 +64,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 本章首先说明……
 
 > [!abstract] 核心结构
-> - **知识点一**：说明教材如何引入、定义或区分它。
-> - **知识点二**：说明它与上一知识点的关系。
-> - **知识点三**：说明它如何转化为方法、案例或练习。
+> - **知识点一** 说明教材如何引入、定义或区分它。
+> - **知识点二** 说明它与上一知识点的关系。
+> - **知识点三** 说明它如何转化为方法、案例或练习。
 
-> [!example]- 图X-X：图名或案例名
+> [!example]- 图X-X　图名或案例名
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
 
 %% <book-folder> 与 sources/ 下的教材文件夹名一致。案例或练习无图时，删除图片行，改为说明文字或链接到对应条目。 %%

@@ -183,15 +183,12 @@ updated: 2026-06-30
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 将批判地缘政治作为核心透镜，分析亚洲崛起对全球高等教育架构的重塑
-> - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 整合批判地缘政治与[[Knowledge-Based Economization|知识经济化]]分析
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为新知识地缘政治分析框架
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 将批判地缘政治定位为[[New Geopolitics|新地缘政治]]范式的代表，系统梳理其在高等教育研究中的应用
-> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 将批判地缘政治延伸至[[Corporate Education|企业教育]]跨国化分析
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]整合为新知识地缘政治框架
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进
 
-> [!exegesis]- 各研究的核心发现
-> - **Rizvi (2022)** 论证古典地缘政治只能看到国家间权力斗争，看不到跨国社会想象、网络化关系和全球教育市场中意识形态与文化的多重维度。亚洲中产家庭的教育消费选择在大规模上改变了全球学生流动的方向和动力。
-> - **Moisio (2022)** 揭示[[Fixity-Motion Tension|固着-流动张力]]（Harvey 核心悖论：资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）、[[Spatial Sortings|空间分选]]（知识经济化将某些地点和人群置于中心同时边缘化其他）、[[Geopolitical Subject|地缘政治主体]]生产，以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
-> - **Parreira do Amaral (2022)** 两条理论脉络的分工：批判地缘政治关注知识如何通过话语和制度被建构为权力资源，去殖民知识地缘政治追问知识生产中的种族和殖民维度。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022)]]
-> - **余婧然和谢爱磊 (2025)** 梳理批判地缘政治在高等教育四项核心议题（人的培养、知识生产、学术流动、跨境合作）中的应用与演进。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025)]]
-> - **Hartmann (2022)** Luttwak (1990) 提出"地缘经济"概念——国家通过经济竞争而非军事征服争夺市场份额；Moisio (2018) 论证两者边界正在模糊。Hartmann 在企业教育领域验证：多数企业教育提供商总部位于美国（全球前十高科技上市公司中八家位于美国），美国 LME 制度环境赋予美国公司先发优势。但他坦承无法确定因果关系——是美国政府利用跨国公司强化地缘政治地位，还是美国公司利用美国政府扩大市场份额？这种"谁在利用谁"的模糊性本身即是批判地缘政治核心主张的经验印证（pp. 193–196）。
+> [!exegesis]- Moisio (2022)：知识经济化的地缘政治机制
+> [[Fixity-Motion Tension|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性政策中介）；[[Geopolitical Subject|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
+
+> [!exegesis]- Hartmann (2022)：地缘政治与地缘经济边界的模糊
+> Luttwak (1990) 提出"地缘经济"概念——国家通过经济竞争而非军事征服争夺市场份额；Moisio (2018) 论证两者边界正在模糊。多数企业教育提供商总部位于美国（全球前十高科技上市公司中八家位于美国），美国 LME 制度环境赋予美国公司先发优势。Hartmann 坦承无法确定因果关系——是美国政府利用跨国公司强化地缘政治地位，还是美国公司利用美国政府扩大市场份额？这种"谁在利用谁"的模糊性本身即是批判地缘政治核心主张的经验印证（pp. 193–196）。
