@@ -7,10 +7,10 @@ aliases:
 summary: "Randall Collins 提出的概念，指学历数量扩张导致文凭在劳动力市场中的区分效力下降，用于分析教育扩张、职业筛选和地位竞争。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - credential-inflation
 - higher-education

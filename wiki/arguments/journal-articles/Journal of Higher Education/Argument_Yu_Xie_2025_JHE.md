@@ -26,9 +26,10 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
   - "[[Infrastructures of (Im)mobility]]"
+  - "[[Space Production]]"
   - "[[Governmentality]]"
   - "[[Knowledge Production]]"
-  - "[[Space Production in Higher Education]]"
+  - "[[Epistemic Coloniality]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Classical Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
@@ -82,9 +83,9 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 48
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "高等教育研究"
 ---
@@ -99,7 +100,7 @@ journal: "高等教育研究"
 > [!concept-lens] 阅读透镜
 > - **对象** 国际文献中高等教育地缘政治视角的发展脉络、关键议题和理论范式演化。
 > - **张力** 传统地缘政治（物质性、国家中心、空间为竞争容器）与新地缘政治（观念性、[[Constructivist Paradigm|建构主义]]、空间为社会建构）之间的本体论张力。
-> - **贡献** 首次在中文文献中系统整合空间、权力与高等教育的[[Analytic Framework|分析框架]]，将[[Epistemology|认识论]]治理、[[Infrastructures of (Im)mobility|流动基础设施]]、空间生产等概念引入高等教育研究体系。
+> - **贡献** 首次在中文文献中系统整合空间、权力与高等教育的[[Analytic Framework|分析框架]]，将[[Epistemology|认识论]]治理、[[Infrastructures of (Im)mobility|流动基础设施]]、[[Space Production|空间生产]]等概念引入高等教育研究体系。
 
 ---
 
@@ -109,7 +110,7 @@ journal: "高等教育研究"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **新地缘政治**<br>[[New Geopolitics]] | 将空间理解为流动的社会建构而非先验的自然容器；地缘政治不仅是国家[[Governmentality\|治理术]]，更是一种理解、叙述与组织世界的方式。用于分析高等教育如何通过[[Knowledge Production\|知识生产]]、话语建构和日常治理参与空间秩序塑造。 |
-> | **空间生产理论**<br>[[Space Production in Higher Education]] | 以列斐伏尔（H. Lefebvre）空间三元论为基础，结合哈维（D. Harvey）对资本空间化的分析和马西（D. Massey）对空间关系性的阐释。将高等教育理解为持续参与空间生产与空间治理的制度性实践，分析维度包括物质性、表征性和关系性。 |
+> | **空间生产理论**<br>[[Space Production]] | 以列斐伏尔（H. Lefebvre）空间三元论为基础，结合哈维（D. Harvey）对资本空间化的分析和马西（D. Massey）对空间关系性的阐释。将高等教育理解为持续参与空间生产与空间治理的制度性实践，分析维度包括物质性、表征性和关系性。 |
 > | **批判地缘政治**<br>[[Critical Geopolitics]] | 采取[[Constructivist Paradigm\|建构主义]]立场，解构显性权力对抗背后隐藏的合法性生产、问题界定与常识化过程。将知识明确置于地缘政治分析的中心位置，考察谁有资格生产知识和何种知识被视为普遍有效。 |
 > | **认识论殖民**<br>[[Epistemic Coloniality]] | 揭示全球知识体系以欧洲中心主义[[Epistemology\|认识论]]为基础，通过学术语言、量化评估标准和西方理论[[Paradigm\|范式]]构建排他性知识规则系统。用于分析排名、出版平台和科学语言如何维系[[Geopolitics of Knowledge\|知识地缘政治]]中的西方中心秩序。 |
 
@@ -226,7 +227,7 @@ journal: "高等教育研究"
 >
 >   近年来的转变深受以马西（D. Massey）、哈维（D. Harvey）等人为代表的英国人文地理学派的影响，发源于20世纪90年代的[[Critical Geopolitics|批判地缘政治]]理论成果开始被大量引入高等教育研究。这一取向提供的关键工具包括：
 >   - 多[[Scale in Higher Education|尺度分析]]视角
->   - 建构论分析工具（空间生产、想象地理等）
+>   - 建构论分析工具（[[Space Production|空间生产]]、想象地理等）
 >
 >   这些工具使得研究者能更为全面和系统地分析高等教育的地缘政治意义，在极大程度上丰富了高等教育研究的地缘政治议程（pp.5–6）。
 
@@ -312,7 +313,7 @@ journal: "高等教育研究"
 
 #### 认识论殖民的结构性基础
 
-> [!chain-link] 从认识论殖民（Epistemic Coloniality）到零点傲慢（Hubris of the Zero Point）：三重建构
+> [!chain-link] 从[[Epistemic Coloniality|认识论殖民]]（Epistemic Coloniality）到零点傲慢（Hubris of the Zero Point）：三重建构
 > - **认识论殖民** 米尼奥洛（W. Mignolo）与康奈尔（R. Connell）指出，全球知识体系长期以来以欧洲中心主义的认识论与方法论为基础，构建起一套隐性但有力的认识论殖民结构（Mignolo, 2000; Connell, 2007）。这一认识论结构不仅界定了哪些知识可以被看见、被接受、被引用，也在制度运作中固化了象征空间的等级边界（pp.7–8）。
 > - **零点傲慢** 特洛斯坦诺娃（M. Tlostanova）进一步指出，现代知识体系的普世合法性建立在零点傲慢之上，即假定知识可以脱离身体与地理背景而具备客观中立性，这种想象遮蔽了西方知识的特殊历史与地理根基（Tlostanova, 2015）。以英语为主导的学术语言、以量化指标为核心的评估标准以及以西方经验总结而成的理论范式，共同构成了一套具有高度排他性的知识规则系统（p.8）。
 > - **理论帝国主义** 康奈尔（R. Connell）认为西方社会科学研究者将其经验误作普遍规则，系统性地排斥了南方社会的实践路径与认知方式（Connell, 2007）。这一认知结构本质上是现代性与殖民性（modernity/coloniality）之一体两面的权力结构在认知层面的延续（Connell, 2014）（p.8）。
@@ -511,7 +512,7 @@ journal: "高等教育研究"
 > [!claim] 高等教育研究中基于社会空间理论整合的空间观可概括为物质性、表征性和关系性三个彼此嵌套的维度
 > 以列斐伏尔（H. Lefebvre）空间社会生产的三元论为基础（Lefebvre, 1991），结合哈维（D. Harvey）对资本、制度与权力如何空间化的分析（Harvey, 2001），以及马西（D. Massey）对空间关系性与生成性的阐释（Massey, 2005），高等教育被视为一种持续参与空间生产与空间治理的制度性实践（pp.12–13）。
 
-> [!dimension] [[Space Production in Higher Education|高等教育空间生产]]的三元维度：物质性（Spatial Materiality）、表征性（Spatial Representation）、关系性（Spatial Relationality）
+> [!dimension] [[Space Production|高等教育空间生产]]的三元维度：物质性（Spatial Materiality）、表征性（Spatial Representation）、关系性（Spatial Relationality）
 > - **空间物质性**
 >   参照索亚（E. Soja）对第一空间的界定，空间展现为可感知的、经验性的物质形式，即特定的地理布局与空间构型。这种物质性并非预设的中性物理容器，而是权力通过制度安排、资源配置与基础设施建设持续干预的结果。高等教育领域的体现包括：
 >     - 校园空间的安全治理与功能分区
@@ -548,7 +549,7 @@ journal: "高等教育研究"
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Geopolitics of Higher Education|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到地缘政治理论；近年来的自觉研究主动引入[[Critical Geopolitics|批判地缘政治]]和空间生产理论（pp.3–6）。
+> 1. **[[Geopolitics of Higher Education|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到地缘政治理论；近年来的自觉研究主动引入[[Critical Geopolitics|批判地缘政治]]和[[Space Production|空间生产]]理论（pp.3–6）。
 > 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从人力资本到[[Geopolitical Subject|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production|知识生产]]（[[Epistemology|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我[[Disciplina and Doctrina|规训]]三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of (Im)mobility|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power|软实力]]到[[Knowledge Diplomacy|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
 > 3. **传统地缘政治与[[New Geopolitics|新地缘政治]]在空间观、权力观和高等教育角色上存在根本性[[Ontology|本体论]]差异，但当代呈现复合嵌套形态** 传统[[Paradigm|范式]]将空间视为客观地理实体、权力体现为军事控制，新范式将空间视为社会建构、权力体现为知识与话语的空间秩序塑造能力。当代研究在吸收批判地缘政治成果的基础上重新纳入物质性与安全议题的分析（pp.11–13）。
 > 4. **空间生产三元维度（物质性、表征性、关系性）为整合分析提供框架** 该框架能够同时容纳传统地缘政治对物质权力的关切和新地缘政治对空间建构的分析，将高等教育空间实践分解为制度装置的物质布局、象征等级的合法性生产和行动者网络的动态协商三个彼此嵌套的维度（pp.12–13）。
@@ -563,7 +564,7 @@ journal: "高等教育研究"
 > [!citation-card]- 高等教育的能动角色
 > 将地缘政治视角引入高等教育研究，绝非简单地评估近期地缘政治事件对其的影响，也绝非将其窄化为国家间竞争的工具。相反，其可能的意义在于让我们意识到，既然高等教育始终嵌入多层的空间秩序之中，也不可避免地与其他地缘政治行动者进行互动，并不断重塑或生产着空间秩序，那么，与其思考能否和如何使其摆脱地缘政治，不如考虑在当前多极化和碎片化的世界中，高等教育可以和如何发挥自身的能动性，积极参与世界空间秩序的建构与重构，为全球共同善和构建人类命运共同体作出贡献。（p.13）
 
-> [!citation-card]- 空间生产的视角转换
+> [!citation-card]- [[Space Production|空间生产]]的视角转换
 > 在[[New Geopolitics|新地缘政治]]视角下，对空间的理解从先验的自然容器转向流动的社会建构。空间并不是政治活动的客观背景，而是经由命名、叙述、分类及治理等话语实践不断生产与重组的社会政治产物。地缘政治不仅是一种国家[[Governmentality|治理术]]，更是一种理解、叙述与组织世界的方式。（p.12）
 
 > [!citation-card]- [[Epistemology|认识论]]治理的制度机制
@@ -574,7 +575,7 @@ journal: "高等教育研究"
 ## 自述局限
 
 > [!warning]
-> 该文是一篇[[Literature Review|文献综述]]，主要基于国际英文[[Document|文献]]展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的空间生产三元维度[[Analytic Framework|分析框架]]尚属初步整合，其经验适用性和[[Operationalization|操作化]]路径有待后续研究进一步检验和完善。（p.13）
+> 该文是一篇[[Literature Review|文献综述]]，主要基于国际英文[[Document|文献]]展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production|空间生产]]三元维度[[Analytic Framework|分析框架]]尚属初步整合，其经验适用性和[[Operationalization|操作化]]路径有待后续研究进一步检验和完善。（p.13）
 
 ---
 

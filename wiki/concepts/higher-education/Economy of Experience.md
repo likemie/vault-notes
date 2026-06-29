@@ -6,7 +6,7 @@ aliases:
 summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

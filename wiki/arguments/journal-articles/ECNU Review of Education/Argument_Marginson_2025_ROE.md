@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Causality]]"
   - "[[Power-Geometries]]"
+  - "[[Space Production]]"
   - "[[Analytic Framework]]"
   - "[[Methodological Globalism]]"
   - "[[Hegemony]]"
@@ -98,7 +99,7 @@ citation_aliases:
 
 ### 空间制造分析框架：Lefebvre + Marginson
 
-在 Massey 的本体论基础上，Lefebvre(1991)的空间生产理论被进一步发展为高等教育的三维 空间制造 [[Analytic Framework|分析框架]](pp. 3–5)：
+在 Massey 的本体论基础上，Lefebvre(1991)的[[Space Production|空间生产]]理论被进一步发展为高等教育的三维 空间制造 [[Analytic Framework|分析框架]](pp. 3–5)：
 
 | 维度 | 内容 | 高等教育案例 |
 |------|------|-------------|
@@ -258,7 +259,7 @@ citation_aliases:
 
 - **国家-全球协同效应的多样性** 英美澳中以四种完全不同的机制实现国家与全球尺度的协同——美国靠博士人才虹吸，英国靠国际学费替代公共拨款，澳大利亚靠国际学生费用资助科研，中国靠持续增长的政府投资(pp. 17–20)
 - **1990 年后的霸权式全球化意外促进了多重性** 虽然这一时期在意识形态和制度层面带有新帝国主义和新殖民特征，但它也意外地扩大了非英美国家的能动性空间——新加坡、中国、韩国、法国、北欧国家等也在同一时期采取了各自的全球性举措(p. 15)
-- **2015 年后西方反弹的双重根源** （a）殖民秩序侵蚀和全球多重性增长（特别是中国和全球南方的崛起）引发的结构性焦虑；（b）新自由主义导致的欧美人口贫困化催生的分配性愤怒——两股力量共同推动了民粹政治的兴起(pp. 22–23)
+- **2015 年后西方反弹的双重根源（a）**殖民秩序侵蚀和全球多重性增长（特别是中国和全球南方的崛起）引发的结构性焦虑；（b）新自由主义导致的欧美人口贫困化催生的分配性愤怒——两股力量共同推动了民粹政治的兴起(pp. 22–23)
 
 > [!info]- 核心数据
 > - 2019 年，澳大利亚 32.4% 的学生支付商业性国际学费，贡献了 27.3% 的大学收入(Australian government, 2024)(p. 19)

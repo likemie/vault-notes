@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

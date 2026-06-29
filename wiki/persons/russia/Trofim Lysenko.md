@@ -5,7 +5,7 @@ summary: "苏联农学家，李森科主义（Lysenkoism）的创立者，在斯
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

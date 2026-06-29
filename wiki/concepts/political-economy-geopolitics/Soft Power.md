@@ -5,7 +5,7 @@ aliases:
 summary: "奈（J. Nye）提出的概念，指以吸引而非强制来塑造他者偏好的能力，通过文化、政治价值与被视作合法的外交政策维持和放大国际影响力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

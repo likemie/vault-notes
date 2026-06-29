@@ -7,7 +7,7 @@ aliases:
 summary: "起源于移民研究、由克莱伯特（J. Kleibert）引入跨境高等教育领域的概念，指制度性与空间性因素协同运作以引导、规训与筛选跨境流动的复合机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

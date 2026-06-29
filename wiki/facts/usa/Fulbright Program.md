@@ -8,9 +8,9 @@ summary: "1946年由美国参议员富布莱特推动设立的国际教育交流
 type: fact
 fact_region: "usa"
 fact_kind: "unknown"
-fact_related_count: 0
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#e5e7eb"
 tags:
   - fulbright-program

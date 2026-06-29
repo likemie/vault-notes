@@ -6,7 +6,7 @@ aliases:
 summary: "围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。"
 type: concept
 domain: "educational-technology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -5,7 +5,7 @@ aliases:
 summary: "奈特（J. Knight）提出的概念，指通过教育、研究与创新建立和强化国家间关系，立足互信互惠而非零和竞争，共同应对全球挑战的外交理念。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -3697,6 +3697,15 @@
     ]
   },
   {
+    "title": "Epistemic Coloniality",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
+    "aliases": [
+      "认识论殖民",
+      "认识论殖民性"
+    ]
+  },
+  {
     "title": "Fictitious Commodity of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Fictitious Commodity of Knowledge.md",
@@ -4227,12 +4236,12 @@
     ]
   },
   {
-    "title": "Space Production in Higher Education",
+    "title": "Space Production",
     "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Space Production in Higher Education.md",
+    "path": "wiki/concepts/political-economy-geopolitics/Space Production.md",
     "aliases": [
-      "高等教育空间生产",
-      "spatial production in higher education"
+      "空间生产",
+      "高等教育空间生产"
     ]
   },
   {

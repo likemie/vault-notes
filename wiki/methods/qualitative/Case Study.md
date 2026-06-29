@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"

@@ -57,7 +57,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

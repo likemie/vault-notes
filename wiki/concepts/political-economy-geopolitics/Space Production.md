@@ -6,7 +6,7 @@ aliases:
 summary: "以列斐伏尔空间三元论为基础的分析框架，将高等教育理解为持续参与空间生产与空间治理的制度性实践，从物质性、表征性和关系性三个嵌套维度考察其如何参与全球空间秩序建构"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

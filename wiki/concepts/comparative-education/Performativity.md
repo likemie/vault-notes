@@ -6,7 +6,7 @@ aliases:
 summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

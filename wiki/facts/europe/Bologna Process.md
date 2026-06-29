@@ -8,7 +8,7 @@ summary: "1999年由29个欧洲国家发起的高等教育改革进程，旨在�
 type: fact
 fact_region: "europe"
 fact_kind: "unknown"
-fact_related_count: 0
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#e5e7eb"
