@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fulbright",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,13 +192,16 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/ECO/Argument_Dezhina_2022_ECO.md",
+    "books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods.md",
+    "CLAUDE.md",
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods.pdf",
     "raw/13917319_高等院校教师教育公共课教材_教育研究方法（已优化）.pdf",
     "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy.md",
     "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
     "wiki/facts/usa/Fulbright Program.md",
     "wiki/concepts/higher-education/Internationalization of Higher Education.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
     "wiki/concepts/political-economy-geopolitics/Space Production.md",
     "wiki/concepts/political-economy-geopolitics/Geopolitics of Higher Education.md",
@@ -219,8 +221,6 @@
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
     "Pasted image 20260627161251.png",
     "Epistemic Coloniality.md",
-    "wiki/concepts/political-economy-geopolitics/Space Production in Higher Education.md",
-    "wiki/concepts/political-economy-geopolitics/New Geopolitics.md",
     "wiki/facts/usa",
     "scripts/__pycache__/citation_index.cpython-313.pyc",
     "sources/Yu_Xie_2025_JHE.pdf",
@@ -233,7 +233,6 @@
     "sources/Dezhina_2022_ECO/figures/page_43.png",
     "sources/Dezhina_2022_ECO/figures/page_40.png",
     "sources/Dezhina_2022_ECO/figures",
-    "sources/Dezhina_2022_ECO",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_EF_Brain_Development.jpg",
     "sources/Bolton_2017_ArchPsych/figures/Bolton_2017_ArchPsych_Fig1_Raw.png"
   ]
