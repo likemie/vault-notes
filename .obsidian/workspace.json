@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "15002ac7785f04db",
+            "id": "2417d331a7057eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -206,12 +206,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "15002ac7785f04db",
+  "active": "2417d331a7057eac",
   "lastOpenFiles": [
     "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+    "wiki/templates/template-theory.md",
+    "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
+    "wiki/templates/template-concept.md",
     "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
     "wiki/concepts/political-economy-geopolitics/Space Production.md",
     "Pasted image 20260627161251.png",
@@ -233,9 +236,6 @@
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Moisio_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch13_Thompson_2022.md",
-    "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
     "scripts/__pycache__/citation_index.cpython-313.pyc",
     "sources/Yu_Xie_2025_JHE.pdf",
     "wiki/arguments/journal-articles/Journal of Higher Education",
