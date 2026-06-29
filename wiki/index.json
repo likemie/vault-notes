@@ -3846,6 +3846,16 @@
     ]
   },
   {
+    "title": "Infrastructures of (Im)mobility",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Infrastructures of (Im)mobility.md",
+    "aliases": [
+      "流动基础设施",
+      "流动不流动基础设施",
+      "流动与不流动基础设施"
+    ]
+  },
+  {
     "title": "Innovation Models Evolution",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Innovation Models Evolution.md",
@@ -3876,6 +3886,14 @@
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md",
     "aliases": [
       "知识资本主义"
+    ]
+  },
+  {
+    "title": "Knowledge Diplomacy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Knowledge Diplomacy.md",
+    "aliases": [
+      "知识外交"
     ]
   },
   {
@@ -4179,6 +4197,14 @@
       "汉化",
       "中国化",
       "sinicization"
+    ]
+  },
+  {
+    "title": "Soft Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Soft Power.md",
+    "aliases": [
+      "软实力"
     ]
   },
   {
@@ -11463,6 +11489,16 @@
     ]
   },
   {
+    "title": "Bologna Process",
+    "type": "fact",
+    "path": "wiki/facts/europe/Bologna Process.md",
+    "aliases": [
+      "博洛尼亚进程",
+      "博洛尼亚宣言",
+      "Bologna Declaration"
+    ]
+  },
+  {
     "title": "SveaSus Project",
     "type": "fact",
     "path": "wiki/facts/finland/SveaSus Project.md",
@@ -13287,6 +13323,16 @@
       "旧金山湾区",
       "科技湾区",
       "Silicon Valley Bay Area"
+    ]
+  },
+  {
+    "title": "Fulbright Program",
+    "type": "fact",
+    "path": "wiki/facts/usa/Fulbright Program.md",
+    "aliases": [
+      "富布莱特计划",
+      "富布赖特计划",
+      "富布莱特项目"
     ]
   },
   {
